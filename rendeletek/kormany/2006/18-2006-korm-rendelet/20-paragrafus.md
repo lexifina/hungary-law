@@ -2,7 +2,7 @@
 
 (2) Egy külső védelmi terv készül abban az esetben is, ha az adott települést több felső küszöbértékű veszélyes ipari üzem veszélyeztető hatásai érhetik.
 
-(3) A külső védelmi tervről, annak elkészítése során az illetékes hivatásos önkormányzati tűzoltóság, a mentőszolgálat, a rendőrség, az Állami Népegészségügyi és Tisztiorvosi Szolgálat megyei (fővárosi) intézete, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, valamint az üzemeltető véleményt nyilvánít.
+(3)[^21] A külső védelmi tervről, annak elkészítése során az illetékes hivatásos önkormányzati tűzoltóság, a mentőszolgálat, a rendőrség, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv), az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, valamint az üzemeltető véleményt nyilvánít.
 
 (4) A külső védelmi terv a külön jogszabályban meghatározott települési veszélyelhárítási terv része.
 
@@ -11,3 +11,5 @@
 (6) A külső védelmi tervet legalább háromévente, illetve az új vagy módosított biztonsági jelentés hatóság által történő elfogadását követően felül kell vizsgálni. Amennyiben a külső védelmi terv jelentős módosítása szükséges, a módosításra vonatkozó koncepciót el kell készíteni, és a 17. § szerint közzé kell tenni.
 
 (7) A külső védelmi tervben végrehajtott módosítást jegyzőkönyvben kell rögzíteni, és a jegyzőkönyvet a hatóságnak egyetértés céljából haladéktalanul meg kell küldeni. A hatóság a területi szerve útján a változtatásokról tájékoztatja a (3) bekezdésben felsoroltakat.
+
+[^21]: A 20. § (3) bekezdése a 351/2010. Korm. rendelet 142. § b) pontja szerint módosított szöveg.

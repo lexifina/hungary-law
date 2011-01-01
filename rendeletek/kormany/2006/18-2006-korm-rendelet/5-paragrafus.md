@@ -1,4 +1,4 @@
-## 4/B. §[^5] A szakhatóság felügyeleti tevékenysége keretében ellenőrzi a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése és az ellenük való védekezés engedélyezési és felügyeleti eljárásaiban az 5. melléklet 1. pont 1.3. alpontjában meghatározottak teljesülését.
+## 4/C. §[^8] Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
 ## II.
 
@@ -6,4 +6,4 @@
 
 ## A VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESET VESZÉLYÉNEK AZONOSÍTÁSA, ÉRTÉKELÉSE, A BIZTONSÁGI RENDSZER
 
-[^5]: A 4/B. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (11) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^8]: A 4/C. §-t a 351/2010. (XII. 30.) Korm. rendelet 143. §-a iktatta be.

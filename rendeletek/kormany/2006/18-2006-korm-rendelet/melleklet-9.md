@@ -48,7 +48,7 @@
 
 ## 5. A lakossági tájékoztató kiadvány tartalmazza a hatóság és a szakhatóság elérhetőségi adatait, beleértve a hatósági elektronikus tájékoztató rendszer címét.
 
-## 6.[^24] A biztonsági jelentés, illetve a biztonsági elemzés közzétételéről és a közmeghallgatásról szóló hirdetmény tartalma:
+## 6.[^31] A biztonsági jelentés, illetve a biztonsági elemzés közzétételéről és a közmeghallgatásról szóló hirdetmény tartalma:
 
 ## a) a veszélyes ipari üzem telepítési vagy működési helye, a veszélyes tevékenység rövid leírása;
 
@@ -56,7 +56,7 @@
 
 ## c) arról szóló felhívás, hogy a biztonsági jelentéssel, illetve biztonsági elemzéssel kapcsolatosan a település jegyzőjénél írásbeli észrevételeket lehet tenni, megadva annak végső határidejét;
 
-## d)[^25] a polgármester a veszélyes ipari üzemmel kapcsolatosan hol és mikor tart közmeghallgatást.
+## d)[^32] a polgármester a veszélyes ipari üzemmel kapcsolatosan hol és mikor tart közmeghallgatást.
 
 9. melléklet a 18/2006. (I. 26.) Korm. rendelethez
 
@@ -106,5 +106,5 @@ b) a veszélyes ipari üzem területén kívül bekövetkezett anyagi kár megha
 
 5. Ha a veszélyes anyagokkal kapcsolatos súlyos baleset államhatáron túli hatásokat okozott.
 
-[^24]: A 8. melléklet 6. pontja a 182/2009. (IX. 10.) Korm. rendelet 445. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 8. melléklet 6. pont d) alpontja a 182/2009. (IX. 10.) Korm. rendelet 445. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: A 8. melléklet 6. pontja a 182/2009. (IX. 10.) Korm. rendelet 445. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 8. melléklet 6. pont d) alpontja a 182/2009. (IX. 10.) Korm. rendelet 445. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

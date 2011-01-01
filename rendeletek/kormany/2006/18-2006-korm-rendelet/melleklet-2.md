@@ -138,9 +138,9 @@
 
 ## Olyan ammónium-nitrát alapú összetett/komplex műtrágyákra vonatkozik (ammónium-nitrát mellett foszfátot és/vagy kálisót tartalmaznak), amelyekben az ammónium-nitrátból származó nitrogéntartalom
 
-## a) 15,75[^19] tömegszázaléknál nagyobb, de nem több, mint 24,5[^20] tömegszázalék, és/vagy amelynek a teljes éghető/szervesanyag tartalma a 0,4%-ot nem haladja meg, vagy amely eleget tesz a külön jogszabályban előírt követelményeknek,
+## a) 15,75[^26] tömegszázaléknál nagyobb, de nem több, mint 24,5[^27] tömegszázalék, és/vagy amelynek a teljes éghető/szervesanyag tartalma a 0,4%-ot nem haladja meg, vagy amely eleget tesz a külön jogszabályban előírt követelményeknek,
 
-## b) 15,75[^21] tömegszázalék vagy annál kevesebb (az éghetőanyag tartalom korlátozása nélkül),
+## b) 15,75[^28] tömegszázalék vagy annál kevesebb (az éghetőanyag tartalom korlátozása nélkül),
 
 ## és amelyek az ENSZ „Ajánlások a veszélyes áruk szállítására, Vizsgálatok és kritériumok kézikönyv” III. rész, 38.2 fejezete szerinti teknős vizsgálat alapján önfenntartó lebomlásra képesek.
 
@@ -152,7 +152,7 @@
 
 ## b) 24,5 tömegszázaléknál nagyobb (kivéve a dolomittal, mészkővel és/vagy kalcium-karbonáttal képzett, legalább 90%-os tisztaságú ammónium-nitrát keverékeket),
 
-## c) 28[^22] tömegszázaléknál nagyobb (dolomittal, mészkővel és/vagy kalcium-karbonáttal képzett, legalább 90%-os tisztaságú ammónium-nitrát keverékek esetében),
+## c) 28[^29] tömegszázaléknál nagyobb (dolomittal, mészkővel és/vagy kalcium-karbonáttal képzett, legalább 90%-os tisztaságú ammónium-nitrát keverékek esetében),
 
 ## és amelyek megfelelnek a külön jogszabályban[^*] előírt követelményeknek.
 
@@ -318,8 +318,8 @@
 
 2. melléklet a 18/2006. (I. 26.) Korm. rendelethez
 
-[^19]: Ammónium-nitrátból származó 15,75 tömegszázalék nitrogéntartalom megfelel 45 % ammónium-nitrátnak.
-[^20]: Ammónium-nitrátból származó 24,5 tömegszázalék nitrogéntartalom megfelel 70 % ammónium-nitrátnak.
-[^21]: Ammónium-nitrátból származó 15,75 tömegszázalék nitrogéntartalom megfelel 45 % ammónium-nitrátnak.
-[^22]: Ammónium-nitrátból származó 28 tömegszázalék nitrogéntartalom megfelel 80 % ammónium-nitrátnak.
+[^26]: Ammónium-nitrátból származó 15,75 tömegszázalék nitrogéntartalom megfelel 45 % ammónium-nitrátnak.
+[^27]: Ammónium-nitrátból származó 24,5 tömegszázalék nitrogéntartalom megfelel 70 % ammónium-nitrátnak.
+[^28]: Ammónium-nitrátból származó 15,75 tömegszázalék nitrogéntartalom megfelel 45 % ammónium-nitrátnak.
+[^29]: Ammónium-nitrátból származó 28 tömegszázalék nitrogéntartalom megfelel 80 % ammónium-nitrátnak.
 [^*]: 80/876/EGK irányelv II. melléklete, jelenleg a termésnövelő anyagok engedélyezéséről, tárolásáról és felhasználásáról szóló 8/2001. (I. 26.) FVM rendelet.

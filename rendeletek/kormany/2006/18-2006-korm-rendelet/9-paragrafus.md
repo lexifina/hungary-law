@@ -4,8 +4,8 @@
 
 (2) Amennyiben a hatóság a felmentésre vonatkozó kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést vagy biztonsági elemzést a felmentésben szereplő korlátozott tartalommal nyújthatja be.
 
-(3)[^8] A hatóság a felmentési kérelem elbírálásához az üzemeltetőtől kiegészítő információkat kérhet.
+(3)[^11] A hatóság a felmentési kérelem elbírálásához az üzemeltetőtől kiegészítő információkat kérhet.
 
 (4) A hatóság által – a felmentési kérelemre – kiadott határozat tartalmazza, hogy a felmentés milyen anyagra és a veszélyes ipari üzem melyik létesítményére vonatkozik. Az előbbieken kívül tartalmazza továbbá, hogy a felmentés alkalmazása esetén mely részeiben korlátozható a biztonsági jelentés vagy biztonsági elemzés tartalma.
 
-[^8]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 446. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 446. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

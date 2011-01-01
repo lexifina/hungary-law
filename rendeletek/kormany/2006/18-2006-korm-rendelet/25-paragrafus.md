@@ -8,8 +8,10 @@
 
 (3) A veszélyes ipari üzem veszélyességi övezete határainak kijelölését, vagy azok módosítását követően a hatóság megvizsgálja a veszélyeztetett települések településrendezési tervét. Amennyiben a településrendezési tervben nem vették kellő mértékben figyelembe a veszélyességi övezetben lehetségesen fellépő károsító hatásokat, úgy a hatóság erre felhívja a polgármester figyelmét, és javasolja a szükséges intézkedések megtételét.
 
-(4) A veszélyességi övezetben az 5. melléklet 2.2. pontjához tartozó táblázat C., valamint D. soraiban szereplő fejlesztések esetén állásfoglalás kialakítására a polgármester kezdeményezésére a hatóság bizottságot hoz létre a szakhatóság, az Állami Népegészségügyi és Tisztiorvosi Szolgálat, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, továbbá a veszélyes ipari üzem és a fejlesztéssel érintett települési önkormányzat képviselőiből. A bizottság elnöke a polgármester, a részt vevő települési önkormányzati képviselők számáról és személyéről az érintett önkormányzat képviselő-testülete dönt.
+(4)[^22] A veszélyességi övezetben az 5. melléklet 2.2. pontjához tartozó táblázat C., valamint D. soraiban szereplő fejlesztések esetén állásfoglalás kialakítására a polgármester kezdeményezésére a hatóság bizottságot hoz létre a szakhatóság, a megyei népegészségügyi szakigazgatási szerv, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, továbbá a veszélyes ipari üzem és a fejlesztéssel érintett települési önkormányzat képviselőiből. A bizottság elnöke a polgármester, a részt vevő települési önkormányzati képviselők számáról és személyéről az érintett önkormányzat képviselő-testülete dönt.
 
 (5) A veszélyességi övezetben az 5. melléklet 2.2. pontjához tartozó táblázat A. és B., valamint E. soraiban szereplő fejlesztések esetén a hatóság ad állásfoglalást.
 
 (6) A hatóság, illetve a bizottság az 5. mellékletben meghatározott szempontok figyelembevételével hozza meg állásfoglalását a veszélyességi övezetben tervezett fejlesztésekről.
+
+[^22]: A 25. § (4) bekezdése a 351/2010. Korm. rendelet 142. § c) pontja szerint módosított szöveg.

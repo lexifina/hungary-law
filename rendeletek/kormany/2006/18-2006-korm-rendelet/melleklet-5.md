@@ -50,6 +50,6 @@
 
 ## 2. Az üzemeltető a felmentés iránti kérelmet úgy küldi meg a hatóságnak, hogy annak vizsgálatára és elbírálására, esetleges kiegészítésére elegendő idő álljon a hatóság, illetve a kérelmező rendelkezésére. Ha a hatóság a kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést, illetőleg biztonsági elemzést a felmentésre vonatkozó korlátozott tartalommal nyújthatja be. A kérelem elutasítása esetén az üzemeltetőnek teljes tartalmú biztonsági jelentést, illetőleg biztonsági elemzést kell előírt határidőig benyújtania.
 
-5. melléklet a 18/2006. (I. 26.) Korm. rendelethez[^23]
+5. melléklet a 18/2006. (I. 26.) Korm. rendelethez[^30]
 
-[^23]: Az 5. melléklet a 362/2008. (XII. 31.) Korm. rendelet 27. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 445–446. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: Az 5. melléklet a 362/2008. (XII. 31.) Korm. rendelet 27. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 445–446. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
