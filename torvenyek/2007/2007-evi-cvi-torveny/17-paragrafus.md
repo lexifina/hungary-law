@@ -6,7 +6,7 @@
 
 17. § (1) Az MNV Zrt.:
 
-a) előkészíti és végrehajtja a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
+a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 
 b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a 3. § (1) bekezdése alapján a miniszter által vagy külön törvény alapján gyakorolt, valamint a 3. § (2) bekezdése alapján jogszabály útján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
 
@@ -16,7 +16,7 @@ d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek,
 
 e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli a Magyar Államot,
 
-f) ellenőrzi az értékesítési szerződésekben foglalt, a vevők által vállalt kötelezettségek teljesítését,
+f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 
 g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
 

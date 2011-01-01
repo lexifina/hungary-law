@@ -14,7 +14,7 @@ f)–g)
 
 h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
-(2) A Kormány 2008. december 31-ig jelentést terjeszt az Országgyűlés elé az ÁPV Zrt. és jogelődei – mint a privatizáció lebonyolítására létrehozott célszervezetek – tevékenységéről és a teljes privatizációs folyamatról.
+(2)
 
 ## Melléklet a 2007. évi CVI. törvényhez
 

@@ -1,4 +1,4 @@
-30. § (1) Az MNV Zrt. az állami tulajdonú gazdasági társaságoknál és más gazdálkodó szervezeteknél köteles érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
+30. § (1) A Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek a tulajdonosi joggyakorlásuk alá tartozó gazdasági társaságoknál és más gazdálkodó szervezeteknél kötelesek érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
 
 (2)–(4)
 
@@ -6,4 +6,4 @@
 
 (6)
 
-(7) A (2) bekezdés rendelkezéseit nem kell alkalmazni jogszabály alapján kizárólag készfizető kezességvállalással foglalkozó részvénytársaság esetén.
+(7)

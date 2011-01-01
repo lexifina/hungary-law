@@ -8,4 +8,4 @@ c) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. tör
 
 lép.
 
-(2) E törvény hatálybalépésével egyidejűleg a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 86. §-ának (1) bekezdésében a „kincstári vagyoni körbe tartozó” szövegrész, valamint 89. §-ának (1) bekezdésében az „és a kincstári vagyon részét képezik” szövegrész hatályát veszti.
+(2)

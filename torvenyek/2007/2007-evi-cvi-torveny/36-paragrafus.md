@@ -14,10 +14,12 @@ e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az á
 
 f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
 
-(3) A (2) bekezdés szerinti ingyenes átruházásról a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
+(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6) bekezdésen foglalt kivétellel – a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
 
 (4) A (2) bekezdés c) és d) pontja alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 
 (5) Az MNV Zrt. az állam mint törvényes örökös nevében az öröklésről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat javára, ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat.
 
-(6) A (2)–(5) bekezdésben megjelölt vagyonátadás illetékmentes.
+(6) Az MNV Zrt. Igazgatósága jogosult dönteni az évente önkormányzatonként 10 millió Ft nyilvántartási értéket meg nem haladó értékű ingóságok helyi önkormányzat részére történő tulajdonba adásáról a (2) bekezdés c) pontjában meghatározott célokra. Az MNV Zrt. Igazgatósága köteles az ingóság átadásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+
+(7) A (2)–(6) bekezdésben megjelölt vagyonátadás illetékmentes.

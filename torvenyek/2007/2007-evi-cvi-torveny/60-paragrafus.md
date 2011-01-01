@@ -1,6 +1,6 @@
 60. § (1) Az ÁPV Zrt. 2007. december 31-én megszűnik, jogai és kötelezettségei ezen időponttól az MNV Zrt.-re szállnak. A jogok és kötelezettségek átszállása nem minősül az ÁPV Zrt. által kötött szerződések módosításának. Az ÁPV Zrt.-vel szembeni követelések a jogutódlás szempontjából biztosítékokkal ellátott követeléseknek minősülnek.
 
-(2) Az ÁPV Zrt. a cégjegyzékből való – a pénzügyminiszter kérelmére 2007. december 31-i hatállyal történő – törléssel szűnik meg.
+(2)
 
 (3) Az ÁPV Zrt. munkavállalóinak az MNV Zrt.-nél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 

@@ -12,7 +12,7 @@
 
 a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos irányelvekre vonatkozó javaslat kialakítása a miniszter részére,
 
-b) döntés az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
+b) az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
 
 c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, illetve megterheléséről, ha az ügylet rendelkezésre álló értéke (aktualizált nyilvántartási érték, értékbecslés, ajánlati ár, szerződéses ár) eléri vagy meghaladja az 500 millió forintot, vagy – a központi költségvetési szervek javára történő hasznosítás kivételével – a hasznosítás határozott időtartamra szól és az meghaladja a 10 évet,
 
