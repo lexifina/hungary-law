@@ -10,7 +10,7 @@ b) kiegészítő normatív támogatást nyújt a kisebbségi óvodai neveléshez
 
 c) a kisebbségek oktatási és kulturális önigazgatása körében a VI. fejezetben (42–50. §-ban) meghatározott támogatásokat ad,
 
-d) támogatja az 55/A. § szerinti Közalapítványt, valamint a kisebbségi társadalmi szervezetek működését.
+d) támogatást nyújt a hazai kisebbségek önazonosságának megőrzéséhez, hagyományai gondozásához, átörökítéséhez, az anyanyelv ápolásához, fejlesztéséhez, szellemi és tárgyi emlékeik fennmaradásához.
 
 (2) Az országos önkormányzatok által működtetett intézmények a 47. § (10) és (11) bekezdése, a 49/C. § (3) bekezdése kivételével normatív állami hozzájárulás tekintetében a humán szolgáltatást ellátó egyházi intézményekkel azonos elbírálás alá esnek.
 
@@ -20,6 +20,6 @@ d) támogatja az 55/A. § szerinti Közalapítványt, valamint a kisebbségi tá
 
 (5) Az (1) bekezdés a) pontja szerinti támogatásra a kisebbségi önkormányzat testületi határozatban meghatározott kisebbségi közügy ellátása esetén jogosult.
 
-(6) A hazai kisebbségek önazonosságának megőrzését, hagyományai gondozását, átörökítését, az anyanyelv ápolását, fejlesztését, szellemi és tárgyi emlékeik fennmaradását, a kisebbségi létből fakadó kulturális és politikai hátrányok mérséklését szolgáló tevékenységek támogatása céljából közalapítványt kell létrehozni.
+(6)
 
-(7) A közalapítvány támogatási tevékenysége a kisebbségi célú állami finanszírozás rendszerének része.
+(7)

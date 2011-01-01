@@ -10,4 +10,4 @@ d) a képviselt kisebbségek csoportjait érintő kérdésekben közigazgatási 
 
 e) közreműködik a hatáskörrel és illetékességgel rendelkező állami szervekkel az általa képviselt kisebbségek alap-, közép- és felsőfokú kisebbségi oktatásának szakmai ellenőrzésében.
 
-(2) A kisebbség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a kisebbséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok egyetértése szükséges.
+(2) A kisebbség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a kisebbséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges.

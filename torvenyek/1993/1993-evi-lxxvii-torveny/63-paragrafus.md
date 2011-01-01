@@ -2,7 +2,7 @@
 
 (2) A költségvetési törvényben az országos kisebbségi önkormányzatok támogatására megállapított előirányzatok évközi módosítása az Országgyűlés kizárólagos hatáskörébe tartozik.
 
-(3) A költségvetési törvény az országos önkormányzatok költségvetését az Országgyűlés fejezetében állapítja meg, ezen belül elkülönítve az országos kisebbségi önkormányzatok által részben vagy egészben fenntartott intézmények központi költségvetési támogatását.
+(3) A költségvetési törvény a kisebbségpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében állapítja meg az országos önkormányzat és az országos kisebbségi önkormányzat fenntartásában lévő intézmények központi költségvetési támogatását.
 
 (4)
 

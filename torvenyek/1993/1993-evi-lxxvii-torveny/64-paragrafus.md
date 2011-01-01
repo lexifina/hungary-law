@@ -10,4 +10,4 @@ a) a kisebbségi önkormányzatok gazdálkodásának, beszámolókészítéséne
 
 b) a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások (általános működési támogatás és feladatalapú támogatás) feltételrendszerét és elszámolásának rendjét.
 
-(6)
+(6) Felhatalmazást kap a kisebbségpolitikáért felelős miniszter, hogy rendeletben szabályozza a kisebbségi közoktatásban részt vevő tanulók számára nyújtható ösztöndíj mértékét, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének szabályait.

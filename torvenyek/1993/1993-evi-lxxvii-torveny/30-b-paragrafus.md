@@ -12,4 +12,4 @@ c) az átvevő tudomásul veszi, hogy az átadó – ha a feladat ellátása neh
 
 d) az átadó és az átvevő tudomásul veszi, hogy ha bármely okból ellehetetlenül a megállapodás tárgyát képező kötelező önkormányzati feladat- és hatáskör ellátása, a hatáskört az a területileg illetékes helyi önkormányzat gyakorolja tovább, amely a jogszabály előírásai szerint köteles azt ellátni.
 
-(4) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a közigazgatási hivatal a felek kezdeményezésétől számított 15 munkanapon belül egyeztetést tart. Ha az egyeztetés során 30 munkanapon belül nem jön létre megegyezés, a közigazgatási hivatal a törvényességi ellenőrzési jogkörében jár el.
+(4) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a felek kezdeményezésétől számított 15 munkanapon belül egyeztetést tart. Ha az egyeztetés során 30 munkanapon belül nem jön létre megegyezés, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzési jogkörében jár el.

@@ -2,7 +2,7 @@
 
 a) kétévente legalább egy alkalommal áttekinti a Magyar Köztársaság területén élő kisebbségek helyzetét, és arról az Országgyűlésnek beszámol,
 
-b) a helyi önkormányzatokért felelős miniszter közreműködésével, a közigazgatási hivatal útján biztosítja a kisebbségi önkormányzatok törvényességi ellenőrzését,
+b) a közigazgatási hivatal útján biztosítja a kisebbségi önkormányzatok törvényességi ellenőrzését,
 
 c) javaslatot terjeszt az Alkotmánybírósághoz az Alkotmánnyal ellentétesen működő kisebbségi önkormányzati testület feloszlatására,
 

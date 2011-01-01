@@ -14,7 +14,7 @@ b) a közhatalmat gyakorló állami és helyi önkormányzati szervekben, továb
 
 5. megfelelő színvonalon való további gondoskodás: az intézmény fenntartói jogának a kisebbségi önkormányzat által történő átvétele nem eredményezi az átvétel előtti szolgáltatások színvonalának romlását, a rendelkezésre álló személyi és tárgyi feltételek csökkenését,
 
-6. kisebbségi tömegtájékoztatás: a kisebbségi közösség tájékoztatását, művelődését, kulturális autonómiájának megőrzését, kiterjesztését szolgáló, az írott vagy elektronikus sajtóban (televízióban, rádióban) rendszeresen vagy időszakonként biztosított híradás, műsorszolgáltatás, függetlenül attól, hogy a tömegtájékoztatást végző sajtószervet valamely kisebbségi szervezet működteti, vagy a szolgáltatást a közszolgálati média – külön törvényben meghatározottak szerint – illetőleg közszolgáltatási szerződés alapján más szolgáltatók nyújtják,
+6. kisebbségi tömegtájékoztatás: a kisebbségi közösség tájékoztatását, művelődését, kulturális autonómiájának megőrzését, kiterjesztését szolgáló, az írott vagy elektronikus sajtóban (televízióban, rádióban) rendszeresen vagy időszakonként biztosított híradás, médiaszolgáltatás, függetlenül attól, hogy a tömegtájékoztatást végző sajtószervet valamely kisebbségi szervezet működteti, vagy a szolgáltatást a közszolgálati média – külön törvényben meghatározottak szerint – illetőleg közszolgáltatási szerződés alapján más szolgáltatók nyújtják,
 
 7. hivatalos okmány: külön jogszabály által személyazonosító okmánynak minősített okmány.
 

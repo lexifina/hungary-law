@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-77-00-00
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1993-77-00-00.16 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 1993-77-00-00.17 |
 | 2010-06-29 | 2010. évi LXII. törvény | 1993-77-00-00.18 |
+| 2011-01-01 | 2010. évi CXXVI. törvény | 1993-77-00-00.19 |

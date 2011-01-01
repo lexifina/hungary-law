@@ -40,7 +40,9 @@ s) sajtóközlemények közzétételéről,
 
 t) a kisebbségi utónévjegyzék összeállításáról, a kisebbségi utónévvel kapcsolatos megkeresésekről,
 
-u) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
+u) kisebbségi médiumoknak az e törvény 63. § (3) bekezdése szerinti országos kisebbségi önkormányzati állami támogatásból történő támogatásáról,
+
+v) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
 
 (2) A helyi önkormányzat képviselő-testülete a feladat- és hatáskörét – a hatósági, valamint a közüzemi szolgáltatásokkal összefüggő feladat- és hatáskörök kivételével – az országos önkormányzat testületére, annak kezdeményezésére külön megállapodás alapján köteles átruházni, ha a kezdeményező önkormányzat az átruházott feladat- és hatáskörében eljárva kisebbségi közügyet lát el, és a feladat ellátásához a jogszabályban meghatározott feltételeket biztosítani tudja.
 
