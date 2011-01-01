@@ -178,4 +178,4 @@
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^30]
 
-[^30]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a szerint módosított szöveg. [Ez utóbbi módosító rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]

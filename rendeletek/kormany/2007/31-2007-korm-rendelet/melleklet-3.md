@@ -42,9 +42,9 @@
 
 | 20. | FÖMI | Parlagfű-veszélyeztetettség | 4.5. | évente | település | március 1. |
 
-| 21. | FSzH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
+| 21. | FH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
 
-| 22. | FSzH | Kistérségi foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | kistérség | frissítést követő 30. nap |
+| 22. | FH | Kistérségi foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | kistérség | frissítést követő 30. nap |
 
 | 23. | FVM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -140,25 +140,25 @@
 
 | 69. | Meteorológia | Éghajlati adottságok (hótakarásos napok száma) | 4.7. | frissítést követően | ország | frissítést követő 90. nap |
 
-| 70. | MgSzH Központ | Erdővel borított területet jelző 1:50000 méretaránynak megfelelő digitális pontosságú térképi fedvény | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
+| 70. | MgSzH | Erdővel borított területet jelző 1:50000 méretaránynak megfelelő digitális pontosságú térképi fedvény | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
 
-| 71. | MgSzH Központ | Erdősítési adatok | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 71. | MgSzH | Erdősítési adatok | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 72. | MgSzH Központ | Erdőterület nagysága | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 72. | MgSzH | Erdőterület nagysága | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 73. | MgSzH Központ | Élőfa-készlet | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 73. | MgSzH | Élőfa-készlet | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 74. | MgSzH Központ | Égett erdőterület | 4.6. | frissítést követően | megye | frissítést követő 90. nap |
+| 74. | MgSzH | Égett erdőterület | 4.6. | frissítést követően | megye | frissítést követő 90. nap |
 
-| 75. | MgSzH Központ | Levélvesztés | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
+| 75. | MgSzH | Levélvesztés | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
 
-| 76. | MgSzH Központ | Az erdők egészségi állapota az összes kár tekintetében | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
+| 76. | MgSzH | Az erdők egészségi állapota az összes kár tekintetében | 4.6. | frissítést követően | ország | frissítést követő 90. nap |
 
-| 77. | MgSzH Központ | Erdőtelepítések területe (beleértve a tárgyévben befejezetteket is) | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 77. | MgSzH | Erdőtelepítések területe (beleértve a tárgyévben befejezetteket is) | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 78. | MgSzH Központ | Folyamatos erdőborítást biztosító erdőgazdálkodással érintett erdőterület | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 78. | MgSzH | Folyamatos erdőborítást biztosító erdőgazdálkodással érintett erdőterület | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 79. | MgSzH Központ | Erdőterület az erdő első rendeltetése szerint | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 79. | MgSzH | Erdőterület az erdő első rendeltetése szerint | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
 | 80. | MNB | Utasforgalmi export az MNB fizetési mérlegében | 1.3.5. | évente vagy frissítést követően | ország | frissítést követő 90. nap |
 
@@ -204,7 +204,7 @@
 
 | 101. | OH | Felsőoktatási intézmények | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 102. | OMMF | Munkaügyi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 102. | Kormányhivatal | Munkaügyi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 103. | OMMF | Munkavédelmi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -264,7 +264,7 @@
 
 | 6. | Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. | Energia Központ |
 
-| 7. | Foglalkoztatási és Szociális Hivatal | FSzH |
+| 7. | Foglalkoztatási Hivatal | FH |
 
 | 8. | FGSZ Földgázszállító Zrt. | FGSZ |
 
@@ -298,13 +298,13 @@
 
 | 23. | Magyar Nemzeti Bank | MNB |
 
-| 24. | Magyar Szabadalmi Hivatal | MSZH |
+| 24. | Szellemi Tulajdon Nemzeti Hivatala | SZTNH |
 
 | 25. | Magyar Tudományos Akadémia Talajtani és Agrokémiai Kutatóintézete | MTA-TAKI |
 
 | 26. | Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt. | MAVIR |
 
-| 27. | Mezőgazdasági Szakigazgatási Hivatal Központ | MgSzH Központ |
+| 27. | Mezőgazdasági Szakigazgatási Hivatal | MgSzH |
 
 | 28. | MOL Magyar Olaj- és Gázipari Nyrt. | MOL |
 
