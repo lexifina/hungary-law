@@ -16,7 +16,8 @@
 
 (7) A bontás során kinyert, elkülönített anyagok és alkatrészek a vonatkozó előírásoknak megfelelően, a 6. § szerinti gyártói kötelezettségek és a hasznosítási arányok teljesítése érdekében az arra külön jogszabály szerinti jogosultnak adhatók át újrahasználatra, hasznosításra vagy ártalmatlanításra.
 
-(8) A bontó vagy a nevében eljáró hulladékkezelő – az 5. § (1) bekezdés c) pontjában meghatározott rendszerbe tartozók kivételével – a hulladékká vált járművek átvételéről, bontásáról és további kezelésre történő átadásáról köteles a Közlekedési Felügyeletet és a környezetvédelmi hatóságokat a szerződésben foglaltaknak, illetve a külön jogszabályoknak és e rendelet 1–3. számú mellékletének megfelelően tájékoztatni.
+(8)[^22] A bontó vagy a nevében eljáró hulladékkezelő – az 5. § (1) bekezdés c) pontjában meghatározott rendszerbe tartozók kivételével – a hulladékká vált járművek átvételéről, bontásáról és további kezelésre történő átadásáról köteles a közlekedési hatóságot és a környezetvédelmi hatóságokat a szerződésben foglaltaknak, illetve a külön jogszabályoknak és e rendelet 1–3. számú mellékletének megfelelően tájékoztatni.
 
 [^20]: A 7. § a 286/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 12. § (2) bekezdését.
 [^21]: Lásd: 1/1990. (IX. 29.) KHVM rendelet, 98/2001. (VI. 15.) Korm. rendelet.
+[^22]: A 7. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 126. §-a szerint módosított szöveg.

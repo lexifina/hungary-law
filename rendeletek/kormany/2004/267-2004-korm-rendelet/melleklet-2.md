@@ -168,6 +168,6 @@
 
 ## U– új bejelentés.
 
-2. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^46]
+2. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^47]
 
-[^46]: A 2. számú melléklet a 286/2006. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^47]: A 2. számú melléklet a 286/2006. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
