@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotó hatáskörében, az Alkotmány 40. §-ának (3) bekezdésében foglalt feladatkörében eljárva, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következő rendeletet alkotja:
