@@ -1,3 +1,0 @@
-8. § (1) A Mehib Rt. az Állam készfizető kezessége mellett vállalható viszontbiztosítási tevékenységéhez kapcsolódóan meg nem szolgált díjak tartalékát a viszontbiztosítási díj időarányosan meg nem szolgált része mértékében képzi. A tartalék képzésére és felhasználására – a (2) bekezdésben foglalt eltéréssel – a Mehib Rt. által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről 312/2001. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 12. §-ának szabályait kell alkalmazni.
-
-(2) Az (1) bekezdés szerinti díjtartalék számításánál figyelmen kívül kell hagyni a viszontbiztosítási díjból a Mehib Rt. és a hitelbiztosító megállapodása alapján a hitelbiztosítót megillető költségtérítés összegét.
