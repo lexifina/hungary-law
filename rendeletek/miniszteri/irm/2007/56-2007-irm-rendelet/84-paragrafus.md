@@ -4,6 +4,6 @@
 
 ## ÉS KIFIZETÉSE
 
-## Bírósági értesítés[^63]
+## Bírósági értesítés[^70]
 
-[^63]: A 84. §-t megelőző alcímet a 48/2009. (IX. 28.) IRM rendelet 18. §-a iktatta be.
+[^70]: A 84. §-t megelőző alcímet a 48/2009. (IX. 28.) IRM rendelet 18. §-a iktatta be.

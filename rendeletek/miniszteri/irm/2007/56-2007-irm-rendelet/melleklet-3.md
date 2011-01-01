@@ -1,58 +1,58 @@
 | Átadandó a határozattal együtt a jogi segítőnek! |
 
-| IGAZOLÁS Peren kívüli jogi szolgáltatás nyújtásának teljesítéséről (Az 1. és 2. pontot a területi hivatal tölti ki) |
+| IGAZOLÁS Peren kívüli jogi szolgáltatás nyújtásának teljesítéséről (Az 1. és 2. pontot a fővárosi, megyei igazságügyi szolgálat tölti ki) |
 
-| 1. A támogatás engedélyezése ügyében eljárt területi hivatal: |  |
+| 1. A támogatás engedélyezése ügyében eljárt fővárosi, megyei igazságügyi szolgálat |  |
 
-| 2. A támogatást jogerősen engedélyező határozat száma: |  |
+| 2. A támogatást jogerősen engedélyező határozat száma: |  |
 
-| 3. A jogi segítő | neve: |
+| 3. A jogi segítő | neve: |
 
-| címe: |
+|  | címe: |
 
-| 4. A jogi segítő szervezet megbízásából a jogi szolgáltatást teljesítő ügyvéd | neve: |
+| 4. A jogi segítő szervezet megbízásából a | neve: |
 
-| irodájának címe: |
+| jogi szolgáltatást teljesítő ügyvéd | irodájának címe: |
 
-| 5. A jogi szolgáltatás nyújtása elvállalásának napja: |
+| 5. A jogi szolgáltatás nyújtása elvállalásának napja: |
 
-| 6. A jogi szolgáltatás nyújtására fordított órák száma: |
+| 6. A jogi szolgáltatás nyújtására fordított órák száma: |
 
-| 7. A jogi szolgáltatás nyújtása megtörtént. A fél a jogi szolgáltatás nyújtása érdekében más jogi segítő közreműködését nem vette igénybe. |
+| 7. A jogi szolgáltatás nyújtása megtörtént. A fél a jogi szolgáltatás nyújtása érdekében más jogi segítő közreműködését nem vette igénybe. |
 
-| .........................................., ......... év ..................................... hó ........... nap |
+| .........................................., ......... év ..................................... hó ........... nap |
 
 | .......................................... fél aláírása |
 
-| 8. A jogi segítő ÁFA fizetésére |  | ⬜ köteles | ⬜ nem köteles |
+| 8. A jogi segítő ÁFA fizetésére | □ köteles | □ nem köteles |
 
 | 9. Közlemény |  |
 
-| .........................................., ......... év ..................................... hó ........... nap |
+| .........................................., ......... év ..................................... hó ........... nap |
 
-|  | ............................................................................................. jogi segítő aláírása, bélyegzőjének lenyomata |
+| ............................................................................ jogi segítő aláírása, bélyegzőjének lenyomata |
 
-3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^102]
+3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^110]
 
-| …… számú példány | Két példány átadandó a meghatalmazott jogi segítőnek! |
+| ................. számú példány | Két példány átadandó a meghatalmazott jogi segítőnek! |
 
 | Pártfogó ügyvédi meghatalmazás |
 
-| I. A fél részére engedélyezett pártfogó ügyvédi képviselet adatai (a területi hivatal tölti ki) |
+| I. A fél részére engedélyezett pártfogó ügyvédi képviselet adatai (a fővárosi, megyei igazságügyi szolgálat tölti ki) |
 
 | 1. A fél neve és lakcíme: |
 
-| 2. A támogatás engedélyezése ügyében eljárt területi hivatal: |
+| 2. A támogatás engedélyezése ügyében eljárt fővárosi, megyei igazságügyi szolgálat megnevezése: |
 
 | 3. A támogatást jogerősen engedélyező határozat száma: |
 
-| 4. A határozattal engedélyezett támogatás formája: ⬜ előlegező/költségfeljegyzéses (Jst. 11/B. §) ⬜ állam által átvállalt/költségmentes (Jst. 11/A. §) |
+| 4. A határozattal engedélyezett támogatás formája: □ előlegező/költségfeljegyzéses (Jst. 11/B. §) □ állam által átvállalt/költségmentes (Jst. 11/A. §) |
 
 | 5. Az eljáró bíróság megnevezése, a bírósági eljárás száma: |
 
-| ……………………….., ..……. év ……………………….…… hó …… nap |
+| ................................................., ......... év .................................. hó ......... nap |
 
-| ……………………………………………………… aláírás, területi hivatal bélyegzőjének lenyomata |
+| aláírás, a fővárosi, megyei igazságügyi szolgálat bélyegzőjének lenyomata |
 
 | II. A meghatalmazott jogi segítő adatai (a jogi segítő tölti ki) |
 
@@ -60,22 +60,22 @@
 
 | 2. Iroda címe: |
 
-| 3. A jogi segítő szervezet megbízásából a pártfogó ügyvédi képviseletet ellátó ügyvéd adatai: | 3.1. Név: |
+| 3. A jogi segítő szervezet megbízásából a pártfogó | 3.1. Név: |
 
-| 3.2. Iroda címe: |
+| ügyvédi képviseletet ellátó ügyvéd adatai: | 3.2. Iroda címe: |
 
-| 4. A sértett pártfogó ügyvédi képviseletét ellátó, a büntetőeljárásról szóló 1998. évi XIX. törvény 58. §-ának (3) bekezdése szerinti szervezet adatai: | 4.1. Név: |
+| 4. A sértett pártfogó ügyvédi képviseletét ellátó, a | 4.1. Név: |
 
-| 4.2. Szervezet vezetőjének neve: |
+| büntetőeljárásról szóló 1998. évi XIX. törvény | 4.2. Szervezet vezetőjének neve: |
 
-| 4.3. Címe:- |
+| 58. §-ának (3) bekezdése szerinti szervezet adatai: | 4.3. Címe: |
 
 | III. Meghatalmazás |
 
-| Alulírott meghatalmazom a II. pont alatti jogi segítőt a bíróság előtti ………………………………..…………………. számú, elleni ………………………………………. tárgyú ügyben a pártfogó ügyvédi képviseletem ellátására. |
+| Alulírott meghatalmazom a II. pont alatti jogi segítőt a ............................................. bíróság előtti ................................... számú, ...................................... elleni ................................... tárgyú ügyben a pártfogó ügyvédi képviseletem ellátására. |
 
-| ……………………….., ..……. év ……………………….…… hó …… nap |
+| ................................................., ......... év .................................. hó ......... nap |
 
-| ………..……………………………… meghatalmazó fél aláírása | …………………………………………………… meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
+| .............................................................. meghatalmazó fél aláírása | ............................................................................ meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
 
-[^102]: A 3. melléklet a 48/2009. (IX. 28.) IRM rendelet 29. §-a, a 63/2009. (XII. 17.) IRM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^110]: A 3. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.

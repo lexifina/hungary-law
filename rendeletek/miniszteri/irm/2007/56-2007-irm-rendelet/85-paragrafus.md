@@ -1,3 +1,3 @@
-## 84. §[^64] A bíróság a támogatás engedélyezése iránti ügyben eljárt területi hivatalnak megküldi a 2. § 19. pont szerinti értesítést.
+## 84. §[^71] A bíróság a támogatás engedélyezése iránti ügyben eljárt területi hivatalnak megküldi a 2. § 19. pont szerinti értesítést.
 
-[^64]: A 84. § a 48/2009. (IX. 28.) IRM rendelet 18. §-ával megállapított szöveg. E módosító rendelet 33. § (2) bekezdés e) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.
+[^71]: A 84. § a 48/2009. (IX. 28.) IRM rendelet 18. §-ával megállapított szöveg. E módosító rendelet 33. § (2) bekezdés e) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.

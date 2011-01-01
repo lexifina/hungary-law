@@ -12,13 +12,13 @@
 
 5. per: polgári peres és nemperes eljárás;
 
-6. Hivatal: Igazságügyi Hivatal;
+6.[^1] jogi segítségnyújtó szolgálat: a fővárosi, megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatának jogi segítségnyújtási feladatokat ellátó szervezeti egysége;
 
-7. központi hivatal: Központi Igazságügyi Hivatal;
+7.[^2] központi hivatal: a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata;
 
-8. területi hivatal: az Igazságügyi Hivatal területi jogi segítségnyújtó szolgálata;
+8.[^3] területi hivatal: a fővárosi, megyei igazságügyi szolgálat;
 
-9. fél: jogi segítségnyújtás engedélyezése érdekében a Hivatalnál kérelmet előterjesztő személy vagy szervezet;
+9.[^4] fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet;
 
 10. felperes fél: az a fél, aki olyan perben részesült jogi segítségnyújtásban vagy olyan perben kérte jogi segítségnyújtás engedélyezését, amelyben ő felperes vagy kérelmező;
 
@@ -30,7 +30,7 @@
 
 14. perbehívott fél: az a fél, aki olyan perben részesült jogi segítségnyújtásban vagy olyan perben kérte jogi segítségnyújtás engedélyezését, amelyben ő perbehívott;
 
-15.[^1] jogi segítő: a jogi segítők névjegyzékében szereplő ügyvéd vagy jogi segítő szervezet;
+15.[^5] jogi segítő: a jogi segítők névjegyzékében szereplő ügyvéd vagy jogi segítő szervezet;
 
 16. vállalkozó: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) 3. §-ának 17. pontja szerinti egyéni vállalkozó, 18. pontja szerinti mezőgazdasági őstermelő és 33. pontja szerinti társas vállalkozás tagja;
 
@@ -38,7 +38,11 @@
 
 18. egyedülálló: aki nem él mással közös háztartásban, függetlenül családi állapotától.
 
-19.[^2] értesítés: a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 87. § (2) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 340. § (3) bekezdésében megjelölt adatokat tartalmazó irat, vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata.
+19.[^6] értesítés: a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 87. § (2) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 340. § (3) bekezdésében megjelölt adatokat tartalmazó irat, vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata.
 
-[^1]: A 2. § 15. pontja a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 2. § 19. pontját a 48/2009. (IX. 28.) IRM rendelet 11. §-a iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^1]: A 2. § 6. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^2]: A 2. § 7. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^3]: A 2. § 8. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^4]: A 2. § 9. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^5]: A 2. § 15. pontja a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. § 19. pontját a 48/2009. (IX. 28.) IRM rendelet 11. §-a iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
