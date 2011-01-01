@@ -1,9 +1,15 @@
-7. § (1) Az ingyenesen ki nem osztott kibocsátási egységeket – a vagyonkezelőnek az értékesítés rendszerességére, időpontjára, valamint az értékesítendő mennyiségre vonatkozó javaslata alapján, annak a pénzügyminiszter által történő jóváhagyását követően – a pénzügyminiszter értékesíti. A javaslattételt a vagyonkezelőnél a pénzügyminiszter is kezdeményezheti.
+7. §[^13] (1) A vagyonkezelő az ingyenesen ki nem osztott ÜHG-egységeket az általa kidolgozott javaslat alapján, az államháztartásért felelős miniszter egyetértésével értékesíti.
 
-(2) Amennyiben a pénzügyminiszter a vagyonkezelő javaslatával nem ért egyet, az elutasítás indokainak figyelembevételével a vagyonkezelő új javaslatot dolgoz ki és terjeszt elő.
+(2) A vagyonkezelő az ÜHG-egységek értékesítésével kapcsolatos döntési javaslatát:
 
-(3) A vagyonkezelő az (1)–(2) bekezdés szerinti javaslatát a gazdasági és közlekedési miniszter egyetértésével alakítja ki.
+a) az ingyenesen ki nem osztott ÜHG-egységek rendelkezésre álló mennyiségére;
 
-(4)[^1] A gazdasági és közlekedési miniszter a (3) bekezdésben foglalt egyetértését 15 napon belül adja meg.
+b) az emissziókereskedelem piacán jelenlévő tendenciákra és árviszonyokra;
 
-[^1]: A 7. § (4) bekezdését a 47/2007. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+c) az értékesítés költséghatékony megvalósításának szükségességére
+
+tekintettel alakítja ki.
+
+(3) Az államháztartásért felelős miniszter a (2) bekezdésben foglalt javaslattal kapcsolatos egyetértését 15 napon belül adja meg. Az államháztartásért felelős miniszter egyetértését megadottnak kell tekinteni, amennyiben a részére megküldött javaslat módosítását a kézbesítéstől számított 15 napon belül nem kezdeményezi.
+
+[^13]: A 7. § a 362/2010. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

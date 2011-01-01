@@ -4,6 +4,6 @@
 
 (3) E rendeletet a 2216/2004/EK rendelettel összhangban kell alkalmazni.
 
-(4)[^8]
+(4)[^25]
 
-[^8]: A 11. § (4) bekezdését a 254/2007. (X. 4.) Korm. rendelet 54. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^25]: A 11. § (4) bekezdését a 254/2007. (X. 4.) Korm. rendelet 54. § (2) bekezdésének a) pontja hatályon kívül helyezte.

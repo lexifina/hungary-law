@@ -1,9 +1,11 @@
-## 9. § A pénzügyminiszter a kibocsátási egységek értékesítésének pénzügyi teljesítését követő 30 napon belül tájékoztatja a vagyonkezelőt és a gazdasági és közlekedési minisztert:
+## 9. §[^22] A vagyonkezelő az ÜHG-egységek értékesítésének pénzügyi teljesítését követő 30 napon belül tájékoztatja az államháztartásért felelős minisztert és az MNV Zrt.-t:
 
 a) az értékesítés tényéről;
 
-b) az értékesített kibocsátási egységek mennyiségéről;
+b) az értékesített ÜHG-egységek mennyiségéről;
 
-c) a kibocsátási egység vételáráról;
+c) az ÜHG-egység vételáráról;
 
-d) az értékesítésre bocsátott kibocsátási egységekhez kapcsolódó azonosító kódokról.
+d) az értékesítésre bocsátott ÜHG-egységekhez kapcsolódó azonosító kódokról.
+
+[^22]: A 9. § a 362/2010. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
