@@ -18,4 +18,6 @@ f) a bejelentési kérelem mellékleteinek felsorolását;
 
 g) a bejelentő, illetve a bejelentők mindegyike vagy a képviselő aláírását.
 
-(2) A földrajzi árujelző bejelentési kérelme a Magyar Szabadalmi Hivatalban díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+(2)[^2] A földrajzi árujelző bejelentési kérelme a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+
+[^2]: Az 5. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 11. §-a szerint módosított szöveg.

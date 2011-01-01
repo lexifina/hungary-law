@@ -16,4 +16,6 @@ f) uniós, kiállítási vagy belső elsőbbség igénylése esetén az erre ir�
 
 g) a bejelentő, illetve a bejelentők mindegyike vagy a képviselő aláírását.
 
-(2) A védjegybejelentési kérelem a Magyar Szabadalmi Hivatalban díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+(2)[^1] A védjegybejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+
+[^1]: A 2. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 11. §-a szerint módosított szöveg.
