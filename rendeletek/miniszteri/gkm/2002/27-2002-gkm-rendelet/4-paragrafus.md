@@ -8,7 +8,7 @@
 
 (2)[^7]
 
-(3)[^8] A hajózási hatóság a szabályozási tervet a tárgyév január 15. napjáig, az évközi tervmódosítást a módosítást követő öt munkanapon belül küldi meg a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek (a továbbiakban: vízügyi hatóság), a vízügyi igazgatási szervnek, valamint a víziút fenntartójának.
+(3)[^8] A hajózási hatóság a szabályozási tervet a tárgyév január 15. napjáig, az évközi tervmódosítást a módosítást követő 5 napon belül küldi meg a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek (a továbbiakban: vízügyi hatóság), a vízügyi igazgatási szervnek, valamint a víziút fenntartójának.
 
 (4)[^9] Külön jogszabály alapján engedélyezhető olyan irányító jel alkalmazása is, amely valamely nyomvonalas létesítménynél, víziközlekedést befolyásoló tárgynál, vagy vízen végzett tevékenység során a víziközlekedés biztonsága érdekében szükséges.
 
@@ -42,7 +42,7 @@ e) a jelen elhelyezendő azonosító tábla felirata.
 
 [^6]: A 4. § (1) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 26. § (1) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 4. § (2) bekezdését a 86/2005. (X. 21.) GKM rendelet 28. § (2) bekezdésének c) pontja hatályon kívül helyezte.
-[^8]: A 4. § (3) bekezdése a 16/2006. (IV. 6.) GKM rendelet 6. §-ával megállapított és a 48/2009. (IX. 30.) KHEM rendelet 26. § (2) és (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 4. § (3) bekezdése a 16/2006. (IV. 6.) GKM rendelet 6. §-ával megállapított és a 48/2009. (IX. 30.) KHEM rendelet 26. § (2) és (3) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^9]: A 4. § (4) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 26. § (3) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A 4. § (5) bekezdés bevezető szövegrésze a 48/2009. (IX. 30.) KHEM rendelet 26. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^11]: A 4. § (6) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 26. § (3) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
