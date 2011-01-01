@@ -1,4 +1,4 @@
-## 16. §[^24] A Tftv. 15/B. § (7) bekezdés c) pontja és a 17. § (6) bekezdés h) pontja szerinti képviselők megválasztására jogosultakat a Budapest Főváros Közigazgatási Hivatala e rendelet hatálybalépésétől számított 30 napon belül írásban hívja össze. A választási gyűlést olyan időpontra kell összehívni, hogy az ülésre szóló meghívók elküldése és az alakuló ülés napja között legalább 8 napnak kell lennie. A választási gyűlés eljárási rendjére a 14. § (4)–(6) bekezdései értelemszerűen alkalmazandók azzal, hogy a dokumentumokat a Budapest Főváros Közigazgatási Hivatala kezeli és őrzi.
+## 16. §[^24] A Tftv. 15/B. § (7) bekezdés c) pontja és a 17. § (6) bekezdés h) pontja szerinti képviselők megválasztására jogosultakat a Budapest Főváros Kormányhivatala e rendelet hatálybalépésétől számított 30 napon belül írásban hívja össze. A választási gyűlést olyan időpontra kell összehívni, hogy az ülésre szóló meghívók elküldése és az alakuló ülés napja között legalább 8 napnak kell lennie. A választási gyűlés eljárási rendjére a 14. § (4)–(6) bekezdései értelemszerűen alkalmazandók azzal, hogy a dokumentumokat a Budapest Főváros Kormányhivatala kezeli és őrzi.
 
 ## Az Országos Területfejlesztési Tanács megalakulásával összefüggő bejelentési kötelezettség szabályai
 
@@ -6,4 +6,4 @@
 
 (2) A Tftv. 8. § (2) bekezdés ac) pontja alapján e rendelet hatálybalépésétől számított 60 napon belül az országos önkormányzati érdekszövetségek közösen aláírt okiratban, a kitöltött 1. számú melléklet csatolásával bejelentik azt a három személyt, akik az Országos Területfejlesztési Tanácsban a szövetségek képviseletét ellátják.
 
-[^24]: A 16. § a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja, a 234/2010. (VIII. 31.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 16. § a 351/2010. (XII. 30.) Korm. rendelet 124. §-a szerint módosított szöveg.

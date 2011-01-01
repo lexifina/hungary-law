@@ -50,10 +50,10 @@
 
 ## A hiányosan, ellentmondásosan kitöltött, avagy mellékletek nélkül megküldött nyilatkozat érvényes bejelentkezésként nem fogadható el.
 
-2. számú melléklet a 258/2004. (IX. 16.) Korm. rendelethez
+2. számú melléklet a 258/2004. (IX. 16.) Korm. rendelethez[^27]
 
-A Budapesti Agglomerációs Fejlesztési Tanács működési területe által érintett
+A Budapesti Agglomerációs Fejlesztési Tanács működési területe által érintett kistérségek
 
-kistérségek
+Budaörsi kistérség, Érdi kistérség, Dunakeszi kistérség, Gödöllői kistérség, Gyáli kistérség, Monori kistérség, Pilisvörösvári kistérség, Ráckevei kistérség, Szentendrei kistérség, Váci kistérség, Veresegyházi kistérség.
 
-Budaörsi kistérség, Dunakeszi kistérség, Gödöllői kistérség, Gyáli kistérség, Monori kistérség, Pilisvörösvári kistérség, Ráckevei kistérség, Szentendrei kistérség, Váci kistérség, Veresegyházi kistérség.
+[^27]: A 2. számú melléklet a 370/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
