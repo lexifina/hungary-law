@@ -1,6 +1,6 @@
 ## 12. § A sportszervezet köteles együttműködni a sportrendezvény szervezőjével, valamint a rendőrséggel a szurkolótáborok sportrendezvényen való biztonságos részvételének megszervezésében.
 
-13. §[^16] (1) Az Stv. 63. § (3) bekezdése szerinti biztonságtechnikai ellenőrzést (a továbbiakban: ellenőrzés) végző szervek – naptári évenként legalább egy alkalommal, a versenyrendszer kezdete előtt legalább 45 nappal – vizsgálják a sportlétesítmény, a nézőtéri lelátó vagy szektor, valamint a biztonságtechnikai berendezések megfelelőségét.
+13. §[^21] (1) Az Stv. 63. § (3) bekezdése szerinti biztonságtechnikai ellenőrzést (a továbbiakban: ellenőrzés) végző szervek – naptári évenként legalább egy alkalommal, a versenyrendszer kezdete előtt legalább 45 nappal – vizsgálják a sportlétesítmény, a nézőtéri lelátó vagy szektor, valamint a biztonságtechnikai berendezések megfelelőségét.
 
 (2) Az ellenőrzés a sportlétesítmény vizsgálata során kiterjed:
 
@@ -60,7 +60,7 @@ g) a kiürítési, menekítési terv meglétére és tartalmára;
 
 h) a belépőjegyek biztonsági jelölésére, a nézői magatartási szabályok feltüntetésére.
 
-(5)[^17] Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.
+(5)[^22] Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.
 
-[^16]: A 13. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A 13. § (5) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 13. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 13. § (5) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -18,6 +18,6 @@ h) a sportszövetségből kizárás;
 
 i) pénzbüntetés;
 
-j)[^23] a vendégszurkolók saját rendezőkkel történő kísérése.
+j)[^30] a vendégszurkolók saját rendezőkkel történő kísérése.
 
-[^23]: A 18. § j) pontját a 247/2009. (XI. 10.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 18. § j) pontját a 247/2009. (XI. 10.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
