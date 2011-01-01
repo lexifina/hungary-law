@@ -4,7 +4,7 @@
 
 (3) A vizsgálati program végrehajtását az országos tisztifőorvos a tárgyévet megelőző év december 31-éig rendeli el.
 
-(4)[^3] A vizsgálati program évközi módosítását az ÁNTSZ érintett regionális intézete az OSSKI részére megküldendő – a költséghatásokra is kiterjedő – előterjesztésben kezdeményezheti. A vizsgálati program módosítását az országos tisztifőorvos – tíz munkanapon belül – hagyja jóvá.
+(4)[^3] A vizsgálati program évközi módosítását az ÁNTSZ érintett regionális intézete az OSSKI részére megküldendő – a költséghatásokra is kiterjedő – előterjesztésben kezdeményezheti. A vizsgálati program módosítását az országos tisztifőorvos – tizenöt napon belül – hagyja jóvá.
 
 [^2]: A 3. § (2) bekezdése a 44/2009. (XII. 18.) EüM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 3. § (4) bekezdése a 44/2009. (XII. 18.) EüM rendelet 15. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 3. § (4) bekezdése a 44/2009. (XII. 18.) EüM rendelet 15. §-ával megállapított, a 18/2010. (XII. 23.) NEFMI rendelet 1. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
