@@ -20,6 +20,6 @@ h) víztározó: a felszíni vizek időszakonkénti feleslegének összegyűjté
 
 (2) A meder, a vízfolyás és a természetes állóvíz fogalmán a vízgazdálkodásról szóló 1995. évi LVII. törvényben meghatározott fogalmakat kell érteni.
 
-(3) A nem halászható (horgászható) halfajok és víziállatok körét a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) a természetvédelemért felelős miniszterrel együtt rendeletben határozza meg.
+(3) A nem halászható (horgászható) halfajok és víziállatok körét a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
 Vhr. 1. §

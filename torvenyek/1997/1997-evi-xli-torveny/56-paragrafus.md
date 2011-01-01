@@ -30,8 +30,8 @@ m) a halászati hatóság által vezetett nyilvántartások tartalmával és vez
 
 rendeletben határozza meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy a természetvédelemért felelős miniszterrel együttes rendeletben határozza meg a nem halászható (horgászható) halfajok és víziállatok körét, a halászati tilalmi időket valamint a tilalmak alóli felmentés szabályait.
+(2) Felhatalmazást kap a miniszter arra, hogy a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg a nem halászható (horgászható) halfajok és víziállatok körét, a halászati tilalmi időket valamint a tilalmak alóli felmentés szabályait.
 
-(3) Felhatalmazást kap a miniszter arra, hogy a határrendészetért felelős miniszterrel együtt rendeletben határozza meg az országhatár mentén lévő halászati vízterületre a halászat, horgászat rendjét.
+(3) Felhatalmazást kap a miniszter arra, hogy a határrendészetért felelős miniszter egyetértésével kiadott rendeletben határozza meg az országhatár mentén lévő halászati vízterületre a halászat, horgászat rendjét.
 
 (4) Felhatalmazást kap a Kormány, hogy a halászati hatóságot vagy hatóságokat rendeletben jelölje ki.

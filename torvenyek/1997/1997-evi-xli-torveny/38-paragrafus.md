@@ -4,7 +4,7 @@ Hhtv. 38. § (1) A természetvédelmi oltalom alatt álló hal fogása (gyűjt
 
 (2) A hal és élőhelyének védelme érdekében a miniszter rendeletben határozza meg
 
-a) a természetvédelemért felelős miniszterrel együtt azt a naptári időszakot és azt az egyes halfajt, amelynek egyedét tilos kifogni (halászati tilalmi idő);
+a) a természetvédelemért felelős miniszter egyetértésével azt a naptári időszakot és azt az egyes halfajt, amelynek egyedét tilos kifogni (halászati tilalmi idő);
 
 b) halfajonként a legkisebb fogási méretet (halászati méretkorlátozás), valamint a naponta kifogható mennyiséget;
 
