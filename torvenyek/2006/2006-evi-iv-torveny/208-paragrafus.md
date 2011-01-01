@@ -8,7 +8,7 @@ c) az alapítás során kibocsátandó részvények számát, névértékét, il
 
 d) a 37. §-ban és a 247. §-ban foglalt kivételekkel az első igazgatóság tagjainak nevét (lakóhelyét);
 
-e) a részvénytársaság első könyvvizsgálójának nevét (lakóhelyét, székhelyét);
+e)
 
 f) a közgyűlés összehívásának módját, továbbá a szavazati jog gyakorlásának feltételeit és módját.
 
@@ -28,6 +28,6 @@ f) az igazgatóság felhatalmazását – a visszaváltható részvényhez kapcs
 
 g) vezérigazgató (247. §) választása esetén az első vezérigazgató nevét (lakóhelyét);
 
-h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét);
+h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét), könyvvizsgáló választása esetén az első könyvvizsgáló nevét (lakóhelyét, székhelyét);
 
 i) mindazt, amiről a részvényesek az alapszabályban rendelkezni kívánnak.

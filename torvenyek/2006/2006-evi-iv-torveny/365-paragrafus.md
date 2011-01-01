@@ -22,7 +22,7 @@ c) az államháztartásról szóló 1992. évi XXXVIII. törvény 104/A. §-ána
 
 d) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 45/B. §-ának (3) bekezdésében és 67. §-ának (3) bekezdésének d) pontjában;
 
-e) a rádiózásról és a televíziózásról szóló 1996. évi I. törvény 85. §-ának (3) bekezdésében és 95. §-ának (5) bekezdésében;
+e)
 
 f) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 12. §-ának (4) bekezdésében és 16. §-ának (2)–(3) bekezdésében;
 
