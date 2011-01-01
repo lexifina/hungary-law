@@ -2,7 +2,7 @@
 
 a) a higiénés és egészségvédelmi, táplálkozás-egészségügyi és dietetikai, az ivóvíz minőségi – ide nem értve a b) pont szerinti szakkérdést –, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével kapcsolatos szakkérdésben
 
-aa) – a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) kistérségi, fővárosi kerületi intézetét, másodfokú eljárásban az ÁNTSZ regionális intézetét,
+aa)[^4] – a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét,
 
 ab) – a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a honvédelmi miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelmi minisztert,
 
@@ -19,3 +19,8 @@ d) ha arra az építményre, amelyben a szálláshelyet működtetni kívánják
 szakhatóságként jelöli ki.
 
 (2) A szálláshely-üzemeltetési engedélyeztetési eljárásban – az egyéb szálláshely engedélyezése kivételével – külön vizsgálat nélkül ügyfélnek minősül a szálláshely, valamint a szálláshellyel közvetlenül szomszédos, a szálláshellyel közös határvonalú, telekhatárú ingatlan tulajdonosa, használója, kezelője, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
+
+(3)[^5] A 4. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+
+[^4]: A 7. § (1) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 261. §-a szerint módosított szöveg.
+[^5]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be.

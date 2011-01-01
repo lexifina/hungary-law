@@ -234,6 +234,6 @@
 
 ## b) a közösen használt helyiségek takarítása mindennap.
 
-2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^12]
+2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^18]
 
-[^12]: A 2. melléklet a 281/2010. (XII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 281/2010. (XII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
