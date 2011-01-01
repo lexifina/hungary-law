@@ -2,6 +2,6 @@
 
 (2) A közérdekű védekezést célirányosan, költségtakarékosan, hatékonyan és a lehető legkisebb környezeti károsodással járó eljárással kell elvégezni.
 
-(3)[^1] A közérdekű védekezés költségei magukban foglalják az ingatlanügyi hatóságnál felmerült, és az MgSzH döntésében tételesen megjelölt valamennyi költséget.
+(3)[^3] A közérdekű védekezés költségei magukban foglalják a megyei kormányhivatal földhivatalánál, a fővárosban a fővárosi kormányhivatal földhivatalánál és a növény- és talajvédelmi igazgatóságnál felmerült valamennyi költséget.
 
-[^1]: A 2. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 220. § (3) bekezdésével megállapított szöveg.

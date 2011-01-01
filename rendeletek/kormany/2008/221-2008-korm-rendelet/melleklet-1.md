@@ -1,4 +1,4 @@
-1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^15]
+1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^19]
 
 ## A helyszíni ellenőrzés során készített jegyzőkönyv tartalmi elemei
 
@@ -46,4 +46,4 @@ c) ha művelt mezőgazdasági terület: kultúrnövénnyel fedett/tarló/kaszál
 
 18. a jegyzőkönyv mellékleteinek megnevezése.
 
-[^15]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 639. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 639. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
