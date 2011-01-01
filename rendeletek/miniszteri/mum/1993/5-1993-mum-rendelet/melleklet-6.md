@@ -2,7 +2,7 @@
 
 ## A munkáltatónak – írógéppel, számítógéppel vagy nyomtatott betűvel – ki kell töltenie a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi szöveges választ igénylő rovatát. Szöveges választ igényelnek az 1–55., 84., 89–92. és 96. kódnégyzetek és a *-gal jelölt rovatok. Az 56–83., 85–88. és a 93–95. kódnégyzeteket, a felügyelői észrevétel, intézkedés, záradék rovatokat az illetékes felügyelet (OMMF területi felügyelősége, MBH területi bányakapitánysága) tölti ki.
 
-## A munkáltatónak figyelemmel kell lennie a munkavédelemről szóló törvény (Mvt.) 57. §-a (3) bekezdésének h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. §-ának (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a súlyos munkabaleset, valamint az olyan munkaeszköz, illetve technológia által okozott munkabaleset kivizsgálását, amely kettőnél több személy egyszerre (egy időben), azonos helyen történő sérülését vagy más egészségkárosodását okozta. A kivizsgálás egyik tartalmi eleme a jegyzőkönyv szakszerű kitöltése, amely jogszabályban előírt szakképzettséggel rendelkező szakember bevonásával történhet.
+## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak – számítógéppel, írógéppel vagy nyomtatott betűvel – kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1–6 pontjaihoz tartozó kódnégyzetek és az (F) és (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket, valamint a jegyzőkönyv (J) blokkját az illetékes felügyelet (a fővárosi és megyei kormányhivatal munkavédelmi felügyelősége, illetve a bányakapitányság) tölti ki.
 
 ## TERÜLETI KÓD: (1–2. kódnégyzet)
 
@@ -160,7 +160,7 @@
 
 ## 3 Súlyos csonkolásos munkabaleset
 
-## 4 Halálos munkabaleset (sérült, magzata, újszülöttje)[^30]
+## 4 Halálos munkabaleset (sérült, magzata, újszülöttje)[^31]
 
 ## 5 Önálló életvezetést gátló maradandó károsodás
 
@@ -190,7 +190,7 @@
 
 | A helyszínt jelölő kistérségi kódszám: | HU | 0 | 0 | 0 | 0 | 0 |
 
-## A kistérségi kódszámot a „HU” jelölés után öt kódnégyzetbe kell beírni. A kódszámokat a KSH elnökének 9002/2004. (SK 3.) számú – a 244/2003. (XII. 18.) Korm. rendeleten alapuló – közleménye tartalmazza[^31]. A kódszám képzés a NUTS-on (a rövidítés magyarul: Eurostat[^32] statisztikai célú területi egységek nomenklatúrája) alapul, mely összhangban van az ESAW (a rövidítés magyarul: Munkahelyi Balesetek Európai Uniós Statisztikája) előírásaival.
+## A kistérségi kódszámot a „HU” jelölés után öt kódnégyzetbe kell beírni. A kódszámokat a KSH elnökének 9002/2004. (SK 3.) számú – a 244/2003. (XII. 18.) Korm. rendeleten alapuló – közleménye tartalmazza[^32]. A kódszám képzés a NUTS-on (a rövidítés magyarul: Eurostat[^33] statisztikai célú területi egységek nomenklatúrája) alapul, mely összhangban van az ESAW (a rövidítés magyarul: Munkahelyi Balesetek Európai Uniós Statisztikája) előírásaival.
 
 ## Példa a rovat helyes kitöltésére:
 
@@ -420,7 +420,7 @@
 
 ## 1-es, új jegyzőkönyvre utaló sorszámot kell beírni a 96-os kódnégyzetbe abban az esetben, ha az adott balesetről első alkalommal töltöttek ki munkabaleseti jegyzőkönyvet.
 
-## 2-es, módosításra, kiegészítésre utaló sorszámot kell beírni – kivéve a 84. kódnégyzet változásának esetét – , ha a balesetről már korábban töltöttek ki jegyzőkönyvet, de valamely adattal, tényezővel, megállapítással kapcsolatosan módosítás vált szükségessé. A 84. kódnégyzetben történő későbbi adatváltozás esetén e rendelet 4/b. számú melléklete szerinti módosító jegyzőkönyvet kell felvenni.[^33]
+## 2-es, módosításra, kiegészítésre utaló sorszámot kell beírni – kivéve a 84. kódnégyzet változásának esetét – , ha a balesetről már korábban töltöttek ki jegyzőkönyvet, de valamely adattal, tényezővel, megállapítással kapcsolatosan módosítás vált szükségessé. A 84. kódnégyzetben történő későbbi adatváltozás esetén e rendelet 4/b. számú melléklete szerinti módosító jegyzőkönyvet kell felvenni.[^34]
 
 ## 3-as, törlésre utaló sorszámot kell beírni, ha az adatszolgáltatásban meghatározott bejelentés megtétele után bekövetkezett, vagy utólag felismert tény, körülmény miatt, esetleg hatósági, bírósági döntés alapján a jegyzőkönyvet törölni kellett.
 
@@ -554,10 +554,10 @@
 
 ## A fenti példa szerint a munkáltató egy munkabaleseti jegyzőkönyv (négy oldalas) és két (külön sorszámú) módosító munkabaleseti jegyzőkönyv kitöltéséről és megküldéséről köteles gondoskodni.
 
-6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^34]
+6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^35]
 
-[^30]: Abban az esetben, ha munkabaleset következtében a sérült magzata vagy újszülöttje veszíti életét az „Egyéb észrevételek, megjegyzések” rovatban azt jelölni kell.
-[^31]: Az utasítás – a kódszámok – az Interneten is elérhetők!
-[^32]: Európai Közösségek Statisztikai Hivatala.
-[^33]: A módosító munkabaleseti jegyzőkönyv kitöltési útmutatóját e melléklet utolsó bekezdése tartalmazza.
-[^34]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Abban az esetben, ha munkabaleset következtében a sérült magzata vagy újszülöttje veszíti életét az „Egyéb észrevételek, megjegyzések” rovatban azt jelölni kell.
+[^32]: Az utasítás – a kódszámok – az Interneten is elérhetők!
+[^33]: Európai Közösségek Statisztikai Hivatala.
+[^34]: A módosító munkabaleseti jegyzőkönyv kitöltési útmutatóját e melléklet utolsó bekezdése tartalmazza.
+[^35]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -6,7 +6,7 @@ b) a halált, illetve a három napot meghaladó munkaképtelenséget okozó munk
 
 c) külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató magyar munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi felügyelőségnek, illetve az MBFH munkáltató székhelye szerint illetékes területi szervének;
 
-d) a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes regionális egészségbiztosítási pénztárnak (kirendeltségnek);
+d)[^17] az Országos Egészségbiztosítási Pénztárnak, a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási szakigazgatási szervnek,
 
 e) munkaerő-kölcsönzés, kirendelés esetén a kölcsönbeadó, kirendelő munkáltatónak.
 
@@ -33,3 +33,4 @@ h) fényképfelvételeket, videófelvételeket,
 i) a belső szabályzatok vonatkozó részeit.
 
 [^16]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
+[^17]: A Vhr. 9. § (1) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
