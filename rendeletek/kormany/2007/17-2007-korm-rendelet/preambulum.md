@@ -1,1 +1,0 @@
-A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 77. § (1) bekezdés a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
