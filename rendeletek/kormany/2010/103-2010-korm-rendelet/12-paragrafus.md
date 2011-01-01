@@ -1,1 +1,0 @@
-## 11. § Az ösztöndíj havi összegét a miniszter a pályázatban állapítja meg. Az ösztöndíj havi összege – az összes ösztöndíjasra kiterjedő hatállyal – a jogviszony ideje alatt magasabb összegben megállapítható.
