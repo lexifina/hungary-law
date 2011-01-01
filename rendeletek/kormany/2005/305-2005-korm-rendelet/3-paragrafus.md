@@ -4,6 +4,7 @@
 
 a) a közzététellel, helyesbítéssel, frissítéssel és eltávolítással kapcsolatos feladatok ellátásának részletes rendjét;
 
-b) az a) pont szerinti feladatok ellátására kijelölt munkaköröket, a munkakörök közötti együttműködés rendjét.
+b) az a) pont szerinti feladatok ellátására kijelölt munkaköröket, a munkakörök közötti együttműködés rendjét.[^2]
 
 [^1]: Lásd a 14/2009. (V. 20.) SZMM utasítást.
+[^2]: Lásd a 13/2011. (VIII. 4.) MEG utasítást.

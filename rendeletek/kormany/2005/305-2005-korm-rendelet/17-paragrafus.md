@@ -80,6 +80,8 @@ III. A Magyar Közlönnyel és az ágazati vagy tárcaközlönyökkel összefüg
 
 IV. Egyéb közzéteendő közzétételi egységre vonatkozó leíró adatok:
 
+5M11050_2
+
 | Metaadat-elem | Minősítő | Tartalom, meghatározás | Magyarázat | Kötelező | Előfor- dulás |
 
 | Cím | – | A közzétételi egység címe |  | Kötelező | 1 |
