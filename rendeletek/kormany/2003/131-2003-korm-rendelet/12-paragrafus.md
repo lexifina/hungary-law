@@ -18,7 +18,7 @@ f) pénzeszközök.
 
 (3) A tartalékok – rendeltetésük, illetve összetételük szerinti – csoportosítása:
 
-a)[^35] Gazdaságbiztonsági Tartalék (a továbbiakban: GT): a külön jogszabályban[^36] meghatározott védelmi célú hányadában a nemzetgazdaság vagy egy ágazat gazdaságmozgósítási helyzeti működését, a lakosság alapvető ellátását és védelmét, valamint a mozgósított Magyar Honvédség és rendvédelmi szervek feladatai végrehajtását szolgáló, lehetőleg több felhasználói igény kielégítésére alkalmas áruk – elsősorban ipari termékek, félkész termékek, alapanyagok – és pénzeszköz,
+a)[^35] Gazdaságbiztonsági Tartalék (a továbbiakban: GT): jogszabályban[^36] meghatározott védelmi célú hányadában a nemzetgazdaság vagy egy ágazat gazdaságmozgósítási helyzeti működését, a lakosság alapvető ellátását és védelmét, valamint a mozgósított Magyar Honvédség, a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) feladatai végrehajtását szolgáló, lehetőleg több felhasználói igény kielégítésére alkalmas áruk – elsősorban ipari termékek, félkész termékek, alapanyagok – és pénzeszköz,
 
 b) Állami Egészségügyi Tartalék (a továbbiakban: ÁEüT): a külön jogszabályban[^37] meghatározott rendeltetésű orvostechnikai eszközök, műszerek, gyógyszer, kötszer, egyéb egészségügyi fogyóanyagok, szükséggyógyintézetek működtetéséhez szükséges felszerelések,
 
@@ -50,7 +50,7 @@ d) a PT tekintetében az MNB elnöke.
 
 (11) A tartalékokkal való gazdálkodás, a bevételek és ráfordítások elszámolása, a vállalkozásból származó bevételek felhasználása az államháztartásról szóló 1992. évi XXXVIII. törvény és végrehajtási rendeletei[^42] által szabályozott módon történhet. A tartalékkezelő a pénzügyi beszámolási kötelezettségének a számvitelről szóló 2000. évi C. törvényben és a végrehajtására kiadott rendeletekben[^43] foglalt módon és határidőre köteles eleget tenni.
 
-[^35]: A 12. § (3) bekezdésének a) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^35]: A 12. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (3) bekezdésével megállapított szöveg.
 [^36]: A Gazdaságbiztonsági Tartalékról szóló 84/1994. (V. 27.) Korm. rendelet.
 [^37]: Az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet.
 [^38]: A Gazdaságbiztonsági Tartalékról szóló 84/1994. (V. 27.) Korm. rendelet.

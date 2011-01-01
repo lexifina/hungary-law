@@ -2,7 +2,7 @@
 
 ## 3. § A gazdaság mozgósításának alapfeladata a vagyoni szolgáltatások biztosítása
 
-a)[^15] a Magyar Honvédség és a rendvédelmi szervek mozgósításához és mozgósítás utáni működéséhez,
+a)[^15] a Magyar Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal hivatásos állománya mozgósításához és mozgósítás utáni működéséhez,,
 
 b) a szövetségi kötelezettség alapján kollektív védelmi feladatot a Magyar Köztársaság területén végrehajtó szövetséges fegyveres erők ellátásához,
 
@@ -12,4 +12,4 @@ d) az ország közigazgatási rendszerének zavartalan működéséhez,
 
 e) a társadalom és a nemzetgazdaság működőképességének fenntartásához, szükség esetén e funkciók helyreállításához.
 
-[^15]: A 3. § a) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^15]: A 3. § a) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (2) bekezdésével megállapított szöveg.
