@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-104-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1991-104-20-22.18 | 104/1991. (VIII. 3.) Korm. rendelet |
+| 2011-01-01 | 1991-104-20-22.19 | 351/2010. (XII. 30.) Korm. rendelet |

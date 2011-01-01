@@ -4,9 +4,9 @@
 
 (3) A Tv. kihirdetést követően kötött, határozott időre szóló haszonbérleti szerződést a vételi jog alapján megszerzett termőföld új tulajdonosa azonnali hatállyal felmondja.
 
-(4)[^50] A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. §-ának (4) bekezdése alapján önkormányzati tulajdonba került földterületekről helyrajzi szám, aranykorona érték (AK), művelési ág és terület megjelölésével a megyei (fővárosi) kárrendezési hivatal a területileg illetékes önkormányzatokat értesíti.
+(4)[^65] A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. §-ának (4) bekezdése alapján önkormányzati tulajdonba került földterületekről helyrajzi szám, aranykorona érték (AK), művelési ág és terület megjelölésével a kárpótlási hatóság a területileg illetékes önkormányzatokat értesíti.
 
-KITÖLTÉSI ÚTMUTATÓ[^51]
+KITÖLTÉSI ÚTMUTATÓ[^66]
 
 KITÖLTÉSI ÚTMUTATÓ
 
@@ -18,7 +18,7 @@ KITÖLTÉSI ÚTMUTATÓ
 
 3. A borítékon található hétjegyű számot minden egyes kitöltött adatlapon fel kell tüntetni, az adatlapok jobb felső sarkában szereplő „R” betűt követően, mind az első, mind az esetleges későbbi beadványok esetében.
 
-4. Az adatlapokon a fehér színű rovatokat írógéppel vagy nyomtatott nagybetűkkel kell kitölteni.
+4. Az adatlapokon a fehér színű rovatokat író_géppel vagy nyomtatott nagybetűkkel kell kitölteni.
 
 5. A kitöltött adatlapokat és a hozzácsatolt okmányokat legkésőbb 1991. november 7-én éjfélig postára kell adni.
 
@@ -76,7 +76,9 @@ Az állami tulajdonú termőföldek árverésén minden kárpótlásra jogosult 
 
 AZ „A” ADATLAP KITÖLTÉSI ÚTMUTATÓJA
 
-1. A legelőször benyújtott kárpótlási igényében, minden adatlapon, az „első beadvány” szöveget húzza alá; a hiánypótlási felhívásban kapott adatlapokon, a hiányos adatok kitöltésekor, a „a hiánypótlás teljesítése” szöveget jelölje meg aláhúzásával!
+1. A legelőször benyújtott kárpótlási igényében, minden adatlapon, az „első beadvány” szöveget húzza alá;
+
+a hiánypótlási felhívásban kapott adatlapokon, a hiányos adatok kitöltésekor, a „a hiánypótlás teljesítése” szöveget jelölje meg aláhúzásával!
 
 I. AZ IGÉNYLŐ ADATAI
 
@@ -266,7 +268,7 @@ A „V” JELŰ ADATLAP KITÖLTÉSI ÚTMUTATÓJA
 
 5. A „36”-os rovatban a vállalkozás jelenlegi címét kell megadni.
 
-6. „37”-es rovat: a vállalkozás államosításkori alkalmazottairól a regionális egészségbiztosítási szervtől kell igazolást kérni, a kárpótlási igény benyújtása előtt. Az igazoláshoz az alkalmazottak nevének ismerete szükséges, ezért szíveskedjen a névsort az igazolás kéréséhez összeállítani! Alkalmazottként kell figyelembe venni a [Ptk. 685. § b) pontja szerint] a vállalkozásban dolgozó, segítő családtagot, közeli hozzátartozót is.
+6. „37”-es rovat: a vállalkozás államosításkori alkalmazottairól a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervétől kell igazolást kérni, a kárpótlási igény benyújtása előtt. Az igazoláshoz az alkalmazottak nevének ismerete szükséges, ezért szíveskedjen a névsort az igazolás kéréséhez összeállítani! Alkalmazottként kell figyelembe venni a [Ptk. 685. § b) pontja szerint] a vállalkozásban dolgozó, segítő családtagot, közeli hozzátartozót is.
 
 6. A „38”-as rovat kérdésére a megfelelő szöveg aláhúzásával kell válaszolni.
 
@@ -842,5 +844,5 @@ M101872_1
 
 | Hiánypótlás szükséges: | 44 |  |  | igen (1) | nem (2) | Hiánypótlás határideje: | 45 | 19 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^50]: A Vhr. 53. §-ának (4) bekezdését a 124/1995. ( X. 18.) Korm. rendelet 8. §-a iktatta a szövegbe.
-[^51]: A Kitöltési Útmutató a 360/2008. (XII. 31.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^65]: A Vhr. 53. §-ának (4) bekezdését a 124/1995. ( X. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés s) pontja szerint módosított szöveg.
+[^66]: A Kitöltési Útmutató a 360/2008. (XII. 31.) Korm. rendelet 17. § (1) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
