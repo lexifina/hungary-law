@@ -78,4 +78,6 @@ b) más jogi személyben, jogi személyiség nélküli gazdasági társaságban 
 
 azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti az adózó tulajdonában lévő saját üzletrész.
 
-(8) A (3) bekezdés a) pontja szerinti folyamatos tevékenység végzésére és az e) pontban meghatározott bevétel elérésére irányuló feltétel nem vonatkozik arra a magánszemély egyéni vállalkozóra, aki tevékenységét vagy szolgálatát szünetelteti, továbbá arra, aki a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segélyben vagy a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott gyermekgondozási díjban részesül.
+(8) A (3) bekezdés a) pontja szerinti folyamatos tevékenység végzésére, az e) pontban meghatározott bevétel elérésére, valamint – feltéve, hogy más e törvény szerinti adóalanyiságot eredményező tevékenységet nem folytat – az (5) bekezdés e) pontjában meghatározott kötelezettség teljesítésére irányuló feltétel nem vonatkozik arra az egyéni vállalkozóra, aki tevékenységét szünetelteti, továbbá arra, aki a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segélyben vagy a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott gyermekgondozási díjban részesül.
+
+(9) Az adózó a szünetelést – a jogállását szabályozó külön törvény szerint történő bejelentéssel egyidejűleg – az egyéni vállalkozói tevékenységére tekintettel pénzforgalmi bankszámlát vezető hitelintézet(ek)nek is bejelenti, azzal, hogy a bejelentés elmulasztásának minden adójogi következménye a magánszemélyt terheli.

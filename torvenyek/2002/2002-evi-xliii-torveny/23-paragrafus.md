@@ -5,3 +5,5 @@
 (2) A 10. § a kihirdetés napján lép hatályba.
 
 (3) A 16. § (1) bekezdésének c) pontja szerinti kötelezettséget a 2002. szeptember 30-át követően beszerzett tárgyi eszköz esetében kell első ízben alkalmazni.
+
+(4) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel beiktatott, 2011. január 1-jétől hatályos rendelkezéseit első ízben a 2011. adóévi adókötelezettségre kell alkalmazni.
