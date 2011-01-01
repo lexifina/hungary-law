@@ -24,7 +24,7 @@
 
 ## P. H.
 
-3. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^55]
+3. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^57]
 
 Igazságügyi Szakértői Vizsgabizottság
 
@@ -48,4 +48,4 @@ az Igazságügyi Szakértői Vizsgabizottság tagja
 
 P. H.
 
-[^55]: A 3. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
+[^57]: A 3. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
