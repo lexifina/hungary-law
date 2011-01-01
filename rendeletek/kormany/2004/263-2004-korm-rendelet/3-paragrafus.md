@@ -1,4 +1,4 @@
-3. § (1)[^3] Nukleáris termékek exportjának engedélyezésére irányuló eljárásban az OAH szakhatósági állásfoglalásában a hozzájárulás megadásának a feltétele, hogy az importáló ország illetékes állami szerve írásban kötelezettséget vállaljon az alábbiakra:
+3. § (1)[^4] Nukleáris termékek exportjának engedélyezésére irányuló eljárásban az OAH szakhatósági állásfoglalásában a hozzájárulás megadásának a feltétele, hogy az importáló ország illetékes állami szerve írásban kötelezettséget vállaljon az alábbiakra:
 
 a) az importált termék vagy a kapcsolódó technológia reexportja, illetőleg
 
@@ -16,7 +16,7 @@ c) a b) pontban meghatározott létesítményből származó technológia vagy e
 
 d) a nehézvíz vagy a fegyvertisztaságú nukleáris anyagok reexportjához.
 
-(3)[^4] Az OAH a szakhatósági állásfoglalása kiadásakor vizsgálja a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet 2. § l) pontja szerinti Végfelhasználói Nyilatkozat meglétét és annak tartalmát.
+(3)[^5] Az OAH a szakhatósági állásfoglalása kiadásakor vizsgálja a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet 2. § l) pontja szerinti Végfelhasználói Nyilatkozat meglétét és annak tartalmát.
 
-[^3]: A 3. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 366. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 366. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 366. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 366. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
