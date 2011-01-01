@@ -12,7 +12,7 @@ képezi a központi költségvetés bevételét.
 
 (5) A fogyasztóvédelmi hatóság által
 
-a) a műsorszolgáltatóval szemben jogsértő reklám miatt kiszabott bírság,
+a) a médiaszolgáltatóval szemben jogsértő reklám miatt kiszabott bírság,
 
 b) a tankönyvkiadásra és -forgalmazásra vonatkozó előírások megsértése miatt kiszabott bírság
 
