@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-142-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-01-01 | 2001-142-20-22.4 | 142/2001. (VIII. 8.) Korm. rendelet |
+| 2011-01-01 | 2001-142-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
