@@ -1,0 +1,3 @@
+139. § A Gt. a következő 336/B. §-sal egészül ki:
+
+„336/B. § A cégjegyzékbe már bejegyzett nyilvánosan működő részvénytársaságok legfőbb szervei az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 138. §-ával megállapított – 304. § (2) bekezdése hatálybalépését követő első ülésén, de legkésőbb 2011. június 30-áig kötelesek társasági szerződésüket e rendelkezéshez igazítva módosítani, és eddig az időpontig azt a cégbírósághoz benyújtani.”
