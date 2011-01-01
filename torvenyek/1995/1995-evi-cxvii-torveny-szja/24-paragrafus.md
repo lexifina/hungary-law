@@ -16,4 +16,4 @@ f) a segítő családtag tevékenysége,
 
 g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony.
 
-(2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint – figyelemmel az átmeneti rendelkezésekre is – kell kiszámítani.
+(2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.

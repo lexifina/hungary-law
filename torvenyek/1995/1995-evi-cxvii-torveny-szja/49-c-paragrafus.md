@@ -4,7 +4,7 @@
 
 (2) Az adózás utáni vállalkozói jövedelmet növeli:
 
-a) a tárgyi eszköz ellenszolgáltatás nélküli átruházása esetén – kivéve, ha azt az egyéni vállalkozó természetbeni juttatásként nyújtja –, az említett tárgyi eszköz beszerzésével összefüggő adózás utáni vállalkozói jövedelem csökkentésének évétől számítva a (6) bekezdés a) pontjában említett összegnek
+a) a tárgyi eszköz ellenszolgáltatás nélküli átruházása esetén – kivéve a magánszemélynek ellenszolgáltatás nélkül történő, adófizetési kötelezettséggel járó átadást –, az említett tárgyi eszköz beszerzésével összefüggő adózás utáni vállalkozói jövedelem csökkentésének évétől számítva a (6) bekezdés a) pontjában említett összegnek
 
 aa) a tárgyi eszköz egy éven belüli átruházásakor a 100 százaléka,
 
@@ -32,6 +32,6 @@ c)
 
 d) az erre vonatkozó nyilvántartás szerint, az adóévben felmerült beruházási költséget képező kiadás összegével, feltéve, hogy az azzal összefüggő tárgyi eszköz, nem anyagi javak értékcsökkenési leírása megkezdése nem történt meg.
 
-(7) A vállalkozói osztalékalap után – kivéve abból a kivét-kiegészítést – az adó 25 százalék. Az adót a magánszemély bevallásában megállapítja, bevallja, valamint a bevallás benyújtására előírt határidőig megfizeti.
+(7) A vállalkozói osztalékalap után az adót a magánszemély bevallásában megállapítja, bevallja, valamint a bevallás benyújtására előírt határidőig megfizeti.
 
 (8) A (6) bekezdés a) és d) pontjában foglaltak a kizárólag üzemi célú tárgyi eszköz (ideértve azt a személygépkocsit is, amely után a magánszemély kisvállalkozói kedvezményt vett igénybe) és nem anyagi javak esetében alkalmazhatók.

@@ -1,0 +1,1 @@
+84/I. § Az e törvényt módosító törvények átmeneti rendelkezései alapján igénybe vehető adókedvezményeket a magánszemély az említett átmeneti rendelkezések szerint, de legfeljebb a 2015. évi adójával szemben érvényesítheti.

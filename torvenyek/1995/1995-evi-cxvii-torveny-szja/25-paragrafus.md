@@ -8,7 +8,7 @@ b) költségtérítés címén (ideértve különösen a saját gépjárművel t
 
 ba) a munkában töltött napokra a munkahely és a lakó- vagy tartózkodási hely között és/vagy
 
-bb) hétvégi hazautazásra a munkahely és a lakóhely között
+bb) hazautazásra a munkahely és a lakóhely között
 
 közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 9 forint értékben kap a magánszemély.
 
@@ -16,16 +16,4 @@ közforgalmi úton mért oda-vissza távolság figyelembevételével kilométere
 
 (4) A magánszemély a munkahelye és a lakóhelye közötti útvonalra gépjárművel történő munkába járás címén költséget nem számolhat el.
 
-(5) Ha az egyszerűsített vállalkozói adó hatálya alá nem tartozó társas vállalkozásban a személyes közreműködő nem részesül személyes közreműködői díjban vagy annak éves összege az adóévben nem éri el a tevékenységre jellemző kereset éves összegét, nem önálló tevékenységből származó bevétel az említett társas vállalkozás által a személyes közreműködő számára kifizetett osztalék és/vagy az adóévben jóváhagyott, osztalékelőlegként már kifizetett osztalék, de legfeljebb ezek együttes összegéből az a rész, amely a személyes közreműködői díjjal együtt, illetve ennek hiányában eléri a tevékenységre jellemző kereset éves összegét (bármelyik a továbbiakban: személyes közreműködői díj-kiegészítés). A több társas vállalkozásban személyes közreműködő, illetve személyes közreműködőként és egyéni vállalkozóként is tevékenységet folytató magánszemély esetében ezt a rendelkezést arra a jogviszonyára tekintettel kell alkalmazni, amelynél a főtevékenységre jellemző kereset a legmagasabb.
-
-(6) A társas vállalkozás a személyes közreműködői díj-kiegészítés összegéről az adóévet követő év január 31-éig köteles igazolást adni a személyes közreműködőnek, aki ennek alapján – a jövedelemszerzés időpontjának az adóév utolsó napját tekintve – a személyes közreműködői díj-kiegészítés adóalapja után az adót adóbevallásban állapítja meg azzal, hogy az osztalék után már levont (megfizetett) adónak a személyes közreműködői díj-kiegészítésre jutó részét levont (megfizetett) adóelőlegként veszi figyelembe. A kiadott igazolásban feltüntetett adatokról a társas vállalkozás az adóévet követő év február 15-éig adatot szolgáltat az állami adóhatóságnak.
-
-(7) Az adó utólagos megállapításához való jog elévüléséig tartó megőrzési kötelezettséggel
-
-a) a társas vállalkozás a személyes közreműködő tevékenységére jellemző keresetének meghatározásánál figyelembe vett körülményekről, szempontokról;
-
-b) több társas vállalkozásban személyes közreműködő, illetve személyes közreműködőként és egyéni vállalkozóként is tevékenységet folytató magánszemély valamennyi tevékenységére jellemző keresetéről
-
-feljegyzést készít, amelyet az adózással összefüggő iratok részeként kezel.
-
-(8) Az (5)–(7) bekezdések rendelkezéseit nem kell alkalmazni, ha a személyes közreműködő az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti kötelezettséget teljesít.
+(5)–(8)

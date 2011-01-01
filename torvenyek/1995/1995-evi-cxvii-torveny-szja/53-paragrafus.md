@@ -4,7 +4,7 @@ a) az egyéni vállalkozó 40 százalék,
 
 b) az adóév egészében kizárólag a (3) bekezdésben, vagy kizárólag a (3) és (4) bekezdésben felsorolt tevékenységet folytató egyéni vállalkozó 80 százalék,
 
-c) az adóév egészében kizárólag az üzletek működésének rendjéről, valamint az egyes üzlet nélkül folytatható kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységet folytató egyéni vállalkozó 87 százalék,
+c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységet folytató egyéni vállalkozó 87 százalék,
 
 d) a c) pontban említett egyéni vállalkozó – feltéve, hogy a tevékenysége külön-külön vagy együttesen az adóév egészében kizárólag a (4) bekezdésben felsorolt üzlet(ek) működtetésére terjed ki – 93 százalék,
 
@@ -64,7 +64,7 @@ i) fényképészet (SZJ 74.81);
 
 j) mosás, tisztítás (SZJ 93.01.1), fodrászat, szépségápolás (SZJ 93.02), állatkozmetika (SZJ 93.05.11);
 
-k) az üzletek működésének rendjéről, valamint az egyes üzlet nélkül folytatható kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység, kiskereskedelmi tevékenység.
+k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység, kiskereskedelmi tevékenység.
 
 (4)
 

@@ -12,7 +12,7 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 
 (3) Az átalányadózás kizárólag az egyéni vállalkozói, illetőleg mezőgazdasági kistermelői tevékenység egészére választható.
 
-(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag az üzletek működésének rendjéről, valamint az egyes üzlet nélkül folytatható kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele a 100 millió forintot nem haladta meg és nem áll munkaviszonyban.
+(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele a 100 millió forintot nem haladta meg és nem áll munkaviszonyban.
 
 (5) Az a magánszemély, aki egyéni vállalkozóként is és mezőgazdasági kistermelőként is jogosult az átalányadózás választására, külön-külön és egyidejűleg is alkalmazhatja a kétféle tevékenységre elkülönülten az átalányadózást.
 
@@ -21,3 +21,5 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 (7) Az az egyéni vállalkozó, aki az átalányadózását megszünteti vagy arra való jogosultsága megszűnik, ismételten átalányadózást – feltéve, hogy annak egyéb feltételei fennállnak – csak akkor választhat, ha a megszűnés (megszüntetés) évét követően legalább 4 adóév eltelt. Ha a jogosultsága a bevételi értékhatár túllépése miatt szűnt meg, az előbbi rendelkezéstől eltérően az átalányadózás – ha annak egyéb feltételei fennállnak – attól az adóévtől kezdődően újra választható, amely adóévben az e törvényben előírt bevételi értékhatár növekedett.
 
 (8) A tevékenységét év közben kezdő vagy megszüntető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
+
+(9) A tevékenységét szüneteltető egyéni vállalkozó a szünetelés időtartama alatt mentesül az (1) bekezdés b) pontjában foglalt feltétel teljesítése alól.

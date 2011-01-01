@@ -8,9 +8,7 @@
 
 (2) Nem terheli adóelőleg:
 
-a) az adóterhet nem viselő járandóságot,
-
-b) a magánnyugdíjpénztár által a kedvezményezett részére teljesített, nyugdíjszolgáltatásnak nem minősülő kifizetést, feltéve, hogy a magánszemély legkésőbb a kifizetéskor nyilatkozik arról, hogy e törvény rendelkezései szerint az adóévben a kifizetéssel összefüggésben adófizetési kötelezettsége nem keletkezik,
+a)–b)
 
 c) a nyugdíj-előtakarékossági számla terhére teljesített nem-nyugdíj szolgáltatás esetében megállapított adóalapot,
 
@@ -24,7 +22,7 @@ azzal, hogy az a)–e) pontokban említett jövedelmek adóját a magánszemély
 
 (4) A kifizetőnek nem kell adóelőleget megállapítania a számlaadásra kötelezett magánszemély által számlázott, valamint a felvásárlási jegy alapján kifizetett bevételből. Azonban ha a nem egyéni vállalkozóként, nem mezőgazdasági őstermelőként számlaadásra kötelezett magánszemély nyilatkozatot ad arról, hogy kéri az adóelőleg levonását, a kifizetőnek a (3) bekezdés szerint kell eljárnia.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont, megfizetett adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett adóalap-kiegészítést.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, adóalap-kiegészítést, valamint az érvényesített adójóváírást és az érvényesített adókedvezményt, továbbá az adóévi összesített igazoláson a 11/A. § (5) bekezdésében említett esetben a rendelkezésben előírt tájékoztatást is megadja.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 

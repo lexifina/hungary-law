@@ -2,17 +2,17 @@
 
 44/A. § (1) Az önkéntes kölcsönös biztosító pénztár magánszemély tagja az adóbevallásában tett nyilatkozat, munkáltatói adómegállapítás esetén a munkáltatónak átadott nyilatkozat alapján rendelkezhet az összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részéből a következők szerint meghatározott összegek átutalásáról (önkéntes kölcsönös pénztári nyilatkozat):
 
-a) az önkéntes kölcsönös nyugdíjpénztár(ak)ba az adóévben az általa a tagi jogviszonyára tekintettel befizetett összeg, valamint az egyéni számláján jóváírt, e törvény szerint az adóévben megszerzett egyéb jövedelmének minősülő összeg együttes értékének 30 százaléka, de legfeljebb az adóévben 100 ezer forint (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forint),
+a) az önkéntes kölcsönös nyugdíjpénztár(ak)ba az adóévben az általa a tagi jogviszonyára tekintettel befizetett összeg, valamint az egyéni számláján jóváírt, e törvény szerint az adóévben megszerzett egyéb jövedelmének minősülő összeg együttes értékének 20 százaléka, de legfeljebb az adóévben 100 ezer forint (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forint),
 
-b) az önkéntes kölcsönös egészségpénztár(ak)ba és önsegélyező pénztár(ak)ba az adóévben az általa tagi jogviszonyára tekintettel befizetett összeg, valamint az egyéni számláján jóváírt, e törvény szerint az adóévben megszerzett egyéb jövedelmének minősülő összeg együttes értékének 30 százaléka, de legfeljebb az adóévben 100 ezer forint (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forint),
+b) az önkéntes kölcsönös egészségpénztár(ak)ba és önsegélyező pénztár(ak)ba az adóévben az általa tagi jogviszonyára tekintettel befizetett összeg, valamint az egyéni számláján jóváírt, e törvény szerint az adóévben megszerzett egyéb jövedelmének minősülő összeg együttes értékének 20 százaléka, de legfeljebb az adóévben 100 ezer forint (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 130 ezer forint),
 
 de együttesen legfeljebb az adóévben 120 ezer forint (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 150 ezer forint),
 
-c) az önkéntes kölcsönös egészségpénztár tagjaként – az a)–b) pontokban foglaltaktól függetlenül –
+c) az önkéntes kölcsönös egészségpénztár, önsegélyező pénztár tagjaként – az a)–b) pontokban foglaltaktól függetlenül –
 
 ca) az egyéni számláján fennálló számlaköveteléséből a rendelkezése alapján elkülönített és az adóévben a lekötéstől számítva legalább 24 hónapra lekötött – az adóév utolsó napján lekötött számlakövetelésként kimutatott – összeg 10 százaléka a lekötés adóévében,
 
-cb) az egyéni számláján fennálló számlaköveteléséből megbízása alapján a külön kormányrendeletben meghatározott prevenciós szolgáltatás ellenértékeként az önkéntes kölcsönös biztosító pénztár által az adóévben kifizetett összeg 10 százaléka,
+cb) az egyéni számláján fennálló számlaköveteléséből megbízása alapján a külön törvényben meghatározott prevenciós szolgáltatás ellenértékeként az önkéntes kölcsönös biztosító pénztár által az adóévben kifizetett összeg 10 százaléka,
 
 azzal, hogy a ca)–cb) pont és a b) pont alapján az átutalás összege az adóévben nem haladhatja meg a 100 ezer forintot (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, a 130 ezer forintot), és az a) pont szerinti átutalási jogosultságot is figyelembe véve az összes átutalás nem lehet több az adóévben 120 ezer forintnál (annál a magánszemélynél, aki 2020. január 1. előtt tölti be a jogszabályok alapján reá irányadó öregségi nyugdíjkorhatárt, 150 ezer forintnál).
 

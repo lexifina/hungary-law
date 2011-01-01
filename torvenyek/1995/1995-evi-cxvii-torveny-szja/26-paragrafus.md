@@ -1,7 +1,3 @@
 26. § (1) Ha a munkaviszonyból származó, előző naptári évre vonatkozó bevételt, a munkáltató által kifizetett adóköteles társadalombiztosítási ellátást a következő év január 15-éig fizetik ki, azt az előző naptári év utolsó napján megszerzett jövedelemnek kell tekinteni.
 
-(2) A munkaviszony megszűnésével összefüggő végkielégítést a (3) bekezdésben foglalt eltéréssel azon a napon kell megszerzettnek tekinteni, amely napon azt kifizették.
-
-(3) A törvényben meghatározott mértékű, továbbá az állami végkielégítésnek egy hónapra eső részét és a levont adóelőlegnek ehhez kapcsolódó részét legalább annyiszor kell figyelembe venni, ahány teljes hónap a munkaviszony megszűnésétől az adóév végéig eltelik, de legfeljebb ahány hónapra vonatkozik a kifizetés. A fennmaradó végkielégítést és a levont adóelőlegnek erre eső részét, de legfeljebb az egy hónapra jutó összeg tizenkétszeresét a következő adóévben megszerzett jövedelemnek és megfizetett adóelőlegnek kell tekinteni. Amennyiben a végkielégítés teljes összege meghaladja az így számított értéket, a fennmaradó összeget és az ehhez kapcsolódó levont adóelőleget a munkaviszony megszűnését követő második évben megszerzett jövedelemnek és megfizetett adóelőlegnek kell tekinteni.
-
-(4) A magánszemély a (3) bekezdésben említett végkielégítés kifizetését megelőzően írásban nyilatkozhat, hogy a (3) bekezdés rendelkezését nem kívánja alkalmazni. Az a magánszemély, akinek az e § (3) bekezdése szerinti áthúzódó végkielégítés alapján az adóévben adókötelezettsége áll fenn, az adóhatósági adómegállapításra vonatkozó nyilatkozatot nem tehet.
+(2)–(4)

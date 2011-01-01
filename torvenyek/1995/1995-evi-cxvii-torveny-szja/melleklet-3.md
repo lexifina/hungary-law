@@ -2,11 +2,7 @@
 
 Az összevont adóalap megállapításához elszámolható költségekről
 
-E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, korlátozott mértékű átalányban értékcsökkenést, valamint a mezőgazdasági őstermelő:
-
-a) a tárgyi eszközök és nem anyagi javak értékcsökkenési leírását;
-
-b) e tevékenységének megkezdése előtt – legfeljebb három évvel korábban – beszerzett, és utóbb e tevékenység végzése során felhasznált anyag- és árukészlet beszerzésére fordított, korábban költségként még el nem számolt kiadásait, valamint a tevékenység megkezdéséhez szükséges egyéb kiadásait a tevékenységének kezdése évében költségként elszámolhatja, továbbá a legfeljebb három évvel korábban beszerzett tárgyi eszközök és nem anyagi javak értékcsökkenési leírásának elszámolását megkezdheti.
+E törvénynek az elismert költségekre és a költségek elszámolására vonatkozó általános rendelkezéseit is figyelembe véve, az e mellékletben foglaltakat kell alkalmazni, ha az önálló tevékenységet folytató magánszemély a jövedelmét tételes költségelszámolással állapítja meg, valamint minden olyan esetben, amikor a magánszemély kiadásainak elszámolása, megtérítése (ideértve a jogszabály alapján történő költségtérítést is) szempontjából minősíteni szükséges, hogy az beletartozik-e az elismert költségek körébe. Kizárólag üzemi célt szolgálnak azok a tárgyi eszközök és nem anyagi javak, amelyeket a magánszemély önálló tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősülhet kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi. A magánszemély költségként számolhatja el a bevétel megszerzésével közvetlenül összefüggő kiadásokat, korlátozott mértékű átalányban az értékcsökkenést.
 
 A több önálló tevékenységhez használt tárgyi eszközök, nem anyagi javak esetében a magánszemély választhat, hogy melyik tevékenységének bevételével szemben számolja el az e melléklet rendelkezései szerint érvényesíthető költséget. A költség (az értékcsökkenési leírás a teljes leírásig) nem osztható meg a különböző tevékenységek bevételei között.
 
@@ -22,7 +18,7 @@ Költségként elszámolható kiadások különösen a következők:
 
 a) részére kifizetett bér és annak közterhei,
 
-b) külön törvény rendelkezései szerinti alkalmi munkavállalói könyvvel történő foglalkoztatása esetén a kifizetett munkadíj(ak) és a foglalkoztató magánszemély nevére szóló számviteli elszámolásra alkalmas bizonylattal igazolt – az alkalmi munkavállalói könyvben érvényesített, az előírt nyilvántartásban feltüntetett – érvényesített közteherjegyek értékének összege,
+b)
 
 c) javára megítélt és kifizetett baleseti kártérítés,
 
@@ -42,7 +38,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 10. az állami költségvetésbe, központi alapokba, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
 
-11. az üzlet, a műhely, a gazdasági épület bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex használati díja azzal, hogy ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet a kiadásokat figyelembe venni az adott költségre jellemző mértékegységek (nap, m2, m3 stb.) alapulvételével;
+11. az adózás rendjéről szóló törvény szerinti telephely bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex használati díja azzal, hogy ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet a kiadásokat figyelembe venni az adott költségre jellemző mértékegységek (nap, m2, m3 stb.) alapulvételével (a közüzemi számlák esetében a házastárs nevére szóló számla alapján is);
 
 12. a mezőgazdasági őstermelőnél a telefon, a rádiótelefon, a telefax, a cb-rádió, a telex telephelyre történő beszerelése esetén a készülék ára, és a beszerelés díja (ha a lakás és telephely műszakilag nem elkülönített, a telefon árának és beszerelési díjának 50 százaléka), továbbá – ha a használat csak részben szolgálja a tevékenységet, tételes elkülönítés nélkül – az internet használati díjának 30 százaléka, elektronikus bevallás adására kötelezett mezőgazdasági őstermelő esetében 50 százaléka;
 
@@ -110,7 +106,7 @@ III. Az értékcsökkenési leírás elszámolása
 
 IV. A járművek költsége
 
-1. A saját tulajdonú – ideértve a továbbiakban a házastárs tulajdonát is – jármű üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett jármű (ideértve a továbbiakban a házastárs tulajdonát képező, illetve a házastárs által zárt végű lízingbe vett járművet is) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
 
 a) az üzemanyag-fogyasztási norma és az állami adóhatóság által közzétett üzemanyagár,
 

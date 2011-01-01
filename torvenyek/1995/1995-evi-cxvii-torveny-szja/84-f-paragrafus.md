@@ -1,0 +1,1 @@
+84/F. § Az egyéni vállalkozó és a társas vállalkozás személyes közreműködő tagja 2010. évi adókötelezettségére az e törvény kivét-kiegészítésre, személyes közreműködői díj-kiegészítésre vonatkozó 2010. december 31-én hatályos rendelkezéseit nem kell alkalmazni.

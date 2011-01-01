@@ -52,7 +52,27 @@ kötelezettségként vallja be,
 
 a megszűnés adóévéről szóló személyi jövedelemadó bevallásában, és az adót e bevallás, illetve a kötelezettség évére vonatkozó személyi jövedelemadó bevallás benyújtására nyitva álló határidőig fizeti meg.
 
-(6) A (2)–(5) bekezdésben foglaltak értelemszerűen irányadóak akkor is, ha az egyéni vállalkozó a tevékenységét ügyvédi iroda, közjegyzői iroda, végrehajtói iroda tagjaként folytatja azzal, hogy a rendelkezéseket a tagi jogviszony keletkezését megelőző napra vonatkozóan kell alkalmazni.
+(6) Ha az egyéni vállalkozó a tevékenységét ügyvédi iroda, közjegyzői iroda, végrehajtói iroda tagjaként folytatja, a tagi jogviszony keletkezését megelőző napra vonatkozóan az egyéni vállalkozói tevékenységét megszünteti azzal, hogy
+
+a) a foglalkoztatási kedvezménnyel, a nyilvántartott adókülönbözettel, a kisvállalkozások adókedvezményével összefüggő, a megszüntetésre vonatkozó szabályokat nem kell alkalmaznia;
+
+b) adómegfizetési kötelezettség esetén késedelmi pótlék nélkül
+
+ba) a kisvállalkozói kedvezménnyel összefüggésben, az erre vonatkozó rendelkezés szerinti, az érvényesítés évében hatályos adómérték felét,
+
+bb) a nyilvántartásba vett fejlesztési tartalékkal összefüggésben – vállalkozói osztalékalap utáni adó-fizetés nélkül – az erre vonatkozó rendelkezés szerinti, a nyilvántartásba vétel évében hatályos adómértéket
+
+kell figyelembe venni;
+
+c) az a)–b) pont szerinti kötelezettségek, valamint a vállalkozói személyi jövedelemadó és a vállalkozói osztalékalap utáni adó együttes összegét csökkenti az elhatárolt veszteség után az adó mértékével számított összeg;
+
+d) a b) pont szerinti kötelezettségek esetében – ha együttes összegük a 10 ezer forintot meghaladja – a magánszemély választhatja, hogy három egyenlő részletben,
+
+da) az elsőt a vállalkozói személyi jövedelemadóval és a vállalkozói osztalékalap utáni adókötelezettséggel együtt az adóévi,
+
+db) a további két részletet a következő két adóévi
+
+kötelezettségként vallja be, a megszüntetés adóévéről szóló személyi jövedelemadó bevallásában, és azt e bevallás, illetve a kötelezettség évére vonatkozó személyi jövedelemadó bevallás benyújtására nyitva álló határidőig fizeti meg.
 
 (7) Nem kell a tevékenység megszűnésére irányadó rendelkezéseket alkalmazni, ha az egyéni vállalkozó e tevékenységét cselekvőképességének elvesztését követően a nevében és javára törvényes képviselője folytatja. Ha az egyéni vállalkozó e tevékenységét halála után özvegye vagy örököse folytatja, akkor – az egyéni vállalkozó tevékenységét folyamatosnak tekintve – úgy kell eljárni, hogy az adóévben az elhunyt egyéni vállalkozó által megszerzett vállalkozói bevétel, elszámolt vállalkozói költség, igénybe vett kedvezmény, elhatárolt veszteség kizárólag az özvegyet, az örököst illeti, feltéve, hogy az özvegy, illetve az örökös a tevékenység folytatásának szándékát 90 napon belül bejelenti az állami adóhatóságnak. Az elhunyt egyéni vállalkozó által az adóévben költségként elszámolt vállalkozói kivétet azonban ilyenkor is kizárólag az elhunyt által megszerzett önálló tevékenységből származó jövedelemnek kell tekinteni, de annak összegét – e törvény rendelkezéseinek megfelelő alkalmazásával – az özvegy, illetve az örökös figyelembe veszi a vállalkozói adóalap és vállalkozói osztalékalap, valamint az e jövedelmeket terhelő adó összegének megállapításánál.
 

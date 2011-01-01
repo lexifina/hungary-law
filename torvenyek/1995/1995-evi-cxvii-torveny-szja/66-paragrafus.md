@@ -1,6 +1,6 @@
 ## Az osztalékból származó jövedelem
 
-66. § (1) A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál – pl. az osztalékból megállapított személyes közreműködői díj-kiegészítésként – kell figyelembe venni)
+66. § (1) A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni)
 
 a) osztalék
 
@@ -14,11 +14,7 @@ ad) a kockázatitőkealap-jegy hozama;
 
 b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
-(2) Az adó mértéke
-
-a) bármely EGT-államban működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak (osztalékelőlegnek) minősülő hozama után 10 százalék;
-
-b) az a) pontban nem említett osztalék (osztalékelőleg) esetében 25 százalék.
+(2)
 
 (3) Az adót a kifizető –
 
@@ -30,4 +26,4 @@ b) figyelemmel a 15. § (4) bekezdésének rendelkezésére, valamint az adózá
 
 (4)
 
-(5) A belföldi illetőségű magánszemély által megszerzett, külföldön is adóztatható osztalékból származó jövedelem esetében az adót csökkenti az osztalék külföldön megfizetett adója. Nemzetközi szerződés hiányában a külföldön megfizetett adó beszámítása következtében az osztalék után fizetendő adó nem lehet kevesebb a jövedelem 5 százalékánál, és nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár.
+(5)

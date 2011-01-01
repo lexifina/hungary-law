@@ -2,7 +2,7 @@
 
 28. § (1) Egyéb jövedelem minden olyan bevétel, amelynek adókötelezettségére e törvény eltérő rendelkezést nem tartalmaz, azzal, hogy – a költségelszámolásra vonatkozó rendelkezéseket is figyelembe véve – a bevételnek nem része a megszerzése érdekében a magánszemély által viselt szabályszerűen igazolt kiadás. Egyéb jövedelem különösen
 
-a) az adóterhet nem viselő járandóság,
+a)
 
 b)
 
@@ -82,7 +82,7 @@ a) a bevétel teljes egészében egyéb jövedelem arra az összegre vonatkozóa
 
 b) a jövedelem megállapításának e bekezdésben foglalt szabálya szempontjából a kötelező várakozási időszak letelte évének – a jóváírást követő évet első évnek tekintve – az adott összeg(ek) jóváírásának naptári évét követő tizedik évet kell tekinteni, azzal, hogy, elsőként a legrégebben jóváírt összegek kifizetését (juttatását) kell vélelmezni.
 
-(9) Egyéb jövedelem a magánnyugdíjpénztár által a kedvezményezett részére teljesített, nyugdíjszolgáltatásnak nem minősülő kifizetés.
+(9)
 
 (10)
 

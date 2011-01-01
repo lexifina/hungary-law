@@ -58,13 +58,13 @@ k) vállalkozásból kivont jövedelem esetében a társas vállalkozás székhe
 
 l) nyereményből származó jövedelem esetében a szerencsejáték szervezőjének székhelye szerinti állam, ha azonban a szerencsejáték szervezése – akár engedéllyel, akár engedély nélkül – telephely (állandó bázis), fióktelep, kereskedelmi képviselet útján történik, akkor a telephely (az állandó bázis), a fióktelep, illetve a kereskedelmi képviselet fekvése szerinti állam;
 
-m) az e törvény szerint természetbeni juttatásnak minősülő bevétel esetén belföld;
+m)
 
 n) a társasági adóról és az osztalékadóról szóló törvény szerinti ingatlannal rendelkező társaságban lévő részesedés ellenérték fejében történő átruházása, kölcsönbe adása vagy ilyen társaságból történő kivonása révén megszerzett jövedelem esetében – az a), az i), a k) és az o) alpontban foglaltaktól függetlenül – belföld;
 
 o) az a)–n) alpontokban nem említett esetben a magánszemély illetősége szerinti állam.
 
-5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 12 százalék, kivéve, ha az állammal a Magyar Köztársaság egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék, kivéve, ha az állammal a Magyar Köztársaság egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6. Adóév: az az időszak, amelyre vonatkozóan az adó alapját meg kell állapítani; ez a naptári év, az e törvényben meghatározott kivételekkel.
 
@@ -72,33 +72,23 @@ o) az a)–n) alpontokban nem említett esetben a magánszemély illetősége sz
 
 8. Adókötelezettség: a bejelentésre, a nyilatkozattételre, az adóalap- és adómegállapításra, a bevallásra, az adóelőleg- és adófizetésre, az adólevonásra, a nyilvántartás-vezetésre, a bizonylatkiállításra, az adatszolgáltatásra, az iratok megőrzésére vonatkozóan a bevételt szerző magánszemély és az adóztatásban közreműködő kifizető számára e törvény és az adózás rendjéről szóló törvény rendelkezései szerint előírt tennivalók összessége.
 
-9. Szokásos piaci érték: az az ellenérték (a továbbiakban ideértve a kamatot és a tevékenység piaci viszonyoknak megfelelő díjazását is), amelyet független felek összehasonlítható körülmények esetén egymás között érvényesítenek, vagy érvényesítenének. Nem független felek között a szokásos piaci értéket a következő módszerek valamelyikével kell meghatározni:
+9. Szokásos piaci érték: az az ellenérték (a továbbiakban ideértve a kamatot is), amelyet független felek összehasonlítható körülmények esetén egymás között érvényesítenek, vagy érvényesítenének. Nem független felek között a szokásos piaci érték az az ellenérték (ár, kamat), amelyet
 
-a) az az ellenérték (ár, kamat, járandóság), amelyet független felek alkalmaznak az összehasonlítható termék, szolgáltatás értékesítésekor, vagy összehasonlítható tevékenység esetén a gazdaságilag összehasonlítható piacon (összehasonlító módszer);
+a) független felek alkalmaznak az összehasonlítható termék, szolgáltatás értékesítésekor gazdaságilag összehasonlítható piacon (összehasonlító módszer), vagy
 
-b) a terméknek, szolgáltatásnak független fél felé, változatlan formában történő értékesítése során alkalmazott ellenérték (ár), csökkentve a viszonteladó költségeivel és a szokásos haszonnal (viszonteladási árak módszere);
+b) a terméknek, szolgáltatásnak független fél felé, változatlan formában történő értékesítése során alkalmazott ellenértékből (árból) a viszonteladói költségek és a szokásos haszon levonásával határoznak meg (viszonteladási árak módszere), vagy
 
-c) a termék, a szolgáltatás közvetlen önköltsége, növelve a szokásos haszonnal (költség és jövedelem módszer);
+c) a termék, a szolgáltatás szokásos haszonnal növelt közvetlen önköltségével határoznak meg (költség és jövedelem módszer), vagy
 
-d) egyéb módszerrel megállapított érték, ha a szokásos piaci érték az a)-c) pont szerinti módszerek egyikével sem határozható meg;
+d) független fél által az ügylet révén elért – megfelelő vetítési alapra (bevétel, költség, tárgyi eszközök és nem anyagi javak) vetített – ügyleti nyereség figyelembevételével állapítanak meg (ügyleti nyereségen alapuló módszer), vagy
 
-azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek;
+e) a nem független felek az ügyletből származó összevont nyereségnek gazdaságilag indokolható alapon olyan arányban történő felosztásával határoznak meg, ahogy független felek járnának el az ügyletben (nyereség-megosztásos módszer), vagy
 
-e) személyes közreműködői, egyéni vállalkozói tevékenység esetében választható továbbá
+f) egyéb módszerrel állapítanak meg, ha a szokásos piaci érték az a)–e) pont szerinti módszerek egyikével sem határozható meg
 
-ea) az az ellenérték, amely – a személyes közreműködő, az egyéni vállalkozó képzettségét, szakmai gyakorlatát, tevékenységének többféleségét, fő-, kiegészítő- vagy másodállás jellegét, a ráfordított vagy kieső időt (pl. betegség, hatósági intézkedés miatt) stb. figyelembe véve – a tevékenység folytatásának adott térségében, adott körülményei között, hasonló munkakörben az adott színvonalú, terjedelmű tevékenységet folytató munkavállalót megilleti vagy megilletné;
+azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek.
 
-vagy
-
-eb) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek, a szokásos vállalkozói haszon levonásával meghatározott összeg és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
-
-vagy
-
-ec) a társas vállalkozás, az egyéni vállalkozó által elért bevételből a személyes közreműködő(k) díja, illetve a vállalkozói kivét nélkül számított költségek levonásával meghatározott összeg 80 százaléka és az ea) pontban említett körülmények figyelembevételével megállapított járandóság,
-
-azzal, hogy szokásos vállalkozói haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek, figyelembe véve a társas vállalkozás, az egyéni vállalkozó piaci helyzetét, kockázatait, versenyképességét, eredményességét, működési feltételeit (kezdés, szünetelés, megszűnés, elemi kár, hatósági intézkedés stb.).
-
-10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés (kirendelés) miatt szükséges utazást; továbbá az országgyűlési képviselő, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét).
+10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés (kirendelés) miatt szükséges utazást, de ide nem értve az olyan utazást, amelyre vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti; továbbá az országgyűlési képviselő, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét).
 
 11. Kiküldetés (kirendelés): a munkáltató által elrendelt, a munkaszerződésben rögzített munkahelytől eltérő helyen történő munkavégzés, ideértve a fegyveres szervek hivatásos állományú tagjának, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezését, átvezénylését is.
 
@@ -106,7 +96,7 @@ azzal, hogy szokásos vállalkozói haszon az a haszon, amelyet összehasonlíth
 
 13. Külszolgálat: a munkáltató által elrendelt, külföldön történő munkavégzés.
 
-14. Munkáltató: az, akivel (amellyel) a magánszemély munkaviszonyban áll, illetve munkaerő-kölcsönzés esetén – a munkavállaló kölcsönbeadójával kötött megállapodás alapján – a kölcsönzött munkavállaló részére közvetlenül juttatott bevétel tekintetében a munkavállaló kölcsönvevője. Munkaerő-kölcsönzés esetén a bevételnek nem számító juttatásra, valamint a munkáltatónál adóköteles béren kívüli juttatásra az e törvényben megállapított rendelkezéseket a kölcsönbeadó és a kölcsönvevő ilyen juttatásának együttes összegére vonatkozóan kell irányadónak tekinteni.
+14. Munkáltató: az, akivel (amellyel) a magánszemély munkaviszonyban áll, illetve munkaerő-kölcsönzés esetén – a munkavállaló kölcsönbeadójával kötött megállapodás alapján – a kölcsönzött munkavállaló részére közvetlenül juttatott bevétel tekintetében a munkavállaló kölcsönvevője. Munkaerő-kölcsönzés esetén a bevételnek nem számító juttatásra, valamint a béren kívüli juttatásra [71. §] az e törvényben megállapított rendelkezéseket a kölcsönbeadó és a kölcsönvevő ilyen juttatásának együttes összegére vonatkozóan kell irányadónak tekinteni.
 
 15. Társadalombiztosítási ellátás: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a kötelező egészségbiztosításról szóló törvény, a társadalombiztosítási nyugellátásról szóló törvény, valamint a családok támogatásáról szóló törvény alapján folyósított ellátás.
 
@@ -120,7 +110,7 @@ aa) az ingatlan-bérbeadási,
 
 ab) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló kormányrendelet szerinti egyéb szálláshely-szolgáltatási
 
-tevékenységéből származó bevételére az ingatlan-bérbeadásból származó jövedelemre, vagy az önálló tevékenységből származó jövedelemre, vagy a tételes átalányadózásra vonatkozó rendelkezések alkalmazását választja, kizárólag a választott rendelkezések szerinti adózási mód alapjául szolgáló bevételei tekintetében;
+tevékenységéből származó bevételére az önálló tevékenységből származó jövedelemre, vagy a tételes átalányadózásra vonatkozó rendelkezések alkalmazását választja, kizárólag a választott rendelkezések szerinti adózási mód alapjául szolgáló bevételei tekintetében;
 
 b) a közjegyző a közjegyzőkről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét közjegyzői iroda tagjaként folytatja);
 
@@ -166,7 +156,7 @@ b) az adóköteles társadalombiztosítási ellátás;
 
 c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás (kivéve az adóterhet nem viselő járandóságnak minősülő ellátást);
 
-d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított vállalkozói járadék, álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
+d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
 
@@ -208,11 +198,11 @@ n)
 
 25. Helyi önkormányzat: a helyi önkormányzatokról szóló törvény által meghatározott önkormányzat, ideértve a helyi kisebbségi önkormányzatot is.
 
-26. Súlyosan fogyatékos személynek azt kell tekinteni, aki súlyos egészségkárosodással összefüggő jogosultságról szóló jogszabályban említett betegségben szenvedőnek minősül, továbbá, aki rokkantsági járadékban részesül.
+26. Reprezentáció: a juttató tevékenységével összefüggő üzleti, hivatali, szakmai, diplomáciai vagy hitéleti rendezvény, esemény keretében, továbbá az állami, egyházi ünnepek alkalmával nyújtott vendéglátás (étel, ital) és a rendezvényhez, eseményhez kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.) azzal, hogy az előzőek nem minősülnek reprezentációnak, ha a juttatásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási hely és idő, a tényleges szakmai, illetve hitéleti program és a szabadidőprogram aránya stb.) valós tartalma alapján a rendeltetésszerű joggyakorlás sérelme akár közvetve is megállapítható.
 
-27. Művelődési intézményi szolgáltatás: könyvtári, levéltári szolgáltatás (SZJ 92.51); múzeumi szolgáltatás, kulturális örökség védelme (SZJ 92.52); előadóművészet (SZJ 92.31.21), filmvetítés (SZJ 92.13.11), állat-, növénykert, védett természeti érték bemutatása (SZJ 92.53.1), közművelődési intézmény által nyújtott felnőtt- és egyéb oktatás (SZJ 80.4).
+27. Üzleti ajándék: a juttató tevékenységével összefüggő üzleti, hivatali, szakmai, diplomáciai vagy hitéleti kapcsolatok keretében adott, a minimálbér 25 százalékának megfelelő egyedi értéket meg nem haladó ajándék (ingyenesen vagy kedvezményesen adott termék, nyújtott szolgáltatás, valamint a kizárólag erre szóló utalvány).
 
-28. Egységes területalapú támogatás: az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott területalapú támogatás és annak nemzeti támogatásból történő kiegészítése azzal, hogy e törvény alkalmazásában ez a támogatás nem tekinthető költségek fedezetére vagy fejlesztési célra folyósított támogatásnak.
+28. Egységes területalapú támogatás: az Európai Mezőgazdasági Garancia Alapból (EMGA) finanszírozott területalapú támogatás és annak nemzeti támogatásból történő kiegészítése azzal, hogy e törvény alkalmazásában ez a támogatás nem tekinthető költségek fedezetére vagy fejlesztési célra folyósított támogatásnak.
 
 29. Ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog, kivéve a földingatlan tulajdonosváltozása nélkül értékesített lábon álló (betakarítatlan) termést, terményt (pl. lábon álló fa).
 
@@ -222,17 +212,17 @@ n)
 
 32. Értéknövelő beruházás:
 
-a szokásos piaci értéket növelő ráfordítás, azzal, hogy szokásos piaci értéket növelő ráfordításnak minősül az az igazolt kiadás, amely
+az ingó, ingatlan szokásos piaci értékét növelő ráfordítás, azzal, hogy szokásos piaci értéket növelő ráfordításnak minősül az az igazolt kiadás is, amely
 
 a) az ingó dolog átruházása esetén annak eredeti használhatóságát növeli, javítja és/vagy az átruházást megelőző 12 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az eredeti használhatóságának megőrzése, helyreállítása céljából történt;
 
-b) ingatlan átruházása esetében a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés céljából történt, és/vagy az átruházást megelőző 24 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az ingatlan állagmegóvása céljából történt.
+b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az ingatlan állagmegóvása céljából történt.
 
 33. Társas vállalkozás: a gazdasági társaság, az európai részvénytársaság (ideértve az európai holding részvénytársaságot is), az európai szövetkezet, az egyesülés, a szövetkezet, a lakásszövetkezet, az egyéni cég, az ügyvédi iroda, a végrehajtói iroda, a közjegyzői iroda, a szabadalmi ügyvivői iroda, az erdőbirtokossági társulat, az MRP szervezet.
 
 34. Értékpapír: minden olyan okirat, adat, amelyet a Ptk., vagy a kibocsátás helyének joga értékpapírnak tekint, továbbá a közkereseti társaság részére rendelkezésre bocsátott vagyoni hozzájárulás, a betéti társaság részére rendelkezésre bocsátott vagyoni betét, a kft üzletrész, a szövetkezetekről szóló törvény szerinti részjegy, befektetői részjegy, átalakított befektetői részjegy, célrészjegy és más vagyoni hozzájárulás a szövetkezeti tagsági kölcsön kivételével, valamint más, tagsági jogot megtestesítő vagyoni részesedés.
 
-35. Szociális segély: a szociálisan rászorulónak pénzben vagy természetbeni formában, ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
+35. Szociális segély: a szociálisan rászorulónak pénzben vagy nem pénzben ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
 
 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 
@@ -252,7 +242,7 @@ b) ingatlan átruházása esetében a lakáscélú állami támogatásokról sz�
 
 a) legalább 6 hónapig az állami foglalkoztatási szerv által nyilvántartott munkanélküli volt, vagy
 
-b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján munkanélküli ellátásban, a szociális igazgatásról és szociális ellátásokról szóló törvény alapján munkanélküliek jövedelempótló támogatásában részesült, vagy
+b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján álláskeresők támogatásában a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátásában részesült, vagy
 
 c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött,
 
@@ -262,7 +252,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 45. Személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy ide tartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó. Személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű, olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a felhasználás szerinti terhek szállítására bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
 
-46. Törvényben meghatározott mértékű végkielégítésnek minősül a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény alapján folyósított végkielégítés, leszerelési segély és továbbszolgálói jutalom is.
+46.
 
 47. Lízingnek minősül a tárgyi eszköz használatba adása 1997. január 1-je előtt kötött olyan szerződés alapján, amely annak határozott időre szóló, de 365 napot meghaladó bérletéről azzal a kikötéssel rendelkezik, hogy a bérlő a tulajdonjogot legkésőbb az utolsó bérleti díj kiegyenlítésével, illetőleg a szerződés lejártával megszerzi vagy számára a bérbeadó vételi jogot biztosít.
 
@@ -274,7 +264,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 51. Termőföld: a termőföldről szóló 1994. évi LV. törvény 3. § a), f) pontjaiban meghatározott földterület.
 
-52. Közcélú adományra vonatkozó igazolás: a közcélú adomány jogosultja által kiállított olyan igazolás, amely tartalmazza a kiállító és a magánszemély (ideértve az egyéni vállalkozót is) megnevezését, nevét, székhelyét, lakóhelyét, telephelyét, adóazonosító számát, a közcélú adomány összegét és a támogatott célt, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
+52.
 
 53. Termőföld haszonbérbeadása: a termőföld magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás.
 
@@ -286,29 +276,11 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 59.
 
-60. Kedvezményezett eltartott
-
-a) az, akire tekintettel a családok támogatásáról szóló törvény szerint, valamint bármely EGT-állam hasonló jogszabálya alapján családi pótlékot, illetőleg más hasonló ellátást folyósítanak,
-
-b) az, aki a családi pótlékra saját jogán jogosult,
-
-c) a magzat (ikermagzat) a várandósság időszakában (fogantatásának 91. napjától megszületéséig),
-
-d) a rokkantsági járadékban részesülő magánszemély.
+60.
 
 61. Ingatlannak közérdekű célra történő megvásárlása: a kisajátításról szóló 2007. évi CXXIII. törvény rendelkezései szerint történő vásárlás.
 
-62. Hallgatói munkadíj: a felsőoktatásról szóló törvényben felsorolt felsőoktatási intézményben akkreditált iskolai rendszerű első alap-, illetve mesterképzésben teljes idejű képzésben résztvevő, továbbá az első doktori képzésben résztvevő hallgató által
-
-a) annál a felsőoktatási intézménynél, amellyel hallgatói jogviszonyban áll, vagy
-
-b) az e felsőoktatási intézmény tulajdonában (kezelésében) lévő ingatlanban székhellyel rendelkező cégnél, vagy
-
-c) olyan más cégnél, amelyben e felsőoktatási intézmény részesedéssel rendelkezik, illetve
-
-d) a Magyar Tudományos Akadémia felsőoktatást és/vagy posztgraduális képzést is végző kutatóintézeténél
-
-a képesítési követelményekben meghatározott képzési ideje alatt végzett munkája ellenértékeként az említett intézménytől, illetve cégtől megszerzett bevétel.
+62.
 
 63. Csoportos személyszállítás: ha a munkáltató a munkavégzés érdekében legalább négy munkavállaló szállításáról gondoskodik
 
@@ -332,79 +304,31 @@ b) különjárat formájában kifizetőtől igénybe vett személyszállítási 
 
 71. Szakképzéssel összefüggő juttatás: a szakképzésről szóló törvény előírásai alapján a tanulót, illetve a felsőfokú szakképzésben részt vevő hallgatót megillető pénzbeli juttatás, valamint a szakképzésben tanulószerződés, illetve hallgatói szerződés nélkül részt vevő tanulót a szakképzéssel összefüggő szakmai gyakorlat időtartamára a szakképzésről szóló törvény előírásai alapján megillető díjazás.
 
-72. Adóterhet nem viselő járandóság:
-
-a) a nyugdíj, a nyugdíjban részesülő magánszemélyt megillető
-
-aa) baleseti járadék,
-
-ab) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
-
-b) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott nevelőszülői díj;
-
-c) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj;
-
-d) a szociális gondozói díj évi 180 ezer forintot meg nem haladó része;
-
-e) a szakképző iskolai tanulónak, illetve felsőfokú szakképzésben részt vevő hallgatónak tanulószerződés, illetve hallgatói szerződés alapján, valamint szakképzésben tanulószerződés nélkül résztvevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, valamint a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény alapján a Munkaerőpiaci Alap képzési alaprésze terhére folyósított szakiskolai tanulmányi ösztöndíj.
-
-f) a felsőoktatási intézmény nappali tagozatos hallgatója részére
-
-fa) a felsőoktatásról szóló törvény szerint az őt megillető juttatásként kifizetett
-
-– ösztöndíj,
-
-– tankönyv- és jegyzettámogatás teljes összege,
-
-– a diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
-
-fb) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
-
-g) a közoktatásról szóló törvényben meghatározott nevelési-oktatási intézmény, a felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy egyház által a tanuló, a hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, e törvény alkalmazásában bevételnek minősülő, az e)–f) alpontban nem említett pénzbeli juttatás;
-
-h)
-
-i) a hallgatói munkadíjnak havonta a hónap első napján érvényes minimálbér kétszeresét meg nem haladó része;
-
-j)
-
-k) a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt támogatás;
-
-l) törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés, vagy viszonosság alapján az adó alól a Magyar Köztársaságban mentesített, de az adó kiszámításánál figyelembe vehető, e törvény rendelkezése szerint nem külön adózó jövedelemnek minősülő jövedelem;
-
-m) a 3. § 78. pontja szerinti EGT-állam joga alapján az a)–j) alpontban meghatározott bevételnek megfelelő jogcímen kifizetett (juttatott) bevétel;
-
-n) a 3. § 78. pontja szerinti EGT-állam joga alapján kifizetett (juttatott) olyan, e törvény szerint az összevont adóalapba tartozó jövedelem alapjául szolgáló bevétel, amely a tagállam belső joga szerint akkor is mentes a jövedelemadónak megfelelő adó alól, ha azt az ott illetőséggel bíró magánszemély részére fizetik (juttatják);
-
-o) a felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
-
-ö) az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
-
-p) a termőföldről szóló törvényben meghatározott mezőgazdasági termelő, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része.
-
-q) a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló;
-
-r) az „Útravaló” Ösztöndíjprogram keretében a kormány rendeletében meghatározott feltételekkel és módon adományozott tanulói és mentori ösztöndíj;
-
-s) a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, továbbá az oktatási és kulturális miniszter által adományozott – a kormányrendeletben meghatározott – Deák Ferenc ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
-
-t) a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét is) a vételár vagy a teljes építési költség 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás);
-
-u) a szépkorúak jubileumi köszöntéséről szóló kormányrendelet alapján folyósított juttatás;
-
-v) a katonai és a rendvédelmi felsőoktatási intézmények ösztöndíjas hallgatójának illetménye (ösztöndíja) és egyéb pénzbeli juttatása.
+72.
 
 73. Lakás: az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró építmény, valamint az építési engedély szerint lakóház céljára létesülő építmény, ha készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lévő lakóház.
 
 74. Lakótelek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek, ha arra a településszerkezeti terv, a helyi építési szabályzat szerint lakás építhető, valamint az ingatlan-nyilvántartásban a lakással együtt nyilvántartott földrészlet, továbbá az a földrészlet, amelyet lakáshoz tartozó földhasználati jog terhel.
 
-75. A magánszemély összes jövedelme az adóévben: a magánszemély adóbevallása, illetve a munkáltatói adómegállapítása szerinti összevont adóalap és külön adózó valamennyi jövedelem, illetve bevétel együttes összege, azzal, hogy
+75. A magánszemély összes jövedelme az adóévben: a magánszemély összevont adóalapja [29. § (1) bekezdés] és külön adózó valamennyi – bevallási kötelezettséggel járó – jövedelme, a következőket is figyelembe véve:
 
-a) a vállalkozói személyi jövedelemadózást alkalmazó egyéni vállalkozónál az e tevékenységére tekintettel megállapított, az összevont adóalapba tartozó adóalapot és a vállalkozói osztalékalap külön adózó részét kell együttesen figyelembe venni;
+a) be kell számítani
 
-b) nem kell beszámítani az ingatlan átruházásából származó, az összevont adóalapba nem tartozó jövedelmet;
+aa) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozónál a vállalkozói osztalékalapot is,
 
-c) be kell számítani az egyszerűsített közteherviselési hozzájárulás alapjául jogszerűen figyelembe vett bevételt is.
+ab) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól a Magyar Köztársaságban mentesített azon jövedelmet, amelyet az összevont adólapba nem kell beszámítani,
+
+ac) az egyszerűsített közteherviselési hozzájárulás alapjául figyelembe vett bevételt,
+
+ad) azt a bevételt, amelyet külön törvény előírása alapján kell beszámítani;
+
+b) nem kell beszámítani
+
+ba) az ingatlan átruházásából, vagyoni értékű jog visszterhes alapításából, átruházásából (végleges átengedéséből), megszüntetéséből, ilyen jogról való végleges lemondásból származó, az összevont adóalapba nem tartozó jövedelmet,
+
+bb) a munkaviszony jogellenes megszüntetésére tekintettel bírósági ítélet alapján fizetett összeget,
+
+bc) az osztalékelőleget azzal, hogy az osztalékelőleg osztalékká váló része a beszámoló elfogadásának évében része a magánszemély összes jövedelmének.
 
 76. Nyugdíj-előtakarékossági számla: a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlavezető által vezetett, az említett törvény szerinti számlák együttese, feltéve, hogy a magánszemély nyilatkozata alapján a számlavezető a nyugdíj-előtakarékossági számlákon, továbbá a velük kapcsolatos, e törvény rendelkezéseinek alkalmazásához előírt bizonylatokon „NYESZ-R” megkülönböztető jelzést alkalmaz.
 
@@ -418,15 +342,15 @@ c) be kell számítani az egyszerűsített közteherviselési hozzájárulás al
 
 81. Kifizető: az adózás rendjéről szóló törvényben meghatározott személy azzal az eltéréssel, hogy kifizetőnek minősül a külföldi személy által belföldi szolgáltatói tevékenysége tekintetében megbízott belföldi illetőségű hitelintézet is, ha az ilyen megbízás alapján belföldön adóköteles jövedelmet fizet ki (ír jóvá).
 
-82. Pályakezdő személy: a munkavállaló a középfokú nevelési-oktatási vagy a felsőoktatási intézménnyel nappali képzés keretében fennálló jogviszonya megszűnését, illetve a tanulói jogviszonya tankötelezettség címén való megszűnését követő egy naptári éven belül létesített első munkaviszonyában, illetve első munkavégzésre irányuló egyéb jogviszonyában.
+82.
 
-83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, az élelmezési költségtérítést, valamint ezen költségtérítés(ek) kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.). A kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
+83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.). A kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
 
 84. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13. cikkei alapján megillető támogatás.
 
 85. Ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló törvény szerinti ellenőrzött külföldi társaság.
 
-86. A tevékenységre jellemző kereset: a magánszemély főtevékenységére jellemző, a piaci viszonyoknak megfelelő díjazás.
+86.
 
 87. Üdülési csekk: a Magyar Nemzeti Üdülési Alapítvány által kibocsátott névre szóló, kizárólag belföldi üdülési, művelődési, pihenési, kikapcsolódási, egészség-megőrzési, betegségmegelőzési, szabadidősport szolgáltatásra beváltható utalvány azzal, hogy a kibocsátó az igénybe vehető szolgáltatások körét az alapítói jogokat gyakorló miniszter és az adópolitikáért felelős miniszter előzetes egyetértésével határozza meg.
 

@@ -14,7 +14,7 @@ ba) a kamatra és/vagy hozamra való jogosultság megszerzése szempontjából m
 
 bb) a beváltáskor, a visszaváltáskor, valamint az átruházáskor [ide nem értve a kollektív befektetési értékpapírnak a tőkepiacról szóló törvény szerinti tőzsdén, valamint bármely EGT-államban, továbbá a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) tagállamában működő tőzsdén történő átruházását] a magánszemélyt megillető bevételből – függetlenül attól, hogy az miként oszlik meg nettó árfolyamérték és felhalmozott kamat vagy hozam címén elszámolt tételekre – az árfolyamnyereségre irányadó rendelkezések szerint megállapított rész;
 
-c) az a)–b) pont rendelkezéseitől eltérően, ha az a)–b) pont szerint megállapított kamatjövedelem olyan vagyoni érték (pl. a nyereménybetétre kisorsolt tárgynyeremény, az értékpapír), amelyből az adó levonása nem lehetséges, az az összeg, amelyből a (2) bekezdés szerinti adó levonása utáni rész a vagyoni érték szokásos piaci értékével (a nyereményalappal) egyezik meg;
+c) az a)–b) pont rendelkezéseitől eltérően, ha az a)–b) pont szerint megállapított kamatjövedelem olyan vagyoni érték (pl. a nyereménybetétre kisorsolt tárgynyeremény, az értékpapír), amelyből az adó levonása nem lehetséges, adó alapja a vagyoni érték szokásos piaci értékének (a nyereményalapnak) 1,19-szerese;
 
 d) a magánszemély
 
@@ -26,7 +26,7 @@ db) életbiztosítási szerződés alapján, nyugdíjbiztosítási szerződés a
 
 2. az adóköteles (adózott) biztosítási díj(ak)
 
-összegéből a kivont díjtartaléknak a kivonás előtti díjtartalékhoz viszonyított arányos részét azzal, hogy nem alkalmazható e rendelkezés azon bevételre, amelyre jogosító biztosítási szerződés díját vagy díjának egy részét a magánszemély költségként elszámolta, valamint azon bevételre, amelyre jogosító életbiztosítási szerződés más – nem magánszemély – által fizetett díja vagy díjának egy része adómentesnek minősült, és a magánszemély – a szerződés átalakításával lehetővé vált díjtartalék-kivonásig – a díj, mint egyéb jövedelem után az adót nem fizette meg, továbbá azzal, hogy a díjtartalék ismétlődő kivonása esetén nem vehető figyelembe az arányosított díjrésznek az a része, amely a korábban már arányosított díjrészekkel együtt a befizetett díj(ak) együttes összegét meghaladja (figyelembe vehető rész hiányában a viszonyítási alap nulla);
+összegéből a kivont díjtartaléknak (ideértve e törvény alkalmazásában a befektetési egységekhez kötött életbiztosítások biztosítástechnikai tartalékát is) a kivonás előtti díjtartalékhoz viszonyított arányos részét azzal, hogy nem alkalmazható e rendelkezés azon bevételre, amelyre jogosító biztosítási szerződés díját vagy díjának egy részét a magánszemély költségként elszámolta, valamint azon bevételre, amelyre jogosító életbiztosítási szerződés más – nem magánszemély – által fizetett díja vagy díjának egy része adómentesnek minősült, és a magánszemély – a szerződés átalakításával lehetővé vált díjtartalék-kivonásig – a díj, mint egyéb jövedelem után az adót nem fizette meg, továbbá azzal, hogy a díjtartalék ismétlődő kivonása esetén az ismételt arányosítást a befizetett díjaknak a korábbi díjtartalék-kivonásoknál már figyelembe vett, arányosított díjakkal csökkentett részére kell elvégezni;
 
 e) a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény alapján átalakult szövetkezet, illetőleg az ilyen szövetkezet csoportos kiválása útján létrejött szövetkezet, valamint az 1993. december 31-éig az 1992. évi I. törvény hatálya alatt megalakult szövetkezet, továbbá az előzőekben felsorolt szövetkezetek közül a szövetkezetekről szóló 2006. évi X. törvény 106. §-a alapján az alapszabálya módosításával tovább működő szövetkezet tagja által a szövetkezetének nyújtott tagi kölcsön kamatának (ideértve a szövetkezeti célrészjegy után a szövetkezet által fizetett kamatot is) azon része, amely a felszámítás időszakában érvényes jegybanki alapkamatot legfeljebb 5 százalékponttal haladja meg, feltéve, hogy a szövetkezet tagjainak a jogszabályban előírt célokon kívül és mértékeket meghaladóan hitelt nem nyújt, a tagjainak hitelfelvételéhez pénzintézetnél fedezetet nem képez, kezességet nem vállal, pénzt elszámolásra – a szokásos üzletvitelhez (pl. anyagbeszerzés, üzemanyag-elszámolás) szükséges mértéken felül – nem ad, azzal, hogy az ebben a pontban foglaltakat az itt felsorolt szövetkezetekből átalakulás, részleges átalakulás útján létrejött jogutód korlátolt felelősségű társaságok magánszemély tagjai által szövetkezeti tagként nyújtott kölcsönre is alkalmazni kell;
 
@@ -34,7 +34,7 @@ f) a foglalkoztatói nyugdíjszolgáltató intézmény tagját (kedvezményezett
 
 azzal, hogy az e) pontban említett esetben az ott meghatározott kamatmértéket meghaladóan, vagy az ott előírt feltételektől eltérően juttatott, kamatként megszerzett bevétel a magánszemély egyéb jövedelme; egyebekben az a)–d) és f) pontban nem említett, vagy az abban foglalt feltételektől eltérően kamatként megszerzett bevétel adókötelezettségének jogcímét a felek (a magánszemély és a kamatjövedelmet juttató személy, valamint az említett személyek és más személy) között egyébként fennálló jogviszony és a szerzés körülményei figyelembevételével kell megállapítani, és ennek megfelelően kell a kifizetőt, illetőleg a magánszemélyt terhelő adókötelezettségeket (ideértve különösen a jövedelem, az adó, az adóelőleg megállapítását, megfizetését, bevallását, az adatszolgáltatást) teljesíteni.
 
-(2) A kamatjövedelem után az adó mértéke 20 százalék, ennek megfelelően az (1) bekezdés c) pontjában említett esetben az adó a vagyoni érték szokásos piaci értékének (nyereménybetét esetében a nyereményalap) egynegyede. Az adót – amennyiben a kamatjövedelem
+(2) A kamatjövedelem után az adót – amennyiben a kamatjövedelem
 
 a) kifizetőtől [e § alkalmazásában az (1) bekezdés a)–c) pontja szerinti esetben ideértve a kifizető helyett a kamatjövedelmet kifizető/juttató hitelintézetet, befektetési szolgáltatót is] származik – a megszerzés időpontjára a kifizető állapítja meg, vonja le, fizeti meg és vallja be, azzal, hogy az (1) bekezdés bb) pontjában említett esetben a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában vagy önellenőrzéssel érvényesítheti az értékpapír megszerzésére fordított értéknek és az értékpapírhoz kapcsolódó járulékos költségnek azt a részét, amelyet a kifizető a jövedelem megállapításánál nem vett figyelembe
 
@@ -58,7 +58,7 @@ ac) az olyan, egyébként az (1) bekezdés d) pontja szerint kamatjövedelemnek 
 
 ad) az olyan, egyébként az (1) bekezdés d) pontja szerint kamatjövedelemnek minősülő bevételrész 100 százalékát, amelynek megszerzése a biztosítási szerződés megkötésének tizedik – ha a szerződés a megszerzéskor nem szűnik meg, a hatodik – fordulónapját követően történt
 
-azzal, hogy a biztosítási szerződés megszűnését nem eredményező esetben akkor alkalmazható az ac) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző négy évnél régebben felhalmozott, továbbá az ad) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző hat évnél régebben felhalmozott díjtartalék terhére történt;
+azzal, hogy a biztosítási szerződés megszűnését nem eredményező esetben akkor alkalmazható az ac) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző négy évnél régebben fizetett díj és az arra arányosan számított hozam terhére, továbbá az ad) pont rendelkezése, ha a díjtartalék-kivonás a kivonást megelőző hat évnél régebben fizetett díj és az arra arányosan számított hozam terhére történt;
 
 b) kamatjövedelemként
 
@@ -94,4 +94,4 @@ b) az elsőként megszerzett kamat és /vagy hozam címén szerzett bevételéb�
 
 a kifizető a kamatjövedelem megállapításához az értékpapír megszerzésre fordított értékeként annak névértékét veszi figyelembe.
 
-(9) A belföldi illetőségű magánszemély által megszerzett, külföldön is adóztatható kamatjövedelem esetében az adót csökkenti a kamatjövedelem külföldön megfizetett adója. Nemzetközi szerződés hiányában a külföldön megfizetett adó beszámítása következtében a kamatjövedelem után fizetendő adó nem lehet kevesebb a jövedelem 5 százalékánál, és nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár.
+(9)

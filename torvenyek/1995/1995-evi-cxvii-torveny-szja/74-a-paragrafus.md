@@ -22,14 +22,14 @@ c) a b) pont szerinti esetben az önkormányzati hivatal – az adóévet követ
 
 (4) A (3) bekezdés b) pontjában említett adófizetési kötelezettséget a következők szerint kell meghatározni:
 
-a) A magánszemély évenkénti bontásban meghatározza a (2) bekezdésben meghatározott jövedelem után az e törvény kifizetéskor hatályos 74. §-ának (1) bekezdése szerinti adót, majd az egyes adóévekre vonatkozóan megállapított összeg után meghatározza az adózás rendjéről szóló törvény szabályainak megfelelő alkalmazásával az adott adóévet követő év május 21. napjától a szerződés megszűnése napjáig felszámított késedelmi pótlékot.
+a) A magánszemély évenkénti bontásban meghatározza a (2) bekezdésben meghatározott jövedelem után az e törvény kifizetéskor hatályos 74. §-ának (1) bekezdése szerinti, a 2010. december 31-ét követő kifizetés esetén az adó mértéke szerinti adót, majd az egyes adóévekre vonatkozóan megállapított összeg után meghatározza az adózás rendjéről szóló törvény szabályainak megfelelő alkalmazásával az adott adóévet követő év május 21. napjától a szerződés megszűnése napjáig felszámított késedelmi pótlékot.
 
 b) Az adó és a késedelmi pótlék együttes összegét meg kell szorozni a szerződésből nem teljesült időtartam egész hónapjainak száma és a 36 hónap két tizedesjegyre kiszámított hányadosával.
 
 (5) Ha a települési önkormányzat a szerződés tárgya szerinti lakást a bérleti szerződés időtartamán belül nem a feltételül szabott célra hasznosítja vagy nem hasznosítja
 
-a) 33 százalék adó fizetésére köteles, ha a bérleti szerződést magánszeméllyel kötötte, illetve
+a) 16 százalék adó fizetésére köteles, ha a bérleti szerződést magánszeméllyel kötötte, illetve
 
 b) 8 százalék adó fizetésére köteles, ha a bérleti szerződést a társasági adóról és az osztalékadóról szóló törvény szerinti társasági adóalannyal kötötte.
 
-Az a)–b) pont szerinti adót minden olyan hónap bérleti díja után az adózás rendjéről szóló törvénynek a kifizetőre vonatkozó szabályai szerint kell megfizetni, amely hónapban nem valósult meg a hasznosítás. Nem kell ezt a rendelkezést alkalmazni mindaddig, amíg a hasznosításon kívüli időszak az adóév elejétől számítva a 30 napot nem haladja meg.
+Az a)–b) pont szerinti adót minden olyan hónap bérleti díja 1,19-szerese után az adózás rendjéről szóló törvénynek a kifizetőre vonatkozó szabályai szerint kell megfizetni, amely hónapban nem valósult meg a hasznosítás. Nem kell ezt a rendelkezést alkalmazni mindaddig, amíg a hasznosításon kívüli időszak az adóév elejétől számítva a 30 napot nem haladja meg.

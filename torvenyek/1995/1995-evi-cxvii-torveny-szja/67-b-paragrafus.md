@@ -1,6 +1,6 @@
 ## Tartós befektetésből származó jövedelem
 
-67/B. § (1) E törvény külön rendelkezéseitől eltérően tartós befektetésből származó jövedelemnek minősül a (2)–(9) bekezdés rendelkezéseiben foglalt feltételek és adókötelezettség mellett pénzösszeg befektetési szolgáltatóval, illetőleg hitelintézettel megkötött tartós befektetési szerződéssel történő lekötése révén, a magánszemélyt a lekötés megszűnésekor, megszakításakor megillető bevételnek – ideértve a befektetésben lévő pénzügyi eszköznek a lekötés megszűnésekor, megszakításakor irányadó szokásos piaci értékét is – az említett rendelkezések szerint lekötött pénzösszeget meghaladó része [e § (4)–(5) bekezdésének alkalmazásában: lekötési hozam]. A tartós befektetési szerződés arra vonatkozó külön megállapodás, hogy a felek az említett jövedelem tekintetében az e § szerinti adózási szabályokat alkalmazzák.
+67/B. § (1) E törvény külön rendelkezéseitől eltérően tartós befektetésből származó jövedelemnek minősül a (2)–(9) bekezdés rendelkezéseiben foglalt feltételek és adókötelezettség mellett pénzösszeg befektetési szolgáltatóval, illetőleg hitelintézettel megkötött tartós befektetési szerződéssel történő lekötése révén, a magánszemélyt a lekötés megszűnésekor, megszakításakor megillető bevételnek – ide nem értve abból az árfolyamnyereségnek minősülő részt [67/A. § (9) bekezdés], de ideértve a befektetésben lévő pénzügyi eszköznek a lekötés megszűnésekor, megszakításakor irányadó szokásos piaci értékét is – az említett rendelkezések szerint lekötött pénzösszeget meghaladó része [e § (4)–(5) bekezdésének alkalmazásában: lekötési hozam]. A tartós befektetési szerződés arra vonatkozó külön megállapodás, hogy a felek az említett jövedelem tekintetében az e § szerinti adózási szabályokat alkalmazzák.
 
 (2) Lekötött pénzösszegnek minősül az (1) bekezdésben említett tartós befektetési szerződés alapján az adóévben egy összegben vagy részletekben történő, első alkalommal legalább 25 ezer forint befizetés, amelyet a (3) bekezdés szerint történő befektetések hozamaival (kamat, árfolyamnyereség, ügyleti nyereség, osztalék stb.) együtt a magánszemély a befizetés naptári évét követő legalább három naptári évben (a továbbiakban: hároméves lekötési időszak), valamint a lekötés folytatólagos meghosszabbítása esetén további két naptári évben (a továbbiakban: kétéves lekötési időszak, a három- és kétéves időszak együtt a továbbiakban: ötéves lekötési időszak), a vállalt lekötési időszak utolsó napján is még a befektetési szolgáltató, illetőleg a hitelintézet által szerződésenként vezetett lekötési nyilvántartásban tart. A lekötött pénzösszeg az elhelyezés naptári évét követően a hároméves, illetve ötéves lekötési időszakban az említett hozamok jóváírásán kívül további befizetéssel nem növelhető és az egyes tartós befektetési szerződések alapján fennálló állományok között átcsoportosítás nem lehetséges. Egy naptári éven belül ugyanazon befektetési szolgáltatóval, hitelintézettel (3) bekezdés a), illetve b) pontjában említett célra egyaránt egy-egy tartós befektetési szerződés köthető. Más tekintetben a magánszemély ilyen szerződéseinek száma nem korlátozott.
 
@@ -14,25 +14,25 @@ vonatkozó korlátlan számú (vételi, eladási, betétlekötési, ismételt le
 
 (4) Lekötési hozamot
 
-a) a lekötési időszak megszűnésekor (az ötéves lekötési időszak utolsó napján, illetve – ha a magánszemély a lekötési időszakot nem hosszabbítja meg – a hároméves lekötési időszak utolsó napján);
+a) a lekötési időszak megszűnés esetén (az ötéves lekötési időszak utolsó napjára, illetve – ha a magánszemély a lekötési időszakot nem hosszabbítja meg – a hároméves lekötési időszak utolsó napjára);
 
-b) a lekötés megszakításakor (ha a magánszemély a lekötött pénzösszeget, és/vagy a befektetési hozamo(ka)t akár részben felveszi vagy a befektetésben lévő pénzügyi eszközt (eszközök bármelyikét) a lekötési nyilvántartásból kivonja)
+b) a lekötés megszakítás esetén (ha a magánszemély a lekötött pénzösszeget, és/vagy a befektetési hozamo(ka)t akár részben felveszi vagy a befektetésben lévő pénzügyi eszközt (eszközök bármelyikét) a lekötési nyilvántartásból kivonja)
 
-kell megállapítani. Ha a magánszemély a hároméves lekötési időszak utolsó napján a lekötési időszakot a lekötött pénzösszegnek csak egy részére – de legalább 25 ezer forintnak megfelelő összegben – hosszabbítja meg, ezen rész tekintetében a lekötési időszak nem szakad meg. Nem kell a bevételből jövedelmet megállapítani a tartós befektetési szerződéssel rendelkező magánszemély halála esetén, ha az a lekötési időszak megszűnése előtt következett be.
+az említett napra vonatkozó állapot szerint kell megállapítani. Ha a magánszemély a hároméves lekötési időszak utolsó napján a lekötési időszakot a lekötött pénzösszegnek csak egy részére – de legalább 25 ezer forintnak megfelelő összegben – hosszabbítja meg, ezen rész tekintetében a lekötési időszak nem szakad meg. Nem kell a bevételből jövedelmet megállapítani a tartós befektetési szerződéssel rendelkező magánszemély halála esetén, ha az a lekötési időszak megszűnése előtt következett be.
 
 (5) Az adó mértéke
 
-a) nulla százalék az ötéves lekötési időszak utolsó napján,
+a) nulla százalék az ötéves lekötési időszak utolsó napjára,
 
 b) 10 százalék, ha a magánszemély
 
-ba) a lekötést nem hosszabbítja meg, a hároméves lekötési időszak utolsó napján,
+ba) a lekötést nem hosszabbítja meg, a hároméves lekötési időszak utolsó napjára,
 
-bb) a lekötést a lekötött pénzösszegnek egy részére nem hosszabbítja meg, az e résszel arányos, a hároméves lekötési időszak utolsó napján,
+bb) a lekötést a lekötött pénzösszegnek egy részére nem hosszabbítja meg, az e résszel arányos, a hároméves lekötési időszak utolsó napjára,
 
-bc) a lekötést a kétéves lekötési időszakban szakítja meg, a megszakítás napján,
+bc) a lekötést a kétéves lekötési időszakban szakítja meg, a megszakítás napjára,
 
-c) 20 százalék, ha a magánszemély a lekötést az elhelyezést követően a hároméves lekötési időszak vége előtt szakítja meg, a megszakítás napján
+c) 16 százalék, ha a magánszemély a lekötést az elhelyezést követően a hároméves lekötési időszak vége előtt szakítja meg, a megszakítás napjára
 
 megállapított lekötési hozam után.
 

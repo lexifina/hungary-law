@@ -22,11 +22,11 @@ Bevétel különösen a tevékenység keretében vagy azzal összefüggésben
 
 6. az előállított vagy vásárolt terméknek, végzett vagy vásárolt szolgáltatásnak a szokásos piaci értéke, ha azokat az egyéni vállalkozó saját céljára felhasználja, illetőleg részben vagy egészben ellenszolgáltatás nélkül másnak átengedi, akkor, ha ezzel kapcsolatban bármely évben költséget számolt el, azonban nem kell a saját célra történő felhasználás és a részben vagy egészben ellenszolgáltatás nélküli átengedés értékével növelni a bevételt, ha
 
-a) az egyéni vállalkozó az azzal kapcsolatos kiadásokat költségei között nem számolta el, vagy e kiadásokkal az összes költségét arányosan csökkenti, illetőleg, ha a terméket, a szolgáltatást természetbeni juttatásként nyújtja,
+a) az egyéni vállalkozó az azzal kapcsolatos kiadásokat költségei között nem számolta el, vagy e kiadásokkal az összes költségét arányosan csökkenti, illetőleg, ha a terméket, a szolgáltatást adófizetési kötelezettség mellett, magánszemélynek ellenszolgáltatás nélkül nyújtja,
 
 b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadakozás keretében nyújtja;
 
-7. a 100 ezer – 2006. január 1-je előtti beszerzés esetén 50 ezer – forintnál magasabb egyedi értékű kizárólag üzemi célt szolgáló tárgyi eszköz – ha annak értékét az egyéni vállalkozó egy összegben elszámolta – ellenszolgáltatás nélküli átruházásakor – kivéve, ha azt természetbeni juttatásként nyújtja – a beszerzés időpontjától számított
+7. a 100 ezer – 2006. január 1-je előtti beszerzés esetén 50 ezer – forintnál magasabb egyedi értékű kizárólag üzemi célt szolgáló tárgyi eszköz – ha annak értékét az egyéni vállalkozó egy összegben elszámolta – ellenszolgáltatás nélküli átruházásakor – kivéve a magánszemélynek ellenszolgáltatás nélkül történő, adófizetési kötelezettséggel járó átadást – a beszerzés időpontjától számított
 
 – egy éven belül a beszerzési érték 100 százaléka,
 

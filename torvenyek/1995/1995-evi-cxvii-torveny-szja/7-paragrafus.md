@@ -38,11 +38,15 @@ jd) a magánszemély kérelmére, munkaviszonyának megszűnése esetén a fogla
 
 je) a foglalkoztatói nyugdíjszolgáltató intézmény a tagot megillető követelése javára jóváír;
 
-k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint tagdíj fizetésére kötött támogatási megállapodás alapján a magánszemély helyett más fizet meg;
+k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint
+
+ka) tagdíj fizetésére kötött támogatási megállapodás alapján a magánszemély helyett más fizet meg;
+
+kb) a magánnyugdíjpénztár a kedvezményezett részére nem nyugdíjszolgáltatásként fizet ki;
 
 l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás, valamint a pedagógusnak szakkönyv vásárlására jogszabály alapján adott összeg;
 
-m) azt a vagyoni értéket, amely után a személyi jövedelemadó fizetésére a kifizető kötelezett;
+m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól a Magyar Köztársaságban mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani;
 
 n) a jogszabály alapján, nyilvánosan meghirdetett pályázat útján költségvetési, önkormányzati forrásból
 
@@ -60,7 +64,7 @@ q) a hivatali, üzleti utazáshoz kapcsolódó utazási jegy ellenértékét, id
 
 r) a kiküldetési rendelvény alapján hivatali, üzleti utazás költségtérítése címén a teljesített kilométer-távolság (futásteljesítmény) figyelembevételével az utazásra kapott összeget, feltéve, hogy a térített összeg nem haladja meg a jogszabályban meghatározott, igazolás nélkül elszámolható mértéket;
 
-s) a 69. § (10) bekezdésének rendelkezéseiben meghatározott reprezentációt és 10 ezer forint egyedi értéket meg nem haladó üzleti ajándékot, ha a juttatót az adott juttatás tekintetében a belföldi jogszabály alapján nem terheli adókötelezettség;
+s) a reprezentációt és az üzleti ajándékot, ha a juttatót az adott juttatás tekintetében a belföldi jogszabály alapján nem terheli adókötelezettség;
 
 t) a termőföldről szóló törvényben meghatározott mezőgazdasági termelő gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
 
@@ -74,8 +78,8 @@ x) azt az összeget, amelyet a belföldi jogszabályok szerint bejegyzésre nem 
 
 y) a közérdekű önkéntes tevékenységről szóló törvény alapján az önkéntesnek nyújtott, ellenszolgáltatásnak nem minősülő juttatást;
 
-z) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 30. §-a szerint a foglalkoztató által átvállalt társadalombiztosítási járulékot.
+z) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény (a továbbiakban: Tbj.) 5. §-ának (1)–(2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonyra tekintettel a magánszemélynek a Tbj. szerint nem a foglalkoztatójától származó vagyoni értékkel összefüggésben – a foglalkoztató és a magánszemély egybehangzó nyilatkozata alapján – a foglalkoztató által átvállalt (ide értve az utólagos megtérítést is) százalékos mértékű egészségügyi hozzájárulás összegét, amennyiben a magánszemély nyilatkozik arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja.
 
-(2)
+(2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy, vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely a Büntető Törvénykönyvben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel.
 
 (3) Ahol e törvény valamely rendelkezését a magánszemély tevékenységéből származó bevételi értékhatártól függően kell vagy lehet alkalmazni, az értékhatár a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatás (ideértve különösen az egységes területalapú támogatást is) összegével – ha e törvény eltérően nem rendelkezik – megemelkedik.

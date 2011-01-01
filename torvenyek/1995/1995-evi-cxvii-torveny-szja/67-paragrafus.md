@@ -2,7 +2,7 @@
 
 67. § (1) Árfolyamnyereségből származó jövedelem az értékpapír átruházása (ide nem értve a kölcsönbe adást) ellenében megszerzett bevételnek az a része, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét. Nem minősül árfolyamnyereségből származó jövedelemnek az említett különbözetből az a rész, amelyet e törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni.
 
-(2) Az árfolyamnyereségből származó jövedelem után az adó mértéke 25 százalék.
+(2)
 
 (3) A bevételből a jövedelmet az értékpapír átruházásáról szóló szerződés keltének napjára kell megállapítani. Ha a magánszemély az átruházott értékpapír tulajdonjogát értékpapír kölcsönbe vétele útján szerezte meg, akkor a jövedelmet
 
@@ -46,7 +46,13 @@ ai) az 1992. december 31-e előtt kihirdetett jogszabály alapján a szövetkeze
 
 aj) kárpótlási jegy esetében az eredeti jogosult magánszemélynél vagy – ha a kárpótlási jegy a hagyaték tárgyát képezte – örökösénél a kárpótlási jegy kamattal növelt névértéke,
 
-ak) olyan értékpapír esetében, amelynek megszerzését az illetékügyi hatóságnál be kell jelenteni – akkor is, ha az illeték kiszabása az átruházásig még nem történt meg vagy az illetékügyi hatóság nem szab ki illetéket –, az illetékekről szóló törvényben meghatározott forgalmi érték, növelve a magánszemély által az értékpapír átruházásáig teljesített, igazolt ellenértékkel,
+ak) az illeték-kiszabáshoz figyelembe vett érték, ha a szerzési érték az aa)–aj) alpont szerinti esetben nem állapítható meg, vagy az értékpapír szerzése örökléssel, ajándékozással történt azzal, hogy amennyiben
+
+1. az illeték kiszabása az átruházásból származó jövedelem adókötelezettségének teljesítésére nyitva álló határidőig nem történik meg, öröklés esetén a hagyatéki leltárban feltüntetett értéket, vagy a hagyatéki eljárás során az értékpapír értékeként feltüntetett egyéb értéket, ajándékozás esetén az értékpapírnak az átruházás napjára megállapított szokásos piaci értékét kell figyelembe venni, és az így megállapított adókötelezettséget az illeték-kiszabás alapján önellenőrzéssel lehet módosítani,
+
+2. az illetékügyi hatóság nem szab ki illetéket, öröklés esetén a hagyatéki leltárban feltüntetett érték, vagy a hagyatéki eljárás során az értékpapír értékeként feltüntetett egyéb érték, ajándékozás esetén az az igazolt szerzési érték, amelyet az ajándékozó figyelembe vehetett volna, ilyen igazolt érték hiányában nulla,
+
+növelve a magánszemély által az értékpapír átruházásáig teljesített, igazolt ellenértékkel,
 
 al) az aa)–ak) alpontban nem említett jogcímen vagy módon megszerzett értékpapír esetében a megszerzés érdekében, az értékpapír átruházásáig a magánszemély által teljesített, igazolt rész;
 
@@ -62,4 +68,4 @@ bd) kölcsönbe vett értékpapír esetében a visszaadott (visszaszolgáltatott
 
 c) a nyugdíj-előtakarékossági számla nyugdíjszolgáltatás miatt történő megszűnése esetén a nyugdíj értékpapír/letéti számlán lévő pénzügyi eszköz szerzési értékeként a megszűnés napján irányadó szokásos piaci érték, illetve az a) pont szerint megszerzésre fordított érték közül a nagyobb vehető figyelembe.
 
-(10) A belföldi illetőségű magánszemély által megszerzett, külföldön is adóztatható árfolyamnyereségből származó jövedelem esetében az adót csökkenti az árfolyamnyereség külföldön megfizetett adója. Nemzetközi szerződés hiányában a külföldön megfizetett adó beszámítása következtében az árfolyamnyereség után fizetendő adó nem lehet kevesebb a jövedelem 5 százalékánál, és nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár.
+(10)

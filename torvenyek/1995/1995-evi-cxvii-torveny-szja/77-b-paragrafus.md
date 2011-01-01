@@ -32,7 +32,7 @@ a) az értékpapír átruházására tekintettel megszerzett bevétel fennmarad�
 
 b) az a) pont rendelkezésének alkalmazása esetén az ott említett bevételből a jog megszerzésére fordított, a magánszemélyt terhelő kiadásnak az a része vonható le az átruházással kapcsolatos kiadásként, amely a jog gyakorlásából származó bevételrészt meghaladja. A jövedelmet az értékpapír átruházásának időpontjában kell megállapítani.
 
-(6) Az (1)–(4), valamint az (5) bekezdés szerint meghatározott – a bekezdés a) pontjában nem említett – jövedelem adókötelezettségének jogcímét a felek (a magánszemély és a jogot alapító személy, valamint az említett személyek és más személy) között egyébként fennálló jogviszony és a szerzés körülményei figyelembevételével kell megállapítani, és ennek megfelelően kell a kifizetőt, illetőleg a magánszemélyt terhelő adókötelezettségeket (ideértve különösen a jövedelem, az adó, az adóelőleg megállapítását, megfizetését, bevallását, az adatszolgáltatást) teljesíteni. A nem pénzben megszerzett bevételre a természetbeni juttatásokra vonatkozó rendelkezéseket nem lehet alkalmazni.
+(6) Az (1)–(4), valamint az (5) bekezdés szerint meghatározott – a bekezdés a) pontjában nem említett – jövedelem adókötelezettségének jogcímét a felek (a magánszemély és a jogot alapító személy, valamint az említett személyek és más személy) között egyébként fennálló jogviszony és a szerzés körülményei figyelembevételével kell megállapítani, és ennek megfelelően kell a kifizetőt, illetőleg a magánszemélyt terhelő adókötelezettségeket (ideértve különösen a jövedelem, az adó, az adóelőleg megállapítását, megfizetését, bevallását, az adatszolgáltatást) teljesíteni.
 
 (7) Az e § szerinti jövedelmet, adót (adóelőleget) a kifizető állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg, továbbá a magánszemélynek az adóévet követő év január 31-ig igazolást ad ki és arról adatot szolgáltat az állami adóhatóságnak. Kifizető hiányában a magánszemély a jövedelmet és az adót az általa vezetett nyilvántartás alapján állapítja meg. Az igazolásnak, az adatszolgáltatásnak, illetőleg a nyilvántartásnak – figyelemmel e törvénynek az értékpapírokra, értékpapírra vonatkozó jogokra, járulékos költségekre előírt rendelkezéseire is, azok értelemszerű alkalmazásával – tartalmaznia kell különösen a megszerzett bevételeket, az igazolt járulékos költségeket, a jog, illetőleg az értékpapír megszerzésére fordított kiadást.
 
@@ -42,7 +42,7 @@ b) az a) pont rendelkezésének alkalmazása esetén az ott említett bevételb�
 
 (10) Ha a jog alapítása, megszerzése, valamint gyakorlása bárki számára azonos feltételek mellett megvalósuló ügyletben történt,
 
-a) a (6) bekezdés rendelkezésétől eltérően az (1)–(3) bekezdésben meghatározott jövedelem után az adó mértéke 25 százalék;
+a)
 
 b) a (4) bekezdés rendelkezésétől eltérően a bekezdésben említett vagyoni értéket jövedelemként nem kell figyelembe venni;
 

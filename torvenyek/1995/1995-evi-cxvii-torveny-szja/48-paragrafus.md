@@ -4,34 +4,28 @@
 
 (2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
 
-a) a bevétel adóelőleg-alapjának megállapításához levonandó költségről,
+a) a bevétel adóelőleg-alapjának megállapításához levonandó költségről, költséghányadról,
 
-b) az adóelőleg-megállapítás módjáról,
+b) bér esetén az adójóváírás figyelembevételéről,
 
-c) a magánszemély összevont adóalapjának, adóterhet nem viselő járandóságainak adóévi várható összegéről,
+c) a családi kedvezmény érvényesítéséről és megosztásáról,
 
-d) bér esetén az adójóváírás figyelembevételéről,
+d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni.
 
-e) a családi kedvezmény érvényesítéséről és megosztásáról,
+(3) A magánszemély adójóváírás, családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató számára adhat. Ha a családi kedvezményre ugyanazon kedvezményezett eltartott után több magánszemély jogosult, akkor a jogosultak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. Megosztás esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-f) az állami végkielégítés megosztásának mellőzéséről,
+a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait);
 
-g) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni.
+b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait), magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
 
-(3) A magánszemély adójóváírás, családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot rendszeres bevételeinek kifizetője számára adhat. Ha a családi kedvezményre több magánszemély jogosult, akkor a jogosultak a családi kedvezmény érvényesítésére vonatkozó nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosultak e nyilatkozatban meghatározhatják, hogy az őket jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató milyen megosztásban vegye figyelembe. A családi kedvezményre vonatkozó nyilatkozat legalább a következő adatokat tartalmazza:
-
-a) minden jogosult nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait);
-
-b) minden eltartott nevét és adóazonosító jelét (ennek hiányában természetes azonosító adatait), magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
-
-c) minden jogosult adóelőleget megállapító munkáltatójának nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásul vételét igazoló kijelentését, míg e munkáltató hiányában az erre vonatkozó kijelentést.
+c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának nevét (elnevezését) és adószámát, valamint a nyilatkozatban foglaltak tudomásulvételét igazoló kijelentését, míg e munkáltató hiányában az erre vonatkozó kijelentést.
 
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
-a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a különbözet 39 százalékát;
+a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
 
-b) olyan adóelőleg-levonást kért (ideértve, ha az adóterhet nem viselő járandóságairól az adóelőleget megállapító munkáltatónak nem nyilatkozott), vagy oly módon fizette az adóelőleget, aminek következtében utóbb – neki felróható okból [ideértve az a) pontban említett esetet is] – befizetési különbözet mutatkozik, annak 12 százalékát
+b) a nyilatkozattételkor fennálló körülmények ellenére családi kedvezmény, adójóváírás, adókedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pontban említett esetben is, a befizetési különbözet 12 százalékát
 
-a magánszemély bírságként az adóévre vonatkozó bevallásában feltünteti, és a bírságot megfizeti. Nem kell e rendelkezést alkalmazni, ha az a) pont szerinti különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a b) pont szerinti különbözet a 10 ezer forintot nem haladja meg.
+különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 
 (5) Az adóelőleg-levonásra kötelezett kifizető a kifizetést megelőzően tájékoztatja a magánszemélyt az adóelőleg-nyilatkozat lehetőségéről és az adott vagy nem adott nyilatkozat következményeiről.

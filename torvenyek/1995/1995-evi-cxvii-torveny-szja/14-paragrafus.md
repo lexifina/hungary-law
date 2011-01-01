@@ -1,6 +1,6 @@
 ## Munkáltatói adómegállapítás
 
-14. § (1) A munkáltatói adómegállapításra nyilatkozatot adó magánszemély adóját – az e §-ban foglalt feltételek fennállása esetén – az adózás rendjéről szóló törvény szerint a munkáltató (az adó elszámolását vállaló munkáltató) állapítja meg és számolja el. E § alkalmazásában az adó elszámolását vállaló munkáltató a társas vállalkozás, a polgári jogi társaság is, amellyel a munkáltatói adómegállapítást kérő nyilatkozattétel napján a magánszemély tagi jogviszonyban áll, feltéve, hogy e napon nem áll más kifizetővel munkaviszonyban, és tagi jogviszonya alapján a társas vállalkozásnál, illetve a polgári jogi társaságnál díj ellenében személyes közreműködésre vagy mellékszolgáltatás teljesítésére köteles.
+14. § (1) A munkáltatói adómegállapításra nyilatkozatot adó magánszemély adóját – az e §-ban foglalt feltételek fennállása esetén – az adózás rendjéről szóló törvény szerint a munkáltató (az adó elszámolását vállaló munkáltató) állapítja meg és számolja el. E § alkalmazásában az adó elszámolását vállaló munkáltató a társas vállalkozás, a polgári jogi társaság is, amellyel a munkáltatói adómegállapítást kérő nyilatkozattétel napján a magánszemély tagi jogviszonyban áll, feltéve, hogy e napon nem áll más kifizetővel munkaviszonyban, és tagi jogviszonya alapján a társas vállalkozásnál, illetve a polgári jogi társaságnál díj ellenében személyes közreműködésre köteles.
 
 (2) Az adó elszámolását vállaló munkáltató – az adóévben megszerzett összes olyan bevétel figyelembevételével, amelyet a magánszemély az (1) bekezdésben említett nyilatkozat hiányában köteles lenne önadózóként bevallani – a magánszemély jövedelmét és az azt terhelő adót megállapítja és bevallja, az adót megfizeti, túlfizetés esetén az adókülönbözetet a magánszemélynek visszatéríti, valamint az előzőek elszámolásáról bizonylatot állít ki a magánszemély számára.
 
@@ -14,7 +14,7 @@ ba) az adóévben kizárólag egymást követően fennálló munkaviszonya alapj
 
 bb) a költségvetési szervek központosított illetményszámfejtési körébe tartozó kifizető munkavállalójaként az adóévben kizárólag ugyanazon illetményszámfejtő helyhez tartozó kifizető(k)től szerezte;
 
-c) az adóévben – az a)–b) pontban említett bevétel(ek) mellett – kizárólag adóköteles társadalombiztosítási, családtámogatási ellátás, önkéntes tartalékos katonai szolgálatot teljesítők illetménye, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított ellátás, belföldről származó nyugdíj címén szerzett bevételt, feltéve, hogy a bevétel folyósítója az adó elszámolását vállaló munkáltató vagy a magánszemély a bevételről kiállított igazolást az adózás rendjéről szóló törvény rendelkezéseinek megfelelően átadja az adó elszámolását vállaló munkáltatónak.
+c) az adóévben – az a)–b) pontban említett bevétel(ek) mellett – kizárólag adóköteles társadalombiztosítási, családtámogatási ellátás, önkéntes tartalékos katonai szolgálatot teljesítők illetménye, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított ellátás címén szerzett bevételt, feltéve, hogy a bevétel folyósítója az adó elszámolását vállaló munkáltató vagy a magánszemély a bevételről kiállított igazolást az adózás rendjéről szóló törvény rendelkezéseinek megfelelően átadja az adó elszámolását vállaló munkáltatónak.
 
 (4) Nem zárja ki a munkáltatói adómegállapítást, ha
 
@@ -24,16 +24,16 @@ b) a tételes költségelszámolást alkalmazó mezőgazdasági őstermelő az e
 
 (5) A magánszemély – az (1)–(4) bekezdésben foglaltaktól függetlenül – nem tehet munkáltatói adómegállapítást kérő nyilatkozatot, ha
 
-a) – a (3)–(4) bekezdés eltérő rendelkezésének hiányában – adóhatósági közreműködés nélkül kötelezett bevallás benyújtására;
+a) – a (3)–(4) bekezdés eltérő rendelkezésének hiányában – önadózóként kötelezett bevallás benyújtására;
 
-b) háztartással kapcsolatos szolgáltatások igénybevétele címén (is) összevont adókedvezményt érvényesít;
+b)
 
 c) nyugdíj-előtakarékossági nyilatkozat alapján adójának átutalásáról rendelkezik;
 
-d) az adóévre tartós adományozás külön kedvezményével összefüggő bevallási és befizetési kötelezettsége keletkezett;
+d)
 
 e) az adóévre a biztosítások kedvezménye miatt levont adó növelt összegű bevallására és megfizetésére köteles;
 
 f) az adóévre az önkéntes kölcsönös egészségpénztári egyéni számláján lekötött összeg miatt levont, kiutalt adó növelt összegű bevallására és megfizetésére köteles;
 
-g) nyugdíj-előtakarékossági számláról nem-nyugdíj szolgáltatásként felvett összeg miatt a kiutalt adó növelt összegű bevallására és megfizetésére köteles.
+g) nyugdíj-előtakarékossági számláról nem-nyugdíj szolgáltatásként felvett összeg vagy a nyugdíj-előtakarékossági számla tartós befektetési szerződéssel történő átalakítása miatt a kiutalt adó növelt összegű bevallására és megfizetésére köteles.

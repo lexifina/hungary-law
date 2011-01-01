@@ -20,9 +20,9 @@ c) az átruházással kapcsolatos kiadásokat.
 
 (5) Ha a megszerzésre fordított összeg a (4) bekezdés rendelkezései szerint nem állapítható meg, akkor a bevétel 25 százaléka számít jövedelemnek.
 
-(6) Az ingó vagyontárgy átruházásából származó jövedelem után az adó mértéke 25 százalék. Az adót a magánszemélynek adóbevallásában kell megállapítania és az adóbevallás benyújtására előírt határidőig kell megfizetnie.
+(6) Az ingó vagyontárgy átruházásából származó jövedelem után az adót a magánszemélynek adóbevallásában kell megállapítania és az adóbevallás benyújtására előírt határidőig kell megfizetnie.
 
-(7) Nem kell megfizetni az ingó vagyontárgyak átruházásából az év során együttesen származó jövedelem adójának az 50 ezer forintot meg nem haladó részét.
+(7) Nem kell megfizetni az ingó vagyontárgyak átruházásából az év során együttesen származó jövedelem adójának a 32 ezer forintot meg nem haladó részét.
 
 (8) Nem alkalmazhatók az (1)–(7) bekezdés rendelkezései akkor, ha az ingó vagyontárgy átruházása üzletszerűen történik. Ekkor – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – az önálló tevékenységből származó jövedelemre vonatkozó szabályokat kell alkalmazni. E rendelkezés alkalmazásában üzletszerű az átruházás, ha ellenérték fejében történik, és az ügylettel kapcsolatban a magánszemélynek az általános forgalmi adó szabályszerűen bejelentkezett alanyaként adólevonási joga megnyílik.
 

@@ -2,7 +2,7 @@
 
 65/B. § (1) Csereügyletből származó jövedelemnek minősül a számvitelről szóló törvény szerinti deviza-, tőke- és kamatcsere (swap) ügylet alapján a magánszemély által az adóévben megszerzett bevételnek (csereügyleti bevétel) – a kizárólag az adott ügylettel közvetlenül összefüggő – a magánszemélyt az adóévben terhelő igazolt kiadás(oka)t (csereügyleti kiadás) meghaladó része (a továbbiakban: csereügyleti jövedelem). A csereügyleti kiadásnak a csereügyleti bevételt meghaladó összege csereügyleti veszteségnek minősül.
 
-(2) A csereügyleti jövedelem után az adó mértéke 25 százalék.
+(2)
 
 (3) A csereügyleti jövedelmet és/vagy a csereügyleti veszteséget
 

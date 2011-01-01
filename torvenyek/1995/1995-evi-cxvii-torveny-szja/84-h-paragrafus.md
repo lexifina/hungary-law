@@ -1,0 +1,1 @@
+84/H. § A lakáscélú felhasználásra a munkáltató által nyújtott támogatás adómentessége 1. számú melléklet 2.7. pontja szerinti értékhatárának megállapításához a 2010. január 1-jét követően nyújtott támogatásokat kell figyelembe venni.

@@ -4,44 +4,38 @@
 
 ## Az adó megállapítása
 
-11. § (1) A magánszemély adóévenként
+11. § (1) Az adót adóévenként be kell vallani. A magánszemély bevallási kötelezettségét a (2) bekezdés szerint önadózással vagy a 14. § rendelkezései szerint munkáltatói adómegállapítás révén teljesíti, annak figyelembevételével, hogy bármely esetben jogosult az összevont adóalapja adójának külön törvény szerint meghatározott részéről rendelkező nyilatkozatot adni.
 
-a) adóbevallást köteles benyújtani az adóhatósághoz (önadózás), amelyben bevallja az összevont adóalapját és az adóévben megszerzett, bevallási kötelezettség alá eső külön adózó valamennyi jövedelmét, bevételét, az adót, valamint – a kifizető(k) által és az általa megállapított, levont, megfizetett adó, adóelőleg beszámításával – a befizetendő vagy visszajáró adókülönbözetet, vagy
+(2) A magánszemély – ha nem adott nyilatkozatot munkáltatói adómegállapításra vagy adójának megállapítását a munkáltatója nem vállalja – az adózás rendjéről szóló törvény szerint előírt módon és határidőben önadózóként
 
-b) – az adózás rendjéről szóló törvény szerint előírt határidőben tett nyilatkozattal – a 14. § rendelkezései szerint kéri, hogy az adóját a munkáltató állapítsa meg (munkáltatói adómegállapítás).
-
-(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt vagy kizárólag
-
-a) olyan bevételt szerzett, amelyet a (3) bekezdés alapján nem köteles bevallani;
-
-b) adóterhet nem viselő járandóságot szerzett;
-
-c) magánnyugdíjpénztári kedvezményezettként nyugdíjszolgáltatásnak nem minősülő bevételt szerzett, és a kifizetőnek nyilatkozott, hogy a jövedelem után e törvény rendelkezései szerint nincs adófizetési kötelezettsége; e nyilatkozatról a kifizető az adóévet követő január 31-éig adatot szolgáltat az állami adóhatóságnak.
-
-(3) A magánszemély nem köteles bevallani:
-
-a) azt a bevételt, amelyet a jövedelem kiszámításánál nem kell figyelembe venni;
-
-b) az ingó vagyontárgy, az ingatlan, a vagyoni értékű jog átruházásából származó bevételt, ha abból jövedelem nem keletkezik;
-
-c) az ingó vagyontárgy átruházásából származó jövedelmet, ha az adóévben ilyen jogcímen megszerzett összes jövedelem nem haladja meg a 200 ezer forintot;
-
-d) az értékpapír-kölcsönzésből származó jövedelmet, az osztalékból származó jövedelmet, az árfolyamnyereségből származó jövedelmet, a vállalkozásból kivont jövedelmet, valamint – az osztalékra vonatkozó szabályok szerinti adókötelezettség esetén – az életjáradékból származó jövedelmet, ha az adóévben ilyen jogcím(ek)en megszerzett összes jövedelem nem haladja meg az 100 ezer forintot és az adót a kifizető levonta;
-
-e) a b)–d) pontban nem említett külön adózó jövedelmet (ide nem értve az ingatlan bérbeadásából származó jövedelmet), ha az adót a kifizető levonta;
-
-f) azt a jövedelmet, amely nemzetközi szerződés vagy viszonosság alapján a Magyar Köztársaságban nem adóztatható (ide nem értve a nemzetközi szerződés vagy viszonosság alapján az adó alól a Magyar Köztársaságban mentesített, de az adó kiszámításánál figyelembe vehető jövedelmet);
-
-g) azt a jövedelmet, amelyet külön törvény rendelkezése szerint nem kell bevallani.
-
-(4) A magánszemély bevallási kötelezettségének önadózóként
-
-a) az állami adóhatóság közreműködésével készített egyszerűsített bevallás,
+a) adónyilatkozatot,
 
 vagy
 
-b) – az állami adóhatóság által meghatározott formában és módon – az adóhatóság közreműködése nélkül elkészített bevallás
+b) az adóévben megszerzett, bevallási kötelezettség alá eső valamennyi jövedelméről (bevételéről), adókötelezettségéről, valamint – a kifizető(k) által és az általa megállapított, levont, megfizetett adó, adóelőleg beszámításával – a befizetendő vagy visszajáró adókülönbözetről
 
-benyújtásával tesz eleget, ha nem adott nyilatkozatot munkáltatói adómegállapításra vagy adójának megállapítását a munkáltatója nem vállalja.
+ba) az állami adóhatóság közreműködésével készített egyszerűsített bevallást,
 
-(5)
+vagy
+
+bb) az adóhatóság közreműködése nélkül elkészített bevallást
+
+nyújt be az adóhatósághoz.
+
+(3) Az (1)–(2) bekezdésben foglaltakat nem kell alkalmazni, ha a magánszemély az adóévben egyáltalán nem szerzett bevételt, vagy kizárólag olyan bevételt szerzett, amelyet nem kell bevallania. Nem kell bevallani azt a bevételt,
+
+a) amelyet a jövedelem kiszámításánál nem kell figyelembe venni, kivéve, ha azt be kell számítani a magánszemély összes jövedelmébe az adóévben [3. § 75. pont];
+
+b) amely ingó vagyontárgy átruházásából származik, és abból az adóévben megállapított összes jövedelem nem haladja meg a 200 ezer forintot;
+
+c) amely ingatlan átruházásából, a vagyoni értékű jog gyakorlásának átengedéséből, e jogról való lemondásból származik, ha abból jövedelem nem keletkezik;
+
+d) amely után a személyi jövedelemadó megfizetésére a kifizető kötelezett;
+
+e) amely kamatjövedelemnek minősül, és abból a kifizető az adót levonta;
+
+f) amely pénzbeli nyereménynek [76. § (2) bekezdés] minősül;
+
+g) amely nemzetközi szerződés vagy viszonosság alapján a Magyar Köztársaságban nem adóztatható;
+
+h) amelyet külön törvény rendelkezése szerint nem kell bevallani.

@@ -6,7 +6,11 @@ Az adómentes bevételekről
 
 1.1. az állami szociális vagy társadalombiztosítási rendszer keretében nyújtott jövedelempótlék (kivéve az ösztöndíjhoz kapcsolódó jövedelemkiegészítő pótlékot), árvaellátás, házastársi pótlék, házastárs után járó jövedelempótlék, a kárpótlási jegyek életjáradékra váltásáról szóló törvény alapján folyósított életjáradék, az özvegyi nyugdíjra való jogosultság megszűnésére tekintettel kapott végkielégítés, szociális támogatás, lakbér-hozzájárulás, az árvaellátásra jogosult gyermekre tekintettel kapott özvegyi nyugdíj;
 
-1.2.
+1.2. a nyugdíj, a nyugdíjban részesülő magánszemélyt megillető
+
+a) baleseti járadék,
+
+b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
 
 1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyház és az egyházi karitatív szervezetek által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a helyi önkormányzat által a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott átmeneti segély, temetési segély, lakásfenntartási támogatás, adósságkezelési szolgáltatás, időskorúak járadéka, rendszeres szociális segély és rendelkezésre állási támogatás, a vakok személyi járadéka, a rokkantsági járadék, a súlyosan mozgáskorlátozott magánszemély részére jogszabály alapján nyújtott közlekedési támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló társadalmi szervezet, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
 
@@ -16,7 +20,11 @@ Az adómentes bevételekről
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 
-1.7.
+1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott nevelőszülői díj;
+
+1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj;
+
+1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
 2. A lakáshoz kapcsolódóan adómentes:
 
@@ -36,13 +44,13 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.3. az állami és a helyi önkormányzati bérlakáson végzett, bérbeadót terhelő munkák házilagos kivitelezése ellenében megállapított visszatérítés;
 
-2.4. a házassági vagyonközösség megszüntetése következtében ingatlannak, ingónak vagy vagyoni értékű jognak a házastárs által történő megváltásából származó jövedelem;
+2.4.
 
 2.5. – eltérő rendelkezés hiányában – törvényben vagy kormányrendeletben meghatározott, a lakosság széles körét érintő, az államháztartás valamely alrendszere költségvetése terhére juttatott támogatás (ideértve különösen a közműfejlesztési támogatást, valamint a gázár- és távhőtámogatást is);
 
 2.6. a lakás-takarékpénztárakról szóló törvény szerint nyújtott állami támogatás és a támogatásra, valamint a lakástakarék-betétre fizetett (jóváírt) kamat;
 
-2.7.
+2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét is) a vételár vagy a teljes építési költség 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás).
 
 3. A közcélú juttatások körében adómentes:
 
@@ -58,9 +66,25 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 3.2.4. a Magyar Köztársaság nemzetközi szerződéses kötelezettségeiből eredően folyósított nemzetközi segélyből származó, erre vonatkozó nyilvántartással igazolt források terhére kap a magánszemély;
 
-3.3. a közérdekű kötelezettségvállalásból, a közhasznú, kiemelkedően közhasznú társadalmi szervezetből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemély által természetben megszerzett bevétel, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.2.5. vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól vagy egyéb társadalmi szervezettől – annak alapszabályában rögzített céljával összhangban – kap az 1989. október 23. napját megelőzően politikai okból üldözött személy;
 
-3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a bevétel, amelynek címzettje az alapító, az adományozó, a támogató – kivéve a gyógyításával közvetlenül összefüggő természetben megszerzett bevételt –, továbbá az a bevétel, amelyet a szervezettel, a közérdekű kötelezettségvállalás szervezőjével munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Ptk. szerinti szerződéses jogviszonyban álló magánszemély bármilyen jogcímen kap.
+3.3. a közérdekű kötelezettségvállalásból, a közhasznú, kiemelkedően közhasznú társadalmi szervezetből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke, pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+
+3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
+
+a) amelynek címzettje az alapító, az adományozó, a támogató – kivéve az orvosi javaslat alapján fogyatékosságával, gyógyításával összefüggő termék, szolgáltatás formájában nem pénzben megszerzett bevételt –,
+
+b) amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Ptk. szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
+
+ba) az általa végzett tevékenység mennyiségi és/vagy minőségi jellemzőire tekintettel,
+
+bb) termék értékesítésének, szolgáltatás nyújtásának ellenértékeként,
+
+bc) jog alapításának, joggyakorlás átengedésének, jogról való lemondásnak ellenértékeként,
+
+illeti meg.
+
+3.5. a hivatali idejét kitöltött volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték.
 
 4. Egyes tevékenységekhez kapcsolódóan adómentes:
 
@@ -68,13 +92,13 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 4.2. a külföldi tartózkodásra tekintettel külföldről kapott ösztöndíj azzal, hogy ilyen ösztöndíjon a külföldi oktatási intézményben folytatott tanulmányra, illetve a külföldi kutatóhelyen végzett kutatásra külföldi kifizető (cég, magánszemély stb.) által folyósított összeget kell érteni;
 
-4.3. a nemzetközi szerződés alapján belföldi nevelési és oktatási tevékenységet végző, nem magyar állampolgár által, vendégtanári tevékenység ellátásáért kapott jövedelem;
+4.3. a belföldön oktatási, nevelési intézményben, közoktatási, felsőoktatási intézményben vendégtanári tevékenység ellátásáért kapott jövedelem, annak figyelembevételével, hogy vendégtanári tevékenységnek minősül a Magyar Köztársaság Kormányával kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi munkaterv alapján külföldi illetőségű magánszemély által nem magyar nyelven folytatott nevelési, oktatási tevékenység;
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5.
+4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt támogatás;
 
-4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a Miniszterelnöki Hivatal vezetője, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtást, a vám- és pénzügyőrséget felügyelő miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter és a katasztrófák elleni védekezésért felelős miniszter által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
+4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtást, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egyházak központi szerve által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
 4.7. a) kormányrendeletben szabályozott feltételek alapján két- és többoldalú nemzetközi oktatási együttműködési megállapodás keretében az oktatásért felelős miniszter által a Magyar Ösztöndíj Bizottság vagy a Magyar Ösztöndíj Bizottság Irodája javaslatára adományozott ösztöndíj, egyéb juttatás,
 
@@ -96,19 +120,55 @@ bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének
 
 4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja, azzal, hogy ez nem minősül az adócsökkentésre jogosító közcélú adománynak;
 
-4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom;
+4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díj;
 
-4.11.
+4.11. a szakképző iskolai tanulónak, illetve felsőfokú szakképzésben részt vevő hallgatónak tanulószerződés, illetve hallgatói szerződés alapján, valamint szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, valamint a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény alapján a Munkaerő-piaci Alap képzési alaprésze terhére folyósított szakiskolai tanulmányi ösztöndíj;
 
-4.12.
+4.12. a felsőoktatási intézmény nappali tagozatos hallgatója részére
 
-4.13. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díj.
+a) a felsőoktatásról szóló törvény szerint az őt megillető juttatásként kifizetett
+
+– ösztöndíj,
+
+– tankönyv- és jegyzettámogatás teljes összege,
+
+– a diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
+
+b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+
+4.13. a közoktatásról szóló törvényben meghatározott nevelési-oktatási intézmény, a felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy egyház által a tanuló, a hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontokban nem említett pénzbeli juttatás;
+
+4.14. a katonai és a rendvédelmi felsőoktatási intézmények ösztöndíjas hallgatójának illetménye (ösztöndíja) és egyéb pénzbeli juttatása.
+
+4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
+
+4.16. az „Útravaló” Ösztöndíjprogram keretében a kormány rendeletében meghatározott feltételekkel és módon adományozott tanulói és mentori ösztöndíj, valamint a kisebbségpolitikáért felelős miniszter rendeletével alapított – anyanyelvű és kétnyelvű kisebbségi program szerint működő középfokú iskolák tanulói részére adományozható – ösztöndíj;
+
+4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
+
+4.18. a felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
+
+4.19. a szépkorúak jubileumi köszöntéséről szóló kormányrendelet alapján folyósított juttatás;
+
+4.20. a termőföldről szóló törvényben meghatározott mezőgazdasági termelő, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
+
+4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
 
-6.1. elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa esetén a károsultnak jogszabályban meghatározott feltételek szerint vagy közadakozásból, valamint a károsult munkáltatója által nyújtott segély, támogatás (így különösen a lakás helyreállítása, újjáépítése), továbbá a jogszabályban meghatározott kötelezettség alapján kapott tartásdíj, valamint a kártalanítás (ideértve a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), a kárpótlás és a kártérítés, kivéve a jövedelmet pótló kártérítést; az áldozatsegítő szolgálattól származó, a bűncselekmény áldozata részére juttatott támogatás;
+6.1. az a juttatás, amelyet a magánszemély kap
+
+a) mint károsult, segélyként, támogatásként elemi kár (ideértve a martinsalak felhasználása miatt a lakást, lakóépületet ért kárt is), katasztrófa (pl. környezeti vészhelyzet) esetén – különösen lakás helyreállítása, újjáépítése céljából – jogszabályban meghatározott feltételek szerint, vagy közadakozásból, vagy a munkáltatójától,
+
+b) tartásdíjként jogszabályban meghatározott kötelezettség alapján,
+
+c) kártalanításként (ideértve a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
+
+d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgálattól,
+
+e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncselekmény tettesétől;
 
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
@@ -174,9 +234,9 @@ c) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 7. Egyéb indokkal adómentes:
 
-7.1. a magánszemély által örökség, hagyomány vagy meghagyás címén megszerzett vagyoni érték, a magánszemély által más magánszeméllyel kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, valamint a nyugdíjban részesülő magánszemély által központi költségvetési szervvel vagy helyi önkormányzattal kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, továbbá a szövetkezet nyugdíjas tagjának a saját szövetkezetével kötött életjáradéki szerződés keretében a vagyonnevesítés során szerzett szövetkezeti üzletrésze átruházásából származó jövedelme, feltéve, hogy annak összege évente az átalakulás befejezésekor lezárt névérték egytized részét, de legfeljebb havonta a 10 ezer forintot nem haladja meg;
+7.1. a magánszemély által örökség, hagyomány vagy meghagyás címén megszerzett vagyoni érték – ide nem értve az örökösök által az örökölt jog érvényesítése révén megszerzett jövedelmet azzal, hogy az ilyen módon megszerzett bevételből a jövedelem megállapítása során levonható a jognak az illeték megállapítása során figyelembe vett része –, a magánszemély által más magánszeméllyel kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, valamint a nyugdíjban részesülő magánszemély által központi költségvetési szervvel vagy helyi önkormányzattal kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, továbbá a szövetkezet nyugdíjas tagjának a saját szövetkezetével kötött életjáradéki szerződés keretében a vagyonnevesítés során szerzett szövetkezeti üzletrésze átruházásából származó jövedelme, feltéve, hogy annak összege évente az átalakulás befejezésekor lezárt névérték egytized részét, de legfeljebb havonta a 10 ezer forintot nem haladja meg;
 
-7.2. a magánszemély részére más magánszemély(ek) által ingyenesen vagy kedvezményesen juttatott (fizetett) vagyoni érték; nem alkalmazható e rendelkezés, ha a juttatás (a fizetés) a magánszemély vagy más által teljesített termékértékesítésre (vagyoni érték átengedésére), szolgáltatásnyújtásra tekintettel vagy azzal összefüggésben történik (így különösen nem adómentes a magánszemély által borravaló, hálapénz címén megszerzett vagyoni érték);
+7.2. a magánszemély részére más magánszemély(ek) által ingyenesen vagy kedvezményesen juttatott (fizetett) vagyoni érték; nem alkalmazható e rendelkezés, ha a juttatás (a fizetés) a magánszemély vagy más által teljesített termékértékesítésre (vagyoni érték átengedésére), szolgáltatásnyújtásra tekintettel vagy azzal összefüggésben történik (így különösen nem adómentes a magánszemély által, hálapénz címén megszerzett vagyoni érték);
 
 7.3. az önkéntes kölcsönös biztosító pénztár által a kedvezményezett részére kifizetett összeg;
 
@@ -184,7 +244,7 @@ c) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 7.5. az 1988. január 1-jét megelőzően kibocsátott kötvény, vagyonjegy kamata, osztaléka;
 
-7.6.
+7.6. a házassági vagyonközösség megszüntetése következtében ingónak, ingatlannak, jognak vagy értékpapírnak a házastárs által történő megváltásából származó jövedelem;
 
 7.7. a donornak fizetett díj, költségtérítés (költségátalány), a szerv-, szövetadományozással kapcsolatos jövedelemkiesés megtérítése, az egészségügyi intézmény által nyújtott donorétkeztetés (ideértve az étkezési utalvány formájában biztosított donorétkeztetést is) és a gyógyszernek emberen való kipróbálása, illetve a gyógyszerré nyilvánítási eljárás során azon magánszemély részére fizetett díj, akin a gyógyszert (a szert) kipróbálták; e rendelkezés alkalmazásában donor az, aki saját vért, anyatejet, bőrt, szervet, sejtet ad, vagy enged át;
 
@@ -194,7 +254,7 @@ c) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 7.10. az általános forgalmi adóról szóló törvényben szabályozott módon az adólevonásra jogosult adóalany által az adó fizetésére kötelezett adóalany helyett megfizetett, az adó fizetésére kötelezett adóalany adóbevallásában szerepeltetendő, az ügylet után fizetendő általános forgalmi adó;
 
-7.11. a munkáltató által biztosított ingyenes vagy kedvezményes számítógép- és internethasználat (ideértve különösen az egyszeri, a havi, a forgalmi díj átvállalását, a modem biztosítását);
+7.11. a munkáltató által biztosított ingyenes vagy kedvezményes számítógép-használat;
 
 7.12. a hallgatói hitelrendszerről és a Diákhitel Központról szóló kormányrendelet alapján nyújtott, a hallgatói hitellel kapcsolatos célzott kamattámogatás;
 
@@ -222,7 +282,7 @@ b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelme
 
 7.20.
 
-8. A természetbeni juttatások közül adómentes:
+8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állami, a helyi önkormányzati, a társadalombiztosítási, továbbá az egyházi forrásból nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
 
@@ -288,7 +348,7 @@ b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a k�
 
 8.20. az egyház belső törvényeiben és szabályaiban meghatározott tartási kötelezettségből adódó juttatás, ideértve az egyház által a kezelésében levő egyházi üdülőben egyházi személynek nyújtott ingyenes üdülést is, valamint a bejegyzett szerzetesrend közösségében élő magánszemély tagnak a rendtől – egyéni szükségleteinek fedezetére – kapott pénzbeli vagy nem pénzbeli juttatás;
 
-8.21. a kormányrendeletben meghatározott közlekedési kedvezmény, amely után a kifizető fogyasztói árkiegészítésben nem részesül;
+8.21. a kormányrendeletben meghatározott, adómentes természetbeni juttatásnak minősülő, fogyasztói árkiegészítést nem tartalmazó közlekedési kedvezmény;
 
 8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, egyházi forrásból, illetőleg a közoktatási intézmény saját bevételéből
 
@@ -340,7 +400,7 @@ sporteseményre szóló belépőjegy, bérlet;
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
-9.1.
+9.1. Utalvány, készpénz-helyettesítő fizetési eszköz e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e melléklet szerinti nem pénzben adott juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, és egyebekben a juttatás körülményei megfelelnek az adómentességre vonatkozó rendelkezésben foglalt feltételeknek.
 
 9.2. Munkaruházati termék:
 
@@ -362,9 +422,35 @@ ce) a vízügy területén a gát- és csatornaőri munkakörökben, valamint a 
 
 d) a kifejezetten jelmezszerű öltözet (így különösen: a kosztümös színielőadások jelmezei), a szolgáltatási tevékenységet végzők (portás, pincér, sportjátékvezető, kegyeleti szolgáltatást végző stb.) megkülönböztető jellegű ruházata és tartozékai, amely az adott munkaköri feladat ellátásán kívüli viseletre alkalmatlan.
 
-9.3.
+9.3. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos szabályok
 
-9.4.
+9.3.1. Lakáscélú felhasználás:
+
+a) a belföldön fekvő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak adásvétel vagy más visszterhes szerződés keretében történő megszerzése (ideértve a lakás zártvégű lízingbe vételét is),
+
+b) a belföldön fekvő lakás építése, építtetése,
+
+c) a belföldön fekvő lakás alapterületének legalább egy lakószobával történő bővítését eredményező növelése,
+
+d) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés.
+
+9.3.2. A lakáscélú munkáltatói támogatás adómentességét az összeg elévülési időn belül történő lakáscélú felhasználására vonatkozó következő okiratok, bizonylatok igazolják:
+
+a) lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak a megszerzése esetén az érvényes szerződés és az ingatlanügyi hatósághoz benyújtott bejegyzési kérelem, valamint az összeg felhasználását igazoló okirat;
+
+b) lakás építése, építtetése és lakás alapterületének növelése esetén a jogerős használatbavételi engedély, valamint az összeg felhasználását igazoló, a használatbavételi engedély kelte napjáig, illetve a használatbavételi engedélyben megjelölt feltételek teljesítése határidejéig kibocsátott, az építési engedély jogosultja nevére kiállított számla;
+
+c) lakás korszerűsítése esetén a támogatás folyósítását megelőzően hat hónapon belül és azt követően 12 hónapon belül kiállított, az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező – beépített – termékekről szóló számla, valamint a más személy által elvégzett munka ellenértékéről kiállított bizonylat.
+
+9.3.3. Ha a lakáscélú munkáltatói támogatás részben vagy egészben adóköteles, ideértve az adóhatóság által megállapított adóhiány esetét is, az adó (és más jogkövetkezmények) a magánszemélyt terhelik.
+
+9.3.4. A hitelintézet az adóévben a közvetítésével nyújtott támogatásról, a munkáltató a kölcsön általa elengedett összegéről az adóévet követő január 31-éig adatot szolgáltat az állami adóhatóságnak.
+
+9.4. A termőföld bérbeadásából származó jövedelem adómentességére vonatkozó szabályok
+
+9.4.1. Adómentes a termőföld-bérbeadásból származó bevétel, ha a termőföld haszonbérbe adása alapjául szolgáló, határozott időre kötött megállapodás (szerződés) alapján a haszonbérlet időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+
+9.4.2. A magánszemély köteles a 9.4.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.
 
 9.5. A termőföld átruházásából származó jövedelem adómentességére vonatkozó szabályok
 

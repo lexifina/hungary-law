@@ -6,7 +6,7 @@ b) egyes költségtérítések formáit és a jövedelemadó szempontjából iga
 
 c) a közlekedési kedvezmények azon körét, amely adómentes természetbeni juttatásnak minősül;
 
-d)
+d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
 
 e) a mezőgazdasági őstermelői igazolvány kiadásával összefüggő előírásokat;
 

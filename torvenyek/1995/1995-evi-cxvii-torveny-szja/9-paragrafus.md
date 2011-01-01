@@ -29,3 +29,5 @@ g) az a)–f) pontban nem említett esetben az a nap, amelytől kezdődően a ma
 (4) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétjének megszerzési időpontja az e címen elszámolt költség elszámolásának napja.
 
 (5) Ha az adóhatóság be nem vallott adóköteles jövedelmet tár fel, ennek összegét a jövedelem megszerzése évének jövedelméhez kell hozzászámítani.
+
+(6) A magánszemély halálát követően juttatott olyan bevétellel összefüggésben, amely a magánszemélyt az életében még megillette (ilyennek minősül különösen a munkabér), az adókötelezettséget – ideértve a kifizető, a munkáltató adókötelezettségét is – úgy kell teljesíteni, mintha a juttatást a magánszemély a halálának időpontjában szerezte volna meg.

@@ -12,7 +12,7 @@ d) a megszerzett bármely bevételét terhelő adóelőleg megállapításakor a
 
 e) ellenőrzött tőkepiaci ügyletből, csereügyletből származó jövedelmet szerzett;
 
-f) az adóelőleg-fizetésre vonatkozó szabályok szerint adóelőleg-különbözet alapján meghatározott (12 százalék) adó fizetésére köteles;
+f) az adóelőleg-fizetésre vonatkozó szabályok szerint különbözeti-bírság fizetésére köteles;
 
 g) nem kifizetőtől származó vagy egyébként olyan bevételt szerzett, amellyel összefüggésben az adó vagy az adóelőleg megállapítására maga köteles (ide nem értve az ingó vagyontárgy, ingatlan, vagyoni értékű jog átruházásából származó bevételt, ha a magánszemély egyszerűsített bevallásra ad nyilatkozatot);
 
@@ -22,13 +22,13 @@ i) olyan adóköteles bevétele volt, amely alapján a jövedelem külföldön (
 
 j) nem belföldi illetőségű magánszemély;
 
-k) végkielégítés megosztott része után van adókötelezettsége;
+k)
 
 l) a jóváhagyott osztalék adójával szemben az adóévet megelőzően felvett osztalékelőlegből levont adót számol el;
 
 m) valamely bevételével összefüggésben az egyszerűsített közteherviselési hozzájárulásról szóló törvény szabályai szerint különadót köteles fizetni, vagy a kifizetőt és az őt terhelő egyszerűsített közteherviselési hozzájárulás megállapítását, bevallását és megfizetését a kifizetőtől átvállalta;
 
-n) valamely bevételével összefüggésben egészségügyi hozzájárulásra előleg-fizetési, vagy tételes egészségügyi hozzájárulás–fizetési kötelezettsége keletkezett;
+n) valamely bevételével összefüggésben egészségügyi hozzájárulásra előleg-fizetési kötelezettsége keletkezett;
 
 o) adóját e törvény külön rendelkezése szerint adóbevallásában kell (lehet) megállapítani;
 

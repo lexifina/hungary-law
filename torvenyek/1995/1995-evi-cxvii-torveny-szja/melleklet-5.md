@@ -2,7 +2,7 @@
 
 Az adónyilvántartásokról
 
-A magánszemély – a 9/A. § (1) bekezdésében foglaltaknak megfelelően – nyilvántartási kötelezettségei teljesítése során e melléklet rendelkezései szerint jár el.
+A magánszemély – a 10. § (1) bekezdésében foglaltaknak megfelelően – nyilvántartási kötelezettségei teljesítése során e melléklet rendelkezései szerint jár el.
 
 I. Alapnyilvántartások
 
