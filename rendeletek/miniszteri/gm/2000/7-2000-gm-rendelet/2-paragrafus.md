@@ -14,7 +14,7 @@ f) tanúsítási eljárás: a tanúsításra jogosult szervnek a tartály első 
 
 g) tanúsításra jogosult szerv: a tanúsítási engedély, a kalibrálási tanúsítvány és a kalibrálási/űrtartalom táblázat kiadására jogosult szerv, külön jogszabály alapján meghatározott szervezet;
 
-h) illetékes ellenőrző hatóság: külön jogszabály alapján a fogyasztói forgalmazással kapcsolatos ügyekben a fogyasztóvédelmi felügyelőség, az üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság;
+h)[^3] illetékes ellenőrző hatóság: külön jogszabály alapján a fogyasztói forgalmazással kapcsolatos ügyekben a fogyasztóvédelmi hatóság, az üzembe helyezéssel és az üzemeltetéssel kapcsolatos ügyekben a mérésügyi hatóság;
 
 i) szintmérő eszköz (berendezés): a töltési szintek meghatározására szolgáló, különlegesen kialakított hosszmérő eszköz;
 
@@ -23,3 +23,5 @@ j) mérővezető: olyan szerelvény a tartályban, amelyik a szintmérő eszköz
 k) koppantólap: vízszintes sík lap a tartályfenéken a mérővezető alatt, a referenciaponttól mért H távolságban;
 
 l) szabályos folyadékszint mérés: a töltési szintek meghatározására szolgáló olyan elrendezésű szintmérő berendezéssel végzett tevékenység, amelyik bármely mérendő folyadékszint magasságában, közelítőleg a tartály vízszintes keresztmetszeti síkjának súlypontjában méri a folyadékszintet.
+
+[^3]: A 2. § h) pontja a 27/2010. (XII. 31.) NGM rendelet 22. §-a szerint módosított szöveg.
