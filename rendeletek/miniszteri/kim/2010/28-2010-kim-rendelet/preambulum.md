@@ -1,0 +1,11 @@
+A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 60. § c), e)–g) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) és e) pontjában meghatározott feladatkörömben eljárva,
+
+a 2. § tekintetében a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 60. § d) és e) pontjában, valamint a közjegyzőkről szóló 1991. évi XLI. törvény 183. § e) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) és c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+
+a 3. és 4. § tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 183. § d) és f) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva,
+
+az 5. és 8. § tekintetében a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 60. § b) és g) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva
+
+az 1., a 6. és 7. § tekintetében a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35. § (4) bekezdésében foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) és e) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörében eljáró nemzeti erőforrás miniszterrel egyetértésben –,
+
+a következőket rendelem el:
