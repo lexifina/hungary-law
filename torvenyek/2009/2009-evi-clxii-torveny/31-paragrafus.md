@@ -8,4 +8,4 @@
 
 (5)
 
-(6) A (4)–(5) bekezdés és a 33–37. § 2010. december 31-én hatályát veszti. Ez a bekezdés 2011. január 1-jén hatályát veszti.
+(6)
