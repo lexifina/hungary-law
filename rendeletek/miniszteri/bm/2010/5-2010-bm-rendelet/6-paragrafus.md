@@ -12,6 +12,10 @@ d) a tulajdonos nyilatkozik arról, hogy a lakóépületre a káresemény vonatk
 
 (2) Egy tulajdonos számára csak egy lakóépület vonatkozásában nyújtható támogatás.
 
+(2a)[^2] Az új vagy vásárolt lakóépület vagy lakás értéke nem haladhatja meg a károsodott lakóépület káresemény bekövetkezése előtti értékét; az új épület hasznos alapterülete nem haladhatja meg a károsodott épület hasznos alapterületét. Új lakóépületeknél a legfeljebb tíz négyzetméteres terasz alapterületét nem kell az épület hasznos alapterületéhez hozzászámítani, ennél nagyobb tornác, vagy fedett terasz esetében a tíz négyzetméter feletti alapterület felével kell növelni az épület hasznos alapterületét. Indokolt egyedi esetben az ettől eltérő döntéshez a belügyminiszter hozzájárulása szükséges. Az új lakóépület építésére, lakóépület vagy lakás vásárlására, vagy a károsodott lakóépület helyreállítására irányuló támogatás feltétele, hogy a károsodott ingatlan károsodás előtti értékét szakértő állapítsa meg.
+
+(2b)[^3] A 3. § (2) bekezdés a) és c) pontjában meghatározott esetekben a támogatás további feltétele az, hogy a károsult személy a kárt és annak mértékét hitelt érdemlő módon (okirattal vagy egyéb módon) igazolja. A 3. § (2) bekezdés b) pontjában megjelölt károk, valamint a d) pontjában megjelölt ingóságok vonatkozásában – ha a kár más módon hitelt érdemlően nem igazolható – a károsult nyilatkozata elfogadható.
+
 (3) A károsult személy – választása szerint – alábbi tartalmú teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tesz arról, hogy
 
 a) érintett önkormányzatok területén kijelölt építési telken felépítésre kerülő új épületbe kíván beköltözni, vagy
@@ -22,7 +26,11 @@ c) az ország bármely településének valamelyikén eladásra kínált, rendel
 
 d) a károsodott és még helyreállítható épület helyreállításához kér segítséget, amennyiben ehhez a helyreállításért felelős miniszter hozzájárul, kivéve ha ezt olyan területen igényli, amelyet a hatóság nem minősít biztonságosnak.
 
-(4) A vásárlás útján megszerzett vagy az új építés során felépült és használatbavételi engedéllyel rendelkező épület a károsult személy tulajdonába kerül.
+(4)[^4] A vásárlás útján megszerzett vagy az új építés során felépült és használatbavételi engedéllyel rendelkező épület adásvételi szerződéssel a károsult személy tulajdonába kerül. A (3) bekezdés a)–c) pontjában meghatározott esetekben ebben a szerződésben a károsult személy
+
+a) a tulajdonában álló károsodott ingatlant a károsodott ingatlan fekvési helye szerinti települési önkormányzatnak ingyenesen átadja,
+
+b) a károkozóval szembeni kártérítési igényét az állam javára engedményezi, azzal, hogy ha az állam a károsult kártérítési igényével összefüggésben kártérítésként a károkozótól nagyobb összeget kap, mint amennyit a károsult kárenyhítésére fordított, az állam a különbözetet a károsult részére megtéríti.
 
 (5) A károsult személy a szerződésben járul hozzá ahhoz, hogy
 
@@ -30,6 +38,14 @@ a) a tulajdonába került új lakóépület/lakás alapterületéről, komfortfo
 
 b) a más forrásból megtérülő kárösszeget az állam javára visszafizeti,
 
-c) a tulajdonába kerülő lakóépületre 10 évre elidegenítési tilalom kerül bejegyzésre.
+c) a tulajdonába kerülő lakóépületre 10 évre elidegenítési tilalom kerül bejegyzésre,
 
-(6) Az arra feljogosított állami szervek ellenőrzik az (5) bekezdés b) pontjában meghatározott visszafizetési kötelezettség teljesülését.
+d)[^5] a közpénzek törvényes felhasználásának ellenőrzésére feljogosított állami, kormányzati szervek ellenőrizhessék a b) pontban meghatározott visszafizetési kötelezettség teljesülését.
+
+(6)[^6]
+
+[^2]: A 6. § (2a) bekezdését a 15/2010. (XII. 31.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^3]: A 6. § (2b) bekezdését a 15/2010. (XII. 31.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 6. § (4) bekezdése a 15/2010. (XII. 31.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 6. § (5) bekezdés d) pontját a 15/2010. (XII. 31.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^6]: A 6. § (6) bekezdését a 15/2010. (XII. 31.) BM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
