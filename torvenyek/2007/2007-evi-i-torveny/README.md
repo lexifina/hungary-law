@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2010-04-05 | 2010. évi XL. törvény | 2007-1-00-00.7 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2007-1-00-00.8 |
 | 2010-12-24 | 2010. évi CXXXV. törvény | 2007-1-00-00.9 |
+| 2011-01-01 | 2010. évi CLII. törvény | 2007-1-00-00.10 |
