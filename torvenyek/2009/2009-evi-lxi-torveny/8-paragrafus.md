@@ -34,7 +34,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (5) Az engedélykérelemhez csatolni kell az előírt feltételek teljesítését igazoló, közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát. A benyújtott kérelmet és a kiadott engedélyt a fémkereskedelmi hatóság – a csatolt iratok kivételével – honlapján nyilvánosságra hozza.
 
-(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
+(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tizenöt napon belül kiadja.
 
 (7) A fémkereskedő az engedélykérelemben megadott, illetve az engedélyben rögzített adatok változását haladéktalanul köteles a fémkereskedelmi hatósághoz bejelenteni, abban az esetben is, ha az egyébként az engedély módosítását nem igényli.
 

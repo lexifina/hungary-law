@@ -14,4 +14,4 @@ c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában 
 
 (5) A lefoglalt anyagot, dolgot és eszközt el kell kobozni, ha az ügyben jogerősen a 11. § (2) bekezdés a) pontja szerinti bírságot szabnak ki.
 
-(6) A jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – nem engedélyeztek.
+(6) A jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
