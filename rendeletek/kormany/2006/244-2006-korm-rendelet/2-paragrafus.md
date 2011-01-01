@@ -12,10 +12,10 @@ b) a jogosultsági vizsga letételének vagy a jogosultsági vizsga alóli mente
 
 (5)–(6)[^6]
 
-(7)[^7] A szakmagyakorló a bejegyzett adataiban bekövetkezett változást 8 munkanapon belül írásban köteles bejelenteni a területi kamarának.
+(7)[^7] A szakmagyakorló a bejegyzett adataiban bekövetkezett változást tíz napon belül írásban köteles bejelenteni a területi kamarának.
 
 [^3]: A 2. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
 [^4]: A 2. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
 [^5]: A 2. § (4) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (3) bekezdésének a) pontja hatályon kívül helyezte.
 [^6]: A 2. § (5)–(6) bekezdését a 61/2008. (III. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be, hatályon kívül helyezte a 196/2009. (IX. 15.) Korm. rendelet 61. § (3) bekezdésének a) pontja.
-[^7]: A 2. § (7) bekezdését a 61/2008. (III. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének b) pontja szerint módosított szöveg.
+[^7]: A 2. § (7) bekezdését a 61/2008. (III. 27.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének b) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (81) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

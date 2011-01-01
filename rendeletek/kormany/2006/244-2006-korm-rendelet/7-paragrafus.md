@@ -1,6 +1,6 @@
 ## A kérelem elbírálása és a határozat tartalma
 
-7. § (1)[^25] Ha a kérelem hiányos, a területi kamara tizenöt munkanapos határidő megjelölésével a kérelmezőt a hiányok pótlására hívja fel.
+7. § (1)[^25] Ha a kérelem hiányos, a területi kamara húsznapos határidő megjelölésével a kérelmezőt a hiányok pótlására hívja fel.
 
 (2) A területi kamara a kérelemnek egyszerűsített határozatban ad helyt, amely tartalmazza:
 
@@ -18,7 +18,7 @@ e)[^27]
 
 (4)[^28] A szakmagyakorlási tevékenységet folytató kérelmére – külön jogszabályban meghatározott igazgatási szolgáltatási díj fizetése mellett – a területi kamara hatósági bizonyítványt állít ki a (2) bekezdés b)–d) pontjaiban foglalt adatokról.
 
-[^25]: A 7. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 42. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^25]: A 7. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 42. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (81) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^26]: A 7. § (2) bekezdésének d) pontja a 61/2008. (III. 27.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
 [^27]: A 7. § (2) bekezdésének e) pontját a 61/2008. (III. 27.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
 [^28]: A 7. § (4) bekezdését a 151/2007. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
