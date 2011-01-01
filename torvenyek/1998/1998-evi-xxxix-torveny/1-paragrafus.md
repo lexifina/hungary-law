@@ -4,7 +4,7 @@
 
 a) az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter,
 
-b) a nyugdíjbiztosítási ágazat tekintetében a nyugdíjpolitikáért felelős miniszter
+b) a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter
 
 útján látja el.
 
