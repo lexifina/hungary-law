@@ -24,7 +24,7 @@ c) az építésügyért felelős miniszter, hogy rendeletben hirdesse ki az okle
 
 (4)
 
-(5) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter, hogy az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek felsorolását együttes rendeletben közzétegyék.
+(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, hogy hatáskörében – a nagyon mérgező termékek vonatkozásában a kereskedelemért felelős miniszterrel egyetértésben –
 

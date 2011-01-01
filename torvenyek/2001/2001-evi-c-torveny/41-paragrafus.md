@@ -1,6 +1,6 @@
 41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a IX. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján a Magyar Köztársaság területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
 
-(2) Az (1) bekezdés szerinti előzetes ellenőrzést végző eljáró hatóság a bejelentés és a bejelentéssel együtt benyújtandó iratok beérkezését követő egy hónapon belül dönt.
+(2)
 
 (3) Az előzetes ellenőrzést végző hatóság
 
@@ -12,7 +12,7 @@ c) a szolgáltatásnyújtást az (5) bekezdés szerinti feltétellel engedélyez
 
 d) a szolgáltatás nyújtását megtiltja, ha az engedély megadásának jogszabályi feltételei hiányoznak.
 
-(4) Indokolt esetben az előzetes ellenőrzést végző hatóság vezetője a (2) bekezdés szerinti határidőt a határozat meghozatalára rendelkezésre álló határidőn belül egy hónappal meghosszabbíthatja.
+(4)
 
 (5) Amennyiben lényeges eltérés van a szolgáltató szakmai képesítése és a hazai jogszabály által előírt szakmai képesítés között, és ez az eltérés olyan mértékű, hogy az veszélyt jelent a szolgáltatás igénybe vevője vagy más személy életére, testi épségére nézve, az előzetes ellenőrzést végző hatóság előírhatja, hogy a szolgáltatásnyújtó csak azt követően folytathatja tevékenységét, hogy – elsősorban alkalmassági vizsga letételével – igazolta, hogy a hiányzó ismereteket vagy szaktudást más módon megszerezte.
 
