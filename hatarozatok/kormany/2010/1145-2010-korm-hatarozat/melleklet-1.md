@@ -4,7 +4,7 @@
 
 ## b) 2010. szeptember 1-jétől a beruházások ösztönzése, a vállalkozások piacainak megtartása és bővítése érdekében maximum 50 millió forintos, legfeljebb 10 éves futamidejű Széchenyi Beruházási hitel,
 
-## c) 2011. január 1-jétől a pályázati források nagyobb arányú kihasználása és a sikeresen megvalósuló projektek számának növelése érdekében maximum 50 millió forintos, legfeljebb 10 éves futamidejű Széchenyi Önerő hitel
+## c)[^2] 2011. január 1-jétől a pályázati források nagyobb arányú kihasználása és a sikeresen megvalósuló projektek számának növelése érdekében maximum 50 millió forintos, legfeljebb 10 éves futamidejű Széchenyi Önerő Kiegészítő Hitel és legfeljebb 5 éves futamidejű Széchenyi Támogatást Megelőlegező Hitel
 
 ## programokat indít.
 
@@ -54,7 +54,7 @@
 
 ## Határidő: 2010. augusztus 31.
 
-1. melléklet az 1145/2010. (VII. 7.) Korm. határozathoz[^1]
+1. melléklet az 1145/2010. (VII. 7.) Korm. határozathoz[^3]
 
 | X. Közigazgatási és Igazságügyi Minisztérium |
 
@@ -120,16 +120,19 @@ Költségvetési év: 2010.
 
 | Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
+0M22163_4
+
 | Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 
-| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |
+| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |
 
-| Állami Számvevőszék | 1 példány |  | teljesítményarányos | 95,0 |  |  | 95,0 |  |
+| Állami Számvevőszék | 1 példány |  | teljesítményarányos | 95,0 |  |  | 95,0 |  |
 
-| Magyar Államkincstár | 1 példány |  | egyéb: azonnal |  |  |  |  |  |
+| Magyar Államkincstár | 1 példány |  | egyéb: azonnal |  |  |  |  |  |
 
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
 
-[^1]: Az 1. melléklet a 1155/2010. (VII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: Az 1. pont c) alpontja az 1310/2010. (XII. 27.) Korm. határozat 6. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet a 1155/2010. (VII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
