@@ -8,4 +8,4 @@
 
 (4)
 
-(5) A kárpótlási jegy névértéke a kárpótlási hatóság által havonta közzétett és a közzétételt követő naptári hónap első napjától jóváírható kamattal növekszik.
+(5)

@@ -6,4 +6,4 @@ b) aki a termőföldet árverező szövetkezetnek 1991. január 1-jén és az á
 
 c) akinek 1991. június 1-jén abban a községben, városban volt az állandó lakóhelye, ahol az árverező szövetkezet termőföldterülete van.
 
-(2) Az árverést a szövetkezet székhelye szerint illetékes kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
+(2) Az árverést a kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
