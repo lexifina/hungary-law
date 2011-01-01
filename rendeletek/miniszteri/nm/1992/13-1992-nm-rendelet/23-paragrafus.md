@@ -8,6 +8,6 @@
 
 (2) Az 5. § 1992. július 1-jén lép hatályba, egyidejűleg a gépjárművezetők egészségi alkalmasságának orvosi megállapításáról szóló 1/1976. (I. 16.) EüM rendelet 4. §-a, 16. §-ának (3) bekezdése, valamint 18. §-ának (3) bekezdése hatályát veszti.
 
-(3)[^33]
+(3)[^35] Ez a rendelet a vezetői engedélyekről szóló 2006. december 20-i 2006/126/EK európai parlamenti és tanácsi irányelv – 2009/113/EK bizottsági irányelvvel módosított – III. mellékletének való megfelelést szolgálja.
 
-[^33]: A 23. § (3) bekezdését a 16/2008. (IV. 24.) EüM rendelet 11. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^35]: A 23. § (3) bekezdését a 16/2008. (IV. 24.) EüM rendelet 11. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 29/2010. (V. 12.) EüM rendelet 4. §-a iktatta be.
