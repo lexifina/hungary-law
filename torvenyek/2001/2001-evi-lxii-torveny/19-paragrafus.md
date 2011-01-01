@@ -12,21 +12,23 @@ a) arcképes ,,Magyar igazolvány'' kiadását kérheti az 1. § (1) bekezdésé
 
 b) ha nemzetközi szerződés ettől eltérően nem rendelkezik arcképes ,,Magyar hozzátartozói igazolvány'' kiadását kérheti az 1. § (2) bekezdésének hatálya alá tartozó hozzátartozó (kiskorú esetén törvényes képviselője).
 
-(3) Kérelmére ,,Magyar igazolvány''-ra jogosult a (2) bekezdés a) pontjában meghatározott személy, aki
+(3) Kérelmére „Magyar igazolvány”-ra jogosult a (2) bekezdés a) pontjában meghatározott személy,
 
-a) tud magyar nyelven, vagy
+a) aki magyar állampolgár, vagy
 
-b) a lakóhelye szerinti állam
+b) aki tud magyar nyelven, vagy
 
-ba) magát magyar nemzetiségűnek valló személyként tartja nyilván, vagy
+c) akit a lakóhelye szerinti állam
 
-bb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet nyilvántartott tagja, vagy
+ca) magát magyar nemzetiségűnek valló személyként tart nyilván, vagy
 
-bc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartják számon.
+cb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet tagként nyilvántart, vagy
+
+cc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartanak számon.
 
 (4) Nem jogosult ,,Magyar igazolvány''-ra az a kérelmező
 
-a) aki már rendelkezik érvényes ,,Magyar igazolvány''-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás, az igazolvány elvesztése vagy megsemmisülése miatt terjesztette elő;
+a) aki már rendelkezik érvényes „Magyar igazolvány”-nyal, vagy „Magyar hozzátartozói igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás, az igazolvány elvesztése vagy megsemmisülése miatt terjesztette elő;
 
 b) aki beutazási és tartózkodási tilalom, illetőleg kiutasítás hatálya alatt áll;
 
@@ -40,7 +42,7 @@ b) olyan magyar nemzetiségű személyre tekintettel kéri az igazolvány kiadá
 
 (6) Nem jogosult ,,Magyar hozzátartozói igazolvány''-ra az a hozzátartozó
 
-a) aki már rendelkezik érvényes ,,Magyar hozzátartozói igazolvány''-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás miatt terjesztette elő;
+a) aki már rendelkezik érvényes „Magyar hozzátartozói igazolvány”-nyal, vagy „Magyar igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás miatt terjesztette elő;
 
 b) aki beutazási és tartózkodási tilalom vagy kiutasítás hatálya alatt áll;
 

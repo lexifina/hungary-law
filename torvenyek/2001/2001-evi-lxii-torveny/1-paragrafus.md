@@ -2,7 +2,7 @@
 
 ## Általános rendelkezések
 
-1. § (1) A törvény hatálya a Horvát Köztársaságban, Romániában, a Szerb Köztársaságban, a Szlovák Köztársaságban, a Szlovén Köztársaságban vagy Ukrajnában (a továbbiakban: szomszédos állam) lakóhellyel rendelkező, nem magyar állampolgárságú, magát magyar nemzetiségűnek valló személyre terjed ki.
+1. § (1) A törvény hatálya a Horvát Köztársaságban, Romániában, a Szerb Köztársaságban, a Szlovák Köztársaságban, a Szlovén Köztársaságban vagy Ukrajnában (a továbbiakban: szomszédos állam) lakóhellyel rendelkező, magát magyar nemzetiségűnek valló személyre terjed ki.
 
 (2) Ha nemzetközi szerződés másként nem rendelkezik, a törvény hatálya az (1) bekezdésben meghatározott személlyel együtt élő házastársra és közös háztartásukban nevelt kiskorú gyermekre (a továbbiakban: hozzátartozó) akkor is kiterjed, ha magát nem vallja magyar nemzetiségűnek.
 

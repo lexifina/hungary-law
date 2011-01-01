@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-62-00-00
 | --- | --- | --- |
 | 2007-07-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-62-00-00.6 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2001-62-00-00.7 |
+| 2011-01-01 | 2010. évi CLXXXII. törvény | 2001-62-00-00.8 |

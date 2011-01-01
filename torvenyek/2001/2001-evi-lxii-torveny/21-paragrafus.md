@@ -2,29 +2,31 @@
 
 a) ha az elbíráló hatóság visszavonja;
 
-b) az igazolvány tulajdonosának halálával.
+b) az igazolvány tulajdonosának halálával;
+
+c) ha a tulajdonosának birtokából kikerült, illetve használatra alkalmatlanná vált.
 
 (2) Az elbíráló hatóság az igazolványt visszavonja, ha
 
-a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetőleg az igazolvány igénylése során;
+a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetve az igazolvány igénylése során; vagy
 
-b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott;
+b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
 
-c) annak tulajdonosa magyar állampolgárságot szerzett;
+c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
 
-d) annak tulajdonosát a menekültügyi hatóság menekültként vagy menedékesként elismerte;
+d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
 
-e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
+e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
 
-f) az igazolványt jogosulatlanul használták fel vagy meghamisították;
+f) az igazolványt jogosulatlanul használták fel vagy meghamisították; vagy
 
-g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják;
+g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják; vagy
 
 h) az igazolvány tulajdonosa ezt maga kéri.
 
 (3) Az igazolvány tartalmazza a jogosult
 
-a) családi és utónevét (nőknél a leánykori családi és utónevet is), a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;
+a) családi és utónevét (nőknél a születési családi és utónevet is), a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;
 
 b) születési helyének a szomszédos államban hivatalosan használt és magyar megnevezését;
 
@@ -44,16 +46,18 @@ h) tájékoztatását arról, hogy az igazolvány nem minősül személyazonosí
 
 (5) Ha az igazolvány melléklete a kedvezmények igénybevételre jogosító igazolások bejegyzésére alkalmatlanná vált, betelt, akkor az adott kedvezmény (utazási, diák-, pedagógus-) igénybevételére jogosító pótfüzetet kell kérvényezni, amely nem minősül új igazolvány iránti kérelemnek. A pótfüzetnek tartalmaznia kell a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” okmányszámát és a jogosult nevét. A pótfüzet a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” elválaszthatatlan részét képezi.
 
-(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, illetőleg az idegenrendészeti hatóság részére.
+(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére.
 
 (6a) Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
-a) a központi idegenrendészeti nyilvántartásból arról, hogy a kérelmező kiutasításra irányuló eljárás alatt áll-e, továbbá a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
+a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
 
 b) a személyiadat- és lakcímnyilvántartásból;
 
-c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság megszerzése tekintetében;
+c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság tekintetében;
 
 d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
+
+(7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
