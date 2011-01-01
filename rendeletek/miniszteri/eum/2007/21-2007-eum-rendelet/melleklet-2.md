@@ -12,6 +12,6 @@
 
 2. számú melléklet a 21/2007. (V. 8.) EüM rendelethez[^7]
 
-| Országos Tisztifőorvosi Hivatal | 10032000-00281519-00000000 |
+| Országos Gyógyszerészeti Intézet | 10032000-01492695-00000000 |
 
-[^7]: A 2. számú melléklet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének c) pontja, a 4/2010. (VIII. 12.) NEFMI rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^7]: A 2. számú melléklet a 30/2010. (XII. 30.) NEFMI rendelet 12. § (4) bekezdésével megállapított szöveg.
