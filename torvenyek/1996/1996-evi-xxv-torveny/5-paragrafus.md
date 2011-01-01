@@ -12,4 +12,4 @@ c) az (1) bekezdés alapján összehívott képviselő-testületi ülés jegyző
 
 (4) Ha a polgármester az e törvényben előírt bármely kötelezettségét nem teljesíti, a bíróság – esetenként – százezer forintig terjedő pénzbírsággal sújthatja.
 
-(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a közigazgatási hivatalt.
+(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.

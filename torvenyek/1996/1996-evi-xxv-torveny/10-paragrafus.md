@@ -24,7 +24,7 @@ h) az egyéb lényeges körülményeket.
 
 (4) Az adósságrendezés megindításáról a polgármester (annak hiányában a pénzügyi gondnok) – a végzés Cégközlönyben történő megjelenését követő 8 napon belül – tájékoztatja
 
-a) a közigazgatási hivatalt;
+a) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet;
 
 b) a kincstárt;
 
