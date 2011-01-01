@@ -50,4 +50,4 @@
 
 3. melléklet a 26/2008. (XI. 20.) IRM rendelethez[^6]
 
-[^6]: A 3. melléklet e rendelet 2. § (2) bekezdése alapján 2011. január 1-jén hatályát veszti.
+[^6]: A 3. mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.
