@@ -1,1 +1,1 @@
-1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt igénylő központi államigazgatási szervnek.
+1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt igénylő központi államigazgatási szervnek, illetve a Pénzügyi Szervezetek Állami Felügyeletének.
