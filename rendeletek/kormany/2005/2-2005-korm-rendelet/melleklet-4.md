@@ -54,9 +54,11 @@
 
 ## a nemzeti park igazgatóság;
 
-## c) környezet- és település-egészségügyre kiterjedően:
+## c)[^10] környezet- és település-egészségügyre kiterjedően:
 
-## az Állami Népegészségügyi és Tisztiorvosi Szolgálat megyei (fővárosi) intézete.
+## fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve.
+
+## ca)[^11] A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
 
 ## II.2. Érintettség esetén vesz részt:
 
@@ -64,7 +66,7 @@
 
 ## a települési önkormányzat jegyzője;
 
-## b)[^10] az épített környezet védelmére kiterjedően:
+## b)[^12] az épített környezet védelmére kiterjedően:
 
 ## a területi főépítészi iroda;
 
@@ -72,19 +74,19 @@
 
 ## a felügyelőség;
 
-## d)[^11] erdővédelemre kiterjedően:
+## d)[^13] erdővédelemre kiterjedően:
 
-## a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
+## a megyei kormányhivatal erdészeti igazgatósága;
 
-## e)[^12] talajvédelemre kiterjedően:
+## e)[^14] talajvédelemre kiterjedően:
 
-## a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
+## a megyei kormányhivatal növény- és talajvédelmi igazgatósága;
 
-## f) a termőföld mennyiségi védelmére kiterjedően:
+## f)[^15] a termőföld mennyiségi védelmére kiterjedően:
 
-## a körzeti földhivatal (a fővárosban a Fővárosi Kerületek Földhivatala), több körzeti földhivatal illetékességi területét érintő esetekben a megyei földhivatal (a fővárosban a Fővárosi Földhivatal);
+## a körzeti földhivatal (a fővárosban a Fővárosi Kerületek Földhivatala), több körzeti földhivatal illetékességi területét érintő esetekben a megyei kormányhivatal földhivatala (a fővárosban a Fővárosi kormányhivatal földhivatala);
 
-## g)[^13] földtani és ásványvagyon védelemre kiterjedően:
+## g)[^16] földtani és ásványvagyon védelemre kiterjedően:
 
 ## a bányakapitányság;
 
@@ -92,9 +94,9 @@
 
 ## az Országos Tisztifőorvosi Hivatal Országos Gyógyhelyi és Gyógyfürdőügyi Főigazgatósága;
 
-## i) kulturális örökség (műemlékvédelem, régészet) védelmére kiterjedően:
+## i)[^17] kulturális örökség (műemlékvédelem, régészet) védelmére kiterjedően:
 
-## a Kulturális Örökségvédelmi Hivatal regionális szervezeti egysége;
+## a fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája;
 
 ## j) kémiai biztonságra kiterjedően:
 
@@ -112,7 +114,7 @@
 
 1.1. előzmények, különösen a tematika tartalma;
 
-1.2. a tervezési folyamat más részeihez[^14] való kapcsolódása;
+1.2. a tervezési folyamat más részeihez[^18] való kapcsolódása;
 
 1.3. a környezeti értékelés készítése során tett javaslatok hatása a terv, illetve program alakulására;
 
@@ -124,7 +126,7 @@
 
 2.1. a terv, illetve program céljainak, tartalmának összefoglaló ismertetése, kiemelve a környezeti értékelés készítése szempontjából fontos részeket;
 
-2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^15];
+2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^19];
 
 2.3. a változatok közötti választás indokai, a választást alátámasztó vizsgálat rövid leírása.
 
@@ -156,7 +158,7 @@
 
 3.6.1. jól azonosítható környezet igénybevétel vagy terhelés esetén különös tekintettel:
 
-3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^16]),
+3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^20]),
 
 3.6.1.2. a környezeti elemek rendszereire, folyamataira, szerkezetére, különösen a tájra, településre, klímára, természeti (ökológiai) rendszerre, a biodiverzitásra,
 
@@ -190,10 +192,14 @@
 
 [^8]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^9]: A 3. számú melléklet I.2. pont f) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
-[^10]: A 3. számú melléklet II.2. pont b) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
-[^11]: A 3. számú melléklet II. 2. pontjának d) alpontja a 337/2007. (XII. 13.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
-[^12]: A 3. számú melléklet II. 2. pontjának e) alpontja a 337/2007. (XII. 13.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^13]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^14]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
-[^15]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
-[^16]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
+[^10]: A 3. számú melléklet II. cím 1. pont c) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+[^11]: A 3. számú melléklet II. cím 1. pont c) alpontja ca alpontját a 351/2010. (XII. 30.) Korm. rendelet 131. §-a iktatta be.
+[^12]: A 3. számú melléklet II.2. pont b) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
+[^13]: A 3. számú melléklet II. cím 2. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+[^14]: A 3. számú melléklet II. cím 2. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+[^15]: A 3. számú melléklet II. cím 2. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+[^16]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^17]: A 3. számú melléklet II. cím 2. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+[^18]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
+[^19]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
+[^20]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
