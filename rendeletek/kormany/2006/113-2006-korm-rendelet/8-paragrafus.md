@@ -1,4 +1,4 @@
-8. § (1)[^20] Az MgSzH területi szerve nyilvántartást vezet az illetékességi területén működő jogosult állatorvosokról. A nyilvántartásnak tartalmaznia kell a jogosult állatorvos
+8. § (1)[^15] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság nyilvántartást vezet az illetékességi területén működő jogosult állatorvosokról. A nyilvántartásnak tartalmaznia kell a jogosult állatorvos
 
 a) családi és utónevét;
 
@@ -10,16 +10,16 @@ d) aláírásmintáját;
 
 e) az engedélyben meghatározott működési területét és feladatait.
 
-(2)[^21] Az MgSzH területi szervének gondoskodnia kell az (1) bekezdés szerinti adatoknak az Országos Állategészségügyi Informatikai Rendszerbe való beviteléről.
+(2)[^16] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak gondoskodnia kell az (1) bekezdés szerinti adatoknak az Országos Állat-egészségügyi Informatikai Rendszerbe való beviteléről.
 
-(3)[^22] Az MgSzH területi szerve köteles a hirdetőtábláján közzétenni az illetékességi területén működő jogosult állatorvosok névsorát az (1) bekezdés b) és e) pontjaiban foglaltakkal együtt, és azt köteles naprakészen vezetni.
+(3)[^17] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság köteles a hirdetőtábláján közzétenni az illetékességi területén működő jogosult állatorvosok névsorát az (1) bekezdés b) és e) pontjaiban foglaltakkal együtt, és azt köteles naprakészen vezetni.
 
-(4)[^23] Az MgSzH területi szerve az engedélyt és az engedély visszavonásáról hozott határozatot a kerületi főállatorvossal is közli, a szerződést a kerületi főállatorvosnak megküldi.
+(4)[^18] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az engedélyt és az engedély visszavonásáról hozott határozatot a kerületi főállatorvossal is közli, a szerződést a kerületi főállatorvosnak megküldi.
 
-(5)[^24] Az illetékességi területén a kerületi főállatorvos szervezi, irányítja és felügyeli a jogosult állatorvos működését az engedélyben meghatározott feladatok figyelembevételével.
+(5)[^19] Az illetékességi területén a kerületi főállatorvos szervezi, irányítja és felügyeli a jogosult állatorvos működését az engedélyben meghatározott feladatok figyelembevételével.
 
-[^20]: A 8. § (1) bekezdésének bevezető szövegrésze a 337/2007. (XII. 13.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
-[^21]: A 8. § (2) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
-[^22]: A 8. § (3) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
-[^23]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 464. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: A 8. § (5) bekezdése a 218/2008. (VIII. 30.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^15]: A 8. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 149. § (8) bekezdésével megállapított szöveg.
+[^16]: A 8. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 149. § (8) bekezdésével megállapított szöveg.
+[^17]: A 8. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 149. § (8) bekezdésével megállapított szöveg.
+[^18]: A 8. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 149. § (8) bekezdésével megállapított szöveg.
+[^19]: A 8. § (5) bekezdése a 218/2008. (VIII. 30.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
