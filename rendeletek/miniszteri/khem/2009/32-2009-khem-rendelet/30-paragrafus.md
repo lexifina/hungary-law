@@ -8,6 +8,6 @@
 
 (3) E rendelet 32. §-a és a 33. §-ának (1) bekezdése és 17. melléklete a rendelet hatálybalépését követő 12. hónap utolsó napján hatályát veszti.
 
-(4)–(5)[^1]
+(4)–(5)[^2]
 
-[^1]: A 30. § (4)–(5) bekezdése e rendelet 30. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 30. § (4)–(5) bekezdése e rendelet 30. § (2) bekezdése alapján hatályát vesztette.
