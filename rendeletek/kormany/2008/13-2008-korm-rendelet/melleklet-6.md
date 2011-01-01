@@ -16,13 +16,13 @@
 
 ## 8. A tüzelőanyag egységnyi felhasználására vetített fajlagos szén-dioxid kibocsátás megállapítása során minden ágazatban földgáz tüzelőanyag használatát kell feltételezni.
 
-## 9.[^7] A 8. pontban foglaltak alól kivételt képeznek az 50 MWe feletti villamos energiatermelő létesítmények, melyek esetében az energiaellátás biztonságának szavatolásához szükséges szintig vehető figyelembe a hazai tüzelőanyagénál magasabb fajlagos kibocsátás. Szilárd tüzelőanyag esetén az adott erőmű az esetben jogosult a ténylegesen alkalmazott szilárd tüzelőanyag felhasználásra, ha a 2005. december 31-én üzemben lévő erőművek összkapacitása MWth mértékegységben kifejezve nem nő. Egyéb esetben nem részesíthető megengedőbb elbánásban a magasabb fajlagos kibocsátással rendelkező tüzelőanyag felhasználás. Földgáz alaptüzelésű, 50 MWe feletti kapacitással rendelkező villamos energia termelő létesítmények tekintetében, az új belépő kapacitások esetén
+## 9.[^9] A 8. pontban foglaltak alól kivételt képeznek az 50 MWe feletti villamos energiatermelő létesítmények, melyek esetében az energiaellátás biztonságának szavatolásához szükséges szintig vehető figyelembe a hazai tüzelőanyagénál magasabb fajlagos kibocsátás. Szilárd tüzelőanyag esetén az adott erőmű az esetben jogosult a ténylegesen alkalmazott szilárd tüzelőanyag felhasználásra, ha a 2005. december 31-én üzemben lévő erőművek összkapacitása MWth mértékegységben kifejezve nem nő. Egyéb esetben nem részesíthető megengedőbb elbánásban a magasabb fajlagos kibocsátással rendelkező tüzelőanyag felhasználás. Földgáz alaptüzelésű, 50 MWe feletti kapacitással rendelkező villamos energia termelő létesítmények tekintetében, az új belépő kapacitások esetén
 
 ## a) a 2007. december 31-ig üzembe helyezett létesítményeknél és a 2008. január 1. után történt kapacitásbővítés esetén a létesítmények üzemelése során megvalósult szénhidrogén tüzelőanyag szerkezetet kell feltételezni;
 
 ## b) a 2008. január 1-je után üzembe helyezett új létesítményeknél, a megszakítható szerződéssel rendelkező fogyasztóknál, valamint a földgázkorlátozással érintett fogyasztóknál a tényleges folyékony tüzelőanyag felhasználás mértékéig – legfeljebb évi 60 napos időszakra – tüzelőolaj felhasználást kell feltételezni.
 
-## 10.[^8] A 8. pontban foglaltak alól további kivételt képeznek a biomasszát, biogázt, egyéb megújuló tüzelőanyagot legalább 60%-ban alkalmazó létesítmények, melyek csak a fosszilis tüzelőanyag felhasználás után jogosultak földgáz alapon kibocsátási egység kiosztásra. Biomassza tüzelésű erőmű kizárólag abban az esetben lehet jogosult földgáz alapon kiosztásra az új belépő tartalékból, ha 2007. január 18-ig regisztrálásra került mint együttes végrehajtási projekt, azonban már nem került jóváhagyásra.
+## 10.[^10] A 8. pontban foglaltak alól további kivételt képeznek a biomasszát, biogázt, egyéb megújuló tüzelőanyagot legalább 60%-ban alkalmazó létesítmények, melyek csak a fosszilis tüzelőanyag felhasználás után jogosultak földgáz alapon kibocsátási egység kiosztásra. Biomassza tüzelésű erőmű kizárólag abban az esetben lehet jogosult földgáz alapon kiosztásra az új belépő tartalékból, ha 2007. január 18-ig regisztrálásra került mint együttes végrehajtási projekt, azonban már nem került jóváhagyásra.
 
 ## 11. A villamos energia ipari ágazatban az új belépő létesítmények szén vagy lignittüzelésű blokkjaiban legalább 17,8%-os biomassza hányadot kell feltételezni.
 
@@ -34,5 +34,5 @@
 
 6. melléklet a 13/2008. (I. 30.) Korm. rendelethez
 
-[^7]: Az 5. melléklet 9. pont nyitó szövegrésze a 42/2010. (II. 26.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^8]: Az 5. melléklet 10. pontja a 42/2010. (II. 26.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^9]: Az 5. melléklet 9. pont nyitó szövegrésze a 42/2010. (II. 26.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^10]: Az 5. melléklet 10. pontja a 42/2010. (II. 26.) Korm. rendelet 11. §-a szerint módosított szöveg.

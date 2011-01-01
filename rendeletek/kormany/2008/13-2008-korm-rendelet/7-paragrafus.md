@@ -18,7 +18,7 @@ a) a kapcsolt villamos energia és hőtermelésre áttérő, korábban hőtermel
 
 b) a távhő-termelő létesítmények abban az esetben jogosultak kiosztásra, amennyiben a kapacitásbővítésnek tulajdonítható többlettermelés vagy az új kapacitás termelése olyan, korábban nem távhővel ellátott új fogyasztók ellátását szolgálja, amelyeknél a szolgáltatott hőmennyiség mérése és szabályozása épületrészenként történik.
 
-(5)[^2] Nem részesedhet az új belépő tartalékból:
+(5)[^4] Nem részesedhet az új belépő tartalékból:
 
 a) a jóváhagyott együttes végrehajtási projekt;
 
@@ -26,4 +26,4 @@ b) a kibocsátás-kereskedelem hatálya alá tartozó, a Kiosztási Listában fe
 
 c) az az üzemeltető, akinek az üzemeltetésében lévő létesítmény kibocsátása a (3) bekezdés szerinti lényeges változásnak minősülő esemény következtében sem haladja meg az azt megelőző év kibocsátását.
 
-[^2]: A 7. § (5) bekezdése a 42/2010. (II. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^4]: A 7. § (5) bekezdése a 42/2010. (II. 26.) Korm. rendelet 8. §-ával megállapított szöveg.

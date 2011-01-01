@@ -36,7 +36,7 @@
 
 ## b) a c) és d) pontja szerinti esetben a módosított engedélyben szereplő berendezések együttes 2005. évi kibocsátása, valamint
 
-## c)[^6]
+## c)[^8]
 
 ## 3.3. A 3.1. a) pontja szerinti létesítményeknél az üzembe helyezés napjának meghatározása a 2005. évi új belépő tartalék iránti igényhez csatolt dokumentumok alapján történik.
 
@@ -116,4 +116,4 @@
 
 3. melléklet a 13/2008. (I. 30.) Korm. rendelethez
 
-[^6]: A 2. melléklet 3.2. pontjának c) alpontját a 42/2010. (II. 26.) Korm. rendelet 12. § (2) bekezdése alapján hatályon kívül helyezte.
+[^8]: A 2. melléklet 3.2. pontjának c) alpontját a 42/2010. (II. 26.) Korm. rendelet 12. § (2) bekezdése alapján hatályon kívül helyezte.
