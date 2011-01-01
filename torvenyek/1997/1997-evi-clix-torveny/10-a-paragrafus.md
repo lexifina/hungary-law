@@ -4,6 +4,6 @@
 
 (3) A (2) bekezdésben meghatározott esetben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető.
 
-(4) A rendőrséghez a panaszt az intézkedéstől, annak elmulasztásától vagy a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított öt munkanapon, de legkésőbb az intézkedéstől számított 3 hónapon belül lehet előterjeszteni.
+(4) A rendőrséghez a panaszt az intézkedéstől, annak elmulasztásától vagy a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb az intézkedéstől számított 3 hónapon belül lehet előterjeszteni.
 
-(5) A rendőrség a panaszról a beérkezéstől számított tíz munkanapon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
+(5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.

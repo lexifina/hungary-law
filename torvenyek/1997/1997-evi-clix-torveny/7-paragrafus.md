@@ -6,7 +6,7 @@ b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget 
 
 (2) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
 
-(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tíz munkanapon belül a hatósági szolgálati igazolványt határozattal
+(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal
 
 a) visszavonja, ha
 

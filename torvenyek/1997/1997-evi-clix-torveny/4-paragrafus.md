@@ -26,7 +26,7 @@ határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott ese
 
 (4) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a (3) bekezdés szerinti határozatban foglaltaknak
 
-a) a (3) bekezdés a) és b) pontjában foglalt esetben tíz munkanapon belül,
+a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
 
 b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
 
