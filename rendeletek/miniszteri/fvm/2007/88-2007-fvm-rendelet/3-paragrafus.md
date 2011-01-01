@@ -22,7 +22,7 @@ d) fás szárú energetikai célú ültetvényekre;
 
 e) NATURA 2000 területeken Akác, Nemesnyár és Fenyő támogatási csoportba tartozó célállományokra;
 
-f) NATURA 2000 területeken a külön jogszabályban előírt fenntartási/fejlesztési tervek elkészítését megelőző időszakban;
+f)[^5]
 
 g) az alábbi fafajokra:
 
@@ -45,3 +45,5 @@ b) az egységes területalapú támogatásokhoz kapcsolódó kiegészítő nemze
 ## nem lehet igénybe venni.
 
 (4) E rendelet alapján nem vehet igénybe támogatást az, aki a tanácsi rendelet 23. cikke szerinti, gazdaságátadási támogatások részletes feltételeiről szóló külön jogszabály előírásai szerinti támogatásban részesül.
+
+[^5]: A 3. § (2) bekezdés f) pontját a 46/2010. (XII. 31.) VM rendelet 10. §-a hatályon kívül helyezte.
