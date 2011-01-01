@@ -76,12 +76,6 @@
 
 | Zalaegerszeg | Nagylengyel 1-1. Nagylengyel, 1-2, Nagylengyel KTD ZRG, Pókaszepetk 1-1, Pókaszepetk 1-2, Zalaegerszeg 1+2, Zalaegerszeg 1, Zalaegerszeg 2, Nagylengyel KTD NLT, Nagylengyel KTD NLT-3 |
 
-9. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^16]
+9. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^35]
 
-A 2010. december 31. között érvényes, referencia időszak nélkül alkalmazandó árfolyamok mértéke:
-
-| árfolyam | Ft/USD | Ft/EUR |
-
-| 226,5539 | 278 |
-
-[^16]: A 9. mellékletet a 18/2010. (XII. 3.) NFM rendelet 3. § (4) bekezdése iktatta be.
+[^35]: A 9. mellékletet a 18/2010. (XII. 3.) NFM rendelet 3. § (4) bekezdése iktatta be.

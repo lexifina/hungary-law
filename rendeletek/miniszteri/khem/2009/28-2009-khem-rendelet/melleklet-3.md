@@ -8,6 +8,6 @@
 
 ## II. Az árak szabályozása során alkalmazott referencia időszak: 2010. december 1–2010. december 31.
 
-3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^15]
+3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^34]
 
-[^15]: A 3. melléklet a 18/2010. (XII. 3.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^34]: A 3. melléklet a 39/2010. (XII. 31.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
