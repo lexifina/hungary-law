@@ -72,30 +72,6 @@
 
 | 35. | Átláthatósági biztos | Közbeszerzések Tanácsa |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^22]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^23]
 
-Az Etv. 41. § (1) bekezdése szerinti előzetes ellenőrzés alá tartozó szabályozott szakmák
-
-| Sorszám | Szabályozott szakma megnevezése | Előzetes ellenőrzést végző elsőfokú hatóság | Előzetes ellenőrzést végző másodfokú hatóság |
-
-| 1. | Az egészségügyről szóló 1997. évi CLIV. tv. 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézetei | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
-
-| 2. | Tűzvédelmi szakértő | Országos Katasztrófavédelmi Főigazgatóság | Önkormányzati miniszter |
-
-| 3. | Gázszerelő | Magyar Kereskedelmi Engedélyezési Hivatal | Nemzeti fejlesztési és gazdasági miniszter |
-
-| 4. | Növényvédelmi tevékenység | Magyar Növényvédő Mérnöki és Növényorvosi Kamara területileg illetékes szerve | Magyar Növényvédő Mérnöki és Növényorvosi Kamara |
-
-| 5. | Építészeti-műszaki tervezői tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdése szerint | 2. § (6) bekezdése szerint |
-
-| 6. | Építésügyi műszaki szakértői tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdése szerint | 2. § (6) bekezdése szerint |
-
-| 7. | Építési műszaki ellenőri tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdése szerint | 2. § (6) bekezdése |
-
-| 8. | Felelős műszaki vezetői tevékenység, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdése szerint | 2. § (6) bekezdése szerint |
-
-| 9. | Tervellenőr, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | 2. § (6) bekezdése szerint | 2. § (6) bekezdése szerint |
-
-| 10. | Felvonó- és mozgólépcső ellenőri tevékenység | Budapesti és Pest Megyei Mérnöki Kamara | Budapesti és Pest Megyei Mérnöki Kamara |
-
-[^22]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 205. §-a szerint módosított szöveg.
