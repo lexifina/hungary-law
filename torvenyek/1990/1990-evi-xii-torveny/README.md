@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-12-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2008-11-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-12-00-00.4 |
+| 2011-01-01 | 2010. évi CXLVIII. törvény | 1990-12-00-00.5 |
