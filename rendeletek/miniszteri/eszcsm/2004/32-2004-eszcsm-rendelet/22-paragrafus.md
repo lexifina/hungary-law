@@ -1,6 +1,6 @@
-22. §[^84] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
+22. §[^93] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
 
-a) már támogatott hatóanyagot, illetve kombinációt tartalmazó gyógyszerrel egyenértékű készítmény:
+a) már támogatott hatóanyagot tartalmazó gyógyszerrel egyenértékű készítmény:
 
 aa) új kiszerelésére,
 
@@ -8,13 +8,15 @@ ab) új hatáserősségére,
 
 ac) új gyógyszerformájára és azonos beviteli formájára,
 
-ad) új kombinációjára,
-
-ae) új generikumára, márkanevű készítményére,
+ad) új generikumára, márkanevű készítményére,
 
 b) tápszer vagy forgalomba hozatalra engedélyezett, a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására,
 
-## érkezett.
+c) a 14. § i) pontja szerinti kombinációra,
+
+d) már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – biológiai gyógyszer valamely hatóanyagával azonos vagy hasonló hatóanyagot tartalmazó, a Tfr. 2. § (2) bekezdés 15. pontja szerinti generikumnak nem minősülő hasonló biológiai gyógyszerre
+
+érkezett.
 
 (2) Normál eljárásrendet kell alkalmazni, amikor a kérelem
 
@@ -24,7 +26,7 @@ b) új indikációra,
 
 c) új hatóanyagra,
 
-d) új kombinációra, ha valamely az összetételben szereplő hatóanyag nem támogatott,
+d) új kombinációra, ha az összetételben szereplő valamely hatóanyag nem támogatott,
 
 e) áremelésre,
 
@@ -34,9 +36,6 @@ g) az (1) bekezdésben foglaltak kivételével már támogatott hatóanyag új g
 
 h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron történő befogadásra és a támogatás megállapítására
 
-## érkezett.
+érkezett.
 
-(3)[^85]
-
-[^84]: A 22. § az 53/2006. (XII. 28.) EüM rendelet 14. §-ával megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^85]: A 22. § (3) bekezdése az 53/2006. (XII. 28.) EüM rendelet 19. § – a 6/2007. (I. 31.) EüM rendelet 6. § (6) bekezdése szerint átszámozott – (7) bekezdése alapján 2007. március 31. napján hatályát vesztette.
+[^93]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.

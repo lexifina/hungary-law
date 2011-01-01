@@ -1,19 +1,39 @@
-5/C. §[^37] (1) A Gyftv. 23. § (7) bekezdés a) pontja szerinti felülvizsgálati eljárás megindítása kötelező
+5/C. §[^37] (1) Az OEP az 5/B. § a) pontja szerinti hivatalbóli eljárást köteles megindítani azon terápiás területek közfinanszírozásban részesülő gyógyszereire, melyek a 13/2009. (IV. 22.) EüM rendelet szerinti, a finanszírozási eljárásrendre vonatkozó munkatervben közzétételre kerültek.
 
-a) azon nem generikus készítmények esetében, amelyek költséghatékonysági vizsgálatára nem került sor, és nem tartoznak fix csoportba,
+(2) Az OEP az (1) bekezdés szerinti eljárás megindítását megelőzően, a 13/2009. (IV. 22.) EüM rendelet szerint a terápiás területeket tartalmazó munkaterv közzétételét követő 10 napon belül közzéteszi a honlapján a felülvizsgálat tárgyát képező terápiás területeket és az ezekhez tartozó készítményeket, valamint a felülvizsgálat megindításának időpontját.
 
-b) azon készítmények esetében, amelyeknél a befogadási kérelemmel egyidejűleg benyújtott, a költséghatékonyságot megalapozó adatok helytállósága tekintetében később kétség merül fel, vagy a befogadáskori feltételek már nem állnak fenn.
+(3) Az OEP a közfinanszírozás alapjául elfogadott elvárt ár kialakítása során az eljárás megindítását megelőzően kikéri az ESKI és a terápiás terület szerint illetékes szakmai kollégiumok véleményét, és a (2) bekezdés szerinti időponttól számított 90 napon belül meghatározza a közfinanszírozás alapjául elfogadott elvárt árakat.
 
-(2) A Gyftv. 23. § (7) bekezdés a) pontja szerinti felülvizsgálati eljárás során annak megítélése, hogy egy adott hétjegyű ATC csoportba tartozó gyógyszerek vagy egy adott készítmény költséghatékonysága kétséges, az OEP feladata. Az (1) bekezdésben foglaltakon túl azon készítmények esetében indítható eljárás, amelyek költséghatékonysága oly mértékben kétséges, hogy ha a forgalomba hozatali engedély jogosultja a felülvizsgálat időpontjában kérné a támogatásba történő befogadást, úgy a kérelmet az OEP a Gyftv. 22. § (1) bekezdés c) pontja alapján elutasítaná. Az OEP feladata továbbá annak meghatározása, hogy melyek azok a feltételek, amelyek teljesítése esetén megállapítható az adott készítmény költséghatékonysága.
+(4) Az OEP a honlapján is értesíti a felülvizsgált gyógyszerek forgalomba hozatali engedélyének jogosultjait arról, hogy hivatalból eljárást indított a Gyftv. 23. § (7) bekezdés a) pontja alapján az adott készítmények támogatásának felülvizsgálata érdekében.
 
-(3) Az OEP a (2) bekezdésben foglaltak eldöntéséhez szükség esetén kikérheti az ESKI szakvéleményét.
+(5) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl az eljárás megindításáról szóló értesítés tartalmazza:
 
-(4) A Gyftv. 23. § (7) bekezdés b) pontja szerinti felülvizsgálat szempontjából az E. Alapot nagymértékben terhelő gyógyszernek minősülnek
+a) a felülvizsgálatra kerülő terápiás területek megjelölését,
 
-a) azon gyógyszerek, melyek hatóanyagára az OEP adattárházában szereplő, a tárgyévet megelőző évi vényforgalmi adatok alapján – minden támogatási jogcímet figyelembe véve – az OEP a gyógyszertámogatási előirányzat több mint 0,5%-át fizette ki,
+b) az a) pont szerinti csoportokba tartozó gyógyszereket, azok TTT kódját, az eljárás kezdőnapján érvényes közfinanszírozás alapjául elfogadott árát, napi terápiás költségét,
 
-b) azon gyógyszerek, melyek esetén az egy főre jutó átlagos gyógyszertámogatás az OEP adattárházában szereplő, a tárgyévet megelőző évi vényforgalmi adatok alapján – minden támogatási jogcímet figyelembe véve – éves szinten meghaladja a gyógyszertámogatási előirányzat 0,005%-át.
+c) azon költséghatékonyságra vonatkozó feltételeket, szempontokat, melyek alapján az OEP – az ESKI és a terápiás terület szerint illetékes szakmai kollégiumok bevonásával – meghatározta a felülvizsgálati eljárás során a b) pont szerinti gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat, és az azokhoz kapcsolódó finanszírozási feltételeket,
 
-(5) A (4) bekezdés szerinti gyógyszerek közül azok tekintetében kerül lefolytatásra az 5/B. § szerinti eljárás, melyek alkalmazásával kapcsolatban – a terápiás költség, az érintett betegszám, a várható egészségnyereség és méltányossági szempontok figyelembevételével – kétség merül fel.
+d) a gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat,
 
-[^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+e) felhívást arra, hogy az ügyfelek a d) pont szerinti közfinanszírozás alapjául elfogadott elvárt árra vonatkozóan az eljárás megindítását követő 30 napon belül észrevételeket tehetnek.
+
+(6) Az (5) bekezdés e) pontja szerinti határidőt követő 10. napon az OEP a honlapján közzéteszi a végleges közfinanszírozás alapjául elfogadott elvárt árakat, és
+
+a) felhívja az ügyfeleket árcsökkentési ajánlat megtételének lehetőségére, valamint arra, hogy a forgalomba hozatali engedélyek jogosultjai annak tudatában teszik árcsökkentési ajánlatukat, hogy az a többi forgalmazó árajánlatától függetlenül a c) pont szerinti finanszírozási kezdőnaptól érvényes lesz,
+
+b) megjelöli az árcsökkentési ajánlat beadásának (7) bekezdés szerinti határidejét,
+
+c) megjelöli a tervezett finanszírozási kezdőnapot.
+
+(7) Ha a forgalomba hozatali engedély jogosultjai a (4) bekezdés szerint megindított eljárás során árcsökkentési ajánlattal kívánnak élni, azt az OEP által megjelölt határidőben tehetik meg, azzal, hogy az árcsökkentésre megszabott határidőt úgy kell meghatározni, hogy a (6) bekezdés szerinti értesítés és az árcsökkentési ajánlat beadására nyitva álló határidő utolsó napja között el kell telnie 30 napnak.
+
+(8) A felülvizsgálat alapján a támogatásból kizárásra kerülnek azon gyógyszerek, amelyeknek költséghatékonysági mutatói kedvezőtlenebbek az azonos szintű finanszírozási feltételek alapján finanszírozott többi készítményhez képest, és a forgalomba hozatali engedély jogosultja nem csökkentette a készítmény árát a közfinanszírozás alapjául elfogadott elvárt árra.
+
+(9) A (7) bekezdés szerinti határidő lejártát követő nyolc napon belül az OEP a honlapján – határozatai alapján – közzéteszi az árcsökkentéseket, és megjelöli azokat a gyógyszereket, amelyek a Gyftv. 31. § (1) bekezdés b)–c) és e) pontja alapján a támogatásból kizárásra kerülnek.
+
+(10) A (2)–(9) bekezdés szerinti eljárás lefolytatása nem érinti a 10. § szerinti eljárás menetét.
+
+(11) Az 5/B. § b) pontja szerinti esetben a (2)–(10) bekezdés szerinti eljárást kell alkalmazni.
+
+[^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.

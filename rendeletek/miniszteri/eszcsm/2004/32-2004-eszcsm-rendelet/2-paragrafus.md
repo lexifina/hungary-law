@@ -10,7 +10,7 @@ b) tápszer: olyan különleges táplálkozási igényt kielégítő élelmiszer
 
 c)[^3] gyógyszerhatóanyag: az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: Tfr.) 2. §-a (1) bekezdésének 1. pontja szerinti anyag;
 
-d)[^4] ATC: a gyógyszereknek a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 3. §-ának m) pontja szerinti osztályozása;
+d)[^4] ATC: a gyógyszereknek a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 3. § 13. pontja szerinti osztályozása;
 
 e)[^5] gyógyszerforma: a Tfr. 2. §-a (1) bekezdésének 3. pontja szerinti fogalom;
 
@@ -68,13 +68,13 @@ x)[^22] T%: százalékos formában kifejezett támogatási mérték;
 
 y)[^23] referencia érték: a referencia árhoz vagy referencia készítmény árához tartozó bruttó támogatási összeg;
 
-z)[^24] különkeretes gyógyszer: a Gyftv. 3. §-ának c) pontja szerinti gyógyszer;
+z)[^24] különkeretes gyógyszer: a Gyftv. 3. § 3. pontja szerinti gyógyszer;
 
 zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlítja az azonos célú gyógyszerek vagy egészségügyi programok eredményességét és költségeit. Az eredményességet ún. természetes egységekben méri.
 
 [^2]: A 2. § a) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § c) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § d) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § d) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 30/2010. (XII. 30.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § f) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § g) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -94,5 +94,5 @@ zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlít
 [^21]: A 2. § w) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^22]: A 2. § x) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^23]: A 2. § y) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^24]: A 2. § z) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^24]: A 2. § z) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (4) bekezdésével megállapított, a 30/2010. (XII. 30.) NEFMI rendelet 10. § c) pontja szerint módosított szöveg.
 [^25]: A 2. § zs) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
