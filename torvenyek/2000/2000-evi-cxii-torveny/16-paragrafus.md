@@ -1,6 +1,6 @@
 ## A BALATON KIEMELT ÜDÜLŐKÖRZET PARTI ÉS PARTKÖZELI TELEPÜLÉSEIRE VONATKOZÓ SZABÁLYOK
 
-16. § (1) Az e törvényben meghatározott célok, valamint a külön jogszabályok szerinti környezetvédelmi, természetvédelmi, vízgazdálkodási célok (a továbbiakban együtt: környezeti célok) megvalósítása érdekében a környezetvédelemért felelős miniszter, a vízgazdálkodásért felelős miniszter és a területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát követően együttes rendelettel partvonal-szabályozási és vízpart-rehabilitációs tervet fogad el.
+16. § (1) Az e törvényben meghatározott célok, valamint a külön jogszabályok szerinti környezetvédelmi, természetvédelmi, vízgazdálkodási célok (a továbbiakban együtt: környezeti célok) megvalósítása érdekében a környezetvédelemért felelős miniszter a vízgazdálkodásért felelős miniszter és a területrendezésért felelős miniszter egyetértésével kiadott rendelettel a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát követően partvonal-szabályozási és vízpart-rehabilitációs tervet fogad el.
 
 (2) Az (1) bekezdésben meghatározott célok megvalósítása érdekében a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a vízgazdálkodásért felelős miniszter rendelettel partvonal-szabályozási tervet fogad el.
 
