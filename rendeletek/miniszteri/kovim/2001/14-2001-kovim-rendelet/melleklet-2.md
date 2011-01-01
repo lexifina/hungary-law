@@ -200,7 +200,7 @@
 
 ## – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-2. számú melléklet a 14/2001. (IV. 20.) KöViM rendelethez[^54]
+2. számú melléklet a 14/2001. (IV. 20.) KöViM rendelethez[^55]
 
 A belföldi és nemzetközi közlekedés terén a közúti árufuvarozók és személyszállítók szakmába történő bejutásáról, valamint e személyek szabad letelepedéséhez való joga gyakorlásának előmozdítása érdekében a diplomák, bizonyítványok és a képesítésekre vonatkozó egyéb tanúsítványok kölcsönös elismeréséről szóló, a Tanács 98/76/EK Irányelvével módosított 96/26/EK Irányelvének Ia. Melléklete szerinti ,,Bizonyítvány'' mintája
 
@@ -258,4 +258,4 @@ _______________________
 
 7 A bizonyítványt kiállító, hatáskörrel rendelkező hatóság vagy szervezet bélyegzője és aláírása.
 
-[^54]: A 2. számú mellékletet a 21/2004. (II. 27.) GKM rendelet 9. §-a iktatta a szövegbe. E módosító rendelet 10. §-ának (3) bekezdése alapján e módosító rendelet nem érinti a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napja előtt kiadott belföldi és nemzetközi árufuvarozó-vállalkozói képesítések érvényességét, ideértve a vizsgára vonatkozó mentességeket is. Ezen korábbi szakmai alkalmassági igazolások alapján ezen időpontot követően kérhető a Közlekedési Főfelügyelettől a 2. számú mellékletben foglaltak szerinti vizsgabizonyítvány kiadása.
+[^55]: A 2. számú mellékletet a 21/2004. (II. 27.) GKM rendelet 9. §-a iktatta a szövegbe. E módosító rendelet 10. §-ának (3) bekezdése alapján e módosító rendelet nem érinti a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napja előtt kiadott belföldi és nemzetközi árufuvarozó-vállalkozói képesítések érvényességét, ideértve a vizsgára vonatkozó mentességeket is. Ezen korábbi szakmai alkalmassági igazolások alapján ezen időpontot követően kérhető a Közlekedési Főfelügyelettől a 2. számú mellékletben foglaltak szerinti vizsgabizonyítvány kiadása.
