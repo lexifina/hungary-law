@@ -1,4 +1,4 @@
-2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^45]
+2. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^57]
 
 ## A RENDSZERESÍTÉSI JAVASLAT, ILLETVE AZ ALKALMAZÁSBA VÉTELI JAVASLAT TARTALMI ELEMEI
 
@@ -24,4 +24,4 @@
 
 11. A pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatok megjelölése
 
-[^45]: A 2. melléklet a 167/2009. (VIII. 26.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^57]: A 2. melléklet a 167/2009. (VIII. 26.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
