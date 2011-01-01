@@ -82,92 +82,94 @@
 
 | 7. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
-| 7.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatal |
+| 7.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
-2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez
+2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^2]
 
 ## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
 1. Vízügyi hatósági engedély
 
-| Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | a Kormány – illetékes – általános hatáskörű területi államigazgatási szerve | nemzeti fejlesztési és gazdasági miniszter |
+| 1. építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
 
-| 2. közlekedés |  |  |
+| 2. közlekedés |  |  |
 
-| 2.1. közút | Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.1. közút | Illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 2.2. vasút, hajózás | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.2. vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 2.3. légi közlekedés | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.3. légi közlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-| 3. földtan | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 3. földtan | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 4. bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 4. bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 5. rendészet (rendőrség) |  |  |
+| 5. rendészet (rendőrség) |  |  |
 
-| a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) igazságügyi és rendészeti miniszter b) Országos Rendőr-főkapitányság |
+| a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvédelmi Minisztérium Honvéd Vezérkar | honvédelmi miniszter |
+| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
 
-| 8. földművelésügy |  |  |
+| 8. földművelésügy |  |  |
 
-| 8.1. termőföldvédelem | megyei földhivatal | földművelésügyi és vidékfejlesztési miniszter |
+| 8.1. termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 8.2. talajvédelem | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 8.3. erdővédelem | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 9. kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal illetékes területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
+| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 10. egészségügy | Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézete | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
-| 12. műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal területi mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
+| 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 2. Környezetvédelmi engedély
 
-| Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. építésügy | a Kormány – illetékes – általános hatáskörű területi államigazgatási szerve | nemzeti fejlesztési és gazdasági miniszter |
+| 1. építésügy | Illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
 
-| 2. közlekedés |  |  |
+| 2. közlekedés |  |  |
 
-| 2.1. közút | Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.1. közút | Illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 2.2. vasút, hajózás | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.2. vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 2.3. légi közlekedés | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 2.3. légi közlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-| 3. földtan | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 3. földtan | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 4. bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 4. bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 5. rendészet (rendőrség) |  |  |
+| 5. rendészet (rendőrség) |  |  |
 
-| a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) igazságügyi és rendészeti miniszter b) Országos Rendőr-főkapitányság |
+| a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvédelmi Minisztérium Honvéd Vezérkar | honvédelmi miniszter |
+| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
 
-| 8. földművelésügy |  |  |
+| 8. földművelésügy |  |  |
 
-| 8.1. termőföldvédelem | megyei földhivatal | földművelésügyi és vidékfejlesztési miniszter |
+| 8.1. termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 8.2. talajvédelem | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 8.3. erdővédelem | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 9. kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal illetékes területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve |
+| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 10. egészségügy | Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézete | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| 11. hírközlés | Nemzeti Hírközlési Hatóság Hivatala | Nemzeti Hírközlési Hatóság Tanácsának elnöke |
+| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
-| 12. műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal területi mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
+| 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
+
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított szöveg.
