@@ -8,7 +8,7 @@ a) a haditechnikai célokat szolgáló berendezések;
 
 b) a belső égésű motorok (az energetikai célra szolgáló gázturbinák és gázmotorok kivételével);
 
-c) a külön jogszabályok[^1] hatál a alá tartozó közúti jármű motorok;
+c) a külön jogszabályok[^2] hatál a alá tartozó közúti jármű motorok;
 
 d) a vegyipari technológiában a gázt kizárólag alapanyagként felhasználó berendezések;
 
@@ -16,4 +16,4 @@ e) a 3/1999. (II. 5.) GM és a 67/1999. (XII. 15.) GM rendelettel módosított, 
 
 f) a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet hatálya alá tartozó nyomástartó berendezések és rendszerek.
 
-[^1]: – A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet, – a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
+[^2]: – A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet, – a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
