@@ -1,4 +1,4 @@
-4. §[^15] (1)[^16] Közúti árufuvarozást[^17] a belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság és egyéni vállalkozó (a továbbiakban együtt: vállalkozás) csak abban az esetben végezhet, ha kérelmére az NKH regionális igazgatóságától közúti árufuvarozói engedélyt[^18] kapott.
+4. §[^15] (1)[^16] Közúti árufuvarozást[^17] a belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság és egyéni vállalkozó (a továbbiakban együtt: vállalkozás) csak abban az esetben végezhet, ha kérelmére a közlekedési hatóságtól közúti árufuvarozói engedélyt[^18] kapott.
 
 (2)–(3)[^19]
 
@@ -6,8 +6,8 @@
 
 (5)[^22]
 
-[^15]: A 4. § a 68/2001. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E kormányrendelet 3. §-ának (2) bekezdése alapján az engedéllyel már rendelkező vállalkozások legkésőbb 2002. december 31-ig kötelesek eleget tenni a 68/2001. (IV. 20.) Korm. rendeletben előírt feltételeknek.
-[^16]: A 4. § (1) bekezdése a 264/2006. (XII. 20.) Korm. rendelet 40. § (1) bekezdésének e) szerint módosított szöveg.
+[^15]: A 4. § a 68/2001. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E kormányrendelet 3. §-ának (2) bekezdése alapján az engedéllyel már rendelekező vállalkozások legkésőbb 2002. december 31-ig kötelesek eleget tenni a 68/2001. (IV. 20.) Korm. rendeletben előrt feltételeknek.
+[^16]: A 4. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
 [^17]: A „belföldi közúti árufuvarozás” kifejezést „közúti árufuvarozás” kifejezésre változtatta a 20/2004. (II. 13.) Korm. rendelet 10. § (2) bekezdésének b) pontja.
 [^18]: A „belföldi közúti árufuvarozói engedély” kifejezést „közúti árufuvarozói engedély” kifejezésre változtatta a 20/2004. (II. 13.) Korm. rendelet 10. § (2) bekezdésének a) pontja.
 [^19]: A 4. § (2)–(3) bekezdését a 277/2001. (XII. 22.) Korm. rendelet 12. § (1) bekezdésének a) pontja hatályon kívül helyezte.

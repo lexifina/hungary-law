@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-89-20-6
 | --- | --- | --- |
 | 2010-01-01 | 1988-89-20-65.35 | 89/1988. (XII. 20.) MT rendelet |
 | 2010-10-15 | 1988-89-20-65.36 | 244/2010. (X. 5.) Korm. rendelet |
+| 2011-01-01 | 1988-89-20-65.37 | 351/2010. (XII. 30.) Korm. rendelet |
