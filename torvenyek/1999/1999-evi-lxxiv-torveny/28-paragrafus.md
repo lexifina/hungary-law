@@ -12,7 +12,7 @@ d) külön jogszabályban meghatározottak szerint munkáltatói jogkört gyakor
 
 a) biztosítja a hivatásos katasztrófavédelmi szervezetek működési feltételeit, tervezi és felügyeli a katasztrófák elleni védekezéssel összefüggő jóváhagyott fejlesztéseket,
 
-b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, feladatkörét érintő jogszabályoknak és az állami irányítás egyéb jogi eszközeinek megalkotására,
+b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, feladatkörét érintő jogszabályoknak és a közjogi szervezetszabályozó eszközöknek megalkotására,
 
 c) közreműködik a nemzetközi szerződések szakmai előkészítésében, a hatáskörébe tartozó nemzetközi kapcsolattartásban,
 
