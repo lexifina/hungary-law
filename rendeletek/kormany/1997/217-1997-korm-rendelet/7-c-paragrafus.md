@@ -1,4 +1,4 @@
-7/C. §[^104] (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
+7/C. §[^105] (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
 
 a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
 
@@ -18,4 +18,4 @@ b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési
 
 (6) A Gyftv. 32. § (4) bekezdése szerinti eljárásokban az OEP kikéri a kérelem tárgya szerinti illetékes szakmai kollégium véleményét.
 
-[^104]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^105]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

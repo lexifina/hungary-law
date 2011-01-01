@@ -1,3 +1,3 @@
-31/C. §[^320]
+31/C. §[^333]
 
-[^320]: A Vhr. 31/C. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése.
+[^333]: A Vhr. 31/C. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése.

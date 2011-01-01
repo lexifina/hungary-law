@@ -44,15 +44,15 @@ f) a büntetés-végrehajtás orvosa,
 
 g) a sorozó orvos,
 
-h)[^30] az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: Szakértői Intézet) szakértői bizottságai orvosa,
+h)[^30] az orvosszakértői szerv szakértői bizottságai orvosa,
 
-i)[^31] a REP ellenőrző főorvosi hálózatának orvosa,
+i)[^31] az OEP ellenőrző főorvosi hálózatának orvosa,
 
 j)[^32] a személyes gondoskodást nyújtó bentlakásos szociális intézmény orvosa,
 
 k)[^33] az Ebtv. 10. §-a (1) bekezdésének e) alpontja alapján saját feladatkörében az országos sportegészségügyi hálózat orvosa,
 
-l)[^34] a vám- és pénzügyőrség orvosa
+l)[^34] a Nemzeti Adó- és Vámhivatal orvosa
 
 m)[^35]
 
@@ -78,11 +78,11 @@ m)[^35]
 [^27]: A Vhr. 29. § (2) bek. a) pontja a 232/1998 (XII. 30) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Hatályba lép 1999. január 1–jétől.
 [^28]: A Vhr. 2. §-a (2) bekezdésének d) pontját a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte, újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^29]: A Vhr. 2. § (2) bekezdés e) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 83. pontja szerint módosított szöveg.
-[^30]: A Vhr. 2. § (2) bekezdésének h) pontja a 319/2006. (XII. 23.) Korm. rendelet 21. § (5) bekezdésének a) pontja, a 213/2007. (VIII. 7.) Korm. rendelet 18. § h) pontjának ha) alpontja szerint módosított szöveg.
-[^31]: A Vhr. 2. §-a (2) bekezdésének i) pontja a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított, valamint a 360/2008. (XII. 31.) Korm. rendelet 16. § (4) bekezdésének c) pontja szerint módosított szöveg.
+[^30]: A Vhr. 2. § (2) bekezdésének h) pontja a 319/2006. (XII. 23.) Korm. rendelet 21. § (5) bekezdésének a) pontja, a 332/2010. (XII. 27.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^31]: A Vhr. 2. §-a (2) bekezdésének i) pontja a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
 [^32]: A Vhr. 2. § (2) bekezdés j) pontját a 232/1998. (XII. 30) Korm. rendelet 1. § (2) bekezdése iktatta a szövegbe.
 [^33]: A 2. § (2) bekezdésének k) pontját a 154/2001. (IX. 5.) Korm. rendelet 24. §-a iktatta a szövegbe.
-[^34]: A Vhr. 2. §-a (2) bekezdésének l) pontját a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése. Újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^34]: A Vhr. 2. §-a (2) bekezdésének l) pontját a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése. Újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg.
 [^35]: A Vhr. 2. § (2) bekezdésének m) pontját a 281/2004. (X. 20.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése 2007. január 1. napjával.
 [^36]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^37]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte.
