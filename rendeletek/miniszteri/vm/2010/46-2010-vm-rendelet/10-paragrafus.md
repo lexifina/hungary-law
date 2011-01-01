@@ -1,0 +1,3 @@
+## 9. § Az R1. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet módosításáról szóló 46/2010. (XII. 31.) VM rendelettel (a továbbiakban: 2. módosító rendelet) hatályon kívül helyezett 4. § (5) bekezdésének d) pontját a 2. módosító rendelet hatálybelépésekor folyamatban lévő ügyekben nem kell alkalmazni.”

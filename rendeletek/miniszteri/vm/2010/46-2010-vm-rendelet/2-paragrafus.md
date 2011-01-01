@@ -1,0 +1,1 @@
+## „c) Natura 2000 területen történő megvalósítás esetében rendelkezik a területileg illetékes természetvédelmi hatóságnak az agrár-erdészeti rendszer telepítésére vonatkozó támogató nyilatkozatával.”
