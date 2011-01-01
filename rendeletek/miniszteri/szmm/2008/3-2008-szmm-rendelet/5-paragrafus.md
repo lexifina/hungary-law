@@ -4,7 +4,7 @@
 
 a) elnökét és egy tagját a miniszter jelöli ki,
 
-b) egy tagját regionális módszertani intézmény esetén az illetékes szociális és gyámhivatal, egyházi módszertani intézmény esetén a Foglalkoztatási és Szociális Hivatal jelöli ki,
+b)[^2] egy tagját regionális módszertani intézmény esetén az illetékes szociális és gyámhivatal, egyházi módszertani intézmény esetén a Nemzeti Rehabilitációs és Szociális Hivatal jelöli ki,
 
 c) egy tagját az Intézet jelöli ki,
 
@@ -27,3 +27,5 @@ d) az a)–c) pont szerinti személy hozzátartozója.
 (6) A bizottsági ülésről készített jegyzőkönyvnek tartalmaznia kell a bizottság jelenlévő tagjainak nevét, a bizottsági vélemény meghozatalának napját, a pályázatokról, illetve a kijelölési kérelmekről kialakított bizottsági véleményt és annak indokolását, valamint az esetleges kisebbségi véleményt.
 
 (7) A bizottság a működési rendjét – az e rendeletben meghatározott keretek között – maga alakítja ki.
+
+[^2]: Az 5. § (2) bekezdés b) pontja a 25/2010. (XII. 30.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
