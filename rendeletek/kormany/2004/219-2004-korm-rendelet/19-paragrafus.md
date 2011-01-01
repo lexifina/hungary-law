@@ -8,7 +8,7 @@
 
 (3)[^110] A kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és – az e rendeletben szabályozott esetek kivételével – három hónapon belül le kell folytatni.
 
-(4)[^111] A felügyelőség a kivizsgálás keretében elrendelheti a 16. § (2) bekezdése szerinti bejelentés, adatszolgáltatás 22 munkanapon belül történő benyújtását, amennyiben a hatóság tudomására jutott adatok a tevékenység folytatójával kapcsolatosak, annak azonosítását lehetővé teszik és a tevékenység folytatójának adatszolgáltatási kötelezettségére előírt határidő még nem járt le, vagy a tevékenység folytatója nem tartozik a bejelentésre kötelezettek közé.
+(4)[^111] A felügyelőség a kivizsgálás keretében elrendelheti a 16. § (2) bekezdése szerinti bejelentés, adatszolgáltatás harminc napon belül történő benyújtását, amennyiben a hatóság tudomására jutott adatok a tevékenység folytatójával kapcsolatosak, annak azonosítását lehetővé teszik és a tevékenység folytatójának adatszolgáltatási kötelezettségére előírt határidő még nem járt le, vagy a tevékenység folytatója nem tartozik a bejelentésre kötelezettek közé.
 
 (5)[^112] A kivizsgálás során tartott helyszíni szemléről készült jegyzőkönyvnek tartalmaznia kell a 6. számú mellékletben foglaltakat.
 
@@ -48,16 +48,16 @@ d)[^117] a szükséges felügyelőségi intézkedés, eljárás megindításár�
 
 (14)[^122] A felügyelőség a felszín alatti víz, illetve a földtani közeg veszélyeztetése, szennyezése, károsodása kivizsgálását követően a kötelezettséget megállapító határozatának
 
-a) meghozatala előtt a Kulturális Örökségvédelmi Hivatal megkeresésével tisztázza az érintett terület régészeti jelentőségét, illetőleg műemléki védelmét;
+a)[^123] meghozatala előtt a kulturális örökségvédelmi hatóság megkeresésével tisztázza az érintett terület régészeti jelentőségét, illetőleg műemléki védelmét;
 
-b)[^123]
+b)[^124]
 
-(15)[^124] A felügyelőség a (1) bekezdés szerinti határozatát közli a közegészségügyi hatósággal, az eljárásban résztvevő más érdekelt hatósággal, önkormányzattal, továbbá a terület tulajdonosával is.
+(15)[^125] A felügyelőség a (1) bekezdés szerinti határozatát közli a közegészségügyi hatósággal, az eljárásban résztvevő más érdekelt hatósággal, önkormányzattal, továbbá a terület tulajdonosával is.
 
 [^108]: A 19. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
 [^109]: A vízminőségi kárelhárításról szóló 132/1997. (VII. 24.) Korm. rendelet.
 [^110]: A 19. § (3) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^111]: A 19. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^111]: A 19. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (55) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^112]: A 19. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^113]: A 19. § (6) bekezdésének ba) pontja a 110/2005. (VI. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^114]: A 19. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -69,5 +69,6 @@ b)[^123]
 [^120]: A 19. § eredeti (11) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (12) bekezdésre változtatta.
 [^121]: A 19. § eredeti (12) bekezdésének számozását (13) bekezdésre változtatta és szövegét módosította a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése, illetve 9. § (2) bekezdése.
 [^122]: A 19. § eredeti (13) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 2. § (4) bekezdése (14) bekezdésre változtatta.
-[^123]: A 19. § (14) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^124]: A 19. § (15) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 357. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^123]: A 19. § (14) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 123. §-a szerint módosított szöveg.
+[^124]: A 19. § (14) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^125]: A 19. § (15) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 357. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
