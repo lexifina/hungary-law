@@ -1,0 +1,1 @@
+## „a) a vizsgaszabályzatban meghatározott esetben az érettségi vizsga vizsgabizottságának döntése, intézkedése vagy intézkedésének elmulasztása ellen benyújtott törvényességi kérelem tárgyában a Kt. 84. § (5) bekezdésében meghatározott eljárás keretében;”
