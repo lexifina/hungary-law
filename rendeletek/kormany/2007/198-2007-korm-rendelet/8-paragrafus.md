@@ -4,7 +4,7 @@
 
 (2) Amennyiben azt bármely közösségi légifuvarozó kéri, a légiközlekedési hatóság legkorábban a felhatalmazás kiadását követő tíz egymást követő menetrendi időszak elteltével a felhatalmazást felülvizsgálja, a 6. § (4) bekezdés szerinti szempontok alapján.
 
-(3)[^9] A felülvizsgálatra irányuló kérelem beérkezésétől számított 5 munkanapon belül a légiközlekedési hatóság a felülvizsgálatról szóló tájékoztatást tesz közzé honlapján. Más közösségi légifuvarozó a közzétételtől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen korlátozott légiközlekedési jog igénybevétele iránt. Ezt követően a felülvizsgálatra a 4–6. §-ban foglalt előírásokat kell megfelelően alkalmazni.
+(3)[^9] A felülvizsgálatra irányuló kérelem beérkezését követő naptól számított hét napon belül a légiközlekedési hatóság a felülvizsgálatról szóló tájékoztatást tesz közzé honlapján. Más közösségi légifuvarozó a közzétételtől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen korlátozott légiközlekedési jog igénybevétele iránt. Ezt követően a felülvizsgálatra a 4–6. §-ban foglalt előírásokat kell megfelelően alkalmazni.
 
 (4) A légiközlekedési hatóság a felhatalmazást a hiányok pótlásáig azonnali hatállyal felfüggeszti, amennyiben a felhatalmazás jogosultja:
 
@@ -30,4 +30,4 @@ e) a harmadik ország nem fogadja el a közösségi légifuvarozó kijelölésé
 
 (7) A felhatalmazás visszavonásáról és az adott légiközlekedési jog kihasználatlanná válásának kezdő időpontjáról a légiközlekedési hatóság honlapján tájékoztatást tesz közzé.
 
-[^9]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 556–557. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 557. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
