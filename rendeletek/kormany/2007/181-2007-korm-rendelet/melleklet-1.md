@@ -1,4 +1,4 @@
-1. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^12]
+1. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^13]
 
 ## Formanyomtatvány az akkreditációs eljárás lefolytatásához
 
@@ -10,7 +10,7 @@ a ............................................................
 
 kutatószervezet
 
-a nála (székhelyén) megvalósítandó kutatási programok megvalósítása érdekében harmadik országbeli állampolgár kutatók fogadása céljából a Nemzeti Kutatási és Technológiai Hivatalnál akkreditációs eljárás lefolytatását kezdeményezi.
+a nála (székhelyén) megvalósítandó kutatási programok megvalósítása érdekében harmadik országbeli állampolgár kutatók fogadása céljából a Nemzeti Innovációs Hivatalnál akkreditációs eljárás lefolytatását kezdeményezi.
 
 1. Az akkreditációs eljárás típusa*
 
@@ -68,7 +68,7 @@ Vezető elérhetősége:
 
 – E-mail:
 
-4. A kutatószervezetnek a Nemzeti Kutatási és Technológiai Hivatallal való kapcsolattartásért felelős kapcsolattartója
+4. A kutatószervezetnek a Nemzeti Innovációs Hivatallal való kapcsolattartásért felelős kapcsolattartója
 
 Kapcsolattartó neve:
 
@@ -120,4 +120,4 @@ Bélyegző:
 
 7. Melléklet: a rendelet 5. §-ának (2) bekezdésében meghatározottak szerint
 
-[^12]: Az 1. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^13]: Az 1. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 47. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés b) pontja szerint módosított szöveg.

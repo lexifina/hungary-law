@@ -1,10 +1,12 @@
-2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^13]
+2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^14]
 
 AKKREDITÁCIÓS TANÚSÍTVÁNY
 
+| Nemzeti Innovációs Hivatal |
+
 MAGYAR KÖZTÁRSASÁG
 
-NEMZETI KUTATÁSI ÉS TECHNOLÓGIAI HIVATAL
+NEMZETI INNOVÁCIÓS HIVATAL
 
 Ikt.szám:
 
@@ -16,7 +18,7 @@ AKKREDITÁCIÓS TANÚSÍTVÁNY
 
 A harmadik országbeli állampolgár kutatókat fogadó kutatószervezetek akkreditációjáról, valamint a fogadási megállapodásról szóló 181/2007. (VII. 6.) Korm. rendeletben (a továbbiakban: rendelet) foglaltakra tekintettel
 
-A NEMZETI KUTATÁSI ÉS TECHNOLÓGIAI HIVATAL
+A NEMZETI INNOVÁCIÓS HIVATAL
 
 (a továbbiakban: Hivatal)
 
@@ -50,10 +52,10 @@ Budapest, 200.., ............................................., .............
 
 ..................................................................................
 
-a Nemzeti Kutatási és Technológiai Hivatal
+a Nemzeti Innovációs Hivatal
 
 elnöke
 
 * A szögletes zárójelben található szövegrészt csak a kérelemre induló eljárás során kiállított akkreditációs tanúsítványnak kell tartalmaznia.
 
-[^13]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.

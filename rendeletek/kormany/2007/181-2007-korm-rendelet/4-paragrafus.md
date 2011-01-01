@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^2]
 
 ## Értelmező rendelkezések
 
@@ -18,4 +18,4 @@
 
 7. akkreditált kutatószervezet: az a kutatószervezet, amely érvényes akkreditációs tanúsítvánnyal rendelkezik.
 
-[^1]: A 3. §-t a 182/2009. (IX. 10.) Korm. rendelet 552. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 3. §-t a 182/2009. (IX. 10.) Korm. rendelet 552. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
