@@ -1,8 +1,8 @@
-## 3. §[^14] Ez a rendelet a kihirdetését követő napon lép hatályba és 2016. május 31-én hatályát veszti.
+## 3. §[^15] Ez a rendelet a kihirdetését követő napon lép hatályba és 2016. május 31-én hatályát veszti.
 
-4. §[^15] E rendeletnek a nemzeti hatáskörben nyújtott egyes erdészeti támogatásokról szóló miniszteri rendeletek módosításáról szóló 40/2010. (XII. 17.) VM rendelettel (a továbbiakban: 1. módosító rendelet) módosított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+4. §[^16] E rendeletnek a nemzeti hatáskörben nyújtott egyes erdészeti támogatásokról szóló miniszteri rendeletek módosításáról szóló 40/2010. (XII. 17.) VM rendelettel (a továbbiakban: 1. módosító rendelet) módosított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-Melléklet a 122/2007. (X. 19.) FVM rendelethez[^16]
+Melléklet a 122/2007. (X. 19.) FVM rendelethez[^17]
 
 Támogatási kérelem
 
@@ -102,6 +102,6 @@ Kelt: , év hó nap
 
 erdőgazdálkodó (szerv. vezető)
 
-[^14]: A 3. § a 103/2008. (VIII. 8.) FVM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^15]: A 4. §-t a 40/2010. (XII. 17.) VM rendelet 14. § (2) bekezdése iktatta be.
-[^16]: A mellékletet a 103/2008. (VIII. 8.) FVM rendelet 3. §-a iktatta be.
+[^15]: A 3. § a 103/2008. (VIII. 8.) FVM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 4. §-t a 40/2010. (XII. 17.) VM rendelet 14. § (2) bekezdése iktatta be.
+[^17]: A mellékletet a 103/2008. (VIII. 8.) FVM rendelet 3. §-a iktatta be.
