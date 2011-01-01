@@ -1,4 +1,4 @@
-## A nyári korlátozási időszak alatt a 7,5 tonna legnagyobb megengedett össztömeget meghaladó tehergépkocsival (július 1-jétől augusztus 31-éig) nem vehetők igénybe a következő útvonalak:
+## A 7,5 tonna legnagyobb megengedett össztömeget meghaladó tehergépkocsival nem vehetők igénybe a következő útvonalak:
 
 ## a) M7 autópálya teljes hosszában,
 
@@ -38,7 +38,7 @@
 
 ## s) 38. sz. főút 37. sz. főúttal alkotott csomópontja és Rakamaz között.
 
-4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez
+4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^8]
 
 .................... sorszám
 
@@ -52,7 +52,7 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli mentességről
 
-1. A mentesség igénybevételére a rendelet 5. § e), g), j), o), q) pontjában* meghatározott szállítás alapján kerül sor.
+1. A mentesség igénybevételére a rendelet 5. § (2) bekezdés 2., 3., 5., 8., 10. pontjában* meghatározott szállítás alapján kerül sor.
 
 2. A tehergépkocsi üzemben tartójának neve és címe:
 
@@ -79,3 +79,5 @@ ___________
 1. A nyilatkozat másra át nem ruházható.
 
 2. A nyilatkozatot a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóság részére felmutatni.
+
+[^8]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

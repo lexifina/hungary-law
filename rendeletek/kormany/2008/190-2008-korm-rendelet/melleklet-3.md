@@ -4,7 +4,7 @@
 
 ## 3. A tevékenység vagy a szállított áru megnevezése:
 
-## 4. Az engedély érvényességének időtartama:
+## 4. Az engedély időbeli hatálya:
 
 ## 5. Egyéb feltételek:
 
@@ -18,4 +18,6 @@
 
 ## 2. Az eredeti engedélyt a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóságok részére felmutatni.
 
-3. melléklet a 190/2008. (VII. 29.) Korm. rendelethez
+3. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^7]
+
+[^7]: A 3. melléklet a 280/2010. (XII. 15.) Korm. rendelet 5. §-a szerint módosított szöveg.

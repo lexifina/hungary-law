@@ -1,24 +1,26 @@
 ## A közlekedési korlátozás alóli felmentési kérelem tartalma:
 
-## a)[^3]
+## a) a szállítani kívánt áru megnevezése, tömege, mérete, csomagolásának jellege,
 
-## b) a szállítani kívánt áru megnevezése,
+## b) a kérelem részletes indokolása, ideértve annak indokolását is, hogy a szállítás miért nem végezhető 7,5 tonna megengedett legnagyobb össztömeg alatti tehergépkocsival,
 
-## c) a kérelem részletes indokolása,
+## c) a szállításhoz szükséges tehergépkocsik számának indokolása,
 
-## d) a szállításhoz szükséges tehergépkocsik számának indokolása,
+## d) a szállítás tervezett időpontja (csak eseti felmentés esetében),
 
-## e) a szállítás tervezett időpontja (csak eseti felmentés esetében),
+## e) a szállítás tervezett útvonala,
 
-## f) a szállítás tervezett útvonala,
+## f) a szállító tehergépkocsik üzemben tartójának neve, címe,
 
-## g) a szállító tehergépkocsik üzemben tartójának neve, címe,
+## g) a szállító tehergépkocsik gyártmánya, típusa, felépítmény kialakítása, forgalmi rendszáma,
 
-## h) a szállító tehergépkocsik gyártmánya, típusa, felépítmény kialakítása, forgalmi rendszáma,
+## h) a kérelmező aláírása, bélyegzője,
 
-## i) a kérelmező aláírása, bélyegzője.
+## i) a kért felmentés időbeli hatálya, és
 
-2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez
+## j) nyilatkozat arról, hogy a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalakat nem veszik igénybe.
+
+2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^6]
 
 .................... sorszám
 
@@ -32,4 +34,4 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli felmentésre
 
-[^3]: Az 1. melléklet a) pontját a 182/2009. (IX. 10.) Korm. rendelet 631. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
