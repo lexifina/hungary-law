@@ -1,8 +1,8 @@
 6. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^1]
+(2)[^5]
 
-(3)[^2]
+(3)[^6]
 
 Melléklet a 32/2009. (XII. 29.) NFGM rendelethez
 
@@ -94,5 +94,5 @@ s) Zala Megyei Mérnöki Kamara: 12092309-00223530-00100008
 
 III. Az építőipari kivitelezési tevékenység bejelentése igazgatási szolgáltatási díját a Magyar Kereskedelmi és Iparkamara 10300002-20373432-71933285 számú számlájára kell befizetni.
 
-[^1]: a 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^2]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^5]: a 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^6]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
