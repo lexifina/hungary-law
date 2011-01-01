@@ -1,32 +1,34 @@
-## 1. § A Kormány – a hosszú és középtávú fejlesztési és tervezési feladatok ellátására, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervek, operatív programok elkészítésére, e támogatások felhasználásához szükséges intézményrendszer kialakítására – létrehozza a Nemzeti Fejlesztési Ügynökséget (a továbbiakban: Ügynökség).
+## 1. §[^1] A Kormány – a hosszú és középtávú fejlesztési és tervezési feladatok ellátására, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervek, operatív programok elkészítésére, e támogatások felhasználásához szükséges intézményrendszer kialakítására, működtetésére – létrehozza a Nemzeti Fejlesztési Ügynökséget (a továbbiakban: Ügynökség).
 
-## 2. § Az Ügynökség:
+## 2. §[^2] Az Ügynökség
 
-a)[^1]
+a) elkészíti az ország átfogó fejlesztési tervét és a nemzeti fejlesztési terveket,
 
-b) elkészíti az ország átfogó fejlesztési tervét és a nemzeti fejlesztési terveket;
+b) segíti az országos szintű fejlesztéssel, fejlesztési tervezéssel és programozással kapcsolatos kormányzati feladatok összehangolását,
 
-c) segíti az országos szintű fejlesztéssel, fejlesztési tervezéssel és programozással kapcsolatos kormányzati feladatok összehangolását;
+c) szervezetén belül – az Agrár- és Vidékfejlesztési Operatív Program (a továbbiakban: AVOP), az Új Magyarország Vidékfejlesztési Program és a Halászati Operatív Program kivételével – létrehozza az operatív programok irányító hatóságát, szervezi az operatív programok végrehajtását és azok monitoring rendszerét, koordinálja a feladathoz kapcsolódó uniós és társfinanszírozási költségvetési források felhasználását,
 
-d) szervezetén belül – az Agrár- és Vidékfejlesztési Operatív Program (a továbbiakban: AVOP) kivételével – létrehozza az operatív programok irányító hatóságát, szervezi az operatív programok végrehajtását és azok monitoring rendszerét, koordinálja a feladathoz kapcsolódó uniós és hazai költségvetési források felhasználását;
+d) ellátja a Közösségi Támogatási Keret, az EQUAL közösségi kezdeményezés programok és a Kohéziós Alap irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről,
 
-e) ellátja a Közösségi Támogatási Keret, az EQUAL és az INTERREG közösségi kezdeményezés programok és a Kohéziós Alap irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről;
+e) tárgyalásokat folytat az Európai Unió intézményeivel a fejlesztési stratégia és az annak megvalósítására szolgáló operatív programok egyeztetése érdekében,
 
-f) tárgyalásokat folytat az Európai Unió intézményeivel a fejlesztési stratégia és az annak megvalósítására szolgáló operatív programok egyeztetése érdekében;
+f) szervezi az Európai Unió strukturális és kohéziós politikájával kapcsolatos hazai feladatokat,
 
-g) szervezi az Európai Unió strukturális és kohéziós politikájával kapcsolatos hazai feladatokat;
+g) a Kormány által meghatározott körben ellátja az Európai Unió pénzügyi támogatásainak felhasználásához szükséges feladatokat, és koordinálja az uniós pénzügyi támogatások felhasználásával kapcsolatban az intézményrendszer működését,
 
-h) a Kormány által meghatározott körben ellátja az Európai Unió pénzügyi támogatásainak felhasználásához szükséges feladatokat, és koordinálja a pénzügyi támogatások felhasználásával kapcsolatban kialakított intézményrendszer működését;
+h) ellátja a PHARE és az Átmeneti Támogatás programokkal, valamint a Schengen Alappal kapcsolatos szervezési és koordinációs feladatokat,
 
-i)[^2] ellátja a PHARE programokkal kapcsolatos szervezési és koordinációs feladatokat, e tevékenységében a Segélykoordinációs Bizottság támogatja, ellátja továbbá a Schengen Alappal kapcsolatos szervezési és koordinációs feladatokat;
+i) ellátja a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos előkészítési, szervezési és koordinációs feladatokat,
 
-j) ellátja az Átmeneti Támogatási Alappal, a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos előkészítési, szervezési és koordinációs feladatokat, illetve az ikerintézményi (twinning) programmal kapcsolatos nemzeti koordinációt;
+j) ellátja az ikerintézményi (twinning) programmal kapcsolatos nemzeti koordinációt,
 
-k)[^3] ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatóságának feladatait, gondoskodik a monitoring bizottságok működéséről;
+k) ellátja a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programok irányító hatósági és tagállami feladatait, gondoskodik a monitoring bizottságok működéséről,
 
-l)[^4] ellátja a Svájci–Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait.
+l) ellátja a Svájci-Magyar Együttműködési Program tekintetében a Nemzeti Koordinációs Egység feladatait,
 
-[^1]: A 2. § a) pontját a 104/2008. (IV. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
-[^2]: A 2. § i) pontja a 164/2010. (V. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^3]: A 2. § k) pontját a 163/2009. (VIII. 6.) Korm. rendelet 35. § (1) bekezdése iktatta be.
-[^4]: A 2. § l) pontját a 164/2010. (V. 11.) Korm. rendelet 8. §-a iktatta be.
+m) ellátja az INTERREG közösségi kezdeményezés programok irányító hatóságának és nemzeti hatóságának feladatait, gondoskodik azok utánkövetéséről,
+
+n) ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 85. § b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit.
+
+[^1]: Az 1. § a 370/2010. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^2]: A 2. § a 370/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
