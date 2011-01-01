@@ -2,7 +2,7 @@
 
 5. § (1) Az e rendelet 2–3. §-aiban szabályozott támogatás az Flt. 58. § (5) bekezdésének k) pontjában meghatározott életkor betöltését követően akkor folyósítható, ha a támogatás megállapítására már az életkor betöltését megelőzően sor kerül.
 
-(2)[^2] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni az Flt. 21. §-ában, 54. §-ában és 55. §-ában, a regionális munkaügyi központok illetékességéről szóló 13/2007. (III. 28.) SZMM rendelet illetékességi szabályainak, valamint a (3)–(7) bekezdésben foglaltak figyelembevételével.
+(2)[^3] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni az Flt. 21. §-ában, 54. §-ában és 55. §-ában, a regionális munkaügyi központok illetékességéről szóló 13/2007. (III. 28.) SZMM rendelet illetékességi szabályainak, valamint a (3)–(7) bekezdésben foglaltak figyelembevételével.
 
 (3) Az e rendeletben meghatározott támogatások akkor nyújthatók, ha a munkaadó megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló 1992. évi XXXVIII. törvény 15. § (7) bekezdésében meghatározott – feltételeinek, illetve e feltételek fennállása a külön jogszabályban meghatározott módon igazolásra kerül.
 
@@ -14,4 +14,4 @@
 
 (7) Az e rendeletben meghatározott támogatást a támogatásban részesülő akkor is köteles visszafizetni, ha az részére – jogszabályban meghatározott feltételek hiányában – nem lett volna megállapítható.
 
-[^2]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 678. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 678. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

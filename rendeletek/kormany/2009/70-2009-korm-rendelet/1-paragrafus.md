@@ -12,7 +12,7 @@ bc) a munkahely és a lakóhely között naponta – tömegközlekedési eszköz
 
 c) munkaviszony:
 
-ca) a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati jogviszonya,
+ca)[^1] a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses állományú tagjának szolgálati jogviszonya,
 
 cb) a 4. § tekintetében a magyar jog hatálya alá tartozó munkaviszony;
 
@@ -31,3 +31,5 @@ g) személyi alapbér: az Mt. 142. §-ában meghatározott adózás előtti (bru
 h) munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja], és rehabilitációs járadékban nem részesül;
 
 i) részmunkaidős foglalkoztatás: az Mt. 82. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
+
+[^1]: Az 1. § c) pont ca) alpontja a 273/2010. (XII. 9.) Korm. rendelet 127. §-a, a 351/2010. (XII. 30.) Korm. rendelet 236. §-a szerint módosított szöveg.
