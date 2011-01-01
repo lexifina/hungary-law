@@ -1,8 +1,8 @@
-6. §[^20] (1) A Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI) önállóan működő közintézet, alaptevékenysége alapján kutatóintézet.
+6. §[^21] (1) A Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
 
-(2) Az ELGI-nek a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény (a továbbiakban: Kt.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
+(2) Az ELGI-nek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
 
-(3) A Kt. 8. § (2) bekezdés b)–c) és f)–h) pontjában meghatározott irányítási jogokat az ELGI tekintetében a Hivatal elnöke gyakorolja.
+(3) Az Áht. 93. § (1) bekezdés b)–c) és f)-h) pontjában meghatározott irányítási jogokat az ELGI tekintetében a Hivatal elnöke gyakorolja.
 
 (4) Az állami földtani feladatok, valamint a Hivatal jogszabályokban megállapított földtani feladatai ellátásában az ELGI közreműködik. Az ELGI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással összefüggő feladatokat.
 
@@ -24,12 +24,45 @@ g) közhasznú információszolgáltatás;
 
 h) az Európai Unió közösségi jogából és más nemzetközi együttműködésből következő, a földi erőterekkel, a földtani közeggel kapcsolatos jogszabályok átvételéhez, ezek végrehajtásához kapcsolódó kutatási feladatok végzése, azokban történő közreműködés;
 
-i) szakmúzeum, szakkönyvtár, obszervatóriumok, mérőhálózatok, laboratóriumok fenntartása;
+i) muzeális intézmény, szakkönyvtár, obszervatóriumok, mérőhálózatok, laboratóriumok fenntartása;
 
 j) kapcsolattartás a hazai és nemzetközi szervezetekkel.
 
-(6) Az ELGI élén igazgató áll. Az ELGI dolgozói közalkalmazottak.
+(6) Az ELGI élén igazgató áll.
 
 (7) Az ELGI éves kutatási munkaprogramját – az ELGI javaslata alapján – a Hivatal elnöke az ELGI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
 
-[^20]: A 6. § az 59/2010. (III. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+6./A §[^22] (1) A Magyar Állami Földtani Intézet (a továbbiakban: MÁFI) önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
+
+(2) A MÁFI-nek az Áht. szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
+
+(3) Az Áht. 93. § (1) bekezdés b)–c) és f)-h) pontjában meghatározott irányítási jogokat a MÁFI tekintetében a Hivatal elnöke gyakorolja.
+
+(4) Az állami földtani feladatok, valamint a Hivatal jogszabályokban megállapított földtani feladatai ellátásában a MÁFI közreműködik. A MÁFI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással összefüggő feladatokat.
+
+(5) A MÁFI állami földtani kutatással összefüggő feladatai:
+
+a) az ország földtani felépítésének megismerésére és az ismeretesség növelésére irányuló földtani, valamint az ország földtani erőforrás-gazdálkodását megalapozó kutatások végzése;
+
+b) az ország földtani tér-adat infrastruktúrájának építése és fejlesztése;
+
+c) az ország rendszeres földtani és alkalmazott földtani térképezése, a térképek és azok szöveges magyarázatának készítése, közreadása;
+
+d) környezetföldtani, vízföldtani, mérnökgeológiai vizsgálatok végzése;
+
+e) az Európai Uniónak a földtani közegre, valamint a felszín alatti vizekre vonatkozó jogszabályai átvételéhez, végrehajtásához kapcsolódó kutatási feladatok ellátása, azokban történő közreműködés;
+
+f) földtani adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a Földtani és Bányászati Információs Rendszer kiépítésében, fejlesztésében és működtetésében;
+
+g) közhasznú információszolgáltatás;
+
+h) országos szakmúzeum vagy tematikus múzeum, szakkönyvtár, mélyfúrási magminta gyűjtemény, mérőhálózat, laboratóriumok fenntartása, üzemeltetése;
+
+i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és nemzetközi szakmai szervezetekkel.
+
+(6) A MÁFI élén igazgató áll.
+
+(7) A MÁFI éves kutatási munkaprogramját – a MÁFI javaslata alapján – a Hivatal elnöke a MÁFI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
+
+[^21]: A 6. § a 351/2010. (XII. 30.) Korm. rendelet 162. §-ával megállapított szöveg.
+[^22]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be.
