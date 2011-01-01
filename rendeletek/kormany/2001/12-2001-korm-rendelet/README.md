@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2010-05-29 | 2001-12-20-22.40 | 391/2007. (XII. 23.) Korm. rendelet |
 | 2010-06-11 | 2001-12-20-22.41 | 13/2009. (I. 28.) Korm. rendelet |
 | 2010-06-28 | 2001-12-20-22.42 | 51/2003. (IV. 9.) Korm. rendelet |
+| 2011-01-01 | 2001-12-20-22.43 | 332/2010. (XII. 27.) Korm. rendelet |

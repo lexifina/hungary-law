@@ -24,7 +24,7 @@ b) ahhoz, hogy az épületet, illetőleg lakását megfelelően használhassa, t
 
 a)[^66] a 164/1995. (XII. 27.) Korm. rendelet 2. § a), b), c) pontjában meghatározott támogatásokra vonatkozóan a súlyos mozgáskorlátozottságot megállapító, a lakhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzője, illetőleg a Kormány általános hatáskörű területi államigazgatási szerve által hozott jogerős határozat,
 
-b) a 141/2000. (VIII. 9.) Korm. rendelet 3. számú melléklet szerinti OOSZI szakértői vélemény, ha az igénylő e melléklet G) pont b) alpontja szerint súlyos mozgássérült,
+b)[^67] az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményét vagy szakhatósági állásfoglalását arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott,
 
 c) az a) és b) pont szerinti igazolások hiányában a lakóhely szerint illetékes rehabilitációs szakrendelés orvosának szakvéleménye arról, hogy a magánszemély a 164/1995. (XII. 27.) Korm. rendelet 1. számú mellékletében meghatározottak alapján súlyos mozgáskorlátozott.
 
@@ -35,3 +35,4 @@ c) az a) és b) pont szerinti igazolások hiányában a lakóhely szerint illet�
 [^64]: A 9. § eredeti (4) bekezdésének számozását az 51/2003. (IV. 9.) Korm. rendelet 2. §-a (5) bekezdésre változtatta. Az Alkotmánybíróság a 194/2010. (XII. 17.) AB határozat 1. pontjával megállapította, hogy a Kormány mulasztásban megnyilvánuló alkotmánysértést követett el azzal, hogy nem határozta meg a Mozgáskorlátozottak Egyesületeinek Országos Szövetségének a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 9. § (5) bekezdésén és 10. §-án alapuló eljárásának szabályait, és annak döntésével szemben nem teremtette meg az érintettek számára a jogorvoslat lehetőségét. Az Alkotmánybíróság felhívta a Kormányt, hogy jogalkotói feladatának 2011. március 31-ig tegyen eleget.
 [^65]: A 9. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be. E módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő támogatási kérelmekre, valamint kölcsönkérelmekre is alkalmazni kell. A 9. § eredeti (5) bekezdésének számozását az 51/2003. (IV. 9.) Korm. rendelet 2. §-a (6) bekezdésre változtatta.
 [^66]: A 9. § (6) bekezdés a) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 41. pontja szerint módosított szöveg.
+[^67]: A 9. § (6) bekezdés b) pontja a 332/2010. (XII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
