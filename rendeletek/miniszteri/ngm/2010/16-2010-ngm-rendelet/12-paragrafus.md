@@ -1,0 +1,5 @@
+12. § (1) Alkalmazásba vételi határozattal kerül a NAV alkalmazásába a már rendszeresített kényszerítő eszköz azon típusváltozata, amely paramétereiben – különösen méretére, tömegére, színére, űrtartalmára, anyagminőségére, illetve a kényszerítő hatás kiváltására vonatkozóan – kismértékű eltérést mutat a már rendszeresített kényszerítő eszköz típusához képest, és ezáltal alkalmazástaktikájában nincs változás.
+
+(2) Az alkalmazásba vételről a 4. melléklet szerinti alkalmazásba vételi határozattal az elnök dönt. Az alkalmazásba vételi határozatot – annak meghozatalát követően – haladéktalanul meg kell küldeni a miniszternek.
+
+(3) Az alkalmazásba vételi határozat meghozatalát követő 5 naptári napon belül az elnök gondoskodik az alkalmazásba vétel tényének a NAV honlapján való közzétételéről. A közzétételnek tartalmaznia kell az alkalmazásba vételi határozat számát, a rendszeresített kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.

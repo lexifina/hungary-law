@@ -1,0 +1,3 @@
+13. § (1) A rendszeresítés folyamán biztosítani kell a kényszerítő eszközzel szemben előírt alkalmazhatósági követelmények teljesítését biztosító szervezeti, kiképzési, műszaki, munka-, egészségügyi-, tűz-, környezetvédelmi, üzemeltetési és állagmegóvási feltételeket a rendszerben tartás teljes időtartamára.
+
+(2) A rendszeresítés során figyelembe kell venni minden olyan objektív információt (hiteles vizsgálati eredményeket, minősítéseket, dokumentumokat, más EGT-állam dokumentált tapasztalatait, referenciáit, a társszervek által elvégzett vizsgálati, illetve az alkalmazás során szerzett tapasztalati megállapításait), amellyel az alkalmazhatóság megítélési folyamata gazdaságosabbá tehető.
