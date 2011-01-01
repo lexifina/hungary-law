@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-84-20-2
 | --- | --- | --- |
 | 2008-05-01 | 1994-84-20-22.7 | 84/1994. (V. 27.) Korm. rendelet |
 | 2010-05-29 | 1994-84-20-22.8 | 171/2010. (V. 13.) Korm. rendelet |
+| 2011-01-01 | 1994-84-20-22.9 | 336/2015. (XI. 10.) Korm. rendelet |
