@@ -4,4 +4,4 @@
 
 (3) A Megállapodás, illetve a törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről az energiaügyekért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről az energiapolitikáért felelős miniszter gondoskodik.
