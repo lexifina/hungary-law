@@ -2,15 +2,15 @@
 
 ## 2. § E rendelet alkalmazásában
 
-a)[^1] iskolavezető: a képző szerv szakmai irányításáért felelős személy,
+a)[^2] iskolavezető: a képző szerv szakmai irányításáért felelős személy,
 
 b) képzés: a közúti járművezetők és a közúti közlekedési szakemberek tanfolyamon történő oktatása,
 
-c)[^2]
+c)[^3]
 
 d) közúti járművezető: a gépjármű, a mezőgazdasági vontató, a segédmotoros kerékpár, lassú jármű és a kerti traktor vezetője, továbbá az állati erővel vont jármű hajtója,
 
-e)[^3] közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, továbbá
+e)[^4] közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, továbbá
 
 ea) a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott
 
@@ -32,7 +32,7 @@ ee) a közúti közlekedési ágazatban használt önjáró emelő- és rakodóg
 
 ef) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló külön jogszabályban meghatározott, szakkísérői képesítéssel rendelkező személy,
 
-eg)[^4] a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógázbiztonsági képesítéshez kötött tevékenységet folytató személy,
+eg)[^5] a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógázbiztonsági képesítéshez kötött tevékenységet folytató személy,
 
 eh) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete 2009. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló külön jogszabályban meghatározott
 
@@ -44,26 +44,26 @@ ei) a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval va
 
 ej) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető,
 
-f)[^5] szakoktató: a közúti járművezetők képzésében oktatóként részt vevő személy,
+f)[^6] szakoktató: a közúti járművezetők képzésében oktatóként részt vevő személy,
 
-g)[^6] szaktanfolyam: a közúti közlekedési szakemberek tanfolyami képzése és továbbképzése,
+g)[^7] szaktanfolyam: a közúti közlekedési szakemberek tanfolyami képzése és továbbképzése,
 
 h) tansegédlet: a tanfolyami oktatáshoz alkalmazott tankönyv, szemléltető eszköz,
 
-i)[^7]
+i)[^8]
 
-j) vezetői engedély: a külön jogszabályban[^8] meghatározott közúti jármű – ide nem értve a villamost – vezetésére jogosító okmány,
+j) vezetői engedély: a külön jogszabályban[^9] meghatározott közúti jármű – ide nem értve a villamost – vezetésére jogosító okmány,
 
 k) tanfolyam: a járművezetés elméleti és gyakorlati ismereteinek oktatása,
 
-l)[^9] vizsgabiztos: a közúti járművezetők, illetve a közúti közlekedési szakemberek vizsgáztatásában közreműködő személy.
+l)[^10] vizsgabiztos: a közúti járművezetők, illetve a közúti közlekedési szakemberek vizsgáztatásában közreműködő személy.
 
-[^1]: A 2. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 2. § c) pontját a 182/2009. (IX. 10.) Korm. rendelet 407. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § e) pontja a 244/2009. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^4]: A 2. § e) pont eg) alpontja a 179/2010. (V. 13.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^5]: A 2. § f) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 2. § g) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 2. § i) pontját a 182/2009. (IX. 10.) Korm. rendelet 407. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 3–4. §-a.
-[^9]: A 2. § l) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § c) pontját a 182/2009. (IX. 10.) Korm. rendelet 407. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 2. § e) pontja a 244/2009. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^5]: A 2. § e) pont eg) alpontja a 179/2010. (V. 13.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^6]: A 2. § f) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 2. § g) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 2. § i) pontját a 182/2009. (IX. 10.) Korm. rendelet 407. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 3–4. §-a.
+[^10]: A 2. § l) pontja a 182/2009. (IX. 10.) Korm. rendelet 405. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
