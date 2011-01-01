@@ -1,4 +1,4 @@
-## 12. §[^40] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és az ÁNTSZ mellett az MgSzH területi szerve jogosult. Az MgSzH Központ az MgSzH területi szervei által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére történő adatszolgáltatásról.
+## 12. §[^40] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és a megyei népegészségügyi szakigazgatási szerv mellett az MgSzH területi szerve jogosult. Az MgSzH Központ az MgSzH területi szervei által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére történő adatszolgáltatásról.
 
 ## Ipari mákkal és magas THC tartalmú kenderrel végezhető egyéb tevékenységek
 
@@ -34,7 +34,7 @@ b) a kábítószer előállítására felhasználható növényekkel kapcsolatos
 
 (10) Az (1) bekezdés szerinti nemesítési és fajtafenntartási tevékenység fajtakísérletek, gyűjteményfenntartás, újraszaporítás, valamint a nemzetközi megrendelésekhez való adatszolgáltatás céljából csak ellenőrzött körülmények között végezhető.
 
-[^40]: A 12. § a 62/2010. (III. 18.) Korm. rendelet 10. §-ával megállapított, a 16. § k) pontja szerint módosított szöveg.
+[^40]: A 12. § a 62/2010. (III. 18.) Korm. rendelet 10. §-ával megállapított, a 16. § k) pontja, a 351/2010. (XII. 30.) Korm. rendelet 110. §-a szerint módosított szöveg.
 [^41]: A 13. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^42]: A 13. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^43]: A 13. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
