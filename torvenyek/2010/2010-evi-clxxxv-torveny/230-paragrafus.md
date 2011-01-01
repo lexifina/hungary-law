@@ -21,11 +21,3 @@ a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27
 b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
 
 c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
