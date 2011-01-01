@@ -1,0 +1,9 @@
+# 369/2010. (XII. 31.) Korm. rendelet
+
+a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-369-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-01-01 | 2010-369-20-22.1 | 369/2010. (XII. 31.) Korm. rendelet |
