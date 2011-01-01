@@ -4,9 +4,9 @@
 
 a) a magánlakásban történteket technikai eszközzel megfigyelheti és rögzítheti,
 
-b) levelet, egyéb postai küldeményt, valamint telefonvezetéken vagy más hírközlési rendszer útján továbbított közlés tartalmát megismerheti, és azt technikai eszközzel rögzítheti,
+b) postai küldeményt, beazonosítható személyhez kötött zárt küldeményt felbonthat, ellenőrizhet, és azok tartalmát technikai eszközzel rögzítheti, valamint elektronikus hírközlési szolgáltatás útján továbbított kommunikáció tartalmát megismerheti, az észlelteket technikai eszközzel rögzítheti,
 
-c) a számítástechnikai rendszer útján továbbított és tárolt adatokat megismerheti és felhasználhatja (a továbbiakban: titkos adatszerzés).
+c) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon tárolt adatokat megismerheti, rögzítheti és felhasználhatja (a továbbiakban titkos adatszerzés).
 
 (2) Az ügyész és a nyomozó hatóság a nyomozás elrendelését követően a bírói engedélyhez kötött titkos adatszerzést e törvény alapján végzi.
 

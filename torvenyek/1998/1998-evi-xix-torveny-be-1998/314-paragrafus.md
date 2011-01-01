@@ -7,3 +7,5 @@
 (3) Perbeszéd közben a szót nem lehet megvonni.
 
 (4) A perbeszéd nem szakítható félbe, kivéve, ha bűncselekményt megvalósító kifejezést foglal magában, rendzavarást kelt, továbbá ha az eljárás elhúzásának megakadályozása érdekében ez szükséges.
+
+(5) Ha a védő nincs jelen a tárgyaláson, a védőbeszédet a vádlott adhatja elő.

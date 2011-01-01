@@ -4,7 +4,7 @@
 
 a) aki az ügyben mint terhelt, védő, továbbá mint sértett, feljelentő vagy mint ezek képviselője vesz, vagy vett részt, valamint ezek hozzátartozója,
 
-b) aki az ügyben mint bíró, ügyész vagy nyomozó hatóság tagja járt vagy jár el, ezek hozzátartozója, valamint az ügyben eljárt vagy eljáró bírósággal, ügyészséggel, nyomozó hatósággal alkalmazotti vagy szolgálati viszonyban lévő személy.
+b) aki az ügyben mint bíró, ügyész vagy nyomozó hatóság tagja járt vagy jár el, valamint ezek hozzátartozója,
 
 c) aki az ügyben tanúként vesz, vagy vett részt,
 

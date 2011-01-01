@@ -4,4 +4,4 @@
 
 (2) A bíróság elrendelheti, hogy a tárgyalásnak azt a részét, amely a fiatalkorú helyes irányú fejlődését károsan befolyásolhatja, a fiatalkorú távollétében tartsák meg. Az így lefolytatott tárgyalás lényegét a tanács elnöke a fiatalkorúval – legkésőbb a tárgyalás berekesztése előtt – ismerteti.
 
-(3) A tárgyaláson az ügyész részvétele kötelező.
+(3) A tárgyaláson az ügyész részvétele kötelező. A fiatalkorúak elleni büntetőeljárásban ügyészségi fogalmazó és ügyészségi titkár a vádat nem képviselheti.

@@ -1,10 +1,10 @@
-## Próbaidőre felfüggesztett büntetés végrehajtásának utólagos elrendelése és utólagos rendelkezés a próbaidőre felfüggesztett szabadságvesztésről
+## Próbaidőre felfüggesztett szabadságvesztés végrehajtásának utólagos elrendelése és utólagos rendelkezés a próbaidőre felfüggesztett szabadságvesztésről
 
-572. § (1) A bíróság a próbaidőre felfüggesztett büntetés végrehajtását az ügyész indítványára vagy hivatalból elrendeli, ha
+572. § (1) A bíróság a próbaidőre felfüggesztett szabadságvesztés végrehajtását az ügyész indítványára vagy hivatalból elrendeli, ha
 
-a)
+a) az elkövetőt a szabadságvesztés végrehajtandó része alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § b) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
 
-b) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt a Btk. 91. § (1) bekezdésének b) pontjában vagy (3) bekezdésében meghatározott büntetésre ítélték, és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
+b) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § c) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
 
 c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegte.
 

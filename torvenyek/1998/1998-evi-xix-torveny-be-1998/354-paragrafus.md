@@ -16,7 +16,7 @@ c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadsá
 
 d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
 
-e) részben felfüggesztett szabadságvesztés helyett rövidebb tartamú végrehajtandó szabadságvesztést,
+e) részben felfüggesztett szabadságvesztés helyett hosszabb tartamú részben felfüggesztett szabadságvesztést, a részben felfüggesztett szabadságvesztés végrehajtandó részénél hosszabb tartamú végrehajtandó szabadságvesztést,
 
 f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
 

@@ -4,7 +4,7 @@ a) a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságves
 
 b) a terheltet fogva tartják,
 
-c) a terhelt süket, néma, vak vagy – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
+c) a terhelt hallássérült, siketvak, vak, beszédképtelen vagy – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
 
 d) a terhelt a magyar nyelvet, illetőleg az eljárás nyelvét nem ismeri,
 

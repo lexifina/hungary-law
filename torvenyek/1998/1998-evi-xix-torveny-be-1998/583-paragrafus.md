@@ -5,3 +5,5 @@
 (3) Ha a nyomozást megszüntették, a kártalanítási igényt annál a bíróságnál kell előterjeszteni, amely az előzetes letartóztatást, illetőleg az ideiglenes kényszergyógykezelést elrendelte.
 
 (4) Ha a terhelt a kártalanítási eljárás lefolytatása előtt meghal, vagy a határidő eltelte előtt meghal anélkül, hogy igényét előterjesztette volna, örököse az eljárás folytatását kérheti, illetőleg a határidőn belül kártalanítási igényt terjeszthet elő.
+
+(5) A terheltet kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, és a határidő kezdő időpontjáról a nyomozást megszüntető határozat, a felmentő ítélet, a megszüntető végzés, illetve a rendkívüli jogorvoslat eredményeképpen hozott határozat közlésével egyidejűleg tájékoztatni kell.

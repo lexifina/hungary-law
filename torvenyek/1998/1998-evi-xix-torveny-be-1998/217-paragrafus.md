@@ -16,7 +16,7 @@ d) az eljárás megindításához szükséges külön törvényi feltétel (mag�
 
 e) a bíróság hatáskörére és illetékességére vonatkozó jogszabályok megjelölését, továbbá a vádiratot benyújtó ügyész hatáskörére, illetőleg illetékességére vonatkozó szabályokra való utalást,
 
-f) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó indítványt, ha az ügyész nem vesz részt a tárgyaláson,
+f) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó indítványt,
 
 g) a bejelentett polgári jogi igényt, továbbá az egyéb indítványokat,
 

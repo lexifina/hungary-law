@@ -1,6 +1,6 @@
 548. § (1) A tárgyalás mellőzésével hozott végzés ellen fellebbezésnek nincs helye; az ügyész, a magánvádló, a vádlott, a védő, a magánfél és az egyéb érdekelt a kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti. A kérelem alapján a bíróság tárgyalást tart.
 
-(2) Az ügyész nem kérheti tárgyalás tartását azon a címen, hogy a bíróság az 544. § (1) bekezdése alapján járt el.
+(2) Ha a tárgyalás mellőzését az ügyész indítványozta, az ügyész nem kérheti a tárgyalás tartását azon az alapon, hogy a bíróság az 544. § (1) bekezdése alapján jár el.
 
 (3) A magánfél kizárólag a polgári jogi igényt elbíráló rendelkezéssel, az egyéb érdekelt csak az elkobzással és a vagyonelkobzással kapcsolatban kérheti tárgyalás tartását. Ha a tárgyalás tartását kizárólag a magánfél kérte, a bíróság a tárgyaláson a polgári jogi igényre vonatkozó rendelkezést hatályon kívül helyezi, és az igény érvényesítését egyéb törvényes útra utasítja.
 

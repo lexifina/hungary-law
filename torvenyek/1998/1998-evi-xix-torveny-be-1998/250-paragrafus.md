@@ -1,6 +1,6 @@
 ## A jegyzőkönyv
 
-250. § (1) A bíróság eljárásáról – rendszerint azzal egyidejűleg – a jegyzőkönyvvezető jegyzőkönyvet készít. Ha a vádlott süket, és tolmács nem alkalmazható, a jegyzőkönyvet mindig egyidejűleg kell készíteni.
+250. § (1) A bíróság eljárásáról – rendszerint azzal egyidejűleg – a jegyzőkönyvvezető jegyzőkönyvet készít. Ha a vádlott hallássérült, és jelnyelvi tolmács nem alkalmazható, a jegyzőkönyvet mindig egyidejűleg kell készíteni.
 
 (2) A jegyzőkönyvben fel kell tüntetni
 

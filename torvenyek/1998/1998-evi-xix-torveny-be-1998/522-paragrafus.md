@@ -1,6 +1,6 @@
 ## Az első fokú bírósági tárgyalás
 
-522. § (1) A tárgyaláson az ügyész és a védő részvétele kötelező.
+522. § (1) A tárgyaláson a védő részvétele kötelező.
 
 (2) Az ügyész a tárgyalás megkezdése előtt – ha ez korábban nem történt meg – az iratokat és a tárgyi bizonyítási eszközöket a bíróságnak átadja, ezt követően a vádat szóban terjeszti elő.
 

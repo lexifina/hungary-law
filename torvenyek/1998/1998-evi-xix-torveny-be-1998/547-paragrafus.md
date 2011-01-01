@@ -24,4 +24,4 @@ d) az 548. és az 550. §-ban foglaltakra való figyelmeztetést.
 
 (4) A végzés indokolása a megállapított tényállást, a végzés meghozatala törvényi előfeltételeinek fennállására való utalást, valamint az alkalmazott jogszabályok megjelölését tartalmazza.
 
-(5) A végzést bírósági titkár is meghozhatja.
+(5) Ha a tárgyalás mellőzését az ügyész indítványozta, a végzést bírósági titkár is meghozhatja.

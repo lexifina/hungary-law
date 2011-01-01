@@ -2,4 +2,4 @@
 
 (2) A tárgyalásról értesíteni kell az ügyészt, továbbá a pótmagánvádlót, a kötelező védelem esetén kívül a védőt, a sértettet, valamint azokat, akik fellebbeztek. Az értesítést olyan időben kell kiadni, hogy a kézbesítése legalább öt nappal a tárgyalás előtt megtörténjék.
 
-(3) A tárgyaláson az ügyész részvétele kötelező, ha a részvétele az első fokú tárgyaláson is kötelező volt, kivéve, ha a részvétel oka a másodfokú eljárásban már nem áll fenn. A másodfokú bíróság az ügyészt ebben az esetben is kötelezheti a tárgyaláson való részvételre.
+(3)

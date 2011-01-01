@@ -4,4 +4,4 @@
 
 (2) A bíróság nyilvános tárgyalásáról a sajtó jogosult tájékoztatást adni.
 
-(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha a minősített adat védelmét sértené, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.
+(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha az a minősített adat védelmét sértené, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.

@@ -2,7 +2,7 @@
 
 (2) Ha a bíróság pénzbüntetést szab ki, vagyonelkobzást alkalmaz, illetőleg a terheltet a bűnügyi költség megfizetésére kötelezi, az államra szállt biztosítékot ezek végrehajtására kell fordítani.
 
-(3) Végrehajtandó szabadságvesztés kiszabása esetén a büntetés végrehajtásának befejezése után a biztosítékot az elítéltnek vissza kell fizetni. Más büntetés végrehajtása iránt nem lehet intézkedni.
+(3) Végrehajtandó, illetve részben felfüggesztett szabadságvesztés kiszabása esetén a büntetés végrehajtásának befejezése után a biztosítékot az elítéltnek vissza kell fizetni. Más büntetés végrehajtása iránt nem lehet intézkedni.
 
 (4) A biztosíték a terheltnek egészében vagy több bűncselekmény esetén részben, arányosan visszajár,
 

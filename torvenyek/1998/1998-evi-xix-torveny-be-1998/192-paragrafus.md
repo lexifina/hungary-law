@@ -1,4 +1,4 @@
-## A nyomozás megszüntetése az együttműködő gyanúsítottal és a fedett nyomozóval szemben
+## A nyomozás megszüntetése az együttműködő gyanúsítottal, a fedett nyomozóval és a megbízhatósági vizsgálatot végző személlyel szemben
 
 192. § (1) A bűncselekmény elkövetésének megalapozott gyanúja esetében az ügyész, illetőleg a nyomozó hatóság az ügyész engedélyével a nyomozást megszüntetheti, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy az ügy, illetőleg más büntető ügy bizonyításához hozzájárulva olyan mértékben együttműködik, hogy az együttműködéshez fűződő nemzetbiztonsági vagy bűnüldözési érdek jelentősebb, mint az, amely az állam büntetőjogi igényének érvényesítéséhez fűződik.
 

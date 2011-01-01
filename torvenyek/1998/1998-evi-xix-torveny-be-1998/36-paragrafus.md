@@ -2,17 +2,17 @@
 
 36. § (1) Az általános nyomozó hatóság a rendőrség.
 
-(2) A Vám- és Pénzügyőrség végzi a nyomozást a következő bűncselekmények miatt:
+(2) A Nemzeti Adó- és Vámhivatal végzi a nyomozást a következő bűncselekmények miatt:
 
 a) nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel [Btk. 263/B. § (1) bekezdés c) pont], engedély nélküli külkereskedelmi tevékenység (Btk. 298. §), visszaélés jövedékkel (Btk. 311. §), jövedéki orgazdaság (Btk. 311/A. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §), csempészet (Btk. 312. §),
 
-b) áru hamis megjelölése (Btk. 296. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett lopás (Btk. 316. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett orgazdaság (Btk. 326. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §), ha azt a Vám- és Pénzügyőrség észleli, vagy a feljelentést a Vám- és Pénzügyőrségnél teszik meg,
+b) áru hamis megjelölése (Btk. 296. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §),
 
 c) jogosulatlan gazdasági előny megszerzése (Btk. 288. §), a számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), adócsalás (Btk. 310. §), munkáltatással összefüggésben elkövetett adócsalás (Btk. 310/A. §), az Európai Közösségek pénzügyi érdekeinek megsértése (Btk. 314. §), a csalás, ha adóra, járulékra vagy költségvetési támogatásra követik el (Btk. 318. §), az orgazdaság, ha csempészett nem közösségi árura követik el (Btk. 326. §), pénzmosás (Btk. 303. §, Btk. 303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §),
 
-d) az a)–c) pontokban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §) és bélyeghamisítás (Btk. 307. §),
+d) az a)–c) pontokban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §) és bélyeghamisítás (Btk. 307. §).
 
-e) az ország területére behozatallal, az ország területéről kivitellel, valamint az ország területén átvitellel elkövetett visszaélés kábítószerrel (Btk. 282–282/C. §) és a visszaélés kábítószer előállításához használt anyaggal (Btk. 283/A. §), ha a bűncselekményt a Vám- és Pénzügyőrség észleli, vagy a feljelentést a Vám- és Pénzügyőrségnél teszik meg.
+e)
 
 (3)
 

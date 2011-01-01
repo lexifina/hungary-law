@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés esetén a bíróság a székhelyén működő büntetés-végrehajtási intézet parancsnokától rövid úton büntetés-végrehajtási őr kirendelését kéri, és az elítéltet az őrnek adja át. Ha a bíróság székhelyén nincs büntetés-végrehajtási intézet, vagy a büntetés-végrehajtási őr kirendelésének akadálya van, a bíróság az elítéltnek a büntetés-végrehajtási intézetbe kísérése végett rövid úton a rendőrséget keresi meg.
 
-(3) Ha a bíróság végrehajtandó szabadságvesztést kiszabó határozatának jogerőre emelkedésekor a terhelt nincs előzetes letartóztatásban, és a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét nem rendeli el, de a kiszabott szabadságvesztésre tekintettel vagy egyéb okból alaposan feltehető, hogy a szökésével vagy az elrejtőzésével a büntetés végrehajtása alól kivonná magát, az elítélttel szemben – a büntetés-végrehajtási intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el.
+(3) Ha a bíróság szabadságvesztést kiszabó határozatának jogerőre emelkedésekor a terhelt nincs előzetes letartóztatásban, és a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét nem rendeli el, de a kiszabott szabadságvesztésre tekintettel vagy egyéb okból alaposan feltehető, hogy a szökésével vagy az elrejtőzésével a büntetés végrehajtása alól kivonná magát, az elítélttel szemben – a büntetés-végrehajtási intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el.
 
 (4) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést el kell rendelni, ha a bíróság a két évet meghaladó szabadságvesztés végrehajtásának megkezdésére halasztást engedélyezett [591. § (2) bek. c) pont].
 

@@ -7,7 +7,3 @@
 (4) A másodfokú bíróság mellett működő ügyész az iratokat az indítványával tizenöt napon belül, különösen bonyolult vagy nagy terjedelmű ügyben harminc napon belül megküldi a másodfokú bíróságnak.
 
 IV. CÍM
-
-TÁRGYALÁS AZ ÜGYÉSZ,
-
-A VÉDŐ TÁVOLLÉTÉBEN

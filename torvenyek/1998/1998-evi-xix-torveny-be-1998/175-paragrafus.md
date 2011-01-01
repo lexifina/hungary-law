@@ -11,7 +11,3 @@
 (6) Az (1) vagy (2) bekezdés alapján a feljelentés nem utasítható el, ha az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
 (7) Az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó ellen indított büntetőeljárást el kell különíteni attól az ügytől, amelyben az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó által feltárt bizonyítékot fel kívánják használni.
-
-III. CÍM
-
-A NYOMOZÁS LEFOLYTATÁSA
