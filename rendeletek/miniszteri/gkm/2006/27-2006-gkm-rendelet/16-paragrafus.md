@@ -2,7 +2,7 @@
 
 ## A használatbavételi engedélyezési eljárás
 
-16. § (1)[^18] A használatbavételi engedélyt az építtetőnek a Hatóságtól a töltőállomás rendeltetésszerű használatára alkalmassá válásakor – a használatbavétel előtt – kell kérnie.
+16. § (1)[^19] A használatbavételi engedélyt az építtetőnek a Hatóságtól a töltőállomás rendeltetésszerű használatára alkalmassá válásakor – a használatbavétel előtt – kell kérnie.
 
 (2) A használatbavételi engedély iránti kérelemhez mellékelni kell:
 
@@ -10,4 +10,4 @@ a) a felelős műszaki vezető nyilatkozatát arról, hogy az építési munkát
 
 b) az érintett közművek nyilatkozatát.
 
-[^18]: A 16. § (1) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^19]: A 16. § (1) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (4) bekezdése szerint módosított szöveg.

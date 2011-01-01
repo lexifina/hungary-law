@@ -1,4 +1,4 @@
-## 20. § A használatbavételi engedély annak visszavonásáig érvényes. Érvényességének feltétele a külön jogszabályban[^22] meghatározott időszakos hatósági ellenőrzés elvégzése.
+## 20. § A használatbavételi engedély annak visszavonásáig érvényes. Érvényességének feltétele a külön jogszabályban[^23] meghatározott időszakos hatósági ellenőrzés elvégzése.
 
 ## Fennmaradási engedélyezési eljárás
 
@@ -8,4 +8,4 @@
 
 (3) Építési jogosultság igazolásának hiányában a fennmaradási engedély kérelmet el kell utasítani és a töltőállomás bontását el kell rendelni.
 
-[^22]: Az autógáz töltőállomás építésének és üzemeltetésének szabályairól szóló 26/2006. (V. 5.) GKM rendelet 4. §.
+[^23]: Az autógáz töltőállomás építésének és üzemeltetésének szabályairól szóló 26/2006. (V. 5.) GKM rendelet 4. §.

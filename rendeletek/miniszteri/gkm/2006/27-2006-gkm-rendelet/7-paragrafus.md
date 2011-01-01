@@ -42,9 +42,9 @@ c) közös tulajdonban álló ingatlanon történő építési tevékenység vé
 
 (4) Az engedélykérelemhez mellékelt dokumentációt 2 példányban kell benyújtani.
 
-(5)[^6] A Hatóság vizsgálja, hogy a kérelem és mellékletei megfelelnek-e a (2) bekezdésben foglaltaknak. Ennek hiányában az építtetőt 8 napon belül – határidő kitűzésével – hiánypótlásra hívja fel.
+(5)[^7] A Hatóság vizsgálja, hogy a kérelem és mellékletei megfelelnek-e a (2) bekezdésben foglaltaknak. Ennek hiányában az építtetőt 8 napon belül – határidő kitűzésével – hiánypótlásra hívja fel.
 
-(6)[^7] A Hatóság köteles a határozathozatalhoz szükséges tényállás tisztázásának keretében az engedély megadásához szükséges feltételek fennállását a helyszínen ellenőrizni.
+(6)[^8] A Hatóság köteles a határozathozatalhoz szükséges tényállás tisztázásának keretében az engedély megadásához szükséges feltételek fennállását a helyszínen ellenőrizni.
 
-[^6]: A 7. § (5) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^7]: A 7. § (6) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^7]: A 7. § (5) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 7. § (6) bekezdése a 87/2006. (XII. 26.) GKM rendelet 8. § (3) bekezdése szerint módosított szöveg.

@@ -80,13 +80,13 @@
 
 ## aláírás
 
-2. melléklet a 27/2006. (V. 5.) GKM rendelethez[^29]
+2. melléklet a 27/2006. (V. 5.) GKM rendelethez[^30]
 
-Az eljárásban közreműködő közművek[^30]
+Az eljárásban közreműködő közművek[^31]
 
 Az eljárásban közreműködő közművek
 
 | Közművek üzemeltetői: víz- és csatornázási mű, gázmű, távhőellátó, áramszolgáltató, távközlési szolgáltató és a villamosmű üzembentartója |
 
-[^29]: A 2. számú melléklet a Magyar Közlöny 2006. évi 64. számában megjelent helyesbítésnek megfelelő, és a 95/2006. (XII. 27.) GKM rendelet 70. §-a, a 393/2007. (XII. 27.) Korm. rendelet 6. § (5) bekezdésének k) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (3) bekezdés 10. pontja, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^30]: A 2. melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 14. pontja szerint módosított szöveg.
+[^30]: A 2. számú melléklet a Magyar Közlöny 2006. évi 64. számában megjelent helyesbítésnek megfelelő, és a 95/2006. (XII. 27.) GKM rendelet 70. §-a, a 393/2007. (XII. 27.) Korm. rendelet 6. § (5) bekezdésének k) pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (3) bekezdés 10. pontja, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^31]: A 2. melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 14. pontja szerint módosított szöveg.
