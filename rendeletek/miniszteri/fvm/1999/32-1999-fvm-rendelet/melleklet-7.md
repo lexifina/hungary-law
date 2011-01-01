@@ -1,4 +1,4 @@
-7. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^88]
+7. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^94]
 
 ## A hústermelés céljából tartott csirkék tartásának minimális követelményei
 
@@ -138,4 +138,4 @@ c) az adott ólban az utolsó legalább hét egymást követő, ellenőrzött á
 
 4.4. Amennyiben a 4.1. és 4.2. pontokban szereplő elhullási arány vagy a 4.3. pontban szereplő levágást követő vizsgálat eredményei és a nem kielégítő vagy nem előírásszerű állatjóléti körülmények között egyértelmű összefüggés van, az állattartónak a kerületi hivatal iránymutatása szerint megfelelő intézkedéseket kell hoznia a nem kielégítő állatjóléti körülmények felszámolása érdekében.
 
-[^88]: A 7. számú mellékletet a 20/2002. (III. 14.) FVM rendelet 16. § (3) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^94]: A 7. számú mellékletet a 20/2002. (III. 14.) FVM rendelet 16. § (3) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rendelet 10. § (6) bekezdésével megállapított szöveg.

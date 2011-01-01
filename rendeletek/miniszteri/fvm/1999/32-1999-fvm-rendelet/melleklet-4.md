@@ -2,11 +2,11 @@
 
 ## A hízott máj előállításának szabályai
 
-1.[^68] Az alábbi rendelkezések a hízott máj – a házi lúd (Anser anser var. domestica), a házi kacsa (Anas platyrynchos var. domestica), a pézsmaréce (Cairina moschata var. domestica), valamint kereszteződésük, a mulárd-kacsa élettani, étkezési szokásaira jellemző jó étvágyára és falánkságra alapozott – kíméletes töméses, hizlalásos előállítására vonatkoznak.
+1.[^74] Az alábbi rendelkezések a hízott máj – a házi lúd (Anser anser var. domestica), a házi kacsa (Anas platyrynchos var. domestica), a pézsmaréce (Cairina moschata var. domestica), valamint kereszteződésük, a mulárd-kacsa élettani, étkezési szokásaira jellemző jó étvágyára és falánkságra alapozott – kíméletes töméses, hizlalásos előállítására vonatkoznak.
 
-2.[^69] A töméses hizlalás olyan speciális tevékenység, amelyhez megfelelő szaktudással kell rendelkezni, ezért a liba- és kacsatömést megfelelő tapasztalattal és jártassággal rendelkező, valamint a 11. § (2) bekezdése szerinti ismeretekkel rendelkező személyek végezhetik.
+2.[^75] A töméses hizlalás olyan speciális tevékenység, amelyhez megfelelő szaktudással kell rendelkezni, ezért a liba- és kacsatömést megfelelő tapasztalattal és jártassággal rendelkező, valamint a 11. § (2) bekezdése szerinti ismeretekkel rendelkező személyek végezhetik.
 
-3.[^70] Tömésre csak egészséges, jól fejlett, a jelzett testtömeg alsó határát meghaladó testtömegű, ép testű állatokat szabad befogni. Ügyelni kell arra, hogy egy csoportba homogén állomány kerüljön, különös tekintettel az állatok uniformizált tömhetőségére és egészséges terhelhetőségére. A legkisebb egyedi testtömeg a következő:
+3.[^76] Tömésre csak egészséges, jól fejlett, a jelzett testtömeg alsó határát meghaladó testtömegű, ép testű állatokat szabad befogni. Ügyelni kell arra, hogy egy csoportba homogén állomány kerüljön, különös tekintettel az állatok uniformizált tömhetőségére és egészséges terhelhetőségére. A legkisebb egyedi testtömeg a következő:
 
 | Megnevezés | Átlag tömeg (kg) | Egyedi testtömeg alsó határa (kg) |
 
@@ -18,32 +18,32 @@
 
 | Pézsmakacsa (gácsér) | 4,0–4,4 | 3,70 |
 
-4.[^71] A hízlalási céllal nevelt állatok nevelése során olyan berendezéseket, eszközöket kell alkalmazni, amelyek biztosítják az állatok egészséges és sérülésmentes növekedését, a toll védelmét, a takarmány és az itatóvíz akadályoztatás nélküli felvételét. Ehhez megfelelő etető-itató berendezésre és hibátlan almozásra van szükség.
+4.[^77] A hízlalási céllal nevelt állatok nevelése során olyan berendezéseket, eszközöket kell alkalmazni, amelyek biztosítják az állatok egészséges és sérülésmentes növekedését, a toll védelmét, a takarmány és az itatóvíz akadályoztatás nélküli felvételét. Ehhez megfelelő etető-itató berendezésre és hibátlan almozásra van szükség.
 
-5.[^72] A takarmányt és az itatóvizet mennyiségben és időben – különösen az utónevelési időszakban – úgy kell megállapítani, hogy a tömés időszakára az állatok a szervezetet megterhelő nagyobb takarmányadagok befogadását minél kisebb nehézséggel tudják elviselni.
+5.[^78] A takarmányt és az itatóvizet mennyiségben és időben – különösen az utónevelési időszakban – úgy kell megállapítani, hogy a tömés időszakára az állatok a szervezetet megterhelő nagyobb takarmányadagok befogadását minél kisebb nehézséggel tudják elviselni.
 
-5/A.[^73] A táplálás során különös figyelmet kell fordítani arra, hogy a takarmány bejuttatására használt cső elérje a nyelőcsövet, ugyanakkor ne érje el a mirigyes gyomor bejáratát. A cső kizárólag gumiból, vagy hasonló rugalmas anyagból készülhet, átmérője legfeljebb 22 mm lehet.
+5/A.[^79] A táplálás során különös figyelmet kell fordítani arra, hogy a takarmány bejuttatására használt cső elérje a nyelőcsövet, ugyanakkor ne érje el a mirigyes gyomor bejáratát. A cső kizárólag gumiból, vagy hasonló rugalmas anyagból készülhet, átmérője legfeljebb 22 mm lehet.
 
-6.[^74] Az első tömés előtt az állatokat legalább tizenkét órán keresztül pihentetni kell.
+6.[^80] Az első tömés előtt az állatokat legalább tizenkét órán keresztül pihentetni kell.
 
 7. Az állatok hízlalás alatti elhelyezésekor figyelembe kell venni, hogy az állatok testtömege a hízlalás végére megnő. Különösen fontos a klimatizáció, továbbá az, hogy az állatok mozgásterének állandó csökkenése ellenére a szükséges intézkedések sérülés- és stresszmentesen megtehetők legyenek.
 
 8. A töméses hízlalás technikai eszközeinek (különösen a tömőgépnek) biztosítaniuk kell a kíméletes és sérülést nem okozó tömés feltételeit. Az eszközök szélei nem okozhatnak sérülést, és a gépet a túladagolás ellen biztonsági rendszerrel kell ellátni.
 
-9.[^75] Mind a mélyalmos, mind a rácspadozaton való tartás elfogadható. Mélyalmos tartásnál rendszeres felülalmozással biztosítani kell az állatok számára a száraz pihenőhelyet. A rácspadozat anyaga műanyag, vagy más, műanyag bevonatú anyag lehet.
+9.[^81] Mind a mélyalmos, mind a rácspadozaton való tartás elfogadható. Mélyalmos tartásnál rendszeres felülalmozással biztosítani kell az állatok számára a száraz pihenőhelyet. A rácspadozat anyaga műanyag, vagy más, műanyag bevonatú anyag lehet.
 
 10. Tömésre csak jó minőségű, megfelelően előkészített takarmány-alapanyag használható.
 
 11. A hízlalás végén, a szállítást megelőzően legalább hat órával, a tömést be kell fejezni, mert a tömött állat nem bírja a szállítást.
 
-12.[^76] Az állatok rakodását kíméletesen, csak arra betanított és gyakorlatot szerzett személyekkel kell elvégeztetni. Az állatok szállítása során – a stressz, a sérülésveszély, az elhullási veszteség csökkentése érdekében – az évszak és az időjárás figyelembevételével gondosan kell megválasztani a szállításra legalkalmasabb napszakot.
+12.[^82] Az állatok rakodását kíméletesen, csak arra betanított és gyakorlatot szerzett személyekkel kell elvégeztetni. Az állatok szállítása során – a stressz, a sérülésveszély, az elhullási veszteség csökkentése érdekében – az évszak és az időjárás figyelembevételével gondosan kell megválasztani a szállításra legalkalmasabb napszakot.
 
-[^68]: A 4. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^69]: A 4. számú melléklet 2. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^70]: A 4. számú melléklet 3. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés h) pontja szerint módosított szöveg.
-[^71]: A 4. számú melléklet 4. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés i) pontja szerint módosított szöveg.
-[^72]: A 4. számú melléklet 5. pontja a 31/2010. (XI. 18.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^73]: A 4. számú melléklet 5/A. pontját a 31/2010. (XI. 18.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^74]: A 4. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^75]: A 4. számú melléklet 9. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^76]: A 4. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^74]: A 4. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^75]: A 4. számú melléklet 2. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^76]: A 4. számú melléklet 3. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés h) pontja szerint módosított szöveg.
+[^77]: A 4. számú melléklet 4. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés i) pontja szerint módosított szöveg.
+[^78]: A 4. számú melléklet 5. pontja a 31/2010. (XI. 18.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^79]: A 4. számú melléklet 5/A. pontját a 31/2010. (XI. 18.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^80]: A 4. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^81]: A 4. számú melléklet 9. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^82]: A 4. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
