@@ -2,9 +2,9 @@
 
 (2) A fegyelmi tanács elnöke a fegyelmi eljárás megindítója, aki ezt a jogkörét a munkáltatónak az eljárás alá vont
 
-a) magasabb vezetői, illetve vezetői munkakört vagy beosztást betöltő közalkalmazott esetén magasabb vagy azzal azonos szintű vezetői munkakört vagy beosztást,
+a) magasabb vezetői, illetve vezetői beosztást betöltő közalkalmazott esetén magasabb vagy azzal azonos szintű vezetői beosztást,
 
-b) az a) pontba nem tartozó közalkalmazott esetén magasabb vezető vagy vezető munkakört, illetve beosztást,
+b) az a) pontba nem tartozó közalkalmazott esetén magasabb vezető vagy vezető beosztást,
 
 betöltő közalkalmazottra ruházhatja át. A fegyelmi tanács tagjait a fegyelmi tanács elnöke a munkáltatónak a 47. § (1) bekezdésében foglaltaknak megfelelő közalkalmazottai közül jelöli ki.
 

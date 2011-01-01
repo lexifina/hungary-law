@@ -22,9 +22,9 @@ eltelt.
 
 (7) Az egyéves határidő
 
-a) magasabb vezető beosztású, illetve kinevezett magasabb vezető közalkalmazott esetében három évre,
+a) magasabb vezető beosztású közalkalmazott esetében három évre,
 
-b) vezető beosztású, illetve kinevezett vezető közalkalmazott esetében két évre
+b) vezető beosztású közalkalmazott esetében két évre
 
 emelkedik.
 

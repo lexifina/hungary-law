@@ -1,6 +1,6 @@
 40. § (1) A közalkalmazottat
 
-a) kinevezett, illetőleg megbízott vezetőként a vezetői kinevezést vagy megbízást követő második év elteltével, valamint a határozott idejű magasabb vezetői vagy vezetői megbízás lejárta előtt legalább három hónappal,
+a) vezetőként a vezetői megbízást követő második év elteltével, valamint a magasabb vezetői vagy vezetői megbízás lejárta előtt legalább három hónappal,
 
 b) a várakozási idő 65. § (3) bekezdés szerinti csökkentése előtt, kivéve, ha a várakozási idő csökkentése kötelező,
 

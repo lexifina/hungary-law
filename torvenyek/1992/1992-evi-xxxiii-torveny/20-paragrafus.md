@@ -18,6 +18,10 @@ c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás
 
 személlyel létesíthető.
 
+(2a) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottai tekintetében, a közalkalmazotti jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+
+(2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
+
 (3) Végrehajtási jogszabály a jogviszony létesítéséhez
 
 a) a (2) bekezdés b) és c) pontjában foglalt feltétel alól mentesítést adhat,

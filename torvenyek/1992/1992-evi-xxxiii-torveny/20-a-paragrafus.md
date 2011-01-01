@@ -42,7 +42,7 @@ b) arról szóló nyilatkozatát, hogy a pályázati anyagában foglalt személy
 
 c) a külön jogszabályban vagy a pályázatban előírt további követelmények igazolására vonatkozó okiratokat.
 
-(6) Jogszabály eltérő rendelkezése hiányában magasabb vezetői munkakörre vagy beosztásra kiírt pályázat esetén a pályázót a pályázati határidő lejártát követő huszonegy napon belül a kinevezési, megbízási jogkör gyakorlója által létrehozott legalább háromtagú, a betöltendő munkakör feladatait érintően szakértelemmel rendelkező bizottság hallgatja meg, melynek nem lehet tagja – a helyi önkormányzati képviselő-testület tagja kivételével – a kinevezési, megbízási jogkör gyakorlója. A kinevezési, megbízási jogkör gyakorlója a bizottság írásba foglalt véleményét mérlegelve a pályázati határidő lejártát követő
+(6) Jogszabály eltérő rendelkezése hiányában magasabb vezetői beosztásra kiírt pályázat esetén a pályázót a pályázati határidő lejártát követő huszonegy napon belül a kinevezési, megbízási jogkör gyakorlója által létrehozott legalább háromtagú, a betöltendő munkakör feladatait érintően szakértelemmel rendelkező bizottság hallgatja meg, melynek nem lehet tagja – a helyi önkormányzati képviselő-testület tagja kivételével – a kinevezési, megbízási jogkör gyakorlója. A kinevezési, megbízási jogkör gyakorlója a bizottság írásba foglalt véleményét mérlegelve a pályázati határidő lejártát követő
 
 a) hatvan napon belül, vagy
 
@@ -52,10 +52,4 @@ dönt a közalkalmazotti jogviszony létesítéséről, illetve a vezetői megb�
 
 (7) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Amennyiben a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
 
-(8) A munkáltató vezetésére szóló kinevezésre kiírt pályázatra a (2) bekezdés nem alkalmazható.
-
-(9) A magasabb vezető és a vezető munkakör – a munkáltató vezetője kivételével – pályázat kiírása nélkül is betölthető
-
-a) a (2) bekezdés a)–b) pontja szerinti esetben, továbbá
-
-b) ha a közalkalmazott az erre vonatkozó kinevezésmódosítást megelőzően legalább egy éve közalkalmazotti jogviszonyban áll a munkáltatóval.
+(8)–(9)

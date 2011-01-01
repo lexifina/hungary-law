@@ -34,4 +34,4 @@ b) legfeljebb a gyermek hároméves koráig
 
 köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
-(8) Az (1)–(7) bekezdés nem alkalmazható a kinevezett és a megbízott magasabb vezető és a vezető tekintetében.
+(8) Az (1)–(7) bekezdés nem alkalmazható a megbízott magasabb vezető és a vezető tekintetében.
