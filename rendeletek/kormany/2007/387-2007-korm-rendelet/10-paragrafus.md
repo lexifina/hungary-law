@@ -4,7 +4,7 @@
 
 10. § (1) A járadék iránti igény érvényesítésére, a jogorvoslatra, az ellátás megtérítésére, a jogalap nélkül felvett ellátás visszafizetésére, megtérítésére, a járadékból történő levonásra, a járadék folyósítására, rendszeres emelésére, a járadékkal kapcsolatos eljárás költség- és illetékmentességére – ha e rendelet eltérően nem rendelkezik – a társadalombiztosítási nyugellátásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2)[^9] A járadék iránti kérelmet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 1. §-a szerint illetékes regionális nyugdíjbiztosítási igazgatósághoz (a továbbiakban: nyugdíjbiztosítási igazgatóság) az erre rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani annak a keresőtevékenységnek az időtartama alatt vagy a megszűnésétől számított 24 hónapon belül, amelynek során az egészségkárosodás bekövetkezett. A határidő elmulasztása jogvesztő.
+(2)[^9] A járadék iránti kérelmet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 1. §-a szerint illetékes nyugdíjbiztosítási igazgatósághoz (a továbbiakban: nyugdíjbiztosítási igazgatóság) az erre rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani annak a keresőtevékenységnek az időtartama alatt vagy a megszűnésétől számított 24 hónapon belül, amelynek során az egészségkárosodás bekövetkezett. A határidő elmulasztása jogvesztő.
 
 (3) A (2) bekezdés szerinti határidőbe nem számít bele
 
@@ -22,6 +22,6 @@ d)[^11] a rendszeres szociális járadék iránti kérelem bejelentésétől az 
 
 (6) A folyósított járadék összegét a központi költségvetés a folyósító szerv számára megtéríti.
 
-[^9]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 610. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 610. §-a, a 358/2010. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^10]: A 10. § (3) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 610. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^11]: A 10. § (3) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 609. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

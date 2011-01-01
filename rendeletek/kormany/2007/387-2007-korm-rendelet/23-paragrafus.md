@@ -1,6 +1,6 @@
-23. § (1)[^27]
+23. § (1)[^29]
 
-(2)[^28]
+(2)[^30]
 
-[^27]: A 23. § (1) bekezdése e rendelet 23. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 23. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^29]: A 23. § (1) bekezdése e rendelet 23. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 23. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
