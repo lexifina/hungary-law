@@ -10,7 +10,7 @@
 
 3.[^3] nyomozó szerv: a nyomozó hatóság, illetve az ügyészség nyomozást folytató szerve;
 
-4.[^4] személyi védelem: a rendőrségnek, a vám- és pénzügyőrségnek, a honvédségnek, valamint a büntetés-végrehajtási szervezetnek az e rendeletben foglaltak szerint folytatott intézkedése;
+4.[^4] személyi védelem: a rendőrségnek, a Nemzeti Adó- és Vámhivatal vámszerveinek és nyomozóhatósági szerveinek, a honvédségnek, valamint a büntetés-végrehajtási szervezetnek az e rendeletben foglaltak szerint folytatott intézkedése;
 
 5. fenyegetett helyzetben lévő személy[^5]: az a személy, akinek – a büntetőeljárásban való részvétele, illetve a büntetőeljárás során jogai érvényesítésének, kötelezettségei teljesítésének akadályozása, illetve meghiúsítása végett elkövetett vagy kilátásba helyezett személy elleni erőszakos avagy közveszélyt okozó bűncselekmény miatt – a személyi védelme indokoltnak látszik, valamint – a rendeletben meghatározott esetekben – a büntetőeljárás résztvevőjére, valamint a hatóság tagjára tekintettel az a személy is, akivel szemben ilyen bűncselekményt követtek el, illetve valószínűsíthető, hogy ilyen bűncselekményt követnek el és védelme ugyancsak indokoltnak látszik;
 
@@ -24,7 +24,7 @@
 
 [^2]: Az 1. § 2. pontja a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 3. pontja a 9/2003. (I. 25.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § 4. pontját a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (3) bekezdése iktatta be, szövege a 331/2007. (XII. 13.) Korm. rendelet 3. § 12. pontja szerint módosított szöveg.
+[^4]: Az 1. § 4. pontját a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (3) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 5. pontját a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (3) bekezdése iktatta a szövegbe.
 [^6]: Az 1. § 6. pontját a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (3) bekezdése iktatta a szövegbe.
 [^7]: Az 1. § 7. pontját a 28/2002. (II. 27.) Korm. rendelet 27. §-ának (3) bekezdése iktatta a szövegbe.
