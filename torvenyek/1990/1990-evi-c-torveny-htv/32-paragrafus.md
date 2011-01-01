@@ -12,4 +12,4 @@ a) szállásdíj, ennek hiányában
 
 b) a szállásért bármilyen jogcímen (pl. üdülőhasználati jog) fizetendő ellenérték (pl. üzemeltetési költség).
 
-b) a 30. § (1) bekezdésének b) pontja szerinti adókötelezettség esetén az építmény hasznos alapterülete.
+b)

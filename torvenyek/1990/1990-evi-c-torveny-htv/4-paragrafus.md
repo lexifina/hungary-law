@@ -2,7 +2,7 @@
 
 a) az ingatlantulajdonra, ingatlanhoz kapcsolódó vagyoni értékű jogra,
 
-b) munkaerő foglalkoztatására,
+b)
 
 c) nem állandó lakosként való tartózkodásra és
 

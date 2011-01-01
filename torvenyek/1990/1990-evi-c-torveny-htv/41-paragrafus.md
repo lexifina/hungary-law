@@ -2,7 +2,7 @@
 
 ## Az adóelőleg megállapítása és az adó megfizetése
 
-41. § (1) A vállalkozó – a (4) bekezdésben foglaltak kivételével – a vállalkozók kommunális adójában és a helyi iparűzési adóban az előlegfizetési időszakra – az egyes esedékességi időpontokra eső összeg feltüntetésével önkormányzatonként – adóelőleget köteles a (3) bekezdésben foglalt esetekben a bejelentkezéssel egyidejűleg az adóhatóság által rendszeresített nyomtatványon bejelenteni, illetve minden más esetben a bevallás-benyújtással egyidejűleg bevallani. A benyújtott – adóelőleget tartalmazó – bejelentkezési nyomtatvány végrehajtható okiratnak minősül.
+41. § (1) A vállalkozó – a (4) bekezdésben foglaltak kivételével – a helyi iparűzési adóban az előlegfizetési időszakra – az egyes esedékességi időpontokra eső összeg feltüntetésével önkormányzatonként – adóelőleget köteles a (3) bekezdésben foglalt esetekben a bejelentkezéssel egyidejűleg az adóhatóság által rendszeresített nyomtatványon bejelenteni, illetve minden más esetben a bevallás-benyújtással egyidejűleg bevallani. A benyújtott – adóelőleget tartalmazó – bejelentkezési nyomtatvány végrehajtható okiratnak minősül.
 
 (2) Az előlegfizetési időszak – a (3) bekezdésben foglaltak kivételével – a bevallás-benyújtás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszak.
 
@@ -26,4 +26,4 @@ b) ha az adóévet megelőző adóév 12 hónapnál rövidebb, akkor az előlegf
 
 (6) A (3) bekezdés szerinti esetekben az adóelőleg-részletek összege a vállalkozó által az adókötelezettsége keletkezésének adóévére várható adó figyelembevételével az előlegfizetési időszakra időarányosan megállapított – az ezen időszak alatt esedékes egyes adóelőleg-fizetési időpontokra egyenlő arányban megosztott – bejelentett összeg.
 
-(7) Ha jogszabályi változás miatt az adó alapja vagy mértéke az adóévre módosul, továbbá ha a vállalkozó az adóévet megelőző évben az önkormányzat rendelete alapján adómentességet vagy adókedvezményt vett igénybe, de az adóévben az adómentesség vagy az adókedvezmény nem vagy nem teljes mértékben illeti meg, akkor az előleg összegét az adóalap, az adómérték, a kedvezmény mértékének változása, illetőleg a mentesség, kedvezmény megszűnése figyelembevételével kell bevallani.
+(7) Ha jogszabályi változás miatt az adó alapja vagy mértéke az adóévre módosul, továbbá ha a vállalkozó az adóévet megelőző évben e törvény 39/D. §-a vagy az önkormányzat rendelete alapján adómentességet vagy adókedvezményt vett igénybe, de az adóévben az adómentesség vagy az adókedvezmény nem vagy nem teljes mértékben illeti meg, akkor az előleg összegét az adóalap, az adómérték, a kedvezmény mértékének változása, illetőleg a mentesség, kedvezmény megszűnése figyelembevételével kell bevallani.

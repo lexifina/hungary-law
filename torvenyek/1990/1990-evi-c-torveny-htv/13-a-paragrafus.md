@@ -6,7 +6,7 @@
 
 (3) Az adóhatóság az adómentességre jogosult kérelmét nyilvántartásba veszi és az adót évente megállapítja. A megállapított, de meg nem fizetett adót és az eredeti esedékességtől számított – 14/A. § (1) bekezdése szerinti – kamatot az adóhatóság az ingatlanra bejegyzett jelzáloggal biztosítja.
 
-(4) Az adóhatóság az adómentesség időtartamának lejártát követő év január 30-ig megkeresi a műemlékvédelmi hatóságot, hogy igazolja az épület (2) bekezdés szerinti felújításának tényét és a felújítás befejezésének időpontját. A megkeresett hatóság 10 munkanapon belül válaszol a megkeresésre.
+(4) Az adóhatóság az adómentesség időtartamának lejártát követő év január 30-ig megkeresi a műemlékvédelmi hatóságot, hogy igazolja az épület (2) bekezdés szerinti felújításának tényét és a felújítás befejezésének időpontját. A megkeresett hatóság tizenöt napon belül válaszol a megkeresésre.
 
 (5) Amennyiben a megkeresés alapján az adóhatóság megállapítja, hogy a (2) bekezdés szerinti felújítás az adómentesség harmadik évének utolsó napjáig megtörtént, akkor a (3) bekezdés szerint nyilvántartott adót és kamatokat törli, valamint haladéktalanul intézkedik az ingatlanügyi hatóságnál a jelzálogjog törlése iránt.
 

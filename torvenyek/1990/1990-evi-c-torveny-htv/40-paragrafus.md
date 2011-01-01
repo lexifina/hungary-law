@@ -8,11 +8,7 @@ b) 1999. évben az adóalap 1,7%-a,
 
 c) 2000. évtől az adóalap 2%-a.
 
-(2) Ideiglenes jelleggel végzett iparűzési tevékenység esetén az adó mértéke:
-
-a) a 37. § (2) bekezdésének a) pontja szerinti tevékenység-végzés után naptári naponként legfeljebb 1000 forint,
-
-b) a 37. § (2) bekezdésének b) és c) pontja szerinti tevékenység-végzés után naptári naponként legfeljebb 5000 forint.
+(2) Ideiglenes jelleggel végzett iparűzési tevékenység esetén az adó mértéke naptári naponként legfeljebb 5000 forint.
 
 (3) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (4) bekezdésben meghatározott módon – levonható az ideiglenes jellegű tevékenység után az adóévben megfizetett adó.
 
