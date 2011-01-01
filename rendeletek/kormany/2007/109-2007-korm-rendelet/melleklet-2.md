@@ -48,9 +48,9 @@
 
 ## 24. a Kormány rádió-távközlő rendszereinek üzemben tartására felhatalmazott szervezet készenléti feladatot ellátó személyei;
 
-## 25. a Nemzeti Közlekedési Hatóságnak a közlekedési felügyeleteket irányító vezetői, az irányításban közreműködő személyei és szervezeti egységei;
+## 25.[^19] a Nemzeti Közlekedési Hatóság;
 
-## 26. a közlekedési felügyeletek;
+## 26.[^20] a fővárosi és megyei kormányhivatalok közlekedési felügyelőségei;
 
 ## 27. a települési önkormányzati közterület-felügyeletek, valamint azok a polgárőrségek, amelyek a polgárőrségről szóló 2006. évi LII. törvény 6. § (1) bekezdésében felsorolt feladatok közül legalább hármat ellátnak;
 
@@ -58,7 +58,7 @@
 
 ## 29. a fenti állami szervek körébe nem tartozó, a hálózatgazda jóváhagyásával az EDR hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
 
-2. számú melléklet a 109/2007. (V. 15.) Korm. rendelethez[^19]
+2. számú melléklet a 109/2007. (V. 15.) Korm. rendelethez[^21]
 
 Az EDR használati szabályzata
 
@@ -332,7 +332,7 @@ Az EDR használatára kizárólag szolgálati célból (szolgálati beszélgeté
 
 A Szervezet VPN-jének működtetését és felügyeletét, valamint a rádióterminálok programozását, a forgalmi csoportok kialakítását és az egyéb beállításokat Szervezet illetékes vezetője szabályozza.
 
-Az EDR használata során tapasztalt rendszerszintű, valamint diszpécserekre és rádióterminálokra vonatkozó hiányosságok és hibák, illetve egyéb bejelentések vétele érdekében a szolgáltató, 24 órás munkarendben ügyfélszolgálatot[^20] működtet. Az ügyfélszolgálat a hiba jellegétől függően a VPN menedzsmenttől, a kijelölt diszpécserektől, illetve az egyes felhasználóktól fogadja a bejelentéseket.
+Az EDR használata során tapasztalt rendszerszintű, valamint diszpécserekre és rádióterminálokra vonatkozó hiányosságok és hibák, illetve egyéb bejelentések vétele érdekében a szolgáltató, 24 órás munkarendben ügyfélszolgálatot[^22] működtet. Az ügyfélszolgálat a hiba jellegétől függően a VPN menedzsmenttől, a kijelölt diszpécserektől, illetve az egyes felhasználóktól fogadja a bejelentéseket.
 
 A szolgáltató az EDR hálózaton kívülről érkező bejelentés jogosságáról visszahívással győződik meg. Ennek érdekében az Szervezet illetékes vezetője az érintett szervezetekkel történt egyeztetést követően megadja az ügyfélszolgálat részére a hibabejelentésre jogosult diszpécserek elérhetőségét.
 
@@ -914,5 +914,7 @@ q) folyamatos tájékoztatást kérni a menedzsmentközpont részére biztosí
 
 A Felhasználók, a Hálózatgazda értesítése mellett a hibaelhárítás rendjét, illetve a karbantartási feladatok ellátását közvetlenül a Szolgáltatóval, annak e célból fenntartott Ügyfélszolgálatán keresztül intézik az adott Felhasználó és a Szolgáltató között létrejövő egyedi megállapodás alapján. Az egyedi megállapodás tartalmát a Hálózatgazda hagyja jóvá.
 
-[^19]: A 2. számú melléklet a 90/2010. (III. 26.) Korm. rendelet 69. § (22) bekezdése szerint módosított szöveg.
-[^20]: Jelenlegi elérhetőség: 06-1/265-6500, 06-80/430-000, ugyfelszolgalat@pro-m.hu
+[^19]: Az 1. melléklet 25. pontja a 351/2010. (XII. 30.) Korm. rendelet 182. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet 26. pontja a 351/2010. (XII. 30.) Korm. rendelet 182. §-ával megállapított szöveg.
+[^21]: A 2. számú melléklet a 90/2010. (III. 26.) Korm. rendelet 69. § (22) bekezdése szerint módosított szöveg.
+[^22]: Jelenlegi elérhetőség: 06-1/265-6500, 06-80/430-000, ugyfelszolgalat@pro-m.hu
