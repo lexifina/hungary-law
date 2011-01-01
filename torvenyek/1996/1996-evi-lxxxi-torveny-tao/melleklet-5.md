@@ -14,7 +14,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 6. a Magyar Nemzeti Vagyonkezelő Zrt.,
 
-7. a jogszabályban meghatározott közszolgálati műsorszolgáltatók,
+7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 
 8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók,
 

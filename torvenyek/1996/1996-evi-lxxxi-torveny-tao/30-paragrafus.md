@@ -27,5 +27,3 @@ d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt
 (8) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettség teljesítésének részletes szabályait.
 
 (9) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a társasági adókedvezményhez kapcsolódóan bejelentett adatok módosításának feltételeit.
-
-[(10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a sportpolitikáért felelős miniszterrel egyetértésben – az országos sportági szakszövetség, a tagjaként működő sportszervezet, továbbá a közhasznú alapítvány által kiállított támogatási igazolás kiállításának, tartalmának, nyilvántartásának részletes szabályait rendeletben állapítsa meg.]

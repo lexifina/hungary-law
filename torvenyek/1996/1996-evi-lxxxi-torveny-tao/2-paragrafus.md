@@ -22,7 +22,9 @@ h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt
 
 i) európai területi együttműködési csoportosulás,
 
-j) az egyéni cég.
+j) az egyéni cég,
+
+k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC).
 
 (3) Belföldi illetőségű adózónak minősül a külföldi személy, ha üzletvezetésének helye belföld.
 
@@ -30,7 +32,7 @@ j) az egyéni cég.
 
 a) belföldi telephelyen végez vállalkozási tevékenységet, feltéve, hogy az üzletvezetésének helyére tekintettel nem tekinthető belföldi illetőségű adózónak (a továbbiakban: külföldi vállalkozó);
 
-b) belföldi jogszabály alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet, külföldi vállalkozó kamatot, jogdíjat, szolgáltatási díjat fizet (juttat) számára; kivéve, ha a külföldi személy, a külföldi illetőségű illetősége szerinti állam és a Magyar Köztársaság között hatályos egyezmény van a kettős adóztatás elkerülésére a jövedelem- és vagyonadók területén (a továbbiakban: külföldi szervezet);
+b)
 
 c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenítése vagy kivonása révén szerez jövedelmet (a továbbiakban: ingatlannal rendelkező társaság tagja).
 

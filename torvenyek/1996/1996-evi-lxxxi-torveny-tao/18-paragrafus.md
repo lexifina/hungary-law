@@ -20,7 +20,11 @@ b) viszonteladási árak módszerével, amelynél a szokásos piaci ár a eszkö
 
 c) költség és jövedelem módszerrel, amelynek során a szokásos piaci árat az önköltség szokásos haszonnal növelt értékében kell meghatározni;
 
-d) egyéb módszer alapján, ha a szokásos piaci ár az a)–c) pontokban foglaltak alapján nem határozható meg.
+d) ügyleti nettó nyereségen alapuló módszerrel, amely azt a – megfelelő vetítési alapra (költségek, árbevétel, eszközök) vetített – nettó nyereséget vizsgálja, amelyet az adózó az ügyleten realizál;
+
+e) nyereségmegosztásos módszerrel, amelynek során az ügyletből származó összevont nyereséget gazdaságilag indokolható alapon olyan arányban kell felosztani a kapcsolt vállalkozások között, ahogy független felek járnának el az ügyletben;
+
+f) egyéb módszer alapján, ha a szokásos piaci ár az a)–e) pontokban foglaltak alapján nem határozható meg.
 
 (3) Az (1)–(2) és (4) bekezdésben foglaltakat nem kell alkalmaznia az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónak a közös beszerzés és értékesítés érdekében létrehozott olyan kapcsolt vállalkozással – a versenyhátrány megszüntetése céljából – kötött tartós szerződésre, amely kapcsolt vállalkozásban a kis- és középvállalkozások szavazati joga együttesen meghaladja az 50 százalékot.
 

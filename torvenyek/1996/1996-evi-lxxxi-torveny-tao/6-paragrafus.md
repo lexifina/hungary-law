@@ -4,7 +4,7 @@
 
 (2) A belföldi illetőségű adózó és a külföldi vállalkozó az adózás előtti eredményt a beszámoló, ha az adóévre vonatkozó beszámoló készítésére az adóévről készítendő bevallás határidejéig nem kötelezett, könyvviteli zárlat alapján állapítja meg.
 
-(3) A társasági adó alapja a külföldi szervezetnél a 15. §-ban, az ingatlannal rendelkező társaság tagjának esetében a 15/A. §-ban meghatározott jövedelem.
+(3) A társasági adó alapja az ingatlannal rendelkező társaság tagjának esetében a 15/A. §-ban meghatározott jövedelem.
 
 (4) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú, a kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
 

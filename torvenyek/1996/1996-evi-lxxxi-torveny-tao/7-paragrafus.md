@@ -12,7 +12,7 @@ cs) a terven felüli értékcsökkenés adóévben visszaírt összege, kivéve 
 
 d) értékcsökkenési leírásként az 1. és 2. számú mellékletben foglalt előírások szerint az adóévre megállapított összeg, továbbá az immateriális jószág, a tárgyi eszköz állományból bármely jogcímen történő kivezetésekor – kivéve, ha az kedvezményezett eszközátruházás miatt következik be, és teljesülnek a 16. § (13)–(15) bekezdésében előírt feltételek –, a forgóeszközök közé való átsorolásakor, valamint egyszeres könyvvitelt vezetőnél az eszközhöz kapcsolódó kötelezettség részleges vagy teljes elengedésekor, átvállalásakor az eszköz számított nyilvántartási értékének a készletre vett hulladékanyag, haszonanyag értékét meghaladó része, feltéve minden esetben, hogy az eszköz értékcsökkenését az adózó a számvitelről szóló törvény szerint az adózás előtti eredmény terhére számolta el,
 
-dz) a bejelentett részesedés értékesítésének adóévi árfolyamnyeresége, feltéve, hogy a részesedést az adózó (ideértve jogelődjét is) az értékesítését megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván, továbbá a bejelentett részesedésre az adóévben visszaírt értékvesztés,
+dz) a bejelentett részesedés értékesítésének adóévi árfolyamnyeresége, továbbá a bejelentett részesedés nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében az elszámolt bevételnek az elszámolt ráfordítást meghaladó része, feltéve, hogy a részesedést az adózó (ideértve jogelődjét is) az értékesítését megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván, továbbá a bejelentett részesedésre az adóévben visszaírt értékvesztés,
 
 dzs) az adózó
 

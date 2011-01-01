@@ -54,7 +54,7 @@ a) az adózó által foglalkoztatottak átlagos állományi létszáma legalább
 
 b) az adózónál elszámolt, évesített bérköltség legalább az adóév első napján érvényes minimálbér adóévre számított összegének hatszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább háromszázszorosával meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
 
-(10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a rádiózásról és televíziózásról szóló 1996. évi I. törvény 5/B. §-a alapján az V. kategóriába kellene sorolni.
+(10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 
 (11)
 

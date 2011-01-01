@@ -64,13 +64,13 @@ ub) amely beruházást az adózó az adózás előtti eredmény csökkentéséne
 
 uc) amely beruházás alapján üzembe helyezett tárgyi eszközt az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév végéig üzemkörön kívüli ingatlanként is használ, vagy az egyéb berendezések, felszerelések, járművek közé, a forgóeszközök közé sorol át, illetve amely szellemi terméket az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév végéig a forgóeszközök közé sorol át, az említett első használat, illetve az átsorolás adóévéről készített bevallásban, kivéve, ha a forgóeszközök közé történő átsorolás az eszköz elháríthatatlan külső ok miatti megrongálódásának következménye,
 
-ud) amely beruházást, szellemi terméket, vagy amely beruházás alapján üzembe helyezett tárgyi eszközt az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév végéig elidegenít (természetbeni juttatásként átad, értékesít, apportál, térítés nélkül átad, valamint pénzügyi lízing keretében, részletfizetéssel, halasztott fizetéssel átvett eszközt a szerződés szerinti feltételek teljesülésének meghiúsulása miatt visszaad), az elidegenítés adóévéről készített bevallásban
+ud) amely beruházást, szellemi terméket, vagy amely beruházás alapján üzembe helyezett tárgyi eszközt az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév végéig elidegenít (juttatásként átad, értékesít, apportál, térítés nélkül átad, valamint pénzügyi lízing keretében, részletfizetéssel, halasztott fizetéssel átvett eszközt a szerződés szerinti feltételek teljesülésének meghiúsulása miatt visszaad), az elidegenítés adóévéről készített bevallásban
 
 azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére visszaadott tárgyi eszköz, szellemi termék után elszámolt összegre nem kell alkalmazni, de a jótállási időn belül cserébe kapott eszköz esetén az ua)–ud) alpont szerinti határidőt a cserére visszaadott eszköz üzembe helyezésétől, használatbavételétől kell számítani,
 
 v) a (6) bekezdésben, valamint a 7. § (19) bekezdésében foglaltakra is figyelemmel az átlagos állományi létszám előző adóévhez viszonyított csökkenése és a megelőző adóév első napján érvényes havi minimálbér adóévre számított összege szorzatának 20 százalékkal növelt összege, de legfeljebb a 7. § (1) bekezdés y) pontja alapján igénybevett kedvezmény 20 százalékkal növelt összege, azzal, hogy nem kell az igénybevett kedvezmény összegébe beszámítani a foglalkoztatottak átlagos állományi létszámának csökkenését megelőző negyedik adóévben vagy azt megelőzően az adózás előtti eredmény csökkentéseként figyelembe vett összeget.
 
-(2) Az adózó az (1) bekezdés j) pontjának alkalmazásakor nem veszi figyelembe azt az összeget, amellyel az (1) bekezdés k) pontja alapján növelte adózás előtti eredményét.
+(2)
 
 (3)
 
