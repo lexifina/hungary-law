@@ -6,8 +6,8 @@
 
 (2)[^3] Az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) az (1) bekezdés szerinti elismerési eljárás során a kérelmező által folytatott tanulmányok, valamint a megszerzett szakmai tapasztalat figyelembevételével, az elismerés alapjául szolgáló feltételeknek való megfeleléshez szükséges mértékű és tartalmú szakmai követelmények teljesítésének előírásával – az Etv. 31. §-a szerinti – alkalmazkodási időszak letöltését vagy szakmai alkalmassági vizsga (a továbbiakban: vizsga) letételét írja elő. Az EEKH további feltételek előírása nélkül ismeri el az oklevelet, ha a kérelmező elvégzett tanulmányai és megszerzett szakmai tapasztalata alapján az elismerés feltételei fennállnak.
 
-(3)[^4] Alkalmazkodási időszak letöltése vagy vizsga előírása esetén a kérelmező a (2) bekezdés szerinti határozat kézhezvételét követően tíz munkanapon belül nyilatkozik az EEKH-nak arról, hogy az előírt alkalmazkodási időszak letöltését vagy a vizsga letételét választja.
+(3)[^4] Alkalmazkodási időszak letöltése vagy vizsga előírása esetén a kérelmező a (2) bekezdés szerinti határozat kézhezvételét követően tizenöt napon belül nyilatkozik az EEKH-nak arról, hogy az előírt alkalmazkodási időszak letöltését vagy a vizsga letételét választja.
 
 [^2]: A 2. §-t az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés a) pontja hatályon kívül helyezte.
 [^3]: A 3. § (2) bekezdése az 50/2009. (XII. 30.) EüM rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^4]: A 3. § (3) bekezdése az 50/2009. (XII. 30.) EüM rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-4. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^29]
+4. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^31]
 
 Az oklevél, bizonyítvány külföldi elismertetéséhez szükséges hatósági bizonyítvány kiállítása iránti
 
@@ -40,4 +40,4 @@ e) alapnyilvántartási száma
 
 A *-gal megjelölt adatok megadása nem kötelező.
 
-[^29]: A 4. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés b) pontjával megállapított szöveg.
+[^31]: A 4. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés b) pontjával megállapított szöveg.
