@@ -8,7 +8,7 @@ b) a szellemi alkotáson fennálló jog jogosultja hozzájárulásával karitat�
 
 c) az anyagában vagy energetikai célra hasznosítható termékdíjköteles termék esetében hasznosítási céllal a hasznosító üzem vezetőjének,
 
-a vámhatóság vezetőjének jóváhagyásával átadja.
+a Nemzeti Adó- és Vámhivatal vezetőjének jóváhagyásával átadja.
 
 (3) Az elkobzott termékek közül meg kell semmisíteni:
 
@@ -16,7 +16,7 @@ a) az élelmiszerekről szóló 2003. évi LXXXII. törvény hatálya alá tarto
 
 b) azokat a termékeket, amelyek értékesítése valamely szellemi alkotáson fennálló tulajdonjogot sértene és a szellemi alkotáson fennálló jog jogosultja nem járul hozzá a megsemmisítés mellőzéséhez.
 
-(4) Nem kobozható el az áru, ha a 4/H. § (2) bekezdés c) pontja szerinti lefoglalás esetében részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – engedélyeztek. Egyéb jogcím alapján történő lefoglalás esetében részletfizetés vagy fizetési halasztás nem adható.
+(4) Nem kobozható el az áru, ha a 4/H. § (2) bekezdés c) pontja szerinti lefoglalás esetében részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – engedélyeztek. Egyéb jogcím alapján történő lefoglalás esetében részletfizetés vagy fizetési halasztás nem adható.
 
 (5) A vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt termék előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan vagy annak kezelése, tárolása, illetve őrzése – különösen a termék értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna.
 

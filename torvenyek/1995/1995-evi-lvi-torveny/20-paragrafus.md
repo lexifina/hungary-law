@@ -72,7 +72,7 @@ csomagolást a felhasználó számára forgalomba hozó kötelezett;
 
 19. nem kereskedelmi jellegű termék: olyan termékdíjköteles termék, amelynek sem a jellege, sem a mennyisége nem utal kereskedelmi célra, illetve amelynek behozatala alkalmi jellegű, és a termék birtokosa, annak közeli hozzátartozója személyes használatára vagy ajándékozás céljára szolgál;
 
-20. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a sajtóról szóló külön törvény által meghatározott sajtótermékek közül az időszaki lap egyes lapszámai, a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány, továbbá a térkép, ide nem értve a bankjegyet, az értékpapírt, az ISSN számmal rendelkező kiadványokat, továbbá a könyvet és tankönyvet;
+20. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény által meghatározott nyomtatott sajtótermékek, valamint a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány, továbbá a térkép, ide nem értve a bankjegyet, az értékpapírt, az ISSN számmal rendelkező kiadványokat, továbbá a könyvet és tankönyvet;
 
 21. rétegzett italcsomagolás: az a legalább 75%-ban papír alapanyagú (karton) csomagolás, amely aszeptikus technológiával töltött folyékony élelmiszer tárolására szolgál;
 
@@ -82,4 +82,6 @@ csomagolást a felhasználó számára forgalomba hozó kötelezett;
 
 24. újrahasználat: a terméknek az eredeti célra történő ismételt felhasználása, mely során a többször felhasználható, újratölthető termék a forgási ciklusból történő kilépésekor válik hulladékká;
 
-25. visszagyűjtés: használt vagy hulladékká vált termék – veszélyes hulladék esetén a veszélyes hulladékokra vonatkozó jogszabály szerinti – termelőtől, kereskedőtől, a lakosságtól, valamint egyéb szervezettől történő begyűjtése vagy szállítása előkezelésre vagy hasznosításra.
+25. visszagyűjtés: használt vagy hulladékká vált termék – veszélyes hulladék esetén a veszélyes hulladékokra vonatkozó jogszabály szerinti – termelőtől, kereskedőtől, a lakosságtól, valamint egyéb szervezettől történő begyűjtése vagy szállítása előkezelésre vagy hasznosításra,
+
+26. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve,

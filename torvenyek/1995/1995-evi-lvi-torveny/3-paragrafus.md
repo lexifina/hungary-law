@@ -8,7 +8,7 @@
 
 (4) Termékdíjjal kapcsolatos ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a kérelemre indult eljárásban az ügyfél által az eljárás megindulásáról kért értesítésre, továbbá az újrafelvételi eljárásra vonatkozó szabályokat.
 
-(5) Amennyiben jogszabály másként nem rendelkezik, a vámhatóság jár el a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során. A termékdíj adók módjára behajtható köztartozás.
+(5) Amennyiben jogszabály másként nem rendelkezik, a vámhatóság jár el a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során.
 
 (6) A kötelezett a termékdíjköteles termékkel végzett tevékenységét a Kt. végrehajtásáról szóló külön jogszabály szerint köteles a vámhatóságnál bejelenteni és nyilvántartásba vételét kérni.
 

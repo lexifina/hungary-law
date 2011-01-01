@@ -20,7 +20,7 @@ a) passzív módon akadályozza, a vámhatóság a termékdíjköteles terméket
 
 b) passzív módon akadályozza és felmerül a termékdíjköteles termék intézkedés alóli kivonásának lehetősége, a vámhatóság jogosult az akadályozó körülmény – az ellenőrzés alá vont személy költségére és felelősségére történő – elhárítására és az ellenőrzés lefolytatására, ennek keretében az Art. helyszíni ellenőrzésre vonatkozó rendelkezései szerint jogosult belépni és ellenőrzést folytatni olyan helyiségben, ahol azonosított és ellenőrzött forrásból származó adatok alapján valószínűsíthetően a környezetvédelmi termékdíjas jogszabályok megsértésével termékdíjköteles terméket tartanak, tárolnak, illetve állítanak elő;
 
-c) aktív módon akadályozza, a vámhatóság a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény rendelkezéseinek megfelelően kényszerítő eszközöket alkalmazhat.
+c) aktív módon akadályozza, a vámhatóság a Nemzeti Adó- és Vámhivatalról szóló törvény rendelkezéseinek megfelelően kényszerítő eszközöket alkalmazhat.
 
 (5) A vámhatóság az e törvény 3. §-ának (5) bekezdésében foglalt feladatainak ellátása céljából, valamint a birtokába került adatok ellenőrzéséhez, a személy és az áru azonosítása érdekében a következő nyilvántartásokból igényelhet adatot:
 
@@ -30,7 +30,7 @@ b) az áru és gépjármű azonosításához a gépjármű-nyilvántartásból,
 
 c)
 
-d) az állami adóhatóság adósnyilvántartásából,
+d)
 
 e) törvényi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
