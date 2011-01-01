@@ -6,7 +6,7 @@
 
 a) előkészíti a bv. szervezetre vonatkozó, az Országgyűlés és a Kormány hatáskörébe tartozó jogszabályok és egyéb döntések tervezeteit;
 
-b) rendeletalkotás és az állami irányítás egyéb jogi eszközei útján szabályozza a bv. szervezet tevékenységét;
+b) rendeletalkotás és normatív utasítás útján szabályozza a bv. szervezet tevékenységét;
 
 c) a Kormány döntésének végrehajtása érdekében, illetve a feladatkörében eljárva a bv. szervezet részére a törvényi keretek között feladatot határoz meg, és egyedi utasítást ad;
 
