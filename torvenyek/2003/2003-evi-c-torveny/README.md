@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2010-11-02 | 2010. évi CIII. törvény | 2003-100-00-00.25 |
 | 2010-12-02 | 2010. évi CIII. törvény | 2003-100-00-00.26 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2003-100-00-00.27 |
+| 2011-01-01 | 2010. évi CLXXXV. törvény | 2003-100-00-00.28 |

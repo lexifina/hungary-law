@@ -12,7 +12,7 @@ c) szabálytalan frekvenciahasználat esetén a jogsértéssel érintett éves f
 
 d) árprésre vonatkozó tilalom megsértése esetén a jogsértő árbevételének 0,5%-a;
 
-e) referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával kapcsolatos adatszolgáltatásra, továbbá a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított egyéb kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a; illetve
+e) a referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával valamint a hírközlési ágazati vizsgálattal kapcsolatos adatszolgáltatásra, továbbá a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított egyéb kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a; illetve
 
 f) az V. fejezet szerinti egyéb ügyekben, elektronikus hírközlésre vonatkozó szabály megsértése esetén a jogsértő árbevételének 0,1%-a;
 

@@ -12,6 +12,6 @@
 
 a) megállapítja a hálózati szolgáltatás és a ráépülő előfizetői szolgáltatás ára közötti különbség kötelező legkisebb mértékét, és a szolgáltatót a hálózati szolgáltatás árának megfelelő csökkentésére kötelezi, illetve
 
-b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tíz munkanapon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
+b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tizenöt napon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
 
 c) e törvényben, illetve külön jogszabályban megállapított keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmazhat.

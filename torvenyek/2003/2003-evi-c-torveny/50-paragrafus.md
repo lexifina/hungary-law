@@ -1,6 +1,6 @@
 50. § (1) A kérelmező a kérelemben a 41. § (1)–(2) bekezdésén túl bizonyítási indítványt is előterjeszthet.
 
-(2) A kérelmet az eljáró tanács annak beérkezését követően haladéktalanul megküldi a másik ügyfélnek, és legfeljebb tíz munkanapos határidő tűzésével felhívja, hogy észrevételeit és bizonyítékait terjessze elő, illetve a kérelmező részére közvetlenül küldje meg.
+(2) A kérelmet az eljáró tanács annak beérkezését követően haladéktalanul megküldi a másik ügyfélnek, és legfeljebb tizenöt napos határidő tűzésével felhívja, hogy észrevételeit és bizonyítékait terjessze elő, illetve a kérelmező részére közvetlenül küldje meg.
 
 (3) Az eljáró tanács jogvitás ügyekben tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik.
 

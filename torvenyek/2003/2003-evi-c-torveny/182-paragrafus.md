@@ -48,7 +48,7 @@ c) a rádiófrekvenciák használati joga átruházásának elveit és részlete
 
 d) az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására és kiadásának megtagadására vonatkozó részletes szabályokat, a frekvenciahasználati jog gyakorlásának feltételeit és a frekvenciahasználati engedélyben (frekvenciakijelölésben, rádióengedélyben illetőleg frekvenciahasználati jogosultságban) foglalható feltételek részletes szabályait, valamint a frekvenciahasználati jog érvényességének idejét;
 
-e) a polgári célú frekvenciák használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+e)
 
 f) idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
 
@@ -66,11 +66,11 @@ k) a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, 
 
 a) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendszert;
 
-b) a Hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a Hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
+b)
 
 c)
 
-d) az azonosítók lekötéséért és használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+d)
 
 e) a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait;
 
@@ -104,7 +104,7 @@ s) az előfizetői szerződésekre, azok megkötésére vonatkozó részletes sz
 
 t) a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok rendelkezésére bocsátásának módját.
 
-(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszterrel együttesen kiadott rendeletben állapítsa meg.
+(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
 (6)
 

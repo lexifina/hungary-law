@@ -14,7 +14,7 @@ d) az elektronikus hírközlési szolgáltatás, illetve amennyiben a bejelentő
 
 e) a szolgáltatásnyújtás megkezdésének tervezett időpontja.
 
-(3) A Hatóság a bejelentőt a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított öt munkanapon belül a nyilvántartásba vétel tényét visszaigazolja, egyúttal a hírközlési szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
+(3) A Hatóság a bejelentőt a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított nyolc napon belül a nyilvántartásba vétel tényét visszaigazolja, egyúttal a hírközlési szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
 
 (4) A Hatóság a szolgáltatót a szolgáltató által a (2) bekezdés d) pontja szerint adott leírás alapján, az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások rendszerezésére vonatkozóan a Hatóság által kialakított és közzétett osztályozás szerint jegyzi be nyilvántartásába.
 

@@ -6,7 +6,7 @@
 
 (3) A rádiófrekvencia felhasználásának összhangban kell lennie a frekvenciasávok nemzeti felosztására, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és a külön jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
 
-(4) A 69. § (6) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati műsorszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a műsorszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
+(4) A 69. § (6) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati médiaszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a médiaszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
 
 (5) A frekvenciahasználati jog külön jogszabályban meghatározott esetekben és feltételekkel ruházható át.
 

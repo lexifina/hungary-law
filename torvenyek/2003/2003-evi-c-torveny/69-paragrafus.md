@@ -10,7 +10,7 @@
 
 (5) A Hatóság a rádiófrekvenciás spektrum hatékony és megfelelő használata, a káros zavarok elkerülése érdekében, illetőleg külön jogszabályban meghatározott közegészségügyi szempontok alapján a frekvenciahasználatot korlátozhatja vagy megtagadhatja.
 
-(6) A közszolgálati műsorszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati műsorszolgáltató kérelme elsőbbséget élvez.
+(6) A közszolgálati médiaszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati médiaszolgáltató kérelme elsőbbséget élvez.
 
 (7) A frekvenciagazdálkodó hatóságnak a frekvenciahasználatra irányuló kérelmet el kell utasítania, ha
 
