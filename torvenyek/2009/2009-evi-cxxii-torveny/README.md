@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2009-12-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-122-00-00.1 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 2009-122-00-00.2 |
 | 2010-08-21 | 2010. évi XC. törvény | 2009-122-00-00.3 |
+| 2011-01-01 | 2010. évi CLX. törvény | 2009-122-00-00.4 |
