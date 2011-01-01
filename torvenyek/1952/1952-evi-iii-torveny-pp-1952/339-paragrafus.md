@@ -32,7 +32,7 @@ m) az internálásban, a kitelepítésben, az őrizetbevételben, valamint a kö
 
 n) a családtámogatási ellátásról rendelkező, illetve a társadalombiztosítási,
 
-o) a vagyonátadó bizottságnak a vagyonátadás tárgyában hozott,
+o) a vagyonátadó bizottságnak, illetve a Kormány általános hatáskörű területi államigazgatási szervének a vagyonátadás és a használat tárgyában hozott határozatát,
 
 p) lakás vagy lakrész igénybevételét elrendelő határozat bírósági felülvizsgálata során, továbbá
 

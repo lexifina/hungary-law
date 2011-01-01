@@ -10,7 +10,7 @@ c) az egészségbiztosítás pénzbeli ellátásaival – ideértve a baleseti t
 
 d) illetékes az a munkaügyi bíróság, amelynek területén a felperes belföldi lakóhelye, ennek hiányában tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye – található,
 
-e) ha az elsőfokú határozatot hozó közigazgatási szerv illetékessége az egész országra kiterjed, továbbá ha az ügyben a fővárosi székhelyű közigazgatási szerv kizárólagos illetékességgel jár el, a perre a Fővárosi Munkaügyi Bíróság kizárólagosan illetékes,
+e) ha az elsőfokú határozatot hozó közigazgatási szerv illetékessége az egész országra kiterjed, továbbá ha az ügyben a fővárosi székhelyű közigazgatási szerv kizárólagos illetékességgel jár el, a perre – törvény eltérő rendelkezése hiányában – a Fővárosi Munkaügyi Bíróság kizárólagosan illetékes,
 
 f) a bíróság a társadalombiztosítási határozatot – a méltányossági jogkörben hozott határozat kivételével – megváltoztathatja,
 

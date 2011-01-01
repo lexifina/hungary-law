@@ -1,9 +1,7 @@
 ## XXI. Fejezet
 
-## A sajtóhelyreigazítási eljárás
+## A sajtó-helyreigazítási eljárás
 
-342. § (1) Sajtóhelyreigazítást [Ptk. 79. §] az érintett személy a közlemény megjelenésétől, illetőleg a közvetítéstől számított harminc napon belül írásban kérheti a sajtótól. A helyreigazítást az érintett személyen kívül, de az ő hozzájárulásával a feladatkörében érintett miniszter – bíró és bírósági dolgozó hivatalos működésével összefüggően az Országos Igazságszolgáltatási Tanács elnöke – is kérheti, ha a valótlan tartalmú közlemény a közérdeket sérti.
+342. § (1) Helyreigazításának a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti közzétételét az érintett személy vagy szervezet az általa vitatott közlemény közzétételétől számított harminc napon belül írásban kérheti a médiatartalom-szolgáltatótól vagy a hírügynökségtől.
 
-(2) A határidőben kért helyreigazítás közlését csak akkor lehet megtagadni, ha a helyreigazítási kérelemben előadottak valósága nyomban megcáfolható.
-
-(3)–(4)
+(2) A határidőben kért helyreigazítás közzétételét csak akkor lehet megtagadni, ha a kérelemben előadottak valósága nyomban megcáfolható.
