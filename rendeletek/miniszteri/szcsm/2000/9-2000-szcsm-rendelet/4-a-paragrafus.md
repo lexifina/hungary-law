@@ -26,6 +26,7 @@ e) a 3. § (5) bekezdésének e) pontja szerinti minősített továbbképzés es
 
 (5) Az (1)–(4) bekezdés szerinti nyilvántartásokat (a továbbiakban együtt: továbbképzési nyilvántartás) a továbbképzés szervezőjének a továbbképzés lezárultát követően négy évig meg kell őrizni.
 
-(6) A Bizottság, a Titkárság, illetve az általuk kijelölt szakértő jogosult a továbbképzési nyilvántartásba a helyszínen betekinteni. A betekintési jog gyakorlásához a továbbképzés szervezője köteles a továbbképzési nyilvántartást rendelkezésre bocsátani és az ahhoz kapcsolódó felvilágosítást megadni.
+(6)[^26] Az Intézet, illetve az általa kijelölt szakértő jogosult a továbbképzési nyilvántartásba a helyszínen betekinteni. A betekintési jog gyakorlásához a továbbképzés szervezője köteles a továbbképzési nyilvántartást rendelkezésre bocsátani és az ahhoz kapcsolódó felvilágosítást megadni.
 
 [^25]: A 4/A. §-t a 12/2006. (XII. 27.) SZMM rendelet 5. §-a iktatta be.
+[^26]: A 4/A. § (6) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés e) pontja szerint módosított szöveg.

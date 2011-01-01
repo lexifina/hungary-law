@@ -2,7 +2,7 @@
 
 ## megjelentetéséhez
 
-## A Bizottság által minősített továbbképzési programnak a szociális ágazat irányításáért felelős minisztérium hivatalos lapjában való megjelenéséhez
+## A Nemzeti Család- és Szociálpolitikai Intézet által minősített továbbképzési programnak a szociális ágazat irányításáért felelős minisztérium hivatalos lapjában való megjelenéséhez
 
 | 1. | A továbbképzési programot indító megnevezése, címe: |  |
 
@@ -40,9 +40,9 @@
 
 ## A táblázat 1. pontjában megnevezett szervezet nevében kijelentem, hogy a közölt adatok – a 9. és 10. pontok kivételével – a minősített pályázattól nem térnek el, a valóságnak megfelelnek.
 
-## Tudomásul veszem, hogy a közölt adatoktól a szociális ágazat irányításáért felelő miniszter által vezetett minisztérium hivatalos lapjában való megjelenés után nem áll módunkban eltérni, illetve a kiküszöbölhetetlen változásokat (amelyek nem érinthetik az egy főre jutó részvételi díj mértékét) előzetesen kötelesek vagyunk írásban egyeztetni az Országos Szociális és Gyermekvédelmi Továbbképzési és Szakvizsga Bizottság Titkárságával.
+## Tudomásul veszem, hogy a közölt adatoktól a szociális ágazat irányításáért felelő miniszter által vezetett minisztérium hivatalos lapjában való megjelenés után nem áll módunkban eltérni, illetve a kiküszöbölhetetlen változásokat (amelyek nem érinthetik az egy főre jutó részvételi díj mértékét) előzetesen kötelesek vagyunk írásban egyeztetni a Nemzeti Család- és Szociálpolitikai Intézettel.
 
-## Kelt: ......................................................., ............ év ................................... hónap ..... napján
+## Kelt: ......................................................., ............ év ................................... hónap ..... napján
 
 ## P. H.
 
@@ -50,6 +50,6 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^86]
+3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^92]
 
-[^86]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^92]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés m) pontja szerint módosított szöveg.
