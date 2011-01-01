@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-5-00-00.24 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2006-5-00-00.25 |
 | 2010-12-31 | 2010. évi CLXXIX. törvény | 2006-5-00-00.26 |
+| 2011-01-01 | 2010. évi CXLVIII. törvény | 2006-5-00-00.27 |

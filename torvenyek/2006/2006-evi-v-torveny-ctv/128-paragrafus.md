@@ -8,18 +8,18 @@ c) a céginformációs szolgálat működésére és a fizetendő költségtér�
 
 d) a felügyelőbiztos díjára,
 
-e) a közigazgatási informatikáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
+e) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
 
-f) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
+f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
 
-g) a közigazgatási informatikáért felelős miniszterrel egyetértésben a cég honlapján történő közzétételre,
+g) az e-közigazgatásért felelős miniszterrel egyetértésben a cég honlapján történő közzétételre,
 
-h) a közigazgatási informatikáért felelős miniszterrel egyetértésben az automatikus és a hivatalbóli bejegyzési eljárásra, az automatikus és a hivatalbóli bejegyzésekre,
+h) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az automatikus és a hivatalbóli bejegyzési eljárásra, az automatikus és a hivatalbóli bejegyzésekre,
 
-i) a közigazgatási informatikáért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
+i) az e-közigazgatásért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
 
 j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, továbbá a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra,
 
-k) a költségvetésért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
+k) az államháztartásért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
 
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
