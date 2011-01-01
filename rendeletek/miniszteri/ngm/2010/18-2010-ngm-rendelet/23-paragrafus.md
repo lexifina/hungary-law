@@ -1,0 +1,1 @@
+## 22. § A JötR. 2010. december 31-én hatályos 61/A. § (1) bekezdése szerint 2011. január 1-jét megelőzően előállított vagy beszerzett E85 legkésőbb 2011. március 31-éig a Jöt. 52. § (2) bekezdés a) pontjának alkalmazása mellett bocsátható szabadforgalomba.
