@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő 22 munkanapon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
+(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő harminc napon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
 
 a) a technikai, biztonsági és egyéb működési feltételek, illetve személyi feltételek – így különösen a büntetlen előéletre, a szolgáltatás végzését kizáró foglalkozástól eltiltás hiányára és a szakképzettségre vonatkozó feltételek – megléte és folyamatos biztosítása;
 

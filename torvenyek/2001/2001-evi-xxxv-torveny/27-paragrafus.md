@@ -12,7 +12,7 @@ b) a fokozott biztonságú, illetve minősített elektronikus aláírás előál
 
 c) a Hatóságnak e törvény alapján járó igazgatási szolgáltatási díjak mértékét, az adópolitikáért felelős miniszterrel egyetértésben;
 
-d) a közigazgatási informatikáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
+d) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
 
 e) az e törvény szerinti elektronikus aláírási szolgáltatási szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
@@ -22,6 +22,6 @@ a) azoknak a jogviszonyoknak a körét, melyekkel kapcsolatos államigazgatási 
 
 b) az elektronikusan aláírt elektronikus dokumentumok és elektronikus aláírás alkalmazásával történő ügyintézés sajátos szabályait.
 
-(4) Felhatalmazást kap a közigazgatási informatikáért felelős miniszter, hogy rendelettel szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
+(4) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
 
 (5) Felhatalmazást kapnak a helyi önkormányzatok, hogy rendeletben szabályozzák azoknak a lakossági szolgáltatásoknak a körét, illetve azoknak az államigazgatási eljárásoknak a körét, amelyekben – az eljárásra irányadó magasabb szintű jogszabályban foglaltak figyelembevételével – illetékességi körükben lehetőséget adnak a kizárólag elektronikusan aláírt elektronikus dokumentumokkal történő ügyintézésre.

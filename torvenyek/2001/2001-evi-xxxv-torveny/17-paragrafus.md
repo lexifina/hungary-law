@@ -14,7 +14,7 @@ d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok seg�
 
 (3)
 
-(4) A Hatóság az érdemi döntést a kérelem előterjesztésétől számított 45 munkanapon belül köteles meghozni.
+(4) A Hatóság ügyintézési határideje két hónap.
 
 (5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 
