@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-2-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1993-2-00-00.19 |
+| 2011-01-01 | 2010. évi CLII. törvény | 1993-2-00-00.20 |

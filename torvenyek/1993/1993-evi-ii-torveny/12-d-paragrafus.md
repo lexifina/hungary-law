@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben meghatározott utak közül a védett vagy védelemre tervezett természeti területhez tartozók a Magyar Állam tulajdonába és a védett vagy védelemre tervezett természeti területen működő igazgatóság vagyonkezelésébe kerülnek.
 
-(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított negyvenöt munkanapon belül fellebbezhet.
+(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított két hónapon belül fellebbezhet.
 
 (4) Fellebbezés hiányában az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
 
