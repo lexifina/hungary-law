@@ -2012,7 +2012,13 @@ büntetés-végrehajtási bíró
 
 Címzett:
 
-| 314/b. | Felhívás a közérdekű munka megkezdésére. |
+|  | Felhívás a közérdekű munka megkezdésére. |
+
+| 314/b. |  |
+
+A közérdekű munka végrehajtását a ............................................................................a megyei (fővárosi) igazságügyi szolgálat ellenőrzi.
+
+Kérem, hogy a közérdekű munka kijelölt napon való megkezdését a ................................................. megyei (fővárosi) igazságügyi szolgálattal közölje.
 
 ..................................................................... Megyei Bíróság Büntetés-végrehajtási Csoportja
 
@@ -2171,4 +2177,4 @@ Nyilvántartólap közérdekű munkára ítéltről
 | 351. | A pártfogó felügyelet alá helyezettek ügykönyve. |  |  |  |  |
 
 [^268]: A 159. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^269]: A mellékletet a 23/2003. (VI. 26.) IM rendelet 63. §-a iktatta be, szövege a 11/2010. (III. 31.) IRM rendelet 28. §-ával megállapított szöveg.
+[^269]: A mellékletet a 23/2003. (VI. 26.) IM rendelet 63. §-a iktatta be, szövege a 11/2010. (III. 31.) IRM rendelet 28. §-ával megállapított, a 30/2010. (XII. 31.) KIM rendelet 9. §-a szerint módosított szöveg.

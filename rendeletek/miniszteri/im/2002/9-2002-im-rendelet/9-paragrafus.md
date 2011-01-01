@@ -36,7 +36,7 @@ j)[^28] a végrehajtást foganatosító javítóintézetet, ha a bíróság olya
 
 k)[^29] ha a büntetőeljárásban – amelyben a szabadságvesztést kiszabták – óvadék letételére került sor, az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölésével.
 
-(3)[^30] Arról az elítéltről, aki nem bocsátható feltételes szabadságra, az értesítőlapot zöld színű űrlapon kell kiállítani.
+(3)[^30]
 
 (4)[^31] Ha a bíróság a szabadlábon lévő terhelttel szemben a szabadságvesztés azonnali foganatba vételét [Be. 596. § (1) bek.], illetőleg a szabadságvesztés végrehajtásának biztosítására irányuló intézkedést [Be. 596. § (3)–(4) bek.] rendeli el, ezt a tanács elnöke – az intézkedés ellenőrzésére jogosult rendőrség megjelölésével – az értesítőlap megjegyzés rovatában feltünteti.
 
@@ -52,6 +52,6 @@ k)[^29] ha a büntetőeljárásban – amelyben a szabadságvesztést kiszabták
 [^27]: A 9. § (2) bekezdés új i) pontját a a 11/2010. (III. 31.) IRM rendelet 12. §-a iktatta be, egyidejűleg az eredeti i)–j) pont megjelölését j)–k) pontra változtatta.
 [^28]: A 9. § (2) bekezdés eredeti i) pontjának megjelölését a 11/2010. (III. 31.) IRM rendelet 12. §-a j) pontra változtatta.
 [^29]: A 9. § (2) bekezdésének j) pontját a 23/2003. (VI. 26.) IM rendelet 6. §-ának (4) bekezdése iktatta be, szövege a 11/2006. (VII. 25.) IRM rendelet 3. §-ával megállapított szöveg, megjelölését a 11/2010. (III. 31.) IRM rendelet 12. §-a k) pontra változtatta.
-[^30]: A 9. § (3) bekezdését a 11/2010. (III. 31.) IRM rendelet 43. § (3) bekezdése hatályon kívül helyezte. [E módosító rendelet 44. § (3) bekezdése alapján a rendelkezés 2011. január 1-jén lép hatályba.]
+[^30]: A 9. § (3) bekezdését a 11/2010. (III. 31.) IRM rendelet 43. § (3) bekezdése hatályon kívül helyezte.
 [^31]: A 9. § új (4) bekezdését a 23/2003. (VI. 26.) IM rendelet 6. §-ának (5) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
 [^32]: A 9. § eredeti (4) bekezdésének számozását a 23/2003. (VI. 26.) IM rendelet 6. §-ának (5) bekezdése (5) bekezdésre változtatta.
