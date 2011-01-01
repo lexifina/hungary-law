@@ -1,4 +1,4 @@
-14. § Felhatalmazást kap az adópolitikáért felelős miniszter és a honvédelemért felelős miniszter arra, hogy együttes rendeletben határozza meg
+14. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg
 
 a) a – vámeljárások során alkalmazandó – NATO okmányok körét, alkalmazásuk és kiadmányozásuk eljárási szabályait,
 
