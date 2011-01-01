@@ -1,10 +1,10 @@
 ## 2/C. §[^17] A 2. § (1) bekezdés e) pontja, (3), (4) és (6) bekezdése, valamint a 2/E. § a)–b) pontja és a 3/B. § szerinti esetben a másodfokú eljárás az Országos Tisztifőorvosi Hivatal hatáskörébe tartozik.
 
-## 2/D. §[^18] A Kormány a gyógyászati segédeszközök ismertetésére vonatkozó, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. §-a szerinti, az Országos Tisztifőorvosi Hivatal által lefolytatott eljárásokban a tekintetben, hogy
+## 2/D. §[^18] A Kormány a gyógyászati segédeszközök ismertetésére vonatkozó, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. §-a szerinti, az Országos Gyógyszerészeti Intézet által lefolytatott eljárásokban a tekintetben, hogy
 
 a) az eljárás tárgyát képező eszköz gyógyászati segédeszköznek minősül-e,
 
 b) a gyógyászati segédeszköz ismertető dokumentáció tartalma a jogszabályi rendelkezésekkel összhangban áll-e,
 
 [^17]: A 2/C. §-t a 19/2007. (II. 20.) Korm. rendelet 2. §-a iktatta be, szövege a 225/2010. (VIII. 12.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^18]: A 2/D. §-t a 19/2007. (II. 20.) Korm. rendelet 2. §-a iktatta be, szövege a 338/2008. (XII. 30.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 225/2010. (VIII. 12.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 2/D. §-t a 19/2007. (II. 20.) Korm. rendelet 2. §-a iktatta be, szövege a 338/2008. (XII. 30.) Korm. rendelet 5. § (4) bekezdésével megállapított, nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 129. §-a szerint módosított szöveg.
