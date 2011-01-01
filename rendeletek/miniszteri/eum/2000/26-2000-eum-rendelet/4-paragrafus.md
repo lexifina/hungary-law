@@ -28,7 +28,7 @@ f) a tevékenység során az 5. § (8) bekezdésében meghatározott munkaidő s
 
 g) a tevékenységhez minimálisan szükséges munkavállalói létszám meghatározásáról.
 
-(3)[^9] A munkáltató – amennyiben az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: OMMF) területileg illetékes munkavédelmi felügyelősége (a továbbiakban: munkavédelmi felügyelőség) indokolt esetben nem ír elő nagyobb gyakoriságot – a kockázatbecslést legalább kétévenként megismételteti. A honvédelemért felelős miniszter irányítása alá tartozó minisztérium (a továbbiakban: HM) és a Magyar Honvédség (a továbbiakban: MH) alárendeltségébe tartozó katonai szervezeteknél az MH szakhatóságai – a munkavédelmi felügyelőség tájékoztatása mellett – jogosultak a kockázatbecslés elrendelésére.
+(3)[^9] A munkáltató – amennyiben a fővárosi és megyei kormányhivatal munkavédelmi felügyelősége indokolt esetben nem ír elő nagyobb gyakoriságot – a kockázatbecslést legalább kétévenként megismételteti. A honvédelemért felelős miniszter irányítása alá tartozó minisztérium (a továbbiakban: HM) és a Magyar Honvédség (a továbbiakban: MH) alárendeltségébe tartozó katonai szervezeteknél az MH szakhatóságai – a munkavédelmi felügyelőség tájékoztatása mellett – jogosultak a kockázatbecslés elrendelésére.
 
 (4) A kockázatbecslést meg kell ismételni minden olyan változás esetében, amely hatással lehet a munkavállalók rákkeltővel történő expozíciójára.
 
@@ -36,6 +36,6 @@ g) a tevékenységhez minimálisan szükséges munkavállalói létszám meghat�
 
 (6)[^11] A munkavédelmi felügyelőség kérésére a munkáltató köteles a kockázat-becslés és a kockázatkezelés során birtokába jutott valamennyi adatot, információt átadni.
 
-[^9]: A 4. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (5) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének b) pontja szerint módosított szöveg.
 [^11]: A 4. § (6) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének d) pontja szerint módosított szöveg.
