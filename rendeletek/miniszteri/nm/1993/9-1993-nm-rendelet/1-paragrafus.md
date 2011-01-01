@@ -1,4 +1,4 @@
-1. §[^2] (1) Az egészségügyi intézmény (a továbbiakban: intézmény) az aktív minősítésű osztályain nyújtott ellátás esetében a 3. számú mellékletben foglalt homogén betegségcsoportokhoz (a továbbiakban: HBCs) rendelt súlyszám alapján részesül díjazásban. A HBCs-kbe sorolás módszertanát a egészségügyi miniszter[^3] tájékoztatóban közzéteszi.[^4]
+1. §[^2] (1)[^3] Az egészségügyi intézmény (a továbbiakban: intézmény) az aktív minősítésű osztályain nyújtott ellátás esetében a 3. számú mellékletben foglalt homogén betegségcsoportokhoz (a továbbiakban: HBCs) rendelt súlyszám alapján részesül díjazásban. A HBCs-kbe sorolás módszertanát az egészségügyért felelős miniszter tájékoztatóban közzéteszi.[^4]
 
 (2)[^5] Az ellátott eset HBCs-jének meghatározásában a besorolási tényezőket a (3)–(4) bekezdésekben meghatározott sorrendben kell a csoportosításnál figyelembe venni.
 
@@ -64,7 +64,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (13)[^18] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 18. §-a (6) bekezdésének m) pontja szerinti fogyatékos személy kísérője, a beteg vagy koraszülött gyermekét szoptató anya, továbbá az ellátásban részesülő, az ellátás igénybevételének megkezdésekor a 14. életévét be nem töltött biztosított szülője, törvényes képviselője és közeli hozzátartozója ellátásának finanszírozása napidíjjal történik, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,02-szorosa.
 
-(14)[^19] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
+(14)[^19] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek, valamint a (21) bekezdésben foglalt esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
 
 (15)[^20] A sürgősségi betegellátásban használt 0 alsó határnapos, illetve 6–24 órás kezelésre az azonos fődiagnózisnak megfelelő ,,M'' jelű HBCs szerinti garanciális ellátási szabály az irányadó.
 
@@ -72,14 +72,22 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (17)[^22]
 
-(18)[^23] Az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az illetékes szakmai kollégiumot és az Országos Szakfelügyeletet tagok delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot az OEP működteti.
+(18)[^23] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az illetékes szakmai kollégiumot és az Országos Szakfelügyeletet tagok delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot az OEP működteti.
 
 (19)[^24] Az (1) bekezdés szerint kerül finanszírozásra az Országos Gyógyszerészeti Intézet által a külön jogszabályban foglalt eljárásrend szerint engedélyezett – az egészségügyi miniszter által tájékoztatóban közzétett, a homogén betegségcsoportok 5.0 verzióhoz kapcsolódó Besorolási Kézikönyv besoroló táblájában szereplő protokollokban foglalt, továbbá a Besorolási Kézikönyv Függelékében kihirdetett, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban foglalt – indikáción túli gyógyszeres kezelés.
 
 (20)[^25] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
 
+(21)[^26] A *,++ 16M 7490, 7491 és 7492 HBCs-k – a határnapon belüli ismételt felvételre vonatkozó szabálytól eltérően –
+
+a) kúraszerű ellátásként, a 92249 Intravénás Immunglobulin kezelés (kezelési napban) OENO esetén, egy ellátási alkalommal egyszer számolhatóak el, figyelembe véve a felső határnapot,
+
+b) kúraszerű ellátásként, a 92256 Subcután Immunglobulin kezelés (28 napos kezelési ciklusra) OENO esetén, egy ellátási alkalommal maximum három 28 napos kezelési ciklusként – a tényleges kezelési időszaknak és a felső határnapnak megfelelően – számolhatóak el,
+
+c) kórházi ellátás kiegészítő HBCs-jeként, a kórházi ellátás időtartamának megfelelően – figyelembe véve a megelőző azonos ellátás felső határnapját – felső határnaponként egyszer, egy ellátási alkalommal annyiszor számolhatóak el, amennyi a kórházi ellátás időtartama szerint esedékes.
+
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^3]: A szervezeti változásoknak megfelelő elnevezés.
+[^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^4]: Lásd a Népjóléti Közlöny 1993. évi 7. számát, a 8003/2005. (EüK. 6.) EüM tájékozatót, a 8005/2005. (EüK. 13.) EüM tájékozatót, a 8007/2005. (EüK. 14.) EüM tájékozatót, a 8009/2005. (EüK. 18.) EüM tájékozatót, a 8010/2005. (EüK. 18.) EüM tájékozatót, a 8012/2005. (EüK. 20.) EüM tájékozatót, a 8014/2005. (EüK. 22.) EüM tájékozatót, a 8002/2006. (EüK. 3.) EüM tájékozatót, a 8006/2006. (EüK. 5.) EüM tájékozatót, a 8008/2006. (EüK. 15.) EüM tájékozatót, a 8010/2006. (EüK. 22.) EüM tájékozatót, a 8003/2007. (EüK. 8.) EüM tájékozatót, a 8004/2007. (EüK. 11.) EüM tájékozatót, a 8005/2007. (EüK. 11.) EüM tájékozatót, a 8009/2007. (EüK. 13.) EüM tájékozatót, a 8011/2007. (EüK. 16.) EüM tájékozatót, a 8012/2007. (EüK. 17.) EüM tájékozatót, a 8015/2007. (EüK. 21.) EüM tájékozatót, a 8001/2008. (EüK. 4.) EüM tájékozatót, a 8003/2008. (EüK. 7.) EüM tájékozatót, a 8005/2008. (EüK. 12.) EüM tájékozatót, a 8008/2008. (HÉ 40.) EüM tájékozatót, a 8009/2008. (HÉ 43.) EüM tájékozatót, a 2/2009. (II. 6.) EüM tájékozatót, a 4/2009. (VIII. 28.) EüM tájékozatót, a 7/2009. (XII. 11.) EüM tájékozatót.
 [^5]: Az 1. § (2) bekezdése a 7/1999. (IV. 7.) EüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (3) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
@@ -95,10 +103,11 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^16]: Az 1. § (10) bekezdése a 7/2001. (III. 2.) EüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. § (10) bekezdése a 25/2001. (VII. 5.) EüM rendelet 5. §-ának (3) bekezdése szerint módosított szöveg.
 [^17]: Az 1. § (11) bekezdését a 7/1999. (IV. 7.) EüM rendelet 5. §-a (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 49/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^18]: Az 1. § (13) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 15/2007. (III. 28.) EüM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a rendelkezést a 2007. június havi kifizetésektől kell alkalmazni.
-[^19]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított, a 29/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.
 [^20]: Az 1. § új (15) bekezdését a 13/2000. (V. 12.) EüM rendelet 1.§-ának (4) bekezdése iktatta be.
 [^21]: Az 1. § eredeti (15) bekezdés számozását a 13/2000. (V. 12.) EüM rendelet 1. §-ának (4) bekezdése (16) bekezdésre változtatta. A 7/2001. (III. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja módosította.
 [^22]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^23]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege az 55/2008. (XII. 31.) EüM rendelet 15. §-a szerint módosított szöveg.
+[^23]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege az 55/2008. (XII. 31.) EüM rendelet 15. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a szerint módosított szöveg.
 [^24]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^25]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+[^26]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be.
