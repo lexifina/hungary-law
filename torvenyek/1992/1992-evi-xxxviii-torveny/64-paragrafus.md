@@ -2,7 +2,7 @@
 
 (2) A helyi önkormányzatokat megillető normatív hozzájárulások és támogatások – ezen belül külön a feladatmutatók alapján járó hozzájárulások és támogatások – jogcímeit és igénybevételük feltételeit a költségvetési törvény határozza meg.
 
-(3) A helyi önkormányzatokat megillető, normatív módon elosztott, központi költségvetési kapcsolatokból származó források összegét önkormányzatonként és jogcímenként az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter együttes rendeletben teszi közzé a 71. § (1) bekezdésében meghatározott határidőt megelőző 15. napig.
+(3) A helyi önkormányzatokat megillető, normatív módon elosztott, központi költségvetési kapcsolatokból származó források összegét önkormányzatonként és jogcímenként – a költségvetésről szóló törvény felhatalmazása alapján – az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter egyetértésével kiadott rendeletben teszi közzé a 71. § (1) bekezdésében meghatározott határidőt megelőző 15. napig.
 
 (4) Az államháztartásért felelős miniszter által – a helyi önkormányzatokért felelős miniszterrel, valamint az érintett ágazati miniszterrel együttműködve – kibocsátott tájékoztató alapján a helyi önkormányzat a kincstár útján az érintett jogcímekre kiegészítő igénylést nyújthat be,
 
@@ -10,7 +10,7 @@ a) ha a helyi önkormányzatokat megillető normatív hozzájárulások és tám
 
 b) ha a helyi önkormányzatok számára megállapított, központi költségvetési kapcsolatokból származó források a felelősségi körükön kívül eső ok miatt különböznek a költségvetési törvény alapján járó összegtől.
 
-Az egyes helyi önkormányzatokat érintő finanszírozási különbözeteket az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter együttes rendeletben teszi közzé. A különbözettel a költségvetési törvényben a helyi önkormányzatok számára megállapított állami támogatási előirányzatok nem módosulnak, a helyi önkormányzat költségvetési rendeletében módosítja a központi költségvetésből származó bevételeinek előirányzatát.
+Az egyes helyi önkormányzatokat érintő finanszírozási különbözeteket – a költségvetésről szóló törvény felhatalmazása alapján – az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszter egyetértésével kiadott rendeletben teszi közzé.
 
 (5) A helyi önkormányzat év közben a kincstár útján lemondhat a számára feladatmutató alapján megállapított normatív hozzájárulások és támogatások előirányzatáról vagy annak egy részéről, illetve – ha törvény másként nem rendelkezik – pótlólagos igénylést nyújthat be ezen előirányzatokra a következők szerint:
 

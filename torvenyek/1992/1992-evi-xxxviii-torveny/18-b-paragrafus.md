@@ -6,7 +6,7 @@ b) beszámolásra és kettős könyvvezetésre kötelezett a Magyar Állam közp
 
 c) gondoskodik az állam által vállalt kezességek, garanciák, viszontgaranciák és nyújtott hitelek, az állam nemzetközi pénzügyi és számviteli elszámolásainak, a többéves kihatással járó pénzügyi kötelezettségvállalásainak, az állam követeléseinek nyilvántartása, a kötelezettségek teljesítése, követelések kezelése, visszterhes támogatások visszafizetése jogszabályban meghatározott feladatainak ellátásáról, valamint a központi költségvetés 108/A. §-ban részletezett külföldi követeléseinek nyilvántartásáról, dokumentálásáról, a követelések állományát rögzítő számlák vezetéséről és az ezekről szóló negyedévenkénti összegző kimutatás elkészítéséről;
 
-d) a kincstári egységes számla terhére, annak forrásaiból – jogszabályban meghatározott feltételekkel – megelőlegezési, likviditási hitelt nyújthat az Egészségbiztosítási Alapnak, a Nyugdíjbiztosítási Alapnak, az elkülönített állami pénzalapoknak, a Magyar Nemzeti Vagyonkezelő Zrt.-nek, a helyi önkormányzatoknak, a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsoknak és munkaszervezeteiknek, a Fővárosi Önkormányzatnak a budapesti 4-es metróvonal megépítésével kapcsolatos általános forgalmi adó megfizetésére, valamint az évzárás keretében, a következő év január 5-éig esedékes járandóságok fedezetére;
+d) a kincstári egységes számla terhére, annak forrásaiból – a 61/A. §-ban, 86/D. §-ban és jogszabályban meghatározott feltételekkel – megelőlegezési, likviditási hitelt nyújthat az Egészségbiztosítási Alapnak, a Nyugdíjbiztosítási Alapnak, az elkülönített állami pénzalapoknak, a helyi önkormányzatoknak, a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsoknak és munkaszervezeteiknek, az évzárás keretében a következő év január 5-éig esedékes járandóságok fedezetére, továbbá a Fővárosi Önkormányzatnak a budapesti 4-es metróvonal megépítésével kapcsolatos általános forgalmi adó megfizetésére;
 
 e) ellátja a központosított illetményszámfejtés, valamint az ehhez kapcsolódó adó- és járulékelszámolás e törvényben és külön jogszabályban meghatározott feladatait;
 
@@ -16,7 +16,7 @@ g) ellátja a nem állami intézmények fenntartói részére folyósított hum�
 
 h) közreműködik az európai uniós pénzeszközökkel kapcsolatosan jogszabályban, kormányhatározatban meghatározott költségvetési, végrehajtási, ellenőrzési és pénzforgalmi feladatok ellátásában;
 
-i) jogszabályok által meghatározott keretek között működteti az Országos Támogatási és Monitoring rendszert;
+i) jogszabályok által meghatározott keretek között működteti az kincstári monitoring rendszert;
 
 j) ellátja a költségvetési törvényhez kapcsolódó államháztartási információs rendszerek működtetésével, fejlesztésével kapcsolatos feladatokat, valamint az információgyűjtési és szolgáltatási feladatokat;
 
@@ -44,7 +44,11 @@ u) ellátja a külön jogszabályokban megjelölt hatósági letétekkel kapcsol
 
 v) közreműködik a támogatási előirányzatok pályázati rendszerében a pénzügyi lebonyolítási és ellenőrzési feladatok ellátásában, ideértve a mezőgazdasági és vidékfejlesztési beruházások előirányzatait is;
 
+w) ellátja a jogszabályban meghatározott, európai uniós forrásból származó, és egyéb nemzetközi támogatásokkal kapcsolatosan a támogatások fogadásáért felelős kifizető hatósági és igazoló hatósági feladatokat, valamint a Nemzeti Alap számára előírt feladatokat.
+
 x) a kincstári egységes számla terhére, annak forrásaiból kamatmentes megelőlegezési, likviditási hitelt nyújthat az Európai Unió részére történő cukorágazati hozzájárulás fizetési kötelezettség teljesítésére a mezőgazdasági és vidékfejlesztési támogatási szervnek;
+
+y) a kincstári körbe tartozók esetén díjazás ellenében ellátja a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatokat;
 
 z) gondoskodik az Európai Unió közös költségvetéséhez való hozzájárulásokkal kapcsolatos, külön jogszabályban meghatározott feladatainak ellátásáról;
 
@@ -52,7 +56,7 @@ zs) a kincstári egységes számla terhére, annak forrásaiból – jogszabály
 
 (2) A kincstár az (1) bekezdésben szereplő feladatai ellátása során jogosult – törvényben meghatározott körben, mértékben és célra – pénzforgalmi szolgáltatások nyújtására, ideértve a fizetési számla vezetését és a készpénz nélküli fizetési forgalom lebonyolítását is.
 
-(3) A kincstár az (1) bekezdésben foglalt feladatait a szolgáltatási körébe és szolgáltatási felelősségébe tartozó szervezetek számára kötelezően igénybe veendő szolgáltatásként teljesíti. A kincstár jogosult a kincstári körbe tartozók és a kincstári számlatulajdonosok külön rendelkezése nélkül is számláik megterhelésével továbbhárítani a nem általa végzett pénzforgalmi szolgáltatások igazolt díját. A kincstár az (1) bekezdés v) pontjában foglalt, a fejezetektől átvállalt, megállapodás alapján ellátott egyes feladatait térítés ellenében végezheti. A kincstár az Európai Unió Strukturális Alapjainak támogatásai kapcsán végzett közreműködői feladatait térítés ellenében végzi. A térítés összegéről a kincstár megállapodást köt.
+(3) A kincstár az (1) bekezdésben foglalt feladatait a szolgáltatási körébe és szolgáltatási felelősségébe tartozó szervezetek számára kötelezően igénybe veendő szolgáltatásként teljesíti. A kincstár jogosult a kincstári körbe tartozók és a kincstári számlatulajdonosok külön rendelkezése nélkül is számláik megterhelésével továbbhárítani a nem általa végzett pénzforgalmi szolgáltatások igazolt díját, továbbá jogszabályban meghatározott más esetben számláikat megterhelni. A kincstár az (1) bekezdés v) pontjában foglalt, a fejezetektől átvállalt, megállapodás alapján ellátott egyes feladatait térítés ellenében végezheti. A kincstár az Európai Unió Strukturális Alapjainak támogatásai kapcsán végzett közreműködői feladatait térítés ellenében végzi. A térítés összegéről a kincstár megállapodást köt.
 
 (4) A kincstári körbe tartoznak
 
@@ -60,7 +64,7 @@ a) a központi költségvetés, a központi költségvetési szervek, a társada
 
 b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági formában működtetett szervei.
 
-(5) A kincstár az ügyfelektől érkező, a jogszabályi előírásoknak meg nem felelő megbízások és rendelkezések teljesítését a megbízás, illetve a rendelkezés kezdeményezőjének értesítése mellett visszautasítja.
+(5) A kincstár az államháztartásért felelős miniszter rendeletében meghatározott határnapig beérkező fizetési megbízást teljesíti az esedékességi időpontban. A fizetési megbízásnak a határnapon túli beérkezéséből fakadó késedelmes teljesítésének következményei a megbízót terhelik. A kincstár a jogszabályi előírásoknak nem megfelelő megbízások és rendelkezések teljesítését a megbízás, rendelkezés kezdeményezőjének értesítése mellett visszautasítja.
 
 (6) A nemzetközi szerződések alapján a Magyar Állam, illetve a 18/B. § (4) bekezdésében és a 18/C. § (6) bekezdésében megjelölt szervezetek (a továbbiakban együtt: kincstári ügyfelek) részére nyújtott támogatásokat a kincstárhoz kell befizetni. A Magyar Állam, illetve a kincstári kör részére a kincstár által vezetett devizaszámlán jóváírt támogatások a végleges felhasználáskor válnak költségvetési bevétellé. A támogatásokat a végleges felhasználást megelőzően külön jogszabály rendelkezéseinek megfelelően kell elszámolni.
 
@@ -70,7 +74,7 @@ b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági 
 
 (9) A kincstár az (1) bekezdés p) pontja szerinti feladatai ellátásához az a) pont szerinti nyilvántartások adatait is felhasználja. Amennyiben a kötelezettségvállalás bejelentés kifizetésre vonatkozó adatai nem a bejelentésnek megfelelően teljesülnek, a kincstár rendelkezésre állási díjat számít fel jogszabályban szabályozott módon.
 
-(10) A kincstár az (1) bekezdés a) és g) pontjában, valamint a (8) bekezdésben foglalt feladatai ellátása érdekében jogosult a központi költségvetésből folyósított normatívák igénylése elbírálásához szükséges, az egyes normatívák igénylését megalapozó, a vonatkozó jogszabályokban meghatározott egyedi azonosítókat és személyes adatokat kezelni. E személyes adatokat az egyes költségvetési éveket lezáró zárszámadásról szóló törvény hatálybalépésének napjáig jogosult kezelni.
+(10) A kincstár az (1) bekezdés a) és g) pontjában, valamint a (8) bekezdésben foglalt feladatai ellátása érdekében jogosult a központi költségvetésből folyósított hozzájárulások és támogatások igénylése, elszámolása elbírálásához szükséges, az egyes hozzájárulások és támogatások igénybevételét megalapozó, a vonatkozó jogszabályokban meghatározott egyedi azonosítókat, személyes és különleges adatokat kezelni. Az adatokat a kincstár az elbírálás évét követő öt évig, ezentúl a kincstár döntéséhez kapcsolódó jogorvoslati eljárások során meghozott döntés jogerőssé és végrehajthatóvá válásáig jogosult kezelni.
 
 (11)
 

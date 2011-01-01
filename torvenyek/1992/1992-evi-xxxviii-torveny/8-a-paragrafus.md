@@ -22,9 +22,13 @@ h) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. §-ának (
 
 i) állami tulajdoni részesedés értékesítése;
 
-j) a Magyar Nemzeti Vagyonkezelő Zrt.-re (a továbbiakban: MNV Zrt.) rábízott állami vagyonba tartozó gazdasági társaságoknak nyújtott hitel-, kölcsön és annak visszatérülése, valamint az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei.
+j) a Magyar Állam nevében a többségi állami tulajdonú gazdasági társaságoknak nyújtott hitel, kölcsön és annak visszatérülése, amennyiben
 
-k)
+ja) a hitel, kölcsön visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk – különösen a pénzügyi, számviteli kimutatások és előrejelzések – alapján az állami feladatellátásért fizetendő összegen felüli állami többlet-támogatás biztosítása nélkül kellően megalapozott, vagy
+
+jb) a hitel, kölcsön tőkeösszegének és járulékainak visszatérülésére megfelelő mértékű fedezet áll rendelkezésre;
+
+k) a Magyar Nemzeti Vagyonkezelő Zrt.-nek (a továbbiakban: MNV Zrt.) a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei.
 
 l)
 

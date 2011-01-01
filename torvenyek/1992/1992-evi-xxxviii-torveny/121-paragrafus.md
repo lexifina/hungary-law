@@ -1,21 +1,25 @@
-## A folyamatba épített, előzetes, utólagos és vezetői ellenőrzés
+## A belső kontrollrendszer
 
-121. § (1) A folyamatba épített, előzetes, utólagos és vezetői ellenőrzés (a továbbiakban: FEUVE) létrehozásáért, működtetéséért és fejlesztéséért a költségvetési szerv vezetője felelős az államháztartásért felelős miniszter által közzétett módszertani útmutatók figyelembevételével. A költségvetési szerv vezetője köteles olyan szabályzatokat kiadni, folyamatokat kialakítani és működtetni a szervezeten belül, amelyek biztosítják a rendelkezésre álló források szabályszerű, szabályozott, gazdaságos, hatékony és eredményes felhasználását. A FEUVE, mint a kontrolltevékenység része, magában foglalja:
+121. § (1) A belső kontrollrendszer a kockázatok kezelésére és tárgyilagos bizonyosság megszerzése érdekében kialakított folyamatrendszer, amely azt a célt szolgálja, hogy a költségvetési szerv megvalósítsa a következő fő célokat:
 
-a) a pénzügyi döntések dokumentumainak elkészítését (ideértve a költségvetési tervezés, a kötelezettségvállalások, a szerződések, a kifizetések, a szabálytalanság miatti visszafizettetések dokumentumait is),
+a) a költségvetési szerv a működése és gazdálkodása során a tevékenységeket (műveleteket) szabályszerűen, valamint a 91. § (1) bekezdésében meghatározott követelményekkel összhangban hajtsa végre,
 
-b) az előzetes és utólagos pénzügyi ellenőrzést, a pénzügyi döntések szabályszerűségi és szabályozottsági szempontból történő jóváhagyását, illetve ellenjegyzését,
+b) teljesítse az elszámolási kötelezettségeket, és
 
-c) a gazdasági események elszámolásának (a hatályos jogszabályoknak megfelelő könyvvezetés és beszámolás) kontrollját.
+c) megvédje a szervezet erőforrásait a veszteségektől (károktól) és a nem rendeltetésszerű használattól.
 
-(2) Az (1) bekezdés a)–c) pontjában felsorolt tevékenységek feladatköri elkülönítését biztosítani kell.
+(2) A költségvetési szerv belső kontrollrendszeréért a költségvetési szerv vezetője felelős, aki köteles – a szervezet minden szintjén érvényesülő – megfelelő
 
-(3) A FEUVE-nek biztosítania kell, hogy
+a) kontrollkörnyezetet,
 
-a) a költségvetési szerv valamennyi tevékenysége és célja összhangban legyen a szabályszerűség, szabályozottság és megbízható gazdálkodás elveivel;
+b) kockázatkezelési rendszert,
 
-b) az eszközökkel és forrásokkal való gazdálkodásban ne kerüljön sor pazarlásra, visszaélésre, rendeltetésellenes felhasználásra;
+c) kontrolltevékenységeket,
 
-c) megfelelő, pontos és naprakész információk álljanak rendelkezésre a költségvetési szerv működésével kapcsolatosan;
+d) információs és kommunikációs rendszert, és
 
-d) a FEUVE harmonizációjára és összehangolására vonatkozó jogszabályok végrehajtásra kerüljenek, a módszertani útmutatók figyelembevételével.
+e) monitoringrendszert
+
+kialakítani, működtetni és azok megfelelő működését folyamatosan nyomon követni, vizsgálni.
+
+(3) A költségvetési szerv vezetője a 49. § (5) bekezdés t) pontja alapján a külön jogszabályban meghatározottak szerint köteles nyilatkozatban értékelni a költségvetési szerv belső kontrollrendszerének minőségét.

@@ -16,7 +16,9 @@ g) többlet: az a pozitív összeg, amennyivel a bevételek meghaladják a kiad�
 
 h) hiány: az a pozitív összeg, amennyivel a kiadások meghaladják a bevételeket,
 
-i) adósság: hitelviszonyon alapuló tartozások névértéken számítva.
+i) adósság: hitelviszonyon alapuló tartozások névértéken számítva,
+
+j) európai uniós forrás: az Európai Unió költségvetéséből, illetve az Európai Gazdasági Térség Európai Unión kívüli tagállamainak költségvetéséből, valamint a „Svájci Hozzájárulás” programból származó forrás.
 
 (2) Az államháztartás központi alrendszerének gazdálkodását érintő fogalmak:
 

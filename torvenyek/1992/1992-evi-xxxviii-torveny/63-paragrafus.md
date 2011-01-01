@@ -11,3 +11,7 @@
 (7) Ha a kincstár nem rendelkezik beszedési megbízásra felhatalmazással és a helyi önkormányzat fizetési kötelezettségét annak határidejét követő 60 napon belül nem teljesítette, vagy a felhatalmazással benyújtott beszedési megbízás 60 napon belül nem teljesül, a kincstár a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 4. §-a (2) bekezdésének e) pontja alapján kezdeményezi az adósságrendezési eljárás megindítását.
 
 (8) Amennyiben a beszámítás során a kincstár a felhatalmazás alapján beszedési megbízást nyújt be, az ehhez szükséges fedezet biztosítása – az előirányzat felhasználási ütemterve alapján – a helyi önkormányzat feladata.
+
+(9) Az e törvényben szereplő, kincstár által benyújtott beszedési megbízások teljesítése céljából a helyi önkormányzat köteles a felhatalmazást a számlavezető hitelintézet részére megadni. Az erről szóló dokumentációt a kincstár illetékes területi szerve útján a kincstár részére kell megküldeni. A helyi önkormányzat pénzforgalmi számlavezetőjének megváltozása esetén az új számlavezető ellenjegyzésével aláírt felhatalmazó levelet a változás bejelentésével egyidejűleg köteles megküldeni a kincstár illetékes területi szerve útján a kincstár részére.
+
+(10) A (9) bekezdésben foglalt kötelezettség elmulasztása esetén a kincstár értesítése alapján a helyi önkormányzatokért felelős miniszter a költségvetési támogatás folyósítását a kötelezettség teljesítéséig felfüggeszti. Ilyen esetben az önkormányzatot a 64/A. § (7) bekezdés szerinti kamat nem illeti meg.

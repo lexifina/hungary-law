@@ -1,6 +1,6 @@
 ## VII. Fejezet
 
-## A KÖLTSÉGVETÉSI SZERVEK MŰKÖDÉSE ÉS GAZDÁLKODÁSA
+## A KÖLTSÉGVETÉSI SZERVEK MŰKÖDÉSE ÉS GAZDÁLKODÁSA, A FEJEZETI KEZELÉSŰ ELŐIRÁNYZATOK KEZELÉSE
 
 ## A költségvetési szervek alapítása
 

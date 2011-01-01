@@ -1,5 +1,1 @@
-24/A. § (1) A fejezetet irányító szerv a költségvetési törvényben meghatározott (különösen oktatási, tudományos, egészségügyi, szociális, kulturális, sportcélú) közfeladat ellátására rendelkezésére álló támogatási célú fejezeti kezelésű előirányzatból a támogatási döntésekhez szükséges szakértői munkára vagy a támogatási döntések meghozatalára jelentős közéleti személyekből, illetve szakértőkből álló testületet is felállíthat.
-
-(2) A fejezetet irányító szerv vezetője által felkért testületi tagoknak a (3) bekezdés szerinti végrehajtási rendeletben (szabályzatban) megállapított módon adható díjazás, költségtérítés.
-
-(3) Az előirányzat (1) bekezdés szerinti előirányzatrésze felhasználásának részletes szabályait – így különösen: a támogatási döntési jogköröket és az előirányzattal kapcsolatos egyéb rendelkezési jogokat, a testületi tagokra vonatkozó összeférhetetlenségi (kizárási) szabályokat, továbbá a személyes felelősségviselés részletes szabályait, valamint a testületi tagok kiválasztásának rendjét – kormányrendeletben foglaltak figyelembevételével a fejezetet irányító szerv vezetője az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletben (jogalkotási jog hiányában közösen kiadott nyilvános szabályzatban) határozza meg.
+24/A. §

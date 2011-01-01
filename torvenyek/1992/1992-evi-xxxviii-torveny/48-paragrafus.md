@@ -8,9 +8,9 @@ b) gondoskodik a költségvetés végrehajtásáról, a Kormánynál az előirá
 
 c) gondoskodik a központi költségvetést terhelő adósságból eredő kötelezettségek kezelésével, teljesítésével és nyilvántartásával kapcsolatos feladatok ellátásáról, valamint az államadósság és az államháztartási adósság számításáról és nyilvánosságra hozataláról;
 
-d) javaslatot tesz az általános tartalék és a céltartalék, a társadalombiztosítás pénzügyi alapjainak tartalékai és céltartalékai felhasználására;
+d) javaslatot tesz rendkívüli kormányzati intézkedésekre szolgáló tartalék és a céltartalék, a társadalombiztosítás pénzügyi alapjainak tartalékai és céltartalékai felhasználására;
 
-e) február 15-éig a Kormány elé terjeszti a 47. § (1) bekezdése szerinti kormányhatározat alapjául szolgáló keretszámokat,
+e)
 
 f)
 
@@ -36,10 +36,16 @@ p) szabályozza az előirányzat-felhasználás és a felhasználás ütemezés�
 
 q) jóváhagyja a Kormány rendeletében meghatározott típusú és nagyságrendű kiadásokra vonatkozó, az előirányzatokat meg nem haladó kötelezettségvállalásokat. A jóváhagyás nem tagadható meg, ha a kötelezettségvállalás megfelel a kormányrendeletben meghatározott feltételeknek, vagy közvetlenül jogszabályon, jogerős bírósági, hatósági határozaton, illetve nemzetközi megállapodáson alapul;
 
-r) gondoskodik az állami támogatási programok szabályozásának és az egyedi állami támogatásoknak – a mezőgazdasági és a halászati támogatások esetében az agrárpolitikáért felelős miniszter társfelelőssége mellett – az Európai Közösségek versenyjogi szabályaival való összehangolásáról;
+r)
 
-s) ellátja – az Állami Számvevőszék véleményének kikérésével – az államháztartási belső kontrollrendszerek fejlesztésével, szabályozásával, koordinációjával és harmonizációjával, valamint a belső ellenőrzésre vonatkozó nemzetközi standardokkal összhangban lévő ellenőrzési módszerek, illetve vonatkozó képzések fejlesztésével kapcsolatos feladatokat; az államháztartási belső kontrollrendszerek helyzetéről és működéséről minden évben szeptember 30-ig éves jelentést terjeszt elő a Kormány részére;
+s) ellátja – az Állami Számvevőszék véleményének kikérésével – az államháztartási belső kontrollrendszerek fejlesztésével, szabályozásával, koordinációjával és harmonizációjával, valamint a belső ellenőrzésre vonatkozó nemzetközi standardokkal összhangban lévő ellenőrzési módszerek, illetve vonatkozó képzések fejlesztésével kapcsolatos feladatokat; az államháztartási belső kontrollrendszerek helyzetéről és működéséről minden évben június 30-ig éves jelentést terjeszt elő a Kormány részére;
 
 t) részletes nyilvántartást vezet a kötelezettségvállalási felhatalmazásokról és az éves kifizetési keretek felhasználásáról,
 
-u) a hosszú távú kötelezettségvállalásokkal kapcsolatos gazdasági hatékonysági számítások elvégzéséhez módszertani segédanyagokat tesz közzé az általa vezetett minisztérium hivatalos honlapján.
+u) a hosszú távú kötelezettségvállalásokkal kapcsolatos gazdasági hatékonysági számítások elvégzéséhez módszertani segédanyagokat tesz közzé az általa vezetett minisztérium hivatalos honlapján;
+
+v) engedélyezi a költségvetési szervek belső ellenőrzési tevékenységére vonatkozó jogosultságot és nyilvántartást vezet az e tevékenység végzésére jogosult személyekről;
+
+w) elkészíti és kezeli a támogatási előirányzatokból kizárt személyek adatbázisát;
+
+x) szervezi a belső kontrollrendszerrel kapcsolatos, e törvényben, illetve annak végrehajtási rendeleteiben szabályozott kötelező képzéseket.

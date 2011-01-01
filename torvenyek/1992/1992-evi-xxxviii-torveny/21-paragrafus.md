@@ -12,4 +12,4 @@ d) az Európai Unió költségvetéséből származó, illetve az európai unió
 
 e) a központi költségvetési alrendszerbe tartozó szervek részére, illetve az általuk ellátott feladatok támogatására pénzben beérkezett segélyekből és adományokból származó bevételek.
 
-(2) Az (1) bekezdés d) pontjában foglalt források nem számolhatók el bevételként a felhasználásukat megelőzően.
+(2)

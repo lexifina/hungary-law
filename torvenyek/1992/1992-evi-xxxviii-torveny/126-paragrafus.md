@@ -1,1 +1,1 @@
-126. §
+126. § A köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 27. §-ában foglalt előirányzatok felhasználása tekintetében e törvény 13/A. § (2) és (4) bekezdéseit, 13/B. § (1) bekezdését, 15. §-át, valamint 101/A. §-át nem kell alkalmazni.

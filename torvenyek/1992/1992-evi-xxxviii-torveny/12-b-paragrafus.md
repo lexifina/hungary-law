@@ -1,6 +1,6 @@
 12/B. § (1) E törvény alkalmazásában hosszú távú kötelezettségvállalásnak minősülnek az állami költségvetés terhére szolgáltatás vásárlásra, lízingre, eszköz üzemeltetésre és karbantartásra, illetve bérlésre irányuló, több évre szóló (több év kiadási előirányzatait terhelő) fizetési kötelezettséget jelentő szerződések (megállapodások). E § alkalmazásában szolgáltatás vásárlásának minősül az is, ha a szolgáltatási díjban a szolgáltatás nyújtásához szükséges eszköz létrehozását is megtérítik. Hosszú távú kötelezettségvállalás kizárólag e § rendelkezései alapján köthető. Nem minősülnek hosszú távú kötelezettségvállalásnak
 
-a) az Európai Unió költségvetéséből, illetve az Európai Gazdasági Térség Európai Unión kívüli tagállamainak költségvetéséből finanszírozott támogatási programok;
+a) az európai uniós forrásból finanszírozott támogatási programok;
 
 b) azon határozatlan időre kötött szerződések, amelyek esetében az állami költségvetést terhelő éves fizetési kötelezettség az 500,0 millió forint, általános forgalmi adó nélkül számított értéket nem éri el;
 

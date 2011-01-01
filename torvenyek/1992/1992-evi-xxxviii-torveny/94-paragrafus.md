@@ -10,7 +10,7 @@ c) a gazdálkodási lehetőségek és a kötelezettségvállalások összhangjá
 
 d) a költségvetési szerv vagyonkezelésébe, használatába adott, és a tulajdonában lévő vagyonnal kapcsolatosan a vagyonkezelői, tulajdonosi jogok rendeltetésszerű gyakorlásáért,
 
-e) az államháztartási belső kontrollrendszer megszervezéséért és hatékony működtetéséért, és
+e) a költségvetési szerv belső kontrollrendszerének és az annak részét képező belső ellenőrzés megszervezéséért és hatékony működtetéséért, és
 
 f) a szakmai és pénzügyi monitoring rendszer folyamatos működtetéséért, a tervezési, beszámolási, valamint a közérdekű és közérdekből nyilvános adatok szolgáltatására vonatkozó kötelezettség teljesítéséért, annak teljességéért és hitelességéért, továbbá a számviteli rendért.
 

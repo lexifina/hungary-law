@@ -7,3 +7,5 @@
 (4) Az államháztartásért felelős miniszter előzetes engedélyével a (2) bekezdés alapján elszámolandó költségvetési kiadások ugyanazon ügylet keretében elszámolt költségvetési bevétellel megegyező összegével az állami vagyonnal kapcsolatos költségvetési kiadások tervezett összege túlléphető.
 
 (5) Az (1) bekezdésben foglaltak alapján költségvetési kiadás elszámolását eredményező ügyletekre – a (3) és (4) bekezdésben foglaltak kivételével – akkor lehet kötelezettséget vállalni, ha e kiadás elszámolására rendelkezésre áll előirányzat.
+
+(6) Az (1)–(5) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény hatálya alá, valamint az állami vagyon felügyeletéért felelős miniszter rendeletében kijelölt tulajdonosi joggyakorló szervezet állami vagyonnal való gazdálkodása során is alkalmazni kell.

@@ -12,11 +12,11 @@ cs) a 100/A. § (1) bekezdése, 100/B. § (1) bekezdése, 100/D. §-a és 100/E.
 
 d) a költségvetési szervek egyes típusai – ideértve a felsőoktatási intézményeket, a Magyar Honvédséget, a nemzetbiztonsági szolgálatokat, a rendvédelmi szerveket, a külképviseleteket, a Magyar Tudományos Akadémia nem gazdasági társaság formájában működtetett intézményeit és a társadalombiztosítási költségvetési szerveket –, valamint a társadalombiztosítási pénzügyi alapok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, kincstári gazdálkodásának és nyilvántartásának – e törvény előírásaival összehangolt – sajátosságainak megfelelő szervezeti és eljárási rendjére vonatkozó, a kincstári rendszer általános szabályaitól eltérő részletes szabályait, továbbá a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében a 49. § (5) bekezdésében meghatározott irányítási jogok középirányító szervre történő átruházásának részletszabályait;
 
-e) az egyedi és jogszabályi állami kezesség, állami garancia, viszontgarancia és a kiállítási garancia, kiállítási viszontgarancia előkészítésének, beváltásának, nyilvántartásának és a kapcsolódó adatszolgáltatásnak részletes szabályait;
+e) az egyedi és jogszabályi állami kezesség, állami garancia, viszontgarancia és a kiállítási garancia, kiállítási viszontgarancia vállalás feltételeinek, előkészítésének, beváltásának, nyilvántartásának és a kapcsolódó adatszolgáltatásnak részletes szabályait;
 
 f) a költségvetési (fő)felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a 46/A. § (6) bekezdés szerinti nagy összegű kötelezettségvállalás értékhatárát, a 46/A. § (6) bekezdés szerinti szabályzatok és intézkedések körét, a költségvetési (fő)felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos részletes szabályokat;
 
-g) a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket [97. § (1) és (2) bekezdés];
+g) a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket;
 
 h) az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait;
 
@@ -26,9 +26,9 @@ j) az államháztartás alrendszerei vonatkozásában a vagyonnyilvántartás r�
 
 k) az államháztartás alrendszereiből nyújtott támogatásokkal összefüggő számadási kötelezettség részletes szabályait;
 
-l) az államháztartás alrendszereinek felajánlott külföldi segélyek és adományok és ezek felhasználásának információs rendszerét;
+l) a költségvetésből és az európai uniós forrásból nyújtott támogatások, valamint az államháztartás alrendszereinek felajánlott külföldi segélyek és adományok felhasználásának információs rendszereit és monitoring szabályait,
 
-m) a fejezeti kezelésű előirányzatok felhasználásának általános szabályait;
+m) a fejezeti kezelésű előirányzatok felhasználásának szabályait, valamint a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit;
 
 n) a 100/A. § (3) bekezdése szerinti tevékenységek körét és a kifizetések feltételeit;
 
@@ -40,15 +40,15 @@ q) az előirányzat-maradvány, pénzmaradvány, vállalkozási maradvány megá
 
 r) a kincstári és az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat;
 
-s) az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv feladatát, hatáskörét, szervezetét, ellenőrzésének részletes szabályait;
+s) az európai uniós forrásból származó és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv feladatát, hatáskörét, szervezetét, ellenőrzésének részletes szabályait;
 
-t) a központi költségvetésből nyújtott határon túli támogatások e törvénytől eltérő szabályozásának rendjét,
+t) a központi költségvetésből nyújtott határon túli támogatások, továbbá az országos kisebbségi önkormányzatok és intézményeik működési támogatása e törvénytől eltérő szabályozásának rendjét,
 
-u) a belső kontrollok, a FEUVE, valamint a belső ellenőrzés részletes szabályait;
+u) a kormányzati ellenőrzés, a belső kontrollrendszer, valamint a belső ellenőrzés részletes szabályait;
 
-v) az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Közösségek versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
+v) az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 
-w) a 13/A. § (4)–(7) bekezdésének, valamint a 102. § (4)–(6) bekezdésének végrehajtási szabályait,
+w) a 13/A. § (4)–(7) bekezdésének végrehajtási szabályait,
 
 x) a kötelezettségvállalás, ellenjegyzés, a szakmai teljesítés igazolása, az utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat, a személyi juttatások előirányzatából évközi megtakarítása terhére tartósan vállalható kötelezettségek – ideértve az illetményemelést is – szabályait, továbbá a költségvetési szervek előirányzat-felhasználási tervének [100/C. § (1) bekezdés] tartalmi követelményeit, kiadásának és aktualizálásának rendjét;
 
@@ -68,7 +68,7 @@ zsc) a költségvetési szervek számvitele egységes kezelésének elősegíté
 
 zsd) a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 91. § (2) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat;
 
-zse) a 102. § (1) bekezdése szerint a kincstári körbe tartozó költségvetési szerv részére a központi költségvetési támogatás rendelkezésre bocsátásának részletes szabályait;
+zse) a 102. § szerint a kincstári körbe tartozó költségvetési szerv részére a központi költségvetési támogatás rendelkezésre bocsátásának részletes szabályait, az abból érvényesíthető levonásokat, és azokat az eseteket, amikor a kincstár jogosult a kincstári körbe tartozó költségvetési szerv számláját megterhelni;
 
 zsf) az egyházakat, illetve a kisebbségi önkormányzatokat külön jogszabály alapján megillető kiegészítő támogatás tervezésének, illetve a tervezett és tényleges adatok közötti eltérésből fakadó rendezés számításának részletes szabályait;
 
@@ -98,7 +98,7 @@ e) az államháztartás osztályozási rendjének és a 116. §-ban említett m�
 
 f) az igazságügyért felelős miniszterrel egyetértésben a törzskönyvi nyilvántartásba bejegyzendő további adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének szabályait, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, valamint a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait,
 
-g) e törvény 40. §-a alapján a költségvetési törvényben meghatározott egyes előirányzatoknál a jóváhagyottól való – külön szabályozott módosítás nélküli – eltérés rendjét,
+g) a költségvetési törvényben meghatározott egyes előirányzatoknál a jóváhagyottól való – külön szabályozott módosítás nélküli – eltérés rendjét,
 
 h) a 64/A–64/D. §-ok szerinti felülvizsgálati eljárás egyes támogatásfajtákra vonatkozó részletes módszereit,
 
@@ -116,11 +116,13 @@ n) a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti re
 
 o) a kincstári gazdálkodás részletes szabályait, ezen belül a kincstári finanszírozás és a befizetési kötelezettségek teljesítésének rendjét, valamint a kincstár által közvetlenül finanszírozott, feladat-finanszírozás körébe tartozó fejezeti kezelésű előirányzatok és központi beruházási előirányzatok felhasználásának részletes szabályait,
 
-p) a kincstári ügyfelek számlavezetéséhez kapcsolódó díjakra, a kincstár által nyújtott szolgáltatások után felszámított díjakra, a 18/B. § (9) bekezdése szerinti rendelkezésre állási díj mértékére, alkalmazására, a kincstárnál alkalmazható fizetési módokra, valamint a készpénzkímélő fizetési rendszerre vonatkozó részletes szabályokat
+p) a kincstári ügyfelek számlavezetéséhez kapcsolódó díjakra, a kincstár által nyújtott szolgáltatások után felszámított díjakra, a 18/B. § (9) bekezdése szerinti rendelkezésre állási díj mértékére, alkalmazására, a kincstárnál alkalmazható fizetési módokra, valamint a készpénzkímélő fizetési rendszerre vonatkozó részletes szabályokat,
+
+q) a 122/B. § szerinti nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartásból történő adatszolgáltatás rendjét
 
 rendeletben szabályozza.
 
-(5) Felhatalmazást kap a gazdaságpolitikáért felelős miniszter és az adópolitikáért felelős miniszter, hogy együttes rendeletben szabályozza a törvénnyel kihirdetett nemzetközi szerződésekben nem szabályozott vámtételek kialakítását, módosítását, átmeneti időre történő csökkentését a törvényben szabályozott feltételek alapján és a nemzetközi kötelezettségeinkkel összhangban.
+(5) Felhatalmazást kap a gazdaságpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a törvénnyel kihirdetett nemzetközi szerződésekben nem szabályozott vámtételek kialakítását, módosítását, átmeneti időre történő csökkentését a törvényben szabályozott feltételek alapján és a nemzetközi kötelezettségeinkkel összhangban.
 
 (6)
 
@@ -128,20 +130,4 @@ rendeletben szabályozza.
 
 (8) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben megállapítsa a rendezett munkaügyi kapcsolatok e törvényben meghatározott feltételei igazolásának módját és általános eljárási szabályait.
 
-(9) Felhatalmazást kapnak a fejezetet irányító miniszterek, hogy az államháztartásért felelős miniszterrel egyetértésben a fejezeti kezelésű előirányzatok
-
-a) felhasználását,
-
-b) kezelési költségeit,
-
-c) felhasználásával kapcsolatos rendelkezési jogosultságokat,
-
-d) felhasználásának ellenőrzését,
-
-e) maradványának jóváhagyását és következő évi felhasználását,
-
-f) terhére történő éven túli kötelezettségvállalást,
-
-g) terhére visszterhesen nyújtható támogatások (kölcsönök) folyósításának és visszatérítésének, az előlegek folyósításának és elszámolásának, a behajthatatlan követelésekről való lemondásnak a rendjét
-
-a költségvetési évre vonatkozóan évente megalkotott rendeletben állapítsák meg.
+(9) Felhatalmazást kapnak a fejezetet irányító miniszterek, hogy az adott költségvetési évre vonatkozóan az államháztartásért felelős miniszterrel egyetértésben évente megalkotott rendeletben állapítsák meg a fejezeti kezelésű előirányzatok kezelésével, felhasználásával kapcsolatos rendelkezéseket.

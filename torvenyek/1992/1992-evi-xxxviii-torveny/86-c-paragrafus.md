@@ -1,4 +1,4 @@
-86/C. § A társadalombiztosítás pénzügyi alapjainak előirányzatai terhére – a 18/B. § (1) bekezdésének d) pontja szerinti megelőlegezési, likviditási hitelt, valamint részvény, üzletrész és egyéb vagyontárgy a 86/I. §-ban vagy külön törvényben foglaltak alapján történő megszerzését kivéve –
+86/C. § A társadalombiztosítás pénzügyi alapjainak előirányzatai terhére – a 86/D. § szerinti megelőlegezési, likviditási hitelt, valamint részvény, üzletrész és egyéb vagyontárgy a 86/I. §-ban vagy külön törvényben foglaltak alapján történő megszerzését kivéve –
 
 a) pénzkölcsön (hitel) nem vehető fel,
 

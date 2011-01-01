@@ -1,6 +1,6 @@
 100/F. § (1) A költségvetési szerv fizetési kötelezettségeinek jogszabályban, szerződésben (megállapodásban), jogerős bírósági ítéletben, közigazgatási határozatban, vagy más fizetési kötelezettséget keletkeztető dokumentumban meghatározott időpontig köteles eleget tenni.
 
-(2) Ha a központi költségvetési szervnek, alapnak két egymást követő hónapban lejárt, elismert, harminc napot meghaladó, de hatvan napot el nem érő tartozásállománya áll fenn, az irányító szerv köteles intézkedni a hatvan napot meghaladó tartozásállomány keletkezésének megelőzésére. Ennek formájáról és módjáról saját hatáskörben dönt.
+(2) Ha a központi költségvetési szervnek, alapnak lejárt, elismert, harminc napot meghaladó, de hatvan napot el nem érő tartozásállománya áll fenn, az irányító szerv köteles intézkedni a hatvan napot meghaladó tartozásállomány keletkezésének megelőzésére. Ennek formájáról és módjáról saját hatáskörben dönt.
 
 (3) Ha a (2) bekezdés szerinti intézkedés ellenére, vagy egyébként a központi költségvetési szerv, alap elismert, az esedékességet követő hatvan napon túli tartozásállománya eléri a Kormány rendeletében meghatározott mértéket, vagy a központi költségvetési szerv, alap forrásainak várható elmaradása előreláthatóan tartósan veszélyezteti közfeladatai ellátását vagy jelentős mértékű tartozások felhalmozódásának veszélyével fenyeget, az államháztartásért felelős miniszter – a (4) bekezdésben foglalt eltéréssel – kormányrendeletben meghatározott módon kincstári biztost jelöl ki.
 

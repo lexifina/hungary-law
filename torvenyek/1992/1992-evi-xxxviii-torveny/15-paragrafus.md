@@ -16,7 +16,7 @@ d) akkor, ha a magyarországi foglalkoztatási jogszabályok hatálya a foglalko
 
 (5) Nem nyújtható támogatás, ha a támogatás igénylőjével szemben
 
-a) a munkaviszony létesítésével összefüggő bejelentési kötelezettség [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont] elmulasztása mellett a járulékfizetési kötelezettség elmulasztása,
+a) a munkaviszony létesítésével összefüggő bejelentési kötelezettség [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §] elmulasztása,
 
 b) a munkavállalók képviselőivel (szakszervezet vagy üzemi tanács, üzemi megbízott, illetve közalkalmazotti tanács, közalkalmazotti képviselő) vagy a szakszervezet, üzemi tanács, illetve közalkalmazotti tanács képviselőjével összefüggésben
 
@@ -42,7 +42,7 @@ miatt a hatáskörében eljáró illetékes hatóság, illetőleg a bíróság a
 
 (6) A támogatásra való jogosultságot kizárja, ha a támogatás igénylőjét
 
-a) a munkaügyi hatóság munkaügyi bírsággal sújtotta, vagy az (5) bekezdés f) pontjában meghatározott jogsértés elkövetése miatt a Munkaerőpiaci Alapba történő befizetésre kötelezte, vagy
+a) a munkaügyi hatóság munkaügyi bírsággal sújtotta, vagy az (5) bekezdés f) pontjában meghatározott jogsértés elkövetése miatt a központi költségvetésbe történő befizetésre kötelezte, vagy
 
 b) az állami adóhatóság az (5) bekezdés a) pontjában meghatározott jogsértés elkövetése miatt az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtotta, vagy
 
@@ -58,7 +58,7 @@ a) a támogatás iránti kérelmet benyújtó munkáltatóval szemben az (5) bek
 
 b) az a) pontban meghatározott jogsértést megállapító közigazgatási határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül a hatóság a korábbival azonos jogsértés elkövetését nem állapította meg. E rendelkezés alkalmazásában több telephellyel rendelkező munkáltató esetében a jogsértést megállapító közigazgatási határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül elkövetett ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
-(8) Az (5)–(6) bekezdésben foglaltaktól eltérően támogatás nyújtható, ha a támogatás iránti kérelmet benyújtó munkáltatóval szemben az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: AMtv.) alapján történő foglalkoztatással kapcsolatosan az (5) bekezdés a) pontja szerinti jogsértés elkövetése miatt a (6) bekezdés szerinti jogkövetkezményt alkalmazták, de a munkáltató az AMtv. 6. § (2) bekezdésében foglaltak szerint teljesítette a közteherjegy-beragasztási kötelezettségét.
+(8)
 
 (9) A támogatást nyújtó szerv a támogatási megállapodás megkötése előtt is köteles ellenőrizni, hogy a támogatásra való jogosultság feltételei fennállnak-e. Amennyiben – a (7) bekezdésben foglaltakra is figyelemmel –
 

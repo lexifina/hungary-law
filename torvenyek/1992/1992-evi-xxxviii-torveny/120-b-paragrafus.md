@@ -1,21 +1,21 @@
-120/B. § (1) A belső kontrollrendszer a költségvetési szerv által a kockázatok kezelésére és tárgyilagos bizonyosság megszerzése érdekében kialakított folyamatrendszer, amely azt a célt szolgálja, hogy a költségvetési szerv megvalósítsa a következő fő célokat:
+## Kormányzati ellenőrzés
 
-a) a tevékenységeket (műveleteket) szabályszerűen, valamint a megbízható gazdálkodás elveivel (gazdaságosság, hatékonyság és eredményesség) összhangban hajtsa végre;
+120/B. § (1) A kormányzati ellenőrzési szerv ellenőrzési jogköre kiterjed
 
-b) teljesítse az elszámolási kötelezettségeket;
+a) a kormánydöntések végrehajtásának ellenőrzésére,
 
-c) megvédje a szervezet erőforrásait a veszteségektől (károktól) és a nem rendeltetésszerű használattól.
+b) a központi költségvetés, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai, és – a Kormány irányítása vagy felügyelete alá nem tartozó költségvetési szervek kivételével – a központi költségvetési szervek kormányzati ellenőrzésére,
 
-(2) A költségvetési szerv belső kontrollrendszeréért a költségvetési szerv vezetője felelős, aki köteles – a szervezet minden szintjén érvényesülő – megfelelő
+c) a gazdálkodó szervezeteknek, a közalapítványoknak, a köztestületeknek, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a társadalmi szervezeteknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
 
-a) kontrollkörnyezetet,
+d) a tartósan állami tulajdonban lévő, valamint az olyan gazdasági társaságok – ide nem értve az MNB-t – ellenőrzésére, amelyekben az állam a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. §-a szerint többségi befolyással rendelkezik,
 
-b) kockázatkezelési rendszert,
+e) a Kormány, a Kormány tagja, illetve az irányításuk vagy felügyeletük alá tartozó költségvetési szerv által alapított vagy támogatott alapítványok, közalapítványok ellenőrzésére,
 
-c) kontrolltevékenységeket,
+f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
 
-d) információs és kommunikációs rendszert,
+g) az a)–f) pontban foglaltakkal összefüggésben megvalósított beszerzésekre, az ezekre kötött szerződések teljesítésének vizsgálatára, ebben a vonatkozásában azon szerződő felekre is, amelyek a szerződés teljesítéséért felelősek, vagy abban közreműködnek.
 
-e) monitoringrendszert
+(2) Az (1) bekezdésben meghatározott szerv feladatát, hatáskörét és szervezetét, valamint a kormányzati ellenőrzés eljárási szabályait a Kormány rendeletben határozza meg. Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, ott az (1) bekezdésben meghatározott kormányzati ellenőrzési szervet kell érteni.
 
-kialakítani és működtetni.
+(3) A kormányzati ellenőrzési szerv – törvény vagy kormányrendelet eltérő rendelkezése hiányában – tevékenysége során a költségvetési szervek belső ellenőrzésére vonatkozó szabályok szerint jár el.

@@ -1,10 +1,10 @@
 69. § (1) A helyi önkormányzat költségvetési rendeletének tartalmaznia kell:
 
-a) a működési és felhalmozási célú – finanszírozási célú műveletek és előző évek pénzmaradványa nélküli – tárgyévi költségvetési bevételek és kiadások előirányzatait, ezen belül a személyi jellegű kiadásokat, a munkaadókat terhelő járulékokat, a dologi jellegű kiadásokat, az ellátottak pénzbeli juttatásait, a speciális célú támogatásokat, illetve a helyi önkormányzat által kijelölt felhalmozások (beruházások, felújítások és az egyéb felhalmozási célú kiadások, támogatások) előirányzatait, továbbá
+a) a működési és a felhalmozási költségvetés, valamint a kölcsönök – finanszírozási célú műveletek és előző évek pénzmaradványa, vállalkozási maradványa nélküli – tárgyévi költségvetési bevételeit és kiadásait, a működési költségvetésen belül kiemelt előirányzatként a személyi juttatásokat, a munkaadókat terhelő járulékokat, a dologi kiadásokat, az ellátottak pénzbeli juttatásait és az egyéb működési célú kiadásokat, a felhalmozási költségvetésen belül a beruházások, felújítások és az egyéb felhalmozási célú kiadások kiemelt előirányzatait, továbbá
 
 b) az a) pont szerinti tárgyévi költségvetési bevételek és kiadások különbözeteként a költségvetési többlet vagy hiány összegét,
 
-c) a költségvetési hiány belső finanszírozására szolgáló előző évek pénzmaradványának igénybevételét, beleértve a 8/A. § (3) bekezdés c) pontja szerinti betét visszavonását működési, illetve felhalmozási cél szerinti tagolásban,
+c) a költségvetési hiány belső finanszírozására szolgáló előző évek pénzmaradványának, vállalkozási maradványának igénybevételét, beleértve a 8/A. § (3) bekezdés c) pontja szerinti betét visszavonását működési, illetve felhalmozási cél szerinti tagolásban,
 
 d) a c) ponton túli költségvetési hiány külső finanszírozására vagy a b)–c) szerinti költségvetési többlet felhasználására szolgáló, a 8/A. § (3) bekezdés a)–b) pontjában meghatározottak szerinti finanszírozási célú műveletek bevételeit, kiadásait működési, illetve felhalmozási cél szerinti tagolásban, valamint
 

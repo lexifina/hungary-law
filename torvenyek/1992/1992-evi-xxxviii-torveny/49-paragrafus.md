@@ -2,7 +2,7 @@
 
 49. § E törvény alkalmazásában fejezetet irányító szerv: a költségvetési törvényben meghatározott fejezetbe besorolt költségvetési szerv (szervek) vonatkozásában külön törvényben és e törvényben foglalt irányítási jogokkal felruházott irányító szerv, valamint a fejezetbe tartozó előirányzatokkal kapcsolatos gazdálkodási irányítási jogokkal felruházott szerv vagy személy.
 
-(2) Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
+(2) Ha törvény eltérően nem rendelkezik, az autonóm államigazgatási szerv és a kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
 
 (3) Ha törvény eltérően nem rendelkezik, a fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 
@@ -34,21 +34,23 @@ k) megállapítja, illetve jóváhagyja az irányítása alá tartozó költség
 
 l) jóváhagyja az irányítása alá tartozó költségvetési szervek létszám-előirányzatát, ha annak megállapítása nem a Kormány hatáskörébe tartozik;
 
-m) a költségvetési törvényben meghatározott értékhatárig, fejezetén belül a címek között, valamint a címeken belül a költségvetési szervek között átcsoportosítást végez, továbbá kezdeményezheti a Kormány hatáskörébe tartozó címek közötti átcsoportosítást;
+m) e törvényben foglaltak szerint a fejezeten belül átcsoportosítást végez, továbbá kezdeményezheti a Kormány hatáskörébe tartozó átcsoportosítást;
 
 n) gondoskodik a hatáskörébe utalt alapok működéséről, az előirányzatok módosításáról, ha törvény másként nem rendelkezik, dönt azok felhasználásáról;
 
 o) összefoglalva elkészíti az irányítása alá tartozó fejezet és a hatáskörébe utalt alap költségvetésének végrehajtásáról szóló zárszámadást, illetve az irányítása alá tartozó szervek tekintetében irányítja annak előkészítését;
 
-p) vezetője, az államháztartásért felelős miniszterrel egyetértésben – évente február 15-éig, kormányrendeletben foglaltakra figyelemmel, a költségvetési törvényben meghatározott célra tekintettel – szabályozza a fejezeti kezelésű előirányzatok vonatkozásában a 24. § (9) bekezdésében foglaltakat;
+p) vezetője, az államháztartásért felelős miniszterrel egyetértésben – évente február 15-éig, kormányrendeletben foglaltakra figyelemmel, a költségvetési törvényben meghatározott célra tekintettel – szabályozza a fejezeti kezelésű előirányzatok vonatkozásában a 100/J. § (1) bekezdésében foglaltakat;
 
-q) megszervezi a feladatkörébe tartozó egyes szakmai, támogatási, illetve európai uniós támogatásból megvalósuló programok végrehajtását, lebonyolítását;
+q) megszervezi a feladatkörébe tartozó egyes szakmai, támogatási, illetve európai uniós forrásból származó támogatásból megvalósuló programok végrehajtását, lebonyolítását;
 
-r) gondoskodik a 47. § (1) bekezdésében foglalt keretszámok betartásáról;
+r)
 
 s)
 
-t) beszámoltatja az irányítása alá tartozó költségvetési szervek vezetőit az államháztartási belső kontrollrendszerek működtetéséről; a Kormány irányítása alá tartozó szerv esetén erről külön jogszabály szerint beszámol az államháztartásért felelős miniszternek.
+t) beszámoltatja az irányítása alá tartozó költségvetési szervek vezetőit a belső kontrollrendszer működtetéséről;
+
+u) jogszabályban meghatározott módon beszámol az államháztartásért felelős miniszternek az irányítása alá tartozó költségvetési szerv belső kontrollrendszerének és az annak részét képező ellenőrzés működéséről.
 
 (6)
 

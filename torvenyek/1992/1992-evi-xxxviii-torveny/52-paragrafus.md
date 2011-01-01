@@ -4,7 +4,7 @@
 
 (3) A november 30-ig – az országgyűlési képviselők általános választásának évében december 10-ig – meghozandó határozat elfogadása után a költségvetési törvényjavaslat vitájában a benyújtott módosító javaslatok a többlet vagy hiány mértékét és a (2) bekezdés szerint meghatározott fejezeti, alaponkénti és társadalombiztosítási pénzügyi alaponkénti bevételi és kiadási főösszegeket nem változtathatják meg.
 
-(4) A fejezetet irányító szerv, illetve a külön jogszabályban arra feljogosított szerv a költségvetési törvény elfogadását követően – kormányrendeletben meghatározottak szerint – megállapítja az irányítása alá tartozó fejezetbe sorolt központi költségvetési szervek és fejezeti kezelésű előirányzatok költségvetési előirányzatait (kincstári költségvetés) és meghatározza az irányítása alá tartozó központi költségvetési szerv költségvetésének elkészítéséhez szükséges további keretszámokat, szempontokat.
+(4)
 
 (5) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és az egészségbiztosítási szerv vezetője a költségvetésről szóló törvény kihirdetését követően – a kormányrendeletben meghatározottak szerint – kincstári költségvetést készít a felügyelete alá tartozó költségvetési szervekre és az Alapokra vonatkozóan és meghatározza a hivatali szerv és az igazgatási szervei működési költségvetése, valamint az általuk kezelt Alapok részletes előirányzatai (elemi költségvetés) elkészítéséhez szükséges további keretszámokat.
 

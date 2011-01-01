@@ -1,4 +1,4 @@
-61. § Az alap előirányzatai terhére – a 18/B. § (1) bekezdésének d) pontja szerinti megelőlegezési, likviditási hitelt, valamint részvény, üzletrész és egyéb vagyontárgy az 59. §-ban vagy külön törvényben foglaltak alapján történő megszerzését kivéve –
+61. § Az alap előirányzatai terhére – a 61/A. § szerinti megelőlegezési, likviditási hitelt, valamint részvény, üzletrész és egyéb vagyontárgy az 59. §-ban vagy külön törvényben foglaltak alapján történő megszerzését kivéve –
 
 a) pénzkölcsön (hitel) nem vehető fel,
 

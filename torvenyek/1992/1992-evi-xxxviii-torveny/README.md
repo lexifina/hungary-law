@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-38-00-00
 | 2010-11-19 | 2010. évi CXIV. törvény | 1992-38-00-00.108 |
 | 2010-12-22 | 2010. évi CLIV. törvény | 1992-38-00-00.109 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 1992-38-00-00.110 |
+| 2011-01-01 | 2010. évi CLIII. törvény | 1992-38-00-00.111 |
