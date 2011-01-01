@@ -8,4 +8,6 @@ b) Az intézmények saját folyó bevételei, a működési vagyon hasznosítás
 
 (2) A költségvetési szervek és a központi kezelésű előirányzatokat terhelik az ügyvitelben kifizetett személyi juttatások, a munkaadókat terhelő járulékok, a dologi kiadások, az egyéb működési célú támogatások és kiadások, a kamatfizetések, intézményi beruházási kiadások, felújítás és egyéb intézményi felhalmozási kiadások, a kölcsönök, továbbá törvényben meghatározott egyéb kiadások .
 
-(3)–(4)
+(3) A fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek működési és felhalmozási kiadásai nem az Alapokat terhelik, azok fedezetét a központi költségvetés biztosítja.
+
+(4)

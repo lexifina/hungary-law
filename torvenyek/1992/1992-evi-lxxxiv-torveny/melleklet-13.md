@@ -10,7 +10,7 @@ ahol
 
 A: a tárgyévi adó bevételi előirányzat
 
-E: a tárgyévi munkáltatói és biztosítotti egészségbiztosítási járulék, egészségügyi hozzájárulás, baleseti járulék és táppénz-hozzájárulás bevételi előirányzat
+E: a tárgyévi munkáltatói és biztosítotti egészségbiztosítási járulék, egészségügyi hozzájárulás, egészségügyi szolgáltatási járulék és táppénz-hozzájárulás bevételi előirányzat
 
 Ny: a tárgyévi munkáltatói nyugdíjbiztosítási és biztosítotti nyugdíjjárulék bevételi előirányzat
 

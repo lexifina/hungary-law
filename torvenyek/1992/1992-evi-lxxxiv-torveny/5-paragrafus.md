@@ -26,7 +26,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 3. a munkáltatói táppénz-hozzájárulást,
 
-4. az Alk. tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget,
+4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget,
 
 5. a Munkaerőpiaci Alap általi megtérítéseket,
 

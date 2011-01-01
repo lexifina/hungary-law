@@ -14,7 +14,7 @@ b)
 
 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék,
 
-3. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 23. § (1) bekezdés d) pontja, továbbá a 123. § (4) bekezdésében meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeg,
+3.
 
 4. a gyermekgondozási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék,
 
@@ -26,7 +26,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjbiztosítási járulékot és nyugdíjjárulékot,
 
-2. az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: Alk. tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget,
+2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget,
 
 3. a Munkaerőpiaci Alap általi megtérítéseket,
 
@@ -34,7 +34,9 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 5. a gyermekgondozási díjban részesülők utáni nyugdíjbiztosítási járulék címen átvett pénzeszközt,
 
-6. a rendvédelmi szervek és a Magyar Honvédség hivatásos állományú tagjai kedvezményes nyugellátásához – a járulékkal nem fedezett többletre vonatkozóan – fizetett hozzájárulás összegét;
+6.
+
+7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 23. § (1) bekezdés d) pontjában, a 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 
 d) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra havonta befolyt összegből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
@@ -42,11 +44,7 @@ e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 f) a központi költségvetési hozzájárulások, ideértve
 
-1. a gyermekgondozási segélyben, gyermeknevelési támogatásban, rehabilitációs járadékban részesülők után fizetett nyugdíjbiztosítási járulékot,
-
-2. a magánnyugdíjpénztári tagdíjfizetés miatti járulékkiesés pótlására biztosított költségvetési támogatást,
-
-3. a központi költségvetésben tervezett, az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény 86. §-ának (10) bekezdése szerinti támogatást,
+1–3.
 
 4. a központi költségvetésben tervezett, a korkedvezmény-biztosítási járulék címen átadott pénzeszközt;
 
@@ -56,8 +54,10 @@ h) a Nyugdíjbiztosítási Alap részére tartozás fejében átadott vagyon ér
 
 i) a Nyugdíjbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
 
-j) a 10. § (1) bekezdésében meghatározott működési bevételek.
+j) a 10. § (1) bekezdésében meghatározott működési bevételek;
 
 k)
+
+l) a Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel, ideértve a Tbj. 18. § (6) bekezdése és 26. § (11) bekezdése szerinti bevételt, valamint a külön törvény szerint a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszközt.
 
 (4)
