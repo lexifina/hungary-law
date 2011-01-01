@@ -8,7 +8,7 @@
 
 (2) Az állam – külön törvény alapján – a helyi személyszállítás ellátásához az érintett önkormányzatoknak kiegészítő normatív támogatást, a helyközi (távolsági) személyszállítás ellátásához pedig kizárólag e célra felhasználható, elkülönített forrást biztosít a központi költségvetésből, és valamennyi szolgáltatónak ellentételezi az általa nyújtott utazási kedvezmények miatti bevételkiesést.
 
-(3) Az (1) bekezdésben foglalt önkormányzati feladat ellátásáról az önkormányzat képviselő-testülete (a továbbiakban: önkormányzat), állami feladat ellátásáról a közlekedésért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+(3) Az (1) bekezdésben foglalt önkormányzati feladat ellátásáról az önkormányzat képviselő-testülete (a továbbiakban: önkormányzat), állami feladat ellátásáról a miniszter gondoskodik.
 
 (4) Az önkormányzatok vagy társulásaik és a miniszter
 
