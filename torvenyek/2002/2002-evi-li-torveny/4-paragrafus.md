@@ -1,1 +1,1 @@
-4. § Az új növényfajták oltalmára létesült Nemzetközi Egyezmény végrehajtásával összefüggő feladatok ellátásáról a Magyar Szabadalmi Hivatal elnöke, valamint az agrárpolitikáért felelős miniszter és az élelmiszerlánc-felügyeletért felelős miniszter együttesen gondoskodik.
+4. § Az új növényfajták oltalmára létesült Nemzetközi Egyezmény végrehajtásával összefüggő feladatok ellátásáról a Szellemi Tulajdon Nemzeti Hivatalának elnöke, valamint az agrárpolitikáért felelős miniszter és az élelmiszerlánc-felügyeletért felelős miniszter együttesen gondoskodik.
