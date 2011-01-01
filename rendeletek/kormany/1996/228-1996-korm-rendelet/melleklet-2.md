@@ -68,6 +68,6 @@
 
 ## 10. Kizárólag az őstermelői igazolvány kiállítása iránti kérelmen az ügyfél aláírása és a kérelem dátuma.
 
-2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^33]
+2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^44]
 
-[^33]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -24,6 +24,6 @@
 
 ## 8. Az 5–7. pontok szerinti tárgyévi összes bevétel.
 
-4. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethez[^35]
+4. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethez[^46]
 
-[^35]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 26/2010. (II. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^46]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 34. §-a.
