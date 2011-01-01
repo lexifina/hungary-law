@@ -1,1 +1,0 @@
-## „e) nagyméretű csomagolóeszköz (IBC): merev vagy hajlékony falú, szállítható csomagolóeszköz, amelynek űrtartalma nem haladja meg a 3 m3-t, gépi mozgatásra alkalmas kivitelű, a szállítás és kezelés során fellépő erőhatásoknak ellenáll.”
