@@ -2,7 +2,7 @@
 
 a) országos vagy regionális terjesztésű politikai napilap szerkesztőségének vezetője vagy annak helyettese;
 
-b) a Magyar Távirati Iroda vezérigazgatója és vezérigazgató-helyettese;
+b) a Magyar Távirati Iroda Nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;
 
 c) a Magyar Rádió nonprofit Zrt., a Magyar Televízió nonprofit Zrt., és a Duna Televízió nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;
 
