@@ -1,1 +1,0 @@
-A Kormány a helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 22. § a) pontjában foglalt felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontja szerinti feladatkörében eljárva – a következőket rendeli el:
