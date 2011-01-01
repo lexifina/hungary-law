@@ -1,8 +1,8 @@
 6. § (1)
 
-(2) Felhatalmazást kap a Kormány, hogy miniszteri rendeletet rendeletében hatályon kívül helyezzen.
+(2)
 
-(3) A Miniszterelnöki Hivatalt vezető miniszter az igazságügyért felelős miniszterrel gondoskodik arról, hogy
+(3) A kormányzati tevékenység összehangolásáért felelős miniszter az igazságügyért felelős miniszterrel gondoskodik arról, hogy
 
 a) az 1. § (1) bekezdése szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
 
@@ -14,9 +14,7 @@ bárki számára hozzáférhető legyen.
 
 a) amelyeket 1989. október 23-a előtt alkottak meg,
 
-b) amelyeket felhatalmazás nélkül alkottak meg, vagy
-
-c) amelyek módosítására vagy hatályon kívül helyezésére egyébként nem rendelkeznek felhatalmazással.
+b)–c)
 
 (5) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy – a természet védelméről szóló 1996. évi LIII. törvényben (a továbbiakban: Tvt.) előírt védetté nyilvánítási eljárás lefolytatása nélkül – rendeletben tartsa fenn az 1989. október 23. előtt rendelettel, rendelkezéssel, határozattal védetté nyilvánított természeti területek, természeti értékek országos jelentőségű védett természeti területként fennálló védettségét.
 
@@ -36,6 +34,4 @@ d) az Európai Közösségek jogi aktusaiban meghatározott védettségi kategó
 
 (9) Az Országgyűlés felhatalmazást ad az 1989. október 23-a előtt megkötött olyan, tartalmában elavult nemzetközi szerződés megszüntetésére, amelynek kihirdető jogszabálya nincs hatályban.
 
-(10) A módosító jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem érinti a módosított jogszabályi rendelkezés hatályát.
-
-(11) A hatályon kívül helyező jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem eredményezi a korábban hatályon kívül helyezett jogszabály vagy jogszabályi rendelkezés újbóli hatálybalépését.
+(10)–(11)
