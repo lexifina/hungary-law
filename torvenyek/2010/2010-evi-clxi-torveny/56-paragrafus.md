@@ -1,0 +1,5 @@
+56. § Az Nbjtv. 49. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Külföldi bíróság által kiszabott végrehajtandó, illetve részben felfüggesztett szabadságvesztés végrehajtását át lehet venni, ha az elítélt a végrehajtás átvételéhez hozzájárult, és az átvétel iránti kérelemnek az igazságügyért felelős miniszterhez történő érkezésekor az elítéltnek legalább egy év letöltendő büntetése van hátra, vagy ha a büntetés határozatlan időre szól, feltéve, hogy az elítélt magyar állampolgár és állandó lakóhelye Magyarországon van, illetőleg Magyarországra bevándorolt, letelepedett, vagy a Magyar Köztársaság által menekültként elismert nem magyar állampolgár.
+
+(2) Azt a külföldi bíróság által végrehajtandó vagy részben felfüggesztett szabadságvesztésre elítélt magyar állampolgárt, illetőleg Magyarországra bevándorolt, letelepedett, vagy a Magyar Köztársaság által menekültként elismert nem magyar állampolgárt, aki a büntetés végrehajtása előtt Magyarországra visszatért, úgy kell tekinteni, mint aki a végrehajtás átvételéhez hozzájárult.”

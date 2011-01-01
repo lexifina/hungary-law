@@ -1,0 +1,3 @@
+4. § A Btk. 48. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A bíróság a feltételes szabadságot megszünteti, ha az elítéltet az ítélet jogerőre emelkedését megelőzően vagy azt követően elkövetett bűncselekmény miatt a feltételes szabadság alatt végrehajtandó vagy részben felfüggesztett szabadságvesztésre ítélik. A bíróság a feltételes szabadságot megszünteti, ha az elítéltet a feltételes szabadság alatt elkövetett bűncselekmény miatt végrehajtandó vagy részben felfüggesztett szabadságvesztésre ítélik. Ha az elítéltet egyéb büntetésre ítélik, vagy ha a magatartási szabályokat megszegi, a bíróság a feltételes szabadságot megszüntetheti.”
