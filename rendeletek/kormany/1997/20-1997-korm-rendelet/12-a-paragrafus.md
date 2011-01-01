@@ -1,6 +1,6 @@
-## A közoktatási intézménytörzs, OM azonosító[^42]
+## A közoktatási intézménytörzs, OM azonosító[^35]
 
-12/A. §[^43] (1) A közoktatási intézménytörzs tartalmazza a Magyar Köztársaság területén működő közoktatási intézményekkel kapcsolatos közérdekű és közérdekből nyilvános adatokat: a közoktatásról szóló törvény 37. § (5) bekezdésében meghatározott adatokat, feladatellátási helyenként a maximális gyermek- és tanulólétszámot, a gyakorlati képzés ellátásával kapcsolatos adatokat, költségvetési szerv esetén a törzskönyvi azonosító számot (PIR szám), az adószámát, az intézményvezető nevét és elérhetőségeit, a közoktatási intézmény honlapjának címét, az e § és a 12/B. § alapján megküldött dokumentumok számát, keltét, továbbá a fenntartójának a nevét, székhelyét, a képviseletére jogosult nevét, adószámát, KSH kódot és elérhetőségeit (a továbbiakban: közoktatási intézménytörzs).
+12/A. §[^36] (1) A közoktatási intézménytörzs tartalmazza a Magyar Köztársaság területén működő közoktatási intézményekkel kapcsolatos közérdekű és közérdekből nyilvános adatokat: a közoktatásról szóló törvény 37. § (5) bekezdésében meghatározott adatokat, feladatellátási helyenként a maximális gyermek- és tanulólétszámot, a gyakorlati képzés ellátásával kapcsolatos adatokat, költségvetési szerv esetén a törzskönyvi azonosító számot (PIR szám), az adószámát, az intézményvezető nevét és elérhetőségeit, a közoktatási intézmény honlapjának címét, az e § és a 12/B. § alapján megküldött dokumentumok számát, keltét, továbbá a fenntartójának a nevét, székhelyét, a képviseletére jogosult nevét, adószámát, KSH kódot és elérhetőségeit (a továbbiakban: közoktatási intézménytörzs).
 
 (2) A közoktatási intézménytörzsben nyilván kell tartani
 
@@ -12,7 +12,7 @@ c) a bölcsődét, a fogyatékosok ápoló, gondozó otthonát, a fogyatékosok 
 
 d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 96. § (5) bekezdése szerinti közös igazgatású intézményeket, ha az adott intézményben nevelési-oktatási intézményegység, illetve nevelési tanácsadó működik [az a)–d) pont alattiak a továbbiakban együtt: közoktatási intézmény].
 
-(3) Ha a közoktatási intézmény nem helyi önkormányzati fenntartásban működik, a jegyző, főjegyző a közoktatási intézmény működési engedélyének, illetve – ha arra nincs szükség – a nyilvántartásba vétellel kapcsolatos határozatának jogerősítő záradékkal ellátott példányát – a jogerőre emelkedést követő öt munkanapon belül – az Oktatási Hivatal által meghatározott formában és módon megküldi a KIR részére, mellékelve hozzá:
+(3)[^37] Ha a közoktatási intézmény nem helyi önkormányzati fenntartásban működik, a jegyző, főjegyző a közoktatási intézmény működési engedélyének, illetve – ha arra nincs szükség – a nyilvántartásba vétellel kapcsolatos határozatának jogerősítő záradékkal ellátott példányát – a jogerőre emelkedést követő nyolc napon belül – az Oktatási Hivatal által meghatározott formában és módon megküldi a KIR részére, mellékelve hozzá:
 
 a) a fenntartónak a közoktatási szolgáltató tevékenység folytatására jogosító okiratát, ha a fenntartó e tevékenységet nem jogszabály felhatalmazása alapján látja el,
 
@@ -22,20 +22,24 @@ c) a (2) bekezdés b)–d) pontja szerinti közoktatási intézmény nem közokt
 
 d) a nem helyi önkormányzati fenntartású költségvetési szerv közoktatási intézmény törzskönyvi nyilvántartásba vételéről szóló igazolást,
 
-e)[^44] a közoktatási intézmény egységes szerkezetű alapító okiratát.
+e)[^38] a közoktatási intézmény egységes szerkezetű alapító okiratát.
 
-(4) A helyi önkormányzat, illetve valamely társulási formája által fenntartott közoktatási intézmény alapító okiratát és a törzskönyvi nyilvántartásba vételről szóló igazolást a Magyar Államkincstár fenntartó székhelye szerint illetékes Regionális Igazgatósága (a továbbiakban: Igazgatóság) a bejegyzést követő öt munkanapon belül juttatja el a KIR részére.
+(4)[^39] A helyi önkormányzat, illetve valamely társulási formája által fenntartott közoktatási intézmény alapító okiratát és a törzskönyvi nyilvántartásba vételről szóló igazolást a Magyar Államkincstár a bejegyzést követő nyolc napon belül juttatja el a KIR részére.
 
-(5) Az Oktatási Hivatal a (3)–(4) bekezdésben meghatározott iratok megküldését követő öt munkanapon belül felhívja a közoktatási intézmény fenntartóját, hogy a KIR-en keresztül, az ott meghatározott módon adja meg a közoktatási intézmény közérdekű és közérdekből nyilvános adatait. A közoktatási intézmény közérdekű és közérdekből nyilvános adatait a fenntartó megbízásából az intézményvezető is megküldheti. A helyi önkormányzat és annak társulásai által fenntartott – a (2) bekezdés b)–d) pontja szerinti – közoktatási feladatot ellátó intézmény nem közoktatási feladatát engedélyező működési engedélyét is az e bekezdés szerinti adatközléskor kell megküldeni.
+(5)[^40] Az Oktatási Hivatal a (3)–(4) bekezdésben meghatározott iratok megküldését követő nyolc napon belül felhívja a közoktatási intézmény fenntartóját, hogy a KIR-en keresztül, az ott meghatározott módon adja meg a közoktatási intézmény közérdekű és közérdekből nyilvános adatait. A közoktatási intézmény közérdekű és közérdekből nyilvános adatait a fenntartó megbízásából az intézményvezető is megküldheti. A helyi önkormányzat és annak társulásai által fenntartott – a (2) bekezdés b)–d) pontja szerinti – közoktatási feladatot ellátó intézmény nem közoktatási feladatát engedélyező működési engedélyét is az e bekezdés szerinti adatközléskor kell megküldeni.
 
 (6) A (3)–(5) bekezdésben foglaltakat az adatváltozással kapcsolatos eljárás során is megfelelően alkalmazni kell.
 
-(7) Az elektronikusan rögzített adatokat és az e §-ban előírt okiratokat az Oktatási Hivatal megvizsgálja, és öt munkanapon belül dönt a közoktatási intézmény nyilvántartásba vételével kapcsolatos kérelemről. Az Oktatási Hivatal gondoskodik arról, hogy a beküldött dokumentumok, a közérdekű és közérdekből nyilvános adatok a közoktatási intézménytörzsben elektronikus formában mindenki számára ingyenesen a KIR honlapján hozzáférhetővé váljanak. Az Oktatási Hivatal a kiadott OM azonosítót megküldi a közoktatási intézménynek, valamint a Magyar Államkincstárnak.
+(7)[^41] Az elektronikusan rögzített adatokat és az e §-ban előírt okiratokat az Oktatási Hivatal megvizsgálja, és nyolc napon belül dönt a közoktatási intézmény nyilvántartásba vételével kapcsolatos kérelemről. Az Oktatási Hivatal gondoskodik arról, hogy a beküldött dokumentumok, a közérdekű és közérdekből nyilvános adatok a közoktatási intézménytörzsben elektronikus formában mindenki számára ingyenesen a KIR honlapján hozzáférhetővé váljanak. Az Oktatási Hivatal a kiadott OM azonosítót megküldi a közoktatási intézménynek, valamint a Magyar Államkincstárnak.
 
 (8) Ha az Interneten keresztül történő adatrögzítés nem megoldott, az Oktatási Hivatal a (9) bekezdés alapján – kérelemre – engedélyezi az adatok papír alapon történő megküldését. A papír alapú adatközlés esetében az adatlapot az Oktatási Hivatal küldi meg, egyúttal írásban tájékoztatást ad az adatközlés határidejéről, a jelentési kötelezettségről.
 
 (9) A papír alapú adatközlés csak abban az esetben engedélyezhető, ha az Internet hozzáférés a településen nem megoldott. Az engedély éves jelentési kötelezettség mellett visszavonásig a KIR valamennyi alrendszerével kapcsolatos jelentés vonatkozásában fennáll.
 
-[^42]: A 12/A. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 8. §-a iktatta a szövegbe.
-[^43]: A 12/A. §-t a 196/1999. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^44]: A 12/A. § (3) bekezdés e) pontját a 150/2010. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
+[^35]: A 12/A. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^36]: A 12/A. §-t a 196/1999. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 12/A. § (3) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. A 12/A. § (3) bekezdés nyitó szövegrészében a 351/2010. (XII. 30.) Korm. rendelet 38. § (6) bekezdése alapján az „a jegyző, főjegyző” szövegrész helyébe az „a kormányhivatal” szöveg lép. [Utóbbi módosító rendelet 299. § (5) bekezdése alapján 2011. július 1-jén lép hatályba.]
+[^38]: A 12/A. § (3) bekezdés e) pontját a 150/2010. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
+[^39]: A 12/A. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^40]: A 12/A. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^41]: A 12/A. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

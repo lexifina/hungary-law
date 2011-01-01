@@ -1,8 +1,8 @@
 9. § (1) Az állandó helyettesítési rendszerbe történő felvételét az kérheti, aki rendelkezik a pedagógus-munkakör betöltésére meghatározott felsőfokú iskolai végzettséggel és szakképzettséggel, illetve, aki a pedagógusképző felsőoktatási intézmény pedagógusképzésben részt vevő utolsó éves hallgatója.
 
-(2)[^24] Az állandó helyettesítési rendszerben történő nyilvántartás iránti kérelemben fel kell tüntetni a jelentkező
+(2)[^16] Az állandó helyettesítési rendszerben történő nyilvántartás iránti kérelemben fel kell tüntetni a jelentkező
 
-a)[^25] nevét, azonosító számát,
+a)[^17] nevét, azonosító számát,
 
 b) lakóhelyét, tartózkodási helyét, azt a címet, ahová az értesítést kéri, telefonszámát,
 
@@ -16,5 +16,5 @@ d) munkába állására vonatkozó igényét (teljes vagy részmunkaidőben, a f
 
 (5) A felvételi kérelmek elbírálásánál előnyben kell részesíteni azt a pedagógust, aki munkanélküli vagy előre láthatóan egy hónapon belül munkanélkülivé válhat.
 
-[^24]: A 9. § (2) bekezdésének felvezető szövege a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének d) pontja szerint módosított szöveg.
-[^25]: A 9. § (2) bekezdésének a) pontja a 310/2004. (XI. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^16]: A 9. § (2) bekezdésének felvezető szövege a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^17]: A 9. § (2) bekezdésének a) pontja a 310/2004. (XI. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

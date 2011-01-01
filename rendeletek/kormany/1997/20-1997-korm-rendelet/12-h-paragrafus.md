@@ -16,8 +16,9 @@ b) az óvoda és az általános iskola felvételi körzetében élő hátrányos
 
 (5) A jegyző a kitöltött nyilatkozat egy példányát a szülőnek átadja. A halmozottan hátrányos helyzetű gyermeknek, tanulónak járó kedvezmény igénybevételének a feltétele a nyilatkozat és a rendszeres gyermekvédelmi kedvezmény megállapításáról szóló jogerős határozat bemutatása.
 
-(6) A jegyző a szülő írásbeli hozzájárulása esetén a nyilatkozatot másolatban öt munkanapon belül megküldi a nevelési-oktatási intézménynek. Az intézményvezető – a szülő hozzájárulása esetén – a felvételi naplóban, a törzslapon feltünteti, hogy a gyermek, tanuló hátrányos helyzetű vagy halmozottan hátrányos helyzetű. A nevelési-oktatási intézmény a nyilatkozatot a tanulói jogviszony megszűnését követő öt évig jogosult kezelni.
+(6)[^69] A jegyző a szülő írásbeli hozzájárulása esetén a nyilatkozatot másolatban nyolc napon belül megküldi a nevelési-oktatási intézménynek. Az intézményvezető – a szülő hozzájárulása esetén – a felvételi naplóban, a törzslapon feltünteti, hogy a gyermek, tanuló hátrányos helyzetű vagy halmozottan hátrányos helyzetű. A nevelési-oktatási intézmény a nyilatkozatot a tanulói jogviszony megszűnését követő öt évig jogosult kezelni.
 
 [^66]: A 12/G. §-t a 310/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 349/2007. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^67]: A 12/H. §-t megelőző címet a 119/2006. (V. 15.) Korm. rendelet 2. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^68]: A 12/H. §-t a 119/2006. (V. 15.) Korm. rendelet 2. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^69]: A 12/H. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
