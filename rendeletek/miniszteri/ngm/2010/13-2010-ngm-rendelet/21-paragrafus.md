@@ -1,0 +1,7 @@
+## 20. § A beosztás ellátására való alkalmatlanságnak a minősítésen alapuló megállapítására – az egészségi, pszichikai és fizikai alkalmatlanság kivételével – csak a minősítés alapján a szolgálattal összefüggő tevékenységben jelentkező konkrét hibák, mulasztások megjelölésével van mód. A minősítés abban az esetben lehet a szolgálati viszony megszüntetésének jogalapja, ha a feltárt hibák ismétlődtek, az azok kijavítására adott határidő eredménytelenül telt el, vagy a mulasztások súlyossága miatt az érintett további hivatásos állományban tartása sértené a NAV érdekeit. Az alkalmatlanság megállapítása előtt biztosítani kell az érintett és képviselőjének meghallgatását, és arról jegyzőkönyvet kell készíteni.
+
+## 14. A szolgálati viszony megszűnése a törvény erejénél fogva
+
+21. § (1) A társadalombiztosítási szabályok szerint a pénzügyőr születési éve alapján irányadó öregségi nyugdíjkorhatár elérése miatt a szolgálati viszony megszüntetését az öregségi nyugdíjkorhatár elérésének napjával kell elrendelni, egyben intézkedni kell a nyugdíjjogosultság időpontjának megállapítására.
+
+(2) A szolgálati viszonynak a Hszt. 59. § (1) bekezdés c) pontja, illetve e) pontja értelmében történő megszüntetése esetén a parancsban rögzíteni kell, hogy a mandátum lejárta után, illetve állami vezetői megbízatásából eredő hatáskörei gyakorlásának megszűnését követően az érintett 30 napon belül előterjesztett kérelme esetén, a NAV-ot visszavételi kötelezettség terheli.

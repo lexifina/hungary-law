@@ -1,0 +1,3 @@
+13. § (1) Azonos vagy magasabb beosztásba a pénzügyőr csak abban az esetben nevezhető ki, ha megfelel a beosztásához szükséges, az 1. mellékletben meghatározott követelményeknek. Áthelyezés esetén a pénzügyőr az új szakterületnek megfelelő átképzésre kötelezhető.
+
+(2) Az állományilletékes parancsnok a Hszt. 44. § (1) bekezdés b), e), f) pontjai alapján beosztás hiánya miatt rendelkezési állományban lévők részére köteles meghatározni a szolgálatteljesítés helyét, és számukra képzettségüknek, végzettségüknek, továbbá a Hszt. 44. § (1) bekezdés f) pontja esetében egészségi, pszichikai és fizikai állapotuknak megfelelő, ideiglenes feladatot biztosítani.

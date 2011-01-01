@@ -1,0 +1,3 @@
+88. § (1) A Hszt. 149. § (3) bekezdése szempontjából beismerésnek kell tekinteni azt is, ha a pénzügyőr az ellene indult büntetőeljárásban hozott, a bűncselekmény elkövetését megállapító érdemi döntést tartalmazó határozattal (határozat, végzés vagy ítélet) szembeni jogorvoslatban a terhére rótt tényállás megvalósítását nem vitatja.
+
+(2) Ha a pénzügyőrrel szemben több, a Hszt. 149. §-a hatálya alá tartozó bűncselekmény miatt folyik büntetőeljárás és a tettenérés vagy a beismerés csak valamelyik bűncselekmény vonatkozásában áll fenn, a Hszt. 56. § (6) bekezdése c) pontja szerinti méltatlanná válást csak e bűncselekmény vonatkozásában lehet vizsgálni és megállapítani a büntetőeljárás jogerős befejezése előtt.

@@ -1,0 +1,3 @@
+65. § (1) A fegyelmi eljárás lefolytatásához a NAV szervei és alkalmazottai kötelesek a szükséges információkat megadni, iratokat – a minősített adatra vonatkozó szabályok szerint – átadni, a kért vizsgálatokat elvégezni. E rendelkezés nem alkalmazható az eljárásba tanúként bevont személyek vonatkozásában.
+
+(2) Ha a bizonyításhoz más hatóságnál vagy bíróságnál keletkezett iratok beszerzése szükséges, az erről szóló megkeresésben a fegyelmi jogkör gyakorlójának meg kell jelölnie az eljárás alá vont személyt, a kért irat vagy bizonyíték összefüggését a fegyelmi eljárás tényállásával és a vétkesség megállapításával.
