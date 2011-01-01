@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-175-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-175-20-22.3 | 175/2003. (X. 28.) Korm. rendelet |
+| 2011-01-01 | 2003-175-20-22.4 | 25/2007. (II. 28.) Korm. rendelet |
