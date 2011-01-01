@@ -1,0 +1,3 @@
+24. § A Hvt. 99. § helyébe a következő rendelkezés lép:
+
+„99. § A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint – az e törvényben, illetőleg a Honvédség irányításának és felső szintű vezetésének rendjére vonatkozó kormányhatározat, továbbá a honvédelemért felelős miniszter által megállapított hatásköri szabályok szerint – a Honvédség irányításáért és vezetéséért felelős központi államigazgatási szerv.”
