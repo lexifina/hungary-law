@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-85-00-00
 | --- | --- | --- |
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-85-00-00.7 |
 | 2010-04-01 | 2009. évi CLV. törvény | 2001-85-00-00.8 |
+| 2011-01-01 | 2010. évi CXXX. törvény | 2001-85-00-00.9 |
