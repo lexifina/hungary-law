@@ -53,4 +53,4 @@
 2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^11]
 
 [^*:]: A Jelentkezési laphoz mellékelni kell a választott képzésnek megfelelő munkakör 1/2000. (I. 7.) SZCSM rendeletben foglalt képesítési előírásainak teljesítését igazoló dokumentumok másolatát.
-[^11]: A 2. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indított képzések tekintetében kell alkalmazni.
+[^11]: A 2. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 24/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.

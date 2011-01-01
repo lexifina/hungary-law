@@ -10,7 +10,7 @@
 
 ## Anyja neve:
 
-| A Nemzeti Szakképzési és Felnőttképzési Intézet nevében hivatalosan igazolom, hogy fent nevezett személy ....................................................................................………........................ képzésre ........ év ...…............ hó .…. napján jelentkezett, a ............................................... Ft összegű jelentkezési díjat megfizette, a jelentkezése elfogadásra került. |
+| A Nemzeti Család- és Szociálpolitikai Intézet nevében hivatalosan igazolom, hogy fent nevezett személy ....................................................................................………........................ képzésre ........ év ...…............ hó .…. napján jelentkezett, a ............................................... Ft összegű jelentkezési díjat megfizette, a jelentkezése elfogadásra került. |
 
 ## A képzést lebonyolító képzőhely:
 
@@ -42,7 +42,7 @@ részére,
 
 | anyja neve: ........................................................................., |
 
-| a Nemzeti Szakképzési és Felnőttképzési Intézet által szervezett, |
+| a Nemzeti Család- és Szociálpolitikai Intézet által szervezett, |
 
 | a 81/2004. (IX. 18.) ESZCSM rendeletben foglalt feltételeknek megfelelően szervezett |
 
@@ -52,7 +52,7 @@ részére,
 
 | A vizsgabizottság előtt ................................. minősítéssel záróvizsgát tett. |
 
-| A tanúsítvány a Nemzeti Szakképzési és Felnőttképzési Intézet nyilvántartásába a ............................................ szám alatt bejegyzésre került. |
+| A tanúsítvány a Nemzeti Család- és Szociálpolitikai Intézet nyilvántartásába a ............................................ szám alatt bejegyzésre került. |
 
 Kelt ............................................., ....... év ...................... hó ..... napján.
 
@@ -62,4 +62,4 @@ Kelt ............................................., ....... év ................
 
 | a képző intézmény vezetője | a vizsgabizottság elnöke |
 
-[^12]: A 3. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indított képzések tekintetében kell alkalmazni.
+[^12]: A 3. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 24/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.
