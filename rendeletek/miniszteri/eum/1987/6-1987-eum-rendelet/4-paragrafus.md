@@ -1,4 +1,4 @@
-## 3. §[^5] Az e rendeletben foglaltak egészségügyi (munka- és foglalkozás-egészségügyi) vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére az Országos Munkavédelmi és Munkaügyi Főfelügyelőség jogosult.
+## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal munkavédelmi felügyelősége jogosult.
 
 4. §[^6] Ez a rendelet 1987. július 1. napján lép hatályba.
 
@@ -368,7 +368,7 @@ b) gyógyzsilipelés végrehajtásakor a zsilipben a hőmérsékletnek lehetőle
 
 | 321–340 |  |  |  |  | 5 | 10 | 25 | 40 | 85 | 80 |
 
-[^5]: A 3. § a 18/2007. (V. 10.) SZMM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
 [^6]: A 4. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 211. pontja hatályon kívül helyezte.
 [^7]: A melléklet 1.3. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^8]: A melléklet 8.1. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (3) bekezdésével megállapított szöveg.
