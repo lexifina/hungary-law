@@ -14,4 +14,4 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (5) A (4) bekezdésben meghatározott személyes adatokat a Felügyelet az ellenőrző bizottsági tagságról meghozott döntés időpontjáig, illetve – az ellenőrző bizottsági tagságra történő kinevezés esetén – az ellenőrző bizottsági tagságot megszüntető ok bekövetkeztéig kezeli.
 
-(6) Nem lehet az ellenőrző bizottság tagja az a személy, aki a Felügyelet felhívására, a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
+(6) Nem lehet az ellenőrző bizottság tagja az a személy, aki a Felügyelet felhívására, a felhívástól számított huszonegy napon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.

@@ -4,7 +4,7 @@
 
 (2) Ha a pénztár az intézkedési tervben foglaltaknak nem tesz eleget, vagy az intézkedési terv a pénztár biztonságos működését nem segíti elő, a Felügyelet felügyeleti biztost nevezhet ki. A Felügyelet felügyeleti biztost rendelhet ki abban az esetben is, ha a pénztár számvitelében vagy belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlen a pénztár valódi pénzügyi helyzetének értékelése, valamint ha a pénztár igazgatótanácsa nem tudja ellátni feladatát, és ez veszélyezteti a pénztártagok érdekeit.
 
-(3) Felügyeleti biztos csak a pénztárral üzleti kapcsolatban nem álló és a pénztár tagságához nem tartozó személy lehet.
+(3)
 
 (4) A felügyeleti biztos feladata a pénztár helyzetének feltárása, a pénztárvagyon felmérése, a pénztár beszámoltatásának előkészítése. A felügyeleti biztos a vizsgálatának lezárása után 15 napon belül köteles a közgyűlést összehívni.
 

@@ -45,3 +45,7 @@ d) a c) pont szerinti intézkedés teljesítésének határidejét és a végreh
 e) a panasz megválaszolásának időpontját.
 
 (13) A pénztár a panaszkezelési szabályzatot a pénztártagok számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A pénztár a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A pénztár köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.

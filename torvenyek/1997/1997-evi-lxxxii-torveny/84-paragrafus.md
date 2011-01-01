@@ -4,7 +4,7 @@ a) A pénztár ellen felszámolási eljárásnak van helye, ha a pénztár fizet
 
 b) A pénztár ellen nincs helye csődeljárásnak.
 
-c) A bíróság a pénztár felszámolójának csak a Hpt.-ben meghatározott közhasznú társaságot jelölheti ki.
+c) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 d) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 
@@ -23,3 +23,5 @@ c) a tagdíjak beszedéséről az Alap gondoskodik.
 (5) A felszámolás kezdő időpontjában a tartalékokhoz tartozó eszközök listáját azonnal le kell zárni, és azt a felszámolónak át kell adni. A felszámolási eljárás során ezek az eszközök külön kezelendők és azok csak a fedezeti tartalékkal szemben fennálló tagi, illetve hozzátartozói követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 
 (6) A pénztárak felszámolása esetén a Cstv. 62. §-a (1) bekezdésében meghatározott, az állam járadék jellegű követelésekért fennálló felelősségére vonatkozó rendelkezés a pénztártagi követelések tekintetében nem alkalmazható.
+
+(7) Pénztár felszámolása esetén az eljárás felfüggesztésének nincs helye.

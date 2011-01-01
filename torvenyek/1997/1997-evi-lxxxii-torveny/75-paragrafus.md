@@ -1,4 +1,4 @@
-75. § (1) A letétkezelővel, vagyonkezelővel, a számlavezetővel, kiszervezett tevékenységet végzővel, a biztosításmatematikai feladatokat ellátóval kötött szerződés és annak módosítása csak írásban érvényes. A szolgáltatóval kötött szerződésről és annak megszüntetéséről a pénztár 3 munkanapon belül tájékoztatja a Felügyeletet, a Felügyelet által meghatározott tartalmú adatlap megküldésével.
+75. § (1) A letétkezelővel, vagyonkezelővel, a számlavezetővel, kiszervezett tevékenységet végzővel, a biztosításmatematikai feladatokat ellátóval kötött szerződés és annak módosítása csak írásban érvényes. A szolgáltatóval kötött szerződésről és annak megszüntetéséről a pénztár öt napon belül tájékoztatja a Felügyeletet, a Felügyelet által meghatározott tartalmú adatlap megküldésével.
 
 (2)
 

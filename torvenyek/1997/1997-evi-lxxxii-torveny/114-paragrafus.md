@@ -4,4 +4,4 @@
 
 (3) A felügyeleti biztos az általa megtett intézkedésekről a pénztár igazgatótanácsát kérésre 3 napon belül írásban köteles tájékoztatni.
 
-(4) A felügyeleti biztost a felügyelet elnöke által meghatározott díjazás illeti meg, amelyet az érintett pénztár fizet.
+(4)
