@@ -16,7 +16,7 @@ f) azon időpont, hely és eszköz megjelölését, amikor, ahol és amely álta
 
 g)[^7] a nyilvánosság részvételére irányuló további intézkedések részleteit, melyek lehetővé teszik a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára a hatékony felkészülést és részvételt.
 
-(2)[^8] A bányafelügyelet gondoskodik arról, hogy a beérkezési határidőt követő 5 munkanapon belül a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára hozzáférhetővé tegye a következőket:
+(2)[^8] A bányafelügyelet gondoskodik arról, hogy a beérkezési határidőt követő 8 napon belül a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára hozzáférhetővé tegye a következőket:
 
 a) a bányafelügyelethez a nyilvánosság (1) bekezdéssel összhangban történő tájékoztatásakor eljuttatott főbb jelentéseket és véleményeket,
 
@@ -24,7 +24,7 @@ b) bármilyen, az (1) bekezdésben meghatározott információn túlmenő olyan 
 
 (3) A bányafelügyelet biztosítja, hogy a nyilvánosság tájékoztatása az engedélyfeltételeknek a 6. § (4) bekezdése szerinti módosításáról – az (1) bekezdéssel összhangban – megtörténjen.
 
-(4)[^9] A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek jogosultak az (1) bekezdés szerinti közzétételt követő 8 munkanapon belül észrevételeivel és véleményével a bányafelügyelethez fordulni.
+(4)[^9] A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek jogosultak az (1) bekezdés szerinti közzétételt követő 10 napon belül észrevételeivel és véleményével a bányafelügyelethez fordulni.
 
 (5)[^10] A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek véleményét a döntéshozatalkor megfelelően figyelembe kell venni.
 
@@ -32,7 +32,7 @@ b) bármilyen, az (1) bekezdésben meghatározott információn túlmenő olyan 
 
 [^6]: A 7. § (1) bekezdés d) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
 [^7]: A 7. § (1) bekezdés g) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^8]: A 7. § (2) bekezdés nyitó szövegrésze a 22/2010. (III. 19.) KHEM rendelet 6. § (3) és (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^9]: A 7. § (4) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) és (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^8]: A 7. § (2) bekezdés nyitó szövegrésze a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^9]: A 7. § (4) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^10]: A 7. § (5) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
 [^11]: A 7. § (6) bekezdése a 22/2010. (III. 19.) KHEM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
