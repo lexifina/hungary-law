@@ -4,7 +4,7 @@
 
 ## A/1. táblázat – a háztartási berendezés-kategóriánként meghatározott minimális begyűjtési arány mértéke
 
-| Elektromos és elektronikai berendezéskategória | 2009. évben | 2010. évben |
+| Elektromos és elektronikai berendezéskategória | 2009. évben | 2010. évtől |
 
 | 1. Háztartási nagygép | 38% | 39% |
 
@@ -24,7 +24,7 @@
 
 ## A/2. táblázat – a nem háztartási berendezés-kategóriánként meghatározott minimális begyűjtési arány mértéke
 
-| Elektromos és elektronikai berendezéskategória | 2009. évben | 2010. évben |
+| Elektromos és elektronikai berendezéskategória | 2009. évben | 2010. évtől |
 
 | 9. Ellenőrző, vezérlő és megfigyelő eszközök | 5% | 5% |
 
@@ -40,9 +40,9 @@
 
 ## K: a táblázatban az adott kategóriához, berendezés-kategóriánként meghatározott, tárgyévre vonatkozó minimális begyűjtési arány mértéke, százalék.
 
-## Az Információs (IT) és távközlési berendezések 3. kategóriában az F mennyiségből 2009. évben legalább 10%-ot, 2010. évben legalább 12%-ot képcsöves berendezésekből kell teljesíteni.
+## Az Információs (IT) és távközlési berendezések 3. kategóriában az F mennyiségből 2009. évben legalább 10%-ot, 2010. évtől legalább 12%-ot képcsöves berendezésekből kell teljesíteni.
 
-## Szórakoztató elektronikai cikkek 4. kategóriában az F mennyiségből 2009. évben legalább 10%-ot, 2010. évben legalább 15%-ot képcsöves berendezésekből kell teljesíteni.
+## Szórakoztató elektronikai cikkek 4. kategóriában az F mennyiségből 2009. évben legalább 10%-ot, 2010. évtől legalább 15%-ot képcsöves berendezésekből kell teljesíteni.
 
 ## B) A hasznosítási és újrafeldolgozási arány mértéke
 

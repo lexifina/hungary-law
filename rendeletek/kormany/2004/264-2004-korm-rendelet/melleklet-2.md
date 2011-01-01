@@ -224,4 +224,4 @@
 
 2. számú melléklet a 264/2004. (IX. 23.) Korm. rendelethez[^66]
 
-[^66]: A 2. számú melléklet a 181/2008. (VII. 8.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^66]: A 2. számú melléklet a 181/2008. (VII. 8.) Korm. rendelet 17. § (4) bekezdésével megállapított, a 310/2010. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
