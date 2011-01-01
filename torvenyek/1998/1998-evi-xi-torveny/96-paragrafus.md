@@ -2,7 +2,7 @@
 
 96. § (1) Az ügyvédjelöltek névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-a) a 13. § (3) bekezdés a)–d) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában meghatározott feltételeknek megfelel,
+a) a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában meghatározott feltételeknek megfelel,
 
 b) munkaviszonyt létesített ügyvédjelölt foglalkoztatására jogosult ügyvéddel vagy olyan ügyvédi irodával, amelynek ilyen ügyvéd tagja van.
 

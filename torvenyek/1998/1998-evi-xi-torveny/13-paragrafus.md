@@ -16,19 +16,17 @@
 
 a) az Európai Gazdasági Térségről szóló Megállapodásban részes valamely állam állampolgára,
 
-b)
+b) jogi egyetemi végzettséggel rendelkezik,
 
-c)
+c) magyar jogi szakvizsgát tett,
 
-d) jogi egyetemi végzettséggel rendelkezik,
+d) legalább egy évig ügyvédi, ügyvédjelölti vagy alkalmazott ügyvédi joggyakorlatot folytatott,
 
-e) magyar jogi szakvizsgát tett,
+e) a Magyar Ügyvédek Biztosító és Segélyező Egyesületének tagja, vagy a kamara által elfogadott más felelősségbiztosítása van,
 
-f) a Magyar Ügyvédek Biztosító és Segélyező Egyesületének tagja, vagy a kamara által elfogadott más felelősségbiztosítása van,
+f) az ügyvédi tevékenység folyamatos gyakorlására alkalmas irodahelyiséggel rendelkezik a kamara működési területén,
 
-g) az ügyvédi tevékenység folyamatos gyakorlására alkalmas irodahelyiséggel rendelkezik a kamara működési területén,
-
-h) nem esik a (4) bekezdésben felsorolt kizáró okok alá.
+g) nem esik a (4) bekezdésben felsorolt kizáró okok alá.
 
 (4) Nem vehető fel a kamarába az,
 
@@ -54,6 +52,8 @@ f) aki az életmódja vagy magatartása miatt az ügyvédi hivatás gyakorlásá
 
 g) akinek a kamarával vagy a Magyar Ügyvédek Biztosító és Segélyező Egyesületével szemben lejárt tagdíjtartozása van.
 
-(5) A (3) bekezdés f) pontjában foglalt feltétel az irodai tagként felvételét kérő esetén a 68. § (2) bekezdésének c) pontja szerinti felelősségbiztosítással teljesül.
+(5) A (3) bekezdés e) pontjában foglalt feltétel az irodai tagként felvételét kérő esetén a 68. § (2) bekezdésének c) pontja szerinti felelősségbiztosítással teljesül.
 
 (6) A kamarába fel kell venni azt az európai közösségi jogászt is, aki megfelel a 89/F. § (1) bekezdésében foglalt feltételeknek.
+
+(7) A (3) bekezdés d) pontjában foglalt joggyakorlatok időtartamát együttesen kell figyelembe venni.

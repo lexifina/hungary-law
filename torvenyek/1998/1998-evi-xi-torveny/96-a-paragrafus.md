@@ -10,4 +10,4 @@ c) a Magyar Ügyvédi Kamara szabályzatában meghatározott tárgyi feltételek
 
 (2) A kamara az ügyvédjelölt foglalkoztatására való jogosultságot törli, ha az ügyvéd nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
-(3) Egy ügyvéd egyidejűleg legfeljebb három ügyvédjelöltet foglalkoztathat. Az ügyvédi iroda az ügyvédjelölt foglalkoztatására jogosult tagonként egyidejűleg legfeljebb három ügyvédjelölttel létesíthet munkaviszonyt.
+(3)

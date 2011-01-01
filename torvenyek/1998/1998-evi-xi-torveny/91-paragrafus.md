@@ -2,7 +2,7 @@
 
 91. § (1) A külföldi jogi tanácsadók névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-a) a 13. § (3) bekezdés f) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában foglalt feltételeknek megfelel,
+a) a 13. § (3) bekezdés e) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában foglalt feltételeknek megfelel,
 
 b) a 90. § (1) és (2) bekezdésében megjelölt együttműködési szerződést kötött,
 

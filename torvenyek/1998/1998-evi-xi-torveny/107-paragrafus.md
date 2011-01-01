@@ -18,4 +18,4 @@ g) irányítja a területi kamara ügyintézői szervezetének működését, az
 
 h) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
 
-(2) A területi kamara elnökének határozata ellen a közlésétől számított 10 munkanapon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.
+(2) A területi kamara elnökének határozata ellen a közlésétől számított tizenöt napon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.

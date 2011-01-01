@@ -34,4 +34,4 @@ n) kijelöli az ügyvéd irodájának gondnokát, ha az ügyvéd kamarai tagság
 
 o) elrendeli a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálatot és első fokon határoz a vizsgálat befejezéséről.
 
-(3) A területi elnökség határozata ellen a területi kamara tagja a határozat közlésétől számított 10 munkanapon belül – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
+(3) A területi elnökség határozata ellen a területi kamara tagja a határozat közlésétől számított tizenöt napon belül – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.

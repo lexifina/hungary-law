@@ -2,7 +2,7 @@
 
 89/F. § (1) A névjegyzékbe felvett európai közösségi jogászt kérelmére a kamarába ügyvédként fel kell venni, ha
 
-a) megfelel a 13. § (3) bekezdésének c), valamint f)–h) pontjában foglalt feltételeknek,
+a) megfelel a 13. § (3) bekezdésének e)–g) pontjában foglalt feltételeknek,
 
 b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy a Magyar Köztársaság területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
 
