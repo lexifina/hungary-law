@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-67-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 1997-67-00-00.31 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 1997-67-00-00.32 |
 | 2010-07-06 | 2010. évi LVIII. törvény | 1997-67-00-00.33 |
+| 2011-01-01 | 2010. évi CXXX. törvény | 1997-67-00-00.34 |
