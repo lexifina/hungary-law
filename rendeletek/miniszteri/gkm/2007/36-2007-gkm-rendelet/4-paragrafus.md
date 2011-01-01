@@ -1,4 +1,4 @@
-4. §[^8] (1) Az ÁAK Zrt. a vele megállapodást kötő viszonteladóknak lehetővé teszi a jogosultság értékesítését.
+4. §[^9] (1) Az ÁAK Zrt. a vele megállapodást kötő viszonteladóknak lehetővé teszi a jogosultság értékesítését.
 
 (2) A jogosultság értékesítésekor a jogosultság adatait (rendszám, felségjel, díjkategória, érvényességi időtartam, érvényesség kezdete, vásárlás időpontja, eladóhely) az ÁAK Zrt. által biztosított, vagy saját fejlesztésű, az ÁAK Zrt. által jóváhagyott technikai megoldás alkalmazásával köteles rögzíteni.
 
@@ -10,4 +10,4 @@
 
 (6) A Közlekedésfejlesztési Koordinációs Központ folyamatosan ellenőrzi az e rendelet szerinti díjak beszedésének rendszerét annak átlátható és megkülönböztetés mentes működésének biztosítása érdekében.
 
-[^8]: A 4. § a 108/2007. (XII. 23.) GKM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § a 108/2007. (XII. 23.) GKM rendelet 3. §-ával megállapított szöveg.

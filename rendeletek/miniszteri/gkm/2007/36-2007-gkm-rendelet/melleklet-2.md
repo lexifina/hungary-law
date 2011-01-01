@@ -1,3 +1,3 @@
-2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^37]
+2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^39]
 
-[^37]: A 2. melléklet a 108/2007. (XII. 23.) GKM rendelet 9. §-ával megállapított szöveg.
+[^39]: A 2. melléklet a 108/2007. (XII. 23.) GKM rendelet 9. §-ával megállapított szöveg.

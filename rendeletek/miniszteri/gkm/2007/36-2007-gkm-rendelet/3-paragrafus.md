@@ -1,6 +1,6 @@
 ## A díjfizetés módja
 
-3. §[^6] (1)[^7] A díjat előre, az a)–e) pontok szerinti érvényességi időtartamok valamelyikére kell megfizetni. A díj megfizetésének ténye úthasználati jogosultságot (a továbbiakban: jogosultság) keletkeztet. A jogosultság gépjárműhöz kötött adatait (forgalmi rendszám, a gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét) a forgalmi engedélyben szereplő hatósági bejegyzésnek megfelelően kell megadni. A jogosultság a megadott időtartamon belül minden díjköteles útszakaszra érvényes. Az egyes jogosultságok a következő érvényességi időtartamokra vásárolhatók:
+3. §[^7] (1)[^8] A díjat előre, az a)–e) pontok szerinti érvényességi időtartamok valamelyikére kell megfizetni. A díj megfizetésének ténye úthasználati jogosultságot (a továbbiakban: jogosultság) keletkeztet. A jogosultság gépjárműhöz kötött adatait (forgalmi rendszám, a gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét) a forgalmi engedélyben szereplő hatósági bejegyzésnek megfelelően kell megadni. A jogosultság a megadott időtartamon belül minden díjköteles útszakaszra érvényes. Az egyes jogosultságok a következő érvényességi időtartamokra vásárolhatók:
 
 a) 1 napos jogosultság: a vásárló által megjelölt naptári napra a – 6. § (1) bekezdés b)–d) pontja szerinti – D2, D3, D4 díjkategóriákba tartozó járművekre,
 
@@ -18,5 +18,5 @@ e) éves jogosultság: a tárgyév első napjától a tárgyévet követő év j
 
 (4) A díjköteles útszakaszok, valamint az árusító helyek jelölésére szolgáló piktogramot a 2. melléklet tartalmazza.
 
-[^6]: A 3. § a 108/2007. (XII. 23.) GKM rendelet 2. §-ával megállapított szöveg.
-[^7]: A 3. § (1) bekezdése a 47/2008. (XII. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 3. § a 108/2007. (XII. 23.) GKM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdése a 47/2008. (XII. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
