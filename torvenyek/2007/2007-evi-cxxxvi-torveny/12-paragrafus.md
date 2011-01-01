@@ -8,7 +8,7 @@ b) olyan társaság, amelynek értékpapírjait egy vagy több tagállamban beve
 
 c) az 5. §-ban meghatározott felügyeletet ellátó szerv;
 
-d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. §-ában meghatározott – a c) pontba nem tartozó – központi államigazgatási szerv, vagy helyi önkormányzat;
+d) helyi önkormányzat vagy a c) pontba nem tartozó központi államigazgatási szerv;
 
 e) az Európai Közösség intézménye (az Európai Parlament, a Tanács, a Bizottság, a Bíróság, a Számvevőszék), az Európai Gazdasági és Szociális Bizottság, a Régiók Bizottsága, az Európai Központi Bank vagy az Európai Beruházási Bank.
 

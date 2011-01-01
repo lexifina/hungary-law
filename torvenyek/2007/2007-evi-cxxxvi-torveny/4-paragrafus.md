@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés alkalmazásában fontos közfeladatot ellátó személy:
 
-a) az államfő, a kormányfő, a miniszter, a miniszterhelyettes, az államtitkár,
+a) az államfő, a kormányfő, a miniszter, az államtitkár,
 
 b) az országgyűlési képviselő,
 
