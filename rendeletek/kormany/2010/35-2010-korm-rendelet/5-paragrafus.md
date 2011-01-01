@@ -10,7 +10,8 @@
 
 (5) E rendelet végrehajtásához szükséges intézkedésekről a kutatás-fejlesztésért és technológiai innovációért felelős miniszter gondoskodik.
 
-(6) A Kormány a Nemzeti Kutatási és Technológiai Hivatalt jelöli ki, hogy az egyezmény 1. szakasz (1) bekezdése szerinti Társaság Tagja legyen.
+(6)[^3] A Kormány a Nemzeti Innovációs Hivatalt jelöli ki, hogy az egyezmény 1. szakasz (1) bekezdése szerinti Társaság Tagja legyen.
 
 [^1]: A 4. § a 5. § (2) bekezdése alapján az egyezmény 13. szakasz (1) bekezdésében meghatározott időpontban hatályát veszti.
 [^2]: Az 5. § (3) bekezdése a (2) bekezdés alapján az egyezmény 13. szakasz (1) bekezdésében meghatározott időpontban hatályát veszti.
+[^3]: Az 5. § (6) bekezdése a 303/2010. (XII. 23.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
