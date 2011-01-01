@@ -10,7 +10,7 @@ b) aki büntetett előéletű,
 
 c) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll.
 
-(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított nyolc munkanapon belül tájékoztatni.
+(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
 
 (5) Az ingatlanvállalkozás-felügyeleti hatóság az ingatlanközvetítői, valamint az ingatlanvagyon-értékelő és -közvetítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nyilvántartásba vett ingatlanközvetítői, ingatlanvagyon-értékelő és -közvetítői tevékenységet végző személy büntetlen előéletű, és nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az ingatlanvállalkozás-felügyeleti hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanközvetítő, illetve az ingatlanvagyon-értékelő és ingatlanvagyon-közvetítő büntetlen előéletű-e, valamint, hogy a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 

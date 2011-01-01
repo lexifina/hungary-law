@@ -30,4 +30,4 @@ m) a lakás (a bérlőkijelölési joggal érintett helyiség) elidegenítéséh
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
-(3) A kultúráért felelős miniszter, illetőleg jogutódja a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.
+(3) A kultúráért felelős miniszter a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.

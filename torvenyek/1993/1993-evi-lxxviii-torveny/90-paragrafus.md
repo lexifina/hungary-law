@@ -6,4 +6,4 @@ a) ha az önkormányzat a tulajdonában lévő lakást ad bérbe, a bérbe adott
 
 b) ha az önkormányzat pénzbeli térítés fizetésével vagy a lakás megvásárlásával gondoskodik a kényszerbérlet megszűnéséről, az önkormányzati ráfordítás összegének a fele, de legfeljebb 2,5 millió forint a fővárosi kerületekben, 2 millió forint más városokban, egyéb településeken pedig 1,5 millió forint.
 
-(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásügyért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
+(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásgazdálkodásért és lakáspolitikáért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
