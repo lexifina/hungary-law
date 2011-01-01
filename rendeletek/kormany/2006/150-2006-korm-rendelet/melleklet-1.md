@@ -2,4 +2,4 @@
 
 1. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^1]
 
-[^1]: Az 1. számú melléklet a 264/2006. (XII. 20.) Korm. rendelet 36. § a) pontja, a 234/2010. (VIII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^1]: Az 1. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított szöveg.
