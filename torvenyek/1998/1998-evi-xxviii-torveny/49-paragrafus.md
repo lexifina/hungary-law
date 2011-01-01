@@ -24,7 +24,7 @@ rendeletben állapítsa meg.
 
 a) a miniszter, hogy a szakértői testület létrehozására, működtetésére vonatkozó részletes szabályokat, a mezőgazdasági haszonállatok sajátos tartási szabályait, a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait,
 
-b) a természetvédelemért felelős miniszter, hogy a miniszterrel, a rendészetért felelős miniszterrel együttesen a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
+b) a természetvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 
 c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 
