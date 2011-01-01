@@ -12,4 +12,11 @@ ac) a belső modell és a modellezési folyamat következetességének és ponto
 
 b) a belső modell Felügyelet általi engedélyezésének tényét; valamint
 
-c) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet 13. számú mellékletében foglaltaknak való megfelelés mértékének és módszereinek leírását.
+c) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet 13. számú mellékletében foglaltaknak való megfelelés mértékének és módszereinek leírását;
+
+d)[^3] a kockáztatott érték módszer szerint a tárgyidőszakban mért legmagasabb, legalacsonyabb és az átlagos napi értéket, valamint a tárgyidőszak végén mért értéket;
+
+e)[^4] a nap végi kockázatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével együtt.
+
+[^3]: A 15. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 56. §-a iktatta be.
+[^4]: A 15. § (2) bekezdés e) pontját a 349/2010. (XII. 28.) Korm. rendelet 56. §-a iktatta be.
