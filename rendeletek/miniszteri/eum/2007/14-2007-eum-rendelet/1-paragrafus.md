@@ -14,7 +14,7 @@
 
 7. gyógyászati segédeszköz: az Ebtv. 5/B. § e) pontja szerinti eszköz;
 
-8. kihordási idő: az az időtartam, amelyre meghatározott mennyiségű gyógyászati segédeszköz támogatással rendelhető, vagy az az időtartam, amelyre vonatkozóan a rendelt eszköz árához az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) támogatást állapít meg;
+8.[^2] kihordási idő: az az időtartam, amelyre meghatározott mennyiségű gyógyászati segédeszköz támogatással rendelhető, vagy az az időtartam, amelyre vonatkozóan a rendelt eszköz árához az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) támogatást állapít meg;
 
 9. méretváltozás: a közfinanszírozás alapjául elfogadott ár változatlansága mellett funkcionálisan egyenértékű, azonos termékcsaládba tartozó eszközök metrikus paramétereiben kifejezhető változása;
 
@@ -22,7 +22,8 @@
 
 11. referenciaösszeg: a referenciaeszköz árához tartozó nettó támogatási összeg.
 
-(2)[^2] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gtv.-ben, az Ebtv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben (a továbbiakban: Korm. rendelet), az orvostechnikai eszközökről szóló EüM rendeletben (a továbbiakban: R.), valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendeletben (a továbbiakban: IVD-rendelet) és a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendeletben foglalt fogalommeghatározásokat kell figyelembe venni.
+(2)[^3] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gtv.-ben, az Ebtv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben (a továbbiakban: Korm. rendelet), az orvostechnikai eszközökről szóló EüM rendeletben (a továbbiakban: R.), valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendeletben (a továbbiakban: IVD-rendelet) és a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendeletben foglalt fogalommeghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdése a 34/2010. (V. 14.) EüM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 8. pontja a 20/2010. (XII. 28.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének b) pontja szerint módosított szöveg.
