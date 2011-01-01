@@ -32,9 +32,9 @@ n) a bioüzemanyagok fenntartható módon történt előállítását igazoló o
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 
-a) az adópolitikáért felelős miniszterrel együttesen az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból származó energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
+a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból származó energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
 
-b) az agrárpolitikáért felelős miniszterrel a bioüzemanyag üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait,
+b) az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyag üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait,
 
 c) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás szabályait
 
