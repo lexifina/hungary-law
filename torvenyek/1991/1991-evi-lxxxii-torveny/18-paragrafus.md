@@ -44,7 +44,7 @@ az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeine
 
 18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet szerinti forgalomból való kivonás,
 
-19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik és ezt a tényt az adóalany az önkormányzati adóhatóságnál a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával jelenti be,
+19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az önkormányzati adóhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
 
 20. terhelhetőség (raksúly): a tehergépjármű esetében a hatósági nyilvántartásban feltüntetett megengedett legnagyobb össztömeg (összsúly) és a saját tömeg (önsúly) különbözete,
 
