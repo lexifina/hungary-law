@@ -98,24 +98,28 @@
 
 ## 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
 
-2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^6]
+2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^8]
 
 |  | A | B | C |
 
-| 1 | Állami főépítészi iroda | Székhely | Illetékességi terület |
+|  | Fővárosi, Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Székhely | Illetékességi terület |
 
-| 2 | Budapest Főváros Közigazgatási Hivatal Közép-magyarországi Állami Főépítészi Irodája | Budapest | Budapest és Pest megye területe |
+| 1. | Budapest Főváros Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Budapest | Budapest területe |
 
-| 3 | Győr-Moson-Sopron Megyei Közigazgatási Hivatal Nyugat-dunántúli Állami Főépítészi Irodája | Győr | Győr-Moson-Sopron megye, Vas megye és Zala megye, kivéve a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. számú melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területét |
+| 2. | Pest Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Budapest | Pest megye területe |
 
-| 4 | Fejér Megyei Közigazgatási Hivatal Közép-dunántúli Állami Főépítészi Irodája | Székesfehérvár | Komárom-Esztergom megye, Fejér megye és Veszprém megye területe, kivéve a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. számú melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területét |
+| 3. | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Győr | Győr-Moson-Sopron megye, Vas megye és Zala megye területe, kivéve a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területét |
 
-| 5 | Somogy Megyei Közigazgatási Hivatal Dél-dunántúli Állami Főépítészi Irodája | Kaposvár | Tolna megye, Somogy megye és Baranya megye területe, valamint Zala és Veszprém megye területéből a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. számú melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területe |
+| 4. | Fejér Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Székesfehérvár | Komárom-Esztergom megye, Fejér megye és Veszprém megye területe, kivéve a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területét |
 
-| 6 | Csongrád Megyei Közigazgatási Hivatal Dél-alföldi Állami Főépítészi Irodája | Szeged | Csongrád megye, Békés megye és Bács-Kiskun megye |
+| 5. | Somogy Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Kaposvár | Zala és Veszprém megye területéből a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 1/1. melléklete szerinti, a Balaton kiemelt üdülőkörzethez tartozó települések területe és Somogy megye területe |
 
-| 7 | Hajdú-Bihar Megyei Közigazgatási Hivatal Észak-alföldi Állami Főépítészi Irodája | Debrecen | Szabolcs-Szatmár-Bereg megye, Hajdú-Bihar megye és Jász-Nagykun-Szolnok megye |
+| 6. | Csongrád Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Szeged | Csongrád megye, Békés megye és Bács-Kiskun megye területe |
 
-| 8 | Borsod-Ababúj-Zemplén Megyei Közigazgatási Hivatal Észak-magyarországi Állami Főépítészi Irodája | Miskolc | Heves megye, Borsod-Abaúj-Zemplén megye és Nógrád megye |
+| 7. | Hajdú-Bihar Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Debrecen | Szabolcs-Szatmár-Bereg megye, Hajdú-Bihar megye és Jász-Nagykun-Szolnok megye területe |
 
-[^6]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+| 8. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Miskolc | Heves megye, Borsod-Abaúj-Zemplén megye és Nógrád megye területe |
+
+| 9. | Baranya Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Pécs | Tolna megye és Baranya megye területe |
+
+[^8]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 329/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

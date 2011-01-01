@@ -1,8 +1,12 @@
 ## A főépítészi rendszer, az állami főépítészek kijelölése
 
-2. § (1) Az 1. §-ban meghatározott feladatok központi irányítását, összehangolását az egész országra kiterjedő illetékességgel az építésügyért felelős miniszter (a továbbiakban: miniszter) látja el, amely keretében
+2. §[^1] (1) A Kormány az állami főépítészi feladatok ellátására a 2. mellékletben meghatározott fővárosi és megyei kormányhivatal szakigazgatási szerveként működő Építésügyi Hivatal önálló feladat- és hatáskörrel rendelkező szervezeti egységeként működő állami főépítészt jelöli ki. Az állami főépítészi feladatok ellátásának munkaszervezete az állami főépítészi iroda, amelyet az állami főépítész vezet.
 
-a) szakmai irányítási és felügyeleti feladatokat lát el az állami főépítészek tevékenysége felett,
+(2) Az Építésügyi Hivatal az állami főépítészi feladat- és hatáskörök tekintetében a fővárosi és megyei kormányhivatal illetékességi területétől eltérő, e rendelet 2. mellékletében meghatározott különös illetékességgel működik.
+
+(3) Az 1. §-ban meghatározott feladatok központi szakmai irányítását, összehangolását az egész országra kiterjedő illetékességgel a miniszter látja el, amely keretében
+
+a) gyakorolja a szakmai irányító szerv vezetőjének jogkörét az Építésügyi Hivatal önálló feladat- és hatáskörrel rendelkező szervezeti egységeként működő állami főépítészének tevékenysége felett,
 
 b) koordinálja az állami főépítészek terület- és településrendezéssel, valamint építészeti értékvédelemmel kapcsolatos feladatait,
 
@@ -14,18 +18,14 @@ e) gondoskodik a nemzetközi egyezményekből fakadó feladatok végrehajtásár
 
 f) gondoskodik a központi tervtanácsok üléseinek és nyilvántartásának vezetéséről.
 
-(2) A miniszter az e rendeletben és a külön jogszabályban meghatározott egyes feladatait – a miniszter által vezetett minisztérium szervezeti és működési szabályzatában foglaltak szerint – az országos főépítész útján látja el. Az országos főépítészt a miniszter – az általa vezetett minisztérium állományába tartozó személyek közül – bízza meg.
+(4) A miniszter az e rendeletben és a külön jogszabályban meghatározott egyes feladatait az országos főépítész útján látja el. Az országos főépítészt a miniszter – az általa vezetett minisztérium állományába tartozó személyek közül – bízza meg.
 
-(3)[^1] A Kormány az állami főépítészi feladatok ellátására a Kormány általános hatáskörű területi államigazgatási szervének a 2. mellékletben meghatározott terület- és településrendezési feladatokat ellátó önálló szakigazgatási szerveként működő állami főépítészt jelöli ki.
-
-(4) A területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, valamint az építésüggyel kapcsolatos
+(5) A területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, valamint az építésüggyel kapcsolatos
 
 a) megyei önkormányzati feladatokkal kapcsolatos döntéseket a megye közigazgatási területére kiterjedő illetékességgel a megyei főépítész,
 
 b) társulási megállapodásban meghatározott települési önkormányzati feladatokkal kapcsolatos döntéseket a társulásban részt vevő települések közigazgatási területére kiterjedő illetékességgel a térségi főépítész,
 
-c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladataik szerint a fővárosi, illetve a kerületi főépítész
+c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladatai szerint a fővárosi, illetve a kerületi főépítész
 
-készíti elő.
-
-[^1]: A 2. § (3) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § a 329/2010. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.

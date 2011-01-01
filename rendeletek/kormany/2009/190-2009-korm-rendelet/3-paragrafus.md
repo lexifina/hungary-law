@@ -1,3 +1,5 @@
+## készíti elő.
+
 ## Foglalkoztatási feltételek
 
 3. § (1) A főépítészi feladatkör – a (2) bekezdésben foglalt kivétellel – köztisztviselői kinevezéssel látható el.

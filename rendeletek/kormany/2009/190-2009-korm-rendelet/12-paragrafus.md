@@ -8,4 +8,10 @@
 
 (4) Mentesül a főépítészi vizsga alól az a köztisztviselőként foglalkoztatott, az e rendelet szerinti képesítési feltételeknek megfelelő főépítész, aki legalább ötéves főépítészi munkakörben eltöltött gyakorlati idővel rendelkezik.
 
+(5)[^5] A 2011. január 1-jét megelőzően a fővárosi és megyei közigazgatási hivatal szakigazgatási szerveként regionális illetékességgel működött állami főépítész feladat- és hatáskörei és ahhoz kapcsolódó jogviszonyok tekintetében a megyei (fővárosi) közigazgatási hivatal jogutóda a (6) bekezdésben foglalt eltéréssel a székhelye szerinti megyei (fővárosi) kormányhivatal.
+
+(6)[^6] A fővárosi és megyei közigazgatási hivatal szakigazgatási szerveként működött állami főépítész feladat- és hatáskörei és ahhoz kapcsolódó jogviszonyok tekintetében részleges feladatátvevőként az alapító okiratban és a jogutódlás egyes kérdéseit meghatározó megállapodásban foglaltak szerint – megyei illetékességi területre külön tagozódást alapul véve – a Pest Megyei Kormányhivatal a Budapest Főváros Közigazgatási Hivatala jogutódának, a Baranya Megyei Kormányhivatal a Somogy Megyei Közigazgatási Hivatal jogutódának tekintendő.
+
 [^4]: A 12. § (2) bekezdése a 222/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 12. § (5) bekezdését a 329/2010. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^6]: A 12. § (6) bekezdését a 329/2010. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
