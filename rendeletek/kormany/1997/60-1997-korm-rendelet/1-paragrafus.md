@@ -12,7 +12,7 @@ d) kettős rendeltetésű létesítmény: olyan építmény, amely elsősorban b
 
 e) szükségóvóhely: olyan építmény vagy megfelelően átalakított természeti képződmény, amely fegyveres összeütközés idején korlátozott védelmet nyújt a hagyományos fegyverek hatásai ellen;
 
-f)[^1] lakosság: a Magyar Honvédség és a rendvédelmi szervek szolgálati feladatot ellátó állománya, továbbá a szabadságukban korlátozott, a rendőrség és a büntetés-végrehajtási intézet őrizetében lévő személyek kivételével a veszélyeztetett területen élő vagy tartózkodó személyek összessége;
+f)[^2] lakosság: a Magyar Honvédség és a rendvédelmi szervek szolgálati feladatot ellátó állománya, a Nemzeti Adó- és Vámhivatal szolgálati feladatot ellátó hivatásos állománya, továbbá a szabadságukban korlátozott, a rendőrség és a büntetés-végrehajtási intézet őrizetében lévő személyek kivételével a veszélyeztetett területen élő vagy tartózkodó személyek összessége;
 
 g) egyéni védőeszköz: az emberi életet és egészséget veszélyeztető vegyi, fertőző, illetve sugárzó anyagok károsító hatásai elleni védelmet biztosító légzésvédő, valamint bőrvédő felszerelés;
 
@@ -36,4 +36,4 @@ p) elsötétítés: technikai és intézkedési rendszerek működtetése, amell
 
 r) polgári védelmi központi készlet: a hivatásos polgári védelmi szervek, valamint a polgári védelmi kötelezettség alapján létrehozott polgári védelmi szervezetek alkalmazásához szükséges felszerelések, technikai eszközök és anyagok, melyek beszerzése a központi költségvetésből történik [Pvtv. 38. § (1) bekezdés a)–b) pontja].
 
-[^1]: Az 1. § f) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 17. pontja szerint módosított szöveg.
+[^2]: Az 1. § f) pontja a 273/2010. (XII. 9.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg.
