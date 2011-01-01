@@ -1,0 +1,1 @@
+## „(5) Az európai szabadalom hatályossá válásához szükséges fordítás pótdíj megfizetése mellett történő benyújtása esetén a pótdíj 53 400 forint, amelyet a fordítás-meghirdetési díjon felül kell megfizetni.”
