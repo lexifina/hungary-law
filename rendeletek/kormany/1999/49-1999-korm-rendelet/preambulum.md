@@ -1,1 +1,0 @@
-A Kormány a munkanélküliség csökkentésére alkalmas fejlesztési, felújítási, különösen infrastrukturális és környezetvédelmi, továbbá az elmaradott térségek felzárkóztatását célzó közfeladatok ellátásának ösztönzése, valamint az e célra a költségvetésben biztosított pénzügyi keret elosztása céljából a következőket rendeli el:
