@@ -1,6 +1,6 @@
-## Bejelentési kötelezettség[^87]
+## Bejelentési kötelezettség[^96]
 
-8/A. §[^88] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
+8/A. §[^97] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
 
 a) bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, a Gyvt. 41. §-ának (4) bekezdése szerinti ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
 
@@ -36,7 +36,8 @@ c) a jogutód nélküli megszűnése iránt eljárás indult, és ha az eljárá
 
 (7) Az (5)–(6) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát. Ha a bejelentésre kötelezett az (5) bekezdés a)–b) pontja vagy a (6) bekezdés, illetve bírósági nyilvántartásba vett fenntartó esetén a (5) bekezdés c) pontja alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat az egyéni vállalkozók nyilvántartásában, illetve bírósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a nyilvántartásból ellenőrzi.
 
-(8) A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről öt munkanapon belül értesíti az ellátásra köteles helyi önkormányzatot, az igazgatóságot és a gyermekjogi képviselőt.
+(8)[^98] A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, az igazgatóságot és a gyermekjogi képviselőt.
 
-[^87]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^88]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^96]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^97]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^98]: A 8/A. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 1. pontja szerint módosított szöveg.
