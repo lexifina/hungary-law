@@ -20,5 +20,5 @@ d) gyógyító-megelőző ellátásban
 
 (5) Az üdüléssel kapcsolatos térítést vagy annak egy részét a munkáltató jogszabályban vagy belső szabályzatban foglalt feltételek mellett átvállalhatja.
 
-[^13]: A 3. § a 343/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 3. §-t e módosító rendelet 5. § (4) bekezdése hatályon kívül helyezte 2011. január 1. napjával.
+[^13]: A 3. § a 343/2009. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 3. §-t e módosító rendelet – a 373/2010. (XII. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított – 5. § (4) bekezdése hatályon kívül helyezte 2011. április 1. napjával.
 [^14]: Lásd a 2128/2005. (VI. 24.) Korm. határozatot.

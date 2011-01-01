@@ -58,10 +58,10 @@ Honvédelmi Minisztérium
 
 Magyar Államkincstár
 
-Nemzeti Kutatási és Technológiai Hivatal
+a Nemzeti Innovációs Hivatal
 
 [^17]: A 6–8. §-t a 213/2010. (VII. 2.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
 [^18]: A 9. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 769. pontja hatályon kívül helyezte.
 [^19]: A 9. § (4) bekezdésének c) pontját a 298/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
 [^20]: Lásd a 7/2007. (III. 19.) MeHVM rendeletet.
-[^21]: A melléklet a 213/2010. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A melléklet a 213/2010. (VII. 2.) Korm. rendelet 2. §-ával megállapított és a 303/2010. (XII. 23.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
