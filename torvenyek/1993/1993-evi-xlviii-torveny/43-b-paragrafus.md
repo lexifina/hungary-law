@@ -1,6 +1,6 @@
-43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatási jog adományozására vonatkozó eljárás ügyintézési határideje 15 munkanap.
+43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatási jog adományozására vonatkozó eljárás ügyintézési határideje húsz nap.
 
-(2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított 10 munkanapon belül hiánypótlásra hívja fel.
+(2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
 (3)
 

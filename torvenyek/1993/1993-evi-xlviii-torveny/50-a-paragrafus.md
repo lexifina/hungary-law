@@ -76,7 +76,7 @@ rendeletben történő megállapítására.
 
 a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 43. § (9) bekezdésében megállapított felügyeleti díj fizetésének részletes szabályait, valamint az igazgatási szolgáltatási díjak körét, mértékét és a díjak beszedésének, kezelésének, nyilvántartásának szabályait rendeletben állapítsa meg,
 
-b) a miniszter, a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter arra, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését együttes rendeletben szabályozzák.
+b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4) A miniszter a hatósági engedély alapján bányászati jogot gyakorló bányavállalkozóval a 26/A. § (5) bekezdése alapján szerződést köt.
 

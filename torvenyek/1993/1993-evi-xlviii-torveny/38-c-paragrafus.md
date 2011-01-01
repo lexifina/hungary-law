@@ -12,7 +12,7 @@ b) az elhelyezett létesítményeket karbantarthatja, kijavíthatja, átalakíth
 
 c) a vezeték mentén lévő, a biztonsági övezetet sértő fákat, bokrokat, azok ágait, gyökereit eltávolíthatja,
 
-d) a miniszternek, a vízgazdálkodásért felelős miniszterrel, valamint az elektronikus hírközlésért felelős miniszterrel együttesen kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
+d) a miniszternek, a vízgazdálkodásért felelős miniszter, valamint az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
 
 (4) A vezetékjog ingatlan-nyilvántartásba történő bejegyzését az engedélyes, valamint az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét, illetőleg tulajdonosát illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A vezetékjog a jogerős határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható.
 
