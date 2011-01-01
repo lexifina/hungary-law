@@ -1,1 +1,0 @@
-Az iparjogvédelmi eljárások igazgatási szolgáltatási díjáról szóló 1992. évi IV. törvény 3. §-ának (3) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel és a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
