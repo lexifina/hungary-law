@@ -26,9 +26,9 @@ l) táraüreg: a súlyban lévő üreg, amelynek feltöltésével a súly pontos
 
 m) hitelesítési engedély: a hitelesítésre jogosult szerv által kiadott dokumentum annak igazolására, hogy a súly e jogszabályban előírt műszaki és metrológiai követelményeknek megfelel;
 
-n)[^1] hitelesítésre jogosult szerv: a hitelesítési engedély és a hitelesítési bizonyítvány kiadására jogosult szerv, a mérésügyi törvény alapján a Magyar Kereskedelmi Engedélyezési Hivatal;
+n)[^1] hitelesítésre jogosult szerv: a hitelesítési engedély és a hitelesítési bizonyítvány kiadására jogosult szerv, a mérésügyi törvény alapján a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága;
 
-o) illetékes ellenőrző hatóság: külön jogszabály alapján a súlyok fogyasztói forgalmazásával és felhasználásával kapcsolatos ügyekben a fogyasztóvédelmi főfelügyelőség, a műszaki és metrológiai követelmények ellenőrzése tekintetében a mérésügyi hatóság;
+o)[^2] illetékes ellenőrző hatóság: külön jogszabály alapján a súlyok fogyasztói forgalmazásával és felhasználásával kapcsolatos ügyekben a fogyasztóvédelmi hatóság, a műszaki és metrológiai követelmények ellenőrzése tekintetében a mérésügyi hatóság;
 
 p) súly forgalomba hozatala: a súly ingyenes vagy visszterhes elidegenítése a fogyasztók és a felhasználók részére;
 
@@ -36,4 +36,5 @@ q) hitelesítési bizonyítvány: a hitelesítésre jogosult szerv által kiadot
 
 r) hitelesítés: a mérésügyről szóló 1991. évi XLV. törvény és a végrehajtására kiadott, többször módosított 127/1991. (X. 9.) Korm. rendeletben szabályozott eljárás.
 
-[^1]: A 2. § n) pontja a 87/2006. (XII. 26.) GKM rendelet 14. §-a szerint módosított szöveg.
+[^1]: A 2. § n) pontja a 27/2010. (XII. 31.) NGM rendelet 21. §-a szerint módosított szöveg.
+[^2]: A 2. § o) pontja a 27/2010. (XII. 31.) NGM rendelet 21. §-a szerint módosított szöveg.
