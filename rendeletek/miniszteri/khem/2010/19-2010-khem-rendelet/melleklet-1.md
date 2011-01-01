@@ -1,4 +1,4 @@
-1. melléklet a 19/2010 (III. 12.) KHEM rendelethez
+1. melléklet a 19/2010 (III. 12.) KHEM rendelethez[^2]
 
 1. Bevezetés
 
@@ -1392,7 +1392,7 @@ A 7.1.1. és a 7.1.2. szakasz sérelme nélkül az ERTMS/ETCS rendszer felszerel
 
 –amikor egy már üzembe helyezett CCS-egység vonatbiztosítási részét korszerűsítik oly módon, hogy az megváltoztatja az alrendszer funkcióit vagy teljesítményét;
 
-–olyan vasúti infrastruktúra-fejlesztési projektek esetében, amelyek az Európai Regionális Fejlesztési Alapokból és/vagy a kohéziós alapokból (1083/2006/EK tanácsi rendelet) és/vagy a TEN-T alapokból (1692/96/EK európai parlamenti és tanácsi határozat) pénzügyi támogatásban részesülnek.
+–olyan vasúti infrastruktúra-fejlesztési projektek esetében, amelyek az Európai Regionális Fejlesztési Alapokból és/vagy a kohéziós alapokból (1083/2006/EK tanácsi rendelet) és/vagy a TEN-T alapokból (661/2010/EU európai parlamenti és tanács határozat) pénzügyi támogatásban részesülnek.
 
 Ha 150 km-nél rövidebb, nem összefüggő vonalszakaszokon kerül sor a jelzőberendezés felújítására, a Bizottság eltérést engedélyezhet e szabály alól azzal a feltétellel, hogy az ERTMS felszerelésére legkésőbb:
 
@@ -1462,7 +1462,7 @@ Az alábbi különleges esetekben a következő különös rendelkezések megeng
 
 E különleges esetek két kategóriába tartoznak: a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók.
 
-Ideiglenes esetekben ajánlatos, hogy a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljen meg a vonatkozó alrendszernek.
+Ideiglenes esetekben ajánlatos, hogy a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanács határozat célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljen meg a vonatkozó alrendszernek.
 
 Jelen ÁME-ben a „T3” ideiglenes eset úgy van meghatározva, mint amely 2020 után is létezik.
 
@@ -4197,3 +4197,5 @@ Kiegészítő interfészek
 A személyzetet védő rendszerek funkciói és interfészei a jelzőrendszerhez (P2)
 
 Interfész az üzemi fékhez. Ezt meg kell vizsgálni a gördülőállományra vonatkozó ÁME kidolgozása során.
+
+[^2]: Az 1. melléklet a 30/2010. (XII. 23.) NFM rendelet 18. §-a szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a 2011. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
