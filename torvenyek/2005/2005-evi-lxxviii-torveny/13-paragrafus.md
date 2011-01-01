@@ -18,4 +18,4 @@ c) a panaszeljárásban hozott döntések elleni fellebbezésekről,
 
 d) mindazon esetekben, amelyeket az alapszabály a bizottság hatáskörébe utal.
 
-(6) A fellebbviteli eljárás ügyintézési határideje harmincöt munkanap.
+(6) A fellebbviteli eljárás ügyintézési határideje negyvenöt nap.

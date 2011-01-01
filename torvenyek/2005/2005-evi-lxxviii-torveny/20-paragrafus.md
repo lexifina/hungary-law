@@ -22,7 +22,7 @@ g) azon szabványra vagy egyéb dokumentumra történő hivatkozást, amely alap
 
 (4) Az akkreditált szervezet vagy természetes személy csak azon tevékenysége vonatkozásában hivatkozhat az akkreditált státuszára, amelyre a határozat kiterjed.
 
-(5) Az akkreditált szervezet vagy természetes személy öt munkanapon belül köteles értesíteni az Akkreditálási Irodát az általa elhatározott és bekövetkező, valamint a további bekövetkezett minden jelentős változásról, amely az akkreditált státuszával kapcsolatos és valamilyen módon státuszát vagy tevékenységének bármely jellemzőjét érinti, így különösen a változást
+(5) Az akkreditált szervezet vagy természetes személy nyolc napon belül köteles értesíteni az Akkreditálási Irodát az általa elhatározott és bekövetkező, valamint a további bekövetkezett minden jelentős változásról, amely az akkreditált státuszával kapcsolatos és valamilyen módon státuszát vagy tevékenységének bármely jellemzőjét érinti, így különösen a változást
 
 a) a jogi, tulajdonosi vagy szervezeti formában,
 

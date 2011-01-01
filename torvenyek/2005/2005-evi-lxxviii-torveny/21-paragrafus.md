@@ -6,15 +6,15 @@
 
 (3) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll.
 
-(4) Az értékelési szakasz ügyintézési határideje hatvan munkanap, amelyet az ügyvezető igazgató egy alkalommal tizenöt munkanappal meghosszabbíthat.
+(4) Az értékelési szakasz ügyintézési határideje nyolcvan nap, amelyet az ügyvezető igazgató egy alkalommal húsz nappal meghosszabbíthat.
 
 (5) Az ügyvezető igazgató a felügyeleti vizsgálati eljárás értékelési szakasza során dokumentumokat, egyéb információkat kérhet, valamint értékelő csoportot jelöl ki, amely helyszíni értékelést tart.
 
-(6) A felügyeleti vizsgálati eljárás során megállapított hiányosságok, nemmegfelelőségek kiküszöbölésére az értékelő csoport javaslatára az ügyvezető igazgató legfeljebb tíz munkanapos határidő kitűzésével felhívja az akkreditált szervezetet, illetve természetes személyt.
+(6) A felügyeleti vizsgálati eljárás során megállapított hiányosságok, nemmegfelelőségek kiküszöbölésére az értékelő csoport javaslatára az ügyvezető igazgató legfeljebb tizenöt napos határidő kitűzésével felhívja az akkreditált szervezetet, illetve természetes személyt.
 
 (7) Az értékelési szakasz befejezéséről az ügyvezető igazgató végzésben dönt.
 
-(8) A döntéshozatali szakasz ügyintézési határideje nyolc munkanap, amelyet az akkreditáló bizottság elnöke egy alkalommal nyolc munkanappal meghosszabbíthat.
+(8) A döntéshozatali szakasz ügyintézési határideje tíz nap, amelyet az akkreditáló bizottság elnöke egy alkalommal tíz nappal meghosszabbíthat.
 
 (9) Az akkreditáló bizottság a felügyeleti vizsgálat eredményétől függően
 
