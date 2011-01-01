@@ -14,7 +14,7 @@ a) a szolgáltató letelepedésének helye szerinti EGT-állam illetékes hatós
 
 b) a tervezett intézkedések mennyiben felelnek meg a 10. §-ban meghatározott feltételeknek.
 
-(4) A szolgáltatás felügyeletét ellátó hatóság a (2) bekezdés szerinti értesítés megküldésétől számított tizenöt munkanap elteltével megteheti a szükséges intézkedéseket, kivéve ha az Európai Bizottság e határidőn belül az értesítés alapján úgy határozott, hogy a tervezett intézkedés nem összeegyeztethető az Európai Unió jogával.
+(4) A szolgáltatás felügyeletét ellátó hatóság a (2) bekezdés szerinti értesítés megküldésétől számított húsz nap elteltével megteheti a szükséges intézkedéseket, kivéve ha az Európai Bizottság e határidőn belül az értesítés alapján úgy határozott, hogy a tervezett intézkedés nem összeegyeztethető az Európai Unió jogával.
 
 (5) Ha az e § szerinti intézkedés megtételét sürgős szükség indokolja, a szolgáltatás felügyeletét ellátó hatóság a (2), illetve a (3) bekezdés szerinti értesítés mellőzésével megteheti a szükséges intézkedéseket, köteles azonban erről határozatának egyidejű megküldésével tájékoztatni az Európai Bizottságot és a szolgáltató letelepedési helye szerinti másik EGT-államot, részletesen kifejtve az azonnali intézkedés indokait, valamint a (3) bekezdés b) pontja szerinti indokokat.
 

@@ -6,4 +6,4 @@
 
 (3) Az eljáró hatóság vezetőjének vagy a szakhatóság vezetőjének a szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges engedélyezési eljárás során hozott, az ügyintézési határidő meghosszabbítására vonatkozó végzését az eredeti ügyintézési határidő lejárta előtt közölni kell az ügyféllel.
 
-(4) Az ügyfelet az azt megalapozó ok felmerülésétől számított 3 munkanapon belül értesíteni kell az ügyintézési határidőbe nem számító időtartamról.
+(4) Az ügyfelet az azt megalapozó ok felmerülésétől számított öt napon belül értesíteni kell az ügyintézési határidőbe nem számító időtartamról.
