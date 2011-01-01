@@ -1514,245 +1514,585 @@
 
 ## [Gyvt. 141. § (1) bek. c) pont]
 
-## (A területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
+## (A területi gyermekvédelmi szakszolgálat vezetője tölti ki)
 
-## A) Örökbeadható gyermek
+## A) Szakellátásban nevelkedő örökbe adható gyermek
 
-| 1. | A gyermek személyi adatai |  |
+## (Az adatokat – a 13. és 14. pontban foglalt adatok kivételével – az országos örökbefogadási nyilvántartást
 
-|  | Név: |  |
+## vezető szerv részére kell megküldeni.)
 
-|  | Születési hely: |  |
+| Kód (megyenév + szám) ............................................................................... Törzsszám: .................................... |
 
-|  | Születési idő: |  |
+## 1. A gyermek személyi adatai
 
-|  | Anyja neve: |  |
+## Név:
 
-|  | Állampolgársága: |  |
+## Születési hely:
 
-|  | Lakóhely: |  |
+## Születési idő:
 
-|  | Tartózkodási hely: |  |
+## Neme:
 
-| 2. | Gondozási helye: |  |
+## Anyja neve:
 
-|  | a) gyermekvédelmi gondozásba utalt gyermek |
+## Apja neve:
 
-|  | Nevelőszülő: |  |
+## Állampolgársága:
 
-|  | Hivatásos nevelőszülő: |  |
+## Lakóhely:
 
-|  | Gyermekotthon: |  |
+## Tartózkodási hely:
 
-|  | Lakásotthon: |  |
+## 2. Gondozási helye:*
 
-|  | Spec. gyermekotthon: |  |
+## Nevelőszülő:
 
-|  | Örökbefogadó családba való kihelyezése javasolt-e: | – igen | – nem |
+## ………………………………………………………………………………………………
 
-|  | Ha nem javasolt, annak oka: |  |
+## Hivatásos nevelőszülő/ Speciális hivatásos nevelőszülő/Különleges hivatásos nevelőszülő:
 
-|  | b) gyermekvédelmi gondozásba nem utalt gyermek |
+## ……………………………………………
 
-|  | Név: |  |
+## Gyermekotthon/ Speciális gyermekotthon/Különleges gyermekotthon:
 
-|  | Születési hely: |  |
+## ……………………………………………
 
-|  | Születési idő: |  |
+## Lakásotthon/ Speciális lakásotthon/Különleges lakásotthon:
 
-|  | Anyja neve: |  |
+## ……………………………………………
 
-|  | Lakóhelye: |  |
+## Fogyatékosok vagy pszichiátriai betegek otthona:
 
-|  | Tartózkodási helye: |  |
+## ……………………………………………
 
-| 3. | A testvérek adatai |  |
+|  | 3. | Örökbefogadó családba kihelyezése javasolt-e: | igen | nem |
 
-|  | Név: |  |
+## Ha nem, annak oka:…………………………………………………….
 
-|  | Születési dátum: |  |
+## 4. Testvérek adatai:
 
-|  | Anyja neve: |  |
+## Név:
 
-|  | Apja neve: |  |
+## Születési hely:
 
-|  | Gyermekvéd. gondoskodásban nevelkedik-e: | – igen | – nem |
+## Születési idő:
 
-|  | Gondozási helye: |  |
+## Anyja neve:
 
-|  | Örökbefogadható-e: | – igen | – nem |  |
+## Apja neve:
 
-|  | Ha nem nevelkedik gyermekvédelmi gondoskodásban, akinek a gondozásában van: |
+| Gyermekvédelmi gondoskodásban nevelkedik-e: | igen | nem |
 
-|  | Testvérével együtt vagy külön történik az örökbefogadás: |
+| Együtt nevelkedik-e az örökbe fogadható gyermekkel: | igen | nem |
 
-| 4. | A gyermek egészségügyi állapota, fejlődése, személyisége, magatartása, szokásai: |
+| Ha külön nevelkedik, kapcsolatot tart-e az örökbe fogadható gyermekkel: | igen | nem |
 
-| 5. | Tanulmányi eredménye, neveltsége, nemzetiségi, etnikai, vallási, kulturális szükségletei: |
+| Örökbe fogadható-e: | igen | nem |
 
-| 6. | Egyéb igénye vagy szükséglete: |
+| Testvérével együtt vagy külön történik az örökbefogadás: |
 
-| 7. | A családi háttérre vonatkozó adatok: |
+|  | együtt | külön |
 
-|  | Szülők: betegségek, fogyatékosságok, életvezetés |
+## 5. A gyermek egészségi állapota, fejlődése, személyisége, magatartása, szokásai:
 
-|  | Testvérek: betegségek, fogyatékosságok |
+## 6. Tanulmányi eredménye, neveltsége, nemzeti, etnikai, vallási kulturális szükségletei:
 
-|  | Kapcsolatai: (nagyszülők, testvérek stb.) : |
+## 7. Egyéb igénye vagy szükséglete:
 
-| 8. | A nevelésbe vételt elrendelő |
+## 8. A családi háttérre vonatkozó adatok:
 
-|  | Gyámhivatal megnevezése: |
+## Szülők: betegségek, fogyatékosságok, életvezetés
 
-|  | Határozat száma: |
+## Testvérek: betegségek, fogyatékosságok
 
-|  | Kelte: |
+## Kapcsolatai: nagyszülők, testvérek stb.:
 
-|  | Jogerős: |
+## 9. A nevelésbe vételt elrendelő gyámhivatal megnevezése:
 
-| 9. | A törvényes képviselő személyes adatai: |
+## A határozat száma:
 
-|  | Név: |
+## Kelte:
 
-|  | Születési hely: |
+## Jogerős:
 
-|  | Születési idő: |
+## 10. Az örökbefogadhatóvá válás adatai:
 
-|  | Anyja neve: |
+## A) A gyámhivatal megnevezése:
 
-|  | Lakóhely: |
+## Határozat száma:
 
-|  | Tartózkodási hely: |
+## Kelte:
 
-| 10. | Az örökbefogadhatóvá válás adatai: |
+## Jogerős:
 
-|  | Gyámhivatal megnevezése: |
+## Amennyiben a határozatot bíróság előtt megtámadták
 
-|  | Határozat száma: |
+## A bíróság megnevezése:
 
-|  | Kelte: |
+## Ítélet száma:
 
-|  | Jogerős: |
+## Kelte:
 
-|  | Amennyiben a határozatot bíróság előtt megtámadták: |
+## Jogerős:
 
-|  | Bíróság megnevezése: |
+## B) Ideiglenes hatállyal szakellátásban elhelyezettként a szülők ismeretlen személy általi hozzájárulása miatt vagy ismeretlen szülőktől származóként örökbefogadhatóvá vált gyermek esetén:
 
-|  | Ítélet száma: |
+## Az ideiglenes hatályú elhelyezést elrendelő gyámhivatal megnevezése:
 
-|  | Kelte: |
+## A határozat kelte:
 
-|  | Jogerős: |
+## Jogerős:
 
-| 11. | A gyermek vagyonára vonatkozó adatok: |
+## 11. Az örökbefogadhatóvá válás oka:
 
-|  | A vagyon tárgya: |
+| 1. A szülő(k) hozzájárulása az örökbefogadáshoz: | nyílt | titkos |
 
-|  | A vagyonkezelő megnevezése, tartózkodási helye: |
+## 2. A szülők felügyeleti jogának bíróság általi megszüntetése
 
-| 12. | A gyermek fényképe(i): |
+## 3. A szülők halála
 
-## B) Örökbeadható gyermek
+## 4. A gyermek ismeretlen szülőktől származik
 
-## (A minisztérium részére küldendő adatok.)
+## 5. Örökbefogadhatóvá nyilvánítás
 
-| Az örökbefogadható gyermek adatai: |
+## 6. Örökbefogadás felbontása
 
-| Kód (megyenév + szám)……………………………. Törzsszám: ……………………….. |
+## 12. A gyermek fényképei:
 
-| 1. | A gyermek személyi adatai: |
+## 13. A törvényes képviselő személyes adatai:
 
-|  | Név: |
+## Név:
 
-|  | Születési hely: |
+## Születési hely:
 
-|  | Születési idő: |
+## Születési idő:
 
-|  | Anyja neve: |
+## Anyja neve:
 
-|  | Állampolgársága: |
+## Lakóhely:
 
-| 2. | Gondozási helye: |
+## Tartózkodási hely:
 
-|  | Nevelőszülő: |
+## 14. A gyermek vagyonára vonatkozó adatok:
 
-|  | Hivatásos nevelőszülő: |
+## A vagyon tárgya:
 
-|  | Gyermekotthon: |
+## A vagyonkezelő megnevezése, tartózkodási helye:
 
-|  | Lakásotthon: |
+## *A gondozási hely típusát kérjük aláhúzni!
 
-|  | Csecsemőotthon: |
+## B) A nem szakellátásban nevelkedő örökbe adható gyermek adatai és
 
-|  | Spec. gyermekotthon: |
+## a vér szerinti szülők adatai titkos örökbefogadás esetén
 
-|  | Egyéb (nem beutalt gyermek esetében): |
+## (Az adatokat – a 2. pontban foglalt adatok kivételével – az országos örökbefogadási nyilvántartást vezető szerv részére kell megküldeni.)
 
-|  | Örökbefogadó családba való kihelyezése javasolt-e: | – igen | – nem |
+## A) A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
 
-|  | Ha nem javasolt, annak oka: |
+## 1. A gyermek személyi adatai
 
-| 3. | A testvérek adatai: |
+## Név:
 
-|  | Név: |
+## Születési helye:
 
-|  | Születési dátum: |
+## Születési idő:
 
-|  | Anyja neve: |
+## Neme:
 
-|  | Apja neve: |
+## Anyja neve:
 
-|  | Gyermekvédelmi gondoskodásban nevelkedik-e: | – igen | – nem |
+## Apja neve:
 
-|  | Gondozási helye: |
+## 2. Törvényes képviselője:
 
-|  | Örökbefogadható-e: – igen – nem |
+## Állampolgársága:
 
-|  | Ha nem nevelkedik gyermekvédelmi gondoskodásban, akinek a gondozásában van: |
+## Lakóhelye:
 
-|  | Testvérével együtt vagy külön történik az örökbefogadás |
+## Tartózkodási helye:
 
-| 4. | A gyermek egészségügyi állapota, fejlődése, személyisége, magatartása, szokásai: |
+## 3. Testvéreinek száma:
 
-| 5. | Tanulmányi eredménye, neveltsége, nemzetiségi, etnikai vallási kulturális szükségletei: |
+## 4. A gyermek egészségi állapota, fejlődése:
 
-| 6. | Egyéb igényei és szükségletei: |
+## 5. Az örökbefogadás előkészítésére vonatkozó adatok
 
-| 7. | A családi hátérre vonatkozó adatok: Szülők: betegségek, fogyatékosságok, életvezetés: |
+## Az anya hozzájárulása az örökbefogadáshoz:
 
-|  | Testvérek: betegségek, fogyatékosságok: |
+## Az apa hozzájárulása az örökbefogadáshoz:
 
-|  | Kapcsolatai: (nagyszülők, testvérek stb.): |
+## Az örökbeadhatóságról értesítő gyámhivatal megnevezése:
 
-| Nevelésbe vétel időpontja: |
+## Az értesítés szakszolgálathoz érkezésének napja:
 
-| Örökbefogadhatónak nyilvánítás időpontja (az erről rendelkező határozat jogerőre emelkedése): |
+## A gyermek gondozásra kihelyezésének ideje:
 
-| Az örökbefogadhatóvá válás oka: |
+## 6. Az örökbefogadhatóvá válás oka:
 
-|  | 1. a szülő(k) hozzájárulása az örökbefogadáshoz |
+## a)A szülő(k) hozzájárulása az örökbefogadáshoz
 
-|  | 2. a szülő(k) felügyeleti jogának bíróság általi megszüntetése |
+## b) A gyermek ismeretlen szülőktől származik
 
-|  | 3. a szülő(k) halála |
+## Amennyiben a szakszolgálat kapcsolatban állt a vér szerinti szülőkkel:
 
-|  | 4. a gyermek ismeretlen szülőktől származik, |
+## 7. Az örökbe adott gyermek vér szerinti szüleinek adatai:
 
-|  | 5. örökbefogadhatóvá nyilvánítás |
+## A vér szerinti anyára vonatkozó adatok:
 
-|  | 6. örökbefogadás felbontása |
+## Mikor kért először segítséget a szakszolgálattól:
 
-| A Tegyesz-nél realizálódik-e az örökbefogadás: | – igen | – nem |
+## Születési idő:
 
-| A gyermek fényképe(i): |
+## Állampolgársága:
 
-## C) Örökbefogadásra váró szülők
+## Lakóhelye:
 
-## (A minisztérium részére küldendő adatok.)
+## Tartózkodási helye:
 
-## A nyilvántartásba vétel ideje [15/1998. (IV. 30.) NM rendelet 146. § (2) bek.]: ………..év ……...hó……..nap
+| Iskolai végzettsége ……………………………. – nem nyilatkozott* |
 
-| 1. | Az örökbefogadó szülők személyi adatai: |
+| Foglalkozása:…………………………………...- nem nyilatkozott* |
+
+| Egészségi állapota: |
+
+| Gondnokság alatt áll: | igen – nem* |
+
+| Titkolt terhesség volt-e? | igen – nem – nem nyilatkozott* |
+
+| Ha igen, annak okai: ……………………………………………………………………………………………………… …………………………………………………… - nem nyilatkozott* |
+
+| Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott* |
+
+| Tágabb környezete előtt titkolta-e terhességét igen – nem – nem nyilatkozott* |
+
+| Az örökbeadás okai: ………………………………………………………………………………………………………… ……………………………………………………………………- nem nyilatkozott* |
+
+| Az örökbeadott gyermek hányadik gyermeke:…………………………… nem nyilatkozott* |
+
+| Családi helyzete: |
+
+| Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott* |
+
+| Közös háztartásban élő rokonok (rokonsági fok szerint): :………………………………………………………………………………………………………………… ……………………………………………- nem nyilatkozott* |
+
+| Közös háztartásban élő egyéb személyek: |
+
+| ………………………………………………………………………………………………………………….. …………………………………………- nem nyilatkozott* |
+
+| A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott* |
+
+| Ha igen, kinek:…………………………………………….. – nem nyilatkozott* |
+
+| Gyermekeinek száma: | örökbeadott: |
+
+| más által nevelt: |
+
+| általa nevelt: |
+
+| - nem nyilatkozott* |
+
+| Vagyoni helyzetére vonatkozó adatok: |
+
+| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+
+| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+
+| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+
+| Jövedelemszerző tevékenységének formája: |
+
+| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+
+| Tanul: | igen –nem –nem nyilatkozott* |
+
+| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+
+| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+
+|  | igen – nem – nem nyilatkozott* |
+
+| A vér szerinti apára vonatkozó adatok |
+
+| Mikor kért először segítséget a szakszolgálattól: |
+
+| Születési idő: |
+
+| Állampolgársága: |
+
+| Lakóhelye: |
+
+| Tartózkodási helye: |
+
+| Iskolai végzettsége ……………………………. – nem nyilatkozott* |
+
+| Foglalkozása:…………………………………...– nem nyilatkozott* |
+
+| Egészségi állapota: |
+
+| Gondnokság alatt áll: | igen – nem* |
+
+| Családi helyzete: |
+
+| Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott* |
+
+| A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott* |
+
+| Közös háztartásban élő rokonok (rokonsági fok szerint): :……………………………………………………………………………………………………………………… ………………………………………- nem nyilatkozott* |
+
+| Közös háztartásban élő egyéb személyek: |
+
+| ………………………………………………………………………………………………………………………… ……………………………………- nem nyilatkozott* |
+
+| A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott* |
+
+| Ha igen, kinek:…………………………………………….. – nem nyilatkozott* |
+
+| Gyermekeinek száma: | örökbeadott: |
+
+| más által nevelt: |
+
+| általa nevelt: |
+
+| - nem nyilatkozott* |
+
+| Vagyoni helyzetére vonatkozó adatok: |
+
+| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+
+| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+
+| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+
+| Jövedelemszerző tevékenységének formája: |
+
+| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+
+| Tanul: igen –nem –nem nyilatkozott* |
+
+| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+
+| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+
+| igen – nem – nem nyilatkozott* |
+
+| *A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni. |
+
+## C) Az örökbeadott gyermek örökbefogadás előtti adatai és a vérszerinti szülők adatai nyílt örökbefogadás esetén
+
+## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
+
+## 1. A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
+
+## Név:
+
+## Születési helye:
+
+## Születési idő:
+
+## Neme:
+
+## Anyja neve:
+
+## Apja neve:
+
+## Törvényes képviselője:
+
+## Állampolgársága:
+
+## Lakóhelye:
+
+## Tartózkodási helye:
+
+## Testvéreinek száma:
+
+## A gyermek egészségi állapota, fejlődése:
+
+## A vér szerinti szülők gyermekük nyílt örökbefogadásához a gyámhivatal előtt tett hozzájárulásának időpontja:
+
+## A gyermek törvényes képviselője hozzájárulásának időpontja:
+
+## A gyermek kötelező gondozási időre történő kihelyezésének időpontja:
+
+## 2. Az örökbe adott gyermek vérszerinti szüleinek adatai:
+
+## a) A vér szerinti anyára vonatkozó adatok:
+
+## Mikor kért először segítséget a szakszolgálattól:
+
+## Név:
+
+## Születési idő:
+
+## Állampolgársága:
+
+## Lakóhelye:
+
+## Tartózkodási helye:
+
+## Iskolai végzettsége ……………………………. – nem nyilatkozott*
+
+## Foglalkozása:…………………………………...- nem nyilatkozott*
+
+## Egészségi állapota:
+
+## Gondnokság alatt áll: igen – nem*
+
+## Titkolt terhesség volt-e? igen – nem – nem nyilatkozott*
+
+## Ha igen, annak okai: ………………………………………………………………………………………………………………………
+
+## ………………………………………………… - nem nyilatkozott*
+
+## Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott*
+
+## Tágabb környezete előtt titkolta-e terhességét igen – nem – nem nyilatkozott*
+
+## Az örökbeadás okai: ………………………………………………………………………………………………………………………
+
+## ………………………………………………………- nem nyilatkozott*
+
+## Az örökbe adott gyermek hányadik gyermeke:…………………………… nem nyilatkozott*
+
+## Családi helyzete:
+
+## Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott*
+
+## Közös háztartásban élő rokonok (rokonsági fok szerint): :………………………………………………………………………………………………………………………
+
+## ………………………………………- nem nyilatkozott*
+
+## Közös háztartásban élő egyéb személyek:
+
+## ………………………………………………………………………………………………………………………
+
+## ………………………………………- nem nyilatkozott*
+
+## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott*
+
+## Ha igen, kinek:…………………………………………….. – nem nyilatkozott*
+
+| Gyermekeinek száma: | örökbeadott: |
+
+| más által nevelt: |
+
+| általa nevelt: |
+
+| - nem nyilatkozott* |
+
+| Vagyoni helyzetére vonatkozó adatok: |
+
+| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+
+| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+
+| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+
+| Jövedelemszerző tevékenységének formája: |
+
+| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+
+| Tanul: | igen –nem –nem nyilatkozott* |
+
+| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+
+| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+
+|  | igen – nem – nem nyilatkozott* |
+
+| b) A vér szerinti apára vonatkozó adatok |
+
+| Mikor kért először segítséget a szakszolgálattól: |
+
+| Név: |
+
+| Születési idő: |
+
+| Állampolgársága: |
+
+| Lakóhelye: | megye: |
+
+| Tartózkodási helye: | megye: |
+
+| Iskolai végzettsége ……………………………. – nem nyilatkozott* |
+
+| Foglalkozása:…………………………………...- nem nyilatkozott* |
+
+| Egészségi állapota: |
+
+| Gondnokság alatt áll: | igen – nem* |
+
+| Családi helyzete: |
+
+| Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott* |
+
+| A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott* |
+
+| Közös háztartásban élő rokonok (rokonsági fok szerint): :…………………………………………………………………………………………………………………… …………………………………………- nem nyilatkozott* |
+
+| Közös háztartásban élő egyéb személyek: |
+
+| …………………………………………………………………………………………………………………… …………………………………………- nem nyilatkozott* |
+
+| A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott* |
+
+| Ha igen, kinek:…………………………………………….. – nem- nem nyilatkozott* |
+
+| Gyermekeinek száma: | örökbeadott: |
+
+| más által nevelt: |
+
+| általa nevelt: |
+
+| - nem nyilatkozott* |
+
+| Vagyoni helyzetére vonatkozó adatok: |
+
+| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+
+| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+
+| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+
+| Jövedelemszerző tevékenységének formája: |
+
+| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+
+| Tanul: igen –nem –nem nyilatkozott* |
+
+| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+
+| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+
+| igen – nem – nem nyilatkozott* |
+
+| *A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni. |
+
+## D) Örökbe fogadni szándékozó személyek
+
+## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
+
+## Megyenév/Kód:
+
+| A nyilvántartásba vétel ideje [15/1998. (IV. 30.) NM rendelet 146. § (2) bek.]: ........... év ......... hó ........ nap |
+
+| 1. | Az örökbe fogadni szándékozó személyek személyi adatai: |
 
 |  | Anya neve: |  |
 
@@ -1768,7 +2108,7 @@
 
 |  | Tartózkodási hely: |  |
 
-|  | Családi állapota: | – egyedülálló | – házas |
+|  | Családi állapota: | - egyedülálló | - házas |
 
 |  | Iskolai végzettsége: |  |
 
@@ -1788,13 +2128,13 @@
 
 |  | Tartózkodási hely: |  |
 
-|  | Családi állapota: | – egyedülálló | – házas |
+|  | Családi állapota: | - egyedülálló | - házas |
 
 |  | Iskolai végzettsége: |  |
 
 |  | Foglalkozása: |  |
 
-| 2. | Az alkalmasságot megállapító: |
+| 2. | Az alkalmasságot megállapító: |  |
 
 |  | Gyámhivatal megnevezése: |  |
 
@@ -1804,89 +2144,101 @@
 
 |  | Jogerős: |  |
 
-| 3. | Vagyoni helyzet adatai: |
+| 3. | Vagyoni helyzet adatai: |  |
 
-|  | Lakáshasználat jogcíme: |
+|  | Lakáshasználat jogcíme: |  |
 
-|  |  | – Tulajdonos |
+|  | - Tulajdonos |  |
 
-|  |  | – Tulajdonos rokona |
+|  | - Tulajdonos rokona |  |
 
-|  |  | – Főbérlő |
+|  | - Főbérlő |  |
 
-|  |  | – Főbérlő rokona |
+|  | - Főbérlő rokona |  |
 
-|  |  | – Társbérlő |
+|  | - Társbérlő |  |
 
-|  |  | – Albérlő |
+|  | - Albérlő |  |
 
-|  |  | – Egyéb: |  |
+|  | - Egyéb: |  |
 
 |  | Lakás szobaszáma: |  |
 
 |  | Lakás komfortfokozata: |  |
 
-|  |  | – Komfort nélküli |
+|  | - Komfort nélküli |  |
 
-|  |  | – Félkomfortos |
+|  | - Félkomfortos |  |
 
-|  |  | – Komfortos |
+|  | - Komfortos |  |
 
-|  |  | – Összkomfortos |
+|  | - Összkomfortos A lakásban együtt élők száma: |  |
 
 |  | Jövedelem összege: |  |
 
 |  | Anya: |  |
 
-|  |  | – Munkaviszonyból |
+|  | - Munkaviszonyból: |  |
 
-|  |  | – Vállalkozásból |
+|  | - Vállalkozásból: |  |
 
-|  |  | – Egyéb rendszeres pénzellátásból |
+|  | - Egyéb rendszeres pénzellátásból: |  |
 
-|  |  | – Egyéb: |  |
+|  | - Egyéb: |  |
 
-|  |  | Jövedelem összege: |
+|  | Jövedelem összege: |  |
 
-|  | Apa |
+|  | Apa: |  |
 
-|  |  | – Munkaviszonyból |
+|  | - Munkaviszonyból: |  |
 
-|  |  | – Vállalkozásból |
+|  | - Vállalkozásból: |  |
 
-|  |  | – Egyéb rendszeres pénzellátásból |
+|  | - Egyéb rendszeres pénzellátásból: |  |
 
-|  |  | – Egyéb: |
+|  | - Egyéb: |  |
 
-| 4. | Egészségügyi állapotra vonatkozó adat: | Anya: Apa: |
+| 4. | Egészségi állapotra | Anya: ................................................................................................................. |
 
-| 5. | A gyermekkel kapcsolatos elvárásai(k): |  |
+|  | vonatkozó adat: | Apa: ................................................................................................................... |
 
-|  | Gyermekek száma: | – 1 gyermek | – testvérek |
+| 5. | Örökbe fogadni szándékozó személyek fényképe(i) (önkéntes adatszolgáltatás alapján): |  |
 
-|  | Neme*: | – fiú | – leány |
+| 6. | A gyermekkel kapcsolatos elvárásai(k): |  |
 
-|  | Életkora: | ....év …...hónaptól ……év …….. hónapig |
+|  | Gyermekek száma: | - 1 gyermek | - testvérek is, számuk: |
 
-|  | Egészségügyi állapota: |  |
+|  | Neme*: | - fiú | - leány |
 
-|  | Milyen betegségeket, fogyatékosságokat fogad el: Mi az, ami egészségügyi szempontból kizáró tényező: |  |
+|  | Életkora: | .... év ...... hónaptól ...... év ........ hónapig |
 
-|  | Milyen egyéb elvárásai vannak a gyermekkel kapcsolatban: Mi az, ami kizáró tényező lehet: |  |
+|  | Egészségügyi állapota: | ............................................................................................................................ |
 
-| 6. | A gyámhivatal döntése alapján milyen gyermek örökbefogadására alkalmas | 1 gyermek | testvérek |
+|  | Milyen betegségeket, fogyatékosságokat fogad el: | ............................................................................................................................ ............................................................................................................................ |
 
-| egészséges | fogyatékos, beteg gyermek is |
+|  | Mi az, ami egészségi szempontból kizáró tényező: | ............................................................................................................................ ............................................................................................................................ |
 
-| fiú | leány |
+|  | Milyen egyéb elvárásai vannak a gyermekkel kapcsolatban: | ............................................................................................................................ ............................................................................................................................ |
 
-| Életkora: ……év….. hónaptól …. év ……. hónapig |
+|  | Mi az, ami kizáró tényező lehet: |  |
 
-| 7. | A családban nevelkedő gyermekek: | Neme: | Kora | Saját/nevelt/örökbefogadott |
+| 7. | A gyámhivatal döntése | 1 gyermek | Testvérek is, számuk: |
 
-| 8. | Örökbefogadás módja: | – titkos | – nyílt |
+|  | alapján milyen gyermek | egészséges | Milyen fokban fogyatékos, beteg gyermek is |
 
-## * = Amennyiben a gyermek neme fiú vagy lány is lehet, kérjük, mindkettőt jelöljék be!
+|  | örökbefogadására | fiú | leány |
+
+|  | alkalmas | Életkora: ...... év ..... hónaptól .... év ....... hónapig |
+
+| 8. | A családban nevelkedő | Neme: | Születési ideje | Saját/nevelt/örökbefogadott |
+
+|  | gyermekek: | ...................................................................................................................…....... ...................................................................................................................…....... ...................................................................................................................…....... |
+
+| 9. | Örökbefogadás módja**: | - titkos | - nyílt |
+
+| * = | Amennyiben a gyermek neme fiú vagy lány is lehet, kérjük, mindkettőt jelöljék be! |
+
+## ** = Amennyiben mind a nyílt, mind a titkos örökbefogadást vállalják, kérjük, mindkettőt jelöljék be!
 
 ## XIV. számú adatlap
 
@@ -2036,7 +2388,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^9]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^13]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -4836,4 +5188,4 @@ XXII. számú adatlap
 
 | 10. Következő felülvizsgálat időpontja: |
 
-[^9]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 21. § (4) bekezdése alapján a rendelkezést 2007. április 1-jétől a folyamatban lévő ügyekben is alkalmazni kell.
+[^13]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 21. § (4) bekezdése alapján a rendelkezést 2007. április 1-jétől a folyamatban lévő ügyekben is alkalmazni kell.
