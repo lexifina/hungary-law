@@ -1,0 +1,1 @@
+## „(8) Ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyám között vita keletkezik, a gyám köteles azt jelezni a gyámhivatalnak.”
