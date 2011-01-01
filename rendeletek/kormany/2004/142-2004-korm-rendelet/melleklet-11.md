@@ -204,6 +204,6 @@
 
 ## Megjegyzés:
 
-11. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^181]
+11. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^184]
 
-[^181]: A 11. számú melléklet a 153/2005. (VIII. 2.) Korm. rendelet 16. §-ának (5) bekezdése, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^184]: A 11. számú melléklet a 153/2005. (VIII. 2.) Korm. rendelet 16. §-ának (5) bekezdése, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés o) pontja szerint módosított szöveg.

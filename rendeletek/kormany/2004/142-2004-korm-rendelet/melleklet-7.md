@@ -30,6 +30,6 @@
 
 ## *** Pl. db, ml, g.
 
-7. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^175]
+7. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^178]
 
-[^175]: A 7. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés f), i), k)–l) pontja, továbbá a 19. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^178]: A 7. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés f), i), k)–l) pontja, továbbá a 19. § (4) bekezdés b) pontja szerint módosított szöveg.

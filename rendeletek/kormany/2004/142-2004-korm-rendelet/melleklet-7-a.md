@@ -64,6 +64,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum, a kábítószer felelős ellenjegyzése:
 
-7/a. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^176]
+7/a. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^179]
 
-[^176]: A 7/a. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i), k) pontja, továbbá a 19. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^179]: A 7/a. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i), k) pontja, továbbá a 19. § (4) bekezdés b) pontja szerint módosított szöveg.

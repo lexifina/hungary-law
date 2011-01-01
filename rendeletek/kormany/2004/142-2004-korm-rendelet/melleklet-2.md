@@ -374,6 +374,8 @@
 
 | MDMA | (±)N,α-dimethyl-3,4-(methylenedioxy)phenethylamine |
 
+| mephedrone*** (mefedron) | (RS)-1-(4-methylphenyl)-2-methylaminopropan-1-one, 4-methylmethcathinone, 4-methylephedrone, 4-MMC |
+
 | Mescaline (meszkalin) | 3,4,5-trimethoxyphenethylamine |
 
 | Methcathinone (metkatinon) | 2-(methylamino)-1-phenylpropan-1-one |
@@ -660,6 +662,6 @@
 
 ## A P4 jegyzék az 1971-es Pszichotrop Egyezmény aktualizált IV. listája alapján készült.
 
-2. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^170]
+2. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^173]
 
-[^170]: A 2. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^173]: A 2. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i) pontja szerint módosított szöveg.
