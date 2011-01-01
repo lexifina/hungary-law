@@ -14,4 +14,4 @@
 
 (4) A közös jogkezelő szervezet a járulék címén befolyt összeget külön köteles kezelni és nyilvántartani.
 
-(5) A közös jogkezelő szervezet a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a kultúráért felelős miniszter irányítása alatt működő minisztérium hivatalos lapja útján tájékoztatja.
+(5) A közös jogkezelő szervezet a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapja útján tájékoztatja.

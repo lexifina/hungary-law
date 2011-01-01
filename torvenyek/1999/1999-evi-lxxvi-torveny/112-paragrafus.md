@@ -10,10 +10,10 @@
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-a) a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Magyar Szabadalmi Hivatal által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
+a) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
 
-b) a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
+b) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
-(6) Felhatalmazást kap a kultúráért felelős miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, az igazságügyért felelős miniszterrel egyetértésben – a szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat rendelettel megállapítsa.
+(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – a szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat, valamint a közös jogkezelő szervezetek felügyeleti díjának kezelésére, nyilvántartására, felhasználására, megfizetése módjára, továbbá a díjmérték kiszámításának módjára és a megfizetés elmulasztásának jogkövetkezményeire vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az igazságügyért felelős miniszterrel egyetértésben – az e törvény 23/A. §-ának (4) bekezdése alapján a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárak körét rendelettel megállapítsa.

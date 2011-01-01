@@ -2,6 +2,6 @@
 
 (2) A kérelemhez csatolni kell a nyilvántartásba vételhez szükséges – a 88. § (1) bekezdésében meghatározott – feltételek teljesítését igazoló iratokat. Az iratokat a kérelemhez elektronikus hordozón is mellékelni kell három példányban. Az iratokban közölni kell az egyesület tagjainak, illetve az egyesülethez csatlakozni kívánó jogosultaknak az egyedi azonosításra alkalmas adatait, amelyek a tagok és jogosultak teljes nevét és lakcímét vagy székhelyét tartalmazzák.
 
-(3) A kultúráért felelős miniszter a nyilvántartásba vételt a Hivatalos Értesítőben közzéteszi. A nyilvántartásban szereplő szervezetekről és az általuk végzett közös jogkezelési tevékenységekről a kultúráért felelős miniszter a Hivatalos Értesítőben közleményt jelentet meg.
+(3) A Szellemi Tulajdon Nemzeti Hivatala a nyilvántartásba vételt a Hivatalos Értesítőben közzéteszi. A nyilvántartásban szereplő szervezetekről és az általuk végzett közös jogkezelési tevékenységekről a Szellemi Tulajdon Nemzeti Hivatala a Hivatalos Értesítőben közleményt jelentet meg.
 
-(4) A szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat a kultúráért felelős miniszter rendeletben állapítja meg.
+(4) A szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat az igazságügyért felelős miniszter rendeletben állapítja meg.

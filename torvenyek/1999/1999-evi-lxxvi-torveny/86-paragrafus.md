@@ -1,6 +1,6 @@
 ## Nyilvántartás a közös jogkezelő szervezetekről
 
-86. § (1) A szerzői és a szomszédos jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a kultúráért felelős miniszter nyilvántartást vezet.
+86. § (1) A szerzői és a szomszédos jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a Szellemi Tulajdon Nemzeti Hivatala nyilvántartást vezet.
 
 (2) A nyilvántartásba közös jogkezelő szervezetként csak egyesület (Ptk. 61–64. §) vehető fel. Országosan csak egy-egy egyesület vehető nyilvántartásba különösen a következő művekkel, illetve teljesítményekkel kapcsolatos szerzői, illetve szomszédos jogok kezelésére:
 
