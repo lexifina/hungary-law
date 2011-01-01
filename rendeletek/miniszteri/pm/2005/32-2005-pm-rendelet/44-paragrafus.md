@@ -40,21 +40,21 @@ j) a mértékhitelesítő aláírását.
 
 (5)[^169] A II. kategóriába sorolt pénznyerő automaták esetében a pénznyerő automatán belüli játékhelyek, továbbá a pénznyerő automaták között halmozott nyereményígéret nem engedélyezhető.
 
-[(6)[^170] A jackpot rendszernek biztosítania kell, hogy a beállítások és a nyereményadatok nyomon követhetőek és a hatóság által ellenőrizhetőek legyenek.
+(6)[^170] A jackpot rendszernek biztosítania kell, hogy a beállítások és a nyereményadatok nyomon követhetőek és a hatóság által ellenőrizhetőek legyenek.
 
 (7)[^171] A jackpot rendszert a szervező IEK-kel hozhatja működésbe, valamint üzemeltetheti.
 
-(8)[^172] Több játékhelyes pénznyerő automata esetében a játékjog szerzés módja minden játékhelyen azonos módon történhet.]
+(8)[^172] Több játékhelyes pénznyerő automata esetében a játékjog szerzés módja minden játékhelyen azonos módon történhet.
 
 [^161]: A 44. § (1) bekezdésének záró szövegrésze a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
 [^162]: A 44. § (1) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^163]: A 44. § (2) bekezdése a 19/2006. (VII. 31.) PM rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^164]: A 44. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 19. § (2) bekezdése iktatta be.
-[^165]: A 44. § (3) bekezdésének a) pontját a 32/2007. (XII. 21.) PM rendelet 30. § (2) bekezdése hatályon kívül helyezte, újonnan a 16/2010. (IV. 28.) PM rendelet 7. § (1) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^165]: A 44. § (3) bekezdésének a) pontját a 32/2007. (XII. 21.) PM rendelet 30. § (2) bekezdése hatályon kívül helyezte, újonnan a 16/2010. (IV. 28.) PM rendelet 7. § (1) bekezdése iktatta be.
 [^166]: A 44. § (3) bekezdésének b) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
 [^167]: A 44. § (4) bekezdését a 19/2006. (VII. 31.) PM rendelet 19. § (2) bekezdése iktatta be.
 [^168]: A 44. § (4) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
 [^169]: A 44. § (5) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (2) bekezdése iktatta be.
-[^170]: A 44. § (6) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
-[^171]: A 44. § (7) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
-[^172]: A 44. § (8) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^170]: A 44. § (6) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.
+[^171]: A 44. § (7) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.
+[^172]: A 44. § (8) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.

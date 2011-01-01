@@ -24,7 +24,7 @@ b) a kamerákat úgy kell beállítani, típusát úgy kell kiválasztani, hogy 
 
 c) valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép másodperc részletezettséggel és pontossággal tartalmazza a dátumot, az időpontot úgy, hogy a bingóteremben történt események mindvégig láthatóak legyenek. A képpel együtt a hangot is továbbítani kell.
 
-(7)[^82] A kamerák által nyújtott képanyagot rögzíteni kell és azt 30 napig meg kell őrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a bingóteremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 5 munkanapon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
+(7)[^82] A kamerák által nyújtott képanyagot rögzíteni kell és azt 30 napig meg kell őrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a bingóteremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 8 napon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
 
 (8)[^83] A bingóterembe belépőket részletesen tájékoztatni kell a videorendszer működésének tényéről, annak céljáról, továbbá az így szerzett adatok megőrzési idejéről.
 
@@ -38,7 +38,7 @@ b)[^85] aki a videorendszer üzemelése során rögzítendő személyi adatainak
 [^79]: A 22/A. §-t a 32/2007. (XII. 21.) PM rendelet 7. §-a iktatta be.
 [^80]: A 22/A. § (3) bekezdése a 17/2009. (IX. 29.) PM rendelet 45. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^81]: A 22/A. § (6) bekezdése a 17/2009. (IX. 29.) PM rendelet 45. § (2) bekezdésével megállapított, nyitó szövegrésze a 16/2010. (IV. 28.) PM rendelet 18. § (6) bekezdése szerint módosított szöveg.
-[^82]: A 22/A. § (7) bekezdését a 17/2009. (IX. 29.) PM rendelet 45. § (3) bekezdése iktatta be. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^82]: A 22/A. § (7) bekezdését a 17/2009. (IX. 29.) PM rendelet 45. § (3) bekezdése iktatta be, szövege a 26/2010. (XII. 31.) NGM rendelet 5. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^83]: A 22/A. § (8) bekezdését a 17/2009. (IX. 29.) PM rendelet 45. § (3) bekezdése iktatta be, szövege a 16/2010. (IV. 28.) PM rendelet 18. § (6) bekezdése szerint módosított szöveg.
 [^84]: A 22/A. § (9) bekezdését a 17/2009. (IX. 29.) PM rendelet 45. § (3) bekezdése iktatta be. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^85]: A 22/A. § (9) bekezdés b) pontja a 16/2010. (IV. 28.) PM rendelet 18. § (6) bekezdése szerint módosított szöveg.

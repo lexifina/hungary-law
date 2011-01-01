@@ -82,9 +82,9 @@
 
 ## c) a beépített akkumulátorok és a tárolt program vizsgálata,
 
-## d)[^324] a beépített IEK a mérésügyi szerv által kiadott műszaki specifikáció szerinti ellenőrzése, manipulálhatóságának vizsgálata.
+## d)[^324] a beépített IEK a mérésügyi szerv által kiadott műszaki specifikáció szerinti ellenőrzése, manipulálhatóságának vizsgálata,
 
-## [e)[^325] a számlálók manipulálhatóságának vizsgálata.]
+## e)[^325] a számlálók manipulálhatóságának vizsgálata.
 
 ## 9. Az érmeazonosító szerkezet és a kifizető egység ellenőrzése:
 
@@ -116,13 +116,13 @@
 
 ## b) a pénznyerő automata működésére gyakorolt hatás vizsgálata.
 
-## [13.[^327] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
+## 13.[^327] Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
 
 ## a) manipulálhatóság elleni védelem (pl. csatlakozófelületek, lezárhatóság),
 
 ## b) program(ok) megfelelő ellenőrizhetősége, programhordozó(k) írásvédettsége,
 
-## c) a vezérlőegység nyomtatott áramköri lapjában (a továbbiakban: alaplap) az átkötések nem megengedhetőek, ezek vizsgálata.]
+## c) a vezérlőegység nyomtatott áramköri lapjában (a továbbiakban: alaplap) az átkötések nem megengedhetőek, ezek vizsgálata.
 
 ## II. A pénznyerő automata hitelesítése esetén:
 
@@ -152,27 +152,22 @@
 
 ## IV.[^330] Az IEK vizsgálata
 
-## Az IEK-nek 5 évig meg kell őriznie az éves, a negyedévi és a havi halmozott értékeket, valamint az utolsó harmincegy napot napi bontásban is a befizetett, a kifizetett és az eljátszott tétek értékét, a napi legnagyobb nyereményt, valamint a kifizetési hányad értékét. Az IEK-nek kiolvasási lehetőséget és a konfigurációs adatok bevitelét egységes szabványos csatlakozó felületen kell biztosítania a mérésügyi szerv által meghatározott műszaki követelményeknek megfelelően.
-
-## [IV.[^331] Az IEK vizsgálata
-
 ## 1. Az IEK-nek 5 évig meg kell őriznie az éves, a negyedévi és a havi halmozott értékeket, valamint az utolsó harmincegy nap tekintetében napi bontásban is a befizetett, a kifizetett és az eljátszott tétek, megnyert nyeremények értékét, a napi legnagyobb nyereményt, valamint a kifizetési hányad értékét. Az IEK-nek kiolvasási lehetőséget és a konfigurációs adatok bevitelét egységes szabványos csatlakozó felületen kell biztosítania a mérésügyi szerv által meghatározott műszaki követelményeknek megfelelően.
 
-## 2. A jackpot rendszer IEK-ének 5 évig meg kell őriznie napi és havi halmozott értékeket, a befizetés tekintetében a rendszerbe kötött gépeken eljátszott tétek meghatározott százalékú adatait (halmozott nyereményígéret), továbbá kifizetés tekintetében a rendszer által kifizetett nyeremény adatokat.]
+## 2. A jackpot rendszer IEK-ének 5 évig meg kell őriznie napi és havi halmozott értékeket, a befizetés tekintetében a rendszerbe kötött gépeken eljátszott tétek meghatározott százalékú adatait (halmozott nyereményígéret), továbbá kifizetés tekintetében a rendszer által kifizetett nyeremény adatokat.
 
 ## V. Az IEK kiolvasásának szempontjai
 
 ## Az integrált ellenőrző készülék kiolvasása során a készülék által tárolt konfigurációs adatokat, számláló állásokat havi, negyedéves, éves bontásban kell hitelesített adathordozóra rögzíteni. Az adathordozónak tartalmaznia kell a kiolvasott pénznyerő automata azonosító adatait, a kiolvasást kérő megnevezését, a kiolvasás időpontját és végrehajtóját.
 
-4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^332]
+4. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^331]
 
 [^323]: A 3. számú melléklet címe a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
 [^324]: A 3. számú melléklet I. rész 8. pontjának d) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^325]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^325]: A 3. számú melléklet I. pont 8. pont e) alpontját a 16/2010. (IV. 28.) PM rendelet 16. § (1) bekezdése iktatta be.
 [^326]: A 3. számú melléklet I. részének 12. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (1) bekezdése iktatta be.
-[^327]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^327]: A 3. számú melléklet I. pont 13. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (2) bekezdése iktatta be.
 [^328]: A 3. számú melléklet II. részének 9. pontját a 19/2006. (VII. 31.) PM rendelet 37. § (2) bekezdése iktatta be.
 [^329]: A 3. számú melléklet II. pont 10. pontját a 16/2010. (IV. 28.) PM rendelet 16. § (3) bekezdése iktatta be.
-[^330]: A 3. számú melléklet IV. része a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^331]: A 3. számú melléklet IV. pontja a 16/2010. (IV. 28.) PM rendelet 16. § (4) bekezdésével megállapított szöveg. [E módosító rendelet 20. § (3) bekezdése alapján 2011. január 1-jén lép hatályba.]
-[^332]: A 4. számú melléklet a 36/2006. (XII. 25.) PM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^330]: A 3. számú melléklet IV. pontja a 16/2010. (IV. 28.) PM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^331]: A 4. számú melléklet a 36/2006. (XII. 25.) PM rendelet 6. § (3) bekezdésével megállapított szöveg.

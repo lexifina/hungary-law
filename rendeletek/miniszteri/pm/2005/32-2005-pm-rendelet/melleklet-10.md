@@ -68,6 +68,6 @@
 
 ## b) a játékadó befizetésére vonatkozó készpénz-átutalási megbízás (csekk) tőpéldányát, vagy az átutalás megindításának megtörténtét tanúsító hitelintézeti igazolást (bankkivonatot).
 
-10. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^352]
+10. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^351]
 
-[^352]: A 10. számú melléklet a 36/2006. (XII. 25.) PM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^351]: A 10. számú melléklet a 36/2006. (XII. 25.) PM rendelet 6. § (4) bekezdésével megállapított szöveg.
