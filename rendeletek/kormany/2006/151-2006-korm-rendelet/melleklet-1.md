@@ -2,4 +2,4 @@
 
 1. számú melléklet a 151/2006. (VII. 21.) Korm. rendelethez[^1]
 
-[^1]: Az 1. számú melléklet a 234/2010. (VIII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^1]: Az 1. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított szöveg.
