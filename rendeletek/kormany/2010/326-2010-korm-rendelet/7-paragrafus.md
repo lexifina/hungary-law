@@ -1,0 +1,1 @@
+## „(2) A katonai légügyi hatóság hatáskörébe utalt ügyekben első fokon a Légügyi Hivatal, másodfokon a honvédelmi miniszter jár el. Amennyiben az eljárásban a légiközlekedési hatóság és a katonai légügyi hatóság egyaránt érintett, első fokon a Légügyi Hivatal, másodfokon a honvédelmi miniszter jár el azzal, hogy a másodfokú eljárásba a Központot szakhatóságként be kell vonni.”
