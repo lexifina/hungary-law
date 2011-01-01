@@ -1,4 +1,4 @@
-## 7. §[^6] A külföldi nyelvvizsga-bizonyítvány honosítási eljárása során a Hivatal a kérelem beérkezésétől számított harmincöt munkanapon belül, az akkreditációs eljárás során harminc munkanapon belül dönt.
+## 7. §[^6] A külföldi nyelvvizsga-bizonyítvány honosítási eljárása során a Hivatal a kérelem beérkezését követő naptól számított ötven napon belül, az akkreditációs eljárás során negyvenöt napon belül dönt.
 
 ## A vizsgaközpontok és vizsgarendszerek akkreditálása
 
@@ -24,4 +24,4 @@ h) vizsgaszabályzatában meghatározza a vizsga szabályainak megsértéséhez 
 
 (3) A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint.
 
-[^6]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 622. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 622. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (104) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
