@@ -6,10 +6,14 @@
 
 50. § (1) A Vtv. 36. § (2) bekezdésének a)–e) pontja szerinti tulajdonba adásra vonatkozó kezdeményezést az MNV Zrt.-hez vagy az érintett vagyonelem vagyonkezelőjéhez (használójához) kell benyújtani. Utóbbi esetben a vagyonkezelő a hozzá benyújtott kérelmet véleményével, javaslatával együtt az MNV Zrt.-nek tizenöt napon belül döntésre megküldi.
 
-(2) A benyújtott dokumentumoknak tartalmazniuk kell, illetve azokhoz csatolni szükséges:
+(2)[^59] A benyújtott dokumentumoknak tartalmazniuk kell, illetve azokhoz csatolni szükséges:
 
 a) a tulajdonba adásra vonatkozó igényt, megjelölve a felhasználási célt, valamint a segítendő feladatot és az azt előíró jogszabályi rendelkezést,
 
 b) a kezdeményező nyilatkozatát arról, hogy vállalja a tulajdonba adás érdekében felmerülő költségek – ideértve a művelési ág szükséges megváltoztatásának költségét – megtérítését,
 
-c) helyi önkormányzat, illetve többcélú kistérségi társulás kezdeményezése esetén a képviselőtestület (közgyűlés), illetve a többcélú kistérségi társulás tanácsa határozatát, amely az állami vagyon igényléséről hozott döntést tartalmazza.
+c) helyi önkormányzat, illetve többcélú kistérségi társulás kezdeményezése esetén a képviselőtestület (közgyűlés), illetve a többcélú kistérségi társulás tanácsa határozatát, amely az állami vagyon igényléséről hozott döntést tartalmazza,
+
+d) védettség (örökségvédelmi, természetvédelmi, illetve Natura 2000) fennállása esetén annak megjelölését, valamint az ahhoz kapcsolódó kötelezettségek vállalását.
+
+[^59]: Az 50. § (2) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.

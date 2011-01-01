@@ -1,15 +1,21 @@
+## 5. §[^6]
+
 ## Állami tulajdonú gazdálkodó szervezetekre vonatkozó speciális szabályok
 
-6. § (1) Az MNV Zrt. központi költségvetési szervnek a Vtv. 29. §-ának (3) bekezdése szerinti – gazdálkodó szervezet alapítása során történő eljárásra jogosító – meghatalmazást az adott szerv kezdeményezése alapján adhat.
+6. §[^7] (1) Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. §-ának (1) bekezdése szerinti gazdálkodó szervezet alapítását, abban részesedés vagy további részesedés szerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. §-ának (3) bekezdése szerinti meghatalmazás kiadását.
 
-(2) A kezdeményezésben be kell mutatni a gazdálkodó szervezet alapításának indokait, más módon (szervezeti formában) történő feladatellátással szembeni előnyeit és azt, hogy a piacra lépés nem jár versenytorzító hatással. A kezdeményezéshez csatolni kell a központi költségvetési szerv irányítását (felügyeletét) ellátó szerv vezetője, valamint – amennyiben nem azonos az előzővel – az ágazati miniszter véleményét.
+(2) Az (1) bekezdés szerinti kezdeményezésben be kell mutatni a gazdálkodó szervezet alapításának indokait, más módon (szervezeti formában) történő feladatellátással szembeni előnyeit és azt, hogy a piacra lépés nem jár versenytorzító hatással.
 
-(3) A kezdeményezésről a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) hatvan napon belül dönt, amelybe az esetleges hiánypótlásra való felszólítás és annak teljesítése közötti idő nem számít be.
+(3) Az (1) bekezdés szerinti kezdeményezésről az MNV Zrt. az erre vonatkozó megkeresés érkezésétől számított hatvan napon belül dönt, amelybe az esetleges hiánypótlásra való felszólítás és annak teljesítése között eltelt idő nem számít bele.
 
-(4) Amennyiben állami tulajdonú gazdálkodó szervezet alapítása során a Vtv. 29. §-ának (1) és (3) bekezdése alapján központi költségvetési szerv jár el, vagy a tulajdonosi (tagsági, részvényesi) jogokat a Vtv. 29. §-ának (5) bekezdése alapján központi költségvetési szerv gyakorolja, köteles az MNV Zrt. előzetes jóváhagyását kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, vagy más módon a gazdálkodó szervezet tulajdonába adásához. A jóváhagyás kezdeményezésére és kiadására az (1)–(3) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+(4) A gazdálkodó szervezet alapítását engedélyező döntéssel és a kezdeményező központi költségvetési szerv részére az alapítás során eljárásra jogosító meghatalmazás kiadásával egyidejűleg az MNV Zrt. dönt valamely – a kezdeményezés alapján szükséges – állami vagyonelem gazdálkodó szervezet részére történő nem pénzbeli hozzájárulásként vagy más módon történő rendelkezésére bocsátásáról (tulajdonába vagy használatba adásáról).
 
-(5) Állami tulajdonú gazdálkodó szervezetben a Vtv. 29. §-ának (5) bekezdése alapján tulajdonosi (tagsági, részvényesi) jogokat gyakorló személy az MNV Zrt. jóváhagyását köteles kérni tőkeemeléshez, tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához.
+(5) Az állami részesedéssel működő gazdálkodó szervezet tulajdonosi (tagsági, részvényesi) jogait a Vtv. 29. §-ának (5) bekezdése alapján gyakorló központi költségvetési szerv által az államháztartásról szóló 1992. évi XXXVIII. törvény 100/M. § (1) bekezdés szerinti előzetes engedély kezdeményezésére és kiadására az (1)–(3) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-(6) Az (5) bekezdésben foglaltakat nem kell alkalmazni, ha törvény a Kormány előzetes engedélyét írja elő az adott ügylethez.
+(6) Ha az állami részesedéssel működő gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi) jogokat gyakorló személy nem központi költségvetési szerv és ezen jogait a Vtv. 29. §-ának (5) bekezdése alapján az MNV Zrt.-vel kötött szerződés alapján gyakorolja, úgy az MNV Zrt. előzetes engedélyét köteles kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, vagy más módon a gazdálkodó szervezet tulajdonába adásához, a tőkeemeléshez, a nem kötelező tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához, egyesüléséhez, szétválásához.
 
-(7) Állami tulajdonban lévő, egyszemélyes gazdasági vagy közhasznú társaság esetében a tulajdonosi (tagsági, részvényesi) jogokat gyakorló személy – a megválasztással, illetve kinevezéssel kapcsolatos ügyek kivételével – a hatáskörébe tartozó döntés meghozatalát megelőzően köteles a vezető tisztségviselők, valamint a felügyelő bizottság véleményét megismerni. A vélemény (azt tartalmazó testületi határozat) vagy az ülésről készült jegyzőkönyv véleményt tartalmazó kivonata nyilvános, azt a tulajdonosi (tagsági, részvényesi) jogok gyakorlójának határozatával együtt harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni.
+(7)[^8]
+
+[^6]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^8]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.

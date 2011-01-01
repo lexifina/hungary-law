@@ -1,8 +1,8 @@
-## 31. §[^7]
+## 31. §[^45]
 
 ## A pályázat kiírása
 
-32. § (1) A pályázati felhívást és kiírást a Tanács, illetve az erre biztosított jogkörében eljárva az MNV Zrt. vezérigazgatója hagyja jóvá.
+32. § (1)[^46] A pályázati felhívást és kiírást az MNV Zrt. hagyja jóvá.
 
 (2) A nyilvános pályázati felhívást a kiíró köteles országosan és a vagyontárgy megtekintésének helyén oly módon – így különösen napi- vagy hetilapban, hirdetési lapban, internetes hirdetési adatbázisban, hazai és külföldi pénzügyi-gazdasági szaklap(ok)ban – közzétenni, hogy az a lehetséges érdeklődők minél szélesebb köréhez juthasson el.
 
@@ -14,7 +14,7 @@ b) egy országos és egy, a vagyontárgy fekvése vagy az értékesítendő tár
 
 (4) A pályázat meghirdetési időpontjának az országos terjesztésű napilapban való közzététel napját, amennyiben a közzétételre több országos terjesztésű napilapban kerül sor, ezek közül a legkorábbi közzététel napját kell tekinteni.
 
-(5)[^8]
+(5)[^47]
 
 (6) Zártkörű pályázat esetén a kiíró köteles egyidejűleg, közvetlenül és azonos módon – a részletes pályázati kiírás megküldésével – legalább három, egymástól független érdekeltet írásban felhívni az ajánlattételre. Zártkörű pályázat esetén csak az ajánlatkérés tényét kell a – (3) bekezdésben meghatározott módon – nyilvánosságra hozni.
 
@@ -42,5 +42,6 @@ j) a pályázati ajánlat érvényességének feltételeit.
 
 (8) A pályázati felhívás a kiíró mérlegelésétől függően tartalmazhatja a részletes tájékoztató adatait is.
 
-[^7]: A 31. §-t a 262/2010. (XI. 17.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
-[^8]: A 32. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^45]: A 31. §-t a 262/2010. (XI. 17.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^46]: A 32. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^47]: A 32. § (5) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.

@@ -6,8 +6,9 @@
 
 (2) A tulajdonosi ellenőrzés célja az állami vagyonnal való gazdálkodás vizsgálata, ennek keretében a rendeltetésellenes, jogszerűtlen, szerződésellenes, vagy a tulajdonos érdekeit sértő, illetve a központi költségvetést hátrányosan érintő vagyongazdálkodási intézkedések feltárása és a jogszerű állapot helyreállítása, továbbá a vagyonnyilvántartás hitelességének, teljességének és helyességének biztosítása.
 
-(3) Az MNV Zrt. stratégiai és éves ellenőrzési tervet készít, amelyeket jóváhagyásra a Tanács elé terjeszt. Az éves ellenőrzési tapasztalatokról, az azok nyomán tett intézkedésekről az MNV Zrt. vezérigazgatója a tárgyévet követő év május 31-ig jelentést készít a Tanács részére.
+(3)[^31] Az MNV Zrt. stratégiai és éves ellenőrzési tervet készít, amelyeket jóváhagyásra az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) elé terjeszt. Az éves ellenőrzési tapasztalatokról, az azok nyomán tett intézkedésekről az MNV Zrt. vezérigazgatója a tárgyévet követő év május 31-ig jelentést készít a miniszter részére.
 
-(4)[^3] A szerződésben foglalt kötelezettségek ellenőrzése során az MNV Zrt. (területi szervezeti egysége) szükség szerint – az e szervekkel kötött megállapodás esetén – a feladat- és hatáskörrel rendelkező hatóságok közreműködését igénybe veheti, együttműködik továbbá az érintett vagyontárgy védettsége vagy más jellemzője miatt érintett miniszterrel.
+(4)[^32] A szerződésben foglalt kötelezettségek ellenőrzése során az MNV Zrt. (területi szervezeti egysége) szükség szerint – az e szervekkel kötött megállapodás esetén – a feladat- és hatáskörrel rendelkező hatóságok közreműködését igénybe veheti, együttműködik továbbá az érintett vagyontárgy védettsége vagy más jellemzője miatt érintett miniszterrel.
 
-[^3]: A 20. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdésének 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^31]: A 20. § (3) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^32]: A 20. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdésének 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
