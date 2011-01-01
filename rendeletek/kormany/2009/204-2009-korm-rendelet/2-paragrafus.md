@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed az állami vezetőkre, az autonóm államigazgatási szervek és a rendvédelmi szervek kivételével a központi államigazgatási szervek, azok területi és helyi szervei, valamint a Kormány általános hatáskörű területi szerve állományába tartozó személyekre.
+## 1. §[^2] E rendelet hatálya kiterjed az állami vezetőkre, az autonóm államigazgatási szervek és a rendvédelmi szervek kivételével a központi államigazgatási szervek, azok területi és helyi szervei, valamint a Kormány általános hatáskörű területi szerve állományába tartozó személyekre, ide nem értve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjait.
 
 2. § (1) Az ideiglenes külföldi kiküldetést teljesítő, e rendelet hatálya alá tartozó személyek az e rendeletben meghatározottak szerint napidíjra jogosultak.
 
@@ -19,3 +19,5 @@ b) fél naptári napként kell figyelembe venni azt a napot, amelynek során az 
 (7) Az ideiglenes külföldi kiküldetést teljesítő személy a kiküldetés befejező időpontját követő három munkanapon belül nyilatkozik arról, hogy a kiküldetés időtartama alatt részesült-e díjtalan ebédben, illetve vacsorában, továbbá – ha részére a napidíj teljes összegét előre kifizették – a kiküldetés befejező időpontját követő öt munkanapon belül visszafizeti a (6) bekezdésben meghatározott összeget.
 
 (8) A napidíj összege után az ideiglenes külföldi kiküldetést teljesítő személyt a hatályos jogszabályoknak megfelelően terheli adó- és járulékfizetési kötelezettség.
+
+[^2]: Az 1. § a 273/2010. (XII. 9.) Korm. rendelet 128. §-ával megállapított szöveg.
