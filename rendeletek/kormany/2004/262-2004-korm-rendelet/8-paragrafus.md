@@ -1,10 +1,10 @@
 8. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba. Rendelkezéseit a hatálybalépést követően megállapított és írásban közölt közműfejlesztési hozzájárulások után járó közműfejlesztési támogatás igénybevételénél, a 6. § szerinti eljárási szabályokat azonban a korábban megállapított és írásban közölt közműfejlesztési hozzájárulások után járó támogatások igénybevételénél is alkalmazni kell.
 
-(2)[^10]
+(2)[^11]
 
 (3) Az e rendelet hatálybalépését megelőzően megállapított és írásban közölt közműfejlesztési hozzájárulások után járó közműfejlesztési támogatás igénybevételénél – az (1) bekezdésben meghatározott kivétellel – a 110/2002. (V. 14.) Korm. rendelettel módosított 73/1999. (V. 21.) Korm. rendelet előírásait kell alkalmazni.
 
-Melléklet a 262/2004. (IX. 23.) Korm. rendelethez[^11]
+Melléklet a 262/2004. (IX. 23.) Korm. rendelethez[^12]
 
 NYILVÁNTARTÁS-MINTA
 
@@ -44,5 +44,5 @@ a jegyző közműfejlesztési támogatás-igényléssel összefüggő nyilvánta
 
 6 Csak akkor kell kitölteni, ha közműfejlesztési támogatás-visszafizetés történik.
 
-[^10]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 635. pontja hatályon kívül helyezte.
-[^11]: A mellékletet a 46/2007. (III. 20.) Korm. rendelet 5. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 365. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 635. pontja hatályon kívül helyezte.
+[^12]: A mellékletet a 46/2007. (III. 20.) Korm. rendelet 5. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 365. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
