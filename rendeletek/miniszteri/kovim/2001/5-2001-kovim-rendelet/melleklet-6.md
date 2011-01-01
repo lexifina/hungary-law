@@ -32,6 +32,6 @@
 
 ## 1.10. Jogosultság: Sikeres vizsga alapján az engedélyes jogosult a szakszolgálati engedélyben biztosított jogkörének megfelelő tevékenységet ellátni.
 
-6. melléklet az 5/2001. (II. 6.) KöViM rendelethez[^25]
+6. melléklet az 5/2001. (II. 6.) KöViM rendelethez[^26]
 
-[^25]: A 6. számú melléklet a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének i) pontjával megállapított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
+[^26]: A 6. számú melléklet a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének i) pontjával megállapított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.

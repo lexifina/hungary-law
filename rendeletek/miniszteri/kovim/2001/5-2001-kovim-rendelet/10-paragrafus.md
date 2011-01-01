@@ -8,6 +8,6 @@
 
 (4) A gyakorlati vizsgára az a pályázó bocsátható, aki az elméleti vizsga anyagából sikeres vizsgát tett.
 
-(5)[^14] A légiközlekedési hatóság a vizsgáztatás rendjéről a Nemzeti Közlekedési Hatóság elnöke által jóváhagyott vizsgaszabályzatot készít, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a légiközlekedési hatóság honlapján közzé kell tenni.
+(5)[^15] A légiközlekedési hatóság a vizsgáztatás rendjéről a Nemzeti Közlekedési Hatóság elnöke által jóváhagyott vizsgaszabályzatot készít, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a légiközlekedési hatóság honlapján közzé kell tenni.
 
-[^14]: A 10. § (5) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 10. § (5) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 2. §-ával megállapított szöveg.

@@ -184,6 +184,6 @@
 
 ## (d) Nyelv. A szakszolgálati engedélyeket magyar és angol nyelven kell kiadni.
 
-7–11. számú melléklet az 5/2001. (II. 6.) KöViM rendelethez[^26]
+7–11. számú melléklet az 5/2001. (II. 6.) KöViM rendelethez[^27]
 
-[^26]: A 7–11. számú mellékletet a 32/2009. (VI. 30.) KHEM rendelet 30. § (4) bekezdése hatályon kívül helyezte. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
+[^27]: A 7–11. számú mellékletet a 32/2009. (VI. 30.) KHEM rendelet 30. § (4) bekezdése hatályon kívül helyezte. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
