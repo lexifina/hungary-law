@@ -4,6 +4,8 @@
 
 (2) Az EMKI működteti a Reprodukciós Eljárások Adatbázisát (a továbbiakban: Adatbázis) és ennek keretében az 1. § szerint beküldött jelentéseket egészségügyi szolgáltatónkénti bontásban dolgozza fel.
 
-(3) Az EMKI az Adatbázis alapján évente elkészíti a reprodukciós eljárások statisztikai összesítését országos és az egyes egészségügyi szolgáltatók szerinti bontásban (a továbbiakban: éves jelentés). Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig megküldi a Humán Reprodukciós Bizottság elnöke, továbbá az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) részére. Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig honlapján teszi közzé.
+(3)[^1] Az EMKI az Adatbázis alapján évente elkészíti a reprodukciós eljárások statisztikai összesítését országos és az egyes egészségügyi szolgáltatók szerinti bontásban (a továbbiakban: éves jelentés). Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig megküldi a Humán Reprodukciós Bizottság elnöke, továbbá az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére. Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig honlapján teszi közzé.
 
 (4) A Humán Reprodukciós Bizottság elnöke a jelentés alapján gondoskodik a nemzetközi adatszolgáltatásról.
+
+[^1]: A 2. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 228. §-a szerint módosított szöveg.
