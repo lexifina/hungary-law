@@ -48,15 +48,9 @@ o) az energiaadó-mérték alapjául szolgáló mennyiségi egység,
 
 p) az energiaadó összege;
 
-környezetvédelmi termékdíj-fizetési kötelezettség esetén
+q)–s)
 
-q) GLN szám, környezetvédelmi termékdíjköteles termék megnevezése, mennyisége környezetvédelmi termékdíj kód szerinti bontásban,
-
-r) díjtétel,
-
-s) átvállalási szerződés nyilvántartási száma/mentességi engedély száma.
-
-Az adatszolgáltatás formáját az országos parancsnok tájékoztatóban teszi közzé.
+Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatóban teszi közzé.
 
 (7) A vámhatóság a nem közösségi adókat és díjakat az adónyilatkozat alapján állapítja meg.
 

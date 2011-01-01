@@ -6,7 +6,7 @@ b) az Állami Számvevőszék elnökének felhívására,
 
 c) a az adópolitikáért felelős miniszter utasítására,
 
-d) Vám- és Pénzügyőrség Országos Parancsnokságának vagy a Vám- és Pénzügyőrség vezetőjének rendelkezése alapján,
+d) Nemzeti Adó- és Vámhivatal vezetőjének rendelkezése alapján,
 
 e) ha a 485/2008/EK tanácsi rendelet szerinti vizsgálatot a Különleges Szolgálat vezetője elrendeli,
 

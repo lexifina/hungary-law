@@ -24,7 +24,7 @@ g) ha a nem közösségi adók és díjak vonatkozásában, a csatlakozás előt
 
 h) ha a Csatlakozási Szerződés hatálya alá nem tartozó áruk a csatlakozás időpontjában vámeljárás alatt állnak és az eljárás lezárását követően velük kapcsolatban nem közösségi adó és díjfizetési kötelezettség keletkezik, azt a külön jogszabályban meghatározottak szerint kell teljesíteni;
 
-i) a vámhatóság számlavezető parancsnoksága az Európai Unióhoz történő csatlakozás időpontját követően hivatalból, haladéktalanul köteles az általa nyilvántartott ügyfelek részére a csatlakozás időpontját megelőzően kezelt folyószámlák állapotáról részletes tájékoztatást adni. A tájékoztatás kézhezvételét követően az ügyfél köteles a folyószámlán esetlegesen található függő tételek haladéktalan rendezésére;
+i)
 
 j) az i) pontban meghatározott vámbevételek elszámolására és kezelésére az Európai Unióhoz történő csatlakozás időpontja előtt hatályos jogszabály rendelkezéseit kell alkalmazni a záró rendelkezésekben foglaltak figyelembevételével. A keletkező bevételeket a Magyar Köztársaság javára kell érvényesíteni;
 

@@ -16,11 +16,11 @@
 
 a) megkeresésre a bíróságot az igazságszolgáltatás gyakorlása céljából,
 
-b) az ügyészt, valamint általa jóváhagyott megkeresésre a nyomozó hatóságot, a bűncselekmények megelőzése, felderítése, a büntetőeljárás megindítása vagy lefolytatása céljából,
+b) az ügyészt, valamint a megkeresés célja szerint indokolt adatok tekintetében a nyomozó hatóságot, a bűncselekmények megelőzése, felderítése, a büntetőeljárás megindítása vagy lefolytatása céljából,
 
 c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés céljából,
 
-d) az állami adóhatóságot, az adózási, ellenőrzési, visszatartási és végrehajtási feladatok ellátása céljából,
+d)
 
 e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, továbbá az Európai Csalásellenes Hivatalt (OLAF), az általuk végzett ellenőrzés céljából,
 
@@ -34,7 +34,7 @@ i) a piaci árinformációs rendszert működtető szervet a külön jogszabály
 
 j) a környezetvédelmi és természetvédelmi hatóságokat felügyeleti, ellenőrzési és engedélyezési feladataik ellátása céljából,
 
-k) felügyeleti tevékenysége ellátása érdekében, nemzetgazdasági, adó- és vámpolitikai, továbbá piacvédelmi elemzési célból, valamint a Közösség költségvetésébe történő befizetések teljesítésével kapcsolatos feladatok ellátása céljából az adópolitikáért felelős minisztert,
+k) az adópolitikáért felelős minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
 
 l) statisztikai célra a Központi Statisztikai Hivatalt,
 
@@ -80,7 +80,7 @@ a) a (6) bekezdés va)–vf) pontjaiban meghatározott hatóság a vámeljárás
 
 b) a mezőgazdasági és vidékfejlesztési támogatási szerv az engedélyezési, a bizonylatolási és export-visszatérítési,
 
-c) az állami adóhatóság az adózási, ellenőrzési, visszatartási és végrehajtási,
+c)
 
 d) az egyes tagállamok vámhatóságai a vámunióból eredő, közös
 

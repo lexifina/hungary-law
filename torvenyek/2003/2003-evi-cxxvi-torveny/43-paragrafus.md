@@ -12,4 +12,4 @@ b) a vámraktár üzemeltetéséhez, ideértve a Vámkódex 168. a. cikk (1) bek
 
 (4) Az e törvény 38. §-ának e) pontjában foglaltak alkalmazásakor a vámhatóság eltekinthet a biztosíték nyújtásától.
 
-(5) Mentes a biztosítéknyújtási kötelezettség alól – a jövedéki termék kivételével – a vámhatóság által megbízhatónak minősített fuvarozó és szállítmányozó, az engedélyezett címzett, a vámkódex 14a. cikke (1) bekezdés szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó, továbbá a vámudvart üzemeltető vámügynök a rendszeres tevékenysége keretében telephelyére érkező átmeneti megőrzés alá vont áru tekintetében.
+(5) Mentes a biztosítéknyújtási kötelezettség alól – a jövedéki termék kivételével – a vámhatóság által megbízhatónak minősített fuvarozó és szállítmányozó, az engedélyezett címzett, az EK végrehajtási rendelet 14a. cikke (1) bekezdés szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó, továbbá a vámudvart üzemeltető vámügynök a rendszeres tevékenysége keretében telephelyére érkező átmeneti megőrzés alá vont áru tekintetében.

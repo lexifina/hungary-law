@@ -10,4 +10,4 @@
 
 (4) E törvény 17. §-ának (1)–(8) bekezdése és a 78. §-a 2004. február 1-jén lép hatályba.
 
-(5) E törvény 79. §-a (3) bekezdésének hatálybalépésével egyidejűleg – az ott megjelölt feladatok tekintetében – a budapesti 17. számú Vámhivatalt a vámszervezet központi szerve jogutódjának kell tekinteni.
+(5)

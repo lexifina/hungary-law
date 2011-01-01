@@ -48,6 +48,6 @@ d) a katonai csapat- és árumozgásra vonatkozó vámeljárás különös szab�
 
 e) a nemzetközi posta- és gyorspostaforgalomra vonatkozó részletes vámeljárási szabályokat.
 
-(4) Felhatalmazást kap külpolitikáért felelős miniszter és az adópolitikáért felelős miniszter, hogy együttes rendeletben szabályozza a Vámtarifa Bizottság összetételét és ügyrendjét.
+(4) Felhatalmazást kap külpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Vámtarifa Bizottság összetételét és ügyrendjét.
 
 (5) Felhatalmazást kap kereskedelemért felelős miniszter, hogy a külpolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény 76. §-ában meghatározott engedélyezés eljárási rendjét.

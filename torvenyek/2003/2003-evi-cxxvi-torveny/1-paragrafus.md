@@ -8,7 +8,7 @@ a) a Tanács 2913/92/EGK rendelete a Közösségi Vámkódex létrehozásáról 
 
 b) a Bizottság 2454/93/EGK rendelete a Közösségi Vámkódexet létrehozó 2913/92/EGK számú Tanácsi Rendelet végrehajtásáról (a továbbiakban: EK végrehajtási rendelet),
 
-c) a Tanács 918/83/EGK rendelete a vámkönnyítések közösségi rendszerének felállításáról (a továbbiakban: vámmentességi rendelet),
+c) a Tanács 1186/2009/EK rendelete a vámmentességek közösségi rendszerének létrehozásáról (a továbbiakban: vámmentességi rendelet),
 
 d) a Tanács 2658/87/EGK rendelete a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról
 
@@ -16,13 +16,17 @@ a módosításaikkal együtt.
 
 (3) E törvény alkalmazásában
 
-1.
+1. 1/a. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve,
+
+1/b. állami adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve,
+
+1/c. vámhivatal: a Nemzeti Adó- és Vámhivatal alsó fokú vámszerve vagy annak kirendeltsége.
 
 2. vámigazgatási eljárás: a vámhatóság által a vám- és egyéb jogszabályok rendelkezéseinek érvényesítése érdekében végzett cselekmények összessége;
 
 3. megbízható vámadós: az a személy, aki, illetve amelynek vezetője igazolja, hogy gazdasági tevékenységével összefüggő súlyos bűncselekmény miatt nem minősül büntetett előéletűnek, valamint
 
-a) akinek a kérelem elbírálása vagy a vámhatóság ellenőrzése időpontjában nincs a magyar állami adóhatóságnál (a továbbiakban: állami adóhatóság), illetve vámhatóságnál – engedély nélkül – az előírt vagy a fizetési felszólításban meghatározott időtartamon túl meg nem fizetett tartozása (a továbbiakban: kintlévőség), továbbá valamely tagállam vámhatósága által végrehajtani kért vámtartozása, és
+a) akinek a kérelem elbírálása vagy a vámhatóság ellenőrzése időpontjában nincs a magyar állami adóhatóságnál, illetve vámhatóságnál – engedély nélkül – az előírt vagy a fizetési felszólításban meghatározott időtartamon túl meg nem fizetett tartozása (a továbbiakban: kintlévőség), továbbá valamely tagállam vámhatósága által végrehajtani kért vámtartozása, és
 
 b) aki nyilatkozik arról, hogy nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt.
 
@@ -58,7 +62,7 @@ b) a házi szemle helye, ahol a vámhatóság a házi szemlét kérő írásbeli
 
 11. közhivatal: a közhatalmi feladatokat ellátó, valamint a központi és helyi közigazgatási hatóságok;
 
-12. nem közösségi adók és díjak: valamennyi, a vámigazgatási eljárás során megállapított olyan fizetési kötelezettség, amelynek kiszabását és beszedését külön jogszabályok a vámhatóság hatáskörébe utalják, így különösen a jövedéki adó, az általános forgalmi adó, a regisztrációs adó, a környezetvédelmi termékdíj;
+12. nem közösségi adók és díjak: valamennyi olyan fizetési kötelezettség, amelynek kiszabása, beszedése, ellenőrzése a vámhatóság hatáskörébe tartozik, így különösen a jövedéki adó, az általános forgalmi adó, a regisztrációs adó, a környezetvédelmi termékdíj;
 
 13.
 

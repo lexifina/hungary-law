@@ -8,7 +8,7 @@ b) a természetes személyeket a személyazonosításra alkalmas adatok (név, l
 
 (3) Amennyiben a (2) bekezdésben meghatározott adatok a vámeljárás megkezdésekor a vámhatóság nyilvántartásában nem szerepelnek, akkor azokról az ügyfélnek a vámeljárást lefolytató vámhivatalnál írásban nyilatkoznia kell és az adatok hitelességét bizonyító okiratok bemutatását a vámhatóság megkövetelheti.
 
-(4) A vámhatóság a vámmentességi rendelet 112. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 115. cikkének (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 115. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az adatszolgáltatás formáját az országos parancsnok tájékoztatóban teszi közzé.
+(4) A vámhatóság a vámmentességi rendelet 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikkének (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatóban teszi közzé.
 
 (5) Amennyiben az adós más szervezettel jogelődi vagy jogutódi viszonyban van, akkor a (2) bekezdésben felsorolt adatokról valamennyi jogelőd, illetve jogutód tekintetében is nyilatkoznia kell.
 
@@ -22,7 +22,7 @@ b) az áru és gépjármű azonosításához a gépjármű-nyilvántartásból,
 
 c) a megbízható vámadós feltételeként előírt, a gazdasági tevékenységgel összefüggő súlyos bűncselekmény miatt büntetett előélet vizsgálata céljából – az 1/A. § (2) bekezdésben meghatározott adatokat – a külön törvény szerinti bűnügyi nyilvántartási rendszerből,
 
-d) az állami adóhatóság adósnyilvántartásából,
+d)
 
 e) törvényi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
