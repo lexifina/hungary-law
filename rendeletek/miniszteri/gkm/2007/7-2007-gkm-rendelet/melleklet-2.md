@@ -74,7 +74,7 @@
 
 ## valamint külső energiaforrásról hajtott mutatványos berendezés, ha a használója a beszállószintről 0,3 m-nél kevesebbet emelkedik és a sebessége 1,5 m/s-nál (5,4 km/óránál) kisebb, vagy olyan eszközök, melyeken a felhasználó a saját erejéből ugrik fel rugalmas alátámasztáson, és 1 m-nél magasabbra nem lehet felmászni.
 
-2. melléklet a 7/2007. (I. 22.) GKM rendelethez[^15]
+2. melléklet a 7/2007. (I. 22.) GKM rendelethez[^16]
 
 MEGFELELŐSÉGI TANÚSÍTVÁNY
 
@@ -120,4 +120,4 @@ A berendezés időszakos vizsgálatai:
 
 | A vizsgálat időpontja | Hatályának lejárta | Kijelölt szervezet (P. H., aláírás) |
 
-[^15]: A 2. melléklet a 26/2009. (X. 22.) NFGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 2. melléklet a 26/2009. (X. 22.) NFGM rendelet 6. § (1) bekezdése szerint módosított szöveg.
