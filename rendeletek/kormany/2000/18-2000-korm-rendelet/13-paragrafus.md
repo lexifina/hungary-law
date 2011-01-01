@@ -1,6 +1,6 @@
-13. § (1) E rendelet az Öotv.[^23] hatálybalépésének napján lép hatályba.
+13. § (1) E rendelet az Öotv.[^25] hatálybalépésének napján lép hatályba.
 
-(2)[^24]
+(2)[^26]
 
 (3) Az e rendelet hatálybalépése napját követően gazdálkodó szervezettel vagy magánorvossal az Öotv. 1. §-a (2) bekezdésének a) pontjában meghatározott önálló orvosi tevékenységre kötött szerződés esetén a szerződés legrövidebb időtartama 5 év [Ptk. 226. § (1) bekezdés].
 
@@ -24,5 +24,5 @@ b) 8. §-ának (3) bekezdése az alábbi mondattal egészül ki:
 
 c) 13. §-a (1) bekezdésének felvezető mondatában a ,,(2) bekezdése'' szövegrész helyébe a ,,(3) bekezdése'' szövegrész lép.
 
-[^23]: Az Öotv. a Magyar Közlöny 2000. február 11-i, 12. számában jelent meg, és 2000. február 26-án lép hatályba.
-[^24]: A 13. § (2) bekezdését a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
+[^25]: Az Öotv. a Magyar Közlöny 2000. február 11-i, 12. számában jelent meg, és 2000. február 26-án lép hatályba.
+[^26]: A 13. § (2) bekezdését a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
