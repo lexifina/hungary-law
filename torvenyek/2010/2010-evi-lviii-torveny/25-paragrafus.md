@@ -11,3 +11,7 @@
 (4) A minisztériumok és a Miniszterelnökség az e törvényben és a Ktv. 63. § (9) bekezdésében meghatározott adatszolgáltatásokat a szolgáltató központ útján teljesítik.
 
 (5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a személyügyi nyilvántartó rendszerben tárolt adatokból.
+
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a minisztériumoknál foglalkoztatottak esetében a kormányzati tevékenység összehangolásának biztosítása céljából a minisztériumoknál vezetett közszolgálati alapnyilvántartásba jogosult betekintetni.
+
+(7) A szolgáltató központban foglalkoztatottak közszolgálati alapnyilvántartására a minisztériumra vonatkozó szabályokat kell alkalmazni.
