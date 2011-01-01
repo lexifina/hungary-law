@@ -76,7 +76,7 @@
 
 37.[^18] tehergépkocsi és autóbuszvezetők alapképesítése és továbbképzési képesítése: a tehergépkocsival és autóbusszal végzett közúti közlekedési szolgáltatást, illetőleg közúti áru- és személyszállítást végző járművet vezető részére külön jogszabályban meghatározott képesítés,
 
-[38.[^19] tanterv: a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum, az oktatandó tartalom kiválasztásának, elrendezésének, egymásra épülésének, feldolgozásának koncepciója, amely az egyes képzési fajtákra és tantárgyakra bontva magában foglalja az oktatás céljait, az oktatandó ismeretanyagot és azok megszerzésének legcélravezetőbb módszereit, eszközeit,]
+38.[^19] tanterv: a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum, az oktatandó tartalom kiválasztásának, elrendezésének, egymásra épülésének, feldolgozásának koncepciója, amely az egyes képzési fajtákra és tantárgyakra bontva magában foglalja az oktatás céljait, az oktatandó ismeretanyagot és azok megszerzésének legcélravezetőbb módszereit, eszközeit,]
 
 39.[^20] szaktanfolyam: a közúti közlekedési szakemberek elméleti és gyakorlati oktatása
 
@@ -97,6 +97,6 @@
 [^16]: A 2. § 33. pontja a 85/2009. (XII. 30.) KHEM rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^17]: A 2. § 35. pontja a 85/2009. (XII. 30.) KHEM rendelet 1. § (8) bekezdésével megállapított szöveg.
 [^18]: A 2. § 37. pontját a 38/2007. (III. 28.) GKM rendelet 2. §-a iktatta be.
-[^19]: A 2. § 38. pontját a 85/2009. (XII. 30.) KHEM rendelet 1. § (9) bekezdése iktatta be. [E módosító rendelet 21. § (5) bekezdése alapján 2011. január 1-jén lép hatályba.]
+[^19]: A 2. § 38. pontját a 85/2009. (XII. 30.) KHEM rendelet 1. § (9) bekezdése iktatta be.
 [^20]: A 2. § 39. pontját a 85/2009. (XII. 30.) KHEM rendelet 1. § (10) bekezdése iktatta be.
 [^21]: A 2. § 40. pontját a 85/2009. (XII. 30.) KHEM rendelet 1. § (11) bekezdése iktatta be.

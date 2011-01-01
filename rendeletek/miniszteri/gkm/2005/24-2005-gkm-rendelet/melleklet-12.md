@@ -6,7 +6,7 @@
 
 a) a vizsgakötelezettség teljesítésével lehet megszerezni,
 
-[b)[^224] a vizsga letételéhez az előzetes szaktanfolyami részvétel kötelező.]
+b)[^224] a vizsga letételéhez az előzetes szaktanfolyami részvétel kötelező.
 
 2. Elméleti vizsgatárgyak és vizsgaidők:
 
@@ -178,7 +178,7 @@ e) az 5.3. pontban meghatározott tanpálya vagy szimulátor berendezés.
 
 [^222]: A 12. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
 [^223]: A 12. számú melléklet 1. pontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^224]: A 12. számú melléklet 1. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 21. § (5) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^224]: A 12. számú melléklet 1. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 21. § (5) bekezdése alapján 2011. január 1-jén lépett hatályba.
 [^225]: A 12. számú melléklet 5.3. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
 [^226]: A 12. számú melléklet 5.3. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
 [^227]: A 12. számú melléklet 5.3. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
