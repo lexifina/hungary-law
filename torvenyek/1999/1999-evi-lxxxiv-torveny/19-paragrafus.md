@@ -1,12 +1,12 @@
 19. § (1) A nyilvántartásból igényelheti(k):
 
-a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok és a Rendvédelmi Szervek Védelmi Szolgálata a törvényben meghatározott feladataik ellátásához szükséges adatokat;
+a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat;
 
 b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
 
 c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 
-d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait;
+d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 
 e) a települési önkormányzat jegyzője
 

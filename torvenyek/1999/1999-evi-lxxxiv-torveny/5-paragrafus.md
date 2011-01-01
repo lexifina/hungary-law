@@ -20,6 +20,6 @@ h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet 
 
 i) illetékmentes eljárás keretében ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, díj ellenében a parkolási igazolvány pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
 
-j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított három munkanapon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli.
+j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli.
 
 (2)

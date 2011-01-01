@@ -1,9 +1,7 @@
-42. § Felhatalmazást kap a közlekedésrendészetért felelős miniszter, hogy rendeletben szabályozza
+42. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg
 
-a) a nyilvántartás, az okmánytár működtetése és az adatszolgáltatás részletes szabályait;
+a) a közlekedésrendészetért felelős miniszterrel egyetértésben a nyilvántartás, az okmánytár működtetése és az adatszolgáltatás részletes szabályait;
 
-b) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
+b) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
 
-c)
-
-d) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
+c) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.

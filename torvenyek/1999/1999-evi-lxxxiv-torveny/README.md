@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2010-06-05 | 2010. évi XLVII. törvény | 1999-84-00-00.23 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1999-84-00-00.24 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 1999-84-00-00.25 |
+| 2011-01-01 | 2010. évi CXLVII. törvény | 1999-84-00-00.26 |

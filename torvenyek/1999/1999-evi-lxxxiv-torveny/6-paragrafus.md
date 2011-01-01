@@ -1,4 +1,4 @@
-6. § A közigazgatási hivatal
+6. § A Kormány általános hatáskörű területi államigazgatási szerve
 
 a)
 
