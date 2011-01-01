@@ -1,4 +1,4 @@
-## 10. §[^5] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 10. §[^6] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az Európai Parlament és a Tanács 96/57/EK irányelve (1996. szeptember 3.) a háztartási elektromos hűtőszekrények, fagyasztók és ezek kombinációi energiahatékonysági követelményeiről, 9. cikk (1) bekezdés,
 
@@ -22,7 +22,7 @@ Kategória Meghatározás
 
 ----------------
 
-1 Hűtőszekrény, alacsony hőmérsékletű rekesz nélkül[^6]
+1 Hűtőszekrény, alacsony hőmérsékletű rekesz nélkül[^7]
 
 2 Hűtőkészülék/fagyasztott élelmiszert tároló készülék 5 °C és/vagy 12 °C hőmérsékletű rekesszel
 
@@ -134,5 +134,5 @@ Amennyiben a készülék villamosenergia-fogyasztása nagyobb, mint Emax+15%, me
 
 Ha a számtani középérték túllépi az Emax+10% értéket, a készülék nem felel meg a rendelet villamosenergiafogyasztási követelményeinek.
 
-[^5]: A 10. § a 92/2007. (XI. 22.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^6]: Bármilyen –6 °C vagy ennél alacsonyabb hőmérsékletű rekesz.
+[^6]: A 10. § a 92/2007. (XI. 22.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: Bármilyen –6 °C vagy ennél alacsonyabb hőmérsékletű rekesz.
