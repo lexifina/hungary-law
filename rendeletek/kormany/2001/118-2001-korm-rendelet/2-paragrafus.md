@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában
 
-a)[^1] magán-munkaközvetítés: a munkaügyi központ munkaközvetítői tevékenységén kívül végzett olyan szolgáltatások összessége, amely arra irányul, hogy elősegítse a munkát keresők és a munkát kínálók találkozását foglalkoztatásra irányuló jogviszony létesítése céljából, ideértve a magyar állampolgárok külföldre, a külföldi állampolgárok Magyarországra való közvetítését is;
+a)[^2] magán-munkaközvetítés: a munkaügyi központ munkaközvetítői tevékenységén kívül végzett olyan szolgáltatások összessége, amely arra irányul, hogy elősegítse a munkát keresők és a munkát kínálók találkozását foglalkoztatásra irányuló jogviszony létesítése céljából, ideértve a magyar állampolgárok külföldre, a külföldi állampolgárok Magyarországra való közvetítését is;
 
 b) külföldi: aki nem magyar állampolgár;
 
@@ -18,4 +18,4 @@ g) kölcsönvevő: az Mt. 193/C. § c) pontjában meghatározott munkáltató.
 
 (2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
 
-[^1]: A 2. § (1) bekezdésének a) pontja az 57/2003. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdésének a) pontja az 57/2003. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.

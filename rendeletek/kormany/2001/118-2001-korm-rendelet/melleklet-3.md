@@ -44,7 +44,7 @@ II. Nyilatkozatok, csatolandó iratok:
 
 2.5. eredeti letéti szerződés a vagyoni biztosítékról,
 
-2.6.[^34]
+2.6.[^35]
 
 Dátum: ....................
 
@@ -52,4 +52,4 @@ Dátum: ....................
 
 a kérelmező cégszerű aláírása
 
-[^34]: A 3. számú melléklet II. pont 2.6. alpontját a 285/2009. (XII. 11.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^35]: A 3. számú melléklet II. pont 2.6. alpontját a 285/2009. (XII. 11.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
