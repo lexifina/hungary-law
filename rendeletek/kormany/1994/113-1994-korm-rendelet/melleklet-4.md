@@ -1,8 +1,8 @@
-## A Szakértői Intézet ……………… fokú szakértői bizottsága
+## Az orvosszakértői szerv ……………… fokú szakértői bizottsága
 
 ## …………………………
 
-## Szám:………………… Tárgy: Szakvélemény hadieredetű
+## Szám:………………… Tárgy: szakhatósági állásfoglalás hadieredetű
 
 ## fogyatkozásról és az általa okozott egészségkárosodás mértékéről
 
@@ -40,7 +40,7 @@
 
 ## .................................................
 
-## A szakértői bizottság szakvéleményének alapjául szolgáló indokok:
+## A szakértői bizottság szakhatósági állásfoglalásának alapjául szolgáló indokok:
 
 ## .....................................................
 

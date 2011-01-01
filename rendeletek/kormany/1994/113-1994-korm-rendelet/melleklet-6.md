@@ -88,7 +88,7 @@ A hadigondozottat a hadigondozásról szóló 1994. évi XLV. törvény alapján
 
 22. § (1) A hadirokkant és hadiözvegy térítésmentesen veheti igénybe a helyi tömegközlekedési és a helyközi (távolsági) tömegközlekedési (vonat, autóbusz, hajó, komp stb.) eszközöket.
 
-(2) Ha a hadirokkant bármely fogyatkozása miatt a Szakértői Intézet szakvéleménye alapján kísérőre szorul, a kísérőt is megilleti a térítésmentes utazási kedvezmény.
+(2) Ha a hadirokkant bármely fogyatkozása miatt az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, a kísérőt is megilleti a térítésmentes utazási kedvezmény.
 
 (3) A mozgáskorlátozott személyeket megillető támogatások megállapítása során — az azonos feltételek fennállása esetén — a hadirokkantat előnyben kell részesíteni.
 
@@ -106,4 +106,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^43]: Az R. 6. számú melléklete a 213/2007. (VIII. 7.) Korm. rendelet 18. § c) pontjának ci) alpontja szerint módosított szöveg.
+[^43]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
