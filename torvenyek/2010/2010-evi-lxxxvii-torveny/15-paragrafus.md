@@ -43,3 +43,9 @@ q) szociális földprogram támogatása;
 r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 
 s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes termőföld biztosítás.
+
+(4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
+
+a) az örökség visszautasítása útján szállt a Magyar Államra, vagy
+
+b) az örökös a hagyatéki eljárásban a Magyar Állam részére felajánlotta.
