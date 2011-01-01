@@ -1,0 +1,3 @@
+4. § (1) Az iparügyekért felelős miniszter rendeletében meghatározott hegesztett szerkezet szerelésénél, átalakításánál, javításánál az ömlesztőhegesztés és az ezzel összefüggő egyéb tevékenység csak az iparügyekért felelős miniszter rendeletében meghatározott engedéllyel végezhető. Az engedélyezésre jogosult hatóság az engedéllyel rendelkezőkről nyilvántartást vezet.
+
+(2) Az iparügyekért felelős miniszter rendeletében meghatározott kazánok és a hozzá tartozó berendezések, továbbá a hatósági felügyelet alá tartozó egyéb nyomástartó berendezések vegyi kezelésére irányuló tevékenységet csak az folytathat, aki rendelkezik az iparügyekért felelős miniszter rendeletében meghatározott engedéllyel. Az engedélyező hatóság az engedéllyel rendelkezőkről nyilvántartást vezet.
