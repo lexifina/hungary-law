@@ -6,7 +6,7 @@ b) a cselekmény elkövetésétől, vagy a jogsértő állapot fennállása eset
 
 c)
 
-(2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított huszonkettedik munkanapig meg kell fizetni.
+(2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított harmincadik napig meg kell fizetni.
 
 (3) A jogerősen kiszabott és határidőben meg nem fizetett egészségügyi bírságot és késedelmi pótlékot adók módjára kell behajtani, amelyről az egészségügyi államigazgatási szerv megkeresésére az állami adóhatóság gondoskodik.
 

@@ -6,13 +6,13 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az egészségügyi államigazgatási szervet vagy szerveket.
 
-(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszterrel együttes rendeletben szabályozza.
+(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap honvédelemért felelős miniszter és az egészségügyért felelős miniszter, hogy a Magyar Honvédség feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét együttes rendeletben szabályozza.
+(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
-(7) Felhatalmazás kap az idegenrendészetért és menekültügyért felelős miniszter és az egészségügyért felelős miniszter, hogy a menekülteket befogadó állomásokra, valamint a Rendőrség átmeneti szállásaira vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét együttes rendeletben szabályozza.
+(7) Felhatalmazás kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekülteket befogadó állomásokra, valamint a Rendőrség átmeneti szállásaira vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
-(8) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter és az egészségügyért felelős miniszter, hogy a büntetés-végrehajtási szervek tevékenységével kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét együttes rendeletben szabályozza.
+(8) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetés-végrehajtási szervek tevékenységével kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben
 
