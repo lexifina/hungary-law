@@ -32,4 +32,6 @@ j) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
 
 (4) A vasúti társaság az üzletszabályzatát a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja az üzletszabályzatra érkezett, el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
 
-(5) A vasúti társaság üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 5 munkanapon belül – hivatalos honlapján közzéteszi.
+(5)[^3] A vasúti társaság üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított nyolc napon belül – hivatalos honlapján közzéteszi.
+
+[^3]: Az 5. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (132) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

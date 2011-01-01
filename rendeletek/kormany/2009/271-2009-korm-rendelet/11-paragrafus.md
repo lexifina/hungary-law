@@ -4,9 +4,7 @@
 
 a) az indulási állomás nevét,
 
-b) a célállomás nevét és az útirányt, vagy az indulási állomástól mért kilométer-övezet távolságát,
-
-[b)[^3] a célállomás nevét és az útirányt,]
+b)[^4] a célállomás nevét és az útirányt, vagy az indulási állomástól mért kilométer-övezet távolságát,
 
 c) a fizetett menetdíj összegét és annak adótartalmát,
 
@@ -44,4 +42,4 @@ tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
 
 (7) Ha a vasúti társaság a felszállási állomáson meghatározott időszakban vagy egyáltalán nem szolgáltat ki menetjegyet, erről az utazóközönséget helyben tájékoztatja. Ilyen esetben a vonaton a menetjegyet a felszállást követő első jegykezelés alkalmával pótdíj nélkül kell kiszolgáltatni.
 
-[^3]: A 11. § (1) bekezedés b) pontja a 25. § (1) bekezdésével megállapított szöveg. [A 24. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.]
+[^4]: [A 11. § (1) bekezdés b) pontjának a 25. § (1) bekezdésével megállapított, a 24. § (2) bekezdése alapján 2013. január 1-jétől hatályos szövege: „b) a célállomás nevét és az útirányt,”.]
