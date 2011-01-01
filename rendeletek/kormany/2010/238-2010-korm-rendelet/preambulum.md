@@ -1,1 +1,0 @@
-A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés v) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
