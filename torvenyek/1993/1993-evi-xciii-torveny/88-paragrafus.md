@@ -92,7 +92,7 @@ e) az adópolitikáért felelős miniszterrel egyetértésben, rendeletben hatá
 
 részletes szabályait.
 
-(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter és az egészségügyért felelős miniszter, hogy a munkahelyi kémiai biztonság részletes szabályait együttes rendeletben állapítsa meg.
+(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 
