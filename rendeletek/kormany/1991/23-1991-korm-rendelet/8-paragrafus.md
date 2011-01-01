@@ -1,8 +1,8 @@
 ## kell érteni.
 
-8. §[^33] Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
+8. §[^37] Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
 
-Melléklet a 23/1991. (II. 9.) Korm. rendelethez[^34]
+Melléklet a 23/1991. (II. 9.) Korm. rendelethez[^38]
 
 A rendelet hatálya alá nem tartozó munkakörök jegyzéke
 
@@ -168,5 +168,5 @@ Varró(nő)
 
 Vezérigazgató (igazgató), gazdasági vezérigazgató-helyettes (gazdasági igazgatóhelyettes)
 
-[^33]: Az eredeti 7. § számozását 8. §-ra változtatta a 114/1994. (VIII. 31.) Korm. rendelet 5. §-a, a 8. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1496. pontja hatályon kívül helyezte.
-[^34]: A melléklet a 114/1994. (VIII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^37]: Az eredeti 7. § számozását 8. §-ra változtatta a 114/1994. (VIII. 31.) Korm. rendelet 5. §-a, a 8. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1496. pontja hatályon kívül helyezte.
+[^38]: A melléklet a 114/1994. (VIII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
