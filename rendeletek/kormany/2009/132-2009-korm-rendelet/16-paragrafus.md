@@ -2,7 +2,7 @@
 
 ## Támogatás a munkahelynek a megváltozott munkaképességű személy foglalkoztatásához szükséges adaptációjához, fizikai és info-kommunikációs akadálymentesítéséhez
 
-16. §[^15] (1) Támogatás nyújtható a legalább 6 hónap időtartamú foglalkoztatási kötelezettséget vállaló munkáltató részére
+16. §[^25] (1) Támogatás nyújtható a legalább 6 hónap időtartamú foglalkoztatási kötelezettséget vállaló munkáltató részére
 
 a) a termelő, szolgáltató létesítmények – a megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggő – átalakításához ideértve az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet szerinti akadálymentesítést,
 
@@ -28,4 +28,4 @@ c) a munkavállaló által használt helyiségek átalakításának
 
 (6) Az (1) bekezdésben meghatározott támogatással létrehozott vagyontárgyat a munkáltató a támogatási szerződésben foglalt kötelezettségei fennállásáig köteles megőrizni. Ezen időpontig a vagyontárgy csak a támogatási döntést hozó előzetes jóváhagyásával, és a foglalkoztatási, illetve egyéb kötelezettségek átvállalásával, átruházásával, idegeníthető el, adható bérbe, vagy terhelhető meg.
 
-[^15]: A 16. §-t újonnan a 359/2009. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^25]: A 16. §-t újonnan a 359/2009. (XII. 30.) Korm. rendelet 7. §-a iktatta be.

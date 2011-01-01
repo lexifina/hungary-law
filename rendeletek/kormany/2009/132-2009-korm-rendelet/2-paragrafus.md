@@ -1,4 +1,4 @@
-## vesz részt.
+## 1/A. §[^4] A Minisztérium az 1.1.1. Programmal kapcsolatos feladatait a Nemzeti Rehabilitációs és Szociális Hivatallal együttműködésben valósítja meg.
 
 ## I.
 
@@ -20,13 +20,13 @@ e) akiknek munkaviszonyát a munkáltató – a működési körében felmerül�
 
 (3) A munkaügyi központ az 1.1.2. Program célcsoportjaként a (2) bekezdés a)–d) pontjában meghatározott személyeken kívül legfeljebb további egy, – külön jogszabály szerint – hátrányos helyzetűnek minősített személyi kört is kijelölhet. A jelölés során figyelembe kell venni
 
-a) a régió munkaerő-keresletének és -kínálatának jellemzőit,
+a)[^5] a megye (főváros) munkaerő-keresletének és -kínálatának jellemzőit,
 
-b) a régió foglalkoztatási helyzetét és munkanélküliségi mutatóit,
+b)[^6] a megye (főváros) foglalkoztatási helyzetét és munkanélküliségi mutatóit,
 
-c) a régió lakosságának iskolai végzettség szerinti összetételét,
+c)[^7] a megye (főváros) lakosságának iskolai végzettség szerinti összetételét,
 
-d) a régióban jellemző hiányszakmák körét.
+d)[^8] a megyében (fővárosban) jellemző hiányszakmák körét.
 
 (4) Az 1.1.2. Programba nem vonható be az a személy,
 
@@ -39,3 +39,9 @@ c) aki másik munkaügyi központ által bonyolított programban vesz részt,
 d) akivel összefüggésben a munkaügyi központ által korábban indított bármely programot, illetőleg programszakaszt érintően a nyomonkövetés nem zárult le,
 
 e) aki a 2004–2006. évi Humánerőforrás Fejlesztési Operatív Program 1. 1 munkanélküliség megelőzése és kezelése intézkedés keretében szakképesítést vagy munkakör betöltéséhez szükséges képesítést szerzett, és munkagyakorlat szerzési támogatásban részesült, és a támogatás megszűnését követően két évnél kevesebb idő telt el.
+
+[^4]: Az 1/A. §-t a 332/2010. (XII. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be.
+[^5]: A 2. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § e) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § f) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § g) pontja szerint módosított szöveg.
