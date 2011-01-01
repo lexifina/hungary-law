@@ -1,6 +1,6 @@
 ## Minősítésen alapuló módszer kockázati súlyai
 
-## 1. táblázat
+## 1. táblázat
 
 ## Rövid lejáratú hitelminősítéssel nem rendelkező pozíciók
 
@@ -32,7 +32,7 @@
 
 | 12 vagy magasabb | 1250% | 1250% | 1250% |
 
-## 2. táblázat
+## 2. táblázat
 
 ## Rövid lejáratú hitelminősítéssel rendelkező pozíciók
 
@@ -48,19 +48,11 @@
 
 | 4 vagy magasabb | 1 250% | 1 250% | 1 250% |
 
-## 1. A táblázatok „A” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel rendelkezik-e, nem kell figyelembe venni a kamatokból, deviza származékos ügyletekből vagy egyéb kapcsolódó kifizetésekből eredő összegeket.
+## 1. A táblázatok „A” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel rendelkezik-e, nem kell figyelembe venni a kamatokból, deviza származékos ügyletekből vagy egyéb kapcsolódó kifizetésekből eredő összegeket.
 
-## 2. Azokra a pozíciókra, amelyek az értékpapírosítás legelőre sorolt ügyletrész-sorozatához tartoznak 6%-os kockázati súly alkalmazható, ha ez az ügyletrész-sorozat minden szempontból előrébb sorolt az értékpapírosítás egy másik olyan ügyletrész-sorozatánál, amelyhez a táblázatok szerint 7%-os kockázati súlyt rendelnének, feltéve, hogy
+## 2.
 
-## a) az értékpapírosítás hátrább sorolt ügyletrész-sorozatának veszteségelnyelő képessége alapján ez indokolt, és
-
-## b) a pozíció
-
-## ba) olyan külső hitelminősítéssel rendelkezik, amely megfelel a táblázatok 1. hitelminősítési besorolásának, vagy
-
-## bb) külső hitelminősítéssel nem rendelkezik, de teljesíti a 36. §-ban meghatározott követelményeket azzal, hogy a referencia-pozíció alatt azok a hátrább sorolt ügyletrész-sorozatokba található pozíciók értendők, amelyekhez a táblázatok szerint 7%-os kockázati súlyt rendelnének.
-
-## 3. A táblázatok „C” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció olyan értékpapírosítási ügylethez kapcsolódik, ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb.
+## 3. A táblázatok „C” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció olyan értékpapírosítási ügylethez kapcsolódik, ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb.
 
 ## Az értékpapírosított kitettségek tényleges számának kiszámításához az egy ügyféllel szembeni több ügylet kapcsán fennálló kitettségeket egy kitettségnek kell tekinteni.
 
@@ -74,7 +66,7 @@
 
 ## Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1 hányados alkalmazásával is kiszámíthatja, ahol C1 a legnagyobb kitettséghez tartozó portfólió részesedés.
 
-## 4. Minden más pozícióra a táblázatok „B” oszlopában található kockázati súlyt kell alkalmazni.
+## 4. Minden más pozícióra a táblázatok „B” oszlopában található kockázati súlyt kell alkalmazni.
 
 5. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez
 

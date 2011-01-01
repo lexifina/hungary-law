@@ -1,6 +1,6 @@
 ## Nem minősített likviditási hitelkeretek kezelése
 
-22. § (1) A legfeljebb egyéves eredeti lejáratú likviditási hitelkeret esetében a kitettség értékének megállapításához 20%-os ügyletkockázati súlyt lehet rendelni, ha
+22. §[^17] (1) Likviditási hitelkeret esetében a kitettség értékének megállapításához 50%-os ügyletkockázati súlyt lehet rendelni, ha
 
 a) a likviditási hitelkeret dokumentációja egyértelműen meghatározza a lehívás feltételeit,
 
@@ -18,6 +18,6 @@ fa) alapján a likviditási hitelkeret keretében lehívható összeg automatiku
 
 fb) megszünteti a likviditási hitelkeretet, ha a halmaz (pool) átlagosan 3-asnál magasabb kockázati súlyt eredményező hitelminősítési besorolással rendelkezik.
 
-(2) Az (1) bekezdésben meghatározott feltételek teljesülésekor az egy évet meghaladó eredeti lejáratú likviditási hitelkeret esetén a kitettség értékének megállapításához 50%-os ügyletkockázati súlyt lehet rendelni.
+(2) Az (1) bekezdés feltételeinek megfelelő likviditási hitelkeretre azt a legmagasabb kockázati súlyt kell alkalmazni, amelyet a hitelezési kockázat tőkekövetelményének sztenderd módszere szerint az értékpapírosítás alapjául szolgáló kitettségekre alkalmazni kell.
 
-(3) Az (1)–(2) bekezdés feltételeinek megfelelő likviditási hitelkeretre azt a legmagasabb kockázati súlyt kell alkalmazni, amelyet a hitelezési kockázat tőkekövetelményének sztenderd módszere szerint az értékpapírosítás alapjául szolgáló kitettségekre alkalmazni kell.
+[^17]: A 22. § a 349/2010. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.

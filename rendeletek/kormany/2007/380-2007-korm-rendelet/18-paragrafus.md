@@ -6,6 +6,6 @@
 
 (2) A nem minősített pozícióra – a 20–24. §-ban meghatározott eltéréssel – 1250%-os kockázati súlyt kell alkalmazni.
 
-(3)[^1] A kockázattal súlyozott kitettség érték számításába történő figyelembevétele helyett a hitelintézet az 1250%-os kockázati súlyú értékpapírosítási pozíció kitettség értékét a Hpt. 5. számú melléklet 14. pont d) alpontjának megfelelően levonhatja a szavatoló tőkéből.
+(3)[^15] A kockázattal súlyozott kitettség érték számításába történő figyelembevétele helyett a hitelintézet az 1250%-os kockázati súlyú értékpapírosítási pozíció kitettség értékét a Hpt. 5. számú melléklet 25. pont d) alpontjának megfelelően levonhatja a szavatoló tőkéből.
 
-[^1]: A 18. § (3) bekezdését a 96/2008. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 18. § (3) bekezdését a 96/2008. (IV. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 349/2010. (XII. 28.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
