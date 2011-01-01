@@ -1,4 +1,4 @@
-## 13/B. §[^55]
+## 13/B. §[^58]
 
 ## Az állampolgársági ügyekben eljáró szerv a Bevándorlási és Állampolgársági Hivatal.
 
@@ -10,4 +10,4 @@
 
 (2) Az Ápt. hatálybalépésekor még el nem bírált elbocsátási ügyekben a törvény 8. §-ának (2) bekezdése előírásai szerint kell eljárni.
 
-[^55]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^58]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.

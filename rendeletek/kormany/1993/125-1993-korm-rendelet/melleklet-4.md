@@ -74,7 +74,7 @@
 
 |  | anyakönyvvezető aláírása |
 
-4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^59]
+4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^63]
 
 ## LEMONDÁS a magyar állampolgárságról
 
@@ -346,4 +346,4 @@ Megjegyzéseim:
 
 a kérelmező aláírása
 
-[^59]: A 4. számú melléklet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^63]: A 4. számú melléklet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-ával megállapított szöveg.

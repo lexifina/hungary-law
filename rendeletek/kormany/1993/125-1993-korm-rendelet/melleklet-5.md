@@ -32,6 +32,6 @@
 
 ## P. H.
 
-5. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^61]
+5. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^65]
 
-[^61]: Az 5. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, újonnan a 119/2005. (VI. 28.) Korm. rendelet 7. §-ával megállapított, valamint a 116/2007. (V. 24.) Korm. rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^65]: Az 5. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, újonnan a 119/2005. (VI. 28.) Korm. rendelet 7. §-ával megállapított, valamint a 116/2007. (V. 24.) Korm. rendelet 12. § (2) bekezdésének b) pontja szerint módosított szöveg.

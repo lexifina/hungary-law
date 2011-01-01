@@ -1,0 +1,9 @@
+## 2/A. §[^3]
+
+## Az Ápt. 14. § (5) bekezdés b) pontja szerinti elháríthatatlan akadály különösen akkor áll fenn, ha
+
+a) a diplomáciai felülhitelesítés beszerzése – a konzuli tisztviselő állásfoglalása szerint – lehetetlen vagy bizonytalanul hosszú időt vesz igénybe, vagy
+
+b) a diplomáciai felülhitelesítés beszerzése miatt a kérelmezőt súlyos joghátrány érhetné.
+
+[^3]: A 2/A. §-t a 340/2010. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

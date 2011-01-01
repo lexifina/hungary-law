@@ -72,6 +72,6 @@
 
 |  | anyakönyvvezető/konzul aláírása |
 
-3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^58]
+3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^62]
 
-[^58]: A 3. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^62]: A 3. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

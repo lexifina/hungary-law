@@ -306,7 +306,7 @@
 
 |  | kérelmező aláírása |
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^57]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^61]
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő.
-[^57]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
