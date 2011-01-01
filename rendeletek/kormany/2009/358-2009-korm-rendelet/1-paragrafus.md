@@ -1,9 +1,13 @@
 ## 1. § A rendelet hatálya kiterjed
 
-a) a Szociális és Munkaügyi Minisztériumra (a továbbiakban: Minisztérium),
+a)[^1] a Nemzetgazdasági Minisztériumra (a továbbiakban: Minisztérium),
 
-b) a Foglalkoztatási és Szociális Hivatalra,
+b)[^2] a Foglalkoztatási Hivatalra,
 
-c) a regionális munkaügyi központokra (a továbbiakban: munkaügyi központ), valamint
+c)[^3] a fővárosi és megyei kormányhivatal munkaügyi feladatot ellátó szakigazgatási szervére (a továbbiakban: munkaügyi központ) (a továbbiakban: munkaügyi központ), valamint
 
 d) arra a természetes személyre, jogi személyre és jogi személyiség nélküli gazdasági társaságra aki, vagy amely a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.3. konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: Program) vesz részt.
+
+[^1]: Az 1. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 271. §-a szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 351/2010. (XII. 30.) Korm. rendelet 271. §-a szerint módosított szöveg.
+[^3]: Az 1. § c) pontja a 351/2010. (XII. 30.) Korm. rendelet 271. §-a szerint módosított szöveg.
