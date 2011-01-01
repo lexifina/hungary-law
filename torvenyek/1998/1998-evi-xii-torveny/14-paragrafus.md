@@ -4,7 +4,9 @@ a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalá
 
 b) a bírák és az ügyészek;
 
-c) a Magyar Nemzeti Bank vezető munkatársai.
+c) a Magyar Nemzeti Bank vezető munkatársai;
+
+d) a Pénzügyi Szervezetek Állami Felügyeletének vezető megbízatással rendelkező köztisztviselői.
 
 (2) Szolgálati útlevelet kaphat az (1) bekezdés hatálya alá tartozó állampolgárral hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
 

@@ -6,7 +6,7 @@ b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 
 c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket.
 
-(2) Felhatalmazást kap a külföldre utazásért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
+(2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
 a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
 
@@ -16,7 +16,7 @@ c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és k
 
 d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 
-e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
+e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 

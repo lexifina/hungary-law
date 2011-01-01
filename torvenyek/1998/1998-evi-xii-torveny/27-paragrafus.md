@@ -1,4 +1,4 @@
-27. § (1) Az útlevélhatóság, illetőleg a központi adatkezelő szerv – törvényben meghatározott feladataik ellátása céljából – a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a vám- és pénzügyőrségnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) Az útlevélhatóság, illetőleg a központi adatkezelő szerv – törvényben meghatározott feladataik ellátása céljából – a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a vám- és pénzügyőrségnek, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, valamint a menekültügyi hatóságnak adhat át adatot.
 
 (2) A Rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
