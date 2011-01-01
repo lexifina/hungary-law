@@ -50,7 +50,7 @@
 
 25. nyomjelző (fényjelző) lövedékű lőszer: olyan lőszer, melynek lövedéke a röppályát láthatóvá tevő, meggyulladó anyagot is tartalmaz;
 
-26. rendvédelmi szervek: a rendőrség, a Rendvédelmi Szervek Védelmi Szolgálata, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
+26. rendvédelmi szervek: a rendőrség, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
 
 27. robbanó lövedékeket tartalmazó lőszer: olyan lőszer, amelynek lövedéke becsapódáskor felrobbanó töltetet tartalmaz;
 
