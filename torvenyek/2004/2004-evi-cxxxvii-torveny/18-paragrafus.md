@@ -1,6 +1,6 @@
 ## Felhatalmazások
 
-18. § Felhatalmazást kap a miniszter és a kultúráért felelős miniszter, hogy együttes rendeletben állapítsa meg:
+18. § Felhatalmazást kap a miniszter, hogy a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg:
 
 a) az audiovizuális kötelespéldányok szolgáltatásának részletes szabályait,
 

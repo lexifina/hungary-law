@@ -1,4 +1,4 @@
-6. § A NAVA a műsorszolgáltatók adataira is kiterjedő módon országos nyilvántartást vezet
+6. § A NAVA a médiaszolgáltatók adataira is kiterjedő módon országos nyilvántartást vezet
 
 a) a kötelespéldányként szolgáltatott műsorszámok azonosító adatairól,
 

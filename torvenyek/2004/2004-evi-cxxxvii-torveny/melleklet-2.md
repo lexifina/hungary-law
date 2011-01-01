@@ -98,7 +98,7 @@ Az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező 
 
 |
 
-Nyilvánosságra hozó (műsorszolgáltató) csatorna megnevezése
+Nyilvánosságra hozó (médiaszolgáltató) csatorna megnevezése
 
 |
 
@@ -552,7 +552,7 @@ Zenei munkatárs (R)
 
 II. ÖNKÉNTES ADATSZOLGÁLTATÁS
 
-Nem kötelező az adatszolgáltatás az alább felsoroltakra, de a műsorszolgáltatónál meglévő adatot a NAVA befogadja:
+Nem kötelező az adatszolgáltatás az alább felsoroltakra, de a médiaszolgáltatónál meglévő adatot a NAVA befogadja:
 
 |
 

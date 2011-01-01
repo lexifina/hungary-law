@@ -4,7 +4,7 @@
 
 a) az e törvény hatálybalépése előtt nyilvánossághoz közvetített műsorszámokat;
 
-b) azokat a műsorszámokat, amelyeket nem e törvény hatálya alá tartozó műsorszolgáltatók közvetítettek a nyilvánossághoz;
+b) azokat a műsorszámokat, amelyeket nem e törvény hatálya alá tartozó médiaszolgáltatók közvetítettek a nyilvánossághoz;
 
 c) olyan audiovizuális műsorszámokat, amelyeket nem közvetítettek a nyilvánossághoz.
 

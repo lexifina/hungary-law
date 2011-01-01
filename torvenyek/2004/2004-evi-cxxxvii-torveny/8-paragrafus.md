@@ -6,9 +6,9 @@ b) a műsorszámok archiválására vonatkozó szabályzat megalkotása, ennek k
 
 c) minőségi előírások kidolgozása a műsorszámok archiválása területén;
 
-d) a szabad felhasználás körén kívül eső közhasznú szolgáltatások nyújtása a műsorszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal történő együttműködés alapján;
+d) a szabad felhasználás körén kívül eső közhasznú szolgáltatások nyújtása a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal történő együttműködés alapján;
 
-e) vállalkozási tevékenység keretében, ellenszolgáltatás fejében szolgáltatások nyújtása harmadik személyeknek, a műsorszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal kötött felhasználási (licencia) szerződések alapján;
+e) vállalkozási tevékenység keretében, ellenszolgáltatás fejében szolgáltatások nyújtása harmadik személyeknek, a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal kötött felhasználási (licencia) szerződések alapján;
 
 f) nemzetközi és szakmai szervezetekkel való együttműködés;
 

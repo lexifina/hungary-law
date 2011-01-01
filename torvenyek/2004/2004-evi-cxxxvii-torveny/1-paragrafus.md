@@ -4,7 +4,7 @@
 
 1. § (1) A törvény hatálya kiterjed
 
-a) a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) 7. §-a (5) bekezdésének e) pontjában meghatározott, eredetileg magyar nyelven készült műsorszámokra;
+a) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 37. pontjában meghatározott magyar műsorszámokra;
 
 b) az egyéb magyar vonatkozású műsorszámokra.
 
