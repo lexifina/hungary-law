@@ -1,4 +1,4 @@
-## 20. §[^3]
+## 20. §[^8]
 
 1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
 
@@ -154,4 +154,4 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^3]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
+[^8]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
