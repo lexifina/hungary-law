@@ -1,1 +1,0 @@
-## 28. § Az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 7. §-a (2) bekezdésének b) pontjában meghatározott agrárgazdasági adatbázist működtető szervként a Kormány az Agrárgazdasági Kutató Intézetet, valamint a Központot jelöli ki.

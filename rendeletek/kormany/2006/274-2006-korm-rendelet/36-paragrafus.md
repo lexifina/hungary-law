@@ -1,1 +1,0 @@
-## 35. § A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 6. § (2) bekezdésében foglaltak tekintetében a Kormány borászati hatóságként a Központot és az MgSzH területi szervét jelöli ki.
