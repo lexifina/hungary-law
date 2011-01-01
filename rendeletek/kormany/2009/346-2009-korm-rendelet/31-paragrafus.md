@@ -4,6 +4,6 @@
 
 31. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2)–(3)[^11]
+(2)–(3)[^12]
 
-[^11]: A 31. § (2)–(3) bekezdését a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^12]: A 31. § (2)–(3) bekezdését a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## Költségvetési beszámolás
 
-17. §[^7] (1) A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^8] (1) A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
 a) a fejezeti kezelésű előirányzatok tekintetében elemi költségvetési beszámolót (a továbbiakban: beszámoló) és a zárszámadáshoz kapcsolódó adatszolgáltatást,
 
@@ -16,4 +16,4 @@ készít és azokat – az intézményi beszámolók és időközi mérlegjelent
 
 (3) A honvédelmi szervezetek intézményi beszámolóinak és időközi mérlegjelentéseinek (1) bekezdés b) pontja szerinti összesítésével elkészített beszámolókat és időközi mérlegjelentéseket a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője és a 8. § (5) bekezdése szerint kijelölt szervezeti egység vezetője írja alá.
 
-[^7]: A 17. § a 282/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 17. § a 282/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
