@@ -1,4 +1,4 @@
-162. §[^244] (1) A nominálást követően keletkezett egyensúlytalanságot a rendszerhasználó a gáznapon a napi földgáz és kapacitás kereskedelmi piacon az MGP-re végrehajtott tranzakcióinak megfelelően az ÜKSZ-ben és a napi földgáz és kapacitás kereskedelmi piaci szabályzatban meghatározott módon csökkentheti.
+162. §[^245] (1) A nominálást követően keletkezett egyensúlytalanságot a rendszerhasználó a gáznapon a napi földgáz és kapacitás kereskedelmi piacon az MGP-re végrehajtott tranzakcióinak megfelelően az ÜKSZ-ben és a napi földgáz és kapacitás kereskedelmi piaci szabályzatban meghatározott módon csökkentheti.
 
 (2) A rendszerhasználó köteles a földgázszállító részére a napi szállítási feladatot a nominálásukban, illetve az újranominálásukban az ÜKSZ szerint megadni. A napi szállítási feladat csak egyensúlyba állított forrás-felhasználás mérleggel adható meg.
 
@@ -14,4 +14,4 @@
 
 (8) A földgázszállító jogosult a szállítórendszerben lévő készletből kiegyensúlyozás céljára napi földgáz és kapacitás kereskedelmi piacon földgázt értékesíteni. Ezen értékesítésre a (7) bekezdés rendelkezéseit kell alkalmazni.
 
-[^244]: A Vhr. 162. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^245]: A Vhr. 162. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

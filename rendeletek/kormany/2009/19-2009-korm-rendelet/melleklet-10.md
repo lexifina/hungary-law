@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+10. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^287]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába
 
@@ -323,3 +323,5 @@ Orvos címe (egészségügyi szolgáltató székhelye):
 Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének száma):
 
 Igazolom, hogy a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Rendelet) 59. § (2) bekezdésében foglaltak alapján az igénylő, illetve a vele együtt lakó fogyatékkal élő személyek adatai és fogyatékosságuk jellege a következő:
+
+[^287]: A Vhr. 10. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.

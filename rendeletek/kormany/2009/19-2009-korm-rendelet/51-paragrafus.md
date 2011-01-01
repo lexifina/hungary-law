@@ -12,7 +12,7 @@
 
 (5) A kereskedőváltás esetére vonatkozó, a kapacitás lekötéssel, a kapacitásszerződések módosításával kapcsolatos részletes rendelkezéseket az ÜKSZ tartalmazza.
 
-(6)[^77] A felhasználó, vagy az érintett földgázkereskedő a kereskedőváltás miatti kapacitásátadási egyeztetések meghiúsulása esetén írásban kérelmet nyújthat be a Hivatalhoz. A kérelemhez mellékelni kell az érintett rendszerüzemeltetővel és a földgázkereskedővel folytatott – az egyeztetés lényeges dokumentumait tartalmazó – levelezést, valamint a kérdéses kapacitásra vonatkozó igény megalapozottságának igazolását. Az engedélyesek kötelesek az eljárás megindításáról szóló értesítésben megjelölt határidőben a Hivatal által kért tájékoztatást megadni, a kapacitás átadásának elutasítását megindokolni. A Hivatal 10 munkanapon belül dönt a kérelem tárgyában.
+(6)[^77] A felhasználó, vagy az érintett földgázkereskedő a kereskedőváltás miatti kapacitásátadási egyeztetések meghiúsulása esetén írásban kérelmet nyújthat be a Hivatalhoz. A kérelemhez mellékelni kell az érintett rendszerüzemeltetővel és a földgázkereskedővel folytatott – az egyeztetés lényeges dokumentumait tartalmazó – levelezést, valamint a kérdéses kapacitásra vonatkozó igény megalapozottságának igazolását. Az engedélyesek kötelesek az eljárás megindításáról szóló értesítésben megjelölt határidőben a Hivatal által kért tájékoztatást megadni, a kapacitás átadásának elutasítását megindokolni. A Hivatal tizenöt napon belül dönt a kérelem tárgyában.
 
 (7) A rendszerüzemeltető köteles az üzletszabályzata részeként a kapacitáslekötési szerződések módosítására egyszerűsített eljárásrendet és egységes okirati rendszert kidolgozni és alkalmazni. A kereskedőváltással kapcsolatos, vagy más okból történő kapacitáslekötési szerződés módosításokért ellenérték, illetve költségtérítés nem kérhető.
 
@@ -22,4 +22,4 @@
 [^74]: A Vhr. 51. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^75]: A Vhr. 51. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^76]: A Vhr. 51. § (3) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^77]: A Vhr. 51. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (1) bekezdésével megállapított, a 116/2010. (IV. 15.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^77]: A Vhr. 51. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (1) bekezdésével megállapított, a 116/2010. (IV. 15.) Korm. rendelet 26. § (1) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (111) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

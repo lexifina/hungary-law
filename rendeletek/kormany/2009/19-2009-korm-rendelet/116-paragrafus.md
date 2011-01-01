@@ -2,7 +2,7 @@
 
 ## Szabályzati Bizottság létrehozása működtetése
 
-116. §[^172] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
+116. §[^173] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
 
 (2) Az SZB-ben a következő engedélyesi körök vesznek részt véleményezési joggal, választott képviselőjük útján:
 
@@ -32,4 +32,4 @@ engedélyesek.
 
 (8) A rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
 
-[^172]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^173]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

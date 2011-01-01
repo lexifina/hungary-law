@@ -1,4 +1,4 @@
-85. §[^132] (1) A szerződés szerinti szolgáltatás megtagadható, ha
+85. §[^133] (1) A szerződés szerinti szolgáltatás megtagadható, ha
 
 a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 10 munkanappal megelőzően nem áll rendelkezésre,
 
@@ -6,9 +6,9 @@ b) a rendszerüzemeltető a szerződés szerint írásban értesítette a rendsz
 
 c) a tárolt készlet nem nyújt fedezetet a tárolói szolgáltatásra és a szerződéses biztosítékot a rendszerhasználó nem biztosította.
 
-(2)[^133] A rendszerüzemeltető szerződéses biztosítékként nem írhatja elő kizárólag meghatározott pénzintézet vagy pénzintézetek által nyújtott szerződéses biztosíték szolgáltatását.
+(2)[^134] A rendszerüzemeltető szerződéses biztosítékként nem írhatja elő kizárólag meghatározott pénzintézet vagy pénzintézetek által nyújtott szerződéses biztosíték szolgáltatását.
 
-(3)[^134]
+(3)[^135]
 
 (4) A szerződéses biztosíték összegének fedezetet kell nyújtania legalább a legmagasabb téli havi tervezett szállításnak, illetve elosztásnak megfelelő forgalmi díjra és az éves kapacitásdíj 1/12 részére. A rendszerüzemeltető köteles a szerződéses biztosíték összegének módosítását elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor.
 
@@ -24,6 +24,6 @@ b) a szerződéses biztosíték feltöltés időpontja a felhasználást követ�
 
 (8) A szerződéses biztosíték rendelkezésre állását követően a felfüggesztést azonnal meg kell szüntetni, azonban a szolgáltatást attól a gáznaptól kell biztosítani, amelyre az ÜKSZ szerint érvényes nominálás adható le.
 
-[^132]: A Vhr. 85. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^133]: A Vhr. 85. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^134]: A Vhr. 85. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^133]: A Vhr. 85. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^134]: A Vhr. 85. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^135]: A Vhr. 85. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

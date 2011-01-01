@@ -1,4 +1,4 @@
-66/A. §[^108] (1) A földgáztermelő csak a 11. számú mellékletnek megfelelő minőségű földgázt táplálhatja be a szállító- vagy az elosztóvezetékbe.
+66/A. §[^109] (1) A földgáztermelő csak a 11. számú mellékletnek megfelelő minőségű földgázt táplálhatja be a szállító- vagy az elosztóvezetékbe.
 
 (2) Azt a földgázt, amely a mindenkor érvényes – a földgáz minőségi követelményeit tartalmazó – nemzeti szabvány, vagy az azzal egyenértékű európai szabvány – a 11. számú mellékletben foglalt határértékekkel összhangban álló – követelményeinek megfelel, úgy kell tekinteni, mint amely megfelel e rendelet követelményeinek.
 
@@ -8,4 +8,4 @@
 
 (5) A földgázszállító minden év július 31-ig közzéteszi a megelőző gázévben a szállítóvezeték átadási pontjain mért átlagos földgáz-fűtőértékeket.
 
-[^108]: A Vhr. 66/A. §-át a 139/2009. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^109]: A Vhr. 66/A. §-át a 139/2009. (VI. 30.) Korm. rendelet 1. §-a iktatta be.

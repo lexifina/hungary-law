@@ -6,7 +6,7 @@ b) a GET 3. § 22. pontja szerinti juttatásokat megállapító vagy e juttatás
 
 eredeti példányának bemutatásával igazolhatja. Az igazolást az engedélyes a jogosultság megszűnését követő 5 évig köteles megőrizni.
 
-(2) A fogyatékosság jellegét a kezelőorvos, ennek hiányában a háziorvos állapítja meg – amennyiben az Országos Rehabilitációs és Szociális Szakértői Intézet szakvéleményezési hatásköre az érintettre kiterjed, e szerv szakvéleményével összhangban –, és a 10. számú melléklet C) része szerinti formanyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát. A fogyatékosság jellegét az alábbi csoportok egyikébe (vagy egyidejűleg több csoportba) sorolás révén kell megállapítani:
+(2)[^101] A fogyatékosság jellegét a kezelőorvos, ennek hiányában a háziorvos állapítja meg – amennyiben a Nemzeti Rehabilitációs és Szociális Hivatal szakvélemény vagy szakhatósági állásfoglalás kiadására vonatkozó feladat- és hatásköre az érintettre kiterjed, a szakvéleménnyel, szakhatósági állásfoglalással összhangban –, és a 10. számú melléklet C) része szerinti formanyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát. A fogyatékosság jellegét az alábbi csoportok egyikébe (vagy egyidejűleg több csoportba) sorolás révén kell megállapítani:
 
 a) olyan jellegű fogyatékosság, amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a mérő leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére,
 
@@ -17,3 +17,4 @@ c) olyan jellegű fogyatékosság, amely a fogyatékkal élő személy életét 
 (3) A vakok személyi járadékában részesülő személy esetén e jogosultság igazolása alapján a (2) bekezdés a) pontja szerinti csoportba tartozást vélelmezni kell, és nem kell a 10. számú melléklet szerinti formanyomtatvány C) részét kitölteni, ha a vakok személyi járadékában részesülő személy egyéb fogyatékosság alapján további csoportba történő felvételét nem kívánja kezdeményezni.
 
 [^100]: A Vhr. 59. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^101]: A Vhr. 59. § (2) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.

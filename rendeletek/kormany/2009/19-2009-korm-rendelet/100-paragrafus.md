@@ -2,7 +2,7 @@
 
 ## A szállító- és az elosztóvezetékek, valamint a tárolók üzemeltetése
 
-100. §[^157] A rendszerirányító, a földgázszállító, a földgázelosztó, a földgáztároló és az egyetemes szolgáltató az engedélye szerinti engedélyköteles tevékenysége vonatkozásban köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési, illetve szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek, különös tekintettel:
+100. §[^158] A rendszerirányító, a földgázszállító, a földgázelosztó, a földgáztároló és az egyetemes szolgáltató az engedélye szerinti engedélyköteles tevékenysége vonatkozásban köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési, illetve szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek, különös tekintettel:
 
 a) rendszerirányító esetén:
 
@@ -30,4 +30,4 @@ bf) a napi földgáz és kapacitás kereskedelmi piacon, illetve a szervezett f�
 
 c) egyetemes szolgáltató esetén az egyetemes szolgáltatási tevékenységéhez kapcsolódó döntési és irányítási jogokra, kötelezettségekre.
 
-[^157]: A Vhr. 100. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^158]: A Vhr. 100. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

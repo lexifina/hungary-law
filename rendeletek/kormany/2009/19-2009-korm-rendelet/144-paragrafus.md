@@ -1,8 +1,8 @@
-144. §[^215] (1) Az engedélyes a 100. §-ban részletezett tevékenységeket saját szervezetén belül köteles végezni.
+144. §[^216] (1) Az engedélyes a 100. §-ban részletezett tevékenységeket saját szervezetén belül köteles végezni.
 
 (2) Az engedélyes a 100. § alá nem tartozó tevékenységek tekintetében jogosult
 
-a)[^216] bármely személyt felhatalmazni arra, hogy az engedélyében meghatározott tevékenységeket a Hivatal hozzájáruló határozata alapján,
+a)[^217] bármely személyt felhatalmazni arra, hogy az engedélyében meghatározott tevékenységeket a Hivatal hozzájáruló határozata alapján,
 
 b) bármely személyt felhatalmazni arra, hogy az engedélyében az a) pont szerint meg nem határozott tevékenységeket a Hivatal előzetes értesítése mellett szerződés alapján
 
@@ -24,5 +24,5 @@ e) a tevékenység engedélyesen belüli végzésének a szerződés megszűnés
 
 (5) A kiszervezéssel érintett tevékenységek indokolt költségeinek tarifában történő figyelembevételénél a bemutatott költséghatékonyságot figyelembe kell venni.
 
-[^215]: A Vhr. 144. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^216]: A Vhr. 144. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^216]: A Vhr. 144. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^217]: A Vhr. 144. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

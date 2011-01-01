@@ -1,4 +1,4 @@
-86. §[^135] (1) A földgázszállító jogosult és köteles a szállítórendszer hatályos szerződéssel le nem kötött szabad kapacitásait május 31-ét követően az ÜKSZ-ben foglalt módon értékesítésre meghirdetni. A szabad kapacitások csak egy gázévre, vagy annál rövidebb időre köthetők le. Kapacitás túljegyzés esetén az ÜKSZ-ben rögzített ügyrend szerint kell eljárni.
+86. §[^136] (1) A földgázszállító jogosult és köteles a szállítórendszer hatályos szerződéssel le nem kötött szabad kapacitásait május 31-ét követően az ÜKSZ-ben foglalt módon értékesítésre meghirdetni. A szabad kapacitások csak egy gázévre, vagy annál rövidebb időre köthetők le. Kapacitás túljegyzés esetén az ÜKSZ-ben rögzített ügyrend szerint kell eljárni.
 
 (2) Kapacitáslekötési szerződés megkötésére jogosult minden nyilvántartott szerződéses kapacitással rendelkező felhasználó és a felhasználó által átruházott lekötési joggal érintett kapacitások mértékéig a kereskedő, valamint az a belföldi felhasználó vagy külföldi személy vagy társaság, aki vagy amely a szabad kapacitásokra vonatkozó igényét az ÜKSZ-ben meghatározottak szerint a rendszerüzemeltetőnek bejelentette.
 
@@ -6,4 +6,4 @@
 
 (4) A felhasználó az átruházott lekötési jog tárgyát képező kapacitások felett a kereskedővel kötött szerződésében foglalt szolgáltatások megszűnéséig a kapacitásokkal nem rendelkezhet és azokat másodlagos kereskedelemben nem értékesítheti.
 
-[^135]: A Vhr. 86. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^136]: A Vhr. 86. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
