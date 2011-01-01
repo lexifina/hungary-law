@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-279-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2001-279-20-22.7 | 279/2001. (XII. 23.) Korm. rendelet |
+| 2011-01-01 | 2001-279-20-22.8 | 129/2012. (VI. 26.) Korm. rendelet |
