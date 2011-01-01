@@ -24,8 +24,8 @@ d) az igénybe venni tervezett vállalkozó megnevezését, székhelyét;
 
 e) a vállalkozó e bekezdés szerinti alkalmasságának igazolását.
 
-(8)[^119] A bányakapitányság az (5) bekezdés szerinti bejelentést követő 5 munkanapon belül az igénybevételt megtilthatja.
+(8)[^119] A bányakapitányság az (5) bekezdés szerinti bejelentést követő nyolc napon belül az igénybevételt megtilthatja.
 
 [^117]: A Vhr. 21. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
 [^118]: A Vhr. 21. § (7) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta a szövegbe.
-[^119]: A Vhr. 21. §-ának (8) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^119]: A Vhr. 21. §-ának (8) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 146. § (9) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (20) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
