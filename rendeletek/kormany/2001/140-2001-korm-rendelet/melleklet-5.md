@@ -1,4 +1,4 @@
-5. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^37]
+5. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^38]
 
 ## Belső gyártásközi ellenőrzés a műszaki dokumentáció értékelésével és időszakos ellenőrzéssel
 
@@ -60,4 +60,4 @@
 
 9. Ha az ellenőrzött berendezés nem felel meg e rendelet követelményeinek, akkor a bejelentett szervezetnek tájékoztatnia kell az őt kijelölő hatóságot.
 
-[^37]: Az 5. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^38]: Az 5. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.

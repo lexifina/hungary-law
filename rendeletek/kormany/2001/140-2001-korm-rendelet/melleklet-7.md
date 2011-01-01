@@ -1,4 +1,4 @@
-7. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^39]
+7. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^40]
 
 ## Teljes körű minőségbiztosítás
 
@@ -88,4 +88,4 @@
 
 5.3. a bejelentett szervezet 3.7.2. pontban, valamint a 4.3. és a 4.4. pontban említett megállapításait és jelentéseit.
 
-[^39]: A 7. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^40]: A 7. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.

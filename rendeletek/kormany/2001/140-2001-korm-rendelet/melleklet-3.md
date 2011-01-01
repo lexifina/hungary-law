@@ -1,4 +1,4 @@
-3. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^35]
+3. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^36]
 
 ## Az EK megfelelőségi nyilatkozat
 
@@ -26,4 +26,4 @@
 
 1.11. azon személyek nevét és aláírását, akiket ezen jogi kötelezettségvállalással járó nyilatkozat aláírására felhatalmazott a gyártó vagy annak az Európai Gazdasági Térségben letelepedett, meghatalmazott képviselője.
 
-[^35]: A 3. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^36]: A 3. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
