@@ -26,7 +26,7 @@ c) elsőbbségi küldemény: az a küldemény, amely
 
 2. a szolgáltató a felvételtől a kézbesítésig a nem elsőbbséggel feladott küldeménytől külön kezeli, és a küldemény elsőbbségét a szolgáltatás teljes folyamata során biztosítja;
 
-d)[^1] tömeges feladás: feladási alkalmanként, súlykategóriánként, könyvelt és nem könyvelt bontásban 200 darabot meghaladó számú küldemény feladása;
+d)[^3]
 
 e) postahely: az igénybevevők részére a kijelölt nyitva tartási időben korlátozás nélkül rendelkezésre álló állandó postai szolgáltató hely;
 
@@ -34,4 +34,4 @@ f) levélküldemény: a postáról szóló 2001. évi CI. törvényben meghatár
 
 g) címzett reklámküldemény: a postáról szóló 2001. évi CI. törvényben meghatározott postai küldemény, amelynek mérethatárait, továbbá a küldeménnyel kapcsolatos postai szolgáltatás minőségi követelményeit a postai szolgáltatások ellátásáról és minőségi követelményeiről szóló 79/2004. (IV. 19.) Korm. rendelet tartalmazza.
 
-[^1]: A 3. § d) pontja a 100/2007. (XII. 19.) GKM rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 3. § d) pontját a 21/2010. (XII. 16.) NFM rendelet 2. §-a hatályon kívül helyezte.
