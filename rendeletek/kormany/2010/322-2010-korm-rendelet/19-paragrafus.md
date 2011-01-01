@@ -1,0 +1,1 @@
+## 18. § A KIMISZ ellátja a jogszabályok előkészítésében való társadalmi részvételről szóló 2010. évi CXXXI. törvény 20. §-a szerinti feladatokat, valamint felelős a Központi Igazságügyi Hivatalnak a lobbisták és lobbiszervezetek nyilvántartását vezető szervként intézett ügyeiben keletkezett iratainak kezeléséért, irattározásáért és archiválásáért.
