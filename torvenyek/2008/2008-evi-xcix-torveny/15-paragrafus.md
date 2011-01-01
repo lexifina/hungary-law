@@ -1,4 +1,4 @@
-15. § (1) E törvény alapján kizárólag az Európai Bizottság N 357/2007. számú, az Oktatási és Kulturális Minisztérium fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
+15. § (1) E törvény alapján kizárólag az Európai Bizottság N 357/2007. számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
 
 (2) E fejezet szerinti központi költségvetési támogatást a költségvetési szervként vagy a külön törvény szerint közhasznúvá minősített szervezetként működő előadó-művészeti szervezet támogatására a fenntartó, ennek hiányában az előadó-művészeti szervezet kaphat.
 

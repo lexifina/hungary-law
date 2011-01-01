@@ -18,7 +18,7 @@ h) szakmai dokumentációs és kutatási tevékenység támogatására.
 
 (2) Az (1) bekezdés alapján kiírandó pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
 
-(3) A kiemelt támogatások aránya az I–VI. kategóriába sorolt színházak, balett-, vagy táncegyüttesek és az I–II. kategóriába sorolt zenekarok, énekkarok központi költségvetési támogatása keretösszegének legalább 3%-a.
+(3) A kiemelt támogatások összegéről a miniszter az EMT véleményének a kikérésével dönt.
 
 5. CÍM
 
