@@ -2,21 +2,21 @@
 
 a) a bíróság ügydöntő határozata és a büntetés-végrehajtási bíró határozata adatait,
 
-b)[^17] a közérdekű munka megkezdésének és befejezésének napját.
+b)[^27] a közérdekű munka megkezdésének és befejezésének napját.
 
 (2) A pártfogó felügyelő az elítéltről nyilvántartó lapot állít ki, és azt megküldi a munkahelynek.
 
 (3) A pártfogó felügyelő a nyilvántartó lapra feljegyzi:
 
-a)[^18] az elítélt természetes személyazonosító adatait, lakcímét és tartózkodási helyét,
+a)[^28] az elítélt természetes személyazonosító adatait, lakcímét és tartózkodási helyét,
 
 b) a büntetés-végrehajtási bíró által kijelölt munkahelyet,
 
 c) a büntetésre vonatkozó adatokat.
 
-d)[^19]
+d)[^29]
 
-(4)[^20]
+(4)[^30]
 
 (5) Ha a büntetés-végrehajtási bíró a közérdekű munka végrehajtását félbeszakította, a pártfogó felügyelő az erre vonatkozó adatokat az iratborítón feljegyzi.
 
@@ -24,7 +24,7 @@ d)[^19]
 
 (7) A pártfogó felügyelő a közérdekű munka végrehajtásának befejezéséről értesíti az első fokon eljárt bíróságot, az ügyészt és a büntetés-végrehajtási bírót.
 
-[^17]: A 11. § (1) bekezdésének b) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^18]: A 11. § (3) bekezdésének a) pontja a 41/2009. (IX. 15.) IRM rendelet 33. § (2) bekezdésével megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^19]: A 11. § (3) bekezdésének d) pontját a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.
-[^20]: A 11. § (4) bekezdését a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^27]: A 11. § (1) bekezdésének b) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^28]: A 11. § (3) bekezdésének a) pontja a 41/2009. (IX. 15.) IRM rendelet 33. § (2) bekezdésével megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 11. § (3) bekezdésének d) pontját a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^30]: A 11. § (4) bekezdését a 10/2005. (VI. 16.) IM rendelet 13. § (3) bekezdésének c) pontja hatályon kívül helyezte.

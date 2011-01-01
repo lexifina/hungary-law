@@ -6,8 +6,8 @@ a) a munkahely arról értesíti, hogy az elítélt egészségi állapotában ol
 
 b) a hadkiegészítő parancsnokság arról értesíti, hogy a sorkatonai szolgálatra bevonult elítélt a katonai szolgálatot teljesítette,
 
-c)[^24] arról értesül, hogy az elítélt legalább egy évi időre gyermekgondozási segélyben, illetve gyermekgondozási díjban részesül.
+c)[^35] arról értesül, hogy az elítélt legalább egy évi időre gyermekgondozási segélyben, illetve gyermekgondozási díjban részesül.
 
 (2) A pártfogó felügyelő beszerzi a határozat meghozatalához szükséges iratokat.
 
-[^24]: A 19. § (1) bekezdésének c) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^35]: A 19. § (1) bekezdésének c) pontja a 10/2005. (VI. 16.) IM rendelet 13. § (2) bekezdésének b) pontja szerint módosított szöveg.

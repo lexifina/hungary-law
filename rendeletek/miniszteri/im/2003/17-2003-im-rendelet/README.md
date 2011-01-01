@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-17-20-0
 | --- | --- | --- |
 | 2009-10-01 | 2003-17-20-06.10 | 17/2003. (VI. 24.) IM rendelet |
 | 2010-05-01 | 2003-17-20-06.11 | 11/2010. (III. 31.) IRM rendelet |
+| 2011-01-01 | 2003-17-20-06.12 | 30/2010. (XII. 31.) KIM rendelet |
