@@ -1,3 +1,6 @@
-6. § (1) Amennyiben a sűrített földgáz vagy egyéb gáz-üzemanyag tartály időszakos ellenőrzésének és használatának időpontját a gyártó nem határozza meg, az a gyártás időpontjától számított 3 évig használható. Háromévenként elvégzett, kedvező eredményű időszakos ellenőrzések alapján a használat legfeljebb 20 évig hosszabbítható meg.
+6. § (1)[^4] A cseppfolyós gáz, sűrített földgáz vagy egyéb gáz-üzemanyag tartály időszakos ellenőrzésére és használatának összes engedélyezett időtartamára (élettartamára) vonatkozó szabályozást külön jogszabály tartalmazza.
 
-(2) Cseppfolyós gáz-üzemanyag tartály a gyártástól számított 10 évig használható. Más jogszabály előírása szerinti időszakos ellenőrzés alapján a használat legfeljebb 15 évre hosszabbítható meg.
+(2)[^5]
+
+[^4]: A 6. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 60. § (3) bekezdésével megállapított szöveg.
+[^5]: A 6. § (2) bekezdését a 27/2010. (XII. 31.) NGM rendelet 75. § k) pontja hatályon kívül helyezte.
