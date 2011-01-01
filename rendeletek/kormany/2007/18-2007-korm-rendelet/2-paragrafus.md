@@ -18,6 +18,6 @@ f) műszaki engedély: olyan engedély, amely a közlekedési műszaki szemponto
 
 g) rendkívüli esemény: az alagútban közlekedő jármű műszaki hibája, ütközése, tűz, az alagúthasználó személyi sérüléses balesete vagy a rendeltetésszerű alagúti üzemet veszélyeztető üzemi körülmény;
 
-h)[^1] alagútkezelő: a Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága (a továbbiakban: Hatóság) által kijelölt, a közúti közlekedésről szóló törvényben meghatározott közútkezelő.
+h)[^1] alagútkezelő: a közlekedési hatóság (a továbbiakban: Hatóság) által kijelölt, a közúti közlekedésről szóló törvényben meghatározott közútkezelő.
 
-[^1]: A 2. § h) pontja a 168/2007. (VI. 28.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^1]: A 2. § h) pontja a 351/2010. (XII. 30.) Korm. rendelet 173. §-a szerint módosított szöveg.
