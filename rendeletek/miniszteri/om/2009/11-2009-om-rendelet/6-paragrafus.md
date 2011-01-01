@@ -18,7 +18,11 @@ a) kézzel írt önéletrajzot,
 
 b) legmagasabb iskolai végzettséget (végzettségeket) és szakképzettséget (szakképzettségeket) igazoló okiratot vagy annak hiteles másolatát,
 
-c) saját írásbeli nyilatkozatát a Hszt. 37. §-ban meghatározott ellenőrzésekhez és személyes adatai kezeléséhez történő hozzájárulásról (a formanyomtatványt az 1. melléklet tartalmazza),
+c)[^2] a jelentkező nyilatkozatát a kifogástalan életvitel ellenőrzéséhez történő hozzájárulásról, valamint az 1. melléklet szerinti nyilatkozatát
+
+ca) a Hszt. 37. § (1) bekezdés d) pontjában a szolgálati viszony létesítésének feltételeként meghatározott ellenőrzés tudomásul vételéről, valamint
+
+cb) ha a szolgálati viszony létesítésének feltétele, hogy a jelentkező a nemzetbiztonsági követelményeknek is megfeleljen, a jogszabályban meghatározott szintű nemzetbiztonsági ellenőrzéshez való hozzájárulásról,
 
 d) Társadalombiztosítási Azonosító Jelről (TAJ) szóló igazolás másolatát,
 
@@ -33,3 +37,5 @@ f) korábbi szolgálati és egyéb foglalkoztatási jogviszonyokról szóló iga
 (6) Amennyiben a hivatásos önkormányzati tűzoltó-parancsnoki beosztásra kiírt pályázat alapján a munkakör betöltése felvételi eljárás lefolytatását is igényli, az a képviselő testület (közgyűlés) felkérése alapján a szakmai felügyeletet ellátó megyei katasztrófavédelmi igazgatóság (Országos Katasztrófavédelmi Főigazgatóság) személyügyi szerve közreműködésével végezhető el.
 
 (7) A felvételi eljárás során valamely felvételt kizáró ok felmerülése esetén az eljárást lefolytató személyügyi szerv, az érintettet köteles írásban tájékoztatni az elutasítás okáról.
+
+[^2]: A 6. § (3) bekezdés c) pontja a 16/2010. (XII. 31.) BM rendelet 14. §-ával megállapított szöveg.

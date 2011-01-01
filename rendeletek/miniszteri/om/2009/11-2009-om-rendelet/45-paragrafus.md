@@ -1,3 +1,5 @@
+## 44. §[^12]
+
 ## A szabadság nyilvántartásának, kiadásának szabályai
 
 ## (a Hszt. 89–97. §-aihoz)
@@ -13,3 +15,5 @@
 (5) A felsőoktatási intézmények nappali tagozatán tanulókat az oktatási intézmény által meghatározott rend szerint illeti meg a szabadság. A tanulmányaikat év közben befejezők a tanulmányok befejezését követően időarányosan a szolgálati idejüknek megfelelő szabadságra jogosultak.
 
 (6) A szolgálati vagy egészségügyi okból az esedékesség évében ki nem vett szabadság utólagos kiadása esetén is csak az esedékesség évében megállapított mértékű szabadság adható.
+
+[^12]: A 44. §-t és az azt megelőző alcímet a 16/2010. (XII. 31.) BM rendelet 21. §-a hatályon kívül helyezte.

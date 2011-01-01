@@ -1,4 +1,4 @@
-## 28. § A Hszt. 56. § (6) bekezdés a)–b) pontjában meghatározott esetekben a hivatásos szolgálatra méltatlanná válás miatti felmentésre csak a büntetőeljárásban hozott jogerős – írásba foglalt – ítélet alapján kerülhet sor. Az ítélet kézhezvételét követően az állományilletékes parancsnok haladéktalanul köteles intézkedni a szolgálati viszony megszüntetésére.
+## haladéktalanul intézkedik a szolgálati viszony megszüntetésére.
 
 ## A szolgálati viszony megszűnése a törvény erejénél fogva
 
