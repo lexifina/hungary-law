@@ -1,6 +1,6 @@
 24. § A katasztrófák elleni védekezésért felelős miniszter
 
-a) előkészíti a tűzvédelemre, a műszaki mentésre és a tűzoltóságra vonatkozó magasabb szintű jogszabályok, az állami irányítás egyéb jogi eszközei, valamint a nemzetközi szerződések tervezeteit, illetőleg a hatáskörébe tartozó rendeletalkotás és az állami irányítás egyéb jogi eszközei útján, az érdekelt miniszterekkel egyetértésben szabályozza a tűzvédelmet és a műszaki mentést, valamint a tűzoltóság tevékenységét;
+a) előkészíti a tűzvédelemre, a műszaki mentésre és a tűzoltóságra vonatkozó magasabb szintű jogszabályok, közjogi szervezetszabályozó eszközök, valamint a nemzetközi szerződések tervezeteit, illetőleg a hatáskörébe tartozó rendeletalkotás és normatív utasítás kiadása útján, az érdekelt miniszterekkel egyetértésben szabályozza a tűzvédelmet és a műszaki mentést, valamint a tűzoltóság tevékenységét;
 
 b) egyetértési jogot gyakorol a más miniszter által tervezett – a tűzvédelmet, a műszaki mentést és a tűzoltóságot érintő – szabályozásokkal kapcsolatban;
 

@@ -6,7 +6,7 @@
 
 (3) A központi költségvetésből történő hozzájárulás mértékét legalább a hivatásos önkormányzati tűzoltóság előírt legkisebb létszámának és gépjárműállományának figyelembevételével kell megállapítani.
 
-(4) A hivatásos és az önkéntes tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetére a katasztrófák elleni védekezésért felelős miniszter által felügyelt fejezet költségvetésében elkülönített tartalékalapot kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről, illetőleg a szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítéséről.
+(4) A hivatásos és az önkéntes tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetére a katasztrófák elleni védekezésért felelős miniszter által felügyelt fejezet költségvetésében elkülönített tartalékalapot kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére szolgáló fedezetet a munkáltató köteles biztosítani.
 
 (5) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, illetve a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és baleset-biztosítást kötni.
 
