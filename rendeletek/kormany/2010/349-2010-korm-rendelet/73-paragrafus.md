@@ -1,0 +1,1 @@
+## „(1a) Az (1) bekezdéstől eltérően a befektetési vállalkozás választhatja azt is, hogy a partner hitelkockázatra vonatkozó tőkekövetelmény meghatározása során következetesen bevonja a kereskedési könyvben nem szereplő kitettséggel szembeni – elismert hitelkockázati fedezetnek minősülő – hitelderivatívákat.”

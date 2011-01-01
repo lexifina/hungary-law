@@ -1,0 +1,1 @@
+## „(1a) Az (1) bekezdés nem alkalmazható, ha az értékpapírosítást kezdeményező hitelintézet az érintett értékpapírosított kitettségek esetében nem tesz eleget az átruházott hitelkockázatot megtestesítő kitettségekről szóló rendeletben foglalt követelményeknek.”
