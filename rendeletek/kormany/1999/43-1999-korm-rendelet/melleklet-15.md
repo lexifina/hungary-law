@@ -90,7 +90,7 @@
 
 | 31. Felhasználói mezők: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-| 32. Elszámolási nyilatkozat |  |  |  |
+| 32. |  |  |  |
 
 ## Dátum: …….. év …………….. hó …….. nap ………………………………
 
@@ -155,12 +155,6 @@
 ## B. biztosított beutaló nélküli ellátása
 
 ## C. beutalási rendtől eltérő igénybevétel
-
-## D. eltérő tartalmú ellátás a beteg kérésére
-
-## E. egyéb kényelmi szolgáltatás a beteg kérésére
-
-## F. ápolás céljából történő elhelyezés, ápolás
 
 ## G. miniszteri rendelet szerinti szanatóriumi ellátás
 
@@ -292,7 +286,7 @@
 
 ## 1. sürgős ellátás, beleértve a pszichiátrirai beteg sürgősségi felvételét rendőrségi közreműködés nélkül
 
-## 2. nem sürgős ellátás, ideértve a pszichiátriai beteg sürgősségi felvételét rendőrségi közreműködés nélkül
+## 2. nem sürgős ellátás, ideértve a pszichiátriai beteg felvételét rendőrségi közreműködés nélkül
 
 ## 3. egynapos ellátás
 
@@ -346,9 +340,11 @@
 
 ## C. folytató rekord következik
 
+## N. nagy értékű, országosan még nem elterjedt műtéti eljárás előtti ápolás lezárása
+
 ## 24. Az ellátó orvos kódja
 
-## Az orvos 5 jegyű pecsétnyomójának száma. Annak a szervezeti egységnek a vezetője, ahol a beteg zárójelentését kiadják
+## Az orvos 5 jegyű pecsétnyomójának száma.
 
 ## 25. E-adatlap kitöltés
 
@@ -570,18 +566,10 @@
 
 ## Az országos intézetek rendelkezése szerint szakmánként eltérően kell kitölteni
 
-## 32. Elszámolási nyilatkozat
-
-## 10. az elszámolási nyilatkozat átadása megtörtént
-
-## 20. az elszámolási nyilatkozat átadása nem történt meg
-
-## 50. a biztosított Vhr. 25/A. § (4)–(5) bekezdése szerinti ellátása nem fejeződött be (másik osztályon folytatódik az ellátás, kúraszerű ellátás, részszámla)
-
-## 60. a Vhr. 25/A. § (6) bekezdése alapján az elszámolási nyilatkozatot nem kell kiállítani
+## 32.
 
 ## Az Adatlap minden pontja kötelezően kitöltendő
 
-15. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^398]
+15. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^423]
 
-[^398]: A 15. számú melléklet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (3) bekezdésével megállapított, a 318/2006. (XII. 23.) Korm. rendelet 24. § (4) bekezdése, a 4/2007. (I. 22.) Korm. rendelet 10. §-a, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § g) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének h) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^423]: A 15. számú melléklet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (3) bekezdésével megállapított, a 318/2006. (XII. 23.) Korm. rendelet 24. § (4) bekezdése, a 4/2007. (I. 22.) Korm. rendelet 10. §-a, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § g) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének h) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése szerint módosított szöveg.

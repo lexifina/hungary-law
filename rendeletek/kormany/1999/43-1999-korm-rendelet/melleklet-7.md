@@ -2,19 +2,41 @@
 
 ## Fogorvosi ambuláns napló
 
-| Napló sorszám | Dátum Kezelés időpontja | Küldő szolgá- lati egység kódja | Beutaló orvos pecsét- száma | Beutalást meg- alapozó ellátást igazoló irat | Beteg neve Társa- dalom- biztosí- tási Azono- sító Jele | Állam- polgár- ság Azono- sító jel típusa | Születési év, hó, nap Lakás | A kezelt fog jelzése Fogfel- szín jelzése | Diagnó- zis | Térítési kategória | Részle- ges térítési díj | Elszámo- lási nyilat- kozat |  |  | Fogorvosi beavatkozások kódja Mennyisége | Táp- pénz- be vétel szak- orvosi indoka | Kereső- képte- lenség (kezdete- vége) dátuma | Meg- jegyzés |
+| Napló sorszám | Dátum Kezelés időpontja | Küldő szolgá- lati egység kódja | Beutaló orvos pecsét- száma | Beutalást meg- alapozó ellátást igazoló irat | Beteg neve Társa- dalom- biztosí- tási Azono- sító Jele | Állam- polgár- ság Azono- sító jel típusa | Születési év, hó, nap Lakás | A kezelt fog jelzése Fogfel- szín jelzése | Diagnó- zis | Térítési kategória | Részle- ges térítési díj |  |  |  | Fogorvosi beavatkozások kódja Mennyisége | Táp- pénz- be vétel szak- orvosi indoka | Kereső- képte- lenség (kezdete- vége) dátuma | Meg- jegyzés |
 
-## Térítési kategóriák: 01. Biztosított járóbeteg. 02. Menekült járóbeteg. 03. Államközi szerződés alapján, sürgős szükség esetén ellátott járóbeteg. 04 = Egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján a társadalombiztosítás terhére el nem számolható ellátást igénybe vevő személyek térítésköteles ellátása. 05. Magyar biztosítással nem rendelkező menedékes. 06. Fekvőbeteg részére végzett vizsgálatok. 7. Biztosított térítésmentesen vagy részleges térítés ellenében ellátott járóbeteg, amelynek jogcímei szerinti betűjelek: 7G = gyermek, 7I = időskorú 60 év feletti, 7R = rokkant nyugdíjas, 7S = sürgősségi ellátás, 7T = terhes anya, 7K = közgyógyellátott, 7U = üzemi balesetes írandók be. 7B. Egyéb alapbetegséggel kapcsolatos fog- és szájbetegségek kezelése. 08. Biztosított ellátására egy éven belüli közúti baleset sérülése következményeként került sor. 09. Költségvetésből támogatott ellátás. 0A. Befogadott külföldi állampolgár. 0D. Menekült, menedékes státuszt kérelmező. 0E. Elszámoláson alapuló nemzetközi szerződés alapján történő ellátás, Közösségi szabály alapján történő ellátás. 0F. Orvostudományi kutatásokkal, gyógyszerek, vizsgálati készítmények klinikai vizsgálatával összefüggő beavatkozások. S = A Magyar Köztársaság területén tartózkodó beteg 4. § (10) és (11) bekezdése szerinti, más forrásból meg nem térülő sürgősségi ellátása.
+## Térítési kategóriák:
 
-## Elszámolási nyilatkozat:
+## 1 = magyar biztosítás alapján végzett térítésmentes ellátás
 
-## 10 = az elszámolási nyilatkozat átadása megtörtént
+## 2 = magyar biztosítással nem rendelkező menekült ellátása
 
-## 20 = az elszámolási nyilatkozat átadása nem történt meg
+## 3 = államközi szerződés alapján végzett sürgős ellátás
 
-## 50 = a biztosított Vhr. 25/A. §-ának (4)–(5) bekezdése szerinti ellátása nem fejeződött be (összetartozó kezelési sorozat nem utolsó eseménye)
+## 4 = egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján az egészségbiztosítás terhére el nem számolható ellátást igénybe vevő személyek térítésköteles ellátása
 
-## 60 = a Vhr. 25/A. §-ának (6) bekezdés alapján az elszámolási nyilatkozatot nem kell kiállítani.
+## 5 = magyar biztosítással nem rendelkező menedékes ellátása
+
+## 6 = fekvőbeteg részére végzett ellátás
+
+## 9 = külföldön élő magyarok központi költségvetésből támogatott ellátása
+
+## A = befogadott külföldi állampolgár
+
+## D = menekült, menedékes státuszt kérelmező
+
+## E = elszámoláson alapuló nemzetközi szerződés alapján történő ellátás, Közösségi szabály alapján történő ellátás
+
+## F = magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdés l) pontja szerinti, kizárólag orvostudományi kutatás keretében végzett beavatkozást is tartalmazó ellátása
+
+## G = magyar biztosítással rendelkező betegnek az Ebtv. 18. § (6) bekezdés l) pontja szerinti, kizárólag orvostudományi kutatás keretében végzett beavatkozása miatt bekövetkezett szövődmény ellátása
+
+## K = külföldi donor ellátása
+
+## M = magyar biztosítás alapján méltányosságból átvállalt térítés ellenében végzett ellátás
+
+## R = magyar biztosítás alapján részleges térítés ellenében végzett ellátás, a részleges térítési díj összegének feltüntetése
+
+## S = a Magyar Köztársaság területén tartózkodó beteg 4. § (10) és (11) bekezdése szerinti, más forrásból meg nem térülő sürgősségi ellátása
 
 | Szolgáltató OEP kódja: ....................................................................... | Szolgáltató neve: ....................................................................... |
 
@@ -102,6 +124,6 @@ A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek c
 
 3. Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az ÁNTSZ engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^390]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az ÁNTSZ engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^414]
 
-[^390]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^414]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.

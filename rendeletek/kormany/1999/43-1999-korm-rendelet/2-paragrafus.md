@@ -1,4 +1,4 @@
-## 1. §[^2] E rendelet hatálya az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP), a regionális egészségbiztosítási pénztárakra (a továbbiakban: REP, és a továbbiakban az OEP-pel együtt: finanszírozó), valamint a finanszírozóval az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra terjed ki.
+## 1. §[^2] E rendelet hatálya az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP) mint finanszírozóra, valamint a finanszírozóval az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra terjed ki.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -32,7 +32,7 @@ n)[^14] szolgáltatásvolumen: önálló elszámolási tételként elszámolhat�
 
 o)[^15] teljesítményvolumen: önálló elszámolási tételként elszámolható, külön jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége.
 
-[^2]: Az 1. § a 360/2008. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § c) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
 [^5]: A 2. § d) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (4) bekezdése szerint módosított szöveg.

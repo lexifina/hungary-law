@@ -1,20 +1,18 @@
 ## SZAKÁPOLÓI, SZAKIRÁNYÚ TERÁPIÁS VIZITEK FINANSZÍROZÁSA
 
-## A) A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
+## A)[^420] A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
 
-## A) A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
-
-| A beteg önellátó képességének foka | Szakápolási ellátás | Szakirányú terápiás szolgáltatások |
+| A beteg önellátó képességének foka | Szakápolási ellátás, szakirányú terápiás ellátás |
 
 | elrendelhető vizitek száma |
 
-| 1–14-ig | további | 1–14-ig | további |
+| 1–14-ig | további |
 
-| Teljes ápolást igénylő esetben | 1,0 | 0,9 | 0,9 | 0,8 |
+| Teljes ápolást igénylő esetben | 1,0 | 0,9 |
 
-| Részleges ápolást igénylő esetben | 0,9 | 0,7 | 0,8 | 0,7 |
+| Részleges ápolást igénylő esetben | 0,9 | 0,7 |
 
-| Önellátásra képes beteg esetében | 0,8 | 0,5 | – | – |
+| Önellátásra képes beteg esetében | 0,8 | 0,5 |
 
 ## B) Területi pótlék
 
@@ -32,6 +30,7 @@
 
 ## * Táplálkozás, tisztálkodás, öltözködés, széklet és vizelet kontinencia, önálló helyzetváltoztatás (felkelés, lefekvés).
 
-13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^396]
+13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^421]
 
-[^396]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
+[^420]: A 12. számú melléklet A) pontja a 365/2010. (XII. 30.) Korm. rendelet 13. § (6) bekezdésével megállapított szöveg.
+[^421]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
