@@ -8,7 +8,7 @@ a) a gazdasági és anyagi szolgáltatások igénybevételének és a kártalan�
 
 b) a honvédelemben közreműködő szervek feladatát és hatáskörét,
 
-c)[^1] a miniszterek honvédelmi igazgatási feladatait, a minisztériumok és a kormányhivatalok honvédelmi tevékenységének összehangolását,
+c)[^2] a miniszterek honvédelmi igazgatási feladatait, a minisztériumok és a kormányhivatalok honvédelmi tevékenységének összehangolását,
 
 d) a Honvédelmi Tanács és a Kormány speciális működésének feltételeit,
 
@@ -16,4 +16,4 @@ e) a centrális alárendeltségű területi és helyi védelmi igazgatási szerv
 
 f) a hadkiegészítő parancsnokságok illetékességi területét.
 
-[^1]: Az 1. § c) pontja a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

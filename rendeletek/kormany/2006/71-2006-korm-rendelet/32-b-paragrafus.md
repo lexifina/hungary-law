@@ -1,8 +1,8 @@
-## 32/B. §[^21] A honvédelmi miniszter az e rendeletben és más jogszabályokban, valamint a Kormány határozataiban meghatározott feladatkörében
+## 32/B. §[^23] A honvédelmi miniszter az e rendeletben és más jogszabályokban, valamint a Kormány határozataiban meghatározott feladatkörében
 
 a) javaslatot készít a Kormány közpolitikájára,
 
-b)–e)[^22]
+b)–e)[^24]
 
 f) felhatalmazás alapján képviseli a Kormányt a külkapcsolatokban és a nemzetközi szervezetekben,
 
@@ -14,5 +14,5 @@ i) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 
 j) közreműködik a nemzeti fejlesztési terv előkészítésében és nyomon követésében.
 
-[^21]: A 32/B. §-t a 189/2008. (VII. 28.) Korm. rendelet 10. §-a iktatta be.
-[^22]: A 32/B. § b)–e) pontját a 284/2008. (XI. 28.) Korm. rendelet 1. § (5) bekezdése hatályon kívül helyezte.
+[^23]: A 32/B. §-t a 189/2008. (VII. 28.) Korm. rendelet 10. §-a iktatta be.
+[^24]: A 32/B. § b)–e) pontját a 284/2008. (XI. 28.) Korm. rendelet 1. § (5) bekezdése hatályon kívül helyezte.

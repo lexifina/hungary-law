@@ -1,4 +1,4 @@
-## 47. §[^37] A kormányhivatal vezetője tekintetében a 46. §-ban foglaltakat megfelelően alkalmazni kell.
+## 47. §[^39] A kormányhivatal vezetője tekintetében a 46. §-ban foglaltakat megfelelően alkalmazni kell.
 
 ## VI. Fejezet
 
@@ -8,4 +8,4 @@
 
 ## A költségvetés tervezése
 
-[^37]: A 47. § a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^39]: A 47. § a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

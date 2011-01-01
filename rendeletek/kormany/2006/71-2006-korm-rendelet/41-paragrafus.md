@@ -2,6 +2,6 @@
 
 41. § (1) A HM Védelmi Hivatal a honvédelmi miniszter irányítása alatt álló, önálló jogi személyiségű, központi hivatalként működő közigazgatási szerv, amely ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközeiben meghatározott honvédelmi igazgatási feladatokat.
 
-(2)[^33]
+(2)[^35]
 
-[^33]: A 41. § (2) bekezdését a 344/2006. (XII. 23.) Korm. rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 41. § (2) bekezdését a 344/2006. (XII. 23.) Korm. rendelet 8. § (1) bekezdése hatályon kívül helyezte.
