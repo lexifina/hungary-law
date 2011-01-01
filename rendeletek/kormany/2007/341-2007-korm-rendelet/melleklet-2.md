@@ -30,18 +30,20 @@
 
 | Sorszáma | Száma | Kibocsátásának kelte |
 
-## Dátum: ..............................................
+## A mezőgazdasági munka elvégzését igazolom.
+
+## Dátum: ..............................................
+
+## ...............................................……………..
+
+## kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatal
+
+## A megmunkált földterület nagyságát – a földhasználati lap alapján – igazolom.
+
+## Dátum: ..............................................
 
 ## .................................................
 
-## mezőgazdasági termelő
-
-## A mezőgazdasági munka elvégzését, valamint – a földhasználati lap alapján – a megmunkált földterület nagyságát igazolom.
-
-## Dátum: ..............................................
-
-## .................................................
-
-## földművelésügyi hatóság
+## Földművelésügyi Igazgatóság
 
 2. számú melléklet a 341/2007. (XII. 15.) Korm. rendelethez
