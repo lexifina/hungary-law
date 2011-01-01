@@ -4,4 +4,4 @@
 
 (3) A Magyar Nemzeti Bank elnöke a bank tevékenységéről évente beszámol az Országgyűlésnek.
 
-(4) A Magyar Nemzeti Bank elnöke külön törvényben meghatározott feladatkörében rendeletet bocsát ki, amely törvénnyel nem lehet ellentétes. A rendeletet a hivatalos lapban ki kell hirdetni.
+(4) A Magyar Nemzeti Bank elnöke külön törvényben meghatározott feladatkörében rendeletet bocsát ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.

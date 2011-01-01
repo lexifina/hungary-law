@@ -16,7 +16,7 @@ g) népszavazást kezdeményezhet,
 
 h)
 
-i) külön törvényben meghatározott személy vagy szervek javaslatára kinevezi és felmenti a Magyar Nemzeti Bank elnökét, alelnökeit és az egyetemi tanárokat; megbízza és felmenti az egyetemek rektorait; kinevezi és előlépteti a tábornokokat; megerősíti tisztségében a Magyar Tudományos Akadémia elnökét,
+i) külön törvényben meghatározott személy vagy szervek javaslatára kinevezi és felmenti a Magyar Nemzeti Bank elnökét, alelnökeit, a Pénzügyi Szervezetek Állami Felügyeletének elnökét és az egyetemi tanárokat; megbízza és felmenti az egyetemek rektorait; kinevezi és előlépteti a tábornokokat; megerősíti tisztségében a Magyar Tudományos Akadémia elnökét,
 
 j) adományozza a törvényben meghatározott címeket, érdemrendeket, kitüntetéseket és engedélyezi viselésüket,
 

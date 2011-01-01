@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1949-20-00-00
 | 2010-08-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 1949-20-00-00.36 |
 | 2010-11-20 | 2010. évi CXIX. törvény | 1949-20-00-00.37 |
 | 2010-11-24 | 2010. évi CXIII. törvény | 1949-20-00-00.38 |
+| 2011-01-01 | 2010. évi CXIII. törvény | 1949-20-00-00.39 |

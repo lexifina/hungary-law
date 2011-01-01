@@ -26,7 +26,7 @@ l) ellátja mindazokat a feladatokat, amelyeket törvény a hatáskörébe utal;
 
 m) a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be; az így bevezetett intézkedések hatálya az Országgyűlés döntéséig, de legfeljebb 60 napig tart, azokról a Kormány a köztársasági elnököt és az Országgyűlés illetékes bizottságait folyamatosan tájékoztatja.
 
-(2) A Kormány a maga feladatkörében rendeleteket bocsát ki, és határozatokat hoz. Ezeket a miniszterelnök írja alá. A Kormány rendelete és határozata törvénnyel nem lehet ellentétes. A Kormány rendeleteit a hivatalos lapban ki kell hirdetni.
+(2) A Kormány a feladatkörében rendeletet bocsát ki és határozatot hoz, amelyek törvénnyel nem lehetnek ellentétesek.
 
 (3) Veszélyhelyzetben és megelőző védelmi helyzetben a Kormány az Országgyűlés felhatalmazása alapján egyes törvények rendelkezéseitől eltérő rendeleteket és intézkedéseket hozhat. A veszélyhelyzetben és a megelőző védelmi helyzetben alkalmazható szabályokról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 

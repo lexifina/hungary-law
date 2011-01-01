@@ -8,6 +8,6 @@
 
 (4) [(5)] Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(5) [(6)] A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja és az államtitkár kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
+(5) [(6)] A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja, az államtitkár és a kormánymegbízott kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
 
 (6) [(7)] Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
