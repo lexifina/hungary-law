@@ -6,12 +6,8 @@
 
 a) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 
-b) a viszontbiztosítók belső adatszolgáltatásának rendjét és tartalmát,
+b)–d)
 
-c) a Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeresen szolgáltatandó adatok körét,
-
-d) a Felügyelet adatszolgáltatási kötelezettsége körét,
-
-e)
+e) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes rendelkezéseket
 
 rendeletben szabályozza.

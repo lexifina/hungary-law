@@ -16,7 +16,7 @@ e) a továbbengedményezésre vonatkozó átfogó terveket.
 
 (3) A pénzügyi helyreállítási tervet a Felügyelet határozatának közlésétől számított 90 napon belül a viszontbiztosítónak a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben 30 nappal meghosszabbítható.
 
-(4) A Felügyelet a pénzügyi helyreállítási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a viszontbiztosító biztonságos működésének helyreállítására.
+(4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a viszontbiztosító biztonságos működésének helyreállítására.
 
 (5) Ha a viszontbiztosító rosszabbodó pénzügyi helyzete a viszontbiztosítási szerződésekből eredő kötelezettségeinek teljesítését veszélyezteti, akkor a viszontbiztosító rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a viszontbiztosító számára a 3. számú melléklet szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
