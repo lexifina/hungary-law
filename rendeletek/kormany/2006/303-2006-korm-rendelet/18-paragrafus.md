@@ -1,1 +1,0 @@
-## 17. § A kárpótlási jegy termőföldtulajdon megszerzésére történő felhasználásának egyes kérdéseiről szóló 1992. évi XLIX. törvény 8. §-ának (2) bekezdése szerinti, a kárpótlási jegy visszatérítésére irányuló eljárásban a Központi Igazságügyi Hivatal jár el.

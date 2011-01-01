@@ -1,1 +1,0 @@
-## 15. § Kárpótlási hatóságként vagyoni kárpótlási eljárással kapcsolatos hatósági ügyben, első fokú eljárásra a fővárosban a Fővárosi Igazságügyi Hivatal, egyéb helyen a Szabolcs-Szatmár-Bereg Megyei Igazságügyi Hivatal illetékes. Ha a jogosult lakóhelye, tartózkodási helye külföldön van, az eljárásra a Fővárosi Igazságügyi Hivatal kizárólagosan illetékes.
