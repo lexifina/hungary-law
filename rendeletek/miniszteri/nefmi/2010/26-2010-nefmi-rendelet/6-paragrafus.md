@@ -1,0 +1,1 @@
+## „(5) Falu-, illetve tanyagondnoki munkakörben csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a munkakör betöltéséhez szükséges falu- és tanyagondnoki alapképzésre, és azt a munkakör betöltője a foglalkoztatás kezdő időpontjától számított két éven belül elvégzi.”
