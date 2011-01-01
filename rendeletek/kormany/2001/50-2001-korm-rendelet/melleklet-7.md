@@ -32,6 +32,6 @@
 
 | TPH | 40 |
 
-7. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^61]
+7. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^62]
 
-[^61]: A 7. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^62]: A 7. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

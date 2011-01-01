@@ -38,6 +38,6 @@
 
 |  | *** | TPH C5−C40 |  |
 
-4. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^58]
+4. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^59]
 
-[^58]: A 4. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^59]: A 4. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

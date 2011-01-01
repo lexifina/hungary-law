@@ -50,7 +50,7 @@
 
 ## ** Meghatározásuk előzetes hatósági egyeztetés alapján mellőzhető.
 
-2. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^57]
+2. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^58]
 
 ## Szennyvíz, szennyvíziszap, szennyvíziszap komposzt vizsgálandó komponensei
 
@@ -180,4 +180,4 @@ As: MSZ 318–28:1992
 
 2. A 18. § (3) bekezdése szerinti ellenőrzéshez a mezőgazdasági felhasználásra előkészített szennyvízből, szennyvíziszapból, illetve szennyvíziszap komposztból kell legalább 5 részmintából homogenizált reprezentatív átlagmintát képezni, majd ebből 2 db párhuzamos – egyenként 2 liter vagy 2 kg – mintát a laboratóriumi vizsgálatra előkészíteni.
 
-[^57]: A 2. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^58]: A 2. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
