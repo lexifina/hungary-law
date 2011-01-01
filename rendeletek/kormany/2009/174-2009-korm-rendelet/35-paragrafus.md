@@ -24,11 +24,12 @@
 
 (13) A személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokról szóló 340/2007. (XII. 15.) Korm. rendelet e rendelettel megállapított szabályait a hatálybalépést követően benyújtott gondozási szükséglet vizsgálata iránti kérelmek esetében kell alkalmazni.
 
-(14) Az Fvr. e rendelettel megállapított szabályait a folyamatban lévő vizsgálatokra is alkalmazni kell. Az Fvr. 5. §-a – e rendelettel megállapított – (3) bekezdésének a)–b) pontja és cc) alpontja alapján felülvizsgálat legkorábban 2012. évben folytatható le. Az e rendelet hatálybalépését megelőzően kezdeményezett, illetve jogszabály vagy szakvélemény által elrendelt felülvizsgálatot nem kell lefolytatni, kivéve ha azt az ellátott vagy törvényes képviselője kezdeményezte, vagy az intézményvezető az Fvr. 5. §-a – e rendelettel megállapított – (3) bekezdésének ca)–cb) alpontja szerinti okból kezdeményezte.
+(14)[^3]
 
-(15)[^3]
+(15)[^4]
 
 (16) E rendelet hatálybalépését követően nappali ellátásban részesülő ellátottal szociális foglalkoztatásra megállapodás, illetve munkaszerződés akkor köthető, ha az ellátott vizsgálatát az Fvr. e rendelettel megállapított szabályai szerint lefolytatták. Ennek érdekében – ha a szociális foglalkoztatási alkalmassági vizsgálatot e rendelet hatálybalépése előtt folytatták le – az intézményvezető térítésmentesen szociális foglalkoztatási felülvizsgálatot kezdeményezhet.
 
 [^2]: A 35. § (3)–(9) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés p) pont pb) alpontja hatályon kívül helyezte.
-[^3]: A 35. § (15) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^3]: A 35. § (14) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^4]: A 35. § (15) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés d) pontja hatályon kívül helyezte.
