@@ -2,7 +2,7 @@
 
 ## A közügyektől eltiltás
 
-62. § (1) Azt, akit szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélnek, és méltatlan arra, hogy a közügyekben részt vegyen, azok gyakorlásától el kell tiltani.
+62. § (1) Azt, akit szándékos bűncselekmény elkövetése miatt végrehajtandó vagy részben felfüggesztett szabadságvesztésre ítélnek, és méltatlan arra, hogy a közügyekben részt vegyen, azok gyakorlásától el kell tiltani.
 
 (2) A közügyektől eltiltott
 

@@ -12,7 +12,7 @@ b) a bűncselekményt bűnszervezetben követte el,
 
 c) bűncselekménye halált okozott,
 
-d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetőleg próbára bocsátás vagy vádemelés elhalasztásának tartama alatt követte el,
+d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó vagy részben felfüggesztett szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetőleg próbára bocsátás vagy vádemelés elhalasztásának tartama alatt követte el,
 
 e) korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben a 36. § (1) vagy (2) bekezdését alkalmazták, ha az ügydöntő határozat jogerőre emelkedésétől az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.
 

@@ -4,7 +4,9 @@
 
 a) az elöljáró ellen,
 
-b) a feljebbvaló, az őr vagy más szolgálati közeg ellen szolgálatának teljesítése közben vagy amiatt erőszakot alkalmaz, azzal fenyeget vagy tettleges ellenállást tanúsít, bűntettet követ el, és három évig, háború idején egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+b) a feljebbvaló, az őr vagy más szolgálati közeg ellen szolgálatának teljesítése közben vagy amiatt erőszakot alkalmaz, azzal fenyeget vagy tettleges ellenállást tanúsít,
+
+bűntettet követ el, és három évig, háború idején egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés öt évig, háború idején két évtől nyolc évig terjedő szabadságvesztés, ha
 

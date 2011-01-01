@@ -12,7 +12,7 @@ vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő
 
 (3) Aki a zaklatást
 
-a) volt házastársa, volt bejegyzett élettársa, vagy volt élettársa,
+a) házastársa, volt házastársa, bejegyzett élettársa, volt bejegyzett élettársa, élettársa, vagy volt élettársa,
 
 b) nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy
 

@@ -1,6 +1,6 @@
 ## Visszaélés radioaktív anyaggal
 
-264. § (1) Aki az emberi egészségre, illetve a környezetre veszélyes radioaktív anyagot jogosulatlanul előállít, megszerez, tart, kezel, forgalomba hoz, feldolgoz vagy más módon felhasznál, tartására nem jogosult személynek átad, az országba behoz, onnan kivisz, vagy az ország területén átvisz, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
+264. § (1) Aki az emberi egészségre, illetve a környezetre veszélyes radioaktív anyagot jogosulatlanul előállít, megszerez, birtokol, tárol, kezel, forgalomba hoz, feldolgoz, vagy más módon felhasznál, tartásra nem jogosult személynek átad, ártalmatlanít, az országba behoz, onnan kivisz, vagy az ország területén átvisz, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki radioaktív anyagot a jogszabályban előírt kötelezettség megszegésével állít elő, tárol, szállít vagy helyez el.
 

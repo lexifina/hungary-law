@@ -4,7 +4,7 @@
 
 a) fokozottan védett élő szervezet egyedét,
 
-b) védett élő szervezet egyedeit, feltéve, hogy azok külön jogszabályban meghatározott, pénzben kifejezett értékének együttes összege eléri a fokozottan védett élő szervezet egyedei esetében megállapított, pénzben kifejezett legalacsonyabb értéket,
+b) védett élő szervezet vagy az Európai Közösségben természetvédelmi szempontból jelentős növény- vagy állatfaj egyedeit, feltéve, hogy azok külön jogszabályban meghatározott, pénzben kifejezett értékének együttes összege eléri a fokozottan védett élő szervezet egyedei esetében megállapított, pénzben kifejezett legalacsonyabb értéket,
 
 c) az Európai Közösségek Tanácsának a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló rendelete A és B melléklete hatálya alá tartozó élő szervezet egyedét
 

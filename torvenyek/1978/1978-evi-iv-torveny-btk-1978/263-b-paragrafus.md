@@ -30,6 +30,6 @@ követik el.
 
 a) az Európai Közösség vámterületén a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet 3. cikkében meghatározott területet,
 
-b) kettős felhasználású terméken a kettős felhasználású termékek és technológia kivitelére vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2000. június 22-i 1334/2000/EK tanácsi rendelet 2. cikk a) pontjában meghatározott terméket
+b) kettős felhasználású terméken a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet 2. cikk 1. pontjában meghatározott terméket
 
 kell érteni.

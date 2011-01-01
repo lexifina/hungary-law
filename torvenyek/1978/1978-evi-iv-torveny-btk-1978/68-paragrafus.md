@@ -1,4 +1,4 @@
-68. § (1) A büntetés elévülésének határideje a büntetést kiszabó határozat jogerőre emelkedésének napjával, ha pedig a szabadságvesztés végrehajtását részben vagy egészben felfüggesztik, a próbaidő leteltének a napjával kezdődik.
+68. § (1) A büntetés elévülésének határideje a büntetést kiszabó határozat jogerőre emelkedésének napjával, ha pedig a szabadságvesztés végrehajtását felfüggesztik, a próbaidő leteltének a napjával kezdődik.
 
 (2) Ha az elítélt a szabadságvesztés végrehajtása alatt megszökik, az elévülés határideje a szökés napjával ismét elkezdődik.
 

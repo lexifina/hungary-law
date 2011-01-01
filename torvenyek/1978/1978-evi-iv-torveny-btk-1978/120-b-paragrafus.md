@@ -1,5 +1,5 @@
-## Az előzetes fogva tartás beszámítása
+## Az előzetes fogvatartás és a házi őrizet beszámítása
 
-120/B. § (1) Az elrendelt javítóintézeti nevelésbe az előzetes fogvatartás teljes idejét be kell számítani.
+120/B. § (1) Az elrendelt javítóintézeti nevelésbe az előzetes fogvatartás és a házi őrizet teljes idejét be kell számítani.
 
-(2) A beszámításnál egynapi előzetes fogva tartás egynapi javítóintézeti nevelésnek felel meg.
+(2) A beszámításnál egy napi javítóintézeti nevelésnek egy napi előzetes fogvatartás, illetve három nap házi őrizetben töltött idő felel meg. A beszámítás után fennmaradó házi őrizet tartamát egy napi javítóintézeti nevelésként kell beszámítani.

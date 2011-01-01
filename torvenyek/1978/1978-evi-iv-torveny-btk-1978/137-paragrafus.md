@@ -14,7 +14,7 @@ c) a miniszterelnök;
 
 d) a Kormány tagja, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 
-e) az alkotmánybíró, a bíró, az ügyész;
+e) az alkotmánybíró, a bíró, az ügyész, a választottbíró;
 
 f) az országgyűlési biztos;
 
@@ -32,7 +32,7 @@ l) jogszabály alapján közhatalmi, államigazgatási feladatokkal megbízott s
 
 2. közfeladatot ellátó személy:
 
-a) a postai szolgáltató végrehajtó vagy biztonsági szolgálatot ellátó alkalmazottja, a közforgalmú tömegközlekedési eszközt működtető gazdálkodó szervezetnél végrehajtó vagy biztonsági szolgálatot ellátó személy, továbbá a közúti személyszállítási szolgáltatást végző más személy,
+a) a postai szolgáltatónál végrehajtó vagy biztonsági szolgálatot ellátó személy, a közforgalmú tömegközlekedési eszközt működtető gazdálkodó szervezetnél végrehajtó vagy biztonsági szolgálatot ellátó személy, továbbá a közúti személyszállítási szolgáltatást végző más személy,
 
 b) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
 
@@ -58,7 +58,7 @@ l) az erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenys�
 
 m) a villamos energiáról, a földgázellátásról, valamint a vízgazdálkodásról szóló törvényben meghatározott felhasználási helyek műszaki felülvizsgálatát, ellenőrzését, kikapcsolását és leolvasását végző személyek, feladataik ellátásával kapcsolatban,
 
-n) a Kormány által meghirdetett településbiztonsági programban végrehajtóként résztvevő személy.
+n)
 
 3. külföldi hivatalos személy:
 
@@ -106,7 +106,7 @@ d) a XI. fejezet II. címében, illetve a XX. fejezetben meghatározott bűncsel
 
 16. többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, vagy annak végrehajtását részben felfüggesztették, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el,
 
-17. erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el. E pont alkalmazásában személy elleni erőszakos bűncselekmény az alkotmányos rend elleni erőszakos szervezkedés [139. § (1)–(2) bekezdés], a lázadás [140. § (1)–(2) bekezdés], a népirtás (155. §), az apartheid (157. §), a polgári lakosság elleni erőszak (158. §), a bűnös hadviselés (160. §), a hadikövet elleni erőszak (163. §), az egyéb háborús bűntett (165. §), az emberölés (166. §), az erős felindulásban elkövetett emberölés (167. §), a testi sértés (170. §), a kényszerítés (174. §), a lelkiismeret és vallásszabadság megsértése (174/A. §), a közösség tagja elleni erőszak (174/B. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (174/C. §), a személyi szabadság megsértése (175. §), az emberrablás [175/A. § (1)–(5) bekezdés], az emberkereskedelem (175/B. §), az erőszakos közösülés (197. §), a szemérem elleni erőszak (198. §), a bántalmazás hivatalos eljárásban (226. §), a hivatalos személy elleni erőszak (229. §), a közfeladatot ellátó személy elleni erőszak (230. §), a hivatalos személy támogatója elleni erőszak (231. §), a nemzetközileg védett személy elleni erőszak (232. §), a terrorcselekmény [261. § (1)–(7) bekezdés], a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése [262. § (1)–(3) bekezdés], az önbíráskodás (273. §), a rablás (321. §), a zsarolás (323. §), a zendülés minősített esetei [355. § (2)–(4) bekezdései] és az elöljáró vagy szolgálati közeg elleni erőszak (355. §),
+17. erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el. E pont alkalmazásában személy elleni erőszakos bűncselekmény az alkotmányos rend elleni erőszakos szervezkedés [139. § (1)–(2) bekezdés], a lázadás [140. § (1)–(2) bekezdés], a népirtás (155. §), az apartheid [157. § (1)–(3) bekezdés], a polgári lakosság elleni erőszak [158. § (1)–(2) bekezdés], a bűnös hadviselés (160. §), a hadikövet elleni erőszak (163. §), az egyéb háborús bűntett (165. §), az emberölés [166. § (1)–(3) bekezdés], az erős felindulásban elkövetett emberölés (167. §), a testi sértés [170. § (1)–(6) bekezdés], a kényszerítés (174. §), a lelkiismeret és vallásszabadság megsértése (174/A. §), a közösség tagja elleni erőszak (174/B. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (174/C. §), a személyi szabadság megsértése (175. §), az emberrablás [175/A. § (1)–(5) bekezdés], az emberkereskedelem (175/B. §), az erőszakos közösülés (197. §), a szemérem elleni erőszak (198. §), a bántalmazás hivatalos eljárásban (226. §), kényszervallatás (227. §), jogellenes fogvatartás (228. §), a hivatalos személy elleni erőszak [229. § (1)–(6) és (8) bekezdés], a közfeladatot ellátó személy elleni erőszak (230. §), a hivatalos személy támogatója elleni erőszak (231. §), a nemzetközileg védett személy elleni erőszak [232. § (1)–(2) bekezdés], a terrorcselekmény [261. § (1)–(5) és (7) bekezdés], a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése [262. § (1)–(3) bekezdés], az önbíráskodás [273. § (1)–(2) bekezdés], a rablás (321. §), a zsarolás (323. §), a zendülés minősített esetei [352. § (2)–(4) bekezdés], és az elöljáró vagy szolgálati közeg elleni erőszak (355. §),
 
 18. védekezésre képtelennek kell tekintetni azt is, aki helyzeténél vagy állapotánál fogva ideiglenesen vagy véglegesen nem képes ellenállás kifejtésére,
 

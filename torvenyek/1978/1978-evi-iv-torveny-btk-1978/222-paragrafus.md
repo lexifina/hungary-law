@@ -12,4 +12,4 @@ vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű
 
 (3) Aki a bűncselekményt minősített adat felhasználására törvény rendelkezése alapján jogosult személyként követi el, az (1) bekezdés esetén vétség miatt két évig terjedő szabadságvesztéssel, a (2) bekezdés esetén bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Az a minősített adat felhasználására törvény rendelkezése alapján jogosult személy, aki a bűncselekményt gondatlanságból követi el, az (1) bekezdés esetén vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(4) Az a minősített adat felhasználására törvény rendelkezése alapján jogosult személy, aki a bűncselekményt gondatlanságból követi el, az (1) bekezdés esetén vétség miatt egy évig terjedő szabadságvesztéssel, a (2) bekezdés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
