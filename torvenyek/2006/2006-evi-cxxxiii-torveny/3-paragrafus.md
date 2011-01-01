@@ -4,8 +4,8 @@ a) Tárgyév: azon gazdasági év, amelyhez tartozó megosztandó bevételeknek 
 
 b) Bázisév: a tárgyévet kettővel megelőző év.
 
-c) Központi hozzájárulás: a költségvetési törvényben meghatározott – szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési és közművelődési feladatokhoz kapcsolódó – normatív hozzájárulások és normatív, kötött felhasználású támogatások bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak – az Állami Számvevőszék, vagy a Kincstár által elvégzett felülvizsgálat esetén a vizsgálat és a jogerős döntés alapján korrigált – adatai.
+c) Normatív hozzájárulás: a költségvetési törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás, valamint a normatív részesedésű átengedett személyi jövedelemadó bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
 
-d) Normatív részesedési arány: a kerületi önkormányzatokat és a fővárosi önkormányzatot együttesen megillető – a bázisévi zárszámadási törvénnyel elfogadott – központi hozzájárulásból a fővárosi önkormányzat és együttesen valamennyi kerületi önkormányzat részesedési aránya, százalékban kifejezve.
+d) Normatív részesedési arány: a fővárosi önkormányzatot és a kerületi önkormányzatokat együttesen megillető – a bázisévi zárszámadási törvénnyel elfogadott – normatív hozzájárulásból a fővárosi önkormányzat és együttesen valamennyi kerületi önkormányzat részesedési aránya, százalékban kifejezve.
 
 e) Állandó népesség: a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv nyilvántartása szerinti, a bázisévet követő év január 1-jei állapotnak megfelelően a kerületi önkormányzatok közigazgatási területén állandó lakóhellyel rendelkező természetes személyek száma.

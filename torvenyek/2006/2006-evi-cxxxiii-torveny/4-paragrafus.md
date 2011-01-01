@@ -6,4 +6,4 @@
 
 (4)
 
-(5) Az (1) bekezdés szerinti bevételek nagyságának meghatározása a tárgyidőszakra vonatkozó fővárosi költségvetési koncepcióban szereplő tervszámok alapján történik.
+(5)

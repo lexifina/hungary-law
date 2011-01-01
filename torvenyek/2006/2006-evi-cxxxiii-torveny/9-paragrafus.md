@@ -6,7 +6,9 @@
 
 (3) A törvény 5. §-ának (2) bekezdését, valamint 6. §-ának (3) bekezdését első alkalommal a 2009. évi forrásmegosztásnál kell alkalmazni.
 
-(4) E törvény a kihirdetése napján lép hatályba.
+(4) A törvény 3. § c) pontját az 5. § (2) bekezdés vonatkozásában alkalmazni kell a 2010. évi forrásmegosztás 2011. évi korrekciója során is.
+
+(5) E törvény a kihirdetése napján lép hatályba.
 
 ## Melléklet a 2006. évi CXXXIII. törvényhez
 
