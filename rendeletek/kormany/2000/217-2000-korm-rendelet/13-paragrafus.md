@@ -1,4 +1,4 @@
-## 12. §[^4] Az Alap által a tagpénztárak helyett kifizetett, illetve a szolgáltatási tartalék kiegészítéseként a 8. § (3) bekezdésének e) pontja szerint a pénztárnak átutalt összegeket a tagpénztárakkal szembeni követelésként kell előírni a pénzeszközök csökkentésével egyidejűleg.
+## 12. §[^6] Az Alap által a tagpénztárak helyett kifizetett, illetve a szolgáltatási tartalék kiegészítéseként a 8. § (3) bekezdésének e) pontja szerint a pénztárnak átutalt összegeket a tagpénztárakkal szembeni követelésként kell előírni a pénzeszközök csökkentésével egyidejűleg.
 
 ## Kiegészítő melléklet
 
@@ -12,7 +12,7 @@ b) az üzleti év mérleg fordulónapján fennálló befagyott követelésállom
 
 c) a befagyott követelésállomány üzleti évben, az üzleti évet megelőző években együttesen, valamint az üzleti év mérlegkészítés időszakában Alap által kifizetett összegét tagpénztárankénti bontásban;
 
-d)[^5] a szolgáltatási tartalék Alap által történő kiegészítését az üzleti évben és az azt megelőző években együttesen tagpénztárankénti bontásban;
+d)[^7] a szolgáltatási tartalék Alap által történő kiegészítését az üzleti évben és az azt megelőző években együttesen tagpénztárankénti bontásban;
 
 e) a felszámolás alatt álló pénztárak járadékos tagjai részére az üzleti évben folyósított járadék összegét tagpénztárankénti bontásban;
 
@@ -34,5 +34,5 @@ m) a befektetett pénzügyi eszközök részletes bemutatását;
 
 n) az Alap Szervezeti és Működési Szabályzatában rögzített, a tagpénztárak által szükségesnek tartott adatokat.
 
-[^4]: A 12. § a 293/2001. (XII. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^5]: A 13. § (2) bekezdésének d) pontja a 293/2001. (XII. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^6]: A 12. § a 293/2001. (XII. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^7]: A 13. § (2) bekezdésének d) pontja a 293/2001. (XII. 26.) Korm. rendelet 22. §-ával megállapított szöveg.

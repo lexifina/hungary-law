@@ -16,7 +16,9 @@ e) szolgáltatási tartalék kiegészítéséből eredő követelésként kell k
 
 f) felszámolás alatt álló pénztár járadékos tagja részére folyósított járadék miatti követelésként kell kimutatni az Mpt. 89. §-ának (6) bekezdése alapján az Alap által – a pénztár helyett – kifizetett járadék miatt még fennálló követelés összegét;
 
-g) egyéb követelésként kell kimutatni a tagpénztárakkal szembeni követelések behajtásával, a felszámolási eljárással összefüggésben az Alapnál felmerült költségek, ráfordítások tagpénztárra továbbhárított összege miatt még fennálló követelés összegét.
+g) egyéb követelésként kell kimutatni a tagpénztárakkal szembeni követelések behajtásával, a felszámolási eljárással összefüggésben az Alapnál felmerült költségek, ráfordítások tagpénztárra továbbhárított összege miatt még fennálló követelés összegét;
+
+h)[^2] működési célra átadott pénzeszköz miatti követelésként kell kimutatni a felügyelet engedélyével, visszatérítési kötelezettség mellett működési célra rendelkezésre bocsátott összeget.
 
 (4) Pénztártagokkal, kedvezményezettekkel szembeni követelésként kell kimutatni a felszámolási eljárás, egyezségi tárgyalás során a pénztártagok Alap által történő jogi képviseletéért felszámított díjak garanciális bevételként elszámolt összegét.
 
@@ -25,3 +27,4 @@ g) egyéb követelésként kell kimutatni a tagpénztárakkal szembeni követel�
 (6) Egyéb követelésként kell kimutatni az Alap munkavállalóival, a költségvetéssel, a vagyonkezelő, illetve a letétkezelő vállalkozásokkal szemben fennálló követeléseket, továbbá az értékpapírok értékesítéséből származó és pénzügyileg nem rendezett követelések összegét.
 
 [^1]: A 8. § (3) bekezdésének d) pontját a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^2]: A 8. § (3) bekezdés h) pontját a 345/2010. (XII. 28.) Korm. rendelet 22. §-a iktatta be.

@@ -46,7 +46,7 @@
 
 ## c) Alapra átszállt befagyott követelések
 
-## d)[^8]
+## d)[^11]
 
 ## e) szolgáltatási tartalék kiegészítéséből eredő követelések
 
@@ -120,7 +120,7 @@
 
 ## Források összesen
 
-2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^9]
+2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^12]
 
 ## Az eredménykimutatás előírt tagolása
 
@@ -146,7 +146,11 @@ II. Egyéb bevételek
 
 07. Szolgáltatási tartalék kiegészítésével kapcsolatos ráfordítások
 
-08. Alapra átszállt követelések behajtásával kapcsolatos ráfordítások
+08. Egyéb garanciális ráfordítások
+
+Ebből: – Alapra átszállt követelések behajtásával kapcsolatos ráfordítások
+
+– társadalombiztosítási nyugdíjrendszerbe átlépő tagot a garanciális kifizetésekre fordítható pénzeszközből megillető összeg miatti ráfordítások
 
 III. Garanciális ráfordítások (04+05+06+07+08)
 
@@ -192,5 +196,5 @@ C. Rendkívüli eredmény (VIII–IX)
 
 D. Mérleg szerinti eredmény ( ± A ± B ± C)
 
-[^8]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^9]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.
+[^11]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^12]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
