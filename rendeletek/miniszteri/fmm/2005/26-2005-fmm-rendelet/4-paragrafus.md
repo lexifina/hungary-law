@@ -1,7 +1,10 @@
-4. §[^1] (1) Az akkreditációs díj összegét a kérelem benyújtása előtt kell megfizetni postai befizetéssel vagy átutalással a Foglalkoztatási és Szociális Hivatal 10032000- 01732630-00000000 számú számlájára.
+4. §[^2] (1)[^3] Az akkreditációs díj összegét a kérelem benyújtása előtt kell megfizetni postai befizetéssel vagy átutalással a Nemzeti Rehabilitációs és Szociális Hivatal 10032000-01493043-00000000 számú számlájára.
 
-(2) Az akkreditációs díj a Munkaerőpiaci Alapot illeti meg. A Foglalkoztatási és Szociális Hivatal a kérelmek alapján beazonosított bevételeket minden hónap utolsó napjával bezárólag összesíti, és a beazonosított összeget tárgyhót követő hó 10. napjáig átutalja a Munkaerőpiaci Alap 10032000-01857025-00000000 számú számlájára, valamint a jogalap nélkül befizetett díjat visszatéríti a befizető kérelmére.
+(2)[^4]
 
-(3) A Foglalkoztatási és Szociális Hivatal a számlájára beérkezett akkreditációs díj bevételekről elkülönített nyilvántartást köteles vezetni.
+(3)[^5] A Nemzeti Rehabilitációs és Szociális Hivatal a számlájára beérkezett akkreditációs díj bevételekről elkülönített nyilvántartást köteles vezetni.
 
-[^1]: A 4. § a 6/2009. (III. 12.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § a 6/2009. (III. 12.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (2) bekezdését a 27/2010. (XII. 31.) NGM rendelet 75. § i) pontja hatályon kívül helyezte.
+[^5]: A 4. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 47. § (2) bekezdés a) pontja szerint módosított szöveg.
