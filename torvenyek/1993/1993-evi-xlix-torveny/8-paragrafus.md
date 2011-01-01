@@ -1,4 +1,4 @@
-8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel együttesen kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
+8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
 
 (2) A biztonsági készletet a 41. § (3) bekezdése szerinti kőolaj- és kőolajtermék-ellátási válsághelyzetben vagy tüzelőanyag (tüzelőolaj, fűtőolaj, földgáz) ellátási nehézség, különösen földgázellátási válsághelyzet esetén a miniszter engedélye alapján szabad felhasználni.
 
