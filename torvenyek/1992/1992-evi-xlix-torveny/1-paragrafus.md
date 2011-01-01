@@ -6,11 +6,11 @@ b) a tulajdonviszonyok rendezése érdekében az állam által az állampolgáro
 
 c) az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény (a továbbiakban: Kpt. III.) alapján kárpótlásra jogosult 1992. október 30-ig
 
-bejelenti a megszerezni kívánt föld fekvése szerint illetékes helyi önkormányzat polgármesteri hivatalában az Országos Kárrendezési és Kárpótlási Hivatal által rendszeresített formanyomtatványon, az illetékes megyei (fővárosi) kárrendezési hivatal (a továbbiakban: hivatal) a kárpótlás iránti kérelmet soron kívül, de legkésőbb a kérelem benyújtásától számított 60 napon belül elbírálja. Az a jogosult tehet bejelentést, aki a megszerezni kívánt termőföld árverésén a Kpt. I. 21. §-ának (1) bekezdése szerint részt vehet.
+bejelenti a megszerezni kívánt föld fekvése szerint illetékes helyi önkormányzat polgármesteri hivatalában az arra rendszeresített formanyomtatványon, a kárpótlási hatóság a kárpótlás iránti kérelmet soron kívül, de legkésőbb a kérelem benyújtásától számított 60 napon belül elbírálja. Az a jogosult tehet bejelentést, aki a megszerezni kívánt termőföld árverésén a Kpt. I. 21. §-ának (1) bekezdése szerint részt vehet.
 
 (2) Az (1) bekezdés szerinti bejelentésnek a következő adatokat kell tartalmaznia:
 
-a) a hivatal megjelölését, ahova a jogosult a kárpótlás iránti kérelmét benyújtotta;
+a) a kárpótlási hatóság megjelölését, ahova a jogosult a kárpótlás iránti kérelmét benyújtotta;
 
 b) a kárpótlás iránti kérelem benyújtásához rendszeresített boríték sorszámát;
 
@@ -20,4 +20,4 @@ d) a megszerezni kívánt termőföld fekvése szerinti település megjelölés
 
 e) a kárpótlásra jogosult személyi adatait (név, leánykori név, névváltozást megelőző név, születési hely, idő, anyja neve) és lakcímét.
 
-(3) A hivatal a bejelentés alapján akkor bírálja el az (1) bekezdésben meghatározott határidőben a kárpótlás iránti kérelmet, ha a jogosult az őt megillető összes vagy legalább 100 000 forint értékű kárpótlási jegyért termőföldet kíván vásárolni, és a kérelem elbírálásához szükséges adatok rendelkezésre állnak.
+(3) A kárpótlási hatóság a bejelentés alapján akkor bírálja el az (1) bekezdésben meghatározott határidőben a kárpótlás iránti kérelmet, ha a jogosult az őt megillető összes vagy legalább 100 000 forint értékű kárpótlási jegyért termőföldet kíván vásárolni, és a kérelem elbírálásához szükséges adatok rendelkezésre állnak.

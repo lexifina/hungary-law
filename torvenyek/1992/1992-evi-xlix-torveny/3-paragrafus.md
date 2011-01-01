@@ -1,4 +1,4 @@
-3. § (1) Ha a jogosult a kérelmét az 1. § alapján elbírálják, az őt megillető kárpótlási jegy banki letétben marad. Az árverésen a hivatal jogerős határozatával és letéti igazolásával vesz részt.
+3. § (1) Ha a jogosult a kérelmét az 1. § alapján elbírálják, az őt megillető kárpótlási jegy banki letétben marad. Az árverésen a kárpótlási hatóság jogerős határozatával és letéti igazolásával vesz részt.
 
 (2) Ha a jogosult a bejelentésben meghatározott értékű kárpótlási jegyét termőföldvásárlásra használta fel, részére a fennmaradó összegnek megfelelő kárpótlási jegyet a kárpótlási jegy forgalmazására feljogosított pénzintézet kiadja.
 
