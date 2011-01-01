@@ -2,7 +2,7 @@
 
 (2) Ha a túlélő házastárs (özvegy) a részére megállapított egyösszegű kárpótlás összegét elérő címletértékű kárpótlási jegyet, kis összegű kárpótlást [Tv. 8. § (1) és (2) bekezdés] kapott, az egyösszegű kárpótlást teljesítettnek kell tekinteni. Ha az egyösszegű kárpótlást az előbb említettek nem érik el, a különbözetet ki kell fizetni.
 
-(3) Ha a túlélő házastárs a kárpótlási jegyeit az OKKH-nak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
+(3) Ha a túlélő házastárs a kárpótlási jegyeit a kárpótlási hatóságnak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
 
 (4) Az egyöszegű kárpótlást teljesítettnek kell tekinteni, ha a túlélő házastársnak (özvegynek) kárpótlásként életjáradékot állapítottak meg.
 
