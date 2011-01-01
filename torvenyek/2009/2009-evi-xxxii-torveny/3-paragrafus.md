@@ -1,3 +1,3 @@
 3. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2) E törvény végrehajtásához szükséges intézkedésekről az oktatásért és kultúráért felelős miniszter gondoskodik.
+(2) E törvény végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
