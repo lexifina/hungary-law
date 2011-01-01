@@ -2,9 +2,9 @@
 
 11. § (1) A ht. állomány tagja a súlyos anyagi megterheléssel járó családi vagy egyéb szociális körülményeire figyelemmel segélyben részesíthető.
 
-(2)[^8] Az állományilletékes parancsnok a rendelkezésre álló segélykeret terhére a ht. állomány tagjának esetenként legfeljebb az illetményalap 150%-ának megfelelő összegű segély folyósítását engedélyezheti.
+(2)[^9] Az állományilletékes parancsnok a rendelkezésre álló segélykeret terhére a ht. állomány tagjának esetenként legfeljebb az illetményalap 150%-ának megfelelő összegű segély folyósítását engedélyezheti.
 
-(3)[^9]
+(3)[^10]
 
-[^8]: A 11. § (2) bekezdése a 25/2002. (XII. 20.) IM rendelet 3. §-ával megállapított szöveg.
-[^9]: A 11. § (3) bekezdését a 25/2002. (XII. 20.) IM rendelet 9. §-a hatályon kívül helyezte.
+[^9]: A 11. § (2) bekezdése a 25/2002. (XII. 20.) IM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 11. § (3) bekezdését a 25/2002. (XII. 20.) IM rendelet 9. §-a hatályon kívül helyezte.

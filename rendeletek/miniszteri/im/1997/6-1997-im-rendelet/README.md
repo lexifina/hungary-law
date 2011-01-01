@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-6-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1997-6-20-06.7 | 6/1997. (III. 26.) IM rendelet |
+| 2011-01-01 | 1997-6-20-06.8 | 77/2009. (XII. 28.) IRM rendelet |

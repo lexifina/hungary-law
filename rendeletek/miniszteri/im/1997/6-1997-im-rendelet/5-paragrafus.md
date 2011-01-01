@@ -1,4 +1,4 @@
-## 3–4. §[^5]
+## 3–4. §[^6]
 
 ## III. Fejezet
 
@@ -12,7 +12,7 @@
 
 (4) A támogatás kizárólag a családi otthon kialakításával összefüggő berendezési és felszerelési tárgyak beszerzésére engedélyezhető, és a támogatás jogszerű felhasználása ellenőrizhető.
 
-(5)[^6] A támogatás folyósítását – legfeljebb négyéves időtartamú törlesztésre – az országos parancsnok engedélyezi, aki e jogkörét helyetteseire átruházhatja.
+(5)[^7] A támogatás folyósítását – legfeljebb négyéves időtartamú törlesztésre – az országos parancsnok engedélyezi, aki e jogkörét helyetteseire átruházhatja.
 
-[^5]: A 3–4. §-t a 77/2009. (XII. 28.) IRM rendelet 11. § (7) bekezdés a) pontja hatályon kívül helyezte.
-[^6]: Az 5. § (5) bekezdése a 18/1999. (XII. 17.) IM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3–4. §-t a 77/2009. (XII. 28.) IRM rendelet 11. § (7) bekezdés a) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (5) bekezdése a 18/1999. (XII. 17.) IM rendelet 2. §-ával megállapított szöveg.
