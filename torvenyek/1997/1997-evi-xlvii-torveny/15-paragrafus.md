@@ -35,3 +35,5 @@ g) trichinellosis (B75)
 h) tuberkulozis (A15-A19)
 
 i) tularaemia (A21).
+
+(8) A betegellátó a 4. § (2) bekezdésének b) pontja szerinti célból az egészségügyi államigazgatási szervnek továbbítja az oltandó személyek nevét és TAJ-számát az életkorhoz kötött oltáshoz szükséges oltóanyag igénylése során.

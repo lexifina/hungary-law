@@ -8,9 +8,9 @@ b) szabálysértési eljárás során az eljárást lefolytató szervek,
 
 c) hadköteles személy esetén az illetékes jegyző, a hadkiegészítő parancsnokság, illetve a katonai egészségügyi alkalmasságot megállapító bizottság,
 
-d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében.
+d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 
-e)
+e) a Magyar Honvédség központi adatfeldolgozó szerve, a kiképzett tartalékosok békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett tartalékosok gyors és differenciált behívása érdekében, a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott körben.
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 

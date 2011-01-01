@@ -150,6 +150,8 @@ A) Személyazonosító adatokkal együtt jelentendő:
 
 72. Chikungunya-láz
 
+73. tuberkulózis
+
 B) Személyazonosító adatok nélkül jelentendő:
 
 1. AIDS megbetegedés
@@ -172,7 +174,7 @@ B) Személyazonosító adatok nélkül jelentendő:
 
 10. szexuális úton terjedő, chlamydiák által okozott egyéb betegségek
 
-11. tuberkulozis
+11.
 
 12. ulcus molle, chancroid
 
