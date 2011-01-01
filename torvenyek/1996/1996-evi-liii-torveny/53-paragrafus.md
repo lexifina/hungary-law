@@ -42,6 +42,6 @@ c) természeti értékekre vonatkozó
 
 tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
-(5) A miniszter az Alapterv végrehajtása érdekében az agrárpolitikáért felelős miniszterrel és az infrastruktúráért felelős miniszterrel együtt jelöl ki ökológiai (zöld) folyosókat, és határozza meg az e területekre vonatkozó szabályokat. Az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat a miniszter az agrárpolitikáért felelős miniszterrel együtt határozza meg.
+(5) A miniszter az Alapterv végrehajtása érdekében az agrárpolitikáért felelős miniszter és a közlekedésért felelős miniszter egyetértésével kiadott rendeletben jelöl ki ökológiai (zöld) folyosókat, és határozza meg az e területekre vonatkozó szabályokat. Az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat a miniszter az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
 (6) Ökológiai (zöld) folyosóvá történő kijelölés tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.

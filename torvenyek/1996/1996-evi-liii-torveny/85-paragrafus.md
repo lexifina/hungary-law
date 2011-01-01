@@ -86,15 +86,15 @@
 
 30. az elkobzott védett természeti értékek felhasználását.
 
-(3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszterrel együttes rendeletben
+(3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 
 1. jelölje ki a természeti területeket,
 
 2. határozza meg az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszterrel és az infrastruktúráért felelős miniszterrel együttes rendeletben jelöljön ki ökológiai (zöld) folyosókat és meghatározza az e területekre vonatkozó szabályokat.
+(4) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter és a közlekedésért felelős miniszter egyetértésével kiadott rendeletben jelöljön ki ökológiai (zöld) folyosókat és meghatározza az e területekre vonatkozó szabályokat.
 
-(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza
+(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
 
 1. a nem halászható (horgászható) fajokat, a halászati (horgászati) tilalmakat és a fajok szerinti tilalmi időket;
 

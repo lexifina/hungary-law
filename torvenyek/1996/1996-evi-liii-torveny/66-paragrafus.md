@@ -22,7 +22,7 @@ c) nem felel meg a külön jogszabályban meghatározott feltételeknek.
 
 a) a polgári természetőrnek jelölt személy,
 
-b) a polgári természetőrnek megbízott személy – az igazgatóság vagy a települési önkormányzat írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a megbízott polgári természetőrön kívülálló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul –
+b) a polgári természetőrnek megbízott személy – az igazgatóság vagy a települési önkormányzat írásbeli felhívására, a felhívástól számított húsz napon belül, vagy ha e határidőn belül a megbízott polgári természetőrön kívülálló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul –
 
 az igazgatóság vagy a települési önkormányzat részére hatósági bizonyítvánnyal igazolja.
 
