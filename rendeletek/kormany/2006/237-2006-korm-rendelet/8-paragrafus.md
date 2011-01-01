@@ -24,7 +24,7 @@ f)[^26] nem vehető fel az a jelentkező, akinek az összpontszáma nem éri el 
 
 g) a felsőoktatási intézmény a felvételről vagy az elutasításról a jelentkezési határidőt követő 20. napig döntést hoz, melyről értesíti a jelentkezőt,
 
-h)[^27] a jelentkezésekről és a döntésekről a felsőoktatási intézmény a g) pontban meghatározott határidő leteltét követő harmadik munkanapig tájékoztatja a Hivatalt.
+h)[^27] a jelentkezésekről és a döntésekről a felsőoktatási intézmény a g) pontban meghatározott határidő leteltét követő ötödik napig tájékoztatja a Hivatalt.
 
 (4) A felsőoktatási intézmény szabályzatában a kizárólag külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében az (1) bekezdésben foglaltaktól eltérő határidőt is megállapíthat.
 
@@ -38,6 +38,6 @@ h)[^27] a jelentkezésekről és a döntésekről a felsőoktatási intézmény 
 [^24]: A 8. § (3) bekezdés c) pontja a 198/2008. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^25]: A 8. § (3) bekezdés e) pontját a 308/2008. (XII. 20.) Korm. rendelet 14. § (5) bekezdése hatályon kívül helyezte.
 [^26]: A 8. § (3) bekezdés f) pontja a 198/2008. (VIII. 4.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^27]: A 8. § (3) bekezdésének h) pontja a 372/2007. (XII. 23.) Korm. rendelet 30. § (4) bekezdése szerint módosított szöveg.
+[^27]: A 8. § (3) bekezdésének h) pontja a 372/2007. (XII. 23.) Korm. rendelet 30. § (4) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (80) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^28]: A 8. § (5) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 5. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^29]: A 8. § (6) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 5. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
