@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet a hagyományos és nagysebességű transzeurópai vasúti rendszerben a mozgáskorlátozott személyekkel kapcsolatos átjárhatóság műszaki előírásairól szóló 2007. december 21-i 2008/164/EK bizottsági határozatnak való megfelelést szolgálja.
 
-1. melléklet a 20/2010. (III. 12.) KHEM rendelethez
+1. melléklet a 20/2010. (III. 12.) KHEM rendelethez[^2]
 
 A hagyományos és nagysebességű transzeurópai vasúti rendszerben a mozgáskorlátozott személyekkel kapcsolatos kölcsönös átjárhatóság műszaki előírásairól
 
@@ -38,7 +38,7 @@ Az alrendszerekkel kapcsolatban bővebb tájékoztatás a 2. fejezetben találha
 
 Ezen ÁME területi hatálya a 2004/50/EK irányelvvel módosított 2001/16/EK irányelv I. mellékletében leírt hagyományos transzeurópai vasúti rendszer és a 2004/50/EK irányelvvel módosított 96/48/EK irányelv I. mellékletében leírt nagysebességű transzeurópai vasúti rendszer.
 
-Hivatkozás történik különösen a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban vagy annak a határozat 21. cikkében biztosított felülvizsgálatból eredő bármilyen módosításában – különösen a 2004. április 29-i 884/2004/EK európai parlamenti és a tanácsi határozatban – említett hagyományos és nagysebességű vasútvonalakra.
+Hivatkozás történik különösen a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanács határozat vagy annak a határozat 21. cikkében biztosított felülvizsgálatból eredő bármilyen módosításában – különösen a 2004. április 29-i 884/2004/EK európai parlamenti és a tanácsi határozatban – említett hagyományos és nagysebességű vasútvonalakra.
 
 1.3. Ezen ÁME tartalma
 
@@ -2928,7 +2928,7 @@ A felelős vasúti pályahálózat-működtető (vagy az állomás személyszál
 
 Az alábbi különleges esetekben a következő különös rendelkezések megengedettek.
 
-E különleges esetek két kategóriába tartoznak: a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók. Ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló, 1996. július 23-i 1692/96/EK európai parlamenti és tanácsi határozatban célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljenek meg a vonatkozó alrendszernek.
+E különleges esetek két kategóriába tartoznak: a rendelkezések vagy folyamatosan („P” eset), vagy ideiglenesen („T” eset) alkalmazandók. Ideiglenes esetekben ajánlatos, hogy az érintett tagállamok a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról szóló, 2010. július 7-i 661/2010/EU európai parlamenti és tanács határozat célként kitűzött 2010-ig („T1” eset), vagy 2020-ig („T2” eset) feleljenek meg a vonatkozó alrendszernek.
 
 7.4.1.1. *
 
@@ -5079,3 +5079,5 @@ N.8. A megkülönböztetett ülések jelzése
 | C0 M0 Y0 K0 | Pantone 274 EC (C100 M100 Y0 K38) |
 
 4. ábra
+
+[^2]: Az 1. melléklet a 30/2010. (XII. 23.) NFM rendelet 18. §-a szerint módosított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a 2011. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
