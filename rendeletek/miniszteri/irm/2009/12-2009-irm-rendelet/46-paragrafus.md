@@ -1,3 +1,0 @@
-46. § (1) A szolgálati elöljáró felelős beosztottai öltözködéséért. Ellenőrzi, hogy ruházatuk megfelel-e az adott szolgálati követelményeknek és a szervezeti egység jellegének. A szolgálati elöljáró megköveteli, hogy a ruházat mindig jó állapotú, tiszta és kulturált legyen.
-
-(2) Az egyenruházati termékek és felszerelési cikkek viselési változatairól szóló szabályozás megalkotásáról az országos rendőrfőkapitánynak, továbbá a berendelt állomány tekintetében – ott, ahol az egyenruházat viselését a fogadó szerv vezetője előírta – a fogadó szerv vezetőjének, e rendelet kiadását követő 90 napon belül kell intézkednie.
