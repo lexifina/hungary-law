@@ -8,7 +8,7 @@
 
 ## 1.2. székhelye:
 
-## 1.3.[^19] cégjegyzékszáma, illetve vállalkozói nyilvántartási száma:
+## 1.3.[^28] cégjegyzékszáma, illetve vállalkozói nyilvántartási száma:
 
 ## II. Telep adatai
 
@@ -50,4 +50,4 @@
 
 5. melléklet a 358/2008. (XII. 31.) Korm. rendelethez
 
-[^19]: A 4. melléklet I. pont 1.3. alpontja a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^28]: A 4. melléklet I. pont 1.3. alpontja a 211/2009. (IX. 29.) Korm. rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
