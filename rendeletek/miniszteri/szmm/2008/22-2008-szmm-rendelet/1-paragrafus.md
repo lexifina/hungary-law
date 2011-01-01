@@ -6,4 +6,6 @@ b) az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézetnél (a
 
 c) a Regionális Képző Központoknál (a továbbiakban: RKK), valamint
 
-d) a Szociálpolitikai és Munkaügyi Intézetnél (a továbbiakban: SZMI)
+d)[^1] a Nemzeti Család- és Szociálpolitikai Intézetnél (a továbbiakban: NCSSZI)
+
+[^1]: Az 1. § d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja szerint módosított szöveg.
