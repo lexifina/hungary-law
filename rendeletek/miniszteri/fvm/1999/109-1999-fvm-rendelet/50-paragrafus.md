@@ -82,9 +82,9 @@ a) a fegyveres testületek és a rendvédelmi szervek céljára állandóan igé
 
 b) azok a területek, amelyeknek gazdasági felhasználását nemzetközi megállapodás korlátozza,
 
-c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta.
+c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta,
 
-[d)[^95] honvédelmi, illetve rendészeti célból feleslegessé nyilvánított olyan terület, amelynek a szükséges környezetvédelmi, vegyvédelmi és tűzszerészeti mentesítése igazolt módon nem történt meg.]
+d)[^95] honvédelmi, illetve rendészeti célból feleslegessé nyilvánított olyan terület, amelynek a szükséges környezetvédelmi, vegyvédelmi és tűzszerészeti mentesítése igazolt módon nem történt meg.
 
 (7)[^96] A (6) bekezdésben felsorolt ingatlanok közül a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanokat, „Állami terület I.” a Belügyminisztérium vagyonkezelésében lévő ingatlanokat „Állami terület II.”, az Igazságügyi Minisztérium vagyonkezelésében lévő ingatlanokat „Állami terület III.” megnevezéssel művelés alól kivett területként kell nyilvántartani.
 
@@ -95,5 +95,5 @@ c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rend�
 [^92]: Az 50. § (4) bekezdésének a) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
 [^93]: Az 50. § (4) bekezdésének g) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
 [^94]: Az 50. § (5) bekezdésének e) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^95]: Az 50. § (6) bekezdés d) pontját a 48/2010. (IV. 27.) FVM rendelet 54. § (3) bekezdése iktatta be. [E módosító rendelet 99. § (2) bekezdése alapján a rendelkezés 2011. január 1-jén lép hatályba.]
+[^95]: Az 50. § (6) bekezdés d) pontját a 48/2010. (IV. 27.) FVM rendelet 54. § (3) bekezdése iktatta be.
 [^96]: Az 50. § (7) bekezdése a 117/2005. (XII. 19.) FVM rendelet 21. § (8) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
