@@ -135,3 +135,5 @@ c) a csereingatlanként kapott telekre épített,
 d) a bekerülési érték legalább hetven százalékában pénzbeli kártalanításból vagy járadékból vásárolt, illetve épített.
 
 (9) Ha jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló vagy a képzési kötelezettséget teljesítő fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
+
+(10) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet (közösség) egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.

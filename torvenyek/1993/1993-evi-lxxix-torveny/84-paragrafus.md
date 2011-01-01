@@ -2,7 +2,7 @@
 
 (2) Az iskolaszék és a diákönkormányzat, szülői szervezet (közösség) jogainak megsértése esetén jogainak megsértése esetén tizenöt napon belül a fenntartóhoz törvényességi kérelmet nyújthat be. A fenntartó döntése ellen — a (3) bekezdésben meghatározott kivétellel — az (1) bekezdésben foglaltak szerint a bírósághoz lehet fordulni.
 
-(3) Ha az (1)—(2) bekezdés szerinti döntést a fenntartó önkormányzat képviselő-testülete (közgyűlése) hozta, a közigazgatási hivatalnál törvényességi ellenőrzést lehet kezdeményezni.
+(3) Ha az (1)—(2) bekezdés szerinti döntést a fenntartó önkormányzat képviselő-testülete (közgyűlése) hozta, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnél törvényességi ellenőrzést lehet kezdeményezni.
 
 (4) A 83. § (8) bekezdésében és az (1)—(2) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a döntést megváltoztathatja. A bíróság az ügyet soron kívül bírálja el.
 
@@ -16,7 +16,7 @@
 
 (9) A semmisség megállapítását az kérheti, akit a döntés érint, ha pedig ez nem állapítható meg, bárki kérheti. A semmisség megállapítása határidő nélkül kezdeményezhető, feltéve, hogy a (8) bekezdésben meghatározott esetben a döntéshozóval folytatott előzetes egyeztető eljárás nem vezetett eredményre.
 
-(10) Ha a döntést helyi önkormányzat, illetve szervei hozták, a közigazgatási hivatal a helyi önkormányzatokról szóló törvény 98. §-a (2) bekezdésének a) pontja alapján a törvényességi ellenőrzési jogkörében állapíthatja meg a semmisség fennállását. Ha a közigazgatási hivatal eljárása nem vezetett eredményre, a döntést a helyi önkormányzatokról szóló törvény rendelkezései alapján megtámadhatja a bíróság előtt. A közigazgatási hivatal kérheti a bíróságtól a semmisség megállapítását és az e törvényben meghatározott jogkövetkezmények alkalmazását.
+(10) Ha a döntést helyi önkormányzat, illetve szervei hozták, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a helyi önkormányzatokról szóló törvény 98. §-a (2) bekezdésének a) pontja alapján a törvényességi ellenőrzési jogkörében állapíthatja meg a semmisség fennállását. Ha a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv eljárása nem vezetett eredményre, a döntést a helyi önkormányzatokról szóló törvény rendelkezései alapján megtámadhatja a bíróság előtt. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kérheti a bíróságtól a semmisség megállapítását és az e törvényben meghatározott jogkövetkezmények alkalmazását.
 
 (11) A semmisség megállapítására indított eljárásban a döntéshozónak kell bizonyítania, hogy nem áll fenn a semmisségi ok.
 

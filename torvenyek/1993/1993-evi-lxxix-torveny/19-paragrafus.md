@@ -32,7 +32,7 @@ k) az oktatási jogok biztosához forduljon.
 
 (5) Azt, akit munkaviszonyban, közalkalmazotti jogviszonyban pedagógus-munkakörben foglalkoztatnak, továbbá, akit pedagógus-munkakörből helyeztek nyugállományba, megilleti az a jog, hogy az állami szervek és a helyi önkormányzatok által fenntartott könyvtárakat, múzeumokat és más kiállító termeket jogszabályban meghatározott kedvezmények igénybevételével látogassa. E jogosultságot a munkáltató, illetve nyugdíjas esetén az utolsó munkáltató által kiállított okirattal kell igazolni. Az okirat felmutatásával igazolhatja a pedagógus azt is, hogy jogosult igénybe venni a pedagógusok részére jogszabály vagy helyi önkormányzat által biztosított más kedvezményeket. Az igazolvány közokirat. Az igazolvány-nyomtatvány előállításához és forgalmazásához az oktatásért felelős miniszter engedélye szükséges.
 
-(6) Azt, akit munkaviszonyban, közalkalmazotti jogviszonyban pedagógus munkakörben foglalkoztatnak, megilleti az a jog, hogy szakirodalom (könyv, tankönyv, jegyzet, folyóirat, elektronikus ismerethordozók stb.) vásárlásához, illetve a könyvtári beiratkozáshoz – jogszabályban meghatározottak szerint – évenként az éves költségvetési törvényben megállapított összegnek megfelelő hozzájárulást vegyen igénybe.
+(6)
 
 (7) A pedagógus alapvető feladata a rábízott gyermekek, tanulók nevelése, tanítása. Ezzel összefüggésben kötelessége különösen, hogy
 

@@ -42,7 +42,7 @@ A gyermekek, tanulók adatai
 
 1. E törvény alapján nyilvántartott adatok:
 
-a) gyermek, tanuló neve, születési helye és ideje, állampolgársága, lakóhelyének, tartózkodási helyének címe, telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma;
+a) a gyermek, tanuló neve, születési helye és ideje, állampolgársága, lakóhelyének, tartózkodási helyének címe, társadalombiztosítási azonosító jele, telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma;
 
 b) szülő neve, lakóhelye, tartózkodási helye, telefonszáma;
 
@@ -53,6 +53,8 @@ d) a tanulói jogviszonnyal kapcsolatos adatok
 — felvételivel kapcsolatos adatok,
 
 — a tanuló magatartásának, szorgalmának és tudásának értékelése és minősítése, vizsgaadatok,
+
+— a tanuló mulasztásával kapcsolatos adatok,
 
 — a tanulói fegyelmi és kártérítési ügyekkel kapcsolatos adatok,
 
@@ -143,8 +145,6 @@ A közoktatás információs rendszere
 6. A közoktatás információs rendszere tartalmazza a tanulói nyilvántartást. A tanulói nyilvántartás tartalmazza a tanuló nevét, születési helyét és idejét, azonosító számát, anyja nevét, lakóhelyét, tartózkodási helyét, állampolgárságát, diákigazolványának számát, valamint az érintett nevelési-oktatási intézmény adatait. A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
 7. A közoktatási információs rendszer a 6.6 pontban meghatározottakon túl tartalmazza továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához, kötelezettségek teljesítéséhez szükségesek, így a tanuló nemét, a fényképét, az igénybe vett szolgáltatást, az oktatás munkarendjét, a társadalombiztosítási azonosító jelét.
-
-[8. A közoktatás információs rendszerének kezelője a lakcímre is kiterjedő adatfelhasználás esetén a közoktatás információs rendszerébe bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha a közoktatás információs rendszerébe bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, a közoktatás információs rendszerének kezelője a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást a közoktatás információs rendszerében hivatalból átvezeti.]
 
 A pedagógusigazolvány
 

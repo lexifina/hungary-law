@@ -34,7 +34,7 @@ o) az egységes óvoda-bölcsőde létesítésének feltételeit, a létesítés
 
 a) a szakképzés tekintetében a szakképesítésért felelős miniszterrel,
 
-b) az egységes óvoda-bölcsőde tekintetében a szociális ellátásért felelős miniszterrel egyetértésben gyakorolja,
+b) az egységes óvoda-bölcsőde tekintetében a szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben gyakorolja,
 
 c) az (1) bekezdés f), j) és n)–o) pontja szerinti egyes szolgáltatásokkal összefüggő igazgatási szolgáltatási díj tekintetében az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 

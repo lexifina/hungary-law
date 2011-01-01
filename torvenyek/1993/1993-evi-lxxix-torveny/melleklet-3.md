@@ -29,5 +29,3 @@ M: Maximális létszám
 Óvoda
 
 Á:20 M:25
-
-Iskola

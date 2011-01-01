@@ -32,7 +32,7 @@ e) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, valam
 
 (7) A közoktatási megállapodást a helyben szokásos módon közzé kell tenni.
 
-(8) Az oktatásért felelős miniszter is köthet közoktatási megállapodást akkor, ha a közoktatási intézmény térségi vagy országos feladatot lát el, feltéve, hogy a közoktatási intézmény fenntartója – az (1) bekezdés e) pontja szerint – sikertelenül kezdeményezte a közoktatási megállapodás megkötését.
+(8) Az oktatásért felelős miniszter is köthet közoktatási megállapodást akkor, ha a közoktatási intézmény térségi vagy országos, vagy a pedagógiai programja szerint kiemelkedő jelentőségű feladatot lát el, feltéve, hogy a közoktatási intézmény fenntartója – az (1) bekezdés e) pontja szerint – sikertelenül kezdeményezte a közoktatási megállapodás megkötését.
 
 (9) Szakközépiskola vagy szakiskola esetén az oktatásért felelős miniszter a szakképesítésért felelős miniszterrel egyetértésben köthet közoktatási megállapodást.
 
