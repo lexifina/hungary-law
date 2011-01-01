@@ -20,8 +20,10 @@ a) a kérelmezőnek,
 
 b) az eljáró szakhatóságnak,
 
-c) az egészségbiztosítási szervnek.
+c)[^4] az Országos Egészségbiztosítási Pénztárnak.
 
 (3) Az engedélyező által kiállított határozat a vizsgálat megkezdésének feltétele.
 
 (4) Amennyiben az engedélyező a kérelmező által bejelentett III. osztályba tartozó, valamint a II.a, vagy II.b osztályba tartozó beültethető, tartós használatú invazív eszközökre vonatkozó klinikai vizsgálattal kapcsolatban az Eütv.-ben meghatározott határidőn belül nem hoz határozatot, a határidő lejártát követően a gyártó megkezdheti a vizsgálatot. A kérelmező az így megkezdett vizsgálatot az engedélyezőnek bejelenti, az engedélyező a vizsgálatot a 32. § (1) bekezdésének megfelelően nyilvántartásba veszi.
+
+[^4]: A 34. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 260. §-a szerint módosított szöveg.
