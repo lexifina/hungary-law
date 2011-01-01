@@ -1,4 +1,4 @@
-35. § (1)[^47] Az NSZFI ellenőrzési jogosultsága az Szht. 4– 4/F. §-ában foglaltakon túlmenően kiterjed
+35. § (1)[^48] Az NSZFI ellenőrzési jogosultsága az Szht. 4– 4/F. §-ában foglaltakon túlmenően kiterjed
 
 a) az Szht. 14. §-ában és 17. §-ában meghatározottak,
 
@@ -22,9 +22,9 @@ d) a 13–18. § szerinti fejlesztési támogatás nagyságrendje.
 
 (4) A (3) bekezdés d) pontja tekintetében a következőket kell figyelembe venni:
 
-a)[^48] a fejlesztési támogatásban részesített, és a támogatást felhasználó valamennyi TISZK, központi képzőhely, speciális és készségfejlesztő speciális szakképző iskola, és felsőoktatási intézmény ötévente legalább egy alkalommal ellenőrzésre kerüljön,
+a)[^49] a fejlesztési támogatásban részesített, és a támogatást felhasználó valamennyi TISZK, központi képzőhely, speciális és készségfejlesztő speciális szakképző iskola, és felsőoktatási intézmény ötévente legalább egy alkalommal ellenőrzésre kerüljön,
 
 b) ha a fejlesztési támogatásban részesített az Szht. 7. § (4) bekezdésében meghatározottnál magasabb mértékű fejlesztési támogatást fogadott, vagy a fejlesztési támogatást nem jogszerűen használta, akkor a fejlesztési támogatás felhasználását a jogszabálysértést megállapító ellenőrzés időpontját követő két éven belül az NSZFI ismételten ellenőrzi.
 
-[^47]: A 35. § (1) bekezdése a 3/2010. (II. 18.) SZMM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^48]: A 35. § (4) bekezdés a) pontja a 3/2010. (II. 18.) SZMM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^48]: A 35. § (1) bekezdése a 3/2010. (II. 18.) SZMM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^49]: A 35. § (4) bekezdés a) pontja a 3/2010. (II. 18.) SZMM rendelet 14. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-28. § (1) Az alaprész decentralizált kerete terhére kiírt pályázatokat a regionális fejlesztési és képzési bizottság (a továbbiakban: Bizottság) értékeli, és dönt a támogatások odaítéléséről. A pályázatok előminősítését a Bizottság által felkért tagokból álló szakértői bizottság végzi. A pályázatok bírálatába be kell vonni az NSZFI és az Oktatási Hivatal képviselőjét.
+28. § (1)[^40] Az alaprész decentralizált kerete terhére kiírt pályázatokat a regionális fejlesztési és képzési bizottság (a továbbiakban: Bizottság) értékeli, és dönt a támogatások odaítéléséről. A pályázatok előminősítését a Bizottság által felkért tagokból álló szakértői bizottság végzi. A pályázatok bírálatába be kell vonni az NSZFI és az munkaügyi központ képviselőjét.
 
 (2) A pályázat elbírálásának és értékelésének folyamatában nem vehet részt,
 
@@ -11,3 +11,5 @@ c) aki a pályázó fenntartójával munkaviszonyban vagy munkavégzésre irány
 d) akitől a tárgyilagos elbírálás egyéb okból nem várható el.
 
 (3) A Bizottság tagja köteles haladéktalanul bejelenteni, ha vele szemben a (2) bekezdésben meghatározott ok fennáll. A tag a bejelentéstől kezdve nem vehet részt a pályázat értékelésében és elbírálásában.
+
+[^40]: A 28. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 63. § (2) bekezdése szerint módosított szöveg.

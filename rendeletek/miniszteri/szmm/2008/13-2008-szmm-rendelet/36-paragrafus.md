@@ -1,6 +1,6 @@
 36. § (1) Az NSZFI a 35. § (1) bekezdése szerinti ellenőrzés során vizsgálatot tarthat, okiratokat és más dokumentációt kérhet, azokról másolatot, kivonatot készíthet, az adott intézmény, illetve szervezet bármely dolgozójától szóban vagy írásban felvilágosítást kérhet.
 
-(2)[^49] Az ellenőrzésre kijelölt, az Szt. 2. § (5) bekezdés a) pontjában meghatározott társulás, illetve nonprofit gazdasági társaság, az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója, az Szt. 2. § (5) bekezdés d) pontjában meghatározott szakképzés-szervezési társaság, a TISZK részét képező iskolai rendszerű szakképzést folytató szakképző iskola, központi képzőhely, a speciális, a készségfejlesztő speciális szakképző iskola, illetve a felsőoktatási intézmény, valamint a képzési alaprészből támogatásban részesített (a továbbiakban együttesen: ellenőrzésre kijelölt) köteles
+(2)[^50] Az ellenőrzésre kijelölt, az Szt. 2. § (5) bekezdés a) pontjában meghatározott társulás, illetve nonprofit gazdasági társaság, az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója, az Szt. 2. § (5) bekezdés d) pontjában meghatározott szakképzés-szervezési társaság, a TISZK részét képező iskolai rendszerű szakképzést folytató szakképző iskola, központi képzőhely, a speciális, a készségfejlesztő speciális szakképző iskola, illetve a felsőoktatási intézmény, valamint a képzési alaprészből támogatásban részesített (a továbbiakban együttesen: ellenőrzésre kijelölt) köteles
 
 a) az NSZFI megkeresésének soron kívül eleget tenni,
 
@@ -20,4 +20,4 @@ d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket m
 
 (7) Az ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NSZFI a szakképzésért felelős minisztert, valamint az oktatásért felelős minisztert legkésőbb a tárgyévet követő év február hó 28. napjáig összefoglaló jelentésben tájékoztatja.
 
-[^49]: A 36. § (2) bekezdés bevezető szövegrésze a 3/2010. (II. 18.) SZMM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^50]: A 36. § (2) bekezdés bevezető szövegrésze a 3/2010. (II. 18.) SZMM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.

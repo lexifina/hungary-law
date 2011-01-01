@@ -14,10 +14,10 @@ c) a szakképzési hozzájárulásról és a képzés fejlesztésének támogat�
 
 (4) A 32–33. § és a 32. §-t megelőző alcím 2008. szeptember 1-jén hatályát veszti azzal, hogy rendelkezéseit a szak- és felnőttképzést érintő reformprogram végrehajtásához szükséges törvények módosításáról szóló 2007. évi CII. törvény 42. § (8) bekezdés b) pontjában meghatározott tanulószerződéssel rendelkező szakképző iskolai tanuló gyakorlati képzéséhez nyújtható támogatásokra továbbra is alkalmazni kell.
 
-(5)[^50] A szakképző intézménynek a 2008. szeptember 1-jéig fogadott fejlesztési támogatásokról a 17. § (7) bekezdésének megfelelően adatot kell szolgáltatnia.
+(5)[^51] A szakképző intézménynek a 2008. szeptember 1-jéig fogadott fejlesztési támogatásokról a 17. § (7) bekezdésének megfelelően adatot kell szolgáltatnia.
 
 (6) A 2008. szeptember 1-jéig a szakképző intézmény által fogadott fejlesztési támogatást 2009. december 31-ig fel kell használni. A fel nem használt összeget a szakképző intézménynek legkésőbb 2010. január 30-ig be kell fizetni az EFK számlára.
 
 (7) A 2008. szeptember 1. után – a speciális, a készségfejlesztő speciális szakképző iskola, a központi képzőhely, illetve a felsőoktatási intézmény kivételével – a szakképző intézményhez befolyt fejlesztési támogatási összeget haladéktalanul be kell fizetni az EFK számlára.
 
-[^50]: A 38. § (5) bekezdése e rendelet 38. § (2) bekezdése alapján 2008. szeptember 1-jén lépett hatályba.
+[^51]: A 38. § (5) bekezdése e rendelet 38. § (2) bekezdése alapján 2008. szeptember 1-jén lépett hatályba.

@@ -2,7 +2,7 @@
 
 a) központi kerete terhére történő kiírás esetében – ide nem értve az Szht. 10. § (1) bekezdés a) pontjában meghatározott célt – az NSZFI-hez vagy a pályázati felhívásban meghatározott szervezethez,
 
-b)[^39] kizárólag decentralizált kerete terhére történő kiírás esetében az Oktatási Hivatal területileg illetékes regionális igazgatóságához kell benyújtani azzal, hogy az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója az intézmény székhelye szerint illetékes regionális igazgatósághoz nyújthat be pályázatot.
+b)[^39] kizárólag decentralizált kerete terhére történő kiírás esetében,fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) kell benyújtani azzal, hogy az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója az intézmény székhelye szerint illetékes a munkaügyi központhoz nyújthat be pályázatot.
 
 (2) A pályázati kiírás tartalmazza
 
@@ -80,4 +80,4 @@ d) a speciális, a készségfejlesztő speciális szakképző iskola, illetve a 
 
 e) ha a pályázati kiírás tartalmazza, az aláírásra jogosult vezető által aláírt egyéb kötelezettséget vállaló nyilatkozatot.
 
-[^39]: A 27. § (1) bekezdés b) pontja a 3/2010. (II. 18.) SZMM rendelet 11. §-ával megállapított szöveg.
+[^39]: A 27. § (1) bekezdés b) pontja a 3/2010. (II. 18.) SZMM rendelet 11. §-ával megállapított, a 27/2010. (XII. 31.) NGM rendelet 63. § (1) bekezdése szerint módosított szöveg.
