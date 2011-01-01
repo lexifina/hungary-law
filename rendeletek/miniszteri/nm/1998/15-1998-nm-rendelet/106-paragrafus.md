@@ -6,16 +6,16 @@
 
 a) a gyámhivatalt,
 
-b)[^195] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
+b)[^227] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
 
 c) a gyermek gyámját, illetve vagyonkezelő gondnokát,
 
 d) a szülő lakóhelye szerinti gyermekjóléti szolgálatot,
 
-e)[^196] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+e)[^228] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
 
-(3)[^197] A Gyvt. 66/E. §-a (1) bekezdésének d) pontjában foglalt esetben a jogviszony megszűnéséről a működtető írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, aki a változást feltünteti a férőhely-nyilvántartásban.
+(3)[^229] A Gyvt. 66/E. §-a (1) bekezdésének d) pontjában foglalt esetben a jogviszony megszűnéséről a működtető írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, aki a változást feltünteti a férőhely-nyilvántartásban.
 
-[^195]: A 106. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^196]: A 106. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^197]: A 106. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 18. pontja szerint módosított szöveg.
+[^227]: A 106. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
+[^228]: A 106. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
+[^229]: A 106. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 18. pontja szerint módosított szöveg.

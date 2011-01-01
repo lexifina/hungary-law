@@ -1,4 +1,4 @@
-22/B. §[^57] (1) A gyermekjóléti szolgálat a családi pótlék természetbeni formában történő nyújtásának időtartama alatt együttműködik a kirendelt eseti gondnokkal, amelynek keretében tájékoztatják egymást a gyermek elhanyagolásból származó veszélyeztetettségének alakulásáról, az ennek megszüntetése érdekében tett intézkedésekről és a természetbeni formában nyújtott családi pótlék felhasználásának tapasztalatairól.
+22/B. §[^71] (1) A gyermekjóléti szolgálat a családi pótlék természetbeni formában történő nyújtásának időtartama alatt együttműködik a kirendelt eseti gondnokkal, amelynek keretében tájékoztatják egymást a gyermek elhanyagolásból származó veszélyeztetettségének alakulásáról, az ennek megszüntetése érdekében tett intézkedésekről és a természetbeni formában nyújtott családi pótlék felhasználásának tapasztalatairól.
 
 (2) A gyermekjóléti szolgálat figyelemmel kíséri a családi pótlék természetbeni formában történő nyújtásáról szóló határozatban foglalt rendelkezések megvalósulását és szükség esetén kezdeményezi a jegyzőnél a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát.
 
@@ -8,4 +8,4 @@
 
 (5) A gyermekjóléti szolgálat részt vesz a családi pótlék természetbeni formában történő nyújtásának felülvizsgálata iránti eljárás során tartott jegyzői tárgyaláson.
 
-[^57]: A 22/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 5. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.
+[^71]: A 22/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 5. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.

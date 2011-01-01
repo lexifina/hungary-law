@@ -1,8 +1,22 @@
 ## 152. § Ha a szakszolgálat azt tapasztalja, hogy a gyám a kötelességeit nem teljesíti, vagy nem megfelelően teljesíti, javaslatot tehet a gyámhivatalnak a gyámi jogkör korlátozására, illetve a gyám felmentésére vagy elmozdítására.
 
-## Családgondozás, utógondozás
+## Kapcsolattartás, családgondozás, utógondozás[^331]
 
-153. § (1)[^295] Amennyiben a gondozott gyermek gondozási helye nem gyermekotthonban, illetve nem nevelőszülőnél van, a gyermekvédelmi szakszolgálat családgondozója a személyes segítő munka során
+153. §[^332] (1) A szakszolgálat a nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+
+a) a gyermek gyámját, gondozóját segíti a kapcsolattartás során felmerülő problémák megoldásában,
+
+b) a gyermeket segíti a kapcsolattartással összefüggő problémái megoldásában, szükség esetén pszichológus bevonásával,
+
+c) felügyelt kapcsolattartás esetén,
+
+ca) a kapcsolattartás kulturált és zavartalan lebonyolításához helyszínt és a felügyeletet ellátó szakembert biztosít, így különösen gondoskodik a családgondozó, a gyámi gondozói tanácsadó, a hivatásos gyám jelenlétéről,
+
+cb) ha a kapcsolattartásra nem a gyermek gondozásának helyén kerül sor, a 8. számú melléklet szerinti kapcsolattartási naplót vezeti,
+
+d) a kapcsolattartásról, a szülő-gyermek kapcsolat alakulásáról – a nevelésbe vétel felülvizsgálata érdekében végzett helyzetértékelés keretében, indokolt esetben soron kívül – tájékoztatja a gyámhivatalt.
+
+(2) Ha a gondozott gyermeket nem gyermekotthonban vagy nevelőszülőnél helyezték el, a szakszolgálat családgondozója a személyes segítő munka során
 
 a) segíti a gyermeket a családi, lakóhelyi és iskolai környezetbe történő visszailleszkedésben,
 
@@ -10,12 +24,11 @@ b) közreműködik a gyermek és szülei kapcsolatának rendezésében,
 
 c) segíti a gyermeket (fiatal felnőttet) önálló életvitelének kialakításában.
 
-(2) Az (1) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi szakszolgálat családgondozója és a gyermekjóléti szolgálat együttműködnek.
+(3) A (2) bekezdés szerinti feladatok teljesítése során a szakszolgálat családgondozója és a gyermekjóléti szolgálat együttműködnek.
 
-(3)[^296] A szakszolgálat utógondozója a gyámhivatal kirendelése alapján ellátja a fiatal felnőtt utógondozását.
+(4) A szakszolgálat utógondozója a gyámhivatal kirendelése alapján ellátja a fiatal felnőtt utógondozását.
 
-(4)[^297] Ha a szakszolgálat az utógondozó ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadóak.
+(5) Ha a szakszolgálat az utógondozói ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadóak.
 
-[^295]: A 153. § (1) bekezdésének felvezető szövege a 46/2003. (VIII. 8.) ESZCSM rendelet 91. § (1) bekezdésével megállapított szöveg.
-[^296]: A 153. § (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 91. § (2) bekezdése iktatta be.
-[^297]: A 153. § (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 91. § (2) bekezdése iktatta be.
+[^331]: A 153. §-t megelőző alcím a 28/2010. (XII. 30.) NEFMI rendelet 21. §-ával megállapított szöveg.
+[^332]: A 153. § a 28/2010. (XII. 30.) NEFMI rendelet 22. §-ával megállapított szöveg.

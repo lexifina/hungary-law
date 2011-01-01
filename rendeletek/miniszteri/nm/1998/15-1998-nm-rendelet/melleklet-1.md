@@ -1,16 +1,16 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^314]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^349]
 
 ## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-| Ellátás | Munkakör/fő |  |
+| Ellátás | Munkakör/fő |
 
 | 1. | Gyermekjóléti szolgáltatás |  |  |
 
 | a) | Gyermekjóléti szolgáltatási körzet (700 fő gyermek) | családgondozó 1 fő |
 
-|  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
+|  |  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
 
 | b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó* (általános gyermekjóléti szolgáltatások) 3 fő |
 
@@ -58,15 +58,15 @@ I. Alapellátások
 
 | 2. Bölcsődei ellátás |  |  |
 
-| Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag fogyatékosokat ellátó csoportban max. 6 fő) | gondozó/szakgondozó orvos | 2 fő havi 4 óra |
+| Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag fogyatékosokat ellátó csoportban max. 6 fő) | kisgyermeknevelő orvos | 2 fő havi 4 óra |
 
 | Bölcsődénként | intézményvezető/szakmai vezető | 1 fő |
 
 |  | gazdasági vezető, élelmezésvezető, tejkonyhavezető (létszámuk fenntartói döntés alapján kerül meghatározásra) | 1 fő |
 
-|  | 5 vagy több gyermekcsoport esetén további gondozó/szakgondozó | 2 fő |
+|  | 5 vagy több gyermekcsoport esetén további kisgyermeknevelő | 2 fő |
 
-|  | hetes bölcsődében éjszakai szolgálatot teljesítő gondozó | 2 fő |
+|  | hetes bölcsődében éjszakai szolgálatot teljesítő kisgyermeknevelő | 2 fő |
 
 | fogyatékos gyermekeket is ellátó bölcsődében | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
 
@@ -74,7 +74,7 @@ I. Alapellátások
 
 | regionális módszertani bölcsődében | szaktanácsadó | 3 fő |
 
-| 3. Családi napközi az ellátható gyermekek száma a jogszabályban meghatározottak szerint | családi napközi szolgáltatást nyújtó személy a) családi napközit működtetők felkészítő tanfolyamával rendelkező személy vagy b) családi napközit működtetők felkészítő tanfolyamán túl egyéb szakképesítéssel rendelkező, a fenntartó döntése alapján egyéb munkakörben foglalkoztatott nevelő vagy szakgondozó vagy gondozó vagy segédgondozó |  |
+| 3. Családi napközi az ellátható gyermekek száma a jogszabályban meghatározottak szerint | családi napközi szolgáltatást nyújtó személy a) családi napközit működtetők felkészítő tanfolyamával rendelkező személy vagy b) családi napközit működtetők felkészítő tanfolyamán túl egyéb szakképesítéssel rendelkező, a fenntartó döntése alapján egyéb munkakörben foglalkoztatott nevelő, vagy kisgyermeknevelő, vagy segédgondozó |  |
 
 | Családi napközi hálózat | családi napközis koordinátor (létszáma fenntartói döntés alapján kerül megállapításra) |  |
 
@@ -126,4 +126,4 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^314]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^349]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.

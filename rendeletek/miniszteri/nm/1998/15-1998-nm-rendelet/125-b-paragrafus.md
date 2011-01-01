@@ -1,6 +1,6 @@
-## A családi pótlék felhasználása[^224]
+## A családi pótlék felhasználása[^256]
 
-125/B. §[^225] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. §-a (7) bekezdése szerinti, személyre szóló felhasználásáról.
+125/B. §[^257] (1) A gyermekotthon vezetője gondoskodik a gyermekotthonban elhelyezett gyermek családi pótlékának a Gyvt. 53. §-a (7) bekezdése szerinti, személyre szóló felhasználásáról.
 
 (2) A gyermekotthon vezetője vagy a közös igazgatású intézmény vezetője kezdeményezi a fenntartónál vagy a gyermekotthon gazdálkodásáért felelős szervnél, hogy intézkedjen azon letéti számla megnyitásának engedélyezése felől, amelyre a családi pótlékot folyósító szerv a családi pótlék összegének a gyermek teljes körű ellátásának kiegészítésére biztosított részét folyósítja (a továbbiakban: családi pótlék letéti számla).
 
@@ -24,7 +24,13 @@ b) a 7. számú melléklet szerinti kimutatást vezet a családi pótlék szemé
 
 c) – a (7) bekezdésben meghatározott kivételekkel – bizonylattal számol el – ideértve a csoportos számlát is – a családi pótlék felhasznált összegéről,
 
-d) a gyermek gondozási helyének megváltozása esetén gondoskodik a letéti számlán a gyermek tekintetében összegyűlt családi pótléknak az új gondozási helyként kijelölt gyermekotthon, illetve szociális bentlakásos intézmény családi pótlék letéti számlájára utalásáról vagy a nevelőszülőnek történő kifizetéséről,
+d)[^258] gondoskodik a letéti számlán a gyermek tekintetében összegyűlt családi pótléknak
+
+da) a gyermek gondozási helyének megváltozása esetén az új gondozási helyként kijelölt gyermekotthon, illetve bentlakásos szociális intézmény családi pótlék letéti számlájára utalásáról vagy a nevelőszülőnek történő kifizetéséről,
+
+db) a gyermek átmeneti vagy tartós nevelésbe vételének megszüntetése esetén a törvényes képviselőnek történő kifizetéséről,
+
+dc) a gyermek nevelésbe vételének megszűnésekor, örökbefogadás esetén az örökbe fogadó szülőnek, nagykorúvá válás esetén a fiatal felnőttnek, a bíróság gyermekelhelyezésre vonatkozó döntése szerint a külön élő másik szülőnek vagy harmadik személynek, illetve a gyámhivatal családba fogadáshoz történő hozzájárulásról szóló döntése szerint a családba fogadó személynek történő kifizetéséről.
 
 e) beszámolót készít a gyermek családi pótléka személyre szóló felhasználásáról, amelyhez csatolja a 7. számú melléklet szerinti kimutatás másolatát és ezeket megküldi,
 
@@ -42,5 +48,6 @@ b) a családi pótléknak az öregségi nyugdíj mindenkori legkisebb összegén
 
 (9) A gyámi, gondozói tanácsadó és a gyermekotthon fenntartója ellenőrizheti a családi pótlék személyre szóló felhasználását.
 
-[^224]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
-[^225]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.
+[^256]: A 125/B. §-t megelőző alcmíet a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be.
+[^257]: A 125/B. §-t a 31/2009. (XII. 22.) SZMM rendelet 16. §-a iktatta be; alkalmazására lásd e módosító rendelet 19. § (3)–(5) bekezdését.
+[^258]: A 125/B. § (6) bekezdés d) pontja a 28/2010. (XII. 30.) NEFMI rendelet 16. §-ával megállapított szöveg.

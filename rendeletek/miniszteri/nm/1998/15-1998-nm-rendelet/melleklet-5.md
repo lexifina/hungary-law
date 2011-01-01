@@ -50,7 +50,7 @@
 
 ## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^318]
+5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^353]
 
 ## ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL – TÁVOZÁS
 
@@ -110,4 +110,4 @@
 
 A távozást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-[^318]: Az 5. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^353]: Az 5. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.

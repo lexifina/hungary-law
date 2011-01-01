@@ -1,23 +1,17 @@
-147. § (1) A szakszolgálat feladata a nyilvántartásában szereplő örökbeadható gyermekek számára, a nyilvántartásában szereplő örökbefogadni szándékozók közül – a nyilvántartási sorrend figyelembevételével – a legmegfelelőbb örökbefogadó szülő kiválasztása.
+147. §[^319] (1) A szakszolgálat a gyermek örökbe fogadhatónak nyilvánításáról, illetve tartós nevelésbe vételéről szóló határozat jogerőre emelkedéséig beszerzi a gyermeket vizsgáló szakemberektől, szervektől a gyermek egészségi és személyiségállapotára, valamint a gyermeket gondozó személyektől, szervektől a gyermek családi hátterére vonatkozó korábbi és jelenlegi szakvéleményeket, egyéb dokumentumokat.
 
-(2) Ha a nyilvántartásokban találnak olyan gyermeket, illetve örökbefogadásra várót, akik között az adatok alapján várhatóan megfelelő szülő–gyermek kapcsolat alakulhat ki, a szakszolgálat a gyermek gondozójának, valamint törvényes képviselőjének a bevonásával dönt a személyes kapcsolat felvételének a lehetőségéről, és erről értesíti az örökbefogadni szándékozó személyt.
+(2) A szakszolgálat a gyermek örökbe fogadhatónak nyilvánításáról, illetve tartós nevelésbe vételéről szóló határozat jogerőre emelkedését követően haladéktalanul kiválasztja a nyilvántartásában szereplő örökbe adható gyermek számára a nyilvántartásában szereplő örökbe fogadni szándékozó személyek közül – a nyilvántartási sorrend figyelembevételével – a legmegfelelőbbnek látszó örökbe fogadó szülőt.
 
-(3) Amennyiben az örökbefogadni szándékozó személy a szakszolgálat által a kiválasztott gyermekről nyújtott részletes tájékoztatás alapján találkozni kíván a gyermekkel, a szakszolgálat munkatársa megszervezi a kérelmezőnek a gyermekkel való személyes találkozását. A látogatás időpontjáról a gyermek törvényes képviselőjét értesíteni kell.
+(3) Ha a nyilvántartásban talál a gyermek számára olyan örökbe fogadni szándékozó személyt, akivel a rendelkezésre álló adatok, információk alapján várhatóan megfelelő szülő-gyermek kapcsolat alakulhat ki, a szakszolgálat a gyermek gondozójának, valamint törvényes képviselőjének a bevonásával dönt a személyes kapcsolat felvételének lehetőségéről, és erről értesíti az örökbe fogadni szándékozó személyt. A szakszolgálat ezzel egyidejűleg felkészíti a gyermeket gondozó intézményt, illetve személyt az örökbefogadás elősegítésére, támogatására.
 
-(4) A kérelmező további tájékoztatást kérhet a gyermekről az őt gondozó személytől, majd megtekintheti a gyermeket, de a gyermek nem tudhat arról, hogy a kérelmező őt örökbefogadási céllal látogatja meg.
+(4) A szakszolgálat a gyermek egészségi és személyiségállapotára, valamint a családi hátterére vonatkozó dokumentumokban foglaltakról – a vér szerinti szülő személyazonosító adatainak feltárása nélkül – tájékoztatja a gyermek számára kiválasztott örökbe fogadni szándékozó személyt. A tájékoztatást követően a szakszolgálat az örökbe fogadni szándékozó személy kérelmére fényképet, illetve videofelvételt mutat a gyermekről.
 
-(5) Amennyiben a kérelmező a megismerkedés alapján további kapcsolatot szeretne kialakítani a gyermekkel, a szakszolgálat, a gondozó intézmény (személy) és a törvényes képviselő által megállapított gyakorisággal, a közösen megbeszélt időpontokban felkeresheti a gyermeket.
+(5) Az örökbe fogadni szándékozó személy a gyermeket gondozó személytől további tájékoztatást kérhet a gyermekről, valamint megtekintheti a gyermeket. A gyermek nem tudhat arról, hogy az örökbe fogadni szándékozó személy őt örökbefogadási céllal tekinti meg.
 
-(6) A személyes kapcsolatfelvételtől számított 30 napon belül a szakszolgálat – a gyermek gondozója, illetve törvényes képviselője bevonásával – kialakítja álláspontját arra vonatkozóan, hogy javasolja-e a gyámhivatal felé a gyermeknek a kérelmező gondozásába történő kihelyezését, és erről a kérelmezőt tájékoztatja.
+(6) Ha az örökbe fogadni szándékozó személy az (5) bekezdés szerinti megtekintés alapján további kapcsolatot szeretne kialakítani a gyermekkel, a szakszolgálat, a gyermeket gondozó intézmény, illetve személy és a gyermek törvényes képviselője által megállapított gyakorisággal, a közösen megbeszélt időpontokban felkeresheti a gyermeket. A szakszolgálat az örökbe fogadni szándékozó személynek a gyermekkel történő személyes találkozásait – meghatározva azok gyakoriságát és időtartamát – a gyermek életkorához és személyiségállapotához igazodóan, elsősorban a gondozási helyén, a fokozatosság figyelembevételével szervezi meg.
 
-(7)[^285] A szakszolgálat az örökbefogadni szándékozó kérelmére a javaslatot, a gyámhivatal által bekért igazolásokkal és szakvéleményekkel, valamint az ítélőképessége birtokában levő gyermek meghallgatásáról készült jegyzőkönyvvel együtt megküldi a gyámhivatal részére [Gyer. 45. § (8) bekezdés].
+(7) A személyes kapcsolatfelvételtől számított harminc napon belül a szakszolgálat – a gyermek gondozója, illetve törvényes képviselője bevonásával – kialakítja álláspontját arra vonatkozóan, hogy javasolja-e a gyámhivatal felé a gyermeknek az örökbe fogadni szándékozó személy gondozásába történő kihelyezését, és erről az örökbe fogadni szándékozó személyt tájékoztatja.
 
-(8)[^286] A gondozásba történt kihelyezésről a szakszolgálat értesíti az Intézetet.
+(8) A szakszolgálat az örökbe fogadni szándékozó személy kérelmére a (7) bekezdés szerinti javaslatot az (1) bekezdés szerinti dokumentumokkal együtt megküldi a gyámhivatal részére.
 
-(9) A szakszolgálat a gyámhivatal felkérésére figyelemmel kíséri a kihelyezett gyermek gondozását, a szülő–gyermek kapcsolat alakulását, a gyermek családba történő beilleszkedését, és a gyámhivatal által kitűzött határidőre megküldi az örökbefogadásra vonatkozó javaslatát.
-
-(10)[^287] A szakszolgálat törli az örökbefogadható gyermekek nyilvántartásából azt a gyermeket, akinek az örökbefogadását a gyámhivatal jogerős határozattal engedélyezte, és erről az Intézetet is értesíti.
-
-[^285]: A 147. § (7) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 28. pontja szerint módosított szöveg.
-[^286]: A 147. § (8) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 26. pontja és a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bd) alpontja szerint módosított szöveg.
-[^287]: A 147. § (10) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 26. pontja és a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bd) alpontja szerint módosított szöveg.
+[^319]: A 147. § a 28/2010. (XII. 30.) NEFMI rendelet 18. §-ával megállapított szöveg.

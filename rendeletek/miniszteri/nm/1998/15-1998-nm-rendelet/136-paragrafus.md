@@ -14,13 +14,13 @@ d) az örökbefogadás szakmai előkészítésével,
 
 e) a gondozott gyermek gondozásával,
 
-f)[^253] egyes nevelésbe vett gyermek gyámságával, gondnokságával, a Gyvt. 80. §-ának (3) bekezdése szerinti hivatásos gyámsággal,
+f)[^286] egyes nevelésbe vett gyermek gyámságával, gondnokságával, a Gyvt. 80. §-ának (3) bekezdése szerinti hivatásos gyámsággal,
 
 g) a szaktanácsadással,
 
 h) a nyilvántartással,
 
-i)[^254] a megyei bizottság működtetésével
+i)[^287] a megyei bizottság működtetésével
 
-[^253]: A 136. § f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-ával megállapított szöveg.
-[^254]: A 136. § i) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-a iktatta be.
+[^286]: A 136. § f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-ával megállapított szöveg.
+[^287]: A 136. § i) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-a iktatta be.

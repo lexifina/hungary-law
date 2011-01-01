@@ -22,7 +22,7 @@ b) amennyiben 2004. január 1-jével vagy azt követően kap, illetve kapott mag
 
 ## köteles a szociális szakvizsgát letenni. E határidőt követően szociális szakvizsgával nem rendelkező személy magasabb vezetői, vezetői beosztásban nem foglalkoztatható.
 
-(4)[^10] Mentesül a szakvizsga letételének kötelezettsége alól az, aki a gyermekjóléti, gyermekvédelmi szakképesítéshez kapcsolódó szakterületen tudományos fokozatot vagy doktori cselekmény alapján doktori címet szerzett, továbbá akinek 2001. január 1-jét követően öt vagy öt évnél kevesebb időtartam van hátra a reá irányadó nyugdíjkorhatár betöltéséig
+(4)[^10] Mentesül a szakvizsga letételének kötelezettsége alól az, aki a gyermekjóléti, gyermekvédelmi szakképesítéshez kapcsolódó szakterületen tudományos fokozatot szerzett, ideértve – az egyetemi végzettséget igazoló doktori címek kivételével – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 149. §-a szerinti doktori címeket, továbbá akinek 2001. január 1-jét követően öt vagy öt évnél kevesebb időtartam van hátra a reá irányadó nyugdíjkorhatár betöltéséig.
 
 (5)[^11] Az egyes munkakörökben foglalkoztatott személyek képesítési előírásait a 2. számú melléklet tartalmazza.
 
@@ -34,7 +34,7 @@ b) amennyiben 2004. január 1-jével vagy azt követően kap, illetve kapott mag
 
 [^8]: A 3. § új (2) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. A bekezdés szövege az 1/2005. (I. 26.) ICSSZEM rendelet 5. §-ával megállapított szöveg.
 [^9]: A 3. § új (3) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (6) bekezdésre változtatva. A bekezdés szövege az 1/2005. (I. 26.) ICSSZEM rendelet 5. §-ával megállapított szöveg.
-[^10]: A 3. § (4) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be.
+[^10]: A 3. § (4) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, szövege a 28/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 3. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja.
 [^12]: A 3. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja. A (6) bekezdés a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^13]: A 3. § (7) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 98. § (5) bekezdése alapján a 2003. augusztus 16-án már működő intézményekkel közalkalmazotti jogviszonyban, munkaviszonyban, megbízásos jogviszonyban álló személyek a 3. § (7) bekezdés szerinti nyilatkozatot a 2003. augusztus 16-át követő 2 hónapon belül kötelesek megtenni.

@@ -1,4 +1,4 @@
-18/A. §[^48] (1) A gyermekjóléti szolgálat – a (2) bekezdésben foglalt kivétellel – írásban jelzi a városi gyámhivatalnak, ha az általa gondozott családban hozzátartozók közötti erőszak veszélyét észleli.
+18/A. §[^58] (1) A gyermekjóléti szolgálat – a (2) bekezdésben foglalt kivétellel – írásban jelzi a városi gyámhivatalnak, ha az általa gondozott családban hozzátartozók közötti erőszak veszélyét észleli.
 
 (2) Krízishelyzet esetén a gyermekjóléti szolgálat bármilyen módon élhet jelzéssel a városi gyámhivatal felé. A jelzés tényét ebben az esetben utólag foglalja írásba.
 
@@ -12,4 +12,4 @@ b) javaslatot tesz gyámhatósági intézkedés megtételére.
 
 (5) A gyermekjóléti szolgálat az ideiglenes megelőző távoltartást elrendelő határozat kézhezvételétől számított 24 órán belül felkeresi a hozzátartozók közötti erőszak által érintett családot, és a gyermek veszélyeztetettségének megszüntetése érdekében megteszi a 16–18. § szerinti intézkedéseket.
 
-[^48]: A 18/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 4. §-a iktatta be.
+[^58]: A 18/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 4. §-a iktatta be.
