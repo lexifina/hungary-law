@@ -16,6 +16,7 @@ f) a vízijármű vezetésére jogosító okmány rongálódása miatt annak ada
 
 g) a vízijármű vezetője a jármű biztonságos vezetésére nyilvánvalóan képtelen állapotban van.
 
-(2) A rendőr az okmány elvételéről elismervényt állít ki. Az elvett okmányt az illetékes rendőri szerv három munkanapon belül megküldi az illetékes hajózási hatóságnak, jelezve egyúttal, hogy az elvett okmány tulajdonosával szemben mely hatóságnál, milyen eljárást kezdeményezett.
+(2)[^15] A rendőr az okmány elvételéről elismervényt állít ki. Az elvett okmányt az illetékes rendőri szerv öt napon belül megküldi az illetékes hajózási hatóságnak, jelezve egyúttal, hogy az elvett okmány tulajdonosával szemben mely hatóságnál, milyen eljárást kezdeményezett.
 
 [^14]: A 3. § az 58/2004. (X. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 3. § (2) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
