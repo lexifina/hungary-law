@@ -28,4 +28,4 @@ képviselői.
 
 (6) A Tanács feladatait e törvényben foglalt, valamint a Kormány által meghatározott szabályok szerint látja el. Ügyrendjét maga határozza meg.
 
-(7) A Tanács működési költségét a környezet védelméért felelős minisztérium költségvetésében külön címen kell biztosítani.
+(7) A Tanács működési költségét a miniszter által vezetett minisztérium költségvetésében külön címen kell biztosítani.

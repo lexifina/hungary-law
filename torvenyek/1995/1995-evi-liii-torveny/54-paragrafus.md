@@ -4,7 +4,7 @@
 
 (2) A környezeti ismeretek terjesztése és fejlesztése (óvodai nevelés, iskolai nevelés, képzés, művelődés, iskolarendszeren kívüli oktatás és továbbképzés, ismeretterjesztés, könyvkiadás) elsősorban állami és önkormányzati feladat.
 
-(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik a művelődésért és közoktatásért felelős miniszterrel és más érdekelt miniszterekkel.
+(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik az oktatásért felelős miniszterrel és más érdekelt miniszterekkel.
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a közoktatás intézményei számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
 

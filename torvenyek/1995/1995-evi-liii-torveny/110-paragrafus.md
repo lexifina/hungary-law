@@ -120,11 +120,11 @@ p) a környezeti zaj mérséklésének feltételeit megteremtő stratégiai zajt
 
 a) kibocsátásának mérésével, vizsgálatával kapcsolatos szabályokat a hatáskörét érintő kérdésekben a környezetvédelemért felelős miniszterrel egyetértésben,
 
-b) kibocsátására vonatkozó felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszterrel, valamint a közlekedésrendészetért felelős miniszterrel együttesen
+b) kibocsátására vonatkozó felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter és a közlekedésrendészetért felelős miniszter egyetértésével kiadott
 
 rendeletben határozza meg.
 
-(10) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért felelős miniszterrel együttesen, rendeletben állapítsa meg:
+(10) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg:
 
 a) a használt- és szennyvízkibocsátásnak a környezet védelmére vonatkozó követelményeivel,
 
@@ -148,4 +148,4 @@ a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerint
 
 b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
-(15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel együttesen rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
+(15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
