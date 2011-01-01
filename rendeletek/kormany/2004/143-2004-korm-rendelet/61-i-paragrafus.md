@@ -1,4 +1,4 @@
-61/I. §[^62] (1) Az ajánlatkérő a keretmegállapodásos eljárás első részét követően jogosult a keretmegállapodásban meghatározott mennyiség, valamint beszerzési tárgy(ak) egy-egy részére (a továbbiakban: adott beszerzés) a keretmegállapodásban előirányzott teljes mennyiség keretein belül az eljárás második részében több szerződést kötni. A beszerzés mennyiségét úgy is meg lehet határozni, hogy az ajánlatkérő a legalacsonyabb vagy a legmagasabb mennyiséget vagy értéket közli, és kiköti az ettől való eltérés lehetőségét, előírva az eltérés százalékos mértékét.
+61/I. §[^63] (1) Az ajánlatkérő a keretmegállapodásos eljárás első részét követően jogosult a keretmegállapodásban meghatározott mennyiség, valamint beszerzési tárgy(ak) egy-egy részére (a továbbiakban: adott beszerzés) a keretmegállapodásban előirányzott teljes mennyiség keretein belül az eljárás második részében több szerződést kötni. A beszerzés mennyiségét úgy is meg lehet határozni, hogy az ajánlatkérő a legalacsonyabb vagy a legmagasabb mennyiséget vagy értéket közli, és kiköti az ettől való eltérés lehetőségét, előírva az eltérés százalékos mértékét.
 
 (2) Az ajánlatkérő az egy ajánlattevővel a 61/H. §-nak megfelelően megkötött keretmegállapodás alapján az adott beszerzés(ek) megvalósítása érdekében – írásbeli konzultációt követően – köt szerződést a keretmegállapodásban részes ajánlattevővel.
 
@@ -8,4 +8,4 @@ a) a keretmegállapodásban meghatározott feltételek alkalmazásával a versen
 
 b) közvetlen írásbeli ajánlattételi felhívást küld a keretmegállapodásban részes ajánlattevőknek, amennyiben a keretmegállapodás nem tartalmazza az adott beszerzés megvalósítására irányuló szerződés valamennyi feltételét.
 
-[^62]: A 61/I. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^63]: A 61/I. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

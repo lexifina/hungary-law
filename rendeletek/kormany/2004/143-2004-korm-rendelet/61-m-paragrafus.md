@@ -1,6 +1,6 @@
-## 61/L. §[^65] Az ajánlatkérő nem köteles írásbeli konzultációra szóló vagy ajánlattételi felhívást küldeni, ha a keretmegállapodás megkötését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a szerződés(ek) megkötésére, illetőleg a szerződés megkötése esetén a teljesítésre nem lenne képes.
+## 61/L. §[^66] Az ajánlatkérő nem köteles írásbeli konzultációra szóló vagy ajánlattételi felhívást küldeni, ha a keretmegállapodás megkötését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a szerződés(ek) megkötésére, illetőleg a szerződés megkötése esetén a teljesítésre nem lenne képes.
 
-61/M. §[^66] (1) Alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzés esetén, amennyiben a beszerzés tárgyára egyidejűleg több ajánlatkérőnek kellene beszerzési eljárást lefolytatnia és a beszerzés műszaki, biztonsági szempontból egységes rendszer szolgáltatásának igénybevételére irányul, a Kormány döntése alapján a (4) és (5) bekezdés szerinti eltérésekkel e rendelet szerinti keretmegállapodásos eljárás folytatható le.
+61/M. §[^67] (1) Alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzés esetén, amennyiben a beszerzés tárgyára egyidejűleg több ajánlatkérőnek kellene beszerzési eljárást lefolytatnia és a beszerzés műszaki, biztonsági szempontból egységes rendszer szolgáltatásának igénybevételére irányul, a Kormány döntése alapján a (4) és (5) bekezdés szerinti eltérésekkel e rendelet szerinti keretmegállapodásos eljárás folytatható le.
 
 (2) A Kormány az (1) bekezdésben meghatározott célok elérése érdekében kijelöli a beszerzési eljárást lefolytató ajánlatkérőt, a beszerzéshez kötelezően csatlakozók, valamint a szolgáltatás igénybevételére kötelezettek körét, továbbá azt a kört, amelynek a csatlakozást, illetve a szolgáltatás igénybevételét még lehetővé teszi.
 
@@ -28,5 +28,5 @@ h) a keretmegállapodással és a megrendeléssel kapcsolatos adatszolgáltatás
 
 i) a megrendelési formanyomtatványt.
 
-[^65]: A 61/L. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^66]: A 61/M. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^66]: A 61/L. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^67]: A 61/M. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

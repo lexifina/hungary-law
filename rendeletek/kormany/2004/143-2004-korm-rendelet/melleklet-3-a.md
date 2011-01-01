@@ -1,6 +1,6 @@
 ## RÉSZVÉTELI FELHÍVÁS
 
-## 1.[^71] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
+## 1.[^72] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
 
 ## 2. a) A választott eljárás: kétlépcsős eljárás
 
@@ -36,7 +36,7 @@
 
 ## 11. Egyéb információk:
 
-3/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^72]
+3/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^73]
 
-[^71]: A 3. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^72]: A 3/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (3) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^72]: A 3. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^73]: A 3/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (3) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

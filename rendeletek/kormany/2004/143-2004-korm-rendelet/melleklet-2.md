@@ -20,6 +20,6 @@
 
 ## cégszerű aláírás
 
-2. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^70]
+2. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^71]
 
-[^70]: A 2. számú melléklet a 65/2007. (IV. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^71]: A 2. számú melléklet a 65/2007. (IV. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 101. § (3) bekezdése szerint módosított szöveg. A 2. számú melléklet 3.2. pont nyitó szövegrészében a „vám- és pénzügyőrségi” szövegrészt a 273/2010. (XII. 9.) Korm. rendelet 139. § (4) bekezdése hatályon kívül helyezte. [Ez utóbbi módosító rendelet 64. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.]

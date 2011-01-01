@@ -98,7 +98,7 @@
 
 ## – A 12 hónapnál nem régebbi, a rendelet hatálya alá tartozó beszerzési eljárás részvételi szakaszában történő eredményes részvétel(ek) megjelölése az ajánlatkérő feltüntetésével:
 
-## 3.2. Az elmúlt két évben végzett olyan munkák megnevezése, amelyeket a cég fokozott adatvédelmet igénylő megbízók (Magyar Honvédség, katonai vagy polgári nemzetbiztonsági szolgálatok, rendőrségi, vám- és pénzügyőrségi, katasztrófavédelmi szervek, büntetés-végrehajtási intézetek, minisztériumok, más országos hatáskörű szervek) részére végzett:
+## 3.2.  Az elmúlt két évben végzett olyan munkák megnevezése, amelyeket a cég fokozott adatvédelmet igénylő megbízók (Magyar Honvédség, katonai vagy polgári nemzetbiztonsági szolgálatok, rendőrségi, vám- és pénzügyőrségi, katasztrófavédelmi szervek, büntetés-végrehajtási intézetek, minisztériumok, a Nemzeti Adó- és Vámhivatal, illetve szervei, más országos hatáskörű szervek) részére végzett:
 
 ## – Munka megnevezése:
 

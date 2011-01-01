@@ -40,6 +40,6 @@
 
 ## 9. Az ajánlatok elbírálásának szempontjai (a részszempontok, a hozzá tartozó súlyszámok és az értékelési módszer leírása):
 
-4/C. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^77]
+4/C. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^78]
 
-[^77]: A 4/C. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^78]: A 4/C. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
