@@ -1,0 +1,1 @@
+A Kormány a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 64. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:

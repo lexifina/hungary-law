@@ -1,0 +1,1 @@
+24. § A Kormányzati Személyügyi Szolgáltató és Képzési Központ 2011. január 1-jétől Nemzeti Közigazgatási Intézet néven működik. Ahol jogszabály a kormányzati személyügyi igazgatási feladatokat ellátó szervre utal, azon a Nemzeti Közigazgatási Intézetet kell érteni.
