@@ -1,0 +1,37 @@
+## 19. § E rendelet rendelkezéseit az e rendelet hatálybalépését követően kihirdetett jogszabályok és közzétett közjogi szervezetszabályozó eszközök tekintetében kell alkalmazni.
+
+1. melléklet a 32/2010. (XII. 31.) KIM rendelethez
+
+1. A Magyar Közlöny fősorozatának címrendje a következő:
+
+a) I. Az Alkotmány és annak módosításai,
+
+b) II. Törvények,
+
+c) III. Kormányrendeletek,
+
+d) IV. A Magyar Nemzeti Bank és a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletei,
+
+e) V. A Kormány tagjainak rendeletei,
+
+f) VI. Az Alkotmánybíróság határozatai és végzései,
+
+g) VII. Jogegységi határozatok,
+
+h) VIII. Az Országos Választási Bizottság állásfoglalásai,
+
+i) IX. Határozatok Tára.
+
+2. A Magyar Közlöny külön sorozataként megjelenő Hivatalos Értesítő címrendje a következő:
+
+a) I. Utasítások,
+
+b) II. Személyügyi hírek,
+
+c) III. Alapító okiratok,
+
+d) IV. Pályázati felhívások,
+
+e) V. Közlemények,
+
+f) VI. Hirdetmények.
