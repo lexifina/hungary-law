@@ -1,3 +1,0 @@
-9. § (1) Az önkormányzati miniszter a pályázatok elbírálására és a támogatással kapcsolatos döntés meghozatalára Bíráló Bizottságot hoz létre, amelybe az önkormányzati miniszter 2 főt, a pénzügyminiszter, a szociális és munkaügyi miniszter, az oktatási és kulturális miniszter, az egészségügyi miniszter, az Országos Egészségbiztosítási Pénztár főigazgatója 1-1 főt delegál.
-
-(2) A pályázatokat a Bíráló Bizottság az I. ütemben 2009. június 22-éig, a II. ütemben 2009. szeptember 21-éig, a III. ütemben 2009. november 26-áig, a hatályos jogszabályok, továbbá a pályázati feltételek alapján bírálja el.
