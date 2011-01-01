@@ -8,7 +8,7 @@ b)[^8] a munkaadó megfelel a rendezett munkaügyi kapcsolatok – az államház
 
 (2)[^9] Az (1) bekezdés a) pontja alkalmazásában a lakóhely (tartózkodási hely) és a munkahely között az oda- és visszautazás akkor oldható meg aránytalan nehézséggel, ha annak ideje naponta – tömegközlekedési eszközzel – a két órát meghaladja.
 
-(3)[^10] Az (1) bekezdés a) pontjában meghatározott települések körét – a Nemzeti Közlekedési Hatóság regionális igazgatósága, valamint a munkaügyi tanács véleményének meghallgatásával – a munkaügyi központ határozza meg.
+(3)[^10] Az (1) bekezdés a) pontjában meghatározott települések körét – a fővárosi és megyei kormányhivatal közlekedési felügyelősége, valamint a munkaügyi tanács véleményének meghallgatásával – a munkaügyi központ határozza meg.
 
 (4)[^11] Az (1) bekezdésben meghatározott támogatás szempontjából előnyben részesül az a munkaadó, aki nagyobb arányban oldja meg olyan személyek lakóhely (tartózkodási hely) és a munkahely közötti oda- és vissza utazását, akik megváltozott munkaképességűek, vagy alkalmazásukat közvetlenül megelőzően a munkaügyi központ által nyilvántartott álláskeresők voltak.
 
@@ -21,6 +21,6 @@ b)[^8] a munkaadó megfelel a rendezett munkaügyi kapcsolatok – az államház
 [^7]: A 3. § (1) bekezdését a 85/2004. (IV. 19.) Korm. rendelet 34. § (4) bekezdése hatályon kívül helyezte, újonnan a 122/2006. (V. 19.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A 3. § (1) bekezdésének b) pontja a 114/2009. (V. 29.) Korm. rendelet 9. § (5) bekezdésének d) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdése a 122/2006. (V. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^10]: A 3. § (3) bekezdése a 122/2006. (V. 19.) Korm. rendelet 2. §-ával megállapított, valamint a 264/2006. (XII. 20.) Korm. rendelet 8. §-a, a 166/2008. (VI. 27.) Korm. rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdése a 122/2006. (V. 19.) Korm. rendelet 2. §-ával megállapított, valamint a 264/2006. (XII. 20.) Korm. rendelet 8. §-a, a 351/2010. (XII. 30.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
 [^11]: A 3. § (4) bekezdése a 225/2005. (X. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
 [^12]: A 3. § (6) bekezdésének második és harmadik mondatát a 230/2004. (VII. 31.) Korm. rendelet 3. § (1) bekezdésének a) pontja hatályon kívül helyezte.
