@@ -1,0 +1,1 @@
+## 131. § A befogadó nemzeti támogatás részletes kormányzati feladatairól szóló 55/2010. (III. 11.) Korm. rendelet 14. § (2) bekezdés d) pontjában a „Magyar Honvédség és a rendvédelmi szervek” szövegrész helyébe a „Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek” szöveg lép.

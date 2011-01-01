@@ -1,0 +1,1 @@
+## „c) az árverési hirdetményt (Vht. 121. §), valamint az árverési jegyzőkönyv másolatát [Vht. 128. § (2) bek.] kézbesíteni kell – külföldi rendszámú, hatósági jelzés nélküli külföldi államjelzésű jármű értékesítése esetén – a Nemzeti Adó- és Vámhivatal területileg illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóságának is;”

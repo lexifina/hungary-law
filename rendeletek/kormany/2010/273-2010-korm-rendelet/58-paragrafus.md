@@ -1,0 +1,5 @@
+58. § (1) A jövedéki adóügyeknek nem minősülő jövedéki ügyekben – az engedélyezés és a nyilvántartásba vétel kivételével –, továbbá a hatósági felügyelet keretében végzendő adóztatási feladatokkal, illetve a Jöt. 15. § (1)–(2) bekezdése és 65. § (1) bekezdés d) pontja szerinti adófizetési kötelezettséggel kapcsolatos jövedéki adóügyekben az eljárásra az adóraktárnak, az adómentes felhasználó üzemének, a felhasználói engedélyes telephelyének, a kereskedő üzletének, raktárának, a postai szolgáltató felvevő- vagy kézbesítőhelyének, a futár- vagy csomagszállítást végző szolgáltató telephelyének fekvése, az egyéb személy jogosulatlan tevékenységének helye szerinti megyei (fővárosi) vám- és pénzügyőri igazgatóság az illetékes.
+
+(2) Ismeretlen személy jövedéki ügyében eljárásra az a megyei (fővárosi) vám- és pénzügyőri igazgatóság illetékes, amely az ügyben az első intézkedést tette.
+
+(3) A jövedéki és energiaadó ügyben érintett személyek részére a vámazonosító számot az eljárás lefolytatására illetékes NAV vámszerv adja ki.

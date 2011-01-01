@@ -1,0 +1,1 @@
+## 117. § A Kormányzati Ellenőrzési Hivatalról szóló 312/2006. (XII. 23.) Korm. rendelet 9. § (3) bekezdésében a „rendvédelmi szervek” szövegrész helyébe a „rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal” szöveg lép.

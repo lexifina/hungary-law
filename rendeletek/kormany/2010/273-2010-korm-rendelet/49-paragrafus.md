@@ -1,0 +1,1 @@
+## 48. § A megyei (fővárosi) adóigazgatóságoknál indított eljárás tekintetében az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét előíró határozat meghozatalára irányuló eljárásban az az adóigazgatóság jár el, amelyiknél az eljárás indult, illetve folyamatban van.

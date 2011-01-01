@@ -1,0 +1,7 @@
+60. § (1) Vámraktár engedélyezésére, amennyiben a számviteli nyilvántartás magában foglalja a raktárnyilvántartást is, a kérelmező számviteli nyilvántartásának helye szerint illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.
+
+(2) Ha a számviteli nyilvántartás a raktárnyilvántartást nem foglalja magában, vagy a kérelmező számviteli nyilvántartása nem Magyarországon található, és a raktározás kizárólag Magyarországon történik, továbbá az egyedi engedélyezés esete nem áll fenn, a vámraktár engedélyezésére a raktárnyilvántartás vezetésének helye szerint illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult. Ha egy engedélyben több telephelyet kívánnak vámraktárként engedélyeztetni, az illetékességet az összesített adatokat tartalmazó – de minden engedélyeztetni kívánt telephelyen hozzáférhető – központi nyilvántartás vezetésének helye szerint kell megállapítani.
+
+(3) Az egységes engedélyek kiadására a kérelmező számviteli nyilvántartásának helye szerint illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.
+
+(4) A TIR rendelet 7. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. számú Repülőtéri Igazgatóság jogosult.

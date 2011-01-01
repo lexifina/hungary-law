@@ -1,0 +1,1 @@
+## 115. § A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és hatásköréről 276/2006. (XII. 23.) Korm. rendelet 16/C. § (6) bekezdésében „az APEH” szövegrész helyébe „a NAV” szöveg lép.

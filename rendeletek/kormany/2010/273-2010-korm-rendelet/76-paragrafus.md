@@ -1,0 +1,1 @@
+## 75. § Az életvédelmi létesítmények egységes nyilvántartási és adatszolgáltatási rendjéről szóló 37/1995. (IV. 5.) Korm. rendelet 2. §-ában a „Magyar Honvédség” szövegrész helyébe a „Magyar Honvédség, a Nemzeti Adó- és Vámhivatal” szöveg lép.

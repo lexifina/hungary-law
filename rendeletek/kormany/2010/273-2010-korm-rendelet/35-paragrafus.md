@@ -1,0 +1,1 @@
+## 34. § A Bűnügyi Főigazgató egyedi ügyekben a 33. § a) és b) pontjában meghatározott nyomozó hatósági jogkörét regionális bűnügyi igazgatóságra ruházhatja át, amennyiben ezt a nyomozási cselekmények hatékonyabb elvégzése indokolja.

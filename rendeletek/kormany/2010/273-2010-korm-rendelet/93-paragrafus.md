@@ -1,0 +1,1 @@
+## 92. § Az önkéntes nyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 223/2000. (XII. 19.) Korm. rendelet 9. számú melléklet 465. pontjában a „Vám- és Pénzügyőrség elszámolási számla” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal vámhatósági elszámolási számla” szöveg lép.

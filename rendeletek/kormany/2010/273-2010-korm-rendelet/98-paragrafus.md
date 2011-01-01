@@ -1,0 +1,1 @@
+## 97. § A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet 1. § (2) bekezdés a) pontjában a „Magyar Honvédség, a rendvédelmi szervek” szövegrész helyébe a „Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek” szöveg lép.

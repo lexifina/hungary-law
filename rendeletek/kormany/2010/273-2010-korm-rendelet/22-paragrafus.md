@@ -1,0 +1,1 @@
+## 21. § A KÜIG és a KAIG helyszíni végrehajtási cselekmények lefolytatására – Budapest és Pest megye kivételével – az eljárási cselekmény helye szerint illetékes megyei (fővárosi) adóigazgatóságot is megkeresheti.

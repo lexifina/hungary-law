@@ -1,0 +1,1 @@
+## 94. § A nem polgári célú frekvenciagazdálkodás feladatait ellátó hatóság szervezetéről, valamint a nem polgári célú frekvenciagazdálkodás rendjéről szóló 279/2001. (XII. 23.) Korm. rendelet 1. § (2) bekezdésében a „rendvédelmi szervekre” szövegrész helyébe a „rendvédelmi szervekre, a Nemzeti Adó- és Vámhivatal vámszerveire és nyomozóhatósági szerveire” szöveg lép.

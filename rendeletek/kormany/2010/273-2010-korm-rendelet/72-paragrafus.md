@@ -1,0 +1,3 @@
+## 71. § Az egyes vámhatósági tevékenységekhez kapcsolódó, 2010. december 31-ig nyújtott biztosítékok (ideértve a bankgaranciát is) azok eredeti tartalmukkal, hivatalból vagy kérelemre történő módosításukig, illetve lejártukig érvényesek maradnak. Az egyes vámhatósági tevékenységekhez kapcsolódó biztosítékok érvényesíthetősége tekintetében kedvezményezettnek kell tekinteni azt a vámszervet, amely a NAV megalakulását megelőzően hatáskörrel és illetékességgel rendelkező, kedvezményezettnek tekintett vámszervtől saját illetékességi területén az adott vámhatósági hatáskört a NAV megalakulásakor átvette.
+
+## Módosító rendelkezések

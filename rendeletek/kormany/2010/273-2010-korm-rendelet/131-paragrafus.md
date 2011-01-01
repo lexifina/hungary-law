@@ -1,0 +1,1 @@
+## 130. § A válság következtében munkahelyüket elvesztő személyek foglalkoztatásának elősegítését célzó támogatásról szóló 356/2009. (XII. 30.) Korm. rendelet 5. § a) pontjában a „rendvédelmi szervek” szövegrész helyébe a „rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal” szöveg lép.

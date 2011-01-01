@@ -1,0 +1,1 @@
+## 16. § A regionális bűnügyi igazgatóságok a 33. §-ban meghatározott kivétellel végzik a Be. 36. § (2) bekezdésében meghatározott bűncselekmények megelőzését, felderítését, valamint nyomozását az erre vonatkozó jogszabályok rendelkezései szerint.

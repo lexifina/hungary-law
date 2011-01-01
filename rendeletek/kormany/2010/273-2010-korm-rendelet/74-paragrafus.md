@@ -1,0 +1,1 @@
+## 73. § A Gazdaságbiztonsági Tartalékról szóló 84/1994. (V. 27.) Korm. rendelet 1. § b) pontjában és 3. § b) pontjában a „Magyar Honvédség és rendvédelmi szervek” szövegrész helyébe a „Magyar Honvédség, rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei” szöveg lép.

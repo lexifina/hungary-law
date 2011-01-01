@@ -1,0 +1,1 @@
+## 83. § Az egészségügyi hozzájárulásról szóló 1996. évi LXXXVIII. törvény végrehajtásáról szóló 202/1996. (XII. 23.) Korm. rendelet 2. §-ában a „Magyar Honvédség és a rendvédelmi szervek” szövegrész helyébe a „Magyar Honvédség, Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek” szöveg lép.

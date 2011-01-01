@@ -1,0 +1,3 @@
+32. § (1) Budapesten és Pest Megyében a Kelet-budapesti Vám- és Pénzügyőri Igazgatóság végzi az egyes fémek begyűjtésével és értékesítésével összefüggő visszaélések visszaszorításáról szóló törvényben foglalt engedélyezési és a fémkereskedelmi tevékenységi biztosítékul felajánlott, visszavonható pénzügyi biztosíték esetén a visszavonás lehetőségének jóváhagyását – ide nem értve a kiemelt adózókat –, továbbá az ellenőrzési feladatokat. A kiemelt adózók tekintetében az ellenőrzést követő hatósági eljárást, illetve hatósági döntést a KAVIG folytatja le, illetve hozza meg.
+
+(2) A NAV vámszerveinek hatáskörébe tartozó szabálysértések miatt Budapesten és Pest megyében az Észak-budapesti Vám- és Pénzügyőri Igazgatóság jár el.
