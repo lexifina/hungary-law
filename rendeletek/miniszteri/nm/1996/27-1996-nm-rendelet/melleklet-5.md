@@ -406,19 +406,19 @@
 
 | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-| Régió: | 01 – OMMF Közép-magyarországi Munkavédelmi Felügyelősége (Budapest) |
+| Régió: | 01 – Közép-magyarországi régió |
 
-|  | 02 – OMMF Dél-dunántúli Munkavédelmi Felügyelősége (Pécs) |
+|  | 02 – Dél-dunántúli régió |
 
-|  | 03 – OMMF Közép-dunántúli Munkavédelmi Felügyelősége (Veszprém) |
+|  | 03 – Közép-dunántúli régió |
 
-|  | 04 – OMMF Nyugat-dunántúli Munkavédelmi Felügyelősége (Szombathely) |
+|  | 04 – Nyugat-dunántúli régió |
 
-|  | 05 – OMMF Dél-alföldi Munkavédelmi Felügyelősége (Kecskemét) |
+|  | 05 – Dél-alföldi régió |
 
-|  | 06 – OMMF Észak-alföldi Munkavédelmi Felügyelősége (Debrecen) |
+|  | 06 – Észak-alföldi régió |
 
-|  | 07 – OMMF Észak-magyarországi Munkavédelmi Felügyelősége (Miskolc) |
+|  | 07 – Észak-magyarországi régió |
 
 | Megye | 01 – Budapest | 11 – Komárom-Esztergom |
 
@@ -450,6 +450,6 @@
 
 | FEOR kód: (KSH) | Foglalkozások Egységes Osztályozási Rendszere (Korszerűsített jegyzék) FEOR-93 |
 
-5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^23]
+5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^19]
 
-[^23]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.

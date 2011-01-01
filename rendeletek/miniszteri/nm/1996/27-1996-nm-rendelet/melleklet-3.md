@@ -298,7 +298,7 @@
 
 | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^21]
+3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^17]
 
 ## A foglalkozási betegségek és fokozott expozíciós esetek jelentési és nyilvántartási rendje
 
@@ -334,4 +334,4 @@ II. Az esetek nyilvántartása
 
 3. Az OMFI az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
 
-[^21]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.
+[^17]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.

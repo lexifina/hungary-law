@@ -114,7 +114,7 @@
 
 |  | 4 ismételt mérés szükséges |
 
-6. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^24]
+6. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^20]
 
 Értesítés
 
@@ -156,4 +156,4 @@ Dátum:………………………………….
 
 aláírás, pecsét
 
-[^24]: A 6. számú mellékletet a 69/2003. (XII. 16.) ESZCSM rendelet 2. §-a iktatta be, szövege a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^20]: A 6. számú mellékletet a 69/2003. (XII. 16.) ESZCSM rendelet 2. §-a iktatta be, szövege a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.
