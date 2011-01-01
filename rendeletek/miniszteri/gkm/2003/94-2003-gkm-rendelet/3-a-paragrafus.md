@@ -1,10 +1,10 @@
 ## A turista használatú palackba történő
 
-## pébégáz átfejtés engedélyeztetése[^17]
+## pébégáz átfejtés engedélyeztetése[^18]
 
-3/A. §[^18] (1) A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: hatóság) annak a gázkiskereskedőnek ad turista használatú palackba történő pébégáz átfejtésére vonatkozó engedélyt (a továbbiakban: engedély), aki
+3/A. §[^19] (1) A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: hatóság) annak a gázkiskereskedőnek ad turista használatú palackba történő pébégáz átfejtésére vonatkozó engedélyt (a továbbiakban: engedély), aki
 
-a) maga vagy a tevékenységet ténylegesen végző alkalmazottja a 18. életévét betöltötte, és rendelkezik propán-bután cseretelep kezelő vizsgával, propán-bután gázlefejtő és töltőberendezés kezelői vizsgával, tűzvédelmi szakvizsgával, valamint ismeri a 3/B. § b) pontjában meghatározott technológiai utasításban foglaltakat,
+a)[^20] maga vagy a tevékenységet ténylegesen végző alkalmazottja a 18. életévét betöltötte, és rendelkezik propán-bután cseretelep kezelő vizsgával, propán-bután gázlefejtő és töltőberendezés kezelői vizsgával, tűzvédelmi szakvizsgával, valamint ismeri a 3/B. § a) pontjában meghatározott technológiai utasításban foglaltakat,
 
 b) rendelkezik
 
@@ -26,5 +26,6 @@ c) a turista használatú palackba történő pébégáz átfejtő berendezés m
 
 (4) A hatóság az engedélyt visszavonja, ha kiadásának feltételei már nem állnak fenn.
 
-[^17]: A 3/A. §-t megelőző címet az 55/2006. (VIII. 3.) GKM rendelet 3. §-a iktatta be.
-[^18]: A 3/A. §-t az 55/2006. (VIII. 3.) GKM rendelet 3. §-a iktatta be, szövege a 10/2010. (III. 2.) NFGM rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 3/A. §-t megelőző címet az 55/2006. (VIII. 3.) GKM rendelet 3. §-a iktatta be.
+[^19]: A 3/A. §-t az 55/2006. (VIII. 3.) GKM rendelet 3. §-a iktatta be, szövege a 10/2010. (III. 2.) NFGM rendelet 5. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 3/A. § (1) bekezdés a) pontja a 27/2010. (XII. 31.) NGM rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.

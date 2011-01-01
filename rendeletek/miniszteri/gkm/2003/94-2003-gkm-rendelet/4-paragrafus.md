@@ -2,7 +2,7 @@
 
 4. § (1) Pébégáz forgalmazására az a jogi személyiségű gazdasági társaság jogosult, amely a következő feltételeknek megfelel:
 
-a)[^20] a cégjegyzékbe a pébégáz forgalmazási tevékenységét bejegyezték,
+a)[^22] a cégjegyzékbe a pébégáz forgalmazási tevékenységét bejegyezték,
 
 b) a pébégáz forgalmazási tevékenységet végző tagja, munkavállalója vagy alvállalkozója rendelkezik az általa ellátott pébégáz forgalmazási tevékenység végzéséhez előírt szakmai képesítéssel vagy személyzet tanúsítással,
 
@@ -30,4 +30,4 @@ c) az éves pébégáz forgalmának legalább 5%-át kitevő saját tulajdonú p
 
 (5) A gázforgalmazók kötelesek mind a gázkiskereskedőkkel, mind pedig a fogyasztókkal kötött szerződéseikben a folyamatos és biztonságos pébégáz ellátást vállalni.
 
-[^20]: A 4. § (1) bekezdés a) pontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 4. § (1) bekezdés a) pontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

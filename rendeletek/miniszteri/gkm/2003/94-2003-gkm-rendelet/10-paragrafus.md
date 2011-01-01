@@ -2,20 +2,20 @@
 
 10. § (1) Ez a rendelet 2004. január 1-jén lép hatályba.
 
-(2)[^34]
+(2)[^36]
 
 (3) A Hivatal által nyilvántartásba vett gázforgalmazók e rendelet hatálybalépésétől számított első évet követően már csak akkreditált minőségbiztosítási szervezet által tanúsított minőségbiztosítási rendszerben végezhetik a pébégáz forgalmazását.
 
-(4)[^35]
+(4)[^37]
 
-(5)[^36]
+(5)[^38]
 
-(6)[^37] A Gázpalack Biztonsági Szabályzatról szóló 14/1998. (XI. 27.) GM rendelet mellékletének II. fejezet 1.5. pontjában feltüntetett töltési tevékenység végzésére vonatkozó engedélyezési eljárás nem vonatkozik a pébégázok turista használatú palackba való átfejtésére.
+(6)[^39] A Gázpalack Biztonsági Szabályzatról szóló 14/1998. (XI. 27.) GM rendelet mellékletének II. fejezet 1.5. pontjában feltüntetett töltési tevékenység végzésére vonatkozó engedélyezési eljárás nem vonatkozik a pébégázok turista használatú palackba való átfejtésére.
 
-(7)[^38] Azok a gázkiskereskedők, akik e rendelet hatálybalépése előtt a műszaki-biztonsági hatóság által engedélyezett berendezéssel turista használatú palack töltésére jogosultságot szereztek, kötelesek a 3. § (4) bekezdésében meghatározott engedély iránti kérelmüket a rendelet hatálybalépését követő 30 napon belül benyújtani a Magyar Kereskedelmi Engedélyezési Hivatal műszaki-biztonsági feladatkörében eljáró, a tevékenység végzése szerint területileg illetékes műszaki-biztonsági hatósághoz. Kérelmük jogerős elbírálásáig a korábbi engedélyük alapján gyakorolhatják a turista használatú palackokba történő átfejtési tevékenységet.
+(7)[^40]
 
-[^34]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 197. pontja hatályon kívül helyezte.
-[^35]: A 10. § (4) bekezdését a 127/2005. (XII. 29.) GKM rendelet 29. § e) pontja hatályon kívül helyezte.
-[^36]: A 10. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 197. pontja hatályon kívül helyezte.
-[^37]: A 10. § (6) bekezdését az 55/2006. (VIII. 3.) GKM rendelet 5. §-a iktatta be.
-[^38]: A 10. § (7) bekezdését az 55/2006. (VIII. 3.) GKM rendelet 5. §-a iktatta be, első mondata a 87/2006. (XII. 26.) GKM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^36]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 197. pontja hatályon kívül helyezte.
+[^37]: A 10. § (4) bekezdését a 127/2005. (XII. 29.) GKM rendelet 29. § e) pontja hatályon kívül helyezte.
+[^38]: A 10. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 197. pontja hatályon kívül helyezte.
+[^39]: A 10. § (6) bekezdését az 55/2006. (VIII. 3.) GKM rendelet 5. §-a iktatta be.
+[^40]: A 10. § (7) bekezdését az 55/2006. (VIII. 3.) GKM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 27/2010. (XII. 31.) NGM rendelet 75. § h) pontja.
