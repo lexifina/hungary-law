@@ -1,7 +1,3 @@
-## III/A. Fejezet
-
-## AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
-
 9. § (1) Ösztöndíjas foglalkoztatási jogviszony az 1. § (2) bekezdés 7. pontjában meghatározott foglalkoztatónál ösztöndíjas foglalkoztatottal létesíthető.
 
 (2) Ösztöndíjas foglalkoztatási jogviszonyt az ösztöndíjas foglalkoztatott a felsőfokú végzettség megszerzését követően egy alkalommal legalább kilenc hónapig, legfeljebb egy évig terjedő határozott időre létesíthet.

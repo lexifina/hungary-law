@@ -14,7 +14,7 @@ a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben
 
 (3) Felhatalmazást kap a Kormány, hogy a 8. § (1) bekezdésének a) pontjában meghatározott kistérségek, települések körét – a 2. számú mellékletben meghatározott szempontok alapján – rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, a nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8–8/A. §-ban meghatározott járulékkedvezmények érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
+(4) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8–8/A. §-ban meghatározott járulékkedvezmények érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 
 (5)
 

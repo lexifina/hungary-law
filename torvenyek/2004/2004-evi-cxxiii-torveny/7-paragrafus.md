@@ -1,4 +1,4 @@
-7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén – amennyiben a 8. §-ban meghatározott feltételek nem állnak fenn – a munkaadót a következők szerint illeti meg járulékkedvezmény:
+7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén a munkaadót a következők szerint illeti meg járulékkedvezmény:
 
 a)
 
