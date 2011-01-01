@@ -1,3 +1,3 @@
-## 10. §[^22]
+## 10. §[^23]
 
-[^22]: A 10. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 322. pontja hatályon kívül helyezte.
+[^23]: A 10. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 322. pontja hatályon kívül helyezte.

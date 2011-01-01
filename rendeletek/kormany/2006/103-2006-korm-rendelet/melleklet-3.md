@@ -28,9 +28,9 @@
 
 ## – országos tervpályázaton való eredményes részvétel legfeljebb 5 pont;
 
-## –[^25] tervtanács által elfogadásra ajánlott és építési engedélyt kapott terv elkészítése alkalmanként legfeljebb 2 pont.
+## –[^26] tervtanács által elfogadásra ajánlott és építési engedélyt kapott terv elkészítése alkalmanként legfeljebb 2 pont.
 
-3. melléklet a 103/2006. (IV. 28.) Korm. rendelethez[^26]
+3. melléklet a 103/2006. (IV. 28.) Korm. rendelethez[^27]
 
 Az építészeti tervezői szakterület kötelező továbbképzésének követelményrendszere
 
@@ -106,5 +106,5 @@ Kapcsolódó jogszabályok:
 
 A beszámoló során számon kérhető követelményekre vonatkozó – a miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-[^25]: A 2. melléklet tizennegyedik francia bekezdését a 246/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 17. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^26]: A 3. mellékletet a 61/2008. (III. 27.) Korm. rendelet 22. § (9) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkamazni.
+[^26]: A 2. melléklet tizennegyedik francia bekezdését a 246/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 17. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^27]: A 3. mellékletet a 61/2008. (III. 27.) Korm. rendelet 22. § (9) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkamazni.
