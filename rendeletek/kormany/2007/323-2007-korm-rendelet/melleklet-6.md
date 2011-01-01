@@ -1,4 +1,4 @@
-6. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^54]
+6. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^65]
 
 ## A megújuló energiaforrásokból származó energia előmozdítására irányuló környezetvédelmi beruházási támogatás nyújtásának részletes feltételei
 
@@ -8,4 +8,4 @@
 
 3. A bioüzemanyag előállításához nyújtott környezetvédelmi beruházási támogatás csak annyiban mentesül a bejelentési kötelezettség alól, amennyiben a támogatott beruházásokat kizárólag fenntartható bioüzemanyagok előállítására használják fel.
 
-[^54]: A 6. melléklet a 121/2009. (VI. 11.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^65]: A 6. melléklet a 121/2009. (VI. 11.) Korm. rendelet 18. §-ával megállapított szöveg.

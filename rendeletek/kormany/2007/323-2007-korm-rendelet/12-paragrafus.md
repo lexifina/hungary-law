@@ -4,6 +4,6 @@
 
 (2) A kibocsátás-csökkentés értékesítési szerződésben a maximálisan átadandó kibocsátás-csökkentési egységek mennyiségét úgy kell meghatározni, hogy az átadott kibocsátás-csökkentési egységek mennyisége nem haladhatja meg az együttes végrehajtási projekt által elért, hitelesített nettó kibocsátás-csökkentés 90%-át, és az átadott kibocsátás-csökkentési egységek értéke nem haladhatja meg az együttes végrehajtási projekt teljes költségének 130%-át.
 
-(3)[^12] Az Átvevő személyében bekövetkező változás esetén a Jóváhagyó Nyilatkozatot a miniszter módosítja. A módosításhoz a Szállítónak be kell nyújtania az új Átvevővel kötött kibocsátás-csökkentés értékesítési szerződést.
+(3)[^16] Az Átvevő személyében bekövetkező változás esetén a Jóváhagyó Nyilatkozatot a miniszter módosítja. A módosításhoz a Szállítónak be kell nyújtania az új Átvevővel kötött kibocsátás-csökkentés értékesítési szerződést.
 
-[^12]: A 12. § (3) bekezdését a 121/2009. (VI. 11.) Korm. rendelet 4. §-a iktatta be.
+[^16]: A 12. § (3) bekezdését a 121/2009. (VI. 11.) Korm. rendelet 4. §-a iktatta be.

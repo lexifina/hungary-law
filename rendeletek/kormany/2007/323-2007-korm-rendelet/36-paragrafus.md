@@ -6,7 +6,7 @@
 
 (3) Az e rendelet hatálybalépése előtt kiadott Jóváhagyó Nyilatkozattal rendelkező Szállítónak a rendelet hatálybalépését követő két hónapon belül be kell nyújtania az Átvevővel kötött kibocsátás-csökkentés értékesítési szerződést. Ennek elmaradása esetén, továbbá ha a rendelet hatálybalépése után kötött szerződés nem felel meg a 12. § (2) bekezdése szerinti feltételeknek, a Jóváhagyó Nyilatkozatot a miniszter visszavonja.
 
-(4)[^51] 2012-ben a jóváhagyott együttes végrehajtási projektek megvalósításáról és működtetéséről a Szállítónak a 13. § (1) bekezdésében meghatározott jelentéstételi kötelezettségét 2012. december 15-éig kell teljesítenie. A kibocsátás-csökkentési egységeket a 15. § (5) bekezdése szerint a nemzeti forgalmi jegyzék kezelője 2012. december 31-éig vezeti át.
+(4)[^62] 2012-ben a jóváhagyott együttes végrehajtási projektek megvalósításáról és működtetéséről a Szállítónak a 13. § (1) bekezdésében meghatározott jelentéstételi kötelezettségét 2012. december 15-éig kell teljesítenie. A kibocsátás-csökkentési egységeket a 15. § (5) bekezdése szerint a nemzeti forgalmi jegyzék kezelője 2012. december 31-éig vezeti át.
 
 (5) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -16,4 +16,4 @@ b) a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelően a kio
 
 c) a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló, 2004. december 21-i 2216/2004/EK bizottsági rendelet 2., 15. és 19. cikkei.
 
-[^51]: A 36. § (4) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^62]: A 36. § (4) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés d) pontja szerint módosított szöveg.

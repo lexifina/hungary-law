@@ -1,6 +1,6 @@
 ## Támogatási feltételek
 
-23. §[^30] (1) A Zöld Beruházási Rendszer keretében támogatást – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, jogi személyiséggel nem rendelkező gazdasági társaság, külföldi székhelyű vállalkozás magyarországi fióktelepe, egyéni vállalkozó, társasház-közösség, valamint természetes személy kaphat.
+23. §[^41] (1) A Zöld Beruházási Rendszer keretében támogatást – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, jogi személyiséggel nem rendelkező gazdasági társaság, külföldi székhelyű vállalkozás magyarországi fióktelepe, egyéni vállalkozó, társasház-közösség, valamint természetes személy kaphat.
 
 (2) E rendelet alapján támogatás
 
@@ -50,4 +50,4 @@ b) környezetvédelmi
 
 (7) A pályázati felhívásban fel kell tüntetni, valamint a támogatási szerződésben a támogatásban részesülőt (a továbbiakban: kedvezményezett) írásban tájékoztatni kell arról, hogy a (2) és a (4) bekezdésben meghatározottak közül melyik támogatási fajtában részesül. A tájékoztatásnak kifejezetten utalnia kell a támogatási fajtára vonatkozó európai bizottsági rendeletre, hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
 
-[^30]: A 23. § a 121/2009. (VI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^41]: A 23. § a 121/2009. (VI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
