@@ -2,7 +2,7 @@
 
 9. § (1) Ez a rendelet 2007. július 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően – elektronikus úton – benyújtott iparjogvédelmi beadványokra kell alkalmazni.
 
-(2)[^6]
+(2)[^13]
 
 Melléklet a 147/2007. (VI. 26.) Korm. rendelethez
 
@@ -28,4 +28,4 @@ WIPO Standard ST.25 (Standard for the Presentation of Nucleotide and Amino Acid 
 
 Karakterszinten túli jellemzőket nem használó, a 3.1. pontban meghatározott karakterformátumot alkalmazó állomány, a következő sorlezárás-jelzések egyikével: együttes kocsivissza-soremelés, önálló soremelés vagy önálló kocsivissza (együttesen: egyszerűszöveg-formátum)
 
-[^6]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.
+[^13]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.

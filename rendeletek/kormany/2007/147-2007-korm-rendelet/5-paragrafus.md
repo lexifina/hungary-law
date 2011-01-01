@@ -1,4 +1,4 @@
-## 4. § A természetes személy ügyfél, illetve képviselő az iparjogvédelmi beadványt elektronikus úton az ügyfélkapun keresztül történő bejelentkezést követően is benyújthatja a Magyar Szabadalmi Hivatal elektronikus ügyintézési rendszerén keresztül.
+## 4. §[^7] Az ügyfélkapuval vagy cégkapuval rendelkező ügyfél, illetve képviselő az iparjogvédelmi beadványt elektronikus úton az ügyfélkapun keresztül történő bejelentkezést követően is benyújthatja a Szellemi Tulajdon Nemzeti Hivatalának elektronikus ügyintézési rendszerén keresztül.
 
 ## Az elektronikus úton benyújtott iparjogvédelmi beadvány kellékei
 
@@ -11,3 +11,5 @@ a) ha az ügyfél vagy képviselője elektronikus aláírással rendelkezik, az 
 b) mellőzhető az ügyfélnek, illetve az ügyfelek mindegyikének vagy a képviselőnek az aláírása az iparjogvédelmi beadvány ügyfélkapus azonosítást követő benyújtása esetén.
 
 (3) A használati mintaoltalmi bejelentés elektronikus úton való benyújtása esetén mellőzhető a leírás és az igénypontok, valamint a rajzok utolsó oldalának az ügyfél vagy a képviselő általi aláírása.
+
+[^7]: A 4. § a 341/2010. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
