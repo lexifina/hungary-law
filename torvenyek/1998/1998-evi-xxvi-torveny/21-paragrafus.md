@@ -1,6 +1,6 @@
 ## A rehabilitációs szolgáltatás, ellátás
 
-21. § A közalapítvány a fogyatékos személyek rehabilitációjának megvalósulása érdekében az alábbi szolgáltatásokat nyújtja:
+21. § A 20. § szerinti szervezet a fogyatékos személyek rehabilitációjának megvalósulása érdekében az alábbi szolgáltatásokat nyújtja:
 
 a) a fogyatékos személy meglévő, illetve fejleszthető képességeinek megfelelő programtervezetek kidolgozásához olyan szempontrendszer kiadása, amely magában foglalja a rehabilitációs folyamat során elért képességfejlődés rendszeres felmérését, és lehetővé teszi a rehabilitációs program szükség szerinti módosítását, továbbfejlesztését;
 

@@ -4,4 +4,4 @@
 
 (2) A fogyatékos személy számára – sportolási lehetőségeinek megteremtéséhez – a sportolási célú, szabadidős intézmények használatát hozzáférhetővé kell tenni.
 
-(3) A fogyatékos szabadidő- és tömegsportját a Wesselényi Miklós Nemzeti Ifjúsági és Szabadidősport Közalapítvány, verseny- és élsportját a Gerevich Aladár Nemzeti Sport Közalapítvány támogatja.
+(3) A fogyatékos személyek szabadidő- és tömegsportját a Wesselényi Miklós Sportközalapítvány támogatja, a fogyatékos személyek verseny- és élsportjának támogatása a központi költségvetésből történik.

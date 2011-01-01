@@ -12,7 +12,7 @@ a) arra nem jogosult, vagy
 
 b) kevesebb összegre jogosult, mint amelyet számára folyósítottak.
 
-(5) Az, aki a fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre a felvételtől számított 22 munkanapon belül határozatban kötelezték.
+(5) Az, aki a fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre a felvételtől számított 30 napon belül határozatban kötelezték.
 
 (6) Az (5) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett fogyatékossági támogatást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy az ellátás megszűnésétől számított kevesebb mint három év telt el.
 

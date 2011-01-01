@@ -28,13 +28,13 @@ a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel.
 
-(3) Fogyatékossági támogatásra nem jogosult az a súlyosan fogyatékos személy, aki
+(3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
-a) vakok személyi járadékában,
+a) vakok személyi járadékában részesül,
 
-b) magasabb összegű családi pótlékban
+b) magasabb összegű családi pótlékban részesül, vagy
 
-részesül.
+c) utána magasabb összegű családi pótlékot folyósítanak.
 
 (4) Megszűnik a fogyatékossági támogatásra való jogosultság, ha
 

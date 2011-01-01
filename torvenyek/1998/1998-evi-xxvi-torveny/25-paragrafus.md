@@ -14,7 +14,7 @@ f) a védett munkahelyek szervezetei által delegált két fő,
 
 g) az önkormányzatok országos érdekképviseleteit tömörítő szövetség által delegált egy fő.
 
-(2) A Tanács (1) bekezdés c)–g) pont szerinti tagja a fogyatékos személyek érdekeinek képviseletét ellátó feladatkörében nem folytathat a lobbitevékenységről szóló 2006. évi XLIX. törvény hatálya alá tartozó lobbitevékenységet.
+(2)
 
 (3) A Tanács elnöke a Kormány által kijelölt miniszter. A Tanács társelnöke a nem kormányzati oldal által a tagok közül választott személy.
 
