@@ -1,3 +1,3 @@
-6–8. §[^4]
+6–8. §[^6]
 
-[^4]: A 6–8. § e rendelet 5. § (3) bekezdése alapján hatályát vesztette.
+[^6]: A 6–8. § e rendelet 5. § (3) bekezdése alapján hatályát vesztette.
