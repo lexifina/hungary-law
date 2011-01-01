@@ -1,3 +1,3 @@
-1. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^28]
+1. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^34]
 
-[^28]: Az 1. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. számú melléklet a 46/2010. (XII. 31.) VM rendelet 7. §-ával megállapított szöveg.
