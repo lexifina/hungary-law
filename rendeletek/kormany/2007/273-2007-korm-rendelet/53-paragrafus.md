@@ -4,6 +4,6 @@
 
 (3) Az engedélyért folyamodó kérelmezőnek rendelkeznie kell az adott tevékenység folytatásához szükséges pénzügyi-műszaki feltételekkel és eszközökkel.
 
-(4)[^77]
+(4)[^78]
 
-[^77]: A Vhr. 53. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A Vhr. 53. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

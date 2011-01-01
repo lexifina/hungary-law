@@ -236,7 +236,7 @@ t) a csatlakozási szerződés és a hálózathasználati szerződés mintáját
 
 u) a szerződés nélkül villamos energiát vételező személyekkel szembeni eljárás rendjét, az ellátásban való részvétel jogszerűvé tételének módját;
 
-v)[^154] az alaptevékenységen kívül végzett tevékenységek bemutatását, így különösen
+v)[^155] az alaptevékenységen kívül végzett tevékenységek bemutatását, így különösen
 
 va) az engedélyes által végzett, az alaptevékenységhez kapcsolódó szolgáltatások felsorolását, és
 
@@ -290,4 +290,4 @@ e) az üzemzavar és korlátozás esetén alkalmazandó szabályokat;
 
 f) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit.
 
-[^154]: A Vhr. 21. számú melléklet II. 2. pont v) alpontját a 116/2010. (IV. 15.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^155]: A Vhr. 21. számú melléklet II. 2. pont v) alpontját a 116/2010. (IV. 15.) Korm. rendelet 9. § (4) bekezdése iktatta be.

@@ -16,7 +16,7 @@
 
 (7) Szabályzat a védendő fogyasztókra kedvezőbb szabályokat állapíthat meg.
 
-(8)[^37] Az engedélyesnek a felhasználó részéről nem elfogadható minőségben adott válasza, illetve érdemi válasz hiánya miatt a felhasználó által a Nemzeti Fogyasztóvédelmi Hatóság, vagy a Hivatal részére benyújtott kérelemnek (a továbbiakban: panasz) a következőket kell tartalmaznia:
+(8)[^37] Az engedélyesnek a felhasználó részéről nem elfogadható minőségben adott válasza, illetve érdemi válasz hiánya miatt a felhasználó által a fogyasztóvédelmi hatóság, vagy a Hivatal részére benyújtott kérelemnek (a továbbiakban: panasz) a következőket kell tartalmaznia:
 
 a)[^38] a kérelmező telefonos elérhetősége, elektronikus levélcíme, az érintett felhasználási hely,
 
@@ -25,5 +25,5 @@ b) a kérelem tárgyának rövid leírása, a rendelkezésre álló dokumentumok
 c) a kért intézkedés megjelölése.
 
 [^36]: A Vhr. 28. § (5) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^37]: A Vhr. 28. § (8) bekezdés nyitó szövegrésze a 116/2010. (IV. 15.) Korm. rendelet 10. § (2) bekezdése és 11. §-a szerint módosított szöveg.
+[^37]: A Vhr. 28. § (8) bekezdés nyitó szövegrésze a 116/2010. (IV. 15.) Korm. rendelet 10. § (2) bekezdése és 11. §-a, a 351/2010. (XII. 30.) Korm. rendelet 191. §-a szerint módosított szöveg.
 [^38]: A Vhr. 28. § (8) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

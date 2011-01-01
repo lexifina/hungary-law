@@ -228,13 +228,13 @@
 
 ## Az egészségi állapotra vonatkozó besorolás valódiságát az orvos aláírásával igazolja.
 
-## A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében az Országos Rehabilitációs és Szociális Szakértői Intézet által kiállított szakvélemény(eke)t, amennyiben készült ilyen szakvélemény.
+## A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében az a Nemzeti Rehabilitációs és Szociális Hivatal által kiállított szakvéleményt, szakhatósági állásfoglalást, amennyiben ilyen készült.
 
 ## Az igazolást az igénylőnek kell benyújtania az elosztóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
 
 ## A nyilvántartásba történő felvételt követő évtől a védendő fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő fogyasztók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^157]
+24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^158]
 
 Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgáltatás rendje
 
@@ -296,4 +296,4 @@ Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgált
 
 |  |  | 14. cikk | Az irányelv alapján meghozott intézkedések bejelentése a Bizottság felé | Az irányelv átültetésekor | Gazdasági és Közlekedési Minisztérium |
 
-[^157]: A Vhr. 24. számú melléklete a 187/2008. (VII. 24.) Korm. rendelet 5. §-a, a 64/2009. (III. 31.) Korm. rendelet 1. § (6) bekezdése és 6. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^158]: A Vhr. 24. számú melléklete a 187/2008. (VII. 24.) Korm. rendelet 5. §-a, a 64/2009. (III. 31.) Korm. rendelet 1. § (6) bekezdése és 6. § (5) bekezdés c) pontja szerint módosított szöveg.
