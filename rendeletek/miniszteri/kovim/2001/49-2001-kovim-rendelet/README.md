@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-49-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2001-49-20-93.9 | 49/2001. (XII. 22.) KöViM rendelet |
+| 2011-01-01 | 2001-49-20-93.10 | 48/2009. (IX. 30.) KHEM rendelet |

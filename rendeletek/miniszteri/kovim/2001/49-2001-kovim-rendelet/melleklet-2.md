@@ -150,7 +150,7 @@
 
 ## 6.4. műszaki tiszti felsőfokú tanfolyami szakképesítés,
 
-## 6.5. az Országos Képzési Jegyzék[^81] szerinti szakképesítések:
+## 6.5. az Országos Képzési Jegyzék[^82] szerinti szakképesítések:
 
 ## a) közlekedésgépészeti technikus, közútijármű-gépész,
 
@@ -164,7 +164,7 @@
 
 ## 7.3. műszaki tiszti felsőfokú tanfolyami szakképesítés.
 
-2. számú melléklet a 49/2001. (XII. 22.) KöViM rendelethez[^82]
+2. számú melléklet a 49/2001. (XII. 22.) KöViM rendelethez[^83]
 
 A belföldi és nemzetközi közlekedés terén a közúti árufuvarozók és személyszállítók szakmába történő bejutásáról, valamint e személyek szabad letelepedéséhez való joga gyakorlásának előmozdítása érdekében a diplomák, bizonyítványok és a képesítésekre vonatkozó egyéb tanúsítványok kölcsönös elismeréséről szóló, a Tanács 98/76/EK irányelvével módosított 96/26/EK irányelvének Ia. Melléklete szerinti ,,Bizonyítvány'' mintája
 
@@ -222,5 +222,5 @@ _______________________
 
 7 A bizonyítványt kiállító, hatáskörrel rendelkező hatóság vagy szervezet bélyegzője és aláírása.
 
-[^81]: 7/1993. (XII. 30.) MüM rendelet.
-[^82]: A 2. számú mellékletet a 22/2004. (II. 27.) GKM rendelet melléklete iktatta a szövegbe. E módosító rendelet 12. §-ának (3) bekezdése alapján a módosító rendelet nem érinti a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napja előtt kiadott autóbuszos személyszállító-vállalkozói képesítések érvényességét. A korábbi vizsgabizonyítvány alapján azonban ezen időpontot követően kérhető a Közlekedési Főfelügyelettől a 2. számú melléklet szerinti vizsgabizonyítvány kiadása.
+[^82]: 7/1993. (XII. 30.) MüM rendelet.
+[^83]: A 2. számú mellékletet a 22/2004. (II. 27.) GKM rendelet melléklete iktatta a szövegbe. E módosító rendelet 12. §-ának (3) bekezdése alapján a módosító rendelet nem érinti a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napja előtt kiadott autóbuszos személyszállító-vállalkozói képesítések érvényességét. A korábbi vizsgabizonyítvány alapján azonban ezen időpontot követően kérhető a Közlekedési Főfelügyelettől a 2. számú melléklet szerinti vizsgabizonyítvány kiadása.
