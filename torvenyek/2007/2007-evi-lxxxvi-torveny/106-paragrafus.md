@@ -4,7 +4,7 @@
 
 106. § (1) A hazai termelői kapacitásokhoz való hozzáférés biztosítása érdekében a 20 MW-ot meghaladó névleges teljesítőképességű termelői engedélyes és a termelői kapacitással, illetve energiával rendelkező villamosenergia-kereskedő a következő naptári évre rendelkezésére álló – tárgyév szeptember 25-éig más módon nem értékesített – szabad kapacitást és energiát – a (7) bekezdés szerinti eltéréssel – köteles nyilvánosan, mindenki számára hozzáférhető módon értékesíteni. Több termelői engedélyes és villamosenergia-kereskedő (a továbbiakban együtt: értékesítésre kötelezett) közös eljárás keretében is értékesítheti a rendelkezésére álló szabad kapacitást és energiát.
 
-(2) Az értékesítésre kötelezett tárgyév október 1-jéig jóváhagyásra benyújtja a Hivatalhoz az értékesíteni kívánt mennyiséget, és az értékesítés részletes szabályait. A Hivatal e bekezdés szerinti jóváhagyásra irányuló eljárásának ügyintézési határideje 15 munkanap.
+(2) Az értékesítésre kötelezett tárgyév október 1-jéig jóváhagyásra benyújtja a Hivatalhoz az értékesíteni kívánt mennyiséget, és az értékesítés részletes szabályait. A Hivatal e bekezdés szerinti jóváhagyásra irányuló eljárásának ügyintézési határideje húsz nap.
 
 (3) Az értékesítésre kötelezett tárgyév október 25-ig nyilvánosságra hozza az (1) bekezdés szerint értékesítésre kerülő kapacitást és energiamennyiséget, valamint az értékesítés Hivatal által jóváhagyott szabályait.
 

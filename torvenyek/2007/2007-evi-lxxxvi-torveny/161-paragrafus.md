@@ -16,6 +16,6 @@ d) egyéb bevételek.
 
 (4) A Hivatal kérelemre indult eljárásáért igazgatási-szolgáltatási díjat kell fizetni.
 
-(5) Az igazgatási-szolgáltatási díj és a bírságok mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(5) Az igazgatási-szolgáltatási díj és a bírságok mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (6)–(7)

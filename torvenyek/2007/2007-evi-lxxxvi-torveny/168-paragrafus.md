@@ -14,17 +14,17 @@ b) amennyiben a Hivatal
 
 ba) a hálózathoz való csatlakozásra, vagy a hálózathoz való hozzáférésre vonatkozó rendelkezések megsértése ügyében, valamint
 
-bb) a 159. § s)–sz) pontjaiban meghatározott hatáskörében, jár el, 45 munkanap,
+bb) a 159. § s)–sz) pontjaiban meghatározott hatáskörében, jár el, két hónap,
 
-c) a korlátozott villamos energia kereskedelmi engedélyezési ügyekben 22 munkanap,
+c) a korlátozott villamos energia kereskedelmi engedélyezési ügyekben harminc nap,
 
-d) amennyiben a Hivatal a határkeresztező kapacitások elosztásának, az 1228/2003/EK rendelet 6. cikke szerinti kezelésére vonatkozó eljárással összefüggésben a rendszerhasználó kérelmére indult eljárásban jár el, 22 munkanap,
+d) amennyiben a Hivatal a határkeresztező kapacitások elosztásának, az 1228/2003/EK rendelet 6. cikke szerinti kezelésére vonatkozó eljárással összefüggésben a rendszerhasználó kérelmére indult eljárásban jár el, harminc nap,
 
-e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el hat hónap, amely egy alkalommal három hónappal meghosszabbítható.
+e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el hat hónap, amely egy alkalommal három hónappal meghosszabbítható,
 
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
 
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezésétől számított 22 munkanapon belül hiánypótlásra hívja fel.
+(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlásra hívja fel.
 
 (7) Ellenérdekű ügyfél hiányában a Hivatal eljárása során részben, vagy egészben eltekinthet a magyar nyelv kötelező használatától, valamint az iratok magyar nyelven történő benyújtásától. Ebben az esetben az iratokról magyar nyelvű összefoglalót kell benyújtani a Hivatalhoz.
 

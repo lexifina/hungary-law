@@ -1,6 +1,6 @@
 117. § (1)
 
-(2) A Hatóság eljárása során az ügyintézés határideje 45 munkanap.
+(2) A Hatóság eljárása során az ügyintézés határideje két hónap.
 
 (3) Az építésügyi hatósági engedélyezési eljárásokban a villamosmű, termelői vezeték, magánvezeték, a közvetlen vezeték, valamint ezek biztonsági övezetében lévő ingatlan tulajdonosa és az, akinek az ilyen ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 

@@ -130,9 +130,9 @@ rendeletben állapítsa meg.
 
 a) a környezetvédelemért felelős miniszterrel együttműködve az erőművek által teljesítendő, az elsődleges energiaforrás típustól függően eltérő minimális energetikai hatásfok körülményeket,
 
-b) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+b) az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 
-c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint a területfejlesztésért és területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
+c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
 
 d) a villamosenergia-ipari tevékenységet folytató vállalkozásokkal, valamint az ilyen tevékenységet folytató vállalkozások munkavállalói érdekképviseleti szervezeteivel való együttműködés érdekében működtetett energetikai tanácsadó testületet működésének részletes feltételeit az érintett felek képviselőivel egyetértésben
 
@@ -146,10 +146,10 @@ rendeletben állapítsa meg.
 
 3. a villamosmű, termelői, felhasználói vagy közvetlen vezeték műszaki-biztonsági követelményeit,
 
-4. az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+4. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 
 5. a villamosművet, termelői, magán- vagy közvetlen vezetéket körülvevő biztonsági övezetre vonatkozó szabályokat, az ott érvényesítendő tilalmakat és korlátozásokat, a vezetékjog alapján építhető átalakító- és kapcsolóberendezések körét
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számvitelért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
+(4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
