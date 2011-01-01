@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-326-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2001-326-20-22.9 | 326/2001. (XII. 30.) Korm. rendelet |
+| 2011-01-01 | 2001-326-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
