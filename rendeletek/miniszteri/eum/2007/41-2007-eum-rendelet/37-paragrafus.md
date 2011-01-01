@@ -8,9 +8,9 @@
 
 (4) Az e rendelet 23. § (4) bekezdésében meghatározott módszertani leveleket az OGYI a honlapján e rendelet kihirdetését követő 30 napon belül közzéteszi.
 
-(5)[^57]
+(5)[^72]
 
-(6)[^58]
+(6)[^73]
 
-[^57]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
-[^58]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^72]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
+[^73]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

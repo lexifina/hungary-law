@@ -1,5 +1,5 @@
-26. § (1)[^48] A 23. § (2) bekezdés a) pont ab) és ac) alpontja szerinti feladatot ellátó intézeti gyógyszertárban az 1. számú mellékletében foglalt felszereléseket és eszközöket az ellátott feladat figyelembevételével, továbbá a maró anyagok, savak tárolására alkalmas szekrényt vagy fülkét kell biztosítani.
+26. § (1)[^61] A 23. § (2) bekezdés a) pont ab) és ac) alpontja szerinti feladatot ellátó intézeti gyógyszertárban az 1. számú mellékletében foglalt felszereléseket és eszközöket az ellátott feladat figyelembevételével, továbbá a maró anyagok, savak tárolására alkalmas szekrényt vagy fülkét kell biztosítani.
 
 (2) A 23. § (2) bekezdés b) pontja szerinti szakfeladatok esetén a berendezést, felszerelést az ellátott feladatok figyelembevételével úgy kell kialakítani, biztosítani, hogy az megfeleljen az e rendelet 2. számú mellékletében foglaltaknak is.
 
-[^48]: A 26. § (1) bekezdése az 56/2009. (XII. 30.) EüM rendelet 16. §-ával megállapított szöveg.
+[^61]: A 26. § (1) bekezdése az 56/2009. (XII. 30.) EüM rendelet 16. §-ával megállapított szöveg.

@@ -4,11 +4,11 @@
 
 a) alapfeladatok:
 
-aa)[^46] külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszerek beszerzése, eltartása, raktározása, ellenőrzése, a kórházi fekvő- és járóbeteg-ellátó osztályok, részlegek, valamint az azokkal funkcionális kapcsolatban álló részlegek (a továbbiakban együtt: osztály) részére történő kiszolgáltatása, szakmai információ nyújtása,
+aa)[^57] külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszerek beszerzése, eltartása, raktározása, ellenőrzése, a kórházi fekvő- és járóbeteg-ellátó osztályok, részlegek, valamint az azokkal funkcionális kapcsolatban álló részlegek (a továbbiakban együtt: osztály) részére történő kiszolgáltatása, szakmai információ nyújtása,
 
 ab) az aa) pont szerinti tevékenységen felül magisztrális gyógyszerek készítése,
 
-ac) az aa) és ab) pont szerinti tevékenységen felül közvetlen lakossági gyógyszerellátást biztosító tevékenység;
+ac)[^58]
 
 b) szakfeladatok:
 
@@ -22,6 +22,8 @@ bd) betegre szabott gyógyszerosztás végzése,
 
 be) betegágy melletti gyógyszerészi tanácsadás,
 
+bf)[^59] közvetlen lakossági gyógyszerellátást biztosító tevékenység,
+
 ## azzal, hogy a ba) pont szerinti szakfeladatot kizárólag az ab) pont szerinti alapfeladatot is végző intézeti gyógyszertár végezhet.
 
 (3) Az alapfeladatokat végző intézeti gyógyszertárban a (2) bekezdés szerinti alapfeladatának megfelelően a működési engedélyt kiadó ÁNTSz által hitelesített, a 18. § (1)–(11) bekezdése és a 19. § szerinti nyilvántartásokat kell vezetni.
@@ -32,4 +34,6 @@ be) betegágy melletti gyógyszerészi tanácsadás,
 
 (6) Az intézeti gyógyszertárnak a 16. §-ban foglaltaknak eleget kell tennie.
 
-[^46]: A 23. § (2) bekezdés a) pont aa) alpontja az 56/2009. (XII. 30.) EüM rendelet 14. §-ával megállapított szöveg.
+[^57]: A 23. § (2) bekezdés a) pont aa) alpontja az 56/2009. (XII. 30.) EüM rendelet 14. §-ával megállapított szöveg.
+[^58]: A 23. § (2) bekezdés a) pont ac) alpontját a 31/2010. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^59]: A 23. § (2) bekezdés b) pont bf) alpontját a 31/2010. (XII. 30.) NEFMI rendelet 10. §-a iktatta be.

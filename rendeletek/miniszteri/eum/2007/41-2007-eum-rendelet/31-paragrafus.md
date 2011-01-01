@@ -38,7 +38,7 @@ a) biztosítani kell
 
 aa) a külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszereknek a forgalomba hozatali engedélyben meghatározott,
 
-ab)[^51] a magisztrális gyógyszereknek a Gyógyszerkönyvben, a Szabványos Vényminták gyűjteményében, illetve az egyedi előiratban meghatározott,
+ab)[^64] a magisztrális gyógyszereknek a Gyógyszerkönyvben, a Szabványos Vényminták gyűjteményében, illetve az egyedi előiratban meghatározott,
 
 ac) a forgalomból kivont, valamint a lejárt felhasználhatósági határidejű gyógyszer – további intézkedésig (selejtezésig) történő – elkülönített
 
@@ -54,4 +54,4 @@ bc) a tárolás körülményeit, így különösen a hőmérsékletet, fénytől
 
 (6) A fokozottan ellenőrzött szernek minősülő gyógyszerek kórházi rendelésére, tárolására, kiadására és nyilvántartására vonatkozó szabályokat külön jogszabály állapítja meg.
 
-[^51]: A 31. § (5) bekezdés a) pont ab) alpontja az 56/2009. (XII. 30.) EüM rendelet 19. §-ával megállapított szöveg.
+[^64]: A 31. § (5) bekezdés a) pont ab) alpontja az 56/2009. (XII. 30.) EüM rendelet 19. §-ával megállapított szöveg.
