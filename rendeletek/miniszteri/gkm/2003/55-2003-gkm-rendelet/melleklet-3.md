@@ -4,6 +4,6 @@
 
 ## (Az itt használt kifejezések megfelelnek az Európai Elektrotechnikai Szabványosítási Bizottság által megállapított 1998. decemberi EN 50294-es számú szabványban szereplő definícióknak.)
 
-3. számú melléklet az 55/2003. (IX. 4.) GKM rendelethez[^7]
+3. számú melléklet az 55/2003. (IX. 4.) GKM rendelethez[^8]
 
-[^7]: A 3. számú melléklet e rendelet 7. §-ának (3) bekezdése alapján 2005. november 21. napján hatályát vesztette.
+[^8]: A 3. számú melléklet e rendelet 7. §-ának (3) bekezdése alapján 2005. november 21. napján hatályát vesztette.
