@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-3-20-39
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2000-03-03 | 1996-3-20-39.4 | 3/1996. (IV. 5.) MüM rendelet |
+| 2011-01-01 | 1996-3-20-39.5 | 3/1997. (I. 28.) MüM rendelet |

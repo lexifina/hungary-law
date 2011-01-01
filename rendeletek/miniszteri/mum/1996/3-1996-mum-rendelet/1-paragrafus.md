@@ -1,4 +1,4 @@
-1. § (1)[^2] A megyei (fővárosi) munkaügyi központ (a továbbiakban: munkaügyi központ) központi szervezeti egysége rendbírság fizetésére kötelezi
+1. § (1)[^2] A fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) központi szervezeti egysége rendbírság fizetésére kötelezi
 
 a)[^3] az Flt. 58. §-a (5) bekezdésének c) pontjában meghatározott azt a munkaadót, aki a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 94/A. §-ában, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 17/B. §-ában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38. §-ában előírtaknak megfelelően, a csoportos létszámcsökkentéssel kapcsolatban, a munkaügyi központ részére történő tájékoztatási kötelezettségének nem, vagy nem a meghatározott időpontban, továbbá hiányos vagy valótlan adattartalommal tett eleget,
 
@@ -16,7 +16,7 @@ e)[^7] azt a munkaadót, aki a munkanélküli járadék megállapításához sz�
 
 (2)[^8]
 
-[^2]: Az 1. § (1) bekezdésének bevezető mondata a 3/1997. (I. 28.) MüM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdésének bevezető mondata a 3/1997. (I. 28.) MüM rendelet 1. §-ával megállapított, a 27/2010. (XII. 31.) NGM rendelet 7. §-a szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdésének a) pontját a 3/2000. (III. 3.) SZCSM rendelet 1. §-a iktatta a szövegbe.
 [^4]: Az 1. § (1) bekezdésének b) pontja a 8/1999. (XI.10.) SZCSM rendelet 18. §-ának (5) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdésének c) pontja a 3/2000. (III. 3.) SZCSM rendelet 1. §-ával megállapított szöveg.
