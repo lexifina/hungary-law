@@ -4,6 +4,6 @@
 
 (3) A kifizetett összeg a személyi jövedelemadó szempontjából a kárpótlással esik egy tekintet alá.
 
-(4)[^3]
+(4)[^5]
 
-[^3]: A 3. § (4) bekezdését a 298/2001. (XII. 27.) Korm. rendelet 4. §-ának a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (4) bekezdését a 298/2001. (XII. 27.) Korm. rendelet 4. §-ának a) pontja hatályon kívül helyezte.

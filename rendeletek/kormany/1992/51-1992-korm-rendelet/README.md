@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-51-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1992-51-20-22.3 | 51/1992. (III. 18.) Korm. rendelet |
+| 2011-01-01 | 1992-51-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
