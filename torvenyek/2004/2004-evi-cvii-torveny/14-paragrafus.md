@@ -11578,6 +11578,16 @@ Mosonszolnok
 
 |
 
+Mosonudvar
+
+|
+
+|
+
+|
+
+|
+
 Püski
 
 |
@@ -27608,31 +27618,11 @@ Ajkai
 
 |
 
-Adorjánháza
-
-|
-
 Ajka
 
 |
 
-|
-
-|
-
 Ajka
-
-|
-
-|
-
-|
-
-|
-
-Apácatorna
-
-|
 
 |
 
@@ -27650,17 +27640,141 @@ Bakonypölöske
 
 |
 
-Borszörcsök
-
-|
-
-|
-
-|
-
-|
-
 Csehbánya
+
+|
+
+|
+
+|
+
+|
+
+Halimba
+
+|
+
+|
+
+|
+
+|
+
+Kislőd
+
+|
+
+|
+
+|
+
+|
+
+Magyarpolány
+
+|
+
+|
+
+|
+
+|
+
+Noszlop
+
+|
+
+|
+
+|
+
+|
+
+Nyirád
+
+|
+
+|
+
+|
+
+|
+
+Öcs
+
+|
+
+|
+
+|
+
+|
+
+Szőc
+
+|
+
+|
+
+|
+
+|
+
+Úrkút
+
+|
+
+|
+
+|
+
+|
+
+Városlőd”
+
+|
+
+|
+
+...
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Devecseri
+
+|
+
+Adorjánháza
+
+|
+
+Devecser
+
+|
+
+|
+
+|
+
+Apácatorna
+
+|
+
+|
+
+|
+
+|
+
+Borszörcsök
 
 |
 
@@ -27711,16 +27825,6 @@ Doba
 |
 
 Egeralja
-
-|
-
-|
-
-|
-
-|
-
-Halimba
 
 |
 
@@ -27790,16 +27894,6 @@ Kiscsősz
 
 |
 
-Kislőd
-
-|
-
-|
-
-|
-
-|
-
 Kispirit
 
 |
@@ -27830,16 +27924,6 @@ Kolontár
 
 |
 
-Magyarpolány
-
-|
-
-|
-
-|
-
-|
-
 Nagyalásony
 
 |
@@ -27860,37 +27944,7 @@ Nagypirit
 
 |
 
-Noszlop
-
-|
-
-|
-
-|
-
-|
-
-Nyirád
-
-|
-
-|
-
-|
-
-|
-
 Oroszi
-
-|
-
-|
-
-|
-
-|
-
-Öcs
 
 |
 
@@ -27950,37 +28004,7 @@ Somlóvecse
 
 |
 
-Szőc
-
-|
-
-|
-
-|
-
-|
-
 Tüskevár
-
-|
-
-|
-
-|
-
-|
-
-Úrkút
-
-|
-
-|
-
-|
-
-|
-
-Városlőd
 
 |
 
@@ -32331,6 +32355,16 @@ Sümegcsehi
 |
 
 Szalapa
+
+|
+
+|
+
+|
+
+|
+
+Tekenye
 
 |
 
