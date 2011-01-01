@@ -12,6 +12,8 @@ d) a foglalkozási ág vagy munkakör megnevezését.
 
 (2) Távoktatás esetén az (1) bekezdés b)–d) pont pontjában meghatározottakat, valamint a távoktatás tényét kell bejelenteni.
 
-(3) Az (1) és (2) bekezdésben meghatározott adatokat úgy kell közölni a tűzvédelmi hatósággal, hogy az a bejelentést legalább az oktatás vagy a szakvizsga időpontja előtt 8 munkanappal korábban megkapja.
+(3)[^2] Az (1) és (2) bekezdésben meghatározott adatokat úgy kell közölni a tűzvédelmi hatósággal, hogy az a bejelentést legalább az oktatás vagy a szakvizsga időpontja előtt tíz nappal korábban megkapja.
 
 (4) Az e rendeletben előírt feltételek hiányában az oktatást megtartani, és a szakvizsgát lefolytatni nem lehet.
+
+[^2]: A 4. § (3) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (13) bekezdése szerint módosított szöveg.

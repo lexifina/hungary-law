@@ -8,6 +8,6 @@
 
 (4) A szakvizsga törzsanyagának és a javasolt szakirodalom változásait a (2) bekezdésben meghatározott módon kell közzétenni.
 
-(5)[^1]
+(5)[^5]
 
-[^1]: A 9. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^5]: A 9. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

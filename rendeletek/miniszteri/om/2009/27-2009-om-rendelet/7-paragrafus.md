@@ -8,6 +8,8 @@ b) a tűzvédelmi hatóság megállapította, és az oktatásszervezőt arról �
 
 c) a tűzvédelmi hatóság megállapította, és az oktatásszervezőt arról értesítette, hogy a tűzoltó-technikai termék tervezését, kivitelezését, karbantartását a jogszabályban, tűzvédelmi műszaki követelményben, a tűzvédelmi hatósági engedélyben foglaltaktól eltérő módon, vagy annak működőképességét veszélyeztetve végzi.
 
-(2) Az érvénytelen bizonyítványt az oktatásszervező köteles visszavonni. Az oktatásszervező a bizonyítvány visszavonásáról a bizonyítvány számának megadásával 5 munkanapon belül írásban értesíti a tűzvédelmi hatóságot és az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF). Az OKF az értesítés alapján a bizonyítvány számát honlapján közzéteszi.
+(2)[^4] Az érvénytelen bizonyítványt az oktatásszervező köteles visszavonni. Az oktatásszervező a bizonyítvány visszavonásáról a bizonyítvány számának megadásával nyolc napon belül írásban értesíti a tűzvédelmi hatóságot és az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF). Az OKF az értesítés alapján a bizonyítvány számát honlapján közzéteszi.
 
 (3) Ha az érvénytelen bizonyítvány visszavonásra kerül, akkor az ismételt szakvizsgára bocsáthatóság feltétele a felkészítő tanfolyam újbóli elvégzése.
+
+[^4]: A 7. § (2) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (13) bekezdése szerint módosított szöveg.
