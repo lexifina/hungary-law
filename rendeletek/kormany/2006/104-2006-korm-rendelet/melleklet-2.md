@@ -8,7 +8,7 @@
 
 ## 1.1. Tartószerkezeti tervezési jogosultsággal végezhető építészeti-műszaki tervezési tevékenység:
 
-## a)[^119] épület tartószerkezetének és bármely rendszerű alapozásának tervezése, illetve meglévő épület tartószerkezete átalakításának, megerősítésének, helyreállításának tervezése építésztervező és a feladat szerinti szakági tervezőkkel együttműködve,
+## a)[^122] épület tartószerkezetének és bármely rendszerű alapozásának tervezése, illetve meglévő épület tartószerkezete átalakításának, megerősítésének, helyreállításának tervezése építésztervező és a feladat szerinti szakági tervezőkkel együttműködve,
 
 ## b) homlokzati és alaprajzi változást nem igénylő esetben bármely rendeltetésű építmény – technológiaváltással összefüggően is – tartószerkezeti átalakításának, megerősítésének, helyreállításának tervezése,
 
@@ -116,7 +116,7 @@
 
 ## 6. Építmények technológiai tervezés szakterület (betűjele: ÉT)
 
-## 6.1.[^120] Gépész tervezési jogosultsággal végezhető tevékenység:
+## 6.1.[^123] Gépész tervezési jogosultsággal végezhető tevékenység:
 
 ## a) építmények mozgó szerkezetei tervezése, azok hajtása és irányítása a felvonó és mozgólépcső kivételével,
 
@@ -164,7 +164,7 @@
 
 ## 8.1. Közlekedési építmények tervezési szakterület
 
-## 8.1.1.[^121] Közlekedési építmények tervezési jogosultsággal végezhető tevékenység (betűjele: KÉ)
+## 8.1.1.[^124] Közlekedési építmények tervezési jogosultsággal végezhető tevékenység (betűjele: KÉ)
 
 ## a) általános közlekedéstervezés,
 
@@ -178,7 +178,7 @@
 
 ## f) különleges közlekedési eszközök és pályák [fogaskerekű vasút, sikló, függőpálya (beleértve a bányászati függőpályát is), sífelvonó, a bányaüzem területét elhagyó külszíni bányavasút és bányászati szalagpálya stb.] tervezése,
 
-## g)[^122] erdészeti közlekedési építmények.
+## g)[^125] erdészeti közlekedési építmények.
 
 ## 8.1.1.1. A tevékenységhez szükséges képzettség: alapképzésben vagy mesterképzésben szerzett szakképzettség szakirányú: építőmérnök vagy okl. építőmérnök, illetve a Jr. 3. § (8)–(9) bekezdése szerint ezzel egyenértékű képzettség.
 
@@ -276,7 +276,7 @@
 
 ## A korlátozott tervezés tevékenységi köre nem terjed ki a 3. § (5) bekezdésének b) pontjában meghatározott építési munkák építészeti-műszaki terveinek készítésére.
 
-## 2.[^123]
+## 2.[^126]
 
 ## 3. Táj- és kertépítészeti tervezési szakterület (betűjele: K)
 
@@ -368,8 +368,8 @@
 
 2. melléklet a 104/2006. (IV. 28.) Korm. rendelethez
 
-[^119]: Az 1. melléklet I. rész 1.1. pontjának a) alpontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 22. pontja szerint módosított szöveg.
-[^120]: Az 1. melléklet I. részének 6.1. alpontja a 196/2009. (IX. 15.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^121]: Az 1. melléklet I. részének 8.1.1. pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (4) bekezdésének 29. pontja szerint módosított szöveg.
-[^122]: Az 1. melléklet I. rész 8.1.1. pontjának g) alpontját a 196/2009. (IX. 15.) Korm. rendelet 34. § (2) bekezdése iktatta be.
-[^123]: Az 1. melléklet II/A. rész 2. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 23. pontja hatályon kívül helyezte.
+[^122]: Az 1. melléklet I. rész 1.1. pontjának a) alpontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 22. pontja szerint módosított szöveg.
+[^123]: Az 1. melléklet I. részének 6.1. alpontja a 196/2009. (IX. 15.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^124]: Az 1. melléklet I. részének 8.1.1. pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (4) bekezdésének 29. pontja szerint módosított szöveg.
+[^125]: Az 1. melléklet I. rész 8.1.1. pontjának g) alpontját a 196/2009. (IX. 15.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^126]: Az 1. melléklet II/A. rész 2. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 23. pontja hatályon kívül helyezte.

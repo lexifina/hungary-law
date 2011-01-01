@@ -12,21 +12,21 @@
 
 ## c) településtervezés építészeti értékvédelmi munkarész,
 
-## d)[^124]
+## d)[^127]
 
 ## készítése.
 
 ## 1.2. Településtervezési szakterületen az 1.1. pont c) alpontjában felsorolt munkarészt okleveles építészmérnök készíthet.
 
-## 1.3.[^125] A településszerkezeti terv és a szabályozási terv beépítésre szánt területei szabályozási munkarészeit a 3. § (3) bekezdésének a) pontjában meghatározott végzettségű, vagy a ba) alpontjában meghatározott vagy azzal egyenértékű képzettségű, településtervezési jogosultsággal rendelkező tervező készítheti.
+## 1.3.[^128] A településszerkezeti terv és a szabályozási terv beépítésre szánt területei szabályozási munkarészeit a 3. § (3) bekezdésének a) pontjában meghatározott végzettségű, vagy a ba) alpontjában meghatározott vagy azzal egyenértékű képzettségű, településtervezési jogosultsággal rendelkező tervező készítheti.
 
-## 1.4.[^126]
+## 1.4.[^129]
 
 ## 2. Településrendezési zöldfelületi és tájrendezési tervezési szakterület (betűjele: TK)
 
 ## 2.1. Tevékenységi köre: településtervezési tájrendezési, illetve környezetalakítási munkarészek készítése.
 
-## 2.2.[^127] A településszerkezeti terv és a szabályozási terv beépítésre nem szánt területeinek, továbbá a beépítésre szánt területek zöldfelületeinek szabályozási munkarészeit a 3. § (3) bekezdésének bb) alpontjában meghatározott vagy azzal egyenértékű képzettségű, településrendezési zöldfelületi és tájrendezési tervezési jogosultsággal rendelkező tervező készítheti.
+## 2.2.[^130] A településszerkezeti terv és a szabályozási terv beépítésre nem szánt területeinek, továbbá a beépítésre szánt területek zöldfelületeinek szabályozási munkarészeit a 3. § (3) bekezdésének bb) alpontjában meghatározott vagy azzal egyenértékű képzettségű, településrendezési zöldfelületi és tájrendezési tervezési jogosultsággal rendelkező tervező készítheti.
 
 ## I/B.
 
@@ -40,7 +40,7 @@
 
 ## b) jogszabállyal védetté nyilvánított terület, valamint a vegyes és különleges területfelhasználási kategóriába sorolt (sorolható) terület kivételével a településrész (főváros esetében fővárosi kerületrész) szabályozási terve és helyi építési szabályzata tervezete; továbbá
 
-## c)[^128] jogszabállyal védetté nyilvánított terület.
+## c)[^131] jogszabállyal védetté nyilvánított terület.
 
 ## II.
 
@@ -72,8 +72,8 @@
 
 3. melléklet a 104/2006. (IV. 28.) Korm. rendelethez
 
-[^124]: A 2. melléklet I/A. rész 1.1. pontjának d) alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 24. pontja hatályon kívül helyezte.
-[^125]: A 2. melléklet I/A. része 1. pontjának új 1.3. alpontját a 61/2008. (III. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti 1.3. alpont számozását 1.4. alpontra változtatva. A 2. melléklet I/A. részének 1.3. alpontja a 196/2009. (IX. 15.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^126]: A 2. melléklet I/A. rész 1. pontja eredeti 1.3. alpontjának számozását a 61/2008. (III. 27.) Korm. rendelet 22. § (3) bekezdése 1.4. alpontra változtatta. A 2. melléklet I/A. rész 1.4. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 24. pontja hatályon kívül helyezte.
-[^127]: A 2. melléklet I/A. részének 2.2. alpontja a 196/2009. (IX. 15.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^128]: A 2. melléklet I/B. rész 1. pontjának c) alpontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 25. pontja szerint módosított szöveg.
+[^127]: A 2. melléklet I/A. rész 1.1. pontjának d) alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 24. pontja hatályon kívül helyezte.
+[^128]: A 2. melléklet I/A. része 1. pontjának új 1.3. alpontját a 61/2008. (III. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti 1.3. alpont számozását 1.4. alpontra változtatva. A 2. melléklet I/A. részének 1.3. alpontja a 196/2009. (IX. 15.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^129]: A 2. melléklet I/A. rész 1. pontja eredeti 1.3. alpontjának számozását a 61/2008. (III. 27.) Korm. rendelet 22. § (3) bekezdése 1.4. alpontra változtatta. A 2. melléklet I/A. rész 1.4. alpontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 24. pontja hatályon kívül helyezte.
+[^130]: A 2. melléklet I/A. részének 2.2. alpontja a 196/2009. (IX. 15.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^131]: A 2. melléklet I/B. rész 1. pontjának c) alpontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 25. pontja szerint módosított szöveg.

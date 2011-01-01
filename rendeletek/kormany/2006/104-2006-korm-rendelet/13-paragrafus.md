@@ -1,10 +1,10 @@
-## 12. §[^81]
+## 12. §[^82]
 
-## A kérelem elbírálása[^82]
+## A kérelem elbírálása[^83]
 
-13. §[^83] (1) Ha a kérelem hiányos, a területi szakmai kamara tizenöt munkanapos határidő megjelölésével a kérelmezőt a hiányok pótlására hívja fel.
+13. §[^84] (1)[^85] Ha a kérelem hiányos, a területi szakmai kamara húsznapos határidő megjelölésével a kérelmezőt a hiányok pótlására hívja fel.
 
-(2) A területi szakmai kamara az engedélyezési eljárásban az illetékes területi mérnöki, illetve építész kamara elnökségének véleményét beszerzi a kamarai tagfelvétel, valamint a szakmai gyakorlat szakirányúságának megállapítása céljából.
+(2)[^86] A területi szakmai kamara az engedélyezési eljárásban az illetékes területi mérnöki, illetve építész kamara elnökségének véleményét kikéri a kamarai tagfelvétel, valamint a szakmai gyakorlat szakirányúságának megállapítása céljából.
 
 (3) A kérelemnek helyt adó egyszerűsített határozat tartalmazza
 
@@ -22,6 +22,8 @@ e) a külön jogszabály szerinti továbbképzési kötelezettség teljesítése
 
 (5) A területi szakmai kamarák – a (3) bekezdésben meghatározottakon túlmenően – kérelemre feljegyezhetik a névjegyzékbe azt a szakterületet vagy részterületet, amelyen a kérelmező kiemelkedő gyakorlatot igazolt.
 
-[^81]: A 12. §-t és az azt megelőző alcímet a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 17. pontja hatályon kívül helyezte. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^82]: A 13. §-t megelőző alcím a 196/2009. (IX. 15.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^83]: A 13. § a 196/2009. (IX. 15.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^82]: A 12. §-t és az azt megelőző alcímet a 196/2009. (IX. 15.) Korm. rendelet 61. § (2) bekezdésének 17. pontja hatályon kívül helyezte. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^83]: A 13. §-t megelőző alcím a 196/2009. (IX. 15.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^84]: A 13. § a 196/2009. (IX. 15.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^85]: A 13. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (77) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^86]: A 13. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (77) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
