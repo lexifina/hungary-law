@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-159-20-
 | --- | --- | --- |
 | 2009-10-01 | 2005-159-20-22.6 | 159/2005. (VIII. 16.) Korm. rendelet |
 | 2010-04-01 | 2005-159-20-22.7 | 90/2010. (III. 26.) Korm. rendelet |
+| 2011-01-01 | 2005-159-20-22.8 | 273/2010. (XII. 9.) Korm. rendelet |
