@@ -1,4 +1,4 @@
-43. §[^53] (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után le kell zárni.
+43. §[^54] (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után le kell zárni.
 
 (2) Papír alapú iktatókönyv zárása esetén az iktatásra felhasznált utolsó számot követő aláhúzással kell a zárást elvégezni, majd azt a keltezést követően aláírással, továbbá a közfeladatot ellátó szerv hivatalos bélyegzőlenyomatával kell hitelesíteni. Ezt követően a lezárt iktatókönyvben nem lehet iktatást végezni.
 
@@ -8,4 +8,4 @@
 
 (5) Az időbélyegzővel ellátott, lezárt érkeztető nyilvántartást, iktatókönyvet, adatállományait és az elektronikus dokumentumokat archiválni kell, és a biztonsági másolatot elektronikus adathordozón tűzbiztos helyen kell tárolni. Az elektronikus érkeztető nyilvántartás elektronikus adathordozóra elmentett példányát az archiválást követő második évben meg kell semmisíteni.
 
-[^53]: A 43. § a 64/2010. (III. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^54]: A 43. § a 64/2010. (III. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
