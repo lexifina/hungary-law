@@ -1,0 +1,1 @@
+A szabálysértésekről szóló 1999. évi LXIX. törvény 167. § (7) bekezdésében foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § o) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
