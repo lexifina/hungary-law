@@ -4,8 +4,8 @@
 
 22. § (1) Ez a rendelet 2010. március 15-én lép hatályba.
 
-(2)–(3)[^1]
+(2)–(3)[^2]
 
 (4) A (2)–(3) bekezdés e rendelet hatálybalépését követő napon a hatályát veszti.
 
-[^1]: A 22. § (2)–(3) bekezdését a (4) bekezdés hatályon kívül helyezte.
+[^2]: A 22. § (2)–(3) bekezdését a (4) bekezdés hatályon kívül helyezte.

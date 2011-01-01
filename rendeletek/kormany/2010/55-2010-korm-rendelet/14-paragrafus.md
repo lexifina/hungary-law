@@ -10,4 +10,6 @@ b) a fogadó létesítményeket: vasúti ki- és berakóállomásokat, folyami k
 
 c) az egészségügyi ellátás biztosításához felajánlható képességeket,
 
-d) a Magyar Honvédség és a rendvédelmi szervek befogadó nemzeti támogatással kapcsolatos képességeit.
+d)[^1] a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek befogadó nemzeti támogatással kapcsolatos képességeit.
+
+[^1]: A 14. § (2) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 131. §-a szerint módosított szöveg.
