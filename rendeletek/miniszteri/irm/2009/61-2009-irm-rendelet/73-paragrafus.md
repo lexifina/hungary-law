@@ -24,4 +24,6 @@ e) a rendeletalkotás aktusára utaló kifejezést
 
 foglalja magában.
 
-(5) A felhatalmazó rendelkezésben – a (4) bekezdésben foglaltakon túl – meghatározhatóak a felhatalmazás korlátai.
+(5)[^42] A felhatalmazó rendelkezésben – a (4) bekezdésben foglaltakon túl – a felhatalmazás korlátainak, illetve feltételeinek rögzítésével kell meghatározni a felhatalmazás kereteit.
+
+[^42]: A 73. § (5) bekezdése a 19/2010. (XII. 21.) KIM rendelet 10. §-ával megállapított szöveg.

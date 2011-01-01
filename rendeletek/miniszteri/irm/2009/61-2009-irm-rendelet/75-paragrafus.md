@@ -6,9 +6,9 @@ a) a Magyar Nemzeti Bank elnökét,
 
 b) a Kormányt,
 
-c) a Kormány egy vagy több tagját önállóan,
+c)[^45] a Kormány egy vagy több tagját önállóan vagy más miniszternek egyetértési jogot biztosítva,
 
-d)[^19] több minisztert együttesen vagy
+d)[^46] a Pénzügyi Szervezetek Állami Felügyelete elnökét vagy
 
 e) helyi önkormányzatot
 
@@ -20,4 +20,5 @@ lehet megjelölni.
 
 (4) Ha a felhatalmazás azonos tárgykörben minden miniszternek önálló rendelet kiadására szól, a felhatalmazás címzettjeit általánosan, többes számban kell megjelölni.
 
-[^19]: A 75. § (1) bekezdés d) pontja a 11/2010. (X. 25.) KIM rendelet 3. § (7) bekezdés 3. pontja szerint módosított szöveg.
+[^45]: A 75. § (1) bekezdés c) pontja a 19/2010. (XII. 21.) KIM rendelet 18. § (7) bekezdése szerint módosított szöveg.
+[^46]: A 75. § (1) bekezdés d) pontja a 19/2010. (XII. 21.) KIM rendelet 18. § (7) bekezdése szerint módosított szöveg.

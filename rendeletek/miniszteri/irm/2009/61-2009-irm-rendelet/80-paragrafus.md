@@ -1,11 +1,13 @@
 ## 33. A hatálybalépés időpontjának meghatározása
 
-## 80. § A hatálybalépés időpontját
+80. §[^50] (1) A hatálybalépés napját
 
 a) a jogszabály kihirdetését követő meghatározott napban vagy a kihirdetést követő meghatározott hónap meghatározott napjában,
 
-b) ha az a) pont alkalmazásával a hatálybalépés időpontja nem határozható meg egyértelműen, naptári napban, ha a szabályozás célja másképp nem érhető el, naptári napban, órában és percben, vagy
-
-c) ha az a) és a b) pont alkalmazásával sem határozható meg egyértelműen a hatálybalépés időpontja, valamely esemény vagy feltétel bekövetkezésének a napjával vagy az ezt követő meghatározott nappal,
+b) ha az a) pont alkalmazásával a hatálybalépés időpontja nem határozható meg egyértelműen, naptári napban
 
 kell meghatározni.
+
+(2) Ha jogszabály hatálybalépése valamely jövőbeli feltétel bekövetkeztéhez kötődik, ezt a feltétel bekövetkezésének időpontjával vagy az ezt követő meghatározott nappal kell meghatározni.
+
+[^50]: A 80. § a 19/2010. (XII. 21.) KIM rendelet 11. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 (3) Nem módosítható szövegcserésen
 
-a)[^23]
+a)[^64]
 
 b) olyan szövegrész, amelynek valamely eleme valamely más elemét tartalmazó szerkezeti egységtől eltérő vagy azon belüli alacsonyabb szintű szerkezeti egységben található vagy
 
@@ -26,4 +26,4 @@ e) a „szöveg lép” szöveget
 
 foglalja magában.
 
-[^23]: A 105. § (3) bekezdés a) pontját a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 10. pontja hatályon kívül helyezte.
+[^64]: A 105. § (3) bekezdés a) pontját a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 10. pontja hatályon kívül helyezte.

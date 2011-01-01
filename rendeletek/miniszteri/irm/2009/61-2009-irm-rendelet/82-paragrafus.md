@@ -1,11 +1,5 @@
 82. § (1) Nem állapítható meg a jogszabály vagy szerkezeti egysége hatálybalépésének a napját megalapozó feltételként vagy eseményként valamely állami szerv jogszabálynak nem minősülő aktusának rendelkezése vagy olyan jogszabály által meghatározott tény, amely a hatályba léptetni kívánt jogszabállyal az Alkotmány alapján nem lehet ellentétes.
 
-(2) Ha a hatálybalépés időpontjaként valamely feltétel vagy esemény bekövetkezésének időpontja van megjelölve, a hatályba léptető rendelkezés után önálló bekezdésben elő kell írni, hogy a feltétel bekövetkezésének napját
+(2)[^52] Ha jogszabály vagy jogszabályi rendelkezés hatálybalépése valamely jövőbeli feltétel bekövetkeztéhez kötődik, a jogszabály tervezetében – az önkormányzati rendelet kivételével – a hatályba léptető rendelkezés után önálló bekezdésben kell rendelkezni arról, hogy a feltétel bekövetkeztéről szóló határozat Magyar Közlönyben történő közzétételére mely feladatkörrel rendelkező miniszter köteles.
 
-a) törvény esetében a feladatkör alapján megjelölt miniszter,
-
-b) miniszteri rendelet és MNB rendelet esetében a megalkotó,
-
-c) kormányrendelet esetében a feladatkör alapján megjelölt miniszter
-
-a Magyar Közlönyben a feltétel vagy esemény bekövetkezését követően haladéktalanul közzétett egyedi határozatával állapítsa meg.
+[^52]: A 82. § (2) bekezdése a 19/2010. (XII. 21.) KIM rendelet 12. §-ával megállapított szöveg.

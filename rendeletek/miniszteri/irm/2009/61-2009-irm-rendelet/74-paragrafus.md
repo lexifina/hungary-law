@@ -1,9 +1,12 @@
-74. § (1) Ha a jogszabály tervezete hatályos felhatalmazás alapján kiadott jogszabályt hatályon kívül helyező rendelkezést tartalmaz, gondoskodni kell a felhatalmazást kitöltő új jogszabály tervezetének előkészítéséről is, kivéve, ha a felhatalmazást adó jogszabály rendelkezéseiből csak a végrehajtási jogszabály megalkotásának a lehetősége következik.
+74. § (1)[^43]
 
 (2) A jogszabály tervezetében a felhatalmazásra utaló kifejezés nem alkalmazható olyan rendelkezésben, amely
 
-a) állami irányítás egyéb jogi eszközének megalkotását írja elő,
+a)[^44] közjogi szervezetszabályozó eszköz megalkotását írja elő,
 
 b) valaminek a közzétételét rendeli el, vagy
 
 c) arról rendelkezik, hogy a jogszabály végrehajtása mely miniszter feladatkörébe tartozik.
+
+[^43]: A 74. § (1) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^44]: A 74. § (2) bekezdés a) pontja a 19/2010. (XII. 21.) KIM rendelet 18. § (6) bekezdése szerint módosított szöveg.

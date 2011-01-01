@@ -18,10 +18,6 @@ b) az azonos vagy hasonló jogviszonyokat átfogóan szabályozó törvények es
 
 szabályozni.
 
-(6) Átmeneti rendelkezésben kell meghatározni, ha
+(6)[^55]
 
-a) az anyagi jogi szabályt nem az alkalmazására okot adó jogi tény bekövetkezésének napján hatályos szabályok szerint kell alkalmazni, vagy
-
-b) az eljárásjogi szabályt nem az eljárási cselekmény megkezdésének időpontjában hatályos szabályok szerint kell alkalmazni,
-
-kivéve, ha ezt a jogszabály tervezete – nem átmeneti időszakra vonatkozó – alkalmazási szabályként meghatározza.
+[^55]: A 84. § (6) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.

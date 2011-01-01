@@ -1,4 +1,4 @@
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^82]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -12,43 +12,15 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a rövidíteni kívánt elemek felsorolása} (a továbbiakban együtt: {rövid megjelölés}) |
 
-2. A megalkotott jogszabály megjelölése a jogszabály kihirdetése során és a jogszabály tervezetének a megjelölése
+2. A jogszabály tervezetének a megjelölése
 
-2.2. A jogszabály megjelölése a kihirdetés során
-
-2.2.1.[^32]
-
-2.2.2.[^33]
-
-2.2.3. A törvény megjelölése a kihirdetés során
-
-| {a törvény kihirdetése évének a száma}. évi {a törvény száma}. törvény {a törvény címe} |
-
-2.2.4. Az önkormányzati rendelet megjelölése a kihirdetés során
-
-| {a rendelet megalkotójának a teljes megjelölése} {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) önkormányzati rendelete {a rendelet címe} |
-
-2.2.5. A Magyar Nemzeti Bank elnöke rendeletének a megjelölése a kihirdetés során
-
-| A Magyar Nemzeti Bank elnökének {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) MNB rendelete {a rendelet címe} |
-
-2.2.6. A kormányrendelet megjelölése a kihirdetés során
-
-| A Kormány {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) Korm. rendelete {a rendelet címe} |
-
-2.2.7. A miniszterelnöki rendelet megjelölése a kihirdetés során
-
-| A miniszterelnök {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) ME rendelete {a rendelet címe} |
-
-2.2.8. A miniszteri rendelet megjelölése a kihirdetés során
-
-| {a rendelet megalkotójának a teljes megjelölése} {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) {a rendelet megalkotójának rövid megjelölése} rendelete {a rendelet címe} |
+2.2.
 
 2.3. A jogszabály tervezetének a megjelölése
 
-2.3.1.[^34]
+2.3.1.
 
-2.3.2.[^35]
+2.3.2.
 
 2.3.3. A törvény tervezetének a megjelölése
 
@@ -74,15 +46,11 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a rendelet megalkotójának teljes megjelölése} …/… . (… . … .) {a rendelet megalkotójának rövid megjelölése} rendelete {a rendelet címe} |
 
-2.4. Az együttes rendelet és tervezetének a megjelölése
+2.3.9. A Pénzügyi Szervezetek Állami Felügyelete elnöke rendelete tervezetének a megjelölése
 
-2.4.1. Az együttes rendelet megjelölése a kihirdetés során
+| A Pénzügyi Szervezetek Állami Felügyelete elnökének .../... . (... . ... .) PSZÁF rendelete {a rendelet címe} |
 
-| {a felhatalmazó rendelkezésben elsőként megjelölt miniszter teljes megjelölése}, {a rendelet megalkotására jogosult annak a miniszternek a teljes megjelölése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az első} [...] és {a rendelet megalkotására jogosult annak a miniszternek a teljes megjelölése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az utolsó} {a rendelet száma}/{a rendelet kihirdetése évének a száma}. ({a rendelet kihirdetése hónapjának a száma}. {a rendelet kihirdetése napjának a száma}.) {a felhatalmazó rendelkezésben elsőként megjelölt miniszter rövid megjelölése}-{a rendelet megalkotására jogosult annak a miniszternek a rövidítése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az első}-[...]-{a rendelet megalkotására jogosult annak a miniszternek a rövidítése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az utolsó} együttes rendelete {a rendelet címe} |
-
-2.4.2. Az együttes rendelet tervezetének a megjelölése
-
-| {a felhatalmazó rendelkezésben elsőként megjelölt miniszter teljes megjelölése}, {a rendelet megalkotására jogosult annak a miniszternek a teljes megjelölése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az első} [...] és {a rendelet megalkotására jogosult annak a miniszternek a teljes megjelölése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az utolsó} …/… . (… . … .) {a felhatalmazó rendelkezésben elsőként megjelölt miniszter rövid megjelölése}-{a rendelet megalkotására jogosult annak a miniszternek a rövidítése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az első}-[...]-{a rendelet megalkotására jogosult annak a miniszternek a rövidítése, akinek a felhatalmazó rendelkezésben megjelölt miniszterek közül a rövidítése ábécésorrendben a felhatalmazó rendelkezésben elsőként megjelölt miniszter kivételével az utolsó} együttes rendelete {a rendelet címe} |
+2.4.
 
 3. A jogszabály tervezetének formai tagolása
 
@@ -190,9 +158,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály kihirdetése évének a száma}. évi {a jogszabály száma}. [törvény (VAGY) törvényerejű rendelet] |
 
-4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére vagy a miniszteri rendeletre vonatkozó merev hivatkozás
+4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére, a miniszteri rendeletre vagy a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletére vonatkozó merev hivatkozás
 
-| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése}] rendelet |
+| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) PSZÁF] rendelet |
 
 4.1.5. Az együttes miniszteri rendeletre vonatkozó merev hivatkozás
 
@@ -538,7 +506,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hivatkozott alpontot vagy alpontokat tartalmazó uniós jogi aktusra vonatkozó merev hivatkozás} {az alpontot vagy alpontokat tartalmazó cikk sorszámára vonatkozó hivatkozás} cikk {az alpontot vagy alpontokat tartalmazó pont megjelölésére vonatkozó hivatkozás} pont {az alpont vagy alpontok megjelölésére vonatkozó hivatkozás} alpontja |
 
-6.[^36] Az alkotmánymódosítás preambuluma
+6. Az alkotmánymódosítás preambuluma
 
 | Az Országgyűlés mint alkotmányozó hatalom az Alkotmány 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alkotmányt a következők szerint módosítja: |
 
@@ -562,15 +530,13 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a feladatkör megjelölése} meghatározott feladatkörében eljárva |
 
-7.1.2.2. A feladatkörre vagy feladatkörökre vonatkozó hivatkozás felépítése MNB rendelet vagy miniszteri rendelet tervezetének bevezető részében
+7.1.2.2. A feladatkörre vagy feladatkörökre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet vagy PSZÁF rendelet tervezetének bevezető részében
 
-7.1.2.2.1. Egyetlen feladatkörre vonatkozó hivatkozás felépítése MNB rendelet vagy miniszteri rendelet tervezetének a bevezető részében
+7.1.2.2.1. Egyetlen feladatkörre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet vagy PSZÁF rendelet tervezetének a bevezető részében
 
 | {a feladatkör megjelölése} meghatározott feladatkörömben eljárva |
 
-7.1.2.3. A feladatkörökre vonatkozó hivatkozás felépítése együttes miniszteri rendelet tervezetének bevezető részében
-
-| {a feladatkörök megjelölése} meghatározott feladatkörünkben eljárva |
+7.1.2.3.
 
 7.2. Az egyetértésre vonatkozó hivatkozás felépítése
 
@@ -626,13 +592,11 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | […] a következőket rendeli el |
 
-7.5.1.2. A jogalkotás aktusára vonatkozó kifejezés MNB rendelet vagy miniszteri rendelet tervezetének a bevezető részében
+7.5.1.2. A jogalkotás aktusára vonatkozó kifejezés MNB rendelet, miniszteri rendelet vagy PSZÁF rendelet tervezetének a bevezető részében
 
 | […] a következőket rendelem el |
 
-7.5.1.3. A jogalkotás aktusára vonatkozó kifejezés együttes miniszteri rendelet tervezetének a bevezető részében
-
-| […] a következőket rendeljük el |
+7.5.1.3.
 
 7.5.1.4. A jogalkotás aktusára vonatkozó kifejezés önkormányzati rendelet tervezetének a bevezető részében
 
@@ -660,15 +624,13 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 8.1.1. A felhatalmazás jogosultjának a megjelölése egyes számú felhatalmazó rendelkezésben
 
-| a Magyar Nemzeti Bank elnöke (VAGY) a Kormány (VAGY) a miniszterelnök (VAGY) [a (VAGY) az] {a Kormány egy vagy több tagjának megjelölése a rövidítése szerinti ábécésorrendben} (VAGY) {helyi önkormányzat megnevezése} (VAGY) a helyi önkormányzat képviselő-testülete |
+| a Magyar Nemzeti Bank elnöke (VAGY) a Kormány (VAGY) a miniszterelnök (VAGY) [a (VAGY) az] {a Kormány egy vagy több tagjának megjelölése a rövidítése szerinti ábécésorrendben} (VAGY) a Pénzügyi Szervezetek Állami Felügyeletének elnöke (VAGY) {helyi önkormányzat megnevezése} (VAGY) a helyi önkormányzat képviselő-testülete |
 
 8.1.2. A felhatalmazás jogosultjainak megjelölése többes számú felhatalmazó rendelkezésben
 
 | a miniszterek (VAGY) a Kormány tagjai |
 
-8.1.3. A felhatalmazás jogosultjainak megjelölése együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezésben
-
-| {a Kormánynak a rendelet kiadására jogosult – feladatköre alapján ábécésorrendben első – tagja feladatkör szerint megjelölve} és {a Kormánynak a rendelet kiadására jogosult – feladatköre alapján ábécésorrendben második – tagja feladatkör szerint megjelölve} (VAGY) {a Kormánynak a rendelet kiadására jogosult – feladatköre alapján ábécésorrendben első – tagja feladatkör szerint megjelölve}, {a Kormánynak a rendelet kiadására jogosult – feladatköre alapján ábécésorrendben második – tagja feladatkör szerint megjelölve} és {a Kormánynak a rendelet kiadására jogosult – feladatköre alapján ábécésorrendben harmadik – tagja feladatkör szerint megjelölve} |
+8.1.3.
 
 8.2. Egyes számú felhatalmazó rendelkezés
 
@@ -678,9 +640,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Felhatalmazást kapnak {a többes számú felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t rendeletben [állapítsák meg (VAGY) szabályozzák]. |
 
-8.4. Együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezés
-
-| Felhatalmazást kap {az együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t együttes rendeletben [állapítsa meg (VAGY) szabályozza]. |
+8.4.
 
 8.5. Egyetértéssel megalkotható rendelet alkotására vonatkozó felhatalmazó rendelkezés
 
@@ -692,9 +652,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Felhatalmazást kapnak {a többes számú felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több egyetértőre vonatkozó hivatkozás} – rendeletben [állapítsák meg (VAGY) szabályozzák]. |
 
-8.5.3. Együttes rendelet – egyetértéssel való megalkotására vonatkozó – felhatalmazó rendelkezés
-
-| Felhatalmazást kap {az együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több egyetértőre vonatkozó hivatkozás} – együttes rendeletben [állapítsa meg (VAGY) szabályozza]. |
+8.5.3.
 
 8.6. Vélemény kikérésével megalkotható rendelet alkotására vonatkozó felhatalmazó rendelkezés
 
@@ -720,9 +678,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Felhatalmazást kapnak {a többes számú felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több egyetértőre vonatkozó hivatkozás}, valamint {az egy vagy több véleményezőre vonatkozó hivatkozás} – rendeletben [állapítsák meg (VAGY) szabályozzák]. |
 
-8.7.3. Egyetértéssel és vélemény kikérésével megalkotható együttes rendelet alkotására vonatkozó felhatalmazó rendelkezés
-
-| Felhatalmazást kap {az együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több egyetértőre vonatkozó hivatkozás}, valamint {az egy vagy több véleményezőre vonatkozó hivatkozás} – együttes rendeletben [állapítsa meg (VAGY) szabályozza]. |
+8.7.3.
 
 8.8. A felhatalmazás időbeli korlátainak megjelölése a rendeletalkotás aktusára utaló kifejezéshez kapcsolódóan
 
@@ -750,9 +706,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hatálybalépés éve}. {a hatálybalépés hónapja} {a hatálybalépés napja}-n |
 
-9.2.3. A hatálybalépés időpontjának meghatározása naptári napon belül
-
-| {a hatálybalépés éve}. {a hatálybalépés hónapja} {a hatálybalépés napja}-n [{a hatálybalépés órájának száma} órakor (VAGY) {a hatálybalépés órájának száma} óra {a hatálybalépés percének száma} perckor] |
+| 9.2.3. A hatálybalépés időpontjának meghatározása naptári napon belül {a hatálybalépés éve}. {a hatálybalépés hónapja} {a hatálybalépés napja}-n {a hatálybalépés órájának száma} órakor |
 
 9.2.4. A hatálybalépés időpontjának meghatározása valamely esemény vagy feltétel bekövetkezéséhez képest
 
@@ -770,7 +724,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hatályba léptető rendelkezést tartalmazó szakasz száma}. § (1) Ez a {a jogszabály típusnak megjelölése} – {a jogszabály egészének hatálybalépésétől eltérő időpontban történő hatálybalépésről rendelkező bekezdésre vagy bekezdésekre vonatkozó merev hivatkozás}-ben foglalt kivétellel – {a hatálybalépés időpontja} lép hatályba. (2) {a jogszabály hatálybalépésének időpontjánál későbbi, de e rendelkezések közül a legkorábbi időpontban hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a későbbi hatálybalépés időpontja} lép hatályba. […[ ({az utolsó bekezdés száma}) {a legkésőbb hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a legkésőbbi hatálybalépés időpontja} lép hatályba |
 
-10.[^37]
+10.
 
 11. A jogharmonizációs záradék formája és megszövegezése
 
@@ -1562,12 +1516,6 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Hatályát veszti [{a mellékletre vonatkozó merev hivatkozás} címében (VAGY) [a (VAGY) az] {a melléklet pontjára vagy a mezőre vonatkozó merev hivatkozás}][-ában (VAGY) -ében] a „{hatályon kívül helyezni kívánt szövegrész}” szövegrész. |
 
-19.[^38]
+19.
 
-[^32]: Az 1. melléklet 2.2.1. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^33]: Az 1. melléklet 2.2.2. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^34]: Az 1. melléklet 2.3.1. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^35]: Az 1. melléklet 2.3.2. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^36]: Az 1. melléklet 6. pontja a 11/2010. (X. 25.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^37]: Az 1. melléklet 10. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^38]: Az 1. melléklet 19. pontját a 11/2010. (X. 25.) KIM rendelet 4. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^82]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja szerint módosított szöveg.
