@@ -4,7 +4,7 @@
 
 (4) A felügyelet hivatalból indított eljárása az ügyfél kérelmére nem függeszthető fel.
 
-(5) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő hatvanöt munkanap.
+(5) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő három hónap.
 
 (6) A törvény hatálya alá tartozó ügyekben természetes személy ügyfél kérelmet kizárólag a felügyelethez terjeszthet be.
 

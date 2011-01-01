@@ -2,9 +2,9 @@
 
 (2) Az 5. § (2) és (3) bekezdésében, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) és (4) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, a büntetlenség igazolása, a köztartozásokra vonatkozó igazolások, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
 
-(3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított huszonkét munkanapon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított harminc napon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
-(4) Az engedély kiadásáról vagy annak megtagadásáról a felügyelet a kérelem beérkezésétől számított negyvenöt munkanapon belül köteles határozni.
+(4) Az engedély kiadásáról vagy annak megtagadásáról a felügyelet a kérelem beérkezését követő naptól számított két hónapon belül köteles határozni.
 
 (5) A közraktárnak a közraktári jegy jóváhagyott tervezete után készült, nyomdai úton előállított mintapéldányt az első kibocsátás előtt archiválás céljából meg kell küldenie a felügyelet részére.
 

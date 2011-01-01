@@ -12,4 +12,4 @@ ad) az ab) alpontban meghatározott bűncselekmény miatt büntetőeljárás hat
 
 b) a közraktárban minősített befolyással rendelkező természetes személy büntetett előéletű,
 
-erről a tényről haladéktalanul értesíti az a) pont esetében a közraktárt, és ezzel egyidejűleg felhívja, hogy az érintett személlyel a jogviszonyát az értesítés kézbesítésétől számított tizenöt munkanapon belül szüntesse meg, és a jogviszony megszüntetésének tényéről a felügyeletet értesítse, a b) pont esetén a minősített befolyással rendelkező természetes személyt, hogy harminc munkanapon belül a minősített befolyását szüntesse meg.
+erről a tényről haladéktalanul értesíti az a) pont esetében a közraktárt, és ezzel egyidejűleg felhívja, hogy az érintett személlyel a jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és a jogviszony megszüntetésének tényéről a felügyeletet értesítse, a b) pont esetén a minősített befolyással rendelkező természetes személyt, hogy negyvenöt napon belül a minősített befolyását szüntesse meg.

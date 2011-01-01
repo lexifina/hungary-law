@@ -24,7 +24,7 @@ e) egyéb az ellenőrzéshez szükséges iratokat
 
 a felügyelet rendelkezésére bocsátani.
 
-(5) Az általános ellenőrzések és célvizsgálatok megállapításairól a felügyelet vizsgálati jelentést készít. A vizsgálati jelentés tartalmazza a zálogkölcsönnyújtás gyakorlatára vonatkozó megállapításokat is, amennyiben arra a vizsgálat kiterjedt. A vizsgálati jelentés jogszabálysértésre vonatkozó megállapításait jegyzőkönyvvel vagy egyéb bizonyítékkal kell alátámasztani. A vizsgálati jelentést a közraktár részére át kell adni, amelyre az tíz munkanapon belül észrevételt tehet. A felügyelet szükség esetén, illetve az ügyfél kérésére a határozathozatal előtt zárótárgyalást tarthat.
+(5) Az általános ellenőrzések és célvizsgálatok megállapításairól a felügyelet vizsgálati jelentést készít. A vizsgálati jelentés tartalmazza a zálogkölcsönnyújtás gyakorlatára vonatkozó megállapításokat is, amennyiben arra a vizsgálat kiterjedt. A vizsgálati jelentés jogszabálysértésre vonatkozó megállapításait jegyzőkönyvvel vagy egyéb bizonyítékkal kell alátámasztani. A vizsgálati jelentést a közraktár részére át kell adni, amelyre az tizenöt napon belül észrevételt tehet. A felügyelet szükség esetén, illetve az ügyfél kérésére a határozathozatal előtt zárótárgyalást tarthat.
 
 (6) A felügyelet részéről eljáró személy az ellenőrzés során jogosult a közraktár helyiségeibe belépni, az iratokba betekinteni, az adathordozók tartalmát megismerni, felvilágosítást kérni. A felvilágosítás megadása nem tagadható meg. A felügyelet előírhatja a közraktár számára egyes adatok időszakonkénti jelentését.
 
