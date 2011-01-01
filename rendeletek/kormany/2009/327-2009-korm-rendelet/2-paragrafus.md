@@ -18,4 +18,17 @@
 
 8. bizományi ügylet; elszámolási határidős, opciós és swap ügylet; leszállítási határidős, opciós és swap ügylet (delivery); az ügylet likvidálása; a tőke megóvására, illetve a hozamra vonatkozó ígéret, a tőke megóvására, illetve hozamra vonatkozó garancia (tőke-, illetve hozamgarancia): a Bkr. szerint meghatározott fogalmak;
 
-9. áru: a Tv. szerinti áru, beleértve az értékesítés céljára beszerzett üvegházhatású gáz kibocsátási egységet és a légszennyező anyag kibocsátási jogot, továbbá minden egyéb, a Bszt. szerint árutőzsdei szolgáltatás tárgyául figyelembe vehető forgalomképes vagyoni értékű jogot.
+9. áru: a Tv. szerinti áru, beleértve az értékesítés céljára beszerzett üvegházhatású gáz kibocsátási egységet és a légszennyező anyag kibocsátási jogot, továbbá minden egyéb, a Bszt. szerint árutőzsdei szolgáltatás tárgyául figyelembe vehető forgalomképes vagyoni értékű jogot;
+
+[10.[^2] elektronikus pénz kibocsátása: a Hpt-ben ilyen címen nevesített pénzügyi szolgáltatás;]
+
+11.[^3] Pénzügyi szolgáltatás közvetítése: a Hpt-ben meghatározott fogalom;
+
+[12.[^4] elektronikuspénz-kibocsátó intézmény: a Hpt-ben meghatározott intézmény;]
+
+13.[^5] pénzügyi szolgáltatást közvetítő: a Hpt-ben meghatározott közvetítő.
+
+[^2]: A 2. § 10. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be. [E módosító rendelet 42. § (2) bekezdése alapján 2011. április 1-jén lép hatályba.]
+[^3]: A 2. § 11. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^4]: A 2. § 12. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be. [E módosító rendelet 42. § (2) bekezdése alapján 2011. április 1-jén lép hatályba.]
+[^5]: A 2. § 13. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
