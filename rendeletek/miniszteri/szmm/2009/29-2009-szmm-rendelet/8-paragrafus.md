@@ -1,4 +1,4 @@
-8. §[^1] (1) A honlapon közzétételi naplót kell működtetni, mely tartalmazza
+8. §[^3] (1) A honlapon közzétételi naplót kell működtetni, mely tartalmazza
 
 a) az adatfelelős azonosítóját,
 
@@ -14,4 +14,4 @@ a) közzétételével egyidejűleg a közzététel időpontját és az adatfelel
 
 b) archiválása esetén az archiválás tényét és időpontját, valamint az új állapot elérésének módját, amennyiben az rendelkezésre áll.
 
-[^1]: A 8. § a 12. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^3]: A 8. § a 12. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
