@@ -20,6 +20,6 @@ b) a jogutód központi államigazgatási szervnél alaptevékenységen kívüli
 
 (5)
 
-(6) A Központi Adatfeldolgozó, Nyilvántartó és Választási Hivatalt a Miniszterelnöki Hivatalt vezető miniszter irányítja azzal, hogy a hivatal eljárása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti felügyeleti jogkört a személyiadat- és lakcímnyilvántartással kapcsolatos ügyek tekintetében az igazságügyi és rendészeti miniszter gyakorolja.
+(6)
 
 (7)–(11)
