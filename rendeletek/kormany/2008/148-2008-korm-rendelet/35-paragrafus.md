@@ -26,10 +26,10 @@ i) utófinanszírozással megvalósuló transznacionális projektekben való ré
 
 (3) Az (1) bekezdés h) pontjában foglaltak esetében normatív eljárással támogatás nyújtható a fejlesztési források hatékonyabb felhasználása érdekében egyes településrendezési feladatok közös megoldásához, valamint országos vagy térségi érdekből szükséges településrendezési tevékenységhez.
 
-(4)[^35] A célelőirányzat 2008. évi központi keretének terhére előleg folyósítható
+(4)[^44] A célelőirányzat 2008. évi központi keretének terhére előleg folyósítható
 
 a) az (1) bekezdés a)–d) pontja szerinti jogcímek alapján megítélt támogatásokhoz a megítélt támogatás legfeljebb 40%-a mértékéig;
 
 b) az (1) bekezdés i) pontja alapján a lebonyolító partner szervezet részére a támogatás legfeljebb 100%-a mértékéig.
 
-[^35]: A 35. § (4) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.
+[^44]: A 35. § (4) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.

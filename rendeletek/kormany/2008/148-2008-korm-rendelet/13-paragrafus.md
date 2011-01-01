@@ -1,6 +1,6 @@
 ## Egyéb támogatási célok elszámolható költségei
 
-13. § (1)[^10] A 8. § (1) bekezdés b) pontjának bc) alpontja esetén elszámolható költségnek minősül a foglalkoztatott személyek képzése, a projekt megkezdését követő legfeljebb 12 hónapos időszakra vonatkozó munkabére, annak járulékai, a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^11] szerint a munkaadót terhelő utazási költségtérítések, a munkaalkalmassági vizsgálat költségei, a munkaruha- és egyéni védőeszköz költségei, szállítás költségei. Elszámolhatóak továbbá a projekt keretein belül beszerzett tárgyi eszközök költségei (legfeljebb a projekt összes költségének 10%-a mértékéig), valamint a projekt keretein belül felhasználásra került forgóeszközök (a projekt összes költségének 10%-a mértékéig).
+13. § (1)[^13] A 8. § (1) bekezdés b) pontjának bc) alpontja esetén elszámolható költségnek minősül a foglalkoztatott személyek képzése, a projekt megkezdését követő legfeljebb 12 hónapos időszakra vonatkozó munkabére, annak járulékai, a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^14] szerint a munkaadót terhelő utazási költségtérítések, a munkaalkalmassági vizsgálat költségei, a munkaruha- és egyéni védőeszköz költségei, szállítás költségei. Elszámolhatóak továbbá a projekt keretein belül beszerzett tárgyi eszközök költségei (legfeljebb a projekt összes költségének 10%-a mértékéig), valamint a projekt keretein belül felhasználásra került forgóeszközök (a projekt összes költségének 10%-a mértékéig).
 
 (2) A 8. § (1) bekezdés b) pontjának bd) alpontja esetén a támogatás szempontjából elismerhetőek:
 
@@ -18,5 +18,5 @@ b) felhalmozási költségek, különösen: a támogatás célját képező tev�
 
 (7) Az elszámolható költségek részletes felsorolását a pályázati egységcsomag tartalmazza. A pályázati egységcsomag az elszámolható költségek körét az (1)–(5) bekezdésekben foglaltaktól szűkebben is meghatározhatja.
 
-[^10]: A 13. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^11]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
+[^13]: A 13. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^14]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
