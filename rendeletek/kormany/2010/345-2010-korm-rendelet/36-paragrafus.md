@@ -1,0 +1,3 @@
+## 35. § Az Eszr. 3. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A rendelet 2. §-ának (1) bekezdése szerinti egyéb szervezetek közül az ügyvédi irodának, a szabadalmi ügyvivő irodának, a végrehajtói irodának, a közjegyzői irodának, a Műsorszolgáltatás Támogató és Vagyonkezelő Alapnak, a víziközmű társulatnak, a Pénz- és Tőkepiaci Állandó Választottbíróságnak, valamint a Hallgatói Önkormányzatok Országos Konferenciájának, továbbá a közhasznú besorolással nem rendelkező európai területi együttműködési csoportosulásnak és az európai kutatási infrastruktúráért felelős konzorciumnak a beszámolókészítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait kell alkalmaznia.”

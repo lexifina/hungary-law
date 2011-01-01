@@ -1,0 +1,3 @@
+## 40. § A biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24.) Korm. rendelet (a továbbiakban: Bitkr.) 1. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) E rendelet hatálya kiterjed minden, a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) alapján működő biztosítóra (ideértve a biztosítóként működő külföldi székhelyű vállalkozás magyarországi fióktelepét is), valamint minden a viszontbiztosítókról szóló 2007. évi CLIX. törvény (a továbbiakban: Vbit.) alapján működő viszontbiztosítóra (ideértve a viszontbiztosítóként működő külföldi székhelyű vállalkozás magyarországi fióktelepét is) (a továbbiakban együtt: biztosító).”

@@ -1,0 +1,3 @@
+## 36. § Az Eszr. 15. §-a kiegészül a következő új (8) bekezdéssel:
+
+## „(8) Az e rendelet 3. számú melléklete szerinti közhasznú egyszerűsített beszámoló eredménylevezetésének összeállításánál a tájékoztató adatok E. pontjában szereplő és az e rendelet 6. számú melléklete szerinti közhasznú egyszerűsített éves beszámoló eredménykimutatásának összeállításánál a tájékoztató adatok B. pontjában szereplő támogatásként a közhasznú egyéb szervezet által nyújtott, ráfordításként érvényesíthető kiadások vagy egyéb- és rendkívüli ráfordítások között ilyen címen elszámolt tételek együttes összegét kell érteni.”
