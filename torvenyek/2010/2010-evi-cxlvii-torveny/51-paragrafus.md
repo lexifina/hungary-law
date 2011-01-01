@@ -1,0 +1,3 @@
+51. § A Hszt. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hivatásos állomány tagja beleegyezésével, határozott vagy határozatlan időre – a 43/A. §-ban foglalt kivétellel – a fegyveres szerven kívül a Miniszterelnökségnél, valamint a miniszter irányítása, felügyelete alá tartozó, valamint költségvetési jogállása alapján irányítása, felügyelete alatt álló szervnél berendeléssel, egyéb más szervnél az érintett miniszterek és a fegyveres szerv megállapodása alapján vezényléssel teljesíthet szolgálatot. A határozott idejű berendelés, vezénylés az érintett beleegyezésével meghosszabbítható.”
