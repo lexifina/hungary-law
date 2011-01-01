@@ -1,6 +1,6 @@
-## 5. § Az EEKH a HMR-ben szereplő adatokról – megkeresés esetén – 22 munkanapon belül tájékoztatást nyújt.
+## 5. §[^3] Az EEKH a HMR-ben szereplő adatokról – megkeresés esetén – harminc napon belül tájékoztatást nyújt.
 
-6. § (1)[^3] Az EEKH évente egy alkalommal, a tárgyévet követő év február 20-áig éves beszámolót készít a HMR adatai alapján az ágazati humánerőforrás helyzetéről.
+6. § (1)[^4] Az EEKH évente egy alkalommal, a tárgyévet követő év február 20-áig éves beszámolót készít a HMR adatai alapján az ágazati humánerőforrás helyzetéről.
 
 (2) Az éves beszámoló tartalmazza különösen:
 
@@ -32,9 +32,10 @@ m) az egészségügyi tevékenységüket egy évet meghaladóan szüneteltető s
 
 n) az EEKH-hoz a HMR-rel kapcsolatban érkezett megkeresések számát a megkeresők jellege szerinti bontásban (kormányzati, nem kormányzati szerv),
 
-o)[^4] a 3. § (3) bekezdése szerinti adatokat.
+o)[^5] a 3. § (3) bekezdése szerinti adatokat.
 
 (3) Az éves beszámolót úgy kell összeállítani, hogy – az adott évre jellemző, vagy külön célelemzések mellett – az adatsorok és elemzések évről évre összehasonlíthatók legyenek.
 
-[^3]: A 6. § (1) bekezdése a 23/2010. (V. 7.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^4]: A 6. § (2) bekezdés o) pontja a 9. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^3]: Az 5. § a 18/2010. (XII. 23.) NEFMI rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 6. § (1) bekezdése a 23/2010. (V. 7.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 6. § (2) bekezdés o) pontja a 9. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
