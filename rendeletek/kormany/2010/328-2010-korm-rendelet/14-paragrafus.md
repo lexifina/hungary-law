@@ -1,0 +1,9 @@
+14. § (1) A halászatról és a horgászatról szóló 1997. évi XLI. törvény (a továbbiakban: Hhtv.) 2. §-a (1) bekezdésének d) pontjában, 4. §-ának (3) bekezdésében, 5. §-ának (3) bekezdésében, 6. §-ában, 11. §-ának (4) bekezdésében, 14. §-ának (1) bekezdésében, 18. §-ának (1) bekezdésében, 19. §-ának (1) bekezdésében, 20. §-ának (2) bekezdésében, 21. §-ának (2) és (3) bekezdésében, 22. §-ának (6) bekezdésében, 24. §-ának (2) és (5) bekezdésében, 25. §-ának (3) bekezdésében, 26. §-ának (1) bekezdésében, 28–30. §-ában, 32. §-ának (1)–(2) bekezdésében, 34. §-ának (2)–(3) bekezdésében, (4) bekezdésének e) pontjában és (5) bekezdésében, 35. §-ának (4) bekezdésében, 36. §-ának (1) bekezdésében, 38. §-ának (3) bekezdésében, 39. §-ának (1) bekezdésében, 42. §-ának (1) és (5) bekezdésében, 44. §-ában, 48. §-ának (1) bekezdésében, 48. §-a (2) bekezdésének a)–g) és i) pontjában, 49. §-ának (1) bekezdésében, valamint 50. §-ának (1) bekezdésében foglaltak tekintetében a Kormány halászati hatóságként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+
+(2) A Hhtv. 19. § (3) bekezdése szerinti közigazgatási eljárásban az igénylő lakóhelye szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága jár el.
+
+(3) A Hhtv. 37. §-ának (1) bekezdésében foglaltak tekintetében a Kormány vadászati hatóságként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+
+(4) Amennyiben az (1) bekezdés szerinti esetekben a halászati vízterület két vagy több megyei kormányhivatal földművelésügyi igazgatóságának illetékességi területén helyezkedik el, az az illetékes, amely a halászati vízterületté nyilvánításról szóló döntést hozta.
+
+(5) Amennyiben a halászati vízterületté nyilvánítás iránti kérelemben megjelölt vízterület két vagy több megyei kormányhivatal földművelésügyi igazgatóságának illetékességi területén helyezkedik el, a Hhtv. 6. §-a szerinti eljárásra az az illetékes, amelynek területén a vízterület nagyobbik hányada található.

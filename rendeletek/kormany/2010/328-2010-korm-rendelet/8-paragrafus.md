@@ -1,0 +1,3 @@
+8. § (1) A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 4. §-ának (3) bekezdésében, 32. §-ának (6) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a magán-állatorvos székhelye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát jelöli ki.
+
+(2) A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 15. §-a (1) bekezdésének a) pontjában foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát és a kerületi hivatalt jelöli ki.

@@ -1,0 +1,5 @@
+## 34. §[^6] Ez a rendelet 2011. január 1-jén lép hatályba.
+
+1. melléklet a 328/2010. (XII. 27.) Korm. rendelethez
+
+[^6]: [A 35–36. §-nak a 82/2011. (V. 18.) Korm. rendelet 66. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-től hatályos szövege: „35. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni. 36. § Ez a rendelet a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, valamint b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének való megfelelést szolgálja.”.]
