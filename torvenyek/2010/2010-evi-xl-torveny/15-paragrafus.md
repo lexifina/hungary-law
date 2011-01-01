@@ -1,6 +1,6 @@
 15. § Az Nbtv. 45. §-a a következő (2)–(9) bekezdéssel egészül ki, ezzel egyidejűleg a § jelenlegi szövegének megjelölése 45. § (1) bekezdésre változik:
 
-„(2) A Nemzetbiztonsági Hivatal, az Információs Hivatal, valamint a Katonai Biztonsági Hivatal a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkört is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatokat irányító miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
+„(2) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Biztonsági Hivatal a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkört is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterhez, a polgári hírszerzési tevékenység irányításáért felelős miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
 
 (3) A (2) bekezdés szerinti betekintés céljából történő hozzáférést írásban vagy elektronikus úton abban az esetben lehet kezdeményezni, ha
 
@@ -8,7 +8,7 @@ a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető,
 
 b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
 
-(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
+(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
 
 a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
 
@@ -42,9 +42,9 @@ j) a vízum típusa és a vízumbélyeg száma,
 
 k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
 
-(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
 
-(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
+(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
 
 (8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
 
@@ -54,4 +54,4 @@ b) a fénykép, és
 
 c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vagy meghosszabbított – vízummal kapcsolatos adat.
 
-(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján a Nemzetbiztonsági Hivatal, az Információs Hivatal vagy a Katonai Biztonsági Hivatal főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.”
+(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az Alkotmányvédelmi Hivatal, az Információs Hivatal vagy a Katonai Biztonsági Hivatal főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.”
