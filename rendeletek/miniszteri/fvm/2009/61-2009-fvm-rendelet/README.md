@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-61-20-8
 | 2010-03-31 | 2009-61-20-82.4 | 31/2010. (III. 30.) FVM rendelet |
 | 2010-05-14 | 2009-61-20-82.5 | 69/2010. (V. 13.) FVM rendelet |
 | 2010-12-01 | 2009-61-20-82.6 | 35/2010. (XI. 30.) VM rendelet |
+| 2011-01-01 | 2009-61-20-82.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
