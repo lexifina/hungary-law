@@ -2,7 +2,7 @@
 
 (2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül közgyűlés elé kell terjeszteni.
 
-(3) Járadékszolgáltatást is nyújtó pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
+(3) Járadékszolgáltatást is nyújtó nyugdíjpénztárnak, valamint közösségi szolgáltatást nyújtó önsegélyező pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
 
 (4) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 

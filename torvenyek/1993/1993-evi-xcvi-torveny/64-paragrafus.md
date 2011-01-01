@@ -10,4 +10,4 @@ c) közösségi szolgáltatást nyújtó önsegélyező pénztárnál, valamint 
 
 (3) A pénztár csak büntetlen előéletű szakértőt alkalmazhat. Indokolt esetben a Felügyelet kifogást emelhet a szakértők alkalmazásával szemben.
 
-(4) A pénztár az (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben, valamint a letétkezelő, számlavezető, szolgáltatás-szervező, valamint a kiszervezett tevékenységet végző személyében történt változást a szerződés megkötését követő 3 munkanapon belül a Felügyeletnek a rendszeresített adatlapon bejelenti.
+(4) A pénztár az (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben, valamint a letétkezelő, számlavezető, szolgáltatás-szervező, valamint a kiszervezett tevékenységet végző személyében történt változást a szerződés megkötését követő öt napon belül a Felügyeletnek a rendszeresített adatlapon bejelenti.

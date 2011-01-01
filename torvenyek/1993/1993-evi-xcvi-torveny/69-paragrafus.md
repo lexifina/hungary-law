@@ -6,7 +6,7 @@ b) számvitelében, belső ellenőrzési rendszerében feltárt hiányosságok o
 
 c) alapszabálynak vagy a vonatkozó jogszabályoknak megfelelő működése nem biztosítható.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott veszélyhelyzet feloldása érdekében – szükségintézkedésként – egy vagy több felügyeleti biztos kirendeléséről határozhat.
+(2) A Felügyelet az (1) bekezdésben meghatározott veszélyhelyzet feloldása érdekében – szükségintézkedésként – felügyeleti biztos kirendeléséről határozhat.
 
 (3) A felügyeleti biztos kirendelése a működőképesség helyreállítását célozza, tartama alatt a pénztár a Felügyelet által kinevezett felügyeleti biztos rendelkezései szerint működik.
 
@@ -16,10 +16,8 @@ c) alapszabálynak vagy a vonatkozó jogszabályoknak megfelelő működése nem
 
 (6) Ha nincs lehetőség a pénztár ügyeinek átvételére, a felügyeleti biztos közjegyző, illetőleg rendőrség közreműködését veheti igénybe.
 
-(7) A felügyeleti biztos csak a pénztárral üzleti kapcsolatban nem álló és a pénztár tagságához nem tartozó személy lehet. A felügyeleti biztost kirendelő határozatban meg kell határozni feladatait, s kirendelésével egyidejűleg rendelkezni kell hatásköréről, amely kizárólag e törvény és a végrehajtására kiadott jogszabályok betartására és betartatására terjed ki.
+(7) A felügyeleti biztost kirendelő határozatban meg kell határozni feladatait, s kirendelésével egyidejűleg rendelkezni kell a hatásköréről.
 
-(8) A felügyeleti biztost – akár a Felügyelettel köztisztviselői jogviszonyban álló, akár megbízási jogviszonyban álló személy – a Felügyelet elnöke által meghatározott díjazás illeti meg, amelyet az érintett pénztár fizet.
-
-(9) A felügyeleti biztos az e minőségében okozott kárért, ha a Felügyelettel köztisztviselői jogviszonyban áll, a Ptk. 348. §-a szerint, ha pedig megbízási jogviszonyban áll, a Ptk. 350. §-a szerint felel.
+(8)–(9)
 
 (10) A felügyeleti biztos legfeljebb 180 napra jelölhető ki, de ez az időtartam a felszámoló kijelöléséig meghosszabbítható. Felszámolási eljárás esetén a felügyeleti biztos megbízatása a felszámoló kijelöléséig tart.
