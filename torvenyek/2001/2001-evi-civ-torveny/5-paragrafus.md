@@ -14,7 +14,7 @@ d) nem minősíthető közhasznú szervezetté,
 
 e) nem részesülhet központi vagy helyi önkormányzati költségvetés, elkülönített állami pénzalapok, külföldi állam, az Európai Közösségek vagy más nemzetközi szervezet által céljelleggel nyújtott támogatásban,
 
-f) nem folytathat lobbitevékenységet,
+f)
 
 g) nem folytathat egyéb olyan tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
 
