@@ -10,7 +10,7 @@ c) a honvédelemért felelős miniszter, hogy a honvédségi csapatzászlóra, a
 
 d) a rendészetért felelős miniszter és a katasztrófák elleni védekezés irányításáért felelős miniszter, hogy az irányítása alatt álló szervek tekintetében a csapatzászlóra, annak használatára, illetőleg adományozására vonatkozó előírásokat,
 
-e) a sportügyeket felügyelő miniszter, hogy a címer, a zászló (lobogó) sportszervezetek által történő használatát
+e) a sportpolitikáért felelős miniszter, hogy a címer, a zászló (lobogó) sportszervezetek által történő használatát
 
 rendeletben szabályozzák.
 
