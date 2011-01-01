@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-38-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 1995-38-20-22.12 | 38/1995. (IV. 5.) Korm. rendelet |
+| 2011-01-01 | 1995-38-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |

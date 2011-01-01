@@ -2,7 +2,7 @@
 
 ## I. A bekötés előfeltételét képező szolgáltatói hozzájáruláshoz szükséges terv [5. § (4) bekezdés]
 
-## Vízgazdálkodási, épületgépészeti szakértői, illetve tervezői engedéllyel rendelkező személy által elkészített terv;[^95]
+## Vízgazdálkodási, épületgépészeti szakértői, illetve tervezői engedéllyel rendelkező személy által elkészített terv;[^98]
 
 ## A) Az ivóvíz törzshálózatba való bekötés iránti hozzájáruláshoz szükséges
 
@@ -60,7 +60,7 @@
 
 ## 4. A szolgáltató külön előírására hossz-szelvény.
 
-## II. A 18. § (3) bekezdés szerinti mellékvízmérő felszereléséhez szükséges.[^96]
+## II. A 18. § (3) bekezdés szerinti mellékvízmérő felszereléséhez szükséges.[^99]
 
 ## 1. Műszaki leírás, mely tartalmazza a megrendelő, a tervező és a kivitelező azonosítására alkalmas adatokat, a beépítésre kerülő mérőberendezések típusát, főbb jellemzőit.
 
@@ -70,7 +70,7 @@
 
 ## b) a tervezett mérőbeépítés szerelési rajzai olyan léptékben, amely a műszaki megoldás elbírálhatóságát lehetővé teszi.
 
-## III.[^97] Az elkülönítetten mért, locsolási célú vízhasználatot szolgáló mellékvízmérő telepítéséhez szükséges kérelem és a részletszabályokat tartalmazó megállapodás mellékletei:
+## III.[^100] Az elkülönítetten mért, locsolási célú vízhasználatot szolgáló mellékvízmérő telepítéséhez szükséges kérelem és a részletszabályokat tartalmazó megállapodás mellékletei:
 
 ## 1. Műszaki leírás,
 
@@ -84,7 +84,7 @@
 
 ## A locsolási célú mellékvízmérő telepítése során nem követelmény az önálló mérőakna kialakítása. A vízmérő állagának megóvása és a fagyvédelem biztosítása a fogyasztó kötelessége.
 
-2. számú melléklet a 38/1995. (IV. 5.) Korm. rendelethez[^98]
+2. számú melléklet a 38/1995. (IV. 5.) Korm. rendelethez[^101]
 
 A rendelet alkalmazása szempontjából érintett anyagfelhasználás
 
@@ -160,7 +160,7 @@ II. jegyzék
 
 25. oxigénegyensúlyra kedvezőtlen hatású anyagok; különösen ammónia, nitritek.
 
-[^95]: A rendelet Melléklete A) részéig terjedő szövegrésze a 8/1997. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^96]: A rendelet Melléklete II. részének 1. pontjáig terjedő szövegrésze a 8/1997. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^97]: Az 1. számú melléklet III. pontját a 30/2004. (II. 28.) Korm. rendelet 3. §-a iktatta a szövegbe.
-[^98]: A 2. számú mellékletet a 205/2001. (X. 26.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva.
+[^98]: A rendelet Melléklete A) részéig terjedő szövegrésze a 8/1997. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^99]: A rendelet Melléklete II. részének 1. pontjáig terjedő szövegrésze a 8/1997. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: Az 1. számú melléklet III. pontját a 30/2004. (II. 28.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^101]: A 2. számú mellékletet a 205/2001. (X. 26.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva.

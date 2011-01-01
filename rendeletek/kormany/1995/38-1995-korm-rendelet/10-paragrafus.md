@@ -1,3 +1,7 @@
+## 9/A. §[^58]
+
+## Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
+
 ## A közműves ivóvízellátás
 
 ## 10. §
@@ -12,9 +16,10 @@
 
 (5) Ha a szolgáltatás megszüntetése a tűzivízhálózatot is érinti, a szolgáltatónak az illetékes tűzrendészeti szervet is értesítenie kell.
 
-(6)[^57] A fogyasztó a szolgáltatás közérdekből történő korlátozását, illetve szüneteltetését kártalanítás nélkül tűrni köteles. Az előre tervezhető közérdekű tevékenység kapcsán felmerülő korlátozásokról a fogyasztókat legalább három nappal korábban, a helyben szokásos módon tájékoztatni kell.
+(6)[^59] A fogyasztó a szolgáltatás közérdekből történő korlátozását, illetve szüneteltetését kártalanítás nélkül tűrni köteles. Az előre tervezhető közérdekű tevékenység kapcsán felmerülő korlátozásokról a fogyasztókat legalább három nappal korábban, a helyben szokásos módon tájékoztatni kell.
 
-(7)[^58] A szolgáltatás korlátozása akkor közérdekű, ha azt a víziközmű biztonságos működtetésével összefüggő közegészségügyi vagy egyéb követelmény (így például hálózatfejlesztés, jelentősebb üzemzavar-elhárítás) teszi indokolttá.
+(7)[^60] A szolgáltatás korlátozása akkor közérdekű, ha azt a víziközmű biztonságos működtetésével összefüggő közegészségügyi vagy egyéb követelmény (így például hálózatfejlesztés, jelentősebb üzemzavar-elhárítás) teszi indokolttá.
 
-[^57]: A 10. § (6) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.
-[^58]: A 10. § (7) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.
+[^58]: A 9/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^59]: A 10. § (6) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.
+[^60]: A 10. § (7) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.

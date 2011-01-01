@@ -1,4 +1,4 @@
-## 18. §[^64]
+## 18. §[^67]
 
 (1) Az ingatlanon belül a mellékvízmérővel elkülönített vízhasználatra az elkülönített vízhasználó a szolgáltatóval mellékszolgáltatási szerződést köthet.
 
@@ -18,4 +18,4 @@ b) a mellékvízmérőnek a házi vízvezetékhálózatba történő beépítés
 
 (7) A szolgáltató köteles gondoskodni arról, hogy a mellékszolgáltatási szerződés alapját képező mellékvízmérőt üzembe helyezéskor bélyegzéssel és zárral lássák el.
 
-[^64]: A 18. § a 37/1999. (II. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^67]: A 18. § a 37/1999. (II. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
