@@ -1,0 +1,1 @@
+## Előléptetés esetén alkalmazandó szabályok
