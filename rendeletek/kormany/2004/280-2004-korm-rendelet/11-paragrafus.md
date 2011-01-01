@@ -1,10 +1,10 @@
-11. § (1) A fő közlekedési létesítmény kötelezettje, illetve az intézkedési terv készítésére kötelezett önkormányzat jegyzője a 10. §-ban meghatározott zajbizottsághoz – fő repülőtér esetén a külön jogszabály[^15] szerinti zajvédelmi bizottsághoz – véleményezésre benyújtja az intézkedési terv tervezetét (a továbbiakban: intézkedési tervjavaslat).
+11. § (1) A fő közlekedési létesítmény kötelezettje, illetve az intézkedési terv készítésére kötelezett önkormányzat jegyzője a 10. §-ban meghatározott zajbizottsághoz – fő repülőtér esetén a külön jogszabály[^16] szerinti zajvédelmi bizottsághoz – véleményezésre benyújtja az intézkedési terv tervezetét (a továbbiakban: intézkedési tervjavaslat).
 
 (2) Fő közlekedési létesítmény kötelezettje az intézkedési tervjavaslatot véleményezésre a Gazdasági és Közlekedési Minisztériumnak is benyújtja.
 
-(3) A kötelezett önkormányzat az intézkedési tervjavaslatot – a külön jogszabályban[^16] meghatározottakon kívül – véleményezésre megküldi
+(3) A kötelezett önkormányzat az intézkedési tervjavaslatot – a külön jogszabályban[^17] meghatározottakon kívül – véleményezésre megküldi
 
-a) az illetékes ÁNTSZ megyei intézet,
+a)[^18] az illetékes megyei népegészségügyi szakigazgatási szerv,
 
 b) az elsőfokú közlekedési hatóság,
 
@@ -32,5 +32,6 @@ b) az intézkedési tervjavaslat tartalmáról, valamint az abban foglalt célok
 
 (10) A kötelezett önkormányzat, illetve a fő közlekedési létesítmény kötelezettje a vélemények figyelembevételével véglegesíti az intézkedési tervet.
 
-[^15]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet.
-[^16]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény.
+[^16]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet.
+[^17]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény.
+[^18]: A 11. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.

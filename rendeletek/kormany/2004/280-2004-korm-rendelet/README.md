@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-280-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2004-280-20-22.2 | 280/2004. (X. 20.) Korm. rendelet |
+| 2011-01-01 | 2004-280-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
