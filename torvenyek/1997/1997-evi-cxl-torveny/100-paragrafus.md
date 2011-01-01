@@ -84,6 +84,6 @@ z) a továbbképzéssel összefüggő igazgatási szolgáltatási díjak körét
 
 (4)
 
-(5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel együttesen rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
+(5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
 
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben szabályozza a szakmai továbbképzési programokkal összefüggő és a népi iparművészeti alkotások és a „Népi Iparművész” minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
