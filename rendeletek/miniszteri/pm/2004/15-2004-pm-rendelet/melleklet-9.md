@@ -238,7 +238,7 @@
 
 |  | 25A Szakhatósági engedélyek |
 
-## Az engedély kiadásához szükséges és a kérelem mellékleteként benyújtott hatósági igazolások kiadóját (Önkormányzat, Állami Népegészségügyi és Tisztiorvosi Szolgálat, Tűzvédelmi hatóság, Biztosítási szerződés, Jövedéki adóraktári engedély stb.) megnevezését, számát és kiadásának dátumát kell feltüntetni.
+## Az engedély kiadásához szükséges és a kérelem mellékleteként benyújtott hatósági igazolások kiadóját (Önkormányzat, Állami Népegészségügyi és Tisztiorvosi Szolgálat, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, Tűzvédelmi hatóság, Biztosítási szerződés, Jövedéki adóraktári engedély stb.) megnevezését, számát és kiadásának dátumát kell feltüntetni.
 
 ## Jelezze a 18–24. rovatokkal kapcsolatosan hasznosnak ítélt összes további információt.
 
