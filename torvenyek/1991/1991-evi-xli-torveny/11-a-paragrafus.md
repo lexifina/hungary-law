@@ -20,7 +20,7 @@ c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyil
 
 (7) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra kötelezheti.
 
-(8) Az eljárásban a hiánypótlásra való felhívást a területi kamarának a kérelem beérkezését követő első ülésén, de legkésőbb tíz munkanapon belül kell kibocsátania.
+(8) Az eljárásban a hiánypótlásra való felhívást a területi kamarának a kérelem beérkezését követő első ülésén, de legkésőbb tizenöt napon belül kell kibocsátania.
 
 (9) Ha a kamara a névjegyzékbe történő bejegyzés vagy a nyilvántartásba vétel iránti kérelemnek helyt ad, az erről szóló határozatnak kell tekinteni a nyilvántartásba vételről kiállított okiratot. Az okiratnak tartalmaznia kell
 
