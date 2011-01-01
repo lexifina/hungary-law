@@ -12,7 +12,7 @@ e) korlátlan számban megváltható kedvezményes menetjeggyel az a)–d) pontb
 
 f) a hadirokkant, hadiözvegy a hadigondozási igazolványa és személyi igazolványa felmutatásával, a vasúti közlekedésben bármely kocsiosztályon;
 
-g)[^20] a hadirokkant kísérője, ha a hadirokkant az Országos Rehabilitációs és Szociális Szakértői Intézet szakvéleménye alapján kísérőre szorul, és azt a hadigondozási igazolvány tartalmazza, a vasúti közlekedésben bármely kocsiosztályon;
+g)[^20] a hadirokkant kísérője, ha a hadirokkant az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, és azt a hadigondozási igazolvány tartalmazza, a vasúti közlekedésben bármely kocsiosztályon;
 
 h) a 75%-os vagy annál nagyobb mértékben rokkant hadirokkant családtagja;
 
@@ -24,5 +24,5 @@ i) a rokkantsági járadékos, ha ezt a lakóhelye szerint illetékes jegyző ig
 
 [^18]: A 8. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^19]: A 8. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^20]: A 8. § (1) bekezdésének g) pontja a 213/2007. (VIII. 7.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
+[^20]: A 8. § (1) bekezdés g) pontja a 332/2010. (XII. 27.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^21]: A 8. § (3) bekezdését a 172/2010. (V. 13.) Korm. rendelet 1. §-a iktatta be.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-85-20-2
 | --- | --- | --- |
 | 2009-10-19 | 2007-85-20-22.10 | 85/2007. (IV. 25.) Korm. rendelet |
 | 2010-07-01 | 2007-85-20-22.11 | 172/2010. (V. 13.) Korm. rendelet |
+| 2011-01-01 | 2007-85-20-22.12 | 332/2010. (XII. 27.) Korm. rendelet |
