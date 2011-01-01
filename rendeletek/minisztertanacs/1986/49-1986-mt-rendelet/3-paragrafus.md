@@ -1530,4 +1530,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba rendelkezéseit azonban az 1986. évi június hó 26. napjától kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(2)[^2] A rendelet végrehajtásáról a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.

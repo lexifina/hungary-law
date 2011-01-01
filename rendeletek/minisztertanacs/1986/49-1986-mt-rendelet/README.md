@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1986-49-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1991-01-01 | 1986-49-20-65.2 | 49/1986. (XI. 12.) MT rendelet |
+| 2011-01-01 | 1986-49-20-65.3 | 341/2010. (XII. 28.) Korm. rendelet |
