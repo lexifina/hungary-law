@@ -18,7 +18,7 @@ e) a hozzáférés teljesítése veszélyezteti az életet vagy a vagyonbiztons�
 
 f) a 16. § (1) bekezdésében felsoroltak valamelyike megvalósul.
 
-(3) A hozzáférés megtagadását vagy felfüggesztését a rendszerüzemeltető köteles indokolni. A rendszerüzemeltető a hozzáférés megtagadását az alapul szolgáló esemény bekövetkezésétől számított 3 napon belül köteles a Hivatalnak bejelenteni. A Hivatal a bejelentést a kézhezvételtől számított 10 munkanapon belül kivizsgálja.
+(3) A hozzáférés megtagadását vagy felfüggesztését a rendszerüzemeltető köteles indokolni. A rendszerüzemeltető a hozzáférés megtagadását az alapul szolgáló esemény bekövetkezésétől számított 3 napon belül köteles a Hivatalnak bejelenteni. A Hivatal a bejelentést a megérkezést követő naptól számított tizenöt napon belül kivizsgálja.
 
 (4) A hozzáférés felfüggesztését a rendszerhasználó jelentheti be a Hivatalnak. A Hivatal a (3) bekezdés szerint jár el.
 

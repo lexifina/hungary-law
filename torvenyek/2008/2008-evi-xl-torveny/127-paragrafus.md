@@ -60,7 +60,7 @@ u) érvényesíti a legkisebb költség elvét az e törvény hatálya alá tart
 
 v) nyilvánosan közzéteszi a határozatait;
 
-w) az Fbkt.-ben meghatározott módon kezdeményezi az energiapolitikáért felelős miniszternél a földgáz biztonsági készlet felhasználását;
+w) az Fbkt.-ben meghatározott módon kezdeményezi a miniszternél a földgáz biztonsági készlet felhasználását;
 
 x)
 
