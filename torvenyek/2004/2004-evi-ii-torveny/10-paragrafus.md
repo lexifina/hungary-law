@@ -24,10 +24,10 @@ j) mozgóképszakmai hatóság,
 
 k) Media Desk,
 
-l) közszolgálati televíziós műsorszolgáltatók,
+l) közszolgálati audiovizuális médiaszolgáltatók,
 
-m) országos, földi sugárzású kereskedelmi televíziós műsorszolgáltatók,
+m) országos, földi sugárzású kereskedelmi audiovizuális médiaszolgáltatók,
 
 n) mozgóképszakma szakmai szervezetei.
 
-(3) A (2) bekezdés l)–m) pontjaiban meghatározott műsorszolgáltatók egyenként egy, az n) pont szerinti szakmai szervezetek együttesen három tagot delegálhatnak a Tanácsba oly módon, hogy az alkotókat, a filmelőállítókat és a filmterjesztőket egy-egy delegált képviselje.
+(3) A (2) bekezdés l)–m) pontjaiban meghatározott médiaszolgáltatók egyenként egy, az n) pont szerinti szakmai szervezetek együttesen három tagot delegálhatnak a Tanácsba oly módon, hogy az alkotókat, a filmelőállítókat és a filmterjesztőket egy-egy delegált képviselje.
