@@ -22,4 +22,4 @@ g) a szakképesítés szakmai és vizsgakövetelményei (a továbbiakban: szakma
 
 (4) A Központi Statisztikai Hivatal elnöke feladatkörébe tartozó szakképesítésekre vonatkozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 
-(5) A Közbeszerzések Tanácsának elnöke feladatkörébe tartozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az igazságügyért felelős miniszter gyakorolja.
+(5) A Közbeszerzések Tanácsának elnöke feladatkörébe tartozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.

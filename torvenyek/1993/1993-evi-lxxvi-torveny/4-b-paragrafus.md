@@ -24,6 +24,6 @@ a Hivatal – a szakmai vizsga szakmai ellenőrzésére jogosult szerv megkeres�
 
 (8) Ha a Hivatal jogosultság hiányában jogellenesen folytatott szakmai vizsgaszervezési tevékenységről a szakmai vizsga lebonyolítását követően szerez tudomást, a vizsgát szervezővel szemben bírságot szab ki.
 
-(9) A Hivatal a (7)–(8) bekezdés szerinti eljárása alapján haladéktalanul értesíti a szakképesítésért felelős minisztert, aki az 5. § (4) bekezdés szerint jár el. A szakmai vizsgát jogellenesen szervező köteles a vizsgázó által befizetett vizsgadíjat a szakmai vizsga felfüggesztése esetén a vizsga felfüggesztésétől, a vizsga lebonyolítását követően észlelt jogellenesség esetén a jogsértést megállapító döntés közlésétől számított 10 munkanapon belül maradéktalanul visszatéríteni.
+(9) A Hivatal a (7)–(8) bekezdés szerinti eljárása alapján haladéktalanul értesíti a szakképesítésért felelős minisztert, aki az 5. § (4) bekezdés szerint jár el. A szakmai vizsgát jogellenesen szervező köteles a vizsgázó által befizetett vizsgadíjat a szakmai vizsga felfüggesztése esetén a vizsga felfüggesztésétől, a vizsga lebonyolítását követően észlelt jogellenesség esetén a jogsértést megállapító döntés közlésétől számított tizenöt napon belül maradéktalanul visszatéríteni.
 
 (10) A Hivatal a szakképesítésért felelős miniszter (9) bekezdés szerinti értesítésével egyidejűleg tájékoztatja az érintett vizsgázókat a szakmai vizsga eredménye megsemmisítésének jogkövetkezményéről és a szakmai vizsga letételének további lehetőségeiről.

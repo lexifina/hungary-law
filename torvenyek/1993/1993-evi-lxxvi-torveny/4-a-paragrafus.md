@@ -16,7 +16,7 @@ c) az a) pontban meghatározott eljárás alapján kiadott Engedély hiányában
 
 (5) A Hivatal a szakmai vizsga szervezésére Engedéllyel rendelkező intézményekről, az intézmény megnevezését, székhelyét, az Engedélyben szereplő szakképesítések azonosító számát, megnevezését és az Engedély kiadásának időpontját tartalmazó nyilvántartást vezet, továbbá ellenőrzi a szakmai vizsga szervezésére jogosultsággal rendelkező intézmények vizsgaszervezéssel összefüggő tevékenységét. Az ellenőrzéshez szükséges forrást a Munkaerőpiaci Alap képzési alaprészéből (a továbbiakban: MPA) kell biztosítani.
 
-(6) Az (5) bekezdés szerinti nyilvántartás nyilvános, azt a miniszter az általa vezetett minisztérium, valamint a Hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő 5 munkanapon belül frissíteni kell. A Hivatal az Engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
+(6) Az (5) bekezdés szerinti nyilvántartás nyilvános, azt a miniszter az általa vezetett minisztérium, valamint a Hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő nyolc napon belül frissíteni kell. A Hivatal az Engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
