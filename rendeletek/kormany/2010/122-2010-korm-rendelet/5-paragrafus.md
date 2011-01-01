@@ -16,7 +16,7 @@ c) transznacionális együttműködés keretében megvalósuló projektekre,
 
 d) a 2011-es magyar EU-elnökség területfejlesztési feladatainak előkészítésére,
 
-e) a Homokhátsági Speciális Célprogram megvalósítására,
+e)[^1]
 
 f) a Balatoni Kistelepülések Szennyvízkezelési Programja keretében az új építéshez kapcsolódó egyedi szennyvízkezelő berendezések létesítése tervezésének és kivitelezésének támogatására és
 
@@ -24,4 +24,7 @@ g) a központi pályázati rendszer támogatási keretösszegére.
 
 (2) Az (1) bekezdés a)–d) pontjában foglalt feladatok a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) területfejlesztési tevékenységének szakmai háttértámogatását szolgálják.
 
-(3) Az (1) bekezdés e)–g) pontjában foglalt feladatok célja olyan, az Európai Unió fejlesztési forrásaiból támogatásban nem részesíthető fejlesztési programok és projektek támogatása pályázati rendszer keretében, amelyek az adott térség speciális problémáit a területi szempontok figyelembevételével és érvényesítésével kezelik.
+(3)[^2] Az (1) bekezdés g) pontjában foglalt feladatok célja olyan, az Európai Unió fejlesztési forrásaiból támogatásban nem részesíthető fejlesztési programok és projektek támogatása pályázati rendszer keretében, amelyek az adott térség speciális problémáit a területi szempontok figyelembevételével és érvényesítésével kezelik.
+
+[^1]: Az 5. § (1) bekezdés e) pontját a 370/2010. (XII. 31.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^2]: Az 5. § (3) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
