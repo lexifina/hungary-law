@@ -6,7 +6,7 @@ a) a közúti közlekedés tervezése, fejlesztése, szabályozása és ellenőr
 
 b) a közúti közlekedés szervezeti és működési feltételeinek meghatározása;
 
-c) a közúti közlekedési hatósági feladatok ellátása;
+c) a közúti közlekedés hatósági, igazgatási és nyilvántartási feladatainak ellátása;
 
 d) a tömegközlekedés működtetésének biztosítása;
 

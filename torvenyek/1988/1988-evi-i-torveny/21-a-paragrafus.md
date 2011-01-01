@@ -2,7 +2,7 @@
 
 (2) Ha a gépjárművet az üzemben tartó a szabályszegést megelőzően más természetes személy vagy nem természetes személy használatába adta, és ezt a használatba vevő személy teljes bizonyító erejű magánokiratba foglalt, a (4) bekezdés szerinti adatokat tartalmazó nyilatkozatával igazolja, vagy – azon gépjárművek esetében, amelyek külön jogszabály alapján a közúti forgalomban menetlevéllel, illetve fuvarlevéllel vehetnek részt – olyan menetlevéllel, illetve fuvarlevéllel igazolja, amelyek a (4) bekezdés szerinti adatokat tartalmazzák, a közigazgatási bírságot a használatba vevő személlyel szemben kell kiszabni.
 
-(3)
+(3) Az üzemben tartó mentesül a 21. § (2) bekezdése alapján kiszabott közigazgatási bírság megfizetése alól, ha számára a szabályszegést más törvény lehetővé teszi.
 
 (4) A (2) bekezdés szerinti nyilatkozat, menetlevél, illetve fuvarlevél tartalmazza
 

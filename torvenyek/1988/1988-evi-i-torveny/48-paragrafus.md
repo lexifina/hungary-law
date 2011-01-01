@@ -40,7 +40,7 @@ a) a Kormány, hogy
 
 17. a közúti járművekkel kapcsolatos jóváhagyásokra, típusbizonyítványokra, műszaki vizsgálatokra vonatkozó adatok kezelésére és nyilvántartására vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét és az ellenőrzés részletes szabályait,
 
-18. a veszélyes áru közúti szállítási biztonsági tanácsadó kinevezésének és képesítésének feltételeit,
+18.
 
 19. az útdíj alapjául szolgáló költségek felosztásának, valamint az útdíj számításának elveit, a díjköteles utak használatáért történő elektronikus díjfizetést lehetővé tévő rendszer bevezetésére, üzemeltetésére, az úthasználati díjak beszedésére, ellenőrzésére és behajtására vonatkozó részletes szabályokat, a 33/A. § (2) bekezdése szerinti útdíj fizetésére kötelezettek körét,
 
@@ -56,13 +56,23 @@ a) a Kormány, hogy
 
 25. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
+26. a közlekedési infrastruktúra közúti biztonsági kezelése, közúti biztonsági hatásvizsgálat, a közúti biztonsági auditálás, felülvizsgálat, valamint a baleseti adatgyűjtés részletes szabályait,
+
+27. az e törvény szerinti közúti biztonsági auditori tevékenység folytatásának részletes feltételeit, a közúti biztonsági auditori tevékenységre vonatkozó engedély megszerzésének és az auditorok nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a engedélyezésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a közúti biztonsági auditorok alap- és továbbképzésére vontkozó részletes szabályokat, továbbá a közúti biztonsági auditori tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+
+28. a közlekedéspolitika részeként az intelligens közlekedési rendszerek nemzeti stratégiáját,
+
+29. az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló szabályokat,
+
+30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét
+
 b) a miniszter, hogy
 
 1. a közúti közlekedési szolgáltatások végzésének, valamint az azokhoz használt járművek üzemben tartásának részletes szabályait,
 
 2. az útügyi igazgatás eljárási szabályait,
 
-3. az utak építésének és a forgalom részére való átadásának hatósági engedélyezéséről szóló szabályokat,
+3.
 
 4. az országos közutak kezelésének szabályait és a helyi közutak kezelésének szakmai szabályait,
 
@@ -110,7 +120,7 @@ b) a miniszter, hogy
 
 26. a 33. § (4) bekezdése szerinti eszközre vonatkozó követelményeket,
 
-27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, valamint a díjfizetés feltételeiről szóló szabályokat,
+27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 
 28. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó műszaki előírásokat (Útügyi Műszaki Előírások),
 
@@ -118,9 +128,13 @@ b) a miniszter, hogy
 
 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-31. a telítettség megállapításának módját.
+31. a telítettség megállapításának módját,
 
-c) a miniszter, a közlekedésrendészetért felelős miniszter és a környezetvédelemért felelős miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat együttesen,
+32. az intelligens közúti közlekedési rendszerek fejlesztésének és üzemeltetésének feltételeit,
+
+33. a közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló iránymutatásokat,
+
+c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
 
@@ -140,17 +154,23 @@ g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
 5. a beszedett díj és pótdíj kedvezményezettjét – a Kormány által jóváhagyott elvek alapján,
 
-h) a közlekedésrendészetért felelős miniszter, hogy a diplomáciai mentességet élvező képviseletek és személyek gépjárműveinek különleges rendszámmal való ellátásának, a rendszámok kiadásának és visszavonásának rendjét és feltételeit, továbbá a külföldön kiállított vezetői engedélyek használatának rendjét a külpolitikáért felelős miniszterrel egyetértésben,
+h)
 
-i) a közlekedésrendészetért felelős miniszter, hogy a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét, valamint a megkülönböztető és figyelmeztető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
+i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 
-j) a miniszter, hogy a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel együttesen – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,
+j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,
 
-k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energetikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
+k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 
 l) a miniszter, hogy a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzésére és vizsgáztatására vonatkozó szabályokat az iparügyekért és a kereskedelemért felelős miniszterrel egyetértésben,
 
-m) a honvédelemért felelős, valamint az egyes rendvédelmi szerveket irányító miniszter, hogy – a közlekedésért felelős miniszterrel egyetértésben – a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek személyi állománya, járművei és magánútjai tekintetében az eltérő rendelkezéseket
+m) a közlekedésért felelős miniszterrel egyetértésben
+
+ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a katonai nemzetbiztonsági szolgálatok tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
+
+mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
+
+n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -169,3 +189,5 @@ d) a díjköteles várakozás megengedett leghosszabb időtartamát,
 e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
 
 (6) Az e törvényben meghatározott díjat, pótdíjat és bírságot – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
+
+(7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.

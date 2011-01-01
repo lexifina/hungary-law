@@ -14,4 +14,6 @@ b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.
 
 c) az Európai Parlament és a Tanács 2006/22/EK irányelve (2006. március 15.) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről, 2. cikkének (1) és (2) bekezdése;
 
-d) az Európai Parlament és a Tanács 2006/38/EK irányelve (2006. május 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról, 1. cikk 1. pont c) és e) alpontja, 1. cikk 2. pont a) és e) alpontja, 1. cikk 7. pont b) alpontja.
+d) az Európai Parlament és a Tanács 2006/38/EK irányelve (2006. május 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról, 1. cikk 1. pont c) és e) alpontja, 1. cikk 2. pont a) és e) alpontja, 1. cikk 7. pont b) alpontja;
+
+e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.) a közúti infrastruktúra közlekedésbiztonsági kezeléséről, 3. cikk (1) bekezdés, 4. cikk (1) bekezdés, 9. cikk (4) bekezdés.

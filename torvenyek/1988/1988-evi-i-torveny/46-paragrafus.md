@@ -1,3 +1,3 @@
 ## Vegyes és záró rendelkezések
 
-46. § A 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott esetekben a közlekedési hatóság a bírság kiszabását akkor mellőzi, ha a bírság kiszabására okot adó tevékenység vagy mulasztás az életet, a testi épséget, a vagyonbiztonságot, a közlekedés biztonságát vagy a közteherviselési kötelezettség teljesítését közvetlenül nem veszélyezteti, harmadik személynek kárt nem okoz, a tevékenység vagy mulasztás tekintetében a rosszhiszeműség, a hatóság félrevezetésének szándéka nem állapítható meg, és a tevékenység vagy mulasztás első ízben fordul elő.
+### 46. §

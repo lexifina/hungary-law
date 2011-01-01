@@ -1,4 +1,4 @@
-24/B. § (1) Ha a biztosító a közlekedési hatóságot arról értesíti, hogy a kárfelvételi eljárásban úgy ítélte meg, hogy a közlekedési balesettel érintett gépjármű a közúti forgalomban történő részvételre közlekedésbiztonsági szempontból alkalmatlannak tekintendő, a közlekedési hatóság az értesítés kézhezvételét követő 8 munkanapon belül a gépjármű műszaki vizsgálatát rendeli el.
+24/B. § (1) Ha a biztosító a közlekedési hatóságot arról értesíti, hogy a kárfelvételi eljárásban úgy ítélte meg, hogy a közlekedési balesettel érintett gépjármű a közúti forgalomban történő részvételre közlekedésbiztonsági szempontból alkalmatlannak tekintendő, a közlekedési hatóság az értesítés kézhezvételét követő tíz napon belül a gépjármű műszaki vizsgálatát rendeli el.
 
 (2) Ha a közlekedési hatóság az (1) bekezdésben meghatározott vizsgálat alapján azt állapítja meg, hogy a gépjármű a közúti forgalomban való részvételre műszakilag
 

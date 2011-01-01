@@ -1,8 +1,8 @@
-18. § (1) A közúti közlekedési szakemberek képzése állami közép- és felsőfokú oktatási intézményekben vagy tanfolyamokon történik.
+18. § (1) A közúti járművezetők képzése állami alap-, és középfokú oktatási intézményekben, vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a szakoktatók és az iskolavezetők képzése és továbbképzése szakirányú műszaki felsőfokú oktatási intézményekben történik.
 
-(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani. Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
+(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani. Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
 
-(3) A közúti közlekedési szakember – amennyiben külön jogszabály előírja – időszakos, tevékenységének megfelelő ismereteket tartalmazó, szakirányú továbbképzésen köteles részt venni.
+(3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzésen részt vett és vizsgakötelezettségének eleget tett.
 
 (4) Utánképzésen kell részt vennie annak a járművezetőnek
 
@@ -24,7 +24,7 @@ c) akinek vezetői engedélyét a közúti közlekedési előéleti pontrendszer
 
 a) természetes személyazonosító adatok,
 
-b) lakóhely,
+b) engedélyes lakcíme és elérhetőségei (értesítési cím, telefonszám, email cím),
 
 c) továbbképzésen történt részvétel időpontja,
 
@@ -38,21 +38,19 @@ g) a névjegyzékbe vételt igazoló okmány száma, kiadás dátuma.
 
 (10) A névjegyzék adatai közül a (2) bekezdés szerint engedéllyel rendelkezők családi neve és utóneve, születési családi neve és utóneve, a névjegyzéket vezető közlekedési hatóság megnevezése és a névjegyzékbe vételt igazoló okmány száma, a kiadás dátuma nyilvánosak.
 
-(11) Az iskolavezetőt, a szakoktatót és a vizsgabiztost a közlekedési hatóság a névjegyzékből törli, ha:
+(11) Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja és az iskolavezetőt, a szakoktatót, a vizsgabiztost a névjegyzékből törli, ha:
 
-a) kötelező továbbképzésen nem vett részt;
+a) az engedélyezés feltételei nem állnak fenn,
 
-b) nem rendelkezik érvényes vezetői engedéllyel;
+b) nem rendelkezik érvényes vezetői engedéllyel,
 
-c) a névjegyzékbe történő felvételre vonatkozó, külön jogszabályban meghatározott feltételeknek már nem felel meg;
+c) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
 
-d) a névjegyzékbe felvett személy ezt kérelmezi;
+d) a névjegyzékbe felvett személy elhalálozott,
 
-e) a névjegyzékbe felvett személy elhalálozott;
+e) a névjegyzékbe felvett személy ezt kérelmezi, vagy
 
-f) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre külön jogszabályban meghatározott rendelkezéseket ismételten megsérti;
-
-g) az engedélyezés feltételei nem állnak fenn.
+f) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
 
 (12) A (10) bekezdés f) pontjában meghatározott esetben a névjegyzékből való törlés határozott időre, legfeljebb azonban öt évre történhet.
 

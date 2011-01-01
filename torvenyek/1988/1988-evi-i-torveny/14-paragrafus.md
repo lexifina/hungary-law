@@ -11,3 +11,5 @@ jogosultak.
 (2) A közút lezárása vagy forgalmának korlátozása érdekében kihelyezett közúti jelzéseket a munka befejezésekor, illetőleg az ok megszűnésekor haladéktalanul el kell távolítani.
 
 (3) A közút indokolatlan, a szükségesnél nagyobb mértékben vagy hosszabb időtartamra történő lezárásából eredő kárt az intézkedő szerv köteles megtéríteni.
+
+(4) Aki az (1) bekezdésben foglaltakon kívül az országos és helyi közutat, vagy a közforgalom elől el nem zárt magánutat engedély nélkül lezárja, azt a közlekedési hatóság az eredeti állapot helyreállítására kötelezi.

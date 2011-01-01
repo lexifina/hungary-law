@@ -1,4 +1,4 @@
-18/B. § A 18/B–18/J. §-ok alkalmazásában:
+18/B. § A 18/B–18/L. §-ok alkalmazásában:
 
 a) munkaidő: az Mt. 117. §-a (1) bekezdésének a) pontjában foglaltakra figyelemmel különösen
 
@@ -18,10 +18,14 @@ d) közúti szállításban közreműködő személy: a munkavállaló és az ö
 
 e) önálló vállalkozói tevékenységet folytató gépjárművezető:
 
-ea) közúti árufuvarozói vagy autóbuszos személyszállító engedély alapján önálló vállalkozási tevékenység keretében személyek és áruk továbbítására jogosult,
+ea) minden olyan személy, aki az Európai Unió kötelező jogi aktusa értelmében közösségi engedély vagy bármely egyéb szakmai engedély alapján foglalkozásszerűen személyek közúti szállítását vagy áruk közúti fuvarozását végzi harmadik fél számlájára,
 
-eb) az ea) pontban meghatározott tevékenységhez kapcsolódóan, munkaszerződéssel vagy egyéb munkavégzésre irányuló jogviszonnyal nem rendelkezik,
+eb) aki jogosult a saját számlájára munkát vállalni, és aki nem kötődik munkaadóhoz, sem munkaszerződéssel, sem egyéb munkavégzésre irányuló, alá-, fölérendeltségen alapuló jogviszony formájában,
 
-ec) tevékenységét szabadon szervezheti;
+ec) aki munkatevékenységét maga szervezi,
+
+ed) akinek a jövedelme közvetlenül a megtermelt nyereségtől függ, és
+
+ee) akinek megvan az a lehetősége, hogy egyénileg vagy más önálló vállalkozó gépjárművezetőkkel történő együttműködés keretein belül több ügyféllel is üzleti kapcsolatot tartson fenn.
 
 f) a hét: a munkavégzés helye szerinti helyi időszámítás szerint, hétfő 00:00 órától vasárnap 24:00 óráig terjedő időszak.

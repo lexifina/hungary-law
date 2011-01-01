@@ -20,7 +20,9 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
 
-(4) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság jogosult. A bírságot a hatóság az (1) bekezdésben meghatározott előírás megszegését követő 60 napon belül szabja ki. A 21. § (2) bekezdése szerinti közigazgatási bírságot kiszabó, elsőfokú határozat meghozatala informatikai eszközzel, automatizált módon történhet. Automatizált egyedi döntésen a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata is informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesítette.
+(4) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság jogosult. A hatóság az (1) bekezdésben meghatározott szabályszegés miatt hozott határozatát az ügyfél részére az előírás megszegését követő 90 napon belül kézbesíti. A 21. § (2) bekezdése szerinti közigazgatási bírságot kiszabó, elsőfokú határozat meghozatala informatikai eszközzel, automatizált módon történhet. Automatizált egyedi döntésen a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata is informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesítette.
+
+(4a) Az (1) bekezdésben meghatározott szabályszegés miatt indult első fokú eljárást az előírás megszegését követő hat hónapon belül be kell fejezni.
 
 (5) A Kormány – az (1) bekezdésben foglaltakra figyelemmel – rendeletben állapítja meg azon szabályszegések körét, amelyek esetén az érintett gépjármű üzemben tartója, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személy közigazgatási bírsággal sújtandó.
 

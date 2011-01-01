@@ -1,83 +1,91 @@
 47. § A törvény alkalmazásában:
 
-a) Közületi szerv: az állami költségvetési szerv, a társadalmi szervezet, a gazdálkodó szerevezet, a részvénytársaság, a korlátolt felelősségű társaság, a külföldi részvétellel működő gazdasági társulás és az egyesület.
+1. importáló: a külkereskedelmi tevékenységet folytató vállalatok belföldi szerződéseiről szóló jogszabály szerinti külkereskedelmi társasági szerződés esetén a belföldi vállalat, bizományi szerződés esetén a megbízó, szállítási szerződés esetén a megrendelő, saját számlára történő import esetén a külkereskedelmi vállalat, önálló külkereskedelmi joggal felruházott gazdálkodó szervezet által behozott jármű esetén a gazdálkodó szervezet;
 
-b) Importáló: a külkereskedelmi tevékenységet folytató vállalatok belföldi szerződéseiről szóló jogszabály szerinti külkereskedelmi társasági szerződés esetén a belföldi vállalat, bizományi szerződés esetén a megbízó, szállítási szerződés esetén a megrendelő, saját számlára történő import esetén a külkereskedelmi vállalat, önálló külkereskedelmi joggal felruházott gazdálkodó szervezet által behozott jármű esetén a gazdálkodó szervezet.
+2. közúti jármű: közúti szállító vagy vontatóeszköz (ideértve az önjáró és vontatott munkagépet is); az egyes járműfajták meghatározására a közúti közlekedés szabályairól szóló jogszabályban (KRESZ) foglaltak az irányadók;
 
-c) Közúti jármű: közúti szállító vagy vontatóeszköz (ideértve az önjáró és vontatott munkagépet is); az egyes járműfajták meghatározására a közúti közlekedés szabályairól szóló jogszabályban (KRESZ) foglaltak az irányadók.
+3. közösségi közlekedés: menetrend alapján közlekedő gépjárművekkel végzett közforgalmú személyszállítás;
 
-d) Tömegközlekedés: menetrend alapján közlekedő gépjárművekkel végzett közforgalmú személyszállítás.
+4. közúti személyszállítás: a közúti járművel végzett személyszállítás, valamint a személyszállító gépjármű gépjárművezetővel együtt történő rendelkezésre bocsátása;
 
-e) Közúti személyszállítás: a közúti járművel végzett személyszállítás, valamint a személyszállító gépjármű gépjárművezetővel együtt történő rendelkezésre bocsátása.
+5. közúti árufuvarozás: a közúti járművel végzett árufuvarozás, valamint az áruszállító gépjármű gépjárművezetővel együtt történő rendelkezésre bocsátása;
 
-f) Közúti árufuvarozás: a közúti járművel végzett árufuvarozás, valamint az áruszállító gépjármű gépjárművezetővel együtt történő rendelkezésre bocsátása.
+6. vevőszolgálati javítóhálózat: a járművek garanciális javítását és alkatrészellátását végző szervezetek rendszere;
 
-g) Vevőszolgálati javítóhálózat: a járművek garanciális javítását és alkatrészellátását végző szervezetek rendszere.
+7. út: a járművek és a gyalogosok közlekedésére, vagy csak a járművek, illetve csak a gyalogosok közlekedésére szolgáló, e célra létesített vagy kijelölt közterület, vagy magánterület (közút, magánút); magánútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt utat is;
 
-h) Út: a járművek és a gyalogosok közlekedésére, vagy csak a járművek, illetve csak a gyalogosok közlekedésére szolgáló, e célra létesített vagy kijelölt közterület, illetőleg magánterület (közút, magánút). Magánútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt utat is.
+8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban magánútként van bejegyezve;
 
-i) Közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban magánútként van bejegyezve.
+9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló burkolt árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
 
-j) Az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló burkolt árok, csatorna vagy más vízelvezető létesítmény. A két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz.
+10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó), a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa, az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
 
-k) Az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó), a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa, az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok.
+11. közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere;
 
-l) Közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere.
+12. az út határa: az útnak – a kiemelt szegélyt, az útpadkát, a rézsűt, az út víztelenítését szolgáló árkot, csatornát, más vízelvezető létesítményt is magában foglaló – külső széle;
 
-m) Az út határa: az útnak – a kiemelt szegélyt, az útpadkát, a rézsűt, az út víztelenítését szolgáló árkot, csatornát, más vízelvezető létesítményt is magában foglaló – külső széle.
+13. az út területe: az út határai közötti terület és a hozzá tartozó földrészlet;
 
-n) Az út területe: az út határai közötti terület és a hozzá tartozó földrészlet.
+14. útcsatlakozás: útnak, járműforgalmat szolgáló létesítmény (pl. üzemanyagtöltő-állomás) területének, vagy a járművek közút melletti ingatlanról közútra való ráhajtását szolgáló területnek a közúthoz csatlakozása;
 
-o) Útcsatlakozás: útnak, járműforgalmat szolgáló létesítmény (pl. üzemanyagtöltő-állomás) területének, illetőleg a járművek közút melletti ingatlanról közútra való ráhajtását szolgáló területnek a közúthoz csatlakozása.
+15. útépítési érdekeltségi hozzájárulás [31. § (2) bek.] szempontjából a közút használatában érdekeltek: a közút mentén ingatlantulajdonnal, földhasználati joggal, ipari, közlekedési, kereskedelmi vagy mezőgazdasági tevékenység céljára szolgáló telephellyel rendelkező magánszemélyek és jogi személyek;
 
-p) Útépítési érdekeltségi hozzájárulás [31. § (2) bek.] szempontjából a közút használatában érdekeltek: a közút mentén ingatlantulajdonnal, földhasználati joggal, ipari, közlekedési, kereskedelmi vagy mezőgazdasági tevékenység céljára szolgáló telephellyel rendelkező magánszemélyek és jogi személyek.
+16. kerékpárút: jelzőtáblával kerékpárútként megjelölt közút;
 
-r) Kerékpárút: jelzőtáblával kerékpárútként megjelölt közút.
+17. gyalogút: jelzőtáblával gyalogútként megjelölt, vagy olyan helyi közút, amely kizárólag a gyalogosok közlekedésére szolgál, és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény stb.) vagy két méternél nagyobb távolság választja el;
 
-s) Gyalogút: jelzőtáblával gyalogútként megjelölt, illetőleg olyan helyi közút, amely kizárólag a gyalogosok közlekedésére szolgál, és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény stb.) vagy két méternél nagyobb távolság választja el.
+18. belföldi üzemben tartó: az az üzemben tartó, akinek (amelynek) lakó-, szokásos tartózkodási, illetve székhelye a Magyar Köztársaság területén van;
 
-t) Belföldi üzembentartó: az az üzembentartó akinek (amelynek) lakó-, szokásos tartózkodási, illetve székhelye a Magyar Köztársaság területén van.
+19. iskolavezető: a közlekedési hatóság engedélyével végzett tanfolyami, szaktanfolyami képzést irányító személy;
 
-u) Iskolavezető: a közlekedési hatóság engedélyével végzett tanfolyami képzést irányító személy.
+20. szakoktató: a közúti járművezetők képzésében oktatóként részt vevő személy;
 
-v) Szakoktató: a közúti járművezetők képzésében oktatóként részt vevő személy.
+21. vizsgabiztos: a közúti járművezetők vizsgáztatását végző személy (járművezetői vizsgabiztos), valamint a közúti közlekedési szakemberek vizsgáztatását végző személy (szaktanfolyami vizsgabiztos);
 
-w) Vizsgabiztos: a közúti járművezetők vizsgáztatását végző személy, valamint a közúti közlekedési szakemberek vizsgáztatásában tanúsító szervezetként közreműködő személy.
+22. közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, továbbá
 
-z) Közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, továbbá
+22.1. a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott
 
-za) a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott
+22.1.1. személytaxis szolgáltatói képesítéshez kötött tevékenységet folytató járművezető,
 
-zaa) személytaxis szolgáltatói képesítéshez kötött tevékenységet folytató járművezető,
+22.1.2. személygépkocsis személyszállító szolgáltatói képesítéshez kötött tevékenységet folytató járművezető,
 
-zab) személygépkocsis személyszállító szolgáltatói képesítéshez kötött tevékenységet folytató járművezető,
+22.1.3. személytaxis vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-zac) személytaxis vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.1.4. személygépkocsis személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-zad) személygépkocsis személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.2. az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, autóbuszos személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-zb) az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, autóbuszos személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.3. a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, árufuvarozó vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-zc) a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, árufuvarozó vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.4. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló külön jogszabályban meghatározott, szakmai alap- és továbbképzési képesítéshez kötött tevékenységet folytató gépjárművezető,
 
-zd) a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló külön jogszabályban meghatározott, szakmai alap- és továbbképzési képesítéshez kötött tevékenységet folytató gépjárművezető,
+22.5. a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzéséről és vizsgáztatásáról szóló külön jogszabályban meghatározott, gépkezelői jogosítványhoz kötött tevékenységet folytató gépkezelő,
 
-ze) a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzéséről és vizsgáztatásáról szóló külön jogszabályban meghatározott, gépkezelői jogosítványhoz kötött tevékenységet folytató gépkezelő,
+22.6. a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló külön jogszabályban meghatározott, szakkísérői képesítéshez kötött tevékenységet folytató személy,
 
-zf) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló külön jogszabályban meghatározott, szakkísérői képesítéshez kötött tevékenységet folytató személy,
+22.7. a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógáz-biztonsági képesítéshez kötött tevékenységet folytató személy,
 
-zg) a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógáz-biztonsági képesítéshez kötött tevékenységet folytató személy,
+22.8. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete 2009. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló külön jogszabályban meghatározott
 
-zh) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete 2009. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló külön jogszabályban meghatározott
+22.8.1. veszélyes áru szállítási biztonsági tanácsadói képesítéshez kötött tevékenységet folytató személy,
 
-zha) veszélyes áru szállítási biztonsági tanácsadói képesítéshez kötött tevékenységet folytató személy,
+22.8.2. veszélyesáru-szállító gépjárművezető,
 
-zhb) veszélyesáru-szállító gépjárművezető,
+22.9. a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló külön jogszabályban meghatározott, mezőgazdasági vegyszer, üzemanyag szállítására eredményes vizsgát tett járművezető,
 
-zi) a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló külön jogszabályban meghatározott, mezőgazdasági vegyszer, üzemanyag szállítására eredményes vizsgát tett járművezető,
+22.10. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető;
 
-zj) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető.
+23. várakozási terület: a 8. pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút 11. pont szerinti tartozéka, valamint a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része;
 
-zsa) várakozási terület: a h) pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút k) pont szerinti tartozéka, valamint a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része.
+24. várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, illetve a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat; a várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat;
 
-zsb) várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, illetve a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat. A várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat.
+25. tanfolyam: a közúti járművezetők szervezett formában történő képzése; a tanfolyam a képzési engedélynek megfelelően elméleti (tantermi vagy zárt rendszerű elektronikus távoktatás), és gyakorlati képzési részekből állhat;
+
+26. szaktanfolyam: a közúti közlekedési szakemberek szervezett formában történő képzése és továbbképzése; a szaktanfolyam a képzési engedélynek megfelelően elméleti (tantermi vagy zárt rendszerű elektronikus távoktatás), és gyakorlati képzési részekből állhat;
+
+27. közúti biztonsági auditor: a közúthálózat részét képező utak, úttartozékok vagy az út műtárgyai engedélyezési és kiviteli terveinek, valamint a megvalósult utak, úttartozékok vagy az út műtárgyai forgalomba helyezés előtti és az üzemeltetés első évében végzett – a tervezőtől, az építtetőtől és a kivitelezőtől független – részletes, módszeres műszaki biztonsági ellenőrzést végző természetes személy;
+
+28. zárt rendszerű elektronikus távoktatás (e-learning): elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (Internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a hallgató közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer; e törvény alkalmazásában a „zárt rendszerű elektronikus távoktatás” és az „e-learning” kifejezések azonos jelentéssel bírnak;
+
+29. zárt rendszerű távoktatási képzésmenedzsment rendszer (Learning Management System, LMS): a hallgató képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (web böngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, mely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli a tanuló képzési programban rögzített előrehaladását, ellenőrző kérésekre adott válaszait, eredményeit, tevékenységét és végrehajtja – a tanuló teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit.

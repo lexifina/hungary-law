@@ -1,6 +1,6 @@
 24/A. § (1) A típusvizsgálat során – a Kormány rendeletében meghatározott esetben – a közlekedési hatóság által engedélyezett tanúsító szervezet (a továbbiakban: típusvizsgáló) működik közre a tényállás tisztázásában.
 
-(2) A jármű időszakos vizsgálata és rendszeres környezetvédelmi felülvizsgálata során – a miniszter rendeletében meghatározott esetben – a közlekedési hatóság által engedélyezett tanúsító szervezet (a továbbiakban: vizsgáló állomás) működik közre a tényállás tisztázásában.
+(2) A jármű forgalomba helyezés előtti és időszakos vizsgálata, valamint az ennek keretében elvégzett rendszeres környezetvédelmi felülvizsgálat során – a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott feltételek esetén – a közlekedési hatóság által engedélyezett tanúsító szervezet (a továbbiakban: vizsgáló állomás) működik közre a tényállás tisztázásában.
 
 (3) A típusvizsgálóra és a vizsgáló állomásra vonatkozó követelményeket, valamint a tanúsítási tevékenységükre vonatkozó szabályokat a miniszter, a típusvizsgáló és vizsgáló állomás engedélyezésére irányuló eljárás részletes szabályait a Kormány rendeletben határozza meg.
 

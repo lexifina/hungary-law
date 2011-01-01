@@ -6,4 +6,6 @@ b) a vevőszolgálati javítóhálózat megszervezése,
 
 c) a műszaki dokumentáció rendelkezésre bocsátása,
 
-d) a szakemberek részére típusismereti képzés és továbbképzés.
+d) a szakemberek részére típusismereti képzés és továbbképzés,
+
+e) a hulladékká vált gépjárművekről szóló kormányrendeletben meghatározott, a gyártókra vonatkozó kötelezettségek teljesítése.
