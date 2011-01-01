@@ -1,3 +1,3 @@
-1. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^81]
+1. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^82]
 
-[^81]: Az 1. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés f)–g) pontja szerint módosított szöveg.
+[^82]: Az 1. számú melléklet a 37/2006. (II. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 7. § (9) bekezdés f)–g) pontja szerint módosított szöveg.
