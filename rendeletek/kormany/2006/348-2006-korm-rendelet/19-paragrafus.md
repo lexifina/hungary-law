@@ -4,8 +4,9 @@
 
 (3) A szervező vagy rendező legkésőbb a nemzetközi solymásztalálkozó időpontját megelőző 60. napon írásban tájékoztatja a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséget.
 
-(4) Nemzetközi solymásztalálkozó esetén a behozatali, tartási és kiviteli engedély iránti kérelmet a solymásztalálkozó időpontját megelőző legkésőbb 60. napig be kell nyújtani a természetvédelmi hatósághoz, amely a kérelem benyújtásától számított 22 munkanapon belül dönt.
+(4)[^35] Nemzetközi solymásztalálkozó esetén a behozatali, tartási és kiviteli engedély iránti kérelmet a solymásztalálkozó időpontját megelőző legkésőbb 60. napig be kell nyújtani a természetvédelmi hatósághoz, amely a kérelem megérkezését követő naptól számított harminc napon belül dönt.
 
 (5) Nemzetközi solymásztalálkozónak minősül az a rendezvény, amely solymászati céllal, tizenöt napnál nem hosszabb ideig kerül megrendezésre, és amelyen legalább három országból vesz részt olyan személy, amely a 16. § (1) vagy (3) bekezdése szerinti vizsgával rendelkezik.
 
 [^34]: A 19. § a 84/2010. (III. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^35]: A 19. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (86) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
