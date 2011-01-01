@@ -1178,6 +1178,7 @@
 
 (3) Az 1–2. § hatálybelépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) Az e rendelet végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(4)[^3] Az e rendelet végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
 
 [^2]: A 2. § e rendelet 3. § (2) bekezdése alapján a Szabadalmi Jogi Szerződés 21. cikke (2) bekezdésének (ii) pontjában meghatározott időpontban lép hatályba.
+[^3]: A 3. § (4) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
