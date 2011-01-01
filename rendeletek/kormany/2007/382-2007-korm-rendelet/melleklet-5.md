@@ -1,4 +1,4 @@
-5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^83]
+5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^86]
 
 ## Az elvi építési és az építési engedély iránti kérelem adattartalma
 
@@ -36,4 +36,4 @@ d) kivitelezés tervezett befejezési időpontja,
 
 9. A hiteles tulajdoni lap és térképmásolat alapján az 5. § (7) bekezdése szerinti ingatlanok helyrajzi száma, tulajdonosának neve és címe.
 
-[^83]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^86]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

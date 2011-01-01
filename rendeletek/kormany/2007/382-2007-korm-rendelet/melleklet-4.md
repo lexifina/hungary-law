@@ -1,6 +1,6 @@
 4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez
 
-1.[^82]
+1.[^85]
 
 2. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -28,4 +28,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^82]: A 4. számú melléklet 1. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 2. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^85]: A 4. számú melléklet 1. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 2. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
