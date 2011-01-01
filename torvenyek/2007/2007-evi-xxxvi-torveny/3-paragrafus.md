@@ -9,11 +9,3 @@
 a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban a legfőbb ügyész,
 
 b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, illetve átadásával kapcsolatban a szabálysértés szabályozásáért felelős miniszter rendeletében meghatározott szerv.
-
-[(4) E törvény alkalmazásában központi hatóság:
-
-a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban – a c) pontban foglaltak kivételével – a legfőbb ügyész,
-
-b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
-
-c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a központi közúti közlekedési nyilvántartó szerv.]
