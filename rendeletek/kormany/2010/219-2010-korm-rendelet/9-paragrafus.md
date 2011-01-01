@@ -1,4 +1,4 @@
-## 8. § Az R. 3. számú melléklete e rendelet Melléklete szerint módosul.
+## 1–8. §[^2]
 
 9. § (1) A Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet (a továbbiakban: MVH Korm. rendelet) 1. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
@@ -17,3 +17,5 @@
 ## (2) Amennyiben a vis maior, az ország jelentős részét, vagy különösen nagyszámú ügyfelet érint, az MVH és az MgSzH egyeztetés útján állapítja meg a vis maior esemény megállapításának jóváhagyási feltételeit.”
 
 (3) Az MVH Korm. rendelet a következő alcímmel és 7/C. §-sal egészül ki:
+
+[^2]: Az 1–8. §-t a 327/2010. (XII. 27.) Korm. rendelet 30. § (1) bekezdés b) pontja hatályon kívül helyezte.
