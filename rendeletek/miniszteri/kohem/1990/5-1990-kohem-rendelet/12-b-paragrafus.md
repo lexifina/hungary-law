@@ -1,14 +1,15 @@
-## A vizsgáló állomásra vonatkozó feltételek[^121]
+## A vizsgáló állomásra vonatkozó feltételek[^122]
 
-## 12/B. §[^122] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
+## 12/B. §[^123] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
 
 a) a kérelmében meghatározott időtartamban és járműkategóriára (járműtípusra) vonatkozóan folyamatosan végez közlekedésbiztonsági és környezetvédelmi diagnosztikai átvizsgálást,
 
 b) az időszakos vizsgálatok elvégzéséhez az e rendelet alapján előírt feltételeket biztosítja,
 
-c) a közlekedési hatóság Nyilvántartásában szereplő vizsgabiztost alkalmaz a teljes vizsgáztatási időszakban,
+c) a közlekedési hatóság Nyilvántartásában szereplő vizsgabiztost alkalmaz a teljes vizsgáztatási időszakban.
 
-d) a tanúsítói tevékenységét az MSZ EN ISO 9001 szabvány szerint tanúsított és a közlekedési hatóság által elfogadott minőségirányítási rendszer alkalmazásával végzi.
+d)[^124]
 
-[^121]: A 12/B. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
-[^122]: A 12/B. §-t a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
+[^122]: A 12/B. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
+[^123]: A 12/B. §-t a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
+[^124]: A 12/B. § d) pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.

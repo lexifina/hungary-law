@@ -1,6 +1,6 @@
 ## I. Fejezet
 
-## Közúti műszaki ellenőrzés[^253]
+## Közúti műszaki ellenőrzés[^264]
 
 ## 1. Fogalom meghatározások
 
@@ -18,7 +18,7 @@
 
 ## a) a jármű műszaki és karbantartottsági állapotának szemrevételezéssel történő vizsgálata és értékelése a jármű álló helyzetében;
 
-## b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^254] meghatározott közlekedésre alkalmassági vizsgálatnak;
+## b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^265] meghatározott közlekedésre alkalmassági vizsgálatnak;
 
 ## c) az ellenőrzési listán (2.7. pont) található, az ellenőrzés tárgyát képező tételek bármelyikére vonatkozó ellenőrzés.
 
@@ -36,13 +36,13 @@
 
 ## 2.9. Amennyiben a vizsgálóállomáson és/vagy a mobil ellenőrző állomáson elvégzett alaposabb vizsgálat során nyilvánvalóvá válik, hogy a jármű közúti forgalomban való részvétele közvetlen balesetveszélyt jelent, a jármű az észlelt műszaki hiba kijavításáig nem közlekedhet tovább.
 
-## 2.10. Az NKH Központi Hivatala minden naptári év február 15. napjáig a megküldi a Gazdasági és Közlekedési Minisztérium részére az előző két évben összegyűjtött adatokat tartalmazó jelentést az ellenőrzött járművek darabszámáról, a megadott jármű kategóriák, a nyilvántartásba vétel helye, az ellenőrzött tételek és az észlelt hiányosságok szerint csoportosítva. Az első jelentés a 2003. január 1-jével kezdődő kétéves időtartamot öleli fel.
+## 2.10. Az NKH Központ minden naptári év február 15. napjáig a megküldi a közlekedésért felelős miniszter által irányított minisztérium részére az előző két évben összegyűjtött adatokat tartalmazó jelentést az ellenőrzött járművek darabszámáról, a megadott jármű kategóriák, a nyilvántartásba vétel helye, az ellenőrzött tételek és az észlelt hiányosságok szerint csoportosítva. Az első jelentés a 2003. január 1-jével kezdődő kétéves időtartamot öleli fel.
 
-## 2.11. A Gazdasági és Közlekedési Minisztérium az adatokat tartalmazó jelentést minden második naptári év március 20. napjáig megküldi az Európai Közösségek Bizottsága részére.
+## 2.11. A közlekedésért felelős miniszter által irányított minisztérium az adatokat tartalmazó jelentést minden második naptári év március 20. napjáig megküldi az Európai Közösségek Bizottsága részére.
 
 ## 2.12. A közlekedési hatóság az ellenőrzések lefolytatásának előmozdítása és a kölcsönös segítségnyújtás érdekében együttműködik az Európai Unió tagállamainak illetékes hatóságaival, amelynek során kölcsönösen ellátják egymást az ellenőrzések elvégzéséért felelős hatóságok adataival (ellenőrző szervek) és a kapcsolattartó személyek nevével.
 
-## 2.13. Külföldi állampolgár tulajdonában lévő járműben észlelt súlyos hiányosságokról, különösen azokról, amelyek a jármű további közlekedésének megtiltását eredményezték, a közlekedési hatóság 3 munkanapon belül értesíti – a 3. pont szerinti jegyzőkönyv minta segítségével – annak az országnak az illetékes hatóságát, amelyikben a járművet nyilvántartásba vették (bejegyezték), vagy ahol forgalomba helyezték, és felkérheti arra, hogy a hiányosságok megszüntetésére tegye meg a megfelelő intézkedéseket. Az értesítés a hiányosság megszüntetésére tett egyéb intézkedéseket, illetőleg eljárások lefolytatását nem érinti.
+## 2.13. Külföldi állampolgár tulajdonában lévő járműben észlelt súlyos hiányosságokról, különösen azokról, amelyek a jármű további közlekedésének megtiltását eredményezték, a közlekedési hatóság 5 napon belül értesíti – a 3. pont szerinti jegyzőkönyv minta segítségével – annak az országnak az illetékes hatóságát, amelyikben a járművet nyilvántartásba vették (bejegyezték), vagy ahol forgalomba helyezték, és felkérheti arra, hogy a hiányosságok megszüntetésére tegye meg a megfelelő intézkedéseket. Az értesítés a hiányosság megszüntetésére tett egyéb intézkedéseket, illetőleg eljárások lefolytatását nem érinti.
 
 ## 2.14. A közlekedési hatóság minden szükséges intézkedést megtesz az észlelt hiányosságok megszüntetésének elősegítésére.
 
@@ -226,8 +226,8 @@
 
 ## II. Fejezet
 
-11. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^255]
+11. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^266]
 
-[^253]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
-[^254]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
-[^255]: A 11. számú mellékletet a 105/2007. (XII. 23.) GKM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
+[^264]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
+[^265]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
+[^266]: A 11. számú mellékletet a 105/2007. (XII. 23.) GKM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.

@@ -36,7 +36,7 @@
 
 ## (A) Rendszám:
 
-## [^241](B) Első forgalomba helyezés időpontja:
+## [^251](B) Első forgalomba helyezés időpontja:
 
 ## Vizsgálat tárgya:
 
@@ -64,7 +64,7 @@
 
 ## Műszakilag megengedett össztömeg (kg):
 
-## [^242](I) Első hazai nyilvántartásba vétel időpontja:
+## [^252](I) Első hazai nyilvántartásba vétel időpontja:
 
 ## Gyártási év:
 
@@ -158,7 +158,7 @@
 
 ## (A) Rendszám:
 
-## [^243](B) Első forgalomba helyezés időpontja:
+## [^253](B) Első forgalomba helyezés időpontja:
 
 ## Vizsgálat tárgya:
 
@@ -186,7 +186,7 @@
 
 ## Műszakilag megengedett össztömeg (kg):
 
-## [^244](I) Első hazai nyilvántartásba vétel időpontja:
+## [^254](I) Első hazai nyilvántartásba vétel időpontja:
 
 ## Gyártási év:
 
@@ -336,10 +336,10 @@
 
 ## Aláírás
 
-2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^245]
+2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^255]
 
-[^241]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
-[^242]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
-[^243]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
-[^244]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
-[^245]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^251]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
+[^252]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
+[^253]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
+[^254]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
+[^255]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.

@@ -66,7 +66,7 @@ i) a legutóbbi továbbképzés időpontját,
 
 j) a vizsgabiztosi tevékenység felfüggesztéséről, az engedély visszavonásáról rendelkező határozat számát, időpontját, a felfüggesztés megszüntetésének időtartamát.
 
-(6) A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő öt munkanapon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+(6)[^120] A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
 (7) A közlekedési hatóság visszavonja az engedélyt és törli a vizsgabiztost a Nyilvántartásból, ha
 
@@ -84,7 +84,7 @@ f) e rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan me
 
 (8) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha:
 
-a)[^120]
+a)[^121]
 
 b) e rendeletben foglalt előírásokat megszegte,
 
@@ -96,4 +96,5 @@ c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 [^118]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
 [^119]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
-[^120]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
+[^120]: A 12/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^121]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.

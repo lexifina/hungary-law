@@ -1,4 +1,4 @@
-12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^256]
+12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^267]
 
 A vizsgabiztosok szakmai képzése
 
@@ -34,11 +34,11 @@ A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések
 
 a) e rendelet 12/A. §-ának (2) bekezdés e) pontjában meghatározott követelményt 2010. december 31-ig kell teljesítenie,
 
-b)[^257] az e rendelet 12/A. § (2) bekezdés a) pontjában meghatározott feltételnek nem kell megfelelnie.
+b)[^268] az e rendelet 12/A. § (2) bekezdés a) pontjában meghatározott feltételnek nem kell megfelelnie.
 
-3.4.[^258] Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
+3.4.[^269] Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
 
-3.5.[^259] A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
+3.5.[^270] A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
 
 Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok
 
@@ -46,11 +46,11 @@ Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok
 
 4.2. Kiegészítő képzésre az jelentkezhet, aki a vizsgabiztosi alaptanfolyamot elvégezte, és legalább „C” járműkategóriára érvényes vezetői engedéllyel rendelkezik.
 
-4.3.[^260] A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság elnöke – a vizsgabiztos szakmai tevékenységének értékelése alapján – felmentést adhat.
+4.3.[^271] A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság elnöke – a vizsgabiztos szakmai tevékenységének értékelése alapján – felmentést adhat.
 
-A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^261]
+A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^272]
 
-„A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^262]
+A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^273]
 
 I. FEJEZET
 
@@ -284,13 +284,13 @@ AZ EK-TÍPUSJÓVÁHAGYÁSI ELJÁRÁSOK ELVÉGZÉSE
 
 (4) A kiadott EK-típusbizonyítványokat az A/7. mellékletben meghatározott módszernek megfelelően kell számozni.
 
-(5) A jóváhagyó hatóság a többi tagállam jóváhagyó hatóságainak 20 munkanapon belül megküldi a jármű EK-típusbizonyítvány másolatát annak mellékleteivel együtt minden egyes jóváhagyott járműtípusra vonatkozóan. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
+(5) A jóváhagyó hatóság a többi tagállam jóváhagyó hatóságainak 30 napon belül megküldi a jármű EK-típusbizonyítvány másolatát annak mellékleteivel együtt minden egyes jóváhagyott járműtípusra vonatkozóan. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
 
 (6) A jóváhagyó hatóság késedelem nélkül tájékoztatja a többi tagállam jóváhagyó hatóságait minden járműjóváhagyás megtagadásáról vagy visszavonásáról, a döntés indokolásának mellékelésével.
 
 (7) A jóváhagyó hatóság háromhavonta megküldi a többi tagállam jóváhagyó hatóságainak az általa az előző időszakban kiadott, módosított, megtagadott vagy visszavont, rendszerre, alkatrészre vagy önálló műszaki egységre vonatkozó EK-típusjóváhagyások jegyzékét. A jegyzék az A/14. mellékletben meghatározott adatokat tartalmazza.
 
-(8) Az EK-típusjóváhagyást kiadó jóváhagyó hatóság valamely másik tagállam kérésére a kérelem kézhezvételét követő 20 munkanapon belül elküldi a szóban forgó EK-típusjóváhagyás másolatát a mellékletekkel együtt. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
+(8) Az EK-típusjóváhagyást kiadó jóváhagyó hatóság valamely másik tagállam kérésére a kérelem kézhezvételét követő 30 napon belül elküldi a szóban forgó EK-típusjóváhagyás másolatát a mellékletekkel együtt. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
 
 9. cikk
 
@@ -458,7 +458,7 @@ c) a jóváhagyás érvényessége különleges korlátozás következtében lej
 
 (2) Amennyiben csak a típuson belüli egy változat vagy a változaton belüli egy kivitel válik érvénytelenné, az EK-típusjóváhagyás hatálya csak abban az esetben szűnik meg, ha arról a bizonyos változatról vagy kivitelről van szó.
 
-(3) Amennyiben egy bizonyos járműtípus gyártása végérvényesen megszűnik, a gyártó értesíti azt a jóváhagyó hatóságot, amely az EK jármű-típusjóváhagyást megadta. Az ilyen értesítés kézhezvételétől számított 20 munkanapon belül az említett hatóság ennek megfelelően tájékoztatja a többi tagállam jóváhagyó hatóságait.
+(3) Amennyiben egy bizonyos járműtípus gyártása végérvényesen megszűnik, a gyártó értesíti azt a jóváhagyó hatóságot, amely az EK jármű-típusjóváhagyást megadta. Az ilyen értesítés kézhezvételétől számított 30 napon belül az említett hatóság ennek megfelelően tájékoztatja a többi tagállam jóváhagyó hatóságait.
 
 A 27. cikk csak az e cikk (1) bekezdésének a) pontjában említett körülmények esetén bekövetkező megszüntetés esetén alkalmazandó.
 
@@ -560,10 +560,10 @@ c) az elvégzett kísérletek és azok eredményeinek leírása annak igazolás�
 
 Adott esetben a döntés azt is meghatározza, hogy a jóváhagyás érvényessége – például időben – korlátozott-e. A típusjóváhagyás érvényessége minden esetben legalább harminchat hónap.
 
-[^256]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
-[^257]: A 12. számú melléklet 3.3. pont b) alpontja a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^258]: A 12. számú melléklet 3. pont 3.4. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^259]: A 12. számú melléklet 3. pont 3.5. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^260]: A 12. számú melléklet 4. pont 4.3. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^261]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja szerint módosított szöveg.
-[^262]: Ez a Függelék a Bizottság 1060/2008/EK és 385/2009/EK rendeletével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
+[^267]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
+[^268]: A 12. számú melléklet 3.3. pont b) alpontja a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^269]: A 12. számú melléklet 3. pont 3.4. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
+[^270]: A 12. számú melléklet 3. pont 3.5. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
+[^271]: A 12. számú melléklet 4. pont 4.3. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
+[^272]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése szerint módosított szöveg.
+[^273]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.

@@ -110,9 +110,7 @@
 
 ## e) kézi gázszivárgás-ellenőrző.
 
-## 1.2.17. Erőmérő
-
-## A kormányzási erő mérésére alkalmas kivitelű.
+## 1.2.17.[^258]
 
 ## 1.2.18. Menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés
 
@@ -1980,6 +1978,7 @@
 
 |  |  | 3 Közlekedésbiztonságot és környezetvédelmet nem veszélyeztető hiba | 0 099. kódszótárban nem szereplő | H |
 
-6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^248]
+6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^259]
 
-[^248]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
+[^258]: Az 5. számú melléklet 1.2.17. pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^259]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
