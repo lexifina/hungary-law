@@ -1,7 +1,11 @@
-## 4. § A Gyvt. 54. §-a (1) bekezdésének a) és c) pontjaiban meghatározott, a nevelőszülő és a nevelt gyermek közötti korkülönbségre, valamint a felkészítő tanfolyamra vonatkozó rendelkezésektől a gyermek érdekében kivételesen akkor indokolt eltérni, ha a gyermek hozzátartozói között van olyan személy, aki a gyermek nevelését vállalná, hozzá a gyermek kötődik, de a hozzátartozó a saját családja és a gyermek anyagi veszélyeztetése nélkül csak nevelőszülőként tudja vállalni a gyermek nevelését.
+5. §[^8] (1) A működtető a nevelőszülő szakmai alkalmasságát, ideértve a pszichológiai alkalmasságot is, háromévente felülvizsgálja.
 
-5. § (1) A működtető a nevelőszülő szakmai alkalmasságát háromévente felülvizsgálja.
+(2) A gyámi, gondozói tanácsadó, a nevelőszülői tanácsadó, a hivatásos gyám és a megyei, fővárosi gyermekvédelmi szakértői bizottság vezetője a működtetőnél rendkívüli felülvizsgálatot kezdeményez, ha ezt
 
-(2)[^1] A gyámi tanácsadó és a nevelőszülői tanácsadó a működtetőnél rendkívüli felülvizsgálatot kezdeményez ha ezt a nevelőszülő egészségi állapota vagy körülményeinek változása szükségessé teszi.
+a) a működési engedélyben szereplő feltételek megváltozása,
 
-[^1]: Az 5. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (4) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+b) a nevelőszülő élethelyzetének megváltozása,
+
+c) a nevelőszülő egészségi állapotának, ideértve a személyiségállapotát is, romlása
+
+[^8]: Az 5. § a 360/2010. (XII. 30.) Korm. rendelet 48. §-ával megállapított szöveg.
