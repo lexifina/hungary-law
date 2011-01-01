@@ -1,116 +1,118 @@
 ## I.
 
-## A Rendőrségnél rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
+## A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél
+
+## rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
 
 ## Vezetői munkakörök
 
-| Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követel- mények |
 
-| Központi | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | országos rendőrfőkapitány | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+|  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | országos rendőrfőkapitány | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
 
-| bűnügyi főigazgató (országos rendőrfőkapitány-helyettes) |
+|  | bűnügyi főigazgató (országos rendőrfőkapitány-helyettes) |
 
-| rendészeti főigazgató (országos rendőrfőkapitány-helyettes) |
+|  |  | rendészeti főigazgató (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |
 
-| gazdasági főigazgató (országos rendőrfőkapitány-helyettes) |
+|  |  | gazdasági főigazgató (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |
 
-| KŐE parancsnoka (országos rendőrfőkapitány-helyettes) |
+|  |  | KŐE parancsnoka (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |  |
 
-| főosztályvezetői illetményre jogosult | kiemelt főtanácsadó (főkapitányi biztos) |
+| Központi | főosztályvezetői illetményre jogosult | kiemelt főtanácsadó (főkapitányi biztos) |  |  |  |  |  |
 
-| szolgálatvezető (ORFK személyügyi, ellenőrzési) |
+|  | szolgálatvezető (ORFK személyügyi, ellenőrzési) |  |  |  |  |  |
 
-| hivatalvezető (ORFK) |
+|  | hivatalvezető (ORFK) |  |  |  |  |  |
 
-| főosztályvezető | ezredes | egyetem vagy főiskola |
+|  |  | főosztályvezető | ezredes | egyetem vagy főiskola |  |  |  |
 
-| igazgató |
+|  |  | igazgató |  |  |  |  |  |
 
-| parancsnokhelyettes (KŐE főosztályvezető) |
+|  |  | parancsnok-helyettes (KŐE főosztályvezető) |  |  |  |  |  |
 
-| parancsnokhelyettes (KŐE gazdasági igazgató) |
+|  |  | parancsnok-helyettes (KŐE gazdasági igazgató) |  |  |  |  |  |
 
-| szolgálatvezető (KŐE humánigazgatási) |
+|  |  | szolgálatvezető (KŐE humánigazgatási) |  |  |  |  |  |
 
-| hivatalvezető (KŐE) |
+|  |  | hivatalvezető (KŐE) |  |  |  |  |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes | alezredes | RIASZTSZ vagy RSZVI + RVK |
+|  | főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes | alezredes | RIASZTSZ vagy RSZVI+ RVK |
 
-| főosztályvezető-helyettes (KŐE) |
+|  | főosztályvezető- helyettes (KÖE) |  |
 
-| szolgálatvezető (ellenőrzáési KŐE) |
+|  |  | szolgálatvezető (ellenőrzési KÖE) |  |  |  |  |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető |
+|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |
 
-| titkárságvezető |
+|  | titkárságvezető |  |  |  |  |  |
 
-| Területi | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem | RMVK vagy RSZVI + RVK + RMVK |
+|  | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |  | RMVK vagy RSZVI + RVK + RMVK |  |
 
-| igazgató (NNI, RRI) |
+|  | igazgató (NNI, RRI, BSZKI) |  |  |  |  |
 
-| parancsnok (KR) |
+|  | parancsnok (KR) |  |  |  |  |
 
-| bűnügyi rendőrfőkapitány-helyettes (BRFK) |
+|  | bűnügyi rendőrfőkapitány- helyettes (BRFK) |  |  |  |  |
 
-| rendészeti rendőrfőkapitány-helyettes (BRFK) |
+|  |  | rendészeti rendőrfőkapitány- helyettes (BRFK) |  |  |  |  |  |
 
-|  | ezredes |
+|  | igazgató (ORFK GF GEI) | ezredes | egyetem vagy főiskola |  |  |  |
 
-| főosztályvezető-helyettesi illetményre jogosult | főosztályvezető (BRFK, NNI, KR) | ezredes | egyetem vagy főiskola | RIASZTSZ vagy RSZVI + RVK |
+|  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, NNI, KR) |  | RIASZTSZ vagy RSZVI + RVK |  |
 
-| hivatalvezető (BRFK) |
+|  | hivatalvezető (BRFK) |  |  |  |  |  |
 
-| bűnügyi igazgató (rendőrfőkapitány-helyettes) |
+|  | bűnügyi igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |  |
 
-| rendészeti igazgató (rendőrfőkapitány-helyettes) |
+|  |  | rendészeti igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |  |
 
-| rendészeti parancsnokhelyettes (KR) |
+| Területi |  | rendészeti parancsnok-helyettes (KR) |  |  |  |  |  |
 
-| parancsnokhelyettes (terrorelhárító igazgató) (KR) |
+|  |  | parancsnok-helyettes (KR) |  |  |  |  |  |
 
-| igazgatóhelyettes (NNI, RRI) |
+|  |  | igazgatóhelyettes (NNI, RRI, BSZKI) |  |  |  |  |  |
 
-| szolgálatparancsnok (KR terrorelhárító, tűzszerész) |
+|  |  | szolgálat-parancsnok (KR tűzszerész) |  |  |  |  |  |
 
-| igazgató |
+|  |  | Igazgató |  |  |  |  |  |
 
-| támogató igazgató (parancsnokhelyettes) (KR) |
+|  |  | támogató igazgató (parancsnok-helyettes KR) |  |  |  |  |  |
 
-| zászlóaljparancsnok (BRFK) |
+|  |  | zászlóalj-parancsnok (BRFK) |  |  |  |  |  |
 
-| parancsnok (KR, ÁFSZ, LRP) |
+|  |  | parancsnok (ÁFSZ, LRP) |  |  |  |  |  |
 
-| igazgatóhelyettes (OKI) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+|  |  | igazgatóhelyettes (OKI) | alezredes |  |  |
 
-| szolgálatvezető |
+|  |  | szolgálatvezető |  |  |  |  |  |
 
-| hivatalvezető |
+|  |  | hivatalvezető |  |  |  |  |  |
 
-| Osztályvezetői illetményre jogosult | osztályvezető |
+|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
 
-| szolgálatparancsnok (KR pénzkísérő) |
+|  | szolgálat-parancsnok (KR pénzkísérő) |  |  |  |  |  |
 
-| szolgálatparancsnok-helyettes (KR terrorelhárítási) |
+|  |  | parancsnok-helyettes (LRP) |  |  |  |  |  |
 
-| parancsnokhelyettes (LRP) |
+|  |  | szakcsoportvezető (OKI) |  |  |  |  |  |
 
-| szakcsoportvezető (OKI) |
+|  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK |
 
-| Helyi | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+|  |  | kapitányságvezető | alezredes |  |  |  |
 
-| kapitányságvezető | alezredes |
+|  | főosztályvezető- helyettesi illetményre jogosult | kapitányságvezető- helyettes (kiemelt) |  |  |  |
 
-| főosztályvezető-helyettesi illetményre jogosult | kapitányságvezető-helyettes (kiemelt) |
+| Helyi |  | határrendészeti kirendeltségvezető |  |  |  |  |
 
-| határrendészeti kirendeltségvezető |
+|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető | RIASZTSZ vagy RSZVI + RVK |
+|  | hivatalvezető (kiemelt) |  |  |  | RIASZTSZ vagy RSZVI + RVK |  |
 
-| hivatalvezető (kiemelt) |
+|  |  | őrsparancsnok (osztály jogállású) |  |  |  |  |  |
 
-| őrsparancsnok (osztály jogállású) |
+|  |  |  |  |  |  |  |  | ” |
 
 ## I. Besorolási osztály
 
@@ -428,8 +430,6 @@
 
 | szolgálatparancsnok-helyettes |
 
-| felszámoló (KR terrorelhárítási) | pszichológiai alkalmasság |
-
 | fogdaőr I. |  |
 
 | futár I. |
@@ -536,9 +536,9 @@
 
 ## Országos Rendőr-főkapitányság (ORFK) + KŐE.
 
-## Területi szervek: (megyei illetékességű középirányító és azonos jogállású)
+## Területi szervek: : (megyei illetékességű középirányító és azonos jogállású)
 
-|  | ORFK területi besorolású szervek + BRFK + MRFK-k + NNI + KR + RRI + GEI |
+|  | ORFK területi besorolású szervek + BRFK +MRFK-k + NNI + KR + RRI + GEI + BSZKI |
 
 ## Helyi szervek:
 
@@ -557,6 +557,152 @@
 | BRFK: Budapesti Rendőr-főkapitányság |  | MRFK: Megyei Rendőr-főkapitányság |
 
 | PMRFK: Pest Megyei Rendőr-főkapitányság |  |  |
+
+## I/A. A Nemzeti Védelmi Szolgálatnál rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
+
+## Vezetői munkakörök
+
+| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+
+| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követel- mények |
+
+|  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ+ RMVK vagy RSZVI+ RVK+ RMVK | pszichológiai alkalmasság |
+
+|  | főigazgató-helyettes |  | egyetem vagy főiskola |  |
+
+|  | főosztály- vezetői illetményre jogosult | igazgató | ezredes |  |  |  |  |
+
+|  | igazgató-helyettes |  |  |
+
+| NVSZ |  | főosztály- vezető |  |  |
+
+|  | szolgálat-vezető (humán) |  |  |  |
+
+|  | hivatalvezető |  |  |  |
+
+|  | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes |  |  | RIASZTSZ vagy RSZVI+RVK |  |
+
+|  | főosztály- vezető- helyettes (osztály- vezető) |  |  |  |  |
+
+|  | osztály- vezetői illetményre jogosult | osztályvezető | alezredes |  |  |  |  |
+
+| biztonsági vezető |
+
+## I. Besorolási osztály
+
+| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+
+| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+
+|  | VI. | kiemelt főreferens (kirendeltség- vezető) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ vagy RSZVI | pszichológiai alkalmasság |
+
+| NVSZ |  | kiemelt főreferens |  |  |  |  |  |
+
+|  | V. | főreferens |  |  |  | - |  |
+
+## Megjegyzés:
+
+## NVSZ: Nemzeti Védelmi Szolgálat
+
+## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
+
+## RMVK: rendészeti mestervezetővé képző
+
+## RSZVI: rendészeti szakvizsga
+
+## RVK: rendészeti vezetővé képző
+
+## I/B. A Terrorelhárítási Központnál rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
+
+## Vezetői munkakörök
+
+| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+
+| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+
+| TEK | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+
+|  | főigazgató-helyettes |  |
+
+|  | főosztály-vezetői illetményre jogosult | igazgató | ezredes |  |
+
+|  | hivatalvezető |  |  |  |  |
+
+|  |  | főosztályvezető |  |  |  |  |
+
+|  | főosztály-vezető- helyettesi illetményre jogosult | főosztályvezető- helyettes |  | RIASZTSZ vagy RSZVI + RVK |
+
+|  | osztály-vezetői illetményre jogosult | osztályvezető | alezredes |
+
+|  |  | irodavezető |  |  |  |  |  |
+
+## I. Besorolási osztály
+
+|  |  |  |  | Képesítési és egyéb követelmények |
+
+| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+
+| TEK | VI. | kiemelt főreferens | alezredes | egyetem vagy főiskola | szakirányú felsőfokú | RIASZTSZ vagy RSZVI | pszichológiai alkalmasság |
+
+|  | osztályvezető-helyettes |
+
+|  | belső ellenőr |
+
+|  | jogtanácsos |  |  |  |  |  |
+
+|  | csoportvezető |  |  |  |  |  |
+
+|  |  | pszichológus |  |  |  |  |  |
+
+|  |  | ügyeletvezető |  |  |  |  |  |
+
+|  |  | főreferens |  |
+
+|  | V. | kiemelt főelőadó |  |  |  | - |  |
+
+|  |  | mentőtiszt |  |  |  |  |  |
+
+|  |  | kiemelt biztonsági főtiszt |  |  |  |  |  |
+
+|  |  | főmérnök |  |  |  |  |  |
+
+|  |  | főelőadó |  |
+
+|  | IV. | szolgálat-parancsnok | őrnagy |  |  |  |  |
+
+|  | III. | előadó | százados |
+
+## II. Besorolási osztály
+
+|  |  |  |  | Képesítési és egyéb követelmények |
+
+| Szerv | Beosztási kategória | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
+
+| TEK | IV. | referens | főtörzszászlós | középiskola | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés | - | pszichológiai alkalmasság |
+
+|  |  | gépjárművezető |  |  | rendészeti szakközépiskolai végzettség, rendőr |
+
+|  |  | biztonsági gépjárművezető | főtörzszászlós | középiskola | vagy határrendészeti szakképesítés, vagy objektumőr-kísérő, |
+
+|  |  | lakásbiztosító |  |  | vagy kormányőr |
+
+|  |  | helyszínbiztosító |  |  | részszakképesítés |
+
+|  |  | objektumőr |  |  |  |
+
+|  |  | szolgálat-parancsnok |  |  | rendészeti szakközépiskolai végzettség, rendőr vagy határrendészeti szakképesítés |
+
+## Megjegyzések:
+
+## TEK: Terrorelhárítási Központ
+
+## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
+
+## RSZVI: rendészeti szakvizsga
+
+## RVK: rendészeti vezetővé képző
+
+## RMVK: rendészeti mestervezetővé képző
 
 ## II.
 

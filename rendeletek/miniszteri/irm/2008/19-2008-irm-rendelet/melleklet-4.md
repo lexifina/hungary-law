@@ -42,6 +42,8 @@
 
 ## 12. Idegenrendészeti tevékenységgel összefüggő minden beosztás.
 
+## 13.[^22] A Terrorelhárítási Központ főigazgatója által meghatározott azon beosztások, ahol az idegen nyelv használata a szolgálat ellátásához nélkülözhetetlen.
+
 ## II. BÜNTETÉS-VÉGREHAJTÁS
 
 ## 1. Büntetés-végrehajtás Országos Parancsnokságán:
@@ -78,7 +80,7 @@
 
 4. melléklet a 19/2008. (IX. 18.) IRM rendelethez
 
-I. Őr-, ügyeleti, készenléti és készültségi szolgálatok a Rendőrségnél[^22]
+I. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél[^23]
 
 1. Őrszolgálatok:
 
@@ -94,11 +96,11 @@ e) Koronaőrző (KŐE)
 
 f) Mozgóőr, rendkívüli őr
 
-g)[^23] Parlamenti őr (KŐE)
+g)[^24] Parlamenti őr (KŐE)
 
-h)[^24] Segédelőadó (őrzött szálláson)
+h)[^25] Segédelőadó (őrzött szálláson)
 
-i)[^25] Szolgálati csoportvezető (őrzött szálláson)
+i)[^26] Szolgálati csoportvezető (őrzött szálláson)
 
 2. Ügyeleti szolgálatok:
 
@@ -122,23 +124,25 @@ i) Helyettes Ügyeleti Szolgálat (Határátkelőhelyeken, Kihelyezett Szolgála
 
 j) Bevetési Szolgálat
 
-k)[^26] Őrzött Szállás
+k)[^27] Őrzött Szállás
+
+l)[^28] Ügyeleti Főosztály (TEK)
 
 3. Készenléti szolgálatok:
 
 a) NNI
 
-b)[^27] Közrendvédelmi, közlekedésrendészeti és igazgatásrendészeti főosztályok (ORFK) által adott szolgálat, a megyei rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálatai által adott szolgálat
+b)[^29] Közrendvédelmi, közlekedésrendészeti és igazgatásrendészeti főosztályok (ORFK) által adott szolgálat, a megyei rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálatai által adott szolgálat
 
-c) KR (tűzszerész, búvár, pilóta, műveleti alosztály)
+c)[^30] KR (tűzszerész, búvár, pilóta,)
 
 d) KR szakszolgálatainak készenléti szolgálatai (pénzügyi, anyagi, technikai, egészségügyi, híradó, informatikai)
 
-e)[^28] RRI (ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét)
+e)[^31] RRI (ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét)
 
 f) KŐE főosztály szintű szervei által adott szolgálatok
 
-g)[^29] Területi és helyi szervek bűnügyi szolgálati ág forrónyomos csoportjai
+g)[^32] Területi és helyi szervek bűnügyi szolgálati ág forrónyomos csoportjai
 
 4. Készültségi szolgálatok:
 
@@ -146,9 +150,9 @@ a) KR bevetési osztályai
 
 b) Bevetési Egységek (MRFK, BRFK)
 
-c)[^30]
+c)[^33]
 
-II. Őr-, ügyeleti és készenléti szolgálatok a büntetés-végrehajtási szervezetnél[^31]
+II. Őr-, ügyeleti és készenléti szolgálatok a büntetés-végrehajtási szervezetnél[^34]
 
 1. Őrszolgálati jellegű beosztások
 
@@ -198,13 +202,16 @@ d) Speciális (akció) csoportba beosztottak.
 
 [^20]: A 3. melléklet I.3. pontja a 75/2009. (XII. 23.) IRM rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^21]: A 3. melléklet I. rész 11. pont h) alpontját az 51/2009. (IX. 30.) IRM rendelet 2. §-a iktatta be.
-[^22]: A 4. melléklet eredeti címének megjelölését I. címre változtatta a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése.
-[^23]: A 4. melléklet 1. pont g) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
-[^24]: A 4. melléklet 1. pont h) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
-[^25]: A 4. melléklet 1. pont i) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
-[^26]: A 4. melléklet 2. pont k) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
-[^27]: A 4. melléklet 3. pont b) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^28]: A 4. melléklet 3. pont e) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^29]: A 4. melléklet 3. pont g) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
-[^30]: A 4. melléklet 4. pont c) alpontját a 75/2009. (XII. 23.) IRM rendelet 8. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^31]: A 4. melléklet II. címét a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be, egyidejűleg az eredeti cím megjelölését I. címre változtatta.
+[^22]: A 3. melléklet I. rész 13. pontját a 16/2010. (XII. 31.) BM rendelet 11. §-a iktatta be.
+[^23]: A 4. melléklet eredeti címének megjelölését I. címre változtatta a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése, szövege a 16/2010. (XII. 31.) BM rendelet 12. §-a szerint módosított szöveg.
+[^24]: A 4. melléklet 1. pont g) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
+[^25]: A 4. melléklet 1. pont h) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
+[^26]: A 4. melléklet 1. pont i) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
+[^27]: A 4. melléklet 2. pont k) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
+[^28]: A 4. melléklet 2. pont l) alpontját a 16/2010. (XII. 31.) BM rendelet 11. §-a iktatta be.
+[^29]: A 4. melléklet 3. pont b) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^30]: A 4. melléklet I. cím 3. pont c) alpontja a 16/2010. (XII. 31.) BM rendelet 13. §-a szerint módosított szöveg.
+[^31]: A 4. melléklet 3. pont e) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^32]: A 4. melléklet 3. pont g) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be.
+[^33]: A 4. melléklet 4. pont c) alpontját a 75/2009. (XII. 23.) IRM rendelet 8. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^34]: A 4. melléklet II. címét a 75/2009. (XII. 23.) IRM rendelet 7. § (4) bekezdése iktatta be, egyidejűleg az eredeti cím megjelölését I. címre változtatta.

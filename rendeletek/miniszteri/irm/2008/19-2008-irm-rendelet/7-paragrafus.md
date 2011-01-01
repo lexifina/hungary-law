@@ -24,7 +24,7 @@ ba) I. pontjában a „2. Határőrség Országos Parancsnokságán a) 125%-os m
 
 bb) III. pontjában az
 
-„a határőrségnél:
+a határőrségnél:
 
 – nyomozó, főnyomozó, kiemelt főnyomozó,
 
@@ -36,7 +36,7 @@ bb) III. pontjában az
 
 – katonai vétségek nyomozását végző fegyelmi kiemelt főreferens, kiemelt fővizsgáló, fővizsgáló,
 
-– valamint a felsoroltak szolgálati elöljárói osztályvezetői szintig, amennyiben bűnügyi megelőző, felderítő vagy nyomozói feladatokat ténylegesen ellátnak.” szöveg;
+– valamint a felsoroltak szolgálati elöljárói osztályvezetői szintig, amennyiben bűnügyi megelőző, felderítő vagy nyomozói feladatokat ténylegesen ellátnak. szöveg;
 
 bc) V. pontjában az
 

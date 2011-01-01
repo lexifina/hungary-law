@@ -28,7 +28,7 @@
 
 ## ab) az RTF valamely szakán szerzett végzettség és a nem rendőri szakok esetében átképző tanfolyam,
 
-## ac)[^17] más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szakirányú felsőfokú végzettség, valamint a beosztásnak megfelelő szaktanfolyam.
+## ac)[^16] más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szakirányú felsőfokú végzettség, valamint a beosztásnak megfelelő szaktanfolyam.
 
 ## b) A II. besorolási osztályba tartozó zászlósi munkakörök esetében:
 
@@ -210,7 +210,7 @@
 
 ## b) a Nemzetvédelmi Egyetem logisztikai szakán vagy a Bolyai János Katonai Műszaki Főiskola pénzügyi, gazdálkodási, technikai szakán szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
 
-## c)[^18] belső ellenőrzési tevékenység ellátása esetén a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet 11. §-ában meghatározott követelménynek megfelelő képzettség, képesítés.
+## c)[^17] belső ellenőrzési tevékenység ellátása esetén a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet 11. §-ában meghatározott követelménynek megfelelő képzettség, képesítés.
 
 ## 14. Tanári, oktatói feladatokat ellátók:
 
@@ -294,7 +294,7 @@
 
 ## d) a felsőfokú büntetés-végrehajtási szakvizsga 1984. január 1-jétől történő letételét igazoló bizonyítványt,
 
-## e)[^19] a Zrínyi Miklós Nemzetvédelmi Egyetem büntetés-végrehajtási nevelő szakán szerzett képesítést.
+## e)[^18] a Zrínyi Miklós Nemzetvédelmi Egyetem büntetés-végrehajtási nevelő szakán szerzett képesítést.
 
 ## 2. Középfokú büntetés-végrehajtási szakképesítésnek kell elfogadni:
 
@@ -308,8 +308,11 @@
 
 ## b) a Bv. Szervezet Oktatási Központjában az alapfokú szaktanfolyam 1996. szeptember 1-je utáni elvégzését igazoló bizonyítványt.
 
+## 4.[^19] Középfokú rendőri szakképesítésnek kell elfogadni a BM Kun Béla Tiszthelyettes-képző Iskola és jogutódai (a BM Kun Béla Zászlósképző Iskola, a Rendőr-zászlósképző Iskola, az Országos Rendőr-főkapitányság Oktatási Kiképzési Központja) szakképzési tagozatának elvégzését igazoló bizonyítványt.
+
 3. melléklet a 19/2008. (IX. 18.) IRM rendelethez
 
-[^17]: A 2. melléklet II.1. pont ac) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^18]: A 2. melléklet II.13. pont c) alponját a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdése iktatta be.
-[^19]: A 2. melléklet Megjegyzés cím 1. pont e) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdése iktatta be.
+[^16]: A 2. melléklet II.1. pont ac) alpontja a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet II.13. pont c) alponját a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdése iktatta be.
+[^18]: A 2. melléklet Megjegyzés cím 1. pont e) alpontját a 75/2009. (XII. 23.) IRM rendelet 7. § (2) bekezdése iktatta be.
+[^19]: A 2. melléklet Megjegyzés rész 4. pontját a 16/2010. (XII. 31.) BM rendelet 11. §-a iktatta be.
