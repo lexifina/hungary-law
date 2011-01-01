@@ -50,8 +50,8 @@
 
 ## Aláírás
 
-## VII.[^27]
+## VII.[^64]
 
 7. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
 
-[^27]: A 6. melléklet VII. pontját a 91/2010. (III. 31.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.
+[^64]: A 6. melléklet VII. pontját a 91/2010. (III. 31.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.

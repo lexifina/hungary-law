@@ -2,7 +2,7 @@
 
 ## FÉMKERESKEDELMI ENGEDÉLY
 
-## I. Az engedélyező regionális ellenőrzési központ megnevezése:
+## I. Az engedélyező vámszerv megnevezése:
 
 ## II. A fémkereskedelmi engedély száma:
 
@@ -26,15 +26,13 @@
 
 ## V. Fent nevezett fémkereskedő a fémkereskedelmi engedély mellékleteként kiállított és hitelesített betétlap(ok)on megjelölt helyen és feltételek mellett jogosult a fémkereskedelmi tevékenység folytatására.
 
-## VI. Jelen engedély határozatlan ideig/ .......-ig érvényes.
+## VI. Jelen engedély határozatlan ideig/ ....... -ig érvényes.
 
 ## Kelt: ......................................
 
-## ....................................................................................................
+## ................................................................................
 
-## az engedélyező regionális ellenőrzési központ
-
-## aláírása (bélyegzője)
+## az engedélyező vámszerv aláírása (bélyegzője)
 
 ## VII. Betétlap
 
@@ -48,20 +46,18 @@
 
 ## c) telephelyének címe, helyrajzi száma:
 
-## d) felügyeletét ellátó vám- és pénzügyőri hivatal:
+## d) felügyeletét ellátó vámszerv:
 
 ## VIII. Fémkereskedő tevékenység engedélyezése
 
-## 1. A fémkereskedő a telephelyen a Fémtv. 4. §-ban meghatározott tevékenység végzésére jogosult.
+## 1. A fémkereskedő a telephelyen a Fémtv. 4. §-ban meghatározott tevékenység végzésére – a jogszabályi kötelezettségek betartása mellett – jogosult.
 
 ## 2. A fémkereskedő a jelen engedélyben rögzített, valamint a fémkereskedelmi engedély iránti kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet.
 
 ## Kelt: ...................................................
 
-## ...........................................................................................................
+## ..................................................................................
 
-## az engedélyező regionális ellenőrzési központ aláírása
-
-## (bélyegzője)
+## az engedélyező vámszerv aláírása (bélyegzője)
 
 3. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez

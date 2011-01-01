@@ -50,7 +50,7 @@
 
 ## e) a vevő címe:
 
-## f)[^18] a vevő adószáma/adóazonosítója:
+## f)[^55] a vevő adószáma/adóazonosítója:
 
 ## g) a számla vagy a kísérő okmány száma:
 
@@ -58,4 +58,4 @@
 
 4. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
 
-[^18]: A 3. melléklet III. f) pontja a 91/2010. (III. 31.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^55]: A 3. melléklet III. f) pontja a 91/2010. (III. 31.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.

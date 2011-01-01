@@ -40,13 +40,13 @@
 
 ## 7. szállítási többlet
 
-## 8.[^19] áttárolás másik telephelyről
+## 8.[^56] áttárolás másik telephelyről
 
-## 9.[^20] összes bevételezés eladóktól telephely nélkül végzett tevékenység esetén
+## 9.[^57] összes bevételezés eladóktól telephely nélkül végzett tevékenység esetén
 
-## 10.[^21] korrekciós növekedés
+## 10.[^58] korrekciós növekedés
 
-## 11.[^22] növekedés összesen
+## 11.[^59] növekedés összesen
 
 ## bb) Csökkenési jogcímek:
 
@@ -62,23 +62,23 @@
 
 ## 6. szállítási hiány
 
-## 7.[^23] áttárolás másik telephelyre
+## 7.[^60] áttárolás másik telephelyre
 
-## 8.[^24] összes kiadás vevőknek telephely fenntartása nélkül végzett tevékenység esetén
+## 8.[^61] összes kiadás vevőknek telephely fenntartása nélkül végzett tevékenység esetén
 
-## 9.[^25] korrekciós csökkenés
+## 9.[^62] korrekciós csökkenés
 
-## 10.[^26] csökkenés összesen
+## 10.[^63] csökkenés összesen
 
 ## c) Záró készlet
 
 5. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
 
-[^19]: A 4. melléklet II. ba) pont 8. alpontja a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. melléklet II. ba) pont 9. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^21]: A 4. melléklet II. ba) pont 10. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^22]: A 4. melléklet II. ba) pont 11. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^23]: A 4. melléklet II. bb) pont 7. alpontja a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^24]: A 4. melléklet II. bb) pont 8. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^25]: A 4. melléklet II. bb) pont 9. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^26]: A 4. melléklet II. bb) pont 10. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^56]: A 4. melléklet II. ba) pont 8. alpontja a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^57]: A 4. melléklet II. ba) pont 9. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^58]: A 4. melléklet II. ba) pont 10. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^59]: A 4. melléklet II. ba) pont 11. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^60]: A 4. melléklet II. bb) pont 7. alpontja a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^61]: A 4. melléklet II. bb) pont 8. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^62]: A 4. melléklet II. bb) pont 9. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^63]: A 4. melléklet II. bb) pont 10. alpontját a 91/2010. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.

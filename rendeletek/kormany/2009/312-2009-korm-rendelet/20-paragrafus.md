@@ -1,12 +1,12 @@
 20. § (1) A fémkereskedőnek a 19. § (1) bekezdésében meghatározott nyilvántartásból elektronikus formában naponta, a tárgynapot követő munkanapon, a 19. § (2) bekezdése szerinti havi zárásról legkésőbb a tárgyhót követő hónap 20. napjáig adatszolgáltatást kell teljesítenie.
 
-(2) A fémkereskedő az adatszolgáltatást az e célra rendszeresített, a fémkereskedelmi hatóság honlapján közzétett nyomtatványkitöltő program segítségével kitöltött nyomtatványnak a területileg illetékes vám- és pénzügyőri hivatalhoz való elektronikus úton történő megküldésével teljesíti.
+(2)[^30] A fémkereskedő az adatszolgáltatást az e célra rendszeresített, a fémkereskedelmi hatóság honlapján közzétett nyomtatványkitöltő program segítségével kitöltött nyomtatványnak az engedélyező vámszervhez, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszervhez való elektronikus úton történő megküldésével teljesíti.
 
 (3) A fémkereskedelmi hatóság az adatszolgáltatás elektronikus úton történő teljesítéséhez a központi elektronikus szolgáltató rendszeren (a továbbiakban: KR) keresztül hozzáférhető informatikai rendszert (a továbbiakban: informatikai rendszer) működtet.
 
 (4) Az adatszolgáltatás elektronikus úton történő teljesítéséhez a fémkereskedőnek, illetve az általa meghatalmazott vagy megbízott képviseleti joggal rendelkező személynek (a továbbiakban: képviselő) a KR rendeletben meghatározott ügyfélkapuval kell rendelkeznie (a továbbiakban: eljárási jogosultság).
 
-(5) A fémkereskedő, illetve a képviselő az eljárási jogosultságát az adatszolgáltatás elektronikus úton történő első teljesítését legalább 22 munkanappal megelőzően a fémkereskedelmi hatóság által erre rendszeresített – a fémkereskedelmi hatóság internetes honlapján közzétett – nyomtatványon a fémkereskedelmi hatósághoz bejelenti, és ugyanezen nyomtatványon kell az eljárási jogosultságban bekövetkezett mindennemű változást is bejelentenie.
+(5)[^31] A fémkereskedő, illetve a képviselő az eljárási jogosultságát az adatszolgáltatás elektronikus úton történő első teljesítését legalább harminc nappal megelőzően a fémkereskedelmi hatóság által erre rendszeresített – a fémkereskedelmi hatóság internetes honlapján közzétett – nyomtatványon a fémkereskedelmi hatósághoz bejelenti, és ugyanezen nyomtatványon kell az eljárási jogosultságban bekövetkezett mindennemű változást is bejelentenie.
 
 (6) A bejelentés alapján a fémkereskedelmi hatóság a fémkereskedőt, illetve a képviselőt nyilvántartásba veszi, a bejelentett változásokat rögzíti és erről a fémkereskedőt haladéktalanul értesíti.
 
@@ -26,6 +26,11 @@
 
 (14) A fémkereskedelmi hatóság az adatszolgáltatás elektronikus úton történő teljesítése során szükséges informatikai követelményeket, illetve a szükséges tájékoztatásokat a kormányzati portálon, illetve a fémkereskedelmi hatóság honlapján közzéteszi.
 
-(15) A fémkereskedelmi hatóság az informatikai követelmények megváltozását a változás időpontját legalább 22 munkanappal megelőzően közzéteszi.
+(15)[^32] A fémkereskedelmi hatóság az informatikai követelmények megváltozását a változás időpontját legalább harminc nappal megelőzően közzéteszi.
 
-(16) A napi adatszolgáltatási kötelezettségét adattartalmát a 3. számú melléklet a havi adatszolgáltatási kötelezettségét adattartalmát a 4. számú melléklet tartalmazza.”
+(16)[^33] A napi adatszolgáltatási kötelezettség adattartalmát a 3. számú melléklet, a havi adatszolgáltatási kötelezettségét adattartalmát a 4. számú melléklet tartalmazza.”
+
+[^30]: A 20. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
+[^31]: A 20. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (139) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^32]: A 20. § (15) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (139) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^33]: A 20. § (16) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.

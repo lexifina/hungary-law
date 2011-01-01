@@ -1,9 +1,9 @@
-28. § (1)[^14]
+28. § (1)[^49]
 
-(2)[^15]
+(2)[^50]
 
-(3)[^16]
+(3)[^51]
 
-[^14]: A 28. § (1) bekezdését a 25. (11) bekezdése hatályon kívül helyezte.
-[^15]: A 28. § (2) bekezdését a 25. § (10) bekezdése hatályon kívül helyezte.
-[^16]: A 28. § (3) bekezdését a 25. (11) bekezdése hatályon kívül helyezte.
+[^49]: A 28. § (1) bekezdését a 25. (11) bekezdése hatályon kívül helyezte.
+[^50]: A 28. § (2) bekezdését a 25. § (10) bekezdése hatályon kívül helyezte.
+[^51]: A 28. § (3) bekezdését a 25. (11) bekezdése hatályon kívül helyezte.

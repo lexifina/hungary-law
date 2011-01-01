@@ -2,7 +2,7 @@
 
 ## A kérelem benyújtásának időpontja:
 
-## A kérelmet átvevő regionális ellenőrzési központ megnevezése, aláírása:
+## A kérelmet átvevő vámszerv megnevezése, aláírása:
 
 ## KÉRELEM
 
@@ -28,7 +28,7 @@
 
 ## 1.8. cégvezetőjének (több cégvezető esetében a felelős vezetői feladatokat ellátó cégvezető megjelölésével)
 
-## 18.1. neve:
+## 1.8.1. neve:
 
 ## 1.8.2. születési helye, ideje:
 
@@ -42,9 +42,7 @@
 
 ## 1.9. A kapcsolattartó személy elérhetőségei (név, telefonszám, e-mail cím):
 
-## 2.1. Állami adóhatóság tartozás igazolásának száma, kiadásának kelte:
-
-## 2.2. Önkormányzat tartozás igazolásának száma, kiadásának kelte:
+## 2. Önkormányzat tartozás igazolásának száma, kiadásának kelte:
 
 ## 3. Nyilatkozatok
 
@@ -82,23 +80,23 @@
 
 ## a) telephely fenntartása nélkül folytatott tevékenység
 
-## aa) felvásárlás ⬜
+## aa) felvásárlás □
 
-## ab) fuvarozás ⬜
+## ab) fuvarozás □
 
-## ac) értékesítés ⬜
+## ac) értékesítés □
 
 ## b) telephely fenntartásával folytatott tevékenység
 
-## ba) felvásárlás ⬜
+## ba) felvásárlás □
 
-## bb) fuvarozás ⬜
+## bb) fuvarozás □
 
-## bc) tárolás ⬜
+## bc) tárolás □
 
-## bd) raktározás ⬜
+## bd) raktározás □
 
-## be) értékesítés ⬜
+## be) értékesítés □
 
 ## 6. Az éves szinten működtetni kívánt kapacitás mellett begyűjthető, felvásárolható, raktározható és tárolható fémkereskedelmi engedélyköteles anyag mennyisége [kg]:
 
@@ -154,8 +152,10 @@
 
 ## Kelt: ...................................................
 
-## ........................................................................
+## .........................................................
 
 ## a kérelmező aláírása (bélyegzője)
 
-2. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
+2. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^54]
+
+[^54]: A 2. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 129. § (14) bekezdésével megállapított szöveg.
