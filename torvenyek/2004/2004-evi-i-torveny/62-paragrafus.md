@@ -10,7 +10,7 @@
 
 (5) Fel kell függeszteni az életjáradék folyósítását annak a „Nemzet Sportolója” címet elnyert személynek, aki szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvád vagy pótmagánvád alapján indult büntetőeljárást – hatálya alatt áll. A járadékra jogosult az alapos gyanú közlésétől számított nyolc munkanapon belül bejelenti a sportigazgatási szervnek, ha ellene büntetőeljárás indult.
 
-(6) Ha a „Nemzet Sportolója” címet elnyert személy igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárás jogerősen befejezték és nem következett be a (3) bekezdés szerinti érdemtelenségi ok, a sportigazgatási szerv az igazolástól számított huszonkét munkanapon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt életjáradékot.
+(6) Ha a „Nemzet Sportolója” címet elnyert személy igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárás jogerősen befejezték és nem következett be a (3) bekezdés szerinti érdemtelenségi ok, a sportigazgatási szerv az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt életjáradékot.
 
 (7) A sportigazgatási szerv a „Nemzet Sportolója” címre jelölt személyekre beérkezett javaslatok elbírálása és a jelöltek listájának összeállítása céljából is jogosult adatot igényelni a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jelölni kívánt személy nem érdemtelen-e, és nem áll-e büntetőeljárás hatálya alatt.
 

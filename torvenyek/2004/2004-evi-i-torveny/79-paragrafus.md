@@ -36,6 +36,6 @@ a) az állami sportcélú támogatás felhasználásának és elosztásának a r
 
 b) a hazai rendezésű sport világesemények állami támogatására és rendezési feltételeire vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az oktatásért felelős miniszter és a miniszter, hogy együttes rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
+(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.

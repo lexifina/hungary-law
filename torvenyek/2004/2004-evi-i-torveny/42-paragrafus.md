@@ -6,7 +6,7 @@
 
 (3) A Nemzeti Sportszövetség:
 
-a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, a sportközalapítványok, illetve más társadalmi szervezetek előtt,
+a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más társadalmi szervezetek előtt,
 
 b) összehangolja tagjai tevékenységét, illetve versenyrendszerét, összeállítja az országos összesített versenynaptárt, valamint sportszakmai, gazdasági, jogi és egyéb szolgáltatásokat nyújt, és pályázatokat ír ki tagjai részére,
 

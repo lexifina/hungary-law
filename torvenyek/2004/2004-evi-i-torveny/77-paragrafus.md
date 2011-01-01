@@ -6,7 +6,7 @@
 
 77. § E törvény alkalmazásában:
 
-a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a sportközalapítványokra, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
+a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a sportközalapítványra, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
 
 b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 

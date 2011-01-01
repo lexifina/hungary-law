@@ -24,13 +24,15 @@ f) együttműködés az állami szervekkel, a Magyar Paralimpiai Bizottsággal �
 
 g) a sporttal kapcsolatos jogszabálytervezetek véleményezése, a sporttal kapcsolatos kormányzati intézkedések megtételének kezdeményezése.
 
+h) a sportpolitikáért felelős miniszter közreműködésével a nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek erkölcsi és anyagi megbecsülése, a sporttémájú művészeti pályázati program gondozása,
+
+i) a Gerevich Aladár-sportösztöndíj rendszer működtetése.
+
 (4) A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
 
-a) az olimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+a) a 40. § (4) bekezdés a) pontjában, 42. § (4) bekezdés a) pontjában, 43. § (3) bekezdés a) pontjában és 44. § (3) bekezdés a) pontjában meghatározott javaslatokat figyelembe véve – az olimpiai mozgalom támogatására vonatkozó javaslat megtétele mellett – egyeztetett javaslatot tesz a magyar sport állami támogatása elosztási arányaira,
 
-b) a Nemzeti Sportszövetséggel és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a versenysport és az utánpótlás-nevelés feladataira, valamint a versenysport és az utánpótlás-nevelés pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
-
-c) dönt a rendelkezésére bocsátott állami támogatásról.
+b) dönt az olimpiai mozgalom feladataival összefüggő, valamint egyéb, a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásáról és folyósítja azt.
 
 (5) A MOB kizárólagosan jogosult a NOB előírásaival összhangban:
 

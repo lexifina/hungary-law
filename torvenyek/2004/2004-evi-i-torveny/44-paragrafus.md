@@ -4,7 +4,7 @@
 
 (2) A Fogyatékosok Nemzeti Sportszövetsége:
 
-a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, a sportközalapítványok és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
+a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
 
 b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
 

@@ -20,7 +20,7 @@ f) elsősorban tagjai útján segíti az utánpótlás-nevelést.
 
 a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 
-b) a Wesselényi Miklós Sport Közalapítvánnyal javaslatot dolgoz ki a szabadidősport, a diáksport és a főiskolai-egyetemi sport feladataira, valamint a szabadidősport, a diáksport és a főiskolai-egyetemi sport pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
+b) javaslatot dolgoz ki a szabadidősport, a diáksport és a főiskolai-egyetemi sport feladataira, valamint a szabadidősport, a diáksport és a főiskolai-egyetemi sport pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 
 c) dönt a rendelkezésére bocsátott állami támogatásról.
 

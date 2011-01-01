@@ -1,4 +1,4 @@
-41. § (1) Az MPB-be felvételüket kérhetik azok a szakszövetségek, országos sportági szövetségek és a fogyatékosok azon országos sportszövetségei, amelyek sportága szerepel a Paralimpia programjában.
+41. § (1) Az MPB-be felvételüket kérhetik azok a szakszövetségek, országos sportági szövetségek és a fogyatékosok azon országos sportszövetségei, amelyek sportága szerepel a Paralimpia programjában vagy tevékenységi köre kiterjed a fogyatékossággal élők minőségi versenysportjára.
 
 (2) Az MPB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az alapszabályban rögzített számú helyet kell biztosítani a paralimpiai sportágak országos sportszövetségei, illetve szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia az MPB tagjai létszámának felét.
 

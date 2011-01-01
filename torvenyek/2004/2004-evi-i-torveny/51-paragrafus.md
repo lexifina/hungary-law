@@ -12,7 +12,7 @@ d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő f
 
 e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
 
-f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítványokkal és a sport területén működő érdekképviseleti szervekkel,
+f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítvánnyal és a sport területén működő érdekképviseleti szervekkel,
 
 g)
 

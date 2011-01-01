@@ -2,7 +2,7 @@
 
 78. § (1) Ez a törvény a kihirdetésétől számított hatvanadik napon lép hatályba.
 
-(2)
+(2) Az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, a sportigazgatási szerv e törvényben, továbbá az olimpiai járadékról, valamint a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatait a MOB látja el.
 
 (3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződésben meghatározott időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
 
