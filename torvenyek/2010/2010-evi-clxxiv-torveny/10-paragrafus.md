@@ -1,0 +1,1 @@
+10. § A Ktv. 19. § (6) bekezdésében a „17. § (5) bekezdése” szövegrész helyébe a „17. § (6) bekezdése” szöveg lép, továbbá a Ktv. 60. § (1) bekezdés a) pontjában a „17. § (5) bekezdés” szövegrész helyébe a „17. § (6) bekezdés” szöveg lép.

@@ -1,0 +1,3 @@
+5. § A Ktv. 20/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a közigazgatási szervnél alkalmazott köztisztviselőt közszolgálati jogviszonyából a 17. § (1) bekezdése alapján vagy a (2) bekezdés a) pontjában meghatározott ok miatt mentik fel, legfeljebb a felmentési idő tartamára beleegyezésével tartalékállományba kell helyezni abból a célból, hogy számára másik közigazgatási szervnél képzettségének, besorolásának megfelelő állást ajánljanak fel. Ha a köztisztviselő a tartalékállományba helyezéséhez nem járul hozzá, vagy kérésére a tartalékállományból törlik, a reá irányadó végkielégítés felére jogosult. A közszolgálati jogviszony megszűnésével a tartalékállományba helyezés is megszűnik.”
