@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-332-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-02 | 2007-332-20-22.4 | 332/2007. (XII. 13.) Korm. rendelet |
+| 2011-01-01 | 2007-332-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
