@@ -1,0 +1,1 @@
+Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 15. §-a (2) bekezdésének m) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

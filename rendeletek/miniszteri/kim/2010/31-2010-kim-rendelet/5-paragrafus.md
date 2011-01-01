@@ -1,0 +1,5 @@
+## 4. § Az R. 5. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A részvizsgák sorrendjét a jelölt választja meg. A jelöltnek elsőként azt a részvizsgát kell letennie, amelynek vizsgatárgyából írásbeli vizsgát is tesz. A következő részvizsgára csak az előző részvizsga sikeres letétele után lehet jelentkezni; a jelentkezésben fel kell tüntetni az ideiglenes bizonyítvány számát és keltét. A jelentkezés elutasításáról az elutasítás okának megjelölésével az igazságügyért felelős miniszter a jelentkezést követő 15 napon belül tájékoztatja a jelentkezőt. Ellenkező esetben az igazságügyért felelős miniszter a részvizsgát a jelentkező által megjelölt, vagy ha ez a jelentkezések száma függvényében nem lehetséges, az ahhoz képest legkorábbi időpontra tűzi ki, és erről a jelöltet a jelentkezést követő 30 napon belül tájékoztatja.
+
+## (4) A Szakvizsga Bizottság minden év április 30. napjáig a részvizsgákon számon kérhető joganyagról és a részvizsgatárgyak tételeiről ismertetőt ad ki, melyet a minisztérium honlapján is közzé kell tenni. Az ismertető évenkénti felülvizsgálatáról az igazságügyért felelős miniszter gondoskodik.”
