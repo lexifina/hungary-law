@@ -1,4 +1,4 @@
-4/A. §[^19] (1) A fenntartónak a bevásárlóközpont üzemeltetésre irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
+4/A. §[^23] (1) A fenntartónak a bevásárlóközpont üzemeltetésre irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
 
 a) a fenntartó nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
 
@@ -32,9 +32,9 @@ e) az üzletek, illetve más árusítóhelyek számát.
 
 (4) A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi
 
-a) a Nemzeti Fogyasztóvédelmi Hatóságnak,
+a)[^24] a fogyasztóvédelmi hatóságnak,
 
-b) az Országos Munkavédelmi és Munkaügyi Főfelügyelőség illetékes területi szerveinek, valamint
+b)[^25] a területileg illetékes fővárosi és megyei kormányhivatal munkaügyi felügyelőségének,
 
 c) az illetékes rendőrkapitányságnak.
 
@@ -42,4 +42,6 @@ c) az illetékes rendőrkapitányságnak.
 
 (6) A jegyző a bejelentett adatok változásának a nyilvántartásba történő bejegyzéséről haladéktalanul tájékoztatja a (4) bekezdésben megjelölteket.
 
-[^19]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^23]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^24]: A 4/A. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 4/A. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (3) bekezdésével megállapított szöveg.

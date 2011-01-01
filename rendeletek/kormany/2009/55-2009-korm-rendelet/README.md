@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-55-20-2
 | --- | --- | --- |
 | 2010-01-01 | 2009-55-20-22.4 | 55/2009. (III. 13.) Korm. rendelet |
 | 2010-03-01 | 2009-55-20-22.5 | 41/2010. (II. 26.) Korm. rendelet |
+| 2011-01-01 | 2009-55-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
