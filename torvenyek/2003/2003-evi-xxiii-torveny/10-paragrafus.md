@@ -1,6 +1,6 @@
-## A RENDSZER KIJELÖLÉSÉNEK FELTÉTELEI ÉS A KIJELÖLŐ HATÓSÁG ELJÁRÁSA
+## A rendszer és a rendszerüzemeltető kijelölésének feltételei és a kijelölő hatóság eljárása
 
-10. § A rendszer kijelölésre kerül, ha teljesülnek az alábbi feltételek:
+10. § A rendszer és a rendszerüzemeltető kijelölésre kerül, ha teljesülnek az alábbi feltételek:
 
 a) a megállapodásban résztvevők a rendszerre irányadó jogként a magyar jogot választják,
 
