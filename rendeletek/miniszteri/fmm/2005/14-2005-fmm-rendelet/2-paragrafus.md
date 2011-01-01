@@ -28,6 +28,8 @@ c) családgondozás,
 
 d) szociális ügyintézés.
 
-(5) Segítő szolgáltatásként a megyei (fővárosi) munkaügyi központ (a továbbiakban: munkaügyi központ) által nyújtott vagy támogatott munkaerő-piaci szolgáltatások igénybevétele is felajánlható, ha erre vonatkozóan a munkáltató a munkaügyi központtal megállapodást kötött.
+(5)[^2] Segítő szolgáltatásként a fővárosi és megyei kormányhivatalok munkaügyi feladatokat ellátó szakigazgatási szervei (a továbbiakban: munkaügyi központ) által nyújtott vagy támogatott munkaerő-piaci szolgáltatások igénybevétele is felajánlható, ha erre vonatkozóan a munkáltató a munkaügyi központtal megállapodást kötött.
 
 (6) Ha a munkaerő-piaci szolgáltatás igénybevételét a munkáltató saját maga vagy más szervezet közreműködésével biztosítja, a szolgáltatást nyújtó személynek rendelkeznie kell az 1. számú mellékletben meghatározott feltételekkel.
+
+[^2]: A 2. § (5) bekezdése a 25/2010. (XII. 30.) NEFMI rendelet 5. § a) pontja szerint módosított szöveg.

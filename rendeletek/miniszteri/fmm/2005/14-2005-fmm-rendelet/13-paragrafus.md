@@ -4,6 +4,6 @@
 
 (2) Az e rendelet 8. §-a (3) bekezdésének j) pontjában foglalt rendelkezést a 2005. december 31-éig benyújtott akkreditációs tanúsítvány iránti kérelem elbírálásakor nem kell alkalmazni.
 
-(3)[^2]
+(3)[^5]
 
-[^2]: A 13. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 14. pontja hatályon kívül helyezte.
+[^5]: A 13. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 14. pontja hatályon kívül helyezte.

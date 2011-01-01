@@ -1,6 +1,6 @@
 ## A személyes rehabilitációs terv
 
-3. § (1) A foglalkozási rehabilitáció irányának meghatározása érdekében, az Országos Egészségbiztosítási Pénztár Országos Orvosszakértői Intézete (OOSZI) személyre szóló rehabilitációs javaslata alapján készülő személyes rehabilitációs terv tartalmazza:
+3. § (1)[^3] A foglalkozási rehabilitáció irányának meghatározása érdekében, a Nemzeti Rehabilitációs és Szociális Hivatal személyre szóló rehabilitációs javaslata alapján készülő személyes rehabilitációs terv tartalmazza:
 
 a) a munkavállaló megnevezését, munkakörének megjelölését,
 
@@ -27,3 +27,5 @@ k) a munkavállaló együttműködésének formáit.
 (2) A személyes rehabilitációs tervet a határozatlan időre létesített munkaviszony keretében foglalkoztatott megváltozott munkaképességű munkavállaló részére, a munkaszerződés megkötését követő hat hónapon belül kell elkészíteni.
 
 (3) A személyes rehabilitációs tervet évente legalább egy alkalommal értékelni, és szükség esetén módosítani kell.
+
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 25/2010. (XII. 30.) NEFMI rendelet 5. § b) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@ b) egyéb kérelmező esetében a munkáltató egységes szerkezetbe foglalt, ha
 
 c) a munkáltató képviseletére jogosult aláírási címpéldányának másolatát,
 
-d)[^1] az akkreditációval érintett székhely, telephely működéséhez szükséges engedélyek másolatát,
+d)[^4] az akkreditációval érintett székhely, telephely működéséhez szükséges engedélyek másolatát,
 
 e) a munkáltató tevékenységének, továbbá a rehabilitációs foglalkoztatás lehetőségeinek ismertetését, valamint az erre vonatkozó terveket,
 
@@ -54,4 +54,4 @@ c) a segítő személy közreműködésének bemutatását, illetőleg hiányán
 
 d) a munkáltató irányítási és döntési folyamatainak szabályozottságát tanúsító, a 4. számú mellékletben megjelölt szabályzatok jegyzékét az elkészítés időpontjának megjelölésével.
 
-[^1]: A 8. § (3) bekezdésének d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 27. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^4]: A 8. § (3) bekezdésének d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 27. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
