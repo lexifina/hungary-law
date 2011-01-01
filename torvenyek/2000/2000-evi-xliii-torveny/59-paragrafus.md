@@ -72,7 +72,7 @@ aa) az állati gyógyszerek és csomagolásuk hulladékai kezelésének részlet
 
 ab) a mezőgazdasági nem veszélyes hulladékok kezelésének részletes szabályait;
 
-b) az egészségügyi feladatok ellátásáért felelős miniszter, hogy
+b) az egészségügyért felelős miniszter, hogy
 
 ba) a humán gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
 
@@ -80,7 +80,7 @@ bb) az egészségügyi hulladék kezelésének részletes szabályait,
 
 bc) a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményeket;
 
-c) a bányászatért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
+c) a bányászati ügyekért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
 
 d)
 
