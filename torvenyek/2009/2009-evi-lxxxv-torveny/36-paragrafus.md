@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik.
 
-(4) A kedvezményezett készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel, vagy kedvezményt nyújthat.
+(4) A kedvezményezett készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget nem számíthat fel.

@@ -2,4 +2,4 @@
 
 (2) A felek a pénzforgalmi szolgáltató a 38. § (6) bekezdése és a 48. § (6) bekezdése szerinti intézkedésének ellenértékéről szerződésben állapodnak meg. Az ellenérték nem haladhatja meg az intézkedés tényleges és közvetlenül felmerült költségeit.
 
-(3) A készpénz-helyettesítő fizetési eszközzel – ide nem értve a csekket és az elektronikus pénzeszközt – lebonyolított fizetési művelethez közvetlenül kapcsolódó, a kedvezményezettel szemben a pénzforgalmi szolgáltató által érvényesíthető jutalékok, díjak és egyéb költségek mértéke nem haladhatja meg a fizetési művelet teljesítésének fedezetét biztosító fizetési számlára vagy hitelkeretre terhelt összeg két százalékát.
+(3)
