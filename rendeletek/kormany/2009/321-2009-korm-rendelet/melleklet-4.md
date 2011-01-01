@@ -138,7 +138,7 @@
 
 ## 3.10. időszakos férőhelybővítés esetén az az időszak, amelyre az időszakos férőhely-bővítést engedélyezték;
 
-## 3.11. bázisszállás esetén a tájékoztatás arról, hogy a bázisszállást a jogszabályok alapján mikor kell megszüntetni;
+## 3.11.[^38]
 
 ## 3.12. egyházi és nem állami fenntartó esetén – ha a fenntartó a szociális szolgáltató, intézmény által nyújtott szociális szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szociális szolgáltatás és férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
 
@@ -187,3 +187,5 @@ A tanúsítvány tartalma
 10. A tanúsítvány kiállításának helye és ideje.
 
 11. A kiadmányozási joggal rendelkező személy aláírása és a tanúsítványt kiállító szerv bélyegzőlenyomata.
+
+[^38]: A 3. számú melléklet 3.11. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés e) pontja hatályon kívül helyezte.

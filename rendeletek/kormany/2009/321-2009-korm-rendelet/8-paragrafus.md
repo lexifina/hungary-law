@@ -34,4 +34,6 @@ c) a jogutód nélküli megszűnése iránt eljárás indult, és ha az eljárá
 
 (6) A (4)–(5) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát. Ha a bejelentésre kötelezett a (4) bekezdés a)–b) pontja vagy az (5) bekezdés, illetve bírósági nyilvántartásba vett fenntartó esetén a (4) bekezdés c) pontja alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat az egyéni vállalkozók nyilvántartásában, illetve bírósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a nyilvántartásból ellenőrzi.
 
-(7) A működést engedélyező szerv a (3)–(5) bekezdés szerinti bejelentésről öt munkanapon belül értesíti az ellátásra köteles helyi önkormányzatot, az igazgatóságot és az ellátottjogi képviselőt.
+(7)[^14] A működést engedélyező szerv a (3)–(5) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, az igazgatóságot és az ellátottjogi képviselőt.
+
+[^14]: A 8. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja szerint módosított szöveg.

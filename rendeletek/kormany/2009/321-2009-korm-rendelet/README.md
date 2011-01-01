@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-321-20-
 | --- | --- | --- |
 | 2010-01-01 | 2009-321-20-22.1 | 321/2009. (XII. 29.) Korm. rendelet |
 | 2010-03-01 | 2009-321-20-22.2 | 38/2010. (II. 26.) Korm. rendelet |
+| 2011-01-01 | 2009-321-20-22.3 | 357/2010. (XII. 30.) Korm. rendelet |

@@ -14,7 +14,7 @@ f) a szociális szolgáltató, intézmény vezetőjével szemben, ha az Szt. 94/
 
 g) a fenntartóval és az Szt. 94/D. §-a szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az Szt. 94/D. §-a szerinti megállapodás, annak módosítása vagy a fenntartó által történő megszüntetése jogszabályba ütközik,
 
-h) az egyházi, nem állami fenntartóval szemben, ha az intézményi térítési díj megállapítására vagy összegére vonatkozó szabályokat megszegik,
+h)[^27]
 
 i) a szociális szolgáltató, intézmény vezetőjével vagy – ha a személyi térítési díjat, illetve a költőpénzt a fenntartó állapította meg – a fenntartóval szemben, ha a személyi térítési díj, illetve a költőpénz megállapítására vagy összegére vonatkozó szabályokat megszegik,
 
@@ -32,10 +32,14 @@ k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, va
 
 (6) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-(7) A bírságot az első fokon eljárt működést engedélyező szervnek – ha fizetési kedvezményt nem engedélyeztek – a kiszabó határozat jogerőre emelkedését követő huszonkét munkanapon belül kell megfizetni.
+(7)[^28] A bírságot az első fokon eljárt működést engedélyező szervnek – ha fizetési kedvezményt nem engedélyeztek – a kiszabó határozat jogerőre emelkedését követő harminc napon belül kell megfizetni.
 
 (8) A megbírságolt köteles a bírság megfizetését – a megfizetést követő három munkanapon belül – az első fokon eljárt működést engedélyező szervnél igazolni.
 
-(9) A bírságból befolyt összeget a működést engedélyező szerv negyedévente, a negyedévet követő hónap 20-áig a minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámlájára utalja át. A működést engedélyező szerv az átutalással egyidejűleg a bírságot kiszabó jogerős határozat egy hitelesített másolati példányát megküldi a minisztériumnak és az FSZH-nak.
+(9)[^29] A bírságból befolyt összeget a működést engedélyező szerv negyedévente, a negyedévet követő hónap 20-áig a minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámlájára utalja át. A működést engedélyező szerv az átutalással egyidejűleg a bírságot kiszabó jogerős határozat egy hitelesített másolati példányát megküldi a minisztériumnak és a Hivatalnak.
 
 (10) A bírságból befolyt összeget a működést engedélyező szervek ellenőrzési feladatainak támogatására kell felhasználni.
+
+[^27]: A 14. § (1) bekezdés h) pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: A 14. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^29]: A 14. § (9) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § e) pontja szerint módosított szöveg.

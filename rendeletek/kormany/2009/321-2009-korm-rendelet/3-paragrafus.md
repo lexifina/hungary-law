@@ -9,3 +9,7 @@ b) bentlakásos intézményi ellátást nyújtó szociális intézmény esetén 
 jár el.
 
 (3) Ha a szociális szolgáltató, intézmény a székhelyén vagy valamelyik telephelyén a szociális alapszolgáltatás mellett bentlakásos intézményi ellátást, gyermekek átmeneti gondozását vagy gyermekvédelmi szakellátást is nyújt – ideértve azt az esetet is, ha külön jogszabály szerinti helyettes szülői hálózat, nevelőszülői hálózat vagy külső férőhelyen biztosított utógondozói ellátás működtetője –, a 15. §-ban foglaltak kivételével a szociális szolgáltató, intézmény ellátást nyújtó székhelye és valamennyi telephelye tekintetében a székhely, telephely szerint illetékes szociális és gyámhivatalok járnak el első fokon.
+
+(4)[^4] Az e rendelet szerinti eljárásokban a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel jár el.
+
+[^4]: A 3. § (4) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 33. § (2) bekezdése iktatta be.

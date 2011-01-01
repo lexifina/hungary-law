@@ -64,11 +64,7 @@
 
 ## 3.5. csatolni kell a 2.7. pont szerinti iratokat, ha az időszakos férőhelyeket nem a szociális intézmény épületében alakítják ki, vagy a működési engedély módosítása esetén a szakhatóságok bevonása a 7. § (5) bekezdése alapján szükséges.
 
-## 4. Bázisszállás engedélyezése esetén csatolandó, illetve bemutatandó iratok:
-
-## 4.1. csatolni kell, illetve be kell mutatni a fenntartóval kapcsolatos iratok közül az 1.1–1.6. pontban foglaltakat;
-
-## 4.2. csatolni kell a szociális szolgáltatással kapcsolatos iratok közül a 2.1–2.3. és 2.5–2.7. pontban foglaltakat.
+## 4.[^37]
 
 ## Kiegészítő szabályok:
 
@@ -77,3 +73,5 @@
 ## 2. A 2.2.1. pont szerinti nyilatkozatot nem kell csatolni, ha a szociális szolgáltatást az egyéni vállalkozó fenntartó maga nyújtja.
 
 3. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
+
+[^37]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.

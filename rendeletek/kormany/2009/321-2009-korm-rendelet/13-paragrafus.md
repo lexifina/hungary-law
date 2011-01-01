@@ -10,7 +10,7 @@ d) a b)–c) pontban nem említett esetben a működési engedélyt visszavonja,
 
 e) az a)–b) és d) pontban nem említett jogsértés esetén a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
 
-ea) legalább tizenöt munkanapos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
+ea)[^24] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
 
 eb) az ea) alpont szerinti felszólítással egyidejűleg – ha az ellátottak Szt. szerinti jogainak megóvása érdekében szükséges – legfeljebb a hiányosság vagy más jogsértés megszüntetéséig, illetve a jogszerű működés helyreállításáig megtilthatja újabb ellátottak felvételét,
 
@@ -28,9 +28,9 @@ b) bírság kiszabása esetén a 14. § (1) bekezdésének
 
 ba) a), d)–e) és i)–k) pontja szerinti esetben,
 
-bb) f)–g) pontja szerinti esetben, ha az ellátottnak, törvényes képviselőjének, hozzátartozójának vagy a térítési díjat, illetve az egyszeri hozzájárulást megfizető személynek az Szt. szerinti jogai sérülnek,
+bb) f)–g) pontja szerinti esetben, ha az ellátottnak, törvényes képviselőjének, hozzátartozójának vagy a térítési díjat, illetve az egyszeri hozzájárulást megfizető személynek az Szt. szerinti jogai sérülnek.
 
-bc) h) pontja szerinti esetben, ha ebből az ellátottaknak vagy a térítési díjat megfizető más személynek fizetési többletkötelezettsége keletkezik.
+bc)[^25]
 
 (3) A fenntartó kérelmére az (1) bekezdés ea) alpontja szerinti határidő indokolt esetben egyszer, legfeljebb két hónappal meghosszabbítható. Ha a fenntartó a megjelölt határidőben nem igazolja, hogy a felszólításban foglaltaknak eleget tett, vagy a felszólításban foglaltak teljesítésének megállapítása érdekében egyébként szükséges, a működést engedélyező szerv utóellenőrzést tart. Ha a fenntartó a megjelölt határidőben nem intézkedik a szabályszerű működés megteremtése érdekében, a működést engedélyező szerv a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
 
@@ -70,4 +70,8 @@ k) a 14. §-ban meghatározott esetben bírságot szabhat ki.
 
 (10) A működést engedélyező szerv a nappali melegedő, az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása esetén a téli időszakban az (1) bekezdés eb) alpontja, valamint a (3) bekezdés c), e)–f) és h) pontja szerinti jogkövetkezményeket akkor alkalmazhatja, ha az intézmény személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét vagy egészségét veszélyezteti, illetve más alapvető jogát sérti.
 
-(11) Nem állapítható meg jogkövetkezmény, ha az FSZH ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és az FSZH még nem intézkedett.
+(11)[^26] Nem állapítható meg jogkövetkezmény, ha a Hivatal ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és a Hivatal még nem intézkedett.
+
+[^24]: A 13. § (1) bekezdés e) pont ea) alpontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^25]: A 13. § (2) bekezdés b) pont bc) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^26]: A 13. § (11) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
