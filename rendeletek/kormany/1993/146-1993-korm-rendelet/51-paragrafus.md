@@ -1,3 +1,3 @@
-51. §[^154]
+51. §[^163]
 
-[^154]: Az R. 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1445. pontja hatályon kívül helyezte.
+[^163]: Az R. 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1445. pontja hatályon kívül helyezte.
