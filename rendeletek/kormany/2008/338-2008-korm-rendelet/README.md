@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-338-20-
 | --- | --- | --- |
 | 2009-10-01 | 2008-338-20-22.4 | 338/2008. (XII. 30.) Korm. rendelet |
 | 2010-09-16 | 2008-338-20-22.5 | 225/2010. (VIII. 12.) Korm. rendelet |
+| 2011-01-01 | 2008-338-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
