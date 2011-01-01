@@ -1,1 +1,0 @@
-A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 112. §-ának (5) bekezdésében kapott felhatalmazás alapján – a Magyar Szabadalmi Hivatal elnökével, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdése alapján az igazgatási szolgáltatási díjak tárgyában a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
