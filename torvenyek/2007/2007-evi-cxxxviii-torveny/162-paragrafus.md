@@ -12,7 +12,7 @@ c) az elismert hitelezésikockázat-mérséklési módszerek használatával kap
 
 d) arra, hogy a befektetési vállalkozás által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, beleértve az átadott kockázat mértékét is,
 
-e) a befektetési vállalkozás likviditási kockázatainak mértékére és kezelésére,
+e) a befektetési vállalkozás likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a befektetési vállalkozás általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök kezelését, a likviditási tartalékok mértékét és minőségét, valamint a vészhelyzeti terveket,
 
 f) a diverzifikáció hatására és ennek a kockázatfelmérési rendszerben történő figyelembevételére,
 
@@ -21,6 +21,8 @@ g) a piaci kockázattal kapcsolatos tőkekövetelményhez az e törvény felhata
 h) az országkockázatból származó pótlólagos tőkekövetelményre,
 
 i) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére.
+
+(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a befektetési vállalkozás pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
 
 (3) A felülvizsgálat és értékelés alapján a Felügyelet meghatározza, hogy a befektetési vállalkozás által alkalmazott szabályzatok, stratégiák, eljárások, módszerek és a befektetési vállalkozás szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 

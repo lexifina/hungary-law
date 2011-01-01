@@ -12,7 +12,9 @@ b) az általa vállalt vagy a nála keletkező kockázatok behatárolását szol
 
 c) a vállalt kockázatokra vonatkozó megfelelő, rendszeres és rendkívüli jelentési rendszer kiépítését, és
 
-d) a személyi és tárgyi feltételeknek megfelelő, a biztonságos működésnek és a jogszabályoknak való megfelelést biztosító kockázatvállalást.
+d) a személyi és tárgyi feltételeknek megfelelő, a biztonságos működésnek és a jogszabályoknak való megfelelést biztosító kockázatvállalást,
+
+e) a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő javadalmazási politika és gyakorlat megvalósítását.
 
 (2) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége keretében az ügyféllel és ügyfélcsoporttal szemben vállalt kockázatait folyamatosan értékeli, figyelemmel a (3)–(4) bekezdésben foglaltakra.
 

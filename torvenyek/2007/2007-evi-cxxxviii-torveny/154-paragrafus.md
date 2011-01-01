@@ -1,6 +1,6 @@
 154. § (1) A multilaterális kereskedési rendszer működtetője a kereskedést követően, a szabályozott piacra bevezetett részvények esetében közzéteszi
 
-a) a végrehajtott ügyletek során kialakult vételi és eladási árfolyamokat,
+a) a végrehajtott ügyletek során kialakult vételi és eladási árfolyamokat olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az árfolyamhoz való hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
 
 b) az egyes árfolyamokon realizálódott ügyletek nagyságrendjét, és
 

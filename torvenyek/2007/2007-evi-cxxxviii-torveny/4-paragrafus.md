@@ -14,7 +14,7 @@
 
 4. áru: minden vagyoni értékkel bíró, forgalomképes, birtokba vehető dolog, illetve dolog módjára hasznosítható természeti erő, ide nem értve a pénzügyi eszközt,
 
-5. átruházható értékpapír: az az értékpapír, amelyet a forgalomba hozatala helye szerinti állam joga ilyenként ismer el,
+5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
 
 6. azonosító adatok:
 
@@ -222,4 +222,16 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 77. likviditás szempontjából leginkább érintett piac: a Bizottság 1287/2006/EK rendeletének 9. cikkében meghatározott fogalom,
 
-78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat.
+78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
+
+79. multilaterális kereskedési rendszer: harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát szerződést eredményező, megkülönböztetésmentes módon összehozó kereskedési rendszer,
+
+80. értékpapír: a Tpt.-ben meghatározott fogalom,
+
+81. konszolidáló felügyeleti hatóság: a Tpt.-ben meghatározott fogalom,
+
+82. javadalmazás: a befektetési vállalkozás által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás,
+
+83. teljesítményjavadalmazás: a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a befektetési vállalkozás, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a befektetési vállalkozás pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
+
+84. nem kötelező nyugdíjjuttatás: a befektetési vállalkozás által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.

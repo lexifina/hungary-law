@@ -18,14 +18,10 @@ e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályo
 
 f) a hitelkockázat, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
 
-g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat
+g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat,
+
+h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy
-
-a) a befektetési vállalkozás és az árutőzsdei szolgáltató Felügyelet részére történő adatszolgáltatási kötelezettségét, az adatszolgáltatás tartalmát, felépítését, módját, és gyakoriságát, és
-
-b)
-
-rendeletben állapítsa meg.
+(2)

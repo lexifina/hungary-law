@@ -8,6 +8,10 @@ c) az információhoz való hozzáférést csak a jogosultak számára tegye leh
 
 d) átlátható legyen,
 
-e) erősítse a folyamatba épített ellenőrzést és lehetővé tegye ennek során az objektív megítélést.
+e) erősítse a folyamatba épített ellenőrzést és lehetővé tegye ennek során az objektív megítélést,
+
+f) biztosítsa, hogy a vállalkozás vezető állású személyei és alkalmazottai a felelősségi körük megfelelő ellátása érdekében a követendő eljárásokat ismerjék,
+
+g) biztosítsa a vállalkozás különböző szintjei közötti hatékony jelentéstételt és információáramlást.
 
 (2) Annak a befektetési vállalkozásnak amely a Tpt. szerint összevont felügyelet alá tartozik, az e §-ban és a 100. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.

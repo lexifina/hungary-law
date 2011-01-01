@@ -18,7 +18,7 @@ c) vizsgálja a leendő szerződő fél vagy az ügyfél iskolai végzettségét
 
 (3) Nem kell az (1) bekezdésben foglaltakat alkalmazni, ha a befektetési vállalkozás a leendő szerződő féllel vagy az ügyféllel az 5. § (1) bekezdésének a) vagy b) pontjában foglaltakra köt megállapodást és
 
-a) az ügylet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli tőzsdére bevezetett részvényre, pénzpiaci eszközre, hitelviszonyt megtestesítő értékpapírra vagy más értékpapírosított követelésre (ide nem értve azokat az eszközöket, amelyek származtatott elemeket tartalmaznak), valamint az ÁÉKBV által kibocsátott értékpapírra vagy más nem-komplex pénzügyi eszközre vonatkozóan jön létre,
+a) az ügylet tárgya olyan részvény, amelyet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli tőzsdére bevezettek, továbbá pénzpiaci eszköz, hitelviszonyt megtestesítő értékpapír vagy más értékpapírosított követelés (ide nem értve azokat az eszközöket, amelyek származtatott elemeket tartalmaznak), valamint az ÁÉKBV által kibocsátott értékpapír vagy más nem komplex pénzügyi eszköz,
 
 b) az ügyletre vonatkozó megállapodást az ügyfél vagy leendő szerződő fél kezdeményezi,
 

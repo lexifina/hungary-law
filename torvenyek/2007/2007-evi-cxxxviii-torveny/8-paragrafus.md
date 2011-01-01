@@ -20,6 +20,8 @@ e) a Bit. szerinti biztosításközvetítést ügynökként,
 
 f) értékpapír-kölcsönzést, és
 
-g) pénzügyi eszközre vonatkozó adat, információ értékesítést
+g) pénzügyi eszközre vonatkozó adat, információ értékesítést,
+
+h) a Hpt. 2. számú melléklet I. Fejezet 10.2. pont e) alpontjában meghatározott csoportfinanszírozási tevékenységet
 
 folytathat.

@@ -36,4 +36,10 @@ k) a Tpt. 205. §-ban meghatározott bejelentési kötelezettség teljesítése,
 
 l) a Pmtv. 22. §-ának (2) bekezdése alapján történő adatátadás, és
 
-m) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
+m) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása,
+
+n) a Felügyelet által a Tpt. 181/J. § (15) bekezdés szerinti válsághelyzetben a más EGT-állam központi bankjának vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
+
+o) a tulajdonosi megfeleltetés érdekében a központi értéktár részére nyújtott adatszolgáltatás,
+
+p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás.
