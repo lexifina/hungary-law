@@ -1,38 +1,40 @@
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban, a határozat jogerőre emelkedésétől számított | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+|  | A | B | C | D |
 
-| I. 10 munkanapon belül befizetve | II. 10 munkanapot követően befizetve |
+| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban, a határozat jogerőre emelkedésétől számított | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-| 1. | Menet közben kézben tartott mobil rádiótelefon használata |  |  |  |
+| 2 | I. tizenöt napon belül befizetve | II. tizenöt napot követően befizetve |
 
-|  | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető |
+| 3 | 1. | Menet közben kézben tartott mobil rádiótelefon használata |  |  |  |
 
-|  | b) lakott területen kívül | b) 15 000 | b) 21 000 | járművezető |
+| 4 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető |
 
-|  | c) autóúton, autópályán | c) 20 000 | c) 32 000 | járművezető |
+| 5 | b) lakott területen kívül | b) 15 000 | b) 21 000 | járművezető |
 
-| 2. | Biztonsági öv használata nélküli közlekedés: |  |  |  |
+| 6 | c) autóúton, autópályán | c) 20 000 | c) 32 000 | járművezető |
 
-|  | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utazó személy |
+| 7 | 2. | Biztonsági öv használata nélküli közlekedés: |  |  |  |
 
-|  | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utazó személy |
+| 8 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utazó személy |
 
-|  | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utazó személy |
+| 9 | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utazó személy |
 
-| 3. | Gyermekbiztonsági rendszer használatának elmulasztása |  |  |  |
+| 10 | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utazó személy |
 
-|  | a) lakott területen belül | a) 15 000 | a) 21 000 | járművezető |
+| 11 | 3. | Gyermekbiztonsági rendszer használatának elmulasztása |  |  |  |
 
-|  | b) lakott területen kívül | b) 30 000 | b) 42 000 | járművezető |
+| 12 | a) lakott területen belül | a) 15 000 | a) 21 000 | járművezető |
 
-|  | c) autóúton, autópályán | c) 45 000 | c) 57 000 | járművezető |
+| 13 | b) lakott területen kívül | b) 30 000 | b) 42 000 | járművezető |
 
-| 4. | Motorkerékpár-bukósisak használatának elmulasztása |  |  |  |
+| 14 | c) autóúton, autópályán | c) 45 000 | c) 57 000 | járművezető |
 
-|  | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utas |
+| 15 | 4. | Motorkerékpár-bukósisak használatának elmulasztása |  |  |  |
 
-|  | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utas |
+| 16 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utas |
 
-|  | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utas |
+| 17 | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utas |
+
+| 18 | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utas |
 
 12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
 

@@ -92,7 +92,7 @@
 
 | 41. | A vállalkozásnak nincs tanácsadója | 400 000 | vállalkozás vezetője |
 
-| 42. | A vállalkozás nem értesítette az NKH Közép-magyarországi Regionális Igazgatóságát a tanácsadó megbízásáról, illetve annak változásáról | 100 000 | vállalkozás vezetője |
+| 42. | A vállalkozás nem értesítette a közlekedési hatóságot a tanácsadó megbízásáról, illetve annak változásáról | 100 000 | vállalkozás vezetője |
 
 | 43. | A vállalkozás tanácsadójának lejárt, illetve az adott alágazatra vagy veszélyességi osztályra nem érvényes a bizonyítványa | 100 000 | vállalkozás vezetője tanácsadó |
 
