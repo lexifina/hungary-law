@@ -8,7 +8,8 @@ c)[^2] Záhony térségében vasúti infrastruktúra fejlesztése, az árufuvaro
 
 (2) E rendelet melléklete állapítja meg az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságokat.
 
-(3) Azokban az esetekben, amikor a mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a szakhatóságként közreműködő szervet – a kulturális örökségvédelemmel összefüggő ügyekben eljáró szakhatóságok kivételével – az Ngt. 2. §-ának alkalmazásával kell megállapítani. A kulturális örökségvédelemmel összefüggő ügyekben szakhatóságként első fokon a Kulturális Örökségvédelmi Hivatal, másodfokon a Kulturális Örökségvédelmi Hivatal elnöke jár el.
+(3)[^3] Azokban az esetekben, amikor a mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a szakhatóságként közreműködő szervet – a kulturális örökségvédelemmel összefüggő ügyekben eljáró szakhatóságok kivételével – az Ngt. 2. §-ának alkalmazásával kell megállapítani. A kulturális örökségvédelemmel összefüggő ügyekben szakhatóságként első fokon a kulturális örökségvédelmi szakigazgatási szerv, másodfokon a Kulturális Örökségvédelmi Hivatal jár el.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 227/2008. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indult ügyekben kell alkalmazni.
 [^2]: Az 1. § (1) bekezdés c) pontja a 227/2008. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indult ügyekben kell alkalmazni.
+[^3]: Az 1. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 208. §-a szerint módosított szöveg.
