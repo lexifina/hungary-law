@@ -8,7 +8,7 @@
 
 (4) A közlekedéspszichológiai vizsgálatot
 
-a) a Rendőrség esetében első és másodfokon az ORFK,
+a)[^42] a rendőrség esetében első és másodfokon az ORFK,
 
 b) a polgári védelem, valamint az állami és hivatásos önkormányzati tűzoltóság esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH HEK,
 
@@ -19,3 +19,5 @@ végzi.
 (5) A megkülönböztető jelzést használó és speciális gépjárművek vezetőinek előzetes és ezt követően 5 évente rendszeres közlekedéspszichológiai vizsgálaton kell részt vennie.
 
 (6) A közlekedés-pszichológiai vizsgálaton kizárólag „Megfelelő” vagy „Nem megfelelő” értékelés adható.
+
+[^42]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.

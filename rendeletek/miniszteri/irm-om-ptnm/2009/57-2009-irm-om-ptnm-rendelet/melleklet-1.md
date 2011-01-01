@@ -1,4 +1,4 @@
-## 57. §[^18]
+## 57. §[^47]
 
 1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez
 
@@ -2044,10 +2044,4 @@ A vesekő műtéti eltávolítása után 2 évvel tünet- és panaszmentesség e
 
 Cystitis chronica, abscessus urethralis, urethritis, prostatitis chronica, epididymitis, orchitis.
 
-Szükséges vizsgálatok: We, teljes vérkép és vizelet, 2 pohár (kivételes esetben 3 pohár) próba, vizelet bact. és Koch-tenyésztés.
-
-Recidiváló, rosszul kezelhető esetekben „AN” minősítés is adható.
-
-Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
-
-[^18]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
+[^47]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.

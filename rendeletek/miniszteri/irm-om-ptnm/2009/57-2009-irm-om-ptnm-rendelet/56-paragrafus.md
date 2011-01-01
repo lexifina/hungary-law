@@ -4,6 +4,6 @@
 
 (2) E rendelet 22. § (1) bekezdés b) pontja, 24. § (2), (4) és (5) bekezdése, valamint 12. melléklete 2010. január 1-jén lép hatályba.
 
-(3)–(4)[^17]
+(3)–(4)[^46]
 
-[^17]: Az 56. § (3)–(4) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^46]: Az 56. § (3)–(4) bekezdését a (3) bekezdés hatályon kívül helyezte.

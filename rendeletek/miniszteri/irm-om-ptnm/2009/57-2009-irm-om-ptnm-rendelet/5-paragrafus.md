@@ -6,6 +6,6 @@ b) egészségének előre látható károsodása nélkül alkalmas-e egyes, foko
 
 c) nem szenved-e valamilyen fertőző betegségben, amely miatt szolgálati beosztásából, munkaköréből adódóan széles körű fertőzést okozhat, vagy olyan betegségben, amelynek következtében bármikor szolgálatképtelenné, munkaképtelenné válhat, illetve amely gyógykezelését, gondozását, egyéb intézkedés megtételét teszi szükségessé.
 
-(2)[^3]
+(2)[^9]
 
-[^3]: Az 5. § (2) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^9]: Az 5. § (2) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése hatályon kívül helyezte.

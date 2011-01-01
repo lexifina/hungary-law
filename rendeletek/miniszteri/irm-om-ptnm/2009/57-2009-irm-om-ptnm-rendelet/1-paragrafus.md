@@ -4,7 +4,7 @@
 
 a) a hivatásos szolgálatra való egészségi, pszichikai, fizikai alkalmassági követelmények meghatározása, valamint az alkalmasság elbírálásának rendje tekintetében:
 
-aa) a Rendőrség, a büntetés-végrehajtási szervezet, a polgári védelem, az állami és hivatásos önkormányzati tűzoltóság (e rendelet alkalmazásában a továbbiakban együtt: rendvédelmi szerv) állományába tartozó hivatásos szolgálati jogviszonyban álló személyekre, a rendvédelmi szerveknél hivatásos állományba pályázókra,
+aa)[^1] a rendőrség, a büntetés-végrehajtási szervezet, a polgári védelem, az állami és hivatásos önkormányzati tűzoltóság (e rendelet alkalmazásában a továbbiakban együtt: rendvédelmi szerv) állományába tartozó hivatásos szolgálati jogviszonyban álló személyekre, a rendvédelmi szerveknél hivatásos állományba pályázókra,
 
 ab) a rendészeti igazgatási szak biztonsági szakirány kivételével a Rendőrtiszti Főiskola nappali tagozatos képzésére, valamint a rendészeti szakközépiskolákba (a továbbiakban együtt: rendészeti oktatási intézmény) felvételre jelentkezőkre, a Rendőrtiszti Főiskola – rendészeti igazgatási szak biztonsági, továbbá vám- és jövedéki igazgatási szakirány kivételével –, valamint a rendészeti oktatási intézmény nappali tagozatos hallgatóira és tanulóira;
 
@@ -12,10 +12,14 @@ b) a szolgálati lőfegyver ideiglenes bevonása, a szolgálati-, munkabalesetek
 
 c) a közlekedés-pszichológiai vizsgálat követelményeinek meghatározása és az eljárás rendje tekintetében az a) pontban meghatározott szervek hivatásos állományú tagjaira;
 
-d) az alkalmasság elbírálásának eljárási rendje tekintetében az aa) pontban meghatározott szervek közalkalmazotti, köztisztviselői állományára, illetve a közalkalmazotti, köztisztviselői állományba pályázókra a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály alapján végzett munkaköri alkalmassági vizsgálat vonatkozásában.
+d)[^2] az alkalmasság elbírálásának eljárási rendje tekintetében az aa) pontban meghatározott szervek közalkalmazotti, kormánytisztviselői, köztisztviselői állományára, illetve a közalkalmazotti, kormánytisztviselői, köztisztviselői állományba pályázókra a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály alapján végzett munkaköri alkalmassági vizsgálat vonatkozásában.
 
-(2) A rendelet hatálya kiterjed – az e rendeletben meghatározottak szerint – az egészségügyi alapellátás tekintetében:
+(2)[^3] A rendelet hatálya kiterjed az egészségügyi alapellátás tekintetében:
 
-a) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter hivatalának közalkalmazottaira és köztisztviselőire;
+a) a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
 
-b) a hivatásos, közalkalmazotti vagy köztisztviselői állományból nyugállományba helyezettekre.
+b) a hivatásos, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre.
+
+[^1]: Az 1. § (1) bekezdés a) pont aa) alpontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 10/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.

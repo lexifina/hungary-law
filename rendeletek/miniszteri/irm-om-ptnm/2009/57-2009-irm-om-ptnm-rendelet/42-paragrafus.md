@@ -28,8 +28,8 @@ c) szolgálatteljesítési képessége és magatartása milyen mértékben vált
 
 d) az előző három évben milyen gyakorisággal és időtartamban volt egészségügyi szabadságon,
 
-e)[^16] jelenlegi beosztásának ellátására véleménye szerint alkalmas-e, vagy a beosztás megváltoztatását, illetve nem hivatásos munkakörbe történő foglalkoztatását javasolja.
+e)[^43] jelenlegi beosztásának ellátására véleménye szerint alkalmas-e, vagy a beosztás megváltoztatását, illetve nem hivatásos munkakörbe történő foglalkoztatását javasolja.
 
 (4) Az egészségügyi szakterület haladéktalanul gondoskodik az (1) bekezdésben felsorolt dokumentumok beszerzéséről, és az MH HEK részére történő továbbításáról a FÜV eljárás lefolytatása céljából.
 
-[^16]: A 43. § (3) bekezdés e) pontja a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 4. §-ával megállapított szöveg.
+[^43]: A 43. § (3) bekezdés e) pontja a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 4. §-ával megállapított szöveg.
