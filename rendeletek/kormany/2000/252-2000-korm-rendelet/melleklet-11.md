@@ -14,6 +14,6 @@
 
 |  |  | Összesen: |  |  |  |  |  |  |
 
-11. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^73]
+11. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^74]
 
-[^73]: A 11. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^74]: A 11. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.

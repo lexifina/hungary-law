@@ -44,6 +44,6 @@
 
 |  |  | – fog- és szájápolók árának támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
-13. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^75]
+13. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^76]
 
-[^75]: A 13. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 48. §-a iktatta be, e módosító rendelet 49. § (2) bekezdése alapján 2007. június 1-jén lépett hatályba. A 13. számú melléklet a 170/2007. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg. Ez utóbbi módodító rendelet 9. § (4) bekezdése alapján a rendelkezést az egészség- és önsegélyező pénztárak alapszabályaik megfelelő módosításával 2007. június 1-jétől alkalmazhatják. A 13. melléklet a 65/2008. (III. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^76]: A 13. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 48. §-a iktatta be, e módosító rendelet 49. § (2) bekezdése alapján 2007. június 1-jén lépett hatályba. A 13. számú melléklet a 170/2007. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg. Ez utóbbi módodító rendelet 9. § (4) bekezdése alapján a rendelkezést az egészség- és önsegélyező pénztárak alapszabályaik megfelelő módosításával 2007. június 1-jétől alkalmazhatják. A 13. melléklet a 65/2008. (III. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

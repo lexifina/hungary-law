@@ -56,7 +56,7 @@
 
 |  |  | –  gyógyászati segédeszköz vételárának az életmódjavító önsegélyező szolgáltatási körbe tartozó támogatása |  |  |
 
-14. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^76]
+14. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^77]
 
 A1) Az önkéntes egészségpénztár által fizetendő éves alapdíj számítása
 
@@ -142,4 +142,4 @@ B2) Önkéntes önsegélyező pénztár változó díj számítása (negyedéves
 
 | 009 | 71SPVDN7 | Auditált beszámoló alapján előző évre számított változó díj alapja (vagyon a könyv szerinti értékkel egyező piaci értéken) |  |  |
 
-[^76]: A 14. számú mellékletet a 331/2008. (XII. 30.) Korm. rendelet 37. §-a iktatta be, szövege a 325/2009. (XII. 29.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.
+[^77]: A 14. számú mellékletet a 331/2008. (XII. 30.) Korm. rendelet 37. §-a iktatta be, szövege a 325/2009. (XII. 29.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.
