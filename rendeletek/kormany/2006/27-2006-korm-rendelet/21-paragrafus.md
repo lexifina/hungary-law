@@ -1298,13 +1298,13 @@ Zirc
 
 Zók
 
-B) RÉSZ
+B) RÉSZ[^21]
 
 Az 5. § (1) bekezdés aa), bc) és a bd) pontjában foglalt nitrátérzékeny területek
 
 (a település közigazgatási területének legalább 10%-ában érintett települések felsorolása)
 
-A lista 1139 települést tartalmaz
+A lista 1141 települést tartalmaz
 
 Aba
 
@@ -2450,7 +2450,7 @@ Libickozma
 
 Ligetfalva
 
-Lócs
+Lőcs
 
 Lónya
 
@@ -2575,6 +2575,8 @@ Mosonmagyaróvár
 Mosonszentmiklós
 
 Mosonszolnok
+
+Mosonudvar
 
 Mőcsény
 
@@ -3094,7 +3096,7 @@ Söjtör
 
 Söpte
 
-Söréd
+Sőréd
 
 Sukoró
 
@@ -3254,6 +3256,8 @@ Tata
 
 Tatárszentgyörgy
 
+Tekenye
+
 Teklafalu
 
 Telekes
@@ -3360,27 +3364,27 @@ Tüskevár
 
 Udvar
 
-Újhartyán
+Öjhartyán
 
-Újkenéz
+Öjkenéz
 
-Újkér
+Öjkér
 
-Újlengyel
+Öjlengyel
 
-Újléta
+Öjléta
 
-Újrónafő
+Öjrónafő
 
-Újsolt
+Öjsolt
 
-Újszentmargita
+Öjszentmargita
 
-Újtelek
+Öjtelek
 
-Újtikos
+Öjtikos
 
-Újvárfalva
+Öjvárfalva
 
 Ukk
 
@@ -3582,6 +3586,7 @@ Zsennye
 
 Zsujta
 
-Zsurk
+Zsur
 
 [^20]: A 20. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
+[^21]: A melléklet B) része a 351/2010. (XII. 30.) Korm. rendelet 145. §-ával megállapított szöveg.
