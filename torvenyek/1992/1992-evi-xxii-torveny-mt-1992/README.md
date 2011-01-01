@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-22-00-00
 | 2010-05-01 | 2009. évi CXXVI. törvény | 1992-22-00-00.69 |
 | 2010-08-14 | 2010. évi XC. törvény | 1992-22-00-00.70 |
 | 2010-09-01 | 2010. évi XC. törvény | 1992-22-00-00.71 |
+| 2011-01-01 | 7/2010. (XII. 14.) NGM rendelet | 1992-22-00-00.72 |
