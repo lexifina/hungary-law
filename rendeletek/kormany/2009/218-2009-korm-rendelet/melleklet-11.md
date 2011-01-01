@@ -40,17 +40,17 @@ b) működési területével érintett nemzeti park igazgatóság,
 
 c) működési területével érintett környezetvédelmi és vízügyi igazgatóság,
 
-d) illetékes Mezőgazdasági Szakigazgatási Hivatal Erdészeti Igazgatósága,
+d)[^3] a megyei kormányhivatal erdészeti igazgatósága
 
-e) illetékes Mezőgazdasági Szakigazgatási Hivatal Növény- és Talajvédelmi Igazgatósága,
+e)[^4] a megyei kormányhivatal növény- és talajvédelmi igazgatósága,
 
-f) Kulturális Örökségvédelmi Hivatal illetékes területi szerve,
+f)[^5] fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája,
 
-g) Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága,
+g)[^6] a fővárosi és megyei kormányhivatal közlekedési felügyelősége,,
 
-h) Állami Népegészségügyi és Tisztiorvosi Szolgálat illetékes regionális intézete,
+h)[^7] a fővárosi és megyei kormányhivatal illetékes* megyei népegészségügyi szakigazgatási szerve,
 
-i) illetékes megyei (fővárosi) földhivatal,
+i)[^8] illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala,
 
 j) illetékes állami főépítész;
 
@@ -63,3 +63,15 @@ j) illetékes állami főépítész;
 17. az érintett megyei jogú városok önkormányzata;
 
 18. az érintett települési önkormányzatok.
+
+* Megjegyzés a 13. ponthoz[^9]
+
+A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
+
+[^3]: A 11. melléklet 13. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^4]: A 11. melléklet 13. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^5]: A 11. melléklet 13. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^6]: A 11. melléklet 13. pont g) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^7]: A 11. melléklet 13. pont h) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^8]: A 11. melléklet 13. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^9]: A Megjegyzést a 351/2010. (XII. 30.) Korm. rendelet 258. §-a iktatta be.
