@@ -1,6 +1,6 @@
-## A temetkezési szolgáltatás engedélyezése[^60]
+## A temetkezési szolgáltatás engedélyezése[^61]
 
-59. §[^61] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+59. §[^62] (1) A Kormány temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a temetkezési szolgáltatás tekintetében a temetkezési szolgáltató székhelye,
 
@@ -44,5 +44,5 @@ d) az ivóvízellátás, a szennyvízgyűjtés módját és a szennyvíz-elhelye
 
 (7) Ha a kérelmező a (4) bekezdés a) vagy b) pontjában meghatározott okiratot nem csatolja, a jegyző a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-[^60]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
-[^61]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^61]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
+[^62]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
