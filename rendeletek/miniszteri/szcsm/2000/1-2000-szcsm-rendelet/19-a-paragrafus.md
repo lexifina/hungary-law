@@ -1,4 +1,4 @@
-19/A. §[^57] (1) Ha több alapszolgáltatás kerül egy szociális szolgáltató, illetve intézmény keretében megszervezésre, a szolgáltató, illetve intézmény vezetői feladatait – a (2) bekezdésben meghatározott kivétellel – bármelyik működtetett szolgáltatás vezetőjére meghatározott képesítési előírásoknak megfelelő személy betöltheti.
+19/A. §[^62] (1) Ha több alapszolgáltatás kerül egy szociális szolgáltató, illetve intézmény keretében megszervezésre, a szolgáltató, illetve intézmény vezetői feladatait – a (2) bekezdésben meghatározott kivétellel – bármelyik működtetett szolgáltatás vezetőjére meghatározott képesítési előírásoknak megfelelő személy betöltheti.
 
 (2) Ha az alapszolgáltatás bentlakásos intézmény keretében kerül megszervezésre, az intézmény vezetését a bentlakásos intézmény vezetőjére meghatározott képesítési előírásoknak megfelelő személy láthatja el.
 
@@ -14,4 +14,4 @@
 
 (8) Az (5)–(7) bekezdés szerinti esetekben a szakmai létszámnormák számításánál az egyes alapszolgáltatások vezetőjére, illetve koordinátorára előírt létszámot a szakmai egység, illetve a szolgáltató, intézmény vezetőjével betöltöttnek kell tekinteni.
 
-[^57]: A 19/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 12. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^62]: A 19/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 12. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

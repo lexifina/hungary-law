@@ -2,6 +2,6 @@
 
 (2) A közösségi munkacsoport tagjaival a közösségi koordinátor együttműködési megállapodást köt. A megállapodásban rögzítik a rendszeres megbeszélések gyakoriságát, egyéb körülményeit, valamint – arra az esetre, ha egyes ellátottak állapota ezt szükségessé teszi – az eseti megbeszélések összehívásának módját.
 
-(3)[^121] A közösségi pszichiátriai ellátásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. A gondozási terv elkészítésébe, módosításába be kell vonni a 39/G. § (2) bekezdésének a) pontjában meghatározott személyeket, illetve a közösségi munkacsoport tagjait.
+(3)[^126] A közösségi pszichiátriai ellátásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. A gondozási terv elkészítésébe, módosításába be kell vonni a 39/G. § (2) bekezdésének a) pontjában meghatározott személyeket, illetve a közösségi munkacsoport tagjait.
 
-[^121]: A 4/2004. (I. 28.) ESZCSM rendelet 28. §-ának (4) bekezdése alapján a közösségi pszichiátriai ellátásban, valamint a szenvedélybetegek közösségi ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.
+[^126]: A 4/2004. (I. 28.) ESZCSM rendelet 28. §-ának (4) bekezdése alapján a közösségi pszichiátriai ellátásban, valamint a szenvedélybetegek közösségi ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.

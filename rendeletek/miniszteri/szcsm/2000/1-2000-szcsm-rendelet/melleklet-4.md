@@ -1,181 +1,1355 @@
-## A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottak képesítési előírásai
+## A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
-| A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottak képesítési előírásai |
+## 1. Szociális étkeztetés
 
-| Ellátási forma | Intézményi munkakör | Képesítés |
+|  | alkalmazás minimum feltétele |
 
-| 1. Szociális konyha vagy népkonyha -főzőkonyha -melegítőkonyha | konyhavezető | - élelmezésvezető, szakács, dietetikus - szociális munkás, szociális szervező - szociális asszisztens, szociális gondozó és szervező - teológus, diakónus |
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
-| szociális segítő | szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, házi szociális gondozó, szociális otthon gondozó, középfokú végzettség |
+| szociális segítő | - |  | szociális segítő | szociális asszisztens |  | 100 |  |
 
-| 2. Házi segítségnyújtás, Jelzőrendszeres házi segítségnyújtás | vezető gondozó | felsőfokú szociális alapvégzettség, szociális gondozó és szervező, szociális asszisztens, gerontológiai gondozó, ápoló, pszichiátriai ápoló pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, hospice szakápoló és koordinátor, ideg- elmeápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta |
+|  |  | szociális, gyermek- és ifjúságvédelmi ügyintéző |  |  |
 
-| szociális gondozó | szociális gondozó és szervező, szociális gondozó és ápoló, gerontológiai gondozó, házi szociális gondozó, szociális otthon gondozó, ápoló, általános betegápoló, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, általános ápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, rehabilitációs tevékenység terapeuta, hospice szakápoló és koordinátor, ideg- elmeápoló, gyermek ideg-elme ápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta |
+|  |  | szociális szakgondozó | szociális gondozó, szervező |  |  |
 
-| 3. Családsegítés | intézményvezető | felsőfokú szociális alapvégzettség, közösségi szociális munkás, szociális menedzser, teológus |
+|  |  | szociális gondozó | szociális gondozó és ápoló |  |  |
 
-| családgondozó | felsőfokú szociális alapvégzettség, közösségi szociális munkás, családterapeuta, teológus |
+## 2. Falu-, tanyagondnoki szolgálat
 
-| szociális segítő | szociális asszisztens |
+|  | alkalmazás minimum feltétele |
 
-| tanácsadó | felsőfokú szociális alapvégzettség, közösségi szociális munkás, pszichopedagógus, gyógypedagógus, pedagógus, nevelőtanár, pszichológus, jogász teológus, igazgatásszervező (szociális igazgatás szakirány), szociológus, szupervizor, humánerőforrás menedzser, humánszervező, mentálhigiénikus, addiktológiai konzultáns, közgazdász – szociálpolitikus, jogi szakokleveles családvédelmi tanácsadó, szociális igazgatás szakirányú végzettség, családterapeuta, mentálhigiénikus, munkavállalási tanácsadó, mediátor |
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
-| adósságkezelési tanácsadó | megegyezik a családgondozóval + adósságkezelési tanácsadó képesítés |
+| tanyagondnok, falugondnok | nincs felsőfokú elvárás, de bármilyen felsőfokú végzettséggel is betölthető |  |  |  |  | 100 |  |
 
-| 4. Idősek klubja, demens személyek nappali intézménye | Nappali ellátás vezető | felsőfokú szociális alapvégzettség, mentálhigiénikus, szociális menedzser, szociális asszisztens, gerontológiai gondozó, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, mentálhigiénés asszisztens, szociális gondozó és szervező, teológus, diakónus igazgatásszervező (szociális igazgatás szakirány) |
+## 3. Házi segítségnyújtás
 
-| szociális gondozó | szociális gondozó és szervező, szociális gondozó és ápoló, gerontológiai gondozó, házi szociális gondozó, szociális otthon gondozó, ápoló, általános betegápoló, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, általános ápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, gyógymasszőr, gyógytornász, rehabilitációs tevékenység terapeuta, fizioterápiás asszisztens, hospice szakápoló és koordinátor, ideg- elmeápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta |
+|  | alkalmazás minimum feltétele |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, mentálhigiénés asszisztens, pszichológus, teológus, diakónus, mentálhigiénikus, szociális gondozó és szervező, szociális asszisztens, gerontológiai gondozó, népművelő, művelődésszervező |
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
-| 5/A. Támogató szolgálat | vezető | felsőfokú szociális alapvégzettség konduktor, egészségügyi menedzser, szociális menedzser, diplomás ápoló, védőnő, pszichopedagógus, gyógypedagógus |
+| vezető gondozó önálló szolgáltatás esetén | szociális munkás | 100 |  |  |  |  |  |
 
-| személyi segítő | szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, gerontológiai gondozó, mentálhigiénés asszisztens, ápoló, általános betegápoló, felnőtt szakápoló, házi szociális gondozó, szociális otthon gondozó, általános betegápoló, pedagógiai asszisztens, gyógypedagógiai asszisztens |
+| szociálpedagógus |  |  |  |  |  |
 
-| 5/B. Falugondnoki és tanyagondnoki szolgálat | falugondnok | Általános iskolai végzettség |
+| okleveles egészségügyi szociális munkás |  |  |  |  |  |
 
-| tanyagondnok | Általános iskolai végzettség |
+| okleveles szociális munkás |  |  |  |  |  |
 
-| 5/C. Közösségi pszichiátriai ellátás | közösségi koordinátor | felsőfokú szociális alapvégzettség, orvos, diplomás ápoló, okleveles egyetemi ápoló, okleveles egészségügyi szaktanár, okleveles ápoló, egészségügyi szakoktató, intézetvezető, pszichopedagógus, gyógypedagógus, pszichológus, diakónus, szupervizor, mentálhigiénikus, egészségügyi menedzser, addiktológiai konzultáns, szociális menedzser, pszichológus |
+| okleveles szociálpolitikus |  |  |  |  |  |
 
-| közösségi gondozó | Megegyezik a közösségi koordinátor képesítésével, azon túl: szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, mentálhigiénés asszisztens, szociális szakgondozó-pszichiátriai gondozó, szociális szakgondozó-szenvedélybeteg gondozó, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), rehabilitációs tevékenység terapeuta, ideg-, elmeápoló, rehabilitációs terapeuta, gyógypedagógus, gyógypedagógiai asszisztens, ápoló, pszichopedagógus, felnőtt szakápoló, foglalkozás-egészségügyi szakápoló, |
+| ápoló, vagy gyógytornász- fizioterapeuta |  |  |  |  |  |
 
-| orvosi konzultáns | pszichiáter szakorvos |
+| okleveles rehabilitációs szakember |  |  |  |  |  |
 
-| 5/D. Szenvedélybetegek közösségi ellátása, alacsonyküszöbű ellátás | közösségi koordinátor/ alacsonyküszöbű ellátás koordinátor | felsőfokú szociális alapvégzettség, pszichológus, pszichopedagógus, orvos, addiktológiai konzultáns, diplomás ápoló, okleveles egyetemi ápoló, diakónus, védőnő + szociális gondozó és szervező szociális gondozó és ápoló szociális asszisztens szociális, gyermek- és ifjúságvédelmi ügyintéző gerontológiai gondozó mentálhigiénés asszisztens szociális segítő-rehabilitációs nevelő segítő foglalkoztatás szervező szociokulturális animátor szociális szakgondozó-pszichiátriai gondozó, szenvedélybeteg gondozó |
+| szociális menedzser |  |  |  |  |  |  |
 
-| közösségi gondozó | Megegyezik a közösségi koordinátor képesítésével, azon túl: szociális gondozó és ápoló, szociális gondozó és szervező, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), mentálhigiénés asszisztens, szociális asszisztens, szociális, gyermek- és ifjúságvédelmi ügyintéző, gerontológiai gondozó, foglalkoztatás szervező, szociokulturális animátor, szociális szakgondozó-pszichiátriai gondozó, szenvedélybeteg gondozó, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), védőnő |
+| vezető gondozó más szociális szolgáltatással integrált szolgáltatás esetén |  |  | szociális segítő | szociális asszisztens |  | 100 |  |
 
-| orvosi konzultáns | addiktológus, pszichiáter szakorvos |
+|  |  |  | rehabilitációs nevelő, segítő |  |  |
 
-| alacsonyküszöbű ellátás konzultáns | általános szociális munkás, szociális munkás, szociálpedagógus, közösségi szociális munkás, mentálhigiénikus, addiktológiai konzultáns |
+|  |  | szociális szakgondozó | gerontológiai gondozó |  |  |
 
-| 5/E. Utcai szociális munka | koordinátor | felsőfokú szociális alapvégzettség, mentálhigiénikus, szociológus, szociálpolitikus, teológus, diakónus |
+|  |  | pszichiátriai gondozó |  |  |
 
-| utcai szociális munkás | felsőfokú szociális alapvégzettség, szociális gondozó és szervező, mentálhigiénikus, pszichiátriai ápoló, felnőtt szakápoló, ápoló, általános betegápoló, általános ápoló, diakónus |
+|  |  | szenvedélybeteg-gondozó |  |  |
 
-| 5/F. |  |  |
+|  |  | szociális gondozó, szervező |  |  |
 
-| 6. Fogyatékosok nappali intézménye | intézményvezető | felsőfokú szociális alapvégzettség, egészségügyi menedzser, szociális menedzser, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, védőnő, pszichopedagógus, gyógypedagógus, pszichológus, diakónus |
+|  |  | általános ápoló |  | foglalkozásegészségügyi szakápoló |  |
 
-| terápiás munkatárs | gyógymasszőr, gyógytornász, rehabilitációs tevékenység terapeuta, rehabilitációs terapeuta, pedagógiai asszisztens, gyógypedagógiai asszisztens, pszichopedagógus, gyógypedagógus, pszichológus, mozgásterapeuta, gyógytornász, konduktor, mentálhigiénikus |
+|  |  |  | geriátriai szakápoló |  |
 
-| szociális gondozó | szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, házi szociális gondozó, szociális otthon gondozó, ápoló, általános betegápoló, felnőtt szakápoló |
+|  |  |  | hospice szakápoló |  |
 
-| 7. Pszichiátriai betegek nappali intézménye | intézményvezető | felsőfokú szociális alapvégzettség, pszichológus, mentálhigiénikus, addiktológiai konzultáns, szociális menedzser, klinikai szakpszichológus, addiktológiai szakpszichológus, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, pszichopedagógus, humánerőforrás menedzser, humánszervező, szociális menedzser, teológus, diakónus |
+|  |  |  | körzeti közösségi szakápoló |  |
 
-| terápiás segítő | szociálpolitikus, általános szociális munkás, szociális munkás, szociálpedagógus, szociális szervező, pszichopedagógus, óvodapedagógus, mentálhigiénikus, szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, mentálhigiénés asszisztens, rehabilitációs nevelő segítő, szociális segítő-rehabilitációs nevelő segítő, szociális segítő-foglalkoztatás szervező, szociális segítő-szociokulturális animátor, szociális szakgondozó-pszichiátriai gondozó, szociális szakgondozó-szenvedélybeteg gondozó, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, gyógymasszőr, gyógytornász, rehabilitációs tevékenység terapeuta, hospice szakápoló és koordinátor, ideg-, elmeápoló, rehabilitációs terapeuta, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), szociális menedzser, ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, ápoló, általános betegápoló, körzeti betegápoló, körzeti ápoló |
+|  |  |  | pszichiátriai szakápoló |  |
 
-| 7/A. Szenvedélybetegek nappali intézménye | intézményvezető | felsőfokú szociális alapvégzettség, pszichológus, pszichopedagógus, gyógypedagógus, mentálhigiénikus, gyógypedagógus, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), mentálhigiénés asszisztens, addiktológiai konzultáns, teológus, diakónus |
+|  |  |  | sürgősségi szakápoló |  |
 
-| terápiás segítő | felsőfokú szociális alapvégzettség, gyógypedagógus, pszichopedagógus, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), rehabilitációs terapeuta, szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, szociális, gyermek- és ifjúságvédelmi ügyintéző, gerontológiai gondozó, mentálhigiénés asszisztens, szociális segítő-rehabilitációs nevelő segítő, foglalkoztatás szervező, szociokulturális animátor, szociális szakgondozó-pszichiátriai gondozó, szenvedélybeteg gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), addiktológiai konzultáns, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, gyógypedagógiai asszisztens |
+| szociális gondozó |  |  | szociális gondozó | fogyatékossággal élők gondozója |  | 100 |  |
 
-| 8. Nappali melegedő | intézményvezető | felsőfokú szociális alapvégzettség, közösségi szociális munkás, szociális menedzser, közgazdász-szociálpolitikus, teológus |
+|  |  | szociális gondozó és ápoló |  |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, közösségi szociális munkás, szociális asszisztens, mentálhigiénés asszisztens védőnő, teológus, diakónus, pedagógus, népművelő |
+|  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens |  |
 
-| szociális segítő | szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, mentálhigiénés asszisztens, pedagógiai asszisztens, gyógypedagógiai asszisztens |
+|  |  |  | rehabilitációs nevelő, segítő |  |  |
 
-| 9. Idősek bentlakást nyújtó intézményei | intézményvezető | felsőfokú szociális alapvégzettség, közgazdász, szociális menedzser, orvos, gyógypedagógus, pszichológus, okleveles egészségügyi szaktanár, egészségügyi szakoktató, felsőfokú ápoló végzettség, intézetvezető, felsőfokú egészségügyi vagy pedagógus vagy igazgatásszervező végzettség szociális igazgatás szakirányú végzettséggel, teológus |
+|  |  | szociális szakgondozó | gerontológiai gondozó |  |  |
 
-| részlegvezető | felsőfokú szociális alapvégzettség, diplomás ápoló, okleveles egyetemi ápoló, ápoló, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló általános ápoló, diakónus, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, rehabilitációs tevékenység terapeuta, fizioterápiás asszisztens, hospice szakápoló és koordinátor, ideg- elmeápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta, szociális gondozó és szervező, szociális asszisztens, gerontológiai gondozó |
+|  |  | pszichiátriai gondozó |  |  |
 
-| orvos | orvos |
+|  |  | szenvedélybeteg-gondozó |  |  |
 
-| intézményvezető ápoló | ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, mentőtiszt, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, |
+|  |  | szociális gondozó, szervező |  |  |
 
-| ápoló, gondozó | ápoló, általános betegápoló, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, általános ápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, rehabilitációs tevékenység terapeuta, fizioterápiás asszisztens, hospice szakápoló és koordinátor, ideg- elmeápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta, szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, szociális, gyermek- és ifjúságvédelmi ügyintéző, gerontológiai gondozó, mentálhigiénés asszisztens, csecsemő- és kisgyermekgondozó, csecsemő- és kisgyermeknevelő-gondozó, bölcsődei szakgondozó, szociális gondozó-fogyatékosok gondozója, szociális szakgondozó-pszichiátriai gondozó, szenvedélybeteg gondozó, csecsemő és gyermeknevelő-gondozó, szociális otthon gondozó |
+|  |  | általános ápoló |  | foglalkozásegészségügyi szakápoló |  |
 
-| diétás nővér | dietetikus, diétás nővér, élelmezési menedzser, élelmezésvezető, élelmezésvezető |
+|  |  |  | geriátriai szakápoló |  |
 
-| mozgásterapeuta | gyógymasszőr, gyógytornász, rehabilitációs tevékenység terapeuta, fizioterápiás asszisztens, rehabilitációs terapeuta, mozgásterapeuta, gyógytornász, konduktor, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens) |
+|  |  |  | hospice szakápoló |  |
 
-| foglalkoztatás szervező | általános szociális munkás, szociális munkás, szociális szervező, közösségi szociális munkás, szociális gondozó és szervező, gyógypedagógus, pedagógus, szociális asszisztens, népművelő, művelődésszervező |
+|  |  |  | körzeti közösségi szakápoló |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, mentálhigiénés asszisztens, pszichológus, teológus, diakónus, mentálhigiénikus, szociális gondozó és szervező, szociális asszisztens, gerontológiai gondozó, népművelő, művelődésszervező |
+|  |  |  | pszichiátriai szakápoló |  |
 
-| 9/A. Fogyatékos személyek bentlakást nyújtó intézményei | intézményvezető | felsőfokú szociális alapvégzettség, egészségügyi menedzser, szociális menedzser, intézetvezető, védőnő, felsőfokú ápoló végzettség, pszichopedagógus, gyógypedagógus, pszichológus, mentálhigiénikus, teológus, orvos, felsőfokú egészségügyi vagy pedagógus vagy igazgatásszervező végzettség szociális igazgatás szakirányú végzettséggel, jogász |
+|  |  |  | sürgősségi szakápoló |  |
 
-| részlegvezető | diplomás ápoló, okleveles egyetemi ápoló, okleveles egészségügyi szaktanár, okleveles ápoló, ápoló, felnőtt szakápoló |
+## 4. Jelzőrendszeres házi segítségnyújtás
 
-| orvos | orvos (az intézményben végzendő orvosi feladatok szerint) |
+|  | alkalmazás minimum feltétele |
 
-| intézményvezető ápoló | diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló ápoló, felnőtt szakápoló, |
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
-| ápoló, gondozó | ápoló, általános betegápoló, felnőtt szakápoló, körzeti betegápoló, körzeti ápoló, szociális gondozó és szervező, szociális gondozó és ápoló, házi szociális gondozó, szociális otthon gondozó |
+|  |  |  | 100 |  |
 
-| vezető pedagógus | pszichopedagógus, gyógypedagógus, pedagógus |
+| szociális gondozó |  |  | szociális gondozó | fogyatékossággal élők gondozója |  |  |
 
-| fejlesztő pedagógus | pszichopedagógus, gyógypedagógus, pedagógus |
+|  |  | szociális gondozó és ápoló |  |  |
 
-| pedagógus | pszichopedagógus, gyógypedagógus, pedagógus |
+|  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens |  |
 
-| mozgásterapeuta | rehabilitációs terapeuta, mozgásterapeuta, gyógytornász, konduktor, gyógymasszőr, fizioterápiás asszisztens, torna tanár, rehabilitációs tevékenység terapeuta |
+|  |  |  | rehabilitációs nevelő, segítő |  |  |
 
-| foglalkoztatás szervező | egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), rehabilitációs terapeuta, népművelő, művelődésszervező, gyógypedagógiai asszisztens, szociális asszisztens |
+|  |  | szociális szakgondozó | gerontológiai gondozó |  |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, pszichopedagógus, gyógypedagógus, pszichológus, szupervizor, rehabilitációs terapeuta, teológus, diakónus |
+|  |  | pszichiátriai gondozó |  |  |
 
-| munkavezető | rehabilitációs terapeuta, szociális gondozó és szervező, szociális gondozó és ápoló, pedagógiai asszisztens, gyógypedagógiai asszisztens, házi szociális gondozó, szociális otthon gondozó |
+|  |  | szenvedélybeteg-gondozó |  |  |
 
-| gyermekgondozó- ápoló | csecsemő- és kisgyermekgondozó, csecsemő- és kisgyermeknevelő-gondozó, bölcsődei szakgondozó, csecsemő- és gyermekápoló, ápoló, szociális gondozó és szervező, szociális gondozó és ápoló, ápoló, házi szociális gondozó, szociális otthon gondozó, |
+|  |  | szociális gondozó, szervező |  |  |
 
-| szociális segítő | szociális gondozó és szervező, szociális gondozó és ápoló, ápoló, általános betegápoló, felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta, pedagógiai asszisztens, gyógypedagógiai asszisztens |
+|  |  | általános ápoló |  | foglalkozásegészségügyi szakápoló |  |
 
-| szociális ügyintéző | szociális gondozó és szervező, szociális gondozó és ápoló, ápoló, általános betegápoló, felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, körzeti betegápoló, körzeti ápoló, rehabilitációs terapeuta, pedagógiai asszisztens, gyógypedagógiai asszisztens, szociális és gyermekvédelmi ügyintéző |
+|  |  |  | geriátriai szakápoló |  |
 
-| 9/B. Hajléktalan személyek bentlakást nyújtó intézményei | intézményvezető | felsőfokú szociális alapvégzettség, közösségi szociális munkás, szociális menedzser, közgazdász – szociálpolitikus, orvos, teológus, pszichológus, jogász, felsőfokú egészségügyi vagy pedagógus vagy igazgatásszervező végzettség (szociális igazgatás szakirányú végzettséggel) |
+|  |  |  | hospice szakápoló |  |
 
-| részlegvezető | azonos az intézményvezetőre vonatkozó képesítésekkel |
+|  |  |  | körzeti közösségi szakápoló |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, közösségi szociális munkás, fejlesztő pedagógus vagy felsőfokú egészségügyi végzettség mentálhigiénés szakirányú végzettséggel, szociális asszisztens, mentálhigiénés asszisztens pedagógus, védőnő, népművelő, teológus, diakónus |
+|  |  |  | pszichiátriai szakápoló |  |
 
-| ápoló, gondozó | ápoló, általános betegápoló, felnőtt szakápoló, általános ápoló, körzeti betegápoló, körzeti ápoló, ápolási asszisztens, szociális gondozó és ápoló, ÖNO és házi szociális gondozó, szociális otthon gondozó, szociális gondozó és szervező |
+|  |  |  | sürgősségi szakápoló |  |
 
-| foglalkoztatás szervező | felsőfokú szociális alapvégzettség, közösségi szociális munkás, szociális szervező, szociálpedagógus, népművelő, művelődésszervező, szociális gondozó és szervező, szociális asszisztens, gyógyfoglalkoztató asszisztens, gyógypedagógiai asszisztens, fejlesztő pedagógus, gyermek- és ifjúsági felügyelő, mentálhigiénés asszisztens |
+## 5. Családsegítés
 
-| munkavezető | a foglalkoztatás jellegének megfelelő szakképzettség, beleértve a szakoktatókat is; szociális segítő – foglalkoztatás szervező, szociális gondozó és ápoló |
+|  | alkalmazás minimum feltétele |
 
-| 9/C. Pszichiátriai betegek bentlakást nyújtó intézményei | intézményvezető | felsőfokú szociális alapvégzettség, mentálhigiénikus, orvos, felsőfokú ápoló végzettség, intézetvezető, pszichológus, felsőfokú egészségügyi vagy pedagógus vagy igazgatásszervező végzettség szociális igazgatás szakirányú végzettséggel, mentálhigiénikus, addiktológiai konzultáns, szociális menedzser, közgazdász, klinikai szakpszichológus, addiktológiai szakpszichológus, humánerőforrás menedzser, humánszervező, szociális menedzser, jogász, teológus, egészségügyi menedzser |
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
-| intézményvezető ápoló | ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, mentőtiszt, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, |
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
 
-| részlegvezető | felsőfokú szociális alapvégzettség, orvos, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), pszichológus, mentálhigiénikus, addiktológiai konzultáns, szociális menedzser, klinikai szakpszichológus, addiktológiai szakpszichológus, diplomás ápoló, szociális gondozó és szervező, szociális asszisztens, mentálhigiénés asszisztens, ápoló, felnőtt szakápoló, diakónus |
+| szociálpedagógus |  |  |  |  |  |
 
-| orvos | pszichiáter szakorvos, orvos |
+| Szociálpolitikus-közgazdász |  |  |  |  |  |
 
-| ápoló, gondozó | ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, osztályvezető ápoló, mentálhigiénés asszisztens, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, ideg-, elmeápoló, szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens |
+| okleveles szociális munkás |  |  |  |  |  |
 
-| foglalkoztatás szervező | általános szociális munkás, szociális munkás, szociálpedagógus, szociális gondozó és szervező, szociális asszisztens, mentálhigiénés asszisztens, rehabilitációs nevelő segítő, szociális segítő-rehabilitációs nevelő segítő, szociális segítő-foglalkoztatás szervező, szociális segítő-szociokulturális animátor, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), rehabilitációs terapeuta, gyógypedagógiai asszisztens, népművelő, művelődésszervező, szociális gondozó és ápoló, szociális asszisztens, ápoló, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló |
+| okleveles szociálpolitikus |  |  |  |  |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, szociális gondozó és szervező, mentálhigiénés asszisztens, szociális gondozó és szervező, szociális asszisztens, pszichológus, teológus, diakónus, mentálhigiénikus, szociális gondozó és ápoló, szociális asszisztens, szociális segítő-rehabilitációs nevelő segítő, szociális segítő-foglalkoztatás szervező, szociális segítő-szociokulturális animátor, ápoló, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló |
+| szociális menedzser |  |  |  |  |  |
 
-| munkavezető | foglalkoztatásnak megfelelő szakképzettség+ érettségi, gyógypedagógiai asszisztens, szociális asszisztens, szociális segítő-rehabilitációs nevelő segítő, szociális segítő-foglalkoztatás szervező, szociális segítő-szociokulturális animátor, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), rehabilitációs terapeuta, mentálhigiénés asszisztens |
+| családgondozó | szociális munkás | 100 |  |  |  |  | tereptanári végzettség, |
 
-| szociális segítő | felsőfokú szociális alapvégzettség, szociális gondozó és szervező, szociális gondozó és ápoló, szociális asszisztens, mentálhigiénés asszisztens, szociális segítő-rehabilitációs nevelő segítő, szociális segítő-foglalkoztatás szervező, szociális segítő-szociokulturális animátor, szociális szakgondozó-pszichiátriai gondozó, szociális szakgondozó-szenvedélybeteg gondozó, ápoló, felnőtt szakápoló |
+| szociálpedagógus |  |  |  | adósságkezelési tanácsadó, |
 
-| 9/D. Szenvedélybetegek bentlakást nyújtó intézményei | intézményvezető | felsőfokú szociális alapvégzettség, teológus, pszichológus, felsőfokú ápoló végzettség, orvos, okleveles egészségügyi szaktanár, intézetvezető, szociális menedzser, felsőfokú egészségügyi vagy pedagógus vagy igazgatásszervező végzettség szociális igazgatás szakirányú végzettséggel, gyógypedagógus, addiktológiai konzultáns |
+| okleveles szociális munkás |  |  | családterapeuta, |
 
-| intézményvezető ápoló | ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles ápoló, intézetvezető, mentőtiszt, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, |
+| okleveles szociálpolitikus |  |  | közösségi szociális munkás, |
 
-| részlegvezető | felsőfokú szociális alapvégzettség, teológus, diakónus, pszichológus, ápoló, diplomás ápoló, okleveles egyetemi ápoló, okleveles egészségügyi szaktanár, okleveles ápoló, egészségügyi szakoktató, intézetvezető, védőnő, mentőtiszt, osztályvezető ápoló, egészségügyi menedzser, igazgatásszervező (szociális igazgatás szakirány), gyógypedagógus, addiktológiai konzultáns szociális gondozó és szervező, szociális asszisztens, gerontológiai gondozó, mentálhigiénés asszisztens, -foglalkoztatás szervező, szociokulturális animátor, szociális szakgondozó-pszichiátriai gondozó, szenvedélybeteg gondozó, ápoló, pszichiátriai ápoló, pszichiátriai ápoló és gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), felnőtt szakápoló, mentálhigiénés és pszichiátriai szakápoló, egészségügyi szakasszisztens (csak: gyógyfoglalkoztató szakasszisztens), foglalkozás-egészségügyi szakápoló, rehabilitációs tevékenység terapeuta, ideg- elmeápoló, gyermek ideg-elme ápoló, rehabilitációs terapeuta |
+|  |  |  | mentálhigiénikus számítógépes ismeret |
 
-| orvos | addiktológus, pszichiáter szakorvos, orvos |
+| szociális segítő |  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens | 100 |  |
 
-| foglalkoztatás szervező | szociális munkás, általános szociális munkás, szociális szervező, szociálpedagógus, népművelő, művelődésszervező, szociális gondozó és szervező, szociális asszisztens, gyógypedagógiai asszisztens, rehabilitációs tevékenység terapeuta, pszichopedagógus, gyógypedagógus, pedagógus, mentálhigiénés asszisztens |
+|  |  |  | szociokulturális animátor |  |
 
-| szociális, mentálhigiénés munkatárs | felsőfokú szociális alapvégzettség, teológus, diakónus, pszichopedagógus, gyógypedagógus, óvodapedagógus, addiktológiai konzultáns, mentálhigiénikus, szenvedélybeteg gondozó, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), védőnő, mentálhigiénés asszisztens, -foglalkoztatás szervező, -szociokulturális animátor, szociális gondozó-fogyatékosok gondozója, szociális szakgondozó-pszichiátriai gondozó, -szenvedélybeteg gondozó |
+|  |  |  |  | foglalkoztatás-szervező |  |  |
 
-| munkavezető | a foglalkoztatás jellegének megfelelő szakképzettség beleértve a szakoktatókat is; szociális gondozó és ápoló |
+|  |  |  | szociális, gyermek és ifjúságvédelmi ügyintéző |  |  |  |
 
-| ápoló, gondozó | ápoló, diplomás ápoló, pszichiátriai ápoló és gondozó, felnőtt szakápoló, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), szociális gondozó és szervező, gerontológiai gondozó, szociális gondozó és ápoló, szociális asszisztens |
+| tanácsadó | szociálpolitikus, szociálpolitikus-közgazdász, szociális munkás, szociálpedagógus, közösségi szociális munkás, szociológus, igazgatásszervező-szociális igazgatási szakirány, okleveles pszichológus, jogász, teológus, pasztorális tanácsadó, humánerőforrás menedzser, humánszervező, mentálhigiénikus,, addiktológiai konzultáns, addiktológiai szakpszichológus, jogi szakokleveles családvédelmi tanácsadó, népművelő, művelődésszervező, művelődési menedzser, andragógus, | 90 | ifjúságsegítő |  |  |  | Az ifjúságsegítő szakképesítés csak akkor fogadható el, ha felsőfokú végzettségre épül. munkavállalási tanácsadó |
 
-| szociális segítő | mentálhigiénés asszisztens, klinikai szakápoló (csak: geriátriai, pszichiátriai és mentálhigiénés szakápoló, körzeti – közösségi szakápoló), gyógypedagógus, szociális asszisztens, szociálpedagógus, mentálhigiénés asszisztens, addiktológiai konzultáns, szenvedélybeteg gondozó |
+|  |  |  |  |  |  |  | családterapeuta, |
 
-| 10−13. |  |  |
+|  |  |  |  |  |  |  | szupervízor, |
 
-| Kiegészítő szabályok: 1. Felsőfokú szociális alapvégzettség: az általános szociális munkás, a szociális munkás (ideértve a BA és MA fokozatot is), a szociális szervező, a szociálpolitikus (ideértve az MA fokozatot is), a szociálpedagógus. 2. Vezetői, szervezői végzettség: a vezetési, szervezési ismereteket nyújtó felsőfokú tanfolyami végzettség. 3. Pedagógus: óvodapedagógus, tanító, tanár, nevelőtanár. 4. Egészségügyi szakképesítés: a) az alábbi egészségügyi főiskolai végzettségek (a továbbiakban: felsőfokú egészségügyi végzettség): aa) védőnő, ab) diplomás ápoló, ac) mentőtiszt, ad) egészségügyi szakoktató, ae) intézetvezető; b) érettségi és az alábbi ápolói végzettségek (a továbbiakban: ápolói végzettség): ba) ápoló (OKJ), bb) klinikai szakápoló (OKJ), bc) felnőtt szakápoló, bd) gyermekápoló, be) pszichiátriai (ideg-elme) ápoló, bf) általános betegápoló, bg) körzeti ápoló, bh) csecsemő- és gyermekápoló, bi) mentőápoló, bj) szociális otthoni ápoló. 5. Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség. 6. 2010. január 1-je után pszichológus képzettség esetén a pszichológus (BA) oklevél nem fogadható el. |
+|  |  |  |  |  |  |  | mediátor, |
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^238]
+|  |  |  |  |  |  |  | jelnyelvi tolmács |
 
-[^238]: A 4. számú melléklet a 35/2009. (XII. 30.) SZMM rendelet 20. § (3) bekezdésével megállapított szöveg.
+## 6. Fogyatékos személyek ellátása
+
+## 6.1. Támogató szolgálat
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| vezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| igazgatásszervező szociális igazgatás szakirányú végzettséggel |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |  |
+
+|  | szociális menedzser |  |  |  |  |  |  |
+
+| személyi segítő | igazgatásszervező szociális igazgatás szakirányú végzettséggel | 25 | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 65 |  |
+
+|  | viselkedéselemző | pszichiátriai szakápoló |  |
+
+|  |  |  | sürgősségi szakápoló |  |
+
+|  |  |  | körzeti közösségi szakápoló |  |
+
+|  |  |  | egészségügyi asszisztens | általános asszisztens |  |  |
+
+|  |  |  |  | ápolási asszisztens |  |  |
+
+|  |  |  | mentőápoló |  |  |  |
+
+|  |  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+|  |  |  | szociális gondozó | fogyatékossággal élők gondozója |  |  |
+
+|  |  |  | szociális gondozó és ápoló |  |  |
+
+|  |  |  | szociális segítő | rehabilitációs nevelő, segítő |  |  |
+
+|  |  |  | szociális asszisztens | foglalkoztatás szervező |  |
+
+|  |  |  |  | mentálhigiénés asszisztens |  |
+
+|  |  |  | szociális szakgondozó | gerontológiai gondozó |  |  |
+
+|  |  |  | pszichiátriai gondozó |  |  |
+
+|  |  |  | szociális gondozó, szervező |  |  |
+
+|  |  |  | szenvedélybeteg gondozó |  |  |
+
+|  |  |  | gyógypedagógiai asszisztens |  | autisták gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | beszédfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | értelmileg sérültek gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | látásfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | hallásfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | pszichés fejlődésben akadályozottak gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | súlyosan és halmozottan fogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  |  | testi fogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  | pedagógiai asszisztens |  |  |  |
+
+| gépkocsivezető |  |  |  |  |  | 100 | minimum "B" kategóriás jogosítvány |
+
+## 6.2. Fogyatékos személyek nappali ellátása
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |  |
+
+| terápiás munkatárs | gyógypedagógus | 25 |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| okleveles pszichológus |  |  |  |  |  |
+
+| gyógytornász-fizioterapeuta |  |  |  |  |  |
+
+| gyógytestnevelő |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| viselkedéselemző |  |  |  |  |  |  |
+
+|  |  | gyógypedagógiai asszisztens |  | autisták gyógypedagógiai asszisztense | 65 |  |
+
+|  |  |  | beszédfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  | Értelmileg sérültek gyógypedagógiai asszisztense |  |
+
+|  |  |  | látásfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  | hallásfogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  | pszichés fejlődésben akadályozottak gyógypedagógiai asszisztense |  |
+
+|  |  |  | súlyosan és halmozottan fogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  |  | testi fogyatékosok gyógypedagógiai asszisztense |  |
+
+|  |  | pedagógiai asszisztens |  |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+|  |  | masszőr | gyógymasszőr |  |  |
+
+| szociális gondozó |  |  | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 90 |  |
+
+|  |  |  |  | pszichiátriai szakápoló |
+
+|  |  |  |  | sürgősségi szakápoló |
+
+|  |  |  |  | körzeti közösségi szakápoló |
+
+|  |  | egészségügyi asszisztens | általános asszisztens |  |
+
+|  |  |  | ápolási asszisztens |  |
+
+|  |  | mentőápoló |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |
+
+|  |  | szociális gondozó | fogyatékossággal élők gondozója |  |
+
+|  |  |  | szociális gondozó és ápoló |  |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő |  |
+
+|  |  |  | szociális asszisztens | foglalkoztatás szervező |
+
+|  |  |  |  | mentálhigiénés asszisztens |
+
+|  |  |  |  | szociokulturális animátor |
+
+|  |  |  |  | foglalkoztatás-szervező |
+
+|  |  | szociális szakgondozó | gerontológiai gondozó |  |
+
+|  |  |  | pszichiátriai gondozó |  |
+
+|  |  |  | szociális gondozó, szervező |  |
+
+|  |  |  | szenvedélybeteg gondozó |  |
+
+|  |  | gyógypedagógiai asszisztens |  | autisták gyógypedagógiai asszisztense |
+
+|  |  |  |  | beszédfogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | értelmileg sérültek gyógypedagógiai asszisztense |
+
+|  |  |  |  | látásfogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | hallásfogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | pszichés fejlődésben akadályozottak gyógypedagógiai asszisztense |
+
+|  |  |  |  | súlyosan és halmozottan fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | testi fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  | pedagógiai asszisztens |  |  |
+
+## 6.3. Fogyatékos személyek rehabilitációs intézménye, rehabilitációs célú lakóotthona
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| igazgatásszervező szociális igazgatás szakirányú végzettséggel |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| vezető pedagógus | gyógypedagógus | 100 |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| pedagógus |  |  |  |  |  |
+
+| fejlesztő pedagógus | fejlesztőpedagógus | 100 |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| gyógytornász |  |  |  |  |  |
+
+| gyógytestnevelő |  |  |  |  |  |
+
+| pedagógus |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 15 | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 75 |  |
+
+| okleveles ápoló |  |  |  | pszichiátriai szakápoló |  |
+
+|  |  |  |  | sürgősségi szakápoló |  |
+
+|  |  |  |  | körzeti közösségi szakápoló |  |
+
+| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | fogyatékossággal élők gondozója |  | 90 |  |
+
+|  |  | szociális gondozó és ápoló |  |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő |  |
+
+|  |  | szociális asszisztens | foglalkoztatás szervező |
+
+|  |  |  |  | szociokulturális animátor |
+
+|  |  |  |  | mentálhigiénés asszisztens |
+
+|  |  |  | ápolási asszisztens |  |
+
+| szociális munkatárs | szociális munkás | 25 |  |  |  | 75 |
+
+| szociálpedagógus |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |
+
+| okleveles szociális munkás |  |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta |  |  |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő |  |
+
+| mentálhigiénés munkatárs | Okleveles rekreációszervező és egészségfejlesztő | 25 | gyógypedagógiai asszisztens |  | autisták gyógypedagógiai asszisztense | 65 |
+
+| diakónus |  |  |  | beszédfogyatékosok gyógypedagógiai asszisztense |
+
+| mentálhigiénikus |  |  |  | Értelmileg sérültek gyógypedagógiai asszisztense |
+
+| Okleveles teológus |  |  |  | látásfogyatékosok gyógypedagógiai asszisztense |
+
+| Okleveles pasztorális tanácsadó |  |  |  | hallásfogyatékosok gyógypedagógiai asszisztense |
+
+| Viselkedéselemző |  |  |  | pszichés fejlődésben akadályozottak gyógypedagógiai asszisztense |
+
+| pszichológus |  |  |  | súlyosan és halmozottan fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | testi fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő | mentálhigiénés asszisztens |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+| szociális ügyintéző |  |  | szociális segítő |  |  | 90 |  |
+
+|  |  |  |  | rehabilitációs nevelő, segítő |  |  |
+
+|  |  |  |  | szociális asszisztens |  |  |
+
+|  |  |  | szociális szakgondozó |  |  |  |
+
+|  |  |  |  | szociális gondozó, szervező |  |  |
+
+## 6.4. Fogyatékos személyek ápoló– gondozó otthona, átmeneti intézménye, ápoló-gondozó célú lakóotthon
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| igazgatásszervező szociális igazgatás szakirányú végzettséggel |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| fejlesztő pedagógus | fejlesztőpedagógus | 100 |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| pedagógus |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 15 | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 75 |  |
+
+|  | okleveles ápoló |  |  |  | pszichiátriai szakápoló |  |
+
+|  |  |  |  |  | sürgősségi szakápoló |  |
+
+|  |  |  |  |  | körzeti közösségi szakápoló |  |
+
+| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | fogyatékossággal élők gondozója |  | 90 |  |
+
+|  |  | szociális gondozó és ápoló |  |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő |  |
+
+|  |  | szociális asszisztens |  |
+
+|  |  |  | ápolási asszisztens |  |
+
+| szociális munkatárs | szociális munkás | 25 |  |  |  | 75 |
+
+| szociálpedagógus |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |
+
+| okleveles szociális munkás |  |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta |  |  |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő |  |
+
+| mentálhigiénés munkatárs | Okleveles rekreációszervező és egészségfejlesztő | 25 | gyógypedagógiai asszisztens |  | autisták gyógypedagógiai asszisztense | 65 |
+
+| diakónus |  |  |  | beszédfogyatékosok gyógypedagógiai asszisztense |
+
+| mentálhigiénikus |  |  |  | Értelmileg sérültek gyógypedagógiai asszisztense |
+
+| Okleveles teológus |  |  |  | látásfogyatékosok gyógypedagógiai asszisztense |
+
+| Okleveles pasztorális tanácsadó |  |  |  | hallásfogyatékosok gyógypedagógiai asszisztense |
+
+| Viselkedéselemző |  |  |  | pszichés fejlődésben akadályozottak gyógypedagógiai asszisztense |
+
+| pszichológus |  |  |  | súlyosan és halmozottan fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  |  |  | testi fogyatékosok gyógypedagógiai asszisztense |
+
+|  |  | szociális segítő | rehabilitációs nevelő, segítő | mentálhigiénés asszisztens |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+| szociális ügyintéző |  |  | szociális segítő | szociális asszisztens |  | 90 |  |
+
+|  |  |  | rehabilitációs nevelő, segítő |  |  |
+
+|  |  | szociális szakgondozó |  |  |  |
+
+|  |  |  | szociális gondozó, szervező |  |  |
+
+| súlyos fogyatékosokat ellátó csoport |
+
+| osztályvezető | gyógypedagógus | 100 |  |  |  |  |  |
+
+| diplomás ápoló |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| gyermekgondozó-ápoló, vagy ápoló-gondozó |  |  |  | csecsemő és gyermekápoló |  | 90 |  |
+
+|  |  | csecsemő és gyermeknevelő - gondozó |  |  |  |
+
+|  |  | gyermekgondozó - nevelő | gyermekotthoni asszisztens |  |  |
+
+|  |  |  | kisgyermekgondozó, -nevelő |  |  |
+
+|  |  |  | gyermek és ifjúsági felügyelő |  |  |
+
+|  |  | szociális gondozó | fogyatékossággal élők gondozója |  |  |
+
+|  |  |  | szociális gondozó és ápoló |  |  |
+
+| pedagógus | óvodapedagógus | 100 |  |  |  |  |  |
+
+| tanár, tanító |  |  |  |  |  |
+
+| fejlesztőpedagógus |  |  |  |  |  |
+
+| gyógypedagógus |  |  |  |  |  |
+
+| pedagógus |  |  |  |  |  |
+
+| konduktor |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |  |
+
+## 7. Hajléktalan ellátás
+
+## 7.1. Utcai szociális munka
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| utcai szolgálat koordinátor | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| utcai szociális munkás | szociális munkás | 50 |  |  |  |  |  |
+
+|  | szociálpedagógus |  |  |  |  |
+
+|  | szociális menedzser |  |  |  |  |
+
+|  | okleveles szociális munkás |  |  |  |  |
+
+|  | okleveles szociálpolitikus |  |  |  |  |
+
+|  |  |  | érettségi |  |  | 50 |
+
+## 7.2. Hajléktalanok nappali ellátása
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| szociális, mentálhigiénés munkatárs | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| szociális segítő |  |  | középfokú végzettség |  |  | 100 |  |
+
+## 7.3. Hajléktalanok éjjeli menedékhelye
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| szociális, mentálhigiénés munkatárs | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| szociális segítő |  |  | középfokú végzettség |  |  | 100 |  |
+
+| ápoló-gondozó |  |  | szociális gondozó | szociális gondozó és ápoló |  | 75 |  |
+
+## 7.4. Hajléktalanok átmeneti otthona
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| szociális, mentálhigiénés munkatárs | felsőfokú végzettség | 100 |  |  |  |  |  |
+
+| szociális segítő |  |  | középfokú végzettség |  |  | 100 |  |
+
+| ápoló-gondozó |  |  | szociális gondozó | szociális gondozó és ápoló |  | 75 |  |
+
+## 7.5. Hajléktalanok ápoló - gondozó otthona munkaköreinek minimum alkalmazása megegyezik az idősek ápoló – gondozó otthona képesítéseivel
+
+## 8. Idősek ellátása
+
+## 8.1. Idősek nappali ellátása, demensek nappali ellátása
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| nappali ellátás vezető önálló nappali intézmény esetén | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| andragógus |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| okleveles egészségügyi szociális munkás |  |  |  |  |  |
+
+| ápoló, vagy gyógytornász- fizioterapeuta |  |  |  |  |  |
+
+| okleveles rehabilitációs szakember |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |  |
+
+| Szociális menedzser |  |  |  |  |  |  |
+
+| szociális gondozó |  |  | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 90 |  |
+
+|  |  |  |  | pszichiátriai szakápoló |
+
+|  |  |  |  | sürgősségi szakápoló |
+
+|  |  |  |  | körzeti közösségi szakápoló |
+
+|  |  |  |  | foglalkozás egészségügyi szakápoló |
+
+|  |  | szociális gondozó | fogyatékossággal élők gondozója |  |
+
+|  |  |  | szociális gondozó és ápoló |  |
+
+|  |  | szociális segítő | szociális asszisztens | foglalkoztatás-szervező |
+
+|  |  |  |  | mentálhigiénés asszisztens |
+
+|  |  |  |  | szociokulturális animátor |
+
+|  |  | szociális szakgondozó | gerontológiai gondozó |  |
+
+|  |  |  | pszichiátriai gondozó |  |
+
+|  |  |  | szociális gondozó, szervező |  |
+
+|  |  |  | szenvedélybeteg gondozó |  |
+
+| szociális, mentálhigiénés munkatárs | szociális munkás |  |  |  |  | 100 |  |
+
+| szociálpedagógus |  |  |  |  |  |  |
+
+| egészségügyi szociális munkás |  |  |  |  |  |  |
+
+| okleveles egészség- pszichológus |  |  |  |  |  |  |
+
+| okleveles rehabilitációs szakember |  |  |  |  |  |  |
+
+| pszichológus |  |  |  |  |  |  |
+
+| viselkedéselemző |  |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |  |
+
+## 8.2. Idősek ápoló– gondozó otthona, átmeneti intézménye
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| Intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| diakónus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| igazgatásszervező szociális igazgatás szakirányú végzettséggel |  |  |  |  |  |
+
+| Pszichológus |  |  |  |  |  |
+
+| Egészségügyi menedzser |  |  |  |  |  |
+
+| Orvos |  |  |  |  |  |
+
+| Jogász |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| Okleveles teológus |  |  |  |  |  |
+
+| Okleveles pásztorális tanácsadó és szervezetfejlesztés |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| Intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| ápoló, gyógytornász-fizioterapeuta |  |  |  |  |  |
+
+| részlegvezető | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| ápoló, gyógytornász-fizioterapeuta |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális munkás |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| szociológus |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 10 |  |  |  |  |  |
+
+| mentőtiszt |  |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |  |
+
+| ápoló, gyógytornász-fizioterapeuta |  |  |  |  |  |  |
+
+|  |  | általános ápoló | gyakorló ápoló | geriátriai szakápoló | 90 |  |
+
+|  |  | pszichiátriai szakápoló |  |
+
+|  |  | sürgősségi szakápoló |  |
+
+|  |  | körzeti közösségi szakápoló |  |
+
+|  |  | Diabetológiai szakápoló |  |
+
+|  |  | Légzőszervi szakápoló |  |
+
+|  |  | Felnőtt aneszteziológiai és intenzív szakápoló |  |
+
+|  |  | Nefrológiai szakápoló |  |
+
+|  |  | Onkológiai szakápoló |  |
+
+|  |  |  |  |  | Hospice szakápoló |  |  |
+
+| gondozó |  |  | szociális gondozó | szociális gondozó és ápoló |  | 90 | Az igénybevevő személyek körének megfelelően intézményvezetői kompetencia az, hogy milyen szakképesítéssel rendelkező gondozót alkalmaz |
+
+|  |  | szociális szakgondozó | Gerontológiai gondozó |  |
+
+|  |  | Pszichiátriai gondozó |  |
+
+|  |  | Szenvedélybeteg gondozó |  |
+
+|  |  | Szociális gondozó, szervező |  |
+
+| szociális és mentálhigiénés munkatárs | szociális munkás | 25 |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |
+
+| Okleveles rekreációszervező és egészségfejlesztő |  |  |  |  |
+
+| diakónus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| Okleveles teológus |  |  |  |  |  |
+
+| Okleveles pasztorális tanácsadó |  |  |  |  |  |
+
+| Viselkedéselemző |  |  |  |  |  |
+
+| pszichológus |  |  |  |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta |  |  | 65 |  |
+
+|  |  | Szociális segítő | Rehabilitációs nevelő, segítő |  |  |
+
+|  |  | Szociális asszisztens |  |  |
+
+|  |  | Mentálhigiénés asszisztens |  |
+
+|  |  | Szociokulturális animátor |  |
+
+## 9. Pszichiátriai ellátás
+
+## 9.1. Közösségi ellátás
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| Közösségi koordinátor | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| pszichiáter |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+|  | Okleveles pszichológus |  |  |  |  |  |  |
+
+| Orvos konzultáns | pszichiáter | 100 |  |  |  |  |  |
+
+| Közösségi gondozó | szociális munkás | 25 |  |  |  |  |  |
+
+|  | szociálpedagógus |  |  |  |  |  |
+
+|  | szociális menedzser |  |  |  |  |  |
+
+|  | okleveles szociális munkás |  |  |  |  |  |
+
+|  | okleveles szociálpolitikus |  |  |  |  |  |
+
+|  | Viselkedéselemző |  |  |  |  |  |
+
+|  | mentálhigiénikus |  |  |  |  |  |
+
+|  |  |  | szociális szakgondozó | pszichiátriai gondozó |  | 75 |  |
+
+|  |  |  | rehabilitációs tevékenységterapeuta |  |  |  |
+
+|  |  |  | Általános ápoló |  | pszichiátriai szakápoló |  |
+
+|  |  |  |  | mentálhigiénés és pszichiátriai szakápoló |  |
+
+|  |  |  | szociális segítő | szociális asszisztens |  |  |  |
+
+## 9.2. Pszichiátriai betegek nappali ellátása
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| terápiás segítő | okleveles szociális munkás | 25 |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális munkás |  |  |  |  |  |
+
+| viselkedéselemző |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+|  |  | rehabilitációs tevékenység- terapeuta | gyógyfoglalkoztató |  | 75 |  |
+
+|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló |  |
+
+|  |  | szociális szakgondozó | pszichiátriai gondozó |  |  |
+
+|  |  |  | mentálhigiénés asszisztens |  |
+
+|  |  | szociális segítő | szociális asszisztens |  |  |  |
+
+## 9.3. Pszichiátriai betegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 25 |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló | 75 |  |
+
+| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | szociális gondozó és ápoló |  | 90 |  |
+
+|  |  | szociális szakgondozó | pszichiátriai gondozó |  |
+
+|  |  | szociális gondozó, szervező |  |
+
+|  |  |  | gerontológiai gondozó |  |
+
+|  |  |  |  | ápolási asszisztens |  |  |
+
+| szociális munkatárs | szociális munkás | 25 |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |
+
+|  |  | szociális segítő | szociális asszisztens |  | 75 |
+
+|  |  | rehabilitációs nevelő, segítő |  |
+
+| mentálhigiénés munkatárs | viselkedéselemző | 25 |  |  |  |  |
+
+| okleveles pszichológus |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |
+
+|  |  | szociális segítő |  | mentálhigiénés asszisztens | 75 |
+
+|  |  | foglalkoztatásszervező |  |
+
+|  |  |  |  | szociokulturális animátor |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+## 10. Szenvedélybeteg ellátása
+
+## 10.1. Közösségi ellátás
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| Közösségi /alacsonyküszöbű koordinátor | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| pszichiáter |  |  |  |  |  |
+
+| addiktológus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |  |
+
+| Orvos konzultáns | addiktológus | 100 |  |  |  |  |  |
+
+| Közösségi gondozó | szociális munkás | 25 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+|  |  | szociális szakgondozó | szenvedélybeteg gondozó |  | 75 |  |
+
+|  |  | szociális gondozó, szervező |  |  |
+
+|  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens |  |
+
+|  |  |  |  | szociokulturális animátor |  |
+
+|  |  |  |  | foglalkoztatás szervező |  |
+
+|  |  |  | rehabilitációs nevelő, segítő |  |  |
+
+|  |  | szociális gondozó | szociális gondozó, ápoló |  |  |
+
+| Konzultáns (alacsonyküszöbű ellátásnál) | Okleveles pszichológus | 100 |  |  |  |  |  |
+
+| Addiktológiai konzultáns |  |  |  |  |  |
+
+| pszichiáter |  |  |  |  |  |
+
+| addiktológus |  |  |  |  |  |
+
+| Segítő (alacsony- küszöbű ellátásnál) |  |  | szociális szakgondozó | szenvedélybeteg gondozó |  | 25 |  |
+
+|  |  |  | szociális gondozó, szervező |  |  |
+
+|  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens |  |
+
+## 10.2. Szenvedélybetegek nappali ellátása
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| terápiás segítő | okleveles szociális munkás | 25 |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális munkás |  |  |  |  |  |
+
+| viselkedéselemző |  |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  | 75 |  |
+
+|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló |  |
+
+|  |  | szociális szakgondozó | szenvedélybeteg gondozó |  |  |
+
+|  |  | szociális segítő | szociális asszisztens | mentálhigiénés asszisztens |  |  |
+
+|  |  |  |  | szociokulturális animátor |  |  |
+
+|  |  |  |  | foglalkoztatás szervező |  |  |
+
+|  |  |  | rehabilitációs nevelő, segítő |  |  |  |
+
+## 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
+
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 50 |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló | 50 |  |
+
+| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | szociális gondozó és ápoló |  | 90 |  |
+
+|  |  | szociális szakgondozó | szenvedélybeteg gondozó |  |
+
+|  |  | szociális gondozó, szervező |  |
+
+|  |  |  | ápolási asszisztens |  |
+
+| szociális munkatárs | szociális munkás | 25 |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |
+
+|  |  | szociális segítő | szociális asszisztens |  | 75 |
+
+|  |  | rehabilitációs nevelő, segítő |  |
+
+| mentálhigiénés munkatárs | viselkedéselemző | 25 |  |  |  |  |
+
+| okleveles pszichológus |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |
+
+|  |  | szociális segítő |  | mentálhigiénés asszisztens | 75 |
+
+|  |  | foglalkoztatás szervező |  |
+
+|  |  |  |  | szociokulturális animátor |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+## Kiegészítő szabályok:
+
+## 1. Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+
+## 2. 2010. január 1-je után pszichológus képzettség esetén a pszichológus (BA) oklevél nem fogadható el.
+
+## 3. A mellékletben szereplő képesítések alatt az alábbi, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben meghatározott számú szakképesítések értendők.
+
+| Szakképesítés megnevezése | Azonosító szám | Szakképesítés megnevezése | Azonosító szám |
+
+| Általános ápoló | 54 723 01 | Gyógypedagógiai asszisztens | 54 140 01 |
+
+| - Ápolási asszisztens | 54 723 01 0100 33 01 | - Autisták gyógypedagógiai asszisztense | 54 140 01 0001 54 01 |
+
+| - Gyakorló ápoló | 54 723 01 0100 52 01 | - Beszédfogyatékosok gyógypedagógia asszisztense | 54 140 01 0001 54 02 |
+
+| - Ápoló | 54 723 01 0010 54 01 | - Értelmileg sérültek gyógypedagógia asszisztense | 54 140 01 0001 54 03 |
+
+| - Csecsemő- és gyermekápoló | 54 723 01 0010 54 02 | - Hallásfogyatékosok gyógypedagógia asszisztense | 54 140 01 0001 54 04 |
+
+| - Diabetológiai szakápoló | 54 723 01 0001 54 01 | - Látásfogyatékosok gyógypedagógia asszisztense | 54 140 01 0001 54 05 |
+
+| - Felnőtt aneszteziológia és intenzív szakápoló | 54 723 01 0001 54 03 | - Pszichés fejlődésben akadályozottak gyógypedagógia asszisztense | 54 140 01 0001 54 06 |
+
+| - Foglalkozás-egészségügyi szakápoló | 54 723 01 0001 54 04 | - Súlyosan és halmozottan fogyatékosok gyógypedagógia asszisztense | 54 140 01 0001 54 07 |
+
+| - Geriátriai szakápoló | 54 723 01 0001 54 05 | - Testi fogyatékosok gyógypedagógia asszisztense | 54 140 01 0001 54 08 |
+
+| - Hospice szakápoló | 54 723 01 0001 54 07 | Rehabilitációs tevékenység terapeuta | 54 726 01 |
+
+| - Körzeti közösségi szakápoló | 54 723 01 0001 54 08 | - Gyógyfoglalkoztató | 54 726 01 0100 51 01 |
+
+| - Légzőszervi szakápoló | 54 723 01 0001 54 09 | Szociális gondozó | 33 762 01 |
+
+| - Nefrológia szakápoló | 54 723 01 0001 54 10 | - Fogyatékossággal élők gondozója | 33 762 01 0010 33 01 |
+
+| - Onkológia szakápoló | 54 723 01 0001 54 11 | - Szociális gondozó és ápoló | 33 762 01 0010 33 02 |
+
+| - Pszichiátriai szakápoló | 54 723 01 0001 54 12 | Szociális segítő | 54 762 01 |
+
+| - Sürgősségi szakápoló | 54 723 01 0001 54 13 | - Rehabilitációs nevelő, segítő | 54 762 01 0010 54 01 |
+
+| Egészségügyi asszisztens | 52 720 01 | - Szociális asszisztens | 54 762 01 0010 54 02 |
+
+| - Általános asszisztens | 52 720 01 0010 52 01 | - Szociális, gyermek- és ifjúságvédelmi ügyintéző | 54 762 01 0010 54 03 |
+
+| - Fizioterápiás szakasszisztens | 52 720 01 0001 54 03 | - Foglalkoztatás-szervező | 54 762 01 0001 54 01 |
+
+| Csecsemő- és gyermeknevelő, gondozó | 55 761 01 | - Mentálhigiénés asszisztens | 54 762 01 0001 54 02 |
+
+| Gyermekgondozó-nevelő | 54 761 02 | - Szociokulturális animátor | 54 762 01 0001 54 03 |
+
+| - Gyermek- és ifjúsági felügyelő | 54 761 02 0100 33 01 | Szociális szakgondozó | 54 762 02 |
+
+| - Gyermekotthoni asszisztens | 54 761 02 0010 54 01 | - Gerontológiai gondozó | 54 762 02 0010 54 01 |
+
+| - Kisgyermekgondozó,- nevelő | 54 761 02 0010 54 02 | - Pszichiátriai gondozó | 54 762 02 0010 54 02 |
+
+| Mentőápoló | 52 723 01 | - Szenvedélybeteg gondozó | 54 762 02 0010 54 03 |
+
+| Pedagógiai asszisztens | 52 140 01 | - Szociális gondozó, szervező | 54 762 02 0010 54 04 |
+
+| Masszőr | 52 726 01 |  |  |
+
+| - Gyógymasszőr | 52 726 01 0010 52 01 |  |  |
+
+| Jelnyelvi tolmács | 52 223 01 |  |  |
+
+| Ifjúságsegítő | 55 762 01 |  |  |
+
+## 4. A 3. számú mellékletben az adott munkakörök képesítési minimum alkalmazási feltételei esetében %-os arányok jelzik, hogy az adott munkakörben hány %-ban szükséges a felsorolt képesítéssel rendelkező szakembereket alkalmazni. Azon munkaköröknél, ahol ez az arány nem éri el a 100 %-ot, az intézményvezető döntésére bízott, hogy az adott munkakörben a feladatellátás és kompetencia igénye szerint, milyen képesítéssel rendelkező szakembert alkalmaz (ezen szakemberek a 6. § (1) bekezdése vonatkozásában szakképzettnek tekintendők).
+
+## 5. Szociális szolgáltató vagy intézmény esetében a diakónus, az okleveles teológus, továbbá az okleveles pasztorális tanácsadó szakképzettségek elfogadhatók intézményvezetői, illetve mentálhigiénés munkakörökben.
+
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^250]
+
+Étkeztetésre vonatkozó igénybevételi napló
+
+Dátum: ...... év ...................... hónap
+
+[^250]: A 4. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.

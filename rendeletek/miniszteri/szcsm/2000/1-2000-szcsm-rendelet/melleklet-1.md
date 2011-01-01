@@ -1,4 +1,4 @@
-## 115. §[^235]
+## 115. §[^247]
 
 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
 
@@ -28,4 +28,4 @@ III. Műszaki ellátási szabályzatok
 
 3. gépjármű használati szabályzat
 
-[^235]: A 115. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.
+[^247]: A 115. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte.

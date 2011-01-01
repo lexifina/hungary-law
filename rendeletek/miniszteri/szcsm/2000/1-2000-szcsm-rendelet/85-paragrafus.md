@@ -14,6 +14,6 @@
 
 (5) Az átmeneti elhelyezést nyújtó intézményekre az 50. § (2) bekezdés g) pontjában, az 54. § (1) bekezdés d) pontjában, az 55. § (1) bekezdés a) és c) pontjában, (2) bekezdésében, 56. §-ában, 58–59. §-ában foglaltakat nem kell alkalmazni.
 
-(6)[^185] Az (1) és a (3) bekezdés szerinti egyéves időtartam számításakor az átmeneti elhelyezést nyújtó intézményben töltött időszakokat – ha az ellátás megszakítása kevesebb mint 30 napra történt – össze kell adni.
+(6)[^198] Az (1) és a (3) bekezdés szerinti egyéves időtartam számításakor az átmeneti elhelyezést nyújtó intézményben töltött időszakokat – ha az ellátás megszakítása kevesebb mint 30 napra történt – össze kell adni.
 
-[^185]: A 85. § (6) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 10. §-a iktatta be.
+[^198]: A 85. § (6) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 10. §-a iktatta be.
