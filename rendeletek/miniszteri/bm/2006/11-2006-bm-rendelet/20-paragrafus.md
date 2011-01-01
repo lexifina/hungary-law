@@ -12,11 +12,11 @@ d) aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés vagy 
 
 (3) Ha az eljárás alá vont a meghallgatáson szabályszerű értesítés ellenére nem jelent meg és írásos védekezését sem terjesztette elő vagy nem kívánt az ügy érdemére nyilatkozni, a vizsgáló írásban, illetve a jegyzőkönyvben tájékoztatja, hogy az ügyét a védekezése előterjesztése hiányában a rendelkezésre álló adatok alapján fogják elbírálni.
 
-(4)[^12] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
+(4)[^15] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
 
 a) milyen ügyben kívánják meghallgatni,
 
-b)[^13] nem terheli tanúzási kötelezettség, ha nem fegyveres szerv állományába tartozik,
+b)[^16] nem terheli tanúzási kötelezettség, ha nem fegyveres szerv állományába tartozik,
 
 c) nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés vagy fegyelemsértés elkövetésével vádolná,
 
@@ -24,7 +24,7 @@ d) aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés vagy 
 
 e) a fegyelmi ügyben elkövetett hamis tanúzást a törvény büntetni rendeli,
 
-f)[^14] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
+f)[^17] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
 
 (5) A tanútól csak olyan személyes adat közlése kérhető, amely a személye azonosításához, illetve elérhetőségéhez feltétlen szükséges.
 
@@ -48,7 +48,7 @@ f) az eljárás alá vont adatait [születési évét és helyét, anyja leányk
 
 g) a tanú adatait (nevét, születési évét és helyét, anyja leánykori nevét, lakcímét, tartózkodási helyét – ha a szerv állományába tartozik lakcím helyett a munkakörét, szolgálati beosztását),
 
-h)[^15] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
+h)[^18] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
 
 i) a meghallgatott tájékoztatását a vizsgálat tárgyáról,
 
@@ -74,7 +74,7 @@ p) záradékot és a jelenlevők aláírásait.
 
 (12) Ha a tanú és az eljárás alá vont nyilatkozata között olyan lényeges ellentmondás van, amely az ügy érdemi elbírálását befolyásolhatja, meg kell kísérelni az ellentmondást szembesítéssel feloldani. Nincs helye szembesítésnek, ha a tanú vagy az eljárás alá vont a szembesítést nem vállalja. Szembesítéskor a vizsgáló által feltett kérdésekre adott válaszokat szó szerint kell lejegyezni és a nyilatkozatokat külön-külön aláíratni.
 
-[^12]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított szöveg.
-[^14]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^15]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított szöveg.
+[^17]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^18]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.

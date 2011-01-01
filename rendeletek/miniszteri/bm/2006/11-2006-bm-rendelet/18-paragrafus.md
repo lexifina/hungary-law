@@ -6,8 +6,8 @@
 
 (4) Hivatásos állományú értesítését a szolgálati út betartásával kell teljesíteni. Ha erre az idő rövidsége miatt nincs lehetőség, a meghallgatásának tervezett időpontjáról az értesített szolgálati elöljáróját az értesítéssel egyidejűleg tájékoztatni kell.
 
-(5)[^10] Nem fegyveres szerv, illetve a nem a miniszter irányítása alatt álló szerv állományába tartozó tanút a tervezett meghallgatása érdekében a vizsgáló személyesen megkeresi. A tanút tájékoztatni kell arról, hogy milyen ügyben és mikor kívánják meghallgatni, valamint arról, hogy a fegyelmi ügyben nem köteles tanúvallomást tenni. A tanúnak fel kell ajánlani, hogy tanúvallomása felvételére – választása szerint – lakhelyén vagy a fegyveres szerv hivatali helyiségében is sor kerülhet. A tanú nyilatkozatának megfelelően az írásbeli értesítést részére kézbesíteni kell.
+(5)[^13] Nem fegyveres szerv, illetve a nem a miniszter irányítása alatt álló szerv állományába tartozó tanút a tervezett meghallgatása érdekében a vizsgáló személyesen megkeresi. A tanút tájékoztatni kell arról, hogy milyen ügyben és mikor kívánják meghallgatni, valamint arról, hogy a fegyelmi ügyben nem köteles tanúvallomást tenni. A tanúnak fel kell ajánlani, hogy tanúvallomása felvételére – választása szerint – lakhelyén vagy a fegyveres szerv hivatali helyiségében is sor kerülhet. A tanú nyilatkozatának megfelelően az írásbeli értesítést részére kézbesíteni kell.
 
 (6) Az eljárás alá vont és a tanú (sértett) írásos vagy jegyzőkönyvbe vett kérelme vagy egyetértő nyilatkozata esetén a Hszt. 133. §-ának (1) bekezdésében meghatározott időpontnál hamarabb is megtartható a meghallgatása (folytatólagos meghallgatása), illetve a szembesítés.
 
-[^10]: A 18. § (5) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 18. § (5) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.

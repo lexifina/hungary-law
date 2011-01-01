@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-11-20-0
 | --- | --- | --- |
 | 2010-01-01 | 2006-11-20-0A.4 | 11/2006. (III. 14.) BM rendelet |
 | 2010-05-17 | 2006-11-20-0A.5 | 33/2010. (V. 12.) IRM–ÖM együttes rendelet |
+| 2011-01-01 | 2006-11-20-0A.6 | 16/2010. (XII. 31.) BM rendelet |
