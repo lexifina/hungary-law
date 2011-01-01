@@ -1,4 +1,4 @@
-8. § (1) A hatósági közvetítő köteles az alábbiakról való tudomásszerzésétől számított három munkanapon belül közölni a kirendeléséről határozó hatósággal, ha
+8. § (1)[^1] A hatósági közvetítő köteles az alábbiakról való tudomásszerzésétől számított öt napon belül közölni a kirendeléséről határozó hatósággal, ha
 
 a) a személyére nézve a hatósági közvetítői tevékenységet kizáró ok áll fenn,
 
@@ -6,7 +6,7 @@ b) az ügyben a közigazgatási hatósági eljárás általános szabályairól 
 
 c) hatósági közvetítői tevékenységének ellátásában akadályozott.
 
-(2) A hatósági közvetítői tevékenységre vonatkozó kizárási okot a hatósági közvetítő kirendeléséről, illetve a kizárási okról való tudomásszerzéstől számított öt munkanapon belül az ügyfél is bejelentheti.
+(2)[^2] A hatósági közvetítői tevékenységre vonatkozó kizárási okot a hatósági közvetítő kirendeléséről, illetve a kizárási okról való tudomásszerzéstől számított nyolc napon belül az ügyfél is bejelentheti.
 
 (3) A hatóság másik hatósági közvetítő kirendelése iránt intézkedik
 
@@ -19,3 +19,6 @@ c) ha a hatósági közvetítő nem látja el feladatát,
 d) ha az eljárás időtartama alatt a Kormány általános hatáskörű területi államigazgatási szerve a közvetítői tevékenységet az adott személy tekintetében megtiltotta, vagy
 
 e) ha a hatósági közvetítőt a hatósági közvetítői nyilvántartásból – a lakcímváltozás esetét kivéve – egyébként törölték.
+
+[^1]: A 8. § (1) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (118) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^2]: A 8. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (118) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
