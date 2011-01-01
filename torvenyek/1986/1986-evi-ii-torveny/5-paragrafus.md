@@ -1,1 +1,0 @@
-Tv. 5. § A sajtó – az érdekelt hozzájárulása nélkül is – tájékoztatást adhat az állami szervek, a gazdálkodó szervezetek, a társadalmi szervezetek és egyesületek, valamint ezek bizottságai nyilvános üléséről, továbbá a bíróságok nyilvános tárgyalásairól.
