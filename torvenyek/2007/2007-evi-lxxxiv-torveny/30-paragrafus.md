@@ -4,7 +4,7 @@
 
 (2) E törvény rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotrosszabbodás miatti igénybejelentést is – esetén kell alkalmazni.
 
-(3) Annak az egészségkárosodást szenvedett személynek, aki 2011. december 31-éig a rá irányadó – a Tny.-ben meghatározott – nyugdíjkorhatárt öt éven belül eléri, és a rehabilitációs járadékra megállapított jogosultsági feltételeknek megfelel
+(3) Annak az egészségkárosodást szenvedett személynek, aki 2011. december 31-éig a rá irányadó – a Tny.-ben meghatározott – nyugdíjkorhatárt tíz éven belül eléri, és a rehabilitációs járadékra megállapított jogosultsági feltételeknek megfelel
 
 a) 2007. december 31-ét követően benyújtott igénybejelentés esetén, valamint
 

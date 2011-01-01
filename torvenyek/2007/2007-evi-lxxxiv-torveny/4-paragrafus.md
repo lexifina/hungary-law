@@ -2,7 +2,11 @@
 
 4. § (1) A rehabilitációs járadék összege – a magánnyugdíj-pénztári tagságtól függetlenül – megegyezik a rokkantsági nyugdíj (III. rokkantsági csoport) összegének 120%-ával. A rehabilitációs járadék legkisebb összege megegyezik a rokkantsági nyugdíj legkisebb összegének (III. rokkantsági csoport) 120%-ával.
 
-(2) A rehabilitációs járadéknak az (1) bekezdés szerint megállapított összegét 50%-kal csökkenteni kell, ha kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő 3 egymást követő hónapra vonatkozó – a személyi jövedelemadóval és a Tny. 13. §-a (1) bekezdésének a) pontja szerinti járulékokkal csökkentett – keresetének, jövedelmének havi átlaga meghaladja a rokkantsági nyugdíj alapját képező havi átlagkereset összegének 90 százalékát, illetve annak a megállapítást követően a rendszeres nyugdíjemelés(ek) mértékével növelt összegét, de legalább a mindenkori kötelező legkisebb munkabér (minimálbér) összegét.
+(2) A rehabilitációs járadék összegét ötven százalékkal csökkenteni kell, ha kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő három egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
+
+a) a rehabilitációs járadék összegének kétszeresét és
+
+b) a mindenkori kötelező legkisebb munkabér összegét.
 
 (3) A rehabilitációs járadék összegének meghatározása során a Tny.-nek a rokkantsági nyugdíj összegének meghatározására vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a 3. § (2) bekezdése szerint a jogosultsághoz szükséges szolgálati időbe beszámított rokkantsági, baleseti rokkantsági nyugdíj időtartamát figyelmen kívül kell hagyni. A rokkantsági nyugdíj felülvizsgálata során megállapított rehabilitációs járadék összege nem lehet kevesebb a jogosultság utolsó hónapjára járó rokkantsági nyugdíj összegénél.
 

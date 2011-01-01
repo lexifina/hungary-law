@@ -7,3 +7,5 @@ b) a rehabilitáció részét képező szolgáltatások körét, a rehabilitáci
 c) a komplex minősítésre vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyugdíjbiztosítási igazgatási szervet vagy szerveket, valamint a rehabilitációs szakértői, illetve orvosszakértői szervet vagy szerveket, továbbá rendeletben határozza meg a szakértői szervek eljárásának és a felülvizsgálat rendjét.
+
+(3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az egészségkárosodás minősítésére, illetve a komplex minősítésre vonatkozó részletes szakmai szabályokat.

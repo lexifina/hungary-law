@@ -10,7 +10,11 @@ c) az ellátás időtartama eltelt,
 
 d) a rehabilitációs járadékban részesülő három naptári hónapot meghaladóan, egybefüggően külföldön tartózkodik, vagy bejelentett magyarországi lakóhelye megszűnik,
 
-e) kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő 6 egymást követő hónapra vonatkozó – a személyi jövedelemadóval és a Tny. 13. §-a (1) bekezdésének a) pontja szerinti járulékokkal csökkentett – keresetének, jövedelmének havi átlaga meghaladja a rokkantsági nyugdíj alapját képező havi átlagkereset összegének 90 százalékát, illetve annak a megállapítást követően a rendszeres nyugdíjemelés(ek) mértékével növelt összegét, de legalább a mindenkori kötelező legkisebb munkabér (minimálbér) összegét,
+e) kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő hat egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
+
+ea) a rehabilitációs járadék – 4. § (2) bekezdése szerinti csökkentést megelőzően folyósított – összegének kétszeresét és
+
+eb) a mindenkori kötelező legkisebb munkabér összegét,
 
 f) a rehabilitációs járadékban részesülő egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 
@@ -18,7 +22,7 @@ g) a rehabilitációs járadékban részesülő az együttműködési kötelezet
 
 h) a rehabilitációs járadékban részesülő foglalkoztatására ismételten a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor.
 
-(2) Az állami foglalkoztatási szerv az (1) bekezdés a) és d) és f)–g) pontjában meghatározott feltételek bekövetkezése esetén öt munkanapon belül értesíti nyugdíjbiztosítási igazgatási szervet.
+(2) Az állami foglalkoztatási szerv az (1) bekezdés a) és d) és f)–g) pontjában meghatározott feltételek bekövetkezése esetén nyolc napon belül értesíti nyugdíjbiztosítási igazgatási szervet.
 
 (3) A 4. § (2) bekezdésében meghatározottak, valamint az (1) bekezdés e) pontjában foglalt megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 31. §-ának (2) bekezdése szerinti bevallás alapján a rehabilitációs járadékban részesülő keresetére, jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a nyugdíjbiztosítási igazgatási szervhez. Az így továbbított adatok törléséről a nyugdíjbiztosítási igazgatási szerv a továbbítást követő hetedik hónap utolsó napjáig gondoskodik.
 
