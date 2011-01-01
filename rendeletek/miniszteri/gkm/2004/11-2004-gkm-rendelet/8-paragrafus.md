@@ -1,6 +1,6 @@
 ## Eljárás rendkívüli esemény alkalmával
 
-8. § (1)[^9] A csatlakozó vezetékkel vagy a fogyasztói berendezéssel kapcsolatos rendkívüli eseményeket háztartási és kommunális fogyasztó esetében a szolgáltatói engedélyes, feljogosított fogyasztó esetében a fogyasztó köteles a Hivatal mérésügyi és műszaki biztonsági hatóságának haladéktalanul bejelenteni, majd a bejelentést 24 órán belül írásban megerősíteni.
+8. § (1)[^10] A csatlakozó vezetékkel vagy a fogyasztói berendezéssel kapcsolatos rendkívüli eseményeket háztartási és kommunális fogyasztó esetében a szolgáltatói engedélyes, feljogosított fogyasztó esetében a fogyasztó köteles a hatóságnak haladéktalanul bejelenteni, majd a bejelentést 24 órán belül írásban megerősíteni.
 
 (2) A rendkívüli esemény helyszíne a vizsgálat befejezéséig nem változtatható meg, kivéve, ha a további károk, balesetek megelőzése vagy más ok ezt indokolttá és szükségessé teszi; ebben az esetben a helyszínt fénykép-, videofelvétellel, vázlat készítésével rögzíteni kell.
 
@@ -34,4 +34,4 @@ c) az esemény megismétlődését kizáró intézkedéseket.
 
 (7) A létesítmény ismételt üzembe helyezése csak a hibák, az eseményt előidéző okok megszüntetése és a létesítmény ismételt felülvizsgálata után történhet.
 
-[^9]: A 8. § (1) bekezdése a 127/2005. (XII. 29.) GKM rendelet 23. § (2) bekezdésével megállapított, valamint a 87/2006. (XII. 26.) GKM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdése a 127/2005. (XII. 29.) GKM rendelet 23. § (2) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 38. § (3) bekezdése szerint módosított szöveg.

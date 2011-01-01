@@ -12,7 +12,7 @@ d) 3000 m3/óra feletti teljesítmény igény esetén 4,5 napidíj.
 
 A kivitelezést követően a bekapcsolás előtti műszaki-biztonsági ellenőrzéséért a területileg illetékes elosztói engedélyesnek 1 napidíj, illetőleg óránkénti átalánydíjat kell megállapítania.
 
-A napidíj, illetőleg óránkénti átalánydíj meghatározásánál a külön jogszabályban[^5] meghatározott naponta, illetőleg órára meghatározott átalánydíj összeggel kell számolni.
+A napidíj, illetőleg óránkénti átalánydíj meghatározásánál a külön jogszabályban[^6] meghatározott naponta, illetőleg órára meghatározott átalánydíj összeggel kell számolni.
 
 (3) A hiánypótlásra visszaadott kiviteli terv módosításának, kiegészítésének ismételt felülvizsgálati díja a napidíj 50%-a.
 
@@ -20,4 +20,4 @@ A napidíj, illetőleg óránkénti átalánydíj meghatározásánál a külön
 
 (5) A területileg illetékes elosztói engedélyes a 2. § (1) bekezdésében meghatározott díjon felül 25% ÁFA-t számít fel.
 
-[^5]: A műszaki-biztonsági felügyeletet ellátó szervezet egyes államigazgatási eljárásainak és igazgatási jellegű szolgáltatásainak díjairól szóló, többször módosított 15/1997. (IV. 4.) IKIM rendelet mellékletének VIII. fejezete.
+[^6]: A műszaki-biztonsági felügyeletet ellátó szervezet egyes államigazgatási eljárásainak és igazgatási jellegű szolgáltatásainak díjairól szóló, többször módosított 15/1997. (IV. 4.) IKIM rendelet mellékletének VIII. fejezete.
