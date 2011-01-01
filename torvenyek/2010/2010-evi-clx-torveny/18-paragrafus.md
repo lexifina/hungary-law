@@ -1,13 +1,5 @@
 18. § Az MFB Tv. 2. § h) pontja és a 3. § (8), (14) és (15) bekezdése hatályát veszti.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Dr. Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a CLX. törvényhez
 
 „2. számú melléklet a 2001. évi XX. törvényhez

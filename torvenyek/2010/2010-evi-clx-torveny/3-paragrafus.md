@@ -1,6 +1,6 @@
 3. § Az MFB Tv. 4. §-a helyébe a következő rendelkezés lép:
 
-„4. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatai ellátása érdekében pénzügyi szolgáltatási tevékenységet közvetlenül vagy más hitelintézeten keresztül végezhet.
+„4. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatai ellátása érdekében pénzügyi szolgáltatási tevékenységet közvetlenül vagy más pénzügyi intézményen keresztül végezhet.
 
 (2) Az MFB Zrt. beruházáshoz kapcsolódó fejlesztési célú hitelen, illetőleg kölcsönön kívül kizárólag
 
