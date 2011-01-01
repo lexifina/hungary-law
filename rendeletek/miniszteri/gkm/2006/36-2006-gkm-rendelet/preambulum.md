@@ -1,1 +1,0 @@
-A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 88. §-a (2) bekezdésének 19. pontjában, valamint a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás alapján a következőket rendelem el:
