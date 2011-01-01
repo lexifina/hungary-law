@@ -78,6 +78,6 @@
 
 | ÖSSZESEN |  |  |  |  |  |  |  |
 
-6. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^19]
+6. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^23]
 
-[^19]: A 6. számú melléklet a 319/2005. (XII. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg. E módosító rendelet 23. § (3) bekezdése alapján rendelkezéseit a 2005. évről összeállított éves költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^23]: A 6. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.

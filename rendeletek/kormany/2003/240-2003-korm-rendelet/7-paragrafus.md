@@ -1,4 +1,4 @@
-## 6. § A központi költségvetés közvetlen bevételeinek és kiadásainak mérlegét az adott évi költségvetési törvény éves mérlege alapján kell összeállítani. A mérleg előirányzatra (eredeti és módosított) és teljesítésre vonatkozó adatokat tartalmaz.
+## 6. §[^4] A központi alrendszer mérlegét az adott évi költségvetési törvény éves mérlege alapján kell összeállítani. A mérleg-előirányzatra (eredeti és módosított) és teljesítésre vonatkozó adatokat tartalmaz.
 
 7. § (1) A finanszírozási mérleg tartalmazza:
 
@@ -13,3 +13,5 @@ d) a finanszírozási célú műveletek forgalmát, illetve azok egyenlegét,
 e) a kincstári pénzeszközök állományának változását.
 
 (2) A finanszírozási mérleget az 1. számú melléklet szerint kell összeállítani.
+
+[^4]: A 6. § a 350/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

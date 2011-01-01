@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-240-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2003-240-20-22.8 | 240/2003. (XII. 17.) Korm. rendelet |
+| 2011-01-01 | 2003-240-20-22.9 | 350/2010. (XII. 28.) Korm. rendelet |

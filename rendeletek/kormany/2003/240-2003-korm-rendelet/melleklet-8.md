@@ -18,6 +18,6 @@
 
 | Összes számla |  |  |  |  |  |  |
 
-8. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^21]
+8. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^25]
 
-[^21]: A 8. számú melléklet a 317/2009. (XII. 29.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg. E módosító rendelet 40. § (1) bekezdése alapján rendelkezéseit először a 2010. évről készített beszámolókra kell alkalmazni.
+[^25]: A 8. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 117. §-a szerint módosított szöveg.
