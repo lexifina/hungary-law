@@ -4,7 +4,7 @@
 
 (2) A kérelemnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n), továbbá a 6. § (2) bekezdés f) pontjaiban foglaltak kivételével – tartalmaznia. A kérelemhez csatolni kell a 6. § (1) bekezdésének c), f) és m) pontjában írtak igazolására szolgáló iratok hiteles másolatát.
 
-(3) Ha a kérelem hiányos, a miniszter a kérelmezőt 22 munkanapos határidő megjelölésével a hiányok pótlására hívja fel.
+(3) Ha a kérelem hiányos, a miniszter a kérelmezőt harmincnapos határidő megjelölésével a hiányok pótlására hívja fel.
 
 (4)
 
