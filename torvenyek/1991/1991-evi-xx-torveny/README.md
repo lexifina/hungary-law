@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-20-00-00
 | 2009-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1991-20-00-00.42 |
 | 2010-07-01 | 2010. évi XLVIII. törvény | 1991-20-00-00.43 |
 | 2010-09-01 | 2010. évi XLIII. törvény | 1991-20-00-00.44 |
+| 2011-01-01 | 2010. évi CXXVI. törvény | 1991-20-00-00.45 |
