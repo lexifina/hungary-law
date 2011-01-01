@@ -44,7 +44,11 @@ b) a hitelintézet ügyletbe történő lépését követő ötödik munkanap
 
 19. megújulási kockázat: az az összeg, amellyel a várható pozitív kitettséget alulértékelik, amikor egy partnerrel kötött jövőbeni ügyletek várhatóan folyamatosan zajlanak azzal, hogy az ezekből a jövőbeni ügyletekből származó pótlólagos kitettség nem képezi részét a várható pozitív kitettség számításának;
 
-20. nettósítási halmaz: azonos partnerrel létrejött olyan ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyekre a nettósítást az e rendeletben meghatározott szerződéses nettósítás és Hkr. Negyedik Része lehetővé teszi;
+20.[^1] nettósítási halmaz:
+
+20.1. azonos partnerrel létrejött olyan ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyekre a nettósítást az e rendeletben meghatározott szerződéses nettósítás és a Hkr. Negyedik Része lehetővé teszi,
+
+20.2. a belső modell módszer alkalmazásánál egy azonos partnerrel létrejött 20.1. pont szerinti ügyletcsoportok összessége, ha a várható kitettség (EE) becslésénél a negatív piaci értéket a modellszámítások során nullának tekintik.
 
 21. partnerkockázat: az ügyletben érintett partnernek az ügylet pénzáramlása végleges elszámolása előtti nemteljesítésének kockázata;
 
@@ -65,3 +69,5 @@ b) a hitelintézet ügyletbe történő lépését követő ötödik munkanap
 29. várható pozitív kitettség: a várható kitettségnek időbeli súlyozott átlaga, ahol a súly megegyezik az egyedi várható kitettségnek az egész időintervallumra viszonyított arányával azzal, hogy a minimális tőkekövetelmény számításakor az első év átlagát kell venni, illetve ha a nettósítási halmazban szereplő valamennyi szerződés egy éven belül esedékessé válik, a nettósítási halmazban lévő leghosszabb futamidejű szerződés időtartama alapján kell az átlagot számítani.
 
 (2) Az (1) bekezdésben meg nem határozott fogalomra a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú mellékletének, a Hkr.-nek, valamint a Kkr.-nek az értelmező rendelkezései az irányadóak.
+
+[^1]: A 2. § (1) bekezdés 20. pontja a 349/2010. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
