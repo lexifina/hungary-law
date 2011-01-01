@@ -10,7 +10,7 @@ b) az adott ellátás tekintetében a biztosított ellátására területileg k�
 
 (4) Az intézményi várólistára felvett betegeket az átvevő egészségügyi szolgáltató értesíti az intézményi várólistára történő felvételről, valamint arról, hogy várhatóan milyen időpontban tudják számára nyújtani az adott ellátást.
 
-(5)[^32] Az (1)–(4) bekezdés szerinti eljárással szemben az Országos Egészségbiztosítási Pénztár központi szervénél lehet panasszal élni.
+(5)[^32] Az (1)–(4) bekezdés szerinti eljárással szemben az Országos Egészségbiztosítási Pénztárnál lehet panasszal élni.
 
 [^31]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.
-[^32]: A 13/E. § (5) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^32]: A 13/E. § (5) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § c) pontja, a 351/2010. (XII. 30.) Korm. rendelet 165. §-a szerint módosított szöveg.

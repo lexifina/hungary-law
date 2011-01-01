@@ -40,7 +40,7 @@
 
 6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^38]
 
-Várólista jelentés az Országos Egészségbiztosítási Pénztár központi szerve részére
+Várólista jelentés az Országos Egészségbiztosítási Pénztár részére
 
 A jelentés adattartalma a következő:
 
@@ -64,7 +64,7 @@ A jelentés adattartalma a következő:
 
 | Nincs esemény (várakozás) Csak igénybevett ellátás esetén kitöltendő. | NES |
 
-Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási Pénztár központi szerve részére
+Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási Pénztár részére
 
 (Járóbeteg-ellátás esetén szakrendelésenként)
 
@@ -90,4 +90,4 @@ A jelentés adattartalma a következő:
 
 | Nincs esemény (várakozás) Csak igénybevett ellátás estén kitöltendő. | NES |
 
-[^38]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^38]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § d) pontja, a 351/2010. (XII. 30.) Korm. rendelet 165. §-a szerint módosított szöveg.
