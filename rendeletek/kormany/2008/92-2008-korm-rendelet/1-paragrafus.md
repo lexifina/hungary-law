@@ -20,6 +20,7 @@ b) szociális foglalkoztatás: az ellátottak Szt. szerinti szociális foglalkoz
 
 c) szociális szakértő: – elsősorban az Országos Szociálpolitikai Szakértői Névjegyzékben szereplő – általános szociális munkás, szociális munkás, szociálpolitikus, szociálpedagógus és szociális szervező,
 
-d) foglalkoztatási szakértő: a regionális munkaügyi központ foglalkozási rehabilitációs munkatársa, illetve a Munkaügyi Szakértők Országos Névjegyzékében szereplő vagy az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: ORSZI) által foglalkoztatott foglalkoztatási, illetve foglalkozási rehabilitációs szakértő.
+d)[^2] foglalkoztatási szakértő: a munkaügyi központ foglalkozási rehabilitációs munkatársa, illetve a Munkaügyi Szakértők Országos Névjegyzékében szereplő vagy a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) által foglalkoztatott foglalkoztatási, illetve foglalkozási rehabilitációs szakértő.
 
 [^1]: Az 1. § (1) bekezdés c) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés b) pont ba) alpontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés a) pontja, a 357/2010. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
