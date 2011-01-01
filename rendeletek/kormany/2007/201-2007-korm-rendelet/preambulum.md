@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, illetve a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
