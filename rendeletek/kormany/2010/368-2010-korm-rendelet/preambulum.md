@@ -1,0 +1,1 @@
+A Kormány a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 28. § (1) bekezdésének a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
