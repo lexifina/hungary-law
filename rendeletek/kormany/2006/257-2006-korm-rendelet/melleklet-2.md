@@ -1,54 +1,52 @@
-## A Bátaapátiban építendő kis és közepes aktivitású radioaktív hulladéktároló létesítésének engedélyezési
+## A Bátaapátiban építendő kis és közepes aktivitású radioaktív hulladéktároló létesítésének engedélyezési eljárása, az eljárás lefolytatására kijelölt első- és másodfokú eljáró hatóságok
 
-## eljárása, az eljárás lefolytatására kijelölt első- és másodfokú eljáró hatóságok
+| Létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításához szükséges engedély | Első fokú eljáró hatóság | Másodfokú eljáró hatóság |
 
-| Létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításához szükséges engedély | Elsőfokú eljáró hatóság | Másodfokú eljáró hatóság |
+| Kis és közepes aktivitású radioaktív hulladéktároló | Bátaapáti hrsz.: 0112/2, 0114/1, 0115, 0119, 0123/1, 0124/4, 0124/8 | környezetvédelmi engedély | Közép-dunántúli Környezetvédelmi, Területvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
 
-| Kis és közepes aktivitású radio- aktív hulladék- tároló | Bátaapáti hrsz.: 0112/2, 0114/1, 0115, 0119, 0123/1, 0124/4, 0124/8 | környezetvédelmi engedély | Közép-dunántúli Környezetvédelmi, Területvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
+|  |  | tároló létesítési engedély | Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-|  |  | tároló létesítési engedély | Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) Tolna Megyei Intézete | Országos Tisztifőorvosi Hivatal |
-
-2. melléklet a 257/2006. (XII. 15.) Korm. rendelethez[^1]
+2. melléklet a 257/2006. (XII. 15.) Korm. rendelethez[^2]
 
 Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 1. Környezetvédelmi engedély:
 
-|  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+|  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| környezet- és település-egészségügy | ÁNTSZ Dél-Dunántúli Regionális Intézete | Országos Tisztifőorvosi Hivatal |
+| környezet- és település-egészségügy | Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| helyi környezet- és természetvédelem | érintett települési önkormányzat jegyzője | Tolna Megyei Közigazgatási Hivatal |
+| helyi környezet- és természetvédelem | érintett települési önkormányzat jegyzője | Tolna Megyei Kormányhivatal |
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
 | földművelésügy: |  |  |
 
-| – erdővagyonvédelem | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal, Pécs | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| - erdővagyonvédelem | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| – talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| – termőföld mennyiségi védelem | illetékes körzeti földhivatal | Tolna Megyei Földhivatal |
+| - termőföld mennyiségi védelem | Tolna Megyei Kormányhivatal illetékes körzeti földhivatala | Tolna Megyei Kormányhivatal Földhivatala |
 
-| közlekedés | Nemzeti Közlekedési Hatóság Dél-Dunántúli Regionális Igazgatóság | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal Pécsi Regionális Iroda | Kulturális Örökségvédelmi Hivatal elnöke |
+| kulturális örökségvédelem | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
 | földtani közeg, ásványi nyersanyag védelme | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | lakosság életének védelme | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| településrendezési előírásokkal való összhang | illetékes építésügyi hatóság | Tolna Megyei Közigazgatási Hivatal |
+| településrendezési előírásokkal való összhang | illetékes építésügyi hatóság | Tolna Megyei Kormányhivatal |
 
 | területrendezési tervekkel való összhang | illetékes állami főépítész | területrendezésért felelős miniszter |
 
 2. Radioaktív hulladéktároló létesítési és üzemeltetési engedély:
 
-|  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+|  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
 | környezetvédelem | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
 
-| építésügy | Tolna Megyei Közigazgatási Hivatal | építésügyért felelős miniszter |
+| építésügy | Tolna Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
@@ -56,15 +54,15 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | földművelésügy: |  |  |
 
-| – állategészségügy | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| - állategészségügy | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| – talaj (termőföld) védelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal, Szekszárd | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| közlekedés | Nemzeti Közlekedési Hatóság Dél-Dunántúli Regionális Igazgatóság | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központi |
 
 | rendészet: |  |  |
 
-| – rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
+| - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
 | polgári védelem, tűzvédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -74,12 +72,12 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 3. Radioaktív anyag közúti szállítási engedély:
 
-|  | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+|  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| közlekedés | Tolna Megyei Közlekedési Felügyelet | Közlekedési Főfelügyelet |
+| közlekedés | Tolna Megyei Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság központja |
 
 | rendészet: |  |  |
 
-| – | rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
+| - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^1]: A 2. melléklet a 337/2007. (XII. 13.) Korm. rendelet 30. §-a, a 393/2007. (XII. 27.) Korm. rendelet 6. § (5) bekezdésének b) pontja, a 234/2010. (VIII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított szöveg.
