@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2003-96-20-22.18 | 96/2003. (VII. 15.) Korm. rendelet |
+| 2011-01-01 | 2003-96-20-22.19 | 215/2009. (IX. 30.) Korm. rendelet |

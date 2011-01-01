@@ -18,7 +18,7 @@ fb) az Országos Mentőszolgálat,
 
 fc) a vérellátó szolgálat állami szervezetei, valamint
 
-fd)[^4] az egészségügyi államigazgatási szerv intézetei, amennyiben egészségügyi szolgáltatást is nyújtanak;
+fd)[^4] az Országos Tisztifőorvosi Hivatal, illetve az irányítása alá tartozó országos intézetek, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, illetve kistérségi népegészségügyi intézete, amennyiben egészségügyi szolgáltatást is nyújtanak;
 
 g) fenntartó:
 
@@ -40,14 +40,17 @@ ib) több egészségügyi szakmát művelő szolgáltató esetén egy vagy több
 
 ## önállóan rendelkezik;
 
-j)[^5] egészségügyi államigazgatási szerv: az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) működési engedély kiadására és az egészségügyi szolgáltatás nyújtásának ellenőrzésére jogosult regionális, illetve kistérségi intézete;
+j)[^5] egészségügyi államigazgatási szerv: a működési engedély kiadására és az egészségügyi szolgáltatás nyújtásának ellenőrzésére jogosult fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete, vagy az Országos Tisztifőorvosi Hivatal.
 
 k) közreműködő:[^6] a saját tulajdonában vagy használatában lévő eszközökkel, személyesen vagy az általa foglalkoztatott egészségügyi dolgozókkal, de a közreműködést igénybe vevő egészségügyi szolgáltató betegeinek nyújtja a közreműködésre irányuló szerződésben meghatározott egészségügyi szolgáltatásokat.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az Eütv.-ben foglalt fogalommeghatározásokat kell figyelembe venni.
 
+(3)[^7] Az 1. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+
 [^2]: A 2. § a 25/2004. (II. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének c) pontja a 185/2008. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdésének fd) alpontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 2. § (1) bekezdésének j) pontja a 185/2008. (VII. 18.) Korm. rendelet 3. § (4) bekezdésének a) pontja, a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 2. § (1) bekezdés f) pont fd) alpontja a 351/2010. (XII. 30.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés j) pontja a 351/2010. (XII. 30.) Korm. rendelet 104. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdésének k) pontját a 312/2004. (XI. 17.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^7]: A 2. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 104. § (4) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-## 23/A. §[^111]
+## 23/A. §[^105]
 
-[^111]: A 23/A. §-t a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (5) bekezdése hatályon kívül helyezte.
+[^105]: A 23/A. §-t a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (5) bekezdése hatályon kívül helyezte.
