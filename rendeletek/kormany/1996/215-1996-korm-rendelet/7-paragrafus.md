@@ -1,4 +1,4 @@
-7. §[^20] (1) A lakás-takarékpénztár a betét, illetve a szerződéses összeg (a továbbiakban: igénybe vett összeg) lakáscélú felhasználásának ellenőrzése érdekében jogosult
+7. §[^22] (1) A lakás-takarékpénztár a betét, illetve a szerződéses összeg (a továbbiakban: igénybe vett összeg) lakáscélú felhasználásának ellenőrzése érdekében jogosult
 
 a) a szükséges iratokat a lakás-előtakarékoskodóktól bekérni;
 
@@ -50,4 +50,4 @@ b) korszerűsítéséhez, felújításához a társasház, illetőleg a lakássz
 
 (12) A lakás-takarékpénztár eltekinthet a nem lakáscélú felhasználás, illetve más jogosulatlan felhasználás esetén igénybe vett állami támogatás és járulékai megtérítése iránti igény érvényesítésétől, ha a lakás-előtakarékoskodó tízezer forintot meg nem haladó összeg lakáscélú felhasználását nem igazolta a (6)–(7) bekezdésben meghatározott határidőn belül, vagy ha a megtérítési igénnyel érintett összeg nem éri el az ötezer forintot.
 
-[^20]: A 7. § a 47/2006. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^22]: A 7. § a 47/2006. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
