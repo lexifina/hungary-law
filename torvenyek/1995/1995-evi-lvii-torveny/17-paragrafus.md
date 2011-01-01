@@ -2,19 +2,19 @@
 
 a) a rendkívüli védekezési készültség beálltáig a miniszter;
 
-b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a kormánybiztos;
+b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a miniszter;
 
 c) különösen nagy veszély esetén (szükségállapot) — a külön jogszabály szerinti — kormánybizottság
 
 hatáskörébe tartozik.
 
-(2) A kormánybiztosi teendőket a miniszter látja el.
+(2)
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
 (4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei közgyűlés elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
-(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a kormánybiztos jogkörét a Kormány rendeletben állapítja meg.
+(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a miniszter jogkörét a Kormány rendeletben állapítja meg.
 
 (6) A főpolgármester, a megyei közgyűlés elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 

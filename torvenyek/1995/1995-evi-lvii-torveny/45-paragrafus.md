@@ -64,7 +64,7 @@ c) a vízgazdálkodás országos és területi rendjének;
 
 d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 
-e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel együttesen a mezőgazdasági vízszolgáltató művek üzemeltetésének
+e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel egyetértésben a mezőgazdasági vízszolgáltató művek üzemeltetésének
 
 f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
 
