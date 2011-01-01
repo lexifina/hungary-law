@@ -24,7 +24,7 @@ f) a géntechnológiai tevékenység engedélyezési eljárási rendjét, valami
 
 (5)
 
-(6) a földművelésügyi és vidékfejlesztési miniszter, hogy a gazdasági miniszterrel, a környezetvédelmi miniszterrel, az oktatási miniszterrel, az egészségügyi miniszterrel, valamint a Magyar Tudományos Akadémiával egyetértésben rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait;
+(6) a földművelésügyi és vidékfejlesztési miniszter, hogy a gazdasági miniszterrel, a környezetvédelmi miniszterrel, az oktatási miniszterrel, az egészségügyi miniszterrel egyetértésben, a Magyar Tudományos Akadémia véleményének kikérésével rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait;
 
 (7) az oktatási miniszter, hogy a földművelésügyi és vidékfejlesztési miniszterrel, a környezetvédelmi miniszterrel, valamint az egészségügyi miniszterrel egyetértésben rendeletben állapítsa meg a géntechnológiai felügyelő tevékenységére és képesítésének követelményeire vonatkozó szabályokat;
 

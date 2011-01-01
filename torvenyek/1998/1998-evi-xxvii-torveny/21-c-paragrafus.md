@@ -14,7 +14,7 @@ c) ha a kérelmező nem tulajdonosa annak a földterületnek, ahol a géntechnol
 
 (5) A termesztési engedély szántóföldi növények esetében egy vetési ciklusra, egyéb esetekben a termesztési engedélyben meghatározott időtartamra szól, lejártát követően új engedély iránti kérelmet kell benyújtani.
 
-(6) A termesztési engedély megadását követően a termesztési hatóság a kérelemben szereplő, illetve a termesztésre vonatkozó adatokat nyilvántartja és országos adatbázisban közzéteszi, valamint ezzel egy időben a határozat másolati példányát továbbítja az ellenőrzést végző hatóság részére. A kérelmező, illetve az engedély jogosultja a kérelem benyújtását követően bekövetkezett változásokat 3 munkanapon belül, írásban köteles bejelenteni a termesztési hatóságnak.
+(6) A termesztési engedély megadását követően a termesztési hatóság a kérelemben szereplő, illetve a termesztésre vonatkozó adatokat nyilvántartja és országos adatbázisban közzéteszi, valamint ezzel egy időben a határozat másolati példányát továbbítja az ellenőrzést végző hatóság részére. A kérelmező, illetve az engedély jogosultja a kérelem benyújtását követően bekövetkezett változásokat öt napon belül, írásban köteles bejelenteni a termesztési hatóságnak.
 
 (7) A termesztésre jogosult köteles megküldeni a termesztési hatóság részére az elvetett szaporítóanyag címkéjének másolatát, legkésőbb a vetést követő 30. napig.
 
