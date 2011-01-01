@@ -1,44 +1,40 @@
-## 23–25. §[^29]
+## 23–25. §[^34]
 
 ## Záró rendelkezés
 
 26. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 206/2003. (XII. 10.) Korm. rendelethez[^30]
+Melléklet a 206/2003. (XII. 10.) Korm. rendelethez[^35]
 
-A Kormánynak a pedagógus- és oktatói kedvezmények megállapítására irányuló eljárásban
+A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végző területi államigazgatási szervei
 
-közreműködő általános hatáskörű területi államigazgatási szervei
+|  | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Érintett kör |
 
-|  | A | B | C |
+| 1 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 1 | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Kézbesítéssel érintett kör |
+| 2 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 2 | Győr-Moson-Sopron Megyei Közigazgatási Hivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+| 3 | Csongrád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
 
-| 3 | Baranya Megyei Közigazgatási Hivatal | Pécs | A Horvát Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
+| 4 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 4 | Csongrád Megyei Közigazgatási Hivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
+| 5 | Fővárosi Kormányhivatal | Budapest | Jogosultak a lakóhelyüktől függetlenül |
 
-| 5 | Borsod-Abaúj-Zemplén Megyei Közigazgatási Hivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+| 6 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | Nyíregyháza | Ukrajnában és Romániában lakóhellyel rendelkező jogosultak |
 
-| 6 | Budapest Főváros Közigazgatási Hivatala | Budapest | Jogosultak a lakóhelyüktől függetlenül |
+| 7 | Hajdú-Bihar Megyei Kormányhivatal | Debrecen | Romániában lakóhellyel rendelkező jogosultak |
 
-| 7 | Szabolcs-Szatmár-Bereg Megyei Közigazgatási Hivatal | Nyíregyháza | Ukrajnában és Romániában lakóhellyel rendelkező jogosultak |
+| 8 | Békés Megyei Kormányhivatal | Békéscsaba | Romániában lakóhellyel rendelkező jogosultak |
 
-| 8 | Hajdú-Bihar Megyei Közigazgatási Hivatal | Debrecen | Romániában lakóhellyel rendelkező jogosultak |
+| 9 | Nógrád Megyei Kormányhivatal | Salgótarján | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 9 | Békés Megyei Közigazgatási Hivatal | Békéscsaba | Romániában lakóhellyel rendelkező jogosultak |
+| 10 | Zala Megyei Kormányhivatal | Zalaegerszeg | A Szlovén Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 10 | Nógrád Megyei Közigazgatási Hivatal | Salgótarján | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
+| 11 | Somogy Megyei Kormányhivatal | Kaposvár | A Szerb Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 11 | Zala Megyei Közigazgatási Hivatal | Zalaegerszeg | A Szlovén Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+| 12 | Komárom-Esztergom Megyei Kormányhivatal | Tatabánya | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 12 | Somogy Megyei Közigazgatási Hivatal | Kaposvár | A Szerb Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+| 13 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 13 | Komárom-Esztergom Megyei Közigazgatási Hivatal | Tatabánya | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
-
-| 14 | Bács-Kiskun Megyei Közigazgatási Hivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
-
-[^29]: A 23–25. §-t a 131/2007. (VI. 12.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
-[^30]: A melléklet a 234/2010. (VIII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^34]: A 23–25. §-t a 131/2007. (VI. 12.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^35]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 112. §-ával megállapított szöveg.
