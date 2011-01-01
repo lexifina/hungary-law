@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-362-20-
 | 2010-04-01 | 2004-362-20-22.5 | 332/2006. (XII. 23.) Korm. rendelet |
 | 2010-09-15 | 2004-362-20-22.6 | 239/2010. (IX. 14.) Korm. rendelet |
 | 2010-12-04 | 2004-362-20-22.7 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2011-01-01 | 2004-362-20-22.8 | 289/2010. (XII. 21.) Korm. rendelet |
