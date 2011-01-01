@@ -1,6 +1,6 @@
 ## 5. § E rendelet alkalmazásában:
 
-a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati jogviszonya;
+a)[^1] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses állományú tagjának szolgálati jogviszonya;
 
 b) teljes munkaidő: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 117/B. §-ában meghatározott időtartamok;
 
@@ -21,3 +21,5 @@ i) mezőgazdasági termékforgalomba hozatala: az általános csoportmentességi
 j) diszkont kamatláb: az R. 1. § 36. pontjában meghatározott fogalom,
 
 k) referencia alapkamatláb: az R. 1. § 20. pontjában meghatározott fogalom.
+
+[^1]: Az 5. § a) pontja a 273/2010. (XII. 9.) Korm. rendelet 130. §-a szerint módosított szöveg.
