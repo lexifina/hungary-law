@@ -18,7 +18,7 @@ g) a kötelezett szolgáltató (3) bekezdésben meghatározott felmondása eset�
 
 (2) A kötelezett szolgáltató a hatóságtól kérheti annak megállapítását, hogy szerződéskötési kötelezettsége egy vagy több jogosult szolgáltatóval szemben már nem áll fenn, mert az már nem szükséges az előfizetők közötti összeköttetés biztosítása érdekében.
 
-(3)[^10] Amennyiben az NHH megállapítja, hogy a kötelezett szolgáltató esetében szerződéskötési kötelezettség feltételei már nem állnak fenn, a kötelezett szolgáltató az NHH döntésének jogerőre emelkedésétől számított 60. napra a szerződést felmondhatja.
+(3)[^11] Amennyiben az NHH megállapítja, hogy a kötelezett szolgáltató esetében szerződéskötési kötelezettség feltételei már nem állnak fenn, a kötelezett szolgáltató az NHH döntésének jogerőre emelkedésétől számított 60. napra a szerződést felmondhatja.
 
 (4) A hálózati szerződés bármely fél általi rendkívüli felmondással az alábbi esetekben szüntethető meg:
 
@@ -34,4 +34,4 @@ d) a másik fél az együttműködésre vonatkozó szabályokat súlyosan megsze
 
 (6) A felek kötelesek felmondásukat írásba foglalni és indokolni.
 
-[^10]: A 13. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 13. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,8 +1,8 @@
 36. § (1) A hálózati szerződés, referenciaajánlatok tárgyában kötött szerződésben foglalt szolgáltatások ellenértékének kiszámítása során érvényesülnie kell az átláthatóság követelményének, az egyenlő elbánás és a legkisebb költség elvének.
 
-(2)[^17] Ha jogszabály vagy az NHH döntése másként nem rendeli, az összekapcsolásra vonatkozó referenciaajánlat szerint kötött szerződés alapján nyújtott szolgáltatások díját külön jogszabályban vagy az NHH döntésében előírt módon a hosszú távú előremutató különbözeti költségek költségszámítási módszerével (LRIC) kell megállapítani.
+(2)[^18] Ha jogszabály vagy az NHH döntése másként nem rendeli, az összekapcsolásra vonatkozó referenciaajánlat szerint kötött szerződés alapján nyújtott szolgáltatások díját külön jogszabályban vagy az NHH döntésében előírt módon a hosszú távú előremutató különbözeti költségek költségszámítási módszerével (LRIC) kell megállapítani.
 
-(3)[^18] Ha jogszabály vagy az NHH döntése másként nem rendeli, az átengedésre vonatkozó referenciaajánlat szerint kötött szerződés alapján nyújtott szolgáltatások díját külön jogszabályban vagy az NHH döntésében előírt módon múltbeli költségeken alapuló teljesen felosztott költségek költségszámítási módszerével (HCA-FDC) kell megállapítani. Ennek során az alábbi elveket kell figyelembe venni:
+(3)[^19] Ha jogszabály vagy az NHH döntése másként nem rendeli, az átengedésre vonatkozó referenciaajánlat szerint kötött szerződés alapján nyújtott szolgáltatások díját külön jogszabályban vagy az NHH döntésében előírt módon múltbeli költségeken alapuló teljesen felosztott költségek költségszámítási módszerével (HCA-FDC) kell megállapítani. Ennek során az alábbi elveket kell figyelembe venni:
 
 a) A helyi hurok teljes átengedés szolgáltatás költsége az előfizetői végponttól a kábelrendezőig tartozó hozzáférési hálózatnak és a kábelrendezőnek egy vonalra eső költségét tartalmazza.
 
@@ -20,5 +20,5 @@ b) kedvezményes időszaki díj: hétköznap és a naptár szerinti munkarendtő
 
 (6) Indokolt esetben az NHH a kötelezett szolgáltató megfelelően alátámasztott kérelmére, illetve hivatalból a (4)–(5) bekezdésétől eltérő időszakokat is megállapíthat.
 
-[^17]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: A 36. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 36. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

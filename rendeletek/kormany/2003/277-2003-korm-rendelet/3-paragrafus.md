@@ -12,9 +12,9 @@
 
 5. forgalmi adatok átadása: a 10. § (5) bekezdésében meghatározott szolgáltatás;
 
-6.[^7] jogosult szolgáltató: az az elektronikus hírközlési szolgáltató vagy vállalkozás, amely hálózati szerződés kötését kezdeményező ajánlatot tesz a kötelezett szolgáltatónak, vagy amely referenciaajánlat alapján kezdeményezi szerződés kötését;
+6.[^8] jogosult szolgáltató: az az elektronikus hírközlési szolgáltató vagy vállalkozás, amely hálózati szerződés kötését kezdeményező ajánlatot tesz a kötelezett szolgáltatónak, vagy amely referenciaajánlat alapján kezdeményezi szerződés kötését;
 
-7.[^8] hálózati alapszolgáltatások: hálózati szolgáltatások, különösen a (2) bekezdésben meghatározott összekapcsolási, hozzáférési szolgáltatások;
+7.[^9] hálózati alapszolgáltatások: hálózati szolgáltatások, különösen a (2) bekezdésben meghatározott összekapcsolási, hozzáférési szolgáltatások;
 
 8. helyi hurok frekvenciaterve: a hálózat egységének megőrzése, valamint a kis és nagy sávszélességű szolgáltatások minőségének védelme érdekében a helyi hurokban alkalmazott digitális átviteli eszközökre megállapított és adott kábeltípusra vonatkozó műszaki követelmény;
 
@@ -80,5 +80,5 @@
 
 4. Barangolás hálózati szolgáltatás: mobil rádiótelefon hálózathoz való hozzáférés biztosítása, amely lehetővé teszi, hogy az egyik mobil rádiótelefon szolgáltató előfizetője a másik mobil rádiótelefon szolgáltató hálózatát használva az előfizetői hozzáférést biztosító mobil rádiótelefon szolgáltató elektronikus hírközlési szolgáltatásait igénybe vehesse.
 
-[^7]: A 3. § (1) bekezdésének 6. pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
-[^8]: A 3. § (1) bekezdésének 7. pontja a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 3. § (1) bekezdésének 6. pontja a 295/2007. (XI. 9.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdésének 7. pontja a 182/2009. (IX. 10.) Korm. rendelet 320. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
