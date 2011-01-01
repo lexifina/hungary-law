@@ -12,7 +12,7 @@ d) ellátja a személyi adat- és lakcímnyilvántartás, valamint a személyazo
 
 e) működteti a nyilvántartás informatikai rendszerét;
 
-f) a miniszter és a közigazgatási informatikáért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
+f) a miniszter és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
 
 g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
 
@@ -42,6 +42,6 @@ c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel
 
 d) a területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 
-(4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját lehet átvezetni.
+(4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
 
 Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság és a nemzetbiztonsági szolgálatok, a nyomozó hatóságok, az ügyészség, valamint az állampolgársági ügyekben eljáró szerv, a névváltoztatási ügyeket intéző szerv, az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv törvényben előírt feladatainak ellátásához, továbbá a 17. § (2) bekezdésének a)–c) pontjai szerinti adatok felhasználásának célját és jogalapját igazoló adatigénylő részére lehet, feltéve, ha az adatszolgáltatást a történeti adatállományból nem lehet teljesíteni.

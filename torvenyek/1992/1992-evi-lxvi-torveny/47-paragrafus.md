@@ -14,7 +14,7 @@ a) a nyilvántartás üzemeltetésével és működésével, továbbá a személ
 
 b) a nyilvántartási eljárás során használandó iratmintákat;
 
-c) a közigazgatási informatikáért felelős miniszterrel együttesen, az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért fizetendő igazgatási szolgáltatási díj összegét;
+c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért fizetendő igazgatási szolgáltatási díj összegét;
 
 d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
 

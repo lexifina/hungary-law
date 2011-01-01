@@ -28,7 +28,7 @@ i) a személyazonosító igazolvány okmányazonosítóját és érvényességi 
 
 (5)
 
-(6) A személyazonosság igazolására alkalmas hatósági igazolvánnyal nem rendelkező kiskorú részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni.
+(6) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 
 (7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
