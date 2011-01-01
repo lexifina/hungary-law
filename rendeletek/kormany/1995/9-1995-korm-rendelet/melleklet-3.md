@@ -1,8 +1,8 @@
-## A Kormány általános hatáskörű területi államigazgatási szervénél az egyes feladatkörökhöz meghatározott szakirányú (alapképzésben szerezhető) iskolai végzettségek és szakképesítések[^23]
+## A Kormány általános hatáskörű területi államigazgatási szervénél az egyes feladatkörökhöz meghatározott szakirányú (alapképzésben szerezhető) iskolai végzettségek és szakképesítések[^24]
 
 ## I.
 
-## 1.[^24] Belügyi igazgatási feladatok
+## 1.[^25] Belügyi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -22,7 +22,7 @@
 
 ## középiskolai végzettség és közgazdasági (külkereskedelmi szakirányú) szakképzettség vagy középiskolai végzettség és az OKJ szerint: európai üzleti asszisztens szakképesítés.
 
-## 3.[^25] Építésügyi igazgatási feladatok
+## 3.[^26] Építésügyi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -40,7 +40,7 @@
 
 ## Szakirányú középfokú végzettség.
 
-## 4.[^26] Fogyasztóvédelmi igazgatási feladatok
+## 4.[^27] Fogyasztóvédelmi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -62,7 +62,7 @@
 
 ## egyetemi szintű állatorvos doktor szakképzettség.
 
-## 6.[^27] Gyámügyi és gyermekvédelmi igazgatási feladatok
+## 6.[^28] Gyámügyi és gyermekvédelmi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -158,6 +158,32 @@
 
 ## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképzettség, mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítés; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
 
+## 19.[^29] Jogi segítségnyújtással, áldozatsegítéssel és pártfogó felügyelettel összefüggő feladatkör
+
+## Az I. besorolási osztályban, kiemelt munkakörök:
+
+## Jogi segítségnyújtási feladatkör:
+
+## Vezetői munkakört betöltők: jogász szakképzettség.
+
+## Jogi segítségnyújtási szakreferens/ügyintéző: jogász, okleveles közigazgatási szakértő, főiskolai szintű igazgatásszervező vagy igazságügyi ügyintéző szakképzettség.
+
+## Áldozatsegítési feladatkör:
+
+## Vezetői munkakört betöltők: jogász szakképzettség.
+
+## Áldozatsegítő szakreferens/ügyintéző: jogász, szociális munkás vagy pszichológus szakképzettség.
+
+## Pártfogó felügyelői feladatkör:
+
+## Vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
+
+## Pártfogó felügyelő: jogász, okleveles közigazgatási szakértő, pszichológus, szociálpolitikus, szociológus vagy teológus; egyetemi vagy főiskolai szintű pedagógus, vagy szociális munkás; főiskolai szintű gyógypedagógus, igazgatásszervező vagy szociálpedagógus; felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett – így különösen addiktológiai konzultáns, gyermek- és ifjúságvédelmi tanácsadó, mentálhigiénés – szakképzettség.
+
+## Pártfogó felügyelői asszisztens, pártfogó felügyelői szakreferens/ügyintéző: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
+
+## Egyéb vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
+
 ## II.
 
 ## 1. Foglalkoztatással kapcsolatos humánpolitikai, valamint munkaügyi feladatok
@@ -216,11 +242,11 @@
 
 ## középiskolai végzettség és középfokú számítástechnikai szakképzettség vagy középiskolai végzettség és az OKJ szerint: számítástechnikai programozó, számítógép rendszerprogramozó, számítástechnikai szoftverüzemeltető, információrendszer szervező szakképesítés.
 
-3. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^28]
+3. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^30]
 
 Az állami közigazgatásban egyes feladatkörökhöz meghatározott (alapképzésben szerezhető) iskolai végzettségek és szakképesítések
 
-1.[^29] Adatfeldolgozói üzemviteli, rendszerszervező, programfejlesztő és szolgáltató feladatkör
+1.[^31] Adatfeldolgozói üzemviteli, rendszerszervező, programfejlesztő és szolgáltató feladatkör
 
 Az I. besorolási osztályban:
 
@@ -276,7 +302,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképzettség vagy középiskolai végzettség és az OKJ szerint: valamely középfokú (ügyintézői szintű) pénzügyi-számviteli szakképesítés, általános gazdasági és statisztikai ügyintéző, vállalkozási ügyintéző szakképesítés.
 
-7.[^30] Adónyomozói feladatkör
+7.[^32] Adónyomozói feladatkör
 
 Az I. besorolási osztályban:
 
@@ -472,7 +498,7 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség.
 
-31.[^31] Dokumentáció, ügyiratkezelés és könyvtáros feladatkör
+31.[^33] Dokumentáció, ügyiratkezelés és könyvtáros feladatkör
 
 Az I. besorolási osztályban:
 
@@ -544,7 +570,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű élelmiszermérnök vagy élelmiszer minőségbiztosító agrármérnök szakképzettség; főiskolai szintű élelmiszer-ipari gépészmérnök, élelmiszer-technológus mérnök szakképzettség; egyetemi szintű gazdasági agrármérnök vagy közgazdász szakképzettség; főiskolai szintű agrármenedzser vagy gazdasági mérnök szakképzettség; egyetemi vagy főiskolai szintű gépészmérnök, villamosmérnök vagy vegyészmérnök szakképzettség.
 
-39.[^32] Építésügyi igazgatási feladatkör
+39.[^34] Építésügyi igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -620,7 +646,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: felsőfokú munkaügyi, felsőfokú személyzeti, középfokú személyügyi, középfokú társadalombiztosítási, munkaerő-piaci menedzser, munkaerő-piaci ügyintéző, munkaerő-piaci instruktor szakképesítés.
 
-45.[^33] Fogyasztóvédelmi igazgatási feladatkör
+45.[^35] Fogyasztóvédelmi igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -630,7 +656,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari szakképzettség vagy középiskolai végzettség és az OKJ szerint: középfokú kereskedelmi jellegű vagy idegenforgalmi szakképesítés.
 
-46.[^34] Földügyi és térképészeti, valamint telekalakítási igazgatási feladatkör
+46.[^36] Földügyi és térképészeti, valamint telekalakítási igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -766,7 +792,7 @@ Az I. besorolási osztályban:
 
 jogász szakképzettség és jogi szakvizsga.
 
-62.[^35] Kárpótlással, jogi segítségnyújtással, áldozatsegítéssel, pártfogó felügyelettel és lobbitevékenységgel összefüggő feladatkör
+62.[^37] Kárpótlással, jogi segítségnyújtással, áldozatsegítéssel, pártfogó felügyelettel összefüggő feladatkör
 
 Az I. besorolási osztályban, kiemelt munkakörök:
 
@@ -796,10 +822,6 @@ Pártfogó felügyelő: jogász, okleveles közigazgatási szakértő, pszichol�
 
 Pártfogó felügyelői asszisztens, pártfogó felügyelői szakreferens/ügyintéző: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
 
-Lobbitevékenységgel összefüggő feladatkör:
-
-Lobbihatósági (szak)ügyintéző: jogász vagy közgazdasági felsőoktatásban szerzett szakképzettség; okleveles közigazgatási szakértő vagy főiskolai szintű igazgatásszervező szakképzettség.
-
 Egyéb vezetői munkakört betöltők: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
 
 63. Kereskedelemfejlesztési, befektetés-ösztönzési feladatkör
@@ -828,7 +850,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű jogász, pszichológus, szociológus szakképzettség; egyetemi vagy főiskolai szintű kommunikáció vagy nemzetközi kapcsolatok szakon szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy főiskolai szintű üzleti kommunikáció szakképzettség vagy főiskolai szintű államigazgatási és szociális igazgatási szakképzettség és felsőfokú újságíró szakképesítés.
 
-66.[^36] Belső ellenőrzési feladatkör
+66.[^38] Belső ellenőrzési feladatkör
 
 Az I. besorolási osztályban:
 
@@ -890,7 +912,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű jogász vagy közgazdász szakképzettség; főiskolai szintű igazgatásszervezői vagy pénzügyi szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskola szintű, a közbeszerzési eljárásokkal összefüggő egyéb végzettség.
 
-70.[^37] Közegészségügyi-járványügyi és egészségvédelmi feladatkör
+70.[^39] Közegészségügyi-járványügyi és egészségvédelmi feladatkör
 
 Az I. besorolási osztályban:
 
@@ -948,7 +970,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű jogász, közgazdasági, természettudományi vagy bölcsészettudományi felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, műszaki vagy művészeti felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási szakképzettség; egyetemi vagy főiskolai szintű – a közigazgatási szerv alaptevékenységének megfelelő – szakképzettség.
 
-76.[^38] Központi közigazgatási szerv állampolgársági ügyek feladatköre
+76.[^40] Központi közigazgatási szerv állampolgársági ügyek feladatköre
 
 Az I. besorolási osztályban:
 
@@ -1012,7 +1034,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: protokoll ügyintéző, PR-munkatárs, PR-szakreferens, újságírói, idegenforgalmi (szak)menedzser, idegenforgalmi technikus, idegenforgalmi ügyintéző, idegenvezető és hostess szakképesítés.
 
-84.[^39] Személyiadat, lakcím-, közlekedési, bűnügyi nyilvántartási és adatszolgáltatási feladatkör
+84.[^41] Személyiadat, lakcím-, közlekedési, bűnügyi nyilvántartási és adatszolgáltatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1060,7 +1082,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, agrár-, vegyipari szakképzettség.
 
-90.[^40] Mérésügyi/hitelesítési műszaki feladatkör
+90.[^42] Mérésügyi/hitelesítési műszaki feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1078,7 +1100,7 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű minőségügyi, minőségbiztosítási feladatokra felkészítő szakképzettség; egyetemi vagy főiskolai szintű végzettség és szakirányú posztgraduális másoddiploma, minőségirányítási vezetői vagy minőségbiztosítási auditori bizonyítvány.
 
-92.[^41] Munkavédelmi és munkaügyi igazgatási és hatósági feladatkör
+92.[^43] Munkavédelmi és munkaügyi igazgatási és hatósági feladatkör
 
 I. besorolási osztályban
 
@@ -1148,7 +1170,7 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű műszaki, közgazdasági vagy természettudományi felsőoktatásban szerzett szakképzettség; általános orvos vagy jogász szakképzettség; főiskolai szintű igazgatásszervezői szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) katonai vezető (parancsnok) szakon szerzett szakképzettség.
 
-102.[^42] Nyugdíjbiztosítási szakfeladat-ellátás
+102.[^44] Nyugdíjbiztosítási szakfeladat-ellátás
 
 Az I. besorolási osztályban:
 
@@ -1158,7 +1180,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképzettség vagy középiskolai végzettség és középfokú társadalombiztosítási, pénzügyi, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés.
 
-103.[^43] Okmányügyi és anyakönyvi szakfelügyeleti és koordinációs feladatkör
+103.[^45] Okmányügyi és anyakönyvi szakfelügyeleti és koordinációs feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1222,7 +1244,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű jogász vagy műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, agrár-, bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási vagy rendvédelmi felsőoktatásban szerzett szakképzettség; központi közigazgatási szerv alaptevékenységének megfelelő egyetemi vagy főiskolai szintű szakképzettség és felsőfokú újságírói szakképesítés.
 
-111.[^44] Sportszakmai és sportigazgatási feladatkör
+111.[^46] Sportszakmai és sportigazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1320,7 +1342,7 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; okleveles könyvvizsgálói képesítés.
 
-122.[^45]
+122.[^47]
 
 123. Szociálpolitikai, rehabilitációs és gyermekvédelmi feladatkör
 
@@ -1370,7 +1392,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképzettség; mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítések; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
 
-127.[^46] Titkársági és igazgatási feladatkör
+127.[^48] Titkársági és igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1390,7 +1412,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: jogi asszisztens vagy védelmi igazgatási szakelőadó szakképesítés.
 
-129.[^47] Útlevélkérelem hatósági feladatkör
+129.[^49] Útlevélkérelem hatósági feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1452,28 +1474,29 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és vízügyi, vízgazdálkodási, agrártechnikusi végzettség; középiskolai végzettség és az OKJ szerint: vízügyi technikus, víz- és szennyvíztechnológus, környezet- és vízgazdálkodási technikus, középfokú informatikai szakképesítés.
 
-[^23]: A 2. számú melléklet címe a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 49. pontja szerint módosított szöveg.
-[^24]: A 2. számú melléklet I. 1. pontja a 80/2002. (IV. 13.) Korm. rendelet 1. §-ával megállapított, a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^25]: A 2. számú melléklet I. pontjának 3. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^26]: A 2. számú melléklet I. 4. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^27]: A 2. számú melléklet I/6. pontjának utolsó bekezdését a 72/2003. (V. 28.) Korm. rendelet 8. §-a (2) bekezdésének d) pontja hatályon kívül helyezte.
-[^28]: A 3. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
-[^29]: A 3. számú melléklet 1. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^30]: A 3. számú melléklet 7. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^31]: A 3. számú melléklet 31. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^32]: A 3. számú melléklet 39. pontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^33]: A 3. számú melléklet 45. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^34]: A 3. számú melléklet 46. pontjának első bekezdése az 54/2006. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. A 46. pont címe a 129/2010. (IV. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^35]: A 3. számú melléklet 62. pontja a 277/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
-[^36]: A 3. számú melléklete 66. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (7) bekezdésével megállapított szöveg.
-[^37]: A 3. számú melléklet 70. pontjának I. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^38]: A 3. számú melléklet 76. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^39]: A 3. számú melléklet 84. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^40]: A 3. számú melléklet 90. pontja az 54/2006. (III. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^41]: A 3. számú melléklet 92. pontja a 277/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
-[^42]: A 3. számú melléklet 102. pontja a 12/2009. (I. 28.) Korm. rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján 2009. január 29. napját követően is képesítettnek kell tekinteni a 3. számú melléklet 102. pont alapján az I. besorolási osztályban azokat, akik 2009. január 29. napja előtt szerezték meg az egyetemi vagy főiskolai szintű végzettséget és a társadalombiztosítási, pénzügyi, végrehajtó-behajtói, munkaügyi, személyügyi, informatikai vagy számítástechnikai szakképesítést.
-[^43]: A 3. számú melléklet 103. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^44]: A 3. számú melléklet 111. pontja a 256/2009. (XI. 20.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^45]: A 3. számú melléklet 122. pontját a 80/2002. (IV. 13.) Korm. rendelet 3. §–a hatályon kívül helyezte.
-[^46]: A 3. számú melléklet 127. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (9) bekezdésével, I. besorolási osztálya a 343/2006. (XII. 23.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^47]: A 3. számú melléklet 129. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet címe a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 49. pontja szerint módosított szöveg.
+[^25]: A 2. számú melléklet I. 1. pontja a 80/2002. (IV. 13.) Korm. rendelet 1. §-ával megállapított, a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^26]: A 2. számú melléklet I. pontjának 3. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. számú melléklet I. 4. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^28]: A 2. számú melléklet I/6. pontjának utolsó bekezdését a 72/2003. (V. 28.) Korm. rendelet 8. §-a (2) bekezdésének d) pontja hatályon kívül helyezte.
+[^29]: A 2. számú melléklet I. pont 19. alpontját a 277/2010. (XII. 15.) Korm. rendelet 2. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^30]: A 3. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^31]: A 3. számú melléklet 1. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3. számú melléklet 7. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^33]: A 3. számú melléklet 31. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet 39. pontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^35]: A 3. számú melléklet 45. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^36]: A 3. számú melléklet 46. pontjának első bekezdése az 54/2006. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. A 46. pont címe a 129/2010. (IV. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^37]: A 3. számú melléklet 62. pontja a 277/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 4. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^38]: A 3. számú melléklete 66. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (7) bekezdésével megállapított szöveg.
+[^39]: A 3. számú melléklet 70. pontjának I. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^40]: A 3. számú melléklet 76. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^41]: A 3. számú melléklet 84. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^42]: A 3. számú melléklet 90. pontja az 54/2006. (III. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^43]: A 3. számú melléklet 92. pontja a 277/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^44]: A 3. számú melléklet 102. pontja a 12/2009. (I. 28.) Korm. rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján 2009. január 29. napját követően is képesítettnek kell tekinteni a 3. számú melléklet 102. pont alapján az I. besorolási osztályban azokat, akik 2009. január 29. napja előtt szerezték meg az egyetemi vagy főiskolai szintű végzettséget és a társadalombiztosítási, pénzügyi, végrehajtó-behajtói, munkaügyi, személyügyi, informatikai vagy számítástechnikai szakképesítést.
+[^45]: A 3. számú melléklet 103. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^46]: A 3. számú melléklet 111. pontja a 256/2009. (XI. 20.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^47]: A 3. számú melléklet 122. pontját a 80/2002. (IV. 13.) Korm. rendelet 3. §–a hatályon kívül helyezte.
+[^48]: A 3. számú melléklet 127. pontjának II. besorolási osztálya a 80/2002. (IV. 13.) Korm. rendelet 2. § (9) bekezdésével, I. besorolási osztálya a 343/2006. (XII. 23.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^49]: A 3. számú melléklet 129. pontja a 80/2002. (IV. 13.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
