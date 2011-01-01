@@ -4,9 +4,9 @@
 
 15. § (1) Ez a rendelet – a (3) bekezdésben foglalt kivétellel – 2001. január 1. napján lép hatályba.
 
-(2)[^12]
+(2)[^15]
 
-(3)[^13] A 7. § (8) bekezdése szerinti határérték ellenőrzésére (a munkateret szennyező anyagok mérésére) irányuló vizsgálatokat kizárólag
+(3)[^16] A 7. § (8) bekezdése szerinti határérték ellenőrzésére (a munkateret szennyező anyagok mérésére) irányuló vizsgálatokat kizárólag
 
 a) a Nemzeti Akkreditáló Testület által e területre és a mérendő vegyi anyagok meghatározására akkreditált laboratórium, vagy
 
@@ -16,7 +16,7 @@ c) a b) pont szerinti laboratórium által szervezett nemzeti jártassági vizsg
 
 végezhet. Technológiához rendelt, a munkahelyi légtér szennyezőanyag-koncentrációját folyamatosan mérő, szelektív mérési elven alapuló, szelektív meghatározást biztosító, kalibrált, telepített műszerek (berendezések) vizsgálati eredményeit, mint kiegészítő mérési adatokat figyelembe lehet venni.
 
-(4)[^14] Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(4)[^17] Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Bizottság 91/322/EGK irányelve (1991. május 29.) a munkájuk során vegyi, fizikai és biológiai anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 80/1107/EGK irányelv végrehajtása céljából javasolt határértékek megállapításáról;
 
@@ -26,6 +26,6 @@ c) a Bizottság 2000/39/EK irányelve (2000. június 8.) a munkájuk során vegy
 
 d) a Bizottság 2006/15/EK irányelve (2006. február 7.) a 98/24/EK tanácsi irányelv végrehajtásához a javasolt foglalkozási expozíciós határértékek második listájának létrehozásáról és a 91/322/EGK, valamint a 2000/39/EK irányelv módosításáról.
 
-[^12]: A 15. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 175. pontja hatályon kívül helyezte.
-[^13]: A 15. § (3) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 5. §-ával megállapított szöveg.
-[^14]: A 15. § (4) bekezdése az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
+[^15]: A 15. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 175. pontja hatályon kívül helyezte.
+[^16]: A 15. § (3) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 5. §-ával megállapított szöveg.
+[^17]: A 15. § (4) bekezdése az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 2. §-ával megállapított szöveg.

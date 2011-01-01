@@ -996,6 +996,6 @@
 
 2. számú melléklet a 25/2000. (IX. 30.) EüM–SZCSM
 
-együttes rendelethez[^16]
+együttes rendelethez[^19]
 
-[^16]: A 2. számú melléklet az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 3. §-ával megállapított szöveg.
+[^19]: A 2. számú melléklet az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 3. §-ával megállapított szöveg.
