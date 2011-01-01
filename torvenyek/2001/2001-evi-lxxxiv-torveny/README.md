@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-84-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-11-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-84-00-00.12 |
+| 2011-01-01 | 2010. évi CLIII. törvény | 2001-84-00-00.13 |
