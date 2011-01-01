@@ -1,3 +1,3 @@
-1. melléklet a 28/2010. (V. 12.) IRM rendelethez[^2]
+1. melléklet a 28/2010. (V. 12.) IRM rendelethez[^3]
 
-[^2]: Az 1. melléklet a 42. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. melléklet a 42. § (1) bekezdésével megállapított szöveg.

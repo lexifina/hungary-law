@@ -56,4 +56,6 @@
 
 ## 14. megyei és önálló bírósági végrehajtóknak átadott végrehajtható okiratok száma.
 
-2. melléklet a 28/2010. (V. 12.) IRM rendelethez
+2. melléklet a 28/2010. (V. 12.) IRM rendelethez[^4]
+
+[^4]: A 2. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.
