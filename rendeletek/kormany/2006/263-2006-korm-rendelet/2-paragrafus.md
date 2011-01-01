@@ -1,20 +1,27 @@
 ## A Hatóság szervezete
 
-2. § (1) A Hatóság székhelye: Budapest.
+2. §[^2] (1) A Hatóság székhelye: Budapest.
 
 (2) A Hatóság élén az elnök áll.
 
-(3) A Hatóság központi szerve a Nemzeti Közlekedési Hatóság Központi Hivatala (a továbbiakban: Központi Hivatal). A Hatóság elnöke közvetlenül vezeti a Központi Hivatalt.
+(3) A Hatóság a feladatait a – jogi személyiséggel nem rendelkező – központi szerve és különös hatáskörű országos illetékességű elsőfokú szervei (a továbbiakban: Hatóság elsőfokú szerve) útján látja el.
 
-(4)[^2] A Hatóság jogi személyiséggel nem rendelkező területi szervei a regionális igazgatóságok, a Kiemelt Ügyek Igazgatósága, a Pályaalkalmasság Vizsgálati Igazgatóság és a Légiközlekedési Igazgatóság. A regionális igazgatóságok székhelyét az 1. melléklet határozza meg. A Kiemelt Ügyek Igazgatósága, a Légiközlekedési Igazgatóság és a Pályaalkalmasság Vizsgálati Igazgatóság székhelye Budapest.
+(4) A Hatóság központi szerve a Központ, amelyet a Hatóság elnöke közvetlenül vezet.
 
-(5)[^3] Az elnök – ha jogszabály eltérően nem rendelkezik – munkáltatói jogkört gyakorol a Központi Hivatal alkalmazottai felett, valamint kinevezi, felmenti a Hatóság területi szerveinek alkalmazottait és a vezetői kinevezéssel, megbízással rendelkező köztisztviselők felett fegyelmi jogkört gyakorol.
+(5) A Hatóság elsőfokú szervei
 
-(6)[^4] A Hatóság területi szervének vezetője az igazgató, aki – a kinevezés, a felmentés és a vezetői kinevezéssel, megbízással rendelkező köztisztviselők feletti fegyelmi jogkör kivételével – gyakorolja a munkáltatói jogkört a Hatóság területi szervének alkalmazottai felett.
+a) a Közúti Gépjármű-közlekedési Hivatal, amelyet a közúti gépjármű-közlekedési elnök-helyettes vezet,
 
-(7)[^5] Az elnök és a Központi Hivatal más köztisztviselője a Hatóság területi szervével közszolgálati jogviszonyban álló, kiadmányozási jogkörrel rendelkező személyt a közigazgatási hatósági eljárásban nem utasíthatja.
+b) az Útügyi, Vasúti és Hajózási Hivatal, amelyet az útügyi, vasúti és hajózási elnök-helyettes vezet,
 
-[^2]: A 2. § (4) bekezdése a 166/2007. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (5) bekezdése a 105/2009. (V. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (6) bekezdése a 105/2009. (V. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § (7) bekezdését a 166/2007. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+c) a Légügyi Hivatal, amelyet a légügyi elnök-helyettes vezet.
+
+(6) A Központ és a Hatóság első fokú szervei országos illetékességgel járnak el, székhelyük Budapest.
+
+(7) A Hatóság első fokú szervei közigazgatási hatósági hatáskörüket önállóan gyakorolják. A Hatóság első fokú szervének vezetője (elnök-helyettes) gyakorolja a Hatóság első fokú szervéhez telepített hatáskört és eljár az első fokú szerv nevében a közigazgatási hatósági eljárásokban.
+
+(8) A Hatóság elnöke vagy más kormánytisztviselője a Hatóság első fokú szervének vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
+
+(9) A Hatóság első fokú szerve által hozott döntés elleni fellebbezést másodfokon – ha e rendelet másként nem rendelkezik – a Központ bírálja el.
+
+[^2]: A 2. § a 326/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.

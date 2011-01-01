@@ -1,8 +1,8 @@
-## 9/A. §[^126] A 91/2010. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított 4. § (8) bekezdést a 91/2010. (III. 31.) Korm. rendelet hatálybalépését követően indult vagy megismételt – a regisztrációs adó különös szabályok szerint történő megállapítására irányuló – eljárásokban kell alkalmazni.
+## 9/A. §[^125] A 91/2010. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított 4. § (8) bekezdést a 91/2010. (III. 31.) Korm. rendelet hatálybalépését követően indult vagy megismételt – a regisztrációs adó különös szabályok szerint történő megállapítására irányuló – eljárásokban kell alkalmazni.
 
 ## Az Európai Unió jogának való megfelelés
 
-10. §[^127] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
+10. §[^126] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
 
 (2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -16,23 +16,24 @@ d) Az Európai Parlament és a Tanács 216/2008/EK rendelete (2008. február 20.
 
 e) az Európai Parlament és Tanács 1107/2006/EK rendelete (2006. július 5.) a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól,
 
-f)[^128] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
+f)[^127] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
 
-g)[^129] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
+g)[^128] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
 
-h)[^130] a Bizottság 2010. február 5-i 127/2010/EU rendelete a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról.
+h)[^129] a Bizottság 2010. február 5-i 127/2010/EU rendelete a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról.
 
-(3)[^131] Ez a rendelet
+(3)[^130] Ez a rendelet
 
 a) a közösségi repülőterek földi kiszolgálási piacára való bejutásról szóló, 1996. október 15-i 96/67/EGK tanácsi irányelvnek és
 
 b) a harmadik országok közösségi repülőtereket használó légi járműveinek biztonságáról szóló, 2004. április 21-i 2004/36/EK európai parlamenti és tanácsi irányelvnek
 
-való megfelelést szolgálja.
+c)[^131] a hajók által okozott szennyezésről és a jogsértésekre alkalmazandó szankciók bevezetéséről szóló, 2005. szeptember 7-ei 2005/35/EK európai parlamenti és tanácsi irányelv 12. cikkének
 
-[^126]: A 9/A. §-t a 91/2010. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^127]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^128]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^129]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^130]: A 10. § (2) bekezdés h) pontját a 108/2010. (IV. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^131]: A 10. § (3) bekezdése a 108/2010. (IV. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^125]: A 9/A. §-t a 91/2010. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be. [A 9/B. §-nak a 82/2011. (V. 18.) Korm. rendelet 31. §-ával megállapított, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „9/B. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”.]
+[^126]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^127]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^128]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^129]: A 10. § (2) bekezdés h) pontját a 108/2010. (IV. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^130]: A 10. § (3) bekezdése a 108/2010. (IV. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^131]: A 10. § (3) bekezdés c) pontját a 326/2010. (XII. 27.) Korm. rendelet 12. §-a iktatta be. [A 10. § (3) bekezdés d)–f) pontjainak a 82/2011. (V. 18.) Korm. rendelet 32. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „d) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, e) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének, továbbá f) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének”.]
