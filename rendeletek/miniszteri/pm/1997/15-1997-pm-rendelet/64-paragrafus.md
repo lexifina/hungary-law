@@ -1,1 +1,0 @@
-## 63. § A csökkentett mértékben folyósított szolgálati nyugdíj helyett a teljes összegű szolgálati nyugdíjat az ötvenedik életév betöltése hónapjának első napjától, illetve az 50%-os munkaképesség-csökkenés orvosi megállapításának hónapjának első napjától – legkorábban az igénybejelentést megelőző hatodik hónap első napjától – kell folyósítani.

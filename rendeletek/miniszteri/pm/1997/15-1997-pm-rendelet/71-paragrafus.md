@@ -1,1 +1,0 @@
-## 70. § Az állományilletékes parancsnok köteles gondoskodni arról, hogy a pénzügyőr, illetőleg elhalálozása esetén a jogosult családtagok – özvegyi, árvaellátása elbírálásához szükséges okmányok és egyéb adatok a szolgálati viszony megszűnéséről szóló parancs megjelenésétől számított legkésőbb 15 napon belül az országos parancsnoksághoz kerüljenek.

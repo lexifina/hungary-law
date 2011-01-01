@@ -1,1 +1,0 @@
-## 45. § A felsorolt elismerések a Nemzetközi Vámnap (január 26.), a Magyar Köztársaság állami és nemzeti ünnepei (március 15., augusztus 20., október 23.) vagy rendkívüli, kiemelkedő szolgálatteljesítés, betöltött szolgálati évek, illetőleg 50. születésnap alkalmából adományozhatóak.

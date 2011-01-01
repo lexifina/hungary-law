@@ -1,5 +1,0 @@
-## 99. § A rendelet a kihirdetését követő 8. napon lép hatályba. Hatálybalépésével egyidejűleg hatályát veszti a Munka Törvénykönyve egyes rendelkezéseinek a vám- és pénzügyőrség hivatásos állományú tagjai szolgálati viszonyára való alkalmazásáról szóló 26/1992. (XI. 12.) PM rendelet, a vám- és pénzügyőrség fegyelmi szabályzatáról szóló 8/1978. (PK 10.) PM utasítás, a vám- és pénzügyőrség hivatásos állományú tagjainak képesítési szabályairól szóló 6/1994. (PK 12.) PM utasítás, valamint a vám- és pénzügyőrség szervezeti és szolgálati szabályzatáról szóló 7/1978. (PK 10.) PM utasítás 1., 11., 12., 13., 14., 15., 16., 18., 20., 21., 22., 23., 25., 27., 28., 29., 30., 31., 32., 35., 67., 72. §-ai, valamint az ezt az utasítást módosító 5/1994. (PK 12.) PM utasítás.
-
-1. számú melléklet a 15/1997. (V. 8.) PM rendelethez[^51]
-
-[^51]: Az 1. számú melléklet az 5/2008. (III. 27.) PM rendelet 3. § (2) bekezdésével megállapított és a 44/2008. (XII. 31.) PM rendelet 21. § (2) bekezdése szerint módosított szöveg.
