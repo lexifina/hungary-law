@@ -2,6 +2,6 @@
 
 (2) A bírságbevételek felhasználásáról az (1) és (3) bekezdésben foglaltak figyelembevételével az egészségügyért felelős miniszter dönt oly módon, hogy döntése előtt a kémiai biztonságot koordináló tárcaközi bizottság javaslatát megkéri.
 
-(3)[^20] Az előző évi bírságbevételek felhasználásáról minden év december 10-éig kell dönteni az (1) bekezdésben megjelölt valamennyi cél figyelembevételével.
+(3)[^21] Az előző évi bírságbevételek felhasználásáról minden év december 10-éig kell dönteni az (1) bekezdésben megjelölt valamennyi cél figyelembevételével.
 
-[^20]: A 4. § (3) bekezdése a 123/2009. (VI. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^21]: A 4. § (3) bekezdése a 123/2009. (VI. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
