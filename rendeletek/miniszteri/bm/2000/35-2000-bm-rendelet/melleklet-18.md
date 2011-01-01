@@ -198,6 +198,6 @@
 
 ## A biztonsági gyártóműi jelzés ne legyen eltávolítható a rendszámtábla megsértése nélkül.
 
-18. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^449]
+18. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^451]
 
-[^449]: A 18. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (10) bekezdése iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^451]: A 18. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (10) bekezdése iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.

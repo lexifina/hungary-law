@@ -1,28 +1,28 @@
 ## Előzetes eredetiségvizsgálat
 
-44. §[^148] (1)[^149]
+44. §[^149] (1)[^150]
 
 (2) Az előzetes eredetiségvizsgálatot – a (9)–(10) bekezdésekben foglaltakat kivéve – el kell végezni:
 
-a)[^150] a 38. § (3) bekezdés b) pontjában foglalt eseteket kivéve a használt jármű, továbbá a gyártótól származó járműkísérő lappal nem rendelkező új jármű, valamint a járműnyilvántartásba korábban még nem vett lassú jármű, vagy egyéb jármű első forgalomba helyezésekor;
+a)[^151] a 38. § (3) bekezdés b) pontjában foglalt eseteket kivéve a használt jármű, továbbá a gyártótól származó járműkísérő lappal nem rendelkező új jármű, valamint a járműnyilvántartásba korábban még nem vett lassú jármű, vagy egyéb jármű első forgalomba helyezésekor;
 
-b)[^151] a forgalomból végleg, illetve átmeneti időszakra kivont járművek ismételt forgalomba helyezésekor, illetve a forgalomból ideiglenesen kivont járművek esetén az ismételt forgalomba helyezéskor akkor, ha tulajdonos változás következett be;
+b)[^152] a forgalomból végleg, illetve átmeneti időszakra kivont járművek ismételt forgalomba helyezésekor, illetve a forgalomból ideiglenesen kivont járművek esetén az ismételt forgalomba helyezéskor akkor, ha tulajdonos változás következett be;
 
-c)[^152]
+c)[^153]
 
 d) a jármű alvázszámának megváltoztatásával járó műszaki beavatkozást (alvázszámot hordozó szerkezeti elem, alváz vagy karosszéria cseréje) megelőzően;
 
-e)[^153]
+e)[^154]
 
 f) a jármű – kivéve a lassú járművet és a lassú jármű pótkocsiját – tulajdonjogában bekövetkezett változás nyilvántartásba vételekor;
 
-g)[^154]
+g)[^155]
 
-h)[^155]
+h)[^156]
 
 (3) Forgalomba még nem helyezett sérült jármű esetében az előzetes eredetiség ellenőrzést a jármű alvázszámának megváltoztatásával járó műszaki beavatkozást (alvázszámot hordozó szerkezeti elem, alváz vagy karosszéria cseréje, illetve javítása) és a közlekedési hatóság műszaki megvizsgálását megelőzően kell kezdeményezni.
 
-(4)[^156] A 38/A. §-ban meghatározott, külföldről belföldi üzemeltetés céljából behozott járművek esetében az előzetes eredetiségvizsgálatot a származásellenőrzés eredményéről szóló határozat jogerőre emelkedését követően lehet elvégeztetni.
+(4)[^157] A 38/A. §-ban meghatározott, külföldről belföldi üzemeltetés céljából behozott járművek esetében az előzetes eredetiségvizsgálatot a származásellenőrzés eredményéről szóló határozat jogerőre emelkedését követően lehet elvégeztetni.
 
 (5) A (2) bekezdés a)–f) pontjában felsorolt a közlekedési igazgatási ügyintézés megkezdésének feltétele az eljárás kezdeményezését megelőzően legfeljebb hatvan napon belül elvégzett előzetes eredetiségvizsgálat. A hatvan napos határidőbe nem számít be az az idő, amíg az eredetiségvizsgálatot követő büntetőeljárás során a jármű lefoglalás miatt a hatóság őrizetében volt.
 
@@ -30,7 +30,7 @@ h)[^155]
 
 (7) A (2) bekezdésben felsorolt közlekedési igazgatási eljárásban a közlekedési igazgatási hatóság ellenőrzi a jármű előzetes eredetiségvizsgálatának meglétét, eredményét, valamint annak érvényességi idejét.
 
-(8)[^157]
+(8)[^158]
 
 (9) Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha
 
@@ -44,19 +44,19 @@ d) a jármű nyilvántartott üzemben tartója változatlan marad, feltéve, ha 
 
 e) annak jogalapja állami szerv kezelésében, tulajdonában lévő jármű egymás közötti tulajdonjog-változás,
 
-f)[^158] annak jogalapja a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést.
+f)[^159] annak jogalapja a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést.
 
-(10)[^159] A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
+(10)[^160] A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^148]: A 44. § és az azt megelőző alcím a 34/2004. (VI. 28.) BM rendelet 17. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
-[^149]: A 44. § (1) bekezdését a 76/2009. (XII. 28.) IRM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^150]: A 44. § (2) bekezdésének a) pontja a 6/2009. (III. 31.) IRM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
-[^151]: A 44. § (2) bekezdésének b) pontja a 41/2005. (X. 7.) BM rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^152]: A 44. § (2) bekezdésének c) pontját a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
-[^153]: A 44. § (2) bekezdés e) pontját a 9/2010. (III. 31.) IRM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^154]: A 44. § (2) bekezdésének g) pontját a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
-[^155]: A 44. § (2) bekezdésének h) pontját a 16/2005. (IV. 4.) BM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
-[^156]: A 44. § (4) bekezdése a 6/2009. (III. 31.) IRM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
-[^157]: A 44. § (8) bekezdését a 76/2009. (XII. 28.) IRM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^158]: A 44. § (9) bekezdésének f) pontja a 6/2009. (III. 31.) IRM rendelet 16. § (3) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
-[^159]: A 44. § (10) bekezdése a 6/2009. (III. 31.) IRM rendelet 16. § (4) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^149]: A 44. § és az azt megelőző alcím a 34/2004. (VI. 28.) BM rendelet 17. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^150]: A 44. § (1) bekezdését a 76/2009. (XII. 28.) IRM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^151]: A 44. § (2) bekezdésének a) pontja a 6/2009. (III. 31.) IRM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
+[^152]: A 44. § (2) bekezdésének b) pontja a 41/2005. (X. 7.) BM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^153]: A 44. § (2) bekezdésének c) pontját a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^154]: A 44. § (2) bekezdés e) pontját a 9/2010. (III. 31.) IRM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^155]: A 44. § (2) bekezdésének g) pontját a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^156]: A 44. § (2) bekezdésének h) pontját a 16/2005. (IV. 4.) BM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^157]: A 44. § (4) bekezdése a 6/2009. (III. 31.) IRM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
+[^158]: A 44. § (8) bekezdését a 76/2009. (XII. 28.) IRM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^159]: A 44. § (9) bekezdésének f) pontja a 6/2009. (III. 31.) IRM rendelet 16. § (3) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^160]: A 44. § (10) bekezdése a 6/2009. (III. 31.) IRM rendelet 16. § (4) bekezdésével megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.

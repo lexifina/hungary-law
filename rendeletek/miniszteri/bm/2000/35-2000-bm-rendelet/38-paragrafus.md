@@ -1,6 +1,6 @@
-## A járművek forgalomba helyezése és ideiglenes forgalomban tartása[^117]
+## A járművek forgalomba helyezése és ideiglenes forgalomban tartása[^118]
 
-38. §[^118] (1) A külön jogszabályban[^119] meghatározott járművel – kivéve a trolibuszt, villamost, kerékpárt, a két- és háromkerekű segédmotoros kerékpárt, állati erővel vont járművet, kézikocsit – közúti forgalomban akkor lehet részt venni, ha forgalomba helyezték, vagy ideiglenes forgalomban tartását engedélyezték.
+38. §[^119] (1) A külön jogszabályban[^120] meghatározott járművel – kivéve a trolibuszt, villamost, kerékpárt, a két- és háromkerekű segédmotoros kerékpárt, állati erővel vont járművet, kézikocsit – közúti forgalomban akkor lehet részt venni, ha forgalomba helyezték, vagy ideiglenes forgalomban tartását engedélyezték.
 
 (2) A járművet akkor lehet forgalomba helyezni, ha
 
@@ -8,7 +8,7 @@ a) a tulajdonjog megszerzését eredeti okirattal vagy eredetivel megegyezőkén
 
 b) a kötelező gépjármű-felelősségbiztosítás meglétét igazolták,
 
-c) a külön jogszabályban[^120] meghatározott gépjárművek esetén a vámhatóság által kiállított regisztrációs adóigazolást bemutatták, és annak valódiságát a rendelkezésre álló nyilvántartásban a közlekedési igazgatási hatóság ellenőrizte,
+c) a külön jogszabályban[^121] meghatározott gépjárművek esetén a vámhatóság által kiállított regisztrációs adóigazolást bemutatták, és annak valódiságát a rendelkezésre álló nyilvántartásban a közlekedési igazgatási hatóság ellenőrizte,
 
 d) a jármű műszaki alkalmasságát a közlekedési hatóság megállapította,
 
@@ -42,7 +42,7 @@ a) a tulajdonjog megszerzését igazoló okiratot,
 
 b) a kötelező gépjármű-felelősségbiztosítás meglétét tanúsító igazolást,
 
-c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság által kiállított Műszaki Adatlapot.[^121]
+c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság által kiállított Műszaki Adatlapot.[^122]
 
 (7) A jármű forgalomba helyezése nyilvántartásba vétellel, a forgalmi engedély, a rendszámtábla, és – a 46/A. § (1) bekezdésében meghatározott járműveknél – az új típusú rendszámtáblához tartozó regisztrációs matrica kiadásával valósul meg.
 
@@ -56,11 +56,11 @@ c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 
 (12) A Hivatal a más EGT-állam nyilvántartó hatóságát a külföldi forgalmi engedély bevonásáról a jármű magyarországi forgalomba helyezésétől számított két hónapon belül értesíti, ezt követően az állam nyilvántartó hatóságának kérésére, illetve viszonosság esetén a külföldi okmányokat, hatósági jelzéseket az azt kiadó hatósághoz továbbítja, egyéb esetekben a külön jogszabályban meghatározott őrzési időt követően megsemmisíti.
 
-(13)[^122] A jármű forgalomba helyezése iránti, illetve a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
+(13)[^123] A jármű forgalomba helyezése iránti, illetve a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
 
-[^117]: A 38. § előtti cím a 27/2005. (V. 31.) BM rendelet 15. §-a (2) bekezdésének a) pontjával megállapított szöveg.
-[^118]: A 38. § a 6/2009. (III. 31.) IRM rendelet 13. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
-[^119]: Lásd az 1/1975. (II. 5.) KPM–BM együttes rendeletet.
-[^120]: Lásd a 2003: CX. törvényt.
-[^121]: Lásd a 16/2005. (IV. 4.) BM rendelet 11. §-át.
-[^122]: A 38. § (13) bekezdését a 76/2009. (XII. 28.) IRM rendelet 1. §-a iktatta be.
+[^118]: A 38. § előtti cím a 27/2005. (V. 31.) BM rendelet 15. §-a (2) bekezdésének a) pontjával megállapított szöveg.
+[^119]: A 38. § a 6/2009. (III. 31.) IRM rendelet 13. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. július 1. napját követően indult eljárásokban kell alkalmazni.
+[^120]: Lásd az 1/1975. (II. 5.) KPM–BM együttes rendeletet.
+[^121]: Lásd a 2003: CX. törvényt.
+[^122]: Lásd a 16/2005. (IV. 4.) BM rendelet 11. §-át.
+[^123]: A 38. § (13) bekezdését a 76/2009. (XII. 28.) IRM rendelet 1. §-a iktatta be.

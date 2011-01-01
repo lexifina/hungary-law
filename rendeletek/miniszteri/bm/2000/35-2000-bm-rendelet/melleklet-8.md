@@ -26,7 +26,7 @@
 
 ## 03.02. alsó művégtag(ok)
 
-## 04 [^426]
+## 04 [^428]
 
 ## 05 Gépjárművezetés korlátozása egészségi okok miatt (kötelező alkódok)
 
@@ -290,18 +290,18 @@
 
 ## 184 Járműfajtától eltiltva
 
-## 185[^427] „T” kategóriába tartozó mezőgazdasági vontató könnyű pótkocsival
+## 185[^429] „T” kategóriába tartozó mezőgazdasági vontató könnyű pótkocsival
 
 ## 186 ,,K'' kategóriában meghatározott járműveken kívül lassú járművet és pótkocsiját is vezetheti
 
-## 187[^428] „T” kategóriába tartozó mezőgazdasági vontató pótkocsival
+## 187[^430] „T” kategóriába tartozó mezőgazdasági vontató pótkocsival
 
-## 270[^429] A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
+## 270[^431] A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-8. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^430]
+8. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^432]
 
-[^426]: A 7. számú melléklet 0.4 kódját a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
-[^427]: A 7. számú melléklet 185. pontja az 53/2004. (IX. 15.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^428]: A 7. számú melléklet 187. pontját az 53/2004. (IX. 15.) BM rendelet – a Magyar Közlöny 2004. évi 136. számában megjelent helyesbítésnek megfelelő – 3. § (2) bekezdése iktatta be.
-[^429]: A 7. számú melléklet 270. pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 13. pontja szerint módosított szöveg.
-[^430]: A 8. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
+[^428]: A 7. számú melléklet 0.4 kódját a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
+[^429]: A 7. számú melléklet 185. pontja az 53/2004. (IX. 15.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^430]: A 7. számú melléklet 187. pontját az 53/2004. (IX. 15.) BM rendelet – a Magyar Közlöny 2004. évi 136. számában megjelent helyesbítésnek megfelelő – 3. § (2) bekezdése iktatta be.
+[^431]: A 7. számú melléklet 270. pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 13. pontja szerint módosított szöveg.
+[^432]: A 8. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
