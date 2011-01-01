@@ -15,3 +15,5 @@
 4. Az Art. 2. számú melléklet IV. pontja a következő alcímmel és rendelkezéssel egészül ki:
 
 „Általános rendelkezések:
+
+A vámhatósághoz teljesítendő 1000 forintot el nem érő adókötelezettséget az adózónak nem kell megfizetnie, és a vámhatóság az 1000 forintot el nem érő adó-visszatérítést nem utalja ki, és nem tartja nyilván.”
