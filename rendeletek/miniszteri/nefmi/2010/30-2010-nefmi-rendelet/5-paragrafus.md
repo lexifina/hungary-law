@@ -1,7 +1,0 @@
-## „i) több hatóanyagot is tartalmazó orális gyógyszerformájú készítmény a támogatásba akkor fogadható be egyszerűsített eljárással, ha a kombinációs készítmény valamennyi monokomponense támogatott, és fogyasztói áron számított napi terápiás költsége nem haladja meg az azonos forgalomba hozatali engedély jogosult által forgalmazott monokomponenseket tartalmazó, a kombinációs készítmény hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű már támogatott formájának fogyasztói áron számolt napi terápiás költségének összegét;
-
-## j) az orális kombinációs készítmények egy napi adagra eső támogatása nem haladhatja meg a termék hatáserősségéhez és kiszereléséhez legközelebb álló hatáserősségű és kiszerelésű monokomponensek egy napi adagra eső támogatásának összegét, amennyiben mindegyik monokomponens támogatott;
-
-## k) orális kombinációs készítmény esetén amennyiben nincs azonos forgalomba hozatali engedély jogosult által forgalmazott, az adott monokomponenst tartalmazó készítmény, és amennyiben az adott monokomponens hatóanyag alapú vagy terápiás fix támogatásban részesül, úgy a számításkor az adott hatóanyag alapú fix csoport referencia termékének fogyasztói áron számított, vagy a terápiás fix csoport referencia napi terápiás költségét kell figyelembe venni;
-
-## l) az i)–k) pont szerinti befogadások esetén az OEP a határozatában megjelöli a közfinanszírozás alapjául elfogadott ár és a támogatási összeg számítása során figyelembe veendő készítményeket és fix csoportokat.”
