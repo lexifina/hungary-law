@@ -1,1 +1,0 @@
-## 7. § A R. 3. melléklet I. rész II. pontjában a „jövedéki szállítmányok” szövegrész helyébe a „jövedéki szállítmányok, valamint a(z) – belföldi relációban szállított – adózott jövedéki szállítmányok” szöveg lép.
