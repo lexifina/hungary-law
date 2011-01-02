@@ -1,1 +1,0 @@
-## „(15) A befektetési portfolió részét képező eszköz beszerzésére kötött leszállítási opciós ügylet esetén a pénztár a számviteli politikájában rögzített döntése szerint a (14) vagy a (17) bekezdés előírásai szerint jár el.”

@@ -1,6 +1,4 @@
-## 45. § A pénzváltásról szóló 297/2001. (XII. 27.) Korm. rendelet (a továbbiakban: Pvr.) 19. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A pénzváltási tevékenységet ügynökként folytató vállalkozásnak a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység során birtokába került, a megbízót megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.”
+## 45. §[^8]
 
 ## VIII. Fejezet
 
@@ -17,3 +15,5 @@
 (4) A Hitkr. e rendelettel megállapított 2. §-a 48. pontját, 5. §-a (5) bekezdésének l) pontját, 13. §-a (2) bekezdésének b) pontját, 7. számú melléklete V. fejezete (12) bekezdésének c) pontját, továbbá 7. számú mellékletének VII. fejezetét először a 2010. január 1-jén vagy azt követően újratárgyalt, módosított, átstrukturált szerződések, megkötött kiegészítő megállapodások, új szerződések, tőkésített kamatok kapcsán fennálló követelések 2010. második negyedéves minősítésénél és értékelésénél kell alkalmazni.
 
 (5) A Hitkr. e rendelettel megállapított 13. §-a (2) bekezdésének b) pontját a 2010. január 1-jét megelőzően tőkésített – a Hitkr. 13. §-a (2) bekezdésének a) pontja alá nem tartozó – kamatokra először a 2011. december 31-i mérlegfordulónapra vonatkozó értékelésnél kell alkalmazni.
+
+[^8]: A 45. §-t a 49. § (1) bekezdése hatályon kívül helyezte.

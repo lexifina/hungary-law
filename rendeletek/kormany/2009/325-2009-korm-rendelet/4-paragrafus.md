@@ -1,3 +1,0 @@
-## 3. § A Hitkr. 9. §-a a következő (21) bekezdéssel egészül ki:
-
-## „(21) Ha a devizára szóló, vagy devizaalapon forintra szóló, még fennálló követelés vagy kötelezettség pénznemét szerződésmódosítás útján megváltoztatják, akkor a módosítás előtti pénznemre szóló követelés vagy kötelezettség könyvekből kivezetett nyilvántartási forintértéke és a módosítás szerinti új pénznemre szóló követelés vagy kötelezettség könyvekbe felvett forintértéke közötti különbözet nem minősül átértékelési különbözetnek, annak összegét – jellegétől függően – az egyéb pénzügyi szolgáltatások bevételei vagy ráfordításai között kell elszámolni.”
