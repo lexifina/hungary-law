@@ -2,7 +2,7 @@
 
 a) a közgyűlést levezető elnök, a jegyzőkönyvvezető és a jegyzőkönyv hitelesítésére megválasztott két tulajdonostárs nevét;
 
-b) a jelenléti ív alapján a megjelent tulajdonostársak nevét és tulajdoni hányadát, illetőleg a tulajdonostárs által meghatalmazott személy nevét;
+b) azt, hogy a megjelent tulajdonostársak nevét, tulajdoni hányadát, továbbá a távol lévő tulajdonostárs által meghatalmazott személy nevét a jegyzőkönyvhöz mellékelt jelenléti ív tartalmazza;
 
 c) a közgyűlés határozatképességének megállapítását;
 

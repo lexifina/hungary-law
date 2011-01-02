@@ -2,4 +2,4 @@
 
 (2) Az írásbeli szavazásnak és az eredmény megállapításának részletes szabályait a szervezeti-működési szabályzatban kell meghatározni.
 
-(3) Az írásbeli szavazás eredményéről a közös képviselő vagy az intézőbizottság elnöke – a 19. § (3) bekezdésében foglaltaknak megfelelően – tájékoztatja a tulajdonostársakat.
+(3) Az írásbeli szavazás eredményét a közös képviselő vagy az intézőbizottság elnöke – a 19. § (3) bekezdésében foglaltaknak megfelelően – írásban köteles közölni a tulajdonostársakkal.

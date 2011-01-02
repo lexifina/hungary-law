@@ -43,3 +43,7 @@ A karbantartás lehet:
 4.2. minden más esetben: ha az írásbeli határozati javaslatra leadott érvényes és azonos írásbeli szavazatok aránya nem éri el a tulajdonostársak tulajdoni hányada alapján számított szavazattöbbségnek a törvényben meghatározott mértékét.
 
 5. Közvetlenül érintett szomszédos tulajdonostársak: a társasházban lévő külön tulajdont elhatároló épületszerkezet két oldalán lévő tulajdonosok.
+
+6. Üzletszerűen végzett társasház-kezelői, illetve üzletszerűen végzett ingatlankezelő tevékenység: társasház-kezelői, illetve ingatlankezelői szolgáltatás, mely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottak szerint önálló, üzletszerűen – nyereség elérése érdekében rendszeresen, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység.
+
+7. A közösség éves pénzforgalma: a gazdálkodási évben, készpénzben és bankszámlán befolyt összes bevétel és kifizetett összes kiadás együttes összege.

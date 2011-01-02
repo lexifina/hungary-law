@@ -1,15 +1,17 @@
-## A könyvvizsgálatot és a gazdasági ellenőrzési feladatot ellátó személy
+## III/A. Fejezet
 
-51/A. § (1) Ha a közösség éves pénzügyi forgalma eléri vagy meghaladja a tízmillió Ft-ot, vagy az alapító okirat szerint külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek száma eléri vagy meghaladja az ötvenet, a számvizsgáló bizottság, illetőleg az ellenőrzési jogkör gyakorlója (a továbbiakban együtt: számvizsgáló bizottság) feladat-ellátásának segítésére – különösen az éves elszámolás és a költségvetési javaslat előzetes véleményezésére – legalább regisztrált mérlegképes könyvelőt, vagy annál magasabb számviteli képesítéssel bíró és ebbéli minőségében regisztált személyt, vagy gazdasági társaságot (a továbbiakban: gazdasági ellenőrzést segítő személy) kell igénybe venni.
+## A GAZDASÁGI ELLENŐRZÉS SEGÍTÉSE
 
-(2) Nem lehet gazdasági ellenőrzést segítő személy a társasházban tulajdonostárs, haszonélvező, más használó, a közös képviselő (az intézőbizottság elnöke, tagja), a számvizsgáló bizottság elnöke, tagja és ezek közeli hozzátartozója [Ptk. 685. § b) pont], e minősége fennállása alatt és annak megszűnésétől számított egy évig.
+## A gazdasági ellenőrzést segítő személy
 
-(3) Az ellenőrzési feladatot az ilyen tevékenység folytatására jogosult könyvvizsgáló cég is elláthatja. A könyvvizsgáló cég megbízásakor a könyvvizsgálatot végző természetes személyt (kamarai tag könyvvizsgálót) is meg kell nevezni. Ebben az esetben a (2) bekezdésben meghatározott előírások a természetes személyre (kamarai tag könyvvizsgálóra) vonatkoznak.
+51/A. § (1) Ha a közösség éves pénzforgalma meghaladja a húszmillió forintot vagy az alapító okirat szerint külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek száma meghaladja az ötvenet, a számvizsgáló bizottság, illetőleg az ellenőrzési jogkör gyakorlója (a továbbiakban együtt: számvizsgáló bizottság) feladatellátásának segítésére – a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített éves elszámolás és a következő évi költségvetési javaslat előzetes vizsgálatára és véleményezésére – gazdasági ellenőrzést segítő személyt kell igénybe venni. Gazdasági ellenőrzést segítő személy a számvitelről szóló törvény szerinti könyvviteli szolgáltatás végzésére jogosult szolgáltató vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy lehet.
 
-(4) A gazdasági ellenőrzést segítő személy betekinthet a közösség pénzforgalommal kapcsolatos irataiba, a közös képviselőtől (az intézőbizottság elnökétől) és a számvizsgáló bizottság elnökétől, tagjaitól felvilágosítást kérhet. Feladata különösen a társasház befektetett eszközeinek, készletállományának, pénzeszközeinek, követeléseinek és kötelezettségeinek, pénzmaradványának és eredményének vizsgálata.
+(2) Nem kötelező az (1) bekezdésben említett gazdasági ellenőrzést segítő személy igénybevétele, ha:
 
-(5) A gazdasági ellenőrzést segítő személy köteles megvizsgálni a közgyűlés elé terjesztett éves beszámolót és a költségvetési javaslatot abból a szempontból, hogy azok valós adatokat tartalmaznak-e, illetve megfelelnek-e a jogszabályok előírásainak, továbbá – különösen az adósságot keletkeztető kötelezettségvállalások tekintetében – köteles a pénzügyi helyzetet elemezni.
+a) az ellenőrzési feladatok ellátása az 51. § (5) bekezdés alapján biztosított,
 
-(6) A gazdasági ellenőrzést segítő személy tanácskozási joggal vesz részt a pénzforgalommal kapcsolatos közgyűlési napirendi pont tárgyalásán, amelyre őt a közös képviselő (az intézőbizottság elnöke) köteles meghívni. A könyvvizsgáló véleményéről írásban köteles tájékoztatni a közgyűlést, amelyet a meghívóhoz mellékelni kell; az e körbe tartozó napirendi pontokról a könyvvizsgáló véleményének hiánya esetén érvényes közgyűlési határozat nem hozható.
+b) a számvizsgáló bizottság elnöke vagy tagja mérlegképes könyvelői vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy, vagy
 
-(7) Ha a gazdasági ellenőrzést segítő személy tudomást szerez a közösség vagyonának várható jelentős csökkenéséről és más olyan tényről, amely társasházi tisztségviselő törvényben meghatározott felelősségre vonását vonhatja maga után, köteles a közgyűlés összehívását kérni a közös képviselőtől (az intézőbizottság elnökétől).
+c) a közös képviselő, az intézőbizottság elnöke vagy tagja mérlegképes könyvelői vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy, vagy társasház-kezelői vagy ingatlankezelői szakképesítéssel rendelkezik és megfelel az e törvény 52– 55. § szerinti feltételeknek.
+
+(3) A gazdasági ellenőrzés segítésével olyan gazdálkodó szervezet is megbízható, melynek tagja vagy alkalmazottja rendelkezik az (1) bekezdésben meghatározott szakképesítéssel. A gazdálkodó szervezet megbízásakor a gazdasági ellenőrzést segítő természetes személyt is meg kell nevezni.

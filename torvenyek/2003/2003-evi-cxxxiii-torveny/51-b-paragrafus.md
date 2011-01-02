@@ -1,0 +1,7 @@
+## A gazdasági ellenőrzést segítő személy jogai és kötelezettségei
+
+51/B. § (1) A gazdasági ellenőrzést segítő személy feladata a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített éves elszámolás és a következő évi költségvetési javaslat – éves közgyűlés elé terjesztett – tervezetének előzetes vizsgálata és véleményezése.
+
+(2) A gazdasági ellenőrzést segítő személy az (1) bekezdésben meghatározott feladatának elvégzése céljából betekinthet a közösség számviteli nyilvántartásaiba – ideértve a pénzforgalommal kapcsolatos iratokat is –, az azt alátámasztó bizonylatokba, dokumentumokba, valamint a közös képviselőtől, az intézőbizottság elnökétől, tagjaitól és a számvizsgáló bizottság elnökétől, tagjaitól felvilágosítást kérhet.
+
+(3) A gazdasági ellenőrzést segítő személy tanácskozási joggal vesz részt az (1) bekezdésben említett közgyűlési napirendi pont tárgyalásán, amelyre őt kötelező meghívni. A gazdasági ellenőrzést segítő személy a véleményéről és vizsgálatának eredményéről – ideértve azt is, ha tudomást szerez a közösség vagyonának várható jelentős csökkenéséről, illetve más olyan tényről, amely társasházi tisztségviselő felelősségre vonását vonhatja maga után –, írásban köteles tájékoztatni a közgyűlést. A gazdasági ellenőrzést segítő személy e tájékoztatását a meghívóhoz mellékelni kell; ennek elmulasztása esetén az e körbe tartozó napirendi pontokról hozott közgyűlési határozat érvénytelen.
