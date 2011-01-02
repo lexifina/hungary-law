@@ -1,3 +1,0 @@
-1. § (1) E rendelet alkalmazásában ki nem adott alkalmi munkavállalói könyvnek (a továbbiakban: AM-könyv) tekintendők azok a munkaügyi központnál lévő, az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény alapján készült AM-könyvek, amelyekben 2010. március 31-én bejegyzés nem szerepel, vagy hibás kitöltés miatt a munkavállaló részére történő kiadásukra nem került sor.
-
-(2) Nem minősülnek ki nem adott AM-könyvnek azok a valamely munkavállaló részére kiállított, valamely ok miatt a munkaügyi központnál található AM-könyvek, amelyekben a munkavégzésre vonatkozó lapon bejegyzés szerepel.
