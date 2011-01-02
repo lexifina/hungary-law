@@ -1,3 +1,0 @@
-## 5. § Az R2. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az erdőtelepítés első kiviteléhez, az ápolásához, valamint erdőtelepítés miatti jövedelemkiesés pótlásához nyújtott támogatás az első kifizetési kérelem alapján az első kivitel elvégzését követően akkor fizethető ki, ha az erdészeti hatóság az erdőtelepítés befejezését az Országos Erdőállomány Adattárba bejegyezte, és arról jogerős határozatot hozott. A második kifizetési kérelem benyújtását követően támogatás csak akkor folyósítható, ha az ingatlan-nyilvántartásban az erdő művelési ág átvezetése legkésőbb a második kifizetési kérelem benyújtásának évében június 30-ig megtörtént.”
