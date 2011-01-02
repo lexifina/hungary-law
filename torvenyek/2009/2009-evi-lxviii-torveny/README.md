@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-68-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-68-00-00.1 |
 | 2010-06-29 | 2010. évi LIX. törvény | 2009-68-00-00.2 |
+| 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-68-00-00.3 |
