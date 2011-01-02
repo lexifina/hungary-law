@@ -6,7 +6,7 @@
 
 (2) Azt, hogy mely eljárásért vagy szolgáltatásért kell díjat fizetni, továbbá a díj mértékét
 
-a) törvény felhatalmazása alapján a Kormány vagy a Magyar Nemzeti Bank elnöke,
+a) törvény felhatalmazása alapján a Nemzeti Média- és Hírközlési Hatóság Elnöke vagy a Magyar Nemzeti Bank elnöke,
 
 b) törvény, eredeti jogalkotó hatáskörben kiadott kormányrendeletben létrehozott eljárás vagy szolgáltatás esetében az eljárást vagy szolgáltatást létrehozó kormányrendelet felhatalmazása alapján a szakmai tevékenység irányításáért felelős miniszter az adópolitikáért felelős miniszter egyetértésével
 
