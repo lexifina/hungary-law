@@ -1,1 +1,0 @@
-## „(4) Ha a fekvőbeteg-gyógyintézetnek több bejegyzett telephelye is van, minden 300 ágy feletti telephelyén a 23. § (2) bekezdés aa) alpontja szerinti feladatok ellátásához szükséges személyi és tárgyi feltételeket a 24. § (2) bekezdése és a 25. § (4) bekezdése figyelembevételével kell biztosítani.”
