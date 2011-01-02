@@ -1,9 +1,0 @@
-16. § A GET a következő 141/C. §-sal egészül ki:
-
-„141/C. § (1) A Felajánlási rendelet 1. mellékletében foglaltak alapján 2011. első és második negyedévére a volt közüzemi nagykereskedő ismét köteles felajánlani földgáz forrását az egyetemes szolgáltatók részére az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény kihirdetését követő három munkanapon belül, öt munkanapig tartó ajánlati kötöttség mellett. A szerződést 2011. január 1-ig írásba kell foglalni. Ezen szerződés 2011. június 30-ig nem szüntethető meg.
-
-(2) Az e § szerint vásárolt földgáz kizárólag az egyetemes szolgáltatásra jogosult fogyasztók ellátására fordítható. A Hivatal ellenőrizheti, hogy az egyetemes szolgáltató kizárólag az egyetemes szolgáltatásra jogosultak ellátására fordította-e az ezen § szerint vásárolt földgázt.
-
-(3) Az újonnan kötött szerződéseket a Hivatalnak tájékoztatás céljából az aláírást követő egy munkanapon belül meg kell küldeni.
-
-(4) E § alapján vásárolt mennyiség a felek közötti, a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény, valamint a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2010. évi CXXXIV. törvény hatálybalépését megelőzően kötött szerződésekben meghatározott teljes éves egyetemes szolgáltatási célra értékesített mennyiséget csökkenti. Ebben az esetben a szerződés szerint a szerződésben megállapított földgázmennyiségnél kevesebb földgáz átvételének esetére meghatározott szerződéses jogkövetkezmények nem alkalmazhatók.”
