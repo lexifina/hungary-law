@@ -1,3 +1,0 @@
-## 1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: NMr.) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Mentesül a szakvizsga letételének kötelezettsége alól az, aki a gyermekjóléti, gyermekvédelmi szakképesítéshez kapcsolódó szakterületen tudományos fokozatot szerzett, ideértve – az egyetemi végzettséget igazoló doktori címek kivételével – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 149. §-a szerinti doktori címeket, továbbá akinek 2001. január 1-jét követően öt vagy öt évnél kevesebb időtartam van hátra a reá irányadó nyugdíjkorhatár betöltéséig.”
