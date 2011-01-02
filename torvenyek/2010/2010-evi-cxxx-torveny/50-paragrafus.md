@@ -1,1 +1,0 @@
-50. § Hatályát veszti a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 37. § (6) bekezdése, valamint a 17. § (4) bekezdésében az „irányelvek és elvi állásfoglalások,” szövegrész.
