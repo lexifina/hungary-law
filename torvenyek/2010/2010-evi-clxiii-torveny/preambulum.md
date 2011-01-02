@@ -1,0 +1,1 @@
+Az Országgyűlés mint alkotmánymódosító hatalom a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény (a továbbiakban: Alkotmány) 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alkotmányt a következők szerint módosítja:

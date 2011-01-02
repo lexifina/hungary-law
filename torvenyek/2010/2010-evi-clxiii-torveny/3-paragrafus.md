@@ -1,0 +1,9 @@
+3. § E törvény 2011. január 2-án lép hatályba.
+
+Dr. Schmitt Pál s. k.,
+
+köztársasági elnök
+
+Dr. Kövér László s. k.,
+
+az Országgyűlés elnöke
