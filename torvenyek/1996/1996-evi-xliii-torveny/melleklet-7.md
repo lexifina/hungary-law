@@ -117,3 +117,5 @@ VI. A szolgálat teljesítésének adatai:
 – a szolgálat során elért címek,
 
 – betöltött beosztás(ok),
+
+– helyettesítési megbízások,
