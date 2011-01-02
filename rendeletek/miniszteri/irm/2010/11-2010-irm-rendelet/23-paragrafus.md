@@ -1,5 +1,0 @@
-## 22. § A 9/2002. (IV. 9.) IM rendelet 109. §-a helyébe a következő rendelkezés lép:
-
-## „109. § (1) Ha az elítélt a szabadságvesztés végrehajtása során részesül kegyelemben, szabadításával egyidejűleg a bv. intézet a kegyelemmel érintett, II. jelzésű értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével és a foglalkozásról eltiltás, járművezetéstől eltiltás, kiutasítás vagy mellékbüntetés leteltének napjával, továbbá e büntetések végrehajtását befolyásoló tényekkel és ezek fennállásának időtartamával feltünteti – a beszámításra vonatkozó adatok kitöltését követően –, és a 93/B. § (2)–(3) bekezdésben, 93/J. § (2) bekezdésében vagy 95. § (2) bekezdésében megjelölt érintett hatóságnak küldi meg.
-
-## (2) Ha a kegyelem más büntetésre is kiterjed, a bv. intézet a kegyelemmel érintett, II. jelzésű értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével feltünteti, és megküldi a 93/B. § (2)–(3) bekezdésben, 93/J. § (2) bekezdésében vagy 95. § (2) bekezdésében megjelölt érintett hatóságoknak.”
