@@ -1,0 +1,9 @@
+21. § E törvény hatálybalépésével a szervezeti-működési szabályzatnak a nem lakás céljára szolgáló helyiségek használatára, hasznosítására vonatkozó – a módosított Tt.-vel ellentétes –rendelkezése hatályát veszti és helyébe a Tt. vonatkozó rendelkezése lép. A szervezeti-működési szabályzat ennek megfelelő kijavítását a szervezeti-működési szabályzatnak egyéb okból első ízben történő módosítása során kell elvégezni.
+
+Dr. Schmitt Pál s. k.,
+
+köztársasági elnök
+
+Dr. Kövér László s. k.,
+
+az Országgyűlés elnöke

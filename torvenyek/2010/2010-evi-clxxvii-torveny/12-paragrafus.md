@@ -1,0 +1,3 @@
+12. § A Tt. 51. §-a kiegészül a következő új (5) bekezdéssel:
+
+„(5) Ha az (1) bekezdés szerinti feladatok ellátása számvizsgáló bizottság vagy a (4) bekezdésben említettek szerint felhatalmazható tulajdonostárs hiánya miatt nem biztosítható, e feladatok ellátásával – a szervezeti-működési szabályzat erről szóló rendelkezése esetén – a számvitelről szóló törvény szerinti könyvviteli szolgáltatás végzésére jogosult szolgáltató vagy okleveles könyvvizsgálói képesítéssel rendelkező és a számvitelről szóló törvény szerinti nyilvántartásban szereplő (a továbbiakban: regisztrált) személy vagy olyan gazdálkodó szervezet is megbízható, amelynek van ilyen tagja vagy alkalmazottja.”
