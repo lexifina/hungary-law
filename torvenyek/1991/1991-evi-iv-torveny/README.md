@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2010-08-01 | 2010. évi LXXV. törvény | 1991-4-00-00.71 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 1991-4-00-00.72 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1991-4-00-00.73 |
+| 2011-01-02 | 2010. évi CXLVIII. törvény | 1991-4-00-00.74 |

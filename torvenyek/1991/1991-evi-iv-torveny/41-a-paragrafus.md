@@ -10,7 +10,7 @@ a) a közhasznú munkavégzés, közcélú munkavégzés vagy közmunka keretéb
 
 b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 
-c) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya tartozó munkavállalót, és
+c) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó munkavállalót, ideértve az önkéntes tartalékos szolgálati viszonnyal rendelkező munkavállalót is, és
 
 d) az Mt. 150. § (1) bekezdése alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
 
