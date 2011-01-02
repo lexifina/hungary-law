@@ -1,5 +1,3 @@
-## 6. § Az R. a következő 40. §-sal, és ezt megelőzően a következő alcímmel egészül ki:
+## 1–6. §[^1]
 
-## „A fővárosi és megyei kormányhivatal hatásköre
-
-## 40. § A fővárosi és megyei kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és a Kt. hatálya alá tartozó ügyekben hozott első fokú döntése elleni fellebbezést a Hivatal bírálja el.”
+[^1]: Az 1–6. §-t a 10. § (3) bekezdése hatályon kívül helyezte.
