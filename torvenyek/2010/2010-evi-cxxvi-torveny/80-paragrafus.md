@@ -1,3 +1,0 @@
-## 52. A helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény módosítása
-
-80. § A helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény 4. § (2) bekezdés c) pontjában a „közigazgatási hivatalnak” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szöveg, 5. § b) pontjában a „közigazgatási hivatal” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek a” szöveg, 10. § (3) bekezdésében a „közigazgatási hivatal” szövegrészek helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szöveg lép.

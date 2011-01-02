@@ -1,1 +1,0 @@
-39. § Hatályát veszti a helyi önkormányzatokról szóló 1990. évi LXV. törvény 11. § (2) és (3) bekezdése, 92/A. § (1) bekezdésében az „államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter által meghatározott” szövegrész, 96. § a) és b) pontja, 98. § (1) bekezdése, 98. § (2) bekezdés c) pontja, 100. §-a, 103. § (3) bekezdése és 109. §-a.

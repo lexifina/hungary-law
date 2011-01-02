@@ -1,3 +1,0 @@
-## 46. A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény módosítása
-
-74. § A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 13. § (3) bekezdés d) pontjában a „közigazgatási hivatal” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szöveg, 13. § (4) bekezdésében, 20. § (1) bekezdésében a „közigazgatási hivatalnak” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szöveg, 20. § (2) bekezdésében a „közigazgatási hivatal” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szöveg lép.

@@ -1,3 +1,0 @@
-## 56. A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény módosítása
-
-84. § A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 28. § (2) bekezdésében a „közigazgatási hivatalhoz” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szervéhez” szöveg, 29. § (1) bekezdésében a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szerve” szöveg, 55. § (4) bekezdés a) pontjában a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szervének a” szöveg lép.

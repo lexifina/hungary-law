@@ -1,3 +1,0 @@
-## 57. A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény módosítása
-
-85. § A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény 7. § (3) bekezdés d) pontjában a „közigazgatási hivatal” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szöveg, 7. § (6) bekezdésében, 12. § (1) bekezdésében a „közigazgatási hivatalnak” szövegrész helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szöveg 12. § (2) bekezdésében a „közigazgatási hivatal” szövegrészek helyébe a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szöveg lép.

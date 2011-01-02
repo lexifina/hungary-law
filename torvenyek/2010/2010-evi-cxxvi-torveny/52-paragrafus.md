@@ -1,1 +1,0 @@
-52. § A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 24/A. § (1) bekezdésében az „intézkedéseire” szövegrész helyébe az „intézkedéseire – a 25. § (6) bekezdésében foglalt kivétellel –” szöveg lép.

@@ -1,3 +1,0 @@
-## 29. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
-
-53. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 6. § (1) bekezdésében, 8. § (1) és (2) bekezdésében, 14. § k) pontjában, 30. § (1) bekezdésében a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szerve” szöveg, 30. § (2) bekezdésében a „közigazgatási hivatal vezetője közigazgatási hivatalnál” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szervénél annak vezetője” szöveg lép.

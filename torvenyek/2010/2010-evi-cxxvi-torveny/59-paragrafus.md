@@ -1,3 +1,0 @@
-## 35. A termőföldről szóló 1994. évi LV. törvény módosítása
-
-59. § A termőföldről szóló 1994. évi LV. törvény 88. § (1) bekezdésében az „az ingatlan fekvése szerint illetékes közigazgatási hivatal” szövegrész helyébe az „a Kormány ingatlan fekvése szerint illetékes általános hatáskörű területi államigazgatási szervének az” szöveg, 88. § (2) bekezdésében, 88/A. § (1) bekezdésében a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szervének az” szöveg, 88/C. § (1) és (2) bekezdésében a „közigazgatási hivatal” szövegrész helyébe a „Kormány általános hatáskörű területi államigazgatási szerve” szöveg lép.
