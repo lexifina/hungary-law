@@ -1,3 +1,0 @@
-## „(1) A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató – a helyi önkormányzati kör kivételével – az általa kifizetett ellátások összegét az egészségbiztosítási szakigazgatási szervnél, illetve a fővárosi és megyei kormányhivatal mint kifizetőhely esetén az OEP-nél igényelheti.
-
-## (2) Az elszámolást az egészségbiztosítási szakigazgatási szerv, illetve a fővárosi és megyei kormányhivatalok mint kifizetőhelyek esetén az OEP részére kell megküldeni. Az egészségbiztosítási szakigazgatási szerv, illetve az OEP az adatokat felülvizsgálja, és az elszámolás beérkezését követő 8 napon belül rendelkezik a táppénz-hozzájárulással csökkentett összeg megtérítéséről.”
