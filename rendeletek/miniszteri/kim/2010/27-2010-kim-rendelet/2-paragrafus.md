@@ -1,1 +1,0 @@
-## 1. § A szabadalmi ügyvivő vizsgáról szóló 76/1995. (XII. 29.) IKM rendelet 1. § (2) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal)” szöveg lép.
