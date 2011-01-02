@@ -1162,9 +1162,9 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 
 | 2063 | A munkabalesetek adatai az európai munkabalesti statisztika (ESAW) szerint | AÁ | Évenkénti | Országos Munkavédelmi és Munkaügyi Főfelügyelőség, Magyar Bányászati és Földtani Hivatal | a tárgyévet követő március 31. | 1338/2008/EK | Rendelet |
 
-| 2064 | Statisztikai jelentés az Országos Rehabilitációs és Szociális Szakértői Intézet munkájáról | AÁ | Évenkénti | Országos Rehabilitációs és Szociális Szakértői Intézet | a tárgyévet követő április 30. |  |  |
+| 2064 | Statisztikai jelentés a Nemzeti Rehabilitációs és Szociális Hivatal munkájáról | AÁ | Évenkénti | Nemzeti Rehabilitációs és Szociális Hivatal | a tárgyévet követő április 30. |  |  |
 
-| 2066 | Működési engedéllyel rendelkező szociális és gyermekvédelmi szolgálatok és intézmények adatai | AÁ | Évenkénti | Foglalkoztatási és Szociális Hivatal | szeptember 30. |  |  |
+| 2066 | Működési engedéllyel rendelkező szociális és gyermekvédelmi szolgálatok és intézmények adatai | AÁ | Évenkénti | Nemzeti Rehabilitációs és Szociális Hivatal | szeptember 30. |  |  |
 
 | 2076 | Jelentés a működést kezdő, megszűnt, üzemeltetési kört módosított üzleti és nem üzleti céllal üzemeltetett szálláshelyekről, az egyéb szálláshelyek kivételével | AÁ | Évenként kétszeri | települési önkormányzatok | a tárgyfélévet követő hó 15. |  |  |
 
@@ -1373,4 +1373,4 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 | Országos Statisztikai Adatgyűjtési Program Adatkörök |
 
 [^8]: A 7. § az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^9]: Az 1. melléklet a 257/2010. (XI. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet a 257/2010. (XI. 9.) Korm. rendelet 3. §-ával megállapított, a 332/2010. (XII. 27.) Korm. rendelet 34. §-a szerint módosított szöveg.
