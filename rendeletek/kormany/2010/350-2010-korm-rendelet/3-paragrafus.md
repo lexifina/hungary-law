@@ -1,1 +1,0 @@
-## „(15) A helyi önkormányzat a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 13. §-a (2) bekezdés b) pontjában előírt beszámolót a (6) bekezdés szerinti beszámoló elkészítésével teljesíti.”

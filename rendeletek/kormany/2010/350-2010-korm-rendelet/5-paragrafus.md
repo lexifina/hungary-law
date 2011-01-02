@@ -1,1 +1,0 @@
-## „(15) A helyi önkormányzat a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 13. §-a (2) bekezdés b) pontja szerinti beszámolót az adósságrendezés megindításának időpontját megelőző fordulónapra vonatkozóan 30 napon belül köteles elkészíteni és megküldeni a pénzügyi gondnoknak és az Állami Számvevőszéknek.”
