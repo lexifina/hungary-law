@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2010-12-23 | 2010. évi CLVII. törvény | 2003-92-00-00.71 |
 | 2010-12-31 | 2009. évi LXXVII. törvény | 2003-92-00-00.72 |
 | 2011-01-01 | 2010. évi CXXII. törvény | 2003-92-00-00.73 |
+| 2011-01-02 | 2010. évi CXXII. törvény | 2003-92-00-00.74 |

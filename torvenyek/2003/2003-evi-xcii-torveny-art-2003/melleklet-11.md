@@ -109,3 +109,9 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 22. Románia esetében: -;
 
 23. a Spanyol Királyság esetében: impuesto sobre las primas de seguros;
+
+24. a Svéd Királyság esetében: -;
+
+25. a Szlovák Köztársaság esetében: -;
+
+26. a Szlovén Köztársaság esetében: davek od prometa zavarovalnih poslov, požarna taksa.
