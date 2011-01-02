@@ -1,5 +1,0 @@
-2. melléklet a 2009. évi LXXVII. törvényhez
-
-Az Szja tv. 3. számú melléklete II. Igazolás nélkül elszámolható költségek fejezetének 7. pontja helyébe a következő rendelkezés lép:
-
-„7. a külföldi kiküldetéshez (külszolgálat) kapcsolódó elismert költségekről szóló kormányrendelet szerint naponta elszámolható összeg a nemzetközi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott (a közúti közlekedési szolgáltatásokról és közúti járművek üzemben tartásáról szóló külön jogszabály, illetőleg más, erről szóló jogszabályok rendelkezései szerint engedélyhez kötött nemzetközi közúti közlekedési szolgáltatást végző, illetőleg abban árukísérőként közreműködő), külföldi kiküldetés (külszolgálat) címén bevételt szerző magánszemélynél – kizárólag az e tevékenysége tekintetében – feltéve, hogy az említett kormányrendeletben foglaltak alapján kizárólag a gépjármű külföldön történő üzemeltetéséhez közvetlenül kapcsolódó és számlával, más bizonylattal igazolt költségek elszámolására jogosult, és ezt az elszámolási módszert alkalmazza;”

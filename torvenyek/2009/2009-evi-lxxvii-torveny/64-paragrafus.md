@@ -1,0 +1,7 @@
+## HARMADIK RÉSZ
+
+## A HELYI ADÓKAT, AZ ILLETÉKEKET ÉS A GÉPJÁRMŰADÓT ÉRINTŐ MÓDOSÍTÁSOK
+
+## VIII–X. Fejezet
+
+64–80. §

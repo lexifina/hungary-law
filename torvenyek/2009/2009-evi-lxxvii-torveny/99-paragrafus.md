@@ -1,3 +1,0 @@
-99. § Az Art. 133/A. §-át követően a következő új 133/B. §-sal egészül ki:
-
-„133/B. § Az állami adóhatóság a települési önkormányzatonként kimutatott helyi iparűzési adótartozást érintő fizetési könnyítést – a tartozással érintett települési önkormányzatonként – engedélyezi, ha a tartozással érintett önkormányzati adóhatóság az adózó kérelmében foglaltakkal egyetért, és erről az adózó kérelme alapján az állami adóhatóságot a kérelem állami adóhatósághoz történő beérkezését követő három munkanapon belül írásban értesíti. Ha a helyi iparűzési adótartozás több települési önkormányzatot érint, a fizetési könnyítést települési önkormányzatonként, az egyetértésükkel érintett összeg vonatkozásában kell engedélyezni.”

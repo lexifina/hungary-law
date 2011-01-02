@@ -1,7 +1,0 @@
-20. § Az Szja tv. 61. §-ának (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Ingatlan, vagyoni értékű jog átruházásából származó bevétel minden olyan bevétel, amelyet a magánszemély az átruházásra tekintettel megszerez. Ilyennek minősül különösen az eladási ár, a cserében kapott dolognak a jövedelemszerzés időpontjára megállapított szokásos piaci értéke, valamint az ingatlan, a vagyoni értékű jog gazdasági társaság vagy más cég részére nem pénzbeli hozzájárulásként (nem pénzbeli betétként) történő szolgáltatása esetén annak a társasági szerződésben, más hasonló okiratban meghatározott értéke.
-
-(2) A bevételnek nem része a kapott ellenértékből az egyéb jövedelemnek minősülő, az ingatlannak, a vagyoni értékű jognak a szerződéskötés időpontjában ismert szokásos piaci értékét meghaladó összeg.
-
-(3) Az (1) bekezdés rendelkezését kell alkalmazni a külföldi illetőségű magánszemélynek a társasági adóról és az osztalékadóról szóló törvény szerinti ingatlannal rendelkező társaságban lévő részesedése ellenérték fejében történő átruházása, kölcsönbe adása vagy ilyen társaságból történő kivonása révén megszerzett bevételre azzal, hogy a jövedelem megállapítására a 62. § rendelkezései helyett az értékpapír-kölcsönzésből, az árfolyamnyereségből származó jövedelemre, illetve a vállalkozásból kivont jövedelemre vonatkozó szabályokat kell alkalmazni.”
