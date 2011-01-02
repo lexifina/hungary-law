@@ -1,1 +1,0 @@
-## „(4) Ha a hitelminősítés részben vagy egészben a hitelintézet előre nem rendelkezésre bocsátott fedezet nyújtásán alapul, az értékpapírosítási pozíciót nem minősített pozíciónak kell tekinteni kockázattal súlyozott kitettség érték kiszámításakor.”

@@ -1,1 +1,0 @@
-## „(5) Az olyan, lakóingatlanon alapított jelzálogjoggal fedezett lakossággal szembeni kitettségnek a súlyozott átlagos nemteljesítéskori veszteségrátája, amelyhez nem kapcsolódik központi kormány garanciavállalása, 2012. december 31-ig legalább 10%.”

@@ -1,3 +1,0 @@
-## „(4) A nem igazolt lakáscélú felhasználás miatt, valamint a támogatásra való jogosultság más okból fennálló hiánya miatt visszafizetett, vagy a lakás-takarékpénztár által az Ltv. 24. §-ának (7) bekezdése alapján visszafizetett összegeket a lakás-takarékpénztárnak havonta egy összegben, a tárgyhónapot követő hónap 10-éig a 10032000-01034011 Ltp. nem lakás céljára igénybe vett állami támogatás visszafizetése elnevezésű számlára kell átutalni.”
-
-## A kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet módosítása

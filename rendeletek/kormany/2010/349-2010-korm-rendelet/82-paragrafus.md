@@ -1,3 +1,0 @@
-## 81. § A Bhkr. a következő 211/H. §-sal egészül ki:
-
-## „211/H. § Az eszközátruházó befektetési vállalkozás köteles nyilatkozni az értékpapírosítással kapcsolatban történő nettó gazdasági érdekeltség megtartásának szintjéről. Az eszközátruházó befektetési vállalkozás biztosítja, hogy a potenciális befektetők azonnali hozzáférést kapjanak az alapul szolgáló egyedi kitettségek hitelminőségére és teljesítményére, valamint az értékpapírosítási kitettség hitelbiztosítékára és cash-flowjára vonatkozó lényeges adatokhoz, valamint az alapul szolgáló kitettség hitelbiztosítékára és cash-flowjára vonatkozó átfogó és megalapozott stressztesztek elvégzéséhez szükséges információkhoz.”

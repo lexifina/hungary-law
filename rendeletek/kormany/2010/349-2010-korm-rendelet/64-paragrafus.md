@@ -1,3 +1,0 @@
-## 63. § A Bhkr. 100. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a 42. § (6) bekezdésének d) pontja szerinti belső minősítésen alapuló módszert alkalmazó befektetési vállalkozás a sztenderd módszert alkalmazhatja a központi kormánnyal, központi bankkal, hitelintézettel, befektetési vállalkozással és a 128. § (1) g) pontja szerinti vállalkozással szembeni kitettségre, akkor az általuk nyújtott garanciára nem alkalmazhatóak az e §, a 101. és 102. § rendelkezései. Ebben az esetben a befektetési vállalkozás a 116. § szerint ismerheti el az előre nem rendelkezésre bocsátott hitelkockázati fedezetet.”

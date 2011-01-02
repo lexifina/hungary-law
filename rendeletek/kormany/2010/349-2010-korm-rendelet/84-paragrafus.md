@@ -1,1 +1,0 @@
-## „(1a) Az (1) bekezdés nem alkalmazható, ha az értékpapírosítást kezdeményező befektetési vállalkozás az érintett értékpapírosított kitettségek esetében nem tesz eleget a 211/A–211/I. §-ban foglalt követelményeknek.”
