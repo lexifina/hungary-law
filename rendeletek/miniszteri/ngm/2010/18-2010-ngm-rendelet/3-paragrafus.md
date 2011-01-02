@@ -1,1 +1,0 @@
-## „d) amely egyéb ellenőrzött ásványolaj felhasználói engedélyes részére történő beszerzése esetében a felhasználói engedélyes engedélyében feltüntetett olyan telephely, amelyet az (1) bekezdés j) pontja szerinti nyilatkozatban az egyéb ellenőrzött ásványolaj átvételére (fogadására) a felhasználói engedélyes megjelöl.”

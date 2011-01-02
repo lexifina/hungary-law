@@ -1,3 +1,5 @@
-## 18. § Hatályát veszti a JötR. 63. §-ának (1) bekezdésében a „sörszabványban (MSZ 8761) elfogadott” szövegrész, 111/A. §-a a) pontjának ac) alpontjában az „ , a benzin” szövegrész.
+## 1–18. §[^1]
 
 ## Záró rendelkezések
+
+[^1]: A 1–18. §-t a 20. § (1) bekezdése hatályon kívül helyezte.
