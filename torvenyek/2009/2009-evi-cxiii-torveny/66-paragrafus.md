@@ -1,6 +1,6 @@
 66. § (1)–(4)
 
-(5) A Jöt. 28. §-a (1) bekezdésének a) pontja, 35. §-a (1) bekezdésének f) pontja és 37. §-a (1) bekezdésének i) pontja hatályát veszti.
+(5)
 
 (6)
 
