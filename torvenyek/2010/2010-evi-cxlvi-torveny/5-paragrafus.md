@@ -2,6 +2,6 @@
 
 (2) Az Országgyűlés az Alap 2011. évi költségvetésének
 
-a) kiadási főösszegét 63 099,590 M Ft-ban, azaz hatvanhárommilliárd-kilencvenkilencmillió-ötszázkilencvenezer forintban,
+a) kiadási főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd-harmincnyolcmillió-hétszázhetvenkilencezer forintban,
 
-b) bevételi főösszegét 63 099,590 M Ft-ban, azaz hatvanhárommilliárd-kilencvenkilencmillió-ötszázkilencvenezer forintban hagyja jóvá.
+b) bevételi főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd- harmincnyolcmillió-hétszázhetvenkilencezer forintban hagyja jóvá
