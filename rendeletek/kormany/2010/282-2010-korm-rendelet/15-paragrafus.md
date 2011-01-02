@@ -1,1 +1,0 @@
-## 14. § A Vám- és Pénzügyőrség szervezetéről, valamint egyes szervek kijelöléséről szóló 314/2006. (XII. 23.) Korm. rendelet 19. §-ában az „az Állami Egészségügyi Központban” szövegrész helyébe az „a Honvédkórház–Állami Egészségügyi Központban” szöveg lép.

@@ -1,3 +1,0 @@
-## 2. § Az R1. 9. §-a helyébe a következő rendelkezés lép:
-
-## „9. § A HM költségvetési fejezet költségvetésének összeállítására kijelölt HM szervezeti egység az állami költségvetés összeállítása során – a Tárca Védelmi Tervező Rendszere, Erőforrás és Költségtervező Alrendszerének nagybani erőforrás és kiadási igénytervére alapozottan – a 2. § (4) bekezdés c), e) és f) pontjaiban meghatározott feladatok végrehajtására kijelölt központi gazdálkodó, a pénzügyi gazdasági szervezeti egységgel rendelkező, önállóan működő és gazdálkodó, valamint a középirányító honvédelmi szervezetekkel együttműködve elkészíti a HM költségvetési fejezet – költségvetési törvény szerkezeti rendjének megfelelő részletezettségű – költségvetési javaslatát.”
