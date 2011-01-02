@@ -8,7 +8,7 @@
 
 a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő,
 
-b) a XXVI. Fejezet szerinti vállalkozások egymás közötti pereiben a keresetlevelet a külön jogszabályban meghatározott formanyomtatványon elektronikusan terjessze elő.
+b) a Pp. XXVI. Fejezete szerinti vállalkozások egymás közötti pereiben a keresetlevelet a külön jogszabályban meghatározott formanyomtatványon elektronikusan terjessze elő.
 
 (4) A közjegyző a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a Pp. 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, az ellentmondásról szóló értesítés kézbesítésével egyidejűleg a közjegyző arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon a bíróságnak jelentse be. A bírósághoz intézett beadványban a fizetési meghagyásos eljárásban kapott ügyszámra hivatkozni kell.
 
