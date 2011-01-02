@@ -1,1 +1,0 @@
-## „(4) A Jöt. 7. § 7/B. pontjában meghatározott elektronikus átvételi elismervényben (a továbbiakban: elektronikus átvételi elismervény) kiegészítő adatként meg kell adni a jövedéki termék Jöt. szerinti vámtarifaszámát és fajtakódját.”
