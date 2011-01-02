@@ -1,3 +1,0 @@
-## 2. § A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az állampolgársági ügyekben eljáró szerv a Magyar Köztársaság területén lakó- vagy tartózkodási hellyel rendelkező honosított és visszahonosított személyazonosító igazolványának kiállításához szükséges – a hazai anyakönyvi szabályok szerint megállapított – adatairól értesíti a személyazonosító igazolvány kiállításához szükséges, fényképpel ellátott adatlap továbbításával a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet.”

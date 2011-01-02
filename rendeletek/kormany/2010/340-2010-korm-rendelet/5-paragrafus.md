@@ -1,5 +1,0 @@
-## 4. § A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet 13/A. § (2) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet 13/A. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2) Az Ápt. 20/A. § (1) bekezdés a) pontjára alapozott névmódosítási kérelemhez – a (2a) bekezdésben meghatározott kivétellel – mellékelni kell a kérelmező vagy felmenője egykori családi nevét tartalmazó, állami anyakönyvi hatóság által kiállított anyakönyvi kivonatot vagy olyan okmányt, amelyet magyar hatóság az állami anyakönyvi bejegyzés alapján állított ki, és a személyi adatokat közhitelűen igazolta.
-
-## (2a) Nem szükséges a (2) bekezdés szerinti okmányt csatolni, ha az Országos Fordító és Fordításhitelesítő Iroda által a kérelmező külföldi anyakönyvi kivonatáról készített fordítás záradékban tartalmazza a kérelmező családi nevének magyar írásmódú megfelelőjét, feltéve, hogy a családi névnek csak egyetlen magyar írásmódja lehetséges.”
