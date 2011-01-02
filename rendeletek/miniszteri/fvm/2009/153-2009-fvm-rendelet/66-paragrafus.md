@@ -1,0 +1,3 @@
+## 65. §[^5]
+
+[^5]: A 65. §-t a 68. § (2) bekezdése hatályon kívül helyezte. [A 65. §-nak a 38/2011. (V. 18.) VM rendelet 8. §-ával beiktatott, a 9. § (1) bekezdése alapján 2011. szeptember 15-étől hatályos szövege: „65. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes rendeletek módosításáról szóló 38/2011. (V. 18.) VM rendelettel megállapított rendelkezéseit a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelet hatályba lépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”.]
