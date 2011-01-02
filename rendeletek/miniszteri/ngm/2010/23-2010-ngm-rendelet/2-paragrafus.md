@@ -1,3 +1,0 @@
-## 1. § A hitelintézetek által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló 45/2008. (XII. 31.) PM rendelet (a továbbiakban: R.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A hitelintézet és a fióktelep a felügyeleti jelentését a mellékletben foglaltaknak megfelelő tartalommal és formában, a titokvédelmi rendelkezések megtartásával köteles elkészíteni és a Felügyelet részére megküldeni. A felügyeleti jelentések elkészítésének alapját a magyar számviteli jogszabályok képezik. A felügyeleti jelentésről a Felügyelet időbélyegzővel ellátott módszertani útmutatót tesz közzé.”
