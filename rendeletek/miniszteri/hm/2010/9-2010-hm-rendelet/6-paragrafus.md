@@ -1,1 +1,0 @@
-## 5. § A Magyar Honvédség élelmezési ellátásáról szóló 22/2006. (VIII. 8.) HM rendelet 8. § (9) bekezdésében a „HM Védelemgazdasági Főosztály” szövegrész helyébe a „HM Védelmi Tervezési és Vagyongazdálkodási Főosztály” szöveg lép.
