@@ -10,9 +10,6 @@ b) a társadalombiztosítási költségvetési szervek és a társadalombiztosí
 
 nyújtja be a Nemzetgazdasági Minisztériumnak.
 
-(4)[^313] Az államháztartásért felelős miniszter a (3) bekezdés a) pontja szerint benyújtott elszámolást a tárgyévet követő év május 15-éig, a (3) bekezdés b) pontja szerint benyújtott elszámolást a tárgyévet követő év június 20-áig felülvizsgálja. A felülvizsgálat és a döntés eredményéről az államháztartásért felelős miniszter a fejezetet irányító szervet tájékoztatja.
-
 [^310]: A 212. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
 [^311]: A 212. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^312]: A 212. § (3) bekezdés záró szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^313]: A 212. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.
