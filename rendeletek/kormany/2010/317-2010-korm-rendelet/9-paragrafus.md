@@ -1,1 +1,0 @@
-## „(3) A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetése tárgyában hozott határozatot a környezetvédelmi, természetvédelmi és vízügyi felügyelőséggel is közölni kell, ha az érintett ingatlan védett természeti terület vagy Natura 2000 terület.”

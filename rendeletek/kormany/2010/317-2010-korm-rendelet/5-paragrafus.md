@@ -1,1 +1,0 @@
-## „(9) A FÖMI a rendelkezésére álló adat- és eszközállomány igénybevételével alaptevékenységén kívül, megrendelők részére egyéb – alapító okiratában foglalt – szolgáltatási tevékenységet is végezhet, ha az alaptevékenysége feladatainak ellátását nem veszélyezteti.”
