@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 8/B. §-sal egészül ki:
-
-## „8/B. § Amennyiben a kiskorúság miatt korlátozottan cselekvőképes 16 és 18 év közötti személy az Szt. 93. § (4) bekezdése szerint a törvényes képviselő beleegyezése vagy jóváhagyása nélkül tesz jognyilatkozatot, a szenvedélybetegek közösségi alapellátását és nappali ellátását nyújtó szolgáltató a családdal való kapcsolatfelvétel eredménytelensége esetén felveszi a kapcsolatot az illetékes gyermekjóléti szolgálattal. A szakmai kapcsolatfelvételt követően a szolgáltatók az igénybe vevő ellátása érdekében együttműködnek és kölcsönösen tájékoztatják egymást.”
