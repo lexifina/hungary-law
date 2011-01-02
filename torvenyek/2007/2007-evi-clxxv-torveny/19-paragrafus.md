@@ -1,3 +1,0 @@
-19. § A Kkt. 36. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a közút területének nem közlekedési célú igénybevétele valamely hatóság engedélyéhez kötött építmény elhelyezése céljára szükséges, a nem közlekedési célú igénybevételről is – a közút kezelőjének hozzájárulásával – az építési (létesítési) engedélyezési eljárásban kell határozni. Amennyiben az igénybevételt kérő a hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja, a közút területének nem közlekedési célú igénybevételéről az engedélyező hatóság a közlekedési hatóság szakhatósági nyilatkozata alapján dönt.”

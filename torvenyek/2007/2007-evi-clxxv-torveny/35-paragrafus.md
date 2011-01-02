@@ -1,3 +1,0 @@
-35. § Az Lt. 13. §-ának helyébe a következő rendelkezés lép:
-
-13. § „A légiközlekedési hatóság a lajstromba felveszi a biztonságos repülésre alkalmas polgári légijárművet, amely más állam légijármű lajstromában nem szerepel, légialkalmassági bizonyítvánnyal és – az Európai Gazdasági Térség területén kívülről történő behozatal esetén – az Európai Gazdasági Térségről szóló megállapodásban részes állami vámhatóság vámkezelését igazoló okmánnyal rendelkezik. Bérelt légijármű lajstromba vétele esetén a tulajdonos hozzájárulása szükséges a lajstromba vételhez.”
