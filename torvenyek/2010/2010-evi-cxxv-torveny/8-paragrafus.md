@@ -1,3 +1,0 @@
-8. § A Konztv. 5. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A konzuli kölcsön nyújtása iránti kérelemmel összefüggésben a konzuli szolgálat köteles vizsgálni a kérelmező önhibáját. A kérelmező nyilvánvaló önhibája esetén a kölcsön megtagadható. A kölcsönnyújtást meg kell tagadni a (3) bekezdésben foglalt feltételek hiányában, valamint, ha a kérelmező – a (2) bekezdésben meghatározott intézkedések megtétele érdekében – neki felróható módon nem működik együtt a konzuli szolgálattal, valótlan adatokat közölt vagy az általa korábban igénybe vett konzuli kölcsön nem térült vissza.”

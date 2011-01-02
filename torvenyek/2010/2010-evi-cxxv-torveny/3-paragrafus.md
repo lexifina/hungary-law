@@ -1,3 +1,0 @@
-3. § A Konztv. 2. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A miniszter a diplomáciai vagy konzuli képviselet egyes konzuli feladatait az adott feladat ellátására jogosult másik diplomáciai vagy konzuli képviselet egyidejű megjelölésével korlátozhatja. A miniszter a diplomáciai és konzuli képviseletek címjegyzékét és a konzuli tisztviselők konzuli jogosítványait tartalmazó tájékoztatót évente, az abban történt változásokat pedig három munkanapon belül honlapján közzéteszi. Az egyes feladatokra vonatkozó korlátozás ugyanakkor nem jelentheti azt, hogy egyetlen diplomáciai vagy hivatásos konzuli képviselet sem látja el a magyar állampolgárok érdekvédelmét.”
