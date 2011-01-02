@@ -1,1 +1,0 @@
-## 95. § A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet 1. § (2) bekezdésében a „Magyar Honvédség és a rendvédelmi szervek” szövegrész helyébe a „Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek” szöveg lép.

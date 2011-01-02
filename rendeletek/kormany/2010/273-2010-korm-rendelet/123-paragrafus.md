@@ -1,1 +1,0 @@
-## 122. § Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 21. § (3) bekezdésében a „rendvédelmi szervek” szövegrész helyébe a „rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal” szöveg lép.

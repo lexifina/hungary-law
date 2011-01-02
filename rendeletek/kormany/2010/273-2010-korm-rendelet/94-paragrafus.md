@@ -1,1 +1,0 @@
-## 93. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 252/2000. (XII. 24.) Korm. rendelet 6. számú melléklet 465. pontjában a „465. Vám- és pénzügyőrséggel szembeni kötelezettség” szövegrész helyébe a „465. Nemzeti Adó- és Vámhivatallal, mint vámhatósággal szembeni kötelezettség” szöveg lép.

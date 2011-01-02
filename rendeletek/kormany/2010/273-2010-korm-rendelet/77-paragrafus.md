@@ -1,1 +1,0 @@
-## 76. § A közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet 7. § (1) bekezdés második mondatában a „Magyar Honvédség” szövegrész helyébe a „Magyar Honvédség, a Nemzeti Adó- és Vámhivatal” szöveg lép.

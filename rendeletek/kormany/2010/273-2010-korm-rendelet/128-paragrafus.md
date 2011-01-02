@@ -1,1 +1,0 @@
-## 127. § A szakképzettséggel rendelkező, pályakezdő álláskeresők munkatapasztalat-szerzésének és a létszámleépítések megelőzése érdekében a részmunkaidős foglalkoztatás támogatásáról szóló 70/2009. (IV. 2.) Korm. rendelet 1. § c) pontjának ca) alpontjában a „rendvédelmi szervek” szövegrész helyébe a „rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal” szöveg lép.

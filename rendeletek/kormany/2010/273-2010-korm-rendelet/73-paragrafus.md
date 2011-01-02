@@ -1,3 +1,0 @@
-## 72. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 38. §-a helyébe a következő rendelkezés lép:
-
-## „38. § Nem tartozik lakcímbejelentési kötelezettség alá a Magyar Honvédség és a rendvédelmi szervek tagja, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja tartózkodási helyének bentlakásos iskolára (tanfolyamra) vezénylés miatti változása, valamint az önkéntes tartalékos katonai szolgálatot teljesítőknek, továbbá a szerződéses tisztes és honvéd rendfokozatú állománynak a Magyar Honvédség, illetve a rendvédelmi szervek által biztosított elhelyezése.”

@@ -1,1 +1,0 @@
-## 90. § A Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 221/2000. (XII. 19.) Korm. rendelet 4. § (7) bekezdésében a „Vám- és Pénzügyőrség elszámolási számlák” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal vámhatósági elszámolási számlák” szöveg lép.
