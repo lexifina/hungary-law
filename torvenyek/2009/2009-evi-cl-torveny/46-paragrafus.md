@@ -1,5 +1,0 @@
-46. § A Hpt. 78/A. §-a helyébe a következő rendelkezés lép:
-
-„78/A. § (1) Pénzügyi intézmény által vállalt, a sztenderd módszer alkalmazásakor a 76/A. § (1) bekezdés i) pontjába sorolható kitettségeinek együttes értéke nem haladhatja meg a fedezetül szolgáló ingatlanok együttes piaci értékének hetven százalékát.
-
-(2) E § alkalmazásában az ingatlan piaci értéke az a becsült összeg, amelyért az ingatlan tulajdonjoga gazdát cserélhetne magánjogi adásvételi szerződés keretében, egy önkéntes eladó és egy önkéntes vevő között, megfelelő marketingtevékenységet követően, tisztességes feltételek mellett történő tranzakció keretében, amelynek során a felek jólértesülten, ésszerűen, körültekintően és kényszer nélkül járnak el. Az értékmeghatározásnál más jogszabályban leírtak szerint, a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertan az irányadó.”

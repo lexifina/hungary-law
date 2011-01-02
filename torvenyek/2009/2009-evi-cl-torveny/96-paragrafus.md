@@ -1,3 +1,0 @@
-96. § A Bit. 49. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A biztosító az általa alkalmazott vagy megbízott biztosításközvetítést végző természetes személyekről, vagy, ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, akkor erről a gazdálkodó szervezetről, illetve az ennél a szervezetnél közvetítő tevékenységet végző természetes személyről köteles nyilvántartást vezetni. A nyilvántartás részletes szabályait az 5. számú melléklet 2. pontja tartalmazza. A biztosító köteles e nyilvántartásban az 5. számú melléklet 2. pontjában [az A) b) és f), valamint a B) b) alpont kivételével] meghatározott adatokban bekövetkezett változásokat a Felügyeletnek 30 napon belül bejelenteni.”
