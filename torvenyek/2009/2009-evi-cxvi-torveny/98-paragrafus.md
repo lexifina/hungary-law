@@ -1,3 +1,0 @@
-98. § A Nért. 39. §-ával megállapított Art. 129. §-ának (3) bekezdése a következő szöveggel lép hatályba:
-
-„(3) Nem mentesül a mulasztási bírság alól az egyes nagy értékű vagyontárgyakat terhelő adó bevallás-benyújtásra kötelezett adózó, ha lakóingatlanának számított értéke az egyes nagy értékű vagyontárgyakat terhelő adóról szóló 2009. évi LXXVIII. törvény 14. § (1) bekezdésének a) pontja szerinti mentesség esetén a 30 millió forintot, vagy az egyes nagy értékű vagyontárgyakat terhelő adóról szóló törvény 14. § (1) bekezdésének b) pontja szerinti mentesség esetén a 15 millió forintot eléri és bevallás-benyújtási kötelezettségének nem tett eleget.”

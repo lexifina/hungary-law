@@ -1,1 +1,0 @@
-105. § A Kkt. 33. §-ának (5) bekezdésében a „Cégközlönyben” szövegrész helyébe a „kamara lapjában” szövegrész, a Kkt. 74. §-ának (3) bekezdésében a „Cégközlönyben” szövegrész helyébe a „kamara lapjában” szövegrész lép.

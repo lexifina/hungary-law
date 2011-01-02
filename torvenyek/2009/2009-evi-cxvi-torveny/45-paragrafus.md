@@ -1,3 +1,0 @@
-45. § Az Itv. 73. §-a következő (11) bekezdéssel egészül ki:
-
-„(11) Törvény, kormányrendelet vagy az adópolitikáért felelős miniszter egyetértésével kiadott miniszteri rendelet előírhatja, hogy a szakhatósági eljárás – ide nem értve az előzetes szakhatósági eljárást – illetékét az alapeljárást lefolytató szervnél az alapeljárásért fizetendő illeték vagy igazgatási szolgáltatási díj megfizetésének módjával azonos módon kell megfizetni. Az alapeljárást lefolytató hatóság a szakhatósági eljárásért így megfizetett illeték összegének jogszabályban megjelölt bankszámlán való jóváírását követő munkanapon, készpénzben való fizetés esetén a készpénz átvételének napján átutalja a Magyar Államkincstár által vezetett illeték-bevételi számlára.”

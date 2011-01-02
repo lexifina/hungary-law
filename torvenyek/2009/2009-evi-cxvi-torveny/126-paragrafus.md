@@ -1,3 +1,0 @@
-126. § A Krtv. 218. §-a a következő szöveggel lép hatályba:
-
-„218. § A helyi iparűzési adó vonatkozásában a 2010. január 1-jét megelőző adómegállapítási időszakokat érintő, az adó megállapításához való jog legkésőbb 2011. december 31-én elévül. A naptári évtől eltérő üzleti évet választó adózók esetében a helyi iparűzési adót érintően az önkormányzati adóhatóság adómegállapítási joga a 2009. évben kezdődő adóév utolsó napjától számított két év elteltével évül el.”

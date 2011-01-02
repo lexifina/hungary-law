@@ -1,3 +1,0 @@
-99. § A Nért. 40. §-ával megállapított Art. 168. §-ának (8) bekezdése a következő szöveggel lép hatályba:
-
-„(8) Ha az egyes nagy értékű vagyontárgyakat terhelő adó bevallásának benyújtására kötelezett adózó a lakóingatlan forgalmi értékét a tényleges forgalmi érték 10 százalékát meg nem haladó eltéréssel vallotta be és emiatt önellenőriz, az adózó mentesül a lakóingatlan adója után az önellenőrzési pótlék megfizetése alól. Ismételt önellenőrzés esetén, vagy ha az eltérés a 10%-ot meghaladja, az önellenőrzési pótlékot az általános szabályok szerint kell megállapítani azzal, hogy az önellenőrzési pótlékot az egyes fizetési kötelezettségek esedékességét követő naptól kell felszámítani.”

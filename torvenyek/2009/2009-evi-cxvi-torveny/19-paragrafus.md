@@ -1,3 +1,0 @@
-19. § Az Szja tv. 69. §-ának (11) bekezdése helyébe a követező rendelkezés lép:
-
-„(11) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül természetbeni juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, és egyebekben a juttatás körülményei megfelelnek az e törvényben a természetbeni juttatásokra vonatkozó rendelkezésekben foglaltaknak. Nem minősül természetbeni juttatásnak a bármire korlátozás nélkül felhasználható utalvány, készpénz-helyettesítő fizetési eszköz.”
