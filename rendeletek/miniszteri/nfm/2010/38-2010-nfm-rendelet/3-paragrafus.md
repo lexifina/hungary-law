@@ -1,5 +1,0 @@
-## 2. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet [a továbbiakban: 19/2010. (XII. 3.) NFM rendelet] 1. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő (a továbbiakban: volt közüzemi nagykereskedő) az egyetemes szolgáltatók részére vételre felajánlott földgázforrás költségalapú áráról szóló 3/2010. (VI. 30.) NFM rendelet szerint felajánlott földgázmennyiséget a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 141/C. § (1) bekezdésében foglaltak szerint 2011. első és második negyedévére ismét köteles vételre felajánlani az egyetemes szolgáltatónak.
-
-## (2) Az (1) bekezdés szerint vételre felajánlott földgáz fajlagos árának meghatározása az 1. melléklet szerinti képlettel történik.”
