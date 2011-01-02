@@ -4,7 +4,7 @@
 
 (3) A nyilatkozat közzétételéhez történt hozzájárulás a médiatartalom-szolgáltató (1) bekezdésben szereplő visszaélése esetén jogkövetkezmény nélkül visszavonható, amennyiben
 
-a) azt nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
+a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
 
 b) az nem a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
 
