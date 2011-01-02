@@ -1,5 +1,0 @@
-## 27. § A büntető ügyekben közvetítői tevékenységet végző ügyvéd képesítési követelményeiről, díjazásáról és iratkezeléséről szóló 58/2007. (XII. 23.) IRM rendelet 2. § (3) és (4) bekezdése helyébe az alábbi rendelkezések lépnek:
-
-## „(3) Az eljárási díj (1) bekezdésben meghatározott összege, vagy a (2) bekezdésben meghatározott részösszege az ügyvédi tevékenység ellenértékét terhelő általános forgalmi adó összegét nem tartalmazza, azt az e rendeletben meghatározott összegeken mint adóalapon felül kell felszámítani. A közvetítőként eljáró ügyvédnek a szerződés megkötésekor nyilatkoznia kell a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata (a továbbiakban: KIMISZ) felé arról, hogy általános forgalmi adó fizetésére köteles-e.
-
-## (4) Az ügyvéd részére az eljárási díjat a közvetítői eljárás befejezésekor, az arról kiállított számla ellenében – az illetékes fővárosi, megyei igazságügyi szolgálat teljesítésigazolását követően – a KIMISZ fizeti meg. A számlán a felszámított díj összegét ügyenkénti bontásban kell feltüntetni, és meg kell jelölni a közvetítői eljárás végzésére a KIMISZ-szel kötött szerződés számát is.”

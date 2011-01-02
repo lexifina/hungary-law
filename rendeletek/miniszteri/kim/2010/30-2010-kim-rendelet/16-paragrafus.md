@@ -1,3 +1,0 @@
-## 15. § A Pártfogó Felügyelői Szolgálat tevékenységéről, valamint ehhez kapcsolódóan egyes igazságügyminiszteri rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 9/B. § (3) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „(3) Ha a büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bkt.) 3. § (2) bekezdése alapján egy közvetítői eljárásban több közvetítő kijelölésére kerül sor, akkor a területi illetékességtől eltérő más megyéből is kijelölhető közvetítő. A kijelölésről az érintett fővárosi, megyei igazságügyi szolgálat vezetője megkeresés alapján dönt.”
