@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2010-12-01 | 2010. évi CXXIII. törvény | 1997-141-00-00.29 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 1997-141-00-00.30 |
 | 2011-01-01 | 2010. évi CLII. törvény | 1997-141-00-00.31 |
+| 2011-01-02 | 2010. évi CLXXVII. törvény | 1997-141-00-00.32 |
