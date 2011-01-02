@@ -1,7 +1,0 @@
-## 157. § A Magyar Kereskedelmi Engedélyezési Hivatal által kiszabható bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló 262/2006. (XII. 20.) Korm. rendelet (a továbbiakban: 262/2006. (XII. 20.) Korm. rendelet) 1. § (1) bekezdésében a „Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal)” szövegrész helyébe a „Magyar Kereskedelmi Engedélyezési Hivatal és a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban hatóságok)”, a „Hivatal” szövegrész helyébe a „hatóságok”, az 1. § (2) bekezdésében és a 2. § (1)–(2) bekezdésében a „Hivatal” szövegrész helyébe a „hatóságok”, a 3. § (1) bekezdésének e) pontjában az „ötszázezer” szövegrész helyébe a „százezer” szöveg lép.
-
-158. § (1) A 262/2006. (XII. 20.) Korm. rendelet 3. § (3) bekezdése helyébe az alábbi (3) bekezdés lép:
-
-## „(3) Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági határozatban foglalt előírásokat megsértette, és a jogszabály vagy hatósági határozat megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával – újabb hatósági eljárás lefolytatása nélkül – orvosolható, a hatóság – a (2) bekezdésben foglaltaktól eltérően – felhívja az ügyfél figyelmét a jogszabálysértésre, és legalább húsznapos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi annak megszüntetésére.”
-
-(2) A 262/2006. (XII. 20.) Korm. rendelet 3. §-a a következő (4) bekezdéssel egészül ki

@@ -1,7 +1,0 @@
-## 173. § A transzeurópai közúthálózatnak a Magyar Köztársaság területén lévő alagútjaira vonatkozó biztonsági minimumkövetelményekről szóló 18/2007. (II. 20.) Korm. rendelet 2. § h) pontjában a „Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága” szövegrész helyébe a „közlekedési hatóság” szöveg lép.
-
-## A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet módosítása
-
-174. § (1) A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet (a továbbiakban: 31/2007. (II. 28.) Korm. rendelet) 2. melléklet 102. pontjában az „OMMF” szövegrész helyébe a „Kormányhivatal” szöveg, 03. pontjában az „OMMF” szövegrész helyébe a „Kormányhivatal” szöveg, 2. melléklet 1. pont 21. és 22. sorában az „FSzH” szövegrész helyébe az „FH” szöveg, a 2.2. pont 7. sor „A” oszlopában a „Foglalkoztatási és Szociális Hivatal” szövegrész helyébe a „Foglalkoztatási Hivatal” szövegrész, „B” oszlopában az „FSzH” szövegrész helyébe az „FH” szöveg lép.
-
-(2) A 31/2007. (II. 28.) Korm. rendelet 2. melléklet 1. pont 70–79. sorában az „MgSzH Központ” szövegrész helyébe az „MgSzH” szöveg, 2. pont 27. sor „A” oszlopában a „Mezőgazdasági Szakigazgatási Hivatal Központ” szövegrész helyébe a „Mezőgazdasági Szakigazgatási Hivatal”, „B” oszlopában az „MgSzH Központ” szövegrész helyébe az „MgSzH” szöveg lép.

@@ -1,1 +1,0 @@
-## „2/A. § Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a sugár-egészségügyi decentrumok a külön kormányrendeletben meghatározott illetékességi területükön látják el.”

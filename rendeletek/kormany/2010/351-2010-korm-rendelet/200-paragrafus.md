@@ -1,3 +1,0 @@
-## 199. § A korkedvezmény-biztosítási járulék megfizetése alól történő mentesítés eljárási szabályairól szóló 342/2007. (XII. 19.) Korm. rendelet (a továbbiakban: 342/2007. (XII. 19.) Korm. rendelet) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Kormány az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény (a továbbiakban: Tv.) XXVII. Fejezete szerinti első fokú hatósági feladatok ellátására – a (2) bekezdés szerinti eltéréssel – a fővárosi kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve munkavédelmi felügyelőségét (továbbiakban: Felügyelőség) jelöli ki.”

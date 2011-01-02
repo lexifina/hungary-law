@@ -1,9 +1,0 @@
-## 282. § A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.4. konstrukció „A hátrányos helyzetűek foglalkoztatásáért a Közép-magyarországi Régióban” keretében nyújtható támogatásokról szóló 175/2010. (V. 13.) Korm. rendelet 1. § b) pontjában a „Foglalkoztatási és Szociális Hivatalra” szövegrész helyébe a „Foglalkoztatási Hivatalra” szöveg, 1. § c) pontjában a „Közép-magyarországi Regionális Munkaügyi Központra (a továbbiakban: KMRMK)” szövegrész helyébe a „Budapest Főváros Kormányhivatalának Munkaügyi Központjára” szöveg, 2. § (1) bekezdés a) pontjában „akinek munkaviszonya 2008. szeptember 1-jét követően szűnt meg” szövegrész helyébe „aki bérpótló juttatásban részesül” szöveg, 2. § (1) bekezdésében, 2. § (2) bekezdés b) és d) pontjában, 4. § (4) és (5) bekezdésében, valamint 5. § (1), (4) és (7) bekezdésében a „KMRMK” szövegrész helyébe a „Budapest Főváros Kormányhivatalának Munkaügyi Központja” szöveg lép.
-
-## Az Állami Népegészségügyi és Tisztiorvosi Szolgálat hivatalból indult közigazgatási hatósági eljárása során felmerülő egyéb eljárási költségekről szóló 176/2010. (V. 13.) Korm. rendelet módosítása
-
-283. § (1) Az Állami Népegészségügyi és Tisztiorvosi Szolgálat hivatalból indult közigazgatási hatósági eljárása során felmerülő egyéb eljárási költségekről szóló 176/2010. (V. 13.) Korm. rendelet (a továbbiakban: 176/2010. (V. 13.) Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § E rendelet hatálya az Állami Népegészségügyi és Tisztiorvosi Szolgálat szervei, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve és az annak keretében működő kistérségi népegészségügyi intézet (a továbbiakban együtt: Szolgálat) hatáskörébe tartozó, hivatalból indult közigazgatási hatósági eljárásokra terjed ki.”
-
-(2) A 176/2010. (V. 13.) Korm. rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:

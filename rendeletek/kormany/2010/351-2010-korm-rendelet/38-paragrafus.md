@@ -1,3 +1,5 @@
+## 1–37. §
+
 38. § (1) A 20/1997. (II. 13.) Korm. rendelet 11. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
 
 [Az Oktatási Hivatal a KIR részeként nyilvántartja:]

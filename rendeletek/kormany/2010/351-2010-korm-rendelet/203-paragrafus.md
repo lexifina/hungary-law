@@ -1,3 +1,0 @@
-## 202. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet 3. §-ában a „Magyar Kereskedelmi Engedélyezési Hivatal területi mérésügyi és műszaki biztonsági hatóságai” szövegrész helyébe a „fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságai” szöveg lép.
-
-## A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet módosítása

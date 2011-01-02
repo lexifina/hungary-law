@@ -1,1 +1,0 @@
-## 200. § A 342/2007. (XII. 19.) Korm. rendelet 5. § (1) bekezdés b) pontjában a „Nemzeti Közlekedési Hatóság Pályaalkalmasság Vizsgálati Igazgatósága” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatala” szöveg, 7. § (3) bekezdésében az „az Adó- és Pénzügyi Ellenőrzési Hivatal” szövegrész helyébe az „a Nemzeti Adó- és Vámhivatal” szöveg lép.

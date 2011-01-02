@@ -1,3 +1,0 @@
-## 146. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény végrehajtásáról szóló 67/2006. (III. 28.) Korm. rendelet (a továbbiakban: 67/2006. (III. 28.) Korm. rendelet) 4. § (2) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „4. § (2) Ha a jogosult tulajdoni kárpótlása iránt is benyújtotta igényét és az élet elvesztéséért, vagy a munkaszolgálat jogcímén szabadságelvonásért járó kárpótlás iránti kérelem vonatkozásában legalább részben helyt adó döntés született, a tulajdoni sérelemért járó kárpótlás iránti igényt a kárpótlási hatóság bírálja el.”

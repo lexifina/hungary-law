@@ -1,1 +1,0 @@
-## 115. § A külföldi gyógykezelésekkel kapcsolatos egyes kérdésekről szóló 227/2003. (XII. 13.) Korm. rendelet (a továbbiakban: 227/2003. (XII. 13.) Korm. rendelet) 6. § (1) bekezdésében a „jogosult személy lakóhelye szerint illetékes regionális egészségbiztosítási pénztár (a továbbiakban: REP)” szövegrész helyébe a „jogosult személynek az OEP” szöveg lép.

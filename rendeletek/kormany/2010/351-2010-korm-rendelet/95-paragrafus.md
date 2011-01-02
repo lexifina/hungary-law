@@ -1,3 +1,0 @@
-## 94. § A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet 6. § (1) bekezdésében az „az NKH Központi Hivatalához” szövegrész helyébe az „a Nemzeti Közlekedési Hatóság Központjához (a továbbiakban: NKH Központ)” szöveg, 6. § (2) és (3) bekezdésében az „NKH Központi Hivatala” szövegrész helyébe az „NKH Központ”, valamint 6. § (4) bekezdésében az „NKH Központi Hivatalát” szövegrész helyébe az „NKH Központot” szöveg, a „Közlekedési és Vízügyi Minisztérium” szövegrész helyébe a „közlekedésért felelős miniszter” szöveg lép.
-
-## A veszélyes áru szállítási biztonsági tanácsadó kinevezéséről és képesítéséről szóló 2/2002. (I. 11.) Korm. rendelet módosítása

@@ -1,5 +1,0 @@
-## „(3) A vásárok és piacok, valamint a bevásárlóközpont üzemeltetésére e rendeletben előírt feltételek meglétét a jegyző ellenőrzi. A jegyzőn kívül a vásárok és piacok, illetve a bevásárlóközpontok működésére, valamint az ott végzett kereskedelmi tevékenységre, forgalomba hozott termékekre vonatkozó jogszabályokban foglalt rendelkezések betartását az engedélyezésben részt vevő hatóságok, a fogyasztóvédelmi hatóság, a Nemzeti Adó- és Vámhivatal, a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti hatósága, illetve a nemesfémvizsgáló és hitelesítő hatósága, az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, valamint a fővárosi és megyei kormányhivatal munkavédelmi felügyelősége és munkaügyi felügyelősége, a külön jogszabályban foglalt hatáskörükben eljárva jogosultak ellenőrizni, illetve hatósági jogkörüket gyakorolni.”
-
-## A szakképzettséggel rendelkező, pályakezdő álláskeresők munkatapasztalat-szerzésének és a létszámleépítések megelőzése érdekében a részmunkaidős foglalkoztatás támogatásáról szóló
-
-## 70/2009. (IV. 2.) Korm. rendelet módosítása

@@ -1,3 +1,0 @@
-## 249. § A biztonságos és gazdaságos gyógyszer- és gyógyászati segédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti kutatásfejlesztési tevékenység után igénybe vehető engedményekre vonatkozó részletes szabályokról szóló 162/2009. (VIII. 3.) Korm. rendelet 4. §-ában az „egészségbiztosítási szerv és a Pénzügyminisztérium” szövegrész helyébe az „Országos Egészségbiztosítási Pénztár és az államháztartásért felelős miniszter által vezetett minisztérium” szöveg lép.
-
-## A borászati termékek eredetmegjelöléseinek és földrajzi jelzéseinek közösségi oltalmára irányuló eljárásról, valamint ezen termékek ellenőrzéséről szóló 178/2009. (IX. 4.) Korm. rendelet módosítása

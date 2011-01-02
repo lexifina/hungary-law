@@ -1,3 +1,0 @@
-## 281. § A Nabucco Gas Pipeline International GmbH. által megvalósítandó, a Nabucco gázvezeték magyarországi szakaszának kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 174/2010. (V. 13.) Korm. rendelet 1. és 2. melléklete helyébe e rendelet 58. melléklete lép.
-
-## A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.4. konstrukció „A hátrányos helyzetűek foglalkoztatásáért a Közép-magyarországi Régióban” keretében nyújtható támogatásokról szóló 175/2010. (V. 13.) Korm. rendelet módosítása
