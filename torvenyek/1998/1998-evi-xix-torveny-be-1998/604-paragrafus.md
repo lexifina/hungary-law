@@ -34,7 +34,7 @@ k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett m�
 
 l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
 
-m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott,
+m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
 
 n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 
@@ -48,7 +48,7 @@ r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban va
 
 rendeletben szabályozza.
 
-(3) Felhatalmazást kap a rendészetért felelős miniszter, illetőleg az adópolitikáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
+(3) Felhatalmazást kap a rendészetért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
 
 (4) Felhatalmazást kap
 
