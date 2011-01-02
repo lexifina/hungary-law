@@ -1,1 +1,0 @@
-## „g) a civil szervezet képviselőjének közjegyző által hitelesített aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírási mintáját vagy a pénzforgalmi szolgáltatója által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát.”
