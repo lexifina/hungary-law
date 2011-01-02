@@ -1,1 +1,0 @@
-## „(4) A pénzügyi vállalkozás a termékismertetőre vonatkozó eseti jelentést [melléklet 25DA–25DM táblák] az adatokban történő változás érvényessége kezdőnapját megelőző munkanap 18 óráig köteles a Felügyelet részére megküldeni.”
