@@ -1,3 +1,3 @@
-## 3. Az Egyenlő Bánásmód Hatóságról és eljárásának részletes szabályairól szóló
+## 43. §[^2]
 
-## 362/2004. (XII. 26.) Korm. rendelet módosítása
+[^2]: Az 43. §-t és az azt megelőző alcímet a 48. § (1) bekezdése hatályon kívül helyezte.

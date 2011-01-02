@@ -1,1 +1,0 @@
-## „(8a) A miniszter a külpolitikáért való felelőssége körében gondoskodik a (8) bekezdésben és a 10. § a) pontjában meghatározott látogatásokkal, találkozókkal és rendezvényekkel összefüggésben a diplomáciai és protokoll-ajándékraktár működtetéséről, valamint a pénzügyi elszámolás végrehajtásáról.”
