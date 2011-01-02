@@ -1,1 +1,0 @@
-## 4. § Az R. 5. § (3) bekezdés b) pontjában a „20 MW-nál nem nagyobb, vagy” szövegrész helyébe a „20 MW-nál nem nagyobb. ” szöveg, 6. számú melléklet 3. pontjában a „– külön jogszabály szerint meghatározott, és a Hivatal által jóváhagyott vagy hivatalból módosított –” szövegrész helyébe a „– külön jogszabály szerint meghatározott – ” szöveg lép.
