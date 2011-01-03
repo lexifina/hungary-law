@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-39-00-00
 | 2010-07-22 | 2010. évi LXXVII. törvény | 2010-39-00-00.2 |
 | 2010-12-31 | 2010. évi CLXXI. törvény | 2010-39-00-00.3 |
 | 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-39-00-00.4 |
+| 2011-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-39-00-00.5 |
