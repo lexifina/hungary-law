@@ -1,1 +1,0 @@
-## 1. § A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet módosításáról szóló 29/2010. (V. 12.) EüM rendelet (a továbbiakban: R.) 2011. január 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
