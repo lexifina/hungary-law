@@ -1,18 +1,6 @@
 ## Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-5. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 33. § (2) bekezdése kiegészül a 36. ponttal:
-
-[Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:]
-
-„36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás.”
-
-(2) Az Itv. melléklete VI. fejezet 5. pontja helyébe a következő rendelkezés lép:
-
-„5. Illetékmentes
-
-a) a 91–92. §-ban említett irat hitelesítése,
-
-b) a 4. pontban szereplő hitelesítés, ha az olyan okiratra vonatkozik, amelyet a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdésében vagy 5. §-ában meghatározott kérelemhez kell csatolni.”
+5. § (1)–(2)
 
 (3) Az Itv. melléklete XV. fejezet 1. pont c) alpontja helyébe a következő rendelkezés lép:
 

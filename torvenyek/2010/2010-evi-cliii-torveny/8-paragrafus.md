@@ -1,5 +1,3 @@
 ## A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosítása
 
-8. § (1) A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 11. § (1) bekezdésében „az illetékes megyei kárrendezési hivatalhoz” szövegrész helyébe „a kárpótlási hatósághoz” szöveg, 20. § (2) bekezdésében és 21. § (2) bekezdésében „a szövetkezet székhelye szerint illetékes kárpótlási hatóság” szövegrész helyébe „a kárpótlási hatóság” szöveg, 24. § (4) bekezdésében „az illetékes kárpótlási hatóság” szövegrész helyébe „a kárpótlási hatóság” szöveg, „a székhelye szerint illetékes kárpótlási hatóságtól” szövegrész helyébe „a kárpótlási hatóságtól” szöveg, valamint 28. §-ában „az illetékes kárpótlási hatósághoz” szövegrész helyébe „a kárpótlási hatósághoz” szöveg lép.
-
-(2) Hatályát veszti a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 5. § (5) bekezdése, valamint a 11. § (2)–(4) bekezdése.
+8. §

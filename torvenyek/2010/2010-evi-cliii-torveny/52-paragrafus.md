@@ -1,3 +1,3 @@
 ## Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény módosítása
 
-52. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény 1. § (1) bekezdésében „a Központi Kárrendezési Iroda” szövegrész helyébe „a kárpótlási hatóság” szöveg, valamint 2. § (2) bekezdésében a „KIH” szövegrész helyébe „a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata” szöveg lép.
+52. §

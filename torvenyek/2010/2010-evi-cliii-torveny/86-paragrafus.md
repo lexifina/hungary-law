@@ -9,9 +9,3 @@
 (5) E törvény 84. §-a 2011. december 31-én hatályát veszti.
 
 ## Melléklet a 2010. évi CLIII. törvényhez
-
-Az Art. 3. számú melléklet F) pontja helyébe a következő rendelkezés lép:
-
-„F) Nyugdíjat, rehabilitációs járadékot folyósító szerv adatszolgáltatása
-
-A nyugdíjat, rehabilitációs járadékot folyósító szerv – az állami adóhatóságnak az Art. 31. §-ának (2) bekezdése szerinti bevallásban lévő adatok alapján a nyugdíj mellett munkát vállaló személyekre a természetes személyazonosító adatok és az adóazonosító jel feltüntetésével az adóévet követő év január 31. napjáig teljesített elektronikus adatszolgáltatása alapján – az előzőekben megjelölt adatok feltüntetésével az adóévet követő év február 15. napjáig az állami adóhatóság felé elektronikus úton adatot szolgáltat a kifizetett nyugellátás, rehabilitációs járadék adóévi összegéről. Az állami adóhatóság a kiegészítő tevékenységet folytató egyéni vállalkozókra az előzőekben meghatározott feltételek szerinti adatszolgáltatást az adóévet követő év március 15-ig, a nyugdíjat, rehabilitációs járadékot folyósító szerv pedig március 31-ig teljesíti.”

@@ -1,8 +1,6 @@
 ## A közoktatásról szóló 1993. évi LXXIX. törvény módosítása
 
-16. § (1) A közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 4. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az állami és a helyi önkormányzati nevelési-oktatási intézményben lehetővé kell tenni, hogy a gyermek, illetőleg a tanuló az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatásban vegyen részt. Az egyházi jogi személy a hit- és vallásoktatást óvodában a szülők, iskolákban és kollégiumban a tanulók és a szülők igénye szerint szervezheti. A hit- és vallásoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában pedig oly módon szervezhető, hogy alkalmazkodjon a kötelező tanórai foglalkozások rendjéhez. A hit- és vallásoktatás tartalmának meghatározása, a hitoktató alkalmazása és ellenőrzése, a hit- és vallásoktatással összefüggő igazgatási cselekmények végzése, így különösen a hit- és vallásoktatásra való jelentkezés megszervezése, előmeneteli értesítések, bizonyítványok kiadása, a foglalkozások ellenőrzése az egyházi jogi személy feladata. Az iskola, a kollégium, illetve az óvoda – a nevelési-oktatási intézményben rendelkezésre álló eszközökből – köteles biztosítani a hit- és vallásoktatáshoz szükséges tárgyi feltételeket, így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket. Az egyházi jogi személy által foglalkoztatott hitoktató alkalmazásakor az e törvény 17. §-ában foglaltakat nem kell alkalmazni. Az óvoda, az iskola és a kollégium az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatással kapcsolatos feladatok ellátása során együttműködik az érdekelt egyházi jogi személlyel.”
+16. § (1)
 
 (2) A Kt. 37. § (7) bekezdése helyébe a következő rendelkezés lép:
 
@@ -46,9 +44,7 @@ b) nem rendelkezik – az e törvényben foglaltaknak megfelelő – a működé
 
 (7) A működést engedélyező szerv törvényességi ellenőrzési eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.”
 
-(5) A Kt. 81. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az oktatásért felelős miniszter is köthet közoktatási megállapodást akkor, ha a közoktatási intézmény térségi vagy országos, vagy a pedagógiai programja szerint kiemelkedő jelentőségű feladatot lát el, feltéve, hogy a közoktatási intézmény fenntartója – az (1) bekezdés e) pontja szerint – sikertelenül kezdeményezte a közoktatási megállapodás megkötését.”
+(5)
 
 (6) A Kt. 91. § (5) bekezdése helyébe a következő rendelkezés lép:
 
@@ -72,28 +68,12 @@ c) tizenöt–negyven százaléka a 115. § (1) bekezdés c) pontjában meghatá
 
 „46. működést engedélyező szerv: a Kormány általános hatáskörű területi államigazgatási szerve.”
 
-(10) A Kt. 121. §-a kiegészül a következő (10) bekezdéssel:
-
-„(10) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet (közösség) egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.”
-
-(11) A Kt. 2. számú melléklet „A gyermekek, tanulók adatai” cím 1. a) pontja helyébe a következő rendelkezés lép:
-
-[1. E törvény alapján nyilvántartott adatok:]
-
-„a) a gyermek, tanuló neve, születési helye és ideje, állampolgársága, lakóhelyének, tartózkodási helyének címe, társadalombiztosítási azonosító jele, telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma;”
-
-(12) A Kt. 2. számú melléklet „A gyermekek, tanulók adatai” cím 1. d) pontja a második franciabekezdést követően a következő franciabekezdéssel egészül ki:
-
-[d) a tanulói jogviszonnyal kapcsolatos adatok]
-
-„– a tanuló mulasztásával kapcsolatos adatok”
-
-(13) A Kt. 132. § (6) bekezdésében a „2011. augusztus 31-éig” szövegrész helyébe a „2012. augusztus 31-éig” szöveg lép.
+(10)–(13)
 
 (14) A Kt. 37. § (2) bekezdésében a „jegyzőnél, főjegyzőnél” szövegrész helyébe a „működést engedélyező szervnél” szöveg, 82. § (1) bekezdésében a „főjegyző gyakorolja” szövegrész helyébe a „működést engedélyező szerv gyakorolja” szöveg, 82. § (2) bekezdésében a „főjegyző az illetékes” szövegrész helyébe a „működést engedélyező szerv az illetékes” szöveg, 82. § (5) bekezdésében a „főjegyző ellátja” szövegrész helyébe a „működést engedélyező szerv ellátja” szöveg, 91. § (2) bekezdés felvezető szövegében a „főjegyző, továbbá a jegyző” szövegrész helyébe a „működést engedélyező szerv” szöveg, 91. § (3) bekezdésében a „főjegyző elkészíti” szövegrész helyébe a „működést engedélyező szerv elkészíti” szöveg, 91. § (6) bekezdésében a „(2) bekezdés a)–b) pontjában és a (4) bekezdés a) és c) pontjában meghatározott feladat ellátásához a jegyző, főjegyző” szövegrész helyébe a „(2) bekezdés a)–b) pontjában meghatározott feladat ellátásához a működést engedélyező szerv, és a (4) bekezdés a) pontjában meghatározott feladat ellátásához a jegyző, főjegyző” szöveg, 93. § (5) bekezdésében a „jegyzőt, főjegyzőt” szövegrész helyébe a „működést engedélyező szervet” szöveg, 94. § (1) bekezdés n) pontjában a „főjegyző nem helyi önkormányzati” szövegrész helyébe a „működést engedélyező szerv nem helyi önkormányzati” szöveg, 94. § (3) bekezdés j) pontjában a „jegyzői, főjegyzői, társulási tanács elnöki” szövegrész helyébe a „működést engedélyező szervi, társulási tanács elnöki” szöveg, valamint 94. § (3) bekezdés n) pontjában a „jegyző, főjegyző közoktatási” szövegrész helyébe a „jegyző, főjegyző, működést engedélyező szerv közoktatási” szöveg lép.
 
 (15) A Kt. 30. § (7) bekezdésében, 35. § (4) bekezdésének nyolcadik mondatában, és 121. § (1) bekezdés 29. b) pontjában a „megismerő funkciók vagy a viselkedés fejlődésének organikus okra vissza nem vezethető tartós és súlyos rendellenességével” szöveg helyébe a „megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével” szöveg, 121. § (1) bekezdés 29. a) pontjában a „megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető tartós és súlyos rendellenességével” szöveg helyébe a „megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos rendellenességével” szöveg lép.
 
-(16) Hatályát veszti a Kt. 19. § (6) bekezdése.
+(16)
 
 (17) Hatályát veszti a Kt. 95/A. § (6) bekezdés ba) pontjában a „jegyzőnél, főjegyzőnél” szövegrész.
