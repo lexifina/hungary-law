@@ -8,6 +8,7 @@
 
 (3)[^6]
 
-(4) A (3) bekezdés 2011. január 2-án hatályát veszti. E bekezdés 2011. január 3-án hatályát veszti.
+(4)[^7]
 
 [^6]: A 9. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
+[^7]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
