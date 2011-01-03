@@ -1,4 +1,4 @@
-## 26. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 26/A. §[^7] E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 48/2010. (XII. 31.) VM rendelettel megállapított rendelkezéseit kizárólag azon ügyekben kell alkalmazni, amelyekben az ügyfelekkel az elsőfokú támogatási határozatot 2010. november 30-át követően közölték.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -101,3 +101,5 @@ Melléklet a 144/2009. (XI. 6.) FVM rendelethez
 |  | 74.87.16.3 | Kereskedelmi, szálláshely-szolgáltatási, vendéglátási, szállítási, raktározási, postai, távközlési szakmai tervezés, szakértés | 6% | 6 000 000 |
 
 |  | 74.87.16.5 | Környezetvédelmi szakmai tervezés, szakértés | 6% | 6 000 000 |
+
+[^7]: A 26/A. §-t a 48/2010. (XII. 31.) VM rendelet 4. §-a iktatta be.
