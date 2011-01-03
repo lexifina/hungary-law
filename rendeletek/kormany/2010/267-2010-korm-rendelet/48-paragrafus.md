@@ -1,3 +1,3 @@
-48. § (1) 2011. január 2-án hatályát veszti az 1–3. alcím.
+48. §[^4]
 
-(2) Ez a § 2011. január 3-án hatályát veszti.
+[^4]: A 48. § a (2) bekezdése alapján hatályát vesztette.
