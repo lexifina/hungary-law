@@ -1,0 +1,19 @@
+4. § (1) A támogatási jogosultságot alátámasztó számlákon és egyéb bizonylatokon szereplő összegekre abban az esetben nyújtható támogatás, amennyiben a kérelmező nevére és címére kiállított számlák és bizonylatok teljesítési dátuma – az adott intézkedésre vonatkozó e rendeletben előírt, eltérő rendelkezés hiányában – az I. időszak tekintetében 2010. szeptember 1-je és 2011. augusztus 31-e, a II. időszak esetében 2011. szeptember 1-je és 2012. augusztus 31-e, illetve a III. időszak vonatkozásában 2012. szeptember 1-je és 2013. augusztus 31-e közötti időszakra esik. Termék értékesítése, szolgáltatás nyújtása esetében, ha a teljesítést megelőzően vagyoni előny juttatására kerül sor és az ellenértékbe beszámítható összegről előlegszámlát vagy ún. proforma számlát (a továbbiakban: fizetési értesítést) állítanak ki, az előlegszámla, illetve a fizetési értesítés alapján a támogatásra való jogosultság kizárólag a végszámlával együtt állapítható meg. Az előlegszámla, illetve a fizetési értesítés abban a végrehajtási időszakban számolható el, amelyre a végszámla – az azon feltüntetett teljesítési dátum vagy teljesítési időszak alapján – vonatkozik.
+
+(2) Támogatás csak olyan termékbeszerzés, illetve szolgáltatás igénybevétele alapján fizethető ki, amelynek ellenértékét a kérelmező megtérítette. A kérelmezőnek az ellenérték megtérítését igazoló bizonylat – így különösen a kérelmező nevére és címére kiállított bankszámlakivonat, kiadási pénztárbizonylat – másolati példányát is csatolnia kell a kérelemhez. Egyszerűsített készpénzfizetési számla, illetve az olyan számla, amelyen a fizetés módjaként utánvétet tüntettek fel, valamint a készpénz-átutalási megbízás az ellenérték megtérítését igazoló bizonylatnak tekintendő.
+
+(3) Forinttól eltérő pénznemben kiállított számla esetében a forintra történő átszámítást a számlán feltüntetett szolgáltatásnyújtás/termékértékesítés teljesítésének napján érvényes, az Európai Központi Bank által jegyzett forint/deviza átváltási árfolyam alapján kell elvégezni. Amennyiben a forinttól eltérő pénznemben kiállított számlán teljesítési időszakot jelölnek meg, úgy a forintra történő átszámítást a teljesítési időszak első napján érvényes, az Európai Központi Bank által jegyzett forint/deviza átváltási árfolyamon kell elvégezni.
+
+(4) A 2. § (2) bekezdés a) pont aa), ab), ac), ad) alpontja, illetve f) pont fa) alpontja szerinti intézkedések esetében az útiköltség elszámolásához a kérelemmel benyújtandó gépjármű-használati nyilvántartásnak (a továbbiakban: útnyilvántartás) tartalmaznia kell legalább a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 5. számú mellékletének II. 7. pontjában meghatározott adatokat.
+
+(5) A támogatás alapja – a (6) bekezdésben foglaltak figyelembevételével – a kérelmező által megtérített ellenértékű számla általános forgalmi adó (a továbbiakban: áfa) nélküli összege.
+
+(6) Ha a kérelmező:
+
+a) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: ÁFA tv.) értelmében áfa-visszatérítésre nem jogosult, akkor a támogatás számításának alapja a támogatás alapját képező számla áfát tartalmazó bruttó összköltsége;
+
+b) az ÁFA tv. értelmében az adott intézkedéssel kapcsolatban részleges áfa-visszatérítésre jogosult, akkor a támogatási hányadra eső, az ÁFA tv. arányosításra vonatkozó előírásai szerint le nem vonható áfa összegével megnő a támogatási alapként elszámolható költségek összege;
+
+c) nem alanya az ÁFA tv.-nek, de alanya az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvénynek, akkor a támogatás számításának alapja az adott támogatási intézkedéshez kapcsolódó elszámolható számlák áfát tartalmazó bruttó összköltsége.
+
+(7) Az agrárpolitikáért felelős miniszter az egyes intézkedések támogatására elkülönített keretösszegek között a teljes éves keretösszeg 10%-át meg nem haladó mértékű átcsoportosítást engedélyezhet.
