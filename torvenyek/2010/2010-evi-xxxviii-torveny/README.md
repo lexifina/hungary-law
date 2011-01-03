@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2010-03-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-38-00-00.1 |
 | 2010-12-31 | 2010. évi CXV. törvény | 2010-38-00-00.2 |
 | 2011-01-01 | 2010. évi CXV. törvény | 2010-38-00-00.3 |
+| 2011-01-03 | 2010. évi CXV. törvény | 2010-38-00-00.4 |
