@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-23-00-00
 | 2010-09-01 | 2010. évi CXLVIII. törvény | 2009-23-00-00.1 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2009-23-00-00.2 |
 | 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-23-00-00.3 |
+| 2011-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-23-00-00.4 |
