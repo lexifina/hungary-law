@@ -4,6 +4,7 @@
 
 (3)–(4)[^1]
 
-(5) 2011. január 2-án hatályát veszti a (3) és (4) bekezdés. Ez a bekezdés 2011. január 3-án hatályát veszti.
+(5)[^2]
 
 [^1]: A 7. § (3)–(4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^2]: A 7. § (5) bekezdése ugyanezen bekezdése alapján hatályát vesztette.
