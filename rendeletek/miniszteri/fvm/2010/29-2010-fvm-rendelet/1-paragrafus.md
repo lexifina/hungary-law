@@ -8,7 +8,7 @@
 
 3. Burley dohány szerkezetátalakítási támogatási jogosultság: a Burley dohány referenciaterület alapján megállapított, a zöldség, gyümölcs és dohány szerkezetátalakítási nemzeti program szerint az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA) finanszírozott különleges támogatás igénybevételére jogosító mezőgazdasági vagyoni értékű jog;
 
-4. elismert élőmunka ráfordítás: olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;
+4.[^1] elismert élőmunka ráfordítás: természetes személy közteher fizetés melletti önfoglalkoztatása, valamint olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;
 
 5. elismert tevékenység: a termelő által saját nevében és saját kockázatára folytatott
 
@@ -53,3 +53,5 @@
 20. zöldség referenciaterület: az a hektárban megállapított területnagyság, amelynek alapján a zöldségtermelő részére az 1. melléklet szerinti hasznosítási kódok szerinti támogatás megállapításra került;
 
 21. zöldségtermelő: az az ügyfél, aki, vagy amely az R. II. fejezetében foglaltak alapján spárga, dinnye, torma, fűszerpaprika termelésére szolgáló terület után támogatást vett igénybe.
+
+[^1]: Az 1. § 4. pontja a 48/2010. (XII. 31.) VM rendelet 5. §-ával megállapított szöveg.
