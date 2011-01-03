@@ -1,3 +1,3 @@
-13. § (1) Hatályát veszti a 10–11. §.
+13. §[^2]
 
-(2) Ez a § 2011. január 3-án hatályát veszti.
+[^2]: A 13. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
