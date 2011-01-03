@@ -224,6 +224,6 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-13. melléklet a 35/2008. (XII. 31.) PM rendelethez[^7]
+13. melléklet a 35/2008. (XII. 31.) PM rendelethez[^9]
 
-[^7]: A 13. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 13. melléklet a 21/2010. (XII. 31.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.

@@ -148,6 +148,6 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^3]
+2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^5]
 
-[^3]: A 2. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.

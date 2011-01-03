@@ -218,6 +218,6 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-12. melléklet a 35/2008. (XII. 31.) PM rendelethez[^6]
+12. melléklet a 35/2008. (XII. 31.) PM rendelethez[^8]
 
-[^6]: A 12. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 12. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.

@@ -80,6 +80,6 @@
 
 | 4. Bizonyítvány / igazolvány száma: |  |
 
-4. melléklet a 35/2008. (XII. 31.) PM rendelethez[^5]
+4. melléklet a 35/2008. (XII. 31.) PM rendelethez[^7]
 
-[^5]: A 4. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. melléklet a 29/2009. (XII. 4.) PM rendelet 2. §-ával megállapított szöveg.
