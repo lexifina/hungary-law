@@ -1,3 +1,0 @@
-## 8. § Az FVM rendelet a következő 18/A. §-sal egészül ki:
-
-## „18/A. § E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 48/2010. (XII. 31.) VM rendelettel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.”

@@ -1,3 +1,0 @@
-## 5. § A zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet (a továbbiakban: FVM rendelet) 1. § 4. pontja helyébe a következő rendelkezés lép:
-
-## „4. elismert élőmunka ráfordítás: természetes személy közteher fizetés melletti önfoglalkoztatása, valamint olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;”
