@@ -1,1 +1,0 @@
-## „(5) Ha a köztartozás teljesítésére az állami adóhatóság határozatában új esedékességi határidőt állapít meg, az új időpontig a határozatban megjelölt összeget e rendelet alkalmazása során nem kell lejárt köztartozásként kezelni.”

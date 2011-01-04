@@ -1,3 +1,0 @@
-## „a) a központi kezelésű előirányzatok esetén: a fejezetet irányító szerv, a központi költségvetés XLIII. fejezete esetén a Magyar Nemzeti Vagyonkezelő Zrt. és a Magyar Fejlesztési Bank Zrt.,
-
-## b) a fejezeti kezelésű előirányzatok esetén: a fejezetet irányító szerv vagy – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(6) bekezdése alapján középirányító szervre vagy kezelő szervre ruházta át – a középirányító szerv, kezelő szerv az átruházott jogkörök, feladatok, és – a 109. § (6) bekezdése szerinti esetben – előirányzat-hányad tekintetében,”

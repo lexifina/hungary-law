@@ -1,5 +1,0 @@
-## 9. § Az Ámr. 51. § (7)–(8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A többcélú kistérségi társulás, valamint az általa alapított, illetve irányítása alá tartozó költségvetési szervek elemi költségvetését az (1)–(3) bekezdés rendelkezéseinek megfelelő alkalmazásával kell elkészíteni. A többcélú kistérségi társulás munkaszervezete az elkészített és a társulási tanács elnöke által jóváhagyott elemi költségvetéseket – ha a költségvetési törvény másként nem rendelkezik – a kistérségi határozat-tervezet társulási tanács elé terjesztésének határidejét követő harminc napon belül nyújtja be az Igazgatósághoz.
-
-## (8) A helyi önkormányzatok jogi személyiségű társulása, valamint az irányítása alá tartozó önállóan működő és gazdálkodó költségvetési szerv elemi költségvetését az (1)–(3) bekezdés rendelkezéseinek megfelelő alkalmazásával kell elkészíteni azzal, hogy a megállapodásban megjelölt vagy a társulásban megvalósuló feladat ellátását végző költségvetési szerv székhelye szerinti önkormányzat költségvetési szerveire meghatározott módon kell az irányító szerv vezetője által jóváhagyott elemi költségvetést az Igazgatóság részére megküldeni.”
