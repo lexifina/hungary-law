@@ -1,6 +1,6 @@
 ## 3. Nonprofit korlátolt felelősségű társaságok támogatása
 
-10. § (1) Az 5. Nonprofit korlátolt felelősségű társaságok támogatása és a 37. Honvéd Együttes Művészeti Nkft. támogatása jogcímcsoport elsődlegesen a nonprofit korlátolt felelősségű társaságok általános működésének elősegítésére szolgál. Emellett támogatás nyújtható
+10. § (1)[^2] Az 5. Nonprofit korlátolt felelősségű társaságok támogatása jogcímcsoport elsődlegesen a nonprofit korlátolt felelősségű társaságok általános működésének elősegítésére szolgál. Emellett támogatás nyújtható
 
 a) a HM Zrínyi Kommunikációs Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaságnak különösen a toborzással, a kommunikációval, a kutatásokkal, az elemzésekkel, a kiadványokkal és a hagyományápolással,
 
@@ -13,3 +13,5 @@ d) a HM Rekreációs és Kulturális Közhasznú Nonprofit Korlátolt Felelőss�
 összefüggő feladatok elősegítése érdekében.
 
 (2) Az (1) bekezdés szerinti előirányzat felhasználása közvetlen módon, végleges támogatás nyújtásával történik.
+
+[^2]: A 10. § (1) bekezdés nyitó szövegrésze a 19/2010. (XII. 27.) HM rendelet 9. §-a szerint módosított szöveg.
