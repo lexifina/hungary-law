@@ -18,7 +18,7 @@ d)[^46] a Honvédelmi Minisztérium alárendeltségébe, valamint a honvédelmi 
 
 e) a honvédelmi tárcával kapcsolatban álló társadalmi, kulturális és hagyományőrző szervezetek vezetői.
 
-(5)[^47] A (4) bekezdés szerinti személyekre vonatkozó javaslattételre a HM vonatkozásában a HM kabinetfőnöke, MH vonatkozásában a HM Honvéd Vezérkar főnöke jogosult.
+(5)[^47] A (4) bekezdés szerinti személyekre vonatkozó javaslattételre a HM vonatkozásában a HM közigazgatási államtitkára, MH vonatkozásában a HM Honvéd Vezérkar főnöke jogosult.
 
 (6) Személyi javaslatot olyan személyre lehet tenni, aki
 
@@ -40,6 +40,6 @@ e)[^48] tevékenységével jelentősen hozzájárult a Magyar Köztársaság nem
 [^44]: A 46. § (3) bekezdése a 17/2010. (XII. 3.) HM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^45]: A 46. § (4) bekezdése a 7/2007. (II. 23.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^46]: A 46. § (4) bekezdés d) pontja a 2/2009. (III. 17.) HM rendelet 2. §-ával megállapított szöveg.
-[^47]: A 46. § (5) bekezdése a 7/2007. (II. 23.) HM rendelet 22. § (3) bekezdése szerint módosított szöveg.
+[^47]: A 46. § (5) bekezdése a 7/2007. (II. 23.) HM rendelet 22. § (3) bekezdése, a 19/2010. (XII. 27.) HM rendelet 2. §-a szerint módosított szöveg.
 [^48]: A 46. § (6) bekezdésének e) pontját a 7/2007. (II. 23.) HM rendelet 14. § (2) bekezdése iktatta be.
 [^49]: A 46. § (8) bekezdését a 31/2005. (VIII. 5.) HM rendelet 1. §-a iktatta be, a 17/2010. (XII. 3) HM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
