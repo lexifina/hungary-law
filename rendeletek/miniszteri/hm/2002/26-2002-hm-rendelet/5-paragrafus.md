@@ -18,7 +18,7 @@ d) amennyiben a külföldi beosztás betöltésére pályázat került meghirdet
 
 e) összesíti a szakmai szervek javaslatait és a pályázaton eredményesen részt vettek adatait és a tárgyévet megelőző év augusztus 1-jéig elkészíti az összesített névjegyzéket, melyet jóváhagyásra felterjeszt a Honvéd Vezérkar főnök helyettesnek és a Honvédelmi Minisztérium multilaterális kapcsolattartó szerve vezetőjének;
 
-f)[^10] a tárgyévet megelőző év december 31-ig elkészíti és a HM VPSZÁT útján – a HM HVKF egyetértésével – a honvédelmi miniszternek jóváhagyásra felterjeszti a váltási tervokmányt, annak jóváhagyása után intézkedik a 6. § szerinti személyügyi eljárás lefolytatására.
+f)[^10] a tárgyévet megelőző év december 31-ig elkészíti és a HM VPVTHÁT útján – a HM HVKF egyetértésével – a honvédelmi miniszternek jóváhagyásra felterjeszti a váltási tervokmányt, annak jóváhagyása után intézkedik a 6. § szerinti személyügyi eljárás lefolytatására.
 
 (5)[^11] A Hjt. 2. § (32) bekezdés f) pontja szerinti állomány részére a felkészítő tanfolyamot a HM katonadiplomáciai tevékenységért felelős szervével együttműködve a katonai nemzetbiztonsági szolgálatok szervezik és vezetik, továbbá végzik a külföldi szolgálatteljesítésre tervezett személyek biztonsági felkészítését.
 
@@ -28,7 +28,7 @@ f)[^10] a tárgyévet megelőző év december 31-ig elkészíti és a HM VPSZÁT
 
 [^8]: Az 5. § (2) bekezdése a 42/2007. (XII. 23.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (4) bekezdésének bevezető szövegrésze a 42/2007. (XII. 23.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 5. § (4) bekezdésének f) pontja a 42/2007. (XII. 23.) HM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (4) bekezdésének f) pontja a 42/2007. (XII. 23.) HM rendelet 5. § (3) bekezdésével megállapított, a 19/2010. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
 [^11]: Az 5. § (5) bekezdése a 42/2007. (XII. 23.) HM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^12]: Az 5. § (6) bekezdése a 42/2007. (XII. 23.) HM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^13]: Az 5. § (7) bekezdése a 42/2007. (XII. 23.) HM rendelet 5. § (4) bekezdésével megállapított szöveg.
