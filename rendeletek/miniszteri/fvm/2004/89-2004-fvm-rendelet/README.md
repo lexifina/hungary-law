@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-89-20-8
 | 2010-05-08 | 2004-89-20-82.18 | 43/2010. (IV. 23.) FVM rendelet |
 | 2010-05-28 | 2004-89-20-82.19 | 73/2010. (V. 13.) FVM rendelet |
 | 2010-07-22 | 2004-89-20-82.20 | 5/2010. (VII. 7.) VM rendelet |
+| 2011-01-04 | 2004-89-20-82.21 | 43/2010. (XII. 20.) VM rendelet |
