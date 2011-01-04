@@ -1,4 +1,4 @@
-## 79/A. §[^63] Ha az önkéntes tartalékost a 63. § (1) bekezdésében meghatározott tisztségek egyikébe megválasztották, önkéntes tartalékos jogviszonyát meg kell szüntetni.
+## 79/A. §[^62] Ha az önkéntes tartalékost a 63. § (1) bekezdésében meghatározott tisztségek egyikébe megválasztották, önkéntes tartalékos jogviszonyát meg kell szüntetni.
 
 ## Áthelyezés más közszolgálati jogviszonyba
 
@@ -8,4 +8,4 @@
 
 (3) Az áthelyezésre vonatkozó személyi javaslatot az állományilletékes parancsnok szolgálati úton terjeszti elő döntésre a munkáltatói jogkört gyakorló elöljárónak.
 
-[^63]: A 79/A. §-t a 4/2006. (II. 7.) HM rendelet – a Magyar Közlöny 2006. évi 34. számában megjelent helyesbítésnek megfelelő – 22. §-a iktatta be.
+[^62]: A 79/A. §-t a 4/2006. (II. 7.) HM rendelet – a Magyar Közlöny 2006. évi 34. számában megjelent helyesbítésnek megfelelő – 22. §-a iktatta be.

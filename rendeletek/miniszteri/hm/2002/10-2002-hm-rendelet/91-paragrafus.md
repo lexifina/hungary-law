@@ -10,6 +10,6 @@
 
 (4) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 22/A. §-ának (13) bekezdésében a munkáltatói jogkör gyakorlója alatt – ez esetben – a személyügyi alapnyilvántartást végző katonai szervezet parancsnokát kell érteni.
 
-(5)[^68] A Honvédelmi Minisztériumban a (4) bekezdésben meghatározott munkáltatói jogkör gyakorlói a főosztályvezetők.
+(5)[^67] A Honvédelmi Minisztériumban a (4) bekezdésben meghatározott munkáltatói jogkör gyakorlói a főosztályvezetők.
 
-[^68]: A 91. § (5) bekezdését a 31/2003. (X. 16.) HM rendelet 3. §-a iktatta be, szövege a 28/2007. (VII. 9.) HM rendelet 13. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^67]: A 91. § (5) bekezdését a 31/2003. (X. 16.) HM rendelet 3. §-a iktatta be, szövege a 28/2007. (VII. 9.) HM rendelet 13. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 96. § (1) Az EB-ok évente január 10. és február 20. között végzik munkájukat.
 
-(2)[^81] Az alezredesi EB évente január 25-éig külön rangsorolja azokat az őrnagyokat, akik az alezredes rendfokozattal rendszeresített beosztás betöltéséhez szükséges iskolai végzettség megszerzése érdekében oktatási intézmény nappali képzésére pályáznak, és részükre beosztást terveznek.
+(2)[^80] Az alezredesi EB évente január 25-éig külön rangsorolja azokat az őrnagyokat, akik az alezredes rendfokozattal rendszeresített beosztás betöltéséhez szükséges iskolai végzettség megszerzése érdekében oktatási intézmény nappali képzésére pályáznak, és részükre beosztást terveznek.
 
 (3) A középfokú katonai oktatási intézmény keresztféléves oktatási rendjében végzett őrmesterek előmenetelének biztosítása érdekében a törzsőrmesteri előmeneteli bizottságot az (1) bekezdésben meghatározott időponttól eltérően is működtetni kell.
 
@@ -12,7 +12,7 @@
 
 (5) Az EB-ok részére a munkafeltételeket a kijelölésükre jogosult parancsnok köteles biztosítani. Az EB-ok szakmai felkészítéséért és tevékenységükhöz szükséges személyügyi okmányok és információ biztosításáért az illetékes személyügyi szerv vezetője a felelős.
 
-(6)[^82] A főtörzszászlósi EB évente január 25-éig külön rangsorolja azokat a törzszászlósokat, akik a főtörzszászlós rendfokozattal rendszeresített beosztás betöltéséhez szükséges iskolai végzettség megszerzése érdekében oktatási intézményi felvételre pályáznak.
+(6)[^81] A főtörzszászlósi EB évente január 25-éig külön rangsorolja azokat a törzszászlósokat, akik a főtörzszászlós rendfokozattal rendszeresített beosztás betöltéséhez szükséges iskolai végzettség megszerzése érdekében oktatási intézményi felvételre pályáznak.
 
-[^81]: A 96. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^82]: A 96. § (6) bekezdését a 4/2006. (II. 7.) HM rendelet 26. § (2) bekezdése iktatta be.
+[^80]: A 96. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^81]: A 96. § (6) bekezdését a 4/2006. (II. 7.) HM rendelet 26. § (2) bekezdése iktatta be.
