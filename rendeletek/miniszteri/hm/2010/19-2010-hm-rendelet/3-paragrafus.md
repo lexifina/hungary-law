@@ -1,1 +1,0 @@
-## 2. § A honvédelmi miniszter által alapítható és adományozható elismerésekről szóló 27/2002. (IV. 17.) HM rendelet 46. § (5) bekezdésében a „kabinetfőnöke” szövegrész helyébe a „közigazgatási államtitkára” szöveg lép.
