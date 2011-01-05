@@ -1,1 +1,0 @@
-## 4. § Hatályát veszti az R. 1. számú melléklete B. részének 86. (flufenzin), 162. (miklobutanil), 168. (N-fenil-ftálaminsav), 177. (paraffinolaj), 211. (spirodiklofen), valamint 246. (Coniothyrium minitans) sora.
