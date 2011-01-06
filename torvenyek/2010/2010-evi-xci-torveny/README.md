@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-91-00-00
 | --- | --- | --- |
 | 2010-09-22 | 2010. évi XCI. törvény | 2010-91-00-00.0 (közlönyállapot) |
 | 2010-09-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-91-00-00.1 |
+| 2011-01-06 | 46/2010. (XI. 26.) KüM határozat | 2010-91-00-00.2 |
