@@ -1,0 +1,3 @@
+151. § A Be. 281. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A bíróság a vádlottat távollétében felmentheti, vagy vele szemben a büntetőeljárást megszüntetheti; az erről szóló határozatot – a fellebbezési jogára (324–325. §) vonatkozó rendelkező részi záradék feltüntetése mellett – kézbesítés útján közli a vádlottal és a védővel. A bíróság a szabályszerű idézés ellenére meg nem jelent vádlottal szemben – ha az előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni – az eljárást befejezheti, az ügydöntő határozatot a meg nem jelent vádlottal kézbesítés útján, a tárgyaláson jelen lévő védővel kihirdetés útján közli.”

@@ -1,0 +1,3 @@
+64. § A Bjt. 20. §-a helyébe a következő rendelkezés lép:
+
+„20. § A bíró más bírósághoz történő kirendelésére az OIT elnöke, áthelyezésére az OIT, ha a kirendelés vagy az áthelyezés a megyei bíróság és az illetékességi területén működő helyi bíróság között vagy a megyei bíróság illetékességi területén működő helyi bíróságok között történik, a megyei bíróság elnöke jogosult.”

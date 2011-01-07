@@ -1,0 +1,5 @@
+149. § A Be. 281. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tanács elnöke a lehetőséghez képest intézkedik – a 279. § (4) bekezdés esetét kivéve –, hogy a szabályszerű idézés ellenére meg nem jelent vádlottat vagy tanút azonnal vezessék elő, a távol maradt ügyészt vagy szakértőt pedig a tárgyaláson való megjelenésre hívja fel, az ügyész felhívása az ügyészség vezetője útján történik.
+
+(3) Ha a megidézett védő nem jelent meg, helyette a vádlott más védőt hatalmazhat meg. Ha a védő tárgyalási részvétele kötelező, és a meghatalmazott védő a tárgyaláson nem jelenik meg, és a helyettesítéséről sem gondoskodik, a bíróság helyettes védőt jelöl ki, illetve a meg nem jelent kirendelt védő helyett más védőt rendel ki. A helyettes vagy a kirendelt új védőnek időt lehet biztosítani ahhoz, hogy a védelemre felkészüljön. A tárgyalás megtartható, de a vádlott vagy a tárgyaláson jelen lévő védő kérelmére a bizonyítási eljárást nem lehet befejezni, a tárgyalást a meg nem jelent védő költségére el kell napolni.”

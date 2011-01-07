@@ -1,0 +1,1 @@
+178. § E törvénynek a Pp.-t módosító rendelkezéseit – az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében másik bíróság kijelölésére vonatkozó rendelkezés kivételével –, valamint 168–170. §-át a törvény hatálybalépése után indult eljárásokban kell alkalmazni.

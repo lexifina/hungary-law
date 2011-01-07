@@ -1,0 +1,3 @@
+47. § A Bszi. 89. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az ítélőtábla kollégiumának tagjai az ítélőtábla bírái, valamint általuk az ítélőtábla illetékességi területéhez tartozó megyei bíróságok azonos ügyszakban működő kollégiumainak a bírái közül 6 évre választott bírák, továbbá az ítélőtábla illetékességi területéhez tartozó megyei bíróságok azonos ügyszakban működő kollégiumainak vezetői. Ha a megyei bíróságon azonos ügyszakban működő kollégium nincs, vagy más kollégiummal összevontan működik, az ítélőtábla kollégiumába ez utóbbi kollégium tagjai közül kell tagot választani.”

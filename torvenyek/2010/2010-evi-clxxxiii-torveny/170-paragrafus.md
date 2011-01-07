@@ -1,0 +1,1 @@
+170. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 72. § (1) bekezdése d) pontjának da) alpontjában a „jogorvoslati eljárásról” szövegrész helyébe a „jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről” szöveg lép.
