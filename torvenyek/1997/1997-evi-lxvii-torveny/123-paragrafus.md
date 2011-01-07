@@ -9,3 +9,11 @@
 (5) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, havi átlagkeresetét, valamint az aláírását tartalmazza. A jelölt köteles arról is nyilatkozni, hogy büntetve volt-e, rendelkezik-e választójoggal.
 
 (6) A jelölt lakóhelye szerint illetékes jegyző megállapítja, hogy a jelöltnek van-e választójoga.
+
+(7) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület, megyei (fővárosi) közgyűlés részére hatósági bizonyítvánnyal igazolja büntetlen előéletét.
+
+(8) Ha a jelölt a (7) bekezdésben meghatározott igazolási kötelezettségét elmulasztja, ülnökké megválasztani nem lehet.
+
+(9) Az ülnök megválasztására jogosult képviselő-testület és megyei (fővárosi) közgyűlés a (7) bekezdésben meghatározott személyes adatokat a jelölt ülnökké történő megválasztásáról meghozott döntésig kezeli.
+
+(10) Egy jelölt kizárólag egy bírósághoz választható meg ülnökké.
