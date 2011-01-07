@@ -2,38 +2,36 @@
 
 39. § Az OIT
 
-a) irányítja és ellenőrzi – a Legfelsőbb Bíróság elnökének kivételével – a kinevezési hatáskörébe tartozó bírósági elnökök igazgatási tevékenységét,
+a)
 
-b) összeállítja a bírósági fejezet költségvetésére és a költségvetés végrehajtására vonatkozó javaslatát, amelyet a Kormány a központi költségvetési, illetve a zárszámadási törvényjavaslat részeként előterjeszt az Országgyűlésnek,
+b)
 
-c) gyakorolja a bírósági fejezet gazdálkodásával kapcsolatos feladatokat,
+c)
 
-d) munkáltatói és személyügyi jogkört gyakorol,
+d)
 
-e) a bíróságok feladatkörét érintő jogszabály alkotását kezdeményezheti, és véleményezi a bíróságokat érintő jogszabályok tervezetét,
+e)
 
-f) ellátja az ülnökök választásának előkészítésével kapcsolatos feladatokat,
+f)
 
-g) közvetlenül irányítja a belső ellenőrzést és a bírósági fejezet felügyeleti, pénzügyi ellenőrzését,
+g) megállapítja, hogy a választó szerv melyik bírósághoz hány ülnököt választ, a kisebbségi választói jegyzékben szereplő választópolgárok száma és az érintett települések választópolgárai száma arányának figyelembevételével akként, hogy legalább egy ülnököt minden kisebbségi önkormányzat választhasson,
 
-h) ellátja a központi oktatási feladatokat,
+h)
 
-i) szervezi és végzi a bírósági statisztikai adatok gyűjtésével és feldolgozásával kapcsolatos központi feladatokat,
+i)
 
-j) gondoskodik a bíróságok jogi képviseletéről,
+j)
 
-k) irányítja a Hivatal tevékenységét,
+k)
 
-l) megállapítja szervezeti és működési szabályzatát, ennek keretében meghatározza az OIT bíró tagjai és póttagjai jelölésének és választásának az e törvényben nem szabályozott kérdéseit, valamint jóváhagyja a Hivatal szervezeti és működési szabályzatát,
+l)
 
-m) meghatározza a bíróságok szervezeti és működési szabályzatának alapelveit, jóváhagyja a Legfelsőbb Bíróság, az ítélőtáblák és a megyei bíróságok szervezeti és működési szabályzatát,
+m)
 
-n) irányítja a bíróságok informatikai fejlesztését,
+n)
 
-o) évente egy alkalommal tájékoztatja működéséről az ítélőtáblák és a megyei bíróságok elnökeit,
+o)
 
-p) a bíróságok tekintetében ellátja a honvédelemről és a polgári védelemről szóló jogszabályokból eredő központi feladatokat, valamint ellenőrzi a tűzvédelmi, környezetvédelmi, energetikai gazdálkodási szabályok betartását,
+p)
 
-q) az igazgatási feladatainak ellátása érdekében jogszabályi keretek között a bíróságokra kötelező szabályzatokat alkot, ajánlásokat és határozatokat hoz, és ezek megtartását ellenőrzi,
-
-r) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+q)

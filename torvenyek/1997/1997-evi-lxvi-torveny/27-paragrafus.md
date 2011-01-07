@@ -1,6 +1,6 @@
 ## III. Fejezet
 
-## Az ítélkezés egységének biztosítása
+## Az ítélkezés egységességének és az ügyek ésszerű időn belül való elbírálásának biztosítása
 
 ## Jogegységi eljárás
 
