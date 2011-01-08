@@ -1,0 +1,1 @@
+A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 40/D. § (4) bekezdésében, valamint a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 117. § (1) bekezdés c) pontjában kapott felhatalmazás alapján a következőket rendelem el:
