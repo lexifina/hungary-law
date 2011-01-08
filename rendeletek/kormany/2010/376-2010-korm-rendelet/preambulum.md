@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 26. pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
