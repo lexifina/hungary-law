@@ -8,7 +8,7 @@
 
 3. csatolás: valamely ügyiratnak más ügyirattal való átmeneti összekapcsolása;
 
-4.[^5] egyesítés: több folyamatban lévő ügy összes iratának a legkorábban nyilvántartásba vett ügy száma alatti kezelése;
+4.[^6] egyesítés: több folyamatban lévő ügy összes iratának a legkorábban nyilvántartásba vett ügy száma alatti kezelése;
 
 5. érkeztetés: a közjegyzőhöz érkezett beadványon (annak valamennyi példányán és mellékletén) a beadvány érkezése időpontjának (év, hónap, nap) és ügyszámának a rögzítése;
 
@@ -34,11 +34,11 @@
 
 16. küldemény: a beérkezett, illetve továbbításra előkészített irat, elektronikus úton érkezett vagy küldött elektronikus irat, továbbá pénz, egyéb értéktárgy;
 
-17–18.[^6]
+17–18.[^7]
 
 19. melléklet: valamely irat (beadvány) szerves tartozéka, annak kiegészítő része, amely elválaszthatatlan az irattól;
 
-20.[^7] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
+20.[^8] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
 
 21. sorszám: a kezdőiratot követően érkezett és keletkezett iratok folyamatosan emelkedő arab számjeggyel történő jelölése;
 
@@ -56,8 +56,11 @@
 
 28. ügyvitel: a közjegyző eljárására vonatkozó jogszabályok és kamarai iránymutatások által meghatározott, az ügyintézés egymás utáni résztevékenységeinek (mozzanatainak) sorozata, illetve összessége, amely az ügyintézés formai és technikai feltételeit, a nemperes eljárás lefolytatásának teljességét célozza;
 
-29. ügyszám: az ügy azonosítására szolgáló megjelölés.
+29. ügyszám: az ügy azonosítására szolgáló megjelölés;
 
-[^5]: A 2. § 4. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^7]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+30.[^9] európai fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt európai fizetési meghagyásos ügy, az ehhez kapcsolódó költségkedvezményes ügy és biztosítási intézkedés elrendelése iránti ügy.
+
+[^6]: A 2. § 4. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^8]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+[^9]: A 2. § 30. pontját a 28/2010. (XII. 31.) KIM rendelet 3. § (2) bekezdése iktatta be.

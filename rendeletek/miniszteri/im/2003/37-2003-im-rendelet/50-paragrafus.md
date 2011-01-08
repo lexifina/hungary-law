@@ -1,18 +1,18 @@
 ## A befejezett és további intézkedést nem igénylő ügyek iratainak őrzése
 
-50. § (1)[^40] A befejezett és további intézkedést nem igénylő ügyek iratait – amíg azok a bírósági irattárnak vagy a MOKK levéltárának átadásra nem kerülnek – gondosan meg kell őrizni. Az őrzés céljára olyan helyiséget kell kialakítani, amely a tűzrendészeti szabályoknak megfelel, és ahol az iratokat szárazon lehet tartani, illetőleg ahol azokat veszély (állati vagy növényi kártevő stb.) nem fenyegeti.
+50. § (1)[^45] A befejezett és további intézkedést nem igénylő ügyek iratait – amíg azok a bírósági irattárnak vagy a MOKK levéltárának átadásra nem kerülnek – gondosan meg kell őrizni. Az őrzés céljára olyan helyiséget kell kialakítani, amely a tűzrendészeti szabályoknak megfelel, és ahol az iratokat szárazon lehet tartani, illetőleg ahol azokat veszély (állati vagy növényi kártevő stb.) nem fenyegeti.
 
-(2)[^41] A közjegyzői ügy iratát a közjegyzői ügy jogerős befejezésének évétől számított két év elteltével kell a közjegyző székhelye szerint illetékes helyi bíróságon (a fővárosban működő közjegyzők esetén a Fővárosi Bíróságon) működő irattár, vagy a 2009. január 1. napját követően érkezett ügyek esetében a MOKK levéltára részére átadni.
+(2)[^46] A közjegyzői ügy iratát a közjegyzői ügy jogerős befejezésének évétől számított két év elteltével kell a közjegyző székhelye szerint illetékes helyi bíróságon (a fővárosban működő közjegyzők esetén a Fővárosi Bíróságon) működő irattár, vagy a 2009. január 1. napját követően érkezett ügyek esetében a MOKK levéltára részére átadni.
 
 (3) Ha az irattárba helyezett irathoz utóirat érkezik, azt az irattárból kiemelt iratokkal együtt a közjegyzőnek be kell mutatni.
 
-(4)[^42] Az átadásra kerülő iratokat rendezetten, segédletekkel együtt, három példányban elkészített jegyzékkel és egy példányban elkészített névmutatóval kell átadni a bírósági irattárnak vagy a MOKK levéltárának.
+(4)[^47] Az átadásra kerülő iratokat rendezetten, segédletekkel együtt, három példányban elkészített jegyzékkel és egy példányban elkészített névmutatóval kell átadni a bírósági irattárnak vagy a MOKK levéltárának.
 
 (5) Ha az irattárba helyezett iratot más hatóság megkeresésére kell megküldeni, azt a közjegyző utasítására az irodavezető vagy a közjegyző által erre kijelölt dolgozó küldi meg.
 
-(6)[^43] Ha a közjegyző szolgálata megszűnt, közjegyzői kinevezés érvénytelenségét állapították meg, vagy a közjegyzőt áthelyezték, a közjegyző utódja, a tartós helyettes, vagy a területi kamara által kijelölt közjegyző köteles átvenni, kezelni és megőrizni azokat a közjegyzői iratokat, amelyek nem kerülhetnek a bírósági irattárba vagy a MOKK levéltárába.
+(6)[^48] Ha a közjegyző szolgálata megszűnt, közjegyzői kinevezés érvénytelenségét állapították meg, vagy a közjegyzőt áthelyezték, a közjegyző utódja, a tartós helyettes, vagy a területi kamara által kijelölt közjegyző köteles átvenni, kezelni és megőrizni azokat a közjegyzői iratokat, amelyek nem kerülhetnek a bírósági irattárba vagy a MOKK levéltárába.
 
-[^40]: Az 50. § (1) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
-[^41]: Az 50. § (2) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
-[^42]: Az 50. § (4) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (5) bekezdésével megállapított szöveg.
-[^43]: Az 50. § (6) bekezdését a 62/2009. (XII. 17.) IRM rendelet 61. § (6) bekezdése iktatta be, szövege a 6/2010. (III. 12.) IRM rendelet 3. §-a szerint módosított szöveg.
+[^45]: Az 50. § (1) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
+[^46]: Az 50. § (2) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
+[^47]: Az 50. § (4) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (5) bekezdésével megállapított szöveg.
+[^48]: Az 50. § (6) bekezdését a 62/2009. (XII. 17.) IRM rendelet 61. § (6) bekezdése iktatta be, szövege a 6/2010. (III. 12.) IRM rendelet 3. §-a szerint módosított szöveg.

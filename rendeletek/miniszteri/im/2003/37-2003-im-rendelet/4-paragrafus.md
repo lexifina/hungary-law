@@ -1,3 +1,5 @@
-4. § (1) A közjegyző iratkezelési feladatainak országos koordinálását a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK), felügyeletét a közjegyző székhelye szerint illetékes területi kamara (a továbbiakban: területi kamara) elnöksége látja el.
+4. § (1)[^11] A közjegyző iratkezelési feladatainak országos koordinálását a MOKK, felügyeletét a közjegyző székhelye szerint illetékes területi kamara (a továbbiakban: területi kamara) elnöksége látja el.
 
 (2) A MOKK közvetlenül irányítja az elektronikus iratkezelési rendszer kialakítását és továbbfejlesztését.
+
+[^11]: A 4. § (1) bekezdése a 28/2010. (XII. 31.) KIM rendelet 4. § b) pontja szerint módosított szöveg.

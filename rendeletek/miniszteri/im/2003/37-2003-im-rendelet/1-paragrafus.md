@@ -22,7 +22,9 @@ g) a bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárás,
 
 h)[^3] az Élettársi Nyilatkozatok Nyilvántartásának vezetésével kapcsolatos eljárás
 
-i)[^4] a közjegyző végzése – ide nem értve a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtása, biztosítási intézkedés elrendelése iránti eljárás során hozott végzéseket –, a közjegyző által jóváhagyott egyezség, a közjegyző díjjegyzéke és a közjegyzői okirat végrehajtásának elrendelésével kapcsolatos eljárás
+i)[^4] a közjegyző végzése – ide nem értve a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtása, biztosítási intézkedés elrendelése iránti eljárás során hozott végzéseket –, a közjegyző által jóváhagyott egyezség, a közjegyző díjjegyzéke és a közjegyzői okirat, valamint az európai fizetési meghagyás végrehajtásának elrendelésével kapcsolatos eljárás,
+
+j)[^5] az európai fizetési meghagyásos eljárás
 
 ## során a közjegyzők ügyvitelére terjed ki.
 
@@ -33,4 +35,5 @@ i)[^4] a közjegyző végzése – ide nem értve a fizetési meghagyásos eljá
 [^1]: Az 1. § (1) bekezdése a 27/2009. (VI. 30.) IRM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontja a 83/2009. (XII. 30.) IRM rendelet 19. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés h) pontját a 83/2009. (XII. 30.) IRM rendelet 19. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (1) bekezdés i) pontját a 28/2010. (V. 12.) IRM rendelet 35. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés i) pontját a 28/2010. (V. 12.) IRM rendelet 35. §-a iktatta be, szövege a 28/2010. (XII. 31.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés i) pontját a 28/2010. (XII. 31.) KIM rendelet 3. § (1) bekezdése iktatta be.
