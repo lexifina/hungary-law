@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-24-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-06-01 | 2010-24-20-1U.1 | 24/2010. (V. 7.) IRM rendelet |
+| 2011-01-08 | 2010-24-20-1U.2 | 28/2010. (XII. 31.) KIM rendelet |
