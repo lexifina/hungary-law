@@ -1,6 +1,10 @@
-30/C. §[^27] (1) Az eljárás – ide nem értve a fizetési meghagyásos eljárást, valamint a fizetési meghagyás végrehajtásának elrendelése és a fizetési meghagyásos eljárással összefüggő biztosítási intézkedés elrendelése iránti eljárást – során készült irat nem hiteles másolatáért a közjegyző részére megfizetendő másolati díj összege oldalanként 100 Ft, az adatok törlésével készült másolat esetében oldalanként 400 Ft.
+30/C. §[^30] (1) Az eljárás – ide nem értve a fizetési meghagyásos eljárást, valamint a fizetési meghagyás végrehajtásának elrendelése és a fizetési meghagyásos eljárással összefüggő biztosítási intézkedés elrendelése iránti eljárást – során készült irat nem hiteles másolatáért a közjegyző részére megfizetendő másolati díj összege oldalanként 100 Ft, az adatok törlésével készült másolat esetében oldalanként 400 Ft.
 
 (2) A másolati díj összegét az eljáró közjegyzőnél a 30/B. § (3)–(4) bekezdése szerint kell megfizetni.
+
+30/D. §[^31]
+
+Az európai fizetési meghagyásos eljárásért és az európai fizetési meghagyás végrehajtásának elrendeléséért járó díjat a 30/B. §-ban foglaltak szerint kell megfizetni.
 
 VI. HATÁLYBALÉPÉS
 
@@ -14,4 +18,5 @@ Ez a rendelet 1992. január 1-jén lép hatályba.
 
 (2) A rendelet hatálybalépésekor folyamatban lévő nemperes ügyben, ha a fél az eljárási illetéket már megfizette, a közjegyző munkadíjra és költségátalányra nem tarthat igényt, készkiadásait azonban felszámíthatja.
 
-[^27]: A 30/C. §-t a 26/2010. (V. 11.) IRM rendelet 15. §-a iktatta be.
+[^30]: A 30/C. §-t a 26/2010. (V. 11.) IRM rendelet 15. §-a iktatta be.
+[^31]: A 30/D. §-t a 28/2010. (XII. 31.) KIM rendelet 2. § (2) bekezdése iktatta be.
