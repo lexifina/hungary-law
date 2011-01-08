@@ -1,15 +1,15 @@
 6. § (1) A minősítés alapján a nádas fogalmára való tekintettel, valamint a gazdasági és az ökológiai szempontokat figyelembe véve, az 5. § (2) bekezdése szerinti nádasokat az e rendelet melléklete szerinti minőségi osztályokba kell sorolni.
 
-(2)[^5] A minőségi osztályba sorolásról a felügyelőség dönt.
+(2)[^6] A minőségi osztályba sorolásról a felügyelőség dönt.
 
-(3)[^6] A minősítések részletes leírását, továbbá a nádasok 1:10 000 méretarányú térképlapon történt ábrázolását a felügyelőség vízikönyvi okirattárában kell elhelyezni.
+(3)[^7] A minősítések részletes leírását, továbbá a nádasok 1:10 000 méretarányú térképlapon történt ábrázolását a felügyelőség vízikönyvi okirattárában kell elhelyezni.
 
 (4) Az egyes nádasok minősítésének alapjául szolgáló leírás, a minősítés, továbbá 1:10 000 méretarányú térképlapon történő ábrázolása hatósági nyilvántartásnak minősül.
 
 (5) A minőségi osztályba sorolás eredményét – a minőségi osztály és az ebből fakadó kötelezettségek megjelölésével – a minősítést végző hatóság határozatban közli a nádgazdálkodásra kötelezettel.
 
-(6)[^7]
+(6)[^8]
 
-[^5]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^6]: A 6. § (3) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^7]: A 6. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 137. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 6. § (3) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^8]: A 6. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 137. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
