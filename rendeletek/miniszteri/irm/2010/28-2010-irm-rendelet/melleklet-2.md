@@ -12,7 +12,7 @@
 
 ## 3.2. követelés jogcíme szerint
 
-## 3.3. belföldi fizetési meghagyás és európai fizetési meghagyás kibocsátása iránt előterjesztett kérelmek száma
+## 3.3.[^10] belföldi fizetési meghagyás kibocsátása iránt előterjesztett kérelmek száma
 
 ## 4. fizetési meghagyásos eljárás befejezésének módja
 
@@ -56,6 +56,7 @@
 
 ## 14. megyei és önálló bírósági végrehajtóknak átadott végrehajtható okiratok száma.
 
-2. melléklet a 28/2010. (V. 12.) IRM rendelethez[^5]
+2. melléklet a 28/2010. (V. 12.) IRM rendelethez[^11]
 
-[^5]: A 2. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.
+[^10]: Az 1. melléklet 3. pont 3.3. alpontja a 28/2010. (XII. 31.) KIM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^11]: A 2. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.

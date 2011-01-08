@@ -10,11 +10,11 @@ c) amely a kérelem önálló elintézését, vagy a már befejezett üggyel kap
 
 (2) Kezdőiratnak minősül különösen:
 
-a) a fizetési meghagyás vagy európai fizetési meghagyás kibocsátása iránti kérelem,
+a)[^3] a fizetési meghagyás kibocsátása iránti kérelem,
 
-b) fizetési meghagyás vagy európai fizetési meghagyás kibocsátása iránti kérelem az eljáró közjegyzőnél, ha kizárás miatt, vagy az Fmhtv. 9. § (3) bekezdése alapján a közjegyzői kamara elnöke az eljárásra más közjegyzőt jelöl ki,
+b)[^4] a fizetési meghagyás kibocsátása iránti kérelem az eljáró közjegyzőnél, ha kizárás miatt vagy az Fmhtv. 9. § (3) bekezdése alapján a közjegyzői kamara elnöke az eljárásra más közjegyzőt jelöl ki,
 
-c) a fizetési meghagyás vagy európai fizetési meghagyás végrehajtásának elrendelésére irányuló kérelem,
+c)[^5] a fizetési meghagyás végrehajtásának elrendelésére irányuló kérelem,
 
 d) biztosítási intézkedés elrendelése iránti kérelem,
 
@@ -27,3 +27,7 @@ f) a jogosult és a végrehajtást kérő (biztosítási intézkedést kérő) k
 (4) A (3) bekezdés szerint megküldött iratokon az érkezés időpontját a megküldését megelőzően fel kell tüntetni.
 
 (5) A papíralapú kezdő- és utóiratok kezelésére a Küsz. 27. § (2) és (3) bekezdését alkalmazni kell.
+
+[^3]: A 11. § (2) bekezdés a) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^4]: A 11. § (2) bekezdés b) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^5]: A 11. § (2) bekezdés c) pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (3) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-4. melléklet a 28/2010. (V. 12.) IRM rendelethez[^7]
+4. melléklet a 28/2010. (V. 12.) IRM rendelethez[^13]
 
-[^7]: A 4. mellékletet a 43. § (1) bekezdése és a 28/2010. (XII. 31.) KIM rendelet 7. §-a hatályon kívül helyezte.
+[^13]: A 4. mellékletet a 43. § (1) bekezdése és a 28/2010. (XII. 31.) KIM rendelet 7. §-a hatályon kívül helyezte.

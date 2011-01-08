@@ -6,6 +6,6 @@
 
 (3) A fizetési meghagyásos ügyben keletkezett és a közjegyzői kamarához beérkezett tértivevényeket egyedi azonosító számmal ellátva kell a MOKK rendszerében rögzíteni.
 
-(4)[^1] A tértivevényeket a MOKK rendszerében történt rögzítéstől számított 30 napon belül a Közjegyzői Levéltárban kell elhelyezni. A tértivevényeket a Közjegyzői Levéltár soron kívül fogadja.
+(4)[^6] A tértivevényeket a MOKK rendszerében történt rögzítéstől számított 30 napon belül a Közjegyzői Levéltárban kell elhelyezni. A tértivevényeket a Közjegyzői Levéltár soron kívül fogadja.
 
-[^1]: A 22. § (4) bekezdése a 34. § (3) bekezdése alapján 2011. július 1. napján lép hatályba.
+[^6]: A 22. § (4) bekezdése a 34. § (3) bekezdése alapján 2011. július 1. napján lép hatályba.

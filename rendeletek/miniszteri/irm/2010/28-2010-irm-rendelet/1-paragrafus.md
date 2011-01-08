@@ -10,10 +10,12 @@
 
 1. aktanyomat: a fizetési meghagyásos ügy MOKK rendszerében tárolt iratainak összessége vagy annak a MOKK rendszerén keresztül kinyomtatott példánya;
 
-2. fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt fizetési meghagyásos ügy, fizetési meghagyásos eljárást követő végrehajtás elrendelése iránti ügy és biztosítási intézkedés elrendelése iránti ügy, valamint a költségkedvezményes ügy;
+2.[^1] fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt fizetési meghagyásos ügy, a fizetési meghagyásos eljárást követő végrehajtás elrendelése iránti ügy, biztosítási intézkedés elrendelése iránti ügy és a költségkedvezményes ügy, ide nem értve az európai fizetési meghagyásos ügyet;
 
 3. költségkedvezményes ügy: az a fizetési meghagyásos ügy, amelyben a jogosult a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) 50. § (2) bekezdése szerint személyes költségfeljegyzési jog engedélyezése iráni kérelmet terjesztett elő;
 
 4. MOKK rendszere: a Magyar Országos Közjegyzői Kamarának (a továbbiakban: közjegyzői kamara) az Fmhtv.-ben szabályozott eljárások technikai támogatására szolgáló, a közjegyzők, a felek és az eljárásban részt vevő egyéb személyek, valamint egyéb felhasználók részére rendelkezésre álló, az interneten elérhető országosan egységes számítástechnikai rendszere;
 
 5. utóirat: a Küsz. 2. § 25. pontjában meghatározottakon túlmenően a végrehajtási eljárás felfüggesztésével és a felfüggesztés megszüntetésével összefüggő irat.
+
+[^1]: Az 1. § (2) bekezdés 2. pontja a 28/2010. (XII. 31.) KIM rendelet 6. § (1) bekezdésével megállapított szöveg.
