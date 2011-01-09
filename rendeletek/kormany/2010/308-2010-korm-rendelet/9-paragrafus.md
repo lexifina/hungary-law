@@ -6,6 +6,7 @@
 
 (3)[^1]
 
-(4) A (3) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. Ez a bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+(4)[^2]
 
 [^1]: A 9. § (3) bekezdését ugyanezen § (4) bekezdése hatályon kívül helyezte.
+[^2]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
