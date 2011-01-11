@@ -1,0 +1,3 @@
+Az Alkotmány 30/A. § (1) bekezdés i) pontjában biztosított jogkörömben, a honvédelemről és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 59. § (1) bekezdés e) pontja alapján a nemzetgazdasági miniszter előterjesztésére megállapítom, hogy Vályi-Nagy Vilmos pénzügyőr dandártábornok szolgálati viszonya 2010. június 7-én megszűnt.
+
+KEH ügyszám: IV-6/05061/2010.
