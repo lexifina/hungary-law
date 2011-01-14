@@ -1,3 +1,5 @@
 3. § (1) A díjfizetési kötelezettség kizárólag a kérelem előterjesztésével egyidejűleg a körzeti földhivatal pénztárába történő készpénzbefizetéssel vagy a megyei, fővárosi földhivatalnak (a továbbiakban együtt: megyei földhivatal) a mellékletben meghatározott előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási vagy átutalási megbízással teljesíthető. A díjnak a megyei földhivatal előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással vagy átutalási megbízással történő megfizetése esetén a kérelem előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
 
-(2) A díj megfizetésének elmulasztása esetén a kérelmező a hiánypótlási felhívás kézhezvételétől számított 10 munkanapon belül köteles a díj megfizetését igazolni.
+(2)[^1] A díj megfizetésének elmulasztása esetén a kérelmező a hiánypótlási felhívás kézhezvételétől számított 15 napon belül köteles a díj megfizetését igazolni.
+
+[^1]: A 3. § (2) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (39) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
