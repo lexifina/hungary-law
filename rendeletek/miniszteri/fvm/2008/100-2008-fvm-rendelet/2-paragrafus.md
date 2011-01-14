@@ -6,7 +6,7 @@
 
 a) ültetvény: borszőlő fajtával hasznosított szőlőültetvény-terület,
 
-b)[^1] összefüggő terület: a kérelemben megjelölt, egy vagy több helyrajzi számon jelzett ültetvény, amelyet más gazdálkodó használatában álló, vagy nem kivágásra szánt ültetvény, vagy más művelési ágba sorolt terület határol,
+b)[^2] összefüggő terület: a kérelemben megjelölt, egy vagy több helyrajzi számon jelzett ültetvény, amelyet más gazdálkodó használatában álló, vagy nem kivágásra szánt ültetvény, vagy más művelési ágba sorolt terület határol,
 
 c) VINGIS térkép: a szőlőültetvények országos térinformatikai nyilvántartásából (VINGIS) nyomtatott A/3-as formátumú, a kérelemben szereplő terület pontos térbeli azonosítását biztosító, kiegészítő szakadatokkal ellátott térképi dokumentum,
 
@@ -18,9 +18,9 @@ f) igazolt termésmennyiség: a kérelemben megjelölt ültetvénynek a szüreti
 
 g) mért területnagyság: az ültetvény szőlőtőkével beültetett területének fél sortávolsággal minden irányban megnövelt területe,
 
-h)[^2] támogatható területnagyság: a támogatási kérelemben, a hegybíró hatósági bizonyítványában, a tulajdoni lap másolaton (vagy amennyiben az összefüggő terület több helyrajzi számot érint, úgy az érintett területekre vonatkozó valamennyi tulajdoni lap másolaton) szereplő, valamint a mért területnagyság közül a legkisebb, amelynek meg kell haladnia a 0,1 ha területnagyságot,
+h)[^3] támogatható területnagyság: a támogatási kérelemben, a hegybíró hatósági bizonyítványában, a tulajdoni lap másolaton (vagy amennyiben az összefüggő terület több helyrajzi számot érint, úgy az érintett területekre vonatkozó valamennyi tulajdoni lap másolaton) szereplő, valamint a mért területnagyság közül a legkisebb, amelynek meg kell haladnia a 0,1 ha területnagyságot,
 
 i) hektáronkénti átlagos borkihozatal: az igazolt termésmennyiség harmada, osztva a hektárban kifejezett támogatható területnagysággal.
 
-[^1]: A 2. § b) pontja a 100/2009. (VII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § h) pontja a 100/2009. (VII. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § b) pontja a 100/2009. (VII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § h) pontja a 100/2009. (VII. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

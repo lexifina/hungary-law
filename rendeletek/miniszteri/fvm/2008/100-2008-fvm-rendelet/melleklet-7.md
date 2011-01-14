@@ -30,6 +30,6 @@
 
 ## * A megfelelő részt egyértelműen X vagy + jellel vagy aláhúzással kell megjelölni!
 
-7. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^46]
+7. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^48]
 
-[^46]: A 7. számú mellékletet a 7/2010. (VII. 23.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^48]: A 7. számú mellékletet a 7/2010. (VII. 23.) VM rendelet 10. §-a hatályon kívül helyezte.

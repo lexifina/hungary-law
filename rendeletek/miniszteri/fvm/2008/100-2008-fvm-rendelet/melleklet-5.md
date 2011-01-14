@@ -36,6 +36,6 @@
 
 ## * Az ültetvényleltárt soronként kell kitölteni!
 
-5. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^44]
+5. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^46]
 
-[^44]: Az 5. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^46]: Az 5. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.

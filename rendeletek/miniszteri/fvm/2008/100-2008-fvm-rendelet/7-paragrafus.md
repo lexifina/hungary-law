@@ -6,7 +6,7 @@ a) amelyre vonatkozóan a hegybíró vagy valamely más hatóság a telepítésr
 
 b) amely nem minősül a 2. § d) pontja szerinti ültetvénynek,
 
-c)[^5] amelyre vonatkozóan szőlőültetvény szerkezetátalakítási és -átállítási támogatást, vagy nemzeti forrásból finanszírozott telepítési támogatást vettek igénybe és az ültetvény telepítése 2000. január 1-jét követően történt,
+c)[^7] amelyre vonatkozóan szőlőültetvény szerkezetátalakítási és -átállítási támogatást, vagy nemzeti forrásból finanszírozott telepítési támogatást vettek igénybe és az ültetvény telepítése 2000. január 1-jét követően történt,
 
 d) amelyen a kivágást megkezdték,
 
@@ -18,4 +18,4 @@ g) amelyre vonatkozóan a bortermékek azonosításához szükséges informáci�
 
 h) amely nem szerepel a szőlő ültetvénykataszterében.
 
-[^5]: A 7. § c) pontja a 7/2010. (VII. 23.) VM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 7. § c) pontja a 7/2010. (VII. 23.) VM rendelet 2. §-ával megállapított szöveg.

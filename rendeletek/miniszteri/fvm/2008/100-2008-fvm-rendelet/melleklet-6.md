@@ -26,6 +26,6 @@
 
 | n |  |  |  |
 
-6. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^45]
+6. számú melléklet a 100/2008. (VIII. 6.) FVM rendelethez[^47]
 
-[^45]: A 6. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^47]: A 6. számú melléklet a 7/2010. (VII. 23.) VM rendelet 9. § (5) bekezdésével megállapított szöveg.
