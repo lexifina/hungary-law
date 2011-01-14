@@ -1,4 +1,4 @@
-1. melléklet a 47/2005. (VI. 29.) GKM rendelethez[^7]
+1. melléklet a 47/2005. (VI. 29.) GKM rendelethez[^8]
 
 RID
 
@@ -3660,5 +3660,5 @@ Megjegyzés: Az oldatok és keverékek (készítmények és hulladékok) osztál
 
 2.2.3.3 A gyűjtőmegnevezések felsorolása (folyt.)
 
-[^7]: Az 1. számú melléklet a Magyar Közlöny 2005. évi 98. számában megjelent helyesbítésnek megfelelő szöveg.
+[^8]: Az 1. számú melléklet a Magyar Közlöny 2005. évi 98. számában megjelent helyesbítésnek megfelelő szöveg.
 [^1)]: A viszkozitás meghatározása: Ha a szóban forgó anyag nemnewtoni folyadék, vagy a viszkozitás kifolyópohárral nem határozható meg, változó nyírósebességű viszkoziméterrel meg kell határozni az anyag dinamikai viszkozitását 23 °C-on, különböző nyírósebességekre, majd az így kapott, nyírósebességtől függő értékekből a 0 nyírósebességre kell extrapolálni. Az így kapott dinamikai viszkozitás és a sűrűség hányadosa adja a látszólagos kinematikai viszkozitást a 0-hoz közelítő nyírósebességnél.
