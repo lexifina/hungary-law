@@ -28,9 +28,9 @@ e) a szerződésben foglalt bor teljes mennyiségére vonatkozóan a borászati 
 
 f) az MgSzH Központ által kiállított, az 1. számú mellékletben meghatározott tartalmú hatósági bizonyítványt.
 
-(4) A (3) bekezdés b) pontja szerinti minősítési bizonyítványt az MgSzH Központ a borminta benyújtását követő 5. munkanapon adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy postai úton.
+(4)[^2] A (3) bekezdés b) pontja szerinti minősítési bizonyítványt az MgSzH Központ a borminta benyújtását követő 8 napon belül adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy postai úton.
 
-(5) A (3) bekezdés f) pontja szerinti hatósági bizonyítványt az MgSzH Központ a kérelmező kérelmére, a kérelem benyújtását követő 5. munkanapon állítja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben. A hatósági bizonyítvány iránti kérelem mellékletét képezik a (3) bekezdés c), d) és e) pontjában meghatározott iratok.
+(5)[^3] A (3) bekezdés f) pontja szerinti hatósági bizonyítványt az MgSzH Központ a kérelmező kérelmére, a kérelem benyújtását követő 8 napon belül állítja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben. A hatósági bizonyítvány iránti kérelem mellékletét képezik a (3) bekezdés c), d) és e) pontjában meghatározott iratok.
 
 (6) Az MVH a támogatási kérelmet elutasítja, amenynyiben
 
@@ -43,3 +43,6 @@ c) a támogatási kérelem nem tartalmazza a (3) bekezdésben meghatározott ben
 d) az MgSzH Központ által kiállított minősítési bizonyítvány alapján a lepárlásra szánt bor minősége nem felel meg a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló 2008. április 29-i 479/2008/EK tanácsi rendelet IV. melléklet 1. pontjában meghatározott feltételeknek.
 
 (7) Támogatás csak a támogatási kérelemhez mellékelt szőlő, illetve bor származási bizonyítványai alapján megállapított területnagyságra nyújtható. A támogatási összeg megállapításakor az MVH a (3) bekezdés b) és f) pontjaiban meghatározott bizonyítványokat is felhasználja.
+
+[^2]: A 4. § (4) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (32) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: A 4. § (5) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (32) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

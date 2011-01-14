@@ -22,4 +22,6 @@ b) a szerződésben foglalt borok termőterületének megállapítására.
 
 (7) Az MgSzH Központ az átvett, az MVH támogatási határozatában jóváhagyott bormennyiség lepárlását követően a lepárlóüzem telephelyén ellenőrzést végez. Az ellenőrzésnek a lepárlással előállított bordesztillátumnak vagy borpárlatnak a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben meghatározott feltételeknek való megfelelőségére kell vonatkoznia.
 
-(8) Az MgSzH Központ a (6) és (7) bekezdés szerinti ellenőrzések eredményét tartalmazó jegyzőkönyveket az ellenőrzést követő 5 munkanapon belül megküldi az MVH PKI részére.
+(8)[^5] Az MgSzH Központ a (6) és (7) bekezdés szerinti ellenőrzések eredményét tartalmazó jegyzőkönyveket az ellenőrzést követő 8 napon belül megküldi az MVH PKI részére.
+
+[^5]: A 7. § (8) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (32) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
