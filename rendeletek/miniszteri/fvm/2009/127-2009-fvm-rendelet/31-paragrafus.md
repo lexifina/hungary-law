@@ -4,11 +4,11 @@
 
 ## I. Fejezet
 
-## A BOROK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^13]
+## A BOROK FORGALOMBA HOZATALÁNAK RÉSZLETES SZABÁLYAI[^18]
 
 ## A forgalomba hozatalhoz szükséges minták
 
-31. §[^14] (1) Ha a Btv. másképp nem rendelkezik, a borászati termékek forgalomba hozatalához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
+31. §[^19] (1) Ha a Btv. másképp nem rendelkezik, a borászati termékek forgalomba hozatalához szükséges mintákat a forgalomba hozó biztosítja és gondoskodik azok lezárásáról.
 
 (2) Ha a HBB működési szabályzata, vagy a borvidéki rendtartás úgy rendelkezik, az adott OFJ- vagy OEM-bor esetén a borászati termékek forgalomba hozatalához szükséges minták:
 
@@ -40,5 +40,5 @@ b) 3 palack minta az analitikai vizsgálatok elvégzésére szolgál.
 
 (8) A forgalomba hozó ellenmintára tarthat igényt. Ebben az esetben a forgalomba hozónak a (4) bekezdésben meghatározott számú mintánál annyival több mintát kell átadnia a minősítést végző részére, ahány ellenmintára igényt tart. A minősítést végző az átadott minták közül kiválasztja az ellenmintát, hitelesíti annak lezárását, és a forgalomba hozó részére átadja.
 
-[^13]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított szöveg.
-[^14]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.
+[^18]: A harmadik rész I. fejezet címe a 64/2010. (V. 12.) FVM rendelet 5. §-ával megállapított szöveg.
+[^19]: A 31. § a 64/2010. (V. 12.) FVM rendelet 6. §-ával megállapított szöveg.

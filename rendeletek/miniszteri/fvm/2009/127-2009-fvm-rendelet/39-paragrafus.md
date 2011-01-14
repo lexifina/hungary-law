@@ -14,7 +14,7 @@ b) a borászati termék forgalomba hozatali engedély iránti kérelmen szerepl�
 
 (5) A forgalomba hozatali engedélyt bortételenként kell kiadni.
 
-(6)[^20] Ha a forgalomba hozatali engedéllyel rendelkező bortételt továbbfeldolgozás céljából több bortételre bontják meg, akkor a Btv. 23. § (7) bekezdése szerint a továbbfeldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles írásban megküldeni a borászati hatóság központi szerve és a bor tárolási helye szerint illetékes hegybíró részére:
+(6)[^26] Ha a forgalomba hozatali engedéllyel rendelkező bortételt továbbfeldolgozás céljából több bortételre bontják meg, akkor a Btv. 23. § (7) bekezdése szerint a továbbfeldolgozás megkezdése előtt 5 nappal a borászati üzem köteles írásban megküldeni a borászati hatóság központi szerve és a bor tárolási helye szerint illetékes hegybíró részére:
 
 a) tétel forgalomba hozatali engedélyének számát,
 
@@ -28,7 +28,7 @@ e) a továbbfeldolgozásra szánt bortétel mennyiségét és
 
 f) a tétel tárolásának pontos helyét.
 
-(7)[^21] A (6) bekezdés szerinti bejelentés alapján a borászati hatóság a minősített mennyiséget a bejelentett mennyiségre csökkenti.
+(7)[^27] A (6) bekezdés szerinti bejelentés alapján a borászati hatóság a minősített mennyiséget a bejelentett mennyiségre csökkenti.
 
-[^20]: A 39. § (6) bekezdése a 64/2010. (V. 12.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^21]: A 39. § (7) bekezdését a 64/2010. (V. 12.) FVM rendelet 11. § (2) bekezdése iktatta be.
+[^26]: A 39. § (6) bekezdése a 64/2010. (V. 12.) FVM rendelet 11. § (1) bekezdésével megállapított szöveg. A 39. § (6) bekezdés nyitó szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (37) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^27]: A 39. § (7) bekezdését a 64/2010. (V. 12.) FVM rendelet 11. § (2) bekezdése iktatta be.

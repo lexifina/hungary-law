@@ -4,7 +4,7 @@
 
 (2) A HBB ülése legalább 7 tag jelenléte esetén határozatképes.
 
-(3)[^15] A HBB pozitív döntéséhez a jelenlévő tagok 50%-ot meghaladó arányának pozitív döntése szükséges. A HBB titkosan dönt.
+(3)[^20] A HBB pozitív döntéséhez a jelenlévő tagok 50%-ot meghaladó arányának pozitív döntése szükséges. A HBB titkosan dönt.
 
 (4) HBB tagja csak olyan személy lehet, aki igazolja, hogy legalább középfokú szakirányú végzettséggel rendelkezik. E rendelet szempontjából szakirányú végzettségnek számít a 12. számú mellékletben felsorolt végzettség.
 
@@ -34,4 +34,4 @@ f) a jegyzőkönyv szabályos elkészítése.
 
 (7) Az (1)–(6) bekezdésben foglaltak teljesülését a borászati hatóság a HBB nyilvántartásba vétele előtt szemlén vizsgálhatja, a nyilvántartásba vételt követően pedig ellenőrizheti.
 
-[^15]: A 33. § (3) bekezdése a 64/2010. (V. 12.) FVM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^20]: A 33. § (3) bekezdése a 64/2010. (V. 12.) FVM rendelet 27. § (4) bekezdése szerint módosított szöveg.

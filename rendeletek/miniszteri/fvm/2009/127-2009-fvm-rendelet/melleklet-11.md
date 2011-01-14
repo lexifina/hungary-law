@@ -62,6 +62,6 @@
 
 ## P. H.
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^57]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^64]
 
-[^57]: A 11. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (8) bekezdésével megállapított szöveg.
+[^64]: A 11. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (8) bekezdésével megállapított szöveg.
