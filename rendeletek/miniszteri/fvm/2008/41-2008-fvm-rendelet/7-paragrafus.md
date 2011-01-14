@@ -8,8 +8,8 @@
 
 (3)[^6] Az MgSzH a támogatási kérelmeket a benyújtás időpontját igazoló dokumentum csatolásával az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához továbbítja, amely a benyújtott dokumentumok alapján dönt az igénybe vehető támogatásról és intézkedik annak kifizetéséről.
 
-(4)[^7] Az MVH – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 60. § (2) bekezdésére is figyelemmel – a forrás rendelkezésére állásától számított huszonkettő munkanapon belül folyósítja a támogatást a termeltető részére.
+(4)[^7] Az MVH – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 60. § (2) bekezdésére is figyelemmel – a forrás rendelkezésére állásától számított harminc napon belül folyósítja a támogatást a termeltető részére.
 
 [^5]: A 6. § a 171/2009. (XII. 22.) FVM rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^6]: A 7. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^7]: A 7. § (4) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^7]: A 7. § (4) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (22) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
