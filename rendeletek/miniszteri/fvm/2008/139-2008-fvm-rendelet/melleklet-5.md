@@ -10,7 +10,7 @@
 
 | vizsgaköltség | – | 30 000 Ft/fő | 12 000 Ft/fő |
 
-5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^46]
+5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^47]
 
 Az egyesített támogatási és kifizetési kérelem adattartalma
 
@@ -42,4 +42,4 @@ Az egyesített támogatási és kifizetési kérelem adattartalma
 
 – az elszámolni kívánt nettó kiadás és az áfakulcs.
 
-[^46]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
+[^47]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
