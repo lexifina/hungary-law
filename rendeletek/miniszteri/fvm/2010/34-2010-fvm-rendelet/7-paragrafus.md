@@ -10,15 +10,15 @@ c) az egységes kérelem beérkezésének időpontját (év, hónap, nap, óra, 
 
 d) a beérkezett egységes kérelem érkeztetési számát.
 
-(3) Az egységes kérelem benyújtásáról szóló igazolást az MVH az ügyfél írásbeli kérelmére 22 munkanapon belül papír alapon is kiállítja és megküldi az ügyfél részére. A papír alapú igazolás az egységes kérelemben foglaltaknak megfelelően tartalmazza:
+(3)[^9] Az egységes kérelem benyújtásáról szóló igazolást az MVH az ügyfél írásbeli kérelmére 30 napon belül papír alapon is kiállítja és megküldi az ügyfél részére. A papír alapú igazolás az egységes kérelemben foglaltaknak megfelelően tartalmazza:
 
 a) az ügyfélazonosító adatokat,
 
-b)[^8] az egységes kérelemben szereplő bejelentett táblák adatait:
+b)[^10] az egységes kérelemben szereplő bejelentett táblák adatait:
 
 ba) a fizikai blokk azonosító számát,
 
-bb)[^9] a bejelentett tábla sorszámát,
+bb)[^11] a bejelentett tábla sorszámát,
 
 bc) a hasznosítás típusát,
 
@@ -30,5 +30,6 @@ d) az ügyfél ügyfél-nyilvántartási rendszerben rögzített bankszámlaszá
 
 e) az egységes kérelem benyújtásának időpontját.
 
-[^8]: A 7. § (3) bekezdés b) pontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^9]: A 7. § (3) bekezdés b) pont bb) alpontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdés nyitó szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (44) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^10]: A 7. § (3) bekezdés b) pontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^11]: A 7. § (3) bekezdés b) pont bb) alpontja az 55/2010. (V. 6.) FVM rendelet 4. § (5) bekezdése szerint módosított szöveg.
