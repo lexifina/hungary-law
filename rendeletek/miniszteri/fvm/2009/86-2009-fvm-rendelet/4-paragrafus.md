@@ -44,7 +44,7 @@ a) a telepítés megfelel-e a hegyközségi rendtartásnak, valamint
 
 b) a betelepíteni kívánt összefüggő terület határától meghatározott ültetési távolság eléri-e legalább a sortávolság felét.
 
-(6)[^10] A kérelmet a benyújtástól számított nyolc munkanapon belül a hegybíró az (5) bekezdésben foglaltakkal kapcsolatos megállapításaival, valamint az engedély iránti kérelemmel kapcsolatos javaslatával együtt továbbítja az MVH PKI részére.
+(6)[^10] A kérelmet a benyújtástól számított tíz napon belül a hegybíró az (5) bekezdésben foglaltakkal kapcsolatos megállapításaival, valamint az engedély iránti kérelemmel kapcsolatos javaslatával együtt továbbítja az MVH PKI részére.
 
 (7) Alanyültetvény telepítése, valamint pótlás vagy fajtaváltás esetén a telepítésre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy a (4) bekezdés d) pontjában előírtakat nem kell alkalmazni.
 
@@ -53,4 +53,4 @@ b) a betelepíteni kívánt összefüggő terület határától meghatározott �
 [^7]: A 4. § (4) bekezdés g) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (4) bekezdés i) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^9]: A 4. § (5) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^10]: A 4. § (6) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (6) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (35) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
