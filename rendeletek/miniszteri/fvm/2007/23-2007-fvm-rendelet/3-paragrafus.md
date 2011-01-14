@@ -78,7 +78,7 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 
 35.[^26] támogatástartalom: a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-36.[^27] kötelező képzés: a támogatás részletes feltételeit megállapító jogszabályban előírt képzés, amelyen az ügyfél az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendeletben meghatározott módon köteles részt venni, amely az ügyfél számára akkor tekintendő megszervezettnek, ha annak helyszínéről és kezdési időpontjáról a képzéseket koordináló FVM VKSZI-től, vagy az általa megbízott Képző Szervezettől, a képzés kezdési időpontját legalább 5 munkanappal megelőzően tértivevényes értesítést kapott;
+36.[^27] kötelező képzés: a támogatás részletes feltételeit megállapító jogszabályban előírt képzés, amelyen az ügyfél az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendeletben meghatározott módon köteles részt venni, amely az ügyfél számára akkor tekintendő megszervezettnek, ha annak helyszínéről és kezdési időpontjáról a képzéseket koordináló FVM VKSZI-től, vagy az általa megbízott Képző Szervezettől, a képzés kezdési időpontját legalább nyolc nappal megelőzően tértivevényes értesítést kapott;
 
 37.[^28] pontozási szint: a támogatási kérelem azon egysége, amely a támogatás részletes feltételeit megállapító jogszabály alapján önállóan rangsorba állítható, és amelyhez külön pontszám és támogatási összeg tartozik;
 
@@ -105,6 +105,6 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 [^24]: A 3. § 33. pontját az 53/2008. (IV. 24.) FVM rendelet 3. § (5) bekezdése iktatta be.
 [^25]: A 3. § 34. pontját a 97/2008. (VII. 25.) FVM rendelet 2. § (5) bekezdése iktatta be.
 [^26]: A 3. § 35. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^27]: A 3. § 36. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^27]: A 3. § 36. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^28]: A 3. § 37. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^29]: A 3. § 38. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.

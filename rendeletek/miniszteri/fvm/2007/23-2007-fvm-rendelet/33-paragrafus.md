@@ -10,7 +10,7 @@ c) a szerződésmódosításról szóló hirdetményt,
 
 d) a szerződés teljesítéséről szóló hirdetményt,
 
-## annak megjelenését – eljárást indító hirdetmény közvetlen megküldése esetében a megküldést – követő 3 munkanapon belül az MVH részére benyújtani.
+## annak megjelenését – eljárást indító hirdetmény közvetlen megküldése esetében a megküldést – követő öt napon belül az MVH részére benyújtani.
 
 (2)[^156] Az ügyfél köteles továbbá:
 
@@ -32,7 +32,7 @@ b) építési beruházás esetén 12 hónappal meghosszabbodik.
 
 (6) Az (5) bekezdés alapján az MVH a kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a Kbt. 343. § (1) bekezdésében előírt kézbesítését követően folytatja.
 
-[^155]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^155]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. A 33. § (1) bekezdés záró szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^156]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^157]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^158]: A 33. § (4) bekezdése a 41/2010. (XII. 20.) VM rendelet 4. §-ával megállapított szöveg.
