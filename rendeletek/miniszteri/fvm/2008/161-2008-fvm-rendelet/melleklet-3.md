@@ -86,6 +86,6 @@
 
 ## Veresegyház
 
-3. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^35]
+3. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^37]
 
-[^35]: A 3. számú melléklet a 134/2009. (X. 14.) FVM rendelet 15. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.
+[^37]: A 3. számú melléklet a 134/2009. (X. 14.) FVM rendelet 15. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.

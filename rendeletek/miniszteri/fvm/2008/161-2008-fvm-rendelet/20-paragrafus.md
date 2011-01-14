@@ -1,12 +1,12 @@
-## 19. §[^25]
+## 19. §[^26]
 
 ## Kérelem elutasítása
 
-20. § (1)[^26]
+20. § (1)[^27]
 
 (2) Az MVH a kérelmet elutasítja, amennyiben
 
-a)–b)[^27]
+a)–b)[^28]
 
 c) a kérelem nem felel meg a kérelem benyújtásakor hatályos Borvidéki terv előírásainak,
 
@@ -42,14 +42,14 @@ r) az ültetvény nem minősül az 1. § j) pontja szerinti ültetvénynek,
 
 s) a helyszíni ellenőrzés során megállapítást nyer, hogy a kérelmező használatában álló ültetvény nem a kérelemben, illetve annak mellékleteiben megjelölt helyrajzi számú területen található,
 
-t)[^28]
+t)[^29]
 
 u) megállapítást nyer, hogy a kérelmezett ültetvény(ek)re vonatkozóan szőlőültetvény szerkezetátalakítási és -átállítási támogatást, vagy a kérelem benyújtását megelőző 10 borpiaci éven belül nemzeti forrásból finanszírozott, telepítési támogatást vettek igénybe,
 
-v)[^29]
+v)[^30]
 
-[^25]: A 19. §-t és az azt megelőző alcímet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^26]: A 20. § (1) bekezdését a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^27]: A 20. § (2) bekezdés a)–b) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^28]: A 20. § (2) bekezdés t) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^29]: A 20. § (2) bekezdés v) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 19. §-t és az azt megelőző alcímet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^27]: A 20. § (1) bekezdését a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 20. § (2) bekezdés a)–b) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 20. § (2) bekezdés t) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^30]: A 20. § (2) bekezdés v) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte.

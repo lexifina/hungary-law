@@ -28,7 +28,7 @@
 
 ## * A tőkehelyek számát a 161/2008. (XII. 18.) FVM rendelet 2. § c)–d) pontjai szerinti tevékenységek esetén is ki kell tölteni!
 
-7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^37]
+7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^39]
 
 Nyilatkozat
 
@@ -46,4 +46,4 @@ Kelt: ...................................... (helység, dátum)
 
 aláírás
 
-[^37]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.
+[^39]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.

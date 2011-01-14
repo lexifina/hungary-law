@@ -18,6 +18,7 @@ b) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra von
 
 c) a kérelmezőnek a 7. számú melléklet szerinti nyilatkozatát arra vonatkozóan, hogy a biztosíték-feloldás iránti kérelem jóváhagyása esetén kéri a készpénz biztosíték visszautalását, bankgarancia esetében annak megszüntetését, és az eredeti példány visszaküldését.
 
-(5) Az MVH a biztosíték feloldásáról a helyszíni ellenőrzést követő 30 munkanapon belül dönt.
+(5)[^24] Az MVH a biztosíték feloldásáról a helyszíni ellenőrzést követő 45 napon belül dönt.
 
 [^23]: A 14. § a 134/2009. (X. 14.) FVM rendelet 10. §-ával megállapított szöveg.
+[^24]: A 14. § (5) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (29) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
