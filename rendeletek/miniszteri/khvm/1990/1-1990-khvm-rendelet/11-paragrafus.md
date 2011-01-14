@@ -10,7 +10,7 @@ b)[^55] telephelyenként az ott végzett járműfenntartó tevékenységnek az 1
 
 c)[^56] azt, hogy a járműfenntartó tevékenységet szolgáltatásként, vagy saját üzemeltetésű járműveken, esetleg mindkét vonatkozásban végzi-e,
 
-d)[^57] az 1. számú melléklet 15. pontjában meghatározott járműfenntartó tevékenységre a rendeletben megállapított feltételeknek való megfelelőséget igazoló – a Magyar Kereskedelmi Engedélyezési Hivatal által kiadott – szakvéleményt,
+d)[^57] az 1. számú melléklet 15. pontjában meghatározott járműfenntartó tevékenységre a rendeletben megállapított feltételeknek való megfelelőséget igazoló – a mérésügyi és műszaki biztonsági hatóság által kiadott – szakvéleményt,
 
 e)[^58] az 1. számú melléklet 18. pontjában meghatározott járműfenntartó tevékenység esetében
 
@@ -32,7 +32,7 @@ f)[^62] az 1. számú melléklet 19. pontja szerinti járműbontó tevékenység
 [^54]: A 11. § (2) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^55]: A 11. § (2) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
 [^56]: A 11. § (2) bekezdés c) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 17. pontja szerint módosított szöveg.
-[^57]: A 11. § (2) bekezdésének d) pontját a 13/1993. (V. 12.) KHVM rendelet 14. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 5. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 31. pontja szerint módosított szöveg.
+[^57]: A 11. § (2) bekezdésének d) pontját a 13/1993. (V. 12.) KHVM rendelet 14. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, az 1/2011. (I. 11.) NFM rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^58]: A 11. § (2) bekezdésének e) pontját a 29/2004. (III. 12.) GKM rendelet 3. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
 [^59]: A 11. § (2) bekezdése e) pontjának ea) alpontja a 95/2006. (XII. 27.) GKM rendelet 14. § d) pontja, a 63/2009. (XI. 23.) KHEM rendelet 8. § 32. pontja szerint módosított szöveg.
 [^60]: A tevékenység végzésére szóló megbízásokhoz szükséges elismertség iránti kérelmet a menetíró, illetve a sebességkorlátozó típus gyártója vagy a gyártótól a tevékenység teljes körű hazai képviseletére jogosultságot szerzett képviselet (vezérképviselet) nyújthat be a KFF-hez.

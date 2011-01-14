@@ -232,7 +232,7 @@
 
 ## – az alsó éghetőségi koncentrációjának 40%-án válassza le a helyiség villamos hálózatát, a robbanásbiztos villamos berendezések kivételével;
 
-## ad) 500 m3 légtérfogat felett, ha a tevékenységet az alapterület 20%-ánál kisebb helyen, a bejárati kapuhoz közel végzik, a helyiségbe nem kell szellőztető berendezést felszerelni, és a villamos berendezések kézi kapacsolással választhatók le a hálózatról. Ilyen esetben a Területi Műszaki Biztonsági Felügyelet egyéb feltételeket is meghatározhat;
+## ad)[^150] 500 m3 légtérfogat felett, ha a tevékenységet az alapterület 20%-ánál kisebb helyen, a bejárati kapuhoz közel végzik, a helyiségbe nem kell szellőztető berendezést felszerelni, és a villamos berendezések kézi kapacsolással választhatók le a hálózatról. Ilyen esetben a mérésügyi és műszaki biztonsági hatóság egyéb feltételeket is meghatározhat;
 
 ## ae) a szellőztető berendezés biztosítsa a helyiség legalább óránként ötszörös légcseréjét;
 
@@ -262,7 +262,7 @@
 
 ## cb) a szellőztetés befúvással működjön és a felső légteret megfelelően átöblítse.
 
-## d) Egyéb gázüzemű gázüzemanyag ellátó berendezések javítását végző műhelyre vonatkozó további követelményeket a b) és c) pontok előírásainak alkalmazásával a Területi Műszaki Biztonsági Felügyelet határozza meg.
+## d)[^151] Egyéb gázüzemű gázüzemanyag ellátó berendezések javítását végző műhelyre vonatkozó további követelményeket a b) és c) pontok előírásainak alkalmazásával a mérésügyi és műszaki biztonsági hatóság határozza meg.
 
 ## 14. Gázüzemű gépjárművek gázbiztonsági szemléje
 
@@ -270,13 +270,13 @@
 
 ## Megjegyzés: A tanúsítási kötelezettségnek ki kell terjednie a gázbiztonsági szemle során vizsgált valamennyi tény megállapítására, annak a 4. számú mellékletben meghatározottak szerint kell eleget tenni.
 
-## 15.[^150] A menetíró, illetve a sebességkorlátozó készülék felszerelése, vizsgálata
+## 15.[^152] A menetíró, illetve a sebességkorlátozó készülék felszerelése, vizsgálata
 
 ## A tevékenység végzésének feltétele:
 
-## a)[^151] hidegpadlós, a járműhöz hozzáférhetőséget biztosító helyiség,
+## a)[^153] hidegpadlós, a járműhöz hozzáférhetőséget biztosító helyiség,
 
-## b)[^152] a járművek alsó részeihez hozzáférést biztosító szerelőakna vagy emelőberendezés,
+## b)[^154] a járművek alsó részeihez hozzáférést biztosító szerelőakna vagy emelőberendezés,
 
 ## c) szilárd burkolatú, legalább 20 m hosszú és sík mérőszakasz, vagy a készülék illesztésének vizsgálatára alkalmas, kalibrálható görgős próbapad,
 
@@ -284,7 +284,7 @@
 
 ## e) a készülék gyártója, illetve a készülékgyártó hazai képviselete által – az egyes készüléktípusokhoz – meghatározott célszerszámok és további mérőkészülékek,
 
-## f)[^153] a készüléktípus felszerelését, járműhöz történő illesztés végrehajtását, a készülék javítását, vizsgálatát, valamint a szükséges eszközök, vizsgálóberendezések megjelölését és használatát tartalmazó – a készülék gyártója vagy a készülékgyártó hazai képviselete által biztosított – műszaki előírások,
+## f)[^155] a készüléktípus felszerelését, járműhöz történő illesztés végrehajtását, a készülék javítását, vizsgálatát, valamint a szükséges eszközök, vizsgálóberendezések megjelölését és használatát tartalmazó – a készülék gyártója vagy a készülékgyártó hazai képviselete által biztosított – műszaki előírások,
 
 ## g) a visszaélésszerű beavatkozás elleni védelem eszközeinek biztosítása (ólomzár, plombajel, lepecsételés stb.).
 
@@ -320,7 +320,7 @@
 
 ## Ha a felülvizsgálat helye és időpontja nem azonos az illesztés helyével és időpontjával, a felülvizsgálati tanúsítvány „O”, „P” és „Q” mezőit nem kell kitölteni.
 
-4. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^154]
+4. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^156]
 
 ## A tanúsítás mintája gázbiztonsági szemléről
 
@@ -412,8 +412,10 @@ szerelő a szakműhely nevében
 [^147]: A 3. számú melléklet 12. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. pontja szerint módosított szöveg.
 [^148]: A 3. számú melléklet 12. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
 [^149]: A 3. számú melléklet 13. pontját a 13/1993. (V. 12.) KHVM rendelet 17. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 6. § (2) bekezdésével megállapított szöveg, ez utóbbi módosító rendelet 7. § (2) bekezdése alapján a 2002. január 1-jét követően létesített vagy átalakított gépjárműfenntartó műhely esetében kell alkalmazni.
-[^150]: A 3. számú melléklet 15. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (2) bekezdése iktatta be, szövege a 37/2009. (VIII. 5.) KHEM rendelet 5. §-ával megállapított, záró szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 33. pontja szerint módosított szöveg.
-[^151]: A 3. számú melléklet 15. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
-[^152]: A 3. számú melléklet 15. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
-[^153]: A 3. számú melléklet 15. pontjának f) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
-[^154]: A 4. számú mellékletet a 13/1994. (V. 12.) KHVM rendelet 18. §-a iktatta a szövegbe.
+[^150]: A 3. számú melléklet 13. a) pont ad) alpontja az 1/2011. (I. 11.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^151]: A 3. számú melléklet 13. d) pontja az 1/2011. (I. 11.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^152]: A 3. számú melléklet 15. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (2) bekezdése iktatta be, szövege a 37/2009. (VIII. 5.) KHEM rendelet 5. §-ával megállapított, záró szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 33. pontja szerint módosított szöveg.
+[^153]: A 3. számú melléklet 15. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
+[^154]: A 3. számú melléklet 15. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
+[^155]: A 3. számú melléklet 15. pontjának f) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
+[^156]: A 4. számú mellékletet a 13/1994. (V. 12.) KHVM rendelet 18. §-a iktatta a szövegbe.

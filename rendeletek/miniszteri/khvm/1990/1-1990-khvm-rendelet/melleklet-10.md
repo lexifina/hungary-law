@@ -62,7 +62,7 @@
 
 | ⬜ | 8. | Menetíró hitelesíthető típus | ⬜ | 28. | Vizsgálati jegyzőkönyv kitöltése |
 
-| ⬜ | 9. | OMH hitelesítési bizonyítvány, matrica ellenőrzése | ⬜ | 29. | Illesztési címke kitöltése, elhelyezése és zárófóliázása |
+| ⬜ | 9. | Mérésügyi hatóság által kiállított hitelesítési bizonyítvány, matrica ellenőrzése | ⬜ | 29. | Illesztési címke kitöltése, elhelyezése és zárófóliázása |
 
 | ⬜ | 10. | Bemeneti csatlakozók, plombálásuk ellenőrzése | ⬜ | 30. | „K” faktor címke kitöltése, beragasztása, zárófóliázása |
 
@@ -90,7 +90,7 @@
 
 ## Az elvégzett munka, a felhasznált fődarab, részegység és anyag rendeltetésszerű használatra alkalmas, megfelel a járműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 10. § (2) bekezdés e) pontja rendelkezéseinek.
 
-10. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^161]
+10. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^163]
 
 A menetíró felülvizsgálati tanúsítvány mintája
 
@@ -124,4 +124,4 @@ A menetíró felülvizsgálati tanúsítvány mintája
 
 | ANALÓG MENETÍRÓ KÉSZÜLÉK ESETÉN: ⬜ 1. A gyártóművi címke meglétének és sértetlenségének ellenőrzése. ⬜ 2. A típus jóváhagyási jel meglétének ellenőrzése. ⬜ 3. Maximális tűrés vizsgálata (vizuális és rögzítő műszerek esetében) Vizsgálópadon, javítás után: - a ténylegesen megtett útszakasz �1%-a, ha a távolság legalább 1 km - a tényleges sebesség �3 km - ±2 perc időeltérés naponta, de nem több, mint 10 perc 7 naponta, ha az óra működési ideje egy felhúzás után ennél az értéknél nem kevesebb Használatban, időszakos ellenőrzés során: - a ténylegesen megtett útszakasz �4%-a, ha a távolság legalább 1 km - a tényleges sebesség �6 km - ±2 perc időeltérés naponta, de nem több, mint 10 perc 7 naponta. ⬜ 4. A kétévenkénti felülvizsgálat elvégzése a 3821/85/EGK rendelet I. melléklet VI. fejezet 3. b) pontja szerint. ⬜ 5. A menetíró illesztettségének vizsgálata, szükség szerint beállítása. ⬜ 6. Ellenőrizni kell a 3821/85/EGK rendelet I. melléklet V. fejezet 4. pontjában előírt plombálások sértetlenségét. ⬜ 7. Az illesztési címke lecserélése. ⬜ 8. A menetíró, illetve sebességkorlátozó berendezés rendszeren „idegenkezű” beavatkozás tapasztalható-e? ⬜ 9. Nem. ⬜ 10. Igen, a beavatkozás helye, módja: __________________________________________________________________________________________________________________________________________ | DIGITÁLIS MENETÍRÓ KÉSZÜLÉK ESETÉN: ⬜ 1. A gyártóművi címke meglétének és sértetlenségének ellenőrzése. ⬜ 2. A típus jóváhagyási jel meglétének ellenőrzése. ⬜ 3. Ellenőrizni kell a menetíró készülék megfelelő működését, ideértve a tachográf kártyákra való adatátvitelt is. ⬜ 4. A 3821/85/EGK rendelet I./B melléklet III. fejezet 2.1; 2.2 pontjában előírt pontosság ellenőrzése. ⬜ 5. Ellenőrizni kell a 3821/85/EGK rendelet I./B melléklet V. fejezet 3. pontjában előírt ólomzárak sértetlenségét. ⬜ 6. A gumiabroncs méretének és a kerékgumik aktuális kerületének ellenőrzése. ⬜ 7. A 3821/85/EGK rendelet I./B melléklet III. fejezet 20. pontjában előírt kalibrálás elvégzése. ⬜ 8. Az illesztési címke lecserélése. ⬜ 9. A menetíró, illetve sebességkorlátozó berendezés rendszeren „idegenkezű” beavatkozás tapasztalható-e? ⬜ 10. Nem ⬜ 11. Igen, a beavatkozás helye, módja: __________________________________________________________________________________________________________________________________________ ⬜ 12. Összes ellenőrzött tétel: ______________________________________________ |
 
-[^161]: A 10. számú mellékletet a 37/2009. (VIII. 5.) KHEM rendelet 8. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^163]: A 10. számú mellékletet a 37/2009. (VIII. 5.) KHEM rendelet 8. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
