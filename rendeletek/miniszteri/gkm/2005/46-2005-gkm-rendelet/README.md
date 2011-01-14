@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-46-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 2005-46-20-0L.5 | 46/2005. (VI. 28.) GKM rendelet |
+| 2011-01-14 | 2005-46-20-0L.6 | 2013: CX. törvény |

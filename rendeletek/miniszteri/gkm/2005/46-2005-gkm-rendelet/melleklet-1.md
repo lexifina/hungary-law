@@ -1,4 +1,4 @@
-1. melléklet a 46/2005. (VI. 28.) GKM rendelethez[^7]
+1. melléklet a 46/2005. (VI. 28.) GKM rendelethez[^8]
 
 A VESZÉLYES ÁRUK NEMZETKÖZI KÖZÚTI
 
@@ -4136,7 +4136,7 @@ A „csomagolási módszer” oszlopban az „OP1” – „OP8” kód a 4.1.4.
 
 Megjegyzés: Az ebben a táblázatban levő besorolás a technikailag tiszta anyagokon alapul (kivéve, ha a megadott koncentráció 100%-nál kisebb). Más koncentrációk esetében az anyag a „Vizsgálatok és kritériumok kézikönyv” II. Részében és a 2.2.41.1.17 pontban található eljárást követve eltérően sorolható be.
 
-[^7]: Az ADR „A” és „B” melléklete 2007. évi módosításait és kiegészítéseit a 60/2007. (VI. 29.) GKM rendelet hirdette ki. Az ADR „A” és „B” melléklete egységes szerkezetű szövegét lásd a Hivatalos Értesítő 2008. évi 29. számában.
+[^8]: Az ADR „A” és „B” melléklete 2007. évi módosításait és kiegészítéseit a 60/2007. (VI. 29.) GKM rendelet hirdette ki. Az ADR „A” és „B” melléklete egységes szerkezetű szövegét lásd a Hivatalos Értesítő 2008. évi 29. számában.
 [^1)]: ENSZ–EGB 105. sz. előírás (Egységes feltételek a veszélyes áruk szállítására szánt járművek jóváhagyására a különleges szerkezeti jellemzők szempontjából).
 [^2)]: Az Európai Parlament és a Tanács 1998. december 14–i 98/91/EK irányelve a veszélyes áruk közúti szállítására szánt gépjárművekről és pótkocsijaikról, valamint a gépjárművek és pótkocsijaik típusjóváhagyására vonatkozó 70/156/EGK irányelv módosításáról (lásd az EK Hivatalos Lapja L011 sz., 1999.01.16., 25–36 o.)
 [^3),]: Az EK Hivatalos Lapja, L 145. szám, 1996.06.19., 10. o.
