@@ -40,7 +40,7 @@ ah) villanypásztor csak az illetékes állami természetvédelmi szerv előzete
 
 ai) kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
-aj) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
+aj)[^86] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
 
 ak) őszi tisztító kaszálás elvégzése kötelező;
 
@@ -79,3 +79,5 @@ b) Natura 2000 gyepterületen történő:
 ba) legeltetés esetén 101 euró/ha-nak megfelelő forintösszeg;
 
 bb) kaszálás esetén 78 euró/ha-nak megfelelő forintösszeg.
+
+[^86]: A 70. § (4) bekezdés a) pont aj) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

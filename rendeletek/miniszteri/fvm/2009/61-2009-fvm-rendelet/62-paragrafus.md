@@ -38,7 +38,7 @@ h) rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása tilos;
 
 i) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az olajretek rovarirtását;
 
-j)[^76] szálas pillangós takarmánynövények betakarítása esetén:
+j)[^77] szálas pillangós takarmánynövények betakarítása esetén:
 
 ja) minden kaszáláskor táblánként legalább 5%, de legfeljebb 10% kaszálatlan területet kell hagyni a tábla közepén;
 
@@ -48,7 +48,7 @@ jc) kaszálásnál vadriasztó lánc használata kötelező;
 
 jd) a bejelentési kötelezettség alá eső adott évi első kaszálás és július 31-e között végzett kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
-je) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
+je)[^78] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
 
 k) a vetésváltás szabályainak betartása;
 
@@ -58,4 +58,5 @@ m) a szemeskukorica egy vagy több táblán elhelyezkedő teljes területének l
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 173 euró/ha-nak megfelelő forintösszeg.
 
-[^76]: A 62. § (4) bekezdés j) pontja a 35/2010. (XI. 30.) VM rendelet 20. §-ával megállapított szöveg.
+[^77]: A 62. § (4) bekezdés j) pontja a 35/2010. (XI. 30.) VM rendelet 20. §-ával megállapított szöveg.
+[^78]: A 62. § (4) bekezdés j) pont je) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

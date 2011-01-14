@@ -36,7 +36,7 @@ g) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az 
 
 h) március 1. és július 31. között a munkavégzés kizárólag napkeltétől napnyugtáig megengedett;
 
-i) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a j) pont figyelembevételével folytatható;
+i)[^75] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a j) pont figyelembevételével folytatható;
 
 j) a talált fészek körül 0,5–1 hektáros védőterületet kell kialakítani a természetvédelmi szerv javaslata alapján.
 
@@ -50,7 +50,7 @@ c) a 17. § (2) bekezdésében foglaltakra tekintettel kizárólag környezetkí
 
 d) a lucerna felülvetése 5 év alatt egy alkalommal végezhető augusztus–szeptember hónapban;
 
-e)[^75] évelő szálas pillangós takarmánynövények betakarítása esetén:
+e)[^76] évelő szálas pillangós takarmánynövények betakarítása esetén:
 
 ea) minden kaszáláskor táblánként legalább 5%, de legfeljebb 10% kaszálatlan területet kell hagyni, a tábla szélével érintkezően;
 
@@ -86,4 +86,5 @@ a) évelő szálas pillangós takarmánynövények termesztése esetén 310 eur�
 
 b) vegyes szántóföldi növénytermesztés esetén 303 euró/ha-nak megfelelő forintösszeg.
 
-[^75]: A 61. § (5) bekezdés e) pontja a 35/2010. (XI. 30.) VM rendelet 19. §-ával megállapított szöveg.
+[^75]: A 61. § (4) bekezdés i) pontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^76]: A 61. § (5) bekezdés e) pontja a 35/2010. (XI. 30.) VM rendelet 19. §-ával megállapított szöveg.

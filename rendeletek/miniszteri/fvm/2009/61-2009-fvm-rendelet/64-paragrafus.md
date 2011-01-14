@@ -34,7 +34,7 @@ g) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az 
 
 h) március 1. és július 31. között a munkavégzés csak napkeltétől napnyugtáig megengedett;
 
-i) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható.
+i)[^81] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható.
 
 (5) További előírások évelő szálas pillangós takarmánynövények termesztése esetén:
 
@@ -93,3 +93,5 @@ g) a vetésszerkezetben szereplő szálas pillangós takarmánynövény betakar�
 a) évelő szálas pillangós takarmánynövények termesztése esetén 267 euró/ha-nak megfelelő forintösszeg;
 
 b) vegyes szántóföldi növénytermesztés esetén 233 euró/ha-nak megfelelő forintösszeg.
+
+[^81]: A 64. § (4) bekezdés i) pontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

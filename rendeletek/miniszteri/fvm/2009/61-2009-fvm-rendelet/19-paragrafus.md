@@ -30,7 +30,7 @@ cb) szaktanácsadási szolgáltatás igénybevétele szerint;
 
 cc) az iskolai végzettség szerint.
 
-(5)[^22] Az IH a mintasokaság kiválasztási eljárása során hozott határozatát követő 22 munkanapon belül írásban értesíti azon támogatásra jogosultakat, akik a (4) bekezdés alapján a mintasokaságba kiválasztásra kerültek.
+(5)[^22] Az IH a mintasokaság kiválasztási eljárása során hozott határozatát követő 30 napon belül írásban értesíti azon támogatásra jogosultakat, akik a (4) bekezdés alapján a mintasokaságba kiválasztásra kerültek.
 
 (6) Az a támogatásra jogosult, aki a mintasokaságba kiválasztásra került, köteles a támogatási időszak alatt, valamint az azt követő gazdálkodási év során a gazdasági, természetvédelmi, talajvédelmi és vízvédelmi hatások monitorozása érdekében
 
@@ -40,4 +40,4 @@ b) a hatásindikátor monitorozó rendszer működése érdekében meghatározot
 
 (7) E kötelezettségek teljesítésével kapcsolatban a támogatásra jogosultat költség nem terheli. A hatásindikátor monitorozó rendszer működésére és a (6) bekezdésben foglalt vizsgálatok elvégzésének költségeire a monitoringot végző részére az IH az EMVA Technikai Segítségnyújtás intézkedés keretéből nyújt fedezetet.
 
-[^22]: A 19. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 9. §-ával megállapított szöveg.
+[^22]: A 19. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 9. §-ával megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

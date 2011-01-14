@@ -68,7 +68,7 @@ bi) az első kaszálás június 15. után kezdhető meg azzal, hogy a Dunavölgy
 
 bj) kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
-bk) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal be kell fejezni és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a bl) pont figyelembevételével folytatható;
+bk)[^85] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal be kell fejezni és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a bl) pont figyelembevételével folytatható;
 
 bl) a talált fészek körül 0,5–1 hektáros védőterületet kell kialakítani a természetvédelmi szerv javaslata alapján;
 
@@ -87,3 +87,5 @@ b) Natura 2000 gyepterületen történő:
 ba) legeltetés esetén 117 euró/ha-nak megfelelő forintösszeg;
 
 bb) kaszálás esetén 78 euró/ha-nak megfelelő forintösszeg.
+
+[^85]: A 69. § (4) bekezdés b) pont bk) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
