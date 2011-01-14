@@ -4,4 +4,6 @@
 
 (3) A földhasználati lap másolat kiadása iránti megkeresés előterjesztésével egyidejűleg a megkereső szerv igazolja a díjfizetés megtörténtét.
 
-(4) A díj megfizetése igazolásának elmulasztása esetén a földhivatal a kérelmező ügyfelet, megkereső szervet a hiány pótlására legfeljebb 8 munkanapos határidő megjelölésével hívja fel.
+(4)[^1] A díj megfizetése igazolásának elmulasztása esetén a földhivatal a kérelmező ügyfelet, megkereső szervet a hiány pótlására legfeljebb 10 napos határidő megjelölésével hívja fel.
+
+[^1]: A 3. § (4) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (38) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
