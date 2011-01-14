@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-94-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-09-12 | 2007-94-20-82.1 | 94/2007. (IX. 4.) FVM rendelet |
+| 2011-01-14 | 2007-94-20-82.2 | 1/2011. (I. 11.) VM rendelet |
