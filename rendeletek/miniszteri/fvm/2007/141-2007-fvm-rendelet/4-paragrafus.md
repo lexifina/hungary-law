@@ -16,13 +16,13 @@ e) tűrni az MVH és az együttműködő szervezet által az e rendelet, valamin
 
 f) az 1973/2004/EK rendelet alapján érintett termelőtől átvenni az adott területen termelt teljes energianövény mennyiséget és részére az átvételről – a vonatkozó MVH közleményben foglaltak szerinti adattartalommal – szállítási bizonylatot kiállítani;
 
-g) az elismerés feltételeinek megállapítását érintő valamennyi eseményről, tényről azok bekövetkeztét, fennállását követő 8 munkanapon belül az MVH-t írásban értesíteni;
+g)[^1] az elismerés feltételeinek megállapítását érintő valamennyi eseményről, tényről azok bekövetkeztét, fennállását követő 10 napon belül az MVH-t írásban értesíteni;
 
 h) alapanyag megsemmisítése esetén a következő követelményeknek megfelelni:
 
 ha) a megsemmisítést követően visszamaradó hulladék anyagot élelmiszer-, illetve takarmány célú felhasználásra alkalmatlanná tenni,
 
-hb) a megsemmisítés előtt öt munkanappal a megsemmisítés tervezett idejéről, helyszínéről, az alkalmazott eljárásról és a megsemmisíteni tervezett alapanyag mennyiségéről az MVH-t írásban és elektronikus úton (faxon, e-mailben) is értesíteni.
+hb)[^2] a megsemmisítés előtt 8 nappal a megsemmisítés tervezett idejéről, helyszínéről, az alkalmazott eljárásról és a megsemmisíteni tervezett alapanyag mennyiségéről az MVH-t írásban és elektronikus úton (faxon, e-mailben) is értesíteni.
 
 (2) Az ügyfél, ha az (1) bekezdésben, illetve az 1973/2004/EK rendelet 32. cikkben foglalt kötelezettségnek nem tesz eleget, akkor az 1973/2004/EK rendelet 37. cikk 4. bekezdésében foglalt követelményeknek megfelelően a (3) bekezdés szerinti eljárás alapján meghatározott összeg megfizetésére köteles az alábbi esetekben:
 
@@ -40,7 +40,7 @@ d) egyéb módon megsérti az 1973/2004/EK rendeletben foglalt követelményeket
 
 (5) Az MVH az elismerési nyilvántartásból az ügyfelet törli, aki a törlésről szóló határozat jogerőre emelkedésének évét követően legfeljebb három évig nem nyújthat be elismerésre vonatkozó kérelmet, ha:
 
-a)[^1] az (1) bekezdésben foglalt kötelezettségei megszegése miatt a (2) bekezdés alapján szankcióval sújtották, kivéve, ha a nem energetikai célú felhasználással, illetve értékesítéssel érintett mennyiségről az MVH-t a nem energetikai célú felhasználást, illetve értékesítést megelőzően legalább nyolc nappal írásban értesíti;
+a)[^3] az (1) bekezdésben foglalt kötelezettségei megszegése miatt a (2) bekezdés alapján szankcióval sújtották, kivéve, ha a nem energetikai célú felhasználással, illetve értékesítéssel érintett mennyiségről az MVH-t a nem energetikai célú felhasználást, illetve értékesítést megelőzően legalább nyolc nappal írásban értesíti;
 
 b) a támogatás igénybevételéhez kapcsolódóan, az e rendeletben foglaltakat szándékosan vagy súlyos gondatlanságból megsérti, illetve valótlan adatot szolgáltat;
 
@@ -54,4 +54,6 @@ e) az 5. § (8) bekezdésében foglaltak szerint kérelmet nyújt be az elismer�
 
 (7) Az elismerési nyilvántartás aktualizálása, karbantartása céljából az MVH legalább 15 napos határidővel felszólíthatja az ügyfelet az elismerési nyilvántartásban történő regisztráció nyilatkozatban történő megerősítésére, illetve az 1973/2004/EK rendeletben foglalt feltételek teljesítésére vonatkozó adatok egyeztetésére.
 
-[^1]: A 4. § (5) bekezdés a) pontja a 70/2008. (V. 29.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. június 6-át követően indult ügyekben kell alkalmazni.
+[^1]: A 4. § (1) bekezdés g) pontja az 1/2011. (I. 11.) VM rendelet 1. § (19) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^2]: A 4. § (1) bekezdés h) pont hb) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (19) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: A 4. § (5) bekezdés a) pontja a 70/2008. (V. 29.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. június 6-át követően indult ügyekben kell alkalmazni.
