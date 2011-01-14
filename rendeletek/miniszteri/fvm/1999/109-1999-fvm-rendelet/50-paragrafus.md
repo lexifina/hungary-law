@@ -82,7 +82,7 @@ a) a fegyveres testületek és a rendvédelmi szervek céljára állandóan igé
 
 b) azok a területek, amelyeknek gazdasági felhasználását nemzetközi megállapodás korlátozza,
 
-c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta,
+c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta.
 
 d)[^95] honvédelmi, illetve rendészeti célból feleslegessé nyilvánított olyan terület, amelynek a szükséges környezetvédelmi, vegyvédelmi és tűzszerészeti mentesítése igazolt módon nem történt meg.
 
