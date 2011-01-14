@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-70-20-8
 | --- | --- | --- |
 | 2010-01-01 | 2007-70-20-82.6 | 70/2007. (VII. 27.) FVM rendelet |
 | 2010-11-21 | 2007-70-20-82.7 | 30/2010. (XI. 18.) VM rendelet |
+| 2011-01-14 | 2007-70-20-82.8 | 88/2012. (VIII. 27.) VM rendelet |

@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet alkalmazásában:
+## 1. §[^2] E rendelet alkalmazásában:
 
 1. forgalomba hozó:
 
@@ -10,4 +10,4 @@ b) a bort külföldről behozó kereskedő;
 
 3. harmadik ország: olyan állam, amely nem az Európai Unió tagállama, vagy nem az Európai Gazdasági Térségről szóló Megállapodás szerződő állama.
 
-[^1]: Az 1. § a 110/2009. (VIII. 19.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1-jét követően forgalomba hozott borra vonatkozó bevallásokra kell alkalmazni.
+[^2]: Az 1. § a 110/2009. (VIII. 19.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1-jét követően forgalomba hozott borra vonatkozó bevallásokra kell alkalmazni.

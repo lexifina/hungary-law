@@ -1,4 +1,4 @@
-4. § (1)[^6] A járulékfizetésre kötelezett a járulék megfizetéséről a Mezőgazdasági Szakigazgatási Hivatal Központjának (a továbbiakban: MgSzH) honlapján közzétett formanyomtatvány szerinti bevallási nyilatkozatot készít, amely az alábbi adattartalommal rendelkezik:
+4. § (1)[^7] A járulékfizetésre kötelezett a járulék megfizetéséről a Mezőgazdasági Szakigazgatási Hivatal Központjának (a továbbiakban: MgSzH) honlapján közzétett formanyomtatvány szerinti bevallási nyilatkozatot készít, amely az alábbi adattartalommal rendelkezik:
 
 a) a bevallási nyilatkozatot készítő neve, címe;
 
@@ -32,10 +32,10 @@ o) a bevallási nyilatkozat készítésének dátuma;
 
 p) a bevallási nyilatkozatot készítő aláírása.
 
-(2)[^7] A járulékfizetésre kötelezett a bevallási nyilatkozatot és a Jöt. 83. §-ának (5) bekezdése szerinti elszámolás másolatát a járulék befizetésére előírt határidőt követő 10 munkanapon belül megküldi az MgSzH-nak.
+(2)[^8] A járulékfizetésre kötelezett a bevallási nyilatkozatot és a Jöt. 83. §-ának (5) bekezdése szerinti elszámolás másolatát a járulék befizetésére előírt határidőt követő 15 napon belül megküldi az MgSzH-nak.
 
-(3)[^8] A Btv. 24/A. §-ának (4) bekezdésében foglalt rendelkezés által érintett járulékfizetésre kötelezett az ott említett befizetés és visszaigénylés tényéről, valamint összegéről szóló okiratot megőrzi.
+(3)[^9] A Btv. 24/A. §-ának (4) bekezdésében foglalt rendelkezés által érintett járulékfizetésre kötelezett az ott említett befizetés és visszaigénylés tényéről, valamint összegéről szóló okiratot megőrzi.
 
-[^6]: A 4. § (1) bekezdése a 110/2009. (VIII. 19.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1-jét követően forgalomba hozott borra vonatkozó bevallásokra kell alkalmazni.
-[^7]: A 4. § (2) bekezdése a 110/2009. (VIII. 19.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1-jét követően forgalomba hozott borra vonatkozó bevallásokra kell alkalmazni.
-[^8]: A 4. § (3) bekezdése a 165/2009. (XII. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 4. § (1) bekezdése a 110/2009. (VIII. 19.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1-jét követően forgalomba hozott borra vonatkozó bevallásokra kell alkalmazni.
+[^8]: A 4. § (2) bekezdése a 110/2009. (VIII. 19.) FVM rendelet 3. §-ával megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (16) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^9]: A 4. § (3) bekezdése a 165/2009. (XII. 4.) FVM rendelet 1. §-ával megállapított szöveg.

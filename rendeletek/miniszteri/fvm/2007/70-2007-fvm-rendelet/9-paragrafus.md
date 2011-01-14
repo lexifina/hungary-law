@@ -1,4 +1,4 @@
-9. §[^17] (1) A miniszter létrehozza a Bormarketing Bizottságot (a továbbiakban: Bizottság).
+9. §[^18] (1) A miniszter létrehozza a Bormarketing Bizottságot (a továbbiakban: Bizottság).
 
 (2) A Bizottság 13 tagból áll, akik közül tizenkettőt a miniszter jelöl, további egy tag az AMC igazgatója, aki egyben a Bizottság titkára. A tagokat a miniszter nevezi ki.
 
@@ -20,4 +20,4 @@ d) pályázat során benyújtott pályázatok elfogadására.
 
 (7) A Bizottság működésének részletes szabályait a miniszter által jóváhagyott ügyrend tartalmazza.
 
-[^17]: A 9. § a 30/2010. (XI. 18.) VM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 9. § a 30/2010. (XI. 18.) VM rendelet 2. §-ával megállapított szöveg.
