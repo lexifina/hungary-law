@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-149-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-09-14 | 2004-149-20-82.3 | 149/2004. (X. 1.) FVM rendelet |
+| 2011-01-14 | 2004-149-20-82.4 | 1/2011. (I. 11.) VM rendelet |

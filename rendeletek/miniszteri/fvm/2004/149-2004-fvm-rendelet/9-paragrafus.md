@@ -1,8 +1,8 @@
-9. § (1)[^9] Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+9. § (1)[^10] Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^10] A baromfitartó igénylők a búza és kétszeres esetében 2006. augusztus 1. és 2006. december 31. között, kukorica esetében 2006. október 1. és 2006. december 31. között közraktárban elhelyezett takarmányozási célú gabonára a 4. § (2) bekezdésben meghatározott mértékig közraktárjegy fedezete alapján pénzügyi intézménytől, illetve közraktártól felvett éven belüli lejáratú hitelhez legfeljebb hat hónapos időtartamra kamattámogatást, valamint legfeljebb hat hónapos közraktári tárolási időtartamra tárolási támogatást vehetnek igénybe.
+(2)[^11] A baromfitartó igénylők a búza és kétszeres esetében 2006. augusztus 1. és 2006. december 31. között, kukorica esetében 2006. október 1. és 2006. december 31. között közraktárban elhelyezett takarmányozási célú gabonára a 4. § (2) bekezdésben meghatározott mértékig közraktárjegy fedezete alapján pénzügyi intézménytől, illetve közraktártól felvett éven belüli lejáratú hitelhez legfeljebb hat hónapos időtartamra kamattámogatást, valamint legfeljebb hat hónapos közraktári tárolási időtartamra tárolási támogatást vehetnek igénybe.
 
-Melléklet a 149/2004. (X. 1.) FVM rendelethez[^11]
+Melléklet a 149/2004. (X. 1.) FVM rendelethez[^12]
 
 Támogatási kérelem
 
@@ -76,6 +76,6 @@ Dátum: ........................................
 
 igénylő (cégszerű) aláírása
 
-[^9]: A 9. § eredeti szövegének jelölését a 65/2006. (IX. 11.) FVM rendelet 2. §-a (1) bekezdésre változtatta.
-[^10]: A 9. § (2) bekezdését a 65/2006. (IX. 11.) FVM rendelet 2. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
-[^11]: A melléklet a 65/2006. (IX. 11.) FVM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 9. § eredeti szövegének jelölését a 65/2006. (IX. 11.) FVM rendelet 2. §-a (1) bekezdésre változtatta.
+[^11]: A 9. § (2) bekezdését a 65/2006. (IX. 11.) FVM rendelet 2. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
+[^12]: A melléklet a 65/2006. (IX. 11.) FVM rendelet 3. §-ával megállapított szöveg.
