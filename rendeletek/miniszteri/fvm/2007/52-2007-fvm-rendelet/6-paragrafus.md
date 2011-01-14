@@ -18,7 +18,7 @@ c) szeptember 8-tól október 8-ig
 
 (5) Kertészeti termelő esetén a támogatási kérelemhez mellékelni kell a kertészeti szakmai szervezeti tagságot és jogosultságot igazoló dokumentumot.
 
-(6)[^17] A TSzK az összesített támogatási kérelmeket az (1) bekezdésben megjelölt határidő lejártát követő 10 munkanapon belül benyújtja az MVH részére. A TSzK az összesített támogatási kérelmek MVH részére történő benyújtásáért teljes körű anyagi felelősséggel tartozik.
+(6)[^17] A TSzK az összesített támogatási kérelmeket az (1) bekezdésben megjelölt határidő lejártát követő 15 napon belül benyújtja az MVH részére. A TSzK az összesített támogatási kérelmek MVH részére történő benyújtásáért teljes körű anyagi felelősséggel tartozik.
 
 (7) A TSzK kvótájának mennyiségét az FVM VKSZI tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
 
@@ -39,7 +39,7 @@ c) szeptember 8-tól október 8-ig
 [^14]: A 6. § (1) bekezdése a 14/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
 [^15]: A 6. § (3) bekezdése a 90/2007. (VIII. 23.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^16]: A 6. § (4) bekezdése a 96/2008. (VII. 25.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^17]: A 6. § (6) bekezdése a 168/2009. (XII. 15.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^17]: A 6. § (6) bekezdése a 168/2009. (XII. 15.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (15) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^18]: A 6. § (8) bekezdését a 103/2007. (IX. 21.) FVM rendelet 3. §-a iktatta be, szövege a 96/2008. (VII. 25.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^19]: A 6. § (9) bekezdését a 151/2007. (XII. 18.) FVM rendelet 3. §-a iktatta be, szövege a 96/2008. (VII. 25.) FVM rendelet 4. § (3) bekezdésével megállapított, a 14/2010. (IX. 3.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^20]: A 6. § (10) bekezdését a 151/2007. (XII. 18.) FVM rendelet 3. §-a iktatta be.

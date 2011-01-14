@@ -20,7 +20,7 @@ d) október 1–31.
 
 (4)[^29] A TSzK a vele szolgáltatási szerződést kötött ügyfelek kifizetési kérelmeit összesítve nyújtja be a TSzK székhelye szerint területileg illetékes MVH kirendeltséghez. A kifizetési kérelem benyújtási időpontjának a TSzK által összesített kifizetési kérelem MVH kirendeltség részére történő benyújtásának időpontja tekintendő. A TSzK folyamatosan vezetett naplóban köteles nyilvántartani az ügyfelek kifizetési kérelmeit. Az ügyfél kifizetési kérelmének a TSzK által ellenjegyzett másodpéldányát a TSzK az ügyfél rendelkezésére bocsátja.
 
-(5)[^30] A TSzK az összesített kifizetési kérelmeket a (2) bekezdésben megjelölt határidő lejártát követő 10 munkanapon belül benyújtja az MVH részére.
+(5)[^30] A TSzK az összesített kifizetési kérelmeket a (2) bekezdésben megjelölt határidő lejártát követő 15 napon belül benyújtja az MVH részére.
 
 (6)[^31] A kifizetési kérelemhez mellékelni kell az igénybe vett szaktanácsadási szolgáltatás teljesítését igazoló, az ügyféllel szerződéses kapcsolatban álló TSzK által kiállított, az ügyfél által pénzügyileg rendezett bizonylatok ügyfél példányának másolatát (a továbbiakban: teljesítési bizonylat), a pénzügyi teljesítést igazoló bizonylatok másolatát, valamint a szaktanácsadási napló másolatát. A TSzK felelős a szaktanácsadási napló vezetéséért, amelyben a szaktanácsadási szolgáltatás teljesítésének minden eseménye feltüntetésre kerül, és amelynek bejegyzéseit az ügyfél és a szaktanácsadó aláírásával igazolja. A napló kötelező tartalma: a szerződés száma, a TSzK, a szaktanácsadó, valamint az ügyfél neve, regisztrációs száma, a szolgáltatás helye, időpontja, időtartama, módja, a szolgáltatás – 1. számú mellékletben meghatározott – kódszáma és rövid leírása. A TSzK köteles a naplót öt évig megőrizni, és ellenőrzés esetén bemutatni. A TSzK a napló másodpéldányát az ügyfél rendelkezésére bocsátja.
 
@@ -35,7 +35,7 @@ d) október 1–31.
 [^27]: A 8. § (2) bekezdése a 17/2008. (II. 19.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokra is alkalmazni kell.
 [^28]: A 8. § (3) bekezdése a 96/2008. (VII. 25.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^29]: A 8. § (4) bekezdése a 90/2007. (VIII. 23.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^30]: A 8. § (5) bekezdése a 168/2009. (XII. 15.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^30]: A 8. § (5) bekezdése a 168/2009. (XII. 15.) FVM rendelet 4. § (2) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (15) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^31]: A 8. § (6) bekezdése a 96/2008. (VII. 25.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^32]: A 8. § (7) bekezdése a 168/2009. (XII. 15.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^33]: A 8. § (8) bekezdése a 96/2008. (VII. 25.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
