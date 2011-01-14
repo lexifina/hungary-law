@@ -48,9 +48,9 @@ i) érzékszervi vizsgálat,
 
 j) malvidin-diglükozid-tartalom (vörösborok esetén).
 
-(6) A minősítési bizonyítványt a borászati hatóság a legalább két litert kitevő borminta benyújtását követő 22. munkanapon adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben.
+(6)[^3] A minősítési bizonyítványt a borászati hatóság a legalább két litert kitevő borminta benyújtását követő 30 napon belül adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben.
 
-(7) A (3) bekezdés c) pontja szerinti hatósági bizonyítványt a borászati hatóság a kérelem benyújtását követő 22. munkanapon adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben. A hatósági bizonyítvány iránti kérelemhez mellékelni kell:
+(7)[^4] A (3) bekezdés c) pontja szerinti hatósági bizonyítványt a borászati hatóság a kérelem benyújtását követő 30 napon belül adja ki, a kérelmező előzetes nyilatkozatának megfelelően személyesen (a hatóság székhelyén) vagy levélben. A hatósági bizonyítvány iránti kérelemhez mellékelni kell:
 
 a) a szerződésben foglalt bor teljes mennyiségére vonatkozó bor származási bizonyítványok másolatait, összevont bor származási bizonyítvány esetében kiegészítve azokkal a bor származási bizonyítvány másolatokkal is, amelyek alapján az összevont bor származási bizonyítvány kiállításra került,
 
@@ -58,7 +58,7 @@ b) az a) pont szerinti bor származási bizonyítványokhoz tartozó szőlő sz�
 
 c) a szerződésben foglalt bor teljes mennyiségére vonatkozóan a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló rendelet szerinti pincekönyv Hitelesítési részének és Termék-előállítás nyilvántartó lapjának másolatát,
 
-d)[^2]
+d)[^5]
 
 e) amennyiben a szerződésben foglalt bor bértárolásban van, úgy a bértárolásra vonatkozó szerződés másolatát.
 
@@ -74,4 +74,6 @@ d) a borászati hatóság által kiállított minősítési bizonyítvány alapj
 
 (9) Támogatás csak a szőlő, illetve bor származási bizonyítvány alapján megállapított területnagyságra nyújtható.
 
-[^2]: A 4. § (7) bekezdés d) pontját a 14/2010. (II. 23.) FVM rendelet 19. § (2) bekezdése hatályon kívül helyezte, azzal, hogy e hatályon kívül helyező rendelkezést a 2010. február 5-től benyújtott hatósági bizonyítvány iránti kérelmek alapján indult eljárásokban is alkalmazni kell.
+[^3]: A 4. § (6) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (42) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (7) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (42) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^5]: A 4. § (7) bekezdés d) pontját a 14/2010. (II. 23.) FVM rendelet 19. § (2) bekezdése hatályon kívül helyezte, azzal, hogy e hatályon kívül helyező rendelkezést a 2010. február 5-től benyújtott hatósági bizonyítvány iránti kérelmek alapján indult eljárásokban is alkalmazni kell.

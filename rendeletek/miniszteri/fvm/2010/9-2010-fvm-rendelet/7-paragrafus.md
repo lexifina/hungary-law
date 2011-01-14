@@ -16,4 +16,6 @@ b) a Jöt. által előírt, a szerződésben foglalt borok lepárlására vonatk
 
 (6) A borászati hatóság a lepárlás időszakában legalább havonta egy alkalommal a lepárlóüzem telephelyén ellenőrzést végez. Az ellenőrzésnek a lepárlással előállított bordesztillátumnak vagy borpárlatnak a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben meghatározott feltételeknek való megfelelőségére kell vonatkoznia.
 
-(7) A borászati hatóság a (6) bekezdés szerinti ellenőrzések eredményét tartalmazó jegyzőkönyveket vagy hivatalos feljegyzéseket az ellenőrzés elvégzését követő 5 munkanapon belül megküldi az MVH PKI részére.
+(7)[^8] A borászati hatóság a (6) bekezdés szerinti ellenőrzések eredményét tartalmazó jegyzőkönyveket vagy hivatalos feljegyzéseket az ellenőrzés elvégzését követő 8 napon belül megküldi az MVH PKI részére.
+
+[^8]: A 7. § (7) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (42) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
