@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-44-20-8
 | 2010-03-19 | 2007-44-20-82.3 | 23/2010. (III. 16.) FVM rendelet |
 | 2010-07-30 | 2007-44-20-82.4 | 219/2010. (VII. 27.) Korm. rendelet |
 | 2010-07-31 | 2007-44-20-82.5 | 8/2010. (VII. 30.) VM rendelet |
+| 2011-01-14 | 2007-44-20-82.6 | 8/2010. (VII. 30.) VM rendelet |
