@@ -10,13 +10,13 @@ b) a Marcal medence Érzékeny Természeti Terület esetén a füves mezsgye kie
 
 (3) A program előírásai:
 
-a) a program első és utolsó gazdálkodási évében[^77] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
+a) a program első és utolsó gazdálkodási évében[^78] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése,
 
 b) a talajvizsgálati eredmények alapján tápanyag-gazdálkodási terv készítése és végrehajtása,
 
 c) a tápanyag-utánpótlás során a kijuttatott N-hatóanyag mértéke nem haladhatja meg a 90 kg/ha/év mennyiséget, amit istállótrágyával vagy zöldtrágya növény termesztésével lehet pótolni,
 
-d)[^78] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
+d)[^79] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
 
 e) gyomirtás csak mechanikai úton végezhető,
 
@@ -30,5 +30,5 @@ i) zöldségtermesztés esetén hazai nemesítésű fajták termesztése kötele
 
 (4) A támogatás mértéke a programba bevitt terület után 192,16 euró/ha.
 
-[^77]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
-[^78]: A 28. § (3) bekezdésének d) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (6) bekezdésével megállapított szöveg.
+[^78]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^79]: A 28. § (3) bekezdésének d) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (6) bekezdésével megállapított szöveg.

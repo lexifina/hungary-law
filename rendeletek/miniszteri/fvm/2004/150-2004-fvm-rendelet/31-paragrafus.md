@@ -42,10 +42,10 @@ c) kaszálás esetén:
 
 ca) nedves időszakban, amikor az élőhelyet károsíthatja, a kaszálás tilos,
 
-cb)[^83] a rétek (legelők) kaszálása során vadriasztó láncot kell alkalmazni, és csak természetvédelmi szempontból kedvező kaszálási módszerek alkalmazhatók (kaszálás a tábla közepétől kifelé haladva, a tábla szegélyeket utoljára kell lekaszálni).
+cb)[^84] a rétek (legelők) kaszálása során vadriasztó láncot kell alkalmazni, és csak természetvédelmi szempontból kedvező kaszálási módszerek alkalmazhatók (kaszálás a tábla közepétől kifelé haladva, a tábla szegélyeket utoljára kell lekaszálni).
 
 (4) A támogatás mértéke a programba bevitt terület után 58,82 euró/ha.
 
 (5) A támogatási kérelemhez mellékelni kell azt az igazolást, mely tanúsítja, hogy a célprogramba bevinni kívánt gyepterület Magyarországon elismert ökológiai ellenőrző és tanúsító szervezet nyilvántartásában szerepel.
 
-[^83]: A 31. § (3) bekezdés c) pont cb) alpontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^84]: A 31. § (3) bekezdés c) pont cb) alpontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.

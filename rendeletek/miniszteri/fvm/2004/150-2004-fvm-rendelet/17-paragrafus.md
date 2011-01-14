@@ -34,15 +34,15 @@ c) nem tett eleget a 11. § (1) bekezdésének a) pontjában foglaltaknak, és a
 
 (12) A 11. § (1) bekezdésének a) pontja alapján a területcsökkenéssel érintett terület nagyságához, valamint a 11. § (8) bekezdése alapján a csökkentéssel érintett állatlétszám nagyságához kapcsolódó korábban igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül, amely az adott gazdálkodási év támogatási összegéből történő levonással is teljesíthető.
 
-(13) Nem minősülnek jogosulatlanul igénybe vett támogatásoknak a területcsökkenést eredményező vis maior eseteken túl az alábbi esetek, melyeket az ügyfélnek minden esetben hatósági igazolással vagy az ügyben eljáró más szerv által kiadott irattal kell bizonyítania az MVH felé a jogerőre emelkedett határozat kézhezvételétől számított tíz munkanapon belül:
+(13)[^49] Nem minősülnek jogosulatlanul igénybe vett támogatásoknak a területcsökkenést eredményező vis maior eseteken túl az alábbi esetek, melyeket az ügyfélnek minden esetben hatósági igazolással vagy az ügyben eljáró más szerv által kiadott irattal kell bizonyítania az MVH felé a jogerőre emelkedett határozat kézhezvételétől számított tizenöt napon belül:
 
 a) a földterület állami kisajátítása (útépítés, gátépítés stb.), amennyiben az a kötelezettségvállalás időpontjában nem volt előre látható,
 
 b) osztatlan közös tulajdon kimérése után – a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 63/2005. (IV. 8.) Korm. rendelet 3. §-ának (4) bekezdésében meghatározott ok miatt – a földterület nem egyezik a korábbi földterület méretével.
 
-(14)[^49] Amennyiben a 15. § (4) bekezdése alapján meghatározott határidőn túl történik meg a hasznosítási kód módosítására, pontosítására vonatkozó kérelem benyújtása, úgy a határidőn túli módosítással érintett táblák után a gazdálkodó az adott gazdálkodási évben nem jogosult a támogatásra (P1 szankció).
+(14)[^50] Amennyiben a 15. § (4) bekezdése alapján meghatározott határidőn túl történik meg a hasznosítási kód módosítására, pontosítására vonatkozó kérelem benyújtása, úgy a határidőn túli módosítással érintett táblák után a gazdálkodó az adott gazdálkodási évben nem jogosult a támogatásra (P1 szankció).
 
-(15)[^50] Amennyiben a 15. § (7) bekezdésében foglaltaknak megfelelő hiánypótlási eljárás során megállapítható, hogy nem a 7. § (2)–(3) bekezdése szerinti földhasználó igényelte a támogatást, abban az esetben a gazdálkodó az adott gazdálkodási évben az érintett táblák után nem jogosult támogatásra (P1 szankció).
+(15)[^51] Amennyiben a 15. § (7) bekezdésében foglaltaknak megfelelő hiánypótlási eljárás során megállapítható, hogy nem a 7. § (2)–(3) bekezdése szerinti földhasználó igényelte a támogatást, abban az esetben a gazdálkodó az adott gazdálkodási évben az érintett táblák után nem jogosult támogatásra (P1 szankció).
 
 (16) Amennyiben a támogatásra jogosult a 796/2004/EK Bizottsági rendelet 68. cikkére hivatkozik az MVH eljárása során, abban az esetben az ezzel összefüggő bizonyítási kötelezettség őt terheli.
 
@@ -53,5 +53,6 @@ b) osztatlan közös tulajdon kimérése után – a részarány földkiadás so
 [^46]: A 17. § (6) bekezdését a 108/2009. (VIII. 14.) FVM rendelet 8. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^47]: A 17. § (10) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^48]: A 17. § (11) bekezdését az 51/2008. (IV. 24.) FVM rendelet 14. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^49]: A 17. § (14) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^50]: A 17. § (15) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^49]: A 17. § (13) bekezdés nyitó szövegrésze az 1/2011. (I. 11.) VM rendelet 1. § (9) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^50]: A 17. § (14) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^51]: A 17. § (15) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -8,19 +8,19 @@
 
 a) legalább 1 ha szántó terület az alábbi érzékeny természeti területeken: Dévaványa környéke, Békés-Csanádi sík, Mosoni sík, Hevesi sík, Dunavölgyi sík, Borsodi Mezőség,
 
-b)[^64] egy tábla mérete nem lehet nagyobb negyven hektárnál.
+b)[^65] egy tábla mérete nem lehet nagyobb negyven hektárnál.
 
 (3) A program előírásai:
 
-a) a program első és utolsó gazdálkodási évében[^65] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése;
+a) a program első és utolsó gazdálkodási évében[^66] bővített (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu elemekre kiterjedő) talajvizsgálat elvégzése;
 
 b) a talajvizsgálati eredmények alapján tápanyag-gazdálkodási terv készítése és végrehajtása;
 
 c) a tápanyag-utánpótlás során a kijuttatott N-hatóanyag mértéke nem haladhatja meg a 90 kg/ha/év mennyiséget;
 
-d)[^66] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
+d)[^67] magas környezetterhelési kockázattal járó, a 2. számú melléklet ac) pontjában meghatározott növényvédő szer hatóanyagok használata tilos.
 
-e) az alábbi vetésszerkezetre vonatkozó előírásokat a célprogramba bevitt területre[^67] vonatkozóan az öt éves támogatási időtartam alatt kell megvalósítani:
+e) az alábbi vetésszerkezetre vonatkozó előírásokat a célprogramba bevitt területre[^68] vonatkozóan az öt éves támogatási időtartam alatt kell megvalósítani:
 
 ea) minimum 20% gabona,
 
@@ -38,7 +38,7 @@ g) mélyművelés öt évente egyszer engedélyezett;
 
 h) sorközművelés csak május 1-je előtt engedélyezett;
 
-i)[^68] minimum hat méter széles növényvédő szer mentes táblaszegélyeket kell hagyni;
+i)[^69] minimum hat méter széles növényvédő szer mentes táblaszegélyeket kell hagyni;
 
 j) pillangós takarmánynövények esetén:
 
@@ -56,8 +56,8 @@ k) repce esetén a terület 10%-án a Nemzeti Park Igazgatóság írásos kijel�
 
 (4) A támogatás mértéke a programba bevitt terület után 250,98 euró/ha.
 
-[^64]: A 25. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
-[^65]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
-[^66]: A 25. § (3) bekezdésének d) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (3) bekezdésével megállapított szöveg.
-[^67]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
-[^68]: A 25. § (3) bekezdés i) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^65]: A 25. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^66]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^67]: A 25. § (3) bekezdésének d) pontja a 34/2005. (IV. 15.) FVM rendelet 11. §-ának (3) bekezdésével megállapított szöveg.
+[^68]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^69]: A 25. § (3) bekezdés i) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

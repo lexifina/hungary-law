@@ -1694,7 +1694,7 @@
 
 | P4 | Az elkövetett szabálytalanság esetén az érintett tábla az adott célprogram támogatási időszakának lejártáig a programból kizárásra kerül. |
 
-9. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^110]
+9. számú melléklet a 150/2004. (X. 12.) FVM rendelethez[^111]
 
 Célprogram váltási kérelmek részletes pontozási szempontrendszere
 
@@ -1730,4 +1730,4 @@ Célprogram váltási kérelmek részletes pontozási szempontrendszere
 
 * A 11. § (11) bekezdésében foglaltaknak megfelelően lehetséges csak a célprogram váltás.
 
-[^110]: A 9. számú mellékletet a 40/2006. (V. 24.) FVM rendelet 4. §-a iktatta be.
+[^111]: A 9. számú mellékletet a 40/2006. (V. 24.) FVM rendelet 4. §-a iktatta be.

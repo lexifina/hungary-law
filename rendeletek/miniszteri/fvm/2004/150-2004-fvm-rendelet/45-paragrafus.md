@@ -6,7 +6,7 @@
 
 a) a legkisebb támogatható terület 1 ha szántóterület,
 
-b)[^98] igazolás arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett,
+b)[^99] igazolás arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett,
 
 c) valamely szántóföldi célprogramban való részvétel (18–28. §-ban foglaltak alapján).
 
@@ -32,7 +32,7 @@ a) a programba bevitt terület után őszi vetésű növények esetében 39,22 e
 
 b) tavaszi vetésű növények esetében 98,04 euró/ha.
 
-(5)[^99] A támogatási kérelemhez mellékelni kell a területileg illetékes MgSzH igazolását arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett.
+(5)[^100] A támogatási kérelemhez mellékelni kell a területileg illetékes MgSzH igazolását arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett.
 
-[^98]: A 45. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
-[^99]: A 45. § (5) bekezdése az 51/2008. (IV. 24.) FVM rendelet 12. § (2) bekezdése, a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^99]: A 45. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^100]: A 45. § (5) bekezdése az 51/2008. (IV. 24.) FVM rendelet 12. § (2) bekezdése, a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.

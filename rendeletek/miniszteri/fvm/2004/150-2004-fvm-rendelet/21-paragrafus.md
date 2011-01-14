@@ -14,7 +14,7 @@ c) a terület Magyarországon elismert ökológiai ellenőrző és tanúsító s
 
 (3) A program előírásai:
 
-a) a program első és utolsó gazdálkodási évében[^58] teljes körű (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu, toxikus elemek: Cd, Cu, Ni, Pb, Zn, Hg, Cr, As elemekre kiterjedő) talajvizsgálat elvégzése,
+a) a program első és utolsó gazdálkodási évében[^59] teljes körű (pH, KA, vízben oldható sók, humusz, CaCO3, P2O5, K2O, NO2+NO3, Na, Mg, SO4, Mn, Zn, Cu, toxikus elemek: Cd, Cu, Ni, Pb, Zn, Hg, Cr, As elemekre kiterjedő) talajvizsgálat elvégzése,
 
 b) a talajvizsgálati eredmények alapján tápanyaggazdálkodási terv készítése és végrehajtása,
 
@@ -36,4 +36,4 @@ b) egyéb szántóföldi növények esetében a célprogramba bevitt terület ut
 
 (5) Azon kérelmezőknek, akinek valamely szántóterülete Magyarországon elismert ökológiai ellenőrző és tanúsító szervezetnél nyilvántartásban van, azoknak a támogatási kérelemhez mellékelni kell a Magyarországon elismert ökológiai ellenőrző és tanúsító szervezet igazolását arról, hogy a célprogramba bevinni kívánt szántóterület nincs a nyilvántartásukban.
 
-[^58]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
+[^59]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
