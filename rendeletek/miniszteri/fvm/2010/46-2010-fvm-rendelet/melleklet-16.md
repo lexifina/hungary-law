@@ -1,3 +1,3 @@
-16. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^12]
+16. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^13]
 
-[^12]: A 16. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 16. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.

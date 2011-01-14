@@ -64,6 +64,6 @@
 
 |  | Mindösszesen: |  |  |  |  | 5 | 2165 |  |  |  | 2 | 440,95 | 1367 | 1367 |  |
 
-22. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^18]
+22. melléklet a 46/2010. (IV. 27.) FVM rendelethez[^19]
 
-[^18]: A 22. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
+[^19]: A 22. melléklet az 53/2010. (V. 4.) FVM rendelet 1. §-ával megállapított szöveg.
