@@ -44,6 +44,6 @@
 
 ## 6. Képviseletre jogosult cégszerű aláírása
 
-6. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^63]
+6. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^64]
 
-[^63]: A 6. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^64]: A 6. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
