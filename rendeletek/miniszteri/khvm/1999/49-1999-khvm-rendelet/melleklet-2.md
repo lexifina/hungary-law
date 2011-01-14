@@ -604,4 +604,4 @@
 
 2. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^21]
 
-[^21]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg.
+[^21]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg. A 2. számú melléklet az 1/2011. (I. 11.) NFM rendelet 2. §-a szerint módosított szöveg.

@@ -2498,7 +2498,7 @@
 
 ## 4.2.5. A teljes mérőberendezést a mérés kezdetekor és végén hiteles zajforrás segítségével kalibrálni kell. Erre a célra alkalmasak pl. a mikrofon gyártója által gyártott, és hitelesített pistonfonok. A kalibrálás eredményét a regisztráló berendezésen is rögzíteni kell.
 
-## 4.2.6. A légijárművek zaj-minősítéséhez felhasznált mérőműszerek közül a mikrofont, az integráló zajszintmérő egységet és a kalibráló pistonfont a vonatkozó rendeletekben előírt időközönként az Országos Mérésügyi Hivatallal hitelesíttetni kell.[^*]
+## 4.2.6. A légijárművek zaj-minősítéséhez felhasznált mérőműszerek közül a mikrofont, az integráló zajszintmérő egységet és a kalibráló pistonfont a vonatkozó rendeletekben előírt időközönként a mérésügyi hatósággal hitelesíttetni kell.[^*]
 
 ## 4.2.7. A légijármű elhaladása során a teljes zaj-eseményt regisztrálni kell mindaddig, ameddig a gép a mérőpont előtt és után kb. 400 m-re tartózkodik. A kiértékelés során minden regisztrátumból ki kell keresni az átrepülés során mért LAmax maximális zajszintet. A méréseket a műszer „S” integrálási időállandójával kell végezni.
 
