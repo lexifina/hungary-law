@@ -1,3 +1,3 @@
-## 13. §[^1]
+## 13. §[^2]
 
-[^1]: A 13. §-t a 15. § hatályon kívül helyezte.
+[^2]: A 13. §-t a 15. § hatályon kívül helyezte.
