@@ -44,7 +44,7 @@ f) a kérelemben megjelölt terület növényegészségügyi alkalmasságát a s
 
 (9) Az engedély megszerzése a forgalmazási tevékenységhez szükséges egyéb feltételek teljesítése alól nem mentesít.
 
-(10)[^132] Az üzem 22 munkanapon belül köteles – a (3) bekezdés szerinti űrlapon, az (5) bekezdésben foglaltak egyidejű igazolásával – írásban jelenteni az MgSzH Központjának, ha az engedélyezett tevékenységén kívül az e rendelet hatálya alá eső egyéb tevékenységet folytat, vagy ha bejelentett adatai megváltoztak. Az MgSzH Központja az üzem adataiban történt változást a nyilvántartásban átvezeti.
+(10)[^132] Az üzem 30 napon belül köteles – a (3) bekezdés szerinti űrlapon, az (5) bekezdésben foglaltak egyidejű igazolásával – írásban jelenteni az MgSzH Központjának, ha az engedélyezett tevékenységén kívül az e rendelet hatálya alá eső egyéb tevékenységet folytat, vagy ha bejelentett adatai megváltoztak. Az MgSzH Központja az üzem adataiban történt változást a nyilvántartásban átvezeti.
 
 (11)[^133] Az engedélyes dughagyma- és fiókhagyma-termesztők a területükben bekövetkező változásokat tárgyév április 30-ig jelenthetik be az MgSzH Központja által rendszeresített és honlapján közzétett, a 10. számú melléklet szerinti adattartalmú bejelentőlapon.
 
@@ -57,6 +57,6 @@ f) a kérelemben megjelölt terület növényegészségügyi alkalmasságát a s
 [^129]: A 31. § (5) bekezdésének bevezető szövegrésze a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^130]: A 31. § (6) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^131]: A 31. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^132]: A 31. § (10) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) és j) pontja, a 183/2009. (XII. 30.) FVM rendelet 8. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^132]: A 31. § (10) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) és j) pontja, az 1/2011. (I. 11.) VM rendelet 1. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^133]: A 31. § új (11) bekezdését a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése iktatta be, egyidejűleg az eredeti (11) bekezdésének számozását (12) bekezdésre változtatta. A (11) bekezdés a 183/2009. (XII. 30.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^134]: A 31. § eredeti (11) bekezdésének számozását (12) bekezdésre változtatta a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése, szövege e módosító rendelet 19. § (2) bekezdésének f) pontja szerint módosított szöveg.

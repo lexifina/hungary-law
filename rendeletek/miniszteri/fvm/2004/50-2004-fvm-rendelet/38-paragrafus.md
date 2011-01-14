@@ -4,7 +4,7 @@ a) a továbbszaporítás során nem igazolt származású vagy alkalmatlannak mi
 
 b) a más célra fel nem használható alkalmatlan vetőmag és palánta megsemmisítését az előállító költségére elrendelheti.
 
-(2)[^159] Az MgSzH Központja elrendelheti a jogosulatlanul előállított vagy nem megfelelő minőségű szaporítóanyag hatósági zár alá vételét, amiről a szaporítóanyag tulajdonosát és a fajtajogosultat értesíti. A hatósági zár időtartama vetőmagnál 30 munkanap, amely indokolt esetben további 30 munkanappal meghosszabbítható. Palántánál a hatósági zár időtartama az MgSzH Központja által meghatározott, szakmailag indokolt időszak. A hatósági zár időtartama alatt a zár alá vett szaporítóanyag tételt elmozdítani nem szabad.
+(2)[^159] Az MgSzH Központja elrendelheti a jogosulatlanul előállított vagy nem megfelelő minőségű szaporítóanyag hatósági zár alá vételét, amiről a szaporítóanyag tulajdonosát és a fajtajogosultat értesíti. A hatósági zár időtartama vetőmagnál 45 nap, amely indokolt esetben további 45 nappal meghosszabbítható. Palántánál a hatósági zár időtartama az MgSzH Központja által meghatározott, szakmailag indokolt időszak. A hatósági zár időtartama alatt a zár alá vett szaporítóanyag tételt elmozdítani nem szabad.
 
 (3)[^160] Amennyiben a zár időtartama alatt a zárolási okot nem szüntetik meg, az MgSzH Központja a tétel minősítését megsemmisíti és az a továbbiakban szaporítóanyagként nem használható fel. Az MgSzH Központja a hatósági zárral kapcsolatos minden intézkedéséről okiratot állít ki.
 
@@ -19,7 +19,7 @@ b) a más célra fel nem használható alkalmatlan vetőmag és palánta megsemm
 (8)[^164] Az MgSzH Központja a rendelet előírásainak a kiskereskedelmi forgalomban nem megfelelő vetőmagtételeket zár alá veszi.
 
 [^158]: A 38. § (1) bekezdésének bevezető szövegrésze a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^159]: A 38. § (2) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^159]: A 38. § (2) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, az 1/2011. (I. 11.) VM rendelet 1. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^160]: A 38. § (3) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^161]: A 38. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (6) bekezdés b) pontja szerint módosított szöveg.
 [^162]: A 38. § (6) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.

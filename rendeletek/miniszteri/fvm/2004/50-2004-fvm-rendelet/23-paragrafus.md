@@ -12,7 +12,7 @@
 
 (6)[^96] Az elit és certifikált vetőmagtételek minősítését az MgSzH Központja külön jogszabály szerinti díj ellenében végzi.
 
-(7)[^97] A minősítés feltétele certifikált vetőmagnál a Magyar Köztársaságban vagy valamely más tagállamban történő előállítás esetén a hatósági szántóföldi minősítés megléte, harmadik országból származó importvetőmag esetén a hivatalos fajtaigazolás megléte. A hatósági minősítést a vetőmag előállítójának kell kérelmeznie az MgSzH Központjánál. Az MgSzH Központja a fémzárolást a bejelentést követő öt munkanapon belül elvégzi. Standard vetőmagnál csatolni kell a standard előállításért felelős nyilatkozatát a fajtaazonosságról és a fajtatisztaságról.
+(7)[^97] A minősítés feltétele certifikált vetőmagnál a Magyar Köztársaságban vagy valamely más tagállamban történő előállítás esetén a hatósági szántóföldi minősítés megléte, harmadik országból származó importvetőmag esetén a hivatalos fajtaigazolás megléte. A hatósági minősítést a vetőmag előállítójának kell kérelmeznie az MgSzH Központjánál. Az MgSzH Központja a fémzárolást a bejelentést követő 8 napon belül elvégzi. Standard vetőmagnál csatolni kell a standard előállításért felelős nyilatkozatát a fajtaazonosságról és a fajtatisztaságról.
 
 (8) A minősített vetőmagtétel addig hozható forgalomba, amíg a 3. és 4. számú mellékletben foglaltaknak megfelel.
 
@@ -28,6 +28,6 @@
 [^94]: A 23. § (3) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^95]: A 23. § (4) bekezdését a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
 [^96]: A 23. § (6) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^97]: A 23. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) és j) pontja, a 183/2009. (XII. 30.) FVM rendelet 8. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^97]: A 23. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) és j) pontja, az 1/2011. (I. 11.) VM rendelet 1. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^98]: A 23. § (9) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^99]: A 23. § (11) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
