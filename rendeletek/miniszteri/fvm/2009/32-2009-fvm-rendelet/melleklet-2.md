@@ -22,6 +22,6 @@
 
 ## 6. A termelő aláírása.
 
-2. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^21]
+2. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^24]
 
-[^21]: A 2. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
+[^24]: A 2. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.

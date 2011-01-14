@@ -20,6 +20,6 @@ e) az MVH által vezetett MVH 10032000-00281629- 00000017 Kárenyhítési lebony
 
 f) a rendelkezésre álló forrást meghaladó kárenyhítési igény esetén a forráshiány összegét és ennek alapján a kárenyhítő juttatás arányos csökkentésének javasolt mértékét,
 
-g)[^14] a termelők részére kifizetni javasolt kárenyhítő juttatás összegét az 1. § a)–d) és j) pontjaiban felsorolt kárfajták szerinti bontásban, a kifizetéssel érintett termelők számát és azok működési forma szerinti megoszlását.
+g)[^16] a termelők részére kifizetni javasolt kárenyhítő juttatás összegét az 1. § a)–d) és j) pontjaiban felsorolt kárfajták szerinti bontásban, a kifizetéssel érintett termelők számát és azok működési forma szerinti megoszlását.
 
-[^14]: A 9. § (3) bekezdés g) pontja a 116/2009. (VIII. 29.) FVM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 9. § (3) bekezdés g) pontja a 116/2009. (VIII. 29.) FVM rendelet 5. §-ával megállapított szöveg.

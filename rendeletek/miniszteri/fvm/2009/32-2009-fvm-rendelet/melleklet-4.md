@@ -50,6 +50,6 @@
 
 ## 6. A termelő aláírása.
 
-4. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^23]
+4. számú melléklet a 32/2009. (III. 31.) FVM rendelethez[^26]
 
-[^23]: A 4. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
+[^26]: A 4. számú melléklet a 116/2009. (VIII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
