@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-124-20-
 | --- | --- | --- |
 | 2009-10-23 | 2009-124-20-82.2 | 124/2009. (IX. 24.) FVM rendelet |
 | 2010-03-17 | 2009-124-20-82.3 | 21/2010. (III. 16.) FVM rendelet |
+| 2011-01-14 | 2009-124-20-82.4 | 1/2011. (I. 11.) VM rendelet |

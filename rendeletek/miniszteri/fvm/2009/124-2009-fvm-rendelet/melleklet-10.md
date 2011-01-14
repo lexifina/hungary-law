@@ -52,7 +52,7 @@
 
 | A munkanaplóban található adatokból a támogatási jogosultság nem egyértelműen megítélhető, illetve valamely támogatási egységre vonatkozóan a munkanapló határidőre nem került benyújtásra. | súlyos | erdő- részlet szintű | egyedi, mara- dandó |  |  |  |  |  |  |  |  |
 
-| 6. § (1) bekezdés h) pontja | A vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 10 munkanappal írásban értesíteni, a beavatkozás tervezett helyének és időpontjának megjelölésével. | A bejelentésnek az ügyfél nem vagy nem határidőben tett eleget. | közepes | erdő- részlet szintű | hosszú- távú |  |  |  |  |  |  |  |  |
+| 6. § (1) bekezdés h) pontja | A vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 15 nappal írásban értesíteni, a beavatkozás tervezett helyének és időpontjának megjelölésével. | A bejelentésnek az ügyfél nem vagy nem határidőben tett eleget. | közepes | erdő- részlet szintű | hosszú- távú |  |  |  |  |  |  |  |  |
 
 | 6. § (2) bekezdés | A célprogramok végrehajtása során vegyszer használata csak az alábbi esetekben és feltételekkel engedélyezett. | Nem megfelelő vegyszerhasználat történt. | súlyos | erdő- részlet szintű | mara- dandó |  |  |  |  |  |  |  |  |
 
