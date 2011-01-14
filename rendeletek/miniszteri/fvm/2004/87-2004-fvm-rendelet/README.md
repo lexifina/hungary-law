@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-87-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2004-87-20-82.5 | 87/2004. (V. 15.) FVM rendelet |
+| 2011-01-14 | 2004-87-20-82.6 | 88/2016. (XII. 29.) FM rendelet |

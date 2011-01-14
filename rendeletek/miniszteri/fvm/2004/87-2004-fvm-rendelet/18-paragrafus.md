@@ -1,4 +1,4 @@
-## 17. §[^3]
+## 17. §[^5]
 
 18. § (1) A 2004. május 1. és 2004. július 20. között levágott, exportált, illetve kiszállított állatokra vonatkozóan abban az esetben nyújtható támogatás, ha a mezőgazdasági termelő 2004. július 1. és 2004. július 20. közötti időszakban nyújtja be kérelmét. 2004. július 20-át követően megküldött kérelem esetén annak postára adási dátuma után levágott, exportált, illetve kiszállított állatokra adható támogatás.
 
@@ -8,4 +8,4 @@
 
 (4) A támogatási időszakonként támogatható minimális állatlétszám 1 egyed.
 
-[^3]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 225. pontja hatályon kívül helyezte.
+[^5]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 225. pontja hatályon kívül helyezte.
