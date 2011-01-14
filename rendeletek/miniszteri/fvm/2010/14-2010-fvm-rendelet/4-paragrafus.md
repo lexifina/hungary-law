@@ -12,4 +12,6 @@
 
 (6) A felvásárló kvótaéven belüli változása esetén a fennmaradó időszakra vonatkozóan a már leszállított tej mennyisége az éves kvótateljesítésbe beszámításra kerül. Ebben az esetben minden felvásárló, amely a tejtermelőtől az adott kvótaév alatt tejet vett át, köteles a 14. § (1) bekezdése szerinti kimutatást arra az időszakra vonatkozóan elkészíteni.
 
-(7) A tejtermelőnek meg kell győződnie arról, hogy a vele szerződéses jogviszonyban álló felvásárló rendelkezik-e az MVH általi elismeréssel. Az elismerést a felvásárló köteles a tejtermelőnek kérésére bemutatni. Ha a felvásárló elismerése visszavonásra kerül, az együttműködő szervezet az elismerés visszavonását a vele szerződéses jogviszonyban álló tejtermelővel huszonkettő munkanapon belül közli.
+(7)[^2] A tejtermelőnek meg kell győződnie arról, hogy a vele szerződéses jogviszonyban álló felvásárló rendelkezik-e az MVH általi elismeréssel. Az elismerést a felvásárló köteles a tejtermelőnek kérésére bemutatni. Ha a felvásárló elismerése visszavonásra kerül, az együttműködő szervezet az elismerés visszavonását a vele szerződéses jogviszonyban álló tejtermelővel harminc napon belül közli.
+
+[^2]: A 4. § (7) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (43) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
