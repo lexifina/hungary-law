@@ -16,4 +16,6 @@ g) az MJKSz közreműködésével elkészíti az útmutatót.
 
 (2) Az MgSzH Központ által működtetett országos számítógépes adatbázis tartalmazza a 21/2004/EK rendelet Mellékletének D. szakaszában meghatározott kötelezően nyilvántartott adatokat.
 
-(3) Az MgSzH Központ köteles a hozzá megküldött adatokat hét munkanapon belül a nyilvántartásban rögzíteni.
+(3)[^8] Az MgSzH Központ köteles a hozzá megküldött adatokat tíz napon belül a nyilvántartásban rögzíteni.
+
+[^8]: A 14. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

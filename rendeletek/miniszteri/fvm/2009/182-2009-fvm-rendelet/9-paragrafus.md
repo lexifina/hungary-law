@@ -2,7 +2,7 @@
 
 (2) A közzététel alapján a gyártók által benyújtott jelölőeszközök minőségét és a gyártóval szemben támasztott feltételek meglétét az MgSzH Központ a meghirdetett feltételek szerint megvizsgálja.
 
-(3) Az engedélyezett jelölőeszközöket és segédeszközöket, továbbá azok gyártóinak listáját az MgSzH Központ az FVM hivatalos lapjában és a www.enar.hu honlapon teszi közzé. A közzétételről az MgSzH Központ az engedélyezést követő 22 munkanapon belül intézkedik.
+(3)[^5] Az engedélyezett jelölőeszközöket és segédeszközöket, továbbá azok gyártóinak listáját az MgSzH Központ az FVM hivatalos lapjában és a www.enar.hu honlapon teszi közzé. A közzétételről az MgSzH Központ az engedélyezést követő 30 napon belül intézkedik.
 
 (4) Az állatok jelölésére kizárólag az MgSzH Központ által engedélyezett jelölőeszközök és segédeszközök használhatóak fel.
 
@@ -13,3 +13,5 @@
 (7) Jelölőeszközt állatból kivenni, más állatnál újra felhasználni tilos.
 
 (8) Mindkét állatfaj esetében tilos a másik állatfaj egyedi megjelölésére használt jelölőeszköz felhasználása.
+
+[^5]: A 9. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
