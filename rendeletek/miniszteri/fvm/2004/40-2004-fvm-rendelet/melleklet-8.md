@@ -48,7 +48,7 @@ a) előkészíti az állami elismerésre, annak elutasítására, illetve az ál
 
 b) ellátja az ülés előkészítésével és megtartásával összefüggő feladatokat,
 
-c)[^153] az ülések jegyzőkönyvei és a Fajtaminősítő Bizottság állásfoglalása alapján az ülést követő 22 munkanapon belül elkészíti a növényfajták állami elismerésére, annak elutasítására, meghosszabbítására, illetve az állami elismerés visszavonására vonatkozó határozatot,
+c)[^153] az ülések jegyzőkönyvei és a Fajtaminősítő Bizottság állásfoglalása alapján az ülést követő 30 napon belül elkészíti a növényfajták állami elismerésére, annak elutasítására, meghosszabbítására, illetve az állami elismerés visszavonására vonatkozó határozatot,
 
 d) a minisztérium hivatalos lapjában történő közzététel céljából a minisztérium részére megküldi a növényfajták állami elismerésével, annak elutasításával, meghosszabbításával vagy az állami elismerés visszavonásával kapcsolatos határozatát,
 
@@ -59,4 +59,4 @@ e) gondoskodik a Fajtaminősítő Bizottság által jóváhagyott fajtavizsgála
 [^150]: A 8. számú melléklet 2. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (9) bekezdésével megállapított szöveg.
 [^151]: A 8. számú melléklet 8. pontjának harmadik mondata a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^152]: A 8. számú melléklet 10. pontjának felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^153]: A 8. számú melléklet 10. pontjának c) alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^153]: A 8. számú melléklet 10. pont c) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

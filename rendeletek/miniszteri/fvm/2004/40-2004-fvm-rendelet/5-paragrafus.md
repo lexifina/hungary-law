@@ -4,11 +4,11 @@
 
 (3)[^16] Ha a bejelentés, illetve a szaporítóanyag a 4. és 5. számú mellékletben meghatározott határidő után érkezik be az MgSzH Központjához, úgy a vizsgálatokat csak a következő évben lehet megkezdeni.
 
-(4)[^17] Az MgSzH Központja a bejelentéseket a beérkezéstől számított 10 munkanapon belül szakmai és alaki szempontból elbírálja és nyilvántartásba veszi, ha a bejelentésre szolgáló nyomtatvány hiánytalanul tartalmazza a 4. § (2) bekezdésének a)–d) pontjaiban foglaltakat és a bejelentő csatolta a szükséges mellékleteket. Az MgSzH Központja a bejelentés nyilvántartásba vételét közli a bejelentővel.
+(4)[^17] Az MgSzH Központja a bejelentéseket a beérkezést követő naptól számított 15 napon belül szakmai és alaki szempontból elbírálja és nyilvántartásba veszi, ha a bejelentésre szolgáló nyomtatvány hiánytalanul tartalmazza a 4. § (2) bekezdésének a)–d) pontjaiban foglaltakat és a bejelentő csatolta a szükséges mellékleteket. Az MgSzH Központja a bejelentés nyilvántartásba vételét közli a bejelentővel.
 
 (5)[^18] A bejelentésre vonatkozó kérelmet az MgSzH Központja elutasítja, ha az a 4. § (2) bekezdésének i) pontjában foglaltak tekintetében hiányos és a hiánypótlásra történő felhívás kézhezvételétől számított 15 napon belül a bejelentő azt nem pótolja.
 
 [^15]: Az 5. § (2) bekezdésének első mondata a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^16]: Az 5. § (3) bekezdése a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^17]: Az 5. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (4) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^18]: Az 5. § (5) bekezdése a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja, a 183/2009. (XII. 30.) FVM rendelet 8. § (4) bekezdés b) pontja szerint módosított szöveg.
