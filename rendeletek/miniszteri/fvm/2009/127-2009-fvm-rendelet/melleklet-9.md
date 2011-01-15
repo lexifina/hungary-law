@@ -60,6 +60,6 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^62]
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^63]
 
-[^62]: A 9. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (9) bekezdése szerint módosított szöveg.
+[^63]: A 9. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (9) bekezdése szerint módosított szöveg.

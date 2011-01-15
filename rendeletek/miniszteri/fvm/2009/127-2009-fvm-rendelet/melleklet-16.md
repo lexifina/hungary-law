@@ -52,7 +52,7 @@
 
 | 18. | termelői pezsgő | pezsgő, minőségi pezsgő, illatos minőségi pezsgő (OEM) | – a terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő az OEM pezsgők gyártására szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^68]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^69]
 
 „A” rész
 
@@ -420,4 +420,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^68]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^69]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
