@@ -42,7 +42,7 @@ eb) ingatlan-nyilvántartási térkép másolatot (helyszínrajz),
 
 (5) A Vhr. 17. § (4) bekezdésétől eltérően a kérelem benyújtását megelőzően, de legkorábban a kérelem benyújtási évének január 1. napjától megkezdhető a kizárólag a Gépkatalógusban szereplő gép, berendezés megvásárlása, megrendelése.
 
-(6)[^1] A támogatási határozat közlését követően:
+(6)[^2] A támogatási határozat közlését követően:
 
 a) az ügyfél vagy annak alkalmazottja köteles az Új Magyarország Vidékfejlesztési Program keretében, e jogcím tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt,
 
@@ -50,4 +50,4 @@ b) mezőgazdasági termelő ügyfél esetén az ügyfél, TCs ügyfél esetén a
 
 c) a Vhr. 25. § (2) bekezdésétől eltérően az e rendelet alapján támogatott műveletet 3 éven belül meg kell valósítani.
 
-[^1]: A 4. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
