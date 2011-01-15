@@ -1,1 +1,0 @@
-## Diffúz források vizsgálata

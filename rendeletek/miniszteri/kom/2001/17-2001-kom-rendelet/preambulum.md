@@ -1,1 +1,0 @@
-A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. §-ának (8) bekezdésében kapott felhatalmazás alapján, az érdekelt miniszterekkel egyetértésben, a következőket rendelem el:
