@@ -1,1 +1,0 @@
-## 3. § Az Flt. 58. §-a (5) bekezdése d) pontjának 1–4. alpontjaiban meghatározott feltételek fennállását a kirendeltség különösen a nyilvántartásba vételt kérő személy nyilatkozata, továbbá az általa bemutatott iratok alapján állapítja meg.
