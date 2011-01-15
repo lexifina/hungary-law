@@ -38,7 +38,7 @@
 
 ## (7) Minden olyan napra vonatkozó napi középértéket érvényteleníteni kell, amely a nap folyamán a mérőrendszer hibás működése, vagy annak karbantartása miatt több mint három órás középértéket érvénytelenítettek.
 
-## (8)[^21] Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a (7) bekezdésben foglalt ok miatt, a környezetvédelmi hatóság kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása céljából.
+## (8)[^22] Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a (7) bekezdésben foglalt ok miatt, a környezetvédelmi hatóság kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása céljából.
 
 9. számú melléklet a 10/2003. (VII. 11.) KvVM rendelethez
 
@@ -58,4 +58,4 @@ Az éves összkibocsátás mértéke:
 
 – 2005. január 1. után legfeljebb 30 ezer t/év.
 
-[^21]: A 8. számú melléklet (8) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 8. számú melléklet (8) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

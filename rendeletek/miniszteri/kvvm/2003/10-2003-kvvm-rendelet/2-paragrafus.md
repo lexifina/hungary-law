@@ -38,5 +38,8 @@ k) kéntelenítési arány: a tüzelőberendezésben vagy annak kiegészítő be
 
 (3) Új tüzelőberendezés létesítésekor a (2) bekezdés alkalmazása szempontjából az 1998. július 11-e előtt már üzemelő berendezéseket figyelmen kívül kell hagyni.
 
+(4)[^3] E rendeletben a levegő védelméről szóló jogszabály értelmező rendelkezései alkalmazandóak.
+
 [^1]: 16/2001. (VII. 18.) KöM rendelet a hulladékok jegyzékéről.
 [^2]: 3/2002. (II. 22.) KöM rendelet a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről.
+[^3]: A 2. § (4) bekezdését az 5/2011. (I. 14.) VM rendelet 4. §-a iktatta be.
