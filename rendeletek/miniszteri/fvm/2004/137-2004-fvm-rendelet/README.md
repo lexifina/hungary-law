@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-137-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-05-27 | 2004-137-20-82.3 | 137/2004. (IX. 18.) FVM rendelet |
+| 2011-01-15 | 2004-137-20-82.4 | 5/2011. (I. 14.) VM rendelet |

@@ -3476,7 +3476,25 @@ Operatív célok:
 
 A kedvezőtlen természeti adottságokkal rendelkező területeken gazdálkodók támogatását az 1257/1999/EK Tanácsi rendelet 13-20. cikkelyei teszik lehetővé. A 14. cikkely előírja, hogy a kedvezőtlen adottságú területeken gazdálkodóknak kifizetett kompenzációs támogatást területi alapon (azaz a megművelt terület mérete szerint) kell folyósítani. A 15. cikkely azt írja elő, hogy a kompenzációs támogatás összegének elégségesnek kell lennie ahhoz, hogy hatékonyan járuljon hozzá a meglévő hátrányok kiegyensúlyozásához, ám a túlkompenzáció nem megengedett. Előírja továbbá azt is, hogy a kifizetések tükrözzék a természetes adottságokban, az egyedi környezeti problémákban és a termelési struktúrákban mutatkozó hátrányok súlyosságát.
 
-[^3]: Az 1. számú melléklet – e rendelet 1. § (2) bekezdése alapján – a Földművelésügyi és Vidékfejlesztési Értesítő 2004. évi 22. (2004. október 21-i) számában jelent meg.
+A gazdálkodóknak rendelkezniük kell egy bizonyos minimális földterülettel és be kell tartaniuk a környezetvédelem, illetve a falusi tájak megőrzésének szempontjait szem előtt tartó „helyes gazdálkodási gyakorlat” előírásait. Vállalniuk kell továbbá azt is, hogy az első kompenzációs támogatás kifizetésétől számított legalább öt évig a gazdálkodást folytatják. A kompenzációs kifizetések összegének megállapítása olyan módszerrel történik, amely a túlkompenzációt megakadályozza, ám hatékonyan járul hozzá a meglévő hátrányok enyhítéséhez (1257/1999/EK Tanácsi Rendelet, 15. cikkely).
+
+Az intézkedés a következő prioritások megvalósulását segíti elő:
+
+1. a mezőgazdasági tevékenységek fenntartása és fejlesztése, ezáltal kiegészítő jövedelem és munkahely teremtése különös tekintettel azon gazdálkodók számára, akik kedvezőtlen termőhelyi adottságú területeken gazdálkodnak,
+
+A Helyes Gazdálkodási Gyakorlatban meghatározott kezelési előírások betartásával az intézkedés hozzájárul a felhagyott földterületek újrahasznosításához, és ezáltal jövedelemkiegészítést biztosít a kedvezőtlen adottságú területeken a mezőgazdasági tevékenységet fenntartó gazdálkodók részére.
+
+2. a termőhelyi adottságokhoz és a piaci viszonyokhoz jobban igazodó termelési szerkezet kialakításának támogatása,
+
+Az intézkedés hozzájárul a termelési szerkezet átalakításához azzal, hogy támogatja a kedvezőtlen termőhelyi adottságokhoz alkalmazkodó, piaci jelentőséggel bíró különleges (gyakran veszélyeztetett) fajták extenzív tartását és takarmányozását.
+
+3. a termelők gazdasági életképességének, pénzügyi helyzetének és piaci pozícióinak javítása.
+
+A kompenzációs kifizetések hozzájárulnak a termelés pénzügyi helyzetének javulásához és jövedelmezőségéhez, és hozzájárul a gazdasági tevékenységek fenntartásához ezeken a területeken.
+
+4.2.5. Az intézkedés hatásköre
+
+[^3]: Az 1. számú melléklet – e rendelet 1. § (2) bekezdése alapján – a Földművelésügyi és Vidékfejlesztési Értesítő 2004. évi 22. (2004. október 21-i) számában jelent meg. Az 1. számú melléklet az 5/2011. (I. 14.) VM rendelet 5. §-a szerint módosított szöveg.
 [^1.]: Az NVT-ben a „mezőgazdaság” kifejezésbe az 1992. január 1. óta érvényben lévő osztályozásnak megfelelően beleértendő a mezőgazdaság, az erdészet, a vadgazdálkodás és a halgazdálkodás (azaz a nemzetgazdaság A és B szektorai).
 [^5.]: A vidéki térségek lehatárolása az OECD-ben használt módon történt: – alapvetően vidéki térség: az a térség, ahol a lakosság több mint 50%-a 120 fő/km2 alatti népsűrűségű (vidéki) településen él; – jellemzően vidéki térség: az a térség, ahol a lakosság 5–50%-a 120 fő/km2 alatti népsűrűségű (vidéki) településen él; – alapvetően városi térség: az a térség, ahol a lakosság kevesebb mint 15%-a él 120 fő/km2 alatti népsűrűségű településen.
 [^6.]: Foglalkoztatott: az a 15–74 éves személy, aki alkalmazottként, szövetkezet vagy társas vállalkozás tagjaként, egyéni vállalkozóként, segítő családtagként a megfigyelt héten legalább 1 órányi, jövedelmet biztosító munkát végzett, illetve rendelkezett olyan munkahellyel, ahonnan átmenetileg volt távol, illetve sorkatonai szolgálatot teljesített (KSH). A foglalkoztatottsági statisztika az adatforrások és a módszerek különbözősége miatt eltérő számszaki eredményeket mutat ki, ezért ezeket az adatokat jelzésértékkel kezeljük.
