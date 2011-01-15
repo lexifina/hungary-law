@@ -6,11 +6,10 @@
 
 (3) A közút lakott területen kívüli szakasza esetében a külterületre vonatkozó előírásokat kell alkalmazni.
 
-(4)[^52] A közút kezelője új autópálya, autóút, egy- és kétszámjegyű országos közút esetén a hozzájárulást megtagadja, amennyiben a kérelem a külön jogszabályban[^53] felsorolt építményeknek a közút kijelölt védelmi övezetében történő elhelyezésére irányul.
+(4)[^52] A közút kezelője új autópálya, autóút, egy- és kétszámjegyű országos közút esetén a hozzájárulást megtagadja, ha a kérelem a levegő védelméről szóló jogszabályban felsorolt építményeknek, az ott meghatározott távolságon belüli elhelyezésére irányul.
 
-(5)[^54]
+(5)[^53]
 
 [^51]: Az R. 31. §-a a 104/1999. (VII.6.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^52]: Az R. 31. § (4) bekezdését a 47/2004. (III. 18.) Korm. rendelet 38. §-ának (3) bekezdése iktatta be, e módosító rendelet 38. §-ának (1) bekezdése alapján a rendelkezést az első fokon még el nem bírált ügyekben is alkalmazni kell.
-[^53]: 21/2001. (II. 14.) Korm. rendelet a levegő védelmével kapcsolatos egyes szabályokról, 6. § (5) bekezdése.
-[^54]: Az R. 31. § (5) bekezdését a 47/2004. (III. 18.) Korm. rendelet 38. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 77. pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^52]: Az R. 31. § (4) bekezdését a 47/2004. (III. 18.) Korm. rendelet 38. §-ának (3) bekezdése iktatta be, szövege a 306/2010. (XII. 23.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.
+[^53]: Az R. 31. § (5) bekezdését a 47/2004. (III. 18.) Korm. rendelet 38. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 77. pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
