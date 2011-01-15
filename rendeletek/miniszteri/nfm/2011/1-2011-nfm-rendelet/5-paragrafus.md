@@ -1,1 +1,3 @@
-## 4. § A Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (V. 13.) KM rendelet módosításáról szóló 47/2005. (VI. 29.) GKM rendelet 2. § (1) bekezdésében a „Magyar Kereskedelmi Engedélyezési Hivatal” szövegrész helyébe a „mérésügyi és műszaki biztonsági hatóság” szöveg, 2. § (2) bekezdésében a „Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága” szövegrész helyébe a „közlekedési hatóság” szöveg, a 2. § (3) bekezdésben a „Magyar Bányászati és Földtani Hivatal” szövegrész helyébe a „bányafelügyelet” szöveg lép.
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
