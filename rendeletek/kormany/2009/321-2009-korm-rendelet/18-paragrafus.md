@@ -1,4 +1,4 @@
-## 17. §[^34]
+## 17. §[^46]
 
 ## Engedély nélkül nyújtott szociális szolgáltatások
 
@@ -14,7 +14,7 @@ soron kívül – szükség szerint az 5. § (3) bekezdése szerinti hatóságok
 
 (3) Ha a működést engedélyező szerv megállapítja, hogy szociális szolgáltatást engedély nélkül nyújtanak, bírságot szab ki, és
 
-a)[^35] felszólítja a működtetőt, hogy a felszólítás közlésétől számított tizenöt napon belül kérelmezze a működési engedély kiadását, ha a szolgáltatás eleget tesz a működési engedély kiadásához szükséges, külön jogszabályban meghatározott személyi és tárgyi feltételeknek, vagy a feltételek tizenöt napon belül biztosíthatók,
+a)[^47] felszólítja a működtetőt, hogy a felszólítás közlésétől számított tizenöt napon belül kérelmezze a működési engedély kiadását, ha a szolgáltatás eleget tesz a működési engedély kiadásához szükséges, külön jogszabályban meghatározott személyi és tárgyi feltételeknek, vagy a feltételek tizenöt napon belül biztosíthatók,
 
 b) az ügynek az ellátottak szempontjából előnyös rendezése érdekében a működési engedély kiadásához szükséges feltételek megteremtéséről és az ideiglenes működés feltételeiről a működtetővel hatósági szerződést köthet,
 
@@ -30,5 +30,5 @@ a) a (3)–(4) bekezdés szerinti jogerős, illetve fellebbezésre való tekinte
 
 b) a (3) bekezdés b) pontja szerinti hatósági szerződést megküldi az ellátásra köteles helyi önkormányzatnak és az ellátottjogi képviselőnek, valamint értesíti őket a hatósági szerződésben foglalt jogkövetkezmények jogerőssé válásáról.
 
-[^34]: A 17. §-t és az azt megelőző alcímet a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^35]: A 18. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^46]: A 17. §-t és az azt megelőző alcímet a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^47]: A 18. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés h) pontja szerint módosított szöveg.

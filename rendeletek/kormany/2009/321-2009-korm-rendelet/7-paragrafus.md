@@ -16,7 +16,7 @@ ad) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 ae) be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának csökkentése miatt, ha ez intézményi jogviszony megszüntetésével nem jár,
 
-af)[^12] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
+af)[^18] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
 
 b) az a) pontban nem említett esetben azt megelőzően kell kérelmezni, hogy a szociális szolgáltatót, intézményt elkezdenék a módosítás iránti kérelemben foglaltaknak megfelelően működtetni.
 
@@ -46,7 +46,7 @@ b) az 5. § (3) bekezdésének b)–d) pontja, továbbá – ha a hatáskörüke
 
 c) az 5. § (3) bekezdésének e) pontja szerinti szakhatóság, ha egyházi vagy nem állami fenntartású, ápolást, gondozást nyújtó intézmény tanköteles korú vagy annál fiatalabb fogyatékos személyeket kíván ellátni,
 
-d)[^13] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
+d)[^19] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
 
 e) az a szakhatóság, amely a hozzájárulását a korábbiakban határozott időre adta meg, ha a fenntartó az ideiglenes működési engedély határozatlan vagy határozott idejűre történő módosítását, illetve hatályának meghosszabbítását kéri.
 
@@ -72,5 +72,5 @@ b) a működési engedélynek a módosítást követően hatályos valamennyi ad
 
 (12) Ha a működést engedélyező szerv tudomására jutott tény vagy adat alapján kétséges, hogy a szociális szolgáltató, intézmény a kérelemmel nem érintett, jogszabályokban meghatározott feltételeket teljesíti, a működést engedélyező szerv egyéb működési feltételeket is megvizsgálhat, azokkal kapcsolatban bizonyítási eljárást folytathat le, szükség esetén az 5. § (3) bekezdése szerinti hatóságokat is bevonhatja, továbbá – ha jogsértést állapít meg, a kérelemmel érintett változások és a jogsértés jellegétől függően – erre hivatkozva a kérelmet elutasíthatja, illetve alkalmazhatja a 13. § szerinti jogkövetkezményeket.
 
-[^12]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
-[^13]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
+[^19]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja szerint módosított szöveg.

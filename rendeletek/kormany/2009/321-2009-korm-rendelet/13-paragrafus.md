@@ -10,7 +10,7 @@ d) a b)–c) pontban nem említett esetben a működési engedélyt visszavonja,
 
 e) az a)–b) és d) pontban nem említett jogsértés esetén a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
 
-ea)[^24] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
+ea)[^32] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
 
 eb) az ea) alpont szerinti felszólítással egyidejűleg – ha az ellátottak Szt. szerinti jogainak megóvása érdekében szükséges – legfeljebb a hiányosság vagy más jogsértés megszüntetéséig, illetve a jogszerű működés helyreállításáig megtilthatja újabb ellátottak felvételét,
 
@@ -18,19 +18,19 @@ ec) az ügynek az ellátottak, az ellátási érdek és a fenntartó szempontjá
 
 ed) a működési engedélyt az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően a b) pontban foglaltakon túl hivatalból módosíthatja, ha a fenntartó elmulasztotta kérni a működési engedély módosítását;
 
-f) a 14. §-ban meghatározott esetben szociális igazgatási bírságot (a továbbiakban: bírság) szabhat ki.
+f)[^33] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
 
-(2) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának van helye
+(2)[^34] A Ket. 94. § (2) bekezdés b) pontja alkalmazásának van helye
 
-a) az (1) bekezdés b)–d) pontjában és eb) alpontjában foglalt jogkövetkezmények esetén;
+a) az (1) bekezdés b)–d) pontjában és e) pont eb) alpontjában foglalt jogkövetkezmények esetén;
 
-b) bírság kiszabása esetén a 14. § (1) bekezdésének
+b) bírság kiszabása esetén
 
-ba) a), d)–e) és i)–k) pontja szerinti esetben,
+ba) az Szt. 92/L. § (1) bekezdés b), e) és i)–k) pontja szerinti esetben,
 
-bb) f)–g) pontja szerinti esetben, ha az ellátottnak, törvényes képviselőjének, hozzátartozójának vagy a térítési díjat, illetve az egyszeri hozzájárulást megfizető személynek az Szt. szerinti jogai sérülnek.
+bb) az Szt. 92/L. § (1) bekezdés d) pontja szerinti esetben e rendelet 8. § (1) bekezdés a) és b) pontja, valamint (3)–(5) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt,
 
-bc)[^25]
+bc) az Szt. 92/L. § (1) bekezdés f) és g) pontja szerinti esetben, ha az ellátottnak, törvényes képviselőjének, hozzátartozójának vagy a térítési díjat, illetve az egyszeri hozzájárulást megfizető személynek az Szt. szerinti jogai sérülnek.
 
 (3) A fenntartó kérelmére az (1) bekezdés ea) alpontja szerinti határidő indokolt esetben egyszer, legfeljebb két hónappal meghosszabbítható. Ha a fenntartó a megjelölt határidőben nem igazolja, hogy a felszólításban foglaltaknak eleget tett, vagy a felszólításban foglaltak teljesítésének megállapítása érdekében egyébként szükséges, a működést engedélyező szerv utóellenőrzést tart. Ha a fenntartó a megjelölt határidőben nem intézkedik a szabályszerű működés megteremtése érdekében, a működést engedélyező szerv a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
 
@@ -54,7 +54,7 @@ i) a működési engedélyt az ellenőrzés során megállapított tényeknek é
 
 j) egyházi és nem állami fenntartású bentlakásos intézmény esetén az Szt. szerint határozhat a normatív állami hozzájárulás visszatartásáról,
 
-k) a 14. §-ban meghatározott esetben bírságot szabhat ki.
+k)[^35] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
 
 (4) A jogsértés jellegének, súlyának megfelelően egyidejűleg több jogkövetkezmény is megállapítható.
 
@@ -70,8 +70,10 @@ k) a 14. §-ban meghatározott esetben bírságot szabhat ki.
 
 (10) A működést engedélyező szerv a nappali melegedő, az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása esetén a téli időszakban az (1) bekezdés eb) alpontja, valamint a (3) bekezdés c), e)–f) és h) pontja szerinti jogkövetkezményeket akkor alkalmazhatja, ha az intézmény személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét vagy egészségét veszélyezteti, illetve más alapvető jogát sérti.
 
-(11)[^26] Nem állapítható meg jogkövetkezmény, ha a Hivatal ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és a Hivatal még nem intézkedett.
+(11)[^36] Nem állapítható meg jogkövetkezmény, ha a Hivatal ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és a Hivatal még nem intézkedett.
 
-[^24]: A 13. § (1) bekezdés e) pont ea) alpontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés n) pontja szerint módosított szöveg.
-[^25]: A 13. § (2) bekezdés b) pont bc) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^26]: A 13. § (11) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^32]: A 13. § (1) bekezdés e) pont ea) alpontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^33]: A 13. § (1) bekezdés f) pontja a 357/2010. (XII. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^34]: A 13. § (2) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^35]: A 13. § (3) bekezdés k) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 13. § (11) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
