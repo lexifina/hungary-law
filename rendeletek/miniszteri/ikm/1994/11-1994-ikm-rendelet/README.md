@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-11-20-6
 | 2010-03-05 | 1994-11-20-6A.12 | 10/2010. (III. 2.) NFGM rendelet |
 | 2010-05-01 | 1994-11-20-6A.13 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2011-01-01 | 1994-11-20-6A.14 | 26/2010. (XII. 31.) NGM rendelet |
+| 2011-01-15 | 1994-11-20-6A.15 | 1/2011. (I. 14.) NGM rendelet |
