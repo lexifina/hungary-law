@@ -1,0 +1,183 @@
+## A levegőterheltségi szint mérésének referencia-módszerei
+
+## 1. Referencia-módszerek
+
+## 1.1. Referencia-módszer a kén-dioxid vizsgálatára: ultraibolya fluoreszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14212:2005)
+
+## 1.2. Referencia-módszer a nitrogén-dioxid és nitrogén-oxidok vizsgálatára: kemilumineszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14211:2005)
+
+## 1.3.1. Referencia-módszer az ólom mintavételezésére: a lebegő por tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabvány szerint (MSZ EN12341:2001)
+
+## 1.3.2. Referencia-módszer az ólom vizsgálatára: atomabszorpciós spektrometriás módszer a vonatkozó szabvány szerint (MSZ EN 14902:2006)
+
+## 1.4. Referencia-módszer a PM10 mintavételére és mérésére: a lebegő porban a PM10 frakciójának tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabványok szerint (MSZ EN 12341:2001)
+
+## 1.5. Referencia-módszer a benzol meghatározására: gázkromatográfiás módszer a vonatkozó szabvány szerint (MSZ EN 14662 1–5:2005)
+
+## 1.6. Referencia-módszer a szén-monoxid meghatározására: nemdiszperzív infravörös spektroszkópiás módszer a vonatkozó szabvány szerint (MSZ EN 14626:2005)
+
+## 1.7. Referencia-módszer az ózon meghatározására: UV fotometriás módszerrel a vonatkozó szabvány szerint (MSZ EN 14625:2005)
+
+## 1.8. Referencia módszer az arzén, kadmium és nikkel meghatározására a levegőben: mintavétel (MSZ EN 12341:2001) és elemzés a vonatkozó szabvány szerint (MSZ EN 14902:2006)
+
+## 1.9. Referencia-módszer a levegő policiklusos aromás szénhidrogén tartalmának meghatározására: mintavétel (MSZ EN 12341:2001) és elemzés a vonatkozó szabvány szerint (MSZ ISO 12884:2003)
+
+## 1.10. Referencia-módszer a PM2,5 mintavételére és mérésére: a lebegő porban a PM2,5 frakciójának tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabványok szerint (MSZ EN 14907:2006)
+
+## 2. Az egyenértékűség kimutatása
+
+## Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely szorosan kapcsolódik a referencia módszerhez. Ebben az esetben az ilyen módszerrel elért eredményeket korrigálni kell annak érdekében, hogy egyenértékű eredményt kapjunk azzal, amit a referenciamódszerrel kaptunk volna.
+
+## 3. Egységesítés
+
+## A gáz-halmazállapotú légszennyező anyagok térfogatát 293 K hőmérsékletre és 101,3 kPa légnyomásra kell átszámolni A szálló por és a szálló porban lévő elemzendő anyagok mintatérfogatát a mérés időpontja szerinti hőmérséklet és légnyomás értelmében vett környezeti feltételek határozzák meg.
+
+## 4. Berendezésekre vonatkozó követelmények
+
+## 4.1. A jogszabály hatálybalépése után vásárolt valamennyi új mérőberendezésnek 2011. június 10-ig meg kell felelnie a referenciamódszernek vagy az azzal bizonyítottan egyenértékű módszernek.
+
+## 4.2 A helyhez kötött mérések során használt valamennyi berendezésnek 2013. június 10-ig meg kell felelnie a referenciamódszernek vagy az azzal bizonyítottan egyenértékű módszernek.
+
+## 5. Egy adott berendezésnek az 1. pontban felsorolt referenciamódszerekben meghatározott követelményeknek való megfelelését bizonyító típusjóváhagyás során az Országos Meteorológiai Szolgálat elfogadja a más EU tagállamok ilyen vizsgálatok végzésére az MSZ EN ISO/IEC 17025:2005 szabvány szerint akkreditált laboratóriumai által kibocsátott vizsgálati jelentéseket.
+
+8. melléklet a 6/2011. (I. 14.) VM rendelethez
+
+## Adatminőségi követelmények és a dokumentálás szempontjai
+
+1. Adatminőségi célkitűzések
+
+1.1. A benzolra, ólomra és a szálló porra vonatkozóan a folyamatos mérések helyett időszakos mérések is végezhetők, amennyiben igazolható, hogy a bizonytalanság – többek között az időszakos mintavétel okozta bizonytalanság – eléri a 25%-os minőségi célkitűzést, és a mérési időszak hosszabb, mint az indikatív mérésekre vonatkozó minimális mérési időszak. Az időszakos mintavételt az év folyamán egyenletesen kell elosztani az eredmények torzulásának elkerülése érdekében. Az időszakos mintavétel okozta bizonytalanságot az MSZ EN ISO 11222:2002 „Levegőminőség – a levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” című szabványban megállapított eljárással lehet meghatározni. Ha a PM10-határértékre vonatkozó követelményeket időszakos mérésekkel vizsgálják, akkor a 90,4 százalékos értéket (amely 50 μg/m3 vagy annál kevesebb) kell értékelni a túllépések száma helyett, amelyet erősen befolyásol az adatfedezet.
+
+1.2. A vizsgálati módszer elfogadható bizonytalansága (%) és az értékeléshez minimálisan szükséges adatmennyiség, adatrendelkezésre állás (%), valamint a minimálisan szükséges vizsgálati időtartam (%):
+
+|  |  | A | B | C | D | E |
+
+|  | 1 |  | Kén-dioxid, nitrogén-dioxid, nitrogén-oxidok és szén-monoxid | Benzol | Szálló por (PM10/PM2,5) és ólom | Ózon és az ózonnal kapcsolatos NO és NO2 |
+
+|  | 2 | Helyhez kötött mérések |  |  |  |  |
+
+|  | 3 | Bizonytalanság | 15% | 25% | 25% | 15% |
+
+|  | 3 | Minimális adat rendelkezésre állás | 90% | 90% | 90% | 90% nyáron 75% télen |
+
+|  | 4 | Minimális mérési időszak: – városi háttér és közlekedés – ipari helyszínek |  | 35% (Egy évre elosztva annak érdekében, hogy a különböző időjárási és közlekedési viszonyok vonatkozásában reprezentatív legyen.) 90% |  |  |
+
+|  | 5 | Indikatív mérések |  |  |  |  |
+
+|  | 6 | Bizonytalanság | 25% | 30% | 50% | 30% |
+
+|  | 7 | Minimális adat rendelkezésre állás | 90% | 90% | 90% | 90% |
+
+|  | 8 | Minimális mérési időszak | 14% (Az év folyamán egyenletesen elosztott heti egy véletlenszerű mérés vagy az év folyamán egyenletesen elosztott 8 hét.) | 14% (Az év folyamán egyenletesen elosztott heti egynapos véletlenszerű mérés vagy az év során egyenletesen elosztott 8 hét.) | 14% (Az év folyamán egyenletesen elosztott heti egy véletlenszerű mérés vagy az év folyamán egyenletesen elosztott 8 hét.) | >10% nyáron |
+
+|  | 9 | Modellezési bizonytalanság |  |  |  |  |
+
+|  | 10 | Órás átlagérték | 50% |  |  | 50% |
+
+|  | 11 | Nyolcórás átlagértékek | 50% |  |  | 50% |
+
+|  | 12 | Napi átlagértékek | 50% |  | még nem határozták meg |  |
+
+|  | 13 | Éves átlagértékek | 30% | 50% | 50% |  |
+
+|  | 14 | Objektív becslés |  |  |  |  |
+
+|  | 15 | Bizonytalanság | 75% | 100% | 100% | 75% |
+
+1.3. A vizsgálati módszerek bizonytalanságának (95%-os megbízhatósági szinttel kifejezve) vizsgálatát a CEN Útmutató a mérések bizonytalanságának megadásához (ENV 13005–1999) elveivel, az MSZ ISO 5725:1994 számú szabvány módszerével, valamint a CEN „Jelentés a levegőminőségről – A levegő mérési referenciamódszereihez kapcsolódó bizonytalansági becslés megközelítése” (CR 14377:2002E) című jelentésében foglalt útmutatóval összhangban kell elvégezni. Az 1.2. pontban a százalékos bizonytalansági értékek egyedi mérésekre vonatkoznak a határérték (illetve az ózon esetében a célérték) számítására alkalmazott időtartam átlagában, 95%-os megbízhatósági intervallumban. A helyhez kötött mérések bizonytalanságát úgy kell értelmezni, hogy az az adott határérték (illetve az ózon esetében a célérték) tartományában alkalmazandó.
+
+1.4. A modellezés bizonytalansága az egyes megfigyelési pontok 90%-a esetében mért és számított koncentrációs szintektől való legnagyobb, a határértékre – az ózon esetében a célértékre – vonatkozó eltérés, a vizsgált időtartamon belül, figyelmen kívül hagyva az események időzítését. A modellezés bizonytalanságát úgy kell értelmezni, hogy az az adott határérték – az ózon esetében a célérték – tartományában alkalmazandó. A modellezési eredményekkel való összehasonlításhoz kiválasztandó helyhez kötött méréseknek reprezentatívnak kell lenniük a modell által lefedett skála tekintetében.
+
+1.5. Az objektív becslés bizonytalansága a mért és számított koncentrációs szintektől való legnagyobb, a határértékre – az ózon esetében a célértékre – vonatkozó eltérés, a vizsgált időtartamon belül, figyelmen kívül hagyva az események időzítését.
+
+1.6. A minimális adat rendelkezésre állásra és mérési időszakra vonatkozó követelmények nem tartalmazzák a rendszeres kalibrálás vagy a műszerek karbantartása következtében bekövetkező adatvesztést.
+
+2. A levegőminőség vizsgálatának eredményei
+
+2.1. A következő információkat kell összegyűjteni azon zónák vagy agglomerációk vonatkozásában, ahol a mérésen kívül más forrásokat is alkalmaznak a mérésből származó információk kiegészítésére vagy a levegőminőség vizsgálatának kizárólagos eszközeként:
+
+2.1.1. az elvégzett vizsgálati tevékenységek leírása
+
+2.1.2. az alkalmazott konkrét módszerek és ezek leírása
+
+2.1.3. az adatok és információk forrásai
+
+2.1.4. az eredmények leírása, beleértve a bizonytalansági tényezőket és különösen bármely olyan terület kiterjedését vagy adott esetben annak az útnak a hosszát a zónán vagy agglomeráción belül, ahol a koncentráció túllép bármilyen határértéket, célértéket vagy adott esetben a tűréshatárral növelt hosszú távú célkitűzést, és annak a területnek a határait, amelyen belül a koncentráció túllépi a felső vagy az alsó vizsgálati küszöbértéket
+
+2.1.5. az emberi egészség védelme érdekében meghatározott határértéket túllépő bármely szintnek potenciálisan kitett népesség.
+
+3. A környezeti levegőminőség vizsgálatának minőségbiztosítása: adathitelesítés
+
+3.1. A mérések pontosságának és az 1. pontban meghatározott adatminőségi célkitűzéseknek való megfelelés biztosítása érdekében az Lvr. szerinti környezetvédelmi hatóságok biztosítják, hogy:
+
+3.1.1. a levegő minőségének a vizsgálatával kapcsolatosan végzett valamennyi mérés nyomon követhető legyen, az MSZ EN ISO/IEC 17025:2005 5.6.2.2. szakaszában meghatározott követelményeknek megfelelően
+
+3.1.2. a hálózatokat és egyedi mérőállomásokat működtető intézmények rendelkezzenek kidolgozott minőségbiztosítási és minőség-ellenőrzési rendszerrel, amelyek rendszeres karbantartást írnak elő a mérési eszközök pontosságának biztosítása érdekében
+
+3.1.3. az adatgyűjtési és jelentéstételi folyamatokra vonatkozóan minőség-ellenőrzési eljárást dolgozzanak ki, és hogy az erre a feladatra kijelölt intézmények aktívan részt vegyenek az ehhez kapcsolódó, a közösség egész területére kiterjedő minőségbiztosítási programokban
+
+3.1.4. az Európai Közösség egész területére kiterjedő, az Lvr. hatálya alá tartozó szennyező anyagokra vonatkozó kölcsönös összehasonlításokban részt vevő, az Lvr. szerinti környezetvédelmi hatóság által kinevezett nemzeti laboratóriumok az 5. mellékletben említett referencia-módszerek tekintetében az MSZ EN ISO/IEC 17025:2005 szabványnak megfelelően 2010-ig akkreditáltak legyenek. Ezeket a laboratóriumokat bevonják a Bizottság által szervezendő, a közösség egész területére kiterjedő minőségbiztosítási programoknak a tagállamok területén történő koordinálásába, és ezek a laboratóriumok koordinálják továbbá nemzeti szinten a referencia-módszerek megfelelő megvalósítását és a referencia-módszerektől eltérő eljárások egyenértékűségének kimutatását.
+
+3.2. Valamennyi, az Lvr. szerint jelentett adatot hitelesnek kell tekinteni, kivéve az ideiglenesként megjelölt adatokat.
+
+4. A vizsgálati módszer dokumentálásának szempontjai
+
+4.1. Azoknál a zónáknál vagy agglomerációknál, amelyeknél a mérések mellett vagy a vizsgálat kizárólagos eszközeként, a méréstől eltérő vizsgálati módszereket alkalmaznak, a levegőterheltségi szint értékeléséhez az alábbiakat is meg kell adni:
+
+4.1.1. az alkalmazott vizsgálati eljárás leírása;
+
+4.1.2. az alkalmazott módszer ismertetése a referenciára való hivatkozással;
+
+4.1.3. az adatok és információk forrásai;
+
+4.1.4. az eredmények bemutatása, beleértve a bizonytalanságot;
+
+4.1.5. a zónában vagy agglomerációban vizsgált területek bemutatása (amennyiben ez lényeges pl. a közút hossza), amelyeken a levegőterheltségi szint meghaladja a határértékeket, vagy a határértékeket és a tűréshatárokat, vagy a célértéket, vagy a hosszú távú célkitűzést, vagy a felső vizsgálati küszöbértékeket vagy az alsó vizsgálati küszöbértékeket;
+
+4.1.6. a levegőterheltségi szint egészségügyi határértékeit meghaladó levegőterheltségi szintnek potenciálisan kitett lakosság nagyságát.
+
+4.2. Az egyes zónákban és agglomerációkban a koncentráció-eloszlásokat lehetőség szerint térképes ábrázolással is be kell mutatni.
+
+5. A vizsgálati eredményeket 293 K hőmérsékletre és 101,3 kPa nyomásra kell vonatkoztatni.
+
+6. Az ózonra vonatkozó célértékek és hosszú távú célkitűzések adatainak összesítése. A statisztikai paraméterek kiszámítása során az érvényesség ellenőrzéséhez szükséges követelmények
+
+|  |  | A | B |
+
+|  | 1 | Paraméter | Szükséges érvényes adathányad |
+
+|  | 2 | 1 órás értékek | 75% (azaz 45 perc) |
+
+|  | 3 | 8 órás értékek | az értékek 75%-a (azaz 6 óra) |
+
+|  | 4 | A legmagasabb napi 8 órás középérték a 8 órás mozgóátlagok közül | a 8 órás mozgóátlagok 75%-a (azaz naponta 18 darab 8 órás átlag) |
+
+|  | 5 | AOT40 | 1. az AOT40-érték kiszámítására meghatározott időtartam 1 órás értékeinek 90%-a 2. amennyiben nem áll rendelkezésre valamennyi lehetséges mért adat, az AOT40-értékek kiszámítására a következő együtthatót kell használni: |
+
+| AOT40becsült=AOT40mért× | az összes lehetséges órák száma |  |
+
+| a mért óránkénti értékek száma |  |
+
+| 3. az AOT40 meghatározásában szereplő időtartamba eső órák száma (azaz a közép-európai idő szerint 8 és 20 óra között mért órák minden évben május 1-jétől július 31-ig a növényzet védelmének vonatkozásában, és minden évben április 1-jétől szeptember 30-ig az erdő védelmének vonatkozásában) |
+
+|  | 6 | Éves középérték | a nyáron (áprilistól szeptemberig) mért 1 órás értékek 75%-a és a télen (januártól márciusig, októbertől decemberig) mért 1 órás értékek 75%-a, külön |
+
+|  | 7 | A túllépések száma és a havi maximális értékek | a napi legmagasabb 8 órás középérték 90%-a (havonta 27 rendelkezésre álló napi érték) közép-európai idő szerint 8 és 20 óra között mért 1 órás értékek 90%-a |
+
+|  | 8 | A túllépések száma és az évi legnagyobb értékek | öt hónap a nyári időszak (áprilistól szeptemberig) hat hónapjából |
+
+7. Az egészségügyi határértékekkel kapcsolatos adatok összesítése és a statisztikai paraméterek kiszámítása során az érvényesség ellenőrzéséhez szükséges követelmények
+
+|  |  | A | B |
+
+|  | 1 | Paraméter | szükséges érvényes adathányad |
+
+|  | 2 | 1 órás értékek | 75% (azaz 45 perc) |
+
+|  | 3 | 8 órás értékek | az értékek 75%-a (azaz 6 óra) |
+
+|  | 4 | a legmagasabb napi 8 órás középérték | a 8 órás mozgóátlagok 75%-a (azaz naponta 18 darab 8 órás átlag) |
+
+|  | 5 | 24 órás értékek | az 1 órás értékek 75%-a (azaz legalább 18 darab 1 órás érték) |
+
+|  | 6 | éves középérték | az egész évben mért 1 órás értékek vagy (ha ez nem áll rendelkezésre) 24 órás értékek 90%-a (az éves középérték kiszámítására vonatkozó követelmények nem foglalja magában a kalibrálás vagy az eszközök szokásos karbantartása miatt bekövetkezett adatveszteséget) |
