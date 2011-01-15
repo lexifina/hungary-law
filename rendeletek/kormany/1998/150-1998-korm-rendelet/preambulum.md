@@ -1,1 +1,0 @@
-A köztisztviselők jogállásáról szóló – többször módosított – 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 80. §-a (1) bekezdésének i) és j) pontjaiban kapott felhatalmazás alapján a Kormány a következőket rendeli el:
