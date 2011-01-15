@@ -1,4 +1,4 @@
-1. számú melléklet a 7/2002. (III. 12.) BM rendelethez[^17]
+1. számú melléklet a 7/2002. (III. 12.) BM rendelethez[^19]
 
 KÖZSZOLGÁLATI ALAP- ÉS KÖZPONTI NYILVÁNTARTÁS ADATLAPJA
 
@@ -546,4 +546,4 @@ Rögzítette: ......................................................... Rögzít
 
 | Kitöltés időpontja: |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^17]: Az 1. számú melléklet a 7/2004. (III. 2.) BM rendelet 7. § (3) bekezdésének a)–b) és e) pontja szerint módosított szöveg. E módosító rendelet 8. § (3) bekezdése alapján az 1. számú mellékletnek a 2004. március 10-ig vezetett ,,Közszolgálati alap- és központi nyilvántartás adatlapja'' D jelölésű adatlap-oldalai változatlanul részei maradnak a közszolgálati alap- és központi nyilvántartásnak.
+[^19]: Az 1. számú melléklet a 7/2004. (III. 2.) BM rendelet 7. § (3) bekezdésének a)–b) és e) pontja szerint módosított szöveg. E módosító rendelet 8. § (3) bekezdése alapján az 1. számú mellékletnek a 2004. március 10-ig vezetett ,,Közszolgálati alap- és központi nyilvántartás adatlapja'' D jelölésű adatlap-oldalai változatlanul részei maradnak a közszolgálati alap- és központi nyilvántartásnak.

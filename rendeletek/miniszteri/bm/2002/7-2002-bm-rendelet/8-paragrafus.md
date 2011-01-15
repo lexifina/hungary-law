@@ -1,3 +1,5 @@
-## 7. § A köztisztviselők tartalékállományba helyezésével és az üres állások, valamint a pályázati felhívások nyilvános közzétételével összefüggő feladatok szakmai, technikai szabályait és teljesítési határidőit az e rendelet 4. számú mellékletét képező szabályzat tartalmazza.
+## 7. §[^11]
 
 ## Kiemelt Főtisztviselői Kar Közszolgálati Nyilvántartása
+
+[^11]: A 7. §-t a 292/2010. (XII. 22.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 10. § (2)–(3) bekezdését.
