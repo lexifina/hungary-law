@@ -4,7 +4,7 @@ a) a természet védelméről szóló 1996. évi LIII. törvény 80. § (1) beke
 
 b) a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 49. § (1) bekezdésében meghatározottak megsértése a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló 271/2001. (XII. 21.) Korm. rendelet 1. § (3) bekezdésének c)–g) pontjában és 2. § (2) bekezdésének b), c) és g) pontjában meghatározott esetek szerint;
 
-c) a levegő védelmével kapcsolatos egyes szabályokról szóló 21/2001. (II. 24.) Korm. rendelet 22. § (1) bekezdése alapján a rendelet 8. számú mellékletének 7., 14–17. és 19. pontjában meghatározott fordulatok szerint;
+c)[^1] a levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet (a továbbiakban: Lvr.) 34. § (1) bekezdése alapján az Lvr. 9. mellékletének 5–15., 18–22., 25. és 26. pontjában meghatározott fordulatok szerint;
 
 d) a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 36. § (1) bekezdés a)–b) pontja;
 
@@ -19,3 +19,5 @@ h) az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szó
 i) a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 14. § (2) bekezdés a) pontja, 17. § (1) bekezdése, 18. §-a és 26. § (1) bekezdésének a)–e) pontja;
 
 j) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet 23. § (2) bekezdése.
+
+[^1]: Az 1. § c) pontja az 5/2011. (I. 14.) VM rendelet 7. §-ával megállapított szöveg.
