@@ -17,4 +17,4 @@ d) a foglalkoztató a foglalkoztatási engedélyben megjelölt tevékenységi k�
 [^33]: Az 5. § a 174/2009. (VIII. 29.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
 [^34]: Az 5. § (2) bekezdés bevezető szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés a) pont aa) alpontja szerint módosított szöveg.
 [^35]: Az 5. § (3) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés a) pont ab) alpontja szerint módosított szöveg.
-[^36]: Az 5. § (4) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^36]: Az 5. § (4) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg. Az 5. § (4) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte. [Ez utóbbi módosító rendelet 39. § (4) bekezdése alapján 2011. július 1-jén lép hatályba.]

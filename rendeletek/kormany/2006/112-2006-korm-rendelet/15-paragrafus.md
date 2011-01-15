@@ -1,6 +1,6 @@
-## Bejelentési kötelezettség és a támogatási szerződés módosítása[^91]
+## Bejelentési kötelezettség és a támogatási szerződés módosítása[^90]
 
-15. §[^92] (1)[^93] A fenntartó 15 napon belül köteles a Hivatalnak bejelenteni, ha
+15. §[^91] (1)[^92] A fenntartó 15 napon belül köteles a Hivatalnak bejelenteni, ha
 
 a) a foglalkoztatás biztosítása bármely okból tartós akadályba ütközik,
 
@@ -12,14 +12,14 @@ d) a foglalkoztató neve, székhelye megváltozik,
 
 e) a szociális intézmény neve, székhelye, telephelye, vagy a férőhelyeinek száma megváltozik.
 
-(2)[^94] Az (1) bekezdés szerinti bejelentéssel egyidejűleg a fenntartó köteles a megváltozott adatokkal kapcsolatos dokumentumokat is megküldeni a Hivatal részére.
+(2)[^93] Az (1) bekezdés szerinti bejelentéssel egyidejűleg a fenntartó köteles a megváltozott adatokkal kapcsolatos dokumentumokat is megküldeni a Hivatal részére.
 
-(3)[^95] A fenntartó köteles haladéktalanul bejelenteni, ha fenntartóváltozás miatt kérelmet nyújtottak be a működést engedélyező szervhez. A bejelentéssel egyidejűleg meg kell küldeni a 14. § (2) bekezdés szerinti iratokat, a működési engedély módosítása, ismételt kiadása iránti kérelemnek a működést engedélyező szerv által érkeztetett példányát, valamint az új fenntartó pénzügyi-gazdálkodási tervét a szociális intézményre vonatkozóan. A támogatási szerződés a fenntartóváltozás jogerőre emelkedésével megszűnik, ha a támogatási szerződésben a fenntartó személyében bekövetkező változáshoz a Hivatal a bejelentést követő 30 napon belül írásban nem járul hozzá.
+(3)[^94] A fenntartó köteles haladéktalanul bejelenteni, ha fenntartóváltozás miatt kérelmet nyújtottak be a működést engedélyező szervhez. A bejelentéssel egyidejűleg meg kell küldeni a 14. § (2) bekezdés szerinti iratokat, a működési engedély módosítása, ismételt kiadása iránti kérelemnek a működést engedélyező szerv által érkeztetett példányát, valamint az új fenntartó pénzügyi-gazdálkodási tervét a szociális intézményre vonatkozóan. A támogatási szerződés a fenntartóváltozás jogerőre emelkedésével megszűnik, ha a támogatási szerződésben a fenntartó személyében bekövetkező változáshoz a Hivatal a bejelentést követő 30 napon belül írásban nem járul hozzá.
 
 (4) A fenntartó 5 napon belül köteles bejelenteni, ha csőd-, felszámolási, végelszámolási, végrehajtási, illetve adósságrendezési eljárás indul ellene, illetve a külső foglalkoztató ellen, vagy amennyiben a fenntartó, külső foglalkoztató társadalmi szervezet, közalapítvány, alapítvány, a szervezet bírósági nyilvántartásból való törlését az ügyészség kezdeményezte.
 
-[^91]: A 15. §-t megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 13. §-a iktatta be.
-[^92]: A 15. § a 279/2009. (XII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^93]: A 15. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
-[^94]: A 15. § (2) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^95]: A 15. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^90]: A 15. §-t megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 13. §-a iktatta be.
+[^91]: A 15. § a 279/2009. (XII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^92]: A 15. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
+[^93]: A 15. § (2) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^94]: A 15. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

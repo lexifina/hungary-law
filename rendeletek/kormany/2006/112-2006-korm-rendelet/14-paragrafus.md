@@ -1,12 +1,12 @@
-## A támogatási szerződés megkötése[^84]
+## A támogatási szerződés megkötése[^83]
 
-14. §[^85] (1)[^86] A támogatási szerződést a Hivatal és a fenntartó köti meg. A támogatási szerződésben
+14. §[^84] (1)[^85] A támogatási szerződést a Hivatal és a fenntartó köti meg. A támogatási szerződésben
 
-a)[^87] a Hivatal kötelezettséget vállal arra, hogy a fenntartónak a szociális foglalkoztatás működtetéséhez szociális foglalkoztatási támogatást biztosít,
+a)[^86] a Hivatal kötelezettséget vállal arra, hogy a fenntartónak a szociális foglalkoztatás működtetéséhez szociális foglalkoztatási támogatást biztosít,
 
 b) a fenntartó kötelezettséget vállal arra, hogy a foglalkoztatást a jogszabályokban és a támogatási szerződésben meghatározottaknak megfelelően biztosítja.
 
-(2)[^88] A támogatási szerződés megkötésének feltétele az alábbi dokumentumok Hivatalhoz történő benyújtása:
+(2)[^87] A támogatási szerződés megkötésének feltétele az alábbi dokumentumok Hivatalhoz történő benyújtása:
 
 a) települési önkormányzat, illetőleg önkormányzati fenntartású intézmény esetén a szerződés megkötésére jogosult személy képviseleti jogosultságának igazolása, továbbá közjegyző által hitelesített vagy ügyvéd által ellenjegyzett aláírási címpéldány, vagy eredeti vagy a bank által hitelesített banki aláírás-bejelentő karton;
 
@@ -32,7 +32,7 @@ gd) helyi önkormányzat esetén nem áll adósságrendezési eljárás alatt, v
 
 ge) a ga)–gd) alpontokban foglaltakon túl arról, hogy a szerződéskötést követően indult ilyen eljárásról 15 napon belül tájékoztatja a kötelezettségvállalót;
 
-h)[^89] a fenntartó nyilatkozata a pénzforgalmi számláiról, valamint a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendeletben foglaltaknak megfelelően kiállított és a megadott számlákat vezető pénzforgalmi szolgáltatók által visszaigazolt, a Hivatalt az érintett számlákra beszedési megbízás benyújtására felhatalmazó – csak a Hivatal írásbeli hozzájárulásával visszavonható – levelek;
+h)[^88] a fenntartó nyilatkozata a pénzforgalmi számláiról, valamint a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendeletben foglaltaknak megfelelően kiállított és a megadott számlákat vezető pénzforgalmi szolgáltatók által visszaigazolt, a Hivatalt az érintett számlákra beszedési megbízás benyújtására felhatalmazó – csak a Hivatal írásbeli hozzájárulásával visszavonható – levelek;
 
 i) a fenntartó nyilatkozata arról, hogy a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. §-ában és 8. §-ában meghatározott feltételeknek megfelel;
 
@@ -50,7 +50,7 @@ o) a fenntartó által benyújtott pályázat;
 
 p) a pályázati kiírásban meghatározott egyéb dokumentumok.
 
-(3)[^90] A támogatási szerződés megkötéséhez szükséges dokumentumokat a pályázati döntésről szóló értesítés tárhelyre érkezését követő 20 napon belül kell a Hivatalnak megküldeni, kivéve, ha a dokumentumot a pályázathoz mellékelték.
+(3)[^89] A támogatási szerződés megkötéséhez szükséges dokumentumokat a pályázati döntésről szóló értesítés tárhelyre érkezését követő 20 napon belül kell a Hivatalnak megküldeni, kivéve, ha a dokumentumot a pályázathoz mellékelték.
 
 (4) Szociális intézményenként külön támogatási szerződést kell kötni.
 
@@ -84,10 +84,10 @@ m) a fenntartónak és a szociális intézménynek a nyilvántartás-vezetéssel
 
 n) a szerződésszegés következményeit.
 
-[^84]: A 14. §-t megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 12. §-a iktatta be.
-[^85]: A 14. § a 279/2009. (XII. 9.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^86]: A 14. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^87]: A 14. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^88]: A 14. § (2) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
-[^89]: A 14. § (2) bekezdés h) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) és g) pontja szerint módosított szöveg.
-[^90]: A 14. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
+[^83]: A 14. §-t megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 12. §-a iktatta be.
+[^84]: A 14. § a 279/2009. (XII. 9.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^85]: A 14. § (1) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^86]: A 14. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^87]: A 14. § (2) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^88]: A 14. § (2) bekezdés h) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) és g) pontja szerint módosított szöveg.
+[^89]: A 14. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
