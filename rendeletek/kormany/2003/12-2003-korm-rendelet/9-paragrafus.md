@@ -1,4 +1,4 @@
-## 8/G. §[^22] A kötelezett által lakott lakóingatlan a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 257–258. § alkalmazásával 2010. december 31-ig nem értékesíthető, árverési hirdetmény csak ezen időpontot követően tehető közzé az EÁF-en.
+## 8/G. §[^22] A kötelezett által lakott lakóingatlan a Ptk. 257–258. § alkalmazásával 2011. április 15-ig csak a kötelezett erre irányuló, az állami adóhatóságnál személyesen előterjesztett írásbeli hozzájárulása alapján értékesíthető és tehető közzé az árverési hirdetmény az EÁF-en. A kötelezett a nyilatkozatát az árverési hirdetmény közzétételét követően nem vonhatja vissza.
 
 9. § (1)[^23] Az értékesítés sikertelen, ha a zálogkötelezettel kötött megállapodás szerinti határidőben és feltételek mellett a zálogtárgy értékesítése nem vezet eredményre.
 
@@ -6,5 +6,5 @@
 
 (3) Az értékesítésre megszabott határidő sikertelen elteltére nem hivatkozhat az a zálogkötelezett, aki a vele kötött megállapodásban foglalt, illetve az e rendelet szerinti kötelezettségeinek nem tett eleget. A kötelezettségek késedelmes teljesítése esetén a késedelem időtartamát az értékesítésre megszabott határidő számításánál figyelmen kívül kell hagyni. E tényről, illetve a figyelmen kívül hagyott időtartamról a zálogkötelezettet írásban tájékoztatni kell.
 
-[^22]: A 8/G. §-t a 194/2010. (VI. 10.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 8/G. §-t a 194/2010. (VI. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 2/2011. (I. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^23]: A 9. § (1) bekezdése a 209/2009. (IX. 29.) Korm. rendelet 4. §-ával megállapított, a 114/2010. (IV. 13.) Korm. rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
