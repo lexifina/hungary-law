@@ -6,6 +6,6 @@
 
 (2) E rendelet 11. § (1)–(2) bekezdése szerinti jelentéstételt első alkalommal 2011. március 31-ig kell teljesítenie a kötelezettnek.
 
-(3) A 21/2001. (II. 14.) Korm. rendelet 16. § (1) bekezdése szerint a helyhez kötött hűtő-, légkondicionáló és hőszivattyú berendezések közül a 3 kg vagy annál több ózonkárosító szabályozott anyagot, illetve fluortartalmú üvegházhatású gázt tartalmazó berendezések üzemeltetőjének az alapbejelentést e rendelet hatálybalépését követő 60 napon belül kell teljesítenie.
+(3)–(4)[^25]
 
-(4) A (3) bekezdés szerinti berendezések üzemeltetői a 21/2001. (II. 14.) Korm. rendelet szerinti légszennyezettség mértéke éves bejelentést első ízben 2010. március 31-ig teljesítik.
+[^25]: A 22. § (3)–(4) bekezdését a 306/2010. (XII. 23.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38–42. §-át.
