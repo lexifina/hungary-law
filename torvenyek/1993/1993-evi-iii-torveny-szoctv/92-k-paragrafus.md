@@ -28,14 +28,8 @@ a) megismerheti és kezelheti az ellátott, törvényes képviselője, az ellát
 
 b) betekinthet a szolgáltató, intézmény létrehozásával, működésével és megszűnésével, illetve az intézményi jogviszony keletkezésével, fennállásával és megszűnésével összefüggő iratokba, kérheti azok bemutatását, azokról másolatot készíthet, illetve azokat lefoglalhatja.
 
-(8) A működést engedélyező szerv a fenntartóval, az intézményvezetővel, illetve más jogsértő személlyel szemben az ellátottak jogainak megsértése és más, külön jogszabályban meghatározott jogsértések esetén legfeljebb 200 000 forint összegű szociális igazgatási bírságot szabhat ki. A szociális igazgatási bírság több jogsértés esetén halmozottan is kiszabható.
+(8)–(9)
 
-(9) A jogerősen kiszabott és meg nem fizetett bírság köztartozásnak minősül, és adók módjára kell behajtani.
+VIII. CÍM
 
-## V. Fejezet
-
-## AZ INTÉZMÉNYI JOGVISZONY
-
-I. CÍM
-
-Általános szabályok
+Szociális igazgatási bírság
