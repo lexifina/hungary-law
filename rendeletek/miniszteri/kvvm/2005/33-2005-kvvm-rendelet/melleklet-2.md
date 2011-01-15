@@ -44,17 +44,17 @@
 
 | 13. |  | A 98/2001. (VI.15.) Korm. rendelet 4/A. § (1) bekezdése és 21. § (1) bekezdése szerinti veszélyes hulladék minősítési, illetve technológia minősítési eljárás [98/2001. (VI. 15.) Korm. rendelet 4/A. § (1) bekezdés és 21. § (1) bekezdés] | 300 000 |
 
-| 14. |  | Helyhez kötött légszennyező pontforrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása [a levegő védelmével kapcsolatos egyes szabályokról szóló 21/2001. (II. 14.) Korm. rendelet 9. §] | 32 000/pontforrás |
+| 14. |  | Helyhez kötött légszennyező pontforrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása a levegő védelméről szóló jogszabály alapján | 32 000/pontforrás |
 
-| 15. |  | Helyhez kötött diffúz légszennyező forrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása [21/2001. (II. 14.) Korm. rendelet 10. §] | 32 000/diffúz forrás |
+| 15. |  | Helyhez kötött diffúz légszennyező forrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása a levegő védelméről szóló jogszabály alapján | 32 000/diffúz forrás |
 
 | 16. |  | Az 50 MW és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezés nem megfelelő működése esetén a 24 órás és 120 órás korlátozás alóli felmentést követően a továbbműködés eseti engedélyezése [az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló 10/2003. (VII. 11.) KvVM rendelet 6. § (4) bekezdés] | 100 000 |
 
 | 17. |  | Az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések éves összkibocsátásának megfelelő légszennyező anyag mennyiségi megállapítása önálló eljárásban [10/2003. (VII. 11.) KvVM rendelet 6. § (5) bekezdés] | 100 000 |
 
-| 18. |  | Határérték megállapítása önálló eljárásban, a 20. és 21. pont kivételével [21/2001. (II. 14.) Korm. rendelet 23. § (2) bekezdés] | 72 000 |
+| 18. |  | Határérték megállapítása a levegő védelméről szóló jogszabály szerinti eljárásban, a 20. és 21. pont kivételével | 72 000 |
 
-| 19. |  | Védelmi övezet megállapítása önálló eljárásban [21/2001. (II. 14.) Korm. rendelet 6. §] | 348 000 |
+| 19. |  | Védelmi övezet megállapítása önálló eljárásban a levegő védelméről szóló jogszabály alapján | 348 000 |
 
 | 20. |  | Zajkibocsátási határérték megállapítása [a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 10. § (1) bekezdés és 11. § (1) bekezdés], ha első fokon a környezetvédelmi, természetvédelmi és vízügyi felügyelőség jár el [284/2007. (X. 29.) Korm. rendelet 4. § (3)–(4) bekezdés] – a zajforrás üzemeltetője alapján: |  |
 
