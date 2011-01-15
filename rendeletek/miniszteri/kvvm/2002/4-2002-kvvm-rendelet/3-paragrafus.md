@@ -1,3 +1,3 @@
-3. §[^1]
+3. §[^3]
 
-[^1]: A 3. §-t a 2/2008. (I. 16.) KvVM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 3. §-t a 2/2008. (I. 16.) KvVM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

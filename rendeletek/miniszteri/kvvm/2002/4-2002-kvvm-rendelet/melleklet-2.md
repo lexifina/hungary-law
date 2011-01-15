@@ -54,7 +54,7 @@
 
 | Zalaegerszeg | F | E | F | D | F | O-I | F | F | F | F | D |
 
-2. számú melléklet a 4/2002. (X. 7.) KvVM rendelethez[^4]
+2. számú melléklet a 4/2002. (X. 7.) KvVM rendelethez[^6]
 
 | KSH kód | Megye | Település | Zóna | Felügyelőség |
 
@@ -490,4 +490,4 @@ A felügyelőség jelölése:
 
 | NYDT | Nyugat-Dunántúli Környezetvédelmi Felügyelőség |
 
-[^4]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a szerint módosított szöveg.
