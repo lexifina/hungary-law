@@ -12,7 +12,7 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 (területek )
 
-8M06352M_0
+0M30209M_0
 
 | 1.1. Általános építési használat szerint: |  | fekete – fehér |  | színes |  |  |
 
@@ -74,7 +74,7 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 |  | Lf |  |
 
-8M06352M_1
+0M30209M_1
 
 | Megjegyzés: | * | A településszerkezeti tervlapon az 1-3. Pontok alatt felsorolt jelkulcsi elemeket minden esetben; a továbbiak közül csak a településszerkezetet meghatározó elemek jeleit kell feltüntetni. |
 
@@ -142,7 +142,7 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 | Megjegyzés: | *** | A terület a célzott felhasználásnak megfelelően tovább bontható, betűjellel vagy szín kerettel. |
 
-8M06352M_3
+0M30209M_3
 
 |  |  | fekete – fehér |  | színes |  |  |
 
@@ -198,4 +198,152 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 | - helyi jelentőségű védett természeti emlék |  |  |  |  |  |  |
 
-[^216]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+0M30209M_4
+
+|  |  | fekete – fehér |  | színes |  |  |
+
+| 4. KÖRNYEZETVÉDELEM (határvonalak) |  |  |  |  |  |  |
+
+| 4.1. |  |
+
+| 4.2. ZAJ - ÉS REZGÉSVÉDELEM |  |
+
+| - fokozottan védett övezet határa ( helyi ) |  |  |
+
+| - csendes övezet határa ( helyi ) |  |  |
+
+| 4.3. GYÓGYHELY HATÁRA |  |  |  |  |  |  |
+
+| 4.4. VÍZ - ÉS TALAJVÉDELEM |  |  |  |  |  |  |
+
+| - felszíni víz védőterületének (sávjainak) határa |  |  |  |  |  |  |
+
+| - felszín alatti víz állapota szempontjából fokozottan érzékeny terület határa |  | ◻◻◻ V ◻◻◻ |  | ◻◻◻ V ◻◻◻ |  |  |
+
+| (beleértve a hidrogeológiai védőterületet is) |  |  |  |  |  |  |
+
+| – kiemelten érzékeny felszín alatti vízminőség-védelmi terület határa |  | • • • V • • • |  | • • • V • • • |  |  |
+
+| – felszín alatti víz állapota szempontjából érzékeny terület határa. |  | ° ° ° V ° ° ° |  | ° ° ° V ° ° ° |  |  |
+
+| - talajvédelmi terület határa (ahol a talaj- védelem érdekében környezetszennyező anyagokat használni nem vagy csak korlátozott mértékben szabad) |  |  |  |  |  |  |
+
+| - erózió-, defláció érzékeny terület határa |  |  |  |  |  |  |
+
+| - olyan terület határa, ahol a szennyvíz ártalmatlanításáról, elvezetéséről köz- műpótló berendezés építésével kell gondoskodni (a berendezés kialakítására szabályokat ír elő) |  |  |  |  |  |  |
+
+| 4.5. EGYÉB |  |
+
+| - bányászattal érintett terület határa |  |  |
+
+| - olyan terület határa, ahol a természeti csapások elleni védelemről gondoskodni kell (pl: földrengés-, csúszásveszély, egyéb földtani okok miatt egyenetlen süllyedési veszély stb.) |  |  |
+
+| - védőterület, védőtávolság, védősáv határa (pl: repülőtér, szeméttelep stb.) |  |  |
+
+0M30209M_5
+
+|  |  | fekete – fehér |  | színes |  |  |
+
+| 5. KÖZLEKEDÉS |  |  |  |  |  |  |
+
+| 5.1. KÖZÚTI KÖZLEKEDÉS |  |
+
+| - gyorsforgalmi út (autópálya, autóút) |  |  |
+
+| - főút (I. és II. rendű) |  |  |
+
+| - országos mellékút |  |  |
+
+| - helyi gyüjtőút |  |  |
+
+| - különszintű közúti csomópont |  |  |
+
+| - fontosabb szintbeni közúti csomópont |  |  |
+
+| - kerékpárút |  | ° ° ° ° ° ° |
+
+| - gyalogút |  | • • • • • • |
+
+| - jelentős közhasználatú parkolóhely (a férőhelyszám rögzíthető) |  |  |
+
+| - jelentős közhasználatú parkoló garázs (a férőhelyszám rögzíthető) |  |  |
+
+| - autóbusz pályaudvar |  |  |
+
+| 5.2. KÖTÖTTPÁLYÁS KÖZLEKEDÉS |  |
+
+| - vasút |  |  |
+
+| - szintbeni vasúti kereszteződés |  |  |
+
+| - gyorsvasút felszín alatt (pl. metro) |  |  |
+
+| - gyorsvasút felszín felett |  |  |
+
+| - villamos |  |  |
+
+| - kötélpálya (pl. felvonó) |  |  |
+
+| - vasúti pályaudvar |  |  |
+
+| - vasútállomás |  |  |
+
+| - gyorsvasút állomás |  |  |
+
+| 5.3. VÍZI KÖZLEKEDÉS |  |  |
+
+| - hajóállomás (hajó-, kompkikötő) |  |  |
+
+0M30209M_6
+
+| - teherkikötő |  |  |
+
+| - jachtkikötő |  |  |
+
+| 5.4. LÉGI KÖZLEKEDÉS |  |  |
+
+| - repülőtér |  |  |
+
+| - helikopterállomás |  |  |
+
+| 6. KÖZMŰVEK, HÍRADÁS |  |  |
+
+| 6. 1. VÍZIKÖZMŰVEK |  |  |
+
+| - vízmű |  |  |
+
+| - víztározó (pl. víztorony, medence) |  |  |
+
+| - vízműkutak |  |  |
+
+| - felszíni vízkivételi mű |  |  |
+
+| - tűzivíz tározó |  |  |
+
+| - ivóvíz-gerincvezeték |  | ––– V ––– |
+
+| - iparivíz-gerincvezeték |  | ––– IV ––– |
+
+| 6. 2. SZENNYVÍZKÖZMŰVEK |  |  |
+
+| - szennyvíz főgyüjtő csatorna (gravitációs) |  |  |
+
+| - szennyvíz főgyüjtő csatorna (nyomó-, vákumos) |  |  |
+
+| - szennyvízátemelő |  |  |
+
+| - szennyvíztisztítómű |  |  |
+
+| - előkezelt szennyvíztisztítómű |  |  |
+
+| -szennyvíziszap lerakóhely ill. szippantott szennyvíz ürítőhelye |  |  |
+
+| - komposztáló telep |  |  |
+
+| 6.3. CSAPADÉKVÍZ KÖZMŰVEK |  |  |
+
+| - csapadékvíz tározó |  |  |
+
+| - csapadékvízelvezető főárok |  |  |
+
+[^216]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja, a 306/2010. (XII. 23.) Korm. rendelet 45. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.
