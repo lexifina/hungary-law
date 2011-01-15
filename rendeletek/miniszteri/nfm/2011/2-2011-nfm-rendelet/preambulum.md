@@ -1,0 +1,1 @@
+A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 13. § (3) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 89. § (1) bekezdés b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
