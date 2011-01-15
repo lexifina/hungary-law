@@ -32,7 +32,7 @@
 
 ## 4. A véggáz-visszavezető rendszereket úgy kell kialakítani, hogy azok egymáshoz csatlakoztathatók legyenek.
 
-2. számú melléklet a 9/1995. (VIII. 31.) KTM rendelethez[^12]
+2. számú melléklet a 9/1995. (VIII. 31.) KTM rendelethez[^13]
 
 Az alsó töltésű közúti tartálykocsikra, valamint azok töltőállomásaira vonatkozó előírások
 
@@ -104,4 +104,4 @@ Túltöltési állapot vagy a jármű földelésének megszűnése esetén a tö
 
 A töltést csak akkor szabad engedélyezni, ha már megtörtént a gőzvisszanyerő tömlő csatlakoztatása a járműhöz, és biztosított a kiszorított gőzök szabad átáramlása a járműből az üzem gőzgyűjtő rendszerébe.
 
-[^12]: A 2. számú mellékletet a 6/2004. (IV. 27.) KvVM rendelet 3. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva. E módosító rendelet 3. §-ának (3) bekezdése alapján a 2004. május 1. napján már üzemelő benzintároló telepeken az alsó töltésű közúti tartálykocsiknak, valamint azok töltőállomásainak 2005. január 1-jétől kell megfelelnie a 2. számú mellékletében foglalt követelményeknek.
+[^13]: A 2. számú mellékletet a 6/2004. (IV. 27.) KvVM rendelet 3. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva. E módosító rendelet 3. §-ának (3) bekezdése alapján a 2004. május 1. napján már üzemelő benzintároló telepeken az alsó töltésű közúti tartálykocsiknak, valamint azok töltőállomásainak 2005. január 1-jétől kell megfelelnie a 2. számú mellékletében foglalt követelményeknek.

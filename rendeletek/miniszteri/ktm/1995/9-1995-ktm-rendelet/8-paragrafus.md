@@ -1,4 +1,4 @@
-8. § (1)[^6]
+8. § (1)[^7]
 
 (2) A beruházónak a gőzvisszavezető rendszer megfelelősségét az üzembe helyezés során a kijelölt tanúsító intézménnyel ellenőriztetni és tanúsíttatni kell. Az erről készült jegyzőkönyvet a környezetvédelmi hatóság részére meg kell küldeni.
 
@@ -6,4 +6,4 @@
 
 (4) Csak olyan helyhez kötött motorbenzintároló-tartály, valamint töltőállomás létesítése és üzembe helyezése engedélyezhető, amely e rendelet előírásait kielégíti.
 
-[^6]: A 8. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 100. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^7]: A 8. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 100. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

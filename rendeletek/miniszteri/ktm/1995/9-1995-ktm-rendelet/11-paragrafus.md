@@ -8,8 +8,8 @@
 
 (3) A rendelet hatálybalépése után engedélyezésre kerülő üzemanyagtöltő állomás esetén a tervezett legnagyobb motorbenzin forgalmat kell figyelembe venni.
 
-(4)[^8]
+(4)[^9]
 
 (5) Véggázkezelő berendezések azok a technológiai berendezések és műszaki eljárások, melyekkel a tartályokból kilépő levegő motorbenzin tartalmát csökkentik (pl. adszorpciós eljárás, véggázégetés úszófedeles tartály stb.).
 
-[^8]: A 11. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 18. pontja hatályon kívül helyezte.
+[^9]: A 11. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 18. pontja hatályon kívül helyezte.
