@@ -16,7 +16,7 @@
 
 ## Szerves oldószerek folyamatba bevitt mennyiségei (B):
 
-## B1:[^16] Az eljárásba közvetlenül bevitt szerves oldószerek mennyisége vagy keverékekben, vásárolt termékekben lévő mennyisége, amit az eljárásnál bemenő anyagként használnak fel az oldószermérleg vonatkozási, számítási időszakán belül.
+## B1:[^23] Az eljárásba közvetlenül bevitt szerves oldószerek mennyisége vagy keverékekben, vásárolt termékekben lévő mennyisége, amit az eljárásnál bemenő anyagként használnak fel az oldószermérleg vonatkozási, számítási időszakán belül.
 
 ## B2: Az eljárás során visszanyert oldószermennyiségből a folyamatba visszaforgatott szerves oldószerek mennyisége. A visszaforgatott oldószert mindannyiszor számításba kell venni, ahányszor azt a folyamatban felhasználják.
 
@@ -34,9 +34,9 @@
 
 ## K6: Az összegyűjtött hulladékban lévő szerves oldószerek mennyisége.
 
-## K7:[^17] Olyan szerves oldószerek vagy keverékekben, termékekben szándékosan lévő szerves oldószerek mennyisége, amelyet kereskedelmileg értékesítenek vagy később kívánnak eladni.
+## K7:[^24] Olyan szerves oldószerek vagy keverékekben, termékekben szándékosan lévő szerves oldószerek mennyisége, amelyet kereskedelmileg értékesítenek vagy később kívánnak eladni.
 
-## K8:[^18] Visszanyert (esetleg keverékekben levő), de a folyamatba vissza nem forgatott szerves oldószerek mennyisége, amennyiben nincsenek számításba véve a K7 tételnél.
+## K8:[^25] Visszanyert (esetleg keverékekben levő), de a folyamatba vissza nem forgatott szerves oldószerek mennyisége, amennyiben nincsenek számításba véve a K7 tételnél.
 
 ## K9: Más módon (pl. talajba) kibocsátott szerves oldószerek mennyisége.
 
@@ -78,6 +78,6 @@
 
 4. számú melléklet a 10/2001. (IV. 19.) KöM rendelethez
 
-[^16]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatba bevitt mennyiségei (B) meghatározás B1 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont ca) alpontja szerint módosított szöveg.
-[^17]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatból kilépő mennyiségei (K) meghatározás K7 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont cb) alpontja szerint módosított szöveg.
-[^18]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatból kilépő mennyiségei (K) meghatározás K8 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont cb) alpontja szerint módosított szöveg.
+[^23]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatba bevitt mennyiségei (B) meghatározás B1 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont ca) alpontja szerint módosított szöveg.
+[^24]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatból kilépő mennyiségei (K) meghatározás K7 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont cb) alpontja szerint módosított szöveg.
+[^25]: A 3. számú melléklet 2. pont Szerves oldószerek folyamatból kilépő mennyiségei (K) meghatározás K8 jelölésű szöveg a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés c) pont cb) alpontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 2. § A rendelet alkalmazásában
 
-a) illékony szerves vegyület (a továbbiakban: VOC[^3]): bármely olyan szerves vegyület, amelynek gőznyomása 293,15 K-on 0,01 kPa vagy annál nagyobb érték, vagy ennek megfelelő illékonyságú a felhasználás körülményei között. A kátránypárlatok (kreozot frakció) is illékony szerves vegyületeknek tekintendők, ha gőznyomásuk 293,15 K-on 0,01 kPa vagy annál nagyobb érték;
+a) illékony szerves vegyület (a továbbiakban: VOC[^6]): bármely olyan szerves vegyület, amelynek gőznyomása 293,15 K-on 0,01 kPa vagy annál nagyobb érték, vagy ennek megfelelő illékonyságú a felhasználás körülményei között. A kátránypárlatok (kreozot frakció) is illékony szerves vegyületeknek tekintendők, ha gőznyomásuk 293,15 K-on 0,01 kPa vagy annál nagyobb érték;
 
 b) szerves vegyület: bármely olyan vegyület, amely szenet és egy vagy több hidrogén, halogén, oxigén, kén, foszfor, szilícium vagy nitrogén atomot tartalmaz a szén-oxidok, szervetlen karbonátok és bikarbonátok kivételével;
 
@@ -38,4 +38,7 @@ n) jelentős változtatás:
 
 o) kis berendezés: olyan berendezés, amely a 2. számú melléklet 1., 3., 4., 5., 8., 10., 13., 16. és 17. soraiban megjelölt kisebb küszöbértékű sávba esik, illetve a 2. számú melléklet egyéb soraihoz tartozik és az oldószer-felhasználása 10 tonna/év alatt van.
 
-[^3]: VOC = Volatile Organic Compound.
+2/A §[^7] E rendeletben az Lvr. értelmező rendelkezései alkalmazandóak.
+
+[^6]: VOC = Volatile Organic Compound.
+[^7]: A 2/A. §-t az 5/2011. (I. 14.) VM rendelet 2. § (2) bekezdése iktatta be.

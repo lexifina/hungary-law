@@ -28,7 +28,7 @@
 
 ## Bármely, alábbi ipari vagy kereskedelmi festési és kapcsolódó zsírtalanítási tevékenység, ahol
 
-## a)[^13]
+## a)[^19]
 
 ## b) gépjárművek vagy azok egy részének eredeti festését újrafényező festék típusokkal, ha ezt nem az eredeti gyártó berendezésen (soron) végzik, vagy
 
@@ -104,7 +104,7 @@
 
 ## Gyógyszerészeti termékek kémiai szintézise, fermentálása, extrahálása, formulálása és késztermékké alakítása, és amennyiben ugyanazon a telephelyen végzik, a közbenső (intermedier) termékek gyártása.
 
-## Az alkalmazott kifejezések:[^14]
+## Az alkalmazott kifejezések:[^20]
 
 ## bevonat: bármely felvitt réteg – beleértve valamennyi szerves oldószert vagy olyan keveréket, ami a megfelelő felvitel érdekében szerves oldószereket tartalmaz –, amit dekorációs, védő vagy más funkcionális hatás biztosítására használnak a munkatárgy felületén;
 
@@ -180,7 +180,8 @@
 
 ## – normál üzemelés vagy normál üzemmód: egy berendezés működésének vagy egy tevékenységnek bármely időszaka, kivéve az indítási és leállási műveleteket és a berendezések karbantartását.
 
-2.2. számú melléklet
+2.2. számú melléklet[^22]
 
-[^13]: Az 1. számú melléklet 3. pontjának a) alpontját a 25/2006. (II. 3.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^14]: Az 1. számú melléklet Az alkalmazott kifejezések rész a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg [az e módosító rendelet 2. § (1) bekezdés a) pont ac) alpontjával elrendelt módosítás, amely szerint a „készítmények” szövegrész helyébe „keverékek” szöveg lép, nem vezethető át].
+[^19]: Az 1. számú melléklet 3. pontjának a) alpontját a 25/2006. (II. 3.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^20]: Az 1. számú melléklet Az alkalmazott kifejezések rész a 7/2010. (III. 31.) KvVM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg [az e módosító rendelet 2. § (1) bekezdés a) pont ac) alpontjával elrendelt módosítás, amely szerint a „készítmények” szövegrész helyébe „keverékek” szöveg lép, nem vezethető át].
+[^22]: A 2.2. számú melléklet az 5/2011. (I. 14.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
