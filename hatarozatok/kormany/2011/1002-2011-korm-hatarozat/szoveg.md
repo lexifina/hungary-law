@@ -88,4 +88,6 @@ Határidő: 2011. december 31.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a magyarországi megújuló energiaforrások felhasználásának növelésére vonatkozó 2008–2020 közötti stratégiáról szóló 2148/2008. (X. 31.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
