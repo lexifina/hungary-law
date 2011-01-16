@@ -2,4 +2,6 @@
 
 4. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti az álláskeresőként való nyilvántartásba vételről, a nyilvántartásból való törlésről, valamint az álláskeresési megállapodásról szóló 18/2005. (X.18.) FMM rendelet.
+(2)[^1]
+
+[^1]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
