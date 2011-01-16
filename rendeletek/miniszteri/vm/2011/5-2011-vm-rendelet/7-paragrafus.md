@@ -1,1 +1,3 @@
-## 6. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a növénytermesztés létesítményeinek korszerűsítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 35/2008. (III. 27.) FVM rendelet 2. § (1) bekezdés a) pontjában „a levegő védelmével kapcsolatos egyes szabályokról szóló 21/2001. (II. 14.) Korm. rendeletben” szövegrész helyébe „a levegő védelméről szóló jogszabály” szöveg lép.
+7. §[^8]
+
+[^8]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

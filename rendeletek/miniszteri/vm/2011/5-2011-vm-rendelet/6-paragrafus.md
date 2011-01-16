@@ -1,1 +1,3 @@
-## 5. § A Nemzeti Vidékfejlesztési Terv kihirdetéséről, valamint az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokkal összefüggésben a kedvezőtlen adottságú területek és az azokhoz tartozó települések megállapításáról szóló 137/2004. (IX. 18.) FVM rendelet 1. mellékletében a Nemzeti Vidékfejlesztési Terv 3. számú melléklet Nemzeti jogszabályok 6. sorában „A levegő védelmével kapcsolatos egyes szabályokról szóló 21/2001. (II. 14.) Korm. rendelet” szövegrész helyébe „A levegő védelméről szóló jogszabály” szöveg lép.
+6. §[^7]
+
+[^7]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
