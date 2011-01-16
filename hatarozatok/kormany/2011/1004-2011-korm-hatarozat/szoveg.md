@@ -26,4 +26,6 @@ Határidő: 2011. május 13.
 
 5. Jelen határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti az Európai Képesítési Keretrendszerhez való csatlakozásról és az Országos Képesítési Keretrendszer létrehozásáról szóló 2069/2008. (VI. 6.) Korm. határozat.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
