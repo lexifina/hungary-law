@@ -192,9 +192,7 @@ megyei kormányhivatal növény- és talajvédelmi igazgatósága
 
 c)[^11] földtani és az ásványvagyon védelmére kiterjedő, valamint bányászati szakkérdések vonatkozásában az illetékes bányakapitányság
 
-d)[^12] a környezet védelmére kiterjedően
-
-az illetékes felügyelőség
+d)[^12]
 
 e)[^13]
 
@@ -261,7 +259,7 @@ ua)[^25] Az u) pontban foglalt, a fővárosi és megyei kormányhivatal népegé
 [^9]: A 2. számú melléklet a) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^10]: A 2. számú melléklet b) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^11]: A 2. számú melléklet c) pontja a 269/2006. (XII. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^12]: A 2. számú melléklet d) pontja a 340/2004. (XII. 22.) Korm. rendelet 25. §-ának (5) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell. A 2. számú melléklet d) pontját a 344/2009. (XII. 30.) Korm. rendelet 28. § (4) bekezdése hatályon kívül helyezte 2011. január 16. napjával. Ez utóbbi módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^12]: A 2. számú melléklet d) pontját a 344/2009. (XII. 30.) Korm. rendelet 28. § (4) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^13]: A 2. számú melléklet e) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 42. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^14]: A 2. számú melléklet f) pontját a 340/2004. (XII. 22.) Korm. rendelet 30. §-ának (2) bekezdése hatályon kívül helyezte.
 [^15]: A 2. számú melléklet g) pontját a 269/2006. (XII. 20.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
