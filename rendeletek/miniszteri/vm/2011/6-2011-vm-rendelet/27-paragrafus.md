@@ -1,1 +1,0 @@
-## 26. § Hatályát veszti a légszennyezettség és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 17/2001. (VIII. 3.) KöM rendelet.

@@ -1,4 +1,4 @@
-## 27. § E rendelet hatálybalépését követő napon hatályát veszti a 25–27. § és a 16. és 17. alcím.
+## 26–27. §[^2]
 
 1. melléklet a 6/2011. (I. 14.) VM rendelethez
 
@@ -59,3 +59,5 @@
 3.2. Ha a maximális koncentrációk a felső és az alsó vizsgálati küszöbérték között helyezkednek el, 40 000 km2-enként egy mérőállomást szükséges elhelyezni.
 
 3.3. Szigeteken lévő zónákban a helyhez kötött mérésekre szolgáló mintavételi pontok számát a levegő szennyezettségének valószínű eloszlása és a növényzet potenciális expozíciójának figyelembevételével kell kiszámítani.
+
+[^2]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.
