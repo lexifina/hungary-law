@@ -60,7 +60,9 @@
 
 ## db) a jogi személy szervezeti egység székhelye,
 
-## dc) a jogi személy szervezeti egység ügyintéző és képviseleti szervének neve.
+## dc) a jogi személy szervezeti egység ügyintéző és képviseleti szervének neve;
+
+## e)[^8] állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) esetén a kezelő szervezetbe az állami alapító részéről jelölt tag vagy tagok neve,
 
 ## 3. Az ügyek számozását 1-gyel kell kezdeni a nyilvántartásban.
 
@@ -70,7 +72,8 @@
 
 ## * Az adatokat a kérelmező szolgáltatja.
 
-2. számú melléklet a 12/1990. (VI. 13.) IM rendelethez[^8]
+2. számú melléklet a 12/1990. (VI. 13.) IM rendelethez[^9]
 
 [^7]: Az 1. számú melléklet 1. pontjának i) alpontja a 35/2004. (XI. 22.) IM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 6. §-ának (2) bekezdése alapján a 2005. január 1. napját megelőzően bejegyzett társadalmi szervezetek és alapítványok képviselői a társadalmi szervezetek és az alapítványok bírósági nyilvántartásban vezetett adatai első változásakor, de legkésőbb 2007. január 1-jéig kötelesek az adatok bejelentésére.
-[^8]: A 2. számú melléklet a 24/2001. (XII. 26.) IM rendelet 5. §-a (2) bekezdésének e) pontjával, illetve 4. számú mellékletével megállapított szöveg.
+[^8]: Az 1. számú melléklet 2. pont e) alpontját az 1/2011. (I. 14.) KIM rendelet 1. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (3) bekezdését.
+[^9]: A 2. számú melléklet a 24/2001. (XII. 26.) IM rendelet 5. §-a (2) bekezdésének e) pontjával, illetve 4. számú mellékletével megállapított szöveg.
