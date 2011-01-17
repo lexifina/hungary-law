@@ -1,0 +1,1 @@
+A polgári perrendtartásról szóló 1952. évi III. törvény 395. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 15. § (2) bekezdés e) pontja szerinti feladatkörömben eljárva a következőket rendelem el:
