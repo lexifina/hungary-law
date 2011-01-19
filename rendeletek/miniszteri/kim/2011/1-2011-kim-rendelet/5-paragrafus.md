@@ -2,8 +2,9 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2) Az 1–4. § az e rendelet hatálybalépését követő napon hatályát veszti.
+(2)[^2]
 
 (3) E rendelet hatálybalépését megelőzően a bírósági nyilvántartásba bejegyzett alapítványok, közalapítványok esetében az állami alapító a rendelet hatálybalépését követő 30 napon belül köteles az illetékes bíróságnak bejelenteni a kezelő szerv állami alapító által jelölt tagjait. A bíróság az adatot a bejelentés kézhezvételét követő 15 napon belül nemperes eljárásban bejegyzi a nyilvántartásba.
 
 [^1]: Az 1–4. §-t az 5. § (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
