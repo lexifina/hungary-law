@@ -1,41 +1,21 @@
-9. § (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
+9. §[^9] (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
 
-(2) A Bizottság 25 tagú, elnöke a miniszterelnök, alelnöke a Miniszterelnöki Hivatalt vezető miniszter. A Bizottság működésével kapcsolatos titkársági feladatokat a Miniszterelnöki Hivatal kitüntetési ügyekért felelős szervezeti egységének vezetője látja el.
+(2) A Bizottság elnöke a miniszterelnök, alelnöke a miniszterelnök általános helyettese. A Bizottság működésével kapcsolatos titkársági feladatokat a Miniszterelnökség kitüntetési ügyekért felelős szervezeti egységének vezetője látja el.
 
 (3) A Bizottság tagjai:
 
-a) az oktatásért felelős miniszter, a kultúráért felelős miniszter,
+a) a közigazgatási és igazságügyi miniszter,
 
-b) a bizottsági tagságra vonatkozó felkérés elfogadása esetén a Magyar Tudományos Akadémia elnöke, a Széchenyi Irodalmi és Művészeti Akadémia ügyvezető elnöke,
+b) az oktatásért és a kultúráért felelős miniszter,
 
-c) az (5) bekezdés szerinti albizottságok elnökei,
+c) a bizottsági tagságra vonatkozó felkérés elfogadása esetén a Magyar Tudományos Akadémia elnöke,
 
-d) a Kossuth-díjjal, a Széchenyi-díjjal, illetve az Állami Díjjal korábban kitüntetettek, továbbá az akadémikusok, az egyetemi tanárok, a tudományos, a műszaki-gazdasági, a művészeti és a kulturális élet kiemelkedő képviselői köréből a Kormány által hároméves időtartamra felkért személyek.
+d) a Kossuth-díjjal, Széchenyi-díjjal, illetve az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
 
-(4) A Bizottság munkáját a következő, az egyes szakterületek elismert képviselőiből álló albizottságok segítik:
+(4) A Bizottság tagjai sorából előkészítő, jelölő bizottságot alakíthat. A Bizottság, illetve a jelölőbizottság a véleménynyilvánításra külső szakértőt is felkérhet. A felkért szakértő véleményét a Bizottság ülésén fejti ki.
 
-a) Biológiai és Agrártudományi Albizottság,
+(5) A művészeti díjra vonatkozó javaslatok értékelését a Művészeti Díj Bizottság végzi.
 
-b) Építészeti, Település- és Területfejlesztési Albizottság,
+(6) A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai a közigazgatási és igazságügyi miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
 
-c) Irodalmi Albizottság,
-
-d) Képző-, Fotó- és Iparművészeti Albizottság,
-
-e) Műszaki Alkalmazott Tudományok, Elektronikai és Informatikai Albizottság,
-
-f) Orvostudományi Albizottság,
-
-g) Színház- és Filmművészeti Albizottság,
-
-h) Társadalomtudományi Albizottság,
-
-i) Természettudományok Alaptudományai, Földtudományi, Környezet- és Természetvédelmi Albizottság,
-
-j) Zene- és Táncművészeti Albizottság.
-
-(5) Az albizottságok elnökeit a Kormány bízza meg, tagjait – a tudomány és a művészeti élet területén működő országos szervezetek elnökségének javaslatára – a Bizottság elnöke kéri fel hároméves időtartamra.
-
-(6) A művészeti díjra vonatkozó javaslatok – az albizottság véleménye figyelembevételével történő – értékelését a Művészeti Díj Bizottság végzi.
-
-(7) A Művészeti Díj Bizottság elnöke a Bizottság alelnöke, tagjai a kultúráért felelős miniszter, valamint az Irodalmi Albizottság, a Képző-, Fotó- és Iparművészeti Albizottság, a Színház- és Filmművészeti Albizottság, továbbá a Zene- és Táncművészeti Albizottság elnökei.
+[^9]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
