@@ -12,7 +12,7 @@
 
 (7)[^5] A mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelethez az európai Unió Hivatalos Lapjában 2010. március 12-én megjelent helyesbítés szerinti „sovány (fölözött) tej”, illetve „zsírszegény tej” megjelölésnek nem megfelelő, de a helyesbítést megelőzően ezen tanácsi rendelet „fölözött tej”, illetve „félzsíros tej”megjelölésének megfelelő jelöléssel előállított csomagoló anyagok 2011. október 31-ig felhasználhatóak.
 
-(8)[^6] Az R. Mellékletének 14. sora 2011. január 20-án hatályát veszti.
+(8)[^6]
 
 (9)[^7] Hatályát veszti
 
@@ -25,6 +25,6 @@ e) 2011. január 22-én a (9) bekezdés.
 [^3]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^4]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte.
 [^5]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
-[^6]: A 2. § (8) bekezdését a (9) bekezdés d) pontja hatályon kívül helyezte 2011. január 21. napjával.
+[^6]: A 2. § (8) bekezdését a (9) bekezdés d) pontja hatályon kívül helyezte.
 [^7]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette 2011. január 22. napjával.
 [^8]: A 2. § (9) bekezdés a)–c) pontját a 37/2010. (IV. 13.) FVM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
