@@ -14,17 +14,10 @@
 
 (8)[^6]
 
-(9)[^7] Hatályát veszti
-
-a)–c)[^8]
-
-d) 2011. január 21-én a (8) bekezdés;
-
-e) 2011. január 22-én a (9) bekezdés.
+(9)[^7]
 
 [^3]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^4]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte.
 [^5]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
 [^6]: A 2. § (8) bekezdését a (9) bekezdés d) pontja hatályon kívül helyezte.
-[^7]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette 2011. január 22. napjával.
-[^8]: A 2. § (9) bekezdés a)–c) pontját a 37/2010. (IV. 13.) FVM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette.

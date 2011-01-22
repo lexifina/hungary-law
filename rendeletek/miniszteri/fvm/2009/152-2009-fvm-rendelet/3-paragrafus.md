@@ -1,4 +1,4 @@
-## 3. §[^9] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 3. §[^8] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 1. a Tanács 90/496/EGK irányelve (1990. szeptember 24.) az élelmiszerek tápértékjelöléséről, valamint az ezt módosító, a Bizottság 2003/120/EK és 2008/100/EK irányelvei;
 
@@ -66,4 +66,4 @@
 
 33. A Bizottság 2007/42/EK irányelve (2007. június 29.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokról és tárgyakról.
 
-[^9]: A 3. § a 65/2010. (V. 12.) FVM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § a 65/2010. (V. 12.) FVM rendelet 2. §-ával megállapított szöveg.
