@@ -2,25 +2,73 @@
 
 | Faj | Fajta |
 
-| Szarvasmarha és bivaly: | magyar szürke szarvasmarha magyar házibivaly |
+| Szarvasmarha és bivaly: | magyar szürke szarvasmarha |
 
-| Ló: | gidrán hucul kisbéri félvér lipicai furioso-north star nóniusz magyar hidegvérű shagya arab |
+|  | magyar házibivaly |
+
+| Ló: | gidrán |
+
+|  | hucul |
+
+|  | kisbéri félvér |
+
+|  | lipicai |
+
+|  | furioso-north star |
+
+|  | nóniusz |
+
+|  | magyar hidegvérű |
+
+|  | shagya arab |
 
 | Szamár: | magyar parlagi szamár |
 
-| Sertés: | szőke mangalica fecskehasú mangalica vörös mangalica |
+| Sertés: | szőke mangalica |
 
-| Juh: | hortobágyi (magyar) racka gyimesi racka tejelő cigája cigája cikta |
+|  | fecskehasú mangalica |
 
-| Tyúk: | sárga magyar tyúk kendermagos magyar tyúk fehér magyar tyúk fogolyszínű magyar tyúk erdélyi kopasznyakú tyúk |
+|  | vörös mangalica |
+
+| Juh: | hortobágyi (magyar) racka |
+
+|  | gyimesi racka |
+
+|  | tejelő cigája |
+
+|  | cigája |
+
+|  | cikta |
+
+| Kecske: | magyar parlagi kecske |
+
+| Tyúk: | sárga magyar tyúk |
+
+|  | kendermagos magyar tyúk |
+
+|  | fehér magyar tyúk |
+
+|  | fogolyszínű magyar tyúk |
+
+|  | fehér erdélyi kopasznyakú tyúk |
+
+|  | fekete erdélyi kopasznyakú tyúk |
+
+|  | kendermagos erdélyi kopasznyakú tyúk |
 
 | Gyöngytyúk: | magyar parlagi gyöngytyúk |
 
-| Lúd: | fodros tollú magyar lúd magyar lúd |
+| Lúd: | fodros tollú magyar lúd |
 
-| Kacsa: | magyar kacsa |
+|  | magyar lúd |
 
-| Pulyka: | bronz pulyka réz pulyka |
+| Kacsa: | fehér magyar kacsa |
+
+|  | tarka magyar kacsa |
+
+| Pulyka: | bronz pulyka |
+
+|  | réz pulyka |
 
 | Nyúl: | magyar óriás nyúl |
 

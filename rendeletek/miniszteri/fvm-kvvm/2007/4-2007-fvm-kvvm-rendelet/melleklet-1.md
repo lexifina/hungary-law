@@ -2,4 +2,4 @@
 
 1. számú melléklet a 4/2007. (I. 18.) FVM–KvVM együttes rendelethez[^1]
 
-[^1]: Az 1. számú melléklet a 92/2008. (VII. 24.) FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. számú melléklet a 2/2011. (I. 14.) VM rendelet 1. §-ával megállapított szöveg.
