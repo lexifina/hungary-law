@@ -8209,3 +8209,11 @@ Beteget ad, átvesz a fogadó/küldő intézetben, vagy másik mentőegységtől
 Részt vesz ápolástudományi kutatásban
 
 Önvédelmet alkalmaz
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+B Etika, szakmai etika
