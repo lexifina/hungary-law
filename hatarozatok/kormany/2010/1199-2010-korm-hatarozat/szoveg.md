@@ -28,13 +28,15 @@ b) a Nemzeti Fejlesztési Minisztérium fejlesztési és koordinációs államti
 
 c) a Belügyminisztérium önkormányzati államtitkára,
 
-d) a Közigazgatási és Igazságügyi Minisztériumnak a területi közigazgatásért és választásokért felelős államtitkára,
+d)[^1] a Közigazgatási és Igazságügyi Minisztériumnak a területi közigazgatásért és választásokért felelős államtitkára, valamint az egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
 
 e) a Nemzeti Erőforrás Minisztérium oktatásért felelős államtitkára, szociális, család- és ifjúságügyért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára és sportpolitikai államtitkára,
 
 f) a Vidékfejlesztési Minisztérium vidékfejlesztésért felelős államtitkára, és
 
-g) a Központi Statisztikai Hivatal elnöke.
+g) a Központi Statisztikai Hivatal elnöke,
+
+h)[^2] a Miniszterelnökség képviselője.
 
 6. A bizottsági tagot akadályoztatása esetén az általa képviselt tárca szervezeti és működési szabályzatában kijelölt helyettes-államtitkár helyettesíti.
 
@@ -53,3 +55,6 @@ g) a Központi Statisztikai Hivatal elnöke.
 13. A TFCTB működésének részletes szabályait ügyrendjében állapítja meg.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 5. pont d) alpontja az 1016/2011. (I. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont h) alpontját az 1016/2011. (I. 24.) Korm. határozat 2. pontja iktatta be.
