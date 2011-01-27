@@ -1,6 +1,6 @@
 ## Az adat- és titokvédelemre vonatkozó rendelkezések
 
-8. § (1)[^13] Az elektronikus hírközlési szolgáltatóval való együttműködés során végzett titkos információgyűjtéssel, annak eszközével és módszerével, valamint azok alkalmazásával összefüggő adatot, továbbá a 2. § c) és d) pontjaiban meghatározottakra, illetve az együttműködésre, adatszolgáltatásra vonatkozó adatot a minősített adat védelméről szóló jogszabályok alapján kell minősíteni, és azok szerint kell kezelni.
+8. § (1)[^12] Az elektronikus hírközlési szolgáltatóval való együttműködés során végzett titkos információgyűjtéssel, annak eszközével és módszerével, valamint azok alkalmazásával összefüggő adatot, továbbá a 2. § c) és d) pontjaiban meghatározottakra, illetve az együttműködésre, adatszolgáltatásra vonatkozó adatot a minősített adat védelméről szóló jogszabályok alapján kell minősíteni, és azok szerint kell kezelni.
 
 (2) Az elektronikus hírközlési szolgáltató és a titkos információgyűjtésre felhatalmazott szervezet, illetve az NBSZ – amennyiben az együttműködés tartalma szükségszerűen igényli minősített adatok átadását – titokvédelmi szerződést (a továbbiakban: szerződés) köt a minősített adatok átadásának és kezelésének feltételeiről.
 
@@ -10,4 +10,4 @@
 
 (5) A titkos információgyűjtésre felhatalmazott szervezetek által megkötött szerződés kiterjedhet az együttműködést érintő egyéb rendelkezésekre is.
 
-[^13]: A 8. § (1) bekezdése a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése, a 92/2010. (III. 31.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^12]: A 8. § (1) bekezdése a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése, a 92/2010. (III. 31.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.

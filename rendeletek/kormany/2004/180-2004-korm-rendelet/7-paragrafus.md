@@ -1,6 +1,6 @@
 ## A költségviselés szabályai
 
-7. §[^12] (1) Az elektronikus hírközlési szolgáltató viseli a 2. § c) pontjában meghatározott rendszer, valamint az 5. §-ban meghatározott adatok átadását biztosító adatkapcsolat és egyeztetett felület kiépítésének összes költségét.
+7. §[^11] (1) Az elektronikus hírközlési szolgáltató viseli a 2. § c) pontjában meghatározott rendszer, valamint az 5. §-ban meghatározott adatok átadását biztosító adatkapcsolat és egyeztetett felület kiépítésének összes költségét.
 
 (2) Az alapkiépítésű monitoring alrendszer és a kilépési pont közötti összeköttetés kialakításának költségei az elektronikus hírközlési szolgáltatót terhelik.
 
@@ -14,4 +14,4 @@
 
 (7) A 3. § (3) bekezdésének e) és f) pontjában foglaltak munkarenden kívüli teljesítése esetén az elektronikus hírközlési szolgáltató abban az esetben igényelheti ténylegesen felmerült költségei megtérítését, amennyiben alkalmazottjának kifejezetten e feladatok miatti személyes igénybevétele is szükséges a végrehajtáshoz.
 
-[^12]: A 7. § a 38/2008. (II. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: A 7. § a 38/2008. (II. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
