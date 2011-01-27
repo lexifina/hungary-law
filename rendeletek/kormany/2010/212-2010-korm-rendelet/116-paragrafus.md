@@ -4,7 +4,7 @@ a) javaslatot tesz a Kormány Európa-politikájának kereteire és fő irányai
 
 b) összehangolja a Kormánynak az európai uniós intézmények kormányzati részvétellel működő döntéshozó, döntés-előkészítő eljárásaiban képviselendő tárgyalási álláspontjait, biztosítja a tárgyalási álláspontok tartalmi összhangját és részt vesz azok kialakításában és közreműködik a magyar érdekek érvényesítésében,
 
-c)[^327] az Európai Unió döntéshozatali tevékenységében való részvételről és a kormányzati koordinációról szóló kormányhatározat által megjelölt vitás európai integrációs kérdésekben a Kormány egyidejű tájékoztatása mellett önállóan dönt,
+c)[^328] az Európai Unió döntéshozatali tevékenységében való részvételről és a kormányzati koordinációról szóló kormányhatározat által megjelölt vitás európai integrációs kérdésekben a Kormány egyidejű tájékoztatása mellett önállóan dönt,
 
 d) képviseli a Kormányt az Európai Unió Általános Ügyek és Külügyek Tanácsának ülésein, részt vesz az Európai Unió európaügyi minisztereinek találkozóin, valamint közreműködik az Európai Tanács munkájában és ellátja üléseinek előkészítését,
 
@@ -32,7 +32,7 @@ o) összehangolja a Kormány és az Országgyűlés európai integrációs ügye
 
 p) működteti és irányítja a Magyar Köztársaság Központi EU Nyilvántartóját,
 
-q)[^328] a közigazgatási és igazságügyi miniszter bevonásával és az érintett miniszterekkel együttműködve ellátja a Magyar Köztársaság képviseletét a közösségi jog megsértése miatt indult kötelezettségszegési eljárásokban az Európai Bíróság előtti eljárást megelőző szakaszban, valamint ezzel kapcsolatban – a közigazgatási és igazságügyi miniszter bevonásával – összehangolja a beadványok előkészítését, és az egyeztetések alapján elkészíti a beadványokat,
+q)[^329] a közigazgatási és igazságügyi miniszter bevonásával és az érintett miniszterekkel együttműködve ellátja a Magyar Köztársaság képviseletét a közösségi jog megsértése miatt indult kötelezettségszegési eljárásokban az Európai Bíróság előtti eljárást megelőző szakaszban, valamint ezzel kapcsolatban – a közigazgatási és igazságügyi miniszter bevonásával – összehangolja a beadványok előkészítését, és az egyeztetések alapján elkészíti a beadványokat,
 
 r) az Európai Bíróság előtti eljárásokban a Magyar Köztársaság képviseletét meghatalmazottként ellátó közigazgatási és igazságügyi miniszter képviselője mellett bevont képviselője útján részt vesz az Európai Bíróság előtti eljárásokban, valamint részt vesz az Európai Bíróság előtti eljárásokban és a képviselendő kormányzati álláspont kialakításában,
 
@@ -44,5 +44,5 @@ u) ellátja az Európai Unió többéves pénzügyi keretének tárgyalásaival 
 
 (2) A miniszter az európai integrációs ügyekért való felelőssége keretében előkészíti különösen az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-[^327]: A 116. § (1) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^328]: A 116. § (1) bekezdés q) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^328]: A 116. § (1) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^329]: A 116. § (1) bekezdés q) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

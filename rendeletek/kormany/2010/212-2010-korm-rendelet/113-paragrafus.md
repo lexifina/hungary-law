@@ -1,4 +1,4 @@
-113. § (1)[^313] A miniszter irányítja:
+113. § (1)[^314] A miniszter irányítja:
 
 a) a Mezőgazdasági és Vidékfejlesztési Hivatalt,
 
@@ -10,7 +10,7 @@ d) a Földmérési és Távérzékelési Intézetet,
 
 e) az Állami Ménesgazdaságot,
 
-f)[^314] a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét,
+f)[^315] a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét,
 
 g) a Magyar Mezőgazdasági Múzeumot,
 
@@ -20,7 +20,7 @@ i) az Állattenyésztési és Takarmányozási Kutatóintézetet,
 
 j) az Erdészeti Tudományos Intézetet,
 
-k)[^315] a VM Mezőgazdasági Gépesítési Intézetet,
+k)[^316] a VM Mezőgazdasági Gépesítési Intézetet,
 
 l) a Halászati és Öntözési Kutatóintézetet,
 
@@ -40,26 +40,26 @@ s) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügye
 
 t) a Vízügyi és Környezetvédelmi Központi Igazgatóságot,
 
-u)[^316] a Nemzeti Földalapkezelő Szervezetet,
+u)[^317] a Nemzeti Földalapkezelő Szervezetet,
 
 v) a környezetvédelmi és vízügyi igazgatóságokat,
 
 w) a nemzeti park igazgatóságokat,
 
-x)[^317] az Agrármarketing Centrumot.
+x)[^318] az Agrármarketing Centrumot.
 
-(2)[^318] A miniszter felügyeli
+(2)[^319] A miniszter felügyeli
 
-a)[^319]
+a)[^320]
 
 b) a Kormány nevében az ENSZ Élelmezési és Mezőgazdasági Szervezeteinek Magyar Nemzeti Bizottságát,
 
 c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgozó mező- és környezetgazdasági szakattasék működését.
 
-[^313]: A 113. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^314]: A 113. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^315]: A 113. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^316]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte, újonnan a 267/2010. (XII. 3.) Korm. rendelet 35. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 47. §-át.
-[^317]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^318]: A 113. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^319]: A 113. § (2) bekezdés a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (45) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^314]: A 113. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^315]: A 113. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^316]: A 113. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^317]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte, újonnan a 267/2010. (XII. 3.) Korm. rendelet 35. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 47. §-át.
+[^318]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^319]: A 113. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^320]: A 113. § (2) bekezdés a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (45) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
