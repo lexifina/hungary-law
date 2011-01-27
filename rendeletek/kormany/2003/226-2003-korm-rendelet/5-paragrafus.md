@@ -8,8 +8,8 @@ c) a segélykérő szolgálatokat értesítik.
 
 (2) A hatóság a nem azonosítható hívószámokról elektronikus nyilvántartást (a továbbiakban: nem azonosítható hívószám nyilvántartás) vezet.
 
-(3)[^1] A hatóságnál kell előterjeszteni a hívószámnak a nem azonosítható hívószám nyilvántartásba való felvétele iránti kérelmet. A hatóság a kérelmező által megjelölt hívószámnak a nem azonosítható hívószám nyilvántartásba vételére irányuló kérelemről tizenöt napon belül dönt.
+(3)[^3] A hatóságnál kell előterjeszteni a hívószámnak a nem azonosítható hívószám nyilvántartásba való felvétele iránti kérelmet. A hatóság a kérelmező által megjelölt hívószámnak a nem azonosítható hívószám nyilvántartásba vételére irányuló kérelemről tizenöt napon belül dönt.
 
 (4) A hatóságnak biztosítania kell, hogy az elektronikus hírközlési szolgáltatók folyamatosan és elektronikus úton, külön díj fizetése nélkül hozzáférhessenek a nem azonosítható hívószám nyilvántartásban foglalt hívószámok listájához.
 
-[^1]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 317. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (44) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 317. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (44) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
