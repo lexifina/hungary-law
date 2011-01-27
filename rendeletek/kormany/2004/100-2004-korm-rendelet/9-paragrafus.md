@@ -1,5 +1,8 @@
-## 9. § A pénzügyminiszter
+## 9. §[^19] Az államháztartásért és költségvetési politikáért felelős miniszter
 
-a) gondoskodik a felügyelete alá tartozó zártcélú elektronikus hírközlő hálózatok védelmi felkészítéséről és más hálózatokkal történő együttműködéséről;
+a)[^20]
 
 b) közreműködik az elektronikus hírközlés védelmi felkészítésére vonatkozó igények és lehetőségek, illetve a tervezett feladatok és költségvetési előirányzatok összhangjának megteremtésében, a tervjavaslatokban való megjelenítésében.
+
+[^19]: A 9. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (13) bekezdésével megállapított szöveg.
+[^20]: A 9. § a) pontját a 346/2010. (XII. 28.) Korm. rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte.

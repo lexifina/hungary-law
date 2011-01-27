@@ -1,11 +1,13 @@
-## 6. § A honvédelmi miniszter
+## 6. §[^10] A honvédelemért felelős miniszter
 
-a) gondoskodik a felügyelete alá tartozó zártcélú elektronikus hírközlő hálózatok védelmi felkészítéséről és más hálózatokkal történő együttműködéséről;
+a)[^11] gondoskodik az irányítása vagy felügyelete alá tartozó, elkülönült hírközlési tevékenység végzésére jogosult szervek kormányzati célú hírközlő hálózatainak védelmi felkészítéséről;
 
 b) az ágazati miniszterrel és az érintett miniszterekkel együttesen részt vesz az elektronikus hírközlés védelmi felkészítésére vonatkozó követelmények kidolgozásában, illetve együttműködési feladatok megoldásában;
 
 c) részt vesz az elektronikus hírközlés és légiriasztás felkészítésével kapcsolatos ellenőrzések és gyakorlatok megszervezésében és végrehajtásában;
 
-d)[^4] az ágazati miniszterrel és az önkormányzati és területfejlesztési miniszterrel egyeztetve gondoskodik a közszolgálati és nem közszolgálati műsorokat sugárzó rádió- és televízió állomások légiriasztási rendszerbe, illetve katasztrófavédelmi lakossági tájékoztatásba történő bevonására vonatkozó követelmények kidolgozásáról és esetenkénti felülvizsgálatáról.
+d)[^12] az ágazati miniszterrel és a katasztrófák elleni védekezésért felelős miniszterrel egyeztetve gondoskodik a közszolgálati és nem közszolgálati műsorokat sugárzó rádió- és televízió állomások légiriasztási rendszerbe, illetve katasztrófavédelmi lakossági tájékoztatásba történő bevonására vonatkozó követelmények kidolgozásáról és esetenkénti felülvizsgálatáról.
 
-[^4]: A 6. § d) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 177. pontja szerint módosított szöveg.
+[^10]: A 6. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (5) bekezdésével megállapított szöveg.
+[^11]: A 6. § a) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (5) bekezdésével megállapított szöveg.
+[^12]: A 6. § d) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (13) bekezdése szerint módosított szöveg.

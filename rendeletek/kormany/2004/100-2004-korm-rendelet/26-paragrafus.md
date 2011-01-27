@@ -1,4 +1,4 @@
-26. § (1) Az elektronikus hírközlés átállításával, gazdaságmozgósítási, minősített időszaki feladatainak koordinálásával és a szövetségi kötelezettségekből származó nemzetközi együttműködéssel kapcsolatos feladatokat az NHH látja el az általa üzemeltett Országos Informatikai és Hírközlési Főügyelet útján.
+26. § (1)[^39] Az elektronikus hírközlés átállításával, gazdaságmozgósítási, minősített időszaki feladatainak koordinálásával és a szövetségi kötelezettségekből származó nemzetközi együttműködéssel kapcsolatos feladatokat az NMHH látja el az általa üzemeltett Országos Informatikai és Hírközlési Főügyelet útján.
 
 (2) A koordináció kiterjed a Kormány, illetőleg a Honvédelmi Tanács, a honvédelem, rendvédelem és a nemzetbiztonság elektronikus hírközlésért felelős szervei, valamint az országban elektronikus hírközlési szolgáltatást ellátó szervek közötti tevékenységekre, így különösen
 
@@ -13,3 +13,5 @@ d) szükség esetén a különböző hálózatok külön jogszabályok szerinti 
 e) a felmerülő elektronikus hírközlési igények szempontjából kellően el nem látott területeken a kapacitások és hozzáférési lehetőségek gyors bővítésének szervezésére;
 
 f) rombolás, tömeges üzemkiesés, forgalmi torlódás esetén az országosan rendelkezésre álló erők, eszközök, tartalékok külön jogszabályok szerinti igénybevételével és összefogásával a helyreállítási, illetőleg kapacitás növelési munkák végrehajtására, segítésére és irányítására.
+
+[^39]: A 26. § (1) bekezdése a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.

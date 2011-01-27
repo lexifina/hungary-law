@@ -4,7 +4,7 @@
 
 a) a jogszabályoknak megfelelően képesek legyenek egységesen működő rendszert alkotni;
 
-b)[^1] alkalmasak legyenek a kormányzati szervek, a nemzetgazdaság, a Magyar Honvédség és a rendvédelmi szervek kommunikációs igényeinek kielégítésére, valamint a lakosság légiriasztásával, tájékoztatásával, élet- és vagyonbiztonságával, védelmével és ellátásával összefüggő elektronikus hírközlési feladatok teljesítésére;
+b)[^5] alkalmasak legyenek a kormányzati szervek, a nemzetgazdaság, a Magyar Honvédség és a rendvédelmi szervek kommunikációs igényeinek kielégítésére, valamint a lakosság légiriasztásával, tájékoztatásával, élet- és vagyonbiztonságával, védelmével és ellátásával összefüggő elektronikus hírközlési feladatok teljesítésére;
 
 c) biztosítsák az elektronikus hírközlési szolgáltatások folyamatosságát a védekezésben és a katasztrófaelhárításban részt vevő szervezetek kommunikációs igényeinek előtérbe helyezésével;
 
@@ -12,4 +12,4 @@ d) felkészültek legyenek az elektronikus hírközlés működését súlyosan 
 
 e) alkalmasak legyenek a Magyar Köztársaság NATO tagságából és a távközlési erőforrások biztosításáról katasztrófa- elhárítás és mentés céljára tárgyú Tamperei Egyezményből adódó nemzetközi kötelezettségek ellátására.
 
-[^1]: A 3. § b) pontja a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának k) pontja szerint módosított szöveg.
+[^5]: A 3. § b) pontja a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának k) pontja szerint módosított szöveg.

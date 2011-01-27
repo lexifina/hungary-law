@@ -1,8 +1,8 @@
-## 19. § Az elkészült beruházás, illetőleg részfeladat működtetési költségeinek költségvetésbe történő beállításáért az ágazati miniszter a felelős. Az ágazati miniszter a honvédelmi miniszterrel és a pénzügyminiszterrel egyetértésben, határozza meg az elkészült beruházás, illetőleg részfeladat békeidőszaki hasznosításának vagy tartalékként történő kezelésének feltételeit.
+## 19. §[^34] Az elkészült beruházás, illetőleg részfeladat működtetési költségeinek költségvetésbe történő beállításáért az ágazati miniszter a felelős. Az ágazati miniszter a honvédelemért felelős miniszterrel, valamint az államháztartásért és költségvetési politikáért felelős miniszterrel egyetértésben, határozza meg az elkészült beruházás, illetőleg részfeladat békeidőszaki hasznosításának vagy tartalékként történő kezelésének feltételeit.
 
-## 20. §[^13] Az elektronikus hírközlés felkészítési tevékenységei ellenőrzésének és gyakoroltatásának rendjét az NHH bevonásával az ágazati miniszter, a honvédelmi miniszter és az önkormányzati és területfejlesztési miniszter együttműködve alakítja ki. Ennek során különös gondot kell fordítani
+## 20. §[^35] Az elektronikus hírközlés felkészítési tevékenységei ellenőrzésének és gyakoroltatásának rendjét az NMHH bevonásával az ágazati miniszter, a honvédelemért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter együttműködve alakítja ki. Ennek során különös gondot kell fordítani
 
-a) a zártcélú hálózatokhoz tartozó előkészített összeköttetések terveire, műszaki előkészítésére és aktivizálásának megszervezésére;
+a)[^36] a kormányzati célú hálózatokhoz tartozó előkészített összeköttetések terveire, műszaki előkészítésére és aktivizálásának megszervezésére;
 
 b) a hálózatirányítási rendszer speciális feladatainak végrehajtására;
 
@@ -18,4 +18,6 @@ g) a rádió és televízió műsorszóró hálózaton előkészített lakosság
 
 h) az elektronikus hírközlés korlátozási szabályai bevezetésének előkészítettségére.
 
-[^13]: A 20. § bevezető szövegrészének első mondata a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 177. pontja szerint módosított szöveg.
+[^34]: A 19. § a 346/2010. (XII. 28.) Korm. rendelet 35. § (13) bekezdése szerint módosított szöveg.
+[^35]: A 20. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (9) bekezdésével megállapított szöveg.
+[^36]: A 20. § a) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (9) bekezdésével megállapított szöveg.
