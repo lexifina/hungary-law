@@ -26,7 +26,7 @@ a) a sajátos építményfajták körébe tartozó honvédelmi és katonai cél�
 
 b)[^3] a nemzetbiztonsági célú, illetve rendeltetésű, valamint a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. mellékletének 2. pontjában megjelölt építmények,
 
-c) a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti villamosmű, az összekötő és a felhasználói berendezés, valamint a termelői vezeték, magánvezeték és a közvetlen vezeték; a villamos hálózati-, és a villamos energia termelői engedélyesek tulajdonában vagy rendelkezésében lévő zártcélú távközlési és adatátviteli rendszer,
+c)[^4] a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti villamosmű, az összekötő és a felhasználói berendezés, valamint a termelői vezeték, magánvezeték és a közvetlen vezeték; a villamos hálózati-, és a villamos energia termelői engedélyesek tulajdonában vagy rendelkezésében lévő kormányzati célú hírközlési és adatátviteli rendszer,
 
 d) a földgázellátásról szóló törvény szerinti nyomvonalas építmények a hozzájuk tartozó tartozékokkal és szerelvényekkel,
 
@@ -41,3 +41,4 @@ h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és beren
 [^1]: Az 1. § (1) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 48. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 62. § (7) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pontja a 63/2010. (III. 18.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés c) pontja a 346/2010. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
