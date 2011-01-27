@@ -1,7 +1,3 @@
-## Az informatikai közháló
+## 23–25. §[^4]
 
-26. § (1) Az IKH működtetését a Miniszterelnöki Hivatal a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala közreműködésével biztosítja. A rendszer felügyeletét, szolgáltatásait az EKG-val összehangoltan valósítja meg. A szolgáltatást közbeszerzés alapján kiválasztott szolgáltatók biztosítják.
-
-(2) A közhálóra csatlakozott szervezetek alapszintű szolgáltatásra külön díj megfizetése nélkül jogosultak, emelt szintű szolgáltatások igénybevétele esetén a közbeszerzési eljárás eredményeként kialakult díjtételeket meg kell fizetniük.
-
-(3) Az IKH alapszintű szolgáltatása: szélessávú internet és levelezési szolgáltatás a legjobb gyakorlat szerint, minőségi garanciák nélkül.
+[^4]: A 23–25. §-t és a 23. §-t megelőző alcímet a 346/2010. (XII. 28.) Korm. rendelet 40. § (1) bekezdés e) pontja hatályon kívül helyezte.
