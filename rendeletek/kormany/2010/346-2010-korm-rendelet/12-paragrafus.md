@@ -1,0 +1,5 @@
+12. § (1) Az EDR használatára a 3. mellékletben meghatározott felhasználók jogosultak.
+
+(2) Ha a 3. mellékletben meghatározott felsorolás valamely felhasználóval kapcsolatosan meghatározza, hogy az adott felhasználónál az EDR használatára csak annak meghatározott feladatot ellátó vezetője vagy szervezeti egysége jogosult, a felhasználó az EDR használatára csak a felsorolt feladatok ellátásában közreműködő, a szervvel közszolgálati-, kormánytisztviselői-, közalkalmazotti-, szolgálati- vagy munkajogi jogviszonyban álló végfelhasználókat jogosíthatja fel. Ha a 3. melléklet ezt a felhasználónál nem nevesíti, a felhasználó saját maga dönt arról, hogy milyen, a feladata ellátásában vele közreműködő végfelhasználóknak biztosítja az EDR használatát.
+
+(3) A kormányzati célú hírközlési szolgáltató jogosult a (2) bekezdésben foglalt feltételek teljesülését ellenőrizni, és ellenőrzése esetén a felhasználó köteles a kormányzati célú hírközlési szolgáltató számára az ellenőrzéshez szükséges adatokat – a minősített és a személyes adatra vonatkozó feltételek betartásával – megadni.

@@ -1,0 +1,3 @@
+7. § (1) A kormányzati célú hírközlési szolgáltató a kormányzati célú hírközlési szolgáltatást a felhasználók számára a felhasználókkal vagy a felhasználó irányításáért vagy felügyeletéért felelős szervvel, illetve a felhasználóra vonatkozó költségvetési fejezetet irányító szervvel kötött felhasználói szerződés alapján nyújtja.
+
+(2) A kormányzati célú hírközlési szolgáltató a felhasználók által nem használt vagy le nem kötött adathálózati vagy infrastrukturális kapacitásai erejéig jogosult más elektronikus hírközlési szolgáltató számára is hálózati szolgáltatást nyújtani, vagy elektronikus hírközlési szolgáltatóval hálózati szolgáltatásnak nem minősülő közös eszközhasználatban megállapodni.
