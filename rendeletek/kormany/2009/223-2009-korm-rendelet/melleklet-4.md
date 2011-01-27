@@ -114,7 +114,7 @@
 
 ## Az IBSz a biztonsági kérdésekben alapszabályzat, ugyanakkor nem tér ki részletesen az üzembiztonság minden aspektusára, hanem az őt körülvevő szabályozási rendszer szerves része, lehetőség szerint kerülve az átfedéseket. Tartalmazza ugyanakkor a szabályozás további szükséges területeit, amelyek azonban olyan mértékben helyzetfüggőek, hogy jogszabályi szinten szabályozásuk nem kezelhető.
 
-## Az IBSz szándékoltan nem áll meg önmagában, hanem szervesen beilleszkedik az őt körülfogó szabályzati rendszerbe, vagyis eredeztethető a megfelelő jogszabályokból (pl. államtitkokról szóló rendeletek stb.) és szabványokból (pl. Országos Építési Szabályzat, ITSEC stb.), kiegészíti az EKG működési szabályzatát és megteremti az alapot az üzembiztonság egyes aspektusaival (pl. biztonsági szervezet működési szabályzata, katasztrófa terv stb.) részletesen foglalkozó szabályzatok létrehozásához.
+## Az IBSz szándékoltan nem áll meg önmagában, hanem szervesen beilleszkedik az őt körülfogó szabályzati rendszerbe, vagyis eredeztethető a megfelelő jogszabályokból (pl. minősített adatról szóló rendeletek stb.) és szabványokból (pl. Országos Építési Szabályzat, ITSEC stb.), kiegészíti az EKG működési szabályzatát és megteremti az alapot az üzembiztonság egyes aspektusaival (pl. biztonsági szervezet működési szabályzata, katasztrófa terv stb.) részletesen foglalkozó szabályzatok létrehozásához.
 
 ## A biztonsági szabályzatot a hálózatgazdának évente felül kell vizsgálni és szükség esetén aktualizálni, kiegészíteni. A hálózatban bekövetkező jelentős változások esetén a felülvizsgálatot soron kívül el kell végezni.
 
@@ -134,7 +134,7 @@
 
 ## Az intézkedések konkrét feladatokat jelentenek, a felelős és a végrehajtás ajánlott gyakoriságával együtt.
 
-## A felelős megjelölésénél az IBSz szabályzat a hálózatgazda, az üzemeltető és a csatlakozott/csatlakozandó intézmény szintjén marad (az IBSZ alapfogalmainak értelmezését a szabályzat 1. számú függeléke tartalmazza).
+## A felelős megjelölésénél az IBSz szabályzat a kormányzati célú hírközlési szolgáltató, az üzemeltető és a csatlakozott/csatlakozandó intézmény szintjén marad (az IBSZ alapfogalmainak értelmezését a szabályzat 1. számú függeléke tartalmazza).
 
 ## 2.1. Szervezet
 
@@ -154,7 +154,7 @@
 
 | Eredmény: | Biztonságért felelős szervezet. |
 
-| Felelős: | Hálózatgazda (a szabályzat meglétéért, EKG-ra vonatkozó tartalmáért és a szervezet kialakításáért) |
+| Felelős: | Kormányzati célú hírközlési szolgáltató (a szabályzat meglétéért, EKG-ra vonatkozó tartalmáért és a szervezet kialakításáért) |
 
 | Gyakoriság: | A biztonsági szabályzat hatálybalépésekor, ezt követően szükség szerint (megfelelő munkatárs távozása stb.). |
 
@@ -164,7 +164,7 @@
 
 | Eredmény: | Feladatok és hatáskörök pontos leírása. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | A biztonsági szabályzat hatálybalépésekor, majd ezt követően legalább évente kell felülvizsgálni, illetve káresemény esetén azonnal. |
 
@@ -178,7 +178,7 @@
 
 | Eredmény: | Körültekintően kiválasztott, megbízható személyzet. |
 
-| Felelős: | Hálózatgazda, üzemeltető, csatlakozott szervezetek |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető, csatlakozott szervezetek |
 
 | Gyakoriság: | A biztonsági szabályzat hatálybalépésekor, majd ezt követően szükség szerint (munkatárs távozása stb.). |
 
@@ -192,7 +192,7 @@
 
 | Eredmény: | Képzett, a feladatait megfelelően ellátni képes, a biztonsági előírásokkal és teendőkkel tisztában lévő személyi állomány. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | A biztonsági szabályzat hatálybalépésekor, majd ezt követően szükség szerint (új munkatárs belépése stb.), rendszeres ismeret karbantartás. |
 
@@ -202,7 +202,7 @@
 
 | Eredmény: | Betartott biztonsági előírások. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Folyamatosan, de nem kiszámítható módon (fontos, hogy ne lehessen rá előre felkészülni). |
 
@@ -218,7 +218,7 @@
 
 | Eredmény: | Ellenőrzött, visszakövethető és naprakészen tartott védelmi intézkedések. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Félévente, illetve káresemény esetén azonnal. |
 
@@ -236,7 +236,7 @@
 
 | Eredmény: | Elhárított és elemzett káresemény, a jövőbeli előfordulás elkerülését célzó jóváhagyott és végrehajtott akcióterv. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Káresemény esetén. |
 
@@ -244,7 +244,7 @@
 
 | Csatlakozott/csatlakoztatandó szervezetek biztonsági szabályzata |
 
-| Feladat: | – Minden csatlakozó szervezetnek az EKG biztonsági szabályzatával összhangban álló, azzal teljes mértékben harmonizáló biztonsági szabályzatot kell kidolgozni (újonnan csatlakozó szervezet esetén ez alapkövetelmény), melyet a hálózatgazda nevében az EKG biztonsági felelősének véleményeznie kell. Ha a csatlakozott szervezet teljes biztonsági szabályzata nem adható ki véleményezésre, akkor az EKG-t érintő részeket kell véleményezni. |
+| Feladat: | – Minden csatlakozó szervezetnek az EKG biztonsági szabályzatával összhangban álló, azzal teljes mértékben harmonizáló biztonsági szabályzatot kell kidolgozni (újonnan csatlakozó szervezet esetén ez alapkövetelmény), melyet a kormányzati célú hírközlési szolgáltató nevében az EKG biztonsági felelősének véleményeznie kell. Ha a csatlakozott szervezet teljes biztonsági szabályzata nem adható ki véleményezésre, akkor az EKG-t érintő részeket kell véleményezni. |
 
 | Eredmény: | Az EKG biztonsági felelőse által véleményezett biztonsági szabályzat. |
 
@@ -264,7 +264,7 @@
 
 | Eredmény: | Egységes beszerzési politika (egységes megbízhatóságú rendszer). |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Az informatikai biztonsági szabályzat hatálybalépésekor aktualizálni a külső tényezők (pl. jogszabályok stb.) megváltozásakor, illetve a piac lényeges változásakor szükséges. |
 
@@ -276,7 +276,7 @@
 
 | Eredmény: | Amortizációs szabályok. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | A biztonsági szabályzat hatálybalépésekor, aktualizálni a külső vagy belső tényezők (pl. technológia stb.) megváltozásakor szükséges. |
 
@@ -346,7 +346,7 @@
 
 | Eredmény: | Katasztrófa terv. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Az informatikai biztonsági szabályzat hatálybalépésekor, majd ezt követően évente, illetve a körülmények lényegi megváltozása esetén kell aktualizálni. |
 
@@ -388,7 +388,7 @@
 
 | Eredmény: | Fizikailag elkülönített biztonsági zónák az EKG üzemelését biztosító épületekben. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Az informatikai biztonsági szabályzat hatálybalépésekor. |
 
@@ -398,7 +398,7 @@
 
 | Eredmény: | A definiált biztonsági zónákba csak a jogosult embereknek, személyeknek van belépési lehetősége. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | A rendszer kiépítésekor, illetve új helyiségek igénybevételekor. |
 
@@ -406,13 +406,13 @@
 
 | Számítógéptermek |
 
-| Feladat: | – Az EKG védett eszközeit (szerverek, menedzsment eszközök stb.) az üzemeltető köteles a hálózatgazda által kijelölt helyiségekben elhelyezni. |
+| Feladat: | – Az EKG védett eszközeit (szerverek, menedzsment eszközök stb.) az üzemeltető köteles a kormányzati célú hírközlési szolgáltató által kijelölt helyiségekben elhelyezni. |
 
 |  | – A hálózatgazdának gondoskodnia kell arról, hogy a kijelölt helyiségek rendelkezzenek mindazokkal a felszerelésekkel, amelyek a nagy üzembiztonságú rendszerek üzemeltetéséhez kellenek (részletesen lásd az Infrastruktúra fejezet további intézkedéseiben). |
 
 | Eredmény: | Az EKG eszközeinek a nagy üzembiztonságú működést biztosítani képes környezetben való elhelyezése. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Amikor az EKG bővülése ezt szükségessé teszi. |
 
@@ -424,7 +424,7 @@
 
 | Eredmény: | Az EKG számítógéptermeibe csak a hozzáféréshez jogosult emberek lépnek be, illetéktelenül nem juthatnak be a helyiségekbe. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | A számítógépterem üzembe helyezésekor, illetve a jogosulti kör változásakor haladéktalanul. |
 
@@ -434,7 +434,7 @@
 
 | Eredmény: | Az EKG számítógéptermeibe csak a hozzáféréshez jogosult emberek, személyek lépnek be. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Számítógépterem üzembe helyezésekor, illetve a jogosulti kör változásakor haladéktalanul. |
 
@@ -446,7 +446,7 @@
 
 | Eredmény: | Fizikailag védett számítógéptermek. |
 
-| Felelős: | Az üzemeltető telephelyén az üzemeltető, a hálózatgazda telephelyén lévő helyiségek védelméért a hálózatgazda a felelős. Csak olyan helyiségben lehet EKG eszközt elhelyezni, amelyre annak üzemeltetője garanciát vállal az EKG normáinak megfelelő biztonságáért. |
+| Felelős: | Az üzemeltető telephelyén az üzemeltető, a kormányzati célú hírközlési szolgáltató telephelyén lévő helyiségek védelméért a kormányzati célú hírközlési szolgáltató a felelős. Csak olyan helyiségben lehet EKG eszközt elhelyezni, amelyre annak üzemeltetője garanciát vállal az EKG normáinak megfelelő biztonságáért. |
 
 | Gyakoriság: | Számítógéptermek kialakításakor 2 évente, illetve átalakításkor felülvizsgálva az intézkedéseket. |
 
@@ -480,7 +480,7 @@
 
 | Eredmény: | Belépési eszközök rendeltetésének megfelelő használata. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Belépési eszköz kiadásakor. |
 
@@ -494,13 +494,13 @@
 
 | Eredmény: | Számítógéptermeken kívül található eszközök szerződésben meghatározott védelme. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Szerződések megkötésekor. |
 
 | Üzemeltető raktárának védelme |
 
-| Feladat: | – Mivel az üzemeltető a tartalék eszközöket nem a számítógéptermekben tárolja, ezért szükséges a raktárnak is a megfelelő belépési és fizikai védelme. A raktárba csak az üzemeltető léphet be, illetve akinek a hálózatgazda erre külön engedélyt ad. |
+| Feladat: | – Mivel az üzemeltető a tartalék eszközöket nem a számítógéptermekben tárolja, ezért szükséges a raktárnak is a megfelelő belépési és fizikai védelme. A raktárba csak az üzemeltető léphet be, illetve akinek a kormányzati célú hírközlési szolgáltató erre külön engedélyt ad. |
 
 | Eredmény: | Tartalék eszközöket tároló raktár megfelelő védelme. |
 
@@ -512,13 +512,13 @@
 
 | Eszközök szünetmentes áramellátásának biztosítása |
 
-| Feladat: | – Az üzemeltetőnek – a hálózatgazda által biztosított eszközök terhére – gondoskodnia kell arról, hogy az EKG eszközeinek szünetmentes áramellátása biztosítva legyen. Az üzemeltetést biztosító eszközöket redundáns UPS-sel szükséges ellátni. A hosszabb áramszünetek esetére tartalék generátort kell biztosítani az országos központban. A megyei központokban a tervezett áramszünetek esetére mobil generátoros megoldást kell biztosítani (az üzemeltető szakemberei szállítják a helyszínre a generátort). |
+| Feladat: | – Az üzemeltetőnek – a kormányzati célú hírközlési szolgáltató által biztosított eszközök terhére – gondoskodnia kell arról, hogy az EKG eszközeinek szünetmentes áramellátása biztosítva legyen. Az üzemeltetést biztosító eszközöket redundáns UPS-sel szükséges ellátni. A hosszabb áramszünetek esetére tartalék generátort kell biztosítani az országos központban. A megyei központokban a tervezett áramszünetek esetére mobil generátoros megoldást kell biztosítani (az üzemeltető szakemberei szállítják a helyszínre a generátort). |
 
 |  | – Az UPS-eket rendszeresen ellenőrizni kell, mert azok akkumulátorai gyakran meghibásodhatnak. Az UPS-ekből ennek megfelelően kellő számú tartalékot kell képezni (lásd 3.3.6. Tartalékgazdálkodás). |
 
 | Eredmény: | Szünetmentes energiaforrással (UPS) és generátorral ellátott számítástechnikai eszközök. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Számítógéptermek kialakításakor, félévente ellenőrizve az UPS és a generátor állapotát. |
 
@@ -528,7 +528,7 @@
 
 | Eredmény: | Optimális hőmérséklet a számítástechnikai eszközök zavartalan működéséhez. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Infrastruktúra kiépítésekor, illetve új infrastruktúra igénybevételekor. |
 
@@ -560,7 +560,7 @@
 
 | Eredmény: | Vihar- és villámvédett épületek, eszközök. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Kiépítéskor. |
 
@@ -570,7 +570,7 @@
 
 | Eredmény: | Túlfeszültség elleni védelem. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Eszközök telepítésekor. |
 
@@ -586,7 +586,7 @@
 
 | Eredmény: | Megfelelő tűzvédelemmel ellátott eszközök, illetve helyiségek. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | 2 évente, de minden rendszer indításakor, minden új helyiség igénybevétele esetén, valamint tűzeset után. |
 
@@ -610,7 +610,7 @@
 
 | Eredmény: | Vízveszélytől védett EKG-eszközök. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | A „vízbiztos” helyszínek kijelölését a rendszer telepítésekor, illetve konkrét intézkedéseket vízveszély esetén szükséges megtenni. |
 
@@ -660,7 +660,7 @@
 
 | Szerverek cseréje |
 
-| Feladat: | – Az amortizáció nyomán a régi szervereket ki kell cserélni, hogy a korszerűbb operációs rendszerek, védelmi programok, illetve egyéb szoftverek megfelelően futhassanak rajtuk. Ennek megfelelően a hardverekből kell tartalék. A szerverek cseréjét az üzemeltető kell javasolja írásban, amit a hálózatgazda bírál el. |
+| Feladat: | – Az amortizáció nyomán a régi szervereket ki kell cserélni, hogy a korszerűbb operációs rendszerek, védelmi programok, illetve egyéb szoftverek megfelelően futhassanak rajtuk. Ennek megfelelően a hardverekből kell tartalék. A szerverek cseréjét az üzemeltető kell javasolja írásban, amit a kormányzati célú hírközlési szolgáltató bírál el. |
 
 |  | – A régi szervereken levő tartalomról biztonsági mentést kell készíteni. |
 
@@ -668,7 +668,7 @@
 
 | Eredmény: | Korszerű hardverek, melyeken az újabb fejlesztésű szoftverek is megfelelően futnak. |
 
-| Felelős: | Szervercsere időben történő igénylése és indokolása: üzemeltető; Szervercseréről döntés: hálózatgazda |
+| Felelős: | Szervercsere időben történő igénylése és indokolása: üzemeltető; Szervercseréről döntés: kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Üzemeltető javaslata alapján. |
 
@@ -720,7 +720,7 @@
 
 | Hálózati hardver eszközök cseréje |
 
-| Feladat: | – A hálózati eszköz cseréjét az üzemeltető kell javasolja írásban, amit a hálózatgazda bírál el. Ezen túlmenően a hálózatgazda is utasíthatja írásban az üzemeltetőt az eszköz cseréjére. |
+| Feladat: | – A hálózati eszköz cseréjét az üzemeltető kell javasolja írásban, amit a kormányzati célú hírközlési szolgáltató bírál el. Ezen túlmenően a kormányzati célú hírközlési szolgáltató is utasíthatja írásban az üzemeltetőt az eszköz cseréjére. |
 
 |  | – A javításra külső szervezetnek átadott, illetve leselejtezett hálózati eszközök nem tartalmazhatnak konfigurációs információt. |
 
@@ -730,7 +730,7 @@
 
 | Eredmény: | Működőképes hálózati hardver eszközök. |
 
-| Felelős: | Hálózati hardver eszköz cseréjének időben történő jelzése és indoklása: üzemeltető; Eszközcseréről döntés: hálózatgazda. |
+| Felelős: | Hálózati hardver eszköz cseréjének időben történő jelzése és indoklása: üzemeltető; Eszközcseréről döntés: kormányzati célú hírközlési szolgáltató. |
 
 | Gyakoriság: | Üzemeltető javaslata alapján. |
 
@@ -832,7 +832,7 @@
 
 | Eredmény: | Megfelelő mennyiségű tartalék, mely meghibásodás esetén is biztosítja az EKG üzemelését. |
 
-| Felelős: | Tartalékképzésért és tartalékok időben történő igényléséért: üzemeltető; Tartalékok beszerzéséért: hálózatgazda. |
+| Felelős: | Tartalékképzésért és tartalékok időben történő igényléséért: üzemeltető; Tartalékok beszerzéséért: kormányzati célú hírközlési szolgáltató. |
 
 | Gyakoriság: | Folyamatosan. |
 
@@ -980,7 +980,7 @@
 
 | Eredmény: | Szolgáltatási szint megállapodások (SLA). |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Az üzemeltetési szerződés, illetve a szolgáltatási szerződések megkötésekor, megújításakor. |
 
@@ -990,11 +990,11 @@
 
 |  | – A hálózatgazdának gondoskodnia kell arról is, hogy létezzen olyan vidéki központ, mely ha csökkentett funkcionalitással is, de képes átvenni a hálózat üzemeltetési központjának a szerepét olyan esetben, amikor Budapest nagy területét érintő katasztrófahelyzet következik be. |
 
-|  | – Amennyiben a hálózatgazda biztosítja az ehhez szükséges eszközöket és helyiségeket, úgy az üzemeltető feladata a központok megtervezése, kialakítása és üzembe helyezése. |
+|  | – Amennyiben a kormányzati célú hírközlési szolgáltató biztosítja az ehhez szükséges eszközöket és helyiségeket, úgy az üzemeltető feladata a központok megtervezése, kialakítása és üzembe helyezése. |
 
 | Eredmény: | Nagyon megbízható hálózati struktúra. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Az anyagi források rendelkezésre állásától függően. |
 
@@ -1008,7 +1008,7 @@
 
 | Eredmény: | Nagyon megbízható hálózati struktúra. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | A hálózati elem üzembe állításakor, illetve a hálózat bővítésekor. |
 
@@ -1052,15 +1052,15 @@
 
 | Jogosultságok kiadásának és visszavonásának folyamata és szabályai |
 
-| Feladat: | – Jogosultságok kiadására és visszavonására a hálózatgazda jogosult, melyet utasítására az üzemeltető végez el, csatlakozott intézményeknek bármilyen ezzel kapcsolatos igényüket írásban kell jelezniük. |
+| Feladat: | – Jogosultságok kiadására és visszavonására a kormányzati célú hírközlési szolgáltató jogosult, melyet utasítására az üzemeltető végez el, csatlakozott intézményeknek bármilyen ezzel kapcsolatos igényüket írásban kell jelezniük. |
 
 |  | – Jogosultságkérés esetén minden esetben meg kell vizsgálni annak indokoltságát, és ennek eredménye alapján kell meghozni az engedélyezési döntést. |
 
-|  | – Minden a hálózatban valamilyen szereppel bíró intézmény (csatlakozott intézmények, üzemeltető) haladéktalanul köteles tájékoztatni a hálózatgazdát, ha valamely személy vagy alkalmazás bármilyen jogosultságát vissza kell vonni (pl. dolgozó kilép, új munkakörbe kerül, alkalmazást lecserélik stb.). Ilyen esetben a hálózatgazda köteles azonnal intézkedni. |
+|  | – Minden a hálózatban valamilyen szereppel bíró intézmény (csatlakozott intézmények, üzemeltető) haladéktalanul köteles tájékoztatni a hálózatgazdát, ha valamely személy vagy alkalmazás bármilyen jogosultságát vissza kell vonni (pl. dolgozó kilép, új munkakörbe kerül, alkalmazást lecserélik stb.). Ilyen esetben a kormányzati célú hírközlési szolgáltató köteles azonnal intézkedni. |
 
 | Eredmény: | Ellenőrzött jogosultság kiadás és visszavonás. |
 
-| Felelős: | Hálózatgazda, üzemeltető, csatlakozott intézmény |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető, csatlakozott intézmény |
 
 | Gyakoriság: | Jogosultsági igény felléptekor vagy megszűnésekor. |
 
@@ -1088,7 +1088,7 @@
 
 | Eredmény: | Ismert és minden jogosult által elfogadott eljárásrend. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Az informatikai biztonsági szabályzat hatálybalépésekor, majd ezt követően évente felülvizsgálva. |
 
@@ -1102,7 +1102,7 @@
 
 | Eredmény: | Ismert és minden jogosult által elfogadott eljárásrend. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Az informatikai biztonsági szabályzat hatálybalépésekor, majd ezt követően évente felülvizsgálva. |
 
@@ -1118,7 +1118,7 @@
 
 | Eredmény: | Biztonságos, VPN-en keresztül történő kommunikáció. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | VPN-ek kialakítása előtt. |
 
@@ -1130,7 +1130,7 @@
 
 | Eredmény: | Biztonságos, VPN-en keresztül történő kommunikáció. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Csatlakozáskor, illetve intézmény igénye esetén. |
 
@@ -1156,7 +1156,7 @@
 
 | Eredmény: | Az intézmény oldaláról logolt kapcsolat, melyet az igénylési adminisztráció és a felelősség miatt valószínűleg megfontoltabban kér az intézmény. |
 
-| Felelős: | Hálózatgazda az engedélyezésért, üzemeltető a felügyeletért |
+| Felelős: | Kormányzati célú hírközlési szolgáltató az engedélyezésért, üzemeltető a felügyeletért |
 
 | Gyakoriság: | Külső VPN-kapcsolat igénylése esetén. |
 
@@ -1210,13 +1210,13 @@
 
 | Feladat: | – Amennyiben valamilyen csatlakozott intézmény tevékenységéhez a tűzfalon egy új portot akar megnyittatni, úgy azt írásban a hálózatgazdával kell engedélyeztetni. |
 
-|  | – A hálózatgazda az üzemeltető segítségével megvizsgálja, hogy a kérvényezett port megnyitása milyen kockázatokat rejt magában. A vizsgálatról írásos jegyzőkönyvet kell készíteni, melyet legalább 2 évig biztonságos helyen, lopástól és manipulációtól védett módon meg kell őrizni. A kockázati szinttől függően engedélyezhető a port megnyitása. |
+|  | – A kormányzati célú hírközlési szolgáltató az üzemeltető segítségével megvizsgálja, hogy a kérvényezett port megnyitása milyen kockázatokat rejt magában. A vizsgálatról írásos jegyzőkönyvet kell készíteni, melyet legalább 2 évig biztonságos helyen, lopástól és manipulációtól védett módon meg kell őrizni. A kockázati szinttől függően engedélyezhető a port megnyitása. |
 
-|  | – Az üzemeltető negyedévente köteles felülvizsgálni a megnyitott portokat. Nem használt vagy veszélyforrást jelentő nyitott portok esetén kezdeményezni kell azok lezárását, amit a hálózatgazda hagy jóvá és az üzemeltető végez el. Ilyen esetben előzetesen írásban kell az adott intézményt értesíteni. |
+|  | – Az üzemeltető negyedévente köteles felülvizsgálni a megnyitott portokat. Nem használt vagy veszélyforrást jelentő nyitott portok esetén kezdeményezni kell azok lezárását, amit a kormányzati célú hírközlési szolgáltató hagy jóvá és az üzemeltető végez el. Ilyen esetben előzetesen írásban kell az adott intézményt értesíteni. |
 
 | Eredmény: | Felügyelt és ellenőrzött port megnyitások. |
 
-| Felelős: | Csatlakozott intézmény, hálózatgazda, üzemeltető |
+| Felelős: | Csatlakozott intézmény, kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Port megnyitás kérésekor, illetve a felülvizsgálat negyedévente. |
 
@@ -1230,7 +1230,7 @@
 
 | Eredmény: | Biztonságosan üzemeltethető hálózat. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Csatlakozás esetén. |
 
@@ -1242,7 +1242,7 @@
 
 | Eredmény: | Üzemeltető felügyelete alatt álló routerek. |
 
-| Felelős: | Felügyeletért az üzemeltető, a betekintési jogok adásáért a hálózatgazda. |
+| Felelős: | Felügyeletért az üzemeltető, a betekintési jogok adásáért a kormányzati célú hírközlési szolgáltató. |
 
 | Gyakoriság: | Csatlakozás esetén. |
 
@@ -1264,7 +1264,7 @@
 
 | Eredmény: | A csatlakozott intézmény főbb – üzemeltetés szempontjából lényeges – adatai. |
 
-| Felelős: | Hálózatgazda, üzemeltető |
+| Felelős: | Kormányzati célú hírközlési szolgáltató, üzemeltető |
 
 | Gyakoriság: | Csatlakozás, illetve valamely adat megváltozása esetén. |
 
@@ -1328,11 +1328,11 @@
 
 | Nagy felhasználószámú intézmény csatlakozása |
 
-| Feladat: | – Amennyiben nagy felhasználószámú intézmény csatlakozik az EKG-hoz, úgy a hálózatgazda értesítse az üzemeltetőt, hogy az fel tudjon készülni a várható terhelésnövekedésre. Ilyen esetben eszközbővítések válhatnak szükségessé. |
+| Feladat: | – Amennyiben nagy felhasználószámú intézmény csatlakozik az EKG-hoz, úgy a kormányzati célú hírközlési szolgáltató értesítse az üzemeltetőt, hogy az fel tudjon készülni a várható terhelésnövekedésre. Ilyen esetben eszközbővítések válhatnak szükségessé. |
 
 | Eredmény: | Nagyobb intézmény csatlakozása sem okoz negatív változást az üzemeltetés biztonságában. |
 
-| Felelős: | Hálózatgazda |
+| Felelős: | Kormányzati célú hírközlési szolgáltató |
 
 | Gyakoriság: | Nagy felhasználószámú intézmény csatlakozásakor. |
 
@@ -1340,13 +1340,13 @@
 
 ## 3.1. A biztonsági szabályzat bevezetése, oktatása
 
-## Az üzemeltetői biztonsági szabályzatot hatálybalépése előtt mind a hálózatgazdának, mind az üzemeltetőnek el kell fogadnia. A csatlakozott szervezet biztonsági szabályzatát az EKG biztonsági felelőse véleményezi, és nem megfelelő szabályozás esetén a hálózatgazda jogosult a csatlakozást felfüggeszteni a szabályozás (illetve a probléma) korrekciójáig.
+## Az üzemeltetői biztonsági szabályzatot hatálybalépése előtt mind a hálózatgazdának, mind az üzemeltetőnek el kell fogadnia. A csatlakozott szervezet biztonsági szabályzatát az EKG biztonsági felelőse véleményezi, és nem megfelelő szabályozás esetén a kormányzati célú hírközlési szolgáltató jogosult a csatlakozást felfüggeszteni a szabályozás (illetve a probléma) korrekciójáig.
 
 ## A hatálybalépés előtt minden érintett személyt tájékoztatásban kell részesíteni. Ehhez szerepekre (pl. rendszeradminisztrátorok, hálózati mérnökök stb.) szabott tájékoztató anyagokat célszerű készíteni, ezáltal lehetővé téve, hogy mindenki tisztában legyen a saját feladatának biztonsági vonzataival.
 
 ## Mindazok esetében, akik a hálózat üzembiztonságának szempontjából jelentős feladattal (pl. biztonsági vezető, biztonsági felügyelő, rendszeradminisztrátorok, üzemeltetési vezető stb.) bírnak, a tájékoztatást (oktatást) számon kérhető módon kell végrehajtani, és az elsajátított ismeret szintjét ellenőrizni kell.
 
-## A hatálybalépés előtt ki kell dolgozni a biztonsági szabályzat betartásához szükséges feltételek megteremtését célzó akciótervet, pontos feladatokkal, határidőkkel és felelősökkel. Ezt az akciótervet a hatálybalépés előtt (illetve a hatálybalépést követően a hálózatgazda által meghatározott türelmi időn belül) végre kell hajtani, amit a hálózatgazdának felügyelnie kell.
+## A hatálybalépés előtt ki kell dolgozni a biztonsági szabályzat betartásához szükséges feltételek megteremtését célzó akciótervet, pontos feladatokkal, határidőkkel és felelősökkel. Ezt az akciótervet a hatálybalépés előtt (illetve a hatálybalépést követően a kormányzati célú hírközlési szolgáltató által meghatározott türelmi időn belül) végre kell hajtani, amit a hálózatgazdának felügyelnie kell.
 
 ## 3.2. A biztonsági szabályzat hatálybalépése
 
@@ -1356,11 +1356,11 @@
 
 ## 3.3. A biztonsági szabályzattól való eltérés rendje
 
-## A biztonsági szabályzattól csak rendkívül indokolt esetben, a hálózatgazda jóváhagyásával és előre meghatározott ideig lehet eltérni.
+## A biztonsági szabályzattól csak rendkívül indokolt esetben, a kormányzati célú hírközlési szolgáltató jóváhagyásával és előre meghatározott ideig lehet eltérni.
 
-## Amennyiben a szabályzat betartása valami okból nem lehetséges, úgy ezt írásban jelezni kell a hálózatgazda felé. A hálózatgazdának ilyen esetben az üzemeltető segítségével meg kell vizsgálnia, hogy a kérés indokolt-e, létezik-e egyéb megoldás, amivel a probléma áthidalható, illetve a kérés jóváhagyása milyen kockázatokat rejt magában. A vizsgálat eredményét írásban dokumentálni kell (a jegyzőkönyvet legalább 5 évig, biztonságosan, lopástól és manipulációtól védett módon meg kell őrizni).
+## Amennyiben a szabályzat betartása valami okból nem lehetséges, úgy ezt írásban jelezni kell a kormányzati célú hírközlési szolgáltató felé. A hálózatgazdának ilyen esetben az üzemeltető segítségével meg kell vizsgálnia, hogy a kérés indokolt-e, létezik-e egyéb megoldás, amivel a probléma áthidalható, illetve a kérés jóváhagyása milyen kockázatokat rejt magában. A vizsgálat eredményét írásban dokumentálni kell (a jegyzőkönyvet legalább 5 évig, biztonságosan, lopástól és manipulációtól védett módon meg kell őrizni).
 
-## Amennyiben a vizsgálat alapján a kérést a hálózatgazda jóváhagyja, úgy azt is meg kell határoznia, hogy a felmentés meddig állhat fent. Mindezeket jegyzőkönyvezni kell (a jegyzőkönyvet legalább 5 évig, biztonságosan, lopástól és manipulációtól védett módon meg kell őrizni).
+## Amennyiben a vizsgálat alapján a kérést a kormányzati célú hírközlési szolgáltató jóváhagyja, úgy azt is meg kell határoznia, hogy a felmentés meddig állhat fent. Mindezeket jegyzőkönyvezni kell (a jegyzőkönyvet legalább 5 évig, biztonságosan, lopástól és manipulációtól védett módon meg kell őrizni).
 
 ## Jóváhagyott szabályzattól való eltérés esetén az érintettek kötelesek ezt az állapotot a meghatározott határidő leteltével megszüntetni.
 
@@ -1374,7 +1374,7 @@
 
 ## A biztonsági szabályzat módosításainak bevezetésére és hatályba léptetésére a 3.1. és a 3.2. alfejezetekben leírtak érvényesek.
 
-## A szabályzat kiegészítésére, módosítására az üzemeltető és a felhasználók közvetlenül tehetnek javaslatot a hálózatgazdának. A hálózatgazda a módosítás előtt kikéri az üzemeltető és az informatikai biztonsági felügyelő véleményét.
+## A szabályzat kiegészítésére, módosítására az üzemeltető és a felhasználók közvetlenül tehetnek javaslatot a hálózatgazdának. A kormányzati célú hírközlési szolgáltató a módosítás előtt kikéri az üzemeltető és az informatikai biztonsági felügyelő véleményét.
 
 ## Az üzemeltetői biztonsági szabályzat visszavont rendelkezése esetén a hálózatgazdának meg kell határozni a hatályvesztés pontos időpontját, és erről minden érintettet tájékoztatni kell. A visszavont szabályokat archiválni kell, dokumentálva az okokat, a visszavonás kezdeményezőjét és jóváhagyóját, valamint idejét.
 
@@ -1516,7 +1516,7 @@ Az Ekszt 19. § (2) bekezdés b) pontja alapján a rendszer működtetőjének l
 
 –  biztosítja az elektronikus beadvány továbbítását a központi rendszer és azon keresztül a címzett szervezet felé.
 
-A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^12] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
+A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^14] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
 
 Annak érdekében, hogy a felhasználó a nyomtatványkitöltő program sértetlenségéről és épségéről a telepítést megelőzően meggyőződhessen, a program készítője az általános nyomtatványkitöltő program telepítő csomagját elektronikus aláírással látja el, mely tanúsítja, hogy
 
@@ -1554,7 +1554,7 @@ Az elektronikus űrlapot a felhasználó tölti ki, az űrlapon rögzített adat
 
 –  közvetlenül a nyomtatványkitöltő program XML kimeneti állományának előállítására szolgáló más – a felhasználó vagy általa megbízott harmadik személy által fejlesztett – alkalmazással úgy, hogy a kimeneti állomány formai, logikai ellenőrzése történik csak a nyomtatványkitöltő programmal.
 
-Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^13]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
+Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^15]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
 
 Az elkészített és a MeH által publikált elektronikus űrlapokhoz sok esetben külön letölthető egy útmutató vagy helyzetérzékeny segítő fájl, amely segíti az űrlap kitöltését.
 
@@ -2106,5 +2106,5 @@ A központi rendszer naplóállománya védett a jogosulatlan adatmódosítást�
 
 A naplóállományt a gondatlanságból vagy szándékosan elkövetett rongálás ellen biztonsági mentések védik. A MeH minden naplóállomány esetében, beleértve a személyes adatokat tartalmazó naplóbejegyzéseket is, gondoskodik az adatok bizalmas tárolásáról. A naplóállományhoz csak a biztonsági vezető által arra feljogosított személyzet férhet hozzá, szigorúan a hibaelhárításhoz szükséges mértékben. A MeH bűncselekmény gyanúja esetén, hatósági megkeresésre a szükséges adatokat, naplóbejegyzéseket a nyomozó hatóság rendelkezésére bocsátja.
 
-[^12]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
-[^13]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
+[^14]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
+[^15]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
