@@ -1,0 +1,1 @@
+A Kormány visszavonja a Magyar Nemzeti Múzeum Mélygarázs PPP-konstrukció keretében történő megvalósításáról szóló 1126/2005. (XII. 20.) Korm. határozatot, és az azt módosító 1058/2006. (VI. 7.) Korm. határozatot.
