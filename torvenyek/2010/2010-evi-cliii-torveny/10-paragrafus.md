@@ -14,19 +14,7 @@
 
 (6)–(7)
 
-(8) Az Áht. 15/A. §-a helyébe a következő rendelkezés lép:
-
-„15/A. § (1) Az államháztartás alrendszereiből nyújtott, nem normatív, céljellegű, működési és fejlesztési támogatások kedvezményezettjének nevére, a támogatás céljára, összegére, továbbá a támogatási program megvalósítási helyére vonatkozó adatokat – a (2) bekezdésben foglalt kivétellel – a kincstár honlapján közzé kell tenni legkésőbb a döntés meghozatalát követő harmincadik napig. A közzétételhez szükséges adatokat a támogatást odaítélő szervezet – a támogatásra vonatkozó döntés meghozatalát követő tizenöt napon belül – közvetlenül szolgáltatja a kincstárnak. A támogatást odaítélő szervezet vagy irányító szerve hivatalos lapjában vagy honlapján is közzéteheti ezen adatokat.
-
-(2) Helyi önkormányzat támogató esetében az (1) bekezdésben foglalt adatokat az önkormányzat hivatalos lapjában vagy honlapján kell közzétenni legkésőbb a döntés meghozatalát követő harmincadik napig. Hivatalos lap vagy honlap hiányában a közzétételre a helyben szokásos módon kerülhet sor.
-
-(3) Honlapon történő közzététel esetén a támogatásra vonatkozó döntés meghozatalától számított öt évig biztosítani kell az (1) bekezdésben foglalt adatok hozzáférhetőségét.
-
-(4) A közzétételre nem kerül sor, ha – az (1)–(2) bekezdésben a közzétételre meghatározott határidő letelte előtt – a támogatást visszavonják, vagy a támogatásról a kedvezményezett lemond. Az (1)–(2) bekezdésben a közzétételre meghatározott határidőt követően visszavont, vagy a kedvezményezett által lemondott támogatás esetén a honlapon közzétett adatokat haladéktalanul törölni kell.
-
-(5) A közzététel mellőzhető, ha törvény, kormányrendelet vagy önkormányzati rendelet kettőszázezer forint alatti támogatási összegre vonatkozóan ezt lehetővé teszi.
-
-(6) Az állami, önkormányzati támogatási programokról szóló jogszabályok megállapíthatják a nyilvánosságra hozatal részletes szabályait, és harminc napnál rövidebb határidőt is meghatározhatnak. Az elkülönített állami pénzalapokból nyújtott nem normatív támogatásokra vonatkozó közzétételi kötelezettséget törvény vagy kormányrendelet e törvény szabályaitól eltérően is megállapíthatja.”
+(8)
 
 (9)–(15)
 
@@ -36,11 +24,7 @@
 
 (17)–(69)
 
-(70) Az Áht. 124. § (2) bekezdés zsa) pontja helyébe a következő rendelkezés lép:
-
-[(2) A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg]
-
-„zsa) a Kormány irányítása vagy felügyelete alá tartozó szervek tekintetében a 15/A. §-ban foglaltak szerinti közzététel részletes szabályait;”
+(70)
 
 (71)–(78)
 
