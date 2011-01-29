@@ -52,6 +52,6 @@
 
 ## cégszerű aláírás
 
-3. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^21]
+3. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^22]
 
-[^21]: A 3. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: A 3. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.

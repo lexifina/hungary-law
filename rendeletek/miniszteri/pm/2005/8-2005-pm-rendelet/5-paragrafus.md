@@ -1,8 +1,8 @@
-## 4. §[^12] Az államháztartásért felelős miniszter az irányító szerv által benyújtott igény beérkezését követő 15 munkanapon, a negyedik negyedévben 10 munkanapon belül intézkedik az igényelt előirányzatoknak a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 19. cím, 2. alcím, 1. Különféle kifizetések jogcímcsoport előirányzatból történő átcsoportosításáról.
+## 4. §[^13] Az államháztartásért felelős miniszter az irányító szerv által benyújtott igény beérkezését követő 15 munkanapon, a negyedik negyedévben 10 munkanapon belül intézkedik az igényelt előirányzatoknak a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 19. cím, 2. alcím, 1. Különféle kifizetések jogcímcsoport előirányzatból történő átcsoportosításáról.
 
-## A helyi önkormányzatokra és a többcélú kistérségi társulásokra vonatkozó sajátos szabályok[^13]
+## A helyi önkormányzatokra és a többcélú kistérségi társulásokra vonatkozó sajátos szabályok[^14]
 
-5. §[^14] (1) A helyi önkormányzat, többcélú kistérségi társulás (a továbbiakban: társulás) felügyelete alá tartozó munkáltatónak (költségvetési szervnek) a költségvetési megtérítés igénylésénél az 1. számú mellékletben meghatározott igénylőlapot kell kitöltenie, és az illetékes helyi önkormányzat jegyzőjéhez (a továbbiakban: jegyző), társulás esetében a munkaszervezet vezetőjéhez (a továbbiakban: a munkaszervezet vezetője) benyújtania.
+5. §[^15] (1) A helyi önkormányzat, többcélú kistérségi társulás (a továbbiakban: társulás) felügyelete alá tartozó munkáltatónak (költségvetési szervnek) a költségvetési megtérítés igénylésénél az 1. számú mellékletben meghatározott igénylőlapot kell kitöltenie, és az illetékes helyi önkormányzat jegyzőjéhez (a továbbiakban: jegyző), társulás esetében a munkaszervezet vezetőjéhez (a továbbiakban: a munkaszervezet vezetője) benyújtania.
 
 (2) A PéPtv. 4. § (10) bekezdése vonatkozásában, a helyi önkormányzat, illetve a társulás felügyelete alá tartozó munkáltató munkajogi jogállásának változása esetén az új munkáltatónak a jogelőd költségvetési szervet fenntartó helyi önkormányzat jegyzőjéhez, társulás esetében a munkaszervezet vezetőjéhez kell az igénylőlapot benyújtania, ide nem értve azt az esetet, ha a jogutód fenntartó is önkormányzat, illetve társulás.
 
@@ -20,6 +20,6 @@
 
 (9) A támogatás elszámolásával kapcsolatosan az Áht. 64/B. §-a szerint kell eljárni.
 
-[^12]: A 4. § a 23/2009. (XI. 10.) PM rendelet 11. § (2) bekezdése, a 12/2010. (XII. 23.) NGM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.
-[^13]: Az 5. §-t megelőző alcím a 16/2008. (V. 30.) PM rendelet 2. §-ával megállapított szöveg.
-[^14]: Az 5. § a 16/2008. (V. 30.) PM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § a 23/2009. (XI. 10.) PM rendelet 11. § (2) bekezdése, a 12/2010. (XII. 23.) NGM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.
+[^14]: Az 5. §-t megelőző alcím a 16/2008. (V. 30.) PM rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 5. § a 16/2008. (V. 30.) PM rendelet 3. §-ával megállapított szöveg.

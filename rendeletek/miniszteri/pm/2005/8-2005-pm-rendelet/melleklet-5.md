@@ -28,7 +28,7 @@
 
 ## cégszerű aláírás
 
-5. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^23]
+5. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^24]
 
 Igénylőlap a PéPtv. 4. § (8), 5. § (3), 6. § (1) bekezdésében foglalt költségvetési megtérítés folyósításához
 
@@ -62,4 +62,4 @@ Kelt: .................... év ................. hó ........ nap
 
 cégszerű aláírás
 
-[^23]: Az 5. számú melléklet a 12/2010. (XII. 23.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^24]: Az 5. számú melléklet a 12/2010. (XII. 23.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.

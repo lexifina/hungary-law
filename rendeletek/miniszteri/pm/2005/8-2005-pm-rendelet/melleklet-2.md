@@ -80,6 +80,6 @@
 
 | 2. | Nyilvántartásba vétel száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^20]
+2. számú melléklet a 8/2005. (II. 8.) PM rendelethez[^21]
 
-[^20]: A 2. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^21]: A 2. számú melléklet a 16/2008. (V. 30.) PM rendelet 7. § (1) bekezdésével megállapított szöveg.
