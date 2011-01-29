@@ -88,7 +88,7 @@ többcélú kistérségi társulásban részt vevő önkormányzatok felsorolás
 
 15. Központosított illetményszámfejtési körbe tartozás
 
-16. Központosított illetményszámfejtést végző kincstári regionális igazgatóság kódja
+16.[^3] Központosított illetményszámfejtést végző kincstári területi szerv kódja
 
 17. Elérhetőségek
 
@@ -158,7 +158,7 @@ V-lap – T01V változásbejelentési kérelem
 
 31. Központosított illetményszámfejtési körbe tartozás
 
-32. Központosított illetményszámfejtést végző kincstári regionális igazgatóság kódja
+32.[^4] Központosított illetményszámfejtést végző kincstári területi szerv kódja
 
 33. Elérhetőségek
 
@@ -221,3 +221,6 @@ A-lap – T01A Adóalanyisággal összefüggő adatok bejelentése, változásbe
 5. Bejelentés az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (5) , illetve (6) bekezdése alapján
 
 6. Bejelentés az általános forgalmi adóról szóló 2007. évi LXXVII. törvény 80. § (2) bekezdés b) pontja alapján
+
+[^3]: A melléklet „B-lap – T01B bejegyzési kérelem” című rész 16. pontja a 3/2011. (I. 28.) NGM rendelet 6. §-a szerint módosított szöveg.
+[^4]: A melléklet „V-lap – T01V változásbejelentési kérelem” című rész 32. pontja a 3/2011. (I. 28.) NGM rendelet 6. §-a szerint módosított szöveg.
