@@ -18,6 +18,6 @@ b) saját hatáskörben történő kifizetés esetén a számfejtett illetményh
 
 (5) A Kincstár az államháztartásról szóló 1992. évi XXXVIII. törvényben, az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben és a pénzügyi szolgáltatások teljesítésének a rendjéről a Magyar Államkincstárban szóló 36/1999. (XII. 27.) PM rendeletben szabályozott módon a központi költségvetési szervek előirányzat-felhasználási keretszámlája terhére – a költségvetési szerv rendelkezése alapján – teljesíti a személyi jövedelemadó, a munkavállalókat és a munkáltatókat terhelő járulékok jogosultak részére történő átvezetését.
 
-(6)[^4] Az önkormányzatok és önkormányzati költségvetési szervek vonatkozásában az Igazgatósággal kötött megállapodás alapján történik a nettó járandóságok átutalása, az államháztartásról szóló 1992. évi XXXVIII. törvényben és az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben szabályozott módon kerül sor a közterhek elszámolására.
+(6)[^5] Az önkormányzatok és önkormányzati költségvetési szervek vonatkozásában az Igazgatósággal kötött megállapodás alapján történik a nettó járandóságok átutalása, az államháztartásról szóló 1992. évi XXXVIII. törvényben és az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben szabályozott módon kerül sor a közterhek elszámolására.
 
-[^4]: A 31. § (6) bekezdése a 16/2003. (VII. 1.) PM rendelet 14. §-ának a) pontja szerint módosított szöveg.
+[^5]: A 31. § (6) bekezdése a 16/2003. (VII. 1.) PM rendelet 14. §-ának a) pontja szerint módosított szöveg.

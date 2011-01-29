@@ -4,6 +4,6 @@
 
 (2) A külön jogszabályban előírt munkáltatói adómegállapítást, adóelszámolást, valamint az éves adatszolgáltatási kötelezettségek teljesítését a központosított illetményszámfejtéshez kötelezően alkalmazott programrendszer első ízben 2002. évre vonatkozóan, 2003. évben biztosítja.
 
-(3)[^9] A központi költségvetési szerveknek a 2002. évi Országos Statisztikai Adatgyűjtési Programban meghatározott statisztikai adatszolgáltatásban a 2001. évet érintő adatokat a Magyar Államkincstár által meghatározott szerkezetben a Magyar Államkincstár részére kell biztosítani.
+(3)[^10] A központi költségvetési szerveknek a 2002. évi Országos Statisztikai Adatgyűjtési Programban meghatározott statisztikai adatszolgáltatásban a 2001. évet érintő adatokat a Magyar Államkincstár által meghatározott szerkezetben a Magyar Államkincstár részére kell biztosítani.
 
-[^9]: A 37. § (3) bekezdése a 16/2003. (VII. 1.) PM rendelet 21. §-ának b) pontja szerint módosított szöveg.
+[^10]: A 37. § (3) bekezdése a 16/2003. (VII. 1.) PM rendelet 21. §-ának b) pontja szerint módosított szöveg.

@@ -902,7 +902,7 @@
 
 ## 1. Ügyirat száma.
 
-## 2.[^10] A költségvetési szerv adatai:
+## 2.[^11] A költségvetési szerv adatai:
 
 ## – számlaszáma,
 
@@ -5086,4 +5086,4 @@
 
 2. számú melléklet a 37/2001. (X. 25.) PM rendelethez
 
-[^10]: Az 1. számú melléklete Okiratok címjegyzéke I–10. részének 2. pontja a 16/2003. (VII. 1.) PM rendelet 14. §-ának b) pontja szerint módosított szöveg.
+[^11]: Az 1. számú melléklete Okiratok címjegyzéke I–10. részének 2. pontja a 16/2003. (VII. 1.) PM rendelet 14. §-ának b) pontja szerint módosított szöveg.

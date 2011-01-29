@@ -32,7 +32,7 @@ e) gondoskodik az illetményszámfejtéssel, a társadalombiztosítási kifizet�
 
 f) adatot szolgáltat a központi költségvetési szerv számára az adó és járulék, valamint a magánnyugdíj-pénztári bevallás teljesítéséhez, – az Adó- és Pénzügyi Ellenőrzési Hivatal és a Pénzügyi Szervezetek Állami Felügyelete által – meghatározott formában,
 
-g)[^1] havonta adatot szolgáltat a létszám- és bérgazdálkodási információs rendszer működtetéséhez a 2. számú mellékletben meghatározott adattartalommal a tárgyhónapot követő hónap 15-éig a Magyar Államkincstárnak,
+g)[^2] havonta adatot szolgáltat a létszám- és bérgazdálkodási információs rendszer működtetéséhez a 2. számú mellékletben meghatározott adattartalommal a tárgyhónapot követő hónap 15-éig a Magyar Államkincstárnak,
 
 h) gondoskodik a központosított illetményszámfejtési programrendszer üzemeltetési feladatainak ellátásáról,
 
@@ -42,4 +42,4 @@ j) gondoskodik az adatvédelmi, adatbiztonsági előírások betartásáról,
 
 k) gondoskodik a jelentőfelelősök szakmai felkészítéséről, folyamatos továbbképzéséről.
 
-[^1]: A 17. § (3) bekezdésének g) pontja a 16/2003. (VII. 1.) PM rendelet 21. §-ának b) pontja szerint módosított szöveg.
+[^2]: A 17. § (3) bekezdésének g) pontja a 16/2003. (VII. 1.) PM rendelet 21. §-ának b) pontja szerint módosított szöveg.
