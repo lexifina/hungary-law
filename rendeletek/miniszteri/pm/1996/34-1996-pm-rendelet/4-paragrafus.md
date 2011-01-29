@@ -164,7 +164,7 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 4.2. | a Kincstár igazgatói | C |
 
-| 4.3. | a Kincstár regionális igazgatóságainak igazgatói | C |
+| 4.3. | a Kincstár területi szerveinek igazgatói | C |
 
 | 4.4. | a Kincstár főosztályvezetői | B |
 
@@ -218,4 +218,4 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 7. | Az 1–6. pontokban felsorolt munkakörökön túl fontos és bizalmas munkakörnek minősülnek azok a munkakörök, melyeket a pénzügyminiszter írásban, egyedi jelleggel, a polgári nemzetbiztonsági szolgálatokat irányító miniszter egyetértését előzetesen írásban kikérve annak minősít. | Egyez- tetéstől függ |
 
-[^1]: A melléklet a 22/2007. (X. 10.) PM rendelet 1. §-ával megállapított szöveg.
+[^1]: A melléklet a 22/2007. (X. 10.) PM rendelet 1. §-ával megállapított, a 3/2011. (I. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
