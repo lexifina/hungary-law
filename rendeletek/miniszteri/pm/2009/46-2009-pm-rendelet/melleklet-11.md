@@ -90,4 +90,6 @@
 
 ## A 25. § (2) bekezdésben nevesített összeghatár feletti átutalás előzetes bejelentésének elmaradása esetén az átutalást a Kincstár nem teljesíti.
 
-11. számú melléklet a 46/2009. (XII. 30.) PM rendelethez
+11. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^108]
+
+[^108]: A 11. számú melléklet a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.

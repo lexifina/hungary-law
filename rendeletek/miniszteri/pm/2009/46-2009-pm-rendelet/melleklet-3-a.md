@@ -44,7 +44,7 @@
 
 | Sorszám | Megnevezés | Régi adat | Újonnan bejelentett adat |
 
-## (1) Az adott régión belül a kincstári Regionális Igazgatóság Állampénztári Iroda 9. sorral azonos megyében lévő számlavezető helye, Budapest és Pest megyei önkormányzatok esetében: „32-es” ÁPI.
+## (1) Az Igazgatóság Állampénztári Iroda 9. sorral azonos megyében lévő számlavezető helye, Budapest és Pest megyei önkormányzatok esetében: „32-es” ÁPI.
 
 ## (2) A Kincstár tölti ki.
 
@@ -56,7 +56,7 @@
 
 ## Az 1-7. sorokba a polgármesteri hivatallal rendelkező önkormányzatok esetén a polgármesteri hivatalok adatait kell beírni.
 
-## Ha a szervezet számláit a Közép-magyarországi Regionális Igazgatóság Állampénztári Iroda
+## Ha a szervezet számláit a Budapesti és Pest Megyei Igazgatóság Állampénztári Iroda
 
 ## vezeti:
 
@@ -112,7 +112,7 @@
 
 ## 5. A szervezet államháztartási egyedi azonosítója (ÁHTI): A Kincstár által kiadott államháztartási egyedi azonosítót (ÁHT-I) kell feltüntetni: (Polgármesteri hivatallal rendelkező önkormányzatok esetén a polgármesteri hivatalé.)
 
-## 6. Adószáma: Az APEH által kiadott adóazonosító szám. Első alkalommal a Kincstárnál kell igényelni. (Polgármesteri hivatallal rendelkező önkormányzatok esetén a polgármesteri hivatalé.)
+## 6. Adószáma: Az állami adóhatóság által kiadott adóazonosító szám. Első alkalommal a Kincstárnál kell igényelni. (Polgármesteri hivatallal rendelkező önkormányzatok esetén a polgármesteri hivatalé.)
 
 ## 7. Egységes statisztikai számjele: A KSH által kiadott számjel. (Polgármesteri hivatallal rendelkező önkormányzatok esetén a polgármesteri hivatalé.)
 
@@ -154,6 +154,6 @@
 
 ## Magyar Államkincstár Pénzforgalmi Főosztály: A tényleges számlanyitást, megszüntetést, valamint adatmódosítást végrehajtó szervezet cégszerű aláírásának és pecsétjének helye.
 
-3/A. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^75]
+3/A. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^103]
 
-[^75]: A 3/A. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 15. § (2) bekezdése iktatta be, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^103]: A 3/A. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 15. § (2) bekezdése iktatta be, szövege a 3/2011. (I. 28.) NGM rendelet 23. § (2) és (3) bekezdése szerint módosított szöveg.

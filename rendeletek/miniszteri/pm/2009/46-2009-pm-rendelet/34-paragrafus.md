@@ -4,13 +4,13 @@
 
 (2) Az időarányos havi ütemezéstől az (1) bekezdésben foglaltakat meghaladó eltérést (előrehozást) fejezet összesenben a Kincstár engedélyezhet. Az előrehozás időarányos visszapótlás mellett történik, kivéve, ha a Kincstár a rendelkezésére álló adatok alapján – a fejezetet irányító szerv kérelmét is figyelembe véve – ettől eltérő módon rendelkezik.
 
-(3)[^34] A fejezeti kezelésű előirányzatok közül a feladatfinanszírozási körbe nem tartozó, a fejezethez vagy más fejezethez tartozó költségvetési szerv részére előirányzat-átcsoportosítással átadott előirányzatok finanszírozása a módosítást követően az Ámr.-ben a központi költségvetési szervekre irányadó szabályok szerint történik.
+(3)[^49] A fejezeti kezelésű előirányzatok közül a feladatfinanszírozási körbe nem tartozó, a fejezethez vagy más fejezethez tartozó költségvetési szerv részére előirányzat-átcsoportosítással átadott előirányzatok finanszírozása a módosítást követően az Ámr.-ben a központi költségvetési szervekre irányadó szabályok szerint történik.
 
 (4) A Kincstár a Kincstár elnöke által tárgyévre kiadott, a havi keretnyitáshoz kapcsolódó adatszolgáltatások határidőit tartalmazó naptári rend (a továbbiakban: Naptári rend) szerinti időpontokban a 20. számú mellékletben meghatározott formátumban tájékoztatja az irányító szervet az irányítása alá tartozó költségvetési szervek részére megnyitandó havi előirányzat-felhasználási keretek összegéről. Az irányító szerv minden esetben a Naptári rend szerinti időpontokban köteles a megfelelő rovatok kitöltésével tájékoztatni a Kincstárt az egyes költségvetési szervek közötti korrekciós igényéről.
 
 (5) A (2) bekezdés szerinti előrehozást a 17–18. számú mellékletben meghatározott formátumú adatlapokon – a 17. számú melléklet esetében az előrehozás indokait tartalmazó, a 19. számú melléklet szerinti adatlappal kiegészített kérelem csatolásával – kell kérnie az irányító szervnek a Kincstártól. Az előrehozást a következő havi keretnyitások kiszámítása során időarányosan veszi figyelembe a Kincstár. Az időarányos havi ütemezéstől eltérően folyósítandó, illetve visszatérítendő előirányzat-felhasználási keret előrehozás visszapótlása az adatlapon rögzített havi részletezésben történik. A Kincstár az adatlapok beérkezését követő 5 munkanapon belül az adatlap egy példányának megküldésével tájékoztatja az irányító szervet az előrehozás nyilvántartásba vételéről vagy az előrehozás elutasításáról és annak indokairól.
 
-(6)[^35]
+(6)[^50]
 
-[^34]: A 34. § (3) bekezdése az 5/2010. (IX. 8.) NGM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^35]: A 34. § (6) bekezdését az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^49]: A 34. § (3) bekezdése az 5/2010. (IX. 8.) NGM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^50]: A 34. § (6) bekezdését az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

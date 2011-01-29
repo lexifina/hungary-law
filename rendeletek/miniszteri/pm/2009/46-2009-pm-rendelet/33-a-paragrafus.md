@@ -1,6 +1,6 @@
-## A kincstári körbe tartozó költségvetési szerv, fejezeti kezelésű előirányzat többletbevétele[^32]
+## A kincstári körbe tartozó költségvetési szerv, fejezeti kezelésű előirányzat többletbevétele[^44]
 
-33/A. §[^33] (1) Az Ámr. 59/A. § (3) bekezdése szerinti költségvetési szerv és fejezeti kezelésű előirányzat kezelő szerve a többletbevétel felhasználására vonatkozó igényét a fejezetet irányító szerv által meghatározott módon és gyakorisággal nyújtja be a fejezetet irányító szervhez. A benyújtott igényeket és a fejezetet irányító szerv által kezelt fejezeti kezelésű előirányzatok többletbevételeit a fejezetet irányító szerv megvizsgálja abból a szempontból, hogy annak felhasználásához az államháztartásért felelős miniszter engedélye szükséges-e.
+33/A. §[^45] (1) Az Ámr. 59/A. § (3) bekezdése szerinti költségvetési szerv és fejezeti kezelésű előirányzat kezelő szerve a többletbevétel felhasználására vonatkozó igényét a fejezetet irányító szerv által meghatározott módon és gyakorisággal nyújtja be a fejezetet irányító szervhez. A benyújtott igényeket és a fejezetet irányító szerv által kezelt fejezeti kezelésű előirányzatok többletbevételeit a fejezetet irányító szerv megvizsgálja abból a szempontból, hogy annak felhasználásához az államháztartásért felelős miniszter engedélye szükséges-e.
 
 (2) Ha a többletbevétel felhasználásához az államháztartásért felelős miniszter engedélye nem szükséges, és a többletbevétel felhasználásával az irányító szerv egyetért, az érintett bevételi és az engedélyezett felhasználási célnak megfelelő kiadási előirányzat megnövelését a fejezetet irányító szerv a 33. § (2) bekezdése szerint a döntés közlésétől számított öt munkanapon belül kezdeményezi, és erről a többletbevétel felhasználására vonatkozó kérelmet előterjesztő költségvetési szervet (kezelő szervet) egyidejűleg értesíti.
 
@@ -10,11 +10,14 @@
 
 (5) Ha az államháztartásért felelős miniszter a többletbevétel felhasználásával egyetért, a fejezetet irányító szerv az előirányzatok módosítását és az érintettek értesítését a (2) bekezdés szerint végzi el.
 
-(6) Ha a fejezetet irányító szerv vagy az államháztartásért felelős miniszter a többletbevétel felhasználását nem engedélyezi, a fejezetet irányító szerv erről az érintetteket soron kívül tájékoztatja. Az Ámr. 59/A. § (6) bekezdése szerinti összeget az egyéb folyó kiadásokon belül a bevételek meghatározott köre utáni befizetések tételen kell elszámolni. A fejezetet irányító szerv a befizetési kötelezettségről történő tájékoztatásával egyidejűleg kezdeményezi ennek megfelelően a szükséges előirányzat-módosítást.
+(6)[^46] Ha a fejezetet irányító szerv vagy az államháztartásért felelős miniszter a többletbevétel felhasználását nem engedélyezi, a fejezetet irányító szerv erről az érintetteket soron kívül tájékoztatja, és kezdeményezi a szükséges előirányzat-módosítást a többletbevétel elvonása céljából.
 
-(7) A fejezetet irányító szerv a 13. számú mellékleten nyilatkozik arról, hogy az általa kezdeményezett, a bevételi előirányzatokat is érintő előirányzat-módosítást irányító szervi hatáskörben jogosult elvégezni, és azzal – amennyiben az Ámr. szerint szükséges – az államháztartásért felelős miniszter egyetért.
+(7)[^47] A fejezetet irányító szerv a 13. számú mellékletben foglaltak szerint nyilatkozik arról, hogy az általa kezdeményezett, a bevételi előirányzatokat is érintő előirányzat-módosítással – amennyiben az Ámr. szerint szükséges – az államháztartásért felelős miniszter egyetért.
 
-(8) A Kormány irányítása alá tartozó központi költségvetési szerv a 14. számú mellékleten nyilatkozik arról, hogy az általa kezdeményezett, a bevételi előirányzatokat is érintő előirányzat-módosítás olyan tételeket érint, amelyek növelése nem tartozik irányító szervi hatáskörbe.
+(8)[^48]
 
-[^32]: A 33/A. §-t megelőző alcímet az 5/2010. (IX. 8.) NGM rendelet 8. §-a iktatta be.
-[^33]: A 33/A. §-t az 5/2010. (IX. 8.) NGM rendelet 8. §-a iktatta be, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^44]: A 33/A. §-t megelőző alcímet az 5/2010. (IX. 8.) NGM rendelet 8. §-a iktatta be.
+[^45]: A 33/A. §-t az 5/2010. (IX. 8.) NGM rendelet 8. §-a iktatta be, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^46]: A 33/A. § (6) bekezdése a 3/2011. (I. 28.) NGM rendelet 13. §-ával megállapított szöveg.
+[^47]: A 33/A. § (7) bekezdése a 3/2011. (I. 28.) NGM rendelet 13. §-ával megállapított szöveg.
+[^48]: A 33/A. § (8) bekezdését a 3/2011. (I. 28.) NGM rendelet 24. §-a hatályon kívül helyezte.

@@ -48,7 +48,7 @@
 
 ## Az 1-9. sorok adatait a törzskönyvi nyilvántartásból ellenőrizni kell.
 
-## Ha a szervezet számláit a Közép-magyarországi Regionális Igazgatóság Állampénztári Iroda
+## Ha a szervezet számláit a Budapesti és Pest Megyei Igazgatóság Állampénztári Iroda
 
 ## vezeti:
 
@@ -98,7 +98,7 @@
 
 ## 5. A szervezet államháztartási egyedi azonosítója (ÁHTI): A Kincstár által kiadott államháztartási egyedi azonosítót (ÁHT-I) kell feltüntetni.
 
-## 6. Adószáma: Az APEH által kiadott adóazonosító szám. Igénylése első alkalommal a Kincstárnál történik. Önkormányzat esetében megjelölhető a polgármesteri hivatalának az adószáma is, nem kell feltétlenül saját adószámot igényelni.
+## 6. Adószáma: Az állami adóhatóság által kiadott adóazonosító szám. Igénylése első alkalommal a Kincstárnál történik. Önkormányzat esetében megjelölhető a polgármesteri hivatalának az adószáma is, nem kell feltétlenül saját adószámot igényelni.
 
 ## 7. Egységes statisztikai számjele: A KSH által kiadott számjel a törzskönyvi nyilvántartás szerint.
 

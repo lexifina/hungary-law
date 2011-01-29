@@ -1,8 +1,8 @@
-| Adatlap építtetői fedezetkezelői devizaszámla nyitásához*, az adatok módosításához*, a számla megszüntetéséhez* |
+| Adatlap devizaszámla nyitásához*, az adatok módosításához*, a számla megszüntetéséhez* |
 
-|  | Az adattípus megnevezése | A kért adat |
+|  | Az adattípus megnevezése | A kért adat eredeti/módosított |
 
-| 1. | Az építtető számlatulajdonos neve |  |
+| 1. | A számlatulajdonos neve |  |
 
 | 2. | Székhelye, címe |  |
 
@@ -12,46 +12,50 @@
 
 | 5. | A bejegyzés száma (cégbírósági/törzskönyvi) |  |
 
-| 6. | A fedezetkezelő ÁPI megnevezése (a beruházás helyével azonos megye) |  |
+| 6. | A számlatulajdonos AHTI-je |  |
 
-| 7. | IBAN számlaszám** |  |
+| 7. | A számlavezető/számlakezelő állampénztári iroda (ÁPI) megnevezése |  |
 
-| 8. | A számla devizaneme |  |
+| 8. | IBAN számlaszám** |  |
 
-| 9. | A beruházás megnevezése(neve, helye) |  |
+| 9. | A számla devizaneme |  |
 
-## *A megfelelő aláhúzandó
+| 10. | A számla megnevezése, célja |  |
 
-## **A kincstár tölti ki
+| *A megfelelő aláhúzandó |  |  |  |  |  |
 
-| A Kincstár aláírása |  | jogosult vezető/k) |
+| **A kincstár tölti ki |  |  |  |  |  |
+
+|  | A Kincstár aláírása |  |  |  | A számlatulajdonos cégszerű aláírása (képviseletre jogosult vezető/k) |
 
 ## Kitöltési útmutató
 
-## Az „Adatlap építtetői fedezetkezelői devizaszámlához” elnevezésű űrlaphoz
+## az „Adatlap a devizaszámla nyitásához, az adatok módosításához, a számla megszüntetéséhez”
 
-## 1. Az építtető számlatulajdonos neve: Az „Ajánlati/részvételi felhívás”-ban feltüntetett szervezet, mint számlatulajdonos neve, amelynek azonosnak kell lennie a törzskönyvi nyilvántartásba, vagy cégbíróságnál bejegyzett nevével.
+## elnevezésű űrlaphoz
 
-## 2. Székhelye, címe: A törzskönyvi/cégbírósági nyilvántartásban szereplő székhely és cím.
+## 1. A számlatulajdonos neve: A számlatulajdonos szervezet neve, amelynek azonosnak kell lennie a törzskönyvi nyilvántartásba, vagy a cégbíróságnál bejegyzett nevével.
 
-## 3. Adószáma: Gazdasági társaságok esetében az APEH által kiadott adóazonosító szám. Törzskönyvi nyilvántartási bejegyzéssel rendelkező szervezet esetében igénylése első alkalommal a Kincstárnál történik. Adószámmal nem rendelkező önkormányzat esetében megjelölhető a polgármesteri hivatalának az adószáma is, nem kell feltétlenül saját adószámot igényelni.
+## 2. Székhelye, címe: A törzskönyvi/cégbírósági nyilvántartásban szereplő székhely és cím.
 
-## 4. KSH száma: KSH statisztikai számjel a törzskönyvi/cégbírósági nyilvántartás szerint.
+## 3. Adószáma: Az állami adóhatóság által kiadott adóazonosító szám.
 
-## 5. A bejegyzés száma (cégbírósági/törzskönyvi): Gazdasági társaságok esetében a cégbírósági határozat száma, törzskönyvi nyilvántartási bejegyzéssel rendelkező szervezet esetében törzskönyvi azonosító szám.
+## 4. KSH száma: KSH statisztikai számjel a törzskönyvi/cégbírósági nyilvántartás szerint.
 
-## 6. A fedezetkezelő ÁPI megnevezése (a beruházás helyével azonos megye).
+## 5. A bejegyzés száma (törzskönyvi/cégbírósági): Törzskönyvi nyilvántartási bejegyzéssel rendelkező szervezet esetében törzskönyvi azonosító szám, gazdasági társaságok esetében a cégbírósági határozat száma.
 
-## 7. IBAN számlaszám: A nemzetközi pénzforgalmi jelzőszám (IBAN) 28 alfanumerikus karaktert tartalmazó számsor.
+## 6. A számlatulajdonos ÁHT-I-je: Az NGM által kiadott államháztartási egyedi azonosítószám.
 
-## 8. A számla devizaneme: EUR vagy USD devizanem
+## 7. A számlavezető/számlakezelő ÁPI megnevezése: A számlával kapcsolatos ügyintézésre választott megyei ÁPI.
 
-## 9. A beruházás megnevezése (neve, helye): A beruházási/fővállalkozói szerződés szerint.
+## 8. IBAN számlaszám: A nemzetközi pénzforgalmi jelzőszám (IBAN) 28 alfanumerikus karaktert tartalmazó számsor.
 
-## Számlatulajdonos cégszerű aláírása:
+## 9. A számla devizaneme: EUR vagy USD devizanem.
 
-## A Kincstárba beadott aláírási címpéldánnyal egyezően kell a szervezet illetékes képviselőjének/képviselőinek aláírnia/uk.
+## 10. A számla megnevezése, célja: A tervezett számlaforgalom tartalmával egyezően, ha van jogszabályi hivatkozás, annak megjelölése szükséges.
 
-## A Magyar Államkincstár aláírása: a számlavezető Állampénztári Iroda cégszerű aláírásának és pecsétjének a helye.
+## A számlatulajdonos cégszerű aláírása: A Kincstárba beadott aláírási címpéldánnyal egyezően kell a szervezet képviseletére jogosult/ak/nak aláírnia/uk.
+
+## A Magyar Államkincstár aláírása: A számlavezető Állampénztári Iroda cégszerű aláírásának és pecsétjének a helye.
 
 6. számú melléklet a 46/2009. (XII. 30.) PM rendelethez

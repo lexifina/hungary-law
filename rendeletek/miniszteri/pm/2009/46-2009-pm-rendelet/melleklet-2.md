@@ -64,7 +64,7 @@
 
 ## Az átvezetéssel kapcsolatos teendők:
 
-| Ha az intézmény számláit a Közép-magyarországi Regionális Igazgatóság Állampénztári Iroda vezeti, van-e fiókbérlete: igen - nem* száma:……….. |
+| Ha az intézmény számláit a Budapesti és Pest Megyei Igazgatóság Állampénztári Iroda vezeti, van-e fiókbérlete: igen - nem* száma:……….. |
 
 | A Nemzetgazdasági Minisztérium engedélyének száma** …………………… |
 
@@ -158,7 +158,7 @@
 
 ## 3. A szervezet megnevezése: A törzskönyvi nyilvántartás által bejegyzett teljes név.
 
-## 4. Adószáma: Az APEH által kiadott adóazonosító szám.
+## 4. Adószáma: Az állami adóhatóság által kiadott adóazonosító szám.
 
 ## 5. Egységes statisztikai számjele: A KSH által kiadott számjel.
 
@@ -244,6 +244,6 @@
 
 ## Magyar Államkincstár Pénzforgalmi Főosztály: A tényleges számlanyitást, megszüntetést, valamint adatmódosítást végrehajtó szervezet cégszerű aláírásának és pecsétjének helye.
 
-2. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^73]
+2. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^101]
 
-[^73]: A 2. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^101]: A 2. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított, a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdése és 23. § (3) bekezdése szerint módosított szöveg.

@@ -26,7 +26,7 @@ k) európai uniós programok célelszámolási forintszámlát,
 
 l) NATO Biztonsági Beruházási program lebonyolítási számlát,
 
-m)[^5]
+m)[^9]
 
 n) Európai Mezőgazdasági Garancia Alap, illetve Európai Mezőgazdasági Vidékfejlesztési Alap pénzforgalmi megelőlegezési számlát,
 
@@ -54,15 +54,15 @@ vezethet.
 
 (2) A Kincstár az önállóan működő és gazdálkodó központi költségvetési szerv
 
-a)[^6]
+a)[^10]
 
-b)[^7] országos területi hálózattal rendelkező, vagy feladatellátásában elkülönült, a költségvetési szerv belső szabályzatában foglaltak alapján kötelezettségvállalási joggal felruházott szervezeti egysége részére a Nemzetgazdasági Minisztérium engedélyével, valamint
+b)[^11] országos területi hálózattal rendelkező, vagy feladatellátásában elkülönült, a költségvetési szerv belső szabályzatában foglaltak alapján kötelezettségvállalási joggal felruházott szervezeti egysége részére a Nemzetgazdasági Minisztérium engedélyével, valamint
 
 c) az Országgyűlés Hivatalában működő képviselőcsoportok részére, az 1990. évi LVI. törvény 5. §-ában megállapított működési keret tekintetében
 
 előirányzat-felhasználási keretszámlát és kincstári kártyafedezeti számlát vezethet.
 
-(3)[^8] Az (1) bekezdés a), c)–x) pontjában és a (2) bekezdésben megjelölt számlák megnyitásának, törzsadatai módosításának, illetve megszüntetésének Kincstárnál történő kezdeményezése az irányító szerv feladata. Az (1) bekezdés b) pontjában megjelölt számla megnyitásáról a Kincstár hivatalból intézkedik. Az (1) bekezdés i) pontjában foglalt számla megnyitását és vezetését a Nemzetgazdasági Minisztérium engedélyezi.
+(3)[^12] Az (1) bekezdés a), c)–x) pontjában és a (2) bekezdésben megjelölt számlák megnyitásának, törzsadatai módosításának, illetve megszüntetésének Kincstárnál történő kezdeményezése az irányító szerv feladata. Az (1) bekezdés b) pontjában megjelölt számla megnyitásáról a Kincstár hivatalból intézkedik. Az (1) bekezdés i) pontjában foglalt számla megnyitását és vezetését a Nemzetgazdasági Minisztérium engedélyezi.
 
 (4) Az (1) bekezdés a) pontja szerinti előirányzat-felhasználási keretszámla a központi költségvetési szerv gazdálkodásának lebonyolítására szolgál. A számla megnyitásáról, illetve megszüntetéséről a költségvetési szerv létrehozásának, illetve megszüntetésének időpontja szerinti határnappal kell intézkedni.
 
@@ -70,19 +70,19 @@ előirányzat-felhasználási keretszámlát és kincstári kártyafedezeti szá
 
 (6) Az (1) bekezdés c) pontja szerinti fedezetbiztosítási számla a 4. § (9) bekezdésében foglalt pénzeszközök kezelésére szolgál. A költségvetési szerv részére több fedezetbiztosítási számla is vezethető.
 
-(7)[^9] Az (1) bekezdés d) pontja szerinti célelszámolási forintszámla a 4. § (8) bekezdésben foglalt pénzeszközök elkülönített számlán történő kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
+(7)[^13] Az (1) bekezdés d) pontja szerinti célelszámolási forintszámla a 4. § (8) bekezdésben foglalt pénzeszközök elkülönített számlán történő kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
 
 (8) Az (1) bekezdés e)–f), h) és j) pontjában megjelölt számlák a 4. § (10)–(11) és (14) bekezdésében foglalt pénzeszközök kezelésére szolgálnak az ott meghatározott szabályok szerint.
 
-(9)[^10] Az (1) bekezdés g) pontja szerinti kincstári kártyafedezeti számla a kincstári kártyával történő kifizetések pénzügyi fedezetének elkülönített kezelésére szolgáló, kártyatípusonként nyitható számla. A pénzügyi fedezet biztosításáról a kártyafedezeti számlatulajdonos a Kincstárban vezetett előirányzat-felhasználási keretszámlája vagy letéti számlája terhére benyújtott átutalási megbízással köteles gondoskodni. A kártyafedezeti számlára elkülönített fedezetet a kincstári kártyákat kibocsátó pénzforgalmi szolgáltató útján lehet visszavezetni a kártyafedezeti számlához kapcsolódó megfelelő kincstári számla javára. A kártyafedezeti számlatulajdonos a visszavezetést a Kincstártól kéri írásban. A költségvetési szerv számára a Nemzetgazdasági Minisztérium engedélyével indokolt esetben több azonos típusú kártyafedezeti számla is vezethető.
+(9)[^14] Az (1) bekezdés g) pontja szerinti kincstári kártyafedezeti számla a kincstári kártyával történő kifizetések pénzügyi fedezetének elkülönített kezelésére szolgáló, kártyatípusonként nyitható számla. A pénzügyi fedezet biztosításáról a kártyafedezeti számlatulajdonos a Kincstárban vezetett előirányzat-felhasználási keretszámlája vagy letéti számlája terhére benyújtott átutalási megbízással köteles gondoskodni. A kártyafedezeti számlára elkülönített fedezetet a kincstári kártyákat kibocsátó pénzforgalmi szolgáltató útján lehet visszavezetni a kártyafedezeti számlához kapcsolódó megfelelő kincstári számla javára. A kártyafedezeti számlatulajdonos a visszavezetést a Kincstártól kéri írásban. A költségvetési szerv számára a Nemzetgazdasági Minisztérium engedélyével indokolt esetben több azonos típusú kártyafedezeti számla is vezethető.
 
 (10) Az (1) bekezdés i) pontja szerinti letéti számla a 4. § (12) bekezdésében foglalt pénzeszközök kezelésére szolgál. A költségvetési szerv számára több letéti számla is nyitható. Letéti számlához VIP kártyafedezeti számla nem kapcsolódhat.
 
-(11)[^11] Az (1) bekezdés k) pontja szerinti európai uniós programok célelszámolási forintszámla az Európai Uniótól (a továbbiakban: EU) kapott támogatások felhasználásának elkülönített kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
+(11)[^15] Az (1) bekezdés k) pontja szerinti európai uniós programok célelszámolási forintszámla az Európai Uniótól (a továbbiakban: EU) kapott támogatások felhasználásának elkülönített kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
 
 (12) Az (1) bekezdés l) pontja szerinti NATO Biztonsági Beruházási program lebonyolítási számla e program magyarországi megvalósítása pénzforgalmának lebonyolítására szolgál.
 
-(13)[^12]
+(13)[^16]
 
 (14) Az (1) bekezdés n) pontja szerinti Európai Mezőgazdasági Garancia Alap pénzforgalmi megelőlegezési számla az EU Európai Mezőgazdasági Garancia Alapjához kapcsolódó költségvetésen kívül kezelt támogatások, az Európai Mezőgazdasági Vidékfejlesztési Alap pénzforgalmi megelőlegezési számla az EU Európai Mezőgazdasági Vidékfejlesztési Alapjához kapcsolódó támogatások – ide nem értve az Agrár- és Vidékfejlesztési Operatív Programot – megelőlegezésére, az akkreditált intézmény részére nyitható. A számla egyenlege év végén – a zárást megelőző utolsó tranzakcióként – automatikusan visszavezetésre kerül a Kincstár Európai Mezőgazdasági Garancia Alap, illetve Európai Mezőgazdasági Vidékfejlesztési Alap megelőlegezési számla javára.
 
@@ -96,7 +96,7 @@ előirányzat-felhasználási keretszámlát és kincstári kártyafedezeti szá
 
 (19) Az (1) bekezdés s) pontja szerinti PSZÁF felügyeleti bírság célelszámolási számla a Pénzügyi Szervezetek Állami Felügyeletéhez befolyt felügyeleti bírságok elkülönített kezelésére szolgál. A számláról teljesíthető kifizetések jogcímeiről külön jogszabály rendelkezik.
 
-(20)[^13] Az (1) bekezdés t) pontja szerinti EGT Norvég Alap célelszámolási forintszámla a Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében nyújtott támogatások felhasználásának elkülönített kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
+(20)[^17] Az (1) bekezdés t) pontja szerinti EGT Norvég Alap célelszámolási forintszámla a Norvég Finanszírozási Mechanizmus és az EGT Finanszírozási Mechanizmus keretében nyújtott támogatások felhasználásának elkülönített kezelésére szolgál. A költségvetési szerv számára több célelszámolási forintszámla is vezethető.
 
 (21) Az (1) bekezdés u) pontja szerinti MTA kutatóhálózat saját bevételek célelszámolási számla az MTA kutatóhálózatába tartozó szervezetek saját bevételéből származó pénzforgalmának kezelésére nyitható.
 
@@ -106,12 +106,12 @@ előirányzat-felhasználási keretszámlát és kincstári kártyafedezeti szá
 
 (24) Az (1) bekezdés x) pontja szerinti fedezetkezelői számla a szerződéses kapcsolatban álló felek (építtető, fővállalkozó kivitelező) között létrejött szerződésben vállalt kötelezettségek pénzügyi fedezetének és pénzügyi biztosítékainak elkülönített kezelésére szolgál. A számláról közvetlen kifizetés a külön jogszabályban meghatározott előírásoknak megfelelően teljesíthető. A költségvetési szerv részére több fedezetkezelői számla is vezethető.
 
-[^5]: Az 5. § (1) bekezdés m) pontját az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^6]: Az 5. § (2) bekezdés a) pontját az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^7]: Az 5. § (2) bekezdés b) pontja az 5/2010. (IX. 8.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^8]: Az 5. § (3) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
-[^9]: Az 5. § (7) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^10]: Az 5. § (9) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
-[^11]: Az 5. § (11) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^12]: Az 5. § (13) bekezdését az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^13]: Az 5. § (20) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^9]: Az 5. § (1) bekezdés m) pontját az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^10]: Az 5. § (2) bekezdés a) pontját az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^11]: Az 5. § (2) bekezdés b) pontja az 5/2010. (IX. 8.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^12]: Az 5. § (3) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^13]: Az 5. § (7) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^14]: Az 5. § (9) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^15]: Az 5. § (11) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^16]: Az 5. § (13) bekezdését az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^17]: Az 5. § (20) bekezdése az 5/2010. (IX. 8.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

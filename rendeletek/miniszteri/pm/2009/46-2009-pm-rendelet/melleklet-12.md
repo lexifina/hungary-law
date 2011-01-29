@@ -1,20 +1,20 @@
 | Magyar Államkincstár | Ikt. sz.: ......................... |
 
-| .................. ......…… Regionális Igazgatósága részére |
+| ........................……. Megyei Igazgatósága részére |
 
 | Készpénzfelvételi igény-bejelentési bizonylat |
 
 | Új bejelentés / A(z) ...................... ikt. számú bejelentés módosítása. (megfelelő szövegrész aláhúzandó) |
 
-| Intézmény neve, székhelye: ................................................................................................................................ |
+| Intézmény neve, székhelye: |
 
-| ........................................................................................ Tel.: .......................... Fax: ................................ |
+| ........................................................................................ Tel.: .......................... Fax: |
 
 | Intézmény számlaszáma: |  |  |  |  |  |  |  |  | - |  |  |  |  |  |  |  |  | - |  |  |  |  |  |  |  |  |
 
 | Készpénzfelvételi utalvány száma: .................................................. |
 
-| Igényelt készpénz összege: .................................... Ft, azaz ........................................................................... ...Ft |
+| Igényelt készpénz összege: .................................... Ft, azaz ..................................................................................... | Ft |
 
 | Címletjegyzék: | 20.000 Ft | ........... db | ........................ Ft | 100 Ft | ........... db | ...................... Ft |
 
@@ -28,9 +28,9 @@
 
 |  | 500 Ft | ........... db | ........................ Ft |
 
-| 200 Ft | ........... db | ........................ Ft |
+|  | 200 Ft | ........... db | ........................ Ft |
 
-|  | Készpénzfelvétel jogcíme / KTK: ........................................................ |
+| Készpénzfelvétel jogcíme / KTK: ........................................................ |
 
 | A készpénzfelvétel esedékességének időpontja: .............…. év ............……. hó ................ nap |
 
@@ -46,7 +46,7 @@
 
 |  | okmány száma: ......................................... | okmány száma: ............................................... |
 
-| Felhatalmazzuk a Kincstár ………………………Regionális Igazgatóságát, hogy a készpénz kifizetését jelen Készpénzfelvételi igény-bejelentési bizonylat figyelembe vételével teljesítse. |
+| Felhatalmazzuk a Kincstár ………………………Megyei Igazgatóságát, hogy a készpénz kifizetését jelen Készpénzfelvételi igény-bejelentési bizonylat figyelembe vételével teljesítse. |
 
 | Dátum: ……………..….., .......... év .............. hó ......... nap |
 
@@ -54,7 +54,7 @@
 
 | aláírás a Kincstárnál bejelentett módon |
 
-| Magyar Államkincstár Regionális Igazgatósága tölti ki! | Azonosítószám: .......................... |
+| Magyar Államkincstár Megyei Igazgatósága tölti ki! | Azonosítószám: .......................... |
 
 | A fenti készpénzfelvételi igény bejelentését elfogadom/visszautasítom. (megfelelő szövegrész aláhúzandó) |
 
@@ -64,8 +64,8 @@
 
 | ………………………………………………….. |
 
-| Magyar Államkincstár Regionális Igazgatósága |
+| Magyar Államkincstár Megyei Igazgatósága |
 
-12. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^79]
+12. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^109]
 
-[^79]: A 12. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^109]: A 12. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

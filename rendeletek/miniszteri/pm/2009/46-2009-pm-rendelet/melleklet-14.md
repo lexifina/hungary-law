@@ -80,22 +80,22 @@
 
 ## – Dátum, aláírás, iktatószám: Az előirányzat-módosításról történő adatszolgáltatás dátumát, a cégszerű aláírást, a fejezet (vagy a BM) pecsétjét és iktatószámát kell feltüntetni.
 
-14. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^81]
+14. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^111]
 
-|  | EG-03I |  |
+|  | EG-03I |
 
-| Magyar Államkincstár | Intézményi előirányzatok módosítása |  |
+Magyar Államkincstár
 
-| Költségvetési szerv neve: |  | Bizonylat sorszáma: |
+Intézményi előirányzatok módosítása
 
-| címe: |  | Korrigált bizonylat sorsz: |
+Költségvetési szerv neve: Bizonylat sorszáma:
 
-|  | Többletbevételt érintő ei. módosításra saját hatáskörben jogosult |  |
+címe: Korrigált bizonylat sorsz:
 
 |  | Munkaadókat terhelő járulékok éves fizetési kötelezettségének eleget tud tenni |  |
 
-| Államháztartási egyedi azonosítószám: |
+Államháztartási egyedi azonosítószám:
 
-| Számlaszám (1-16 pozíció): |
+Számlaszám (1-16 pozíció):
 
-[^81]: A 14. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^111]: A 14. számú melléklet a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.

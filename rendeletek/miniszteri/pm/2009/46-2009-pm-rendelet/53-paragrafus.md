@@ -6,7 +6,7 @@ b) kincstári költségvetéssel rendelkező költségvetési szervnél (a tová
 
 c) a költségvetési szervnél, ha a lakásépítés és lakástámogatási előirányzat a költségvetési szerv éves költségvetésében szerepel.
 
-(2)[^52] A fejezetet irányító szerv a feladatfinanszírozási körbe tartozó fejezeti kezelésű előirányzat meghatározott része felett a rendelkezési jogot egy-egy részfeladatra Alapokmányban adhatja át. A nem az adott fejezet irányítása alá tartozó költségvetési szerv által megvalósítandó részfeladat Alapokmányát az előirányzatot átadó és átvevő fejezetet irányító szerv vezetője vagy annak megbízottja együtt írja alá. Az utalványozási jog részfeladatot megvalósító államháztartáson kívüli szervezetnek – az európai uniós támogatások kivételével – nem adható át. Ez alól – egyedi elbírálás alapján – az államháztartásért felelős miniszter adhat felmentést.
+(2)[^76] A fejezetet irányító szerv a feladatfinanszírozási körbe tartozó fejezeti kezelésű előirányzat meghatározott része felett a rendelkezési jogot egy-egy részfeladatra Alapokmányban adhatja át. A nem az adott fejezet irányítása alá tartozó költségvetési szerv által megvalósítandó részfeladat Alapokmányát az előirányzatot átadó és átvevő fejezetet irányító szerv vezetője vagy annak megbízottja együtt írja alá. Az utalványozási jog részfeladatot megvalósító államháztartáson kívüli szervezetnek – az európai uniós támogatások kivételével – nem adható át. Ez alól – egyedi elbírálás alapján – az államháztartásért felelős miniszter adhat felmentést.
 
 (3) Amennyiben a rendelkezési jog átadása az Alapokmányban foglaltak szerint előirányzat-módosítással történik, a Kincstár a fejezeti kezelésű előirányzatról az elsődleges elszámolást készítő költségvetési szerv javára a támogatással fedezett kiadási előirányzat-átcsoportosítást, továbbá a pénzeszközátadás keretében átadott maradvány, illetve egyéb forrás terhére megvalósuló kifizetéssel összefüggő kiadási és bevételi előirányzat módosítást az Alapokmány befogadásával egyidejűleg hajtja végre.
 
@@ -18,4 +18,4 @@ c) a költségvetési szervnél, ha a lakásépítés és lakástámogatási el�
 
 (7) A Kincstár az egyes részfeladatokon teljesített tranzakciókról KTK-kénti bontásban havonta értesítőt küld az előirányzat eredeti jogosultjának.
 
-[^52]: Az 53. § (2) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^76]: Az 53. § (2) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

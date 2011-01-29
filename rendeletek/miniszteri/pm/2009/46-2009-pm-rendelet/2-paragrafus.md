@@ -1,6 +1,6 @@
 2. § (1) E rendelet alkalmazásában
 
-a) a Kincstár Regionális Igazgatósága (a továbbiakban: Igazgatóság): a Kincstár Szervezeti és Működési Szabályzatában meghatározott feladatainak ellátására régiónként és Budapesten szervezett egységek; a kincstári ügyfél vonatkozásában – a 23. § (10) bekezdésében meghatározottak kivételével – Igazgatóság alatt az ügyfél számláját vezető Igazgatóságot kell érteni,
+a)[^1] a Kincstár területi szerve (a továbbiakban: Igazgatóság): a Kincstár Szervezeti és Működési Szabályzatában meghatározott feladatainak ellátására megyénként és Budapesten szervezett egységek; a kincstári ügyfél vonatkozásában – a 23. § (10) bekezdésében meghatározottak kivételével – Igazgatóság alatt az ügyfél számláját vezető Igazgatóságot kell érteni,
 
 b) beváltóhely: a Magyar Posta Zrt. postahelyei,
 
@@ -19,3 +19,8 @@ h) központosított bevétel: az az előirányzat, amelynek teljesült összegé
 i) zárt előirányzatok: az Egészségbiztosítási Alapból finanszírozott, nem túlléphető előirányzatok.
 
 (2) Az e rendeletben nem szabályozott kérdésekben az Áht., az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.), valamint a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendelet (a továbbiakban: MNB rendelet) szabályai az irányadók.
+
+(3)[^2] E rendelet alkalmazásában rendvédelmi szerv a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdésében meghatározott szerv, valamint – a hivatásos állomány tekintetében – a Nemzeti Adó- és Vámhivatal.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdését a 3/2011. (I. 28.) NGM rendelet 7. §-a iktatta be.
