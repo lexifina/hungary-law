@@ -1,0 +1,3 @@
+## 15. § Az R. 42. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A negyedéves, havi bontású finanszírozási tervet a Munkaerőpiaci Alapnál a 24. számú, a Központi Nukleáris Pénzügyi Alapnál a 25. számú, a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapnál a 26. számú, a Kutatási és Technológiai Innovációs Alapnál a 27. számú, a Bethlen Gábor Alapnál a 28. számú, a Nemzeti Kulturális Alapnál a 29. számú mellékletben meghatározott formában és tartalommal elektronikus úton és két kinyomtatott példányban, a tárgynegyedévet megelőző hónap 25. napjáig az alappal rendelkező miniszter részére kell benyújtani jóváhagyásra.”

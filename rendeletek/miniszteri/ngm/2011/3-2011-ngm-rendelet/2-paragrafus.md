@@ -1,0 +1,1 @@
+## 1. § A Pénzügyminisztérium és a pénzügyminiszter irányítása alá tartozó szervezetek fontos és bizalmas munkaköreinek megállapításáról szóló 34/1996. (XII. 21.) PM rendelet mellékletének 4.3. pontjában a „regionális igazgatóságainak” szövegrész helyébe a „területi szerveinek” szöveg lép.

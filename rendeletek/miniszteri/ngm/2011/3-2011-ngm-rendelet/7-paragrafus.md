@@ -1,0 +1,1 @@
+## 6. § A törzskönyvi nyilvántartásról szóló 25/2009. (XI. 18.) PM rendelet mellékletében a „B-lap – T01B bejegyzési kérelem” című rész 16. pontjában és a „V-lap – T01V változásbejelentési kérelem” című rész 32. pontjában a „regionális igazgatóság” szövegrész helyébe a „területi szerv” szöveg lép.

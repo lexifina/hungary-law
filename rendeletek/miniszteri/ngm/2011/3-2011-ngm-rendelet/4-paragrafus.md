@@ -1,0 +1,1 @@
+## 3. § A pénzügyminiszter felügyelete alá tartozó szervek katasztrófák elleni védekezésének irányításáról és feladatairól szóló 39/2001. (X. 31.) PM rendelet 11. §-ában a „Területi Igazgatóságai” szövegrész helyébe a „területi szervei” szöveg lép.

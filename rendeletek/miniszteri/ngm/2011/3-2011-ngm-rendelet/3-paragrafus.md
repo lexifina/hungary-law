@@ -1,0 +1,1 @@
+## 2. § A központosított illetmény-számfejtési feladatokról, valamint a bér- és munkaügyi adatszolgáltatás rendjéről szóló 37/2001. (X. 25.) PM rendelet III. fejezet címében a „Területi Igazgatósága” szövegrész helyébe a „területi szerve” szöveg, 30. § (1) bekezdésében a „Területi Igazgatósága” szövegrész helyébe a „területi szerve” szöveg lép.
