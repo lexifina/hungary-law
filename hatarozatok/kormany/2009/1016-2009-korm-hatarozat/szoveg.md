@@ -4,12 +4,28 @@ a) a gazdasági válság mezőgazdasági termelő mikro-, kis- és középválla
 
 b) felkéri az Államadósság Kezelő Központ Zrt.-t az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet 7. § (1) bekezdés b) pontjának 1. alpontja szerinti közreműködésre.
 
-2. Az állami készfizető kezességvállalásért az IKR Termelésfejlesztési és Kereskedelmi Zrt.-nek és a KITE Mezőgazdasági Szolgáltató és Kereskedelmi Zrt.-nek egyszeri kezességvállalási díjat kell fizetni a Magyar Állam részére, amelynek mértéke a kezességgel biztosított tőkeösszeg 2%-a.
+2.[^1] Az állami készfizető kezességvállalásért az IKR Termelésfejlesztési és Kereskedelmi Zrt.-nek és a KITE Mezőgazdasági Szolgáltató és Kereskedelmi Zrt.-nek az állami támogatásokra vonatkozó uniós szabályoknak megfelelő – támogatástartalmat nem, vagy azt az állami támogatásokra vonatkozó uniós szabályokkal összeegyeztethető módon tartalmazó – kezességvállalási díjat kell fizetni a Magyar Állam részére.
 
-Felelős: pénzügyminiszter
+Felelős: nemzetgazdasági miniszter
 
-földművelésügyi és vidékfejlesztési miniszter
+vidékfejlesztési miniszter
+
+Határidő: azonnal
+
+2/A.[^2] A Kormány felhívja a vidékfejlesztési minisztert, hogy a 2. pontban foglalt kezességvállalási díjra tegyen javaslatot a nemzetgazdasági miniszter részére.
+
+Felelős: vidékfejlesztési miniszter
+
+Határidő: azonnal
+
+2/B.[^3] A Kormány felhatalmazza a nemzetgazdasági minisztert arra, hogy a vidékfejlesztési miniszter 2/A. pontban foglalt kezességvállalási díjra vonatkozó javaslata alapján megkösse, vagy szükség szerint módosítsa a kezességvállalási díjra vonatkozó megállapodást az IKR Termelésfejlesztési és Kereskedelmi Zrt.-vel, valamint a KITE Mezőgazdasági Szolgáltató és Kereskedelmi Zrt.-vel.
+
+Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont az 1018/2011. (I. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2/A. pontot az 1018/2011. (I. 28.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 2/B. pontot az 1018/2011. (I. 28.) Korm. határozat 2. pontja iktatta be.
