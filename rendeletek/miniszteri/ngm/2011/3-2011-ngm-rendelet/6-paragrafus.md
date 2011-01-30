@@ -1,1 +1,0 @@
-## 5. § A prémiumévek programmal, valamint a különleges foglalkoztatási állománnyal kapcsolatos egyes munkáltatói költségek költségvetési megtérítésének eljárási szabályairól szóló 8/2005. (II. 8.) PM rendelet 1. § (1) bekezdés d) pontjában a „regionális igazgatóságaira” szövegrész helyébe a „területi szerveire” szöveg lép.

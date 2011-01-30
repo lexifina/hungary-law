@@ -1,1 +1,0 @@
-## 4. § A helyi önkormányzatok és a helyi kisebbségi önkormányzatok központi költségvetési kapcsolatokból származó forrásai igénybevétele és elszámolása szabályszerűségének felülvizsgálatáról szóló 16/2002. (IV. 12.) PM rendelet 1. §-ában a „Területi Igazgatóságai” szövegrész helyébe a „területi szervei” szöveg lép.
