@@ -1,37 +1,3 @@
-## Adatlap az önkormányzat és a többcélú kistérségi társulás által a 2010. december hónapban szervezett közcélú foglalkoztatással összefüggő támogatás igényléséhez
+7. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^32]
 
-## Tárgyhónap: 2010. december
-
-| 1. Megye megnevezése: ............................................................................................................................................................. |
-
-| 2. Önkormányzat megnevezése:………………………………………………………………………………..………….……………….… |
-
-| 3. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:……………………………………………….……………….. |
-
-| 4. A tárgyhónapban foglalkoztatottak száma: |  |
-
-| a) teljes munkaidőben foglalkoztatottak száma: | ....................... fő |
-
-| b) részmunkaidőben foglalkoztatottak száma: | ....................... fő |
-
-| Tárgyhóban foglalkoztatottak száma összesen: | ....................... fő |
-
-| 5. A foglalkoztatással összefüggő személyi kifizetések a tárgyhónapban: |  |
-
-| a) teljes munkaidőben foglalkoztatottak részére: | ......................... Ft |
-
-| b) részmunkaidőben foglalkoztatottak részére: | ......................... Ft |
-
-| Tárgyhavi személyi kifizetések összesen: | ......................... Ft |
-
-| 6. A foglalkoztatással összefüggő személyi kiadások jogcímén igényelt térítés összege [az 5. pont összegének 95%-a]: | ......................... Ft |
-
-| Dátum: ............. év ...................................... hó ......... nap |
-
-| P. H. |
-
-| ........................................................ a jegyző (a társulás munkaszervezetének vezetője) aláírása | ........................................................ a polgármester (a társulás elnöke) aláírása |
-
-7. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^28]
-
-[^28]: A 7. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 4. § (1) bekezdés c) pontjával megállapított szöveg.
+[^32]: A 7. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 4. § (2) bekezdés b) pontjával megállapított szöveg.

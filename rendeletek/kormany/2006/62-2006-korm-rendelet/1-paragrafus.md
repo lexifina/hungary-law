@@ -1,8 +1,8 @@
-1. §[^1] (1) A települési önkormányzatnak, illetve a 2010. december hónapban végzett közcélú foglalkoztatás esetén az annak megszervezését magára vállaló többcélú kistérségi társulásnak (a továbbiakban: társulás) a Magyar Államkincstár (a továbbiakban: Kincstár) területileg illetékes szervéhez (a továbbiakban: Igazgatóság) benyújtott igénylése alapján az időskorúak járadékára, a rendszeres szociális segélyre, a 2010. december hónapban folyósított rendelkezésre állási támogatásra, a bérpótló juttatásra, a lakásfenntartási támogatásra, az ápolási díjra, az adósságkezelési szolgáltatásra, továbbá az Szt. 55/A. § (3) bekezdése szerinti előrefizetős gáz- vagy áramfogyasztást mérő készülék felszerelési költségeire (a továbbiakban: fogyasztásmérő költsége) kifizetett összeg meghatározott arányát, valamint a 2010. december hónapban közcélú munkában részt vevők foglalkoztatásával kapcsolatos személyi kiadásokhoz történő állami támogatás összegét a központi költségvetésben meghatározott feltételek szerint a Kincstár az önkormányzat (társulás) részére megtéríti.
+1. §[^1] (1)[^2] A települési önkormányzatnak a Magyar Államkincstár (a továbbiakban: Kincstár) területileg illetékes szervéhez (a továbbiakban: Igazgatóság) benyújtott igénylése alapján az időskorúak járadékára, a rendszeres szociális segélyre, a bérpótló juttatásra, a lakásfenntartási támogatásra, az ápolási díjra, az adósságkezelési szolgáltatásra, továbbá az Szt. 55/A. § (3) bekezdése szerinti előrefizetős gáz- vagy áramfogyasztást mérő készülék felszerelési költségeire (a továbbiakban: fogyasztásmérő költsége) kifizetett összeg meghatározott arányát a központi költségvetésben meghatározott feltételek szerint a Kincstár az önkormányzat részére megtéríti.
 
-(2) Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot (társulást) igénylése alapján – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyévben az első alkalommal a tárgyhavi térítés kétszerese igényelhető. A tárgyév december hónapjában előleg nem igényelhető.
+(2)[^3] Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot igénylése alapján – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyévben az első alkalommal a tárgyhavi térítés kétszerese igényelhető. A tárgyév december hónapjában előleg nem igényelhető.
 
-(3) Az Szt. 43/A. § (4) bekezdésében meghatározott szakértői díjra, a közcélú munka költségeinek kifizetésére és a fogyasztásmérő költségére előleg nem vehető igénybe.
+(3)[^4] Az Szt. 43/A. § (4) bekezdésében meghatározott szakértői díjra és a fogyasztásmérő költségére előleg nem vehető igénybe.
 
 (4) A települési önkormányzat (a fővárosban a fővárosi kerület) jegyzője (a továbbiakban: jegyző) havonta kifizetési jogcímenként – a kifizetés, illetve a teljesítés hónapjának 10. napjáig – értesíti az Igazgatóságot a tárgyhónapban kifizetett támogatás összegéről, az előző hónapban igényelt összeg felhasználásáról, valamint tárgyhónapot követő hónapra igényelt összegről. Az értesítés
 
@@ -16,26 +16,29 @@ d) az Szt. 44. §-a (1) bekezdésének a) és b) pontja szerinti ápolási díjj
 
 e) az adósságkezelési szolgáltatással összefüggésben igénybe vehető támogatásról, az Szt. 38. §-a (1) bekezdésének b) pontja szerinti lakásfenntartási támogatásról, valamint a fogyasztásmérő költségével összefüggésben igénybe vett támogatásról az 5. számú melléklet,
 
-f) a 2010. december hónapban közcélú munkában részt vevők után igényelhető foglalkoztatási támogatásról a 6. számú melléklet,
+f)[^5]
 
-g) a bérpótló juttatásról és a 2010. december hónapra folyósított rendelkezésre állási támogatásról a 7. számú melléklet
+g)[^6] a bérpótló juttatásról a 7. számú melléklet
 
 szerinti adatlap felhasználásával történik.
 
-(5) A társulás munkaszervezetének vezetője 2011. január 10-éig – a 6. számú melléklet szerinti adatlap felhasználásával – értesíti az Igazgatóságot a 2010. december hónapban a társulás által megszervezett közcélú munkában részt vevők után igényelhető foglalkoztatási támogatás jogcímen kifizetett támogatás összegéről. A társulás és a közcélú foglalkoztatást a társulás keretében megszervező települési önkormányzat e jogcímen egyidejűleg nem igényelhet támogatást.
+(5)[^7]
 
-(6) A fővárosi főjegyző (a továbbiakban: főjegyző) havonta kifizetési jogcímenként – a kifizetés, illetve a teljesítés hónapjának 10. napjáig – értesíti az Igazgatóságot a tárgyhónapban kifizetett támogatás összegéről, az előző hónapban igényelt összeg felhasználásáról, valamint a tárgyhónapot követő hónapra igényelt összegről. Az értesítés
+(6)[^8] A fővárosi főjegyző (a továbbiakban: főjegyző) havonta kifizetési jogcímenként – a kifizetés, illetve a teljesítés hónapjának 10. napjáig – értesíti az Igazgatóságot a tárgyhónapban kifizetett támogatás összegéről, az előző hónapban igényelt összeg felhasználásáról, valamint a tárgyhónapot követő hónapra igényelt összegről. Az értesítés a hajléktalan személyek részére kifizetett
 
-a) a hajléktalan személyek részére kifizetett
+a) időskorúak járadékáról a 8. számú melléklet,
 
-aa) időskorúak járadékáról a 8. számú melléklet,
+b) rendszeres szociális segélyről a 9. számú melléklet,
 
-ab) rendszeres szociális segélyről a 9. számú melléklet,
-
-ac) bérpótló juttatásról és a 2010. december hónapra folyósított rendelkezésre állási támogatásról a 10. számú melléklet;
-
-b) a 2010. december hónapban közcélú munkában részt vevő hajléktalan személyek után igényelhető foglalkoztatási támogatásról a 11. számú melléklet
+c) bérpótló juttatásról a 10. számú melléklet
 
 szerinti adatlap felhasználásával történik.
 
 [^1]: Az 1. § a 358/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdés f) pontját a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (4) bekezdés g) pontja a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: Az 1. § (5) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (6) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

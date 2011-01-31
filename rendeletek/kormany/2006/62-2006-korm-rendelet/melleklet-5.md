@@ -1,6 +1,6 @@
 5. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez
 
-## Adatlap az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez[^26]
+## Adatlap az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez[^30]
 
 Adatlap
 
@@ -146,4 +146,4 @@ P. H.
 
 a jegyző aláírása a polgármester aláírása
 
-[^26]: Az 5. számú melléklet címe a 9/2007. (II. 6.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^30]: Az 5. számú melléklet címe a 9/2007. (II. 6.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

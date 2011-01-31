@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-62-20-2
 | 2010-01-01 | 2006-62-20-22.6 | 62/2006. (III. 27.) Korm. rendelet |
 | 2010-01-31 | 2006-62-20-22.7 | 341/2008. (XII. 30.) Korm. rendelet |
 | 2011-01-01 | 2006-62-20-22.8 | 358/2010. (XII. 30.) Korm. rendelet |
+| 2011-01-31 | 2006-62-20-22.9 | 358/2010. (XII. 30.) Korm. rendelet |

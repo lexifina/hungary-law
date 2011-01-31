@@ -1,38 +1,44 @@
-## Adatlap a hajléktalan személyek részére 2010. december hónapra járó rendszeres szociális segély címén igénybe vehető támogatás igényléséhez
+## Adatlap a hajléktalan személyek részére kifizetett rendszeres szociális segély címén igénybe vehető támogatás igényléséhez
 
-## Tárgyhónap: 2010. december
+## Tárgyhónap: .................. év ..................................... hónap
 
 | 1. Budapest Főváros Önkormányzata |
 
-| 2. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:………………………………………………….…………. |
+| 2. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:…………………………………………………. |
 
 | 3. A tárgyhónapban segélyre jogosult személyek száma: |  |
 
-| a) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés a) pontja alapján segélyben részesülők száma: | ......................... fő |
+| a) az Szt. 37. § (1) bekezdés a) pontja alapján segélyben részesülők száma: | ......................... fő |
 
-| b) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés b) pontja alapján segélyben részesülők száma: | .......................... fő |
+| b) az Szt. 37. § (1) bekezdés b) pontja alapján segélyben részesülők száma: | .......................... fő |
 
-| c) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés c) pontja alapján segélyben részesülők száma: | .......................... fő |
+| c) az Szt. 37. § (1) bekezdés c) pontja alapján segélyben részesülők száma: | .......................... fő |
 
-| d) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés d) pontja alapján segélyben részesülők száma: | ......................... fő |
+| d) az Szt. 37. § (1) bekezdés d) pontja alapján segélyben részesülők száma: | ......................... fő |
 
 | Támogatásban részesülők száma összesen: | .......................... fő |
 
 | 4. A tárgyhónapra történt kifizetés: |  |
 
-| a) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés a) pontja alapján segélyben részesülők részére: | .......................... Ft |
+| a) az Szt. 37. § (1) bekezdés a) pontja alapján segélyben részesülők részére: | .......................... Ft |
 
-| b) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés b) pontja alapján segélyben részesülők részére: | .......................... Ft |
+| b) az Szt. 37. § (1) bekezdés b) pontja alapján segélyben részesülők részére: | .......................... Ft |
 
-| c) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés c) pontja alapján segélyben részesülők részére: | ......................... Ft |
+| c) az Szt. 37. § (1) bekezdés c) pontja alapján segélyben részesülők részére: | ......................... Ft |
 
-| d) az Szt. 2010. december 31-én hatályos 37/B. § (1) bekezdés d) pontja alapján segélyben részesülők részére: | ......................... Ft |
+| d) az Szt. 37. § (1) bekezdés d) pontja alapján segélyben részesülők részére: | ......................... Ft |
 
 | Tárgyhónapra történt kifizetés összesen: | ......................... Ft |
 
 | 5. A tárgyhavi kifizetés után járó térítés [a 4. pont a)+b)+c)+d) alpontjai szerinti összegek együttes összege]: | ......................... Ft |
 
-| 6. Az igényelt előleg összege [megegyezik a tárgyhónapra járó térítés 5. pont szerinti összegének kétszeresével]: | ......................... Ft |
+| 6. Az igényelt előleg összege: |  |
+
+| a) a tárgyhónapra járó térítés [az 5. pont szerinti összeg]: | ......................... Ft |
+
+| b) a tárgyhónapra járó térítés és az előző havi előleg – előjel nélküli – különbözete [a január havi igénylés kivételével az a) alpont és az előző havi 6/c) alpontban szereplő összegek különbözete abszolút értékben; januárban az a) alpontban szereplő összeget kell beírni]: | .......................... Ft |
+
+| c) az előleg összege: [Az a) és b) alpontok összege azzal, hogy - ha a tárgyhónapra járó térítés nagyobb, mint az előző havi előleg összege, akkor az a) alpont szerinti összeghez hozzá kell adni a b) alpont összegét, míg - ha a tárgyhónapra járó térítés kisebb, mint az előző havi előleg összege, akkor az a) alpont összegéből ki kell vonni a b) alpont összegét. Figyelem! A január havi igényléskor az a) pont összegének kétszeresét kell beírni!] | .......................... Ft |
 
 | Dátum: ............. év ...................................... hó ......... nap |
 
@@ -40,6 +46,6 @@
 
 | ........................................................ a fővárosi főjegyző aláírása | ........................................................ a főpolgármester aláírása |
 
-10. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^30]
+10. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^34]
 
-[^30]: A 10. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 4. § (1) bekezdés e) pontjával megállapított szöveg.
+[^34]: A 10. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 4. § (2) bekezdés d) pontjával megállapított szöveg.
