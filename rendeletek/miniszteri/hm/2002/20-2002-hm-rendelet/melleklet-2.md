@@ -1,6 +1,4 @@
-## A Magyar Honvédségben rendszeresített katonai
-
-## munkakörök térképe
+## A Magyar Honvédségben rendszeresített katonai munkakörök térképe
 
 ## Magyarázat a munkakör azonosító kód használatához:
 
@@ -8,9 +6,7 @@
 
 ## A MAK 11 karakterből (számok és betűk csoportja) áll.
 
-| Fegyvernemi (szakági) azonosító | Fegyvernemi (szakági) alcsoport | Rendfokozati azonosító | Nemzet- biztonsági ellenőrzés szintje | Állomány- kategória | Tartalék | Nyelvismeret |
-
-| szakmai specifikáció |
+| Fegyvernemi (szakági) azonosító | Fegyvernemi (szakági) alcsoport | Rendfokozati azonosító | Nemzetbiztonsági ellenőrzés szintje | Állománykategória | Tartalék szakmai specifikáció | Nyelvismeret |
 
 | 2 karakter | 2 karakter | 2 karakter | 1 karakter | 1 karakter | 1 karakter | 2 karakter |
 
@@ -48,43 +44,41 @@
 
 | 1 | 0 | A | a |  |  |  |  |  |  |  |
 
-| * A legjellemzőbb beosztásokat általában az alábbi betűkkel kell jelölni: |
+## * A legjellemzőbb beosztásokat általában az alábbi betűkkel kell jelölni:
 
-| „a” | minden szintű parancsnok (a rajpk.-tól a Honvéd Vezérkar főnökéig), az intézmények, objektumok parancsnokai, a hivatalok vezetői (hivatalvezetők, főigazgatók, igazgatók stb.), az adott szakág legfelső szintű vezetői (legfőbb ügyész, főosztályvezető stb.); |
+## „a” minden szintű parancsnok (a rajpk.-tól a Honvéd Vezérkar főnökéig), az intézmények, objektumok parancsnokai, a hivatalok vezetői (hivatalvezetők, főigazgatók, igazgatók stb.), az adott szakág legfelső szintű vezetői (legfőbb ügyész, főosztályvezető stb.);
 
-| „b” | az „a” betűvel jelölt parancsnoki beosztások első (általános) helyettesei; |
+## „b” az „a” betűvel jelölt parancsnoki beosztások első (általános) helyettesei;
 
-| „c” | a csapatok törzsfőnökei, törzsigazgatók, illetve az ennek megfelelő beosztások; |
+## „c” a csapatok törzsfőnökei, törzsigazgatók, illetve az ennek megfelelő beosztások;
 
-| „d” | a vezető beosztású törzstisztek (főnökök, osztály, alosztály, részlegvezetők, illetve az ennek megfelelő beosztások); |
+## „d” a vezető beosztású törzstisztek (főnökök, osztály, alosztály, részlegvezetők, illetve az ennek megfelelő beosztások);
 
-| „h” | a „c” és a „d” betűvel jelölt vezető beosztások helyettesei; |
+## „h” a „c” és a „d” betűvel jelölt vezető beosztások helyettesei;
 
-| „e” | a kiemelt főtiszt, főtiszt, tiszt, tiszthelyettes; |
+## „e” a kiemelt főtiszt, főtiszt, tiszt, tiszthelyettes;
 
-| „f” | a mérnök (kiemelt főmérnök, főmérnök); |
+## „f” a mérnök (kiemelt főmérnök, főmérnök);
 
-| „g” | az oktató, szakoktató, kiképző. |
+## „g” az oktató, szakoktató, kiképző;
 
-| „i” | irányzók; |
+## „i” irányzók;
 
-| „k” | mindenhol a legáltalánosabb, alapbeosztás (pl. kezelő, szerelő, beosztott lövész stb.); |
+## „k” mindenhol a legáltalánosabb, alapbeosztás (pl. kezelő, szerelő, beosztott lövész stb.);
 
-| „m” | műszerész vagy más fegyvernemeknél: mesterkezelő (pl. mesterlövész); |
+## „m” műszerész vagy más fegyvernemeknél: mesterkezelő (pl. mesterlövész);
 
-| „n” | nyilvántartó; |
+## „n” nyilvántartó;
 
-| „o” | oktató, szakoktató, kiképző; |
+## „r” raktáros (raktárvezető);
 
-| „r” | raktáros (raktárvezető); |
+## „s” alegység ellátó;
 
-| „s” | alegység ellátó; |
+## „t” technikus;
 
-| „t” | technikus; |
+## „v” gép- és harcjárművezető.
 
-| „v” | gép- és harcjárművezető. |
-
-| Amely fegyvernemnél (szakágnál) a fenti legjellemzőbb munkakörök nincsenek rendszeresítve, ezeket a betűket más jellemző munkakör jelölésére lehet felhasználni. |
+## Amely fegyvernemnél (szakágnál) a fenti legjellemzőbb munkakörök nincsenek rendszeresítve, ezeket a betűket más jellemző munkakör jelölésére lehet felhasználni.
 
 ## 4. Az ötödik–hatodik karakter a rendfokozati azonosító.
 
@@ -146,9 +140,9 @@
 
 | M | hadkötelezettség bevezetése után katonával tölthető be |
 
-| N | hadkötelezettség bevezetése után önkéntes tartalékossal tölthető be |
+| N | önkéntes tartalékos katonával is beltölthető |
 
-| K | köztisztviselővel, közalkalmazottal vagy katonával is betölthető |
+| K | kormánytisztviselővel, közalkalmazottal vagy katonával is betölthető |
 
 | 1 | 0 | A | a | 1 | 4 | A | Z |  |  |  |
 
@@ -158,7 +152,7 @@
 
 | 1 | 0 | A | a | 1 | 4 | A | Z | R |  |  |
 
-## 8. A tízedik és tizenegyedik karakter az adott beosztáshoz szükséges nyelvet és a nyelvismeret szintjét jelenti, melynek jelölése: egy állami vagy azzal azonos nyelvvizsga esetén két nagybetű (pl. A K, azaz angol középfok).
+## 8. A tizedik és tizenegyedik karakter az adott beosztáshoz szükséges nyelvet és a nyelvismeret szintjét jelenti, melynek jelölése: egy állami vagy azzal azonos nyelvvizsga esetén két nagybetű (pl. A K, azaz angol középfok).
 
 ## A jelölés több nyelv esetén: egy nagybetű és egy szám (pl. H 3, azaz angol és bármely más nyelv, melyek mindegyikére középfokú szintet határoz meg).
 
@@ -184,19 +178,19 @@
 
 |  |  | 3 | Közép | Közép | Alap |
 
-|  |  | 4 | Felső | Közép | Alap |
+| 4 | Felső | Közép | Alap |
 
-|  |  | 5 | Felső | Közép | Közép |
+| 5 | Felső | Közép | Közép |
 
-|  |  | 6 | Felső | Felső | Alap |
+| 6 | Felső | Felső | Alap |
 
-|  |  | 7 | Felső | Felső | Közép |
+| 7 | Felső | Felső | Közép |
 
-|  |  | 8 | Felső | Felső | Felső |
+| 8 | Felső | Felső | Felső |
 
-|  |  | 9 | Tolmács | Felső | Felső |
+| 9 | Tolmács | Felső | Felső |
 
-|  |  | 0 | Tolmács | Tolmács | Felső |
+| 0 | Tolmács | Tolmács | Felső |
 
 ## A példában szereplő beosztásra, illetve a betöltőjével szemben támasztott követelményekre vonatkozó meghatározások összefoglalása a teljes kód alapján.
 
@@ -204,19 +198,19 @@
 
 ## Lövész (10) általános (A) alegységparancsnok (a) alezredes (14) rendfokozattal rendszeresítve, azaz egy olyan zászlóaljparancsnok beosztás, melynek betöltője:
 
-## – Megfelel az „A” típusú nemzetbiztonsági ellenőrzés követelményeinek. (A)
+## –  Megfelel az „A” típusú nemzetbiztonsági ellenőrzés követelményeinek. (A)
 
-## – Hivatásos vagy szerződéses állományú katona. (Z)
+## –  Hivatásos vagy szerződéses állományú katona. (Z)
 
-## – A beosztás betöltőjének kiválasztásakor figyelemmel kell lenni a Jegyzékben található tiltó, illetve korlátozó (pl. terhes nő nem töltheti be) rendelkezésekre. (T)
+## –  A beosztás betöltőjének kiválasztásakor figyelemmel kell lenni a Jegyzékben található tiltó, illetve korlátozó (pl. terhes nő nem töltheti be) rendelkezésekre. (T)
 
-## – Angol nyelvből középfokú nyelvvizsgával kell rendelkeznie. (A K)
+## –  Angol nyelvből középfokú nyelvvizsgával kell rendelkeznie. (A K)
 
 ## A munkakörök térképének tartalma:
 
 | I. | ÁLTALÁNOS KATONAI MUNKAKÖRÖK | 01–09 |
 
-| II. | SZÁRAZFÖLDI HADERŐ | 10–19 |
+| II. | SZÁRAZFÖLDI | 10–19 |
 
 | III. | LÉGIERŐ | 20–29 |
 
@@ -244,9 +238,9 @@
 
 | ÁLTALÁNOS KATONAI MUNKAKÖRÖK | 01–09 |
 
-| Összhaderő általános katonai | 01 |
+| Összhaderőnemi általános katonai | 01 |
 
-| Szárazföldi haderő | 02 |
+| Szárazföldi | 02 |
 
 | Légierő | 03 |
 
@@ -262,13 +256,13 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., főigazgató, igazgató, hiv. vez. |
+| A | általános | a | pk., főov., vezérigazgató, főigazgató, igazgató |
 
 | B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
 
-| C | nemzeti képviseleti | c | törzsfőnök, törzsigazgató |
+| C | nemzeti képviseleti | c | törzsfőnök |
 
-| D | nemzetközi kapcsolatok | d | főnök, irodavezető, integrációs főnök, ov., alov., rlg. vez. |
+| D | nemzetközi kapcsolatok | d | főnök, irodavezető, titkárságvezető, ov., alov., rlg. vez. |
 
 | E | ellenőrzési | e | kiem. főti., főti., ti., tts. |
 
@@ -282,7 +276,7 @@
 
 | J | beszerzés, beruházás | j |  |
 
-| K | katasztrófavédelmi | k |  |
+| K | katasztrófavédelmi | k | kezelő |
 
 | L | környezetvédelmi | l | ellenőr, kiemelt ellenőr |
 
@@ -296,27 +290,27 @@
 
 | Q |  | q |  |
 
-| R | lélektani műveleti | r | kiemelt referens, referens |
+| R | lélektani műveleti | r | kiemelt referens, referens, szakreferens |
 
-| S | sajtó | s | szóvivő |
+| S | sajtó | s |  |
 
 | T | tűzvédelmi | t | technikus |
 
-| U | erőforrás-, költségtervező | u | titkár |
+| U | erőforrás-, költségtervező | u | titkár, személyi titkár |
 
-| V | elemző, értékelő | v |  |
+| V | elemző, értékelő | v | gépkocsivezető |
 
-| W |  | w | váltásparancsnok |
+| W | információs műveleti | w | váltásparancsnok |
 
 | X | tűzoltó | x | vezénylő tiszthelyettes |
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
-| 02 | SZÁRAZFÖLDI HADERŐ |
+| 02 | SZÁRAZFÖLDI |
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
@@ -334,7 +328,7 @@
 
 | G |  | g | oktató, szakoktató, kiképző |
 
-| H |  | h | a „c” és „d” pontban szereplők helyettesei |
+| H | hadműveleti | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I | hadműveleti biztosítási | i |  |
 
@@ -372,7 +366,7 @@
 
 | Z |  | z |  |
 
-## Fegyvernemi (szakági) azonosító
+## Fegyvernemi(szakági)azonosító
 
 | 03 | LÉGIERŐ |
 
@@ -392,7 +386,7 @@
 
 | G |  | g | oktató, szakoktató, kiképző |
 
-| H |  | h | a „c” és „d” pontban szereplők helyettesei |
+| H | hadműveleti | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I | hadműveleti biztosítási | i |  |
 
@@ -404,7 +398,7 @@
 
 | M |  | m |  |
 
-| N |  | n |  |
+| N |  | n | hajtogató |
 
 | O | kiképzési | o |  |
 
@@ -420,7 +414,7 @@
 
 | U |  | u |  |
 
-| V |  | v |  |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -440,17 +434,17 @@
 
 | B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
 
-| C |  | c | törzsfőnök |
+| C | ejtőernyős | c | törzsfőnök |
 
 | D |  | d | főnök, ov., irodavezető, alov., rlg. vez. |
 
-| E |  | e | kiem. főti., főti., ti., tts. |
+| E | ellátási | e | kiem. főti., főti., ti., tts. |
 
 | F |  | f | kiemelt főmérnök, főmérnök, mérnök |
 
 | G | gazdálkodási | g | oktató, szakoktató, kiképző |
 
-| H |  | h | a „c” és „d” pontban szereplők helyettesei |
+| H | hadműveleti | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I |  | i |  |
 
@@ -552,7 +546,7 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., igazgató, katonai képviselő |
+| A | általános | a | pk., igazgató, képviseletvezető |
 
 | B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
 
@@ -572,11 +566,11 @@
 
 | J | jogász | j |  |
 
-| K |  | k |  |
+| K | ellenőrzési | k |  |
 
 | L | informatikai | l | ügykezelő |
 
-| M |  | m |  |
+| M | megfigyelő | m | adminisztrátor |
 
 | N | katonai biztonsági | n | nyilvántartó |
 
@@ -586,25 +580,25 @@
 
 | Q | oktatási | q |  |
 
-| R | rejtjelző | r | raktáros |
+| R | rejtjelző | r | raktáros, ellátó, szolgálatvezető |
 
-| S | személyügyi | s | segítő |
+| S | személyügyi | s | segítő, asszisztens |
 
 | T | tájékoztatási | t | technikus |
 
 | U | ügyviteli | u | titkárságvezető, titkár |
 
-| V | pénzügyi | v |  |
+| V | pénzügyi | v | gépkocsivezető |
 
 | W | egészségügyi | w | váltásparancsnok, ügyeletes |
 
-| X |  | x |  |
+| X | rendész és komendáns | x |  |
 
-| Y |  | y |  |
+| Y | infrastruktúrális | y |  |
 
-| Z |  | z | gépkocsivezető |
+| Z | titokvédelmi | z |  |
 
-| SZÁRAZFÖLDI HADERŐ | 10–19 |
+| SZÁRAZFÖLDI HADERŐ | 10 – 19 |
 
 | Lövész | 10 |
 
@@ -618,6 +612,8 @@
 
 | Vegyivédelmi | 16 |
 
+| Különleges műveleti | 18 |
+
 ## Fegyvernemi (szakági) azonosító
 
 | 10 | LÖVÉSZ |
@@ -628,7 +624,7 @@
 
 | B |  | b | az „a” pontban szereplők helyettesei |
 
-| C |  | c | törzsfőnök |
+| C | ejtőernyős | c | törzsfőnök |
 
 | D |  | d | főnök, ov., alov., rlg. vez. |
 
@@ -656,17 +652,17 @@
 
 | P |  | p | kézi pct. fegyver irányzó |
 
-| Q |  | q |  |
+| Q |  | q | távbeszélő |
 
-| R |  | r |  |
+| R |  | r | raktáros, raktárvezető, ellátó |
 
-| S |  | s |  |
+| S |  | s | referens, kiemelt referens |
 
 | T |  | t |  |
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -674,7 +670,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -686,7 +682,7 @@
 
 | B |  | b | az „a” pontban szereplők helyettesei |
 
-| C | közepes harckocsizó | c | törzsfőnök |
+| C | közepes harckocsi | c | törzsfőnök |
 
 | D |  | d | főnök, ov., alov., rlg. vez. |
 
@@ -716,7 +712,7 @@
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s |  |
 
@@ -724,7 +720,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -732,7 +728,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -744,23 +740,23 @@
 
 | B | vontatott tüzér | b | az „a” pontban szereplők helyettesei |
 
-| C | önjáró tarackos | c | törzsfőnök |
+| C |  | c | törzsfőnök |
 
 | D | aknavető | d | főnök, ov., alov., rlg. vez. |
 
-| E | sorozatvető | e | kiem. főti., főti., ti., tts. |
+| E | tűzmegfigyelő | e | kiem. főti., főti., ti., tts. |
 
-| F | tüzér felderítő | f |  |
+| F | tűztámogató | f |  |
 
 | G | tüzér bemérő | g | oktató, szakoktató, kiképző |
 
-| H | hangfelderítő | h | a „c” és „d” pontban szereplők helyettesei |
+| H |  | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I |  | i | irányzó |
 
 | J |  | j | kidolgozó |
 
-| K | rakéta harcigép | k | kezelő |
+| K | páncéltörő rakéta harcigép | k | kezelő |
 
 | L | lokátor felderítő | l | ellenőr, kiemelt ellenőr |
 
@@ -774,15 +770,15 @@
 
 | Q |  | q |  |
 
-| R |  | r | referens, kiemelt referens |
+| R | ejtőernyős | r | referens, kiemelt referens |
 
-| S |  | s |  |
+| S | felderítő ejtőernyős | s |  |
 
-| T |  | t | távmérő |
+| T | páncéltörő ejtőernyős | t | távmérő |
 
-| U |  | u |  |
+| U | aknavető ejtőernyős | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -790,7 +786,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -798,49 +794,49 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
+| A | általános | a | pk., főov., kp. pk., álls. pk. |
 
 | B | mélységi felderítő | b | az „a” pontban szereplők helyettesei |
 
-| C | különleges műveleti | c | törzsfőnök |
+| C | ejtőernyős | c | törzsfőnök |
 
 | D | technikai felderítő | d | főnök, ov., alov., rlg. vez. |
 
 | E | rádióelektronikai felderítő | e | kiem. főti., főti., ti., tts. |
 
-| F | ejtőernyős búvár | f |  |
+| F | ejtőernyős-búvár | f | kiemelt főmérnök, főmérnök, mérnök |
 
-| G | humán | g | oktató, szakoktató, kiképző |
+| G | harcászati hírszerző | g | oktató, szakoktató, kiképző |
 
 | H | elektronikai hadviselés | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I | szárazföldi elektronikai hadviselés | i | harcjármű irányzó |
 
-| J |  | j | értékelő, tájékoztató |
+| J | speciális elektronikai zavaró | j | értékelő, tájékoztató, adatfeldolgozó |
 
-| K | elektronikai ellenőrző | k | kezelő, beosztott felderítő |
+| K | elektronikai ellenőrző | k | kezelő, felderítő, operátor |
 
-| L |  | l |  |
+| L | értékelő-tájékoztató | l |  |
 
 | M | speciális felderítő | m | mesterlövész |
 
 | N |  | n | ejtőernyő hajtogató |
 
-| O |  | o | géppuska irányzó |
+| O | hadműveleti | o | géppuska irányzó |
 
-| P |  | p | tolmács |
+| P | pilótanélküli felderítő | p | távbeszélő, távírász |
 
-| Q |  | q | egészségügyi beosztások |
+| Q | képi felderítő | q | egészségügyi beosztások |
 
-| R |  | r | raktáros, raktárvezető, ellátó |
+| R | szenzoros felderítő | r | raktáros, raktárvezető, ellátó, szakjavító |
 
-| S | különleges híradó | s | kihallgató |
+| S | különleges híradó | s | kihallgató, tolmács |
 
-| T |  | t | távírász |
+| T |  | t | technikus |
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -848,7 +844,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -880,25 +876,25 @@
 
 | L | víztisztító | l | villamos ácsműhelyhez beosztottak, világító |
 
-| M | műszaki zártelepítő | m | földgyaluhoz és földmunkagéphez beosztottak |
+| M | műszaki zártelepítő | m |  |
 
-| N | hadihajós | n | hajóra és rocsó-, mocsó- és AVM-hez beosztottak |
+| N | hadihajós | n | hajóra és rocsó-, mocsó-, és tolóhajóhoz beosztottak |
 
 | O | búvár | o | deszant átkelő eszközökhöz beosztottak |
 
-| P | anyag-előkészítő és feldolgozó | p | buldózerhez beosztottak |
+| P | anyagelőkészítő és feldolgozó | p | harcjármű irányzó |
 
-| Q |  | q | útprofilozó és úthengerhez beosztottak |
+| Q | műszaki búvár | q | földmunkagéphez beosztottak |
 
-| R |  | r | referens, kiemelt referens |
+| R | felderítő búvár | r | referens, kiemelt referens |
 
-| S |  | s | fedezékásóhoz és kotróhoz beosztottak |
+| S | tűzszerész búvár | s | kutyavezető tűzszerész |
 
 | T |  | t | technikus |
 
-| U |  | u | műszaki (kút-, talajfúró, daru, vontatott keretfűrész) eszközökhöz beosztottak |
+| U |  | u | műszaki (kút-, talajfúró, daru, vontatott keretfűrész, víztisztító) eszközökhöz beosztottak |
 
-| V | vasútépítő | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -906,7 +902,7 @@
 
 | Y | speciális repülőtéri karbantartó és helyreállító | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -944,19 +940,19 @@
 
 | O |  | o |  |
 
-| P |  | p | értékelő |
+| P |  | p | értékelő, kidolgozó-értékelő |
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s |  |
 
 | T |  | t |  |
 
-| U |  | u |  |
+| U |  | u | értékelő-gépkocsivezető |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -964,9 +960,67 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
-| LÉGIERŐ | 20–29 |
+## Fegyvernemi (szakági) azonosító
+
+| 18 | KÜLÖNLEGES MŰVELETI |
+
+| Fegyvernemi (szakági) alcsoport | Munkakör |
+
+| A | általános | a | pk., főov. |
+
+| B |  | b | az „a” pontban szereplők helyettesei |
+
+| C | ejtőernyős | c | törzsfőnök |
+
+| D |  | d | főnök, ov., alov., rlg. vez. |
+
+| E |  | e | kiem. főti., főti., ti., tts. |
+
+| F | búvár | f |  |
+
+| G |  | g | oktató, szakoktató, kiképző |
+
+| H |  | h | a „c” és „d” pontban szereplők helyettesei |
+
+| I |  | i |  |
+
+| J | különleges műveleti | j | értékelő, tájékoztató, adatfeldolgozó |
+
+| K |  | k | kezelő, felderítő |
+
+| L |  | l | fegyveres specialista |
+
+| M |  | m | mesterlövész |
+
+| N | nagymagasságú ejtőernyős | n | ejtőernyő hajtogató |
+
+| O |  | o |  |
+
+| P |  | p | híradó specialista |
+
+| Q |  | q | egészségügyi beosztások |
+
+| R |  | r | raktáros, raktárvezető, ellátó |
+
+| S |  | s | referens, kiemelt referens |
+
+| T |  | t | technikus |
+
+| U |  | u | műszaki specialista |
+
+| V |  | v | gépkocsivezető, harcjárművezető |
+
+| W |  | w |  |
+
+| X |  | x | vezénylő tiszthelyettes |
+
+| Y |  | y | testnevelő |
+
+| Z |  | z | kiképzendő, hallgató |
+
+| LÉGIERŐ | 20 – 29 |
 
 | Repülő | 20 |
 
@@ -1004,19 +1058,19 @@
 
 | K |  | k | beosztott |
 
-| L | elekronikai zavaró helikopter | l | fedélzeti megfigyelő |
+| L | elektronikai zavaró helikopter | l | fedélzeti megfigyelő |
 
 | M |  | m | mechanikus |
 
 | N |  | n | fedélzeti rádiós |
 
-| O |  | o |  |
+| O |  | o | felderítő |
 
 | P |  | p | repülőgép- (helikopter)vezető, főpilóta |
 
-| Q |  | q |  |
+| Q |  | q | elektronikai harc |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s |  |
 
@@ -1032,7 +1086,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1074,7 +1128,7 @@
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s |  |
 
@@ -1082,7 +1136,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1090,7 +1144,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1106,7 +1160,7 @@
 
 | D | fegyver irányítás | d | főnök, ov., alov., rlg. vez. |
 
-| E | vadászirányítás | e | kiem. főti., főti., ti., tts. |
+| E | légvédelmi irányítás | e | kiem. főti., főti., ti., tts. |
 
 | F | radar | f |  |
 
@@ -1114,7 +1168,7 @@
 
 | H |  | h | a „c” és „d” pontban szereplők helyettesei |
 
-| I |  | i | vadászirányító |
+| I |  | i | vadászirányító, irányító asszisztens |
 
 | J |  | j | együttműködő |
 
@@ -1132,7 +1186,7 @@
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s | értékelő |
 
@@ -1140,7 +1194,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1148,7 +1202,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1158,7 +1212,7 @@
 
 | A | általános | a | pk., főov., igazgató, hiv. vez. |
 
-| B | hdm.-i központ (vez. pont) | b | az „a” pontban szereplők helyettesei |
+| B | hdm-i központ (vez. pont) | b | az „a” pontban szereplők helyettesei |
 
 | C | légiforgalmi irányító | c | törzsfőnök |
 
@@ -1178,7 +1232,7 @@
 
 | K |  | k | repülőtéri irányító |
 
-| L |  | l | repülőtéri bejelentő |
+| L |  | l | repülés bejelentő |
 
 | M |  | m | adatfeldolgozó, adatközlő |
 
@@ -1190,7 +1244,7 @@
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens, kiemelt referens |
 
 | S |  | s |  |
 
@@ -1206,9 +1260,9 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
-| VEZETÉS, IRÁNYÍTÁS | 30–39 |
+| VEZETÉS, IRÁNYÍTÁS | 30 – 39 |
 
 | Általános híradó | 30 |
 
@@ -1220,9 +1274,9 @@
 
 | Vezetékes híradás | 34 |
 
-| FTP híradás | 35 |
+| Futár- és táboriposta híradás | 35 |
 
-| FRISZ | 36 |
+| Repülésbiztosító-FRISZ | 36 |
 
 | Információvédelmi, ügyviteli | 37 |
 
@@ -1248,7 +1302,7 @@
 
 | F | távközlés | f |  |
 
-| G |  | g | oktató, szakoktató, kiképző |
+| G | adatfeldolgozás, elemzés | g | oktató, szakoktató, kiképző |
 
 | H |  | h | a „c” és „d” pontban szereplők helyettesei |
 
@@ -1274,11 +1328,11 @@
 
 | S |  | s |  |
 
-| T |  | t |  |
+| T |  | t | technikus |
 
 | U |  | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1286,7 +1340,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1298,7 +1352,7 @@
 
 | B | parancsnoki rádióállomás | b | az „a” pontban szereplők helyettesei |
 
-| C | pk.-i páncélos rádióállomás | c | törzsfőnök |
+| C | pk-i páncélos rádióállomás | c | törzsfőnök |
 
 | D | közepes teljesítményű rádióállomás | d | főnök, ov., alov., rlg. vez. |
 
@@ -1336,7 +1390,7 @@
 
 | U |  | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1344,7 +1398,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1394,7 +1448,7 @@
 
 | U |  | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1402,7 +1456,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1422,7 +1476,7 @@
 
 | F | híradó vezetési pont | f |  |
 
-| G | géptávíró központ | g | oktató, szakoktató, kiképző |
+| G | géptáviró központ | g | oktató, szakoktató, kiképző |
 
 | H | áramellátás | h | a „c” és „d” pontban szereplők helyettesei |
 
@@ -1452,7 +1506,7 @@
 
 | U |  | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1460,7 +1514,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1488,7 +1542,7 @@
 
 | J |  | j |  |
 
-| K |  | k |  |
+| K |  | k | kezelő |
 
 | L |  | l |  |
 
@@ -1510,7 +1564,7 @@
 
 | U |  | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1518,11 +1572,11 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
-| 35 | FTP HÍRADÁS |
+| 35 | FUTÁR- ÉS TÁBORIPOSTA HÍRADÁS |
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
@@ -1568,7 +1622,7 @@
 
 | U |  | u |  |
 
-| V |  | v |  |
+| V |  | v | gépkocsivezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1580,7 +1634,7 @@
 
 ## Fegyvernemi (szakági) azonosító
 
-| 36 | FRISZ |
+| 36 | REPÜLÉSBIZTOSÍTÓ-FRISZ |
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
@@ -1594,17 +1648,17 @@
 
 | E | közelnavigáció | e | kiem. főti., főti., ti., tts. |
 
-| F | kihelyezett indikátor | f |  |
+| F | kihelyezett indikátor | f | kiemelt főmérnök, főmérnök, mérnök |
 
 | G | irányszögadó | g | oktató, szakoktató, kiképző |
 
 | H | siklószögadó | h | a „c” és „d” pontban szereplők helyettesei |
 
-| I |  | i |  |
+| I | légtérellenőrző rádiólokátor | i |  |
 
-| J |  | j |  |
+| J |  | j | rendszerfelügyelő |
 
-| K | fénytechnikai | k | kezelő |
+| K | fénytechnikai | k | kezelő, üzemeltető |
 
 | L | fénymajak | l |  |
 
@@ -1620,13 +1674,13 @@
 
 | R |  | r |  |
 
-| S | rep. irányító rádió | s |  |
+| S | repülés irányító rádió | s |  |
 
 | T | ERIP | t | technikus |
 
 | U | helikopter leszállító | u | ügyeletes |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -1634,7 +1688,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1658,7 +1712,7 @@
 
 | H | kommunikációbiztonsági | h | a „d” pontban szereplők helyettesei |
 
-| I | informatikabiztonsági | i | irodavezető |
+| I | informatikabiztonsági | i |  |
 
 | J | hadműveleti biztosítási | j |  |
 
@@ -1672,7 +1726,7 @@
 
 | O |  | o |  |
 
-| P |  | p | írnok, írnok-rajzoló |
+| P |  | p | írnok, írnok-rajzoló, írnok-raktáros |
 
 | Q |  | q |  |
 
@@ -1684,7 +1738,7 @@
 
 | U | ügyviteli | u | ügyeletes |
 
-| V | ügyvitelszervezési | v | harc- és gépjárművezető |
+| V | ügyvitelszervezési | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -1692,7 +1746,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1768,7 +1822,7 @@
 
 | E |  | e | kiem. főti., főti., ti., tts. |
 
-| F | rendszerfelügyelő | f |  |
+| F | rendszerfelügyelő | f | kiemelt főmérnök, főmérnök, mérnök |
 
 | G |  | g | oktató, szakoktató, kiképző |
 
@@ -1796,11 +1850,11 @@
 
 | S | hálózatüzemeltető | s |  |
 
-| T |  | t |  |
+| T |  | t | technikus |
 
 | U |  | u |  |
 
-| V |  | v |  |
+| V |  | v | gépkocsivezető |
 
 | W |  | w |  |
 
@@ -1808,9 +1862,9 @@
 
 | Y | feldolgozók | y |  |
 
-| Z |  | z |  |
+| Z |  | z | hallgató |
 
-| LOGISZTIKA | 50–69 |
+| LOGISZTIKA | 50 – 69 |
 
 | Haditechnikai | 50 |
 
@@ -1846,7 +1900,7 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a |  |
+| A | általános | a | pk., igazgató |
 
 | B |  | b |  |
 
@@ -1946,7 +2000,7 @@
 
 | U | optika, elektro-optikai rendszer | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -1954,7 +2008,7 @@
 
 | Y | tűzvezető rendszerek | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -1990,7 +2044,7 @@
 
 | N |  | n |  |
 
-| O |  | o |  |
+| O |  | o | technikus-gépkocsivezető |
 
 | P |  | p |  |
 
@@ -2004,7 +2058,7 @@
 
 | U |  | u | elektromos szerelő |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2012,7 +2066,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2056,21 +2110,21 @@
 
 | R | fedélzeti rakéta előkészítő | r | raktárvezető, raktáros, anyagellátó, anyagtervező |
 
-| S |  | s | főszerelő, szerelő |
+| S | minőségbiztosítási | s | főszerelő, szerelő |
 
 | T |  | t | technikus |
 
 | U | impulzustechnika | u | főtechnológus, technológus |
 
-| V | különleges berendezések (gépjárművek) | v |  |
+| V | különleges berendezések (gépjárművek) | v | gépkocsivezető, harcjárművezető |
 
-| W | elektronikai hadviselési eszköz | w |  |
+| W | elektronikai hadviselési eszköz | w | váltásparancsnok |
 
 | X | gyakorlóberendezés, repülőszimulátor | x | vezénylő tiszthelyettes |
 
 | Y |  | y |  |
 
-| Z | repülési adatok | z | kiképzendő |
+| Z | repülési adatok | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2108,7 +2162,7 @@
 
 | O |  | o |  |
 
-| P | információvédelem | p |  |
+| P | információ védelem | p |  |
 
 | Q |  | q |  |
 
@@ -2120,7 +2174,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2128,7 +2182,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2166,7 +2220,7 @@
 
 | O |  | o |  |
 
-| P |  | p |  |
+| P | egészségügyi | p |  |
 
 | Q |  | q |  |
 
@@ -2178,7 +2232,7 @@
 
 | U | aknatelepítő és mentesítő | u | elektromos szerelő |
 
-| V | víztisztító | v | harc- és gépjárművezető |
+| V | víztisztító | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2186,7 +2240,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2216,27 +2270,27 @@
 
 | K |  | k |  |
 
-| L | vegyivédelmi és radiológiai laboratórium | l | minőségi ellenőr, ellenőr |
+| L | vegyi laboratórium | l | minőségi ellenőr, ellenőr |
 
 | M | mentesítő eszköz | m | műszerész |
 
 | N |  | n | radiológus |
 
-| O |  | o |  |
+| O |  | o | technikus-gépkocsivezető |
 
 | P |  | p | laboráns |
 
 | Q |  | q | gépész |
 
-| R |  | r | raktárvezető, raktáros, ellátó |
+| R | radiológiai laboratórium | r | raktárvezető, raktáros, ellátó |
 
-| S | AMAR – szerviz | s | szerelő |
+| S | AMAR - szerviz | s | szerelő |
 
-| T | tűzvédelmi beredezés | t | technikus |
+| T | tűzvédelmi berendezés | t | technikus |
 
 | U |  | u |  |
 
-| V | vegyivédelmi berendezés | v | harc- és gépjárművezető |
+| V | vegyivédelmi berendezés | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2244,7 +2298,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2272,7 +2326,7 @@
 
 | J |  | j |  |
 
-| K | kiképzési bázis és létesítmény | k | beosztott |
+| K | kiképzési bázis és létesitmény | k | beosztott |
 
 | L |  | l | minőségi ellenőr, ellenőr |
 
@@ -2294,11 +2348,11 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
-| X |  | x |  |
+| X |  | x | vezénylő tiszthelyettes |
 
 | Y |  | y |  |
 
@@ -2352,7 +2406,7 @@
 
 | U |  | u | elektromos szerelő |
 
-| V | közepes kerekes vontató | v | harc- és gépjárművezető |
+| V | közepes kerekes vontató | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2410,7 +2464,7 @@
 
 | U | optikai, elektrooptikai rendszerek | u |  |
 
-| V | vegyivédelmi technika | v | harc- és gépjárművezető |
+| V | vegyivédelmi technika | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2468,7 +2522,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2526,7 +2580,7 @@
 
 | U | üzemanyag | u | étkezdevezető |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -2534,7 +2588,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2560,7 +2614,7 @@
 
 | I |  | i | diszpécser |
 
-| J |  | j |  |
+| J |  | j | baleseti helyszínelő |
 
 | K | közúti komendáns | k | beosztott |
 
@@ -2568,7 +2622,7 @@
 
 | M |  | m |  |
 
-| N |  | n |  |
+| N |  | n | őr |
 
 | O |  | o |  |
 
@@ -2592,7 +2646,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2652,7 +2706,7 @@
 
 | Z |  | z |  |
 
-| EGYÉB TÁMOGATÁS | 70–76 |
+| EGYÉB TÁMOGATÁS | 70 – 76 |
 
 | Térképész | 70 |
 
@@ -2676,27 +2730,27 @@
 
 | A | általános | a | pk., főov., igazgató, hiv. vez., szf. |
 
-| B | topográfus | b | az „a” pontban szereplők helyettesei |
+| B |  | b | az „a” pontban szereplők helyettesei |
 
 | C | geodéta | c |  |
 
-| D | fotogramméter | d | főnök, ov., alov., rlg. vez. |
+| D |  | d | főnök, ov., alov., rlg. vez. |
 
-| E | kiértékelő | e | kiem. főti., főti., ti., tts. |
+| E |  | e | kiem. főti., főti., ti., tts. |
 
-| F | fényképész | f | kiemelt főmérnök, főmérnök, mérnök |
+| F |  | f | kiemelt főmérnök, főmérnök, mérnök |
 
-| G | térképszerkesztő | g | oktató, szakoktató, kiképző |
+| G |  | g | oktató, szakoktató, kiképző |
 
-| H | kartográfus | h | a „d” pontban szereplők helyettesei |
+| H |  | h | a „d” pontban szereplők helyettesei |
 
 | I | térinformatikus | i |  |
 
-| J | sokszorosító | j |  |
+| J |  | j |  |
 
 | K | terepelemző | k | beosztott |
 
-| L | katonai geográfus | l | ellenőr |
+| L | katonaföldrajz | l | ellenőr |
 
 | M |  | m | műszerész |
 
@@ -2724,7 +2778,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2790,13 +2844,13 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
+| A | általános | a | pk., főov., vezérigazgató, igazgató, hiv. vez. |
 
 | B |  | b | az „a” pontban szereplők helyettesei |
 
 | C |  | c |  |
 
-| D |  | d | főnök, ov., alov., rlg. vez., csop. vez. |
+| D | FEUVE | d | főnök, ov., alov., irodavezető, rlg. vez., csop. vez. |
 
 | E | ellenőrzési | e | kiem. főti., főti., ti., tts. |
 
@@ -2818,7 +2872,7 @@
 
 | N | nemzetközi pénzügyi | n |  |
 
-| O |  | o |  |
+| O | gazdálkodás támogató | o |  |
 
 | P |  | p | pénztáros |
 
@@ -2840,7 +2894,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2848,57 +2902,57 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
+| A | általános | a | pk., főigazgató, igazgató, intézetvezető, hiv. vez. |
 
 | B | belgyógyászat | b | az „a” pontban szereplők helyettesei |
 
-| C |  | c | MH főszakorvos |
+| C | kardiológia | c | MH főszakorvos, MH főpszichológus, MH főállatorvos |
 
-| D |  | d | főnök, ov., alov., rlg. vez. |
+| D | hematológia, angiológia | d | főnök, rendelővezető, ov., alov., rlg. vez., vezető közegészségügyi felügyelő |
 
-| E |  | e | kiem. főti., főti., ti., tts. |
+| E | infektológia | e | kiem. főti., főti., ti., tts. |
 
-| F | reumatológia | f | főorvos, adjunktus, orvos, alorvos, pszichológus, biológus, ergonómus |
+| F | reumatológia | f | főorvos, adjunktus, szakorvos, orvos, alorvos, szakpszichológus |
 
-| G | bőrgyógyászat | g | közeg. felügyelő, dietetikus, eü. tiszt, gyógytornász, eü. fejlesztő tiszt |
+| G | bőrgyógyászat | g | közegészségügyi felügyelő, dietetikus, eü. tiszt, gyógytornász, eü. fejlesztő tiszt, logopédus, szociális munkás, tudományos munkatárs, főmunkatárs, pszichológus, biológus, szakergonómus, ergonómus |
 
 | H | repülőorvos | h | a „d” pontban szereplők helyettesei |
 
-| I |  | i | felcser, eü. tiszthelyettes |
+| I | toxikológia | i | felcser, eü. tiszthelyettes |
 
-| J |  | j | légi eü. ti., tts. |
+| J | tüdőgyógyászat | j | légi eü. ti., tts. |
 
 | K | ideg- és elmegyógyászat | k | beosztott |
 
-| L |  | l | vezető-, szakasszisztens, asszisztens |
+| L | allergológia, immunológia | l | vezető-, szakasszisztens, asszisztens, laboráns |
 
-| M |  | m | műszerész |
+| M | gastroenterológia | m | műszerész |
 
-| N | közegészségügy – járványügy | n | vezető-, szakápoló, ápoló |
+| N | közegészségügy – járványügy | n | vezető-, szakápoló, ápoló, okl. ápoló, dipl. ápoló |
 
 | O | foglalkozás egészségügy | o | kötöző |
 
-| P | pszichológia | p |  |
+| P | pszichológia | p | búvár |
 
-| Q | fogász | q | vezető-, főműtős, műtős |
+| Q | fogászat | q | vezető-, főműtős, műtős |
 
 | R | rehabilitáció | r | raktárvezető, raktáros, ellátó |
 
-| S |  | s | statisztikus |
+| S | mentő | s | statisztikus |
 
-| T | alapellátás | t | technikus |
+| T | csapat egészségügy | t | technikus |
 
-| U |  | u | gázmester, boncmester |
+| U | állategészségügyi | u | gázmester, boncmester |
 
-| V | diagnosztika | v | harc- és gépjárművezető |
+| V | laboratóriumi | v | gépkocsivezető, harcjárművezető |
 
-| W |  | w | kisegítő, eü. kisegítő, beteghordó, műtőssegéd, eü. katona |
+| W | vérellátó | w | kisegítő, eü. kisegítő, beteghordó, műtőssegéd, eü. katona |
 
 | X | egészségügyi anyagellátó | x | vezénylő tiszthelyettes |
 
-| Y |  | y |  |
+| Y | diabetológia, endokrinológia | y | masszőr, gyógymasszőr, sterilizáló |
 
-| Z | egészségfejlesztés, egészségnevelés | z | kiképzendő |
+| Z | egészségfejlesztés, egészségnevelés, fizikai alkalmasságvizsgálati | z | kiképzendő |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2906,57 +2960,57 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A |  | a | pk., főov., igazgató, hiv. vez. |
+| A | szervezési | a | pk., igazgató, gyógyszertárvez., hiv. vez. |
 
 | B | sebészet | b | az „a” pontban szereplők helyettesei |
 
-| C |  | c | MH főszakorvos |
+| C | baleseti sebészet | c | MH főszakorvos, MH főgyógyszerész |
 
-| D |  | d | főnök, ov., alov., rlg. vez. |
+| D | szív-, ér- és mellkasi sebészet | d | főnök, rendelővez., ov., alov., rlg. vez. |
 
-| E |  | e | kiem. főti., főti., ti., tts. |
+| E | plasztikai sebészet | e | kiem. főti., főti., ti., tts. |
 
-| F |  | f | főorvos, adjunktus, orvos, alorvos |
+| F | égési sebészet | f | főorvos, adjunktus, szakorvos, orvos, alorvos, |
 
-| G |  | g | kutató, tudományos munkatárs |
+| G | ortopédia | g | kutató, tudományos munkatárs, főmunkatárs |
 
-| H |  | h | a „d” pontban szereplők helyettesei |
+| H | idegsebészet | h | a „d” pontban szereplők helyettesei |
 
-| I |  | i |  |
+| I | nefrológia | i |  |
 
-| J |  | j | gyógyszerész |
+| J | urológia | j | gyógyszerész |
 
 | K | szemészet | k | beosztott |
 
-| L | fül-orr-gégészet | l | vezető-, szakasszisztens, asszisztens |
+| L | fül-orr-gégészet, fej-nyak sebészet, szájsebészet | l | vezető-, szakasszisztens, asszisztens, laboráns |
 
 | M | szülészet-nőgyógyászat | m | műszerész |
 
-| N | anaesthesiológia és intenzívterápia | n | vezető-, szakápoló, ápoló |
+| N | anaesthesiológia és intenzív terápia | n | vezető-, szakápoló, ápoló, okl. ápoló, dipl. ápoló, szülésznő, konduktor, szonográfus, védőnő |
 
-| O |  | o | kötöző |
+| O | onkológia | o | kötöző |
 
-| P |  | p | eü. katona |
+| P | radiológia | p |  |
 
-| Q | kutatás-fejlesztés | q | vezető-, főműtős, műtős, műtőssegéd |
+| Q | kórélettan | q | vezető-, főműtős, műtős |
 
-| R | kórbonctan | r | raktárvezető, raktáros, ellátó |
+| R | patológia | r | raktárvezető, raktáros, ellátó |
 
 | S | csecsemő- és gyermekgyógyászat | s |  |
 
-| T |  | t | technikus |
+| T | mikrobiológia | t | technikus |
 
 | U | igazságügyi orvostan | u | gázmester, boncmester |
 
-| V |  | v |  |
+| V | sugárbiológia | v |  |
 
-| W |  | w |  |
+| W | kézsebészet | w | egészségügyi katona, műtőssegéd |
 
 | X | gyógyszerészet | x |  |
 
-| Y |  | y |  |
+| Y | izotópdiagnosztika | y |  |
 
-| Z | állategészségügy | z |  |
+| Z | sürgősségi betegellátás | z |  |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -2976,19 +3030,19 @@
 
 | F |  | f |  |
 
-| G | építéshatósági | g |  |
+| G | építésügyi | g |  |
 
-| H |  | h | a „d” pontban szereplők helyettesei |
+| H | építésfelügyeleti | h | a „d” pontban szereplők helyettesei |
 
 | I |  | i |  |
 
 | J | járművizsgálati | j |  |
 
-| K | katasztrófavédelmi | k |  |
+| K |  | k |  |
 
 | L | környezetvédelmi | l | kiemelt főellenőr, főellenőr, ellenőr |
 
-| M |  | m |  |
+| M | munkaügyi | m |  |
 
 | N |  | n |  |
 
@@ -2998,15 +3052,15 @@
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R | erdészeti | r |  |
 
 | S |  | s |  |
 
-| T | tűzvédelmi | t | szaktechnikus |
+| T | tűzvédelmi | t |  |
 
 | U |  | u |  |
 
-| V |  | v |  |
+| V | veszélyes katonai objektum felügyeleti | v |  |
 
 | W |  | w |  |
 
@@ -3022,7 +3076,7 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., főigazgató, igazgató, hiv. vez. |
+| A | általános | a | pk., főov., vezérigazgató, igazgató, hiv. vez. |
 
 | B | biztonsági beruházási | b | az „a” pontban szereplők helyettesei |
 
@@ -3036,7 +3090,7 @@
 
 | G | gazdálkodási | g |  |
 
-| H | ingatlankezelési | h | a „c” és „d” pontban szereplők helyettesei |
+| H | ingatlanfenntartási | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I | ingatlan-felügyeleti | i | diszpécser |
 
@@ -3044,9 +3098,9 @@
 
 | K | környezetvédelmi | k |  |
 
-| L | lakás-felügyeleti | l |  |
+| L | lakásfelügyeleti | l |  |
 
-| M | szakigazgatási | m |  |
+| M | szakigazgatási | m | műszerész |
 
 | N | beszerzési | n |  |
 
@@ -3066,7 +3120,7 @@
 
 | V |  | v |  |
 
-| W |  | w |  |
+| W |  | w | váltásparancsnok |
 
 | X |  | x |  |
 
@@ -3126,7 +3180,7 @@
 
 | U | üzemanyagtöltő | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w |  |
 
@@ -3136,25 +3190,25 @@
 
 | Z |  | z | kiképzendő |
 
-| KATONAI NEMZETBIZTONSÁGI SZOLGÁLATOK | 80–81 |
+| KATONAI NEMZETBIZTONSÁGI SZOLGÁLATOK | 80 – 81 |
 
 | Katonai felderítés | 80 |
 
 | Katonai biztonsági | 81 |
 
-## Fegyvernemi (szakági) azonosító
+## Fegyvernemi /szakági/ azonosító
 
 | 80 | KATONAI FELDERÍTÉS |
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | főigazgató, igazgató, főov., irodavezető |
+| A | általános | a | főigazgató, igazgató, főov. |
 
 | B | műveleti | b | az „a” pontban szereplők helyettesei |
 
 | C | rádióelektronikai felderítő | c |  |
 
-| D | elemző-értékelő | d | főnök, ov., alov., rlg. vez., közp. pk. |
+| D | elemző-értékelő | d | főnök, ov., alov., rlg. vez., közp. pk., irodavezető |
 
 | E | katonai diplomácia | e | kiem. főti., főti., ti., tts. |
 
@@ -3182,7 +3236,7 @@
 
 | Q |  | q |  |
 
-| R |  | r | referens, kiem. referens |
+| R |  | r | referens |
 
 | S |  | s | asszisztens |
 
@@ -3190,7 +3244,7 @@
 
 | U |  | u |  |
 
-| V |  | v | gépjárművezető |
+| V |  | v | gépkocsivezető |
 
 | W |  | w | váltásvezető |
 
@@ -3198,7 +3252,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z |  |
+| Z |  | z | hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -3258,7 +3312,7 @@
 
 | Z |  | z |  |
 
-| OKTATÁS, KÉPZÉS, KIKÉPZÉS | 82–83 |
+| OKTATÁS, KÉPZÉS, KIKÉPZÉS | 82 – 83 |
 
 | Oktatás, képzés, kiképzés | 82 |
 
@@ -3268,9 +3322,9 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
+| A | általános | a | pk., rektor, főov., igazgató, hiv. vez., dékán, objektumparancsnok |
 
-| B | oktatás felügyelet | b | az „a” pontban szereplők helyettesei |
+| B | oktatás felügyelet | b | az „a” pontban szereplők helyettesei, rektorhelyettes |
 
 | C | egyetemi (mesterfokozatú MSc/MA) | c | törzsfőnök, főtitkár |
 
@@ -3280,7 +3334,7 @@
 
 | F | tanfolyamrendszerű képzés | f |  |
 
-| G | gazdasági | g | tanár, docens, adjunktus, tanársegéd, szakoktató, kiképző |
+| G | gazdasági | g | tanár, docens, adjunktus, tanársegéd, vezető oktató, oktató, szakoktató, gyakorlati oktató, kiképző |
 
 | H | doktori és habilitációs | h | a „c” és „d” pontban szereplők helyettesei |
 
@@ -3318,9 +3372,9 @@
 
 | Y | kiképzési bázis | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z | kiképzendő, hallgató |
 
-| KATONAI ÜGYÉSZSÉG ÉS JOGI IGAZGATÁS | 84–85 |
+| KATONAI ÜGYÉSZSÉG ÉS JOGI IGAZGATÁS | 84 – 85 |
 
 | Katonai ügyészség | 84 |
 
@@ -3400,31 +3454,31 @@
 
 | E |  | e | kiem. főti., főti., ti., tts. |
 
-| F |  | f |  |
+| F | fegyelmi | f |  |
 
 | G |  | g |  |
 
-| H |  | h | a „d” pontban szereplők helyettesei |
+| H | hadijogász, nemzetközi | h | a „d” pontban szereplők helyettesei |
 
 | I | igazgatási | i |  |
 
 | J |  | j | jogtanácsos |
 
-| K |  | k |  |
+| K | kodifikációs, koordinációs | k |  |
 
 | L |  | l |  |
 
-| M |  | m |  |
+| M | kártérítési | m |  |
 
 | N |  | n |  |
 
-| O |  | o |  |
+| O | képviseleti | o |  |
 
 | P |  | p | dokumentációkezelő |
 
 | Q |  | q |  |
 
-| R |  | r |  |
+| R |  | r | referens |
 
 | S |  | s |  |
 
@@ -3442,7 +3496,7 @@
 
 | Z |  | z |  |
 
-| HUMÁN | 86–87 |
+| HUMÁN | 86 – 87 |
 
 | Humán | 86 |
 
@@ -3452,7 +3506,7 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főov.g, igazgató, hiv. vez. |
+| A | általános | a | pk., főov., igazgató, hiv. vez. |
 
 | B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
 
@@ -3462,7 +3516,7 @@
 
 | E | érdekvédelem | e | kiem. főti., főti., ti., tts. |
 
-| F |  | f | pszichológus |
+| F | családtámogatás | f | pszichológus |
 
 | G | toborzási | g |  |
 
@@ -3478,7 +3532,7 @@
 
 | M | művelődés | m |  |
 
-| N | nyomda | n |  |
+| N | nyomda | n | nyilvántartó |
 
 | O |  | o |  |
 
@@ -3502,9 +3556,9 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
+| Z |  | z |  |
 
-| TÁBORI LELKÉSZEK | 88–89 |
+| TÁBORI LELKÉSZEK | 88 – 89 |
 
 | Tábori Lelkészi Szolgálat | 88 |
 
@@ -3514,83 +3568,21 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | katolikus tábori lelkészi szolgálat | a | püspök, rabbi |
+| A | katolikus tábori lelkészi szolgálat | a | püspök, vezető rabbi |
 
-| B | római-katolikus | b |  |
+| B | római-katolikus | b | általános helynök, püspöki hivatalvezető |
 
-| C | görög-katolikus | c |  |
+| C |  | c | püspöki titkár |
 
-| D | protestáns tábori lelkészi szolgálat | d | általános helynök, püspöki hivatalvezető, iroda- vezető |
+| D | protestáns tábori lelkészi szolgálat | d | irodavezető, kiemelt vezető tábori lelkész |
 
-| E | református | e | lelkész, rabbi |
+| E |  | e | kiemelt tábori lelkész, tábori lelkész, rabbi |
 
-| F | evangélikus | f | kiemelt vezető lelkész |
+| F |  | f |  |
 
 | G | zsidó tábori lelkészi szolgálat | g |  |
 
 | H |  | h |  |
-
-| I |  | i |  |
-
-| J |  | j | püspöki titkár |
-
-| K |  | k |  |
-
-| L |  | l |  |
-
-| M |  | m |  |
-
-| N |  | n |  |
-
-| O |  | o |  |
-
-| P |  | p |  |
-
-| Q |  | q |  |
-
-| R |  | r |  |
-
-| S |  | s |  |
-
-| T |  | t |  |
-
-| U |  | u |  |
-
-| V |  | v |  |
-
-| W |  | w |  |
-
-| X |  | x |  |
-
-| Y |  | y |  |
-
-| Z |  | z |  |
-
-| KATONAI IGAZGATÁS | 90–91 |
-
-| Katonai igazgatás | 90 |
-
-## Fegyvernemi (szakági) azonosító
-
-| 90 | KATONAI IGAZGATÁS |
-
-| Fegyvernemi (szakági) alcsoport | Munkakör |
-
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
-
-| B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
-
-| C | mozgósítási | c | törzsfőnök |
-
-| D | kiegészítési | d | főnök, ov., alov., rlg. vez. |
-
-| E |  | e | kiem. főti., főti., ti., tts. |
-
-| F | területvédelmi | f |  |
-
-| G | haderőtervezési | g |  |
-
-| H |  | h | a „c” és „d” pontban szereplők helyettesei |
 
 | I |  | i |  |
 
@@ -3626,13 +3618,73 @@
 
 | Y |  | y |  |
 
+| Z |  | z |  |
+
+| KATONAI IGAZGATÁS | 90 – 91 |
+
+| Katonai igazgatás | 90 |
+
+## Fegyvernemi (szakági) azonosító
+
+| 90 | KATONAI IGAZGATÁS |
+
+| Fegyvernemi (szakági) alcsoport | Munkakör |
+
+| A | általános | a | pk., főov., igazgató, hiv. vez. |
+
+| B | tervezési, szervezési | b | az „a” pontban szereplők helyettesei |
+
+| C |  | c | törzsfőnök |
+
+| D | hadkiegészítési | d | főnök, ov., alov., rlg. vez. |
+
+| E |  | e | kiem. főti., főti., ti., tts. |
+
+| F | területvédelmi | f |  |
+
+| G | haderőtervezési | g |  |
+
+| H |  | h | a „c” és „d” pontban szereplők helyettesei |
+
+| I |  | i |  |
+
+| J |  | j |  |
+
+| K |  | k | beosztott |
+
+| L |  | l |  |
+
+| M |  | m |  |
+
+| N |  | n |  |
+
+| O |  | o |  |
+
+| P |  | p |  |
+
+| Q |  | q |  |
+
+| R |  | r |  |
+
+| S |  | s |  |
+
+| T |  | t |  |
+
+| U |  | u |  |
+
+| V |  | v |  |
+
+| W |  | w |  |
+
+| X |  | x |  |
+
+| Y |  | y |  |
+
 | Z |  | z | kiképzendő |
 
-| EGYÉB BIZTOSÍTÁSI ÉS KISZOLGÁLÁSI FELADATOK | 92–99 |
+| EGYÉB BIZTOSÍTÁSI ÉS KISZOLGÁLÁSI FELADATOK | 92 – 99 |
 
 | Katonai rendész és komendáns | 92 |
-
-| Katonai büntetésvégrehajtás | 93 |
 
 | Díszelgő | 94 |
 
@@ -3642,7 +3694,7 @@
 
 | Általános munkakörök | 99 |
 
-## Fegyvernemi (szakági) azonosító
+## Fegyvernemi /szakági/ azonosító
 
 | 92 | KATONAI RENDÉSZ ÉS KOMENDÁNS |
 
@@ -3690,7 +3742,7 @@
 
 | U |  | u |  |
 
-| V |  | v | harc- és gépjárművezető |
+| V |  | v | gépkocsivezető, harcjárművezető |
 
 | W |  | w | váltásparancsnok |
 
@@ -3698,65 +3750,7 @@
 
 | Y |  | y |  |
 
-| Z |  | z | kiképzendő |
-
-## Fegyvernemi (szakági) azonosító
-
-| 93 | KATONAI BÜNTETÉSVÉGREHAJTÁS |
-
-| Fegyvernemi (szakági) alcsoport | Munkakör |
-
-| A | általános | a | pk., főov., igazgató, hiv. vez. |
-
-| B |  | b | az „a” pontban szereplők helyettesei |
-
-| C |  | c | törzsfőnök |
-
-| D |  | d | főnök, ov., alov., rlg. vez. |
-
-| E |  | e | kiem. főti., főti., ti., tts. |
-
-| F |  | f |  |
-
-| G |  | g |  |
-
-| H |  | h | a „c” és „d” pontban szereplők helyettesei |
-
-| I |  | i |  |
-
-| J |  | j | foglár |
-
-| K |  | k | fogolykísérő |
-
-| L |  | l |  |
-
-| M |  | m |  |
-
-| N |  | n |  |
-
-| O |  | o |  |
-
-| P |  | p |  |
-
-| Q |  | q |  |
-
-| R |  | r |  |
-
-| S |  | s |  |
-
-| T |  | t |  |
-
-| U |  | u |  |
-
-| V |  | v |  |
-
-| W |  | w |  |
-
-| X |  | x | vezénylő tiszthelyettes |
-
-| Y |  | y |  |
-
-| Z |  | z |  |
+| Z |  | z | kiképzendő, hallgató |
 
 ## Fegyvernemi (szakági) azonosító
 
@@ -3766,7 +3760,7 @@
 
 | A | általános | a | pk., főov., igazgató, hiv. vez. |
 
-| B |  | b | az „a” pontban szereplők helyettesei |
+| B | rendezvényszervezési | b | az „a” pontban szereplők helyettesei |
 
 | C |  | c | törzsfőnök |
 
@@ -3822,7 +3816,7 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | zenész | a | pk., főov., igazgató, hiv. vez. |
+| A | zenész | a | főkarmester, karmester |
 
 | B |  | b | az „a” pontban szereplők helyettesei |
 
@@ -3994,215 +3988,211 @@
 
 A KATONAI MUNKAKÖRCSALÁDOK ÉS A BEOSZTÁSOK KÖVETELMÉNYEI
 
-ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE
+I. ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE
 
-I. Rendszeresített rendfokozat
+1. Rendszeresített rendfokozat
 
-| 01-19 | = | rendfokozati azonosító kód a Magyar Honvédségben rendszeresített katonai munkakörök térképében foglaltaknak megfelelően. |
+01–19 = rendfokozati azonosító kód a Magyar Honvédségben rendszeresített katonai munkakörök térképében foglaltaknak megfelelően.
 
-II. Képesítési és egyéb követelmények
+2. Képesítési és egyéb követelmények
 
 a) Iskolai végzettség:
 
-| ÁI | = | alapfokú iskola (legalább a 8. évfolyam elvégzése); |
+| ÁI | = alapfokú iskola (legalább a 8. évfolyam elvégzése); |
 
-| KÉ | = | középiskola (érettségi); |
+| KÉ | = középiskola (érettségi); |
 
-| PF | = | polgári főiskola (alapfokozatú BSc/BA); |
+| PF | = polgári főiskola (alapfokozatú BSc/BA); |
 
-| SZPF | = | szakirányú polgári főiskola (alapfokozatú BSc/BA); |
+| SZPF | = szakirányú polgári főiskola (alapfokozatú BSc/BA); |
 
-| ZMNEF | = | Zrínyi Miklós Nemzetvédelmi Egyetem (a továbbiakban: ZMNE) főiskolai (alapfokozatú BSc/BA), illetve az ennek megfeleltetett külföldi főiskolai szak; |
+| ZMNEF | = Zrínyi Miklós Nemzetvédelmi Egyetem (a továbbiakban: ZMNE) főiskolai (alapfokozatú BSc/BA), illetve az ennek megfeleltetett külföldi főiskolai szak; |
 
-| FSZPGV | = | főiskolai végzettségre épülő szakirányú posztgraduális végzettség; |
+| FSZPGV | = főiskolai végzettségre épülő szakirányú posztgraduális végzettség; |
 
-| PE | = | polgári egyetem (mesterfokozatú MSc/MA); |
+| PE | = polgári egyetem (mesterfokozatú MSc/MA); |
 
-| SZPE | = | szakirányú polgári egyetem (mesterfokozatú MSc/MA); |
+| SZPE | = szakirányú polgári egyetem (mesterfokozatú MSc/MA); |
 
-| ZMNE | = | ZMNE egyetemi (mesterfokozatú MSc/MA), illetve az ennek megfeleltetett külföldi egyetemi szak. |
+| ZMNE | = ZMNE egyetemi (mesterfokozatú MSc/MA), illetve az ennek megfeleltetett külföldi egyetemi szak. |
 
 Megjegyzés: amennyiben valamely rendfokozatnál, vagy beosztástípusnál egynél több végzettségi kód szerepel, felsorolás esetén közülük bármelyik megléte elégséges, ugyanakkor „és” kapcsolatban minden megjelölt végzettség szükséges.
 
 b) Szakképzettségi szint:
 
-| AK | = | alapkiképzés; |
+| AK | = alapkiképzés; |
 
-| KK | = | kötelékkiképzés; |
+| KK | = kötelékkiképzés; |
 
-| AF | = | alapfokú (alapfokú iskolai végzettségre épülő iskolarendszerben szerzett államilag elismert szakképzettség); |
+| KF | = középfokú (alapfokú iskolai végzettségre épülő iskolarendszerben szerzett államilag elismert szakképzettség); |
 
-| SZAF | = | szakirányú alapfokú; |
+| SZKF | = szakirányú középfokú; |
 
-| KF | = | középfokú; |
+| FF | = felsőfokú; |
 
-| SZKF | = | szakirányú középfokú; |
+| SZFF | = szakirányú felsőfokú; |
 
-| FF | = | felsőfokú; |
-
-| SZFF | = | szakirányú felsőfokú; |
-
-| 21-71 | = | a szakképesítés szintje az Országos Képzési Jegyzék alapján. |
+| 21–61 | = a szakképesítés szintje az Országos Képzési Jegyzék alapján. |
 
 c) Előmeneteli és szakmai tanfolyam:
 
-| * | = | felsővezető képző tanfolyam, vezetői tanfolyam, szakterülethez kapcsolódó tudományos fokozat, jogi szakvizsga, közigazgatási szakvizsga, egyetemi végzettségre épülő szakirányú posztgraduális végzettség. Az egyes beosztásokhoz tartozó konkrét követelményt az állománytábla vagy a munkaköri jegyzék tartalmazza; |
+| * | = felsővezető képző tanfolyam, vezetői tanfolyam, szakterülethez kapcsolódó tudományos fokozat, jogi szakvizsga, közigazgatási szakvizsga, egyetemi végzettségre épülő szakirányú posztgraduális végzettség. Az egyes beosztásokhoz tartozó konkrét követelményt az állománytábla vagy a munkaköri jegyzék tartalmazza; |
 
-| ET | = | előmeneteli (rendfokozathoz kötött) tanfolyam; |
+| ET | = előmeneteli (rendfokozathoz kötött) tanfolyam; |
 
-| JSZV | = | jogi szakvizsga; |
+| JSZV | = jogi szakvizsga; |
 
-| KSZV | = | közigazgatási szakvizsga. |
+| KSZV | = közigazgatási szakvizsga. |
 
 d) Szükséges nyelvismeret:
 
-| A | = | alapfokú vagy STANAG 6001 1111 szint; |
+| A | = alapfokú vagy STANAG 6001 1111 szint; |
 
-| K | = | középfokú vagy STANAG 6001 2222 szint; |
+| K | = középfokú vagy STANAG 6001 2222 szint; |
 
-| F | = | felsőfokú vagy STANAG 6001 3333 szint. |
+| F | = felsőfokú vagy STANAG 6001 3333 szint. |
 
 e) Egészségi kategóriák:
 
-| A1 | = | repülőgép-, helikoptervezető és a Repülőorvosi Bizottság (a továbbiakban: ROB) elbírálása hatáskörébe tartozó személyek; |
+| A1 | = repülőgép-, helikoptervezető és a Repülőorvosi Bizottság (a továbbiakban: ROB) elbírálása hatáskörébe tartozó személyek; |
 
-| A2 | = | külföldi szolgálatra jelentkező és az állomány külföldi szolgálatra tervezett tagja; |
+| A2 | = külföldi szolgálatra jelentkező és az állomány külföldi szolgálatra tervezett tagja; |
 
-| A3 | = | az egyes fegyvernemeknél (légi mozgékonyságú, harckocsizó, búvár, tűzszerész és aknakutató), valamint a radioaktív anyagokkal, ionizáló sugárforrásokkal, rakéta üzemanyaggal dolgozó állomány alkalmasságának szintje, beosztásba helyezés előtt és a szolgálat teljesítése során; |
+| A3 | = az egyes fegyvernemeknél (légi mozgékonyságú, harckocsizó, búvár, tűzszerész és aknakutató), valamint a radioaktív anyagokkal, ionizáló sugárforrásokkal, rakéta üzemanyaggal dolgozó állomány alkalmasságának szintje, beosztásba helyezés előtt és a szolgálat teljesítése során; |
 
-| A4 | = | az állomány tagjának egészségi besorolása szolgálata teljesítése során, a hivatásos állományba történő visszavétel, valamint a nyugdíjkorhatáron túli szolgálatra való visszatartás előtt (kivéve az A3 pontban felsoroltakat); |
+| A4 | = az állomány tagjának egészségi besorolása szolgálata teljesítése során, a hivatásos állományba történő visszavétel, valamint a nyugdíjkorhatáron túli szolgálatra való visszatartás előtt (kivéve az A3 pontban felsoroltakat); |
 
-| A5 | = | állományba vételre jelentkező egészségi szintje (kivéve az A3 pontban felsoroltakat); |
+| A5 | = állományba vételre jelentkező egészségi szintje (kivéve az A3 pontban felsoroltakat); |
 
-| A6 | = | az állományilletékes parancsnok (vezető) beosztásra tervezett, a beosztásba helyezés előtt és a szolgálat teljesítése során. |
+| A6 | = az állományilletékes parancsnok (vezető) beosztásra tervezett, a beosztásba helyezés előtt és a szolgálat teljesítése során. |
 
 f) Fegyvernemi és munkaköri kizáró korlátozások:
 
 A) Fegyvernemi kizáró korlátozások
 
-| F1 | = | gépesített lövész, felderítő; |
+| F1 | = gépesített lövész, felderítő; |
 
-| F2 | = | harckocsizó; |
+| F2 | = harckocsizó; |
 
-| F3 | = | vegyivédelmi; |
+| F3 | = vegyivédelmi; |
 
-| F4 | = | tüzér, légvédelmi rakétatechnika; |
+| F4 | = tüzér, légvédelmi rakétatechnika; |
 
-| F5 | = | műszaki; |
+| F5 | = műszaki; |
 
-| F6 | = | rádiótechnikai felderítő, lokátortechnika; |
+| F6 | = rádiótechnikai felderítő, lokátortechnika; |
 
-| F7 | = | fegyverzeti és gépjárműtechnika, repülőműszaki (gépész); |
+| F7 | = fegyverzeti és gépjárműtechnika, repülőműszaki (gépész); |
 
-| F8 | = | hadtáp, pénzügy, informatika, közlekedés, gazdálkodás. |
+| F8 | = hadtáp, pénzügy, informatika, közlekedés, gazdálkodás. |
 
 B) Munkaköri kizáró korlátozások
 
-| K1 | = | búvárnak; |
+| K1 | = búvárnak; |
 
-| K2 | = | fokozottan balesetveszélyes munkakörben; |
+| K2 | = fokozottan balesetveszélyes munkakörben; |
 
-| K3 | = | gépjármű, harcjármű, műszaki gépek vezetésére és kezelésére; |
+| K3 | = gépjármű, harcjármű, műszaki gépek vezetésére és kezelésére; |
 
-| K4 | = | külföldi szolgálatra; |
+| K4 | = külföldi szolgálatra; |
 
-| K5 | = | felderítő beosztásban; |
+| K5 | = felderítő beosztásban; |
 
-| K6 | = | úszni tudást igénylő feladat vagy beosztás ellátására; |
+| K6 | = úszni tudást igénylő feladat vagy beosztás ellátására; |
 
-| K7 | = | lokátoros beosztásban; |
+| K7 | = lokátoros beosztásban; |
 
-| K8 | = | híradó beosztásban; |
+| K8 | = híradó beosztásban; |
 
-| K9 | = | tüzér beosztásban; |
+| K9 | = tüzér beosztásban; |
 
-| K10 | = | irányzói beosztásban; |
+| K10 | = irányzói beosztásban; |
 
-| K11 | = | légideszantos beosztásban; |
+| K11 | = légideszantos beosztásban; |
 
-| K12 | = | beosztási kötelezettségen felüli állandó többletmunka ellátására; |
+| K12 | = beosztási kötelezettségen felüli állandó többletmunka ellátására; |
 
-| K13 | = | ionizáló sugárexpozíció veszélyével járó munkára; |
+| K13 | = ionizáló sugárexpozíció veszélyével járó munkára; |
 
-| K14 | = | zárt térben (harcjárműben, tartályban, berendezés belső terében) végzett munkára; |
+| K14 | = zárt térben (harcjárműben, tartályban, berendezés belső terében) végzett munkára; |
 
-| K15 | = | szabadban végzett munkára; |
+| K15 | = szabadban végzett munkára; |
 
-| K16 | = | föld alatti munkahelyen végzett munkára; |
+| K16 | = föld alatti munkahelyen végzett munkára; |
 
-| K17 | = | mérgező anyagokkal végzett munkára; |
+| K17 | = mérgező anyagokkal végzett munkára; |
 
-| K18 | = | radioaktív anyagokkal végzett munkára; |
+| K18 | = radioaktív anyagokkal végzett munkára; |
 
-| K19 | = | nagy frekvenciájú elektromágneses térben végzett munka; |
+| K19 | = nagy frekvenciájú elektromágneses térben végzett munka; |
 
-| K20 | = | teljes színlátást igénylő beosztás ellátására; |
+| K20 | = teljes színlátást igénylő beosztás ellátására; |
 
-| K21 | = | kedvezőtlen klímájú munkahelyen teljesített szolgálatra; |
+| K21 | = kedvezőtlen klímájú munkahelyen teljesített szolgálatra; |
 
-| K22 | = | kétszemes együttlátást igénylő beosztás ellátására; |
+| K22 | = kétszemes együttlátást igénylő beosztás ellátására; |
 
-| K23 | = | környezetbe való beilleszkedést, jó alkalmazkodást igénylő beosztásban; |
+| K23 | = környezetbe való beilleszkedést, jó alkalmazkodást igénylő beosztásban; |
 
-| K24 | = | megosztott figyelmet, fokozott koncentrációt és felelősségérzetet igénylő beosztásban; |
+| K24 | = megosztott figyelmet, fokozott koncentrációt és felelősségérzetet igénylő beosztásban; |
 
-| K25 | = | zajterheléssel járó beosztásban; |
+| K25 | = zajterheléssel járó beosztásban; |
 
-| K26 | = | képernyős munkavégzésre. |
+| K26 | = képernyős munkavégzésre. |
 
 Megjegyzés: a fegyvernemi és a munkaköri kizáró korlátozások közül azt kell feltüntetni a munkaköri követelmények között, amivel az adott beosztás nem tölthető be.
 
 g) Pszichikai követelmények:
 
-| Pa | = | Általános pszichés státusz. Az értelmi szint, a személyiség jellemzői, motivációs háttér, értékrend, kommunikációs készség, anamnézis, szenzomotoros készségek szintjének meghatározása, amelyek alapján az adott személy általában alkalmas fegyveres szolgálatra. |
+| Pa | = Általános pszichés státusz. Az értelmi szint, a személyiség jellemzői, motivációs háttér, értékrend, kommunikációs készség, anamnézis, szenzomotoros készségek szintjének meghatározása, amelyek alapján az adott személy általában alkalmas fegyveres szolgálatra. |
 
-| Pv | = | A katonai vezetői beosztás által támasztott magasabb pszichikai követelményeknek való megfelelés. |
+| Pv | = A katonai vezetői beosztás által támasztott magasabb pszichikai követelményeknek való megfelelés. |
 
-| Pm | = | A megkülönböztetés alapja az egyes munkaköröknél azon speciális képességek és készségek, melyek az adott munkakör pszichikai követelményeinek megfelelnek. |
+| Pm | = A megkülönböztetés alapja az egyes munkaköröknél azon speciális képességek és készségek, melyek az adott munkakör pszichikai követelményeinek megfelelnek. |
 
-| Pk | = | Azon munkaköröknél kerül meghatározásra, ahol az általánostól eltérő különleges pszichikai adottságokkal kell rendelkezni, mely adottságok a konkrét végrehajtandó feladathoz kötődnek. |
+| Pk | = Azon munkaköröknél kerül meghatározásra, ahol az általánostól eltérő különleges pszichikai adottságokkal kell rendelkezni, mely adottságok a konkrét végrehajtandó feladathoz kötődnek. |
 
-A követelményeknek való megfelelés szintjei:
+| A követelményeknek való megfelelés szintjei: |
 
-| III. | Közepes |
+| III. | = Közepes |
 
-| IV. | Jó |
+| IV. | = Jó |
 
-| V. | Kiemelkedő |
+| V. | = Kiemelkedő |
 
-h) Fizikai követelmények:
+| h) | Fizikai követelmények: |
 
-A munkakörhöz szükséges funkcionális szervrendszerek
+| A munkakörhöz szükséges funkcionális szervrendszerek |
 
-| T1 | = | alapfokú edzettségi állapota; |
+| T1 | = alapfokú edzettségi állapota; |
 
-| T2 | = | közepes fokú edzettségi állapota; |
+| T2 | = közepes fokú edzettségi állapota; |
 
-| T3 | = | emeltszintű edzettségi állapota; |
+| T3 | = emeltszintű edzettségi állapota; |
 
-| T4 | = | fokozott szintű edzettségi állapota. |
+| T4 | = fokozott szintű edzettségi állapota. |
 
 Megjegyzések:
 
-1. E melléklet nem tartalmazza a nem katonai oktatási intézményekből állományba felvett személyek szakirányú, tanfolyamrendszerű felkészítését.
+| 1. | E melléklet nem tartalmazza a nem katonai oktatási intézményekből állományba felvett személyek szakirányú, tanfolyamrendszerű felkészítését. |
 
-2. Az AF32 szintű szakképzettséggel csak középiskolai végzettséghez nem kötött tiszthelyettes beosztások tölthetőek be.
+| 2. | A KF31 szintű szakképzettséggel csak középiskolai végzettséghez nem kötött tiszthelyettes beosztások tölthetőek be. |
 
-3. Egyes törzsőrmesteri rendfokozatok előmeneteli felkészítését az első beosztásra való felkészítés is tartalmazhatja.
+| 3. | Egyes törzsőrmesteri rendfokozatok előmeneteli felkészítését az első beosztásra való felkészítés is tartalmazhatja. |
 
-4. A rendfokozati állománycsoportoknál a pszichikai megfelelési szintekhez eltérő követelmények tartoznak (pl. III. szint elérése a tiszthelyettesi állománycsoportnál magasabb követelmények teljesítését jelenti, mint a tiszteseknél).
+| 4. | A rendfokozati állománycsoportoknál a pszichikai megfelelési szintekhez eltérő követelmények tartoznak (pl. III. szint elérése a tiszthelyettesi állománycsoportnál magasabb követelmények teljesítését jelenti, mint a tiszteseknél). |
 
-5. A szakirányú posztgraduális végzettség megléte általában elégséges feltétele az alezredesi rendfokozattal rendszeresített beosztások betöltésének.
+| 5. | A szakirányú posztgraduális végzettség megléte általában elégséges feltétele az alezredesi rendfokozattal rendszeresített beosztások betöltésének. |
 
-2. A KATONAI MUNKAKÖRCSALÁDOK ÉS A BEOSZTÁSOK KÖVETELMÉNYEI
+II. A KATONAI MUNKAKÖRCSALÁDOK ÉS A BEOSZTÁSOK KÖVETELMÉNYEI
 
-2.1. Általános katonai munkakörök
+1. Összhaderőnemi általános katonai (01), szárazföldi (02), légierő (03), logisztikai (04), vezénylő tiszthelyettes (06), vám (68) és általános (99) munkakörök
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai27 | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai1 | fizikai |
 
-| kate- gória28 | kizáró korlátozások |
+| kate- gória2 | kizáró korlátozások |
 
 | 19 | vezérezredes | ZMNE, SZPE | SZFF | * | A6 | K12, 23, 24 | Pa/V, Pv/V | T1 |
 
@@ -4220,25 +4210,29 @@ Megjegyzések:
 
 | 12 | százados | FF | ET |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  |
+| 11 | főhadnagy |  |
+
+| 10 | hadnagy |
+
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
-| 07 | zászlós |  |
+| 07 | zászlós |
 
 | 06 | főtörzsőrmester | SZKF52 | ET |
 
-27 Külszolgálati beosztás esetén speciális pszichikai követelményeknek is meg kell felelni, jelölése: „Pk”
+1 Külszolgálati beosztás esetén speciális pszichikai követelményeknek is meg kell felelni, jelölése: „Pk”.
 
-28 Külszolgálati beosztás esetén az egészségi kategória „A2”.
+2 Külszolgálati beosztás esetén az egészségi kategória „A2”.
 
-2.2. Szárazföldi haderő
+2. Szárazföldi
 
 A) lövész, harckocsizó, tüzér
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
 
 | kate- gória | kizáró korlátozások |
 
@@ -4250,25 +4244,25 @@ A) lövész, harckocsizó, tüzér
 
 | 13 | őrnagy | ZMNEF | ET | A3 | Pa/IV, Pm/IV | T3 |
 
-| 12 | százados | ZMNEF PF | FF | ET | F1-F8, K3, 2, 14, 10, 15, 20, 22, 25 |
+| 12 | százados | ZMNEF, PF | FF | ET | F1-F8, K3, 2, 14, 10, 15, 20, 22, 25 |  | T4 |
 
 | 11 | főhadnagy | ET |
 
 | 10 | hadnagy |  |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  | Pa/III, Pm/III |
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  | Pa/III, Pm/III |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
 | 07 | zászlós |  |
 
-| 06 | főtörzsőrmester | ÁI, KÉ | AF32, SZKF52 | ET |
+| 06 | főtörzsőrmester | ÁI, KÉ | KF31, SZKF52 | ET |
 
 | 05 | törzsőrmester | ET |
 
 | 04 | őrmester |  |
 
-| 03 | szakaszvezető | ÁI | AK, KK | ET | Pa/III, Pm/III |
+| 03 | szakaszvezető | ÁI | AK, KK | ET |
 
 | 02 | tizedes | ET |
 
@@ -4278,21 +4272,19 @@ B) a) felderítő és elektronikai hadviselési szakirányú vezető szervezetek
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
 
 | kate- gória | kizáró korlátozások |
 
-| 16 | dandártábornok | ZMNE | SZFF | * | A6 | K12, 23, 24 | Pa/V, Pv/V | T1 |
+| 15 | ezredes | ZMNE | SZFF | * | A6 | K12, 23, 24 | Pa/V, Pv/V | T1 |
 
-| 15 | ezredes |
+| 14 | alezredes |  | A4 | Pa/V, Pv/IV | T2 |
 
-| 14 | alezredes |  | A4 | Pa/V, Pv/IV |
-
-| 13 | őrnagy | ZMNEF | ET | Pa/IV | T2 |
+| 13 | őrnagy | ZMNEF | ET | Pa/IV |
 
 | 12 | százados | FF | ET |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  |
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  | T3 |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
@@ -4304,21 +4296,21 @@ B) b) felderítő (nem mélységi), elektronikai hadviselési
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
 
 | kate- gória | kizáró korlátozások |
 
-| 14 | alezredes | ZMNE | SZFF |  | A3 | K1, 3, 5, 6, 11, 14, 15, 17, 20, 22, 23, 24 | Pa/IV, Pk/IV, Pv/IV | T3 |
+| 14 | alezredes | ZMNE | SZFF |  | A3 | K1, 3, 5, 6, 11, 14, 15, 17, 20, 22, 23, 24 | Pa/IV, Pk/IV, Pv/IV | T2 |
 
-| 13 | őrnagy | ZMNEF | ET | Pa/IV, Pk/IV | T4 |
+| 13 | őrnagy | ZMNEF | ET | Pa/IV, Pk/IV |
 
 | 12 | százados | ZMNEF, PF | FF | ET |
 
-| 11 | főhadnagy | ET |
+| 11 | főhadnagy | ET | T3 |
 
 | 10 | hadnagy |  |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  |
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
@@ -4330,7 +4322,7 @@ B) b) felderítő (nem mélységi), elektronikai hadviselési
 
 | 04 | őrmester |  |
 
-| 03 | szakaszvezető | ÁI | AK, KK | ET | Pa/III, Pk/IV |
+| 03 | szakaszvezető | ÁI | AK, KK | ET | Pa/III, Pk/IV | T4 |
 
 | 02 | tizedes | ET |
 
@@ -4340,21 +4332,23 @@ B) c) mélységi és speciális felderítő, különleges műveleti
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
 
 | kate- gória | kizáró korlátozások |
 
-| 14 | alezredes | ZMNE | SZFF |  | A1 | K1, 3, 5, 6, 11, 14, 15, 17, 20, 22, 23, 24 | Pa/IV, Pk/IV, Pv/IV | T2 |
+| 15 | ezredes | ZMNE | SZFF |  | A1 | K1, 3, 5, 6, 11, 14, 15, 17, 20, 22, 23, 24 | Pa/IV, Pk/IV, Pv/IV | T2 |
 
-| 13 | őrnagy | ZMNEF | ET | Pa/IV, Pk/IV | T4 |
+| 14 | alezredes |
+
+| 13 | őrnagy | ZMNEF | ET | Pa/IV, Pk/IV | T3 |
 
 | 12 | százados | ZMNEF, PF | FF | ET |
 
-| 11 | főhadnagy | ET |
+| 11 | főhadnagy | ET | T4 |
 
 | 10 | hadnagy |  |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  |
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
@@ -4376,7 +4370,7 @@ C) műszaki
 
 | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
 
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
+| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
 
 | kate- gória | kizáró korlátozások |
 
@@ -4386,61 +4380,21 @@ C) műszaki
 
 | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
 
-| 13 | őrnagy | ZMNEF, SZPF | ET | Pa/IV, Pm/IV | T3 |
+| 13 | őrnagy | ZMNEF, SZPF | ET |  | Pa/IV, Pm/IV | T3 |
 
-| 12 | százados | ET | F5 K3, 13, 14, 15, 17, 23, 24 |
+| 12 | százados | ET | F5, K3, 13, 14, 15, 17, 23, 24 |  |
 
-| 11 | főhadnagy | ET |
+| 11 | főhadnagy | ET | T4 |
 
 | 10 | hadnagy |  |
 
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  | A3 | Pa/III, Pm/III |
+| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  | A3 | Pa/III, Pm/III |  |
 
 | 08 | törzszászlós | KÉ | SZKF54 | ET |
 
 | 07 | zászlós |  |
 
-| 06 | főtörzsőrmester | ÁI, KÉ | SZAF32, SZKF52 | ET |
-
-| 05 | törzsőrmester | ET |
-
-| 04 | őrmester |  |
-
-| 03 | szakaszvezető | ÁI | AK, KK | ET | Pa/III, Pm/III |
-
-| 02 | tizedes | ET |
-
-| 01 | őrvezető |  |
-
-D) vegyivédelmi
-
-| Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
-
-| iskolai végzettség | szakképzettségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizi- kai |
-
-| kate- gória | kizáró korlátozások |
-
-| 16 | dandártábornok | ZMNE | SZFF | * | A6 | F3, K3, 13, 14, 15, 17, 18, 23, 24, 25 | Pa/V, Pv/V | T1 |
-
-| 15 | ezredes | Pa/V, Pv/IV |
-
-| 14 | alezredes |  | T2 |
-
-| 13 | őrnagy | ZMNEF | ET | A4 | Pa/IV, Pm/IV | T3 |
-
-| 12 | százados | ZMNEF, PF | FF | ET | F3, K3, 13, 14, 15, 17, 18, 25 |
-
-| 11 | főhadnagy | ET |
-
-| 10 | hadnagy |  |
-
-| 09 | főtörzszászlós | KÉ, SZPF, ZMNEF | SZFF55, SZFF |  | A3 | Pa/III, Pm/III |
-
-| 08 | törzszászlós | KÉ | SZKF54 | ET |
-
-| 07 | zászlós |  |
-
-| 06 | főtörzsőrmester | ÁI, KÉ | AF32, SZKF52 | ET |
+| 06 | főtörzsőrmester | ÁI, KÉ | SZKF31, SZKF52 | ET |
 
 | 05 | törzsőrmester | ET |
 
@@ -4452,8 +4406,6 @@ D) vegyivédelmi
 
 | 01 | őrvezető |  |
 
-2.3. Légierő
+D) vegyivédelmi
 
-A) repülőgép, helikopter személyzet
-
-[^27]: A 2. számú melléklet a 2/2006. (I. 30.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. számú melléklet a 18/2010. (XII. 10.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
