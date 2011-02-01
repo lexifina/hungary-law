@@ -1,4 +1,4 @@
-## 59. §[^157] A miniszter az oktatásért való felelőssége körében
+## 59. §[^159] A miniszter az oktatásért való felelőssége körében
 
 a) ellátja – a katonai és rendvédelmi felsőoktatási intézmények, valamint törvényben meghatározott egyéb hatáskörök kivételével – az állami fenntartású felsőoktatási intézmények általános fenntartói feladatait,
 
@@ -10,16 +10,16 @@ d) támogatási megállapodást köt a fenntartókkal az egyházi felsőoktatás
 
 e) az állami felsőoktatási intézményekben – katonai és rendvédelmi felsőoktatási intézmények kivételével – felügyeleti jogköréből adódóan ellenőrzi az intézmények gazdálkodását, a nem állami felsőoktatási intézményekben – az egyházi intézmények kivételével – az állam által rendelkezésre bocsátott eszközök felhasználásának jogszerűségét, szabályszerűségét és javaslatot tesz a szükséges intézkedésekre,
 
-f)[^158] gyakorolja – a megbízás és felmentés, továbbá a katonai és rendvédelmi felsőoktatási intézmények kivételével – az állami felsőoktatási intézmények rektorai tekintetében a munkáltatói jogkört, továbbá a felsőoktatási törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket,
+f)[^160] gyakorolja – a megbízás és felmentés, továbbá a katonai és rendvédelmi felsőoktatási intézmények kivételével – az állami felsőoktatási intézmények rektorai tekintetében a munkáltatói jogkört, továbbá a felsőoktatási törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket,
 
 g) a kormányzati technológia- és innováció politika keretében irányítja az ágazati technológia- és innováció politikát és annak megvalósítását, meghatározza az ágazati minőségpolitikát,
 
-h)[^159] elősegíti az Európai Felsőoktatási Térség kialakításában vállalt feladatok megvalósítását,
+h)[^161] elősegíti az Európai Felsőoktatási Térség kialakításában vállalt feladatok megvalósítását,
 
 i) ellátja a nem állami felsőoktatási intézmények fenntartóinak fenntartói tevékenysége és a Magyarországon működő külföldi felsőoktatási intézmények működésének törvényességi ellenőrzését és
 
 j) kezdeményezi, elősegíti és koordinálja az irányítása alá tartozó intézmények kutatási tevékenységét.
 
-[^157]: Az 59. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^158]: Az 59. § f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^159]: Az 59. § h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^159]: Az 59. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^160]: Az 59. § f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^161]: Az 59. § h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
