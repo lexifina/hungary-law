@@ -6,7 +6,7 @@ b) a mezőgazdasági és élelmiszeripari terméket átalakítás (feldolgozás)
 
 (2) E törvény alkalmazásában:
 
-a) beszállító: olyan – mezőgazdasági és élelmiszeripari terméket termelő, feldolgozó, illetve külön jogszabály szerint termelői szervezetnek, illetve termelői csoportnak minősülő – jogi személy, jogi személyiség nélküli gazdasági társaság, egyéb gazdálkodó szervezet, illetve természetes személy, amely a kereskedőnek értékesíti a megtermelt, illetve feldolgozott terméket;
+a) beszállító: olyan – mezőgazdasági és élelmiszeripari terméket termelő, feldolgozó, illetve külön jogszabály szerint termelői szervezetnek, illetve termelői csoportnak minősülő, valamint ezek kizárólagos irányítása alá tartozó – jogi személy, jogi személyiség nélküli gazdasági társaság, egyéb gazdálkodó szervezet, illetve természetes személy, amely a kereskedőnek értékesíti a megtermelt, illetve feldolgozott terméket;
 
 b) forgalmazói magatartás: a kereskedőnek, illetve a kereskedő érdekében vagy javára eljáró személynek vagy szervezetnek a termék felvásárlásával, illetve értékesítésével kapcsolatban álló magatartása, tevékenysége, mulasztása;
 
