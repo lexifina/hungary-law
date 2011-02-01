@@ -162,7 +162,11 @@
 
 | 31. | 61. | 52 | 214 | 01 | 0000 | 00 | 00 | Lakberendező | Művészet, közművelődés, kommunikáció szakmacsoport |
 
-| 32. | 62. | 55 | 213 | 02 | 0000 | 00 | 00 | Moderátor | Művészet, közművelődés, kommunikáció szakmacsoport |
+| 32. | 61. | 55 | 213 | 02 |  |  |  | Moderátor | Művészet, közművelődés, kommunikáció szakmacsoport |
+
+|  |  | 55 | 213 | 02 | 0010 | 55 | 01 | Szakképesítés- elágazás: Média moderátor |  |
+
+|  |  | 55 | 213 | 02 | 0010 | 55 | 02 | Szakképesítés- elágazás: Színházi moderátor |  |
 
 | 33. | 63. | 52 | 213 | 02 |  |  |  | Mozgóképgyártó | Művészet, közművelődés, kommunikáció szakmacsoport |
 
@@ -404,7 +408,7 @@
 
 |  |  | 52 | 341 | 07 | 0100 | 31 | 02 | Részszakképesítés: Papír, írószer eladó |  |
 
-2. melléklet a 25/2010. (V. 14.) OKM rendelethez[^2]
+2. melléklet a 25/2010. (V. 14.) OKM rendelethez[^3]
 
 AZ 1. MELLÉKLET 1. SORSZÁMA ALATT KIADOTT
 
@@ -6316,4 +6320,66 @@ MUNKATERÜLET
 
 | 3320 | Munkaerő-piaci szolgáltatási foglalkozások |
 
-[^2]: A 2. mellékletet a 26/2010. (V. 27.) OKM rendelet 1. §-a iktatta be.
+2. A szakképesítés munkaterületének rövid, jellemző leírása:
+
+Munkája során alkalmazza a korszerű számítástechnikai és információs-kommunikációs eszközöket
+
+Képzési célú munkaszervezéssel kapcsolatos tevékenységet végez
+
+Szakmai idegen nyelvet használ asszisztensi feladatainak elvégzéséhez
+
+Szakterület szerinti jogszabályi- és szabvány ismereteket alkalmaz
+
+Képzési tevékenységgel kapcsolatos elemzési, programmegvalósítási és gazdálkodási feladatokat lát el
+
+Humán-szolgáltatásokat szervez és azokban asszisztensi feladatkörben részt vesz
+
+Projektmunkát végez
+
+Együttműködik munkaerő-piaci képzőkkel, ügyfelekkel és a tevékenységének megfelelő önkormányzati és szakhatósági partnerekkel
+
+3. A szakképesítéssel rokon szakképesítések:
+
+| A szakképesítéssel rokon szakképesítések |
+
+| azonosító száma | megnevezése |
+
+| – | - |
+
+IV.
+
+SZAKMAI KÖVETELMÉNYEK
+
+A szakmai követelménymodulok felsorolása:
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1181-06 Gazdálkodás, projektvezetés
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Gazdálkodási ismereteket alkalmaz a termelés, üzemeltetés folyamataiban
+
+Részt vesz a gazdálkodás, vállalkozás személyi, pénzügyi, tárgyi, piaci feltételeinek elemzésében, megteremtésében
+
+Számlaadatokat értelmez, ellenőriz, egyszerű számlákat készít
+
+Alapvető pénzforgalmi feladatokat old meg
+
+Egyszerű költségszámítási feladatokat végez a munkafolyamatokhoz kapcsolódóan
+
+Részt vesz a helyzetfelmérésben, a követelmények, erőforrásigények meghatározásában
+
+Közreműködik a munkaterv, költségterv kidolgozásában, kockázatelemzésben
+
+Közreműködik a szükséges hardver-, szoftver-, operációs rendszer és kliensoldali programok kiválasztásában, környezet kialakításában, meghatározza ennek eszközszükségletét
+
+Közreműködik a projekt dokumentálásában és értékelésében
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+[^3]: A 2. mellékletet a 26/2010. (V. 27.) OKM rendelet 1. §-a iktatta be, szövege a 2/2011. (I. 24.) NEFMI rendelet 2–3. §-a szerint módosított szöveg.
