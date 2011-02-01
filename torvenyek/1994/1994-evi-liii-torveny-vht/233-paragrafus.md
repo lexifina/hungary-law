@@ -44,8 +44,8 @@ g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátás�
 
 (4) A jogi szakvizsgával rendelkező személy végrehajtóvá nevezhető ki, ha
 
-a) megfelel az (1) bekezdés a)–d) és f) pontjában foglaltaknak,
+a) megfelel az (1) bekezdés a)–d) pontjában foglaltaknak,
 
 b) vele szemben a (2) bekezdés szerinti kizáró ok nem áll fenn, és
 
-c) egyéves önálló bírósági végrehajtó-helyettesi gyakorlatot szerzett.
+c)

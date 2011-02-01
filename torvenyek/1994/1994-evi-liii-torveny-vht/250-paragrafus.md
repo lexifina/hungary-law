@@ -2,11 +2,11 @@
 
 (2) A kamara jogai és feladatai különösen:
 
-a) kiírja a végrehajtói pályázatot, és a kinevezési javaslatot felterjeszti a miniszterhez,
+a)
 
 b) külön névjegyzéket vezet a végrehajtókról, végrehajtó-helyettesekről, végrehajtójelöltekről, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltekről és a tartós helyettesként kirendelt végrehajtókról; e névjegyzékek adatairól és az adatváltozásokról tájékoztatja a minisztert,
 
-c) meghallgatja a végrehajtói állásra pályázó és a végrehajtó-helyettesi vagy végrehajtójelölti nyilvántartásba való felvételüket kérő személyeket,
+c) meghallgatja a végrehajtó-helyettesi vagy végrehajtójelölti nyilvántartásba való felvételüket kérő személyeket,
 
 d) nyilvántartja a végrehajtók távollétét, és részükre helyettest rendel, szükség esetén megállapítja a helyettesítésért járó díjazás összegét,
 

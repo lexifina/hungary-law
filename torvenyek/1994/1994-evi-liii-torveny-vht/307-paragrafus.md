@@ -12,7 +12,7 @@ a) a végrehajtók működésének folyamatosságához szükséges átmeneti int
 
 b) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
 
-c) a végrehajtói állások betöltésének részletes szabályait,
+c) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 
 d) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványával és nyilvántartásával, a kamara által vezetett nyilvántartásokkal, névjegyzékekkel, valamint a kamara igazgatási jellegű feladatainak ellátásával kapcsolatos részletes szabályokat,
 
