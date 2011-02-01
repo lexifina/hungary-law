@@ -1,0 +1,25 @@
+## 2. § Az R. 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § (1) Az ügyfél rendszeres monitoring adatszolgáltatásra köteles. Az ügyfélnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 11. §-ában meghatározott adatszolgáltatási kötelezettségének e rendeletben foglaltak szerint kell eleget tennie.
+
+## (2) Az adatszolgáltatási kötelezettség kiterjed minden, a Program alapján meghirdetett jogcím keretében támogatott, illetve az 1. § (3) bekezdés b) pontja alapján finanszírozott műveletre, amelyre vonatkozóan a támogatási határozat meghozatalra vagy szerződés megkötésre került.
+
+## (3) Az ügyfél adatszolgáltatása akkor tekinthető teljeskörűnek, ha minden olyan jogcím esetében eleget tett e rendelet szerinti monitoring adatszolgáltatási kötelezettségének, amelyre vonatkozóan a támogatási határozat meghozatalra vagy a szerződés megkötésre került.
+
+## (4) Az ügyfél adatszolgáltatási kötelezettsége a támogatási határozat meghozatalát vagy a szerződés megkötését követő évtől kezdődően áll fenn, a határozat meghozatalát vagy a szerződés megkötését követő nappal kezdődő időszakra vonatkozóan.
+
+## (5) Az ügyfél által monitoring célú felhasználásra szolgáltatandó indikátor adatok körét meghirdetett jogcímenként a Melléklet tartalmazza.
+
+## (6) A Mellékletben felsorolt egyes indikátor adatok forrását egyrészt a támogatási és kifizetési kérelem, másrészt a (7) bekezdés szerinti, ügyfél által kitöltött elektronikus űrlap képezi.
+
+## (7) Az ügyfélnek az e rendelet szerinti adatszolgáltatási kötelezettségét elektronikus úton kell teljesítenie. Az elektronikus adatszolgáltatás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet 2. § (1)–(4) bekezdései és 3. §-a szabályozzák.
+
+## (8) Ha az adatszolgáltatás elektronikus úton történő teljesítése alkalmával az ügyfél helyett annak képviselője (meghatalmazottja) jár el, akkor a képviselő (meghatalmazott) saját ügyfélkapuját használja a képviselt (meghatalmazó) ügyfél adatszolgáltatásának teljesítésére. Az adatszolgáltatási kötelezettség teljesítését megelőzően a képviselőnek az MVH által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben regisztráltatnia kell magát és az eljárására vonatkozó meghatalmazást be kell nyújtania az MVH-hoz. A képviselőt az eljárásra az MVH által rendszeresített, az MVH honlapján közzétett nyomtatványon kell meghatalmazni.
+
+## (9) A meghatalmazást annak elektronikus úton történő benyújtása után postai úton vagy személyesen is be kell nyújtani az ügyfél lakóhelye vagy székhelye szerint illetékes MVH területi kirendeltségéhez.
+
+## (10) A meghatalmazott útján történő adatszolgáltatás tényét dokumentálni kell. A dokumentálás módja a benyújtott és az elektronikus felületen KR dokumentumként elérhető adatszolgáltatás két példányban történő kinyomtatása és a nyomtatott példányok minden oldalának az ügyfél és a meghatalmazott általi szignálása és a dokumentum aláírása. Az ügyfél egy általa aláírt nyilatkozatban is elismerheti, hogy a feltöltött KR dokumentum adattartalmát ismeri és azzal egyetért. A dokumentum vagy nyilatkozat egy példányát a meghatalmazott, másik példányát az ügyfél köteles megőrizni.
+
+## (11) Az MVH a monitoring adatszolgáltatás teljesítéséhez Útmutatót készít, amelyet a honlapján közzétesz.
+
+## (12) Az MVH az Alap által társfinanszírozott Program keretében felhasznált támogatásokra vonatkozó, gyűjtött és összesített adatokat a tárgyév április 30-áig szolgáltatja az Irányító Hatóság részére.”
