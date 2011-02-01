@@ -10,4 +10,8 @@
 
 5. művelet: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 2 cikk e) pontjában meghatározott fogalom;
 
-6. támogatási határozat: a támogatási kérelemnek helyt adó, illetve részben helyt adó határozat.
+6. támogatási határozat: a támogatási kérelemnek helyt adó, illetve részben helyt adó határozat;
+
+7.[^2] KR dokumentum: a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által (az értesítési tárhelyen keresztül) az adatszolgáltatást az ügyfélkapun keresztül teljesített személy számára küldött elektronikus dokumentum, amely az adatszolgáltatás adatait és beadásának idejét tartalmazza.
+
+[^2]: A 2. § 7. pontját a 8/2011. (I. 31.) VM rendelet 1. §-a iktatta be.
