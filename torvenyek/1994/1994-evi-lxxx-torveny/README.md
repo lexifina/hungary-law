@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-80-00-00
 | 2010-09-01 | 2010. évi XLIII. törvény | 1994-80-00-00.41 |
 | 2010-11-27 | 2010. évi CXXI. törvény | 1994-80-00-00.42 |
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1994-80-00-00.43 |
+| 2011-02-01 | 1997. évi LXXI. törvény | 1994-80-00-00.44 |
