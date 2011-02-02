@@ -1,13 +1,3 @@
-## 3. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-## „(1) Az ügyfél köteles
-
-## a) a támogatási határozat jogerőre emelkedését vagy a szerződés megkötését követő év február 1. és március 1., 2011. évben február 15. és március 15. közötti időszakában az általános gazdálkodási bázisadatokra, illetve a művelet megvalósításának végére a támogatással elérni kívánt eredmények adataira,
-
-## b) a művelet megvalósításának időszakában évente február 1. és március 1., 2011. évben február 15. és március 15. között a művelet megvalósításának hatására, annak egyes fázisaiban elért eredményeire, illetve azok változására vonatkozó éves adatokra,
-
-## c) a művelet befejezését követően az utolsó kifizetési határozat meghozatalát követő év február 1. és március 1., 2011. évben február 15. és március 15. közötti időszakban a művelet keretében igénybe vett támogatásnak köszönhetően ténylegesen elért eredményekre vonatkozó záró adatokra, és
-
-## d) jogszabályban előírt fenntartási kötelezettség, illetve működtetési kötelezettség ideje alatt évente február 1. és március 1., 2011. évben február 15. és március 15. között a fenntartási adatokra
-
-## vonatkozó adatszolgáltatási kötelezettségét teljesíteni.”
+[^5]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

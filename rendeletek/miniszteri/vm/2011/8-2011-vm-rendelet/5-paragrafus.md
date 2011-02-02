@@ -1,1 +1,3 @@
-## 4. § Az R. Melléklete helyébe e rendelet Melléklete lép.
+5. §[^6]
+
+[^6]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
