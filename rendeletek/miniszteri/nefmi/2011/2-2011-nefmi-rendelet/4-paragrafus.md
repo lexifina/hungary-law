@@ -1,1 +1,3 @@
-## 3. § Az R. 2. mellékletének az 1. melléklet 32. sorszáma alatt kiadott Moderátor szakképesítés szakmai és vizsgakövetelménye helyébe e rendelet 3. melléklete lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
