@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a villamosenergia-piaci egyetemes szolgáltatás árképzéséről, valamint az egyetemes szolgáltatás keretében nyújtandó termékcsomagokról szóló 44/2008. (XII. 31.) KHEM rendelet.
+## 11. §[^1]
 
 1. melléklet a 4/2011. (I. 31.) NFM rendelethez
 
@@ -19,3 +19,5 @@
 | 3. | Völgyidőszak | 22–06 óra között | 23–07 óra között |
 
 2. Nem munkanapnak számító napokon a csúcsidőszak is völgyidőszaknak minősül.
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
