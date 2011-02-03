@@ -1,6 +1,6 @@
-4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 27/1998. (VI. 10.) MKM rendelethez
+1. melléklet a 27/1998. (VI. 10.) MKM rendelethez[^7]
 
 Az alapfokú művészetoktatás követelményei
 
@@ -14,7 +14,7 @@ A követelmény szerepe a művészetoktatás tartalmi szabályozásában
 
 1. A közoktatásról szóló, többször módosított 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 10. § (3) bekezdése kimondja, hogy a gyermeknek, tanulónak joga, hogy adottságainak, képességeinek, érdeklődésének megfelelő nevelésben és oktatásban részesüljön, képességeihez mérten tovább tanuljon, valamint tehetségének felismerése és fejlesztése érdekében alapfokú művészetoktatásban vegyen részt. Az alapfokú művészetoktatás a művészi kifejezőkészségeket alapozza meg, illetve felkészít a szakirányú továbbtanulásra. A művészetoktatás fontos szerepet tölt be a nemzeti hagyományok ápolásában, a nemzeti értékek megőrzésében, a különböző kultúrák iránti nyitottság kialakításában.
 
-2.[^3] A közoktatásról szóló törvény 8/B. § (5) bekezdésében foglaltak alapján az alapfokú művészetoktatási intézményekben folyó nevelő és oktató munka, illetve a helyi tanterv a művelődési és közoktatási miniszter által – művészeti áganként – kiadott alapfokú művészetoktatás követelményei és tantervi programjára épül.
+2.[^8] A közoktatásról szóló törvény 8/B. § (5) bekezdésében foglaltak alapján az alapfokú művészetoktatási intézményekben folyó nevelő és oktató munka, illetve a helyi tanterv a művelődési és közoktatási miniszter által – művészeti áganként – kiadott alapfokú művészetoktatás követelményei és tantervi programjára épül.
 
 Az alapfokú művészetoktatás követelménye a művészeti-kulturális műveltség azon továbbépíthető alapjait tartalmazza, amelyeket ezekben az intézményekben elsajátíthat minden tanuló. A követelmény és a tantervi program szakít a központi tantervi szabályozás formájával, ehelyett alap a helyi tantervek, a tantárgyi programok kidolgozásához.
 
@@ -52,13 +52,13 @@ Az alapfokú művészetoktatás követelményrendszerének értelmezése
 
 2. A követelmény és tantervi program a nélkülözhetetlen ismeretek megértésére, feldolgozására, rendszerezésére, kellő elsajátítására, s ezzel párhuzamosan azok alkalmazására helyezi a hangsúlyt. Mindezzel a tanulóknak az ismeretek eredményes alkalmazását lehetővé tevő jártasságait, készségeit, a tevékenységek széles körében érvényesíthető képességeit, azok fejlődését, fejlesztését kívánja megalapozni úgy, hogy az életkori sajátosságoknak megfelelően, egymásra épülően határozza meg a követelményszinteket.
 
-3.[^4] A követelmények meghatározásának célja az, hogy a különböző intézményekben azonosan érvényesüljenek az elvárások. A követelmények jelzik azokat a feladatokat és feltételeket, amelyeket minden alapfokú művészetoktatási intézménynek teljesítenie, biztosítania kell.
+3.[^9] A követelmények meghatározásának célja az, hogy a különböző intézményekben azonosan érvényesüljenek az elvárások. A követelmények jelzik azokat a feladatokat és feltételeket, amelyeket minden alapfokú művészetoktatási intézménynek teljesítenie, biztosítania kell.
 
-4.[^5] A követelmények az egyes tanszakokon az adott szakaszokban (alapfok, továbbképző) a tanulók elérendő tudását, készségszintjét határozzák meg.
+4.[^10] A követelmények az egyes tanszakokon az adott szakaszokban (alapfok, továbbképző) a tanulók elérendő tudását, készségszintjét határozzák meg.
 
 5. A követelmény és tantervi program kötelező jellege azt jelenti, hogy a különböző helyi tantervekben, olyan tananyagokat, tevékenységeket kell előtérbe állítani, amelyek megalapozzák az általános és részletes követelmények megvalósítását.
 
-II. Rész[^6]
+II. Rész[^11]
 
 ZENEMŰVÉSZETI ÁG
 
@@ -6966,8 +6966,35 @@ Az etűd és a kamaramű kivételével a vizsgaanyagot lehetőleg kotta nélkül
 
 „B” tagozat
 
-[^3]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „A követelmény szerepe a művészetoktatás tartalmi szabályozásában” című része 2. pontjának első mondata a 23/2006. (V. 24.) OM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „Az alapfokú művészetoktatás követelményrendszerének értelmezése” című részének 3. pontja a 23/2006. (V. 24.) OM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „Az alapfokú művészetoktatás követelményrendszerének értelmezése” című részének 4. pontja a 23/2006. (V. 24.) OM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^6]: A melléklet II. Része a 23/2006. (V. 24.) OM rendelet 3. §-ával megállapított szöveg.
+− Egy hosszabb terjedelmű, nehezebb technikai feladatot és változatos ritmikát tartalmazó etűd (Montag L.: Nagybőgőiskola III.a kötet 23. oldal 16. etűd, III.b kötet 68. oldal 9. etűd, Fr. Simandl: 9 etűd/1., 2. etűd, Fr. Simandl: Koncert-etűd, E. Storch: 32 etűd/8. G-dúr, 13. F-dúr etűd, J. Hrábe: Etűdök nehézségi szintjén).
+
+− Preklasszikus szonáta 2 tétele, vagy klasszikus versenymű 2 tétele (Eccles: g-moll szonáta, Corelli: d-moll szonáta, W. de Fesch: F-dúr, d-moll szonáta, illetve Hoffmeister: Koncert, W. Pichl: Koncert, K. Dittersdorf: E-dúr koncert nehézségi szintjén).
+
+− Egy előadás darab (Bottesini: Elégia, Saint-Saëns: A hattyú, Koussevitzky: Szomorú dal, Miniatűr keringő nehézségi szintjén).
+
+Az etűd és a kamaramű kivételével a vizsgaanyagot kotta nélkül kell játszani.
+
+MAGÁNÉNEK
+
+„A” tagozat
+
+− Egy barokk dal, vagy kantáta-részlet (Händel: Csordul a könnyem, Bach: Már örvendj bús lelkem, Purcell: Jöjj, bűvös éj, Bach kantátáinak áriái, ill. A dal mesterei IV., V., VI. kötetéből és más gyűjteményekből nehézségi szintjén).
+
+− Egy bécsi klasszikus szerzők dalaiból (Mozart: Das Vailchen/Az ibolya/ Die Zufriedenheit, Haydn: Der Wanderer nehézségi szintjén).
+
+− Egy romantikus dal (Schubert: An die Musik, Schumann: Die Lotosblume, Kjui: A fecske, Glinka: A pacsirta? Richard Strauss: Ajánlás nehézségi szintjén).
+
+− Egy XX. századi szerző dala (Bartók Béla: 8 magyar népdal, Kodály Zoltán: Magyar népzene köteteiből /nehézségi fok szerint/, Kelen H., Kerekes J., Kósa P., Farkas F., Fauré, Debussy nehézségi szintjén).
+
+A műveket lehetőleg kotta nélkül kell énekelni.
+
+„B” tagozat
+
+− Egy barokk kantáta-, vagy oratórium-ária (Parisotti: Arie Antiche I.-II.-III. kötetéből, Vivaldi: Glória, Bach kantátái, áriái nehézségi szintjén).
+
+[^7]: A melléklet eredeti szövegének megjelölését 1. mellékletre változtatta a 3/2011. (I. 26.) NEFMI rendelet 1. §-a.
+[^8]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „A követelmény szerepe a művészetoktatás tartalmi szabályozásában” című része 2. pontjának első mondata a 23/2006. (V. 24.) OM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „Az alapfokú művészetoktatás követelményrendszerének értelmezése” című részének 3. pontja a 23/2006. (V. 24.) OM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A melléklet I. Rész „ÁLTALÁNOS RENDELKEZÉSEK” „Az alapfokú művészetoktatás követelményrendszerének értelmezése” című részének 4. pontja a 23/2006. (V. 24.) OM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A melléklet II. Része a 23/2006. (V. 24.) OM rendelet 3. §-ával megállapított szöveg.
 [^*]: A kamarazene főtárgyként is választható.

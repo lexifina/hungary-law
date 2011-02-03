@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-27-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-06-01 | 1998-27-20-67.3 | 27/1998. (VI. 10.) MKM rendelet |
+| 2011-02-03 | 1998-27-20-67.4 | 3/2011. (I. 26.) NEFMI rendelet |
