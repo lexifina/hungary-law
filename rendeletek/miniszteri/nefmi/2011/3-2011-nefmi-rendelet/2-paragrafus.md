@@ -1,0 +1,1 @@
+## 1. § Az alapfokú művészetoktatás követelményei és tantervi programjának bevezetéséről és kiadásáról szóló 27/1998. (VI. 10.) MKM rendelet (a továbbiakban: R.) az e rendelet melléklete szerinti 2. melléklettel egészül ki, ezzel egyidejűleg az R. Mellékletének megjelölése 1. mellékletre módosul.
