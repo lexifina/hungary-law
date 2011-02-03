@@ -6,4 +6,6 @@
 
 (3) Az 1. § 2011. február 2-án lép hatályba.
 
-(4) A 3. § és a 4. § 2011. február 2-án hatályát veszti. E bekezdés 2011. február 3-án hatályát veszti.
+(4)[^2]
+
+[^2]: A 2. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
