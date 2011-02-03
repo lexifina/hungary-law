@@ -18,7 +18,7 @@ Határidő: 2011. április 30. (zászlóshajó projektek)
 
 2011. június 30.
 
-2/B. A Kormány felhívja a Duna hajózhatóságának fejlesztése kapcsán a közigazgatási és igazságügyi, a nemzeti fejlesztési, a nemzetgazdasági és a vidékfejlesztési minisztert, hogy a már kidolgozott hajózással kapcsolatos javaslatokra és háttérelemzésekre figyelemmel, további hatások elemzésén alapuló egyeztetett javaslatot készítsen el és terjessze be a Kormány elé. A javaslat ki kell térjen a már elkészített két hajózási projektjavaslatra is.
+2/B.[^1] A Kormány felhívja a Duna hajózhatóságának fejlesztése kapcsán a közigazgatási és igazságügyi, a nemzeti fejlesztési, a nemzetgazdasági és a vidékfejlesztési minisztert, hogy a már kidolgozott hajózással kapcsolatos javaslatokra és háttérelemzésekre figyelemmel, további hatások elemzésén alapuló egyeztetett javaslatot készítsen el és terjessze be a Kormány elé. A javaslat ki kell térjen a már elkészített két hajózási projektjavaslatra is.
 
 Felelős: Közigazgatási és Igazságügyi Minisztérium
 
@@ -28,7 +28,7 @@ Nemzetgazdasági Minisztérium
 
 Vidékfejlesztési Minisztérium
 
-Határidő: 2011. január 31.
+Határidő: 2011. március 31.
 
 2/C. A Kormány felhívja az EU Duna Régió Stratégiáért felelős kormánybiztost, hogy az Európai Koordinációs Tárcaközi Bizottság keretében eddig történt egyeztetéseket a jövőben sem érintve, hozzon létre havi rendszerességgel ülésező DMRS munkacsoportot a feladatkörükben érintett tárcák részvételével.
 
@@ -53,3 +53,5 @@ Felelős: EU Duna Régió Stratégiáért felelős kormánybiztos
 Határidő: 2011. június 30.
 
 6. Ez a határozat a közzététele napján lép hatályba.
+
+[^1]: A 2/B. pont az 1020/2011. (II. 3.) Korm. határozat 1. pontjával megállapított szöveg.
