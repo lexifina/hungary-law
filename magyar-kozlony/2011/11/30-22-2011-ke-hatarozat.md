@@ -1,0 +1,18 @@
+# A köztársasági elnök 22/2011. (II. 3.) KE határozata
+
+Magyar Közlöny 2011. évi 11. szám, 2011. február 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/246f5025dc87d7e133b63f72db029fbf73cacd45/dokumentumok/f9436913a9cc1cae5dd1e295e990106b6786dc55/letoltes)
+
+---
+
+A köztársasági elnök 22/2011. (II. 3.) KE határozata
+rendkívüli és meghatalmazott nagykövet megbízásáról*
+Az Alkotmány 30/A. § (1) bekezdés c) pontjában foglalt jogkörömben, a külügyminiszter előterjesztésére Forrai Kristóf
+rendkívüli és meghatalmazott nagykövetet megbízom a Magyar Köztársaság helsinki nagykövetségének vezetésével.
+Budapest, 2010. november 23.
+Schmitt Pál s. k.,
+köztársasági elnök
+Ellenjegyzem:
+Budapest, 2010. november 26.
+Martonyi János s. k.,
+külügyminiszter
+KEH ügyszám: IV-5/04988/2010.
