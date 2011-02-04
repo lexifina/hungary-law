@@ -1,10 +1,14 @@
-10. §[^9] (1) A pályázatot a kamara elnökéhez kell benyújtani, és mellékelni kell hozzá
+10. §[^10] (1) A pályázatot a kamara elnökéhez kell benyújtani, és mellékelni kell hozzá
 
 a) a kinevezési feltételek fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát,
 
-b) a részletes szakmai önéletrajzot,
+b)[^11] a pályázó személyes adatait és rövid úton történő elérhetőségét (elektronikus levélcím, telefax-szám) is tartalmazó részletes szakmai önéletrajzot,
 
-c) a pályamunkát.
+c)[^12] a pályamunkát (a kamara erre rendszeresített e-mail címére elektronikus formában is megküldve),
+
+d)[^13] az összeférhetetlenségnek a kinevezés esetére vállalt megszüntetésére vonatkozó nyilatkozatot,
+
+e)[^14] a pályázó köztartozás-mentességének igazolására szolgáló iratot.
 
 (2) Az (1) bekezdésben meghatározottakon túl a Vht. 233. § (2) bekezdés a)–d) pontjában foglalt feltételek igazolása céljából kiállított hatósági bizonyítvánnyal összefüggésben a pályázathoz mellékelni kell
 
@@ -14,4 +18,11 @@ b) ha a hatósági bizonyítvány kiadása iránti kérelmét a pályázó a kam
 
 (3) Ha a pályázó a kamara elnökségénél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
-[^9]: A 10. § a 6/2010. (III. 12.) IRM rendelet 5. § (2) bekezdésével megállapított szöveg.
+(4)[^15] Nem kell csatolni a pályázathoz a kamara nyilvántartásában kezelt adatot igazoló iratot, az e rendelet szerint kiadott bírósági végrehajtói oklevél számának a pályázatban történő feltüntetése esetén a bírósági végrehajtói oklevelet, valamint a pályázat benyújtásának időpontjában önálló bírósági végrehajtó-helyettesként működő pályázónak a magyar állampolgárságát és a választójogát igazoló iratot.
+
+[^10]: A 10. § a 6/2010. (III. 12.) IRM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^11]: A 10. § (1) bekezdés b) pontja a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 10. § (1) bekezdés c) pontja a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A 10. § (1) bekezdés d) pontját a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 10. § (1) bekezdés e) pontját a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A 10. § (4) bekezdését a 2/2011. (II. 3.) KIM rendelet 1. § (2) bekezdése iktatta be.

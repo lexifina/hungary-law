@@ -1,4 +1,4 @@
-24. § (1)[^25] A végrehajtói szakvizsgára bocsátás iránti kérelmet a minisztériumhoz kell benyújtani.
+24. § (1)[^38] A végrehajtói szakvizsgára bocsátás iránti kérelmet a minisztériumhoz kell benyújtani.
 
 (2) A végrehajtói szakvizsgára bocsátás iránti kérelemhez csatolni kell:
 
@@ -10,4 +10,4 @@ c) a szakvizsgára készített írásbeli vizsgamunkát (szakdolgozat), és
 
 d) a végrehajtói szakvizsga díjának befizetéséről szóló igazolást.
 
-[^25]: A 24. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^38]: A 24. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

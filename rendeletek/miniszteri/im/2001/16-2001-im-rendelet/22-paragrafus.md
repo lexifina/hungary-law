@@ -12,7 +12,7 @@ b) jogi szakvizsgával rendelkezik.
 
 (4) A szakmai gyakorlat megkezdése után a végrehajtói szakvizsgára való jelentkezés szempontjából – a jelölt kérelmére – legfeljebb 1 hónap tartamáig be kell számítani a szakmai gyakorlat idejébe azt az időt, amely alatt a jelölt ténylegesen nem végzett végrehajtási tevékenységet az alábbi ok miatt:
 
-a)[^24]
+a)[^37]
 
 b) táppénzes állomány,
 
@@ -22,4 +22,4 @@ c) szülési szabadság, gyermekgondozási díj (segély) igénybevétele.
 
 (6) Nincs helye a beszámításnak, ha a jelölt a sikertelenség miatt megismételt végrehajtói szakvizsgára jelentkezett.
 
-[^24]: A 22. § (4) bekezdésének a) pontját a 6/2008. (III. 1.) IRM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^37]: A 22. § (4) bekezdésének a) pontját a 6/2008. (III. 1.) IRM rendelet 8. § c) pontja hatályon kívül helyezte.
