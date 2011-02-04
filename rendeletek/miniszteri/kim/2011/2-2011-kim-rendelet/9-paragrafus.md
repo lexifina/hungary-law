@@ -1,0 +1,1 @@
+## 8. § Az R. az 1. számú mellékletét követően a Melléklet szerinti 2. számú melléklettel egészül ki, egyidejűleg az R. jelenlegi 2. és 3. számú mellékletének számozása 3. és 4. számú mellékletre módosul.
