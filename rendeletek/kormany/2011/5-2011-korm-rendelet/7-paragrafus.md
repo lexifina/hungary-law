@@ -1,0 +1,12 @@
+7. § (1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § (4) bekezdésében foglaltakat a jelen rendelet hatálybalépésekor[^1] érvényes vezetői kinevezés határozott időtartamának lejártát, vagy más okból történő megszűnését követően adott kinevezésekre kell alkalmazni.
+
+(3) E rendelet hatálybalépését[^2] követő 30 napon belül meg kell bízni a Programtanács új tagjait. A Programtanács új tagjainak megbízatásával egyidejűleg a korábbi tagok megbízatása megszűnik. Az új Programtanács megalakulását követő 15 napon belül a miniszter megbízza a Programtanács elnökét és a Műszaki Tanács elnökét és tagjait.
+
+(4) Az Intézetnek jelen rendeletben meghatározott közszolgáltatási feladatainak ellátásához nyújtott állami támogatás az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005.11.29., 67–73. o.) hatálya alá tartozik.
+
+(5) Hatályát veszti a Nemzeti Információs Infrastruktúra Fejlesztési Programról szóló 76/2010. (III. 25.) Korm. rendelet.
+
+[^1]: A hatálybalépés napja: 2011. február 4.
+[^2]: A hatálybalépés napja: 2011. február 4.
