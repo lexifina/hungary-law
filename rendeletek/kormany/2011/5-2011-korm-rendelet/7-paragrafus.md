@@ -6,7 +6,8 @@
 
 (4) Az Intézetnek jelen rendeletben meghatározott közszolgáltatási feladatainak ellátásához nyújtott állami támogatás az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005.11.29., 67–73. o.) hatálya alá tartozik.
 
-(5) Hatályát veszti a Nemzeti Információs Infrastruktúra Fejlesztési Programról szóló 76/2010. (III. 25.) Korm. rendelet.
+(5)[^3]
 
 [^1]: A hatálybalépés napja: 2011. február 4.
 [^2]: A hatálybalépés napja: 2011. február 4.
+[^3]: A 7. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
