@@ -1,1 +1,0 @@
-## 3. § Az NFÜ a közreműködő szervezettel az 1. §-ban meghatározottak végrehajtásával kapcsolatos feladatairól, valamint azok végrehajtásáról és az ehhez szükséges finanszírozás mértékéről és módjáról megállapodást köt.
