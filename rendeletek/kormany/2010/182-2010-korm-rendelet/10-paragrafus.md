@@ -42,4 +42,6 @@
 
 (11) A R. 1. melléklete a „2. Közbeszerzési ismeretek:” szövegrész helyett a „3. Közbeszerzési ismeretek:” szöveggel lép hatályba.
 
-(12) Az Országos Közigazgatási Vizsgabizottságról szóló 153/2010. (V. 4.) Korm. rendelet 1. § (2) bekezdésében a „valamint a 4. §-ban meghatározott pályázat alapján az OKV elnöke által felkért” szövegrész „valamint a 4. § alapján az OKV elnöke által az OKV tagjának kinevezett vagy felkért” szövegként, a 2007–2013. programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet 21. §-ának az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 181/2010. (V. 13.) Korm. rendelet 7. §-ával megállapított (4a) bekezdésében a „forráskezelő” szövegrész „alapkezelő” szövegként lép hatályba.
+(12)[^2]
+
+[^2]: A 10. § (12) bekezdését a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 1. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 127. §-át.
