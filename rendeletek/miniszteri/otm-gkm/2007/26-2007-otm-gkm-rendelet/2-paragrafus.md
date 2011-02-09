@@ -1,5 +1,0 @@
-2. § (1)[^3] A nemzeti fejlesztési és gazdasági miniszter mint a Közép-Magyarországi Operatív Program (a továbbiakban: KMOP) felügyeletéért felelős miniszter a KIKSZ Közlekedésfejlesztési Zrt.-t a KMOP versenyképesség keretfeltételeinek fejlesztése című 2. prioritásának a régió külső elérhetőségét javító közlekedési infrastruktúra fejlesztése című 2.2. intézkedése végrehajtásában történő közreműködésre közreműködő szervezetként jelöli ki.
-
-(2) A közreműködői feladatok ellátásához szükséges pénzügyi eszközöket a KMOP Technikai Segítségnyújtás keretei terhére kell biztosítani.
-
-[^3]: A 2. § (1) bekezdése 25/2008. (XII. 5.) NFGM–KHEM együttes rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a Közlekedésfejlesztési Koordinációs Központ Közlekedésfejlesztési Integrált Közreműködő Szervezet mint közreműködő szervezet (és elődei) által 2008. december 6. napjáig kötött valamennyi támogatási szerződésből eredő, a közreműködő szervezetet illető jogok és kötelezettségek 2008. december 6. napjától a KIKSZ Közlekedésfejlesztési Zrt.-t illetik és terhelik.
