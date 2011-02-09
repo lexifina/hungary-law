@@ -1,4 +1,4 @@
-7. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^104]
+7. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^105]
 
 |  | A | B |
 
@@ -14,4 +14,4 @@
 
 | 6 | 2000 millió Ft felett | 200 000 Ft |
 
-[^104]: A 7. mellékletet a 182/2010. (V. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^105]: A 7. mellékletet a 182/2010. (V. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.

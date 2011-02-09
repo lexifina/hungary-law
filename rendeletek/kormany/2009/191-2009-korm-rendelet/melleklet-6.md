@@ -62,7 +62,7 @@
 
 | Összesen: |  |  |  |
 
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^103]
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^104]
 
 Az építési tevékenység megkezdésének utólagos bejelentése
 
@@ -90,4 +90,4 @@ aláírás
 
 (építtető)
 
-[^103]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^104]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

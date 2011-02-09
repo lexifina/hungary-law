@@ -12,7 +12,7 @@ d) a beruházás gazdasági számításainak előkészítése (ráfordítások, 
 
 e) a megbízás tárgyára vonatkozó költségbecslés készítése, elő- és utókalkulációs elemzések készítése,
 
-f)–g)[^13]
+f)–g)[^14]
 
 h) a kivitelezési dokumentációnak az egyes építményfajtáknak megfelelő módon és mértékben történő elkészíttetése,
 
@@ -24,4 +24,4 @@ k) az árviták rendezése,
 
 l) az építési munkaterület kiválasztása, biztosítása és átadása a kivitelező részére.
 
-[^13]: A 8. § f)–g) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^14]: A 8. § f)–g) pontját a 215/2010. (VII. 9.) Korm. rendelet 4. § b) pont második franciabekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.

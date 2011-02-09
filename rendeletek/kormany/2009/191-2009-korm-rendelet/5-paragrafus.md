@@ -12,7 +12,7 @@ megtartják.
 
 (3) Az építési munkaterületen az építtető megbízásából egyidejűleg vagy egymást követően több fővállalkozó kivitelező is végezhet építési-szerelési munkát. A vállalkozó (fővállalkozó) kivitelező az építési-szerelési munka folytatására alvállalkozó kivitelezőt vehet igénybe.
 
-(4)[^11] Az építőipari kivitelezési tevékenység megkezdésekor az építtető az építési munkaterületet a szerződés szerint átadja a fővállalkozó kivitelező részére. Az alvállalkozó kivitelező részére az építési területet a vállalkozó (fővállalkozó) kivitelező adja át.
+(4)[^12] Az építőipari kivitelezési tevékenység megkezdésekor az építtető az építési munkaterületet a szerződés szerint átadja a fővállalkozó kivitelező részére. Az alvállalkozó kivitelező részére az építési területet a vállalkozó (fővállalkozó) kivitelező adja át.
 
 (5) Az építési munkaterület átadásával egyidejűleg meg kell nyitni az építési naplót és abban a (4) bekezdés szerinti átadás-átvételt – az időpont, a tevékenység és a munkaterület megjelölésével – rögzíteni kell.
 
@@ -34,4 +34,4 @@ f) az építőipari kivitelezési tevékenység szerinti építési műszaki ell
 
 (8) A 29. § szerint előzetes bejelentéshez kötött építőipari kivitelezési tevékenység akkor kezdhető meg, ha a tevékenység tervezett megkezdését a 29. §-ban meghatározottak szerint az építésfelügyeleti hatóságnak az építtető bejelentette és az építésfelügyeleti hatóság a kivitelezési tevékenység megkezdését, végzését nem tiltotta meg.
 
-[^11]: Az 5. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.

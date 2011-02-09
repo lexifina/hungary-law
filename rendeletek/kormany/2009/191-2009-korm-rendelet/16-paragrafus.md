@@ -46,13 +46,13 @@ m) műszaki kérdésekben javaslattétel (pl. szakértő bevonására),
 
 n) pénzügyi elszámolások, felmérések ellenőrzése,
 
-o)[^20] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
+o)[^21] a teljesítésigazolás kiállítása és – a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől, vagy a birtokbaadási eljárás lezárásától számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül – az építtető, a fővállalkozó kivitelező, valamint az építtetői fedezetkezelő közreműködése esetében az építtetői fedezetkezelő részére történő megküldése,
 
-p)[^21] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
+p)[^22] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
 
-q)[^22] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
+q)[^23] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
 
-r)[^23] építtetői fedezetkezelő közreműködése esetén a teljesítésigazolásban foglalt számlázható összegnek az elektronikus alvállalkozói nyilvántartásban történő haladéktalan rögzítése.
+r)[^24] építtetői fedezetkezelő közreműködése esetén a teljesítésigazolásban foglalt számlázható összegnek az elektronikus alvállalkozói nyilvántartásban történő haladéktalan rögzítése.
 
 (4) Ha az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi, az építési műszaki ellenőr összehangolja a felelős műszaki vezetők tevékenységét és gondoskodik arról, hogy az elvégzett építési-szerelési munkák (részmunkák) vonatkozásában az egyes fővállalkozó kivitelezők felelős műszaki vezetői által tett nyilatkozatok – az építési napló részeként – a használatbavételi engedély iránti kérelem benyújtásakor az építtető és az építésügyi hatóság rendelkezésére álljanak.
 
@@ -74,7 +74,7 @@ f) az építési műszaki ellenőr díját, fizetési módját, határidejét,
 
 g) az építési műszaki ellenőrnek a jogszabályban meghatározott feladatokon és felelősségén kívüli további feladatait és felelősségét.
 
-[^20]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^21]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^22]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^23]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^21]: A 16. § (3) bekezdés o) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^22]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^23]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^24]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
