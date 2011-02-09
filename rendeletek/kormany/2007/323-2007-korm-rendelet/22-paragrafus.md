@@ -30,10 +30,10 @@ bd) késedelmi kamatok
 
 (4) A Zöld Beruházási Rendszer éves költségvetési előirányzata legfeljebb 5%-ig felhasználható a Zöld Beruházási Rendszer kezeléséhez, működtetéséhez, bevételei beszedéséhez, pénzeszközei felhasználásának ellenőrzéséhez szükséges költségek fedezésére, illetve a Zöld Beruházási Rendszer bevételeinek, mint pályázati pénzeknek a Vevővel kötött szerződésben előírtak szerinti felhasználására, a pályázatok megvalósulására, monitorozására, és az elért kibocsátás-csökkentés számszerűsítésére, valamint jogszabályban meghatározott követelmények teljesülésére vonatkozó pénzügyi és műszaki szempontú értékeltetésére (auditáltatására).
 
-(5)[^40] Az e rendelet szerinti támogatásokkal összefüggő pályázatkezelési, lebonyolítási, döntés-előkészítési és ellenőrzési feladatok ellátásáról a miniszter a Környezetvédelmi és Vízügyi Minisztérium Fejlesztési Igazgatóság, az Energia Központ Nonprofit Kft., az Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. és a Magyar Gazdaságfejlesztési Központ bevonásával gondoskodik.
+(5)[^40] Az e rendelet szerinti támogatásokkal összefüggő pályázatkezelési, lebonyolítási, döntés-előkészítési és ellenőrzési feladatok ellátásáról a miniszter a Környezetvédelmi Fejlesztési Igazgatóság, az Energia Központ Nonprofit Kft., az Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. és a Magyar Gazdaságfejlesztési Központ bevonásával gondoskodik.
 
 [^36]: A 22. § a 121/2009. (VI. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^37]: A 22. § (1) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^38]: A 22. § (2) bekezdés b) pontja a 280/2009. (XII. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^39]: A 22. § (3) bekezdés a) pontja a 280/2009. (XII. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^40]: A 22. § (5) bekezdése a 280/2009. (XII. 11.) Korm. rendelet 1. §-ával megállapított, a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^40]: A 22. § (5) bekezdése a 280/2009. (XII. 11.) Korm. rendelet 1. §-ával megállapított, a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése, a 4/2011. (I. 28.) Korm. rendelet 125. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 122. § (3) bekezdése alapján a 2011. február 9-ét követően meghirdetett felhívások tekintetében kell alkalmazni.

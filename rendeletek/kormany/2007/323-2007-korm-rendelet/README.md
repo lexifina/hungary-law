@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-323-20-
 | --- | --- | --- |
 | 2010-01-01 | 2007-323-20-22.5 | 323/2007. (XII. 11.) Korm. rendelet |
 | 2011-01-01 | 2007-323-20-22.6 | 362/2010. (XII. 30.) Korm. rendelet |
+| 2011-02-09 | 2007-323-20-22.7 | 280/2009. (XII. 11.) Korm. rendelet |
