@@ -32,15 +32,15 @@ na) a Nemzeti Fejlesztési Ügynökséget,
 
 nb) a Strukturális Alapok Programirodát,
 
-nc) a Környezetvédelmi és Vízügyi Minisztérium Fejlesztési Igazgatóságot,
+nc)[^250] a Környezetvédelmi Fejlesztési Igazgatóságot,
 
-nd)[^250]
+nd)[^251]
 
 o) szakmailag felügyeli
 
 oa) a Magyar Fejlesztési Bank Zrt.,
 
-ob)[^251] a VÁTI,
+ob)[^252] a VÁTI,
 
 oc) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
 
@@ -54,5 +54,6 @@ of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
 [^247]: A 85. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^248]: A 85. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^249]: A 85. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^250]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^251]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^250]: A 85. § n) pont nc) alpontja a 4/2011. (I. 28.) Korm. rendelet 125. § (3) bekezdésével megállapított szöveg. E módosító rendelet 122. § (3) bekezdése alapján a 2011. február 9-ét követően meghirdetett felhívások tekintetében kell alkalmazni.
+[^251]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^252]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

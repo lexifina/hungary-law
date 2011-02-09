@@ -1,4 +1,4 @@
-## 110. §[^313] A miniszter a környezetvédelemért való felelőssége, valamint a természetvédelemért való felelőssége körében felel a környezet és természet állapotáért, e körben
+## 110. §[^314] A miniszter a környezetvédelemért való felelőssége, valamint a természetvédelemért való felelőssége körében felel a környezet és természet állapotáért, e körben
 
 a) elemzi és értékeli a környezet, a természet állapotát, annak az emberi egészségre gyakorolt hatását, védelmének helyzetét, a környezeti és természeti értékekkel, természeti erőforrásokkal való gazdálkodás folyamatait, a környezet és természet védelmének, szabályozott használatának és tervszerű fejlesztésének tapasztalatait, javaslatot dolgoz ki a tapasztalatok hasznosítására, értékeli azok megvalósulását,
 
@@ -8,4 +8,4 @@ c) figyelemmel kíséri és ösztönzi a környezet védelmét szolgáló berend
 
 d) segíti a környezeti tudatosság fejlesztését szolgáló programokat és a nevelést.
 
-[^313]: A 110. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (67) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^314]: A 110. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (67) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

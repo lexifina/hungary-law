@@ -1,4 +1,4 @@
-## 93. §[^287]
+## 93. §[^288]
 
 ## X. Fejezet
 
@@ -24,7 +24,7 @@ h) földügyért,
 
 i) vadgazdálkodásért,
 
-j)[^288] halgazdálkodásért,
+j)[^289] halgazdálkodásért,
 
 k) környezetvédelemért,
 
@@ -34,5 +34,5 @@ m) vízgazdálkodásért
 
 felelős tagja.
 
-[^287]: A 93. §-t a 267/2010. (XII. 3.) Korm. rendelet 41. § (39) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^288]: A 94. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (59) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^288]: A 93. §-t a 267/2010. (XII. 3.) Korm. rendelet 41. § (39) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^289]: A 94. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (59) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
