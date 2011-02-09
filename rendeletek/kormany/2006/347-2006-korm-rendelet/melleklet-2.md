@@ -22,7 +22,7 @@
 
 ## II. A környezetvédelmi, természetvédelmi
 
-## és vízügyi felügyelőségek kirendeltségeinek elnevezése és telephelye[^106]
+## és vízügyi felügyelőségek kirendeltségeinek elnevezése és telephelye[^112]
 
 ## Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség Kirendeltsége, Baja
 
@@ -44,7 +44,7 @@
 
 ## Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség, Szeged
 
-## IV. A környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége[^107]
+## IV. A környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége[^113]
 
 ## 1. ÉSZAK-DUNÁNTÚLI KÖRNYEZETVÉDELMI, TERMÉSZETVÉDELMI ÉS VÍZÜGYI FELÜGYELŐSÉG
 
@@ -1040,5 +1040,5 @@
 
 2. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez
 
-[^106]: Az 1. számú melléklet II. pontja a 15/2008. (I. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^107]: Az 1. számú melléklet IV. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^112]: Az 1. számú melléklet II. pontja a 15/2008. (I. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^113]: Az 1. számú melléklet IV. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

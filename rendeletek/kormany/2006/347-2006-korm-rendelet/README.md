@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-347-20-
 | 2011-01-01 | 2006-347-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-01-15 | 2006-347-20-22.16 | 344/2009. (XII. 30.) Korm. rendelet |
 | 2011-01-16 | 2006-347-20-22.17 | 344/2009. (XII. 30.) Korm. rendelet |
+| 2011-02-09 | 2006-347-20-22.18 | 4/2011. (I. 28.) Korm. rendelet |

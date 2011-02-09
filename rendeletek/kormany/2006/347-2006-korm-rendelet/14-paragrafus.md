@@ -1,13 +1,13 @@
-## 13/A. §[^32] A természet védelméről szóló 1996. évi LIII. törvény 67. § (3) bekezdésében foglalt természetvédelmi hatóságként a miniszter jár el.
+## 13/A. §[^34] A természet védelméről szóló 1996. évi LIII. törvény 67. § (3) bekezdésében foglalt természetvédelmi hatóságként a miniszter jár el.
 
 14. § (1) Fokozottan védett növényfaj esetén az OKTVF jár el a természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 42. § (3) bekezdésében foglalt természetvédelmi hatóságként, a bekezdés c) és e)–h) pontjában meghatározott esetben.
 
-(2)[^33] Az OKTVF jár el a Tvt. 13. § (2) és (4) bekezdésében, valamint a 42. § (4) bekezdésben foglalt természetvédelmi hatóságként.
+(2)[^35] Az OKTVF jár el a Tvt. 13. § (2) és (4) bekezdésében, valamint a 42. § (4) bekezdésben foglalt természetvédelmi hatóságként.
 
-(3)[^34] Fokozottan védett állatfaj esetén, ha a védett állatfajokra vonatkozó részletes szabályokat megállapító kormányrendelet eltérően nem rendelkezik, az OKTVF jár el a Tvt. 43. § (2) bekezdés a)–k) és m) pontjában foglalt természetvédelmi hatóságként.
+(3)[^36] Fokozottan védett állatfaj esetén, ha a védett állatfajokra vonatkozó részletes szabályokat megállapító kormányrendelet eltérően nem rendelkezik, az OKTVF jár el a Tvt. 43. § (2) bekezdés a)–k) és m) pontjában foglalt természetvédelmi hatóságként.
 
 (4) Az OKTVF jár el természetvédelmi hatóságként, ha a természetvédelmi hatósági engedély megszerzése iránti kérelem az ország egész területére kiterjedő tevékenységre irányul.
 
-[^32]: A 13/A. §-t a 106/2007. (V. 9.) Korm. rendelet 2. §-a iktatta be.
-[^33]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 518. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^34]: A 14. § (3) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^34]: A 13/A. §-t a 106/2007. (V. 9.) Korm. rendelet 2. §-a iktatta be.
+[^35]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 518. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 14. § (3) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

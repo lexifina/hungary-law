@@ -24,7 +24,7 @@ fa) a helyi önkormányzatokkal a vízgazdálkodási feladatok megoldásában, t
 
 fb) a vízgazdálkodási társulatokkal;
 
-g)[^95] ellátja a vagyonkezelői feladatokat a vagyonkezelésében lévő állami tulajdonú vagyontárgyak tekintetében;
+g)[^98] ellátja a vagyonkezelői feladatokat a vagyonkezelésében lévő állami tulajdonú vagyontárgyak tekintetében;
 
 h) működteti
 
@@ -34,4 +34,4 @@ hb) az állami tulajdonú felszíni vizek, vízi létesítmények kezelésének 
 
 i) végzi a vagyonkezelésében lévő állami tulajdonú vizek szabályozását, mederfenntartását, partvédelmét.
 
-[^95]: A 36. § g) pontja a 344/2009. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^98]: A 36. § g) pontja a 344/2009. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
