@@ -6,6 +6,6 @@
 
 (3) A regisztrált adatok egyeztetése céljából a Kincstár évente június 30-ig adatot szolgáltat a monitoring rendszerben feldolgozott információkról az azonos célú előirányzatok kezelőinek, akik ez alapján évente július 31-ig aktualizálják az általuk szolgáltatott adatok körét.
 
-(4)[^218] Az azonos célú előirányzatok esetében a Kincstár a köztartozások, illetve az Európai Unió tradicionális saját forrásai címen a tartozások figyelemmel kísérése érdekében teljesíti az állami adóhatóság számára a 122. § (1) bekezdése szerinti adatszolgáltatást.
+(4)[^219] Az azonos célú előirányzatok esetében a Kincstár a köztartozások, illetve az Európai Unió tradicionális saját forrásai címen a tartozások figyelemmel kísérése érdekében teljesíti az állami adóhatóság számára a 122. § (1) bekezdése szerinti adatszolgáltatást.
 
-[^218]: A 145. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^219]: A 145. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
