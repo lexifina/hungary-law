@@ -1,0 +1,3 @@
+57. § (1) Támogatási előleg az Ámr.-ben meghatározott mértékben azon projektelemekre vehető igénybe, amelyekhez utófinanszírozást választott a kedvezményezett. A szállítói finanszírozású projektelemekre előleg akkor vehető igénybe, ha a kedvezményezett bruttó támogatásra jogosult államháztartási szerv és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. §-ában foglalt feltételek teljesülnek.
+
+(2) Ha a pályázati felhívás vagy a támogatási szerződés arra lehetőséget biztosít, egyes költségek a támogatási szerződésben vagy a támogatói okiratban meghatározott mértékig – a kettős finanszírozás lehetőségének kizárása mellett – átalány alapon is elszámolhatóak.

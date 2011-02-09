@@ -1,0 +1,9 @@
+61. § (1) A projekt költségnövekményét – jogszabály eltérő rendelkezése hiányában – a kedvezményezett finanszírozza.
+
+(2) Ha a nagyprojekt vagy kiemelt projekt költsége a kedvezményezett által nem befolyásolható körülmény miatt növekedett meg, a kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
+
+(3) A nagyprojekt vagy kiemelt projekt műszaki tartalmának a kedvezményezett által történő változtatására, és a tervezettnél lassabb megvalósulásra visszavezethető költségnövekményt a kedvezményezett finanszírozza.
+
+(4) A kedvezményezett által biztosított saját forrás aránya a nagyprojekt vagy kiemelt projekt támogatásának növelése esetén sem csökkenhet.
+
+(5) A nagyprojekt vagy kiemelt projekt támogatásának növeléséről a Kormány jogosult dönteni.

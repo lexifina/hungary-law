@@ -1,0 +1,3 @@
+## 127. § Az e rendelet hatálybalépését megelőző napon hatályos, e rendelettel hatályon kívül helyezett rendelkezéseket – a 122. § (4) bekezdésében meghatározott kivételekkel – a folyamatban lévő ügyekben alkalmazni kell.
+
+1. melléklet a 4/2011. (I. 28.) Korm. rendelethez

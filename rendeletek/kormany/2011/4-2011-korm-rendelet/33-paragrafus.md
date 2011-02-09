@@ -1,0 +1,47 @@
+33. § (1) A támogatási szerződésben rendelkezni kell a támogatás visszavonása, a támogatási szerződéstől történő elállás, illetve szabálytalanság esetén visszafizetendő támogatás visszafizetésének biztosítékairól. A támogatás visszafizetésének biztosítéka a felhívásban meghatározottak szerint
+
+a) bankgarancia,
+
+b) ingatlan jelzálogjog, vagyont terhelő zálogjog kikötése,
+
+c) vállalkozások és nonprofit szervezetek esetében a támogatást igénylő szervezet vezetőjének vagy tulajdonosának kezességvállalása, vagy
+
+d) garanciaszervezet által vállalt kezesség
+
+lehet.
+
+(2) A biztosítékoknak a támogatási jogviszony alapján, – a (3) és (8) bekezdésben meghatározott kivételekkel – a fenntartási kötelezettségek megszűnéséig rendelkezésre kell állniuk. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát megelőző legalább 45 nappal annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések felfüggesztését, illetve szabálytalansági eljárást von maga után.
+
+(3) A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt, továbbá a már kifizetett támogatás együttes összegét. Biztosíték legfeljebb a projektre megítélt támogatási összeget elérő biztosítéki értékig kérhető. A húszmillió forintot meghaladó, de az ötvenmillió forintot meg nem haladó támogatással megvalósuló beruházási projektek esetében a megvalósítást követő (fenntartási) időszakra vonatkozóan biztosítékokat nem kell nyújtani. Az ötvenmillió forintot meghaladó támogatással megvalósuló beruházási projektek esetében a fenntartási időszakra biztosítékokat a kifizetett támogatás 50%-ának megfelelő mértékben kell nyújtani.
+
+(4) Zálogjog alkalmazásánál első ranghelyű jelzálogjogot kell előírni. Második vagy további ranghelyre – akár ranghelycsere útján történő – bejegyzés elfogadásra akkor alkalmas, ha a korábbi ranghelyű bejegyzések teljesítése esetén a vagyontárgy értéke még fedezetet nyújt a támogatási összegre.
+
+(5) Ha az adott biztosíték a vonatkozó jogszabályok szerint valamely nyilvántartásba való bejegyzéssel jön létre, a támogatás folyósításához a nyilvántartásba való bejegyzésre van szükség. A támogatási összeg – ideértve az előleget is – első folyósítása csak akkor engedélyezhető, ha a biztosítékok a támogatási szerződésben foglaltak szerint rendelkezésre állnak.
+
+(6) A kedvezményezett számára a biztosítékcserét lehetővé kell tenni, ha az új biztosíték végrehajthatósága, illetve az általa fedezett érték megfelel a biztosítékokra vonatkozó feltételeknek.
+
+(7) A kedvezményezett az egyes kifizetési igénylésben igényelt támogatási összegnek megfelelően megemelt biztosítéki mértéket legkésőbb a kifizetési igénylés benyújtásával egyidejűleg igazolja. Ennek elmaradása – a kifizetési igénylés hiánypótlását követően – a kifizetések felfüggesztését vonja maga után.
+
+(8) Nem köteles biztosítékot nyújtani
+
+a) a költségvetési szerv,
+
+b) az egyház és intézménye, ha a támogatás az egyház (egyházi intézmény) olyan közfeladat-ellátásával kapcsolatos, amelyre tekintettel normatív költségvetési támogatásra jogosult,
+
+c) a helyi önkormányzat, a kisebbségi önkormányzat, a többcélú kistérségi társulás, az önkormányzatok egyéb társulása, ha a támogatás teljes egészében önként vállalt helyi közügy megoldását vagy önkormányzati kötelező feladat ellátását szolgálja, továbbá nem kötelesek biztosítékot szolgáltatni, ha a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyontárgy önkormányzati törzsvagyon, vagy törzsvagyonná válik,
+
+d) a vízgazdálkodási társulat, ha a támogatást teljes egészében az általa üzemeltetett önkormányzati vagy állami tulajdonú vizek és vízi létesítmények fejlesztésére használja fel,
+
+e) az NFÜ döntése alapján az állami többségű tulajdonban lévő gazdasági társaság, ha a támogatásból létrejövő vagyon ingyenesen az állam vagy az önkormányzat kizárólagos tulajdonába kerül vagy az 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdésében foglalt, a projekt fenntartására vonatkozó időszaknak megfelelő tartalmú elidegenítési és terhelési tilalom kikötése mellett – vasúti pályahálózat működtetője, illetve közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül,
+
+f) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/B. §-ában meghatározott többségi önkormányzati befolyás alatt álló gazdasági társaság, amely a támogatást tömegközlekedési tárgyú kiemelt projekt vagy nagyprojekt megvalósításához kapja, és a támogatásból létrejövő vagyon ingyenesen az önkormányzat vagy a többségi önkormányzati befolyás alatt álló gazdasági társaság kizárólagos tulajdonába kerül,
+
+g) bármely kedvezményezett, ha a projektre megítélt támogatás összege nem haladja meg a húszmillió forintot, vagy ha a projektet több kedvezményezett valósítja meg, és a ráeső megítélt támogatás összege nem haladja meg a húszmillió forintot,
+
+h) bármely kedvezményezett, ha a támogatás nem beruházási célú,
+
+i) bármely kedvezményezett, ha a támogatás kutatás-fejlesztésre vagy innovációra irányul,
+
+j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifizetését a projekt megvalósítását követően, egy összegben kérelmezi
+
+k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
