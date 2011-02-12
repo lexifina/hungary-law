@@ -30,7 +30,7 @@ c) 99/E. §-ában
 
 (6)[^49] Támogatásként a foglalkoztatáshoz kapcsolódó költségek legfeljebb 80 százaléka téríthető meg. A támogatás elszámolásának módját a külön jogszabályban meghatározott keretek között a támogatási szerződésben kell meghatározni oly módon, hogy az nem korlátozhatja a külön jogszabályban meghatározott és igazoltan felmerülő költségek elszámolhatóságát.
 
-(7)[^50] A rehabilitációs költségtámogatásra kötött keretszerződés legfeljebb 2011. június 30-ig terjedő hatállyal meghosszabbítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
+(7)[^50] A rehabilitációs költségtámogatás nyújtására kötött, 2010. december 30-án hatályos hatósági keretszerződés – pályázati eljárás lefolytatása nélkül – legfeljebb 2011. június 30-ig terjedő hatállyal megújítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
 
 [^42]: A 9. § (1) bekezdése – e rendelet 14. § (2) bekezdése alapján – 2005. november 1-jén hatályba lépett.
 [^43]: A 9. § (2) bekezdésének bevezető szövegrésze a 42/2008. (II. 29.) Korm. rendelet 9. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 427. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -40,4 +40,4 @@ c) 99/E. §-ában
 [^47]: A 9. § (4) bekezdésének a) pontja a 118/2006. (V. 12.) Korm. rendelet 6. § (2) bekezdése alapján 2007. január 1-jén lépett hatályba.
 [^48]: A 9. § (5) bekezdése – e rendelet 14. § (2) bekezdése alapján – 2005. november 1-jén hatályba lépett.
 [^49]: A 9. § (6) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^50]: A 9. § (7) bekezdése a 356/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^50]: A 9. § (7) bekezdése a 7/2011. (II. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

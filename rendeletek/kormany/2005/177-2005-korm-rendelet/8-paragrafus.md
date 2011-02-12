@@ -30,7 +30,7 @@ g)[^39] a pályázat benyújtásának helyét és határidejét, a pályázatot 
 
 (6)[^40] Az (1) bekezdésben meghatározott költségekhez nyújtott támogatás legfeljebb 36 hónapra folyósítható, és nem haladhatja meg a külön jogszabály szerint elszámolható költségek 100 százalékát. A támogatás elszámolásának módját a külön jogszabályban meghatározott keretek között a támogatási szerződésben kell meghatározni oly módon, hogy az nem korlátozhatja a külön jogszabályban meghatározott és igazoltan felmerülő költségek elszámolhatóságát.
 
-(7)[^41] A költségkompenzációs támogatás nyújtására kötött hatósági keretszerződés legfeljebb 2011. június 30-ig terjedő hatállyal meghosszabbítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
+(7)[^41] A költségkompenzációs támogatás nyújtására kötött, 2010. december 30-án hatályos hatósági keretszerződés – pályázati eljárás lefolytatása nélkül – legfeljebb 2011. június 30-ig terjedő hatállyal megújítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
 
 [^34]: A 8. §-t megelőző alcím a 357/2008. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^35]: A 8. § – e rendelet 14. § (2) bekezdése alapján – 2005. november 1-jén hatályba lépett.
@@ -39,4 +39,4 @@ g)[^39] a pályázat benyújtásának helyét és határidejét, a pályázatot 
 [^38]: A 8. § (3) bekezdése a 357/2008. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
 [^39]: A 8. § (5) bekezdésének g) pontja a 122/2006. (V. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^40]: A 8. § (6) bekezdését a 357/2008. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 352/2009. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^41]: A 8. § (7) bekezdését a 352/2009. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 356/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^41]: A 8. § (7) bekezdését a 352/2009. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 7/2011. (II. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
