@@ -18,4 +18,6 @@ c) meghívottak: a Bizottság bármely tagjának javaslatára, a Bizottság egyh
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a Nemzeti Vízum- és Okmánybizottság létrehozásáról és a biztonsági okmányokkal kapcsolatos kormányzati feladatokról szóló 2145/2003. (VII. 1.) Korm. határozat, valamint a Nemzeti Vízum- és Okmánybizottság létrehozásáról és a biztonsági okmányokkal kapcsolatos kormányzati feladatokról szóló 2145/2003. (VII. 1.) Korm. határozat módosításáról rendelkező 2166/2004. (VII. 5.) Korm. határozat.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
