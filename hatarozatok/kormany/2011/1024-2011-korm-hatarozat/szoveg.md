@@ -12,6 +12,8 @@ d) részt vesz az a)–c) pontokban foglalt tevékenységek nyomán előállt ja
 
 3. A közigazgatási államtitkár a 2. pontban felsorolt feladatai ellátása érdekében rendszeresen, de legalább negyedévente egyeztet a 2. a) pont szerinti zsidó szervezetek képviselőivel.
 
-4. Hatályát veszti az örökös nélkül elhalt zsidó származású, vallású, sérelmet szenvedett személyek után a zsidó közösségi vagyoni igények rendezését koordináló Tárcaközi Bizottság létrehozásáról szóló 1091/2007. (XI. 27.) Korm. határozat.
+4.[^2]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
