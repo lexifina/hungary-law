@@ -1,30 +1,34 @@
-1. §[^1] (1)[^2] Az Országos Fogyatékosügyi Tanácsnak (a továbbiakban: Tanács) a Fot. 25. § (1) bekezdés b) pontja szerinti tagjai a következők:
+1. §[^2] (1)[^3] Az Országos Fogyatékosügyi Tanács (a továbbiakban: Tanács) elnökeként a Kormány a társadalmi esélyegyenlőség előmozdításáért felelős minisztert jelöli ki.
 
-a) a társadalmi esélyegyenlőség előmozdításáért felelős miniszter,
+(1a)[^4] A Tanács Fot. 25. § (1) bekezdés b) pontja szerinti, a kormányzati szerveket képviselő tizenkét tagja a következő:
 
-b) az egészségügyért felelős miniszter,
+a) a szociál- és nyugdíjpolitikai, valamint a társadalmi esélyegyenlőség előmozdítása,
 
-c) az agrárpolitikáért felelős miniszter,
+b) az egészségügyi és az egészségbiztosítási,
 
-d) az igazságügyért felelős miniszter,
+c) az oktatási,
 
-e) a közlekedéspolitikáért felelős miniszter,
+d) a kulturális,
 
-f) a külpolitikáért felelős miniszter,
+e) a sportpolitikai,
 
-g) a fejlesztéspolitikáért felelős miniszter,
+f) az egyenlő bánásmód biztosítása és társadalmi felzárkózás,
 
-h) az oktatásért felelős miniszter,
+g) a társadalmi és civil kapcsolatok fejlesztése, valamint az egyházakkal való kapcsolattartás koordinációja,
 
-i) a helyi önkormányzatokért felelős miniszter,
+h) az államháztartási és az adópolitikai,
 
-j) az államháztartásért felelős miniszter,
+i) a foglalkoztatáspolitikai, valamint a szakképzési és felnőttképzési,
 
-k) a Miniszterelnöki Hivatal és
+j) a helyi önkormányzati, az építésügyi, valamint a településfejlesztési és településrendezési,
 
-l) az Egyenlő Bánásmód Hatóság
+k) a közlekedési,
 
-## egy-egy képviselője.
+l) az elektronikus hírközlési, az audiovizuális politikai és az informatikai
+
+szakterületek képviseletében a feladat- és hatáskörrel rendelkező miniszter által kijelölt egy-egy állami vezető vagy miniszteri biztos.
+
+(1b)[^5] Az (1a) bekezdés szerinti tag kijelöléséről, valamint az 5. § (3) bekezdés a) pontja szerint történő általános helyettesítéséről szóló dokumentumot a Tanács elnökének meg kell küldeni.
 
 (2) A Tanácsba a Fot. 25. §-a (1) bekezdésének c)–g) pontja szerinti szervezetek által delegált tagok kijelölését a szervezetek saját hatáskörben végzik.
 
@@ -36,5 +40,7 @@ b) amelynek létesítő okirata, illetve alapszabályzata tartalmazza, hogy a sz
 
 c) amely nem vesz részt a Fot. 25. §-a (1) bekezdésének c), d) és f) pontja szerinti delegálásban.
 
-[^1]: Az 1. § a 131/2004. (IV. 29.) Korm. rendelet I. Részének 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 251/2008. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 131/2004. (IV. 29.) Korm. rendelet I. Részének 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdése a 6/2011. (II. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (1a) bekezdését a 6/2011. (II. 11.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1b) bekezdését a 6/2011. (II. 11.) Korm. rendelet 1. §-a iktatta be.

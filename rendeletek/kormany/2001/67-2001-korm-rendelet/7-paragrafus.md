@@ -1,4 +1,4 @@
-7. §[^14] (1) A Tanács üléséről hangfelvétel készül, amelynek alapján a Tanács titkára gondoskodik a jegyzőkönyv megírásáról.
+7. §[^18] (1) A Tanács üléséről hangfelvétel készül, amelynek alapján a Tanács titkára gondoskodik a jegyzőkönyv megírásáról.
 
 (2) A jegyzőkönyv tartalmazza
 
@@ -22,6 +22,7 @@ a) a Tanács üléséről készült hangfelvételt hozzáférhetővé kell tenni
 
 b) a jegyzőkönyvet elektronikus úton meg kell küldeni.
 
-(4) A jegyzőkönyvet a jegyzőkönyv készítője és a levezető elnök írja alá. A jegyzőkönyvhöz mellékelni kell a jelenléti ívet, az 5. § (3) bekezdése szerinti felhatalmazásokat és a jegyzőkönyvhöz esetlegesen tett észrevételeket.
+(4)[^19] A jegyzőkönyvet a jegyzőkönyv készítője és a levezető elnök írja alá. A jegyzőkönyvhöz mellékelni kell a jelenléti ívet, az 5. § (3) bekezdés b) pontja szerinti felhatalmazásokat és a jegyzőkönyvhöz esetlegesen tett észrevételeket.
 
-[^14]: A 7. § a 177/2006. (VIII. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^18]: A 7. § a 177/2006. (VIII. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: A 7. § (4) bekezdése a 6/2011. (II. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
