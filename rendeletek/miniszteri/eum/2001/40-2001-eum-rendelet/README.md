@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-40-20-0
 | 2010-07-15 | 2001-40-20-0B.32 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-10-15 | 2001-40-20-0B.33 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-12-01 | 2001-40-20-0B.34 | 7/2010. (IX. 2.) NEFMI rendelet |
+| 2011-02-15 | 2001-40-20-0B.35 | 7/2010. (IX. 2.) NEFMI rendelet |

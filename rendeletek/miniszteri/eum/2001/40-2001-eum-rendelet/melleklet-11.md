@@ -1,4 +1,4 @@
-## Az állatkísérletek jóváhagyott alternatív módszereinek jegyzéke[^95]
+## Az állatkísérletek jóváhagyott alternatív módszereinek jegyzéke[^96]
 
 ## A Közös Kutatóközpont Alternatív Módszerek Validálásával Foglalkozó Európai Központja (ECVAM) által jóváhagyott alternatív módszerek, amelyek megfelelnek a 2008/112/EK európai parlamenti és tanácsi irányelv követelményeinek, és amelyek nincsenek felsorolva a 440/2008/EK rendeletben.
 
@@ -8,7 +8,7 @@
 
 ## A helyettesítés teljes vagy részleges C
 
-11. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^96]
+11. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^97]
 
 A kozmetikai termékeken az állatkísérletek hiányára vonatkozó tájékoztatókkal kapcsolatos iránymutatásokról
 
@@ -26,7 +26,7 @@ Az R. 9. §-ának (4) és (5) bekezdése szerinti tájékoztatás alkalmazásáv
 
 Az R. és e tájékoztató alkalmazása tekintetében
 
-a)[^97] összetevő: bármely szintetikus vagy természetes eredetű vegyi anyag vagy keverék, beleértve a kozmetikai termékek összetételében használt illat- és aromás vegyületeket is;
+a)[^98] összetevő: bármely szintetikus vagy természetes eredetű vegyi anyag vagy keverék, beleértve a kozmetikai termékek összetételében használt illat- és aromás vegyületeket is;
 
 b) állat: az állatkísérletek végzéséről szóló 243/1998. (XII. 31.) Korm. rendelet 2. §-ának 1. pontjában meghatározott „állat”;
 
@@ -50,6 +50,6 @@ b) „nem bíztak meg harmadik személyt az állatkísérlet elvégzésével”:
 
 Bármely személy, aki tájékoztatót kíván használni annak jelölésére, hogy nem végeztek állatkísérletet, szabadon választhatja meg a tájékoztató szövegezését, illetve használhat bármely figuratív képet vagy egyéb jelet, amennyiben az R. minden idevágó követelménye teljesül.
 
-[^95]: Az alternatív módszerek feltüntetésére a közösségi jegyzékbe történő felvételt követően kerül sor.
-[^96]: A 11. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette, újonnan a 48/2006. (XII. 28.) EüM rendelet 6. § (3) bekezdése iktatta be.
-[^97]: A 11. számú melléklet 3. pont a) alpontja a 14/2010. (IV. 7.) EüM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^96]: Az alternatív módszerek feltüntetésére a közösségi jegyzékbe történő felvételt követően kerül sor.
+[^97]: A 11. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdése alapján hatályát veszítette, újonnan a 48/2006. (XII. 28.) EüM rendelet 6. § (3) bekezdése iktatta be.
+[^98]: A 11. számú melléklet 3. pont a) alpontja a 14/2010. (IV. 7.) EüM rendelet 6. § (1) bekezdése szerint módosított szöveg.

@@ -276,7 +276,7 @@
 
 | 129 | Terpének és terpenoidok a III. melléklet 1. Részének 167., 168. és 88. hivatkozási száma alatt felsorolt limonene (d-, l- és dl-isomers) kivételével CAS-szám 65996-98-7 |  |  | Peroxid-érték kevesebb, mint 10 mmol/L[11] |  |
 
-| 130 | Terpene terpenoids sinpine Terpénvázas vegyületek CAS-szám 68917-63-5 |  |  | Peroxid-érték kevesebb, mint 10 mmol/L[11] |  |
+| 130 | Terpenes és terpenoids Terpénvázas vegyületek és terpenoidok (CAS-szám 68917–63–5) |  |  | Peroxid-érték kevesebb, mint 10 mmol/L[11] |  |
 
 | 131 | (a-Terpinene CAS-szám 99-86-5 p-menta-1,3-dién |  |  | Peroxid-érték kevesebb, mint 10 mmol/L[11] |  |
 
@@ -319,6 +319,8 @@
 | 150 | Allyl propionate CAS-szám 2408-20-0 |  |  | A szabad allilalkohol szintje az észterben kevesebb, mint 0,1% |  |
 
 | 151 | Allyl trimethylhexanoate CAS-szám 68132-80-9 |  |  | A szabad allilalkohol szintje az észterben kevesebb, mint 0,1% |  |
+
+| 151a. | Allyl phenethyl ether (CAS-szám: 14289–65–7; EK-szám: 238–212–2) |  |  | A szabad allilalkohol szintje az éterben kevesebb, mint 0,1% |  |
 
 | 152 | Allyl heptine carbonate CAS-szám 73157-43-4 Allil okt-2-inoát |  | 0,002% | Ez az anyag nem használható együttesen semmilyen 2-alkinsav- észterrel (pl. metil heptin karbonáttal) |  |
 
@@ -430,15 +432,13 @@
 
 | 205 | 4-hidroxi-propil- amino-3- nitrofenol[13] 4- Hydroxypropyl- amino-3- nitrophenol (INCI) (CAS-szám 92952-81-3) EINECS-szám 406-305-9 | a) Oxidáló hajfestékek összetevőjeként b) Nem oxidáló hajfestékek összetevőjeként | b) 2,6% | a) Oxidatív körülmények között összekeverve a hajra alkalmazott maximális koncentráció nem haladhatja meg a 2,6%-ot (szabad bázisra számolva) a) és b) esetében: – Nitrozáló rendszerekben nem használható – Maximális nitrozamin-koncent- ráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó | a) A keverési arányt fel kell tüntetni a címkén. |
 
-| [20687 | Verbénából nyert abszolút olaj (Lippia citriodora Kunth.) (CAS-szám: 8024–12–2) |  | 0,2% |  |  |  |
+| 206 | Verbénából nyert abszolút olaj (Lippia citriodora Kunth.) (CAS-szám: 8024–12–2) |  | 0,2% |  |  |  |
 
-| 20788 | Ethyl Lauroyl Arginate HCl (INCI) [14] Ethyl-Nα-dodeca- noyl-L-arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | a) Szappanok b) Korpásodás elleni samponok c) Nem szórófejes dezodorok | 0,8% | Nem a termékben lévő mikroorganizmu- sok kifejlődésének megakadályozá- sára. E célt jól láthatóan fel kell tüntetni a terméken.] |  |
+| [20788 | Ethyl Lauroyl Arginate HCl (INCI) [14] Ethyl-Nα-dodeca- noyl-L-arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | a) Szappanok b) Korpásodás elleni samponok c) Nem szórófejes dezodorok | 0,8% | Nem a termékben lévő mikroorganizmu- sok kifejlődésének megakadályozá- sára. E célt jól láthatóan fel kell tüntetni a terméken.] |  |
 
 | 208 | 1-(béta-ami- no-etil)-amino -4-(béta-hidroxi- etil)-oxi- 2-nitro-benzol és sói HC Orange No. 2 (CAS-szám: 85765–48–6) EINECS-szám: 416–410–1 | Nem oxidáló hajfestékek összetevőjeként | 1,0% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó | A hajfestékek/ hajszínezők súlyos allergiás reakciót válthatnak ki. Kérjük, olvassa el és kövesse az utasításokat! Ezt a terméket nem 16 éven aluli személyeknél való alkalmazásra szánták. Az ideiglenes ‘fekete henna’ tetoválás növelheti az allergia kialakulásának veszélyét. Ne használjon hajfestéket/ hajszínezőt, ha: – arcán kiütés van, vagy fejbőre érzékeny, irritált és sérült, – hajfestés után bármikor bármilyen reakciót észlelt, – korábban ideiglenes ‘fekete henna’ tetoválás során valamilyen reakciót észlelt. |
 
 | 209 | 2-[(2-metoxi-4- nitro-fenil)- amino]-etanol és sói 2-Hydroxy- ethylamino-5- nitroanisole (CAS-szám: 66095–81–6) EINECS-szám: 266–138–0 | Nem oxidáló hajfestékek összetevőjeként | 0,2% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó |  |
-
-## 87 A 206. pont a 7/2010. (IX. 2.) NEFMI rendelet 4. § (2) bekezdése alapján 2011. február 15-én lép hatályba.
 
 ## 88 A 207. pont a 7/2010. (IX. 2.) NEFMI rendelet 4. § (3) bekezdése alapján 2011. március 1-jén lép hatályba.
 
@@ -566,6 +566,6 @@
 
 | 57−62 |  |  |  |  |  |  |
 
-4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^87]
+4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^88]
 
-[^87]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^88]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
