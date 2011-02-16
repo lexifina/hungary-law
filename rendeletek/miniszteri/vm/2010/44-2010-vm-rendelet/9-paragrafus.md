@@ -12,7 +12,7 @@
 
 (6) Az általános iskolai tanulók ellátására igényelhető támogatás mértéke a 6. melléklet szerinti székhelyű iskolafenntartó esetében a bizottsági rendelet szerinti támogatás, valamint a bizottsági rendelet szerinti támogatás és a bruttó vételár különbözetének húsz százaléka.
 
-(7) A megyei önkormányzatok, országos kisebbségi önkormányzatok, gesztor települési önkormányzatok, alapítványok, egyházak, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján alakított többcélú kistérségi társulások fenntartásában működő iskolák esetében a 4–6. mellékletek szerinti besorolás alapja – a (4)–(6) bekezdésben foglaltaktól eltérően – a közoktatási intézmény székhelye.
+(7)[^6] A megyei önkormányzatok, országos kisebbségi önkormányzatok, gesztor települési önkormányzatok, alapítványok, egyházak, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján alakított többcélú kistérségi társulások fenntartásában működő iskolák esetében a 4–6. mellékletek szerinti besorolás alapja – a (4)–(6) bekezdésben foglaltaktól eltérően – a közoktatási intézmény székhelye, a székhelyen kívül más településen működő intézményegység esetén pedig az a település, ahol a tagintézmény működik.
 
 (8) Sajátos nevelési igényű általános iskolai tanulók esetében igényelhető támogatás a tejtermékek bruttó vételárának száz százaléka függetlenül attól, hogy a tanuló gyógypedagógiai intézményben, vagy a többi tanulóval együtt, azonos iskolai osztályban részesül nevelésben, oktatásban, vagy fejlesztőiskolai oktatás keretében teljesíti a tankötelezettségét.
 
@@ -23,3 +23,5 @@ a) az I. kategóriájú termékek esetében 27,6 Ft/dl,
 b) a II. kategóriájú termékek esetében 13,2 Ft/dl,
 
 c) a III. kategóriájú termékek esetében 960 Ft/kg.
+
+[^6]: A 9. § (7) bekezdése a 10/2011. (II. 15.) VM rendelet 5. §-ával megállapított szöveg.
