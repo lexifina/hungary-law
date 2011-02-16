@@ -1,88 +1,94 @@
-## Állami tulajdonú viziközműből közműves vízszolgáltatást végző gazdálkodó szervezeteknek közüzemi szolgáltatásra átadott és átvett ivóvíz legmagasabb átadási díja
+## Állami tulajdonú víziközműből közműves vízszolgáltatást végző gazdálkodó szervezeteknek
 
-| Átadó vízmű és vízbázis | Átadott mennyiség ezer m3 | Átadási díj Ft/m3 | Átvevő vízmű |
+## közüzemi szolgáltatásra átadott és átvett ivóvíz legmagasabb átadási díja
 
-| Duna Menti Regionális Vízmű Zrt. (Vác) |  |  |  |
+|  | a | b | c | d |
 
-| – kerepestarcsai | – 100 100 felett | 290 145 | Szilasvíz Kft. |
+|  | Átadó vízmű és vízbázis | Átadott mennyiség ezer m3 | Átadási díj Ft/m3 | Átvevő vízmű |
 
-| – nyugat-nógrádi | – 900 900 felett | 166 83 | Nyugat-Nógrádi Vízmű Kft. |
+| 1. | Duna Menti Regionális Vízmű ZRt. (Vác) |
 
-| Dunántúli Regionális Vízmű Zrt. (Siófok) |  |  |  |
+| 1.1. | kerepestarcsai | –100 100 felett | 310 155 | Szilasvíz Kft. |
 
-| – ercsi | – 250 251–500 500 felett | 207 92 83 | Dunaújvárosi Víz-, Csatorna-, Hőszolgáltató Kft. |
+| 1.2. | nyugat-nógrádi | –900 900 felett | 173 87 | Nyugat-Nógrád Vízmű Kft. |
 
-| – rákhegyi | – 3 700 3 701–4 100 4 100 felett | 218 110 86 | Fejérvíz Zrt. |
+| 2. | Dunántúli Regionális Vízmű ZRt. (Siófok) |
 
-| – mohácsi | – 560 560 felett | 281 135 | Komlóvíz Kft. |
+| 2.1. | ercsi | –250 251–500 500 felett | 208 92 83 | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. |
 
-| – mohácsi | – 560 560 felett | 268 134 | Mohácsvíz Kft. |
+| 2.2. | rákhegyi | –3000 3001–3500 3501–4100 4100 felett | 228 180 115 90 | Fejérvíz ZRt. |
 
-| – mohácsi | – 700 700 felett | 277 61 | Pécsi Vízmű Zrt. |
+| 2.3. | mohácsi | –300 301–500 500 felett | 294 209 141 | Komló-Víz Kft. |
 
-| – nyírádi | – 300 301–500 500 felett | 244 123 38 | Bakonykarszt Zrt. |
+| 2.4. | mohácsi | –100 101–300 301–400 400 felett | 280 160 120 80 | Mohács-Víz Kft. |
 
-| Északdunántúli Vízmű Zrt. (Tatabánya) |  |  |  |
+| 2.5. | mohácsi | –700 701–1200 1200 felett | 276 62 58 | Tettye Forrásház ZRt. |
 
-| – Bicske térségi | – 575 575 felett | 274 137 | Fejérvíz Zrt. |
+| 2.6. | mohácsi | –3 3,1–5 5 felett | 276 221 193 | Pécsváradi Vízmű Kft. |
 
-| – Bicske térségi | – 450 450 felett | 274 137 | Érd és Térsége Víziközmű Kft. |
+| 2.7. | nyirádi | –300 301–500 500 felett | 253 127 40 | Bakonykarszt ZRt. |
 
-| – Bicske térségi | – 200 200 felett | 274 137 | Pátyi Vagyonkezelő és Közmű Üzemeltető Kft. |
+| 3. | Északdunántúli Vízmű ZRt. (Tatabánya) |
 
-| – Bicske térségi | – 200 200 felett | 274 137 | Zsámbékvíz Kft. |
+| 3.1. | Bicske térségi | –575 575 felett | 286 143 | Fejérvíz ZRt. |
 
-| – Bicske térségi | – 100 100 felett | 274 137 | Vízcoop Kft. |
+| 3.2. | Bicske térségi | –450 450 felett | 286 143 | Érd és Térsége Víziközmű Kft. |
 
-| – Oroszlány térségi | – 350 350 felett | 172 86 | Fejérvíz Zrt. |
+| 3.3. | Bicske térségi | –200 200 felett | 286 143 | Pátyi Közmű Kft. |
 
-| – Dorog térségi | – 150 150 felett | 208 104 | Duna Menti Regionális Vízmű Zrt. |
+| 3.4. | Bicske térségi | –200 200 felett | 286 143 | Zsámbékvíz Kft. |
 
-| Északmagyarországi Regionális Vízművek Zrt. (Kazincbarcika) |  |  |  |
+| 3.5. | Bicske térségi | –100 100 felett | 286 143 | Aquazala Kft. |
 
-| – Borsodi Régió | – 120 121–310 310 felett | 314 157 42 | Borsodi Közszolgáltató Nonprofit Kft. |
+| 3.6. | Oroszlány térségi | –350 350 felett | 180 90 | Fejérvíz ZRt. |
 
-| – Borsodi Régió | – 1480 1481–1600 1600 felett | 314 157 42 | Ózdi Vízmű Kft. |
+| 3.7. | Dorog térségi | –150 150 felett | 216 108 | Duna Menti Regionális Vízmű ZRt. |
 
-| – Borsodi Régió | – 45 45 felett | 355 178 | Heves Megyei Vízmű Zrt. |
+| 4. | Északmagyarországi Regionális Vízművek ZRt. (Kazincbarcika) |
 
-| – Hevesi Régió | – 80 81–120 120 felett | 512 256 60 | Heves Megyei Vízmű Zrt. |
+| 4.1. | Borsodi régió | –120 121–310 310 felett | 328 164 44 | Borsodi Közszolgáltató Nonprofit Kft. |
 
-| – Hevesi Régió | – 70 71–110 110 felett | 512 256 60 | Nádasd Kft. |
+| 4.2. | Borsodi régió | –1480 1481–1600 1600 felett | 320 160 43 | Ózdi Vízmű Kft. |
 
-| – Keleti Régió | – 400 400 felett | 687 68 | GW-Borsodvíz Kft. |
+| 4.3. | Borsodi régió | –45 45 felett | 370 185 | Heves Megyei Vízmű ZRt |
 
-| – Keleti Régió | – 600 600 felett | 719 58 | Miskolci Vízmű Kft. |
+| 4.4. | Hevesi régió | –80 81–120 120 felett | 535 267 63 | Heves Megyei Vízmű ZRt. |
 
-| – Keleti Régió | – 100 100 felett | 687 68 | Szikszó-Víz Kft. |
+| 4.5. | Hevesi régió | –70 71–110 110 felett | 535 267 63 | Nádasd Kft. |
 
-| – Dél-Borsodi Régió | – 54 55–428 429–680 680 felett | 318 159 79 40 | Dél-Borsodi Víz- és Csatornamű Kft. |
+| 4.6. | Keleti régió | –400 400 felett | 718 71 | Borsodvíz ZRt. |
 
-| – Dél-Borsodi Régió | – 66 67–522 523–820 820 felett | 318 159 79 40 | Mezőkövesdi Városgazdálkodási Zrt. |
+| 4.7. | Keleti régió | –600 600 felett | 751 61 | MIVÍZ Miskolci Vízmű Kft. |
 
-| – Mátrai Régió | – 40 40 felett | 492 246 | Heves Megyei Vízmű Zrt. |
+| 4.8. | Keleti Régió | –100 100 felett | 718 71 | Szikszó-Víz Kft. |
 
-| – Nógrádi Régió | – 2400 2401–2500 2500 felett | 336 168 66 | Salgótarján és Környéke Vízmű Kft. |
+| 4.9. | Dél-Borsodi régió | –54 55–428 429–680 680 felett | 332 166 83 42 | Heves Megyei Vízmű ZRt. |
 
-| – Nógrádi Régió | – 10 10 felett | 336 168 | Bátonyterenye és Környéke Vízmű Kft. |
+| 4.10. | Dél-Borsodi régió | –66 67–522 523–820 820 felett | 332 166 83 42 | Mezőkövesdi VG Városgazdálkodási ZRt. |
 
-| – Nógrádi Régió | – 400 401–470 470 felett | 406 203 66 | Dél-Nógrádi Vízmű Kft. |
+| 4.11. | Mátrai régió | –40 40 felett | 514 257 | Heves Megyei Vízmű ZRt. |
 
-| Tiszamenti Vízművek Regionális Zrt. (Szolnok) |  |  |  |
+| 4.12. | Nógrádi régió | –2400 2401–2500 2500 felett | 343 171 67 | Salgótarján és Környéke Vízmű Kft. |
 
-| – KFCS felszíni tisztítómű | – 835 835 felett | 606 22 | Debreceni Vízmű Zrt. |
+| 4.13. | Nógrádi régió | –10 10 felett | 351 175 | Bátonyterenye és Környéke Víz- és Csatornamű Kft. |
 
-| – KFCS felszíni tisztítómű | – 13 13 felett | 589 59 | Hajdú-Bihari Önkormányzatok Vízmű Zrt. |
+| 4.14. | Nógrádi régió | –400 401–470 470 felett | 424 212 69 | Dél-Nógrádi Vízmű Kft. |
 
-| – Geszterédi | – 525 525 felett | 152 76 | TRV Közüzemi Szolgáltató Kft. |
+| 5. | Tiszamenti Regionális Vízművek ZRt. (Szolnok) |
 
-| – Geszterédi | – 700 700 felett | 152 76 | Nyíregyháza és Térsége V. és Cs. Zrt. |
+| 5.1. | KFCS felszíni tisztítómű | –835 835 felett | 633 23 | Debreceni Vízmű ZRt. |
 
-| – észak-szabolcsi | – 1050 1050 felett | 139 70 | TRV Közüzemi Szolgáltató Kft. |
+| 5.2. | KFCS felszíni tisztítómű | –13 13 felett | 616 62 | Hajdú-Bihari Önkormányzatok Vízmű ZRt. |
 
-| Nyíregyháza és Térsége Víz- és Csatornamű Zrt. (Nyíregyháza) |  |  |  |
+| 5.3. | geszterédi | –525 525 felett | 159 79 | TRV Közüzemi Szolgáltató Kft. |
 
-| – nyíregyházi regionális rendszer | – 12 12 felett | 125 63 | Ravicsa Nonprofit Kft. |
+| 5.4. | geszterédi | –700 700 felett | 159 79 | Nyíregyháza és Térsége Víz- és Csatornamű ZRt. |
+
+| 5.5. | észak-szabolcsi | –1050 1050 felett | 145 73 | TRV Közüzemi Szolgáltató Kft. |
+
+| 6. | Nyíregyháza és Térsége Víz- és Csatornamű ZRt. (Nyíregyháza) |
+
+|  | nyíregyházi regionális vízellátó rendszer | –12 12 felett | 129 65 | RAVICSA Nonprofit Kft. |
 
 3. számú melléklet a 47/1999. (XII. 28.) KHVM rendelethez
 

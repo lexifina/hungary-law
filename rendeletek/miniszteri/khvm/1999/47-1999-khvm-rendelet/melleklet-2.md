@@ -4,124 +4,128 @@
 
 ## Az állami tulajdonú közüzemi vízműveket működtető vízműtársaságok által felszámítható ivóvíz- és csatornahasználat legmagasabb lakossági díjai
 
-|  | Ivóvíz | Csatorna |
+|  | a | b | c | d | e |
 
-| Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) |
+|  |  | Ivóvíz | Csatorna |
 
-| Pécsváradi Vízmű Kft. |
+|  |  | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) |
 
-| – Óbánya település | 0 | 300 | – | – |
+| 1. | Pécsváradi Vízmű Kft. |
 
-| Délzalai Víz- és Csatornamű Zrt. (Nagykanizsa) |  |  |  |  |
+|  | Óbánya település | 0 | 300 |  |  |
 
-| – Garabonc, Nagyrada, Zalamerenye, Zalaszabar, települések | – | – | 301 | 340 |
+| 2. | Délzalai Víz- és Csatornamű ZRt. (Nagykanizsa) |
 
-| – Duna Menti Regionális Vízmű Zrt. (Vác) | 200 | 234 | 270 | 273 |
+|  | Garabonc, Nagyrada, Zalamerenye, Zalaszabar települések |  |  | 290 | 358 |
 
-| Dunántúli Regionális Vízmű Zrt. (Siófok) |
+| 3. | Duna Menti Regionális Vízmű ZRt. (Vác) | 250 | 239 | 300 | 285 |
 
-| – Velencei-tó térsége (Velence, Gárdony, Kápolnásnyék, Sukoró, Dinnyés, Nadap, Pázmánd települések) | 200 | 380 | 377 | 530 |
+| 4. | Dunántúli Regionális Vízmű ZRt. (Siófok) |
 
-| – más település | 200 | 380 | 340 | 543 |
+| 4.1. | Velencei-tó térsége (Velence, Gárdony, Kápolnásnyék, Sukoró, Dinnyés, Nadap, Pázmánd települések) | 210 | 397 | 385 | 540 |
 
-| Északdunántúli Vízmű Zrt. (Tatabánya) | 212 | 320 | 165 | 231 |
+| 4.2. | más település | 210 | 397 | 355 | 569 |
 
-| Északmagyarországi Regionális Vízművek Zrt. (Kazincbarcika) | 198 | 365 | 249 | 456 |
+| 5. | Északdunántúli Vízmű ZRt. (Tatabánya) | 215 | 328 | 175 | 247 |
 
-| Tiszamenti Vízművek Regionális Zrt. (Szolnok) | 220 | 550 | 173 | 411 |
+| 6. | Északmagyarországi Regionális Vízművek ZRt. (Kazincbarcika) | 206 | 381 | 260 | 476 |
+
+| 7. | Tiszamenti Regionális Vízművek ZRt. (Szolnok) | 230 | 576 | 190 | 452 |
 
 ## Az állami tulajdonú közüzemi vízműveket működtető vízműtársaságok által felszámítható ivóvíz- és csatornahasználat legmagasabb nem lakossági díjai
 
-|  | Ivóvíz | Csatorna |
+|  | a | b | c | d | e | f | g |
 
-| Bekötési vízmérő átmérője (mm) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) | Bekötési vízmérő átmérője (mm) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) |
+|  |  | Ivóvíz | Csatorna |
 
-| Pécsváradi Vízmű Kft. |
+|  |  | Bekötési vízmérő átmérője (mm) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) | Bekötési vízmérő átmérője (mm) | Alapdíj, fogyasztási helyenként (Ft/hónap) | Fogyasztási díj (Ft/m3) |
 
-| – Óbánya település | 13–20 | 0 | 431 |  |  |  |
+| 1. | Pécsváradi Vízmű Kft. |
 
-| 25–32 | 0 |
+|  | Óbánya település | 13–20 | 0 | 431 |  |
 
-| 40–50 | 0 |
+|  |  | 25–32 | 0 |  |  |
 
-| 65–100 | 0 |
+|  |  | 40–50 | 0 |  |  |
 
-| 150–200 | 0 |
+|  |  | 65–100 | 0 |  |  |
 
-| Délzalai Víz- és Csatornamű Zrt. (Nagykanizsa) |
+|  |  | 150–200 | 0 |  |  |
 
-| – Garabonc, Nagyrada, Zalamerenye, Zalaszabar települések |  |  |  | 13–20 | 340 | 405 |
+| 2. | Délzalai Víz- és Csatornamű ZRt. (Nagykanizsa) |
 
-| 25–32 | 570 |
+|  | Garabonc, |  | 13–20 | 340 | 423 |
 
-| 40–50 | 3 300 |
+|  | Nagyrada, |  | 25–32 | 570 |  |
 
-| 65–100 | 11 000 |
+|  | Zalamerenye, |  | 40–50 | 3 300 |  |
 
-| 150–200 | 22 000 |
+|  | Zalaszabar |  | 65–100 | 11 000 |  |
 
-| Duna Menti Regionális Vízmű Zrt. (Vác) | 13–20 | 200 | 234 | 13–20 | 270 | 273 |
+|  | települések |  | 150–200 | 22 000 |  |
 
-| 25–32 | 600 | 25–32 | 810 |
+| 3. | Duna Menti Regionális Vízmű ZRt. (Vác) | 13–20 | 250 | 239 | 13–20 | 300 | 285 |
 
-| 40–50 | 1 800 | 40–50 | 2 430 |
+| 25–30 | 750 | 25–30 | 900 |
 
-| 65–100 | 5 400 | 65–100 | 7 290 |
+| 40–50 | 2250 | 40–50 | 2700 |
 
-| 150–200 | 16 200 | 150–200 | 21 870 |
+| 65–100 | 6750 | 65–100 | 8100 |
 
-| Dunántúli Regionális Vízmű Zrt. (Siófok) |
+| 150–200 | 20250 | 150–200 | 24 300 |
 
-| Velencei-tó térsége (Velence, Gárdony, Kápolnásnyék, Sukoró, Dinnyés, Nadap, Pázmánd települések) | 13–20 | 205 | 394 | 13–20 | 377 | 555 |
+| 4. | Dunántúli Regionális Vízmű ZRt. (Siófok) |
 
-| 25–32 | 1 040 | 25–32 | 1 900 |
+| 4.1. | Velencei-tó térsége (Velence, Gárdony, Kápolnásnyék, Sukoró, Dinnyés, Nadap, Pázmánd települések) | 13–20 | 215 | 411 | 13–20 | 385 | 566 |
 
-| 40–50 | 3 150 | 40–50 | 5 680 |
+| 25–32 | 1 090 | 25–32 | 1 940 |
 
-| 65–100 | 10 800 | 65–100 | 19 240 |
+| 40–50 | 3 290 | 40–50 | 5 795 |
 
-| 150–200 | 32 800 | 150–200 | 56 250 |
+| 65–100 | 11 290 | 65–100 | 19 625 |
 
-| más település | 13–20 | 205 | 394 | 13–20 | 364 | 595 |
+| 150–200 | 34 280 | 150–200 | 57 380 |
 
-| 25–32 | 1 040 | 25–32 | 1 840 |
+| 4.2. | más település | 13–20 | 215 | 411 | 13–20 | 380 | 624 |
 
-| 40–50 | 3 150 | 40–50 | 5 490 |
+| 25–32 | 1 090 | 25–32 | 1 930 |
 
-| 65–100 | 10 800 | 65–100 | 18 570 |
+| 40–50 | 3 290 | 40–50 | 5 760 |
 
-| 150–200 | 32 800 | 150–200 | 54 270 |
+| 65–100 | 11 290 | 65–100 | 19 470 |
 
-| Északdunántúli Vízmű Zrt. (Tatabánya) | 13–20 | 212 | 320 | 13–20 | 165 | 231 |
+| 150–200 | 34 280 | 150–200 | 54 760 |
 
-| 25–32 | 636 | 25–32 | 825 |
+| 5. | Északdunántúli Vízmű ZRt. (Tatabánya) | 13–20 | 215 | 328 | 13–20 | 175 | 247 |
 
-| 40–50 | 1 908 | 40–50 | 1 650 |
+| 25–32 | 645 | 25–32 | 875 |
 
-| 65–100 | 6 998 | 65–100 | 7 425 |
+| 40–50 | 1 935 | 40–50 | 1 750 |
 
-| 150–200 | 17 176 | 150–200 | 16 500 |
+| 60–100 | 7 097 | 60–100 | 7 875 |
 
-| Északmagyarországi Regionális Vízművek Zrt. (Kazincbarcika) | 13–20 | 198 | 365 | 13–20 | 249 | 456 |
+| 150–200 | 17 419 | 150–200 | 17 500 |
 
-| 25–32 | 594 | 25–32 | 747 |
+| 6. | Északmagyar- országi Regionális Vízművek ZRt. (Kazincbarcika) | 13–20 | 206 | 381 | 13–20 | 260 | 476 |
 
-| 40–50 | 1 782 | 40–50 | 2 241 |
+| 25–32 | 618 | 25–32 | 780 |
 
-| 65–100 | 6 534 | 65–100 | 8 217 |
+| 40–50 | 1 854 | 40–50 | 2 340 |
 
-| 150–200 | 16 038 | 150–200 | 20 169 |
+| 65–100 | 6 798 | 65–100 | 8 580 |
 
-| Tiszamenti Vízművek Regionális Zrt. (Szolnok) | 13–20 | 212 | 551 | 13–20 | 167 | 411 |
+| 150–200 | 16 686 | 150–200 | 21 060 |
 
-| 25–32 | 212 | 25–32 | 167 |
+| 7. | Tiszamenti Regionális Vízművek ZRt. (Szolnok) | 13–20 | 230 | 576 | 13–20 | 190 | 452 |
 
-| 40–50 | 212 | 40–50 | 167 |
+| 25–32 | 230 | 25–32 | 190 |
 
-| 65–100 | 212 | 65–100 | 167 |
+| 40–50 | 230 | 40–50 | 190 |
 
-| 150–200 | 212 | 150–200 | 167 |
+| 65–100 | 230 | 65–100 | 190 |
+
+| 150–200 | 230 | 150–200 | 190 |
 
 2. számú melléklet a 47/1999. (XII. 28.) KHVM rendelethez[^8]
 
-[^8]: A 2. számú melléklet a 22/2009. (XII. 29.) KvVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. számú melléklet a 9/2011. (II. 15.) VM rendelet 1. § b) pontjával megállapított szöveg.
