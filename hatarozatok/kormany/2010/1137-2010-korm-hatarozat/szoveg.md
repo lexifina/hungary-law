@@ -1,8 +1,30 @@
 A Kormány
 
-a) a Magyar Köztársaság nemzeti ünnepei (az 1848/49-es Forradalom és Szabadságharc Évfordulója március 15-e, Szent István ünnepe augusztus 20-a, az 1956-os Forradalom Emléknapja október 23-a), valamint
+a)[^1] a Magyar Köztársaság nemzeti ünnepei
 
-b) a kiemelt fontosságú rendezvények (a Kommunizmus Áldozatainak Emléknapja február 25-e, a Holocaust Magyarországi Áldozatainak Emléknapja április 16-a, a Nemzeti Összetartozás Napja június 4-e, az Aradi Vértanúk Emléknapja október 6-a, a Nemzeti Gyász Emléknapja november 4-e)
+aa) az 1848/49-es Forradalom és Szabadságharc Évfordulója, március 15-e,
+
+ab) az Államalapító Szent István ünnepe, augusztus 20-a,
+
+ac) az 1956-os Forradalom és Szabadságharc Emléknapja, október 23-a,
+
+b)[^2] a kiemelt fontosságú rendezvények
+
+ba) a Kommunizmus Áldozatainak Emléknapja, február 25-e,
+
+bb) a Holocaust Magyarországi Áldozatainak Emléknapja, április 16-a,
+
+bc) a Nemzeti Összetartozás Napja, június 4-e,
+
+bd) Nagy Imre és mártírtársai újratemetésének Emléknapja, június 16-a,
+
+be) az Aradi Vértanúk Emléknapja, október 6-a,
+
+bf) a Nemzeti Gyász Emléknapja, november 4-e,
+
+bg) Magyarország karácsonya, valamint
+
+bh) előre meg nem határozott kiemelt rendezvények
 
 (az a) és b) pont a továbbiakban együtt: nemzeti rendezvény) előkészítésére és lebonyolítására az érintett miniszterek feladatait a következők szerint határozza meg:
 
@@ -16,48 +38,77 @@ c) a teljes körű lakossági kommunikációjának kidolgozása és irányítás
 
 d) a közszolgálati médiával való kapcsolattartás irányítása, valamint
 
-e) a 7. pont szerinti Operatív Törzs, és a 10. pont szerinti Központi Bázis vezetőjének kijelölése.
+e) a 7. pont szerinti Operatív Törzs, és a 10. pont szerinti Központi Bázis vezetőjének kijelölése,
 
-2. A miniszter 2011. évtől minden év január 31-ig tesz javaslatot a Kormány számára a nemzeti rendezvények koncepciójára. A miniszternek a koncepciót a 2010. évben az augusztus 20-ai ünnepségre vonatkozóan haladéktalanul, az október 23-ai és november 4-ei Emléknapok esetében 2010. augusztus 16-ig kell benyújtania.
+f)[^3] az előre meg nem határozott események kiemelt fontosságú rendezvénnyé minősítéséről – melyre a kormányzati kommunikációért felelős államtitkár tesz javaslatot, és amely országos jelentőségű, eseti jellegű, év közben keletkezett, ezért előre nem tervezhető, kormányzati kötelezettségen alapuló eseményre vonatkozhat – történő döntése.
 
-3. A miniszter a jóváhagyott koncepció alapján az ünnepség lebonyolításáról, a soron következő ünnep megrendezésének részletes programjáról, a feladatok és a tervezett költségek megosztásáról jelentésben tájékoztatja a Kormányt.
+2.[^4] A miniszter minden év december 31-ig tesz javaslatot a Kormány számára a nemzeti rendezvények éves koncepciójára.
 
-4. A miniszter az e határozat szerinti feladatait az érintett miniszterekkel együttműködve látja el. Az együttműködés keretében
+3.[^5] A miniszter a jóváhagyott koncepció alapján az ünnepség lebonyolításáról, a soron következő ünnep megrendezésének részletes programjáról, a feladatok és a tervezett költségek megosztásáról tájékoztatja a Kormányt.
 
-a) a belügyminiszter felel a rendőrség közbiztonsági, közlekedésrendészeti, vízirendészeti, személyvédelmi és díszelgő egységeinek közreműködéséért valamint a katasztrófavédelem szerveinek közreműködésért;
+4.[^6] A miniszter az e határozat szerinti feladatait az érintett miniszterekkel és a Miniszterelnökséget vezető államtitkárral együttműködve látja el. Az együttműködés keretében
 
-b) a honvédelmi miniszter felel a Magyar Honvédség szárazföldi, légi és vízi bemutatón közreműködő, illetve műszaki alakulatainak és díszelgő egységeinek közreműködésért;
+a) a belügyminiszter felel a rendőrség rendezvénybiztosítási feladatokat ellátó és díszelgő egységeinek, a katasztrófavédelem, a Terrorelhárítási Központ és az Alkotmányvédelmi Hivatal szerveinek rendezvénnyel kapcsolatos közreműködéséért,
 
-c) a külügyminiszter felel a diplomáciai és az állami protokoll feladatainak ellátásért,
+b) a honvédelmi miniszter felel a Magyar Honvédség szárazföldi, légi és vízi bemutatón közreműködő, illetve műszaki alakulatainak és díszelgő egységeinek, valamint a Koronaőrség közreműködéséért,
 
-d) a nemzeti erőforrás miniszter felel a katasztrófa-egészségügyi szervek közreműködéséért;
+c) a külügyminiszter felel a diplomáciai és az állami protokoll feladatainak ellátásáért, valamint a Miniszterelnökséget vezető államtitkár felel a miniszterelnöki megjelenések protokoll feladatainak ellátásáért,
 
-e) a nemzeti fejlesztési miniszter felel az Országos Meteorológiai Szolgálat közreműködéséért.
+d) a nemzeti erőforrás miniszter felel az egészségügyi szervek közreműködéséért,
+
+e) a vidékfejlesztési miniszter felel az Országos Meteorológiai Szolgálat közreműködéséért.
 
 5. A miniszter az egyes nemzeti rendezvények keretében
 
-a) felel a nemzeti ünnepek Kormány által jóváhagyott programjának a jogszabályok, az állami irányítás egyéb jogi eszközei, valamint a hatósági előírások szerinti előkészítéséért és biztonságos megvalósításáért;
+a)[^7] felel a nemzeti rendezvények Kormány által jóváhagyott programjának a jogszabályok, a közjogi szervezetszabályozó eszközök, valamint a hatósági előírások szerinti előkészítéséért és biztonságos megvalósításáért;
 
 b) dönt a programok nem biztonsági okokból, valamint az élet- és vagyonbiztonságot veszélyeztető rendkívüli körülmény és más elháríthatatlan ok esetén a rendezvény helyszínének, programpontjainak módosításáról; továbbá
 
 c) felel – az érintett szervek feladat- és hatáskörének sérelme nélkül – biztonsági okokból a rendezvény elhalasztására vagy megszakítására irányuló döntés meghozataláért.
 
-6. A miniszter az 5. pontban felsorolt tevékenységek elősegítése és támogatása érdekében irányítja a 4. pontban megjelölt miniszterek által delegált tagokból álló Tárcaközi Koordináló Bizottság (a továbbiakban: TKB) tevékenységét.
+6.[^8] A miniszter az 5. pontban felsorolt tevékenységek elősegítése és támogatása érdekében irányítja a 4. pontban megjelölt miniszterek és a Miniszterelnökséget vezető államtitkár által delegált tagokból álló Tárcaközi Koordináló Munkacsoport (a továbbiakban: TKM) tevékenységét.
 
-7. A miniszter a TKB bizottságaként működteti az Operatív Törzset (a továbbiakban: OT), amely a nemzeti rendezvények szervezett és biztonságos lebonyolításával kapcsolatos feladatokat látja el. Az OT-t a miniszter által kinevezett személy irányítja.
+7.[^9] A miniszter a TKM munkacsoportjaként működteti az Operatív Törzset (a továbbiakban: OT), amely a nemzeti rendezvények szervezett és biztonságos lebonyolításával kapcsolatos feladatokat látja el. Az OT-t a miniszter által kinevezett személy irányítja.
 
-8. Az OT állandó tagjai: a belügyminiszter, a honvédelmi miniszter, a külügyminiszter, a nemzeti fejlesztési miniszter, illetve a vidékfejlesztési miniszter által delegált személyek. A miniszter megkeresése alapján a nemzeti ünnep szervezésével kapcsolatos feladatok szakszerű ellátásához szükséges további személyek és szervezetek is részt vesznek az OT munkájában. Az OT működésének rendjét az OT első ülésén határozza meg.
+8.[^10] Az OT állandó tagjai:
 
-9. Az OT elsődleges feladata az előkészítés folyamán a biztonsági szempontok konzultatív és kooperatív figyelemmel kísérése, a nemzeti rendezvényekkel kapcsolatban elkészített biztonsági terv, közlekedési terv, tömegközlekedési terv és egészségügyi terv szakmai véleményezése legkésőbb az ünnepet megelőző 15 napig.
+a) a belügyminiszter,
 
-10. A miniszter a nemzeti ünnepekhez kapcsolódó rendezvények teljes időtartama alatt – a kiemelt állami rendezvényeknél szükség esetén – a rendezvények biztonságos lebonyolítása érdekében Központi Bázist működtet. A Központi Bázis működésének helyét, annak vezetőjét és tagjait a miniszter az OT tagjainak egyetértésével jelöli ki.
+b) a honvédelmi miniszter,
+
+c) a külügyminiszter,
+
+d) a nemzeti erőforrás miniszter,
+
+e) a vidékfejlesztési miniszter
+
+által delegált személyek. Az OT irányítójának megkeresése alapján a nemzeti rendezvény szervezésével kapcsolatos feladatok szakszerű ellátásához szükséges további személyek és szervezetek is részt vesznek az OT munkájában. Az OT működésének rendjét az OT első ülésén határozza meg.
+
+9.[^11] Az OT elsődleges feladata az előkészítés folyamán a biztonsági szempontok konzultatív és kooperatív figyelemmel kísérése, a nemzeti rendezvényekkel kapcsolatban elkészített biztonsági terv, közlekedési terv, és egészségügyi terv szakmai véleményezése legkésőbb az ünnepet megelőző 15. napig és azok jóváhagyása a 7. pontban meghatározott OT irányítója által.
+
+10.[^12] A miniszter a nemzeti ünnepekhez kapcsolódó rendezvények teljes időtartama alatt – a kiemelt fontosságú rendezvényeknél szükség esetén – a rendezvények biztonságos lebonyolítása érdekében Központi Bázist működtet. A Központi Bázis működésének helyét, annak vezetőjét és tagjait a miniszter az OT tagjainak egyetértésével jelöli ki.
 
 11. A Központi Bázis tagjai folyamatosan figyelemmel kísérik a nemzeti rendezvények lebonyolítását és – amennyiben a körülmények gondos mérlegelése alapján azt szükségesnek látják – a Központi Bázist vezető személynek együttes javaslatot tesznek az élet- és vagyon biztonságot veszélyeztető rendkívüli körülmény és más elháríthatatlan ok esetén a program egyes elemeinek vagy egészének elhalasztására, illetve megszakítására.
 
 12. A Kormány felhívja a minisztert,
 
-a) 2010. augusztus 23-tól gondoskodjék annak feltételeiről, hogy a nemzeti rendezvények szervezését, valamint a műszaki, művészeti, logisztikai és biztosítási feladatainak előkészítését és lebonyolítását a Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft. lássa el,
+a)[^13] gondoskodjon annak fenntartásáról, hogy a nemzeti rendezvények szervezését, valamint a műszaki, művészeti, logisztikai, biztosítási feladatainak előkészítését és lebonyolítását, valamint az 1. pont c) alpontjában meghatározott feladatok lebonyolítását a Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft. lássa el,
 
 b) biztosítsa a nemzeti rendezvények teljesítéséhez szükséges költségvetési forrásokat a Közigazgatási és Igazságügyi Minisztérium fejezetben.
 
-13. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a nemzeti és állami ünnepek, valamint más kiemelkedő fontosságú rendezvények előkészítéséről és lebonyolításáról szóló 2106/2005. (VI. 6.) Korm. határozat.
+13.[^14] A Kormány felhívja a 4. pontban meghatározott feladatokat ellátó minisztereket és a Miniszterelnökséget vezető államtitkárt, hogy az ott meghatározott feladataik ellátásához a szükséges költségvetési forrásokat saját fejezeti előirányzatban biztosítsák.
+
+[^1]: A bevezető rész a) pontja az 1026/2011. (II. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A bevezető rész b) pontja az 1026/2011. (II. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. pont f) alpontját az 1026/2011. (II. 15.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 2. pont az 1026/2011. (II. 15.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 3. pont az 1026/2011. (II. 15.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 4. pont az 1026/2011. (II. 15.) Korm. határozat 5. pontjával megállapított szöveg.
+[^7]: Az 5. pont a) alpontja az 1026/2011. (II. 15.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^8]: A 6. pont az 1026/2011. (II. 15.) Korm. határozat 7. pontjával megállapított szöveg.
+[^9]: A 7. pont az 1026/2011. (II. 15.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^10]: A 8. pont az 1026/2011. (II. 15.) Korm. határozat 9. pontjával megállapított szöveg.
+[^11]: A 9. pont az 1026/2011. (II. 15.) Korm. határozat 10. pontjával megállapított szöveg.
+[^12]: A 10. pont az 1026/2011. (II. 15.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^13]: A 12. pont a) alpontja az 1026/2011. (II. 15.) Korm. határozat 12. pontjával megállapított szöveg.
+[^14]: A 13. pont az 1026/2011. (II. 15.) Korm. határozat 13. pontjával megállapított szöveg.
