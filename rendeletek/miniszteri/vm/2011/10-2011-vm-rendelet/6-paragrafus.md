@@ -1,3 +1,0 @@
-## 5. § Az R. 9. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A megyei önkormányzatok, országos kisebbségi önkormányzatok, gesztor települési önkormányzatok, alapítványok, egyházak, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján alakított többcélú kistérségi társulások fenntartásában működő iskolák esetében a 4–6. mellékletek szerinti besorolás alapja – a (4)–(6) bekezdésben foglaltaktól eltérően – a közoktatási intézmény székhelye, a székhelyen kívül más településen működő intézményegység esetén pedig az a település, ahol a tagintézmény működik.”
