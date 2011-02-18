@@ -1,0 +1,5 @@
+6. § (1) A területileg illetékes fővárosi és megyei kormányhivatal által megküldött, káreseménnyel kapcsolatos dokumentáció alapján az utak, hidak és kompok károsodása esetében a Közlekedésfejlesztési Koordinációs Központ a dokumentáció átvételétől számított 14 napon belül észrevételt tesz a 4. melléklet szerinti adatlap kitöltésével.
+
+(2) A területileg illetékes fővárosi és megyei kormányhivatal az 5. melléklet szerinti pályázati adatlap megfelelő oszlopában helyreállítás esetén a szakértői nyilatkozatok alapján – a Közlekedésfejlesztési Koordinációs Központ véleményének figyelembevételével –, védekezés esetén a pályázati dokumentáció alapján 14 napon belül észrevételt tesz a vis maior eseményekkel kapcsolatos költségekről és az igényelt támogatás segítségével megvalósítandó feladatokról.
+
+(3) A minisztérium szükség szerint véleményezésre megküldi a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szervnek a pályázati dokumentációt, aki az átvételtől számított 8 napon belül megküldi szakmai véleményét és javaslatát a minisztériumnak.

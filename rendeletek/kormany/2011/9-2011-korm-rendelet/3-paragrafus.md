@@ -1,0 +1,37 @@
+## 3. Támogatási alapelvek
+
+3. § (1) A helyi önkormányzat támogatást igényelhet
+
+a) az előre nem látható természeti vagy más eredetű erők által okozott veszély miatt szükségessé váló, indokolt védekezés többletkiadásainak részbeni vagy teljes támogatására, valamint
+
+b) az önkormányzati, kisebbségi önkormányzati tulajdonban lévő építményt (kötelező feladatok ellátását szolgáló épületet, utat, hidat, kompot, ár- és belvízvédelmi vízilétesítményt, közmű- és műtárgyait) sújtó, előre nem látható természeti vagy más erők által okozott károk helyreállításának részbeni támogatására, a biztosításból vagy egyéb módon megtérülő károk figyelembevételével.
+
+(2) Az (1) bekezdés b) pontja alapján az önkormányzatokkal azonos feltételek mellett támogatást igényelhet a többcélú kistérségi társulás, amennyiben a tulajdonában levő épületet előre nem látható természeti vagy más erők által okozott kár sújtja.
+
+(3) Az (1) bekezdés b) pontja szerinti esetben támogatás – az ár- és belvízvédelmi vízilétesítmények kivételével – kizárólag akkor igényelhető, ha a károk az önkormányzat kötelező feladatellátását szolgáló épületben, épületrészben következtek be, vagy – utak, hidak, kompok esetében – a károsodás a helyi közlekedés biztonságát veszélyezteti.
+
+(4) A támogatás igénylésének feltétele, hogy az önkormányzat a kérelmét az előre nem látható, váratlan esemény bekövetkezésétől vagy – védekezési kiadások esetén – a védekezés megkezdésétől számított 7 napon belül az 1. melléklet A) része szerinti adatlapon elektronikusan rögzítse a minisztérium által működtetett ebr42 rendszerben, és faxon bejelentést tegyen a minisztérium részére a vis maior eseményről. Amennyiben a védekezés nem fejeződik be a 4. § (1) bekezdésében meghatározott támogatási kérelem benyújtásának időpontjáig, az önkormányzat új bejelentést tehet a védekezést megszüntető határozat időpontjáig felmerülő újabb védekezési költségek részbeni vagy teljes támogatása érdekében. A bejelentés időpontja az ebr42 rendszerben (http://ebr42.otm.gov.hu/palyazat/) elektronikusan kitöltött, 1. melléklet A) része szerinti adatlap lezárásának dátuma. A bejelentésre nyitva álló határidő elmulasztása jogvesztő.
+
+(5) Az (1) bekezdés a) pontja szerinti esetben a minisztérium a bejelentést követően – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi az illetékes megyei katasztrófavédelmi igazgatóságot vagy a Fővárosi Polgári Védelmi Igazgatóságot (a továbbiakban együtt: Katasztrófavédelmi Igazgatóság), amely az 1. melléklet A) része szerinti adatlap lezárását követő 7 napon belül a 2. melléklet szerinti adatlapon – elektronikusan az ebr42 rendszerben – tájékoztatást nyújt a bejelentés valódiságáról, a vis maior esemény jellegéről, a védekezési munkálatok szükségességéről. A káresemény körülményeinek igazolására a Katasztrófavédelmi Igazgatóság helyszíni vizsgálatot is folytat.
+
+(6) A bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a területileg illetékes fővárosi és megyei kormányhivatal által koordinált bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a területileg illetékes fővárosi és megyei kormányhivatal, a Katasztrófavédelmi Igazgatóság, továbbá szükség szerint a területileg illetékes fővárosi és megyei kormányhivatal felkérése alapján
+
+a) ár- vagy belvíz elleni védekezés esetében a területileg illetékes környezetvédelmi és vízügyi igazgatóság, valamint
+
+b) utakban, kompokban, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ
+
+képviselője.
+
+(7) Az előzetes helyszíni vizsgálat lefolytatásáról a 3. melléklet A) része szerinti jegyzőkönyvet elektronikusan – az ebr42 rendszerben – kell kiállítani. A rendkívüli időjárás által közvetlenül okozott károk (5) és (6) bekezdés szerinti vizsgálata esetében az Országos Meteorológiai Szolgálat a Katasztrófavédelmi Igazgatóság kérésére – térítésmentesen – tájékoztatást küld.
+
+(8) Pince-, partfalomlás vagy földcsuszamlás esetében a településfejlesztésért és településrendezésért felelős miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti, majd erről faxon tájékoztatja az önkormányzatot.
+
+(9) Támogatás – pince-, partfalomlás, valamint földcsuszamlás kivételével – csak a káresemény bekövetkezését megelőző állapot visszaállítására igényelhető. Nem igényelhető támogatás a vis maior keretből az elmaradt felújításból, karbantartásból eredő, korábban megelőzhető károk helyreállítására, új beruházásra, fejlesztésre, valamint felújítási előirányzatok pótlására, a (10) bekezdésben foglaltak kivételével.
+
+(10) Amennyiben a vis maior esemény következtében a kötelező önkormányzati feladatot szolgáló épület összedől vagy helyreállíthatatlanul károsodik, a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szerv előzetes szakmai véleménye alapján a Kormány egyedileg dönt a támogatásról új, a káreseményt megelőző funkciót betöltő beruházás megvalósítása érdekében. Ez esetben a támogatás folyósítása a 7. § (3) bekezdésében foglaltak alapján történik.
+
+(11) A települést ért különösen súlyos természeti csapás esetében, amelynek következtében a lakóépületek jelentős része életveszélyessé vált vagy helyre nem állítható, kivételesen a támogatás a lakosság egyszeri, rendkívüli szociális támogatására is kiterjedhet. A lakossági támogatás a szociális igazgatásról és szociális ellátásokról szóló törvényben előírt eljárási szabályokkal egyezően az önkormányzati kötelezettségből eredő kiadások (átmeneti segély nyújtása a létfenntartást veszélyeztető rendkívüli élethelyzetbe került személyek részére az életveszély megszüntetéséhez) részbeni vagy teljes megtérítését jelenti. Ez a támogatás a kárt szenvedett lakosok biztonságát szolgálja, az ingatlan helyreállításának vagy újjáépítésének fedezetét nem tartalmazza.
+
+(12) A települést érintő különösen súlyos természeti károk mérséklésére a védekezési, helyreállítási támogatás részben, előleg formájában azonnali segítségnyújtásként is folyósítható a miniszter előzetes döntésével, a Kincstár felé történő utalványozással, a kedvezményezettet terhelő elszámolási kötelezettséggel. A helyreállításhoz kapcsolódó előleg az 1. melléklet B) része szerinti adatlapon jelzett, előzetesen becsült helyreállítási költségek legfeljebb 15%-ának megfelelő összeg lehet, amellyel az első teljesítésarányos kifizetéssel egyidejűleg kell elszámolni. A védekezési költségekhez kapcsolódó előleg az 1. melléklet B) része szerinti adatlapon jelzett, előzetesen becsült védekezési költségek legfeljebb 50%-ának megfelelő összeg lehet.
+
+(13) Az önkormányzat az előleg iránti kérelmét – legfeljebb a 4. § (1) bekezdés szerinti támogatási kérelem lezárásáig – az ebr42 rendszerben az 1. melléklet B) része szerinti adatlapon rögzíti. A kitöltött és lezárt, 1. melléklet B) része szerinti adatlapot aláírást követően faxon el kell juttatni a minisztérium részére. A minisztérium az előlegigény beérkezését követően – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi az illetékes Katasztrófavédelmi Igazgatóságot, amely az ebr42 rendszerben az 1. melléklet C) része szerinti adatlap kitöltésével haladéktalanul, de legkésőbb 3 napon belül javaslatot tesz a folyósítandó előleg összegére.
