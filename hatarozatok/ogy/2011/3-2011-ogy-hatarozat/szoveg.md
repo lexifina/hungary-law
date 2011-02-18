@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. György István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 29.B.37.543/2010/2. számú megkeresésével érintett ügyben nem függeszti fel.
