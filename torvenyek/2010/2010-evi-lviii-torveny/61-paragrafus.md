@@ -1,3 +1,3 @@
-61. § (1) A határozatlan idejű munkaviszonyt a munkáltató rendes felmondással indokolás nélkül megszüntetheti.
+61. § (1)
 
 (2) A felmondási idő a rendes felmondás közlését követő napon kezdődik.
