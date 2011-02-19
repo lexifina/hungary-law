@@ -1,4 +1,4 @@
-4. § (1) A 3. § (2) bekezdésében meghatározott támogatáson felül többlettámogatást vehetnek igénybe azok a termelői szervezetek, amelyek a (2) és (3) bekezdés szerint 2010. évben a termelői szervezetek társulása közreműködésével közvetlenül kiskereskedelemi, feldolgozóipari tevékenységet főtevékenységként folytató vállalkozások részére vagy külföldi székhelyű kereskedelmi vállalkozások részére értékesítenek.
+4. § (1)[^3] A 3. § (2) bekezdésében meghatározott támogatáson felül többlettámogatást vehetnek igénybe azok a termelői szervezetek, amelyek a (2) és (3) bekezdés szerint 2010. évben a termelői szervezetek társulása közreműködésével értékesítenek.
 
 (2) Termelői szervezetek társulása közreműködésével történő értékesítés valósul meg az elismerés hatálya alá tartozó termékek vagy azok egy része vonatkozásában, amennyiben
 
@@ -6,7 +6,7 @@ a) a termelői szervezet társulása a tagjának termékét maga értékesíti, 
 
 b) a tag a termelői szervezet társulásával szerződött partner részére közvetlenül értékesít.
 
-(3) A többlettámogatás szempontjából a termelői szervezetek társulása közreműködésével közvetlenül kiskereskedelemi, feldolgozóipari tevékenységet főtevékenységként folytató vállalkozások részére vagy külföldi székhelyű kereskedelmi vállalkozások részére történő értékesítés akkor vehető figyelembe, ha 2010-ben a forgalomba hozott termék értékén belül az ilyen értékesítés a társulás minden egyes termelői szervezet tagja tekintetében meghaladja az általa 2010. második félévében forgalomba hozott termék értékének
+(3)[^4] A többlettámogatás szempontjából a termelői szervezetek társulása közreműködésével történő értékesítés akkor vehető figyelembe, ha 2010-ben a forgalomba hozott termék értékén belül az ilyen értékesítés a társulás minden egyes termelői szervezet tagja tekintetében meghaladja az általa 2010. második félévében forgalomba hozott termék értékének
 
 a) ötven százalékát a 2010. július 1-je előtt elismert társulások esetében,
 
@@ -17,3 +17,6 @@ b) huszonöt százalékát a 2010. július 1-jén vagy azt követően elismert t
 (5) Az (1) bekezdésben meghatározott többlettámogatás szempontjából azon termelői szervezetek társulásai vehetők figyelembe, amelyek az R 11. § (3) bekezdése szerinti elismerési kérelmüket legkésőbb 2010. augusztus 31-ig benyújtják.
 
 (6) E § szerinti többlettámogatás az 5. § (1) bekezdése szerinti kérelem alapján a termelői szervezetek társulásában részt vevő termelői szervezetek között kerül felosztásra az elmúlt három év átlagában általuk forgalomba hozott termék értékének arányában.
+
+[^3]: A 4. § (1) bekezdése a 12/2011. (II. 18.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (3) bekezdése a 12/2011. (II. 18.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
