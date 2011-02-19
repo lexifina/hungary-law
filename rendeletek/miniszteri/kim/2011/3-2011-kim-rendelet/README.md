@@ -1,0 +1,9 @@
+# 3/2011. (II. 11.) KIM rendelet
+
+a területi felzárkózási koordinációs központi és felnőttképzési feladatot ellátó regionális képző központok irányításáról, feladatairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-3-20-2T
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-02-19 | 2011-3-20-2T.1 | 3/2011. (II. 11.) KIM rendelet |
