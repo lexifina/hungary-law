@@ -1,1 +1,3 @@
-## 2. § Az e rendelet szerinti támogatás forrása a 2010. évben a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 1. számú melléklet XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 10. cím, 4. alcím, 8. jogcímcsoport Egyes speciális szövetkezések (TESZ, BÉSZ) támogatása 1. előirányzat, 5. kiemelt előirányzata, valamint az Európai Mezőgazdasági Garancia Alap.
+## 2. §[^1] Az e rendelet szerinti támogatás forrása a 2011. évben a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. számú melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. cím, 4 alcím, 8 jogcímcsoport Egyes speciális szövetkezések (TÉSZ) támogatása előirányzat, valamint az Európai Mezőgazdasági Garancia Alap.
+
+[^1]: A 2. § a 12/2011. (II. 18.) VM rendelet 1. §-ával megállapított szöveg.
