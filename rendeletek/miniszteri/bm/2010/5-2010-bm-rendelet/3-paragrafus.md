@@ -1,8 +1,8 @@
 ## 2. § E rendelet hatálya a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 1. számú melléklet XIV. Belügyminisztérium fejezet 20. cím 1. alcím 34. Katasztrófa elhárítási célelőirányzatok (a továbbiakban: Előirányzat) jogcímcsoportra terjed ki.
 
-3. §[^1] (1) Az Előirányzat az alábbi célokra használható fel:
+3. §[^2] (1) Az Előirányzat az alábbi célokra használható fel:
 
-a) károsodott lakóépületek tulajdonosai, haszonélvezői, használati jogosultjai lakhatási feltételeinek megteremtésére, figyelembe véve az egyéb forrásból megtérülő károkat,
+a)[^3] károsodott lakóépületek tulajdonosai, haszonélvezői, használati jogosultjai lakhatási feltételeinek megteremtésére, kártalanítására, figyelembe véve az egyéb forrásból megtérülő károkat,
 
 b) a helyi önkormányzatok vis maior támogatásból el nem ismerhető önkormányzati feladatellátáshoz kapcsolódó helyreállítási költségekre,
 
@@ -38,4 +38,5 @@ e) készpénzben, a károsodott lakóépületbe bejelentett személyek ruhanemű
 
 f) az érintett önkormányzatok területén a károsult személyek lakhatását biztosító lakóépületek építésére szolgáló új településrész kialakításához szükséges közműhálózat fejlesztésére és az ehhez kapcsolódó szakértői közreműködés költségeire.
 
-[^1]: A 3. § a 15/2010. (XII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § a 15/2010. (XII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja az 1/2011. (II. 18.) BM rendelet 7. §-ával megállapított szöveg.
