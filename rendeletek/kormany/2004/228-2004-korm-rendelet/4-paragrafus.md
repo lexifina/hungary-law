@@ -1,4 +1,4 @@
-## 3. §[^4]
+## 3. §[^5]
 
 ## 4. § E rendelet alkalmazásában
 
@@ -22,4 +22,4 @@ i) védelmi célú tartalékok: a külön jogszabályban felsorolt állami kész
 
 j) tartalékkezelő: külön jogszabályban megnevezett felelős vezető által erre a célra alapított, illetve külön jogszabály alapján átruházott jogkörrel a feladatot végző költségvetési szerv vagy egyéb gazdálkodó szervezet.
 
-[^4]: A 3. §-t a 87/2005. (V. 5.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^5]: A 3. §-t a 87/2005. (V. 5.) Korm. rendelet 7. §-a hatályon kívül helyezte.
