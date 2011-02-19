@@ -1,0 +1,1 @@
+## „(4) Az eljárás eredménytelen a Kbt. 92. §-ában megfogalmazottakon túl akkor is, ha az IB a fedezetet vagy az ajánlatot nem hagyja jóvá. Az ajánlatkérő eredménytelennek nyilváníthatja az eljárást, ha több ajánlatot nyújtottak be, de a benyújtott ajánlatok között csak egyetlen érvényes ajánlat van.”
