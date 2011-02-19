@@ -88,6 +88,6 @@
 
 ## cégszerű aláírás
 
-1/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^69]
+1/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^73]
 
-[^69]: Az 1/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (1) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^73]: Az 1/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (1) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

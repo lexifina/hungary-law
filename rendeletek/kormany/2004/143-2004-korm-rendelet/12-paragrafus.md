@@ -1,4 +1,4 @@
-## 11/A. §[^17] A keretmegállapodás becsült értéke a megállapodás alapján az adott időszakban kötendő szerződések becsült legmagasabb összértéke.
+## 11/A. §[^19] A keretmegállapodás becsült értéke a megállapodás alapján az adott időszakban kötendő szerződések becsült legmagasabb összértéke.
 
 12. § (1) Tilos e rendelet megkerülése céljával a beszerzést a (2) bekezdésbe ütköző módon részekre bontani.
 
@@ -14,4 +14,4 @@ c) rendeltetése azonos vagy hasonló, illetőleg felhasználásuk egymással k�
 
 (4) Ha a becsült érték kiszámításakor a (2) bekezdésben foglaltakat nem vették figyelembe, az e rendelet szerinti beszerzésnek a költségvetési évben vagy az adott tizenkét hónapban még beszerzendő tárgyaira – azok értékétől függetlenül – csak e rendelet szerinti beszerzési eljárás alapján lehet szerződést kötni, könnyített eljárás azonban nem alkalmazható.
 
-[^17]: A 11/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^19]: A 11/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

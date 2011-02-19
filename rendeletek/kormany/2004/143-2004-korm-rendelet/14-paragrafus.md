@@ -2,9 +2,9 @@
 
 ## A BESZERZÉSI ELJÁRÁSOK
 
-14. § (1)[^23] A beszerzési eljárás kétlépcsős eljárás (versenypárbeszéd), keretmegállapodásos eljárás, azonnali eljárás, könnyített eljárás lehet.
+14. § (1)[^26] A beszerzési eljárás kétlépcsős eljárás (versenypárbeszéd), keretmegállapodásos eljárás, azonnali eljárás, könnyített eljárás lehet.
 
-(2)[^24] Kétlépcsős eljárást kell tartani a rendelet hatálya alá tartozó, a közösségi közbeszerzési értékhatárok felét elérő vagy azt meghaladó értékű beszerzés esetén.
+(2)[^27] Kétlépcsős eljárást kell tartani a rendelet hatálya alá tartozó, a közösségi közbeszerzési értékhatárok felét elérő vagy azt meghaladó értékű beszerzés esetén.
 
 (3) Azonnali eljárást lehet tartani a rendelet hatálya alá tartozó beszerzés esetén, ha
 
@@ -24,13 +24,13 @@ g) a korábban beszerzett dolog részbeni kicserélése vagy bővítése során 
 
 h) ingatlan tulajdonjogának vagy használatára, illetőleg hasznosítására vonatkozó jognak a megszerzésére irányul a beszerzés;
 
-i)[^25] olyan új építési beruházásra, illetőleg szolgáltatás megrendelésére kerül sor, amelyet a korábbi nyertes ajánlattevővel köt meg ugyanazon ajánlatkérő azonos vagy hasonló építési beruházás, illetőleg szolgáltatás teljesítésére, feltéve hogy az új építési beruházás, illetőleg szolgáltatás összhangban van azzal az alapprojekttel, amelyre a korábbi szerződést a kétlépcsős eljárásban megkötötték, és a kétlépcsős eljárás részvételi felhívásában az ajánlatkérő jelezte, hogy azonnali eljárást alkalmazhat, valamint a korábbi kétlépcsős eljárásban az építési beruházás, illetőleg szolgáltatás becsült értékének meghatározásakor figyelembe vette az újabb építési beruházás, illetőleg szolgáltatás becsült értékét is; ilyen beszerzési eljárást azonban csak a korábbi első szerződés megkötésétől számított három éven belül lehet indítani.
+i)[^28] olyan új építési beruházásra, illetőleg szolgáltatás megrendelésére kerül sor, amelyet a korábbi nyertes ajánlattevővel köt meg ugyanazon ajánlatkérő azonos vagy hasonló építési beruházás, illetőleg szolgáltatás teljesítésére, feltéve hogy az új építési beruházás, illetőleg szolgáltatás összhangban van azzal az alapprojekttel, amelyre a korábbi szerződést a kétlépcsős eljárásban megkötötték, és a kétlépcsős eljárás részvételi felhívásában az ajánlatkérő jelezte, hogy azonnali eljárást alkalmazhat, valamint a korábbi kétlépcsős eljárásban az építési beruházás, illetőleg szolgáltatás becsült értékének meghatározásakor figyelembe vette az újabb építési beruházás, illetőleg szolgáltatás becsült értékét is; ilyen beszerzési eljárást azonban csak a korábbi első szerződés megkötésétől számított három éven belül lehet indítani.
 
-(4)[^26] Könnyített beszerzési eljárást lehet tartani a rendelet hatálya alá tartozó, a közösségi közbeszerzési értékhatárok felét el nem érő beszerzés esetén.
+(4)[^29] Könnyített beszerzési eljárást lehet tartani a rendelet hatálya alá tartozó, a közösségi közbeszerzési értékhatárok felét el nem érő beszerzés esetén.
 
 (5) Az Nbtv. 63. §-ának (1) bekezdése szerinti speciális működési kiadásokból finanszírozott beszerzésekre – a nemzeti közbeszerzési értékhatárokat elérő vagy azt meghaladó beszerzéseknél az Országgyűlés illetékes bizottsága által meghozott, a Kbt. alkalmazását kizáró előzetes döntés esetén – szintén könnyített beszerzési eljárást lehet tartani.
 
-[^23]: A 14. § (1) bekezdése a 65/2007. (IV. 3.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^24]: A 14. § (2) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 15. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^25]: A 14. § (3) bekezdésének i) pontját a 65/2007. (IV. 3.) Korm. rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^26]: A 14. § (4) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 15. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^26]: A 14. § (1) bekezdése a 65/2007. (IV. 3.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^27]: A 14. § (2) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 15. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^28]: A 14. § (3) bekezdésének i) pontját a 65/2007. (IV. 3.) Korm. rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^29]: A 14. § (4) bekezdése a 82/2009. (IV. 10.) Korm. rendelet 15. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.

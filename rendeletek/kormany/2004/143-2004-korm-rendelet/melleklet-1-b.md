@@ -26,6 +26,6 @@
 
 ## cégszerű aláírás
 
-1/B. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^70]
+1/B. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^74]
 
-[^70]: Az 1/B. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 314/2009. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^74]: Az 1/B. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 314/2009. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.

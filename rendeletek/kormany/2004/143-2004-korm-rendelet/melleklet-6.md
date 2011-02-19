@@ -1,6 +1,6 @@
 ## AJÁNLATTÉTELI FELHÍVÁS
 
-## 1.[^79] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
+## 1.[^83] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
 
 ## 2. a) A választott eljárás: azonnali eljárás
 
@@ -46,13 +46,13 @@
 
 ## 9. Annak meghatározása, hogy lehet-e többváltozatú ajánlatot tenni:
 
-## 10.[^80] Az ajánlatok elbírálásának szempontjai:
+## 10.[^84] Az ajánlatok elbírálásának szempontjai:
 
 6. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez
 
 AJÁNLATTÉTELI FELHÍVÁS
 
-1.[^81] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
+1.[^85] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
 
 2. a) A választott eljárás: könnyített eljárás
 
@@ -90,9 +90,9 @@ Szakmai alkalmasság:
 
 8. Annak meghatározása, hogy lehet-e többváltozatú ajánlatot tenni:
 
-9. Az ajánlatok elbírálásának szempontjai:[^82]
+9. Az ajánlatok elbírálásának szempontjai:[^86]
 
-[^79]: Az 5. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^80]: Az 5. számú melléklet 10. pontját a 65/2007. (IV. 3.) Korm. rendelet 23. § (5) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^81]: A 6. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^82]: A 47. § (3) bekezdésében foglaltakra abban az esetben kell hivatkozni, ha az ajánlatok az összességében legelőnyösebb ajánlat szempontja alapján kerülnek elbírálásra!
+[^83]: Az 5. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^84]: Az 5. számú melléklet 10. pontját a 65/2007. (IV. 3.) Korm. rendelet 23. § (5) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^85]: A 6. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^86]: A 47. § (3) bekezdésében foglaltakra abban az esetben kell hivatkozni, ha az ajánlatok az összességében legelőnyösebb ajánlat szempontja alapján kerülnek elbírálásra!

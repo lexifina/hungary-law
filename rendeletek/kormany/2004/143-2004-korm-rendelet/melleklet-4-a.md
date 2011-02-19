@@ -1,6 +1,6 @@
 ## AJÁNLATTÉTELI FELHÍVÁS
 
-## 1.[^74] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
+## 1.[^78] Az ajánlatkérő neve, címe, telefon és telefax száma, e-mail címe:
 
 ## 2. a) A választott eljárás: kétlépcsős eljárás
 
@@ -38,10 +38,10 @@
 
 ## 8. Az ajánlattételi felhívás megküldésének napja:
 
-## 9. Az ajánlatok elbírálásának szempontjai:[^75]
+## 9. Az ajánlatok elbírálásának szempontjai:[^79]
 
-4/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^76]
+4/A. számú melléklet a 143/2004. (IV. 29.) Korm. rendelethez[^80]
 
-[^74]: A 4. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^75]: A 47. § (3) bekezdésében foglaltakra abban az esetben kell hivatkozni, ha az ajánlatok az összességében legelőnyösebb ajánlat szempontja alapján kerülnek elbírálásra.
-[^76]: A 4/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^78]: A 4. számú melléklet 1. pontja a 65/2007. (IV. 3.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^79]: A 47. § (3) bekezdésében foglaltakra abban az esetben kell hivatkozni, ha az ajánlatok az összességében legelőnyösebb ajánlat szempontja alapján kerülnek elbírálásra.
+[^80]: A 4/A. számú mellékletet a 65/2007. (IV. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be. E módosító rendelet 24. § (1) bekezdése alapján rendelkezéseit a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

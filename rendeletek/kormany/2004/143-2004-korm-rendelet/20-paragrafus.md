@@ -8,7 +8,7 @@ b) a 16. § (1) bekezdésének e) pontja esetében az érintett ország illeték
 
 c) ha az illetékes bíróság vagy hatóság nem bocsát ki az a) vagy a b) pont szerinti kivonatot vagy igazolást, vagy azok nem terjednek ki az a) pontban hivatkozott esetek mindegyikére, az ajánlattevő (részvételre jelentkező, alvállalkozó) teljes bizonyító erejű magánokiratban, vagy ha ilyen okirat nem ismert az érintett országban, az ajánlattevő (részvételre jelentkező, alvállalkozó) által az illetékes bíróság, hatóság, közjegyző, kamara vagy szakmai szervezet előtt tett nyilatkozatot;
 
-d)[^31] a 17. § (1) bekezdésének d) pontja esetében az építési beruházásra, az árubeszerzésre és a szolgáltatásmegrendelésre irányuló közbeszerzési eljárások összehangolásáról szóló 2004/18/EK irányelvnek árubeszerzés esetében a IX B. mellékletében, építési beruházás esetében a IX A. mellékletében, szolgáltatásmegrendelés esetében a IX C. mellékletében felsorolt nyilvántartások szerinti igazolást (kivonatot) vagy egyéb igazolást vagy nyilatkozatot;
+d)[^34] a 17. § (1) bekezdésének d) pontja esetében az építési beruházásra, az árubeszerzésre és a szolgáltatásmegrendelésre irányuló közbeszerzési eljárások összehangolásáról szóló 2004/18/EK irányelvnek árubeszerzés esetében a IX B. mellékletében, építési beruházás esetében a IX A. mellékletében, szolgáltatásmegrendelés esetében a IX C. mellékletében felsorolt nyilvántartások szerinti igazolást (kivonatot) vagy egyéb igazolást vagy nyilatkozatot;
 
 e) a 17. § (1) bekezdésének e) pontja esetében az engedély vagy a jogosítvány hiteles másolatát, illetőleg a szervezeti, kamarai tagságról szóló igazolást;
 
@@ -20,4 +20,4 @@ g) a Kbt. szerinti minősített ajánlattevők hivatalos jegyzéke szerinti igaz
 
 (4) Ha jogszabály a 16. § (1) bekezdése e) pontjában vagy a 17. § (2) bekezdésének hatálya alá tartozó új közterhet állapít meg, az ezzel kapcsolatos igazolást csak azokban az eljárásokban kell csatolni, amelyekben az eljárás eredményének kihirdetése a köztartozásról szóló rendelkezés hatálybalépését követő egy évnél későbbi időpontban történik.
 
-[^31]: A 20. § (2) bekezdésének d) pontja a 65/2007. (IV. 3.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^34]: A 20. § (2) bekezdésének d) pontja a 65/2007. (IV. 3.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

@@ -1,8 +1,8 @@
-## 1/A.[^48] Cím
+## 1/A.[^52] Cím
 
-## A VERSENYPÁRBESZÉD[^49]
+## A VERSENYPÁRBESZÉD[^53]
 
-61/A. §[^50] (1) Az ajánlatkérő versenypárbeszédet akkor alkalmazhat, ha
+61/A. §[^54] (1) Az ajánlatkérő versenypárbeszédet akkor alkalmazhat, ha
 
 a) a beszerzés tárgyára vonatkozó részvételi dokumentáció műszaki tartalmának meghatározására nem, vagy nem a kétlépcsős eljárásban szükséges részletességgel képes, illetőleg
 
@@ -12,6 +12,6 @@ b) a szerződés típusának, vagy jogi, illetve pénzügyi feltételeinek megha
 
 (3) A versenypárbeszédben a 26–61. §-ban foglaltakat a 61/B–61/G. §-ban foglalt eltérésekkel kell alkalmazni.
 
-[^48]: Az 1/A. Címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^49]: A 61/A. §-t megelőző címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^50]: A 61/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^52]: Az 1/A. Címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^53]: A 61/A. §-t megelőző címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^54]: A 61/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

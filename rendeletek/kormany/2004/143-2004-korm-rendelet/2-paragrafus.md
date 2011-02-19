@@ -4,7 +4,7 @@
 
 1. adatbiztonsági ellenőrzés: a cégnél elvégzett olyan ellenőrzés, melynek célja annak megállapítása, hogy a cég teljesíti-e a más jogszabályokban meghatározott, a minősített adatok védelmére vonatkozó előírásokat;
 
-2.[^5]
+2.[^6]
 
 3. ajánlattevő: az a cég, amelyik a beszerzési eljárásban ajánlatot tesz; Ajánlattevőnek minősül a külföldi székhelyű vállalkozás magyarországi fióktelepe is.
 
@@ -14,7 +14,7 @@
 
 6. államtitok, illetve szolgálati titok: az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény (továbbiakban: Ttv.) 3. §-ának (1) és 4. §-ának (1), valamint 5/B. §-ának (2)–(7) bekezdéseiben meghatározott titokfajták;
 
-7.[^6] beszerzési eljárás: az e rendeletben meghatározott kétlépcsős eljárás (versenypárbeszéd), keretmegállapodásos eljárás, azonnali eljárás, könnyített eljárás;
+7.[^7] beszerzési eljárás: az e rendeletben meghatározott kétlépcsős eljárás (versenypárbeszéd), keretmegállapodásos eljárás, azonnali eljárás, könnyített eljárás;
 
 8. cég: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság vagy személyes joga szerint jogképes szervezet, aki, illetőleg amely a jegyzékbe való bekerülés, illetve részvételre jelentkezés céljából előzetes minősítési kérdőívet tölt ki; a részvételre jelentkezik; a beszerzési eljárásban ajánlatot tesz, vagy a tárgyalásra meghívják;
 
@@ -32,11 +32,11 @@
 
 15. irányadó jegyzék: az ellenőrzésre jogosult ajánlatkérők és a Külügyminisztérium esetében a saját maguk által vezetett jegyzék, ellenőrzésre nem jogosult ajánlatkérő esetében az illetékes nemzetbiztonsági szolgálat által vezetett jegyzék;
 
-15/A.[^7] írásbeli konzultáció: írásbeli egyeztetés az e rendelet 4/C. számú mellékletében meghatározott feltételek összességéről;
+15/A.[^8] írásbeli konzultáció: írásbeli egyeztetés az e rendelet 4/C. számú mellékletében meghatározott feltételek összességéről;
 
 16. különleges biztonsági intézkedés: különleges biztonsági intézkedést igényel a beszerzés, ha a beszerzés tárgyának előállításánál, az előállításhoz szükséges alapanyagok és termékek szállításánál, illetőleg a felhasználásnál, a beszerzés tárgyának szállításánál hatóság vagy jogszabály különleges követelményt ír elő, illetve az általánostól eltérő élőerős vagy technikai ellenőrzés szükséges;
 
-17. Minősített NATO Beszállító: az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet alapján kiadott ,,Minősített NATO Beszállításra Alkalmas'' határozattal rendelkező cég;
+17.[^9]
 
 18. nemzetbiztonsági ellenőrzés: az Nbtv. 68. §-ában meghatározott ellenőrzés;
 
@@ -44,16 +44,17 @@
 
 20. pénzügyi-gazdasági ellenőrzés: az ajánlatkérő által elvégzett ellenőrzés, melynek célja annak megállapítása, hogy a cég pénzügyi-gazdasági szempontból alkalmas-e a szerződés teljesítésére;
 
-20/A.[^8] részvételi dokumentáció: az ajánlatkérő által a kétlépcsős eljárás, illetve a versenypárbeszéd részvételi szakaszában a megfelelő részvételi jelentkezés benyújtásának érdekében készíthető, egyebek mellett a részletes szerződési feltételeket vagy a szerződéstervezetet, valamint a beszerzés tárgyára vonatkozó műszaki követelményeket tartalmazó dokumentum;
+20/A.[^10] részvételi dokumentáció: az ajánlatkérő által a kétlépcsős eljárás, illetve a versenypárbeszéd részvételi szakaszában a megfelelő részvételi jelentkezés benyújtásának érdekében készíthető, egyebek mellett a részletes szerződési feltételeket vagy a szerződéstervezetet, valamint a beszerzés tárgyára vonatkozó műszaki követelményeket tartalmazó dokumentum;
 
 21. részvételre jelentkező: az a cég, amelyik a kétlépcsős eljárás részvételi szakaszában a részvételre jelentkezik;
 
 22. személyellenőrzés: az illetékes nemzetbiztonsági szolgálat által az előzetes minősítési kérdőívben megjelölt személyeknek a külön jogszabály felhatalmazása alapján rendelkezésre álló adatkezelési rendszerekben történő ellenőrzése abból a célból, hogy az adott személy bevonása az e rendelet szerinti beszerzési eljárásokba jelent-e nemzetbiztonsági kockázatot;
 
-23.[^9] teljesítési segéd: az a cég, akit az alvállalkozó a nyertes ajánlattevővel kötött szerződés teljesítése céljából vesz igénybe, továbbá az is, akinek a közreműködése – akár a beszerzési eljárás alapján létrejött szerződés megkötését megelőzően is – hozzájárul ahhoz, hogy az alvállalkozó a nyertes ajánlattevővel kötött szerződésben vállalt kötelezettségét teljesítse, feltéve hogy a teljesítési segéddel akár közvetlen, akár a szerződési láncolat távolabbi résztvevőjeként közvetett szerződéses jogviszonyban áll.
+23.[^11] teljesítési segéd: az a cég, akit az alvállalkozó a nyertes ajánlattevővel kötött szerződés teljesítése céljából vesz igénybe, továbbá az is, akinek a közreműködése – akár a beszerzési eljárás alapján létrejött szerződés megkötését megelőzően is – hozzájárul ahhoz, hogy az alvállalkozó a nyertes ajánlattevővel kötött szerződésben vállalt kötelezettségét teljesítse, feltéve hogy a teljesítési segéddel akár közvetlen, akár a szerződési láncolat távolabbi résztvevőjeként közvetett szerződéses jogviszonyban áll.
 
-[^5]: A 2. § 2. pontját a 248/2004. (VIII. 27.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^6]: A 2. § 7. pontja a 65/2007. (IV. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § 15/A. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 2. § 20/A. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § 23. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^6]: A 2. § 2. pontját a 248/2004. (VIII. 27.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^7]: A 2. § 7. pontja a 65/2007. (IV. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § 15/A. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § 17. pontját a 8/2011. (II. 11.) Korm. rendelet 22. §-a hatályon kívül helyezte.
+[^10]: A 2. § 20/A. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § 23. pontját a 65/2007. (IV. 3.) Korm. rendelet 1. § (4) bekezdése iktatta be.

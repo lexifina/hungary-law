@@ -1,4 +1,4 @@
-56/A. §[^46] (1) Az ajánlatkérő az ajánlatok 55. § (4) és (5) bekezdése szerinti értékelését követően tárgyalást kezdeményezhet, ha
+56/A. §[^50] (1) Az ajánlatkérő az ajánlatok 55. § (4) és (5) bekezdése szerinti értékelését követően tárgyalást kezdeményezhet, ha
 
 a) egyik ajánlattevő sem vagy az összességében legelőnyösebb ajánlatot tevő sem tett – az ajánlatkérő rendelkezésére álló anyagi fedezet mértékére tekintettel – megfelelő ajánlatot, vagy
 
@@ -18,4 +18,4 @@ d) az ajánlatok bírálati szempontja az összességében legelőnyösebb aján
 
 (6) A tárgyalás során nem áll fenn az ajánlattevőnek, illetőleg az ajánlatkérőnek a 15. § (1) bekezdés szerinti ajánlati kötöttsége. Az ajánlati kötöttség a tárgyalások befejezésével jön létre. Ha az ajánlatkérő az eljárás eredményét kihirdette, a szerződést az ajánlattételi felhívásnak, illetőleg az ajánlattételi dokumentációnak és az ajánlatnak a tárgyalás befejezéskori tartalma szerint kell megkötni.
 
-[^46]: Az 56/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^50]: Az 56/A. §-t a 65/2007. (IV. 3.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.

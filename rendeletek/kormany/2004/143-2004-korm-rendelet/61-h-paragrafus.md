@@ -1,10 +1,10 @@
-## 1/B.[^59] Cím
+## 1/B.[^63] Cím
 
-## A KERETMEGÁLLAPODÁSOS ELJÁRÁS[^60]
+## A KERETMEGÁLLAPODÁSOS ELJÁRÁS[^64]
 
-## Az eljárás két része[^61]
+## Az eljárás két része[^65]
 
-61/H. §[^62] (1) A keretmegállapodásos eljárás két részből áll. Az első részben az ajánlatkérő(k) a 26–61. § szerinti kétlépcsős eljárást köteles(ek) alkalmazni keretmegállapodás megkötése céljából. A második részben az ajánlatkérő a keretmegállapodásban meghatározott beszerzési tárgyra kér ajánlato(ka)t és köt szerződést az adott beszerzés(ek) megvalósítására.
+61/H. §[^66] (1) A keretmegállapodásos eljárás két részből áll. Az első részben az ajánlatkérő(k) a 26–61. § szerinti kétlépcsős eljárást köteles(ek) alkalmazni keretmegállapodás megkötése céljából. A második részben az ajánlatkérő a keretmegállapodásban meghatározott beszerzési tárgyra kér ajánlato(ka)t és köt szerződést az adott beszerzés(ek) megvalósítására.
 
 (2) Keretmegállapodás egy ajánlattevővel, illetve több ajánlattevővel köthető. Az ajánlatkérő a 61/I. § (3) bekezdésének a) pontja szerinti esetben az első rész végén köteles az első részben alkalmazott bírálati szempont alapján az ajánlattevőket rangsorolni.
 
@@ -18,7 +18,7 @@
 
 (7) Tilos versenykorlátozási céllal alkalmazni a keretmegállapodásos eljárást.
 
-[^59]: Az 1/B. Címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^60]: A 61/H. §-t megelőző címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^61]: A 61/H. §-t megelőző alcímet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
-[^62]: A 61/H. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^63]: Az 1/B. Címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^64]: A 61/H. §-t megelőző címet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^65]: A 61/H. §-t megelőző alcímet a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
+[^66]: A 61/H. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
