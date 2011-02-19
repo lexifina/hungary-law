@@ -1,5 +1,3 @@
-## A regionális képző központok kiemelt működési területe Alapító Okiratuk alapján
-
 ## Békéscsabai Regionális Képző Központ:
 
 ## – Békés megye

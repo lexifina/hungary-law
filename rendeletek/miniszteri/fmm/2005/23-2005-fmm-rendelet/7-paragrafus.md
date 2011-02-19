@@ -1,5 +1,3 @@
-## 6. §[^20] A képző központ élén az igazgató áll, akit a Hivatal főigazgatójának, valamint a Minisztérium államtitkárának javaslatára, a képző központ többi alapító szervének egyetértésével a miniszter nevez ki, valamint gyakorolja vele szemben a jogviszony megszüntetésének jogát. Az igazgatóval kapcsolatos egyéb munkáltatói jogokat a Hivatal főigazgatója gyakorolja.
-
 ## A képző központ és a munkaügyi központ
 
 ## együttműködése
@@ -23,5 +21,3 @@ e) a képzések, szolgáltatások eredményességére jellemző mutatókat főbb
 f) egyéb, a képzéssel, valamint a szolgáltatással kapcsolatos lényeges vagy speciális feltételeket.
 
 (4) A képző központ és a munkaügyi központ megállapodása alapján, a képző központ által lebonyolított képzésben résztvevő személyek képzési támogatására az Flt., valamint a felhatalmazása alapján kiadott jogszabály rendelkezéseit kell alkalmazni azzal, hogy a képzéssel kapcsolatos étkezést, szállást és utazást a képző központ biztosítja a képzésben résztvevő személy részére. Ez utóbbiak ellenértékéről a képző központ tájékoztatja az illetékes munkaügyi központot.
-
-[^20]: A 6. § a 22/2007. (V. 23.) SZMM rendelet 4. §-ával megállapított, valamint a 2/2009. (II. 10.) SZMM rendelet 10. § (4) bekezdése szerint módosított szöveg.

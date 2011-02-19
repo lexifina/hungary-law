@@ -14,7 +14,7 @@ a) a képző központok részére a képzéssel kapcsolatos feladataik ellátás
 
 b) a munkaügyi központok részére a képzésben résztvevők részére fizetendő juttatások kifizetéséhez szükséges forrást – az Munkaerőpiaci Alap szabályai szerinti – heti pénzigénylés keretében
 
-## biztosítja.
+biztosítja.
 
 (4) A képző központok részére a pénzeszközátadás a feladatfinanszírozási és a képzésbe kerülők ellátását biztosító elkülönített keret terhére működési célú pénzeszközátadásként, a fejlesztési elkülönített keret terhére pedig csak felhalmozási célú pénzeszközátadásként teljesíthető.
 

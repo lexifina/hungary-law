@@ -1,11 +1,3 @@
-## 1. §[^1] A rendelet hatálya kiterjed
+1. §[^2]
 
-a) a szakképzésért felelős miniszter által vezetett minisztériumra (a továbbiakban: Minisztérium),
-
-b) a Foglalkoztatási Hivatalra (a továbbiakban: Hivatal),
-
-c) a fővárosi és megyei kormányhivatal munkaügyi központra (a továbbiakban: munkaügyi központ), valamint
-
-d) a regionális képző központra (a továbbiakban: képző központ).
-
-[^1]: Az 1. § a 27/2010. (XII. 31.) NGM rendelet 46. §-ával megállapított szöveg.
+[^2]: Az 1. §-t a 3/2011. (II. 11.) KIM rendelet 6. § (1) bekezdése hatályon kívül helyezte.

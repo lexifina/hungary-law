@@ -10,7 +10,7 @@ a) a 3. § (1) bekezdésének e)–g) pontjában meghatározott feladatok kivét
 
 b) a képző központ képzési feltételeinek fejlesztéséhez kapcsolódó beruházás és fejlesztés,
 
-c)[^21] a képző központ és a munkaügyi központ megállapodása alapján lebonyolított képzésekben részt vevők részére, az Flt.-ben és a felhatalmazása alapján kiadott jogszabályban meghatározott képzési támogatás, valamint a keresetpótló juttatással kapcsolatos postaköltség és a képzésben részt vevők foglalkozás-egészségügyi vizsgálatának költségei.
+c)[^9] a képző központ és a munkaügyi központ megállapodása alapján lebonyolított képzésekben részt vevők részére, az Flt.-ben és a felhatalmazása alapján kiadott jogszabályban meghatározott képzési támogatás, valamint a keresetpótló juttatással kapcsolatos postaköltség és a képzésben részt vevők foglalkozás-egészségügyi vizsgálatának költségei.
 
 (3) A képző központ által lebonyolított képzések, valamint az általa nyújtott szolgáltatások költségeit a képzési keret terhére a 2. számú mellékletben meghatározott költségnormák alapján kell elszámolni. A normákat tárgyévet megelőző év június 30-áig felül kell vizsgálni.
 
@@ -28,4 +28,6 @@ e) folyamatos szakmai irányításával és ellenőrzése mellett,
 
 f) a képző központtal közalkalmazotti jogviszonyban álló, vagy a képző központ által rendszeresen foglalkoztatott személy közreműködésével,
 
-[^21]: A 9. § (2) bekezdésének c) pontja a 22/2007. (V. 23.) SZMM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést 2007. január 1-jétől kell alkalmazni.
+valósul meg.
+
+[^9]: A 9. § (2) bekezdésének c) pontja a 22/2007. (V. 23.) SZMM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést 2007. január 1-jétől kell alkalmazni.
