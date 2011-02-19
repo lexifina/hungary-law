@@ -1,0 +1,3 @@
+## 8. §[^28] A kérelmet a gazdálkodó szervezet a közzététel évében meghatározott feltételeknek megfelelően, az 5. § (1) bekezdésének b) pontja szerinti összeg befizetésének egyidejű igazolásával, a közzététel évének november 30. napjáig a honvédelemért felelős miniszterhez postai úton nyújthatja be.
+
+[^28]: A 8. § a 117/2007. (V. 31.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
