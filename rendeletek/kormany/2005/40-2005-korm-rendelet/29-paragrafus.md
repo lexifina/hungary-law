@@ -4,7 +4,7 @@
 
 ## A BESZERZÉSI ELJÁRÁS ALAPJÁN MEGKÖTÖTT SZERZŐDÉS MÓDOSÍTÁSA, TELJESÍTÉSE, ELLENŐRZÉSE
 
-29. § (1) A Kbt. 303–308. §-ai e fejezetben az alábbi eltérésekkel alkalmazandók.
+29. § (1)[^27] A Kbt. 303–308. §-át az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az ajánlatkérő a szerződés teljesítéséről, a szerződés módosításáról köteles értesíteni a BBB-t.
 
@@ -13,3 +13,5 @@
 (4) A szerződés módosításáról, teljesítéséről tájékoztatót nem kell készíteni, illetve a tájékoztatót a Közbeszerzési Értesítőben nem kell megjelentetni.
 
 (5) Az ajánlatkérő köteles a külön jogszabályban meghatározott illetékes nemzeti vagy NATO-szervek ellenőrzésre felhatalmazott képviselői részére a beszerzési eljárásokkal kapcsolatos összes dokumentumba a betekintést biztosítani.
+
+[^27]: A 29. § (1) bekezdése a 8/2011. (II. 11.) Korm. rendelet 12. §-ával megállapított szöveg.

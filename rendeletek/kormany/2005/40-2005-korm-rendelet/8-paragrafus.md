@@ -1,11 +1,10 @@
 ## III. Fejezet
 
-## A NEMZETI KÖZBESZERZÉSI ELJÁRÁS ÉRTÉKHATÁRAIT ELÉRŐ VAGY AZT MEGHALADÓ BESZERZÉSEKRE VONATKOZÓ RENDELKEZÉSEK
+## A NEMZETI ÉRTÉKHATÁROKAT ELÉRŐ VAGY AZT MEGHALADÓ ÉRTÉKŰ BESZERZÉSEKRE VONATKOZÓ RENDELKEZÉSEK[^19]
 
-## A nyílt eljárás
+8. §[^20] (1) A Kbt. 21–99/A. §-át, valamint 240–254. §-át az e fejezetben meghatározott eltérésekkel, megfelelően kell alkalmazni.
 
-8. § (1) A Kbt. 21–99. §-át, valamint 240–254. §-át az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+(2) Az (1) bekezdésben meghatározott rendelkezések közül a Kbt. 21–23. §-át, 26. §-át, 30–34. §-át, 38/A. §-át, 39/A. §-át, 41. § (3) bekezdését, 42–47. §-át, 51. § (2) bekezdését, 54. § (7)–(8) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 74. § (1)–(5) bekezdését, 86. § (7) bekezdését, 92. § g) pontját, 93. § (3) bekezdését, 96. §-át és 98. §-át e fejezet alkalmazása során nem kell alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott rendelkezések közül a Kbt. 21–23. §-át, 26. §-át, 30–34. §-át, 41. §-ának (3) bekezdését, 42–47. §-át, 51. §-ának (2) bekezdését, 54. §-ának (3)–(4) bekezdését, 74. §-ának (1) bekezdését, 86. §-ának (4) bekezdését, 87. §-ának (4) bekezdését, 88. §-ának (3) bekezdését, 92. §-ának f)–g) pontját, 93. §-ának (3) bekezdését, 96. §-át, 247–251. §-át, 253. §-át, 254. §-a (1) bekezdésének b) pontját e fejezet alkalmazása során nem kell alkalmazni.
-
-(3) E fejezetben az építési koncesszióra (Kbt. 137–144. §, 265. §), az egyszerűsített eljárásra (Kbt. 145–153. §, 268–269. §), a tervpályázati eljárásra (Kbt. 154–160. §, 270. §), a keret-megállapodásos eljárásra (Kbt. 259–264. §), a szolgáltatási koncesszióra (Kbt. 266–267. §) vonatkozó szabályokat nem kell alkalmazni.
+[^19]: A III. Fejezet címe a 8/2011. (II. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 8. § a 8/2011. (II. 11.) Korm. rendelet 7. §-ával megállapított szöveg. A 8. §-t megelőző alcímet a 8/2011. (II. 11.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.

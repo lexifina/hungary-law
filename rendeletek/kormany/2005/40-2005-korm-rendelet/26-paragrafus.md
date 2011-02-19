@@ -1,7 +1,3 @@
-## VI. Fejezet
+## VI. Fejezet[^26]
 
-## AZ EGYSZERŰ KÖZBESZERZÉSI ELJÁRÁS ÉRTÉKHATÁRAIT ELÉRŐ VAGY MEGHALADÓ BESZERZÉSEKRE VONATKOZÓ RENDELKEZÉSEK
-
-26. § (1) A Kbt. 292–300. §-át az e fejezetben meghatározott eltérésekkel kell alkalmazni.
-
-(2) A Kbt.-nek az (1) bekezdésben meghatározott rendelkezései közül a 299. § (1) bekezdésének a) pontját, valamint a 300. §-ának (1) bekezdését e fejezet alkalmazása során nem kell alkalmazni.
+[^26]: A VI. Fejezetet (a 26–27. §-t) a 8/2011. (II. 11.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.

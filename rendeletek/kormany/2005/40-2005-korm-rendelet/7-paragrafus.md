@@ -1,5 +1,5 @@
-7. § (1) E rendelet alkalmazásában hirdetmény közzétételén a NATO Beszállítói Információs Honlapon[^8] (a továbbiakban: honlap) történő megjelenést kell érteni. E rendelet szerinti beszerzési eljárásokban a Közbeszerzési Értesítő, az Európai Közösségek Hivatalos Kiadványai Hivatala általi hirdetményi közzétételre vonatkozó szabályokat nem kell alkalmazni.
+7. §[^18] (1) E rendelet alkalmazásában az előzetes összesített tájékoztatót tartalmazó hirdetmény, a beszerzési eljárást megindító hirdetmény és az eljárás eredményéről szóló tájékoztatást tartalmazó hirdetmény közzétételén a NATO Beszállítói Információs Honlapon (a továbbiakban: honlap) történő megjelenést kell érteni. E rendelet szerinti beszerzési eljárásokban a Közbeszerzési Értesítő, az Európai Unió Kiadóhivatala általi hirdetményi közzétételre vonatkozó szabályokat nem kell alkalmazni.
 
-(2) A hirdetmények mintáit e rendelet 1–4. számú mellékletei tartalmazzák. A hirdetmény honlapon történő megjelenésének napja egyben a hirdetmény közzétételének, az eljárás megindításának kezdőnapja is. Hirdetmény nélküli tárgyalásos eljárás esetében az eljárás megindításának kezdőnapja az ajánlattételi felhívás megküldésének napja.
+(2) A hirdetmények mintáit az 1–5. számú mellékletek tartalmazzák. A hirdetmény honlapon történő megjelenésének napja egyben a hirdetmény közzétételének, az eljárás megindításának kezdőnapja is. Hirdetmény nélküli tárgyalásos eljárás esetében az eljárás megindításának kezdőnapja az ajánlattételi felhívás megküldésének napja.
 
-[^8]: Jelenleg a www.khvtkht.hu URL címen érhető el.
+[^18]: A 7. § a 8/2011. (II. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
