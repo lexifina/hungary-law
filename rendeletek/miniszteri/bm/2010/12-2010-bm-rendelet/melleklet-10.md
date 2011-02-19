@@ -26,7 +26,7 @@
 
 ## igen
 
-## nem[^1]
+## nem[^7]
 
 ## amennyiben a tartózkodási engedély iránti kérelem tárgyában jogerős és végrehajtható elutasító döntés születik.
 
@@ -34,4 +34,4 @@
 
 10. melléklet a 12/2010. (XII. 23.) BM rendelethez
 
-[^1]: A megfelelő rész aláhúzandó
+[^7]: A megfelelő rész aláhúzandó

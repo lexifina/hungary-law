@@ -8,6 +8,9 @@
 
 24. § (1) E rendelet – a (2)–(3) bekezdésben meghatározottak kivételével – 2010. december 24-én lép hatályba.
 
-(2) A 21. § (2) bekezdése, valamint a 12. melléklet I. pont 1–2. és 4. pontja 2011. április 5-én lép hatályba.
+(2)[^3] A 21. § (2) bekezdése 2011. április 5-én lép hatályba.
 
-(3) Az 1. §, a 2. §, a 3. §, a 12. §, az 1. melléklet, valamint a 12. melléklet II. pont 4–6. pontja, III. pontja és az V. pont 2–9. pontja 2011. május 20-án lép hatályba.
+(3)[^4] Az 1. §, a 2. §, a 3. §, a 12. § és az 1. melléklet 2011. május 20-án lép hatályba.
+
+[^3]: A 24. § (2) bekezdése az 1/2011. (II. 18.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: A 24. § (3) bekezdése az 1/2011. (II. 18.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
