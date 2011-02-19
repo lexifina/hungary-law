@@ -5,3 +5,7 @@
 (3) Az 1. mellékletben felsorolt gyümölcs ültetvények esetében a referenciaterület megállapításánál figyelembe vehető minimális hektáronkénti tőszámot, valamint az ültetvény életkorát a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) igazolja, amelyet az (1) bekezdés szerinti nyilatkozathoz mellékelni kell. Ha ez az igazolás annak benyújtásakor még nem állt a termelő rendelkezésére, akkor arról kell nyilatkoznia, hogy az eljárást megindította. Ebben az esetben az igazolást az MgSzH a termelőn kívül az MVH-nak is megküldi.
 
 (4) Az MVH a szerkezetátalakítási program hatálya alá tartozó referenciaterületek körét a termelő 2009. évi egységes terület alapú (SAPS), valamint az ahhoz kapcsolódó kiegészítő támogatásra (top up) való jogosultsága jogerős megállapítását követően és annak alapján a (2) bekezdés szerinti nyilatkozatban foglaltaktól eltérően is megállapíthatja azzal, hogy a termelő szerkezetátalakítási program hatálya alá tartozó referenciaterülete nem lehet nagyobb, mint amit a termelő (2) bekezdésben foglaltak szerinti nyilatkozatában megjelölt.
+
+(5)[^2] A szerkezetátalakítási programban részt vehet az a termelő, amely vagy aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy az e rendeletben meghatározott egyéb feltételeknek megfelel.
+
+[^2]: A 3. § (5) bekezdését a 12/2011. (II. 18.) VM rendelet 10. § (1) bekezdése iktatta be.

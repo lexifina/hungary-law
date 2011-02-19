@@ -1,8 +1,8 @@
-4. §[^2] (1) A szerkezetátalakítási programban résztvevő termelő a támogatási időszak teljes időtartama alatt köteles:
+4. §[^3] (1) A szerkezetátalakítási programban résztvevő termelő a támogatási időszak teljes időtartama alatt köteles:
 
 a) naptári évente a jogosult településen található, és az őt megillető támogatási jogosultságok számával megegyező, hektárban megállapított területnagyság figyelembevételével az EMGA-ból finanszírozott egységes területalapú támogatást igénybe venni, és
 
-b) 2011-től kezdődően évente február 15-ig az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon a személyi azonosításhoz szükséges adatokon túl nyilatkozni arról, hogy tárgyévben mely településen, milyen elismert tevékenységet kíván folytatni, és
+b)[^4] 2011-től kezdődően évente az egységes kérelem keretében nyilatkozni arról, hogy a tárgyévben mely településen, milyen elismert tevékenységet kíván folytatni, és
 
 c) az elismert tevékenység keretében
 
@@ -36,4 +36,5 @@ b) 30/A. § (2) bekezdése alapján fizette meg, és eléri az a) pontban meghat
 
 (7) Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Eftv.) alapján megfizetett napi közteher – eltérő megállapodás hiányában – teljes munkaidőben történő foglalkoztatásnak minősül.
 
-[^2]: A 4. § a 48/2010. (XII. 31.) VM rendelet 6. §-ával megállapított szöveg.
+[^3]: A 4. § a 48/2010. (XII. 31.) VM rendelet 6. §-ával megállapított szöveg.
+[^4]: A 4. § (1) bekezdés b) pontja a 12/2011. (II. 18.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

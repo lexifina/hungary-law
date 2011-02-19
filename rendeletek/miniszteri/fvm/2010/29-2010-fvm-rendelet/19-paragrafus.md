@@ -1,4 +1,4 @@
-## 18/A. §[^7] E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 48/2010. (XII. 31.) VM rendelettel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+## 18/B. §[^10] E rendeletnek a zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet, a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 9/2010. (VIII. 4.) VM rendelet módosításáról, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 12/2011. (II. 18.) VM rendelet (a továbbiakban: módosító rendelet) 10. §-ával megállapított 3. § (5) bekezdését, valamint 10. §-ával módosított 4. § (1) bekezdésének b) pontját a módosító rendelet hatálybelépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 19. § Ez a rendelet
 
@@ -10,4 +10,5 @@ c) a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási é
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^7]: A 18/A. §-t a 48/2010. (XII. 31.) VM rendelet 8. §-a iktatta be.
+[^10]: A 18/B. §-t a 12/2011. (II. 18.) VM rendelet 13. §-a iktatta be.
+[^11]: A hatálybalépés napja: 2011. február 19.
