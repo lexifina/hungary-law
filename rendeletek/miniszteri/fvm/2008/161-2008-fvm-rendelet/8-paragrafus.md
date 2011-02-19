@@ -1,6 +1,6 @@
 ## A támogatás jogosultja
 
-8. §[^13] (1) Támogatási, illetve előzetes kifizetés iránti kérelmet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki (amely) a szerkezetátalakításban részesíteni kívánt (részesített) ültetvény használója.
+8. §[^22] (1) Támogatási kérelmet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki (amely) a szerkezetátalakításban részesített ültetvény használója.
 
 (2) A támogatási kérelem az alábbi adatokat tartalmazza:
 
@@ -12,16 +12,4 @@ c) a tevékenységgel érintett ültetvény részletezése (borvidék, helység,
 
 d) a tevékenység végrehajtása során elvégzett műveletek.
 
-(3) Az előzetes kifizetés iránti kérelem az alábbi adatokat tartalmazza:
-
-a) a kérelmező azonosításához szükséges adatok (ügyfél regisztrációs szám, név, cím, kapcsolattartási információk);
-
-b) a tevékenység megjelölése;
-
-c) nyilatkozat a támogatási kérelem következő borpiaci évre történő átviteléről;
-
-d) a tevékenységgel érintett ültetvény részletezése (borvidék, helység, helyrajzi szám, a helyrajzi számhoz tartozó telepítési engedély száma, a tevékenységgel érintett területnagyság);
-
-e) a tevékenység végrehajtása során elvégezni kívánt műveletek.
-
-[^13]: A 8. § a 134/2009. (X. 14.) FVM rendelet 5. §-ával megállapított szöveg.
+[^22]: A 8. § a 13/2011. (II. 18.) VM rendelet 4. §-ával megállapított szöveg.

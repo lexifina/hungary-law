@@ -6,10 +6,12 @@ b) hatóságilag ellenőrzött, igazolt eredetű alapanyag felhasználásával, 
 
 c) más uniós tagállamban előállított, a hazai minőségi előírásoknak minden tekintetben megfelelő ültetési anyag.
 
-(2)[^25] A 2. § c)–d) pontjai szerinti tevékenységekhez tartozó tőkepótlás műveletre kizárólag abban az esetben adható támogatás, amennyiben a pótolt tőkék aránya meghaladja az ültetvény tőkeállományának 5%-át.
+(2)[^35] A 2. § c) pontja szerinti tevékenységhez tartozó tőkepótlás műveletre kizárólag abban az esetben adható támogatás, ha a pótolt tőkék aránya meghaladja az ültetvény tőkeállományának 5%-át. Az (1) bekezdéstől eltérően a 2. § c) pontja szerinti tevékenység esetén filoxéra immunis talajon a tőkepótlás bujtással is elvégezhető.
 
-(3) A 2. § c)–d) pontjai szerinti tevékenységek esetén kizárólag új, korábban nem használt alapanyagok beszerzése, illetve felhasználása támogatható.
+(3)[^36] A 2. § c) pontja szerinti tevékenység esetén kizárólag új, korábban nem használt alapanyagok beszerzése, valamint felhasználása támogatható.
 
-(4) A 2. § a)–b) pontjai szerint tevékenységekhez tartozó erózióvédelem műveletre csak az átlagosan 3%-nál nagyobb lejtésű területeken, speciálisan e célra szolgáló anyagok felhasználására, illetve munkák elvégzésére (talajtakarás, műszaki létesítmények) adható támogatás.
+(4)[^37]
 
-[^25]: A 17. § (2) bekezdése a 134/2009. (X. 14.) FVM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.
+[^35]: A 17. § (2) bekezdése a 13/2011. (II. 18.) VM rendelet 10. §-ával megállapított szöveg.
+[^36]: A 17. § (3) bekezdése a 13/2011. (II. 18.) VM rendelet 10. §-ával megállapított szöveg.
+[^37]: A 17. § (4) bekezdését a 13/2011. (II. 18.) VM rendelet 18. § (1) bekezdése hatályon kívül helyezte.

@@ -1,10 +1,10 @@
 ## Ültetvényleltár
 
-## Ültetvény helye (helység és helyrajzi szám):
+## Ültetvény helye (helyrajzi szám):
 
-## Sortávolság: méter
+## Sortávolság:  . méter
 
-## Tőtávolság: méter
+## Tőtávolság:   méter
 
 ## Művelésmód:
 
@@ -26,24 +26,8 @@
 
 | Összesen: |  |  |
 
-## * A tőkehelyek számát a 161/2008. (XII. 18.) FVM rendelet 2. § c)–d) pontjai szerinti tevékenységek esetén is ki kell tölteni!
+## * A tőkehelyek számát minden tevékenység esetén ki kell tölteni!
 
-7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^39]
+7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^51]
 
-Nyilatkozat
-
-Alulírott ................................................................. (név) (MVH regisztrációs szám: , cím:
-
-...........................................................) a jelen nyilatkozathoz tartozó a biztosítékfeloldás iránti kérelemnek az MVH által történő jóváhagyása esetén kérem a kapcsolódó
-
-a) ....................... Ft összegű készpénz biztosíték visszautalását az MVH ügyfél-nyilvántartási rendszerben rögzített pénzforgalmi bankszámlámra.
-
-b) ....................... számú bankgarancia megszüntetését és a bankgarancia eredeti példányának .......................... (ügyfél vagy pénzintézet) részére .................................... címre történő visszaküldését.
-
-Kelt: ...................................... (helység, dátum)
-
-......................................................
-
-aláírás
-
-[^39]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmekre kell alkalmazni.
+[^51]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, a 13/2011. (II. 18.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.

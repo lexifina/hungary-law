@@ -6,6 +6,8 @@ a) fajtaváltás,
 
 b) ültetvény áttelepítése,
 
-c) ültetvény támrendszerének létesítése,
+c) ültetvény támrendszerének létesítése.
 
-d) ültetvény támrendszerének korszerűsítése.
+d)[^8]
+
+[^8]: A 2. § d) pontját a 13/2011. (II. 18.) VM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
