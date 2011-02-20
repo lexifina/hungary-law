@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-02-19 | 2011-12-20-2Y.1 | 12/2011. (II. 18.) VM rendelet |
+| 2011-02-20 | 2011-12-20-2Y.2 | 2010: CXXX. törvény |

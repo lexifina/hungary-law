@@ -1,7 +1,0 @@
-## 11. § Az R1. a következő 13. §-sal egészül ki:
-
-## „13. § (1) E rendeletnek a zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet, a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 9/2010. (VIII. 4.) VM rendelet, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 12/2011. (II. 18.) VM rendelet (a továbbiakban: módosító rendelet) 1. §-ával módosított 2. §-át a módosító rendelet hatálybelépésekor folyamatban lévő ügyekben és a módosító rendelet hatálybalépését követően benyújtott kérelmek esetében is alkalmazni kell.
-
-## (2) E rendeletnek a módosító rendelet 2. §-ával módosított 4. §-át, 3. §-ával megállapított 5. § (3) bekezdését, 4. §-ával módosított 6. §-ának (1), (3), (4), (5) bekezdését és 7. §-át, 5. §-ával módosított 9. § (1) bekezdését, valamint 5. §-ával megállapított 9. § (4) bekezdését a módosító rendelet hatálybalépését követően benyújtott, a 2011. évben megvalósított beruházásokra vonatkozó kérelmek esetében kell alkalmazni.
-
-## (3) E rendeletnek a módosító rendelet 4. §-ával módosított 6. §-ának (2) bekezdését a módosító rendelet hatálybalépését követően benyújtott, a módosító rendelet hatálybalépését követően megkezdett beruházásokra vonatkozó kérelmek esetében kell alkalmazni.”

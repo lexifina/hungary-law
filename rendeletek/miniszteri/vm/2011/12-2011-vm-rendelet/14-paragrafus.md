@@ -1,6 +1,4 @@
-## 13. § Az R3. a következő 18/B. §-sal egészül ki:
-
-## „18/B. § E rendeletnek a zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet, a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 9/2010. (VIII. 4.) VM rendelet módosításáról, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 12/2011. (II. 18.) VM rendelet (a továbbiakban: módosító rendelet) 10. §-ával megállapított 3. § (5) bekezdését, valamint 10. §-ával módosított 4. § (1) bekezdésének b) pontját a módosító rendelet hatálybelépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+## 7–13. §[^3]
 
 14. § (1) Ez a rendelet – a 6. § kivételével – a kihirdetését követő napon lép hatályba.
 
@@ -49,3 +47,5 @@ A támogatási kérelem adattartalma és a csatolandó dokumentumok
 6.2. A tagjegyzékben bekövetkezett változásokat tartalmazó dokumentum.
 
 6.3. Az elszámolni kívánt beruházási számlák másolati példánya.”
+
+[^3]: A 7–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
