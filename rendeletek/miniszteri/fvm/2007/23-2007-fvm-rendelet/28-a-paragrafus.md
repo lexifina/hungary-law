@@ -1,4 +1,4 @@
-28/A. §[^125] (1) A 2. § (1) bekezdés e) és h) pontjaiban felsorolt jogcímek esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, az a fiatal mezőgazdasági termelő, akinek ezt a minőségét az IH határozatban megállapítja, vagy e rendelet 3. § 30. pont b) alpontja értelmében fiatal mezőgazdasági termelőnek minősül, többlettámogatás igénybevételére jogosult. A 2. § (2) bekezdésében felsorolt jogcímek esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, a fiatal mezőgazdasági termelő az értékelés során többletpontokra jogosult.
+28/A. §[^126] (1) A 2. § (1) bekezdés e) és h) pontjaiban felsorolt jogcímek esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, az a fiatal mezőgazdasági termelő, akinek ezt a minőségét az IH határozatban megállapítja, vagy e rendelet 3. § 30. pont b) alpontja értelmében fiatal mezőgazdasági termelőnek minősül, többlettámogatás igénybevételére jogosult. A 2. § (2) bekezdésében felsorolt jogcímek esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, a fiatal mezőgazdasági termelő az értékelés során többletpontokra jogosult.
 
 (2) A 3. § 30. pont a) alpontja szerint fiatal mezőgazdasági termelő lehet az a természetes személy, aki
 
@@ -10,7 +10,7 @@ c) az 5/a. számú mellékletben felsorolt szakképesítések, illetve az 5/b. s
 
 d) a 6. számú melléklet szerinti üzleti terv értékelése során legalább 30 pontot elér.
 
-(3)[^126] A kérelmet az IH által rendszeresített, az FVM honlapján közzétett formanyomtatványon az IH-hoz kell benyújtani. A kérelem benyújtása folyamatos. A formanyomtatványt a következő adattartalommal kell az IH-nak rendszeresíteni:
+(3)[^127] A kérelmet az IH által rendszeresített, az FVM honlapján közzétett formanyomtatványon az IH-hoz kell benyújtani. A kérelem benyújtása folyamatos. A formanyomtatványt a következő adattartalommal kell az IH-nak rendszeresíteni:
 
 a) az ügyfél adóazonosító jele vagy adószáma,
 
@@ -28,7 +28,7 @@ b) a végzettséget igazoló okirat másolatát,
 
 c) az üzleti tervet papír alapon és elektronikus adathordozón, amelynek mintája az FVM hivatalos honlapjáról letölthető.
 
-(5)[^127] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül. Az IH köteles tájékoztatni az MVH-t a kérelem elbírálásának eredményéről.
+(5)[^128] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül. Az IH köteles tájékoztatni az MVH-t a kérelem elbírálásának eredményéről.
 
 (6) A fiatal mezőgazdasági termelői jogosultság
 
@@ -36,6 +36,6 @@ a) a 3. § 30. pont a) alpontja szerinti esetben a kérelembenyújtás időpontj
 
 b) a 3. § 30. pont b) alpontja szerinti esetben a határozat kiállításától 2013. december 31. napjáig, de legkésőbb az ügyfél 40. életévének betöltéséig
 
-[^125]: A 28/A. §-t a 63/2007. (VII. 13.) FVM rendelet 4. §-a iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^126]: A 28/A. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^127]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^126]: A 28/A. §-t a 63/2007. (VII. 13.) FVM rendelet 4. §-a iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^127]: A 28/A. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^128]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
