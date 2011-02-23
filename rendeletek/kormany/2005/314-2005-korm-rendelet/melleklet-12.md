@@ -1,4 +1,4 @@
-12. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^112]
+12. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^127]
 
 Az előzetes konzultációban részt vevő közigazgatási szervek
 
@@ -24,4 +24,4 @@ Az előzetes konzultációban részt vevő közigazgatási szervek
 
 1 A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
 
-[^112]: A 12. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 141. §-ával megállapított szöveg.
+[^127]: A 12. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 141. §-ával megállapított szöveg. [A 13–14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23–24. §-a iktatta be, a 68. § alapján a módosítás 2011. szeptember 15-én lép hatályba.]

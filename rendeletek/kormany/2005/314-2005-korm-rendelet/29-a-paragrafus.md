@@ -1,0 +1,6 @@
+29/A. §[^104] (1) Ha az előzetes vizsgálati eljárásban benyújtott előzetes vizsgálati dokumentáció megfelel a környezeti hatástanulmány általános tartalmi követelményeinek, a környezethasználó kérelmére a folyamatban lévő előzetes vizsgálati eljárást környezeti hatásvizsgálati eljárásként kell lefolytatni.
+
+(2) E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 12/2011. (II. 22.) Korm. rendelettel (a továbbiakban: Mkr.3) megállapított rendelkezéseit az Mkr.3 hatálybalépésekor[^105] folyamatban lévő ügyekben (eljárásokban) is alkalmazni kell.
+
+[^104]: A 29/A. §-t a 12/2011. (II. 22.) Korm. rendelet 3. §-a iktatta be. [A 29/B. §-nak a 82/2011. (V. 18.) Korm. rendelet 19. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „29/B. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mkr4.) megállapított rendelkezéseit az Mkr4. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”.]
+[^105]: A hatálybalépés időpontja 2011. február 23.

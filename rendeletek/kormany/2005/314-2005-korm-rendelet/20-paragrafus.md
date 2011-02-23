@@ -1,6 +1,6 @@
-20. § (1)[^57] Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
+20. § (1)[^67] Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
 
-(2)[^58]
+(2)[^68]
 
 (3) A felügyelőség hatáskörébe tartozó – külön jogszabályokban meghatározott – engedélyeket az egységes környezethasználati engedélybe kell foglalni.
 
@@ -12,7 +12,7 @@
 
 (7) Olyan tevékenységek esetében, amelyekre vonatkozóan külön törvény biztonsági elemzés, illetve jelentés elkészítését írja elő, a biztonsági elemzést, illetve a jelentést az engedélyezés során a felügyelőség figyelembe veszi.
 
-(8)[^59] Az egységes környezethasználati engedély meghatározott időre, de legalább öt évre adható meg. Az engedélyben foglalt követelményeket és előírásokat legalább ötévente a környezetvédelmi felülvizsgálatra vonatkozó szabályok szerint felül kell vizsgálni. A felülvizsgálat ügyintézési határideje két hónap.
+(8)[^69] Az egységes környezethasználati engedély meghatározott időre, de legalább öt évre adható meg. Az engedélyben foglalt követelményeket és előírásokat legalább ötévente a környezetvédelmi felülvizsgálatra vonatkozó szabályok szerint felül kell vizsgálni. A felülvizsgálat ügyintézési határideje két hónap.
 
 (9) Ha a felügyelőség megállapítja, hogy
 
@@ -28,13 +28,13 @@ d) ha a létesítmény olyan jelentős környezetterhelést okoz, hogy az a kor�
 
 (10) Ha a felügyelőség megállapítja, hogy az egységes környezethasználati engedélyhez képest olyan változás történt, amely nem jelentős, és a környezethasználó részéről újabb adatok benyújtását nem igényli, a (12) bekezdésben foglaltak szerint járhat el.
 
-(11)[^60] Az egységes környezethasználati engedélyezési eljárás lefolytatásának határideje három hónap.
+(11)[^70] Az egységes környezethasználati engedélyezési eljárás lefolytatásának határideje három hónap.
 
 (12) A felügyelőség az egységes környezethasználati engedélyt – hivatalból vagy kérelemre – módosíthatja, ha az engedélyezéskor fennálló feltételek megváltozása a korábban kiadott engedély visszavonását nem teszi szükségessé.
 
 (13) Az egységes környezethasználati engedélyezési eljárásban, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, a 12. § (4) bekezdés, 13–15. §-ok szerinti eljárást kell alkalmazni, ha nemzetközi szerződés ettől eltérően nem rendelkezik.
 
-[^57]: A 20. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (19) bekezdése szerint módosított szöveg.
-[^58]: A 20. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^59]: A 20. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (12) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^60]: A 20. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: A 20. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (19) bekezdése szerint módosított szöveg.
+[^68]: A 20. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^69]: A 20. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (12) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^70]: A 20. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

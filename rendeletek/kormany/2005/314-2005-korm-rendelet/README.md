@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2010-07-01 | 2005-314-20-22.17 | 208/2010. (VI. 30.) Korm. rendelet |
 | 2010-08-28 | 2005-314-20-22.18 | 228/2010. (VIII. 13.) Korm. rendelet |
 | 2011-01-01 | 2005-314-20-22.19 | 289/2010. (XII. 21.) Korm. rendelet |
+| 2011-02-23 | 2005-314-20-22.20 | 82/2011. (V. 18.) Korm. rendelet |
