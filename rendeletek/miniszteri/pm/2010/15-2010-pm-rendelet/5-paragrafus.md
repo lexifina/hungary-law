@@ -1,1 +1,0 @@
-## 4. § Az ellátmány a kiküldetés megkezdése előtt valutaelőlegként vehető fel készpénzben, amely utólagos elszámolási kötelezettséggel jár. A valutaelőleget a kiküldött, annak akadályoztatása esetén pedig – írásbeli meghatalmazása alapján – képviselője veheti fel.

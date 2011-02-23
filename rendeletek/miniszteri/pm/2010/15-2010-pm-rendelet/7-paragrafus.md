@@ -1,1 +1,0 @@
-## 6. § A támogató anyagi támogatásával megvalósuló kiküldetés ellátmányát a kiküldött részére a támogató által meghatározott ellátmánnyal csökkentett összegben kell megállapítani, illetve megtéríteni, a támogató által a kiküldő szerv részére adott előzetes tájékoztatás alapján.
