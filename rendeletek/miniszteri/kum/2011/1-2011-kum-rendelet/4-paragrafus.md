@@ -1,0 +1,5 @@
+4. § (1) Az előirányzatból államháztartáson belüli, valamint – a (2) bekezdésben foglaltak kivételével – államháztartáson kívüli jogi személy és jogi személyiséggel nem rendelkező szervezet (a továbbiakban: szervezet) részére pályázat, támogatási kérelem, vagy a Kormány nyilvános határozata alapján nyújtható támogatás.
+
+(2) Társadalmi szervezet, alapítvány, közalapítvány részére az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 100/J. §-ának (3) bekezdése szerint nyújtható támogatás.
+
+(3) Az előirányzatból fedezhetők az előirányzat éves összegének legfeljebb 1%-áig – az előirányzat működtetésével, kezelésével, felhasználásával, ellenőrzésével, szerződések előkészítésével, nyilvántartásának tárgyi feltételeivel és ellenőrzésével kapcsolatos költségek is. Az előirányzat működtetésével kapcsolatos költségként az előirányzat terhére elszámolható a kincstár egyes szolgáltatásaiért a minisztérium által fizetendő kezelési költség, valamint a külképviseleteken keresztül megvalósított projektek esetén az elszámolásból adódó árfolyam-különbözet.
