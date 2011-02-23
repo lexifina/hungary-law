@@ -1,4 +1,4 @@
-7. § (1) A hivatalvezető az Emlékérem adományozását az önkormányzatokért felelős miniszternél (a továbbiakban: miniszter) írásban indítványozza.
+7. § (1)[^2] A hivatalvezető az Emlékérem adományozását a helyi önkormányzatokért felelős miniszternél (a továbbiakban: miniszter) írásban indítványozza.
 
 (2) Az indítvány tartalmazza
 
@@ -8,6 +8,9 @@ b) a kitüntetési javaslat indokolását, és
 
 c) a rendőr-főkapitányság vezetőjének egyetértő nyilatkozatát.
 
-(3) Az Önkormányzati Minisztérium (a továbbiakban: Minisztérium) kitüntetési ügyekért felelős szervezeti egysége az indítványt megvizsgálja. Ha az indítványt nem támogatja, erről a hivatalvezetőt – az indítvány egyidejű visszaküldésével – értesíti. A hivatalvezető e döntésről a polgármestert és a kitüntetésre javasolt személyt írásban tájékoztatja.
+(3)[^3] A miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) kitüntetési ügyekért felelős szervezeti egysége az indítványt megvizsgálja. Ha az indítványt nem támogatja, erről a hivatalvezetőt – az indítvány egyidejű visszaküldésével – értesíti. A hivatalvezető e döntésről a polgármestert és a kitüntetésre javasolt személyt írásban tájékoztatja.
 
 (4) A miniszter az Emlékérem adományozására a Kormánynak előterjesztésben tesz javaslatot.
+
+[^2]: A 7. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
