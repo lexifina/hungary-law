@@ -1,0 +1,5 @@
+## 6. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet (a továbbiakban: R2.) 10. §-a helyébe a következő rendelkezés lép:
+
+## „10. § (1) A 2–8. § alapján 2011. február 28-ig kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Magyar Államkincstárnál vezetett 10023002-01451715-30000003 számú célelszámolási számlájára kell befizetni.
+
+## (2) A 2–8. § alapján 2011. március 1-je után kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül a Magyar Államkincstárnál vezetett „Objektív felelősségből származó közigazgatási bírságbevétel” elnevezésű 10032000-01031805-00000000 számú számlára kell befizetni.”

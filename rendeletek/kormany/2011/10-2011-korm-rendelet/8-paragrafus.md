@@ -1,0 +1,3 @@
+## 7. § Az R2. 10/A. §-a helyébe a következő rendelkezés lép:
+
+## „10/A. § Az út használatért díjszedésre, illetve a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és – az általa kezelt közutakon – a Kkt. 33. § (1) bekezdés és a helyi önkormányzatokról szóló 1990. évi LXV. törvény 63/A. § szerinti közút kezelője (a továbbiakban együtt: a közút kezelője), valamint a Rendőrség a 2–8. §-ban meghatározott jogszabályi rendelkezések megsértését igazoló képfelvételek készítésére, továbbítására vonatkozó részletes követelményeket együttműködési megállapodásban határozza meg. A Rendőrség nevében a közút kezelőjével az együttműködési megállapodást az országos rendőrfőkapitány köti meg.”
