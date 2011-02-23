@@ -2,25 +2,25 @@
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Miniszterelnökség | 120 |
+| 1. | Miniszterelnökség | 128 |
 
-| 2. | Közigazgatási és Igazságügyi Minisztérium | 1097 |
+| 2. | Közigazgatási és Igazságügyi Minisztérium | 1144 |
 
 | 3. | Belügyminisztérium | 346 |
 
 | 4. | Honvédelmi Minisztérium | 550 |
 
-| 5. | Külügyminisztérium | 668 |
+| 5. | Külügyminisztérium | 690 |
 
 | 6. | Nemzetgazdasági Minisztérium | 871 |
 
 | 7. | Nemzeti Erőforrás Minisztérium | 906 |
 
-| 8. | Nemzeti Fejlesztési Minisztérium | 667 |
+| 8. | Nemzeti Fejlesztési Minisztérium | 684 |
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 5960 |
+| 10. | ÖSSZESEN: | 6054 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -28,7 +28,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 |  | Megnevezés | Létszám (fő) |
 
-| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 348 |
+| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 341 |
 
 | 1.1. | Központi Statisztikai Hivatal | 1 393 |
 
@@ -36,7 +36,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 1.3. | Kormányzati Ellenőrzési Hivatal | 120 |
 
-| 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 803 |
+| 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 796 |
 
 | 1.5. | Fővárosi, megyei közigazgatási hivatalok | 1 503, ebből 100 fő 2011. december 31-éig terjedő időre |
 
@@ -66,7 +66,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 3.2. | Magyar Külügyi Intézet | 20 |
 
-| 4. | Nemzetgazdasági Minisztérium | 26 039 |
+| 4. | Nemzetgazdasági Minisztérium | 26 037 |
 
 | 4.1. | Adó- és Pénzügyi Ellenőrzési Hivatal | 15 607 |
 
@@ -96,7 +96,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 4.3. | Magyar Kereskedelmi Engedélyezési Hivatal | 486 |
 
-| 4.4. | Nemzeti Kutatási és Technológiai Hivatal (Kutatásfejlesztési Pályázati és Kutatáshasznosítási Irodával együtt) | 108 |
+| 4.4. | Nemzeti Innovációs Hivatal | 106 |
 
 | 4.5. | Nemzeti Fogyasztóvédelmi Hatóság | 512 |
 
@@ -316,6 +316,6 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
 
-| 11. | ÖSSZESEN: | 61 165 |
+| 11. | ÖSSZESEN: | 61 156 |
 
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja, a 1030/2011. (II. 22.) Korm. határozat 6–10. pontja szerint módosított szöveg.
