@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-## 5. Ez a határozat a közzétételét követő napon lép hatályba, amellyel egyidejűleg a Felsőzsolcán és környékén tervezett, árvízkárok megelőzését szolgáló beruházások megvalósításáról szóló 1280/2010. (XII. 15.) Korm. határozat hatályát veszti.
+## 5.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
 1. melléklet az 1028/2011. (II. 22.) Korm. határozathoz
 
@@ -95,3 +95,5 @@ III. Állami vízügyi feladatok
 | A felsőzsolcai vasúti ártéri hídnyílások szelvényeinek kotrása | 250 | Első szakasz: 2011. február 15. Második szakasz: 2011. március 15. |
 
 | A hidraulikai modellezés és műszaki tervezés függvényében kerül sor Felsőzsolca térségében a 3-as út és az M30-as autópálya-lehajtók alatti ártéri hídnyílások, átereszek és a további lefolyást gátló akadályok eltávolítására vonatkozó műszaki tervezési feladatok elvégzésére, a műszaki megoldások meghatározására. | Forrásigényét az I.1. a) pont tartalmazza | Elkezdés azonnal. Műszaki beavatkozások meghatározása: 2011. március 31. |
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
