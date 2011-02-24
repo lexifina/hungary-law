@@ -2,11 +2,11 @@
 
 4. § (1) Ez a rendelet 2009. január 1-én lép hatályba azzal, hogy rendelkezéseit először a 2009. január hónapra vonatkozó jelentés esetében kell alkalmazni.
 
-(2)[^8] E rendeletnek a hitelintézetek által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló 45/2008. (XII. 31.) PM rendelet módosításáról szóló 23/2010. (XII. 31.) NGM rendelettel módosított rendelkezéseit és mellékletét először a 2011. január hónapra vonatkozó jelentés esetében kell alkalmazni.
+(2)[^9] E rendeletnek a hitelintézetek által a Pénzügyi Szervezetek Állami Felügyelete részére szolgáltatandó adatok köréről és az adatszolgáltatás módjáról szóló 45/2008. (XII. 31.) PM rendelet módosításáról szóló 23/2010. (XII. 31.) NGM rendelettel módosított rendelkezéseit és mellékletét először a 2011. január hónapra vonatkozó jelentés esetében kell alkalmazni.
 
-(3)[^9]
+(3)[^10]
 
-Melléklet a 45/2008. (XII. 31.) PM rendelethez[^10]
+Melléklet a 45/2008. (XII. 31.) PM rendelethez[^11]
 
 ÖSSZEFOGLALÓ TÁBLA
 
@@ -486,6 +486,6 @@ MNB-PSZÁF közös táblák
 
 PSZÁF táblák
 
-[^8]: A 4. § (2) bekezdése a (3) bekezdés alapján hatályát vesztette, újonnan a 23/2010. (XII. 31.) NGM rendelet 4. §-a iktatta be.
-[^9]: A 4. § (3) bekezdése a (3) bekezdés alapján hatályát vesztette.
-[^10]: A Melléklet a 23/2010. (XII. 31.) NGM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 4. § (2) bekezdése a (3) bekezdés alapján hatályát vesztette, újonnan a 23/2010. (XII. 31.) NGM rendelet 4. §-a iktatta be.
+[^10]: A 4. § (3) bekezdése a (3) bekezdés alapján hatályát vesztette.
+[^11]: A Melléklet a 23/2010. (XII. 31.) NGM rendelet 5. §-ával megállapított szöveg. A 2/2011. (II. 23.) PSZÁF rendelet 1. §-a alapján a melléklet 10GA számú, a legnagyobb betétesekre vonatkozó táblájában nem kell feltüntetniük azoknak az ügyfeleiknek az egyedi azonosításra szolgáló adatait, akik számára a 2010: CLIII. törvény 82. §-a alapján jövedelemként minősülő összeget írtak jóvá és erről a kijelölt hitelintézetek igazolást állítottak ki, ezen igazolt összegek tekintetében.
