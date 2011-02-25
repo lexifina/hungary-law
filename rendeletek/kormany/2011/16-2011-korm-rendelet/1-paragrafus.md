@@ -1,0 +1,9 @@
+1. § (1) A Kormány kiemelt jelentőségű üggyé nyilvánítja az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az AUDI HUNGÁRIA MOTOR Kft. Győr Megyei Jogú Város közigazgatási területén (Győr, 5475/66 helyrajzi szám) lehatárolt területen megvalósuló nagyberuházásával függenek össze.
+
+(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
+
+(3) A rendelet hatálya alá tartozó első fokú környezetvédelmi hatósági engedélyezési, természetvédelmi engedélyezési, illetve természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárások lefolytatására kijelölt Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség országos hatáskörben és illetékességgel jár el.
+
+(4) A rendelet hatálya alá tartozó elsőfokú erdészeti hatósági engedélyezési eljárások lefolytatására, valamint a rendelet hatálya alá tartozó eljárásokban, erdővédelem tárgykörben elsőfokú szakhatóságként kijelölt Vas megyei Kormányhivatal Erdészeti Igazgatóság országos hatáskörben és illetékességgel jár el.
+
+(5) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
