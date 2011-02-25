@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-132-20-
 | --- | --- | --- |
 | 2010-04-22 | 2010-132-20-22.1 | 132/2010. (IV. 21.) Korm. rendelet |
 | 2011-02-24 | 2010-132-20-22.2 | 2/2011. (I. 14.) KüM határozat |
+| 2011-02-25 | 2010-132-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
