@@ -24,4 +24,4 @@ d) minden egyéb, az MNB működésének irányításával összefüggő, a mone
 
 (8) Az elnök (1) bekezdés szerinti hatásköreit az alelnökökre átruházhatja.
 
-(9) A 49. § (5)–(10) bekezdéseit az MNB elnöke tekintetében is alkalmazni kell.
+(9) A 49. § (5) és (8) bekezdéseit az MNB elnöke tekintetében is alkalmazni kell.
