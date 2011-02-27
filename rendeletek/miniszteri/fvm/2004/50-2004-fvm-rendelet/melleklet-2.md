@@ -1,76 +1,108 @@
-## A rendelet hatálya alá tartozó zöldségvetőmagvak
+## A rendelet hatálya alá tartozó zöldség vetőmagvak
 
-## Jelen rendelet hatálya az alábbi zöldségnövények vetőmagjaira terjed ki.
+## A rendelet hatálya az alábbi zöldségnövények vetőmagjára terjed ki.
 
-| Allium cepa L. | vöröshagyma |
+## Allium cepa L.
+
+| – Cepa csoport | vöröshagyma |
+
+| – Aggregatum csoport | salottahagyma |
+
+| Allium fistulosum L. | téli sarjadékhagyma |
 
 | Allium porrum L. | póréhagyma |
 
+| Allium sativum L. | fokhagyma |
+
+| Allium schoenoprasum L. | metélőhagyma |
+
 | Anthriscus cerefolium (L.) Hoffm. | turbolya |
 
-| Apium graveolens L. | zeller |
+| Apium graveolens L. | gyökérzeller |
+
+|  | (levélzeller) |
 
 | Asparagus officinalis L. | spárga |
 
-| Beta vulgaris L. var. vulgaris | mángold |
+| Beta vulgaris L. | mángold |
 
-| Beta vulgaris L. var. conditiva Alef. | cékla |
+|  | cékla |
 
-| Brassica oleracea L. convar. acephala (DC) Alef. var. sabellica | leveles kel |
+| Brassica oleracea L | leveles kel |
 
-| Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L. | karfiol |
+|  | karfiol |
 
-| Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa Duch. | brokkoli |
+|  | brokkoli vagy calabrese |
 
-| Brassica oleracea L. convar. gemmifera DC | bimbóskel |
+|  | bimbóskel |
 
-| Brassica oleracea L. convar. capitata (L.) Alef. var. sabauda L. | kelkáposzta |
+|  | kelkáposzta |
 
-| Brassica oleracea L. convar. capitata (L.) Alef. var. alba DC | fejeskáposzta |
+|  | fejes káposzta |
 
-| Brassica oleracea L. convar. capitata (L.) Alef. var. rubra DC | vöröskáposzta |
+|  | vörös káposzta |
 
-| Brassica oleracea L. convar.acephala (DC) Alef. var. gongylodes | karalábé |
+|  | karalábé |
 
 | Brassica rapa L. | kínai kel |
 
-| Brassica rapa L. var. rapa | tarlórépa |
+|  | tarlórépa |
 
 | Capsicum annuum L. | paprika |
 
-| Chicorium endivia L. | endívia |
+| Chicorium endivia L. | borzaslevelű endívia |
 
-| Chicorium intybus L. (részben) | cikória |
+|  | széleslevelű endívia |
+
+| Chicorium intybus L. | hajtató cikória |
+
+|  | leveles cikória |
+
+|  | ipari cikória |
 
 | Citrullus lanatus (Thunb.) Matsum. et Nakai | görögdinnye |
 
 | Cucumis melo L. | sárgadinnye |
 
-| Cucumis sativus L. | uborka, konzervuborka |
+| Cucumis sativus L. | salátauborka |
 
-| Cucurbita maxima L. | sütőtök |
+|  | konzervuborka |
+
+| Cucurbita maxima Duchesne | sütőtök |
 
 | Cucurbita pepo L. | tök |
 
-| Cynara cardunculus | kárdi |
+| Cynara cardunculus L. | articsóka |
+
+|  | kardi |
 
 | Daucus carota L. | sárgarépa |
 
-| Foeniculum vulgare P. Mill. | gumós kömény |
+|  | takarmány sárgarépa |
+
+| Foeniculum vulgare Mill. | édeskömény |
 
 | Lactuca sativa L. | fejessaláta |
 
-| Lycopersicon lycopersicum (L.) Karsten ax Farw. | paradicsom |
+| Lycopersicon esculentum Mill. | paradicsom |
 
 | Petroselinum crispum (Mill.) Nyman et A. W. Hill | petrezselyem |
 
-| Phaseolus coccineus L. | futóbab |
+| Phaseolus coccineus L. | tűzbab |
 
-| Phaseolus vulgaris L. | bokorbab |
+| Phaseolus vulgaris L. | zöldbab (bokorbab és futóbab) |
 
-| Pisum sativum L. (részben) | zöldborsó |
+| Pisum sativum L. (partim) | kifejtőborsó |
+
+|  | velőborsó |
+
+|  | cukorborsó |
 
 | Raphanus sativus L. | retek |
+
+|  | fekete retek |
+
+| Rheum rhabarbarum L. | rebarbara |
 
 | Scorsonera hispanica L. | feketegyökér |
 
@@ -78,12 +110,14 @@
 
 | Spinacia oleracea L. | spenót |
 
-| Valerianella locusta (L.) Laterr. | mezei (galambbegy) saláta |
+| Valerianella locusta (L.) Laterr. | galambbegysaláta |
 
-| Vicia faba L. (parim) | lóbab |
+| Vicia faba L. (partim) | lóbab |
 
-| Zea mays L. convar. saccharata Koern | csemegekukorica |
+| Zea mays L. (partim) | csemegekukorica |
 
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^168]
+|  | pattogató kukorica |
 
-[^168]: A 2. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (2) bekezdésével megállapított szöveg.
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^176]
+
+[^176]: A 2. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

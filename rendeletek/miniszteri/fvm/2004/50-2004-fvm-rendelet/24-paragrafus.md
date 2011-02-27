@@ -1,39 +1,39 @@
 ## A zöldségvetőmagvak utóellenőrzése és kisparcellás fajtaazonosító vizsgálata
 
-24. § (1) A forgalomban lévő vetőmagtétel faj- és fajtaazonosságának, valamint fajtatisztaságának megállapítására kisparcellás fajtaazonosító vizsgálatot kell végezni.
+24. §[^113] (1) A forgalomban lévő vetőmagtétel faj- és fajtaazonosságának, valamint fajtatisztaságának megállapítására kisparcellás fajtaazonosító vizsgálatot kell végezni. A kisparcellás fajtaazonosító vizsgálatot e rendelet előírásai, továbbá az MgSzH kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertani szabályzata szerint kell elvégezni. Az MgSzH köteles a kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertant nyilvánosan hozzáférhetővé tenni.
 
-(2) Utóellenőrzést kell végezni a Magyar Köztársaságban első alkalommal minősített
+(2) Az utóellenőrzés az MgSzH feladata. Az utóellenőrzés az MgSzH-hoz beküldött – az MgSzH által előírt nagyságú – hatósági vagy hivatalos mintából történik. Utóellenőrzést kell végezni a Magyar Köztársaságban első alkalommal minősített
 
-a) elit vetőmagvak valamennyi tételéből,
+a) valamennyi hivatalos minősítésben részesített szuperelit szaporítási fokú vetőmagtétel mintáiból,
 
-b) certifikált vetőmagtételek 20 százalékából,
+b) valamennyi elit szaporítási fokú vetőmagtétel mintáiból,
 
-c) a 13. § (7) bekezdésében foglaltak szerint a Magyar Köztársaságban előállított standard vetőmagvakból, valamint
+c) valamennyi anyamagként való továbbszaporítási célú certifikált és standard szaporítási fokú vetőmagtételből,
 
-d)[^100]
+d) árualap célú certifikált vetőmagtételek 20 százalékából,
 
-(3)[^101] Az utóellenőrzés az MgSzH Központja feladata.
+e) a 13. § (7) bekezdésében foglaltak szerint a Magyar Köztársaságban előállított standard vetőmagvakból.
 
-(4)[^102] Az utóellenőrzés az MgSzH Központjához beküldött – MgSzH Központja által előírt nagyságú – hatósági vagy hivatalos mintából történik.
+(3) A kötelező kisparcellás fajtaazonosító vizsgálathoz szükséges hatósági mintavétellel vett mintákat a vetőmag-előállítónak a 11. számú mellékletben foglalt határidőig az MgSzH Fajtakitermesztő Állomására kell elküldenie. Ha a minta a vetőmag-előállító hibájából nem kerül vizsgálatra, akkor az adott vetőmagtételt, illetve annak következő szaporítási fokát ki kell zárni a minősítésből a kisparcellás fajtaazonosító vizsgálat befejezéséig. A vetőmag minősítését és forgalomba hozatalát nem lehet korlátozni, ha a kisparcellás fajtaazonosító vizsgálat az MgSzH hibájából hiúsult meg.
 
-(5)[^103]
+(4) Az MgSzH az ellenőrzésről és a szükséges kitermesztési minta megküldéséről értesíti a kijelölt (fajkör) standard tételek, árualap előállításához importált tételek, valamint az Európai Unió más tagállamából származó tételek vetőmag előállítóját, illetve első magyarországi forgalmazóját.
 
-(6)[^104] A mintát a vetőmag előállítója utóellenőrzés céljára az MgSzH Központja által megadott határidőig köteles elküldeni az MgSzH Központja fajtakitermesztő állomására.
+(5) Ha a kisparcellás fajtaazonosító vizsgálat során a kitermesztés eredménye
 
-(7)[^105] A határidőre be nem érkezett vagy nem megfelelő mintát nem részesítik utóellenőrzésben és azt az MgSzH Központja zár alá helyezi.
+a) a szuperelit vagy elit szaporítási fokú vetőmag esetében
 
-(8)[^106] Abban az esetben, ha a kisparcellás fajtaazonosító vizsgálat az MgSzH Központja hibájából vagy elemi kár következtében nem értékelhető, a beküldőt ebből származóan joghátrány nem érheti. Sikertelen vizsgálat esetén vagy vitás esetben a mintát valamely más tagállam illetékes hatóságához is el lehet küldeni utóellenőrzésre.
+1) nem fajtaazonos, akkor a vetőmagot továbbszaporításra nem lehet felhasználni,
 
-(9)[^107] Az MgSzH Központja az utóellenőrzés eredményéről bizonyítványt állít ki. A fajtaazonosság szempontjából nem megfelelő tétel vetőmagként nem használható fel. Az MgSzH Központja előírja annak forgalomból történő kivonását.
+2) nem fajtatiszta, akkor szigorított szántóföldi ellenőrzést kell végrehajtani;
 
-(10)[^108] Ha a vetőmag a fajtatisztaság és fajtaazonosság szempontjából az MSZ 20476/97. szabvány értékeinek nem felel meg, a forgalmazás hatósági ellenőrzése során vett ellenőrzési mintán végzett utóellenőrzés esetén a külön jogszabály szerinti díjat a vetőmag tulajdonosa köteles megfizetni.
+b) az elitnél alacsonyabb szaporítású fokú vetőmag esetében a határértéknek nem felel meg, akkor a következő évben ugyanaz a vetőmag-előállító azonos faj és szaporulati fok esetében 50% kitermesztést köteles eltűrni.
 
-[^100]: A 24. § (2) bekezdésének d) pontját a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^101]: A 24. § (3) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^102]: A 24. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^103]: A 24. § (5) bekezdését a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^104]: A 24. § (6) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^105]: A 24. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^106]: A 24. § (8) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^107]: A 24. § (9) bekezdése a 124/2007. (X. 20.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^108]: A 24. § (10) bekezdése a 124/2007. (X. 20.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg.
+(6) Az e rendelet szerint kitermesztési minta megküldésére kötelezett és be nem érkezett vagy a fajtaazonosság, fajtatisztaság tekintetében alkalmatlan minősítésű vetőmagtételt az MgSzH hatósági zár alá helyezi.
+
+(7) Az MgSzH a kisparcellás fajtaazonosító vizsgálat eredményéről a fajtaazonosító vizsgálatra vonatkozó szabályzata szerinti vizsgálati bizonyítványt állít ki. A követelményeknek a fajtaazonosság szempontjából nem megfelelő tételt, illetve annak további szaporulatát vetőmagként nem lehet felhasználni, amelyet az MgSzH és az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőriz.
+
+(8) Ha a vetőmag a fajtatisztaság és/vagy fajtaazonosság szempontjából az MgSzH kisparcellás fajtaazonosító vizsgálatokra vonatkozó szabályzatában előírt értékeknek nem felel meg, a forgalmazás hatósági ellenőrzése során vett ellenőrzési mintán végzett utóellenőrzés esetén a külön jogszabály szerinti díjat a vetőmag tulajdonosa köteles megfizetni.
+
+(9) Abban az esetben, ha a kisparcellás fajtaazonosító vizsgálat az MgSzH hibájából vagy elemi kár következtében nem értékelhető, a beküldőt ebből származóan joghátrány nem érheti. Sikertelen vizsgálat esetén vagy vitás esetben a mintát valamely más tagállam illetékes hatóságához is el lehet küldeni utóellenőrzésre.
+
+[^113]: A 24. § a 14/2011. (II. 24.) VM rendelet 13. §-ával megállapított szöveg.

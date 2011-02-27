@@ -6,23 +6,25 @@ a)[^1] az 1. számú mellékletben felsorolt zöldségnövények fajtáinak és 
 
 b)[^2] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldség-, gyógy-, illóolajos és fűszernövény (a továbbiakban: zöldségnövények) fajták hazai előállítású szaporítóanyagaira,
 
-c) a zöldségvetőmagvak előállítására, feldolgozására, forgalmazására, minősítésére és ellenőrzésére,
+c)[^3] a zöldség vetőmagvak előállítására, feldolgozására, kiszerelésére, forgalmazására, minősítésére és ellenőrzésére,
 
 d) a zöldségpalánták előállítására, forgalmazására és ellenőrzésére,
 
-e)[^3] azokra a természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, akik árutermelők részére való forgalomba hozatal céljából, hivatásszerűen folytatnak
+e)[^4] azokra a természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, akik szaporítóanyag előállítók és árutermelők részére való forgalomba hozatal céljából, hivatásszerűen folytatnak
 
-1. vetőmag előállító,
+1. szaporítóanyag előállító,
 
 2. feldolgozó,
 
-3. forgalmazó, vagy
+3. kiszerelő,
 
-4. palánta előállító (tároló, kezelő)
+4. forgalmazó, vagy
+
+5. palánta előállító (tároló, kezelő)
 
 tevékenységet,
 
-f)[^4] a minősítést végző Mezőgazdasági és Szakigazgatási Hivatal Központjára és területi szerveire (a továbbiakban együtt: MgSzH) és egyéb természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
+f)[^5] a minősítést végző Mezőgazdasági Szakigazgatási Hivatalra (a továbbiakban: MgSzH), valamint a megyei kormányhivatal növény- és talajvédelmi igazgatóságára és egyéb természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
 
 (2) A rendelet hatálya nem terjed ki
 
@@ -36,15 +38,19 @@ d) a teljes mennyiségben harmadik országba irányuló kivitelre szánt zölds�
 
 e) a palánta saját felhasználására,
 
-f)[^5] a palánta nem árutermelők részére, hanem kiskerti felhasználás céljára történő értékesítésére, ha a forgalomba hozott palánta mennyisége üzemenként, telephelyenként nem haladja meg dughagyma esetében az évi 200 kg-t, fiókhagyma esetében a 100 kg-t, hajtatási fajtákból 10 000 db-ot, illetve mindösszesen a 150 000 db-ot,
+f)[^6] a palánta nem árutermelők részére, hanem kiskerti felhasználás céljára történő értékesítésére, ha a forgalomba hozott palánta mennyisége üzemenként, telephelyenként nem haladja meg dughagyma esetében az évi 200 kg-t, fiókhagyma esetében a 100 kg-t, hajtatási fajtákból 10 000 db-ot, illetve mindösszesen a 150 000 db-ot,
 
 g) a vetőmag előállításra és forgalomba hozatalra, ha az előállított és forgalomba hozott mennyiség nem haladja meg szemenkénti kiszerelés esetében a 10 000 szemet, súlyegységes kiszerelés esetén az ezermag tömeg 100-szorosát és a zöldség hibridek esetén az ezermag tömeget,
 
-h)[^6] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövények, mint fajok vetőmagvainak, illetve palántáinak hazai előállítására és forgalomba hozatalára, amennyiben nem államilag elismert fajtát forgalmaznak.
+h)[^7] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövények, mint fajok vetőmagvainak, illetve palántáinak hazai előállítására és forgalomba hozatalára, amennyiben nem államilag elismert fajtát forgalmaznak.
+
+(3)[^8] A regisztrált tájfajták és az elismert házikerti fajták esetében e rendelet előírásait a külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdésének b) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdésének e) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés f) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 14/2011. (II. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés e) pontja a 14/2011. (II. 24.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés f) pontja a 14/2011. (II. 24.) VM rendelet 17. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (3) bekezdését a 14/2011. (II. 24.) VM rendelet 1. § (3) bekezdése iktatta be.

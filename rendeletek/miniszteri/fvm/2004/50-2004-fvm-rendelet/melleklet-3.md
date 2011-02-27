@@ -1,8 +1,10 @@
 ## A rendelet hatálya alá tartozó palánták
 
-| Allium cepa L. Cepa csoport | vöröshagyma |
+## Allium cepa L.
 
-| Allium cepa L. Aggregatum csoport | salottahagyma |
+| – Cepa csoport | vöröshagyma |
+
+| – Aggregatum csoport | salottahagyma |
 
 | Allium fistulosum L. | téli sarjadékhagyma |
 
@@ -18,11 +20,29 @@
 
 | Asparagus officinalis L. | spárga |
 
-| Beta vulgaris L. | cékla, mángold |
+| Beta vulgaris L | cékla |
 
-| Brassica oleracea L. | leveles kel, karfiol, brokkoli, bimbóskel, kelkáposzta, fejeskáposzta, vöröskáposzta, karalábé |
+|  | mángold |
 
-| Brassica rapa L. | kínai kel, tarlórépa |
+| Brassica oleracea L. | leveles kel |
+
+|  | karfiol |
+
+|  | brokkoli vagy calabrese |
+
+|  | bimbóskel |
+
+|  | kelkáposzta |
+
+|  | fejeskáposzta |
+
+|  | vöröskáposzta |
+
+|  | karalábé |
+
+| Brassica rapa L. | kínai kel |
+
+|  | tarlórépa |
 
 | Capsicum annuum L. | paprika |
 
@@ -30,23 +50,31 @@
 
 | Chicorium intybus L. | hajtató cikória, levél cikória, ipari cikória |
 
-| Citrullus lanatus (Thunb.) Matsum. et Nakai | görögdinnye |
+| Citrullus lanatus (Thunb.) Matsum. |  |
+
+| et Nakai | görögdinnye |
 
 | Cucumis melo L. | sárgadinnye |
 
-| Cucumis sativus L. | salátauborka, konzervuborka |
+| Cucumis sativus L. | salátauborka |
+
+|  | konzervuborka |
 
 | Cucurbita maxima Duchesne. | sütőtök |
 
-| Cucurbita pepo L. | tök, patisszon, cukkini vagy tökfélék |
+| Cucurbita pepo L. | tök |
 
-| Cynara cardunculus | articsóka, kárdi |
+| Cynara cardunculus | articsóka |
 
-| Daucus carota L. | sárgarépa, takarmány sárgarépa |
+|  | kardi |
+
+| Daucus carota L. | sárgarépa |
+
+|  | takarmány sárgarépa |
 
 | Foeniculum vulgare Mill. | édes kömény |
 
-| Lactuca sativa L. | fejessaláta, tépő-, kötözősaláta vagy salátafélék |
+| Lactuca sativa L. | saláta |
 
 | Lycopersicon esculentum Mill. | paradicsom |
 
@@ -56,11 +84,15 @@
 
 | Phaseolus vulgaris L. | zöldbab (bokorbab és futóbab) |
 
-| Pisum sativum L. (részben) | kifejtő borsó, velőborsó, cukorborsó |
+| Pisum sativum L. (partim) | kifejtő borsó, |
+
+|  | velőborsó, |
+
+|  | cukorborsó |
 
 | Raphanus sativus L. | retek, fekete retek |
 
-| Rheum rhabarbarum L. | rebarbara |
+| Rheum rhabarbaram L. | rebarbara |
 
 | Scorzonera hispanica L. | feketegyökér |
 
@@ -68,15 +100,17 @@
 
 | Spinacia oleracea L. | spenót |
 
-| Valerianella locusta (L.) Laterr. | mezei (galambbegy) saláta |
+| Valerianella locusta (L.) Laterr. | galambbegysaláta |
 
-| Vicia faba L. (részben) | lóbab |
+| Vicia faba L. (partim) | lóbab |
 
-| Zea mays L. (részben) | csemegekukorica, pattogatni való kukorica |
+| Zea mays L. (partim) | csemegekukorica, |
 
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^169]
+|  | pattogató kukorica |
 
-## A zöldségvetőmagvak minőségi feltételei
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^177]
+
+## A zöldség vetőmagvak minőségi feltételei
 
 1. A vetőmag fajtaazonosságának és fajtatisztaságának kielégítőnek kell lennie.
 
@@ -84,95 +118,99 @@
 
 3. A vetőmagnak eleget kell tennie az alábbi feltételeknek is:
 
-3.1. Szabványok
+|  | Faj | Technikai tisztaság legalább (tömegszázalék) | Idegen mag legfeljebb (tömegszázalék) | Csírázóképesség legalább (százalék) |
 
-| Faj | Minimális analitikai tisztaság (tömegszázalék) | Más növényfaj vetőmagjának maximális megengedett mennyisége (tömegszázalék) | Minimális csírázás (a gomoly vagy a tiszta mag százalékában) |
+|  | Allium cepa | 97 | 0,5 | 70 |
 
-| Allium cepa | 97 | 0,5 | 70 |
+|  | Allium fistulosum | 97 | 0,5 | 65 |
 
-| Allium fistulosum | 97 | 0,5 | 65 |
+|  | Allium porrum | 97 | 0,5 | 65 |
 
-| Allium porrum | 97 | 0,5 | 65 |
+|  | Allium sativum | 97 | 0,5 | 65 |
 
-| Allium sativum | 97 | 0,5 | 65 |
+|  | Allium schoenoprasum | 97 | 0,5 | 65 |
 
-| Allium schoenoprasum | 97 | 0,5 | 65 |
+|  | Anthriscus cerefolium | 96 | 1 | 70 |
 
-| Anthriscus cerefolium | 96 | 1 | 70 |
+|  | Apium graveolens | 97 | 1 | 70 |
 
-| Apium graveolens | 97 | 1 | 70 |
+|  | Asparagus officinalis | 96 | 0,5 | 70 |
 
-| Asparagus officinalis | 96 | 0,5 | 70 |
+|  | Beta vulgaris (Cheltenham-répa) | 97 | 0,5 | 50 (csomó) |
 
-| Beta vulgaris (Cheltenham-répa) | 97 | 0,5 | 50 (csomó) |
+|  | Beta vulgaris |  |  |  |
 
-| Beta vulgaris (a Cheltenham-répa kivételével) | 97 | 0,5 | 70 (csomó) |
+|  | (a Cheltenham-répa kivételével) | 97 | 0,5 | 70 (csomó) |
 
-| Brassica oleracea (karfiol) | 97 | 1 | 70 |
+|  | Brassica oleracea (karfiol) | 97 | 1 | 70 |
 
-| Brassica oleracea (egyéb alfajok a karfiol kivételével) | 97 | 1 | 75 |
+|  | Brassica oleracea |  |  |  |
 
-| Brassica rapa (kínai kel) | 97 | 1 | 75 |
+|  | (egyéb alfajok a karfiol kivételével) | 97 | 1 | 75 |
 
-| Brassica rapa (tarlórépa) | 97 | 1 | 80 |
+|  | Brassica rapa (kínai kel) | 97 | 1 | 75 |
 
-| Capsicum annuum | 97 | 0,5 | 65 |
+|  | Brassica rapa (tarlórépa) | 97 | 1 | 80 |
 
-| Cichorium intybus (részben) (mezei katáng) | 95 | 1,5 | 65 |
+|  | Capsicum annuum | 97 | 0,5 | 65 |
 
-| Cichorium intybus (részben) (ipari) | 97 | 1 | 80 |
+|  | Cichorium intybus |  |  |  |
 
-| Cichorium endivia | 95 | 1 | 65 |
+|  | (partim) (mezei katáng) | 95 | 1,5 | 65 |
 
-| Citrullus lanatus | 98 | 0,1 | 75 |
+|  | Cichorium intybus (partim) (ipari) | 97 | 1 | 80 |
 
-| Cucumis melo | 98 | 0,1 | 75 |
+|  | Cichorium endivia | 95 | 1 | 65 |
 
-| Cucumis sativus | 98 | 0,1 | 80 |
+|  | Citrullus lanatus | 98 | 0,1 | 75 |
 
-| Cucurbita maxima | 98 | 0,1 | 80 |
+|  | Cucumis melo | 98 | 0,1 | 75 |
 
-| Cucurbita pepo | 98 | 0,1 | 75 |
+|  | Cucumis sativus | 98 | 0,1 | 80 |
 
-| Cynara cardunculus | 96 | 0,5 | 65 |
+|  | Cucurbita maxima | 98 | 0,1 | 80 |
 
-| Daucus carota | 95 | 1 | 65 |
+|  | Cucurbita pepo | 98 | 0,1 | 75 |
 
-| Foeniculum vulgare | 96 | 1 | 70 |
+|  | Cynara cardunculus | 96 | 0,5 | 65 |
 
-| Lactuca sativa | 95 | 0,5 | 75 |
+|  | Daucus carota | 95 | 1 | 65 |
 
-| Lycopersicon esculentum | 97 | 0,5 | 75 |
+|  | Foeniculum vulgare | 96 | 1 | 70 |
 
-| Petroselinum crispum | 97 | 1 | 65 |
+|  | Lactuca sativa | 95 | 0,5 | 75 |
 
-| Phaseolus coccineus | 98 | 0,1 | 80 |
+|  | Lycopersicon esculentum | 97 | 0,5 | 75 |
 
-| Phaseolus vulgaris | 98 | 0,1 | 75 |
+|  | Petroselinum crispum | 97 | 1 | 65 |
 
-| Pisum sativum | 98 | 0,5 | 80 |
+|  | Phaseolus coccineus | 98 | 0,1 | 80 |
 
-| Raphanus sativus | 97 | 1 | 70 |
+|  | Phaseolus vulgaris | 98 | 0,1 | 75 |
 
-| Rheum rhabarbarum | 97 | 0,5 | 70 |
+|  | Pisum sativum | 98 | 0,5 | 80 |
 
-| Scorzonera hispanica | 95 | 1 | 70 |
+|  | Raphanus sativus | 97 | 1 | 70 |
 
-| Solanum melongena | 96 | 0,5 | 65 |
+|  | Rheum rhabarbarum | 97 | 0,5 | 70 |
 
-| Spinacia oleracea | 97 | 1 | 75 |
+|  | Scorzonera hispanica | 95 | 1 | 70 |
 
-| Valerianella locusta | 95 | 1 | 65 |
+|  | Solanum melongena | 96 | 0,5 | 65 |
 
-| Vicia faba | 98 | 0,1 | 80 |
+|  | Spinacia oleracea | 97 | 1 | 75 |
 
-| Zea mays | 99 | 0,5 | 90 |
+|  | Valerianella locusta | 95 | 1 | 65 |
 
-| Zea mays | 98 | 0,1 | 85 |
+|  | Vicia faba | 98 | 0,1 | 80 |
 
-3.2. További követelmények
+|  | Zea mays | 98 | 0,1 | 85* |
 
-3.2.1. A hüvelyesek magja nem lehet fertőzött az alábbi élő rovarokkal:
+* szuperédes csemegekukorica fajták esetén a minimális csírázóképesség 80%, a vetőmag hatósági vagy szállítói címkéjén fel kell tüntetni a „Minimális csírázóképesség: 80%” szöveget.
+
+4. További követelmények
+
+4.1. A hüvelyesek magja nem lehet fertőzött az alábbi élő rovarokkal:
 
 Acanthoscelides obtectus Sag.
 
@@ -184,6 +222,6 @@ Bruchus pisorum L.
 
 Bruchus rufimanus Boh.
 
-3.2.2. A vetőmag nem lehet élő Acarina által fertőzött.
+4.2. A vetőmag nem lehet élő Acarina által fertőzött.
 
-[^169]: A 3. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^177]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

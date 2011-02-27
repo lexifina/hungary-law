@@ -1,10 +1,10 @@
 ## Ellenőrzés, jogkövetkezmények
 
-37. § (1)[^154] A törvényben és e rendeletben foglaltak folyamatos betartásának biztosítása érdekében az MgSzH Központja ellenőrzést végezhet minden olyan helyen, ahol a vetőmag és palánta előállítását, feldolgozását, kezelését, kiszerelését, tárolását, valamint vizsgálatát végzik, továbbá ahol vetőmagot és palántát forgalomba hoznak, árusítanak vagy felhasználnak.
+37. § (1)[^161] A törvényben és e rendeletben foglaltak folyamatos betartásának biztosítása érdekében az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzést végezhet minden olyan helyen, ahol a vetőmag és palánta előállítását, feldolgozását, kezelését, kiszerelését, tárolását, valamint vizsgálatát végzik, továbbá ahol vetőmagot és palántát forgalomba hoznak, árusítanak vagy felhasználnak.
 
-(2)[^155] Az ellenőrzés során az MgSzH Központja a törvény és jelen rendelet előírásai szerint jár el, és megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
+(2)[^162] Az ellenőrzés során az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a törvény és jelen rendelet előírásai szerint jár el, és megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
 
-(3)[^156] Az MgSzH Központja jogosult az ellenőrzés során
+(3)[^163] Az MgSzH és az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságának ellenőrzést végző munkatársa jogosultságát az erre a célra rendszeresített fényképes igazolvánnyal igazolja és az ellenőrzés során jogosult.
 
 a) a szaporítóanyagok nyilvántartásával, forgalmazásával, felhasználásával kapcsolatos iratokba, számlákba betekinteni, azok valódiságát vizsgálni, róluk másolatot készíteni, bekérni, amely adatokat köteles az üzemi és üzleti titokra vonatkozó rendelkezések betartásával kezelni,
 
@@ -22,9 +22,9 @@ g) a vetőmag- és palánta-árusítást ellenőrizni,
 
 h) a saját jogon végzett szántóföldi ellenőrzést, mintavételt, palánta minősítő tevékenységet ellenőrizni, a kiszerelési tevékenységet felülvizsgálni.
 
-(4)[^157] Az MgSzH Központja köteles kidolgozni a fajtaazonosság és fajtatisztaság megállapításának, valamint a mintavétel módszereinek részletes követelményeit. Ezek a követelmények nyilvánosak, az érintettek részére biztosítani kell az ezekbe való betekintés lehetőségét.
+(4)[^164] Az MgSzH köteles kidolgozni a fajtaazonosság és fajtatisztaság megállapításának, valamint a mintavétel módszereinek részletes követelményeit. Ezek a követelmények nyilvánosak, az érintettek részére biztosítani kell az ezekbe való betekintés lehetőségét.
 
-[^154]: A 37. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^155]: A 37. § (2) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^156]: A 37. § (3) bekezdésének bevezető szövegrésze a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^157]: A 37. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^161]: A 37. § (1) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^162]: A 37. § (2) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^163]: A 37. § (3) bekezdés nyitó szövegrésze a 14/2011. (II. 24.) VM rendelet 14. §-ával megállapított szöveg. [E módosító rendelet 17. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH Központja” szövegrész helyébe az „MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága” szövegrész lép, nem vezethető át.]
+[^164]: A 37. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.

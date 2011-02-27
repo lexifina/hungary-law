@@ -1,6 +1,6 @@
 ## Standard zöldségvetőmag szaporítás
 
-13. § (1)[^29] Standard vetőmagot az állíthat elő, akit az MgSzH Központja nyilvántartásba vett.
+13. § (1)[^37] Standard vetőmagot az állíthat elő, akit az MgSzH nyilvántartásba vett.
 
 (2) Standard zöldségvetőmag szaporításként az a fajta szaporítható, amely a Nemzeti Fajtajegyzékben, illetve a Közösségi Fajtajegyzékben be van jegyezve. A bejegyzés megszűnése esetén a fajta a bejegyzés megszűnését követő harmadik év június 30-áig még szaporítható, illetve forgalomba hozható.
 
@@ -10,10 +10,10 @@
 
 (5) A szaporítás magtermésének minősítéséhez a standard előállítás felelősének nyilatkoznia kell a tétel fajtaazonosságáról és fajtatisztaságáról.
 
-(6)[^30] A standard szaporítást az MgSzH Központja a külön jogszabály szerinti díj megfizetése ellenében a vetőmag-szaporító táblák legfeljebb 15%-áig terjedően ellenőrzi.
+(6)[^38] A standard szaporítást az MgSzH és az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága fajonkénti bontásban – a vetőmag előállítótól függetlenül –, a vetőmag-szaporító táblák legfeljebb 15%-áig terjedően ellenőrzi.
 
-(7)[^31] A standard szaporítások minősített vetőmagtételeiből az előállítás felelősének az utóellenőrzéshez mintát kell képeznie, amit három évig sértetlenül meg kell őrizni. Az MgSzH Központja a termékpálya szerinti terméktanáccsal történt egyeztetés után évenként meghatározott faj körben vagy tételkörből utóellenőrzést (kisparcellás fajtaazonosító vizsgálatot) végez.
+(7)[^39] A standard szaporítások saját jogon minősített vetőmagtételeiből a vetőmag előállítónak, a hivatalosan mintázott és minősített vetőmagtételeiből a fémzárolónak az utóellenőrzéshez mintát kell képeznie, amit három évig sértetlenül meg kell őrizni. Az MgSzH a termékpálya szerinti terméktanáccsal történt egyeztetés után évenként meghatározott faj körben vagy tételkörből utóellenőrzést (kisparcellás fajtaazonosító vizsgálatot) végez.
 
-[^29]: A 13. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^30]: A 13. § (6) bekezdése a 124/2007. (X. 20.) FVM rendelet 6. §-ával megállapított szöveg.
-[^31]: A 13. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^37]: A 13. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^38]: A 13. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 6. §-ával megállapított szöveg. [E módosító rendelet 17. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH Központja” szövegrész helyébe az „MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága” szövegrész lép, nem vezethető át.]
+[^39]: A 13. § (7) bekezdése a 14/2011. (II. 24.) VM rendelet 6. §-ával megállapított szöveg. [E módosító rendelet 19. § (2) bekezdésével elrendelt módosítás, amely szerint a „Központja” szövegrész hatályát veszti, nem vezethető át.]

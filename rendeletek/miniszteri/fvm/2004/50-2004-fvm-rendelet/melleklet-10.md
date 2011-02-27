@@ -46,52 +46,12 @@
 
 | Lactuca sativa | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Meloidogyne spp. -Thysanoptera, de különösen Frankliniella occidentalis Gombák -Botrytis cinerea -Bremia lactucae -Pythium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Lettuce big vein, a Lettuce mosaic virus és a Lettuce ring necrosis |
 
-| Lycopersicon lycopersicum | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Aleyrodidae -Hauptidia maroccana -Meloidogyne spp. -Tetranychus spp. -Thysanoptera, de különösen Frankliniella occidentalis -Vasates lycopersici Baktériumok -Pseudomonas syringae pv. tomato Gombák -Alternaria solani -Cladosporium fulvum -Colletotrichum coccodes -Didymella lycopersici -Fusarium oxysporum -Leveillula taurica -Phytophthora nicotianae -Pyrenochaeta lycopersici -Pythium spp. -Rhizoctonia solani -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, a Potato virus X, a Potato virus Y, a Tobacco mosaic virus, a Tomato mosaic virus és a Tomato yellow leaf curl virus |
+| Lycopersicon esculentum | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Aleyrodidae -Hauptidia maroccana -Meloidogyne spp. -Tetranychus spp. -Thysanoptera, de különösen Frankliniella occidentalis -Vasates lycopersici Baktériumok -Pseudomonas syringae pv. tomato Gombák -Alternaria solani -Cladosporium fulvum -Colletotrichum coccodes -Didymella lycopersici -Fusarium oxysporum -Leveillula taurica -Phytophthora nicotianae -Pyrenochaeta lycopersici -Pythium spp. -Rhizoctonia solani -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, a Potato virus X, a Potato virus Y, a Tobacco mosaic virus, a Tomato mosaic virus és a Tomato yellow leaf curl virus |
 
 | Rheum spp. | Baktériumok -Agrobacterium tumefaciens -Erwinia rhapontici Gombák -Armillariella mellea -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen az Arabis mosaic virus és a Turnip mosaic virus |
 
 | Solanum melongena | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aleyrodidae -Aphididae -Hemitarsonemus latus -Leptinotarsa decemlineata -Meloidogyne spp. -Tetranychidae -Thysanoptera, de különösen Frankliniella occidentalis Gombák -Fusarium spp. -Leveillula taurica f.sp. cynarae -Rhizoctonia solani -Pythium spp. -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, az Eggplant mosaic virus, a Potato virus Y, és a Tobacco mosaic virus |
 
-10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^174]
+10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^183]
 
-| Mezőgazdasági Szakigazgatási Hivatal KözpontNövénytermesztési és Kertészeti Igazgatóság 1024 Budapest, Keleti Károly u. 24. 1525 Budapest 114. Pf. 30 | Oldal: ............. |
-
-SZEMLEMEGRENDELŐ
-
-a dughagyma és fokhagyma szerződéses termeltetéséhez
-
-................. év
-
-| Engedélyes üzem neve és címe: | Engedélyszáma: |
-
-| Dátum: |
-
-Bejelentem, hogy az alábbi üzemek dughagyma/fokhagyma termesztést/tárolást/kezelést/kiszerelést végeznek számomra a pótlapok szerinti növényekből és mennyiségben. A csatolt pótlapok száma: .................... db.
-
-Kérem, hogy a szaporítóanyagok éves szemléjét elvégezni szíveskedjenek.
-
-| Sorszám | Szeződéses üzem | Tevékenységbe vont területek* | Szerződéskötés éve |
-
-| neve | címe | tevékenység | helység és hrsz. | nagyság (m2) |
-
-–––––––––––––
-
-* Kizárólag az MgSzH Központ zöldségpalánta termesztők és nagykereskedők nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat szerződéses üzemenként kell kiállítani.
-
-PÓTLAP*
-
-a szerződéses termeltetés keretében előállított dughagyma és fokhagyma szemlemegrendelőjéhez
-
-.................. év
-
-| Engedélyes üzem neve és címe: ................................................ ................................................................................................................. | Engedélyszáma: .................................................................. |
-
-| Szerződéses üzem neve és címe: ...................................................................................................... ................................................................................................................. Szerződésben szereplő tevékenység: ................................................................................................................ | Dátum: .................................................................. |
-
-| Szaporítóanyag megnevezése (magyar név, fajta) | Mennyisége (kg) | Ellenőrző felügyelő megjegyzése |
-
-* Az MgSzH Központ zöldségpalánta termesztők és nagykereskedők nyilvántartásában szereplő engedélyes üzem tölti ki, kivéve az ellenőrzéshez kapcsolódó rovatokat.
-
-Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
-
-[^174]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be.
+[^183]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be.

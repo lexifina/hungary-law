@@ -1,6 +1,6 @@
 ## Zöldségvetőmag kiszerelése, csomagolása és jelölése
 
-15. § (1)[^34] Zöldségvetőmag-kiszerelést az folytathat, aki megfelel a (3) bekezdés szerinti szakmai feltételeknek, és akit az MgSzH Központja nyilvántartásba vett.
+15. § (1)[^42] Zöldségvetőmag-kiszerelést az folytathat, aki megfelel a (3) bekezdés szerinti szakmai feltételeknek, és akit az MgSzH nyilvántartásba vett.
 
 (2) A kiszerelt vetőmag továbbszaporításra nem, csak árutermesztés céljára használható fel. Kis kiszerelésű EK vetőmagnak a fémzárolt, minősített vetőmag
 
@@ -14,7 +14,7 @@ c) minden más zöldségfaj esetében 100 g-ig
 
 (3) A kiszerelés feltétele, hogy
 
-a)[^35] a kiszerelésre kerülő certifikált vetőmag az MgSzH Központja által minősített, a standard vetőmag saját jogon minősített, szabványos minőségű, érvényes fémzárolású tételből származik,
+a)[^43] a kiszerelésre kerülő certifikált vetőmag az MgSzH által minősített, a standard vetőmag saját jogon minősített, szabványos minőségű, érvényes fémzárolású tételből származik,
 
 b) a tételeket kiszerelni csak az e rendeletben szereplő minőségi feltételek teljesülése esetén lehet,
 
@@ -28,7 +28,7 @@ f) a kiszerelő nyilvántartást köteles vezetni, amely tartalmazza a faj és a
 
 g) a kiszerelésre kerülő vetőmagtételekből mintát kell venni és azt meg kell őrizni addig, amíg a vetőmag forgalomban van.
 
-(4)[^36] A kiszerelési tevékenységet az MgSzH Központja ellenőrizheti.
+(4)[^44] A kiszerelési tevékenységet az MgSzH ellenőrizheti.
 
 (5) A nem kis kiszerelésű EK vetőmagként csomagolt elit vagy certifikált vetőmagot hatóságilag vagy hatósági felügyelet mellett kell lezárni oly módon, hogy a csomagolási egység ne legyen felnyitható a lezárás megsértése nélkül. A csomagolási egység lezárási rendszerének legalább a hatósági címke vagy a hatósági fémzár (záróbélyeg) felhelyezéséből kell állnia. A hatóságilag lezárt csomagolási egységek csak hatóságilag vagy hatósági felügyelet mellett zárhatók újra. Az újrazárás tényét, annak legutóbbi időpontját és a felelős hatóságot a címkén fel kell tüntetni. A kis kiszerelésű vetőmag kivételével a vetőmag-csomagolási egységét a címkézésért felelős személynek ólom- vagy azzal egyenértékű fémzárral (záróbélyeggel) kell ellátnia.
 
@@ -38,7 +38,7 @@ g) a kiszerelésre kerülő vetőmagtételekből mintát kell venni és azt meg 
 
 (8) A Magyar Köztársaság területén forgalmazott kis kiszerelésű vetőmag minden csomagolási egységén magyar nyelven is fel kell tüntetni a faj nevét, a vetőmag minősítésének és csávázásának tényét.
 
-(9) Csávázott vetőmagtétel esetén a kísérőcímkéken vagy okmányokon, valamint a csomagoláson fel kell tüntetni a csávázószer kereskedelmi nevét vagy hatóanyag-tartalmát. Kis kiszerelés esetén a csávázás ténye a tasakra nyomtatható vagy azon belül jelölhető. Csávázásra kizárólag olyan anyag használható, amely a külön jogszabályban foglalt előírásoknak megfelel.
+(9)[^45] Csávázott vetőmagtétel esetén a kísérőcímkéken vagy okmányokon, valamint a csomagoláson fel kell tüntetni a csávázószer kereskedelmi nevét vagy hatóanyag-tartalmát. Kis kiszerelés esetén a magkezelés, illetve csávázás tényét a tasakon jelölni kell. Csávázásra kizárólag olyan anyag használható, amely a növényvédőszerek engedélyezésére vonatkozó jogszabályban foglalt előírásoknak megfelel.
 
 (10) Géntechnológiával módosított fajta esetében a tételt kísérő valamennyi címkén, illetve más okiraton egyértelműen fel kell tüntetni, hogy a fajta géntechnológiával módosított.
 
@@ -46,6 +46,7 @@ g) a kiszerelésre kerülő vetőmagtételekből mintát kell venni és azt meg 
 
 (12) A valamely más tagállamban betakarított, nem véglegesen certifikált vetőmag címkéjének és okmányának formáját és tartalmát a 7. számú melléklet tartalmazza.
 
-[^34]: A 15. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^35]: A 15. § (3) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^36]: A 15. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^42]: A 15. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^43]: A 15. § (3) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^44]: A 15. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 15. § (9) bekezdése a 14/2011. (II. 24.) VM rendelet 7. §-ával megállapított szöveg.

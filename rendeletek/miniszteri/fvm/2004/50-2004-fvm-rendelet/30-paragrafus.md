@@ -1,4 +1,4 @@
-## 29. §[^119] Átmeneti és az Európai Unión belül ki nem küszöbölhető palánta ellátási nehézség elhárítása céljából az MgSzH Központja engedélyt adhat egy adott kategóriához tartozó, az e rendeletben foglaltaknál kevésbé szigorú követelményeknek megfelelő palánta meghatározott ideig való forgalomba hozatalára az Európai Bizottság felhatalmazása alapján, ha az a növény-egészségügyi jogszabályok előírásainak egyébként megfelel.
+## 29. §[^124] Átmeneti és az Európai Unión belül ki nem küszöbölhető palánta ellátási nehézség elhárítása céljából az MgSzH engedélyt adhat egy adott kategóriához tartozó, az e rendeletben foglaltaknál kevésbé szigorú követelményeknek megfelelő palánta meghatározott ideig való forgalomba hozatalára az Európai Bizottság felhatalmazása alapján, ha az a növény-egészségügyi jogszabályok előírásainak egyébként megfelel.
 
 ## A zöldségpalántát kísérő okmányok és jelölések
 
@@ -8,7 +8,7 @@
 
 (3) Az árut kísérő okmánynak olyan, a célnak megfelelő anyagból kell készülnie, amelyet korábban nem használtak és az Európai Unió valamely hivatalos nyelvén állítottak ki.
 
-(4)[^120] Az árut kísérő okmány lehet az MgSzH Központja által rendszeresített okmány vagy az üzem által kiállított bármely olyan okmány, amelyet általában kereskedelmi célra használnak.
+(4)[^125] Az árut kísérő okmány lehet az MgSzH által rendszeresített okmány vagy az üzem által kiállított bármely olyan okmány, amelyet általában kereskedelmi célra használnak.
 
 (5) Az okmányon jól látható és el nem távolítható módon szerepelnie kell
 
@@ -16,9 +16,9 @@ a) az ,,EK minőség'' megjelölésnek, ha annak a (6) bekezdésben foglalt felt
 
 b) a Magyar Köztársaság európai uniós tagállam kódjának,
 
-c)[^121] az MgSzH Központja nevének vagy azonosító kódjának,
+c)[^126] az MgSzH nevének vagy azonosító kódjának,
 
-d)[^122] az üzem MgSzH Központjától kapott engedélyszámának,
+d)[^127] az üzem MgSzH-tól kapott engedélyszámának,
 
 e) az üzem nevének,
 
@@ -36,15 +36,15 @@ k) ha a szaporítóanyag harmadik országból származik, az előállító orsz�
 
 (6) Az ,,EK minőség'' megjelölést kizárólag a 2. számú mellékletben felsorolt növénynemzetségek és fajok Közösségi Fajtajegyzéken szereplő fajtáinak palántája esetén szabad szerepeltetni.
 
-(7)[^123] Ha a palántát növényútlevél kíséri – az üzem döntése alapján – a növényútlevél helyettesítheti a palántát kísérő, a (2) bekezdés szerinti okmányt, ez esetben azonban
+(7)[^128] Ha a palántát növényútlevél kíséri – az üzem döntése alapján – a növényútlevél helyettesítheti a palántát kísérő, a (2) bekezdés szerinti okmányt, ez esetben azonban
 
 a) az „EK minőség” megjelölésnek,
 
-b) az MgSzH Központja nevének vagy kódjának,
+b)[^129] az MgSzH nevének vagy kódjának,
 
 c) a faj és fajtanévnek,
 
-d) az üzem MgSzH Központjától kapott engedélyszámának, valamint
+d)[^130] az üzem MgSzH-tól kapott engedélyszámának, valamint
 
 e) harmadik országból való származás esetén az előállító ország nevének is,
 
@@ -54,13 +54,15 @@ e) harmadik országból való származás esetén az előállító ország nevé
 
 (9) Az okmány csak az adott tételre érvényes, annak újbóli felhasználása tilos.
 
-(10)[^124] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, az MgSzH Központja a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
+(10)[^131] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
 
 (11) Ha különböző helyekről származó palántákat összekevernek a csomagolás, tárolás vagy a szállítás alatt, az üzem köteles feljegyzést készíteni az összetevőkről és az összetevő tételek származásáról.
 
-[^119]: A 29. § a 124/2007. (X. 20.) FVM rendelet 12. §-ával megállapított szöveg.
-[^120]: A 30. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja szerint módosított szöveg.
-[^121]: A 30. § (5) bekezdésének c) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja szerint módosított szöveg.
-[^122]: A 30. § (5) bekezdésének d) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja szerint módosított szöveg.
-[^123]: A 30. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 13. §-ával megállapított szöveg.
-[^124]: A 30. § (10) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja szerint módosított szöveg.
+[^124]: A 29. § a 124/2007. (X. 20.) FVM rendelet 12. §-ával megállapított, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^125]: A 30. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^126]: A 30. § (5) bekezdésének c) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének e) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^127]: A 30. § (5) bekezdés d) pontja a 14/2011. (II. 24.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^128]: A 30. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 13. §-ával megállapított szöveg.
+[^129]: A 30. § (7) bekezdés b) pontja a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^130]: A 30. § (7) bekezdés d) pontja a 14/2011. (II. 24.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^131]: A 30. § (10) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § e) pontja szerint módosított szöveg. [E módosító rendelet 19. § (2) bekezdésével elrendelt módosítás, amely szerint a „Központja” szövegrész hatályát veszti, nem vezethető át.]

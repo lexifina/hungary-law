@@ -14,7 +14,13 @@
 
 ## Vöröshagyma (Allium cepa l.)
 
+## Téli sarjadékhagyma (Allium fistulosum l.)
+
 ## Póréhagyma (Allium porrum l.)
+
+## Fokhagyma (Allium sativum l.)
+
+## Metélőhagyma (Allium schoenoprasum l.)
 
 | Dugvány esetén |  |
 
@@ -193,6 +199,8 @@
 ## Cékla (Beta vulgaris L. var. conditiva Alef.)
 
 ## Mangold (Beta vulgaris L. ssp. cicla)
+
+## Rebarbara (Rheum rhabarbarum)
 
 | Dugvány esetén |  |
 
@@ -942,7 +950,7 @@
 
 | Kártevőka mintaterek átlagában, együttesen legfeljebb | % | 15 |  |
 
-## Csemege kukorica (Zea mays L. convar. saccharata Koern)
+## Csemege kukorica (Zea mays L. /partim/)
 
 ## Az ellenőrzések száma: 5
 
@@ -1032,6 +1040,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^172]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^180]
 
-[^172]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
+[^180]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
