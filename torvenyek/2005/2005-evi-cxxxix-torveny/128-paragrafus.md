@@ -64,4 +64,4 @@ c) az Országos Tudományos Diákköri Tanács támogatásához az éves hallgat
 
 (6) Az e §-ban szabályozott pályázatok benyújtásának feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát. A kis létszámú szakokra a költségvetési hozzájárulásra való jogosultságot adott felsőoktatási intézmény tekintetében öt–nyolc évre kell biztosítani.
 
-(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. [Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében megtervezett előirányzat biztosítja.] A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
+(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.

@@ -203,3 +203,21 @@ al) a hallgató diákigazolványának sorszáma,
 am) a törzslap azonosító száma,
 
 an) a hallgató azonosító száma, társadalombiztosítási azonosító jele,
+
+ao) a záróvizsga (szakmai vizsga, doktori védés) szakja, időpontja és eredménye,
+
+ap) a kiadott okiratok tartalmára és azonosítására vonatkozó adatok,
+
+aq) a külföldi állampolgárságú hallgató miniszteri ösztöndíjára vonatkozó adatok,
+
+ar) a képzés során megszerzett, illetve a más tanulmányokból elismert kreditek száma;
+
+b) a kiadott oklevél, bizonyítvány adatai,
+
+ba) az igazolt szakképzettség, szakképesítés megnevezése,
+
+bb) az oklevél, bizonyítvány kelte, aláíróinak neve,
+
+bc) az oklevél, bizonyítvány kiállítására szolgáló nyomtatvány sorszáma,
+
+bd) a hallgató törzskönyvi száma,
