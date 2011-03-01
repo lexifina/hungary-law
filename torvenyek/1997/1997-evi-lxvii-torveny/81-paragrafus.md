@@ -24,4 +24,4 @@ e) külön juttatásban nem részesülhet.
 
 (4) A vezetői tisztségből való felmentésre irányuló fegyelmi büntetést a kinevezésre jogosult hajtja végre.
 
-(5) A fegyelmi büntetés hatálya alatt álló bírót – kérelmére – az első fokon eljárt fegyelmi bíróság a jogkövetkezmények alól mentesítheti, ha az (1) bekezdés szerinti idő fele már eltelt, feltéve, hogy a bíró ellen újabb fegyelmi eljárás nincs folyamatban.
+(5) A fegyelmi büntetés hatálya alatt álló bírót – kérelmére – az elsőfokú szolgálati bíróság a jogkövetkezmények alól mentesítheti, ha az (1) bekezdés szerinti idő fele már eltelt, feltéve, hogy a bíró ellen újabb fegyelmi eljárás nincs folyamatban.

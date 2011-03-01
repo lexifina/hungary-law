@@ -1,1 +1,7 @@
-4. § A bírói kinevezésre pályázónak igazolnia kell a kinevezéshez szükséges adatokat és tényeket, továbbá nyilatkoznia kell arról, hogy hozzájárul-e a bűnügyi nyilvántartást végző szerv megkereséséhez a nyilvántartás teljes köréről történő adatszolgáltatáshoz. A bűnügyi nyilvántartást végző szervet az OIT elnöke keresi meg. Ha a pályázó a megkereséshez nem járul hozzá, kinevezésre nem lehet előterjeszteni.
+4. § A bírói kinevezésre pályázónak a pályázat benyújtásakor
+
+a) igazolnia kell a kinevezéshez szükséges adatokat és tényeket, valamint
+
+b) hatósági bizonyítvánnyal igazolnia kell azt a tényt, hogy a 3. § (2) bekezdés a)–f) pontjában meghatározott körülmény vele szemben nem áll fenn,
+
+c) igazolnia kell, hogy kezdeményezte a pályaalkalmassági vizsgálatot vagy rendelkezik érvényes vizsgálati eredménnyel.

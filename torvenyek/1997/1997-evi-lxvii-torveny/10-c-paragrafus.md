@@ -18,6 +18,6 @@ c) más szervektől, személyektől adatokat szerezhet be.
 
 (7) A bíró és – a reá vonatkozó adatok tekintetében – a bíróval közös háztartásban élő hozzátartozója a Hivatalban nyilvántartott vagyonnyilatkozatába, valamint az (5) bekezdésben foglaltak szerint beszerzett adatokba az adatok nyilvántartásának módjától függetlenül jogosult betekinteni.
 
-(8) Az OIT az ellenőrzési eljárás megállapításait közli a munkáltatói jogkör gyakorlójával. A munkáltatói jogkör gyakorlója a döntéséről és annak indokairól 15 napon belül tájékoztatja a bírót és az OIT-ot. Ha a bíró a munkáltatói jogkör gyakorlójának a Bjt. 57. § (1) bekezdésének k) pontjára alapított döntését vitatja, jogorvoslatért a bírósághoz fordulhat.
+(8) Az OIT az ellenőrzési eljárás megállapításait közli a munkáltatói jogkör gyakorlójával. A munkáltatói jogkör gyakorlója a döntéséről és annak indokairól 15 napon belül tájékoztatja a bírót és az OIT-ot. Ha a bíró a munkáltatói jogkör gyakorlójának a Bjt. 57. § (2) bekezdésének k) pontjára alapított döntését vitatja, jogorvoslatért a bírósághoz fordulhat.
 
 (9) A (6) bekezdés alapján átvett adatokat – feltéve, hogy az ellenőrzés megállapításai alapján nem indult a szolgálati jogviszonyból eredő jogvita vagy büntetőeljárás – az ellenőrzési eljárás befejezése után meg kell semmisíteni.

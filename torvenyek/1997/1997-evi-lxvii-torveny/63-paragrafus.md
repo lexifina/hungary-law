@@ -1,7 +1,3 @@
-## VI. Fejezet
-
-## A BÍRÓ FEGYELMI FELELŐSSÉGE
-
 ## A fegyelmi vétség
 
 63. § Fegyelmi vétséget követ el a bíró, ha vétkesen

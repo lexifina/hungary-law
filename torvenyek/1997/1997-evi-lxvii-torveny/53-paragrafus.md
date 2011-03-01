@@ -2,14 +2,20 @@
 
 (2) Az értékelés eredményeként a bíró
 
-a) kiválóan alkalmas,
+a) kiváló, magasabb bírói beosztásra alkalmas,
 
-b) alkalmas,
+b) kiválóan alkalmas,
 
-c) alkalmatlan
+c) alkalmas,
+
+d) alkalmas, utóvizsgálat lefolytatása indokolt,
+
+e) alkalmatlan
 
 értékelést kaphat.
 
-(3) Ha a vizsgált bíró vitatja a (2) bekezdés b) pontja szerinti megállapítást, kérésére az értékelés elrendelője kikéri a kollégium véleményét.
+(3) A bíróság elnöke az értékelés eredményét írásban indokolni köteles, s azt a bírónak, valamint – a legfelsőbb bírósági bíró kivételével – a bíró beosztása szerint illetékes fellebbviteli bíróság kollégiumvezetőjének meg kell küldenie.
 
-(4) A bíró alkalmatlanságának megállapítása esetén – ha azt az értékelés ismertetésétől számított 15 napon belül a bíróság elnöke nem változtatja meg – a bíró jogorvoslatért a bírósághoz fordulhat.
+(4) Ha a bíró az értékelés eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap, az értékelő az értékelésben megállapítja a tapasztalt hiányosságokat, rendellenességeket és megjelöli a kívánt változtatás fő szempontjait, amelyeket a következő vizsgálat alkalmával meg kell vizsgálni. A következő vizsgálatot 2 éven belül el kell végezni. A 12. § (6) bekezdése szerint ismét határozott időre kinevezett bíró vizsgálatát a határozott idő leteltét megelőzően kell elvégezni.
+
+(5) A bíró a következő vizsgálatkor alkalmatlan minősítést kap abban az esetben is, ha az értékelése e vizsgálat alkalmával sem éri el legalább az alkalmas értékelést.

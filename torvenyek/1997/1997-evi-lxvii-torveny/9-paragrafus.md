@@ -1,7 +1,13 @@
-9. § (1) Ha a pályázók valamelyikének beosztására az OIT jogosult, a bíróság elnöke a pályázatokat – a bírói testület javaslatával együtt – felterjeszti az OIT-hoz. A felterjesztésben közli saját javaslatát is.
+9. § (1) A bírói tanács a rangsor kialakítása során a pontszámok alapján kialakult sorrendtől nem térhet el. Ha a rangsor első helyén több pályázó szerepel, közülük a bírói tanács egyszerű szótöbbséggel hozott, írásbeli, indokolt határozatával választja ki azt a pályázót, akit kinevezésre javasol.
 
-(2) Ha az OIT a bíróság elnökének javaslatával nem ért egyet, erről őt tájékoztatja és meghallgatja.
+(2) A bírói tanács a pályázók rangsorát, az (1) bekezdésben foglalt esetben az írásbeli, indokolt határozatát és a pályázatokat haladéktalanul továbbítja a bíróság elnökéhez.
 
-(3) Az OIT a pályázókat meghallgathatja.
+(3) Ha a bíróság elnöke az első helyen rangsorolt pályázó kinevezésével egyetért, úgy a pályázati rangsort és a pályázatokat a köztársasági elnökhöz történő felterjesztés érdekében 15 napon belül az OIT elnökének megküldi. Ha az OIT elnöke a bíróság elnökének javaslatával egyetért, a köztársasági elnökhöz való felterjesztéssel a pályázatot elbírálja. Ha az OIT elnöke a javaslattól eltérő – a rangsor soron következő helyein álló – pályázót javasol bírói kinevezésre, ezt írásban indokolnia kell és javaslatát, a pályázati rangsort, valamint a pályázatokat haladéktalanul az OIT elé kell terjesztenie. Ebben az esetben az OIT bírálja el a pályázatot és dönt arról, hogy mely pályázó kinevezését támogatja, és terjeszti fel a köztársasági elnökhöz.
 
-(4) Az OIT a pályázatot elbírálja, ennek során a felterjesztett javaslatok nem kötik.
+(4) Ha a bíróság elnöke a bírói tanács által felállított rangsor alapján kinevezésre javasolt pályázótól eltérő – a rangsor soron következő helyein álló – pályázót javasol bírói kinevezésre, ezt írásban indokolnia kell és javaslatát, a pályázati rangsort, valamint a pályázatokat 15 napon belül az OIT elé terjesztés céljából az OIT elnökének megküldi. Ebben az esetben az OIT bírálja el a pályázatot, és dönt arról, hogy mely pályázó kinevezését támogatja, és terjeszti fel a köztársasági elnökhöz.
+
+(5) A Legfelsőbb Bíróságra kiírt pályázat esetén, ha a Legfelsőbb Bíróság elnöke az első helyen rangsorolt pályázó kinevezésével egyetért, úgy a pályázati rangsort és a pályázatokat a köztársasági elnökhöz történő felterjesztés érdekében 15 napon belül az OIT-nak megküldi. Ha a Legfelsőbb Bíróság elnöke a bírói tanács által felállított rangsor alapján kinevezésre javasolt pályázótól eltérő – a rangsor soron következő helyein álló – pályázót javasol bírói kinevezésre, ezt írásban indokolnia kell és javaslatát, a pályázati rangsort, valamint a pályázatokat és az írásbeli indokolást 15 napon belül az OIT-nak megküldi. Mindkét esetben az OIT bírálja el a pályázatot és dönt arról, hogy mely pályázó kinevezését támogatja, és terjeszti fel a köztársasági elnökhöz.
+
+(6) Az OIT-ot a javaslatok nem kötik. Az OIT a pályázókat meghallgathatja.
+
+(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha az OIT a pályázat elbírálója és az áthelyezésre is az OIT jogosult, határoz a bíró áthelyezéséről.

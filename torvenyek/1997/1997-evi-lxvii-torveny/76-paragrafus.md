@@ -1,4 +1,4 @@
-76. § (1) A vizsgálóbiztos jelentésének előterjesztését követő 15 napon belül a fegyelmi tanács dönt a fegyelmi eljárás megindításáról vagy megtagadásáról, illetőleg a felfüggesztésről. Ha büntetőeljárás indult, annak jogerős befejezéséig a fegyelmi eljárás felfüggeszthető.
+76. § (1) A vizsgálóbiztos jelentésének előterjesztését követő 15 napon belül a szolgálati bíróság tanácsa dönt a fegyelmi eljárás megindításáról vagy megtagadásáról, illetőleg a felfüggesztésről.
 
 (2) Az eljárás alá vont bíró a képviseletével más bírót vagy ügyvédet bízhat meg.
 

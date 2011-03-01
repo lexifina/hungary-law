@@ -2,4 +2,4 @@
 
 (2) A javadalmazás fizetési számlára történő átutalása és egyszeri felvétele, illetve a pénzforgalmi számláról történő készpénzkifizetés a bíró részére költségtöbbletet nem okozhat.
 
-(3) A javadalmazásnak az (1)–(2) bekezdésekben szabályozott módon történő kifizetésére 1999. január 1. napjáig kell áttérni.
+(3)

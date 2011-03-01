@@ -1,3 +1,1 @@
-48. § (1) Az értékelés kiterjed a bíró tevékenységének az anyagi, az eljárási és az ügyviteli jogszabályok alkalmazása szempontjából történő vizsgálatára.
-
-(2) A vizsgálat a jogerősen befejezett ügyekben történhet.
+48. § Az értékelést megalapozó vizsgálatnak – a jogerősen befejezett ügyek alapján – fel kell tárni a bíró anyagi, eljárási és ügyviteli jogszabály-alkalmazási és tárgyalásvezetési gyakorlatát.

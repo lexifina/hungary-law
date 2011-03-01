@@ -16,7 +16,7 @@ gyakorolja.
 
 (2) A munkáltatói jogkör gyakorlását törvényben külön nem nevesített esetekben
 
-a) az OIT az OIT elnökére és a Hivatal vezetőjére,
+a) az OIT az OIT elnökére, az OIT elnöke a Hivatal vezetőjére,
 
 b) a megyei bíróság elnöke a helyi bírósági bírák tekintetében – a bíró értékelésének elrendelése kivételével – a helyi bíróság elnökére
 

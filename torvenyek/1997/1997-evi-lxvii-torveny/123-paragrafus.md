@@ -6,7 +6,7 @@
 
 (4) A munkaügyi bíróság ülnökeit elsősorban a munkavállalók és munkaadók érdekképviseleti szervei jelölik.
 
-(5) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, havi átlagkeresetét, valamint az aláírását tartalmazza. A jelölt köteles arról is nyilatkozni, hogy büntetve volt-e, rendelkezik-e választójoggal.
+(5) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, havi átlagkeresetét, valamint az aláírását tartalmazza. A jelölt köteles arról is nyilatkozni, hogy rendelkezik-e választójoggal.
 
 (6) A jelölt lakóhelye szerint illetékes jegyző megállapítja, hogy a jelöltnek van-e választójoga.
 

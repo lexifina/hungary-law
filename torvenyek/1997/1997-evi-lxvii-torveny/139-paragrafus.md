@@ -6,6 +6,8 @@
 
 a) a pályaalkalmassági vizsgálat szempontjait, módját és eljárását az egészségügyért felelős miniszterrel egyetértésben – az OIT véleményének kikérésével –,
 
-b) a bírák igazolványára vonatkozó szabályokat
+b) a bírák igazolványára vonatkozó szabályokat,
+
+c) a bírói álláspályázatok elbírálásának részletes szabályait, a pályázati rangsor kialakítása során figyelembe vehető szempontokhoz rendelhető pontszámokat az OIT véleményének kikérésével
 
 rendelettel állapítsa meg.

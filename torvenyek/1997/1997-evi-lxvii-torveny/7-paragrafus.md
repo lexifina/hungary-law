@@ -1,13 +1,15 @@
-7. § (1) A pályázat kiírására
+7. § (1) A pályázat kiírására az OIT elnöke jogosult. A bíróság elnöke a bírói álláshely megüresedéséről haladéktalanul értesíti az OIT elnökét.
 
-a) a helyi, a munkaügyi és a megyei bíróságon lévő bírói állás esetén a megyei bíróság elnöke,
+(2) A pályázati felhívásnak tartalmaznia kell a bírói kinevezéshez szükséges valamennyi feltételt. Jogszabályban nem szereplő pályázati feltétel a munkakörhöz szükséges speciális szakismeret esetén, ahhoz kapcsolódóan írható elő; erről a pályázókat a pályázati felhívásban külön tájékoztatni kell.
 
-b) az ítélőtáblán lévő bírói állás esetén az ítélőtábla elnöke,
+(3) A pályázati felhívást a Bírósági Közlönyben, valamint a bíróságok központi internetes honlapján, bárki számára hozzáférhető módon közzé kell tenni.
 
-c) a Legfelsőbb Bíróságon lévő bírói állás esetén a Legfelsőbb Bíróság elnöke (a továbbiakban e fejezetben együtt: a bíróság elnöke)
+(4) A pályázatot
 
-jogosult.
+a) helyi és munkaügyi bíróságra, továbbá megyei bíróságra kiírt pályázat esetén a megyei bíróság elnökéhez,
 
-(2) A pályázati kiírásnak a pályázat elnyeréséhez szükséges valamennyi feltételt tartalmaznia kell.
+b) ítélőtáblára kiírt pályázat esetén az ítélőtábla elnökéhez,
 
-(3) A pályázatot a megpályázott álláshely szerint illetékes bíróság elnökéhez kell benyújtani, aki azt véleményével együtt, haladéktalanul az (1) bekezdés a) pontjában megjelölt bíróság elnökéhez továbbítja.
+c) a Legfelsőbb Bíróságra kiírt pályázat esetén a Legfelsőbb Bíróság elnökéhez (a továbbiakban e fejezetben együtt: a bíróság elnöke) kell benyújtani.
+
+(5) Ha a pályázó pályázata elkésett, azt a bíróság elnöke elutasítja; a hiányos pályázatot benyújtó pályázót [4. §, 32. § (1) bekezdés] pedig rövid határidő tűzésével felhívja a hiányok pótlására, ennek elmulasztása esetén a pályázatot elutasítja.

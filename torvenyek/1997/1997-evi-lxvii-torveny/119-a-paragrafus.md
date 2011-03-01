@@ -16,7 +16,7 @@ f) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, ill
 
 (3) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati jogviszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(4) A (2) bekezdés d)–e) pontjában foglalt feltételek teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését a bíró hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
 (5) A bíró a munkáltatói jogkör gyakorlójának köteles bejelenteni a hitelszerződés megkötését követő öt munkanapon belül
 
@@ -28,7 +28,7 @@ c) a hitel lejártának időpontját.
 
 A fenti adatokban bekövetkezett változásokról a bíró haladéktalanul köteles tájékoztatni a munkáltatói jogkör gyakorlóját.
 
-(6) Amennyiben a bíró szolgálati viszonya az 57. § (1) bekezdésének a)–b) pontja, c) pontja, – ha az alkalmatlanság nem egészségügyi ok következménye – d)–f) pontja, valamint a j) és az l) pontja alapján szűnik meg, a még fennálló állami kezesség után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének kettő százaléka.
+(6) Amennyiben a bíró szolgálati viszonya az 57. § (1) bekezdésének c) pontja, (2) bekezdésének a) pontja, b) pontja – ha az alkalmatlanság nem egészségügyi ok következménye –, c)–e), i), k)–m) pontja alapján szűnik meg, a még fennálló állami kezesség után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének kettő százaléka.
 
 (7) A munkáltatói jogkör gyakorlója a bíró szolgálati jogviszonyának a (6) bekezdés szerinti megszűnése esetén erről nyolc napon belül értesíti a bíró által az (5) bekezdés alapján bejelentett hitelintézetet.
 

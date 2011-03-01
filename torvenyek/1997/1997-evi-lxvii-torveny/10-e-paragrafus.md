@@ -1,4 +1,4 @@
-10/E. § (1) A Legfelsőbb Bíróság elnökére a 10/A–10/D. §-okban foglalt rendelkezéseket a (2)–(6) bekezdések szerinti eltérésekkel kell alkalmazni.
+10/E. § (1) A Legfelsőbb Bíróság elnökére a 10/A–10/C. §-okban foglalt rendelkezéseket a (2)–(6) bekezdések szerinti eltérésekkel kell alkalmazni.
 
 (2) A Legfelsőbb Bíróság elnöke a megválasztásától számított harminc napon belül az e törvény 4. számú melléklete szerinti vagyonnyilatkozat személyi és vagyoni részének egy-egy példányát zárt borítékban átadja az Országgyűlés elnökének. A zárt borítékok kezeléséről az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága (a továbbiakban: bizottság) gondoskodik.
 

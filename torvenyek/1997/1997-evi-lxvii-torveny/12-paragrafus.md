@@ -7,3 +7,5 @@
 (4) Ha a bíró a határozatlan időre történő bírói kinevezését nem kérte, vagy a (2) bekezdésben említett vizsgálat eredményeként a kinevezésre nem alkalmas, a bíró szolgálati viszonya a kinevezés napjától számított harmadik év utolsó napjával megszűnik.
 
 (5) Ha a bíró tényleges működésének időtartama a 18 hónapot nem érte el, a kinevezés – az OIT javaslatára – újra határozott időre, három évre szól, kivéve, ha a bíró a szolgálati viszonyát nem kívánja fenntartani. A kinevezési javaslat előterjesztésére a (3) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+(6) A bíró ismét 3 éves határozott idejű kinevezést kap, ha a (2) bekezdés szerinti vizsgálat eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap. Az (1)–(5) bekezdésben foglaltakat az újabb határozott idejű kinevezés esetében is megfelelően alkalmazni kell.
