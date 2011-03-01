@@ -1,6 +1,6 @@
 ## A kérelem benyújtása
 
-6. § (1)[^12] A támogatási kérelmet 2011. március 1. és 31. között, ezt követően évente március 1. és 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon az MVH-hoz. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+6. § (1)[^12] A támogatási kérelmet 2011. november 15. és december 15. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon az MVH-hoz. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
 a) az ügyfél típusához kapcsolódó adatok,
 
@@ -32,7 +32,7 @@ h)[^18] a Vhr. 27. § (1) bekezdés f) pontja szerinti pénzügyi tervet és üz
 
 (4)[^19] A támogatási kérelem részleges visszavonása kizárólag támogatási egységre, a hozzá kapcsolódó mértékre, illetve összegre vonatkozhat.
 
-[^12]: A 6. § (1) bekezdése a 26/2010. (XI. 4.) VM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 6. § (1) bekezdése a 15/2011. (II. 28.) VM rendelet 1. §-ával megállapított szöveg.
 [^13]: A 6. § (2) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^14]: A 6. § (2) bekezdésének d) pontja a 34/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^15]: A 6. § (2) bekezdésének e) pontja a 34/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
