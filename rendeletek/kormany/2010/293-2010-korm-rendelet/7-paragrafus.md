@@ -26,6 +26,8 @@ ba) jelenlegi vagy tervezett beosztását,
 
 bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét.
 
-(3) A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója feljegyzéssel rendeli el.
+(3)[^1] A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója határozattal rendeli el.
 
 (4) A kifogástalan életvitel ellenőrzést az elrendelésétől számított 30 napon belül be kell fejezni. E határidőt az elrendelő indokolt esetben egy alkalommal 30 nappal meghosszabbíthatja.
+
+[^1]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
