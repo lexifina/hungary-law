@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2009-03-01 | 2007-26-20-0L.4 | 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet |
 | 2010-05-06 | 2007-26-20-0L.5 | 37/2010. (V. 4.) KHEM rendelet |
 | 2011-01-01 | 2007-26-20-0L.6 | 37/2010. (V. 4.) KHEM rendelet |
+| 2011-03-01 | 2007-26-20-0L.7 | 5/2011. (II. 28.) NFM rendelet |

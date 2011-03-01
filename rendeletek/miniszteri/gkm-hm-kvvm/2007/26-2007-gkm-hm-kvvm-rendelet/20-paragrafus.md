@@ -1,4 +1,4 @@
-## 19. § A repülések tervezhetősége és a végrehajtásuk ellenőrizhetősége céljából – különös figyelemmel a nemzetközi tranzitrepülésekre – az NLKB a nemzetközi egyeztetéseknek megfelelően ATS útvonalakat és jelentőpontokat jelöl ki.
+## 19. §[^7] A nemzetközi és hazai légiforgalom tervezhetősége, biztonságos, rendszeres és gyors áramlásának fenntartása érdekében a jogszabályban kijelölt légiforgalmi irányító szolgálat illetékességi légterében – a stratégiai légtérgazdálkodás elveivel összhangban és a nemzetközi útvonalhálózatba illeszkedő – ATS útvonalakat alkalmazhat. Ha az ATS útvonal időszakosan korlátozott légteret érint, az alkalmazásra a Magyar Honvédség előzetes egyetértését követően kerülhet sor. Az ATS útvonalakat az AIP-ben közzé kell tenni.
 
 ## Katonai légi folyosók
 
@@ -15,3 +15,5 @@ c) a nem ellenőrzött, „G” osztályú légtérben jelölhetők ki az a) pon
 d) oldalirányú kiterjedésük 5 NM (10 km), és
 
 e) oldalirányban legalább 2 NM (4 km) távolságra elkerülik a működő repülőtereket.
+
+[^7]: A 19. § az 5/2011. (II. 28.) NFM rendelet 1. §-ával megállapított szöveg.

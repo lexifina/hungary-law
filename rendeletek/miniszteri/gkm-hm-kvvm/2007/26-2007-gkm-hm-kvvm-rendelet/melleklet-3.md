@@ -510,7 +510,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^11]
+együttes rendelethez[^12]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -1344,4 +1344,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-[^11]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.
+[^12]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.
