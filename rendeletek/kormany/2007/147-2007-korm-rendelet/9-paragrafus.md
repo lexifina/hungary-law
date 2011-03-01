@@ -2,17 +2,33 @@
 
 9. § (1) Ez a rendelet 2007. július 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően – elektronikus úton – benyújtott iparjogvédelmi beadványokra kell alkalmazni.
 
-(2)[^13]
+(2)[^16]
 
-Melléklet a 147/2007. (VI. 26.) Korm. rendelethez
+Melléklet a 147/2007. (VI. 26.) Korm. rendelethez[^17]
 
-1. Képi adatmegjelenítési formátum: JPEG (.jpg)
+1. Képi adatmegjelenítési formátumok
 
-2. Képi elemek megjelenítésére is alkalmas adatmegjelenítési formátum: Portable Document Format (.pdf) legalább 1.3., azzal, hogy az e formátumban csatolt fájlnak a felhasznált betűkészleteket beágyazva kell tartalmaznia; a fájl feldolgozhatósága (pl. nyomtatása, szövegének kereshetősége vagy másolhatósága) nem korlátozható.
+JPEG (.jpg), PNG (.png)
 
-3. Szövegszerű adatmegjelenítési formátum
+2. Képi elemek megjelenítésére is alkalmas adatmegjelenítési formátum
 
-3.1. Karakterszintű megjelenítésre vonatkozó formátumok:
+Portable Document Format (.pdf), legalább 1.4. verzió (ISO 19005–1:2005 PDF/A; ISO 15930–1–6 PDF/X), azzal, hogy az e formátumban csatolt fájlnak a felhasznált betűkészleteket beágyazva kell tartalmaznia; a fájl feldolgozhatósága (pl. nyomtatása, szövegének kereshetősége vagy másolhatósága) nem korlátozható.
+
+3. Szövegszerű adatmegjelenítési formátumok
+
+eXtensible Markup Language (XML)
+
+Rich Text Format (RTF)
+
+Open Document Format (ODF)
+
+Portable Document Format (.pdf) legalább 1.4. (ISO 19005–1:2005 PDF/A; ISO 15930–1–6 PDF/X), azzal, hogy az e formátumban csatolt fájlnak a felhasznált betűkészleteket beágyazva kell tartalmaznia; a fájl feldolgozhatósága (pl. nyomtatása, szövegének kereshetősége vagy másolhatósága) nem korlátozható.
+
+Karakterszinten túli jellemzőket nem használó, a 4. pontban meghatározott karakterformátumot alkalmazó állomány (egyszerűszöveg-formátum)
+
+WIPO Standard ST.25 (Standard for the Presentation of Nucleotide and Amino Acid Sequence Listings in Patent Applications)
+
+4. Karakterszintű megjelenítésre vonatkozó formátumok
 
 ISO/IEC 646:1991 (7 bites karakterkészlet információcsere biztosításához, ASCII)
 
@@ -22,10 +38,5 @@ ISO 8859–2:1999 (Latin–2), a magyar referenciakészletre vonatkozóan az MSZ
 
 ISO 10646:2003 (Unicode v.4.0)
 
-WIPO Standard ST.25 (Standard for the Presentation of Nucleotide and Amino Acid Sequence Listings in Patent Applications)
-
-3.2. Karakterszinten túli jellemzőket meghatározó szövegszerű formátumok:
-
-Karakterszinten túli jellemzőket nem használó, a 3.1. pontban meghatározott karakterformátumot alkalmazó állomány, a következő sorlezárás-jelzések egyikével: együttes kocsivissza-soremelés, önálló soremelés vagy önálló kocsivissza (együttesen: egyszerűszöveg-formátum)
-
-[^13]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.
+[^16]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.
+[^17]: A Melléklet a 341/2010. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
