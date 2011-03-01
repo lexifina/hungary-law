@@ -1,172 +1,182 @@
 ## Az alapellátmányok bruttó havi összege
 
-| Ország (állomáshely) AFRIKA | Pénznem | Alapellátmányok bruttó havi összege |
+| Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Algéria | EUR | 1456 |
+| AFRIKA |  |  |
 
-| Dél-afrikai Köztársaság | EUR | 1440 |
+| Algéria | EUR | 1373 |
 
-| Egyiptom | EUR | 1291 |
+| Dél-afrikai Köztársaság | EUR | 1181 |
 
-| Kenya | EUR | 1362 |
+| Egyiptom | EUR | 1059 |
 
-| Líbia | EUR | 1454 |
+| Kenya | EUR | 1117 |
 
-| Marokkó | EUR | 1416 |
+| Líbia | EUR | 1192 |
 
-| Nigéria | EUR | 1456 |
+| Marokkó | EUR | 1161 |
 
-| Tunézia | EUR | 1440 |
+| Nigéria | EUR | 1194 |
 
-| Ország (állomáshely) AMERIKA | Pénznem | Alapellátmányok bruttó havi összege |
+| Tunézia | EUR | 1181 |
 
-| Amerikai Egyesült Államok | EUR | 1564 |
+| Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Argentína | EUR | 1291 |
+| AMERIKA |  |  |
 
-| Brazília | EUR | 1317 |
+| Amerikai Egyesült Államok | EUR | 1282 |
 
-| Chile | EUR | 1307 |
+| Argentína | EUR | 1059 |
 
-| Kanada | EUR | 1486 |
+| Brazília | EUR | 1420 |
 
-| Kuba | EUR | 1456 |
+| Chile | EUR | 1072 |
 
-| Mexikó | EUR | 1362 |
+| Kanada | EUR | 1219 |
 
-| Ország (állomáshely) AUSZTRÁLIA ÉS ÓCEÁNIA | Pénznem | Alapellátmányok bruttó havi összege |
+| Kuba | EUR | 1194 |
 
-| Ausztrália | EUR | 1434 |
+| Mexikó | EUR | 1117 |
 
-| Ország (állomáshely) ÁZSIA | Pénznem | Alapellátmányok bruttó havi összege |
+| Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Afganisztán | EUR | 1707 |
+| AUSZTRÁLIA ÉS ÓCEÁNIA |  |  |
 
-| Azerbajdzsán | EUR | 1434 |
+| Ausztrália | EUR | 1293 |
 
-| Egyesült Arab Emirátusok | EUR | 1424 |
+| Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Grúzia | EUR | 1434 |
+| ÁZSIA |  |  |
 
-| India | EUR | 1330 |
+| Afganisztán | EUR | 1400 |
 
-| Indonézia | EUR | 1416 |
+| Azerbajdzsán | EUR | 1341 |
 
-| Irán | EUR | 1395 |
+| Egyesült Arab Emirátusok | EUR | 1284 |
 
-| Izrael | EUR | 1440 |
+| Grúzia | EUR | 1293 |
 
-| Japán | EUR | 1864 |
+| India | EUR | 1091 |
 
-| Jordánia | EUR | 1380 |
+| Indonézia | EUR | 1277 |
 
-| Katar | EUR | 1301 |
+| Irán | EUR | 1258 |
 
-| Kazahsztán | EUR | 1434 |
+| Izrael | EUR | 1181 |
 
-| Kína | EUR | 1500 |
+| Japán | EUR | 1528 |
 
-| Koreai Köztársaság | EUR | 1500 |
+| Jordánia | EUR | 1132 |
 
-| Kuvait | EUR | 1416 |
+| Katar | EUR | 1280 |
 
-| Libanon | EUR | 1550 |
+| Kazahsztán | EUR | 1293 |
 
-| Pakisztán | EUR | 1373 |
+| Kína | EUR | 1230 |
 
-| Palesztina | EUR | 1440 |
+| Koreai Köztársaság | EUR | 1230 |
 
-| Szaúd-Arábia | EUR | 1378 |
+| Kuvait | EUR | 1161 |
 
-| Szingapúr | EUR | 1344 |
+| Libanon | EUR | 1271 |
 
-| Szíria | EUR | 1395 |
+| Pakisztán | EUR | 1126 |
 
-| Tajvan | EUR | 1380 |
+| Palesztina | EUR | 1358 |
 
-| Thaiföld | EUR | 1330 |
+| Szaúd-Arábia | EUR | 1130 |
 
-| Törökország | EUR | 1490 |
+| Szingapúr | EUR | 1102 |
 
-| Vietnam | EUR | 1307 |
+| Szíria | EUR | 1144 |
 
-| Ország (állomáshely) EURÓPA | Pénznem | Alapellátmányok bruttó havi összege |
+| Tajvan | EUR | 1132 |
 
-| Albánia | EUR | 1564 |
+| Thaiföld | EUR | 1091 |
 
-| Ausztria | EUR | 1696 |
+| Törökország | EUR | 1222 |
 
-| Belgium | EUR | 1650 |
+| Vietnam | EUR | 1072 |
 
-| Bosznia-Hercegovina | EUR | 1344 |
+| Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
 
-| Bulgária | EUR | 1530 |
+| EURÓPA |  |  |
 
-| Ciprus | EUR | 1486 |
+| Albánia | EUR | 1282 |
 
-| Csehország | EUR | 1440 |
+| Ausztria | EUR | 1391 |
 
-| Dánia | EUR | 1848 |
+| Belgium | EUR | 1353 |
 
-| Észtország | EUR | 1416 |
+| Bosznia-Hercegovina | EUR | 1102 |
 
-| Fehéroroszország | EUR | 1434 |
+| Bulgária | EUR | 1255 |
 
-| Finnország | EUR | 1662 |
+| Ciprus | EUR | 1219 |
 
-| Franciaország | EUR | 1664 |
+| Csehország | EUR | 1181 |
 
-| Görögország | EUR | 1471 |
+| Dánia | EUR | 1515 |
 
-| Hollandia | EUR | 1600 |
+| Észtország | EUR | 1161 |
 
-| Horvátország | EUR | 1638 |
+| Fehéroroszország | EUR | 1176 |
 
-| Írország | EUR | 1650 |
+| Finnország | EUR | 1363 |
 
-| Koszovó | EUR | 1362 |
+| Franciaország | EUR | 1364 |
 
-| Lengyelország | EUR | 1360 |
+| Görögország | EUR | 1206 |
 
-| Lettország | EUR | 1416 |
+| Hollandia | EUR | 1312 |
 
-| Litvánia | EUR | 1311 |
+| Horvátország | EUR | 1343 |
 
-| Macedónia | EUR | 1341 |
+| Írország | EUR | 1353 |
 
-| Moldova | EUR | 1395 |
+| Koszovó | EUR | 1117 |
 
-| Montenegro | EUR | 1566 |
+| Lengyelország | EUR | 1115 |
 
-| Nagy-Britannia | EUR | 1762 |
+| Lettország | EUR | 1161 |
 
-| Németország | EUR | 1650 |
+| Litvánia | EUR | 1075 |
 
-| Norvégia | EUR | 1928 |
+| Macedónia | EUR | 1100 |
 
-| Olaszország | EUR | 1632 |
+| Moldova | EUR | 1144 |
 
-| Oroszország | EUR | 1550 |
+| Montenegro | EUR | 1284 |
 
-| Portugália | EUR | 1516 |
+| Nagy-Britannia | EUR | 1445 |
 
-| Románia | EUR | 1555 |
+| Németország | EUR | 1353 |
 
-| Spanyolország | EUR | 1532 |
+| Norvégia | EUR | 1581 |
 
-| Svájc | EUR | 1826 |
+| Olaszország | EUR | 1338 |
 
-| Svédország | EUR | 1696 |
+| Oroszország | EUR | 1271 |
 
-| Szerbia | EUR | 1362 |
+| Portugália | EUR | 1243 |
 
-| Szlovákia | EUR | 1500 |
+| Románia | EUR | 1275 |
 
-| Szlovénia | EUR | 1378 |
+| Spanyolország | EUR | 1256 |
 
-| Ukrajna | EUR | 1426 |
+| Svájc | EUR | 1497 |
 
-| Vatikán | EUR | 1632 |
+| Svédország | EUR | 1391 |
+
+| Szerbia | EUR | 1117 |
+
+| Szlovákia | EUR | 1230 |
+
+| Szlovénia | EUR | 1130 |
+
+| Ukrajna | EUR | 1169 |
+
+| Vatikán | EUR | 1338 |
 
 2. számú melléklet a 7/2009. (VI. 26.) KüM rendelethez[^3]
 
@@ -174,78 +184,78 @@ A kiegészítő pótlék bruttó havi összege
 
 | Ország (állomáshely) | Pénznem | Kiegészítő pótlékok bruttó havi összege |
 
-| I. kategória (10%) |
+| I. kategória (10%) |  |  |
 
-| Albánia | EUR | 156 |
+| Albánia | EUR | 128 |
 
-| Azerbajdzsán | EUR | 143 |
+| Azerbajdzsán | EUR | 134 |
 
-| Egyesült Arab Emirátusok | EUR | 142 |
+| Egyesült Arab Emirátusok | EUR | 128 |
 
-| Egyiptom | EUR | 129 |
+| Egyiptom | EUR | 106 |
 
-| Fehéroroszország | EUR | 143 |
+| Fehéroroszország | EUR | 118 |
 
-| Grúzia | EUR | 143 |
+| Grúzia | EUR | 129 |
 
-| India | EUR | 133 |
+| India | EUR | 109 |
 
-| Indonézia | EUR | 142 |
+| Indonézia | EUR | 128 |
 
-| Katar | EUR | 130 |
+| Katar | EUR | 128 |
 
-| Kazahsztán | EUR | 143 |
+| Kazahsztán | EUR | 129 |
 
-| Kenya | EUR | 136 |
+| Kenya | EUR | 112 |
 
-| Kína | EUR | 150 |
+| Kína | EUR | 123 |
 
-| Kuvait | EUR | 142 |
+| Kuvait | EUR | 116 |
 
-| Líbia | EUR | 145 |
+| Líbia | EUR | 119 |
 
-| Macedónia | EUR | 134 |
+| Macedónia | EUR | 110 |
 
-| Mexikó | EUR | 136 |
+| Mexikó | EUR | 112 |
 
-| Moldova | EUR | 140 |
+| Moldova | EUR | 114 |
 
-| Oroszország | EUR | 155 |
+| Oroszország | EUR | 127 |
 
-| Szaúd-Arábia | EUR | 138 |
+| Szaúd-Arábia | EUR | 113 |
 
-| Szíria | EUR | 140 |
+| Szíria | EUR | 114 |
 
-| Szerbia | EUR | 136 |
+| Szerbia | EUR | 112 |
 
-| Ukrajna | EUR | 143 |
+| Ukrajna | EUR | 117 |
 
-| Vietnam | EUR | 131 |
+| Vietnam | EUR | 107 |
 
-| II. kategória (15%) |
+| II. kategória (15%) |  |  |
 
-| Algéria | EUR | 218 |
+| Algéria | EUR | 206 |
 
-| Bosznia-Hercegovina | EUR | 202 |
+| Bosznia-Hercegovina | EUR | 165 |
 
-| Irán | EUR | 209 |
+| Irán | EUR | 189 |
 
-| Izrael | EUR | 216 |
+| Izrael | EUR | 177 |
 
-| Koszovó | EUR | 204 |
+| Koszovó | EUR | 168 |
 
-| Kuba | EUR | 218 |
+| Kuba | EUR | 179 |
 
-| Libanon | EUR | 233 |
+| Libanon | EUR | 191 |
 
-| Nigéria | EUR | 218 |
+| Nigéria | EUR | 179 |
 
-| Palesztina | EUR | 216 |
+| Palesztina | EUR | 204 |
 
-| III. kategória (20%) |
+| III. kategória (20%) |  |  |
 
-| Afganisztán | EUR | 341 |
+| Afganisztán | EUR | 280 |
 
-| Pakisztán | EUR | 275 |
+| Pakisztán | EUR | 225 |
 
-[^3]: A 2. számú melléklet a 3/2010. (X. 12.) KüM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet a 2/2011. (II. 28.) KüM rendelet 1. § (2) bekezdésével megállapított szöveg.
