@@ -74,7 +74,7 @@
 
 | Területi | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |
 
-| igazgató (NNI, RRI, BSZKI) |
+| igazgató (NNI, RRI) |
 
 | parancsnok (KR) |
 
@@ -88,7 +88,7 @@
 
 | parancsnok- helyettes (KR) |
 
-| igazgatóhelyettes (NNI, RRI, BSZKI) |
+| igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |
 
 | főosztályvezető (NNI, KR, BRFK) |
 
@@ -196,7 +196,7 @@
 
 | főosztályvezetői illetményre jogosult | igazgató | ezredes |
 
-| titkárságvezető |
+| hivatalvezető |
 
 | főosztályvezető |
 
