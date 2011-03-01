@@ -1,10 +1,10 @@
 ## VI. Fejezet
 
-## MINTAOLTALMI NYILVÁNTARTÁSOK, HATÓSÁGI TÁJÉKOZTATÁS
+## MINTAOLTALMI LAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
 
-## Bejelentési nyilvántartás, mintaoltalmi lajstrom
+## Mintaoltalmi lajstrom
 
-34. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentésekről nyilvántartást, a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelyekbe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos minden tényt és körülményt.
+34. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelybe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos tényeket és körülményeket.
 
 (2) A mintaoltalmi lajstromban fel kell tüntetni különösen
 
@@ -34,10 +34,10 @@ l) a mintaoltalom megszűnését, annak jogcímét és időpontját, valamint a 
 
 m) a hasznosítási engedélyeket.
 
-(3) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a mintaoltalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a mintaoltalmi lajstromba bejegyezték.
+(3) A mintaoltalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a mintaoltalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A mintaoltalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(4) A mintaoltalmi lajstromot bárki megtekintheti, és az abban foglalt adatokról térítés ellenében másolatot kérhet.
+(4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a mintaoltalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a mintaoltalmi lajstromba bejegyezték.
 
-(5) A mintaoltalmi lajstromba való bejegyzésre a szabadalmi törvénynek a szabadalmi lajstromba való bejegyzésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(5) A mintaoltalmi lajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A mintaoltalmi lajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.
 
-(6) A (3)–(5) bekezdések rendelkezéseit – a bejelentések közzétételét követően – megfelelően alkalmazni kell a mintaoltalmi bejelentésekről vezetett nyilvántartásra is.
+(6) A mintaoltalmi lajstromba való bejegyzésre a szabadalmi törvénynek a szabadalmi lajstromba való bejegyzésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
