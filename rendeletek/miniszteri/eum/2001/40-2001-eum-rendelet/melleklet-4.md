@@ -434,13 +434,11 @@
 
 | 206 | Verbénából nyert abszolút olaj (Lippia citriodora Kunth.) (CAS-szám: 8024–12–2) |  | 0,2% |  |  |  |
 
-| [20788 | Ethyl Lauroyl Arginate HCl (INCI) [14] Ethyl-Nα-dodeca- noyl-L-arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | a) Szappanok b) Korpásodás elleni samponok c) Nem szórófejes dezodorok | 0,8% | Nem a termékben lévő mikroorganizmu- sok kifejlődésének megakadályozá- sára. E célt jól láthatóan fel kell tüntetni a terméken.] |  |
+| 207 | Ethyl Lauroyl Arginate HCl (INCI) [14] Ethyl-Nα-dodeca- noyl-L-arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | a) Szappanok b) Korpásodás elleni samponok c) Nem szórófejes dezodorok | 0,8% | Nem a termékben lévő mikroorganizmu- sok kifejlődésének megakadályozá- sára. E célt jól láthatóan fel kell tüntetni a terméken. |  |
 
 | 208 | 1-(béta-ami- no-etil)-amino -4-(béta-hidroxi- etil)-oxi- 2-nitro-benzol és sói HC Orange No. 2 (CAS-szám: 85765–48–6) EINECS-szám: 416–410–1 | Nem oxidáló hajfestékek összetevőjeként | 1,0% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó | A hajfestékek/ hajszínezők súlyos allergiás reakciót válthatnak ki. Kérjük, olvassa el és kövesse az utasításokat! Ezt a terméket nem 16 éven aluli személyeknél való alkalmazásra szánták. Az ideiglenes ‘fekete henna’ tetoválás növelheti az allergia kialakulásának veszélyét. Ne használjon hajfestéket/ hajszínezőt, ha: – arcán kiütés van, vagy fejbőre érzékeny, irritált és sérült, – hajfestés után bármikor bármilyen reakciót észlelt, – korábban ideiglenes ‘fekete henna’ tetoválás során valamilyen reakciót észlelt. |
 
 | 209 | 2-[(2-metoxi-4- nitro-fenil)- amino]-etanol és sói 2-Hydroxy- ethylamino-5- nitroanisole (CAS-szám: 66095–81–6) EINECS-szám: 266–138–0 | Nem oxidáló hajfestékek összetevőjeként | 0,2% | – Nitrozáló rendszerekben nem használható – Maximális nitrozamin- koncentráció: 50 μg/kg – Nitritmentes tárolóedényben tárolandó |  |
-
-## 88 A 207. pont a 7/2010. (IX. 2.) NEFMI rendelet 4. § (3) bekezdése alapján 2011. március 1-jén lép hatályba.
 
 ## (1) Ezek az anyagok használhatók önállóan vagy kombinációban, feltéve, hogy a kozmetikai termékben engedélyezett maximális szintjeik arányának összege nem haladja meg az 1-et.
 
@@ -469,6 +467,8 @@
 ## [12] Az együttesen használt anyagok összege nem haladhatja meg a d) oszlopban szereplő határértékeket.
 
 ## [13] Ezen hajszínezőkben alkalmazott összetevő szabad bázisának és sóinak használata engedélyezett, amennyiben azt a 2. számú melléklet nem tiltja.
+
+## [14] A tartósítószerként való felhasználás tekintetében lásd a 6. számú mellékletben foglalt táblázat 58. sorát.
 
 ## 2. rész
 

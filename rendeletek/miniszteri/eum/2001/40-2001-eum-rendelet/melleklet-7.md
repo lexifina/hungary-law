@@ -24,6 +24,8 @@
 
 ## [8] Kizárólag azok a termékek, amelyek három év alatti gyermekek esetében használhatók.
 
+## [9] A nem tartósítószerként való felhasználás tekintetében lásd a 3. számú melléklet 1. részében foglalt táblázat 207. pontját.
+
 | Referencia- szám | Tartósítószer neve | Maximálisan megengedett koncentráció | Korlátozások és követelmények | Címkére felírandó felhasználási feltételek és figyelmeztetések |
 
 | a | b | c | d | e |
@@ -141,6 +143,8 @@
 | 56 | jodo-propinil-butil-karbamát (JPBK) 3-jodo-2-propinil-butil-karbamát CAS-szám: 55406-53-6 | a) leöblítendő termékek esetén: 0,02% b) leöblítésre nem kerülő termékek esetén: 0,01%, kivéve az alábbi termékekben: dezodorok és izzadásgátlók: 0,0075% | Száj- és ajakápolási termékekben nem használható a) Három év alatti gyermekeknek szánt termékekben nem használható, kivéve fürdéshez használt keverékek/tusfürdők, valamint samponok b) – Testápolókban és testkrémekben nem használható [6] – Három év alatti gyermekeknek szánt termékekben nem használható | a) ,,Három év alatti gyermekek esetében nem használható” [7] b) ,,Három év alatti gyermekek esetében nem használható” [8] |
 
 | 57. | Methyl-isothiazolinone (INCI) | 0,01% |  |  |
+
+| 58. | Ethyl Lauroyl Arginate HCl (INCI) (*) [9] Ethyl-N α-dodecanoyl-L- arginate hydrochloride (CAS-szám: 60372–77–2; EK-szám: 434–630–6) | 0,4% | Ajakápolási termékekben, valamint szájápolási termékekben és spray-kben nem használható. |  |
 
 ## 1 Kizárólag a 3 év alatti gyermekek részére készülő, a bőrrel tartósan érintkező terméknél.
 
