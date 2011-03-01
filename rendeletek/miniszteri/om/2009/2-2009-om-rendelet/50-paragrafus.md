@@ -1,3 +1,0 @@
-## Sport népszerűsítésével összefüggő
-
-## kiadások
