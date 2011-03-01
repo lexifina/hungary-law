@@ -1,0 +1,1 @@
+## 3. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatások részletes feltételeiről szóló 47/2008. (IV. 17.) FVM rendelet 7. § (1) bekezdésében a „május 5. és június 16.” szövegrész helyébe a „november 15. és december 15.” szöveg lép.
