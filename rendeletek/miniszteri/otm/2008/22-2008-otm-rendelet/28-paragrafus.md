@@ -1,3 +1,0 @@
-28. § (1) A sportrendezvény rendezési jogának elnyerése esetén a sportszövetség támogatási kérelmet nyújthat be – legkésőbb a sportrendezvény időpontját megelőző év május 31-ig – a miniszter részére. A támogatási kérelmet a 4. melléklet szerinti – az ÖTM által internetes honlapján is közzétett – nyomtatványon kell postai és elektronikus úton megküldeni.
-
-(2) Ha a sportrendezvény rendezési jogára vonatkozó pályázat az (1) bekezdés szerinti határidő lejártát követően kerül kiírásra, a miniszter eltekinthet a 27. §-ban meghatározott követelményektől, és a támogatási kérelem az (1) bekezdés szerinti határidőt követően is benyújtható.
