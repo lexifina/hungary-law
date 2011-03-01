@@ -2,7 +2,7 @@
 
 a) tényállás-előadási és bizonyíték-előterjesztési kötelezettségét,
 
-b) a XXVI. Fejezet szerinti vállalkozások egymás közötti pereiben – a keresetlevélnek a külön jogszabályban meghatározott formanyomtatványon elektronikusan történő előterjesztési kötelezettségét
+b)
 
 a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül nem teljesítette.
 

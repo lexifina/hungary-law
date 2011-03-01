@@ -1,6 +1,6 @@
 ## Az eljáró bíróság kijelölése
 
-45. § (1) Jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, úgyszintén akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot ki kell jelölni.
+45. § (1) Jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, úgyszintén akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot soron kívül ki kell jelölni.
 
 (2) A kijelölés kérdésében
 

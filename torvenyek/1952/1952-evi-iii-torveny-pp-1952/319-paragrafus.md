@@ -1,3 +1,3 @@
 319. § (1) Ha a jogosult a 318. § (1) bekezdésben foglalt kötelezettségeit teljesíti, az iratok megérkezésétől számított harminc napon – az Ötödik Rész alkalmazása esetén tizenöt napon – belül a bíróság az ügy tárgyalására határnapot tűz ki, és arra a jogosultat felperesként, a kötelezettet pedig alperesként megidézi. A bíróság az ellentmondás folytán kitűzött tárgyalásra szóló idézéssel együtt a feleknek a közjegyző által megküldött aktanyomat egy példányát is kézbesíti.
 
-(2) A XXVI. Fejezet hatálya alá tartozó perben, ha a jogosult a 318. § (1) bekezdésben foglalt kötelezettségeit teljesíti, a pert a továbbiakban a vállalkozások egymás közötti pereire vonatkozó szabályok szerint kell lefolytatni.
+(2)

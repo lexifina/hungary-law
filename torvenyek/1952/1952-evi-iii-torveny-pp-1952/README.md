@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2010-12-31 | 2010. évi CLXXVIII. törvény | 1952-3-00-00.79 |
 | 2011-01-01 | 2010. évi CIV. törvény | 1952-3-00-00.80 |
 | 2011-01-07 | 2010. évi CLXXXIII. törvény | 1952-3-00-00.81 |
+| 2011-03-01 | 2010. évi CLXXXIII. törvény | 1952-3-00-00.82 |

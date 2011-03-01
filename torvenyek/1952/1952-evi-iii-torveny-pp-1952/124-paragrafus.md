@@ -2,7 +2,13 @@
 
 124. § (1) A bíróság a keresetlevelet nyomban, de legkésőbb a bírósághoz érkezésétől számított harminc napon belül megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a félnek hiánypótlásra visszaadni (95. §), nincs-e helye az ügy áttételének (129. §), illetőleg a keresetlevél idézés kibocsátása nélküli elutasításának (130. §), és a szükséges intézkedéseket megteszi.
 
-(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében foglaltakat, illetve, ha a jogi képviselő nem csatolta a meghatalmazását, vagy elmulasztották az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
+(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha
+
+a) a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat vagy
+
+b) a jogi képviselő nem csatolta a meghatalmazását vagy
+
+c) a jogi képviselővel eljáró fél elmulasztotta az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
 
 (3) Ha az (1)–(2) bekezdésben foglaltak megtételére nincs szükség, illetőleg a fél hiánypótlási kötelezettségének eleget tett és így a keresetlevél alkalmas a tárgyalás kitűzésére, a bíróság az eljárás gyorsabb lefolytatása érdekében további intézkedéseket tehet a tárgyalás előkészítésére. Ilyen intézkedéseknek a tárgyalás kitűzése előtt, valamint az eljárás során szükség esetén bármikor helye van.
 

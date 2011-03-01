@@ -21,3 +21,7 @@ b) a bíróság egyéb okból köteles elutasítani a kérelmet – ide nem ért
 (5) Ha jogi képviselővel a felperesnek kell rendelkeznie, és a (2)–(4) bekezdés alkalmazásának nincs helye, a jogi képviselővel nem rendelkező felperest a bíróság a keresetlevél megvizsgálása keretében hiánypótlásra hívja fel (95. §), ha pedig a felperes a megszűnt jogi képviseletének pótlásáról felhívás ellenére nem gondoskodik, a bíróság a pert megszünteti [157. § i) pont].
 
 (6) Ha jogi képviselővel az alperesnek kell rendelkeznie, és a (2)–(4) bekezdés alkalmazásának nincs helye, a jogi képviselővel nem rendelkező alperes nyilatkozata hatálytalan, és az alperest úgy kell tekinteni, mint aki nyilatkozatot egyáltalán nem tesz.
+
+(7) Annak eldöntésére, hogy a perben a jogi képviselet a pertárgy értékére tekintettel kötelező-e, a 27. §-nak a bíróság hatáskörének megállapítására vonatkozó rendelkezéseit megfelelően alkalmazni kell.
+
+(8) Ha az (1) bekezdés c) pont alkalmazásának van helye, a bíróság az alperest tájékoztatja arról, hogy jogi képviselő meghatalmazásáról kell gondoskodnia; a tájékoztatásnak ki kell terjednie a jogi képviselő közreműködése nélkül való eljárás jogkövetkezményeire.

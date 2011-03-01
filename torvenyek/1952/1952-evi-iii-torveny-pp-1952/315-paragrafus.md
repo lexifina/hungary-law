@@ -12,7 +12,7 @@ b) a fizetési meghagyásos eljárást a közjegyző végzéssel megszünteti, �
 
 a) benyújtja vagy annak címére ajánlott küldeményként postára adja,
 
-b) a XXVI. Fejezet szerinti vállalkozások egymás közötti pereiben a külön jogszabályban meghatározott formanyomtatványon elektronikusan előterjeszti.
+b)
 
 (4) A (3) bekezdés szerinti határidő elmulasztása esetén igazolásnak nincs helye. A keresetlevélhez mellékelni kell a kérelmet elutasító, illetve az eljárást megszüntető végzést.
 

@@ -1,6 +1,6 @@
 23. § (1) A megyei bíróság hatáskörébe tartoznak:
 
-a) azok a vagyonjogi perek, amelyek tárgyának értéke az ötmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
+a) azok a vagyonjogi perek, amelyek tárgyának értéke a tízmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 
 b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
 

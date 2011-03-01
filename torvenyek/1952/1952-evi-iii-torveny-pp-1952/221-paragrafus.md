@@ -4,4 +4,6 @@
 
 (3) Ha az ügy ténybeli és jogi megítélése egyszerű, az ítélet indokolásának csak a megállapított tényállás rövid leírását kell tartalmaznia, valamint – utalásként – az alkalmazott jogszabályokat kell feltüntetnie.
 
-(4) A (3) bekezdésben foglaltak az irányadók abban az esetben is, ha a fellebbezésre jogosultak e jogukról valamennyien lemondtak.
+(4) Ha a felek ahhoz hozzájárulnak, az ítélet indokolásának csak a (3) bekezdésben foglaltakat kell tartalmaznia.
+
+(5) A (3) bekezdésben foglaltak az irányadók abban az esetben is, ha a fellebbezésre jogosultak e jogukról valamennyien lemondtak.

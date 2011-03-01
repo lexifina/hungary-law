@@ -60,4 +60,10 @@ n) a tankönyvpiac rendjéről szóló törvény,
 
 o) a szomszédos államokban élő magyarokról szóló törvény,
 
-p) a bírósági végrehajtásról szóló törvény.
+p) a bírósági végrehajtásról szóló törvény,
+
+q) a közúti közlekedésről szóló törvény,
+
+r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban az ajánlatkérő nem a törvényben meghatározott központi költségvetési szerv,
+
+s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.

@@ -12,7 +12,7 @@ d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi
 
 (3) Ha a keresetlevél a közigazgatási határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz való érkezését követő nyolc napon belül határoz. A későbbiek során a bíróság a közigazgatási határozat végrehajtásának felfüggesztését – már a tárgyalás kitűzése előtt is – kérelemre bármikor elrendelheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak figyelemmel kell lennie arra, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna.
 
-(4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
+(4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. Ha a fél a végrehajtás felfüggesztése iránti kérelme elutasítását követően ismételten – azonos ténybeli és jogi alapon – nyújt be végrehajtás felfüggesztése iránti kérelmet, a végrehajtás felfüggesztését megtagadó végzés ellen külön fellebbezésnek nincs helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
 (5) Ha a közigazgatási eljárásban ellenérdekű ügyfél vagy a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv ügyfélként szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 

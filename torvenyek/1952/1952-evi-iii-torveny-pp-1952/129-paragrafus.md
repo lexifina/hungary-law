@@ -5,3 +5,5 @@
 (2) Nincs helye a keresetlevél áttételének olyan bírósághoz vagy más hatósághoz, amely saját hatáskörének vagy illetékességének hiányát már jogerősen megállapította.
 
 (3) Az (1) bekezdés értelmében áttett keresetlevelet úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál (hatóságnál) terjesztették volna elő, amelyhez azt áttették.
+
+(4) A bíróság az áttétel tárgyában soron kívül jár el.
