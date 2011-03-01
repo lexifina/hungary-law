@@ -1,4 +1,4 @@
-## 8. §[^7] E rendeletnek a területek biológiai aktivitásértékének számításáról szóló 9/2007. (IV. 3.) ÖTM rendelet módosításáról szóló 18/2010. (V. 13.) NFGM rendelettel (a továbbiakban: R.) megállapított 1/A. §-át, 4. § (3) bekezdését és 1. mellékletét azokra a településrendezési eszközökre kell alkalmazni, amelyeket az R. hatálybalépését követően küldenek meg az Étv. 9. § (3) bekezdése szerinti véleményezésre.
+## 8. §[^7]
 
 1. melléklet a 9/2007. (IV. 3.) ÖTM rendelethez[^8]
 
@@ -180,5 +180,5 @@
 
 | 27. | Felszíni művelésű bánya, anyagnyerőhely, rendszeresen bolygatott terület, hulladéklerakó | 0,2 |
 
-[^7]: A 8. §-t a 18/2010. (V. 13.) NFGM rendelet 3. §-a iktatta be. A 8. §-t e módosító rendelet 6. §-a hatályon kívül helyezte [e módosító rendelet 7. § (2) bekezdése alapján 2011. március 1-jén lép hatályba].
+[^7]: A 8. §-t a 18/2010. (V. 13.) NFGM rendelet 3. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 6. §-a.
 [^8]: A melléklet megjelölését 1. mellékletre változtatta és szövegét megállapította a 18/2010. (V. 13.) NFGM rendelet 4. §-a.
