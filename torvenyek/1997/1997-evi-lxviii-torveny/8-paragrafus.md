@@ -1,6 +1,6 @@
 8. § (1) A munkáltatói jogkört
 
-a) az OIT Hivatalának vezetőhelyettese tekintetében az OIT,
+a) az OIT Hivatalának vezetőhelyettese tekintetében az OIT elnöke,
 
 b) az OIT Hivatalának egyéb alkalmazottai tekintetében az OIT Hivatalának a vezetője,
 
