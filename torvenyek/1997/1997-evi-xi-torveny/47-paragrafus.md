@@ -1,10 +1,10 @@
 ## VIII. Fejezet
 
-## A VÉDJEGYÜGYEK NYILVÁNTARTÁSA, HATÓSÁGI TÁJÉKOZTATÁS
+## A VÉDJEGYLAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
 
-## Bejelentési nyilvántartás, védjegylajstrom
+## Védjegylajstrom
 
-47. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentésekről nyilvántartást, a védjegyekről pedig lajstromot vezet, amelyekbe be kell jegyezni a védjegyjogokkal kapcsolatos minden tényt és körülményt.
+47. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentésekről és a védjegyekről lajstromot vezet, amelybe – a 48. §-nak megfelelően – be kell jegyezni a védjegyjogokkal kapcsolatos tényeket és körülményeket.
 
 (2) A védjegylajstromban fel kell tüntetni különösen
 
@@ -28,12 +28,12 @@ i) a lajstromozásról szóló határozat keltét,
 
 j) a védjegy megújítását,
 
-k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását,
+k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
 
 l) a használati engedélyeket.
 
-(3) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a védjeggyel kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a védjegylajstromba bejegyezték.
+(3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(4) A védjegylajstromot bárki megtekintheti, és az abban foglalt adatokról díjfizetés ellenében másolatot kaphat.
+(4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a védjeggyel kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a védjegylajstromba bejegyezték.
 
-(5) A (3) és (4) bekezdés rendelkezéseit megfelelően alkalmazni kell a védjegybejelentésekről vezetett nyilvántartásra is.
+(5) A védjegylajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A védjegylajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.

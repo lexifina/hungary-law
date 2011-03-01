@@ -34,4 +34,14 @@ f) a Nemzetközi Iroda által lajstromozott nemzetközi eredetmegjelölés Magya
 
 (5) A (4) bekezdés b) és c) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy a földrajziárujelző-oltalmi ügyekben az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+(6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy a földrajziárujelző-oltalmi ügyekben az ügyfél – a (7)–(8) bekezdésben meghatározott esetek kivételével – nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+
+(7) Elektronikus úton is be lehet nyújtani
+
+a) a lajstromkivonat igénylésére vonatkozó kérelmet,
+
+b) az iratbetekintésre vonatkozó kérelmet.
+
+(8) Ha az ügyfél a (7) bekezdés alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele az eljárás során hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+
+(9) A (7) bekezdésben meghatározott beadványok elektronikus úton való benyújtására a 46/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.

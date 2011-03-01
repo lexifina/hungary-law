@@ -1,9 +1,9 @@
 ## Bejegyzés a védjegylajstromba
 
-48. § (1) A védjegybejelentésekről vezetett nyilvántartásba és a védjegylajstromba csak a Szellemi Tulajdon Nemzeti Hivatala döntése vagy a bíróság határozata alapján lehet bejegyzést tenni. A 77. § (1) bekezdésében felsorolt döntések alapján bejegyzés csak akkor tehető, ha azokkal szemben az előírt határidőben nem nyújtottak be megváltoztatási kérelmet vagy a megváltoztatási kérelem ügyében a bíróság határozata jogerőre emelkedett.
+48. § (1) A védjegylajstromba a Szellemi Tulajdon Nemzeti Hivatala a saját döntése vagy más hatóság döntése vagy a bíróság határozata alapján tesz bejegyzést, illetve feltünteti a védjegyeljárásokban bekövetkezett tényeket. A 77. § (1) bekezdése szerinti döntések alapján tett bejegyzések tekintetében a lajstrom tartalmazza a döntések jogerőre emelkedésének napját is. Ha a 77. § (1) bekezdése szerinti valamely döntés ellen megváltoztatási kérelmet nyújtottak be, ezt a tényt, valamint azt, hogy a döntés nem jogerős, szintén fel kell tüntetni.
 
-(2) A védjegyoltalommal összefüggő jogok és tények tudomásulvétele ügyében a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján határoz. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot.
+(2) A védjegyoltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a védjegyeljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján határoz. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy teljes bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, vagy amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, továbbá, ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
 
-(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni.
+(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
