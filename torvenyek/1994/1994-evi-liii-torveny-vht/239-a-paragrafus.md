@@ -10,7 +10,7 @@ b) a végrehajtó
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által e célból kiállított hatósági bizonyítvány tartalmaz.
 
-(4) A 234/B. § (1) bekezdés b) pontja, valamint a (2) bekezdés alapján megismert személyes adatokat a kamara, valamint a miniszter
+(4) A (2) bekezdés alapján megismert személyes adatokat a kamara, valamint a miniszter
 
 a) a végrehajtói kinevezésről meghozott döntésig vagy
 
