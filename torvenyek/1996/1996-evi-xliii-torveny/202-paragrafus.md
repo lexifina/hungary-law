@@ -18,4 +18,4 @@ d) a szervezeti egység, az országos parancsnokság, valamint a minisztérium s
 
 e) a törvényben meghatározott egyéb szervek és személyek;
 
-f) a törvény alapján nyugellátás megállapításához szükséges adatokat a miniszter által kijelölt nyugdíjmegállapító szerv.
+f) a törvény alapján nyugellátás megállapításához szükséges adatokat a nyugdíjmegállapító szerv.

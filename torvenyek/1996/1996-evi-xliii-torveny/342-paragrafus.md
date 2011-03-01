@@ -24,7 +24,9 @@ h) a diplomáciai és az összekötő tiszti szolgálat teljesítése céljábó
 
 i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére, továbbá a nemzetközi szervezetben vezényléssel szolgálatot teljesítő részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét;
 
-j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét.
+j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét;
+
+k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyugellátások, baleseti ellátások megállapításának eljárási rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
@@ -58,7 +60,7 @@ j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és 
 
 15. a fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, megállapításának módját, mérséklésének és mellőzésének részletes szabályait;
 
-16. a nyugellátások, baleseti ellátások megállapításának eljárási rendjét, az eljáró szerv kijelölését;
+16.
 
 17. a kérelem és a panasz elbírálásának rendjét;
 
@@ -70,7 +72,7 @@ j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és 
 
 21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
 
-(3)
+(3) Felhatalmazást kap a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az Információs Hivatal tekintetében rendeletben állapítsa meg a nyugellátások, baleseti ellátások megállapításának részletes eljárási szabályait, továbbá kijelölje a nyugellátásokat, baleseti ellátásokat megállapító szervet vagy szerveket.
 
 (4) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztásokat rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
