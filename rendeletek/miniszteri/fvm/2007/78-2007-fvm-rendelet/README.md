@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-78-20-8
 | 2009-03-26 | 2007-78-20-82.4 | 78/2007. (VII. 30.) FVM rendelet |
 | 2010-02-26 | 2007-78-20-82.5 | 29/2009. (III. 25.) FVM rendelet |
 | 2010-03-19 | 2007-78-20-82.6 | 101/2007. (IX. 21.) FVM rendelet |
+| 2011-03-01 | 2007-78-20-82.7 | 15/2011. (II. 28.) VM rendelet |
