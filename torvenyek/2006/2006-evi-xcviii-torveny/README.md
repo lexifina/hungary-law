@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2010-08-17 | 2010. évi LXXXIX. törvény | 2006-98-00-00.16 |
 | 2010-09-16 | 2010. évi LXXXIX. törvény | 2006-98-00-00.17 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 2006-98-00-00.18 |
+| 2011-03-01 | 2010. évi CLXXIII. törvény | 2006-98-00-00.19 |
