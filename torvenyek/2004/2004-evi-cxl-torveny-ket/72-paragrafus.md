@@ -8,7 +8,7 @@ c) az ügy tárgyának megjelölését,
 
 d) a rendelkező részben
 
-da) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról való tájékoztatást,
+da) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
 
 db) a szakhatóság megnevezését és állásfoglalása rendelkező részét,
 
