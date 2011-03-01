@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-26-20-8
 | 2009-04-05 | 2008-26-20-82.5 | 26/2008. (III. 7.) FVM rendelet |
 | 2010-02-26 | 2008-26-20-82.6 | 29/2009. (III. 25.) FVM rendelet |
 | 2010-04-30 | 2008-26-20-82.7 | 49/2010. (IV. 27.) FVM rendelet |
+| 2011-03-01 | 2008-26-20-82.8 | 15/2011. (II. 28.) VM rendelet |
