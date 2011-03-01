@@ -1,1 +1,3 @@
-## 300. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendeletnek a 2010. december 31-én hatályos 9. § (4) bekezdését a 2011. január 1-jét megelőzően elkövetett szabályszegések tekintetében folyamatban lévő ügyekre alkalmazni kell.
+## 300. §[^2]
+
+[^2]: A 300. §-t a 299. § (3) bekezdése hatályon kívül helyezte.
