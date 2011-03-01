@@ -118,6 +118,6 @@
 
 | A vállalkozás társadalmi felelősségvállalása |  |  | (+) 5 |
 
-5. melléklet a 35/2010. (IV. 9.) FVM rendelethez[^16]
+5. melléklet a 35/2010. (IV. 9.) FVM rendelethez[^17]
 
-[^16]: Az 5. melléklet a 34/2010. (XI. 25.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^17]: Az 5. melléklet a 34/2010. (XI. 25.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.

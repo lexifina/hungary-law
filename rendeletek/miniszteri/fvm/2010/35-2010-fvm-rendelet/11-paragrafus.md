@@ -1,6 +1,6 @@
 ## 8. Jogkövetkezmények
 
-11. § (1)[^10]
+11. § (1)[^11]
 
 (2) Ha az ügyfél a 4. § (5) bekezdés c) pontjában meghatározott képzési kötelezettségének nem tesz eleget, a támogatási összeget 20%-kal csökkenteni kell, kivéve, ha a támogatási határozat jogerőre emelkedését követő harmincadik nap és az utolsó kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző harmincadik nap közötti időszakban nem volt képzés.
 
@@ -8,4 +8,4 @@
 
 (4) Ha az ültetvény nem termő időszakában az ügyfél az ápolási kötelezettségeit nem teljesíti, köteles az ellenőrzési jegyzőkönyvben meghatározott hiány mértékének megfelelő támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
 
-[^10]: A 11. § (1) bekezdését a 34/2010. (XI. 25.) VM rendelet 8. §-a hatályon kívül helyezte.
+[^11]: A 11. § (1) bekezdését a 34/2010. (XI. 25.) VM rendelet 8. §-a hatályon kívül helyezte.

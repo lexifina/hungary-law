@@ -80,6 +80,6 @@
 
 | 2.12. | Rizamat |
 
-3. melléklet a 35/2010. (IV. 9.) FVM rendelethez[^15]
+3. melléklet a 35/2010. (IV. 9.) FVM rendelethez[^16]
 
-[^15]: A 3. melléklet a 34/2010. (XI. 25.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 3. melléklet a 34/2010. (XI. 25.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
