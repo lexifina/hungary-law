@@ -8,4 +8,4 @@
 
 (4) A megyei bíróságon tanácsok, csoportok és büntető, polgári és gazdasági, valamint közigazgatási kollégiumok működnek. A kollégiumok összevontan is működhetnek.
 
-(5) Törvény által meghatározott ügyekben első fokon – a kijelölt megyei bíróságokon és illetékességi területtel – katonai tanácsok járnak el.
+(5) Törvény által meghatározott ügyekben első fokon – a külön törvényben meghatározott megyei bíróságokon és illetékességi területtel – katonai tanácsok járnak el.

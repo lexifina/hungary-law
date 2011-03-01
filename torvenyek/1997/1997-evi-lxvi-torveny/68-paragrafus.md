@@ -1,7 +1,17 @@
 ## Csoportvezető és csoportvezető-helyettes
 
-68. § (1) A csoportvezető szervezi a csoport munkáját, és ellátja a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+68. § (1) A csoportvezető
 
-(2) A csoportvezető-helyettes a csoportvezető távollétében ellátja annak feladatait.
+a) szervezi a csoport munkáját,
 
-(3) Csoportvezető-helyettes az OIT által kijelölt bíróságon működik.
+b) évente beszámol a csoportnak
+
+ba) a pályázatához csatolt pályaművében szereplő – az adott időszakra vonatkozó – tervek megvalósulásáról,
+
+bb) a megelőző naptári évben a kitűzött célok és intézkedések végrehajtásáról és eredményéről,
+
+c) ellátja a jogszabály és a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+
+(2) A csoportvezető-helyettes a csoportvezetőt akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – helyettesíti, és ellátja a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+
+(3) Csoportvezető-helyettes az OIT elnöke által kijelölt bíróságon működik.

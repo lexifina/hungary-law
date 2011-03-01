@@ -1,11 +1,3 @@
-81. § (1) Az összbírói értekezlet akkor határozatképes, ha azon a bírák több mint a fele részt vesz. Az összbírói értekezlet határozatait titkos szavazással hozza.
+81. § (1) Az összbírói értekezlet akkor határozatképes, ha azon a bírák több mint a fele részt vesz. Az összbírói értekezletet határozatképtelensége esetén legkésőbb 15 napon belül ismét össze kell hívni. A megismételt összbírói értekezlet a jelenlévők számától függetlenül határozatképes. Az összbírói értekezlet – eltérő döntésének hiányában – a határozatait titkos szavazással hozza.
 
-(2) A jelenlevő bírák kétharmadának szavazata szükséges
-
-a) az OIT tagokat választó küldöttek megválasztásához,
-
-b) az OIT által kinevezett vezetők felmentésének kezdeményezéséhez,
-
-c) a bírói tanács tagjainak megválasztásához és felmentéséhez.
-
-(3) A (2) bekezdésben fel nem sorolt esetekben az összbírói értekezlet szavazattöbbséggel határoz.
+(2) Az összbírói értekezlet szavazattöbbséggel határoz.

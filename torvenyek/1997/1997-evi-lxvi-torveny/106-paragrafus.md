@@ -1,1 +1,1 @@
-106. § Az igazságügy-miniszter köteles e törvény hatálybalépésétől számított egy éven belül a bíróságokra vonatkozó igazságügy-miniszteri rendeleteket felülvizsgálni, és e törvény végrehajtásához szükséges mértékben azokat módosítani, illetőleg hatályon kívül helyezni.
+106. §

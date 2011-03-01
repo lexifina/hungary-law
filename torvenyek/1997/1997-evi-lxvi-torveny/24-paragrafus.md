@@ -4,4 +4,4 @@
 
 (2) A Legfelsőbb Bíróságot az elnök vezeti.
 
-(3) A Legfelsőbb Bíróság jogi személy, székhelye Budapest.
+(3) A Legfelsőbb Bíróság jogi személy.

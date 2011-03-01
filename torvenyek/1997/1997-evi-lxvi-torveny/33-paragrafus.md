@@ -7,3 +7,5 @@
 (3) Az ítélőtábla kollégiumának vezetője jogegységi eljárást kezdeményez, ha az ítélőtábla területén a jogalkalmazás egysége érdekében ez szükséges.
 
 (4) A Legfelsőbb Bíróság képviselője útján részt vesz az ítélőtábla és a megyei bíróság kollégiumának ülésein.
+
+(5) Az ítélőtábla képviselője útján részt vesz az illetékességi területéhez tartozó megyei bíróság kollégiumi ülésén.

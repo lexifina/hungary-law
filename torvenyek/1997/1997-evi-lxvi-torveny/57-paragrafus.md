@@ -1,7 +1,13 @@
-57. § A Hivatal vezetőjévé nem nevezhető ki az, aki
+57. § A Hivatal vezetőjévé nem nevezhető ki az,
 
-a) az OIT tagja,
+a) aki az OIT tagja,
 
-b) nem választható az OIT tagjává,
+b) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
 
-c) hozzátartozói kapcsolatban [Pp. 13. § (2) bek.] áll az OIT tagjával, póttagjával vagy az OIT kinevezési hatáskörébe tartozó bírósági vezetővel.
+c) aki fegyelmi büntetés hatálya alatt áll,
+
+d) akivel szemben eljárás van folyamatban az alkalmatlanságának megállapítása iránt,
+
+e) akinek a bírói szolgálati viszonya törvény alapján szünetel,
+
+f) aki hozzátartozói kapcsolatban [Pp. 13. § (2) bekezdés] áll az OIT tagjával, póttagjával vagy az OIT, illetve az OIT elnökének kinevezési hatáskörébe tartozó bírósági vezetővel.

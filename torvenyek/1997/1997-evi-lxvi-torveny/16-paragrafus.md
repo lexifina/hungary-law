@@ -16,4 +16,4 @@ c) a megyei bíróságok, a fővárosban a Fővárosi Bíróság (a továbbiakba
 
 d) a városi és a kerületi bíróságok (a továbbiakban együtt: helyi bíróság),
 
-e) a munkaügyi bíróság.
+e) a munkaügyi bíróságok.

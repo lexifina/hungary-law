@@ -1,1 +1,1 @@
-45. § Az OIT a működésének rendjét – a törvény keretei között – maga állapítja meg.
+45. § Az OIT ülése nem nyilvános, kivéve, ha az OIT nyilvános ülés tartását rendeli el. Az OIT ülésén az OIT elnökén, tagjain, a Hivatal vezetőjén, a Hivatal által delegált személyen és a jegyzőkönyvvezetőn kívül az egyes ülésanyagok megtárgyalásán tanácskozási joggal részt vehet a nem OIT tag előterjesztő, valamint bármely előterjesztő által meghívott eseti szakértő.
