@@ -1,18 +1,18 @@
 ## Gyógyszerrendészeti és állatgyógyászati készítményekkel kapcsolatos szabálysértés
 
-105. § (1) Aki
+105. § (1)[^147] Aki
 
-a) forgalomba hozatal céljából engedély nélkül gyógyszert készít, vagy forgalmaz, illetőleg a forgalomból kivont, vagy Magyarországon nem engedélyezett gyógyszert forgalomba hoz,
+a) engedély nélkül gyógyszert készít vagy forgalmaz, illetőleg a forgalomból kivont, vagy Magyarországon nem engedélyezett gyógyszert jogosulatlanul forgalomba hoz, vagy indokolatlan mennyiségben tart, Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart,
 
-b) forgalomba hozatal céljából olyan gyógyszert készít, vagy olyan gyógyszert hoz forgalomba, amelynek összetétele az előírt követelményeknek nem felel meg,
+b) olyan gyógyszert készít, vagy olyan gyógyszert hoz forgalomba, amely a vonatkozó jogszabályokban foglaltaknak nem felel meg,
 
 c) gyógyszer külső vagy belső csomagolásán, címkéjén, betegtájékoztatóján vagy alkalmazási előírásában az engedélyezettől eltérő szöveget (adatot) tüntet fel, vagy az engedélyezett szöveget elhagyja,
 
-d) terméket gyógyhatásra utalással engedély nélkül forgalmaz,
+d) terméket gyógyhatásra utalással engedély nélkül forgalmaz, vagy
 
 e) a gyógyszertárak működésére vonatkozó szabályokat megszegi,
 
-## ötvenezer forintig terjedő pénzbírsággal sújtható.
+százezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Aki
 
@@ -22,8 +22,12 @@ b) forgalmazási engedély nélkül állatgyógyászati készítményt forgalmaz
 
 c) állatgyógyászati készítményt engedély nélkül kipróbál,
 
-## ötvenezer forintig terjedő pénzbírsággal sújtható.
+## százezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^144] Az (1) bekezdésben meghatározott szabálysértés a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete és az Országos Tisztifőorvosi Hivatal, a (2) bekezdésben meghatározott szabálysértés a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
+(3) Az (1) bekezdésben meghatározott szabálysértés a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete és az Országos Tisztifőorvosi Hivatal, a Nemzeti Adó- és Vámhivatal vámszerve, a (2) bekezdésben meghatározott szabálysértés a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal és a Nemzeti Adó- és Vámhivatal hatáskörébe is tartozik.
 
-[^144]: A 105. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 14. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § c) és i) pontja szerint módosított szöveg.
+(4) Azt a terméket, amelyre nézve a szabálysértést elkövették, el kell kobozni.
+
+(5) Az (1) bekezdés a) pontja alkalmazásában indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott beteg személyes szükségleteinek kielégítését célozza.
+
+[^147]: A 105. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

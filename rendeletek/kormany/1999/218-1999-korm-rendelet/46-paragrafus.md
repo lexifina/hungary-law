@@ -8,6 +8,6 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 (3) Az (1) bekezdés alkalmazásában nem tekinthetők közúti közlekedési szabálynak a gyalogosra és az utasra vonatkozó rendelkezések.
 
-(4)[^62] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(4)[^63] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^62]: A 46. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 7. §-a iktatta be.
+[^63]: A 46. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 7. §-a iktatta be.

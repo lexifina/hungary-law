@@ -16,6 +16,6 @@ c) akinek a szülői felügyelete vagy gyámsága alatt álló gyermeke ugyanabb
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^173]
+(2)[^176]
 
-[^173]: A 141. § (2) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^176]: A 141. § (2) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte.

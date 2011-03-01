@@ -6,9 +6,9 @@
 
 135. § (1) Aki
 
-a)[^164] a bányászati tevékenységet a bányakapitánysághoz be nem jelentett felelős műszaki vezetővel vagy anélkül folytat,
+a)[^167] a bányászati tevékenységet a bányakapitánysághoz be nem jelentett felelős műszaki vezetővel vagy anélkül folytat,
 
-b)[^165] a földtani kutatási munka megkezdését és befejezését a bányakapitányságnak és a központi földtani hatóságnak nem jelenti be, vagy a kiadott engedélyekben megadott feltételeket nem tartja meg,
+b)[^168] a földtani kutatási munka megkezdését és befejezését a bányakapitányságnak és a központi földtani hatóságnak nem jelenti be, vagy a kiadott engedélyekben megadott feltételeket nem tartja meg,
 
 c) a bányatelekkel kapcsolatos rendelkezéseket megszegi,
 
@@ -24,8 +24,8 @@ f) a védőpillérekre vonatkozó rendelkezéseket megszegi,
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^166] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe tartozik.
+(3)[^169] Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe tartozik.
 
-[^164]: A 135. § (1) bekezdésének a) pontja a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^165]: A 135. § (1) bekezdésének b) pontja a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^166]: A 135. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^167]: A 135. § (1) bekezdésének a) pontja a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^168]: A 135. § (1) bekezdésének b) pontja a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^169]: A 135. § (3) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.

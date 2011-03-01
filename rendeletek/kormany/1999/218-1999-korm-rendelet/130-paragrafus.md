@@ -14,6 +14,6 @@ e) a villamos energia szolgáltatásának engedélyezésére vonatkozó jogszab�
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^160] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(2)[^163] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^160]: A 130. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^163]: A 130. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.

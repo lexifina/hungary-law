@@ -8,11 +8,11 @@ b) hamisított élelmiszert állít elő, illetőleg hoz forgalomba,
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^114] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, illetőleg a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
+(2)[^117] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, illetőleg a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
 
-(3)[^115]
+(3)[^118]
 
 (4) Azt az élelmiszert, amelyre a szabálysértést elkövették, el kell kobozni.
 
-[^114]: A 84. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 7. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § e) és i) pontja szerint módosított szöveg.
-[^115]: A 84. § (3) bekezdését a 267/2007. (X. 15.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^117]: A 84. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 7. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § e) és i) pontja szerint módosított szöveg.
+[^118]: A 84. § (3) bekezdését a 267/2007. (X. 15.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.

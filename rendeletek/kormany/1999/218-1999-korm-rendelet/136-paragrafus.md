@@ -14,6 +14,6 @@ c) a külön jogszabályban meghatározott építési tevékenység elkészült�
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^167] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(2)[^170] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^167]: A 136. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^170]: A 136. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
