@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-7. § (1)[^29] A támogatási kérelmet 2011. május 1. és 31. között, ezt követően évente május 1. és 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által az MVH honlapján közleményben közzétett formanyomtatványon az MVH-hoz. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+7. § (1)[^29] A támogatási kérelmet 2011. július 1. és 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által az MVH honlapján közleményben közzétett formanyomtatványon az MVH-hoz. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
 a) az ügyfél típusához kapcsolódó adatok,
 
@@ -8,7 +8,7 @@ b) a pontozáshoz kapcsolódó adatok,
 
 c) a megvalósítási helyre vonatkozó adatok,
 
-d) a tervezett elszámolható kiadás és kalkulált támogatási összeg célterületenként.
+d) a tervezett elszámolható kiadás és kalkulált támogatási összeg célterületenként
 
 (2)[^30] A támogatási kérelemhez általánosan benyújtandó dokumentumok:
 
@@ -82,7 +82,7 @@ bb) talajvédelmi hatósági engedélyhez nem kötött tevékenység esetén a t
 
 (9)[^39] A művelet a támogatási kérelem benyújtását követően az ügyfél saját felelősségére megkezdhető. A Vhr. 25. § (1) bekezdésétől eltérően, amennyiben a támogatási kérelemben felújítással, korszerűsítéssel járó művelet is szerepel, a kérelemben szereplő műveletek a támogatási kérelem befogadását megelőzően nem kezdhetők meg. Engedélyköteles beruházás megvalósítása csak jogerős engedély(ek) birtokában kezdhető meg.
 
-[^29]: A 7. § (1) bekezdése a 26/2010. (XI. 4.) VM rendelet 2. §-ával megállapított szöveg.
+[^29]: A 7. § (1) bekezdése a 15/2011. (II. 28.) VM rendelet 2. §-ával megállapított szöveg.
 [^30]: A 7. § (2) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
 [^31]: A 7. § (2) bekezdés c) pontja a 162/2009. (XI. 26.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg, e módosító rendelet 3. § (3) bekezdése alapján a 2009. november 1-je után benyújtott támogatási kérelmekre is alkalmazni kell.
 [^32]: A 7. § (3) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
