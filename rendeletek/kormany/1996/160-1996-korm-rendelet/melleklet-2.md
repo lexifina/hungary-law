@@ -24,11 +24,11 @@
 
 ## 6. A Legfőbb Ügyészség épülete
 
-## 7.[^63] A Közigazgatási és Igazságügyi Minisztérium központi épülete
+## 7.[^64] A Közigazgatási és Igazságügyi Minisztérium központi épülete
 
 ## 8. A Külügyminisztérium központi épületei
 
-## 9.[^64] A Belügyminisztérium
+## 9.[^65] A Belügyminisztérium
 
 ## 10. Az Állami Számvevőszék központi épületei
 
@@ -36,9 +36,9 @@
 
 ## 12. A Szent Korona és a koronázási jelvények
 
-## 13.[^65]
+## 13.[^66]
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^66]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^67]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -172,7 +172,7 @@
 
 65. Zalaegerszeg, Zala Megyei Kórház
 
-[^63]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^64]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^65]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^66]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^64]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^65]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^66]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
