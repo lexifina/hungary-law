@@ -1,3 +1,9 @@
-## 23. [^1] Közbeszerzés
+## 23. Közbeszerzés
 
-[^1]: A 23. alcím (37–46. §) a 122. § (2) bekezdése alapján 2011. március 1-jén lép hatályba.
+37. § (1) Az ebben az alcímben meghatározott kötelezettségeket a támogatást igénylő, illetve a kedvezményezett teljesíti, és azok teljesítését biztosítja akkor is, ha a Kbt. alapján nem ő minősül ajánlatkérőnek.
+
+(2) A kedvezményezett a támogatási döntésről szóló értesítés kézhezvételét – kiemelt és kistérségi programban meghatározott projektek esetében a részletes projektjavaslat benyújtását – követően az ezen alcím rendelkezései szerint köteles eljárni. Ha a kedvezményezett a támogatási döntésről szóló értesítés kézhezvételét – kiemelt és kistérségi programban meghatározott projektek esetében a részletes projektjavaslat benyújtását – megelőzően közbeszerzési eljárást folytat le, abban az esetben is az ezen alcím rendelkezései szerint köteles eljárni.
+
+(3) Az ezen alcím szerinti közbeszerzési eljárások lefolytatásáért és Kbt. szerinti dokumentálásáért – a központosított közbeszerzés kivételével – a támogatást igénylő, illetve a kedvezményezett felelős. Ha a támogatás felhasználására központosított közbeszerzési eljárás alapján kerül sor, a támogatást igénylő, illetve a kedvezményezett felelős az eljárás során a pályázat, illetve a támogatási szerződés és a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet szerinti keretmegállapodáson alapuló egyedi szerződés összhangjának megteremtéséért, továbbá a támogatás felhasználásának ellenőrzése során az eljárás dokumentumai rendelkezésre bocsátásáért.
+
+(4) Ha a támogatást igénylő, illetve a kedvezményezett az ezen alcímben foglalt kötelezettségeit nem, vagy nem megfelelően teljesíti, és a felelőssége szabálytalansági eljárás keretében megállapításra kerül, a támogatási szerződés szerinti támogatás egy része vagy egésze visszavonható, kiemelt és kistérségi programban meghatározott projektek esetében az igényelthez képest csökkentett támogatás ítélhető meg.

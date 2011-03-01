@@ -1,0 +1,7 @@
+86. § (1) A szabálytalansági eljárás megindításával egyidejűleg ki kell jelölni a szabálytalansági eljárás vezetőjét. A szabálytalanság-felelős köteles a szabálytalansági eljárás vezetőjével együttműködni.
+
+(2) A szabálytalansági eljárás megindításáról a szabálytalanság-felelős az eljárás megindításától számított 5 napon belül – a szabálytalansági gyanú ismertetésével – írásban tájékoztatja az érintett kedvezményezettet, és felhívja, hogy észrevételeit – az azokat alátámasztó dokumentumok benyújtása mellett – a tájékoztatás kézhezvételétől számított 7 napon belül tegye meg. A szabálytalanság-felelős a kedvezményezetti észrevétel megtételére ennél hosszabb határidőt is megállapíthat.
+
+(3) A szabálytalansági eljárás során a szabálytalansági eljárás vezetője betekinthet minden olyan dokumentumba, amely a szabálytalansági gyanú megítéléséhez szükséges, a projekt megvalósítási helyszínén ellenőrzést végezhet és lehetősége van a kedvezményezett személyes meghallgatására. Közbeszerzési jogsértés gyanúja esetén a szabálytalansági eljárás vezetője hivatalból eljárást indíthat a Közbeszerzési Döntőbizottságnál.
+
+(4) Ha felmerül annak gyanúja, hogy a projekt megvalósításával összefüggésben a kedvezményezett, vagy a kedvezményezett érdekkörébe eső más személy, illetve szervezet bűncselekményt követett el, a szabálytalansági eljárás során eljáró szervezet köteles a bűncselekmény gyanújának felmerülésétől számított 5 napon belül feljelentést tenni.

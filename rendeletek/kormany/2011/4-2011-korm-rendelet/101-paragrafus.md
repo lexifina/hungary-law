@@ -1,5 +1,3 @@
-## 83–100. §
-
 ## VI. Fejezet
 
 ## KÖVETELÉSKEZELÉS

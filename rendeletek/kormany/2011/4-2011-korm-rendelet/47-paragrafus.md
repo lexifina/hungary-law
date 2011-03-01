@@ -1,5 +1,3 @@
-## 37–46. §
-
 ## IV. Fejezet
 
 ## A TÁMOGATÁSOK PÉNZÜGYI LEBONYOLÍTÁSI RENDSZERE
