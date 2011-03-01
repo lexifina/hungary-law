@@ -1,3 +1,0 @@
-## 11. § Egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet (a továbbiakban: R5.) 9. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) E rendelet 2. § b) és g) pontja a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról szóló, 2008. december 16-i 112/2008/EK európai parlamenti és tanácsi irányelv 7. cikkének való megfelelést szolgálja.”
