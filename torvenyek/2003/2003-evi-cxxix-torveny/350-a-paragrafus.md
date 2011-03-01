@@ -1,4 +1,4 @@
-350/A. § (1) A perre a Fővárosi Bíróság kizárólagosan illetékes.
+350/A. § (1)
 
 (2)
 
