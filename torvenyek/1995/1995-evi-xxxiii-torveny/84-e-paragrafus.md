@@ -4,7 +4,7 @@
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdésben meghatározott hatósági tájékoztatást akkor közli, ha a bejelentő erre irányuló kérelmet nyújtott be. A kérelemhez mellékelni kell a közzétett igénypontok magyar fordítását.
 
-(3) A kérelmet és az igénypontok magyar fordítását a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni. A kérelem és az igénypontok magyar nyelvű fordításának elektronikus úton való benyújtására megfelelően alkalmazni kell az 57/A. § rendelkezéseit.
+(3) A kérelmet és az igénypontok magyar fordítását a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
 
 (4) Az igénypontok fordításának közzétételéért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 

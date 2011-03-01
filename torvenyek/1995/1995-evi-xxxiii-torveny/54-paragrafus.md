@@ -1,10 +1,10 @@
 ## VIII. Fejezet
 
-## Szabadalmi nyilvántartások, hatósági tájékoztatás
+## Szabadalmi lajstrom, hatósági tájékoztatás
 
-## Bejelentési nyilvántartás, szabadalmi lajstrom
+## Szabadalmi lajstrom
 
-54. § (1) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentésekről nyilvántartást, a szabadalmakról lajstromot vezet, amelyekbe be kell jegyezni a szabadalmi jogokkal kapcsolatos minden tényt és körülményt. Az európai szabadalmakat (X/A. fejezet) a lajstrom külön részében kell feltüntetni.
+54. § (1) A Szellemi Tulajdon Nemzeti Hivatala a közzétett szabadalmi bejelentésekről és a szabadalmakról lajstromot vezet, amelybe – az 55. §-nak megfelelően – be kell jegyezni a szabadalmi jogokkal kapcsolatos tényeket és körülményeket. Az európai szabadalmakat (X/A. fejezet) a lajstrom külön részében kell feltüntetni.
 
 (2) A szabadalmi lajstromban fel kell tüntetni különösen
 
@@ -32,8 +32,8 @@ k) a szabadalmi oltalom megszűnését, annak jogcímét és időpontját, valam
 
 l) a hasznosítási és a kényszerengedélyeket.
 
-(3) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a szabadalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a szabadalmi lajstromba bejegyezték.
+(3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(4) A szabadalmi lajstromot bárki megtekintheti, és az abban foglalt adatokról térítés ellenében másolatot kérhet.
+(4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a szabadalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a szabadalmi lajstromba bejegyezték.
 
-(5) A (3) és (4) bekezdés rendelkezéseit — a bejelentések közzétételét követően — megfelelően alkalmazni kell a szabadalmi bejelentésekről vezetett nyilvántartásra is.
+(5) A szabadalmi lajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A szabadalmi lajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.

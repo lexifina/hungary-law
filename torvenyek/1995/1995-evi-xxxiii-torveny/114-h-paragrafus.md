@@ -1,6 +1,6 @@
-## Növényfajta-oltalmi nyilvántartások, hatósági tájékoztatás
+## Növényfajta-oltalmi lajstrom, hatósági tájékoztatás
 
-114/H. § (1) A Szellemi Tulajdon Nemzeti Hivatala a növényfajta-oltalmi bejelentésekről nyilvántartást, a növényfajta-oltalmakról lajstromot vezet, amelyekbe be kell jegyezni a növényfajta-oltalommal kapcsolatos minden tényt és körülményt. A növényfajta-oltalmi bejelentésekről vezetett nyilvántartásra és a növényfajta-oltalmi lajstromra, valamint az azokba való bejegyzésre az 54. § (2)–(5) bekezdéseiben és az 55. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy ahol a törvény a szabadalom címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
+114/H. § (1) A Szellemi Tulajdon Nemzeti Hivatala a növényfajta-oltalmi bejelentésekről és a növényfajta-oltalmakról lajstromot vezet, amelybe be kell jegyezni a növényfajta-oltalommal kapcsolatos tényeket és körülményeket. A növényfajta-oltalmi lajstromra, valamint az abba való bejegyzésre az 54. § (2)–(5) bekezdésében és az 55. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy ahol a törvény a szabadalom címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
 
 (2) A növényfajta-oltalmi bejelentésekkel és a növényfajta-oltalommal kapcsolatos hatósági tájékoztatásra az 56. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy ahol a törvény a szabadalom vagy találmány címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
 
