@@ -4,7 +4,7 @@ a) ha e törvény másképp nem rendelkezik, a megyei bíróság mint első fok�
 
 b) a 46. §-ban szabályozott esetekben,
 
-c)
+c) amennyiben a szabályszerűen megidézett vádlott bejelentette, hogy a tárgyaláson nem kíván részt venni.
 
 d) ha pótmagánvádló lép fel.
 

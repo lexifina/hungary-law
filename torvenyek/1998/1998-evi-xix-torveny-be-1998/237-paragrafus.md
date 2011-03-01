@@ -14,4 +14,6 @@ c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme é
 
 d) a minősített adat védelme végett.
 
+(3a) Ha a bíróság a nyilvánosságot a nyilvános ülésről kizárja, zárt ülést tart.
+
 (4) A nyilvánosság kizárása az eljárás bármely szakaszában indítványozható.

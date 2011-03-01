@@ -5,3 +5,5 @@
 (2) Az ügyeket a tárgyalás megkezdése után is egyesíteni lehet, illetve el lehet különíteni (265. §).
 
 (3) A tárgyalás megkezdése után az ügyet nem lehet öttagú tanács elé utalni (271. §).
+
+(4) Az ügy áttétele, az ügyek egyesítése vagy elkülönítése tárgyában hozott határozat ellen fellebbezésnek nincs helye.

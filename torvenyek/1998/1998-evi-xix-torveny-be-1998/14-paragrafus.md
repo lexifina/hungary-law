@@ -10,7 +10,7 @@ b) ülnökök közreműködése nélkül (egyesbíróként) jár el az a) pont a
 
 (3) A helyi bíróság az (1) bekezdés b) pontja esetében egy hivatásos bíróból és két ülnökből álló tanácsban is eljárhat, ha megállapítja, hogy a vád tárgyává tett bűncselekmény a vádirati minősítéstől eltérően hogyan minősülhet, vagy ha az egyesbíró az ügyet a bíróság tanácsa elé utalta.
 
-(4) A megyei bíróság mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
+(4) A helyi bíróság és a megyei bíróság, mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
 
 (5) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el. A Legfelsőbb Bíróság három, illetőleg ha e törvény így rendelkezik, öt hivatásos bíróból álló tanácsban jár el.
 

@@ -12,7 +12,7 @@ c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatok
 
 a) az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövetésével alaposan gyanúsítható ismeretlen személy tartózkodási helye felkutatásának, lakóhelye, illetőleg személyazonossága megállapításának és körözése elrendelésének részletes szabályait az érintett miniszterekkel egyetértésben,
 
-b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek – ide nem értve a pártfogó ügyvédek – díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 
 c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
 

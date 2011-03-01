@@ -17,3 +17,5 @@ b) a polgári jogi igény érvényesítésének vagy a szülői felügyeleti jog
 c) az ítélet tudomásulvételét követően tett jogorvoslati nyilatkozat elutasítása
 
 ellen.
+
+(6) Amennyiben a szabályszerűen megidézett vádlott bejelentette, hogy a tárgyaláson nem kíván részt venni, azon a címen, hogy a bíróság a vádlott távollétében hozott ügydöntő határozatot, nincs helye fellebbezésnek.

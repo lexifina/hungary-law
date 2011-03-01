@@ -5,3 +5,5 @@
 (2) A jelentés tartalmazza a 166. § (2) bekezdésének a)–c) és e) pontjában meghatározott adatokat, az elvégzett eljárási cselekmények megjelölését, és ezek tartalmának tömör összefoglalását akként, hogy az eljárási szabályok megtartását is ellenőrizni lehessen.
 
 (3) A jelentést a nyomozó hatóság eljáró tagja írja alá.
+
+(4) A feljelentés kiegészítése körében tett megállapítások jelentésbe foglalhatók. A jelentés az eljáró hatóság megnevezését, az eljárási cselekmény helyét, idejét, és a történtek lényegének összegzését tartalmazza.

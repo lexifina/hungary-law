@@ -5,3 +5,5 @@
 (3) Ha a terhelt fogva van, a meghatalmazott védő személyéről és elérhetőségéről az a bíróság, ügyész, illetőleg nyomozó hatóság, amely előtt az eljárás folyik, haladéktalanul értesíti a fogvatartást végrehajtó intézetet.
 
 (4) A terhelt a meghatalmazást mind az általa, mind a más által meghatalmazott védőtől megvonhatja.
+
+(5) Ha a tárgyaláson védő részvétele kötelező, és a meghatalmazott védő a helyettesítésről nem gondoskodik, a bíróság helyettes védőt jelöl ki. A bíróság által helyettesként kijelölt védő a kirendelt védőre irányadóak szerint jogosult díjazásra, továbbá költségtérítésre. A költségek megtérítésére – az e törvényben meghatározott kivétellel – a meghatalmazott védőt kell kötelezni.

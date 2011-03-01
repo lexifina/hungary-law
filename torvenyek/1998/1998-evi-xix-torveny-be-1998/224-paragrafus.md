@@ -6,4 +6,4 @@
 
 (3) A 225. § (2) bekezdésének a) és b) pontja esetén az ügyész a sértettet is meghallgatja; a sértett meghallgatása mellőzhető, ha a hozzájárulásáról korábban nyilatkozott. A sértett hozzájárulásának hiánya nem akadálya annak, hogy a kártérítési, illetve a sértettnek teljesítendő jóvátételi kötelezettség előírása nélkül az ügyész a vádemelést elhalassza, ha annak feltételei enélkül is fennállnak.
 
-(4) Az ügyész a közvetítői eljárásra utalás feltételeinek vizsgálata céljából – szükség esetén a gyanúsítottra vonatkozó pártfogó felügyelői vélemény beszerzése után – meghallgatja a gyanúsítottat és a sértettet. Ha ez szükséges, a pártfogó felügyelő is meghallgatható.
+(4) Az ügyész a közvetítői eljárásra utalás feltételeinek vizsgálata céljából – szükség esetén a gyanúsítottra vonatkozó pártfogó felügyelői vélemény beszerzése után – meghallgathatja a gyanúsítottat és a sértettet. Ha ez szükséges, a pártfogó felügyelő is meghallgatható.

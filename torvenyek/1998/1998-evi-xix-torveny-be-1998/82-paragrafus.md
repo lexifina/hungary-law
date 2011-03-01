@@ -6,7 +6,7 @@ b) az, aki a (4) bekezdés esetét kivéve magát vagy hozzátartozóját bűncs
 
 c) – a 81. § (2) bekezdésében foglalt titoktartási kötelezettség esetét ide nem értve – az, aki a foglalkozásánál vagy közmegbízatásánál fogva titoktartásra köteles, ha a tanúvallomással a titoktartási kötelezettségét megsértené, kivéve, ha ez alól a külön jogszabály szerint jogosult felmentette, vagy külön jogszabály szerint a bíróság, az ügyész, illetőleg a nyomozó hatóság megkeresésére a titoktartási kötelezettség alá eső adat továbbítása a felmentésre jogosult számára kötelező.
 
-(2) A tanút a kihallgatása elején a mentességi okokra és a jogaira figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát szó szerint kell jegyzőkönyvbe venni. A figyelmeztetés és a figyelmeztetésre adott válasz szó szerinti jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
+(2) A tanút a kihallgatása elején a mentességi okokra és a jogaira figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
 
 (3) A megtagadás jogosságáról az eljáró bíróság, ügyész, illetőleg nyomozó hatóság határoz.
 

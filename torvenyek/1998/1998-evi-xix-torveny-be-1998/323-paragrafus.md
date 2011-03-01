@@ -6,4 +6,4 @@
 
 (3) A fellebbezésben olyan új tényt is lehet állítani és olyan új bizonyítékra is lehet hivatkozni, amelyről a fellebbező a határozat kihirdetése után szerzett tudomást. Olyan bizonyítást is lehet indítványozni, amelyet az első fokon eljárt bíróság mellőzött.
 
-(4) A fellebbezés írásban indokolható. Az indokolást az iratok felterjesztéséig az első fokú bíróságnál, az iratok felterjesztése után a másodfokú bíróságnál – legkésőbb a tárgyalást megelőző nyolcadik napon – kell előterjeszteni.
+(4) A fellebbezés írásban indokolható. Az indokolást az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztése után a másodfokú bíróságnál – legkésőbb a tárgyalást megelőző tizenötödik napon – kell előterjeszteni.

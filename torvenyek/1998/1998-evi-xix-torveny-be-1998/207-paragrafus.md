@@ -6,13 +6,15 @@
 
 a) a vádirat benyújtása előtt a bíróság hatáskörébe tartozó kényszerintézkedésekkel, az elmeállapot megfigyelésével kapcsolatos indítványokról, a védő kizárásáról, illetőleg az előzetes letartóztatott pszichiátriai kezelésre igazságügyi megfigyelő és elmegyógyító intézetbe történő beutalásáról,
 
-b) a titkos adatszerzés engedélyezéséről [203. § (4) és (6) bek.], megszüntetéséről [205. § (3) bek.], valamint a titkos információgyűjtés eredményének büntetőeljárásban bizonyítási eszközként történő felhasználásának lehetőségéről [206/A. § (6) bek.],
+b) a titkos adatszerzés engedélyezéséről [203. § (4) és (6) bek.], megszüntetéséről [205. § (3) bek.], a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapításáról [206/A. § (3) bek.], valamint a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásának lehetőségéről [206/A. § (4) bek.],
 
-c) a nyomozás megszüntetését követően a nyomozás folytatásának elrendeléséről [191. § (3) bek.],
+c) az ügyész indítványára a nyomozás megszüntetését követően a nyomozás folytatásának elrendeléséről [191. § (3) bek.],
 
 d) az ügyész indítványára a tanú különösen védetté nyilvánításáról (97. §),
 
 e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról.
+
+(2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 
 (3) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a különösen védett tanút és azt a tanút, aki az életét közvetlenül veszélyeztető állapotban van. A tanú kihallgatásának indítványozását a tanú és az érdekében eljáró ügyvéd az ügyésznél kezdeményezheti. A nyomozási bíró ismételten kihallgatja a különösen védett tanút, ha ezt a tárgyalás előkészítése vagy a tárgyalás során a bíróság elrendeli [268. § (3) bek., 305. § (3) bek.].
 

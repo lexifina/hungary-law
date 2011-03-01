@@ -1,26 +1,24 @@
 ## A titkos információgyűjtés eredményének felhasználása
 
-206/A. § (1) A bűnüldözési célból folytatott bírói engedélyhez kötött titkos információgyűjtés eredménye a büntetőeljárásban akkor használható fel, ha
+206/A. § (1) A bűnüldözési célból folytatott bírói engedélyhez kötött titkos információgyűjtés, valamint a nem bűnüldözési célból folytatott bírói engedélyhez, illetve az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredménye a büntetőeljárásban bizonyítékként akkor használható fel, ha
 
 a) a titkos adatszerzés engedélyezésének e törvényben meghatározott feltételei (201. §) a bizonyítani kívánt bűncselekmény tekintetében fennállnak,
 
-b) a büntetőeljárásban felhasználni kívánt információ megszerzését követően a titkos információgyűjtést végző szerv a feljelentési kötelezettségének haladéktalanul eleget tett.
+b) a titkos információgyűjtés engedélyezését kérő szerv a büntetőeljárásban felhasználni kívánt információ megszerzését követően a nyomozást haladéktalanul elrendelte vagy a feljelentési kötelezettségének haladéktalanul eleget tett.
 
-(2) Akivel szemben a bíróság bűnüldözési célból titkos információgyűjtést engedélyezett, az (1) bekezdésben meghatározott feltételek fennállása esetén a titkos információgyűjtés eredménye olyan bűncselekmény bizonyítására is felhasználható, amelyet az engedélyben nem jelöltek meg, feltéve, hogy a titkos adatszerzés e törvényben meghatározott feltételei ez utóbbi bűncselekmény tekintetében is fennállnak.
+(2) A titkos információgyűjtés engedélyezését kérő szerv a nyomozás elrendelésével vagy a feljelentés megtételével egyidejűleg kezdeményezi az illetékes ügyésznél a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapítását, ha
 
-(3) Annak a bűncselekménynek a bizonyítására, amely miatt a titkos információgyűjtést a bíróság engedélyezte, az (1) bekezdésben meghatározott feltételek fennállása esetén a titkos információgyűjtés eredménye minden elkövetővel szemben felhasználható.
+a) a bűnüldözési célból folytatott titkos információgyűjtés során keletkezett és rögzített adat az engedélyben nem megjelölt személyre, illetve nem megjelölt bűncselekményre,
 
-(4) A nem bűnüldözési célból folytatott bírói, illetőleg az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredménye a büntetőeljárásban akkor használható fel, ha
+b) a nem bűnüldözési célból folytatott titkos információgyűjtés során keletkezett és rögzített adat az engedélyben nem megjelölt személyre
 
-a) a titkos adatszerzés engedélyezésének e törvényben meghatározott feltételei (201. §) a bizonyítani kívánt bűncselekmény tekintetében fennállnak,
+vonatkozik.
 
-b) a büntetőeljárásban felhasználni kívánt információ megszerzését követően a titkos információgyűjtést végző szerv a feljelentési kötelezettségének haladéktalanul eleget tett.
+(3) A (2) bekezdés szerinti felhasználásra való alkalmasságról történő döntés érdekében az ügyész hetvenkét órán belül a nyomozási bíróhoz fordul. A titkos információgyűjtés eredménye akkor alkalmas a büntetőeljárásban bizonyítékként történő felhasználásra, ha az (1) bekezdésben meghatározott feltételek fennállnak és megalapozottan feltehető, hogy más módon a bizonyíték beszerzése kilátástalan, vagy aránytalanul nagy nehézséggel járna. A nyomozási bíró a felhasználásra való alkalmasságról indokolt végzéssel határoz. A felhasználásra való alkalmasság tárgyában hozott döntés a titkos információgyűjtés során keletkezett és rögzített adat minősített jellegét nem érinti. A büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasság megállapítása esetén az érintett adatot csak akkor kell megsemmisíteni, ha az ügyész az (4) bekezdés alapján annak bizonyítékként történő felhasználását nem indítványozta.
 
-(5) A nem bűnüldözési célból folytatott titkos információgyűjtés eredménye a (4) bekezdésben meghatározott feltételek fennállása esetén is kizárólag az engedélyben megjelölt személy bűncselekményének bizonyítására használható fel.
+(4) A titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználását az (1) bekezdésben meghatározott feltételek fennállása esetén a nyomozás elrendelését követően az ügyész indítványozhatja. Az indítványról a nyomozási bíró határoz.
 
-(6) A bírói, illetőleg az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredményének a büntetőeljárásban bizonyítási eszközként történő felhasználását az (1)–(5) bekezdésben meghatározott feltételek fennállása esetén a nyomozás elrendelését követően az ügyész indítványozhatja. Az indítványról a nyomozási bíró határoz.
-
-(7) A bírói engedélyhez kötött titkos információgyűjtés tényét a megyei (fővárosi) bíróság elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetőleg az engedély kereteit.
+(5) A bírói engedélyhez kötött titkos információgyűjtés tényét a megyei (fővárosi) bíróság elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetve az engedély kereteit.
 
 VI. CÍM
 

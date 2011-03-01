@@ -4,7 +4,7 @@
 
 ## A vádirat közlése
 
-263. § (1) A tanács elnöke az ügy iratainak a bírósághoz érkezését követően hatvan napon belül megvizsgálja, hogy van-e helye a 264–271. §-okban foglalt rendelkezések alkalmazásának.
+263. § (1) A tanács elnöke az ügy iratainak a bírósághoz érkezését követően harminc napon belül megvizsgálja, hogy van-e helye a 264–271. §-ban, illetve az 543–547. §-ban foglalt rendelkezések alkalmazásának.
 
 (2) Legkésőbb az (1) bekezdésben meghatározott határidő letelte után a tanács elnöke a vádiratot haladéktalanul megküldi a vádlottnak és a védőnek; a vádlottat és a védőt felhívja, hogy tizenöt napon belül jelölje meg bizonyítási eszközeit.
 

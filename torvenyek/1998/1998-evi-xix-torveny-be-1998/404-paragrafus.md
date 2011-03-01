@@ -2,10 +2,10 @@
 
 (2) Ha az ügyész a vádat az első fokú bíróság határozatának hatályon kívül helyezése után módosította, a módosított vádiratot az ügyész ismerteti.
 
-(3) Ha a vádlott nem tesz vallomást, a tanács elnöke a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomását is felolvashatja.
+(3) Ha a vádlott nem tesz vallomást, a tanács elnöke a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomását is ismertetheti vagy felolvashatja.
 
-(4) A tanú kihallgatása, illetőleg a szakértő meghallgatása helyett a tanúnak a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetőleg a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyvet fel lehet olvasni.
+(4) A tanú kihallgatása, illetve a szakértő meghallgatása helyett a tanúnak a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetve a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyv ismertethető vagy felolvasható.
 
 (5) A (4) bekezdés nem alkalmazható, ha az első fokú bíróság ítéletének hatályon kívül helyezése azért történt, mert az ítélet megalapozatlanságát a másodfokú bírósági eljárásban nem lehetett kiküszöbölni.
 
-(6) Az (5) bekezdés nem zárja ki annak a tanúvallomásnak, illetőleg szakvéleménynek a felolvasását, amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.
+(6) Az (5) bekezdés nem zárja ki annak a tanúvallomásnak, illetve szakvéleménynek az ismertetését vagy felolvasását, amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.

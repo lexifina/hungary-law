@@ -10,7 +10,7 @@ c) hirdetményi úton,
 
 d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
 
-e) nemzetközi jogsegély keretében,
+e) nemzetközi jogsegély keretében.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 

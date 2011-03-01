@@ -8,6 +8,8 @@
 
 (4) A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.
 
+(4a) Az ugyanazon jogosult által a korábbival azonos tartalommal ismételten előterjesztett vagy egyébként a korábbival azonos tartalommal ismételten előterjesztett indítvány elutasítására vonatkozó határozat hozatalát a bíróság mellőzheti.
+
 (5) Az összbüntetésbe foglalásra jogosult bíróság előtt folyamatban volt eljárásban a védő meghatalmazásának, illetőleg kirendelésének hatálya az összbüntetési eljárásra is kiterjed.
 
 (6) Ha az összbüntetésbe foglalást nem rendelték el, a bűnügyi költséget az állam viseli.
