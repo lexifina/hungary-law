@@ -1,6 +1,6 @@
 ## Támogatási kérelem benyújtása
 
-6. § (1)[^19] A támogatási kérelmet a 2011. évben október 1. és november 15. között, ezt követően évente október 1. és november 15. között lehet benyújtani a Mezőgazdasági Szakigazgatási Hivatalhoz a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, az MVH honlapján közzétett formanyomtatványon.
+6. § (1)[^19]
 
 (2) A támogatási kérelemhez mellékelni kell:
 
@@ -50,7 +50,7 @@ e) a Melléklet szerinti értékelési rendszer „Pénzügyi terv” szakasz é
 
 f) a támogatási kérelem értékeléséhez, bírálatához szükséges egyéb információkat, adatokat.
 
-[^19]: A 6. § (1) bekezdése a 26/2010. (XI. 4.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. § (1) bekezdését a 15/2011. (II. 28.) VM rendelet 6. § b) pontja hatályon kívül helyezte.
 [^20]: A 6. § (2) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^21]: A 6. § (2) bekezdésének c) pontját a 134/2007. (XI. 13.) FVM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
 [^22]: A 6. § (2) bekezdésének f) pontját a 134/2007. (XI. 13.) FVM rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
