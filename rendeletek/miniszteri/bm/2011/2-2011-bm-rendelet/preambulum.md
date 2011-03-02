@@ -1,0 +1,7 @@
+A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 20/1997. (III. 19.) BM rendelet módosítása tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (2) bekezdésének 4. pontjában foglalt felhatalmazás alapján,
+
+az igazságügyi és rendészeti miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (VII. 28.) IRM rendelet módosítása tekintetében a szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés a) pontjában foglalt felhatalmazás alapján,
+
+az igazságügyi és rendészeti miniszter felügyelete, irányítása alá tartozó fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 19/2008. (IX. 18.) IRM rendelet módosítása tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (4) bekezdésében foglalt felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: Korm. rendelet) 37. § n) pontjában meghatározott feladatkörömben eljárva – a 3. §, valamint a 4. § (2) és (5) bekezdése tekintetében a Korm. rendelet 73. § n) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
