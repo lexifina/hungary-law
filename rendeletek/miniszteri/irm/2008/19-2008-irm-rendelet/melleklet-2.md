@@ -50,7 +50,7 @@
 
 |  | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |  | RMVK vagy RSZVI + RVK + RMVK |  |
 
-|  | igazgató (NNI, RRI, BSZKI) |  |  |  |  |
+|  | igazgató (NNI, RRI) |  |  |  |  |
 
 |  | parancsnok (KR) |  |  |  |  |
 
@@ -72,7 +72,7 @@
 
 |  |  | parancsnok-helyettes (KR) |  |  |  |  |  |
 
-|  |  | igazgatóhelyettes (NNI, RRI, BSZKI) |  |  |  |  |  |
+|  |  | igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |  |  |  |  |  |
 
 |  |  | szolgálat-parancsnok (KR tűzszerész) |  |  |  |  |  |
 
