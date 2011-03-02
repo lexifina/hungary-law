@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Bolgár Köztársaság között a bűnözés megelőzésében és leküzdésében történő együttműködésről szóló Megállapodás kötelező hatályának elismerésére.
