@@ -8,35 +8,37 @@
 
 | 3 |  |  | – BM egyes hivatali szervezeti egységei |
 
-| 4 |  |  | – Nemzeti Védelmi Szolgálat |
+| 4 | – Nemzeti Védelmi Szolgálat |  |  |
 
-| 5 | 40/20%-ra jogosultak |
+| 5 | – Terrorelhárítási Központ |  |  |
 
-| 6 | – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) szervezeti elemei, kivéve az a) ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok, b) ORFK Oktatási Igazgatóság, c) Zsaru Magazin – a Köztársasági Őrezred – a Nemzeti Nyomozó Iroda | – BM Országos Katasztrófavédelmi Főigazgatóság (OKF) központi szervei | – Rendőrtiszti Főiskola Távközlési Szolgálat Oktatási Főigazgatóság |
+| 6 | 40/20%-ra jogosultak |
 
-| 7 | 30/15%-ra jogosultak |
+| 7 | – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) szervezeti elemei, kivéve az a) ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok, b) ORFK Oktatási Igazgatóság, c) Zsaru Magazin – a Köztársasági Őrezred – a Nemzeti Nyomozó Iroda | – BM Országos Katasztrófavédelmi Főigazgatóság (OKF) központi szervei | – Rendőrtiszti Főiskola |
 
-| 8 | ORFK területi besorolású szervei | OKF területi besorolású háttérintézményei | Rendészeti szakközépiskolák |
+| 8 | 30/15%-ra jogosultak |
 
-| 9 | – a megyei (fővárosi) rendőr– főkapitányság megyei illetékességű középirányító szervei – a Készenléti Rendőrség – a Repülőtéri Rendőr Igazgatóság – ORFK Oktatási Igazgatóság – ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok – Zsaru Magazin | – Fővárosi polgári védelmi és megyei katasztrófavédelmi igazgatóság megyei illetékességű középirányító szervei | – Katasztrófavédelmi Oktatási Központ Nemzetközi Oktatási Központ |
+| 9 | ORFK területi besorolású szervei | OKF területi besorolású háttérintézményei | Rendészeti szakközépiskolák |
 
-|  |  |  | – Rendészeti Vezetőképző és Kutatóintézet |
+| 10 | – a megyei (fővárosi) rendőr-főkapitányság megyei illetékességű középirányító szervei – a Készenléti Rendőrség – a Repülőtéri Rendőr Igazgatóság – ORFK Oktatási Igazgatóság – ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok – Zsaru Magazin – Bűnügyi Szakértői és Kutató Intézet | – Fővárosi polgári védelmi és megyei katasztrófavédelmi igazgatóság megyei illetékességű középirányító szervei – Katasztrófavédelmi Oktatási Központ | – Nemzetközi Oktatási és Polgári Válságkezelési Központ |
 
-| 10 |  | – Repülőtéri Katasztrófavédelmi Igazgatóság területi feladatokat ellátó állománya |  |
+| – BM Vezetőképző és Kutatóintézet |
 
-| 11 |  | – Fővárosi Önkormányzati Tűzoltó-parancsnokság megyei illetékességű középirányító szervei |  |
+| 11 |  | – Repülőtéri Katasztrófavédelmi Igazgatóság területi feladatokat ellátó állománya |  |
 
-| 12 | 15/10%– ra jogosultak |
+| 12 |  | – Fővárosi Önkormányzati Tűzoltó-parancsnokság megyei illetékességű középirányító szervei |  |
 
-| 13 | – a rendőrkapitányságok (kerületi, városi, vízirendészeti) | – Repülőtéri Katasztrófavédelmi Igazgatóság helyi feladatokat ellátó állománya |  |
+| 13 | 15/10%-ra jogosultak |
 
-| 14 | – határrendészeti kirendeltségek |  |  |
+| 14 | – a rendőrkapitányságok (kerületi, városi, vízirendészeti) | – Repülőtéri Katasztrófavédelmi Igazgatóság helyi feladatokat ellátó állománya |  |
 
-| 15 |  | – Országház Tűzoltó-parancsnokság |  |
+| 15 | – határrendészeti kirendeltségek |  |  |
 
-| 16 |  | – Katasztrófavédelem polgári védelmi kirendeltségei |  |
+| 16 |  | – Országház Tűzoltó-parancsnokság |  |
 
-| 17 |  | – Hivatásos önkormányzati tűzoltó-parancsnokságok (kerületi, városi) |  |
+| 17 |  | – Katasztrófavédelem polgári védelmi kirendeltségei |  |
+
+| 18 |  | – Hivatásos önkormányzati tűzoltó-parancsnokságok (kerületi, városi) |  |
 
 2. számú melléklet a 20/1997. (III. 19.) BM rendelethez
 
@@ -78,7 +80,7 @@ c)[^54] 100%-os mértékben, aki
 
 különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
 
-2.[^55] 100%-os mértékben, aki a Nemzeti Védelmi Szolgálat Műveleti Főosztály Akció Osztályán különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
+2.[^55]
 
 3.[^56] A Belügyminisztérium irányításával működő fegyveres szerveknél foglalkoztatott fedett nyomozók 150%-os mértékben.
 
@@ -594,25 +596,11 @@ a) 250%-os mértékben
 
 b) 200%-os mértékben
 
-– a főreferens,
-
-c) 150%-os mértékben
-
 – a kiemelt főreferens,
 
-d) 100%-os mértékben
+– a főreferens,
 
-– a főigazgató,
-
-– az igazgató,
-
-– az igazgató-helyettes,
-
-– a főosztályvezető,
-
-– a főosztályvezető-helyettes,
-
-– az osztályvezető.
+c) 100%-os mértékben – az a) és b) pontban felsoroltak, valamint a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosultak kivételével – a Nemzeti Védelmi Szolgálat hivatásos állományú tagjai.
 
 XII.[^69] A Hszt. 254. § (2) bekezdés a) pontjának 14. alpontja szerint a terrorizmust elhárító szerv állományának pótlékára a Terrorelhárítási Központ állománya az alábbiak szerint jogosult:
 
@@ -628,7 +616,7 @@ a) 450%-os mértékben
 
 – az Operatív Technikai-Informatikai Igazgatóság
 
-hivatásos állományának nem vezető beosztású tagjai,
+hivatásos állományának tagjai,
 
 b) 300%-os mértékben
 
@@ -636,12 +624,12 @@ b) 300%-os mértékben
 
 hivatásos állományú tagjai,
 
-c) 150%-os mértékben az a) és b) pontban felsoroltak kivételével a Terrorelhárítási Központ hivatásos állományú tagjai.
+c) 150%-os mértékben – az a) és b) pontban felsoroltak, valamint a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosultak kivételével – a Terrorelhárítási Központ hivatásos állományú tagjai.
 
 [^52]: A 2. számú melléklet I. pont 1. alpontja a 24/2009. (VI. 22.) IRM rendelet 1. § (2) bekezdésével megállapított, a nyitó szövegrész a 9/2010. (XII. 22.) BM rendelet 5. §-a szerint módosított szöveg.
 [^53]: A 2. számú melléklet I. pont 1. alpont a) alpontja a 9/2010. (XII. 22.) BM rendelet 5. §-a szerint módosított szöveg.
 [^54]: A 2. számú melléklet I. pont 1. alpont c) alpontja a 9/2010. (XII. 22.) BM rendelet 5. §-ával megállapított szöveg.
-[^55]: A 2. számú melléklet I. pont 2. alpontját a 19/2008. (IX. 18.) IRM rendelet 7. § (3) bekezdés b) pont ba) alpontja hatályon kívül helyezte, újonnan a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 9. § (2) bekezdése iktatta be, szövege a 9/2010. (XII. 22.) BM rendelet 5. §-ával megállapított szöveg.
+[^55]: A 2. számú melléklet I. pont 2. alpontját a 19/2008. (IX. 18.) IRM rendelet 7. § (3) bekezdés b) pont ba) alpontja hatályon kívül helyezte, újonnan a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 9. § (2) bekezdése iktatta be, a 2/2011. (II. 22.) BM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
 [^56]: A 2. számú melléklet I. pontjának 3. alpontját a 17/2001. (IX. 5.) BM rendelet 4. § (2) bekezdése iktatta a szövegbe.
 [^57]: A 2. számú melléklet I. pontjának 4. alpontját a 10/2002. (IV. 13.) BM rendelet 2. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 3. §-a alapján a 2002. március 18-án megkezdett alap felkészítő tanfolyam résztvevőire is alkalmazni kell.
 [^58]: A 2. számú melléklet I. pont 5. alpontját a 24/2009. (VI. 22.) IRM rendelet 1. § (2) bekezdése iktatta be.
@@ -654,5 +642,5 @@ c) 150%-os mértékben az a) és b) pontban felsoroltak kivételével a Terrorel
 [^65]: A 2. számú melléklet VIII. pontját a 28/2003. (VII. 9.) BM rendelet 3. § (3) bekezdése iktatta be, szövege a 19/2008. (IX. 18.) IRM rendelet 7. § (3) bekezdés b) pont bd) alpontja szerint módosított szöveg.
 [^66]: A 2. számú melléklet IX. pontját a 4/2006. (I. 20.) BM rendelet 9. §-a iktatta be, szövege a 24/2009. (VI. 22.) IRM rendelet 1. § (2) bekezdésével megállapított, a 9/2010. (XII. 22.) BM rendelet 5. §-a szerint módosított szöveg.
 [^67]: A 2. számú melléklet X. pontját a 4/2006. (I. 20.) BM rendelet 9. §-a iktatta be, szövege a 24/2009. (VI. 22.) IRM rendelet 1. § (2) bekezdésével megállapított, bevezető szövegrésze az 51/2009. (IX. 30.) IRM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^68]: A 2. számú melléklet XI. pontját a 9/2010. (XII. 22.) BM rendelet 5. §-a iktatta be.
-[^69]: A 2. számú melléklet XII. pontját a 9/2010. (XII. 22.) BM rendelet 5. §-a iktatta be.
+[^68]: A 2. számú melléklet XI. pontját a 9/2010. (XII. 22.) BM rendelet 5. §-a iktatta be, szövege a 2/2011. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
+[^69]: A 2. számú melléklet XII. pontját a 9/2010. (XII. 22.) BM rendelet 5. §-a iktatta be, szövege a 2/2011. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
