@@ -1,7 +1,0 @@
-2. § A Tny. 22/A. §-a helyébe a következő rendelkezés lép:
-
-„22/A. § (1) A saját jogú nyugellátásban részesülő személy – ideértve azt a személyt is, akinek nyugellátása a 83/A–83/B. § szerint szünetel – nyugellátását kérelemre saját jogú nyugdíjasként történt foglalkoztatása, illetve egyéni vagy társas vállalkozóként végzett kiegészítő tevékenysége alapján a naptári évben elért, nyugdíjjárulék-alapot képező kereset, jövedelem összege egytizenketted részének 0,5 százalékával növelni kell. A növelést megelőző naptári év előtt elért keresetet, jövedelmet az országos bruttó átlagkereset egyes években történő növekedését alapul véve a növelést megelőző naptári év kereseti szintjéhez kell igazítani.
-
-(2) A saját jogú nyugellátásban részesülő személy kérelmére a nyugellátását az (1) bekezdés szerint kell növelni akkor is, ha arra a jogosultságot korábban, azóta megszűnt rokkantsági, baleseti rokkantsági nyugdíj vagy rehabilitációs járadék mellett szerezte. A saját jogú nyugellátás mellett folytatott kereső tevékenység időtartama szolgálati időként nem vehető figyelembe.
-
-(3) A növelésre irányuló kérelmet évente egy alkalommal, legkorábban a kereset, jövedelem megszerzését követő naptári évben lehet benyújtani. Ha a növelés iránti kérelem több naptári évben megszerzett keresetre, jövedelemre vonatkozik, a növelés összegét naptári évenként kell meghatározni.”
