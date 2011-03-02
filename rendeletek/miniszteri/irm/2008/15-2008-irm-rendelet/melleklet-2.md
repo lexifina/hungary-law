@@ -7948,4 +7948,26 @@ D A főbüntetések
 
 D A szabadságvesztés
 
-[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+D A feltételes szabadságra bocsátás
+
+D A mellékbüntetések
+
+D Az intézkedések
+
+D A bűncselekmény, fogalma, fajtái
+
+D A szándékos bűncselekmény megvalósulási szakaszai
+
+D Az alannyá válás feltételei
+
+D A bűnösség, a bűncselekmény elkövetői
+
+D A büntethetőségi akadályok
+
+D A büntetés-végrehajtást kizáró okok
+
+C A szabadságvesztés büntetés végrehajtása, rendje
+
+D Az enyhébb végrehajtási szabályok
+
+[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a valamint a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése szerint módosított szöveg.
