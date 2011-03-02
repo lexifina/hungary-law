@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2010-05-20 | 1990-6-20-5E.63 | 41/2010. (V. 12.) KHEM rendelet |
 | 2010-06-01 | 1990-6-20-5E.64 | 41/2010. (V. 12.) KHEM rendelet |
 | 2011-01-01 | 1990-6-20-5E.65 | 26/2010. (XII. 22.) NFM rendelet |
+| 2011-03-02 | 1990-6-20-5E.66 | 44/2001. (XII. 18.) KöViM rendelet |
