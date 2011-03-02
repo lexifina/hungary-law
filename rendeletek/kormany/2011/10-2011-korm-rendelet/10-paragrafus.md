@@ -1,5 +1,3 @@
-## 9. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 13. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 1–9. §[^2]
 
-## (Nem kell a védelem költségeit megtéríteni, ha az érintett személy)
-
-## „b) miniszter meghívására érkezik, és a meghívóval legalább azonos beosztású, illetve rangú, valamint hazájában is védett személynek minősül,”
+[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
