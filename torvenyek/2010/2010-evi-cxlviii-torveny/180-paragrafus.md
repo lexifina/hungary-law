@@ -1,3 +1,0 @@
-## 86. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
-
-180. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 17. § (2) bekezdésében az „az érintett miniszterekkel egyetértésben – a kormányzati informatika vonatkozásában a közigazgatási informatikáért felelős miniszterrel együttesen –” szövegrész helyébe az „az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott” szöveg lép.

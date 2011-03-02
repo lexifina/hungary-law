@@ -1,3 +1,0 @@
-## 133. A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között az ismert vagy feltételezett terroristák kiszűrésére szolgáló információk cseréjéről szóló Megállapodás kihirdetéséről szóló 2008. évi XXXV. törvény módosítása
-
-235. § A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között az ismert vagy feltételezett terroristák kiszűrésére szolgáló információk cseréjéről szóló Megállapodás kihirdetéséről szóló 2008. évi XXXV. törvény 4. § (4) bekezdésében a „szolgálatok irányításáért felelős tárca nélküli miniszter” szövegrész helyébe a „szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter” szöveg lép.

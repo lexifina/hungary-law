@@ -1,5 +1,0 @@
-## 147. A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény módosítása
-
-252. § (1) A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 31. § (7) bekezdésében a „társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben” szövegrész helyébe a „társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.
-
-(2) A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 31. § (8) bekezdésében a „társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a pénzügyminiszterrel egyetértésben rendeletben” szövegrész helyébe a „társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, valamint az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben” szöveg lép.

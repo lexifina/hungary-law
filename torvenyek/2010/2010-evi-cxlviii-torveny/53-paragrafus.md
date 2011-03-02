@@ -1,1 +1,0 @@
-53. § Hatályát veszti a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. § (3) bekezdésében az „ , illetőleg jogutódja” szövegrész.

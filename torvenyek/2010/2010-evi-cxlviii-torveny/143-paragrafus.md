@@ -1,1 +1,0 @@
-143. § Hatályát veszti a külföldre utazásról szóló 1998. évi XII. törvény 41. § (2) bekezdés e) pontjában az „a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben” szövegrész.

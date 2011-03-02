@@ -1,3 +1,0 @@
-150. § A szerzői jogról szóló 1999. évi LXXVI. törvény 112. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – a szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat, valamint a közös jogkezelő szervezetek felügyeleti díjának kezelésére, nyilvántartására, felhasználására, megfizetése módjára, továbbá a díjmérték kiszámításának módjára és a megfizetés elmulasztásának jogkövetkezményeire vonatkozó részletes szabályokat rendeletben állapítsa meg.”

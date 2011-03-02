@@ -1,1 +1,0 @@
-190. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 17/C. § (1) bekezdésében az „igazságügyért felelős miniszter” szövegrész helyébe az „egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter” szöveg lép.

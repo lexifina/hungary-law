@@ -1,1 +1,0 @@
-196. § A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 7. § (2) bekezdésében az „amelyek célja” szövegrész helyébe az „amelyek célja többek között” szöveg lép.

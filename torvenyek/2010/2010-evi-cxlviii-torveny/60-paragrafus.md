@@ -1,1 +1,0 @@
-60. § Hatályát veszti a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény 13. § (5) bekezdésében az „ , a jegyzőkönyv tartalmát a helyi önkormányzatokért felelős miniszter rendeletben határozza meg” szövegrész.

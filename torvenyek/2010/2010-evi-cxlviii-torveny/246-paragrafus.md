@@ -1,1 +1,0 @@
-246. § A Londonban, 2000. október 17-én kelt, az európai szabadalmak megadásáról szóló Egyezmény 65. cikkének alkalmazásáról szóló Megállapodáshoz való csatlakozásról szóló 2009. évi XXIII. törvény 12. § (3) bekezdésében a „Magyar Szabadalmi Hivatal elnöke” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának elnöke” szöveg lép.
