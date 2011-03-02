@@ -1,1 +1,0 @@
-## 21. § Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 2. § 6. pont i) alpontjában a „Magyar Szabadalmi Hivatal” szövegrészek helyébe a „Szellemi Tulajdon Nemzeti Hivatala” szöveg lép.

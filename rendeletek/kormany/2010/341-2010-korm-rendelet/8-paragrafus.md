@@ -1,1 +1,0 @@
-## 7. § A Magyar Népköztársaság és a Portugál Köztársaság Kormányai között létrejött, a származási jelzések, eredetmegjelölések és egyéb földrajzi megnevezések oltalmáról szóló Megállapodás kihirdetéséről szóló 49/1986. (XI. 12.) MT rendelet 3. § (2) bekezdésében a „Magyar Szabadalmi Hivatal” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.

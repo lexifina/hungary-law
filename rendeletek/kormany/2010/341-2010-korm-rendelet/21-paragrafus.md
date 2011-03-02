@@ -1,1 +1,0 @@
-## 20. § A borászati termékek eredetmegjelöléseinek és földrajzi jelzéseinek közösségi oltalmára irányuló eljárásról, valamint ezen termékek ellenőrzéséről szóló 178/2009. (IX. 4.) Korm. rendelet 12. § (2) bekezdésében a „Magyar Szabadalmi Hivatalnak (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatalának” szöveg lép.

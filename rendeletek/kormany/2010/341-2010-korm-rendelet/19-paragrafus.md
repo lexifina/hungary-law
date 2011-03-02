@@ -1,5 +1,0 @@
-19. § (1) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 2. § (2) bekezdésében a „Magyar Szabadalmi Hivatal (a továbbiakban: MSZH)” szövegrész helyébe a „Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal)” szöveg lép.
-
-(2) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 8. § (2) bekezdésében, 9. § (2) bekezdésében, valamint 15. § (1) bekezdésében az „az MSZH-nak” szövegrész helyébe az „a Hivatalnak” szöveg lép.
-
-(3) A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 16. § (1) bekezdésében az „az MSZH-t” szövegrész helyébe az „a Hivatalt” szöveg lép.
