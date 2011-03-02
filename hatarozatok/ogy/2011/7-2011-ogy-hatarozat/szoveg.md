@@ -1,0 +1,1 @@
+Az Országgyűlés az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő magyar katonai szerepvállalásról szóló egyes kormányhatározatok módosításáról szóló 1242/2010. (XI. 17.) Korm. határozatban foglalt döntésekről szóló beszámolót elfogadja.
