@@ -7,11 +7,3 @@
 (4) A Megállapodás hatálybalépésével egyidejűleg a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalmazása és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1998. év november hó 11. napján aláírt Megállapodás kihirdetéséről szóló 118/1999. (VIII. 6.) Korm. rendelet hatályát veszti.
 
 (5) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
