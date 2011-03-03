@@ -1,6 +1,6 @@
 ## Az előirányzatok felhasználásának általános céljai
 
-3. § (1) Az Áht., az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.), a 2007–2013 programozási időszakban az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet, valamint a 2007–2013 időszak strukturális alapok és a Kohéziós Alap támogatása felhasználásának részletes eljárási szabályairól szóló 16/2006 (XII. 28.) MeHVM–PM együttes rendelet rendelkezéseivel összhangban a Nemzeti Fejlesztési Ügynökség által felügyelt GOP és a GVOP 4. Információs társadalom és gazdaságfejlesztés prioritásának, valamint ezzel összhangban a KMOP 1. Tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése című prioritásának általános céljai az alábbiak:
+3. § (1)[^19] Az Áht., az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.), a 2007–2013 programozási időszakban az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet, valamint a 2007–2013 időszak strukturális alapok és a Kohéziós Alap támogatása felhasználásának részletes eljárási szabályairól szóló 16/2006 (XII. 28.) MeHVM–PM együttes rendelet rendelkezéseivel összhangban a Nemzeti Fejlesztési Ügynökség által felügyelt GOP és a GVOP 4. Információs társadalom és gazdaságfejlesztés prioritásának, valamint ezzel összhangban a KMOP 1. Tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése című prioritásának általános céljai az alábbiak:
 
 a) A nemzetközi versenyképesség javítása, az ipar modernizációjának gyorsítása, a magas hozzáadott értékű beruházások ösztönzése, a környezeti terhelés csökkentése;
 
@@ -30,6 +30,7 @@ m) A vállalatok közötti elektronikus kapcsolatok, illetve a vállalkozások b
 
 n) Mikro- és kisvállalkozások fejlődését elősegítendő, a piaci elégtelenségek visszaszorítása érdekében a piaci hitel-, tőke- és garancia forrásokhoz való hozzáférés elősegítése.
 
-(2)[^16] Az EK-Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó, e rendelet által szabályozott támogatások a 4–17. § alapján nyújthatóak. Az egyéb, e rendelet hatálya alá tartozó támogatásokra a 4–6. § alkalmazandó.
+(2)[^20] Az EUMSZ 107. cikk (1) bekezdésének hatálya alá tartozó, e rendelet által szabályozott támogatások a 4–17. § alapján nyújthatóak. Az egyéb, e rendelet hatálya alá tartozó támogatásokra a 4–6. § alkalmazandó.
 
-[^16]: A 3. § (2) bekezdése a 22/2008. (X. 30.) NFGM rendelet 1. §-ával megállapított, a 14/2009. (V. 27.) NFGM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdés nyitó szövegrésze a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^20]: A 3. § (2) bekezdése a 22/2008. (X. 30.) NFGM rendelet 1. §-ával megállapított, a 14/2009. (V. 27.) NFGM rendelet 9. § (2) bekezdése, a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.

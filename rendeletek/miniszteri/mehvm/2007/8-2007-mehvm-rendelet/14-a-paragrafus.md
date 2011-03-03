@@ -1,8 +1,8 @@
 ## KKV részére nyújtott támogatás tanácsadáshoz
 
-## és vásárokon való részvételhez[^45]
+## és vásárokon való részvételhez[^51]
 
-14/A. §[^46] (1) A 4. § (1) bekezdés o)–p) és s) pontja alapján nyújtott támogatások a csoportmentességi rendelet hatálya alá tartozó tanácsadáshoz kapcsolódó támogatásnak minősülnek.
+14/A. §[^52] (1) A 4. § (1) bekezdés o)–p) és s) pontja alapján nyújtott támogatások a csoportmentességi rendelet hatálya alá tartozó tanácsadáshoz kapcsolódó támogatásnak minősülnek.
 
 (2) E támogatási program keretében a KKV részére nyújtott tanácsadáshoz kapcsolódó támogatást kizárólag a csoportmentességi rendelet szabályai alapján, az elszámolható költségek 50%-áig lehet odaítélni.
 
@@ -10,5 +10,5 @@
 
 (4) A vásárokon való részvételhez kapcsolódó támogatás esetén az elszámolható költségek a vállalkozásnak valamely kiállításon vagy vásáron való első részvétele esetén a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költségek.
 
-[^45]: A 14/A. §-t megelőző alcímet a 14/2009. (V. 27.) NFGM rendelet 7. §-a iktatta be.
-[^46]: A 14/A. §-t a 14/2009. (V. 27.) NFGM rendelet 7. §-a iktatta be.
+[^51]: A 14/A. §-t megelőző alcímet a 14/2009. (V. 27.) NFGM rendelet 7. §-a iktatta be.
+[^52]: A 14/A. §-t a 14/2009. (V. 27.) NFGM rendelet 7. §-a iktatta be.

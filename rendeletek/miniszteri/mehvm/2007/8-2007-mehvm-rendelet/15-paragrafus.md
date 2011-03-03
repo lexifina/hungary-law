@@ -12,9 +12,9 @@
 
 a) halászati és akvakultúra ágazat vállalkozásai részére;
 
-b) az EK Szerződés I. mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez kapcsolódó tevékenységet végző vállalkozások részére;
+b)[^53] az EUMSZ I. mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez kapcsolódó tevékenységet végző vállalkozások részére;
 
-c) az EK Szerződés I. mellékletében felsorolt mezőgazdasági termékek feldolgozásával vagy marketingjével kapcsolatos tevékenységet végző vállalkozások részére, amennyiben:
+c)[^54] az EUMSZ I. mellékletében felsorolt mezőgazdasági termékek feldolgozásával vagy marketingjével kapcsolatos tevékenységet végző vállalkozások részére, amennyiben:
 
 ca) a támogatás összege a piacon beszerzett vagy forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
 
@@ -37,3 +37,6 @@ b) az import áruk helyett hazai áru használatától függő támogatások.
 (8) A csekély összegű támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható állami támogatással, amennyiben az így halmozott összeg meghaladná a támogatási intenzitás csoportmentességi rendeletekben vagy az Európai Bizottságnak a 2007–2013 közötti időszakra vonatkozó regionális támogatási térképről szóló jóváhagyó határozatában meghatározott mértékét.
 
 (9) A támogatást nyújtó köteles írásban tájékoztatni a kedvezményezettet arról, hogy csekély összegű támogatásban részesül. A tájékoztatásnak kifejezetten utalnia kell az 1998/2006/EK rendeletre hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére – valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
+
+[^53]: A 15. § (5) bekezdés b) pontja a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^54]: A 15. § (5) bekezdés c) pontja a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.

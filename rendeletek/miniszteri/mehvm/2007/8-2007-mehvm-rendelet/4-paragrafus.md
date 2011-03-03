@@ -38,8 +38,8 @@ q) Kockázati tőkebefektetés nyújtása KKV-k részére;
 
 r) Vállalkozások finanszírozási forrásokhoz való hozzáférésének elősegítése,
 
-s)[^17] Befektetés-ösztönzési és piacfejlesztési tanácsadás, szolgáltatás.
+s)[^21] Befektetés-ösztönzési és piacfejlesztési tanácsadás, szolgáltatás.
 
 (2) Az (1) bekezdés l) és m) pontjában meghatározott jogcímeken akkor nyújtható támogatás, amennyiben arra az (1) bekezdésben felsorolt egyéb tevékenységek kielégítő végrehajtásához szükséges van és ezen tevékenységekhez közvetlenül és szorosan kapcsolódik és az a projekt részét képezi.
 
-[^17]: A 4. § (1) bekezdés s) pontját a 22/2008. (X. 30.) NFGM rendelet 2. §-a iktatta be.
+[^21]: A 4. § (1) bekezdés s) pontját a 22/2008. (X. 30.) NFGM rendelet 2. §-a iktatta be.

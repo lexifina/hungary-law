@@ -1,6 +1,6 @@
 ## A képzési támogatásokra vonatkozó szabályok
 
-14. §[^44] (1) Képzési támogatást általános és szakosított képzéshez lehet nyújtani.
+14. §[^50] (1) Képzési támogatást általános és szakosított képzéshez lehet nyújtani.
 
 (2) E rendelet alapján képzési támogatás a kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez kizárólag a csoportmentességi rendelet szabályaival összhangban nyújtható.
 
@@ -40,4 +40,4 @@ bb) nagyvállalkozások esetében 25%.
 
 (8) Ha valamely támogatási projektben mind szakosított, mind általános képzési összetevők szerepelnek, amelyek a képzés támogatási intenzitásának a kiszámítása céljából egymástól nem választhatók el, vagy ha a támogatási projektben szereplő képzés szakosított, illetve általános jellege nem állapítható meg, a (6) bekezdés b) pontja szerinti szakosított képzésre vonatkozó támogatási intenzitásokat kell alkalmazni.
 
-[^44]: A 14. § a 14/2009. (V. 27.) NFGM rendelet 6. §-ával megállapított szöveg.
+[^50]: A 14. § a 14/2009. (V. 27.) NFGM rendelet 6. §-ával megállapított szöveg.

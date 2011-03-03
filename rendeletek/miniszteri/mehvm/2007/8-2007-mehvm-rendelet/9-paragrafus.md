@@ -10,8 +10,8 @@ b) 50 százaléka, jelenértéken 50 és 100 millió eurónak megfelelő forint�
 
 c) 34 százaléka, a jelenértéken 100 millió eurónak megfelelő forintösszeg feletti részre.
 
-(3)[^25]
+(3)[^30]
 
 (4) Amennyiben egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás (HL C 194/2. 2005.08.18.) alapján részesül állami támogatásnak minősülő kockázati tőkejuttatásban, a tőkejuttatástól számított három éven belül – a nyújtott tőke összegéig – az adott vállalkozásnak e rendelet alapján megítélt beruházási támogatás intenzitását 20 százalékkal csökkenteni kell.
 
-[^25]: A 9. § (3) bekezdését a 14/2009. (V. 27.) NFGM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^30]: A 9. § (3) bekezdését a 14/2009. (V. 27.) NFGM rendelet 9. § (3) bekezdése hatályon kívül helyezte.

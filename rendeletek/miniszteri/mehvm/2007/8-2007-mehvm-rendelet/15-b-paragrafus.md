@@ -1,10 +1,10 @@
-15/B. §[^48] (1) Átmeneti támogatás nem nyújtható:
+15/B. §[^56] (1) Átmeneti támogatás nem nyújtható:
 
 a) a 104/2000/EK tanácsi rendelet hatálya alá tartozó, halászathoz vagy akvakultúrához kapcsolódó tevékenységet végző vállalkozásnak;
 
-b) az Európai Közösséget létrehozó Szerződés I. Mellékletében felsorolt mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak;
+b)[^57] az EUMSZ I. mellékletében felsorolt mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak;
 
-c) az Európai Közösséget létrehozó Szerződés I. Mellékletében felsorolt mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozásoknak:
+c)[^58] az EUMSZ I. mellékletében felsorolt mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozásoknak:
 
 ca) amennyiben a támogatás összege az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
 
@@ -22,4 +22,6 @@ e) amennyiben az átmeneti támogatás az importáruk helyett hazai áru haszná
 
 (5) A kedvezményezett köteles az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő 10. évig megőrizni és a támogatást nyújtó ilyen irányú felhívása esetén azokat bemutatni.
 
-[^48]: A 15/B. §-t a 34/2009. (XII. 30.) NFGM rendelet 4. §-a iktatta be.
+[^56]: A 15/B. §-t a 34/2009. (XII. 30.) NFGM rendelet 4. §-a iktatta be.
+[^57]: A 15/B. § (1) bekezdés b) pontja a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^58]: A 15/B. § (1) bekezdés c) pontja a 6/2011. (III. 2.) NFM rendelet 3. §-a szerint módosított szöveg.
