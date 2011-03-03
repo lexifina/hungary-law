@@ -1,6 +1,6 @@
-## A szolgáltatási minőség ösztönzése[^19]
+## A szolgáltatási minőség ösztönzése[^21]
 
-5/A. §[^20] (1) A Magyar Energia Hivatal (a továbbiakban: Hivatal) a VET 159. §-ának r) pontja alapján kiadott határozatban állapítja meg az elosztói engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, a minőségi követelmények mérésére szolgáló, valamint a minőség ösztönzése kapcsán figyelembe veendő minőségi mutatószámokat, valamint azok kiszámításának módszerét. A minőségi mutatószámok közül e rendelet szempontjából legfeljebb négy vehető figyelembe.
+5/A. §[^22] (1) A Magyar Energia Hivatal (a továbbiakban: Hivatal) a VET 159. §-ának r) pontja alapján kiadott határozatban állapítja meg az elosztói engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, a minőségi követelmények mérésére szolgáló, valamint a minőség ösztönzése kapcsán figyelembe veendő minőségi mutatószámokat, valamint azok kiszámításának módszerét. A minőségi mutatószámok közül e rendelet szempontjából legfeljebb négy vehető figyelembe.
 
 (2) Ha az (1) bekezdés szerinti minőségi mutatószámok esetében a minimális minőségi követelménytől való elmaradás (teljesítés) a beszámolási évben a (3) bekezdésben meghatározott mértékű, az adott elosztó hálózati engedélyes a beszámolási évet követő naptári év július 1-jétől december 31-ig az 1. számú melléklet „III. Elosztási díj” táblázatában szereplő díjaknál – az elosztói veszteség díj kivételével – a (3)–(4) bekezdéseknek megfelelő díjcsökkentést köteles alkalmazni az általa kiszolgált rendszerhasználók esetében.
 
@@ -18,5 +18,5 @@ b) 2%, ha az adott minőségi mutatószám vonatkozásában a teljesítés legal
 
 (6) Ha a kereskedő vagy egyetemes szolgáltató a (3)–(4) bekezdések szerint meghatározott díjcsökkentésben részesült, köteles annak teljes összegét – a Hivatallal egyeztetett módon – közvetlenül vagy közvetve a felhasználóknak továbbadni.
 
-[^19]: Az 5/A. §-t megelőző alcímet a 43/2008. (XII. 31.) KHEM rendelet 5. §-a iktatta be.
-[^20]: Az 5/A. §-t a 43/2008. (XII. 31.) KHEM rendelet 5. §-a iktatta be.
+[^21]: Az 5/A. §-t megelőző alcímet a 43/2008. (XII. 31.) KHEM rendelet 5. §-a iktatta be.
+[^22]: Az 5/A. §-t a 43/2008. (XII. 31.) KHEM rendelet 5. §-a iktatta be.

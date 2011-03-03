@@ -28,9 +28,9 @@ c) a közvilágítási elosztási díjat a 6. § (2) bekezdés
 
 (5) Az átviteli hálózatra csatlakozók az átviteli-rendszerirányítási díjat és a rendszerszintű szolgáltatások díját a 4. § (3) bekezdés b) pont alapján az átviteli rendszerirányító részére kötelesek megfizetni.
 
-(6)[^11] A (3) bekezdés szerinti rendszerhasználati díjakat kell az elosztó részére megfizetniük az elosztó hálózatra közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen vezeték vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték elosztó hálózatra csatlakozó, nem szigetüzemű erőműhöz csatlakozik.
+(6)[^12] A (3) bekezdés szerinti rendszerhasználati díjakat kell az elosztó részére megfizetniük az elosztó hálózatra közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen vezeték vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték elosztó hálózatra csatlakozó, nem szigetüzemű erőműhöz csatlakozik.
 
-(7)[^12] Az (5) bekezdés szerinti rendszerhasználati díjakat kell az átviteli rendszerirányító részére megfizetniük az átviteli hálózatra közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen vezeték vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték átviteli hálózatra csatlakozó, nem szigetüzemű erőműhöz csatlakozik.
+(7)[^13] Az (5) bekezdés szerinti rendszerhasználati díjakat kell az átviteli rendszerirányító részére megfizetniük az átviteli hálózatra közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen vezeték vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték átviteli hálózatra csatlakozó, nem szigetüzemű erőműhöz csatlakozik.
 
-[^11]: A 3. § (6) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^12]: A 3. § (7) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 3. § (6) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. § (7) bekezdése a 69/2009. (XII. 4.) KHEM rendelet 2. §-ával megállapított szöveg.

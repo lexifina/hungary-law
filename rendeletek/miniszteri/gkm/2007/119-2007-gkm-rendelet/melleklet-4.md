@@ -14,7 +14,7 @@
 
 ## 1.1. Az átviteli rendszerirányító havonta az 1.2. és az 1.3. pontokban meghatározott számlákat állíthat ki és nyújthat be az átviteli hálózat használóinak.
 
-## 1.2.[^48] Az első számla a megelőző hónapra vonatkozó – az 1. számú melléklet I. fejezet 1.2. pont szerinti díj és a 2. számú melléklet B) fejezetének 1.1.1. pontja szerinti villamosenergia-mennyiségek alapján meghatározott – átviteli-rendszerirányítási díjösszeg és a rendszerszintű szolgáltatások díjösszeg 50 %-át tartalmazza. Az „A)” fejezet 2. pontban leírtak figyelembevételével benyújtott első számlában foglalt fizetési kötelezettséget az átviteli hálózat használói a tárgyhónap 20. napjáig (ha ez nem banki nap, akkor a tárgyhónap 20. napját követő első banki napon) kötelesek teljesíteni.
+## 1.2.[^50] Az első számla a megelőző hónapra vonatkozó – az 1. számú melléklet I. fejezet 1.2. pont szerinti díj és a 2. számú melléklet B) fejezetének 1.1.1. pontja szerinti villamosenergia-mennyiségek alapján meghatározott – átviteli-rendszerirányítási díjösszeg és a rendszerszintű szolgáltatások díjösszeg 50 %-át tartalmazza. Az „A)” fejezet 2. pontban leírtak figyelembevételével benyújtott első számlában foglalt fizetési kötelezettséget az átviteli hálózat használói a tárgyhónap 20. napjáig (ha ez nem banki nap, akkor a tárgyhónap 20. napját követő első banki napon) kötelesek teljesíteni.
 
 ## 1.3. Az „A)” fejezet 2. pontban leírtak fegyelembevételével benyújtott második számla tartalmazza:
 
@@ -76,9 +76,9 @@
 
 ## c) az elosztói forgalmi díj, veszteség díj, meddőenergia díj és a közvilágítási elosztási díj megfizetéséhez az elszámolás alapjául szolgáló villamosenergia-mennyiségeket.
 
-## 2.7.[^49] A részszámlákon a fogyasztásarányos rendszerhasználati díjak a tételenkénti feltüntetés helyett összevontan is szerepeltethetők.
+## 2.7.[^51] A részszámlákon a fogyasztásarányos rendszerhasználati díjak a tételenkénti feltüntetés helyett összevontan is szerepeltethetők.
 
-## 3.[^50] A 4. § (5) bekezdés szerinti, utólag adott árengedményre vonatkozó elszámolás szabályai
+## 3.[^52] A 4. § (5) bekezdés szerinti, utólag adott árengedményre vonatkozó elszámolás szabályai
 
 ## 3.1. A második átviteli-rendszerirányítói számla kiállításával megegyező időpontban az átviteli rendszerirányító meghatározza a 4. § (5) bekezdés szerinti árengedmény elosztónkénti összegét, amelyről számlával egy tekintet alá eső okiratot állít ki az elosztók részére. Ezzel egyidejűleg az átviteli-rendszerirányító köteles az engedmény mértékének ellenőrzéséhez szükséges összesített villamos energia forgalmi adatokról az elosztókat tájékoztatni.
 
@@ -90,7 +90,7 @@
 
 ## 4. Az előrefizetős mérők esetében a rendszerhasználati díjak megfizetése (is) előre, a mérők feltöltésekor, a feltöltött villamosenergia-mennyiség alapján esedékes.
 
-4. számú melléklet a 119/2007. (XII. 29.) GKM rendelethez[^51]
+4. számú melléklet a 119/2007. (XII. 29.) GKM rendelethez[^53]
 
 Az átviteli rendszerirányító átviteli-rendszerirányítási díjból származó többletbevételének megosztása
 
@@ -112,7 +112,7 @@ Az átviteli rendszerirányító azon bevételi többletét, melyet az 1. szám�
 
 | Összesen | 100,0% |
 
-[^48]: A 3. számú melléklet B) rész 1.2. alpontja a 43/2008. (XII. 31.) KHEM rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^49]: A 3. számú melléklet B) rész 2.7. alpontját a 69/2009. (XII. 4.) KHEM rendelet 5. § (3) bekezdése iktatta be.
-[^50]: A 3. számú melléklet B) rész 3. pontja a 69/2009. (XII. 4.) KHEM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^51]: A 4. számú melléklet a 32/2010. (XII. 23.) VM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^50]: A 3. számú melléklet B) rész 1.2. alpontja a 43/2008. (XII. 31.) KHEM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 3. számú melléklet B) rész 2.7. alpontját a 69/2009. (XII. 4.) KHEM rendelet 5. § (3) bekezdése iktatta be.
+[^52]: A 3. számú melléklet B) rész 3. pontja a 69/2009. (XII. 4.) KHEM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^53]: A 4. számú melléklet a 32/2010. (XII. 23.) VM rendelet 3. § (4) bekezdésével megállapított szöveg.
