@@ -50,7 +50,7 @@
 
 | 24. |  |  | egészségügyi eljárások | Jász-Nagykun-Szolnok Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | környezetvédelemért felelős miniszter |
+| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | energiapolitikáért felelős miniszter |
 
 2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^4]
 
