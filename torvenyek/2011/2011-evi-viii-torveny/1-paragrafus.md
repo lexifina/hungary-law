@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai és másrészről a Koreai Köztársaság közötti kereskedelemről és együttműködésről szóló Keretmegállapodást (a továbbiakban: Keretmegállapodás) e törvénnyel kihirdeti.
