@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-7-00-00
 | 2010-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-7-00-00.3 |
 | 2010-08-16 | 2010. évi XC. törvény | 2010-7-00-00.4 |
 | 2010-12-31 | 2010. évi CLXXXI. törvény | 2010-7-00-00.5 |
+| 2011-03-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-7-00-00.6 |
