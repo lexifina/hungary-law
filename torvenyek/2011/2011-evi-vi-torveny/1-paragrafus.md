@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamai, másrészről a Kazah Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodást (a továbbiakban: a Megállapodás) e törvénnyel kihirdeti.
