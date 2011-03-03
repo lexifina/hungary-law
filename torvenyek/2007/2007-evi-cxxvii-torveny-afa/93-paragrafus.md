@@ -32,7 +32,7 @@ l) a gáz
 
 la) földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli vagy
 
-lb) gázszállító tartályhajóból földgázrendszerbe vagy upstream csővezeték-hálózatba [a földgáz belső piacára vonatkozó közös szabályokról és a 98/30/EK irányelv hatályon kívül helyezéséről szóló 2003/55/EK parlamenti és tanácsi irányelv 2. cikk 2. pontja] betáplált
+lb) gázszállító tartályhajóból földgázrendszerbe vagy upstream csővezeték-hálózatba [a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló 2009/73/EK parlamenti és tanácsi irányelv 2. cikk 2. pontja] betáplált
 
 importja;
 
