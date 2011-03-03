@@ -1,1 +1,1 @@
-3. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai és másrészről a Koreai Köztársaság közötti kereskedelemről és együttműködésről szóló Keretmegállapodáshoz a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság Európai Unióhoz történő csatlakozásának figyelembevételéről szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
+3. §
