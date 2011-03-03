@@ -1,9 +1,0 @@
-17. § (1) A 16. § (2) és (3) bekezdésében felsorolt nyugdíjigényeket – a nyugdíjrögzítés kivételével – az erre a célra rendszeresített, az igénylő aláírásával, továbbá az állományilletékes parancsnok aláírásával és bélyegzőjével ellátott adatlapon kell bejelenteni, és az igény elbírálásához szükséges eredeti dokumentumokkal együtt a nyugdíjmegállapító szervhez kell felterjeszteni. A hivatásos állomány tagja magán-nyugdíjpénztári tagsága esetén az igénylő adatlaphoz csatolni kell a magán-nyugdíjpénztári belépési nyilatkozat, illetve visszalépés esetén a visszalépést igazoló dokumentum eredeti vagy hitelesített másolati példányát.
-
-(2) Az állományilletékes parancsnok a szolgálati viszony megszűnését, illetve a 3. § szerinti jogviszonyban töltött idő elérését követő 15 napon belül köteles gondoskodni a nyugdíjjogosultságot elértek, a hivatásos állományból nyugállományba helyezettek, illetőleg elhunytak hozzátartozói nyugellátásának elbírálásához előírt okmányoknak – a személyügyi és a pénzügyi szervek adatszolgáltatási kötelezettsége mellett – a nyugdíjmegállapító szervhez történő megküldéséről.
-
-(3) A – folyósítás nélküli – rögzített szolgálati nyugdíj megállapítása határozattal történik, amelynek egy példányát – számfejtési melléklettel – az érintett részére kell megküldeni. A határozat egy-egy példányát a jogosult személyi anyagába, illetve a nyugdíjmegállapító szervnél kell irattárba helyezni.
-
-(4) Ha mulasztás miatt az ellátás megállapítására – és folyósítására – késedelmesen kerül sor, úgy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 80. §-ában meghatározott késedelmi kamatot a mulasztást elkövető szerv köteles megfizetni.
-
-(5) A megállapított és a Nyugdíjfolyósító Igazgatóság által megelőlegezett késedelmi kamatot a mulasztásért felelős szerv gazdasági vezetője az erről szóló értesítés megérkezésétől számított 60 napon belül a Nyugdíjfolyósító Igazgatóság szolgáltatási számlájára köteles átutalni.

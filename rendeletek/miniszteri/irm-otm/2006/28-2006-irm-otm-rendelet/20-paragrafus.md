@@ -4,6 +4,6 @@
 
 (2) A nyugdíjmegállapító szerv az 1. §-ban megállapított személyi hatály alá tartozó ügyek tekintetében az 58/2005. (XII. 9.) BM rendelettel kijelölt, a Belügyminisztérium nyugdíjmegállapító szervének jogutódja.
 
-(3)[^4]
+(3)[^16]
 
-[^4]: A 20. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 36. pontja hatályon kívül helyezte.
+[^16]: A 20. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 36. pontja hatályon kívül helyezte.

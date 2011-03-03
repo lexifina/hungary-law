@@ -1,5 +1,8 @@
-12. § (1) A baleseti járadékra való jogosultság a szolgálati kötelmekkel összefüggő baleset napjától, a szolgálatból eredő betegség következtében megállapított baleseti járadék esetén az ebből származó munkaképesség-csökkenés megállapítása hónapjának első napjától kezdődik.
+## 11. §[^10]
 
-(2) A baleseti járadék alapját – az 5. §-ban foglalt rendelkezések figyelembevételével – a szolgálati kötelmekkel összefüggő baleset időpontját, megbetegedés okozta munkaképesség-csökkenés esetén annak orvosi szakvéleményben megállapított időpontját megelőzően elért illetmény, kereset alapján kell megállapítani.
+12. § (1)–(2)[^11]
 
 (3) A szolgálati kötelmekkel összefüggő újabb baleset (betegség) esetén a következményeket együttesen kell figyelembe venni. Az együttes következmények alapján a baleseti járadék összegét újból meg kell állapítani, ha a járadékos az újabb baleset (betegség) következtében magasabb baleseti fokozatba kerül.
+
+[^10]: A 11. §-t a 21/2011. (III. 2.) Korm. rendelet 13. § (2) bekezdés a) pontja hatályon kívül helyezte, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.
+[^11]: A 12. § (1)–(2) bekezdését a 21/2011. (III. 2.) Korm. rendelet 13. § (2) bekezdés a) pontja hatályon kívül helyezte, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.

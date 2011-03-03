@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-28-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2006-28-20-1U.3 | 28/2006. (XI. 9.) IRM–ÖTM együttes rendelet |
+| 2011-03-03 | 2006-28-20-1U.4 | 21/2011. (III. 2.) Korm. rendelet |
