@@ -1,4 +1,4 @@
-## 12. § Szolgálati kötelmekkel összefüggő baleset, sérülés vagy szolgálati eredetű betegség alapján folyósított baleseti rokkantsági nyugdíj megszüntetése esetén a munkaképesség-csökkenés mértékének megfelelő fokozatú baleseti járadékot kell megállapítani.
+## 12. §[^9]
 
 ## 13. § A Hszt. 186. §-ának (1) bekezdése szerinti baleseti ellátás megállapításánál:
 
@@ -13,3 +13,5 @@ c) szolgálati úton, illetőleg a szolgálati helyre vagy onnan lakására (sz�
 közben érte.
 
 (2) Szolgálati kötelmekkel nem összefüggőnek kell minősíteni – a társadalombiztosítási jogszabályokban meghatározottakon túl – a balesetet, ha az a ht. állomány tagját nem az (1) bekezdésben felsorolt tevékenység közben érte, különösen, ha a szolgálat teljesítése alatt, de tiltó parancsok súlyos megszegése miatt következett be.
+
+[^9]: A 12. §-t a 21/2011. (III. 2.) Korm. rendelet 13. § (2) bekezdés b) pontja hatályon kívül helyezte, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.

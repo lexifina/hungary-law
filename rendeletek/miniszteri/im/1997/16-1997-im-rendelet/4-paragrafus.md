@@ -4,6 +4,6 @@
 
 (2) Ha a Hszt. 107. §-ának (1) bekezdése alapján a ht. állomány tagja a beszámított időszakban csökkentett illetményt kapott, összilletményét a csökkentés figyelmen kívül hagyásával kell megállapítani.
 
-(3) Ha a ht. állomány tagja tizenkét hónapnál rövidebb időre kapott illetményt, a nyugdíját e rövidebb időszakban kapott illetmény és illetmény jellegű juttatás egy hónapi átlaga alapján kell megállapítani.
+(3)–(4)[^4]
 
-(4) Ha a ht. állomány tagja szolgálati feladatait más szervhez vezényeltként teljesítette, a nyugdíjának megállapításakor az e munkakörében kapott és nyugdíjalapot képező illetmények (bérek) és juttatások figyelembevételével kell az illetményátlagot megállapítani.
+[^4]: A 4. § (3)–(4) bekezdését a 21/2011. (III. 2.) Korm. rendelet 13. § (2) bekezdés b) pontja hatályon kívül helyezte, e módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd e módosító rendelet 14. § (1) bekezdését.
