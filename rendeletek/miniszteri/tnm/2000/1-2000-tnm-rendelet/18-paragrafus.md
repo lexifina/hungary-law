@@ -12,6 +12,6 @@ d) a megállapított rokkantsági nyugdíj összegének a munkaképesség-csökk
 
 e) a hozzátartozók részére a rokkantság alapján járó nyugellátásoknak a rokkantság alakulása szerinti továbbfolyósításáról vagy beszüntetéséről;
 
-f)[^8] a szolgálati nyugdíj Hszt. 182. §-ának (9) bekezdése szerinti megállapításáról és rögzítéséről.
+f)[^10] a szolgálati nyugdíj Hszt. 182. §-ának (9) bekezdése szerinti megállapításáról és rögzítéséről.
 
-[^8]: A 18. § f) pontját a 6/2005. (VII. 26.) MeHVM rendelet 4. §-a iktatta be, szövege a 2/2010. (IV. 28.) PTNM rendelet 8. §-a szerint módosított szöveg.
+[^10]: A 18. § f) pontját a 6/2005. (VII. 26.) MeHVM rendelet 4. §-a iktatta be, szövege a 2/2010. (IV. 28.) PTNM rendelet 8. §-a szerint módosított szöveg.
