@@ -1,6 +1,6 @@
 ## A kárrendezés
 
-17. §[^70] (1) Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon állapítja meg.
+17. §[^71] (1) Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon állapítja meg.
 
 (2) A biztosított a kár megtérítésére abban az esetben jogosult, ha a 18. § (2) bekezdésben és a 20. §-ban előírt kötelezettségeinek – a (3) és (5) bekezdésben foglaltak kivételével – eleget tett. A Mehib Rt. a kárfizetési kötelezettségét
 
@@ -48,6 +48,7 @@ d) szállítói hitel esetében az alvállalkozók, társvállalkozók, más sz�
 
 (6) A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Rt. jogosult a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani.
 
-(7) Az (5) bekezdésben foglalt esetekben a Mehib Rt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosított a törlesztési ütemtervében meghatározott eredeti esedékességi időpontokig minden esetben eleget tett a 18. § (2) bekezdésben és a 20. §-ban előírt kötelezettségeinek.
+(7)[^72] Az (6) bekezdésben foglalt esetekben a Mehib Rt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosított a törlesztési ütemtervében meghatározott eredeti esedékességi időpontokig minden esetben eleget tett a 18. § (2) bekezdésben és a 20. §-ban előírt kötelezettségeinek.
 
-[^70]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^71]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^72]: A 17. § (7) bekezdése a 22/2011. (III. 3.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.

@@ -84,10 +84,10 @@
 
 ## Bármely ezen Szerződésből fakadó vitát, amelyet barátságos úton nem lehet rendezni, egy három választott bíróból álló Választottbíróság elé kell vinni. Minden érintett fél egy választott bírót jelöl. A harmadik választott bírót az Európai Közösségek Bíróságának Elnöke jelöli ki; ez a választott bíró jár el a Választottbíróság elnökeként. Az eljárás a Nemzetközi Kereskedelmi Kamara Egyeztetési és Választottbíráskodási Szabályai szerint zajlik.
 
-4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^87]
+4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^89]
 
 A 21. § (8) bekezdésben foglalt, védzáradék igénybevételére vonatkozó eljárás
 
 Ha a Biztosító a 21. § (8) bekezdésben foglalt eltérésekkel kíván élni, a tervezett döntését haladéktalanul be kell jelentenie a Bizottságnak, mint a védzáradék alkalmazására vonatkozó szándékát. A bejelentésnek olyan piaci jelentést kell tartalmaznia, amely kimutatja, hogy a magánbiztosítási piacon nem áll rendelkezésre fedezet a kockázatra, és ezt két nagy, közismert, magántulajdonú nemzetközi exporthitel biztosító, és egy hazai hitelbiztosító támasztja alá, ily módon indokolva a védzáradék alkalmazását. A bejelentésnek ezen túlmenően tartalmaznia kell azoknak a feltételeknek a leírását, amelyeket az állami vagy államilag támogatott exporthitel biztosító alkalmazni kíván az ilyen kockázatok tekintetében.
 
-[^87]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be.
+[^89]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be.

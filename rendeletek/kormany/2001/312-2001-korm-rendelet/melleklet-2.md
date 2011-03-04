@@ -1,4 +1,4 @@
-2. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^85]
+2. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^87]
 
 ## A 21. § (3) bekezdésében foglaltak teljesítésére vonatkozó eljárások
 
@@ -54,4 +54,4 @@ b) Az adós státusát illető vita esetén a közreműködő biztosítók a ren
 
 c) Amennyiben a biztosítók az információkéréstől számított 10 munkanapon belül nem tudnak megállapodni az adós státusáról, a közreműködő biztosítók az ügyet a vonatkozó információval együtt a Bizottság tudomására hozzák, amely a reá vonatkozó eljárásnak megfelelően határozatot hoz.
 
-[^85]: A 2. számú mellékletet a 303/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a rendelet eredeti mellékletének számozását 1. számú mellékletre változtatva.
+[^87]: A 2. számú mellékletet a 303/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a rendelet eredeti mellékletének számozását 1. számú mellékletre változtatva.

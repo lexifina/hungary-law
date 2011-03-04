@@ -1,4 +1,4 @@
-1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^84]
+1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^86]
 
 ## A piacképes kockázatú országok jegyzéke
 
@@ -22,4 +22,4 @@ II. Az OECD tagállamai közül
 
 8. Amerikai Egyesült Államok
 
-[^84]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.
+[^86]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-312-20-
 | 2008-05-16 | 2001-312-20-22.6 | 312/2001. (XII. 28.) Korm. rendelet |
 | 2010-03-16 | 2001-312-20-22.7 | 50/2010. (III. 9.) Korm. rendelet |
 | 2010-05-01 | 2001-312-20-22.8 | 48/2003. (IV. 3.) Korm. rendelet |
+| 2011-03-04 | 2001-312-20-22.9 | 50/2010. (III. 9.) Korm. rendelet |

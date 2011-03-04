@@ -1,20 +1,20 @@
-## A Mehib Rt. által az Állam készfizető kezessége mellett vállalható biztosítások tárgya[^15]
+## A Mehib Rt. által az Állam készfizető kezessége mellett vállalható biztosítások tárgya[^16]
 
-4. § (1)[^16] A Mehib Rt. által biztosítható:
+4. § (1)[^17] A Mehib Rt. által biztosítható:
 
 a) az exportirányú külkereskedelmi szerződés alapján előállított termék, illetőleg szolgáltatás előállítási költsége;
 
 b) a külföldi adóssal szembeni exportirányú külkereskedelmi és hitelszerződésből származó követelés;
 
-c)[^17] az exportirányú külkereskedelmi szerződéshez vagy külföldi vállalkozáshoz kapcsolódóan a 3. § c) pontjában foglalt pénzügyi szolgáltatásból eredő követelés;
+c)[^18] az exportirányú külkereskedelmi szerződéshez vagy külföldi vállalkozáshoz kapcsolódóan hitel-és pénzkölcsön nyújtásából, pénzügyi lízingből, kezesség és bankgarancia vállalásából, valamint egyéb bankári kötelezettség vállalásából eredő követelés;
 
 d) a külföldön kiírt versenytárgyalásokra (tenderekre) benyújtott ajánlatok tervezett költsége;
 
-e)[^18] a külföldi vállalkozásba befektetett tőke és annak hozama;
+e)[^19] a külföldi vállalkozásba befektetett tőke és annak hozama;
 
-f)[^19] a 3. § e) pontjában meghatározott hitelbiztosító biztosítási szerződése, amennyiben az a magyar áruk és szolgáltatások exportirányú külkereskedelmi szerződéséhez kapcsolódik (viszontbiztosítás);
+f)[^20] a 3. § e) pontjában meghatározott hitelbiztosító biztosítási szerződése, amennyiben az a magyar áruk és szolgáltatások exportirányú külkereskedelmi szerződéséhez kapcsolódik (viszontbiztosítás);
 
-g)[^20] a 2. § (1) bekezdés g) pontjában foglalt bankgarancia, ha az olyan exportirányú külkereskedelmi szerződéshez kapcsolódik, amelyre vonatkozó hitelnyújtásra a 8. § (2) bekezdése szerint biztosítási szerződés köthető.
+g)[^21] a 2. § (1) bekezdés g) pontjában foglalt bankgarancia, ha az olyan exportirányú külkereskedelmi szerződéshez kapcsolódik, amelyre vonatkozó hitelnyújtásra a 8. § (2) bekezdése szerint biztosítási szerződés köthető.
 
 (2) Az (1) bekezdés b) és c) pontjában foglalt esetekben a biztosítás kiterjed a kárfizetési türelmi időre számított szerződéses kamatra is.
 
@@ -26,25 +26,25 @@ b) a számviteli bizonylattal nem igazolható költségekre;
 
 c) a közvetett károkra, ideértve az elmaradt hasznot is;
 
-d)[^21]
+d)[^22]
 
 e) azokra a károkra, amelyek más biztosítóval kötött vagy köthető más típusú vagyonbiztosítási szerződéssel biztosítottak vagy biztosíthatóak;
 
-f)[^22]
+f)[^23]
 
 g) pénzügyi befektetésekre;
 
-h)[^23] a bankgarancia biztosítása esetén a bankgarancia díjára.
+h)[^24] a bankgarancia biztosítása esetén a bankgarancia díjára.
 
-(4)[^24] Belföldi vállalkozásnak külföldiek Magyarországra történő utaztatási tevékenységéből származó követelése e rendelet alkalmazásában úgy minősül, mint a külföldi adóssal szembeni exportirányú külkereskedelmi és hitelszerződésből származó követelés.
+(4)[^25] Belföldi vállalkozásnak külföldiek Magyarországra történő utaztatási tevékenységéből származó követelése e rendelet alkalmazásában úgy minősül, mint a külföldi adóssal szembeni exportirányú külkereskedelmi és hitelszerződésből származó követelés.
 
-[^15]: A 4. §-t megelőző alcím az 50/2010. (III. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^16]: A 4. § (1) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
-[^17]: A 4. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^18]: A 4. § (1) bekezdésének e) pontja a 303/2005. (XII. 25.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^19]: A 4. § (1) bekezdés f) pontja az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^20]: A 4. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege az 50/2010. (III. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^21]: A 4. § (3) bekezdés d) pontját az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
-[^22]: A 4. § (3) bekezdésének f) pontját a 48/2003. (IV. 3.) Korm. rendelet 12. §-ának (3) bekezdése hatályon kívül helyezte.
-[^23]: A 4. § (3) bekezdésének h) pontja a 303/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^24]: A 4. § (4) bekezdését az 50/2010. (III. 9.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^16]: A 4. §-t megelőző alcím az 50/2010. (III. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 4. § (1) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
+[^18]: A 4. § (1) bekezdés c) pontja a 22/2011. (III. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 4. § (1) bekezdésének e) pontja a 303/2005. (XII. 25.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^20]: A 4. § (1) bekezdés f) pontja az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege az 50/2010. (III. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^22]: A 4. § (3) bekezdés d) pontját az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^23]: A 4. § (3) bekezdésének f) pontját a 48/2003. (IV. 3.) Korm. rendelet 12. §-ának (3) bekezdése hatályon kívül helyezte.
+[^24]: A 4. § (3) bekezdésének h) pontja a 303/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^25]: A 4. § (4) bekezdését az 50/2010. (III. 9.) Korm. rendelet 5. § (3) bekezdése iktatta be.
