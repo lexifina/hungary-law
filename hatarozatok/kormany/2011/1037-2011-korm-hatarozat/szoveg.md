@@ -20,11 +20,7 @@ Határidő: a bíróság határozatának jogerőre emelkedését követően azon
 
 3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
 
-a) a Magyar Honvédség Szociálpolitikai Közalapítvány Alapító Okiratának módosításáról szóló 1077/2009. (V. 27.) Korm. határozat;
-
-b) a Magyar Honvédség Szociálpolitikai Alapítvány közalapítvánnyá történő átalakításáról szóló 1138/2004. (XII. 11.) Korm. határozat módosításáról szóló 1003/2008. (I. 30.) Korm. határozat és
-
-c) a Magyar Honvédség Szociálpolitikai Közalapítvány Alapító Okiratának módosításáról szóló 1033/2006. (IV. 4.) Korm. határozat.
+a)–c)[^2]
 
 Melléklet az 1037/2011. (III. 3.) Korm. határozathoz
 
@@ -107,3 +103,5 @@ A Kuratórium és a Felügyelő Bizottság tagjai lemondhatnak tiszteletdíjukr�
 A Kuratórium és a Felügyelő Bizottság tagjai költségtérítésben részesülhetnek.
 
 A Kuratórium Titkárságán foglalkoztatottak és szakértők a Kuratórium által meghatározott díjazásban részesülnek.”
+
+[^2]: A 3. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
