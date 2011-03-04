@@ -20,21 +20,7 @@ Határidő: a bíróság határozatának jogerőre emelkedését követően azon
 
 3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
 
-a) a Hadigondozottak Közalapítvány alapító okiratának módosításáról szóló 1101/2009. (VI. 30.) Korm. határozat;
-
-b) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról szóló 1088/2007. (XI. 21.) Korm. határozat;
-
-c) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat mellékletét képező Alapító Okirat módosításáról szóló 1132/2004. (XII. 6.) Korm. határozat;
-
-d) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat mellékletét képező Alapító Okirat módosításáról szóló 1086/2003. (VIII. 19.) Korm. határozat;
-
-e) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról szóló 1059/2001. (VI. 21.) Korm. határozat;
-
-f) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról és kiegészítéséről szóló 1150/1998. (XI. 27.) Korm. határozat;
-
-g) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról és kiegészítéséről szóló 1084/1998. (VI. 9.) Korm. határozat és
-
-h) a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról szóló 1036/1997. (IV. 18.) Korm. határozat.
+a)–h)[^2]
 
 Melléklet az 1036/2011. (III. 3.) Korm. határozathoz
 
@@ -107,3 +93,5 @@ A Kuratórium a kuratóriumi tagok (beleértve a kuratórium elnökét és titk�
 A Kuratórium és a felügyelőbizottság tagjai lemondhatnak tiszteletdíjukról.
 
 A Kuratórium és a felügyelőbizottság tagjai költségtérítésben részesülhetnek.”
+
+[^2]: A 3. pont a)–h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
