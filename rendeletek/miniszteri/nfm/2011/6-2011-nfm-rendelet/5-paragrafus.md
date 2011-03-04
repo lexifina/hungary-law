@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti az R. 12. § (2) bekezdése.
+## 1–4. §[^1]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
