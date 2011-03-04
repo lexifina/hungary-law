@@ -22,7 +22,7 @@ f = felsőfokú szakképzettség
 
 | 3. Természetes személy vagy a Ptk. 685 § c) pontja szerinti gazdálkodó szervezet által végzett egészségmegőrző és sportfoglalkozások (edzésprogramok) vezetése | sportoktató (a sportág megjelölésével) (a), sportedző (a sportág megjelölésével) (k), rekreációs mozgásprogram-vezető szakirányai: animátor (r), aqua tréner (r), fitness instruktor (r), gyermekkori mozgásprogram-vezető (r), orientális táncoktató (r), személyi edző (r), szenior tréner (r), wellness tanácsadó (r); szakedző (f), testnevelő-edző (f), okleveles szakedző (f), gyógytornász (f), testnevelő tanár (f), okleveles testnevelő tanár (f), rekreáció-szervező (f), rekreáció-szervező-egészségfejlesztő (f), okleveles rekreáció-irányító (f), okleveles gyógytestnevelő tanár (f) |
 
-| 4. Edzői tevékenység végzése, a sportolók versenyekre való felkészítése | sportoktató (a sportág megjelölésével) (a), sportedző (a sportág megjelölésével) (k), testnevelő tanár (f), okleveles testnevelő tanár (f), testnevelő-edző (f), szakedző (f), okleveles szakedző (f), táncpedagógus (f) |
+| 4. Edzői tevékenység végzése, a sportolók versenyekre való felkészítése | sportoktató (a sportág megjelölésével) (a), nemzetközi sportszövetség által akkreditált edzőképzésben szerzett végzettség (a sportág megjelölésével) (a), sportedző (a sportág megjelölésével) (k), testnevelő tanár (f), okleveles testnevelő tanár (f), testnevelőedző (f), szakedző (f), okleves szakedző (f), táncpedagógus (f) |
 
 | 5. Sportszervezeteknél mozgásterápiás, sportrehabilitációs szolgáltatások irányítása | preventív mozgásterapeuta (t), humánkineziológus (f), okleveles humánkineziológus (f), okleveles gyógytestnevelő tanár (f), gyógytornász (f) |
 
@@ -60,4 +60,4 @@ Megjegyzés:
 
 A *-gal ellátott tevékenységeknél szakképesítésként elfogadható a szakiránynak megfelelő egyéb szakképesítés vagy magasabb szintű szakirányú szakmai végzettség, valamint a 289/2005. (XII. 22.) Korm. rendelet szerinti jogi és igazgatási területen szerzett, valamint a közgazdasági felsőfokú végzettség.
 
-[^11]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 17/2011. (II. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
