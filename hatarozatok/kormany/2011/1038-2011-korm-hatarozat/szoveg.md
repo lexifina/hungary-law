@@ -20,13 +20,7 @@ Határidő: a bíróság határozatának jogerőre emelkedését követően azon
 
 3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
 
-a) a Szabadságharcosokért Alapítvány létrehozásáról szóló 1047/1992. (IX. 10.) Korm. határozat módosításáról szóló 1027/1994. (IV. 16.) Korm. határozat,
-
-b) a Szabadságharcosokért Alapítvány létrehozásáról szóló 1047/1992. (IX. 10.) Korm. határozat módosításáról szóló 1122/1995. (XII. 7.) Korm. határozat,
-
-c) a Szabadságharcosokért Alapítvány Alapító Okiratának módosításáról szóló 1117/1999. (XII. 6.) Korm. határozat, valamint
-
-d) a Szabadságharcosokért Közalapítvány Alapító Okiratának módosításáról szóló 1099/2007. (XII. 15.) Korm. határozat.
+a)–d)[^2]
 
 Melléklet az 1038/2011. (III. 3.) Korm. határozathoz
 
@@ -103,3 +97,5 @@ A Felügyelő Bizottság tagjainak kinevezése három év határozott időtartam
 A Felügyelő Bizottság a jelen pontban meghatározottnál alacsonyabb tiszteletdíjat is megállapíthat. A Felügyelő Bizottság tagja tiszteletdíjáról, vagy annak egy részéről lemondhat.
 
 A Felügyelő Bizottság tagjának a tisztség ellátásával kapcsolatban felmerült költségeit a Közalapítvány számla ellenében megtéríti.”
+
+[^2]: A 3. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
