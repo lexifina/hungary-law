@@ -1,3 +1,5 @@
 12. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A helyi önkormányzatok és a többcélú kistérségi társulások létszámcsökkentési döntéseivel kapcsolatos egyszeri költségvetési támogatás igényléséről, döntési rendszeréről, folyósításának és elszámolásának részletes feltételeiről szóló 4/2010. (I. 26.) ÖM rendelet 2012. január 1-jén hatályát veszti.
+(2)[^1]
+
+[^1]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
