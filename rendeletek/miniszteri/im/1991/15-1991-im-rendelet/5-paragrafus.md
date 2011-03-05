@@ -528,7 +528,7 @@ egy körzet --- egész év
 
 3. sz. közjegyző --- március, június, szeptember, december
 
-5.[^59] Zalaszentgrót és Almásháza, Batyk, Döbröce, Dötk, Kallósd, Kehidakustány, Kisgörbő, Kisvásárhely, Mihályfa, Nagygörbő, Óhid, Pakod, Sénye, Sümegcsehi, Szalapa, Türje, Tilaj, Vindornyaszőlős, Zalabér, Zalaszántó, Zalaszentlászló, Zalavég, Zalacsány (a Keszthelyi Városi Bíróság illetékességi területéről)
+5.[^59] Zalaszentgrót és Almásháza, Batyk, Döbröce, Dötk, Kallósd, Kehidakustány, Kisgörbő, Kisvásárhely, Mihályfa, Nagygörbő, Óhid, Pakod, Sénye, Sümegcsehi, Szalapa, Tekenye, Türje, Tilaj, Vindornyaszőlős, Zalabér, Zalaszántó, Zalaszentlászló, Zalavég, Zalacsány (a Keszthelyi Városi Bíróság illetékességi területéről)
 
 egy körzet egész év
 
@@ -1091,7 +1091,7 @@ egy körzet --- egész év
 [^56]: A melléklet II. Része Zala megye címének 1. pontja a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján az új közjegyzői székhelyek és állások létesítésével érintett, működő közjegyzők kinevezési okiratát megfelelően módosítani kell.
 [^57]: A melléklet II. Része Zala megye címének 3. pontja a 29/2003. (VII. 16.) IM rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 7. §-ának (2) bekezdése alapján az új közjegyzői székhelyek és állások létesítésével érintett, működő közjegyzők kinevezési okiratát megfelelően módosítani kell.
 [^58]: A melléklet II. Része Zala megye címének 4. pontja a 4/1994. (II. 27.) IM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^59]: A melléklet II. Része Zala megye címének 5. pontját a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 7. § (2) bekezdése alapján az új közjegyzői székhelyek és állások létesítésével érintett, működő közjegyzők kinevezési okiratát megfelelően módosítani kell.
+[^59]: A melléklet II. Része Zala megye címének 5. pontját a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdése iktatta be, szövege a 8/2011. (III. 4.) KIM rendelet 12. §-a szerint módosított szöveg.
 [^60]: A melléklet III. Része Borsod-Abaúj-Zemplén megye címe 1. pontja a 23/1997. (VIII. 1.) IM rendelet 3. §-ával megállapított szöveg.
 [^61]: A melléklet III. Része Borsod-Abaúj-Zemplén megye címének 4. pontja a 11/2002. (VI. 8.) IM rendelet 4. § (1) bekezdésével megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján az új közjegyzői székhelyek és állások létesítésével érintett, működő közjegyzők kinevezési okiratát megfelelően módosítani kell.
 [^62]: A melléklet III. Része Borsod-Abaúj-Zemplén megye címének új 5. pontját a 18/1998. (XI. 6.) IM rendelet 4. §-a iktatta be, egyidejűleg az eredeti 5–9. pont számozását 6–10. pontra változtatva. Az 5. pontot hatályon kívül helyezte a 11/2002. (VI. 8.) IM rendelet 4. § (1) bekezdése.
