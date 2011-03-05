@@ -182,6 +182,6 @@
 
 ## * Egyedi adatgyűjtés alapján
 
-2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^173]
+2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^184]
 
-[^173]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+[^184]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.

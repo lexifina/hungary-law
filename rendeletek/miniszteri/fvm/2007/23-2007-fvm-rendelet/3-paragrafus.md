@@ -64,9 +64,7 @@
 
 a) akinek részére a 28/A. § alapján e minőségéről az IH határozatot hoz;
 
-b) aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet alapján támogatási határozattal, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító határozattal rendelkezik.
-
-Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogatás részletes feltételeit megállapító jogszabályban megadott támogatási kérelem benyújtási időszakának utolsó napjától – az e rendelet 28/A. § (6) bekezdésének megfelelően – érvényesnek kell lennie, amelynek kapcsán az ügyfél fiatal mezőgazdasági termelői minőségét érvényesíteni kívánja.
+b) aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet alapján támogatási határozattal, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító határozattal rendelkezik;
 
 31.[^22] kedvezőtlen adottságú terület: az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló 1257/1999/EK tanácsi rendelet 19. cikke, valamint 20. cikke alapján az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz kapcsolódó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott terület;
 
@@ -82,7 +80,9 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 
 37.[^28] pontozási szint: a támogatási kérelem azon egysége, amely a támogatás részletes feltételeit megállapító jogszabály alapján önállóan rangsorba állítható, és amelyhez külön pontszám és támogatási összeg tartozik;
 
-38.[^29] felmérési napló: az építőipari kivitelezési tevékenységről, az építési naplóról és a kivitelezési dokumentáció tartalmáról szóló 290/2007. (X. 31.) Korm. rendelet 22. §-a szerint.
+38.[^29] felmérési napló: az építőipari kivitelezési tevékenységről, az építési naplóról és a kivitelezési dokumentáció tartalmáról szóló 290/2007. (X. 31.) Korm. rendelet 22. §-a szerint;
+
+39.[^30] műszaki tartalom: a támogatással érintett egység (építmény, eszköz, szolgáltatás) azon funkciója, használati módja, mérete, kapacitása, amely a támogatás nyújtásának céljával összefüggésben van, illetve a támogatás megítélésében szerepet játszott, amennyiben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások részletes szabályait megállapító rendeletek eltérően nem rendelkeznek.
 
 [^6]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § 5. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
@@ -99,7 +99,7 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 [^18]: A 3. § 27. pontját újonnan az 51/2009. (IV. 16.) FVM rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^19]: A 3. § 28. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^20]: A 3. § 29. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^21]: A 3. § 30. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^21]: A 3. § 30. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 17/2011. (III. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § 31. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^23]: A 3. § 32. pontját a 127/2007. (X. 29.) FVM rendelet 1. § (2) bekezdése iktatta be.
 [^24]: A 3. § 33. pontját az 53/2008. (IV. 24.) FVM rendelet 3. § (5) bekezdése iktatta be.
@@ -108,3 +108,4 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 [^27]: A 3. § 36. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^28]: A 3. § 37. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^29]: A 3. § 38. pontját az 51/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^30]: A 3. § 39. pontját a 17/2011. (III. 4.) VM rendelet 1. § (2) bekezdése iktatta be.

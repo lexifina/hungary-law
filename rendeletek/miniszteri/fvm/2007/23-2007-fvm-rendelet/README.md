@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2010-12-23 | 2007-23-20-82.20 | 41/2010. (XII. 20.) VM rendelet |
 | 2011-01-14 | 2007-23-20-82.21 | 51/2009. (IV. 16.) FVM rendelet |
 | 2011-02-21 | 2007-23-20-82.22 | 11/2011. (II. 18.) VM rendelet |
+| 2011-03-05 | 2007-23-20-82.23 | 17/2011. (III. 4.) VM rendelet |

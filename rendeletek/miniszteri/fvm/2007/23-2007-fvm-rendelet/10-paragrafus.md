@@ -2,9 +2,9 @@
 
 10. § (1) Az ügyfél által a támogatás igénybevételével összefüggésben vállalt kötelezettségek teljesítésének időtartama alatt a mezőgazdasági üzem egészének, illetve a kötelezettség vállalásával érintett részének átruházása csak a kötelezettségek átvállalásával lehetséges. Az átvállalással az átadó mentesül a kötelezettségek alól. Az átvállaló – a támogatás részletes feltételeit megállapító jogszabály eltérő rendelkezése hiányában – csak egy személy lehet.
 
-(2)[^57] A kötelezettség átvállalásához az MVH előzetes jóváhagyása szükséges. Az erre irányuló kérelmet az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani. A kötelezettség átvállalása nem hagyható jóvá, ha az átvevő nem felel meg a támogatásra való jogosultsági feltételeknek.
+(2)[^58] A kötelezettség átvállalásához az MVH előzetes jóváhagyása szükséges. Az erre irányuló kérelmet az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani. A kötelezettség átvállalása nem hagyható jóvá, ha az átvevő nem felel meg a támogatásra való jogosultsági feltételeknek.
 
-(3)[^58] A (2) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+(3)[^59] A (2) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
 a) a kötelezettségvállalásra vonatkozó adatok,
 
@@ -20,11 +20,11 @@ f) a kérelemben igényelt támogatásra vonatkozó jogszabályi feltételek ism
 
 g) az ügyfél aláírása.
 
-(4)[^59] Az átvállalás esetén kívül az 1974/2006/EK bizottsági rendelet 44. cikk (2) bekezdésében foglaltak teljesülése esetén mentesíteni kell az ügyfelet a részére kifizetett támogatás visszatérítése alól. Az erre irányuló kérelmet – amelyben a mentesítésre alapot adó körülményt igazolni kell – az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani.
+(4)[^60] Az átvállalás esetén kívül az 1974/2006/EK bizottsági rendelet 44. cikk (2) bekezdésében foglaltak teljesülése esetén mentesíteni kell az ügyfelet a részére kifizetett támogatás visszatérítése alól. Az erre irányuló kérelmet – amelyben a mentesítésre alapot adó körülményt igazolni kell – az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani.
 
-(5)[^60] Az 1974/2006/EK bizottsági rendelet 44. cikk a) pontja vonatkozásában a kötelezettséget jelentős mértékben teljesítettnek kell tekinteni, ha a kötelezettségvállalásra előírt időtartam négyötöde már eltelt.
+(5)[^61] Az 1974/2006/EK bizottsági rendelet 44. cikk a) pontja vonatkozásában a kötelezettséget jelentős mértékben teljesítettnek kell tekinteni, ha a kötelezettségvállalásra előírt időtartam négyötöde már eltelt.
 
-[^57]: A 10. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^58]: A 10. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^59]: A 10. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^60]: A 10. § (5) bekezdését a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdése iktatta be.
+[^58]: A 10. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^59]: A 10. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^60]: A 10. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^61]: A 10. § (5) bekezdését a 23/2010. (III. 16.) FVM rendelet 1. § (6) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-1. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^172]
+1. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^183]
 
-[^172]: Az 1. számú melléklet a 125/2009. (IX. 29.) FVM rendelet 11. §-ával megállapított szöveg.
+[^183]: Az 1. számú melléklet a 125/2009. (IX. 29.) FVM rendelet 11. §-ával megállapított szöveg.
