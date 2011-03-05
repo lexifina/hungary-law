@@ -1,0 +1,9 @@
+# 7/2011. (III. 4.) KIM rendelet
+
+a bírói álláspályázatok elbírálásának részletes szabályairól és a pályázati rangsor kialakítása során adható pontszámokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-7-20-2T
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-03-05 | 2011-7-20-2T.1 | 7/2011. (III. 4.) KIM rendelet |

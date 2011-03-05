@@ -1,0 +1,1 @@
+## 11. § A szakterületen végzett külföldi tanulmányútként a pályázat szerinti álláshely ügyszakának megfelelő jogi területen végzett tanulmányút értékelhető a rendelet 1. melléklete 6. pontja szerinti maximális pontszám erejéig.
