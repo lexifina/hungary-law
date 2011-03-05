@@ -7,3 +7,7 @@
 (3) A Magyar Köztársaságban a Nemzeti Fajtajegyzékben nem szereplő fajták vetőmagja előállításának szántóföldi bejelentéséhez hivatalos fajtaleírást kell mellékelni.
 
 (4) A Magyar Köztársaságban a Nemzeti Fajtajegyzéken nem szereplő hibrid fajták vetőmagja előállításának szántóföldi bejelentéséhez, a szülői komponensek igazolására, a regisztráló ország hivatalos igazolását kell mellékelni.
+
+(5)[^42] Az 1–5. számú mellékletben nem szereplő fajok esetében a vetés bejelentőjének a szántóföldi ellenőrzésre vonatkozó módszertani leírást kell benyújtania az MgSzH részére.
+
+[^42]: A 17. § (5) bekezdését a 16/2011. (III. 2.) VM rendelet 10. §-a iktatta be.

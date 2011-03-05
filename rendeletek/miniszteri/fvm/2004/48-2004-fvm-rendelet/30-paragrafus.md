@@ -1,1 +1,0 @@
-## 29. § ,,Laboratóriumi vizsgálat eredményétől függően feltételesen alkalmas'' minősítést lehet alkalmazni, ha az adott vetőmag-szaporításban a mellékletek B. részeiben, illetve D. részeinek II. részeiben foglaltak szerint engedélyezett gyomok előfordulása az adott határérték legfeljebb kétszerese, és tisztíthatóságuk megoldható.

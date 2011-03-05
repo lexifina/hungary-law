@@ -1,6 +1,6 @@
-## Import vetőmagvak[^80]
+## Import vetőmagvak[^89]
 
-## 50. §[^81] A 2 kilogrammot meghaladó tömegű vetőmagvak harmadik országból történő importja esetén az importáló az MgSzH részére köteles a beszállított vetőmagtételről az alábbi adatokat szolgáltatni:
+## 50. §[^90] A 2 kilogrammot meghaladó tömegű vetőmagvak harmadik országból történő importja esetén az importáló az MgSzH részére köteles a beszállított vetőmagtételről az alábbi adatokat, valamint dokumentumokat szolgáltatni:
 
 a) faj,
 
@@ -18,7 +18,10 @@ g) importőr,
 
 h) a vetőmag mennyisége,
 
-i) a harmadik országban történő vetőmag-előállítás engedélye.
+i) a harmadik országban történő vetőmag-előállítás engedélye,
 
-[^80]: Az 50. §-t megelőző alcím a 20/2008. (II. 21.) FVM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^81]: Az 50. § bevezető szövegrésze a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+j)[^91] a GMO mentességre vonatkozó, az importőr költségére kiállított magyar hatósági laboratóriumi mérési jegyzőkönyvet.
+
+[^89]: Az 50. §-t megelőző alcím a 20/2008. (II. 21.) FVM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^90]: Az 50. § nyitó szövegrésze a 16/2011. (III. 2.) VM rendelet 24. §-ával megállapított szöveg.
+[^91]: Az 50. § j) pontját a 16/2011. (III. 2.) VM rendelet 24. §-a iktatta be.

@@ -17,3 +17,9 @@ a) a vegetatív részekre korlátozódó gyenge fertőzést 1-es,
 b) a növény vegetatív részén kívüli, a generatív részekre részlegesen átterjedt fertőzést 2-es, illetve
 
 c) a növény generatív részein jelentkező, a termés mennyiségi és minőségi romlását okozó maggal továbbterjedő fertőzést 3-as
+
+## minősítő számmal kell elbírálni.
+
+(3)[^47] Az (1) és (2) bekezdésben meghatározott minősítő számok alapján kell kialakítani a vetőmag-szaporító táblára vonatkozó fertőzöttségi minősítő értékszámot.
+
+[^47]: A 24. § (3) bekezdését a 16/2011. (III. 2.) VM rendelet 13. §-a iktatta be.

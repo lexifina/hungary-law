@@ -1,6 +1,6 @@
 ## A vetőmagtételek lezárása
 
-42. § (1)[^73] A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek valamennyi csomagolási egységének meg kell felelnie az MgSzH fémzárolási szabályzatában foglaltaknak. A csomagolási egységeknek a forgalomba hozatal céljának megfelelő okmányokkal, függőcímkékkel kell rendelkezniük.
+42. § (1)[^76] A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek valamennyi csomagolási egységének meg kell felelnie az MgSzH fémzárolási szabályzatában foglaltaknak. A csomagolási egységeknek a forgalomba hozatal céljának megfelelő okmányokkal, címkékkel kell rendelkezniük.
 
 (2) A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek csomagolási egységeinek zárását úgy kell biztosítani, hogy a vetőmag a csomagoló anyag látható sérülése nélkül ne legyen hozzáférhető. Ilyen zárást biztosít
 
@@ -10,7 +10,7 @@ b) az önzáró szelepes zsák, ha a szelep nem nagyobb mint a zsák szélesség
 
 c) az átkötött zsák szúrókötésessel felhelyezett zárral és címkével,
 
-d) bármely nyitásra sérülő kötés függőcímkével és fémzárral lezárva,
+d)[^77] bármely nyitásra sérülő kötés címkével és fémzárral lezárva,
 
 e) a zárszalag,
 
@@ -54,4 +54,5 @@ j) annak tanúsítását, hogy teljesültek az 1–5. számú mellékletek B. r�
 
 k) a ,,Nem véglegesen minősített vetőmag'' feliratot
 
-[^73]: A 42. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^76]: A 42. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 16/2011. (III. 2.) VM rendelet 32. § l) pontja szerint módosított szöveg.
+[^77]: A 42. § (2) bekezdés d) pontja a 16/2011. (III. 2.) VM rendelet 32. § m) pontja szerint módosított szöveg.

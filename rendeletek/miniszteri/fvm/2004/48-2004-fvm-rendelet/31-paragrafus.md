@@ -6,6 +6,6 @@
 
 (3) A növényegészségügyi jogszabály által előírt végső ellenőrzéskor a szaporítás növényállományát a zárlati károsítóknak a jogszabályban előírt mértéken felüli előfordulása esetén alkalmatlannak kell minősíteni.
 
-(4)[^27] A „Vetőmagnak nem alkalmas” minősítéskor, ha a termés fajtatisztaságát nem befolyásoló helyrehozható hiba történt, a vetőmag-előállító 24 órán belül írásban kérheti a hiba megszüntetése melletti minősítés megismétlését, amelyet az MgSzH köteles 3 napon belül végrehajtani. A vetőmag-előállító ebben az esetben a minősítést elfogadja, de a megismételt szemléig a hibát kijavítja.
+(4)[^50] A „Vetőmagnak nem alkalmas” minősítéskor, ha a termés fajtatisztaságát nem befolyásoló helyrehozható hiba történt, a vetőmag-előállító 24 órán belül írásban kérheti a hiba megszüntetése melletti minősítés megismétlését, amelyet az MgSzH köteles 3 napon belül végrehajtani. A vetőmag-előállító ebben az esetben a minősítést elfogadja, de a megismételt szemléig a hibát kijavítja.
 
-[^27]: A 31. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^50]: A 31. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.

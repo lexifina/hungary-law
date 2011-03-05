@@ -1,4 +1,4 @@
-## 50/A. §[^82] A 2 kilogrammot meghaladó tömegű, harmadik országból származó vetőmagtételek nyomon követhetősége érdekében a beszállítónak a vetőmagtétel beérkezését követően haladéktalanul tájékoztatnia kell az MgSzH-t a vetőmagtétel beszállításának tényéről. Az MgSzH ésszerű határidőn belül hatósági mintát vehet a fajtatisztaság utólagos szúrópróbaszerű ellenőrzéséhez.
+## 50/A. §[^92] A 2 kilogrammot meghaladó tömegű, harmadik országból származó vetőmagtételek nyomon követhetősége érdekében a beszállítónak a vetőmagtétel beérkezését követően haladéktalanul írásban tájékoztatnia kell az MgSzH-t a vetőmagtétel beszállításának tényéről és az 50. §-ban felsorolt, a vetőmagtételre vonatkozó adatokról. Az MgSzH a bejelentéstől számított egy éven belül hatósági mintát vehet a fajtatisztaság utólagos szúrópróbaszerű ellenőrzéséhez.
 
 ## V. Fejezet
 
@@ -22,11 +22,11 @@ d) az azonosíthatóság biztosítását lehetővé tevő nyilvántartási rends
 
 1. a vetőmag tulajdonos nevére, címére,
 
-2. a betárolt nyers vetőmag fajára, fajtájára, szaporítási fokára, mennyiségére, a szántóföldi ellenőrzés számára, a betárolásra, mintázásra és a nyers minősítés időpontjára,
+2.[^93] a feldolgozásra kerülő nyers vetőmag fajára, fajtájára, szaporítási fokára, mennyiségére, a származást igazoló dokumentumokra (szántóföldi ellenőrzési jegyzőkönyv, vetőmagminősítő bizonyítvány), a betárolásra, az esetleges mintavételre és nyers vetőmag vizsgálatra,
 
-3. a tisztítás műveleti nyilvántartására,
+3.[^94] a feldolgozási folyamatok műveleti nyilvántartására,
 
-4. a készáru minősítés, fémzárolás időpontjára,
+4.[^95] a fémzárolás időpontjára,
 
 5. a készáru raktárkészlet nyilvántartására és raktártérképére,
 
@@ -36,7 +36,10 @@ e) a bértisztításra átvett nyers vetőmagtételek tényleges árutulajdonos 
 
 f) szakismeret, szakmai alkalmasság.
 
-(4)[^83] A vetőmag-feldolgozási tevékenységet az MgSzH hatósági jogkörében ellenőrzi.
+(4)[^96] A vetőmag-feldolgozási tevékenységet az MgSzH hatósági jogkörében ellenőrzi.
 
-[^82]: Az 50/A. §-t a 20/2008. (II. 21.) FVM rendelet 1. §-a iktatta be.
-[^83]: Az 51. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^92]: Az 50/A. §-t a 20/2008. (II. 21.) FVM rendelet 1. §-a iktatta be, szövege a 16/2011. (III. 2.) VM rendelet 25. §-ával megállapított szöveg.
+[^93]: Az 51. § (3) bekezdés d) pont 2. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^94]: Az 51. § (3) bekezdés d) pont 3. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^95]: Az 51. § (3) bekezdés d) pont 4. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^96]: Az 51. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
