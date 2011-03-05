@@ -1,5 +1,3 @@
-## tevékenységének e rendeletben alapított érdemjel kitüntető címmel történő elismerésére.
-
 2. § (1) A rendvédelem és a közigazgatás érdekében huzamos időn keresztül végzett kiemelkedő munka elismerésére
 
 ## ,,A Köz Szolgálatáért érdemjel''

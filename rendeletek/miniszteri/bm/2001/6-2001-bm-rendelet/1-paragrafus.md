@@ -1,10 +1,11 @@
-## 1. § A rendelet hatálya kiterjed:
+## 1. §[^1] A rendelet hatálya kiterjed:
 
-a) a Belügyminisztérium hivatali szerveivel, a minisztérium hivatali tevékenységét segítő szervezeteivel, valamint a belügyminiszter irányítása alá tartozó önálló szervekkel,
+a) a Belügyminisztériummal, a Belügyminisztérium hivatali szerveivel, a minisztérium hivatali tevékenységét segítő szervezeteivel, valamint a belügyminiszter irányítása alá tartozó önálló szervekkel foglalkoztatási jogviszonyban állók,
 
-b)–c)[^1]
+b) a fővárosi és megyei kormányhivatalokkal foglalkoztatási jogviszonyban álló kormánytisztviselők és a helyi önkormányzat képviselő-testületének hivatala, hatósági igazgatási társulása és a körjegyzőség köztisztviselői,
 
-d)[^2] az a) és b) pont szerinti szervek munkáját támogató magyar és külföldi személyek,
+c) az a) és b) pont szerinti szervek munkáját támogató magyar és külföldi személyek
 
-[^1]: Az 1. § b)–c) pontját a 9/2009. (II. 27.) ÖM rendelet 38. § (2) bekezdésének c) pontja hatályon kívül helyezte.
-[^2]: Az 1. § d) pontja a 17/2008. (XII. 31.) ÖM rendelet 1. §-ának 5. pontja szerint módosított szöveg.
+tevékenységének e rendeletben alapított érdemjel kitüntető címmel történő elismerésére.
+
+[^1]: Az 1. § a 6/2011. (III. 4.) BM rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.

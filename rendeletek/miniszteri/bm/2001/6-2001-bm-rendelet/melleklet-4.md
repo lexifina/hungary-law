@@ -10,4 +10,6 @@
 
 ## A színeket 1,5 mm széles fehér csíkok választják el egymástól.
 
-4. számú melléklet a 6/2001. (IV. 13.) BM rendelethez
+4. számú melléklet a 6/2001. (IV. 13.) BM rendelethez[^7]
+
+[^7]: A 4. számú mellékletet a 6/2011. (III. 4.) BM rendelet 6. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 5. §-át.
