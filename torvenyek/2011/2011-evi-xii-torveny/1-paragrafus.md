@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai és másrészről a Jordán Hasimita Királyság közötti társulás létrehozásáról szóló Euro-mediterrán Megállapodást (a továbbiakban: a Megállapodás) e törvénnyel kihirdeti.

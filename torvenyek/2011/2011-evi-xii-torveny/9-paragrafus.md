@@ -1,0 +1,1 @@
+9. § Az Országgyűlés levélváltás formájában az Európai Közösség és a Jordán Hasimita Királyság között az EK–Jordánia társulási megállapodás módosításáról szóló Megállapodást (a továbbiakban: 4. Módosítás) e törvénnyel kihirdeti.

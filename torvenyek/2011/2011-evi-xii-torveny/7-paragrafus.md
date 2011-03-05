@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Jordán Hasimita Királyság közötti társulás létrehozásáról szóló euro-mediterrán megállapodáshoz a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozásának figyelembevétele céljából készült Jegyzőkönyvet (a továbbiakban: 3. Módosítás) e törvénnyel kihirdeti.
