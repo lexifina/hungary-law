@@ -1,0 +1,1 @@
+## „(3) Amennyiben a hatósági zár alá vétel időtartama alatt a feltárt hiányosságot nem szüntetik meg, az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a tétel minősítését hatálytalanítja, így az a továbbiakban vetőmagként nem használható fel. A hatósági zárral kapcsolatos intézkedéséről jegyzőkönyvet kell kiállítani.”

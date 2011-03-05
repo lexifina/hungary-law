@@ -1,0 +1,1089 @@
+## „1. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez
+
+## A gabonafélék vetőmagvainak forgalomba hozatali feltételei
+
+## E melléklet előírásait az A. részben felsorolt fajok vetőmagvainak előállítása, minősítése és az Európai Unió területén belüli forgalomba hozatala, valamint – ha a fogadó fél eltérően nem rendelkezik – harmadik országokba irányuló exportja tekintetében kell alkalmazni.
+
+## A. rész
+
+| Faj | Engedélyezett szaporítási fok |
+
+| 1 | 2 |
+
+| Csupasz zab (Avena nuda L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Zab (Avena sativa L.) beleértve: Bizánci zab (Avena byzantina K. Koch) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Homoki zab (Avena strigosa Schreb.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Árpa (Hordeum vulgare L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Rizs (Oryza sativa L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Fénymag (Phalaris canariensis L.) | Szuperelit, Elit, I. szaporítási fok, |
+
+| Rozs (Secale cereale L.) | Szuperelit, Elit, I. szaporítási fok |
+
+| Cirok (Sorghum bicolor (L.) Moench) | Szuperelit, Elit, I. szaporítási fok |
+
+| Szudánifű (Sorghum sudanense (Piper) Stapf) | Szuperelit, Elit, I. szaporítási fok |
+
+| Hibrid szudánifű (Sorghum bicolor (L) Moench xSorghum sudanense (Piper) Stapf) | Szuperelit, Elit, I. szaporítási fok |
+
+| Tritikálé (x Triticosecale Wittm. ex A. Camus) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Búza (Triticum aestivum L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Durum búza (Triticum durum Desf.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Tönkölybúza (Triticum spelta L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Kukorica (Zea mays L.) | Szuperelit, Elit, I. szaporítási fok |
+
+## A szuperelit vetőmagvakat, amennyiben nem közvetlenül elit vetőmag-előállítás céljaira kerülnek, valamint az elit, az I. és II. szaporulati fokú vetőmagvakat hivatalos minősítési eljárásban kell részesíteni, azoknak meg kell felelniük az ezen mellékletben foglalt feltételeknek.
+
+## A vetőmag fajtaazonosságának és fajtatisztaságának kielégítőnek kell lennie. Az alább felsorolt fajok vetőmagjának a következő fajtatisztasági határértéknek kell megfelelnie
+
+| Faj és szaporítási fok | Minimális fajtatisztaság (%) |
+
+| 1 | 2 |
+
+| Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum), durum búza (Triticum durum) és tönköly búza (Triticum spelta) (kivéve hibridek) elit és szuperelit vetőmag I. szaporítási fokú vetőmag II. szaporítási fokú vetőmag | 99,9 99,7 99,0 |
+
+| Önbeporzó triticale (x Triticosecale) a hibridek kivételével elit és szuperelit vetőmag I. szaporítási fokú vetőmag II. szaporítási fokú vetőmag | 99,7 99,0 98,0 |
+
+| Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum), durum búza (Triticum durum) tönköly búza (Triticum spelta) és önbeporzó triticale (x Triticosecale) hibrid fajták I. szaporítási fokú vetőmag | 90,0 |
+
+## Ezen feltételek biztosítására elsődlegesen a szántóföldi ellenőrzés követelményeit kell betartani. A már forgalomba hozott vetőmagvak fajtatisztaságának ellenőrző megállapítása szántóföldi fajtakitermesztéssel, illetve kiegészítő laboratóriumi vizsgálatokkal történik.
+
+## B. rész
+
+## A szántóföldi ellenőrzés és minősítés részletes követelményei
+
+| 1. Kalászos növények – fajták |  |  |
+
+| Árpa | Őszi árpa | (Hordeum vulgare L.) |
+
+|  | Tavaszi árpa |  |
+
+| Búza | Őszi búza | (Triticum aestivum L.) |
+
+|  | Tavaszi búza |  |
+
+| Csupasz zab |  | (Avena nuda L.) |
+
+| Durum búza | Őszi durum búza | (Triticum durum Desf.) |
+
+|  | Tavaszi durum búza |  |
+
+| Homoki zab |  | (Avena strigosa Schreb.) |
+
+| Őszi rozs |  | (Secale cereale L.) |
+
+| Tönköly búza |  | (Triticum spelta L.) |
+
+| Tritikálé | Őszi tritikálé | (x Triticosecale Wittm. ex A. Camus ) |
+
+|  | Tavaszi tritikálé |  |
+
+| Zab | Őszi zab | (Avena sativa L.) |
+
+|  | Tavaszi zab |  |
+
+|  | Bizánci zab | (Avena byzantina K. Koch) |
+
+## 1.1. Szuperelit és elit szaporítási fokú vetőmag-előállítása esetén
+
+| Az ellenőrzések száma: | 2. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés virágzáskor, |
+
+|  | 2. ellenőrzés az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok (bugák) már sárga színűek. |
+
+## 1.2. I. szaporítási fokú és II. szaporítási fokú vetőmag-előállítása esetén
+
+| Az ellenőrzések száma: | 1. |
+
+| Az ellenőrzés időpontja: | Az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok (bugák) már sárga színűek. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után 2 db. |
+
+| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+| Elválasztó sáv, legalább | méter | 2 |
+
+| Szigetelési távolság rozs fajták között illetve idegentermékenyülő tritikálé fajták között | 500 | 300 | 250 | 200 |
+
+| csupasz árpa egyéb árpa fajtától, illetve csupasz zab egyéb zab fajtól | 100 |
+
+| öntermékenyülő tritikálé fajták között | 100 | 50 | 20 | 20 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény, db | 0 | 0 | 2 | 4 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | 1 | 2 | 4 | 10 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab fajok (Avena spp.) szédítő vadóc (Lolium temulentum) rozs esetén gabona rozsnok (Bromus secalinus) a mintaterek átlagában, összesen legfeljebb repcsényretek (Raphanus raphanist-rum), Melampyrum spp., Agro-stemma githago, apró szulák (Convolvulus arvensis) | 0 0 0 2 5 | 0,3 0,3 0,3 5 10 | 3 2 2 10 20 | 5 5 5 – 20 |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb fuzárium (Fusarium spp.) | kalász % | 15 |
+
+| szárrozsda (Puccinia graminis) | minősítő szám | 2 |
+
+| anyarozs (Claviceps purpurea) | kalász db | 5 | 7 | 10 | 20 |
+
+| búza esetében: kő- és törpeüszög (Tilletia foetida, t. contraversa) porüszög (Ustilago tritici) árpa és zab esetében: porüszög (Ustilago nuda, u. avence) fedett üszög (Ustila o hordei, u. levis) | 0 3 20 0 | 0 3 20 0 | 1 5 50 3 | 2 10 50 10 |
+
+| Kártevők a mintaterek átlagában, legfeljebb golyóüszög (búzafonálféreg) (Anguina tritici) | 0 |
+
+## 2. Kalászos hibrid növények
+
+## Zab, árpa, rozs, búza, durum búza, tönköly búza és önbeporzó tritikálé hibridjei
+
+| Az ellenőrzések száma: | 3. |
+
+| Ellenőrzések időpontja és a minősítési feladatok: | 1. A virágzás kezdete előtt el kell végezni: |
+
+|  | – a szigetelés ellenőrzését, |
+
+|  | – a fejlettség, kiegyenlítettség, kultúrállapot bírálatát, |
+
+|  | – kártételek mértékének vizsgálatát, |
+
+|  | – a steril és fenntartó növénysorok arányának vizsgálatát (bázis vetőmag-előállítás esetén). |
+
+|  | 2. Virágzáskor el kell végezni: |
+
+|  | – a fejlettség, kiegyenlítettség, kultúrállapot bírálatát, |
+
+|  | – a kártételek mértékének vizsgálatát, |
+
+|  | – a faj-, fajtatisztaság, az idegenelési hiba vizsgálatát, |
+
+|  | – a hímsteril komponens sterilitási szintjének vizsgálatát (bázis vetőmag-előállítás esetén) |
+
+|  | – ugyanazon fajú növények előfordulásának vizsgálatát az izolációs távolságon belül. |
+
+|  | 3. Érés idején el kell végezni: |
+
+|  | – a kártételek mértékének vizsgálatát, |
+
+|  | – a megtermékenyülés mértékének vizsgálatát, |
+
+|  | – az idegenelési hiba vizsgálatát, |
+
+|  | – a várható vetőmagtermés vizsgálatát. |
+
+| Elővetemény korlátozás: | A vetőmag-szaporító tábla előveteménye ugyanazon faj nem lehet. Hibrid rozs esetén az anyai szülőkomponens elit vetőmag-előállítása esetén a szaporítást megelőző 2 évben, az apai szülő elit vetőmag, illetve az I. fok (hibrid F1) vetőmag-előállítása esetén a szaporítást megelőző évben. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, minden további megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Zab, árpa, búza, durum búza, tönköly búza és önbeporzó tritikálé hibridjei esetén: |
+
+|  | – az anyai komponensnek ugyanazon fajtól való szigetelési távolsága: 25 méter, |
+
+|  | – az idegen kultúr- és gyomnövényekre, gombabetegségekre és kártevőkre vonatkozó követelményeket a B. rész 1. pontjában lévő, a nem hibrid fajtákra vonatkozó táblázata tartalmazza. |
+
+|  | Hibrid rozs esetén: |
+
+|  | – I. fokú (hibrid F1) vetőmag-előállításnál az anyai komponensbe belekevert apai szülőkomponenst nem szabad idegen fajtának értékelni, |
+
+|  | – elit vetőmag-szaporítás esetén az anyai komponens sterilitása legalább 98% kell legyen, |
+
+|  | – I. fokú (hibrid F1) vetőmag-szaporításkor az apai komponens növényeinek aránya nem lépheti túl a nemesítő által meghatározott szülőkomponens arányát, |
+
+|  | – elit szaporítási fokú anyai szülőkomponens vetőmag-előállítás esetén a szigetelési távolság 1000 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladják, |
+
+|  | – elit szaporítási fokú apai szülőkomponens vetőmag-előállítás esetén a szigetelési távolság 600 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladja, |
+
+|  | – I. fokú (hibrid F1) vetőmag-előállítás esetén a szigetelési távolság 500 méter ugyanazon faj szülőkomponensétől vagy más fajtától, ugyanazon fajtától, amely fajtatisztaságra nézve erős heterogenitást mutat. |
+
+| A vizsgálat tárgya | Egység | Szuperelit Elit | I. (Hibrid F1) |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 |
+
+| Elválasztó sáv más gabonától | méter | 2 | 2 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény db | 1,3 | 4 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | 3,3 | 10 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában hibrid rozs esetén, legfeljebb ragadós galaj (Galium aperine), vadzab fajok (Avena spp.) szédítő vadóc (Lolium temulentum ) gabóna rozsnok (Bromus secalinus) a mintaterek átlagában hibrid rozs esetén, összesen legfeljebb repcsényretek (Raphanus raphanistrum), kaszanyűg bükköny (Vicia cracca), keserűfű fajok (Polygonum spp.) | 0,6 0,6 0,3 5 3,3 | 2 1,3 2 10 6,6 |
+
+| Gombabetegségek a mintaterek átlagában hibrid rozs esetén, legfeljebb törpeüszög (Tilletia contraversa) szárrozsda (Puccinia graminis f. sp. secalis) | kalász db | 0,6 | 0,6 |
+
+| növény db | 2 | 3,3 |
+
+## Az izolációs távolságon belül, a szomszédos növényállományokban a hibrid rozs vetőmag-előállító táblától a megadott távolságban 100 m2-ként megengedett rozs növények megengedett legmagasabb darabszámát a következő táblázat tartalmazza.
+
+| Szaporítási fok komponens | Távolság a szaporító táblától (méter) | Növények száma, legfeljebb (db) |
+
+| 1 | 2 | 3 |
+
+| Elit vetőmag | 0 – 250 | 0 |
+
+| A X B komponens (anya) | 250 – 500 500 – 750 750 – 1000 | 10 50 250 |
+
+| – C komponens (apa) | 0 – 150 150 – 300 300 – 450 450 – 600 | 0 10 50 200 |
+
+| I. fokú (hibrid F1) vetőmag – köpenyvetés nélkül | 0 – 100 100 – 200 200 – 300 300 – 500 | 0 10 50 200 |
+
+| –10 méteres köpenyvetéssel | 0 – 100 100 – 200 200 – 500 | 10 50 200 |
+
+## 3. Rizs (Oryza sativa L.)
+
+| Az ellenőrzések száma: | 2. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés bugahányás után 1-2 héttel, |
+
+|  | 2. ellenőrzés aratás előtt. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredésmentesség valamely módon megoldható. |
+
+|  | Hibridfajták esetén a szigetelési távolság más rizsfajtáktól 25 méter. |
+
+| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+| Elválasztó sáv más fajtától és egyéb gabonától, legalább | M | 2 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 0 | 0,3 | 2 | 4 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb vadrizs vagy olyan növény, mely vörös ezüsthártyájú maggal rendelkezik | 0 | 0 | 1 | 1 |
+
+| Gombabetegségek, a mintaterek átlagában, legfeljebb Rizsbarnulás /Bruzóne/ (Pyricularia oryzae) | % | 0,2 | 0,5 | 1 | 1 |
+
+## 4. Fénymag (Phalaris canariensis L.)
+
+| Az ellenőrzések száma: | 1. |
+
+| Az ellenőrzés időpontja: | Az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok már sárga színűek. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
+
+| A vizsgálat tárgya | Egység | SE | Elit | I. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| Elválasztó sáv, legalább | méter | 2 |
+
+| Szigetelési távolság más fajtától és rokon fajtól legalább | 500 | 300 | 250 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 1 | 2 | 4 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab (Avena spp.) útszéli zsázsa (Lepidium draba) juhsóska (Rumex acetosella) vadmuhar fajok (Setaria spp.) szédítő vadóc (Lolium temulentum) kakaslábfű-fajok (Echinochloa spp.) csattanó maszlag (Datura stramonium) a mintaterek átlagában, összesen legfeljebb cirok (Sorghum bicolor), szudánifű (Sorghum sudanense), köles (Panicum miliaceum), muhar (Setaria italica) | 0 0 0 0 5 0 5 0 0 | 0,3 0,3 10 2 10 0,3 10 0,3 2 | 3 2 20 3 20 0,5 20 0,5 5 |
+
+## 5. Kukorica (Zea mays L.)
+
+| Az ellenőrzések száma: | 5. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés (idegenelési ellenőrzés) a virágzás várható megindulása előtt egy-két héttel, |
+
+|  | 2. ellenőrzés: |
+
+|  | – a keresztezéssel végzett vetőmag-előállítás esetén 1. címerezési ellenőrzés, |
+
+|  | – a virágzás kezdetén, a keresztezéssel végzett vetőmag-előállítás esetén a virágzás kezdetén, amikor az anyai növényállományban 5% apai virágport fogadó nővirágzat (bibe) megjelenik, |
+
+|  | 3. ellenőrzés: |
+
+|  | – a keresztezéssel végzett vetőmag-előállítás esetén |
+
+|  | 2. címerezési ellenőrzés, |
+
+|  | – a termékenyülés ideje alatt, |
+
+|  | 4. ellenőrzés: |
+
+|  | – a keresztezéssel végzett vetőmag-előállítás esetén |
+
+|  | 3. címerezési ellenőrzés, |
+
+|  | – a termékenyülés ideje alatt. |
+
+|  | A vetőmag-termő növényállomány (anyai szülő) termékenyülésének ideje alatt három hivatalos ellenőrzést kell végezni. |
+
+|  | 5. ellenőrzés (végső minősítés): az érés idején, a keresztezéssel végzett vetőmag-előállítás esetén az apasorok növényállományának eltávolítása után kell elvégezni. |
+
+| Elővetemény-korlátozás: | Nincs. |
+
+| A mintatér nagysága: | 100 db növény (egy sorban 100 vagy két egymás melletti sorban 50-50 db növény). |
+
+| Mintaterek száma: |  |
+
+| Terület nagysága (ha) | 100 növény leszámolása (Keresztezésnél végzett vetőmag-előállítás esetén az anya- és apasorokban külön-külön) |
+
+| 8 vagy kevesebb | 5 |
+
+| 8,1-16 | 8 |
+
+| 16,1-25 | 10 |
+
+| 25,1-40 | 15 |
+
+| 40,1-60 | 20 |
+
+| 60,1-85 | 25 |
+
+| 85,1 vagy több | 30 |
+
+## Ha a vizsgálat során az anyasorok sávjában (anyapászta) minősítési határértéket meghaladó mennyiségű virágzó címer észlelhető, akkor a nem kellően címerezett anyasorok sávjában, az úgynevezett fertőző gócban ismételt mintatereket kell felvenni és e területeket külön táblarészként kell kezelni.
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. |
+
+|  | Azonos apával, de eltérő anyával közvetlenül egymás mellett végzett I. szaporítási fokú hibrid kukoricavetőmag-előállítások |
+
+|  | – szántóföldi ellenőrzésben és minősítésben részesíthetők, |
+
+|  | – a szigetelési távolságon belül levő hibrid kukoricavetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni, |
+
+|  | – elhelyezésekor az eltérő fajtájú anyasorokat elválasztó apasorok számát a két különböző anyai állományú táblarész között legalább 8 sorral meg kell növelni, |
+
+|  | – állományában apavisszafogással, mellévetéssel apai szülőkomponens elit, illetve szuperelit szaporítási fokú vetőmagját nem lehet minősítésben részesíteni, |
+
+|  | – állományában a virágport hullató anyai növényeket a közös szigetelési távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
+
+|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész szigetelési távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó 8 apai sor megléte, |
+
+|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a szigetelési távolság elbírálásakor nem engedélyezett. |
+
+|  | Azonos apával, de eltérő anyával közvetlenül egymás mellett végzett elit és szuperelit szaporítási fokú hibrid kukorica alapanyag egyszeres keresztezésű vetőmag-előállítások |
+
+|  | – szántóföldi ellenőrzésben és minősítésben részesíthetők, |
+
+|  | – növényállományát teljes (100%-os) címerezésben kell részesíteni, melynek hiányában a vetőmag-előállítás alkalmatlan minősítést kap, |
+
+|  | – elhelyezésekor az eltérő fajtájú anyasorokat elválasztó apasorok számát a két különböző anyai állományú táblarész között legalább 4 sorral meg kell növelni, |
+
+|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész szigetelési távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó négy apai sor megléte, |
+
+|  | – állományában a virágport hullató anyai növényeket a közös szigetelési távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
+
+|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a szigetelési távolság elbírálásakor nem engedélyezett. |
+
+|  | Az árutermesztési célt szolgáló első szaporítási fokú vetőmag-előállítás esetén szigetelési távolságon belül időbeli izolációként figyelembe vehető a június 30. napja után elvetett másodvetésű kukorica növényállománya. Ebben az esetben az izolációs távolságon belüli másodvetésű kukorica növényállomány virágzásának kezdetére a vetőmag-előállító tábla anyasoraiból a még el nem virágzott fattyú és késői fejlődésű egyedeket el kell távolítani, ezen követelmény miatt további egy ellenőrzést kell végrehajtani. |
+
+|  | A kukoricanövények és termésük (cső, szem, csutka) megkülönböztető jegyeinek vizsgálata azokra a morfológiai bélyegekre és fenológiai eltérésekre vonatkozik, amelyeket a hivatalos fajtaleírás tartalmaz. |
+
+|  | A hímsteril beltenyésztett kukoricavonal szaporításában azon steril növényegyedek, amelyek címervirágzatában a pelyvalevelek felnyílnak és a portok megjelenik – függetlenül a pollen (virágpor) életképességétől – virágpor-hullató fertilis, idegen egyednek minősülnek. |
+
+|  | Ha a hímsterilként vizsgált növények között a fertilis növények száma a már eltávolított növényekkel együtt a 10%-ot meghaladja, akkor az anyai növényállományt fertilisnek kell tekinteni. |
+
+|  | A 20%-os átlagos megtermékenyülést el nem érő vetőmag-előállításokat alkalmatlannak kell minősíteni. |
+
+|  | A vírusos, baktériumos és gombabetegségeket, továbbá a kártevők kártételét fel kell jegyezni és a kultúrállapot minősítési kategóriájában kell elbírálni. |
+
+|  | A hímsteril anyai szülőn előállított árutermesztés célját szolgáló csöves vetőmagtermést a fertilis analóg csöves termésével a vetőmagüzemben a morzsolást és tisztítást megelőzően legalább 2:1 arányban kell keverni. |
+
+|  | A hímsteril anyai szülőn előállított kukorica vetőmag-előállítás termése önállóan csak az MgSzH írásbeli engedélyével fémzárolható. |
+
+|  | Csuhélevéllel teljesen borított csövet nem szabad a végleges válogatószalagra szállítani. A szárítókamrába betárolt minden csőnek legalább 50% mértékben fosztottnak kell lennie. |
+
+|  | A vetőmagüzemben az összes idegen csövet ki kell válogatni. A szárító kamrába 99,9% (db/100) mértékben csak fajtaazonos csövek kerülhetnek. |
+
+## A kukorica vizsgálata:
+
+## Az anyasorok címerezésének, illetve hímsterilitásának vizsgálata a keresztezéssel végzett vetőmag-előállításokban
+
+## A kijelölt mintatereken az előírt számú anyanövényt kell megvizsgálni.
+
+## Virágport hullató az a kukoricanövény, amelynek címerágai összesen 5 cm hosszúságban virágporukat már elhullatták vagy hullatják. A címerezés vizsgálatakor a pelyvalevelek felnyílása és a portok megjelenése címerezési hibának minősül, még akkor is, ha nincs benne életképes virágpor.
+
+## A hímsteril kukorica-vetőmag előállításának sterilitás-vizsgálatát a fertilis anyai szülő címerezés-ellenőrzésével azonos módon kell végezni.
+
+## Az anyasorok sávjában az úgynevezett fertőzőgóc vizsgálatakor a jóvátehetetlen hiba megállapítása esetén a káros mértékű ön-megtermékenyülés következményét megakadályozó szigetelő távolsággal a területrészt minősíteni kell.
+
+## Fertőző gócnak kell minősíteni azt a területet, ahol a „Virágport hullató kukoricanövény az anyasorokban" mintaterenként 3 db, vagy annál több, illetve a „Virágport hullató idegen tő az anya- és apasorokban összesen" mintaterenként 1 db, vagy annál több.
+
+## Keresztezéssel végzett kukorica vetőmag-előállításokban az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer a termékenyülés alatti három hivatalos minősítésen ellenőrzésenként legfeljebb 0,5% lehet. A 0,5%-os határérték felett a vetőmag-előállításnak alkalmatlan minősítést kell adni.
+
+## A címerezés befejezésének kell tekinteni, ha az anyai növényállományban az ellenőrzéseken megállapított címerezési hiba már nem érheti el az előírt minősítési határértéket (virágport hullató növény az anyasorokban legfeljebb, továbbá a virágport hullató idegen tő az anya és apasorokban összesen legfeljebb), és a nővirágzat (bibe) beszáradt és termékenyülésre képes friss nővirágzat az anyai állományban nem található. A termékenyülés befejeződése után az apasorok növényállományát el kell távolítani.
+
+## A gyomosság bírálata
+
+## A vetőmag-előállító tábla területének 30%-osnál nagyobb gyomborítottsága esetén, illetve ha a gyomok elérik a fő csőkötés magasságát, 3-as számot kell adni és a vetőmag-előállítást alkalmatlannak kell minősíteni.
+
+## Az együtt virágzás vizsgálata a keresztezéssel végzett vetőmag-előállításokban
+
+## A szülőkomponensek együttvirágzását a következő eljárással kell vizsgálni.
+
+## Az anyai növényállományban 50-60%-nyi nővirágzat (bibe) megjelenésekor
+
+## – ha a megjelenést megelőző naptól számított három napon belül az apai növények legalább 50%-ának címervirágzata érett és bőséges virágport (pollent) hullat, ez esetben az együtt virágzás értékjelölése „Jó",
+
+## – ha több mint 3-3 nappal (előzés vagy késés), de kevesebb mint 5-5 nappal (előzés vagy késés) eltér az apanövények 50%-ának érett és bőséges virágporhullatása (pollen), ez esetben az együtt virágzás értékjelölése „Közepes",
+
+## – ha 5-5 napot meghaladóan előz vagy késik az apai növények 50%-a címervirágzatának érett és bőséges virágpor (pollen) hullatása, az együtt virágzás értékjelölése „Gyenge",
+
+## – ha 5-5 napot meghaladóan előz vagy késik az apai növények 50%-a címervirágzatának megjelenése, a virágpor (pollen) hullatás kevés vagy nincs, az együtt virágzás értékjelölése „Elégtelen".
+
+## Az átmeneti együtt virágzási állapotot a két értékjelölés megadásával például: jó-közepes stb. kell minősíteni.
+
+## Ha az anyai növényállomány nővirágzásának kezdetén (5% nővirágzat megjelenésekor) még nincs apai virágporhullatás, e tényt a szántóföldi ellenőrzési jegyzőkönyvben külön fel kell jegyezni.
+
+## Közepesnél gyengébb várható együtt virágzási értékelés esetén a fajtatulajdonos képviselőjének bevonásával a vetőmag-előállítást felül kell vizsgálni és sorsáról dönteni kell.
+
+## Elégtelen együtt virágzás esetén a vetőmag-előállítást alkalmatlannak kell minősíteni.
+
+## Az anyasorok fattyazásának vizsgálata a keresztezéssel végzett vetőmag-előállításokban
+
+## A hibrid kukoricavetőmag-előállító táblák anyasorainak növényeiről a címert hozó fattyhajtásokat virágporhullatás előtt, legkésőbb a címerezés befejezéséig, illetve a címerezési ellenőrzés befejezése előtt el kell távolítani.
+
+## A hímsteril anyával történő vetőmag-előállítás esetében az anyasorok hímsteril növényeit nem kell fattyazni.
+
+## A fattyhajtásokon megjelenő fertilis címereket a főhajtáson levővel azonosan kell elbírálni.
+
+## A csöves termés vizsgálata
+
+## A vizsgálatra kerülő csövek begyűjtése után meg kell állapítani, és fel kell jegyezni az összes tő számát (db/ha) és ebből a termőcsövek számát (db/ha).
+
+## A mintatereken arányosan szétosztva, összesen 200 db termőtőről kell az éréskori ellenőrzés alkalmával az összes csövet letörni.
+
+## A vizsgálatokat ezeken kell végezni.
+
+## Az érés mértékét a 200 db tőről letört összes cső elbírálásával kell megállapítani.
+
+## Az érés mértéke lehet: viaszérés és teljes érés.
+
+## A megtermékenyülés vizsgálata
+
+## Az összes letört csőből a vizsgált típusnak megfelelő csöveket – a beteg, csenevész, éretlen stb. csöveket is – öt csoportba osztjuk:
+
+| 1. csoport | 100%-osan megtermékenyült csövek, |
+
+| 2. csoport | 90-99%-osan megtermékenyült csövek, |
+
+| 3. csoport | 75-89%-osan megtermékenyült csövek, |
+
+| 4. csoport | 50-74%-osan megtermékenyült csövek, |
+
+| 5. csoport | 50% alatt megtermékenyült csövek. |
+
+## Az egyes csoportokba került csövek elbírálásával – becsléssel – kell megállapítani az átlagos megtermékenyülés mértékét, amelyet százalékban kell megadni.
+
+## Az idegen, üszögös, nigrospórás, penészes, kényszerérett, csenevész és az éretlen csövek vizsgálata
+
+## A 200 db növényről letört összes csőből ki kell válogatni:
+
+## - az idegen csöveket,
+
+## - a nigrospórás, üszögös, (golyvás- és rostosüszög) fuzáriumos és egyéb károsítóval fetőzött csöveket,
+
+## - a kényszerérett, csenevész és éretlen csöveket,
+
+## - a hiányosan megtermékenyült csöveket (amelyek az átlagos megtermékenyülés 25%-át nem érik el).
+
+## Ezeket az adatokat a letört összes cső össztömegéhez viszonyítva kell feljegyezni.
+
+## A csöves termés várható tömegének becslése
+
+## Az anyasorok növényállománya nyers csöves vetőmagtermésének várható mennyiségét kell megbecsülni. Az előzőek szerint kiválogatott csövek mennyiségének levonása után kell megállapítani – a minősítés időpontjában – a betakarítás várható időpontját, a vetőmagnak alkalmas csöves termés becsült mennyiségét a kukorica érettsége és a becsült víztartalom alapján 1 ha-ra és a teljes tábla területére vonatkoztatva. A csöves termés mellett a májusi morzsolt termésre korrigált mennyiséget is fel kell tüntetni. Az adatokat a szántóföldi ellenőrzési jegyzőkönyvben fel kell jegyezni.
+
+| A vizsgálat tárgya | Egység | Elit | I. |
+
+| szaporítási fok |
+
+| alapanyagok | hibridek | szabadon elvirágzó kukoricák |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| Szigetelési távolság, legalább | méter | 400 | 200 | 200 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 4 | 3 | 3 |
+
+| virágport hullató idegen tő az anya- és apasorokban összesen, legfeljebb | % | 0,1 | 0,1 | 0,1 |
+
+| idegen tő az anyasorokban az idegenelési ellenőrzésen, legfeljebb | 0,1 | 0,2 | 0,2 |
+
+| virágport hullató kukoricanövény az anyasorokban a három címerezési ellenőrzésen összesen, legfeljebb | 1,0 | 1,5 | - |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb selyemmályva (Abutilon spp.) fenyércirok (Sorghum halepense) csattanó maszlag (Datura stramonium) | növény db | 0,2 0,3 0,3 | 2 3 2 | 2 3 2 |
+
+## 6. Cirokfélék
+
+## 6.1. Seprűcirok (Sorghum bicolor L. Moench var. technicum)
+
+| Az ellenőrzések száma: | 3. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés a bugahányás kezdete előtt 1-2 héttel, |
+
+|  | 2. ellenőrzés a főbugák 40-60%-os virágzásánál, |
+
+|  | 3. ellenőrzés magéréskor. |
+
+| Elővetemény-korlátozás: | Seprűcirok-vetőmagot csak olyan táblán szabad termeszteni, amelyen Sorghum fajt 2 éven belül nem termesztettek. |
+
+| A mintatér nagysága: | 200 db növény. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, |
+
+|  | minden további megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
+
+| A vizsgálat tárgya | Egység | Elit | I. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 |
+
+| Szigetelési távolság más seprűcirok fajtáktól és Sorghum fajoktól legalább | méter | 400 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | % | 0,3 | 1 |
+
+| Idegen faj fenyércirok (Sorghum halepense) egyéb rendeltetésű Sorghum fajok | % | 0 0 | 0 0,1 |
+
+| Vírusos megbetegedések a mintaterek átlagában, legfeljebb – kukorica-mozaikvírus (mdmv vírus) | értékszám | 2 |
+
+| Gombabetegségek a mintaterek átlagában, együttesen legfeljebb - fedett vagy magüszög (Sphacelotheca sorghi) - rostos vagy bugaüszög (Sorosporium holci-sorghi f.sp. sorghi) - kukorica-levélfoltosság (Helminthosporium carbonum) | minősítő szám | 2 |
+
+## 6.2. Takarmánycirok (a hibrid kivételével) (Sorghum bicolor L. Moench)
+
+## Szudánifű (a hibrid kivételével) (Sorghum sudanense Piper Stapf)
+
+| Az ellenőrzések száma: | 3. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés a bugahányás kezdete előtt 1-2 héttel, |
+
+|  | 2. ellenőrzés a főbugák 40-60%-os vrágzásánál, |
+
+|  | 3. ellenőrzés magéréskor. |
+
+| Elővetemény-korlátozás: | A megelőző 2 évben nem termesztettek Sorghum fajt az adott táblán. |
+
+| A mintatér nagysága: | 200 db növény. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, |
+
+|  | minden további megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az Elit (E) fokú szaporítás határértékeivel meg kell egyezniük. |
+
+| A vizsgálat tárgya | Egység | Elit | I. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 |
+
+| Szigetelési távolság a faj más fajtáitól és más Sorghum fajoktól, legalább | méter | 400 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalábbKiegyenlítettség, legalább Kultúrállapot, legalábbb | értékszám | 3 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | % | 0,3 | 1 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, összesen legfeljebb más rendeltetésű Sorghum fajok fenyércirok (Sorghum halepense) | % | 0 0 | 0,1 0 |
+
+| Baktériumos betegségek a mintaterek átlagában, legfeljebb cirok-fedettüszög (Sphacelotheca sorghi) cirok-porüszög (Sphacelotheca cruenta) | növény db | 2 | 5 |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb levélcsíkosság (Pseudomonas andropogoni) | értékszám | 2 |
+
+## 6.3. Hibrid szemescirok (Sorghum bicolor L. Moench)
+
+## Hibrid silócirok (Sorghum bicolor L. Moench)
+
+## Hibrid szudánifű (Sorghum bicolor L. Moench x Sorghum sudanense Piper Stapf)
+
+| Az ellenőrzések száma: | 5. |
+
+| Ellenőrzések időpontja: | 1. ellenőrzés a virágzás kezdete előtt 1-2 héttel, |
+
+|  | 2. ellenőrzés az anyai növényállomány virágzásának kezdeti időszakában (amikor a virágzás a főbugák 10-20%-án megkezdődött, azaz a bugák felső 5 cm-es szakaszán a bibék megjelentek), |
+
+|  | 3-4. ellenőrzés a termékenyülés – a vetőmagtermő növényállomány termékenyülésének – ideje alatt három hivatalos ellenőrzést kell végezni, |
+
+|  | 5. ellenőrzés az érés idején, a betakarítás kezdete előtt, az apai növényállomány eltávolítása után. |
+
+| Elővetemény-korlátozás: | Hibrid cirok vetőmagot csak olyan táblán szabad előállítani, amelyen a megelőző két évben cirokfélét (Sorghum spp.) nem termeltek vagy nem állítottak elő. |
+
+| A mintatér nagysága: | 200 db növény (egy sorban 200 vagy két egymás melletti sorban 100-100 db növény). |
+
+| A mintaterek száma: |  |
+
+| Terület (ha) | Mintaterek száma (db) |
+
+| 8 vagy kevesebb | 5 |
+
+| 8,1-16 | 8 |
+
+| 16,1-25 | 10 |
+
+| 25,1-40 | 15 |
+
+| 40,1-60 | 20 |
+
+| 60,1-85 | 25 |
+
+| 85,1 vagy több | 30 |
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
+
+|  | Szigetelési távolság nélküli szülői komponens – elit – vetőmag-előállító növényállománya szántóföldi ellenőrzésre és minősítésre nem kerülhet. |
+
+|  | Engedélyezett azonos apával, de eltérő anyával történő cirok vetőmag-előállítás esetén a szigetelési távolságon belül levő cirok vetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni; ilyenkor az eltérő fajtájú anyasorokat elválasztó apasorok számát legalább négy sorral kell növelni. |
+
+|  | Álfertil anyai összetevő: az anyai összetevő azon növény egyedei, melyeknél ökológiai stressz hatására megjelenő – termékenyítésre nem alkalmas pollent tartalmazható – portokok csökevényes alakban észlelhetők, az anterák nem duzzadtak. |
+
+|  | Amennyiben a szántóföldi ellenőrzés során fertilnek tűnő egyedek aránya a próbaterek átlagában meghaladja a 0,1%-ot, akkor legalább 2 db virágport hullató növény még nem virágzó sarjbugáját izolálni kell, magkötés észlelése esetén a szaporítást alkalmatlannak kell minősíteni. |
+
+| A vizsgálat tárgya | Egység | Elit | I. | Megjegyzés |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 4 |
+
+| Szigetelési távolság, más fajtától, illetve egyéb Sorghum fajoktól, legalább | méter | 400 | 400 | a virágzás időpontjáig el kell távolítani |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Fenyércirok (Sorghum halepense) | növény db | 0 | 0 |  |
+
+| Az anyasorokban idegen sorghum-fajok vagy idegen buga a mintaterek átlagában, legfeljebb – virágzáskor – éréskor | % | 0,1 0,1 | 0,3* 0,1 | az anyai összetevő virágzásának időszakában a 3 ellenőrzésen összesen. *ebből virágzó: 0,1% lehet |
+
+| Fertilis pollent hullató anyanövények az anyasorokban a mintaterek átlagában, összesen | % | 0,1 | 0,1 | az anyai összetevő virágzásának időszakában a 3 ellenőrzésen összesen. |
+
+| Idegen fajtájú vagy idegen más rendeltetésű sorghum faj virágzó buga az apasorokban a mintaterek átlagában, összesen | % | 0,1 | 0,1 | az anyai összetevő virágzásának időszakában a 3 ellenőrzésen összesen. |
+
+| Baktériumos betegségek, a mintaterek átlagában, együttesen legfeljebb cirok baktériumos levélcsíkossága [Pseudomonas andropogni, levélszíneződés, vörösrozsda (Ramulispora sorghi)] | minősítő szám | 1 | 2 |  |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb Helminthosporium maydis | % | 0 | 0 |  |
+
+| a mintaterek átlagában, együttesen legfeljebb cirok fedettüszög (Sphacelotheca sorghi), cirok porüszög (Sphacelotheca cruenta) együtt, mintaterek átlagában, legfeljebb | 5 | 10 |  |
+
+## C. rész
+
+## A vetőmagvizsgálat és minősítés részletes követelményei
+
+## I. Mintavétel
+
+| Faj | Egy tétel legnagyobb tömege (t) | Kiszerelt csomagolási egységek tömege legfeljebb (kg) | Alapminta legalább (kg) | Laboratóriumi minta legalább (g) | Tisztaság vizsgálati minta legalább (g) | Idegenmag vizsgálati minta (g) |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| Csupasz zab (Avena nuda) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Zab (Avena sativa) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Homoki zab (Avena strigosa) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Árpa (Hordeum vulgare) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Rizs (Oryza sativa) | 30 | 10 | 10 | 500 | 40 | 500 |
+
+| Fénymag (Phalaris canariensis) | 10 | 10 | 5 | 400 | 20 | 200 |
+
+| Rozs (Secale cereale) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Cirok (Sorghum bicolor) | 30 | 5 | 5 | 1000 | 90 | 900 |
+
+| Szudánifű (Sorghum sudanense) | 10 | 5 | 5 | 1000 | 25 | 900 |
+
+| Hibrid szudánifű (Sorghum bicolor x Sorghum sudanense) | 30 | 5 | 5 | 1000 | 90 | 900 |
+
+| Tritikálé (x Triticosecale) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Búza (Triticum aestivum) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Durum búza (Triticum durum) | 30 | 10 | 10 | 1000 | 120 | 500 |
+
+| Tönköly búza (Triticum spelta) | 30 | 10 | 10 | 1000 | 270 | 500 |
+
+| Kukorica (Zea mays) | 40 | 10 | 10 | 1000 (bázis bel-tenyész- tett vonal: 250 g) | 900 | 1000 (bázis bel-tenyész- tett vonal: 250 g) |
+
+## II. Vetőmag-vizsgálati követelmények és minősítési határértékek
+
+## A forgalomba hozott vetőmagtételeknek meg kell felelniük az alább felsorolt feltételeknek.
+
+## A vetőmagvizsgálat a vonatkozó magyar módszertani szabványok alapján történik.
+
+| Faj | Szaporítási fok | Tisztaság legalább % | Csírázó-képesség legalább % | Idegenmag-tartalom legfeljebb db/minta | Nedvesség tartalom legfeljebb % |
+
+| Gabonafélék | Más növényfaj összesen | Oryza sativa vörös magja | Egyéb gabona | Más nem gabona fajok | Avena spp. (vadzab), Lolium temulentum | Raphanus rapha- nistrum, Agrostemma githago | Panicum spp. |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+
+| Csupasz zab (Avena nuda) | SE-E I, II. | 99 98 | 75 75 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Zab (Avena sativa) | SE-E I, II. | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Homoki zab (Avena strigosa) | SE-E I, II. | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Árpa (Hordeum vulgare) | SE-E I, II. | 99 98 | 85 (1) 85 (1) | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Rizs (Oryza sativa) | SE-E I. II. | 98 98 98 | 80 80 80 | 4 10 15 | 1 3 5 |  |  |  |  | 1 3 3 | 15,0 |
+
+| Fénymag (Phalaris canariensis) | SE-E I. | 98 98 | 75 75 | 4 10 |  | 1 5 |  | 0 0 |  |  | 14,0 |
+
+| Rozs (Secale cereale) | SE-E, I. | 98 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Cirok (Sorghum bicolor) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+
+| Szudánifű (Sorghum sudanense) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+
+| Hibrid szudánifű Sorghum bicolor x Sorghum sudanese | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+
+| Tritikále (x Triticosecale) | SE-E I, II | 98 98 | 80 80 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Búza (Triticum aestivum) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Durum búza (Triticum durum) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Tönköly búza (Triticum spelta) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+
+| Kukorica (Zea mays) | SE-E, I. | 98 | 90 | 0 |  |  |  |  |  |  | 14,0 |
+
+## (1) Csupasz típusú árpa esetén a csírázóképesség legalább 75%.
+
+## Megjegyzés:
+
+## 1. Claviceps purpurea (anyarozs) tartalom: SE-E: 1 db, I., II. szaporítási fok: 3 db, kivéve hibrid rozs, ahol SE-E: 1 db, I. szaporítási fok: 4 db, 5 db akkor elfogadható, ha a második mintában nem több 4 db-nál.
+
+## 2. Magyarországi vetőmag-előállításból származó vetőmagtételek első fémzárolásánál és vizsgálatánál a fajnak megfelelő hasítékrostán való áthullás után kell minősíteni.
+
+| 2.1. Minősítési határértékek (áthullás): | SE, E | 2,0% |
+
+|  | I. és II. szaporítási fok | 4,0% |
+
+| 2.2. Rostaméretek az egyes fajok esetén: |  |
+
+| 1,6 mm | csupasz zab |
+
+| 1,8 mm | rozs, hibrid rozs, zab, csupasz típusú árpa |
+
+| 2,0 mm | tavaszi búza, durum búza, tritikálé, hatsoros árpa |
+
+| 2,2 mm | őszi búza; kétsoros árpa |
+
+## 3. A Magyar Köztársaságban minősítésre kerülő I. szaporítási fokú kukorica vetőmagnak osztályozottnak kell lennie. Az osztályozási méreteket az okmányokon és a csomagolási egységeken fel kell tüntetni. A mérethűségnek a megadott méretenként legalább 95%-osnak kell lennie.
+
+## 4. A Magyar Köztársaságban előállított csupasz zab és csupasz típusú árpa vetőmagtételek első fémzárolásánál és vizsgálatánál a pelyvás szemtartalom legfeljebb 5% lehet.
+
+## D. rész
+
+## I. Növényfajok, amelyek vetőmagja vetőmag-minősítésben részesíthető
+
+## Az alábbi növényfajok vetőmagjai vetőmag-minősítésben részesíthetők
+
+| Faj | Engedélyezett szaporítási fok |
+
+| 1 | 2 |
+
+| Alakor búza (Triticum monococcum L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Köles (Panicum miliaceum L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Novum búza (Triticum speltivum Var.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Pohánka (Fagopyrum esculentum Moench.) Tatárpohánka (Fagopyrum tataricum (L.) Gaertn.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+| Tönke búza (Triticum turgidum L. subsp. dicoccum (Schrank ex Schübl.) Thell.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+
+## II. A szántóföldi ellenőrzés és minősítés részletes követelményei
+
+## 1. Köles (Panicum miliaceum L.)
+
+| Az ellenőrzések száma: | 1. |
+
+| Az ellenőrzés időpontja: | Fővirágzáskor, amikor a bugaágak zöldes színűek, de a mag színe már felismerhető. |
+
+| Elővetemény-korlátozás: | A megelőző 2 évben nem termesztettek azonos, vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, |
+
+|  | minden további megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
+
+| A vizsgálat tárgya | Egység | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| Elválasztó sáv, legalább | méter | 2 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 1 | 2 | 4 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, összesen legfeljebb Brassica spp., Sinapis spp. fajok varjúmák (Hibiscus trionum) közönséges kakaslábfű (Echinocloa crusgalli) muhar fajok (Setaria spp.) | 10 | 20 | 20 |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb köles-porüszög (Sphacelotheca destruens) | buga db | 5 | 8 | 8 |
+
+## 2. Pohánka (Fagopyrum esculentum Moench)
+
+## Tatárpohánka (Fagopyrum tataricum L: Gaertn)
+
+| Az ellenőrzések száma: | 2. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés a fővirágzás időszakában, |
+
+|  | 2. ellenőrzés a betakarítás előtt. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, |
+
+|  | minden további megkezdett 10 ha után: 2 db. |
+
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
+
+| A vizsgálat tárgya | Egység | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| Szigetelési távolság, más fajtától, ill. rokon fajtól, legalább | méter | 1000 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen faj, fajta a mintaterek átlagában, legfeljebb (a két faj kölcsönös előfordulását is beleértve) | növény db | 1 | 2 | 4 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, összesen legfeljebb keserűfű fajok (Polygonum sp.) Polygonum convolvulus | 10 | 20 | 20 |
+
+| Gombabetegségek a mintaterek átlagában, együttesen legfeljebb Phytophtora parasitica Cercospora fagopyri Fusarium sp. B Botrytis cinerea Fusicladium fagopyri | értékszám | 2 | 2 | 2 |
+
+| 3. | Alakor búza (Triticum monococcum L.) |
+
+|  | Tönke búza (Triticum turgidum L. subsp. dicoccum (Schrank ex Schübl.) Thell.) |
+
+| 3.1. Szuperelit és elit szaporítási fokú vetőmag-előállítása esetén |  |
+
+| Az ellenőrzések száma: | 2. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés virágzáskor, |
+
+|  | 2. ellenőrzés az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok már sárga színűek. |
+
+## 3.2. I. szaporítási fokú és II. szaporítási fokú vetőmag-előállítása esetén
+
+| Az ellenőrzések száma: | 1. |
+
+| Az ellenőrzés időpontja: | Az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok már sárga színűek. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, |
+
+|  | utána minden megkezdett 10 ha után 2 db. |
+
+| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+| Elválasztó sáv, legalább | méter | 2 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény db | 0 | 0 | 2 | 4 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | 1 | 2 | 4 | 10 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab fajok (Avena spp.) szédítő vadóc (Lolium temulentum) a mintaterek átlagában, összesen legfeljebb repcsényretek (Raphanus raphanistrum), Melampyrum spp., Agrostemma githago, apró szulák (Convolvulus arvensis) | 0 0 0 5 | 0,3 0,3 0,3 10 | 3 2 2 20 | 5 5 5 20 |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb fuzárium (Fusarium spp.) | kalász% | 15 |
+
+| szárrozsda (Puccinia graminis) | minősítő szám | 2 |
+
+| alakor búza esetén: kő- és törpeüszög (Tilletia foetida, t. contraversa) porüszög (Ustilago tritici) | kalász db | 0 3* | 0 3* | 1* 5* | 2* 10* |
+
+| Kártevők a mintaterek átlagában, legfeljebb golyóüszög (búzafonálféreg) (Anguina tritici) | 0 |
+
+## *ökológiai előállítás esetén 0 db
+
+| 4. Novum búza (Triticum speltivum Var.) |  |
+
+| 4.1. Szuperelit és elit szaporítási |  |
+
+| fokú vetőmag-előállítása esetén |  |
+
+| Az ellenőrzések száma: | 2. |
+
+| Az ellenőrzések időpontja: | 1. ellenőrzés virágzáskor, |
+
+|  | 2. ellenőrzés az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok már sárga vagy sárgásvörös színűek. |
+
+## 4.2. I. szaporítási fokú és II. szaporítási fokú vetőmag-előállítása esetén
+
+| Az ellenőrzések száma: | 1. |
+
+| Az ellenőrzés időpontja: | Az érés kezdetén, amikor a szárrészek zöldessárgák, de a kalászok már sárga vagy sárgásvörös színűek. |
+
+| Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
+
+| A mintatér nagysága: | 100 m2. |
+
+| A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után 2 db. |
+
+| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+
+| szaporítási fok |
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+| Elválasztó sáv, legalább | méter | 2 |
+
+| Gyomosság, legfeljebb | minősítő szám | 2 |
+
+| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+
+| Idegen fajú kalászos kultúrnövény a mintaterek átlagában, legfeljebb | növény db | 0 | 0 | 2 | 4 |
+
+| Idegen fajta a mintaterek átlagában, legfeljebb | 1 | 2 | 4 | 10 |
+
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab fajok (Avena spp.) szédítő vadóc (Lolium temulentum) a mintaterek átlagában, összesen legfeljebb repcsényretek (Raphanus raphanistrum), Melampyrum spp., Agrostemma githago, apró szulák (Convolvulus arvensis) | 0 0 0 5 | 0,3 0,3 0,3 10 | 3 2 2 20 | 5 5 5 20 |
+
+| Gombabetegségek a mintaterek átlagában, legfeljebb fuzárium (Fusarium spp.) | kalász% | 15 |
+
+| szárrozsda (Puccinia graminis) | minősítő szám | 2 |
+
+| kő- és törpeüszög (Tilletia foetida, t. contraversa) porüszög (Ustilago tritici) | kalász db | 0 3 | 0 3 | 1 5 | 2 10 |
+
+| Kártevők a mintaterek átlagában, legfeljebb golyóüszög (búzafonálféreg) (Anguina tritici) | 0 |
+
+## III. A vetőmag-vizsgálat és -minősítés részletes minőségi követelményei
+
+## 1. Mintavétel
+
+| Faj | Egy tétel legnagyobb tömege (t) | Kiszemelt csomagolási egységek tömege legfeljebb (kg) | Alapminta legalább (kg) | Laborató-riumi minta legalább (g) | Tisztaság vizsgálati minta legalább (g) | Idegenmag vizsgálati minta (g) |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| Pohánka (Fagopyrum esculentum) Tatárpohánka (Fagopyrum tataricum) | 10 | 10 | 5 | 600 | 60 | 600 |
+
+| Köles (Panicum miliaceum) | 10 | 10 | 5 | 150 | 15 | 150 |
+
+| Alakor búza(Triticum monococcum) | 30 | 10 | 10 | 1000 | 270 | 500 |
+
+| Novum búza(Triticum speltivum) | 30 | 10 | 10 | 1000 | 270 | 500 |
+
+| Tönke búza (Triticum turgidum subsp. dicoccum) | 30 | 10 | 10 | 1000 | 270 | 500 |
+
+## A maximális tételsúly 5%-nál nagyobb mértékben nem léphető túl.
+
+## 2. Vetőmagvizsgálati követelmények és minősítési határértékek
+
+## A forgalomba hozott vetőmagtételeknek meg kell felelniük az alább felsorolt feltételeknek.
+
+## A vetőmagvizsgálat az érvényes magyar módszertani szabványok alapján történik.
+
+| Faj | Szaporítási fok | Tisztaság legfeljebb (%) | Csírázóképesség legalább (%) | Idegenmag-tartalom legfeljebb db/minta | Nedvességtartalom legfeljebb (%) |
+
+| Gabonafélék | Más növényfaj összesen | Nehezen tisztítható gyommag |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| Köles (Panicum miliaceum) | szuperelit, elit, I, II. | 98,5 | 80 | 8 40 | 3 15 | 14,5 |
+
+| Pohánka (Fagopyrum spp.) | szuperelit, elit, I, II. | 98,0 | 85 | 3 7 | – | 14,5 |
+
+| További követelmények: |  |
+
+| Kölesre: |  |
+
+| Eltérő toklászú mag megengedett mennyisége: |
+
+| szuperelit-elit esetén: | 0% |
+
+| I. és II. szaporítási fok esetén legfeljebb: | 0,5%. |
+
+| Ennél több eltérő színű toklászt tartalmazó vetőmag csak fajtamegjelölés nélkül fémzárolható. |
+
+| Kölesbugaüszög megengedett mennyisége: |
+
+| szuperelit-elit: | 0 db |
+
+| I.-II. szaporítási fok esetén legfeljebb: | 4 db/minta. |
+
+| Nehezen tisztítható gyommag: | Brassica spp., Sinapis spp., Setaria spp., Hibiscus trionum, Echinochloa crus-galli. |
+
+| Faj | Szaporítási fok | Tistaság leglább % | Csírázó- képesség legalább % | Idegenmag-tartalom legfeljebb db/minta | Nedvesség tartalom legfeljebb % |
+
+| Gabonafélék | Más növényfaj összesen | Egyéb gabona (1) | Más nem gabona fajok | Avena spp. (vadzab), Lolium temulen- tum (2) | Raphanus raphanis-trum, Agro- stemma githago |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+
+| Novum búza (Triticum speltivum) | SE-E I, II. | 99 98 | 92 90 | 4 10 | 1 7 | 3 7 | 0 0 | 1 3 | 14,5 |
+
+| Alakor búza (Triticum monococcum) Tönke búza (Triti-cum turgidum subsp. dicoccum | SE-E I, II. | 99 98 | 85 85 | 4 10 | 1 7 | 3 7 | 0 0 | 1 3 | 14,5 |
+
+| 3 | 14,5 |  |  |  |  |  |  |  |  |
+
+## (1) Két darab magot nem kell szennyezésnek tekinteni, ha egy azonos tömegű második minta minden egyéb gabonától mentes
+
+## (2) Egy darab Avena fatua, Avena sterilis, Avena ludoviciana vagy Lolium temulentum magot nem kell szennyezésnek tekinteni, ha egy azonos tömegű második minta mentes tőle
+
+## (3) Magyarországi vetőmag-előállításból származó novum búza vetőmagtételek első fémzárolásánál és vizsgálatánál 2,6 mm-es hasítékrostán való áthullás után kell minősíteni.
+
+| Minősítési határértékek (áthullás): | SE, E | 2,0% |
+
+|  | □ és II. szaporítási fok | 4,0% |
+
+## ”
+
+3. számú melléklet a 16/2011. (III. 2.) VM rendelethez

@@ -1,0 +1,3 @@
+## 14. § Az R. 27. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Idegen fajú, illetve fajtájú növényeket a mellékletek B. részeiben, illetve D. részeinek II. részeiben foglalt megengedett mértéken felül tartalmazó szaporítások növényállományát a közbeeső szántóföldi ellenőrzésen csak akkor lehet a „Következő szántóföldi ellenőrzésre alkalmas” minősítési kategóriába sorolni, ha a közbeeső vagy a következő ellenőrzésen még biztonságosan elbírálható, hogy az idegen fajú, illetve fajtájú növényeket a szakmai követelmények megtartásával a mellékletek B. részeiben, illetve D. részeinek II. részeiben foglalt mértékig eltávolították.”
