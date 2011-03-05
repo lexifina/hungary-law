@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-1-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2002-04-01 | 1999-1-20-06.2 | 1/1999. (I. 18.) IM–EüM együttes rendelet |
+| 2011-03-05 | 1999-1-20-06.3 | 8/2011. (III. 4.) KIM rendelet |
