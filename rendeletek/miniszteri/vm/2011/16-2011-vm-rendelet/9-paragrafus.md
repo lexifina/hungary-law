@@ -1,1 +1,0 @@
-## „(2) Pótbejelentésre őszi vetésű növényeknél április 1-jéig, egyéb növényeknél az (1) bekezdés szerinti bejelentési határidőt követő 30 napig van lehetőség. A bejelentést módosítani, illetve visszavonni az első szántóföldi ellenőrzés várható időpontjáig lehet.”

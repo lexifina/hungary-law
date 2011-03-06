@@ -1,1 +1,0 @@
-## „(4) A (3) bekezdésben meghatározott esetekben a hivatalos címke a csomagolási göngyölegeken maradhat, amennyiben a címkéket piros színű „nem alkalmas vetőmag” feliratú hatósági körcímkékkel látják el a vetőmag beazonosíthatóságának érdekében.”
