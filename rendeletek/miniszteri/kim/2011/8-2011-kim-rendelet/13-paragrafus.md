@@ -1,11 +1,8 @@
-## 12. § A közjegyzői állások számáról és a közjegyzők székhelyéről szóló 15/1991. (XI. 26.) IM rendelet melléklete II. pontjának Zala megye alcíme alatti 5. pontjában a „Szalapa, Türje” szövegrész helyébe a „Szalapa, Tekenye, Türje” szöveg lép.
+## 1–12. §[^1]
 
 13. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti az R.
+(2)[^2]
 
-a) 5. § (1) bekezdésében a „kérelmére a vizsgálat kezdeményezője” szövegrész,
-
-b) 6. § (3) bekezdése és
-
-c) 11. §-a.
+[^1]: Az 1–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
