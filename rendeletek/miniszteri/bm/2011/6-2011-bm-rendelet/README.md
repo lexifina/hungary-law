@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-6-20-0A
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-03-05 | 2011-6-20-0A.1 | 6/2011. (III. 4.) BM rendelet |
+| 2011-03-06 | 2011-6-20-0A.2 | 2010: CXXX. törvény |
