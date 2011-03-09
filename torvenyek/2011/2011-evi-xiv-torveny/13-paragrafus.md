@@ -1,0 +1,3 @@
+13. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 14. § e) pontjában a „külképviseleti szerv” szövegrész helyébe a „konzuli szolgálat konzuli tisztviselőjének az” szöveg, 25. § (1) bekezdés f) pontjában a „konzuli hatóságnak” szövegrész helyébe a „konzuli tisztviselőnek” szöveg, 26. § (2) bekezdésében az „az illetékes külföldi külképviseleti hatóságnál” szövegrész helyébe az „a konzuli tisztviselőnél” szöveg, 28. § (2) bekezdésében a „– lakcíme megszüntetésének bejelentésével egyidejűleg –” szövegrész helyébe a „– külföldi letelepedési szándékának bejelentésével egyidejűleg –” szöveg lép.
+
+(2) Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (5) bekezdése.
