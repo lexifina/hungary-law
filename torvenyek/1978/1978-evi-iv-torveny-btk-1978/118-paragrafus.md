@@ -11,3 +11,7 @@
 (5) Az ideiglenes elbocsátás megszüntetése esetén az ideiglenes elbocsátáson töltött idő a javítóintézeti nevelésbe nem számítható be.
 
 (6) Azt, aki a tizenkilencedik életévét betöltötte, a javítóintézetből el kell bocsátani.
+
+[Kényszergyógyítás
+
+118/A. §]

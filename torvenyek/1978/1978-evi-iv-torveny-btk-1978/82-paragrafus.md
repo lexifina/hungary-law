@@ -36,4 +36,6 @@ g) meghatározott tanulmányokat folytasson;
 
 h) – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
 
+[i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a Pártfogó Felügyelői Szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.]
+
 (6) A bíróság, illetve az ügyész az (5) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedésének esélyeire.

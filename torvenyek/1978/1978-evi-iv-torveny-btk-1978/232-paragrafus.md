@@ -4,6 +4,8 @@
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekmény elkövetésével fenyeget, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
+(2a) Aki az (1) és (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
 (3) E § alkalmazásában nemzetközileg védett személy az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján diplomáciai vagy nemzetközi jogon alapuló egyéb mentességet élvez.
 
 VI. CÍM
