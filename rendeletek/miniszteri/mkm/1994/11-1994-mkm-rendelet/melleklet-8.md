@@ -1664,7 +1664,7 @@ A középfokú iskolai felvételi tájékoztató
 
 A felvételi kérelem benyújtása
 
-2.1.[^312] A középfokú iskolai felvételi kérelmet a hivatal által elkészített és a hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok öt munkanapon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
+2.1.[^312] A középfokú iskolai felvételi kérelmet a hivatal által elkészített és a hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok nyolc napon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
 
 2.2. A jelentkező több jelentkezési lapot állíthat ki. Minden jelentkezési lapon egy iskola tüntethető fel. Egy jelentkezési lapon az iskola több tanulmányi területe is megjelölhető. A jelentkezési lapokon a tanulmányi terület 1.4. pont szerint meghatározott belső kódját minden esetben fel kell tüntetni.
 
@@ -1742,10 +1742,12 @@ A 9. évfolyamra történő jelentkezés esetén mindkét tárgyból külön-kü
 
 5.4. A felvételi eljárás eredményének a megállapításánál a központilag szervezett írásbeli vizsgán elérhető eredmény a felvételi eljárás egészében megszerezhető összesített eredmény, összpontszám ötven százalékánál nem lehet kevesebb.
 
+5.5. A vizsgázókat az írásbeli vizsga megkezdése előtt tájékoztatni kell arról, hogy hol és mikor tekinthetik meg az általuk elkészített és az iskola szaktanára által kiértékelt dolgozatokat, és tehetnek észrevételt az értékelésre.
+
 [^307]: A 7. számú melléklet Óvoda cím VII. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^308]: A 7. számú melléklet Iskola cím V. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^309]: A 7. számú melléklet Kollégium cím IV. alcím 11. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
 [^310]: A 7. számú melléklet Alapfokú művészetoktatási intézmények cím IV. alcím 12. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (4) bekezdésével megállapított szöveg.
 [^311]: A 8. számú mellékletet a 13/2003. (V. 23.) OM rendelet 4. §-a iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 7. §-ával megállapított szöveg.
-[^312]: A 8. számú melléklet 2.1. pont negyedik mondata a 35/2009. (XI. 18.) OKM rendelet 13. §-ával megállapított szöveg.
+[^312]: A 8. számú melléklet 2.1. pontja a 6/2011. (III. 8.) NEFMI rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^313]: A 8. számú melléklet 4.1. pontja a 11/2010. (X. 6.) NEFMI rendelet 6. §-ával megállapított szöveg.
