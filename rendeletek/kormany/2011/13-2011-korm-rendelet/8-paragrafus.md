@@ -1,0 +1,1 @@
+## 7. § A 428/2009/EK tanácsi rendelet 4. cikk (1)–(4) bekezdésén túl engedélyköteles a 428/2009/EK tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékek kivitele akkor is, ha az exportőr alappal feltételezheti, hogy ezt a terméket részben vagy egészben a 428/2009/EK tanácsi rendelet 4. cikk (1) bekezdésben említett célra szánják vagy szánhatják.

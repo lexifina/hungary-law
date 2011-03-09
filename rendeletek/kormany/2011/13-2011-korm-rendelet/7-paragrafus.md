@@ -1,0 +1,1 @@
+## 6. § Az export, a transzfer- és a tranzitengedélyek iránti kérelmet az 1. melléklet A) részében meghatározott tartalommal, a brókerügyleti engedély iránti kérelmet az 1. melléklet B) részében meghatározott tartalommal kell a Hivatalhoz benyújtani.
