@@ -46,14 +46,16 @@ mc) a szülő közvetlenül is eljárást indíthat az illetékes jegyzőnél a 
 
 md) a szakértői véleményben foglaltakkal kapcsolatos egyetértését vagy egyet nem értését írásban kell közölnie,
 
-me) amennyiben a szakértői vélemény kézhezvételétől számított tíz munkanapon belül nem tesz nyilatkozatot és nem indítja meg a jegyzői eljárást, az egyetértését megadottnak kell tekinteni.
+me)[^10] amennyiben a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a jegyzői eljárást, az egyetértését megadottnak kell tekinteni.
 
 (2) Ha a fővárosi, megyei területi gyermekvédelmi szakszolgálat értesítése szerint a szakértői és rehabilitációs bizottság eljárásával egyidejűleg a gyermek, tanuló átmeneti vagy tartós nevelésbe vételével kapcsolatos eljárás is folyik, a szakértői véleményt a kijelölt gondozási helyről szóló tájékoztatás megérkezését követően lehet elkészíteni.
 
 (3) A szakértői vizsgálat befejezését követően a szülőt tájékoztatni kell a szakértői vizsgálat megállapításairól, a szakértői vélemény várható tartalmáról, a szülői jogokról és kötelezettségekről. A tájékoztatás tényét, a tájékoztatási kötelezettség teljesítését írásba kell foglalni, és a szülővel alá kell íratni.
 
-(4)[^10] Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői és rehabilitációs bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésnek jogával.
+(4)[^11] Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői és rehabilitációs bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésnek jogával.
 
-(5) A szakértői véleményt – a vizsgálat lezárását követő huszonkét munkanapon belül – kézbesíteni kell a szülőnek. A szülőnek – a kézhezvételétől számítva – tíz munkanap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői vélemény szülő általi átvétele megtörtént.
+(5)[^12] A szakértői véleményt – a vizsgálat lezárását követő harminc napon belül – kézbesíteni kell a szülőnek. A szülőnek – a kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői vélemény szülő általi átvétele megtörtént.
 
-[^10]: A 14. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^10]: A 14. § (1) bekezdés m) pont me) alpontja a 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^11]: A 14. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^12]: A 14. § (5) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

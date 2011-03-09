@@ -1,6 +1,4 @@
-11. § (1)[^6] A szakértői vizsgálat időpontját a szakértői és rehabilitációs bizottság határozza meg, és erről, valamint a szakértői vizsgálat helyéről a szülőt értesíti.
-
-[(1)[^7] A szakértői vizsgálat időpontját a szakértői és rehabilitációs bizottság határozza meg, és erről, valamint a szakértői vizsgálat helyéről a szülőt értesíti. A szakértői vizsgálat időpontjáról szóló értesítést a vizsgálat kezdeményezésétől számított tíz munkanapon belül meg kell küldeni a szülőnek. A szakértői vizsgálat időpontját a vizsgálat kezdeményezésétől számított negyven munkanapon belüli időpontra kell kitűzni.]
+11. § (1)[^7] A szakértői vizsgálat időpontját a szakértői és rehabilitációs bizottság határozza meg, és erről, valamint a szakértői vizsgálat helyéről a szülőt értesíti.
 
 (2) A szakértői vizsgálat megkezdéséhez a szülői felügyeletet gyakorló szülők jelenléte szükséges. Kétség esetén vélelmezni kell, hogy a vizsgálaton megjelent szülő a távollévő szülő képviseletére jogosult. Erről a szülőt tájékoztatni kell, az ezzel kapcsolatos nyilatkozatát be kell szerezni A szakértői vizsgálat során a szülő köteles közreműködni, a vizsgálaton – annak zavarása nélkül – jogosult mindvégig jelen lenni.
 
@@ -10,7 +8,6 @@
 
 (5) A szakértői vizsgálat lefolytatásának részletes eljárási rendjét az 5. számú melléklet tartalmazza.
 
-[^6]: A 11. § (1) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg.
-[^7]: A 11. § (1) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 8. §-ával megállapított szöveg. [E módosító rendelet 9. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.]
+[^7]: A 11. § (1) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg. [A 11. § (1) bekezdésének a 6/2011. (III. 8.) NEFMI rendelet 7. § (1) bekezdésével megállapított, a 10. § (2) bekezdése alapján 2011. augusztus 1-jétől hatályos szövege: „(1) A szakértői vizsgálat időpontját a szakértői és rehabilitációs bizottság határozza meg, és erről, valamint a szakértői vizsgálat helyéről a szülőt értesíti. A szakértői vizsgálat időpontjáról szóló értesítést a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított tizenöt napon belül meg kell küldeni a szülőnek. A szakértői vizsgálat időpontját a vizsgálat kezdeményezésére irányuló kérelem megérkezését követő naptól számított hatvan napon belüli időpontra kell kitűzni.”. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.]
 [^8]: A 11. § (3) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
-[^9]: A 11. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^9]: A 11. § – 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés b) pontja szerint módosított – (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba. [A 6/2011. (III. 8.) NEFMI rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.]
