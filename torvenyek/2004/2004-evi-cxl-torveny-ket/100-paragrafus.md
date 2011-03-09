@@ -10,4 +10,4 @@ d) ha az elsőfokú döntést miniszter, a Pénzügyi Szervezetek Állami Felüg
 
 e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta.
 
-(2) Az (1) bekezdés a), c) és e) pontjában meghatározott esetekben az első fokú döntés bírósági felülvizsgálatának van helye.
+(2) Az (1) bekezdés a), c)–e) pontjában meghatározott esetekben az első fokú döntés bírósági felülvizsgálatának van helye.
