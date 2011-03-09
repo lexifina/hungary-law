@@ -18,4 +18,4 @@ f) az állampolgársági bizonyítvány érvényességi idejét.
 
 (4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Bíróságtól kérhető.
 
-(5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi, illetve méltányossági kérelem nem nyújtható be.
+(5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.

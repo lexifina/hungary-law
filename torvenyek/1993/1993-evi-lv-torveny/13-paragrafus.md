@@ -4,7 +4,7 @@
 
 a) a települési – fővárosban a kerületi – önkormányzat polgármesteri hivatala anyakönyvvezetőjéhez,
 
-b) a külön jogszabályban meghatározott körzetközponti jegyző székhelyén működő anyakönyvvezetőhöz,
+b) az integrált ügyfélszolgálati irodához
 
 c) a magyar konzuli tisztviselőhöz, illetve
 
@@ -16,4 +16,4 @@ lehet benyújtani.
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 
-(4) Az állampolgársági kérelmet az anyakönyvvezető öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
+(4) Az állampolgársági kérelmet az anyakönyvvezető, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
