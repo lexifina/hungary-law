@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Borbély Lénárd országgyűlési képviselő mentelmi jogát a Budapesti XX. XXI. és XXIII. Kerületi Bíróság 10. B. XXI. 1251/2008/7. számú megkeresésével érintett ügyben nem függeszti fel.
