@@ -2,6 +2,8 @@
 
 17. § (1) Az illetékes múzeum a feltárási engedély iránti kérelem benyújtása előtt az érintett területi múzeum feladatellátásba történő bevonása érdekében írásban megkeresi az érintett területi múzeumot.
 
-(2) Az érintett területi múzeum a megkereséstől számított 5 munkanapon belül írásban nyilatkozik, hogy részt kíván-e venni a feltárási munkában. Amennyiben határidőben nem nyilatkozik, úgy ezt a részvétel megtagadásának kell tekinteni.
+(2)[^10] Az érintett területi múzeum a megkereséstől számított nyolc napon belül írásban nyilatkozik, hogy részt kíván-e venni a feltárási munkában. Amennyiben határidőben nem nyilatkozik, úgy ezt a részvétel megtagadásának kell tekinteni.
 
 (3) Az engedély iránti kérelemhez csatolni kell az illetékes múzeum és az érintett területi múzeum közötti együttműködési megállapodást is.
+
+[^10]: A 17. § (2) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § i) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

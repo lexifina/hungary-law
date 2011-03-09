@@ -6,6 +6,8 @@
 
 (3) Az illetékes múzeum a nyilatkozatot megküldi az illetékes jegyzőnek és a hatóság illetékes területi szervének.
 
-(4) Az illetékes múzeum a mentő feltárás megkezdésétől számított 10 munkanapon belül javaslatot tehet a hatóság illetékes területi szervének a terület ideiglenes védetté nyilvánítására.
+(4)[^13] Az illetékes múzeum a mentő feltárás megkezdésétől számított tizenöt napon belül javaslatot tehet a hatóság illetékes területi szervének a terület ideiglenes védetté nyilvánítására.
 
 (5) Az illetékes múzeum a mentő feltárás befejezése után 24 órán belül – ha ez a határidő munkaszüneti napra esik, akkor az azt követő 24 órán belül – nyilatkozni köteles a tevékenység felfüggesztését kimondó hatóság felé a felfüggesztés feloldására vagy fenntartására vonatkozó javaslatáról.
+
+[^13]: A 27. § (4) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § l) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

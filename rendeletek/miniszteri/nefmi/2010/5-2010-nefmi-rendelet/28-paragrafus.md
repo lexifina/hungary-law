@@ -1,6 +1,6 @@
 ## Bejelentési kötelezettség és anyagi elismerés
 
-28. § (1) A régészeti feltárás esetén kívül előkerült régészeti leletet, illetve lelőhelyet az illetékes múzeum a „Lelőhely-bejelentő adatlap”-on, 8 munkanapon belül köteles a hatóság illetékes területi szervének bejelenteni.
+28. § (1)[^14] A régészeti feltárás esetén kívül előkerült régészeti leletet, illetve lelőhelyet az illetékes múzeum a „Lelőhely-bejelentő adatlap”-on, tíz napon belül köteles a hatóság illetékes területi szervének bejelenteni.
 
 (2) Régészeti lelőhely vagy lelet megtalálóját a lelőhely, illetve a lelet tudományos jelentőségével arányos pénzjutalom és elismerő oklevél vagy tárgyi ajándék illeti meg. Az elismerést a hatóság elnöke adja át.
 
@@ -11,3 +11,5 @@
 (5) A jutalom összegét a hatóság állapítja meg.
 
 (6) A lelet elhelyezéséről a hatóság dönt.
+
+[^14]: A 28. § (1) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § m) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
