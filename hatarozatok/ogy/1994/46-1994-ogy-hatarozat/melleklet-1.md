@@ -10,13 +10,13 @@
 
 ## 135. §
 
-## (1)[^168] Az Országgyűlés az Országgyűlés Hivatala költségvetését – a központi költségvetés részeként – maga állapítja meg.
+## (1)[^169] Az Országgyűlés az Országgyűlés Hivatala költségvetését – a központi költségvetés részeként – maga állapítja meg.
 
-## (2)[^169] Az Országgyűlés Hivatala költségvetésének tervét az Országgyűlés elnökének irányítása mellett a gazdasági főigazgató készíti el, és azt – a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után – az Országgyűlés elnöke a költségvetési törvényjavaslat elkészítéséhez a Kormány rendelkezésére bocsátja.
+## (2)[^170] Az Országgyűlés Hivatala költségvetésének tervét az Országgyűlés elnökének irányítása mellett a gazdasági főigazgató készíti el, és azt – a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után – az Országgyűlés elnöke a költségvetési törvényjavaslat elkészítéséhez a Kormány rendelkezésére bocsátja.
 
-## (3)[^170] Az Országgyűlés Hivatala költségvetésének végrehajtásáért a gazdasági főigazgató felelős.
+## (3)[^171] Az Országgyűlés Hivatala költségvetésének végrehajtásáért a gazdasági főigazgató felelős.
 
-## (4)[^171] Az Országgyűlés Hivatala költségvetésének végrehajtását az Állami Számvevőszék ellenőrzi.
+## (4)[^172] Az Országgyűlés Hivatala költségvetésének végrehajtását az Állami Számvevőszék ellenőrzi.
 
 ## 2. Fejezet
 
@@ -60,15 +60,15 @@
 
 ## (1) Az, akinek az Országgyűlés működése során államtitok vagy szolgálati titok jut tudomására, illetőleg birtokába, a titokvédelemre vonatkozó általános szabályok szerint köteles azt megőrizni.
 
-## (2)[^172] A minősített önálló indítványhoz benyújtott nem önálló indítvány minősítésére a 66/A. § rendelkezéseit kell megfelelően alkalmazni.
+## (2)[^173] A minősített önálló indítványhoz benyújtott nem önálló indítvány minősítésére a 66/A. § rendelkezéseit kell megfelelően alkalmazni.
 
-## (3)[^173] Az Országgyűlés Hivatalára vonatkozó titokvédelmi szabályokat az Országgyűlés elnöke állapítja meg, ideértve a zárt ülés jegyzőkönyvei és más iratai minősítésével és kezelésével kapcsolatos ügyvitel és ügykezelés, valamint a minősített önálló és nem önálló indítványok kézbesítésének és ügykezelésének részletes szabályait is.
+## (3)[^174] Az Országgyűlés Hivatalára vonatkozó titokvédelmi szabályokat az Országgyűlés elnöke állapítja meg, ideértve a zárt ülés jegyzőkönyvei és más iratai minősítésével és kezelésével kapcsolatos ügyvitel és ügykezelés, valamint a minősített önálló és nem önálló indítványok kézbesítésének és ügykezelésének részletes szabályait is.
 
 ## A Házszabálytól való eltérés
 
 ## 140. §
 
-## (1)[^174] Kivételesen, a Házbizottság javaslatára az Országgyűlés a jelen levő képviselők négyötödének szavazatával – képviselőcsoportonként legfeljebb egy felszólaló, illetőleg a szólásra elsőként jelentkező független képviselő meghallgatását követően – úgy határozhat, hogy valamely ügy tárgyalása során a Házszabály rendelkezéseitől eltér. Az e bekezdésben foglalt felszólalások nem haladhatják meg az öt percet.
+## (1)[^175] Kivételesen, a Házbizottság javaslatára az Országgyűlés a jelen levő képviselők négyötödének szavazatával – képviselőcsoportonként legfeljebb egy felszólaló, illetőleg a szólásra elsőként jelentkező független képviselő meghallgatását követően – úgy határozhat, hogy valamely ügy tárgyalása során a Házszabály rendelkezéseitől eltér. Az e bekezdésben foglalt felszólalások nem haladhatják meg az öt percet.
 
 ## (2) Az (1) bekezdésben foglaltakat nem lehet alkalmazni, ha az az Alkotmányba vagy más törvénybe ütközik, valamint az Alkotmány és a Házszabály tárgyalása során.
 
@@ -88,7 +88,7 @@
 
 ## — képviseletére jogosult személyeket, ezek címét.
 
-## (3) Az Országgyűlés elnöke a jegyzékbe vett érdekképviseleti és társadalmi szervezetek listáját évente hivatalos lapban közzéteszi.[^175]
+## (3) Az Országgyűlés elnöke a jegyzékbe vett érdekképviseleti és társadalmi szervezetek listáját évente hivatalos lapban közzéteszi.[^176]
 
 ## Értelmező rendelkezések
 
@@ -112,7 +112,7 @@
 
 ## 8. Kapcsolódó módosító javaslat: Olyan — a részletes vita során benyújtott — módosító javaslat, amely a döntési javaslat módosító javaslattal már érintett, vagy azzal összefüggő rendelkezésére vonatkozik; tartalma szerint az alap módosító javaslat továbbfejlesztése.
 
-## 9.[^176] Hatáskörrel rendelkező bizottság: Az a bizottság, amelynek egy adott ügy vitele a feladatkörébe tartozik.
+## 9.[^177] Hatáskörrel rendelkező bizottság: Az a bizottság, amelynek egy adott ügy vitele a feladatkörébe tartozik.
 
 ## 10. Kijelölt bizottság: Az a bizottság, amelyet az Országgyűlés elnöke egy adott ügy vitelére felkért.
 
@@ -124,19 +124,19 @@
 
 ## (2) Ha a bizottság ülésén a Házszabály értelmezésével kapcsolatban vitás kérdés merül fel, a bizottság elnöke a Házszabály értelmezéséért felelős bizottsághoz fordul.
 
-## (3)[^177] A Házszabály-értelmezésért felelős bizottság az Országgyűlés választott tisztségviselője, bármely képviselőcsoport vagy bizottság, továbbá független képviselő kérésére – ha azt ez utóbbi esetben legalább a 15. § (1) bekezdésében meghatározott számú képviselő támogatja – állást foglal. A Házszabály-értelmezésért felelős bizottság – saját döntése alapján – általános érvényű vagy eseti jellegű állásfoglalást hoz. A Házszabály-értelmezésért felelős bizottság általános érvényű állásfoglalását az Országgyűlés elnöke ismerteti. A Házszabály-értelmezésért felelős bizottság eseti jellegű állásfoglalását írásban teszi közzé.
+## (3)[^178] A Házszabály-értelmezésért felelős bizottság az Országgyűlés választott tisztségviselője, bármely képviselőcsoport vagy bizottság, továbbá független képviselő kérésére – ha azt ez utóbbi esetben legalább a 15. § (1) bekezdésében meghatározott számú képviselő támogatja – állást foglal. A Házszabály-értelmezésért felelős bizottság – saját döntése alapján – általános érvényű vagy eseti jellegű állásfoglalást hoz. A Házszabály-értelmezésért felelős bizottság általános érvényű állásfoglalását az Országgyűlés elnöke ismerteti. A Házszabály-értelmezésért felelős bizottság eseti jellegű állásfoglalását írásban teszi közzé.
 
-## (4)[^178] Az általános érvényű állásfoglalás ismertetésétől, illetve az eseti jellegű állásfoglalás kiküldésétől számított tizenöt napon belül bármely képviselőcsoport, illetőleg bármely független képviselő – ha legalább a 15. § (1) bekezdésében meghatározott számú képviselő támogatásával rendelkezik – kérheti az Országgyűlés döntését. A kérelem az állásfoglalás elutasítására vagy fenntartására irányulhat. A kérelem tárgyalását legkésőbb annak beérkezését követő harminc napon belül az Országgyűlés napirendjére tűzi.
+## (4)[^179] Az általános érvényű állásfoglalás ismertetésétől, illetve az eseti jellegű állásfoglalás kiküldésétől számított tizenöt napon belül bármely képviselőcsoport, illetőleg bármely független képviselő – ha legalább a 15. § (1) bekezdésében meghatározott számú képviselő támogatásával rendelkezik – kérheti az Országgyűlés döntését. A kérelem az állásfoglalás elutasítására vagy fenntartására irányulhat. A kérelem tárgyalását legkésőbb annak beérkezését követő harminc napon belül az Országgyűlés napirendjére tűzi.
 
-## (5)[^179] A plenáris ülésen való tárgyalás során először az Országgyűlés döntését indítványozó képviselőcsoporthoz tartozó képviselő, illetve független képviselő szólal fel. Ezt követően a Házszabály-értelmezésért felelős bizottság előadója ismerteti a bizottság állásfoglalását és annak indokait. A képviselőcsoportok álláspontját csoportonként egy-egy képviselő fejtheti ki és véleményt nyilváníthat az elsőként szólásra jelentkező független képviselő is. Az e bekezdésben foglalt felszólalások nem haladhatják meg az öt percet.
+## (5)[^180] A plenáris ülésen való tárgyalás során először az Országgyűlés döntését indítványozó képviselőcsoporthoz tartozó képviselő, illetve független képviselő szólal fel. Ezt követően a Házszabály-értelmezésért felelős bizottság előadója ismerteti a bizottság állásfoglalását és annak indokait. A képviselőcsoportok álláspontját csoportonként egy-egy képviselő fejtheti ki és véleményt nyilváníthat az elsőként szólásra jelentkező független képviselő is. Az e bekezdésben foglalt felszólalások nem haladhatják meg az öt percet.
 
-## (6)[^180] A képviselőcsoportok, illetve a szólásra elsőként jelentkezett független képviselő álláspontjának elhangzását követően képviselőcsoportonként legfeljebb egy képviselő, illetve a szólásra elsőként jelentkező független képviselő három-három percben hozzászólhat.
+## (6)[^181] A képviselőcsoportok, illetve a szólásra elsőként jelentkezett független képviselő álláspontjának elhangzását követően képviselőcsoportonként legfeljebb egy képviselő, illetve a szólásra elsőként jelentkező független képviselő három-három percben hozzászólhat.
 
-## (7)[^181] Az (5)–(6) bekezdés szerinti felszólások után az Országgyűlés döntését indítványozó képviselőcsoporthoz tartozó képviselő, illetve független képviselő, majd a Házszabály-értelmezésért felelős bizottság előadója öt percben hozzászólhat.
+## (7)[^182] Az (5)–(6) bekezdés szerinti felszólások után az Országgyűlés döntését indítványozó képviselőcsoporthoz tartozó képviselő, illetve független képviselő, majd a Házszabály-értelmezésért felelős bizottság előadója öt percben hozzászólhat.
 
-## (8)[^182] Az Országgyűlés a (5)–(7) bekezdések szerinti felszólalások után dönt az állásfoglalásra vonatkozó kérelemről.
+## (8)[^183] Az Országgyűlés a (5)–(7) bekezdések szerinti felszólalások után dönt az állásfoglalásra vonatkozó kérelemről.
 
-## (9)[^183] Az Országgyűlés ellenkező döntéséig a Házszabály-értelmezésért felelős bizottság állásfoglalását alkalmazni kell.
+## (9)[^184] Az Országgyűlés ellenkező döntéséig a Házszabály-értelmezésért felelős bizottság állásfoglalását alkalmazni kell.
 
 ## 3. Fejezet
 
@@ -150,7 +150,7 @@
 
 ## (1) Az Országgyűlés Hivatala (a továbbiakban: Hivatal) az Országgyűlés munkaszervezete. Feladata, hogy biztosítsa az Országgyűlés folyamatos működését és segítse a képviselők és az Országgyűlés tisztségviselői tevékenységét.
 
-## (2)[^184] Az Országgyűlés hivatali szervei a Főtitkárság, a Gazdasági Főigazgatóság, a Külügyi Hivatal, az Országgyűlési Könyvtár, valamint a Szervezeti és Működési Szabályzatban meghatározott más szervek.
+## (2)[^185] Az Országgyűlés hivatali szervei a Főtitkárság, a Gazdasági Főigazgatóság, a Külügyi Hivatal, az Országgyűlési Könyvtár, valamint a Szervezeti és Működési Szabályzatban meghatározott más szervek.
 
 ## 145. §
 
@@ -166,7 +166,7 @@
 
 ## e) közreműködik az Országgyűlés ülései zavartalan menetének biztosításában, jogi-szakmai segítséget nyújt az elnöknek, illetve az alelnöknek az ülések vezetésénél;
 
-## f)[^185] gondoskodik az Országgyűlés jegyzőkönyvének elkészítéséről és kiadásáról, valamint az Országgyűlési Napló megjelentetéséről;
+## f)[^186] gondoskodik az Országgyűlés jegyzőkönyvének elkészítéséről és kiadásáról, valamint az Országgyűlési Napló megjelentetéséről;
 
 ## g) szerkeszti, illetve kihirdetésre előkészíti a törvényeket és az Országgyűlés határozatait;
 
@@ -174,19 +174,19 @@
 
 ## i) közreműködik az Országgyűlés bizottságai üléseinek előkészítésében, gondoskodik a meghívók és a tárgyalási anyagok kézbesítéséről, ellátja a bizottságok adminisztrációját;
 
-## j)[^186] gondoskodik a képviselők tájékoztatásáról és a tájékoztatást szolgáló információs rendszer működtetéséről;
+## j)[^187] gondoskodik a képviselők tájékoztatásáról és a tájékoztatást szolgáló információs rendszer működtetéséről;
 
-## k)[^187] az elfogadott és az előterjesztő kézjegyével ellátott törvényeket, országgyűlési határozatokat és egyéb döntéseket az elfogadástól számított három munkanapon belül az Országgyűlés elnökének megküldi, és gondoskodik a parlamenti információs rendszerben történő hozzáférhetőségről;
+## k)[^188] az elfogadott és az előterjesztő kézjegyével ellátott törvényeket, országgyűlési határozatokat és egyéb döntéseket az elfogadástól számított három munkanapon belül az Országgyűlés elnökének megküldi, és gondoskodik a parlamenti információs rendszerben történő hozzáférhetőségről;
 
-## l)[^188] végrehajtja az Országgyűlés elnökének az üléstermi rend fenntartására vonatkozó utasításait, továbbá felügyel arra, hogy az Országgyűlés és a bizottságok tanácskozásain illetéktelenek ne tartózkodjanak;
+## l)[^189] végrehajtja az Országgyűlés elnökének az üléstermi rend fenntartására vonatkozó utasításait, továbbá felügyel arra, hogy az Országgyűlés és a bizottságok tanácskozásain illetéktelenek ne tartózkodjanak;
 
-## m)[^189] ellátja az Országgyűlés, valamint az országgyűlési bizottságok zárt üléseivel, továbbá a saját működésével összefüggő titkos ügyviteli és ügykezelési feladatokat.
+## m)[^190] ellátja az Országgyűlés, valamint az országgyűlési bizottságok zárt üléseivel, továbbá a saját működésével összefüggő titkos ügyviteli és ügykezelési feladatokat.
 
 ## (2) A Hivatal az Országgyűlés gazdasági, műszaki és általános igazgatási ügyeinek intézése keretében
 
-## a)[^190] kidolgozza és végrehajtja az Országgyűlés Hivatala költségvetését;
+## a)[^191] kidolgozza és végrehajtja az Országgyűlés Hivatala költségvetését;
 
-## b)[^191] működteti az Országgyűlés Hivatala kezelésében lévő ingatlan és ingó vagyont;
+## b)[^192] működteti az Országgyűlés Hivatala kezelésében lévő ingatlan és ingó vagyont;
 
 ## c) ellátja az Országgyűlés működésével kapcsolatos általános igazgatási és ügyviteli feladatokat;
 
@@ -194,11 +194,11 @@
 
 ## e) gondoskodik a képviselőket és a képviselőcsoportokat megillető jogosultságok biztosításáról;
 
-## f)[^192] végrehajtja az Országgyűlés elnökének az Országgyűlés biztonságának megóvására vonatkozó utasításait;
+## f)[^193] végrehajtja az Országgyűlés elnökének az Országgyűlés biztonságának megóvására vonatkozó utasításait;
 
 ## g) kialakítja az Országgyűlés üléstermében — a parlamenti hagyományoknak megfelelően, a képviselőcsoport-vezetőkkel és a független képviselők megbízottjával történt egyeztetés után — a képviselőcsoportok helyét és a képviselők ülésrendjét;
 
-## h)[^193] felügyel arra, hogy az Országgyűlés Hivatala kezelésében lévő épületekben illetéktelenek ne tartózkodjanak és gondoskodik a belépők, parkolójegyek kiadásáról;
+## h)[^194] felügyel arra, hogy az Országgyűlés Hivatala kezelésében lévő épületekben illetéktelenek ne tartózkodjanak és gondoskodik a belépők, parkolójegyek kiadásáról;
 
 ## i) ellátja az Országgyűlés Hivatalával kapcsolatos személyzeti és munkaügyi feladatokat.
 
@@ -210,7 +210,7 @@
 
 ## c) közreműködik az Országgyűlés elnökének az Országgyűlésben képviselettel nem rendelkező pártokkal, valamint az érdekképviseleti és társadalmi szervezetekkel való kapcsolatának szervezésében.
 
-## (4)[^194] A Hivatal az Országgyűlés két- és többoldalú nemzetközi kapcsolataival összefüggő hivatali tevékenység ellátása keretében:
+## (4)[^195] A Hivatal az Országgyűlés két- és többoldalú nemzetközi kapcsolataival összefüggő hivatali tevékenység ellátása keretében:
 
 ## a) közreműködik az Országgyűlés nemzetközi kapcsolatainak szervezésében;
 
@@ -228,7 +228,7 @@
 
 ## c) biztosítja a sajtó munkatársainak tájékoztatását az Országgyűlés működéséről.
 
-## (6)[^195] A Hivatal az Országgyűlés könyvtári, szakirodalmi információs ellátása keretében:
+## (6)[^196] A Hivatal az Országgyűlés könyvtári, szakirodalmi információs ellátása keretében:
 
 ## a) gondoskodik a könyvtári dokumentumok – különös tekintettel a sajtótermékek ingyenes kötelespéldányára – állománybavételéről és bibliográfiai feldolgozásáról,
 
@@ -242,13 +242,13 @@
 
 ## A képviselőcsoportok tevékenységét segítő szakértőket és ügyviteli dolgozókat a gazdasági főigazgató, a képviselőcsoport vezetőjének javaslatára, alkalmazza. A gazdasági főigazgató — jogszabálysértés esetét kivéve — a képviselőcsoport vezetőjének javaslatait az alkalmazás, illetve annak megszüntetése tárgyában köteles elfogadni. E dolgozókkal szemben az egyéb munkáltatói jogokat — átruházott hatáskörben — a képviselőcsoport vezetője gyakorolja.
 
-## 146/A. §[^196]
+## 146/A. §[^197]
 
 ## Az európai parlamenti képviselőcsoportok tevékenységét segítő szakértőket és ügyviteli dolgozókat a gazdasági főigazgató, a képviselőcsoport vezetőjének javaslatára, alkalmazza. A gazdasági főigazgató – jogszabálysértés esetét kivéve – az európai parlamenti képviselőcsoport vezetőjének javaslatait az alkalmazás, illetve annak megszüntetése tárgyában köteles elfogadni. E dolgozókkal szemben az egyéb munkáltatói jogokat – átruházott hatáskörben – az európai parlamenti képviselőcsoport vezetője gyakorolja.
 
 ## Az Országgyűlési Könyvtár
 
-## 147. §[^197]
+## 147. §[^198]
 
 ## (1) Az Országgyűlési Könyvtár prézens könyvtárként, az állam- és jogtudomány, a politikatudomány, a legújabbkori magyar és egyetemes történelem, valamint a magyar parlament dokumentumainak országos feladatkörű tudományos, nyilvános szakkönyvtára és információs központja. Országos tudományos szakkönyvtári kiemelt feladata e körben a hazai szakirodalom teljes körű és a külföldi szakirodalom válogató jellegű beszerzése és feldolgozása. A külföldi parlamentek, az ENSZ és szakosított szervezetei, valamint az európai integrációs szervezetek kiadványainak gyűjtése és feldolgozása.
 
@@ -262,47 +262,47 @@
 
 ## 148. §
 
-## (1)[^198] Ez az országgyűlési határozat — a 44. § (2)—(3) bekezdése kivételével — kihirdetését követő 8. napon lép hatályba. E határozat hatálybalépése előtt napirendre került ügyek — külön intézkedés nélkül — a tárgysorozat részét képezik. Abban az ügyben, amelyben e határozat hatálybalépése előtt az általános vita megkezdődött, az eljárási kérdések tekintetében a hatálybalépés előtti rendelkezéseket kell alkalmazni.
+## (1)[^199] Ez az országgyűlési határozat — a 44. § (2)—(3) bekezdése kivételével — kihirdetését követő 8. napon lép hatályba. E határozat hatálybalépése előtt napirendre került ügyek — külön intézkedés nélkül — a tárgysorozat részét képezik. Abban az ügyben, amelyben e határozat hatálybalépése előtt az általános vita megkezdődött, az eljárási kérdések tekintetében a hatálybalépés előtti rendelkezéseket kell alkalmazni.
 
 ## (2) Ezen országgyűlési határozat
 
 ## a) 44. § (2)—(3) bekezdésének hatálybalépéséről külön törvény rendelkezik,
 
-## b)[^199]
+## b)[^200]
 
 ## (3) Ezen országgyűlési határozat hatálybalépésével egyidejűleg hatályát veszti az Országgyűlés Házszabályainak módosításáról és egységes szövegéről szóló 8/1989. (VI. 8.) OGY határozat, továbbá az ezt módosító 31/1990. (III. 25.) OGY határozat, 74/1990. (X. 26.) OGY határozat, 25/1991. (IV. 20.) OGY határozat, 53/1991. (X. 5.) OGY határozat, 69/1991. (XII. 14.) OGY határozat, 51/1992. (IX. 11.) OGY határozat, 65/1992. (X. 16.) OGY határozat, 74/1992. (XI. 6.) OGY határozat és 75/1992. (XI. 6.) OGY határozat.
 
 1. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz
 
-[^168]: A 135. § (1) bekezdése a 103/2001. (XII. 21.) OGY határozat 5. §-ának (1) bekezdésével megállapított szöveg.
-[^169]: A 135. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
-[^170]: A 135. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
-[^171]: A 135. § (4) bekezdése a 103/2001. (XII. 21.) OGY határozat 5. §-ának (2) bekezdésével megállapított szöveg.
-[^172]: A 139. § (2) bekezdése a 34/2001. (VI. 1.) OGY határozat 9. §-ával megállapított szöveg.
-[^173]: A 139. § (3) bekezdését a 34/2001. (VI. 1.) OGY határozat 9. §-a iktatta a szövegbe.
-[^174]: A 140. § (1) bekezdése a 103/2007. (XII. 6.) OGY határozat 23. §-ával megállapított szöveg.
-[^175]: Lásd az Országgyűlés elnökének a Magyar Közlöny 1995. évi 25., 1996. évi 20., 1997. évi 30., 1998. évi 19., 2000. évi 50., 2001. évi 44., 2002. évi 77. és 2003. évi 58., 2004. évi 72., 2005. évi 69., 2006. évi 71., 2007. évi 81., 2008. évi 94., a Hivatalos Értesítő 2009. évi 24. számában megjelent közleményét.
-[^176]: A 142. § 9. pontja a 71/1997. (VII. 17.) OGY határozat 48. §-ával megállapított szöveg.
-[^177]: A 143. § (3) bekezdése a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
-[^178]: A 143. § (4) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
-[^179]: A 143. § (5) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
-[^180]: A 143. § (6) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
-[^181]: A 143. § (7) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
-[^182]: A 143. § (8) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta a szövegbe.
-[^183]: A 143. § (9) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta a szövegbe.
-[^184]: A 144. § (2) bekezdése a 68/2004. (VI. 22.) OGY határozat 3. §-ával megállapított szöveg.
-[^185]: A 145. § (1) bekezdésének f) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (1) bekezdésével megállapított szöveg.
-[^186]: A 145. § (1) bekezdésének j) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdésével megállapított szöveg.
-[^187]: A 145. § (1) bekezdésének k) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdésével megállapított szöveg.
-[^188]: A 145. § (1) bekezdésének l) pontját a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdése iktatta a szövegbe.
-[^189]: A 145. § (1) bekezdésének m) pontját a 34/2001. (VI. 1.) OGY határozat 10. §-a iktatta a szövegbe.
-[^190]: A 145. § (2) bekezdésének a) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (1) bekezdésével megállapított szöveg.
-[^191]: A 145. § (2) bekezdésének b) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (1) bekezdésével megállapított szöveg.
-[^192]: A 145. § (2) bekezdésének f) pontja a 71/1997. (VII. 17.) OGY határozat 52. §-ának (1) bekezdésével megállapított szöveg.
-[^193]: A 145. § (2) bekezdésének h) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (2) bekezdésével megállapított szöveg.
-[^194]: A 145. § (4) bekezdése a 68/2004. (VI. 22.) OGY határozat 4. §-ával megállapított szöveg.
-[^195]: A 145. § (6) bekezdését a 71/1997. (VII. 17.) OGY határozat 52. §-ának (3) bekezdése iktatta a szövegbe.
-[^196]: A 146/A. §-t a 68/2004. (VI. 22.) OGY határozat 5. §-a iktatta be.
-[^197]: A 147. § a 71/1997. (VII. 17.) OGY határozat 53. §-ával megállapított szöveg.
-[^198]: A 148. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
-[^199]: A 148. § (2) bekezdésének b) pontját a 71/1997. (VII. 17.) OGY határozat 54. §-a hatályon kívül helyezte.
+[^169]: A 135. § (1) bekezdése a 103/2001. (XII. 21.) OGY határozat 5. §-ának (1) bekezdésével megállapított szöveg.
+[^170]: A 135. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
+[^171]: A 135. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
+[^172]: A 135. § (4) bekezdése a 103/2001. (XII. 21.) OGY határozat 5. §-ának (2) bekezdésével megállapított szöveg.
+[^173]: A 139. § (2) bekezdése a 34/2001. (VI. 1.) OGY határozat 9. §-ával megállapított szöveg.
+[^174]: A 139. § (3) bekezdését a 34/2001. (VI. 1.) OGY határozat 9. §-a iktatta a szövegbe.
+[^175]: A 140. § (1) bekezdése a 103/2007. (XII. 6.) OGY határozat 23. §-ával megállapított szöveg.
+[^176]: Lásd az Országgyűlés elnökének a Magyar Közlöny 1995. évi 25., 1996. évi 20., 1997. évi 30., 1998. évi 19., 2000. évi 50., 2001. évi 44., 2002. évi 77. és 2003. évi 58., 2004. évi 72., 2005. évi 69., 2006. évi 71., 2007. évi 81., 2008. évi 94., a Hivatalos Értesítő 2009. évi 24. számában megjelent közleményét.
+[^177]: A 142. § 9. pontja a 71/1997. (VII. 17.) OGY határozat 48. §-ával megállapított szöveg.
+[^178]: A 143. § (3) bekezdése a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
+[^179]: A 143. § (4) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
+[^180]: A 143. § (5) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
+[^181]: A 143. § (6) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
+[^182]: A 143. § (7) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta be, szövege a 103/2007. (XII. 6.) OGY határozat 24. §-ával megállapított szöveg.
+[^183]: A 143. § (8) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta a szövegbe.
+[^184]: A 143. § (9) bekezdését a 71/1997. (VII. 17.) OGY határozat 49. §-a iktatta a szövegbe.
+[^185]: A 144. § (2) bekezdése a 68/2004. (VI. 22.) OGY határozat 3. §-ával megállapított szöveg.
+[^186]: A 145. § (1) bekezdésének f) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (1) bekezdésével megállapított szöveg.
+[^187]: A 145. § (1) bekezdésének j) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdésével megállapított szöveg.
+[^188]: A 145. § (1) bekezdésének k) pontja a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdésével megállapított szöveg.
+[^189]: A 145. § (1) bekezdésének l) pontját a 71/1997. (VII. 17.) OGY határozat 51. §-ának (2) bekezdése iktatta a szövegbe.
+[^190]: A 145. § (1) bekezdésének m) pontját a 34/2001. (VI. 1.) OGY határozat 10. §-a iktatta a szövegbe.
+[^191]: A 145. § (2) bekezdésének a) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (1) bekezdésével megállapított szöveg.
+[^192]: A 145. § (2) bekezdésének b) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (1) bekezdésével megállapított szöveg.
+[^193]: A 145. § (2) bekezdésének f) pontja a 71/1997. (VII. 17.) OGY határozat 52. §-ának (1) bekezdésével megállapított szöveg.
+[^194]: A 145. § (2) bekezdésének h) pontja a 103/2001. (XII. 21.) OGY határozat 6. §-ának (2) bekezdésével megállapított szöveg.
+[^195]: A 145. § (4) bekezdése a 68/2004. (VI. 22.) OGY határozat 4. §-ával megállapított szöveg.
+[^196]: A 145. § (6) bekezdését a 71/1997. (VII. 17.) OGY határozat 52. §-ának (3) bekezdése iktatta a szövegbe.
+[^197]: A 146/A. §-t a 68/2004. (VI. 22.) OGY határozat 5. §-a iktatta be.
+[^198]: A 147. § a 71/1997. (VII. 17.) OGY határozat 53. §-ával megállapított szöveg.
+[^199]: A 148. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
+[^200]: A 148. § (2) bekezdésének b) pontját a 71/1997. (VII. 17.) OGY határozat 54. §-a hatályon kívül helyezte.
