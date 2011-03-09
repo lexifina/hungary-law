@@ -30,7 +30,9 @@ h) kezeli a központi okmánytárat;
 
 m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
 
-n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat.
+n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat;
+
+o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 

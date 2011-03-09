@@ -6,7 +6,7 @@
 
 a) nevét;
 
-b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
+b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
 
 c) nemét;
 
@@ -26,7 +26,7 @@ j) adataiból történő rendszeres adatszolgáltatásra vonatkozó jelzést;
 
 k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
 
-l) arcképmását, valamint – ha a 14. életévét betöltötte – aláírását;
+l) arcképmását és – ha a 14. életévét betöltötte – aláírását, ha személyazonosító igazolványra jogosult;
 
 m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját.
 

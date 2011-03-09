@@ -10,7 +10,7 @@
 
 (4) A polgár lakcím adata: bejelentett lakóhelyének, illetve tartózkodási helyének címe (a továbbiakban együtt: lakcím).
 
-(5) A törvény hatálya alá tartozó, külföldön élő magyar állampolgár [4. § (2) bekezdés] lakóhelye annak a külföldi lakásnak a címe, amelyet otthonául megjelöl.
+(5)
 
 (6) A személyazonosító jel: a nyilvántartás hatálya alá tartozó polgárok egyedi azonosítására szolgáló, matematikai módszerrel, e törvény mellékletében leírt módon képzett kódjel.
 

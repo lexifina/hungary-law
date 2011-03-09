@@ -12,4 +12,6 @@ e) a központi menekültügyi szerv a törvényben meghatározott feladatai ell�
 
 f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
-f) az anyakönyvvezető.
+g) az anyakönyvvezető;
+
+h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához.

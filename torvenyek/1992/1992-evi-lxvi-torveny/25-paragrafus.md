@@ -14,7 +14,7 @@ d) a peres felek a családjogi és házassági bontóperben, a bejegyzett élett
 
 e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, a bíróságnak, az anyakönyvvezetőnek, illetve egyéb jogszabály alapján az eljárásban közreműködő szervnek;
 
-f) a konzuli hatóságnak olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
+f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 
 g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 

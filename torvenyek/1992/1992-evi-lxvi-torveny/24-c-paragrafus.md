@@ -1,0 +1,1 @@
+24/C. § A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárról a magyar állampolgársága megszerzéséig a nyilvántartásból – saját nyilvántartott adatról való tájékoztatás kivételével – nem teljesíthető adatszolgáltatás.

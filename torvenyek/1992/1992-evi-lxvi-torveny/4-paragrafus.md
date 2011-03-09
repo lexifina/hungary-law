@@ -4,9 +4,23 @@
 
 a) a Magyar Köztársaság területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják.
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják,
 
-(2) A külföldön élő, illetőleg a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyó magyar állampolgárok akkor tartoznak a törvény hatálya alá, ha – a magyar állampolgárságuk igazolása után – kérik adataiknak a nyilvántartásba való felvételét, illetőleg meglévő adataik további kezelését. Adataikat kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
+c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
+
+d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
+
+(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
+
+(2a) A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha
+
+a) a Magyar Köztársaság területén kívül élő állampolgár kéri adatai nyilvántartásba való felvételét,
+
+b) a Magyar Köztársaság területét külföldi letelepedés szándékával elhagyó magyar állampolgár kéri meglévő adatai további kezelését, vagy
+
+c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez.
+
+(2b) A külföldön élő magyar állampolgárok adatait kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
 
 (3) E törvény hatálya kiterjed:
 
