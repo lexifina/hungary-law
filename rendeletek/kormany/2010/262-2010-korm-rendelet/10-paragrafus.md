@@ -22,4 +22,6 @@ b) a szerződés megkötése a nyertes pályázónak felróható, vagy az ő ér
 
 (7) A biztosíték összegének visszafizetését banki átutalással kell teljesíteni a pályázó által a pályázatában megadott bankszámlaszámra, ennek hiányában a visszafizetés készpénz-átutalással postai úton történik.
 
-(8) Az NFA a regisztrációs díj és a biztosíték után kamatot nem fizet, kivéve, ha e §-ban előírt visszafizetési határidőt elmulasztja. Ez esetben a késedelmi kamat a Ptk. 301. §-ában és a 301/A. §-ában meghatározott mértékű.
+(8)[^8] Az NFA a regisztrációs díjra és a biztosítékra kamatot nem fizet. Ha azonban az e §-ban előírt visszafizetési határidőt elmulasztja, akkor a Ptk. 301. § és 301/A. §-a szerinti késedelmi kamat egyidejű megfizetésére köteles.
+
+[^8]: A 10. § (8) bekezdése a 11/2011. (II. 22.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
