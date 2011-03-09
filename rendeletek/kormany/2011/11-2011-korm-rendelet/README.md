@@ -1,0 +1,9 @@
+# 11/2011. (II. 22.) Korm. rendelet
+
+a Nemzeti Földalap vagyonnyilvántartásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-03-09 | 2011-11-20-22.1 | 11/2011. (II. 22.) Korm. rendelet |

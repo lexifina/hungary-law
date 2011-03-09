@@ -1,0 +1,1 @@
+## 7. § A vagyonnyilvántartás vezetésének részletes szabályait az NFA – az agrárpolitikáért felelős miniszter által jóváhagyott – szabályzatban határozza meg. A szabályzatot az NFA a honlapján közzéteszi.
