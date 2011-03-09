@@ -24,7 +24,7 @@ E harmadik szakértőnek az adott szakterületen szerzett legalább hároméves 
 
 (8)[^16] A Hivatal a kerettanterveket, a mellékletekkel és az OKNT javaslatával együtt, döntésre előkészítve – öt napon belül – felterjeszti az oktatási és kulturális miniszterhez (a továbbiakban: miniszter).
 
-(9) A miniszter a kerettanterv jóváhagyásáról, illetve elutasításáról – az OKNT, illetve, ha a kerettanterv a nemzeti, etnikai kisebbségi oktatást szolgálja, az Országos Kisebbségi Bizottság egyetértésének kikérése után és a Közoktatás-politikai Tanács véleményének figyelembevételével – az iratok megérkezésétől számított húsz napon belül – dönt.
+(9)[^17] A miniszter a kerettanterv jóváhagyásáról, illetve elutasításáról – az OKNT, illetve, ha a kerettanterv a nemzeti, etnikai kisebbségi oktatást szolgálja, az Országos Kisebbségi Bizottság egyetértésének kikérése után és a Közoktatás-politikai Tanács véleményének figyelembevételével – az iratok megérkezését követő naptól számított húsz napon belül – dönt.
 
 (10) A vallásilag vagy világnézetileg elkötelezett és az alternatív iskolák kerettantervét jóváhagyó határozatban ezeket a tényeket fel kell tüntetni.
 
@@ -34,3 +34,4 @@ E harmadik szakértőnek az adott szakterületen szerzett legalább hároméves 
 [^14]: Az 5. § (5) bekezdése a 2/2008. (II. 8.) OKM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. február 16. napját követően indult eljárásokban kell alkalmazni.
 [^15]: Az 5. § (7) bekezdésének második mondata a 2/2008. (II. 8.) OKM rendelet 5. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. február 16. napját követően indult eljárásokban kell alkalmazni.
 [^16]: Az 5. § (8) bekezdése a 9/2007. (II. 27.) OKM rendelet 4. § (2) bekezdése, a 2/2008. (II. 8.) OKM rendelet 5. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. február 16. napját követően indult eljárásokban kell alkalmazni.
+[^17]: Az 5. § (9) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 2. §-a szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

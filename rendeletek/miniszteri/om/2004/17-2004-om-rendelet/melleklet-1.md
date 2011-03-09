@@ -1,6 +1,6 @@
 1. számú melléklet a 17/2004. (V. 20.) OM rendelethez
 
-A miniszter által kiadott kerettantervek[^27]
+A miniszter által kiadott kerettantervek[^28]
 
 KERETTANTERV
 
@@ -18,7 +18,7 @@ A kerettanterv operacionalizálja a Nemzeti alaptanterv fejlesztési feladataina
 
 E választható kerettanterv tantárgyakra és évfolyamokra bontja a Nat-2003 „Kiemelt fejlesztési feladatait” és a tíz műveltségi terület fejlesztési feladatait.
 
-A tantárgyi kerettantervek évfolyamonként ismétlődő szerkezeti egységei általában a következők:[^28]
+A tantárgyi kerettantervek évfolyamonként ismétlődő szerkezeti egységei általában a következők:[^29]
 
 Belépő tevékenységformák: A Nemzeti alaptanterv fejlesztési feladatainak megvalósításához nélkülözhetetlen; mind a képességfejlesztésben, mind a tantárgy tartalmainak elsajátításában meghatározó – évfolyamonként belépő – gondolati műveleteket, információszerző és -feldolgozó eljárásokat, szóbeli, írásbeli, rajzi-manuális, mozgásos stb. tevékenységeket tartalmaz e tantervi egység. E tevékenységek a tantárgy tartalmainak megfelelően változatosak: a tanulók munkába veszik mindennapi tapasztalataikat, információkat gyűjtenek írott szövegekből, elektronikus adatbázisokból, megfigyelnek, kísérleteznek, különféle műfajokban megnyilatkoznak szóban és írásban, manuális és zenei tevékenységeket végeznek, modelleket építenek, értelmeznek, különféle anyagokkal, tárgyakkal munkálkodnak, szabályokat, törvényszerűségeket alkalmaznak, stb.
 
@@ -3990,5 +3990,5 @@ Hallott szöveg értése
 
 A tanuló
 
-[^27]: Az 1. számú melléklet címe a 9/2007. (II. 27.) OKM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^28]: Az 1–4. évfolyam szerkezetére vonatkozó eltérést lásd az 1–4. évfolyamos kerettanterv bevezetőjében.
+[^28]: Az 1. számú melléklet címe a 9/2007. (II. 27.) OKM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^29]: Az 1–4. évfolyam szerkezetére vonatkozó eltérést lásd az 1–4. évfolyamos kerettanterv bevezetőjében.
