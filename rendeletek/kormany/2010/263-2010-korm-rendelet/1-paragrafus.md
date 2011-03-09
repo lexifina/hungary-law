@@ -10,6 +10,9 @@ c) olyan földrészlet, amelyen harmadik személynek fennálló joga vagy követ
 
 (3) A (2) bekezdés b) pontjában meghatározott 50%-os területi határ megállapításánál az erdőt, és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet figyelmen kívül kell hagyni.
 
-(4) A hirdetmény közzétételét megelőzően a tulajdonba vagy vagyonkezelésbe adásra kijelölt földrészletek forgalmi értékbecslését az NFA köteles elvégeztetni. Az értékbecslést – az agrárgazdasági és agrár-vidékfejlesztési szakterületeken a szakértői tevékenység végzésének feltételeiről szóló rendelet alapján – az agrár-vidékfejlesztésért és az erdőgazdálkodásért felelős miniszter által termőföld-értékbecslés szakterületet érintően nyilvántartásba vett szakértő vagy az NFA-nak az (5) bekezdésben meghatározott feltételeknek megfelelő alkalmazottja végezhet. Az NFA alkalmazottja akkor végezhet értékbecslést, ha a tulajdonba vagy vagyonkezelésbe adásra kijelölt önálló helyrajzi számú földrészlet területnagysága nem haladja meg az egy hektárt.
+(4)[^1] A hirdetmény közzétételét megelőzően a tulajdonba vagy vagyonkezelésbe adásra kijelölt földrészletek forgalmi értékbecslését az NFA köteles elvégeztetni. Értékbecslést a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendeletben meghatározott szakértő, illetve NFA által vezetett értékbecslői névjegyzékben szereplő személy vagy gazdálkodó szervezet végezhet.
 
-(5) Értékbecslést az NFA olyan alkalmazottja végezhet, aki a (4) bekezdésben meghatározott rendeletben a termőföld-értékbecslés szakterületre előírt képesítési feltételekkel, és e képesítésnek megfelelő legalább háromévi szakmai gyakorlattal rendelkezik.
+(5)[^2]
+
+[^1]: Az 1. § (4) bekezdése a 11/2011. (II. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^2]: Az 1. § (5) bekezdését a 11/2011. (II. 22.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
