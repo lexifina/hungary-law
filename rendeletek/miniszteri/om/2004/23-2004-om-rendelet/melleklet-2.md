@@ -518,6 +518,6 @@
 
 | 9. | Esztétikai-művészeti Tudatosság és kifejezőképesség |  |  |  |  |  |  |  |  |  |  |
 
-2. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^106]
+2. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^107]
 
-[^106]: A 2. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (1) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 18. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^107]: A 2. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (1) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 18. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.

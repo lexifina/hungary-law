@@ -1,4 +1,4 @@
-## 7. §[^20] A Hivatal a beérkezett kérelmeket és mellékleteiket megvizsgálja. Ha a kérelem és mellékletei megfelelnek az e rendeletben meghatározott követelményeknek, a Hivatal – legfeljebb húsz munkanapos határidő kitűzésével – szakértőket rendel ki a benyújtott könyv véleményezésére. A 3. § (1) bekezdésében, valamint az 5. § (4) és (6) bekezdéseiben szabályozott eljárás esetén legalább egy szakértőt kell kirendelni.
+## 7. §[^21] A Hivatal a beérkezett kérelmeket és mellékleteiket megvizsgálja. Ha a kérelem és mellékletei megfelelnek az e rendeletben meghatározott követelményeknek, a Hivatal – legfeljebb huszonöt napos határidő kitűzésével – szakértőket rendel ki a benyújtott könyv véleményezésére. A 3. § (1) bekezdésében, valamint az 5. § (4) és (6) bekezdéseiben szabályozott eljárás esetén legalább egy szakértőt kell kirendelni.
 
 8. § (1) A tankönyvvé nyilvánítási eljárásban – a közoktatásról szóló törvény 122. §-ának (4) bekezdésében meghatározottak mellett – vizsgálni kell, hogy a könyv alkalmas-e
 
@@ -16,27 +16,27 @@ c) szakmai tankönyv esetén a Szakképzés központi programjában (tantervébe
 
 d) alternatív iskola esetén az alternatív iskolák részére kiadott kerettantervben meghatározottak szerint az adott alternatív oktatás céljainak megvalósítását szolgáló követelmények közvetítésére;
 
-e)[^21] középiskolai tankönyv esetében az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendeletben foglalt gimnáziumi és szakközépiskolai érettségi vizsgák egyes tantárgyakhoz rendelt részletes vizsgakövetelményeire való felkészítésre,
+e)[^22] középiskolai tankönyv esetében az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendeletben foglalt gimnáziumi és szakközépiskolai érettségi vizsgák egyes tantárgyakhoz rendelt részletes vizsgakövetelményeire való felkészítésre,
 
-f)[^22] a felhasznált kerettanterv(ek)hez vagy helyi tanterv(ek)hez készült tankönyv követelményrendszerének az adott tantervek követelményrendszerével való megegyezés megvalósítására,
+f)[^23] a felhasznált kerettanterv(ek)hez vagy helyi tanterv(ek)hez készült tankönyv követelményrendszerének az adott tantervek követelményrendszerével való megegyezés megvalósítására,
 
-g)[^23] a megnevezett évfolyam számára a felhasznált tantervek által javasolt időkeretek között a tananyag elsajátítására.
+g)[^24] a megnevezett évfolyam számára a felhasznált tantervek által javasolt időkeretek között a tananyag elsajátítására.
 
 (2) A tankönyvvé nyilvánítási eljárás során vizsgálni kell, hogy
 
-a)[^24] a könyv
+a)[^25] a könyv
 
 aa) a tanítási-tanulási folyamatban a szaktudományok eredményeit az adott évfolyam(ok)on tanuló diákok tipikus fejlettségi szintjéhez igazodóan, a kognitív fejlődés törvényszerűségeinek figyelembevételével a Nemzeti alaptanterv összefüggésrendszerében jeleníti-e meg, és az ismeretek elsajátítását az életkornak megfelelően differenciált didaktikai eszköztárral segíti-e;
 
-ab)[^25] tartalmazza-e az egyes tantárgyakhoz rendelt új szakszavak szószedetét, kivéve az idegen nyelvi könyvek esetében azokat a szakszavakat, amelyeket a magyar nyelv tanítása során a tanulók már elsajátítottak, az általános iskolában használt tankönyvek esetében azok rövid értelmezését, kivéve az általános iskola 1. évfolyamán alkalmazott tankönyveket, 2–4. évfolyamain alkalmazott matematika tankönyveket, valamint olvasókönyveket;
+ab)[^26] tartalmazza-e az egyes tantárgyakhoz rendelt új szakszavak szószedetét, kivéve az idegen nyelvi könyvek esetében azokat a szakszavakat, amelyeket a magyar nyelv tanítása során a tanulók már elsajátítottak, az általános iskolában használt tankönyvek esetében azok rövid értelmezését, kivéve az általános iskola 1. évfolyamán alkalmazott tankönyveket, 2–4. évfolyamain alkalmazott matematika tankönyveket, valamint olvasókönyveket;
 
 ac) segíti-e a képességek, készségek kialakítását;
 
 ad) alkalmazásában sajátos jelentéssel bíró szó valamely tudományág, szakma, tevékenységi kör nyelvhasználatában szakszónak minősül-e;
 
-ae)[^26] alkalmazásában új szakszó-e az, amely a megelőző tanítási időszakban még nem került alkalmazásra, és az adott évfolyamon az adott tantárgyhoz, műveltségterülethez kapcsolódóan a könyvben megjelenik, kivéve az idegen nyelvi könyvek esetében azokat a szakszavakat, amelyeket a magyar nyelv tanítása során a tanulók már elsajátítottak;
+ae)[^27] alkalmazásában új szakszó-e az, amely a megelőző tanítási időszakban még nem került alkalmazásra, és az adott évfolyamon az adott tantárgyhoz, műveltségterülethez kapcsolódóan a könyvben megjelenik, kivéve az idegen nyelvi könyvek esetében azokat a szakszavakat, amelyeket a magyar nyelv tanítása során a tanulók már elsajátítottak;
 
-af)[^27] vagy a könyvhöz tartozó munkafüzet idegen nyelvi könyvek esetében 1–8. évfolyamon tartalmaz-e kétnyelvű szószedetet a kiadvány végén, illetve – amennyiben a tankönyvvé nyilvánítási eljárásban benyújtott kérelmezői nyilatkozat szerint a kiadvány fogyasztói ára magában foglalja a könyvhöz szorosan hozzá kapcsolható szószedetet tartalmazó mellékletet is – a kiadvány mellékleteként;
+af)[^28] vagy a könyvhöz tartozó munkafüzet idegen nyelvi könyvek esetében 1–8. évfolyamon tartalmaz-e kétnyelvű szószedetet a kiadvány végén, illetve – amennyiben a tankönyvvé nyilvánítási eljárásban benyújtott kérelmezői nyilatkozat szerint a kiadvány fogyasztói ára magában foglalja a könyvhöz szorosan hozzá kapcsolható szószedetet tartalmazó mellékletet is – a kiadvány mellékleteként;
 
 b) a könyvhöz kapcsolódó kiadvány (pl. szöveggyűjtemény, feladatgyűjtemény, képletgyűjtemény, táblázat-gyűjtemény vagy képgyűjtemény, kottakiadvány, atlasz, munkafüzet, feladatlap, lexikon, hangfelvétel vagy audiovizuális mű, szótár, lexikon, tananyagelem, oktatóprogram, feladatbank) segítséget nyújt-e a könyvben foglaltak elsajátításához, illetve azok használatához, azzal szerves, elválaszthatatlan egységet alkot-e.
 
@@ -44,24 +44,24 @@ b) a könyvhöz kapcsolódó kiadvány (pl. szöveggyűjtemény, feladatgyűjtem
 
 a) összhangját az általános emberi normákkal, értékekkel, a humanizmus általános követelményeivel,
 
-b)[^28] tartalmaz-e az egyenlő bánásmód követelményét, a nemek egyenlőségét sértő vagy a nemzeti, etnikai, vallási közösségre nézve sértő, gyűlöletkeltő, illetve az esélyegyenlőtlenséget erősítő sztereotípiát, kijelentést, ábrát, fotót, grafikát,
+b)[^29] tartalmaz-e az egyenlő bánásmód követelményét, a nemek egyenlőségét sértő vagy a nemzeti, etnikai, vallási közösségre nézve sértő, gyűlöletkeltő, illetve az esélyegyenlőtlenséget erősítő sztereotípiát, kijelentést, ábrát, fotót, grafikát,
 
 c) mentes-e a politikai állásfoglalástól,
 
-d)[^29] ütközik-e az iskolai reklámcélú tevékenység korlátozására vonatkozó jogszabályi előírásokba [a továbbiakban az a)–d) pontok együtt: általános etikai követelmények].
+d)[^30] ütközik-e az iskolai reklámcélú tevékenység korlátozására vonatkozó jogszabályi előírásokba [a továbbiakban az a)–d) pontok együtt: általános etikai követelmények].
 
 (4) Az e §-ban meghatározottakat a tankönyvvé nyilvánítási eljárás során végig vizsgálni kell. Nem nyilvánítható tankönyvvé az a könyv, amelyik nem felel meg az (1)–(2) bekezdésben foglaltaknak, amelyik sérti az általános etikai követelményeket, illetve, ha a könyvhöz kapcsolódó kiadvány nem szolgálja a tankönyv alkalmazhatóságát.
 
-(5)[^30] Amennyiben a tankönyv nem az oktatási és kulturális miniszter által kihirdetett vagy jóváhagyott kerettantervhez, illetve az oktatási és kulturális miniszter által közzétett Világ-Nyelv Program: Idegen nyelvi program az 1–3. évfolyam számára (Ajánlás a 6–9 éves korosztály idegennyelv-tanításához) című ajánláshoz illeszkedik, csatolni kell az adott, a fenntartó által jóváhagyott helyi tantervet.
+(5)[^31] Amennyiben a tankönyv nem az oktatási és kulturális miniszter által kihirdetett vagy jóváhagyott kerettantervhez, illetve az oktatási és kulturális miniszter által közzétett Világ-Nyelv Program: Idegen nyelvi program az 1–3. évfolyam számára (Ajánlás a 6–9 éves korosztály idegennyelv-tanításához) című ajánláshoz illeszkedik, csatolni kell az adott, a fenntartó által jóváhagyott helyi tantervet.
 
-[^20]: A 7. § a 40/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított, a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^21]: A 8. § (1) bekezdésének e) pontja a 10/2006. (III. 27.) OM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
-[^22]: A 8. § (1) bekezdésének f) pontja a 10/2006. (III. 27.) OM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
-[^23]: A 8. § (1) bekezdésének g) pontját a 10/2006. (III. 27.) OM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
-[^24]: A 8. § (2) bekezdésének a) pontja a 10/2006. (III. 27.) OM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
-[^25]: A 8. § (2) bekezdés a) pont ab) alpontja a 7/2010. (II. 11.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^26]: A 8. § (2) bekezdése a) pontjának ae) alpontja a 40/2007. (XII. 22.) OKM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^27]: A 8. § (2) bekezdése a) pontjának af) alpontját a 40/2007. (XII. 22.) OKM rendelet 7. § (2) bekezdése iktatta be, szövege a 7/2010. (II. 11.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^28]: A 8. § (3) bekezdésének b) pontja a 40/2007. (XII. 22.) OKM rendelet 7. § (3) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^29]: A 8. § (3) bekezdés d) pontja a 7/2010. (II. 11.) OKM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^30]: A 8. § (5) bekezdését a 10/2006. (III. 27.) OM rendelet 5. § (5) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 7. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^21]: A 7. § a 40/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított, a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése, a 6/2011. (III. 8.) NEFMI rendelet 3. § a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^22]: A 8. § (1) bekezdésének e) pontja a 10/2006. (III. 27.) OM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
+[^23]: A 8. § (1) bekezdésének f) pontja a 10/2006. (III. 27.) OM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
+[^24]: A 8. § (1) bekezdésének g) pontját a 10/2006. (III. 27.) OM rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
+[^25]: A 8. § (2) bekezdésének a) pontja a 10/2006. (III. 27.) OM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni. Lásd még e módosító rendelet 23. § (3)–(4) bekezdését.
+[^26]: A 8. § (2) bekezdés a) pont ab) alpontja a 7/2010. (II. 11.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^27]: A 8. § (2) bekezdése a) pontjának ae) alpontja a 40/2007. (XII. 22.) OKM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^28]: A 8. § (2) bekezdése a) pontjának af) alpontját a 40/2007. (XII. 22.) OKM rendelet 7. § (2) bekezdése iktatta be, szövege a 7/2010. (II. 11.) OKM rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^29]: A 8. § (3) bekezdésének b) pontja a 40/2007. (XII. 22.) OKM rendelet 7. § (3) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^30]: A 8. § (3) bekezdés d) pontja a 7/2010. (II. 11.) OKM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^31]: A 8. § (5) bekezdését a 10/2006. (III. 27.) OM rendelet 5. § (5) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 7. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.

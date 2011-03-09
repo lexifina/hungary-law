@@ -1,8 +1,8 @@
 ## A TANKÖNYVJEGYZÉK
 
-18. §[^52] (1)[^53] A tankönyv tankönyvjegyzékre történő felvételét a kiadó kérheti a Hivataltól a Hivatal által felügyelt elektronikus rendszer segítségével írásban.
+18. §[^53] (1)[^54] A tankönyv tankönyvjegyzékre történő felvételét a kiadó kérheti a Hivataltól a Hivatal által felügyelt elektronikus rendszer segítségével írásban.
 
-(2)[^54] Az oktatási és kulturális miniszter az Oktatási és Kulturális Minisztérium honlapján minden év október 1-jéig közzéteszi azt az összeghatárt, amelynél magasabb fogyasztói ár alkalmazása esetén – függetlenül attól, hogy a tankönyv többszörözése és terjesztése üzletszerű vagy sem – a következő tanévben a tankönyv nem kerülhet fel a tankönyvjegyzékre. E rendelkezés alkalmazásában a tankönyv többszörözése és terjesztése akkor üzletszerű, ha annak célja a nyereség elérése vagy a vagyonszerzés.
+(2)[^55] Az oktatási és kulturális miniszter az Oktatási és Kulturális Minisztérium honlapján minden év október 1-jéig közzéteszi azt az összeghatárt, amelynél magasabb fogyasztói ár alkalmazása esetén – függetlenül attól, hogy a tankönyv többszörözése és terjesztése üzletszerű vagy sem – a következő tanévben a tankönyv nem kerülhet fel a tankönyvjegyzékre. E rendelkezés alkalmazásában a tankönyv többszörözése és terjesztése akkor üzletszerű, ha annak célja a nyereség elérése vagy a vagyonszerzés.
 
 (3) Az (1) bekezdés szerinti kérelem tartalmazza:
 
@@ -14,7 +14,7 @@ c) szakképzési tankönyvek esetében a kiadó nyilatkozatát a tankönyv forga
 
 d) a kiadó nyilatkozatát arról, hogy a tankönyvet a kiadó a Magyar Vakok és Gyengénlátók Országos Szövetsége részére – megkeresésre – elektronikus formában átadja a tankönyvpiac rendjéről szóló törvény rendelkezései szerint,
 
-e)[^55]
+e)[^56]
 
 f) azt a tényt, hogy a tankönyv a Nemzeti Fejlesztési Terv I. keretében kifejlesztett információ- vagy feladathordozó felhasználásával készült.
 
@@ -28,17 +28,17 @@ a) amelyeknek a felvételét a kiadó az adott év október 31-éig kérte;
 
 b) amelyeknek a tankönyvvé nyilvánításáról az adott év október 31-éig jogerős döntés született;
 
-c)[^56] amelyek legalább a következő naptári év június 30-áig hatályos tankönyvvé nyilvánítási határozattal rendelkeznek, a 24. § (5)–(7) bekezdésében meghatározott esetek kivételével.
+c)[^57] amelyek legalább a következő naptári év június 30-áig hatályos tankönyvvé nyilvánítási határozattal rendelkeznek, a 24. § (5)–(7) bekezdésében meghatározott esetek kivételével.
 
 (7) A tankönyvjegyzékre történő felvételi kérelem benyújtása első alkalommal ingyenes. A tankönyvjegyzékre történő felvétel iránti minden további kérelem benyújtásakor a 2. számú melléklet szerint igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj magában foglalja az elektronikus formában megjelenő nyilvántartásba történő felvétel költségeit is, beleértve a bemutató rész és az elektronikus megrendelés elérhetőségét.
 
 (8) A nemzeti és etnikai kisebbségi iskolai neveléshez és oktatáshoz készített tankönyvek esetén a jóváhagyott imprimatúra feltehető a tankönyvjegyzékre. A tankönyvként történő forgalmazás feltétele a végleges tankönyvvé nyilvánítás. Ha a végleges kivitelű tankönyv a 5. § (4) bekezdése alapján lefolytatott eljárás során a tankönyvvé nyilvánítás feltételeinek nem felel meg, akkor az eljárás költségei a kiadót terhelik.
 
-(9)[^57] Az adott tanévi tankönyvjegyzékre felvett tankönyv ára a tankönyvjegyzék hatályának időtartama alatt nem emelhető.
+(9)[^58] Az adott tanévi tankönyvjegyzékre felvett tankönyv ára a tankönyvjegyzék hatályának időtartama alatt nem emelhető.
 
-[^52]: A 18. § a 40/2007. (XII. 22.) OKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^53]: A 18. § (1) bekezdése a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^54]: A 18. § (2) bekezdése a 7/2010. (II. 11.) OKM rendelet 10. § (1) bekezdésével megállapított, a 13/2010. (XI. 25.) NEFMI rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján az e módosító rendelet 1–5. mellékletében meghatározott legmagasabb fogyasztói árakat 2010. november 26-át követően a 2011/2012. tanév közoktatási tankönyvjegyzékére való felvétel iránt benyújtott kérelmek vonatkozásában kell alkalmazni.
-[^55]: A 18. § (3) bekezdés e) pontját a 7/2010. (II. 11.) OKM rendelet 21. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^56]: A 18. § (6) bekezdés c) pontja a 7/2010. (II. 11.) OKM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^57]: A 18. § (9) bekezdése a 7/2010. (II. 11.) OKM rendelet 21. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^53]: A 18. § a 40/2007. (XII. 22.) OKM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^54]: A 18. § (1) bekezdése a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^55]: A 18. § (2) bekezdése a 7/2010. (II. 11.) OKM rendelet 10. § (1) bekezdésével megállapított, a 13/2010. (XI. 25.) NEFMI rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján az e módosító rendelet 1–5. mellékletében meghatározott legmagasabb fogyasztói árakat 2010. november 26-át követően a 2011/2012. tanév közoktatási tankönyvjegyzékére való felvétel iránt benyújtott kérelmek vonatkozásában kell alkalmazni.
+[^56]: A 18. § (3) bekezdés e) pontját a 7/2010. (II. 11.) OKM rendelet 21. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^57]: A 18. § (6) bekezdés c) pontja a 7/2010. (II. 11.) OKM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^58]: A 18. § (9) bekezdése a 7/2010. (II. 11.) OKM rendelet 21. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.

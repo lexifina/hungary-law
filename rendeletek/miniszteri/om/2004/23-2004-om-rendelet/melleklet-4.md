@@ -2,7 +2,7 @@
 
 ## A) Bírálati szempontok a könyvekhez
 
-## I.[^107] Tudományos-szakmai
+## I.[^108] Tudományos-szakmai
 
 ## 1. A tartalom szakmai hitelessége, pontossága, szemlélete
 
@@ -10,7 +10,7 @@
 
 ## 3. A szakmai tartalom naprakészsége
 
-## II.[^108] Pedagógiai
+## II.[^109] Pedagógiai
 
 ## 1. Az ismeretek megértése, tanulása
 
@@ -120,7 +120,7 @@
 
 ## 5. A nyomás minősége, olvashatósága, színalkalmazás.
 
-## IV.[^109] Olvasókönyv szempontok az 1. évfolyamon alkalmazott olvasókönyvekhez (ábécés könyvek)
+## IV.[^110] Olvasókönyv szempontok az 1. évfolyamon alkalmazott olvasókönyvekhez (ábécés könyvek)
 
 ## Az első évfolyamon alkalmazni kívánt olvasókönyvek (ábécés könyvek) tankönyvvé nyilvánítási eljárásában a II. Pedagógiai pont szempontjai helyett az alábbi szempontokat kell alkalmazni:
 
@@ -154,9 +154,9 @@
 
 ## o) A képanyag a gyermekek számára egyértelmű, könnyen érthető rajzokból áll
 
-## B) Bírálati szempontok a digitális tananyaghoz, az elektronikus könyvhöz, a digitálisan rögzített könyvhöz[^110]
+## B) Bírálati szempontok a digitális tananyaghoz, az elektronikus könyvhöz, a digitálisan rögzített könyvhöz[^111]
 
-## I.[^111] Tudományos-szakmai
+## I.[^112] Tudományos-szakmai
 
 ## 1. A tartalom szakmai hitelessége, pontossága, szemlélete
 
@@ -164,7 +164,7 @@
 
 ## 3. A szakmai tartalom naprakészsége
 
-## II.[^112] Pedagógiai
+## II.[^113] Pedagógiai
 
 ## A) Bírálati szempontok a könyvekhez, illetve B) Bírálati szempontok a digitális tananyaghoz
 
@@ -222,7 +222,7 @@
 
 | f* | Vizsgálni kell, hogy a tankönyv kérdései és feladatai megfelelő feltételeket biztosítanak-e a tanulási célokban meghatározott projektalapú, problémamegoldó, ismeretszerző és ismeretalkalmazási készségek és képességek fejlesztésére. Előírás, hogy a rögzítést elősegítő feladatokon kívül, az elmélyítést, alkalmazást és a problémamegoldást elősegítő feladatok együttes aránya el kell, hogy érje az összes kérdés és feladat 60%-át. Rögzítést elősegítő feladatok: a tanultak felidézése, a tények és fogalmak rendszerezése, lényegkiemelés. Elmélyítést elősegítő feladatok: analizálás, szintetizálás, konkretizálás, összehasonlítás, általánosítás, rendszerezés, következtetés, értékelés, összefüggés- és szabálykeresés. Alkalmazást elősegítő feladatok: önálló munka, feladatmegoldás. Problémamegoldást elősegítő feladatok: a probléma definiálása, a releváns információk kiválasztása, előzetes tudás szelektív felidézése, a megfelelő megoldás megtalálása, a megoldási mód végrehajtása, a megoldás ellenőrzése és értékelés. |
 
-## III.[^113] Technológiai szempontok
+## III.[^114] Technológiai szempontok
 
 ## 1. A működési környezet
 
@@ -264,7 +264,7 @@
 
 ## b) A digitális tananyag szabványos bemenetei és kimenetei
 
-## IV.[^114] Olvasókönyv szempontok az 1. évfolyamon alkalmazott olvasókönyvekhez (ábécés könyvek)
+## IV.[^115] Olvasókönyv szempontok az 1. évfolyamon alkalmazott olvasókönyvekhez (ábécés könyvek)
 
 ## IV. Olvasókönyv szempontok az 1. évfolyamon alkalmazott olvasókönyvekhez (ábécés könyvek)
 
@@ -300,14 +300,14 @@
 
 ## o) A képanyag a gyermekek számára egyértelmű, könnyen érthető rajzokból áll
 
-4. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^115]
+4. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^116]
 
-[^107]: A 3. számú melléklet A) részének I. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^108]: A 3. számú melléklet A) részének II. pontja a 7/2010. (II. 11.) OKM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
-[^109]: A 3. számú melléklet A) részének IV. pontját a 40/2007. (XII. 22.) OKM rendelet 19. § (4) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^110]: A 3. számú melléklet B) részének címe a 40/2007. (XII. 22.) OKM rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^111]: A 3. számú melléklet B) részének I. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (6) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^112]: A 3. számú melléklet B) részének II. pontja a 10/2006. (III. 27.) OM rendelet 23. § (10) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 19. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^113]: A 3. számú melléklet B) részének III. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (8) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^114]: A 3. számú melléklet A) részének IV. pontját a 10/2006. (III. 27.) OM rendelet 23. § (10) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 19. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^115]: A 4. számú melléklet a 10/2006. (III. 27.) OM rendelet 23. § (11) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
+[^108]: A 3. számú melléklet A) részének I. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^109]: A 3. számú melléklet A) részének II. pontja a 7/2010. (II. 11.) OKM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^110]: A 3. számú melléklet A) részének IV. pontját a 40/2007. (XII. 22.) OKM rendelet 19. § (4) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^111]: A 3. számú melléklet B) részének címe a 40/2007. (XII. 22.) OKM rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^112]: A 3. számú melléklet B) részének I. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (6) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^113]: A 3. számú melléklet B) részének II. pontja a 10/2006. (III. 27.) OM rendelet 23. § (10) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 19. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^114]: A 3. számú melléklet B) részének III. pontja a 40/2007. (XII. 22.) OKM rendelet 19. § (8) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^115]: A 3. számú melléklet A) részének IV. pontját a 10/2006. (III. 27.) OM rendelet 23. § (10) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 19. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^116]: A 4. számú melléklet a 10/2006. (III. 27.) OM rendelet 23. § (11) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2006. március 31. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.

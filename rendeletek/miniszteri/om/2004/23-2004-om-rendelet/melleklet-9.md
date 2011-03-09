@@ -26,7 +26,7 @@
 
 ## m) Nemzeti Szakképzési és Felnőttképzési Intézet 10032000-01744260-00000000 pénzforgalmi jelzőszámú bankszámla
 
-9. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^145]
+9. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^146]
 
 A szakértők díjazása
 
@@ -104,4 +104,4 @@ d) Online digitális tananyag 85 000 Ft tananyagonként
 
 5. Kézirat imprimatúraként vagy végleges kivitelű könyvként történő benyújtása esetén 6 250 Ft címenként
 
-[^145]: A 9. számú mellékletet a 10/2006. (III. 27.) OM rendelet 23. § (18) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 23. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni. Lásd még ez utóbbi módosító rendelet 24. §-át.
+[^146]: A 9. számú mellékletet a 10/2006. (III. 27.) OM rendelet 23. § (18) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 23. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni. Lásd még ez utóbbi módosító rendelet 24. §-át.
