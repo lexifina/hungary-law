@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-324-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-01-01 | 2010-324-20-22.1 | 324/2010. (XII. 27.) Korm. rendelet |
+| 2011-03-09 | 2010-324-20-22.2 | 11/2011. (II. 22.) Korm. rendelet |
