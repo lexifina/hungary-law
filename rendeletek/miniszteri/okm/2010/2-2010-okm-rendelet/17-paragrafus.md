@@ -14,4 +14,6 @@ b) a működési engedélyben foglaltak változnak.
 
 (5) Ha a fenntartó a módosítást nem kéri és a módosítást megalapozó változás a miniszter tudomására jut, a működési engedélyt hivatalból is módosíthatja.
 
-(6) A 15. § (1) bekezdés h) pontjában foglalt adat változása esetén – az (1)–(4) bekezdésekben foglaltaktól eltérően – a fenntartó a miniszter által rendszeresített formanyomtatványon a változás bekövetkezésétől számított 15 munkanapon belül az adatváltozás bejelentésére köteles.
+(6)[^1] A 15. § (1) bekezdés h) pontjában foglalt adat változása esetén – az (1)–(4) bekezdésekben foglaltaktól eltérően – a fenntartó a miniszter által rendszeresített formanyomtatványon a változás bekövetkezésétől számított huszonegy napon belül az adatváltozás bejelentésére köteles.
+
+[^1]: A 17. § (6) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
