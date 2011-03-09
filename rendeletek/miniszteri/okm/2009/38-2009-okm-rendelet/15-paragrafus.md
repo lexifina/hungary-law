@@ -1,4 +1,4 @@
-## 14. §[^9]
+## 14. §[^12]
 
 ## Átmeneti rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) Az e rendelet hatálybalépésekor a szakképesítésért felelős miniszterek által vezetett Országos szakmai szakértői névjegyzéken szereplő szakértők a Hivatal által vezetett Országos szakértői névjegyzéken kerülnek nyilvántartásba.
 
-[^9]: A 14. §-t a 13. § (2) bekezdése hatályon kívül helyezte.
+[^12]: A 14. §-t a 13. § (2) bekezdése hatályon kívül helyezte.

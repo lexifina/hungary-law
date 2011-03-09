@@ -4,6 +4,6 @@
 
 (2) A (3) bekezdés és a 14. § 2010. január 2-án hatályát veszti.
 
-(3)[^8]
+(3)[^11]
 
-[^8]: A 13. § (3) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^11]: A 13. § (3) bekezdését a (2) bekezdés hatályon kívül helyezte.

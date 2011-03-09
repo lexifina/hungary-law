@@ -26,6 +26,8 @@ g) közlemény (a szakértői tevékenységhez kapcsolódó speciális ismeretek
 
 (6) A szakértő részére a Hivatal a Szolg. tv. 23. § (2) bekezdésében meghatározott adattartalommal igazolást állít ki.
 
-(7) A szakértői névjegyzéken szereplő közoktatási szakértő a bejelentés, illetve a kérelem benyújtását követően a bejelentésben, kérelemben foglalt adatokban bekövetkezett változást, a továbbképzési kötelezettség teljesítését haladéktalanul, de legfeljebb tíz munkanapon belül köteles a Hivatalnak bejelenteni.
+(7)[^2] A szakértői névjegyzéken szereplő közoktatási szakértő a bejelentés, illetve a kérelem benyújtását követően a bejelentésben, kérelemben foglalt adatokban bekövetkezett változást, a továbbképzési kötelezettség teljesítését haladéktalanul, de legfeljebb tizenöt napon belül köteles a Hivatalnak bejelenteni.
 
 (8) Az, aki a szakértői névjegyzéken szerepel, kérheti a nyilvántartásban szereplő szakterület, szakirány módosítását, kiegészítését. A módosításra, kiegészítésre a nyilvántartásba vételre vonatkozó rendelkezéseket kell alkalmazni.
+
+[^2]: A 4. § (7) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 5. § a) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
