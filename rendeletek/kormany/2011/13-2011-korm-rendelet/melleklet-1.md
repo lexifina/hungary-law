@@ -1,5 +1,7 @@
-## 33. § Hatályát veszti a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet.
+## 33. §[^1]
 
 1. melléklet a 13/2011. (II. 22.) Korm. rendelethez
 
 A) Engedélykérelem tartalmi elemei a kettős felhasználású termékek exportjához, transzferjéhez és tranzitjához
+
+[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
