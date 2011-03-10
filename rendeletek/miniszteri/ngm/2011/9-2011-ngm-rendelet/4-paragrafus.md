@@ -1,0 +1,1 @@
+4. § Az 1. § (1) bekezdésében az „az informatika vámügyi alkalmazásáról szóló nemzetközi Egyezményben” szövegrész helyébe az „az információs technológia vámügyi alkalmazásáról szóló 2009/917/IB tanácsi határozatban” szöveg lép.
