@@ -112,17 +112,29 @@
 
 ## A 2001. évi házassági anyakönyvet 740, azaz hétszáznegyven. Helyesbítés: A 2001. évi házassági anyakönyvet 470, azaz négyszázhetven alapbejegyzéssel lezárom.
 
-## 8. A külföldi helységnév anyakönyvezése:
+## 8.  Helységnév anyakönyvezése:
+
+## Budapest VII.
+
+## Újpest
+
+## [Ha az anyakönyvi esemény időpontjában Újpest önálló településnek minősült.]
+
+## Székesfehérvár
+
+## Nagyvárad (Oradea, Románia)
+
+## [Ha az anyakönyvi esemény időpontjában Kolozsvár nem Magyarország területéhez tartozott.]
+
+## Kolozsvár
+
+## [Ha az anyakönyvi esemény időpontjában Kolozsvár Magyarország területéhez tartozott.]
 
 ## Beograd (Jugoszlávia)
 
 ## Wien 4. (Ausztria)
 
 ## London (Nagy-Britannia)
-
-## Oradea (Nagyvárad, Románia)
-
-## Cluj-Napoca (Kolozsvár, Románia)
 
 ## Los Angeles (California, Amerikai Egyesült Államok)
 
@@ -670,6 +682,6 @@
 
 ## Kijavítás: A gyermek családi neve: Lopez y Sanchez, utóneve: Carmen. (Közép-magyarországi Reg. Állig. Hiv. 31-907/2009.) 2009. december 16. X.Y. aktő.
 
-5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^217]
+5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^216]
 
-[^217]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+[^216]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

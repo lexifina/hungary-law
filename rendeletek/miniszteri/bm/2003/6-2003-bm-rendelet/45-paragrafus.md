@@ -1,4 +1,4 @@
-## 44/H. §[^96] Az anyakönyvvezető a bejegyzett élettársi kapcsolatok anyakönyvében szereplő alapbejegyzést a felek, a tanúk és a tolmács aláírása után aláírásával zárja le.
+## 44/H. §[^93] Az anyakönyvvezető a bejegyzett élettársi kapcsolatok anyakönyvében szereplő alapbejegyzést a felek, a tanúk és a tolmács aláírása után aláírásával zárja le.
 
 ## Az alapbejegyzés a születési anyakönyvbe
 
@@ -8,4 +8,4 @@
 
 (3) A gyermek születési alapbejegyzésének teljesítésekor – ha a szülők kérik gyermekük születési családi nevének valamely kisebbségi anyanyelv szabályai szerinti bejegyzését, illetve születési családi és utónevének kisebbségi nyelven történő szerepeltetését is – e rendelet 60. §-ának (2)–(4) bekezdésében foglaltak szerint kell eljárni, azzal az eltéréssel, hogy a születési családi és utónév kisebbségi nyelven történő bejegyzését az anyakönyv ,,Megjegyzések'' rovatába kell teljesíteni.
 
-[^96]: A 44/H. §-t a 14/2009. (VI. 3.) IRM rendelet 23. §-a iktatta be.
+[^93]: A 44/H. §-t a 14/2009. (VI. 3.) IRM rendelet 23. §-a iktatta be.

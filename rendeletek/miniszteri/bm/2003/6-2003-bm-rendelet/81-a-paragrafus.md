@@ -1,6 +1,6 @@
-## A hazai anyakönyvezés általános szabályai[^144]
+## A hazai anyakönyvezés általános szabályai[^141]
 
-81/A. §[^145] (1) Hazai anyakönyvezésnek van helye, ha a bíróság holtnak nyilvánító döntést hozott, és az érintett születési helye külföldön van vagy ismeretlen, továbbá ha a halál tényének bírói megállapítása esetén a bíróság döntése szerint a haláleset helye külföldön van.
+81/A. §[^142] (1) Hazai anyakönyvezésnek van helye, ha a bíróság holtnak nyilvánító döntést hozott, és az érintett születési helye külföldön van vagy ismeretlen, továbbá ha a halál tényének bírói megállapítása esetén a bíróság döntése szerint a haláleset helye külföldön van.
 
 (2) Ha a hivatalból történő hazai anyakönyvezés során valamely adat pontosan nem állapítható meg, és a hiányzó adat később feltételezhetően pótolható, az anyakönyvvezető a hiányzó adat rovatát üresen hagyja. A hiányzó adat megállapítását követően azt – helyesbítés és kijavítás mellőzésével – bejegyzi, egyidejűleg az adatok kiegészítésének tényét az anyakönyv „Utólagos bejegyzések” rovatába feljegyzi.
 
@@ -10,5 +10,5 @@
 
 (5) A vér szerinti, illetve a képzelt szülők adatainak megváltozása esetén a 79–80. §-ban foglaltak szerint kell eljárni.
 
-[^144]: A 81/A. § előtti alcímet a 10/2007. (III. 6.) IRM rendelet 17. §-a iktatta be.
-[^145]: A 81/A. §-t a 10/2007. (III. 6.) IRM rendelet 17. §-a iktatta be, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^141]: A 81/A. § előtti alcímet a 10/2007. (III. 6.) IRM rendelet 17. §-a iktatta be.
+[^142]: A 81/A. §-t a 10/2007. (III. 6.) IRM rendelet 17. §-a iktatta be, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.

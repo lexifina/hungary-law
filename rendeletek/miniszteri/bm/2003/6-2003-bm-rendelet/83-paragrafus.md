@@ -8,9 +8,9 @@
 
 (3) Ha az anyakönyvvezetővel közölt időpontban az anyakönyvi bejegyzés nem található, a kutatást a megadott időpont évére, valamint az azt megelőző és követő két-két évre is ki kell terjeszteni. Ha ez sem vezet eredményre – annak közlésével, hogy a kutatás mely évekre terjedt ki – az érdekeltet az eredménytelenségéről értesíteni kell.
 
-(4)[^159] Az anyakönyvi másolaton és értesítésen fel kell tüntetni:
+(4)[^156] Az anyakönyvi másolaton és értesítésen fel kell tüntetni:
 
-a)[^160] a község, város vagy megyei jogú város és a megye nevét, illetve a főváros nevét a fővárosi kerület számával, a hazai anyakönyvből kiállított anyakönyvi okiratok esetén a hazai anyakönyvezést végző hatóság nevét;
+a)[^157] a község, város vagy megyei jogú város és a megye nevét, illetve a főváros nevét a fővárosi kerület számával, a hazai anyakönyvből kiállított anyakönyvi okiratok esetén a hazai anyakönyvezést végző hatóság nevét;
 
 b) az okirat kiállításának helyét, idejét;
 
@@ -20,8 +20,8 @@ d) a kiállító anyakönyvvezető nevét és aláírását;
 
 e) az anyakönyvi bejegyzés folyószámát és évszámát, az anyakönyv megkülönböztető betűjelét.
 
-(5)[^161] Az anyakönyvi okiraton az anyakönyvi bejegyzés számát a kötet betűjelzésével törve kell feltüntetni, ha egyidejűleg több anyakönyvet vezetnek.
+(5)[^158] Az anyakönyvi okiraton az anyakönyvi bejegyzés számát a kötet betűjelzésével törve kell feltüntetni, ha egyidejűleg több anyakönyvet vezetnek.
 
-[^159]: A 83. § (4) bekezdése a 2/2006. (I. 13.) BM rendelet 18. §-ával megállapított szöveg.
-[^160]: A 83. § (4) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 19. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^161]: A 83. § (5) bekezdése a 14/2009. (VI. 3.) IRM rendelet 37. §-ával megállapított szöveg.
+[^156]: A 83. § (4) bekezdése a 2/2006. (I. 13.) BM rendelet 18. §-ával megállapított szöveg.
+[^157]: A 83. § (4) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 19. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^158]: A 83. § (5) bekezdése a 14/2009. (VI. 3.) IRM rendelet 37. §-ával megállapított szöveg.
