@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösség és annak tagállamai, valamint másrészről a Mexikói Egyesült Államok közötti gazdasági partnerségi, politikai koordinációs és együttműködési megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.

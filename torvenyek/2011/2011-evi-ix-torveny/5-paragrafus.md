@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösség és annak tagállamai, másrészről a Mexikói Egyesült Államok közötti gazdasági partnerségi, politikai koordinációs és együttműködési megállapodáshoz, a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozására figyelemmel készült második kiegészítő jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.
