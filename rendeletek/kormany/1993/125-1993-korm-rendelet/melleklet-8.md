@@ -38,7 +38,7 @@
 
 ## 9. A vizsgabizottság mellett jegyzőkönyvvezető működik, aki vezeti a jegyzőkönyvet és elvégzi a vizsgával kapcsolatos egyéb adminisztratív teendőket.
 
-## 10. A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki. Ha a bejelentést a hivatal vezetőjével kapcsolatban teszik, az igazságügyi és rendészeti minisztertől kérhető a vizsgáztatásra másik hivatal kijelölése.
+## 10.[^70] A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki. Ha a bejelentést a hivatal vezetőjével kapcsolatban teszik, a belügyminisztertől kérhető a vizsgáztatásra másik hivatal kijelölése.
 
 ## 11. A vizsgabizottság tagjait és a jegyzőkönyvvezetőt tiszteletdíj illeti meg. A vizsgabizottság elnökét a vizsgadíj 6%-a, a vizsgabizottság tagjait 3,5%-a, a jegyzőkönyvvezetőt 1,75%-a illeti meg vizsgázónként.
 
@@ -122,7 +122,7 @@
 
 ## kérelmező
 
-## 2. függelék[^68]
+## 2. függelék[^71]
 
 ## Ügyszám: .....................................
 
@@ -178,7 +178,8 @@
 
 | neve | szül. helye, ideje, anyja neve | lakóhelye |
 
-8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^69]
+8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^72]
 
-[^68]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése szerint módosított szöveg.
-[^69]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés d) pontjával megállapított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^70]: A 7. számú melléklet 10. pontja a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^71]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése szerint módosított szöveg.
+[^72]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 2. §-ával megállapított szöveg.

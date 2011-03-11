@@ -1,6 +1,6 @@
-## 13/B. §[^58]
+## 13/B. §[^60]
 
-## Az állampolgársági ügyekben eljáró szerv a Bevándorlási és Állampolgársági Hivatal.
+## A Kormány állampolgársági ügyekben eljáró szervként a Bevándorlási és Állampolgársági Hivatalt jelöli ki. A Bevándorlási és Állampolgársági Hivatal az állampolgársági ügyekért felelős miniszter nevében ellátja – az Ápt. 4. § (3) bekezdésével és 5. §-ával összefüggő névmódosítási eljárásban a névmódosítási kérelemnek helyt adó döntés kivételével – az Ápt. 24. § (4) bekezdés a) pontjában meghatározott feladatokat.
 
 ## Átmeneti és záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (2) Az Ápt. hatálybalépésekor még el nem bírált elbocsátási ügyekben a törvény 8. §-ának (2) bekezdése előírásai szerint kell eljárni.
 
-[^58]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^60]: A 13/B. §-t a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni. A 13/B. § a 26/2011. (III. 10.) Korm. rendelet 1. §-ával megállapított szöveg.

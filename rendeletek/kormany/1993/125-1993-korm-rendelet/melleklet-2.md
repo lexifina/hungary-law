@@ -8,7 +8,7 @@
 
 ## I. A kérelmező személyi adatai:
 
-| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Neme: 2. Születési helye: (ország, tartomány, szövetségi állam) (város, község) A honosítási eljárás során születési helyem megnevezését kérem a) a hivatalos külföldi helységnév mellett a hivatalos magyar elnevezés feltüntetésével b) kizárólag a hivatalos magyar elnevezéssel. (A kívánt részt szíveskedjék aláhúzni!) Születési ideje: ............... év ................................... hó ........ nap 3. Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: 4. Előző állampolgársága: Előző állampolgárságát mikor és milyen jogcímen szerezte, és az milyen módon szűnt meg: 5. Ha volt már magyar állampolgár, mikortól meddig: Magyar állampolgárságát milyen jogcímen szerezte, és az milyen módon szűnt meg: |
+| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Neme: 2. Születési helye: (ország, tartomány, szövetségi állam) (város, község) A honosítási eljárás során születési helyem megnevezését kérem a hivatalos magyar elnevezés mellett a hivatalos külföldi helységnév feltüntetésével. (Ha kéri, szíveskedjék aláhúzni!) Születési ideje: ............... év ................................... hó ........ nap 3. Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: 4. Előző állampolgársága: Előző állampolgárságát mikor és milyen jogcímen szerezte, és az milyen módon szűnt meg: 5. Ha volt már magyar állampolgár, mikortól meddig: Magyar állampolgárságát milyen jogcímen szerezte, és az milyen módon szűnt meg: |
 
 | 6. Lakóhelye: ⬜ ⬜ ⬜⬜ (város, község) (utca) .......... (hsz.) ....... (ép./lh.) ........ (em.) ...... (ajtó) Tartózkodási helye: ⬜ ⬜ ⬜ ⬜ (város, község) (utca) .......... (hsz.) ....... (ép./lh.) ........ (em.) ...... (ajtó) Telefonszáma: Elektronikus levél (E-mail) címe: Utolsó külföldi lakóhelye: ...............……………........ (ország) (város/község) közelebbi cím: (utca, házszám stb.) Mikor és milyen úti okmánnyal érkezett Magyarországra: |
 
@@ -106,7 +106,7 @@
 
 ## VI. A kérelmező házastársának születési adatai:
 
-| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Neme: 2. Születési helye: (ország, tartomány, szövetségi állam) (város, község) A honosítási eljárás során születési helyem megnevezését kérem a) a hivatalos külföldi helységnév mellett a hivatalos magyar elnevezés feltüntetésével b) kizárólag a hivatalos magyar elnevezéssel (A kívánt részt szíveskedjék aláhúzni!) Születési ideje: ............ év ................................ hó ........ nap 3. Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: 4. Előző állampolgársága: Előző állampolgárságát mikor és milyen jogcímen szerezte, és az milyen módon szűnt meg: 5. Ha volt már magyar állampolgár, mikortól meddig: Magyar állampolgárságát milyen jogcímen szerezte, és az milyen módon szűnt meg: |
+| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Neme: 2. Születési helye: (ország, tartomány, szövetségi állam) (város, község) A honosítási eljárás során születési helyem megnevezését kérem a hivatalos magyar elnevezés mellett a hivatalos külföldi helységnév feltüntetésével. (Ha kéri, szíveskedjék aláhúzni!) Születési ideje: ............ év ................................ hó ........ nap 3. Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: 4. Előző állampolgársága: Előző állampolgárságát mikor és milyen jogcímen szerezte, és az milyen módon szűnt meg: 5. Ha volt már magyar állampolgár, mikortól meddig: Magyar állampolgárságát milyen jogcímen szerezte, és az milyen módon szűnt meg: |
 
 | 6. Lakóhelye: ⬜ ⬜ ⬜ ⬜ (város, község) (utca) ….......... (hsz.) ......... (ép./lh.) ......…. (em.) ........ (ajtó) Tartózkodási helye: ⬜ ⬜ ⬜ ⬜ (város, község) (utca) ….......... (hsz.) ......... (ép./lh.) ......…. (em.) ........ (ajtó) Telefonszáma: Elektronikus levél (E-mail) címe: Utolsó külföldi lakóhelye: (ország) ........……………................ (város/község) közelebbi cím: (utca, házszám stb.) Mikor és milyen úti okmánnyal érkezett Magyarországra: |
 
@@ -306,7 +306,7 @@
 
 |  | kérelmező aláírása |
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^61]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^63]
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő.
-[^61]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^63]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

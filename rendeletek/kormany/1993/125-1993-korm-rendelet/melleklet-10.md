@@ -1,18 +1,18 @@
-## Polgármesteri Hivatal
+## Polgármesteri Hivatal/külképviselet
 
-## Szám: Hiv. sz: 106-A-
+## Szám: Hiv. sz: 106-...-
 
 ## JEGYZŐKÖNYV
 
 ## állampolgársági esküről vagy fogadalomról
 
-## Készült két példányban Polgármesteri Hivatalának
+## Készült két példányban Polgármesteri Hivatalának/külképviseletnek
 
 ## hivatalos helyiségében év hó napján.
 
 ## Jelen vannak:
 
-## polgármester
+## polgármester/külképviselet vezetője
 
 ## jegyzőkönyvvezető
 
@@ -24,9 +24,9 @@
 
 ## év hó napján kelt határozatával honosította/visszahonosította. Az
 
-## okirat száma: Erről az érintette(ke)t – törvényes képviselőjét – a Polgármesteri Hivatal -n értesítette, és az állampolgársági eskü, illetve fogadalom letételére felhívta.
+## okirat száma: Erről az érintette(ke)t – törvényes képviselőjét – a Polgármesteri Hivatal/külképviselet -n értesítette, és az állampolgársági eskü, illetve fogadalom letételére felhívta.
 
-## A polgármester a honosított/visszahonosított személy(eke)t tájékoztatta, hogy választása/uk szerint állampolgársági esküt vagy fogadalmat tehet(nek). Az eskü és a fogadalom egyenértékű.
+## A polgármester/külképviselet vezetője a honosított/visszahonosított személy(eke)t tájékoztatta, hogy választása/uk szerint állampolgársági esküt vagy fogadalmat tehet(nek). Az eskü és a fogadalom egyenértékű.
 
 ## A honosított(ak), visszahonosított(ak) a magyar állampolgárságról szóló 1993. évi LV. törvény 7. §-ában foglaltak szerint az alábbi esküt, illetve fogadalmat letette(ék):
 
@@ -40,7 +40,7 @@
 
 ## Előttem:
 
-## polgármester jegyzőkönyvvezető
+## polgármester/külképviselet vezetője jegyzőkönyvvezető
 
 ## Esküt/fogadalmat tevő:
 
@@ -72,9 +72,9 @@
 
 ## P. H.
 
-## A jegyzőkönyv első példányát 5 napon belül az állampolgársági ügyekben eljáró szervnek kell megküldeni, másodpéldányát pedig a polgármesteri hivatal irattározza. A jegyzőkönyv nem selejtezhető!”
+## A jegyzőkönyv első példányát 5 napon belül az állampolgársági ügyekben eljáró szervnek kell megküldeni, másodpéldányát pedig a polgármesteri hivatal/külképviselet irattározza. A jegyzőkönyv nem selejtezhető!”
 
-10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^71]
+10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^74]
 
 | A Magyar Köztársaság Elnökének Budapest | fénykép helye |  | fénykép helye |
 
@@ -102,13 +102,7 @@ Neme:
 
 2. Születési helye: ............................................................................................................ (ország, tartomány, szövetségi állam) ......................................................................................................................... (város, község)
 
-A honosítási eljárás során születési helyem megnevezését kérem
-
-a) a hivatalos külföldi helységnév mellett a hivatalos magyar elnevezés feltüntetésével
-
-b) kizárólag a hivatalos magyar elnevezéssel.
-
-(A kívánt részt szíveskedjék aláhúzni!)
+A honosítási eljárás során születési helyem megnevezését kérem a hivatalos magyar elnevezés mellett a hivatalos külföldi helységnév feltüntetésével. (Ha kéri, szíveskedjék aláhúzni!)
 
 Születési ideje: ............... év .................................. hó ........ nap
 
@@ -238,13 +232,7 @@ Neme:
 
 2. Születési helye: ............................................................................................................. (ország, tartomány, szövetségi állam) ......................................................................................................................... (város, község)
 
-A honosítási eljárás során születési helyem megnevezését kérem
-
-a) a hivatalos külföldi helységnév mellett a hivatalos magyar elnevezés feltüntetésével
-
-b) kizárólag a hivatalos magyar elnevezéssel.
-
-(A kívánt részt szíveskedjék aláhúzni!)
+A honosítási eljárás során születési helyem megnevezését kérem a hivatalos magyar elnevezés mellett a hivatalos külföldi helységnév feltüntetésével. (Ha kéri, szíveskedjék aláhúzni!)
 
 Születési ideje: ............... év .................................. hó ........ nap
 
@@ -340,13 +328,7 @@ Az állampolgársági okirat száma:
 
 X. A kérelmező(k) kiskorú gyermeke(i)
 
-A honosítási eljárás során a születési hely megnevezését kérem
-
-a) a hivatalos külföldi helységnév mellett a hivatalos magyar elnevezés feltüntetésével
-
-b) kizárólag a hivatalos magyar elnevezéssel.
-
-(A kívánt részt szíveskedjék aláhúzni!)
+A honosítási eljárás során születési helyem megnevezését kérem a hivatalos magyar elnevezés mellett a hivatalos külföldi helységnév feltüntetésével. (Ha kéri, szíveskedjék aláhúzni!)
 
 1. Születési családi neve: ....................................................... utóneve:
 
@@ -466,4 +448,4 @@ Megjegyzéseim:
 
 a kérelmező aláírása
 
-[^71]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^74]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni. A 10. számú melléklet a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.

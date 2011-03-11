@@ -1,3 +1,3 @@
-## Az állampolgársági ügyekben eljáró szerv[^57]
+## Az állampolgársági ügyekben eljáró szerv[^59]
 
-[^57]: A 13/B. § előtti címet a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
+[^59]: A 13/B. § előtti címet a 224/2010. (VIII. 4.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
