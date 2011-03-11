@@ -1,0 +1,1 @@
+## „(6a) A külképviselet vezetője vagy a polgármester a hivatalból kiállított hatósági igazolványt a központi szervnek haladéktalanul visszaküldi, ha a kiadása alapjául szolgáló honosítási, visszahonosítási okirat hatályát vesztette.”

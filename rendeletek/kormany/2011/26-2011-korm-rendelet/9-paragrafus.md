@@ -1,0 +1,1 @@
+## „e) az állampolgársági ügyekben eljáró szerv értesítése alapján dönt a Magyarországon lakóhellyel rendelkező, honosított vagy visszahonosított (a továbbiakban együtt: honosított) polgár adatainak helyesbítéséről, törléséről, továbbá a személyazonosító igazolványa, a személyi azonosítóról és a lakcímről szóló hatósági igazolványa kiadásáról, visszavonásáról;”
