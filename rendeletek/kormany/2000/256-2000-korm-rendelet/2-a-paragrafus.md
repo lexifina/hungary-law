@@ -1,4 +1,4 @@
-2/A. §[^9] (1) Okmányiroda létesítését, megszüntetését és illetékességi területének módosítását
+2/A. §[^10] (1) Okmányiroda létesítését, megszüntetését és illetékességi területének módosítását
 
 a) a települési önkormányzat képviselő-testülete a közigazgatási informatikáért felelős miniszternél,
 
@@ -8,11 +8,11 @@ b) a közigazgatási informatikáért felelős miniszter a Kormánynál
 
 (2) Az (1) bekezdés szerinti kezdeményezéshez csatolni kell
 
-a)[^10] a Kormány általános hatáskörű területi államigazgatási szervének támogató nyilatkozatát,
+a)[^11] a Kormány általános hatáskörű területi államigazgatási szervének támogató nyilatkozatát,
 
 b) a települési önkormányzat képviselő-testületének okmányiroda létesítésére irányuló kezdeményezése esetén a képviselő-testület nyilatkozatát arra vonatkozóan, hogy
 
-ba)[^11] biztosítja a kulturált ügyfélfogadáshoz és az okmányirodai feladatok ellátásához szükséges ügyintézési helyszínt, valamint biztosítja az okmányiroda folyamatos feladatellátását,
+ba)[^12] biztosítja a kulturált ügyfélfogadáshoz és az okmányirodai feladatok ellátásához szükséges ügyintézési helyszínt, valamint biztosítja az okmányiroda folyamatos feladatellátását,
 
 bb) biztosítja a személyi és a tárgyi feltételek megteremtésének pénzügyi fedezetét,
 
@@ -22,7 +22,7 @@ bd) a normatív támogatás rendszeres folyósításáig az okmányirodát sajá
 
 c) a települési önkormányzat képviselő-testületének okmányiroda létesítésére irányuló kezdeményezése esetén az illetékességi terület változása következtében érintett okmányirodákat működtető települési önkormányzatok képviselő-testületeivel kötött megállapodást az okmányirodák után járó normatív támogatás – összegének változatlanul hagyásával megállapított – felosztásáról.
 
-(3)[^12] A Kormány általános hatáskörű területi államigazgatási szerve abban az esetben adja ki az (1) bekezdés szerinti kezdeményező számára a (2) bekezdés a) pontja szerinti támogató nyilatkozatot, ha a kistérségben érintett önkormányzatok egyetértenek a kezdeményezéssel, és az okmányirodák illetékességi területeinek kistérségi területbeosztással való összhangja továbbra is fennáll.
+(3)[^13] A Kormány általános hatáskörű területi államigazgatási szerve abban az esetben adja ki az (1) bekezdés szerinti kezdeményező számára a (2) bekezdés a) pontja szerinti támogató nyilatkozatot, ha a kistérségben érintett önkormányzatok egyetértenek a kezdeményezéssel, és az okmányirodák illetékességi területeinek kistérségi területbeosztással való összhangja továbbra is fennáll.
 
 (4) A KEKKH helyszíni felmérés keretében vizsgálja meg a kezdeményező által az ügyfélfogadáshoz és az okmányirodai feladatok ellátásához biztosított ügyintézési helyszín megfelelőségét.
 
@@ -30,7 +30,7 @@ c) a települési önkormányzat képviselő-testületének okmányiroda létes�
 
 (6) Okmányiroda megszüntetésére csak naptári év fordulójával, a folyó év június 30-ig benyújtott kezdeményezés alapján kerülhet sor.
 
-[^9]: A 2/A. §-t a 263/2002. (XII. 18.) Korm. rendelet 4. §-a iktatta be, szövege a 317/2008. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: A 2/A. § (2) bekezdés a) pontja a 234/2010. (VIII. 31.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
-[^11]: A 2/A. § (2) bekezdésének ba) alpontja a 182/2009. (IX. 10.) Korm. rendelet 215. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A 2/A. § (3) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+[^10]: A 2/A. §-t a 263/2002. (XII. 18.) Korm. rendelet 4. §-a iktatta be, szövege a 317/2008. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2/A. § (2) bekezdés a) pontja a 234/2010. (VIII. 31.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+[^12]: A 2/A. § (2) bekezdésének ba) alpontja a 182/2009. (IX. 10.) Korm. rendelet 215. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 2/A. § (3) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
