@@ -66,7 +66,7 @@
 
 ## – ügyintéző aláírása.
 
-4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^169]
+4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^178]
 
 Kérelem a törvényes képviselő adatainak feltüntetése iránt
 
@@ -84,4 +84,4 @@ A törvényes képviselők adatai:
 
 – telefonszám.
 
-[^169]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^178]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.

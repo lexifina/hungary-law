@@ -1,25 +1,20 @@
 ## (Az Nytv. 4. §-ához)
 
-## A külföldön élő magyar állampolgár nyilvántartása
+## Az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok és a külföldön élő magyar állampolgárok nyilvántartása[^6]
 
-3. §[^6] (1)[^7] A külföldön élő magyar állampolgár a konzuli tisztviselőnél és a központi szervnél is kérheti az adatai nyilvántartásba vételét, illetőleg törlését, bejelentheti a nyilvántartott adatai változását, teheti meg vagy vonhatja vissza a korlátozó nyilatkozatát.
+3. §[^7] (1) Az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárokat az állampolgársági ügyekben eljáró szerv elektronikus úton megküldött értesítésében szereplő adatokkal – a honosítási, visszahonosítási okirat kiállításának időpontjával – a központi szerv hivatalból veszi nyilvántartásba.
 
-(2) Külföldön élő magyar állampolgárként kell felvenni a nyilvántartásba azt a személyt,
+(2) Az Nytv. 4. § (2a) bekezdés a) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét a konzuli tisztviselőnél vagy a központi szervnél terjesztheti elő.
 
-a) aki külföldi letelepedés szándékával hagyja el az országot,
+(3) Az Nytv. 4. § (2a) bekezdés b) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét a lakcímbejelentési ügyében eljáró jegyzőnél vagy a konzuli tisztviselőnél terjesztheti elő.
 
-b) akinek adatai külföldre távozás miatt a nyilvántartás passzív állományában szerepelnek,
+(4) Ha a nyilvántartásba vett, Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez, akkor – az anyakönyvvezető vagy a konzuli tisztviselő közreműködésével – az érintettet az eskü vagy fogadalomtétel időpontjával az Nytv. 4. § (2a) bekezdés c) pontja szerinti külföldön élő magyar állampolgárként kell nyilvántartani.
 
-c) aki korábban sem tartozott a nyilvántartás hatálya alá, mert külföldön élt.
+(5) A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a központi szervnél vagy a tartózkodási helye szerint illetékes jegyzőnél is kérheti az adatai törlését, bejelentheti a nyilvántartott adatai változását, teheti meg vagy vonhatja vissza a korlátozó nyilatkozatát.
 
-(3)[^8] A Magyar Köztársaság területét külföldi letelepedés szándékával elhagyó magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét a lakcímbejelentési ügyében eljáró jegyzőnél vagy a konzuli tisztviselőnél terjesztheti elő.
+(6) A (2) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban, ha az érintett magyar állampolgárságát a magyar állampolgárságról szóló törvény szerint nem tudja igazolni, az állampolgárság megállapítása iránt az állampolgársági ügyekben eljáró szervet kell megkeresni.
 
-(4)[^9] A magyarországi tartózkodási hellyel rendelkező, külföldön élő magyar állampolgárként nyilvántartásba vett személy a tartózkodási helye szerint illetékes jegyzőnél is kérheti az adatai törlését, bejelentheti az adatváltozását, megteheti vagy visszavonhatja az adatszolgáltatást korlátozó nyilatkozatát.
+(7) A (2), (3) és (5) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban az érintett természetes személyazonosító adatai, családi állapota, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye magyar hatóság által kiállított okirattal, a nőtlen vagy hajadon családi állapot személyes nyilatkozattal is igazolható.
 
-(5)[^10] A nyilvántartási eljárásban a külföldön élő személy magyar állampolgársága érvényes útlevéllel, illetve egy évnél nem régebben kiállított állampolgársági bizonyítvánnyal igazolható. Egyéb személyi adatait útlevéllel vagy az útlevél kiállításának alapjául szolgáló okiratokkal, családi állapota tekintetében személyes nyilatkozatával is igazolhatja. Ha az érintett nem rendelkezik állampolgársági bizonyítvánnyal, annak beszerzésére nem kötelezhető. Az állampolgárság megállapítása iránt a Bevándorlási és Állampolgársági Hivatalt kell megkeresni.
-
-[^6]: Az R. 3. § -a a 13/1999. ( II.1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^7]: A 3. § (1) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja, a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 48. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: Az R. 3. §-ának új (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 6. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^9]: Az R. 3. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 6. § (1) bekezdése.
-[^10]: Az R. 3. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 6. § (1) bekezdése, szövege a 182/2009. (IX. 10.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: Az R. 3. §-át megelőző alcím a 26/2011. (III. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: Az R. 3. §-a a 26/2011. (III. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
