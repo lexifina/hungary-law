@@ -356,7 +356,9 @@ e) a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűség�
 
 f) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 22. §-a szerinti utazási költségtérítés igénylése,
 
-g) önkormányzati hatáskörbe tartozó szabálysértési ügyekben a határozat végrehajtásának mellőzésére irányuló méltányossági kérelem.
+g) önkormányzati hatáskörbe tartozó szabálysértési ügyekben a határozat végrehajtásának mellőzésére irányuló méltányossági kérelem,
+
+h)[^34] az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem.
 
 2. A fővárosi és megyei kormányhivatal ügyfélszolgálata tájékoztatást nyújt az ügyfélnek az eljárás menetéről, valamint az eljárással kapcsolatos ügyféli jogokról és kötelezettségekről a következő ügyekben:
 
@@ -387,3 +389,5 @@ c) egyéni vállalkozói tevékenység szünetelésének és szünetelés utáni
 d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentéséhez.
 
 3.2. A fővárosi és megyei kormányhivatal ügyfélszolgálati irodája útján tájékoztatást nyújt az egyéni vállalkozást alapítani kívánó természetes személyeknek, és az egyéni vállalkozóknak az egyéni vállalkozás működési szabályairól, képesítéshez kötött gazdasági tevékenység esetén a jogszabályokban meghatározott képesítési követelményekről, bejelentéshez vagy hatósági engedélyhez kötött gazdasági tevékenység esetén – ide nem értve az önkormányzati rendeletet – a szükséges bejelentésekről, hatósági engedélyekről és az engedélyező, továbbá bejelentést fogadó hatóságok elérhetőségéről.
+
+[^34]: A 2. melléklet 1. pont h) alpontját a 26/2011. (III. 10.) Korm. rendelet 25. §-a iktatta be.
