@@ -6,4 +6,6 @@ b) felkéri a Kormányt, hogy a Rendelettel bevezetett intézkedések érvényé
 
 c) felkéri a Kormányt, hogy a veszélyhelyzet elhárítása érdekében megtett és a várhatóan szükséges további intézkedésekről az Országgyűlés ülésein az intézkedések érvényének fenntartásáig adjon tájékoztatást.
 
-2. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg a 2010. október 6-án kihirdetett veszélyhelyzet meghosszabbításának engedélyezéséről szóló 98/2010. (X. 19.) OGY határozat és a 2010. október 6-án kihirdetett veszélyhelyzet meghosszabbításának engedélyezéséről szóló 124/2010. (XII. 22.) OGY határozat hatályát veszti.
+2.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
