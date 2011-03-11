@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Közösségek és tagállamai, és másrészről az Örmény Köztársaság közötti partnerség létrehozásáról szóló partnerségi és együttműködési megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
