@@ -1,0 +1,1 @@
+5. § Az elítélést, illetve a megállapítást semmisnek nyilvánító határozatot a bűnügyi, illetve a szabálysértési nyilvántartó szervnek is meg kell küldeni. A nyilvántartó szerv a határozat alapján gondoskodik a terhelt elítéléssel érintett adatainak a bűnügyi, illetve a szabálysértési nyilvántartási rendszerből való törléséről.

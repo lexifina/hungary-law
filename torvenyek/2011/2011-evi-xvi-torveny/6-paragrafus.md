@@ -1,0 +1,1 @@
+6. § A semmisnek nyilvánított elítélésekhez vagy megállapításokhoz fűződő büntető vagy szabálysértési büntetések, intézkedések, kényszerintézkedések és azok további következményei államigazgatási jogkörben okozott károk (Ptk. 349. §).
