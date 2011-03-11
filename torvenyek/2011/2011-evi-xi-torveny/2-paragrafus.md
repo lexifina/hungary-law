@@ -1,6 +1,6 @@
 2. § A Megállapodás hiteles magyar nyelvű szövege a következő:
 
-Partnerségi és Együttműködési megállapodás
+„Partnerségi és Együttműködési megállapodás
 
 egyrészről az Európai Közösségek és tagállamai, és másrészről az Üzbég Köztársaság közötti partnerség létrehozásáról
 
@@ -1778,4 +1778,4 @@ az Európai Közösség nevében
 
 A francia kormány nyilatkozata
 
-A Francia Köztársaság megjegyzi, hogy az Üzbég Köztársasággal kötött partnerségi és együttműködési megállapodást az Európai Közösséggel az Európai Közösséget létrehozó szerződés alapján társult tengerentúli országokra és területekre nem kell alkalmazni.
+A Francia Köztársaság megjegyzi, hogy az Üzbég Köztársasággal kötött partnerségi és együttműködési megállapodást az Európai Közösséggel az Európai Közösséget létrehozó szerződés alapján társult tengerentúli országokra és területekre nem kell alkalmazni.”
