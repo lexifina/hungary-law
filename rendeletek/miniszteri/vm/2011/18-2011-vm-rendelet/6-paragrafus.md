@@ -1,0 +1,9 @@
+## 5. Az állatsűrűségre vonatkozó kötelezettség
+
+6. § (1) A támogatásra jogosult által a tartási helyen négyzetméterenként maximálisan 0,24 ÁE tartható, ami ÁE-ként 4,17 m2 férőhelyigénynek felel meg.
+
+(2) Az állatsűrűségi feltétel teljesülésének megállapításához az ENAR nyilvántartásban szereplő, az adott gazdálkodási évben a tenyészetben lévő összes állat, ÁE-ben meghatározott éves átlagának, és
+
+a) kötetlen tartás esetén az istállóknak és a nyitott állattartó létesítményeknek,
+
+b) kötött tartás esetén az istállóknak
