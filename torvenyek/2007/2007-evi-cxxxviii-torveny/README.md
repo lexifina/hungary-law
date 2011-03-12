@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-138-00-00.14 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 2007-138-00-00.15 |
+| 2011-03-12 | 2011. évi XIII. törvény | 2007-138-00-00.16 |
