@@ -10,18 +10,18 @@ a) melynek tartalma megfelel az IH Közleményben közzétett részletes ajánl�
 
 b) amelyet korábban nyújtottak be, amennyiben az a) pont alapján nem lehet különbséget tenni.
 
-(4)[^53] Ha az ÚMVP-t az Európai Bizottság az elfogadás előtt kihirdetett, a támogatás részletes feltételeit megállapító jogszabályban foglaltaktól eltérő feltételekkel fogadja el, az MVH a támogatási határozatot az elfogadott programnak megfelelően megváltoztathatja vagy visszavonhatja.
+(4)[^54] Ha az ÚMVP-t az Európai Bizottság az elfogadás előtt kihirdetett, a támogatás részletes feltételeit megállapító jogszabályban foglaltaktól eltérő feltételekkel fogadja el, az MVH a támogatási határozatot az elfogadott programnak megfelelően megváltoztathatja vagy visszavonhatja.
 
-(5)[^54] Ha a támogatási kérelem nem valósítja meg maradéktalanul a támogatás részletes feltételeit megállapító jogszabály szerinti célkitűzéseket, a kérelem elutasítható.
+(5)[^55] Ha a támogatási kérelem nem valósítja meg maradéktalanul a támogatás részletes feltételeit megállapító jogszabály szerinti célkitűzéseket, a kérelem elutasítható.
 
-(6)[^55] A kifizetést az MVH az ügyfélnek az MVH-nál az ügyfél-regisztrációs rendszerben nyilvántartott bankszámlájára történő átutalással, forintban teljesíti a kifizetésről szóló határozat meghozatalától számított harminc napon belül.
+(6)[^56] A kifizetést az MVH az ügyfélnek az MVH-nál az ügyfél-regisztrációs rendszerben nyilvántartott bankszámlájára történő átutalással, forintban teljesíti a kifizetésről szóló határozat meghozatalától számított harminc napon belül.
 
-(7)[^56] A támogatás forintban kerül kifizetésre. Az ügyfelek részére engedélyezett kifizetések teljes összege nem haladhatja meg a támogatási határozatokban rögzített támogatási összeget és az egyes jogcímek esetében a 8. számú mellékletben rögzített támogatási összeg felsőhatárokat.
+(7)[^57] A támogatás forintban kerül kifizetésre. Az ügyfelek részére engedélyezett kifizetések teljes összege nem haladhatja meg a támogatási határozatokban rögzített támogatási összeget és az egyes jogcímek esetében a 8. számú mellékletben rögzített támogatási összeg felsőhatárokat.
 
-(8)[^57] Az engedélyezett kifizetések forint összege az 1913/2006/EK bizottsági rendelet 7. cikkének (1) bekezdésében foglaltak szerint és a 11. cikkben rögzített Európai Központi Bank (a továbbiakban EKB) árfolyamán kerül euróra átváltásra.
+(8)[^58] Az engedélyezett kifizetések forint összege az 1913/2006/EK bizottsági rendelet 7. cikkének (1) bekezdésében foglaltak szerint és a 11. cikkben rögzített Európai Központi Bank (a továbbiakban EKB) árfolyamán kerül euróra átváltásra.
 
-[^53]: A 9. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^54]: A 9. § új (5) bekezdését a 92/2007. (VIII. 24.) FVM rendelet 10. § (5) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^55]: A 9. § eredeti (5) bekezdésének számozását a 92/2007. (VIII. 24.) FVM rendelet 10. § (5) bekezdése (6) bekezdésre változtatta, szövege a 23/2010. (III. 16.) FVM rendelet 1. § (5) bekezdésével megállapított szöveg. A 9. § (6) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^56]: A 9. § (7) bekezdését a 92/2007. (VIII. 24.) FVM rendelet 10. § (6) bekezdése iktatta be, szövege az 53/2008. (IV. 24.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^57]: A 9. § (8) bekezdését az 53/2008. (IV. 24.) FVM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^54]: A 9. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^55]: A 9. § új (5) bekezdését a 92/2007. (VIII. 24.) FVM rendelet 10. § (5) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^56]: A 9. § eredeti (5) bekezdésének számozását a 92/2007. (VIII. 24.) FVM rendelet 10. § (5) bekezdése (6) bekezdésre változtatta, szövege a 23/2010. (III. 16.) FVM rendelet 1. § (5) bekezdésével megállapított szöveg. A 9. § (6) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (12) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^57]: A 9. § (7) bekezdését a 92/2007. (VIII. 24.) FVM rendelet 10. § (6) bekezdése iktatta be, szövege az 53/2008. (IV. 24.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^58]: A 9. § (8) bekezdését az 53/2008. (IV. 24.) FVM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.

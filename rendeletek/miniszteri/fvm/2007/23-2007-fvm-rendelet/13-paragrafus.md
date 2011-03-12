@@ -2,7 +2,7 @@
 
 ## TERÜLET- ÉS ÁLLATLÉTSZÁM ALAPÚ TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-13. § (1)[^65] A kifizetési határozat meghozatalára a kifizetési kérelem 1975/2006/EK bizottsági rendelet 11. cikke szerinti keresztellenőrzését követő 60 napon belül kerül sor.
+13. § (1)[^66] A kifizetési határozat meghozatalára a kifizetési kérelem 1975/2006/EK bizottsági rendelet 11. cikke szerinti keresztellenőrzését követő 60 napon belül kerül sor.
 
 (2) A területalapú támogatásra vonatkozó kérelemhez mellékelni kell a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi blokktérképet, melyen be kell jelölni a kérelemben bejelentett területegységet.
 
@@ -24,7 +24,7 @@ b) eléri vagy meghaladja az a) pontban hivatkozott mértéket, az MVH fizikai e
 
 (7) A (6) bekezdés b) pontja szerinti fizikai ellenőrzést nem kell lefolytatni, ha az (5) bekezdés szerinti határidőt az ügyfél elmulasztotta. Ebben az esetben az MVH a határidőt elmulasztó ügyfél bejelentett területére vonatkozó adatot a túligénylés mértékének megfelelően csökkenti.
 
-(8)[^66] Terület- és állatlétszám alapú támogatásban csak az az ügyfél részesülhet, aki nem áll felszámolási eljárás vagy végelszámolás alatt, továbbá az a természetes személy ügyfél, aki nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt. Csődeljárás alatt álló szervezet esetén e rendelet 16. § (3) bekezdésében foglaltakat kell alkalmazni.
+(8)[^67] Terület- és állatlétszám alapú támogatásban csak az az ügyfél részesülhet, aki nem áll felszámolási eljárás vagy végelszámolás alatt, továbbá az a természetes személy ügyfél, aki nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt. Csődeljárás alatt álló szervezet esetén e rendelet 16. § (3) bekezdésében foglaltakat kell alkalmazni.
 
-[^65]: A 13. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^66]: A 13. § (8) bekezdését az 51/2009. (IV. 16.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^66]: A 13. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^67]: A 13. § (8) bekezdését az 51/2009. (IV. 16.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
