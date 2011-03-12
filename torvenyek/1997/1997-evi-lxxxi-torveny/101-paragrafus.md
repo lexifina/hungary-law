@@ -38,7 +38,7 @@ p) az özvegyi járadék számítására vonatkozó szabályokat;
 
 q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
 
-r) a társadalombiztosítási egyéni számlával kapcsolatos szabályozást
+r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat
 
 rendeletben határozza meg.
 

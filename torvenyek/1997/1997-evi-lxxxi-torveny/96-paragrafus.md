@@ -26,7 +26,9 @@ e) a rokkantság fokára, az egészségkárosodás mértékére, a szakmai munka
 
 f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra vonatkozó adatok,
 
-g) az élettársra és az eltartott hozzátartozói minőségre vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az élettársi, hozzátartozói minőség figyelembevételével történik,
+g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása a hozzátartozói minőség figyelembevételével történik,
+
+h) a társadalombiztosítási egyéni számlára vonatkozó, a 96/A. § (1) bekezdése szerinti állami adóhatóság által nyilvántartott egyéb adatok
 
 tarthatók nyilván.
 
