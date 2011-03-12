@@ -22,7 +22,7 @@ e) Állami Számvevőszékkel,
 
 f) Gazdasági Versenyhivatallal,
 
-g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel,
+g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
 
 h) vagyonellenőrrel
 

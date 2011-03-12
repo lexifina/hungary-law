@@ -8,7 +8,7 @@ c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követ
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF)
+a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
 b) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 
