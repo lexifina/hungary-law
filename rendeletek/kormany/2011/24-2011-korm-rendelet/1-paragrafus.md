@@ -1,0 +1,9 @@
+1. § (1) A Kjt. 9. § (1) bekezdés a) és b) pontja alkalmazása (a továbbiakban: a munkáltatói szintű reprezentativitás megállapítása) érdekében a munkáltatónál jogviszonyban álló közalkalmazottak létszámát a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.
+
+(2) A Kjt. 9. § (2) bekezdés a) pontja alkalmazása (a továbbiakban: területi-helyi szintű reprezentativitás egyszerű megállapítása) érdekében az önkormányzat által fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámát az (1) bekezdés alapján megállapított adatoknak az adott önkormányzat fenntartásában működő munkáltatókra vonatkozó összesítésével kell megállapítani.
+
+(3) A Kjt. 9. § (2) bekezdés b) pontja alkalmazása (a továbbiakban: területi-helyi szintű reprezentativitás ágazati adatokból történő megállapítása) érdekében az önkormányzat által fenntartott munkáltatóknál az adott ágazatban, alágazatban vagy szakágazatban foglalkoztatott közalkalmazottak létszámát az adott önkormányzat fenntartásában működő, alaptevékenysége szerint az adott ágazatba tartozó munkáltatóknál a (2) bekezdés alapján megállapított adatok alapulvételével kell megállapítani.
+
+(4) A Kjt. 9. § (3) bekezdés alkalmazása (a továbbiakban: ágazati szintű reprezentativitás megállapítása) érdekében az ágazatban, alágazatban vagy szakágazatban foglalkoztatott közalkalmazottak létszámát az igazolás hónapjának első napján közalkalmazotti jogviszonyban állók létszámával azonosan kell megállapítani.
+
+(5) A Kjt. 9. § (4) bekezdés alkalmazása (a továbbiakban: országos reprezentativitás megállapítása) érdekében a közalkalmazottak országos létszámát az igazolás hónapjának első napján közalkalmazotti jogviszonyban állók létszámával azonosan kell megállapítani.
