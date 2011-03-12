@@ -20,6 +20,10 @@ a) statisztikai célokra a Központi Statisztikai Hivatal,
 
 b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
 
-c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap részére.
+c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
+
+d) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
+
+részére.
 
 (7) A Felügyelet a pénztárak egyedi azonosítására alkalmas adatokat szolgáltat a feladatkörében eljáró Gazdasági Versenyhivatal részére.

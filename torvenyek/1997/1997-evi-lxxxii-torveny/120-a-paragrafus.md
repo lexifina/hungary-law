@@ -20,7 +20,13 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (7) A központi nyilvántartásból a foglalkoztató a vele a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesített pénztártag adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíj bevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatokat – az adatkérés céljának és jogalapjának egyidejű igazolása mellett – írásban kell kérelmezni, a központi nyilvántartásból teljesíthető adatszolgáltatás a pénztártagsági jogviszony fennállására és az érintett pénztár adatainak átadására terjedhet ki. A kincstár, a számfejtési körébe tartozó munkáltatóknál Tbj. 5. §-a szerinti biztosítási jogviszonyban álló pénztártagok adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíjbevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatkérésben az érintett pénztártag és munkáltató adatai mellett fel kell tüntetni az adatkérést kezdeményező kincstár azonosító és leíró adatait.
 
-(8) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv számára a visszalépő tagok nyilvántartott követeléséről, pénztárak szerinti bontásban, tagi szinten.
+(8) A társadalombiztosítási egyéni számla teljes körű kialakítása céljából – 2011. december 1-jét követően, legkésőbb 2012. március 31-ig – a Felügyelet átadja a központi nyilvántartásból
+
+a) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 119. § (3) bekezdés a) és d) pontjában meghatározott adatait pénztárak szerinti bontásban és tagi szinten, továbbá
+
+b) a valamennyi ott meghatározott személyre vonatkozó, a 119. § (3) bekezdés a), e) és f) pontja alapján nyilvántartott adatokat személyenkénti bontásban
+
+a társadalombiztosítási egyéni számla vezetéséért felelős államigazgatási szerv részére.
 
 (9) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat – a visszalépő tagok követelésének pénztárankénti összegéről – a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
 

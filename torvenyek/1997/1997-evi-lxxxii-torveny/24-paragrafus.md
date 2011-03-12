@@ -24,4 +24,12 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról – ha e törvény eltérően nem rendelkezik – személyazonosságának ellenőrzése céljából személyesen, a nyugdíjbiztosítási igazgatási szervnél kell nyilatkoznia. Azt a magán-nyugdíjpénztári tagot, aki a nyugdíjbiztosítási igazgatási szerv előtti nyilatkozattételben testi fogyatékossága, egyéb egészségügyi ok miatt vagy azért akadályozott, mert személyi szabadságát korlátozó büntetés vagy intézkedés hatálya alatt áll, nyilatkozattételének lehetővé tétele érdekében – kérésére – a nyugdíjbiztosítási igazgatási szerv felkeresi (a továbbiakban: helyszíni nyilatkozattétel). A helyszíni nyilatkozattétel lehetőségét a magán-nyugdíjpénztári tag 2011. január 21-éig írásban kérheti a nyugdíjbiztosítási igazgatási szervtől. A nyilatkozattételre rendelkezésre álló időtartam alatt tartósan külföldön foglalkoztatott, tartós külföldi szolgálatot teljesítő vagy külföldi tanulmányokat folytató magán-nyugdíjpénztári tag (a továbbiakban: tartósan külföldön tartózkodó pénztártag) nyilatkozatát személyesen a Magyar Köztársaság külképviseletén is megteheti.
 
-(11) A pénztár a visszalépő tag a 4. § (2) bekezdés zsk) pont szerinti kifizetésekkel csökkentett – az elszámolás fordulónapjára vonatkozó piaci értékelés szerint számított – követelésének értékét a tagok portfoliójában lévő eszközökben adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály eltérő rendelkezése hiányában – a visszalépő tag portfolióján belüli befektetési eszköz aránynak megfelelően kell átadni.
+(11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket, valamint a visszalépő tagok 2011. május 31-ére, mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfolióján belüli eszközök arányának megfelelően kell átadni.
+
+(12) A pénztár
+
+a) a visszalépő tagi kifizetések összegét 2011. július 20-ig,
+
+b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések összegét havonta, az adott hónapot követő hónap 8. napjáig
+
+igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.

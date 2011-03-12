@@ -24,7 +24,9 @@ k) a Gazdasági Versenyhivatallal,
 
 l) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 
-m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel
+m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
+
+n) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
