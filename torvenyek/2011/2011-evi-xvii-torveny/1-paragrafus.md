@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a közös államhatár mentén lévő szénhidrogén-előfordulások közös kutatásáról és kitermeléséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
