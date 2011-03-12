@@ -1,43 +1,53 @@
-113/A. § (1) Az államháztartásért felelős miniszter az államadósság kezelés körében az ÁKK Zrt. útján
+113/A. § (1) Az államháztartásért felelős miniszter az államadósság-kezelés körében az ÁKK Zrt. útján
 
-a) az éves költségvetési törvény alapján a 18/B. § (1) bekezdésének p) pontja szerinti előrejelzés figyelembevételével gondoskodik a központi költségvetés fizetőképességének fenntartásáról;
+a) az éves költségvetési törvény alapján a 18/B. § (1) bekezdés p) pontja szerinti előrejelzés figyelembevételével gondoskodik a központi költségvetés fizetőképességének fenntartásáról,
 
-b) gondoskodik a központi költségvetést terhelő adósság, valamint az állam átmenetileg szabad pénzeszközeinek kezeléséről;
+b) gondoskodik a központi költségvetést terhelő adósság, valamint az állam átmenetileg szabad pénzeszközeinek kezeléséről,
 
 c) nyilvántartja a központi költségvetést terhelő adósságot.
 
-(2) E feladatkörében az ÁKK Rt.
+(2) Az (1) bekezdés szerinti feladatkörében az ÁKK Zrt.
 
-a) elkészíti a központi költségvetés éves és középtávú finanszírozási tervét, kidolgozza az államadósság finanszírozási stratégiáját;
+a) elkészíti a központi költségvetés éves és középtávú finanszírozási tervét, kidolgozza az államadósság finanszírozási stratégiáját,
 
-b) a költségvetési törvény keretében szervezi a központi költségvetés adósságát képező állampapír-kibocsátásokat, hitelfelvételeket és hitelátvállalásokat;
+b) a költségvetési törvény keretében szervezi a központi költségvetés adósságát képező állampapír-kibocsátásokat, hitelfelvételeket és hitelátvállalásokat,
 
-c) gondoskodik a központi költségvetést terhelő adósság terheinek kifizetéséről;
+c) gondoskodik a központi költségvetést terhelő adósság terheinek kifizetéséről,
 
-d) szervezi a másodlagos állampapírpiacot;
+d) szervezi a másodlagos állampapírpiacot,
 
-e) a másodlagos állampapír-piacon sajátszámlás kereskedést, értékpapír kölcsönzést, repó és fordított repó műveleteket végez, valamint azonnali és határidős-, fedezeti- és csereügyleteket, továbbá származtatott ügyleteket köt, letétkezelési és letéti őrzési feladatokat lát el;
+e) a másodlagos állampapír-piacon sajátszámlás kereskedést, értékpapír kölcsönzést, repó és fordított repó műveleteket végez, valamint azonnali, határidős, fedezeti, csere és származtatott ügyleteket köt, továbbá letétkezelési és letéti őrzési feladatokat lát el,
 
-f) elemzi a központi költségvetést terhelő adósságszolgálat és állampapírpiac folyamatait;
+f) elemzi a központi költségvetést terhelő adósságszolgálat és az állampapírpiac folyamatait,
 
-g) közreműködik az államháztartási adósság számításában, a 112. § szerinti kormányrendeletnek megfelelően tájékoztat az államadósság és az államháztartási adósság alakulásáról és az állampapírpiac folyamatairól;
+g) közreműködik az államháztartási adósság számításában, a 112. § szerinti kormányrendeletnek megfelelően tájékoztat az államadósság és az államháztartási adósság alakulásáról és az állampapírpiac folyamatairól,
 
-h) külön jogszabály felhatalmazása alapján állami kezességgel, illetve állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, illetve ezzel kapcsolatos tanácsadási feladatokat láthat el;
+h) véleményezi az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételeit,
 
-i) véleményezi az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételeit;
+i) hitel-betét műveleteket végez,
 
-j) hitel-betét műveleteket végez;
+j) közreműködik az állami kezesség, garancia melletti hitel- és kölcsönfelvétellel, illetve hitelviszonyt megtestesítő értékpapír kibocsátással kapcsolatos feladatok ellátásában.
 
-k) közreműködik az állami kezesség, garancia melletti hitel- és kölcsönfelvétellel, illetve hitelviszonyt megtestesítő értékpapír kibocsátással kapcsolatos feladatok ellátásában. Az ÁKK Rt. a közreműködésért a központi költségvetés terhére díjazásban részesül. A díj mértéke az alapügyben szereplő tőke összegének legfeljebb 0,025 százaléka. Az ÁKK Rt. e feladatainak és díjazásának részletes szabályait a Kormány rendeletben határozza meg;
+(3) Az ÁKK Zrt. a (2) bekezdés j) pontja szerinti közreműködésért a központi költségvetés terhére díjazásban részesül. A díj mértéke az alapügyben szereplő tőke összegének legfeljebb 0,025 százaléka. Az ÁKK Zrt. e feladatainak és díjazásának részletes szabályait a Kormány rendeletben határozza meg.
 
-l) közreműködhet az állam többségi tulajdonában álló gazdálkodó szervezet hitelfelvételével, kölcsönfelvételével, illetve hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – beleértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában, melyért a gazdálkodó szervezettől a k) pontban meghatározott mértékű díjra jogosult;
+(4) A (2) bekezdésben meghatározott feladatkörön túl az ÁKK Zrt.
 
-m) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap pénzügyi eszközeinek kezelésében és értékesítésében.
+a) jogszabály felhatalmazása alapján állami kezességgel, illetve állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, illetve ezzel kapcsolatos tanácsadási feladatokat láthat el,
 
-(3) Az ÁKK Rt. a 18/G. § (6) bekezdésében meghatározott számlák elkülönített alszámláin forgalomba hozatal és mögöttes pénzkövetelés nélkül olyan hitelviszonyt megtestesítő értékpapír-állományt hozhat létre, amely a (2) bekezdés e) pontja szerinti ügyletek tárgya lehet.
+b) közreműködhet helyi önkormányzat, továbbá az állam, valamint helyi önkormányzat többségi tulajdonában álló gazdálkodó szervezet hitelfelvételével, kölcsönfelvételével, illetve hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – beleértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában, melyért a gazdálkodó szervezettől a (3) bekezdésben meghatározott mértékű díjra jogosult,
 
-(4) Az ÁKK Zrt. (1) és (2) bekezdés szerinti tevékenysége körében az állam által kibocsátott vagy állami kezességgel, illetve állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. §-ának a–d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. §-a (1) bekezdésének a)–d) és f)–h) pontjaiban meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. §-a (2) bekezdésének a), b), d), g) és h) pontjaiban meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
+c) közreműködhet az Országos Betétbiztosítási Alap szabad pénzeszközeinek kezelésében,
 
-(5) Az ÁKK Zrt. (1) bekezdés és (2) bekezdés a)–g) és i)–k) pontjai szerinti tevékenysége, illetve az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (4) bekezdés szerinti tevékenysége államadósság kezelésnek minősül. Az ÁKK Zrt. államadósság kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit az ott meghatározott kivételekkel kell alkalmazni.
+d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében.
 
-(6) A kincstár az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében a Bszt. 5. §-a (1) bekezdésének a)–c) és g) pontja szerinti befektetési szolgáltatási tevékenységet végezhet és a Bszt. 5. §-a (2) bekezdésének a) és b) pontja szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást nyújthat, valamint közvetítőként járhat el azzal, hogy e tevékenységére és szolgáltatására vonatkozóan a Bszt. rendelkezéseit az ott meghatározott kivételekkel kell alkalmazni.
+(5) Az ÁKK Zrt. a 18/G. § (6) bekezdésében meghatározott számlák elkülönített alszámláin forgalomba hozatal és mögöttes pénzkövetelés nélkül olyan hitelviszonyt megtestesítő értékpapír-állományt hozhat létre, amely a (2) bekezdés e) pontja szerinti ügyletek tárgya lehet.
+
+(6) Az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyokban a Magyar Államot az államháztartásért felelős miniszter képviseli; ezt a képviseleti jogát az államháztartásért felelős miniszter az ÁKK Zrt. úján is gyakorolhatja, illetve írásban az ÁKK Zrt.-re átruházhatja.
+
+(7) Az ÁKK Zrt. (1)–(4) bekezdés szerinti tevékenysége körében az állam által kibocsátott vagy állami kezességgel, illetve állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)–d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjaiban meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
+
+(8) Az ÁKK Zrt. (1) bekezdés és (2) bekezdés szerinti tevékenysége, illetve az ezen feladatkörben az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (7) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit az ott meghatározott kivételekkel kell alkalmazni.
+
+(9) Az ÁKK Zrt. által államadósság-kezelés körében megkötött ügyletek az állam javára, illetve terhére megkötött ügyleteknek minősülnek és azokat ezzel összhangban kell elszámolni.
+
+(10) A kincstár az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében a Bszt. 5. § (1) bekezdés a)–c) és g) pontja szerinti befektetési szolgáltatási tevékenységet végezhet és a Bszt. 5. § (2) bekezdés a) és b) pontja szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást nyújthat, valamint közvetítőként járhat el azzal, hogy e tevékenységére és szolgáltatására vonatkozóan a Bszt. rendelkezéseit az ott meghatározott kivételekkel kell alkalmazni.

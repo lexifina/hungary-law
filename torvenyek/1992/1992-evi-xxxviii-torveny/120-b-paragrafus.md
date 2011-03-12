@@ -14,8 +14,14 @@ e) a Kormány, a Kormány tagja, illetve az irányításuk vagy felügyeletük a
 
 f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
 
-g) az a)–f) pontban foglaltakkal összefüggésben megvalósított beszerzésekre, az ezekre kötött szerződések teljesítésének vizsgálatára, ebben a vonatkozásában azon szerződő felekre is, amelyek a szerződés teljesítéséért felelősek, vagy abban közreműködnek.
+g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
+
+h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek.
 
 (2) Az (1) bekezdésben meghatározott szerv feladatát, hatáskörét és szervezetét, valamint a kormányzati ellenőrzés eljárási szabályait a Kormány rendeletben határozza meg. Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, ott az (1) bekezdésben meghatározott kormányzati ellenőrzési szervet kell érteni.
 
 (3) A kormányzati ellenőrzési szerv – törvény vagy kormányrendelet eltérő rendelkezése hiányában – tevékenysége során a költségvetési szervek belső ellenőrzésére vonatkozó szabályok szerint jár el.
+
+(4) Az (1) bekezdésben meghatározott feladatai ellátásával összefüggésben a kormányzati ellenőrzési szerv jogosult az üzleti titok és törvény felhatalmazása alapján az ellenőrzés alá vont szervezetek által kezelt egyéb titokfajták megismerésére.
+
+(5) A kormányzati ellenőrzési szerv a (4) bekezdés alapján személyes adatot az (1) bekezdés g) pontja és azzal összefüggésben h) pontja szerinti ellenőrzési tevékenysége céljából és az ahhoz szükséges mértékben, az ellenőrzés lezárásáig kezelhet.

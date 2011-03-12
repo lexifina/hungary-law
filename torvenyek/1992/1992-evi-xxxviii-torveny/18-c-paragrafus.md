@@ -20,7 +20,7 @@ d) a Magyar Nemzeti Vagyonkezelő Zrt.,
 
 e) a külön jogszabályban meghatározott hallgatói hitelt nyújtó Diákhitel Központ,
 
-f)
+f) a Nyugdíjreform és Adósságcsökkentő Alap.
 
 (7) A (6) bekezdésben felsorolt pénzforgalmi számlatulajdonosok más pénzintézetnél vezetett pénzforgalmi számlával – lakásépítés munkáltatói támogatása számla és a devizaszámla kivételével – nem rendelkezhetnek. A (6) bekezdésben felsorolt pénzforgalmi számlatulajdonosok átmenetileg szabad pénzeszközeiket a kincstár hálózatában értékesített – az értékpapírszámlán, illetve értékpapírletéti-számlán nyilvántartott – állampapírok vásárlásával hasznosíthatják. A kincstár a kincstári körbe tartozók 12/A. § (4) bekezdésében foglalt letéti pénzeszközei kezelését térítésmentes szolgáltatásként végzi. A kincstár a 18/B. § (1) bekezdés n), r), s) pontjában foglalt szolgáltatásait – a társadalombiztosítás pénzügyi alapjai részére nyújtott szolgáltatás kivételével – jogszabályban meghatározottak szerint, térítés ellenében végzi.
 
