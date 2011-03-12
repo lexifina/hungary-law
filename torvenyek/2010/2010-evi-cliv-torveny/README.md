@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-154-00-00
 | --- | --- | --- |
 | 2010-12-22 | 2010. évi CLIV. törvény | 2010-154-00-00.0 (közlönyállapot) |
 | 2010-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-154-00-00.1 |
+| 2011-03-12 | 2011. évi XIII. törvény | 2010-154-00-00.2 |
