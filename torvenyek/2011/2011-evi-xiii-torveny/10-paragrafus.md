@@ -1,3 +1,0 @@
-10. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 51. § (6) bekezdése a következő negyedik mondattal egészül ki:
-
-„Ha a biztosított pénztártagsági jogviszonya a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt már nem áll fenn, a visszalépést megelőző időszakban tévesen megállapított nyugdíjjárulék és tagdíj önellenőrzését nyugdíjjárulék önellenőrzésként kell elvégezni, feltéve, hogy ennek eredményeként a nyugdíjjárulék összege az eredetileg bevallott nyugdíjjárulék és tagdíj együttes összegéhez képest változik.”
