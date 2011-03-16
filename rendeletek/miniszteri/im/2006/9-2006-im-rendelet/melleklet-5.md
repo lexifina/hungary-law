@@ -80,6 +80,6 @@
 
 | 38. szeszipar | a) okleveles vegyészmérnök vagy b) okleveles agrármérnök vagy c) okleveles élelmiszermérnök vagy d) okleveles gépészmérnök vagy e) okleveles mezőgazdasági gépészmérnök vagy f) élelmiszeripari gépészmérnök |
 
-5. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^110]
+5. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^109]
 
-[^110]: Az 5. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése és a 25. § (2) bekezdésének d)–e) pontja, a 32/2008. (XII. 31.) IRM rendelet 18. § (3) és (7) bekezdése, 19. § (8) bekezdés i) pontja, a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének a)–b) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (3)–(4) bekezdése, továbbá a 17. § (3) bekezdés i) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^109]: Az 5. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése és a 25. § (2) bekezdésének d)–e) pontja, a 32/2008. (XII. 31.) IRM rendelet 18. § (3) és (7) bekezdése, 19. § (8) bekezdés i) pontja, a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének a)–b) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (3)–(4) bekezdése, továbbá a 17. § (3) bekezdés i) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

@@ -22,6 +22,6 @@
 
 | 9. forenzikus botanika | a) okleveles biológus vagy b) biológus vagy c) okleveles biológia szakos tanár vagy d) biológia szakos tanár |
 
-13. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^117]
+13. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^116]
 
-[^117]: A 13. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
+[^116]: A 13. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.

@@ -40,6 +40,6 @@
 
 | 19. épületenergetika | a) okleveles gépészmérnök vagy b) okleveles villamosmérnök vagy c) okleveles építészmérnök vagy d) okleveles építőmérnök vagy e) gépészmérnök vagy f) villamosmérnök vagy g) építészmérnök vagy h) építőmérnök |
 
-12. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^116]
+12. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^115]
 
-[^116]: A 12. számú mellékletet a 31/2006. (XII. 21.) IRM rendelet 9. §-a iktatta be, szövege a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, valamint a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének c) pontja, az 50/2009. (IX. 28.) IRM rendelet 17. § (4) bekezdés j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^115]: A 12. számú mellékletet a 31/2006. (XII. 21.) IRM rendelet 9. §-a iktatta be, szövege a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, valamint a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének c) pontja, az 50/2009. (IX. 28.) IRM rendelet 17. § (4) bekezdés j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

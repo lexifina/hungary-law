@@ -12,19 +12,23 @@ d)[^9] a c) pontban megjelölt kérelmező kivételével a 7. §-ban megjelölt 
 
 (2)[^10]
 
-(3)[^11] Amennyiben e rendelet az igazságügyi szakértői névjegyzékbe való felvételt
+(3)[^11] Amennyiben e rendelet az igazságügyi szakértői névjegyzékbe való felvételt külön jogszabályban meghatározott
 
-a) a területi mérnöki kamara (a továbbiakban: mérnöki kamara),
+a) tűzvédelmi,
 
-b) a területi építész kamara (a továbbiakban: építész kamara),
+b) munkabiztonsági,
 
-c) az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség),
+c) agrár-gazdasági és agrárvidék-fejlesztési,
 
-d) az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: Főigazgatóság), vagy
+d) közlekedési,
 
-e) a Nemzeti Közlekedési Hatóság
+e) környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi,
 
-## által vezetett szakértői névjegyzékében az igazságügyi szakterületnek megfelelő kamarai, főfelügyelőségi, főigazgatósági vagy közlekedési hatósági szakterületen való érvényes bejegyzéshez (a továbbiakban: ágazati szakértői jogosultság) köti, az (1) bekezdés c) és d) pontjában megjelölt kérelmező igazságügyi szakértői névjegyzékbe való felvételét követően az ágazati szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati idő elteltét követő egy éven belül köteles az igazságügyi szakértői szakterületének megfelelő ágazati szakértői jogosultságot megszerezni.
+f) építésügyi műszaki, vagy
+
+g) településrendezési
+
+szakértői névjegyzékben az igazságügyi szakterületnek megfelelő szakterületen való érvényes bejegyzéshez (a továbbiakban: ágazati szakértői jogosultság) köti, az (1) bekezdés c) és d) pontjában megjelölt kérelmező igazságügyi szakértői névjegyzékbe való felvételét követően az ágazati szakértői jogosultság megszerzéséhez szükséges szakmai gyakorlati idő elteltét követő egy éven belül köteles az igazságügyi szakértői szakterületének megfelelő ágazati szakértői jogosultságot megszerezni.
 
 (4)[^12] Ha e rendelet a névjegyzékbe való felvételhez egyetemi vagy főiskolai alapképzésben szerzett végzettségen túl szakirányú továbbképzésben szerzett szakképzettség vagy egyéb szakképesítés meglétét írja elő, úgy a gyakorlati időt – e rendeletben foglalt eltérő rendelkezés hiányában – a szakirányú továbbképzésben szerzett szakképzettség vagy egyéb szakképesítés megszerzésétől kell számítani.
 
@@ -33,6 +37,6 @@ e) a Nemzeti Közlekedési Hatóság
 [^8]: A 6. § (1) bekezdés c) pontja az 50/2009. (IX. 28.) IRM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^9]: A 6. § (1) bekezdés d) pontját az 50/2009. (IX. 28.) IRM rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^10]: A 6. § (2) bekezdését az 50/2009. (IX. 28.) IRM rendelet 17. § (4) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^11]: A 6. § (3) bekezdését a 32/2008. (XII. 31.) IRM rendelet 2. § (2) bekezdése iktatta be, szövege az 50/2009. (IX. 28.) IRM rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^11]: A 6. § (3) bekezdését a 32/2008. (XII. 31.) IRM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2011. (III. 8.) KIM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 12. § (3) bekezdése alapján a folyamatban lévő közigazgatási hatósági eljárások során is alkalmazni kell.
 [^12]: A 6. § (4) bekezdését az 50/2009. (IX. 28.) IRM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^13]: A 6. § (5) bekezdését az 50/2009. (IX. 28.) IRM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

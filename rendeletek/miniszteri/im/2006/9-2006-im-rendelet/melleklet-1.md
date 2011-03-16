@@ -1,3 +1,3 @@
-1. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^106]
+1. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^105]
 
-[^106]: Az 1. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 25. § (4) bekezdésének q) pontja szerint módosított szöveg.
+[^105]: Az 1. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 25. § (4) bekezdésének q) pontja szerint módosított szöveg.
