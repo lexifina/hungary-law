@@ -1,3 +1,3 @@
-## 34. §[^24] A kiküldöttet a külföldi tartózkodás időtartamára a külszolgálat alatt ellátott beosztáshoz rendszeresített rendfokozattól, a kontingens konkrét tevékenységének jellegétől, illetve a külföldi állomáshely viszonyaitól függő mértékű devizaellátmány illeti meg, amely alapdevizaellátmányból, vezetői devizaellátmány-pótlékból és devizaellátmány-kiegészítésből áll.
+## 34. §[^60] A kiküldöttet a külföldi tartózkodás időtartamára a külszolgálat alatt ellátott beosztáshoz rendszeresített rendfokozattól, a kontingens konkrét tevékenységének jellegétől, illetve a külföldi állomáshely viszonyaitól függő mértékű devizaellátmány illeti meg, amely alapdevizaellátmányból, vezetői devizaellátmány-pótlékból és devizaellátmány-kiegészítésből áll.
 
-[^24]: A 34. § a 24/2008. (X. 21.) HM rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. § (1)–(2) bekezdését.
+[^60]: A 34. § a 24/2008. (X. 21.) HM rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. § (1)–(2) bekezdését.

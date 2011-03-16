@@ -2,16 +2,20 @@
 
 ## Gépjárműhasználat
 
-28. § (1) Az engedélyező elöljáró által – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – meghatározott feltételekkel a honvédség a kiküldött részére:
+28. §[^53] (1) Az engedélyező elöljáró – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – a kiküldött részére:
 
-a) a feladat jellegétől függően szolgálati gépjárművet biztosíthat;
+a) a feladat jellegétől függően szolgálati gépjármű használatát engedélyezheti, amelyet az illetékes logisztikai ellátó szerv biztosít;
 
-b) saját tulajdonú gépkocsi szolgálati célú igénybevételét engedélyezheti, mely esetben a (2) bekezdés szerinti térítés jár.
+b) a saját tulajdonú gépkocsi szolgálati célú igénybevételét engedélyezheti, mely esetben a kiküldöttnek az egyes költségtérítésekről szóló miniszteri rendeletben meghatározott térítés jár.
 
-(2) A 26. § (2) bekezdése szerinti devizaellátmány-előleg felhasználásával vásárolt gépkocsit – a külön rendelkezésekben meghatározott térítési díj ellenében – a kiküldött az engedélyező elöljáró utasítása alapján beosztásával összefüggő feladatai ellátására is köteles használni.
+(2) A 26. § (2) bekezdése szerinti devizaellátmány-előleg felhasználásával vásárolt gépkocsit – az egyes költségtérítésekről szóló miniszteri rendeletben meghatározott térítési díj ellenében – a kiküldött az engedélyező elöljáró utasítása alapján beosztásával összefüggő feladatai ellátására is köteles használni.
 
-(3) Az (1)–(2) bekezdések szerinti lehetőségek hiányában a kiküldött részére indokolt esetben szolgálati feladatai ellátása érdekében – alkalmanként – bérelt gépjármű igénybevétele is engedélyezhető, amelynek költsége a honvédséget terheli.
+(3) Saját tulajdonú gépkocsi szolgálati célú igénybevétele csak a külföldön is érvényes teljeskörű CASCO vagy azzal egyenértékű biztosítással rendelkezők részére engedélyezhető. A gépjárműre vonatkozó teljeskörű biztosítás díja a kiküldöttet terheli.
 
-(4) Az (1) bekezdés a) pontja szerinti szolgálati gépjármű biztosításának és a (3) bekezdés szerinti gépjárműbérlés engedélyezésének szabályait külön rendelkezés [a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében MK KFH főigazgatói intézkedés] tartalmazza.
+(4) Az (1)–(2) bekezdések szerinti lehetőségek hiányában a kiküldött részére indokolt esetben, szolgálati feladatai ellátása érdekében – alkalmanként – bérelt gépjármű igénybevétele is engedélyezhető, amelynek költsége a honvédséget terheli.
 
-(5) A gépkocsival történő munkába járás nem minősül szolgálati célú igénybevételnek.
+(5) A szolgálati gépjármű magáncélú használata – ideértve a gépjármű lakás és munkahely közötti utazásra történő használatát is – a kiküldött részére a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével engedélyezhető.
+
+(6) Az (1) és (5) bekezdés szerinti gépjárműhasználat és a (4) bekezdés szerinti gépjárműbérlés engedélyezésének és elszámolásának szabályait külön miniszteri rendelet – a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében MK KFH főigazgatói intézkedés – tartalmazza.
+
+[^53]: A 28. § az 1/2011. (III. 8.) HM rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

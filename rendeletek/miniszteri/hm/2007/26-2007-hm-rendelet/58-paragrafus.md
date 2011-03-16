@@ -1,4 +1,4 @@
-58. § (1) A kiküldött a kiutazási engedély alapján szolgálati, illetőleg saját gépjárművet is igénybe vehet. Saját gépjármű igénybevétele azonban csak a külföldön is érvényes teljeskörű CASCO biztosítással rendelkezők részére engedélyezhető. A CASCO biztosítás díja a kiküldöttet terheli.
+58. § (1)[^92] A kiküldött a kiutazási engedély alapján szolgálati, illetőleg saját gépjárművet is igénybe vehet. Saját gépjármű igénybevétele azonban csak a külföldön is érvényes teljeskörű CASCO vagy azzal egyenértékű biztosítással rendelkezők részére engedélyezhető. A gépjárműre vonatkozó teljeskörű biztosítás díja a kiküldöttet terheli.
 
 (2) Szolgálati gépjárművel történő utazás esetén az utazással összefüggésben ténylegesen felmerült szolgálati jellegű, számlával igazolt költségeket (üzemanyag, javítás, parkolás, gépjárműmosatás, autópályadíj) a honvédség megtéríti.
 
@@ -19,3 +19,5 @@ a) külföldön történt üzemanyag-felvétel esetén a számlával igazolt üz
 b) amennyiben külföldön üzemanyag-felvétel nem történt, a (3) bekezdés a) pontja figyelembevételével, forintban kell kifizetni.
 
 (6) Ha az (5) bekezdés a) pontja alapján kifizetett összeg nem éri el a külföldön megtett távolság alapján egyébként járó összeget, a fennmaradó távolságra az üzemanyag felhasználás ellenértékét a (3) bekezdés a) pontja figyelembevételével, forintban kell kifizetni.
+
+[^92]: Az 58. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 18. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

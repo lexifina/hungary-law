@@ -1,5 +1,5 @@
 9. § (1) A töredékhavi devizaellátmány és családtagi pótlék kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
-(2)[^8] A devizaellátmányt és a családtagi pótlékot havonta utólag úgy kell átutalni, hogy az a kiküldött devizaszámláján legkésőbb a tárgyhót követő hónap ötödik napján megjelenjen. A külföldi szolgálat megszűnése esetén a devizaellátmányt és a családtagi pótlékot a külföldi szolgálat határozatban (parancsban) megállapított utolsó napja előtt öt munkanappal ki kell fizetni.
+(2)[^27] A devizaellátmányt és a családtagi pótlékot havonta utólag úgy kell átutalni, hogy az a kiküldött devizaszámláján legkésőbb a tárgyhót követő hónap ötödik napján megjelenjen. A külföldi szolgálat megszűnése esetén a devizaellátmányt és a családtagi pótlékot a külföldi szolgálat határozatban (parancsban) megállapított utolsó napja előtt öt munkanappal ki kell fizetni.
 
-[^8]: A 9. § (2) bekezdése a 9/2010. (V. 4.) HM rendelet 13. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
+[^27]: A 9. § (2) bekezdése a 9/2010. (V. 4.) HM rendelet 13. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.

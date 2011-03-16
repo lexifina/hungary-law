@@ -1,6 +1,6 @@
 ## A tartós külföldi tanulmányokat folytatók devizaszorzószámainak mértéke
 
-| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Ösztöndíjas és középiskolai hallgatók | Devizaellátmány szorzószáma |
+| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Honvéd tisztjelöltek és honvéd tiszthelyettes-jelöltek | Devizaellátmány szorzószáma |
 
 | 1. | I/X | – | – | 2,00 |
 
@@ -44,12 +44,12 @@
 
 | 17. | II/I–IV | „A”–„B” fizetési osztály | – | 1,15 |
 
-| 18. | – | – | IV–V. évfolyam | 1,10 |
+| 18. | – | – | IV. évfolyam | 1,10 |
 
 | 19. | – | – | II–III. évfolyam | 1,05 |
 
 | 20. | – | – | I. évfolyam | 1,00 |
 
-4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^47]
+4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^111]
 
-[^47]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.
+[^111]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.

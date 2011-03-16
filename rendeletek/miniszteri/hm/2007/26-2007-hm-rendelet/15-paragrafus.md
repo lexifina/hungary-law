@@ -18,4 +18,6 @@ f) a kiküldött (indokolt esetben kísérőjének) szülés, egészségügyi ki
 
 (3) A honvédség évente egy alkalommal megtéríti a kiküldött részére a kiküldött Magyarországon élő – de az állomáshelyen történő kinttartózkodása alatt egyébként családtagi pótlékra jogosító – házastársa és gyermeke állomáshelyre történő ki- és hazautazásának költségét, kivéve a külföldi szolgálat megkezdésének és befejezésének évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a hat hónapot.
 
-(4) A kiküldött és a családtagi pótlékra jogosító hozzátartozó hazai egészségügyi kivizsgálásra vagy gyógykezelésre való utazását, illetve mellé a kísérő kirendelésének szükségességét az MH Honvéd Egészségügyi Központ igazolja.
+(4)[^33] A kiküldött és a családtagi pótlékra jogosító hozzátartozó hazai egészségügyi kivizsgálásra vagy gyógykezelésre való utazását, illetve mellé a kísérő kirendelésének szükségességét az MH Dr. Radó György Honvéd Egészségügyi Központ igazolja.
+
+[^33]: A 15. § (4) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

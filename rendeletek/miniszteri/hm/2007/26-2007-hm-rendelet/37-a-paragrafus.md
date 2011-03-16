@@ -1,4 +1,4 @@
-37/A. §[^28] (1)[^29] Ha a nemzetközi szervezet által a 33. § (3) bekezdése szerinti kiküldött részére közvetlenül fizetett pénzbeli ellátás havi (az illetékes pénzügyi ellátó szerv részére hivatalosan igazolt) összegének a (2) bekezdésben meghatározott hányada nem éri el az adott országra az 52. § (4) bekezdés b) pontja megállapítható külföldi napidíj egy hónapra számított összegének 150%-át, a különbözetet külföldinapidíj-kiegészítésként kell részére folyósítani.
+37/A. §[^64] (1)[^65] Ha a nemzetközi szervezet által a 33. § (3) bekezdése szerinti kiküldött részére közvetlenül fizetett pénzbeli ellátás havi (az illetékes pénzügyi ellátó szerv részére hivatalosan igazolt) összegének a (2) bekezdésben meghatározott hányada nem éri el az adott országra az 52. § (4) bekezdés b) pontja szerint megállapítható külföldi napidíj egy hónapra számított összegének 150%-át, a különbözetet külföldinapidíj-kiegészítésként kell részére folyósítani.
 
 (2) Az (1) bekezdés szerinti különbözet összegének megállapítása szempontjából a nemzetközi szervezet által a kiküldött részére közvetlenül fizetett pénzbeli ellátás összegét a következők szerinti arányban kell figyelembe venni:
 
@@ -16,5 +16,8 @@ c) ha a nemzetközi szervezet az általa fizetendő pénzbeli juttatás szállá
 
 (6) Az (1) bekezdés szerinti külföldinapidíj-kiegészítést havonta utólag, legkésőbb a tárgyhónapot követő hónap 5. napjáig kell kifizetni.
 
-[^28]: A 37/A. §-t a 13/2008. (VI. 3.) HM rendelet 4. §-a iktatta be.
-[^29]: A 37/A. § (1) bekezdése a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.
+(7)[^66] A 33. § (3) bekezdése szerinti kiküldött részére kérelemre egyszeri alkalommal, visszatérítés-köteles 2000 EUR, illetőleg annak megfelelő összegű, a tárgyhónapot megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamon átszámított USD utazási előleget kell folyósítani a kiutazás előtti nyolc munkanapon belül. Az utazási előleget a kiküldöttnek legfeljebb a kiutazást követő hat hónap alatt kell a honvédség részére – a külföldi napidíj-kiegészítésből való levonással, annak hiányában befizetéssel – visszatéríteni. Az utazási előleg felvételekor a kiküldöttnek írásban kell nyilatkozni arról, hogy vállalja a felvett előleg törlesztőrészleteinek havonta történő levonását, illetve befizetését.
+
+[^64]: A 37/A. §-t a 13/2008. (VI. 3.) HM rendelet 4. §-a iktatta be.
+[^65]: A 37/A. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^66]: A 37/A. § (7) bekezdését az 1/2011. (III. 8.) HM rendelet 14. §-a iktatta be. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
