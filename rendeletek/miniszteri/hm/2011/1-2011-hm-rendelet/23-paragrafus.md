@@ -1,0 +1,3 @@
+## 22. § Az R. 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A kiküldött elhelyezését elsősorban a fogadó fél által rendelkezésre bocsátott szálláson kell biztosítani. Amennyiben ezen szálláslehetőség igénybevétele költségekkel jár, akkor a felmerülő költség – bérleti díj, biztosítás, valamint a szálláshoz kapcsolódó szolgáltatások, így a víz, villany, gáz, fűtés, melegvíz, csatorna, szemétszállítás költsége – a honvédséget terheli. A telefonhasználattal összefüggésben – részletes számla alapján – csak a szolgálati beszélgetések díja téríthető meg. A kiküldött tulajdonát képező vagyontárgyak biztosításának díja a kiküldöttet terheli.”

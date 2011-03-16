@@ -1,0 +1,1 @@
+## „(8) Az állomáshelyen kialakult – a kiküldött személyi biztonságát közvetlenül érintő – válsághelyzet esetén a honvédelmi miniszter a devizaellátmányon felül normatív miniszteri utasításban eseti jelleggel, határozott időtartamra különpótlékot állapíthat meg.”

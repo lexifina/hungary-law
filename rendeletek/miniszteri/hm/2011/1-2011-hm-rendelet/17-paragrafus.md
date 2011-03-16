@@ -1,0 +1,3 @@
+## 16. § Az R. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az NRF és az EU BG kötelékébe, illetőleg az azokhoz hasonló funkciójú, valamely nemzetközi szervezetnek felajánlott egység, alegység állományának járandóságaira a kötelék alkalmazása esetén – a külföldi szolgálat megkezdésétől annak befejezéséig – műveleti területen teljesített külföldi szolgálat idejére az e fejezetben foglalt rendelkezéseket kell megfelelően alkalmazni. A felajánlott egység, alegység előzőekben említettől eltérő külföldi igénybevétele esetében az érintett állomány tagjai az V. fejezet szerinti juttatásokra jogosultak.”
