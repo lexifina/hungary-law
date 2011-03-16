@@ -1,3 +1,3 @@
-7. §[^1]
+7. §[^3]
 
-[^1]: A 7. § a 6. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § a 6. § (2) bekezdése alapján hatályát vesztette.
