@@ -76,8 +76,10 @@
 
 | 18. | A gyógykezelés céljára szolgáló önálló rendeltetési egység vagy helyiség egyéb önálló rendeltetési egységet is tartalmazó épületben történő elhelyezése esetén. | A biztonságos betegellátáshoz szükséges orvos-szakmai és ápolás-szakmai feltételek meglétének vizsgálatával, valamint az épület egyéb, önálló rendeltetési egységei higiénés, közegészségügyi-járványügyi biztonsága megteremtésével kapcsolatos szakkérdések. | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély, d) használatbavételi engedély, e) fennmaradási engedély | Fővárosi és megyei kormányhivatal kistérségi, fővárosi kerületi népegészségügyi intézete | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve* |
 
+| 19. | Ha az építési tevékenység eredményeként zenés, táncos rendezvény helyszínéül szolgáló építmény létesül | Az országos tűzvédelmi előírások betartása, a biztonságos kiürítés megvalósítása szakkérdésében | a) elvi építési engedély b) építési engedély c) használatba- vételi engedély d) fennmaradási engedély iránti eljárásban | Első fokú eljárásban az első fokon eljáró tűzvédelmi hatóság | Másodfokú eljárásban a másodfokon eljáró tűzvédelmi hatóság |
+
 ## * Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^72]
+6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^77]
 
-[^72]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.
+[^77]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.

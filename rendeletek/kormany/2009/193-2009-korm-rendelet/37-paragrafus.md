@@ -1,4 +1,4 @@
-37. § (1)[^53] A használatbavételi engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított harminc napon belül kell meghozni az Engr. 1. melléklet IX. oszlopa szerinti építési tevékenységek használatbavételi engedélyezése esetén.
+37. § (1)[^58] A használatbavételi engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított harminc napon belül kell meghozni az Engr. 1. melléklet IX. oszlopa szerinti építési tevékenységek használatbavételi engedélyezése esetén.
 
 (2) A használatbavételi engedély iránti kérelem elbírálása során az építésügyi hatóság köteles meggyőződni arról, hogy
 
@@ -10,9 +10,9 @@ c) az építmény zavartalan használatához szükséges járulékos építmény
 
 (3) A használatbavételi engedély csak akkor adható meg, ha az építmény a rendeltetésszerű és biztonságos használat követelményeinek megfelel.
 
-(4)[^54] Az építésügyi hatóság a használatbavételi engedély megadását az egész építményre, vagy annak egy részére az észlelt hibák és hiányosságok megszüntetéséig, az építési engedélybe foglalt kikötések, feltételek teljesítéséig csak akkor tagadhatja meg, az építmény használatát csak akkor tilthatja meg, ha az észlelt hibák, hiányosságok, kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza.
+(4)[^59] Az építésügyi hatóság a használatbavételi engedély megadását az egész építményre, vagy annak egy részére az észlelt hibák és hiányosságok megszüntetéséig, az építési engedélybe foglalt kikötések, feltételek teljesítéséig csak akkor tagadhatja meg, az építmény használatát csak akkor tilthatja meg, ha az észlelt hibák, hiányosságok, kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza.
 
-(4a)[^55] A használatbavételi engedélyezéskor a használatbavételi engedély e rendelet szerinti megadása mellett, a rendeltetésszerű és biztonságos építményhasználatot nem gátló, még fennálló hibák, hiányosságok megszüntetését, az építési engedélybe foglalt kikötések és feltételek teljesítését megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel a kötelezésre vonatkozó előírások szerint kell elrendelni.
+(4a)[^60] A használatbavételi engedélyezéskor a használatbavételi engedély e rendelet szerinti megadása mellett, a rendeltetésszerű és biztonságos építményhasználatot nem gátló, még fennálló hibák, hiányosságok megszüntetését, az építési engedélybe foglalt kikötések és feltételek teljesítését megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel a kötelezésre vonatkozó előírások szerint kell elrendelni.
 
 (5) A határozat rendelkező részének tartalmaznia kell:
 
@@ -28,9 +28,9 @@ e) figyelmeztetést arra, hogy az építtető az építési, illetve bontási te
 
 f) tájékoztatást arról, hogy az elkészült épületről a külön jogszabályban foglaltak szerint energetikai tanúsítványt kell kiállítani.
 
-(6)[^56]
+(6)[^61]
 
-[^53]: A 37. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^54]: A 37. § (4) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdésével megállapított szöveg.
-[^55]: A 37. § (4a) bekezdését a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdése iktatta be.
-[^56]: A 37. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § h) pontja hatályon kívül helyezte.
+[^58]: A 37. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^59]: A 37. § (4) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdésével megállapított szöveg.
+[^60]: A 37. § (4a) bekezdését a 177/2010. (V. 13.) Korm. rendelet 17. § (7) bekezdése iktatta be.
+[^61]: A 37. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § h) pontja hatályon kívül helyezte.

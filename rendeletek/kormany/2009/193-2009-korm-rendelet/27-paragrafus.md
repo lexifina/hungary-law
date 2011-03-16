@@ -1,20 +1,20 @@
-## Az építési és az egyszerűsített építési engedélyezési eljárás[^27]
+## Az építési és az egyszerűsített építési engedélyezési eljárás[^30]
 
-27. § (1)[^28] Az Engr. 1. mellékletében meghatározott építési tevékenység építési engedélyezési eljárás, egyszerűsített építési engedélyezési eljárás lefolytatását követő építési engedély alapján végezhető.
+27. § (1)[^31] Az Engr. 1. mellékletében meghatározott építési tevékenység építési engedélyezési eljárás, egyszerűsített építési engedélyezési eljárás lefolytatását követő építési engedély alapján végezhető.
 
-(2)[^29] Egy telekre vonatkozóan az építési engedélyt az egy időben, illetve folyamatosan vagy ütemezve elvégezni kívánt építési tevékenység egészére kell kérni. Több megvalósulási szakaszra bontott építkezés esetén az egyes szakaszokban megépítendő építményekre – az építési tevékenység egészének bemutatása mellett – szakaszonként külön-külön is lehet építési engedélyt kérni.
+(2)[^32] Egy telekre vonatkozóan az építési engedélyt az egy időben, illetve folyamatosan vagy ütemezve elvégezni kívánt építési tevékenység egészére kell kérni. Több megvalósulási szakaszra bontott építkezés esetén az egyes szakaszokban megépítendő építményekre – az építési tevékenység egészének bemutatása mellett – szakaszonként külön-külön is lehet építési engedélyt kérni.
 
-(3)[^30] Egy telekre vonatkozóan a tervezett építési tevékenység végzésére több építési engedély is kérhető, azonban ugyanazon építési tevékenység vonatkozásában csak egy építési engedély alapján végezhető építési tevékenység.
+(3)[^33] Egy telekre vonatkozóan a tervezett építési tevékenység végzésére több építési engedély is kérhető, azonban ugyanazon építési tevékenység vonatkozásában csak egy építési engedély alapján végezhető építési tevékenység.
 
 (4) Az OTÉK előírásaitól eltérő műszaki megoldásra irányuló kérelem az építési engedélykérelemmel együtt is benyújtható, arról az építési engedélyezés tárgyában kelt érdemi határozatban kell dönteni.
 
 (5) Az építési engedélykérelemhez – a tartalmától függően – mellékelni kell:
 
-a) a 25. § (5) bekezdés a)–d) pontjában meghatározottakat,
+a)[^34] a 25. § (5) bekezdés a)–d) pontjában meghatározottakat,
 
 b) az építési jogosultság igazolását szolgáló dokumentumokat,
 
-c) a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.) meghatározott esetekben a környezetvédelmi vagy egységes környezethasználati engedélyt, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen, illetve a Khvkr. 5. § (2) bekezdés d) pont dc) alpontja szerinti határozatot,
+c)[^35] a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.) meghatározott esetekben a környezetvédelmi vagy egységes környezethasználati engedélyt, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen, illetve a Khvkr. 5. § (2) bekezdés d) pont dc) alpontja szerinti határozatot,
 
 d) erdőterület igénybevétele esetén az erdészeti hatóság hozzájárulását, illetve előzetes engedélyét,
 
@@ -32,10 +32,12 @@ f) az 1. melléklet szerinti tartalmú kitöltött statisztikai adatlapot,
 
 g) termőföld esetén a termőföld más célú hasznosításának engedélyezéséről szóló hatósági határozatot.
 
-(6)[^31]
+(6)[^36]
 
-[^27]: A 27. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^28]: A 27. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^29]: A 27. § (2) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
-[^30]: A 27. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^31]: A 27. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^30]: A 27. §-t megelőző alcím a 177/2010. (V. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^31]: A 27. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^32]: A 27. § (2) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^33]: A 27. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^34]: A 27. § (5) bekezdés a) pontjának „a)–d) pontjában” szövegrésze helyébe „a)–e) pontjában” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 50. § (1) bekezdése alapján. [E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
+[^35]: A 27. § (5) bekezdés c) pontjának „a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.)” szövegrésze helyébe „a Khvkr.-ben” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 50. § (2) bekezdése alapján. [E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
+[^36]: A 27. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

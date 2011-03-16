@@ -1,4 +1,4 @@
-34. § (1)[^44] A bontási engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított harminc napon belül kell meghozni az Engr. 1. melléklet VI. oszlopa szerinti bontási tevékenységek bontási engedélyezése esetén.
+34. § (1)[^49] A bontási engedélyezési eljárásban a döntést a kérelem előterjesztését követő naptól számított harminc napon belül kell meghozni az Engr. 1. melléklet VI. oszlopa szerinti bontási tevékenységek bontási engedélyezése esetén.
 
 (2) A bontási engedélykérelem elbírálása során az építésügyi hatóság azt vizsgálja, hogy
 
@@ -18,7 +18,7 @@ c) tájékoztatást arról, hogy a bontási tevékenység befejezése után az �
 
 d) figyelmeztetést arra, hogy az építtető a bontási tevékenység befejezését követően – a külön jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania.
 
-(5)–(6)[^45]
+(5)–(6)[^50]
 
-[^44]: A 34. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^45]: A 34. § (5)–(6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.
+[^49]: A 34. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^50]: A 34. § (5)–(6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.

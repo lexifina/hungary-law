@@ -1,4 +1,4 @@
-## 5. CÍM[^64]
+## 5. CÍM[^69]
 
 ## BEJELENTÉSI ELJÁRÁS
 
@@ -18,4 +18,4 @@ c) X. oszlopa szerinti építési tevékenységek esetében az építmény haszn
 
 (4) Az építtető haladéktalanul köteles bejelenteni a bejelentett építési és bontási tevékenység befejezését az építésügyi hatóságnak.
 
-[^64]: A III. fjezet 5. címét (45/A.–45/D. §) a 177/2010. (V. 13.) Korm. rendelet 17. § (9) bekezdése iktatta be.
+[^69]: A III. fjezet 5. címét (45/A.–45/D. §) a 177/2010. (V. 13.) Korm. rendelet 17. § (9) bekezdése iktatta be.

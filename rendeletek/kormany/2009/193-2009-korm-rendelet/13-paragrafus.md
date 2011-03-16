@@ -1,6 +1,6 @@
 ## A hatósági döntés közlése és kézbesítése
 
-13. § (1) A döntés szóban nem közölhető.
+13. §[^12] (1) A döntés szóban nem közölhető.
 
 (2) A döntést – ha ennek információtechnológiai feltételei fennállnak, elektronikus úton – tájékoztatásul közölni kell
 
@@ -12,17 +12,18 @@ c) az építési, a fennmaradási és a használatbavételi engedélyezési elj�
 
 d) az építési tevékenység helye szerinti települési önkormányzat jegyzőjével, ha nem minősül ügyfélnek,
 
-e)[^12] a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével, ha az építési, bontási tevékenységgel érintett építmény azbesztet tartalmaz,
+e)[^13] a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével, ha az építési, bontási tevékenységgel érintett építmény azbesztet tartalmaz,
 
-f)[^13] az építési, az összevont építésügyi hatósági, az integrált építésügyi hatósági, az integrált engedélyezési és a fennmaradási engedélyezési eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságával, ha az engedélyezés termőföldet érint,
+f)[^14] az építési, az összevont építésügyi hatósági, az integrált építésügyi hatósági, az integrált engedélyezési és a fennmaradási engedélyezési eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságával, ha az engedélyezés termőföldet érint,
 
 g) az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséggel, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott.
 
-(3)[^14] A repülőtér és a repülés biztonságát szolgáló földi berendezések biztonsági övezetén és a repülőtér építési, üzemi területének szélétől mért 15 kilométer távolságon kívül a belterületen 100 méternél, külterületen pedig 50 méternél magasabb építmény építésének, bővítésének engedélyezéséről szóló határozatát az eljáró hatóság közli a légiközlekedési hatósággal.
+(3)[^15] A repülőtér és a repülés biztonságát szolgáló földi berendezések biztonsági övezetén és a repülőtér építési, üzemi területének szélétől mért 15 kilométer távolságon kívül a belterületen 100 méternél, külterületen pedig 50 méternél magasabb építmény építésének, bővítésének engedélyezéséről szóló határozatát az eljáró hatóság közli a légiközlekedési hatósággal.
 
-(4)[^15] Az első fokon eljárt hatóság a nemzetgazdaságilag kiemelt építési ügyben a keresetlevelet az ügy irataival együtt három napon belül továbbítja a másodfokon eljárt hatósághoz, ezt követően a másodfokon eljárt hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt öt napon belül továbbítja a bírósághoz.
+(4)[^16] Az első fokon eljárt hatóság a nemzetgazdaságilag kiemelt építési ügyben a keresetlevelet az ügy irataival együtt három napon belül továbbítja a másodfokon eljárt hatósághoz, ezt követően a másodfokon eljárt hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt öt napon belül továbbítja a bírósághoz.
 
-[^12]: A 13. § (2) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 254. § (1) bekezdésével megállapított szöveg.
-[^13]: A 13. § (2) bekezdés f) pontja a 351/2010. (XII. 30.) Korm. rendelet 254. § (2) bekezdésével megállapított szöveg.
-[^14]: A 13. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 254. § (3) bekezdése szerint módosított szöveg.
-[^15]: A 13. § (4) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^12]: [A 13/A. §-t a 82/2011 (V. 18.) Korm. rendelet 45. §-a iktatta be, a 68. §-a alapján 2011. szeptember 15-től hatályos szövege: „13/A. § Az építésügyi hatóság – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit az építésügyi hatósági engedély iránti kérelem tárgyában olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.”.]
+[^13]: A 13. § (2) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 254. § (1) bekezdésével megállapított szöveg.
+[^14]: A 13. § (2) bekezdés f) pontja a 351/2010. (XII. 30.) Korm. rendelet 254. § (2) bekezdésével megállapított szöveg.
+[^15]: A 13. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 254. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 13. § (4) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
