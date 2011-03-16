@@ -1,5 +1,5 @@
-4. § (1) A tanfolyam időtartama 16 óra.
+4. §[^10] (1) Az első képzés időtartama 16 óra, a rendszeres továbbképzés időtartama 8 óra.
 
-(2)[^10] Ha a szakértő a tanfolyamról öt óránál hosszabb időtartamban hiányzik, a tanfolyamot meg kell ismételnie; ebben az esetben vizsgára sem bocsátható. Erről a miniszter a mulasztó szakértőt a tanfolyam befejezésének időpontjától számított 8 napon belül írásban, postai vagy külön törvényben szabályozott elektronikus úton értesíti.
+(2) Ha a szakértő az első képzésről 5, a rendszeres továbbképzésről 3 óránál hosszabb időtartamban hiányzik, a vonatkozó tanfolyamot meg kell ismételnie és az első képzésről való hiányzás esetében vizsgára sem bocsátható. Erről a miniszter a mulasztó szakértőt a tanfolyam befejezésének időpontjától számított 8 napon belül írásban, postai vagy külön törvényben szabályozott elektronikus úton értesíti.
 
-[^10]: A 4. § (2) bekezdése a 43/2009. (IX. 22.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 4. § a 9/2011. (III. 8.) KIM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a folyamatban lévő közigazgatási hatósági eljárások során is alkalmazni kell.
