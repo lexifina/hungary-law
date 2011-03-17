@@ -120,7 +120,7 @@
 
 ## 51. §[^64]
 
-## (1) A napirenden nem szereplő, országos jelentőségű, halaszthatatlan és rendkívüli ügyben (a továbbiakban: rendkívüli ügy) az ülés első – többnapos ülés esetén első két – napján a napirendi pontok tárgyalása előtt – a felszólalás tárgyát és okát megjelölve – a képviselőcsoport nevében annak vezetője legfeljebb öt percben felszólalásra jogosult. A felszólalási szándékot az ülés megnyitása előtt legalább egy órával írásban be kell jelenteni az elnöknek. Az elnök a felszólalási szándékról – a felszólalni kívánó által megjelölt tárgy és ok közlésével együtt – tájékoztatja a Kormányt.
+## (1)[^65] Országos jelentőségű, halaszthatatlan és rendkívüli ügyben (a továbbiakban: rendkívüli ügy) az ülés első – többnapos ülés esetén első két – napján az ülésnap kezdetekor – a felszólalás tárgyát és okát megjelölve – a képviselőcsoport nevében annak vezetője, vagy a képviselőcsoport általa felkért tagja legfeljebb öt percben felszólalásra jogosult. A felszólalási szándékot a képviselőcsoport vezetőjének az ülés megnyitása előtt legalább egy órával írásban be kell jelentenie az elnöknek. Az elnök a felszólalási szándékról – a felszólalni kívánó által megjelölt tárgy és ok közlésével együtt – tájékoztatja a Kormányt.
 
 ## (2) A köztársasági elnök, a miniszterelnök és a Kormány tagjai rendkívüli ügyben napirenden kívül felszólalhatnak. A felszólalási szándékot – amennyiben az ügy körülményei ezt lehetővé teszik – az ülés megnyitása előtt legalább egy órával be kell jelenteni az elnöknek. A felszólalási szándék bejelentésével egyidejűleg közölni kell a felszólalás tárgyát és okát. Az elnök a felszólalási szándékról valamennyi képviselőcsoport vezetőjét tájékoztatja. A köztársasági elnök és a miniszterelnök felszólalásának, valamint ehhez a képviselőcsoport-vezetők hozzászólásának időkeretét a Házbizottság állapítja meg. A Kormány tagjai legfeljebb ötperces felszólalásra jogosultak. Ebben az esetben észrevétel céljából az, aki személyében érintett, továbbá a képviselőcsoport vezetője kétperces hozzászólásra kérhet szót.
 
@@ -138,15 +138,15 @@
 
 ## 52. §
 
-## (1)[^65] A napirendet vagy a tárgyalt napirendi pontot érintően bármelyik képviselő, bármikor, egy percben ügyrendi javaslatot tehet, amelyet két percben indokolhat. Az ügyrendi javaslat elhangzása után képviselőcsoportonként legfeljebb egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő kétperces hozzászólása engedélyezhető, egyébként az Országgyűlés a javaslatról vita nélkül határoz.
+## (1)[^66] A napirendet vagy a tárgyalt napirendi pontot érintően bármelyik képviselő, bármikor, egy percben ügyrendi javaslatot tehet, amelyet két percben indokolhat. Az ügyrendi javaslat elhangzása után képviselőcsoportonként legfeljebb egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő kétperces hozzászólása engedélyezhető, egyébként az Országgyűlés a javaslatról vita nélkül határoz.
 
 ## (2) Az elnök elsőbbséggel adja meg a szót az ügyrendi javaslat előterjesztőjének.
 
-## Napirendi pont időkeretben történő tárgyalása[^66]
+## Napirendi pont időkeretben történő tárgyalása[^67]
 
 ## 53. §
 
-## (1)[^67] Az Országgyűlés a Házbizottság javaslatára bármely napirendi pont időkeretben történő tárgyalását határozhatja el. E tárgyban a határozathozatal előtt bármely képviselőcsoport egy tagja és az elsőként szólásra jelentkező független képviselő háromperces időkeretben hozzászólhat.
+## (1)[^68] Az Országgyűlés a Házbizottság javaslatára bármely napirendi pont időkeretben történő tárgyalását határozhatja el. E tárgyban a határozathozatal előtt bármely képviselőcsoport egy tagja és az elsőként szólásra jelentkező független képviselő háromperces időkeretben hozzászólhat.
 
 ## (2) Az általános, a részletes és a záróvitára külön időkeretet kell megállapítani.
 
@@ -154,7 +154,7 @@
 
 ## a) a kormánypárti, illetve az ellenzéki képviselőknek együttesen azonos idő áll a rendelkezésére;
 
-## b)[^68] a döntési javaslat előterjesztőjének nyitó- és záróbeszéde, a kijelölt bizottság többségének — ha van kisebbségi vélemény, kisebbsége — álláspontjának ismertetése nem számít bele az időkeretbe;
+## b)[^69] a döntési javaslat előterjesztőjének nyitó- és záróbeszéde, a kijelölt bizottság többségének — ha van kisebbségi vélemény, kisebbsége — álláspontjának ismertetése nem számít bele az időkeretbe;
 
 ## c) a vita közben felszólaló kormánytag beszédideje a kormánypárti képviselők idejébe számít be;
 
@@ -164,15 +164,15 @@
 
 ## f) az ügyrendi hozzászólásokat nem kell beleszámítani az időkeretbe.
 
-## (4)[^69] Az általános vita időkeretét legalább tíz képviselő írásbeli kérelmére
+## (4)[^70] Az általános vita időkeretét legalább tíz képviselő írásbeli kérelmére
 
 ## a) minősített többséget igénylő döntési javaslat tárgyalása, a kormányprogram, valamint a kormány beszámolójának megvitatása és a miniszterelnökkel szemben benyújtott bizalmatlansági indítvány esetén nem lehet tíz óránál,
 
 ## b) a Magyar Köztársaság éves költségvetéséről szóló törvényjavaslat tárgyalásánál nem lehet harminc óránál,
 
-## c)[^70] a Magyar Köztársaság éves költségvetésének végrehajtásáról szóló törvényjavaslat tárgyalásánál nem lehet tizenöt óránál.
+## c)[^71] a Magyar Köztársaság éves költségvetésének végrehajtásáról szóló törvényjavaslat tárgyalásánál nem lehet tizenöt óránál.
 
-## d)[^71]
+## d)[^72]
 
 ## (5) A soros jegyző méri és képviselőcsoportonként összesíti a képviselők által igénybe vett beszédidőt. Jelzi az elnöknek, ha a képviselőcsoport vagy a képviselő beszédidejét kitöltötte.
 
@@ -186,13 +186,13 @@
 
 ## (3) Az elnök egyidejűleg megvonja a szót attól a felszólalótól, akit beszéde során harmadszor szólít fel arra, hogy térjen a tárgyra, vagy másodszor utasít rendre. Nem lehet megvonni a szót, ha az elnök a felszólítások alkalmával nem figyelmeztette a képviselőt a felszólítások következményére.
 
-## (4)[^72] Ha a felszólaló kitöltötte a saját vagy a képviselőcsoportja időkeretét, az elnök – a szómegvonás okának közlésével – megvonj a tőle a szót.
+## (4)[^73] Ha a felszólaló kitöltötte a saját vagy a képviselőcsoportja időkeretét, az elnök – a szómegvonás okának közlésével – megvonj a tőle a szót.
 
-## (5)[^73] Az elnök felszólítás és figyelmeztetés nélkül megvonja a szót attól a felszólalótól, aki az elnök döntését, ülésvezetését – ügyrendi javaslat kivételével – kifogásolja. Az a felszólaló, akitől az elnök felszólítás és figyelmeztetés nélkül vonta meg a szót, kérheti a Házszabály értelmezéséért felelős bizottság eseti jellegű állásfoglalását.
+## (5)[^74] Az elnök felszólítás és figyelmeztetés nélkül megvonja a szót attól a felszólalótól, aki az elnök döntését, ülésvezetését – ügyrendi javaslat kivételével – kifogásolja. Az a felszólaló, akitől az elnök felszólítás és figyelmeztetés nélkül vonta meg a szót, kérheti a Házszabály értelmezéséért felelős bizottság eseti jellegű állásfoglalását.
 
-## (6)[^74] Akitől a szót megvonták, ugyanazon az ülésnapon, ugyanabban az ügyben nem szólalhat fel újra.
+## (6)[^75] Akitől a szót megvonták, ugyanazon az ülésnapon, ugyanabban az ügyben nem szólalhat fel újra.
 
-## (7)[^75] Az (6) bekezdés alkalmazása során
+## (7)[^76] Az (6) bekezdés alkalmazása során
 
 ## a) az általános, a részletes és a záróvita,
 
@@ -242,7 +242,7 @@
 
 ## (1) Ha az indítványhoz — részletes vitában a tárgyalás alatt álló részhez — több felszólaló nincs, és a vita várható lezárását a napirend tartalmazza, az elnök a vitát lezárja.
 
-## (2)[^76] Ha az indítványhoz – részletes vitában a tárgyalás alatt álló részhez – valamennyi képviselőcsoportnak, illetve az elsőként szólásra jelentkezett független képviselőnek lehetősége volt álláspontja kifejtésére, az indítvány előterjesztője vagy legalább tíz képviselő írásban javasolhatja a vita lezárását. Az Országgyűlés e kérdésben vita nélkül határoz. Részletes vita esetén a vita lezárása csak a tárgyalás alatt álló részre vonatkozhat.
+## (2)[^77] Ha az indítványhoz – részletes vitában a tárgyalás alatt álló részhez – valamennyi képviselőcsoportnak, illetve az elsőként szólásra jelentkezett független képviselőnek lehetősége volt álláspontja kifejtésére, az indítvány előterjesztője vagy legalább tíz képviselő írásban javasolhatja a vita lezárását. Az Országgyűlés e kérdésben vita nélkül határoz. Részletes vita esetén a vita lezárása csak a tárgyalás alatt álló részre vonatkozhat.
 
 ## (3) Ha az Országgyűlés a vitát lezárta, képviselőcsoportonként egy-egy képviselő és az elsőként szólásra jelentkezett független képviselő, valamint a kijelölt bizottság elnöke (előadója) legfeljebb öt percben még felszólalhat.
 
@@ -320,9 +320,9 @@
 
 ## 65. §
 
-## (1)[^77] Az Országgyűlés ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelyet a soros jegyzők hitelesítenek. Ha az Országgyűlés napirend előtti felszólalást, illetőleg egy vagy több napirendi pontot zárt ülésen tárgyal, erről külön készül szó szerinti jegyzőkönyv.
+## (1)[^78] Az Országgyűlés ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelyet a soros jegyzők hitelesítenek. Ha az Országgyűlés napirend előtti felszólalást, illetőleg egy vagy több napirendi pontot zárt ülésen tárgyal, erről külön készül szó szerinti jegyzőkönyv.
 
-## (2)[^78] A jegyzőkönyv irattárban elhelyezendő mellékletei:
+## (2)[^79] A jegyzőkönyv irattárban elhelyezendő mellékletei:
 
 ## a) a tárgyalás alá vont irat,
 
@@ -344,17 +344,17 @@
 
 ## (2) A szó szerinti jegyzőkönyvbe az ülésen elhangzott minden nyilatkozatot, felszólalást és közbeszólást fel kell venni, és fel kell tüntetni benne a tetszés és rosszallás hangos kifejezését is.
 
-## (3)[^79] A képviselő vagy más felszólaló a nyilvános ülés jegyzőkönyvének hitelesítését és közszemlére tételét követő három napon belül kérheti a jegyzőkönyvbe felvett felszólalása téves szövegének kiigazítását. Erről a kiigazítást kérő meghallgatása után a hitelesítő jegyzők döntenek. Vita esetén a kiigazításról az ülést vezető elnök dönt.
+## (3)[^80] A képviselő vagy más felszólaló a nyilvános ülés jegyzőkönyvének hitelesítését és közszemlére tételét követő három napon belül kérheti a jegyzőkönyvbe felvett felszólalása téves szövegének kiigazítását. Erről a kiigazítást kérő meghallgatása után a hitelesítő jegyzők döntenek. Vita esetén a kiigazításról az ülést vezető elnök dönt.
 
-## (4)[^80] Az Országgyűlés nyilvános üléséről készült hiteles jegyzőkönyvet – a mellékletek nélkül – a (3) bekezdés szerinti eljárást követő tizenöt napon belül kinyomtatva ki kell adni az országgyűlési képviselőknek, a köztársasági elnöknek, a Kormány tagjainak, az Alkotmánybíróság elnökének, a Legfelsőbb Bíróság elnökének, a legfőbb ügyésznek, az országgyűlési biztosoknak, az Állami Számvevőszék elnökének, a Magyar Nemzeti Bank elnökének, továbbá el kell juttatni a fővárosi, megyei és az egyetemi könyvtáraknak. Az országgyűlési képviselő írásban nyilatkozhat, hogy nem igényli a nyomtatott jegyzőkönyv megküldését.
+## (4)[^81] Az Országgyűlés nyilvános üléséről készült hiteles jegyzőkönyvet – a mellékletek nélkül – a (3) bekezdés szerinti eljárást követő tizenöt napon belül kinyomtatva ki kell adni az országgyűlési képviselőknek, a köztársasági elnöknek, a Kormány tagjainak, az Alkotmánybíróság elnökének, a Legfelsőbb Bíróság elnökének, a legfőbb ügyésznek, az országgyűlési biztosoknak, az Állami Számvevőszék elnökének, a Magyar Nemzeti Bank elnökének, továbbá el kell juttatni a fővárosi, megyei és az egyetemi könyvtáraknak. Az országgyűlési képviselő írásban nyilatkozhat, hogy nem igényli a nyomtatott jegyzőkönyv megküldését.
 
-## (5)[^81] Az Országgyűlés nyilvános üléséről készült hiteles jegyzőkönyvek alapján ülésszakonként ki kell adni és elektronikus adathordozón is hozzáférhetővé kell tenni a tárgymutatót és névmutatót is tartalmazó Országgyűlési Naplót. A kiadásról az Országgyűlés elnöke gondoskodik.
+## (5)[^82] Az Országgyűlés nyilvános üléséről készült hiteles jegyzőkönyvek alapján ülésszakonként ki kell adni és elektronikus adathordozón is hozzáférhetővé kell tenni a tárgymutatót és névmutatót is tartalmazó Országgyűlési Naplót. A kiadásról az Országgyűlés elnöke gondoskodik.
 
-## (6)[^82] Az Országgyűlés nyilvános üléséről készült szó szerinti jegyzőkönyv jegyzők által hitelesített példányát el kell helyezni az irattárban, a nyomtatott, hiteles jegyzőkönyvet és az Országgyűlési Naplót át kell adni az Országgyűlési Könyvtárnak.
+## (6)[^83] Az Országgyűlés nyilvános üléséről készült szó szerinti jegyzőkönyv jegyzők által hitelesített példányát el kell helyezni az irattárban, a nyomtatott, hiteles jegyzőkönyvet és az Országgyűlési Naplót át kell adni az Országgyűlési Könyvtárnak.
 
-## A zárt ülés jegyzőkönyvére vonatkozó eltérő szabályok[^83]
+## A zárt ülés jegyzőkönyvére vonatkozó eltérő szabályok[^84]
 
-## 66/A. §[^84]
+## 66/A. §[^85]
 
 ## (1) Az Országgyűlés elnöke az eredeti minősítés feltüntetését rendeli el az Országgyűlés zárt ülésének vagy az ülés zárt részének (a továbbiakban együtt: zárt ülés) jegyzőkönyvén, ha
 
@@ -370,7 +370,7 @@
 
 ## (5) Ha az Országgyűlés elnöke – az (1)–(2) bekezdésben meghatározott feltételek hiánya miatt – nem minősített, illetőleg nem rendelte el a zárt ülés jegyzőkönyvén a minősítés feltüntetését, a jegyzőkönyvet a 65–66. § szerinti nyilvános iratként kell kezelni.
 
-## 66/B. §[^85]
+## 66/B. §[^86]
 
 ## (1) A zárt ülésről két példányban kell minősített jegyzőkönyvet készíteni.
 
@@ -378,7 +378,7 @@
 
 ## (3) A zárt ülésről készült szó szerinti minősített jegyzőkönyv hitelesített első példányát az Országgyűlés elnöke, második példányát az Országgyűlés TÜK irodája őrzi.
 
-## 66/C. §[^86]
+## 66/C. §[^87]
 
 ## (1) A zárt ülésről készült minősített jegyzőkönyv csak az Országgyűlés elnökének engedélyével, az Országgyűlés TÜK irodáján tekinthető meg. Engedély nélkül tekintheti meg a jegyzőkönyvet, aki az Országgyűlés zárt ülésén részt vehet.
 
@@ -392,7 +392,7 @@
 
 ## (4) A megtekintést írásban kell engedélyezni. Az engedélyt a jegyzőkönyvhöz kell mellékelni. A jegyzőkönyvet megtekintő személy a megtekintés tényét és idejét a jegyzőkönyvre rávezeti, s aláírásával igazolja.
 
-## 66/D. §[^87]
+## 66/D. §[^88]
 
 ## Az Országgyűlés zárt üléséről készült minősített jegyzőkönyvről másolat vagy abból kivonat készítését az Országgyűlés elnöke engedélyezi. A másolat vagy kivonat készítése a 66/C. §-ban foglalt feltételek szerint, kérelemre engedélyezhető akkor, ha a kérelem indokolásában megjelölt cél csakis ezúton érhető el. Az engedélyt a jegyzőkönyvhöz kell mellékelni.
 
@@ -406,7 +406,7 @@
 
 ## (2) Az Országgyűlés ülésszaka alatt a bizottság rendszeresen ülésezik.
 
-## (3)[^88] Két ülésszak között a bizottság akkor tart ülést, ha a Házbizottság vagy a bizottság tagjainak legalább egyötöde írásban kéri. Az Európai Unió intézményeinek működési rendjére figyelemmel az Európai uniós bizottság és más állandó bizottság ezen időszak alatt szükség szerint tart ülést.
+## (3)[^89] Két ülésszak között a bizottság akkor tart ülést, ha a Házbizottság vagy a bizottság tagjainak legalább egyötöde írásban kéri. Az Európai Unió intézményeinek működési rendjére figyelemmel az Európai uniós bizottság és más állandó bizottság ezen időszak alatt szükség szerint tart ülést.
 
 ## (4) Az Országgyűlés ülésének időtartama alatt — kivéve a szavazások idejét — a bizottság ülést tarthat.
 
@@ -426,13 +426,13 @@
 
 ## 69. §
 
-## (1)[^89] Államtitok, szolgálati titok, személyes, üzleti vagy törvény által védett más adat védelme érdekében a bizottság zárt ülést tart. Az előterjesztő vagy bármely bizottsági tag javaslatára a bizottság zárt ülés tartását rendelheti el. Zárt ülés tartása a nyilvános ülés egy vagy több napirendi pontjának tárgyalása céljából is elrendelhető.
+## (1)[^90] Államtitok, szolgálati titok, személyes, üzleti vagy törvény által védett más adat védelme érdekében a bizottság zárt ülést tart. Az előterjesztő vagy bármely bizottsági tag javaslatára a bizottság zárt ülés tartását rendelheti el. Zárt ülés tartása a nyilvános ülés egy vagy több napirendi pontjának tárgyalása céljából is elrendelhető.
 
-## (2)[^90] Nem rendelhető el a bizottság zárt ülése, ha a javaslattevő nem nevezi meg konkrétan azt az államtitok-, szolgálati titok-, személyes, üzleti vagy törvény által védett más adatkört, amelybe tartozó adat védelme indokolja a zárt ülés elrendelését.
+## (2)[^91] Nem rendelhető el a bizottság zárt ülése, ha a javaslattevő nem nevezi meg konkrétan azt az államtitok-, szolgálati titok-, személyes, üzleti vagy törvény által védett más adatkört, amelybe tartozó adat védelme indokolja a zárt ülés elrendelését.
 
-## (3)[^91] A zárt ülésen a köztársasági elnök, az Országgyűlés elnöke, a bizottság tagjai, továbbá a bizottság elnöke által, az adott napirendi ponthoz meghívott személyek vehetnek részt. A bizottság szótöbbséggel más — nem bizottsági tag — országgyűlési képviselő jelenlétéhez is hozzájárulhat. Ha a bizottság másként nem dönt, a zárt ülésen az Országgyűlés hivatali szervezetének oda beosztott munkatársai és a jegyzőkönyvvezetők részt vehetnek.
+## (3)[^92] A zárt ülésen a köztársasági elnök, az Országgyűlés elnöke, a bizottság tagjai, továbbá a bizottság elnöke által, az adott napirendi ponthoz meghívott személyek vehetnek részt. A bizottság szótöbbséggel más — nem bizottsági tag — országgyűlési képviselő jelenlétéhez is hozzájárulhat. Ha a bizottság másként nem dönt, a zárt ülésen az Országgyűlés hivatali szervezetének oda beosztott munkatársai és a jegyzőkönyvvezetők részt vehetnek.
 
-## (4)[^92] A kivételes eljárásban elrendelt zárt ülésről az országgyűlési képviselőket kizárni nem lehet.
+## (4)[^93] A kivételes eljárásban elrendelt zárt ülésről az országgyűlési képviselőket kizárni nem lehet.
 
 ## Határozatképesség, tanácskozóképesség
 
@@ -448,7 +448,7 @@
 
 ## A bizottsági ülésre meghívottak
 
-## 71. §[^93]
+## 71. §[^94]
 
 ## (1) A napirendi pont előterjesztője, a köztársasági elnök, az Országgyűlés elnöke, az Európai Parlament magyarországi képviselője, az országgyűlési biztos, az Állami Számvevőszék elnöke, a bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, továbbá – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja az állandó bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre.
 
@@ -476,7 +476,7 @@
 
 ## (3) Az Országgyűlés minden bizottságba alelnököt (alelnököket) választ. A bizottság alelnöke az elnök által rábízott feladatokat látja el.
 
-## (4)[^94] A bizottság elnökét tartós akadályoztatása esetén az általa kijelölt alelnök helyettesíti. Valamennyi alelnök távolléte esetén az elnök a bizottság tagjának adhat írásban eseti képviseleti megbízást. Az elnököt helyettesítő bizottsági tag jogai és kötelezettségei az elnökével azonosak.
+## (4)[^95] A bizottság elnökét tartós akadályoztatása esetén az általa kijelölt alelnök helyettesíti. Valamennyi alelnök távolléte esetén az elnök a bizottság tagjának adhat írásban eseti képviseleti megbízást. Az elnököt helyettesítő bizottsági tag jogai és kötelezettségei az elnökével azonosak.
 
 ## A napirend megállapítása
 
@@ -516,11 +516,11 @@
 
 ## a) a jegyzőkönyvbe felvett felszólalás téves szövegének kiigazítására — a közszemlét követő ülésen — az elnök tesz javaslatot, amiről a bizottság vita nélkül határoz;
 
-## b)[^95] a szó szerinti jegyzőkönyv hitelesített, eredeti példányát el kell helyezni az irattárban, valamint egy másolatát az Országgyűlési Könyvtárban. A bizottsági ülésen részvételre jogosultaknak – kérésükre – a szó szerinti jegyzőkönyvet ki kell adni.
+## b)[^96] a szó szerinti jegyzőkönyv hitelesített, eredeti példányát el kell helyezni az irattárban, valamint egy másolatát az Országgyűlési Könyvtárban. A bizottsági ülésen részvételre jogosultaknak – kérésükre – a szó szerinti jegyzőkönyvet ki kell adni.
 
-## (3)[^96] A nyilvános bizottsági ülés hitelesített jegyzőkönyvét az Országgyűlés honlapján közzé kell tenni.
+## (3)[^97] A nyilvános bizottsági ülés hitelesített jegyzőkönyvét az Országgyűlés honlapján közzé kell tenni.
 
-## 78/A. §[^97]
+## 78/A. §[^98]
 
 ## (1) A bizottság elnöke a bizottság zárt üléséről vagy a bizottság nyilvános ülésének zárt részéről (a továbbiakban együtt: zárt ülés) készült jegyzőkönyvön az eredeti minősítés feltüntetését rendeli el:
 
@@ -556,17 +556,17 @@
 
 ## (8) A bizottság tagja, az előterjesztő, illetőleg a bizottság előtt meghallgatott, vagy a meghallgatásban érintett személy indítványára a bizottság elnöke a zárt ülés jegyzőkönyvéről olyan kivonat készítését rendelheti el, amely nem tartalmazza az államtitoknak vagy szolgálati titoknak minősülő, illetőleg személyes, üzleti vagy törvény által védett más adatot. Ha a bizottság elnöke a jegyzőkönyvön az (1) bekezdés alapján a minősítés megismétlését rendelte el az eredeti minősítő nyilatkozatát kell kérni arról, hogy a kivonat államtitoknak vagy szolgálati titoknak minősülő adatot már nem tartalmaz. A jegyzőkönyvi kivonatot – a kivonat jellegének feltüntetésével – a (7) bekezdés szerint kell kezelni.
 
-## 78/B. §[^98]
+## 78/B. §[^99]
 
 ## A bizottság tagja a sajtónak adott nyilatkozata, illetőleg más képviselői tevékenysége során nem hozhatja nyilvánosságra azt az adatot, amelynek alapján a bizottsági ülésről készült jegyzőkönyvet minősítették, vagy azon az eredeti minősítést megismételték.
 
-## 78/C. §[^99]
+## 78/C. §[^100]
 
 ## (1) A zárt ülésről egy példányban készül minősített jegyzőkönyv, s azt a bizottsági titkárságon, a bizottsági ülés többi iratával együtt kell kezelni.
 
 ## (2) A bizottsági ülés irataival együttesen kezelt jegyzőkönyvet az elnök rendelkezése szerinti időben, de legkésőbb az országgyűlési ciklus végén – a minősített iratok kezelésére vonatkozó szabályok szerint – az Országgyűlés TÜK irodájának kell átadni.
 
-## 78/D. §[^100]
+## 78/D. §[^101]
 
 ## (1) A bizottsági zárt ülésről készült minősített jegyzőkönyv csak a bizottság elnökének engedélyével tekinthető meg. Engedély nélkül tekintheti meg a jegyzőkönyvet – ideértve az előző országgyűlési ciklusok jegyzőkönyveit is –, aki a bizottság zárt ülésén részt vehet.
 
@@ -582,19 +582,19 @@
 
 ## (5) A bizottsági zárt ülésről készült minősített jegyzőkönyv megtekintését a bizottság elnöke írásban engedélyezi. Az engedélyt, valamint – a (2) bekezdésben megállapított esetben – a képviselői nyilatkozatot a bizottsági ülés iratai között kell elhelyezni.
 
-## 78/E. §[^101]
+## 78/E. §[^102]
 
 ## A bizottság elnöke az államtitkot tartalmazó jegyzőkönyv megtekintését csak a jegyzőkönyvben szereplő adat minősítőjének előzetes hozzájárulásával engedélyezheti. A szolgálati titkot tartalmazó jegyzőkönyv megtekintését – ha a törvény másképp nem rendelkezik – az érintettek számára, a rájuk vonatkozó mértékben, korlátozás nélkül engedélyezi.
 
-## 78/F. §[^102]
+## 78/F. §[^103]
 
 ## A bizottsági zárt ülésről készült minősített jegyzőkönyv csak a bizottság hivatalos helyiségében, illetőleg az Országgyűlés TÜK irodájában tekinthető meg. A megtekintés tényét és időpontját a megtekintő személy írásban a jegyzőkönyv előlapjára rávezeti, s aláírásával hitelesíti.
 
-## 78/G. §[^103]
+## 78/G. §[^104]
 
 ## A zárt ülésről készült minősített jegyzőkönyvről másolat, illetőleg kivonat csak a bizottság elnökének írásbeli engedélyével készíthető. A másolat vagy kivonat készítése a 78/D–78/E. §-okban foglalt feltételek szerint, kérelemre engedélyezhető akkor, ha a kérelem indokolásában megjelölt cél csakis ezúton érhető el. Az engedélyt a bizottsági ülés iratai között kell elhelyezni.
 
-## 78/H. §[^104]
+## 78/H. §[^105]
 
 ## Megszűnt országgyűlési bizottság zárt üléseinek irataival kapcsolatos elnöki hatáskört annak a bizottságnak az elnöke gyakorolja, amely a megszűnt bizottság feladatkörét átvette. A jogutód nélkül megszűnt bizottság zárt üléseinek irataival kapcsolatos rendelkezési jog az Országgyűlés elnökét illeti meg.
 
@@ -606,7 +606,7 @@
 
 ## a) egy bizottságot jelöl ki, mely más bizottságokat véleményadásra kérhet fel, vagy
 
-## b)[^105] az első helyen kijelölt bizottság megnevezésével két vagy több bizottságot jelöl ki, illetőleg
+## b)[^106] az első helyen kijelölt bizottság megnevezésével két vagy több bizottságot jelöl ki, illetőleg
 
 ## c) javaslatot tesz az Országgyűlésnek eseti bizottság alakítására.
 
@@ -634,7 +634,7 @@
 
 ## A bizottságok működési költségei
 
-## 82. §[^106]
+## 82. §[^107]
 
 ## (1) A bizottságok működésének költségeiről az Országgyűlés Hivatala költségvetésén belül, elkülönítve kell gondoskodni.
 
@@ -680,7 +680,7 @@
 
 ## d) a bizottsági ajánlás.
 
-## (3)[^107] Az (1) bekezdésben foglaltakon kívül más anyag – a 143. § (4) bekezdésében meghatározott kérelmet kivéve – az Országgyűlés tárgysorozatára nem kerülhet. A Házszabály szerint előterjeszthető egyéb javaslatok, kérelmek, indítványok nem minősülnek az (1)–(2) bekezdés szerinti indítványnak; ezekre a Házszabály megfelelő rendelkezéseit kell alkalmazni.
+## (3)[^108] Az (1) bekezdésben foglaltakon kívül más anyag – a 143. § (4) bekezdésében meghatározott kérelmet kivéve – az Országgyűlés tárgysorozatára nem kerülhet. A Házszabály szerint előterjeszthető egyéb javaslatok, kérelmek, indítványok nem minősülnek az (1)–(2) bekezdés szerinti indítványnak; ezekre a Házszabály megfelelő rendelkezéseit kell alkalmazni.
 
 ## A törvényjavaslat
 
@@ -704,7 +704,7 @@
 
 ## 86. §
 
-## (1)[^108] Ha — a törvényjavaslat általános vitája megkezdéséig — ugyanabban a tárgyban azonos időszakban, vagy ugyanazt a törvényt illetően több törvényjavaslatot is benyújtottak,
+## (1)[^109] Ha — a törvényjavaslat általános vitája megkezdéséig — ugyanabban a tárgyban azonos időszakban, vagy ugyanazt a törvényt illetően több törvényjavaslatot is benyújtottak,
 
 ## a) a 85. § (2) bekezdés szerinti sorrendben előbb álló javaslata a hátrább állót,
 
@@ -712,7 +712,7 @@
 
 ## megelőzi.
 
-## (2)[^109] Az (1) bekezdés a) pontjának alkalmazásakor a 99. § (3) bekezdésében megállapított harminc napos határidőt nem kell figyelembe venni.
+## (2)[^110] Az (1) bekezdés a) pontjának alkalmazásakor a 99. § (3) bekezdésében megállapított harminc napos határidőt nem kell figyelembe venni.
 
 ## A határozati javaslat
 
@@ -762,7 +762,7 @@
 
 ## (1) Az országgyűlési képviselő az Alkotmányban meghatározottakhoz — a feladatkörükbe tartozó minden ügyben — felvilágosítás kérése céljából kérdést nyújthat be.
 
-## (2)[^110] A kérdés tárgyát címszerűen meg kell jelölni, és utalni kell arra is, hogy a kérdező a választ az Országgyűlés ülésén szóban, vagy ülésen kívül, írásban kéri. Az írásbeli választ igénylő kérdésre a kérdezett tizenöt napon belül ad választ. A 90. § (3)–(4) bekezdés rendelkezéseit a kérdés esetén is alkalmazni kell.
+## (2)[^111] A kérdés tárgyát címszerűen meg kell jelölni, és utalni kell arra is, hogy a kérdező a választ az Országgyűlés ülésén szóban, vagy ülésen kívül, írásban kéri. Az írásbeli választ igénylő kérdésre a kérdezett tizenöt napon belül ad választ. A 90. § (3)–(4) bekezdés rendelkezéseit a kérdés esetén is alkalmazni kell.
 
 ## A sürgősségi javaslat
 
@@ -810,7 +810,7 @@
 
 ## c) megfelel-e a jogszabályszerkesztés és a nyelvhelyesség követelményeinek.
 
-## (4)[^111] Az Országgyűlés elnöke vagy legalább tíz képviselő írásbeli indítványára az Országgyűlés határidőt szabhat a bizottsági ajánlás elkészítésére. A határidőt úgy kell megszabni, hogy a bizottságnak az általános vitára benyújtandó ajánlása elkészítésére legalább tizenöt, a részletes vitára benyújtandó ajánlása elkészítésére legalább harminc nap álljon rendelkezésére.
+## (4)[^112] Az Országgyűlés elnöke vagy legalább tíz képviselő írásbeli indítványára az Országgyűlés határidőt szabhat a bizottsági ajánlás elkészítésére. A határidőt úgy kell megszabni, hogy a bizottságnak az általános vitára benyújtandó ajánlása elkészítésére legalább tizenöt, a részletes vitára benyújtandó ajánlása elkészítésére legalább harminc nap álljon rendelkezésére.
 
 ## A Költségvetési és az Alkotmányügyi bizottság ajánlása
 
@@ -824,11 +824,11 @@
 
 ## b) a költségvetés szempontjából megvalósítható-e, illetőleg hogyan valósítható meg.
 
-## (3)[^112] Az alkotmányügyi kérdésekkel foglalkozó állandó bizottság (a továbbiakban: Alkotmányügyi bizottság) – ha nem kijelölt bizottságként jár el – az Országgyűlés elnöke vagy a kijelölt bizottság felkérésére ajánlást nyújt be, továbbá saját kezdeményezésére ajánlást nyújthat be minden törvényjavaslathoz, országgyűlési határozati javaslathoz a 95. § (3) bekezdés a)–c) pontjában meghatározott kérdésekről. Az Alkotmányügyi bizottság szükség szerint módosító javaslatot tesz.
+## (3)[^113] Az alkotmányügyi kérdésekkel foglalkozó állandó bizottság (a továbbiakban: Alkotmányügyi bizottság) – ha nem kijelölt bizottságként jár el – az Országgyűlés elnöke vagy a kijelölt bizottság felkérésére ajánlást nyújt be, továbbá saját kezdeményezésére ajánlást nyújthat be minden törvényjavaslathoz, országgyűlési határozati javaslathoz a 95. § (3) bekezdés a)–c) pontjában meghatározott kérdésekről. Az Alkotmányügyi bizottság szükség szerint módosító javaslatot tesz.
 
 ## (4) Az e §-ban szabályozott esetekben a Költségvetési, illetőleg az Alkotmányügyi bizottságra a kijelölt bizottságra vonatkozó rendelkezéseket kell alkalmazni.
 
-## A bizottsági tájékoztató[^113]
+## A bizottsági tájékoztató[^114]
 
 [^44]: A 41/A. §-t a 103/2007. (XII. 6.) OGY határozat 12. §-a iktatta be.
 [^45]: A címet a 34/2001. (VI. 1.) OGY határozat 3. §-a iktatta a szövegbe.
@@ -851,52 +851,53 @@
 [^62]: Az 50. § (8) bekezdését a 103/2007. (XII. 6.) OGY határozat 14. §-a iktatta be.
 [^63]: Az 50. § (9) bekezdését a 103/2007. (XII. 6.) OGY határozat 14. §-a iktatta be.
 [^64]: Az 51. § a 71/1997. (VII. 17.) OGY határozat 14. §-ával megállapított szöveg.
-[^65]: Az 52. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 15. §-ával megállapított szöveg.
-[^66]: Az 53. §-t megelőző alcím a 103/2007. (XII. 6.) OGY határozat 15. § (1) bekezdésével megállapított szöveg.
-[^67]: Az 53. § (1) bekezdése a 103/2007. (XII. 6.) OGY határozat 15. § (2) bekezdésével megállapított szöveg.
-[^68]: Az 53. § (3) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
-[^69]: Az 53. § (4) bekezdésének bevezető szövegrésze a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
-[^70]: Az 53. § (4) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése szerint módosított szöveg.
-[^71]: Az 53. § (4) bekezdésének d) pontját a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése hatályon kívül helyezte.
-[^72]: Az 54. § (4) bekezdése a 103/2007. (XII. 6.) OGY határozat 16. §-ával megállapított szöveg.
-[^73]: Az 54. § (5) bekezdését a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése iktatta a szövegbe.
-[^74]: Az 54. § eredeti (5) bekezdés számozását a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése (6) bekezdésre módosította.
-[^75]: Az 54. § eredeti (6) bekezdés számozását a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése (7) bekezdésre módosította. A 54. § (7) bekezdése a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
-[^76]: Az 59. § (2) bekezdése a 103/2007. (XII. 6.) OGY határozat 17. §-ával megállapított szöveg.
-[^77]: A 65. § (1) bekezdésének második mondatát a 34/2001. (VI. 1.) OGY határozat 4. §-a iktatta a szövegbe.
-[^78]: A 65. § (2) bekezdésének felvezető szövegrésze a 71/1997. (VII. 17.) OGY határozat 18. §-ával megállapított szöveg.
-[^79]: A 66. § (3) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
-[^80]: A 66. § (4) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
-[^81]: A 66. § (5) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
-[^82]: A 66. § (6) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
-[^83]: A címet a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
-[^84]: A 66/A. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
-[^85]: A 66/B. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
-[^86]: A 66/C. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
-[^87]: A 66/D. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
-[^88]: A 67. § (3) bekezdése a 47/2004. (V. 18.) OGY határozat 3. §-ával megállapított szöveg, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba.
-[^89]: A 69. § (1) bekezdése a 34/2001. (VI. 1.) OGY határozat 7. §-ának (1) bekezdésével megállapított szöveg.
-[^90]: A 69. § új (2) bekezdését a 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdése iktatta a szövegbe.
-[^91]: A 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdésében foglalt módosítás következtetében a 69. § (2) bekezdésének számozása (3) bekezdésre változott.
-[^92]: A 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdésében foglalt módosítás következtetében a 69. § (3) bekezdésének számozása (4) bekezdésre változott.
-[^93]: A 71. § a 103/2007. (XII. 6.) OGY határozat 18. §-ával megállapított szöveg.
-[^94]: A 74. § (4) bekezdése a 71/1997. (VII. 17.) OGY határozat 20. §-ával megállapított szöveg.
-[^95]: A 78. § (2) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 21. §-ával megállapított szöveg.
-[^96]: A 78. § (3) bekezdését a 34/2001. (VI. 1.) OGY határozat 11. §-a hatályon kívül helyezte, újonnan a 90/2005. (XII. 15.) OGY határozat 1. §-a iktatta be.
-[^97]: A 78/A. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^98]: A 78/B. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^99]: A 78/C. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^100]: A 78/D. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^101]: A 78/E. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^102]: A 78/F. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^103]: A 78/G. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^104]: A 78/H. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
-[^105]: A 79. § (1) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 22. §-ával megállapított szöveg.
-[^106]: A 82. § a 103/2001. (XII. 21.) OGY határozat 4. §-ával megállapított szöveg.
-[^107]: A 84. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 24. §-ával megállapított szöveg.
-[^108]: A 86. § eredeti szövegét a 71/1997. (VII. 17.) OGY határozat 25. §-a (1) bekezdésre változtatta.
-[^109]: A 86. § (2) bekezdését a 71/1997. (VII. 17.) OGY határozat 25. §-a iktatta a szövegbe.
-[^110]: A 91. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 26. §-ával megállapított szöveg.
-[^111]: A 95. § (4) bekezdése a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
-[^112]: A 96. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 27. §-ával megállapított szöveg.
-[^113]: A címet a 71/1997. (VII. 17.) OGY határozat 28. §-a iktatta a szövegbe.
+[^65]: Az 51. § (1) bekezdése a 10/2011. (III. 9.) OGY határozat 1. §-ával megállapított szöveg.
+[^66]: Az 52. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 15. §-ával megállapított szöveg.
+[^67]: Az 53. §-t megelőző alcím a 103/2007. (XII. 6.) OGY határozat 15. § (1) bekezdésével megállapított szöveg.
+[^68]: Az 53. § (1) bekezdése a 103/2007. (XII. 6.) OGY határozat 15. § (2) bekezdésével megállapított szöveg.
+[^69]: Az 53. § (3) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
+[^70]: Az 53. § (4) bekezdésének bevezető szövegrésze a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
+[^71]: Az 53. § (4) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése szerint módosított szöveg.
+[^72]: Az 53. § (4) bekezdésének d) pontját a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése hatályon kívül helyezte.
+[^73]: Az 54. § (4) bekezdése a 103/2007. (XII. 6.) OGY határozat 16. §-ával megállapított szöveg.
+[^74]: Az 54. § (5) bekezdését a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése iktatta a szövegbe.
+[^75]: Az 54. § eredeti (5) bekezdés számozását a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése (6) bekezdésre módosította.
+[^76]: Az 54. § eredeti (6) bekezdés számozását a 71/1997. (VII. 17.) OGY határozat 17. §-ának (2) bekezdése (7) bekezdésre módosította. A 54. § (7) bekezdése a 71/1997. (VII. 17.) OGY határozat 54. §-a szerint módosított szöveg.
+[^77]: Az 59. § (2) bekezdése a 103/2007. (XII. 6.) OGY határozat 17. §-ával megállapított szöveg.
+[^78]: A 65. § (1) bekezdésének második mondatát a 34/2001. (VI. 1.) OGY határozat 4. §-a iktatta a szövegbe.
+[^79]: A 65. § (2) bekezdésének felvezető szövegrésze a 71/1997. (VII. 17.) OGY határozat 18. §-ával megállapított szöveg.
+[^80]: A 66. § (3) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
+[^81]: A 66. § (4) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
+[^82]: A 66. § (5) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
+[^83]: A 66. § (6) bekezdése a 34/2001. (VI. 1.) OGY határozat 5. §-ával megállapított szöveg.
+[^84]: A címet a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
+[^85]: A 66/A. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
+[^86]: A 66/B. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
+[^87]: A 66/C. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
+[^88]: A 66/D. §-t a 34/2001. (VI. 1.) OGY határozat 6. §-a iktatta a szövegbe.
+[^89]: A 67. § (3) bekezdése a 47/2004. (V. 18.) OGY határozat 3. §-ával megállapított szöveg, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba.
+[^90]: A 69. § (1) bekezdése a 34/2001. (VI. 1.) OGY határozat 7. §-ának (1) bekezdésével megállapított szöveg.
+[^91]: A 69. § új (2) bekezdését a 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdése iktatta a szövegbe.
+[^92]: A 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdésében foglalt módosítás következtetében a 69. § (2) bekezdésének számozása (3) bekezdésre változott.
+[^93]: A 34/2001. (VI. 1.) OGY határozat 7. §-ának (2) bekezdésében foglalt módosítás következtetében a 69. § (3) bekezdésének számozása (4) bekezdésre változott.
+[^94]: A 71. § a 103/2007. (XII. 6.) OGY határozat 18. §-ával megállapított szöveg.
+[^95]: A 74. § (4) bekezdése a 71/1997. (VII. 17.) OGY határozat 20. §-ával megállapított szöveg.
+[^96]: A 78. § (2) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 21. §-ával megállapított szöveg.
+[^97]: A 78. § (3) bekezdését a 34/2001. (VI. 1.) OGY határozat 11. §-a hatályon kívül helyezte, újonnan a 90/2005. (XII. 15.) OGY határozat 1. §-a iktatta be.
+[^98]: A 78/A. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^99]: A 78/B. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^100]: A 78/C. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^101]: A 78/D. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^102]: A 78/E. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^103]: A 78/F. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^104]: A 78/G. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^105]: A 78/H. §-t a 34/2001. (VI. 1.) OGY határozat 8. §-a iktatta a szövegbe.
+[^106]: A 79. § (1) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 22. §-ával megállapított szöveg.
+[^107]: A 82. § a 103/2001. (XII. 21.) OGY határozat 4. §-ával megállapított szöveg.
+[^108]: A 84. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 24. §-ával megállapított szöveg.
+[^109]: A 86. § eredeti szövegét a 71/1997. (VII. 17.) OGY határozat 25. §-a (1) bekezdésre változtatta.
+[^110]: A 86. § (2) bekezdését a 71/1997. (VII. 17.) OGY határozat 25. §-a iktatta a szövegbe.
+[^111]: A 91. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 26. §-ával megállapított szöveg.
+[^112]: A 95. § (4) bekezdése a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
+[^113]: A 96. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 27. §-ával megállapított szöveg.
+[^114]: A címet a 71/1997. (VII. 17.) OGY határozat 28. §-a iktatta a szövegbe.
