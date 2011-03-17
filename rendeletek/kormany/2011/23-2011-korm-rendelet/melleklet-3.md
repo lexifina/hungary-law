@@ -10,8 +10,6 @@
 
 ## aláírás
 
-3. melléklet a 23/2011. (III. 8.) Korm. rendelethez
+3. melléklet a 23/2011. (III. 8.) Korm. rendelethez[^4]
 
-Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet 5. melléklete a következő 19. sorral egészül ki:
-
-| „19. | Ha az építési tevékenység eredményeként zenés, táncos rendezvény helyszínéül szolgáló építmény létesül | Az országos tűzvédelmi előírások betartása, a biztonságos kiürítés megvalósítása szakkérdésében | a) elvi építési engedély b) építési engedély c) használatba- vételi engedély d) fennmaradási engedély iránti eljárásban | Első fokú eljárásban az első fokon eljáró tűzvédelmi hatóság | Másodfokú eljárásban a másodfokon eljáró tűzvédelmi hatóság” |
+[^4]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
