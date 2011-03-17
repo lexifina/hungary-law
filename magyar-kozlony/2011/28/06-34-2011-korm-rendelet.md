@@ -1,0 +1,381 @@
+# A Kormány 34/2011. (III. 17.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 28. szám, 2011. március 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f68b4193a59c5c9634bc2b279352f55b1b104f2e/dokumentumok/5f818e4fa43b582b3949dd4e66c0bc5175a806c9/letoltes)
+
+---
+
+A Kormány 34/2011. (III. 17.) Korm. rendelete
+a Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos éves beszámoló-készítési
+és könyvvezetési kötelezettségről
+A Kormány
+a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. §-a (1) bekezdésének d) pontjában és a számvitelről szóló 2000. évi
+C. törvény 178. §-a (1) bekezdésének a) pontjában kapott,
+a 11. és a 12. § tekintetében a termőföldről szóló 1994. évi LV. törvény 90. §-a (1) bekezdésének g) pontjában kapott felhatalmazás
+alapján,
+az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+(1) A Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) a Nemzeti Földalapba tartozó rábízott földvagyonnal
+kapcsolatos könyvvezetési és beszámoló-készítési kötelezettségének a számvitelről szóló 2000. évi C. törvény
+(a továbbiakban: Sztv.) előírásai szerint, e rendeletben foglalt eltérésekkel köteles eleget tenni.
+(2) Az NFA-nak a Nemzeti Földalapba tartozó rábízott földvagyonra vonatkozóan a központi költségvetési kapcsolatokat
+érintő elszámolási, beszámolási és nyilvántartási kötelezettségeit az államháztartás működésére vonatkozó külön
+jogszabályok előírásai figyelembevételével, az e rendeletben foglalt eltérésekkel kell teljesítenie.
+2. §
+(1) Az NFA a Nemzeti Földalapba tartozó rábízott földvagyon változásáról, működtetéséről az üzleti év könyveinek zárását
+követően a tárgyévet követő üzleti év május 31. napjáig elő zetes éves beszámolót, valamint a tárgyévet követő üzleti
+év augusztus 15. napjáig éves beszámolót készít.
+(2) Az éves beszámoló mérlegkészítésének időpontja a tárgyévet követő üzleti év június 30. napja.
+(3) Az éves beszámolóval egyidejűleg üzleti jelentést is kell készíteni.
+(4) Az NFA az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.)
+206. §-ában, illetve a 17. számú mellékletben előírt időközi mérlegjelentést a rábízott állami vagyonra vonatkozóan
+az 1. melléklet szerinti mérleg tagolásának megfelelő bontásban az egyes mérlegsorok állományát és annak változását
+a következő összetevők szerint köteles bemutatni:
+a)
+állomány az év elején,
+b)
+állományváltozás a pénzforgalmi tranzakciók miatt,
+c)
+állományváltozás a nem pénzforgalmi tranzakciók miatt,
+d)
+egyéb volumenváltozás,
+e)
+értékelés,
+f)
+állomány a tárgyidőszak végén.
+(5) Az egyes összetevők meghatározására az Ámr. 19/A. számú mellékletéhez kapcsolódó kitöltési utasításban foglaltakat
+kell alkalmazni.
+
+(6) A (4) bekezdésben foglalt időközi mérlegjelentést a tárgynegyedévet követő hónap 15. napjáig a negyedik
+negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő hatvan napon belül, az éves mérlegjelentést
+az éves beszámoló benyújtásának határidejével megegyezően kell elektronikus formában az államháztartásért felelős
+miniszternek benyújtani.
+(7) Az NFA az időközi mérlegjelentés részét képező az Ámr. 19. számú melléklete szerint adatszolgáltatás alól mentesül.
+(8) Az NFA a zárszámadási törvényjavaslat előkészítéséhez a kincstárnál vezetett pénzforgalmi számlák bevételeiről és
+kiadásairól jogcímenként adatokat szolgáltat az agrárpolitikáért felelős miniszternek és az államháztartásért felelős
+miniszternek.
+3. § (1) Az éves beszámoló részei:
+a) mérleg,
+b) eredménykimutatás,
+c) kiegészítő melléklet.
+(2) A mérleg és az eredménykimutatás tagolását az 1. és 2. melléklet tartalmazza azzal, hogy az abban szereplő tételek
+tovább részletezhetők.
+(3) A mérlegben az eszközöket
+a) a központi költségvetési szerv vagyonkezelőnél lévő Nemzeti Földalapba tartozó rábízott földvagyon,
+b) az egyéb vagyonkezelőnél lévő Nemzeti Földalapba tartozó rábízott földvagyon,
+c) közvetlenül kezelt Nemzeti Földalapba tartozó rábízott földvagyon
+tagolás szerint kell részletezni.
+(4) A központi költségvetési szerv vagyonkezelőnél és az egyéb vagyonkezelőnél lévő eszközöknek, illetve azok
+forrásainak a vagyonkezelők által szolgáltatott adatokkal egyeztetett értékeit kell a mérlegben szerepeltetni, az ezen
+értékadatokat alátámasztó leltárt az adatokat szolgáltató vagyonkezelő készíti el és őrzi meg. Az adatszolgáltatást
+Nemzeti Földalapba tartozó földvagyon tekintetében a tárgyév december 31-i állományáról évente egyszer,
+a tárgyévet követő év május 31-ig, az NFA és az érintettek között létrejött megállapodásban rögzítetteknek megfelelő
+formában és tartalommal kell teljesíteni.
+4. § (1) A közvetlenül kezelt eszközöknél a befektetett eszközökön belül el kell különíteni a haszonbérbe adással, illetve
+a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 18. § (5) bekezdésében részletezett
+módon hasznosított eszközöket.
+(2) A közvetlenül kezelt eszközöknél az ingatlanok és kapcsolódó vagyoni értékű jogok között a termőföldek és az egyéb
+ingatlanok értékét kell bemutatni.
+(3) Az átsorolt készletek között kell szerepeltetni az értékesítésre szánt földterületeket, amelyek a tárgyi eszközök közül
+értékesítés céljából átsorolásra kerülnek az üzleti év folyamán.
+(4) A közvetlenül kezelt eszközöknél a készleteket átsorolt készletek, egyéb vagyonkezelőtől visszavett készletek,
+hagyatékból származó készletek, valamint egyéb készletek tagolásban kell kimutatni.
+(5) A közvetlenül kezelt eszközökön belül elkülönítetten kell nyilvántartani a forgalomképtelen, a korlátozottan
+forgalomképes és a forgalomképes eszközöket.
+(6) A közvetlenül kezelt eszközöknél a követeléseket
+a) követelések áruszállításból és szolgáltatásnyújtásból (vevők),
+b) egyéb vagyonkezelőnek vagyonkezelésbe adott eszközökkel kapcsolatos követelések,
+c) központi költségvetési szervtől átvett követelések,
+d) rövid lejáratú kölcsönök,
+e) egyéb követelések
+tagolásban kell kimutatni.
+(7) Az egyéb vagyonkezelőnek vagyonkezelésbe adott eszközökkel kapcsolatos követelések között a vagyonkezelési
+szerződés alapján vagyonkezelésbe adott eszközöknél az eszközönként rögzített bekerülési (bruttó) érték és az egyes
+eszközök könyv szerinti (nettó) értéke különbözetében bekövetkezett változást évenként – a vagyonkezelő
+adatszolgáltatása alapján – a vagyonkezelővel szembeni követelésként kell kimutatni mindaddig, amíg azok
+a vagyonkezelési szerződés szerint nem kerülnek rendezésre.
+
+(8) A kincstárnál vezetett pénzforgalmi számláknak év végén nem lehet egyenlege, ezek zárás előtti összevont
+egyenlegét a mérleg fordulónapjával az eredménnyel szemben kell elszámolni.
+5. § (1) A mérlegben forrásként a Nemzeti Földalapba tartozó rábízott földvagyon tőkéjét, a céltartalékokat,
+a kötelezettségeket és a passzív időbeli elhatárolásokat kell szerepeltetni.
+(2) A Nemzeti Földalapba tartozó rábízott földvagyon tőkéje az induló tőkéből, a tőkeváltozásból,
+az eredménytartalékból, a lekötött tartalékból, az értékhelyesbítés értékelési tartalékából, a tárgyév mérleg szerinti
+eredményéből és a központi költségvetési szerv vagyonkezelők tartalékaiból tevődik össze.
+(3) A Nemzeti Földalapba tartozó rábízott földvagyon induló tőkéje a 2010. szeptember 1-jei nyitómérlegben kimutatott
+eszközök és kötelezettségek különbözete. A Nemzeti Földalapba tartozó rábízott földvagyon induló tőkéje
+módosításaként kell figyelembe venni a 2010. szeptember 1-je előtt már meglévő, de az Nfatv. 34. § (3) szerinti
+közbenső mérlegben, vagyonmérlegben és az azt alátámasztó leltárban nem szereplő, a 2010. szeptember 1-je után
+állományba vett, a Nemzeti Földalap földvagyonába tartozó eszközök könyv szerinti (piaci) értékének megfelelő
+értéket.
+(4) A Nemzeti Földalapba tartozó rábízott földvagyon tőkeváltozásaként a Nemzeti Földalap földvagyonába tartozó,
+korábban ilyenként még állományba nem vett, piaci értékkel bíró eszközök állományba vételi értékének forrását kell
+kimutatni. Itt kell kimutatni a tárgyévben a társadalombiztosítás pénzügyi alapjai által követelés fejében átvett, illetve
+a honvédelemért felelős miniszter által honvédelmi célra feleslegessé nyilvánított és átadott a Nemzeti Földalap
+földvagyonába tartozó új eszközök állományba vételi értékével azonos értéket is.
+(5) Eredménytartalékként kell kimutatni a Nemzeti Földalapba tartozó rábízott földvagyonnal való gazdálkodás előző
+üzleti évi mérleg szerinti eredményét és annak változását, ide értve az előző üzleti év(ek) mérleg szerinti
+eredményének a módosítását is.
+(6) Mérleg szerinti eredményként kell kimutatni a költségvetési pénzforgalmi kapcsolatokkal módosított tárgyévi
+működési mérleg szerinti eredményt, egyezően az eredménykimutatásban ilyen címen kimutatott összeggel.
+Költségvetési pénzforgalmi kapcsolatként kell kimutatni a kincstárnál vezetett pénzforgalmi számlák zárás előtti
+összevont egyenlegét.
+(7) A Nemzeti Földalapba tartozó rábízott földvagyon tőkéjén belül a központi költségvetési szerv vagyonkezelők
+tartalékait a központi költségvetési szerv vagyonkezelők vagyonkezelésben lévő termőföldek értékének megfelelő,
+ilyen jogcímeken kimutatott összegeket kell kimutatni.
+6. § Az NFA a vagyonkezelésbe adott tárgyi eszközök bruttó értékét és elszámolt értékcsökkenését a vagyonkezelésbe
+adáskor könyveiből köteles kivezetni, és ezzel egyidejűleg a vagyonkezelési szerződésben szereplő értéket, mint
+bekerülési értéket kell a könyveibe felvenni.
+7. § (1) Az eredménykimutatást a (2)–(8) bekezdésben foglaltak figyelembevételével kell elkészíteni.
+(2) A belföldi értékesítés nettó árbevételén belül elkülönítve kell kimutatni
+a) a Nemzeti Földalapba tartozó rábízott földvagyon hasznosításának (vagyonkezelés, haszonbérlet, megbízási
+szerződéssel hasznosított) nettó árbevételét,
+b) a Nemzeti Földalapba tartozó rábízott földvagyon értékesítésének nettó árbevételét,
+c) az egyéb ki nem emelt árbevételt.
+(3) A Nemzeti Földalapba tartozó rábízott földvagyon hasznosításának nettó árbevételét el kell különíteni a központi
+költségvetési szerv vagyonkezelőtől, illetve az egyéb vagyonkezelőtől származó árbevétel tagolás szerint is.
+(4) A Nemzeti Földalapba tartozó rábízott földvagyon értékesítésének ráfordítása között kell kimutatni többek között
+a földvagyonba tartozó értékesített tárgyi eszközök, készletek kivezetett könyv szerinti értékét is.
+(5) A Nemzeti Földalapba tartozó rábízott földvagyon működtetésének ráfordításai között elkülönítve kell kimutatni
+a földvagyon hasznosításának (vagyonkezelés, haszonbérlet, Nfatv. 18. § (5) bekezdése szerinti megbízás)
+ráfordításait, az életjáradékkal kapcsolatos ráfordításokat és a földvagyon működtetésének egyéb ráfordításait.
+(6) A Nemzeti Földalapba tartozó rábízott földvagyon bevételeinek és ráfordításainak elszámolásakor biztosítani kell a 2. §
+(8) bekezdésében foglalt kötelezettségek teljesítéséhez szükséges adatokat.
+
+(7) A működés mérleg szerinti eredménye a szokásos vállalkozási eredmény és a rendkívüli eredmény összege, amely
+a költségvetési pénzforgalmi kapcsolatokkal összegezve adja a mérleg szerinti eredményt.
+8. § (1) A kiegészítő melléklet részét képezi a központi költségvetési kapcsolatokat érintő elszámolási, beszámolási
+kötelezettségek teljesítéséről – a 3. § (4) bekezdése alapján – készített éves mérlegjelentés is.
+(2) A kiegészítő mellékletben be kell mutatni
+a) a központi költségvetési szerv vagyonkezelőnél,
+b) az egyéb vagyonkezelőnél
+vagyonkezelésben lévő eszközök bekerülési értékének változását, a növekedést és a csökkenést jogcímek szerint
+mérlegtételkénti megbontásban.
+(3) Az értékesítés nettó árbevételét a kiegészítő mellékletben jogcímek szerint részletezni kell.
+(4) A kiegészítő mellékletben az Sztv. 59. § (1) bekezdésében, a 88. § (6)–(7) bekezdésében, a 89. § (2) bekezdésében,
+a 89/A. §-ában, a 90. § (2), (6)–(7) és (9) bekezdésében, a 91. §-ában, a 92. § (3) bekezdésében, a 93. §-ában és
+a 94/A. §-ában előírt adatokat, információkat nem kell kimutatni.
+9. § A Kormány a 3. § (1) bekezdés szerinti éves beszámoló alapján teljesíti az Nfatv. 5. § szerinti beszámolási
+kötelezettségét az Országgyűlésnek.
+10. § E rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy az 1–9. § rendelkezéseit az Nfatv.-ben
+meghatározott, rábízott földvagyonra első ízben a 2010. évben induló üzleti évre vonatkozó könyvvezetési,
+nyilvántartási, adatszolgáltatási és beszámolási kötelezettségek teljesítése során kell alkalmazni.
+11. § (1) A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról
+szóló 326/2001. (XII. 30.) Korm. rendelet [a továbbiakban: 326/2001. (XII. 30.) Korm. rendelet] 4. § (2) bekezdés c) pontja
+helyébe a következő rendelkezés lép:
+[A Földművelésügyi Igazgatóság a családi gazdaságot akkor veszi nyilvántartásba, ha a családi gazdálkodó]
+„c) a b) pontban foglalt okirat hiánya esetén – a (4) bekezdés figyelembevételével – a legalább 3 éven át folytatott
+mezőgazdasági termelő tevékenységet igazoló őstermelői vagy egyéni vállalkozói igazolvány és az adóbevallás
+másolatát csatolja, vagy legalább 3 éve – a családi gazdálkodó által csatolt nyilvántartási szám alatt – mezőgazdasági
+termelő tevékenység tekintetében szerepel az egyéni vállalkozók nyilvántartásában és adóbevallása másolatát
+csatolja,”
+(2) A 326/2001. (XII. 30.) Korm. rendelet 4. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A Földművelésügyi Igazgatóság a családi gazdaságot akkor veszi nyilvántartásba, ha a családi gazdálkodó]
+„f) rendelkezik őstermelői vagy egyéni vállalkozói igazolvánnyal, vagy a mezőgazdasági termelő tevékenység
+tekintetében szerepel az egyéni vállalkozók nyilvántartásában, és”
+(3) A 326/2001. (XII. 30.) Korm. rendelet a 17. §-t megelőzően a következő alcímmel egészül ki:
+„Záró rendelkezések”
+(4) A 326/2001. (XII. 30.) Korm. rendelet a következő 17/A. §-sal egészül ki:
+„17/A. § E rendeletnek a Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos éves beszámoló készítési és
+könyvvezetési kötelezettségről szóló 34/2011. (III. 17.) Korm. rendelettel (a továbbiakban: 34/2011. (III. 17.) Korm.
+rendelet) módosított 4. § (2) bekezdés c) és f) pontját a 34/2011. (III. 17.) Korm. rendelet hatálybalépésekor
+folyamatban lévő ügyekben is alkalmazni kell.”
+12. § A 326/2001. (XII. 30.) Korm. rendelet 6. § (2) bekezdésében „az Adó- és Pénzügyi Ellenőrzési Hivatallal” szövegrész
+helyébe „a Nemzeti Adó- és Vámhivatallal” szöveg lép.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet 34/2011. (III. 17.) Korm. rendelethez
+A mérleg tagolása
+Eszközök (aktívák)
+1. rész KÖZPONTI KÖLTSÉGVETÉSI SZERV VAGYONKEZELŐNÉL LÉVŐ ESZKÖZÖK
+A. BEFEKTETETT ESZKÖZÖK
+I. IMMATERIÁLIS JAVAK
+II. TÁRGYI ESZKÖZÖK
+III. BEFEKTETETT PÉNZÜGYI ESZKÖZÖK
+IV. ÜZEMELTETÉSRE, KEZELÉSRE ÁTADOTT, VAGYONKEZELÉSBE ADOTT, ILLETVE VAGYONKEZELÉSBE VETT ESZKÖZÖK
+B. FORGÓESZKÖZÖK
+I. KÉSZLETEK
+II. KÖVETELÉSEK
+III. ÉRTÉKPAPÍROK
+IV. PÉNZESZKÖZÖK
+V. EGYÉB AKTÍV PÉNZÜGYI ELSZÁMOLÁSOK
+1. rész KÖZPONTI KÖLTSÉGVETÉSI SZERV VAGYONKEZELŐNÉL LÉVŐ ESZKÖZÖK ÖSSZESEN
+2. rész EGYÉB VAGYONKEZELŐNÉL LÉVŐ ESZKÖZÖK
+C. BEFEKTETETT ESZKÖZÖK
+I. IMMATERIÁLIS JAVAK
+II. TÁRGYI ESZKÖZÖK
+III. BEFEKTETETT PÉNZÜGYI ESZKÖZÖK
+D. FORGÓESZKÖZÖK
+I. KÉSZLETEK
+II. KÖVETELÉSEK
+III. ÉRTÉKPAPÍROK
+IV. PÉNZESZKÖZÖK
+2. rész EGYÉB VAGYONKEZELŐNÉL LÉVŐ ESZKÖZÖK ÖSSZESEN
+3. rész KÖZVETLENÜL KEZELT ESZKÖZÖK
+E. BEFEKTETETT ESZKÖZÖK
+I. IMMATERIÁLIS JAVAK
+1. Alapítás-átszervezés aktivált értéke
+2. Kísérleti fejlesztés aktivált értéke
+3. Vagyoni értékű jogok
+4. Szellemi termékek
+5. Üzleti vagy cégérték
+6. Immateriális javakra adott előlegek
+7. Immateriális javak értékhelyesbítése
+II. TÁRGYI ESZKÖZÖK
+1. Ingatlanok és kapcsolódó vagyoni értékű jogok
+ebből: – Termőföldek
+– Egyéb ingatlanok és kapcsolódó vagyoni értékű jogok
+
+2. Gépek, berendezések, felszerelések
+3. Járművek
+4. Tenyészállatok
+5. Beruházások, felújítások
+6. Beruházásokra adott előlegek
+7. Állami készletek
+8. Tárgyi eszközök értékhelyesbítése
+III. BEFEKTETETT PÉNZÜGYI ESZKÖZÖK
+1. Tartós állami tulajdonú részesedések
+Tájékoztató adat:
+– Tartós állami tulajdonú részesedések bekerülési értéken
+– Tartós állami tulajdonú részesedések értékvesztése
+2. Tartósan adott kölcsönök
+3. Tartós hitelviszonyt megtestesítő értékpapír
+4. Egyéb hosszú lejáratú követelések
+5. Befektetett pénzügyi eszközök értékhelyesbítése
+ebből: – Tartós állami tulajdonú részesedések értékhelyesbítése
+IV. HASZONBÉRBE, ÜZEMELTETÉSRE, KEZELÉSRE ÁTADOTT ESZKÖZÖK
+F. FORGÓESZKÖZÖK
+I. KÉSZLETEK
+1. Átsorolt készletek
+– Értékesítési célú immateriális javak
+– Értékesítési célú ingatlanok
+ebből: – Értékesítési célú földterületek
+– Értékesítési célú egyéb eszközök
+2. Központi költségvetési szervtől visszavett készletek
+3. Egyéb vagyonkezelőtől visszavett készletek
+4. Hagyatékból származó készletek
+5. Egyéb készletek
+II. KÖVETELÉSEK
+1. Követelések áruszállításból és szolgáltatásnyújtásból (vevők)
+2. Egyéb vagyonkezelőnek vagyonkezelésbe adott eszközökkel kapcsolatos követelések
+3. Központi költségvetési szervtől átvett követelés
+4. Rövid lejáratú kölcsönök
+5. Egyéb követelés
+III. ÉRTÉKPAPÍROK
+1. Értékesítési célú állami tulajdonú részesedések
+Tájékoztató adat:
+– Értékesítési célú állami tulajdonú részesedések bekerülési értéken
+– Értékesítési célú állami tulajdonú részesedések értékvesztése
+2. Értékesítési célú hitelviszonyt megtestesítő értékpapírok
+3. Egyéb értékpapírok
+IV. PÉNZESZKÖZÖK
+1. Pénztár, csekkek
+2. Bankbetétek
+G. AKTÍV IDŐBELI ELHATÁROLÁSOK
+1. Bevételek aktív időbeli elhatárolása
+2. Költségek, ráfordítások aktív időbeli elhatárolása
+3. Halasztott ráfordítások
+
+3. rész KÖZVETLENÜL KEZELT ESZKÖZÖK ÖSSZESEN
+BEFEKTETETT ESZKÖZÖK ÖSSZESEN (A+C+E)
+FORGÓESZKÖZÖK ÖSSZESEN (B+D+F)
+ESZKÖZÖK (AKTÍVÁK) ÖSSZESEN
+Források (passzívák)
+H. RÁBÍZOTT VAGYON TŐKÉJE
+I. RÁBÍZOTT VAGYON INDULÓ TŐKÉJE
+1. Központi költségvetési szerv vagyonkezelőnél lévő rábízott vagyon induló tőkéje
+2. Egyéb vagyonkezelőnél lévő rábízott vagyon induló tőkéje
+3. Közvetlenül kezelt rábízott vagyon induló tőkéje
+II. RÁBÍZOTT VAGYON TŐKEVÁLTOZÁSA
+1. Központi költségvetési szerv vagyonkezelőnél lévő rábízott vagyon tőkeváltozása
+2. Egyéb vagyonkezelőnél lévő rábízott vagyon tőkeváltozása
+3. Közvetlenül kezelt rábízott vagyon tőkeváltozása
+III. EREDMÉNYTARTALÉK
+IV. LEKÖTÖTT TARTALÉK
+V. ÉRTÉKHELYESBÍTÉS ÉRTÉKELÉSI TARTALÉKA
+1. Központi költségvetési szerv vagyonkezelőnél lévő rábízott vagyon értékelési tartaléka
+2. Egyéb vagyonkezelőnél lévő rábízott vagyon értékelési tartaléka
+3. Közvetlenül kezelt rábízott vagyon értékelési tartaléka
+VI. MÉRLEG SZERINTI EREDMÉNY
+VII. KÖZPONTI KÖLTSÉGVETÉSI SZERV VAGYONKEZELŐK TARTALÉKAI
+1. Költségvetési tartalékok
+2. Vállalkozási tartalékok
+I. CÉLTARTALÉKOK
+1. Céltartalékok a várható kötelezettségekre
+2. Céltartalékok a jövőbeni költségekre
+3. Egyéb céltartalékok
+J. RÁBÍZOTT VAGYON KÖTELEZETTSÉGEI
+I. HÁTRASOROLT KÖTELEZETTSÉGEK
+II. HOSSZÚ LEJÁRATÚ KÖTELEZETTSÉGEK
+1. Hosszú lejáratra kapott kölcsönök
+2. Átváltoztatható kötvények
+3. Tartozások kötvénykibocsátásból
+4. Beruházási és fejlesztési hitelek
+5. Egyéb hosszú lejáratú hitelek
+6. Egyéb hosszú lejáratú kötelezettségek
+III. RÖVID LEJÁRATÚ KÖTELEZETTSÉGEK
+1. Rövid lejáratú kölcsönök
+ebből: – Átváltoztatható kötvények
+2. Rövid lejáratú hitelek
+3. Vevőktől kapott előlegek
+4. Kötelezettségek áruszállításból és szolgáltatásból (szállítók)
+5. Központi költségvetési szerv vagyonkezelővel kapcsolatos kötelezettség
+6. Egyéb vagyonkezelővel kapcsolatos kötelezettség
+7. Egyéb rövid lejáratú kötelezettség
+
+IV. KÖZPONTI KÖLTSÉGVETÉSI SZERV VAGYONKEZELŐK KÖTELEZETTSÉGEI
+1. Hosszú lejáratú kötelezettségek
+2. Rövid lejáratú kötelezettségek
+3. Egyéb passzív pénzügyi elszámolások
+K. PASSZÍV IDŐBELI ELHATÁROLÁSOK
+1. Bevételek passzív időbeli elhatárolása
+2. Költségek, ráfordítások passzív időbeli elhatárolása
+3. Halasztott bevételek
+FORRÁSOK (PASSZÍVÁK) ÖSSZESEN (H+...+K)
+2. melléklet 34/2011. (III. 17.) Korm. rendelethez
+Az eredmény-kimutatás tagolása
+001. Nemzeti Földalapba tartozó rábízott földvagyon hasznosításának (vagyonkezelés, haszonbérlet) nettó árbevétele
+ebből: – központi költségvetési szerv vagyonkezelőtől származó bevételek
+ – egyéb vagyonkezelőtől származó bevételek
+ – haszonbérbe adásból származó bevételek
+002. Nemzeti Földalapba tartozó rábízott földvagyon értékesítésének nettó árbevétele
+003. Egyéb ki nem emelt árbevétel
+01. Belföldi értékesítés nettó árbevétele (001+002+003)
+I. Értékesítés nettó árbevétele
+03. Saját termelésű készletek állományváltozása
+04. Saját előállítású eszközök aktivált értéke
+II. Aktivált saját teljesítmények értéke (±03+04)
+III. Egyéb bevételek
+ebből: visszaírt értékvesztés
+IV. Nemzeti Földalapba tartozó rábízott földvagyon értékesítésének ráfordítása
+05. Értékesített termőföld könyv szerinti értéke
+06. Egyéb Nemzeti Földalapba tartozó eszközök könyv szerinti értéke
+V. Eladott (közvetített) szolgáltatások értéke
+07. Nemzeti Földalapba tartozó rábízott földvagyon hasznosításának (vagyonkezelés, haszonbérlet, megbízási
+szerződéssel hasznosított) ráfordításai
+08. Életjáradékkal kapcsolatos ráfordítások
+09. Nemzeti Földalapba tartozó rábízott földvagyon működtetésének egyéb ráfordításai
+VI. Nemzeti Földalapba tartozó rábízott földvagyon működtetésének ráfordításai (07+08+09)
+VII. Nemzeti Földalapba tartozó rábízott földvagyon korábbi értékesítésének ráfordításai
+VIII. Értékcsökkenési leírás
+IX. Egyéb ráfordítások
+ebből: – értékvesztés
+A. Üzemi (üzleti) tevékenység eredménye (I+II+III–IV–V–VI–VII–VIII–IX)
+10. Egyéb kapott (járó) kamatok és kamatjellegű bevételek
+11. Pénzügyi műveletek egyéb bevételei
+X. Pénzügyi műveletek bevételei (10+11)
+12. Fizetendő kamatok és kamatjellegű ráfordítások
+13. Pénzügyi műveletek egyéb ráfordításai
+XI. Pénzügyi műveletek ráfordításai (12+13)
+
+B. Pénzügyi műveletek eredménye (X–XI)
+C. Szokásos vállalkozási eredmény (±A±B)
+XII. Rendkívüli bevételek
+XIII. Rendkívüli ráfordítások
+D. Rendkívüli eredmény (XII–XIII)
+F. Működés mérleg szerinti eredménye (±C±D)
+14. Költségvetési pénzforgalmi kapcsolatok (±)
+G. Mérleg szerinti eredmény (±F±14)
+
+V.
+A Kor mány tag ja i nak ren de le tei
