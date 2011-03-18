@@ -1,3 +1,0 @@
-1. A Kormány a volt egyházi ingatlanok tulajdoni helyzetének rendezésére alakult egyeztető bizottságok elnöki teendőinek ellátásával dr. Csepregi András politikai főtanácsadót, az Oktatási és Kulturális Minisztérium Egyházi Kapcsolatok Titkársága vezetőjét megbízza, egyidejűleg dr. Gulyás Kálmán volt címzetes államtitkárnak az e feladatra irányuló megbízását visszavonja.
-
-2. Ez a határozat a közzététele napján lép hatályba, egyidejűleg a volt egyházi ingatlanok tulajdoni helyzetének rendezésére létrehozott egyeztető bizottságok elnökének megbízásáról szóló 1042/2003. (V. 15.) Korm. határozat hatályát veszti.
