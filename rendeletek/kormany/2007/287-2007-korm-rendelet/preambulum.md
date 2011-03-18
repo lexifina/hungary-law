@@ -1,1 +1,0 @@
-A Kormány a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény (a továbbiakban: Etv.) 20. § (4) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
