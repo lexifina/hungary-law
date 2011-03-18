@@ -16,4 +16,6 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány Alapító Okiratának módosításáról szóló 1104/2003. (X. 21.) Korm. határozat, a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány Alapító Okiratának módosításáról szóló 1107/2005. (XI. 8.) Korm. határozat, a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány Alapító Okiratának módosításáról szóló 1049/2006. (V. 9.) Korm. határozat, a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány Alapító Okiratának módosításáról szóló 1032/2008. (V. 22.) Korm. határozat, valamint a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány Alapító Okiratának módosításáról szóló 1113/2010. (V. 11.) Korm. határozat.
+3.[^2] Ez a határozat a közzététele napján lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
