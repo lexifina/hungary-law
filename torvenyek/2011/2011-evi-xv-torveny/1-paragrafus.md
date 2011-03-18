@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről a Tunéziai Köztársaság közötti euro-mediterrán megállapodást (a továbbiakban: a Megállapodás) e törvénnyel kihirdeti.
