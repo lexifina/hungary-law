@@ -18,4 +18,6 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti a Nemzetközi Pető András Közalapítványról szóló 1138/1995. (XII. 27.) Korm. határozat módosításáról szóló 1061/1998 (V. 15.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1129/1999. (XII. 17.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 2082/1999. (IV. 26.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1084/2003. (VIII. 15.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1148/2004. (XII. 22.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1133/2005. (XII. 23.) Korm. határozat, a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1036/2007. (VI. 8.) Korm. határozat, valamint a Nemzetközi Pető András Közalapítvány Alapító Okiratának módosításáról szóló 1090/2008. (XII. 30.) Korm. határozat.
+3.[^2] Ez a határozat a közzététele napján lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
