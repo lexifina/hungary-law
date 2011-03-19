@@ -2,4 +2,6 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a volt egyházi ingatlanok tulajdoni helyzetének rendezésére létrehozott egyeztető bizottságok elnökének megbízásáról szóló 1090/2006. (IX. 27.) Korm. határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
