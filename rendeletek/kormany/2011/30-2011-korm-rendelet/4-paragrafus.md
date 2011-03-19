@@ -1,3 +1,5 @@
 ## 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-4. § Hatályát veszti a volt egyházi ingatlanok tulajdoni helyzetének rendezésére létrejött egyeztető bizottság kormányzati képviselőit megbízó miniszterek kijelöléséről szóló 287/2007. (X. 29) Korm. rendelet.
+4. §[^2]
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
