@@ -1,0 +1,1 @@
+## 12. § A hivatásos szolgálati viszony 2011. évben történő megszűnése esetén, ha az érintett 2011. évben természetbeni ellátásban részesült, a 9. § alapján biztosított ruházatot vissza kell venni, és részére a ruházati utánpótlási ellátmányt a visszatartott összeggel együtt a RUSZ 27. § (3)–(5) bekezdésében foglaltaknak megfelelően kell biztosítani.

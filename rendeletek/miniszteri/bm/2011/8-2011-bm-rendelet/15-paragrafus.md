@@ -1,0 +1,3 @@
+## 14. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+15. § Ez a rendelet 2012. január 1-jén hatályát veszti.
