@@ -1,4 +1,4 @@
-## 66. §[^70] A visszatérítési kérelem alapján a svájci hatóság a programszámlára utalja a támogatást.
+## 66. §[^80] A visszatérítési kérelem alapján a svájci hatóság a programszámlára utalja a támogatást.
 
 ## 7. Fejezet
 
@@ -12,7 +12,7 @@
 
 (2) Az NKE a projektenként kiállított kifizetési kérelem alátámasztásához kapcsolódóan kiegészítő információt kérhet, melyet a KSz köteles az NKE rendelkezésére bocsátani.
 
-(3)[^71] Az NKE a hitelesítési tevékenységének alátámasztása érdekében helyszíni látogatást tehet a pénzügyi lebonyolításban részt vevő KSz-nél. Az NKE előzetes értesítése alapján a KSz hozzáférést biztosít az NKE által írásban felhatalmazott személyek részére az elektronikus és papír formában rendelkezésre álló, a KSz igazoláshoz kapcsolódó dokumentumaihoz és adataihoz.
+(3)[^81] Az NKE a hitelesítési tevékenységének alátámasztása érdekében helyszíni látogatást tehet a pénzügyi lebonyolításban részt vevő KSz-nél. Az NKE előzetes értesítése alapján a KSz hozzáférést biztosít az NKE által írásban felhatalmazott személyek részére az elektronikus és papír formában rendelkezésre álló, a KSz igazoláshoz kapcsolódó dokumentumaihoz és adataihoz.
 
-[^70]: A 66. § a 226/2009. (X. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^71]: A 67. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^80]: A 66. § a 226/2009. (X. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^81]: A 67. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 22. §-ával megállapított szöveg.

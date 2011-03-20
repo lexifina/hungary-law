@@ -1,6 +1,4 @@
-## 115. § A Svájci–Magyar Együttműködési Program tekintetében az e rendeletben nem szabályozott kérdésekben a Keretmegállapodásban rögzített szabályok az irányadóak.
-
-## 116. §[^139] Ez a rendelet
+## 116. §[^165] Ez a rendelet
 
 a) az EK Szerződés 87. és 88 cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (HL L 214/3., 2008.08.09. 3–47. o.),
 
@@ -12,7 +10,7 @@ d) a vasúti és a közúti személyszállítási közszolgáltatásról, valami
 
 hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 237/2008. (IX. 26.) Korm. rendelethez[^140]
+Melléklet a 237/2008. (IX. 26.) Korm. rendelethez[^166]
 
-[^139]: A 116. § a 95/2010. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^140]: A mellékletet a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^165]: A 116. § a 95/2010. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^166]: A mellékletet a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.

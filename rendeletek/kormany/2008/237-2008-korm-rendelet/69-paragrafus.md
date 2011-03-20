@@ -2,7 +2,7 @@
 
 69. § (1) A KSz az NKE hitelesítési tevékenységének alátámasztására igazolási rendszert működtet.
 
-(2)[^72] A KSz által kiállított forráslehívási dokumentáció tanúsítja, hogy
+(2)[^82] A KSz által kiállított forráslehívási dokumentáció tanúsítja, hogy
 
 a) a Projekt Végrehajtó által benyújtott költségösszesítő összhangban van az alátámasztó dokumentumokkal, számlákkal vagy egyéb gazdasági eseményt hitelesen dokumentáló bizonylatokkal,
 
@@ -18,4 +18,4 @@ f) nyomon követi ezen jelentéseken keresztül a projektek megvalósításához
 
 (3) Pályázati Alap és Ösztöndíjalap esetén a KSz a TKSz által benyújtott kifizetési kérelem és a kapcsolódó dokumentumok igazolását látja el a (2) bekezdésben rögzítetteknek megfelelően.
 
-[^72]: A 69. § (2) bekezdésének bevezető szövegrésze a 226/2009. (X. 14.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^82]: A 69. § (2) bekezdésének bevezető szövegrésze a 226/2009. (X. 14.) Korm. rendelet 23. §-ával megállapított szöveg.

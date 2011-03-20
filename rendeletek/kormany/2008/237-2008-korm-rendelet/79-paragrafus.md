@@ -1,8 +1,8 @@
 ## Beszámolás
 
-79. § (1)[^89] A Keretmegállapodásnak megfelelően az EUTAF minden év március 15-ig elkészíti az éves ellenőrzési tervvel összhangban, a megelőző év december 31-én záruló 12 hónapos időszak során végzett, az EUTAF, illetve az NKE, a KSz valamint a TKSz által lefolytatott ellenőrzések eredményeit megállapító és a program irányítási és ellenőrzési rendszerében feltárt esetleges hiányosságokról, valamint az azokkal kapcsolatosan megtett intézkedésekről szóló éves ellenőrzési jelentést.
+79. § (1)[^99] A Keretmegállapodásnak megfelelően az EUTAF minden év március 15-ig elkészíti az éves ellenőrzési tervvel összhangban, a megelőző év december 31-én záruló 12 hónapos időszak során végzett, az EUTAF, illetve az NKE, a KSz valamint a TKSz által lefolytatott ellenőrzések eredményeit megállapító és a program irányítási és ellenőrzési rendszerében feltárt esetleges hiányosságokról, valamint az azokkal kapcsolatosan megtett intézkedésekről szóló éves ellenőrzési jelentést.
 
-(2)[^90] Az EUTAF az adott ellenőrzési időszakban készített jelentések alapján elkészített összefoglaló ellenőrzési jelentést minden év március 20-áig véleményezés céljából megküldi az NKE és Kifizető Hatóság részére. Az NKE az összefoglaló ellenőrzési jelentést az éves jelentéssel egyidejűleg megküldi a svájci hatóság részére.
+(2)[^100] Az EUTAF az adott ellenőrzési időszakban készített jelentések alapján elkészített összefoglaló ellenőrzési jelentést minden év március 20-áig véleményezés céljából megküldi az NKE és Kifizető Hatóság részére. Az NKE az összefoglaló ellenőrzési jelentést az éves jelentéssel egyidejűleg megküldi a svájci hatóság részére.
 
-[^89]: A 79. § (1) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
-[^90]: A 79. § (2) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^99]: A 79. § (1) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^100]: A 79. § (2) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.

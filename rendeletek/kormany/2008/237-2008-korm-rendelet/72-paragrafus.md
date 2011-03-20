@@ -1,4 +1,4 @@
-## 71. §[^74] A Technikai Segítségnyújtási Alap esetén az igazolási tevékenységet az NKE látja el.
+## 71. §[^84] A Technikai Segítségnyújtási Alap esetén az igazolási tevékenységet az NKE látja el.
 
 ## 8. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Pénzügyi irányítás és kontroll
 
-72. § (1)[^75] A pénzügyi irányítási és kontroll tevékenység tekintetében az Áht., valamint – az e rendeletben foglalt eltérésekkel – az Ámr. és a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet előírásai az irányadók.
+72. § (1)[^85] A pénzügyi irányítási és kontroll tevékenység tekintetében az Áht., valamint – az e rendeletben foglalt eltérésekkel – az Ámr. és a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet előírásai az irányadók.
 
 (2) Az NKE, a KSz, illetve a TKSz kötelesek
 
@@ -20,5 +20,5 @@ d) gondoskodni az ellenőrzési nyomvonal, a szabálytalanságkezelési és a ko
 
 (3) Az NFÜ és a KSz kötelesek a közreműködő szervezeti tevékenység bevételeire és kiadásaira elkülönített nyilvántartás vezetését biztosítani.
 
-[^74]: A 71. § a 226/2009. (X. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^75]: A 72. § (1) bekezdése a 226/2009. (X. 14.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^84]: A 71. § a 226/2009. (X. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^85]: A 72. § (1) bekezdése a 226/2009. (X. 14.) Korm. rendelet 25. §-ával megállapított szöveg.
