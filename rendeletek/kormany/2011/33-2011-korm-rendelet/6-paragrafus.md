@@ -1,0 +1,5 @@
+## 5. § Az R. 53. §-a helyébe a következő rendelkezés lép:
+
+## „53. § (1) Az NKE a projektek előkészítése, valamint végrehajtása során meggyőződik arról, hogy a projektek társfinanszírozását szolgáló önerő az e rendeletben, valamint a Végrehajtási Megállapodásban és a támogatási megállapodásokban foglaltaknak megfelelően rendelkezésre áll.
+
+## (2) Kockázati tőke támogatás nyújtása esetén az (1) bekezdést nem kell alkalmazni.”
