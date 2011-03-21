@@ -1,1 +1,0 @@
-## „(7) Kockázati tőke támogatás nyújtása esetén a KSz hatáskörébe tartozó feladatokkal kapcsolatosan a (4) bekezdés a) pontját, valamint a 19. § (3) bekezdését és a 61. § (2) bekezdését nem kell alkalmazni.”

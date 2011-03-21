@@ -1,1 +1,0 @@
-## „13a. Lebonyolításban érintett szervezet: kockázati tőke támogatás nyújtása esetén a szabálytalansági eljárás lebonyolítása során a Nemzeti Koordinációs Egység, a KSz, a Projekt Végrehajtó, a Kifizető Hatóság, az Európai Támogatásokat Auditáló Főigazgatóság, valamint a svájci hatóság;”
