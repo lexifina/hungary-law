@@ -1,0 +1,3 @@
+A belügyminiszter előterjesztésére az Alkotmány 30/A. §-a (1) bekezdésének m) pontjában biztosított jogkörömben megállapítom, hogy Frank Tibor büntetés-végrehajtási dandártábornok szolgálati viszonya – mivel a hivatásos szolgálat felső korhatárát elérte – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 59. §-a (1) bekezdésének a) pontja alapján 2011. március 16-ai hatállyal, a törvény erejénél fogva megszűnik, és erre tekintettel a Hszt. 182. §-ának (1) bekezdése alapján 2011. március 17-ei hatállyal szolgálati nyugállományba helyezem.
+
+KEH ügyszám: IV-6/00954/2011.
