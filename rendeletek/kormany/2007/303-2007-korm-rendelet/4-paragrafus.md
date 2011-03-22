@@ -1,6 +1,8 @@
 ## A Földrajzinév-bizottság feladatai
 
-4. § (1) A Bizottság megállapítja a 2. § (3) bekezdésének a)–e) pontjaiban foglalt hivatalos földrajzi neveket.
+4. § (1)[^6] A Bizottság – az (1a) bekezdésben meghatározott kivétellel – megállapítja a 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket.
+
+(1a)[^7] A 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket – ha ahhoz kiemelt közérdek fűződik – a Kormány egyedi határozatban állapítja meg. A Kormány döntésére az 5. § (1) és (3) bekezdését nem kell alkalmazni.
 
 (2) A Bizottság
 
@@ -14,15 +16,15 @@ a) a 2. § (4) bekezdésében meghatározott hivatalos földrajzi nevek helyess�
 
 b) a hozzá forduló szervezet vagy magánszemély kérésére a hivatalos földrajzi nevek megállapításának és használatának jogszabályban nem szabályozott kérdéseiről és a külföldi földrajzi nevek magyar megfelelője hazai használatáról.
 
-(4) A Bizottság hatáskörébe tartozó hivatalos földrajzi nevek megállapítására, a megállapított hivatalos földrajzi nevek megváltoztatására javaslatot tehet:
+(4)[^8] A Bizottság hatáskörébe tartozó hivatalos földrajzi nevek megállapítására, a megállapított hivatalos földrajzi nevek megváltoztatására javaslatot tehet:
 
-a) a 2. § (3) bekezdésének a) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter;
+a) a 2. § (3) bekezdés a) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter;
 
-b) a 2. § (3) bekezdésének b) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter vagy az érintett települési önkormányzat;
+b) a 2. § (3) bekezdés b) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter vagy az érintett települési önkormányzat;
 
-c) a 2. § (3) bekezdésének c) és d) pontjában meghatározott hivatalos földrajzi nevek esetében a környezetvédelmi és vízügyi miniszter;
+c) a 2. § (3) bekezdés c) és d) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter;
 
-d) a 2. § (3) bekezdésének e) pontjában meghatározott hivatalos földrajzi nevek esetében a gazdasági és közlekedési miniszter, regionális jelentőségű létesítmény esetében az üzemeltető gazdasági szervezet.
+d) a 2. § (3) bekezdés e) pontjában meghatározott hivatalos földrajzi nevek esetében a nemzeti fejlesztési miniszter, regionális jelentőségű létesítmény esetében az üzemeltető gazdasági szervezet.
 
 (5) A 2. § (3) bekezdésének a)–e) pontjaiba tartozó, megállapított hivatalos földrajzi nevekről a Bizottság értesíti a javaslattevőket.
 
@@ -31,3 +33,7 @@ d) a 2. § (3) bekezdésének e) pontjában meghatározott hivatalos földrajzi 
 (7) A Bizottság – az érdekeltekkel egyetértésben – szakmai ajánlásokat tehet közzé a 2. §-ban felsorolt típusú nevek megállapításának és megváltoztatásának módszertanáról.
 
 (8) A Bizottság vezetője évente beszámol a miniszternek a Bizottság munkájáról.
+
+[^6]: A 4. § (1) bekezdése a 36/2011. (III. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^7]: A 4. § (1a) bekezdését a 36/2011. (III. 21.) Korm. rendelet 5. §-a iktatta be.
+[^8]: A 4. § (4) bekezdése a 36/2011. (III. 21.) Korm. rendelet 6. §-ával megállapított szöveg.

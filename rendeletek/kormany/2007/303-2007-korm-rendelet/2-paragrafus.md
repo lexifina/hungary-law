@@ -38,4 +38,6 @@ Szentpéterfa = Petrovo Selo, Óbánya = Altglashütte, Alcsevica, Gropcsica).
 
 (pl. Одеса/Odesza = Odessza, Shanghai = Sanghaj).
 
-(6) Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Ferihegyi repülőtér, Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
+(6)[^1] Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
+
+[^1]: A 2. § (6) bekezdése a 36/2011. (III. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
