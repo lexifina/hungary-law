@@ -1,6 +1,6 @@
-## 6. §[^8] Az egy projekthez igénybe vett, a Római Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg a Korm. rendelet 30. §-ban meghatározott mértéket.
+## 6. §[^9] Az egy projekthez igénybe vett, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes állami támogatás támogatási intenzitása nem haladhatja meg az Atr. 25. §-ában meghatározott mértéket.
 
-7. §[^9] (1) A támogatás szempontjából elszámolható költségek körét a vállalkozások esetében a regionális állami támogatásokról szóló 98/C 74/06 közösségi iránymutatás alapján kell értelmezni. Szinten tartás nem támogatható. Halászati tevékenységre beruházási támogatás nem nyújtható. Amennyiben a kedvezményezett vállalkozás, vállalnia kell, hogy a beruházással létrehozott kapacitásokat, szolgáltatásokat az eredeti célnak megfelelően öt évig folyamatosan fenntartja és működteti, vagy – amennyiben az elszámolható költségek a személyi jellegű ráfordítások alapján kerülnek kiszámításra – az újonnan létesített munkahelyeket öt évig fenntartja.
+7. §[^10] (1) A támogatás szempontjából elszámolható költségek körét a vállalkozások esetében a regionális állami támogatásokról szóló 98/C 74/06 közösségi iránymutatás alapján kell értelmezni. Szinten tartás nem támogatható. Halászati tevékenységre beruházási támogatás nem nyújtható. Amennyiben a kedvezményezett vállalkozás, vállalnia kell, hogy a beruházással létrehozott kapacitásokat, szolgáltatásokat az eredeti célnak megfelelően öt évig folyamatosan fenntartja és működteti, vagy – amennyiben az elszámolható költségek a személyi jellegű ráfordítások alapján kerülnek kiszámításra – az újonnan létesített munkahelyeket öt évig fenntartja.
 
 Az elszámolható költségek köre a következő:
 
@@ -28,5 +28,5 @@ b) ha a kedvezményezett általános forgalmi adó levonási joggal rendelkezik,
 
 c) a 17. § (1) bekezdésében szereplő kutatás-fejlesztés támogatása esetén az állami támogatás általános forgalmi adóval csökkentett része.
 
-[^8]: A 6. § a 24/2005. (II. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^9]: A 7. § a 24/2005. (II. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: A 6. § a 37/2011. (III. 22.) Korm. rendelet 39. § (21) bekezdésével megállapított szöveg.
+[^10]: A 7. § a 24/2005. (II. 11.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A központi támogatási rendszer
 
-17. §[^19] (1) Az 1. § (1) bekezdésében meghatározott esetekben az előirányzatok központi keretéből a Korm. rendelettel összhangban egyedileg vagy pályázati rendszerben a miniszter támogatást biztosíthat:
+17. §[^20] (1)[^21] Az 1. § (1) bekezdésében meghatározott esetekben az előirányzatok központi keretéből az Atr. alapján egyedileg vagy pályázati rendszerben a miniszter támogatást biztosíthat:
 
 a) a működtetési, kommunikációs feladatokra;
 
@@ -36,4 +36,5 @@ l) a kiemelt kistérségek és rétegek projektfejlesztésére, a romák társad
 
 (6) Az (1) bekezdésben foglaltak megvalósításában a Magyar Regionális Fejlesztési és Urbanisztikai Kht. közhasznú keretszerződésben meghatározott feltételek szerint közreműködik.
 
-[^19]: A 17. § a 24/2005. (II. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^20]: A 17. § a 24/2005. (II. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^21]: A 17. § (1) bekezdés nyitó szövegrésze a 37/2011. (III. 22.) Korm. rendelet 40. § (17) bekezdés a) pontja szerint módosított szöveg.

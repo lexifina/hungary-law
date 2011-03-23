@@ -1,6 +1,6 @@
-## A kiemelt térségi támogatási rendszer[^16]
+## A kiemelt térségi támogatási rendszer[^17]
 
-16. § (1)[^17] A kiemelt térségi fejlesztési tanács – a miniszterrel, illetve az általa felhatalmazott MTRFH-val kötött együttműködési megállapodás alapján – egyedileg és pályázati rendszer keretében támogatást nyújthat az 1. § (1) bekezdésének a) és e) pontjai esetében:
+16. § (1)[^18] A kiemelt térségi fejlesztési tanács – a miniszterrel, illetve az általa felhatalmazott MTRFH-val kötött együttműködési megállapodás alapján – egyedileg és pályázati rendszer keretében támogatást nyújthat az 1. § (1) bekezdésének a) és e) pontjai esetében:
 
 a) az érintett kiemelt üdülőkörzet hosszú távú területfejlesztési koncepciójába illeszkedő műszaki fejlesztési munkák, illetve beruházások támogatására;
 
@@ -20,12 +20,12 @@ h) megállapodás alapján rendezvények támogatásához.
 
 (2) A kiemelt térségi tanács által nyújtott támogatások esetén a támogatási szerződést a tanács elnöke írja alá.
 
-(3)[^18] A kiemelt térségi fejlesztési tanács az együttműködési megállapodás alapján ellátja a pályázatok, egyedi döntések lebonyolításával kapcsolatos feladatokat.
+(3)[^19] A kiemelt térségi fejlesztési tanács az együttműködési megállapodás alapján ellátja a pályázatok, egyedi döntések lebonyolításával kapcsolatos feladatokat.
 
 (4) A kiemelt térségi fejlesztési tanács az általa működtetett pályázati rendszer keretében az együttműködési megállapodásban 2004. évre biztosított szabad forrás összegére vetítve 2005. évre 50%, 2006. évre 20% támogatásra vállalhat kötelezettséget. 2005. és 2006. évekre támogatási kötelezettséget csak áthúzódó beruházások támogatására lehet vállalni.
 
 (5) A kiemelt térségi fejlesztési tanács az együttműködési megállapodásban meghatározott lebonyolítási díjat a pályázati rendszer működtetésével kapcsolatos kiadásokra fordíthatja.
 
-[^16]: A Magyar Közlöny 2004. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
-[^17]: A 16. § (1) bekezdése a 24/2005. (II. 11.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^18]: A 16. § (3) bekezdése a 24/2005. (II. 11.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^17]: A Magyar Közlöny 2004. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
+[^18]: A 16. § (1) bekezdése a 24/2005. (II. 11.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^19]: A 16. § (3) bekezdése a 24/2005. (II. 11.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

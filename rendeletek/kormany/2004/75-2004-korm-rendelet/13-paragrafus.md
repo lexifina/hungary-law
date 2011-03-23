@@ -1,4 +1,4 @@
-13. § (1)[^14] A támogatási döntést hozó a támogatásra benyújtott pályázatról a befogadást követő 60 napon belül dönt.
+13. § (1)[^15] A támogatási döntést hozó a támogatásra benyújtott pályázatról a befogadást követő 60 napon belül dönt.
 
 (2) A döntés-előkészítéssel és a támogatási döntésekről történő értesítéssel kapcsolatban az Ámr. 85. §-ában, valamint a 86. §-ának (2)–(3) bekezdéseiben foglaltakat is alkalmazni kell.
 
@@ -8,4 +8,4 @@
 
 (5) A támogatási döntéseket a Magyar Közlöny Hivatalos Értesítőben nyilvánosságra kell hozni. A támogatási döntéseket a Kiemelt Térségi Fejlesztési Tanács esetében az érintett megyei önkormányzatok hivatalos lapjaiban is nyilvánosságra kell hozni.
 
-[^14]: A 13. § (1) bekezdése a 24/2005. (II. 11.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^15]: A 13. § (1) bekezdése a 24/2005. (II. 11.) Korm. rendelet 11. §-ával megállapított szöveg.

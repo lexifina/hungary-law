@@ -1,4 +1,4 @@
-## 18/A. §[^23] E rendelet alkalmazásában
+## 18/A. §[^25] E rendelet alkalmazásában
 
 a) rehabilitáció: egy adott terület korábbi kedvezőbb környezetminőségének a visszaállítása;
 
@@ -12,4 +12,4 @@ e) kiemelt rétegek: szociálisan felzárkóztatásra szoruló, illetve fogyaté
 
 f) zöld terület: a 253/1997. (XII. 20.) Korm. rendelet 27. § (1) bekezdésében meghatározott terület.
 
-[^23]: A 18/A. §-t a 24/2005. (II. 11.) Korm. rendelet 16. §-a iktatta be.
+[^25]: A 18/A. §-t a 24/2005. (II. 11.) Korm. rendelet 16. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. §[^1] (1) Az országos jelentőségű területfejlesztési programok fejezeti kezelésű előirányzat rendeltetése:
+1. §[^2] (1) Az országos jelentőségű területfejlesztési programok fejezeti kezelésű előirányzat rendeltetése:
 
 a) a Balaton kiemelt üdülőkörzet területfejlesztésével és területrendezésével kapcsolatos feladatok támogatása;
 
@@ -18,4 +18,4 @@ g) kiemelt kistérségek fejlesztése és rétegek felzárkóztatása, romák t�
 
 (2) Az előirányzatok felhasználása vonatkozásában az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletet (a továbbiakban: Ámr.) az e rendeletben foglalt kiegészítésekkel kell alkalmazni.
 
-[^1]: Az 1. § a 24/2005. (II. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 24/2005. (II. 11.) Korm. rendelet 1. §-ával megállapított szöveg.

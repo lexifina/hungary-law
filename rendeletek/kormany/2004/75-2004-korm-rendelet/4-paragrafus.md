@@ -1,4 +1,4 @@
-4. § (1)[^4] A támogatási forma vissza nem térítendő támogatás. Az adott támogatás támogatástartalmát a Római Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004 (IV. 19.) Korm. rendeletben (a továbbiakban: Korm. rendelet) foglaltak figyelembevételével kell meghatározni.
+4. § (1)[^5] A támogatás formája vissza nem térítendő támogatás. Az adott támogatás támogatástartalmát az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. mellékletében meghatározott módszer alapján kell kiszámítani.
 
 (2) A támogatási igény benyújtása előtt megkezdett beruházáshoz, fejlesztéshez támogatás nem adható.
 
@@ -18,4 +18,4 @@ e) az a)–d) pontokban nem szereplő fejlesztések (programkészítés, megval�
 
 (4) Termelő infrastrukturális beruházások esetén a beruházásnak a megkezdésétől számított 36 hónapon belül meg kell valósulnia, és a szolgáltatást 10 éven keresztül biztosítani kell.
 
-[^4]: A 4. § (1) bekezdése a 24/2005. (II. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (20) bekezdésével megállapított szöveg.
