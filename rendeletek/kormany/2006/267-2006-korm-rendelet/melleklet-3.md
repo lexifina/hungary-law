@@ -42,7 +42,7 @@
 
 | 8. | Az eljárás - a bányák föld alatti létesítményei kivételével - honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett létesítmény megvalósítására irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
 
-| 9. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá hogy biztosítható-e a felszíni és felszín alatti vizek védelmének, hasznosítási lehetőségei megőrzése, valamint a földtani közeg védelme. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezet- és Vízügyi Főfelügyelőség |
+| 9. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges | 1. Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. 2. Annak elbírálása kérdésében, hogy biztosítható-e a felszíni és felszín alatti vizek védelme, hasznosítási lehetőségei megőrzése, valamint a földtani közeg védelme. 3. Annak elbírálása kérdésében, hogy a keletkező hulladék elhelyezése, előkezelése, hasznosítása, ártalmatlanítása megfelel-e a hulladékgazdálkodási előírásoknak, merülnek-e fel olyan, a hulladékgazdálkodás- ból eredő környezeti kockázatok, amelyek mellett a hozzájárulást nem vagy csak feltételekkel lehet megadni. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 10. | Helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetén. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi és megyei kormányhivatal |
 
@@ -50,7 +50,9 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetén | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrend- sértések és határesemények megelőzhetők-e. | megyei (fővárosi) rendőr- főkapitányság | Országos Rendőr- főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^27]
+| 13. | „A” osztályú bányászati hulladékkezelő létesítmény építési és használatbavételi engedélyezési eljárásában | belső vészhelyzeti terv megfelelőségének kérdésében | megyei katasztrófavédelmi igazgatóság, (a fővárosban) Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^28]
 
 A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szakhatóságok
 
@@ -162,4 +164,4 @@ A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szak
 
 | 13. | Bányatavak fennmaradási engedélye kivételével, ha a létesítményt régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | Bányatavak fennmaradása és hasznosítása kivételével | IGEN | NEM |
 
-[^27]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 164. §-ával megállapított szöveg.
+[^28]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 164. §-ával megállapított szöveg.
