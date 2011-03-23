@@ -28,12 +28,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+6.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány létrehozásáról szóló 2187/1995. (VII. 4.) Korm. határozat,
+a)–d)[^3]
 
-b) a Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány Alapító Okiratának módosításáról szóló 1017/2005. (III. 1.) Korm. határozat,
-
-c) a Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány Alapító Okiratának módosításáról szóló 1056/2008. (IX. 9.) Korm. határozat, valamint
-
-d) a Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány Alapító Okiratának módosításáról szóló 1117/2009. (VII. 23.) Korm. határozat.
+[^2]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
