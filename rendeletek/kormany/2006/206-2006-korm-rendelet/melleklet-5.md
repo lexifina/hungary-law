@@ -70,6 +70,6 @@
 
 ## aláírás
 
-5. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^61]
+5. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^64]
 
-[^61]: Az 5. számú mellékletet a 202/2009. (IX. 18.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 19. §-át.
+[^64]: Az 5. számú mellékletet a 202/2009. (IX. 18.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 19. §-át.

@@ -358,6 +358,6 @@
 
 ## 18 A táblázat ezen sorában csak akkor kell adatot szerepeltetni, ha az adózó a 100 millió eurót meghaladó elszámolható költséghez nem kér állami támogatást.
 
-4. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^60]
+4. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^63]
 
-[^60]: A 4. számú melléklet a 315/2006. (XII. 23.) Korm. rendelet 9. § (4) bekezdése, a 361/2007. (XII. 23.) Korm. rendelet 3. §-a, a 211/2008. (VIII. 27.) Korm. rendelet 3. §-a, a 202/2009. (IX. 18.) Korm. rendelet 12. §-a és 18. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. §-át.
+[^63]: A 4. számú melléklet a 315/2006. (XII. 23.) Korm. rendelet 9. § (4) bekezdése, a 361/2007. (XII. 23.) Korm. rendelet 3. §-a, a 211/2008. (VIII. 27.) Korm. rendelet 3. §-a, a 202/2009. (IX. 18.) Korm. rendelet 12. §-a és 18. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. §-át.
