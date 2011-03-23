@@ -14,6 +14,6 @@ d) a támogatandó cél másképp nem érhető el vagy az időmúlás következt
 
 (3) A pályázaton kívüli támogatás iránti kérelmet megfelelő dokumentumokkal és adatokkal alá kell támasztani és meg kell jelölni a támogatási igény nagyságát.
 
-(4)[^1] A támogatás pályázaton kívüli odaítéléséről a kultúráért felelős miniszter dönt.
+(4)[^2] A támogatás pályázaton kívüli odaítéléséről a kultúráért felelős miniszter dönt.
 
-[^1]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 614. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 614. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
