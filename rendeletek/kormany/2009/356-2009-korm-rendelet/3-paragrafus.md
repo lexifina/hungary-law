@@ -1,4 +1,4 @@
-3. § (1) E rendelet alapján pénzügyi válság kapcsán nyújtandó átmeneti támogatás (a továbbiakban: átmeneti támogatás) nyújtható, amelyre az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet (a továbbiakban: R.) 23/A. §-a és 23/D. §-a, valamint e rendelet szabályai az irányadók.
+3. § (1)[^2] E rendelet alapján pénzügyi válság kapcsán nyújtandó átmeneti támogatás (a továbbiakban: átmeneti támogatás) nyújtható, amelyre az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 27. §-a és 31. §-a, valamint e rendelet szabályait kell alkalmazni.
 
 (2) A munkaadónak átmeneti támogatásként nyújtott összes támogatás támogatástartalma munkaadónként nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget, figyelemmel a (3) bekezdésben foglaltakra.
 
@@ -33,3 +33,5 @@ e) amennyiben az átmeneti támogatás az importáruk helyett hazai áru haszná
 (10) A támogatást nyújtó kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy pénzügyi válság kapcsán nyújtandó átmeneti támogatásban részesült, és egy vállalkozásnak 2008. január 1-je és 2010. december 31-e között odaítélt átmeneti támogatás és csekély összegű támogatás támogatástartalma együttesen nem haladhatja meg az ötszázezer eurónak megfelelő forintösszeget.
 
 (11) A kedvezményezett köteles az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő 10. évig megőrizni, és a támogatást nyújtó felhívása esetén azokat bemutatni.
+
+[^2]: A 3. § (1) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
