@@ -18,8 +18,9 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+3.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Demokrácia Központ Közalapítvány Alapító Okiratának módosításáról szóló 1027/2006. (III. 27.) Korm. határozat, valamint a Demokrácia Központ Közalapítvány Alapító Okiratának módosításáról szóló 1034/2008. (V. 26.) Korm. határozat;
+a)–b)[^3]
 
-b) a Demokrácia Központ Közalapítvány támogatásának kiegészítéséről szóló 2153/2006. (IX. 4.) Korm. határozat.
+[^2]: A 3. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 3. pont a)–b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
