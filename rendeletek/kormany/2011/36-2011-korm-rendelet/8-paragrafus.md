@@ -1,3 +1,0 @@
-## 7. § A magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet kiegészül a következő 8. §-sal:
-
-## „8. § A magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet módosításáról szóló 36/2011. (III. 21.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésével egyidejűleg a Bizottság hivatalban lévő tagjainak megbízatása megszűnik, a miniszter a Módr. hatálybalépését követő 15 napon belül tagok jelölésére kéri fel a 3. § a Módr.-tel megállapított (2) és (3) bekezdése szerinti személyeket és szervezeteket.”

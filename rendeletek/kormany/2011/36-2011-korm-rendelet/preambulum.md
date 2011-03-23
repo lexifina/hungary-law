@@ -1,1 +1,0 @@
-A Kormány a földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény 29. § (5) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
