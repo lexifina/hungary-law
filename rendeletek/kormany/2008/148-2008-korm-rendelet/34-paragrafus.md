@@ -30,6 +30,6 @@ h) a támogatásokkal kapcsolatos kommunikációs feladatok ellátását;
 
 i) a források felhasználásával kapcsolatos adatok szolgáltatását.
 
-(3)[^43] A pályázati rendszerek működtetésére fordítható (1) bekezdés szerinti forrás 90%-a a (2) bekezdés szerinti megállapodás megkötését követően, 10%-a a megállapodásban szereplő beszámolási kötelezettség teljesítését követően folyósítható.
+(3)[^47] A pályázati rendszerek működtetésére fordítható (1) bekezdés szerinti forrás 90%-a a (2) bekezdés szerinti megállapodás megkötését követően, 10%-a a megállapodásban szereplő beszámolási kötelezettség teljesítését követően folyósítható.
 
-[^43]: A 34. § (3) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.
+[^47]: A 34. § (3) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.

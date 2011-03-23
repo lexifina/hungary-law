@@ -36,8 +36,9 @@ p) támogatási intenzitás: a támogatástartalom és a jelenértéken számít
 
 q) támogatási szerződés: a kedvezményezett vagy kedvezményezettek, valamint a támogatási döntést hozó között, a polgári jog általános szabályai szerint létrejött szerződés, amely tartalmazza a támogatás nyújtásának és felhasználásának részletes szabályait;
 
-r) támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet [a továbbiakban: 85/2004. (IV. 19.) Korm. rendelet] 2. számú mellékletében foglalt módszer alapján kiszámolt értéke;
+r)[^1] támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. mellékletében meghatározott módszer alapján kiszámolt értéke;
 
-s)[^1] támogatási döntést hozó szerv: a miniszter, a regionális fejlesztési tanács vagy a megyei területfejlesztési tanács.
+s)[^2] támogatási döntést hozó szerv: a miniszter, a regionális fejlesztési tanács vagy a megyei területfejlesztési tanács.
 
-[^1]: A 2. § s) pontját a 370/2010. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^1]: A 2. § r) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^2]: A 2. § s) pontját a 370/2010. (XII. 31.) Korm. rendelet 8. §-a iktatta be.

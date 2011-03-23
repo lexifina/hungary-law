@@ -4,7 +4,7 @@
 
 (2) E rendelet alapján beruházási támogatás csak akkor ítélhető oda, ha a pályázó még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja, és az ügynökség írásban megerősíti, hogy a – további részletes vizsgálat tárgyát képező – projekt megfelel az e rendeletben és a pályázati egységcsomagban meghatározott jogosultsági feltételeknek.
 
-(3) Az egy projekthez igénybe vett, az Európai Közösséget létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg a 85/2004. (IV. 19.) Korm. rendelet 30. § (1) bekezdésében meghatározott mértéket.
+(3)[^16] Az egy projekthez igénybe vett, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdése meghatározott mértéket.
 
 (4) A célelőirányzat forrásainak terhére megítélt támogatás intenzitása legfeljebb az e rendelet mellékletében meghatározott mértéknek,
 
@@ -51,3 +51,5 @@ g) informatikai és távközlési alaphálózat kiépítése.
 (7) Elszámolható továbbá a projekt keretein belül megvalósított ingatlanépítés, kapacitásbővítést vagy funkcióváltást eredményező bővítés, átalakítás számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési költsége. Ezen jogcím esetén gépek, berendezések beszerzésének a számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési költsége nem elszámolható költség.
 
 (8) Az elszámolható költségek részletes felsorolását a pályázati egységcsomag tartalmazza. A pályázati egységcsomag az elszámolható költségek körét a (6)–(7) bekezdésekben foglaltaktól szűkebben is meghatározhatja.
+
+[^16]: A 10. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (6) bekezdés c) pontja szerint módosított szöveg.

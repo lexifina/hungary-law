@@ -1,4 +1,4 @@
-25/B. §[^21] (1) Az a kedvezményezett, aki az előre nem tervezhető, jelentősen megváltozott külső gazdasági környezet miatt, önhibáján kívül időlegesen nem tudja teljesíteni a támogatási szerződésben vállalt kötelezettségeit, és a célelőirányzatból foglalkoztatási kötelezettség vállalása mellett részesült támogatásban, írásban kérelmezheti a foglalkoztatási kötelezettség teljesítésére rendelkezésre álló időtartam meghosszabbítását a támogatási döntést hozó szervtől. A kérelem benyújtására rendelkezésre álló határidő a foglakoztatási kötelezettség záró időpontjáig áll nyitva.
+25/B. §[^25] (1) Az a kedvezményezett, aki az előre nem tervezhető, jelentősen megváltozott külső gazdasági környezet miatt, önhibáján kívül időlegesen nem tudja teljesíteni a támogatási szerződésben vállalt kötelezettségeit, és a célelőirányzatból foglalkoztatási kötelezettség vállalása mellett részesült támogatásban, írásban kérelmezheti a foglalkoztatási kötelezettség teljesítésére rendelkezésre álló időtartam meghosszabbítását a támogatási döntést hozó szervtől. A kérelem benyújtására rendelkezésre álló határidő a foglakoztatási kötelezettség záró időpontjáig áll nyitva.
 
 (2) Az (1) bekezdés szerinti kérelemben a kedvezményezett bemutatja a kérelem előterjesztéséhez vezető okokat, és a kedvezményezett várható foglalkoztatási helyzetét a kérelmezett teljesíthetőségi időtartam végéig.
 
@@ -14,4 +14,4 @@
 
 (8) A foglalkoztatási kötelezettség időtartamának meghosszabbítására vonatkozó döntést a támogatási szerződés módosításával a szerződésben rögzíteni kell. Az időtartam meghosszabbítására vonatkozó szerződésmódosítás hatálybalépésének feltétele a biztosíték 28. § (4) bekezdése szerinti időtartamig történő fennállását igazoló dokumentum csatolása.
 
-[^21]: A 25/B. §-t a 370/2010. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^25]: A 25/B. §-t a 370/2010. (XII. 31.) Korm. rendelet 10. §-a iktatta be.

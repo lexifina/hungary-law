@@ -6,16 +6,16 @@ a) az 1. § (2) bekezdésének a) pontja szerinti célterület vonatkozásában 
 
 b) az 1. § (2) bekezdésének c) pontja szerinti célterület vonatkozásában műemlékek vagy azon múzeumok fejlesztésére, amelyek látogatóinak száma a pályázat benyújtását megelőző évben nem éri el az 5000 főt, vagy
 
-c)[^50] az 1. § (2) bekezdésének d) pontja szerinti célterület vonatkozásában franchise rendszerek létrehozása és bővítése érdekében.
+c)[^54] az 1. § (2) bekezdésének d) pontja szerinti célterület vonatkozásában franchise rendszerek létrehozása és bővítése érdekében.
 
-(2)[^51] A térségi fejlesztési tanács az (1) bekezdés szerinti, a területileg érintett régiók tanácsaival előzetesen egyeztetett programját legkésőbb 2008. július 10-ig küldi meg a miniszter részére. A miniszter a program támogatásáról legkésőbb 2008. augusztus 10-ig hoz döntést.
+(2)[^55] A térségi fejlesztési tanács az (1) bekezdés szerinti, a területileg érintett régiók tanácsaival előzetesen egyeztetett programját legkésőbb 2008. július 10-ig küldi meg a miniszter részére. A miniszter a program támogatásáról legkésőbb 2008. augusztus 10-ig hoz döntést.
 
 (3) Az (1) bekezdés a) pontja szerinti jogcím esetén elszámolható költségnek minősülnek a közvetlenül a projekttel összefüggésben felmerülő utazási és szervezési költségek (legfeljebb a projekt összes költségének 15%-a mértékéig), a projekt megvalósításához szükséges eszközök számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési értéke. Elszámolhatóak továbbá a projekttel közvetlenül összefüggő előadói, szakértői díjak, legfeljebb az összes elszámolható költség 10%-a mértékéig.
 
 (4) Az (1) bekezdés b) pontja szerinti jogcím esetén elszámolható költségnek minősülnek a közvetlenül a projekt megvalósításához szükséges eszközök bérleti díja és a számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési értéke, valamint az igénybe vett szolgáltatások díja.
 
-(5)[^52] Az (1) bekezdés c) pontja szerint csekély összegű támogatás nyújtható. A csekély összegű támogatásra a 12. §-ban foglalt szabályokat kell alkalmazni azzal az eltéréssel, hogy a jogcím szerint nyújtott támogatások vonatkozásában elszámolható költségnek minősül a franchise hálózat tagjai számára kötelezően alkalmazandó előírásokat tartalmazó kézikönyvek kidolgozásának, valamint a franchise szerződésben előírt feltételek teljesítése érdekében közvetlenül szükséges tárgyi eszközöknek a számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési értéke.
+(5)[^56] Az (1) bekezdés c) pontja szerint csekély összegű támogatás nyújtható. A csekély összegű támogatásra a 12. §-ban foglalt szabályokat kell alkalmazni azzal az eltéréssel, hogy a jogcím szerint nyújtott támogatások vonatkozásában elszámolható költségnek minősül a franchise hálózat tagjai számára kötelezően alkalmazandó előírásokat tartalmazó kézikönyvek kidolgozásának, valamint a franchise szerződésben előírt feltételek teljesítése érdekében közvetlenül szükséges tárgyi eszközöknek a számviteli törvény 47–48. §-ai, valamint 51. §-a szerinti bekerülési értéke.
 
-[^50]: A 37. § (1) bekezdés c) pontja a 175/2008. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^51]: A 37. § (2) bekezdése a 175/2008. (VI. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^52]: A 37. § (5) bekezdése a 175/2008. (VI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^54]: A 37. § (1) bekezdés c) pontja a 175/2008. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^55]: A 37. § (2) bekezdése a 175/2008. (VI. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^56]: A 37. § (5) bekezdése a 175/2008. (VI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

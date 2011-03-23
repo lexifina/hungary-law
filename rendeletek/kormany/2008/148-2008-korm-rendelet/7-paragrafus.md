@@ -18,15 +18,15 @@ h) települési önkormányzati szilárd burkolatú belterületi közutak burkol
 
 (2) Nem ítélhető meg támogatás továbbá
 
-a)[^2] azon pályázó részére, amellyel szemben az Európai Bizottságnak valamely támogatás visszafizetésére kötelező határozata van érvényben;
+a)[^5] azon pályázó részére, amellyel szemben az Európai Bizottságnak valamely támogatás visszafizetésére kötelező határozata van érvényben;
 
-b)[^3] a cégbírósági törlési eljárás alá került gazdasági társaságoknak, és a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1 alpontja szerinti nehéz helyzetben lévő vállalkozásoknak;
+b)[^6] a cégbírósági törlési eljárás alá került gazdasági társaságoknak, és a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1 alpontja szerinti nehéz helyzetben lévő vállalkozásoknak;
 
-c)[^4] adósságrendezési eljárás alatt álló önkormányzat részére;
+c)[^7] adósságrendezési eljárás alatt álló önkormányzat részére;
 
-d)[^5] azon pályázó részére, amely a támogatás iránti pályázat benyújtását megelőző három naptári éven belül az államháztartás alrendszereiből, az Európai Unió előcsatlakozási eszközeiből vagy a strukturális alapokból juttatott valamely támogatással összefüggésben a támogatási szerződésben vállalt kötelezettségét nem vagy csak részben teljesítette, és ezért az Ámr. 88. § (2) bekezdése szerinti kizárás alatt áll, kivéve a vis maior esetét;
+d)[^8] azon pályázó részére, amely a támogatás iránti pályázat benyújtását megelőző három naptári éven belül az államháztartás alrendszereiből, az Európai Unió előcsatlakozási eszközeiből vagy a strukturális alapokból juttatott valamely támogatással összefüggésben a támogatási szerződésben vállalt kötelezettségét nem vagy csak részben teljesítette, és ezért az Ámr. 88. § (2) bekezdése szerinti kizárás alatt áll, kivéve a vis maior esetét;
 
-e)[^6] azon pályázó részére, amely az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a pályázata benyújtásának időpontjában – nem minősül köztartozásmentes adózónak;
+e)[^9] azon pályázó részére, amely az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint – a pályázata benyújtásának időpontjában – nem minősül köztartozásmentes adózónak;
 
 f) azon pályázó részére, amely nem felel meg az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában, a rendezett munkaügyi kapcsolatokra vonatkozóan megfogalmazott általános és különös feltételek bármelyikének;
 
@@ -42,15 +42,15 @@ k) olyan projektek megvalósításához, amelyek a pályázat benyújtásakor ki
 
 l) olyan projektek megvalósításához, amelyek az Európai Unió által finanszírozott támogatások rendszerében, vagy a helyi önkormányzatok fejlesztési és vis maior feladatainak támogatása, vagy a leghátrányosabb helyzetű térségek felzárkóztatásának támogatása előirányzatokból fejlesztési célú támogatást kaptak.
 
-(3)[^7] A (2) bekezdés e) pontja szerinti kizáró feltétel fennállásának hiányát a kérelmező
+(3)[^10] A (2) bekezdés e) pontja szerinti kizáró feltétel fennállásának hiányát a kérelmező
 
 a) 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
 b) szerepel a köztartozásmentes adózói adatbázisban.
 
-[^2]: A 7. § (2) bekezdésének a) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: A 7. § (2) bekezdésének b) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^4]: A 7. § (2) bekezdésének c) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^5]: A 7. § (2) bekezdésének d) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^6]: A 7. § (2) bekezdésének e) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^7]: A 7. § (3) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^5]: A 7. § (2) bekezdésének a) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (2) bekezdésének b) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 7. § (2) bekezdésének c) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 7. § (2) bekezdésének d) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (2) bekezdésének e) pontja a 163/2009. (VIII. 6.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 7. § (3) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
