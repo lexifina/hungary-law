@@ -1,9 +1,13 @@
 ## Az államhatár rendjének fenntartását biztosító szabályok
 
-3. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában építmény nem létesíthető
+3. § (1) A határvonaltól, valamint a határjeltől számított egy méter távolságon belül építmény nem létesíthető, kivéve
 
-a) a határvonaltól számított egy méter széles területű sávban, illetve
+a) ha jogszabállyal kihirdetett nemzetközi szerződés ettől eltérően rendelkezik,
 
-b) a Magyar Köztársaság területén elhelyezett határjel körüli egy méter sugarú kör területén belül.
+b) a közforgalom számára épülő utat, a határrendészeti és vízgazdálkodási célú építményt, valamint az energetikai és távközlési célú vezetéket.
 
-(2) A határvonal és határjelek láthatóságának biztosítása érdekében a Rendőrség gondoskodik az (1) bekezdésben meghatározott területnek a láthatóságot akadályozó növényzettől való megtisztításról.
+(2) Az (1) bekezdés szerinti építmények létesítésével kapcsolatos munkákat oly módon kell elvégezni, hogy az államhatár vonalát jelölő határjelek ne sérüljenek.
+
+(3) Minden olyan munkavégzéshez, amely a határjeleket vagy az államhatár vonalát érinti, az államhatár láthatóságának biztosítására, a határvonal megjelölésére és a határjelek karbantartására nemzetközi szerződésben létrehozott határbizottság előzetes jóváhagyása szükséges.
+
+(4) A határvonal és határjelek láthatóságának biztosítása érdekében a Rendőrség gondoskodik a jogszabállyal kihirdetett nemzetközi szerződésben meghatározott, ennek hiányában az (1) bekezdés szerinti területnek a láthatóságot akadályozó növényzettől való megtisztításáról.

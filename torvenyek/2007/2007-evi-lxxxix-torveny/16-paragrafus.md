@@ -17,3 +17,5 @@ c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit.
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
+
+(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy rendeletben határozza meg a határvízen történő közlekedés engedélyezésének szabályait.
