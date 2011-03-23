@@ -90,7 +90,7 @@
 
 5. célvállalkozás: a 800/2008/EK bizottsági rendelet 28. cikk 8. pontjában meghatározott fogalom;
 
-5a.[^11] diszkont kamatláb: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet (a továbbiakban: 85/2004. Korm. rendelet) 1. § 36. pontja szerinti kamatláb;
+5a.[^11] diszkont kamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontja szerinti kamatláb;
 
 5b.[^12] elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
 
@@ -162,13 +162,13 @@
 
 28. nagyberuházás: a 800/2008/EK bizottsági rendelet 2. cikk 12. pontjában meghatározott fogalom;
 
-29.[^24] nehéz helyzetben lévő vállalkozás: a 85/2004. (IV. 19.) Korm. rendelet 8. számú mellékletében meghatározott vállalkozás;
+29.[^24] nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
 
 30. növekedési tőke: a 800/2008/EK bizottsági rendelet 28. cikk 6. pontjában meghatározott fogalom;
 
 30a.[^25] női vállalkozó által újonnan létrehozott vállalkozás: a 800/2008/EK bizottsági rendelet 2. cikk 28. pontjában meghatározott vállalkozás;
 
-31.[^26] referencia alapkamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott kamatláb;
+31.[^26] referencia alapkamatláb: az Atr. 2. § 13. pontjában meghatározott kamatláb;
 
 32. saját forrás: a Projekt Végrehajtó által a fejlesztési programhoz igénybe vett, támogatásnak nem minősülő forrás;
 
@@ -184,9 +184,9 @@
 
 37. szintetikusszál-ipar: a 800/2008/EK bizottsági rendelet 2. cikk 30. pontjában meghatározott fogalom;
 
-38.[^28] támogatási intenzitás: a 85/2004. (IV. 19.) Korm. rendelet 1. § 24. pontjában meghatározott támogatási mérték;
+38.[^28] támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott támogatási mérték;
 
-39.[^29] támogatástartalom: a 85/2004. (IV. 19.) Korm. rendelet 1. § 31. pontjában meghatározott érték;
+39.[^29] támogatástartalom: az Atr. 2. § 19. pontjában meghatározott érték;
 
 40.[^30] támogatott területek: az EUMSZ 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl, az EUMSZ 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
 
@@ -204,7 +204,7 @@
 [^8]: A 2. § (2) bekezdés 1. pontját a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^9]: A 2. § (2) bekezdés 2a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A 2. § (2) bekezdés 3a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^11]: A 2. § (2) bekezdés 5a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^11]: A 2. § (2) bekezdés 5a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 39. § (10) bekezdésével megállapított szöveg.
 [^12]: A 2. § (2) bekezdés 5b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^13]: A 2. § (2) bekezdés 5c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^14]: A 2. § (2) bekezdés 5d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
@@ -217,11 +217,11 @@
 [^21]: A 2. § (2) bekezdés 18d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
 [^22]: A 2. § (2) bekezdés 25a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
 [^23]: A 2. § (2) bekezdés 25b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^24]: A 2. § (2) bekezdés 29. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^24]: A 2. § (2) bekezdés 29. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (8) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^25]: A 2. § (2) bekezdés 30a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (9) bekezdése iktatta be.
-[^26]: A 2. § (2) bekezdés 31. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^26]: A 2. § (2) bekezdés 31. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (10) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^27]: A 2. § (2) bekezdés 35a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^28]: A 2. § (2) bekezdés 38. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^29]: A 2. § (2) bekezdés 39. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^28]: A 2. § (2) bekezdés 38. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^29]: A 2. § (2) bekezdés 39. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés d) pontja szerint módosított szöveg.
 [^30]: A 2. § (2) bekezdés 40. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
 [^31]: A 2. § (2) bekezdés 41. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
