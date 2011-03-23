@@ -8,8 +8,6 @@ b) ipari területek, innovációs központok és inkubátorházak kiépítéséh
 
 c) térségi fejlesztési programok, a helyi társadalom fejlődését, önszerveződését elősegítő programok, valamint a gazdaság fejlődését segítő megvalósíthatósági tanulmányok készítéséhez;
 
-d) a megyei tanács határozatában rögzített roma programokban szereplő fejlesztésekhez
+d)[^21] – az Atr.-rel összhangban – a határozatában rögzített roma programokban meghatározott fejlesztésekhez.
 
-da)[^20] abban az esetben, ha a programban szereplő fejlesztés megvalósítása az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése hatálya alá tartozik, az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait, valamint az állami támogatásokra vonatkozó közösségi szabályokat kell alkalmazni.
-
-[^20]: A 20. § da) pontja a 85/2004. (IV. 19.) Korm. rendelet 34. § (2) bekezdésének f) pontjával megállapított szöveg.
+[^21]: A 20. § d) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (30) bekezdésével megállapított szöveg.

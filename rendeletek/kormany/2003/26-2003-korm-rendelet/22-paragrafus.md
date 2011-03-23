@@ -2,11 +2,11 @@
 
 22. § (1) A központi keret fedezetet nyújt a működtetési, a tervezési és a kutatásfejlesztési feladatok ellátására.
 
-(2)[^21] A miniszter a központi keretből nem pályázati rendszerben az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályaival, valamint az állami támogatásokra vonatkozó közösségi szabályokkal összhangban támogatást biztosít:
+(2)[^22] A miniszter a központi keretből pályázati rendszeren kívül az Atr.-rel, valamint az uniós állami támogatási szabályokkal összhangban támogatást biztosít:
 
 a) az EU által társfinanszírozott fejlesztésből megvalósuló programokhoz;
 
-b) kormányhatározatban rögzített és más kiemelt területfejlesztési és válságkezelő feladatok megvalósításához;[^22]
+b) kormányhatározatban rögzített és más kiemelt területfejlesztési és válságkezelő feladatok megvalósításához;
 
 c) más központi forrásokkal közös finanszírozással meghirdetett központi fejlesztési programok beruházásaihoz.
 
@@ -18,5 +18,4 @@ b) a gazdaságtalan szénbányák felszámolásából adódó társadalmi probl�
 
 c) a 100 fő feletti munkahelyteremtő és a működő külföldi tőke bevonásával összefüggő beruházásokhoz.
 
-[^21]: A 22. § (2) bekezdésének felvezető szövege a 85/2004. (IV. 19.) Korm. rendelet 34. § (2) bekezdésének g) pontjával megállapított szöveg.
-[^22]: Lásd a 2261/2003. (X. 27.) Korm. határozatot.
+[^22]: A 22. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (31) bekezdésével megállapított szöveg.

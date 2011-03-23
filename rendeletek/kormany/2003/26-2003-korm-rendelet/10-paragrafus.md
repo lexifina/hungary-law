@@ -1,6 +1,6 @@
-## 9. §[^7] Az egy projekthez igénybe vett, az Európai Közösséget létrehozó Szerződés 87. cikkének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendeletben meghatározott mértéket.
+## 9. §[^8] Az egy projekthez igénybe vett, az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes állami támogatás támogatási intenzitása nem haladhatja meg az Atr.-ben és az uniós állami támogatási szabályokban meghatározott mértéket.
 
-10. § (1)[^8] A támogatás szempontjából elszámolható költségek körét a nemzeti regionális támogatásról szóló bizottsági iránymutatásban (98/C 74/06) foglaltak alapján kell értelmezni.
+10. § (1)[^9] A támogatás szempontjából elszámolható költségek körét a nemzeti regionális támogatásról szóló bizottsági iránymutatásban (98/C 74/06) foglaltak alapján kell értelmezni.
 
 (2) Amennyiben a támogatás nem tartozik az Áht. 15. §-a alá, az elszámolható költségek köre:
 
@@ -10,5 +10,5 @@ b) a képzési, átképzési, illetve programkészítés esetében a közbeszerz
 
 (3) A támogatással létrehozott ipari parkokban megvalósuló beruházások esetében a támogatás szempontjából az ingatlan megvásárlása nem elismerhető költség.
 
-[^7]: A 9. § a 85/2004. (IV. 19.) Korm. rendelet 34. § (2) bekezdésének b) pontjával megállapított szöveg.
-[^8]: A 10. § (1) bekezdése a 85/2004. (IV. 19.) Korm. rendelet 34. § (2) bekezdésének c) pontjával megállapított szöveg.
+[^8]: A 9. § a 37/2011. (III. 22.) Korm. rendelet 39. § (28) bekezdésével megállapított szöveg.
+[^9]: A 10. § (1) bekezdése a 85/2004. (IV. 19.) Korm. rendelet 34. § (2) bekezdésének c) pontjával megállapított szöveg.

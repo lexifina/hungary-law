@@ -1,4 +1,4 @@
-11. § (1)[^9] A támogatás a támogatási szerződésben rögzített éves ütemezésben vehető igénybe. A támogatás mértéke évente eltérő lehet, de egyik évben sem haladhatja meg az 1. melléklet szerinti támogatási intenzitás felső határát.
+11. § (1)[^10] A támogatás a támogatási szerződésben rögzített éves ütemezésben vehető igénybe. A támogatás mértéke évente eltérő lehet, de egyik évben sem haladhatja meg az 1. melléklet szerinti támogatási intenzitás felső határát.
 
 (2) A támogatás igénybevétele forrás és teljesítményarányosan – számla ellenében vagy fejlesztési célú pénzeszköz átadására létrejött megállapodás alapján, természetes személytől történő ingatlanvásárlás esetében adásvételi szerződés alapján annak kifizetéséhez, vagy a kifizetés megtörténtét követően, utólagosan – történhet. A saját vállalkozásban végzett beruházás esetén az elszámolás a támogatási szerződésben meghatározott bizonylat alapján történhet.
 
@@ -12,4 +12,4 @@ b) programkészítés esetén a megítélt támogatás 20%-a a szerződés alá�
 
 (5) Amennyiben a támogatott a szerződésben rögzített kezdési időpontot követő 3 hónapon belül nem kezdi meg a beruházást, nem kezdeményezi a támogatás – vagy a támogatás egy részének – igénybevételét és a késedelem okát nem indokolja, a támogatási döntés érvényét veszti.
 
-[^9]: A 11. § (1) bekezdése a 17/2006. (I. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 11. § (1) bekezdése a 17/2006. (I. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
