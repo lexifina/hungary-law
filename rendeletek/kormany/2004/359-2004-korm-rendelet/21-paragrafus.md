@@ -10,6 +10,6 @@ c) az irányító hatóságnál, illetve közreműködő szervezeteinél a struk
 
 d) a költségnyilatkozatban foglalt költségek elszámolhatók, számlák vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylatokkal alátámaszthatók, valamint a vonatkozó nemzeti és közösségi szabályokkal összhangban merültek fel, továbbá a számviteli nyilvántartás adataival alátámasztottak.
 
-(3)[^39] Az irányító hatóság a hitelesítési tevékenységet a kifizető hatóság által összeállított útmutató alapján végzi.
+(3)[^40] Az irányító hatóság a hitelesítési tevékenységet a kifizető hatóság által összeállított útmutató alapján végzi.
 
-[^39]: A 21. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be.
+[^40]: A 21. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be.

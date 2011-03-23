@@ -2,7 +2,7 @@
 
 31. § (1) A nemzeti hatóságnak kell gondoskodnia arról, hogy a Magyarországon megvalósuló projektekkel kapcsolatos könyvvezetési, beszámolási és adatszolgáltatási kötelezettség a külföldi székhelyű irányító hatóság felé teljesüljön az e rendelet szerinti elkülönített, eredményszemléletű kettős könyvviteli nyilvántartás vezetésével. Ezeket a feladatokat a nemzeti hatóság a felelősség megtartása mellett átruházhatja a közreműködő szervezetre.
 
-(2)[^46]
+(2)[^47]
 
 (3) Az (1) bekezdés szerinti számviteli nyilvántartást a számviteli törvényben foglalt számviteli alapelvek figyelembevételével kell vezetni.
 
@@ -14,9 +14,9 @@ a) a számviteli folyamatok eljárási rendje;
 
 b) számviteli politika, számlatükör, számlarend;
 
-c)[^47]
+c)[^48]
 
 (6) A számviteli politika főbb irányainak meghatározásáért, elkészítésért és az elkészült számviteli politika jóváhagyásáért, annak végrehajtásáért a nemzeti hatóság vezetője felelős.
 
-[^46]: A 31. § (2) bekezdését a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
-[^47]: A 31. § (5) bekezdésének c) pontját a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
+[^47]: A 31. § (2) bekezdését a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
+[^48]: A 31. § (5) bekezdésének c) pontját a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.

@@ -18,7 +18,7 @@ b) az EFK-számláról a lebonyolítási bankszámlára beérkezett bevételek �
 
 c) a lebonyolítási számláról a kedvezményezetteknek kifizetett hazai finanszírozás és közösségi támogatás összege intézkedésenként, azon belül kedvezményezettek szerinti bontásban;
 
-d)[^30]
+d)[^31]
 
 e) a program pénzügyi lebonyolításában részt vevő bankszámlák forgalma (EFK-számla, programonkénti lebonyolítási bankszámla);
 
@@ -28,13 +28,13 @@ g) a jóváhagyott, engedélyezett, de még a kedvezményezettek számára ki ne
 
 (3) A számviteli nyilvántartásokat nemzeti valutában kell vezetni és biztosítani kell az Európai Bizottság által meghatározott elszámolási árfolyamon az euróra való átszámítást az Európai Bizottsággal való elszámolás érdekében.
 
-(4)[^31] A számviteli nyilvántartások vezetése során gondoskodni kell arról, hogy az Európai Bizottság, az irányító hatóság és az ellenőrző szervezetek (pl. Állami Számvevőszék, EUTAF) részére történő évközi adatszolgáltatásoknak a nyilvántartási rendszerből nyerhető adatai, valamint az éves pénzügyi jelentések elkészítéséhez szükséges adatok megfelelő részletességgel rendelkezésre álljanak és az irányító hatóság a kifizető hatóság megkeresésére azokat rendelkezésre bocsássa.
+(4)[^32] A számviteli nyilvántartások vezetése során gondoskodni kell arról, hogy az Európai Bizottság, az irányító hatóság és az ellenőrző szervezetek (pl. Állami Számvevőszék, EUTAF) részére történő évközi adatszolgáltatásoknak a nyilvántartási rendszerből nyerhető adatai, valamint az éves pénzügyi jelentések elkészítéséhez szükséges adatok megfelelő részletességgel rendelkezésre álljanak és az irányító hatóság a kifizető hatóság megkeresésére azokat rendelkezésre bocsássa.
 
-(5)[^32] A Kifizető Hatóság a tárgyévet követő év április 30-ig küldi meg számviteli beszámolóját az Irányító Hatóság részére, amelynek részei a mérleg, az eredmény-kimutatás és a kiegészítő melléklet.
+(5)[^33] A Kifizető Hatóság a tárgyévet követő év április 30-ig küldi meg számviteli beszámolóját az Irányító Hatóság részére, amelynek részei a mérleg, az eredmény-kimutatás és a kiegészítő melléklet.
 
-(6)[^33] Az Irányító Hatóság az INTERREG programra vonatkozó összesített éves számviteli beszámolót a tárgyévet követő év május 30-ig készíti el.
+(6)[^34] Az Irányító Hatóság az INTERREG programra vonatkozó összesített éves számviteli beszámolót a tárgyévet követő év május 30-ig készíti el.
 
-[^30]: A 18. § (2) bekezdésének d) pontját a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^31]: A 18. § (4) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
-[^32]: A 18. § (5) bekezdését a 35/2008. (II. 23.) Korm. rendelet 49. § (2) bekezdése iktatta be.
-[^33]: A 18. § (6) bekezdését a 35/2008. (II. 23.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+[^31]: A 18. § (2) bekezdésének d) pontját a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^32]: A 18. § (4) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^33]: A 18. § (5) bekezdését a 35/2008. (II. 23.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+[^34]: A 18. § (6) bekezdését a 35/2008. (II. 23.) Korm. rendelet 49. § (2) bekezdése iktatta be.

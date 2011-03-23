@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti számviteli nyilvántartást a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) foglalt számviteli alapelvek figyelembevételével vezetett, elkülönített, eredményszemléletű kettős könyvviteli nyilvántartásokkal kell biztosítani.
 
-(3)[^27]
+(3)[^28]
 
 (4) A számviteli nyilvántartás vezetésére olyan számviteli szoftvert kell alkalmazni, amelyben a követelések és kötelezettségek analitikus nyilvántartása a főkönyvi nyilvántartáshoz integráltan kapcsolódik, vagyis az analitikus tételek egyidejűleg, egy adatrögzítéssel bekerülnek az analitikus és a főkönyvi nyilvántartásba is. Ezzel kell biztosítani a főkönyvi és analitikus nyilvántartások automatikus számszaki egyezőségét.
 
@@ -14,16 +14,16 @@ a) a számviteli folyamatok eljárási rendje;
 
 b) számviteli politika, számlatükör, számlarend;
 
-c)[^28]
+c)[^29]
 
 (6) A számviteli politika főbb irányainak meghatározásáért, elkészítésért és az elkészült számviteli politika jóváhagyásáért, annak végrehajtásáért a kifizető hatóság, illetve az irányító hatóság vezetője felelős.
 
-(7)[^29]
+(7)[^30]
 
 (8) A Magyar Államkincstár a bankszámlakivonatot két eredeti példányban állítja elő és az egyik példányt az európai uniós számviteli nyilvántartást végző közreműködő szervezetnek, a másik példányt pedig a bankszámla tulajdonosának küldi meg.
 
 (9) A számviteli nyilvántartások vezetésének irányítására olyan szakembert kell alkalmazni, aki megfelel a számviteli törvény 151. §-ban foglalt képesítési követelményeknek.
 
-[^27]: A 17. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^28]: A 17. § (5) bekezdésének c) pontját a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
-[^29]: A 17. § (7) bekezdését a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
+[^28]: A 17. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 17. § (5) bekezdésének c) pontját a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.
+[^30]: A 17. § (7) bekezdését a 35/2008. (II. 23.) Korm. rendelet 53. §-a hatályon kívül helyezte.

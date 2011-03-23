@@ -4,7 +4,7 @@ a) az Európai Bizottság 2000. április 28-i Közleménye a tagállamoknak az e
 
 b) az Európai Bizottság 2003. március 11-i Közleménye a Tanácsnak és az Európai Parlamentnek: Tágasabb Európa – Szomszédság: Új keretek a keleti és déli szomszéd államokkal fennálló kapcsolatoknak.
 
-Melléklet a 359/2004. (XII. 26.) Korm. rendelethez[^99]
+Melléklet a 359/2004. (XII. 26.) Korm. rendelethez[^100]
 
 NYILATKOZAT
 
@@ -50,4 +50,4 @@ P. H.
 
 aláírás
 
-[^99]: A mellékletet a 243/2006. (XII. 5.) Korm. rendelet 28. §-a iktatta be.
+[^100]: A mellékletet a 243/2006. (XII. 5.) Korm. rendelet 28. §-a iktatta be.

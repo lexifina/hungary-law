@@ -14,6 +14,6 @@ c) a kedvezményezettektől szabálytalanság miatt behajtandó hazai támogatá
 
 d) a jóváhagyott, engedélyezett, de a kedvezményezetteknek még ki nem fizetett hazai támogatások összege, valamint a behajtott, de a költségvetésnek még vissza nem fizetett összegek mint kötelezettségek.
 
-e)[^54]
+e)[^55]
 
-[^54]: A 41. § (3) bekezdésének e) pontját a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^55]: A 41. § (3) bekezdésének e) pontját a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
