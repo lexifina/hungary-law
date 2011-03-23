@@ -114,7 +114,7 @@ a) a pályázati egységcsomag tervezetét elektronikus úton, majd a végleges�
 
 b) az Ámr. 8/a. számú melléklete szerinti adatlapot elektronikus úton, majd a véglegesített pályázati felhívással együtt két eredeti példányban papír alapon;
 
-c)[^7] a Nemzeti Fejlesztési Minisztérium Támogatásokat Vizsgáló Irodájának (a továbbiakban: TVI) a pályázati egységcsomagról adott véleményét elektronikus úton, majd a véglegesített pályázati felhívással együtt papír alapon egy másolati példányban.
+c)[^7] az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnek a pályázati egységcsomagról adott állásfoglalását elektronikus úton, majd a véglegesített pályázati felhívással együtt papír alapon egy másolati példányban.
 
 (7)[^8] Ha a pályázati egységcsomaggal kapcsolatban az NFM eltérően foglal állást, erről a Tanácsot a beérkezéstől számított 3 munkanapon belül írásban – indokai megjelölésével – értesíti. Ha a Tanács az állásfoglalásban foglaltakkal nem ért egyet, az NFM-mel egyeztetést folytat le a megállapodás elérése érdekében. Az egyeztetés alapján módosított pályázati felhívással kapcsolatban az NFM annak beérkezését követő 2 munkanapon belül a (8) bekezdésben foglaltak szerint jár el.
 
@@ -142,14 +142,14 @@ h) a pályázati felhívás nyilvántartásba vételének időpontját.
 
 (11)[^12] A Tanács az NFM honlapján történő közzétételt követő 2 munkanapon belül, de legkésőbb 2009. április 30-ig a pályázati egységcsomagot saját honlapján közzéteszi, emellett gondoskodik a pályázati felhívásnak a régió területe által érintett megyénként egy megyei – ennek hiányában egy országos – napilapban történő közzétételéről.
 
-(12)[^13] A (8) bekezdésben lévő nyilvántartásba vételről az NFM haladéktalanul tájékoztatja a Kincstárt úgy, hogy a nyilvántartásba vett pályázati felhívást elektronikusan, az Ámr. 8/a. számú melléklete szerinti, egyéni kóddal ellátott adatlap egy eredeti példányát és a TVI által kiadott vélemény (másolati) dokumentumát postai úton továbbítja a Kincstár felé az MR-ben történő nyilvántartásba vétel céljából.
+(12)[^13] A (8) bekezdése szerinti nyilvántartásba vétel tényét az NFM közli a Kincstárral, ezzel egyidejűleg a nyilvántartásba vett pályázati felhívást elektronikusan, az Ámr. 8a. számú melléklete szerinti adatlap egy eredeti példányát és az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet véleményének másolati példányát postai úton továbbítja a Kincstár felé az MR-ben történő nyilvántartásba vétel céljából.
 
 [^5]: A 3. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
 [^6]: A 3. § (6) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^7]: A 3. § (6) bekezdés c) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdés c) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (8) bekezdésével megállapított szöveg.
 [^8]: A 3. § (7) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
 [^9]: A 3. § (8) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
 [^10]: A 3. § (9) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
 [^11]: A 3. § (10) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
 [^12]: A 3. § (11) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^13]: A 3. § (12) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 3. § (12) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (9) bekezdésével megállapított szöveg.
