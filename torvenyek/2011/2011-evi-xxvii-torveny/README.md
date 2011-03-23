@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-27-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2011-03-23 | 2011. évi XXVII. törvény | 2011-27-00-00.0 (közlönyállapot) |
+| 2011-03-23 | 22/2011. (IX. 14.) KüM határozat | 2011-27-00-00.1 |
