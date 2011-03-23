@@ -1,0 +1,5 @@
+21. § (1) A vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet hatálya alá tartozó állami támogatások esetében a támogatási tervezetnek – a 3. § (1) bekezdésében meghatározottakon túl – kifejezett hivatkozást kell tartalmaznia a vasúti és közúti személyszállítási közszolgáltatásról szóló rendeletre, valamint annak I. mellékletében foglaltakra, és tartalmaznia kell a vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet 4. cikkében meghatározott tartalmi elemeket is.
+
+(2) A vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet hatálya alá tartozó állami támogatás esetén a támogatást nyújtó gondoskodik arról, hogy a közszolgáltatásért járó ellentételezés ne haladja meg a vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet I. melléklete alapján meghatározott mértéket.
+
+(3) A támogatást nyújtó minden év március 30-áig a 4. mellékletben meghatározott adattartalommal beszámolót készít a miniszter számára az általa a megelőző évben a vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet alapján nyújtott állami támogatásokról.
