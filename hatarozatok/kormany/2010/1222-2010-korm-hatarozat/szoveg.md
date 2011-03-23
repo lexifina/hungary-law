@@ -2,17 +2,19 @@ A Kormány
 
 1.1. a vörösiszap-katasztrófával összefüggésben a XIV. Belügyminisztérium fejezet Katasztrófa elhárítási célelőirányzatok (20. cím, 1. alcím, 34. jogcímcsoport) terhére további kiadások elszámolhatósága körében – a károkozó felelősségét nem érintve – támogatja
 
-a) a gazdálkodó szervezetek, egyéni vállalkozók tulajdonában lévő ingatlanokban, a gyártott, vagy a gyártáshoz szükséges termékekben esett károk enyhítését;
+a)[^1] a gazdálkodó szervezetek, egyéni vállalkozók és egyházi tulajdonban lévő ingatlanokban, gyártott vagy a gyártáshoz, szolgáltatáshoz szükséges, valamint a forgalmazott termékekben esett károk enyhítését;
 
 b) a konyhakertekből be nem takarított terményekben keletkezett károk, valamint a természetes személyek tulajdonában lévő károsodott ingatlanokon tartott, elhullott haszonállat-állomány károk enyhítését;
 
 c) a természetes személy tulajdonában lévő egy darab gépjárműben esett károk enyhítését, a gépjármű életkorát figyelembe véve, a gépjármű amortizációval csökkentett értékéig;
 
-d) a természetes személy tulajdonában lévő károsodott lakóépületben lévő háztartási ingóságok (bútor, a háztartás viteléhez elengedhetetlenül szükséges háztartási eszközök) pótlását károsodott ingatlanonként legfeljebb 500 000 forint értékhatárig;
+d)[^2] a természetes személy tulajdonában lévő károsodott lakóépületben lévő háztartási ingóságok (bútor, a háztartás viteléhez szükséges háztartási eszközök) pótlását károsodott ingatlanonként legfeljebb 1 000 000 forint értékhatárig azzal, hogy egyedi indokolt esetben a belügyminiszter ennél nagyobb értékben is engedélyezheti az ingóságok pótlását;
 
-e) készpénzben, a károsodott lakóépületbe bejelentett személyek ruhaneműjének pótlását és élelem vásárlását, személyenként összesen 200 000 forint értékhatárig;
+e)[^3] készpénzben, a károsodott lakóépületbe bejelentett, illetve be nem jelentett, de életvitelszerűen ott lakó személyek ruhaneműjének pótlását és élelem vásárlását, személyenként összesen 200 000 forint értékhatárig;
 
-f) a katasztrófával közvetlenül érintett településeken a károsultak lakhatását biztosító ingatlanok építésére szolgáló új településrész kialakításához szükséges közműhálózat fejlesztését és az ehhez kapcsolódó szakértői közreműködés költségeit.
+f) a katasztrófával közvetlenül érintett településeken a károsultak lakhatását biztosító ingatlanok építésére szolgáló új településrész kialakításához szükséges közműhálózat fejlesztését és az ehhez kapcsolódó szakértői közreműködés költségeit;
+
+g)[^4] a belterületi mentesítés során megrongálódott, lebontott kerítések eredeti állapot szerinti helyreállításának igazolt költségeit legfeljebb 300 000 forint értékhatárig.
 
 1.2. Az 1.1. a) és c) pontokban említett esetekben a károk enyhítésének feltétele, hogy a károsult a kárt és annak mértékét hitelt érdemlő módon igazolja. Az 1.1. b) pontban említett károk, illetve a d) pontban említett ingóságok vonatkozásában, amennyiben a kár más módon hitelt érdemlő módon nem igazolható, a károsult nyilatkozata elfogadható.
 
@@ -73,3 +75,8 @@ Felelős: belügyminiszter
 Határidő: azonnal
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1.1.a) pont az 1053/2011. (III. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: Az 1.1.d) pont az 1053/2011. (III. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^3]: Az 1.1.e) pont az 1053/2011. (III. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^4]: Az 1.1.g) pontot az 1053/2011. (III. 22.) Korm. határozat 6. pontja iktatta be.
