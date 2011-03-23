@@ -24,7 +24,7 @@
 
 (14)[^206] A bányászatért felelős miniszter a nemzetközi kétoldalú kapcsolatok keretében biztosítja, hogy a (13) bekezdésben említett esetekben az engedély iránti kérelmeket, megfelelő ideig, annak a tagállamnak a nyilvánossága számára is hozzáférhetővé tegyék, amelynek környezetére a létesítmény hatással lehet, hogy az még az illetékes hatóság döntéshozatala előtt észrevételeket tehessen.
 
-(15)[^207] A (13) bekezdésében említett, bányászati hulladékkezelő létesítménnyel kapcsolatos baleset esetén az üzemeltető haladéktalanul megadja a katasztrófavédelmi hatóságnak és a bányafelügyeletnek az emberi egészségre gyakorolt hatások minimalizálásához és a – tényleges vagy potenciális – környezeti károk mértékének felméréséhez és minimalizálásához szükséges információkat.
+(15)[^207] A (13) bekezdésében említett, bányászati hulladékkezelő létesítménnyel kapcsolatos baleset esetén az üzemeltető haladéktalanul megadja a katasztrófavédelmi hatóságnak és a bányafelügyeletnek az emberi egészségre gyakorolt hatások minimalizálásához és a – tényleges vagy potenciális – környezeti károk mértékének felméréséhez és minimalizálásához szükséges információkat. A bányafelügyelet az üzemeltető által nyújtott tájékoztatót megküldi a bányászati ügyekért felelős miniszternek, melyet a miniszter haladéktalanul továbbít az Európai Unió többi tagállama részére.
 
 (16)[^208] A bányafelügyelet figyelemmel kíséri az elérhető legjobb bányászati hulladékkezelési technikák fejlődését.
 
@@ -39,5 +39,5 @@
 [^204]: A Vhr. 35. §-ának (12) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 36. §-a iktatta a szövegbe.
 [^205]: A Vhr. 35. §-ának (13) bekezdését az 57/2008. (III. 26.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
 [^206]: A Vhr. 35. §-ának (14) bekezdését az 57/2008. (III. 26.) Korm. rendelet 20. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^207]: A Vhr. 35. §-ának (15) bekezdését az 57/2008. (III. 26.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^207]: A Vhr. 35. § (15) bekezdését az 57/2008. (III. 26.) Korm. rendelet 20. §-a iktatta be, szövege a 41/2011. (III. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^208]: A Vhr. 35. §-ának (16) bekezdését az 57/2008. (III. 26.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
