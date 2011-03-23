@@ -1,8 +1,8 @@
 ## A kibocsátás-csökkentési egységekkel és igazolt kibocsátás-csökkentési egységekkel történő kereskedés jóváhagyása
 
-18. §[^21] (1) Magyarországi székhellyel rendelkező jogi személyek nemzetközi kibocsátás-kereskedelem jóváhagyása iránti kérelmet nyújthatnak be annak miniszteri jóváhagyására, hogy kibocsátás-csökkentési egységeket, igazolt kibocsátás-csökkentési egységeket vásároljanak, értékesítsenek, illetve a nemzeti forgalmi jegyzékben személyi számlán tartsanak. A 17. § szerinti felhatalmazással rendelkező jogosultak a kérelmet a 19. § szerint nyújtják be.
+18. §[^26] (1) Magyarországi székhellyel rendelkező jogi személyek nemzetközi kibocsátás-kereskedelem jóváhagyása iránti kérelmet nyújthatnak be annak miniszteri jóváhagyására, hogy kibocsátás-csökkentési egységeket, igazolt kibocsátás-csökkentési egységeket vásároljanak, értékesítsenek, illetve a nemzeti forgalmi jegyzékben személyi számlán tartsanak. A 17. § szerinti felhatalmazással rendelkező jogosultak a kérelmet a 19. § szerint nyújtják be.
 
-(2)[^22] Az (1) bekezdésben meghatározott kérelmet a miniszternek elektronikus úton és írásban kell benyújtani, és tartalmaznia kell:
+(2)[^27] Az (1) bekezdésben meghatározott kérelmet a miniszternek elektronikus úton és írásban kell benyújtani, és tartalmaznia kell:
 
 a) a kérelmező nevét, székhelyét, címét, telefonszámát és elektronikus levélcímét, illetve
 
@@ -10,7 +10,7 @@ b) a kérelmező által kijelölt kapcsolattartó nevét, címét, telefonszám�
 
 (3) Ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, az (1) bekezdés szerinti kérelemhez 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a kérelmező – a kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül.
 
-(4)[^23] A miniszter a hiánytalanul benyújtott kérelem esetén a benyújtásától számított 8 napon belül nyilvántartásba veszi azt. Amennyiben a kérelem nem felel meg a (2)–(3) bekezdésben meghatározott követelményeknek, a miniszter 15 napos határidővel hiánypótlásra hívja fel a kérelmezőt.
+(4)[^28] A miniszter a hiánytalanul benyújtott kérelem esetén a benyújtásától számított 8 napon belül nyilvántartásba veszi azt. Amennyiben a kérelem nem felel meg a (2)–(3) bekezdésben meghatározott követelményeknek, a miniszter 15 napos határidővel hiánypótlásra hívja fel a kérelmezőt.
 
 (5) A hiánytalan benyújtástól számított 30 napon belül a miniszter a kérelmet jóváhagyja vagy elutasítja. A jóváhagyás a kérelmező által megjelölt időtartamra, legkésőbb 2012. december 31-ig szól.
 
@@ -18,9 +18,9 @@ b) a kérelmező által kijelölt kapcsolattartó nevét, címét, telefonszám�
 
 (7) Amennyiben a felhatalmazással rendelkező jogi személy ellen csőd-, felszámolási vagy végelszámolási eljárás indul, azt az eljárás megindulásától számított 15 napon belül köteles a miniszternek bejelenteni. A miniszter a jogi személyt a bejelentéstől számított 15 napon belül törli a nyilvántartásból.
 
-(8)[^24] A miniszter a nyilvántartásba vett kérelmezők nevét, a kérelem jóváhagyásának vagy elutasításának tényét, illetve a (7) bekezdés szerinti törlést hivatalos honlapján közzéteszi.
+(8)[^29] A miniszter a nyilvántartásba vett kérelmezők nevét, a kérelem jóváhagyásának vagy elutasításának tényét, illetve a (7) bekezdés szerinti törlést hivatalos honlapján közzéteszi.
 
-[^21]: A 18. § a 163/2009. (VIII. 6.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^22]: A 18. § (2) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 18. § (4) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^24]: A 18. § (8) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 18. § a 163/2009. (VIII. 6.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^27]: A 18. § (2) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 18. § (4) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 18. § (8) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
