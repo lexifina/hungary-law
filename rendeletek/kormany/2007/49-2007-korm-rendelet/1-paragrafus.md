@@ -6,7 +6,7 @@ a) az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Tám
 
 b) az a) pontban meghatározott pénzügyi alapokból finanszírozott programok értékelésében és megvalósításában, valamint ellenőrzésükben részt vevő hazai szervezetekre és személyekre.
 
-(2) Az e rendeletben foglalt jogokat és kötelezettségeket az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelettel összhangban kell gyakorolni, illetőleg teljesíteni.
+(2)[^1] Az e rendeletben meghatározott jogokat és kötelezettségeket az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelettel összhangban kell gyakorolni, illetve teljesíteni.
 
 (3) Magyarország a következő operatív programok végrehajtásában vesz részt:
 
@@ -35,3 +35,5 @@ k) INTERACT 2 operatív program;
 l) ESPON 2013 operatív program;
 
 m) URBACT 2007–2013 operatív program.
+
+[^1]: Az 1. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (16) bekezdésével megállapított szöveg.
