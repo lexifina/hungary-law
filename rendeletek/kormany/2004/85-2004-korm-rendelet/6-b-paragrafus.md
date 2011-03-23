@@ -1,3 +1,0 @@
-## 6/A. §[^25] Amennyiben egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás (2006/C 194/02) alapján részesül állami támogatásnak minősülő kockázati tőkejuttatásban, az adott vállalkozásnak megítélt bármely állami támogatás intenzitását vagy a támogatási program szerinti maximális összegét 20 százalékkal csökkenteni kell a kockázatitőke-befektetés első három évében és legfeljebb a kapott tőke összegének erejéig.
-
-[^25]: A 6/A. §-t a 66/2005. (IV. 13.) Korm. rendelet 2. §-a iktatta be, szövege a 217/2006. (XI. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
