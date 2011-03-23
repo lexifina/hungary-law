@@ -1,4 +1,4 @@
-## 123. §[^210] Az éves költségvetési törvény alapján a nem állami humánszolgáltatókat megillető normatív állami hozzájárulások és támogatások, kiegészítő támogatások esetében a 122. §-ban foglalt előírással szemben a kifizetéseknél a Kincstár az az adóhatóság adatszolgáltatása alapján ellenőrzi a köztartozásra vonatkozó információkat, és tartozás esetén a köztartozás összegét külön jogszabályban foglaltak szerint visszatartja.
+## 123. §[^213] Az éves költségvetési törvény alapján a nem állami humánszolgáltatókat megillető normatív állami hozzájárulások és támogatások, kiegészítő támogatások esetében a 122. §-ban foglalt előírással szemben a kifizetéseknél a Kincstár az az adóhatóság adatszolgáltatása alapján ellenőrzi a köztartozásra vonatkozó információkat, és tartozás esetén a köztartozás összegét külön jogszabályban foglaltak szerint visszatartja.
 
 124. § (1) A költségvetésből nyújtott támogatás igénybevétele mind utólagos elszámolás melletti előfinanszírozás, mind időszakos vagy záró beszámolót követő utófinanszírozás formájában történhet. A költségvetésből nyújtott támogatás módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetésből nyújtott támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett önerejének mértékére.
 
@@ -26,4 +26,4 @@ történő kifizetéssel lehetséges. A c) pontban foglalt esetben a kifizetés 
 
 (9) Fel kell függeszteni a költségvetésből nyújtott támogatás folyósítását abban az esetben, ha azt e rendelet vagy más jogszabály előírja, illetve a támogatói okirat kiadását vagy a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetésből nyújtott támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
 
-[^210]: A 123. § a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^213]: A 123. § a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

@@ -2,8 +2,12 @@
 
 118. § (1) A támogatói döntés meghozatalának feltétele, hogy
 
-a) a költségvetésből nyújtott támogatás nem tartozik az Európai Gazdasági Közösséget létrehozó Szerződés (a továbbiakban: Római Szerződés) 87. cikkének (1) bekezdése alá, vagy
+a)[^202] a költségvetésből nyújtott támogatás nem tartozik az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdésének hatálya alá, vagy
 
-b) arra az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásáról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet (a továbbiakban: 85/2004. Korm. rendelet), illetve az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet (a továbbiakban: 4/2009. (I. 10.) Korm. rendelet) előírásaival összhangban kerül sor.
+b)[^203] arra az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet (a továbbiakban: Atr.), illetve az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet (a továbbiakban: 4/2009. (I. 10.) Korm. rendelet) előírásaival összhangban kerül sor.
 
-(2) A támogató felelős a Római Szerződés 87. cikkének (1) bekezdése alá tartozó költségvetésből nyújtott támogatások minősítéséért és halmozott költségvetésből nyújtott támogatások esetén a külön jogszabály szerinti támogatási intenzitás mértékének betartásáért.
+(2)[^204] A támogató felelős az EUMSz 107. cikk (1) bekezdése szerinti, a költségvetésből nyújtott támogatások minősítéséért és halmozott költségvetésből nyújtott támogatások esetén a külön jogszabály szerinti támogatási intenzitás mértékének betartásáért.
+
+[^202]: A 118. § (1) bekezdés a) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^203]: A 118. § (1) bekezdés b) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^204]: A 118. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.

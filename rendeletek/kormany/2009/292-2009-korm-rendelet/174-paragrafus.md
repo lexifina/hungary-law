@@ -12,9 +12,9 @@ b) 10032000-01031496 „Kincstár Önkormányzatok előző évről származó be
 
 c) 10032000-01034073 „Kincstár Helyi önkormányzatok kamatbeszedési”számla.
 
-(3a)[^247] A (3) bekezdésben meghatározott felhatalmazó levél hiányában, a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet terhére történő költségvetési támogatás utalványozását a helyi önkormányzatokért felelős miniszter felfüggeszti. A felhatalmazó levél pótlásáról szóló kincstári értesítést követően a helyi önkormányzatokért felelős miniszter a felfüggesztett támogatást utalványozza. A Kincstár a nettó finanszírozáson kívüli támogatást az utalványozást követő banki napon teljesíti a helyi önkormányzatok részére. A nettó finanszírozás hatálya alá tartozó támogatás felfüggesztése esetén a folyósítás a pótlást követő nettó finanszírozási támogatás – 16. számú melléklet szerinti – utalási időpontjában teljesíthető.
+(3a)[^251] A (3) bekezdésben meghatározott felhatalmazó levél hiányában, a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet terhére történő költségvetési támogatás utalványozását a helyi önkormányzatokért felelős miniszter felfüggeszti. A felhatalmazó levél pótlásáról szóló kincstári értesítést követően a helyi önkormányzatokért felelős miniszter a felfüggesztett támogatást utalványozza. A Kincstár a nettó finanszírozáson kívüli támogatást az utalványozást követő banki napon teljesíti a helyi önkormányzatok részére. A nettó finanszírozás hatálya alá tartozó támogatás felfüggesztése esetén a folyósítás a pótlást követő nettó finanszírozási támogatás – 16. számú melléklet szerinti – utalási időpontjában teljesíthető.
 
-(3b)[^248] A Kincstár minden hónap 5-éig írásban tájékoztatja a helyi önkormányzatokért felelős minisztert az adott hónapban felhatalmazó levéllel nem rendelkező önkormányzatokról, többcélú kistérségi társulásokról.
+(3b)[^252] A Kincstár minden hónap 5-éig írásban tájékoztatja a helyi önkormányzatokért felelős minisztert az adott hónapban felhatalmazó levéllel nem rendelkező önkormányzatokról, többcélú kistérségi társulásokról.
 
 (4) A helyi önkormányzat, helyi kisebbségi önkormányzat megszüntetése esetén a jogutód önkormányzat a megszűnés időpontja szerinti határnappal köteles intézkedni a pénzforgalmi számla megszüntetéséről.
 
@@ -96,5 +96,5 @@ vezethet.
 
 (12) Az (1)–(11) bekezdésben foglalt szabályokat kell megfelelően alkalmazni a települési önkormányzatok által létrehozott többcélú kistérségi társulások, jogi személyiségű társulások számlavezetésére is.
 
-[^247]: A 174. § (3a) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
-[^248]: A 174. § (3b) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^251]: A 174. § (3a) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^252]: A 174. § (3b) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
