@@ -108,7 +108,11 @@
 
 ## Határidő: azonnal
 
-## 14. felhatalmazza a belügyminisztert, hogy a 2010. évi költségvetéssel összefüggő egyes feladatokról szóló 1132/2010. (VI. 18.) Korm. határozatban meghatározott eljárási rendtől eltérően a tervezéssel, az építéssel, a szakértői feladatokkal, valamint a MAL Magyar Alumínium Termelő és Kereskedelmi Zártkörűen Működő Részvénytársaság (MAL Zrt.) Magyar Állam felügyeletének ellátásáért felelős kormánybiztos feladatellátásával, tevékenységével összefüggő kiadásokra az ehhez kapcsolódó előirányzatok, keretek felhasználására új szerződéseket kössön, lejáró szerződéseket meghosszabbítson.
+## 14.[^1] felhatalmazza a belügyminisztert, hogy
+
+## a) a tervezéssel, az építéssel, a szakértői feladatokkal, valamint a MAL Alumínium Termelő és Kereskedelmi Zártkörűen Működő Részvénytársaság (MAL Zrt.) Magyar Állam felügyeletének ellátásáért felelős kormánybiztos feladatellátásával, tevékenységével összefüggő kiadásokra az ehhez kapcsolódó előirányzatok, keretek felhasználására új szerződéseket kössön, lejáró szerződéseket meghosszabbítson;
+
+## b) az e határozatban megjelenő elvek figyelembevételével – a közpénzzel való takarékos gazdálkodást, valamint az érintett lakosság nyugalmát, jogos igényét egyaránt figyelembe véve – a határozat további pontjaiban nem említett jogcímű juttatásra is egyezség megkötéséről döntsön, melyről a 11. pontban írt határidőt követően haladéktalanul a Kormánynak számoljon be.
 
 ## 15. kijelenti, hogy
 
@@ -170,14 +174,18 @@ d) hogy az arra feljogosított állami szervek ellenőrizhessék a b) pontban me
 
 a) a megsemmisült, károsodott, lakhatásra alkalmatlanná vált, vagy a védekezés során elbontásra került lakóépületek tulajdonosai, haszonélvezői, használati jogosultjai lakhatási feltételeinek megteremtésére, figyelembe véve az egyéb forrásból megtérülő károkat;
 
-b) a helyi önkormányzatok vis maior támogatásból el nem ismerhető önkormányzati feladatellátáshoz kapcsolódó helyreállítási költségekre;
+b)[^2] helyi önkormányzatok vis maior támogatásból, helyi önkormányzatok kiegészítő támogatásból, valamint egyéb, a IX. Helyi önkormányzatok támogatási és átengedett személyi jövedelemadója fejezetből nyújtott támogatásból el nem ismerhető önkormányzati feladatellátáshoz kapcsolódó költségekre;
 
 c) a helyi önkormányzatok vis maior tartalékból támogatott helyreállítási költségeinek 100%-os fedezetének biztosítása érdekében szükséges önkormányzati saját erő részre;
 
 d) a védekezésben, valamint a helyreállításban részt vevő Magyar Honvédség, a központi költségvetési szervek, tűzoltóságok (hivatásos önkormányzati tűzoltóság, önkéntes tűzoltó egyesületek, az önkéntes tűzoltóságok, valamint a létesítményi tűzoltóságok) védekezéssel összefüggő többletkiadására (különösen: személyi juttatások, munkaadókat terhelő járulékok, dologi kiadások, a veszélyhelyzet felszámolásához szükséges eszközök beszerzése, valamint a károsodott eszközök visszapótlása);
 
-e) településtervezési költségekre;
+e)[^3] településtervezési, településrendezési tervben rehabilitációra kijelölt zöld- és erdőterületek terep- és vízrendezési, kertépítészeti munkálataira;
 
 f) az ideiglenesen elhelyezettek ellátási, bérleti hozzájárulás költségeire, amelyet Devecser/Kolontár/Somlóvásárhely önkormányzatok igényelhetnek vissza;
 
 g) a MAL Zrt. Magyar Állam felügyeletének ellátásáért felelős kormánybiztos feladatellátásával, tevékenységével összefüggő kiadásokra, valamint a titkárságának működési költségeire.
+
+[^1]: A 14. pont az 1053/2011. (III. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet 2.1. b) pontja az 1053/2011. (III. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 2.1. e) pontja az 1053/2011. (III. 22.) Korm. határozat 3. pontjával megállapított szöveg.
