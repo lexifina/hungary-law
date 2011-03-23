@@ -6,7 +6,7 @@ b) a más célú hasznosítás megkezdése bejelentésének elmulasztása eseté
 
 c) a Tfvt. 56. §-ában;
 
-d) a termőföldről szóló 1994. évi LV. törvény 25/B. § (5) bekezdésében;
+d)[^1]
 
 e) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 107. § (1) bekezdés c) pontjában, g) pontjának a 102. §-ra vonatkozóan, i) pontjában, a 107. § (3) bekezdés d) és e) pontjában, a 108. § (1) bekezdés a)–c) pontjában, e) és f) pontjában, h) és i) pontjában, k) és l) pontjában, a 108. § (2) bekezdésében, valamint a 108. § (3) bekezdésének b) pontjában;
 
@@ -25,3 +25,5 @@ k) a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és k
 l) a termőföld védelme érdekében a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló 27/2006. (II. 7.) Korm. rendelet 10. § (2) bekezdésében, 11. § (1) bekezdésében, 11. § (2) bekezdés a) pontjában
 
 meghatározott rendelkezések esetén.
+
+[^1]: Az 1. § d) pontját az Alkotmánybíróság a 12/2011. (III. 23.) AB határozatával megsemmisítette 2011. március 23. napjával.
