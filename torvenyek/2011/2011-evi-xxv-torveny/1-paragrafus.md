@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Korrupcióellenes Akadémia nemzetközi szervezetként való létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
