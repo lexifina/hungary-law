@@ -1,6 +1,6 @@
 ## A beruházási támogatás igénybevételének alapvető feltételei
 
-92/Cs. §[^123] (1) A támogatás akkor vehető igénybe, amennyiben a projektgazda, illetőleg a végső kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől (üzembe helyezés időpontjától) számított legalább öt évig – kis- és középvállalkozások esetében legalább három évig – fenntartja (kötelező üzemeltetési időszak) az érintett régióban.
+92/Cs. §[^135] (1) A támogatás akkor vehető igénybe, amennyiben a projektgazda, illetőleg a végső kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől (üzembe helyezés időpontjától) számított legalább öt évig – kis- és középvállalkozások esetében legalább három évig – fenntartja (kötelező üzemeltetési időszak) az érintett régióban.
 
 (2) Az (1) bekezdésben megfogalmazott követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált eszköz cseréjét, amennyiben a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A korszerűtlenné vált üzem, illetve eszköz és annak cseréjét követő fenntartási időszakban a projektgazda, illetőleg a végső kedvezményezett az üzem vagy a fejlesztés cseréjére támogatásban nem részesülhet.
 
@@ -26,4 +26,4 @@ d) a projektgazda, illetőleg a végső kedvezményezett immateriális eszközek
 
 (9) Amennyiben a támogatás kiszámítása a bérköltségek alapján történik, a támogathatóság feltétele, hogy a munkahelyeket közvetlenül a beruházási projekt hozza létre, valamint a munkahelyeket a beruházás befejezésétől számított 3 éven belül létre kell hozni és a munkahelyeket legalább öt évig, kis- és középvállalkozások esetén 3 évig fenn kell tartani.
 
-[^123]: A 92/Cs. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^135]: A 92/Cs. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

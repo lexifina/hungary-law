@@ -1,10 +1,10 @@
-## 10. Fejezet[^114]
+## 10. Fejezet[^123]
 
 ## SZABÁLYTALANSÁGOK KEZELÉSE
 
 87. § (1) Szabálytalanság a finanszírozási mechanizmusokra vonatkozó szabályzatok, a közösségi jog, a magyar jog, illetve a támogatási megállapodásban és a végrehajtási szerződésben foglaltak megsértése.
 
-(2)[^115] A Nemzeti Kapcsolattartó a projektek lebonyolítása során tudomására jutott szabálytalanságok feltárása esetén
+(2)[^124] A Nemzeti Kapcsolattartó a projektek lebonyolítása során tudomására jutott szabálytalanságok feltárása esetén
 
 a) kezdeményezi a szabálytalanság kivizsgálását,
 
@@ -16,5 +16,5 @@ d) tájékoztatja az érintett magyar intézményeket,
 
 e) tájékoztatja az FMI-t a finanszírozási mechanizmusokra vonatkozó szabályzatok szerint.
 
-[^114]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
-[^115]: A 87. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 39. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^123]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
+[^124]: A 87. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 39. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

@@ -1,4 +1,4 @@
-64/A. §[^74] (1) A Nemzeti Kapcsolattartó gondoskodik lebonyolítási bankszámlák megnyitásáról a Magyar Államkincstárban.
+64/A. §[^83] (1) A Nemzeti Kapcsolattartó gondoskodik lebonyolítási bankszámlák megnyitásáról a Magyar Államkincstárban.
 
 (2) Kizárólag lebonyolítási forint bankszámla használható a projektgazda támogatásra jogosult költségeinek megtérítésére, a projektgazda részére folyósítandó előleg kifizetésére, Technikai Segítségnyújtás keret felhasználása esetén a szállítók részére történő kifizetés teljesítésére, illetve a projektgazda által bármilyen jogcímen történő visszafizetésre. A Technikai Segítségnyújtás keret felhasználására külön lebonyolítási számla kerül megnyitásra.
 
@@ -20,4 +20,4 @@
 
 (11) Amennyiben az EMIR nem biztosítja az adott átutalási megbízás rögzítését, akkor az érintett felelős szervezet működési kézikönyvében részletezett megfelelő dokumentáltság mellett az átutalási megbízás kiállítása az EMIR-en kívül is, elektronikus utalás nélkül papír alapon is rendezhető. Ez esetben az érintett szerveknek biztosítaniuk kell az EMIR-en kívüli utalás dokumentálásának alátámasztását.
 
-[^74]: A 64/A. §-t a 155/2010. (V. 4.) Korm. rendelet 25. §-a iktatta be. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^83]: A 64/A. §-t a 155/2010. (V. 4.) Korm. rendelet 25. §-a iktatta be. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

@@ -1,6 +1,6 @@
 ## Hitelesítés
 
-75. §[^92] (1) A Nemzeti Kapcsolattartó a Kifizető Hatóság igazolási tevékenységének alátámasztására hitelesítési jelentési rendszert működtet.
+75. §[^101] (1) A Nemzeti Kapcsolattartó a Kifizető Hatóság igazolási tevékenységének alátámasztására hitelesítési jelentési rendszert működtet.
 
 (2) A kiállított hitelesítési jelentés tanúsítja, hogy
 
@@ -16,4 +16,4 @@ e) az egyéb forrásokból nyújtott társfinanszírozás rendelkezésre áll, v
 
 (3) A hitelesítési jelentés ellenjegyzésének alátámasztása érdekében a Nemzeti Kapcsolattartó maga is jogosult ellenőrzéseket végezni a Végrehajtó Ügynökségnél. Ezen ellenőrzések eredményéről a Nemzeti Kapcsolattartó rendszeresen tájékoztatja az Kifizető Hatóságot.
 
-[^92]: A 75. § a 155/2010. (V. 4.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^101]: A 75. § a 155/2010. (V. 4.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

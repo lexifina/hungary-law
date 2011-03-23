@@ -1,10 +1,10 @@
-## 2. § Az e rendeletben foglalt jogokat és kötelezettségeket a Norvég Királyság Kormánya és a Magyar Köztársaság Kormánya között 2005. június 10-én létrejött, a Norvég Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás, valamint egyrészről az Izlandi Köztársaság Kormánya, a Liechtensteini Nagyhercegség Kormánya, a Norvég Királyság Kormánya, másrészről a Magyar Köztársaság Kormánya között 2005. július 7-én létrejött, az EGT Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról együttműködési megállapodás kihirdetéséről szóló 201/2005. (IX. 27.) Korm. rendelettel, és az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelettel összhangban kell gyakorolni, illetőleg teljesíteni.
+## 2. §[^2] Az e rendeletben foglalt jogokat és kötelezettségeket a Norvég Királyság Kormánya és a Magyar Köztársaság Kormánya között 2005. június 10-én létrejött, a Norvég Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás, valamint egyrészről az Izlandi Köztársaság Kormánya, a Liechtensteini Nagyhercegség Kormánya, a Norvég Királyság Kormánya, másrészről a Magyar Köztársaság Kormánya között 2005. július 7-én létrejött, az EGT Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról együttműködési megállapodás kihirdetéséről szóló 201/2005. (IX. 27.) Korm. rendelettel, és az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelettel (a továbbiakban: Atr.) összhangban kell gyakorolni, illetve teljesíteni.
 
 ## Értelmező rendelkezések
 
-3. § (1)[^2] E rendelet alkalmazásában
+3. § (1)[^3] E rendelet alkalmazásában
 
-1. állami támogatás: az Európai Közösséget létrehozó Szerződés (a továbbiakban: EK Szerződés) 87. cikkének (1) bekezdése és az EK Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti támogatás;
+1.[^4] állami támogatás: Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti támogatás;
 
 2. általános elvek: az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendelet 17. §-ában foglalt, a monitoring tevékenységre vonatkozó általános elvek;
 
@@ -58,7 +58,7 @@
 
 27. Végrehajtó Ügynökség: Az együttműködési megállapodások „A” mellékletében felsorolt feladatokat ellátó szervezet, mely a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: VÁTI Nonprofit kft.) keretein belül működik.
 
-(2)[^3] E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában
+(2)[^5] E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában
 
 1. alapkutatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 9-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK bizottsági rendelet) 30. cikk 2. pontjában meghatározott fogalom;
 
@@ -68,7 +68,7 @@
 
 4. bioüzemanyagok: a biomasszából előállított folyékony vagy gáz halmazállapotú, a közlekedésben használt üzemanyagok;
 
-5. diszkont kamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott fogalom;
+5.[^6] diszkont kamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott fogalom;
 
 6. energia-megtakarítási intézkedések: azok az intézkedések, amelyek révén a vállalkozások csökkenteni tudják a termelési folyamatban felmerülő energiafelhasználást;
 
@@ -88,7 +88,7 @@
 
 14. kis- és középvállalkozás (a továbbiakban együttesen: KKV): az a vállalkozás, amely a támogatási kérelem benyújtásának időpontjában megfelel a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott vállalkozások valamelyikének;
 
-15.[^4] környezetvédelem: minden olyan intézkedés, amely fizikai környezetünknek vagy természeti erőforrásainknak a végső kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására, e károsodás bekövetkezése kockázatának csökkentésére, illetve a természeti erőforrások hatékonyabb felhasználására irányul, beleértve az energiamegtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
+15.[^7] környezetvédelem: minden olyan intézkedés, amely fizikai környezetünknek vagy természeti erőforrásainknak a végső kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására, e károsodás bekövetkezése kockázatának csökkentésére, illetve a természeti erőforrások hatékonyabb felhasználására irányul, beleértve az energiamegtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
 
 16. környezetvédelmi támogatások esetében „tárgyi eszközök”: a környezetvédelmi célkitűzések megvalósításához feltétlenül szükséges földterület-beruházás, a szenynyezés, illetve az ártalom csökkentésére vagy felszámolására szolgáló létesítményekbe, üzemekbe és berendezésekbe történő beruházás, valamint a termelési eljárások kiigazítását szolgáló környezetvédelmi beruházások;
 
@@ -98,7 +98,7 @@ a) olyan kötelező közösségi szabvány, amely környezeti mutatókra ír el�
 
 b) a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelv 2. cikkének 12 pontjában meghatározott, az elérhető legjobb technikák használatára vonatkozó kötelezettség, amelyet a Bizottság az irányelv 17. cikke (2) bekezdésének megfelelően a legújabb erre vonatkozó tájékoztatásában tett közzé;
 
-18. közszolgáltatás: az EK Szerződés 86. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
+18.[^8] közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
 
 19. közvetlenül a beruházási projekt által teremtett munkahelyek: a 800/2008/EK bizottsági rendelet 2. cikk 14. pontjában meghatározott fogalom;
 
@@ -118,9 +118,9 @@ b) a környezetszennyezés integrált megelőzéséről és csökkentéséről s
 
 27. nagyberuházás: a 800/2008/EK bizottsági rendelet 2. cikk 12. pontjában meghatározott fogalom;
 
-28. nehéz helyzetben lévő vállalkozás: a 85/2004. Korm. rendelet 8. mellékletében meghatározott vállalkozás;
+28.[^9] nehéz helyzetben lévő vállalkozás: a 85/2004. Korm. rendelet 8. mellékletében meghatározott vállalkozás;
 
-29. referencia alapkamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott fogalom;
+29.[^10] referencia alapkamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott fogalom;
 
 30. saját forrás: a Projekt Végrehajtó által a fejlesztési programhoz igénybe vett, támogatásnak nem minősülő forrás;
 
@@ -128,22 +128,31 @@ b) a környezetszennyezés integrált megelőzéséről és csökkentéséről s
 
 32. speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontjában meghatározott fogalom;
 
-33. támogatási intenzitás: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendeletben meghatározott fogalom;
+33.[^11] támogatási intenzitás: az az Atr. 2. § 15. pontjában meghatározott fogalom;
 
-34. támogatástartalom: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendeletben meghatározott fogalom;
+34.[^12] támogatástartalom: az az Atr. 2. § 19. pontjában meghatározott fogalom;
 
 35. támogatás szempontjából elszámolható költség (a továbbiakban: elszámolható költség): a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
 
-36. támogatott területek:
+36.[^13] támogatott területek:
 
-– az EK Szerződés 87. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl;
+a) az EUMSz 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl;
 
-– az EK Szerződés 87. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
+b) az EUMSz 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
 
 37. tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontjában meghatározott fogalom;
 
 38. védett munkahely: a 800/2008/EK bizottsági rendelet 2. cikk 21. pontjában meghatározott fogalom.
 
-[^2]: A 3. § eredeti szövegének jelölését a 265/2007. (X. 10.) Korm. rendelet 1. § (3) bekezdése (1) bekezdésre változtatta, szövege a 155/2010. (V. 4.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^3]: A 3. § (2) bekezdését a 265/2007. (X. 10.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 3. § (2) bekezdése a 97/2009. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdés 15. pontja a 155/2010. (V. 4.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^2]: A 2. § a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § eredeti szövegének jelölését a 265/2007. (X. 10.) Korm. rendelet 1. § (3) bekezdése (1) bekezdésre változtatta, szövege a 155/2010. (V. 4.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^4]: A 3. § (1) bekezdés 1. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdését a 265/2007. (X. 10.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 3. § (2) bekezdése a 97/2009. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés c) pontjával elrendelt módosítás, amely szerint az „a 85/2004. (IV. 19.) Korm. rendelet 1. § 20. pontjában” szövegrész helyébe az „az Atr. 2. § 3. pontjában” szöveg lép, nem vezethető át.
+[^7]: A 3. § (2) bekezdés 15. pontja a 155/2010. (V. 4.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^8]: A 3. § (2) bekezdés 18. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés e) pontjával elrendelt módosítás, amely szerint az „a 85/2004. (IV. 19.) Korm. rendelet 1. § 8. mellékletében” szövegrész helyébe az „az Atr. 6. §-ában” szöveg lép, nem vezethető át.
+[^10]: A 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés f) pontjával elrendelt módosítás, amely szerint az „a 85/2004. (IV. 19.) Korm. rendelet 1. § 20. pontjában” szövegrész helyébe az „az Atr. 2. § 13. pontjában” szöveg lép, nem vezethető át.
+[^11]: A 3. § (2) bekezdés 33. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés g) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés 34. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (12) bekezdés h) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés 36. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (17) bekezdésével megállapított szöveg.

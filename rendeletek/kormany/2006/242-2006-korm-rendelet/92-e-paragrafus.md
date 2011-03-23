@@ -1,4 +1,4 @@
-92/E. §[^125] (1) A támogatott projektek megkezdése időpontjának az alábbi időpontok minősülnek:
+92/E. §[^137] (1) A támogatott projektek megkezdése időpontjának az alábbi időpontok minősülnek:
 
 a) építési tevékenységet tartalmazó projekt esetén:
 
@@ -16,4 +16,4 @@ d) amennyiben a pályázatban ismertetett projektet több célterületre (épít
 
 (3) A támogatások átláthatóságának növelése céljából e rendelet regionális támogatásokra vonatkozó előírásai az NFÜ honlapján is közzétételre kerülnek. A támogatási programot nem lehet az interneten való közzététel előtt elindítani.
 
-[^125]: A 92/E. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^137]: A 92/E. § a 155/2010. (V. 4.) Korm. rendelet 44. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

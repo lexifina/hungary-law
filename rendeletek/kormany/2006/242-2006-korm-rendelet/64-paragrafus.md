@@ -1,4 +1,4 @@
-64. §[^73] (1) A Nemzeti Kapcsolattartó fejezeti kezelésű előirányzat-felhasználási keretszámlát nyit a Magyar Államkincstárban, amely az előlegfizetéshez és a támogatások utólagos megtérítéséhez szükséges központi költségvetési forrás biztosítására, finanszírozási mechanizmusok támogatásainak megelőlegezésére szolgál.
+64. §[^82] (1) A Nemzeti Kapcsolattartó fejezeti kezelésű előirányzat-felhasználási keretszámlát nyit a Magyar Államkincstárban, amely az előlegfizetéshez és a támogatások utólagos megtérítéséhez szükséges központi költségvetési forrás biztosítására, finanszírozási mechanizmusok támogatásainak megelőlegezésére szolgál.
 
 (2) A fejezeti kezelésű előirányzat-felhasználási keretszámla felett a Nemzeti Kapcsolattartó rendelkezik.
 
@@ -12,4 +12,4 @@
 
 (7) Amennyiben az EMIR nem biztosítja az adott átutalási megbízás rögzítését, akkor az érintett felelős szervezet működési kézikönyvében részletezett megfelelő dokumentáltság mellett az átutalási megbízás kiállítása az EMIR-en kívül is, elektronikus utalás nélkül papír alapon is rendezhető. Ez esetben az érintett szerveknek biztosítaniuk kell az EMIR-en kívüli utalás dokumentálásának alátámasztását.
 
-[^73]: A 64. § a 155/2010. (V. 4.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^82]: A 64. § a 155/2010. (V. 4.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
