@@ -1,6 +1,6 @@
 ## Az előirányzat központi kerete
 
-21. § (1)[^14] A miniszter a központi keretből pályázati rendszeren kívül az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályaival, valamint az állami támogatásokra vonatkozó közösségi szabályokkal összhangban támogatást biztosít:
+21. § (1)[^15] A miniszter a központi keretből pályázati rendszeren kívül az Atr.-rel, valamint az uniós állami támogatási szabályokkal összhangban támogatást biztosít:
 
 a) a működtetési, kommunikációs feladatokra,
 
@@ -12,4 +12,4 @@ d) igénybejelentés esetén előre nem látható területfejlesztési szempontb
 
 (2) A miniszter – az 1. § (1) bekezdésének c) pontja alapján – a hátrányos helyzetű térségek humán infrastruktúrájának fejlesztése céljából megvalósuló iskolafelújítási program keretében felvett hitelek törlesztésére a területfejlesztési célok megvalósítását szolgáló fejezeti kezelésű előirányzatok pályázati rendszerben történő felhasználása összehangolásának rendjéről szóló 24/2003. (III. 4.) Korm. rendelet 2. számú mellékletében felsorolt kistérségekben megvalósuló program esetében a banki kamatösszeg 30%-ára, a 3. számú mellékletében felsorolt kistérségekben megvalósuló program esetében a banki kamatösszeg 20%-ára kiterjedő kamattámogatást nyújt. A kamattámogatás igénybevételének feltételeire vonatkozó közleményt a miniszter a Magyar Közlöny Hivatalos Értesítőjében teszi közzé.
 
-[^14]: A 21. § (1) bekezdésének felvezető mondata a 85/2004. (IV. 19.) Korm. rendelet 34. § (1) bekezdésének h) pontjával megállapított szöveg.
+[^15]: A 21. § (1) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (26) bekezdésével megállapított szöveg.

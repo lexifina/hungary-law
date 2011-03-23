@@ -1,4 +1,4 @@
-## 5. § Pályázat a területfejlesztési szempontból kedvezményezett térségek besorolásáról szóló 91/2001. (VI. 15.) Korm. rendelet 1. számú mellékletében meghatározott kedvezményezett térségekben és a külön jogszabályban[^4] meghatározott kedvezményezett településeken megvalósuló fejlesztések esetén nyújtható be a célelőirányzat decentralizált, illetve központi keretei terhére kiírt pályázati felhívások alapján.
+## 5. § Pályázat a területfejlesztési szempontból kedvezményezett térségek besorolásáról szóló 91/2001. (VI. 15.) Korm. rendelet 1. számú mellékletében meghatározott kedvezményezett térségekben és a külön jogszabályban[^5] meghatározott kedvezményezett településeken megvalósuló fejlesztések esetén nyújtható be a célelőirányzat decentralizált, illetve központi keretei terhére kiírt pályázati felhívások alapján.
 
 6. § (1) A munkahelyteremtő, valamint a meglévő foglalkoztatott létszám megőrzését szolgáló beruházások esetén:
 
@@ -14,4 +14,4 @@ c) a támogatandó tevékenység versenyképességét üzleti tervvel és a mini
 
 (4) Amennyiben a kedvezményezett vállalkozás, vállalnia kell, hogy a beruházással létrehozott kapacitásokat, szolgáltatásokat az eredeti célnak megfelelően 5 évig folyamatosan fenntartja és működteti. Amennyiben az elszámolható költségek személyi jellegű ráfordítások alapján kerülnek kiszámításra, az (1) bekezdés b) pontjában foglaltak az irányadók.
 
-[^4]: A társadalmi és gazdasági szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 7/2003. (I. 14.) Korm. rendelet.
+[^5]: A társadalmi és gazdasági szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 7/2003. (I. 14.) Korm. rendelet.

@@ -26,11 +26,11 @@ e) a TKV-knek tanácsadási tevékenységre, valamint vásárokon és kiállít�
 
 (9) A (4) és (5) bekezdések szerint nyújtható többlettámogatás csak egy címen adható.
 
-(10)[^10] Az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szerint érzékeny ágazathoz tartozó vállalkozások és nagyberuházások támogatásánál az abban foglalt szabályokat kell érvényesíteni.
+(10)[^11] Az érzékeny ágazathoz tartozó vállalkozások és nagyberuházások támogatásánál az Atr-ben és az uniós állami támogatási szabályokban foglaltakat kell alkalmazni.
 
-(11)[^11] A visszatérítendő támogatást a beruházás befejezését követően, 1 éves türelmi idő után, legfeljebb 4 év alatt a Magyar Államkincstár. (a továbbiakban: Kincstár) Térség- és település-felzárkóztatási célelőirányzat visszatérülése elnevezésű, 10032000-01850468-00000000 számú bonyolítási számlára kell visszafizetni.
+(11)[^12] A visszatérítendő támogatást a beruházás befejezését követően, 1 éves türelmi idő után, legfeljebb 4 év alatt a Magyar Államkincstár. (a továbbiakban: Kincstár) Térség- és település-felzárkóztatási célelőirányzat visszatérülése elnevezésű, 10032000-01850468-00000000 számú bonyolítási számlára kell visszafizetni.
 
 (12) Az igényeltnél alacsonyabb mértékű támogatás is megítélhető, azonban ilyen esetben a támogatott jogosult az eredeti pályázat műszaki tartalmának módosítására, illetve munkahelyteremtő beruházás esetén a vállalt létszám csökkentését kezdeményezni. Az átdolgozott pályázatot a döntéshozók kötelesek megvizsgálni és támogatásáról ismételten dönteni, különös tekintettel megvalósíthatóságára és életképességére. A döntéshozók az átdolgozott pályázatok esetében csak annak támogatásáról vagy nem támogatásáról dönthetnek, ebben az esetben az igényeltnél alacsonyabb mértékű támogatás nem ítélhető meg.
 
-[^10]: A 13. § (10) bekezdése a 85/2004. (IV. 19.) Korm. rendelet 34. § (1) bekezdésének f) pontjával megállapított szöveg.
-[^11]: A 13. § (11) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 88. §-ának c) pontja szerint módosított szöveg.
+[^11]: A 13. § (10) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (24) bekezdésével megállapított szöveg.
+[^12]: A 13. § (11) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 88. §-ának c) pontja szerint módosított szöveg.
