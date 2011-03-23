@@ -18,24 +18,9 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+3.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Budapesti Német Nyelvű Egyetemért Közalapítvány alapító okiratának módosításáról szóló 1029/2001. (III. 27.) Korm. határozat,
+a)–j)[^3]
 
-b) a budapesti német nyelvű egyetem működésének feltételeiről szóló 1036/2001. (IV. 13.) Korm. határozat,
-
-c) az oktatási miniszter kormányzati felelősségi körébe tartozó egyes közalapítványok alapító okiratainak módosításáról szóló 1048/2002. (V. 5.) Korm. határozat,
-
-d) az oktatási miniszter kormányzati felelősségi körébe tartozó egyes közalapítványok alapító okiratainak módosításáról szóló 1001/2003. (I. 8.) Korm. határozat,
-
-e) a Közalapítvány a Budapesti Német Nyelvű Egyetemért alapító okiratának módosításáról szóló 1015/2003. (III. 4.) Korm. határozat,
-
-f) a Közalapítvány a Budapesti Német Nyelvű Egyetemért alapító okiratának módosításáról szóló 1117/2004. (XI. 3.) Korm. határozat,
-
-g) az oktatási miniszter kormányzati felelősségi körébe tartozó egyes közalapítványok alapító okiratának módosításáról szóló 1092/2005. (IX. 15.) Korm. határozat,
-
-h) a Közalapítvány a Budapesti Német Nyelvű Egyetemért alapító okiratának módosításáról szóló 1047/2006. (IV. 25.) Korm. határozat,
-
-i) a Közalapítvány a Budapesti Német Nyelvű Egyetemért alapító okiratának módosításáról szóló 1089/2007. (XI. 22.) Korm. határozat, valamint
-
-j) a Közalapítvány a Budapesti Német Nyelvű Egyetemért alapító okiratának módosításáról szóló 1149/2009. (IX. 4.) Korm. határozat.
+[^2]: A 3. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 3. pont a)–j) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
