@@ -8,8 +8,8 @@
 
 (4) Egy projektnek a Rangsorba történő felvételét a (2) bekezdés szerinti adatokkal és a projekt rövid összefoglalásával (különös tekintettel a várható hasznokra) a projektgazda kérheti a (3) bekezdésben megjelölt minisztertől, legkésőbb a (3) bekezdésben meghatározott határidőt megelőző 45. napig.
 
-(5) A Rangsorról az országos szintű fejlesztésért, fejlesztési tervezésért és programozásért felelős miniszter javaslatára a Kormány dönt, és a Rangsort nyilvános határozatban teszi közzé.[^1]
+(5) A Rangsorról az országos szintű fejlesztésért, fejlesztési tervezésért és programozásért felelős miniszter javaslatára a Kormány dönt, és a Rangsort nyilvános határozatban teszi közzé.[^2]
 
 (6) A projektgazda a Rangsor Kormány által történt elfogadását követően dönthet a projekt további kidolgozásáról, figyelembe véve a (2) bekezdés szerinti, a kifizetési keretre tekintettel elkülönített listát.
 
-[^1]: Lásd az 1085/2008. (XII. 20) Korm. határozatot.
+[^2]: Lásd az 1085/2008. (XII. 20) Korm. határozatot.
