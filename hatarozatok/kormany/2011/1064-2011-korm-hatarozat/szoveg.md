@@ -32,22 +32,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+6.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány létrehozásáról szóló 1026/1995. (III. 24.) Korm. határozat,
+a)–i)[^3]
 
-b) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány létrehozásáról szóló 1026/1995. (III. 24.) Korm. határozat módosításáról szóló 1131/1995. (XII. 27.) Korm. határozat,
-
-c) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1120/1996. (XII. 17.) Korm. határozat,
-
-d) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1043/1997. (IV. 29.) Korm. határozat,
-
-e) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1078/1998. (VI. 3.) Korm. határozat,
-
-f) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1131/1998. (X. 6.) Korm. határozat,
-
-g) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1128/1999. (XII. 16.) Korm. határozat,
-
-h) a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány, az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány és a Magyar Alkotóművészeti Közalapítvány Alapító Okiratának módosításáról szóló 1062/2005. (VI. 17.) Korm. határozat, valamint
-
-i) az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány Alapító Okiratának módosításáról szóló 1125/2009. (VII. 29.) Korm. határozat.
+[^2]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
