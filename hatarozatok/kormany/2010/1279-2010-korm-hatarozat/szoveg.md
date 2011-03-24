@@ -28,25 +28,29 @@ d) közreműködik a közfinanszírozású, tudományos kutatással, kutatás-fe
 
 3. A Tanács elnöke a Kormány tudománypolitikai koordinációért felelős tagja. A Kormány a Tanács társelnökének a Magyar Tudományos Akadémia elnökét kéri fel. A Tanács társelnöke az elnök akadályoztatása esetén helyettesíti az elnököt. A Tanács elnöke, akadályoztatása esetén a társelnöke gondoskodik a Tanács állásfoglalásai végrehajtásának figyelemmel kíséréséről.
 
-4. A Tanács további tagjai a Kormány
+4.[^2] A Tanács további tagjai
 
-a) kutatás-fejlesztésért és technológiai innovációért,
+a) a Kormány
 
-b) fejlesztéspolitikáért, és
+aa) kutatás-fejlesztésért és technológiai innovációért,
 
-c) kormányzati tudománypolitikáért
+ab) fejlesztéspolitikáért, és
 
-felelős minisztere.
+ac) kormányzati tudománypolitikáért
 
-5. A Tanács ülésén állandó meghívottként vesz részt
+felelős minisztere, továbbá
+
+b) egy a Miniszterelnökség által felkért, a tudományos kutatással és technológiai fejlesztéssel összefüggésben kiemelkedő szakmai tudással rendelkező személy.
+
+5.[^3] A Tanács ülésén állandó meghívottként vesz részt
 
 a) a Magyar Innovációs Szövetség elnöke,
 
 b) a Magyar Rektori Konferencia elnöke,
 
-c) a Magyar Szabadalmi Hivatal elnöke,
+c) a Szellemi Tulajdon Nemzeti Hivatalának elnöke,
 
-d) a Nemzeti Kutatási és Technológiai Hivatal elnöke,
+d) a Nemzeti Innovációs Hivatal elnöke,
 
 e) az OTKA Bizottság elnöke, és
 
@@ -61,3 +65,6 @@ f) a Tanács elnöke által a kutatás-fejlesztés területén kiemelkedő tevé
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
 10. Hatályát veszti a Kutatási és Tudománypolitikai Tanácsról szóló 1162/2009. (IX. 22.) Korm. határozat.
+
+[^2]: A 4. pont az 1061/2011. (III. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1061/2011. (III. 23.) Korm. határozat 2. pontjával megállapított szöveg.
