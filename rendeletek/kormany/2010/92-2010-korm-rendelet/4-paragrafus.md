@@ -6,6 +6,6 @@
 
 (4) A nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet vezető testületébe tartozó személyek, a kijelölésre kerülő biztonsági vezető, valamint a titkos ügykezelő és helyettese, a rendszerbiztonsági felügyelő, a rendszeradminisztrátor, továbbá a minősített szerződésben való igazolt részvétel esetén annak előkészítésében és végrehajtásában érintett személyek nemzetbiztonsági ellenőrzését.
 
-(5)[^1] A (4) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 3. számú mellékletében szereplő és a 71. § (3) bekezdésében meghatározott megfelelő szintű kérdőíveket a (2) bekezdésben meghatározott tájékoztatás kézhezvételétől számított harminc napon belül kitöltik, és postai úton visszajuttatják az NBF részére, amelynek alapján az NBF elnöke kezdeményezi a nemzetbiztonsági ellenőrzést.
+(5)[^2] A (4) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 3. számú mellékletében szereplő és a 71. § (3) bekezdésében meghatározott megfelelő szintű kérdőíveket a (2) bekezdésben meghatározott tájékoztatás kézhezvételétől számított harminc napon belül kitöltik, és postai úton visszajuttatják az NBF részére, amelynek alapján az NBF elnöke kezdeményezi a nemzetbiztonsági ellenőrzést.
 
-[^1]: A 4. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (143) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^2]: A 4. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (143) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
