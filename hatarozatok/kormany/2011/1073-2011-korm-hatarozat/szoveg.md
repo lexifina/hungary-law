@@ -30,16 +30,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+6.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Habsburg-kori Kutatások Közalapítvány létrehozásáról szóló 1216/2002. (XII. 28.) Korm. határozat,
+a)–f)[^3]
 
-b) a Habsburg-kori Kutatások Közalapítvány Alapító Okiratának módosításáról szóló 1006/2003. (II. 19.) Korm. határozat,
-
-c) a Habsburg-kori Kutatások Közalapítvány Alapító Okiratának módosításáról szóló 1034/2004. (IV. 19.) Korm. határozat,
-
-d) a Habsburg-kori Kutatások Közalapítvány Alapító Okiratának módosításáról szóló 1091/2005. (IX. 15.) Korm. határozat,
-
-e) a Habsburg-kori Kutatások Közalapítvány Alapító Okiratának módosításáról szóló 1006/2006. (I. 20.) Korm. határozat, valamint
-
-f) a Habsburg-kori Kutatások Közalapítvány Alapító Okiratának módosításáról szóló 1150/2009. (IX. 4.) Korm. határozat.
+[^2]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–f) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
