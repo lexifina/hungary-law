@@ -22,15 +22,15 @@ kijelöli.
 
 a) a Dél-Alföldi Regionális Fejlesztési Tanácsban Mágori Andreát, Simonka Györgyöt, Font Sándort, Nógrádi Zoltánt, Farkas Sándort, Zsigó Róbertet, Kovács Ernőt, Dancsó Józsefet,
 
-b) a Dél-Dunántúli Regionális Fejlesztési Tanácsban Filczinger Ágnest, Schmidt Jenőt, Gere Attilát, dr. Jarjabka Ákost, Juhász Tibort, Szekó Józsefet, Patay Vilmost, Ribányi Józsefet,
+b)[^2] a Dél-Dunántúli Regionális Fejlesztési Tanácsban Filczinger Ágnest, Schmidt Jenőt, Gere Attilát, dr. Jarjabka Ákost, Csutor Ferencet, Szekó Józsefet, Patay Vilmost, Ribányi Józsefet,
 
-c)[^2] az Észak-Alföldi Regionális Fejlesztési Tanácsban dr. Seszták Miklóst, Borbás Zsoltot, dr. Vinnai Győzőt, dr. Tiba Istvánt, dr. Tilki Attilát, Molnár Ivánt, Tasó Lászlót, Balogh Zoltánt,
+c)[^3] az Észak-Alföldi Regionális Fejlesztési Tanácsban dr. Seszták Miklóst, Borbás Zsoltot, dr. Kozma Pétert, dr. Tiba Istvánt, dr. Tilki Attilát, Molnár Ivánt, Tasó Lászlót, Balogh Zoltánt,
 
-d)[^3] az Észak-Magyarországi Regionális Fejlesztési Tanácsban Gál Erzsébetet, Vámos Zoltánt, Farkas Zoltánt, Balázs Józsefet, dr. Ódor Ferencet, Szandai Józsefet, Aros Jánost, Barna Jánost,
+d)[^4] az Észak-Magyarországi Regionális Fejlesztési Tanácsban Gál Erzsébetet, Vámos Zoltánt, Farkas Zoltánt, Balázs Józsefet, dr. Ódor Ferencet, Szandai Józsefet, Aros Jánost, Barna Jánost,
 
-e)[^4] a Közép-Dunántúli Regionális Fejlesztési Tanácsban Szabóné Cserna Évát, Tessely Zoltánt, Sövényházi Balázst, dr. Kreft-Horváth Lórándot, dr. Csernavölgyi Istvánt, Horváthy Lórántot, Tratnyek Istvánt, Óvádi Pétert,
+e)[^5] a Közép-Dunántúli Regionális Fejlesztési Tanácsban Szabóné Cserna Évát, Tessely Zoltánt, Sövényházi Balázst, dr. Kreft-Horváth Lórándot, dr. Csernavölgyi Istvánt, Horváthy Lórántot, Tratnyek Istvánt, Óvádi Pétert,
 
-f)[^5] a Közép-Magyarországi Regionális Fejlesztési Tanácsban dr. Fónagy Jánost, dr. Láng Zsoltot, Tóth Jánost, Egry Attilát, dr. Pesti Imrét, Pápai Mihályt, dr. Bácskai Jánost, Riz Leventét, Kucsák Lászlót,
+f)[^6] a Közép-Magyarországi Regionális Fejlesztési Tanácsban dr. Fónagy Jánost, dr. Láng Zsoltot, Tóth Jánost, Egry Attilát, dr. Kocsis Mátét, Pápai Mihályt, dr. Bácskai Jánost, Riz Leventét, Kucsák Lászlót,
 
 g) a Nyugat-Dunántúli Regionális Fejlesztési Tanácsban Kepli Józsefet, Bánó Zoltánt, Firtl Mátyást, dr. Gulyás Zoltánt, Papp Nándort, Kiniczky Istvánt, Lazáry Viktort, Hámori Györgyöt
 
@@ -49,7 +49,8 @@ d) a Kormány képviselőjének a Közép-Magyarországi Regionális Fejlesztés
 hatályát veszti.
 
 [^1]: A 2. pont az 1237/2010. (XI. 16.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pont c) alpontja az 1291/2010. (XII. 15.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^3]: A 3. pont d) alpontja az 1291/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^4]: A 3. pont e) alpontja az 1291/2010. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^5]: A 3. pont f) alpontja az 1291/2010. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont b) alpontja az 1060/2011. (III. 23.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 3. pont c) alpontja az 1060/2011. (III. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 3. pont d) alpontja az 1291/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 3. pont e) alpontja az 1291/2010. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^6]: A 3. pont f) alpontja az 1291/2010. (XII. 15.) Korm. határozat 4. pontja, az 1060/2011. (III. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
