@@ -32,4 +32,6 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti a Nemzeti Kiválóságokért Közalapítvány Alapító Okiratának módosításáról szóló 1072/2008. (XI. 21.) Korm. határozat.
+6.[^2] Ez a határozat a közzététele napján lép hatályba,
+
+[^2]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
