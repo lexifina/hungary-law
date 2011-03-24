@@ -32,10 +32,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-7. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+7.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány létrehozásáról szóló 2234/2003. (X. 1.) Korm. határozat,
+a)–c)[^3]
 
-b) a Fogyatékosok Esélye Közalapítvány, a Nemzetközi Pikler Emmi Közalapítvány és a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány Alapító Okiratainak módosításáról szóló 1008/2005. (II. 8.) Korm. határozat, valamint
-
-c) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány Alapító Okiratának módosításáról szóló 1073/2007. (IX. 26.) Korm. határozat.
+[^2]: A 7. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 7. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
