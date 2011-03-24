@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-03-23 | 2011-37-20-22.1 | 37/2011. (III. 22.) Korm. rendelet |
+| 2011-03-24 | 2011-37-20-22.2 | 2010: CXXX. törvény |

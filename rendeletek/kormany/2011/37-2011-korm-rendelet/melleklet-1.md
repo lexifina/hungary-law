@@ -1,4 +1,4 @@
-## 42. §[^1]
+## 42. §[^3]
 
 1. melléklet a 37/2011. (III. 22.) Korm. rendelethez
 
@@ -84,4 +84,4 @@
 
 I. Közszolgáltatásért nyújtott állami támogatás
 
-[^1]: A 42. § a 37. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^3]: A 42. § a 37. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
