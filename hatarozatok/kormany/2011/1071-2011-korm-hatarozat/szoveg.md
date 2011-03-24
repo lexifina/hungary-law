@@ -28,20 +28,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzététele napján lép hatályba, egyidejűleg hatályát veszti
+6.[^2] Ez a határozat a közzététele napján lép hatályba,
 
-a) a Magyarországi Cigányokért Közalapítvány alapításáról szóló 1121/1995. (XII. 7.) Korm. határozat,
+a)–h)[^3]
 
-b) a Magyarországi Cigányokért Közalapítvány Alapító Okirata módosításáról szóló 1049/1997. (V. 13.) Korm. határozat,
-
-c) a Magyarországi Cigányokért Közalapítvány Alapító Okiratának módosításáról szóló 1086/1999. (VII. 22.) Korm. határozat,
-
-d) a Magyarországi Cigányokért Közalapítvány Alapító Okiratának módosításáról szóló 1131/1999. (XII. 21.) Korm. határozat,
-
-e) a Magyarországi Cigányokért Közalapítvány alapító okiratának módosításáról szóló 1053/2000. (VI. 28.) Korm. határozat,
-
-f) a Magyarországi Cigányokért Közalapítvány Alapító Okiratának módosításáról szóló 1137/2001. (XII. 21.) Korm. határozat,
-
-g) a Magyarországi Cigányokért Közalapítvány Alapító Okiratának módosításáról szóló 2154/2005. (VII. 27.) Korm. határozat, valamint
-
-h) a Magyarországi Cigányokért Közalapítvány alapító okiratának módosításáról szóló 1109/2009. (VII. 10.) Korm. határozat.
+[^2]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
