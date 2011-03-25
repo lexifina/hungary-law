@@ -1,3 +1,5 @@
-## „(1) Az az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet módosításáról szóló 45/2011. (III. 23.) Korm. rendelet hatálybalépésekor folyamatban lévő „Bizalmas!”, vagy annál magasabb minősítési szintű szerződéssel rendelkező gazdálkodó szervezet, amely a telephely biztonsági tanúsítvány iránti kérelmét 2010. december 31-ig benyújtotta, legkésőbb 2011. június 30-ig köteles beszerezni az érvényes és megfelelő szintű telephely biztonsági tanúsítványt.”
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
