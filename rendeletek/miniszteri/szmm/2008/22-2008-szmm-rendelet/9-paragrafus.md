@@ -4,25 +4,23 @@
 
 9. § (1) Magasabb vezető:
 
-a) az NSZFI főigazgatója, főigazgató-helyettese, gazdasági vezetője,
-
-b) az OMFI igazgatója, igazgató-helyettese, gazdálkodási egységvezetője,
+a)–b)[^5]
 
 c) az RKK igazgatója, igazgató-helyettese, gazdasági vezetője (gazdasági igazgató-helyettese), valamint
 
-d)[^3] az NCSSZI főigazgatója, főigazgató-helyettese, igazgatója és gazdasági vezetője.
+d)[^6] az NCSSZI főigazgatója, főigazgató-helyettese, igazgatója és gazdasági vezetője.
 
 (2) Vezető:
 
-a) az NSZFI irodavezetője és annak helyettese, programigazgatója, osztályvezetője és annak helyettese, titkárságvezetője, részlegvezetője és annak helyettese, csoportvezetője,
-
-b) az OMFI főosztályvezetője és annak helyettese, osztályvezetője és annak helyettese,
+a)–b)[^7]
 
 c) az RKK szektorvezetője, osztályvezetője, irodavezetője, valamint
 
-d)[^4] az NCSSZI igazgatóhelyettese, főosztályvezetője és annak helyettese, osztályvezetője és annak helyettese, továbbá csoportvezetője.
+d)[^8] az NCSSZI igazgatóhelyettese, főosztályvezetője és annak helyettese, osztályvezetője és annak helyettese, továbbá csoportvezetője.
 
 (3) A magasabb vezetőt önálló munkakörbe történő kinevezéssel, a vezetőt vezető megbízással kell foglalkoztatni.
 
-[^3]: A 9. § (1) bekezdés d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
-[^4]: A 9. § (2) bekezdés d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^5]: A 9. § (1) bekezdés a)–b) pontját a 12/2011. (III. 22.) NGM rendelet 24. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. § (2) bekezdését.
+[^6]: A 9. § (1) bekezdés d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^7]: A 9. § (2) bekezdés a)–b) pontját a 12/2011. (III. 22.) NGM rendelet 24. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. § (2) bekezdését.
+[^8]: A 9. § (2) bekezdés d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
