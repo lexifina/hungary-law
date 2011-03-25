@@ -18,10 +18,6 @@
 
 | egységvezető |  |  |  |  |  | X | X | X | X | X |  |
 
-| főosztályvezető (VPOP) |  |  |  |  |  | X | X | X | X | X |  |
-
-| főosztályvezető-helyettes (VPOP) |  |  |  |  |  | X | X | X | X | X |  |
-
 | hivatalvezető |  |  |  |  |  | X | X | X | X | X |  |
 
 | hivatalvezető-helyettes |  |  |  |  |  | X | X | X | X | X |  |

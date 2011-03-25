@@ -1,5 +1,5 @@
 8. § (1) E rendelet 2009. január 1-jén lép hatályba.
 
-(2)–(3)[^1]
+(2)–(3)[^10]
 
-[^1]: A 8. § (2)–(3) bekezdése a (3) bekezdés alapján hatályát vesztette.
+[^10]: A 8. § (2)–(3) bekezdése a (3) bekezdés alapján hatályát vesztette.

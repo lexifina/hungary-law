@@ -8,7 +8,7 @@
 
 (3) A címpótlék mértéke a munkatársi, főmunkatársi, tanácsosi és főtanácsosi címek esetén a Kjt.-ben meghatározott mértékkel egyezik, a kiemelt szakértői címek esetén pedig a pótlékalap 100%-a.
 
-(4) Cím adományozására nemzeti és állami ünnepeink, valamint a Vám- és Pénzügyőrség közalkalmazottainál a Nemzetközi Vámnap, a PMISZK közalkalmazottainál a PMISZK alapításának évfordulója alkalmával, a NAO Iroda közalkalmazottai tekintetében június és december utolsó munkaheteiben kerülhet sor.
+(4)[^9] Cím adományozására nemzeti és állami ünnepeink, valamint a PMISZK közalkalmazottainál a PMISZK alapításának évfordulója alkalmával kerülhet sor.
 
 (5) Cím odaítélésére minden vezető élhet javaslattal az irányítása alá tartozó személyi kör tekintetében. A javaslatot a (4) bekezdés szerinti időpontok előtt legalább 45 nappal írásban kell megtenni.
 
@@ -19,3 +19,5 @@ a) akivel szemben fegyelmi eljárás van folyamatban,
 b) aki jogerős fegyelmi büntetés hatálya alatt áll,
 
 c) aki 1 évnél rövidebb ideje visel címet.
+
+[^9]: A 6. § (4) bekezdése a 12/2011. (III. 22.) NGM rendelet 24. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. § (2) bekezdését.
