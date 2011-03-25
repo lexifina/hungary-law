@@ -1,6 +1,6 @@
-28. § (1)[^67] A 2007. december 31-ét követő, de 2012. január 1-jét megelőző időponttól megállapításra kerülő baleseti rokkantsági nyugdíj legkisebb összege a III. rokkantsági csoportban havi 28 600 forint, a II. rokkantsági csoportban havi 30 000 forint, az I. rokkantsági csoportban havi 31 000 forint.
+28. § (1)[^70] A 2007. december 31-ét követő, de 2012. január 1-jét megelőző időponttól megállapításra kerülő baleseti rokkantsági nyugdíj legkisebb összege a III. rokkantsági csoportban havi 28 600 forint, a II. rokkantsági csoportban havi 30 000 forint, az I. rokkantsági csoportban havi 31 000 forint.
 
-(2)[^68] A baleseti rokkantsági nyugdíj összegének megállapításánál a 10/A. §-ban foglaltakat is alkalmazni kell.
+(2)[^71] A baleseti rokkantsági nyugdíj összegének megállapításánál a 10/A. §-ban foglaltakat is alkalmazni kell.
 
-[^67]: A 28. § eredeti szövegének jelölését (1) bekezdésre változtatta az 55/2006. (III. 14.) Korm. rendelet 2. § (2) bekezdése, szövege a 352/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított, a 354/2010. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^68]: A 28. § (2) bekezdését az 55/2006. (III. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta. E módosító rendelet 3. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^70]: A 28. § eredeti szövegének jelölését (1) bekezdésre változtatta az 55/2006. (III. 14.) Korm. rendelet 2. § (2) bekezdése, szövege a 352/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított, a 354/2010. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^71]: A 28. § (2) bekezdését az 55/2006. (III. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta. E módosító rendelet 3. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,3 +1,3 @@
-83/A. §[^242]
+83/A. §[^245]
 
-[^242]: A 83/A. §-t a 229/2000. (XII. 23.) Korm. rendelet 25. §-a (3) bekezdésének bb) pontja hatályon kívül helyezte.
+[^245]: A 83/A. §-t a 229/2000. (XII. 23.) Korm. rendelet 25. §-a (3) bekezdésének bb) pontja hatályon kívül helyezte.
