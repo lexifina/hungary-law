@@ -14,6 +14,8 @@ Hartyányi Jaroszlavát a Nemzeti Kisebbségek Jogainak Biztosításával foglal
 
 kijelölöm.
 
-2. Jelen határozat hatálybalépésével egyidejűleg a szomszédos államokkal kötött nemzetközi szerződések alapján működő kisebbségi vegyesbizottságok magyar titkárának felmentéséről és új titkárok, valamint a bizottságok tagjainak kinevezéséről szóló 9/2011. (I. 31.) ME határozat 1. pontjában a „Magyar–Román Kisebbségi Vegyes Bizottság” szövegrészek, valamint a „Magyar–Román” szövegrészek helyébe a „Magyar–Román Kisebbségügyi Együttműködési Szakbizottság” szöveg, a „Magyar–Ukrán Kisebbségi Vegyes Bizottság” szövegrészek helyébe a „Nemzeti Kisebbségek Jogainak Biztosításával foglalkozó Magyar–Ukrán Vegyes Bizottság” szöveg, a „Magyar–Szerb Kisebbségi Vegyes Bizottság” szövegrészek, valamint a „Magyar–Szerb” szövegrészek helyébe a „Magyar–Szerb Kormányközi Kisebbségi Vegyes Bizottság” szöveg, a „Magyar–Szlovén Kisebbségi Vegyes Bizottság” szövegrészek, valamint a „Magyar–Szlovén” szövegrészek helyébe a „Magyar–Szlovén Kormányközi Kisebbségi Bizottság” szöveg, a „Magyar–Horvát” szövegrészek helyébe a „Magyar–Horvát Kisebbségi Vegyes Bizottság” szöveg, a „Magyar–Szlovák” szövegrészek helyébe a „Magyar–Szlovák Kisebbségi Vegyes Bizottság” szöveg lép.
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
