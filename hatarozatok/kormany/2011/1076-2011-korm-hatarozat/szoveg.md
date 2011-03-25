@@ -1,0 +1,1 @@
+A Kormány a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet 4. § (1a) bekezdésében foglaltak szerint a Budapest Ferihegy Nemzetközi Repülőtér hivatalos földrajzi nevét Budapest Liszt Ferenc Nemzetközi Repülőtér elnevezésben állapítja meg.
