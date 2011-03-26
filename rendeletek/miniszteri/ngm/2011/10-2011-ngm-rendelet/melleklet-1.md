@@ -1,3 +1,5 @@
-## 47. § Hatályát veszti a vám- és pénzügyőrség hivatásos állományú tagjainak szolgálati viszonyával kapcsolatos kártérítési felelősségéről, valamint a vám- és pénzügyőrség kártérítési felelősségéről szóló 14/1997. (V. 8.) PM rendelet.
+## 47. §[^2]
 
 1. melléklet a 10/2011. (III. 17.) NGM rendelethez
+
+[^2]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
