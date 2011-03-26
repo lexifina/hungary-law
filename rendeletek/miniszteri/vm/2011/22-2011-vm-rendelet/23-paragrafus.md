@@ -1,0 +1,1 @@
+23. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2010. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 34/2010. (IV. 9.) FVM rendelet.
