@@ -1,1 +1,0 @@
-A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény (a továbbiakban: VPtv.) 43. §-a d) pontjában kapott felhatalmazás alapján a Vám- és Pénzügyőrség bűnüldözési, bűnmegelőzési, valamint az államigazgatási tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szerveit és az adatok kezelésének technikai szabályait az alábbiak szerint állapítom meg:
