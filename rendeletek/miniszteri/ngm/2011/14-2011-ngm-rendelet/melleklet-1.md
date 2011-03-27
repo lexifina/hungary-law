@@ -1,3 +1,5 @@
-## 8. § Hatályát veszti a Vám- és Pénzügyőrség bűnmegelőzési, bűnüldözési, valamint államigazgatási tevékenységével összefüggésben keletkezett adatok kezeléséről szóló 34/2004. (VI. 23.) PM rendelet.
+## 8. §[^2]
 
 1. melléklet a 14/2011. (III. 25.) NGM rendelethez
+
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
