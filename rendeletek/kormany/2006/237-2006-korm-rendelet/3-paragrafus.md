@@ -22,7 +22,7 @@ b) a szeptemberben induló képzésekre vonatkozóan a képzés indítását meg
 
 (5)[^7] A Hivatal a Tájékoztatóban megjelentetett felvételi hirdetményeket kiegészítő, módosító közleményt – a felsőoktatási intézmények által legkésőbb a jelentkezési határidőt 30 nappal megelőzően közölt adatok alapján – legkésőbb a jelentkezési határidőt 15 nappal megelőzően tehet közzé.
 
-(6)[^8] Az Oktatási és Kulturális Minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
+(6)[^8] Az Nemzeti Erőforrás Minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
 
 (7)[^9] A minisztérium és a Hivatal – amennyiben ilyen megjelenik – a Tájékoztató kiegészítését tartalmazó közleményt teljes terjedelemben, hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
 
@@ -32,5 +32,5 @@ b) a szeptemberben induló képzésekre vonatkozóan a képzés indítását meg
 [^5]: A 3. § (3) bekezdés b) pontja a 308/2008. (XII. 20.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést elsőként a 2009. február 15-i jelentkezési határidejű eljárásban kell alkalmazni.
 [^6]: A 3. § (4) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^7]: A 3. § (5) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^8]: A 3. § (6) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^8]: A 3. § (6) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés a) pontja, a 39/2011. (III. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^9]: A 3. § (7) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 30. § (3) bekezdése szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 (3) A mesterképzést hirdető intézmények, illetve a mesterképzésre jelentkezők tekintetében a 3–30. §-okat a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(4)[^91] Az (1) bekezdésben meghatározott pályázatot a Hivatal bonyolítja le. Ennek keretében
+(4)[^105] Az (1) bekezdésben meghatározott pályázatot a Hivatal bonyolítja le. Ennek keretében
 
 a) közzéteszi a pályázati felhívást;
 
@@ -18,4 +18,4 @@ d) összesíti a felsőoktatási intézmények pályázatait;
 
 e) javaslatot tesz az elbírálásra.
 
-[^91]: A 31. § (4) bekezdését a 308/2008. (XII. 20.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést elsőként a 2009. február 15-i jelentkezési határidejű eljárásban kell alkalmazni.
+[^105]: A 31. § (4) bekezdését a 308/2008. (XII. 20.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést elsőként a 2009. február 15-i jelentkezési határidejű eljárásban kell alkalmazni.

@@ -1,4 +1,4 @@
-20. §[^66] (1) A jelentkező a felsőoktatási intézmény szabályzatában meghatározottak szerint a felvételi eljárás során
+20. §[^77] (1) A jelentkező a felsőoktatási intézmény szabályzatában meghatározottak szerint a felvételi eljárás során
 
 a) az adott sportág országos sportági szakszövetsége által kiadott igazolás alapján az eredmény elérésekor
 
@@ -30,4 +30,4 @@ f) a szakképzésről szóló 1993. évi LXXVI. törvény 5. §-a [(1)] (2) beke
 
 (3) Az (1) bekezdés a), b), d), e) és f) pontja alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező.
 
-[^66]: A 20. § a 98/2009. (IV. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^77]: A 20. § a 98/2009. (IV. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
