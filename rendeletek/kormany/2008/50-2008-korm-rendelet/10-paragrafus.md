@@ -2,15 +2,17 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba, rendelkezéseit 2008. január 1-jétől kell alkalmazni.
 
-(2)[^4]
+(2)[^6] E rendeletnek az egyes felsőoktatási tárgyú kormányrendeletek módosításáról szóló 39/2011. (III. 22.) Korm. rendelettel megállapított 3. § (1) bekezdését, 4. § (3) bekezdését, 6. §-át, 9. § (1) bekezdését, továbbá mellékletét 2011. január 1-jétől kell alkalmazni.
 
-Melléklet az 50/2008. (III. 14.) Korm. rendelethez[^5]
+Melléklet az 50/2008. (III. 14.) Korm. rendelethez[^7]
 
 Képzési és tudományos célú normatívák (E Ft/fő/év)
 
-| Megnevezés | Képzési normatívák |  |
+Képzési és tudományos célú normatívák (E Ft/fő/év)
 
-| Szakok, képzési területek | Doktori | Mester képzés (MA, MSc) | Alapképzés (BA, BSc) | Osztatlan | Egyetemi | Főiskolai | Tudományos normatívák |
+| Megnevezés | Képzési normatívák | Tudományos normatívák |
+
+| Szakok, képzési területek | Doktori | Mester képzés (MA, MSc) | Alapképzés (BA, BSc) | Osztatlan | Egyetemi | Főiskolai |
 
 | orvos, fogorvos, állatorvos |  |  |  | 720 | 720 |  |  |
 
@@ -28,7 +30,9 @@ Képzési és tudományos célú normatívák (E Ft/fő/év)
 
 | repülőmérnöki |  |  | 518 |  |  | 518 |  |
 
-| agrár, műszaki, természet- tudományi, informatika, sporttudományi, nemzetiségi, szociális, pszichológia |  | 683 | 345 | 449 | 449 | 345 |  |
+| agrár, műszaki, természet- |  |  |  |  |  |  |  |
+
+| tudományi, informatika, sporttudományi, nemzetiségi, szociális, pszichológia |  | 683 | 345 | 449 | 449 | 345 |  |
 
 | gyógypedagógus, konduktor |  | 683 | 518 |  | 518 | 518 |  |
 
@@ -38,23 +42,25 @@ Képzési és tudományos célú normatívák (E Ft/fő/év)
 
 | hitéleti |  | 455 | 230 | 323 | 230 | 210 |  |
 
-| teljes munkaidős oktatók |  |  |  |  |  |  | 1200 |
+| teljes munkaidős oktatók |  |  |  |  |  |  | 1300 (+100)* |
 
-| számított kutatók |  |  |  |  |  |  | 1200 |
+| számított kutatók |  |  |  |  |  |  | 1300 (+100)* |
 
-| minősített teljes munkaidős oktatók |  |  |  |  |  |  | 1600 |
+| minősített teljes munkaidős oktatók |  |  |  |  |  |  | 1700 (+100)* |
 
-| fokozatot szerzettek |  |  |  |  |  |  | 1200 |
+| fokozatot szerzettek |  |  |  |  |  |  | 1300 (+100)* |
 
 | odaítélt fokozatok |  |  |  |  |  |  | 600 |
 
 | államilag támogatott doktoranduszok |  |  |  |  |  |  |  |
 
-| társ.tud. bölcsész, művészeti | 650 |  |  |  |  |  | 450 |
+| társ.tud. bölcsész, művészeti | 650 |  |  |  |  |  | 500 (+50)* |
 
-| term.tud., műszaki, művészeti DLA | 975 |  |  |  |  |  | 810 |
+| term.tud., műszaki, művészeti DLA | 975 |  |  |  |  |  | 900 (+90)* |
 
 | fogyatékossággal élő hallgatók után járó kiegészítő támogatás normatívája | 120 |
 
-[^4]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte.
-[^5]: A melléklet a 123/2010. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+* A normatíva elemek a 2010. évi összeghez képest növekedtek a zárójelben feltüntetett összeggel.
+
+[^6]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte, újonnan a 39/2011. (III. 22.) Korm. rendelet 27. §-a iktatta be.
+[^7]: A melléklet a 39/2011. (III. 22.) Korm. rendelet 26. §-ával megállapított szöveg.

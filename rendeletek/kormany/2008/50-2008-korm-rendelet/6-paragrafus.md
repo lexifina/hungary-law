@@ -1,3 +1,5 @@
-6. § (1) Az állami felsőoktatási intézményekkel kötött hároméves fenntartói megállapodás állandó jellegű támogatási része – felsőoktatási törvény 133/A. § (2) bekezdésének a) pontja szerinti – elemének bázisösszege megegyezik a felsőoktatási intézmények képzési és fenntartási normatíva alapján történő finanszírozásáról szóló 100/2007. (V. 8.) Korm. rendelet 6. §-a alapján az intézményenként meghatározott fenntartási támogatás összegével. Az egyházi felsőoktatási intézmények esetében is e szabályt kell alkalmazni.
+6. §[^4] (1) Az állami felsőoktatási intézmények 2011. évi fenntartói támogatás meghatározása az előző évi összeg alapján, bázis jelleggel történik.
 
-(2) Az évenkénti fenntartói támogatás mértékét a felsőoktatási törvény 127. § (2) bekezdésében foglaltak alapján, az éves költségvetési törvényben, illetve más jogszabályban meghatározott kötelezettségek és lehetőségek figyelembevételével megállapított költségvetési támogatás összege növeli.
+(2) Az (1) bekezdésben meghatározottakat az egyházi felsőoktatási intézmények esetében is kell alkalmazni.
+
+[^4]: A 6. § a 39/2011. (III. 22.) Korm. rendelet 24. §-ával megállapított szöveg.

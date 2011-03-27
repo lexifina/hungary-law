@@ -1,6 +1,6 @@
 ## 8. § A nem állami felsőoktatási intézmények – a velük kötött megállapodás alapján – e rendeletben szabályozott eljárás szerint részesülnek költségvetési támogatásban.
 
-9. § (1) Az e rendeletben részletezett jogcímek szerint megállapított költségvetési támogatás összegével – amely az intézmények alaptevékenységének ellátására szolgál fedezetül – az intézmények a vonatkozó jogszabályok és a hároméves fenntartói megállapodás keretei között önállóan rendelkeznek.
+9. § (1)[^5] Az e rendeletben részletezett jogcímek szerint megállapított költségvetési támogatás összegével – amely az intézmények alaptevékenységének ellátására szolgál fedezetül – az intézmények a vonatkozó jogszabályok keretei között önállóan rendelkeznek.
 
 (2) Az intézmények a részükre biztosított költségvetési támogatás felhasználásáról – sajátosságaik figyelembevételével, a működőképesség fenntartásának szem előtt tartásával – belső szabályozással döntenek. Az intézmények vezető testületeinek feladata dönteni a támogatási összeg központosított és decentralizált részre való felosztásáról, illetve ez utóbbi szervezeti egységekhez, gazdálkodási egységekhez való eljuttatásának rendjéről.
 
@@ -13,3 +13,5 @@ a) hallgatók, az oktatók és a kutatók esetében költségvetési évet megel
 b) az 5. § (1) bekezdés d) pont esetében az adott költségvetési évben és az azt megelőző két évben az év végéig fokozatot szerzett teljes munkaidőben foglalkoztatott oktatókat,
 
 c) az egyéb mutatók esetében pedig az adott költségvetési évre vonatkozó adatokat
+
+[^5]: A 9. § (1) bekezdése a 39/2011. (III. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
