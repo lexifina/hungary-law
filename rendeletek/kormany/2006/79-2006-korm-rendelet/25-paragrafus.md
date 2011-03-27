@@ -2,7 +2,7 @@
 
 ## [az Ftv. 57. §-ának (5) bekezdéséhez]
 
-25. § (1)[^71] A felsőoktatási intézményben folytatott tanulmányok kreditekben mért teljesítéséről az intézmény a felsőoktatási törvény 57. §-ának (5) bekezdése alapján nyilvántartást vezet, melynek során a felsőoktatási törvény 2. számú melléklete I/B rész 1. bb) pontja alapján a következő adatokat tartja nyilván:
+25. § (1)[^72] A felsőoktatási intézményben folytatott tanulmányok kreditekben mért teljesítéséről az intézmény a felsőoktatási törvény 57. §-ának (5) bekezdése alapján nyilvántartást vezet, melynek során a felsőoktatási törvény 2. számú melléklete I/B rész 1. bb) pontja alapján a következő adatokat tartja nyilván:
 
 a) a képzésben való részvétel formája (államilag támogatott vagy költségtérítéses hallgató);
 
@@ -38,4 +38,4 @@ a) követelmények teljesítésére vonatkozó adat esetében 2 hónap,
 
 b) egyéb esetben 3 hét.
 
-[^71]: A 25. § (1) bekezdésének bevezető szövegrésze a 372/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^72]: A 25. § (1) bekezdésének bevezető szövegrésze a 372/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.

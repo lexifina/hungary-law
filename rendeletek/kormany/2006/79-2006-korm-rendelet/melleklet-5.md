@@ -18,7 +18,7 @@
 
 ## a) a felsőoktatási intézmény által a kérelemben az adott képzési területen, szakmacsoportban oktató alkalmazottak számát és a megtartandó órák számát figyelembe véve nem teljesíthető a felsőoktatási törvény 84. §-ában előírt követelmény azzal, hogy amennyiben ugyanaz a személy több képzési helyen (településen) is részt vesz az oktatásban, akkor óraszámát – a közalkalmazotti kinevezésében, illetve munkaszerződésében munkavégzés helyeként megjelölt települést kivéve – másfélszeres számban kell figyelembe venni;
 
-## b) a hallgatók számára ingyenesen és szabadon, egyidejűleg igénybe vehető, hálózati kapcsolattal ellátott számítógépek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
+## b)[^108] a hallgatók számára ingyenesen és szabadon igénybe vehető, hálózati kapcsolattal ellátott számítógépek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
 
 ## c) a hallgatók számára ingyenesen rendelkezésre álló könyvtári infrastruktúra, illetve szolgáltatás keretében a könyvtári olvasóhelyek száma nem éri el a maximális hallgatói létszám táblázatban meghatározott arányát;
 
@@ -46,7 +46,7 @@
 
 ## i) a felsőoktatási intézmény által benyújtott kérelem szerint az egyes képzéseken nem teljesül a felsőoktatási törvény 147. §-ának 3/A., 26/A. pontja szerinti előírás;
 
-## j) a képzési terület (a művészeti és művészetközvetítési képzési terület kivételével), a tudományterület (a művészetek tudományterület kivételével), a szakmacsoport évfolyamlétszáma nem éri el a húszat;
+## j)[^109] a képzési terület (a művészet és művészetközvetítés képzési terület kivételével), a szakmacsoport évfolyamlétszáma nem éri el a húszat;
 
 ## k) a felsőoktatási intézmény nem tudja szerződéssel, vagy legalább 3 év tapasztalatával igazolni, hogy képes a féléves szakmai gyakorlatok biztosítására;
 
@@ -92,6 +92,8 @@
 
 | művészetközvetítés | 5% | 2% |
 
-5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^107]
+5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^110]
 
-[^107]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.
+[^108]: A 4. számú melléklet 5. pont b) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^109]: A 4. számú melléklet 5. pont j) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^110]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.

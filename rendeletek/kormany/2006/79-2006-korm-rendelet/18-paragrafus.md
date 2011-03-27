@@ -62,7 +62,7 @@ be) részére az írásbeli beszámolóknál a számítógép használata megeng
 
 bf) részére a vizsga esetén a szükséges segédeszközöket (pl. írógép, helyesírási szótár, értelmező szótár, szinonima szótár) biztosítani kell,
 
-bg)[^58] ha fogyatékossága miatt nem képes az államilag elismert „C” típusú nyelvvizsga szóbeli és írásbeli követelményeinek teljesítésére, felmentést kaphat a nyelvvizsga letétele alól,
+bg)[^59] ha fogyatékossága miatt nem képes az államilag elismert „C” típusú nyelvvizsga szóbeli és írásbeli követelményeinek teljesítésére, felmentést kaphat a nyelvvizsga letétele alól,
 
 c) a diszkalkuliás hallgató a számítási feladatok alól felmentést kaphat, esetében a vizsgák alkalmával engedélyezhető mindazon segédeszközök használata, amelyekkel a hallgató a tanulmányai során korábban is dolgozott (táblázatok, számológép, konfiguráció, mechanikus és manipulatív eszközök), továbbá hosszabb felkészülési időt lehet számára biztosítani.
 
@@ -70,4 +70,4 @@ c) a diszkalkuliás hallgató a számítási feladatok alól felmentést kaphat,
 
 (7) A (2)–(6) bekezdésekben a felkészüléshez biztosítható hosszabb felkészülési idő a nem fogyatékossággal élő hallgatók esetében megállapított időtartamhoz képest legfeljebb 30%-kal hosszabbodhat meg.
 
-[^58]: A 18. § (5) bekezdése b) pontjának bg) alpontját a 372/2007. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
+[^59]: A 18. § (5) bekezdése b) pontjának bg) alpontját a 372/2007. (XII. 23.) Korm. rendelet 11. §-a iktatta be.

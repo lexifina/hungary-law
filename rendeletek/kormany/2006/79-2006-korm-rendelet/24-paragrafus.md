@@ -2,7 +2,7 @@
 
 (2) A kreditrendszerű képzésben a hallgató teljesítményének nyomon követésére a tanulmányok egy félévnél hosszabb időszakára vagy a tanulmányok egészére számított (halmozott) súlyozott tanulmányi átlag szolgál. A súlyozott tanulmányi átlag számításánál az adott időszakban teljesített tantárgyak kreditértékének és érdemjegyének szorzataiból képzett összeget a teljesített tárgyak kreditjeinek összegével kell osztani.
 
-(3)[^65] Egy félévben a hallgató teljesítményének mennyiségi és minőségi megítélésére a kreditindex, illetve a korrigált kreditindex alkalmas. A kreditindex számításánál a félévben teljesített tantárgyak kreditértékének és érdemjegyének szorzataiból képezett összeget az átlagos előrehaladás esetén egy félév alatt teljesítendő harminc kredittel kell osztani. A korrigált kreditindex a kreditindexből egy, a félév során teljesített és az egyéni tanrendben vállalt kreditek arányának megfelelő szorzótényezővel számítható. Az összesített korrigált kreditindex a hallgató több féléven keresztüli teljesítményének mennyiségi és minőségi megítélésére szolgál. Az összesített korrigált kreditindex számítása megegyezik a korrigált kreditindex számításával, azzal, hogy félévenkénti harminc kreditet és a teljes időszak alatt felvett és teljesített krediteket kell figyelembe venni.
+(3)[^66] Egy félévben a hallgató teljesítményének mennyiségi és minőségi megítélésére a kreditindex, illetve a korrigált kreditindex alkalmas. A kreditindex számításánál a félévben teljesített tantárgyak kreditértékének és érdemjegyének szorzataiból képezett összeget az átlagos előrehaladás esetén egy félév alatt teljesítendő harminc kredittel kell osztani. A korrigált kreditindex a kreditindexből egy, a félév során teljesített és az egyéni tanrendben vállalt kreditek arányának megfelelő szorzótényezővel számítható. Az összesített korrigált kreditindex a hallgató több féléven keresztüli teljesítményének mennyiségi és minőségi megítélésére szolgál. Az összesített korrigált kreditindex számítása megegyezik a korrigált kreditindex számításával, azzal, hogy félévenkénti harminc kreditet és a teljes időszak alatt felvett és teljesített krediteket kell figyelembe venni.
 
 (4) A kreditrendszerű képzés során a különböző képzési szintek szabályai eltérhetnek és elkülönülten is szabályozhatók.
 
@@ -36,19 +36,19 @@ m) a szakdolgozat vagy diplomamunka elkészítésének rendjét,
 
 n) a záróvizsga rendjét, a záróvizsga eredmények kiszámítását,
 
-o)[^66] a felsőoktatási törvény 44/A. §-a szerinti részismeretek megszerzése érdekében folytatott képzés meghirdetésének és az arra történő felvétel szabályait,
+o)[^67] a felsőoktatási törvény 44/A. §-a szerinti részismeretek megszerzése érdekében folytatott képzés meghirdetésének és az arra történő felvétel szabályait,
 
-p)[^67] a továbbtanulást vagy áthallgatást megelőző előzetes kreditátviteli eljárás szabályait,
+p)[^68] a továbbtanulást vagy áthallgatást megelőző előzetes kreditátviteli eljárás szabályait,
 
-q)[^68] a felsőfokú szakképzés során elsajátított ismeretek kötelező beszámításának, az o) pont szerinti képzés során elsajátított ismeretek, valamint a korábbi munkatapasztalatok beszámításának módját.
+q)[^69] a felsőfokú szakképzés során elsajátított ismeretek kötelező beszámításának, az o) pont szerinti képzés során elsajátított ismeretek, valamint a korábbi munkatapasztalatok beszámításának módját.
 
-(6)[^69] A kreditrendszerű képzés keretében a hallgató részképzése során az intézmény részéről tett előzetes nyilatkozat a hallgatói teljesítmény elismeréséről utólagosan nem vonható vissza. Az előzetes nyilatkozathoz szükséges a felsőoktatási törvény 58. §-a (7) bekezdése szerinti bizottság döntése.
+(6)[^70] A kreditrendszerű képzés keretében a hallgató részképzése során az intézmény részéről tett előzetes nyilatkozat a hallgatói teljesítmény elismeréséről utólagosan nem vonható vissza. Az előzetes nyilatkozathoz szükséges a felsőoktatási törvény 58. §-a (7) bekezdése szerinti bizottság döntése.
 
-(7)[^70] A felsőoktatási intézmény kérelemre köteles az előzetes kreditátviteli eljárást lefolytatni. Az előzetes kreditátviteli eljárás során a kérelmező által teljesített, valamint a kérelem benyújtásakor folyamatban levő félév végéig várhatóan teljesítendő tanulmányi követelmények (a teljesítés feltételéhez kötött) kreditelismeréséről és egyben a felvételi feltételekben szereplő kreditek (teljesítés feltételéhez kötött) meglétéről hoz döntést a kreditátviteli bizottság. A felsőoktatás intézmény a kreditátviteli bizottság által elismert krediteket a tanulmányok tényleges megkezdésekor újabb kérelem nélkül elismertnek tekinti.
+(7)[^71] A felsőoktatási intézmény kérelemre köteles az előzetes kreditátviteli eljárást lefolytatni. Az előzetes kreditátviteli eljárás során a kérelmező által teljesített, valamint a kérelem benyújtásakor folyamatban levő félév végéig várhatóan teljesítendő tanulmányi követelmények (a teljesítés feltételéhez kötött) kreditelismeréséről és egyben a felvételi feltételekben szereplő kreditek (teljesítés feltételéhez kötött) meglétéről hoz döntést a kreditátviteli bizottság. A felsőoktatás intézmény a kreditátviteli bizottság által elismert krediteket a tanulmányok tényleges megkezdésekor újabb kérelem nélkül elismertnek tekinti.
 
-[^65]: A 24. § (3) bekezdése a 33/2007. (III. 7.) Korm. rendelet 12. § (4) bekezdésének a) pontjával megállapított szöveg.
-[^66]: A 24. § (5) bekezdésének o) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^67]: A 24. § (5) bekezdésének p) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^68]: A 24. § (5) bekezdésének q) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^69]: A 24. § (6) bekezdését a 372/2007. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^70]: A 24. § (7) bekezdését a 372/2007. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^66]: A 24. § (3) bekezdése a 33/2007. (III. 7.) Korm. rendelet 12. § (4) bekezdésének a) pontjával megállapított szöveg.
+[^67]: A 24. § (5) bekezdésének o) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^68]: A 24. § (5) bekezdésének p) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^69]: A 24. § (5) bekezdésének q) pontját a 372/2007. (XII. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^70]: A 24. § (6) bekezdését a 372/2007. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^71]: A 24. § (7) bekezdését a 372/2007. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.

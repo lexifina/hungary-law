@@ -1,4 +1,4 @@
-15/C. §[^45] (1) A felsőoktatási intézmény a doktorjelölti jogviszony létesítésekor a doktorjelöltről doktorjelölti törzslapot állít ki.
+15/C. §[^46] (1) A felsőoktatási intézmény a doktorjelölti jogviszony létesítésekor a doktorjelöltről doktorjelölti törzslapot állít ki.
 
 (2) A doktorjelölti törzslapon fel kell tüntetni a felsőoktatási intézmény nevét, intézményi azonosítóját, címét, a hallgató nevét és hallgatói azonosítóját.
 
@@ -34,4 +34,4 @@ a) személyes adatok esetében a doktorjelölti jogviszony létrejöttekor és m
 
 b) a többi rész esetében a doktorjelölti jogviszony megszűnésekor.
 
-[^45]: A 15/C. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^46]: A 15/C. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.

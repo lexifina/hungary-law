@@ -1,201 +1,165 @@
-## A felsőfokú szakképzésnek a szakképzés indítása szempontjából megfelelő képzési területek
+## A felsőfokú szakképzésnek a szakképzés indítása szempontjából megfelelő képzési területek, szakok
 
-## Az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet szerinti szakmacsoportok esetében
+| Szakképesítés | Képzési terület, szak |
 
-| Szakmacsoport | Képzési terület |
+| 55 140 01 0000 | képzési szakasszisztens | pedagógusképzés, társadalomtudományok |
 
-| egészségügy | orvos- és egészségtudomány |
+| 55 146 01 0000 | gyakorlati oktató | pedagógusképzés |
 
-| szociális szolgáltatások | pedagógusképzés társadalomtudomány |
+| 55 213 01 0010 55 01 | idegennyelvi kommunikátor | bölcsészettudomány, társadalomtudományok |
 
-| oktatás (oktatás, pedagógia) | pedagógusképzés |
+| 55 213 01 0010 55 02 | intézményi kommunikátor | bölcsészettudományok, társadalomtudományok |
 
-| művészet, közművelődés, kommunikáció (zene-, tánc-, képző- és iparművészet, színművészet-bábművészet, színházművészet, sajtó, közművelődés) | művészet művészetközvetítés társadalomtudomány |
+| 55 213 01 0010 55 03 | sajtótechnikus | bölcsészettudomány, társadalomtudomány |
 
-| gépészet (gépgyártás, gépszerelés, gépkezelés, bányászat, kohászat, finommechanika, anyagvizsgálat, automatika, hegesztés, felületkezelés, minőségbiztosítás) | műszaki |
+| 55 213 01 0010 55 04 | sportkommunikátor | bölcsészettudomány, társadalomtudomány |
 
-| elektrotechnika-elektronika (elektrotechnika, elektronika, távközléstechnika) | műszaki informatika |
+| 55 213 02 0010 55 01 | média moderátor | bölcsészettudomány, társadalomtudomány, művészet, művészetközvetítés |
 
-| informatika (szoftver) | informatika |
+| 55 213 02 0010 55 01 | színházi moderátor | bölcsészettudomány, társadalomtudomány, művészet |
 
-| vegyipar (vegyipar, laborvizsgálatok) | műszaki természettudományok |
+| 55 341 01 0010 55 01 | audiovizuális szakasszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki, informatika |
 
-| építészet (építészet, építőipar, építőanyag-ipar) | műszaki |
+| 55 341 01 0010 55 02 | médiatechnológus asszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki, informatika |
 
-| könnyűipar (ruha-, textil-, bőr-, szőrme-, cipőipar) | műszaki |
+| 55 341 01 0010 55 02 | televízióműsor-gyártó asszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki |
 
-| faipar | műszaki |
+| 55 343 01 0010 55 01 | banki szakügyintéző | gazdaságtudományok |
 
-| nyomdaipar | műszaki |
+| 55 343 01 0010 55 02 | értékpapírpiaci szakügyintéző | gazdaságtudományok |
 
-| közlekedés | műszaki |
+| 55 343 01 0010 55 03 | gazdálkodási menedzserasszisztens | gazdaságtudományok |
 
-| környezetvédelem-vízgazdálkodás | agrár gazdaságtudományok műszaki |
+| 55 343 01 0010 55 04 | pénzügyi szakügyintéző | gazdaságtudományok |
 
-| közgazdaság | gazdaságtudományok |
+| 55 343 01 0010 55 05 | projektmenedzser-asszisztens | gazdaságtudományok |
 
-| ügyvitel | bölcsészettudomány gazdaságtudományok jogi és igazgatási |
+| 55 343 01 0010 55 06 | számviteli szakügyintéző | gazdaságtudományok |
 
-| kereskedelem-marketing, üzleti adminisztráció (kereskedelem, marketing, üzleti adminisztráció, menedzselés, nem gazdasági ügyintézés, szervezés) | gazdaságtudományok |
+| 55 344 01 0010 55 01 | adóigazgatási szakügyintéző | gazdaságtudományok |
 
-| vendéglátás-idegenforgalom (vendéglátás, idegenforgalom, turizmus) | gazdaságtudományok |
+| 55 344 01 0010 55 02 | költségvetés-gazdálkodási szakügyintéző | gazdaságtudományok |
 
-| egyéb szolgáltatások (személyi, biztonsági, polgári védelmi, rendészeti szolgáltatások, honvédelem, tűzvédelem, munkavédelem, kis- és kézművesipar) | nemzetvédelmi és katonai |
+| 55 345 01 0010 55 01 | Európai Uniós üzleti szakügyintéző | gazdaságtudományok, társadalomtudományok |
 
-| mezőgazdaság (növénytermesztés, kertészet, állattenyésztés, erdészet, vadászat, halászat, térképészet) | agrár |
+| 55 345 01 0010 55 02 | kereskedelmi szakmenedzser | gazdaságtudományok |
 
-| élelmiszeripar | agrár |
+| 55 345 01 0010 55 03 | kis- és középvállalkozási menedzser | gazdaságtudományok |
 
-## Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelet szerinti szakképesítések/elágazások esetében
+| 55 345 01 0010 55 04 | külgazdasági üzletkötő | gazdaságtudományok |
 
-| Szakképesítés | Képzési terület |
+| 55 345 01 0010 55 05 | nemzetközi szállítmányozási és logisztikai szakügyintéző | gazdaságtudományok, műszaki |
 
-| adóigazgatási szakügyintéző | gazdaságtudományok |
+| 55 345 01 0010 55 06 | reklámszervező szakmenedzser | gazdaságtudományok |
 
-| agrárkereskedelmi menedzserasszisztens | agrár, gazdaságtudományok |
+| 55 345 01 0010 55 07 | üzleti szakmenedzser | gazdaságtudományok |
 
-| általános rendszergazda | informatika, műszaki |
+| 55 345 02 0010 55 01 | logisztikai műszaki menedzserasszisztens | gazdaságtudományok műszaki |
 
-| audiovizuális szakasszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki, informatika |
+| 55 345 02 0010 55 02 | terméktervező műszaki menedzserasszisztens | műszaki |
 
-| banki szakügyintéző | gazdaságtudományok |
+| 55 345 03 0000 | közösségi-civil szervező | társadalomtudományok, gazdaságtudományok |
 
-| baromfitenyésztő és baromfitermék-előállító technológus | agrár |
+| 55 346 01 0000 | jogi asszisztens | jogi- és igazgatási |
 
-| bortechnológus | agrár |
+| 55 346 02 0010 55 01 | gazdasági idegen nyelvű menedzser | bölcsészettudományok, gazdaságtudományok |
 
-| csecsemő- és gyermeknevelő-gondozó | pedagógusképzés, társadalomtudomány |
+| 55 346 02 0010 55 02 | titkárságvezető | gazdaságtudományok, bölcsészettudomány, társadalomtudomány |
 
-| élelmiszeripari menedzser | agrár, gazdaságtudományok |
+| 55 346 03 0000 | rendészeti asszisztens | rendészeti igazgatási alapszak |
 
-| energetikai mérnökasszisztens | műszaki, gazdaságtudományok |
+| 55 481 01 0000 | általános rendszergazda | informatika, műszaki |
 
-| épített környezetmérnök-asszisztens | műszaki |
+| 55 481 02 0000 | informatikai statisztikus és gazdasági tervező | informatika, gazdaságtudományok |
 
-| erdőgazda | agrár |
+| 55 481 03 0000 | telekommunikációs asszisztens | informatika, műszaki |
 
-| értékpapírpiaci szakügyintéző | gazdaságtudományok |
+| 55 481 04 0000 | Web-programozó | informatika, műszaki |
 
-| európai uniós üzleti szakügyintéző | gazdaságtudományok, társadalomtudomány |
+| 55 524 01 0000 | farmakológus szakasszisztens | természettudományok |
 
-| faipari terméktervező | műszaki |
+| 55 524 02 0010 55 01 | felületvédelmi technológus | műszaki, természettudományok |
 
-| faipari termelésszervező | műszaki |
+| 55 524 02 0010 55 02 | vegyipari méréstechnológus | műszaki, természettudomány |
 
-| farmakológus szakasszisztens | természettudomány |
+| 55 621 02 0010 55 01 | baromfitenyésztő és baromfitermék-előállító technológus | agrár |
 
-| felületvédelmi technológus | természettudomány, műszaki |
+| 55 621 02 0010 55 02 | gyógynövény- és fűszernövénytermesztő és -feldolgozó | agrár, természettudományok |
 
-| gazdálkodási menedzserasszisztens | gazdaságtudomány |
+| 55 621 02 0010 55 03 | hulladékgazdálkodási technológus | agrár, műszaki |
 
-| gazdasági idegen nyelvű menedzser | bölcsészettudomány |
+| 55 621 02 0010 55 04 | mezőgazdasági laboratóriumi szakasszisztens | agrár, műszaki |
 
-| gépipari mérnökasszisztens | műszaki |
+| 55 621 02 0010 55 05 | növénytermesztő és növényvédő technológus | agrár |
 
-| gyakorlati oktató | pedagógusképzés |
+| 55 621 02 0010 55 06 | ökológiai gazdálkodó | agrár |
 
-| gyógynövény- és fűszernövénytermesztő és -feldolgozó | agrár, természettudomány |
+| 55 621 02 0010 55 07 | sertéstenyésztő és sertéstermék-előállító technológus | agrár |
 
-| hálózati informatikus | műszaki, informatika |
+| 55 621 02 0010 55 08 | vadgazdálkodási technológus | agrár |
 
-| hulladékgazdálkodási technológus | agrár, műszaki |
+| 55 621 03 0000 | állatorvosi asszisztens | agrár képzési terület |
 
-| idegenforgalmi szakmenedzser | gazdaságtudományok |
+| 55 621 04 0000 | méhészeti technológus | agrár |
 
-| idegennyelvi kommunikátor | bölcsészettudomány, társadalomtudomány |
+| 55 621 001 0010 55 01 | agrárkereskedelmi menedzser-asszisztens | agrár, gazdaságtudományok |
 
-| ifjúságsegítő | pedagógusképzés, társadalomtudomány |
+| 55 621 01 0010 55 02 | bortechnológus | agrár |
 
-| informatikai statisztikus és gazdasági tervező | informatika, gazdaságtudományok |
+| 55 621 01 0010 55 03 | élelmiszeripari menedzser | agrár, gazdaságtudományok |
 
-| intézményi kommunikátor | bölcsészettudomány, társadalomtudomány |
+| 55 621 01 0010 55 04 | ménesgazda | agrár |
 
-| jogi asszisztens | jogi és igazgatási |
+| 55 621 01 0010 55 05 | mezőgazdasági menedzser-asszisztens | agrár, gazdaságtudományok |
 
-| képi diagnosztikai és intervenciós asszisztens | orvos- és egészségtudományi |
+| 55 621 01 0010 55 06 | mezőgazdasági műszaki menedzser-asszisztens | agrár, műszaki |
 
-| képzési szakasszisztens | pedagógusképzés, társadalomtudomány |
+| 55 621 01 0010 55 07 | szőlész, borász szaktechnikus | agrár |
 
-| kereskedelmi szakmenedzser | gazdaságtudományok |
+| 55 623 01 0000 | erdőgazda | agrár |
 
-| kis- és középvállalkozási menedzser | gazdaságtudományok |
+| 55 725 01 0010 55 01 | képi diagnosztikai és intervenciós asszisztens | orvos- és egészségtudomány |
 
-| kohómérnök asszisztens | műszaki |
+| 55 725 01 0010 55 02 | orvosdiagnosztikai laboratóriumi technológus | orvos- és egészségtudományok |
 
-| költségvetés-gazdálkodási szakügyintéző | gazdaságtudományok |
+| 55 761 01 0000 | csecsemő- és gyermeknevelő-gondozó | pedagógusképzés, társadalomtudományok |
 
-| könnyűipari mérnökasszisztens | műszaki |
+| 55 762 01 0000 | ifjúságsegítő | pedagógusképzés, társadalomtudomány |
 
-| külgazdasági üzletkötő | gazdaságtudományok |
+| 55 810 01 0010 55 01 | energetikai mérnökasszisztens | műszaki, gazdaságtudományok |
 
-| logisztikai műszaki menedzserasszisztens | műszaki, gazdaságtudományok |
+| 55 810 01 0010 55 02 | építettkörnyezetmérnök-asszisztens | műszaki |
 
-| mechatronikai mérnökasszisztens | műszaki, gazdaságtudományok |
+| 55 810 01 0010 55 03 | faipari terméktervező | műszaki |
 
-| médiatechnológus asszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki, informatika |
+| 55 810 01 0010 55 04 | faipari termelésszervező | műszaki |
 
-| ménesgazda | agrár |
+| 55 810 01 0010 55 05 | gépipari mérnökasszisztens | műszaki |
 
-| mezőgazdasági laboratóriumi szakasszisztens | agrár, műszaki |
+| 55 810 01 0010 55 06 | hálózati informatikus | műszaki, informatika |
 
-| mezőgazdasági menedzserasszisztens | agrár, gazdaságtudományok |
+| 55 810 01 0010 55 07 | fémtechnológia mérnökasszisztens | műszaki |
 
-| mezőgazdasági műszaki menedzserasszisztens | agrár, műszaki |
+| 55 810 01 0010 55 08 | könnyűipari mérnökasszisztens | műszaki |
 
-| moderátor | bölcsészettudomány, társadalomtudomány |
+| 55 810 01 0010 55 09 | mechatronikai mérnökasszisztens | műszaki |
 
-| műszaki informatikai mérnökasszisztens | műszaki |
+| 55 810 01 0010 55 10 | műszaki informatikai mérnökasszisztens | műszaki, informatika |
 
-| nemzetközi szállítmányozási és logisztikai szakügyintéző | gazdaságtudományok, műszaki |
+| 55 810 01 0010 55 11 | vegyész mérnökasszisztens | műszaki, természettudomány |
 
-| növénytermesztő és növényvédő technológus | agrár |
+| 55 810 01 0010 55 12 | vegyipari gépészmérnök-asszisztens | műszaki, természettudomány |
 
-| orvosdiagnosztikai laboratóriumi technológus | orvos- és egészségtudományi |
+| 55 810 01 0010 55 13 | villamosmérnök-asszisztens | műszaki |
 
-| ökológiai gazdálkodó | agrár |
+| 55 810 01 0010 55 14 | területfejlesztési szakasszisztens | műszaki |
 
-| pénzügyi szakügyintéző | gazdaságtudományok |
+| 55 810 01 0010 55 15 | munkavédelmi mérnökasszisztens | műszaki |
 
-| projektmenedzser-asszisztens | gazdaságtudományok |
+| 55 812 01 0010 55 01 | idegenforgalmi szakmenedzser | gazdaságtudományok |
 
-| reklámszervező szakmenedzser | gazdaságtudományok |
+| 55 812 01 0010 55 02 | vendéglátó szakmenedzser | gazdaságtudományok |
 
-| sajtótechnikus | bölcsészettudomány, társadalomtudomány |
+7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^113]
 
-| sertéstenyésztő és sertéstermék-előállító technológus | agrár |
-
-| sportkommunikátor | bölcsészettudomány, társadalomtudomány |
-
-| számviteli szakügyintéző | gazdaságtudományok |
-
-| szőlész, borász szaktechnikus | agrár, természettudomány |
-
-| telekommunikációs asszisztens | informatika, műszaki |
-
-| televízióműsor gyártó szakasszisztens | társadalomtudomány, művészet, művészetközvetítés, műszaki |
-
-| terméktervező műszaki menedzserasszisztens | műszaki |
-
-| titkárságvezető | gazdaságtudományok, bölcsészettudomány, társadalomtudomány |
-
-| üzletviteli szakmenedzser | gazdaságtudományok |
-
-| vadgazdálkodási technológus | agrár |
-
-| vegyész mérnökasszisztens | műszaki, természettudomány |
-
-| vegyipari gépészmérnök-asszisztens | műszaki, természettudomány |
-
-| vegyipari méréstechnológus | természettudomány, műszaki |
-
-| vendéglátó szakmenedzser | gazdaságtudományok |
-
-| villamosmérnök-asszisztens | műszaki |
-
-| web-programozó | informatika, műszaki |
-
-| minden más felsőfokú szakképzés | az Oktatási Hivatal döntése szerint |
-
-7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^110]
-
-[^110]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^113]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

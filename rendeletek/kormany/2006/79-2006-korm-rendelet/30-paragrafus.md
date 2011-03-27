@@ -2,7 +2,7 @@
 
 ## [az Ftv. 114. §-ának (6) bekezdéséhez]
 
-30. § (1)[^87] Az Országos Kredittanácsot a miniszter működteti. Az Országos Kredittanács legfeljebb tizenöt tagból áll, tagjai felsőoktatási szakemberek és kutatók. A hallgatók képviseletében a Hallgatói Önkormányzatok Országos Konferenciájának egy delegáltja tanácskozási joggal részt vehet az Országos Kredittanács munkájában.
+30. § (1)[^88] Az Országos Kredittanácsot a miniszter működteti. Az Országos Kredittanács legfeljebb tizenöt tagból áll, tagjai felsőoktatási szakemberek és kutatók. A hallgatók képviseletében a Hallgatói Önkormányzatok Országos Konferenciájának egy delegáltja tanácskozási joggal részt vehet az Országos Kredittanács munkájában.
 
 (2) Az Országos Kredittanács a felsőoktatási törvény 114. §-ának (6) bekezdésében meghatározott feladatai körében
 
@@ -48,14 +48,14 @@ e) a tag halálával.
 
 a) nyilvántartja a hazai és külföldi intézmények kreditrendszereinek lényeges dokumentumait,
 
-b)[^88] az országos kreditrendszer működésével kapcsolatos információkat szolgáltat a felsőoktatást irányító, illetve felügyelő kormányzati szervek, a Minisztérium, a felsőoktatási intézmények és a felsőoktatásban tanulmányokat folytató hallgatók számára,
+b)[^89] az országos kreditrendszer működésével kapcsolatos információkat szolgáltat a felsőoktatást irányító, illetve felügyelő kormányzati szervek, a Minisztérium, a felsőoktatási intézmények és a felsőoktatásban tanulmányokat folytató hallgatók számára,
 
 c) az intézményi kreditrendszerekkel kapcsolatos szakmai, tájékoztató és segítségnyújtó kiadványokat tesz közzé.
 
 (11) Az Országos Kredittanács Irodája rendelkezésére álló információk a kormányzati szervek, a felsőoktatási testületek, hazai felsőoktatási intézmények és hallgatóik számára ingyenesen hozzáférhetőek.
 
-(12)[^89] A Minisztérium, a Hivatal, a Magyar Felsőoktatási Akkreditációs Bizottság felkérése alapján az Országos Kredittanács véleményezi a felsőoktatási intézmény a tanulmányi és vizsgaszabályzatát, továbbá az intézményi tájékoztatót.
+(12)[^90] A Minisztérium, a Hivatal, a Magyar Felsőoktatási Akkreditációs Bizottság felkérése alapján az Országos Kredittanács véleményezi a felsőoktatási intézmény a tanulmányi és vizsgaszabályzatát, továbbá az intézményi tájékoztatót.
 
-[^87]: A 30. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
-[^88]: A 30. § (10) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 25. § h) pontja szerint módosított szöveg.
-[^89]: A 30. § (12) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 25. § a) és i) pontja szerint módosított szöveg.
+[^88]: A 30. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
+[^89]: A 30. § (10) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 25. § h) pontja szerint módosított szöveg.
+[^90]: A 30. § (12) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 25. § a) és i) pontja szerint módosított szöveg.

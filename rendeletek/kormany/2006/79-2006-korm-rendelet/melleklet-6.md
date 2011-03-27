@@ -1,4 +1,4 @@
-## Az alap-, illetve mesterképzés indításának és a karok létesítésének tárgyi és személyi feltételei[^108]
+## Az alap-, illetve mesterképzés indításának és a karok létesítésének tárgyi és személyi feltételei[^111]
 
 ## Alapszakok indításának tárgyi és személyi feltételei
 
@@ -88,7 +88,7 @@
 
 ## – a kar állományába kerülő, teljes munkaidőben foglalkoztatott oktatók létszáma legalább negyven fő.
 
-6. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^109]
+6. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^112]
 
-[^108]: Az 5. számú melléklet címe a 175/2006. (VIII. 14.) Korm. rendelet 36. § (5) bekezdésével megállapított szöveg.
-[^109]: A 6. számú melléklet a 308/2008. (XII. 20.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést elsőként a 2009. február 15-i jelentkezési határidejű eljárásban kell alkalmazni.
+[^111]: Az 5. számú melléklet címe a 175/2006. (VIII. 14.) Korm. rendelet 36. § (5) bekezdésével megállapított szöveg.
+[^112]: A 6. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-15/H. §[^51] (1) A jogviszony-igazolás (a továbbiakban e § tekintetében: igazolás) tanúsítja a hallgató, a doktorjelölt, illetve a művészeti előkészítésben részt vevő ezen jogviszonyának fennállását vagy korábbi fennállását.
+15/H. §[^52] (1) A jogviszony-igazolás (a továbbiakban e § tekintetében: igazolás) tanúsítja a hallgató, a doktorjelölt, illetve a művészeti előkészítésben részt vevő ezen jogviszonyának fennállását vagy korábbi fennállását.
 
 (2) Az igazolás kiállítható
 
@@ -36,4 +36,4 @@ b) a (2) bekezdés b) pontja szerinti kiállítás esetén tartalmazza a felsőo
 
 (8) A kiállított igazolásokat nyilván kell tartani.
 
-[^51]: A 15/H. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^52]: A 15/H. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.

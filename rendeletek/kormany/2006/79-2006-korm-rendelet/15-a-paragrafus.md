@@ -44,7 +44,9 @@ r) oklevélmelléklet;
 
 s) kreditigazolás;
 
-t) a hallgatói adatkezelési nyilatkozat.
+t) a hallgatói adatkezelési nyilatkozat;
+
+u)[^44] tanítói műveltségterületi igazolás
 
 (2) Az (1) bekezdés d) és f) pontjában, valamint az m) pont alpontjaiban meghatározott formanyomtatványok összevonhatók.
 
@@ -52,3 +54,4 @@ t) a hallgatói adatkezelési nyilatkozat.
 
 [^42]: A 15/A. §-t megelőző alcímet a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
 [^43]: A 15/A. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^44]: A 15/A. § (1) bekezdés u) pontját a 39/2011. (III. 22.) Korm. rendelet 18. §-a iktatta be.

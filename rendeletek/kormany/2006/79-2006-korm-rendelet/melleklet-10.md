@@ -18,7 +18,7 @@
 
 ## A 2. b) pont szerinti sorszám nem adható ki, ha a 11-gyel való osztás maradéka egyenlő tízzel.
 
-10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^114]
+10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^117]
 
 A kötelezően használt okiratok formaszövegei
 
@@ -516,9 +516,9 @@ Intézményi azonosító:
 
 OKLEVÉL
 
-Ezt az oklevelet ... számára állítottuk ki, aki ... év ... hó ... napján ... ország ... településén ... néven született és a(z) ... nevű ... intézményi azonosítójú intézményben folytatott ... félév időtartamú tanulmányai végén megszerzett ... szakképesítést igazoló bizonyítvány birtokában, a bizonyítvány által tanúsított ismeretekből 30–60 kredit beszámításával a(z) ... nevű felsőoktatási intézmény ... szak tanulmányi kötelezettségeinek eleget tett. A szak képzési ideje ... félév..
+Ezt az oklevelet ... számára állítottuk ki, aki ... év ... hó ... napján ...... ország ... településén ... néven született, és a(z) ... nevű ... intézményi azonosítója intézményben (intézmény felügyeletével) folytatott ... félév időtartamú tanulmányai végén megszerzett ........ szakképesítést igazoló bizonyítvány birtokában, a bizonyítvány által tanúsított ismeretekből 30–60 kredit beszámításával a(z) ... nevű felsőoktatási intézmény ... szak tanulmányi kötelezettségeinek eleget tett. A szak képzési ideje ... félév..
 
-A záróvizsga-bizottság ... év ... hó ... napján kelt határozata alapján nevezett alapfokozatot és ... szakképzettséget szerzett, oklevelének minősítése ...
+A záróvizsga-bizottság ... év ... hó ... napján kelt határozata alapján nevezett alapfokozatot és ... szakképzettséget szerzett, oklevelének minősítése ...
 
 keltezés, bélyegzőlenyomat, aláírások, záradék
 
@@ -590,7 +590,7 @@ Korábbi tanulmányok beszámításakor ugyanazon képzési szinten:
 
 Jogelőd felsőoktatási intézmény megjelenítésére:
 
-„Az oklevél tulajdonosa tanulmányait a kiállító intézmény jogelődjében, a ... nevű felsőoktatási intézményben folytatta. A jogutódlásra ... év ... hó ... napján került sor. keltezés, bélyegzőlenyomat, aláírás”
+„Az oklevél tulajdonosa tanulmányait a kiállító intézmény jogelődjében, a ... nevű felsőoktatási intézményben kezdte meg. A jogutódlásra ... év ... hó ... napján került sor. keltezés, bélyegzőlenyomat, aláírás”
 
 Képzéshez tartozó specializáció (önálló szakképzettséget nem eredményező szakirány) elvégzésekor:
 
@@ -598,7 +598,7 @@ Képzéshez tartozó specializáció (önálló szakképzettséget nem eredmény
 
 Idegen nyelven folyó képzés esetében:
 
-„A képzést és a záróvizsgát az oklevél tulajdonosa ... nyelven teljesítette.”
+„a képzést és a záróvizsgát az oklevél tulajdonosa … nyelven teljesítette. keltezés, bélyegzőlenyomat, aláírás”
 
 Tanító szakképzettség esetén a műveltségi terület igazolására:
 
@@ -762,4 +762,16 @@ Dátum, aláírás
 
 1 A megfelelő X jellel megjelölendő.
 
-[^114]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a szerint módosított szöveg.
+X. A tanító szakképzettséggel rendelkezők számára kiadható műveltségi területi képzettség igazolása
+
+Sorszám:
+
+Intézményi azonosító:
+
+IGAZOLÁS
+
+Ezt az igazolást [VISELT NÉV] számára állítottuk ki, aki [SZÜLETÉSI ÉV]. év [SZÜLETÉSI HÓ] hó [SZÜLETÉSI NAP]. napján [SZÜLETÉSI HELY ORSZÁGA] [SZÜLETÉSI HELY TELEPÜLÉS] településén [SZÜLETÉSI NÉV] néven született, és a(z) [EREDETI OKLEVÉL KIÁLLÍTÓ FELSŐOKTATÁSI INTÉZMÉNY NEVE] nevű felsőoktatási intézményben szerzett [EREDETI OKLEVÉL ÉV] év [EREDETI OKLEVÉL HÓ] hó [EREDETI OKLEVÉL NAP]. napján kelt [EREDETI OKLEVÉL SZÁMA] számon kiállított oklevéllel igazolt alapfokozat és tanító szakképzettsége megszerzését követően a(z) [KIADÓ FELSŐOKTATÁSI INTÉZMÉNY NEVE] nevű felsőoktatási intézményben a tanító alapképzési szak [MŰVELTSÉGI TERÜLET NEVE] műveltségi terület tanulmányi kötelezettségeinek sikeresen eleget tett.
+
+keltezés, bélyegzőlenyomat, aláírások, záradék
+
+[^117]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a, a 39/2011. (III. 22.) Korm. rendelet 21. §-a szerint módosított szöveg.
