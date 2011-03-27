@@ -1,3 +1,3 @@
-1. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^20]
+1. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^22]
 
-[^20]: Az 1. számú melléklet a 98/2009. (IV. 24.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 276/2009. (XII. 4.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^22]: Az 1. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.

@@ -158,6 +158,6 @@
 
 ## 3 A tanári szakképzettség a mesterfokozatot adó nem tanári szakképzettséggel párhuzamosan vagy annak megszerzése után szerezhető, két tanári szakképzettséget adó képzésben. A gyógypedagógus-tanár szakképzettség bármely közismereti tanári szakképzettséggel társítható.
 
-4. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^23]
+4. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^26]
 
-[^23]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja szerint módosított szöveg.
+[^26]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja szerint módosított szöveg.
