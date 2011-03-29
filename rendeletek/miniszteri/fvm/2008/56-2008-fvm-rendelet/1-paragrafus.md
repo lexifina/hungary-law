@@ -18,4 +18,6 @@ g) állati hullát égető üzem: az ABP rendelet I. melléklete 32. pontjában 
 
 h) gyűjtő-átrakó létesítmény: az állat-egészségügyi hatóság által engedélyezett, az ABP rendelet I. melléklete 8. pontjában meghatározott létesítmény, továbbá az állat-egészségügyi hatóság által nyilvántartásba vett állati hulla gyűjtőhely és gyepmesteri telep;
 
-i) állat-egészségügyi hatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve.
+i)[^1] állat-egészségügyi hatóság: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága.
+
+[^1]: Az 1. § i) pontja a 24/2011. (III. 28.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.

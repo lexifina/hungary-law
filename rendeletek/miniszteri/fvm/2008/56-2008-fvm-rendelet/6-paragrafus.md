@@ -10,6 +10,6 @@
 
 (5) Gyűjtő-átrakó létesítmény esetén a gyűjtő-átrakó létesítmény képviselője írásban nyilatkozik arra vonatkozóan, hogy csak a 3. § (1) bekezdése szerinti állatokra vonatkozóan veszi igénybe a támogatott szolgáltatást.
 
-(6)[^1] A rendelkezésre álló támogatási keret kimerülését követően a kedvezményezett az igénybe vett szolgáltatás teljes (támogatással nem csökkentett) értékét köteles megtéríteni.
+(6)[^2] A rendelkezésre álló támogatási keret kimerülését követően a kedvezményezett az igénybe vett szolgáltatás teljes (támogatással nem csökkentett) értékét köteles megtéríteni.
 
-[^1]: A 6. § (6) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 6. § (6) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (1) bekezdése iktatta be.
