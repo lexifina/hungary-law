@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-122-20-
 | 2010-08-31 | 2007-122-20-82.3 | 11/2010. (VIII. 30.) VM rendelet |
 | 2010-12-18 | 2007-122-20-82.4 | 40/2010. (XII. 17.) VM rendelet |
 | 2011-01-01 | 2007-122-20-82.5 | 40/2010. (XII. 17.) VM rendelet |
+| 2011-03-29 | 2007-122-20-82.6 | 103/2008. (VIII. 8.) FVM rendelet |
