@@ -8,7 +8,7 @@
 
 (4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:
 
-a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (APEH, VPOP önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása. A nyilatkozatnak tartalmaznia kell, hogy a kedvezményezett hozzájárul ahhoz, hogy a támogatás folyósítója e nyilatkozat valóságtartalmának igazolását kérje az Áht. 18/C. § (13)–(15) bekezdésében meghatározott eljárásban;
+a)[^2] magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;
 
 b) a bejegyzésről szóló 60 napnál nem régebbi hitelesített igazolás;
 
@@ -77,3 +77,5 @@ Ha támogatásból megvalósuló beruházásokkal létrehozott értékre, vásá
 (12) A szerződés megkötését követően a pályázati úton megítélt támogatások kedvezményezettjeinek nevét, a támogatás célját és összegét, továbbá a támogatott program megvalósítási helyére vonatkozó adatokat – a határon túli támogatások esetében a határon túli támogatások központi nyilvántartási rendszerében rögzítve, és az erre vonatkozóan külön jogszabályban meghatározott módon közzétéve – a MeH honlapján közzé kell tenni, legkésőbb a döntés meghozatalát követő 60. napig. Az adatok hozzáférhetőségét a honlapon legalább 5 évig biztosítani kell. Nem kell közzétenni a támogatást, ha az a közzétételi határidő előtt visszavonásra kerül, vagy arról a kedvezményezett lemond.
 
 (13) A 4. § (4)–(6) és a 6. §-ban foglaltakat a szakállamtitkárság illetékes szakfőosztályai tételesen ellenőrzik.
+
+[^2]: A 6. § (4) bekezdés a) pontja a 11/2011. (III. 28.) KIM rendelet 6. § (2) bekezdés c) pontjával megállapított szöveg.
