@@ -1,0 +1,1 @@
+17. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.) 1. számú mellékletének „Állami egyetemek” alcíme a magyar ábécé által meghatározott felsorolás rendje szerint kiegészül a „Nemzeti Közszolgálati Egyetem, Budapest” szöveggel.
