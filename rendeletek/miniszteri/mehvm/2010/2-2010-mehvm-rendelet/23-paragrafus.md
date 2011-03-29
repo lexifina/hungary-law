@@ -8,7 +8,7 @@
 
 (4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:
 
-a) a támogatott nyilatkozata, vagy az adóhatóság (APEH, VPOP önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása. A nyilatkozatnak tartalmaznia kell, hogy hozzájárul ahhoz, hogy a támogatás folyósítója e nyilatkozat valóságtartalmának igazolását kérje az Áht. 18/C. § (13)–(15) bekezdésében meghatározott eljárásban;
+a)[^2] magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;
 
 b) a jogi személy bejegyzéséről szóló 60 napnál nem régebbi hitelesített igazolás, a támogatott létesítő okiratáról/alapszabályáról készített egyszerű másolatot;
 
@@ -59,3 +59,5 @@ c) a támogatott feladat megszűnt.
 (10) Nem nyújtható támogatás annak a részére, aki valótlan vagy megtévesztő adatokat szolgáltat, valamint, aki a támogatóval korábban kötött szerződésben foglalt feltételeket megszegte.
 
 (11) A támogatási szerződésben meg kell határozni, hogy a támogatással megvásárolt, létrehozott vagy felújított vagyon, a működtetési kötelezettség előírt időtartama alatt, csak a kötelezettségvállaló előzetes jóváhagyásával és a szerződésben vállalt foglalkoztatási, illetve szolgáltatási és az egyéb kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe, illetve terhelhető meg. Ha támogatásból megvalósuló beruházásokkal létrehozott értékre, vásárolt ingatlanra a támogató a támogatási szerződésben elidegenítési és terhelési tilalmat kötött ki – szerződéskötéstől számított 15 napon belül történő – bejegyeztetésének kötelezettsége és a bejegyeztetés költségei a kedvezményezettet terhelik. A pénzügyi teljesítésre csak a bejegyeztetésről, vagy annak kezdeményezéséről szóló igazolás benyújtását követően kerülhet sor.
+
+[^2]: A 23. § (4) bekezdés a) pontja a 11/2011. (III. 28.) KIM rendelet 6. § (2) bekezdés d) pontjával megállapított szöveg.

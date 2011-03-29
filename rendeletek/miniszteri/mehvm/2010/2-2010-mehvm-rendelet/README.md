@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-2-20-84
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-02-17 | 2010-2-20-84.1 | 2/2010. (II. 16.) MeHVM rendelet |
+| 2011-03-29 | 2010-2-20-84.2 | 23/2013. (IX. 30.) KIM rendelet |
