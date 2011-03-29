@@ -2,7 +2,7 @@
 
 ## A KIS ÉS KÖZÉPVÁLLALKOZÁSOK TÁMOGATÁSA
 
-## Kis- és Középvállalkozói Célelőirányzat
+## Gazdaságfejlesztést szolgáló célelőirányzat
 
 6. § (1) A KKV-k fejlődését szolgáló támogatások finanszírozását a fejlesztéspolitikáért felelős miniszter irányítása alatt álló fejezetben lévő, Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: célelőirányzat) biztosítja.
 
