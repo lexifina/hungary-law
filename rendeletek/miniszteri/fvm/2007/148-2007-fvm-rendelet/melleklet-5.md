@@ -1,0 +1,33 @@
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^26]
+
+## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007 (XII. 08.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
+
+1. A kedvezményezett azonosító adatai
+
+1.1. Az ügyfél-nyilvántartási száma
+
+1.2. A telephely szerinti élelmiszerlánc-biztonsági és állategészségügyi igazgatóság e rendelet szerinti támogatott intézkedésekben való részvételhez szükséges jóváhagyási határozatának száma, keltezése
+
+2. Az engedélyes azonosító adatai
+
+2.1. Az ügyfél-nyilvántartási száma
+
+2.2. A telephely szerinti élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a Magyar Állatorvosi Kamara engedélyének száma, keltezése
+
+3. Az állatállomány adatai
+
+3.1. Tenyészetkód
+
+3.2. A legalább egyszer fialt tenyészkocák száma a kérelem beadását megelőző hónap utolsó napján
+
+3.3. A tenyészkanok száma a kérelem beadását megelőző hónap utolsó napján
+
+4. Nyilatkozat
+
+4.1. arról, hogy a kedvezményezett valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartás-vezetési és adatszolgáltatási kötelezettségének eleget tett,
+
+4.2. arról, hogy a kedvezményezett fenti tenyészetkódú telepén lévő tenyészállatok száma megegyezik a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik
+
+5. Keltezés, a kedvezményezett és az engedélyes (cégszerű) aláírása
+
+[^26]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be.
