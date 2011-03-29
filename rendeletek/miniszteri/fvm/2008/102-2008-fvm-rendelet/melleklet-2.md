@@ -52,7 +52,9 @@ A támogatási kérelmet az erdőrészlet elhelyezkedése szerint illetékes erd
 
 1. Az ügyfél adatai
 
-|  | Ügyfél-regisztrációs szám: _ _ _ _ _ _ _ _ | Erdőgazdálkodói kód: _ _ _ _ _ _ _ _ _ _ |
+|  | Ügyfél-regisztrációs szám: | Erdőgazdálkodói kód: |
+
+|  | _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ _ |
 
 |  | Az erdőgazdálkodó neve: |
 
@@ -178,7 +180,7 @@ A támogatási kérelmet az erdőrészlet elhelyezkedése szerint illetékes erd
 
 3. Nyilatkozatok
 
-Alulírott, (név; lakcím/székhely) ................................................. erdőgazdálkodó/erdőgazdálkodó szervezet vezetője büntetőjogi felelősségem tudatában kijelentem, hogy
+Alulírott, (név; lakcím/székhely) .......................................................... erdőgazdálkodó/erdőgazdálkodó szervezet vezetője büntetőjogi felelősségem tudatában kijelentem, hogy
 
 a) a kérelemben foglalt adatok, információk és dokumentumok teljes körűek, valódiak és hitelesek;
 
@@ -190,7 +192,7 @@ d) megfelelek az államháztartásról szóló 1992. évi XXXVIII. törvény (a 
 
 e) nem minősülök nehéz helyzetben lévő vállalkozásnak.
 
-Hozzájárulok, hogy az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általam a támogatási kérelemben közölt adataimat a támogatási eljárással összefüggésben felhasználják.
+Hozzájárulok, hogy a Nemzeti Adó- és Vámhivatal (NAV), az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általam a támogatási kérelemben közölt adataimat a támogatási eljárással összefüggésben felhasználják.
 
 Tudomásul veszem, hogy meg nem fizetett köztartozás esetén az Áht. 13/A. § (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében visszatartásra kerül.
 
@@ -202,30 +204,34 @@ b) a támogatási kérelemben szereplő tuskózást, erdőfelújítás első kiv
 
 c) az általános de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismertem. Folyó pénzügyi évben és a megelőző két pénzügyi évben az 1998/2006/EK rendelet alapján
 
-□ általános de minimis támogatásban nem részesültem*;
+□ általános de minimis támogatásban nem részesültem;1
 
 □ általános „de minimis” támogatásban részesültem
 
-|  |  | jogcímen |  | euró összegben; |
+............................................. jogcímen ................................ euró összegben;
 
-|  |  | jogcímen |  | euró összegben; |
+............................................. jogcímen ................................ euró összegben;
 
-|  |  | jogcímen |  | euró összegben; |
+............................................. jogcímen ................................ euró összegben;
 
-|  |  | jogcímen |  | euró összegben; |
+............................................. jogcímen ................................ euró összegben;
 
-|  |  | jogcímen |  | euró összegben. |
+............................................. jogcímen ................................ euró összegben.
 
-* A megfelelő négyzetbe tegyen X-et!
+Tudomásul veszem, hogy amennyiben az intézkedésekkel kapcsolatban lejárt tartozásom áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számlámat vezető pénzforgalmi szolgáltató végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszem, hogy e nyilatkozat hiányában a kérelmem érdemi vizsgálat nélkül elutasításra kerül.
 
 Kérem, hogy az erdészeti hatóság kérelmemet és annak elbírálásához szükséges adataimat továbbítsa a Mezőgazdasági és Vidékfejlesztési Hivatal részére.
 
 A fenti adatok a valóságnak megfelelnek. A fenti nyilatkozatok a kérelem elválaszthatatlan részét képezik.
 
-Kelt: ................................., .......... év ...................... hó ........ nap
+Kelt: ......................, .......... év ... hó ... nap
 
 .....................................................................
 
 erdőgazdálkodó (szerv. vezető)
 
-[^31]: A 2. számú melléklet a 40/2010. (XII. 17.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+____________________
+
+1 A megfelelő négyzetbe tegyen X-et!
+
+[^31]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.

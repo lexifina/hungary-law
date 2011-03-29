@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-102-20-
 | 2010-08-31 | 2008-102-20-82.2 | 11/2010. (VIII. 30.) VM rendelet |
 | 2010-12-18 | 2008-102-20-82.3 | 40/2010. (XII. 17.) VM rendelet |
 | 2011-01-01 | 2008-102-20-82.4 | 40/2010. (XII. 17.) VM rendelet |
+| 2011-03-29 | 2008-102-20-82.5 | 24/2011. (III. 28.) VM rendelet |
