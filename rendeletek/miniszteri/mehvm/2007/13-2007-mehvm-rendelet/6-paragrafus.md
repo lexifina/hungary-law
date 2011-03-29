@@ -8,7 +8,7 @@
 
 (4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:
 
-a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (APEH, VPOP önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása. A nyilatkozatnak tartalmaznia kell, hogy a kedvezményezett hozzájárul ahhoz, hogy a támogatás folyósítója e nyilatkozat valóságtartalmának igazolását kérje az Áht. 18/C. § (13)–(15) bekezdésében meghatározott eljárásban,
+a)[^2] magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;
 
 b) a bírósági végzés másolata a bejegyzésről,
 
@@ -59,3 +59,5 @@ c) a támogatott feladat megszűnt.
 (11) A támogatási szerződésben kell meghatározni, hogy a támogatással megvásárolt, létrehozott vagy felújított vagyon, a működtetési kötelezettség előírt időtartama alatt, csak a kötelezettségvállaló előzetes jóváhagyásával és a foglalkoztatási, illetve szolgáltatási és az egyéb kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe, illetve terhelhető meg. A szerződésben meghatározott elidegenítési és terhelési tilalom esetében – szerződéskötéstől számított 15 napon belül történő – bejegyeztetésének kötelezettsége és a bejegyeztetés költségei a kedvezményezettet terhelik, továbbá, hogy pénzügyi teljesítésre csak a bejegyeztetésről vagy annak kezdeményezéséről szóló igazolás benyújtását követően kerülhet sor.
 
 (12) A szerződés megkötését követően a pályázati úton megítélt támogatások kedvezményezettjeinek nevét, a támogatás célját és összegét, továbbá a támogatott program megvalósítási helyére vonatkozó adatokat – a határon túli támogatások központi nyilvántartási rendszerében történő rögzítésén és az erre vonatkozóan külön jogszabályban meghatározott közzétételen túlmenően – a MeH honlapján közzé kell tenni, legkésőbb a döntés meghozatalát követő 60. napig. Az adatok hozzáférhetőségét a honlapon legalább 5 évig biztosítani kell. Nem kell közzétenni a támogatást, ha az a közzétételi határidő előtt visszavonásra kerül, vagy arról a kedvezményezett lemond.
+
+[^2]: A 6. § (4) bekezdés a) pontja a 11/2011. (III. 28.) KIM rendelet 6. § (2) bekezdés a) pontjával megállapított szöveg.
