@@ -30,7 +30,7 @@ c) Határon túli magyarok média- és kiemelt kulturális programjainak támoga
 
 d) Koordinációs keret, amelynek tartalma különösen a határon túli magyarok anyaországgal való kapcsolatainak fenntartását elősegítő és egyéb határon túli támogatások nyújtása, a határon túli magyar kulturális, oktatási és közösségi intézmények, más forrásból nem finanszírozható működési zavarainak elhárítása, kisebbségpolitikai szempontból kiemelten fontos rendezvények, programok támogatása;
 
-e)[^1] Gazdaságfejlesztési és vállalkozásösztönzési keret, az uniós forrásokon alapuló fejlesztések támogatását szolgálja. Feladata az erre kijelölt szervezet bevonásával, erre a célra elkülönített támogatási keret átadásával elősegíteni a külhoni magyarok pályázati lehetőségekről való tájékoztatását, versenyképességük növelését, a források eséllyel történő megszerzésére való felkészülésüket a közös térség- és intézményfejlesztés érdekében;
+e)[^3] Gazdaságfejlesztési és vállalkozásösztönzési keret, az uniós forrásokon alapuló fejlesztések támogatását szolgálja. Feladata az erre kijelölt szervezet bevonásával, erre a célra elkülönített támogatási keret átadásával elősegíteni a külhoni magyarok pályázati lehetőségekről való tájékoztatását, versenyképességük növelését, a források eséllyel történő megszerzésére való felkészülésüket a közös térség- és intézményfejlesztés érdekében;
 
 f) Elismerések, kitüntetések céljára elkülönített előirányzat-rész, amely miniszterelnöki elismerések, kiemelten a Kisebbségekért Díj alapításáról szóló 1/1995. (IX. 28.) ME rendeletben megfogalmazott kitüntetés költségeinek fedezetére szolgál.
 
@@ -38,4 +38,4 @@ f) Elismerések, kitüntetések céljára elkülönített előirányzat-rész, a
 
 (7) Az előirányzatot kezelő és a támogatott szervezet a (3)–(6) bekezdésben meghatározott előirányzati keretből nyújtott támogatásokról a szomszédos államokban élő magyaroknak nyújtott támogatások központi nyilvántartásáról szóló 233/2005. (X. 19.) Korm. rendelet szerint köteles a Nyilvántartási Rendszernek adatszolgáltatást teljesíteni.
 
-[^1]: A 9. § (5) bekezdés e) pontjának második mondata a 4/2008. (X. 1.) MeHVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 9. § (5) bekezdés e) pontjának második mondata a 4/2008. (X. 1.) MeHVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
