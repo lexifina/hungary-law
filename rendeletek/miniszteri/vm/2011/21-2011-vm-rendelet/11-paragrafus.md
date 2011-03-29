@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-11. § Hatályát veszti a tejtermelőket sújtó különleges hátrányok kezeléséhez kapcsolódó, 2010. évi különleges támogatás igénybevételének szabályairól szóló 28/2010. (III. 30.) FVM rendelet.
+11. §[^2]
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
