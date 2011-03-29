@@ -18,4 +18,6 @@ g) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehé
 
 h) tárgyév: az a naptári év, amely évben a pályázó az e rendelet szerinti támogatást igénybe veszi;
 
-i) halászati hatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve.
+i)[^1] halászati hatóság: a megyei kormányhivatal földművelésügyi igazgatósága.
+
+[^1]: Az 1. § i) pontja a 24/2011. (III. 29.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.

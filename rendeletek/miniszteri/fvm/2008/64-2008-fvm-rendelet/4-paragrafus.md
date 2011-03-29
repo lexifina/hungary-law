@@ -8,4 +8,6 @@
 
 (4) A támogatási összeg forintra történő átszámításakor a támogatási kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett euró átváltási árfolyamot kell alkalmazni.
 
-(5) A támogatás forrása az FVM fejezeti kezelésű, Folyó kiadások és jövedelemtámogatások előirányzat 10032000-01220191-51200002 számú felhasználási keretszámla.
+(5)[^3] A támogatás forrása az Vidékfejlesztési Minisztérium fejezeti kezelésű, Folyó kiadások és jövedelemtámogatások előirányzat 10032000-01220191-51200002 számú felhasználási keretszámla.
+
+[^3]: A 4. § (5) bekezdése a 24/2011. (III. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg.

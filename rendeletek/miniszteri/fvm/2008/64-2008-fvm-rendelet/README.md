@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-64-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-17 | 2008-64-20-82.1 | 64/2008. (V. 14.) FVM rendelet |
+| 2011-03-29 | 2008-64-20-82.2 | 24/2011. (III. 29.) VM rendelet |

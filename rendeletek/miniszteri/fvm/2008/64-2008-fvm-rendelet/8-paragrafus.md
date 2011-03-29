@@ -4,41 +4,39 @@
 
 (2) Ez a rendelet a Szerződés 87. és 88. cikkének a halászat ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (HL L 193., 2007.7.25., 6. o.) hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 64/2008. (V. 14.) FVM rendelethez
+Melléklet a 64/2008. (V. 14.) FVM rendelethez[^4]
 
 Támogatási kérelem
 
-a 64/2008. (V. 14.) FVM rendelet alapján
+a 64/2008. (V. 14.) FVM rendelet alapján a minőségi pontytenyésztési programban való részvétel csekély összegű támogatásához
 
-a minőségi pontytenyésztési programban való részvétel csekély összegű támogatásához
-
-Tárgyidőszak: ………… év
+Tárgyidőszak: ...... év
 
 Benyújtás helye:
 
 Mezőgazdasági és Vidékfejlesztési Hivatal Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatósága
 
-H-1385 Budapest 62., Pf. 867
+H–1385 Budapest 62., Pf. 867
 
 1. Az ügyfél adatai:
 
 Ügyfél neve:
 
-Ügyfél-regisztrációs száma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+|  | Ügyfél-regisztrációs száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Adószáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ - ⬜ ⬜
+|  | Adószáma: |  |  |  |  |  |  |  |  | – |  | – |  |  | . |
 
-Adóazonosító jele: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+|  | Adóazonosító jele: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. A telepített pontyivadék:
+2. A telepített ponty ivadék:
 
-| Fajtája | Telepített mennyisége (kg) |
+|  |  | Fajtája | Telepített mennyisége (kg) |
 
-| Összesen: |  |
+|  | Összesen: |  |  |
 
 3. Az igényelt támogatás:
 
-.............................. hektár saját használatomban üzemeltetett halastóterület után összesen: ……..…………….. eurónak megfelelő forintösszeg.
+...................................................... hektár saját használatomban üzemeltetett halastóterület után összesen: ....... eurónak megfelelő forintösszeg.
 
 4. Nyilatkozatok:
 
@@ -48,38 +46,40 @@ a) a támogatási kérelem benyújtásának időpontjában nem állok csőd-, fe
 
 b) a támogatási kérelem benyújtásának időpontjában nincs köztartozásom,
 
-c) az általam a tárgyévben a kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után telepített egynyaras pontyivadék 100%-ban elismert vagy ideiglenesen elismert származással rendelkezik,
+c) az általam a tárgyévben a kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után telepített egynyaras pontyivadék 100%-ban elismert, vagy ideiglenesen elismert származással rendelkezik,
 
 d) az általam a tárgyévben a kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után telepített pontyivadék mennyisége meghaladja az összes üzemelő halastóterületre vetítve a 30 kg/hektárt,
 
-e) a támogatási kérelem benyújtásának időpontjában nem minősülök nehéz helyzetben lévő vállalkozásnak.
+e) a támogatási kérelem benyújtásának időpontjában nem minősülök nehéz helyzetben lévő vállalkozásnak;
+
+f) tudomásul veszem, hogy amennyiben az intézkedésekkel kapcsolatban lejárt tartozásom áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számlámat vezető pénzforgalmi szolgáltató végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszem, hogy e nyilatkozat hiányában a kérelmem érdemi vizsgálat nélkül elutasításra kerül.
 
 Nyilatkozom, hogy a csekély összegű támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismertem. Folyó pénzügyi évben és a megelőző két pénzügyi évben a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 875/2007/EK rendelet alapján csekély összegű támogatásban
 
-a tárgyévben ………………………………….… jogcímen ……………… eurónak megfelelő Ft összegben részesültem/nem részesültem*
+a tárgyévben ............................. jogcímen ..................... eurónak megfelelő Ft összegben részesültem/nem részesültem*
 
-a tárgyévet megelőző évben ………………………………….… jogcímen ……………… eurónak megfelelő Ft összegben részesültem/nem részesültem*
+a tárgyévet megelőző évben ..................................... jogcímen ..................... eurónak megfelelő Ft összegben részesültem/nem részesültem*
 
-a tárgyévet megelőző második évben ………………………………….… jogcímen ……………… eurónak megfelelő Ft összegben részesültem/nem részesültem*
+a tárgyévet megelőző második évben ........................................ jogcímen ..................... eurónak megfelelő Ft összegben részesültem/nem részesültem*
 
 Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben közölt adatok a valóságnak megfelelnek.
 
-Kelt: ........………..........., .......... év ................ hónap ......... nap
+Kelt: ..., .......... év ... hónap ... nap
 
-….............……………………………..
+...............................................................
 
 kérelmező (cégszerű) aláírása
 
+* A kívánt rész aláhúzandó.
+
 5. Csatolandó mellékletek:
 
-1. Vásárolt pontyivadék telepítése esetén: a Mezőgazdasági Szakigazgatási Hivatal Központ igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a számla másolat(ok), a telepítési nyilatkozat(ok); a számlán fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
+1. Vásárolt pontyivadék telepítése esetén: a Mezőgazdasági Szakigazgatási Hivatal igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a számla másolat(ok), a telepítési nyilatkozat(ok); a számlán fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
 
-2. Saját termelésű pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatal Központ igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a haltelepítést igazoló belső dokumentum(ok), valamint a telepítési nyilatkozat(ok); a pontyivadék telepítését igazoló belső dokumentumon fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
+2. Saját termelésű pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatal igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a haltelepítést igazoló belső dokumentum(ok), valamint a telepítési nyilatkozat(ok); a pontyivadék telepítését igazoló belső dokumentumon fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
 
-3. Vásárolt tenyészanyától származó pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatal Központjának igazolása arról, hogy a telepített pontyivadék elismert, illetve ideiglenesen elismert tenyészanyától származik.
+3. Vásárolt tenyészanyától származó pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatalnak igazolása arról, hogy a telepített pontyivadék elismert, illetve ideiglenesen elismert tenyészanyától származik.
 
-4. A kérelmező által a tárgyévben üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolata.
+4. A kérelmező által a tárgyévben üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolata.
 
-–––––––––––
-
-* A kívánt rész aláhúzandó.
+[^4]: A melléklet a 24/2011. (III. 29.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.

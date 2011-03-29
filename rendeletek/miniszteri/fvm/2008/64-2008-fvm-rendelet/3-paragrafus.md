@@ -2,7 +2,7 @@
 
 ## 3. § Az e rendelet szerinti támogatást az a tógazdasági haltermelő tevékenységet folytató természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság veheti igénybe, aki vagy amely
 
-a) a tárgyévben a támogatási kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után kizárólag tenyésztő szervezet nyilvántartásában szereplő elismert vagy ideiglenes elismeréssel rendelkező tenyészanyától származó pontyivadékot telepített, amelyek listáját a Mezőgazdasági Szakigazgatási Hivatal Központjának (a továbbiakban: MgSzH) a tenyésztő szervezeti és fajtaelismerés rendjéről szóló 123/2005. (XII. 27.) FVM rendelet 15. § (5) bekezdése szerinti közleménye tartalmaz;
+a)[^2] a tárgyévben a támogatási kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után kizárólag tenyésztő szervezet nyilvántartásában szereplő elismert vagy ideiglenes elismeréssel rendelkező tenyészanyától származó pontyivadékot telepített, amelyek listáját a Mezőgazdasági Szakigazgatási Hivatalnak (a továbbiakban: MgSzH) a tenyésztő szervezeti és fajtaelismerés rendjéről szóló 123/2005. (XII. 27.) FVM rendelet 15. § (5) bekezdése szerinti közleménye tartalmaz;
 
 b) nyilatkozik a támogatási kérelem benyújtását megelőző két pénzügyi évben és a támogatási kérelem benyújtása szerinti pénzügyi évben kapott valamennyi, a halászati csekély összegű támogatásokra vonatkozó rendelet hatálya alá tartozó csekély összegű támogatás összegéről;
 
@@ -15,3 +15,5 @@ cb) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, vagy
 cc) az általa telepített pontyivadék mennyisége meghaladja az összes üzemelő halastóterületre vetítve a 30 kg/hektárt,
 
 cd) nem minősül nehéz helyzetben lévő vállalkozásnak.
+
+[^2]: A 3. § a) pontja a 24/2011. (III. 29.) VM rendelet 3. § (3) bekezdése szerint módosított szöveg.
