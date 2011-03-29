@@ -826,6 +826,6 @@
 
 ## 2. A 6. számú melléklet 3.2. pontja szerinti átvételi eljárás szigorított felügyelete a bejelentett szervezet váratlan ellenőrzéseivel valósul meg. Az ilyen ellenőrzések alkalmával a bejelentett szervezet a nyomástartó berendezésen ellenőrzéseket végez.
 
-9. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^42]
+9. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^43]
 
-[^42]: A 9. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.
+[^43]: A 9. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.

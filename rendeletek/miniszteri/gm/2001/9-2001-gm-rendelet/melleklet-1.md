@@ -1,8 +1,4 @@
-## 30. § E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
-
-## – a Tanács 87/404/EGK irányelve az egyszerű nyomástartó edényekről (módosította: a Tanács 90/488/EGK irányelve, a Tanács 93/68/EGK irányelve);
-
-## – az Európai Parlament és a Tanács 97/23/EK irányelve a nyomástartó berendezésekre vonatkozó jogszabályok összehangolásáról.
+## való megfelelést szolgálja.
 
 ## Mellékletek jegyzéke
 

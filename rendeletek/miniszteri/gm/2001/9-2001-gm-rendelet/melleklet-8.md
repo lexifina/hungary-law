@@ -74,6 +74,6 @@
 
 ## Csővezetékek a 16. § (1) bekezdés cb) pont második gondolatjeles bekezdése szerint
 
-8. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^41]
+8. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^42]
 
-[^41]: A 8. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.
+[^42]: A 8. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.

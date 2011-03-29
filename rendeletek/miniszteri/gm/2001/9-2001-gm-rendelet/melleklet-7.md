@@ -258,7 +258,7 @@
 
 ## A szerkezeti elemek előkészítése (pl. az alakítás, leélezés) nem okozhat – repedésekkel vagy a mechanikai tulajdonságok változásával – olyan károsodást, amely csökkentheti a nyomástartó berendezés biztonságát.
 
-## 3.1.2.[^39] Állandó kötések
+## 3.1.2.[^40] Állandó kötések
 
 ## Az állandó kötés és az átmeneti övezet nem tartalmazhat a berendezés biztonságát csökkentő felületi vagy belső hibát.
 
@@ -506,7 +506,7 @@
 
 ## Ha egyéb követelmények nem írnak elő más értéket, az acél a 4.1. a) pont követelményeit kielégítve kellően képlékeny (szívós), ha a szabványos szakítóvizsgálattal mért szakadási nyúlása nagyobb, mint 14% és az ISO V próbatesten 20 °C-on, illetőleg legfeljebb a tervezett legkisebb üzemi hőmérsékleten mért hajlító-törési energiája legalább 27 J.
 
-7. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^40]
+7. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^41]
 
-[^39]: A 6. számú melléklet 3.1.2. pontjának utolsó mondata a 4/2002. (VI. 21.) GKM rendelet 14. §-ával megállapított szöveg.
-[^40]: A 7. számú melléklet 1–9. ábrái a 4/2002. (VI. 21.) GKM rendelet 14. §-a szerint módosítottak.
+[^40]: A 6. számú melléklet 3.1.2. pontjának utolsó mondata a 4/2002. (VI. 21.) GKM rendelet 14. §-ával megállapított szöveg.
+[^41]: A 7. számú melléklet 1–9. ábrái a 4/2002. (VI. 21.) GKM rendelet 14. §-a szerint módosítottak.

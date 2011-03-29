@@ -1,4 +1,4 @@
-## A 10. és 11. § szerinti bejelentett, vagy elismert harmadik félként működő, vagy üzemeltetői ellenőrző szervezetekre vonatkozó követelmények[^35]
+## A 10. és 11. § szerinti bejelentett, vagy elismert harmadik félként működő, vagy üzemeltetői ellenőrző szervezetekre vonatkozó követelmények[^36]
 
 ## 1. Az ellenőrzésen kívül más tevékenységgel is foglalkozó gazdálkodó szervezet részét képező bejelentett ellenőrző szervezet vagy üzemeltetői ellenőrző szervezet azonosítható legyen a szervezeten belül.
 
@@ -20,4 +20,4 @@
 
 2. számú melléklet a 9/2001. (IV. 5.) GM rendelethez
 
-[^35]: Az 1. számú melléklet címe a 4/2002. (VI. 21.) GKM rendelet 14. §-ával megállapított szöveg.
+[^36]: Az 1. számú melléklet címe a 4/2002. (VI. 21.) GKM rendelet 14. §-ával megállapított szöveg.
