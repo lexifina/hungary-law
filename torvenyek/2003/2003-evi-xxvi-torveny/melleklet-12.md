@@ -150,15 +150,11 @@ Vasúti hidak:
 
 |
 
-Szolnok térségében, a (Horvátország) – Gyékényes térsége – Budapest [Ferihegy] – Záhony
-
-térsége – (Ukrajna) nagysebességű vasútvonalon
+Szolnok térségében, a (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) nagysebességű vasútvonalon
 
 |
 
-Szegednél, a (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest [Ferihegy] – Röszke
-
-és Kübekháza – (Szerbia és Románia) nagysebességű vasútvonalon
+Szegednél, a (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) nagysebességű vasútvonalon
 
 |
 

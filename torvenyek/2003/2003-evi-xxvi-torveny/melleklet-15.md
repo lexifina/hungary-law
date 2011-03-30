@@ -4,7 +4,7 @@ A repülőterek besorolása
 
 Országos jelentőségű polgári repülőterek:
 
-– Budapest [Ferihegy]
+– Budapest Liszt Ferenc Nemzetközi Repülőtér
 
 – Debrecen
 

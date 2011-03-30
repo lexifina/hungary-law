@@ -4,9 +4,9 @@ Az országos vasúti törzshálózat elemei
 
 Tervezett nagysebességű vasútvonalak:
 
-– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest [Ferihegy] – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
+– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
 
-– (Horvátország) – Gyékényes térsége – Budapest [Ferihegy] – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
+– (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
 
 A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalak:
 
