@@ -50,7 +50,7 @@ p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás 
 
 q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 
-r) a rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a rendszerirányító javaslatára dönt a napi földgáz és kapacitás kereskedelmi piacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
+r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt a napi földgáz és kapacitás kereskedelmi piacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
 
 s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság valamint a hazai termelésű földgázt termelő irataiba betekinteni, ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (2) bekezdésében meghatározott üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől, a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
 

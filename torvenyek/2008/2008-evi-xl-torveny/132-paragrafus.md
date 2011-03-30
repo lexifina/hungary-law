@@ -28,7 +28,7 @@
 
 12. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony részletes szabályait, az egyetemes szolgáltatási szabályzatot, az egyetemes szolgáltatási igény bejelentésének módját, az egyetemes szolgáltatás igénybevételére vonatkozó szerződés létrejöttének módját, tartalmi és formai követelményeit, a felek szerződésszegésének eseteit és jogkövetkezményeit, valamint a szerződés megszűnésének eseteit,
 
-13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, valamint az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet biztosítására vonatkozó rendelkezéseket,
+13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, valamint az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására vonatkozó rendelkezéseket,
 
 14. a végső menedékes szolgáltatásra, és a végső menedékes szolgáltató kijelölésére vonatkozó szabályokat, a végső menedékes szolgáltatási szabályzatot, valamint a végső menedékes szolgáltatási szerződésre vonatkozó részletes rendelkezéseket,
 

@@ -50,4 +50,4 @@ d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérele
 
 (11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és a Magyar Köztársaság közötti nemzetközi szerződés ezt biztosítja.
 
-(12)
+(12) A szállítási rendszerüzemeltetési engedély kiadásának feltételei tekintetében a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet az általános szabályoktól eltérően is rendelkezhet azon kérelmező vonatkozásában, amely földgáz szállítóvezeték tulajdonjogával a szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásakor nem rendelkezik.
