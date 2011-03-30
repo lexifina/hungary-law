@@ -2,7 +2,7 @@
 
 7. § (1) Saját üzleti kockázatára – a (2) bekezdésben foglalt eltéréssel – bárki létesíthet új termelő kapacitást a jelen törvényben és a külön jogszabályokban meghatározottak szerint.
 
-(2) A villamosenergia-rendszer szabályozhatósága és biztonságos működése érdekében, valamint a műszakilag korlátozott lehetőségekre való tekintettel – a háztartási méretű kiserőművek és a villamosműhöz nem csatlakozó kiserőművek kivételével – szélerőművek, illetve szélerőmű parkok létesítése a Hivatal által – az átviteli rendszerirányító közreműködésével – külön jogszabályban meghatározott feltételek szerint meghirdetett pályázat alapján lehetséges.
+(2) A villamosenergia-rendszer szabályozhatósága és biztonságos működése érdekében, valamint a műszakilag korlátozott lehetőségekre való tekintettel – a háztartási méretű kiserőművek és a villamosműhöz nem csatlakozó kiserőművek kivételével – szélerőművek, illetve szélerőmű parkok létesítése a szélerőmű kapacitás létesítésére irányuló pályázati kiírás feltételeiről, a pályázat minimális tartalmi követelményeiről, valamint a pályázati eljárás szabályairól szóló miniszteri rendeletben meghatározott feltételek szerint meghirdetett pályázat alapján lehetséges.
 
 (3) A (2) bekezdésben meghatározott pályázatot az Európai Unió Hivatalos Lapjában és a Hivatal honlapján kell közzétenni, legalább hat hónappal az ajánlattétel benyújtásának határidejét megelőzően.
 

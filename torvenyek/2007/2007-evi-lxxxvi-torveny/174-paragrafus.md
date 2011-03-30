@@ -8,6 +8,6 @@ készíti el.
 
 (2) A rendszerhasználati díjak 2008. évi árszintjét az 5/2005. (I. 21.) GKM rendelet szerint kell meghatározni. A 142. § (7)–(9) bekezdéseiben foglaltakat a rendszerhasználati díjak árszintjének 2008. január 1-jén esedékes módosítását követő első alkalommal kell alkalmazni.
 
-(3) A villamos energiáról szóló 2001. évi CX. törvény 125. § (2) bekezdése szerinti, a kapcsoltan termelt, valamint a megújuló energiaforrást és a hulladékból nyert energiát felhasználó erőművek termelésének elősegítésére szolgáló, a rendszerirányítási díjba épített elemből származó bevétel és a kifizetések 2007. december 31-i egyenlegét az e törvény 142. § (1) bekezdés a) pontja szerinti átviteli rendszerirányítási díj meghatározásakor figyelembe kell venni.
+(3) A villamos energiáról szóló 2001. évi CX. törvény 98. § (1) bekezdése szerinti, a rendszerirányítási díj részeként az átállási költségek térítése céljából beszedett pénzeszköz kezelésére az átviteli rendszerirányító által létrehozott elkülönített számla e törvény hatálybalépésének napjára vonatkozó egyenlegét az átviteli rendszerirányító bevételként számolhatja el. Ezt a bevételt az átviteli rendszerirányítási díj szabályozásánál csökkentő tételként figyelembe kell venni.
 
 (4) A 147. § (1) bekezdése szerinti pénzeszközök mértékét, vagy annak módosítását a költségvetési törvényben kell megállapítani.
