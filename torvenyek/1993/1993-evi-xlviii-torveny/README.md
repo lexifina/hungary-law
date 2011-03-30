@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2010-09-01 | 2010. évi XLIII. törvény | 1993-48-00-00.41 |
 | 2010-12-31 | 2010. évi CLXXXI. törvény | 1993-48-00-00.42 |
 | 2011-01-01 | 2010. évi CLII. törvény | 1993-48-00-00.43 |
+| 2011-03-30 | 2011. évi XXIX. törvény | 1993-48-00-00.44 |
