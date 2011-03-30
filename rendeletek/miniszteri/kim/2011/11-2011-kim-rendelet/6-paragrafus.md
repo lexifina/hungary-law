@@ -1,30 +1,6 @@
 6. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg
-
-a) a Miniszterelnökség fejezetnél a hazai nemzeti és etnikai kisebbségek, valamint a határon túli magyarok támogatásával kapcsolatos fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 13/2007. (IV. 24.) MeHVM rendelet 6. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:]
-
-## „a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;”
-
-b) a Miniszterelnökség fejezetnél a hazai nemzeti és etnikai kisebbségek, valamint a határon túli magyarok támogatásával kapcsolatos fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 1/2008. (V. 8.) MeHVM rendelet 6. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:]
-
-## „a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;”
-
-c) a Miniszterelnökség fejezetnél a hazai nemzeti és etnikai kisebbségek, valamint a határon túli magyarok támogatásával kapcsolatos fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 2/2009. (II. 14.) MeHVM rendelet 6. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:]
-
-## „a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;”
-
-d) a Miniszterelnökség fejezetnél a hazai nemzeti és etnikai kisebbségek, valamint a határon túli magyarok támogatásával kapcsolatos fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 2/2010. (II. 16.) MeHVM rendelet 23. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(4) Támogatási szerződés akkor köthető, ha a következő dokumentumok rendelkezésre állnak:]
-
-„a) magyarországi kedvezményezett nyilatkozata, vagy az adóhatóság (Nemzeti Adó- és Vámhivatal, önkormányzati adóhatóság) igazolása arról, hogy a kedvezményezettnek nincs esedékessé vált és meg nem fizetett köztartozása;”
+(2)[^2]
 
 Melléklet a 11/2011. (III. 28.) KIM rendelethez
 
@@ -133,3 +109,5 @@ Dátum: ............... 2011. .............. hó .... nap
 | 1055 Budapest, Kossuth Lajos tér 4. | Telefonszám: (06 1) 795 3033 |
 
 | Kérjük, hogy a borítékra írják rá: ..................................................................................... Nemzetiségi Tanulmányi ösztöndíj |
+
+[^2]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
