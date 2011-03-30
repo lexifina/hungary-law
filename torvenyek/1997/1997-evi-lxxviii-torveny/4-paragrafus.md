@@ -14,6 +14,4 @@ c) a nemzetközi egyezményekből adódó állami feladatok ellátásáról,
 
 d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról.
 
-[e) az építésügyi monitoringrendszer és az e-közmű nyilvántartása létrehozásáról és működtetéséről.]
-
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is – az építésügyért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
