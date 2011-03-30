@@ -18,7 +18,11 @@ e) ionizáló sugárzás: a közvetlenül vagy közvetve ionizáló részecskék
 
 f) nukleáris láncreakció: az atommaghasadások olyan sorozata, amelyet a hasadási folyamat során felszabaduló neutronok tartanak fenn;
 
-g) nukleáris létesítmény: az atomerőmű, atomfűtőmű, kutató és oktató atomreaktor, továbbá minden más olyan létesítmény, amelyet a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés III. cikk (1) és (4) bekezdésének végrehajtásáról szóló biztosítéki megállapodás 98. cikkének 2. I. pontja ekként határoz meg;
+g) nukleáris létesítmény:
+
+a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss és kiégett fűtőelem tárolására szolgáló létesítmény; és
+
+b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcsolódó, ugyanazon a telephelyen található, a radioaktív hulladék tárolására szolgáló létesítmények, amennyiben külön létesítménynek minősülnek.
 
 h) nukleáris rendszer, berendezés: a nukleáris létesítményeknek a nukleáris biztonságra hatással lévő rendszerei, berendezései;
 
@@ -55,3 +59,5 @@ x) SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi V
 y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
 
 z) ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának a kizárása, a környezet elemeitől történő elszigeteléssel.
+
+zs) nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme.
