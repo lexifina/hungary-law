@@ -1,0 +1,7 @@
+154. § A Get. „A szállító- és az elosztóvezetékhez való csatlakozás” alcíme a következő 70/A. §-sal és 70/B. §-sal egészül ki:
+
+„70/A. § (1) A szállítóvezeték egy belépési pontján legfeljebb a kapacitás 90%-a köthető le a rendszerhasználók által egy gázévre vagy azt meghaladó időtartamra. Amennyiben azonos belépési ponton az egy évet meghaladóan lekötni szándékozott igények és az egy évet meghaladóan már lekötött kapacitások összege meghaladja a belépési pont kapacitásának 90%-t, úgy a lekötni szándékozott igényeket az Üzemi és Kereskedelmi Szabályzatban meghatározott módon kell kielégíteni. Az igény kielégítés Üzemi és Kereskedelmi Szabályzatban meghatározott rendjét az Európai Unió földgázpiacán alkalmazott a kapacitás allokációs mechanizmusokra vonatkozó rendeletek figyelembevételével kell kialakítani.
+
+(2) A Kormány rendeletben a szállítóvezeték egy belépési pontjára az egy gázévre vagy azt meghaladó időtartamra vonatkozó szerződések esetében az (1) bekezdésben meghatározott mértéktől alacsonyabb értéket is meghatározhat.
+
+70/B. § A vásárolt kapacitás az adott felhasználási helyen lévő csatlakozási ponthoz kapcsolódó, a felhasználási hely vagy csatlakozási pont mindenkori tulajdonosát megillető vagyoni értékkel bíró jog. Ha a tulajdonos személye az adott felhasználási helyen megváltozik, illetve a felhasználási hely vagy a csatlakozási pont átruházásra kerül, a rendelkezésre álló teljesítmény átszáll az új tulajdonosra.”

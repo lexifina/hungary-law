@@ -1,0 +1,3 @@
+173. § A Get. 97/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Földgázellátási válsághelyzet esetén a szállítási rendszerirányító elrendelheti a földgáznak a Magyar Köztársaság területén az együttműködő földgázrendszeren keresztül történő átszállítására vonatkozó szerződések szerinti földgázmennyiség arányos csökkentését, amennyiben ezen szerződések szerinti beszállító a belföldi felhasználók ellátására vonatkozó szerződéseiből fakadó kötelezettségeit nem teljesíti, vagy ha az átszállítandó mennyiséget a rendszerhasználó nem, vagy nem teljes egészében táplálja be a rendszerbe. A csökkentést a kieső forrás mértékéig kell végrehajtani.”

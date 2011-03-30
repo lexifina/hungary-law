@@ -1,0 +1,9 @@
+52. § A VET. 43. §-a és 44. §-a helyébe a következő rendelkezések lépnek:
+
+„43. § (1) A hálózati engedélyes köteles gondoskodni a villamosenergia-fogyasztásra vonatkozó számlázás alapjául szolgáló mérési adatok – beleértve a fogyasztásmérő berendezés kezdő és záró mérőállását – gyűjtéséről, számításáról és a villamosenergia-vásárlási szerződésben részes villamosenergia-kereskedőnek történő továbbításáról a 40. § (4) bekezdése szerinti ütemezésben, valamint a 47/B. § (5) bekezdésben meghatározott esetben. A felhasználók részére a hálózati engedélyesnek elszámolási időszakonként a Vhr.-ben meghatározott módon biztosítani kell a mérőállások különbségének és az elszámolás alapját képező mennyiségnek az egyezőségét.
+
+(2) A hálózati engedélyes a felhasználó részére a rendszerhasználati díjakat tételesen is tartalmazó, részletes számlát állít ki, kivéve, ha a felhasználó hálózathasználati szerződését a 63. § (1) bekezdése alapján a villamosenergia-kereskedő kezeli és a felhasználó hálózathasználati szerződésében a rendszerhasználati díjak fizetőjeként a villamosenergia-kereskedő van feltüntetve.
+
+(3) A (2) bekezdésben meghatározott számla elektronikus és nyomtatott másolatának egyszeri kiadását a hálózati engedélyes és a villamosenergia-kereskedő külön díj fizetéséhez nem kötheti.
+
+44. § Ha jogszabály vagy a hálózathasználati szerződés ettől eltérően nem rendelkezik a villamosenergia-kereskedő a szerződésben meghatározott időszakban, a hálózati engedélyes tulajdonában lévő hiteles fogyasztásmérő berendezés adatai alapján a 40. § (4) bekezdésében meghatározott leolvasási gyakorisággal egyezően számolja el az értékesített villamosenergia-mennyiséget. Az elszámolás során tájékoztatni kell a felhasználót az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállásról.”

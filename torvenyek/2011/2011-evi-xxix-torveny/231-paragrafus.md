@@ -1,0 +1,1 @@
+231. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (6) bekezdés b) pontjában az „a Ferihegyi Repülőtéri Tűzoltóság” szövegrész helyébe az „az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága” szöveg lép.

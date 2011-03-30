@@ -1,0 +1,7 @@
+151. § (1) A Get. 65. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A szociálisan rászoruló fogyasztó fizetési késedelem esetén a (2) bekezdésben meghatározott kedvezményeket veheti igénybe. Ha szociálisan rászoruló fogyasztó a részletfizetési lehetőség, illetve a kapott fizetési haladék ellenére sem rendezi a tartozását, vagy a részletfizetésről, illetve halasztott fizetésről szóló megállapodásban foglaltakat nem tartja be, a további vételezést a földgázkereskedő előre fizető mérő felszereléséhez kötheti. Amennyiben a szociálisan rászoruló fogyasztó az előre fizető mérő felszerelésébe nem egyezik bele, illetve annak felszerelését, üzembe helyezését akadályozza vagy meghiúsítja, az ellátásból a 29. § (3)–(4) bekezdésének megfelelően kikapcsolható. Az előre fizető mérő használatával vételezett földgáz ára nem haladhatja meg azt az árat, amelyet a szociálisan rászoruló fogyasztó a földgáz-kereskedelmi szerződése alapján, az előre fizető mérő hiányában fizetne.”
+
+(2) A Get. 65. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (5) bekezdés szerinti esetben az előre fizető mérő felszerelésének, és a fogyasztásmérő berendezés bekötéséhez szükséges mérőhely-átalakítás költsége a földgázelosztót terheli. Az előre fizető mérő feltöltési rendszerének üzemeltetéséhez és a feltöltés biztosításához kapcsolódó költségek a földgázkereskedőt terhelik. Az előre fizető mérő tulajdonjogára a fogyasztásmérőre vonatkozó általános szabályok irányadók.”

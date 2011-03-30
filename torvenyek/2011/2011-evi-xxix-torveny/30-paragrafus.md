@@ -1,0 +1,3 @@
+30. § A VET. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A termelő kérelmére a Hivatal – figyelembe véve a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben, valamint a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendeletben meghatározott feltételeket – az eredetigazolás kiállításával igazolja a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia és a nagyhatékonyságú hasznos hőigényen alapuló kapcsolt hő- és villamosenergia-termelésből származó villamos energia mennyiségét.”

@@ -1,0 +1,19 @@
+19. § (1) A Bt. 50/C. § helyébe a következő rendelkezés lép:
+
+„50/C. § (1) A 2004. január 1-jét megelőzően idegen ingatlanon megépült és üzembe helyezett földgázelosztó-vezetékek tekintetében, amennyiben azok elhelyezésére a szolgalmi jog alapítását követően, annak az ingatlan-nyilvántartásba való bejegyzése nem történt meg, a bejegyzésre a bányafelügyelet gázelosztó-vezetékre kiadott jogerős és végrehajtható használatbavételi engedélye alapján kerülhet sor. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.
+
+(2) A 2004. január 1-jét megelőzően idegen ingatlanon megépült és üzembe helyezett földgázelosztó-vezetékek tekintetében, amennyiben azok elhelyezésére a szolgalmi jog alapítása nem történt meg, vagy az (1) bekezdésben meghatározott használatbavételi engedély nem lelhető fel, a bányafelügyelet az érintett földgázelosztó-vezetékek tekintetében az engedélyes 2012. december 31. napjáig benyújtott kérelmére vezetékjogot állapít meg. A jogerős és végrehajtható határozattal a bányafelügyelet megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt.
+
+(3) A 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett olyan gázelosztó-vezetékek tekintetében, amelyek korábban egybefüggő telephelyen belül csatlakozó-, illetve fogyasztói vezetékként működtek, és azok elhelyezésére vonatkozó szolgalmi jog alapítása nem történt meg, vagy a szolgalmi jogra vonatkozó engedély nem lelhető fel, vagy az ingatlan-nyilvántartásba való bejegyzése nem történt meg, az engedélyes 2012. december 31. napjáig benyújtott kérelmére a bányafelügyelet az érintett vezetékek tekintetében vezetékjogot állapít meg. A jogerős és végrehajtható határozattal a bányafelügyelet megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt.
+
+(4) A bányafelügyelet műszaki-biztonsági okokból jogosult a (3) bekezdésben meghatározott gázelosztó-vezetékek tekintetében átalakítási kötelezettséget előírni.
+
+(5) A szolgalmi jog utólagos bejegyzése, vagy a vezetékjog utólagos megállapítása és bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.”
+
+(2) A Bt. a következő 50/D. §-sal egészül ki:
+
+„50/D. § (1) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítását követően, annak az ingatlan-nyilvántartásba való bejegyzése nem történt meg, a bejegyzésre a bányafelügyelet által kiadott jogerős és végrehajtható használatbavételi engedély alapján kerülhet sor. Amennyiben a szolgalmi jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.
+
+(2) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítása nem történt meg, vagy az (1) bekezdésben meghatározott használatbavételi engedély nem lelhető fel, a fővárosi vagy megyei kormányhivatal az érintett létesítmények tekintetében a bányavállalkozó 2014. december 31. napjáig benyújtott kérelmére szolgalmi jogot állapít meg. A jogerős és végrehajtható határozattal a fővárosi vagy megyei kormányhivatal megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
+
+(3) A szolgalmi jog utólagos bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.”

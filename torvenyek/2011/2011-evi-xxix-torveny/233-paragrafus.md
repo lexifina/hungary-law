@@ -1,0 +1,1 @@
+233. § Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 1/2., 1/4. és 1/5. számú mellékletében a „Budapest [Ferihegy]” szövegrészek helyébe – a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendeletben foglalt eljárástól eltekintve – a „Budapest Liszt Ferenc Nemzetközi Repülőtér” szöveg lép.

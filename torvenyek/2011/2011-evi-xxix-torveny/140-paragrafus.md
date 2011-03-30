@@ -1,0 +1,3 @@
+140. § A Get. 31. §-a helyébe a következő rendelkezés lép:
+
+„31. § Ha a földgázkereskedő nem egyetemes szolgáltatás keretében lakossági fogyasztót is ellát, a 36. § rendelkezéseit megfelelően kell alkalmazni a lakossági fogyasztóval megkötésre kerülő földgáz-kereskedelmi szerződés vonatkozásában, azzal, hogy a szerződés földgázkereskedő általi egyoldalú módosítása közzétételének és az árváltozás bejelentésének módjára és határidejére a kereskedő üzletszabályzatában rögzített előírások az irányadók.”

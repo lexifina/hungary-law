@@ -1,0 +1,11 @@
+135. § A Get. „Földgáztárolás” alcíme a következő 27/A. §-sal egészül ki:
+
+„27/A. § (1) A földgáztároló engedélyes köteles a tárolói mobilkapacitást, valamint a be- és kitárolási kapacitást csomagként és egyedileg az üzletszabályzatában rögzített módon meghirdetni, és biztosítani a rendszerhasználó számára a meghirdetett szolgáltatások közötti szabad termékválasztást.
+
+(2) Az Üzemi és Kereskedelmi Szabályzatban meghatározott kapacitáslekötési időszakban a lekötött kapacitásokkal igénybe nem vett földgáztárolói szabad kapacitásokat egy gázévre történő értékesítésre – a (3) bekezdésben foglalt kivétellel – fel kell ajánlani. Nyilvántartásba vett új kapacitások esetében gázév közben is a kapacitáslekötési időszakban alkalmazott szabályok szerint kell eljárni.
+
+(3) A (2) bekezdés szerinti kötelezettség nem vonatkozik a biztonsági földgázkészletezést végző engedélyesnek azon földgáztárolói szabad kapacitásaira, amelyekre vonatkozóan jogszabály alapján hosszú távú tárolási kötelezettsége van.
+
+(4) Földgáztárolóban elhelyezett, a földgáz biztonsági készletezéséről szóló törvényben (a továbbiakban: Fbkt.) meghatározott biztonsági készlethez szükséges kapacitásokat a földgáztároló engedélyes külön jogszabályban meghatározott versenytárgyalási feltételek szerint biztosítja. Földgázellátási válsághelyzet esetén a biztonsági földgázkészlet kitárolását a miniszter által elrendelt módon, a földgáztároló engedélyes üzletszabályzatában rögzített feltételek szerint kell végezni. A Magyar Szénhidrogén Készletező Szövetség a rendelkezésre álló kapacitásait – külön jogszabályban meghatározott feltételek szerint – másodlagos kereskedelem keretében értékesítheti.
+
+(5) A földgáz Magyar Köztársaság területén, az együttműködő földgázrendszeren történő átszállítása során a szállíttatót és a bértároltatót a hazai felhasználókkal azonos bánásmódban kell részesíteni, és megilletik őket a szállított, vagy a tárolt földgázkészlet felhasználásával kapcsolatos nemzetközi megállapodások és európai uniós jogszabályok által biztosított garanciák.”

@@ -1,0 +1,7 @@
+160. § A Get. 78. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek, egyidejűleg a § a következő (4) bekezdéssel egészül ki:
+
+„(2) A szüneteltetés kezdő időpontját és előrelátható időtartamát, valamint a szükséges biztonsági intézkedéseket az üzletszabályzatban rögzített módon, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal – korábban a felhasználókkal és az érintett engedélyesekkel közölni kell. Az Üzemi és Kereskedelmi Szabályzat meghatározott felhasználói körben előzetes egyeztetési kötelezettséget írhat elő. A rendszerhasználókkal és a felhasználókkal történő előzetes egyeztetés szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
+
+(3) A be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén a rendszerüzemeltető a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint a Hivatal határozatában meghatározott pótdíj megfizetésére köteles. Ha a rendszerüzemeltető a szüneteltetés előzetes bejelentésével késedelembe esik, a rendszerhasználók jogosultak az időpontot elutasítani. Ebben az esetben az érintett felek a szüneteltetés időpontjának meghatározása érdekében kötelesek ismételten egyeztetni. A szünetelés túllépése indokoltságát a Hivatal jogosult elbírálni.
+
+(4) A (3) bekezdés szerinti pótdíjon felül a rendszerhasználó jogosult az igazolt kárainak megtérítését is követelni.”
