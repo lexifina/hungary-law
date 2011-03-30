@@ -18,7 +18,7 @@ f) a Gazdasági Versenyhivatal;
 
 g) az Országos Műszaki Fejlesztési Bizottság;
 
-h)
+h) a Magyar Energia Hivatal;
 
 i) a Pénzügyi Szervezetek Állami Felügyelete.
 
