@@ -1,6 +1,6 @@
 ## Működtetés
 
-45. § (1) A Magyar Állam és a Budapest Ferihegy Nemzetközi Repülőtér vagyonkezelője közötti vagyonkezelési szerződésnek – a külön jogszabályokban meghatározottakon túl – tartalmaznia kell a repülőtér fejlesztésére, felújítására, karbantartására, a leszállási, repülőtér-használati díjak beszedésére, az utasforgalmat szolgáló létesítmények, valamint a poggyász, az üzem- és kenőanyag, az áruk és postai küldemények kezelésére szolgáló létesítmények üzemeltetésére (a továbbiakban együtt: működtetés) vonatkozó kötelezettségeket és jogosultságokat is.
+45. § (1) A Magyar Állam és a Budapest Liszt Ferenc Nemzetközi Repülőtér vagyonkezelője közötti vagyonkezelési szerződésnek – a külön jogszabályokban meghatározottakon túl – tartalmaznia kell a repülőtér fejlesztésére, felújítására, karbantartására, a leszállási, repülőtér-használati díjak beszedésére, az utasforgalmat szolgáló létesítmények, valamint a poggyász, az üzem- és kenőanyag, az áruk és postai küldemények kezelésére szolgáló létesítmények üzemeltetésére (a továbbiakban együtt: működtetés) vonatkozó kötelezettségeket és jogosultságokat is.
 
 (2) A vagyonkezelői jog átruházásához az államháztartásért felelős miniszter egyetértése szükséges.
 

@@ -4,7 +4,7 @@
 
 ## Kizárólagos állami tulajdonba tartozó repülőtér
 
-36/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 172. §-ának d) pontjában megjelölt nemzetközi kereskedelmi repülőterek közül az állam kizárólagos tulajdonába a Budapest Ferihegy Nemzetközi Repülőtér
+36/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 172. §-ának d) pontjában megjelölt nemzetközi kereskedelmi repülőterek közül az állam kizárólagos tulajdonába a Budapest Liszt Ferenc Nemzetközi Repülőtér
 
 a) földterülete a rajta lévő felépítményekkel együtt,
 
