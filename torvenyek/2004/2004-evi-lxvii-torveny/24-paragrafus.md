@@ -2,9 +2,9 @@
 
 (2) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
 
-a) az árvízi tározó területével érintett földrészletek jegyzékét,
+a) a vízkárelhárítási célú szükségtározó területével érintett földrészletek jegyzékét,
 
-b) az egyszeri térítés és a kártalanítás, valamint az igénybevétel részletes szabályait.
+b)
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a területfejlesztés stratégiai tervezéséért felelős miniszter egyetértésével kiadott rendeletben határozza meg a Vásárhelyi-terv integrált terület- és vidékfejlesztés programját.
 

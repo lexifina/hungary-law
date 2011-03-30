@@ -1,4 +1,4 @@
-17. § (1) Az árvízi tározók töltő-ürítő és határoló vízgazdálkodási létesítményeinek (így például: zsilipek, töltő-ürítő csatornák, tározó gátak) üzemeltetése és fenntartása állami feladat.
+17. § (1) A vízkárelhárítási célú szükségtározók töltő-ürítő és határoló vízgazdálkodási létesítményeinek (így például: zsilipek, töltő-ürítő csatornák, tározó gátak) üzemeltetése és fenntartása állami feladat.
 
 (2) A VTT-ben előirányzott tájgazdálkodási célú vízhasználatok mentesek – a külön jogszabályokban meghatározott – vízkészletjárulék fizetése alól.
 

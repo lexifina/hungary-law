@@ -12,10 +12,10 @@ c) az árvíz szabályozott kivezetését és a folyóba történő szükség sz
 
 a) a Tisza-völgy árvízvédelmi műveinek előírás szerinti kiépítését, összhangban a nagyvízi medrek vízszállító képességének növelésével, a lefolyás elősegítését szolgáló beavatkozásokkal, biztosítva a folyók hullámtereinek táj- és földhasználatváltását;
 
-b) a Tisza-völgyben az ártér reaktiválását szabályozott vízkivezetéssel biztosító árvízi tározókat a belső vízkormányzást és a víz továbbvezetését szolgáló létesítményekkel;
+b) a Tisza-völgyben az ártér reaktiválását szabályozott vízkivezetéssel biztosító vízkárelhárítási célú szükségtározókat a belső vízkormányzást és a víz továbbvezetését szolgáló létesítményekkel;
 
 c) a tározók megépítése és a nagyvízi medrek vízszállító képességének növelése által a Tisza teljes hazai szakaszán a rendkívüli árhullámok csúcsvízszintjeinek 1,0 m-rel való csökkentését;
 
 d) a monitoring rendszer és előrejelzés fejlesztését, az árapasztó tározórendszer és a hozzá kapcsolódó tájgazdálkodási vízrendszer üzemrendjének megvalósításhoz igazodó kialakítását;
 
-e) az árvízi tározók vízilétesítményeinek megvalósításával összehangolt ütemezésben a kapcsolódó infrastrukturális fejlesztéseket a tájhasználatváltással együtt.
+e) a vízkárelhárítási célú szükségtározók vízilétesítményeinek megvalósításával összehangolt ütemezésben a kapcsolódó infrastrukturális fejlesztéseket a tájhasználatváltással együtt.
