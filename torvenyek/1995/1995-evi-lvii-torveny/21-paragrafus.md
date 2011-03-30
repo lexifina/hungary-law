@@ -1,3 +1,9 @@
-21. § (1) Az ingatlan tulajdonosát (használóját) a 20. § (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
+21. § (1) Vízkárelhárítási célú tározónak minősül a záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó, a vésztározó és a belvíztározó.
 
-(2) A 20. § (4) bekezdése szerinti árvízi tározóba történő sorolással kapcsolatos korlátozások miatt az ingatlan tulajdonosát megillető egyszeri térítésről és kártalanításról külön törvény rendelkezik.
+(2) Az ingatlan tulajdonosa, illetve használója köteles tűrni, hogy az ingatlanát a vízügyi hatóság vízkárelhárítási célú tározóként kijelölje.
+
+(3) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó kijelölése közérdekből történik.
+
+(4) Az ingatlan, vagy annak területi mértékben meghatározott része vízkárelhárítási célú tározóvá történő kijelöléséről – a vésztározó kivételével – az ingatlan fekvése szerint illetékes vízügyi hatóság határoz. A vízügyi hatóság a jogerős határozattal megkeresi a vízkárelhárítási célú tározó jogi jelleg feljegyzése iránt az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot. Ha a vízkárelhárítási célú tározó jogi jelleg nem az egész ingatlant érinti, a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló ingatlanügyi hatóság által záradékolt vázrajzot is.
+
+(5) A vízügyi hatóság dönt a vízkárelhárítási célú tározóba történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A vízügyi hatóság a jogerős határozatot megküldi az ingatlanügyi hatóságnak a vízkárelhárítási célú tározó jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.

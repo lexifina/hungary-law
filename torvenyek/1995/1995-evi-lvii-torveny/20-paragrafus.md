@@ -14,4 +14,4 @@ b) a mederből a vízgazdálkodási feladataik végrehajtása során kiemelt, va
 
 c) a vízrajzi észleléshez, a hajóút kitűzéséhez, valamint az egyéb szakfeladatok ellátásához szükséges jeleket, létesítményeket az ingatlanon elhelyezzék és karbantartsák.
 
-(4) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy a földrészlet fekvése szerint illetékes vízügyi hatóság határozata alapján az ingatlanát árvízi tározóként kijelöljék. Az árvízi tározó területének kijelöléséhez szükséges feltételeket a Kormány rendeletben határozza meg.
+(4) Az ingatlan tulajdonosát (használóját) az (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.

@@ -50,7 +50,17 @@ q) a vizek többletéből eredő kockázattal érintett területek meghatározá
 
 r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
 
-s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek
+s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek;
+
+t) a vizek kártételei elleni védekezés részletes feladatainak és módjának, valamint a rendkívüli védekezési készültség esetén eljáró miniszter jogkörének;
+
+u) a rendkívüli védekezési készültség elrendelésének;
+
+v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
+
+w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
+
+x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok
 
 rendeletben történő megállapítására.
 
@@ -80,7 +90,11 @@ k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szol
 
 l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
 
-m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben
+m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+
+n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
+
+o) a folyók nagyvízi medrére vonatkozó kezelési terv
 
 rendeletben történő megállapítására.
 

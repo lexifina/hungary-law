@@ -28,7 +28,7 @@ E törvény alkalmazásában
 
 12. meder: a vízfolyást vagy állóvizet magában foglaló természetes mélyedés vagy kiépített terepalakulat, amelyet meghatározott partvonalig a víz rendszeresen elborít
 
-a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, amelyet az árvíz levonulása során a víz, rendszeresen elborít;
+a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, amelyet az árvíz levonulása során a víz rendszeresen elborít, és amelyet a mértékadó árvízszint vagy az eddig előfordult legnagyobb árvízszint közül a magasabb jelöl ki;
 
 b) nagyvízi meder kezelés: a terület hasznosítása és használata, a terület felmérése és nyilvántartása, megóvása, őrzése, fenntartása érdekében végzett tevékenység;
 
@@ -86,4 +86,16 @@ b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszí
 
 33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
 
-34. árvízi tározó: olyan ideiglenes víztartásra szolgáló árvízvédelmi vízilétesítmény, amely elsődlegesen az élet- és vagyonbiztonság megteremtését (vész-, szükség- és árapasztó tározó), továbbá egyéb hasznosítási célok elérését is szolgálja. Árvízvédelmi célú elárasztására csak rendkívüli árvízi esemény esetén kerül sor.
+34. vízkárelhárítási célú tározó:
+
+a) árvízi tározó:
+
+aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó,
+
+ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll,
+
+ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület,
+
+ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
+
+b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.

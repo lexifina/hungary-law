@@ -1,0 +1,3 @@
+21/A. § (1) Ha a záportározóhoz, az árvízcsúcs-csökkentő tározóhoz, a szükségtározóhoz, illetve a belvíztározóhoz kapcsolódó vízilétesítmény elhelyezése, vagy a 21/E. § szerinti használati korlátozás az ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, a tulajdonos az ingatlan megvásárlását a beruházótól kérheti, illetve az ingatlan kisajátításának kérését a beruházónál kezdeményezheti.
+
+(2) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó, illetve a belvíztározó gyakori igénybevételének szükségessége esetén az aránytalanul magas kártalanítási költségek elkerülése érdekében a beruházó a tározó területének megvásárlását, illetve kisajátítását kezdeményezheti.
