@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1996-31-00-00.17 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 1996-31-00-00.18 |
+| 2011-03-30 | 2011. évi XXI. törvény | 1996-31-00-00.19 |
