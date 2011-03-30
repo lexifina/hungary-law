@@ -46,6 +46,4 @@ a) rendszerhasználati vagy csatlakozási díjakat állapít meg,
 
 b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 
-c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy
-
-d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki.”
+c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy”

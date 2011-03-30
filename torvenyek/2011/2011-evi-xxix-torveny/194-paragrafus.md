@@ -22,6 +22,4 @@ c) a telephelyi szolgáltató esetében.
 
 (7) A befolyásszerzés (1) bekezdésben meghatározott bejelentésének elmulasztása esetén, az (1) bekezdés szerinti tudomásulvételt kimondó visszaigazolás hiányában vagy a (2) és a (4)–(5) bekezdésben, illetve a 122. § (1) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a bejelentés elmulasztásával érintett részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, illetve a részvénykönyvbe nem jegyezhető be, a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását, illetve jóváhagyását igazoló dokumentummal együtt lehet benyújtani.”
 
-(3) A Get. 123. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az (1) bekezdésben meghatározott bejelentési eljárásokra a 114/A. § szerinti elektronikus eljárás szabályait kell alkalmazni.”
+(3)
