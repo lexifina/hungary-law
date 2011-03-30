@@ -6,7 +6,7 @@ Országos törzshálózati vasútvonalak:
 
 I. Tervezett nagysebességű vasútvonalak OTrT szerint:
 
-• (Horvátország) – Gyékényes térsége – Budapest (Ferihegy) – Záhony térsége – (Ukrajna)
+• (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna)
 
 II. A transz-európai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonal OTrT szerint:
 
