@@ -1,0 +1,15 @@
+4. § A Vgtv. 24. §-a helyébe a következő rendelkezés lép:
+
+„24. § (1) A nagyvízi meder elsődleges rendeltetése a mederből kilépő árvíz és a jég levezetése.
+
+(2) A folyó nagyvízi medrét, továbbá a töltésnek az árvíztől mentesített oldalán lévő azon területet, amelyen fakadó-, illetve szivárgó víz jelentkezhet, csak az árvízvédelmi előírásoknak megfelelően szabad kezelni, használni és hasznosítani.
+
+(3) A nagyvízi mederben építményt elhelyezni az érintett folyószakasz mederkezelőjének hozzájárulásával lehet.
+
+(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld más célú hasznosítását, valamint a művelési ág megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
+
+(5) A folyók, patakok, kisvízfolyások, belvíz- és öntözőcsatornák, tavak, tározók, holtágak parti sávját, továbbá az árvízvédelmi létesítmények védősávját úgy kell használni, hogy azt a meder, illetve létesítmény tulajdonosa (használója) a karbantartási munkák, mérések esetenkénti ellátása céljából a feladataihoz szükséges mértékben, illetve védekezési célból akadálytalanul igénybe vehesse.
+
+(6) A parti sávban és védősávban, valamint a rendszeresen víz alá kerülő területeken építmény a meder tulajdonosának, illetve kezelőjének hozzájárulásával helyezhető el. Ennek hiányában az elhelyezőt ért kárért – ha törvény eltérően nem rendelkezik – kártalanítás nem jár.
+
+(7) A folyók nagyvízi medrére vonatkozóan kezelési tervet kell készíteni, amely a nagyvízi mederben tevékenységet folytatókra kötelező. A kezelési tervet a miniszter rendeletben állapítja meg. A kezelési tervet össze kell hangolni a folyók nagyvízi medrére vonatkozó, illetve arra kihatással lévő egyéb tervekkel, így különösen a természet védelméről szóló törvény alapján a védett természeti területekre vonatkozóan elkészített természetvédelmi kezelési tervekkel, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló kormányrendelet alapján a Natura 2000 területekre elkészített természetvédelmi kezelési- és fenntartási tervekkel, illetve az adott területre vonatkozó, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet alapján meghatározott természetvédelmi célkitűzésekkel, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény alapján az erdőkre vonatkozóan elkészített körzeti erdőtervekkel.”

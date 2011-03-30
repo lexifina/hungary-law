@@ -1,0 +1,3 @@
+5. § A Vgtv. 27. §-a helyébe a következő rendelkezés lép:
+
+„27. § A 20. § (1) és (2) bekezdése alapján megállapított vízvezetési és vízhasználati szolgalmi jogot az ingatlan-nyilvántartásba be kell jegyezni, továbbá a 21. § szerinti vízkárelhárítási célú tározóban, a 25. § (3) bekezdése szerinti védőterületen, a nagyvízi mederben, illetve a parti sávban való elhelyezkedés tényét, mint jogi jelleget a vízügyi hatóságnak az érintett ingatlanra vonatkozó jogerős határozata alapján az ingatlan-nyilvántartásba fel kell jegyezni.”

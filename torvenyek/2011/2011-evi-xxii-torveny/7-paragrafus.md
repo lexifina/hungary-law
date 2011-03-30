@@ -1,0 +1,3 @@
+7. § A Vgtv. a következő 45/B. §-sal egészül ki:
+
+„45/B. § E törvénynek az egyes törvényeknek a vízkárelhárítás hatékonyabbá tételével összefüggő módosításáról szóló 2011. évi XXII. törvénnyel (a továbbiakban: törvénymódosítás) megállapított rendelkezéseit a törvénymódosítás hatálybalépésekor a jogerősen még el nem bírált vízügyi és építésügyi hatósági eljárásokban is alkalmazni kell.”
