@@ -22,16 +22,16 @@ h) a társulat képviseletét, ideértve a cégjegyzés módját;
 
 i) mindazt, amit jogszabály alapján az alapszabály rendez vagy a küldöttgyűlés szükségesnek tart.
 
-(3) Az alapszabály mellékleteiben meg kell határozni helyszínrajzi ábrázolással az ingatlan-nyilvántartási térkép alkalmas méretarányban kinyomtatott másolatán vagy annak digitális állományában
+(3) Az alapszabály térképi mellékleteiben fel kell tüntetni
 
 a) a társulati műveket és a településeket is feltüntető működési területet;
 
-b) a működési területen belül azokat a települési önkormányzatokat (részvízgyűjtőket) kistérségeket (a továbbiakban: területi egység), amelyekről az érdekeltek a küldötteket jelölik.
+b) a működési területen belül azokat a települési önkormányzatokat (részvízgyűjtőket) és kistérségeket (a továbbiakban: területi egység), amelyekről az érdekeltek a küldötteket jelölik.
 
 (4) Az alapszabály mellékleteiben rögzíteni kell továbbá
 
-a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését, a képviselt tagok számát, és a képviselt terület nagyságát hektárban;
+a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését és a képviselt terület nagyságát hektárban;
 
-b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát).
+b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.

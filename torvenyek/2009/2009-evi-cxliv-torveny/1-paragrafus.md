@@ -4,7 +4,7 @@
 
 1. alakuló gyűlés: az érdekeltek fóruma a társulat megalakítása céljából;
 
-2. állami hozzájárulás: a társulat vagyonkezelésébe tartozó közcélú vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
+2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 
 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 
@@ -36,7 +36,7 @@
 
 17. küldött jelölt: területi egységenként az érdekeltek által jelölt személy, akit az alakuló gyűlés választ meg küldöttnek;
 
-18. működési terület: az a földrajzi terület, amelyen társulat működik;
+18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett környezetvédelmi és vízügyi igazgatóság működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
 
 19. önkormányzati hozzájárulás: a társulati művek körébe tartozó önkormányzati tulajdonban lévő vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a települési önkormányzatok évenként megállapított költségvetési hozzájárulása;
 
@@ -44,7 +44,7 @@
 
 21. részvízgyűjtő: a társulat működési területének alapszabályban földrajzilag meghatározott része;
 
-22. szakmai felügyelet: a társulati közfeladatok ellátásának felügyeletét a területileg illetékes mezőgazdasági igazgatási szerv látja el;
+22.
 
 23. szervezőbizottság: a társulat megalakulását előkészítő szervezet, legalább hét tagból áll. Több mint a felét a társulat megalakításában érdekelt természetes személyek, illetve szervezetek (képviselői) alkotják. Tagja a közfeladat ellátása szerint illetékes területi vízügyi és mezőgazdasági igazgatás szervének, a vízgazdálkodási társulatok érdekképviseleti szervezetének képviselője is;
 
@@ -64,7 +64,7 @@
 
 31.
 
-32. társulati közfeladat: a társulat tagjainak érdekeit szolgáló vízgazdálkodási tevékenység, a kizárólagos állami tulajdonban lévő vizek és vízilétesítményekkel összefüggő feladatok a vízügyi hatósági hatáskör gyakorlása kivételével;
+32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit szolgáló vízgazdálkodási tevékenység, valamint megbízás alapján a forgalomképes állami tulajdonban lévő vizekkel és vízilétesítményekkel összefüggő feladatok ellátása;
 
 33. társulati művek: azok a közcélú, mezőgazdasági és más célú vízgazdálkodási művek, amelyeket a társulat küldöttgyűlése annak nyilvánít;
 

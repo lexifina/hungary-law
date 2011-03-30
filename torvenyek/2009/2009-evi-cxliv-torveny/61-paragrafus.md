@@ -6,7 +6,7 @@ a) elhatározza a jogutód nélküli megszűnését (feloszlását);
 
 b) a társulatot a bíróság felszámolási eljárás során megszünteti;
 
-c) a cégbíróság megszűntnek nyilvánítja;
+c) a 62. §-ban előírt kötelezettség teljesítésének felhívás ellenére történő elmaradása esetén a felügyeleti szerv kezdeményezésére a cégbíróság megszűntnek nyilvánítja;
 
 d) a cégbíróság hivatalból elrendeli a törlését.
 
