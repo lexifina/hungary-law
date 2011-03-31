@@ -1,4 +1,4 @@
-2. számú melléklet a 8/2002. (III. 12.) EüM rendelethez[^5]
+2. számú melléklet a 8/2002. (III. 12.) EüM rendelethez[^8]
 
 I. Az ERMAH laboratóriumok vizsgálati irányai és a vizsgált minták
 
@@ -22,4 +22,4 @@ b) nyomon követi a lakosság nukleáris veszélyhelyzet utáni sugárterhelés�
 
 c) meghatározza az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 7. számú melléklete függelékének 12. pontja szerinti kiemelt létesítmények környezetében élő lakosságnak a létesítmény működéséből származó éves sugárterhelését.
 
-[^5]: A 2. számú melléklet a 44/2009. (XII. 18.) EüM rendelet 16. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 2. számú melléklet a 44/2009. (XII. 18.) EüM rendelet 16. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
