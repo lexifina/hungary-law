@@ -28,7 +28,7 @@
 
 ## telefon: ............................... fax:
 
-## A beküldő intézmény helye szerint illetékes kistérségi, kerületi ÁNTSZ intézet neve, címe:
+## A beküldő intézmény helye szerint illetékes kistérségi népegészségügyi intézet neve, címe:
 
 ## Egyéb közlendő:
 

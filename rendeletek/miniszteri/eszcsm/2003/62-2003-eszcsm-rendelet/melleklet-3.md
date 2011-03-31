@@ -2,22 +2,52 @@
 
 | A gyanú iránya | Vizsgálati anyag | Vizsgáló laboratórium |
 
-| Botulizmus | vér élelmiszer | OEK* MgSzHK ÉTbI** |
+| Botulizmus | vér | OEK |
 
-| Baktérium, toxin, vírus, parazita | hányadék széklet gyomormosó folyadék egyéb váladék, illetve szövetminta élelmiszer | ÁNTSZ regionális intézete |
+|  | élelmiszer | MgSzH |
 
-| Mérgező gomba | hányadék gyomormosó folyadék vér vizelet széklet élelmiszer nyers gomba és tisztítási hulladék | kórházi laboratóriumok, illetve az MgSzHK ÉTbI gombavizsgálati referencia laboratóriuma |
+| Baktérium, | hányadék | megyei népegészségügyi szakigazgatási szerv |
 
-| Vegyi anyag | hányadék gyomormosó folyadék folyadék élelmiszer egyéb (vér, vizelet) | ÁNTSZ regionális intézete |
+| toxin, | széklet |  |
 
-| Víz | ivóvíz | ÁNTSZ regionális intézete |
+| vírus, | gyomormosó |  |
 
-## __________
+| parazita | folyadék |  |
 
-| * | OEK: Johan Béla Országos Epidemiológiai Központ. |
+|  | egyéb váladék, |  |
 
-| ** | MgSzHK ÉTbI: Országos Közegészségügyi Központ Országos Élelmezés- és Táplálkozástudományi Intézete. |
+|  | illetve szövetminta |  |
 
-3. számú melléklet a 62/2003. (X. 27.) ESZCSM rendelethez[^23]
+|  | élelmiszer |  |
 
-[^23]: A 3. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba) alpontja szerint módosított szöveg.
+| Mérgező gomba | hányadék | kórházi laboratóriumok, illetve az MgSzH gombavizsgálati |
+
+|  | gyomormosó folyadék | referencia laboratóriuma |
+
+|  | vér |  |
+
+|  | vizelet |  |
+
+|  | széklet |  |
+
+|  | élelmiszer |  |
+
+|  | nyers gomba |  |
+
+|  | és tisztítási hulladék |  |
+
+| Vegyi anyag | hányadék | megyei népegészségügyi szakigazgatási szerv |
+
+|  | gyomormosó folyadék |  |
+
+|  | folyadék |  |
+
+|  | élelmiszer |  |
+
+|  | egyéb (vér, vizelet) |  |
+
+| Víz | ivóvíz | megyei népegészségügyi szakigazgatási szerv |
+
+3. számú melléklet a 62/2003. (X. 27.) ESZCSM rendelethez[^24]
+
+[^24]: A 3. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése szerint módosított szöveg.
