@@ -10,7 +10,7 @@
 
 1.3. A –00 végződésű alkódok az adott főcsoport alap-szakképesítésbe sorolható tevékenységek végzésére való általános jogosultságot fejezik ki, a ráépített szakképesítéshez vagy speciális képzettséghez, vizsgához kötött tevékenységek végzésére az önálló alkóddal megjelölt szakmák szolgálnak.
 
-1.4.[^3] A *sze* (szakosodott egység) jelzéssel ellátott kódok a kizárólag az adott szakmára (tevékenységre) fő profilként szakosodott egység jelölésére alkalmazhatók, az adott szakmai tevékenységre más szakmai megnevezés nem használható.
+1.4.[^14] A *sze* (szakosodott egység) jelzéssel ellátott kódok a kizárólag az adott szakmára (tevékenységre) fő profilként szakosodott egység jelölésére alkalmazhatók, az adott szakmai tevékenységre más szakmai megnevezés nem használható.
 
 01 Belgyógyászat
 
@@ -882,4 +882,4 @@ Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhet�
 
 – 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt nem egészségügyi felsőfokú szakképesítéssel ellátható feladatra irányul.
 
-[^3]: A 2. számú melléklet 1.4. pontja a 31/2008. (VII. 29.) EüM rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 2. számú melléklet 1.4. pontja a 31/2008. (VII. 29.) EüM rendelet 1. §-a szerint módosított szöveg.

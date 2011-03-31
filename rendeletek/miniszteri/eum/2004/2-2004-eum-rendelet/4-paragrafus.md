@@ -30,11 +30,11 @@ ca) az engedélyezett egészségügyi szakmák megnevezését a 2. számú mell�
 
 cb) a ca) alpont szerinti szakmákhoz tartozó szolgáltatási típusok és ellátási formák megnevezését, továbbá az ellátások progresszivitási szintjét,
 
-cc) a városi, illetve megyei intézet (a továbbiakban: engedélyező intézet) által kiadott országos érvényességű szolgáltatói azonosítót (a továbbiakban: azonosító),
+cc)[^3] az engedélyező hatóság által kiadott országos érvényességű szolgáltatói azonosítót (a továbbiakban: azonosító),
 
 cd) amennyiben a szolgáltató területi ellátási kötelezettséggel fog működni, szakmánként a területi ellátási kötelezettséget, a tervezett ellátandó területet,
 
-ce) az engedélyező intézet megnevezését, azonosítóját,
+ce)[^4] az engedélyező hatóság megnevezését, azonosítóját,
 
 cf) a működési engedély kiadásának keltét, számát, a működés korlátozásának megjelölésével,
 
@@ -44,7 +44,7 @@ ch) a heti rendelési időt (a szolgáltató rendelésének óraszámát összes
 
 ci) az ágyszámot,
 
-cj) a szolgáltató – külön jogszabály szerinti – közreműködőjének az azonosítóját, valamint a működési engedélye számát, az engedélyező intézet megnevezését és azonosítóját,
+cj)[^5] a szolgáltató – külön jogszabály szerinti – közreműködőjének az azonosítóját, valamint a működési engedélye számát, az engedélyező hatóság megnevezését és azonosítóját,
 
 ck) a szakmához tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét,
 
@@ -59,3 +59,7 @@ b) annak megjelölését, hogy a szolgáltató – a külön jogszabályban megh
 (3) Az (1)–(2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
 (4) A nyilvántartásban szereplő adatok azonosítására az OTH további kódokat állapíthat meg.
+
+[^3]: A 4. § (1) bekezdés c) pont cc) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés c) pont ce) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés c) pont cj) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
