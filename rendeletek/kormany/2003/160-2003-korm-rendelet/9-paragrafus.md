@@ -1,4 +1,4 @@
-## 8/A. §[^30] Az Alapprogram kezelő szerve a támogatás iránti kérelem benyújtási határidejének lejártát követő 60 napon belül megküldi a Kollégium részére az érvényes pályázattal kapcsolatos előterjesztését. A Kollégium az előterjesztés kézhezvételétől számított 30 napon belül dönt a támogatás iránti kérelem elfogadásáról vagy elutasításáról, a támogatás összegéről, ütemezéséről, a támogatási feltételekről.
+## 8/A. §[^30] Az Alapprogram kezelő szerve a támogatás iránti kérelem benyújtási határidejének lejártát követő 60 napon belül megküldi a Kollégium részére az érvényes pályázattal kapcsolatos előterjesztését. Az előterjesztés előtt kihirdetett kormányrendelet alapján, az adott költségvetési évben egyedi támogatásban részesülő szervezet támogatás iránti kérelme esetén, a Kollégium részére átadott, érvényes pályázatokat tartalmazó előterjesztésben a szervezet egyedi támogatásának célját és összegét az Alapprogram kezelő szerve a Kollégium döntéshozatala során történő figyelembevétel érdekében külön feltünteti. A Kollégium az előterjesztés kézhezvételétől számított 30 napon belül dönt a támogatás iránti kérelem elfogadásáról vagy elutasításáról, a támogatás összegéről, ütemezéséről, a támogatási feltételekről.
 
 ## A támogatási szerződés
 
@@ -54,7 +54,7 @@ g)[^41] a civil szervezet képviselőjének közjegyző által hitelesített al�
 
 (8)[^46] A támogatott civil szervezet a szerződés teljesítéséről szakmai beszámolót és pénzügyi elszámolást köteles a szerződésben megjelölt határidőben és módon benyújtani. A szerződés teljesítését a vonatkozó jogszabályi rendelkezésekre figyelemmel az Alapprogram kezelő szerve ellenőrzi.
 
-[^30]: A 8/A. §-t a 130/2010. (IV. 21.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A 8/A. §-t a 130/2010. (IV. 21.) Korm. rendelet 3. §-a iktatta be, szövege a 49/2011. (III. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^31]: A 9. § (1) bekezdése a 130/2010. (IV. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^32]: A 9. § (2) bekezdésének e) pontja a 18/2005. (II. 10.) Korm. rendelet 10. §-a (2) bekezdésének g) pontja szerint módosított szöveg.
 [^33]: A 9. § (2) bekezdésének g) pontja a 321/2006. (XII. 23.) Korm. rendelet 16. § (3) bekezdésének b) pontja szerint módosított szöveg.
