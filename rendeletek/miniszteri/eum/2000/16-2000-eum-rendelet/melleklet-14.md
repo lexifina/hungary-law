@@ -1,4 +1,4 @@
-14. számú melléklet a 16/2000. (VI. 8.) EüM rendelethez[^76]
+14. számú melléklet a 16/2000. (VI. 8.) EüM rendelethez[^77]
 
 A nagy aktivitású zárt sugárforrások küszöbaktivitás értékeit az alábbi táblázat tartalmazza.
 
@@ -42,4 +42,4 @@ a Az aktivitás-szint magában foglalja a 10 napnál rövidebb felezési idejű 
 
 b Berilliumos neutronforrásokat tartalmaz.
 
-[^76]: A 14. számú mellékletet a 64/2005. (XII. 22.) EüM rendelet 8. §-a iktatta be.
+[^77]: A 14. számú mellékletet a 64/2005. (XII. 22.) EüM rendelet 8. §-a iktatta be.

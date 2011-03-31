@@ -1,6 +1,6 @@
-## 18. §[^24]
+## 18. §[^25]
 
-## 19. §[^25] Az engedélyek a 7. számú melléklet függelékében foglalt
+## 19. §[^26] Az engedélyek a 7. számú melléklet függelékében foglalt
 
 a) kiemelt létesítmény esetén 2 évig,
 
@@ -10,5 +10,5 @@ c) II. kategória esetén 5 évig,
 
 d) III A. és B. kategória esetén 8 évig
 
-[^24]: A 18. §-t a 44/2009. (XII. 18.) EüM rendelet 13. §-a hatályon kívül helyezte, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 19. § a 44/2009. (XII. 18.) EüM rendelet 12. §-a szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 18. §-t a 44/2009. (XII. 18.) EüM rendelet 13. §-a hatályon kívül helyezte, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 19. § a 44/2009. (XII. 18.) EüM rendelet 12. §-a szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.

@@ -22,7 +22,7 @@ Különleges sugárterhelés időszakosan és csak a következő feltételek fen
 
 1.5.2. a különleges sugárterhelés engedélyezésének időtartama legfeljebb 5 év, ugyanazon személyre nem ismételhető;
 
-1.5.3.[^50] a munkáltatónak vagy engedélyesnek a különleges sugárterhelést előre indokolnia kell, ezt az érintett munkavállalóval közölni kell, továbbá a Sugáregészségügyi Decentrumnak és a foglalkozás-egészségügyi szolgálatnak, valamint az OSSKI-nak be kell jelenteni;
+1.5.3.[^51] a munkáltatónak vagy engedélyesnek a különleges sugárterhelést előre indokolnia kell, ezt az érintett munkavállalóval közölni kell, továbbá a Sugáregészségügyi Decentrumnak és a foglalkozás-egészségügyi szolgálatnak, valamint az OSSKI-nak be kell jelenteni;
 
 1.5.4. a munkáltató köteles gondoskodni a különleges sugárterheléssel járó műveletekkel kapcsolatos óvintézkedésekről, továbbá a kockázat mértékét köteles ismertetni az érintett munkavállalókkal; a különleges sugárterhelés ellenőrzésére külön dózismérőt is lehet igényelni;
 
@@ -86,7 +86,7 @@ IV. A sugárterhelés ellenőrzése
 
 1.3. Az engedélyes az 1.2. pont alapján sorolja osztályokba a munkavállalókat.
 
-1.4.[^51] Az ,,A'' besorolású munkavállalók külső forrásból eredő sugárterhelésének személyi dozimetriai ellenőrzése kötelező, és azt a 2. számú függelékben meghatározott előírások szerint kell végezni.
+1.4.[^52] Az ,,A'' besorolású munkavállalók külső forrásból eredő sugárterhelésének személyi dozimetriai ellenőrzése kötelező, és azt a 2. számú függelékben meghatározott előírások szerint kell végezni.
 
 Nyitott radioaktív készítmény szervezetbe kerülésének lehetősége vagy ennek gyanúja esetén az érintett munkavállalók belső sugárterhelését ellenőrizni kell. Az ellenőrzés kötelezettségét a Sugáregészségügyi Decentrum állapítja meg. Az eredmények nyilvántartásának és jelentésének módját, illetve gyakoriságát az MSSZ-ben kell rögzíteni, és az ellenőrzés módját és eredményeit az Országos Személyi Dozimetriai Szolgálatnak (OSSKI) kell megküldeni.
 
@@ -94,7 +94,7 @@ Nyitott radioaktív készítmény szervezetbe kerülésének lehetősége vagy e
 
 1.6. Amennyiben a sugárzási szint mértéke indokolja, a természetes forrásokból származó fokozott sugárterheléssel járó munkahelyeken (2. számú függelék) az OTH elrendeli az egyéni sugárterhelés rendszeres ellenőrzését és meghatározza annak módját.
 
-1.7.[^52] Olyan létesítményekben, ahol béta- és neutronsugárzásból eredő sugárhatás léphet fel, az érintett munkavállalóknak ebből származó sugárterhelése rendszeres ellenőrzésének kötelezettségét a regionális intézet állapítja meg.
+1.7.[^53] Olyan létesítményekben, ahol béta- és neutronsugárzásból eredő sugárhatás léphet fel, az érintett munkavállalóknak ebből származó sugárterhelése rendszeres ellenőrzésének kötelezettségét a megyei népegészségügyi szakigazgatási szerv állapítja meg.
 
 1.8. Engedélyezett különleges sugárterhelésben, sugárbaleset következményeinek elhárításában (veszélyhelyzet) érintett, illetve az ebből eredő, tartósan érvényesülő sugárterhelésnek kitett személyeket személyi dozimetriai ellenőrzés alá kell vonni.
 
@@ -156,15 +156,15 @@ Az engedélyezett különleges sugárterheléseket a szabályos körülmények m
 
 A hatósági személyi dozimetriai ellenőrzés eredményeit az ellenőrzött munkavállaló sugárveszélyes munkájának végétől, illetőleg az ellenőrzés megszűnésétől számított 30 éven át meg kell őrizni a központi nyilvántartásban.
 
-20.[^53] Az ötéves dózisösszegzés valamennyi ellenőrzött személynél ugyanazon naptári időszakra vonatkozik. Az első öt éves dózisösszegzési időszak az e rendelet hatálybalépését követő év első napján kezdődik.
+20.[^54] Az ötéves dózisösszegzés valamennyi ellenőrzött személynél ugyanazon naptári időszakra vonatkozik. Az első öt éves dózisösszegzési időszak az e rendelet hatálybalépését követő év első napján kezdődik.
 
-21.[^54] A munkahely sugárvédelmi szolgálata köteles a dozimetriai eredményeket a munkavállaló sugárveszélyes munkájának időtartama alatt, továbbá annak megszűnését követő 30 éven át megőrizni. A munkáltató változása esetén a sugárterhelések adatainak megőrzése a jogutód felelőssége. Felszámolási vagy a végelszámolási eljárás megkezdésekor a nyilvántartásokat és bizonylatokat be kell szolgáltatni a Sugáregészségügyi Decentrumnak.
+21.[^55] A munkahely sugárvédelmi szolgálata köteles a dozimetriai eredményeket a munkavállaló sugárveszélyes munkájának időtartama alatt, továbbá annak megszűnését követő 30 éven át megőrizni. A munkáltató változása esetén a sugárterhelések adatainak megőrzése a jogutód felelőssége. Felszámolási vagy a végelszámolási eljárás megkezdésekor a nyilvántartásokat és bizonylatokat be kell szolgáltatni a Sugáregészségügyi Decentrumnak.
 
 22. A személyi dozimetriai ellenőrzés vagy az egyéni sugárterhelés munkahelyi méréseken alapuló becslésének eredményét az érintett munkavállaló kérésére a munkáltatónak hozzáférhetővé kell tennie.
 
 23. A munkáltató beszerzi az általa ellenőrzésre bejelentett munkavállaló beleegyező nyilatkozatát arról, hogy a személyi dozimetriai ellenőrzés adatait az OSSKI nyilvántartsa, és azt a külön jogszabályban meghatározott feltételek alapján kezelje.
 
-24.[^55] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, az OSSKI haladéktalanul értesíti a Sugáregészségügyi Decentrumot. A Sugáregészségügyi Decentrum helyszíni hatósági ellenőrzést tart, az ellenőrzés alapján intézkedik, és erről értesíti az OSSKI-t.
+24.[^56] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, az OSSKI haladéktalanul értesíti a Sugáregészségügyi Decentrumot. A Sugáregészségügyi Decentrum helyszíni hatósági ellenőrzést tart, az ellenőrzés alapján intézkedik, és erről értesíti az OSSKI-t.
 
 25. Ha a munkavállaló adott év során összegeződő sugárterhelése az engedélyezett bármelyik szerv-dózis korlát 3/10-ét túllépi, a 23. pont szerinti hatósági vizsgálatot kell lefolytatni.
 
@@ -176,9 +176,9 @@ A hatósági személyi dozimetriai ellenőrzés eredményeit az ellenőrzött mu
 
 26.3. interkontinentális légi járatokon vagy nagy magasságban hajózó polgári légiszemélyzet.
 
-[^50]: A 2. számú melléklet I. fejezetének 1.5.3. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^51]: A 2. számú melléklet IV. fejezetének 1.4. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^52]: A 2. számú melléklet IV. pont 1.7. alpontja a 44/2009. (XII. 18.) EüM rendelet 11. § (1) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^53]: A 2. számú melléklet 2. számú függelék 20. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^54]: A 2. számú melléklet 2. számú függelékének 21. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^55]: A 2. számú melléklet 2. számú függelék 24. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A 2. számú melléklet I. fejezetének 1.5.3. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^52]: A 2. számú melléklet IV. fejezetének 1.4. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^53]: A 2. számú melléklet IV. pont 1.7. alpontja a 44/2009. (XII. 18.) EüM rendelet 11. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^54]: A 2. számú melléklet 2. számú függelék 20. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 2. számú melléklet 2. számú függelékének 21. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^56]: A 2. számú melléklet 2. számú függelék 24. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.

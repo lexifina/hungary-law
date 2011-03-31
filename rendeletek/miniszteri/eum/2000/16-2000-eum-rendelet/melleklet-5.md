@@ -36,7 +36,7 @@
 
 ## g) nukleárisbaleset-elhárítás területén intézkedési joggal felruházott vezetők, akik veszélyhelyzetben végzett tevékenységekre adhatnak utasítást.
 
-## 4.[^60] Oktatást az végezhet (a továbbiakban: Oktató), aki ezt a tevékenységét a külön jogszabály alapján az egészségügyi államigazgatási szervnek bejelentette.
+## 4.[^61] Oktatást az végezhet (a továbbiakban: Oktató), aki ezt a tevékenységét a külön jogszabály alapján az egészségügyi államigazgatási szervnek bejelentette.
 
 ## 5. A sugárvédelmi képzés, továbbképzés díjköteles. Az oktatással kapcsolatos költségeket az engedélyesnek kell viselnie.
 
@@ -178,17 +178,17 @@ b) ahol a radioaktív szennyeződés terjedését vagy az esetleges sugárterhel
 
 3.5. Zárt sugárforrás magyar nyelvű műbizonylatának eredeti példányát a sugárforrás végleges elhelyezéséig az engedélyes őrzi.
 
-3.6.[^61] Berendezést lejárt felhasználási idejű sugárforrással üzemeltetni tilos. A felhasználási idő a szolgálati időhöz igazodik. Ha a gyártó nem határozza meg a szolgálati időt, a felhasználási időt – szakértői vélemény alapján – a Sugáregészségügyi Decentrum állapítja meg. Az így megállapított felhasználási idő maximális időtartama 15 év. A felhasználási idő az OSSKI szakvéleménye alapján legfeljebb két esetben, és összesen tíz év időtartammal meghosszabbítható.
+3.6.[^62] Berendezést lejárt felhasználási idejű sugárforrással üzemeltetni tilos. A felhasználási idő a szolgálati időhöz igazodik. Ha a gyártó nem határozza meg a szolgálati időt, a felhasználási időt – szakértői vélemény alapján – a Sugáregészségügyi Decentrum állapítja meg. Az így megállapított felhasználási idő maximális időtartama 15 év. A felhasználási idő az OSSKI szakvéleménye alapján legfeljebb két esetben, és összesen tíz év időtartammal meghosszabbítható.
 
 3.7. A sugárforrást a besugárzás végeztével állandó tároló helyére kell juttatni. A biztonságba helyezés megtörténtéről a kezelőnek sugárzásméréssel meg kell győződnie.
 
-3.8.[^62] Az engedélyes gondoskodik a használatból kivont zárt sugárforrás végleges tárolóhelyre szállításáról vagy a szállítóhoz való visszajuttatásról. Az elszállítást jelenteni kell a Sugáregészségügyi Decentrumnak és a radioaktív anyagok központi nyilvántartójának.
+3.8.[^63] Az engedélyes gondoskodik a használatból kivont zárt sugárforrás végleges tárolóhelyre szállításáról vagy a szállítóhoz való visszajuttatásról. Az elszállítást jelenteni kell a Sugáregészségügyi Decentrumnak és a radioaktív anyagok központi nyilvántartójának.
 
 3.9. A radioaktív anyagot tartalmazó hordozható berendezést használaton kívül elzárva, engedélyezett tárolóhelyen kell tartani.
 
-3.10.[^63] Zárt radioaktív sugárforrás elvesztését vagy eltűnését haladéktalanul jelenteni kell a Sugáregészségügyi Decentrumnak, amely azt OSKSZ-nak, továbbá az ORFK-nak jelenti.
+3.10.[^64] Zárt radioaktív sugárforrás elvesztését vagy eltűnését haladéktalanul jelenteni kell a Sugáregészségügyi Decentrumnak, amely azt OSKSZ-nak, továbbá az ORFK-nak jelenti.
 
-3.11.[^64] Nagy aktivitású zárt sugárforrás esetében a gyártó vagy a forgalmazó köteles gondoskodni az alábbiakról:
+3.11.[^65] Nagy aktivitású zárt sugárforrás esetében a gyártó vagy a forgalmazó köteles gondoskodni az alábbiakról:
 
 a) a sugárforrás rendelkezzen a gyártó vagy – ha a sugárforrást az Európai Unión kívülről hozzák be az Európai Unió valamely tagállamába – a szállító által a sugárforráshoz és a sugárforrástartóhoz rendelt egyedi azonosító sorszámmal;
 
@@ -206,7 +206,7 @@ d) fénykép készítése a sugárforrás típusáról és a sugárforrástartó
 
 4.3. Az izotóplaboratórium kialakításával és felszerelésével kapcsolatos követelmények alapvetően a felhasznált radioaktív izotóp aktivitásától, fajtájától és a felhasználás, illetve a végzett műveletek típusától függnek.
 
-4.4.[^65] Nyitott radioaktív készítmény izotóplaboratóriumon kívüli felhasználását vizsgálati típusonként kell megtervezni és engedélyeztetni. Az ismételt vizsgálatot be kell jelenteni a Sugáregészségügyi Decentrumnak.
+4.4.[^66] Nyitott radioaktív készítmény izotóplaboratóriumon kívüli felhasználását vizsgálati típusonként kell megtervezni és engedélyeztetni. Az ismételt vizsgálatot be kell jelenteni a Sugáregészségügyi Decentrumnak.
 
 4.5. Az izotóplaboratórium kialakításakor azt a munkaterületet, ahol radioaktív izotóppal kapcsolatos műveletet végeznek és a munkavégzésre létesített egyéb munkaterületeket egymástól elválasztva kell elhelyezni.
 
@@ -234,7 +234,7 @@ d) fénykép készítése a sugárforrás típusáról és a sugárforrástartó
 
 4.10.7. Ellenőrzött területen a radioaktív izotóppal kapcsolatos munkavégzés körén kívül eső tevékenységet végezni (pl. étkezni, kozmetikai készítményt használni), illetve a munkavégzéssel össze nem függő tárgyat bevinni, ott tárolni nem lehet.
 
-4.10.8.[^66] Radioaktív anyagok, illetve készítmények nyilvántartását úgy kell kialakítani, hogy az alapján követhető legyen a radioaktív anyagokkal kapcsolatos minden művelet, az anyag részét vagy egészét hol és milyen körülmények között tárolják. A hiányt a Sugáregészségügyi Decentrumnak külön jogszabály alapján be kell jelenteni.
+4.10.8.[^67] Radioaktív anyagok, illetve készítmények nyilvántartását úgy kell kialakítani, hogy az alapján követhető legyen a radioaktív anyagokkal kapcsolatos minden művelet, az anyag részét vagy egészét hol és milyen körülmények között tárolják. A hiányt a Sugáregészségügyi Decentrumnak külön jogszabály alapján be kell jelenteni.
 
 4.10.9. A 65 napnál rövidebb felezési idejű radioaktív hulladékot a laboratórium köteles az átmeneti hulladéktárolóban tárolni mindaddig amíg az radioaktív hulladéknak minősül.
 
@@ -250,10 +250,10 @@ d) fénykép készítése a sugárforrás típusáról és a sugárforrástartó
 
 4.10.15. A baleset során bekövetkező veszélyhelyzet elhárítását, illetve a szennyezettség felszámolását megfelelő, a 2. számú mellékletben meghatározott sugárvédelmi szakismeretekkel rendelkező szakember irányítja.
 
-[^60]: A 4. számú melléklet I. rész 4. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (5) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^61]: Az 5. számú melléklet 3.6. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^62]: Az 5. számú melléklet 3.8. pontja a 64/2005. (XII. 22.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^63]: Az 5. számú melléklet 3.10. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^64]: Az 5. számú melléklet 3.11. pontját a 64/2005. (XII. 22.) EüM rendelet 6. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 9. § (2) bekezdését.
-[^65]: Az 5. számú melléklet 4.4. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
-[^66]: Az 5. számú melléklet 4.10.8. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^61]: A 4. számú melléklet I. rész 4. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (5) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^62]: Az 5. számú melléklet 3.6. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^63]: Az 5. számú melléklet 3.8. pontja a 64/2005. (XII. 22.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^64]: Az 5. számú melléklet 3.10. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^65]: Az 5. számú melléklet 3.11. pontját a 64/2005. (XII. 22.) EüM rendelet 6. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 9. § (2) bekezdését.
+[^66]: Az 5. számú melléklet 4.4. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.
+[^67]: Az 5. számú melléklet 4.10.8. pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének k) pontja szerint módosított szöveg.

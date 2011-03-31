@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-16-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2000-16-20-0B.11 | 16/2000. (VI. 8.) EüM rendelet |
+| 2011-03-31 | 2000-16-20-0B.12 | 10/2011. (III. 30.) NEFMI rendelet |
