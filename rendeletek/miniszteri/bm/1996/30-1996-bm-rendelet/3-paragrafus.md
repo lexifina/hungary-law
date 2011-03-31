@@ -14,4 +14,11 @@ f) a tűzvédelmi oktatással kapcsolatos feladatokat és a munkavállalókra vo
 
 g) a munkavállalóknak a tűzjelzéssel, tűzoltással, műszaki mentéssel kapcsolatos feladatait;
 
-h) a létesítményi tűzoltóság működésének, szolgálatellátásának, tagjai díjazásának szabályait.
+h) a létesítményi tűzoltóság működésének, szolgálatellátásának, tagjai díjazásának szabályait;
+
+i)[^1] a tevékenység helyszínét képező és 50 főnél nagyobb befogadóképességű helyiséget tartalmazó önálló rendeltetési egység vagy önálló rendeltetési egységen belüli, helyiségcsoport (építményrész) esetében a – kiürítési számítással vagy azzal egyenértékű módon igazolt – megengedett maximális befogadóképességet;
+
+j)[^2] az i) pont szerinti esetekben a megengedett maximális befogadóképességnek megfelelő helyiséghasználat módját és felelősét.
+
+[^1]: A 3. § i) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 3. § j) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
