@@ -42,7 +42,7 @@
 
 ## A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^31]
+3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^34]
 
 Egyetemes szolgáltatói árrések mértéke
 
@@ -50,4 +50,4 @@ Egyetemes szolgáltatói árrések mértéke
 
 | Egyetemes szolgáltatói árrés (Ft/m3) | 5,94 | 1,45 | 1,11 | 0,83 |
 
-[^31]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 18/2010. (XII. 3.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^34]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 18/2010. (XII. 3.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
