@@ -1,9 +1,11 @@
-12. § (1) Az egészségügyi ellátással összefüggő fertőzések megelőzése regionális és országos stratégiájának kidolgozása érdekében regionális és országos szinten Infekciókontroll és Antibiotikum Bizottság működik.
+12. §[^4] (1) Az egészségügyi ellátással összefüggő fertőzések megelőzése megyei és országos stratégiájának kidolgozása érdekében megyei és országos szinten Infekciókontroll és Antibiotikum Bizottság működik.
 
-(2) A RIAB-ot a regionális tisztifőorvos működteti.
+(2) A MIAB-ot a megyei tisztifőorvos működteti.
 
-(3) A RIAB tanácsadó testület, amely az alakuló ülésen elfogadott ügyrend szerint működik. A RIAB elnöke a regionális tisztifőorvos, titkára a regionális tisztifőorvos javaslata alapján az ügyrendben meghatározott személy. A RIAB tagja a regionális tisztifőgyógyszerész, a regionális egészségbiztosítási pénztár vezetője, a regionális mikrobiológiai szakfelügyelő, a regionális infektológiai szakfelügyelő és a regionális kórházhigiénés szakfelügyelő.
+(3) A MIAB tanácsadó testület, amely az alakuló ülésen elfogadott ügyrend szerint működik. A MIAB elnöke a megyei tisztifőorvos, titkára a megyei tisztifőorvos javaslata alapján az ügyrendben meghatározott személy. A MIAB tagja a megyei (fővárosi) tisztifőgyógyszerész, az Országos Egészségbiztosítási Pénztár főigazgatója által kijelölt személy, a megyei mikrobiológiai szakfelügyelő, a megyei infektológiai szakfelügyelő és a megyei kórházhigiénés szakfelügyelő.
 
-(4) A RIAB feladatai az egészségügyi ellátással összefüggő fertőzések megelőzése regionális stratégiájának, akciótervének – beleértve a regionális antibiotikum politikát is – kialakítása és eredményeinek elemzése.
+(4) A MIAB feladata az egészségügyi ellátással összefüggő fertőzések megelőzése megyei stratégiájának, akciótervének – beleértve a megyei antibiotikum politikát is – kialakítása és eredményeinek elemzése.
 
-(5) A RIAB tevékenységét az Országos Infekciókontroll és Antibiotikum Bizottság (a továbbiakban: OIAB) szakmai irányításával végzi.
+(5) A MIAB tevékenységét az Országos Infekciókontroll és Antibiotikum Bizottság (a továbbiakban: OIAB) szakmai irányításával végzi.
+
+[^4]: A 12. § a 10/2011. (III. 30.) NEFMI rendelet 68. § (3) bekezdésével megállapított szöveg.
