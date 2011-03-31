@@ -24,7 +24,7 @@ a) a megszervezésre került továbbképzési programokról a 3. számú mellék
 
 b) a megszervezésre nem került továbbképzési programokról a 4. számú melléklet szerinti adatlapot
 
-## a tárgyévet követő év február 28-áig meg kell küldeni a Titkárság részére.
+## a tárgyévet követő év február 28-áig meg kell küldeni az Intézet részére.
 
 (9)[^24] Ha a (8) bekezdés szerinti beszámolási kötelezettségnek a szervező nem tesz eleget, továbbképzési programot a beszámolás elmulasztásának évét követő évben nem indíthat.
 
@@ -35,5 +35,5 @@ b) a megszervezésre nem került továbbképzési programokról a 4. számú mel
 [^20]: A 4. § (4) bekezdése az 1/2005. (I. 26.) ICSSZEM rendelet 6. §-a (3) bekezdésének a) pontja szerint módosított szöveg, számozását (5) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése.
 [^21]: A 4. § (5) bekezdése a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdésével megállapított szöveg. Az akkreditációs tanúsítvánnyal kapcsolatban lásd e módosító rendelet 20. §-ának (9)–(10) bekezdését. Az (5) bekezdés számozását (6) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezése, szövege a 15. §-a (4) bekezdés b) pontjának ba) alpontja, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^22]: A 4. § (6) bekezdésének számozását (7) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (3) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^23]: A 4. § (7) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (3) bekezdésével megállapított szöveg.
+[^23]: A 4. § (7) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (3) bekezdésével megállapított szöveg. A (8) bekezdés záró szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 16. § a) pontja szerint módosított szöveg.
 [^24]: A 4. § (8) bekezdését az 1/2005. (I. 26.) ICSSZEM rendelet 2. §-a iktatta be, számozását (9) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 15. §-a (4) bekezdés b) pontjának bb) alpontja szerint módosított szöveg.

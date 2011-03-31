@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | --- | --- | --- |
 | 2008-05-16 | 2000-9-20-85.10 | 9/2000. (VIII. 4.) SZCSM rendelet |
 | 2011-01-01 | 2000-9-20-85.11 | 12/2006. (XII. 27.) SZMM rendelet |
+| 2011-03-31 | 2000-9-20-85.12 | 16/2003. (IV. 9.) ESZCSM rendelet |

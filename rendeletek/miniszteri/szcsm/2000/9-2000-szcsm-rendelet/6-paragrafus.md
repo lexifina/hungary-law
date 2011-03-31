@@ -1,4 +1,4 @@
-6. §[^33] (1)[^34] Szociális alapismereteket nyújtó tanfolyamot, valamint alap- és szakvizsgát szociális szakvizsgáztatási joggal rendelkező szociális alapképzést folytató felsőoktatási intézmény és a Nemzeti Szakképzési és Felnőttképzési Intézet (a továbbiakban: vizsgajoggal rendelkező intézmény) szervezhet.
+6. §[^33] (1)[^34] Szociális alapismereteket nyújtó tanfolyamot, valamint alap- és szakvizsgát szociális szakvizsgáztatási joggal rendelkező szociális alapképzést folytató felsőoktatási intézmény és az Intézet (a továbbiakban: vizsgajoggal rendelkező intézmény) szervezhet.
 
 (2)[^35] Szociális alapvizsga, illetve szakvizsga évente egyszer, február 1-je és május 31-e között szervezhető. A vizsgára bocsátás iránti kérelmet a tárgyévet megelőző év szeptember 1-jéig kell benyújtani a jelölt által választott, vizsgajoggal rendelkező intézményhez.
 
@@ -15,7 +15,7 @@ c) szakvizsga esetén a szociális alapvizsga oklevelének másolatát, amennyib
 (5)[^38] A szociális alapismereteket nyújtó tanfolyam képzési programját az Intézet minősíti.
 
 [^33]: A 6. § a 16/2003. (IV. 9.) ESZCSM rendelet 5. §-ával megállapított szöveg, az akkreditációs tanúsítvánnyal kapcsolatban lásd e módosító rendelet 20. §-ának (9)–(10) bekezdését.
-[^34]: A 6. § (1) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 15. § (4) bekezdésének c) pontja szerint módosított szöveg.
+[^34]: A 6. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 16. § b) pontja szerint módosított szöveg.
 [^35]: A 6. § (2) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (1) bekezdésével megállapított szöveg, e módosító rendelet 15. § (2) bekezdése alapján 2007. december 1-jén lép hatályba azzal, hogy a 2008. évi szociális alap- és szakvizsgára bocsátás iránti kérelmet 2007. szeptember 1-jéig kell benyújtani.
 [^36]: A 6. § (3) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^37]: A 6. § (4) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
