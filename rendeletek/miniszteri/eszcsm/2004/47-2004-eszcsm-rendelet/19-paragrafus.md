@@ -1,4 +1,4 @@
-19. § (1)[^15] Sürgősségi fogadóhelyet minden a sürgősségi ellátásban részt vevő aktív betegellátást végző egészségügyi szolgáltató működtet, amennyiben nem rendelkezik sürgősségi osztállyal.
+19. § (1)[^16] Sürgősségi fogadóhelyet minden a sürgősségi ellátásban részt vevő aktív betegellátást végző egészségügyi szolgáltató működtet, amennyiben nem rendelkezik sürgősségi osztállyal.
 
 (2) A sürgős ellátást igénylő beteg részére az egészségügyi szolgáltató a sürgősségi esetek fogadására szolgáló – a szolgáltató akkreditációs szintjének megfelelő – elkülönített fogadóhelyet alakít ki.
 
@@ -24,9 +24,9 @@ eb) intenzív osztályon történő elhelyezéséről, illetve a szolgáltató m
 
 ec) más, a beteg állapota által indokolt ellátási szinten működő egészségügyi szolgáltatóhoz történő továbbküldéséről.
 
-(6)[^16] Sürgősségi osztályt akkor kell létesíteni, ha az egészségügyi szolgáltatónál a várható sürgősségi betegforgalom a napi 40 főt átlagosan meghaladja.
+(6)[^17] Sürgősségi osztályt akkor kell létesíteni, ha az egészségügyi szolgáltatónál a várható sürgősségi betegforgalom a napi 40 főt átlagosan meghaladja.
 
-(7)[^17] Sürgősségi centrumot a legmagasabb ellátási szinten működő olyan egészségügyi szolgáltatónál kell létesíteni, amely a sürgősségi feladatok széles skáláját képes ellátni.
+(7)[^18] Sürgősségi centrumot a legmagasabb ellátási szinten működő olyan egészségügyi szolgáltatónál kell létesíteni, amely a sürgősségi feladatok széles skáláját képes ellátni.
 
 (8) A sürgősségi osztályon, illetve centrumban történik az (5) bekezdésben írtakon túlmenően a legfeljebb 24 óra alatti végleges ellátás, illetve a megfigyelést igénylő esetek ellátása és a betegnek a közvetlenül az osztályról, illetve centrumból történő elbocsátása.
 
@@ -42,6 +42,6 @@ d) idegsebészet, stroke a progresszivitás harmadik szintjén,
 
 e) infektológia a progresszivitás harmadik szintjén.
 
-[^15]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^16]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^17]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^16]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^17]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^18]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.

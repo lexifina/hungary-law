@@ -1,10 +1,10 @@
 ## Ügyelet
 
-10. § (1)[^6]
+10. § (1)[^7]
 
 (2) Az egészségügyi szolgáltató ügyeleti-készenléti szabályzatban rögzíti az ügyeleti, illetve készenléti szolgálat rendjét, az egyes osztályokra, részlegekre vonatkozó ügyeleti-készenléti szervezési feladatokat, az ügyeleti-készenléti szolgálatot ellátók létszámát, szakmai összetételét, ügyviteli feladatait, az átadás-átvétel módját, az ügyeleti naplóra vonatkozó rendelkezéseket.
 
-(3)[^7] Az Eütv. 93. §-ában foglaltakra figyelemmel ügyeleti feladat
+(3)[^8] Az Eütv. 93. §-ában foglaltakra figyelemmel ügyeleti feladat
 
 a) az ügyeleti szolgálat felvétele,
 
@@ -18,5 +18,5 @@ e) a halottakkal kapcsolatos feladatok ellátása,
 
 f) az ügyeleti szolgálat átadása.
 
-[^6]: A 10. § (1) bekezdését a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének b) pontja hatályon kívül helyezte.
-[^7]: A 10. § (3) bekezdésének bevezető szövegrésze a 34/2007. (VI. 29.) EüM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 10. § (1) bekezdését a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^8]: A 10. § (3) bekezdésének bevezető szövegrésze a 34/2007. (VI. 29.) EüM rendelet 1. §-ával megállapított szöveg.

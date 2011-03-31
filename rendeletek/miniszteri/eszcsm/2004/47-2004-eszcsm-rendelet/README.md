@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-47-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2004-47-20-0M.6 | 47/2004. (V. 11.) ESZCSM rendelet |
+| 2011-03-31 | 2004-47-20-0M.7 | 34/2007. (VI. 29.) EüM rendelet |

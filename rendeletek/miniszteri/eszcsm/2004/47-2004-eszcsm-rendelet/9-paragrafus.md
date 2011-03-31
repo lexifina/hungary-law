@@ -8,6 +8,6 @@
 
 (4) A foglalkoztatott a készenlét teljes tartama alatt munkára képes állapotban áll az egészségügyi szolgáltató rendelkezésére és az ügyeletvezető értesítése alapján – az egészségügyi szolgáltatóval előzetesen egyeztetett módon – 40 percen belül köteles munkavégzésre megjelenni.
 
-(5)[^5]
+(5)[^6]
 
-[^5]: A 9. § (5) bekezdését a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^6]: A 9. § (5) bekezdését a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének b) pontja hatályon kívül helyezte.
