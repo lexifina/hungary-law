@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-31-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2004-05-01 | 2001-31-20-0B.3 | 31/2001. (X. 3.) EüM rendelet |
+| 2011-03-31 | 2001-31-20-0B.4 | 10/2011. (III. 30.) NEFMI rendelet |
