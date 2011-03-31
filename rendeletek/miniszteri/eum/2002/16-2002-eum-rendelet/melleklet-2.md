@@ -8,7 +8,7 @@
 
 ## 4. a biológiai hatás vizsgálata: talajra ható mikroorganizmusok esetében legalább 2 szabadföldi vizsgálat eredménye;
 
-## 5. igazolás GMO[^2] mentességről;
+## 5. igazolás GMO[^9] mentességről;
 
 ## 6. a mikroorganizmusok legalább faj szerint megnevezése;
 
@@ -18,4 +18,4 @@
 
 2. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez
 
-[^2]: Genetikailag módosított organizmus.
+[^9]: Genetikailag módosított organizmus.

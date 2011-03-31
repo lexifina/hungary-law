@@ -1,6 +1,6 @@
-| Az ÁNTSZ városi intézetének jelentése a megyei intézet részére |
+| A kistérségi (fővárosi kerületi) népegészségügyi intézet jelentése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részére |
 
-| A városi intézet neve: ............................................................................................................................................................... |
+| A kistérségi (fővárosi kerületi) népegészségügyi intézet neve: .............................................................................................. |
 
 | A jelentés vonatkozási éve: ...................................................................................................................................................... |
 
@@ -76,9 +76,9 @@
 
 | 4.2. intézkedések száma | …………… |
 
-5. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez
+5. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^13]
 
-| Az ÁNTSZ megyei intézetének jelentése az OTH részére |
+| A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének jelentése az Országos Tisztifőorvosi Hivatal részére |
 
 | A megye kódja: .............................................. neve: ................................................................................................................ |
 
@@ -155,3 +155,5 @@
 | 4.1. hulladékkezelő létesítmények száma | …………… |
 
 | 4.2. intézkedések száma | …………… |
+
+[^13]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése szerint módosított szöveg.

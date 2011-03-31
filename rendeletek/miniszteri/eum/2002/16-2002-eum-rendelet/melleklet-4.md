@@ -1,10 +1,10 @@
-| Az ÁNTSZ városi intézetének nyilvántartása a települési hulladék kezelő, elhelyező és lerakó létesítményekről |
+| A fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetének nyilvántartása a települési hulladék kezelő, elhelyező és lerakó létesítményekről |
 
 | Táblázat száma: |
 
 | Megye kódja: |  |  |  | neve: ..................................................................................................................................................... |
 
-| Városi intézet neve: .................................................................................................................................................................... |
+| Kistérségi (fővárosi kerületi) népegészségügyi intézet neve: .................................................................................................... |
 
 | A nyilvántartás vonatkozási ideje (év): ...................................................................................................................................... |
 
@@ -110,4 +110,6 @@
 
 | 47. A válogatás utáni maradék kezelése: 1 = komposztálás 2 = lerakás 3 = égetés (kód) |  |  |  |  |  |  |
 
-4. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez
+4. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^12]
+
+[^12]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése szerint módosított szöveg.
