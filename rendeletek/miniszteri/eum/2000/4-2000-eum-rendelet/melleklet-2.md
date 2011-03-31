@@ -36,7 +36,7 @@
 
 ## Orvosi beutalás – javaslat – igazolás A.3510–64
 
-## Országos Egészségbiztosítási Pénztár központi szervének vénye
+## Országos Egészségbiztosítási Pénztár vénye
 
 ## Beutaló szakrendelésre (konzílium) felülvéleményezésre A.3510–65
 
