@@ -50,6 +50,6 @@
 
 |  | Rift-völgyi láz vírusa |
 
-6. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^20]
+6. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^37]
 
-[^20]: A 6. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (3) bekezdése iktatta be.
+[^37]: A 6. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (3) bekezdése iktatta be.

@@ -72,7 +72,7 @@
 
 ## * A megfelelő szöveg aláhúzandó.
 
-## Az ÁNTSZ városi, fővárosi kerületi intézetének példánya.
+## A kistérségi népegészségügyi intézet példánya.
 
 ## (,,Fertőző beteg jelentés'' című díjelőleges postai boríték használata kötelező.)
 
@@ -212,10 +212,10 @@
 
 ## Személyazonosító adatok nélkül jelentendő: AIDS, HIV-fertőzés, oedema malignum, járványos méretű nosocomialis fertőzések
 
-## Cholera, diphtheria, febris flava, febris recurrens, lepra, lyssa, malleus, pestis, poliomyelitis anterior acuta, typhus abdominalis, typhus exanthematicus, vírusos haemorrhagias lázak, vagy e felsorolt betegségre gyanús megbetegedés észlelését, illetve e betegség következtében történt elhalálozást az írásbeli jelentés megtételén kívül telefonon vagy faxon is jelenteni kell a Johan Béla Országos Epidemiológiai Központ Járványügyi osztályának és az ÁNTSZ megbetegedés helye szerint illetékes megyei intézetének.
+## Cholera, diphtheria, febris flava, febris recurrens, lepra, lyssa, malleus, pestis, poliomyelitis anterior acuta, typhus abdominalis, typhus exanthematicus, vírusos haemorrhagias lázak, vagy e felsorolt betegségre gyanús megbetegedés észlelését, illetve e betegség következtében történt elhalálozást az írásbeli jelentés megtételén kívül telefonon vagy faxon is jelenteni kell az Országos Epidemiológiai Központ Járványügyi osztályának és a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek.
 
-## Ugyancsak telefonon vagy faxon, is jelenteni kell az ÁNTSZ megyei intézetének az emberről emberre terjedő fertőző betegségek halmozott előfordulását. Telefonon vagy faxon jelentendő bármilyen fertőző betegség (függetlenül attól, hogy a felsorolt bejelentendő fertőző betegség közé tartozik vagy nem), amennyiben szokatlanul súlyos formában, vagy a megszokottnál lényegesen nagyobb számban, járványosan fordul elő
+## Ugyancsak telefonon vagy faxon, is jelenteni kell a megyei népegészségügyi szakigazgatási szervnek az emberről emberre terjedő fertőző betegségek halmozott előfordulását. Telefonon vagy faxon jelentendő bármilyen fertőző betegség (függetlenül attól, hogy a felsorolt bejelentendő fertőző betegség közé tartozik vagy nem), amennyiben szokatlanul súlyos formában, vagy a megszokottnál lényegesen nagyobb számban, járványosan fordul elő
 
-4. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^18]
+4. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^35]
 
-[^18]: A 4. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított szöveg.
+[^35]: A 4. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

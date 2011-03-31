@@ -70,7 +70,7 @@
 
 ## Összes ápolt (kontakt)  ⬜ ⬜  ⬜ ⬜ pozitív ápolt kontakt
 
-8. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^22]
+8. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^39]
 
 Nosocomialis véráramfertőzés bejelentésének adattartalma
 
@@ -140,4 +140,4 @@ A beteg halála a nosocomialis fertőzéssel: összefügg ⬜, nem függ össze 
 
 Boncolási jegyzőkönyv alátámasztja: ⬜ igen, ⬜ nem
 
-[^22]: A 8. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (5) bekezdése iktatta be.
+[^39]: A 8. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (5) bekezdése iktatta be.

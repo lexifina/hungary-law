@@ -150,6 +150,6 @@
 
 ## HIV-fertőzés
 
-2. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^16]
+2. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^33]
 
-[^16]: A 2. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított szöveg.
+[^33]: A 2. számú melléklet a 36/2000. (XII. 8.) EüM rendelet 7. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

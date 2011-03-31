@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-63-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1997-63-20-3D.5 | 63/1997. (XII. 21.) NM rendelet |
+| 2011-03-31 | 1997-63-20-3D.6 | 10/2011. (III. 30.) NEFMI rendelet |

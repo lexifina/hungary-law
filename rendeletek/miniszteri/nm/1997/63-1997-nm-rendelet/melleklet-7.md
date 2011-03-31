@@ -112,6 +112,6 @@
 
 ## Vérből, liquorból és más szövetekből kitenyésztett multirezisztens kórokozók (megnevezésüket az OEK által a témában kiadott Módszertani levél tartalmazza)
 
-7. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^21]
+7. számú melléklet a 63/1997. (XII. 21.) NM rendelethez[^38]
 
-[^21]: A 7. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (4) bekezdése iktatta be.
+[^38]: A 7. számú mellékletet a 34/2006. (VIII. 23.) EüM rendelet 6. § (4) bekezdése iktatta be.
