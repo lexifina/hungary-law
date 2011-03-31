@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-0M
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2002-8-20-0M.2 | 8/2002. (X. 4.) ESZCSM rendelet |
+| 2011-03-31 | 2002-8-20-0M.3 | 10/2011. (III. 30.) NEFMI rendelet |
