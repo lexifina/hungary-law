@@ -1,0 +1,5 @@
+## 59. A szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok magyarországi tartózkodásával összefüggő közegészséget veszélyeztető betegségekről szóló 32/2007. (VI. 27.) EüM rendelet módosítása
+
+59. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok magyarországi tartózkodásával összefüggő közegészséget veszélyeztető betegségekről szóló 32/2007. (VI. 27.) EüM rendelet 1. § (2) bekezdésében az „Az Állami Népegészségügyi és Tisztiorvosi Szolgálatnak a külföldi magyarországi lakóhelye, illetve szálláshelye vagy tartózkodási helye szerint illetékes regionális intézete” szövegrész helyébe az „A fővárosi és megyei kormányhivatalnak a külföldi magyarországi lakóhelye, illetve szálláshelye vagy tartózkodási helye szerint illetékes népegészségügyi szakigazgatási szerve” szöveg lép.
+
+(2) A szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok magyarországi tartózkodásával összefüggő közegészséget veszélyeztető betegségekről szóló 32/2007. (VI. 27.) EüM rendelet 2. melléklete e rendelet 26. melléklete szerint módosul.
