@@ -12,11 +12,11 @@ b) az egészségügyi kártevőirtó szolgáltató nyilatkozatát arról, hogy a
 
 (3) Az Intézet az 1. § (4) bekezdése szerinti szakmai gyakorlat elismerésének ténye és tartalma előzetes ellenőrzése érdekében az engedély kiadását megelőzően az EEKH-t megkeresi.
 
-(4)[^4] Az (1) bekezdés a) pontjában foglaltak változásáról az egészségügyi kártevőirtó szolgáltató az Intézetet nyolc napon belül írásban tájékoztatja.
+(4)[^6] Az (1) bekezdés a) pontjában foglaltak változásáról az egészségügyi kártevőirtó szolgáltató az Intézetet nyolc napon belül írásban tájékoztatja.
 
 (5) Ha az engedélyes egészségügyi kártevőirtó szolgáltató tekintetében az 1. § (3) bekezdése szerinti személyi feltételek az engedély kiadását követően bekövetkezett okból már nem, vagy csak részben állnak fenn, a szolgáltató a változás bekövetkezésétől egészségügyi kártevőirtó szolgáltatást csak a ténylegesen foglalkoztatott személyek szakmai kompetenciájának megfelelő résztevékenységek körében nyújthat, vagy – foglalkoztatott személy hiányában – egészségügyi kártevőirtó szolgáltatást nem nyújthat.
 
-(6)[^5] Az Intézet a (4) bekezdés szerinti értesítés kézhezvételétől számított tizenöt napon belül az engedélyt módosítja vagy visszavonja.
+(6)[^7] Az Intézet a (4) bekezdés szerinti értesítés kézhezvételétől számított tizenöt napon belül az engedélyt módosítja vagy visszavonja.
 
-[^4]: A 3. § (4) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (6) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^5]: A 3. § (6) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^6]: A 3. § (4) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (6) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^7]: A 3. § (6) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 2. § (2) bekezdése alapján a 2011. január 1-jétől indult ügyekben és megismételt eljárásokban kell alkalmazni.
