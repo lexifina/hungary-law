@@ -90,7 +90,7 @@
 
 ## A gépkocsi valamennyi ülésének rendelkeznie kell biztonsági övvel.
 
-## A szolgáltatónak a működési engedélye módosítását kell kérnie az illetékes regionális (fővárosi) ÁNTSZ intézettől, ha az általa üzemeltetett és működési engedéllyel rendelkező közúti betegszállító gépjárművet más közúti betegszállító gépjárművel váltja ki.
+## A szolgáltatónak a működési engedélye módosítását kell kérnie az Országos Tisztifőorvosi Hivataltól, ha az általa üzemeltetett és működési engedéllyel rendelkező közúti betegszállító gépjárművet más közúti betegszállító gépjárművel váltja ki.
 
 ## 1. Ülőbeteg-szállító kocsi: gépkocsivezetővel és szükség esetén, betegkísérővel kivonuló, URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
 
@@ -126,6 +126,6 @@
 [^34]: Az 1. számú melléklet I. pontjának 1. d) alpontja az 50/2008. (XII. 31.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (3) bekezdése alapján a gyakorlati vizsgát a betegszállításban gépkocsi-vezetőként vagy betegkísérőként 2009. január 1-jén már foglalkoztatottak 2009. december 31-ig kötelesek letenni.
 [^35]: Az 1. számú melléklet 2. pontjában meghatározott szakképesítés nélküli betegkísérő a 60/2007. (XII. 29.) EüM rendelet 9. § (2) bekezdése alapján 2008. december 31-ig végezheti tevékenységét.
 [^36]: Az 1. számú melléklet I. pontjának 2. c) alpontja az 50/2008. (XII. 31.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (3) bekezdése alapján a gyakorlati vizsgát a betegszállításban gépkocsi-vezetőként vagy betegkísérőként 2009. január 1-jén már foglalkoztatottak 2009. december 31-ig kötelesek letenni.
-[^37]: Az 1. számú melléklet II/B. pontjának bevezető szövegrésze az 50/2008. (XII. 31.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 1. számú melléklet II/B. pont nyitó szövegrésze az 50/2008. (XII. 31.) EüM rendelet 7. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^38]: Az 1. számú melléklet II/B. pontjának 4. alpontja az 50/2008. (XII. 31.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^39]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított szöveg.

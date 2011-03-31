@@ -1,4 +1,4 @@
-## 4/A. §[^15] A betegszállító szervezet saját maga vagy megbízottja útján folyamatos ellátás biztosítására kötelezett. Ha a betegszállító szervezet más betegszállító szervezet közreműködésével biztosítja a folyamatos működését, akkor a feladatot átadó betegszállító szervezet köteles írásban megállapodást kötni a területi ellátási kötelezettség átvállalásáról és az átvállalás időtartamáról a feladatot átvállaló másik betegszállító szervezettel, és erről tájékoztatni a megyei irányító szervezetet, a területileg illetékes REP-et, valamint az ÁNTSZ területileg illetékes regionális intézetét.
+## 4/A. §[^15] A betegszállító szervezet saját maga vagy megbízottja útján folyamatos ellátás biztosítására kötelezett. Ha a betegszállító szervezet más betegszállító szervezet közreműködésével biztosítja a folyamatos működését, akkor a feladatot átadó betegszállító szervezet köteles írásban megállapodást kötni a területi ellátási kötelezettség átvállalásáról és az átvállalás időtartamáról a feladatot átvállaló másik betegszállító szervezettel, és erről tájékoztatni a megyei irányító szervezetet, az OEP-et, valamint az Országos Tisztfőorvosi Hivatalt.
 
 5. § (1) Ülőbeteg-szállító kocsival az a beteg szállítható, aki
 
@@ -28,7 +28,7 @@ c) aki a 14. életévét betöltötte, illetve 14 éven aluli a szülő (gondoz�
 
 (6)[^20] Ügyeleti időben a beteg egészségügyi ellátásra, különösen művesekezelésre, 24 órát üzemelő diagnosztikus vizsgálatra (CT, MRI) szállítható, illetve az egészségügyi ellátást követően visszaszállítható.
 
-[^15]: A 4/A. §-t az 50/2008. (XII. 31.) EüM rendelet 3. §-a iktatta be.
+[^15]: A 4/A. §-t az 50/2008. (XII. 31.) EüM rendelet 3. §-a iktatta be, szövege a 10/2011. (III. 30.) NEFMI rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^16]: Az 5. § (1) bekezdésének a) pontja az 50/2008. (XII. 31.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^17]: Az 5. § (2) bekezdése az 50/2008. (XII. 31.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^18]: Az 5. § (3) bekezdése a 60/2007. (XII. 29.) EüM rendelet 5. §-ával megállapított szöveg.
