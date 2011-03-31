@@ -1,6 +1,6 @@
-7. § (1)[^13]
+7. § (1)[^15]
 
-(2)[^14]
+(2)[^16]
 
-[^13]: A 7. § (1) bekezdését a 69/2002. (IV. 12.) Korm. rendelet 29. § (5) bekezdésének c) pontja hatályon kívül helyezte, 2002. április 15. napjával.
-[^14]: A 7. § (2) bekezdését a 15/2005. (V. 2.) EüM rendelet 11. §-ának (4) bekezdése hatályon kívül helyezte.
+[^15]: A 7. § (1) bekezdését a 69/2002. (IV. 12.) Korm. rendelet 29. § (5) bekezdésének c) pontja hatályon kívül helyezte, 2002. április 15. napjával.
+[^16]: A 7. § (2) bekezdését a 15/2005. (V. 2.) EüM rendelet 11. §-ának (4) bekezdése hatályon kívül helyezte.

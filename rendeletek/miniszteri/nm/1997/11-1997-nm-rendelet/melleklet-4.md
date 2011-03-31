@@ -12,7 +12,7 @@
 
 ## A várószobának közforgalmú helyről megközelíthetőnek kell lennie. A rendelőhelyiségben biztosítani kell a megfelelő fűtést, világítást, valamint a hideg-meleg folyóvizes kézmosási lehetőséget.
 
-## A rendelő felszereltségéről egyedileg, a konkrét tevékenység ismeretében az ÁNTSZ területileg illetékes megyei (fővárosi) intézete dönt.
+## A rendelő felszereltségéről egyedileg, a konkrét tevékenység ismeretében a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete dönt.
 
 4. számú melléklet a 11/1997. (V. 28.) NM rendelethez
 
@@ -2060,7 +2060,7 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1.[^18] Iskolai végzettség:
+1.1.[^21] Iskolai végzettség:
 
 – felsőoktatási intézményben megszerzett oklevél az alábbi szakterületen: egészségügyi, pedagógiai, pszichológiai, szociális, népművelői, teológiai, agrártudományi.
 
@@ -3360,4 +3360,4 @@ A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
 
-[^18]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
+[^21]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
