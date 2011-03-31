@@ -1,0 +1,1 @@
+## 2. § Az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló 37/2007. (XII. 13.) ÖTM rendelet 5. melléklete e rendelet 1. mellékletében foglaltak szerint módosul.
