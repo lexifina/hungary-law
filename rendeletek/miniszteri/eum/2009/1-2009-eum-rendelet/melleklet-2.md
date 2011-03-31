@@ -386,7 +386,7 @@
 
 | XII. 3. | Orvostudományi kutatás engedélyezése, az engedély módosítása a Regionális Kutatásetikai Bizottságok (RKEB) véleménye alapján | 114 000 Ft (ebből az RKEB díja: 15 300 Ft) |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^9]
 
 | Intézet | Bankszámlaszám |
 
@@ -402,16 +402,42 @@
 
 | Országos Frederic Joliot-Curie Sugárbiológiai és Sugáregészségügyi Kutató Intézet | 10032000-00290445-00000000 |
 
-| ÁNTSZ Dél-alföldi Regionális Intézete | 10026005-00290201-00000000 |
+| Bács-Kiskun Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10025004-00301181-00000000 |
 
-| ÁNTSZ Észak-alföldi Regionális Intézete | 10045002-00290184-00000000 |
+| Baranya Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10024003-00301019-00000000 |
 
-| ÁNTSZ Észak-magyarországi Regionális Intézete | 10035003-00290177-00000000 |
+| Békés Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10026005-00302845-00000000 |
 
-| ÁNTSZ Nyugat-dunántúli Regionális Intézete | 10033001-00290218-00000000 |
+| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10027006-00302852-00000000 |
 
-| ÁNTSZ Dél-dunántúli Regionális Intézete | 10039007-00290225-00000000 |
+| Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10028007-00302584-00000000 |
 
-| ÁNTSZ Közép-dunántúli Regionális Intézete | 10048005-00290256-00000000 |
+| Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10029008-00305350-00000000 |
 
-| ÁNTSZ Közép-magyarországi Regionális Intézete | 10032000-00290160-00000000 |
+| Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10023002-00301253-00000000 |
+
+| Győr-Moson-Sopron Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10033001-00301655-00000000 |
+
+| Hajdú-Bihar Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10034002-00301954-00000000 |
+
+| Heves Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10035003-00302113-00000000 |
+
+| Jász-Nagykun-Szolnok Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10045002-00301947-00000000 |
+
+| Komárom-Esztergom Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10036004-00304270-00000000 |
+
+| Nógrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10037005-00302144-00000000 |
+
+| Somogy Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10039007-00301129-00000000 |
+
+| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10044001-00302285-00000000 |
+
+| Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10046003-00306014-00000000 |
+
+| Vas Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10047004-00301459-00000000 |
+
+| Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10048005-00301703-00000000 |
+
+| Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10049006-00303066-00000000 |
+
+[^9]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 64. § (2) bekezdésével megállapított szöveg.
