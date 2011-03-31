@@ -1,6 +1,6 @@
 45. § (1) A bölcsődék szakmai ellenőrzése a Gyvt. 118. §-ának (3) bekezdése szerint történik.
 
-(2)[^115] A bölcsődék egészségügyi tevékenysége feletti szakfelügyeletet az Állami Népegészségügyi és Tisztiorvosi Szolgálat területileg illetékes megyei (fővárosi) intézetének tisztifőorvosa (a továbbiakban: tisztifőorvos) gyakorolja. A tisztifőorvos feladata ellátása érdekében közreműködésre felkérheti a regionális módszertani bölcsődét vagy az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő szakértőt.
+(2)[^115] A bölcsődék egészségügyi tevékenysége feletti szakfelügyeletet a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének tisztifőorvosa (a továbbiakban: tisztifőorvos) gyakorolja. A tisztifőorvos feladata ellátása érdekében közreműködésre felkérheti a regionális módszertani bölcsődét vagy az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő szakértőt.
 
 (3)[^116] A módszertani bölcsőde felkérésre szakvéleményt ad a működési engedélyt kiadó, az ellenőrzést végző, illetve a felügyeletet gyakorló szervnek, valamint a fenntartónak, hogy a bölcsőde tárgyi és személyi feltételei, szakmai programja és működése megfelel-e a jogszabályokban előírt szakmai követelményeknek.
 
@@ -12,6 +12,6 @@ b) véleményezi az egységes óvoda-bölcsőde nevelési programját, minőség
 
 c) részt vesz az egységes óvoda-bölcsőde ellenőrzésében, amelynek során a 3 évesnél fiatalabb gyermekek nevelésével, gondozásával összefüggő szakmai kérdéseket ellenőrzi.
 
-[^115]: A 45. § (2) bekezdésének második mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 32. §-ával megállapított szöveg.
+[^115]: A 45. § (2) bekezdésének második mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 32. §-ával megállapított szöveg. A (2) bekezdés a 10/2011. (III. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.
 [^116]: A 45. § (3) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § e) pontja szerint módosított szöveg.
 [^117]: A 45. § (4) bekezdését a 31/2009. (XII. 22.) SZMM rendelet 7. §-a iktatta be.
