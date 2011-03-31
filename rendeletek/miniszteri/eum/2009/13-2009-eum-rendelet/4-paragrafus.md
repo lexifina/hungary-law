@@ -8,7 +8,7 @@ b) az Országos Tisztifőorvosi Hivatalt,
 
 c) az Egészségügyi Stratégiai Kutatóintézetet,
 
-d)[^4]
+d)[^5]
 
 e) a Magyar Orvosi Kamarát,
 
@@ -26,4 +26,4 @@ j) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítványt.
 
 (4) A tervezetre és a háttéranyagra a társadalmi-szakmai egyeztetés keretében beérkezett észrevételek nyilvánosak, azok megtekintésének lehetőségét az OEP a honlapján folyamatosan biztosítja. Erre – a tervezetnek és a háttéranyagnak az OEP honlapján történő közzétételével egyidejűleg – az OEP honlapján fel kell hívni a figyelmet.
 
-[^4]: A 4. § (2) bekezdés d) pontját a 4/2010. (VIII. 12.) NEFMI rendelet 5. § e) pontja hatályon kívül helyezte.
+[^5]: A 4. § (2) bekezdés d) pontját a 4/2010. (VIII. 12.) NEFMI rendelet 5. § e) pontja hatályon kívül helyezte.
