@@ -450,7 +450,35 @@
 
 ## Műemléki területen épült építmény esetén fotódokumentáció is szükséges.
 
-## VII.[^76]
+## VII.[^76] A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet szerinti általános építésügyi szakhatósági eljáráshoz szükséges építészet-műszaki dokumentáció
+
+## a) az adott rendeltetéssel érintett építmény, építményrész alaprajza a III. fejezet 6. pontja szerinti tartalommal, M=1:200-as méretaránynak megfelelő műszaki tartalommal,
+
+## b) metszetek a megértéshez szükséges számban, a III. fejezet 7. pontja szerinti tartalommal, M=1:100-as méretarányban,
+
+## c) műszaki leírás, az I. fejezet 8. pont b)–e) és k) alpontja szerinti tartalommal,
+
+## d) tartószerkezeti műszaki leírás, amely tartalmazza az építmény tartószerkezetének leírását, jellemzőit, így különösen:
+
+## da) a szerkezet alapvető rendszerének leírását,
+
+## db) az alkalmazott számítási modellt,
+
+## dc) a szerkezet típusát és méreteit,
+
+## e) tervezői nyilatkozat az alábbi tartalommal:
+
+## ea) a felelős tervező és szakági tervező neve, címe, jogosultsági száma,
+
+## eb) az építmény, építményrész az adott rendeltetésre megfelel a vonatkozó jogszabályoknak, általános érvényű és eseti előírásoknak,
+
+## ec) a jogszabályokban meghatározottaktól eltérés engedélyezése szükséges-e,
+
+## ed) a vonatkozó nemzeti szabványtól eltérő eljárás vagy számítási módszer a szabványossal legalább egyenértékű,
+
+## ee) az adott rendeltetéssel érintett építmény, építményrész az Étv. 31. § (2) bekezdés c)–h) pontjában meghatározott követelményeknek megfelel,
+
+## ef) az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
 ## VIII.[^77]
 
@@ -481,6 +509,6 @@
 [^73]: Az 5. melléklet IV. fejezete 2. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
 [^74]: Az 5. melléklet V. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 26. § (6) bekezdésével megállapított és a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés m) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^75]: Az 5. melléklet VI. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^76]: Az 5. melléklet VII. fejezetét a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének v) pontja hatályon kívül helyezte.
+[^76]: Az 5. melléklet VII. fejezetét a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének v) pontja hatályon kívül helyezte, újonnan a 10/2011. (III. 28.) BM rendelet 2. §-a iktatta be.
 [^77]: Az 5. melléklet VIII. fejezetét a 25/2009. (IX. 30.) NFGM rendelet 10. § (2) bekezdés j) pontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2010. január 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^78]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 12. pontja hatályon kívül helyezte.
