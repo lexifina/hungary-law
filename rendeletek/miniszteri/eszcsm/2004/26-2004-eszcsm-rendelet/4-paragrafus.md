@@ -8,4 +8,6 @@ c) a 2. § (2)–(3) bekezdésében meghatározottaknak megfelelő, tartalékos 
 
 d) kezdeményezni a tartalékos hadköteles meghagyásának megszüntetését, ha annak munkaviszonya megszűnt, illetve ha a meghagyás egyéb ok miatt indokolatlanná vált.
 
-(2) A II–III. kategóriájú intézményeknél bekövetkezett minden olyan változásról, illetve okról, ami jelentős kihatással van az intézmény rendkívüli állapotra vonatkozó feladataira (különösen férőhelycsökkentés, feladatváltozás, átszervezés), az intézmény vezetője az Állami Népegészségügyi Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) területileg illetékes főváros/megyei intézete útján haladéktalanul tájékoztatni köteles a minisztériumot.
+(2)[^3] A II–III. kategóriájú intézményeknél bekövetkezett minden olyan változásról, illetve okról, ami jelentős kihatással van az intézmény rendkívüli állapotra vonatkozó feladataira (különösen férőhelycsökkentés, feladatváltozás, átszervezés), az intézmény vezetője a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) útján haladéktalanul tájékoztatni köteles a minisztériumot.
+
+[^3]: A 4. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 37. § (1) bekezdés b) pontja szerint módosított szöveg.
