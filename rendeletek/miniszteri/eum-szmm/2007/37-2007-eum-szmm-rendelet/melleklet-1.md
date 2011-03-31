@@ -1,6 +1,6 @@
 1. számú melléklet a 37/2007. (VII. 23.) EüM–SZMM
 
-együttes rendelethez[^5]
+együttes rendelethez[^7]
 
 I. Szálláshelyek üzemeltetésének közös egészségügyi szabályai
 
@@ -14,11 +14,11 @@ I. Szálláshelyek üzemeltetésének közös egészségügyi szabályai
 
 5. A takarításhoz, tisztításhoz és fertőtlenítéshez használt eszközöket, a veszélyes anyagnak, veszélyes készítménynek nem minősülő tisztító- és fertőtlenítőszereket külön helyiségben, egyéb zárt tárolóhelyen (tisztítószerraktár, -szekrény) vagy egyéb elzárható helyen kell tartani. Ha azok a veszélyes anyagok és veszélyes készítmények közé tartoznak, akkor a külön jogszabályok előírásait kell betartani.
 
-6. A táborozás szervezőjének a táborozás megkezdése előtt tájékoztatnia kell a részvevőket arról, hogy védőoltással megelőzhető a kullancs-encephalitis, azonban a Lyme-kór ellen nem véd, ezért a kullancsirtószerek alkalmazása és a naponkénti „kullancsvizit”, valamint a felfedezett kullancsok azonnali eltávolítása szükséges.
+6.[^8] A táborozás szervezőjének a táborozás megkezdése előtt tájékoztatnia kell a részvevőket arról, hogy védőoltással megelőzhető a kullancs-encephalitis, azonban a Lyme-kór ellen nem véd, ezért a kullancsirtószerek alkalmazása és a naponkénti „kullancsvizit”, valamint a felfedezett kullancsok azonnali eltávolítása szükséges.
 
 A tájékoztatásnak ki kell terjednie a nem szokványos viselkedésű vadonélő állatok simogatásával, érintésével kapcsolatos veszélyekre is.
 
-Amennyiben állatharapás, marás vagy tömeges darázscsípés történik – az orvosi ellátás biztosításán túl –, a harapás, a marás vagy a csípés tényét azonnal jelenteni kell a tábor helye szerint illetékes regionális intézetnek.
+Amennyiben állatharapás, marás vagy tömeges darázscsípés történik – az orvosi ellátás biztosításán túl –, a harapás, a marás vagy a csípés tényét azonnal jelenteni kell a tábor helye szerint illetékes népegészségügyi szakigazgatási szervnek.
 
 II. Üdülő, gyermeküdülő, gyermek- és ifjúsági tábor, telepített sátortábor üzemeltetésének különös egészségügyi szabályai
 
@@ -56,4 +56,5 @@ Hidrogeológiailag érzékeny területeken a helyi szikkasztást, emésztő- és
 
 6. A nomád táborozás befejezése után a táborhelyet legalább olyan tisztasági állapotban kell elhagyni, mint amilyenben az a táborozás megkezdésekor volt.
 
-[^5]: Az 1. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
+[^7]: Az 1. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
+[^8]: Az 1. számú melléklet I. fejezet 6. pontja a 10/2011. (III. 30.) NEFMI rendelet 60. § (2) bekezdése szerint módosított szöveg.
