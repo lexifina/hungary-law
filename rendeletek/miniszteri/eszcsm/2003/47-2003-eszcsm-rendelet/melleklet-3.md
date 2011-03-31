@@ -36,6 +36,6 @@
 
 ## ahol AKi a radioaktív hulladékban előforduló i-edik radioizotóp aktivitás-koncentrációja, míg a MEAKi az i-edik radioizotóp mentességi aktivitás-koncentrációja.
 
-3. számú melléklet a 47/2003. (VIII. 8.) ESZCSM rendelethez[^13]
+3. számú melléklet a 47/2003. (VIII. 8.) ESZCSM rendelethez[^14]
 
-[^13]: A 3. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 46. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^14]: A 3. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 46. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

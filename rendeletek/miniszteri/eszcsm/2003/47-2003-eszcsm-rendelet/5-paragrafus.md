@@ -16,8 +16,8 @@ e) elhelyezésre történő átvételükkor a tárolóba szállított hulladék 
 
 (4) A hulladékkezelés során olyan hulladékformát és csomagolást kell kialakítani, amely kielégíti a hulladékot átvevő számára jóváhagyott hulladék átvételi követelményrendszert. A követelményeknek összhangban kell lenniük az átvevő által elvégezni kívánt hulladékkezelési műveletek engedélyezett feltételeivel és a további fázisok igényeivel, valamint az átvevő műszaki lehetőségeivel.
 
-(5) További felhasználásra nem kerülő radioaktív anyag kibocsátása a környezetbe, illetve elhelyezése csak a külön jogszabályban[^3] meghatározott módon történhet.
+(5) További felhasználásra nem kerülő radioaktív anyag kibocsátása a környezetbe, illetve elhelyezése csak a külön jogszabályban[^4] meghatározott módon történhet.
 
 (6) Abban az esetben, ha a hulladék egyidejűleg radioaktív és veszélyes hulladék, a veszélyes hulladékokra vonatkozó biztonsági követelményeket is figyelembe kell venni. Nukleáris anyagot is tartalmazó hulladékok esetén a nukleáris anyagok kezelésére vonatkozó előírásokat is be kell tartani.
 
-[^3]: 15/2001. (VI. 6.) KöM rendelet.
+[^4]: 15/2001. (VI. 6.) KöM rendelet.
