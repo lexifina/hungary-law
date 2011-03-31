@@ -8,9 +8,7 @@
 
 ## 3. Csecsemők és kisgyermekek számára készült, feldolgozott gabonaalapú élelmiszerek, bébiételek
 
-## 4. Testtömeg csökkentés céljára szolgáló csökkentett energiatartalmú élelmiszerek
-
-## [5.[^13] Gluténérzékenyeknek szánt élelmiszerek]
+## 4.[^18] Testtömeg csökkentés céljára szolgáló csökkentett energiatartalmú élelmiszerek
 
 ## B. Termék-specifikus előírással jelenleg nem szabályozott különleges élelmiszerek
 
@@ -28,13 +26,13 @@
 
 ## d) az a) és c) pontban közölt előírások a fruktózra nem vonatkoznak.
 
-## 3.[^14] Egyéb, az előzőekben fel nem sorolt különleges táplálkozási célú élelmiszerek.
+## 3.[^19] Egyéb, az előzőekben fel nem sorolt különleges táplálkozási célú élelmiszerek.
 
-## II.[^15]
+## II.[^20]
 
-2–3. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^16]
+2–3. számú melléklet a 36/2004. (IV. 26.) ESZCSM rendelethez[^21]
 
-[^13]: Az 1. számú melléklet I.A. rész 5. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (1) bekezdése iktatta be. [E módosító rendelet 7. § (2) bekezdés a) pontja alapján a rendelkezés 2012. január 1. napján lép hatályba.]
-[^14]: Az 1. számú melléklet I. B. rész 3. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (2) bekezdése iktatta be.
-[^15]: Az 1. számú melléklet II. részét a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^16]: A 2–3. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^18]: [Az 1. számú melléklet I.A. részének 5. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (1) bekezdése iktatta be, a 7. § (2) bekezdés a) pontja alapján 2012. január 1-jétől hatályos szövege: „5. Gluténérzékenyeknek szánt élelmiszerek”.]
+[^19]: Az 1. számú melléklet I. B. rész 3. pontját a 41/2009. (XI. 23.) EüM rendelet 6. § (2) bekezdése iktatta be.
+[^20]: Az 1. számú melléklet II. részét a 41/2009. (XI. 23.) EüM rendelet 7. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^21]: A 2–3. számú mellékletet az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
