@@ -442,7 +442,7 @@
 
 ## Submission of this report does not, in itself, represent a conclusion by the manufacturer and/or authorized representative or the national competent authority that the content of this report is complete or accurate, that the medical device(s) listed failed in any manner and/or that the medical device(s) caused or contributed to the alleged death or deterioration in the state of the health of any person.
 
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^19]
 
 ## Időszakos felülvizsgálat
 
@@ -490,7 +490,7 @@ I. Az időszakos felülvizsgálatra kötelezett termékek köre, a felülvizsgá
 
 II. Egyéb előírások
 
-1. A vizsgálat eredményét rögzíteni kell. A dokumentációt az intézmény műszerfelelőse köteles megőrizni és kérelemre a munkavédelmi felelősnek, felügyeleti szervezetének, az ÁNTSZ illetékes intézetének és a Hivatalnak bemutatni. A vizsgálat eredménye mellett meg kell jelölni az ellenőrzés módját is.
+1. A vizsgálat eredményét rögzíteni kell. A dokumentációt az intézmény műszerfelelőse köteles megőrizni és kérelemre a munkavédelmi felelősnek, felügyeleti szervezetének, az egészségügyi államigazgatási szervnek és a Hivatalnak bemutatni. A vizsgálat eredménye mellett meg kell jelölni az ellenőrzés módját is.
 
 2. Nehezen vagy csak nagy költséggel szállítható készülék esetében vagy olyan készüléknél, amely átmenetileg sem nélkülözhető az intézményben, helyi ellenőrzési módszert kell biztosítani.
 
@@ -499,3 +499,5 @@ II. Egyéb előírások
 4. Az időszakos felülvizsgálat nem érinti a más minősítő intézet hatáskörébe utalt kötelező vizsgálatokat (pl. mértékhitelesítés).
 
 5. Az első időszakos felülvizsgálat az üzembe helyezést követően, az előírt gyakoriságtól függően 1, 2 vagy 3 év elteltével esedékes. A további felülvizsgálat az előző felülvizsgálat időpontjától számítandó.
+
+[^19]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése szerint módosított szöveg.

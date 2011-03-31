@@ -18,10 +18,14 @@ a) a Bizottságot,
 
 b) az EGT tagállamokat,
 
-c) a Nemzeti Fogyasztóvédelmi Hatóságot,
+c)[^5] a fogyasztóvédelmi hatóságot,
 
 d) az Országos Egészségbiztosítási Pénztárt, valamint
 
-e) az Állami Népegészségügyi és Tisztiorvosi Szolgálatot.
+e)[^6] az Országos Tisztifőorvosi Hivatalt.
 
-(5) Az (1) bekezdés szerinti határozatot és a Nemzeti Fogyasztóvédelmi Hatóság eljárása alapján a forgalomból kivont eszközök körét, valamint azok gyártójának, illetve meghatalmazott képviselőjének a nevét az Egészségügyi Minisztérium honlapján közzé kell tenni.
+(5)[^7] Az (1) bekezdés szerinti határozatot és a fogyasztóvédelmi hatóság eljárása alapján a forgalomból kivont eszközök körét, valamint azok gyártójának, illetve meghatalmazott képviselőjének a nevét az egészségügyért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
+
+[^5]: A 22. § (4) bekezdés c) pontja a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés a) pontjával megállapított szöveg.
+[^6]: A 22. § (4) bekezdés e) pontja a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés b) pontjával megállapított szöveg.
+[^7]: A 22. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés c) pontja szerint módosított szöveg.
