@@ -2,9 +2,7 @@
 
 ## 1. ADATLAP
 
-## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett
-
-## tevékenység ÁNTSZ-hez történő bejelentéséhez
+## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenység kistérségi népegészségügyi intézethez történő bejelentéséhez
 
 ## 1. Tevékenységet végző (cég)
 
@@ -52,7 +50,7 @@
 
 ## Igazolás
 
-| ÁNTSZ azonosító kód | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| a kistérségi népegészségügyi intézet azonosító kódja | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
 ## Tevékenységet végző (cég)
 
@@ -62,7 +60,7 @@
 
 ## Telephely címe: ⬜ ⬜ ⬜ ⬜ Megye: ..................................................
 
-## A bejelentést az ÁNTSZ fogadta.
+## A kistérségi népegészségügyi intézet a bejelentést fogadta.
 
 ## Dátum: ……………………………
 
@@ -74,9 +72,7 @@
 
 ## 2. ADATLAP
 
-## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenységekben
-
-## bekövetkezett változás ÁNTSZ-hez történő bejelentéséhez
+## veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenységekben bekövetkezett változás kistérségi népegészségügyi intézethez történő bejelentéséhez
 
 ## 1. Tevékenységet végző (cég)
 
@@ -98,7 +94,7 @@
 
 ## 2. Az első bejelentés időpontja:
 
-|  | ÁNTSZ azonosító kód: | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| a kistérségi népegészségügyi intézet azonosító kódja | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
 ## 3. Az adatváltozás szöveges ismertetése, időpontja:
 
@@ -118,7 +114,7 @@
 
 ## Igazolás
 
-| ÁNTSZ azonosító kód | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| a kistérségi népegészségügyi intézet azonosító kódja | ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
 ## Tevékenységet végző (cég)
 
@@ -128,7 +124,7 @@
 
 ## Telephely címe: ⬜ ⬜ ⬜ ⬜ Megye: ..................................................
 
-## A bejelentést az ÁNTSZ fogadta.
+## A kistérségi népegészségügyi intézet a bejelentést fogadta.
 
 ## Dátum: ……………………………
 

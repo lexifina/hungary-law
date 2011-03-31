@@ -96,4 +96,4 @@
 
 13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^160]
 
-[^160]: A 13. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 13. §-ának (2) bekezdése alapján előírásait a 2004. május 1. napját követően benyújtott bejelentések esetében kell alkalmazni.
+[^160]: A 13. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 11. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
