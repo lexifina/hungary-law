@@ -1,4 +1,4 @@
-## 9. § Ha a Mezőgazdasági Szakigazgatási Hivatal vagy az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 4. § (5) bekezdés c) pont cb) alpontja szerinti feladatkörében eljáró Állami Népegészségügyi és Tisztiorvosi Szolgálat intézete az 1924/2006/EK rendelet 24. cikk (1) bekezdése alapján az állítás alkalmazását átmenetileg felfüggeszti, a felfüggesztés tárgyában hozott határozatát az OÉTI-vel is közli.
+## 9. §[^3] Ha a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatalok élelmiszerlánc-biztonsági és állategészségügyi igazgatóságai, valamint azok kerületi hivatala vagy az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 4. § (5) bekezdés c) pont cb) alpontja szerinti feladatkörében eljáró fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete az 1924/2006/EK rendelet 24. cikk (1) bekezdése alapján az állítás alkalmazását átmenetileg felfüggeszti, a felfüggesztés tárgyában hozott határozatát az OÉTI-vel is közli.
 
 10. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
@@ -11,3 +11,5 @@ a) az élelmiszerekkel kapcsolatos, tápanyag-összetételre és egészségre vo
 b) az 1924/2006/EK európai parlamenti és tanácsi rendelet 15. cikkében előírt, az egészségre vonatkozó állítások engedélyezése iránti kérelmekre vonatkozó végrehajtási szabályok megállapításáról szóló 2008. április 18-i 353/2008/EK bizottsági rendelet, valamint az azt módosító 1169/2009/EK bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+[^3]: A 9. § a 10/2011. (III. 30.) NEFMI rendelet 72. § (2) bekezdése szerint módosított szöveg.

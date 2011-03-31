@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-33-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-05-18 | 2010-33-20-0B.1 | 33/2010. (V. 13.) EüM–FVM együttes rendelet |
+| 2011-03-31 | 2010-33-20-0B.2 | 10/2011. (III. 30.) NEFMI rendelet |
