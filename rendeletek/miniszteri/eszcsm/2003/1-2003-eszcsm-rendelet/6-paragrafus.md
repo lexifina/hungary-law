@@ -1,6 +1,6 @@
 6. §[^15] (1) Az orvos által rendelt magisztrális gyógyszerek esetében a társadalombiztosítási támogatás összege – ha e jogszabály másként nem rendelkezik –
 
-a)[^16] a Szabványos Vényminták Gyűjteményébe (Formulae Normales, a továbbiakban: FoNo) és a Magyar Gyógyszerkönyvbe felvett gyógyszerek, illetőleg az egyedi – forgalomba hozatalra engedélyezett gyógyszert nem tartalmazó – magisztrális gyógyszerek esetében a (2)–(3) bekezdés alapján meghatározott és az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) által közzétett összeg, valamint a nem betéti díjas csomagolási költség és készítési díj összege áfával képzett (bruttó) árának 50%-a, azzal, hogy egy díjtétel egy forintnál kevesebb nem lehet,
+a)[^16] a Szabványos Vényminták Gyűjteményébe (Formulae Normales, a továbbiakban: FoNo) és a Magyar Gyógyszerkönyvbe felvett gyógyszerek, illetőleg az egyedi – forgalomba hozatalra engedélyezett gyógyszert nem tartalmazó – magisztrális gyógyszerek esetében a (2)–(3) bekezdés alapján meghatározott és az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által közzétett összeg, valamint a nem betéti díjas csomagolási költség és készítési díj összege áfával képzett (bruttó) árának 50%-a, azzal, hogy egy díjtétel egy forintnál kevesebb nem lehet,
 
 b) forgalomba hozatalra engedélyezett gyógyszert tartalmazó magisztrális gyógyszerek esetében az összetételben lévő forgalomba hozatalra engedélyezett gyógyszer(ek) – külön jogszabály alapján hozott határozatban meghatározott – támogatási összege, valamint az a) pont szerint számolt összeg.
 
@@ -21,6 +21,6 @@ b) forgalomba hozatalra engedélyezett gyógyszert tartalmazó magisztrális gy�
 (9) Az (1)–(8) bekezdés alkalmazása szempontjából a közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető készítési díjak összegét a 7. számú melléklet tartalmazza.
 
 [^15]: A 6. § a 6/2007. (I. 31.) EüM rendelet 4. §-ával megállapított szöveg.
-[^16]: A 6. § (1) bekezdésének a) pontja az 55/2008. (XII. 31.) EüM rendelet 4. §-a szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdés a) pontja a 10/2011. (III. 30.) NEFMI rendelet 29. §-a szerint módosított szöveg.
 [^17]: A 6/2007. (I. 31.) EüM rendelet 6. § (5) bekezdése alapján a 6. § (2) bekezdés szerinti árbejelentést a forgalmazók első alkalommal 2007. február 28-áig nyújthatják be az OEP-hez.
 [^18]: A 6/2007. (I. 31.) EüM rendelet 6. § (5) bekezdése alapján az OEP a 6. § (3) bekezdés szerinti közleményét első alkalommal 2007. április 1. napjáig teszi közzé.
