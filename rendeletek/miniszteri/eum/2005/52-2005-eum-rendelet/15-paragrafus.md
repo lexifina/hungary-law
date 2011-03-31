@@ -18,7 +18,7 @@ d) abban az esetben, ha a Magyar Köztársasággal GMP elfogadásáról kölcsö
 
 (5) Az OGYI az 5. § (2) bekezdés szerinti kérelem tartalmára vonatkozó gyógyszerészeti, farmako-toxikológiai és klinikai értékelése eredményét értékelő jelentésben foglalja össze. Ezt – valahányszor új, a készítmény minőségét, relatív ártalmatlanságát vagy hatásosságát érintő új adat jut tudomására – megfelelően módosítja.
 
-(6)[^23] Ha az OGYI az értékelés során megállapítja, hogy a gyógyszer megfelel a Gytv. 5. § (2) bekezdésében és az e rendeletben meghatározott feltételeknek, a gyógyszer forgalomba hozatalát engedélyezi. Az engedélyezési eljárás során hozott határozatot az OGYI elektronikus úton is közli az Országos Egészségbiztosítási Pénztár központi szervével, valamint – immunológiai gyógyszer esetén – az OEK-kal.
+(6)[^23] Ha az OGYI az értékelés során megállapítja, hogy a gyógyszer megfelel a Gytv. 5. § (2) bekezdésében és az e rendeletben meghatározott feltételeknek, a gyógyszer forgalomba hozatalát engedélyezi. Az engedélyezési eljárás során hozott határozatot az OGYI elektronikus úton is közli az Országos Egészségbiztosítási Pénztárral, valamint – immunológiai gyógyszer esetén – az OEK-kal.
 
 (7) Az immunológiai gyógyszer forgalomba hozatali engedélyében – a Gytv. 5. § (5) bekezdésben meghatározottakon túl – rendelkezni kell arról is, hogy a készítmény egyes gyártási tételei csak akkor kerülhetnek forgalomba, ha azokat az OEK megvizsgálta és felhasználásra alkalmasnak találta, kivéve, ha más tagállam megvizsgálta és felhasználásra alkalmasnak találta.
 
@@ -27,5 +27,5 @@ d) abban az esetben, ha a Magyar Köztársasággal GMP elfogadásáról kölcsö
 [^20]: A 15. § (2) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 3. § c) pontja szerint módosított szöveg.
 [^21]: A 15. § (3) bekezdése a 20/2010. (IV. 29.) EüM rendelet 3. § d) pontja szerint módosított szöveg.
 [^22]: A 15. § (4) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § c) pontja hatályon kívül helyezte.
-[^23]: A 15. § (6) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^23]: A 15. § (6) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (9) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 55. § a) pontja szerint módosított szöveg.
 [^24]: A 15. § (8) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.

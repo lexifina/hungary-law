@@ -16,10 +16,10 @@ b) azoknak a gyógyszereknek a körét, amelyek forgalomba hozatali engedélye v
 
 (6) Az (1) bekezdés a) pontja szerinti listát az OGYI a közzététellel egyidejűleg megküldi a Bizottságnak, az Ügynökségnek és a tagállamoknak.
 
-(7)[^42] A jogosult a gyógyszer kereskedelmi forgalomba hozatalát megelőzően köteles a gyógyszer – első forgalomba hozatalra szánt gyártási tételéből származó – végleges mintáját az OGYI részére megküldeni. Az OGYI a végleges mintát – az átvételétől számított 5 munkanapon belül – megvizsgálja. Ha a vizsgálat eredményeként az OGYI azt állapítja meg, hogy a minta nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek, a gyógyszer nem hozható forgalomba.
+(7)[^42] A jogosult a gyógyszer kereskedelmi forgalomba hozatalát megelőzően köteles a gyógyszer – első forgalomba hozatalra szánt gyártási tételéből származó – végleges mintáját az OGYI részére megküldeni. Az OGYI a végleges mintát – az átvételétől számított 8 napon belül – megvizsgálja. Ha a vizsgálat eredményeként az OGYI azt állapítja meg, hogy a minta nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek, a gyógyszer nem hozható forgalomba.
 
 [^38]: A 33. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (14) bekezdésével megállapított szöveg.
 [^39]: A 33. § (2) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § h) pontja hatályon kívül helyezte.
 [^40]: A 33. § (3) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (15) bekezdésével megállapított szöveg.
 [^41]: A 33. § (4) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § i) és j) pontja szerint módosított szöveg.
-[^42]: A 33. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (16) bekezdésével megállapított szöveg.
+[^42]: A 33. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (16) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 55. § b) pontja szerint módosított szöveg.

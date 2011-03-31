@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-52-20-0
 | 2010-05-04 | 2005-52-20-0B.13 | 20/2010. (IV. 29.) EüM rendelet |
 | 2010-05-29 | 2005-52-20-0B.14 | 20/2010. (IV. 29.) EüM rendelet |
 | 2010-05-30 | 2005-52-20-0B.15 | 20/2010. (IV. 29.) EüM rendelet |
+| 2011-03-31 | 2005-52-20-0B.16 | 20/2010. (IV. 29.) EüM rendelet |
