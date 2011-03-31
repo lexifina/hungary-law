@@ -112,7 +112,7 @@
 
 ## d) e melléklet 6. pontja szerinti végzettséggel rendelkezik.
 
-## 6.[^15] Rohamkocsira az osztható be, aki
+## 6.[^19] Rohamkocsira az osztható be, aki
 
 ## a) oxyológus, vagy
 
@@ -126,7 +126,7 @@
 
 ## 7. Oxyológus szakorvosként az foglalkoztatható, aki oxyológiából szakorvosi bizonyítványt szerzett.
 
-## 8.[^16] Speciális rohamkocsin (MICU) orvosként az foglalkoztatható, aki
+## 8.[^20] Speciális rohamkocsin (MICU) orvosként az foglalkoztatható, aki
 
 ## a) oxyológiai, vagy
 
@@ -168,7 +168,7 @@
 
 ## Mentőpilótaként az foglalkoztatható, aki a hatályos légügyi előírás szerint meghatározott légijármű vezetői képesítéssel rendelkezik.
 
-## 12.[^17] Mentőorvosi gépkocsin az a szakorvos foglalkoztatható, aki
+## 12.[^21] Mentőorvosi gépkocsin az a szakorvos foglalkoztatható, aki
 
 ## a) oxyológus, vagy
 
@@ -176,7 +176,7 @@
 
 ## c) aneszteziológia és intenzív terápiás szakorvos.
 
-## 13.[^18] Mentő-motorkerékpáron az foglalkoztatható, aki a megkülönböztetett jelzéssel ellátott, mentésre alkalmas műszaki paraméterekkel rendelkező motorkerékpár vezetésére érvényes jogosítvánnyal rendelkezik, és
+## 13.[^22] Mentő-motorkerékpáron az foglalkoztatható, aki a megkülönböztetett jelzéssel ellátott, mentésre alkalmas műszaki paraméterekkel rendelkező motorkerékpár vezetésére érvényes jogosítvánnyal rendelkezik, és
 
 ## a) az egészségügyi felsőoktatás főiskolai szintű alapképzésében mentőtiszti szakképzettséget szerzett, vagy
 
@@ -212,9 +212,9 @@
 
 ## = a mentőjárművek és egészségügyi felszerelésük készenlétben tartására, tárolására, takarítására és fertőtlenítésére.
 
-## II/B)[^19] Mentőjárművek
+## II/B)[^23] Mentőjárművek
 
-## Általános mentést, koraszülött mentést és koraszülött szállítást, őrzött betegszállítást, illetve mozgóőrségi tevékenységet végző közúti mentőjármű az ÁNTSZ engedély kiadásakor a gyártás évétől számítva 6 évesnél idősebb nem lehet, és legfeljebb a gyártás évétől számított 10 évig üzemeltethető. Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsi(ka)t kell biztosítani. A mentőjárművek lehetnek a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – azok használatában.
+## Általános mentést, koraszülött mentést és koraszülött szállítást, őrzött betegszállítást, illetve mozgóőrségi tevékenységet végző közúti mentőjármű a működési engedély kiadásakor a gyártás évétől számítva 6 évesnél idősebb nem lehet, és legfeljebb a gyártás évétől számított 10 évig üzemeltethető. Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsi(ka)t kell biztosítani. A mentőjárművek lehetnek a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – azok használatában.
 
 ## A Magyar Honvédség és a Rendőrség által üzemeltetett mentőjárművek üzemeltetési idejét a hatósági vizsgálatok, illetve a mentőjárművek tényleges műszaki állapota alapján az üzemeltető határozza meg.
 
@@ -776,29 +776,29 @@ ic) vezetője oxyológus szakorvos vagy gyakorlott mentőorvos, személyi állom
 
 2.6.4. 10 001–50 000 fő részvétele esetén legalább egy rohamkocsi, egy esetkocsi és egy mentőgépkocsi szükséges.
 
-2.6.5.[^20] 50 000–200 000 fő közötti létszámú rendezvény esetén, minden megkezdett 50 000 főnként további egy-egy eset- és egy-egy mentőgépkocsi, valamint 100 000 főnként további egy rohamkocsi szükséges.
+2.6.5.[^24] 50 000–200 000 fő közötti létszámú rendezvény esetén, minden megkezdett 50 000 főnként további egy-egy eset- és egy-egy mentőgépkocsi, valamint 100 000 főnként további egy rohamkocsi szükséges.
 
-2.6.6.[^21] 200 000 feletti létszám esetén minden megkezdett 100 000 főnként további egy-egy roham- és egy-egy esetkocsi, valamint két mentőgépkocsi szükséges. Ebben az esetben az egyik rohamkocsi mentőorvosi gépkocsival helyettesíthető.
+2.6.6.[^25] 200 000 feletti létszám esetén minden megkezdett 100 000 főnként további egy-egy roham- és egy-egy esetkocsi, valamint két mentőgépkocsi szükséges. Ebben az esetben az egyik rohamkocsi mentőorvosi gépkocsival helyettesíthető.
 
 2.6.7. 50 000 főt meghaladó rendezvény esetén oxyológiai ambulancia biztosítása szükséges.
 
-2.6.8.[^22]
+2.6.8.[^26]
 
 2.6.9. Szabadtéri autómotorsport-rendezvény esetén – a fokozott veszélyforrásra figyelemmel – egy mentőhelikopter is szükséges, ha a rendezvény nagy területen zajlik, mentőgépkocsival nehezen bejárható és a pálya legtávolabbi pontja 10 percen belül, illetve az ellátó egészségügyi intézmény 20 percen belül földi mentőjárművel nem érhető el.
 
-2.6.10.[^23] A rendezvény szervezője a helyszín biztosításában résztvevőkkel történő folyamatos kapcsolattartás érdekében – a szervezők közül – felelős vezetőt jelöl ki.
+2.6.10.[^27] A rendezvény szervezője a helyszín biztosításában résztvevőkkel történő folyamatos kapcsolattartás érdekében – a szervezők közül – felelős vezetőt jelöl ki.
 
-3.[^24] Rendezvényen ellátott beteg elszállítása
+3.[^28] Rendezvényen ellátott beteg elszállítása
 
 Amennyiben az 1–2. pontban foglaltak szerint ellátott beteg egészségi állapotának megfelelő ellátásra alkalmas, legközelebbi egészségügyi intézménybe szállítása válik szükségessé, akkor erről a rendezvény egészségügyi biztosítását végző szervezetnek kell gondoskodnia. Ennek hiányában, vagy ha a tervezett oxyológiai ellátás a rendezvényen elégtelennek bizonyul, az OMSZ igazolt többletköltségét az egészségügyi biztosítást végző szervezet köteles az OMSZ számára megtéríteni.
 
-[^15]: Az 1. számú melléklet I. része I/A. pontjának 6. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^16]: Az 1. számú melléklet I. része I/A. pontjának 8. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^17]: Az 1. számú melléklet I. része I/A. pontjának 12. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 1. számú melléklet I. része I/A. pontjának 13. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 1. számú melléklet II. része I/B. pontjának bevezető szövegrésze a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^20]: A 2. számú melléklet 2.6.5. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^21]: A 2. számú melléklet 2.6.6. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^22]: A 2. számú melléklet 2.6.8. pontját a 42/2006. (XI. 30.) EüM rendelet 3. §-a hatályon kívül helyezte.
-[^23]: A 2. számú melléklet 2.6.10. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^24]: A 2. számú melléklet 3. pontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet I. része I/A. pontjának 6. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 1. számú melléklet I. része I/A. pontjának 8. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^21]: Az 1. számú melléklet I. része I/A. pontjának 12. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. számú melléklet I. része I/A. pontjának 13. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. számú melléklet II. része II/B. pontjának bevezető szövegrésze a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 56. § (5) bekezdése szerint módosított szöveg.
+[^24]: A 2. számú melléklet 2.6.5. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
+[^25]: A 2. számú melléklet 2.6.6. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 2. számú melléklet 2.6.8. pontját a 42/2006. (XI. 30.) EüM rendelet 3. §-a hatályon kívül helyezte.
+[^27]: A 2. számú melléklet 2.6.10. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
+[^28]: A 2. számú melléklet 3. pontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.

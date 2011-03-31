@@ -14,6 +14,6 @@ b) egyéb szolgálatok – ideértve a háziorvosi vagy orvosi ügyeleti szolgá
 
 c) a bejelentés elutasításáról, amennyiben egyértelműen megállapítható, hogy nem szükséges a beteg sürgősségi ellátása.
 
-(3)[^6]
+(3)[^7]
 
-[^6]: A 4. § (3) bekezdését a 61/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 4. § (3) bekezdését a 61/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdése hatályon kívül helyezte.

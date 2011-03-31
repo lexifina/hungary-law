@@ -138,7 +138,7 @@
 
 | Mentésirányítói feljegyzések: |
 
-4. számú melléklet az 5/2006. (II. 7.) EüM rendelethez[^26]
+4. számú melléklet az 5/2006. (II. 7.) EüM rendelethez[^30]
 
 Mentési utalvány
 
@@ -182,4 +182,4 @@ Kíséret igénye: mentőápoló ⬜ mentőtiszt ⬜ mentőorvos ⬜
 
 megrendelő orvos aláírása és bélyegzője
 
-[^26]: A 4. számú mellékletet a 61/2007. (XII. 29.) EüM rendelet 7. § (3) bekezdése iktatta be.
+[^30]: A 4. számú mellékletet a 61/2007. (XII. 29.) EüM rendelet 7. § (3) bekezdése iktatta be.

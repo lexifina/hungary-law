@@ -4,6 +4,6 @@
 
 (3) Az OMSZ mentési feladata(i) ellátására az (1) bekezdés szerinti működési engedéllyel rendelkező egészségügyi szolgáltatót közreműködőként igénybe veheti.
 
-(4)[^11] Az OMSZ az Eütv. 96. §-ának (2) bekezdése szerinti koordináló tevékenysége körében együttműködési megállapodást köt azzal az alternatív mentő szervezettel, amely a működéshez nem igényel az állami költségvetésből pénzügyi támogatást.
+(4)[^13] Az OMSZ az Eütv. 96. §-ának (2) bekezdése szerinti koordináló tevékenysége körében együttműködési megállapodást köt azzal az alternatív mentő szervezettel, amely a működéshez nem igényel az állami költségvetésből pénzügyi támogatást.
 
-[^11]: A 10. § (4) bekezdése a 61/2007. (XII. 29.) EüM rendelet 5. §-ával megállapított szöveg.
+[^13]: A 10. § (4) bekezdése a 61/2007. (XII. 29.) EüM rendelet 5. §-ával megállapított szöveg.

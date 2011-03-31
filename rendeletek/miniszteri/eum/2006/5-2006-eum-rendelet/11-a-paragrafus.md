@@ -1,4 +1,4 @@
-11/A. §[^13] (1) A rendezvény egészségügyi biztosítását ellátó mentési tevékenységet végző szervezetnek 50 000 fő feletti létszámú rendezvény esetén mentési tervet kell készítenie, amelyet a rendezvény megkezdése előtt legalább 8 nappal az OMSZ illetékes regionális szervével, a rendezvény szervezőivel és a biztosításba bevonásra kerülő más szakmai szervezetekkel egyeztetni kell.
+11/A. §[^17] (1) A rendezvény egészségügyi biztosítását ellátó mentési tevékenységet végző szervezetnek 50 000 fő feletti létszámú rendezvény esetén mentési tervet kell készítenie, amelyet a rendezvény megkezdése előtt legalább 8 nappal az OMSZ illetékes regionális szervével, a rendezvény szervezőivel és a biztosításba bevonásra kerülő más szakmai szervezetekkel egyeztetni kell.
 
 (2) A mentési tervet az adott rendezvény jellegére, a résztvevői létszámra, a földrajzi körülményekre és a rendezvény időpontjában várható időjárásra figyelemmel kell elkészíteni.
 
@@ -22,4 +22,4 @@ h) a mozgóőrséget vezető személy nevét, szakképzettségét, elérhetősé
 
 i) a társszervekkel való kapcsolattartás rendjét.
 
-[^13]: A 11/A. §-t a 42/2006. (XI. 30.) EüM rendelet 1. §-a iktatta be.
+[^17]: A 11/A. §-t a 42/2006. (XI. 30.) EüM rendelet 1. §-a iktatta be.
