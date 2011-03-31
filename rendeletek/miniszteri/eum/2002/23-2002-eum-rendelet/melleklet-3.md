@@ -18,9 +18,9 @@ Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszám
 
 | 1. Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 |
 
-| 2. Semmelweis Egyetem és intézményei, Pest megyei és az Egészségügyi Minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
+| 2. Semmelweis Egyetem és intézményei, Pest megyei és az egészségügyért felelős miniszter által vezetett minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
 
-| 3. Magyar Honvédség, Igazságügyi és Rendészeti Minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Állami Egészségügyi Központ Intézményi és Regionális Kutatásetikai Bizottság | 10023002-00290469 |
+| 3. Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút- egészségügyi intézmények | Honvédkórház-ÁEK Intézményi és Regionális Kutatásetikai Bizottság | 10023002-00290469 |
 
 | 4. Pesti székhellyel rendelkező egyéb egészségügyi intézmények | Fővárosi Önkormányzat Uzsoki utcai és Péterffy Sándor utcai Kórházak közös Regionális Tudományos és Kutatásetikai Bizottsága | 11784009-15492674 |
 
@@ -38,4 +38,4 @@ Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszám
 
 | 11. Győr-Moson-Sopron, Komárom-Esztergom és Fejér megyében lévő egészségügyi intézmények | Győr-Moson-Sopron Megyei Önkormányzat Petz Aladár Kórháza, Győr, Regionális Tudományos és Kutatásetikai Bizottsága | 10200249-33018597 |
 
-[^58]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 34/2009. (X. 20.) EüM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^58]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 34/2009. (X. 20.) EüM rendelet 3. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 28. § (2) bekezdése szerint módosított szöveg.

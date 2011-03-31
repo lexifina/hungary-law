@@ -2,9 +2,9 @@
 
 | A kutatást végző, illetve engedélyező egészségügyi intézmény megnevezése | A bizottság megnevezése |
 
-| 1. Semmelweis Egyetem és intézményei, Pest megyei és az Egészségügyi Minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
+| 1. Semmelweis Egyetem és intézményei, Pest megyei és az egészségügyért felelős miniszter által vezetett minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
 
-| 2. Magyar Honvédség, Igazságügyi és Rendészeti Minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Állami Egészségügyi Központ Intézményi és Regionális Kutatásetikai Bizottság |
+| 2. Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Honvédkórház-ÁEK Intézményi és Regionális Kutatásetikai Bizottság |
 
 | 3. Pesti székhellyel rendelkező egyéb egészségügyi intézmények | Fővárosi Önkormányzat Uzsoki utcai és Péterffy Sándor utcai Kórházak Közös Regionális Tudományos és Kutatásetikai Bizottsága |
 
