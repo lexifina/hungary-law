@@ -1,6 +1,6 @@
-1. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^39]
+1. számú melléklet a 3/2005. (II. 10.) EüM rendelethez
 
-Az OVSZ területi szerve által az ÁNTSZ illetékes regionális intézete részére nyújtandó információk
+Az OVSZ területi szerve által az OTH részére nyújtandó információk[^43]
 
 1. Általános információk:
 
@@ -16,4 +16,4 @@ Az OVSZ területi szerve által az ÁNTSZ illetékes regionális intézete rész
 
 – standard műveleti eljárások jegyzéke a donorok toborzására, megtartására és értékelésére, a vér és vérkomponensek feldolgozására és vizsgálatára, elosztására és visszahívására, valamint a súlyos káros események és szövődmények jelentésére és nyilvántartására.
 
-[^39]: Az 1. számú melléklet címe a 2/2007. (I. 24.) EüM rendelet 8. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^43]: Az 1. számú melléklet címe a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.

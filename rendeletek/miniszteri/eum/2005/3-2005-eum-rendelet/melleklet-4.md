@@ -34,7 +34,7 @@
 
 ## A donor által valamennyi véradás alkalmával szolgáltatandó adatok köre
 
-## 1.[^43] A donor személyazonossága
+## 1.[^50] A donor személyazonossága
 
 ## A donor családi és utóneve, asszonyoknál leánykori név, a születési hely és idő, az anya leánykori családi és utóneve, a lakóhely (ennek hiányában a tartózkodási hely), magyar állampolgárok esetében a társadalombiztosítási azonosító jel, nem magyar állampolgárok esetében az ezzel egyenértékű, egészségbiztosítási jogviszonyt igazoló irat.
 
@@ -58,7 +58,7 @@
 
 ## f) kijelenti, hogy az általa megadott valamennyi információ legjobb tudomása szerint megfelel a valóságnak.
 
-4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^44]
+4. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^51]
 
 A teljes vér és vérkomponensek donorainak alkalmassági kritériumai
 
@@ -81,8 +81,6 @@ Az alábbi kritériumok az autológ véradásra nem vonatkoznak:
 1.2. A donorok vérében mért hemoglobinszint
 
 | Hemoglobin | nők esetében ≥ 125 g/l | férfiak esetében ≥ 135 g/l | Valamennyi teljes vért, illetve sejtes alkotórészt adó allogén donorra vonatkozik |
-
-| [Hemoglobin | nők esetében ≥ 120 g/l | férfiak esetében ≥ 130 g/l | Valamennyi teljes vért, illetve sejtes alkotórészt adó allogén donorra vonatkozik] |
 
 1.3. A donorok vérében mért fehérjeszint
 
@@ -162,8 +160,6 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 | Influenzához hasonló betegség | 2 hét a tünetek megszűnése után |
 
-| [Influenzához hasonló betegség | 1 hét a tünetek megszűnése után] |
-
 | Malária* |  |
 
 | – azok a személyek, akik életük első öt évében maláriával fertőzött területen éltek | 3 év a bármilyen endémiás területen tett utolsó látogatást követően, feltéve, hogy az adott személy tünetmentes marad; az időtartam 4 hónapra csökkenthető, ha egy immunológiai vagy molekuláris genomikai vizsgálat negatív eredményt ad valamennyi véradás esetében |
@@ -208,7 +204,7 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 2.3. Kizárás konkrét epidemiológiai helyzetekben
 
-| Konkrét epidemiológiai helyzetek (például járványok kitörése) | A kizárás megfelel az epidemiológiai helyzetnek (Erről az ÁNTSZ értesíti az Európai Bizottságot.) |
+| Konkrét epidemiológiai helyzetek (például járványok kitörése) | A kizárás megfelel az epidemiológiai helyzetnek (Erről az OTH értesíti az Európai Bizottságot.) |
 
 2.4. Kizárási kritériumok autológ véradás donorai esetében
 
@@ -218,5 +214,5 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 | Aktív bakteriális fertőzés |  |
 
-[^43]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^44]: A 4. számú melléklet 1.2. és 2.2.1. pontja alá tartozó táblázatok szögletes zárójelben lévő, kurzívan szedett sora az 51/2009. (XII. 30.) EüM rendelet 2. §-a szerint módosított szöveg; e módosító rendelet 3. § (4) bekezdése alapján a rendelkezés hatálybalépéséről külön jogszabály rendelkezik.
+[^50]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^51]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.

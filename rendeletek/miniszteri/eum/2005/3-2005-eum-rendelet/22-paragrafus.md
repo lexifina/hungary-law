@@ -6,6 +6,6 @@
 
 (2) Az (1) bekezdésben meghatározott költséget akkor is meg kell téríteni, ha a megjelent donor a kötelező kivizsgálás eredménye alapján nem adhat vért.
 
-(3)[^33] A donort a véradást követően a vérgyűjtést végző által biztosított kalória-pótlásra szabadon felhasználható étkezési jegy illeti meg abban az esetben is, ha a vérvétel nem eredményezett felhasználható vérkészítményt.
+(3)[^37] A donort a véradást követően a vérgyűjtést végző által biztosított kalória-pótlásra szabadon felhasználható étkezési jegy illeti meg abban az esetben is, ha a vérvétel nem eredményezett felhasználható vérkészítményt.
 
-[^33]: A 22. § (3) bekezdése a 2/2007. (I. 24.) EüM rendelet 5. §-ával megállapított szöveg.
+[^37]: A 22. § (3) bekezdése a 2/2007. (I. 24.) EüM rendelet 5. §-ával megállapított szöveg.
