@@ -1,4 +1,4 @@
-## 9. §[^12] A Szakértői Testület működéséről külön jogszabály rendelkezik.
+## 9. §[^17] A Szakértői Testület működéséről külön jogszabály rendelkezik.
 
 10. § (1) Az ETT Kutatási és Fejlesztési Bizottsága végzi az egészségügyi szakterületek kutatási és fejlesztési tevékenységének döntés-előkészítését, véleményezését és értékelését. A bizottság tevékenységét az egészségügyi szakterülethez igazodó, az Elnökség által létrehozott, szakmai bizottságok közreműködésével végzi. A bizottság ügyrendjét a 2. számú melléklet tartalmazza.
 
@@ -8,4 +8,4 @@
 
 (4) A Kutatási és Fejlesztési Bizottság az ülésére – napirendtől függően – meghívja az MTA Orvosi Tudományok Osztálya és az Oktatási Minisztérium illetékes képviselőjét, valamint az Országos Tudományos Kutatási Alapprogram bizottságának képviselőjét.
 
-[^12]: A 9. § a 18/2006. (IV. 19.) EüM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 9. § a 18/2006. (IV. 19.) EüM rendelet 4. §-ával megállapított szöveg.
