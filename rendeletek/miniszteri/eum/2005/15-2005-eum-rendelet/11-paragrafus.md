@@ -1,8 +1,8 @@
 11. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)–(5)[^5]
+(2)–(5)[^7]
 
-Melléklet a 15/2005. (V. 2.) EüM rendelethez[^6]
+Melléklet a 15/2005. (V. 2.) EüM rendelethez[^8]
 
 |  | A szakfelügyelet szakterületei* | Városi | Megyei | Regionális | Országos |
 
@@ -126,5 +126,5 @@ D Országos szakfelügyeletét az országos sebész szakfelügyelő főorvos lá
 
 E Országos szakfelügyeletét az országos tüdőgyógyász szakfelügyelő főorvos látja el.
 
-[^5]: A 11. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. § 120. pontja hatályon kívül helyezte.
-[^6]: A melléklet az 1/2006. (I. 6.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 11. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. § 120. pontja hatályon kívül helyezte.
+[^8]: A melléklet az 1/2006. (I. 6.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
