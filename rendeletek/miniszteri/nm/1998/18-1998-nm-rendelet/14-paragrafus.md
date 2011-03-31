@@ -6,6 +6,6 @@
 
 (3) Az oltási dokumentációt minden személy, kiskorú esetén törvényes képviselője köteles megőrizni, és azt újbóli védőoltás, illetőleg szűrő- vagy ellenőrző vizsgálat alkalmával az orvosnak átadni.
 
-(4)[^46] Az elveszett, megrongálódott Egészségügyi Könyv Védőoltási adatlapjának adatait az oltási nyilvántartás alapján az oltóorvos pótolja. A más oltóhelyen elvégzett oltásokra vonatkozó igazolásokat az érdekelt személy (törvényes képviselője) köteles beszerezni.
+(4)[^49] Az elveszett, megrongálódott Egészségügyi Könyv Védőoltási adatlapjának adatait az oltási nyilvántartás alapján az oltóorvos pótolja. A más oltóhelyen elvégzett oltásokra vonatkozó igazolásokat az érdekelt személy (törvényes képviselője) köteles beszerezni.
 
-[^46]: A 14. § (4) bekezdése a 19/2009. (VI. 18.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^49]: A 14. § (4) bekezdése a 19/2009. (VI. 18.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.

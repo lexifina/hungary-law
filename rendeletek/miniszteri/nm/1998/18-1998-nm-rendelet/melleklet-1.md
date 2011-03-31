@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^140]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^143]
 
 Be- és kijelentésre kötelezett betegségek felsorolása
 
@@ -344,7 +344,7 @@ HIV (humán immundeficiencia vírus) fertőzés, szerzett immunhiányos tünetcs
 
 A) Teendők a HIV-fertőzött személlyel, illetve a AIDS beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A HIV-fertőzés és az AIDS személyazonosító adatok nélkül jelentendő be. A HIV-pozitív személy gondozó orvosa, illetve az AIDS-et diagnosztizáló orvos/halottkém a bejelentést személyazonosító adatok nélkül köteles megtenni az ÁNTSZ (fertőzés/megbetegedés helye szerint) illetékes kistérségi intézetének, és az OEK Járványügyi osztályának. A személyazonosító adatokat a kistérségi intézet kérésére a bejelentő köteles megadni.
+a) Jelentés: Be- és kijelentésre kötelezett. A HIV-fertőzés és az AIDS személyazonosító adatok nélkül jelentendő be. A HIV-pozitív személy gondozó orvosa, illetve az AIDS-et diagnosztizáló orvos/halottkém a bejelentést személyazonosító adatok nélkül köteles megtenni a fertőzés/megbetegedés helye szerint illetékes kistérségi népegészségügyi intézetnek, és az OEK Járványügyi osztályának. A személyazonosító adatokat a kistérségi intézet kérésére a bejelentő köteles megadni.
 
 b) Elkülönítés: A HIV-pozitív személyeket nem szükséges elkülöníteni. Azt a HIV-pozitív beteget azonban, akinél vérzéses elváltozás, nyitott vagy drenált seb, exsudatív vagy fekélyes bőrelváltozás fordul elő vagy incontinens és egyidejűleg pszichológiai zavarok észlelhetők, az Országos Pszichiátriai és Neurológiai Intézet fertőző osztályán kell elhelyezni.
 
@@ -362,7 +362,7 @@ a) A HIV-pozitív személy szexuális partnereinél, illetve a környezetében �
 
 b) A HIV-fertőzött személyek és szexuális partnereik nem adhatnak vért, anyatejet idegen és saját csecsemő táplálására, sejtet, szövetet, szervet átültetés céljára, illetve spermát mesterséges megtermékenyítés céljából. Fertőzött terhesek és újszülöttjeinek antivirális kezelésével az átvitel valószínűsége egyharmadára csökkenthető.
 
-c) Az egészségügyi dolgozók alábbiakban felsorolt expozíciója esetén minél hamarabb, lehetőleg 2 órán belül a Fővárosi Szent László Kórház Immunológai osztályával vagy az ÁNTSZ regionális intézetének epidemiológiai osztályával folytatott konzultáció alapján antiretrovirális kezelést kell kezdeni. A HIV-fertőzés kockázatával járó kiemelt expozíciók: fertőző anyag véletlen befecskendezése, HIV-kontaminált eszközzel szúrt seb vagy vágott sérülés, HIV-pozitív beteg artériájába vagy vénájába bekötött tűvel vagy kanüllel történt sérülés, nyálkahártya vagy nagyobb bőrterület tartós kontaminációja HIV-pozitív személy vérével, véres váladékával, liquorával, ondójával vagy hüvelyváladékával.
+c) Az egészségügyi dolgozók alábbiakban felsorolt expozíciója esetén minél hamarabb, lehetőleg 2 órán belül a Fővárosi Szent László Kórház Immunológai osztályával vagy a megyei népegészségügyi szakigazgatási szervvel folytatott konzultáció alapján antiretrovirális kezelést kell kezdeni. A HIV-fertőzés kockázatával járó kiemelt expozíciók: fertőző anyag véletlen befecskendezése, HIV-kontaminált eszközzel szúrt seb vagy vágott sérülés, HIV-pozitív beteg artériájába vagy vénájába bekötött tűvel vagy kanüllel történt sérülés, nyálkahártya vagy nagyobb bőrterület tartós kontaminációja HIV-pozitív személy vérével, véres váladékával, liquorával, ondójával vagy hüvelyváladékával.
 
 8. Megelőzés: A szexuális terjedés gátlása érdekében a lakosság széles körű egészségügyi felvilágosítása a szexuális biztonság érdekében (partnerhűség, monogamia, gumióvszer stb. használata). A vérrel történő terjedés gátlása a vér-, sejt-, szövet-, szervdonorok kötelező HIV vizsgálata révén; az intravénás kábítószerek használatánál, közös tű és fecskendő használatának kiiktatásával; tetoválók és az akupunkturát végzők steril eszköz- és anyaghasználatának biztosításával. A nosocomialis terjedés gátlása az egészségügyi dolgozók oktatásával, a vérrel, váladékkal szennyezett eszközök biztonságos kezelésével, fertőtlenítési, sterilizálási szabályok betartásával, spermadonorok HIV vizsgálatával a donáció időpontjában és 6 hónap múlva. A vertikális terjedés gátlása a HIV-pozitívak terhességének megelőzésével, terhesség esetén antivirális kezelés révén, és szülés után a saját anyatej kiiktatásával.
 
@@ -424,7 +424,7 @@ b) Elkülönítés: A beteget kórházban kell elkülöníteni gyógyulásáig.
 
 c) Járványügyi laboratóriumi vizsgálat: Kötelező a diagnosztikus és a felszabadítás céljából végzett vizsgálat. Bőranthrax esetében a pustula, carbunculus vagy más elváltozás sterilen vett váladékát kell beküldeni az ÁNTSZ területileg illetékes laboratóriumába. Tüdőanthrax esetében köpetet, bélanthrax esetében székletet kell beküldeni. Septicaemiás szövődmény esetében vért kell haemocultura palackban megfelelően csomagolva a laboratóriumba küldeni diagnosztikus vizsgálatra, valamint a klinikai gyógyulás után felszabadító vizsgálatra. Ha valamilyen ok miatt a beteg életében a laboratóriumi vizsgálat nem történhetett meg, boncolási anyag (lép, esetleg egyéb szervek) küldendő be a laboratóriumi vizsgálatra, csiszolt üvegdugós porüvegben. A mintavételkor viselt egyszerhasználatos gumikesztyűt el kell égetni.
 
-d) Fertőtlenítés: Bőr- és bélanthrax esetében folyamatos és zárófertőtlenítés, tüdőanthrax esetében szigorított folyamatos és zárófertőtlenítés végzendő, amelyet az ÁNTSZ területileg illetékes intézete ellenőriz. Leggondosabban a sebváladékot, székletet, köpetet és az ezekkel szennyezett anyagokat kell fertőtleníteni. A fertőtlenítéshez sporocid hatású eljárásokat kell alkalmazni (gőzfertőtlenítés, autokláv, 10%-os klórmész-tej, 5%-os klóramin vagy natriumhypochlorit, 10–30%-os formalin). Bőranthrax esetében a kötszereket el kell égetni, a kötözésnél használt műszereket autoklávozni kell. Zárófertőtlenítés: teljes fertőtlenítés a területileg illetékes ÁNTSZ irányításával.
+d) Fertőtlenítés: Bőr- és bélanthrax esetében folyamatos és zárófertőtlenítés, tüdőanthrax esetében szigorított folyamatos és zárófertőtlenítés végzendő, amelyet a megyei népegészségügyi szakigazgatási szerv vagy a kistérségi népegészségügyi intézet ellenőriz. Leggondosabban a sebváladékot, székletet, köpetet és az ezekkel szennyezett anyagokat kell fertőtleníteni. A fertőtlenítéshez sporocid hatású eljárásokat kell alkalmazni (gőzfertőtlenítés, autokláv, 10%-os klórmész-tej, 5%-os klóramin vagy natriumhypochlorit, 10–30%-os formalin). Bőranthrax esetében a kötszereket el kell égetni, a kötözésnél használt műszereket autoklávozni kell. Zárófertőtlenítés: teljes fertőtlenítés a megyei népegészségügyi szakigazgatási szerv vagy a kistérségi népegészségügyi intézet irányításával.
 
 e) Egyéb teendők: A fertőző forrást fel kell kutatni, és az eredményről a területileg illetékes hatósági állatorvost értesíteni kell. Munkahelyi fertőzés esetén a dolgozókat egy hétig meg kell figyelni; gyanús bőrfertőzés esetén azonnal penicillin-terápiát kell kezdeni.
 
@@ -456,11 +456,11 @@ d) A botulotoxin aeroszolizált formáját is leírták, mely inhalálva alkalma
 
 7. Teendők a betegség előfordulásakor:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A botulizmust vagy annak gyanúját az észlelő orvosnak azonnal telefonon, faxon is jelentenie kell az ÁNTSZ – megbetegedés helye szerinti területileg illetékes – regionális intézetének és az OEK részére.
+a) Jelentés: Be- és kijelentésre kötelezett. A botulizmust vagy annak gyanúját az észlelő orvosnak azonnal telefonon, faxon is jelentenie kell a megyei népegészségügyi szakigazgatási szervnek és az OEK részére.
 
 b) Elkülönítés: A beteget a szakszerű gyógykezelés biztosítása céljából intenzív osztállyal (lélegeztető készülék) rendelkező kórházba kell utalni, de elkülöníteni nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt, kb. 20 ml alvadásgátló nélküli vért kell venni, és – előzetes telefonos értesítéssel egyidőben – futárral az OEK Bakteriológiai osztályára kell küldeni. Csecsemő-botulizmus gyanúja esetén székletmintát kell beküldeni. A gyanús élelmiszerből az ÁNTSZ illetékes kistérségi intézetének munkatársa vesz mintát, és azt a területileg illetékes regionális élelmiszer-mikrobiológiai laboratóriumba küldi.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt, kb. 20 ml alvadásgátló nélküli vért kell venni, és – előzetes telefonos értesítéssel egyidőben – futárral az OEK Bakteriológiai osztályára kell küldeni. Csecsemő-botulizmus gyanúja esetén székletmintát kell beküldeni. A gyanús élelmiszerből a kistérségi népegészségügyi intézet munkatársa vesz mintát, és azt a területileg illetékes megyei élelmiszer-mikrobiológiai laboratóriumba küldi.
 
 d) Fertőtlenítés: Nem szükséges.
 
@@ -558,13 +558,13 @@ BNO10: A00
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A betegséget vagy annak gyanúját azonnal telefonon, faxon is kell jelenteni az ÁNTSZ megbetegedés helye szerint területileg illetékes regionális intézetének, valamint az OEK Járványügyi osztályának. Az első importált esetet és a betegség első honi eredetű esetét az OTH az Egészségügyi Világszervezetnek jelenti.
+a) Jelentés: Be- és kijelentésre kötelezett. A betegséget vagy annak gyanúját azonnal telefonon, faxon is kell jelenteni a megyei népegészségügyi szakigazgatási szervnek, valamint az OEK Járványügyi osztályának. Az első importált esetet és a betegség első honi eredetű esetét az OTH az Egészségügyi Világszervezetnek jelenti.
 
 b) Elkülönítés: A beteget (gyanú esetén is) kórházi fertőző osztályon kell elkülöníteni. A cholerából gyógyult személyt addig kell elkülöníteni, amíg a klinikai gyógyulás és az antibiotikum kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat 2 egymást követő napon negatív eredményt ad.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. A diagnosztikus és felszabadító vizsgálatot az OEK Bakteriológiai osztályán, illetőleg az ÁNTSZ területileg illetékes bakteriológiai laboratóriumában el kell végezni. Vizsgálatra székletet kell a betegtől venni, és azt tartályban, az előírásnak megfelelően becsomagolva, haladéktalanul, gépkocsin a laboratóriumba kell szállítani. A vizsgálati anyag beküldéséről a laboratóriumot telefonon előre értesíteni kell. Ha a székletminta a levétel után 2 órán belül feldolgozásra kerül, azt konzerváló szer hozzáadása nélkül, ha levétele és feldolgozása között 2 óránál több idő telik el, akkor a regionális intézettől igényelhető sós konzerváló oldatban kell beküldeni. Ez az utóbbi oldat az egyéb enteropathogen baktériumokat nem tartósítja, ezért a bakteriológiailag még nem igazolt cholera gyanúja esetén párhuzamosan natív székletmintát is kell küldeni a laboratóriumba. Formált széklet esetén 9 térfogatrész tartósító oldatba 1 rész székletet, folyékony széklet esetén 4 térfogatrész tartósító oldatba 1 rész székletet kell keverni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. A diagnosztikus és felszabadító vizsgálatot az OEK Bakteriológiai osztályán, illetőleg a megyei népegészségügyi szakigazgatási szerv bakteriológiai laboratóriumában el kell végezni. Vizsgálatra székletet kell a betegtől venni, és azt tartályban, az előírásnak megfelelően becsomagolva, haladéktalanul, gépkocsin a laboratóriumba kell szállítani. A vizsgálati anyag beküldéséről a laboratóriumot telefonon előre értesíteni kell. Ha a székletminta a levétel után 2 órán belül feldolgozásra kerül, azt konzerváló szer hozzáadása nélkül, ha levétele és feldolgozása között 2 óránál több idő telik el, akkor a regionális intézettől igényelhető sós konzerváló oldatban kell beküldeni. Ez az utóbbi oldat az egyéb enteropathogen baktériumokat nem tartósítja, ezért a bakteriológiailag még nem igazolt cholera gyanúja esetén párhuzamosan natív székletmintát is kell küldeni a laboratóriumba. Formált széklet esetén 9 térfogatrész tartósító oldatba 1 rész székletet, folyékony széklet esetén 4 térfogatrész tartósító oldatba 1 rész székletet kell keverni.
 
-d) Fertőtlenítés: Szigorított folyamatos és szigorított zárófertőtlenítés szükséges. Legfontosabb teendő a székletszóródás meggátlása, a széklet fertőtlenítése. A kórokozó érzékeny savas vegyhatásra, ezért mind a személyi (elsősorban kéz) fertőtlenítésre, mind pedig a környezetfertőtlenítésre a savas vegyhatásra beállított, klórhatóanyag-tartalmú dezinficiensek jönnek szóba (pl. savanyított kloramin-B vagy kloramin-T oldatok). A dezinfekció végrehajtása szempontjából elsősorban mindazon helyeket (WC, árnyékszékek, latrinák, talaj stb.), tárgyakat (ágytál stb.), valamint fehérneműket, ágyneműket kell fertőtleníteni, amelyek széklettel kontaminálódtak vagy kontaminálódhattak. Ezzel egyenlő fontosságú a kéz folyamatos dezinfekciója, melyet főleg a WC-használat után és étkezések előtt, illetve a betegápolás után szükséges elvégezni. Azokon a helyeken, ahol a cholera endémiás, igen fontos a nyersen fogyasztott gyümölcsök, zöldségfélék, indokolt esetben az ivóvíz dezinfekciója, illetve csupán lehántható héjú gyümölcsök (pl. banán, narancs) fogyasztása. Az ivóvizet fel kell forralni. Cholera vagy annak gyanúja esetén a szükséges fertőtlenítő tevékenységet a területileg illetékes regionális intézet kijelölt szakorvosa a helyszínen ellenőrzi. Rovarmentesség biztosítandó.
+d) Fertőtlenítés: Szigorított folyamatos és szigorított zárófertőtlenítés szükséges. Legfontosabb teendő a székletszóródás meggátlása, a széklet fertőtlenítése. A kórokozó érzékeny savas vegyhatásra, ezért mind a személyi (elsősorban kéz) fertőtlenítésre, mind pedig a környezetfertőtlenítésre a savas vegyhatásra beállított, klórhatóanyag-tartalmú dezinficiensek jönnek szóba (pl. savanyított kloramin-B vagy kloramin-T oldatok). A dezinfekció végrehajtása szempontjából elsősorban mindazon helyeket (WC, árnyékszékek, latrinák, talaj stb.), tárgyakat (ágytál stb.), valamint fehérneműket, ágyneműket kell fertőtleníteni, amelyek széklettel kontaminálódtak vagy kontaminálódhattak. Ezzel egyenlő fontosságú a kéz folyamatos dezinfekciója, melyet főleg a WC-használat után és étkezések előtt, illetve a betegápolás után szükséges elvégezni. Azokon a helyeken, ahol a cholera endémiás, igen fontos a nyersen fogyasztott gyümölcsök, zöldségfélék, indokolt esetben az ivóvíz dezinfekciója, illetve csupán lehántható héjú gyümölcsök (pl. banán, narancs) fogyasztása. Az ivóvizet fel kell forralni. Cholera vagy annak gyanúja esetén a szükséges fertőtlenítő tevékenységet a területileg illetékes megyei népegészségügyi szakigazgatási szerv kijelölt szakorvosa a helyszínen ellenőrzi. Rovarmentesség biztosítandó.
 
 B) Teendők a beteg környezetében:
 
@@ -628,11 +628,11 @@ BNO10: A36
 
 A) Tennivalók a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A betegséget vagy annak gyanúját azonnal telefonon, faxon is jelenteni kell az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének, valamint az OEK Járványügyi osztályának.
+a) Jelentés: Be- és kijelentésre kötelezett. A betegséget vagy annak gyanúját azonnal telefonon, faxon is jelenteni kell a megyei népegészségügyi szakigazgatási szervnek, valamint az OEK Járványügyi osztályának.
 
 b) Elkülönítés: A beteget kórházi fertőző osztályon kell elkülöníteni. Az elkülönítés akkor szüntethető meg, ha az antibiotikus kezelés befejezése után 48 óra múlva elkezdett 2 napos időközzel, 2 alkalommal végzett bakteriológiai vizsgálat eredménye negatív. Ha a felszabadító vizsgálat eredménye pozitív, de a beteg klinikai állapota nem indokolja a kórházi elkülönítést, azt meg lehet szüntetni, azonban a gyógyult beteget a kórokozó-hordozás tartamára járványügyi ellenőrzés alá kell helyezni, és el kell tiltani a 0–6 éves gyermekközösségek látogatásától, kórházi sebészeti, szülészeti, egyéb műtéti és gyermekosztályon végzendő munkájától, valamint tejkezeléstől.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről váladékot kell küldeni az ÁNTSZ területileg illetékes regionális intézetének laboratóriumába bakteriológiai és toxicitási vizsgálatra. (Ha a kitenyésztett törzs nem toxintermelő, további járványügyi intézkedésekre nincs szükség.) A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről váladékot kell küldeni a megyei népegészségügyi szakigazgatási szerv laboratóriumába bakteriológiai és toxicitási vizsgálatra. (Ha a kitenyésztett törzs nem toxintermelő, további járványügyi intézkedésekre nincs szükség.) A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni.
 
 d) Fertőtlenítés: Folyamatos és zárófertőtlenítés szükséges, főleg az orr- és torokváladékot, sebváladékot és az ezekkel szennyezett tárgyakat kell fertőtleníteni.
 
@@ -708,7 +708,7 @@ a) Jelentés: Be- és kijelentésre kötelezett.
 
 b) Elkülönítés: A beteget otthon is el lehet különíteni, de ha erre nincs lehetőség, vagy ha a lefolyás súlyos, szövődményes, kórházi fertőző osztályra kell szállítani. Az elkülönítés addig tart, amíg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat 2 egymást követő napon negatív eredményt nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt bakteriológiai vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0–6 éves gyermekközösségek látogatásától, ilyen közösségekben/intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől; a közétkeztetésben, vízművekben való munkától, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól; a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszerek kezelésétől. A beteg, illetve a kórokozó-ürítő lakásából (háztartásából) közfogyasztásra kerülő élelmiszerek, italok kivitelét meg kell tiltani.
 
-c) Járványügyi laboratóriumi vizsgálat: Diagnosztikus és felszabadító székletvizsgálat kötelező. A mintákat az ÁNTSZ megbetegedés helye szerint illetékes regionális intézet bakteriológiai laboratóriumába kell küldeni. A diagnosztikus vizsgálatot a betegség kezdetén az antibiotikus kezelés előtt, a felszabadító vizsgálatokat a klinikai gyógyulás után, az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni.
+c) Járványügyi laboratóriumi vizsgálat: Diagnosztikus és felszabadító székletvizsgálat kötelező. A mintákat a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szerv bakteriológiai laboratóriumába kell küldeni. A diagnosztikus vizsgálatot a betegség kezdetén az antibiotikus kezelés előtt, a felszabadító vizsgálatokat a klinikai gyógyulás után, az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni.
 
 d) Fertőtlenítés: Folyamatos és zárófertőtlenítés szükséges. A fertőző beteg vagy arra gyanús személy környezetében a folyamatos fertőtlenítésnek ki kell terjednie mindazon eszközre, tárgyra, felületre, mely széklettel, vizelettel szennyeződött vagy szennyeződhetett. A legfontosabb teendő a kéz fertőtlenítése, melyet folyamatosan a fertőzés megszűntéig mind a betegnek, mind a pedig az ápoló személyeknek végezniük kell főleg a WC-használat után, étkezések előtt, illetve a betegellátás, betegápolás befejeztével. Igen fontos a beteg által használt WC, illetve árnyékszék, ágytál, vizeletgyűjtő edény (kacsa) tartalmának váladékfertőtlenítő szerrrel való elegyítése, magának az edényzetnek, WC-kagylónak, ülőkének stb. beáztatásos, lemosó módszerrel történő fertőtlenítése. Ugyanígy folyamatosan fertőtleníteni kell a beteg által használt evő- és ivóedényzetet, evőeszközöket, ételmaradékot. Beáztatással, illetve fertőtlenítő mosással kell fertőtleníteni a beteg, illetve az ápoló személyzet által használt textíliákat (ágynemű, hálóruha, védőköpeny, törülköző stb.). A beteg, valamint az ápoló személyzet folyamatos kézfertőtlenítése mellett, a betegszoba padlózatának, esetleg kontaminálódott bútorzatának, egyéb tárgyainak fertőtlenítése képezze a beteg vagy a betegségre gyanús személy környezetének dezinfekcióját.
 
@@ -716,7 +716,7 @@ B) Teendők a beteg környezetében:
 
 A beteg elkülönítését követően a beteggel közvetlenül érintkezett személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 7. A) b) pontban megjelölt közösségekbe/intézménybe járnak, illetve munkakört/tevékenységet folytatnak, a közösség/intézmény látogatásától, illetve munkakörüktől/tevékenységüktől el kell tiltani. A közösség/intézmény látogatását, illetve munkakörüket/tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
 
-Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. A beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a kistérségi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
+Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. A beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a kistérségi népegészségügyi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
 
 8. Megelőzés: Általános higiénés rendszabályok, tisztaság, kézmosás, élelmezés- és vízhigiénés előírások szigorú betartása. Fürdők és bentlakásos intézmények megfelelő higiénés rendszabályainak betartása.
 
@@ -756,7 +756,7 @@ A beteg gondozóit és a környezetében élő csecsemőket 7 napig járványüg
 
 C) Teendők a kórházi újszülött, koraszülött, illetve csecsemőosztályon vagy csecsemőket is gondozó gyermekintézményben történt megbetegedés esetén:
 
-A beteg környezetében lévő csecsemőket és dolgozókat 7 napra járványügyi megfigyelés alá kell helyezni, és az intézményben, kórházi osztályon vagy – ha a gondozó személye nem közös más szobákéval – annak érintett szobájában felvételi zárlatot kell elrendelni. A székletvizsgálattal kapcsolatban a 7. B) pontban leírtak szerint kell eljárni. A zárlat alatt kibocsátottak zárójelentésében fel kell tüntetni a beteggel történt utolsó kontaktus időpontját, és megfigyelésüket a kistérségi intézetnek kell folytatni. A felvétel megindulhat, ha a zárófertőtlenítés megtörtént, és a tünetmentes ápoltak és gondozóik székletmintájának vizsgálata negatív eredményt ad.
+A beteg környezetében lévő csecsemőket és dolgozókat 7 napra járványügyi megfigyelés alá kell helyezni, és az intézményben, kórházi osztályon vagy – ha a gondozó személye nem közös más szobákéval – annak érintett szobájában felvételi zárlatot kell elrendelni. A székletvizsgálattal kapcsolatban a 7. B) pontban leírtak szerint kell eljárni. A zárlat alatt kibocsátottak zárójelentésében fel kell tüntetni a beteggel történt utolsó kontaktus időpontját, és megfigyelésüket a kistérségi népegészségügyi intézetnek kell folytatni. A felvétel megindulhat, ha a zárófertőtlenítés megtörtént, és a tünetmentes ápoltak és gondozóik székletmintájának vizsgálata negatív eredményt ad.
 
 8. Megelőzés: Általános egészségügyi és kórházhigiénés (zsúfoltság elkerülése, kéz- és környezetfertőtlenítés, védőruha, -eszköz, maszkviselés, megfelelő szennyeskezelés, tápszerkészítés stb.) rendszabályok betartása, valamint a járványügyi érdekből szükséges munkaalkalmassági vizsgálatok elvégzése. Csecsemőosztályokon ajánlatos felvételi részleg létesítése, ahonnan a csecsemőket csak enterális tünetmentesség, esetleg negatív székletvizsgálati eredmény után szabad az osztályra áthelyezni. Az anyatejgyűjtő állomásokon minden dolgozónál, felvételüket megelőzően, az anyatejet adó anyáknál a tejadást megelőzően székletvizsgálatot kell végezni E. coli dyspepsiae kimutatására.
 
@@ -820,7 +820,7 @@ a) Jelentés: Egyéb E. coli által okozott megbetegedésként be- és kijelent�
 
 b) Elkülönítés: A beteget otthon is el lehet különíteni, de ha erre nincs lehetőség, vagy ha a lefolyás súlyos, szövődményes, kórházi fertőző osztályra kell szállítani. Az elkülönítés addig tart, amíg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat 2 egymást követő napon negatív eredményt nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt bakteriológiai vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0–6 éves gyermekközösségek látogatásától, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben, anyatejgyűjtő állomásokon való foglalkozástól, kórházi osztályokon betegélelmezésben való részvételtől és a szájon át adott gyógyszerek kezelésétől.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus és felszabadító vizsgálatra a székletmintát az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének bakteriológiai laboratóriumába kell küldeni. A diagnosztikus vizsgálatot a betegség kezdetén az antibiotikus kezelés előtt, a felszabadító vizsgálatokat a klinikai gyógyulás után, az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus és felszabadító vizsgálatra a székletmintát a megyei népegészségügyi szakigazgatási szerv bakteriológiai laboratóriumába kell küldeni. A diagnosztikus vizsgálatot a betegség kezdetén az antibiotikus kezelés előtt, a felszabadító vizsgálatokat a klinikai gyógyulás után, az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni.
 
 d) Fertőtlenítés: Folyamatos és zárófertőtlenítés szükséges. A beteg székletét, hányadékát, valamint váladékaival szennyezett tárgyakat fertőtleníteni kell.
 
@@ -832,7 +832,7 @@ b) A közösség/intézmény látogatását, illetve munkakörüket/tevékenysé
 
 c) Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
 
-d) Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra, 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát és a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, egyes meghatározott munkakörökben dolgozókat a foglalkozásuktól el kell tiltani, amíg a székletvizsgálatok negatív eredményt adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket el lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni a dátumot, amikor az E. coli enteritisben szenvedő beteggel utoljára érintkezett. Erről a kistérségi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
+d) Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra, 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát és a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, egyes meghatározott munkakörökben dolgozókat a foglalkozásuktól el kell tiltani, amíg a székletvizsgálatok negatív eredményt adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket el lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni a dátumot, amikor az E. coli enteritisben szenvedő beteggel utoljára érintkezett. Erről a kistérségi népegészségügyi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
 
 8. Megelőzés: Általános higiénés és élelmezés-egészségügyi rendszabályok, ivóvíz-higiénia, munkaköri alkalmassági szabályok betartása.
 
@@ -892,7 +892,7 @@ a) Jelentés: Be- és kijelentésre kötelezett (csak a klinikai tünetekkel ren
 
 b) Elkülönítés: A beteget elkülöníteni nem kell.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálatra beküldendő alvadásgátló nélkül, sterilen vett vérminta az OEK Parazitológiai osztályára. Beküldhető az echinococcosis közvetlen kimutatására a műtétileg eltávolított tömlő vagy annak bennéke az OEK Parazitológiai osztályára vagy az ÁNTSZ területileg illetékes parazitológiai laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálatra beküldendő alvadásgátló nélkül, sterilen vett vérminta az OEK Parazitológiai osztályára. Beküldhető az echinococcosis közvetlen kimutatására a műtétileg eltávolított tömlő vagy annak bennéke az OEK Parazitológiai osztályára vagy a megyei népegészségügyi szakigazgatási szerv parazitológiai laboratóriumába.
 
 d) Fertőtlenítés: Nem szükséges.
 
@@ -1086,7 +1086,7 @@ d) Fertőtlenítés: A beteg váladékaival szennyezett tárgyak, kéz folyamato
 
 B) Teendők a beteg környezetében:
 
-A beteg környezetében élőket 7 napra járványügyi megfigyelés alá kell helyezni, és el kell tiltani az élelmiszerekkel, italokkal, ivóvízzel, gyógyszerekkel, gyógyhatású készítményekkel, anyatejjel való közvetlen tevékenységtől, 0–3 éves gyermekközösségek látogatásától, illetve az ott való munkától, 0–6 évesek, immunkárosodottak egészségügyi intézményeiben az ápolói, gondozói munkakör betöltésétől. Bentlakásos intézményben, kórházi osztályon előfordult megbetegedés esetén az intézményben, osztályon vagy jól elkülöníthető körülmények között a szobára vonatkozóan 7 napos felvételi zárlatot kell elrendelni. Az ez idő alatt kibocsátottak zárójelentésén a beteggel való kontaktust fel kell tüntetni, és a járványügyi megfigyelés folytatása érdekében értesíteni kell a kistérségi intézetet.
+A beteg környezetében élőket 7 napra járványügyi megfigyelés alá kell helyezni, és el kell tiltani az élelmiszerekkel, italokkal, ivóvízzel, gyógyszerekkel, gyógyhatású készítményekkel, anyatejjel való közvetlen tevékenységtől, 0–3 éves gyermekközösségek látogatásától, illetve az ott való munkától, 0–6 évesek, immunkárosodottak egészségügyi intézményeiben az ápolói, gondozói munkakör betöltésétől. Bentlakásos intézményben, kórházi osztályon előfordult megbetegedés esetén az intézményben, osztályon vagy jól elkülöníthető körülmények között a szobára vonatkozóan 7 napos felvételi zárlatot kell elrendelni. Az ez idő alatt kibocsátottak zárójelentésén a beteggel való kontaktust fel kell tüntetni, és a járványügyi megfigyelés folytatása érdekében értesíteni kell a kistérségi népegészségügyi intézetet.
 
 8. Megelőzés: A személyi, kórházhigiénés és élelmezés-egészségügyi rendszabályok betartása.
 
@@ -1144,7 +1144,7 @@ BNO10: A95
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Faxon vagy telefonon is jelenteni kell az OEK Járványügyi osztályának, az ÁNTSZ területileg illetékes regionális intézetének. A megbetegedésről az Egészségügyi Világszervezetet az OTH tájékoztatja.
+a) Jelentés: Be- és kijelentésre kötelezett. Faxon vagy telefonon is jelenteni kell az OEK Járványügyi osztályának, a területileg illetékes megyei népegészségügyi szakigazgatási szervnek. A megbetegedésről az Egészségügyi Világszervezetet az OTH tájékoztatja.
 
 b) Elkülönítés: A beteget szúnyogmentes körülmények között, kijelölt kórházban (Fővárosi Szent László) kell gyógykezelni.
 
@@ -1154,7 +1154,7 @@ d) Fertőtlenítés: Nem szükséges, de a szúnyogmentesség biztosítandó.
 
 8. Megelőzés: Szúnyogtenyésző helyek ellenőrzése, az Aedes aegypti vagy lárvái előfordulására nézve (főleg repülőterek, kikötők környékén). Szúnyogirtás a sárgaláz övezetből érkező repülőgépeken az Egészségügyi Világszervezet előírásai szerint. Védőoltás (lásd 9. pont).
 
-9. Eljárás nemzetközi forgalomban: Az Egészségügyi Világszervezet évenként tájékoztatót ad ki azokról az országokról, amelyek a beutazóktól sárgaláz elleni védőoltást igazoló bizonyítványt kívánnak. Magyarországon a sárgaláz elleni oltásokat kizárólag az OEK Nemzetközi Oltóközpontja, az ÁNTSZ illetékes regionális intézete vagy az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhely végzi, nemzetközi érvényű oltási bizonyítványt is csak az OEK Nemzetközi Oltóközpontja, az ÁNTSZ illetékes regionális intézete vagy az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhely adhat ki. Az oltási bizonyítvány az első oltás utáni 10. naptól, illetőleg az újraoltás napjától számítva 10 évig érvényes.
+9. Eljárás nemzetközi forgalomban: Az Egészségügyi Világszervezet évenként tájékoztatót ad ki azokról az országokról, amelyek a beutazóktól sárgaláz elleni védőoltást igazoló bizonyítványt kívánnak. Magyarországon a sárgaláz elleni oltásokat kizárólag az OEK Nemzetközi Oltóközpontja, a megyei népegészségügyi szakigazgatási szerv vagy az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhely végzi, nemzetközi érvényű oltási bizonyítványt is csak az OEK Nemzetközi Oltóközpontja, a megyei népegészségügyi szakigazgatási szerv vagy az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhely adhat ki. Az oltási bizonyítvány az első oltás utáni 10. naptól, illetőleg az újraoltás napjától számítva 10 évig érvényes.
 
 Febris recurrens
 
@@ -1178,11 +1178,11 @@ BNO10: A68.0
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Faxon vagy telefonon is jelenteni kell az OEK Járványügyi osztályának, az ÁNTSZ területileg illetékes regionális intézetének. A megbetegedésről az Egészségügyi Világszervezetet az OTH tájékoztatja.
+a) Jelentés: Be- és kijelentésre kötelezett. Faxon vagy telefonon is jelenteni kell az OEK Járványügyi osztályának, illetékes megyei népegészségügyi szakigazgatási szervnek. A megbetegedésről az Egészségügyi Világszervezetet az OTH tájékoztatja.
 
 b) Elkülönítés: A beteget azonnal ható eljárással történt tetvetlenítés után fertőző osztályon kell elkülöníteni.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő tárgylemezen kihúzott vérkenet és vastag-csepp az ÁNTSZ területileg illetékes regionális intézetének laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő tárgylemezen kihúzott vérkenet és vastag-csepp az illetékes megyei népegészségügyi szakigazgatási szervnek laboratóriumába.
 
 d) Fertőtlenítés: Tetvetlenítés azonnal ható eljárással és a tetűmentes állapot fenntartása.
 
@@ -1232,7 +1232,7 @@ A vCJB emberről emberre való terjedése elsősorban nosocomiális fertőzésk�
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentendő. A betegséget vagy annak gyanúját az észlelő orvosnak kell bejelentenie. A bejelentés alapja a klinikai és/vagy patológiai diagnózis. Az eset bejelentéséről az OEK értesíti a Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központját. A Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központ a hozzá beérkezett (az OEK által nem ismert) új esetekről értesíti az OEK Járványügyi osztályát. A Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központ az általa elvégzett vizsgálatok eredményéről, a betegség gyanújának megerősítéséről vagy kizárásáról tájékoztatja az OEK Járványügyi osztályát. Az értesülést követően az eset kivizsgálását az ÁNTSZ regionális intézetének epidemiológusa az erre a célra rendszeresített kérdőív alapján végzi. Ha a vizsgálat során megállapításra kerül, hogy a beteg donáció céljából vért adott, a véradás időpontjáról és helyéről értesíteni kell az Országos Vérellátó Szolgálatot.
+a) Jelentés: Be- és kijelentendő. A betegséget vagy annak gyanúját az észlelő orvosnak kell bejelentenie. A bejelentés alapja a klinikai és/vagy patológiai diagnózis. Az eset bejelentéséről az OEK értesíti a Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központját. A Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központ a hozzá beérkezett (az OEK által nem ismert) új esetekről értesíti az OEK Járványügyi osztályát. A Semmelweis Egyetem Általános Orvosi Kar Neuropatológiai és Prionbetegség Referencia Központ az általa elvégzett vizsgálatok eredményéről, a betegség gyanújának megerősítéséről vagy kizárásáról tájékoztatja az OEK Járványügyi osztályát. Az értesülést követően az eset kivizsgálását a megyei népegészségügyi szakigazgatási szerv epidemiológusa az erre a célra rendszeresített kérdőív alapján végzi. Ha a vizsgálat során megállapításra kerül, hogy a beteg donáció céljából vért adott, a véradás időpontjáról és helyéről értesíteni kell az Országos Vérellátó Szolgálatot.
 
 b) Elkülönítés: A beteget sem otthonában, sem az egészségügyi intézményben nem kell elkülöníteni.
 
@@ -1676,7 +1676,7 @@ BNO10: A30
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Az ÁNTSZ területileg illetékes regionális intézetének és az OEK Járványügyi osztályának telefonon vagy faxon is jelenteni kell.
+a) Jelentés: Be- és kijelentésre kötelezett. A megyei népegészségügyi szakigazgatási szervnek és az OEK Járványügyi osztályának telefonon vagy faxon is jelenteni kell.
 
 b) Elkülönítése: Csak azokat a betegeket kell kórházba utalni, akiknek a megbízható kezelése otthon nem lehetséges vagy szociális helyzete ezt indokolja. Az előírások szerint kezelt beteg – amennyiben betegségét nem fertőzőnek minősítették – esetében munkaköri korlátozások nem indokoltak.
 
@@ -1740,7 +1740,7 @@ a) Jelentés: Bejelentendő, kijelentés csak szövődmény előfordulása, vala
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Beküldhető tenyésztés céljára alvadásgátlóval levett vér, liquor, továbbá genny, méhűri váladék, vizelet. Előzetes megbeszélés után célzott vizsgálatra beküldhető faeces és torokváladék az ÁNTSZ területileg illetékes regionális intézetének bakteriológiai laboratóriumába, illetve az OEK bakteriológiai osztályára. Biztos diagnózist csak a tenyésztéssel igazolt esetekben lehet kimondani.
+c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Beküldhető tenyésztés céljára alvadásgátlóval levett vér, liquor, továbbá genny, méhűri váladék, vizelet. Előzetes megbeszélés után célzott vizsgálatra beküldhető faeces és torokváladék illetékes megyei népegészségügyi szakigazgatási szerv bakteriológiai laboratóriumába, illetve az OEK bakteriológiai osztályára. Biztos diagnózist csak a tenyésztéssel igazolt esetekben lehet kimondani.
 
 d) Fertőtlenítés: Folyamatos fertőtlenítés végzendő. A fertőzés terjedési mechanizmusára tekintettel – a terjedés megakadályozása érdekéban – a beteg, illetve a beteg állatokkal való foglalkozáskor elsősorban a folyamatosan végzendő higiénés kézfertőtlenítésnek, illetve a váladékok fertőtlenítésének van kiemelt jelentősége.
 
@@ -1772,7 +1772,7 @@ a) Jelentés: Bejelentendő, kijelentés csak szövődmény előfordulása, vagy
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Szerológiai vizsgálatok előzetes megbeszélést követően az OEK-ben, illetve ezen szerológiai vizsgálatra felkészült ÁNTSZ regionális intézetek laboratóriumaiban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetése) esetén indokolt.
+c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Szerológiai vizsgálatok előzetes megbeszélést követően az OEK-ben, illetve ezen szerológiai vizsgálatra felkészült megyei népegészségügyi szakigazgatási szervek laboratóriumaiban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetése) esetén indokolt.
 
 d) Fertőtlenítés: Nem szükséges.
 
@@ -1798,7 +1798,7 @@ BNO10: A82
 
 7. Teendők a betegség előfordulásakor:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A kifejlődött emberi veszettség esetét vagy annak gyanúját telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, valamint az ÁNTSZ területileg illetékes regionális intézetének.
+a) Jelentés: Be- és kijelentésre kötelezett. A kifejlődött emberi veszettség esetét vagy annak gyanúját telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, valamint illetékes megyei népegészségügyi szakigazgatási szervnek.
 
 b) Elkülönítés: A veszettségben szenvedő beteget az intenzív ellátást biztosító kijelölt egészségügyi intézményben (Fővárosi Szent László Kórház) kell elkülöníteni.
 
@@ -1854,7 +1854,7 @@ b) Korábban teljes oltási sorozatban részesültek újabb expozíciójakor: 1 
 
 B) Preexpozíciós profilaxis: a munkáltató köteles megelőző védőoltási sorozatban részesíteni: A veszettség-fertőzés fokozott veszélyének kitett munkakörökben dolgozókat (pl. veszettség diagnosztikai laboratóriumok dolgozói, ebrendészeti dolgozók) az alábbi oltási séma szerint: 1-1 adag oltóanyagot 3 alkalommal, az első oltás napját (0. nap) követő 30. és 60. napon kell beadni. Emlékeztető oltásokat 1 év múltán, majd további 5 évenként kell alkalmazni. Akut fertőzési veszély esetén újabb oltóanyag adása szükséges, a postexpozíciós profilaxisra vonatkozó pontban ismertetett újabb expozíciók esetén követendő eljárás szerint.
 
-9. A veszettség-fertőzésre gyanús expozíció és veszettség elleni oltás jelentési rendszere: Az oltóanyag-szállító az oltóanyag-igény beérkezését követően haladéktalanul megküldi az oltóanyag-igénylő „Adatlap” másolatát faxon/e-mail-ben az ÁNTSZ – orvos rendelőjének helye szerinti illetékes – kistérségi intézetének. Az eset kivizsgálásáról felvett jegyzőkönyvet a sérültet ellátó orvos 24 órán belül köteles megküldeni az ÁNTSZ területileg illetékes kistérségi intézetének. Az oltóorvos az erre rendszeresített formanyomtatványon (Jelentés lyssa elleni védőoltásról) regisztrálja az oltások megtörténtét, majd az oltási sorozat befejezése után 1 példányt küld az ÁNTSZ területileg illetékes kistérségi intézetének. Az egészségügyi hatóság feladata, hogy a gyakorlatban ellenőrizze és támogassa a szakmai elvek (jelen jogszabály és tárgyban kiadott Módszertani Levélben foglaltak) megvalósulását. A dokumentációhoz szükséges nyomtatványokat az ÁNTSZ kistérségi intézete biztosítja.
+9. A veszettség-fertőzésre gyanús expozíció és veszettség elleni oltás jelentési rendszere: Az oltóanyag-szállító az oltóanyag-igény beérkezését követően haladéktalanul megküldi az oltóanyag-igénylő „Adatlap” másolatát faxon/e-mail-ben az orvos rendelőjének helye szerint illetékes kistérségi népegészségügyi intézetnek. Az eset kivizsgálásáról felvett jegyzőkönyvet a sérültet ellátó orvos 24 órán belül köteles megküldeni az illetékes kistérségi népegészségügyi intézetnek. Az oltóorvos az erre rendszeresített formanyomtatványon (Jelentés lyssa elleni védőoltásról) regisztrálja az oltások megtörténtét, majd az oltási sorozat befejezése után 1 példányt küld az illetékes kistérségi népegészségügyi intézetnek. Az egészségügyi hatóság feladata, hogy a gyakorlatban ellenőrizze és támogassa a szakmai elvek (jelen jogszabály és tárgyban kiadott Módszertani Levélben foglaltak) megvalósulását. A dokumentációhoz szükséges nyomtatványokat a kistérségi népegészségügyi intézet biztosítja.
 
 Madárinfluenza
 
@@ -1874,7 +1874,7 @@ Madárinfluenza
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedést vagy annak gyanúját azonnal, telefonon is jelenteni kell. A jelentést az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének/ügyeletének és az OEK-nek, illetve az Országos Epidemiológiai Központ ügyeletének is meg kell tenni.
+a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedést vagy annak gyanúját azonnal, telefonon is jelenteni kell. A jelentést a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek/ügyeletének és az OEK-nek, illetve az Országos Epidemiológiai Központ ügyeletének is meg kell tenni.
 
 b) Elkülönítés: A beteget infektológiai osztályon kell elkülöníteni.
 
@@ -1912,7 +1912,7 @@ a) Jelentés: Be- és kijelentésre kötelezett. Az „Orvos megjegyzései” ro
 
 b) Elkülönítés: A beteget fertőző kórházi osztályra kell utalni, hogy a szükséges kezelést elvégezhessék. Gondoskodni kell a szúnyogmentes kórházi elhelyezésről.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálat céljára vért kell vastagcsepp és 2 kihúzott készítmény formájában az OEK Parazitológiai osztályára és az ÁNTSZ területileg illetékes regionális intézetének parazitológiai osztályára küldeni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálat céljára vért kell vastagcsepp és 2 kihúzott készítmény formájában az OEK Parazitológiai osztályára és az illetékes megyei népegészségügyi szakigazgatási szerv parazitológiai osztályára küldeni.
 
 d) Fertőtlenítés: Nem szükséges, azonban a szúnyogmentességet biztosítani kell.
 
@@ -1940,13 +1940,13 @@ BNO10: A24
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, valamint az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének. Járványügyi értesítés küldendő a fertőzés helye szerint illetékes hatósági állatorvosnak.
+a) Jelentés: Be- és kijelentésre kötelezett. Telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, valamint a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek. Járványügyi értesítés küldendő a fertőzés helye szerint illetékes hatósági állatorvosnak.
 
 b) Elkülönítés: A beteget kijelölt fertőző osztályon (Fővárosi Szent László Kórházban) kell elkülöníteni.
 
 c) Járványügyi laboratóriumi vizsgálat: Kötelező. Haladéktalanul beküldendő váladék (genny) és szerológiai vizsgálatra alvadás gátló nélkül levett vér, egyidejű telefon vagy fax értesítés mellett az Országos Állat-egészségügyi Intézetbe.
 
-d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés szükséges, melyet a regionális intézet ellenőriz. A beteg, valamint a betegségre gyanús személy környezetében folyamatos és zárófertőtlenítés szükséges. A folyamatos fertőtlenítésnek a higiénés kézfertőtlenítésen kívül ki kell terjednie a sebváladék, valamint az orr- és torokváladék, illetve ezen váladékokkal kontaminálódott textíliák (zsebkendő, ágynemű, háló- vagy alsóruházat), valamint evőeszközök és ivóedényzet, esetleg váladékgyűjtő edényzet fertőtlenítésére. A fertőtlenítéshez elsősorban klór hatóanyagú dezinficienseket kell alkalmazni. Az értéktelen anyagokat (papír, zsebkendő, kötszer stb.) fertőtlenítőszert tartalmazó, fedhető edényzetben kell gyűjteni, majd égetéssel megsemmisíteni. A beteg gyógyulása, elszállítása vagy elhalálozása esetén a környezetben zárófertőtlenítést kell végezni. Ennek a fentieken kívül ki kell terjednie az ágybetétek, takarók fertőtlenítésére, valamint a kontaminálódott felületekre, helyiségek felszerelési, berendezési tárgyaira is.
+d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés szükséges, melyet a megyei népegészségügyi szakigazgatási szerv ellenőriz. A beteg, valamint a betegségre gyanús személy környezetében folyamatos és zárófertőtlenítés szükséges. A folyamatos fertőtlenítésnek a higiénés kézfertőtlenítésen kívül ki kell terjednie a sebváladék, valamint az orr- és torokváladék, illetve ezen váladékokkal kontaminálódott textíliák (zsebkendő, ágynemű, háló- vagy alsóruházat), valamint evőeszközök és ivóedényzet, esetleg váladékgyűjtő edényzet fertőtlenítésére. A fertőtlenítéshez elsősorban klór hatóanyagú dezinficienseket kell alkalmazni. Az értéktelen anyagokat (papír, zsebkendő, kötszer stb.) fertőtlenítőszert tartalmazó, fedhető edényzetben kell gyűjteni, majd égetéssel megsemmisíteni. A beteg gyógyulása, elszállítása vagy elhalálozása esetén a környezetben zárófertőtlenítést kell végezni. Ennek a fentieken kívül ki kell terjednie az ágybetétek, takarók fertőtlenítésére, valamint a kontaminálódott felületekre, helyiségek felszerelési, berendezési tárgyaira is.
 
 B) Teendők a beteg környezetében:
 
@@ -1984,7 +1984,7 @@ a) Jelentés: Be- és kijelentésre kötelezett. A mikrobiológiai vizsgálatokk
 
 b) Elkülönítés: A beteget kórházban kell elkülöníteni, cseppfertőzéssel terjedő fertőzés esetében (N. meningitidis, Hib stb.) fertőző osztályon.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Liquort, vért, esetleg gennyet a primer gócokból (otitis media stb.) kell tenyésztésre küldeni az ÁNTSZ területileg illetékes regionális intézetébe, illetve az OEK bakteriológiai laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Liquort, vért, esetleg gennyet a primer gócokból (otitis media stb.) kell tenyésztésre küldeni az illetékes megyei népegészségügyi szakigazgatási szervhez, illetve az OEK bakteriológiai laboratóriumába.
 
 d) Fertőtlenítés: Az orr-, torokváladékot, a gennyes gócok váladékát, valamint az ezekkel szennyezett tárgyakat, anyagokat folyamatosan fertőtleníteni kell.
 
@@ -2020,7 +2020,7 @@ a) Jelentés: Be- és kijelentésre kötelezett.
 
 b) Elkülönítés: A beteget kórházban, fertőző osztályon kell elkülöníteni a gyógykezelés időtartamára.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. A sterilen vett cerebrospinális folyadékot az anyagvételt követő 1–2 órán belül el kell juttatni az ÁNTSZ területileg illetékes regionális intézetének bakteriológiai laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. A sterilen vett cerebrospinális folyadékot az anyagvételt követő 1–2 órán belül el kell juttatni az illetékes megyei népegészségügyi szakigazgatási szerv bakteriológiai laboratóriumába.
 
 d) Fertőtlenítés: Folyamatos fertőtlenítés szükséges. Elsősorban az orr-, torokváladékot és az ezzel szennyezett anyagokat kell fertőtleníteni.
 
@@ -2054,7 +2054,7 @@ a) Jelentés: Meningitis purulenta megnevezéssel bejelentésre kötelezett. A k
 
 b) Elkülönítés: A beteget kórházban (fertőző osztályon) kell elkülöníteni a gyógykezelés időtartamára.
 
-c) Járványügyi laboratóriumi vizsgálat: Minden meningitis esetén kötelező. Liquor és vér küldendő az ÁNTSZ területileg illetékes mikrobiológiai laboratóriumába a kórokozó kitenyésztésére.
+c) Járványügyi laboratóriumi vizsgálat: Minden meningitis esetén kötelező. Liquor és vér küldendő a megyei népegészségügyi szakigazgatási szerv mikrobiológiai laboratóriumába a kórokozó kitenyésztésére.
 
 d) Fertőtlenítés: Az orr-, torokváladékra kiterjedő folyamatos fertőtlenítés szükséges.
 
@@ -2090,7 +2090,7 @@ a) Jelentés: Be- és kijelentésre kötelezett. A meningeális szövődmények 
 
 b) Elkülönítés: Fertőző osztályon, a heveny tünetek lezajlásáig.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Vírusizolálás céljára a lehető legkorábbi időpontban (az első napokban) legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort, alvadásgátló nélkül, sterilen vett vért, majd 3–4 hét múlva ismételt vérmintát kell küldeni az OEK Virológiai főosztályára, illetve az ÁNTSZ területileg illetékes regionális intézetének virológiai laboratóriumába. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése, mert kizárólag a célzott vizsgálat teszi lehetővé a laboratórium munkáját.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Vírusizolálás céljára a lehető legkorábbi időpontban (az első napokban) legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort, alvadásgátló nélkül, sterilen vett vért, majd 3–4 hét múlva ismételt vérmintát kell küldeni az OEK Virológiai főosztályára, illetve a megyei népegészségügyi szakigazgatási szerv virológiai laboratóriumába. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése, mert kizárólag a célzott vizsgálat teszi lehetővé a laboratórium munkáját.
 
 d) Fertőtlenítés: A beteg váladékait és a velük fertőzött tárgyakat folyamatosan fertőtleníteni kell.
 
@@ -2182,7 +2182,7 @@ Esetdefiníció: Olyan kórokozók által okozott nosocomiális fertőzések, am
 
 b) Elkülönítés: A kórokozónak, illetve kórformának megfelelően szükséges a fertőzött és kolonizált ápoltak elkülönítése. Az elkülönítés során a standard izoláció (kézfertőtlenítés, egyszerhasználatos kesztyű, védőruha), illetve a kontakt izoláció szabályai követendők: külön kórterem (kohorsz izoláció lehetséges), személyre szóló ápolási eszközök biztosítása. Az ilyen beteg vizsgálatait a kórteremben kell végezni, amennyiben egyéb vizsgálatok és beavatkozások céljából a beteget más osztályra, intézménybe kell átvinni, a fogadó osztályt/intézményt előzetesen értesíteni kell. Az izolált személy az izoláció teljes időtartama alatt nem hagyhatja el a kórtermet. Az izolált személyhez lehetőség szerint külön ápolószemélyzetet kell biztosítani.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező a kórokozó kitenyésztésére irányuló vizsgálat, valamint az antibiogramm meghatározás. Halmozott előfordulás esetén a törzseket az ÁNTSZ területileg illetékes regionális laboratóriumába kell beküldeni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező a kórokozó kitenyésztésére irányuló vizsgálat, valamint az antibiogramm meghatározás. Halmozott előfordulás esetén a törzseket az illetékes megyei népegészségügyi szakigazgatási szerv laboratóriumába kell beküldeni.
 
 d) Fertőtlenítés: A fertőzött/kolonizált beteg környezetében megelőző (folyamatos) és zárófertőtlenítést kell végezni. A beteg ápolásához használt eszközöket, a beteg használati tárgyait használatukat követően fertőtleníteni/sterilizálni kell. Az izoláció feloldását követően a zárófertőtlenítést széles spektrumú fertőtlenítő szerrel kell elvégezni.
 
@@ -2240,7 +2240,7 @@ a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedésről a területi
 
 b) Elkülönítés: A beteget a klinikai gyógyulásig el kell különíteni.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő alvadásgátló nélkül vett vér a betegség első 10 napján, valamint 21–25 napja között az OEK Virológiai főosztályára vagy az ÁNTSZ területileg illetékes intézetének víruslaboratóriumába. Diagnosztikus értéke csak a savópár vizsgálata alapján megállapított titeremelkedésnek van. Az erőteljes antibiotikum kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta eredménye is negatív, újabb minták küldendők be 2 hetes időközzel a betegség 6. hetéig.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő alvadásgátló nélkül vett vér a betegség első 10 napján, valamint 21–25 napja között az OEK Virológiai főosztályára vagy az illetékes megyei népegészségügyi szakigazgatási szerv víruslaboratóriumába. Diagnosztikus értéke csak a savópár vizsgálata alapján megállapított titeremelkedésnek van. Az erőteljes antibiotikum kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta eredménye is negatív, újabb minták küldendők be 2 hetes időközzel a betegség 6. hetéig.
 
 d) Fertőtlenítés: Folyamatos fertőtlenítés szükséges. Baromfitenyésztéssel, tollfeldolgozással, díszmadár-kereskedéssel, madarak gondozásával, tartásával foglalkozók a munka után higiénés kézfertőtlenítést kötelesek végezni, illetve indokolt esetben orr-, szájmaszk vagy légzésvédő viselése is szükséges. A fertőzött madarak csípése, karmolása esetén a seb azonnali ellátása, fertőtlenítőszeres sebtoilette végzése is feltétlenül indokolt. Betegség vagy annak gyanúja esetén az elkülönített beteg összes váladékát, ürülékét elegyítéses módszerrel, váladékokkal kontaminálódott textíliákat (ágynemű, hálóruha stb.), valamint az eszközöket, tárgyakat beáztatásos módszerrel, elsősorban klór hatóanyagú dezinficiens oldatával kell fertőtleníteni. A beteg ápolója viseljen orr-szájmaszkot. A fertőző forrásként szereplő madarakat el kell pusztítani, a tetemeket azonnal 10%-os klórmészoldatba kell behelyezni, majd erre alkalmas helyen elégetni.
 
@@ -2268,7 +2268,7 @@ BNO10: A01.4
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Az írásbeli jelentésen kívül telefonon, faxon is jelenteni kell az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének, valamint az OEK Járványügyi osztályának.
+a) Jelentés: Be- és kijelentésre kötelezett. Az írásbeli jelentésen kívül telefonon, faxon is jelenteni kell a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek, valamint az OEK Járványügyi osztályának.
 
 b) Elkülönítés: Kötelező, kórházi fertőző osztályon. A beteget addig kell elkülöníteni, amíg a klinikai tünetek megszűnése és az antibiotikus terápia befejezését követő 48 óra múlva, egymást követő napokon vett 3 széklet és vizeletminta vizsgálata negatív eredményt nem ad. Ha a vizsgálatsorozatból egy is pozitív, az elkülönítés megszüntethető, de a gyógyultat járványügyi ellenőrzés alatt kell tartani mindaddig, amíg a kórokozó hordozása meg nem szűnik. A járványügyi ellenőrzés alatt álló személyeket el kell tiltani a 0–6 éves gyermekek közösségének látogatásától vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörtől, a közvetlen betegellátás során étel- és gyógyszerkiosztás végzésétől; illetve hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszerek, ételek, italok kezelésétől: közétkeztetésben, vízművekben való foglalkoztatástól; anyatej adásától, illetve anyatej kezeléstől. A beteg, illetve kórokozó-ürítő lakásából (háztartásából) közfogyasztásra kerülő élelmiszer, ital kivitelét is meg kell tiltani.
 
@@ -2278,9 +2278,9 @@ d) Fertőtlenítés: Folyamatos és zárófertőtlenítés szükséges. A fertő
 
 B) Teendők a beteg környezetében:
 
-A beteggel érintkezett személyeket 14 napra járványügyi megfigyelés alá kell helyezni, és ezen időre ki kell tiltani a 7. A) b) pontban felsorolt foglalkozásokból és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat/tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0–6 éves gyermekek közösségében történt megbetegedés esetén 14 napi felvételi zárlatot kell elrendelni. Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet, 14 napra járványügyi megfigyelés alá kell helyezni és el kell végezni a széklet- és vizeletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 14 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, s ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes kistérségi intézet egyidejű értesítése mellett. A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló székletszűrő vizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, s velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat e rendelet 30. § (2)–(6) bekezdésében foglaltak szerint kell elvégezni.
+A beteggel érintkezett személyeket 14 napra járványügyi megfigyelés alá kell helyezni, és ezen időre ki kell tiltani a 7. A) b) pontban felsorolt foglalkozásokból és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat/tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0–6 éves gyermekek közösségében történt megbetegedés esetén 14 napi felvételi zárlatot kell elrendelni. Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet, 14 napra járványügyi megfigyelés alá kell helyezni és el kell végezni a széklet- és vizeletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 14 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, s ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes kistérségi népegészségügyi intézet egyidejű értesítése mellett. A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló székletszűrő vizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, s velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat e rendelet 30. § (2)–(6) bekezdésében foglaltak szerint kell elvégezni.
 
-A kórokozógazda lakásváltoztatásáról vagy haláláról háziorvosa értesíti a területileg illetékes kistérségi intézetet. Az utóbbi jelenti az eseményt a területileg illetékes regionális intézetnek (majd ez az OEK Járványügyi osztályának), valamint lakáscímváltozás esetén megküldi a kórokozógazda nyilvántartási lapját az új lakóhely szerint illetékes kistérségi intézetnek.
+A kórokozógazda lakásváltoztatásáról vagy haláláról háziorvosa értesíti a területileg illetékes kistérségi népegészségügyi intézetet. Az utóbbi jelenti az eseményt a területileg illetékes megyei népegészségügyi szakigazgatási szervnek (majd ez az OEK Járványügyi osztályának), valamint lakáscímváltozás esetén megküldi a kórokozógazda nyilvántartási lapját az új lakóhely szerint illetékes kistérségi népegészségügyi intézetnek.
 
 A kórokozó-ürítők és kórokozógazdák felszabadítására (járványügyi ellenőrzésük megszüntetésére) vonatkozó eljárások:
 
@@ -2396,13 +2396,13 @@ BNO10: A20
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedést vagy annak gyanúját telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának és az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének. Az esetet az OTH jelenti az Egészségügyi Világszervezetnek.
+a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedést vagy annak gyanúját telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának és megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek. Az esetet az OTH jelenti az Egészségügyi Világszervezetnek.
 
 b) Elkülönítés: A beteget rovartalanítás után a kijelölt kórházban (Fővárosi Szent László Kórház) kell elkülöníteni. Az elkülönítés egyedi: egy helyiségben csak egy beteget szabad elhelyezni. A beteg ápolását csak erre kijelölt személy végezheti. A beteg ápolója ápolás közben csak egyszerhasználatos zárt védőruhát használhat. A betegellátás során arcvédőt kell viselni. A beteg elkülönítése bubopestis esetében megszüntethető a hatásos antibiotikum kezelés megkezdését követő 3. nap után, tüdőpestisnél az adequat antibiotikum terápia 3. napját követően, ha a beteg klinikai állapota is javult.
 
 c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálatra bubopestis esetén gennyet, tüdőpestis esetében köpetet kell – egyidejű telefon vagy fax értesítés mellett – haladéktalanul, külön gépkocsin az OEK bakteriológiai osztályára küldeni.
 
-d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés végzendő, melyet az ÁNTSZ illetékes regionális intézete ellenőriz. Szigorított, folyamatos fertőtlenítésnek kell alávetni az elkülönítő helyiséget, annak minden felületét, valamennyi berendezési tárgyát. A beteg ágyneműje egyszerhasználatos kell hogy legyen. Ennek hiányában a textilágynemű mosodába nem kerülhet, csak égetésre. A beteg csak kórházi fehérneműt használhat, és használat után ezt is el kell égetni. A fertőtlenítésre elsősorban klór hatóanyagú dezinficienseket kell alkalmazni, az egyes dezinficienseknél megadott alkalmazási koncentrációk felső értékeit figyelembe véve megnyújtott expozíciós idő mellett. Az elkülönítő helyiségben csak egyszerhasználatos papírtörülköző használható.
+d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés végzendő, melyet az illetékes megyei népegészségügyi szakigazgatási szerv ellenőriz. Szigorított, folyamatos fertőtlenítésnek kell alávetni az elkülönítő helyiséget, annak minden felületét, valamennyi berendezési tárgyát. A beteg ágyneműje egyszerhasználatos kell hogy legyen. Ennek hiányában a textilágynemű mosodába nem kerülhet, csak égetésre. A beteg csak kórházi fehérneműt használhat, és használat után ezt is el kell égetni. A fertőtlenítésre elsősorban klór hatóanyagú dezinficienseket kell alkalmazni, az egyes dezinficienseknél megadott alkalmazási koncentrációk felső értékeit figyelembe véve megnyújtott expozíciós idő mellett. Az elkülönítő helyiségben csak egyszerhasználatos papírtörülköző használható.
 
 B) Teendők a beteg környezetében:
 
@@ -2434,7 +2434,7 @@ BNO10: A80
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Telefonon, faxon is jelentendő az ÁNTSZ területileg illetékes regionális intézetnek és az OEK Járványügyi osztályának. A virológiailag megerősített esetet az OTH jelenti az Egészségügyi Világszervezetnek.
+a) Jelentés: Be- és kijelentésre kötelezett. Telefonon, faxon is jelentendő a megyei népegészségügyi szakigazgatási szervnek és az OEK Járványügyi osztályának. A virológiailag megerősített esetet az OTH jelenti az Egészségügyi Világszervezetnek.
 
 b) Elkülönítés: A beteget 4 hétig a Fővárosi Szent László Kórházban kell elkülöníteni.
 
@@ -2554,7 +2554,7 @@ B) Teendők a beteg környezetében:
 
 A beteg családi vagy intézményi környezetében élő személyeket 7 napra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 7. A) b) pontban megjelölt közösségekbe/intézménybe járnak, illetve munkakört/tevékenységet folytatnak, a közösség/intézmény látogatásától, illetve munkakörüktől/tevékenységüktől el kell tiltani. A közösség/intézmény látogatását, illetve munkakörüket/tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő alatt az egy alkalommal vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–3 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. Ezen gyermekintézményekben a baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
 
-Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát és a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor az elbocsátott a salmonellosisban szenvedő beteggel utoljára érintkezett. Erről a kistérségi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
+Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát és a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor az elbocsátott a salmonellosisban szenvedő beteggel utoljára érintkezett. Erről a kistérségi népegészségügyi intézetet is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
 
 8. Megelőzés: Az állati eredetű élelmiszerek megfelelő hőkezelése, különös tekintettel a baromfi, a tojás, a tejes, tojásos készítményekre, az élelmezés és konyhatechnológiai előírások betartása és ellenőrzése, az élelmiszerek megfelelő tárolása, szállítása, az élelmiszer-kezelők oktatása, hasmenéses betegek eltiltása az élelmiszerek, italok kezelésétől, betegek ápolásától, a beteg állatokkal (kedvtelésből tartott állatok) való közvetlen kontaktus elkerülése, a lakosság felvilágosítása, jó személyi higiénés gyakorlat.
 
@@ -2618,7 +2618,7 @@ a) Jelentés: Be- és kijelentendő.
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Diagnosztikus vizsgálatra beküldhető 24 óráig gyűjtött vizelet vagy annak teljes üledéke, illetve székletminta az ÁNTSZ illetékes regionális intézetébe, illetve az OEK Parazitológiai osztályára. A kísérőiraton indokolt a fertőződés feltételezett helyének (ország) a megjelölése.
+c) Járványügyi laboratóriumi vizsgálat: Diagnosztikus vizsgálatra beküldhető 24 óráig gyűjtött vizelet vagy annak teljes üledéke, illetve székletminta az illetékes megyei népegészségügyi szakigazgatási szervhez, illetve az OEK Parazitológiai osztályára. A kísérőiraton indokolt a fertőződés feltételezett helyének (ország) a megjelölése.
 
 d) Fertőtlenítés: Nem szükséges.
 
@@ -2710,7 +2710,7 @@ VAGY akinél sem kórbonctani vizsgálatot, sem laboratóriumi vizsgálatot nem 
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. A betegség vagy annak gyanúja sürgősséggel is azonnal telefonon, faxon jelentendő, ha megfelel az alábbi esetdefiníciók valamelyikének. A jelentést az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének/ügyeletének és az OEK-nek, illetve az OEK ügyeletének [06 (30) 343-8626] is meg kell tenni. Az első importált esetet és az első hazai eredetű megbetegedést jelenteni kell az Európai Uniónak és a WHO-nak. A további esetek aggregált adatait az OEK-nek naponta kell jelenteni az EU felé.
+a) Jelentés: Be- és kijelentésre kötelezett. A betegség vagy annak gyanúja sürgősséggel is azonnal telefonon, faxon jelentendő, ha megfelel az alábbi esetdefiníciók valamelyikének. A jelentést a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek/ügyeletének és az OEK-nek, illetve az OEK ügyeletének [06 (30) 343-8626] is meg kell tenni. Az első importált esetet és az első hazai eredetű megbetegedést jelenteni kell az Európai Uniónak és a WHO-nak. A további esetek aggregált adatait az OEK-nek naponta kell jelenteni az EU felé.
 
 b) Elkülönítés: A kijelölt fekvőbeteg osztályon/Fővárosi Szent László Kórházban, az erre kijelölt kórtermekben kell elhelyezni. Előzetesen konzultálni kell az OEK Járványügyi osztályával. Kórházi elkülönítésre részben a szükségessé váló intenzív terápia (gépi lélegeztetés stb.), részben a gyorsabb, pontosabb diagnosztikus lehetőségek, részben a szigorúbb elkülönítés miatt van szükség.
 
@@ -2774,7 +2774,7 @@ a) Jelentés: Be- és kijelentendő az 1 éven aluli csecsemők és a gyermekág
 
 b) Elkülönítés: Sporadikus, otthoni megbetegedés esetén nem szükséges, de a beteget a gennyes bőrtünetek (gennyes sebek, panaritium, furunculosis stb.) vagy tonsillitis tartamára el kell tiltani a terhes és szoptató anyák és csecsemők gondozásától, ki kell tiltani 0–6 éves gyermekek intézményéből, kórházi műtéti, szülészeti és csecsemőosztályokról, közfogyasztásra szánt élelmiszerek (fagylalt, cukrászati termékek és a hentesáru stb.) kezelésétől. Csecsemőotthonban a beteget el kell különíteni (a II. Staphylococcus fertőzések a kórházi szülészeti és csecsemőosztályokon fejezetben leírtak szerint). Ha a beteg kórházi kezelést igényel, kórházba kell szállítani.
 
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Diagnosztikus célból és antibiotikum érzékenység meghatározására genny, orr- és torokváladék, szem- és fülváladék, hüvelyváladék, széklet, vizelet, szeptikus betegektől vér, az elhaltakból boncolási szövetminta stb. küldhető az ÁNTSZ területileg illetékes regionális intézetének laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Diagnosztikus célból és antibiotikum érzékenység meghatározására genny, orr- és torokváladék, szem- és fülváladék, hüvelyváladék, széklet, vizelet, szeptikus betegektől vér, az elhaltakból boncolási szövetminta stb. küldhető az illetékes megyei népegészségügyi szakigazgatási szerv laboratóriumába.
 
 d) Fertőtlenítés: Folyamatosan fertőtleníteni kell a gennyes váladékokat és az azokkal fertőzött kezet, tárgyakat (zsebkendő, kötszerek, babaápolási kellékek).
 
@@ -2806,7 +2806,7 @@ d) Fertőtlenítés: A beteg váladékait és az ezekkel fertőzött tárgyakat 
 
 B) Teendők a beteg környezetében:
 
-Fertőzőforrás kutatás. Két összefüggő megbetegedés esetén a beteg környezetében lévő ápoltaknál és a személyzet tagjainál fizikális vizsgálattal a fertőző elváltozásokat kell kutatni, és a járványtörzs kimutatása céljából el kell végezni az orr-, torokváladék, a talált fertőző elváltozás mikrobiológiai vizsgálatát. Az ápoló személyzet kórokozó-hordozónak bizonyult tagjai, amennyiben csak a járványtörzset ürítik, a járványban megbetegedettek ellátásával foglalkoztathatók, egyébként kitiltandók. A pozitív ápoló személyt a kórokozó-hordozástól mentesíteni kell. A bakteriológiai identifikálás alapján a járványtörzset ürítő ápoltakat külön ápoló és takarító személyzet, valamint külön ápoló- és takarítóeszközök biztosításával kell elkülöníteni, amíg a fertőzésük helyéről vett két minta mikrobiológiailag negatívvá nem válik. A személyi vizsgálatokat ki kell egészíteni a környezet fertőzöttségi vizsgálatával is (levegő, tárgyak, tisztálkodási és ápolási kellékek, az ápolónők kezének fertőzöttsége stb.). Súlyos járványban az érintett osztály/részleg zárlata is elrendelhető. A kórházi járványok terjedési mechanizmusának a felderítését, a járványügyi vizsgálatot az ÁNTSZ illetékes regionális intézete végezze, és annak eredménye szerint intézkedjék.
+Fertőzőforrás kutatás. Két összefüggő megbetegedés esetén a beteg környezetében lévő ápoltaknál és a személyzet tagjainál fizikális vizsgálattal a fertőző elváltozásokat kell kutatni, és a járványtörzs kimutatása céljából el kell végezni az orr-, torokváladék, a talált fertőző elváltozás mikrobiológiai vizsgálatát. Az ápoló személyzet kórokozó-hordozónak bizonyult tagjai, amennyiben csak a járványtörzset ürítik, a járványban megbetegedettek ellátásával foglalkoztathatók, egyébként kitiltandók. A pozitív ápoló személyt a kórokozó-hordozástól mentesíteni kell. A bakteriológiai identifikálás alapján a járványtörzset ürítő ápoltakat külön ápoló és takarító személyzet, valamint külön ápoló- és takarítóeszközök biztosításával kell elkülöníteni, amíg a fertőzésük helyéről vett két minta mikrobiológiailag negatívvá nem válik. A személyi vizsgálatokat ki kell egészíteni a környezet fertőzöttségi vizsgálatával is (levegő, tárgyak, tisztálkodási és ápolási kellékek, az ápolónők kezének fertőzöttsége stb.). Súlyos járványban az érintett osztály/részleg zárlata is elrendelhető. A kórházi járványok terjedési mechanizmusának a felderítését, a járványügyi vizsgálatot a megyei népegészségügyi szakigazgatási szerv végezze, és annak eredménye szerint intézkedjék.
 
 8. Megelőzés: A kórházhigiénés és veszélyeshulladék kezelésére vonatkozó rendszabályok szigorú betartása, valamint annak rendszeres ellenőrzése, aktív infekció-kontroll szükséges. Fertőtlenítőszeres kézmosás, asepsis-antisepsis szabályainak betartása, gumikesztyű, maszk viselése, köpenyváltás a fertőzött helyiségekben stb. A kórházi dolgozók kis elváltozással (fertőzött hámhiány, súlyosabb acne, paronychia, otitis externa stb.) sem dolgozhatnak a közvetlen betegellátásban gyógyulásukig. Az osztályra felvett betegeket lehetőleg csoportos forgórendszerben kell elhelyezni („cohort”-rendszer), az újszülötteket lehetőleg anyjukkal egy szobában („rooming in”), hazabocsátásukat minél hamarabb biztosítani kell. El kell kerülni az antibiotikumok felesleges alkalmazását, mert rezisztens kórházi törzsek kialakulásához vezethet. Az újszülöttek ápolásához 1%-os hexachlorophen hintőport kell alkalmazni, s ezt célszerű az újszülöttek kórházból való elbocsátása után egy ideig otthon is folytatni. Tekintettel arra, hogy a lappangási idő hosszú, a betegség gyakran csak a kórházból való elbocsátás után jelentkezik, másrészt a kórokozó ürítése egy ideig még a klinikai gyógyulása után is megmaradhat, célszerű a járványok megelőzése érdekében a veszélyeztetett betegeket, szülő nőket és újszülötteket a kórházból mielőbb elbocsátani.
 
@@ -2858,7 +2858,7 @@ a) Jelentés: Be- és kijelentendő.
 
 b) Elkülönítés: 0–6 éves gyermekintézményben, kórházi gyermekosztályon, a beteg vagy fertőzött gyermeket az egészségesektől, illetve a többi ápolttól el kell különíteni.
 
-c) Járványügyi laboratóriumi vizsgálat: Nem kötelező. Diagnosztikus vizsgálatra beküldhető székletminta az ÁNTSZ területileg illetékes intézetébe, illetve az OEK Parazitológiai osztályára. A kísérőiraton ajánlatos feltüntetni az eosinophilia mértékét. A beteg környezetére ártalmatlannak csak akkor tekinthető, ha a gyógykezelés után egy héttel, majd 1 hónap múlva elvégzett 3-3 ellenőrző laboratóriumi vizsgálat negatív eredményt adott.
+c) Járványügyi laboratóriumi vizsgálat: Nem kötelező. Diagnosztikus vizsgálatra beküldhető székletminta az illetékes megyei népegészségügyi szakigazgatási szervhez, illetve az OEK Parazitológiai osztályára. A kísérőiraton ajánlatos feltüntetni az eosinophilia mértékét. A beteg környezetére ártalmatlannak csak akkor tekinthető, ha a gyógykezelés után egy héttel, majd 1 hónap múlva elvégzett 3-3 ellenőrző laboratóriumi vizsgálat negatív eredményt adott.
 
 d) Fertőtlenítés: Indokolt esetben a beteg fehérneműit hőkezeléssel, használati tárgyait formalin vagy klórtartalmú fertőtlenítőszerekkel javasolt folyamatosan fertőtleníteni.
 
@@ -2898,7 +2898,7 @@ a) Jelentés: Be- és kijelentendő.
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálat céljára féregpete, kimutatására székletet, illetve az ürült proglottisokat 4–8%-os formalin oldatban kell az ÁNTSZ illetékes regionális intézete laboratóriumába, illetve az OEK Parazitológiai osztályának küldeni. A cysticercosis kimutatására szövetkimetszés végezhető. Az elmeszesedett cysticercusokat a röntgenvizsgálat derítheti fel.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Diagnosztikus vizsgálat céljára féregpete, kimutatására székletet, illetve az ürült proglottisokat 4–8%-os formalin oldatban kell a megyei népegészségügyi szakigazgatási szerv laboratóriumába, illetve az OEK Parazitológiai osztályának küldeni. A cysticercosis kimutatására szövetkimetszés végezhető. Az elmeszesedett cysticercusokat a röntgenvizsgálat derítheti fel.
 
 d) Fertőtlenítés: Nem szükséges.
 
@@ -3016,7 +3016,7 @@ BNO10: B75
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésra kötelezett. Járványügyi értesítést kell küldeni a fertőzött hús származási helye szerint területileg illetékes kistérségi intézetnek és a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) illetékes területi szervének.
+a) Jelentés: Be- és kijelentésra kötelezett. Járványügyi értesítést kell küldeni a fertőzött hús származási helye szerint területileg illetékes kistérségi népegészségügyi intézetnek és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának.
 
 b) Elkülönítés: Nem szükséges.
 
@@ -3024,7 +3024,7 @@ c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő alvadásg�
 
 d) Fertőtlenítés: Nem szükséges.
 
-e) Egyéb teendők: Ember trichinellás megbetegedése esetén a fertőződés forrásának megkeresése – az ÁNTSZ bevonásával – a megyei MgSzH Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság feladata.
+e) Egyéb teendők: Ember trichinellás megbetegedése esetén a fertőződés forrásának megkeresése – a kistérségi népegészségügyi intézet bevonásával – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának feladata.
 
 B) Teendők a beteg környezetében:
 
@@ -3106,7 +3106,7 @@ a) Jelentés: Be- és kijelentésre kötelezett. Járványügyi értesítés a f
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő 5 ml alvadásgátló nélkül, sterilen vett vér az ÁNTSZ területileg illetékes regionális intézetének laboratóriumába vagy az OEK bakteriológiai osztályára az agglutinációs vizsgálat elvégzésére. Pozitív eredmény csak a betegség második hetétől várható. Negatív esetben a vizsgálatot célszerű megismételni.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő 5 ml alvadásgátló nélkül, sterilen vett vér az illetékes megyei népegészségügyi szakigazgatási szerv laboratóriumába vagy az OEK bakteriológiai osztályára az agglutinációs vizsgálat elvégzésére. Pozitív eredmény csak a betegség második hetétől várható. Negatív esetben a vizsgálatot célszerű megismételni.
 
 d) Fertőtlenítés: Folyamatosan fertőtleníteni kell a sebváladékot és ezzel szennyeződött anyagokat, tüdőtularemia esetén a köpetet.
 
@@ -3138,7 +3138,7 @@ BNO10: A01.0
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Az írásbeli jelentésen kívül az esetet telefonon, faxon is jelenteni kell az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének, valamint az OEK Járványügyi osztályának.
+a) Jelentés: Be- és kijelentésre kötelezett. Az írásbeli jelentésen kívül az esetet telefonon, faxon is jelenteni kell a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek, valamint az OEK Járványügyi osztályának.
 
 b) Elkülönítés: Kötelező, kórházi fertőző osztályon. A beteget addig kell elkülöníteni, amíg a klinikai tünetek megszűnése és az antibiotikus terápia befejezését követő 48 óra múlva elkezdett, egymást követő napokon vett 3 széklet- és vizeletminta vizsgálata negatív eredményt nem ad. Ha a vizsgálatsorozatból egy is pozitív, az elkülönítés megszüntethető, de a gyógyultat járványügyi ellenőrzés alatt kell tartani mindaddig, amíg a kórokozó hordozása meg nem szűnik. A járványügyi ellenőrzés alatt álló személyt el kell tiltani a 0–6 éves gyermekek közösségének látogatásától vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörtől, a közvetlen betegellátás során étel- és gyógyszerkiosztás végzésétől; illetve hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszerek, ételek, italok kezelésétől: közétkeztetésben, vízművekben való foglalkoztatástól; anyatej adásától, illetve anyatej kezeléstől. A beteg, illetve kórokozó-ürítő lakásából (háztartásából) közfogyasztásra kerülő élelmiszer, ital kivitelét is meg kell tiltani.
 
@@ -3148,9 +3148,9 @@ d) Fertőtlenítés: Folyamatos és zárófertőtlenítés szükséges. A fertő
 
 B) Teendők a beteg környezetében:
 
-A beteggel érintkezett személyeket 21 napra járványügyi megfigyelés alá kell helyezni és ezen időre ki kell tiltani a 7. A) b) pontban felsorolt foglalkozásokból és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat/tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második-harmadik hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0–6 éves gyermekek közösségében történt megbetegedés esetén 21 napi felvételi zárlatot kell elrendelni. Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet 21 napra járványügyi megfigyelés alá kell helyezni, és el kell végezni a vizelet- és székletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 21 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, s ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes kistérségi intézet egyidejű értesítése mellett. A beteg elkülönítése után a családi és munkahelyi környezetében élő személyeket aktív immunizálásban kell részesíteni. A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló széklet szűrővizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, s velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat e jogszabály 30. § (2)–(6) bekezdésében foglaltak szerint kell elvégezni.
+A beteggel érintkezett személyeket 21 napra járványügyi megfigyelés alá kell helyezni és ezen időre ki kell tiltani a 7. A) b) pontban felsorolt foglalkozásokból és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat/tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második-harmadik hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0–6 éves gyermekek közösségében történt megbetegedés esetén 21 napi felvételi zárlatot kell elrendelni. Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet 21 napra járványügyi megfigyelés alá kell helyezni, és el kell végezni a vizelet- és székletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 21 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, s ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes kistérségi népegészségügyi intézet egyidejű értesítése mellett. A beteg elkülönítése után a családi és munkahelyi környezetében élő személyeket aktív immunizálásban kell részesíteni. A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló széklet szűrővizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, s velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat e jogszabály 30. § (2)–(6) bekezdésében foglaltak szerint kell elvégezni.
 
-A kórokozógazda lakásváltoztatásáról vagy haláláról háziorvosa értesíti a területileg illetékes kistérségi intézetet. Az utóbbi jelenti az eseményt a területileg illetékes regionális intézetnek (majd ez az OEK Járványügyi osztályának), valamint lakáscímváltozás esetén megküldi a kórokozógazda nyilvántartási lapját az új lakóhely szerint illetékes kistérségi intézetnek.
+A kórokozógazda lakásváltoztatásáról vagy haláláról háziorvosa értesíti a területileg illetékes kistérségi népegészségügyi intézetet. Az utóbbi jelenti az eseményt a területileg illetékes megyei népegészségügyi szakigazgatási szervnek (majd ez az OEK Járványügyi osztályának), valamint lakáscímváltozás esetén megküldi a kórokozógazda nyilvántartási lapját az új lakóhely szerint illetékes kistérségi népegészségügyi intézetnek.
 
 A kórokozó-ürítők és kórokozógazdák felszabadítására (járványügyi ellenőrzésük megszüntetésére) vonatkozó eljárások:
 
@@ -3198,15 +3198,15 @@ BNO10: A75.0 és A75.1
 
 A) Teendők a beteggel:
 
-a) Jelentés: Be- és kijelentésre kötelezett. Telefonon vagy faxon is jelentendő az OEK Járványügyi osztályának és az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének. Ugyanígy kell eljárni a Brill-Zinsser betegség esetén is.
+a) Jelentés: Be- és kijelentésre kötelezett. Telefonon vagy faxon is jelentendő az OEK Járványügyi osztályának és a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek. Ugyanígy kell eljárni a Brill-Zinsser betegség esetén is.
 
 b) Elkülönítés: A beteget azonnal ható módszerrel történt tetvetlenítés után kórházban fertőző osztályon kell elkülöníteni.
 
-c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő 5 ml alvadásgátló nélkül levett vér a Weil-Félix reakció elvégzésére az ÁNTSZ területileg illetékes regionális intézetének laboratóriumába, illetve 5 ml szintén alvadásgátló nélkül vett vér pedig komplementkötési reakció céljára az OEK Virológiai főosztályára. A Weil-Félix reakció nem specifikus a kórokozó kimutatására (Brill-betegségben negatív, de Proteus-fertőzésben pozitív), ezért önmagában még pozitív (> 1:200) esetben sem diagnosztikus értékű. Ekkor vett újabb vérmintával a specifikus rickettsia komplementkötési reakció ad biztos diagnózist. A pozitív reakcióról a beküldőt, az ÁNTSZ területileg illetékes regionális intézetét és az OEK Járványügyi osztályát telefonon vagy faxon azonnal értesíteni kell.
+c) Járványügyi laboratóriumi vizsgálat: Kötelező. Beküldendő 5 ml alvadásgátló nélkül levett vér a Weil-Félix reakció elvégzésére az illetékes megyei népegészségügyi szakigazgatási szerv laboratóriumába, illetve 5 ml szintén alvadásgátló nélkül vett vér pedig komplementkötési reakció céljára az OEK Virológiai főosztályára. A Weil-Félix reakció nem specifikus a kórokozó kimutatására (Brill-betegségben negatív, de Proteus-fertőzésben pozitív), ezért önmagában még pozitív (> 1:200) esetben sem diagnosztikus értékű. Ekkor vett újabb vérmintával a specifikus rickettsia komplementkötési reakció ad biztos diagnózist. A pozitív reakcióról a beküldőt, a megyei népegészségügyi szakigazgatási szervet és az OEK Járványügyi osztályát telefonon vagy faxon azonnal értesíteni kell.
 
-d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés végzendő, melyet a kistérségi intézet ellenőriz. A fertőző beteg vagy arra gyanús személy környezetében azonnal folyamatos fertőtlenítés megkezdése szükséges. A tetűmentesítésen kívül fertőtleníteni kell a beteg vagy az erre gyanús személy környezetét (lakását, tartózkodási helyét), fehérneműjét, alsóneműjét, ágyneműjét stb., valamint a beteggel érintkezésbe került és járványügyi megfigyelés alá vont személyeket is. A beteg vagy arra gyanús személy, illetve kontakt személyek testét 2%-os Liquor kresoli saponatus oldattal kell lemosni. A textíliák fertőtlenítésére elsősorban a hőhatáson alapuló fertőtlenítési módszereket (kifőzés, áramló vízgőz, túlnyomásos gőz stb.) kell alkalmazni. Kémiai fertőtlenítő eljárásokhoz (beáztatás stb.) aldehid hatóanyagú dezinficiensek alkalmazása indokolt.
+d) Fertőtlenítés: Szigorított folyamatos és zárófertőtlenítés végzendő, melyet a kistérségi népegészségügyi intézet ellenőriz. A fertőző beteg vagy arra gyanús személy környezetében azonnal folyamatos fertőtlenítés megkezdése szükséges. A tetűmentesítésen kívül fertőtleníteni kell a beteg vagy az erre gyanús személy környezetét (lakását, tartózkodási helyét), fehérneműjét, alsóneműjét, ágyneműjét stb., valamint a beteggel érintkezésbe került és járványügyi megfigyelés alá vont személyeket is. A beteg vagy arra gyanús személy, illetve kontakt személyek testét 2%-os Liquor kresoli saponatus oldattal kell lemosni. A textíliák fertőtlenítésére elsősorban a hőhatáson alapuló fertőtlenítési módszereket (kifőzés, áramló vízgőz, túlnyomásos gőz stb.) kell alkalmazni. Kémiai fertőtlenítő eljárásokhoz (beáztatás stb.) aldehid hatóanyagú dezinficiensek alkalmazása indokolt.
 
-B) Teendők a beteg környezetében: Tetvességi vizsgálat, szükség esetén tetvetlenítés azonnal ható módszerekkel a kistérségi intézet irányításával, a tetűmentes állapot fenntartása. A beteg környezetében élő személyeket 15 napra járványügyi zárlat alá kell helyezni. A lázasnak talált és a betegségre gyanús személyektől ugyanúgy kell vért vizsgálatra beküldeni, mint ahogy az a beteg esetében történt. Fertőzőforrás-kutatást kell végezni.
+B) Teendők a beteg környezetében: Tetvességi vizsgálat, szükség esetén tetvetlenítés azonnal ható módszerekkel a kistérségi népegészségügyi intézet irányításával, a tetűmentes állapot fenntartása. A beteg környezetében élő személyeket 15 napra járványügyi zárlat alá kell helyezni. A lázasnak talált és a betegségre gyanús személyektől ugyanúgy kell vért vizsgálatra beküldeni, mint ahogy az a beteg esetében történt. Fertőzőforrás-kutatást kell végezni.
 
 8. Megelőzés: Ruhatetvek elleni védekezés rendszeres tetvességi vizsgálatok, tetvetlenítés és az eltetvesedés megakadályozása. A tetvetlenítést végző egészségügyi dolgozók védőruházatot és egyéni védőfelszerelést kötelesek viselni. A Brill-Zinsser betegség csak ruhatetves környezetben fertőző, s ilyenkor ugyanúgy kell eljárni a beteg környezetében mint kiütéses tífusz esetében. Ha azonban a késői recidíva tetűmentes környezetben jelentkezik, s ez járványügyi vizsgálattal kétséget kizáróan megállapítható, nincs szükség tetvetlenítésre és különleges korlátozó intézkedésekre a beteg környezetében.
 
@@ -3310,7 +3310,7 @@ Egy klinikai mintában a Variola vírus kimutatása negatív-festéses elektronm
 
 A) Teendők a beteggel
 
-a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedés gyanúját az írásbeli jelentés megtételén kívül telefonon, faxon azonnal jelenteni kell az OEK-nek és az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének. Munkaidőn túl és munkaszüneti időben az OEK Járványügyi ügyeletének és az ÁNTSZ ügyeletnek, akik értesítik az Országos Tisztifőorvosi Hivatal ügyeleti szolgálatát. Az országos tisztifőorvos jelentést tesz az Egészségügyi Minisztérium Járványügyi Védelmi Munkabizottságának. A betegség vagy annak gyanúja jelentendő az Európai Unió illetékes hatóságainak és a WHO-nak.
+a) Jelentés: Be- és kijelentésre kötelezett. A megbetegedés gyanúját az írásbeli jelentés megtételén kívül telefonon, faxon azonnal jelenteni kell az OEK-nek és a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek. Munkaidőn túl és munkaszüneti időben az OEK Járványügyi ügyeletének és az ÁNTSZ ügyeletnek, akik értesítik az Országos Tisztifőorvosi Hivatal ügyeleti szolgálatát. Az országos tisztifőorvos jelentést tesz az egészségügyért felelős miniszter által vezetett minisztérium Járványügyi Védelmi Munkabizottságának. A betegség vagy annak gyanúja jelentendő az Európai Unió illetékes hatóságainak és a WHO-nak.
 
 b) Elkülönítés: A beteget vagy a betegségre gyanús személyeket az országos tisztifőorvos által esetenként kijelölt kórház fertőző osztályán kell elkülöníteni a pörkök leválásának befejeződéséig. Szükség esetén a beteg szállítását csak erre kijelölt betegszállító jármű és kijelölt személyzet végezhetik. A beteget vagy a betegségre gyanús személyeket egyedileg kell elkülöníteni: egy helyiségben csak egy beteget szabad elhelyezni. Járvány esetén több beteg is elhelyezhető egy szobában. Az izoláló kórteremnek speciális szellőztetés feltételeivel kell rendelkezni. A beteg ápolását csak az erre kijelölt személyek végezhetik. A beteg ápolása, gondozása során teljes védőruházatot [egyszerhasználatos, nedvességet át nem eresztő köpeny vagy overall, arcvédő maszk, légzésvédő (ha a dolgozó nem oltott), védőkesztyű stb.] kell viselni.
 
@@ -3320,7 +3320,7 @@ d) Járványügyi laboratóriumi vizsgálat: Kötelező. A laboratóriumi vizsg�
 
 B) Teendők a beteg környezetében: Sürgősen fel kell kutatni, és jegyzékbe kell venni mindazokat, akik a beteggel vagy a betegségre gyanús személlyel közvetlenül érintkeztek. (Minden a beteggel kapcsolatba került egészségügyi dolgozó primer kontaktnak tekintendő.) Az elsődleges kontaktokat azonnal védőoltásban kell részesíteni és 18 napi időtartamra szigorú járványügyi megfigyelés alá kell helyezni. A karantén céljára szolgáló intézményt az ÁNTSZ jelöli ki. A primer kontaktok között már lehetnek olyan személyek, akiknél olyan klinikai tünetek jelentkeznek, melyek megfelelnek a himlő prodromális stádiumának. Ezeket a személyeket azonnal himlő gyanúsnak kell minősíteni és az e célra kijelölt egészségügyi intézményben kell elhelyezni. A beteggel közvetve érintkezetteket (ún. másodlagos kontaktok) gondosan fel kell kutatni, védőoltásban részesíteni és 18 napig járványügyi megfigyelés alá kell helyezni.
 
-7. Megelőzés: A himlővírus újbóli megjelenése esetén szükséges teendőket az Egészségügyi Minisztérium az ún. Nemzeti Himlő-felkészülési Tervében kell szabályozni. A tervet ötévente felül kell vizsgálni.
+7. Megelőzés: A himlővírus újbóli megjelenése esetén szükséges teendőket az egészségügyért felelős miniszter által vezetett minisztérium ún. Nemzeti Himlő-felkészülési Tervében kell szabályozni. A tervet ötévente felül kell vizsgálni.
 
 Yersiniosis
 
@@ -3364,7 +3364,7 @@ Különböző vírusok által okozott heveny, lázzal, izomfájdalommal járó m
 
 Teendők a betegség előfordulásakor:
 
-a) Jelentés: Be- és kijelentésre kötelezett, a megbetegedést vagy annak gyanúját az írásbeli jelentés megtételén kívül telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, és az ÁNTSZ megbetegedés helye szerint illetékes regionális intézetének. A betegség kijelentésekor a fertőző beteg kijelentőlapon az „Orvos megjegyzése” rovatban közölni kell a virológiai vizsgálatok eredménye szerinti diagnózist.
+a) Jelentés: Be- és kijelentésre kötelezett, a megbetegedést vagy annak gyanúját az írásbeli jelentés megtételén kívül telefonon, faxon is jelenteni kell az OEK Járványügyi osztályának, és a megbetegedés helye szerint illetékes megyei népegészségügyi szakigazgatási szervnek. A betegség kijelentésekor a fertőző beteg kijelentőlapon az „Orvos megjegyzése” rovatban közölni kell a virológiai vizsgálatok eredménye szerinti diagnózist.
 
 b) Elkülönítés: A beteget az erre kijelölt egészségügyi intézménybe (Fővárosi Szent László Kórház) kell utalni. Az elkülönítés egyedi: egy helyiségben csak egy beteget szabad elhelyezni. A beteg ápolását csak erre kijelölt személy végezheti. A beteg ápolója ápolás közben csak egyszerhasználatos, nedvességet át nem eresztő köpenyt vagy overállt használhat. Az ellátó személyzetnek arcvédőt kell viselni a vérrel, testnedvekkel, váladékokkal (beleértve a légútiakat is) történő kontamináció megelőzésére. A sérülések megelőzését, elkerülését célzó rendszabályokat szigorúan be kell tartani. A beteg halála esetén a holttesttel való kontaktust a minimálisra kell csökkenteni. Boncolás esetén speciális biztonsági rendszabályokat kell alkalmazni.
 
@@ -3538,7 +3538,7 @@ BNO10: N34.1
 
 A) Teendők acut nongonorrhoeas urethritises beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Nem szükséges.
 
@@ -3578,7 +3578,7 @@ Verticalis transmissio (szülés közben) kisded korban manifesztálódó laryng
 
 6. Teendők a betegség előfordulásakor:
 
-Személyazonosító adatok nélkül bejelentendő. A beteget Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+Személyazonosító adatok nélkül bejelentendő. A beteget Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 7. Megelőzés:
 
@@ -3632,7 +3632,7 @@ Gonorrhoeas terhes nő szülés közben fertőzi az újszülöttet.
 
 A) Teendők a gonorrhoeas beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül bejelentésre kötelezett betegség. A gonorrhoeas beteget Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül bejelentésre kötelezett betegség. A gonorrhoeas beteget Semmelweis Egyetem ÁOK Bőr- Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Nem szükséges, mivel a terjedés szexuális érintkezéssel történik. Csecsemő- és gyermekgondozónők a kezelés és az azt követő kontrollvizsgálatig munkájukat nem végezhetik.
 
@@ -3644,7 +3644,7 @@ A gonorrhoeas beteg gyógykezelése a Bőr- és Nemibetegségek Szakmai Kollégi
 
 A gonorrhoeában szenvedő betegek és felderített kontaktusaik HIV és luesz szűrővizsgálata a beteg tájékoztatása után kötelezően elvégzendő. A gondozás ideje alatt a módszertani levél előírásainak megfelelően az ellenőrző vérvizsgálatok mindkét szerológiára vonatkoznak (luesz és HIV).
 
-Ha a nemi beteg a gyógykezelésről és gondozásról elmaradt és ismételt felszólításokra sem jelentkezik, a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma vagy a BNG orvosa a területileg illetékes ÁNTSZ kistérségi intézeténél kezdeményezi a járványügyi felügyelet alá helyezést.
+Ha a nemi beteg a gyógykezelésről és gondozásról elmaradt és ismételt felszólításokra sem jelentkezik, a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma vagy a BNG orvosa a területileg illetékes kistérségi népegészségügyi intézetnél kezdeményezi a járványügyi felügyelet alá helyezést.
 
 Ha a nemi beteg más egészségügyi intézménynél, magánorvosnál jelentkezik, az orvos az illetékes BNG-től köteles kérni a fertőzőforrás kutatás elvégzését.
 
@@ -3694,7 +3694,7 @@ Felülfertőződhet, ami a fekélyt fájdalmassá teszi, növekedését gyorsít
 
 A) Teendők a beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Nem igényel.
 
@@ -3744,7 +3744,7 @@ Recidiva: Az anogenitalis regióban, általában a primer fertőzés lokalizáci
 
 Neonatalis herpes: A fertőzött szülőcsatornán való áthaladáskor az újszülött által akvirált primer infekció, encephalitis, sepsis formájában manifesztálódik, mortalitása az 50%-ot meghaladja. A fertőzés forrása lehet aktuális recidiva, ezért ilyen esetben abszolút indikált a sectio caesarea.
 
-6. Teendők a betegség előfordulásakor: Személyazonosító adatok nélkül bejelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+6. Teendők a betegség előfordulásakor: Személyazonosító adatok nélkül bejelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 7. Megelőzés: Recidiváló anogenitalis herpes simplex fertőzésben szenvedő személy a recidiva időtartama alatt a szexuális érintkezés minden formáját kerülje, a tünetmentes időszakban condom alkalmazása szükséges. Különösen fontos ezek betartása terhes nő recidiváló genitalis herpesben szenvedő szexuális partnere esetében.
 
@@ -3776,7 +3776,7 @@ Másodlagos laesiók: Ulcerosus – genito – anorectális elephantiasis.
 
 A) Teendők a beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Nem igényel.
 
@@ -3872,7 +3872,7 @@ Syphilis connatalis: A fertőzött terhes nő magzatát a terhesség második fe
 
 A) Teendők syphilises beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül bejelentésre kötelezett betegség. A syphilises személyt Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül bejelentésre kötelezett betegség. A syphilises személyt Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Mivel a betegség nemi úton terjed, elkülönítés nem szükséges.
 
@@ -3890,7 +3890,7 @@ A syphilises beteg és felderített szexuális kontaktusainak kezelése a Semmel
 
 A syphilisben szenvedő betegek és felderített kontaktusaik HIV szűrővizsgálata a beteg tájékoztatása után kötelezően elvégzendő. A gondozás ideje alatt a módszertani levél előírásainak megfelelően az ellenőrző vérvizsgálatok mindkét szerológiára vonatkoznak (luesz és HIV).
 
-Ha a nemi beteg a gyógykezelésről és a gondozásról elmaradt és ismételt felszólításokra sem jelentkezik, a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és/vagy a BNG orvosa kezdeményezi az illetékes kistérségi intézetnél a járványügyi felügyelet alá helyezést.
+Ha a nemi beteg a gyógykezelésről és a gondozásról elmaradt és ismételt felszólításokra sem jelentkezik, a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és/vagy a BNG orvosa kezdeményezi az illetékes kistérségi népegészségügyi intézetnél a járványügyi felügyelet alá helyezést.
 
 Ha a nemi beteg más egészségügyi intézménynél, magánorvosnál jelentkezik, az orvos a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centrumától vagy az illetékes BNG-től köteles kérni a fertőző forrás kutatás elvégzését.
 
@@ -3942,7 +3942,7 @@ Előfordulás: Világszerte, főként trópusi, szubtrópusi országokban. Férf
 
 A) Teendők a beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés: Nem igényel.
 
@@ -3992,7 +3992,7 @@ BNO 10: A56.0
 
 A) Teendők a beteggel:
 
-a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a regionális szakfelügyelő főorvosnak, az ÁNTSZ illetékes kistérségi intézetének és az Országos Epidemiológiai Központ Járványügyi osztályának.
+a) Jelentés: Személyazonosító adatok nélkül jelentendő. A beteget a Semmelweis Egyetem ÁOK Bőr-Nemikórtani és Bőronkológiai Klinika STD Centruma és a Bőr- és nemibeteg-gondozó (BNG), továbbá az STD betegeket is ellátó szakrendelő köteles jelenteni a működési területe szerint illetékes megyei BNG-nek, a területi szakfelügyelő főorvosnak, a kistérségi népegészségügyi intézetnek és az Országos Epidemiológiai Központ Járványügyi osztályának.
 
 b) Elkülönítés:
 
@@ -4032,7 +4032,7 @@ a) Jelentés: Nem bejelentendő.
 
 b) Elkülönítés: Nem szükséges.
 
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Genny, köpet küldhető az ÁNTSZ területileg illetékes regionális intézetének mycologiai laboratóriumába.
+c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Genny, köpet küldhető a megyei népegészségügyi szakigazgatási szerv mycologiai laboratóriumába.
 
 d) Fertőtlenítés: A gennyes váladékokat és a velük szennyezett tárgyakat folyamatosan fertőtleníteni kell. A kötszereket el kell égetni.
 
@@ -4252,26 +4252,4 @@ BNO10: B00.1
 
 6. Teendők a betegség előfordulásakor:
 
-A) Teendők a beteggel:
-
-a) Jelentés: Meningitis vagy encephalitis tünetek esetén be- és kijelentésre kötelezett meningitis serosa vagy encephalitis infectiosa megjelöléssel.
-
-b) Elkülönítés: A betegtől távol kell tartani az ekcémás betegeket és csecsemőket.
-
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető az OEK Virológiai főosztályával történt megbeszélést követően.
-
-d) Fertőtlenítés: Nem szükséges.
-
-7. Megelőzés: Az ekcémás bőrfelület HSV fertőzése súlyos lefolyású, ezért el kell kerülni, hogy a dermatitisben, ekcémában szenvedő beteg herpeszes beteggel érintkezzék. Ugyanez vonatkozik a csecsemőkre és azokra, akik immunszupresszív kezelésben részesülnek. Ha az anya igazoltan herpes genitalisban szenved, a perinatalis fertőzés elkerülésére indokolt lehet a császármetszés.
-
-Heveny felső légúti fertőzések
-
-BNO10: J00-J06
-
-1. Kórokozó: Vírusok (reovírus, rhinovírusok, adenovírusok és parainfluenzavírusok különböző szerotípusai, ritkábban a coronavírusok és egyéb enterovírusok stb.), chlamydiák és mycoplasmák súlyos társfertőzésként, egyéb baktériumok és gombák többnyire csak másodlagos fertőzésekben játszanak szerepet. (Az influenza, a streptococcus és enterovírus fertőzéseket lásd külön fejezetekben.)
-
-2. Fertőzés forrása: A beteg vagy a kórokozó-hordozó ember.
-
-3. Terjedési mód: Cseppfertőzés, közvetlen érintkezés, ritkábban tárgyak útján (zsebkendő, pohár stb.).
-
-[^140]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a szerint módosított szöveg.
+[^143]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a, a 10/2011. (III. 30.) NEFMI rendelet 7. § (2) bekezdése szerint módosított szöveg.

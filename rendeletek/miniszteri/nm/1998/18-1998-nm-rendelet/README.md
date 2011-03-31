@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2010-03-20 | 1998-18-20-3D.19 | 10/2010. (III. 19.) EüM rendelet |
 | 2010-05-01 | 1998-18-20-3D.20 | 10/2010. (III. 19.) EüM rendelet |
 | 2010-06-01 | 1998-18-20-3D.21 | 35/2010. (V. 14.) EüM rendelet |
+| 2011-03-31 | 1998-18-20-3D.22 | 10/2011. (III. 30.) NEFMI rendelet |
