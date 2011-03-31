@@ -2,9 +2,10 @@
 
 (2)[^1] A kábítószernek és pszichotrop anyagnak minősülő gyógyszerek és gyógyszeralapanyagok hulladékainak kezeléséről külön jogszabály rendelkezik.
 
-(3) A hulladékgyűjtő tartályok gyógyszertárakban történő kihelyezését, illetve e rendelet rendelkezéseinek betartását a gyógyszertáraknál az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) megyei (fővárosi) tisztifőgyógyszerésze is ellenőrzi.
+(3)[^2] A hulladékgyűjtő tartályok gyógyszertárakban történő kihelyezését, illetve e rendelet rendelkezéseinek betartását a gyógyszertáraknál a fővárosi, megyei tisztifőgyógyszerész megyei (fővárosi) tisztifőgyógyszerésze is ellenőrzi.
 
-(4)[^2] A gyártó köteles az e rendelet hatálybalépéséig nyilatkozni az ÁNTSZ Országos Tisztifőorvosi Hivatala számára az e rendeletben meghatározott kötelezettsége teljesítésének módjáról.
+(4)[^3] A gyártó köteles az e rendelet hatálybalépéséig nyilatkozni az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala számára az e rendeletben meghatározott kötelezettsége teljesítésének módjáról.
 
 [^1]: Az 5. § (2) bekezdése a 43/2005. (X. 15.) EüM rendelet 27. § (3) bekezdésének c) pontjával megállapított szöveg.
-[^2]: Az 5. § (4) bekezdése e rendelet 6. §-ának (2) bekezdése alapján 2005. június 15. napján lépett hatályba.
+[^2]: Az 5. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 53. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 53. § b) pontja szerint módosított szöveg.
