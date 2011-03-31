@@ -1,4 +1,4 @@
-5/C. §[^37] (1) Az OEP az 5/B. § a) pontja szerinti hivatalbóli eljárást köteles megindítani azon terápiás területek közfinanszírozásban részesülő gyógyszereire, melyek a 13/2009. (IV. 22.) EüM rendelet szerinti, a finanszírozási eljárásrendre vonatkozó munkatervben közzétételre kerültek.
+5/C. §[^38] (1) Az OEP az 5/B. § a) pontja szerinti hivatalbóli eljárást köteles megindítani azon terápiás területek közfinanszírozásban részesülő gyógyszereire, melyek a 13/2009. (IV. 22.) EüM rendelet szerinti, a finanszírozási eljárásrendre vonatkozó munkatervben közzétételre kerültek.
 
 (2) Az OEP az (1) bekezdés szerinti eljárás megindítását megelőzően, a 13/2009. (IV. 22.) EüM rendelet szerint a terápiás területeket tartalmazó munkaterv közzétételét követő 10 napon belül közzéteszi a honlapján a felülvizsgálat tárgyát képező terápiás területeket és az ezekhez tartozó készítményeket, valamint a felülvizsgálat megindításának időpontját.
 
@@ -36,4 +36,4 @@ c) megjelöli a tervezett finanszírozási kezdőnapot.
 
 (11) Az 5/B. § b) pontja szerinti esetben a (2)–(10) bekezdés szerinti eljárást kell alkalmazni.
 
-[^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^38]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.

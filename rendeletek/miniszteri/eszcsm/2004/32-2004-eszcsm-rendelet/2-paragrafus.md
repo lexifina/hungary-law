@@ -18,7 +18,7 @@ f)[^6] forgalomba hozatalra engedélyezett gyógyszer: az Országos Gyógyszeré
 
 g)[^7] forgalomba hozatali engedély: az f) pont szerinti hatóságok által kibocsátott hatósági határozat;
 
-h)[^8] befogadási eljárás alatt álló gyógyszer: olyan forgalomba hozatalra engedélyezett gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) társadalombiztosítási támogatásban még nem részesített, de a befogadás kezdeményezése már megtörtént;
+h)[^8] befogadási eljárás alatt álló gyógyszer: olyan forgalomba hozatalra engedélyezett gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) társadalombiztosítási támogatásban még nem részesített, de a befogadás kezdeményezése már megtörtént;
 
 i)[^9] befogadott gyógyszer: olyan forgalomba hozatalra engedélyezett gyógyszer, amelyet az OEP jogerős és végrehajtható határozataiban társadalombiztosítási támogatásban részesített;
 
@@ -78,7 +78,7 @@ zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlít
 [^5]: A 2. § e) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § f) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § g) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 2. § h) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, valamint az 54/2008. (XII. 31.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2009. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^8]: A 2. § h) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 38. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § i) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § k) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^11]: A 2. § l) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.

@@ -1,4 +1,4 @@
-5/A. §[^34] (1) A 2. és 3. számú mellékletekben szereplő indikációs pontokban foglaltak alapján társadalombiztosítási támogatással, szakorvosi javaslatra rendelhető gyógyszer esetén a szakorvos a szakorvosi javaslatot a „Szakorvosi javaslat támogatással történő gyógyszerrendeléshez” című űrlapon a (2) bekezdés szerinti tartalommal adja meg.
+5/A. §[^35] (1) A 2. és 3. számú mellékletekben szereplő indikációs pontokban foglaltak alapján társadalombiztosítási támogatással, szakorvosi javaslatra rendelhető gyógyszer esetén a szakorvos a szakorvosi javaslatot a „Szakorvosi javaslat támogatással történő gyógyszerrendeléshez” című űrlapon a (2) bekezdés szerinti tartalommal adja meg.
 
 (2) A szakorvosi javaslaton az alábbi adatokat kell feltüntetni:
 
@@ -8,7 +8,7 @@ b) a szakorvosi javaslat keltét, időtartamát,
 
 c) a beteg nevét, lakcímét, születési idejét és a TAJ számát, valamint betegségének a betegségek nemzetközi osztályozása szerinti kódját (BNO kód),
 
-d)[^35] az orvos nevét, orvosi bélyegzőjének számát, munkahelyének (rendelőjének) címét, telefonszámát és egészségügyi vállalkozás esetén az egészségügyi tevékenység végzésére jogosító működési engedély számát,
+d)[^36] az orvos nevét, orvosi bélyegzőjének számát, munkahelyének (rendelőjének) címét, telefonszámát és egészségügyi vállalkozás esetén az egészségügyi tevékenység végzésére jogosító működési engedély számát,
 
 e) a felírási jogosultságot meghatározó indikációs pont sorszámát, a támogatási kategóriát (kiemelt, emelt), és emelt támogatási kategória esetén a támogatás százalékos mértékét,
 
@@ -18,5 +18,5 @@ g) az orvos saját kezű aláírását és orvosi bélyegzőjének azonosíthat�
 
 (3) A szakorvosi javaslaton opcionálisan feltüntethető példaként a szakorvos által javasolt hatóanyag egy konkrét márkanevű készítménye, a javaslat alapján felíró orvos azonban a javasolt hatóanyagon belül bármely márkanevű készítményt rendelheti betege számára.
 
-[^34]: Az 5/A. §-t a 45/2008. (XII. 3.) EüM rendelet 3. §-a iktatta be.
-[^35]: Az 5. § (2) bekezdésének d) pontja a 6/2009. (III. 20.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.
+[^35]: Az 5/A. §-t a 45/2008. (XII. 3.) EüM rendelet 3. §-a iktatta be.
+[^36]: Az 5. § (2) bekezdésének d) pontja a 6/2009. (III. 20.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.

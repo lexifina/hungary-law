@@ -1,4 +1,4 @@
-22. §[^93] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
+22. §[^94] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
 
 a) már támogatott hatóanyagot tartalmazó gyógyszerrel egyenértékű készítmény:
 
@@ -38,4 +38,4 @@ h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron t�
 
 érkezett.
 
-[^93]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^94]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
