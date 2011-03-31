@@ -1,3 +1,3 @@
-7. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^125]
+7. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^126]
 
-[^125]: A 7. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^126]: A 7. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (6) bekezdésével megállapított szöveg.

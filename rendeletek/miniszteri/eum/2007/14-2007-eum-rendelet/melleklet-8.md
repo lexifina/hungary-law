@@ -158,6 +158,6 @@
 
 | 7 | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
-8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^126]
+8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^127]
 
-[^126]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően beváltott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^127]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján rendelkezéseit a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően beváltott gyógyászati segédeszköz vények esetében kell alkalmazni.

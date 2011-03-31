@@ -32,7 +32,7 @@
 
 ## 3.3. A kérelmező mely szakmai/érdekvédelmi szervezetnek, ipartestületnek tagja, azonosító száma
 
-## 3.4. A kérelmező – az ápolási gyógyászati segédeszközök kivételével – gyógyászati segédeszköz kölcsönzésére való alkalmasságát a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendelet (a továbbiakban: R1.) 6. §-a szerint igazoló ÁNTSZ működési engedély [az R1. 3. § (1) bekezdése szerinti gyógyászati segédeszköz forgalmazói engedély GYS 6 szakmai kóddal]
+## 3.4. A kérelmező – az ápolási gyógyászati segédeszközök kivételével – gyógyászati segédeszköz kölcsönzésére való alkalmasságát a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendelet (a továbbiakban: R1.) 6. §-a szerint „igazoló, az egészségügyi államigazgatási szerv által kiadott működési engedély [az R1. 3. § (1) bekezdése szerinti gyógyászati segédeszköz forgalmazói engedély GYS 6 szakmai kóddal]
 
 ## 3.4.1. A működési engedély száma
 
@@ -52,7 +52,7 @@
 
 ## 3.6. Nyilatkozat arról, hogy a kérelmező országos lefedettséget tud-e biztosítani a kölcsönzési tevékenység során
 
-## 3.7. Ápolási gyógyászati segédeszköz kölcsönzése esetén a kérelmező nyilatkozata arról, hogy kötelezettséget vállal a kölcsönzési tevékenységhez szükséges, az R1. 6/A. §-ában foglalt feltételek teljesítésére, valamint arra, hogy a kölcsönzési tevékenység megkezdéséig az ÁNTSZ működési engedélyt az OEP-hez benyújtja
+## 3.7. Ápolási gyógyászati segédeszköz kölcsönzése esetén a kérelmező nyilatkozata arról, hogy kötelezettséget vállal a kölcsönzési tevékenységhez szükséges, az R1. 6/A. §-ában foglalt feltételek teljesítésére, valamint arra, hogy a kölcsönzési tevékenység megkezdéséig az egészségügyi államigazgatási szerv által kiadott működési engedélyt az OEP-hez benyújtja
 
 ## 4. Az eszköz azonosító adatai
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^124]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^125]
 
-[^124]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^125]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított szöveg.
