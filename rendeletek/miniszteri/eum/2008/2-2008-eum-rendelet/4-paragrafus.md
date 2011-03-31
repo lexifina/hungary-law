@@ -42,7 +42,7 @@ i) a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási felt
 
 j) az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet hatálya alá tartozó termékek;
 
-k) nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák, az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ), illetve a Nemzeti Egészségvédelmi Intézet által egészségügyi témájúnak minősített kiadványok;
+k)[^2] nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák, az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH), illetve a Nemzeti Egészségvédelmi Intézet által egészségügyi témájúnak minősített kiadványok;
 
 l) közegészségügyi vizsgálati tartályok;
 
@@ -53,3 +53,4 @@ n) kontaktlencse tárolásához és tisztításához szükséges oldatok, folyad
 o) olvasó- és tartalékszemüvegek, napszemüvegek.
 
 [^1]: A 4. § b) pontja a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének a) pontja szerint módosított szöveg.
+[^2]: A 4. § k) pontja a 10/2011. (III. 30.) NEFMI rendelet 63. § (1) bekezdés a) pontja szerint módosított szöveg.
