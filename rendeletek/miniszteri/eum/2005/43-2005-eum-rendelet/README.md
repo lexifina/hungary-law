@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-43-20-0
 | --- | --- | --- |
 | 2008-12-03 | 2005-43-20-0B.5 | 43/2005. (X. 15.) EüM rendelet |
 | 2010-04-30 | 2005-43-20-0B.6 | 20/2010. (IV. 29.) EüM rendelet |
+| 2011-03-31 | 2005-43-20-0B.7 | 10/2011. (III. 30.) NEFMI rendelet |

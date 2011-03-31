@@ -4,11 +4,11 @@
 
 10. § (1)[^25] Ha ellenőrzött szerrel történő kezelés alatt álló személy hagyja el a Magyar Köztársaság területét és az utazás várható időtartama nem haladja meg a 72 órát, a kezeléshez elegendő mennyiségű ellenőrzött szer az országból személyes poggyászban a 3. számú melléklet szerinti, a háziorvos által kitöltött igazolás ellenében vihető ki. Minden ellenőrzött szerre külön igazolást kell kiállítani. Ellenőrzött szer tartalmú injekciós vagy infúziós készítményt – a (3) bekezdésben foglaltak kivételével – a beteg nem vihet ki az országból.
 
-(2)[^26] Ha az utazás várható időtartama a 72 órát meghaladja, legfeljebb 30 napig terjedő időtartamra a kezeléshez elegendő mennyiségű ellenőrzött szert saját felhasználási céllal az országból kivinni a kezelés alatt álló személy lakóhelye szerint illetékes kistérségi intézet engedélyével lehet. Az engedély megadásához a kistérségi intézet a háziorvos által kitöltött, a 3. számú mellékletnek megfelelő igazolás D) pontját tölti ki. A kistérségi intézet az engedély kiadásával egyidejűleg, tájékoztatás céljából megküldi az engedélyt az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) részére.
+(2)[^26] Ha az utazás várható időtartama a 72 órát meghaladja, legfeljebb 30 napig terjedő időtartamra a kezeléshez elegendő mennyiségű ellenőrzött szert saját felhasználási céllal az országból kivinni a fővárosi és megyei kormányhivatalnak a kezelés alatt álló személy lakóhelye szerint illetékes kistérségi (fővárosi kerületi) népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet) engedélyével lehet. Az engedély megadásához a kistérségi népegészségügyi intézet a háziorvos által kitöltött, a 3. számú mellékletnek megfelelő igazolás D) pontját tölti ki. A kistérségi népegészségügyi intézet az engedély kiadásával egyidejűleg, tájékoztatás céljából megküldi az engedélyt az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) részére.
 
 (3)[^27] Ellenőrzött szer tartalmú injekciós vagy infúziós készítményt, illetőleg 30 naptól 90 napig terjedő időtartamra a kezeléshez elegendő mennyiségű ellenőrzött szert a kezelés alatt álló személy az EEKH engedélyével vihet ki az országból. Az engedély megadásához az EEKH a 3. számú mellékletnek megfelelő igazolás D) pontját tölti ki, s az engedélyt 5 munkanapon belül megküldi a kérelmezőnek. Az EEKH engedélye másolatát megküldi a Vám- és Pénzügyőrség Országos Parancsnokságának (a továbbiakban: VPOP).
 
-(4)[^28] A háziorvos a (2) bekezdés szerinti eljárás esetén felhívja a beteg vagy hozzátartozója figyelmét arra, hogy a kitöltött nyomtatványt, az ellenőrzött szer személyi poggyászban történő kivitelének engedélyezése végett a kistérségi intézethez juttassa el.
+(4)[^28] A háziorvos a (2) bekezdés szerinti eljárás esetén felhívja a beteg vagy hozzátartozója figyelmét arra, hogy a kitöltött nyomtatványt, az ellenőrzött szer személyi poggyászban történő kivitelének engedélyezése végett a kistérségi népegészségügyi intézethez juttassa el.
 
 (5) Ha ellenőrzött szerrel történő kezelés alatt álló személy lép be a Magyar Köztársaság területére a személyes poggyászában behozható ellenőrzött szer mennyisége nem haladhatja meg a 72 órás kezelésre elegendő mennyiséget a kezelőorvosa által kitöltött nemzetközi igazolás birtokában.
 
@@ -21,8 +21,8 @@
 (9) Az R. 1. számú mellékletének K1 jegyzékén *-gal megjelölt hatóanyagokat a betegek nem vihetik magukkal külföldre, illetve nem hozhatják be az ország területére abban az esetben sem, ha azok használata a kiindulási országban megengedett.
 
 [^25]: A 10. § (1) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^26]: A 10. § (2) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^26]: A 10. § (2) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
 [^27]: A 10. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^28]: A 10. § (4) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 10. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^29]: A 10. § (6) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^30]: A 10. § (8) bekezdése a 44/2008. (XI. 28.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
