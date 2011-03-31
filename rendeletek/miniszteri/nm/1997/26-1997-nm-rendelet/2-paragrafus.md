@@ -1,4 +1,4 @@
-2. § (1)[^4] Az iskola-egészségügyi ellátást valamennyi nevelési-oktatási intézményre kiterjesztve kell intézményenként vagy több intézmény ellátásának közös biztosításával megszervezni. Az iskola-egészségügyi ellátást az iskolaorvos teljes vagy részmunkaidőben, a védőnő teljes munkaidőben, vagy a külön jogszabályban foglalt esetben részmunkaidőben, illetve a területi védőnő körzetéhez tartozó feladatként végezheti. Az iskola-egészségügyi ellátást végző iskolaorvos és védőnő tevékenységét a gyermek, a tanuló háziorvosával (házi gyermekorvosával), illetőleg területi védőnőjével egyeztetve és vele együttműködve végzi.
+2. § (1)[^4] Az iskola-egészségügyi ellátást valamennyi nevelési-oktatási intézményre kiterjesztve kell intézményenként vagy több intézmény ellátásának közös biztosításával megszervezni. Az iskola-egészségügyi ellátást az iskolaorvos teljes vagy részmunkaidőben, a védőnő teljes vagy részmunkaidőben, illetve a területi védőnő körzetéhez tartozó feladatként végezheti. Az iskola-egészségügyi ellátást végző iskolaorvos és védőnő tevékenységét a gyermek, a tanuló háziorvosával (házi gyermekorvosával), illetőleg területi védőnőjével egyeztetve és vele együttműködve végzi.
 
 (2)[^5] Az oktatási intézményben amennyiben a tanulók létszáma a 800 főt eléri, akkor teljes munkaidőben iskolavédőnői feladatot végző iskolavédőnőt kell biztosítani. Az iskolavédőnő az oktatási intézmény(ek)ben összesen 1000 főt láthat el, ha a 800 főt meghaladó tanulói létszám iskolavédőnői ellátása más módon nem biztosítható.
 
@@ -12,7 +12,7 @@
 
 (7) Az iskola-egészségügyi feladatok ellátására létrehozott iskolaorvosi rendelő minimális alapfelszerelésének tételes felsorolását az 1. számú melléklet tartalmazza.
 
-[^4]: A 2. § (1) bekezdése a 49/2004. (V. 21.) ESZCSM rendelet 8. §-a (2) bekezdésének a) pontjával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 49/2004. (V. 21.) ESZCSM rendelet 8. §-a (2) bekezdésének a) pontjával megállapított és a 10/2011. (III. 30.) NEFMI rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdése a 49/2004. (V. 21.) ESZCSM rendelet 8. §-a (2) bekezdésének a) pontjával megállapított szöveg.
 [^6]: A 2. § (3) bekezdése a 49/2004. (V. 21.) ESZCSM rendelet 8. §-a (2) bekezdésének a) pontjával megállapított szöveg.
 [^7]: A 2. § (5) bekezdése a 49/2004. (V. 21.) ESZCSM rendelet 8. §-a (2) bekezdésének b) pontjával megállapított szöveg.

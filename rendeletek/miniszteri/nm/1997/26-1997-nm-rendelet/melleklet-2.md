@@ -154,11 +154,11 @@ b) A testnevelési csoportbeosztás elkészítése, gyógytestneveléssel, testn
 
 a) Az iskolai életkorhoz kötött és kampányoltások elvégzése és dokumentálása.
 
-b) A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről az ÁNTSZ illetékes intézetének értesítése.
+b)[^19] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
 
 c) A nevelési-oktatási intézményben folyó étkeztetés ellenőrzése.
 
-d) Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint az ÁNTSZ illetékes intézetének értesítése.
+d)[^20] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
 
 4. Elsősegélynyújtás
 
@@ -178,8 +178,10 @@ a) Az intézményi környezet – tantermek, gyakorlati helyiségek, tornaterem,
 
 b) A tanulók gyakorlati oktatásával kapcsolatos munkahelyi körülmények figyelemmel kísérése.
 
-7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^19].
+7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^21].
 
 [^17]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^18]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
-[^19]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
+[^19]: A 2. számú melléklet 3. pont b) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet 3. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^21]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
