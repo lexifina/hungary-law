@@ -6,6 +6,6 @@
 
 (4) A cumit importáló köteles nyilvántartást vezetni az általa importált cumikról. A nyilvántartásnak tartalmaznia kell a cumi nevét, rendeltetését, az importált tétel nagyságát, a beérkezés időpontját, a forgalmazók nevét és címét, valamint mellékelni kell a (2) bekezdés szerinti dokumentumot. A nyilvántartást 10 évig kell megőrizni.
 
-(5)[^1] A rendelet követelményeinek betartását az Állami Népegészségügyi és Tisztiorvosi Szolgálat, a Fogyasztóvédelmi Főfelügyelőség az előállítókra és forgalmazókra megállapított szabályok szerint ellenőrzi. Az ellenőrző hatóság a cumi laboratóriumi vizsgálatát is kezdeményezheti.
+(5)[^1] A rendelet követelményeinek betartását a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, kistérségi (fővárosi kerületi) népegészségügyi intézete és a fogyasztóvédelmi hatóság az előállítókra és forgalmazókra megállapított szabályok szerint ellenőrzi. Az ellenőrző hatóság a cumi laboratóriumi vizsgálatát is kezdeményezheti.
 
-[^1]: A 6. § (5) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^1]: A 6. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 26. §-a szerint módosított szöveg.
