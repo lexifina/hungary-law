@@ -4,4 +4,6 @@
 
 (3) A hulladékkezelésnek a betegeket, illetve a látogatókat érintő szabályait az egészségügyi intézményben jól látható helyen ki kell függeszteni.
 
-(4) A hulladékkezelési utasításban foglaltak végrehajtását a környezetvédelmi hatóság és az ÁNTSZ illetékes intézete ellenőrzi.
+(4)[^11] A hulladékkezelési utasításban foglaltak végrehajtását a környezetvédelmi hatóság és a kistérségi népegészségügyi intézet ellenőrzi.
+
+[^11]: A 8. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 22. § (1) bekezdés c) pontja szerint módosított szöveg.

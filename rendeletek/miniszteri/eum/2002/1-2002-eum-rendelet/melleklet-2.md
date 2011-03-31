@@ -10,7 +10,7 @@
 
 | 1.1. | Az egészségügyi intézmény neve, címe, telephelye: |
 
-| 1.2. | A területileg illetékes ÁNTSZ intézet: |
+| 1.2. | Illetékes kistérségi népegészségügyi intézet: |
 
 | 1.3. | Az intézmény tulajdonosa | állami=1, önkormányzat=2, vállalkozás=3, egyéb=4 |  |
 
@@ -124,7 +124,7 @@
 
 ## az 1. számú melléklethez
 
-## A hulladékkezelési nyilvántartó lapot évente kell kitölteni, és a tárgyévet követő január 10-éig a területileg illetékes ÁNTSZ intézetnek kell megküldeni. A nyilvántartó lapot minden egyes telephelyről, rendelőről külön kell kitölteni.
+## A hulladékkezelési nyilvántartó lapot évente kell kitölteni, és a tárgyévet követő január 10-éig az illetékes kistérségi népegészségügyi intézetnek kell megküldeni. A nyilvántartó lapot minden egyes telephelyről, rendelőről külön kell kitölteni.
 
 ## 1. Általános adatok
 
