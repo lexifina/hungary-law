@@ -6,7 +6,7 @@ b) az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának f) pontj
 
 c) egészségügyi szolgáltatás társadalombiztosítási támogatással történő igénybevételére külön jogszabály szerinti jogosultakra, valamint
 
-d)[^1] az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP) és a regionális egészségbiztosítási pénztárakra (a továbbiakban: REP).
+d)[^1] az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP).
 
 (2) Orvosi rehabilitáció keretében társadalombiztosítási támogatással a következő gyógyászati ellátások vehetők igénybe:
 
@@ -34,4 +34,4 @@ b) 18 éves kor alatti csoportos gyógyúszás, mint egyéb rehabilitációs cé
 
 (3) A (2) bekezdésben szereplő gyógyászati ellátások kódszámait az 1. számú melléklet tartalmazza.
 
-[^1]: Az 1. § (1) bekezdésének d) pontja az 55/2008. (XII. 31.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés d) pontja a 10/2011. (III. 30.) NEFMI rendelet 48. § (1) bekezdésével megállapított szöveg.

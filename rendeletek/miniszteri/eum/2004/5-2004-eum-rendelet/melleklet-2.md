@@ -26,7 +26,7 @@
 
 ## A társadalombiztosítás által támogatott gyógyászati ellátások nyújtásának szakmai követelményei
 
-01.[^16] Gyógyvizes gyógymedence
+01.[^19] Gyógyvizes gyógymedence
 
 A gyógyvizes gyógymedence igénybevétele csak azon szolgáltatóknál lehetséges, ahol több különböző hőfokú medence áll rendelkezésre, és amelyek közül legalább egy indifferens hőmérsékletű (35 Celsius-fok) gyógyvizes kell hogy legyen.
 
@@ -40,7 +40,7 @@ Kádfürdőkezelést csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás 
 
 A kezelési idő pontos betartása érdekében – jól látható helyen – órát kell felszerelni.
 
-03.[^17] Iszappakolás
+03.[^20] Iszappakolás
 
 Iszappakolást csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezhet. Nőbeteget csak nő, férfi beteget csak férfi kezelhet.
 
@@ -72,7 +72,7 @@ Ha a felíró orvos a teljes testfelület iszappakolását rendeli el, úgy ezt 
 
 Orvosi előírás esetén a szív és a fej hűtésének a lehetőségét biztosítani kell.
 
-04.[^18] Súlyfürdő
+04.[^21] Súlyfürdő
 
 Súlyfürdőkezelést csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezhet.
 
@@ -126,7 +126,7 @@ Ellenjavallatok:
 
 Ha a fentiek közül bármelyiket is tapasztalja az orvosi gyógymasszőr, úgy erről a fürdő szakorvosát tájékoztatnia kell, akinek az állásfoglalása a mérvadó a kezelés elvégzéséhez.
 
-07.[^19] Víz alatti vízsugármasszázs
+07.[^22] Víz alatti vízsugármasszázs
 
 A víz alatti vízsugármasszázst fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezheti.
 
@@ -146,7 +146,7 @@ A medence vízmélysége minimálisan 120 cm kell hogy legyen.
 
 A medence belső oldalán a vízszint felett kapaszkodó korlátokat kell felszerelni.
 
-09.[^20] Komplex fürdőgyógyászati ellátás
+09.[^23] Komplex fürdőgyógyászati ellátás
 
 Komplex fürdőgyógyászati ellátást társadalombiztosítási támogatással csak olyan gyógyfürdő szolgálhat ki, amely rendelkezik gyógyvizes gyógymedencével, valamint a reumatológus, fizioterápiás, rehabilitációs vagy fizikális medicina és rehabilitációs orvoslás szakvizsgával rendelkező szakorvos által végzett ellátást folyamatosan, de legalább napi hat órában biztosítja.
 
@@ -162,7 +162,7 @@ Amennyiben a napi kezelési ciklus alatt olyan heveny megbetegedés lép fel, am
 
 A beteg keresőképtelen állományba vétele – a kúra időtartamára – az erre vonatkozó hatályos jogszabályok alapján történik.
 
-10.[^21] 18 éves kor alatti csoportos gyógyúszás
+10.[^24] 18 éves kor alatti csoportos gyógyúszás
 
 A csoportos gyógyúszás foglalkozást vezető szakember:
 
@@ -206,9 +206,9 @@ Középhaladó és haladó gyógyúszó gyermekek oktatásához és gyakorlásá
 
 A gyógyúszás foglalkozás teljes ideje alatt a foglalkozást vezető szakembernek a medencetérben kell tartózkodnia.
 
-[^16]: A 2. számú melléklet 01. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^17]: A 2. számú melléklet 03. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^18]: A 2. számú melléklet 04. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^19]: A 2. számú melléklet 07. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^20]: A 2. számú melléklet 09. pontjának első mondata a 27/2005. (VII. 18.) EüM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 6. §-ának (1) bekezdése alapján a 2005. augusztus 17. napját követő második hónap végétől komplex fürdőgyógyászati ellátást társadalombiztosítási támogatással csak az e rendeletben foglaltaknak is megfelelő egészségügyi szolgáltató nyújthat.
-[^21]: A 2. számú melléklet 10. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-ának (2) bekezdése, valamint (3) bekezdésének b) pontja szerint módosított szöveg.
+[^19]: A 2. számú melléklet 01. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^20]: A 2. számú melléklet 03. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^21]: A 2. számú melléklet 04. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^22]: A 2. számú melléklet 07. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^23]: A 2. számú melléklet 09. pontjának első mondata a 27/2005. (VII. 18.) EüM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 6. §-ának (1) bekezdése alapján a 2005. augusztus 17. napját követő második hónap végétől komplex fürdőgyógyászati ellátást társadalombiztosítási támogatással csak az e rendeletben foglaltaknak is megfelelő egészségügyi szolgáltató nyújthat.
+[^24]: A 2. számú melléklet 10. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-ának (2) bekezdése, valamint (3) bekezdésének b) pontja szerint módosított szöveg.
