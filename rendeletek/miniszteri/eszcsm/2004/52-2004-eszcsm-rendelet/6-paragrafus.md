@@ -1,6 +1,6 @@
 6. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2)–(4)[^1]
+(2)–(4)[^3]
 
 (5) Ez a rendelet a 93/42/EGK tanácsi irányelvben az állati eredetű szövet felhasználásával gyártott orvostechnikai eszközökre vonatkozóan előírt követelmények tekintetében részletes előírások megállapításáról szóló, 2003. április 23-i 2003/32/EK bizottsági irányelvnek való megfelelést szolgálja.
 
@@ -46,7 +46,7 @@ Az egyes fertőző szivacsos agyvelőbántalmak megelőzésére, az ellenük val
 
 | IV. | Magas számban igazolt |
 
-Egyes tényezők befolyásolják a BSE-fertőzés meghatározott országból származó nyers szövet vagy szövetszármazék felhasználásával összefüggő földrajzi kockázatát. E tényezők meghatározását lásd az OIE (Nemzetközi Állatjárványügyi Hivatal) által kiadott Nemzetközi Állategészségügyi Kódexben[^2] (2.3.13.2. cikk 1. pontja). A Tudományos Operatív Bizottság értékelte számos harmadik ország és a tagállamok földrajzi hely szerinti BSE-kockázati mutatóját (GBR) és az OIE által meghatározott fő tényezők figyelembevételével további értékelést végez valamennyi olyan ország tekintetében, amely kérte BSE-státus szerinti besorolását.
+Egyes tényezők befolyásolják a BSE-fertőzés meghatározott országból származó nyers szövet vagy szövetszármazék felhasználásával összefüggő földrajzi kockázatát. E tényezők meghatározását lásd az OIE (Nemzetközi Állatjárványügyi Hivatal) által kiadott Nemzetközi Állategészségügyi Kódexben[^4] (2.3.13.2. cikk 1. pontja). A Tudományos Operatív Bizottság értékelte számos harmadik ország és a tagállamok földrajzi hely szerinti BSE-kockázati mutatóját (GBR) és az OIE által meghatározott fő tényezők figyelembevételével további értékelést végez valamennyi olyan ország tekintetében, amely kérte BSE-státus szerinti besorolását.
 
 1.2.3. A kiinduló szövet természete
 
@@ -138,5 +138,5 @@ Az R. 9. számú mellékletének 4.5. pontjában foglalt 17. szabálya alapján 
 
 A forrásanyag beszerzésének, begyűjtésének és kezelésének, valamint az átvihető kórokozók inaktiválásának, illetve kiküszöbölésének folyamatával kapcsolatosan bekövetkező olyan változásokat, amelyek módosíthatják a gyártó kockázatkezelési dokumentációját, végrehajtásuk előtt el kell juttatni a kijelölt szervezethez kiegészítő jóváhagyás céljából.
 
-[^1]: A 6. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 26. pontja hatályon kívül helyezte.
-[^2]: www.oie.int/eng/normes/Mcode/A_00067.htm
+[^3]: A 6. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 26. pontja hatályon kívül helyezte.
+[^4]: www.oie.int/eng/normes/Mcode/A_00067.htm
