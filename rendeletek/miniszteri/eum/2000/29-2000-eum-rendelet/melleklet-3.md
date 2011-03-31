@@ -62,7 +62,7 @@ Mindkét változat tartalmazza:
 
 Kapcsolódó terv: gépkocsival történő kiértesítéskor, beszállításkor a Szállítási terv.
 
-II. Kitelepítési terv
+II. Kitelepítési terv[^10]
 
 A terv célja az egészségügyi intézmény veszélyeztetettsége esetén – megfelelő időtartamú felkészülést követően – a biztonságos helyre való áttelepítés, a személyzet, az ellátottak és a felszerelések, készletek megóvása érdekében.
 
@@ -80,7 +80,7 @@ A terv tartalmazza:
 
 – a nem feltétlen kórházi kezelésre és átszállításra szoruló azon betegek elbocsátását, akik hazatérése lehetséges,
 
-– az életmentő esetek kivételével a betegfelvételi zárlat elrendelését, és erről a mentőszolgálat és az illetékes ÁNTSZ értesítését,
+– az életmentő esetek kivételével a betegfelvételi zárlat elrendelését, és erről a mentőszolgálat és a fővárosi és megyei kormányhivatal illetékes népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) értesítését,
 
 – a betegek és a személyzet átszállításának sorrendjét és eszközeit,
 
@@ -156,9 +156,9 @@ A ,,B'' terv tartalmazza:
 
 Kapcsolódó tervek: Riasztási berendelési terv, Élelmezési terv.
 
-V. OSH telepítési terv
+V. OSH telepítési terv[^11]
 
-A tervet csak az ÁNTSZ megyei (fővárosi) intézete által az Orvosi Segélyhely(ek) (a továbbiakban: OSH) telepítésére kijelölt egészségügyi szolgáltatók készítik.
+A tervet csak a megyei népegészségügyi szakigazgatási szerv által az Orvosi Segélyhely(ek) (a továbbiakban: OSH) telepítésére kijelölt egészségügyi szolgáltatók készítik.
 
 A terv tartalmazza:
 
@@ -186,9 +186,9 @@ A terv tartalmazza:
 
 Kapcsolódó tervek: Riasztási berendelési terv, Szállítási terv, Élelmezési terv, Egészségügyi anyagbiztosítási terv.
 
-VI. Szükségkórház telepítési terv
+VI. Szükségkórház telepítési terv[^12]
 
-A tervet csak az ÁNTSZ megyei (fővárosi) intézetei által a szükségkórház telepítésére kijelölt kórházak készítik.
+A tervet csak a megyei népegészségügyi szakigazgatási szervek által a szükségkórház telepítésére kijelölt kórházak készítik.
 
 A terv tartalmazza:
 
@@ -220,11 +220,11 @@ A terv tartalmazza:
 
 Kapcsolódó terv: Szállítási terv, Egészségügyi anyagbiztosítási terv, Élelmezési terv, Többletfeladatok ellátásának terve.
 
-VII. Többletfeladatok ellátásának terve béke- és minősített időszak idején
+VII. Többletfeladatok ellátásának terve béke- és minősített időszak idején[^13]
 
 A tervet 1–3 napra, 4–14 napra és 15 napon túli időszakra kell elkészíteni.
 
-A katasztrófa következtében tömegesen jelentkező sérültek (mérgezettek, sugársérültek, járvány esetén fertőző betegek) ellátását minden, akut ellátást végző intézetnek terveznie kell. Az ÁNTSZ általi külön kijelölés hiányában a szakmai átprofilírozásra való felkészülés során figyelembe kell venni a régióban lévő ismert jelentősebb veszélyforrásokat is.
+A katasztrófa következtében tömegesen jelentkező sérültek (mérgezettek, sugársérültek, járvány esetén fertőző betegek) ellátását minden, akut ellátást végző intézetnek terveznie kell. A megyei népegészségügyi szakigazgatási szerv általi külön kijelölés hiányában a szakmai átprofilírozásra való felkészülés során figyelembe kell venni a régióban lévő ismert jelentősebb veszélyforrásokat is.
 
 A terv tartalmazza:
 
@@ -256,7 +256,7 @@ A terv tartalmazza:
 
 – a lehetőleg azonos szakmai színvonalú váltó csoportok kialakítását;
 
-– a betegfelvétel korlátozását (ÁNTSZ rendelkezés esetén);
+– a betegfelvétel korlátozását (a megyei népegészségügyi szakigazgatási szerv rendelkezése esetén);
 
 – a betegfelvétel rendjének módosítását a belső betegáramlás szabályozását;
 
@@ -274,7 +274,7 @@ A fentieken kívül a rendkívüli állapotra vonatkozóan az alábbiakra kell k
 
 Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Szállítási terv.
 
-VIII. Az intézményben keletkezett károk, illetve a működést akadályozó körülmények között az ellátás fenntartásának terve
+VIII. Az intézményben keletkezett károk, illetve a működést akadályozó körülmények között az ellátás fenntartásának terve[^14]
 
 A tervet fekvőbeteg-ellátó intézetek készítik. A károsító, akadályozó körülmény sokféle lehet (pl. a dolgozók nem tudnak eljutni munkahelyükre, akadozik a gyógyszer-, az élelmiszer-ellátás, természeti erő vagy fegyveres támadás rombolódást okoz, ipari baleset vagy egyéb okból történő vegyi anyag általi veszélyeztetettség, nukleáris veszélyhelyzet, közműszolgáltatások szünetelése stb.).
 
@@ -286,7 +286,7 @@ A terv tartalmazza:
 
 – a rendelkezésre álló munkavégzésre alkalmas dolgozók átcsoportosítását,
 
-– egyes, az adott helyzetben nélkülözhető szakmai profilok szüneteltetését és erről az ÁNTSZ tájékoztatását,
+– egyes, az adott helyzetben nélkülözhető szakmai profilok szüneteltetését és erről a megyei népegészségügyi szakigazgatási szerv tájékoztatását,
 
 – áramkimaradás esetére tartalék áramforrás biztosítását, karbantartását, a hozzá való hajtóanyag készletben tartását, az azonnali működtetés személyi feltételeit,
 
@@ -294,7 +294,7 @@ A terv tartalmazza:
 
 Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Kommunikációs terv.
 
-IX. Egészségügyi anyagbiztosítási terv
+IX. Egészségügyi anyagbiztosítási terv[^15]
 
 A tervet 1–3 napra, 4–14 napra és 15 napon túli időszakra kell elkészíteni.
 
@@ -302,7 +302,7 @@ A terv tartalmazza:
 
 – vér és vérpótlószerek biztosítását, infúziós oldatok előállítását, az intézeti gyógyszertár feladatait,
 
-– szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartalék ÁNTSZ megyei intézeténél rendelkezésre álló gyógyszernormájának figyelembevételével,
+– szűkített választékú gyógyszerkészlet használatának bevezetését az Állami Egészségügyi Tartalék a megyei népegészségügyi szakigazgatási szervnél rendelkezésre álló gyógyszernormájának figyelembevételével,
 
 – gyógyszerek, kötszerek és a folyamatos működéshez szükséges egyéb anyagok beszerzését,
 
@@ -364,7 +364,7 @@ A terv tartalmazza:
 
 – ivóvíz beszállíttatásáról való gondoskodást a felelős megjelölésével.
 
-XII. Kommunikációs terv
+XII. Kommunikációs terv[^16]
 
 A terv tartalmazza:
 
@@ -382,8 +382,16 @@ A terv tartalmazza:
 
 – a dolgozók, odavezényeltek és önkéntes segítők folyamatos tájékoztatásának módját a kialakult helyzetről és a várható feladatokról;
 
-– az ÁNTSZ intézettel, a mentőszolgálattal, a katasztrófavédelem területi és helyi szerveivel, a terület, régió társintézeteivel és a médiával való kapcsolattartás felelősét;
+– a megyei népegészségügyi szakigazgatási szervvel, a mentőszolgálattal, a katasztrófavédelem területi és helyi szerveivel, a terület, régió társintézeteivel és a médiával való kapcsolattartás felelősét;
 
 – egyszerűsített dokumentáció és betegnyilvántartás kidolgozását;
 
 – a hozzátartozók tájékoztatásának módját és felelősét a betegek felvételéről áthelyezéséről, elhalálozásáról.
+
+[^10]: A 3. számú melléklet II. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 3. számú melléklet V. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. számú melléklet VI. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 3. számú melléklet VII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. számú melléklet VIII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 3. számú melléklet IX. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 3. számú melléklet XII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
