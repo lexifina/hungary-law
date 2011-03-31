@@ -20,7 +20,7 @@ dd) vegyi eredetű, így különösen elemek, természetes körülmények közö
 
 e) gyógyszerforma: a gyógyszer meghatározott alkalmazási módjának, az adagolási egységnek megfelelő kialakítása;
 
-f)[^1] támogatott gyógyszer: az a forgalomba hozatali engedéllyel rendelkező gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) a társadalombiztosítási támogatással forgalmazható gyógyszerek körébe befogadott;
+f)[^1] támogatott gyógyszer: az a forgalomba hozatali engedéllyel rendelkező gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a társadalombiztosítási támogatással forgalmazható gyógyszerek körébe befogadott;
 
 g) forgalomba hozatali engedély: az emberi alkalmazásra kerülő gyógyszerekről és egyéb a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 5. §-ának (1) bekezdése szerinti hatósági határozat;
 
@@ -46,4 +46,4 @@ kbd) ritka anyagcsere-betegségek gyógyítására szolgáló tápszer esetén: 
 
 l) ATC (Anatomic, Therapeutic, Chemical Classification): a gyógyszerek anatómiai, terápiás, illetve kémiai hatás szerinti osztályozása.
 
-[^1]: Az 1. § (2) bekezdésének f) pontja az 55/2008. (XII. 31.) EüM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdés f) pontja a 10/2011. (III. 30.) NEFMI rendelet 57. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. § (1)[^2] A regionális egészségbiztosítási pénztár (a továbbiakban: REP) az egyes pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Kr.) 37. §-a szerinti szakhatósági állásfoglalását – a havi rendszeres gyógyító ellátás térítési díjáról – az egészségügyi miniszter által elfogadott és hivatalosan közzétett terápiás eljárásrendekben, illetve szakmai irányelvekben az adott betegség kezelésére meghatározott hatóanyag(ok) figyelembevételével alakítja ki.
+2. § (1)[^2] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerve (a továbbiakban: egészségbiztosítási szakigazgatási szerv) az egyes pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Kr.) 37. §-a szerinti szakhatósági állásfoglalását – a havi rendszeres gyógyító ellátás térítési díjáról – az egészségügyi miniszter által elfogadott és hivatalosan közzétett terápiás eljárásrendekben, illetve szakmai irányelvekben az adott betegség kezelésére meghatározott hatóanyag(ok) figyelembevételével alakítja ki.
 
 (2) Amennyiben a Kr. 10. számú melléklete szerinti formanyomtatványon (a továbbiakban: igazolás) megjelölt betegség kezelése tekintetében nincs nyilvánosan közzétett és elfogadott, az (1) bekezdés szerinti terápiás eljárási rend, illetve szakmai irányelv, az Szt. 50/A. §-a (7) bekezdése szerinti gyógyszerköltség (a továbbiakban: gyógyszerköltség) meghatározásánál, az igazoláson feltüntetett hatóanyagot kell alapul venni.
 
@@ -10,4 +10,4 @@
 
 (6) Amennyiben a háziorvos által az igazoláson jelzettek alapján megállapítást nyer, hogy a kérelmező csak egy meghatározott gyógyszerrel kezelhető, a gyógyszerköltség meghatározásánál az igazoláson feltüntetett gyógyszer térítési díját kell a gyógyszerköltség meghatározásánál figyelembe venni.
 
-[^2]: A 2. § (1) bekezdése az 55/2008. (XII. 31.) EüM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 57. § b) pontja szerint módosított szöveg.

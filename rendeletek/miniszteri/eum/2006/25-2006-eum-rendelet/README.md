@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-25-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2006-25-20-0B.6 | 25/2006. (VI. 26.) EüM rendelet |
+| 2011-03-31 | 2006-25-20-0B.7 | 10/2011. (III. 30.) NEFMI rendelet |
