@@ -70,4 +70,4 @@
 
 7. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^23]
 
-[^23]: A 7. számú melléklet a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (6) bekezdésével megállapított szöveg, e módosító rendelet 4. § (2) bekezdése alapján első alkalommal a szakképesítésük megszerzését 2004. január 1-je után megkezdők esetében kell alkalmazni.
+[^23]: A 7. számú melléklet a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (6) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 12. §-a szerint módosított szöveg.

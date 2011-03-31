@@ -168,7 +168,7 @@
 
 |  |  | szabadon választható tanfolyam |
 
-|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, egyetemi közegészségtani intézetben, közegészségügyi (népegészségügyi) laboratóriumban, klinikai diagnosztikai laboratóriumban vagy ÁNTSZ megfelelő egységében töltendő el. |
+|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, egyetemi közegészségtani intézetben, közegészségügyi (népegészségügyi) laboratóriumban, klinikai diagnosztikai laboratóriumban vagy egészségügyi államigazgatási szerv megfelelő egységében töltendő el. |
 
 | 6. Farmakognózia és fitoterápia | 36 hónap | 24 hónap törzsképzési program, ezen belül: |
 
@@ -256,7 +256,7 @@
 
 |  |  | szabadon választható tanfolyam |
 
-|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, mely egyetemi gyógyszerügyi szervezési intézetben, közforgalmú gyógyszertárban vagy gyógyszernagykereskedelmi vállalatnál vagy ÁNTSZ megfelelő egységében töltendő el. |
+|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, mely egyetemi gyógyszerügyi szervezési intézetben, közforgalmú gyógyszertárban vagy gyógyszernagykereskedelmi vállalatnál vagy egészségügyi államigazgatási szerv megfelelő egységében töltendő el. |
 
 | 9. Gyógyszerügyi szervezés és igazgatás | 36 hónap | 24 hónap törzsképzési program, ezen belül: |
 
@@ -288,7 +288,7 @@
 
 |  |  | szabadon választható tanfolyam |
 
-|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, mely egyetemi gyógyszerügyi szervezési intézetben, gyógyszerügy vezető intézményeiben vagy ÁNTSZ megfelelő egységében töltendő el. |
+|  |  | * az elméleti képzés mellett folyamatos kötelező gyakorlat, mely egyetemi gyógyszerügyi szervezési intézetben, gyógyszerügy vezető intézményeiben vagy egészségügyi államigazgatási szerv megfelelő egységében töltendő el. |
 
 | 10. Radiogyógyszerészet | 36 hónap | 24 hónap törzsképzési program, ezen belül: |
 

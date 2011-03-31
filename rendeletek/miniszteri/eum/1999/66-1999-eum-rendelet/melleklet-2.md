@@ -170,4 +170,4 @@
 
 2. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^19]
 
-[^19]: A 2. számú melléklet a 10/2010. (IX. 23.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^19]: A 2. számú melléklet a 10/2010. (IX. 23.) NEFMI rendelet 2. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 12. §-a szerint módosított szöveg.
