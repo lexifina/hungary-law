@@ -18,4 +18,6 @@ h) a különböző vízbevezetési helyekről származó vizek keverési arány�
 
 i) az üzemelés alatti rendkívüli eseményeket,
 
-j) a városi intézet, illetve az ÁNTSZ megyei (fővárosi) intézete (a továbbiakban: megyei intézet) által foganatosított ellenőrzések időpontját és észrevételeit.
+j)[^6] a kistérségi népegészségügyi intézet, illetve a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) által foganatosított ellenőrzések időpontját és észrevételeit.
+
+[^6]: A 2. § j) pontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.

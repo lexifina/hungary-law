@@ -10,7 +10,7 @@
 
 ## 4. A fürdőzőt ért bármilyen baleset vagy rosszullét esetén ügyeletes orvost vagy elsősegélynyújtásban kiképzett fürdőalkalmazottat kell hívni. A balesetekről és a rosszullétekről naplót kell vezetni. Súlyosabb sérülés vagy rosszullét esetén azonnal orvost vagy mentőt kell hívni.
 
-## 5. A fürdési célokat szolgáló valamennyi helyiséget üzemzárás után naponta az ÁNTSZ által nyilvántartásba vett fertőtlenítőszeres oldattal (a továbbiakban: fertőtlenítőszeres oldat) kell kitakarítani.
+## 5.[^43] A fürdési célokat szolgáló valamennyi helyiséget üzemzárás után naponta a megyei népegészségügyi szakigazgatási szerv vagy az Országos Tisztifőorvosi Hivatal által nyilvántartásba vett fertőtlenítőszeres oldattal (a továbbiakban: fertőtlenítőszeres oldat) kell kitakarítani.
 
 ## 6. A fürdők területén a befogadóképességnek megfelelő számú szemétgyűjtő tartályt kell elhelyezni.
 
@@ -40,7 +40,7 @@
 
 ## 4. A fürdőmedencébe szennyezett testtel belépni nem szabad. Az erre vonatkozó figyelmeztető táblákat, valamint a víz és a levegő hőmérsékletét jelző feliratot jól látható helyen kell elhelyezni.
 
-4. számú melléklet a 37/1996. (X. 18.) NM rendelethez[^35]
+4. számú melléklet a 37/1996. (X. 18.) NM rendelethez[^44]
 
 A fürdővíz vizsgálatok gyakorisága
 
@@ -84,7 +84,7 @@ A fürdővíz vizsgálatok gyakorisága
 
 | A: idényben (június 1–augusztus 31.) kéthetente és idény előtt, illetve idény után egy-egy alkalommal. Amennyiben az előző szezon során a coliform-szám, E. coli- (vagy fekál coliform-) szám és fekális Enterococcus szám legalább a minták 80%-ában megfelelő volt, és minden minta legalább tűrhető minősítést kapott ezen paraméterek tekintetében, a vizsgálati gyakoriság a felére csökkenthető. Ha az aktuális szezonban vett minták alapján az előbb felsorolt paraméterek romlanak, a vizsgálatokat az eredeti gyakoriságnak megfelelően kell folytatni. |
 
-| B: rendkívüli szennyezettség, üzemzavar, járványveszély esetén vagy az ÁNTSZ utasítására. |
+| B: rendkívüli szennyezettség, üzemzavar, járványveszély esetén vagy a kistérségi népegészségügyi intézet utasítására. |
 
 | C: ha az utolsó két vizsgálat során bármelyik bakteriológiai paraméter kifogásolt volt. |
 
@@ -92,7 +92,7 @@ A fürdővíz vizsgálatok gyakorisága
 
 | E: szükség szerint, illetve szennyezés gyanúja esetén. |
 
-| F: általában D szerint, eutróf, illetve eutrofizációra hajlamos állóvizekben viszont legalább havonta egyszer. Az ÁNTSZ ennél nagyobb vizsgálati gyakoriságot is elrendelhet. |
+| F: általában D szerint, eutróf, illetve eutrofizációra hajlamos állóvizekben viszont legalább havonta egyszer. A kistérségi népegészségügyi intézet ennél nagyobb vizsgálati gyakoriságot is elrendelhet. |
 
 | x adagolás esetén |
 
@@ -100,4 +100,5 @@ A fürdővíz vizsgálatok gyakorisága
 
 | Csak idényben működő fürdőknél a havonta+ azt jelenti, hogy az idény elején és azt követően még kétszer, a kéthavonta++ azt, hogy összesen kétszer végzendő. |
 
-[^35]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja szerint módosított szöveg.
+[^43]: A 3. számú melléklet Általános rendelkezések 5. pontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^44]: A 4. számú melléklet a Magyar Közlöny 1996. évi 111. számában megjelent helyesbítésnek megfelelő és a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bj) pontja, a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

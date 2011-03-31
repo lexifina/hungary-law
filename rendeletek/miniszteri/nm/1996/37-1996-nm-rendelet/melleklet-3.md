@@ -4,7 +4,7 @@
 
 ## 1. Medencés közfürdőben előfürdés céljára hideg-meleg vizes zuhanyozókat kell létesíteni. A zuhanyozók legkisebb száma úgy határozandó meg, hogy a legnagyobb egyidejű benntartózkodó létszámra számolva 50 fő/1 db zuhany legyen, de nemenként 5 zuhanyozónál kevesebb nem engedhető meg. A 200 főnél kisebb befogadóképességű, egyidejűleg egyenletesen terhelt közfürdő esetén nemenként 5 zuhanyozónál kevesebb is lehet, de nemenként legalább 2 zuhanyozó működtetése szükséges. E szabály azonban nem alkalmazható a kis befogadóképességű, egyenlőtlenül terhelt közfürdő (pl. tanuszoda) esetén. 1000 főnél nagyobb befogadóképesség esetén 75 fő/1 zuhanyra, de legalább 20 db-ra van szükség. Az így meghatározott zuhanyok számába a lábmosókhoz vagy a napozóterületre telepített zuhanyok nem számolandók be.
 
-## 2.[^16] Minden közfürdőnél a megengedett egyidejű legnagyobb fürdővendégszámnak megfelelő, az Országos Építésügyi Szabályzat szerinti, nemenként elkülönített illemhelyet kell létesíteni, amely a fürdőmedencétől, illetve a fürdésre használt víz partvonalától nem lehet 200 m-nél távolabb.
+## 2.[^22] Minden közfürdőnél a megengedett egyidejű legnagyobb fürdővendégszámnak megfelelő, az Országos Építésügyi Szabályzat szerinti, nemenként elkülönített illemhelyet kell létesíteni, amely a fürdőmedencétől, illetve a fürdésre használt víz partvonalától nem lehet 200 m-nél távolabb.
 
 ## 3. Közfürdő kommunális szennyvizét – beleértve a kádfürdő és előfürdő (zuhanyozó) szennyvizét is – szennyvízként kell elvezetni. A medence vize csapadékvízként vezethető el. A visszaforgató öblítő vize szennyvízcsatornába vezetendő. Amennyiben ez nem valósítható meg, úgy a befogadóra vonatkozó előírások betartásával – szükség esetén előtisztítás után – csapadékvízként elvezethető.
 
@@ -20,25 +20,25 @@
 
 ## 1. A közfürdő üzemeltetője gondoskodik arról, hogy a közös víztér ne váljon fertőzés terjesztőjévé, a víz sem mikrobiológiai szennyezettsége, sem kémiai összetétele révén ne okozzon egészségkárosodást. A víz nem tartalmazhat bőrt, nyálkahártyát irritáló vagy mérgező anyagokat, továbbá esztétikai szempontból nem lehet kifogásolható.
 
-## 2.[^17] A mesterséges közfürdő vize minőségének – bakteriológiai szempontból történő – biztosítását az MSZ 13690–3 számú szabvány előírásai szerint, vagy azzal legalább egyenértékű megoldásnak megfelelően kell végezni.
+## 2.[^23] A mesterséges közfürdő vize minőségének – bakteriológiai szempontból történő – biztosítását az MSZ 13690–3 számú szabvány előírásai szerint, vagy azzal legalább egyenértékű megoldásnak megfelelően kell végezni.
 
-## 3.[^18] A mesterséges közfürdő tápvizének (pótvizének) minőségére az MSZ 13690–3 számú szabvány előírásai, vagy azzal legalább egyenértékű megoldás az irányadó. Mérgező anyagok, továbbá a szennyezésjelző kémiai komponensek szempontjából a víznek ivóvízminőségűnek kell lennie, melyre külön jogszabály rendelkezései az irányadók. Szennyezésjelző kémiai komponensek felszíni vízből nyert víz és nem védett felszín alatti víz esetén a következők: KOlps, klorid, ammónium, nitrit, nitrát, kénhidrogén. A többi paraméter esetén ettől el lehet térni, de az eltérés az 1. alpontban foglalt követelmények betartását és a fürdő üzemeltetését nem zavarhatja.
+## 3.[^24] A mesterséges közfürdő tápvizének (pótvizének) minőségére az MSZ 13690–3 számú szabvány előírásai, vagy azzal legalább egyenértékű megoldás az irányadó. Mérgező anyagok, továbbá a szennyezésjelző kémiai komponensek szempontjából a víznek ivóvízminőségűnek kell lennie, melyre külön jogszabály rendelkezései az irányadók. Szennyezésjelző kémiai komponensek felszíni vízből nyert víz és nem védett felszín alatti víz esetén a következők: KOlps, klorid, ammónium, nitrit, nitrát, kénhidrogén. A többi paraméter esetén ettől el lehet térni, de az eltérés az 1. alpontban foglalt követelmények betartását és a fürdő üzemeltetését nem zavarhatja.
 
-## 4.[^19] Amennyiben a közfürdő létesítője a 2., 3. alpontban foglalt hatályos nemzeti szabványtól el kíván térni, akkor a közegészségügyi követelményeknek való megfelelőség megállapítását az Országos Tisztifőorvosi Hivataltól kell kérnie. Abban az esetben, amennyiben a kérelmező hitelt érdemlő módon bizonyítja, hogy a közegészségügyi követelményeknek a jogszabályokban foglaltaknak megfelelően eleget tesz, az OTH az eltérést határozattal engedélyezi.
+## 4.[^25] Amennyiben a közfürdő létesítője a 2., 3. alpontban foglalt hatályos nemzeti szabványtól el kíván térni, akkor a közegészségügyi követelményeknek való megfelelőség megállapítását az Országos Tisztifőorvosi Hivataltól kell kérnie. Abban az esetben, amennyiben a kérelmező hitelt érdemlő módon bizonyítja, hogy a közegészségügyi követelményeknek a jogszabályokban foglaltaknak megfelelően eleget tesz, az OTH az eltérést határozattal engedélyezi.
 
-## 5. A visszaforgató rendszerű medence pótvizére hagyományos technológia esetén az ME–10–204 számú műszaki előírások, a hagyományostól eltérő technológi esetén az 1–2. alpontokban foglalt előírások vonatkoznak. Vitás esetben az ÁNTSZ megyei (fővárosi) intézetének állásfoglalása irányadó.
+## 5.[^26] A visszaforgató rendszerű medence pótvizére hagyományos technológia esetén az ME–10–204 számú műszaki előírások, a hagyományostól eltérő technológi esetén az 1–2. alpontokban foglalt előírások vonatkoznak. Vitás esetben a megyei népegészségügyi szakigazgatási szerv állásfoglalása irányadó.
 
 ## 6. Ha a mesterséges közfürdő táplálására bányavíz vagy ipari hulladékvíz szolgál, a víz minőségére a 3–5. alpontokban foglalt előírások vonatkoznak, azzal, hogy a vizet szükség szerint tisztítani és fertőtleníteni kell. Ha ipari hulladék- vagy kútvíz szolgál a táplálásra, a víz előzetes fertőtlenítése mellőzhető, amennyiben a vizet szolgáltató kút védőterülete a III. pontban előírtaknak és a víz minősége az 1–2. és 4–5. alpontokban foglaltaknak kezelés nélkül megfelel, továbbá a víz a kútból vagy vízvezetéki csatlakozástól a fürdőig zárt rendszerben halad.
 
-## III.[^20]
+## III.[^27]
 
 ## IV. Mesterséges közfürdő vízhasználata
 
-## 1.[^21] Mesterséges közfürdő esetén a vízbe jutó szennyező (fertőző) anyagok eltávolítása céljából a víz be- és kivezetését úgy kell hidraulikai szempontból kialakítani, hogy a medence minden pontján folyamatos és egyenletes vízmozgást eredményezzen. E követelmény teljesítésének ellenőrzése során az MSZ–10–533 számú szabványban foglaltak, vagy azzal legalább egyenértékű megoldás szerint kell eljárni.
+## 1.[^28] Mesterséges közfürdő esetén a vízbe jutó szennyező (fertőző) anyagok eltávolítása céljából a víz be- és kivezetését úgy kell hidraulikai szempontból kialakítani, hogy a medence minden pontján folyamatos és egyenletes vízmozgást eredményezzen. E követelmény teljesítésének ellenőrzése során az MSZ–10–533 számú szabványban foglaltak, vagy azzal legalább egyenértékű megoldás szerint kell eljárni.
 
-## 2.[^22] Amennyiben a közfürdő létesítője a vízhasználat ellenőrzése során az 1. alpontban foglalt nemzeti szabványtól el kíván térni, akkor a közegészségügyi követelményeknek való megfelelőség megállapítását az Országos Tisztifőorvosi Hivataltól (a továbbiakban: OTH) kell kérnie. Abban az esetben, amennyiben a kérelmező hitelt érdemlő módon bizonyítja, hogy a közegészségügyi követelményeknek a jogszabályokban foglaltaknak megfelelően eleget tesz, az OTH az eltérést határozattal engedélyezi.
+## 2.[^29] Amennyiben a közfürdő létesítője a vízhasználat ellenőrzése során az 1. alpontban foglalt nemzeti szabványtól el kíván térni, akkor a közegészségügyi követelményeknek való megfelelőség megállapítását az Országos Tisztifőorvosi Hivataltól (a továbbiakban: OTH) kell kérnie. Abban az esetben, amennyiben a kérelmező hitelt érdemlő módon bizonyítja, hogy a közegészségügyi követelményeknek a jogszabályokban foglaltaknak megfelelően eleget tesz, az OTH az eltérést határozattal engedélyezi.
 
-## 3.[^23] A mesterséges fürdők medencevizeinek és a medencék töltő-, illetve pótvizeinek kémiai minőségének elbírálásánál általában a külön jogszabályban szereplő határértékek betartását kell megkövetelni. Kivételt képez a folyamatosan tisztított-fertőtlenített vizű forgatásos medencék töltő- és pótvize, melyeknél egyes komponensekre külön határértékek megállapítása szükséges [A) táblázat], valamint a töltő-ürítő vagy forgatott vizű medencék töltésére használt elismert gyógy- és ásványvizek és az egyszerű termális vizek, melyekre a B) táblázat határértékei az irányadók.
+## 3.[^30] A mesterséges fürdők medencevizeinek és a medencék töltő-, illetve pótvizeinek kémiai minőségének elbírálásánál általában a külön jogszabályban szereplő határértékek betartását kell megkövetelni. Kivételt képez a folyamatosan tisztított-fertőtlenített vizű forgatásos medencék töltő- és pótvize, melyeknél egyes komponensekre külön határértékek megállapítása szükséges [A) táblázat], valamint a töltő-ürítő vagy forgatott vizű medencék töltésére használt elismert gyógy- és ásványvizek és az egyszerű termális vizek, melyekre a B) táblázat határértékei az irányadók.
 
 ## A) A vízkezeléssel és fertőtlenítéssel kapcsolatban elbírált összetevők
 
@@ -146,35 +146,35 @@
 
 ## (b) Kivéve az ún. ,,vasas gyógyvizeknél”, ahol egyedi elbírálás lehetséges.
 
-## 4.[^24] A medencébe folyamatosan bevezetett víz mennyisége a terheléssel arányos lehet, de a megengedett legnagyobb terhelés 30%-ánál kisebb terhelésekor sem lehet kisebb
+## 4.[^31] A medencébe folyamatosan bevezetett víz mennyisége a terheléssel arányos lehet, de a megengedett legnagyobb terhelés 30%-ánál kisebb terhelésekor sem lehet kisebb
 
 ## – vízforgató rendszer esetén a vízfelületből számított legnagyobb terheléshez tartozó érték 50%-ánál,
 
 ## – töltő-ürítő rendszer esetén a vízfelületből számított maximális terheléshez tartozó érték 30%-ánál.
 
-## 5.[^25] Csak az üzemi vízszintig feltöltött és folyamatos túlfolyással működő medencét szabad használni.
+## 5.[^32] Csak az üzemi vízszintig feltöltött és folyamatos túlfolyással működő medencét szabad használni.
 
-## 6.[^26] Vízforgatásos rendszer esetén a medencén átáramló víznek olyan fertőtlenítőszer-szintet kell tartalmaznia, amely biztosítja, hogy hatására – a medence bármely pontján – a coliformszám 1 perc alatt legalább két nagyságrenddel (99%-kal) csökken.
+## 6.[^33] Vízforgatásos rendszer esetén a medencén átáramló víznek olyan fertőtlenítőszer-szintet kell tartalmaznia, amely biztosítja, hogy hatására – a medence bármely pontján – a coliformszám 1 perc alatt legalább két nagyságrenddel (99%-kal) csökken.
 
-## 7.[^27] A töltő-ürítő rendszerű medencék esetén csak akkor adagolható fertőtlenítőszer, ha
+## 7.[^34] A töltő-ürítő rendszerű medencék esetén csak akkor adagolható fertőtlenítőszer, ha
 
 ## – a medence hidraulikai kialakítása megfelel az 1. pontban foglaltaknak, és
 
 ## – gyógymedence esetén a medence töltésére használt elismert ásványvíz, gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a fertőtlenítés nem károsítja, továbbá
 
-## – a fertőtlenítéshez az ÁNTSZ megyei (fővárosi) intézete hozzájárult.
+## – a fertőtlenítéshez a megyei népegészségügyi szakigazgatási szerv hozzájárult.
 
 ## A víz összetételét meg nem változtató, fertőtlenítés célját szolgáló beavatkozás (pl. UV-besugárzás) megengedett.
 
-## 8.[^28] A vízforgató berendezéssel üzemelő medencében évente legalább kétszer kell teljes vízcserét végrehajtani.
+## 8.[^35] A vízforgató berendezéssel üzemelő medencében évente legalább kétszer kell teljes vízcserét végrehajtani.
 
-## 9.[^29] A vízforgató berendezéssel üzemelő medence soron kívüli leeresztése és tisztítása szükséges, ha
+## 9.[^36] A vízforgató berendezéssel üzemelő medence soron kívüli leeresztése és tisztítása szükséges, ha
 
 ## – a medencében lévő víz összetétele a pótvízétől, illetve az ME–10–204 számú műszaki előírástól eltér, kivéve, ha a próbaüzemi eredmények alapján a szabványban előírttól eltérő határértékeket állapítottak meg, és ennek megfelelő az összetétel,
 
 ## – a medence fenekén és/vagy falán szennyezés (iszap, algabevonat) rakódik le, és megfelelő tisztítóberendezés hiánya vagy hibája miatt a tisztítás üzem közben nem oldható meg.
 
-## 10.[^30] Töltő-ürítő medencénél teljes vízcsere szükséges:
+## 10.[^37] Töltő-ürítő medencénél teljes vízcsere szükséges:
 
 ## – 50 m3-nél kisebb gyógy- és gyermekmedencénél, ha a terhelés a névleges terhelés 30%-ánál nagyobb, naponta kétszer, egyébként naponta,
 
@@ -188,15 +188,15 @@
 
 ## töltő-ürítő medence soron kívüli leeresztése, takarítása és fertőtlenítése szükséges, ha rendkívüli szennyezés fordul elő.
 
-## 11.[^31] Vízforgatásos rendszer esetén a rendszerbe naponta a víztérfogat legalább 5%-ának megfelelő friss (pót-) víz vezetendő az ME–10–204 számú műszaki előírásban előírtak szerint, de ez nem lehet kevesebb, mint fürdőzőnként 30 liter.
+## 11.[^38] Vízforgatásos rendszer esetén a rendszerbe naponta a víztérfogat legalább 5%-ának megfelelő friss (pót-) víz vezetendő az ME–10–204 számú műszaki előírásban előírtak szerint, de ez nem lehet kevesebb, mint fürdőzőnként 30 liter.
 
-## 12.[^32] A közfürdőmedence vizébe csak az Országos Tisztifőorvosi Hivatal által engedélyezett vegyszer és fertőtlenítőszer adagolható.
+## 12.[^39] A közfürdőmedence vizébe csak az Országos Tisztifőorvosi Hivatal által engedélyezett vegyszer és fertőtlenítőszer adagolható.
 
-## 13.[^33] A vízforgató nélküli gyermekmedence vizének hőmérséklete 30 °C-nál nem lehet magasabb.
+## 13.[^40] A vízforgató nélküli gyermekmedence vizének hőmérséklete 30 °C-nál nem lehet magasabb.
 
 ## V. A közfürdő terhelése
 
-## 1. A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi igazgatósággal és az ÁNTSZ városi (fővárosi kerületi) intézetével jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
+## 1.[^41] A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi igazgatósággal és a kistérségi népegészségügyi intézettel jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
 
 ## 2. A közfürdő egyidejű legnagyobb terhelése egyenlő a közfürdő területén fürdés céljából egyidejűleg tartózkodó személyek legnagyobb számával. A közfürdő napi terhelése egyenlő a közfürdő területére egy nap alatt – nyitástól zárásig – fürdés céljából belépő személyek számával.
 
@@ -250,7 +250,7 @@
 
 ## VI. Pihenést szolgáló terület
 
-## 1.[^34] A közfürdő pihenést szolgáló beépítetlen területét – gőzfürdő és szauna esetén a pihenőhely – egyidejű legnagyobb terhelésre az alábbiak szerint kell biztosítani egy főre számítva:
+## 1.[^42] A közfürdő pihenést szolgáló beépítetlen területét – gőzfürdő és szauna esetén a pihenőhely – egyidejű legnagyobb terhelésre az alábbiak szerint kell biztosítani egy főre számítva:
 
 ## strandfürdőnél legalább 8 m2
 
@@ -296,22 +296,24 @@
 
 3. számú melléklet a 37/1996. (X. 18.) NM rendelethez
 
-[^16]: Az 1. számú melléklet I. pontjának 2. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének be) pontja szerint módosított szöveg.
-[^17]: Az 1. számú melléklet II. pontjának 2. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 1. számú melléklet II. pontjának 3. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 1. számú melléklet II. pontjának 4. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^20]: Az 1. számú melléklet III. pontját a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bh) pontja hatályon kívül helyezte.
-[^21]: Az 1. számú melléklet IV. pontjának 1. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^22]: Az 1. számú melléklet IV. pontjának új 2. alpontját a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti 2. alpont számozását 4. alpontra változtatva.
-[^23]: Az 1. számú melléklet IV. pontjának új 3. alpontját a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti 3. alpont számozását 5. alpontra változtatva.
-[^24]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 4. alpontra változtatta.
-[^25]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 5. alpontra változtatta.
-[^26]: Az 1. számú melléklet IV. pontjának eredeti 4. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 6. alpontra változtatta.
-[^27]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta.
-[^28]: Az 1. számú melléklet IV. pontjának eredeti 6. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 8. alpontra változtatta.
-[^29]: Az 1. számú melléklet IV. pontjának eredeti 7. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 9. alpontra változtatta.
-[^30]: Az 1. számú melléklet IV. pontjának eredeti 8. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 10. alpontra változtatta.
-[^31]: Az 1. számú melléklet IV. pontjának eredeti 9. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 11. alpontra változtatta.
-[^32]: Az 1. számú melléklet IV. pontjának eredeti 10. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 12. alpontra változtatta.
-[^33]: Az 1. számú melléklet IV. pontjának eredeti 11. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 13. alpontra változtatta.
-[^34]: Az 1. számú melléklet VI. pontjának 1. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bi) pontja szerint módosított szöveg.
+[^22]: Az 1. számú melléklet I. pontjának 2. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének be) pontja szerint módosított szöveg.
+[^23]: Az 1. számú melléklet II. pontjának 2. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 1. számú melléklet II. pontjának 3. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 1. számú melléklet II. pontjának 4. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 1. számú melléklet II. pont 5. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^27]: Az 1. számú melléklet III. pontját a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bh) pontja hatályon kívül helyezte.
+[^28]: Az 1. számú melléklet IV. pontjának 1. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^29]: Az 1. számú melléklet IV. pontjának új 2. alpontját a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti 2. alpont számozását 4. alpontra változtatva.
+[^30]: Az 1. számú melléklet IV. pontjának új 3. alpontját a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti 3. alpont számozását 5. alpontra változtatva.
+[^31]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 4. alpontra változtatta.
+[^32]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 5. alpontra változtatta.
+[^33]: Az 1. számú melléklet IV. pontjának eredeti 4. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 6. alpontra változtatta.
+[^34]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta. A 7. pont a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet IV. pontjának eredeti 6. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 8. alpontra változtatta.
+[^36]: Az 1. számú melléklet IV. pontjának eredeti 7. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 9. alpontra változtatta.
+[^37]: Az 1. számú melléklet IV. pontjának eredeti 8. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 10. alpontra változtatta.
+[^38]: Az 1. számú melléklet IV. pontjának eredeti 9. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 11. alpontra változtatta.
+[^39]: Az 1. számú melléklet IV. pontjának eredeti 10. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 12. alpontra változtatta.
+[^40]: Az 1. számú melléklet IV. pontjának eredeti 11. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 13. alpontra változtatta.
+[^41]: Az 1. számú melléklet V. pont 1. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^42]: Az 1. számú melléklet VI. pontjának 1. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bi) pontja szerint módosított szöveg.
