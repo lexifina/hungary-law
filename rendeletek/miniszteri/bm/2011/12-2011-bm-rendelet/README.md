@@ -1,0 +1,9 @@
+# 12/2011. (III. 30.) BM rendelet
+
+az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-03-31 | 2011-12-20-0A.1 | 12/2011. (III. 30.) BM rendelet |

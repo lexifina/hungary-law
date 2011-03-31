@@ -1,0 +1,1 @@
+A büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (4) bekezdés c) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § n) pontjában, valamint 39. § (6) bekezdés b) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
