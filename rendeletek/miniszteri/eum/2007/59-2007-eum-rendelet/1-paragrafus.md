@@ -4,6 +4,6 @@
 
 (2) E rendelet a határon túli magyarok magyarországi egészségügyi ellátásainak támogatással történő igénybevételére, a támogatás feltételeire és elszámolási rendjére vonatkozik.
 
-(3)[^1] Az Értékelő Bizottság döntése alapján az Egészségügyi Minisztérium (a továbbiakban: Minisztérium) a határon túli magyarok részére a magyarországi egészségügyi ellátások költségeihez támogatást biztosít az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) közreműködésével e rendeletben meghatározott szabályok szerint.
+(3)[^1] Az Értékelő Bizottság döntése alapján az egészségügyért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) a határon túli magyarok részére a magyarországi egészségügyi ellátások költségeihez támogatást biztosít az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) közreműködésével e rendeletben meghatározott szabályok szerint.
 
-[^1]: Az 1. § (3) bekezdése az 55/2008. (XII. 31.) EüM rendelet 14. §-a szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 62. §-a szerint módosított szöveg.
