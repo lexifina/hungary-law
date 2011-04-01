@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2010-09-16 | 2010. évi LXXXIX. törvény | 1997-47-00-00.23 |
 | 2010-10-01 | 2009. évi LVI. törvény | 1997-47-00-00.24 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 1997-47-00-00.25 |
+| 2011-04-01 | 2011. évi CXII. törvény | 1997-47-00-00.26 |

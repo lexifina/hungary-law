@@ -54,7 +54,9 @@ r) munkanélküli ellátás, foglalkoztatás elősegítése, valamint az ezzel �
 
 s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
 
-t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele.
+t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
+
+u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás.
 
 (3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
 

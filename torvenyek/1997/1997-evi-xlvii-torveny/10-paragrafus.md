@@ -2,6 +2,6 @@
 
 (2) A 4. § (1) bekezdése szerinti adatkezelés és adatfeldolgozás esetén az érintett betegségével kapcsolatba hozható minden olyan egészségügyi adat továbbítható, amely a gyógykezelés érdekében fontos, kivéve, ha ezt az érintett írásban kifejezetten megtiltja. Ennek lehetőségéről a továbbítás előtt az érintettet tájékoztatni kell. A 13. § szerinti esetekben az érintett tiltása ellenére is továbbítani kell az egészségügyi és személyazonosító adatot.
 
-(3) A (2) bekezdés szerinti adattovábbítás esetén sem lehet – a 13. §-ban foglaltak kivételével – az érintett hozzájárulása nélkül továbbítani a továbbítás idején fennálló betegséggel össze nem függő, korábbi betegségére vonatkozó egészségügyi adatokat.
+(3) A (2) bekezdés szerinti adattovábbítás esetén sem lehet – a 11. § (3) bekezdésében és a 13. §-ban foglaltak kivételével – az érintett hozzájárulása nélkül továbbítani a továbbítás idején fennálló betegséggel össze nem függő, korábbi betegségre vonatkozó egészségügyi adatokat.
 
 (4) Sürgős szükség esetén a kezelést végző orvos által ismert, a gyógykezeléssel összefüggésbe hozható minden egészségügyi és személyazonosító adat továbbítható az érintett hozzájárulása nélkül is.
