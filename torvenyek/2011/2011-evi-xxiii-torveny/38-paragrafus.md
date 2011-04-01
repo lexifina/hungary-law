@@ -7,11 +7,3 @@
 (3) A Tbj. a következő 64. §-sal egészül ki:
 
 „64. § Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosításáról szóló 2011. évi XXIII. törvénnyel megállapított 16. § (1) bekezdés h) pontjában foglaltakat 2011. január 1-jére visszamenőlegesen alkalmazni kell.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

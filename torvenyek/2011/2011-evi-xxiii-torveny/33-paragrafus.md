@@ -14,4 +14,4 @@ a) 140/A–140/E. §-a és az azt megelőző alcím,
 
 b) 247. § (2) bekezdés l) pontja.
 
-(3) Hatályát veszti az egészségügyi dolgozók rendtartásáról szóló 30/2007. (VI. 22.) EüM rendelet.
+(3)
