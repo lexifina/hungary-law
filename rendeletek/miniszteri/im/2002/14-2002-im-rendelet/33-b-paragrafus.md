@@ -1,4 +1,4 @@
-33/B. §[^28] (1) A bíróság elnöke – külön kérelem nélkül – hivatalból az ügy soron kívüli intézését rendelheti el, különösen akkor, ha:
+33/B. §[^29] (1) A bíróság elnöke – külön kérelem nélkül – hivatalból az ügy soron kívüli intézését rendelheti el, különösen akkor, ha:
 
 a) ahhoz kiemelkedően fontos társadalmi-, igazságügyi-, illetve közérdek fűződik;
 
@@ -16,4 +16,4 @@ b) az ügy tárgya és jellege;
 
 c) bíróság működésében felmerült objektív ok.
 
-[^28]: A 33/B. §-t a 41/2004. (XII. 21.) IM rendelet 4. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^29]: A 33/B. §-t a 41/2004. (XII. 21.) IM rendelet 4. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

@@ -16,7 +16,7 @@
 
 6. elnöki ügy: olyan ügy, amelyben a bíróság elnöke, illetőleg jogszabályban vagy OIT szabályzatban meghatározott esetben más bírósági vezető a bíróság igazgatására tartozó kérdésben az ítélkezés körén kívül jár el;
 
-7. érkeztetés: a bíróságra érkezett minden beadványon (az irat valamennyi példányán és mellékletén) a beadvány beérkezése keltének rögzítése;
+7.[^1] érkeztetés: a bíróságra érkezett minden beadványon (az irat valamennyi példányán és mellékletén) a beadvány beérkezése keltének rögzítése, elektronikus eljárásban a beadványon időbélyegző elhelyezése;
 
 8. intézkedés: az ügy tartalmi (érdemi) és formai (alaki) elintézésére adott utasítás;
 
@@ -24,11 +24,11 @@
 
 10. iratkezelés: az irat készítését (előállítását), nyilvántartását, rendszerezését és a selejtezhetőség szempontjából történő válogatását, segédletekkel való ellátását, szakszerű és biztonságos megőrzését, használatra bocsátását, selejtezését, illetve levéltárba adását együttesen magában foglaló tevékenység;
 
-11.[^1] iratkezelési szabályzat: a bíróságok írásbeli ügyintézésére vonatkozó szabályok összessége, amelyet az OIT fogad el, és amelynek mellékletét képezi az irattári terv;
+11.[^2] iratkezelési szabályzat: a bíróságok írásbeli ügyintézésére vonatkozó szabályok összessége, amelyet az OIT fogad el, és amelynek mellékletét képezi az irattári terv;
 
 12. kezdőirat: olyan irat, amelynek a bíróságon nincs előzménye; továbbá, amely törvény értelmében érdemben vagy ügyviteli szempontból befejezett ügyben új eljárás lefolytatását vagy a már befejezett üggyel kapcsolatban önálló intézkedést, valamely kérelem önálló elintézését igényli;
 
-13.[^2] kiadmány: az eredeti iratról készített olyan másolat, amelyet az arra feljogosított személy „a kiadmány hiteléül” záradékkal, aláírásával és a bíróság körbélyegzőjével lát el, vagy elektronikus okirat esetében azon minősített elektronikus aláírást, az elektronikus aláíráson pedig időbélyegzőt helyez el;
+13.[^3] kiadmány: az eredeti iratról készített olyan másolat, amelyet az arra feljogosított személy „a kiadmány hiteléül” záradékkal, aláírásával és a bíróság körbélyegzőjével lát el, vagy elektronikus okirat esetében azon minősített elektronikus aláírást, az elektronikus aláíráson pedig időbélyegzőt helyez el;
 
 14. lajstrom (tájékoztató könyv): az iratokról ügyszakonként (ügycsoportonként) elektronikus úton vezetett nyilvántartás vagy külön ívekből álló, évenként megnyitott és az év utolsó napján hitelesítetten lezárt, oldalszámmal ellátott és bekötött könyv;
 
@@ -50,5 +50,6 @@
 
 23. ügyvitel: a bírósági eljárásra vonatkozó törvények, más jogszabályok és OIT szabályzatok által meghatározott, az ügyintézés egymás utáni résztevékenységeinek (mozzanatainak) sorozata, illetve összessége, amely az ügyintézés formai és technikai feltételeit, az ítélkezés teljesítését célozza.
 
-[^1]: A 2. § 11. pontja a 22/2004. (V. 18.) IM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 2. § 13. pontja a 41/2004. (XII. 21.) IM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 7. pontja a 4/2011. (II. 11.) KIM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 11. pontja a 22/2004. (V. 18.) IM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § 13. pontja a 41/2004. (XII. 21.) IM rendelet 1. §-ával megállapított szöveg.

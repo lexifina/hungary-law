@@ -1,4 +1,4 @@
-## 9. §[^5] Az irat elvesztéséről, megsemmisüléséről azonnal jelentést kell tenni a bíróság elnökének, egyebekben a Pp. 119/A. §-ának és a Be. 71/A. §-a (3) és (4) bekezdésének megfelelő alkalmazásával kell eljárni.
+## 9. §[^6] Az irat elvesztéséről, megsemmisüléséről azonnal jelentést kell tenni a bíróság elnökének, egyebekben a Pp. 119/A. §-ának és a Be. 71/A. §-a (3) és (4) bekezdésének megfelelő alkalmazásával kell eljárni.
 
 ## A felvilágosítás
 
@@ -10,7 +10,7 @@
 
 (4) A határozat tervezetéről, a tanácskozási jegyzőkönyvről, a különvéleményről, a tanács tagjainak a feljegyzéseiről felvilágosítás nem adható.
 
-(5)[^6]
+(5)[^7]
 
-[^5]: A 9. § a 22/2004. (V. 18.) IM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^6]: A 10. § (5) bekezdését a 18/2010. (IV. 30.) IRM rendelet 4. §-a hatályon kívül helyezte.
+[^6]: A 9. § a 22/2004. (V. 18.) IM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 10. § (5) bekezdését a 18/2010. (IV. 30.) IRM rendelet 4. §-a hatályon kívül helyezte.
