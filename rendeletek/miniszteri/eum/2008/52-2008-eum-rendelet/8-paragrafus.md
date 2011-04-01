@@ -1,3 +1,0 @@
-8. § (1) Az orvosi szakmai kollégium az ügyrendjében meghatározott gyakorisággal, a kollégium munkatervében foglaltakra figyelemmel, illetve szükség szerint ezt meghaladóan tartja üléseit; az ülésekre az érintetteket a napirend közlésével kell meghívni.
-
-(2) Az ülésekre tanácskozási joggal meg kell hívni a minisztérium kijelölt képviselőjét, az országos tisztifőorvos által meghatározott – az érintett szakterülettel foglalkozó – szakfelügyelőt és szükség esetén más érintett személyeket is. Az Igazságügyi orvostani és orvosszakértői Szakmai Kollégium ülésére az Igazságügyi és Rendészeti Minisztérium képviselőjét meg kell hívni.
