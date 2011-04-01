@@ -41,3 +41,5 @@ n) a bioetanol és a biodízel utáni adólevonási, adó-visszaigénylési jogo
 o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított eljárásban történő kiszabásának és beszedésének részletes szabályait;
 
 p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
+
+r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;
