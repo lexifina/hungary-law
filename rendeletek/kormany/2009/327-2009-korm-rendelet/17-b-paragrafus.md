@@ -1,0 +1,9 @@
+17/B. § (1) Az elektronikuspénz-kibocsátó intézmény a megfelelő főkönyvi számlák bontásával vagy az analitikus nyilvántartások részletezésével köteles biztosítani, hogy az elektronikuspénz kibocsátásából, illetve a végzett egyéb pénzügyi szolgáltatásból, valamint a más tevékenységekből származó eszközei és kötelezettségei, bevételei, költségei és ráfordításai elkülönítetten megállapíthatók legyenek.
+
+(2) Az elektronikuspénz-kibocsátó intézménynek a pénzeszközök között elkülönítetten kell nyilvántartani az elektronikus pénz kibocsátásával összefüggésben birtokába került (általa kezelt), az ügyfelek tulajdonát megtestesítő pénzeszközöket az egyéb rövid lejáratú kötelezettségeken belül ilyen címen nyilvántartott kötelezettséggel szemben, külön kiemelve azon belül az elektronikuspénz kibocsátása ellenében átvett pénzeszközöket a 17/A. § (7) bekezdésében foglalt követelménnyel összhangban.
+
+(3) Az ügyfelekkel szemben elektronikus pénz kibocsátásából adódóan keletkezett követeléseket az egyéb rövid lejáratú követeléseken belül elkülönítetten kell nyilvántartani.
+
+(4) Az elektronikus pénz kibocsátásáért, valamint a végzett egyéb pénzügyi szolgáltatásokért felszámított különböző díjakat az értékesítés nettó árbevételén belül elkülönítetten kell bemutatni elektronikus pénz kibocsátásának díjbevétele és kapcsolódó pénzügyi szolgáltatások díjbevétele jogcímen.
+
+(5) A (4) bekezdésben foglaltaktól eltérően, a kamatjellegű jutalékot, a kamatjellegű bevételt a kapott kamatok és kamatjellegű bevételek között, az elektronikus pénz kibocsátásából, illetve a végzett egyéb pénzügyi szolgáltatással összefüggő kamatként és kamatjellegű bevételként elkülönítetten kell nyilvántartani. E tekintetben kamatjellegű jutaléknak, illetve kamatjellegű bevételnek minősül a Hitkr. 10. §-a (2) bekezdésének f) pontja, illetve (3) bekezdése szerint meghatározott jutalék, illetve bevétel.
