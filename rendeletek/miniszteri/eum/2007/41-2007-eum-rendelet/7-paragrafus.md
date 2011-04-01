@@ -1,3 +1,3 @@
-7. §[^26]
+7. §[^27]
 
-[^26]: A 7. §-t az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^27]: A 7. §-t az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.

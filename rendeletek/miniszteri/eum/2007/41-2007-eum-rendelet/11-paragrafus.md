@@ -20,9 +20,9 @@ h) a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendsz
 
 i) a tevékenység végzésére megfelelő informatikai rendszert;
 
-j)[^30] internetes kapcsolatot, e-mail elérhetőséget, valamint
+j)[^31] internetes kapcsolatot, e-mail elérhetőséget, valamint
 
-k)[^31] a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+k)[^32] a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
 
-[^30]: A 11. § (2) bekezdés j) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
-[^31]: A 11. § (2) bekezdés k) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 11. § (2) bekezdés j) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
+[^32]: A 11. § (2) bekezdés k) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
