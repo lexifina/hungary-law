@@ -20,6 +20,6 @@
 
 ## 6. Az ügyfél aláírása.
 
-2. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^40]
+2. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^43]
 
-[^40]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 266. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 266. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

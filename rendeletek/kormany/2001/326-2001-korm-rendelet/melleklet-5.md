@@ -1,4 +1,4 @@
-5. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^43]
+5. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^46]
 
 Családi gazdálkodók esetében az élethivatásszerűen végzett mezőgazdasági és mezőgazdasági kiegészítő tevékenységből származó nettó árbevétel/bevétel összegének kiszámítása
 
@@ -16,4 +16,4 @@ c) az egyszerűsített vállalkozói adóról szóló 2002. évi LXIII. törvén
 
 4. Az eladott áruk beszerzési értéke egyenlő a tárgyévi árukészlet beszerzésére fordított – illetve a 2. pont b) alpontjában meghatározott induló vállalkozások esetében az üzleti tervben tervezett – kiadás összegével, csökkentve a leltár szerinti záró árukészlet értékével, növelve a leltár szerinti nyitó árukészlet értékével. Az így kiszámított árbevétel/bevétel összegének el kell érni a családi gazdálkodó nem önálló tevékenységből származó bérjövedelmével növelt összes éves árbevételének/bevételének legalább 50 százalékát.
 
-[^43]: Az 5. számú mellékletet a 100/2005. (V. 31.) Korm. rendelet 4. §-ának (2) bekezdése iktatta a szövegbe. E módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a már nyilvántartásba vett családi gazdálkodóra is alkalmazni kell, azonban az általa a 2. számú melléklet szerint megtett nyilatkozatot az e módosító rendelet 1. számú melléklete szerinti nyilatkozatnak kell tekinteni; további alkalmazási rendelkezések tekintetében lásd az 5. § (2)–(4) bekezdését.
+[^46]: Az 5. számú mellékletet a 100/2005. (V. 31.) Korm. rendelet 4. §-ának (2) bekezdése iktatta a szövegbe. E módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a már nyilvántartásba vett családi gazdálkodóra is alkalmazni kell, azonban az általa a 2. számú melléklet szerint megtett nyilatkozatot az e módosító rendelet 1. számú melléklete szerinti nyilatkozatnak kell tekinteni; további alkalmazási rendelkezések tekintetében lásd az 5. § (2)–(4) bekezdését.

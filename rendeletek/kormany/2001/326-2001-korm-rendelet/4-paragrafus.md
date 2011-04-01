@@ -6,13 +6,13 @@ a)[^8] a kitöltött kérelemhez nyilatkozatot csatol arról, hogy a Tv. szerint
 
 b) bemutatja a szakirányú, legalább középfokú képzettségét igazoló okiratot,
 
-c)[^9] a b) pontban foglalt okirat hiánya esetén – a (4) bekezdés figyelembevételével – a legalább 3 éven át folytatott mezőgazdasági termelő tevékenységet igazoló őstermelői, egyén vállalkozói igazolvány és az adóbevallás másolatát csatolja, vagy legalább 3 éve – a családi gazdálkodó által csatolt nyilvántartási szám alatt – mezőgazdasági termelő tevékenység tekintetében szerepel az egyéni vállalkozók nyilvántartásában és adóbevallása másolatát csatolja,
+c)[^9] a b) pontban foglalt okirat hiánya esetén – a (4) bekezdés figyelembevételével – a legalább 3 éven át folytatott mezőgazdasági termelő tevékenységet igazoló őstermelői vagy egyéni vállalkozói igazolvány és az adóbevallás másolatát csatolja, vagy legalább 3 éve – a családi gazdálkodó által csatolt nyilvántartási szám alatt – mezőgazdasági termelő tevékenység tekintetében szerepel az egyéni vállalkozók nyilvántartásában és adóbevallása másolatát csatolja,
 
 d) nyilatkozik arról, hogy lakóhelye legalább három éve a családi gazdaság központjaként megjelölt településen van,
 
 e) nyilatkozik arról, hogy a 3. § szerinti szerződést a gazdálkodó család tagjai megkötötték,
 
-f)[^10] rendelkezik őstermelői igazolvánnyal és
+f)[^10] rendelkezik őstermelői vagy egyéni vállalkozói igazolvánnyal, vagy a mezőgazdasági termelő tevékenység tekintetében szerepel az egyéni vállalkozók nyilvántartásában, és
 
 g)[^11] nyilatkozik arról, hogy a 3. § alapján szerződést kötő családtagok által a családi gazdaság rendelkezésére bocsátott termőföldterületekre vonatkozó bejelentett adatok megegyeznek a nevükre szóló földhasználati lapokon szereplő adatokkal.
 
@@ -25,8 +25,8 @@ g)[^11] nyilatkozik arról, hogy a 3. § alapján szerződést kötő családtag
 [^6]: A 4. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
 [^7]: A 4. § (2) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
 [^8]: A 4. § (2) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 264. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: A 4. § (2) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 265. §-a, a 308/2009. (XII. 28.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^10]: A 4. § (2) bekezdés f) pontja a 351/2010. (XII. 30.) Korm. rendelet 92. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (2) bekezdés c) pontja a 34/2011. (III. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (2) bekezdés f) pontja a 34/2011. (III. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^11]: A 4. § (2) bekezdésének g) pontját a 193/2002. (IX. 6.) Korm. rendelet 2. §-ának (1) bekezdése iktatta a szövegbe, e módosító rendelet 9. §-ának (1) bekezdése alapján rendelkezéseit 2002. január 1. napjától kell alkalmazni azzal, hogy a 2002. szeptember 6. napján már nyilvántartásba vett családi gazdaság az itt meghatározott kötelezettségeket 2003. december 31. napjáig teljesíti.
 [^12]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 264. § (3) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
 [^13]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 264. § (3) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 93. § a) pontja szerint módosított szöveg.
