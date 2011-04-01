@@ -1,0 +1,47 @@
+3. § (1) A felnőtt és a vegyes körzetek a következő indikátorok alapján kerülnek értékelésre az 1. és 2. mellékletben meghatározottak szerint:
+
+a) influenza elleni védőoltásban részesült 65 év felettiek aránya,
+
+b) népegészségügyi célú, szervezett emlőszűrésen (mammográfia) a megelőző két évben részt vett 45–65 éves nők aránya,
+
+c) magas vérnyomás miatti kezelésben részesültek aránya a 40–54 évesek körében,
+
+d) magas vérnyomás miatti kezelésben részesültek aránya az 55–69 évesek körében,
+
+e) a megelőző 12 hónapban szérum kreatinin vizsgálatban részesült magas vérnyomásos betegek aránya,
+
+f) lipidanyagcsere kapcsán végzett vizsgálatban részesültek aránya a magas vérnyomásos vagy diabéteszes betegek körében,
+
+g) ischaemiás szívbetegek gyógyszeres kezelésének megfelelősége,
+
+h) gondozásban részesült cukorbetegek aránya – Hb1Ac vizsgálat,
+
+i) gondozásban részesült cukorbetegek aránya – szemvizsgálat,
+
+j) továbbküldési arány a szakellátásba,
+
+k) antibiotikum kezelés gyakorisága a felnőtt lakosság körében,
+
+l) gyógyszer indikátor ATC csoport: A02,
+
+m) gyógyszer indikátor ATC csoport: A10B,
+
+n) gyógyszer indikátor ATC csoport: C09,
+
+o) gyógyszer indikátor ATC csoport: C10.
+
+(2) A gyermek körzetek a következő indikátorok alapján kerülnek értékelésre az 1. mellékletben meghatározottak szerint:
+
+a) pneumococcus védőoltásban részesültek aránya az 1 éves kor alattiak körében,
+
+b) meningococcus védőoltásban részesültek aránya a 2 éves kor alattiak körében,
+
+c) vaspótló kezelésben részesültek aránya a 10–18 éves lányok esetében,
+
+d) továbbküldési arány a szakellátásba,
+
+e) ügyeleti ellátásban részesültek aránya a betegforgalom tükrében,
+
+f) antibiotikumos kezelésben részesültek aránya.
+
+(3) Az (1) és (2) bekezdés szerinti indikátorok célcsoportjait, a célértékeket, az adott indikátorhoz kapcsolódóan kapható pontszámokat, az adatforrást és az indikátor számításának módját az 1. és 2. melléklet tartalmazza.
