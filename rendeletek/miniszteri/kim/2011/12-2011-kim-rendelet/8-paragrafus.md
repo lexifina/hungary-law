@@ -1,0 +1,1 @@
+## 7. § Az előirányzatok tartalmazzák a működtetésükkel járó valamennyi kezelési és lebonyolítási költséget, amelyek mértéke együttesen sem haladhatja meg az előirányzat – átadás esetében az átadott előirányzat – 15%-át.
