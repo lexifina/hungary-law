@@ -24,4 +24,6 @@ c) a jogsértő kamarai szerv (tisztségviselő) tevékenységét felfüggeszthe
 
 (8) Nem rendelhető ki felügyelőbiztosként az, aki a szakmai kamarában tisztséget nem viselhet, valamint az sem, akit az ellenőrzött kamarai szerv közvetlenül irányít. A felügyelőbiztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható, illetőleg e tevékenységéért vele szemben hátrányos kamarai jogkövetkezmény nem alkalmazható.
 
-(9) Az országos kamarai szervek az üléseik jegyzőkönyvét és a meghozott határozataikat hivatalból, a tisztségviselők döntéseit pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
+(9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
+
+(10) A szakmai kamara országos felügyelőbizottságába az egészségügyért felelős miniszter egy – kizárólag tanácskozási jogkörrel rendelkező – állandó tagot delegál.

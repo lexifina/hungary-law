@@ -1,6 +1,6 @@
 ## Az országos szervek
 
-4. § (1) A szakmai kamara legfőbb képviseleti szerve a területi szervezetek választott küldötteiből álló küldöttközgyűlés, amelynek kizárólagos hatáskörébe tartozik a szakmai kamara alapszabályának, illetőleg etikai szabályzatának a megalkotása és módosítása, valamint – a 6. § (4) bekezdésére is figyelemmel – országos tisztségviselőinek, az országos etikai bizottság, valamint az országos felügyelőbizottság tagjainak megválasztása, továbbá az országos felügyelőbizottság éves beszámolójának elfogadása. Az alapszabály a küldöttközgyűlés részére más kizárólagos hatásköröket is megállapíthat.
+4. § (1) A szakmai kamara legfőbb képviseleti szerve a területi szervezetek választott küldötteiből álló küldöttközgyűlés, amelynek kizárólagos hatáskörébe tartozik a szakmai kamara alapszabályának, illetőleg etikai kódexének a megalkotása és módosítása, valamint – a 6. § (4) bekezdésére is figyelemmel – országos tisztségviselőinek, az országos etikai bizottság, valamint az országos felügyelőbizottság tagjainak megválasztása, a szakmai kamara számviteli törvény szerinti éves beszámolójának, továbbá az országos felügyelőbizottság éves beszámolójának elfogadása. Az alapszabály a küldöttközgyűlés részére más kizárólagos hatásköröket is megállapíthat.
 
 (2) A küldöttközgyűlés tagjai:
 

@@ -4,7 +4,7 @@ a) a tagsági viszonyáról lemondott,
 
 b) nem felel meg a 14. § (1) bekezdésében meghatározott tagsági feltételeknek,
 
-c) a 25. § (1) bekezdésének e) pontjában meghatározott jogerős etikai büntetésben részesült,
+c) a 25. § (1) bekezdésének e) vagy f) pontjában meghatározott jogerős etikai büntetésben részesült,
 
 d) a 14. § (3) bekezdése szerint a szakmai kamarába nem lenne felvehető.
 
@@ -14,7 +14,7 @@ a) egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek,
 
 b) a kamarai tagság alapjául szolgáló foglalkozástól végleges hatállyal eltiltottak.
 
-(3) Az (1) bekezdés b) és d) pontjában meghatározott esetben a területi szervezet írásbeli, indokolt határozattal rendelkezik a tagsági viszony megszüntetéséről. A határozat elleni jogorvoslatra a 16. § (4)–(5) és (7) bekezdéseiben foglaltak az irányadóak.
+(3)
 
 (4) Az (1) bekezdés c) pontjában meghatározott esetben a határozathozatalra és a jogorvoslatra – a 26. §-ra is figyelemmel – az etikai eljárásra vonatkozó szabályok irányadóak.
 

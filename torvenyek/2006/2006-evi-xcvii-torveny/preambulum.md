@@ -1,5 +1,9 @@
-Az Országgyűlés – hazánk hagyományait és az európai fejlett demokráciák gyakorlatát követve, ugyanakkor az utóbbi évtized tapasztalatait hasznosítva a szakmai kamarák működése kapcsán – elismeri az egyes egészségügyi szakmák gyakorlóinak jogát a szakmai önkormányzathoz.
+Az Országgyűlés az egészségügyi szakmák gyakorlóinak szakmai önkormányzathoz való jogát elismerve, annak érdekében, hogy az orvosok, a gyógyszerészek és az egészségügyi szakdolgozók
 
-A szakmai önkormányzat lehetővé teszi, hogy az egyes szakmák gyakorlói közvetlenül és az általuk választott testületek, tisztségviselők útján demokratikusan – a törvények által meghatározott keretek között – önállóan intézzék szakmai ügyeiket, meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket, társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, a lakosság egészségügyi ellátásának javításához. A szakmai önkormányzatiság azonban a szakma gyakorlóit nem korlátozhatja abban, hogy a megfelelő, és különös szakmai érdekeikhez legközelebb álló szakmai szervezethez való tartozás kérdésében maguk dönthessenek, még kevésbé abban, hogy képesítésüknek megfelelő tevékenységüket – a szakmai önkormányzásban való intézményes részvételükre tekintet nélkül – szabadon gyakorolhassák.
+– közvetlenül és az általuk választott testületek, tisztségviselők útján, demokratikusan – a törvény által meghatározott keretek között – önállóan intézzék szakmai ügyeiket,
 
-Az Országgyűlés e célok elérése érdekében a következő törvényt alkotja:
+– meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket,
+
+– a Nemzeti Együttműködés Rendszerének keretei között társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, az egészségügyet érintő egyéb döntések meghozatalához, valamint a lakosság egészségügyi ellátásának javításához
+
+a következő törvényt alkotja:

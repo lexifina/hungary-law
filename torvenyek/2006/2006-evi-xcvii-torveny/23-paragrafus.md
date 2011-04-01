@@ -1,21 +1,29 @@
-23. § (1) Az etikai bizottság az etikai felelősség tárgyában hozott határozatát közli az etikai eljárás megindítását kezdeményezővel, továbbá azzal a külön törvény szerinti Megyei Etikai Tanáccsal (a továbbiakban: MET), amely az adott ügyben az eljárás alá vont személy kamarai tagságának hiányában eljárt volna.
+23. § (1) A területi szervezet etikai bizottsága az etikai felelősség tárgyában hozott határozatát – ha az eljárás panaszbejelentés alapján indult – közli a panaszossal is.
 
-(2) Az etikai bizottság etikai felelősség tárgyában hozott határozata elleni fellebbezés elbírálására az OET jogosult. A 20. § (1) bekezdés b) pontja szerinti etikai vétség esetében az etikai eljárás megindítását kezdeményező is fellebbezhet. A 20. § (1) bekezdés a) pontja szerinti etikai vétség esetében az elsőfokú határozat ellen az etikai eljárás megindítását kezdeményező, továbbá az (1) bekezdés szerinti MET is fellebbezhet.
+(2) Az elsőfokú etikai határozattal szemben a fellebbezést a szakmai kamara országos etikai bizottságához kell benyújtani. A fellebbezés alapján az országos etikai bizottság folytatja le a másodfokú etikai eljárást. Az elsőfokú etikai határozattal szemben az (1) bekezdésben meghatározott panaszos is fellebbezhet.
 
-(3) A (2) bekezdésben foglaltaktól eltérően, amennyiben a 20. § (1) bekezdésének a) pontja szerinti etikai vétség esetében az elsőfokú határozatnak kizárólag a kamarai tagsági viszonyt érintő etikai büntetést kiszabó (felfüggesztés, kizárás) rendelkezésével szemben nyújtottak be fellebbezést, a fellebbezés tárgyában a kamara országos etikai bizottsága jár el.
+(3) A másodfokon eljáró országos etikai bizottság a határozatot
 
-(4) A 20. § (1) bekezdésének b) pontja szerinti etikai vétség esetében a másodfokú etikai bizottság a határozatot közli az etikai eljárást kezdeményezővel, valamint az első fokon eljáró etikai bizottsággal.
+a) az (1) bekezdésben meghatározott panaszossal és
 
-(5) Az etikai eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy a törvény
+b) az első fokon eljárt etikai bizottsággal
 
-a) hatósági közvetítőre,
+is közli.
 
-b) eljárási költség viselésére,
+(4) Az első- és másodfokon eljáró etikai bizottságok eljárásában – amennyiben az adott etikai bizottságban bizottsági tagként ilyen személy megválasztásra került – az ügy tárgya szerinti szakterületen jártas tag részt vesz. Ennek hiányában szakértőt kell kirendelni.
 
-c) költségmentességre,
+(5) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy a törvény
 
-d) elektronikus kapcsolattartásra
+a) nem alkalmazhatók a törvénynek
 
-vonatkozó rendelkezései nem alkalmazhatók.
+aa) hatósági közvetítőre,
 
-(6) Ha az etikai eljárás során bizonyítást nyer, hogy a kezdeményező az eljárást nyilvánvalóan rosszhiszeműen indította meg, az eljáró etikai szerv – ha egyes költségek tekintetében törvény másként nem rendelkezik – az eljárási költségek viselésére kötelezi a kezdeményezőt.
+ab) eljárási költség viselésére,
+
+ac) költségmentességre,
+
+ad) elektronikus kapcsolattartásra
+
+vonatkozó rendelkezései, továbbá
+
+b) az ügyintézési határidő hatvan nap, amelyet az eljáró etikai bizottság elnöke annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
