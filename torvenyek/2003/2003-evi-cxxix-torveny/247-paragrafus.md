@@ -4,6 +4,6 @@
 
 (3) A hirdetmény, illetőleg lényeges elemeinek összegezése idegen nyelven is közzétehető azzal, hogy egyedül az ajánlatkérő által választott nyelven (eredeti nyelven) készült és megküldött szöveg hiteles.
 
-(4) A hirdetményeknek a Közbeszerzési Értesítőben való közzététele költségeit a feladó viseli.
+(4)
 
 (5) A hirdetmények megküldésének és közzétételének részletes szabályait, valamint a hirdetmények mintáit külön jogszabály határozza meg.

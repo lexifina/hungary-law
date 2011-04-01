@@ -30,7 +30,7 @@ m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes �
 
 n) a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
-o)
+o) az irányítása vagy felügyelete alá tartozó költségvetési szervek, továbbá az azok vagyonkezelésébe tartozó, többségi állami tulajdonban álló gazdálkodó szervezetek, valamint a Kormány közalapítványai közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő, vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését
 
 p)
 
@@ -42,7 +42,9 @@ b) a közbeszerzésekre vonatkozó nómenklatúrát;
 
 c) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására vonatkozó szabályokat;
 
-d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével.
+d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével;
+
+e) a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a beszerzési tervvel, közbeszerzési tervvel, annak módosításával, illetve a közbeszerzési eljárásokkal, valamint a nem közbeszerzési eljárás keretében megkötött, illetve módosított, beszerzést megvalósító szerződésekkel kapcsolatos adatok nyilvántartására és kezelésére vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben szabályozza a munkavállalók védelmére és a munkafeltételekre vonatkozó tájékoztatási kötelezettség teljesítésének eljárási szabályait és díjazását.
 

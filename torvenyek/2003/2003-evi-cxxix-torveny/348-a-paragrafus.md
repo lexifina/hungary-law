@@ -4,7 +4,7 @@
 
 (3) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 340. § (2) bekezdésének f) pontja, a (3) és (4) bekezdése szerinti jogkövetkezményeket.
 
-(4) Ha a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a Közbeszerzési Döntőbizottság megismételt eljárására vonatkozó utasításokat.
+(4) Ha a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a Közbeszerzési Döntőbizottság megismételt eljárására vonatkozó utasításokat. A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
 
 (5) A bíróság határozatát a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
 

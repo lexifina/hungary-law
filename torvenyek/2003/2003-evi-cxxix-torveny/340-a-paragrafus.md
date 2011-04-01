@@ -1,4 +1,4 @@
-340/A. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 306/A. § (2) bekezdése szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
+340/A. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 306/A. § (2) bekezdése szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A perindítással egyidejűleg a Közbeszerzési Döntőbizottságnak ideiglenes intézkedésként kérnie kell a bíróságtól a szerződés további teljesítésének felfüggesztését. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
 
 (2) A Közbeszerzési Döntőbizottság az (1) bekezdés szerinti pert érdemi határozatának meghozatalától számított harminc napon belül indítja meg.
 

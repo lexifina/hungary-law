@@ -2,13 +2,13 @@
 
 (2) A gyorsított eljárásban az ajánlatkérő a részvételi határidőt nem határozhatja meg a részvételi felhívást tartalmazó hirdetmény feladásának napjától számított tíz napnál rövidebb időtartamban. A gyorsított eljárásban az ajánlatkérő meghívásos eljárás esetén az ajánlattételi határidőt nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított tíz napnál rövidebb időtartamban.
 
-(3) A gyorsított eljárásban a részvételre jelentkezőnek nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá, és a 60. § (1) bekezdésének e) pontja, illetőleg a 61. § (2) bekezdése szerinti köztartozások hiányával, valamint a 60. § (1) bekezdésének h) pontjával kapcsolatos hatósági igazolásokat legkésőbb a 117. § (1) bekezdése szerinti eredményhirdetéstől számított tizenöt napon belül kell csatolnia. A 60. § (1) bekezdésének g) pontjában foglalt feltétel megvalósulását az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az adóhatóságnak az adózás rendjéről szóló 2003. évi XCII. törvény 55. §-ának (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból.
+(3)
 
 (4) A gyorsított eljárásban a részvételre jelentkezőnek nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá. Ebben az esetben a 63. §-t azzal az eltéréssel kell alkalmazni, hogy
 
 a) a részvételre jelentkezőnek, a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozónak, illetőleg az erőforrást nyújtó szervezetnek a részvételi jelentkezésben nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá, továbbá
 
-b) legkésőbb az ajánlattételi határidő lejártáig kell csatolnia az ajánlattevőnek az a) pont szerinti személyek (szervezetek) vonatkozásában a 60. § (1) bekezdésének h) pontjával, valamint – adott esetben – a 61. § (2) bekezdése szerinti köztartozások hiányával kapcsolatos hatósági igazolásokat, továbbá – ha valamelyikük nem szerepel az adózás rendjéről törvény szerinti köztartozásmentes adózói adatbázisban, vonatkozásában – a 63. § (2) bekezdés b) pontja szerinti igazolásokat.
+b) legkésőbb az ajánlattételi határidő lejártáig kell csatolnia az ajánlattevőnek az a) pont szerinti személyek (szervezetek) vonatkozásában a 60. § (1) bekezdésének h) pontjával, valamint – adott esetben – a 61. § (2) bekezdése szerinti köztartozások hiányával kapcsolatos hatósági igazolásokat, továbbá – ha valamelyikük nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban, vonatkozásában – a 63. § (2) bekezdés b) pontja szerinti igazolásokat.
 
 (5) Az ajánlatkérő köteles gondoskodni arról, hogy a dokumentáció az ajánlattételi felhívás megküldésétől kezdve az ajánlattételi határidő lejártáig rendelkezésre álljon. Ha a dokumentáció megküldését kérik, az ajánlatkérő vagy az általa meghatározott szervezet a kérelem kézhezvételétől számított két munkanapon belül köteles ennek eleget tenni, feltéve, hogy ésszerű időben kérték, illetőleg annak ellenértékét megfizették.
 
