@@ -1,1 +1,3 @@
-## „8/A. § Az Alapprogram kezelő szerve a támogatás iránti kérelem benyújtási határidejének lejártát követő 60 napon belül megküldi a Kollégium részére az érvényes pályázattal kapcsolatos előterjesztését. Az előterjesztés előtt kihirdetett kormányrendelet alapján, az adott költségvetési évben egyedi támogatásban részesülő szervezet támogatás iránti kérelme esetén, a Kollégium részére átadott, érvényes pályázatokat tartalmazó előterjesztésben a szervezet egyedi támogatásának célját és összegét az Alapprogram kezelő szerve a Kollégium döntéshozatala során történő figyelembevétel érdekében külön feltünteti. A Kollégium az előterjesztés kézhezvételétől számított 30 napon belül dönt a támogatás iránti kérelem elfogadásáról vagy elutasításáról, a támogatás összegéről, ütemezéséről, a támogatási feltételekről.”
+## 2. §[^1]
+
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
