@@ -6,7 +6,7 @@ b) a megvásárolni, építeni, bővíteni, felújítani kívánt ingatlanra von
 
 (2) A kérelemhez mellékelni kell:
 
-a)[^46] az ingatlan adásvételére vonatkozó megállapodást (előszerződést, vételre történő kijelölést), építkezés esetén a jogerős építési engedélyt;
+a)[^56] az ingatlan adásvételére vonatkozó megállapodást (előszerződést, vételre történő kijelölést), építkezés esetén a jogerős építési engedélyt;
 
 b) a menekült, az oltalmazott, valamint a közeli hozzátartozó büntetőjogi felelőssége tudatában tett, vagyoni helyzetére vonatkozó nyilatkozatát;
 
@@ -34,4 +34,4 @@ c) intézkedik az ingatlanra jelzálogjog, valamint elidegenítési és terhelé
 
 (6) Ha a menekült, illetve az oltalmazott a támogatás odaítéléséről szóló értesítés kézhezvételétől számított hat hónapon belül a támogatás összegét nem veszi át, azt a jegyző visszautalja a menekültügyi hatóságnak.
 
-[^46]: Az 58. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 588. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^56]: Az 58. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 588. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

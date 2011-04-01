@@ -1,6 +1,6 @@
 ## A befogadó állomáson nyújtott elhelyezés és ellátás
 
-21. §[^12] (1) A befogadó állomáson nyújtott elhelyezés és ellátás keretében az elismerését kérő részére a következőket kell biztosítani:
+21. §[^14] (1) A befogadó állomáson nyújtott elhelyezés és ellátás keretében az elismerését kérő részére a következőket kell biztosítani:
 
 a) szállás,
 
@@ -22,4 +22,4 @@ c) személyes használatra étkező- és tisztálkodási eszközök, vagy ennek 
 
 (8) Az étkezési hozzájárulás egy heti összegét a befogadó állomás a hét első munkanapján folyósítja. A higiénés hozzájárulás havi összegének kifizetése a havi költőpénz kifizetésekor esedékes.
 
-[^12]: A 21. § a 290/2010. (XII. 21.) Korm. rendelet 88. §-ával megállapított szöveg.
+[^14]: A 21. § a 290/2010. (XII. 21.) Korm. rendelet 88. §-ával megállapított szöveg.
