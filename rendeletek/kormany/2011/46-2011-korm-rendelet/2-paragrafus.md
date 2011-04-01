@@ -1,0 +1,3 @@
+2. § (1) Az 1. § (1) bekezdésében meghatározott közbeszerzések indokoltságának vizsgálata, és a közbeszerzési eljárások, valamint a rendelet hatálya alá tartozó szerződések ellenőrzése a nemzeti fejlesztési miniszter feladata. Ennek érdekében a közbeszerzési eljárások indokoltságának megítélésével, a központi ellenőrzés koordinálásával, a kapcsolódó nyilvántartások vezetésével, valamint a rendelet hatálya alá tartozó szerződések ellenőrzésével és engedélyezésével összefüggő feladatokat a Nemzeti Fejlesztési Minisztérium (a továbbiakban: NFM) látja el.
+
+(2) A nemzeti fejlesztési miniszter az (1) bekezdésben foglalt feladattal kapcsolatos döntési jogkörét az NFM vagyonpolitikai államtitkárára ruházhatja.
