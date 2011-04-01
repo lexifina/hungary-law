@@ -8,8 +8,10 @@ b) a bűncselekményt elkövető,
 
 c) a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt,
 
-d) a büntetés-végrehajtási intézetbe, valamint a rendőrségi fogdába befogadás során a befogadott, valamint
+d) a büntetés-végrehajtási intézetbe, valamint a rendőrségi fogdába befogadás során a befogadott,
 
-e) a személyazonosság igazolásának megtagadása esetén az igazoltatott
+e) a személyazonosság igazolásának megtagadása esetén az igazoltatott, valamint
+
+f) a 33/A. § (3) bekezdésében meghatározott feltételek fennállása esetén a külföldi bíróság által elítélt
 
 személy azonosítása.

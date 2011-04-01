@@ -2,14 +2,6 @@
 
 85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen (a továbbiakban: Prümi Szerződés) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az együttműködő tagállamának kijelölt nemzeti kapcsolattartó pontja részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
 
-[(1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
-
-a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
-
-b) büntetőeljárás lefolytatása céljából a DNS-profil
-
-elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.]
-
 (2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
 
 (3) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil nem egyezik meg az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontjával ezt a tényt automatikusan közli.
