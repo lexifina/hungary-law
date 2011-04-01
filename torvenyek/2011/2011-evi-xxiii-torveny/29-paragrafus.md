@@ -1,0 +1,3 @@
+29. § Az Ekt. 34. §-a helyébe a következő rendelkezés lép:
+
+„34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat rendeletben megállapítsa.”

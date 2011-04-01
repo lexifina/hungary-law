@@ -1,0 +1,1 @@
+37. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 1. alcímének 1.3. alpontjában a „rendszeres szociális segély és rendelkezésre állási támogatás” szövegrész helyébe az „az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás” szöveg lép.
