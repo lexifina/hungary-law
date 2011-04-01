@@ -44,7 +44,7 @@ h) a tudományos fokozat,
 
 i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése,
 
-j) az egészségügyi dolgozóval szemben etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának megjelölésével együtt,
+j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának és elévülése időpontjának megjelölésével együtt,
 
 k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
 

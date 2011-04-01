@@ -14,6 +14,8 @@ f) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszab�
 
 g) aki elhalálozott,
 
-h) aki a törlését kéri.
+h) aki a törlését kéri,
+
+i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
 (2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.

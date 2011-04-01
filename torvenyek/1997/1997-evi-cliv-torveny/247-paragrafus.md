@@ -144,7 +144,7 @@ km) a gyártással, forgalomba hozatallal, alkalmazással, klinikai vizsgálatok
 
 kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, az időszakos felülvizsgálatra, az adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 
-l) az egészségügyi dolgozók rendtartására vonatkozó részletes szabályokat,
+l)
 
 m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 
@@ -192,6 +192,8 @@ d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenysé
 
 e) a gyermekágyas és az újszülöttellátás szabályait
 
+f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit
+
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
@@ -221,3 +223,25 @@ cg) az egészségfejlesztési programok akkreditációjáért,
 ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
 
 ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d)–i)
+
+j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
+
+k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
