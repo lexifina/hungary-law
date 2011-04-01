@@ -110,13 +110,15 @@ Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhet�
 
 04 Szülészet-nőgyógyászat
 
-0400 általános szülészet-nőgyógyászat
+0400 általános szülészet-nőgyógyászat (orvosi)
 
 0401 terhesgondozás (orvosi)
 
 0402 nőgyógyászati onkológiai szűrés
 
 0403 In vitro fertilizáció (IVF) – *sze*
+
+0404 intézeten kívüli szülészeti és újszülött ellátás
 
 Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
 
@@ -718,6 +720,10 @@ Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhet�
 
 7307 körzeti közösségi szakápolás
 
+7308 szülésznői ellátás (intézeti)
+
+7309 intézeten kívüli szülésznői ellátás
+
 76 Dietetika
 
 7600 dietetika
@@ -882,4 +888,4 @@ Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhet�
 
 – 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt nem egészségügyi felsőfokú szakképesítéssel ellátható feladatra irányul.
 
-[^14]: A 2. számú melléklet 1.4. pontja a 31/2008. (VII. 29.) EüM rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 2. számú melléklet 1.4. pontja a 31/2008. (VII. 29.) EüM rendelet 1. §-a, a 8/2011. (III. 21.) NEFMI rendelet 3. §-a szerint módosított szöveg.

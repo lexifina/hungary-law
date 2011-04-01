@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-2-20-0B
 | --- | --- | --- |
 | 2009-01-01 | 2004-2-20-0B.5 | 2/2004. (XI. 17.) EüM rendelet |
 | 2011-03-31 | 2004-2-20-0B.6 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2011-04-01 | 2004-2-20-0B.7 | 31/2008. (VII. 29.) EüM rendelet |
