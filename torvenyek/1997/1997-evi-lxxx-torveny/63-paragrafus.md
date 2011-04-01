@@ -1,3 +1,1 @@
 Tbj. 63. § A Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 33. §-ával megállapított 19. § (2) bekezdés b) pontját a 2011. február 1-jén, és az azt követően megszerzett jövedelmekre kell alkalmazni.
-
-## Melléklet az 1997. évi LXXX. törvényhez

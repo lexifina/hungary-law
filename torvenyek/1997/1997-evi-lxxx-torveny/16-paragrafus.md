@@ -16,7 +16,7 @@ f) gyermekgondozási segélyben,
 
 g) Magyarországon nyilvántartásba vett egyháztól, felekezettől nyugdíjban, a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban vagy rendszeres rokkantsági segélyben,
 
-h) rendszeres szociális segélyben, rendelkezésre állási támogatásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
+h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
 
 részesül,
 
