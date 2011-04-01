@@ -22,7 +22,7 @@ akkor a fenntarthatóságot a biomassza termelő a 2. mellékletben meghatározo
 
 (3) A 2. mellékletben meghatározott adattartalomnak megfelelő formanyomtatványt a mezőgazdasági igazgatási szerv a honlapján közzéteszi.
 
-(4) Ugyanarra a biomassza mennyiségre – a (9) bekezdés szerinti kivétellel – egy biomassza igazolás állítható ki.
+(4)[^1] A biomassza (1) bekezdésben foglalt feltételeknek való megfelelésére a biomassza termelő a betakarítás vagy a területről történő begyűjtés évében állíthat ki biomassza igazolást. Ugyanarra a biomassza mennyiségre – a (9) bekezdés szerinti kivétellel – egy biomassza igazolás állítható ki.
 
 (5) A biomassza termelő biomassza igazolást az általa megtermelt vagy begyűjtött biomassza mennyiségre állíthat ki.
 
@@ -39,3 +39,5 @@ akkor a fenntarthatóságot a biomassza termelő a 2. mellékletben meghatározo
 a) a kiállításától számított harmadik naptári év december 31. napját követően, vagy
 
 b) a biomassza megsemmisülése esetén.
+
+[^1]: A 3. § (4) bekezdése a 20. §-sal megállapított szöveg.
