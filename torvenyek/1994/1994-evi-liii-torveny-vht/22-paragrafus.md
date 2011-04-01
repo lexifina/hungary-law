@@ -2,7 +2,7 @@
 
 a) a községi, városi, fővárosi kerületi jegyzőnek a birtokvitában hozott, az elmaradt haszon, a kár és a költség megtérítésére kötelező határozatát,
 
-b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyről szóló 1997. évi CLIV. törvény 140/B. § (1) bekezdése és 140/C. § (2) bekezdése szerinti szervek pénzbírság és eljárási költség megfizetésére kötelező határozatát,
+b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
 
 c)
 

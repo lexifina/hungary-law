@@ -4,7 +4,7 @@
 
 a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
 
-b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, a rendszeres szociális segély, a rendelkezésre állási támogatás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 
 c) az anyasági segély,
 
