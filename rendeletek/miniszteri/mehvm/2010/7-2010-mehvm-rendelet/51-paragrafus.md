@@ -1,1 +1,0 @@
-## 50. § A fejezethez vagy más fejezethez tartozó költségvetési szervekhez átadott források terhére történő finanszírozáskor, az előirányzatot átadó szakmai szervezet előírásainak betartása mellett, az intézmény belső szabályzatai szerint kell eljárni.

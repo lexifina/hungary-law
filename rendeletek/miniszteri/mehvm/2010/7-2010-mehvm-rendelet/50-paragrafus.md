@@ -1,1 +1,0 @@
-## 49. § Amennyiben a kedvezményezett általános forgalmi adó (áfa) levonási joggal rendelkezik, úgy a támogatás mértéke a teljes program kiadásának az áfa-val és a saját résszel csökkentett összegéig terjedhet.

@@ -1,3 +1,0 @@
-## III. Fejezet
-
-## RÉSZLETES SZABÁLYOK

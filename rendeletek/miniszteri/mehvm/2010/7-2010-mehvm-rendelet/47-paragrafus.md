@@ -1,1 +1,0 @@
-## 46. § A 45. § szerinti részelszámolási kötelezettség alól a kötelezettségvállaló különösen indokolt esetben – a kedvezményezett írásban előterjesztett kérelmére – felmentést adhat. A támogatási szerződés megfelelő módosítását a kötelezettségvállaló köteles haladéktalanul kezdeményezni.

@@ -1,3 +1,0 @@
-## I. Fejezet
-
-## ÁLTALÁNOS RENDELKEZÉSEK

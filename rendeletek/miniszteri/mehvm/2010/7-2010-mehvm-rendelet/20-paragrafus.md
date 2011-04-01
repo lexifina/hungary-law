@@ -1,1 +1,0 @@
-## 19. § Az együttes adóigazolás beszerzéséről, vagy a köztartozásmentes adózói adatbázisban való szereplés ellenőrzéséről a teljesítést igazoló gondoskodik, az igazolást a teljesítésigazolás dokumentációjával együtt kell megküldeni a kifizető szervezeti egység részére.
