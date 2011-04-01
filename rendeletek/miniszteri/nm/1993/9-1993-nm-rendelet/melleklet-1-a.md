@@ -70,6 +70,8 @@
 
 |  | 01405 | Biológiai implantátum (keratinocyta) |
 
+|  | 01407 | Biológiai implantátum (konzervált amnion) |
+
 |  | 01409 | Biológiai implantátum, egyéb (kivétel: csont, porc, ín, szaruhártya, keratinocyta) |
 
 | 24. | 01360 | Injektálható implantátum a vesico-ureterális reflux és az inkontinencia kezeléséhez |
@@ -128,6 +130,24 @@
 
 | 43. | 01521 | Műszív egyszer használatos eszközei transzplantációra váró betegnél |
 
+| 44. | 01517 | Vékonybél endoszkópos kapszula |
+
+| 45.* |  | Antiglaucoma implantatum |
+
+|  | 01518 | Antiglaucoma shunt implantatum |
+
+|  | 01519 | Antiglaucoma fascia lata implantatum |
+
+| * | Elszámolásra jogosult intézetek |
+
+| 0140 | Semmelweis Egyetem Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^65]
 
-[^65]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 48/2008. (XII. 31.) EüM rendelet 1. § (1) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (1) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (1) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^65]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 48/2008. (XII. 31.) EüM rendelet 1. § (1) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (1) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (1) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (2) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.

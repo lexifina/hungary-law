@@ -24,6 +24,8 @@
 
 | 06037 | AVASTIN (bevacizumab) 25 mg/ml koncentrátum oldatos infúzióhoz (16 ml) |
 
+| 06038 | 2. | ATRIANCE 5 mg/ml oldatos infúzió | T-sejtes akut lymphoblastos leukaemia (T-ALL) és T-sejtes lymphoblastos lymphoma (T-LBL) kezelésére, amikor a beteg legalább két, előzőleg alkalmazott kemoterápiás kezeléssorozatra sem reagált, vagy a kezelések után relapszus következett be |
+
 | 1. | Elszámolásra jogosult intézetek |
 
 | 0140 | Semmelweis Egyetem, Budapest |
@@ -38,9 +40,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Heves Megyei Önkormányzat Kórháza Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft |
+| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft. |
 
 | 1801 | Szombathely, Markusovszky Kórház Zrt. |
+
+| 2. | Elszámolásra jogosult intézetek |
+
+| 0109 | Főv. Önk. Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
 2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^66]
 
