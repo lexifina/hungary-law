@@ -8,4 +8,4 @@
 
 (5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén – választása szerint – minősített elektronikus aláírás alkalmazásával vagy anélkül, a kormányzati portálon keresztül maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37–38. § rendelkezéseit megfelelően alkalmazni kell.
 
-(6) E §, valamint a 37–40. § rendelkezései csak az elsőfokú eljárásban alkalmazhatók.
+(6) A 36–40. § rendelkezéseit a jogorvoslati eljárásokban megfelelően alkalmazni kell.

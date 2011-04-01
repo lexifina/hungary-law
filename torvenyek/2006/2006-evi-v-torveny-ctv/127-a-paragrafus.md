@@ -1,0 +1,1 @@
+127/A. § E törvénynek az egyes cégjogi és társasági jogi tárgyú törvények módosításáról szóló 2010. évi CLXXIX. törvény 5. §-ával megállapított 32. § (1) bekezdését és 36. § (6) bekezdését az azok hatálybalépését követően benyújtott fellebbezések alapján indult eljárásokban kell alkalmazni.
