@@ -10,7 +10,7 @@ d)[^15] a tankötelezettség megszűnését követően a háziorvos az 1. szám�
 
 e)[^16] az 1. számú melléklet 5. pontja szerinti 16 éves kori állapotvizsgálatok közül – a 4/A. § (3) bekezdésében foglalt kivétellel – az a)–c) alpont szerinti vizsgálatok elvégzése az iskolaorvos, a d)–i) alpont szerinti vizsgálatok elvégzése az iskolai védőnő feladata,
 
-f)[^17] az 1. számú melléklet 1. pontja szerinti szűrővizsgálatok elvégzése – az f) alpontja kivételével – a fekvőbeteg-gyógyintézetek szülészeti-nőgyógyászati osztálya, illetve újszülött osztálya vagy az újszülöttet ellátó neonatológiai osztály (PIC) feladatkörébe tartozik. Az 1. számú melléklet 1. pont f) alpontjában felsorolt vizsgálatok esetében a laboratóriumi vizsgálatok elvégzésére a külön jogszabály szerinti egészségügyi szolgáltató jogosult (szolgáltatók jogosultak).
+f)[^17] az 1. számú melléklet 1. pontja szerinti szűrővizsgálatok elvégzése – az f) alpontja kivételével – a fekvőbeteg-gyógyintézetek szülészeti-nőgyógyászati osztálya, illetve újszülött osztálya vagy az újszülöttet ellátó neonatológiai osztály (PIC), valamint intézeten kívüli szülés esetén az újszülött vizsgálatát végző gyermekgyógyász szakorvos feladatkörébe tartozik. Az 1. számú melléklet 1. pont f) alpontjában felsorolt vizsgálatok esetében a laboratóriumi vizsgálatok elvégzésére a külön jogszabály szerinti egészségügyi szolgáltató jogosult (szolgáltatók jogosultak),
 
 g)[^18] e rendelet 3. számú mellékletében foglalt szűrővizsgálatot a külön jogszabály alapján ezen feladat ellátására jogosult
 
@@ -31,7 +31,7 @@ i)[^23] a mellkas-szűrővizsgálat (tüdőszűrés) végzése a területileg il
 [^14]: A 4. § c) pontja a 19/2009. (VI. 18.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § új d) pontját a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti d) pont megjelölését f) pontra változtatva.
 [^16]: A 4. § új e) pontját a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti e) pont megjelölését g) pontra változtatta. A 4. § e) pontja a 19/2010. (IV. 22.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § eredeti d) pontjának megjelölését f) pontra változtatta és szövegét megállapította a 19/2009. (VI. 18.) EüM rendelet 2. § (2)–(3) bekezdése.
+[^17]: A 4. § eredeti d) pontjának megjelölését f) pontra változtatta a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése, szövege a 8/2011. (III. 21.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^18]: A 4. § e) pontját a 40/2003. (VII. 16.) ESZCSM rendelet 2. §-ának (2) bekezdése iktatta be, bevezető mondata a 67/2005. (XII. 27.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg, megjelölését g) pontra változtatta és szövegét módosította a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése, illetve 13. § (5) bekezdésének d) pontja.
 [^19]: A 4. § e) pontjának ea) alpontja a 67/2005. (XII. 27.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg, megjelölését ga) alpontra változtatta a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése.
 [^20]: A 4. § eredeti eb) alpontjának megjelölését gb) alpontra változtatta a 19/2009. (VI. 18.) EüM rendelet 2. § (2) bekezdése.
