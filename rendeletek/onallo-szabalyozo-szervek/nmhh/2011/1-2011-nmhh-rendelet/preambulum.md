@@ -1,0 +1,1 @@
+A médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 206. § (1) bekezdésének a) pontjában kapott felhatalmazás alapján, összhangban az Mttv. 134. § (5) bekezdésében foglaltakkal a következőket rendelem el:
