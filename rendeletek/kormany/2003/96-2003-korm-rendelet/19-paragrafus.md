@@ -1,12 +1,12 @@
 ## A működési engedély visszavonása
 
-19. § (1)[^92] Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha
+19. § (1)[^93] Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha
 
 a) azt az egészségügyi szolgáltató kéri,
 
 b) az egészségügyi szolgáltató megszűnik,
 
-c)[^93] az egyéni vállalkozói tevékenyég folytatására való jogosultsága megszűnik,
+c)[^94] az egyéni vállalkozói tevékenyég folytatására való jogosultsága megszűnik,
 
 d) az egyéni vállalkozót törölték az orvosok vagy az egészségügyi szakdolgozók működési nyilvántartásából,
 
@@ -16,7 +16,7 @@ f) az egészségügyi szolgáltató tevékenységét nem a működési engedély
 
 g) az egészségügyi szolgáltató a működési engedélyben nem szereplő szolgáltatást nyújt, és a kitűzött határidőre sem kérte a működési engedélye módosítását,
 
-h)[^94]
+h)[^95]
 
 i) az egészségügyi szolgáltató nem rendelkezik érvényes felelősségbiztosítási szerződéssel,
 
@@ -24,9 +24,9 @@ j) az egészségügyi szolgáltató bejelentés nélkül legalább hat hónapja 
 
 k) a szakfelügyeleti vizsgálat olyan szakmai szabályok súlyos megsértését tárta fel, mely a betegek biztonságos ellátását veszélyezteti.
 
-(2)[^95] A működési engedély visszavonásáról a működési engedélyt kiadó egészségügyi államigazgatási szerv dönt. A működési engedély visszavonásáról szóló határozatot közölni kell a 11. § (3) bekezdésében felsorolt szervekkel.
+(2)[^96] A működési engedély visszavonásáról a működési engedélyt kiadó egészségügyi államigazgatási szerv dönt. A működési engedély visszavonásáról szóló határozatot közölni kell a 11. § (3) bekezdésében felsorolt szervekkel.
 
-[^92]: A 19. § (1) bekezdésének bevezető szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^93]: A 19. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^94]: A 19. § (1) bekezdésének h) pontját a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének i) pontja hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^95]: A 19. § (2) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^93]: A 19. § (1) bekezdésének bevezető szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^94]: A 19. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^95]: A 19. § (1) bekezdésének h) pontját a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének i) pontja hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^96]: A 19. § (2) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

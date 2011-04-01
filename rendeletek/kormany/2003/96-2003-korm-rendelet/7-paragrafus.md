@@ -6,7 +6,7 @@
 
 (2) A működési engedély kiadására
 
-a) fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, valamint biobanki tevékenységet nyújtó egészségügyi szolgáltató esetén az Országos Tisztifőorvosi Hivatal,
+a)[^20] fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, valamint intézeten kívüli szülészeti és újszülött-ellátási tevékenységet nyújtó egészségügyi szolgáltató esetén az Országos Tisztifőorvosi Hivatal,
 
 b) az a) pontban fel nem sorolt egészségügyi szolgáltatások esetében – ideértve az egynapos sebészeti és a kúraszerűen végezhető ellátások szakmai feltételeiről szóló 16/2002. (XII. 12.) ESzCsM rendelet 3. § (1) bekezdésében és 6. § (1) bekezdés b) pontjában meghatározott ellátást is – a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet),
 
@@ -24,3 +24,4 @@ jogosult.
 
 [^18]: A 6/B. §-t a 25/2004. (II. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 308/2009. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^19]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 104. § (3) bekezdésével megállapított szöveg.
+[^20]: A 7. § (2) bekezdés a) pontja a 35/2011. (III. 21.) Korm. rendelet 16. §-ával megállapított szöveg.

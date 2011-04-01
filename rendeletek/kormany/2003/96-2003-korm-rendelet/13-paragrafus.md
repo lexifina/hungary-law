@@ -1,6 +1,6 @@
 ## Átmeneti működési engedély
 
-13. §[^67] (1) Ha az egészségügyi szakmára nincs meghatározva szakmai minimumfeltétel, ennek kiadásáig az egészségügyi szolgáltató kérelmére átmeneti működési engedélyt kaphat. Az egészségügyi szolgáltató kérelmére azon szakmák esetében is kaphat átmeneti működési engedélyt, amelyek az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló, illetve az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló jogszabályok szerint meghatározott nappali ellátási formában is végezhetők, de az ellátási forma jellegéből adódó speciális szakmai feltételek nem kerültek meghatározásra.
+13. §[^68] (1) Ha az egészségügyi szakmára nincs meghatározva szakmai minimumfeltétel, ennek kiadásáig az egészségügyi szolgáltató kérelmére átmeneti működési engedélyt kaphat. Az egészségügyi szolgáltató kérelmére azon szakmák esetében is kaphat átmeneti működési engedélyt, amelyek az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló, illetve az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló jogszabályok szerint meghatározott nappali ellátási formában is végezhetők, de az ellátási forma jellegéből adódó speciális szakmai feltételek nem kerültek meghatározásra.
 
 (2) Az átmeneti működési engedély kiadásához szükséges szakmai feltételeket az engedélyezési eljárásban az egészségügyi államigazgatási szerv megkeresésére az Országos Tisztifőorvosi Hivatal az általa felkért országos szakfelügyelő véleménye alapján, a (3) és (4) bekezdésben meghatározottak szerint állapítja meg. A szakfelügyelő az átmeneti működési engedély kiadásához szükséges szakmai feltételekről szóló véleményét a felkérésétől számított 30 napon belül küldi meg az Országos Tisztifőorvosi Hivatalnak. A megadott átmeneti működési engedélyben szereplő szakmai feltételeket az Országos Tisztifőorvosi Hivatal a honlapján közzéteszi. Az Országos Tisztifőorvosi Hivatal által az átmeneti működési engedélyben meghatározott szakmai feltételeket az egészségügyi államigazgatási szerv az azonos szakmára irányuló valamennyi engedélyezési eljárásban alkalmazza az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételek jogszabályban való meghatározásáig.
 
@@ -20,4 +20,4 @@ c) a szakmai környezeti feltételek tekintetében a nappali ellátás jellegéb
 
 (7) Az (1) bekezdésben meghatározott esetben a 12. §-ban foglalt feltételek fennállása esetén ideiglenes működési engedély is kiadható.
 
-[^67]: A 13. § a 365/2010. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^68]: A 13. § a 365/2010. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
