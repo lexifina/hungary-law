@@ -1,1 +1,0 @@
-A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 7. § (3) bekezdésében foglalt felhatalmazás alapján a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
