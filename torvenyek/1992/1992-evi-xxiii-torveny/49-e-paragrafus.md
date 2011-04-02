@@ -29,3 +29,5 @@ c) a 35 év közszolgálati jogviszony után járó jubileumi jutalmat, ha a jub
 d) a 40 év közszolgálati jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 4 év vagy ennél kevesebb van hátra.
 
 (6) Ha a közszolgálati jogviszony a köztisztviselő halála miatt szűnik meg, az (5) bekezdésben foglalt szabály alkalmazása alapján járó jubileumi jutalmat az örökösnek kell kifizetni.
+
+(7) Arra a köztisztviselőre, akinek a 17. § (2) bekezdés f) vagy g) pontja alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.

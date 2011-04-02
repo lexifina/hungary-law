@@ -12,7 +12,9 @@ d) az öregségi nyugdíjra jogosult vagy rokkantsági (baleseti rokkantsági) n
 
 e) a rokkantsági (baleseti rokkantsági) nyugdíjjogosultság (9) bekezdés szerinti feltételeivel rendelkező köztisztviselő azt kérelmezi;
 
-f) az előrehozott öregségi nyugdíjjogosultság egyéb feltételeivel a felmentési idő leteltekor rendelkező köztisztviselő a (10) bekezdés szerint kérelmezi.
+f) az előrehozott öregségi nyugdíjjogosultság egyéb feltételeivel a felmentési idő leteltekor rendelkező köztisztviselő a (10) bekezdés szerint kérelmezi;
+
+g) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező köztisztviselő kérelmezi.
 
 (3) A munkáltató a (2) bekezdésben foglalt esetben a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 

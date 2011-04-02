@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-23-00-00
 | 2010-08-11 | 2010. évi LXXXII. törvény | 1992-23-00-00.82 |
 | 2010-09-01 | 2010. évi LVIII. törvény | 1992-23-00-00.83 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1992-23-00-00.84 |
+| 2011-04-02 | 2011. évi XXX. törvény | 1992-23-00-00.85 |
