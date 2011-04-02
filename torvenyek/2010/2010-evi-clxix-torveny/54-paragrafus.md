@@ -10,7 +10,7 @@
 
 (4) A Bíróságok fejezetnél a fejezetet irányító szerv vezetője az Országos Igazságszolgáltatási Tanács elnöke.
 
-(5) A Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet esetében a helyi önkormányzatokért felelős miniszter, a költségvetés közvetlen bevételei és kiadásai fejezet és Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az államháztartásért felelős miniszter gyakorolja az (1) bekezdésben megjelölt jogokat és kötelezettségeket.
+(5) A Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet esetében a helyi önkormányzatokért felelős miniszter, a költségvetés közvetlen bevételei és kiadásai fejezet esetében az államháztartásért felelős miniszter, az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az állami vagyon felügyeletéért felelős miniszter, a Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet esetében az agrárpolitikáért felelős miniszter gyakorolja az (1) bekezdésben megjelölt jogokat és kötelezettségeket.
 
 (6) Az Uniós fejlesztések fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a Nemzeti Fejlesztési Ügynökség elnöke, szabályozási jogait és kötelezettségeit a fejlesztéspolitikáért felelős miniszter gyakorolja.
 

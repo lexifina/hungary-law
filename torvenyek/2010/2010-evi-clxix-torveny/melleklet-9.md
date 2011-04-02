@@ -228,6 +228,10 @@ VIII. MAGYAR KÖZTÁRSASÁG ÜGYÉSZSÉGE fejezetben
 
 Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alcím)
 
+XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
+
+Víz-, környezeti és természeti katasztrófa kárelhárítás (20. cím, 2. alcím, 8. jogcímcsoport)
+
 XIII. HONVÉDELMI MINISZTÉRIUM fejezetben
 
 Válságkezelő és békeműveletek keretében felajánlott alegységek (NRF és Battle Group) (8. cím, 2. alcím, 1. jogcím-csoport)

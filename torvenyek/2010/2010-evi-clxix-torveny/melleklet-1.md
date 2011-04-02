@@ -4224,6 +4224,104 @@ Intézményi beruházási kiadások
 
 |
 
+14
+
+|
+
+Közgyűjteményi Ellátó Szervezet
+
+|
+
+|
+
+|
+
+239,3
+
+|
+
+|
+
+1
+
+|
+
+Működési költségvetés
+
+|
+
+|
+
+190,0
+
+|
+
+|
+
+1
+
+|
+
+Személyi juttatások
+
+|
+
+137,6
+
+|
+
+|
+
+2
+
+|
+
+Munkaadókat terhelő járulékok
+
+|
+
+37,5
+
+|
+
+|
+
+3
+
+|
+
+Dologi kiadások
+
+|
+
+223,0
+
+|
+
+|
+
+2
+
+|
+
+Felhalmozási költségvetés
+
+|
+
+|
+
+1
+
+|
+
+Intézményi beruházási kiadások
+
+|
+
+31,2
+
+|
+
 15
 
 |
@@ -7202,15 +7300,15 @@ Fejezeti általános tartalék
 
 |
 
-243 481,7
+243 911,0
 
 |
 
-54 239,7
+54 429, 7
 
 |
 
-189 242,0
+189 481,3
 
 |
 
@@ -7448,15 +7546,15 @@ X. fejezet összesen:
 
 |
 
-291 754,9
+292 184,2
 
 |
 
-55 742,7
+55 932,7
 
 |
 
-190 116,9
+190 356,2
 
 |
 
@@ -9678,7 +9776,7 @@ Dologi kiadások
 
 |
 
-Víz- és környezeti kárelhárítás
+Víz-, környezeti és természeti katasztrófa kárelhárítás
 
 |
 
@@ -28876,7 +28974,7 @@ Közgyűjtemények
 
 |
 
-10 667,9
+10 428,6
 
 |
 
@@ -28892,7 +28990,7 @@ Működési költségvetés
 
 |
 
-8 759,5
+8569, 5
 
 |
 
@@ -28906,7 +29004,7 @@ Személyi juttatások
 
 |
 
-8 008,0
+7870,4
 
 |
 
@@ -28920,7 +29018,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-2 243,0
+2205,5
 
 |
 
@@ -28934,7 +29032,7 @@ Dologi kiadások
 
 |
 
-8 450,7
+8227,7
 
 |
 
@@ -28978,7 +29076,7 @@ Intézményi beruházási kiadások
 
 |
 
-2 929,2
+2898,0
 
 |
 
@@ -39068,15 +39166,15 @@ Egyéb működési célú kiadások
 
 |
 
-917 266,7
+916 837,4
 
 |
 
-367 046,1
+366 856,1
 
 |
 
-550 220,6
+549 981,3
 
 |
 
@@ -39416,15 +39514,15 @@ XX. fejezet összesen:
 
 |
 
-1 545 555,7
+1 545 126,4
 
 |
 
-367 046,1
+366 856,1
 
 |
 
-550 220,6
+549 981,3
 
 |
 
@@ -43720,7 +43818,7 @@ Központi költségvetési szervek
 
 |
 
-28 631,6
+30 328,7
 
 |
 
@@ -44582,7 +44680,7 @@ XLII. fejezet összesen:
 
 |
 
-6 322 441,7
+6 324 138,8
 
 |
 
@@ -48712,7 +48810,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-13 151 248,0
+13 152 945,1
 
 |
 
@@ -48724,7 +48822,7 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
-–687 370,3
+–685 673,2
 
 |
 

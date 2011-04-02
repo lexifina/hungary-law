@@ -145,7 +145,3 @@ Terhességi-gyermekágyi segély (2. cím, 2. alcím, 1. jogcím-csoport)
 Táppénz (2. cím, 2. alcím, 2. jogcím-csoport, 1. jogcím)
 
 Gyermekápolási táppénz (2. cím, 2. alcím, 2. jogcím-csoport, 2. jogcím)
-
-Baleseti táppénz (2. cím, 2. alcím, 2. jogcím-csoport, 3. jogcím)
-
-Kártérítési járadék (2. cím, 2. alcím, 4. jogcím-csoport)
