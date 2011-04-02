@@ -6,4 +6,6 @@
 
 (2) A rendeletet a hatálybalépést követően megkezdett közbeszerzési eljárásokra, szerződésekre, valamint szerződés-módosításokra kell alkalmazni.
 
-(3) A jelentős értékű közbeszerzések megindításának egyes kérdéseiről szóló 1132/2009. (VIII. 7.) Korm. határozat 2011. április 1-jén hatályát veszti.
+(3)[^1]
+
+[^1]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
