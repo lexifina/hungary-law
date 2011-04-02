@@ -1,9 +1,1 @@
 25. § A Ktv. 43. § (4) bekezdésében meghatározott határidőtől eltérően, 2011. évben a fővárosi, megyei kormányhivatalok esetében a kormánymegbízott, valamint a Nemzeti Államigazgatási Központ esetében a Nemzeti Államigazgatási Központ vezetője az alapilletmény eltérítéséről április 30-ig dönt.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
