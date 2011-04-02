@@ -1,4 +1,4 @@
-14. § (1) A minisztert és az államtitkárt minden naptári évben negyven munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára – a Miniszterelnökséget vezető államtitkár kivételével – a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
+14. § (1) A minisztert és az államtitkárt minden naptári évben húsz munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára – a Miniszterelnökséget vezető államtitkár kivételével – a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
 
 (2) A szabadság igénybevételét a kormányzati tevékenység összehangolásáért felelős miniszternek előzetesen be kell jelenteni.
 
