@@ -1,1 +1,0 @@
-## 3. § Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet (a továbbiakban: R.) 2. számú melléklete az 1. melléklet szerint módosul.
