@@ -26,7 +26,7 @@ c) az Állami Számvevőszék elnöke által – a Számvevőszék vezető áll�
 
 (10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
 
-(11) A közszolgálati médiaszolgáltató és az Alap nem alanya a társasági adónak, és személyes illetékmentességet élvez.
+(11) A közszolgálati médiaszolgáltató személyes illetékmentességet élvez, valamint nem alanya a társasági adónak. Az Alap és a közszolgálati médiaszolgáltatók az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
 
 (12) Az Alap és a közszolgálati médiaszolgáltatók egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló törvény alkalmazási körébe.
 
