@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-58-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 2010-58-00-00.8 |
 | 2011-02-18 | 8/2011. (II. 18.) AB határozat | 2010-58-00-00.9 |
 | 2011-04-01 | 2011. évi XXX. törvény | 2010-58-00-00.10 |
+| 2011-04-02 | 2011. évi XXX. törvény | 2010-58-00-00.11 |

@@ -1,4 +1,4 @@
-10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16–17. §-a, 17/B. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének i) pontja és (4) bekezdése nem alkalmazható.
+10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16–17. §-a, 17/B. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének j) pontja és (4) bekezdése nem alkalmazható.
 
 (2) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy áthelyezésen
 
