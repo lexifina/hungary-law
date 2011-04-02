@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-18-20-2
 | 2011-01-01 | 2010-18-20-2X.1 | 18/2010. (XII. 30.) NGM rendelet |
 | 2011-01-02 | 2010-18-20-2X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-04-01 | 2010-18-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-04-02 | 2010-18-20-2X.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
