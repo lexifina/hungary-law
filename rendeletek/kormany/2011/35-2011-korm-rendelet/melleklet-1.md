@@ -1,10 +1,4 @@
-## 16. § Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 7. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-## (A működési engedély kiadására)
-
-## „a) fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, valamint intézeten kívüli szülészeti és újszülött-ellátási tevékenységet nyújtó egészségügyi szolgáltató esetén az Országos Tisztifőorvosi Hivatal,”
-
-## (jogosult.)
+## 16. §[^1]
 
 1. melléklet a 35/2011. (III. 21.) Korm. rendelethez
 
@@ -83,3 +77,5 @@ h) fekvési rendellenesség: medence végű fekvés, haránt- vagy ferdefekvés,
 i) idő előtti burokrepedés, ha a szülés nem indul el spontán 12 órán belül, vagy a magzatvíz meconiumos,
 
 j) igazolt B típusú streptococcus fertőzés.
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
