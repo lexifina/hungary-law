@@ -6,4 +6,4 @@ b) a Ktv.-ben meghatározott felmentési idő mértéke meghaladhatja a 6 hónap
 
 c)–d)
 
-(2) A Magyar Államkincstár Részvénytársaság megszűnésekor – továbbfoglalkoztatási ajánlat elfogadása hiányában – a munkavállalókat a munkáltató jogutód nélküli megszűnésekor megillető juttatások illetik meg. Ezekben az esetekben a Magyar Államkincstár Részvénytársaság munkavállalóinak munkaviszonyát – a végkielégítés szempontjából – a Magyar Államkincstárnál, mint központi költségvetési szervnél eltöltött idő beszámításával, folyamatos jogviszonyként kell figyelembe venni. A munkavállalót a Magyar Államkincstár által 2001. december 31-ével közölt felmentési idő és a Magyar Államkincstár Részvénytársaságnál számított felmondási idő összeszámított mértékének felére járó átlagkereset illeti meg, amennyiben egyébként munkabérre jogosult.
+(2)

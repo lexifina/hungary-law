@@ -1,7 +1,7 @@
 125. § (1) 1993. április 1-jétől csak e törvény szerint létrehozott alap működhet.
 
-(2) A törvény hatálybalépésekor működő letéti számlákat felül kell vizsgálni, és az e törvény végrehajtási rendeletében meghatározott feltételek mellett meg kell szüntetni.
+(2)
 
-(3) A 121/C. § rendelkezéseit 2008. július 1-jétől kell alkalmazni. 2009. július 1-jétől költségvetési szervnél belső ellenőrzési tevékenységet csak az végezhet, aki a 121/C. §-ban meghatározott nyilvántartásban szerepel.
+(3)
 
 (4)
