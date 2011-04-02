@@ -1,3 +1,0 @@
-8. § Az Ekt. 11. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A (3) bekezdésben meghatározott határidőt az ügyintéző szerv nem tisztségviselő tagja esetében csak akkor kell alkalmazni, ha a megbízatás megszűnésére és az ügyintéző szerv megbízatással rendelkező tagjainak számára tekintettel az ügyintéző szerv – valamennyi tagjának megjelenése esetén – határozatképesen nem hívható össze. Ha e feltétel az ügyintéző szerv bármely tagja megbízatásának megszűnésére tekintettel utóbb teljesül, az erre okot adó körülménytől számított 30 napon belül a (3) bekezdés szerinti eljárással – valamennyi be nem töltött mandátum tekintetében – meg kell tartani a választást.”

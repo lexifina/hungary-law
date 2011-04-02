@@ -1,7 +1,0 @@
-27. § Az Ekt. 32. §-a helyébe a következő rendelkezés lép:
-
-„32. § (1) A kamarai tagsággal nem rendelkező egészségügyi dolgozó, ha egészségügyi tevékenységet 2011. június 1-jétől is végezni kíván – a 14/A. § (2)–(5) bekezdésében foglalt kivételekkel –, 2011. május 31-éig kéri a szakmai kamarába történő felvételét.
-
-(2) Az (1) bekezdés szerinti kérelemben nyilatkozni kell a 14. § (1) bekezdésének a)–c) pontjaiban foglalt feltételek meglétéről. A 14. § (1) bekezdés e) pontjában foglalt feltétel első alkalommal, e törvény erejénél fogva teljesítettnek tekintendő, azzal, hogy 2011. május 31. napjáig tagsági kérelmet benyújtó személy a 33. § (1) bekezdés alapján megalkotandó új alapszabály megalkotásától számított 30 napon belül a kamarai tagsági viszonyáról lemondhat akként, hogy őt a kamarába történt felvétele és a tagságról történt lemondása közötti időszakra tagdíjfizetési kötelezettség nem terheli.
-
-(3) Az (1) bekezdésben meghatározott határidőn belül benyújtott felvételi kérelem alapján létesülő tagsági jogviszony a kérelem benyújtásának napjával jön létre. Azon egészségügyi dolgozó tekintetében, aki az (1) bekezdés szerinti tagfelvételi kérelmet az (1) bekezdésben meghatározott határidőben benyújtotta, a kérelem jogerős elbírálásáig a 14/A. § (1) bekezdése szerinti követelmény teljesítettnek tekintendő.”
