@@ -1,3 +1,0 @@
-## 8. § Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet (a továbbiakban: R2.) 5. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A 4. § (1) bekezdés f)–g) pontja szerinti étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg állapotának figyelembevételével szükséges.”
