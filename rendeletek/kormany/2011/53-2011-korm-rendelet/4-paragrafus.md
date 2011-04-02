@@ -4,9 +4,7 @@
 
 (3)[^4] Ahol e rendelet hatálybalépése előtt alkotott kormányrendelet, miniszterelnöki rendelet, miniszteri rendelet vagy kormányhatározat Központi Szolgáltatási Főigazgatóságot említ, azon – ha jogszabály eltérően nem rendelkezik – Közbeszerzési és Ellátási Főigazgatóságot kell érteni.
 
-(4) A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet a következő 6. §-sal egészül ki:
-
-## „6. § A Főigazgatóság a feladatai ellátása során az üdültetési, elhelyezési, vendéglátási, üzemeltetési, gyermek- és ifjúsági, valamint egészségmegőrző-rehabilitációs feladatok tekintetében a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait, illetve működését veszi igénybe.”
+(4)[^5]
 
 (5) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) a következő 9/A. §-sal egészül ki:
 
@@ -265,3 +263,4 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 17. Taxi szolgáltatás
 
 [^4]: A 4. § (3) bekezdése a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+[^5]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
