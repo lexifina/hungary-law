@@ -6,9 +6,11 @@ b) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szer
 
 c) a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná vált vagy munkáját nem végzi megfelelően;
 
-d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (37/B. §); illetve
+d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (37/B. §);
 
-e) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott azt írásban kérelmezi.
+e) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott azt írásban kérelmezi; vagy
+
+f) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj [a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés] feltételével legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott nő azt írásban kérelmezi.
 
 (2) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie, és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 

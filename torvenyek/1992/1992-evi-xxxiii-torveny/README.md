@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2010-09-01 | 2010. évi XC. törvény | 1992-33-00-00.69 |
 | 2010-11-27 | 2010. évi CXXVI. törvény | 1992-33-00-00.70 |
 | 2011-01-01 | 2010. évi CLXXV. törvény | 1992-33-00-00.71 |
+| 2011-04-02 | 2011. évi XXX. törvény | 1992-33-00-00.72 |

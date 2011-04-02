@@ -4,15 +4,17 @@ a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, köza
 
 b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervnél munkaviszonyban, közszolgálati jogviszonyban töltött időt,
 
-c) a szolgálati jogviszony időtartamát, továbbá
+c) a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban töltött időt,
 
-d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
+d) a szolgálati jogviszony időtartamát, továbbá
 
-e) a hivatásos nevelő szülői jogviszonyban,
+e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 
-f) az e törvény, illetőleg a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+f) a hivatásos nevelő szülői jogviszonyban,
 
-g) az állami vezetői szolgálati jogviszonyban
+g) az e törvény, a köztisztviselők jogállásáról szóló törvény vagy a kormánytisztviselők jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+
+h) az állami vezetői szolgálati jogviszonyban
 
 töltött időt.
 
