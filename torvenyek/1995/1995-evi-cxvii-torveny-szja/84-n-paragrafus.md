@@ -1,0 +1,1 @@
+84/N. § Az 57/A. § (1) bekezdésének az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel módosított rendelkezését a magánszemély a fizetővendéglátó tevékenységére vonatkozó tételes átalányadózás 2011. évi választására is alkalmazhatja.

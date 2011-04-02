@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2010-12-22 | 2010. évi CLIV. törvény | 1995-117-00-00.83 |
 | 2011-01-01 | 2010. évi CXXIII. törvény | 1995-117-00-00.84 |
 | 2011-04-01 | 2011. évi XXIII. törvény | 1995-117-00-00.85 |
+| 2011-04-02 | 2011. évi XXXI. törvény | 1995-117-00-00.86 |
