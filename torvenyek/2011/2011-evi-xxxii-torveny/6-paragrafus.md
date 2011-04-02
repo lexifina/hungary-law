@@ -1,0 +1,13 @@
+6. § A Kvtv. 1. mellékletében
+
+a) A X. Közigazgatási és Igazságügyi Minisztérium kiegészül a 14. Közgyűjteményi Ellátó Szervezet címmel, melynek támogatási előirányzata 239,3 millió forint, 1. Működési költségvetés bevételi előirányzata 190,0 millió forint, 1. Személyi juttatások kiemelt előirányzat kiadási előirányzata 137, 6 millió forint, 2. Munkaadókat terhelő járulékok kiemelt előirányzat kiadási előirányzata 37,5 millió forint, 3. Dologi kiadások kiemelt előirányzat kiadási előirányzata 223,0 millió forint, 2. Felhalmozási költségvetés, 1. Intézményi beruházási kiadások kiemelt előirányzat kiadási előirányzata 31,2 millió forint.
+
+Az 1–15. cím összesen kiadási előirányzata 243 911,0 millió forintra, bevételi előirányzata 54 429, 7 millió forintra, támogatási előirányzata 189 481,3 millió forintra, a X. fejezet összesen kiadási előirányzata 292 184,2 millió forintra, bevételi előirányzata 55 932,7 millió forintra, támogatási előirányzata 190 356,2 millió forintra változik.
+
+b) A XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Környezetvédelmi célelőirányzatok alcím, 8. Víz- és környezeti kárelhárítás jogcím-csoport megnevezése „Víz-, környezeti és természeti katasztrófa kárelhárítás” megnevezésre változik.
+
+c) A XX. Nemzeti Erőforrás Minisztérium fejezet, 11. Közgyűjtemények cím támogatási előirányzata 10 428,6 millió forintra, 1. Működési költségvetés bevételi előirányzata 8569, 5 millió forintra, 1. Személyi juttatások kiemelt előirányzat kiadási előirányzata 7870,4 millió forintra, 2. Munkaadókat terhelő járulékok kiemelt előirányzat kiadási előirányzata 2205,5 millió forintra, 3. Dologi kiadások kiemelt előirányzat kiadási előirányzata 8227,7 millió forintra, 2. Felhalmozási költségvetés, 1. Intézményi beruházási kiadások kiemelt előirányzat kiadási előirányzata 2898,0 millió forintra változik.
+
+Az 1–20. cím összesen kiadási előirányzata 916 837,4 millió forintra, bevételi előirányzata 366 856,1 millió forintra, támogatási előirányzata 549 981,3 millió forintra, a XX. fejezet összesen kiadási előirányzata 1 545 126,4 millió forintra, bevételi előirányzata 366 856,1 millió forintra, támogatási előirányzata 549 981,3 millió forintra változik.
+
+d) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím, 1. Központi költségvetési szervek alcím bevételi előirányzata 30 328,7 millió forintra, a XLII. fejezet összesen bevételi előirányzata 6 324 138,8 millió forintra, a központi alrendszer bevételi főösszeg előirányzata 13 152 945,1 millió forintra, a főösszegek egyenlege –685 673,2 millió forintra változik.
