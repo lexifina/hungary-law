@@ -1,3 +1,0 @@
-1. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) 10. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A cégjegyzék fennálló, illetve törölt adatai, valamint a cégiratok – ideértve az elektronikus úton benyújtott, illetve elektronikus okirattá átalakított cégiratokat is – teljeskörűen nyilvánosak. Teljeskörűen nyilvánosak továbbá a benyújtott, de még el nem bírált bejegyzési kérelem és mellékletei is azzal, hogy a bejegyzési (változásbejegyzési) kérelem elbírálásának folyamatban létére a cégnyilvántartásnak utalnia kell. A törvényességi felügyeleti eljárás iratai e törvény rendelkezései szerint nyilvánosak.”

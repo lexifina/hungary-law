@@ -1,3 +1,0 @@
-12. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 6. §-ának (5) bekezdésében és 7. §-ának (5) bekezdésében a „2011. január 1-jétől” szövegrész helyébe a „2011. július 1-jétől” szöveg lép.
-
-(2) A Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvény 185. § (3) bekezdése az „innovációért (a” szövegrész helyett az „innovációért felelős miniszter (a” szöveggel, 256. § (3) bekezdése a „vezetője, Miniszterelnöki” szövegrész helyett a „vezetője, a Miniszterelnöki” szöveggel lép hatályba.
