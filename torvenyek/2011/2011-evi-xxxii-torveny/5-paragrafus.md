@@ -1,3 +1,0 @@
-5. § A Kvtv. 54. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet esetében a helyi önkormányzatokért felelős miniszter, a költségvetés közvetlen bevételei és kiadásai fejezet esetében az államháztartásért felelős miniszter, az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az állami vagyon felügyeletéért felelős miniszter, a Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet esetében az agrárpolitikáért felelős miniszter gyakorolja az (1) bekezdésben megjelölt jogokat és kötelezettségeket.”
