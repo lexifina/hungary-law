@@ -1,3 +1,1 @@
-1. § Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 24/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A központi költségvetési szerv és – a központi beruházások előirányzat-maradványából a (2) bekezdés rendelkezései alapján az államháztartásért felelős miniszter által jóváhagyott rész és a (7) bekezdés szerinti előirányzat-maradvány kivételével – a fejezeti kezelésű előirányzatok kötelezettségvállalással nem terhelt előirányzat-maradványának elvonásáról vagy felhasználásáról a Kormány dönt. Az elvont előirányzat-maradvány a központi költségvetést illeti meg.”
+1–3. §
