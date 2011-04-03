@@ -1,4 +1,4 @@
-23. § (1) Hatályát veszti a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvény 107. § (4) bekezdése.
+23. § (1)
 
 (2) Hatályát veszti a Ktv.
 

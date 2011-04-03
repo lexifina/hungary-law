@@ -16,6 +16,4 @@
 
 „(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha közigazgatási alapvizsgát tett vagy az alól mentesült.”
 
-(4) A Ktv. 25. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) Az OKV elnöke különösen indokolt esetben engedélyezheti a közigazgatási szakvizsga teljesítését közigazgatási szervnél szerzett kétéves gyakorlat hiányában is.”
+(4)
