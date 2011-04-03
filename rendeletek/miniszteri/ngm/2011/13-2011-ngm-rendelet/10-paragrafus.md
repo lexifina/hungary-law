@@ -2,4 +2,6 @@
 
 10. § (1) Ez a rendelet a kihirdetést követő 8. napon lép hatályba.
 
-(2) Az Adó- és Pénzügyi Ellenőrzési Hivatalnál a közszolgálati jogviszony létesítését megelőző pszichikai alkalmassági vizsgálatokról szóló 29/2008. (XI. 7.) PM rendelet hatályát veszti.
+(2)[^1]
+
+[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
