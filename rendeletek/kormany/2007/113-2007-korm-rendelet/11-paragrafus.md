@@ -1,3 +1,3 @@
-## 10. §[^8]
+## 10. §[^12]
 
-[^8]: A 10. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^12]: A 10. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.

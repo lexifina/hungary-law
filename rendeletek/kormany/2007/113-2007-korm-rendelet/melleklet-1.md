@@ -1,3 +1,5 @@
-1–2. melléklet a 113/2007. (V. 24.) Korm. rendelethez[^86]
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^86]: Az 1–2. mellékletet a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+1–2. melléklet a 113/2007. (V. 24.) Korm. rendelethez[^98]
+
+[^98]: Az 1–2. mellékletet a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.

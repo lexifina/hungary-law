@@ -10,8 +10,8 @@ c) arra, hogy a végrehajtás milyen járművön, továbbá arra, hogy kíséret
 
 (3) Külön jogszabályban meghatározott esetben pszichológus vagy szakorvos közreműködését kell igénybe venni, ha a kitoloncolással járó megterhelést az érintett mentális vagy egészségi állapota következtében átmenetileg nem vagy csak különleges feltételek mellett képes elviselni.
 
-(4)[^66] A kitoloncolás végrehajtását csak az idegenrendészeti kiutasítást elrendelő határozat vagy a jogerős bírósági ítélettel elrendelt kiutasítás végrehajtását elrendelő végzés birtokában, az abban foglaltak szerint lehet megkezdeni.
+(4)[^77] A kitoloncolás végrehajtását csak az idegenrendészeti kiutasítást elrendelő határozat vagy a jogerős bírósági ítélettel elrendelt kiutasítás végrehajtását elrendelő végzés birtokában, az abban foglaltak szerint lehet megkezdeni.
 
 (5) A végrehajtás megkezdésekor és befejezésekor meg kell állapítani, hogy az EGT-állampolgáron, illetve a családtagon vannak-e látható külsérelmi nyomok, és azok dokumentálásáról gondoskodni kell.
 
-[^66]: Az 54. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^77]: Az 54. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.

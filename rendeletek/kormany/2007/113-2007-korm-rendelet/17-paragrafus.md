@@ -1,4 +1,4 @@
-17. §[^15] (1) A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Hivatal látja el.
+17. §[^23] (1) A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Hivatal látja el.
 
 (2) Ha – a Tv. 3. § (6) bekezdése alapján – a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához a központi vízumhatóság hozzájárulása szükséges, a konzuli tisztviselő köteles a vízumkérelmet a benyújtást követően haladéktalanul felterjeszteni a központi vízumhatósághoz.
 
@@ -14,4 +14,4 @@ tájékoztatja a konzuli tisztviselőt.
 
 (5) Ha a központi vízumhatóság úgy ítéli meg, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítására okot adó körülmény nem áll fenn, a vízumkérelem felterjesztését követően megkeresi az egyeztetést kérő schengeni államok központi hatóságait, nyilatkozzanak arra nézve, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához hozzájárulnak-e.
 
-[^15]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

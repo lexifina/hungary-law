@@ -1,8 +1,8 @@
-21. § (1)[^27] Elegendő forrással rendelkezik a kérelmező, ha a háztartásában az egy főre jutó havi jövedelem eléri az öregségi nyugdíj mindenkori legkisebb összegét. Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.)
+21. § (1)[^38] Elegendő forrással rendelkezik a kérelmező, ha a háztartásában az egy főre jutó havi jövedelem eléri az öregségi nyugdíj mindenkori legkisebb összegét. Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.)
 
 a) 32/B. §-ának (1) bekezdése alapján időskorúak járadékában,
 
-b)[^28] 33. §-a alapján aktív korúak ellátásában,
+b)[^39] 33. §-a alapján aktív korúak ellátásában,
 
 c) 43/B. §-a alapján ápolási díjban
 
@@ -46,8 +46,8 @@ a) rendszeres jövedelem esetén a tartózkodás bejelentését megelőző háro
 
 b) nem rendszeres jövedelem esetén a tartózkodás bejelentését megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
-(8)[^29] E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül az Szt. 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.
+(8)[^40] E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül az Szt. 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.
 
-[^27]: A 21. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^28]: A 21. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^29]: A 21. § (8) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^38]: A 21. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^39]: A 21. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^40]: A 21. § (8) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdésének c) pontja szerint módosított szöveg.
