@@ -8,8 +8,14 @@ a) az egyszeri utazásra jogosító úti okmány kiadásának díját,
 
 b)[^4] a tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló és a fellebbezési eljárás díját,
 
+c)[^5] a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, megsemmisítése, vagy visszavonása tárgyában hozott döntés elleni fellebbezés díját,
+
+d)[^6] a kishatárforgalmi engedély iránti kérelem tárgyában hozott döntés elleni fellebbezés díját
+
 ## ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
 
 (4) A bejelentési kötelezettségek teljesítése díjmentes.
 
 [^4]: A 3. § (3) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdés c) pontját a 12/2010. (XII. 23.) BM rendelet 21. § (2) bekezdése iktatta be.
+[^6]: A 3. § (3) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 21. § (2) bekezdése iktatta be.

@@ -1,10 +1,16 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^12]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^14]
 
 ## Az egyes eljárások díja
 
 I. Vízumdíjak
 
-| 1. Szezonális munkavállalási vízum kiadására irányuló eljárás díja | 40 EUR |
+| 1. A három hónapot meg nem haladó tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 30 EUR |
+
+| 2. A három hónapot meg nem haladó tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 8 300 Ft |
+
+| 3. Szezonális munkavállalási vízum kiadására irányuló eljárás díja | 40 EUR |
+
+| 4. Kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 10 EUR |
 
 II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 
@@ -20,9 +26,9 @@ II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 
 | 6. Tartózkodási engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 5 000 Ft |
 
-III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összefüggő
+III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összefüggő igazgatási
 
-## igazgatási szolgáltatási díjak
+## szolgáltatási díjak
 
 | 1. Bevándorolt státuszt igazoló okmány meghosszabbítására irányuló eljárás díja | 5 000 Ft |
 
@@ -104,4 +110,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^12]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 2. §-ával megállapított szöveg.
