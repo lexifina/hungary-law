@@ -16,6 +16,6 @@ f) a jogosultja tartózkodási engedély okmányt, letelepedett státuszt igazol
 
 g) jogosultja meghalt.
 
-h)[^58] jogosultja magyar állampolgárságot szerzett.
+h)[^71] jogosultja magyar állampolgárságot szerzett.
 
-[^58]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.
+[^71]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.

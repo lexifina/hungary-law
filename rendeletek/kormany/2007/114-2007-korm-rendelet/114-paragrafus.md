@@ -4,7 +4,7 @@
 
 ## és tartózkodási tilalom elrendelése
 
-114. §[^111] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
+114. §[^124] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
 
 (2) A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy a Magyar Köztársaság államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 9. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
 
@@ -42,4 +42,4 @@ b) a Tv. 43. § (2) bekezdés e) pontja alapján kizárólag az egészségügyi 
 
 (7) Amennyiben a külpolitikáért felelős miniszter a vízumeljárás alapján a vízumkérelmezőre vonatkozóan a Tv. 43. § (1) bekezdés c) pontjában foglaltak fennállását valószínűsíti, erről haladéktalanul értesíti a veszélyeztetett érdek védelméért felelős rendvédelmi szervet.
 
-[^111]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^124]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.

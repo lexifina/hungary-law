@@ -1,6 +1,6 @@
 ## 9. § A külpolitikáért felelős miniszter külön jogszabály szerint dönt a diplomáciai vagy nemzetközi jogon alapuló más kiváltságot és mentességet élvező személyek és családtagjaik, a magyarországi diplomáciai vagy konzuli képviseletek vagy nemzetközi szervezetek tagjaihoz látogatás céljából beutazók, valamint az olyan személyek három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmeiről, akiknek a beutazásához külpolitikai érdek fűződik.
 
-10. §[^9] (1) A Vízumkódex VI. fejezetében szabályozott három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet a Magyar Köztársaság közúti, légi, valamint vízi határátkelőhelyén (a továbbiakban együtt: határátkelőhely) a Rendőrségnél lehet előterjeszteni.
+10. §[^10] (1) A Vízumkódex VI. fejezetében szabályozott három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet a Magyar Köztársaság közúti, légi, valamint vízi határátkelőhelyén (a továbbiakban együtt: határátkelőhely) a Rendőrségnél lehet előterjeszteni.
 
 (2) A határátkelőhelyen előterjesztett három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet a Rendőrség köteles haladéktalanul – elektronikus úton – döntésre felterjeszteni a Hivatalhoz.
 
@@ -8,4 +8,13 @@
 
 (4) A kérelemnek helyt adó döntés esetén a három hónapot meg nem haladó tartózkodásra jogosító vízumot a Rendőrség állítja ki a kérelmező részére.
 
-[^9]: A 10. § a 96/2010. (III. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+(5)[^11] A határátkelőhelyen előterjesztett három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása tárgyában hozott döntés elleni fellebbezést a döntés közlését követő három napon belül a határátkelőhelyen, a Hivatalnál, vagy az idegenrendészetért és menekültügyért felelős miniszternél lehet előterjeszteni.
+
+(6)[^12] A határátkelőhelyen előterjesztett fellebbezést a Rendőrség haladéktalanul felterjeszti a Hivatalhoz. A Hivatal a fellebbezést soron kívül felterjeszti az idegenrendészetért és menekültügyért felelős miniszternek.
+
+(7)[^13] Az idegenrendészetért és menekültügyért felelős miniszter a döntését öt napon belül hozza meg.
+
+[^10]: A 10. § a 96/2010. (III. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^11]: A 10. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 30. §-a iktatta be.
+[^12]: A 10. § (6) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 30. §-a iktatta be.
+[^13]: A 10. § (7) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 30. §-a iktatta be.

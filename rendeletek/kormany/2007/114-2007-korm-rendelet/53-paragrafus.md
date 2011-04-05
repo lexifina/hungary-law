@@ -16,6 +16,6 @@ f) a jogosultja letelepedett státuszt igazoló okmányt, vagy a szabad mozgás 
 
 g) jogosultja meghalt;
 
-h)[^73] jogosultja magyar állampolgárságot szerzett.
+h)[^86] jogosultja magyar állampolgárságot szerzett.
 
-[^73]: Az 53. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 40. §-a iktatta be.
+[^86]: Az 53. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 40. §-a iktatta be.

@@ -16,6 +16,6 @@ d) a bevándorlási engedéllyel, letelepedési engedéllyel vagy nemzeti letele
 
 e) a Tv. 30. § (1) bekezdés a) pontja alapján kiállított ideiglenes tartózkodásra jogosító igazolással,
 
-f)[^104] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
+f)[^117] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
 
-[^104]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^117]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.

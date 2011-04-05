@@ -6,6 +6,6 @@
 
 (4) A regionális igazgatóság a (2) bekezdésben foglalt, az úti okmány érvényességi idejére vonatkozó feltételtől – kivételesen – nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből eltekinthet, feltéve, hogy az úti okmány érvényességi ideje meghaladja az engedélyezett tartózkodás időtartamát.
 
-(5)[^72] A tartózkodási engedély érvényességi ideje alatt a tartózkodási cél megváltozására tekintettel benyújtott tartózkodási engedély kérelem esetén a tartózkodási engedély érvényességét a regionális igazgatóság az előző tartózkodási engedély érvényességi idejénél rövidebb időtartamra is megállapíthatja. A tartózkodási engedély érvényessége azonban a megváltozott tartózkodási cél vonatkozásában a Tv.-ben megállapított időtartamot nem haladhatja meg. A korábban kiadott tartózkodási engedélyt a regionális igazgatóság érvényteleníti.
+(5)[^85] A tartózkodási engedély érvényességi ideje alatt a tartózkodási cél megváltozására tekintettel benyújtott tartózkodási engedély kérelem esetén a tartózkodási engedély érvényességét a regionális igazgatóság az előző tartózkodási engedély érvényességi idejénél rövidebb időtartamra is megállapíthatja. A tartózkodási engedély érvényessége azonban a megváltozott tartózkodási cél vonatkozásában a Tv.-ben megállapított időtartamot nem haladhatja meg. A korábban kiadott tartózkodási engedélyt a regionális igazgatóság érvényteleníti.
 
-[^72]: Az 51. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 38. §-a iktatta be.
+[^85]: Az 51. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 38. §-a iktatta be.

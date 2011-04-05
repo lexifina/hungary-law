@@ -1,6 +1,6 @@
-## Az Európai Unió tagállamai területének önkéntes elhagyása[^109]
+## Az Európai Unió tagállamai területének önkéntes elhagyása[^122]
 
-## 113. §[^110] A harmadik országbeli állampolgár tartózkodása jogszerűségét az önkéntes távozásra nyitva álló határidő leteltéig
+## 113. §[^123] A harmadik országbeli állampolgár tartózkodása jogszerűségét az önkéntes távozásra nyitva álló határidő leteltéig
 
 a) a tartózkodási engedély iránti kérelmet elutasító határozattal;
 
@@ -12,5 +12,5 @@ d) a bírósági kiutasítás végrehajtására hozott végzéssel, vagy
 
 e) a teljesítési határidő meghosszabbításáról hozott végzéssel
 
-[^109]: A 113. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
-[^110]: A 113. § a 290/2010. (XII. 21.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^122]: A 113. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^123]: A 113. § a 290/2010. (XII. 21.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.

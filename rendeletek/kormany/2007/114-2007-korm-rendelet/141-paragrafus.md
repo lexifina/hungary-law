@@ -1,10 +1,10 @@
 ## A kitoloncolás
 
-141. § (1)[^150] A Tv. 65. § (7) bekezdésében foglalt közreműködés alatt a 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam (a továbbiakban: kérelmező állam) által kiutasított harmadik országbeli állampolgárnak, illetve a kíséretnek – ideértve a hatósági kísérőket, továbbá minden olyan személyt is, aki a harmadik országbeli állampolgár elkísérésért felelős, például az orvosi ellátásért felelős személyt és a tolmácsot – a Magyar Köztársaság területén légi úton történő kitoloncolás végrehajtása céljából történő áthaladásának engedélyezését és az abban történő segítségnyújtást kell érteni.
+141. § (1)[^163] A Tv. 65. § (7) bekezdésében foglalt közreműködés alatt a 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam (a továbbiakban: kérelmező állam) által kiutasított harmadik országbeli állampolgárnak, illetve a kíséretnek – ideértve a hatósági kísérőket, továbbá minden olyan személyt is, aki a harmadik országbeli állampolgár elkísérésért felelős, például az orvosi ellátásért felelős személyt és a tolmácsot – a Magyar Köztársaság területén légi úton történő kitoloncolás végrehajtása céljából történő áthaladásának engedélyezését és az abban történő segítségnyújtást kell érteni.
 
 (2) A Hivatal a kérelmező állam külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmének kézhezvételét követően hozzájárulásáról haladéktalanul, de legkésőbb két napon belül tájékoztatja a kérelmező állam kijelölt hatóságát. E határidő kellően indokolt esetben – a kérelmező állam kijelölt hatóságának egyidejű értesítésével – legfeljebb 48 órával meghosszabbítható.
 
-(3)[^151] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
+(3)[^164] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
 
 (4) A Magyar Köztársaság területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadja, illetve visszavonja, amennyiben az érintett harmadik országbeli állampolgár vonatkozásában a Tv. 51. §-ban meghatározott visszaküldési tilalom áll fenn.
 
@@ -22,8 +22,8 @@ e) a harmadik országbeli állampolgár átszállítása veszélyezteti a Magyar
 
 (6) A légi átszállításhoz való hozzájárulás visszavonásáról – a visszavonás okának megjelölésével –, illetve az átszállítást lehetetlenné tevő egyéb okokról a kérelmező állam kijelölt hatóságát haladéktalanul tájékoztatni kell.
 
-(7)[^152] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
+(7)[^165] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
 
-[^150]: A 141. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^151]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^152]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^163]: A 141. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^164]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^165]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

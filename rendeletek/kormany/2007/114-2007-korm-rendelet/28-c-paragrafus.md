@@ -1,4 +1,4 @@
-28/C. §[^33] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
+28/C. §[^43] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
 
 a) a kishatárforgalmi engedély kiadási feltételeit nem teljesíti;
 
@@ -20,7 +20,16 @@ c) hamis adatot tartalmaz, vagy meghamisították;
 
 d) jogosultja meghalt;
 
-e)[^34] jogosultja magyar állampolgárságot szerzett.
+e)[^44] jogosultja magyar állampolgárságot szerzett.
 
-[^33]: A 28/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
-[^34]: A 28/C. § (4) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 34. § (1) bekezdése iktatta be.
+(5)[^45] A kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
+
+(6)[^46] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
+
+(7)[^47] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
+
+[^43]: A 28/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 28/C. § (4) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 34. § (1) bekezdése iktatta be.
+[^45]: A 28/C. § (5) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^46]: A 28/C. § (6) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^47]: A 28/C. § (7) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
