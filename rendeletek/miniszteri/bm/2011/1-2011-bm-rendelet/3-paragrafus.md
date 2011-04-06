@@ -1,1 +1,3 @@
-## 2. § A szabad mozgás és tartózkodás jogával rendelkező személyek, valamint a harmadik országbeli állampolgárok beutazásával és tartózkodásával kapcsolatos eljárások díjáról szóló 28/2007. (V. 31.) IRM rendelet 2. melléklete helyébe a 2. melléklet lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

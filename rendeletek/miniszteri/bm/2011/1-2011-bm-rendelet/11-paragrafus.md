@@ -1,4 +1,4 @@
-## 10. §[^6]
+## 10. §[^7]
 
 ## 11. § Ez a rendelet
 
@@ -6,4 +6,4 @@ a) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 
 b) a Közösségi Vízumkódex létrehozásáról szóló (Vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [a 2. melléklet I. pont 1–2. pontja];
 
-[^6]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1-20-0A
 | --- | --- | --- |
 | 2011-02-19 | 2011-1-20-0A.1 | 1/2011. (II. 18.) BM rendelet |
 | 2011-02-20 | 2011-1-20-0A.2 | 2010: CXXX. törvény |
+| 2011-04-06 | 2011-1-20-0A.3 | 2010: CXXX. törvény |
