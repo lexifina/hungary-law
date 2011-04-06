@@ -1,0 +1,3 @@
+3. § Az Smtv. 13. §-a helyébe a következő rendelkezés lép:
+
+„13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.”
