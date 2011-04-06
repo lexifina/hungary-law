@@ -24,7 +24,7 @@ ch) a médiaszolgáltatások és műsorszámok támogatására vonatkozó szabá
 
 d) ellátja a szolgáltatás megkezdésének elmaradása esetén a médiaszolgáltatási jogosultság megszűnésével, megszüntetésével kapcsolatos feladatokat,
 
-e) a 182. § u) pont kivételével eljár a kiegyensúlyozott tájékoztatás kötelezettségét érintő panaszok tekintetében (Smtv. 13. § (2) bekezdés és e törvény 12. §-a),
+e) a 182. § u) pont kivételével eljár a kiegyensúlyozott tájékoztatás kötelezettségét érintő panaszok tekintetében (Smtv. 13. § és e törvény 12. §-a),
 
 f) ellenőrzi a közszolgálati médiaszolgáltatások továbbítására vonatkozó kötelezettségek érvényesülését (74. §),
 

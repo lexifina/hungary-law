@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-185-00-00.2 |
 | 2011-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-185-00-00.3 |
 | 2011-04-02 | 2011. évi XXXI. törvény | 2010-185-00-00.4 |
+| 2011-04-06 | 2011. évi XIX. törvény | 2010-185-00-00.5 |

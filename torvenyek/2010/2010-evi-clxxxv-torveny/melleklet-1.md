@@ -35,5 +35,3 @@ n) az irodalom, a színház-, a film-, az előadó-, a zene-, a tánc-, a képz�
 2. Az a)–h) pontban meghatározott szervezetek egy-egy főt delegálhatnak.
 
 3. Az i)–n) pontban meghatározott szervezetek abban az esetben vehetnek részt a delegálásban, ha a jelölés előtt legkésőbb harminc nappal nyilvántartásba vetették magukat a Hivatalnál. A Hivatal a nyilvántartásba vételről hatósági határozatban dönt, amely döntéssel szemben fellebbezésre nincsen mód, annak felülvizsgálatát bíróság előtt lehet kérni.
-
-4. Az i)–n) pontban meghatározott szervezetek egy-egy főt delegálhatnak oly módon, hogy az egyazon pont alatt megjelölt szervezetek összesen egy főt delegálhatnak. Az egyazon pont alatt megjelölt és regisztrált szervezetek egymással megállapodhatnak a delegált személyt illetően. Amennyiben ilyen megállapodás nem születik, a Hivatal sorsolással dönti el, hogy melyik szervezet jelöltje delegálható.

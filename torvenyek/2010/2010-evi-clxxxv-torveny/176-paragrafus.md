@@ -1,8 +1,8 @@
 ## Eljárás a más tagállamban letelepedett médiatartalom-szolgáltatóval szemben
 
-176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, kizárólag a Magyar Köztársaság területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés c)–d) pontja szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
-a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. §-át, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
+a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
 
 b) a Médiatanács által e bekezdés alapján meghozandó, a terjesztés korlátozását célzó határozatot megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett előírást,
 
