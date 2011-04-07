@@ -12,15 +12,25 @@ Melléklet a 19/2006. (IV. 24.) IM rendelethez[^15]
 
 Az igazságügyi szakértői igazolvány
 
-Az igazolvány előlapja:
+| Az igazolvány előlapja: |  | Az igazolvány hátlapja: |
 
-| I G A Z S Á G Ü G Y I S Z A K É R T Ő I I G A Z O L V Á N Y (igazolványkép) (igazolvány sorszáma) | IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTÉRIUM (neve) (anyja neve) (szül. hely, idő) (nyilvántartási szám) |
+|  | KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM |  | SZAKTERÜLETE: |
 
-Az igazolvány hátlapja:
+| címer |  |
 
-| SZAKTERÜLETE: A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 137. §-a 2. pontjának e) alpontja alapján az igazságügyi szakértő a bírósági vagy más hatósági eljárásban közfeladatot ellátó személynek minősül. |
+| IGAZSÁGÜGYI SZAKÉRTŐI IGAZOLVÁNY |  |  |
+
+| (igazolványkép) | (neve) |  |
+
+| (anyja neve) |  |
+
+| (szül. hely, idő) |  |
+
+| (nyilvántartási szám) |  |
+
+| (igazolvány sorszáma) |  | A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 137. §-a 2. pontjának e) alpontja alapján az igazságügyi szakértő a bírósági vagy más hatósági eljárásban közfeladatot ellátó személynek minősül. |
 
 [^12]: A 10. § (2) bekezdését a 43/2009. (IX. 22.) IRM rendelet 37. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 10. § (4) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (2) bekezdés c) és f) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^14]: A 10. § (5) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A melléklet a 31/2006. (XII. 21.) IRM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^15]: A melléklet a 9/2011. (III. 8.) KIM rendelet 9. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a folyamatban lévő közigazgatási hatósági eljárások során is alkalmazni kell.
