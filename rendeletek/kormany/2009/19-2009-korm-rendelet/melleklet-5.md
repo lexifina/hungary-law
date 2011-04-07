@@ -756,21 +756,21 @@ Földgáz rendszerirányítására vonatkozó működési engedély
 
 6. az engedélyköteles tevékenységet végző szervezetek közötti kapcsolatokat szabályozó belső rendet.
 
-II. Fejezet
+II. Fejezet[^282]
 
 Földgázszállításra vonatkozó működési engedély
 
-## A Hivatalhoz benyújtott földgázszállításra vonatkozó engedély iránti kérelemhez mellékelni kell:
+## A) A földgázszállításra vonatkozó engedély iránti kérelem benyújtásával együtt a Hivatalhoz be kell nyújtani:
 
-1. a kérelem benyújtását megelőző évre elkészített éves beszámolót,
+1. a kérelem benyújtását megelőző évre elkészített éves beszámolót, vagy ha a kérelmező éves beszámoló benyújtására nem volt kötelezett, akkor a nyitómérleget,
 
 2. 3 évre szóló üzleti tervet,
 
 3. a 7. számú mellékletben megadott szempontok szerint ellenőrzött független könyvvizsgálói véleményt az üzleti tervről,
 
-4. a kérelmezőnek a GET-ben, e rendeletben és más jogszabályban, az ÜKSZ-ben és az üzletszabályzatában előírt, illetve a vállalt feladatai ellátásához szükséges adatforgalmi és informatikai rendszer bemutatását,
+4. a kérelmezőnek a GET-ben, az e rendeletben és más jogszabályban, az ÜKSZ-ben és az üzletszabályzatában előírt, illetve a vállalt feladatai ellátásához szükséges adatforgalmi és informatikai rendszer bemutatását,
 
-5. a kérelmező társaság teljes szervezetét bemutató szervezeti ábrát, szervezeti és működési szabályzatot, a döntési és hatásköri rendszert, saját szervezetén belül az egyes a GET-ben meghatározott tevékenységek végzésére kialakított szervezeti egységek bemutatását és elhelyezkedését a döntési hatásköri rendszerben, táblázatos összefoglalást az előírt szükséges és a rendelkezésre álló személyzet létszámáról szakképzettség szerint,
+5. a kérelmező társaság teljes szervezetét bemutató szervezeti ábrát, szervezeti és működési szabályzatot, a döntési és hatásköri rendszert, saját szervezetén belül az egyes, a GET-ben meghatározott tevékenységek végzésére a 4. § (1) bekezdés c) pont cb)–cg) alpontjainak megfelelően kialakított szervezeti egységek bemutatását és elhelyezkedését a döntési hatásköri rendszerben, táblázatos összefoglalást az előírt szükséges és a rendelkezésre álló személyzet létszámáról szakképzettség szerinti bontásban vagy a 125. § (4) bekezdés szerinti kérelmező esetében a szervezeti felépítés tervét,
 
 6. az engedélyes tevékenység végzéséhez szükséges módszerek, eljárások, technológiák bemutatását,
 
@@ -780,9 +780,9 @@ Földgázszállításra vonatkozó működési engedély
 
 9. mérési, felosztási és elszámolási rendszer leírását,
 
-10. jóváhagyásra beterjesztett megfelelési programot,
+10. integrált földgázipari vállalkozás esetében a jóváhagyásra beterjesztett megfelelési programot,
 
-11. a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 24. § (3) bekezdése szerinti a bányafelügyelet által jóváhagyott minőségbiztosítási rendszer leírását, vagy kidolgozásának ütemtervét,
+11. a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 24. § (3) bekezdése szerinti a bányafelügyelet által jóváhagyott minőségbiztosítási rendszer leírását vagy kidolgozásának tervét,
 
 12. a csatlakozó rendszerek üzemeltetőivel kötött együttműködési megállapodásokat
 
@@ -798,15 +798,15 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^272] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13. az MBFH által kiadott – az engedélyes műszaki-biztonsági és minőségbiztosítási szempontú előzetes minősítését tartalmazó – határozatot,
 
-14.[^273]
+14. az MBFH által jóváhagyott, az előírt szakszemélyzet szakképzettség szerinti bemutatását, valamint elhelyezkedését a szervezeti egységekben,
 
-15. üzemeltetési szerződéseket,
+15. ha a szállítóvezeték rendszer valamely része nem a kérelmező rendszerüzemeltető tulajdonába kerül, a rendszerek üzemeltetésére kötött üzemeltetési szerződéseket,
 
-16. 3 évre szóló kapacitásigény felmérést, és az ez alapján elkészített tervezett fejlesztések leírását,
+16. 3 évre szóló kapacitásigény felmérést, és az ez alapján elkészített tervezett fejlesztések leírását vagy a 125. § (4) bekezdés szerinti kérelmező esetében a fejlesztést indokoló tervet,
 
-17. a szállítóvezeték-rendszer műszaki leírását
+17. a szállítóvezeték-rendszer műszaki leírását,
 
 a) a szállítóvezeték bemutatása kezdő és végpontjaik, valamint egyéb jellemzőik megjelölésével,
 
@@ -827,6 +827,10 @@ h) a mérő és adatátviteli eszközök leírásával,
 18. a földgáz szállítására a rendszerhasználókkal, valamint a rendszerszintű szolgáltatásokra a rendszerüzemeltetőkkel kötött szerződéseket vagy előszerződéseket,
 
 19. Minőség Elszámolási Rendet.
+
+B) Az A) pont 4., 6., 7., 8., 9., 10., 12., 15., 17., 18. vagy 19. alpontjaiban foglalt dokumentumok a 125. § (5) bekezdésben meghatározott határidőben is benyújthatók.
+
+C) Ha a kérelmező az A) pont 5. és 16. alpontjaiban foglalt esetben tervet nyújtott be, akkor a 125. § (5) bekezdés szerinti határidőben köteles benyújtani a 125. § (4) bekezdés hatálya alá nem tartozó kérelmezők számára az A) pont 5. és 16. alpontjaiban meghatározott végleges dokumentumokat.
 
 III. Fejezet
 
@@ -870,9 +874,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^274] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^283] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^275]
+14.[^284]
 
 15. üzemeltetési szerződéseket,
 
@@ -1004,9 +1008,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^276] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^285] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^277]
+14.[^286]
 
 15. üzemeltetési szerződéseket,
 
@@ -1110,11 +1114,11 @@ Vezetékes PB-gáz szolgáltatásra vonatkozó működési engedély
 
 9. mérési, felosztási és elszámolási rendszer leírását,
 
-10.[^278]
+10.[^287]
 
-11.[^279] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+11.[^288] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-12.[^280]
+12.[^289]
 
 13. üzemeltetési szerződéseket,
 
@@ -1188,12 +1192,11 @@ Szervezett földgázpiac működtetésére vonatkozó működési engedély
 
 9. ellenőrzött minőségbiztosítási rendszer bevezetésének ütemtervét a bevezetés határidejével.
 
-[^272]: A Vhr. 5. számú melléklet II. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^273]: A Vhr. 5. számú melléklet II. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^274]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^275]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^276]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^277]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^278]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^279]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^280]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^282]: A Vhr. 5. számú melléklet II. Fejezete az 54/2011. (IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^283]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^284]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^285]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^286]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^287]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^288]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^289]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

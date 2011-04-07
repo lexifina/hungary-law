@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2010-06-30 | 2009-19-20-22.8 | 209/2010. (VI. 30.) Korm. rendelet |
 | 2010-11-01 | 2009-19-20-22.9 | 116/2010. (IV. 15.) Korm. rendelet |
 | 2011-01-01 | 2009-19-20-22.10 | 289/2010. (XII. 21.) Korm. rendelet |
+| 2011-04-07 | 2009-19-20-22.11 | 54/2011. (IV. 7.) Korm. rendelet |

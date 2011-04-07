@@ -1,4 +1,4 @@
-139. §[^205] (1) A tevékenység-szétválasztási szabályok betartásáról és a megfelelési program végrehajtásáról a földgázszállítási, elosztási és tárolási engedélyes éves megfelelési jelentést készít.
+139. §[^212] (1) A tevékenység-szétválasztási szabályok betartásáról és a megfelelési program végrehajtásáról a földgázszállítási, elosztási és tárolási engedélyes éves megfelelési jelentést készít.
 
 (2) A megfelelési jelentést minden év március 1-jéig kell jóváhagyásra benyújtani a Hivatalnak.
 
@@ -30,4 +30,4 @@ j) az önálló vállalati arculat kialakítására tett intézkedések.
 
 (6) Megtévesztő vagy valótlan információk közlése esetén a Hivatal a földgázszállítási, elosztási, tárolási engedélyessel szemben a GET 119. §-a szerinti jogkövetkezményeket alkalmazza.
 
-[^205]: A Vhr. 139. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^212]: A Vhr. 139. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

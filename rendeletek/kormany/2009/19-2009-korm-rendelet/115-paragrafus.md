@@ -2,7 +2,7 @@
 
 ## Mérés, elszámolás
 
-115. §[^169] (1) A gáznapi veszteségek meghatározásának eljárásrendjét az ÜKSZ tartalmazza.
+115. §[^173] (1) A gáznapi veszteségek meghatározásának eljárásrendjét az ÜKSZ tartalmazza.
 
 (2) A profilba sorolt felhasználók fogyasztását az ÜKSZ-ben rögzített módon kell meghatározni.
 
@@ -18,4 +18,4 @@
 
 (8) A földgázszállító vezetéken a földgáz mennyiségének, minőségének mérését, meghatározását és tanúsítását a földgázszállító végzi.
 
-[^169]: A Vhr. 115. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^173]: A Vhr. 115. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

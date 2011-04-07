@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^287]
+10. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^296]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába
 
@@ -264,64 +264,4 @@ Eljáró igazgatási szerv megnevezése:
 
 Székhelye:
 
-A(z)........... számú határozat alapján igazolom, hogy
-
-a)1 (név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-fogyasztó
-
-b)1 a fenti fogyasztóval egy háztartásban lakó
-
-(név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-személy
-
-(i)1 a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesül,
-
-(ii)1 a vakok személyi járadékában részesül,
-
-(iii)1 olyan személy, aki vagy aki után szülője vagy eltartója a családok támogatásáról szóló törvény szerint magasabb összegű családi pótlékban részesül.
-
-Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás!
-
-Kelt:
-
-P. H.
-
-............................................................
-
-eljáró igazgatási szerv
-
-C)
-
-A KEZELŐORVOS – ENNEK HIÁNYÁBAN A HÁZIORVOS – TÖLTI KI
-
-Orvos neve (egészségügyi szolgáltató megnevezése):
-
-Orvos címe (egészségügyi szolgáltató székhelye):
-
-Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének száma):
-
-Igazolom, hogy a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Rendelet) 59. § (2) bekezdésében foglaltak alapján az igénylő, illetve a vele együtt lakó fogyatékkal élő személyek adatai és fogyatékosságuk jellege a következő:
-
-[^287]: A Vhr. 10. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^296]: A Vhr. 10. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
