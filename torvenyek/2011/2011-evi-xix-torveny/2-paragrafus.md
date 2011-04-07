@@ -1,3 +1,0 @@
-2. § Az Smtv. 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről. A médiarendszer egészének feladata a hiteles, gyors, pontos tájékoztatás ezen ügyekről és eseményekről.”
