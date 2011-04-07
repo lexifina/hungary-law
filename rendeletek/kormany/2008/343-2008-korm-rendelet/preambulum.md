@@ -1,1 +1,0 @@
-A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdésének a) és j) pontjában, valamint a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 18. § (1) bekezdésének b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
