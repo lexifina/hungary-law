@@ -1,0 +1,9 @@
+# 9/2011. (IV. 7.) NFM rendelet
+
+egyes fejezeti kezelésű előirányzatok felhasználásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-04-08 | 2011-9-20-2W.1 | 9/2011. (IV. 7.) NFM rendelet |

@@ -1,0 +1,9 @@
+## 10. Infrastruktúra ágazati szabályozási és szakképzési feladatok
+
+16. § (1) Az előirányzat célja a nemzeti érdekeket képviselő ágazati stratégia megvalósítása, a nemzetközi kötelezettségek teljesítése érdekében forrás biztosítása az egyes ágazatokat érintő szabályozási feladatok szakmai előkészítésére, egyeztetésére. Az előirányzat felhasználható továbbá a klímapolitikai szakfeladatokhoz kapcsolódó, – különösképpen a kvótaegységekből származtatható bevételek optimális felhasználásának lehetőségeit elősegítő – szakértői munkára és ezekhez a területekhez kapcsolódó tanulmányok, háttéranyagok, elemzések készítésére, valamint a kvótaértékesítés esélyeit javítandó marketing tevékenységekre, továbbá a készítendő dekarbonizációs útiterv hosszú távú hatásainak, valamint az éghajlatváltozás fizikai infrastruktúrára gyakorolt hatásának alkalmazkodási célú felméréséhez elengedhetetlenül szükséges szakértői anyagok létrehozásának finanszírozására.
+
+(2) Ezen kívül az előirányzat nyújt fedezetet a szakképzésről szóló 1993. évi LXXVI. törvény 5–6. §-ában és a szakképzési feladatokat meghatározó egyéb jogszabályokban megállapított feladatok elvégzésére, így a minisztérium felelősségi körébe tartozó szakképzések és az ahhoz kapcsolódó tevékenységek zavartalan lebonyolítására, különösen a képzési programok, írásbeli, interaktív és szóbeli tételek, országos szakmai tanulmányi versenyek, vizsgaelnöki kijelölések, tételexpediálások, adatbázis-készítések, továbbképzések és felkészítők biztosítására.
+
+(3) Az (1) bekezdésben meghatározott célokkal összefüggésben – a közbeszerzésekről szóló 2003. évi CXXIX. törvényben szabályozott módon – vállalkozási, illetve megbízási szerződés alapján történik a felhasználás. A (2) bekezdésben meghatározott feladatok ellátására a miniszter támogatási szerződést köt az NSZFI-vel.
+
+(4) Az előirányzatból finanszírozott, a közlekedési szakterülethez kapcsolódó feladatok ellátásában a KTI Nonprofit Kft. közreműködik.

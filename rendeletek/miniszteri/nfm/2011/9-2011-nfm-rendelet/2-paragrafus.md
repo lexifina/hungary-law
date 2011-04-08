@@ -1,0 +1,3 @@
+2. § (1) Az 1. § (1) bekezdés a)–o) pontjaiban felsorolt fejezeti kezelésű előirányzatok (a továbbiakban: előirányzatok) forrása a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvényben (a továbbiakban: költségvetési törvény) e célra jóváhagyott előirányzat.
+
+(2) Az előirányzatok terhére több év előirányzatait terhelő (éven túli) kötelezettségvállalást a nemzeti fejlesztési miniszter (a továbbiakban: miniszter) engedélyezhet az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 12/A. § és 100/D. §-ban foglalt rendelkezésekre, valamint az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 75. § (3) bekezdésében és a 95. §-ában rögzítettekre figyelemmel.
