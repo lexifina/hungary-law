@@ -1,4 +1,4 @@
-17. § (1) A közszolgálati jogviszonyt a munkáltató felmentéssel indokolás nélkül megszüntetheti.
+17. § (1)
 
 (2) A közszolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
