@@ -1,3 +1,0 @@
-33. § (1) A 8. § (1) bekezdés c) pont ca) alpontja és e) pontja szerinti támogatási jogcímek esetén a támogatási kérelmet az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon lehet visszavonni. A formanyomtatvány az ügyfél azonosításához szükséges és az igényelt támogatásra vonatkozó adatokat és nyilatkozatokat tartalmazza.
-
-(2) A 8. § (1) bekezdés c) pont ca) alpontja és e) pontja szerinti támogatási jogcímek esetén az elháríthatatlan külső ok (vis maior) miatti igazolási kérelem az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon nyújtható be. A formanyomtatvány az ügyfél azonosításához szükséges, a vis maior esetre és a vis maiorral érintett állatokra vonatkozó adatokat tartalmazza.
