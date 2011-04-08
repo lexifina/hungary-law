@@ -1,5 +1,0 @@
-11. § (1) Az előirányzat felhasználható a hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról szóló 17/2002. (III. 7.) KöViM rendeletben meghatározott, a Tisza és a Bodrog folyókon a köteles kompok közlekedésbiztonságot fokozó átalakítására.
-
-(2) Az (1) bekezdés szerinti fejlesztési feladatok finanszírozása pályázati úton történik. A pályázati dokumentációt az előirányzat kezelője készíti el. A kezelő a pályázati felhívást a Pénzügyminisztérium Támogatásokat Vizsgáló Irodájával, a pályázati dokumentációt pedig a Magyar Államkincstárral (a továbbiakban: Kincstár) egyezteti. A pályázat meghirdetéséről – a pályázati dokumentáció jóváhagyásával – a miniszter dönt.
-
-(3) A pályázati felhívás a pályázati konstrukció címét, a pályázók körét, a támogatandó tevékenységeket, a támogatás formáját és mértékét tartalmazó kivonatát a miniszter a Hivatalos Értesítőben teszi közzé. A teljes pályázati dokumentációt a miniszter által vezetett minisztérium honlapján kell közzétenni.
