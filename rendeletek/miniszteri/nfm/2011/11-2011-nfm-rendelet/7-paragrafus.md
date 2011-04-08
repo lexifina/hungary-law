@@ -1,0 +1,1 @@
+## „(3a) A bányafelügyelet a működési engedélyezési eljárás során dönt a bányászatihulladék-gazdálkodási terv jóváhagyásáról, az üzemeltető által felajánlott pénzügyi biztosíték elfogadásáról és a létesítmény 8. § szerinti besorolásáról.”

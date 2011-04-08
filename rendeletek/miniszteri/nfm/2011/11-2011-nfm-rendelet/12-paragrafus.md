@@ -1,0 +1,7 @@
+## 11. § Az R. 2. § 8. pont első mondatában az „a bányavállalkozó kérelmére a bányafelügyelet által engedélyezett” szövegrész helyébe az „a bányafelügyelet által engedélyezett” szöveg, a 2. § 11. pontjában a „bányafelügyelet véleménye” szövegrész helyébe a „bányafelügyelet döntése” szöveg, a 3. § (2) bekezdésében az „az üzemeltető megtesz” szövegrész helyébe az „az üzemeltető köteles megtenni” szöveg, a 4. § (1) bekezdésében a „tervet készít” szövegrész helyébe a „tervet köteles készíteni” szöveg, a 4. § (2) bekezdés a) pont ad) alpontjában az „újrahasznosítása a külön jogszabályban foglaltaknak megfelelően” szövegrész helyébe a „hasznosítása” szöveg, a 4. § (2) bekezdés b) pontjában az „újrafeldolgozással vagy visszanyeréssel” szövegrész helyébe az „újrafeldolgozással, újrahasználattal vagy visszanyeréssel” szöveg, az 5. § (14) bekezdésében az „a megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság” szövegrész helyébe az „az OKF területi szervének” szöveg, a 14. § (1) bekezdésében az „azt követően ötévenként” szövegrész helyébe az „azt követően évenként” szöveg, a 3. melléklet II. fejezet 9. pontjában a „katasztrófavédelmi hatósággal” szövegrész helyébe az „az OKF területi szervével” szöveg, a 3. melléklet II. fejezet 10. pontjában az „a katasztrófavédelmi hatóság” szövegrész helyébe az „az OKF területi szerve” szöveg lép.
+
+12. § (1) Az R. 3. melléklete az 1. melléklet szerint módosul.
+
+(2) Az R. a 2. melléklet szerinti 4. melléklettel egészül ki.
+
+(3) Az R. a 3. melléklet szerinti 5. melléklettel egészül ki.

@@ -1,0 +1,3 @@
+## „(5) Az (1) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás, bankgarancia, biztosítási szerződés alapján kiállított garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége, zálogjog vagy óvadék szolgálhat.
+
+## (6) A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.”
