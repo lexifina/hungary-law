@@ -1,0 +1,9 @@
+# 12/2011. (IV. 7.) NFM rendelet
+
+a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendelet és az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-04-08 | 2011-12-20-2W.1 | 12/2011. (IV. 7.) NFM rendelet |
