@@ -1,17 +1,11 @@
-## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára, mennyisége 2011. első negyedévre, és a felek köre
+## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2011. második negyedévre, valamint a felek köre
 
 | A volt közüzemi nagykereskedő | Földgázforrás mennyisége (TJ) | Földgázforrás ára (USD/GJ) |
 
-| E.ON Földgáz Trade Zrt. | 8207 | 9,460 |
+| E.ON Földgáz Trade Zrt. | 3345 | 8,889 |
 
-| TIGÁZ Zrt. | 4749 | 10,505 |
+| TIGÁZ Zrt. | 5803 | 10,529 |
 
-4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^14]
+4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^19]
 
-Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára, mennyisége 2011. első negyedévre
-
-| Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (USD/GJ) |
-
-| FŐGÁZ Zrt. | 1697 | 10,273 |
-
-[^14]: A 4. melléklet a 38/2010. (XII. 31.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet a 12/2011. (IV. 7.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
