@@ -1,5 +1,3 @@
-## 2. § A Vhr. 126. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-## (A GET 114. §-ában meghatározott valamennyi engedély iránti kérelemhez a következő dokumentumokat kell csatolni:)
-
-## „g) a rendszerüzemeltető által üzemeltetni kívánt, a kérelemben szereplő rendszer tulajdonjogáról szóló nyilatkozatot.”
+[^4]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
