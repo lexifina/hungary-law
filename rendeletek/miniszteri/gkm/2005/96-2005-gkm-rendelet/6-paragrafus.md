@@ -32,6 +32,6 @@ b) a létesítménnyel, illetve a létesítmény biztonsági övezetével érint
 
 c) a létesítmény helye szerinti építésügyi hatósággal (a bányabeli földalatti létesítmények kivételével), valamint
 
-d)[^9] közművek kezelőivel, üzemeltetőivel (a továbbiakban együtt: közművek üzemeltetői).
+d)[^10] közművek kezelőivel, üzemeltetőivel (a továbbiakban együtt: közművek üzemeltetői).
 
-[^9]: A 6. § (2) bekezdés d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 21. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 6. § (2) bekezdés d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 21. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

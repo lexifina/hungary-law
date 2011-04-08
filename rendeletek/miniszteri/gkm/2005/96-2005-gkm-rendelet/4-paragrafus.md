@@ -8,7 +8,7 @@ b) a létesítményben bekövetkezett, azonnali elhárítást igénylő hibák m
 
 c) a szénhidrogén termelésben, előkészítésben és az elsődleges feldolgozásban használt technológiai létesítményi csővezeték, a szénhidrogén szállító-, a földgáz elosztó- és célvezeték, valamint az egyéb gázok és ezek termékei szállítóvezetékeinek azonos nyomvonalon és azonos vagy alacsonyabb nyomásfokozatúra történő cseréje, ha az engedélyezettel azonos vagy korszerűbb műszaki jellemzőkkel és paraméterekkel bír,
 
-d) a külön jogszabály[^4] szerinti elosztói engedélyes az érintett hatóságok szakhatósági engedélyeinek beszerzésére, valamint az érintett közmű üzemeltetők közreműködésének szabályozására is kiterjedő minőségbiztosítási rendszere (terv véleményezése, műszaki ellenőrzése és minősítése) alapján:
+d) a külön jogszabály[^5] szerinti elosztói engedélyes az érintett hatóságok szakhatósági engedélyeinek beszerzésére, valamint az érintett közmű üzemeltetők közreműködésének szabályozására is kiterjedő minőségbiztosítási rendszere (terv véleményezése, műszaki ellenőrzése és minősítése) alapján:
 
 da) üzemelő gázelosztó vezetékhez kapcsolódó egy ingatlan gázellátását biztosító legfeljebb 500 m hosszúságú leágazás építése (nyomásfokozattól függetlenül),
 
@@ -30,4 +30,4 @@ c) az építési tevékenység megnevezését és befejezésének várható idő
 
 (5) Az (1) bekezdés d) pontjában meghatározott építési munkával kapcsolatos bejelentést annak befejezését követő 8 napon belül kell megtenni.
 
-[^4]: A földgázellátásról szóló 2003. évi LXII. törvény.
+[^5]: A földgázellátásról szóló 2003. évi LXII. törvény.

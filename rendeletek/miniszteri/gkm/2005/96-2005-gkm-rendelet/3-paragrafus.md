@@ -18,6 +18,6 @@ f) a rendeltetés megváltoztatására irányuló engedély.
 
 (3) A rendelet 2. számú mellékletében felsorolt létesítmények vonatkozásában a bányafelügyelet (1) bekezdés b) és c) pont szerinti építésügyi hatósági engedélye – kérelem esetén – a Bt.-ben meghatározott műszaki üzemi terv jóváhagyási eljárása keretében is megszerezhető. Ebben az esetben, az eljárásban e rendelet előírásait is alkalmazni kell.
 
-(4) A bányafelügyelet építésügyi engedélyezési eljárásaiért külön jogszabály[^3] szerinti eljárási díjat kell fizetni.
+(4) A bányafelügyelet építésügyi engedélyezési eljárásaiért külön jogszabály[^4] szerinti eljárási díjat kell fizetni.
 
-[^3]: Egyes bányafelügyeleti eljárások díjának megállapításáról szóló 50/1994. (XII. 31.) IKM rendelet.
+[^4]: Egyes bányafelügyeleti eljárások díjának megállapításáról szóló 50/1994. (XII. 31.) IKM rendelet.

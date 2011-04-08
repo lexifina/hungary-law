@@ -18,4 +18,8 @@ h) szükség szerint a létesítmény rendeltetésszerű használatra való alka
 
 i) jelentést az esetleges próbaüzem tapasztalatairól,
 
-j) vezetékjog és használati jog alapításának kötelezettsége esetén annak gyakorlására jogosító dokumentumot (ingatlantulajdonosokkal kötött megállapodás), illetve bányaszolgalom alapításának kötelezettsége esetén ha a bányaszolgalom bejegyzése megtörtént, az azt bizonyító dokumentumot.
+j) vezetékjog és használati jog alapításának kötelezettsége esetén annak gyakorlására jogosító dokumentumot (ingatlantulajdonosokkal kötött megállapodás), illetve bányaszolgalom alapításának kötelezettsége esetén ha a bányaszolgalom bejegyzése megtörtént, az azt bizonyító dokumentumot,
+
+k)[^22] a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló kormányrendelet hatálya alá tartozó veszélyes ipari üzemnek minősülő létesítmény esetében a katasztrófavédelmi engedélyt.
+
+[^22]: A 24. § k) pontját a 10/2011. (IV. 7.) NFM rendelet 4. §-a iktatta be.

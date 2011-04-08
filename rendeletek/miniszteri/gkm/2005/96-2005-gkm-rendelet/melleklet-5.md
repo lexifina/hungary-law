@@ -1,4 +1,4 @@
-## A csatolandó műszaki dokumentáció tartalmi követelményei[^25]
+## A csatolandó műszaki dokumentáció tartalmi követelményei[^30]
 
 ## A dokumentációnak tartalmaznia kell:
 
@@ -66,4 +66,4 @@ P. H.
 
 Aláírás
 
-[^25]: A 4. számú melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 21. pontja szerint módosított szöveg.
+[^30]: A 4. számú melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 21. pontja szerint módosított szöveg.

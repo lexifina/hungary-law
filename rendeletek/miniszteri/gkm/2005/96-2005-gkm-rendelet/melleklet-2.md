@@ -68,4 +68,8 @@
 
 ## 4.3. polgári felhasználású robbanóanyag föld alatti raktára.
 
+## 4.4.[^27] építményt magában foglaló bányászati hulladékkezelő létesítmény.
+
 2. számú melléklet a 96/2005. (XI. 4.) GKM rendelethez
+
+[^27]: Az 1. számú melléklet 4. pont 4.4. alpontját a 10/2011. (IV. 7.) NFM rendelet 5. §-a iktatta be.

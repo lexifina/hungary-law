@@ -6,7 +6,7 @@ a) a létesítmény általános műszaki leírása;
 
 b) a terület-előkészítési munkák műszaki tervei;
 
-c) a létesítményt, illetve biztonsági övezetével érintett ingatlanokat tartalmazó, az illetékes földhivatal által hitelesített, 3 hónapnál nem régebbi ingatlan-nyilvántartási térkép, illetve föld alatti bányászati létesítmény esetén a külön jogszabály[^17] szerinti bányaművelési térkép;
+c) a létesítményt, illetve biztonsági övezetével érintett ingatlanokat tartalmazó, az illetékes földhivatal által hitelesített, 3 hónapnál nem régebbi ingatlan-nyilvántartási térkép, illetve föld alatti bányászati létesítmény esetén a külön jogszabály[^20] szerinti bányaművelési térkép;
 
 d) az Egységes Országos Vetületi Rendszer (EOV) koordináta hálóval ellátott helyszínrajz;
 
@@ -22,4 +22,4 @@ g) a műszaki- és munkabiztonsági, az egészségvédelmi, a tűzvédelmi és a
 
 (4) A technológiai berendezések terveit és tervrajzait, valamint a közlekedés, közművek, energiaátvitel, adatátvitel és kommunikációs rendszer hálózata kapcsolatainak terveit olyan részletességgel és méretarányban kell elkészíteni, illetve annyi magassági adattal kell kiegészíteni, hogy azok alapján elrendezésük, kialakításuk egyértelműen megállapítható legyen.
 
-[^17]: 69/1995. (XII. 26.) IKM rendelet a bányatérképek méretarányáról és tartalmáról szóló Bányabiztonsági Szabályzat kiadásáról.
+[^20]: 69/1995. (XII. 26.) IKM rendelet a bányatérképek méretarányáról és tartalmáról szóló Bányabiztonsági Szabályzat kiadásáról.

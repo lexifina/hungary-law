@@ -1,6 +1,6 @@
 ## Az építésügyi hatósági engedély iránti kérelem
 
-5. § (1)[^5] Az engedély iránti kérelmet az építtető írásban nyújthatja be a bányakapitánysághoz. Több bányakapitányság illetékességi területét érintő létesítmény engedélyezési ügyében az eljáró bányakapitányságot az MBFH jelöli ki.
+5. § (1)[^6] Az engedély iránti kérelmet az építtető írásban nyújthatja be a bányakapitánysághoz. Több bányakapitányság illetékességi területét érintő létesítmény engedélyezési ügyében az eljáró bányakapitányságot a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) jelöli ki.
 
 (2) A kérelemnek tartalmaznia kell:
 
@@ -18,7 +18,7 @@ f) műszaki tervdokumentáció benyújtásának kötelezettsége esetén a terve
 
 g) az építés elvégzésének tervezett időtartamát,
 
-h) ha a tervezett létesítményt védett természeti területen[^6] vagy védett épített környezetben[^7], illetve kulturális örökségi elemet[^8] érintően kívánják elhelyezni, a külön jogszabályban előírt hatósági engedélyt,
+h) ha a tervezett létesítményt védett természeti területen[^7] vagy védett épített környezetben[^8], illetve kulturális örökségi elemet[^9] érintően kívánják elhelyezni, a külön jogszabályban előírt hatósági engedélyt,
 
 i) ha a tervezett létesítmény termőföld időleges vagy végleges igénybevételével jár, az engedélyezési kérelemhez mellékelni kell a földhivatal más célú hasznosítást engedélyező határozatát,
 
@@ -26,7 +26,7 @@ j) a külön jogszabályban meghatározott mértékű eljárási díj befizetés
 
 (3) A bányafelügyelet a tényállás tisztázásának keretében az engedély megadásához szükséges feltételek fennállását indokolt esetben – ha a csatolt dokumentumok alapján a tényállás egyértelműen nem tisztázható – köteles a helyszínen ellenőrizni.
 
-[^5]: Az 5. § (1) bekezdésének második mondata a 86/2006. (XII. 26.) GKM rendelet 20. § (2) bekezdése szerint módosított szöveg.
-[^6]: A természet védelméről szóló 1996. évi LIII. törvény.
-[^7]: Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény.
-[^8]: A kulturális örökség védelméről szóló 2001. évi LXIV. törvény.
+[^6]: Az 5. § (1) bekezdése a 10/2011. (IV. 7.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^7]: A természet védelméről szóló 1996. évi LIII. törvény.
+[^8]: Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény.
+[^9]: A kulturális örökség védelméről szóló 2001. évi LXIV. törvény.
