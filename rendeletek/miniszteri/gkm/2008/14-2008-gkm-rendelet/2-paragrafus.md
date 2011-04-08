@@ -6,7 +6,7 @@
 
 2. dúsítási maradékok: szilárd vagy iszapszerű hulladékok, amelyek az ásványok elválasztástechnikai eljárásokkal (például törés, őrlés, osztályozás, flotálás és más fizikai, kémiai eljárások) történő – az értékes ásványi részeknek a kevésbé értékes kőzettől való eltávolítása érdekében végzett – előkészítése után maradnak vissza;
 
-3.[^1]
+3.[^6] érintett nyilvánosság: az a nyilvánosság, amelynek jogát vagy jogos érdekét a külső vészhelyzeti terv jóváhagyására, vagy a hulladékkezelő-létesítmény működési engedélyezésére irányuló eljárás érinti vagy érintheti, ideértve a környezetvédelmi érdekek képviseletére létrehozott egyesületet és más, politikai pártnak nem minősülő társadalmi szervezetet is;
 
 4. gát: mesterséges építmény víznek vagy hulladéknak egy mesterséges térben való visszatartására vagy elkerítésére;
 
@@ -16,7 +16,7 @@
 
 7. hulladék birtokosa: a bányászati hulladék termelője, vagy az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, akinek a hulladék a birtokában van;
 
-8. hulladékkezelő létesítmény: a szilárd vagy folyékony halmazállapotú, oldatban vagy szuszpenzióban lévő bányászati hulladéknak az a)–d) pontban meghatározott időtartamon túl történő gyűjtésére vagy elhelyezésére szolgáló, a bányavállalkozó kérelmére a bányafelügyelet által engedélyezett kijelölt terület. Ezek a létesítmények magukban foglalnak bármely gátat vagy egyéb, tárolásra, visszatartásra, elkülönítésre szolgáló, illetve a létesítményt egyéb módon szolgáló építményt, továbbá – bár nem kizárólagosan – a meddőhányókat és tározókat, de nem beleértve a bányatérségeket, amelyekbe a hulladékot az ásvány kitermelését követően rehabilitációs és építési célból visszatöltik
+8.[^7] hulladékkezelő létesítmény: a szilárd vagy folyékony halmazállapotú, oldatban vagy szuszpenzióban lévő bányászati hulladéknak az a)–d) pontban meghatározott időtartamon túl történő gyűjtésére vagy elhelyezésére szolgáló, a bányafelügyelet által engedélyezett kijelölt terület. Ezek a létesítmények magukban foglalnak bármely gátat vagy egyéb, tárolásra, visszatartásra, elkülönítésre szolgáló, illetve a létesítményt egyéb módon szolgáló építményt, továbbá – bár nem kizárólagosan – a meddőhányókat és tározókat, de nem beleértve a bányatérségeket, amelyekbe a hulladékot az ásvány kitermelését követően rehabilitációs és építési célból visszatöltik
 
 a) időkorlát nélkül az „A” osztályba sorolt hulladékkezelő létesítmények és a hulladékgazdálkodási tervben veszélyesnek minősített hulladékot kezelő létesítmények esetében,
 
@@ -28,13 +28,13 @@ d) három évet meghaladó időtartamnál a nem szennyezett talaj; a nem veszél
 
 9. inert hulladék: olyan hulladék, amely semmilyen jelentősebb fizikai, kémiai vagy biológiai átalakuláson nem megy át. Az inert hulladék nem oldódik, nem ég, más fizikai vagy kémiai reakcióba nem lép, biológiai úton nem bomlik, nem befolyásol vele érintkezésbe kerülő anyagokat hátrányosan oly módon, hogy környezetszennyezést okozna, vagy károsítaná az emberi egészséget. A hulladék teljes kioldható anyagtartalmának, szennyezőanyag-tartalmának és a csurgalék ökotoxicitásának elhanyagolhatónak kell lennie, és különösen nem veszélyeztetheti a felszíni víz vagy a felszín alatti víz minőségét;
 
-10. illetékes személy: olyan természetes személy, aki rendelkezik azokkal a műszaki ismeretekkel és tapasztalattal, amelyek szükségesek az e rendeletből eredő feladatának ellátásához (például földtani szakértő, hites bányamérő, mérnöki kamaránál nyilvántartásba vett szakértő);
+10.[^8] illetékes személy: bányaüzemi felelős műszaki vezetőként vagy szakértőként nyilvántartásba vett természetes személy, aki rendelkezik azokkal a műszaki ismeretekkel és gyakorlattal, amelyek szükségesek az e rendeletből eredő feladatának ellátásához;
 
-11. jelentős változás: a hulladékkezelő létesítmény szerkezetének vagy működésének olyan változása, amely a bányafelügyelet véleménye alapján jelentős negatív hatással lehet az emberi egészségre vagy a környezetre;
+11.[^9] jelentős változás: a hulladékkezelő létesítmény szerkezetének vagy működésének olyan változása, amely a bányafelügyelet döntése alapján jelentős negatív hatással lehet az emberi egészségre vagy a környezetre;
 
-12. nyilvánosság: egy vagy több természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, azok társulásai, szervezetei vagy csoportjai;
+12.[^10] nyilvánosság: egy vagy több természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, és azok bírósági nyilvántartásba vett szervezetei;
 
-13. súlyos baleset: a bányaüzem területén történő olyan esemény, amely e rendelet alkalmazási körébe tartozó bármely létesítményben nyersanyag-kitermelésből származó hulladék kezelését is magában foglaló tevékenység során következik be, és az emberi egészség, illetve a környezet súlyos veszélyeztetéséhez vezet akár azonnal, akár késleltetve, a helyszínen vagy azon kívül;
+13.[^11] súlyos baleset: olyan esemény, amely e rendelet hatálya alá tartozó hulladékkezelő létesítményben bányászati hulladék kezelését is magában foglaló tevékenység során következik be, és az emberi egészség, illetve a környezet súlyos veszélyeztetéséhez vezet akár azonnal, akár késleltetve, a helyszínen vagy azon kívül;
 
 14. tározó: finom szemcséjű hulladékok – általában dúsítási maradékok –, továbbá változó mennyiségű, az ásványkincsek feldolgozásából, valamint az ipari víz tisztításából és hasznosításából származó szabad víz tárolására szolgáló természetes vagy mesterséges létesítmény;
 
@@ -44,4 +44,9 @@ d) három évet meghaladó időtartamnál a nem szennyezett talaj; a nem veszél
 
 17. veszélyes hulladék: a Hgt. 3. § b) pontjában meghatározott hulladék.
 
-[^1]: A 2. § 3. pontját a 22/2010. (III. 19.) KHEM rendelet 6. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. § 3. pontját a 22/2010. (III. 19.) KHEM rendelet 6. § (7) bekezdése hatályon kívül helyezte, újonnan a 11/2011. (IV. 7.) NFM rendelet 2. § (1) bekezdése iktatta be.
+[^7]: A 2. § 8. pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^8]: A 2. § 10. pontja a 11/2011. (IV. 7.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § 11. pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^10]: A 2. § 12. pontja a 11/2011. (IV. 7.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^11]: A 2. § 13. pontja a 11/2011. (IV. 7.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.

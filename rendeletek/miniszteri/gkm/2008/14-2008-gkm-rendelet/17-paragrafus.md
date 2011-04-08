@@ -1,4 +1,4 @@
-## 16. §[^14] A bányafelügyelet háromévenként jelentést készít a bányászatért felelős miniszternek az ásványinyersanyag- kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlamenti és tanácsi irányelv végrehajtásáról, továbbá évente jelentést készít az üzemeltetők által jelentett működtetés során vagy a bezárás után fellépett súlyos üzemzavarokról, balesetekről és környezeti károkozásról. A miniszter a jelentést továbbítja az Európai Bizottságnak. A környezeti információkhoz való nyilvános hozzáférés joga sérelme nélkül a bányafelügyelet ezeket az információkat a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára kérésre hozzáférhetővé teszi.
+## 16. §[^50] A bányafelügyelet háromévenként jelentést készít a bányászatért felelős miniszternek az ásványinyersanyag- kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlamenti és tanácsi irányelv végrehajtásáról, továbbá évente jelentést készít az üzemeltetők által jelentett működtetés során vagy a bezárás után fellépett súlyos üzemzavarokról, balesetekről és környezeti károkozásról. A miniszter a jelentést továbbítja az Európai Bizottságnak. A környezeti információkhoz való nyilvános hozzáférés jogának sérelme nélkül a bányafelügyelet ezeket az információkat az érintett nyilvánosság kérésére hozzáférhetővé teszi.
 
 ## Záró és átmeneti rendelkezések
 
@@ -28,7 +28,7 @@ c) ha a cianid koncentrációja nem haladja meg a 10 ppm-et, akkor 2018. május 
 
 (7) A 15. §-ban meghatározott nyilvántartást 2012. május 1-jéig kell elkészíteni és hozzáférhetővé tenni a nyilvánosság számára.
 
-(8)[^15] A Magyar Bányászati és Földtani Hivatal közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
+(8)[^51] A Magyar Bányászati és Földtani Hivatal közleményt jelentet meg az inert hulladéknak tekintendő bányászati hulladékok listájáról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben.
 
-[^14]: A 16. § a 22/2010. (III. 19.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^15]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be.
+[^50]: A 16. § a 11/2011. (IV. 7.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^51]: A 17. § (8) bekezdését a 22/2010. (III. 19.) KHEM rendelet 3. §-a iktatta be.

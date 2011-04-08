@@ -6,7 +6,13 @@
 
 (3) A (2) bekezdés elveinek megfelelően az üzemeltető az üzemelés megkezdése előtt a bányászati hulladék kezelésével kapcsolatban tervet dolgoz ki a súlyos balesetek megelőzésére, biztonsági irányítási rendszert vezet be ennek végrehajtására – a 3. melléklet I. pontjában meghatározott követelményekkel összhangban –, valamint olyan belső vészhelyzeti tervet készít, amelyben meghatározza a baleset esetén a helyszínen foganatosítandó intézkedéseket.
 
-(4) Az üzemeltető a súlyos balesetek megelőzését szolgáló terv végrehajtásáért és időszakos felülvizsgálatáért felelős biztonsági vezetőt nevez ki.
+(3a)[^23] A belső vészhelyzeti tervben meghatározott intézkedéseknek megfelelőnek kell lenniük a súlyos balesetek megelőzésére és következményeinek csökkentésére. Az üzemeltető gondoskodik róla, hogy a belső vészhelyzeti tervben meghatározott intézkedések végrehajtásához szükséges eszközök rendelkezésre álljanak. A belső vészhelyzeti terv tartalmi követelményeit a 4. melléklet határozza meg.
+
+(3b)[^24] A belső vészhelyzeti tervet elektronikus adathordozón, a hozzá tartozó térképet és helyszínrajzot pedig a rajta szereplő méretaránynak megfelelően, ennek hiányában méretskálával ellátva, nyomtatott formában kell két példányban a bányafelügyelethez benyújtani.
+
+(4)[^25] Az üzemeltető a belső vészhelyzeti tervet köteles háromévente felülvizsgálni, valamint az alkalmazását évente ellenőrizni, és a gyakorlásának időpontjáról legalább 15 nappal korábban az Országos Katasztrófavédelmi Főigazgatóság területi szervét (a továbbiakban: OKF területi szerve) tájékoztatni és a gyakorlatról jegyzőkönyvet készíteni.
+
+(4a)[^26] Az üzemeltető a súlyos balesetek megelőzését szolgáló terv végrehajtásáért és felülvizsgálatáért felelős személyt köteles alkalmazni.
 
 (5) A belső vészhelyzeti terv célja:
 
@@ -30,21 +36,36 @@ d) a megtett intézkedésekre
 
 ## vonatkozó információkra is.
 
-(7) A bányászatihulladék-kezelő létesítmény működési engedélyének kiadását követő 6 hónapon belül a súlyos baleset által veszélyeztetett településre külső vészhelyzeti terv készül. A külső vészhelyzeti tervet a bányafelügyelet az érintett polgármesterrel együttműködve készíti el. Az üzemeltető a bányafelügyeletnek megad minden olyan információt, amely e terv elkészítéséhez szükséges.
+(7)[^27] Az OKF területi szerve a polgármesterrel együttműködve, a súlyos baleset által veszélyeztetett településre a bányászatihulladék-kezelő létesítmény működési engedélyének kiadását követő 6 hónapon belül, külső vészhelyzeti tervet készít. A külső vészhelyzeti terv tartalmi követelményeit az 5. melléklet határozza meg. Az üzemeltető a külső vészhelyzeti terv elkészítéséhez szükséges adatokat és tájékoztatást köteles az OKF területi szerve számára megadni.
 
-(8) A bányafelügyelet döntése alapján nem készül külső vészhelyzeti terv, ha a lehetséges súlyos baleset következményeinek értékeléséből alaposan feltételezhető, hogy a településen nem alakulhat ki az egészséget és a környezetet veszélyeztető hatás.
+(8)[^28] A bányafelügyelet az üzemeltető által bejelentett súlyos balesetet a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos munkabaleset bejelentésének és vizsgálatának rendjéről szóló biztonsági szabályzat közzétételéről szóló rendelet szerint kivizsgálja.
 
-(9)[^3] A külső vészhelyzeti tervről annak elkészítése során a végrehajtásában érintettek (az illetékes megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság, az Állami Népegészségügyi és Tisztiorvosi Szolgálat illetékes intézete, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, az illetékes önkormányzati tűzoltóság, mentőszolgálat, rendőrség), valamint az üzemeltető véleményt nyilvánít. A külső vészhelyzeti terv jóváhagyását megelőzően a nyilvánosság részére lehetővé kell tenni, hogy a külső vészhelyzeti terv nyilvánosságra hozható részeihez 30 napon belül észrevételeket tehessen, amelyeket a bányafelügyelet a terv véglegesítése során figyelembe vesz.
+(9)[^29] A külső vészhelyzeti tervről annak elkészítése során a fővárosi és megyei kormányhivatal kistérségi, fővárosban a fővárosi kerületi népegészségügyi intézete, a környezetvédelmi, természetvédelmi és vízügyi felügyelőség, a tűzvédelmi hatóság, a mentőszolgálat, a rendőrség, valamint az üzemeltető véleményt nyilvánít.
 
-(10) A külső vészhelyzeti tervet a helyi védelmi bizottság elnöke hagyja jóvá. A jóváhagyott külső vészhelyzeti tervet a bányafelügyelet megküldi a (9) bekezdésben felsorolt szervek és szervezetek részére.
+(9a)[^30] A külső vészhelyzeti tervet annak jóváhagyása előtt az érintett nyilvánosság véleményezheti. A polgármester a polgármesteri hivatal hirdetőtábláján közleményt tesz közzé, amely tartalmazza a külső vészhelyzeti terv véleményezési lehetőségére, a terv végrehajtásában érintett hatóságokra, valamint a vélemény megtételének módjára és határidejére vonatkozó tájékoztatást. A külső vészhelyzeti terv véleményezésére legalább 30 napot kell biztosítani. A véleményeket a terv véglegesítése során figyelembe kell venni.
+
+(10)[^31] A külső vészhelyzeti tervet a megyei védelmi bizottság elnöke hagyja jóvá. A jóváhagyott külső védelmi tervet az OKF területi szerve megküldi a (9) bekezdésben felsorolt szervezetek részére.
 
 (11) A külső vészhelyzeti terv a külön jogszabály szerinti települési veszélyelhárítási terv része.
 
-(12) A külső vészhelyzeti tervet a bányafelügyelet legalább háromévente felülvizsgálja és szükség szerint módosítja. A külső vészhelyzeti tervben végrehajtott módosításokról jegyzőkönyv készül. Amennyiben a külső vészhelyzeti terv jelentős módosítása szükséges, annak során a (9) bekezdés előírásait alkalmazni kell. A bányafelügyelet a külső vészhelyzeti terv módosításáról tájékoztatja a (9) bekezdésben felsoroltakat.
+(12)[^32] A külső vészhelyzeti tervet legalább háromévente felül kell vizsgálni, és szükség szerint módosítani kell. A külső vészhelyzeti terv módosítására a (7), (9), (9a) és (10) bekezdés rendelkezéseit alkalmazni kell.
 
-(13)[^4] A bányafelügyelet gondoskodik arról, hogy a lehetséges súlyos balesettel kapcsolatos információkhoz – amelyek legalább a 3. melléklet II. pontjában felsorolt elemeket tartalmazzák – a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek ingyenesen hozzáférjenek.
+(13)[^33] A bányafelügyelet gondoskodik arról, hogy a lehetséges súlyos balesettel kapcsolatos információkhoz – amelyek legalább a 3. melléklet II. pontjában felsorolt elemeket tartalmazzák – a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek ingyenesen hozzáférjenek.
 
-(14) A bányászatihulladék-kezelő létesítmény területén kívüli hatásokat okozó súlyos baleset bekövetkezése esetén a bányafelügyelet a veszélyeztetett település polgármesterét és a külső vészhelyzeti terv végrehajtásában érintetteket a megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság ügyeleti szolgálata útján köteles haladéktalanul tájékoztatni a (6) bekezdésben felsorolt információkról.
+(14)[^34] Az üzemeltető köteles a létesítmény területén kívüli hatásokat okozó súlyos baleset bekövetkezése esetén a bányafelügyeletet és az OKF területi szervét haladéktalanul tájékoztatni a (6) bekezdésben felsorolt információkról. Az OKF területi szerve az ügyeleti szolgálata útján az üzemeltető által megadott információkról tájékoztatja a veszélyeztetett település polgármesterét és a külső vészhelyzeti terv végrehajtásában érintetteket.
 
-[^3]: Az 5. § (9) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^4]: Az 5. § (13) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+(15)[^35] A polgármester az OKF területi szervével együttműködve a külső vészhelyzeti tervben foglaltak megvalósíthatóságának ellenőrzésére évente gyakorlatot szervez. A polgármester a bányászatihulladék-kezelő létesítmény területén kívüli hatásokat okozó súlyos baleset bekövetkezése esetén, a külső vészhelyzeti tervben foglaltak végrehajtása érdekében a szükséges intézkedéseket haladéktalanul megteszi.
+
+[^23]: Az 5. § (3a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (1) bekezdése iktatta be.
+[^24]: Az 5. § (3b) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (1) bekezdése iktatta be.
+[^25]: Az 5. § (4) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^26]: Az 5. § (4a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (3) bekezdése iktatta be.
+[^27]: Az 5. § (7) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (8) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^29]: Az 5. § (9) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (9a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (7) bekezdése iktatta be.
+[^31]: Az 5. § (10) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^32]: Az 5. § (12) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^33]: Az 5. § (13) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^34]: Az 5. § (14) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (10) bekezdésével megállapított szöveg. [E módosító rendelet 11. §-ával elrendelt módosítás, amely szerint az „a megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság” szövegrész helyébe az „az OKF területi szervének” szöveg lép, nem vezethető át.]
+[^35]: Az 5. § (15) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (11) bekezdése iktatta be.

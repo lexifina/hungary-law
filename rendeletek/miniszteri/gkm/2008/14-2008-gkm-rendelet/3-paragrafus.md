@@ -1,15 +1,20 @@
 ## Általános követelmények
 
-3. § (1) A bányavállalkozók megteszik a szükséges intézkedéseket annak biztosítása érdekében, hogy a bányászati hulladék kezelése
+3. § (1)[^12] A bányászati hulladék kezelését úgy kell végezni, hogy
 
-a) ne jelentsen veszélyt az emberek egészségére,
+a) ne veszélyeztesse az emberi életet és egészséget,
 
-b) során ne használjanak olyan eljárásokat vagy módszereket, amelyek károsíthatják a környezetet, a bányászati hulladék kezelése különösen ne jelentsen veszélyt a vízre, a levegőre, a talajra, valamint az állat- és növényvilágra,
+b) ne kerüljön alkalmazásra olyan eljárás vagy módszer, amely károsíthatja a környezetet,
 
-c) ne okozzon kellemetlen zajt vagy szagot, és
+c) ne veszélyeztesse a vizeket, a levegőt, a talajt, valamint az állat- és növényvilágot,
 
-d) ne legyen káros hatással a tájra vagy a védett területekre.
+d) ne okozzon veszélyes mértékű környezeti zajt vagy bűzt, és
 
-(2) Az üzemeltető megtesz minden szükséges intézkedést, amely megakadályozza vagy csökkenti a bányászati hulladék kezelése következtében a környezetre és az emberi egészségre gyakorolt káros hatásokat, beleértve a hulladékkezelő létesítmény irányítását – még bezárása után is – az adott létesítménnyel kapcsolatos súlyos balesetek megelőzését, ezeknek a környezetre és az emberi életre gyakorolt következményei csökkentését.
+e) ne legyen káros hatással a tájra, a védett természeti területekre és a természeti értékekre.
+
+(2)[^13] Az üzemeltető köteles megtenni minden szükséges intézkedést, amely megakadályozza vagy csökkenti a bányászati hulladék kezelése következtében a környezetre és az emberi egészségre gyakorolt káros hatásokat, beleértve a hulladékkezelő létesítmény irányítását – még bezárása után is – az adott létesítménnyel kapcsolatos súlyos balesetek megelőzését, ezeknek a környezetre és az emberi életre gyakorolt következményei csökkentését.
 
 (3) A (2) bekezdésben meghatározott intézkedéseket többek között az elérhető legjobb technikák figyelembevételével kell kialakítani.
+
+[^12]: A 3. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 3. § (2) bekezdése a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.

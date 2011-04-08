@@ -1,6 +1,12 @@
 ## Kérelem és engedélyezés
 
-6. § (1)[^5] A bányafelügyelet a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII.19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 13. § (3) bekezdés i) pontjának megfelelően a műszaki üzemi terv keretében fogadja el a bányászatihulladék-gazdálkodási tervet, és a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 31. §-a, valamint a külön jogszabály szerinti eljárásban engedélyezi a bányászatihulladék-kezelő létesítmény működését (a továbbiakban: engedély). Az engedély tartalmazza a (2) bekezdésben foglaltak alapján hozott határozatokat, és megjelöli, hogy a 8. §-ban és az 1. mellékletben meghatározottakkal összhangban a hulladékkezelő létesítmény „A” osztályba tartozik-e.
+6. § (1)[^36] Bányászati hulladékkezelő létesítmény a bányafelügyelet engedélyével üzemeltethető. A bányafelügyelet a működés engedélyezéséről
+
+a) ha a létesítmény kialakítása építési tevékenységgel nem jár, a műszaki üzemi terv jóváhagyása, vagy
+
+b) ha a létesítmény kialakítása építési tevékenységgel jár, a létesítmény használatbavételi vagy fennmaradási engedélyezési eljárása
+
+során dönt.
 
 (2) Az engedélykérelem a következőket tartalmazza:
 
@@ -10,15 +16,19 @@ b) a hulladékkezelő létesítmény javasolt helye,
 
 c) a 4. § szerinti bányászatihulladék-gazdálkodási terv,
 
-d) pénzügyi garancia vagy azzal egyenértékű megfelelő intézkedés a 13. §-nak megfelelően,
+d) pénzügyi garancia vagy azzal egyenértékű megfelelő intézkedés a 13. §-nak megfelelően.
 
-e) az üzemeltető által megadott információk, ha a létesítményhez külön jogszabály által előírt környezeti hatásvizsgálat szükséges.
+e)[^37]
+
+(2a)[^38] Ha a létesítmény üzemeltetéséhez környezetvédelmi vagy egységes környezethasználati engedély szükséges, a kérelemhez mellékelni kell a jogerős és végrehajtható környezetvédelmi vagy egységes környezethasználati engedélyt.
 
 (3) A bányafelügyelet akkor adja meg az engedélyt, ha az üzemeltető igazolja, hogy
 
 a) az üzemeltető az e rendelet által támasztott követelményeket képes betartani, és
 
 b) a hulladékkezelés nem ellentétes a Hgt. általános elveivel.
+
+(3a)[^39] A bányafelügyelet a működési engedélyezési eljárás során dönt a bányászatihulladék-gazdálkodási terv jóváhagyásáról, az üzemeltető által felajánlott pénzügyi biztosíték elfogadásáról és a létesítmény 8. § szerinti besorolásáról.
 
 (4) A bányafelügyelet hivatalból módosítja az engedély feltételeit, amennyiben
 
@@ -30,4 +40,7 @@ c) az Európai Unió által nyilvántartott, elérhető technikában beálló je
 
 (5) Az engedélyben foglalt információkat a bányafelügyelet az illetékes nemzeti és közösségi statisztikai hivatalok számára hozzáférhetővé teszi statisztikai célból történő megkeresés esetén. Az üzleti titkot képező információk – különösen az üzleti kapcsolatok, a költségösszetevők és a gazdaságosan kitermelhető ásványvagyon mennyisége – nem hozhatók nyilvánosságra.
 
-[^5]: A 6. § (1) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^36]: A 6. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^37]: A 6. § (2) bekezdés e) pontját a 11/2011. (IV. 7.) NFM rendelet 14. § (3) bekezdése hatályon kívül helyezte.
+[^38]: A 6. § (2a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^39]: A 6. § (3a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 6. § (3) bekezdése iktatta be.

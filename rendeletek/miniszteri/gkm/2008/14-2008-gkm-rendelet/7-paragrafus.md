@@ -1,38 +1,33 @@
 ## A nyilvánosság részvétele
 
-7. § (1) Az engedélykérelem benyújtását követően a bányafelügyelet a hivatalában, valamint az illetékes önkormányzat hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
+7. §[^40] (1) A bányafelügyelet az engedélykérelem benyújtását követő 5 napon belül a hivatalában, valamint a bányászatihulladék-kezelő létesítmény helye szerint illetékes települési önkormányzat hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
 
 a) az engedélykérelmet,
 
-b) a tényt, amennyiben az engedélykérelemről hozott döntés konzultáció tárgyát képezi a tagállamok között,
+b) ha az engedélykérelemről hozott döntés konzultáció tárgyát képezi az Európai Unió tagállamai között, az erre vonatkozó tájékoztatást,
 
-c) a bányafelügyelet elérhetőségét, amelytől információkat lehet kérni, valamint amelyhez észrevételeket és kérdéseket lehet benyújtani, továbbá ennek határidejét,
+c) tájékoztatást arról, hogy a bányafelügyelettől az üggyel kapcsolatban felvilágosítást lehet kérni, az ügyre vonatkozóan észrevételeket lehet tenni, valamint ezek módját és határidejét, a bányafelügyelet címét, telefonszámát, egyéb elérhetőségét,
 
-d)[^6] a döntések során irányadó szempontokat,
+d) a döntések során irányadó szempontokat,
 
-e) ahol értelmezhető, az engedély vagy az engedély feltételeinek módosítására irányuló javaslat részleteit,
+e) az engedély vagy az engedély feltételeinek módosítása esetén az arra vonatkozó javaslatról tájékoztatást,
 
-f) azon időpont, hely és eszköz megjelölését, amikor, ahol és amely által a vonatkozó információkat hozzáférhetővé teszik,
+f) az üggyel kapcsolatos információk közzétételének helyét, idejét és módját, valamint
 
-g)[^7] a nyilvánosság részvételére irányuló további intézkedések részleteit, melyek lehetővé teszik a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára a hatékony felkészülést és részvételt.
+g) az érintett nyilvánosság megfelelő felkészülését és részvételét biztosító egyéb intézkedéseket.
 
-(2)[^8] A bányafelügyelet gondoskodik arról, hogy a beérkezési határidőt követő 8 napon belül a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek számára hozzáférhetővé tegye a következőket:
+(2) A közlemény közzétételével együtt az önkormányzatnál az engedélyezési dokumentáció egy példányát el kell helyezni, és a nyilvánosság számára biztosítani kell annak megismerését.
 
-a) a bányafelügyelethez a nyilvánosság (1) bekezdéssel összhangban történő tájékoztatásakor eljuttatott főbb jelentéseket és véleményeket,
+(3) A bányafelügyelet a közzétételt követően az érintett nyilvánosság számára hivatalában hozzáférhetővé teszi
 
-b) bármilyen, az (1) bekezdésben meghatározott információn túlmenő olyan környezeti információt, amely kapcsolódik a 6. § szerinti döntéshez, és amely csak azután áll rendelkezésre, miután a nyilvánosság tájékoztatása az (1) bekezdés szerint már megtörtént.
+a) az engedélykérelmet és az ahhoz kapcsolódó egyéb hatósági döntéseket, szakértői véleményeket, és a nyilvánossággal közölt valamennyi információt,
 
-(3) A bányafelügyelet biztosítja, hogy a nyilvánosság tájékoztatása az engedélyfeltételeknek a 6. § (4) bekezdése szerinti módosításáról – az (1) bekezdéssel összhangban – megtörténjen.
+b) az (1) bekezdésben meghatározott tájékoztatáson felül minden olyan információt, amely kapcsolódik a 6. § szerinti döntéshez, és amely csak azután áll rendelkezésre, miután a nyilvánosság tájékoztatása az (1) bekezdés szerint megtörtént.
 
-(4)[^9] A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek jogosultak az (1) bekezdés szerinti közzétételt követő 10 napon belül észrevételeivel és véleményével a bányafelügyelethez fordulni.
+(4) Az érintett nyilvánosság az (1) bekezdés szerinti közlemény közzétételét követő 8 napon belül a bányafelügyeletnél észrevételt tehet és konzultációt kezdeményezhet. A bányafelügyelet az érintett nyilvánosság észrevételét és véleményét a döntéshozatal során érdemben köteles vizsgálni és megfelelően figyelembe venni.
 
-(5)[^10] A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek véleményét a döntéshozatalkor megfelelően figyelembe kell venni.
+(5) A bányafelügyelet a döntéséről az (1) bekezdésben meghatározott módon, a határozat közzétételével tájékoztatja az érintett nyilvánosságot.
 
-(6)[^11] A bányafelügyelet az (1) bekezdésben meghatározott módon tájékoztatja a bányavállalkozót, az e rendeletben meghatározott döntéshozatali eljárásban részt vevőket, valamint az ezekhez kapcsolódó nem kormányzati szerveket a döntés tartalmáról, ideértve az engedély másolatának közzétételét is.
+(6) Az engedélyek 6. § (4) bekezdése szerinti módosítására irányuló eljárás során e § rendelkezéseit megfelelően alkalmazni kell.
 
-[^6]: A 7. § (1) bekezdés d) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^7]: A 7. § (1) bekezdés g) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^8]: A 7. § (2) bekezdés nyitó szövegrésze a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^9]: A 7. § (4) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése, a 28/2010. (XII. 22.) NFM rendelet 2. § (9) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^10]: A 7. § (5) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
-[^11]: A 7. § (6) bekezdése a 22/2010. (III. 19.) KHEM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^40]: A 7. § a 11/2011. (IV. 7.) NFM rendelet 7. §-ával megállapított szöveg.

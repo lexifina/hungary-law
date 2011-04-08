@@ -1,6 +1,6 @@
 ## A hulladékkezelő létesítmények építése és irányítása
 
-10. § (1) A hulladékkezelő létesítmény irányítását megfelelő szakirányú végzettséggel és szakértői engedéllyel rendelkező személy látja el, az üzemeltető biztosítja a személyzet szakmai továbbképzését.
+10. § (1)[^41] Az üzemeltető a hulladékkezelő létesítmény működésének irányítását kizárólag illetékes személy közreműködésével végezheti. Az üzemeltetőnek gondoskodnia kell a hulladékkezelő létesítmény üzemeltetésében résztvevők szakmai képzéséről, melynek keretében évente legalább egy alkalommal ismertetni kell a hulladékkezeléssel kapcsolatos jogszabályi és hatósági rendelkezéseket, valamint a súlyos balesetek és más üzemzavarok esetén szükséges intézkedéseket. Az oktatásról jegyzőkönyvet kell készíteni, amely tartalmazza a résztvevők nevét, aláírását, az oktatás időpontját, helyét és tematikáját.
 
 (2) A bányafelügyelet ellenőrzi, hogy új hulladékkezelő létesítmény építése vagy egy már meglévő átalakítása során az üzemeltető biztosítja a következőket:
 
@@ -25,3 +25,5 @@ e) megfelelő intézkedések születnek a hulladékkezelő létesítmény bezár
 (4) Az üzemeltető késedelem nélkül, de bekövetkezése után legkésőbb 48 órán belül értesíti a bányafelügyeletet minden olyan eseményről, amely veszélyezteti a hulladékkezelő létesítmény stabilitását, valamint értesíti minden jelentős kedvezőtlen környezeti hatásról, amelyet a hulladékkezelő létesítmény ellenőrzési felügyeleti eljárásai feltárnak. Az üzemeltető, ahol alkalmazható, a belső vészhelyzeti tervet hajtja végre, és követi a bányafelügyelet minden más utasítását a végrehajtandó korrekciós intézkedéseket illetően. A végrehajtandó intézkedések költségeit az üzemeltető viseli.
 
 (5) A bányafelügyelet által meghatározott gyakorisággal, de legalább évente egy alkalommal az üzemeltető az összegyűjtött adatok alapján jelentést készít a monitoring eredményekről a bányafelügyeletnek abból a célból, hogy információt szolgáltasson az engedélyezési feltételek betartásáról, valamint adatot szolgáltasson a létesítmény működéséről és a hulladék viselkedéséről. E jelentés alapján a bányafelügyelet dönthet úgy, hogy a jelentésnek egy független szakértő által készített megerősítése szükséges.
+
+[^41]: A 10. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 8. §-ával megállapított szöveg.

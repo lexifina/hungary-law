@@ -112,7 +112,7 @@
 
 3. melléklet a 14/2008. (IV. 3.) GKM rendelethez
 
-## A súlyos balesetek megelőzésének terve és a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek részére közlendő információk[^19]
+## A súlyos balesetek megelőzésének terve és az érintett nyilvánosság részére közlendő információk[^55]
 
 I. A súlyos balesetek megelőzésének terve
 
@@ -138,7 +138,7 @@ f) teljesítmény-ellenőrzést – az üzemeltető súlyos balesetek megelőzé
 
 g) ellenőrzést és felülvizsgálatot – a súlyos balesetek megelőzési tervének és a biztonsági irányítási rendszer hatékonyságának és megfelelőségének időszakonkénti szisztematikus értékelésére szolgáló eljárások elfogadását és végrehajtását, a terv és a biztonsági irányítási rendszer eredményeinek a vezetés általi, dokumentált elemzését és naprakésszé tételét.
 
-II. A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek részére közlendő információk[^20]
+II. Az érintett nyilvánosság részére közlendő információk[^56]
 
 1. Az üzemeltető neve és a hulladékkezelő létesítmény címe.
 
@@ -156,11 +156,13 @@ II. A bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljá
 
 8. Megfelelő információk azokról a lépésekről, amelyeket az érintett lakosságnak meg kell tennie, valamint arról a magatartásról, amelyet követnie kell súlyos baleset bekövetkeztekor.
 
-9. Annak a követelménynek a megerősítése, amely szerint az üzemeltetőnek a telepen megfelelő intézkedéseket kell tennie, különösen fel kell vennie a kapcsolatot a katasztrófavédelmi hatósággal és a bányafelügyelettel a súlyos balesetek kezelése és hatásaiknak a lehető legkisebbre csökkentése érdekében.
+9.[^57] Annak a követelménynek a megerősítése, amely szerint az üzemeltetőnek a telepen megfelelő intézkedéseket kell tennie, különösen fel kell vennie a kapcsolatot a az OKF területi szervével és a bányafelügyelettel a súlyos balesetek kezelése és hatásaiknak a lehető legkisebbre csökkentése érdekében.
 
-10. Hivatkozás a külső vészhelyzeti tervre, amelyet a baleset külső hatásai kezelésének érdekében készítettek. Ennek a hivatkozásnak tanácsot kell megfogalmaznia arra vonatkozóan, hogy a baleset időpontjában a katasztrófavédelmi hatóság és a bányafelügyelet valamennyi utasítását vagy felszólítását követni kell.
+10.[^58] Hivatkozás a külső vészhelyzeti tervre, amelyet a baleset külső hatásai kezelésének érdekében készítettek. Ennek a hivatkozásnak tanácsot kell megfogalmaznia arra vonatkozóan, hogy a baleset időpontjában az OKF területi szerve és a bányafelügyelet valamennyi utasítását vagy felszólítását követni kell.
 
 11. Tájékoztatás további információk elérhetőségéről.
 
-[^19]: A 3. melléklet címe a 22/2010. (III. 19.) KHEM rendelet 6. § (6) bekezdése szerint módosított szöveg.
-[^20]: A 3. melléklet II. alcíme a 22/2010. (III. 19.) KHEM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^55]: A 3. melléklet címe a 11/2011. (IV. 7.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^56]: A 3. melléklet II. rész címe a 11/2011. (IV. 7.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^57]: A 3. melléklet II. rész 9. pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^58]: A 3. melléklet II. rész 10. pontja a 11/2011. (IV. 7.) NFM rendelet 11. §-a szerint módosított szöveg.
