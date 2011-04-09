@@ -6,7 +6,7 @@
 
 ## 2. Afrikai sertéspestis
 
-## 3.[^1] Aujeszky-betegség
+## 3.[^2] Aujeszky-betegség
 
 ## 4. Bőrcsomósodáskór
 
@@ -20,7 +20,7 @@
 
 ## 9. Kacsapestis (kacsák vírusos bélgyulladása)
 
-## 10.[^2] Kéknyelv betegség (Bluetongue)
+## 10.[^3] Kéknyelv betegség (Bluetongue)
 
 ## 11. Keleti marhavész
 
@@ -72,6 +72,8 @@
 
 ## 35. Veszettség
 
+## 36.[^4] Szarvasok epizootiás haemorrhagiás betegsége
+
 ## B. Víziállatokat érintő betegségek
 
 ## 1. Bonamia exitiosa-fertőzés
@@ -106,5 +108,6 @@
 
 2. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez
 
-[^1]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^2]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^2]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. számú melléklet A. részének 36. pontját a 20/2011. (III. 25.) VM rendelet 4. § (2) bekezdése iktatta be.
