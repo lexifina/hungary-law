@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-116-30-
 | --- | --- | --- |
 | 2010-11-26 | 2010-116-30-41.1 | 116/2010. (XI. 25.) OGY határozat |
 | 2010-12-06 | 2010-116-30-41.2 | 121/2010. (XII. 7.) OGY határozat |
+| 2011-04-11 | 2010-116-30-41.3 | 13/2014. (V. 6.) OGY határozat |

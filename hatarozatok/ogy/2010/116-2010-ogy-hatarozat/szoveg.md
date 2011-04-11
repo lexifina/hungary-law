@@ -6,7 +6,7 @@ Alelnök: Jávor Benedek (LMP)[^2]
 
 Tagjai:
 
-dr. Dancsó József (Fidesz)
+dr. Gruber Attila (Fidesz)[^3]
 
 Spaller Endre (KDNP)
 
@@ -17,3 +17,4 @@ Korondi Miklós (Jobbik)
 2. E határozat a Mávh. hatálybalépésével egyidejűleg lép hatályba.
 
 [^2]: A 121/2010. (XII. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 23/2011. (IV. 12.) OGY határozat 1. pontjával megállapított szöveg.
