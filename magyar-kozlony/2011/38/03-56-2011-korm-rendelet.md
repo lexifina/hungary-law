@@ -1,0 +1,177 @@
+# A Kormány 56/2011. (IV. 12.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 38. szám, 2011. április 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/09c7e98d87c1d69eb0bb7c46707951765408f4b5/dokumentumok/8d267a0fbad0f5db0ed5de1aaf1bd4214e946c69/letoltes)
+
+---
+
+A Kormány 56/2011. (IV. 12.) Korm. rendelete
+az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet módosításáról
+A Kormány az államháztartásrólszóló1992. évi XXXVIII. törvény 124. § (2) bekezdés a)–c), i), m) és q) pontjábankapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 20. §
+(2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A költségvetési szerv szervezeti és működési szabályzatának – a külön jogszabályban meghatározottakon kívül –
+tartalmaznia kell]
+„a) a költségvetési szerv létrehozásáról szóló jogszabályra történő hivatkozást, ha a költségvetési szerv létrehozásáról
+jogszabály rendelkezett,”
+2. § Az Ámr. 120. §-a a következő (2) bekezdéssel egészül ki:
+„(2) A fejezetet irányító szerv az Áht. 122/B. §-ában meghatározott adatszolgáltatást a 9/a. számú melléklet szerint
+teljesíti. Az adatszolgáltatás nyilvános adatait a Kincstár a honlapján közzéteszi, a nem nyilvános adatokhoz a
+támogatók számára – jogosultság igénylés útján – elérhetőséget biztosít.”
+3. § Az Ámr. 121. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a költségvetésből nyújtott támogatás
+összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak
+megfelelően. Nem kell alkalmazni ezt a szabályt, ha az adott támogatott tevékenységhez biztosított valamennyi
+költségvetésből nyújtott támogatás összege az egymillió-ötszázezer forintot nem éri el, és nem haladja meg a
+támogatott tevékenység összköltségét.”
+4. § Az Ámr. 208. §-a a következő (2) bekezdéssel egészül ki:
+„(2) A központi költségvetési szerv kötelezettségvállalással nem terhelt előirányzat-maradványa a teljes
+előirányzat-maradványának a kötelezettségvállalással terhelt maradvány összegével, valamint a maradványából az
+(1) bekezdés szerint a központi költségvetést megillető résszel csökkentett mértéke.”
+5. § Az Ámr. 210. § (1) bekezdése a következő g) ponttal egészül ki:
+[Kötelezettségvállalással terhelt előirányzat-maradványnak kell tekinteni]
+„g) a Széchenyi Kártya program keretein belül működő folyószámlahitel program előirányzat-maradványát.”
+6. § (1) Az Ámr. 212. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az elszámolás a fejezet költségvetési szervei és fejezeti kezelésű előirányzatai tekintetében külön-külön
+tartalmazza
+a) az előirányzat-maradványból a központi költségvetést megillető részt,
+b) a kötelezettségvállalással terhelt előirányzat-maradványt,
+c) javaslatot a költségvetési szervek és a fejezeti kezelésű előirányzatok kötelezettségvállalással nem terhelt
+maradványának változatlan célú visszahagyására vagy eltérő célú felhasználására.”
+(2) Az Ámr. 212. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az államháztartásértfelelős miniszter a (3) bekezdés a) pontja szerint benyújtott elszámolásta tárgyévet követő év
+május 15-éig, a (3) bekezdés b) pontja szerint benyújtott elszámolást a tárgyévet követő év június 20-áig felülvizsgálja.
+A felülvizsgálat eredményéről az államháztartásért felelős miniszter a fejezetet irányító szervet tájékoztatja.”
+(3) Az Ámr. 212. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az államháztartásért felelős miniszter a (2) bekezdés c) pontja szerinti kérelmek alapján előterjesztést készít a
+Kormánynak a kötelezettségvállalással nem terhelt előirányzat-maradványok változatlan vagy eltérő célú
+felhasználásának engedélyezéséről, valamint az eltérő célú felhasználáshoz szükséges átcsoportosításról. A Kormány
+az előterjesztésről nyilvános határozatban dönt.”
+(4) Az Ámr. 212. § (11) bekezdése helyébe a következő rendelkezés lép:
+„(11) A fejezetet irányító szervnél, vagy az irányítása alá tartozó központi költségvetési szervénél képződött
+előirányzat-maradvány más központi költségvetési szerv részére történő átadása-átvétele – az európai uniós forrásból
+
+finanszírozott programok előirányzatainak,a feladatfinanszírozáskörébe tartozó előirányzatok, és a fejezeten belül, az
+azonos előirányzat-felhasználási keretszámlán kezelt fejezeti kezelésű előirányzatok között újra felosztott
+előirányzatok kivételével – csak a fejezet maradvány-elszámolási számláján keresztül történhet.”
+7. § Az Ámr. 217. § a) pontja helyébe a következő rendelkezés lép:
+[Az irányító szerv az irányítása alá tartozó költségvetési szervek beszámolásához és a zárszámadáshoz]
+„a) a 216. § c) pont ca) alpontja szerinti beszámoló esetén a tárgyévet követő év január 31-ig, a 216. § c) pont
+cb) alpontja szerinti adatszolgáltatás esetén az államháztartásért felelős miniszter zárszámadási tájékoztatójának
+közzétételét követő öt napon belül – az abban szereplő időpont vagy időpontok alapulvételével – írásban
+meghatározza azok beküldésének határidejét,”
+8. § Az Ámr. 241. §-a a következő (8) bekezdéssel egészül ki:
+„(8) E rendeletnek az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet módosításáról szóló
+56/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított 121. § (4) bekezdését az államháztartás működési rendjéről
+szóló 292/2009. (XII. 19.) Korm. rendelet módosításáról szóló 56/2011. (IV. 12.) Korm. rendelet hatálybalépésének
+napján már megjelentetett pályázati kiírások, benyújtott támogatási igények, és biztosított költségvetésből nyújtott
+támogatások tekintetében is alkalmazni kell.”
+9. § Az Ámr. 1. számú melléklete helyébe e rendelet melléklete lép.
+10. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+11. § Az Ámr. 8. § (1) bekezdés b) pontjában az „az Országos Rádió és Televízió Testület” szövegrész helyébe az „a Nemzeti
+Média- és Hírközlési Hatóság” szöveg, 20. § (2) bekezdés c) pontjában az „alaptevékenységet meghatározó”
+szövegrész helyébe az „alaptevékenységet szabályozó” szöveg, 121. § (1) bekezdésében a „ponjában” szövegrész
+helyébe a „pontjában” szöveg, 209. §-ában az „előirányzatok kötelezettségvállalással nem terhelt, valamint”
+szövegrész helyébe az „előirányzatoknak” szöveg, 212. § (7) bekezdésében a „c)” szövegrész helyébe a „c) és g)”
+szöveg, valamint 226. § (1) bekezdésében a „május 31-éig” szövegrész helyébe az „április 30-áig” szöveg lép.
+12. § (1) Hatályát veszti az Ámr. 120. § (3) bekezdése, valamint 208. § (1) bekezdés h) pontja.
+(2) Hatályát veszti az Ámr. 20. § (2) bekezdés e) pontjában az „és a szervezeti egységek közötti kapcsolattartás rendjét,”
+szövegrész, valamint 114. § (1) bekezdés d) pontjában az „, illetve külön törvény szerinti adósságrendezési eljárás”
+szövegrész.
+Orbán Viktor s. k.,
+miniszterelnök
+Melléklet az 56/2011. (IV. 12.) Korm. rendelethez
+„1. számú melléklet a 292/2009. (XII. 19.) Korm. rendelethez
+Államháztartáson kívüli szervezetek köre és adatszolgáltatási kötelezettsége
+I. A kormányzati szektor és az államháztartás szervezeti körének eltérése
+A nemzeti számlák nemzetközi és hazai statisztikai szabványai elveket határoznak meg a statisztikai értelemben vett
+kormányzati szektorba tartozó szervezetek körére és besorolásuk módjára. Azok a gazdasági egységek tartoznak a
+kormányzati szektorba, amelyek nem-piaci termelést végeznek egyéni és közösségi fogyasztásra alkalmas javak
+előállítása érdekében, finanszírozási forrása jellemzően a többi gazdasági szektor számára előírt kötelező befizetés,
+illetve azok, amelyek a nemzeti jövedelem és a nemzeti vagyon újraelosztásában vesznek részt.
+A nem-piaci termelés azt jelenti, hogy nem árbevétel ellenében történik meg a javak felhasználásra való átadása,
+a termelés költségei nem vagy csak kis részben térülnek meg. A kormányzati szektor teljesítményét ezért a
+költségekkel, s nem a piaci szektorban alkalmazott értékesítési árbevétellel kell számba venni.
+
+A „tartalom elsődlegessége a formával szemben” alapelv érvényesülése alapján így – a magyar jogi előírások szerint az
+államháztartásba tartozó szervezeteken kívül – a tulajdonlás, az irányítás és a többségi finanszírozás együttes
+kritériumát teljesítő államháztartáson kívüli gazdasági szervezetek is a statisztikai értelemben vett kormányzati
+szektor részét képezik, a szervezeti-jogi formától és a gazdálkodás rendjétől függetlenül. Az adatszolgáltatás
+elrendelése teremti meg a feltételeket a statisztikai besorolási elvek (irányítás, finanszírozás, állam nevében végzett
+tevékenység) tényleges gyakorlati érvényesülésének vizsgálatához, s ennek alapján annak meghatározásához, mely
+szervezetek, illetve azok mely tevékenységei, milyen időszakban és módon jelenjenek meg a kormányzati szektor
+elszámolásaiban.
+A kormányzati szektorba besorolt nem államháztartási szervezetek körét a nemzeti számlák összeállításáért felelős
+statisztikai szolgálatok állapítják meg.
+A kormányzati szektorba besorolt szervezetek jegyzékét a Nemzetgazdasági Minisztérium a honlapján közzéteszi.
+II. Az adatszolgáltatás rendje
+1. Az adatszolgáltatást az alábbiakban felsorolt szervezetekre vonatkozóan kell teljesíteni:
+a) a részben vagy egészben állami tulajdonú gazdasági társaságok, amelyek működését, feladatait jogszabály
+egyedileg szabályozza, illetőleg jogszabály alapján állami feladatot részben vagy egészben állami
+kezességvállalás mellett felvett hitelforrásból, illetve költségvetési forrásokat megelőlegezve vagy utólagosan
+felhasználva finanszíroznak vagy végeznek; így különösen:
+aa) Magyar Nemzeti Vagyonkezelő Zrt.,
+ab) az Államadósság Kezelő Központ Zrt.,
+ac) a Magyar Fejlesztési Bank Zrt.,
+ad) a Magyar Exporthitel Biztosító Zrt.,
+ae) a Magyar Export-Import Bank Zrt.,
+af) a Magyar Rádió Zrt.,
+ag) a Magyar Televízió Zrt.,
+ah) a Duna Televízió Zrt.,
+ai) a Magyar Távirati Iroda Zrt.;
+b) az a) pontban meghatározott szervezetek és minisztériumok által alapított, tulajdonolt (közvetett állami
+tulajdonú) gazdasági társaságok, amelyek működését jogszabály egyedileg szabályozza, illetőleg jogszabály
+alapján állami feladatokat részben vagy egészben állami kezességvállalás mellett felvett hitelforrásból, illetve
+költségvetési forrásokat megelőlegezve vagy utólagosan felhasználva finanszíroznak vagy végeznek, így
+különösen:
+ba) a Diákhitel Központ Zrt.,
+bb) a Nemzeti Infrastruktúra Fejlesztő Zrt.,
+bc) az Állami Autópálya Kezelő Zrt.,
+bd) a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.,
+be) a Magyar Turizmus Zrt.,
+bf) a Nemzeti Színház Zrt.,
+bg) a Nemzeti Filharmónia Ingatlanfejlesztő Kft. (a Művészetek Palotája projekt elszámolása miatt),
+bh) a MÁV Start Zrt.,
+bi) a Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.,
+bj) a Regionális Fejlesztési Holding Zrt.,
+bk) a Nyírségi Vízgazdálkodási Társulat.,
+bl) a Művészetek Palotája Kulturális Szolgáltató Kft.;
+c) a minisztériumok, más, fejezet felügyeletét ellátó szervek, valamint a központi költségvetési szervek által alapított
+közhasznú társaságok;
+d) az Országgyűlés és a Kormány által alapított közalapítványok;
+e) aNemzeti Média- ésHírközlésiHatóság,valamintaNemzeti Média- ésHírközlésiHatóságönállójogiszemélyiségű
+Médiatanácsa;
+f) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap;
+g) az Egyetemes Elektronikus Hírközlési Támogatási Kassza;
+h) a Nyugdíjreform és Adósságcsökkentő Alap.
+
+2. Az 1. pontban foglalt szervezetekre vonatkozó adatszolgáltatást a következők teljesítik:
+a) az 1. pont a)–c) alpontjában foglalt szervezetek esetében a tulajdonosi jogokat gyakorló szerv vagy személy;
+b) az 1. pont d) alpontjában foglalt szervezetek esetében az alapító, illetve azon szervezet, amely a közalapítvány
+felett felügyeletet gyakorol, illetőleg amelynek költségvetéséből – a költségvetési törvény alapján – a
+közalapítvány, az alap, a testület szervezet támogatásban részesül;
+c) az 1. pont e) alpontjában foglalt szervezet esetében a Nemzeti Média és Hírközlési Hatóság vezetője;
+d) az 1. pont f) alpontjában foglalt szervezet esetében a Médiaszolgáltatás-támogató és Vagyonkezelő Alap
+vezetője;
+e) az 1. pont g) alpontjában foglalt szervezet esetében az Egyetemes Elektronikus Hírközlési Támogatási Kassza
+vezetője;
+f) az 1. pont h) alpontjában az Alapot képviselő Testület.
+3. Az adatszolgáltatást az alábbiak szerint kell teljesíteni:
+a) az éves tényadatokra vonatkozó adatszolgáltatás keretében a szervezetre vonatkozó könyvvezetési és
+beszámolási kötelezettség alapján készített – a jóváhagyásra jogosult testület által elfogadott, kötelező
+könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó –
+számviteli jogszabályok szerinti beszámolóját, a kiemelt mutatókat, a költségvetési kapcsolatokat az adott üzleti
+év mérleg-fordulónapját követő 180 napon belül;
+b) az évközi tényadatokra és a várható éves teljesítési adatokra vonatkozó adatszolgáltatás keretében az évközi és
+várható éves, a szervezet vagyoni helyzetét, vagyonváltozását és üzletpolitikáját bemutató összevont adatokat, a
+kiemelt mutatókat, a költségvetési kapcsolatokat negyedévente, a tárgynegyedévet követő hónap végéig;
+c) az éves és a középtávú terv (üzleti terv, stratégia, pénzügyi terv) – költségvetési tervezéshez felhasználandó –
+adatait, a szervezet várható vagyoni helyzetét és vagyonváltozását, valamint üzletpolitikáját bemutató összevont
+adatokat, a kiemelt mutatókat, a költségvetési kapcsolatokat a költségvetési tervezés kormányzati
+munkaprogramjában foglalt szervezeti körre vonatkozóan és ütemezéssel
+a Nemzetgazdasági Minisztérium által meghatározott tervezési, beszámolási és statisztikai adatigénynek
+megfelelően, a kormányzati funkciókhoz és tevékenységekhez illeszthető formában és módon a
+Nemzetgazdasági Minisztériumhoz, illetve kijelölt szervéhez kell eljuttatni, lehetőség szerint elektronikus úton,
+a tervezési/zárszámadási köriratban foglaltaknak megfelelően.
+d) az 1. pont c) és d) pontjában foglalt szervezetekre vonatkozóan adatszolgáltatást akkor kell teljesíteni, ha a
+költségvetési vagy zárszámadási tervezési körirat az adatszolgáltatást kifejezetten előírja.”
