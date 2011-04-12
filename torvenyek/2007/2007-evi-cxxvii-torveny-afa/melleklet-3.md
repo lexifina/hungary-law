@@ -269,3 +269,17 @@ Megnevezés
 |
 
 Távhőszolgáltatás, ideértve a villamos energiáról szóló törvény alapján megújuló energiaforrásnak minősülő energiaforráson alapuló hőszolgáltatást
+
+|
+
+2.
+
+|
+
+Előadóművész személyes közreműködésével
+
+a) vendéglátás keretében, üzletben,
+
+b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagy
+
+c) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás.

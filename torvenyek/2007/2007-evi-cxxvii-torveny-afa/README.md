@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2010-06-17 | 2010. évi LIII. törvény | 2007-127-00-00.15 |
 | 2011-01-01 | 2010. évi CXXIII. törvény | 2007-127-00-00.16 |
 | 2011-03-03 | 2010. évi CXXIII. törvény | 2007-127-00-00.17 |
+| 2011-04-12 | 2011. évi XXXV. törvény | 2007-127-00-00.18 |
