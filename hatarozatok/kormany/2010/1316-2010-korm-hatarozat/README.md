@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1316-30
 | --- | --- | --- |
 | 2010-12-28 | 2010-1316-30-22.1 | 1316/2010. (XII. 27.) Korm. határozat |
 | 2011-03-04 | 2010-1316-30-22.2 | 1035/2011. (III. 3.) Korm. határozat |
+| 2011-04-13 | 2010-1316-30-22.3 | 1035/2011. (III. 3.) Korm. határozat |
