@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-35-00-00
 | --- | --- | --- |
 | 2011-04-12 | 2011. évi XXXV. törvény | 2011-35-00-00.0 (közlönyállapot) |
 | 2011-04-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-35-00-00.1 |
+| 2011-04-13 | 2010. évi CXXX. törvény | 2011-35-00-00.2 |
