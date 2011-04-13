@@ -1,0 +1,134 @@
+# A Kormány 64/2011. (IV. 13.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 39. szám, 2011. április 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4dd15f2890ac0f7b79e5eed0ffbc0bd10a6fd59a/dokumentumok/958fee6ef23c1d76469087a32dd11520e9d7bb58/letoltes)
+
+---
+
+A Kormány 64/2011. (IV. 13.) Korm. rendelete
+a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők,
+valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó
+egyes kormányrendeletek módosításáról
+A Kormány
+az Alkotmány35. § (2) bekezdésébenmeghatározotteredeti jogalkotóihatáskörében,az Alkotmány35. § (1) bekezdésa) pontjában
+meghatározott feladatkörében eljárva,
+a 2. § tekintetében az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés a) és b) pontjában kapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 3. § tekintetében a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 207. § (1) bekezdés j) pontjában kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm.
+rendelet (a továbbiakban: R1.) 1. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+„(1) E rendelet alkalmazásában csapatmozgás a Magyar Honvédségnek és a külföldi fegyveres
+erőknek – a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 204. §
+(1) bekezdés c) pontja szerint – az államhatár átlépésével járó olyan tevékenysége, amely”
+(2) Az R1. 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) E rendelet alkalmazásában nem minősül csapatmozgásnak
+a) a katonai szakmai, partneri látogatásokon és azok előkészítésében történő részvétel,
+b) nyílt vagy zártkörű kereskedelmi, (hadi)technikai bemutatókon és azok előkészítésében történő részvétel,
+c) a gyógykezelésen, üdültetésen, sportrendezvényeken és azok előkészítésében való részvétel,
+d) hagyományőrző, kegyeleti, kulturális, társadalmi rendezvényeken és azok előkészítésében történő részvétel,
+e) nemzetközi szervezet által szervezett és vezetett műveletekben az időszakos katonai megfigyelői és katonai
+szaktanácsadói feladatok ellátása,
+f) a nem műveleti területen működő, többnemzeti – akár állandó, akár csak egy adott művelet irányítása érdekében
+létrehozott – parancsnokságokon történő szolgálatteljesítés, ha az nem jár a tényleges műveleti területre küldéssel,
+g) amásállamkatonaivagymásállamiszervénél,valamintnemzetköziszervezetnéltörténőegyéniszolgálatteljesítés,
+h) tanulmányok (ideértve a képzés gyakorlati részét is) folytatása,
+
+i) a behozatali vagy kiviteli engedéllyel rendelkező hadiipari, illetve beruházási célú katonai szállítmány kísérete vagy
+rakomány őrzése,
+j) a NATO-tagállamok állami légijárműveinek – esetenként legfeljebb négy légijárműből álló kötelék – navigációs
+gyakorló repülése és technikai leszállása,
+k) más, az előzőekhez hasonló céllal történő katonai mozgás.”
+(3) Az R1. 1. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ha nemzetközi szerződés kifejezetten tartalmazza az előzetes határátlépési engedélyezés mellőzhetőségét, akkor
+e rendeletnek az engedélyezésre vonatkozó rendelkezéseit nem kell alkalmazni.”
+(4) Az R1. 2. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A honvédelmi miniszter minden év december 15-éig döntésre a Kormány elé terjeszti a következő évre tervezett
+csapatmozgások jegyzékét, amely tartalmazza)
+„b)aMagyar HonvédségrészvételévelkülföldönvagykülföldifegyvereserőkrészvételévelMagyarországontervezett
+ba) NATO-gyakorlatok és kiképzések,
+bb) békepartnerségi (a továbbiakban: PfP) gyakorlatok és kiképzések,
+bc) PfP szellemű gyakorlatok és kiképzések,
+bd) két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések,
+be) az 1. § (1) bekezdése szerint minősülő egyéb katonai tevékenységek
+felsorolását;”
+(5) Az R1. 2. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) Az engedélyezés a (2) bekezdés b) és d) pontja szerinti esetekben a gyakorlatokon részt vevő külföldi fegyveres
+erők átvonulásának engedélyezését is jelenti.
+(5) Az év közben ismertté váló, előre nem tervezett csapatmozgásokat a Kormány a tárgyévi engedély módosításával
+engedélyezi.”
+(6) Az R1. 7. §-a hatályát veszti.
+(7) Az R1. 1. számú melléklet 4. pontja helyébe a következő rendelkezés lép:
+„4. A rendezvény tervezett helyszíne az ország megjelölésével.”
+2. § (1) A határátkelőhely és az ideiglenes határátkelőhely megnyitásáról és működtetéséről, valamint a határátlépési pontról
+szóló 332/2007. (XII. 13.) Korm. rendelet (a továbbiakban: R2.) 10. § (1) bekezdés d) pontja helyébe a következő
+rendelkezés lép:
+[Az államhatár ideiglenes megnyitására (a továbbiakban: ideiglenes határátkelőhely) engedéllyel kerülhet sor.
+Az ideiglenes határátkelőhely megnyitására irányuló kérelemnek tartalmaznia kell]
+„d) a 15/A. §-ban foglalt eset kivételével, nyilatkozatot, amelyben a kérelmező kötelezettséget vállal arra, hogy
+biztosítja az ideiglenes határátkelőhely működtetéséhez szükséges tárgyi, technikai és pénzügyi feltételeket, és
+vállalja a mellékletben meghatározott, az ideiglenes határnyitással felmerülő költségek megtérítését,”
+(2) Az R2. a következő 15/A. §-sal egészül ki:
+„15/A. § (1) Mentesül a 10. § (1) bekezdés d) pontjában meghatározott, az ideiglenes határnyitással felmerülő
+költségek megtérítésének kötelezettsége alól
+a) a légiközlekedésről szóló 1995. évi XCVII. törvény 71. § 2. pontjában meghatározott magyar állami légijármű,
+b) viszonosság alapján az Európai Unió, valamint az Észak-atlanti Szerződés Szervezete tagállamának állami
+légijárműve,
+c) az Egyesült Nemzetek Szervezete, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete műveleti irányítása
+alatt álló katonai vagy rendvédelmi célú légijármű.
+(2) Az (1) bekezdés b) pontjában hivatkozott viszonosság és a műveleti irányítás fennállta tekintetében a honvédelmi
+miniszter állásfoglalása irányadó.”
+3. § (1) A Magyar Honvédségfeladatainakellátásávalösszefüggőnemzetközikártérítésiügyekkelkapcsolatoseljárásrészletes
+szabályairól szóló 276/2008. (XI. 21.) Korm. rendelet (a továbbiakban: R3.) 1. §-a a következő e) ponttal egészül ki:
+(Az e rendeletben foglaltakat kell alkalmazni)
+„e) a Magyar Köztársaság területén felállított, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai
+parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv I. cikk b), c) pontjának vagy
+XIV. cikkének hatálya alá tartozó nemzetközi katonai parancsnokság vagy szervezet (a továbbiakban: parancsnokság)
+
+állománya által a Magyar Köztársaság területén okozott, valamint a Honvédség által a parancsnokságnak okozott
+károk kivizsgálása és elbírálása, valamint megtérítése tekintetében.”
+(2) Az R3. 2. § (1) bekezdés b) és c) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„b) magyar harmadik fél: olyan természetes személy, valamint a Honvédség kivételével olyan jogi személy vagy jogi
+személyiséggel nem rendelkező szervezet, akit a Magyar Köztársaság területén kár ér, kivéve a Honvédség hivatásos,
+szerződéses vagy önkéntes tartalékos állományába tartozó azon személyt, aki szolgálatteljesítés teljesítés közben
+veszti életét vagy szenved személyi sérülést;
+c) külföldiharmadik fél: az a) és a b) pont hatálya alá nem tartozó természetes személy, valamint jogi személy vagy jogi
+személyiséggel nem rendelkező szervezet;”
+(3) Az R3. 4. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A kárigény (3) bekezdés szerinti behajthatatlanságát a Honvédelmi Minisztérium vagyongazdálkodásért felelős
+szervének a vezetője állapítja meg.”
+(4) Az R3. 6. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek, és egyidejűleg a 6. § a következő
+(9) bekezdéssel egészül ki:
+„(7) Ha a külföldi fegyveres erő a károkozásért való felelősséget nem vállalja és kifizetést sem ajánl fel vagy a károsult
+az (5) bekezdés szerint felajánlott összeget kárigényének teljes kielégítéseként nem fogadja el, a károsult a kárigényét
+közvetlenül a külföldi fegyveres erő állományának tagjával szemben érvényesítheti.
+(8) Ha a károsult a (3) bekezdés szerint felajánlott összeget kárigényének teljes kielégítéseként nem fogadja el,
+kárigényét peres úton a Magyar Állammal szemben érvényesítheti.
+(9) A (8) bekezdés alapján indult perekben a Magyar Államot a honvédelmi miniszter képviseli.”
+(5) Az R3. a következő alcímmel és 11/A. §-sal egészül ki:
+„A NEMZETKÖZI KATONAI PARANCSNOKSÁGOKKAL KAPCSOLATOS KÁRTÉRÍTÉSI ÜGYEK
+11/A. § (1) A parancsnokság és a Honvédség közötti kártérítési ügyek kivizsgálására, elbírálására és a kár esetleges
+megtérítéséreirányulóeljárásta HonvédelmiMinisztérium illetékesszerveaz Észak-atlantiSzerződésalapjánfelállított
+nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv
+rendelkezéseinek megfelelően folytatja le.
+(2) Ha a parancsnokság magyar harmadik félnek a Magyar Köztársaság területén okoz kárt, a 6. és 7. § rendelkezéseit
+az alábbi eltérésekkel kell alkalmazni:
+a) ahol a 6. és 7. § „külföldi fegyveres erőt” említ, ott a parancsnokságot kell érteni;
+b) ha a parancsnokság a szolgálati igazolásban a felelősségét nem ismeri el, és a vizsgálat alapján megállapításra kerül,
+hogy a kárt okozó állomány a kárt szolgálati kötelességteljesítésen kívül vagy szolgálati jármű nem engedélyezett
+használata során okozta a magyar harmadik félnek, a Honvédelmi Minisztérium illetékes szerve a 6. § (5) és
+(6) bekezdése, valamint a 7. § (6) kezdése alkalmazásábana kárt okozó állomány küldő állama szerinti fegyveres erőt is
+megkeresi.”
+(6) Az R3. 14. §-a a következő (4) bekezdéssel egészül ki:
+„(4) E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a
+Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló
+64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr.
+hatálybalépését követően a Honvédelmi Minisztérium illetékes szervéhez benyújtott kárigények elbírálása
+tekintetében kell alkalmazni.”
+4. § Ez a rendelet 2011. május 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+
+IV. A Magyar Nemzeti Bank és a Pénzügyi Szervezetek
+Állami Felügyelete elnökének rendeletei
