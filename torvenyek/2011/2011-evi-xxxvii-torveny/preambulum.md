@@ -1,0 +1,1 @@
+[A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) a Magyar Köztársaság vonatkozásában 2001. szeptember 17-én, míg az SzMGSz 2010. évi módosításai és kiegészítései a Magyar Köztársaság vonatkozásában 2010. július 1-jén léptek nemzetközi jogilag hatályba.]

@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás és Mellékletei módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegét (a továbbiakban: SzMGSz Megállapodás) és az SzMGSz Megállapodáshoz tett fenntartásokat e törvénnyel kihirdeti.
