@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-12-20-2
 | 2010-05-14 | 2003-12-20-22.6 | 169/2010. (V. 11.) Korm. rendelet |
 | 2010-06-10 | 2003-12-20-22.7 | 194/2010. (VI. 10.) Korm. rendelet |
 | 2011-01-15 | 2003-12-20-22.8 | 194/2010. (VI. 10.) Korm. rendelet |
+| 2011-04-13 | 2003-12-20-22.9 | 194/2010. (VI. 10.) Korm. rendelet |
