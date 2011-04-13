@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-126-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 2003-126-00-00.22 |
 | 2010-11-20 | 2010. évi CV. törvény | 2003-126-00-00.23 |
 | 2011-01-01 | 2010. évi CXXII. törvény | 2003-126-00-00.24 |
+| 2011-04-13 | 2011. évi XXXVII. törvény | 2003-126-00-00.25 |

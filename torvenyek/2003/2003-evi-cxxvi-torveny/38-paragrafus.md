@@ -12,4 +12,4 @@ d) az indító vámhivatal hivatalos helyén kívül végzett vámkezelésre ny�
 
 e) a természeti katasztrófák vagy egyéb rendkívüli események bekövetkeztekor, illetve rendkívüli helyzetekben nyújtandó segítség céljából történő árutovábbítási eljárás során a vámhatóság a bejelentés egyszerűsítését engedélyezheti, ha az eset körülményei alapján feltételezhető, hogy a vámelőírásokat nem sértik meg,
 
-f) a 170/2002. (VIII. 7.) Korm. rendelettel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SZMGSZ) II. Rész 7. Cikke szerinti fuvarlevéllel (a továbbiakban: SZMGSZ fuvarlevél) történő árutovábbítási eljárásra vonatkozó részletes szabályokat e törvény végrehajtási rendelete állapítja meg.
+f) a 2011. évi XXXVII. törvénnyel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SZMGSZ) II. Rész 7. Cikke szerinti fuvarlevéllel (a továbbiakban: SZMGSZ fuvarlevél) történő árutovábbítási eljárásra vonatkozó részletes szabályokat e törvény végrehajtási rendelete állapítja meg.
