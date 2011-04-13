@@ -18,7 +18,7 @@ g) kezdeményezi és összehangolja a kábítószer-fogyasztás visszaszorítás
 
 h) a kábítószer-probléma hatékony kezelése érdekében rendszeresen kapcsolatot tart a nem kormányzati szervezetekkel.
 
-3.[^1] A Bizottság elnöke a szociális és munkaügyi miniszter, társelnöke az egészségügyi miniszter és a miniszterelnök által felkért személy.
+3.[^2] A Bizottság elnöke a szociális és munkaügyi miniszter, társelnöke az egészségügyi miniszter és a miniszterelnök által felkért személy.
 
 4. A Bizottság szükség szerint, de évente legalább négy alkalommal tart ülést.
 
@@ -36,7 +36,7 @@ h) a kábítószer-probléma hatékony kezelése érdekében rendszeresen kapcso
 
 11. A Bizottság állandó tagjai:
 
-a)[^2] a Bizottság elnöke és társelnökei,
+a)[^3] a Bizottság elnöke és társelnökei,
 
 b) az Igazságügyi és Rendészeti Minisztérium képviselője,
 
@@ -58,7 +58,7 @@ c) a Honvédelmi Minisztérium képviselője,
 
 d) a Külügyminisztérium képviselője,
 
-e)[^3]
+e)[^4]
 
 f) az Állami Népegészségügyi és Tisztiorvosi Szolgálat képviselője,
 
@@ -74,9 +74,9 @@ a) a Legfelsőbb Bíróság képviselője,
 
 b) a Legfőbb Ügyészség képviselője,
 
-c) az Országos Bűnmegelőzési Bizottság képviselője,
+c)[^5] a Nemzeti Bűnmegelőzési Tanács képviselője,
 
-d)[^4] a nemzetbiztonsági szolgálatok képviselője,
+d)[^6] a nemzetbiztonsági szolgálatok képviselője,
 
 e) a Magyar Kereskedelmi Engedélyezési Hivatal képviselője,
 
@@ -106,10 +106,11 @@ j) a Bizottság elnöke által felkért további szakértők.
 
 21. A Bizottság elnöke az e határozat hatálybalépését követő 15 napon belül teszi közzé a 16. pont szerinti közleményt. A nem kormányzati szervezetek által első alkalommal delegált tagok megválasztására egyebekben a 16–18. pontokban foglaltak az irányadók. A nem kormányzati szervezetek által első alkalommal delegált tagok megbízatása 2008. december 31-éig szól.
 
-22–23.[^5]
+22–23.[^7]
 
-[^1]: A 3. pont az 1010/2009. (I. 30.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 11. pont a) alpontja az 1010/2009. (I. 30.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 12. pont e) alpontját az 1010/2009. (I. 30.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^4]: A 13. pont d) alpontja az 1094/2007. (XII. 5.) Korm. határozat 23. pontjának ba) alpontja szerint módosított szöveg.
-[^5]: A 22–23. pontot az 1094/2007. (XII. 5.) Korm. határozat 23. pontjának bb) alpontja hatályon kívül helyezte.
+[^2]: A 3. pont az 1010/2009. (I. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 11. pont a) alpontja az 1010/2009. (I. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 12. pont e) alpontját az 1010/2009. (I. 30.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^5]: A 13. pont c) alpontja az 1087/2011. (IV. 12.) Korm. határozat 16. pont d) alpontja szerint módosított szöveg. Alkalmazására lásd e módosító határozat 16. pont a)–c) alpontját.
+[^6]: A 13. pont d) alpontja az 1094/2007. (XII. 5.) Korm. határozat 23. pontjának ba) alpontja szerint módosított szöveg.
+[^7]: A 22–23. pontot az 1094/2007. (XII. 5.) Korm. határozat 23. pontjának bb) alpontja hatályon kívül helyezte.
