@@ -1,0 +1,1 @@
+## 17. § Az intézmény a kártyakibocsátásra irányuló szolgáltatási tevékenység megkezdéséről haladéktalanul, de legkésőbb 3 napon belül utólagosan értesíti a Hatóságot, amely erről az irányítását ellátó minisztert (a továbbiakban: miniszter) tájékoztatja, és az értesítést tevő intézményt nyilvántartásba veszi.
