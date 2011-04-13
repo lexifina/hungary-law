@@ -2,7 +2,7 @@
 
 ## kárainak felelősségbiztosítási összeghatárai
 
-2. §[^6] (1) A 785/2004/EK rendelet által nem szabályozott esetekben a harmadik személyeknek okozott károk megtérítésére vonatkozó felelősségbiztosításnak a légijármű maximális felszállótömegétől függően legalább az alábbi összeghatárokig kell fedezetet nyújtania:
+2. §[^7] (1) A 785/2004/EK rendelet által nem szabályozott esetekben a harmadik személyeknek okozott károk megtérítésére vonatkozó felelősségbiztosításnak a légijármű maximális felszállótömegétől függően legalább az alábbi összeghatárokig kell fedezetet nyújtania:
 
 a) 200 kg vagy ennél kevesebb maximális felszállótömeg esetén 10 000 000 Ft
 
@@ -12,4 +12,4 @@ c) 501 kg maximális felszállótömegtől kezdődően 50 000 000 Ft
 
 (2) A légijármű maximális felszállótömege a légijármű légialkalmassági bizonyítványában meghatározott legnagyobb tömeg.
 
-[^6]: A 2. § a 4/2006. (I. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2. § a 4/2006. (I. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

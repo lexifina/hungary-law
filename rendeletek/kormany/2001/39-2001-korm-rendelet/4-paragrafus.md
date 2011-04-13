@@ -1,6 +1,6 @@
 ## A légiközlekedési tevékenység szerződéses felelősségek biztosítási összeghatárai
 
-4. §[^8] (1) A légiközlekedési tevékenységet végző légijármű üzemben tartója felelősségbiztosításának összeghatáraira vonatkozó szabályokat a 785/2004/EK rendelet tartalmazza.
+4. §[^9] (1)[^10] A légiközlekedési tevékenységet végző légi jármű üzemben tartója felelősségbiztosításának összeghatáraira vonatkozó szabályokat a 785/2004/EK rendelet és a 285/2010/EU rendelet tartalmazza.
 
 (2) A 785/2004/EK rendelet által nem szabályozott esetekben légiközlekedési tevékenységet végző légijármű üzemben tartója felelősségbiztosításának legalább a következő összeghatárokig kell fedezetet nyújtania:
 
@@ -14,4 +14,5 @@ b) a kizárólag légi áru- és postafuvarozást végző tevékenység esetén 
 
 (5) A légi személyszállítási szerződéssel összefüggő károkozás egyéb szabályait a 2002. május 13-i 889/2002/EK európai parlamenti és tanácsi rendelettel módosított, a légifuvarozók baleset esetén fennálló felelősségéről szóló, 1997. október 9-i 2027/97/EK tanácsi rendelet tartalmazza.
 
-[^8]: A 4. § a 4/2006. (I. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 4. § a 4/2006. (I. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdése a 61/2011. (IV. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
