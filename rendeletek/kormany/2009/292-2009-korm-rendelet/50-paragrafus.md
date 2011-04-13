@@ -24,6 +24,6 @@ e) a költségvetési feladatmutatók állományát és a teljesítménymutatók
 
 (3) A társadalombiztosítási költségvetési szervek elemi költségvetésüket a központi költségvetési szervekre vonatkozó szabályok alapján készítik el és juttatják el a fejezetet irányító szervhez.
 
-(4)[^88] Az ONYF és az OEP a központi hivatali szerv, az igazgatási szervei, és az általuk kezelt társadalombiztosítás pénzügyi alapjai összeállított, feldolgozott és jóváhagyott elemi költségvetéseit a Nemzetgazdasági Minisztériumhoz és a Kincstárhoz nyújtja be a tárgyév február 28-áig az államháztartásért felelős miniszter rendeletében foglaltak szerint.
+(4)[^89] Az ONYF és az OEP a központi hivatali szerv, az igazgatási szervei, és az általuk kezelt társadalombiztosítás pénzügyi alapjai összeállított, feldolgozott és jóváhagyott elemi költségvetéseit a Nemzetgazdasági Minisztériumhoz és a Kincstárhoz nyújtja be a tárgyév február 28-áig az államháztartásért felelős miniszter rendeletében foglaltak szerint.
 
-[^88]: Az 50. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^89]: Az 50. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 19. §-ával megállapított szöveg.

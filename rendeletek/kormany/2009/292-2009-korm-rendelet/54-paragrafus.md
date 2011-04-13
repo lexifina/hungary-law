@@ -1,4 +1,4 @@
-## 53. §[^95]
+## 53. §[^96]
 
 ## IV. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## AZ ELŐIRÁNYZATOK MÓDOSÍTÁSÁNAK, ÁTCSOPORTOSÍTÁSÁNAK ÁLTALÁNOS SZABÁLYAI
 
-54. § (1)–(2)[^96]
+54. § (1)–(2)[^97]
 
 (3) Az előirányzatok módosítása, átcsoportosítása (a továbbiakban együtt: megváltoztatása) lehet csak az adott költségvetési évben érvényesülő (a továbbiakban: egyszeri) vagy a költségvetési előirányzatokba véglegesen beépülő (a továbbiakban: tartós).
 
@@ -14,5 +14,5 @@
 
 (5) Az előirányzat megváltoztatása nem irányulhat az előirányzat-módosítási kötelezettség nélkül teljesülő előirányzatok jóváhagyott céltól eltérő csökkentésére.
 
-[^95]: Az 53. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
-[^96]: Az 54. § (1)–(2) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^96]: Az 53. §-t és az azt megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^97]: Az 54. § (1)–(2) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

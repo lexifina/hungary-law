@@ -6,11 +6,11 @@
 
 a) a KESZ felett rendelkezési jogokat gyakorló részére a Kormány,
 
-b)[^256] a központi költségvetési szerv részére az államháztartásért felelős miniszter,
+b)[^262] a központi költségvetési szerv részére az államháztartásért felelős miniszter,
 
-c)[^257] a helyi önkormányzati, illetve helyi kisebbségi önkormányzati költségvetési szerv részére jogszabályban előírt letéti kezelés esetén a helyi önkormányzat képviselő-testülete, más esetben az államháztartásért felelős miniszter,
+c)[^263] a helyi önkormányzati, illetve helyi kisebbségi önkormányzati költségvetési szerv részére jogszabályban előírt letéti kezelés esetén a helyi önkormányzat képviselő-testülete, más esetben az államháztartásért felelős miniszter,
 
-d)[^258] az országos kisebbségi önkormányzati költségvetési szerv részére jogszabályban előírt letéti kezelés esetén az országos kisebbségi önkormányzat közgyűlése, más esetben az államháztartásért felelős miniszter
+d)[^264] az országos kisebbségi önkormányzati költségvetési szerv részére jogszabályban előírt letéti kezelés esetén az országos kisebbségi önkormányzat közgyűlése, más esetben az államháztartásért felelős miniszter
 
 engedélyezi.
 
@@ -34,7 +34,7 @@ c) a kedvezményezett neve, címe,
 
 d) a letét elrendelt kiutalásának időpontja vagy határideje, a tényleges kiutalás időpontja.
 
-(7)[^259] A letéti számlával rendelkező költségvetési szerv az éves költségvetési beszámolás részeként – az államháztartásért felelős miniszter által meghatározott módon – számot ad a letéti számla
+(7)[^265] A letéti számlával rendelkező költségvetési szerv az éves költségvetési beszámolás részeként – az államháztartásért felelős miniszter által meghatározott módon – számot ad a letéti számla
 
 a) év eleji nyitó állományáról,
 
@@ -48,7 +48,7 @@ e) az év végi záró állományról és annak jogcímenkénti, illetve összev
 
 (8) A nem forintban kezelt hatósági letéteket a Kincstár devizanemenként gyűjtő számlán vezetheti.
 
-[^256]: A 179. § (2) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^257]: A 179. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^258]: A 179. § (2) bekezdés d) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^259]: A 179. § (7) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^262]: A 179. § (2) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^263]: A 179. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^264]: A 179. § (2) bekezdés d) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^265]: A 179. § (7) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

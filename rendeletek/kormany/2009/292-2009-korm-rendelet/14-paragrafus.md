@@ -1,10 +1,10 @@
 14. § (1) Az Áht. 49. §-ának (4) bekezdésében foglalt esetben utasításban, vagy azon központi költségvetési szerv alapító okiratában, amely tekintetében a középirányító szerv az átruházott irányítói jogokat gyakorolja, a feladat- és hatásköröket részletesen elválasztva meg kell határozni az egyes irányítói jogok gyakorlására jogosult szervet, illetve vezetőt.
 
-(2)[^30] Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a középirányító szerv a következő jogokat gyakorolhatja az irányítása alá tartozó költségvetési szervek vonatkozásában:
+(2)[^31] Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a középirányító szerv a következő jogokat gyakorolhatja az irányítása alá tartozó költségvetési szervek vonatkozásában:
 
 a) közreműködés a Kormány vagy az irányító szerv által megállapított költségvetési keretszámok költségvetési szervenkénti elosztásában, összesítésében,
 
-b)[^31] javaslattétel, illetve közreműködés a költségvetési szervek létszám-előirányzatának jóváhagyása tekintetében,
+b)[^32] javaslattétel, illetve közreműködés a költségvetési szervek létszám-előirányzatának jóváhagyása tekintetében,
 
 c) irányelv, iránymutatás készítése a költségvetési szervek költségvetésének felhasználására vonatkozóan, beleértve a létszámmal és a személyi juttatásokkal való gazdálkodást is,
 
@@ -26,5 +26,5 @@ j) a gazdasági szervezettel rendelkező önállóan működő és gazdálkodó,
 
 (4) Ha törvény eltérően nem rendelkezik a körjegyzőségek, a közösen létrehozott helyi önkormányzati költségvetési szervek, valamint a társulások által alapított költségvetési szervek esetében az irányítói jogok gyakorlásának rendjét a működésüket szabályozó, illetve az alapításban részt vevő helyi önkormányzatok megállapodása határozza meg. A helyi kisebbségi önkormányzatok által közösen létrehozott vagy működtetett költségvetési szervekre vonatkozó irányítói jogok gyakorlásának rendjét megállapodásba kell foglalni.
 
-[^30]: A 14. § (2) bekezdés nyitó szövegrésze a 313/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^31]: A 14. § (2) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^31]: A 14. § (2) bekezdés nyitó szövegrésze a 313/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^32]: A 14. § (2) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

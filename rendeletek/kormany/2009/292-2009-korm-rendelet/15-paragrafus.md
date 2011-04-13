@@ -4,11 +4,11 @@
 
 (2) A gazdasági szervezet ellátja
 
-a)[^32] a költségvetési szerv költségvetésének előirányzatai tekintetében a gazdálkodással, könyvvezetéssel és az adatszolgáltatással kapcsolatos feladatokat,
+a)[^33] a költségvetési szerv költségvetésének előirányzatai tekintetében a gazdálkodással, könyvvezetéssel és az adatszolgáltatással kapcsolatos feladatokat,
 
 b) a költségvetési szerv működtetésével, üzemeltetésével, a költségvetési szerv vagyongazdálkodása körében a beruházással, a vagyon használatával, hasznosításával, védelmével kapcsolatos feladatokat, és
 
-c)[^33] a költségvetési szervhez rendelt más költségvetési szerv a) és – ha nem szolgáltatás-vásárlással történik annak ellátása – b) pont szerinti feladatait.
+c)[^34] a költségvetési szervhez rendelt más költségvetési szerv a) és – ha nem szolgáltatás-vásárlással történik annak ellátása – b) pont szerinti feladatait.
 
 (3) A (2) bekezdés b) pontjában foglalt feladatok ellátása a gazdasági szervezeten kívül jogszabály előírása, annak hiányában az irányító szerv által szabályozott vagy engedélyezett módon, és a felelősség átruházása nélkül szolgáltatás megrendelésével is történhet.
 
@@ -18,18 +18,18 @@ a) az önállóan működő költségvetési szerv nem rendelkezik,
 
 b) az önállóan működő és gazdálkodó költségvetési szerv jogszabály vagy az irányító szerv döntése alapján rendelkezhet.
 
-(5)[^34]
+(5)[^35]
 
 (6) A gazdasági szervezetnek a 20. § (7) bekezdése szerinti ügyrenddel kell rendelkeznie. A gazdasági szervezet ügyrendjében nem kell szabályozni a 20. § (3) bekezdése szerint kiadott szabályzatokban rendezett kérdéseket. Ha a gazdasági szervezet feladatait az (1) bekezdés szerint több szervezeti egység látja el, a szervezeti egységeknek külön-külön kell rendelkezniük ügyrenddel, de a gazdasági szervezet egészére nézve nem kell külön ügyrendet készíteni.
 
 (7) A fejezetet irányító szerv a központi és a fejezeti kezelésű előirányzatok tekintetében a gazdálkodással, továbbá a könyvvezetéssel és az adatszolgáltatással kapcsolatos feladatokat a szervezeti és működési szabályzatában foglaltak szerint a gazdasági szervezetével, vagy ezekkel a feladatokkal külön megbízott más szervezeti egységével látja el.
 
-(8)[^35] Az alapok kezelője, továbbá – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(5) bekezdése alapján középirányító szervre, kezelő szervre, központi kezelésű előirányzat esetén jogszabály kezelő szervre ruházta át – a középirányító szerv, illetve az előirányzat kezelő szerve az alapokkal, illetve a központi vagy fejezeti kezelésű előirányzatokkal kapcsolatos gazdálkodási, könyvvezetési, adatszolgáltatási feladatait – figyelemmel a (9) bekezdésben foglaltakra is – a gazdasági szervezetével, vagy ezekkel a feladatokkal külön megbízott más szervezeti egységével látja el.
+(8)[^36] Az alapok kezelője, továbbá – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(5) bekezdése alapján középirányító szervre, kezelő szervre, központi kezelésű előirányzat esetén jogszabály kezelő szervre ruházta át – a középirányító szerv, illetve az előirányzat kezelő szerve az alapokkal, illetve a központi vagy fejezeti kezelésű előirányzatokkal kapcsolatos gazdálkodási, könyvvezetési, adatszolgáltatási feladatait – figyelemmel a (9) bekezdésben foglaltakra is – a gazdasági szervezetével, vagy ezekkel a feladatokkal külön megbízott más szervezeti egységével látja el.
 
-(9)[^36] Ha a megyei kormányhivatalokon belül működő szakigazgatási szerv a fejezeti kezelésű előirányzatok meghatározott része felett a 109. § (6) bekezdése, továbbá vagy törvény alapján valamely alap előirányzatai meghatározott része felett rendelkezési joggal bír, az előirányzatokkal, vagy jogszabályban meghatározott feladatai ellátásával kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatait az ezekkel a feladatokkal külön megbízott, a szakigazgatási szerven belül működő szervezeti egységével látja el.
+(9)[^37] Ha a megyei kormányhivatalokon belül működő szakigazgatási szerv a fejezeti kezelésű előirányzatok meghatározott része felett a 109. § (6) bekezdése, továbbá vagy törvény alapján valamely alap előirányzatai meghatározott része felett rendelkezési joggal bír, az előirányzatokkal, vagy jogszabályban meghatározott feladatai ellátásával kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatait az ezekkel a feladatokkal külön megbízott, a szakigazgatási szerven belül működő szervezeti egységével látja el.
 
-[^32]: A 15. § (2) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^33]: A 15. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
-[^34]: A 15. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
-[^35]: A 15. § (8) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^36]: A 15. § (9) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^33]: A 15. § (2) bekezdés a) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^34]: A 15. § (2) bekezdés c) pontja a 226/2010. (VIII. 13.) Korm. rendelet 74. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 15. § (5) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^36]: A 15. § (8) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^37]: A 15. § (9) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.

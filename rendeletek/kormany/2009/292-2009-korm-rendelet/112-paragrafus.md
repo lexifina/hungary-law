@@ -12,7 +12,7 @@ E rendelet alkalmazásában – a 135. § (3) bekezdésében foglalt eset kivét
 
 (3) Ha a (2) bekezdés szerinti jogszabály a költségvetésből nyújtott támogatás biztosításának módjáról nem rendelkezik, arról – a (4) bekezdésben meghatározott kivétellel – e rendelet előírásainak megfelelően a Ptk. szerint magánjogi szerződésnek minősülő támogatási szerződésben kell megállapodni a kedvezményezettel.
 
-(4)[^193] Ha a más fejezetbe sorolt, kincstári körbe tartozó kedvezményezett részére a költségvetésből nyújtott támogatás rendelkezésre bocsátása előirányzat-átcsoportosítással történik, arról az 55. § (5) bekezdése szerinti megállapodásban kell rendelkezni. A megállapodásnak az 55. § (5) bekezdésében foglaltakon felül a (6) bekezdésben foglalt feltételekről is rendelkeznie kell.
+(4)[^194] Ha a más fejezetbe sorolt, kincstári körbe tartozó kedvezményezett részére a költségvetésből nyújtott támogatás rendelkezésre bocsátása előirányzat-átcsoportosítással történik, arról az 55. § (5) bekezdése szerinti megállapodásban kell rendelkezni. A megállapodásnak az 55. § (5) bekezdésében foglaltakon felül a (6) bekezdésben foglalt feltételekről is rendelkeznie kell.
 
 (5) A támogató a támogatási döntés meghozatalát követő tizenöt napon belül írásban tájékoztatja a támogatási igény benyújtóját a támogatási döntésről. Az értesítésben közölni kell a támogatói okirat kiadásának tervezett időpontját, vagy a támogatási szerződés megkötésére megfelelő – jogszabály eltérő rendelkezése hiányában legfeljebb harminc napos – határidőt kell megállapítani.
 
@@ -52,4 +52,4 @@ m) a támogatások felhasználásának elkülönített nyilvántartási kötelez
 
 (10) A támogató a költségvetésből nyújtott támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett utolsó beszámolójának és kifizetési igénylésének támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
 
-[^193]: A 112. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^194]: A 112. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
