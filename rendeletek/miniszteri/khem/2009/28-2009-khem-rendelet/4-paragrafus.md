@@ -1,4 +1,4 @@
-## 3/A. §[^9] A szolgáltatók által alkalmazandó díjakat – szolgáltatónkénti bontásban – az éves fogyasztott mennyiség alapján I. és II. árkategóriában a 3. melléklet tartalmazza.
+## 3/A. §[^9] A szolgáltatók által alkalmazandó díjakat – elosztói működési területenkénti bontásban – az éves fogyasztott mennyiség alapján I. és II. árkategóriában a 3. melléklet tartalmazza.
 
 4. § (1) A felhasználó által fizetendő mennyiségarányos díj összegét – a 12. §-ban foglaltak kivételével –
 
@@ -16,4 +16,4 @@ c) az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljes
 
 (4) Üzemi állapotról gáztechnikai normálállapotra történő átszámításnál a 4. mellékletben meghatározott hitelesítési előírásokban foglaltak az irányadóak.
 
-[^9]: A 3/A. §-t a 39/2010. (XII. 31.) NFM rendelet 3. §-a iktatta be.
+[^9]: A 3/A. §-t a 39/2010. (XII. 31.) NFM rendelet 3. §-a iktatta be, szövege a 12/2011. (IV. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.

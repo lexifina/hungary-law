@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-28-20-2
 | 2010-07-03 | 2009-28-20-2M.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-12-04 | 2009-28-20-2M.8 | 18/2010. (XII. 3.) NFM rendelet |
 | 2011-01-01 | 2009-28-20-2M.9 | 39/2010. (XII. 31.) NFM rendelet |
+| 2011-04-13 | 2009-28-20-2M.10 | 39/2010. (XII. 31.) NFM rendelet |
