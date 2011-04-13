@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-0
 | --- | --- | --- |
 | 2009-03-01 | 2007-49-20-0L.2 | 49/2007. (IV. 26.) GKM–EüM–IRM–MeHVM–PM együttes rendelet |
 | 2011-01-01 | 2007-49-20-0L.3 | 27/2010. (XII. 31.) NGM rendelet |
+| 2011-04-13 | 2007-49-20-0L.4 | 15/2011. (IV. 12.) NGM rendelet |
