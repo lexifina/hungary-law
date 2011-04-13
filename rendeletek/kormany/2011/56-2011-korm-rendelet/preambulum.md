@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés a)–c), i), m) és q) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
