@@ -1,0 +1,1 @@
+## 11. § Az Egészségügyi Engedélyezési és Közigazgatási Hivatalról szóló 295/2004. (X. 28.) Korm. rendelet 2/D. § nyitó szövegrészében az „az Országos Gyógyszerészeti Intézet” szövegrész helyébe az „a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet” szöveg lép.
