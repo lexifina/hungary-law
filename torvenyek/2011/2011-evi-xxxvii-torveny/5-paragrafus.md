@@ -18,14 +18,6 @@ g) a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) 2008
 
 h) a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás mellékletei 2004. évi módosításainak kihirdetéséről szóló 54/2005. (VI. 30.) GKM rendelet.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Megállapodás a Nemzetközi Vasúti Árufuvarozásról (SzMGSz)
 
 20110000000037_1
