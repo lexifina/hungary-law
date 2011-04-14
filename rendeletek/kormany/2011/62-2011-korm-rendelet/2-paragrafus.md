@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szaúd-Arábiai Királyság Kormánya közötti Együttműködési Keretegyezmény (a továbbiakban: Keretegyezmény) kötelező hatályának elismerésére.
