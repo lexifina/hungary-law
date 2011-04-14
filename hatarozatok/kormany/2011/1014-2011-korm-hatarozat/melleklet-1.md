@@ -1,14 +1,8 @@
 ## A Kormány jóváhagyja a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervét az 1. melléklet szerint.
 
-1. melléklet az 1014/2011. (I. 19.) Korm. határozathoz
+1. melléklet a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1014/2011. (I. 19.) Korm. határozathoz[^1]
 
-A Társadalmi Infrastruktúra Operatív Program 2011
-
-13-as akcióterve
-
-2010. december
-
-TIOP 1. prioritás: Az oktatási infrastruktúra fejlesztése
+TIOP 1. Prioritás: Az oktatási infrastruktúra fejlesztése
 
 1. Prioritás tartalma
 
@@ -42,7 +36,7 @@ TIOP 1. prioritás: Az oktatási infrastruktúra fejlesztése
 
 3. A prioritás ütemezése – kiírások kerete
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ……. HUF/EUR árfolyamon) |  |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
 
 | 2011 | 2012 | 2013 | Összesen |  |
 
@@ -58,7 +52,7 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ….. HUF/EUR árfolyamon) |  |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
 
 | 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
 
@@ -70,35 +64,29 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 TIOP 1. Az oktatási infrastruktúra fejlesztése
 
-| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (KEOP, KÖZOP előkészítési projektek | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhat óság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett száma (idikatív) | Konstrukció tervezett indítása (év/negyed-félév | Konstrukci ó tervezett zárása (év/(negyed-félév | Konstrukció kkv érintettsége (kkv kedvezményezett/kkv beszállító/nincs kkv) | Támogatható tevékenységek | Megjegyzés |
+| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (Mrd Ft) | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhat óság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett száma | Konstrukció tervezett indítása (év/negyed-félév | Konstrukci ó tervezett zárása (év/(negyed-félév | Konstrukció kkv érintettsége (kkv kedvezményezett/kkv beszállító/nincs kkv) | Támogatható tevékenységek | Megjegyzés |
 
 | 2011 KMR | 2011 KONV | 2012 KMR | 2012 KONV | 2013 KMR | 2013 KONV | Min. | Max. | Max. |
 
-| utód | 1.1.1. | Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése | kiemelt | non-profit szervezet államháztartáson belül | 0,00 | 5,80 | 16,10 | 0,00 | 0,00 | 0,00 | 0,00 | 21,70 | 0,0% | 0,00 | 21 700 | 100% | 1 | 2011. III. né | 2015. III. né | részben kkv kedvezményezett | Iskolákban, iskolahálózatokban folyó, az ŐKT kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját segítő berendezések, eszközök beszerzése (szoftverek, internet kiépítés (hálózatbővítés) fenntartó és intézmények kommunikációját segítőeszközök beszerzése pedagógus adminisztrációt segítőeszközök támogatása (tanári laptop) | A konstrukció indításának feltétele: A pályázatot kezelő intézményi kapacitás bővítése és alkalmassá tétele a kiemelkedően nagy számú támogatási jogviszony létrehozására és nyomonkövetésére. A NEFMI figyelembe veszi a KIM javaslatait, észrevételeit a konstrukciók kidolgozása során. |
+| új | 1.1.1. | Intézményi informatikai infrastruktúra fejlesztés a közoktatásban | egyfordulós / automatikus | non-profit szervezet államháztartáson belül non-profit szervezet államháztartáson kívül Közoktatási intézmények fenntartói | 0,00 | 0,00 | 12,40 | 0,00 | 0,00 | 0,00 | 0,00 | 12,40 | 0,0% | 5,00 | 50,00 | 100% | 100-2000 | 2011. I. félév | 2 013 | kkv beszállító | Iskolákban, iskolahálózatokban folyó, az IKT kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját segítő berendezések, eszközök beszerzése (szoftverek, internet kiépítés (hálózatbővítés) fenntartó és intézmények kommunikációját segítő eszközök beszerzése pedagógus adminisztrációt segítő eszközök támogatása (tanári laptop) | A konstrukció indításának feltétele: A pályázatot kezelő intézményi kapacitás bővítése és alkalmassá tétele a kiemelkedően nagy számú támogatási jogviszony létrehozására és nyomonkövetésére. A NEFMI figyelembe veszi a KIM javaslatait, észrevételeit a konstrukciók kidolgozása során. |
 
-| utód | 1.1.2. | A hátrányos helyzetűek foglalkoztathatóságának javítása (Decentralizált programok a konvergenciarégiókban) | kiemelt | non-profit szervezet államháztartáson belül | 0,00 | 0,00 | 60,00 | 0,00 | 0,00 | 0,00 | 0,00 | 60,00 | 0,0% | 0,00 | 60 000 | 100% | 1 | 2011. I. né | 2015. II. félév | részben kkv kedvezményezett | Az Agóra közművelődési intézmény megépítése. a) közösségi funkciók ellátása érdekében: szervezett és spontán közösségi együttléteket biztosító, mobil belső térszerkezet kialakítása, megépítése; munkaerő-piaci és más közhasznú információs pontok létesítése; társadalmi szervezetek befogadására alkalmas terek kialakítása; konferenciák befogadására alkalmas intézményi infrastruktúra létesítése; hagyományápoló és kortárs kulturális tematikájú művészeti csoportok működtetésére alkalmas intézményi infrastruktúra; kreatív iparhoz kapcsolódó alkotó műhelyek létrehozása; kulturális internet portálok szervezése, közösségi internet hozzáférés biztosítása; idegenforgalmi, turisztikai adatbázisok elérésére alkalmas infrastruktúra; kulturális szolgáltatási projektek összeállítására, forgalmazására kialakított intézményi infrastruktúra; nemzeti és etnikai kisebbségi kulturális szolgáltatások infrastruktúrájának fejlesztése; környezeti és egészségnevelési programok megvalósulását szolgáló terek kialakítása. b. képzési funkciók ellátása érdekében: közoktatási, valamint felnőttoktatási és (elsősorban kiscsoportos) képzési alkalmak lebonyolítására alkalmas, szükséges ŐKT eszközökkel felszerelt terek kialakítása; az új tanulási formák (informális és nem formális képzések, atipikus képzési formák stb.) megvalósulására alkalmas terek kialakítása; c. szórakozási és élményfunkciók betöltése érdekében: ezek közvetítésére szolgáló terek kialakítása, és a szükséges technikai feltételek biztosítása; szükség esetén könyvtári és egyéb közgyűjteményi (pl. kiállítótér, digitális múzeumi szolgáltatások stb.) funkciók ellátására alkalmas terek kiépítése; közösségi szórakozási alkalmakat kiszolgáló terek kialakítása; d. területi közművelődési tanácsadó szolgáltató funkció ellátása érdekében szükséges épített, ŐKT- ,műszaki, technikai infrastruktúra kialakítása, eszközbeszerzés. | A konstrukció indításának feltétele a konstrukció tartalmi felülvizsgálata, valamint a megvalósulás során szerzett tapasztalok kiértékelésének eredménye. A NEFMI figyelembe veszi a KIM javaslatait, észrevételeit a konstrukciók kidolgozása során. |
+| utód | 1.2.1. | Agóra multifunkcionális közösségi központok és területi közművelődési tanácsadó szolgálat infrastrukturális feltételeinek kialakítása | egyfordulós | azon megyei jogú városok önkormányzatai, amelyek nem fejlesztési pólus-, illetve társpólus-városok és nem tartoznak a korábbi Agóra pályázati kiírás kedvezményezetti körébe, a Nyugat-dunántúli Régió számára elkülönített keret áll rendelkezésre | 0,00 | 0,00 | 0,00 | 0,00 | 4,86 | 0,00 | 0,00 | 4,86 | 0,0% | 1 000,00 | 1 600,00 | tevékenységen ként meghatározott | 3-4 (ebből Nyugat-dunántúli Régióban min. 1) | 2012. II. félév | 2015. | kkv beszállító | Az Agóra közművelődési intézmény megépítése. a) közösségi funkciók ellátása érdekében: szervezett és spontán közösségi együttléteket biztosító, mobil belső térszerkezet kialakítása, megépítése; munkaerő-piaci és más közhasznú információs pontok létesítése; társadalmi szervezetek befogadására alkalmas terek kialakítása; konferenciák befogadására alkalmas intézményi infrastruktúra létesítése; hagyományápoló és kortárs kulturális tematikájú művészeti csoportok működtetésére alkalmas intézményi infrastruktúra; kreatív iparhoz kapcsolódó alkotó műhelyek létrehozása; kulturális internet portálok szervezése, közösségi internet hozzáférés biztosítása; idegenforgalmi, turisztikai adatbázisok elérésére alkalmas infrastruktúra; kulturális szolgáltatási projektek összeállítására, forgalmazására kialakított intézményi infrastruktúra; nemzeti és etnikai kisebbségi kulturális szolgáltatások infrastruktúrájának fejlesztése; környezeti és egészségnevelési programok megvalósulását szolgáló terek kialakítása. b. képzési funkciók ellátása érdekében: közoktatási, valamint felnőttoktatási és (elsősorban kiscsoportos) képzési alkalmak lebonyolítására alkalmas, szükséges IKT eszközökkel felszerelt terek kialakítása; az új tanulási formák (informális és nem formális képzések, atipikus képzési formák stb.) megvalósulására alkalmas terek kialakítása; c. szórakozási és élményfunkciók betöltése érdekében: ezek közvetítésére szolgáló terek kialakítása, és a szükséges technikai feltételek biztosítása; szükség esetén könyvtári és egyéb közgyűjteményi (pl. kiállítótér, digitális múzeumi szolgáltatások stb.) funkciók ellátására alkalmas terek kiépítése; közösségi szórakozási alkalmakat kiszolgáló terek kialakítása; d. területi közművelődési tanácsadó szolgáltató funkció ellátása érdekében szükséges épített, IKT-,műszaki, technikai infrastruktúra kialakítása, eszközbeszerzés. | A konstrukció indításának feltétele a konstrukció tartalmi felülvizsgálata, valamint a megvalósulás során szerzett tapasztalok kiértékelésének eredménye. A NEFMI figyelembe veszi a KIM javaslatait, észrevételeit a konstrukciók kidolgozása során. |
 
-| utód | 1.1.4. | Munkaerő-piaci program a hátrányos helyzetűek foglalkoztatásáért a Középmagyarországi Régióban | kiemelt | non-profit szervezet államháztartáson belül | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 5,00 | 0,0% | 0,00 | 5 000 | 100% | 1 | 2011. I. né | 2014. II. félév | részben kkv kedvezményezett | Pedagógiai foglalkozásokra alkalmas helyek kialakítása, akadálymentesítés a) „Oktató múzeum és levéltár”: A múzeumpedagógiai szolgáltatások infrastruktúrájának fejlesztése: az alkotókészséget és kreativitást fejlesztőmúzeumi közösségi terek, oktatótermek, kiállítási pihenősarkok és (a látogató gyerekek, illetve a nagycsaládos, kisgyermekes látogatók gyerekei részére) gyermekfoglalkoztatók kialakítása, fejlesztése, ill. minden korosztály részére alkalmassá tétele. Múzeumi épület bővítése, belsőterének átalakítása, funkcióváltása, meglévőhelyiség korszerűsítése, belsőépítészeti kialakítások. Berendezések, eszközök beszerzése. A levéltár-pedagógiai szolgáltatások infrastruktúrájának fejlesztése, közösségi terek, oktatótermek, kiállítási terek kialakítása, fejlesztése. Levéltári épület bővítése, belsőterének átalakítása, funkcióváltása, meglévőhelyiség korszerűsítése, belsőépítészeti kialakítások. Berendezések, eszközök beszerzése. b) „Tanulmányi raktár és látványtár”: Tanulmányi raktárak, látványtárak kialakítása, illetőleg meglévő gyűjteményi raktárak nyilvánosan látogatható tétele (tanulmányi raktárrá, látványtárrá fejlesztése) azok bővítése, korszerűsítése, átalakítása révén. c) „Virtuális pontok az oktató múzeumhoz és levéltárhoz”: A múzeumokban és levéltárakban őrzött tudásbázis nagyobb oktatási hasznosulása érdekében korszerő IKT infrastruktúrával felszerelt, internet-csatlakozással rendelkező informatikai pont(ok) vagy korszerűen berendezett önálló részlegek kialakítása, amelyek elősegítik a digitalizált kulturális örökségi értékekhez való hozzáférést is. Mindkét komponenshez: fogyatékkal élők múzeum és levéltár használatát támogató fejlesztések . |  |
+| utód | 1.2.2. | Múzeumok és levéltárak iskolabarát fejlesztése, oktatási-képzési szerepének infrastrukturális erősítése 3. ütem | egyfordulós | 6. non-profit államháztartáson belül 7. non-profit államháztartáson kívül (Az 1997. évi CXL tv. szerinti működési engedéllyel rendelkező muzeális intézmények és az 1995. évi LXVI. tv. alapján bejegyzett levéltárak. Önálló gazdálkodási jogkörrel nem rendelkező muzeális intézmények vonatkozásában: muzeális intézmény tagintézményében (filia) megvalósuló fejlesztés esetében a központi muzeális intézmény, egyéb esetben fenntartó pályázhat.) | 0,00 | 0,00 | 0,87 | 0,00 | 0,00 | 0,00 | 0,00 | 0,87 | 0,0% | A) 5,00 B) 20,00 C) 5,00 | A) 30,00 B) 120,00 C) 20,00 | 100% | 30-70 | 2011. II. félév | 2013. | kkv beszállító | Pedagógiai foglalkozásokra alkalmas helyek kialakítása, akadálymentesítés a) „Oktató múzeum és levéltár”: A múzeumpedagógiai szolgáltatások infrastruktúrájának fejlesztése: az alkotókészséget és kreativitást fejlesztő múzeumi közösségi terek, oktatótermek, kiállítási pihenő sarkok és (a látogató gyerekek, illetve a nagycsaládos, kisgyermekes látogatók gyerekei részére) gyermekfoglalkoztatók kialakítása, fejlesztése, ill. minden korosztály részére alkalmassá tétele. Múzeumi épület bővítése, belső terének átalakítása, funkcióváltása, meglévő helyiség korszerűsítése, belsőépítészeti kialakítások. Berendezések, eszközök beszerzése. A levéltár-pedagógiai szolgáltatások infrastruktúrájának fejlesztése, közösségi terek, oktatótermek, kiállítási terek kialakítása, fejlesztése. Levéltári épület bővítése, belső terének átalakítása, funkcióváltása, meglévő helyiség korszerűsítése, belsőépítészeti kialakítások. Berendezések, eszközök beszerzése. b) „Tanulmányi raktár és látványtár”: Tanulmányi raktárak, látványtárak kialakítása, illetőleg meglévő gyűjteményi raktárak nyilvánosan látogatható tétele (tanulmányi raktárrá, látványtárrá fejlesztése) azok bővítése, korszerűsítése, átalakítása révén. c) „Virtuális pontok az oktató múzeumhoz és levéltárhoz”: A múzeumokban és levéltárakban őrzött tudásbázis nagyobb oktatási hasznosulása érdekében korszerű IKT infrastruktúrával felszerelt, internet-csatlakozással rendelkező informatikai pont(ok) vagy korszerűen berendezett önálló részlegek kialakítása, amelyek elősegítik a digitalizált kulturális örökségi értékekhez való hozzáférést is. Mindkét komponenshez: fogyatékkal élők múzeum és levéltár használatát támogató fejlesztések . |  |
 
-| utód | 1.2.1. | Hátrányos helyzetűek foglalkoztatását ösztönző járulékkedvezmények | kiemelt | non-profit szervezet államháztartáson belül | 0,00 | 2,00 | 6,52 | 0,00 | 0,00 | 0,00 | 0,00 | 6,52 | 0,0% | 0,00 | 8 520 | 100% | 1 | 2011 | 2015. III. né | részben kkv kedvezményezett | Az online könyvtári szolgáltatások kialakításához/igénybevételéhez szükséges hardvereszközök beszerzése; az újonnan beszerzett hardverek működtetéséhez operációs rendszer és felhasználói alapszoftverek; A fogyatékkal élők számára biztosítandó speciális könyvtári szolgáltatásokhoz kapcsolódó infrastruktúra-fejlesztések (informatikai eszközök, egyéb eszközök; valamint kis léptékű belső épület-átalakítás, korszerűsítés, bővítés az elszámolható költségek max. 10%-áig); Könyvtári szoftverek, pl. integrált rendszerek, dokumentum küldő szoftverek beszerzése; Elektronikus olvasóazonosítási rendszer infrastrukturális feltételeinek megteremtése; Az önkiszolgáló kölcsönzés infrastrukturális feltételeinek megteremtése; Épületen belüli korszerűsítés: olvasói terek bővítése, átalakítása, világításkorszerűsítés képzésekre alkalmas terek kialakítása; iskolai, családi foglalkozásokra (pl. olvasásprogramok) alkalmas terek kialakítása az összes elszámolható költség max. 25%-áig. |  |
+| utód | 1.2.3. | Könyvtári szolgáltatások összehangolt infrastruktúrafejlesztése "Tudásdepó Expressz" 3. ütem | automatikus | 6. non-profit államháztartáson belül 7. non-profit államháztartáson kívül (Helyi önkormányzat fenntartásában működő, a nyilvános könyvtárak jegyzékén szereplő közkönyvtár, és iskolai könyvár vagy annak fenntartója (64/1999.(IV.28.) Korm. rendelet a nyilvános könyvtárak jegyzékének vezetéséről) | 0,00 | 0,00 | 0,61 | 0,00 | 0,00 | 0,00 | 0,00 | 0,61 | 0,0% | 5,00 | 8,00 | 100% | 80-100 | 2011. I. félév | 2013. | kkv beszállító | - Az online könyvtári szolgáltatások kialakításához/igénybevételéhez szükséges hardvereszközök beszerzése; az újonnan beszerzett hardverek működtetéséhez operációs rendszer és felhasználói alapszoftverek; - A fogyatékkal élők számára biztosítandó speciális könyvtári szolgáltatásokhoz kapcsolódó infrastruktúra-fejlesztések (informatikai eszközök, egyéb eszközök; valamint kis léptékű belső épület-átalakítás, korszerűsítés, bővítés az elszámolható költségek max. 10%-áig); - Könyvtári szoftverek, pl. integrált rendszerek, dokumentumküldő szoftverek beszerzése; - Elektronikus olvasóazonosítási rendszer infrastrukturális feltételeinek megteremtése; - Az önkiszolgáló kölcsönzés infrastrukturális feltételeinek megteremtése; - Épületen belüli korszerűsítés: olvasói terek bővítése, átalakítása, világításkorszerűsítés képzésekre alkalmas terek kialakítása; iskolai, családi foglalkozásokra (pl. olvasásprogramok) alkalmas terek kialakítása az összes elszámolható költség max. 25%-áig. |  |
 
-| utód | 1.3.1 | Az Állami Foglalkoztatási Szolgálat fejlesztése II. | kiemelt | non-profit szervezet államháztartáson belül | 0,00 | 0,00 | 0,00 | 0,89 | 6,11 | 0,00 | 0,00 | 7,00 | 0,0% | 0,00 | 7 000 | 100% | 1 | 2011. IV | 2015. III. né | nincs kkv | ŐKT infrastruktúra fejlesztés Bútorok beszerzése Taneszközök, szemléltetőeszközök beszerzése Akadálymentesítés Épületen belüli korszerűsítés, bővítés, átalakítás, világításkorszerűsítés |  |
+| utód | 1.2.5 | Infrastrukturális fejlesztések az esélyegyenlőség elvű minőségi oktatás és az egész életen át tartó tanulás támogatása érdekében az LHH kistérségekben | LHH eljárásrend | non-profit szervezet államháztartáson belül non-profit szervezet államháztartáson kívül | 0,00 | 0,00 | 0,60 | 0,00 | 0,00 | 0,00 | 0,00 | 0,60 | 0,0% | 30,00 | 60,00 | 100% | 10–20 | 2011. II. félév | 2014. | kkv beszállító | - IKT infrastruktúra fejlesztés - Bútorok beszerzése - Taneszközök, szemléltető eszközök beszerzése - Akadálymentesítés - Épületen belüli korszerűsítés, bővítés, átalakítás, világításkorszerűsítés |  |
 
-| új | 1.4.1 | Közösségi feladatokhoz kapcsolódó munkaerő-piaci programok támogatása | egyfordulós pályázat | non-profit szervezet államháztartáson kívül | 0,00 | 0,49 | 1,00 | 0,00 | 1,50 | 0,00 | 1,50 | 4,49 | 10,0% | 0,00 | 75,00 | 100% | 20–200 | 2011 | 2015. III. né | nincs kkv | ŐKT infrastruktúra fejlesztés Bútorok beszerzése Taneszközök, szemléltetőeszközök beszerzése Akadálymentesítés Épületen belüli korszerűsítés, bővítés, átalakítás, világításkorszerűsítés |  |
+| utód | 1.3.1 | Speciális infrastruktúra fejlesztés és eszközbeszerzés a felsőoktatásban | egyfordulós | 2005. évi CXXXIX. törvény 1. számú mellékletében felsorolt, állam által elismert felsőoktatási intézmények. | 0,00 | 0,00 | 5,96 | 0,00 | 0,00 | 0,00 | 0,00 | 5,96 | 0,0% | 200,00 | 1 500,00 | max. 95% | 11 | 2011. IV. negyedév | 2014. | beszállító | Infrastruktúra fejlesztés Eszközbeszerzés |  |
 
-| utód | 1.4.3. | Innovatív, kísérleti foglalkoztatási programok támogatása | közvetett támogatás | non-profit szervezet államháztartáson kívül | 0,00 | 0,00 | 2,00 | 0,00 | 2,00 | 0,00 | 0,00 | 4,00 | 25,0% | 0,00 | 200,00 | 100% | 20–50 | 2011 | 2015. III. né | kkv lehet kedvezményezett | ŐKT infrastruktúra fejlesztés Bútorok beszerzése Taneszközök, szemléltetőeszközök beszerzése Akadálymentesítés Épületen belüli korszerűsítés, bővítés, átalakítás, világításkorszerűsítés |  |
-
-| új | 1.4.5. | Versenyképességi szerződések foglalkoztatási elemeinek támogatása | közvetett támogatás/ egyfordulós pályázat | non-profit szervezet államháztartáson kívül | 0,00 | 0,40 | 1,00 | 0,00 | 1,00 | 0,00 | 1,00 | 3,40 | 0,0% | 0,00 | 200,00 | 100% | 10–25 | 2011 | 2015. III. né | kkv kedvezményezett | ŐKT infrastruktúra fejlesztés Bútorok beszerzése Taneszközök, szemléltetőeszközök beszerzése Akadálymentesítés Épületen belüli korszerűsítés, bővítés, átalakítás, világításkorszerűsítés |  |
-
-| új | 1.4.6. | Tranzitfoglalkoztatás az építőiparban | közvetett támogatás | non-profit szervezet államháztartáson kívül, kkv | 0,00 | 0,00 | 2,00 | 0,00 | 1,15 | 0,00 | 1,00 | 4,15 | 25,0% | 0,00 | 150,00 | 100% | 20–60 | 2011 | 2015. III. né | részben kkv kedvezményezett | Infrastruktúra fejlesztés Eszközbeszerzés |  |
-
-|  |  | Prioritás | Összesen: | 0,00 | 13,49 | 88,62 | 0,89 | 11,76 | 0,00 | 3,50 | 118,26 | 0,0% | 0,00 | - | 100% | - |  |  |  |  |  |
+|  |  | Prioritás | Összesen: | 0,00 | 0,00 | 20,44 | 0,00 | 4,86 | 0,00 | 0,00 | 25,30 | 0,0% | - | - | 100% | - |  |  |  |  |  |
 
 TIOP 2. prioritás: Egészségügyi infrastruktúra fejlesztése
 
 1. Prioritás tartalma
 
-| Prioritás rövid tartalma (max. 500 karakter) |
+| Prioritás rövid tartalma |
 
 | A prioritás célja, hogy hozzájáruljon egy a jelenleginél sokkal inkább szolgáltatáselvű ellátórendszer kialakításához, amely az erőforrások koncentrálásával magasabb átlagos minőségű és költséghatékonyabb gyógyító-megelőző ellátásokat nyújt az igénybevevőknek. Alapvető cél, hogy a hozzáférés egyenlőtlenségei mérséklődjenek, és a rendszer a szolgáltatások magasabb színvonala mellett – az állami kiadások hatékonyabb felhasználásával – hosszú távon is fenntartható maradjon. |
 
@@ -122,7 +110,7 @@ TIOP 2. prioritás: Egészségügyi infrastruktúra fejlesztése
 
 3. A prioritás ütemezése – kiírások kerete
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ……. HUF/EUR árfolyamon) |  |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
 
 | 2011 | 2012 | 2013 | Összesen |  |
 
@@ -138,7 +126,7 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ….. HUF/EUR árfolyamon) |  |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
 
 | 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
 
@@ -148,9 +136,9 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 | 239,92 | 2,10 | 71,05 | 4,20 | 0,00 | 317,27 | Összesen |
 
-| Társadalmi Infrastruktúra Operatív Program -2. prioritás: Egészségügyi infrastruktúra fejlesztése |
+TIOP 2. prioritás: Egészségügyi infrastruktúra fejlesztése
 
-| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (KEOP, KÖZOP előkészítési projektek | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhat óság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett | Konstrukció tervezett indítása (év/negyed- | Konstrukci ó tervezett zárása (év/(negyed- | Konstrukció kkv érintettsége (kkv | Támogatható tevékenységek | Megjegyzés |
+| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (Mrd Ft) | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhat óság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett száma | Konstrukció tervezett indítása (év/negyed-fél év) | Konstrukció tervezett zárása (év/(negyed-fél év) | Konstrukció kkv érintettsége (kkv kedvezményezett/kkv beszállító/nincs kkv) | Támogatható tevékenységek | Megjegyzés |
 
 | 2011 KMR | 2011 KONV | 2012 KMR | 2012 KONV | 2013 KMR | 2013 KONV | Min. | Max. | Max. |
 
@@ -196,7 +184,7 @@ TIOP 3. prioritás: A munkaerő-piaci részvételt és a társadalmi befogadást
 
 3. A prioritás ütemezése – kiírások kerete
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ……. HUF/EUR árfolyamon) |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
 
 | 2011 | 2012 | 2013 | Összesen |
 
@@ -208,7 +196,7 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ….. HUF/EUR árfolyamon) |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
 
 | 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |
 
@@ -216,7 +204,7 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 TIOP 3. prioritás: A munkaerő-piaci részvételt és a társadalmi befogadást támogató infrastruktúra fejlesztése
 
-| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (KEOP, KÖZOP előkészítési projektek | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhat óság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett | Konstrukció tervezett indítása (év/negyed- | Konstrukci ó tervezett zárása (év/(negyed- | Konstrukció kkv érintettsége (kkv | Támogatható tevékenységek | Megjegyzés |
+| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (Mrd Ft) | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Átjárhatóság (%) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett száma | Konstrukció tervezett indítása (év/negyed-fél év) | Konstrukció tervezett zárása (év/(negyed-fél év) | Konstrukció kkv érintettsége (kkv kedvezményezett/kkv beszállító/nincs kkv) | Támogatható tevékenységek | Megjegyzés |
 
 | 2011 | 2012 | 2013 | Min. | Max. | Max. |
 
@@ -242,7 +230,7 @@ TIOP 4. prioritás: Technikai Segítségnyújtás
 
 1. Prioritás tartalma
 
-| Prioritás rövid tartalma |
+| Prioritás rövid tartalma (max. 500 karakter) |
 
 | A prioritás célja az OP eredményes és hatékony megvalósítása. A Technikai Segítségnyújtási keret egyrészt az OP közreműködő szervezeteinek - az OP-val kapcsolatos tevékenységeinek – finanszírozására szolgál (az OP technikai-adminisztratív lebonyolítása). Másrészt ebből a keretből kerülnek finanszírozásra a specifikusan az OP megvalósulásához köthető egyéb tevékenységek (pl. monitoring bizottságok működtetése, értékelő, elemző tanulmányok stb.) |
 
@@ -256,7 +244,7 @@ TIOP 4. prioritás: Technikai Segítségnyújtás
 
 3. A prioritás ütemezése – kiírások kerete
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ……. HUF/EUR árfolyamon) |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
 
 | 2011 | 2012 | 2013 | Összesen |
 
@@ -268,7 +256,7 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
 
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, ….. HUF/EUR árfolyamon) |
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
 
 | 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |
 
@@ -276,10 +264,12 @@ KMR-ben elszámolható kiadások aránya (%): 0
 
 TIOP 4. prioritás: Technikai Segítségnyújtás
 
-| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötött összeg (KEOP, KÖZOP előkészítési projektek | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret KMR+KONV része (Mrd Ft) (HEP és KÖZŐG IH) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett | Konstrukció tervezett indítása (év/negyed- | Konstrukci ó tervezett zárása (év/(negyed- | Konstrukció kkv érintettsége (kkv | Támogatható tevékenységek | Megjegyzés |
+| Konsrukció státusza (új vs. utód) | Konstrukció kódja | Konstrukció neve | Projekt kiválasztás eljárása | Kedvezményezettek köre | Előzetes támogatási igénnyel lekötöttösszeg (KEOP, KÖZOP előkészítési projektek | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Keret (Mrd Ft) (HEP és KÖZIG IH) | Támogatás összege (MFt) | Támogatás mértéke (%) | Támogatandó projektek tervezett száma | Konstrukció tervezett indítása (év/negyed-fél év) | Konstrukció tervezett zárása (év/(negyed-fél év) | Konstrukció kkv érintettsége (kkv kedvezményezett/kkv beszállító/nincs kkv) | Támogatható tevékenységek | Megjegyzés |
 
 | 2011 | 2012 | 2013 | Min. | Max. | Max. |
 
 | utód | 4.2.1. | Az OP lebonyolitásával kapcsolatos egyéb feladatok | Kiemelt (TA) | Non-profit szervezet államháztartáson belül | 0,00 | 2,56 | 2,56 | 2,56 | 7,69 | 0,00 | 0,00 | 100% | 10 | 2011 | 2015 | Kkv beszállító | OP lebonyolításával kapcsolatos feladatok (OP MB ülések megrendezése, éves megvalósítási jelentések készítése, tanulmányok, elemzések készítése, - szakértői tanácsadás, szakmai rendezvények megvalósítása. Szakmai anyagok fordítása, tolmácsolás, humán kapacitás fejlesztés) |  |
 
 |  | 4. | Prioritás | Összesen: | 0,00 | 2,56 | 2,56 | 2,56 | 7,69 | 0,00 | 0,00 | 100% | 10 |  |  |  |  |  |
+
+[^1]: Az 1. melléklet az 1094/2011. (IV. 13.) Korm. határozat 1. pont c) alpontjával megállapított szöveg.
