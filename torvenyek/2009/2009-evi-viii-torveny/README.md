@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-8-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-03-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-8-00-00.1 |
+| 2011-04-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-8-00-00.2 |
