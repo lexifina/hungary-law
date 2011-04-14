@@ -130,24 +130,20 @@ d) A belügyminisztert, valamint a közigazgatási és igazságügyi minisztert 
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-15. Hatályát veszti
-
-a) a bűnmegelőzés hatékonyságának növelése érdekében szükséges egyes kormányzati feladatokról szóló 1002/2003. (I. 8.) Korm. határozat,
-
-b) a bűnmegelőzés hatékonyságának növelése érdekében szükséges egyes kormányzati feladatokról szóló 1002/2003. (I. 8.) Korm. határozat módosításáról szóló 1066/2003. (VII. 18.) Korm. határozat,
-
-c) a bűnmegelőzés hatékonyságának növelése érdekében szükséges egyes kormányzati feladatokról szóló 1002/2003. (I. 8.) Korm. határozat módosításáról szóló 1051/2004. (V. 25.) Korm. határozat.
+15.[^1]
 
 16. Átmeneti és záró rendelkezések:
 
-a) A belügyminiszter az NBT tagjának javasolt személyeket e határozat hatálybalépését[^1] követő 30 napon belül kinevezi az NBT tagjának, ennek érdekében e határozat hatálybalépését[^2] követő 10 napon belül felkéri a javaslattételre jogosultakat az NBT tagjára vonatkozó javaslat 10 napon belül történő megtételére.
+a) A belügyminiszter az NBT tagjának javasolt személyeket e határozat hatálybalépését[^2] követő 30 napon belül kinevezi az NBT tagjának, ennek érdekében e határozat hatálybalépését[^3] követő 10 napon belül felkéri a javaslattételre jogosultakat az NBT tagjára vonatkozó javaslat 10 napon belül történő megtételére.
 
-b) A belügyminiszter és a közigazgatási és igazságügyi miniszter e határozat hatálybalépését[^3] követő 30 napon belül együttesen javaslatot tesznek a miniszterelnöknek az NBT elnökének kinevezésére.
+b) A belügyminiszter és a közigazgatási és igazságügyi miniszter e határozat hatálybalépését[^4] követő 30 napon belül együttesen javaslatot tesznek a miniszterelnöknek az NBT elnökének kinevezésére.
 
 c) Az NBT alakuló ülését az NBT elnöke a kinevezését követően haladéktalanul, de legkésőbb 30 napon belül összehívja.
 
-d) A Kábítószerügyi Koordinációs Bizottságról szóló 1002/2007. (I. 18.) Korm. határozat 13. pont c) alpontjában az „az Országos Bűnmegelőzési Bizottság” szövegrész helyébe az „a Nemzeti Bűnmegelőzési Tanács” szöveg lép.
+d)[^5]
 
-[^1]: A hatálybalépés időpontja 2011. április 13.
+[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A hatálybalépés időpontja 2011. április 13.
 [^3]: A hatálybalépés időpontja 2011. április 13.
+[^4]: A hatálybalépés időpontja 2011. április 13.
+[^5]: A 16. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
