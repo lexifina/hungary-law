@@ -1,0 +1,1 @@
+## 15. § A szőlőbor-pincekönyv Szállítási okmányok nyilvántartó részébe a borászati üzem által a borszőlő, szőlőmust, szőlőbor és a borászati melléktermék szállításához átvett szállítási okmányok sorszámtartományát hetente, legkésőbb az átvételt követő hét első munkanapján be kell vezetni.
