@@ -1,17 +1,29 @@
-94. § (1) A Hivatal előzetes hozzájáruló határozata szükséges az engedélyes működési engedélyében meghatározott tevékenységei jelentős részének más személy általi végzéséhez (a továbbiakban: kiszervezés), valamint a működési engedélyében meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházásához, átengedéséhez, lízingbe adásához, illetve egyéb módon tartós használatba adásához, megterheléséhez vagy biztosítékul való lekötéséhez (a továbbiakban együtt: alapvető eszközökkel való rendelkezés). A kiszervezés nem eredményezheti azt, hogy az e törvény 74. §-a szerint engedélyköteles tevékenységet teljes egészében más személy végzi.
+94. § (1) A Hivatal előzetes jóváhagyó határozata szükséges az engedélyes e törvény szerinti engedélyköteles tevékenysége Vhr.-ben meghatározott jelentős részének kiszervezéséhez, a Hivatal előzetes tájékoztatása szükséges az engedélyes e törvény szerinti engedélyköteles tevékenysége Vhr.-ben meghatározott egyéb részének kiszervezéséhez. A kiszervezés nem eredményezheti azt, hogy az e törvény 74. §-a szerint engedélyköteles tevékenységet teljes egészében más személy végzi.
 
-(2) Kiszervezett tevékenységek esetén az engedélyes úgy felel jogszabályban meghatározott kötelezettségei teljesítéséért, mintha az adott tevékenységet maga végezné.
+(2) Kiszervezés esetén az engedélyes úgy felel jogszabályban vagy hatósági határozatban meghatározott kötelezettségei teljesítéséért, mintha az adott tevékenységet maga végezné.
 
-(3) Nem igényli a Hivatal (1) bekezdés szerinti előzetes hozzájáruló határozatát a kiszervezés és az alapvető eszközökkel való rendelkezés a
+(3) Nem igényli a Hivatal (1) bekezdés szerinti előzetes hozzájáruló határozatát vagy előzetes tájékoztatását a kiszervezés
 
 a) termelői engedélyes,
 
-b) az egyetemes szolgáltatói engedélyes kivételével a villamosenergia-kereskedelmi engedélyes,
+b) egyetemes szolgáltatói engedélyes kivételével villamosenergia-kereskedő,
 
-c) magánvezeték létesítése, működtetése, vagy a működtetés szüneteltetése, a vezeték kapacitásának megváltoztatása,
+c) magánvezeték engedélyese vagy
 
-d) közvetlen vezeték engedélyese,
+d) közvetlen vezeték engedélyese
 
-e) termelői vezeték engedélyese
+esetében.
+
+(4) A Hivatal előzetes hozzájáruló határozata szükséges az engedélyes működési engedélyében meghatározott alapvető eszközöknek és vagyoni értékű jogoknak más személy részére történő átruházásához, átengedéséhez, lízingbe adásához vagy egyéb módon tartós használatba adásához, megterheléséhez vagy biztosítékul való lekötéséhez (a továbbiakban együtt: alapvető eszközökkel való rendelkezés).
+
+(5) Nem igényli a Hivatal (4) bekezdés szerinti előzetes hozzájáruló határozatát az alapvető eszközökkel való rendelkezés
+
+a) kiserőművi összevont engedélyes,
+
+b) egyetemes szolgáltatói engedélyes kivételével villamosenergia-kereskedő,
+
+c) magánvezeték engedélyese vagy
+
+d) közvetlen vezeték engedélyese
 
 esetében.

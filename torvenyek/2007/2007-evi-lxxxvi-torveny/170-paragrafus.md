@@ -16,7 +16,7 @@
 
 6. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony és az egyetemes szolgáltatás igénybevételére irányuló szándék bejelentésének részletes szabályait, valamint az egyetemes szolgáltatás keretében történő villamosenergia-vásárlásra vonatkozó szerződés tartalmi és formai követelményeit, megszűnésének eseteit,
 
-7. az engedélyezés részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyköteles tevékenységek folytatásának, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, az engedélyes tevékenység folytatásának feltételeit, valamint az engedélyesek jogait és kötelezettségeit,
+7. az engedélyezés, a tanúsítási eljárás, valamint az elektronikus ügyintézés részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyköteles tevékenységek folytatásának, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, az engedélyes tevékenység folytatásának feltételei, továbbá az engedélyesek jogait és kötelezettségeit, valamint a jóváhagyásra irányuló eljárás részletes szabályait,
 
 8. a szélerőmű kivételével az új termelő kapacitások létesítésére vonatkozó részletes szabályokat, ideértve a tározós erőmű villamosenergia-rendszerben betöltött szerepével, valamint a villamosenergia-rendszerbe történő illesztésével kapcsolatos rendelkezéseket is, valamint az erőmű létesítéséhez szükséges megvalósíthatósági tanulmány, üzleti terv és független szaktanácsadói jelentés tartalmi elemeit, továbbá az erőmű bővítés engedélyköteles eseteit és a bővítés feltételeit,
 
@@ -24,27 +24,27 @@
 
 10. az átviteli és elosztó hálózat karbantartási, javítási, felújítási munkáival, valamint fejlesztésével összefüggésben kiválasztott és megbízott természetes személy vagy gazdálkodó szervezet kiválasztására és megbízására vonatkozó feltételeket és eljárásokat,
 
-11. a Hivatal által jóváhagyott hálózatfejlesztési terv módosításának eseteit,
+11. a kereskedőváltásra vonatkozó részletes szabályokat,
 
-12. a magánvezeték üzemeltetésére vonatkozó részletes szabályokat,
+12. a magánvezeték és a közvetlen vezeték létesítésére és üzemeltetésére, valamint a villamos energia továbbadására vonatkozó részletes szabályokat,
 
 13. a felhasználó villamos energia vásárlásának és értékesítésének feltételeit,
 
 14. a villamosenergia-kereskedő villamos energia értékesítésére vonatkozó szerződése megkötésének feltételeit, kötelező tartalmi és formai elemeit,
 
-15. a közvetlen vezeték, vagy magánvezeték hivatalból történő közcélúvá nyilvánításának szabályait,
+15. a közvetlen vezeték, a termelői vezeték vagy a magánvezeték átminősítésének vagy közcélúvá nyilvánításának szabályait,
 
 16. az egyetemes szolgáltatásra vonatkozó engedélykérelemben feltüntethető legkisebb szolgáltatási terület szabályait, valamint az egyetemes szolgáltatás bármely villamosenergia-kereskedő általi végzését lehetővé tevő részletes szabályokat,
 
 17. a folyamatos ellátás érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére vonatkozó részletes szabályokat,
 
-18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire, valamint a 106. § szerinti értékesítési kötelezettség teljesítésére, a teljesítés ellenőrzésére, az értékesítési szabályok kötelező formai és tartalmi elemeire vonatkozó részletes előírásokat,
+18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire,
 
-19. az energia-végfelhasználás hatékonyságáról és az energetikai szolgáltatásokról, valamint a 93/76/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006. április 5-i 2006/32/EK európai parlamenti és tanácsi irányelv 13. cikkében meghatározott elektronikus fogyasztásmérők felhasználóknál való felszerelésére vonatkozó szabályokat,
+19. az elektronikus fogyasztásmérők felhasználóknál való felszerelésére, az okos mérés bevezetésére és a bevezetést előkészítő mintaprojektek megvalósítására vonatkozó szabályokat, ennek keretében a mintaprojektek révén meghatározandó és szolgáltatandó információk körét, az ezzel összefüggésben elvégzendő feladatokat, mintaprojektmodell-választékot, a mérési és kommunikációs követelmények meghatározásához elvégzendő feladatokat, az adatkezelési, adatbiztonsági előírásokat, a mintaprojektek finanszírozását, időbeli ütemezését, és értékelési kritériumait, a Hivatalnak a mintaprojekt felügyeletével kapcsolatos feladatait, valamint az okos hálózatok bevezetésére vonatkozó szabályokat,
 
 20. a szervezett villamosenergia-piac működésére, engedélyezésére, a szervezett villamosenergia-piaci engedélyesnek az energiakereskedelem fizikai teljesítésű ügyleteivel összefüggő feladataira, jogaira és kötelezettségeire vonatkozó részletes szabályokat, továbbá a szervezett villamosenergia-piaci szabályzat elkészítésének, közzétételének rendjét, a szervezett villamosenergia-piac engedélyese és az átviteli rendszerirányító együttműködésének szabályait,
 
-21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózati használati szerződés minimális tartalmi és formai követelményeit, valamint szerződésszegés következtében történő felmondásának eseteit,
+21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózati használati szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
 
 22. a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályait,
 
@@ -52,7 +52,7 @@
 
 24. a megújuló energiaforrásból, a hulladékból nyert energiából és a kapcsolt energiatermelésből származó villamos energia eredetét igazoló bizonyítványra, a bizonyítvány kiadására, az ilyen energiaforrásból termelt villamos energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
 
-25. a Hivatal közérdekű határozatainak körét és a közzétételére vonatkozó részletes szabályokat,
+25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 
 26. az ország nemzetközi kötelezettségvállalásán alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre vonatkozó részletes szabályokat,
 
@@ -64,11 +64,11 @@
 
 30. a villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték építésének, üzemeltetésének, használatbavételének, fennmaradásának és megszüntetésének engedélyezésével, az engedélyek meghosszabbításával, az egyszerűsített engedéllyel, valamint az idegen ingatlanra vonatkozó jogok alapításával, tartalmával, engedélyezésével, megszűnésével, az építési jogosultság igazolására alkalmas okiratokkal és a kártalanítással kapcsolatos részletes szabályokat,
 
-31. a villamosenergia-kereskedő, illetve az egyetemes szolgáltató által nyújtandó pénzügyi biztosíték nyújtásának módját, mértékét, valamint az alkalmazandó mértéket megalapozó feltételeket,
+31. az átviteli rendszerirányító részére nyújtandó pénzügyi biztosíték nyújtásának feltételeit, módját, az alkalmazandó mértéket megalapozó feltételeket, valamint az átviteli rendszerirányító pénzügyi biztosítékkal kapcsolatos tájékoztatási kötelezettségét,
 
 32. a rendszerszintű szolgáltatások biztosításához, az átviteli vagy elosztó hálózati veszteség pótlásához szükséges villamos energia beszerzésére vonatkozó pályázat minimális tartalmi követelményeit, valamint nyilvánosságra hozatalának módját,
 
-33. az elosztó hálózati engedélyesnek háztartási kiserőművek nyilvántartásával kapcsolatos feladatait, valamint az elosztó hálózati engedélyes, a villamosenergia-kereskedő, és az egyetemes szolgáltató védendő fogyasztókkal kapcsolatos feladatait, jogait és kötelezettségeit, a védendő fogyasztó szerződésszegése esetén alkalmazható jogkövetkezményeket,
+33. az elosztó hálózati engedélyesnek háztartási kiserőművek hálózatra csatlakoztatásával, hálózathasználatával, elszámolásával, valamint nyilvántartásával kapcsolatos feladatait, valamint az elosztó hálózati engedélyes, a villamosenergia-kereskedő, és az egyetemes szolgáltató védendő fogyasztókkal kapcsolatos feladatait, jogait és kötelezettségeit, a védendő fogyasztó szerződésszegése esetén alkalmazható jogkövetkezményeket,
 
 34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
@@ -80,13 +80,15 @@
 
 38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, valamint feladatai ellátására vonatkozó részletes szabályokat,
 
-39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint az átviteli rendszerirányítónál működő megfelelési ellenőr jogköreire és feladataira vonatkozó részletes szabályokat,
+39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint az átviteli rendszerirányítónál működő megfelelési ellenőr szakmai alkalmasságára vonatkozó feltételeket, jogköreire és feladataira vonatkozó részletes szabályokat,
 
-40. a számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket,
+40. a szétválasztási szabályokra, valamint a számviteli szétválasztásra vonatkozó részletes szabályokat,
 
 41. a műszaki-biztonsági hatóságok kijelölését,
 
-41. Az egyetemes szolgáltatás keretében történő villamosenergia-vásárláshoz való jogosultság szempontjából az egyetemes szolgáltatóhoz tett igénybejelentésük esetén közszolgáltatásra jogosult központi költségvetési szervek és közfeladatot ellátó intézmények, helyi önkormányzatok közfeladatot ellátó költségvetési intézményei, közfeladatot ellátó egyházi jogi személyek, valamint közfeladatot ellátó alapítványi fenntartású intézmények körét
+42. az egyetemes szolgáltatás keretében történő villamosenergia-vásárláshoz való jogosultság szempontjából az egyetemes szolgáltatóhoz tett igénybejelentésük esetén közszolgáltatásra jogosult központi költségvetési szervek és közfeladatot ellátó intézmények, helyi önkormányzatok közfeladatot ellátó költségvetési intézményei, közfeladatot ellátó egyházi jogi személyek, valamint közfeladatot ellátó alapítványi fenntartású intézmények körét,
+
+43. a hálózatfejlesztési tervre vonatkozó szempontrendszert
 
 rendeletben állapítsa meg.
 
@@ -94,37 +96,39 @@ rendeletben állapítsa meg.
 
 1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 
-2. az elosztó hálózati engedélyesek és az egyetemes szolgáltató által a felhasználó igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait,
+2. az elosztó és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait, valamint az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait
 
-3. a háztartási méretű kiserőművekről, illetve védendő fogyasztókról vezetendő nyilvántartások részletes szabályait az adatvédelemről szólót törvénnyel összhangban, továbbá a háztartási kiserőművek mérésének részletes szabályait,
+3.
 
-4. az 50 MW, és azt meghaladó teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
+4. az 50 MW, és azt meghaladó névleges teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
 
 5. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának, valamint a Hivatal által a honlapján közzéteendő – a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról szóló – tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat,
 
-6. a kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módját, valamint az előbbiek igazolására vonatkozó eljárás részletes szabályait,
+6. a kapcsoltan termelt villamos energia mennyisége megállapításának számítási módját, valamint a kapcsoltan termelt villamos energia mennyiségének igazolására vonatkozó eljárás részletes szabályait,
 
-7. az engedélyesek és a rendszerhasználók villamosenergia-ipari tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi szervezetek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. § (2) bek.] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
+7. az engedélyesek e törvény szerinti engedélyköteles tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi szervezetek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. § (2) bek.] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
 
-8. .
+8. a felhasználók mérési adataihoz történő hozzáférés szabályait, az adatok formátumát, a mérési adatok felhasználók, valamint a villamosenergia-kereskedők részére történő átadásával kapcsolatos eljárás rendjét,
 
-9–10.
+9. a megújuló energiaforrásokból nyert energiával termelt villamos energiára vonatkozó eredetigazolásra figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
 
-11. a csatlakozási díjakat, a rendszerhasználati díjakat, a hálózati engedélyesek által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzése szabályait, a szolgáltatásminőség romlása esetén az elosztó hálózati engedélyesek által alkalmazható alacsonyabb rendszerhasználati díjakat, az elosztási díjból származó bevétel elosztó hálózati engedélyesek közötti megosztására vonatkozó kiegyenlítő mechanizmus részletes szabályait, valamint az egyes díjak alkalmazásának feltételeit,
+10.
+
+11. rendszerhasználati díjak képzésének és alkalmazásának alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak alkalmazásának alapelveit, meghatározásának szempontjait és a díjak elemeit,
 
 12.
 
 13. az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztási szabályait és a szétosztás során alkalmazható árak meghatározásának módját,
 
-14. az elsődleges energiaforrás választás részletes szabályait,
+14.
 
-15. a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyek körét, a kedvezményes villamosenergia-árat, valamint a kedvezmény biztosításával összefüggő eljárási, elszámolási szabályokat és igazolási kötelezettségeket,
+15. a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben a villamosenergia-kereskedő üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyek körét, a kedvezményes villamosenergia-árat, valamint a kedvezmény biztosításával összefüggő eljárási, elszámolási szabályokat és igazolási kötelezettségeket,
 
-16. a szélerőmű létesítésére irányuló pályázat kiírásának feltételeit, a pályázat minimális tartalmi követelményeit, valamint a pályáztatási eljárás szabályait,
+16. a szélerőmű létesítésére irányuló pályázat kiíróját, kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait,
 
 17. a hálózathoz való csatlakozás lényeges feltételeit,
 
-18. az elsődleges energiaforrás felhasználásának az új termelő kapacitások engedélyezése során történő korlátozásának részletes szabályait,
+18. az elsődleges energiaforrás választásának és felhasználásának az új termelő kapacitások engedélyezése során történő korlátozásának részletes szabályait,
 
 19.
 
@@ -134,7 +138,7 @@ b) az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia H
 
 c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
 
-d) a villamosenergia-ipari tevékenységet folytató vállalkozásokkal, valamint az ilyen tevékenységet folytató vállalkozások munkavállalói érdekképviseleti szervezeteivel való együttműködés érdekében működtetett energetikai tanácsadó testületet működésének részletes feltételeit az érintett felek képviselőivel egyetértésben
+d)
 
 rendeletben állapítsa meg.
 

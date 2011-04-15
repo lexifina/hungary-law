@@ -11,3 +11,7 @@ a) kiserőművi összevont engedélyes esetében,
 b) magánvezeték létesítése, működtetése vagy a működtetés szüneteltetése, a vezeték kapacitásának megváltoztatása esetében,
 
 c) közvetlen vezeték engedélyese esetében.
+
+(5) Villamos energia termelésével, földgáz kitermelésével vagy villamos energia vagy földgáz kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló részvényes az átviteli rendszerirányítóban vagy annak irányító részvényesében sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. Az átviteli rendszerirányítóban, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges. E rendelkezés nem érinti a 102. § (1) bekezdésében rögzített rendelkezést.
+
+(6) A Hivatal előzetes hozzájáruló határozata szükséges az olyan jogügylet megvalósításához, amely azt eredményezné, hogy harmadik országból származó személy vagy személyek gyakorolnak irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett.

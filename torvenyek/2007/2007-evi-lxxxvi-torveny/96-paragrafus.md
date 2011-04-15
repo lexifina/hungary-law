@@ -22,4 +22,6 @@ dd) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával, vagy 
 
 (3) A Hivatal az integrált villamosenergia-ipari vállalkozás e törvény szerint nem engedélyköteles tagjával szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
+(3a) A Hivatal az átviteli hálózat tulajdonosával szemben az (1) bekezdésben meghatározott jogszabályokban és uniós jogi aktusokban, valamint a Hivatal által kiadott határozatokban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+
 (4) A folyamatos és biztonságos ellátás érdekében, az (1)–(3) bekezdésekben foglalt eljárás, illetve a felszámolás vagy a végelszámolás befejezéséig a működési engedélyben foglalt tevékenységet folyamatosan fenn kell tartani.

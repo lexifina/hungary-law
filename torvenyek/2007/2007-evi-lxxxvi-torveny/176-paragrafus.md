@@ -1,6 +1,10 @@
 176. § (1) Az egyetemes szolgáltatásra jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a 178. § (1) bekezdése c) pontjának megfelelően beadott kérelmek alapján – az e törvény 90. §-a szerinti egyetemes szolgáltatói engedély megszerzésének feltételével – a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen történő egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltató lép.
 
-(2) A villamos energiáról szóló 2001. évi CX. törvény rendelkezései szerint kiadott kiserőművi összevont engedélyek, villamos energia termelésére vonatkozó működési engedélyek, az elosztó hálózati engedélyek, valamint a villamos energia kereskedelemre vonatkozó működési engedélyek hatályát e törvény hatálybalépése nem érinti.
+(2) A villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatásra jogosult, de az e törvény szerinti egyetemes szolgáltatásra nem jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen villamos energiát értékesítő villamosenergia-kereskedő lép, amennyiben
+
+a) az ugyanezen területen egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltatóval egy gazdasági társaság,
+
+b) az egyetemes szolgáltatói engedélyen felül villamos energia kereskedelemre vonatkozó működési engedéllyel is rendelkezik.
 
 (3) Azon felhasználók esetében, amelyek a jelen törvény hatálybalépésekor külön hálózat használati és villamosenergia-vásárlási szerződéssel nem rendelkeznek, vagy közüzemi szerződésüket ráutaló magatartással kötötték, az érintett engedélyesek és felhasználók 2009. december 31-ig kötelesek az e törvény rendelkezései szerinti új szerződéseket megkötni és egyidejűleg az érvényben lévő közüzemi szerződéseiket megszüntetni.
 

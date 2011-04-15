@@ -10,7 +10,7 @@ b) vezetékjogot,
 
 c) használati jogot,
 
-d) kisajátítást
+d)
 
 kérhet.
 

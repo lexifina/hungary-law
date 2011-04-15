@@ -34,4 +34,4 @@ a) villamos energia nagykereskedelem az olyan kereskedelem, amelynek során vill
 
 b) villamos energia kiskereskedelem az olyan kereskedelem, amelynek során villamos energiát közvetlenül a felhasználónak értékesítenek,
 
-c) a rendszerszintű szolgáltatások nyújtását, továbbá az átviteli-, illetve elosztóhálózati veszteség pótlását biztosítani hivatott teljesítmény és energia piaca az olyan kereskedelem, amelynek során teljesítőképességet, illetve villamos energiát közvetlenül az átviteli rendszerirányítónak és az elosztóhálózati engedélyeseknek értékesítenek.
+c) a rendszerszintű szolgáltatások nyújtását biztosítani hivatott teljesítmény és energia piaca az olyan kereskedelem, amelynek során teljesítőképességet, illetve villamos energiát közvetlenül az átviteli rendszerirányítónak értékesítenek.

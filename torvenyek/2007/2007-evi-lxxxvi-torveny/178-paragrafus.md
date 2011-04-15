@@ -12,7 +12,7 @@ c) közüzemi szolgáltatói engedéllyel rendelkező engedélyesek kötelesek o
 
 d) minden, üzletszabályzat készítésére kötelezett engedélyes köteles üzletszabályzatát az e törvénynek és a végrehajtásra kiadott kormányrendeletnek megfelelően átdolgozni és jóváhagyásra benyújtani a Hivatalhoz 2007. november 15-ig.
 
-(2) A villamos energiáról szóló 2001. évi CX. törvény rendelkezései szerint kiadott kiserőművi összevont engedélyek, villamos energia termelésére vonatkozó működési engedélyek, az elosztó hálózati engedélyek, valamint a villamos energia kereskedelemre vonatkozó működési engedélyek érvényességét e törvény hatálybalépése nem érinti.
+(2) A villamos energiáról szóló 2001. évi CX. törvény rendelkezései szerint kiadott kiserőművi összevont engedélyek, villamos energia termelésére vonatkozó működési engedélyek, az elosztó hálózati engedélyek, valamint a villamos energia kereskedelemre vonatkozó működési engedélyek hatályát e törvény hatálybalépése nem érinti.
 
 (3) Az e törvény hatálybalépését megelőzően indult engedélyezési eljárásokat e törvény rendelkezései szerint kell lefolytatni, azzal, hogy a Hivatal nem kérheti a már rendelkezésére álló iratok ismételten történő benyújtását.
 
