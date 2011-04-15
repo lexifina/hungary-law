@@ -1,0 +1,1 @@
+15/A. § E törvény 11/A. §-a az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
