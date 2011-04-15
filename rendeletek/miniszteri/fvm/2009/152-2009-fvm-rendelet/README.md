@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2011-01-01 | 2009-152-20-82.8 | 37/2010. (IV. 13.) FVM rendelet |
 | 2011-01-21 | 2009-152-20-82.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-22 | 2009-152-20-82.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-04-15 | 2009-152-20-82.11 | 26/2011. (IV. 7.) VM rendelet |

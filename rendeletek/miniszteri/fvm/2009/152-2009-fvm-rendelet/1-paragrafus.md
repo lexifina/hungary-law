@@ -54,13 +54,37 @@
 
 26. az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokból és tárgyakból az élelmiszerekbe kioldódó vinil-klorid mennyiségének meghatározásáról szóló 28. melléklet,
 
-27. az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 29. melléklet.
+27. az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 29. melléklet,
 
-(3)[^2] A Magyar Élelmiszerkönyv (Codex Alimentarius Hungaricus) I. kötetének nemzeti termékleírásokat tartalmazó kötelező előírásait e rendelet következő mellékleteiben adom ki:
+28.[^2] az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról szóló 30. melléklet,
+
+29.[^3] a cukortermékek vizsgálati módszereiről szóló 31. melléklet,
+
+30.[^4] a sűrített tej és tejporfélék vizsgálatáról szóló 32. melléklet,
+
+31.[^5] az étolaj, az étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszeréről szóló 33. melléklet,
+
+32.[^6] az étkezési kazeinek és kazeinátok vizsgálati módszereiről szóló 34. melléklet,
+
+33.[^7] az étkezési kazeinek és kazeinátok mintavételi módszereiről szóló 35. melléklet,
+
+34.[^8] a sűrített tej és tejporfélék mintavételi módszereiről szóló 36. melléklet,
+
+35.[^9] a közvetlen emberi fogyasztásra szánt, hőkezelt tej mintavételi és vizsgálati módszereiről szóló 37. melléklet.
+
+(3)[^10] A Magyar Élelmiszerkönyv (Codex Alimentarius Hungaricus) I. kötetének nemzeti termékleírásokat tartalmazó kötelező előírásait e rendelet következő mellékleteiben adom ki:
 
 a) a húskészítményekről szóló 12. melléklet,
 
 b) a tejtermékekről szóló 13. melléklet.
 
 [^1]: Az 1. § (2) bekezdése a 65/2010. (V. 12.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés 28. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdés 29. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (2) bekezdés 30. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdés 31. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (2) bekezdés 32. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^7]: Az 1. § (2) bekezdés 33. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (2) bekezdés 34. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (2) bekezdés 35. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

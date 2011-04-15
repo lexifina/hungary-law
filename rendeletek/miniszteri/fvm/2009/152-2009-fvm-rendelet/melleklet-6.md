@@ -2640,10 +2640,12 @@
 
 | E 1450 | keményítő-nátrium-oktenil- szukcinát | 20 g/l | Tápszerekben és bébiételekben |
 
-6. melléklet a 152/2009. (XI. 12.) FVM rendelethez
+6. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^31]
 
 ## A Magyar Élelmiszerkönyv 1-2-2008/60 számú előírása az élelmiszerekben használható édesítőszerek tisztasági követelményeiről
 
 A Magyar Élelmiszerkönyv 1-2-2008/60 számú előírása az élelmiszerekben használható édesítőszerek tisztasági követelményeiről
 
 1. A 2. pont táblázata tartalmazza azokat a tisztasági követelményeket, amelyeket a Magyar Élelmiszerkönyv 1-2-94/35 számú előírásban meghatározott édesítőszerekre kell alkalmazni.
+
+[^31]: A 6. melléklet a 26/2011. (IV. 7.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.

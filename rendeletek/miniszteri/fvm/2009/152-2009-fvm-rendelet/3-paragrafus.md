@@ -1,4 +1,4 @@
-## 3. §[^8] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 3. §[^16] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 1. a Tanács 90/496/EGK irányelve (1990. szeptember 24.) az élelmiszerek tápértékjelöléséről, valamint az ezt módosító, a Bizottság 2003/120/EK és 2008/100/EK irányelvei;
 
@@ -12,7 +12,7 @@
 
 6. az Európai Parlament és a Tanács 95/2/EK irányelve (1995. február 20.) a színezékeken és édesítőszereken kívüli egyéb élelmiszer-adalékanyagokról, valamint az azt módosító 96/85/EK, 98/72/EK, 2001/5/EK, 2003/52/EK, 2003/114/EK, 2006/52/EK irányelvei;
 
-7. a Bizottság 2008/60/EK irányelve (2008. június 17.) az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról (kodifikált változat);
+7.[^17] a Bizottság 2008/60/EK irányelve (2008. június 17.) az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról, valamint az azt módosító, a Bizottság 2010/37/EU irányelve
 
 8. a Bizottság 2008/128/EK irányelve (2008. december 22.) az élelmiszerekben használható színezékek különleges tisztasági követelményeinek megállapításáról (kodifikált változat);
 
@@ -64,6 +64,34 @@
 
 32. Bizottság 2002/72/EK irányelve (2002. augusztus 6.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról, valamint az ezt módosító, a Bizottság 2004/1/EK, 2004/19/EK, 2005/79/EK, 2007/19/EK, 2008/39/EK irányelvei és 975/2009/EK rendelete;
 
-33. A Bizottság 2007/42/EK irányelve (2007. június 29.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokról és tárgyakról.
+33. A Bizottság 2007/42/EK irányelve (2007. június 29.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokról és tárgyakról;
 
-[^8]: A 3. § a 65/2010. (V. 12.) FVM rendelet 2. §-ával megállapított szöveg.
+34.[^18] a Tanács 76/766/EGK irányelve (1976. július 27.) az alkoholtáblázatokról szóló tagállami jogszabályok közelítéséről;
+
+35.[^19] a Bizottság 79/796/EGK első irányelve (1979. július 26.) az emberi fogyasztásra szánt egyes cukorfajták vizsgálatára szolgáló közösségi vizsgálati módszerek megállapításáról;
+
+36.[^20] a Bizottság 79/1067/EGK első irányelve (1979. november 13.) az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejtermékek vizsgálatára szolgáló közösségi elemzési módszerek megállapításáról;
+
+37.[^21] a Bizottság 80/891/EGK irányelve (1980. július 25.) a közvetlenül emberi fogyasztásra szánt olajok (étolajok) és zsírok (étkezési zsírok), valamint a hozzáadott olajokat és zsírokat tartalmazó élelmiszerek erukasav-tartalmának meghatározására vonatkozó közösségi vizsgálati módszerekről;
+
+38.[^22] a Bizottság 85/503/EGK első irányelve (1985. október 25.) az étkezési kazeinek és kazeinátok vizsgálati módszereiről;
+
+39.[^23] a Bizottság 86/424/EGK első irányelve (1986. július 15.) az étkezési kazeinek és kazeinátok vegyi elemzéséhez szükséges közösségi mintavételi módszerek megállapításáról;
+
+40.[^24] a Bizottság 87/524/EGK első irányelve (1987. október 6.) a tartós tejtermékek vizsgálatára szolgáló vegyi elemzéséhez szükséges közösségi mintavételi módszerek megállapításáról;
+
+41.[^25] a Tanács 92/608/EGK határozata (1992. november 14.) a közvetlen emberi fogyasztásra szánt hőkezelt tej elemzési és vizsgálati módszereinek megállapításáról;
+
+42.[^26] Bizottság 2011/8/EU irányelve (2011. január 28.) a biszfenol A csecsemőknek szánt cumisüvegekben való felhasználásának korlátozása tekintetében a 2002/72/EK irányelv módosításáról.
+
+[^16]: A 3. § a 65/2010. (V. 12.) FVM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 3. § 7. pontja a 26/2011. (IV. 7.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^18]: A 3. § 34. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 3. § 35. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 3. § 36. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^21]: A 3. § 37. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 3. § 38. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 3. § 39. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^24]: A 3. § 40. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 3. § 41. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^26]: A 3. § 42. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
