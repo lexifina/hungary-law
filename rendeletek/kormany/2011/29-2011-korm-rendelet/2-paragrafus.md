@@ -1,0 +1,75 @@
+## 1. § Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet (a továbbiakban: R.) 1. mellékletének 1. Az Országos Képzési Jegyzék (2010.) pontjában foglalt táblázata e rendelet melléklete szerint módosul.
+
+2. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba és a hatálybalépést követő napon hatályát veszti.
+
+Melléklet a 29/2011. (III. 16.) Korm. rendelethez
+
+1.) Az R. 1. számú mellékletének 197. sora helyébe a következő szöveg lép:
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
+
+| 1 | [Sor- szám | Szakképesítés azonosító száma | Szakképesítés megnevezése | Szakképesítések köre | Szakma- csoport | Jegyzékbe kerülés éve | Kizárólag iskolai rendszerben oktatható | Maximális képzési idő | FEOR szám | A szakképesí- tésért felelős miniszter] |
+
+| 2 | Azonosító szám | Részszakképesítés | Szakképesítés-elágazás | Szakképesítés-ráépülés |
+
+| 3 | Azonosító szám | megnevezés | Azonosító szám | megnevezés | Azonosító szám | megnevezés |
+
+| 4 | szint | tanul- mányi terület | sor- szám | alap- szak- képesítés | rész- szak- képesítés | elágazás | ráépülés | szint | sor- szám | szint | sor- szám | szint | sor- szám |
+
+| 5 | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. |
+
+| 6 | "197. | 31 | 582 | 07 | Bádogos 4 |  |  |  |  |  |  |  |  |  |  |  | 9 | 2010. | - |  |  | szakkép- zésért és felnőtt- képzésért felelős miniszter" |
+
+| 7 |  | 0 | 0 | 1 | 0 |  | 31 | 01 | Épület- és építmény- bádogos |  |  |  | 2 év 2000 óra | 7633 |
+
+| 8 | 0 | 0 | 1 | 0 | 31 | 02 | Ipari szigetelő- bádogos | 2 év 2000 óra | 7633 |
+
+1.) Az R. 1. számú mellékletének 354. sora helyébe a következő szöveg lép:
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
+
+| 1 | [Sor- szám | Szakképesítés azonosító száma | Szakképesítés megnevezése | Szakképesítések köre | Szakma- csoport | Jegyzékbe kerülés éve | Kizárólag iskolai rendszerben oktatható | Maximális képzési idő | FEOR szám | A szakképesí- tésért felelős miniszter] |
+
+| 2 | Azonosító szám | Részszakképesítés | Szakképesítés-elágazás | Szakképesítés-ráépülés |
+
+| 3 | Azonosító szám | megnevezés | Azonosító szám | megnevezés | Azonosító szám | megnevezés |
+
+| 4 | szint | tanul- mányi terület | sor- szám | alap- szak- képesítés | rész- szak- képesítés | elágazás | ráépülés | szint | sor- szám | szint | sor- szám | szint | sor- szám |
+
+| 5 | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. |
+
+| 6 | "354. | 33 | 815 | 01 | Fodrász | 1 | 0 | 0 | 0 |  |  |  |  |  |  |  | 19 | 2010. | - | 2 év 2000 óra | 5311 | szakkép- zésért és felnőtt- képzésért felelős miniszter" |
+
+| 7 |  |  |  |  | 0 | 0 | 0 | 1 |  |  |  |  | 33 | 01 | Parókakészítő | 1000 óra |
+
+1.) Az R. 1. számú melléklete az alábbi 425. sorral egészül ki:
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
+
+| 1 | [Sor- szám | Szakképesítés azonosító száma | Szakképesítés megnevezése | Szakképesítések köre | Szakma- csoport | Jegyzékbe kerülés éve | Kizárólag iskolai rendszerben oktatható | Maximális képzési idő | FEOR szám | A szakképesí- tésért felelős miniszter] |
+
+| 2 | Azonosító szám | Részszakképesítés | Szakképesítés-elágazás | Szakképesítés-ráépülés |
+
+| 3 | Azonosító | megnevezés | Azonosító | megnevezés | Azonosító | megnevezés |
+
+| 4 | szint | tanul- mányi terület | sor- szám | alap- szak- képesítés | rész- szak- képesítés | elágazás | ráépülés | szint | sor- szám | szint | sor- szám | szint | sor- szám |
+
+| 5 | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. |
+
+| 6 | "425. | 55 | 810 | 02 | Fogyasztóvédelmi szakasszisztens | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  | 19 | 2010. | i | 2 év | 3129 | szakkép- zésért és felnőtt- képzésért felelős miniszter" |
+
+1.) Az R. 1. számú melléklete az alábbi 426. sorral egészül ki:
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
+
+| 1 | [Sor- szám | Szakképesítés azonosító száma | Szakképesítés megnevezése | Szakképesítések köre | Szakma- csoport | Jegyzékbe kerülés éve | Kizárólag iskolai rendszerben oktatható | Maximális képzési idő | FEOR szám | A szakképesí- tésért felelős miniszter] |
+
+| 2 | Azonosító szám | Részszakképesítés | Szakképesítés-elágazás | Szakképesítés-ráépülés |
+
+| 3 | Azonosító | megnevezés | Azonosító | megnevezés | Azonosító | megnevezés |
+
+| 4 | szint | tanul- mányi terület | sor- szám | alap- szak- képesítés | rész- szak- képesítés | elágazás | ráépülés | szint | sor- szám | szint | sor- szám | szint | sor- szám |
+
+| 5 | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. |
+
+| 6 | "426. | 31 | 521 | 28 | Járműipari fémalkatrész- gyártó | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  | 5 | 2010. | - | 2 év 2000 óra | 7415 | szakkép- zésért és felnőtt- képzésért felelős miniszter" |
