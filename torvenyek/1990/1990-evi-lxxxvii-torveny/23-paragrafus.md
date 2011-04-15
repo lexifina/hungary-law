@@ -218,15 +218,17 @@ vízgazdálkodásért felelős miniszter
 
 |
 
-40.30.90.0
+40.30.90.0-ból
 
 |
 
-Távhőszolgáltatás csatlakozási díja és lakossági távhőszolgáltatás díja
+Távhőszolgáltatás csatlakozási díja
 
 |
 
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete
+települési önkormányzat – fővárosban a Fővárosi Önkormányzat –
+
+képviselő-testülete
 
 |
 

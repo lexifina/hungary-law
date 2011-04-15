@@ -8,4 +8,4 @@
 
 (4)
 
-(5) E törvény Melléklete II. Legmagasabb ár pontjának „B) Szolgáltatások” fejezetében található „40.30.90.0 Távhőszolgáltatás csatlakozási díját és lakossági távhőszolgáltatás díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselőtestülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
+(5) E törvény melléklete „I. Legmagasabb ár” pontjának „B) Szolgáltatások” alpontjában 40.30.90.0 SZTJ szám alatt szereplő „Távhőszolgáltatás csatlakozási díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
