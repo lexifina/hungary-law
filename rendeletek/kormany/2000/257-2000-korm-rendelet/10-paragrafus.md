@@ -1,6 +1,6 @@
-## [A törvény 61. §-ának (4) bekezdéséhez][^27]
+## [A törvény 61. §-ának (4) bekezdéséhez][^36]
 
-10. §[^28] (1) A munkakör betöltéséhez szükséges képesítési előírás alól a felmentés abban az esetben adható meg, ha
+10. §[^37] (1) A munkakör betöltéséhez szükséges képesítési előírás alól a felmentés abban az esetben adható meg, ha
 
 a) a közalkalmazott a képesítés megszerzése érdekében már oktatásban vesz részt, vagy
 
@@ -8,5 +8,5 @@ b) az adott munkakörre nem áll rendelkezésre olyan – a képesítési előí
 
 (2) A képesítési előírás alól a felmentést – az (1) bekezdésben meghatározott esetekben – határozott időre, de legfeljebb öt évre a munkáltatói jogkör gyakorlója adhatja meg.
 
-[^27]: A 10. §-t megelőző jogszabályi hivatkozást a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezi; a rendelkezés 2012. december 30. napján lép hatályba.
-[^28]: A 10. §-t a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezi; a rendelkezés 2012. december 30. napján lép hatályba.
+[^36]: A 10. §-t megelőző jogszabályi hivatkozást a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezi; a rendelkezés 2012. december 30. napján lép hatályba.
+[^37]: A 10. §-t a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja hatályon kívül helyezi; a rendelkezés 2012. december 30. napján lép hatályba.

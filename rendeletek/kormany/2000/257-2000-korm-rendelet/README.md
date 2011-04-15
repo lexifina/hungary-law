@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | --- | --- | --- |
 | 2009-01-01 | 2000-257-20-22.9 | 257/2000. (XII. 26.) Korm. rendelet |
 | 2011-01-01 | 2000-257-20-22.10 | 326/2008. (XII. 29.) Korm. rendelet |
+| 2011-04-15 | 2000-257-20-22.11 | 60/2011. (IV. 12.) Korm. rendelet |

@@ -1,8 +1,3 @@
-4. § (1) A magasabb vezetői beosztás ellátására való megbízás legalább öt, de legfeljebb tíz évre adható. Magasabb vezetői beosztás ellátására való megbízás ugyanannak a közalkalmazottnak ismételten is adható (a továbbiakban: a megbízás meghosszabbítása).
+## 3/A. §[^24] A magasabb vezető, vezető beosztásra történő megbízás feltétele, hogy a közalkalmazott nem áll cselekvőképességet kizáró vagy korlátozó gondnokság alatt, amelyről a megbízást megelőzően nyilatkozik.
 
-(2)[^20] Vezető beosztású közalkalmazott helyettesítése esetén határozott idejű vezetői megbízás adható a helyettesítés időtartamára.
-
-(3)–(14)[^21]
-
-[^20]: A 4. § (2) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^21]: A 4. § (3)–(14) bekezdését a 224/2007. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^24]: A 3/A. §-t a 326/2008. (XII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 60/2011. (IV. 12.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
-## [A Törvény 20/A. §-ához][^4]
+## [A Törvény 20/A. §-ához][^7]
 
-1/A. §[^5] (1)[^6] A Kjt. 20/A. § (2) bekezdésében foglaltakon túlmenően nem kötelező pályázat kiírása
+1/A. §[^8] (1)[^9] A Kjt. 20/A. § (2) bekezdésében foglaltakon túlmenően nem kötelező pályázat kiírása
 
 a) azon munkakör esetében, amely a Kjt. 61. § (1) bekezdése szerinti „A”–„E” fizetési osztályba történő besorolással tölthető be,
 
-b) a 2. számú melléklet I.1. pontja szerinti asszisztens munkakör, II.1. pontjában foglalt szakgondozó, valamint III.A. pontja szerinti élelmezésvezető munkakör esetében.
+b)[^10] a 2. számú melléklet I.1. pontja szerinti asszisztens munkakör, II.1. pontjában foglalt szakgondozó, kisgyermeknevelő, valamint III.A. pontja szerinti élelmezésvezető munkakör esetében.
 
-(2)[^7]
+(2)[^11]
 
-(3)[^8] A pályázati eljárás lefolytatásával összefüggő feladatokat
+(3)[^12] A pályázati eljárás lefolytatásával összefüggő feladatokat
 
 a) intézményvezető esetén a fenntartó
 
@@ -30,7 +30,7 @@ b) a jogviszony időtartamát, határozott idejű jogviszony esetén a jogviszon
 
 c) a pályázat benyújtásának formáját, határidejét és helyét, a pályázat tartalmi követelményeire vonatkozó szabályokat.
 
-(5)[^9]
+(5)[^13]
 
 (6) A magasabb vezetői álláshelyre meghirdetett pályázati felhívást a Törvény 20/A. §-ának (4) bekezdésében foglaltakon túl a szociál- és családpolitikáért, valamint a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium hivatalos lapjában, továbbá a gyermekvédelmi területen történő pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában is közzé kell tenni.
 
@@ -38,9 +38,7 @@ c) a pályázat benyújtásának formáját, határidejét és helyét, a pály�
 
 a) a pályázó szakmai életrajzát,
 
-b) a büntetlen előéletet igazoló erkölcsi bizonyítványt,
-
-c) intézményvezetői álláshely esetén az intézmény vezetésére vonatkozó programot a szakmai helyzetelemzésre épülő fejlesztési elképzeléssel,
+b)–c)[^14]
 
 d) a pályázó nyilatkozatát arról, hogy a pályázati anyagában foglalt személyes adatainak a pályázati eljárással összefüggő kezeléséhez hozzájárul,
 
@@ -54,25 +52,27 @@ e) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 a) a pályázat előkészítőjének vagy képviselőjének,
 
-b)[^10]
+b)[^15]
 
-c)[^11] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szövetség, illetőleg egyesület képviselőjének vagy a szakma szerint illetékes szakmai kollégium tagjának.
+c)[^16] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szövetség, illetőleg egyesület képviselőjének vagy a szakma szerint illetékes szakmai kollégium tagjának.
 
 (11) A bizottság a kiírt feltételeknek megfelelő pályázókat személyesen hallgatja meg. A bizottságnak a meghallgatásról jegyzőkönyvet kell vezetnie, amelynek tartalmaznia kell a bizottság tagjainak a pályázók alkalmasságára vonatkozó véleményét.
 
 (12) A pályázati feltételeknek megfelelő pályázatokat a bizottsági véleménnyel együtt a pályázatok elbírálására jogosult személy vagy szerv elé kell terjeszteni.
 
-(13)[^12] A pályázati eljárást a pályázat benyújtási határidejét követő hatvan napon belül le kell folytatni, eredményéről valamennyi pályázót írásban értesíteni kell.
+(13)[^17] A pályázati eljárást a pályázat benyújtási határidejét követő hatvan napon belül le kell folytatni, eredményéről valamennyi pályázót írásban értesíteni kell.
 
-(14)–(15)[^13]
+(14)–(15)[^18]
 
-[^4]: Az 1/A. §-t megelőző jogszabályi hivatkozást a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1/A. §-t a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 1/A. § (2) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^8]: Az 1/A. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1/A. § (5) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 8. § (4) bekezdése alapján 2007. december 31-én hatályát vesztette.
-[^10]: Az 1/A. § (10) bekezdés b) pontját a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^11]: Az 1/A. § (10) bekezdés c) pontja a 326/2008. (XII. 29.) Korm. rendelet 9. § (4) bekezdése szerint módosított szöveg.
-[^12]: Az 1/A. § (13) bekezdés második mondatát a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^13]: Az 1/A. § (14)–(15) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^7]: Az 1/A. §-t megelőző jogszabályi hivatkozást a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1/A. §-t a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 1/A. § (1) bekezdés b) pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^11]: Az 1/A. § (2) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: Az 1/A. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: Az 1/A. § (5) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 8. § (4) bekezdése alapján 2007. december 31-én hatályát vesztette.
+[^14]: Az 1/A. § (7) bekezdés b)–c) pontját a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^15]: Az 1/A. § (10) bekezdés b) pontját a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^16]: Az 1/A. § (10) bekezdés c) pontja a 326/2008. (XII. 29.) Korm. rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^17]: Az 1/A. § (13) bekezdés második mondatát a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^18]: Az 1/A. § (14)–(15) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.

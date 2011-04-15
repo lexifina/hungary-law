@@ -1,8 +1,14 @@
-## 2/B. §[^17]
+## figyelembe vehető, és ezzel a közalkalmazott rendelkezik.
 
 ## [A törvény 23. §-ának (2)–(3) bekezdéséhez]
 
-3. §[^18] (1) Magasabb vezetőnek minősül az önálló intézmény vezetésére, valamint az integrált, illetve közös igazgatású intézmény vezetésére a fenntartó által kinevezett vagy megbízott vezető, valamint annak helyettese.
+3. §[^23] (1) Magasabb vezetőnek minősül
+
+a) a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény intézményvezetője, valamint az intézményvezető helyettese,
+
+b) a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) főigazgatója, igazgatója és
+
+c) az Intézet gazdasági vezetője.
 
 (2) Vezetőnek minősül
 
@@ -10,17 +16,10 @@ a) az integrált, illetve közös igazgatású intézmény önálló szervezeti 
 
 b) az intézmény szervezeti és működési szabályzatában meghatározott, a munkamegosztás szempontjából elkülönült szervezeti egység vezetője,
 
-c) a gazdasági vezető, a vezető gondozó, a vezető ápoló, az osztályvezető ápoló, a szociális és mentálhigiénés csoportvezető, a vezető pedagógus, a bölcsődei tagintézmény-vezető.
+c) az (1) bekezdés a) pontja szerinti intézmény gazdasági vezetője, a vezető gondozó, az intézményvezető ápoló, az osztályvezető ápoló, a szociális és mentálhigiénés csoportvezető, a vezető pedagógus, a bölcsődei tagintézmény-vezető,
 
-(3) A magasabb vezető beosztás ellátásának feltétele
+d) az Intézet igazgatóhelyettese, főosztályvezetője, osztályvezetője és csoportvezetője.
 
-a) legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat, és
+(3) A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
-b) magasabb vezető megbízás esetén
-
-ba) az intézményben betöltött munkakörbe történő határozatlan idejű kinevezés, vagy
-
-bb) a vezetői megbízással egyidejűleg felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő munkakörben történő határozatlan időre szóló kinevezés.
-
-[^17]: A 2/B. §-t megelőző jogszabályi hivatkozást és 2/B. §-t a 224/2007. (VIII. 31.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés c) pontja.
-[^18]: A 3. § a 326/2008. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^23]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.

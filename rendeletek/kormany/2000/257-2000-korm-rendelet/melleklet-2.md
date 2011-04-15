@@ -1,8 +1,8 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-I. Ágazatspecifikus munkakörök a szociális területen[^39]
+## I.[^52]
 
-I. Ágazatspecifikus munkakörök a szociális területen
+Ágazatspecifikus munkakörök a szociális területen
 
 | Megnevezés | Fizetési osztályok |
 
@@ -28,7 +28,7 @@ I. Ágazatspecifikus munkakörök a szociális területen
 
 | utcai szolgálat koordinátor |  |  |  |  |  |  | * | * |  |  |
 
-| diplomás ápoló |  |  |  |  |  | * | * | * |  |  |
+| ápoló |  |  |  |  |  | * | * | * |  |  |
 
 | foglalkoztatás-vezető |  |  |  |  |  | * | * | * |  |  |
 
@@ -74,7 +74,7 @@ I. Ágazatspecifikus munkakörök a szociális területen
 
 | gondozó (irányító gondozó) |  | * | * | * | * |  |  |  |  |  |
 
-| szociális gondozó, közösségi gondozó |  |  |  | * | * |  |  |  |  |  |
+| szociális gondozó, közösségi gondozó |  | * | * | * | * |  |  |  |  |  |
 
 | utcai szociális munkás |  | * | * | * | * |  |  |  |  |  |
 
@@ -86,7 +86,7 @@ I. Ágazatspecifikus munkakörök a szociális területen
 
 | diétás nővér |  |  |  | * | * |  |  |  |  |  |
 
-| foglalkoztató, munkavezető |  | * | * | * |  |  |  |  |  |  |
+| foglalkoztató, munkavezető, foglalkoztatás-szervező |  | * | * | * |  |  |  |  |  |  |
 
 | e) | kisegítő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
@@ -104,9 +104,9 @@ I. Ágazatspecifikus munkakörök a szociális területen
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## II.[^40]
+II.[^53]
 
-II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
+Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
 
 | Megnevezés | Fizetési osztályok |
 
@@ -148,6 +148,8 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 | szakgondozó |  |  |  |  |  | * | * |  |  |  |
 
+| kisgyermeknevelő |  |  |  |  |  | * | * |  |  |  |
+
 | gyógypedagógiai/fejlesztőpedagógiai tanácsadó |  |  |  |  |  | * | * | * | * | * |
 
 | 2. | Család-, gyermek- és ifjúságvédelmi szolgáltatás keretében az ellátottak ápolását, foglalkoztatását, fejlesztését, ellátását, gondozását, szociális segítését, szállítását közvetlenül szolgáló, egyetemi, főiskolai végzettséghez nem kötött munkakörök |  |  |  |  |  |  |  |  |  |  |
@@ -160,7 +162,11 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 | gyermekvédelmi asszisztens |  |  |  | * | * |  |  |  |  |  |
 
-| b) | kisgyermeknevelő |  |  | * | * | * | * | * |  |  |  |
+| b) | kisgyermeknevelő |  |  | * | * | * |  |  |  |  |  |
+
+|  | szakgondozó |  |  |  |  | * |  |  |  |  |  |
+
+|  | gondozó |  |  | * | * |  |  |  |  |  |  |
 
 |  | segédgondozó | * | * |  |  |  |  |  |  |  |  |
 
@@ -184,7 +190,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-III. Nem ágazatspecifikus munkakörök[^41]
+III.[^54]
 
 Nem ágazatspecifikus munkakörök
 
@@ -244,7 +250,185 @@ Nem ágazatspecifikus munkakörök
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## Besorolási előírások a kinevezések elkészítéséhez
+IV.[^55]
+
+Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
+
+|  | Megnevezés | Fizetési osztályok |
+
+|  |  | A | B | C | D | E | F | G | H | I | J |
+
+|  | 1. Szakértői munkaköri csoport |  |  |  |  |  |  |  |  |  |  |
+
+|  | számítástechnikai szervező |  |  |  |  |  | * | * | * | * | * |
+
+|  | szoftverfejlesztő informatikus |  |  |  |  |  | * | * | * | * | * |
+
+|  | revizor (belső ellenőr) |  |  |  |  |  | * | * | * | * | * |
+
+|  | közgazdász |  |  |  |  |  |  |  | * | * | * |
+
+|  | szociológus |  |  |  |  |  |  |  | * | * | * |
+
+|  | szociálpolitikus |  |  |  |  |  |  |  | * | * | * |
+
+|  | mérnök |  |  |  |  |  |  |  | * | * | * |
+
+|  | munkavédelmi szakmérnök |  |  |  |  |  |  |  | * | * | * |
+
+|  | manager |  |  |  |  |  | * | * | * | * | * |
+
+|  | szervező |  |  |  |  |  | * | * | * | * |  |
+
+|  | felelős szerkesztő |  |  |  |  |  | * | * | * | * |  |
+
+|  | kommunikációs vezető |  |  |  |  |  | * | * | * | * | * |
+
+|  | programvezető, vezető koordinátor |  |  |  |  |  | * | * | * | * | * |
+
+|  | szakértő, tanácsadó ellenőr |  |  |  |  |  | * | * | * | * | * |
+
+|  | szakreferens |  |  |  |  | * | * | * | * | * | * |
+
+|  | referens |  |  | * | * | * |  |  |  |  |  |
+
+|  | tanácsadó |  |  |  |  |  | * | * | * | * | * |
+
+|  | jogász, jogtanácsos |  |  |  |  |  |  |  | * | * | * |
+
+|  | pszichológus |  |  |  |  |  |  |  | * | * | * |
+
+|  | könyvtáros |  |  |  |  |  | * | * | * | * |  |
+
+|  | felnőttképzési ügyintéző, referens |  |  |  |  |  | * | * | * | * |  |
+
+|  | kutatásvezető |  |  |  |  | * | * | * | * | * | * |
+
+|  | kutató-elemző |  |  |  |  |  | * | * | * | * | * |
+
+|  | tudományos tanácsadó |  |  |  |  |  |  |  |  | * | * |
+
+|  | tudományos főmunkatárs |  |  |  |  |  |  |  |  | * | * |
+
+|  | tudományos munkatárs |  |  |  |  |  |  |  | * | * | * |
+
+|  | tudományos segédmunkatárs |  |  |  |  |  |  |  | * | * | * |
+
+|  | egyéb magasan képzett ügyintéző |  |  |  |  |  |  |  | * | * |  |
+
+|  | 2. Ügyintézői munkaköri csoport | A | B | C | D | E | F | G | H | I | J |
+
+|  | jogi előadó |  |  |  |  | * | * |  |  |  |  |
+
+|  | oktatástechnikus |  |  | * | * | * |  |  |  |  |  |
+
+|  | kommunikációs asszisztens |  |  |  |  |  | * | * | * | * |  |
+
+|  | programasszisztens, koordinátor |  |  |  |  |  | * | * | * | * |  |
+
+|  | könyvtáros |  |  |  | * | * | * | * | * |  |  |
+
+|  | informatikus, programozó |  |  |  |  |  | * | * | * | * |  |
+
+|  | informatikus szervező |  |  |  |  |  | * | * | * | * |  |
+
+|  | informatikus, számítógép hálózat üzemeltető |  |  |  | * | * | * | * | * |  |  |
+
+|  | humánpolitikai szervező |  |  |  |  | * | * | * | * | * |  |
+
+|  | humánerő-gazdálkodási ügyintéző |  |  |  | * | * | * | * | * |  |  |
+
+|  | bér- és társadalombiztosítási ügyintéző |  |  | * | * | * | * | * | * |  |  |
+
+|  | társadalombiztosítási ellenőr |  |  |  | * | * | * | * | * |  |  |
+
+|  | gazdasági ügyintéző |  |  | * | * | * | * | * | * | * |  |
+
+|  | pénzügyi ügyintéző |  |  | * | * | * | * |  |  |  |  |
+
+|  | számviteli ügyintéző |  |  | * | * | * | * |  |  |  |  |
+
+|  | műszaki, igazgatási ügyintéző |  |  | * | * | * | * |  |  |  |  |
+
+|  | statisztikai ügyintéző |  |  | * | * | * |  |  |  |  |  |
+
+|  | (fő)könyvelő |  |  |  |  | * | * | * | * | * |  |
+
+|  | előadó |  |  | * | * | * | * | * | * |  |  |
+
+|  | könyvtáros asszisztens |  |  |  | * | * |  |  |  |  |  |
+
+|  | asszisztens |  | * | * | * | * |  |  |  |  |  |
+
+|  | képzési szakasszisztens |  | * | * | * | * |  |  |  |  |  |
+
+|  | munka- és tűzvédelmi előadó |  |  |  | * | * | * | * | * |  |  |
+
+|  | általános gazdasági ügyintéző |  |  |  | * | * |  |  |  |  |  |
+
+|  | titkársági ügyvivő |  |  |  |  | * | * | * | * | * | * |
+
+|  | kutatásszervező |  |  |  |  | * | * | * | * | * | * |
+
+|  | titkárságvezető |  |  |  |  | * | * | * | * | * | * |
+
+|  | 3. Irodai és ügyviteli munkaköri csoport | A | B | C | D | E | F | G | H | I | J |
+
+|  | anyagnyilvántartó |  | * | * | * |  |  |  |  |  |  |
+
+|  | pénzügyi, munkaügyi nyilvántartó |  | * | * | * | * |  |  |  |  |  |
+
+|  | titkár(nő) |  | * | * | * | * |  |  |  |  |  |
+
+|  | gyors- és gépíró |  | * | * | * |  |  |  |  |  |  |
+
+|  | adminisztrátor |  | * | * | * | * |  |  |  |  |  |
+
+|  | iratkezelő, iktató |  | * | * | * |  |  |  |  |  |  |
+
+|  | pénztáros |  | * | * | * | * |  |  |  |  |  |
+
+|  | adatrögzítő | * | * | * |  |  |  |  |  |  |  |
+
+|  | kiadványszerkesztő |  | * | * | * |  |  |  |  |  |  |
+
+|  | 4. Szolgáltató jellegű munkaköri csoport | A | B | C | D | E | F | G | H | I | J |
+
+|  | rendezvényszervező szakasszisztens |  | * | * | * | * |  |  |  |  |  |
+
+|  | személygépkocsi-vezető |  | * | * | * |  |  |  |  |  |  |
+
+|  | tehergépkocsi-vezető |  | * | * | * |  |  |  |  |  |  |
+
+|  | autóbusz-vezető |  | * | * | * |  |  |  |  |  |  |
+
+|  | gondnok |  | * | * | * | * | * |  |  |  |  |
+
+|  | raktáros |  | * | * | * | * |  |  |  |  |  |
+
+|  | vagyonőr |  | * | * | * |  |  |  |  |  |  |
+
+|  | kazánfűtő |  | * | * | * |  |  |  |  |  |  |
+
+|  | karbantartó | * | * | * | * | * |  |  |  |  |  |
+
+|  | anyaggazdálkodó, anyagbeszerző | * | * | * | * |  |  |  |  |  |  |
+
+|  | 5. Kisegítő munkaköri csoport | A | B | C | D | E | F | G | H | I | J |
+
+|  | portás, recepciós | * | * | * | * |  |  |  |  |  |  |
+
+|  | hivatalsegéd, kézbesítő | * | * | * | * |  |  |  |  |  |  |
+
+|  | éjjeliőr | * |  |  |  |  |  |  |  |  |  |
+
+|  | intézménytakarító | * | * | * |  |  |  |  |  |  |  |
+
+|  | segédmunkás | * | * |  |  |  |  |  |  |  |  |
+
+|  | betanított munkás | * |  |  |  |  |  |  |  |  |  |
+
+Besorolási előírások a kinevezések elkészítéséhez
 
 1. Egyetemi és főiskolai végzettséget igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felsőszintű képesítést igénylő szakmai feladatot kell ellátni.
 
@@ -262,7 +446,7 @@ Ezen belül
 
 – ,,J'' fizetési osztályba: az egyetemi végzettséget igazoló oklevélhez és tudományos fokozathoz kötött munkakör tartozik pl. pedagógus, szociális munkás stb.
 
-2. A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
+2.[^56] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
 – ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
 
@@ -274,8 +458,6 @@ Ezen belül
 
 – az 1975 utáni alapképesítésre épülő első fokú szakosító képzés keretében szerzett csecsemő- és gyermekgondozói, gyermek idegápolói és gondozói, öregek napközi otthoni és házi szociális gondozói, pszichiátriai ápolói és gondozói, szociális otthoni ápolói, szociális otthoni gondozói szakképesítést igénylő munkakört, továbbá
 
-– a Nemzeti Alaptanterv szerint alapműveltségi vizsgára épülő szakképesítéshez kötött munkakört pl. szociális gondozó és ápoló;
-
 – ,,D'' fizetési osztályba kell sorolni: a középiskola utolsó évfolyamának elvégzését igénylő szakképesítésre épülő szakképesítéshez kötött munkaköröket, valamint a középiskolai végzettséget igénylő szakképesítéshez kötött munkaköröket pl. pedagógiai asszisztens, gyermek- és ifjúsági felügyelő stb.;
 
 – ,,E'' fizetési osztályba kell sorolni: az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez kötött munkaköröket pl. szociális asszisztens, szociális gondozó és szervező, mentálhigiénés asszisztens, csecsemő- és kisgyermekgondozó, vezetési-szervezési ismeretet nyújtó képesítéssel rendelkezőket.
@@ -284,6 +466,8 @@ Megjegyzés:
 
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
-[^39]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^40]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
-[^41]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^52]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^53]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^55]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^56]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja szerint módosított szöveg.

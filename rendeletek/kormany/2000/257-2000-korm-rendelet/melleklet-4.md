@@ -6,6 +6,8 @@
 
 | szakgondozó | egészségügyi főiskola bármely szakán szerzett végzettség (a védőnői szak kivételével), valamint a gyógypedagógiai asszisztens |
 
+| kisgyermeknevelő | egészségügyi főiskola bármely szakán szerzett végzettség (a védőnői szak kivételével), valamint a gyógypedagógiai asszisztens |
+
 | helyettes szülői tanácsadó, örökbefogadási tanácsadó, gyámi gondozói tanácsadó, hivatásos gyám, eseti gondnok, vagyonkezelő gondnok | felsőfokú szociális vagy pedagógus szakképzettség |
 
 | bentlakásos szociális intézményben ápoló, gondozó | felsőfokú szociális szakképzettség vagy vezetői, szervezői végzettség vagy egészségügyi felsőfokú szakképzettség |
@@ -14,28 +16,60 @@
 
 | a 2. számú melléklet szerinti bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés-módosításában, átsorolásában) előírja |
 
-4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^43]
+4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^58]
 
 ## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
-I.  Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
+I. Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
-| 1. | A helyi önkormányzatok által fenntartott intézmények intézmény-vezetőjének vezetőinek pótléka |  |
+|  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
 
-| a) szociális és gyermekjóléti alapellátást együttesen végző intézmény vezetője esetén a pótlékalap | 250%-a |
+|  | 1. | A helyi önkormányzatok által fenntartott intézmény intézményvezetője |  |
 
-| b) szociális vagy gyermekjóléti alapellátást nyújtó intézmény vezetője esetén a pótlékalap | 200%-a |
+|  |  | a) | bentlakásos szociális intézmény intézményvezetője (ide nem értve a lakóotthon intézményvezetőjét) | 250% |
 
-| c) lakóotthon vezetője esetén a pótlékalap | 200%-a |
+|  |  | b) | szakellátást nyújtó gyermekvédelmi intézmény intézményvezetője | 250% |
 
-| 2. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézményben az intézményvezető helyettesének pótléka a pótlékalap | 150%-a |
+|  |  | c) | szociális és gyermekjóléti alapellátást együttesen végző intézmény vezetője | 250% |
 
-| 3. | A helyi önkormányzatok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézményben az intézményvezető helyettesének pótléka a pótlékalap | 100%-a |
+|  |  | d) | szociális vagy gyermekjóléti alapellátást nyújtó intézmény intézményvezetője | 200% |
 
-II.  Vezető megbízással rendelkező közalkalmazott vezetői pótléka
+|  |  | e) | lakóotthon intézményvezetője | 200% |
 
-| 1. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazottak pótléka a pótlékalap | 150%-a |
+|  | 2. | A helyi önkormányzatok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 100% |
 
-| 2. | A helyi önkormányzatok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazottak pótléka a pótlékalap | 100%-a |
+|  | 3. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetője | 250% |
 
-[^43]: A 4. számú melléklet a 326/2008. (XII. 29.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+|  | 4. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjének helyettese | 150% |
+
+II. Vezető megbízással rendelkező közalkalmazott vezetői pótléka
+
+|  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
+
+|  | 1. | Az országos feladatot ellátó, minisztériumi fenntartású szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 150% |
+
+|  | 2. | A helyi önkormányzatok által fenntartott szociális, gyermekjóléti és gyermekvédelmi intézményben vezető beosztásban foglalkoztatott közalkalmazott | 100% |
+
+III. A Nemzeti Család- és Szociálpolitikai Intézetnél magasabb vezető, vezető megbízással rendelkező közalkalmazott vezetői pótléka
+
+|  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
+
+|  | 1. | főigazgató | 350% |
+
+|  | 2. | főigazgató-helyettes | 300% |
+
+|  | 2. | igazgató | 250% |
+
+|  | 3. | igazgatóhelyettes | 200% |
+
+|  | 4. | főosztályvezető | 200% |
+
+|  | 5. | főosztályvezető-helyettes | 150% |
+
+|  | 6. | osztályvezető | 150% |
+
+|  | 7. | osztályvezető-helyettes | 100% |
+
+|  | 8. | csoportvezető | 100% |
+
+[^58]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
