@@ -84,9 +84,11 @@
 
 41. Integrált földgázipari vállalkozás:
 
-a) Vertikálisan integrált vállalkozás: a vállalkozások közötti összefonódások ellenőrzéséről szóló 139/2004/EK tanácsi rendelet 3. cikkének (1) bekezdésében meghatározott földgázipari vállalkozás vagy vállalkozások csoportja, ahol az érintett vállalkozás (vállalkozáscsoport) a földgázszállítás, a rendszerirányítás, a földgázelosztás vagy a földgáztárolás közül legalább az egyik tevékenységet, továbbá a földgáztermelés és a földgáz-kereskedelem közül is legalább az egyik tevékenységet végzi.
+a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás vagy a földgáztárolás mellett egyidejűleg a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
 
 b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedélyköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
+
+41a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat.
 
 42. Kapacitás: adott szállító- és elosztóvezeték, valamint földgáztároló időegységre vonatkoztatott teljesítő képessége.
 
@@ -111,6 +113,10 @@ b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földg
 52. Rendszerirányítás: az együttműködő földgázrendszer e törvényben meghatározott irányítási és koordinációs feladatainak ellátása.
 
 53. Szabad kapacitás: a szállító- és az elosztóvezetékek, valamint a földgáztárolók rendelkezésre álló műszaki kapacitásának kapacitáslekötési szerződéssel le nem kötött, a rendszerhasználók részére rendelkezésre álló része.
+
+53a. Szállítási rendszerüzemeltető: a földgázszállítást, a szállítóvezetékek üzemeltetését, karbantartását és fejlesztését végző engedélyes.
+
+53b. Szállítási rendszerirányító: az együttműködő földgázrendszer működtetését végző szállítási rendszerüzemeltetők közötti irányítási és koordinációs feladatok ellátását végző engedélyes.
 
 54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja a Magyar Köztársaság államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
 

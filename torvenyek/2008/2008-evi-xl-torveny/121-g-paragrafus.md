@@ -1,0 +1,13 @@
+121/G. § (1) A szállítási rendszerüzemeltető megfelelési programot köteles kidolgozni, azt a Hivatalhoz jóváhagyásra benyújtani és a jóváhagyott megfelelési programot végrehajtani. A megfelelési programban be kell mutatni azokat az intézkedéseket és feltételeket, amelyek biztosítják a megkülönböztetés-mentes, független működést. A szállítási rendszerüzemeltetőnél a megfelelési program végrehajtását – a Hivatal hatáskörének sérelme nélkül – a felügyelőbizottság által kijelölt független megfelelési ellenőr ellenőrzi.
+
+(2) A megfelelési ellenőr megbízatása vagy alkalmazása feltételeinek, megbízatása vagy alkalmazása időtartama meghatározásához, valamint kinevezéséhez a Hivatal előzetes jóváhagyása szükséges. A szállítási rendszerüzemeltetőnek biztosítania kell a megfelelési ellenőr függetlenségét, és a feladatai ellátásához szükséges forrásokat. A Hivatal a jóváhagyást kizárólag a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiánya esetén tagadhatja meg.
+
+(3) A megfelelési ellenőr jogi személy vagy büntetlen előéletű természetes személy lehet, és rá a 121/C. § (3)–(7) és a 121/D. § (1) és (2) bekezdések rendelkezéseit megfelelően alkalmazni kell.
+
+(4) A megfelelési ellenőr megbízatását a felügyelőbizottság a Hivatal előzetes jóváhagyásával jogosult megszüntetni. A felügyelőbizottság köteles azonnali hatállyal megszüntetni a megfelelési ellenőr megbízatását, amennyiben a Hivatal a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiányát állapítja meg.
+
+(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi szükséges adatot, előzetes értesítés nélkül is beléphet a szállítási rendszerüzemeltető irodáiba és hozzáférhet valamennyi egyéb szükséges információhoz. A szállítási rendszerüzemeltető munkaviszonyban álló személyek személyes adatait a megfelelési ellenőr e törvényben és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feladatai ellátása érdekében az adatvédelmi jogszabályokkal összhangban kezelheti.
+
+(6) A megfelelési ellenőr a megfelelési program végrehajtásáról, az annak érdekében hozott intézkedésekről, a feltárt eredményekről és jelentős hiányosságokról évente megfelelési jelentést készít, és azt jóváhagyásra benyújtja a Hivatalhoz. A jóváhagyást követően a szállítási rendszerüzemeltető a megfelelési jelentést honlapján közzéteszi.
+
+(7) A megfelelési ellenőr szakmai alkalmasságára vonatkozó feltételeket, a megfelelési ellenőr jogköreit és feladatait, valamint a megfelelési programra és megfelelési jelentésre vonatkozó részletes szabályokat a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet határozza meg.

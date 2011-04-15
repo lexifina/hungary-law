@@ -14,11 +14,11 @@
 
 5. az üzletszabályzat kötelező tartalmi elemeit, felépítésére vonatkozó általános előírásokat, a társadalmi egyeztetésre vonatkozó előírásokat és az üzletszabályzat benyújtásának formai követelményeit,
 
-6. a rendszerüzemeltetők által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint a szállítási rendszerüzemeltetőnél működő megfelelési ellenőr jogköreire és feladataira vonatkozó részletes szabályokat,
+6. a rendszerüzemeltetők által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint a szállítási rendszerüzemeltetőnél működő megfelelési ellenőr szakmai alkalmasságára vonatkozó feltételeket, jogköreire és feladataira vonatkozó részletes szabályokat,
 
-7. a számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket,
+7. a szétválasztási szabályokra és a számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket,
 
-8. az engedélyezés részletes szabályait, pénzügyi és gazdasági feltételeit, a kérelem formai és tartalmi követelményeit, továbbá az engedély tartalmi követelményeit, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, hivatalból történő módosításának, az engedélyes tevékenység folytatásának feltételeit, a pénzügyi biztosítékok részletes szabályait, valamint az engedélyesek jogait és kötelezettségeit,
+8. az engedélyezés, a tanúsítási eljárás, valamint az elektronikus ügyintézés részletes szabályait, pénzügyi és gazdasági feltételeit, a kérelem formai és tartalmi követelményeit, továbbá az engedély tartalmi követelményeit, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, hivatalból történő módosításának, az engedélyes tevékenység folytatásának feltételeit, a pénzügyi biztosítékok részletes szabályait, valamint az engedélyesek jogait és kötelezettségeit, valamint a jóváhagyásra irányuló eljárás részletes szabályait,
 
 9. a földgáz minőségű biogáz és egyéb gázfajták, valamint a bányászati tevékenységgel felszínre hozott földgáz együttműködő földgázrendszerhez történő csatlakozásának feltételeit, a betáplált gázok minőségi követelményeit, az átvételére és a mérésére vonatkozó előírásokat,
 
@@ -26,11 +26,11 @@
 
 11. a célvezeték létesítése engedélyezésének részletes feltételeit,
 
-12. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony részletes szabályait, az egyetemes szolgáltatási szabályzatot, az egyetemes szolgáltatási igény bejelentésének módját, az egyetemes szolgáltatás igénybevételére vonatkozó szerződés létrejöttének módját, tartalmi és formai követelményeit, a felek szerződésszegésének eseteit és jogkövetkezményeit, valamint a szerződés megszűnésének eseteit,
+12. a földgázkereskedő és a felhasználó közötti jogviszony részletes szabályait,
 
 13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, valamint az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására vonatkozó rendelkezéseket,
 
-14. a végső menedékes szolgáltatásra, és a végső menedékes szolgáltató kijelölésére vonatkozó szabályokat, a végső menedékes szolgáltatási szabályzatot, valamint a végső menedékes szolgáltatási szerződésre vonatkozó részletes rendelkezéseket,
+14. a végső menedékes szolgáltatásra, és a végső menedékes szolgáltató kijelölésére vonatkozó szabályokat, a végső menedékes szolgáltatási szabályzatot, továbbá a végső menedékes szolgáltatási szerződésre vonatkozó részletes rendelkezéseket, valamint az ellehetetlenült földgázkereskedő tevékenységének felfüggesztésével, az engedélyek visszavonásával kapcsolatos feltételeket és intézkedéseket továbbá az új engedélyes kijelölésének szabályait,
 
 15. a jelentős piaci erőfölény megállapítása szempontjából releváns piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és e törvényben, valamint a VET.-ben meghatározott kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó részletes előírásokat,
 
@@ -40,7 +40,7 @@
 
 18. a földgázszállítási tevékenység végzésének és a földgázszállítói kapacitás értékesítésének részletes szabályait, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályokat, különösen a felhasználásukkal kapcsolatos jogokat és kötelezettségeket, valamint a kiegyensúlyozási pótdíj nyilvántartásával kapcsolatos rendelkezéseket,
 
-19. a földgázelosztási szolgáltatás végzésének, és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a földgázkereskedő, és az egyetemes szolgáltató által kezdeményezett földgázelosztási szüneteltetés eseteit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
+19. a földgázelosztási szolgáltatás végzésének, és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a földgázkereskedő, és az egyetemes szolgáltató által kezdeményezett földgázelosztási szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
 
 20. a földgáztárolási tevékenység végzésére, ezen belül a kapacitáslekötésre és értékesítés feltételeire, valamint a földgáztárolási szolgáltatásra vonatkozó részletes szabályokat,
 
@@ -52,7 +52,7 @@
 
 24. az egyablakos kiszolgálású nemzetközi szállítóvezeték és az együttműködő földgázrendszer kapcsolódása esetén az egyablakos kapacitásértékesítő és a csatlakozó rendszerüzemeltető együttműködésének részletes szabályait,
 
-25. a felhasználó kereskedő-váltásának és ellátási forma-váltásának feltételeit, részletes szabályait,
+25. a felhasználó kereskedőváltásának és ellátási formaváltásának feltételeit, részletes szabályait, valamint az egyetemes szolgáltatásra jogosult nem lakossági fogyasztótól az egyetemes szolgáltatási szerződés megkötésének feltételeként kérhető pénzügyi biztosíték összegét,
 
 26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
@@ -70,7 +70,7 @@
 
 33. a korlátozásra vonatkozó részletes rendelkezéseket, ezen belül a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket,
 
-34. a rendszerüzemeltető és a telephelyi szolgáltató által üzemeltetett rendszerek karbantartása, átalakítása, felújítása, fejlesztése esetén a szolgáltatás korlátozásának és szüneteltetésének alapvető szabályait,
+34. a rendszerüzemeltető és a telephelyi szolgáltató által üzemeltetett rendszerek karbantartása, átalakítása, felújítása, fejlesztése esetén a szolgáltatás korlátozásának és szüneteltetésének alapvető szabályait, a be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén alkalmazható pótdíj megállapítására vonatkozó szabályokat,
 
 35. a fogyasztásmérésre és elszámolásra – beleértve az átalánydíjas fogyasztást is –, valamint a fogyasztásmérő berendezés mérésügyi felülvizsgálatára vonatkozó részletes szabályokat,
 
@@ -92,4 +92,10 @@
 
 44. a szállítási rendszerüzemeltető, valamint a szállítási rendszerüzemeltető ismételt súlyos kötelezettségszegése esetén a szállítási rendszerüzemeltetés gyakorlására más engedélyes kijelölésére vonatkozó részletes szabályokat,
 
-45.
+45. a hálózatfejlesztési terv kialakítása során érvényesítendő szempontokat,
+
+46. a szállítóvezeték egy belépési pontján egy gázévre vagy azt meghaladó időtartamra leköthető kapacitás mértékét
+
+47. a földgázkereskedő által a felhasználók ellátására vonatkozóan készítendő forrásterv tartalmi elemeit,
+
+48. az elektronikus fogyasztásmérők felhasználóknál való felszerelésére, az okos mérés bevezetésére és a bevezetést előkészítő mintaprojektek megvalósítására vonatkozó szabályokat, ennek keretében a mintaprojektek révén meghatározandó és szolgáltatandó információk körét, az ezzel összefüggésben elvégzendő feladatokat, mintaprojekt modell választékot, a mérési és kommunikációs követelmények meghatározásához elvégzendő feladatokat, az adatkezelési, adatbiztonsági előírásokat, a mintaprojektek finanszírozását, időbeli ütemezését, és értékelési kritériumait, a Hivatalnak a mintaprojekt felügyeletével kapcsolatos feladatait, valamint az okos hálózatok bevezetésére vonatkozó szabályokat.

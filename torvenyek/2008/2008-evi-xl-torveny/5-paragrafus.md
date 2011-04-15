@@ -1,1 +1,19 @@
-5. § A rendszerirányítási tevékenység gyakorlásához a rendszerirányítónak olyan adatforgalmi és informatikai rendszerrel kell rendelkeznie, amely biztosítja a szervezett földgázpiaccal való együttműködést. Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatcserére alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel.
+5. § E törvény alkalmazásában a földgázszállítás gyakorlásába beletartozik különösen:
+
+a) a szállítóvezeték gazdaságos, biztonságos, megbízható és hatékony módon történő üzemeltetése, karbantartása és fejlesztése, az ellátásbiztonság és a környezetvédelem szempontjaira is tekintettel,
+
+b) tartózkodás a rendszerhasználók vagy a rendszerhasználók csoportjai közötti, különösen a kapcsolt vállalkozások javára történő megkülönböztetéstől,
+
+c) a rendszerüzemeltetők és a rendszerhasználók megfelelő információval történő ellátása,
+
+d) a jóváhagyott 10 éves fejlesztési tervben meghatározott határkeresztező kapacitás kiépítése az európai szállítási infrastruktúrához való kapcsolódáshoz,
+
+e) megkülönböztetés-mentes hozzáférés biztosítása a rendszerhasználók vagy a rendszerhasználók csoportjai számára,
+
+f) kapcsolattartás harmadik felekkel, a Hivatallal és az Európai Unió más tagállamainak energiapiaci szabályozó hatóságaival,
+
+g) a szállítási rendszerüzemeltető által nyújtott szolgáltatásokkal kapcsolatos valamennyi díj beszedése,
+
+h) a regionális piacok kialakítása, illetve a liberalizációs folyamat megkönnyítése érdekében közös vállalkozások, illetve szervezett földgázpiac létrehozása,
+
+i) a napi üzemvitelhez szükséges valamennyi vállalati szolgáltatás, így különösen a napi üzemvitelhez szükséges jogi, könyvvezetési és informatikai szolgáltatások biztosítása.

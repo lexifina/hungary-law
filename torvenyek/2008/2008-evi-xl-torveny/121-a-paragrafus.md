@@ -1,0 +1,1 @@
+121/A. § A tevékenységek szétválasztására vonatkozó szabályok nem alkalmazandók azon földgázelosztók esetében, amelyek az általuk üzemeltetett elosztóvezetéken 100000-nél kevesebb rácsatlakozott felhasználót látnak el.

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2010-12-31 | 2010. évi CLXXXI. törvény | 2008-40-00-00.10 |
 | 2011-01-01 | 2010. évi CLXXXI. törvény | 2008-40-00-00.11 |
 | 2011-03-30 | 2011. évi XXIX. törvény | 2008-40-00-00.12 |
+| 2011-04-15 | 2011. évi XXIX. törvény | 2008-40-00-00.13 |

@@ -1,5 +1,7 @@
 143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől a 46. §–49. §-ok szerinti szervezett földgázpiac létrejöttéig napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
 
+(1a) A napi földgáz- és kapacitás kereskedelmi piac kizárólag akkor szűnik meg, ha a 46–49. §-ok szerinti szervezett földgázpiac ellátja annak e törvény szerinti feladatait.
+
 (2) A napi földgáz és kapacitás kereskedelmi piacon az ügyletek pénzügyi elszámolását külön törvényben meghatározott, a szállítási rendszerirányító által kiírt pályázaton nyertes elszámolóház végzi.
 
 (3) A napi földgáz és kapacitás kereskedelmi piac az együttműködő földgázrendszer napi egyensúlyának megteremtéséhez szükséges földgáz és kapacitás beszerzése érdekében létrehozott, az adásvételek lebonyolítását folyamatosan, elektronikus felületen biztosító kereskedési rendszer, amelyhez a földgázkereskedők, a saját jogon eljáró felhasználók, a földgáztermelők, és a rendszerüzemeltetők jogosultak hozzáférni.
@@ -14,6 +16,6 @@
 
 (8) A rendszerirányító köteles a napi földgáz és kapacitás kereskedelmi piac működési modelljét, és a piac működési szabályzatát 2008. október 30-ig kidolgozni és a Hivatalhoz jóváhagyásra beterjeszteni.
 
-(9) A rendszerirányító a (2) bekezdés szerinti pályázatot 2009. január 31-ig köteles kiírni.
+(9) A szállítási rendszerirányító köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a napi földgáz- és kapacitáskereskedelmi piac informatikai, működési feltételeit és szabályzatát.
 
-(10) Földgázellátási üzemzavar és válsághelyzet esetén a rendszerirányító javaslatot tesz a Hivatalnak a kereskedés felfüggesztésére.
+(10) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerirányító javaslatot tesz a Hivatalnak a napi földgáz és kapacitás kereskedelmi, valamint a szervezett piacon történő kereskedés felfüggesztésére.

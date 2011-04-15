@@ -6,11 +6,11 @@ b) jóváhagyja az Üzemi és Kereskedelmi Szabályzatot és annak módosítása
 
 c) jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat, és azok módosításait, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja, továbbá a 113. § (3) bekezdésben foglalt esetben az üzletszabályzatot hivatalból módosíthatja;
 
-d) jóváhagyja a földgázszállító, rendszerirányító, földgázelosztó, illetve földgáztároló által benyújtott megfelelési programokat, és azok módosításait, valamint jóváhagyja az éves megfelelési jelentést;
+d) jóváhagyja a szállítási rendszerüzemeltető, a földgázelosztó, illetve a földgáztároló engedélyes által benyújtott megfelelési programokat, és azok módosításait, jóváhagyja az éves megfelelési jelentést, továbbá jóváhagyja a szállítási rendszerüzemeltető megfelelési ellenőrének kinevezését és megbízatásának feltételeit, időtartamát, valamint megszüntetését;
 
-e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását;
+e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a 715/2009/EK rendeletben, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását, különösen a tevékenységek szétválasztásának teljesítésére és ennek keretében a keresztfinanszírozás-mentes működés érvényesülésére vonatkozó szabályokat, továbbá a 128. § szerinti eljárásban ellenőrzi a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelését;
 
-f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez;
+f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat;
 
 g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
 
@@ -24,11 +24,15 @@ j) a 85. § (1) bekezdésében meghatározott esetekben dönt az együttműköd�
 
 k) rendszerfelügyeleti tevékenysége során
 
-ka) felülvizsgálja és jóváhagyja a 82. § (2) bekezdése szerinti, a tervezéshez szükséges adatbázist,
+ka) felülvizsgálja és jóváhagyja a 81. § (2) bekezdése szerinti, a tervezéshez szükséges adatbázist,
 
-kb) ellenőrzi – a rendszerirányító által beterjesztett – a földgázrendszer kapacitásának felülvizsgálatát és a hosszú távú infrastruktúrafejlesztési javaslatot,
+kb) ellenőrzi – a szállítási rendszerirányító által beterjesztett – a földgázrendszer kapacitásának felülvizsgálatát és a hosszú távú infrastruktúra-fejlesztési javaslatot, vizsgálja annak a közösségi szintű 10 éves fejlesztési tervvel való összhangját,
 
-kc) az engedélyesek által nem vállalt, de indokolt fejlesztések elvégzésére jogosult pályázatot meghirdetni és elbírálni;
+kc) folyamatosan figyelemmel kíséri a 10 éves fejlesztési terv megvalósítását,
+
+kd) a földgázelosztó, illetve a földgáztároló engedélyes által nem vállalt, de indokolt fejlesztések elvégzésére jogosult pályázatot meghirdetni és elbírálni,
+
+ke) a 83/A. § (1) bekezdése szerinti esetben köteles pályázatot kiírni;
 
 l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
 
@@ -62,7 +66,7 @@ v) nyilvánosan közzéteszi a határozatait;
 
 w) az Fbkt.-ben meghatározott módon kezdeményezi a miniszternél a földgáz biztonsági készlet felhasználását;
 
-x)
+x) e törvényben foglaltak szerint kifogásolhatja a szállítási rendszerüzemeltető operatív irányítását ellátó személy vagy testület tagja, továbbá a felügyelőbizottság tagja kinevezését, kinevezése megújítását, munkafeltételeit, ideértve a díjazást is, valamint a megbízatása megszüntetését a szakmai függetlenséggel vagy a megbízatás idő előtti megszüntetése során a tevékenységek szétválasztására vonatkozó szabályok betartásával kapcsolatos kétség esetén, ellenőrzi, hogy a szállítási rendszerüzemeltető operatív irányítását ellátó személy vagy testület tagja megbízatásának idő előtti megszüntetésére a tevékenységek szétválasztására vonatkozó szabályok betartásával került-e sor, továbbá kezdeményezheti a megfelelési ellenőr megbízatásának megszüntetését a függetlenség vagy a szakmai alkalmasság hiánya esetén;
 
 y) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyezésének előkészítésével kapcsolatosan egyeztet és együttműködik azon országok szabályozó hatóságaival, amelyeken a vezeték áthalad;
 
