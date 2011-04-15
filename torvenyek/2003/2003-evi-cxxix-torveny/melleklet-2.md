@@ -323,3 +323,7 @@ kivéve:
 ex 9005: binokuláris távcsövek
 
 ex 9013: vegyes eszközök, lézerek
+
+ex 9014: távmérő berendezések
+
+ex 9028: elektromos és elektronikus mérőműszerek
