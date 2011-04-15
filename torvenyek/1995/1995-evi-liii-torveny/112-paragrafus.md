@@ -1,0 +1,1 @@
+112. § E törvény 9. §-a és a 101–102. §-a az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló 2006. március 15-i 2006/21/EK európai parlamenti és a tanács irányelv 15. cikkének való megfelelést szolgálja.
