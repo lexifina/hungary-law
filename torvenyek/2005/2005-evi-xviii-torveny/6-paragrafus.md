@@ -6,7 +6,11 @@
 
 a) rendeletben határozza meg a távhőszolgáltató és a felhasználó közötti jogviszony részletes szabályait, valamint a hőmennyiségmérés helyét, ideértve a mérés technológiai helyét is;
 
-b) ellátja a törvény által hatáskörébe utalt ármegállapítói feladatokat, valamint rendeletben határozza meg az áralkalmazási és díjfizetési feltételeket. A szolgáltatói hőközponti, a felhasználói hőközponti, valamint hőfogadó állomási mérés közötti eltérésekre való tekintettel az önkormányzat képviselő-testülete külön díjalkalmazási feltételeket határozhat meg ezen mérések esetére.
+b) rendeletben
+
+ba) határozza meg az 57. § (3) bekezdés szerinti díjat és díjfizetési feltételeket, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatásra vonatkozó, az 57/D. § (1) bekezdés szerinti miniszteri rendeletben nem szabályozott díjfizetési feltételeket, továbbá
+
+bb) határozhatja meg a szolgáltatói hőközponti, a felhasználói hőközponti, valamint hőfogadó állomási mérés közötti eltérésekre való tekintettel az e mérésekre vonatkozó külön díjalkalmazási feltételeket határozhat meg;
 
 c) rendeletben kijelöli azokat a területeket, ahol területfejlesztési, környezetvédelmi és levegő-tisztaságvédelmi szempontok alapján célszerű a távhőszolgáltatás fejlesztése;
 
