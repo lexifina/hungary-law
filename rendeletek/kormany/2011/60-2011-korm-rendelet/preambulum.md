@@ -1,1 +1,0 @@
-A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés a), c)–d), f)–g) pontjában és (3) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
