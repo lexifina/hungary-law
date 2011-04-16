@@ -102,4 +102,6 @@
 
 | 182500-182999 | 4 100 |  | 207500-207999 | 11 800 |  | 268500-268999 | 6 500 |  | 293400-293440 | 100 |
 
-2. melléklet a 352/2010. (XII. 30.) Korm. rendelethez
+2. melléklet a 352/2010. (XII. 30.) Korm. rendelethez[^14]
+
+[^14]: A 2. melléklet a 66/2011. (IV. 15.) Korm. rendelet 8. §-ával megállapított szöveg.

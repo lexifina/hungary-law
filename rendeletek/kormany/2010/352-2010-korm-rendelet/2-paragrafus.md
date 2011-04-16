@@ -26,4 +26,9 @@ c) négy vagy több gyermek után jogosult és a tárgyhónap első napján érv
 
 (8) Nem jogosult kompenzációra a foglalkoztatott a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A kompenzáció emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a foglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. A munkanapok számába be kell számítani a fizetett munkaszüneti napokat is.
 
-(9) Az a foglalkoztatott, akinek az 1. § szerinti jogviszonya a 2011. évben keletkezett és azt közvetlenül megelőzően is az 1. § szerinti jogviszonnyal rendelkezett, a (2)–(8) bekezdés alkalmazásával jogosult a kompenzációra.
+(9)[^2] A (3) bekezdés szerinti kompenzációra a házas- vagy élettársak kizárólag egyike jogosult, a 7. § szerinti nyilatkozatuk alapján.
+
+(10)[^3] Az a foglalkoztatott, akinek az 1. § szerinti jogviszonya a 2011. évben keletkezett és azt közvetlenül megelőzően is az 1. § szerinti jogviszonnyal rendelkezett, a (2)–(9) bekezdés alkalmazásával jogosult a kompenzációra.
+
+[^2]: A 2. § (9) bekezdése a 66/2011. (IV. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (10) bekezdését a 66/2011. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
