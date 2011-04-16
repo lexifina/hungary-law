@@ -1,1 +1,0 @@
-A Kormány a szakképzésről szóló 1993. évi LXXVI. törvény 57. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
