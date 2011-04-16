@@ -1,0 +1,1 @@
+## 4. § Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a 2. §-ban foglalt feladatokra vonatkozó részletes szabályokat, a „Népi Iparművész” minősítő címről szóló hatósági igazolvány kiállításával, meghosszabbításával, valamint a népi iparművészeti alkotások minősítésével (zsűrizésével) kapcsolatos eljárás rendjét.
