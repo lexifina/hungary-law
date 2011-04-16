@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-1
 | 2010-01-02 | 2009-34-20-1X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-01-03 | 2009-34-20-1X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-01 | 2009-34-20-1X.4 | 27/2010. (XII. 31.) NGM rendelet |
+| 2011-04-16 | 2009-34-20-1X.5 | 16/2011. (IV. 15.) Korm. rendelet |

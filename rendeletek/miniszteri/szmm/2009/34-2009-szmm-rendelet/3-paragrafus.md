@@ -4,13 +4,13 @@
 
 (2)[^2]
 
-(3) E rendelet szabályait azokban az esetekben kell alkalmazni, ha a munkaviszony 2009. december 31-ét követően szűnt meg.
+(3)[^3] Az álláskeresési járadék és az álláskeresési segély megállapításához szükséges igazolólap kitöltése során a munkaviszony megszűnésének időpontjában hatályos szabályokat kell alkalmazni.
 
-(4)[^3]
+(4)[^4]
 
-(5)[^4]
+(5)[^5]
 
-Melléklet a 34/2009. (XII. 30.) SZMM rendelethez[^5]
+Melléklet a 34/2009. (XII. 30.) SZMM rendelethez[^6]
 
 Igazolólap az álláskeresési járadék és az álláskeresési segély megállapításához
 
@@ -74,10 +74,6 @@ cégszerű aláírás
 
 Kitöltési útmutató az álláskeresési járadék és az álláskeresési segély megállapításához szükséges igazolólaphoz
 
-Bevezetés
-
-Az igazolást a 2009. december 31-ét követően megszűnt vagy megszüntetett munkaviszony esetén kell kiállítani.
-
 Magyarázat az egyes pontokhoz
 
 15. pont: A jogviszony megszüntetésének/megszűnésének módja.
@@ -115,6 +111,7 @@ Az igazolólap 18. pontjához a vizsgált időszakba tartozó hónapok fenti mó
 Ebben a részben a munkaviszony ideje alatt igénybe vett 30 napot meghaladó mértékű fizetés nélküli szabadság teljes időtartamát – beleértve az első 30 napot is – kell feltüntetni. A munkaviszony ideje alatt igénybe vett 30 napot meghaladó mértékű fizetés nélküli szabadság időtartamában nem kell feltüntetni az Flt. 25. § (4) bekezdés szerinti fizetés nélküli szabadságokat.
 
 [^2]: A 3. § (2) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^3]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^4]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^5]: A melléklet a 27/2010. (XII. 31.) NGM rendelet 69. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (3) bekezdése a 16/2011. (IV. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^4]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^5]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^6]: A melléklet a 27/2010. (XII. 31.) NGM rendelet 69. § (2) bekezdésével megállapított, a 16/2011. (IV. 15.) NGM rendelet 5. § (1) bekezdése szerint módosított szöveg.
