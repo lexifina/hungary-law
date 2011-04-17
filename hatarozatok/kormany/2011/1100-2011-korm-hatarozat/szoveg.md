@@ -16,8 +16,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány Alapító Okiratának módosításáról szóló 1076/2000. (IX. 15.) Korm. határozat, továbbá
+a)–b)[^3]
 
-b) a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány Alapító Okiratának módosításáról szóló 1014/2002. (II. 27.) Korm. határozat.
+[^2]: A 3. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 3. pont a)–b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
