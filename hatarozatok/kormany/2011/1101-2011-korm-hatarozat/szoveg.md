@@ -20,4 +20,6 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, és egyidejűleg hatályát veszti a Puskás Tivadar Közalapítvány alapító okiratának módosításáról szóló 1050/2009. (IV. 16.) Korm. határozat.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
