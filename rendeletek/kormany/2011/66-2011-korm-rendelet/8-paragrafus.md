@@ -1,1 +1,0 @@
-## „(4) Amennyiben a kompenzáció nem e rendeletben foglaltaknak megfelelő megállapítása és kifizetése nem a (2) bekezdésben foglaltak alapján valósult meg, a már kifizetett kompenzáció összege a következő hónap(ok) kompenzációjának összegéből levonásra kerül.”
