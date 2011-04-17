@@ -82,4 +82,6 @@ c) a 6. pontban szereplő Országos Cigány Önkormányzat elnökét a Tanács t
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
-16. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg hatályát veszti a Roma Integrációs Tanács létrehozásáról szóló 1129/2006. (XII. 25.) Korm. határozat.
+16.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
