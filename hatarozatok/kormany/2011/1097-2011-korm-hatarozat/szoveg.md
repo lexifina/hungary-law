@@ -28,12 +28,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+6.[^1]
 
-a) az Apertus Közalapítvány a Nyitott Szakképzésért és Távoktatásért létrehozásáról szóló 2281/1999. (XI. 5.) Korm. határozat,
+a)–d)[^2]
 
-b) az Apertus Közalapítvány a Nyitott Szakképzésért és Távoktatásért létrehozásáról szóló 2281/1999. (XI. 5.) Korm. határozat módosításáról szóló 2192/2000. (VIII. 31.) Korm. határozat,
-
-c) az Apertus Közalapítvány a Nyitott Szakképzésért és Távoktatásért Alapító Okiratának módosításáról szóló 1104/2004. (X. 20.) Korm. határozat, valamint
-
-d) az Apertus Közalapítvány a Nyitott Szakképzésért és a Távoktatásért Alapító Okiratának módosításáról szóló 1059/2009. (IV. 24.) Korm. határozat.
+[^1]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 6. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
