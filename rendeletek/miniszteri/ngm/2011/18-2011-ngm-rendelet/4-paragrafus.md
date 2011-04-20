@@ -1,0 +1,1 @@
+## 3. § Ez a rendelet a vámmentességek közösségi rendszerének létrehozásáról szóló, 2009. november 16-i, 1186/2009/EK tanácsi rendelet 43. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
