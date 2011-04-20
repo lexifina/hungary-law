@@ -1,6 +1,6 @@
 ## Bilincs alkalmazása
 
-5. § (1) Bilincs alkalmazása a Vptv. 14. §-a alapján különösen azzal szemben indokolt:
+5. § (1)[^7] Bilincs alkalmazása a NAV tv. 44. §-a-a alapján különösen azzal szemben indokolt:
 
 a) aki erőszakos, garázda magatartást tanúsít, és ennek abbahagyására másként nem késztethető,
 
@@ -31,3 +31,5 @@ a) a kezek hátra bilincselése akkor célszerű, ha a bilincs alkalmazására t
 b) láb bilincselése akkor indokolt, ha arról, akivel szemben alkalmazzák feltételezhető, hogy önmagában vagy másban kézbilincs alkalmazása esetén is kárt tud okozni,
 
 c) tárgyhoz bilincselésnek akkor van helye, ha a személy önkárosításának, támadásának vagy szökésének megakadályozása, ellenszegülésének megtörése, illetve az intézkedés eredményes befejezése más módon nem biztosítható.
+
+[^7]: Az 5. § (1) bekezdés nyitó szövegrésze a 17/2011. (IV. 19.) NGM rendelet 87. § (2) bekezdése szerint módosított szöveg.
