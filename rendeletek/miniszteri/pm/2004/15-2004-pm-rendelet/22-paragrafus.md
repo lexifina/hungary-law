@@ -1,6 +1,8 @@
+## 21/A. §[^6] Az 1/95 EK–Törökország társulási tanácsi határozat részletes alkalmazási szabályainak megállapításáról szóló, 2006. szeptember 26-i 1/2006 EK–Törökország vámügyi együttműködési bizottsági határozat 11. cikke szerinti elfogadott exportőri engedély kiadására és visszavonására a fent írtak értelemszerűen alkalmazandók.
+
 ## Könyvelés szerinti elkülönítés
 
-22. § (1)[^5] A külön jogszabályban foglaltak, valamint jelen rendelkezések betartásával a könyvelés szerinti elkülönítésre vonatkozó engedélyt a vámhatóság adja ki. Amennyiben a gyártó több telephellyel rendelkezik, a telephely(ek) szerint illetékes regionális parancsnoksággal az engedélyt kiadó regionális parancsnokság a határozatot egy példányának megküldésével közli.
+22. § (1)[^7] A külön jogszabályban foglaltak, valamint jelen rendelkezések betartásával a könyvelés szerinti elkülönítésre vonatkozó engedélyt a vámhatóság adja ki. Amennyiben a gyártó több telephellyel rendelkezik, a telephely(ek) szerint illetékes vámszervvel az engedélyt a vámszerv a határozat egy példányának megküldésével közli.
 
 (2) Az engedély akkor adható ki, ha
 
@@ -48,7 +50,7 @@ a) vállalni, hogy csak azon termékekre ad ki számlanyilatkozatot, illetve ké
 
 b) teljes felelősséget vállalni az engedély felhasználásának módjáért, valamint a téves származási nyilatkozatokból eredő következményekért, illetve az engedély helytelen alkalmazásáért,
 
-c) eljuttatni az engedélyt kiadó regionális parancsnoksághoz minden könyvviteli időszak végén az adott időszakra vonatkozó analitikus nyilvántartását,
+c)[^8] eljuttatni az engedélyt kiadó vámszervhez minden könyvviteli időszak végén az adott időszakra vonatkozó analitikus nyilvántartását,
 
 d) a vámhatóság kérésére lehetővé tenni a hozzáférést – az elévülési időn belül bármely időszakra vonatkozóan – minden okmányhoz, nyilvántartáshoz, könyveléshez,
 
@@ -60,4 +62,6 @@ f) vállalni, hogy amennyiben a termékek a kedvezményes származás igazolása
 
 (7) A vámhatóság az engedélyt visszavonja, ha az engedélyes az előírt feltételeket nem teljesíti. Ez esetben az összes helytelenül kiadott származási okmányt vagy más, a származás igazolására szolgáló okmányt érvényteleníteni kell.
 
-[^5]: A 22. § (1) bekezdése a 17/2009. (IX. 29.) PM rendelet 32. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^6]: A 21/A. §-t a 17/2011. (IV. 19.) NGM rendelet 59. §-a iktatta be.
+[^7]: A 22. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 60. §-ával megállapított szöveg.
+[^8]: A 22. § (5) bekezdés c) pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (2) bekezdése szerint módosított szöveg.

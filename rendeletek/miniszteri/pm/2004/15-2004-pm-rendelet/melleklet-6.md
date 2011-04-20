@@ -4,7 +4,7 @@
 
 | Első bejelentés □ | bejelentett adat módosítása □ fejadat esetén a hívószám: | bejelentés visszavonása □ hívószám: |
 
-| 1. | Kiviteli eljárást végző vámhivatal kódja vagy neve: |
+| 1. | Kiviteli eljárást végző vámszerv kódja vagy neve: |
 
 | 2. | Exportőr VPID száma: | megnevezése: |
 
@@ -14,7 +14,7 @@
 
 |  |  | helyszíne: várható időtartama (óra/perc): |
 
-|  |  | távolság a vámhivatalhoz (óra/perc): |
+|  |  | távolság a vámszervhez (óra/perc): |
 
 | 5. | Mérés | helyszíne: |  |  |
 
@@ -44,11 +44,11 @@
 
 ## Nem módosítható a fejadatok 1. és 2. sora, továbbá együttesen a KN kód/export-visszatérítési nómenklatúra kód és az áruleírás. Az említett adatok megváltozásánál vissza kell vonni az eredeti bejelentést.
 
-## A fejadatok 3–9. sorainak vagy a tételsori adatok módosításánál kötelező kitölteni a fejadatok 1. és 2. sorát, valamint hivatkozni kell a vámhivatal által megküldött azonosítószámra (fejadatnál hívószámra, tételsori adat módosításnál EVT MRN számra).
+## A fejadatok 3–9. sorainak vagy a tételsori adatok módosításánál kötelező kitölteni a fejadatok 1. és 2. sorát, valamint hivatkozni kell a vámszerv által megküldött azonosítószámra (fejadatnál hívószámra, tételsori adat módosításnál EVT MRN számra).
 
 ## A fejadatok 5. sorában a mérés helyszínével, idejével kapcsolatos adatokat abban az esetben kell megadni, ha a mérés helyszíne nem azonos a berakodás helyszínével.
 
-## Becsült tömeg a 800/1999/EK bizottsági rendelet 5. cikk (6) bekezdése felhatalmazásán alapuló vámhatósági engedély birtokában alkalmazható.
+## Becsült tömeg a 612/2009/EK rendelet 5. cikk (6) bekezdése felhatalmazásán alapuló vámhatósági engedély birtokában alkalmazható.
 
 ## Az azonos export-visszatérítési nómenklatúra kód alá tartozó áruk egy tételsort képeznek. Az export-visszatérítési nómenklatúra kóddal nem rendelkező termékek, ha azok azonos Kombinált Nómenklatúra kód alá tartoznak, egy tételsort képeznek.
 
@@ -56,6 +56,6 @@
 
 ## Az „Áru leírása kereskedelmi megnevezéssel” rovatban élő szarvasmarha és sertés esetében a darabszámot is fel kell tüntetni.
 
-6. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^152]
+6. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^176]
 
-[^152]: A 6. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^176]: A 6. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.

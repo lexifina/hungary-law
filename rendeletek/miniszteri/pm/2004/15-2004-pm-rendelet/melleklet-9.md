@@ -50,8 +50,6 @@
 
 | 16B Megbízható vámadós | Erk. biz./munk. igazolás kelte: ⬜ Büntetett előéletre vonatkozó személyes adatának átadására a bűnügyi nyilvántartó szervet felhatalmazta. |
 
-| Állami adóhatóságnál nyilvántartott, adótitoknak minősülő adataim kezelésére a vámhatóságot felhatalmazom. | ◻ Igen ◻ Nem | APEH igazolás kelte: |
-
 | 17. Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valóságnak megfelelnek, továbbá fenti kérelmező csőd-, felszámolási, illetve végelszámolási eljárás alatt nem áll. |
 
 |  | Aláírás: ……………………………………… | Dátum: ……………..…………………………… |
@@ -215,10 +213,6 @@
 ## Erkölcsi bizonyítvány/munkáltatói igazolás kelte
 
 ## A kérelemhez csatolt erkölcsi bizonyítvány kiadásának dátumát kell beírni. Amennyiben az ügyfél a büntetett előéletre vonatkozó személyes adatának átadására a bűnügyi nyilvántartó szervet felhatalmazta, nem kell erkölcsi bizonyítványt csatolni a kérelemhez, így annak keltét sem kell szerepeltetni. Közhivatalok esetén erkölcsi bizonyítvány helyett a munkáltató igazolása is elfogadható, amennyiben a munkakör betöltésének feltétele a büntetlen előélet. Ebben az esetben a munkáltatói igazolás keltének dátumát kell beírni.
-
-## APEH igazolás kelte
-
-## A tevékenységi engedélyt kiadó vámhatóság az adótartozás adatait közvetlenül kéri meg az állami adóhatóságtól, ha a kérelmező ezeket nem igazolja. Ebben az esetben nem kell APEH igazolást csatolni a kérelemhez. Ha a kérelmező az adatokat maga igazolja, úgy a kérelemhez csatolni kell az APEH igazolását, mely kiadásának dátumát kell beírni a vonatkozó rovatba.
 
 ## II. Cím
 

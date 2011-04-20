@@ -1,3 +1,3 @@
-8. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^154]
+8. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^178]
 
-[^154]: A 8. számú melléklet a 44/2008. (XII. 31.) PM rendelet 27. § (15) bekezdés d) pontja, a 17/2009. (IX. 29.) PM rendelet 34–35. §-a, a 27/2010. (XII. 31.) NGM rendelet 40. § (2) bekezdése szerint módosított szöveg.
+[^178]: A 8. számú melléklet a 17/2009. (IX. 29.) PM rendelet 34–35. §-a, a 27/2010. (XII. 31.) NGM rendelet 40. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (6) bekezdése, valamint 80. §-a szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatal” szövegrész helyébe „az alsó fokú vámszerv” szöveg lép, a 78. § (6) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatali” szövegrész helyébe „az alsó fokú vámszerv általi” szöveg lép, nem vezethető át.]

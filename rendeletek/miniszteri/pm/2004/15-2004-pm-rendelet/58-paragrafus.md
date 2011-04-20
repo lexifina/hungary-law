@@ -10,7 +10,7 @@ d) az a)–c) pontokban nem említett tárolás esetén megkezdett 100 kg-onkén
 
 (2) Az (1) bekezdésében meghatározott díjat akkor kell a vámtartozással egyidejűleg megfizetni vagy elszámolni, ha a vámhatóság által üzemeltetett raktárból való kitárolás szabadforgalomba bocsátással történik, vagy ha az árut a vámhatóság értékesíti. Amennyiben az árunak a vámhatóság által üzemeltetett raktárból való kitárolása olyan vámeljárásban történik, amely vámfizetéssel nem jár, a raktárdíjat az árunak a vámhatóság által üzemeltetett raktárból való kitárolása előtt meg kell fizetni.
 
-(3)[^78]
+(3)[^84]
 
 (4) Mentesek a raktárdíj fizetési kötelezettsége alól a kizárólag a vámhatóság által üzemeltetett raktárban raktározott alábbi áruk:
 
@@ -30,6 +30,7 @@ A c) pont alkalmazásában a kiadást elrendelő jogerős határozat kézbesít�
 
 (5) A kötelező felvilágosítás kiadása ingyenes, a kérelmezőnek azonban meg kell téríteni a vámhatóság részére a határozat kiadásával kapcsolatos költségeket, így különösen a laboratóriumi vizsgálattal, az árura vonatkozó szakértői véleménnyel és az áruminta visszaküldésével kapcsolatos igazoltan felmerült költségeket, az 57. § (3) bekezdésében foglaltak figyelembevételével.
 
-(6) A Vám- és Pénzügyőrség által kezelt elektronikus adatbázisokban tárolt közérdekű adatok költségtérítés, illetve az adatbázisok felépítését leíró műszaki információkat tartalmazó dokumentációk díjazás ellenében – figyelembe véve az adat- és titokvédelmi jogszabályok rendelkezéseit – hozzáférhetők. A rendszeres információszolgáltatás a Vám- és Pénzügyőrséggel kötött külön szerződés alapján, díjazás ellenében lehetséges. A hozzáférhetővé tett adatok, valamint műszaki dokumentációk körét, illetve az eseti adat- és információszolgáltatás ellenértékét az országos parancsnok tájékoztatóban teszi közzé. A rendszeres adat- és információszolgáltatás esetén fizetendő ellenérték mértékét a vonatkozó ,,általános szerződési feltételek'' határozza meg.
+(6)[^85] A NAV által kezelt elektronikus adatbázisokban tárolt közérdekű adatok költségtérítés, illetve az adatbázisok felépítését leíró műszaki információkat tartalmazó dokumentációk díjazás ellenében – figyelembe véve az adat- és titokvédelmi jogszabályok rendelkezéseit – hozzáférhetők. A rendszeres információszolgáltatás a NAV-val kötött külön szerződés alapján, díjazás ellenében lehetséges. A hozzáférhetővé tett adatok, valamint műszaki dokumentációk körét, illetve az eseti adat- és információszolgáltatás ellenértékét a NAV elnöke tájékoztatóban teszi közzé. A rendszeres adat- és információszolgáltatás esetén fizetendő ellenérték mértékét a vonatkozó ,,általános szerződési feltételek'' határozza meg.
 
-[^78]: Az 58. § (3) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^84]: Az 58. § (3) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^85]: Az 58. § (6) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (5) bekezdése szerint módosított szöveg.

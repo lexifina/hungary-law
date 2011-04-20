@@ -1,6 +1,6 @@
-## 67–70. §[^106]
+## 67–70. §[^121]
 
-71. §[^107] (1) A 800/1999/EK rendelet 5. cikke (7) bekezdésének b) pontja szerinti bejelentés benyújtható:
+71. §[^122] (1)[^123] A 612/2009/EK rendelet 5. cikke (7) bekezdésének b) pontja szerinti bejelentés benyújtható:
 
 a) személyesen,
 
@@ -8,13 +8,17 @@ b) telefax útján,
 
 c) adatfeldolgozási eljárás alkalmazásával (elektronikus berakodási bejelentés).
 
-(2) Elektronikus berakodási bejelentést az nyújthat be, aki a vám- és pénzügyőri hivatalnál, az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében regisztráltatta magát.
+(2)[^124] Elektronikus berakodási bejelentést az nyújthat be, aki az alsó fokú vámszervnél, az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében regisztráltatta magát.
 
-(3) Ha az export-visszatérítésben részesülő szállítmány berakodásának tervezett időpontja szabadnapra, munkaszüneti napra, vagy a hét első munkanapjára esik, akkor az (1) bekezdésben hivatkozott bejelentést a szabadnapot, a munkaszüneti napot, vagy a hét első munkanapját megelőző munkanapon (a vám- és pénzügyőri hivatal nyitvatartási idejében) kell megtenni.
+(3)[^125] Ha az export-visszatérítésben részesülő szállítmány berakodásának tervezett időpontja szabadnapra, munkaszüneti napra, vagy a hét első munkanapjára esik, akkor az (1) bekezdésben hivatkozott bejelentést a szabadnapot, a munkaszüneti napot, vagy a hét első munkanapját megelőző munkanapon (az alsó fokú vámszerv nyitvatartási idejében) kell megtenni.
 
 (4) Az (1) bekezdés a) és b) pontjában hivatkozott bejelentést az 5. számú mellékletben meghatározott adattartalommal és formában kell megtenni.
 
-(5) Az (1) bekezdés c) pontjában hivatkozott elektronikus berakodási bejelentést az 5. számú mellékletben meghatározott adattartalommal kell megtenni. A fogadó vám- és pénzügyőri hivatali kódok listáját, a regisztráció technikai végrehajtását, a bejelentés elektronikus üzenet formájában történő beküldésének módját, struktúráját az országos parancsnok tájékoztatóban teszi közzé.
+(5)[^126] Az (1) bekezdés c) pontjában hivatkozott elektronikus berakodási bejelentést az 5. számú mellékletben meghatározott adattartalommal kell megtenni. A fogadó vám- és pénzügyőri hivatali kódok listáját, a regisztráció technikai végrehajtását, a bejelentés elektronikus üzenet formájában történő beküldésének módját, struktúráját a NAV elnöke tájékoztatóban teszi közzé.
 
-[^106]: A 67–70. §-t a 8/2007. (V. 21.) PM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^107]: A 71. § a 44/2008. (XII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^121]: A 67–70. §-t a 8/2007. (V. 21.) PM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^122]: A 71. § a 44/2008. (XII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^123]: A 71. § (1) bekezdés nyitó szövegrésze a 17/2011. (IV. 19.) NGM rendelet 78. § (9) bekezdése szerint módosított szöveg.
+[^124]: A 71. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (1) bekezdése szerint módosított szöveg.
+[^125]: A 71. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
+[^126]: A 71. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (5) bekezdése szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (6) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatali” szövegrész helyébe „az alsó fokú vámszervi” szöveg lép, nem vezethető át.]

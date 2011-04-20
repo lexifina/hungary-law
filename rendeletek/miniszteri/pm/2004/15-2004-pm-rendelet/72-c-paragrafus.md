@@ -1,6 +1,6 @@
-## XVI.[^125] VÁMIGAZGATÁSI BÍRSÁGRA VONATKOZÓ RENDELKEZÉSEK
+## XVI.[^144] VÁMIGAZGATÁSI BÍRSÁGRA VONATKOZÓ RENDELKEZÉSEK
 
-72/C. §[^126] (1) Az esedékessé vált vámigazgatási bírságot a határozat jogerőre emelkedésének napjától számított tíz napon belül kell megfizetni.
+72/C. §[^145] (1) Az esedékessé vált vámigazgatási bírságot a határozat jogerőre emelkedésének napjától számított tíz napon belül kell megfizetni.
 
 (2) A Vtv. 61/A. § (5) bekezdésében meghatározott bírságot kell felszámítani, ha az exportőr vagy a beszállító a származást igazoló okmányokkal kapcsolatos benyújtási kötelezettségének a vámhatóság felszólításában megjelölt időpontig nem tesz eleget.
 
@@ -20,5 +20,5 @@ b) a (4) bekezdés b) pontja esetében a vámhatóság a Vtv. 61/A. § (5) bekez
 
 (6) A vámigazgatási bírságnak – a Vtv. 61/A. § (10) bekezdése szerinti – elengedésével és mérséklésével összefüggésben az e rendelet 56. § (2)–(3) bekezdéseit alkalmazni kell.
 
-[^125]: A 72/C. §-t megelőző XVI. címet a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, egyidejűleg az eredeti XVI. cím számozását XVIII. címre változtatva.
-[^126]: A 72/C. §-t a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 5. §-ával megállapított szöveg.
+[^144]: A 72/C. §-t megelőző XVI. címet a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, egyidejűleg az eredeti XVI. cím számozását XVIII. címre változtatva.
+[^145]: A 72/C. §-t a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 5. §-ával megállapított szöveg.
