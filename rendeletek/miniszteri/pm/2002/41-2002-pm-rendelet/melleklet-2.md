@@ -10,7 +10,7 @@
 
 ## 2. Előállított hivatalos zár mennyisége (darab) és sorszámtartománya (-tól–ig) a gyártás időpontja;
 
-## 3.[^24] Hivatalos zár felhasználónként a kiadott hivatalos zár mennyisége (darab) és sorszámtartománya (-tól–ig), valamint a kiadás időpontja, illetve a számla (szállítólevél) száma;
+## 3.[^26] Hivatalos zár felhasználónként a kiadott hivatalos zár mennyisége (darab) és sorszámtartománya (-tól–ig), valamint a kiadás időpontja, illetve a számla (szállítólevél) száma;
 
 ## 4. Zárókészlet: a készleten lévő (ki nem adott) hivatalos zár mennyisége (darab) és sorszámtartománya (-tól–ig);
 
@@ -40,15 +40,15 @@ b) bevételezésének napja
 
 a) sorszámtartománya, darabszáma
 
-b)[^25] kísérő okmány (borkísérő okmány, termékkísérő okmány, egyszerűsített kísérő okmány) azonosító száma (hordós kiszerelés esetén)[^26]
+b)[^27] kísérő okmány (borkísérő okmány, termékkísérő okmány, egyszerűsített kísérő okmány) azonosító száma (hordós kiszerelés esetén)[^28]
 
-c)[^27] felhasználás (telephelyről történő kiszállítás) dátuma
+c)[^29] felhasználás (telephelyről történő kiszállítás) dátuma
 
 4. Záró készlet:
 
 (sorszámtartomány, darabszám)
 
-[^24]: Az 1. számú melléklet 3. pontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
-[^25]: A 2. számú melléklet 3. pontjának b) alpontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
-[^26]: A betároló adóraktár engedélyese hivatalos zárának hordós borra történő alkalmazása esetén a kitároló adóraktár kísérő okmányának azonosító számát kell feltüntetni, jelezve, hogy nem saját bizonylatról van szó.
-[^27]: A 2. számú melléklet 3. pontjának c) alpontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
+[^26]: Az 1. számú melléklet 3. pontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
+[^27]: A 2. számú melléklet 3. pontjának b) alpontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
+[^28]: A betároló adóraktár engedélyese hivatalos zárának hordós borra történő alkalmazása esetén a kitároló adóraktár kísérő okmányának azonosító számát kell feltüntetni, jelezve, hogy nem saját bizonylatról van szó.
+[^29]: A 2. számú melléklet 3. pontjának c) alpontja a 18/2004. (IV. 21.) PM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
