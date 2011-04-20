@@ -14,7 +14,7 @@
 
 | 6. | Szakértői adatszolgáltatás | 8000 Ft |
 
-2. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^9]
+2. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^11]
 
 ## Igénylőlap az állami adóhatóság összehasonlító értékadatbázisából történő adatszolgáltatáshoz
 
@@ -92,4 +92,4 @@ III. Adatszolgáltatás módja
 
 IV. Nyilatkozat
 
-[^9]: A 2. számú melléklet a 31/2009. (XII. 18.) PM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 2. számú melléklet a 31/2009. (XII. 18.) PM rendelet 4. §-ával megállapított szöveg.
