@@ -1,3 +1,0 @@
-13. § (1) A nyílt kiválasztási eljárás pályázati felhívását és annak útmutatóját a Felelős Hatóság elhelyezi honlapján, és egyidejűleg a pályázati felhívást legalább két országos napilapban megjelenteti.
-
-(2) Zárt kétfordulós kiválasztási eljárás első fordulója során – az éves program összeállítását megelőzően – az előzetes projekt adatlap benyújtására vonatkozó felhívást és az előzetes projekt adatlap nyomtatványát, majd a második forduló során a részletes projekt adatlap benyújtására vonatkozó felhívást és a részletes projekt adatlap nyomtatványát a Felelős Hatóság elhelyezi honlapján, és egyidejűleg megküldi a végső kedvezményezett szervezetek részére.

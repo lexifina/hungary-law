@@ -1,3 +1,0 @@
-## XIII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
