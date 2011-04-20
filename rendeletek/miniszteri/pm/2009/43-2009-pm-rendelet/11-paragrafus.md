@@ -18,7 +18,7 @@ az e célra rendszeresített, a vámhatóság internetes honlapján közzétett,
 
 (4) A GTIN számok bejelentését, illetve a VP termékazonosító-számok igénylését a (2) bekezdés szerinti nyomtatvány
 
-a) a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz postai úton, vagy
+a)[^28] a hatósági felügyeletet ellátó vámszervhez postai úton, vagy
 
 b) elektronikus úton, az ER. rendelkezéseinek alkalmazásával
 
@@ -27,3 +27,5 @@ történő benyújtásával kell megtenni.
 (5) A vámhatóság a VP termékazonosító-számokat az igénylés a (4) bekezdés a) pontja szerinti benyújtása esetén postai úton, a (4) bekezdés b) pontja szerinti benyújtás esetén pedig elektronikus úton, az ER. rendelkezéseinek alkalmazásával küldi meg az igénylés beérkezésének időpontját követő 5 munkanapon belül.
 
 (6) A vámhatóság ellenőrzését megelőzően észlelt, hibásan teljesített GTIN szám bejelentést a zárjegyfelhasználó a (2) bekezdés szerinti nyomtatvány felhasználásával helyesbítheti.
+
+[^28]: A 11. § (4) bekezdés a) pontja a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.

@@ -6,9 +6,9 @@ a) telephelyről való kiadása, illetve telephelyre történő szállítása, v
 
 b) harmadik országba történő kiszállítása, illetve harmadik országból való visszaszállítása esetén vámokmánnyal;
 
-c) megsemmisítése esetén a megsemmisítésről felvett jegyzőkönyvvel;
+c)[^29] megsemmisítése esetén a megsemmisítésről felvett jegyzőkönyvvel;
 
-d) Hivatalba történő visszaküldése esetén a Hivatal visszavételt igazoló bizonylatával;
+d)[^30] KAVIG-hoz történő visszaküldése esetén a KAVIG visszavételt igazoló bizonylatával;
 
 e) a zárjegyfelhasználó érdekkörébe nem tartozó okból – ide nem értve a lopás esetét – történt használhatatlanná válása, megsemmisülése esetén a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal által felvett jegyzőkönyvvel;
 
@@ -17,3 +17,6 @@ f) alkoholtermékekre történő felhelyezése esetén gyártási vagy raktárbi
 kell dokumentálnia.
 
 (2) Az (1) bekezdés e) pontjában foglaltak esetén a zárjegyfelhasználónak a rendőrség és/vagy a tűzoltóság jegyzőkönyvével is rendelkeznie kell.
+
+[^29]: A 12. § (1) bekezdés c) pontjában a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése alapján a „hatósági felügyeletet ellátó vám- és pénzügyőri hivatal” szöveg helyébe a „hatósági felügyeletet ellátó vámszerv” szöveg lép, ez azonban nem vezethető át.
+[^30]: A 12. § (1) bekezdés d) pontja a 17/2011. (IV. 19.) NGM rendelet 96. § (1) és (3) bekezdése szerint módosított szöveg.

@@ -102,6 +102,6 @@
 
 ## A sorszámot CODE 128 formában megjelenítő, vonalakból álló jel.
 
-2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^13]
+2. melléklet a 43/2009. (XII. 29.) PM rendelethez[^60]
 
-[^13]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.
+[^60]: A 2. melléklet a 18. § (2) bekezdése szerint módosított szöveg.

@@ -4,6 +4,9 @@
 
 (3) A zárjegyek átvételekor a kereskedői zárjegyfelhasználónak és az importőr zárjegyfelhasználónak nyilatkoznia kell a Jöt.-ben meghatározott elszámolási kötelezettség teljesítésének időpontjáról. Az elszámolás időpontját legalább 3 munkanappal korábban a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnál be kell jelenteni.
 
-(4) Ha a Jöt. rendelkezései alapján az elszámolás (3) bekezdés szerinti időpontban való teljesítésére halasztás adható, a halasztásra külön kérelmet kell benyújtani a Hivatalhoz. A Hivatal a kérelem alapján dönt az elszámolás új időpontjáról, és ezt végzésben közli az importőr zárjegyfelhasználóval.
+(4)[^39] Ha a Jöt. rendelkezései alapján az elszámolás (3) bekezdés szerinti időpontban való teljesítésére halasztás adható, a halasztásra külön kérelmet kell benyújtani a KAVIG-hoz. A Hivatal a kérelem alapján dönt az elszámolás új időpontjáról, és ezt végzésben közli az importőr zárjegyfelhasználóval.
 
-(5) Ha elszámolási kötelezettségét a kereskedői zárjegyfelhasználó és az importőr zárjegyfelhasználó a (3), illetve (4) bekezdés szerinti időpontig nem teljesíti, a Hivatal mulasztási bírságot vet ki. Ha a Hivatal felszólítása ellenére a kereskedői zárjegyfelhasználó és az importőr zárjegyfelhasználó a zárjegyekkel a felszólítástól számított 10 munkanapon belül sem számol el, a részére kiadott zárjegymennyiség zárjegyhiánynak minősül.
+(5)[^40] Ha elszámolási kötelezettségét a kereskedői zárjegyfelhasználó és az importőr zárjegyfelhasználó a (3), illetve (4) bekezdés szerinti időpontig nem teljesíti, a KAVIG mulasztási bírságot vet ki. Ha a KAVIG felszólítása ellenére a kereskedői zárjegyfelhasználó és az importőr zárjegyfelhasználó a zárjegyekkel a felszólítástól számított 10 munkanapon belül sem számol el, a részére kiadott zárjegymennyiség zárjegyhiánynak minősül.
+
+[^39]: A 16. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (3) bekezdése szerint módosított szöveg.
+[^40]: A 16. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) bekezdése szerint módosított szöveg.

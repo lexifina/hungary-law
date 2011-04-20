@@ -4,8 +4,9 @@
 
 (3) Az adóraktári zárjegyfelhasználó havonta egy alkalommal nyújthat be zárjegymegrendelést, a negyedéves termeléséhez szükségesnél nagyobb zárjegykészletet nem tarthat. Amennyiben az alkoholtermék adóraktár engedélyese több időpontban kívánja a havonta megrendelt zárjegyeket átvenni, a megrendeléséhez – a kért időpontonként – külön-külön kell megrendelőlapokat kiállítania.
 
-(4)[^3] A Jöt. 24. § (1) bekezdése szerinti bejegyzett kereskedő havonta egy alkalommal, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő beszerzésenként, az importőr zárjegyfelhasználó importügyletenként nyújthatja be a zárjegy megrendelését.
+(4)[^8] A Jöt. 24. § (1) bekezdése szerinti bejegyzett kereskedő havonta egy alkalommal, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő beszerzésenként, az importőr zárjegyfelhasználó importügyletenként nyújthatja be a zárjegy megrendelését.
 
-(5) A Hivatal, illetve a Hivatal alkalmazottja a megrendelés, illetve az ellenőrzés során megadott adatok kezelése tekintetében az adótitok szabályai szerint köteles eljárni.
+(5)[^9] A KAVIG, illetve a KAVIG alkalmazottja a megrendelés, illetve az ellenőrzés során megadott adatok kezelése tekintetében az adótitok szabályai szerint köteles eljárni.
 
-[^3]: A 3. § (4) bekezdése a 18. § (1) bekezdés szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdése a 18. § (1) bekezdés szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) bekezdése szerint módosított szöveg.
