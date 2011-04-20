@@ -1,0 +1,3 @@
+## 81. § Az Európai Mezőgazdasági Orientációs és Garanciaalap Garanciarészlegéből történő kifizetések utólagos ellenőrzéséről szóló 23/2004. (IV. 22.) PM rendelet (a továbbiakban: R5.) 1. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+
+## „(1) A Tanács az Európai Mezőgazdasági Garanciaalap finanszírozási rendszerébe tartozó ügyletek tagállamok által végzett vizsgálatáról szóló 2008. május 26-i 485/2008/EK rendelete (a továbbiakban: Rendelet) előírásait a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatala és a szakmai irányítása alatt álló alsó fokú vámszervek hajtják végre, a Vtv.-ben, valamint az e rendeletben foglaltak figyelembevételével.”

@@ -1,0 +1,3 @@
+## 42. § A JötR. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az adóraktár engedélyese – kivéve a kísérleti előállítást végző üzemet – az értékesítéseiről – adófelfüggesztés mellett végzett és szabadforgalom számára történt értékesítés szerinti bontásban – tételesen vagy számítógépen olyan, a vámszerv által jóváhagyott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által jóváhagyott és a hatósági felügyeletet ellátó vámszerv által hitelesített vevőnyilvántartást vezet, amelyből a jövedéki termékenkénti, tetszőleges időszakra vonatkozó mennyiségi és értékadatok az ellenőrzés számára rendelkezésre bocsáthatók.”

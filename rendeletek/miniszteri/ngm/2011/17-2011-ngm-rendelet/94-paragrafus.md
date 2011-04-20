@@ -1,0 +1,3 @@
+## 93. § Az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályairól szóló 11/2009. (IV. 29.) PM rendelet (a továbbiakban: R9.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha az elfogott, előállított, őrizetbe vett és fogva tartott jogainak gyakorlása, kötelezettségének teljesítése vagy valamely eljárási cselekménynek a foganatosítása érdekében a fenti intézkedések valamelyikével érintett személy kísérése és fogdán kívüli őrzése szükséges, arról a Nemzeti Adó- és Vámhivatal intézkedést elrendelő nyomozó hatósága, illetve a nyomozó hatóságának felkérése alapján – előzetes egyeztetést követően – a Nemzeti Adó- és Vámhivatal Járőr Igazgatósága gondoskodik.”

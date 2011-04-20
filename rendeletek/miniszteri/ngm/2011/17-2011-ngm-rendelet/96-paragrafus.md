@@ -1,0 +1,13 @@
+## 95. § A zárjegy alkalmazásának, a zárjeggyel való elszámolásnak a részletes szabályairól szóló 43/2009. (XII. 29.) PM rendelet (a továbbiakban: R10.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A zárjegyek előállíttatását, rendelkezésre bocsátását, a zárjegyek előállítási költségének a zárjegyfelhasználókkal való megfizettetését – a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) és e rendeletben foglaltak szerint – a Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága (a továbbiakban: KAVIG) végzi.”
+
+96. § (1) Az R10. 1. § (4) és (6) bekezdésében, 5. § (2) bekezdésében, 14. § (6) bekezdésében a „Hivatalnak” szövegrész helyébe a „KAVIG-nak” szöveg, 1. § (5) bekezdésében, 2. § (2) bekezdésében, 3. § (5) bekezdésében, 4. § (1) és (3) bekezdésében, 5. § (7) és (11) bekezdésben, 6. § (2), (4)–(6) bekezdésében, 7. § (3) bekezdésében, 8. § (2) bekezdésében, 9. § (3) bekezdésében, 12. § (1) bekezdés d) pontjában, 13. § (2) bekezdés d) pontjában, 16. § (5) bekezdésében, 16/B. § (1) és (5) bekezdésében a „Hivatal” szövegrész helyébe a „KAVIG” szöveg lép.
+
+(2) Az R10. 5. § (1) bekezdésében az „a regionális ellenőrzési központ” szövegrész helyébe az „az alsó fokú vámszerv” szöveg lép.
+
+(3) Az R10. 5. § (2) és (10) bekezdésében, 14. § (5) bekezdésében, 16. § (4) bekezdésében a „Hivatalhoz” szövegrész helyébe a „KAVIG-hoz” szöveg, 12. § (1) bekezdésében a „Hivatalba” szövegrész helyébe a „KAVIG-hoz” szöveg lép.
+
+(4) Az R10. 7. § (3) bekezdésében a „Hivatal” szövegrész helyébe a „KAVIG” szöveg, a „hatósági felügyeletet ellátó vám- és pénzügyőri hivatal” szövegrész helyébe a „hatósági felügyeletet ellátó vámszerv” szöveg lép.
+
+(5) Az R10. 7. § (5) bekezdésében, 15. § (2) bekezdésében, 16/C. § (3) bekezdésében a „hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnak” szöveg helyébe a „hatósági felügyeletet ellátó vámszervnek” szöveg, 7. § (7) bekezdésében, 9. § (2), (3) bekezdésében, 12. § (1) bekezdés c) pontjában, 13. § (1) bekezdésében és (2) bekezdés d) pontjában, 14. § (5)–(6) bekezdésében, 16/B. § (1), (4) és (5) bekezdésében, 16/C. § (1), (2), (4)–(6) bekezdésében a „hatósági felügyeletet ellátó vám- és pénzügyőri hivatal” szöveg helyébe a „hatósági felügyeletet ellátó vámszerv” szöveg, 11. § (4) bekezdés a) pontjában, 15. § (1) bekezdésében, 16/B. § (3) bekezdésében a „hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz” szövegrész helyébe a „hatósági felügyeletet ellátó vámszervhez” szöveg, 13. § (3) bekezdésében „a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalnál” szöveg helyébe a „hatósági felügyeletet ellátó vámszervnél” szöveg lép.

@@ -1,0 +1,3 @@
+## 70. § A Vtvr. 57. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) Ha az alsó fokú vámszerv hivatalos helyén kívüli helyre kért eljárás a kérelmezőnek vagy közvetlen képviselőjének felróhatóan elmarad, vagy egy órát meghaladó várakozás után kezdhető meg, illetőleg folytatható, felemelt szemledíjat kell fizetni. A felemelt szemledíj összege a várakozás minden megkezdett órája után 6000 forint. Meghiúsult eljárás esetében a szemledíjat akkor is meg kell fizetni, ha a várakozás az egy órát nem haladja meg. Meghiúsult eljárásnak kell tekinteni különösen, ha a kért eljárás az áru vagy fuvareszköz (szállítóeszköz) hiánya miatt nem végezhető el.”
