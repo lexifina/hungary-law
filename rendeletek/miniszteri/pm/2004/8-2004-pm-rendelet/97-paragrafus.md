@@ -1,6 +1,6 @@
 ## Készletbevallás, készletfelvétel
 
-97. § (1)[^415] Az adóraktár engedélyese és az adómentes felhasználó a vámhatóság ellenőrzése esetén a készletfelvételhez készletbevallást ad.
+97. § (1)[^442] Az adóraktár engedélyese és az adómentes felhasználó a vámhatóság ellenőrzése esetén a készletfelvételhez készletbevallást ad.
 
 (2) Az adóraktár engedélyesének és az adómentes felhasználónak a készletbevallásban az adóraktárban, illetve a telephelyen tárolt minden adózott és adózatlan jövedéki terméket – tárolóegységenként részletezve – fel kell tüntetnie.
 
@@ -16,7 +16,7 @@ d) a készletbevallás átadásának időpontját;
 
 e) a felelős üzemvezető aláírását és nyilatkozatát arról, hogy a készletbevallásban feltüntetett helyeken kívül nem tárolnak máshol jövedéki terméket.
 
-(4)[^416] A készletbevallást – a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal által előzetesen jóváhagyott formában – számítógépes nyilvántartáson keresztül is be lehet nyújtani.
+(4)[^443] A készletbevallást – a hatósági felügyeletet ellátó vámszerv által előzetesen jóváhagyott formában – számítógépes nyilvántartáson keresztül is be lehet nyújtani.
 
-[^415]: A 97. § (1) bekezdése a 45/2005. (XII. 26.) PM rendelet 11. §-ával megállapított szöveg.
-[^416]: A 97. § (4) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^442]: A 97. § (1) bekezdése a 45/2005. (XII. 26.) PM rendelet 11. §-ával megállapított szöveg.
+[^443]: A 97. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.

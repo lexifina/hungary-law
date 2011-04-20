@@ -1,12 +1,12 @@
-118. § (1)[^521] A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a lefoglalt terméket saját vagy bérelt raktárába, illetve a tárolásra a vámhivatallal szerződést kötött adóraktár-engedélyes adóraktárába szállítja.
+118. § (1)[^548] A hatósági felügyeletet ellátó vámszerv a lefoglalt terméket saját vagy bérelt raktárába, illetve a tárolásra a vámhatósággal szerződést kötött adóraktár-engedélyes adóraktárába szállítja.
 
-(2)[^522] Ha az (1) bekezdés szerinti elszállításnak akadálya van, a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a lefoglalt termék megtalálásának helyén gondoskodik a biztonságos megőrzésről, valamint a használatot és az elidegenítést megtiltja. Az előzőek betartásának ellenőrzése érdekében a lefoglalt terméket vagy a lefoglalt termék csomagolását, tárolótartályát, tárolóhelyiségét hivatalos zárral látja el.
+(2)[^549] Ha az (1) bekezdés szerinti elszállításnak akadálya van, a hatósági felügyeletet ellátó vámszerv a lefoglalt termék megtalálásának helyén gondoskodik a biztonságos megőrzésről, valamint a használatot és az elidegenítést megtiltja. Az előzőek betartásának ellenőrzése érdekében a lefoglalt terméket vagy a lefoglalt termék csomagolását, tárolótartályát, tárolóhelyiségét hivatalos zárral látja el.
 
-(3)[^523] Ha a (2) bekezdés szerinti esetben a lefoglalt termék értéke az 5 millió forintot meghaladja, a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal köteles a termék őrzéséről gondoskodni, egyéb esetben az ügy összes körülményére figyelemmel dönt a vagyonvédelem módjáról.
+(3)[^550] Ha a (2) bekezdés szerinti esetben a lefoglalt termék értéke az 5 millió forintot meghaladja, a hatósági felügyeletet ellátó vámszerv köteles a termék őrzéséről gondoskodni, egyéb esetben az ügy összes körülményére figyelemmel dönt a vagyonvédelem módjáról.
 
-(4)[^524] A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal által üzemeltetett raktárba fel nem vehető termékek, áruk körének meghatározása tekintetében a vámjogszabályok rendelkezései az irányadóak.
+(4)[^551] A hatósági felügyeletet ellátó vámszerv által üzemeltetett raktárba fel nem vehető termékek, áruk körének meghatározása tekintetében a vámjogszabályok rendelkezései az irányadóak.
 
-[^521]: A 118. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^522]: A 118. § (2) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^523]: A 118. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^524]: A 118. § (4) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^548]: A 118. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 50. §-ával megállapított szöveg.
+[^549]: A 118. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^550]: A 118. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^551]: A 118. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.

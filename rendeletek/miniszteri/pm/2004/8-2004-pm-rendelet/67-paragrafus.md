@@ -1,6 +1,6 @@
-67. § (1)[^312] Az egyszerűsített adóraktár-engedélyes a pincéjéből végső fogyasztóknak elvitelre kimérve legfeljebb 10 liter űrtartalmú edényzetben adhat el bort.
+67. § (1)[^333] Az egyszerűsített adóraktár-engedélyes a pincéjéből végső fogyasztóknak elvitelre kimérve legfeljebb 10 liter űrtartalmú edényzetben adhat el bort.
 
-(2)[^313] Az egyszerűsített adóraktár-engedélyes az (1) bekezdés szerinti esetben is köteles hivatalos zárat felhelyezni az edényzetre.
+(2)[^334] Az egyszerűsített adóraktár-engedélyes az (1) bekezdés szerinti esetben is köteles hivatalos zárat felhelyezni az edényzetre.
 
-[^312]: A 67. § (1) bekezdése a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése szerint módosított szöveg.
-[^313]: A 67. § (2) bekezdése a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése szerint módosított szöveg.
+[^333]: A 67. § (1) bekezdése a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése szerint módosított szöveg.
+[^334]: A 67. § (2) bekezdése a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése szerint módosított szöveg.

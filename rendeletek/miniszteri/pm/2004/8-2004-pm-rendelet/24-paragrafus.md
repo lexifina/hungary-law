@@ -1,8 +1,8 @@
-## 23. §[^122] A bejegyzett feladói engedély iránti kérelemben vagy a bejegyzett feladó engedélyében szereplő adatok változása esetén a 8. § rendelkezéseit kell – értelemszerűen – alkalmazni. A regionális ellenőrző központ a bejegyzett feladói engedélyt a 17. számú melléklet szerinti adattartalmú nyomtatványon adja ki. A bejegyzett feladói engedély módosítását az 5. számú melléklet szerinti adattartalmú nyomtatványon kell kérni.
+## 23. §[^129] A bejegyzett feladói engedély iránti kérelemben vagy a bejegyzett feladó engedélyében szereplő adatok változása esetén a 8. § rendelkezéseit kell – értelemszerűen – alkalmazni. A regionális ellenőrző központ a bejegyzett feladói engedélyt a 17. számú melléklet szerinti adattartalmú nyomtatványon adja ki. A bejegyzett feladói engedély módosítását az 5. számú melléklet szerinti adattartalmú nyomtatványon kell kérni.
 
-## Csomagküldő kereskedő nyilvántartásba vétele[^123]
+## Csomagküldő kereskedő nyilvántartásba vétele[^130]
 
-24. §[^124] (1) A más tagállamban csomagküldő kereskedelmet folytató belföldi székhelyű személynek a Jöt. 32. § (1) bekezdés a) pontjában előírt nyilvántartásba vételéhez a kérelmet a 6. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon kell benyújtani a regionális ellenőrzési központhoz.
+24. §[^131] (1)[^132] A más tagállamban csomagküldő kereskedelmet folytató belföldi székhelyű személynek a Jöt. 32. § (1) bekezdés a) pontjában előírt nyilvántartásba vételéhez a kérelmet a 6. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon kell benyújtani a NAV Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatóságához.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
@@ -16,8 +16,10 @@ d) a c) pont szerinti szállítási bizonylat aláírására jogosult személyek
 
 (3) A csomagküldő kereskedő nyilvántartásba vételére a 11. § (1)–(3) bekezdése, a kérelemben megadott és nyilvántartásba vett adatok változása esetén követendő eljárásra a 8. § rendelkezését kell értelemszerűen alkalmazni azzal, hogy a nyilvántartásba vételről, illetve a változásokról a 19. számú melléklet szerinti adattartalmú határozatot kell hozni, a csomagküldő kereskedő nyilvántartásba vett adatainak módosítását pedig a 6. számú melléklet szerinti adattartalmú nyomtatványon kell kérni.
 
-(4) A nyilvántartásba vétel iránti kérelem formanyomtatványa térítés ellenében a regionális ellenőrzési központoknál és a hatósági felügyeletet ellátó vám- és pénzügyőri hivataloknál szerezhető be.
+(4)[^133] A nyilvántartásba vétel iránti kérelem formanyomtatványa térítés ellenében az alsó fokú vámszerveknél szerezhető be.
 
-[^122]: A 23. § a 44/2009. (XII. 29.) PM rendelet 11. §-ával megállapított szöveg.
-[^123]: A 24. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg.
-[^124]: A 24. § a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírásával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.
+[^129]: A 23. § a 44/2009. (XII. 29.) PM rendelet 11. §-ával megállapított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdésével elrendelt módosítás, amely szerint a „regionális ellenőrzési központ” szövegrész helyébe a „vámszerv” szöveg lép, nem vezethető át.]
+[^130]: A 24. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg.
+[^131]: A 24. § a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírásával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.
+[^132]: A 24. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (6) bekezdése szerint módosított szöveg.
+[^133]: A 24. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (7) bekezdése szerint módosított szöveg.

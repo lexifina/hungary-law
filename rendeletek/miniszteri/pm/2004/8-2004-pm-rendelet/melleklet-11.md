@@ -1,6 +1,6 @@
 ## KERETENGEDÉLY
 
-## Az engedélyező regionális ellenőrzési központ megnevezése:
+## Az engedélyező vámszerv megnevezése:
 
 ## A keretengedély jövedéki száma:
 
@@ -52,7 +52,7 @@
 
 | 9. | Fent nevezett keretengedélyes az adózatlan jövedéki termékek felhasználására a megjelölt helyen és feltételek mellett jogosult. A keretengedéllyel egy hónap alatt beszerzett mennyiség nem haladhatja meg annak a mennyiségnek a háromszorosát, amelynek adókockázatára a jövedéki biztosíték fedezetet nyújt. Ennél nagyobb mennyiségben történő beszerzéshez a jövedéki biztosítékot a keretengedélyben elfogadott jövedéki biztosíték összegének háromszorosára kell kiegészíteni. |
 
-| 10. | A keretengedélyes a jelen engedélyben rögzített, valamint a keretengedély iránti kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. A hatósági felügyeletnek 7. pontban rögzített módját határozattal az engedélyező regionális ellenőrzési központ változtathatja meg. |
+| 10. | A keretengedélyes a jelen engedélyben rögzített, valamint a keretengedély iránti kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. A hatósági felügyeletnek 7. pontban rögzített módját határozattal az engedélyező vámszerv változtathatja meg. |
 
 | 11. | A keretengedélyes a Jöt. 44. § (3) bekezdése szerinti – a Jöt. 53. § (1) bekezdés a) pontja szerinti tevékenységet folytató keretengedélyes a külön jogszabály szerinti – nyilvántartás-vezetési kötelezettségének |
 
@@ -66,8 +66,8 @@
 
 |  | ………………………………………………………… |
 
-|  | az engedélyező regionális ellenőrzési központ aláírása (bélyegzője) |
+|  | az engedélyező vámszerv aláírása (bélyegzője) |
 
-11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^602]
+11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^630]
 
-[^602]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^630]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.

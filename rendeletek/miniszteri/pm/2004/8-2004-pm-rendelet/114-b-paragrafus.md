@@ -1,4 +1,4 @@
-114/B. §[^509] (1) a Jöt. 57/C. § (2) bekezdés szerinti nyilvántartásba vételhez a kérelmet a 24/A. számú melléklet szerinti adattartalommal kell benyújtani a vámhatósághoz.
+114/B. §[^536] (1) a Jöt. 57/C. § (2) bekezdés szerinti nyilvántartásba vételhez a kérelmet a 24/A. számú melléklet szerinti adattartalommal kell benyújtani a vámhatósághoz.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
@@ -28,4 +28,4 @@ a) a Jöt. 57/C. § (1) bekezdés a) pontja szerinti esetben a gázolaj adózott
 
 b) a Jöt. 57/C. § (4) bekezdés b) pontja szerinti esetben az ott meghatározott kimutatás.
 
-[^509]: A 114/B. §-t a 18/2010. (XII. 30.) NGM rendelet 14. §-a iktatta be.
+[^536]: A 114/B. §-t a 18/2010. (XII. 30.) NGM rendelet 14. §-a iktatta be.

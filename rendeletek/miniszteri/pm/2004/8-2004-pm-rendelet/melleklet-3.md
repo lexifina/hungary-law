@@ -4,7 +4,7 @@
 
 ## Kérelem benyújtásának időpontja:
 
-## Kérelmet átvevő regionális ellenőrzési központ megnevezése, aláírása:
+## Kérelmet átvevő vámszerv megnevezése, aláírása:
 
 ## KÉRELEM
 
@@ -66,11 +66,7 @@
 
 |  |  | 2.15. | Személyazonosító igazolvány (útlevél) száma: |
 
-|  | 3. | Köztartozásokra vonatkozó adatok |
-
-|  |  | 3.1. | Köztartozásmentes adózónak minősülésről kiállított igazolás száma, kiadásának kelte: |
-
-|  |  | 3.2. | Köztartozásmentes adózói adatbázisban szerepel: igen – nem |
+|  | 3. |  |
 
 |  | 4. | Nyilatkozatok |
 
@@ -198,6 +194,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^594]
+3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^622]
 
-[^594]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a 19. § (2) bekezdése szerint módosított rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^622]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.

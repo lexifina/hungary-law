@@ -20,6 +20,6 @@ h) a mintavevők aláírását és – a hatóság által vett minta esetén –
 
 (3) A mintavételi jegyzőkönyvet – az (4) bekezdésben foglalt eltéréssel – 2 példányban kell kiállítani, melynek eredeti példánya – a minta sorszámával ellátva – a mintavételi nyilvántartás mellékletét képezi, másodpéldánya a mintát kíséri.
 
-(4)[^422] A mintavételi jegyzőkönyvet a hatóság által végzett minőségellenőrzés céljaira végzett mintavétel esetén 3 példányban kell kiállítani, melynek harmadpéldánya a mintát vevő hatóság példánya.
+(4)[^449] A mintavételi jegyzőkönyvet a hatóság által végzett minőségellenőrzés céljaira végzett mintavétel esetén 3 példányban kell kiállítani, melynek harmadpéldánya a mintát vevő hatóság példánya.
 
-[^422]: A 101. § (4) bekezdése a 17/2009. (IX. 29.) PM rendelet 19. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^449]: A 101. § (4) bekezdése a 17/2009. (IX. 29.) PM rendelet 19. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

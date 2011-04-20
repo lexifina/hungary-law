@@ -6,7 +6,7 @@
 
 a) a dohánygyártmány esetében elégetéssel, szétbontással és idegen vagy szennyező anyaggal való összekeveréssel, illetve szennyező folyadékkal való leöntéssel, eláztatással, továbbá darálással, tüzelési célra történő brikettálással, komposztálással,
 
-b)[^429] a köztes alkoholtermék és az alkoholtermék esetében – a vonatkozó környezetvédelmi előírások betartásával – szennyvíztisztító telepen történő kiöntéssel vagy hulladékfeldolgozó üzemben végzett elégetéssel, az alkoholtermék előállítása során melléktermékként keletkező, veszélyes hulladéknak minősülő alkoholtermék esetében továbbá az előállító adóraktárban – a vonatkozó környezetvédelmi előírások betartásával – végzett elégetéssel, illetve az adómentes felhasználónál szennyezetté vált alkoholterméknek – vám- és pénzügyőri hivatali ellenőrzés mellett történő – vegyipari felhasználásával,
+b)[^456] a köztes alkoholtermék és az alkoholtermék esetében – a vonatkozó környezetvédelmi előírások betartásával – szennyvíztisztító telepen történő kiöntéssel vagy hulladékfeldolgozó üzemben végzett elégetéssel, az alkoholtermék előállítása során melléktermékként keletkező, veszélyes hulladéknak minősülő alkoholtermék esetében továbbá az előállító adóraktárban – a vonatkozó környezetvédelmi előírások betartásával – végzett elégetéssel, illetve az adómentes felhasználónál szennyezetté vált alkoholterméknek – vámszerv általi ellenőrzés mellett történő – vegyipari felhasználásával,
 
 c) a denaturált alkohol esetében egyéb ipari célra való felhasználással,
 
@@ -14,27 +14,27 @@ d) a sör és a szőlőbor esetében szennyvíztisztító, hulladéktelepen val�
 
 e) a pezsgő esetében szennyvíztisztító, hulladéktelepen való kiöntéssel, kiürítéssel,
 
-f)[^430] az ásványolaj esetében a vonatkozó környezetvédelmi előírások betartásával, vám- és pénzügyőri hivatali ellenőrzés mellett végzett elégetéssel
+f)[^457] az ásványolaj esetében a vonatkozó környezetvédelmi előírások betartásával, vámszerv általi ellenőrzés mellett végzett elégetéssel
 
 ## történhet.
 
-(3)[^431] A megsemmisítést a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett oly módon kell elvégezni, hogy a megsemmisítést követően jövedéki terméket ne lehessen visszanyerni.
+(3)[^458] A megsemmisítést a hatósági felügyeletet ellátó vámszerv ellenőrzése mellett oly módon kell elvégezni, hogy a megsemmisítést követően jövedéki terméket ne lehessen visszanyerni.
 
-(4)[^432]
+(4)[^459]
 
-(5)[^433] Jövedéki termék megsemmisítési céllal adóraktárból, adómentes felhasználótól
+(5)[^460] Jövedéki termék megsemmisítési céllal adóraktárból, adómentes felhasználótól
 
-a)[^434]
+a)[^461]
 
-b)[^435] szennyvíztisztító, hulladékhasznosító telepre, égetőműbe olyan szállítólevéllel szállítható, amely tartalmazza a jövedéki termék megnevezését, vámtarifaszámát, mennyiségét az adó alapjaként meghatározott mennyiségi egységben, valamint a vám- és pénzügyőri hivatal által alkalmazott azonosító jelek számát és megnevezését.
+b)[^462] szennyvíztisztító, hulladékhasznosító telepre, égetőműbe olyan szállítólevéllel szállítható, amely tartalmazza a jövedéki termék megnevezését, vámtarifaszámát, mennyiségét az adó alapjaként meghatározott mennyiségi egységben, valamint az alsó fokú vámszerv által alkalmazott azonosító jelek számát és megnevezését.
 
-(6)[^436] A jövedéki termék nem adóraktárban történő megsemmisítése esetén a vám- és pénzügyőri hivatal a szállítólevélen igazolja a betárolás és a megsemmisítés megtörténtét.
+(6)[^463] A jövedéki termék nem adóraktárban történő megsemmisítése esetén az alsó fokú vámszerv a szállítólevélen igazolja a betárolás és a megsemmisítés megtörténtét.
 
-[^429]: A 104. § (2) bekezdés b) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (2) bekezdése szerint módosított szöveg.
-[^430]: A 104. § (2) bekezdés f) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (2) bekezdése szerint módosított szöveg.
-[^431]: A 104. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^432]: A 104. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
-[^433]: A 104. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése szerint módosított szöveg.
-[^434]: A 104. § (5) bekezdés a) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
-[^435]: A 104. § (5) bekezdés b) pontja a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^436]: A 104. § (6) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^456]: A 104. § (2) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (13) bekezdése szerint módosított szöveg.
+[^457]: A 104. § (2) bekezdés f) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (13) bekezdése szerint módosított szöveg.
+[^458]: A 104. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^459]: A 104. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
+[^460]: A 104. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése szerint módosított szöveg.
+[^461]: A 104. § (5) bekezdés a) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^462]: A 104. § (5) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (12) bekezdése szerint módosított szöveg.
+[^463]: A 104. § (6) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (12) bekezdése szerint módosított szöveg.

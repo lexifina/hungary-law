@@ -1,6 +1,6 @@
 ## ADÓRAKTÁRI ENGEDÉLY
 
-## Az engedélyező regionális ellenőrzési központ megnevezése:
+## Az engedélyező vámszerv megnevezése:
 
 ## Az adóraktár-engedélyes jövedéki száma:
 
@@ -24,7 +24,7 @@
 
 |  | ………………………………….………………………… |
 
-|  | az engedélyező regionális ellenőrzési központ aláírása |
+|  | az engedélyező vámszerv aláírása |
 
 |  | (bélyegzője) |
 
@@ -52,20 +52,20 @@
 
 |  |  | 6. | Az adóraktár biztosítása érdekében tett intézkedések: |
 
-|  |  | 7. | A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal megnevezése: |
+|  |  | 7. | A hatósági felügyeletet ellátó vámszerv megnevezése: |
 
 |  |  | 8. | A hatósági felügyelet ellátásának módja: |
 
-|  |  | 9. | Az adóraktár a jelen engedélyben rögzített, valamint az adóraktári engedélykérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. A hatósági felügyeletnek 8. pontban rögzített módját határozattal az engedélyező regionális ellenőrzési központ megváltoztathatja. |
+|  |  | 9. | Az adóraktár a jelen engedélyben rögzített, valamint az adóraktári engedélykérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. A hatósági felügyeletnek 8. pontban rögzített módját határozattal az engedélyező vámszerv megváltoztathatja. |
 
 ## Kelt: …………………………………………………………
 
 |  | ………………………………….………………………… |
 
-|  | az engedélyező regionális ellenőrzési központ aláírása |
+|  | az engedélyező vámszerv aláírása |
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^601]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^629]
 
-[^601]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^629]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.

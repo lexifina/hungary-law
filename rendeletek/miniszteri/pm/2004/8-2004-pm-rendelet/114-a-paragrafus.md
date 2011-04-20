@@ -1,4 +1,4 @@
-114/A. §[^508] (1) A motorfejlesztést megvalósító személy (a továbbiakban: motorfejlesztő) a Jöt. 57/A. § (3) bekezdés a) pontja szerinti bejelentést a 49. számú melléklet szerinti adattartalommal köteles benyújtani a vámhatósághoz.
+114/A. §[^535] (1) A motorfejlesztést megvalósító személy (a továbbiakban: motorfejlesztő) a Jöt. 57/A. § (3) bekezdés a) pontja szerinti bejelentést a 49. számú melléklet szerinti adattartalommal köteles benyújtani a vámhatósághoz.
 
 (2) A Jöt. 57/A. § szerinti adó-visszaigénylési jogosultság igazolásához szükséges okmányok:
 
@@ -12,4 +12,4 @@ d) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos faj
 
 (3) A motorfejlesztő az 50. számú melléklet szerinti adattartalommal az adó-visszaigénylési jogosultság érvényesítésével egyidejűleg elszámolást nyújt be a vámhatósághoz.
 
-[^508]: A 114/A. §-t a 18/2010. (XII. 30.) NGM rendelet 13. §-a iktatta be.
+[^535]: A 114/A. §-t a 18/2010. (XII. 30.) NGM rendelet 13. §-a iktatta be.
