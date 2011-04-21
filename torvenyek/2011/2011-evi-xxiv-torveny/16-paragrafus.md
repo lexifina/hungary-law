@@ -1,5 +1,0 @@
-16. § Az SzVMt. 16. § (3) bekezdése helyébe a következő rendelkezés lép és a § a következő (4) bekezdéssel egészül ki:
-
-„(3) Közterületen vagy nyilvános helyen az 1. § (2) bekezdés b) pontja szerinti, vagyonőrzési feladatokat ellátó személy (a továbbiakban: vagyonőr) formaruhát visel, amelyen fel kell tüntetni annak a vállalkozásnak a nevét vagy engedélyezett rövidített nevét, amellyel munkaviszonyban áll, továbbá a vagyonőr nevét és a vagyonőr megjelölést. Ha a vagyonőr egyéni vállalkozó vagy egyéni cég, és alvállalkozóként teljesít szolgálatot, a saját formaruháját vagy annak a vállalkozásnak a formaruháját is viselheti, amellyel a feladat ellátására megbízási szerződést kötött.
-
-(4) Közterületen vagy nyilvános helyen végzett tevékenység esetén az elektronikai vagyonvédelmi rendszert tervező vagy szerelő esetében – formaruha hiányában – a vállalkozás nevét vagy engedélyezett rövidített nevét, valamint az elektronikai vagyonvédelmi rendszert tervező vagy elektronikai vagyonvédelmi rendszert szerelő elnevezést kitűzőn kell megjeleníteni.”

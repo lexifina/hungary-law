@@ -16,14 +16,6 @@ való megfelelést szolgálja.
 
 (3) Az Ftv. e törvény 5. §-ával megállapított 18/C. §-a, valamint az SzVMt. e törvény 35. §-ával megállapított 72/A. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi XXIV. törvényhez
 
 „9. számú melléklet a 2003. évi CXXX. törvényhez
