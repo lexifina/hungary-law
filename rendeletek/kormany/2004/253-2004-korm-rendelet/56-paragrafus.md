@@ -1,11 +1,15 @@
-## 55. §[^103]
+## 55. §[^105]
 
-## Az Európai Közösségek jogszabályaihoz való közelítés
+## Az Európai Unió jogának való megfelelés[^106]
 
-## 56. § E rendelet a Magyar Köztársaság, illetőleg az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban, a lőfegyverekről és lőszerekről szóló törvény rendelkezéseivel együtt
+## 56. §[^107] Ez a rendelet – a lőfegyverekről és lőszerekről szóló törvény, a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról és a haditechnikai termékek jelöléséről, valamint a haditechnikai termékek és szolgáltatások nyilvántartásáról szóló rendeletek rendelkezéseivel együtt –
 
-a) az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelvével; és
+a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
 
-b) az Európai Közösségek Tanácsának a polgári felhasználású robbanóanyagok forgalmazására és felügyeletére vonatkozó rendelkezések harmonizációjáról szóló 93/15/EGK irányelvének 10. és 11. cikkével összeegyeztethető szabályozást tartalmaz.
+b) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvnek,
 
-[^103]: Az 55. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+c) a polgári felhasználású robbanóanyagok forgalomba hozatalára és felügyeletére vonatkozó rendelkezések harmonizációjáról szóló, 1993. április 5-i 93/15/EGK tanácsi irányelv 10. és 11. cikkének
+
+[^105]: Az 55. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+[^106]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^107]: Az 56. § az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@ d) az eladott lőfegyver adatait, az eladás időpontját a megszerzési engedé
 
 e) lőszer csak megszerzési vagy tartási engedéllyel rendelkezőnek adható át, a megszerzett, illetve a tartási engedélybe bejegyzett lőfegyver kaliberjelének figyelembevételével;
 
-f)[^30] muzeális fegyver működtetéséhez szükséges lőszerelem (fekete lőport vagy a fekete lőpor kiváltására gyártott lőport) csak sportlövészet folytatása céljából nyilvántartásba vett sportegyesület (a továbbiakban: sportegyesület) kereskedelmi meghatalmazottja részére értékesíthető;
+f)[^32] muzeális fegyver működtetéséhez szükséges lőszerelem (fekete lőport vagy a fekete lőpor kiváltására gyártott lőport) csak sportlövészet folytatása céljából nyilvántartásba vett sportegyesület (a továbbiakban: sportegyesület) kereskedelmi meghatalmazottja részére értékesíthető;
 
 g) a lőfegyver, lőszer és lőszerelem tartásáról és forgalmazásáról, a forgalmazási tevékenységet engedélyező hatóság által előzetesen hitelesített nyilvántartó könyvet kell vezetni;
 
@@ -24,7 +24,7 @@ a) a javítási engedéllyel rendelkező a fegyverek és lőszerek vizsgálatár
 
 b) az alkatrésznek megvásárolt és a javításra átvett lőfegyverről a 12. számú mellékletben meghatározott átvételi elismervényt kell adni, két példányban, az átvételi elismervényen fel kell tüntetni a vásárlás vagy a javítás tényét;
 
-c)[^31] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
+c)[^33] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
 
 d) a c) pontban említett nyilvántartókönyv elkülönített részében nyilvántartást kell vezetni a megvásárolt lőfegyverekről, fődarabokról és azok hasznosításáról;
 
@@ -40,5 +40,5 @@ b) a lőfegyver (gáz- és riasztófegyver) javítása során a fokozott igényb
 
 c) a lőfegyver (gáz- és riasztófegyver) javítása során fődarabcsere történt.
 
-[^30]: A 15. § (2) bekezdés f) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^31]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 15. § (2) bekezdés f) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
