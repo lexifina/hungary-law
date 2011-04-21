@@ -1,1 +1,0 @@
-16. § E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik. E törvény 2. §-a szerinti Egyezmény 23. cikke szerinti nemzeti ellenőrző hatósági feladatok végrehajtásáért az adatvédelmi biztos a felelős.

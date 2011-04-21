@@ -1,1 +1,0 @@
-5. § Az Országgyűlés az Európai Rendőrségi Hivatal létrehozásáról szóló, 1995. július 26-án kelt Egyezmény (Europol Egyezmény) 43. Cikkének (1) bekezdése alapján létrejött, az említett Egyezmény 2. Cikkének és mellékletének módosításáról szóló, 2000. november 30-án kelt Jegyzőkönyvet e törvénnyel kihirdeti.

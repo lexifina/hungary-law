@@ -1,1 +1,0 @@
-1. § Az Országgyűlés az Európai Unióról szóló Szerződés K.3. cikkén alapuló, az Európai Rendőrségi Hivatal létrehozásáról szóló, 1995. július 26-án kelt Egyezményt (Europol Egyezmény) e törvénnyel kihirdeti. Az Europol Egyezmény nemzetközi jogi hatálybalépésének napja 2004. szeptember 1.
