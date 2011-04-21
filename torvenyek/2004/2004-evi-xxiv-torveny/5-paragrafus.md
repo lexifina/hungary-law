@@ -2,7 +2,7 @@
 
 5. § (1) A lőfegyverek központi nyilvántartását a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározottak szerint a rendőrség központi szerve kezeli.
 
-(2) A rendőrség központi szerve központi nyilvántartást vezet a rendőrség által kiadott engedélyekről és az engedéllyel rendelkezőkről – az engedély érvényességi idejének lejártától számított tíz évig – a következő adattartalommal:
+(2) Az erre a feladatra kormányrendeletben kijelölt rendőrségi szerv központi nyilvántartást vezet a rendőrség által kiadott engedélyekről és az engedéllyel rendelkezőkről – az engedély érvényességi idejének lejártától számított húsz évig – a következő adattartalommal:
 
 a) az engedély érvényességi ideje és száma;
 

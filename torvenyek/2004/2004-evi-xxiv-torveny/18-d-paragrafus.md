@@ -1,0 +1,31 @@
+18/D. § (1) Polgári célú pirotechnikai tevékenység nem engedélyezhető annak
+
+a) a vállalkozásnak, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy a szabálysértésekről szóló törvényben vagy kormányrendeletben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
+
+b) a vállalkozásnak, amelynek tagja vagy tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg,
+
+c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
+
+(2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
+
+a) büntetett előéletű, vagy a szabálysértésekről szóló törvényben vagy kormányrendeletben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
+
+b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, a 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, embercsempészés, V. címében meghatározott hivatalos személy elleni bűncselekmények, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, a 261/A. § (3) bekezdése szerinti nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nukleáris létesítmény üzemeltetésével, visszaélés atomenergia alkalmazásával, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, a 292. § (1) és (3) bekezdése, valamint a 293. § szerinti rossz minőségű termék forgalomba hozatala, a XVIII. Fejezetben meghatározott, szándékosan elkövetett vagyon elleni bűncselekmény, vagy a XX. Fejezetben meghatározott katonai bűntett elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
+
+ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig,
+
+bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+
+bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított három évig,
+
+bd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított két évig,
+
+c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig.
+
+(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn.
+
+(4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
+
+(5) A rendőrség a hatósági ellenőrzés során a (4) bekezdés szerint átvett adatokat a hatósági ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli. Ha a hatósági ellenőrzés során a rendőrség a tevékenység gyakorlását kizáró okot tár fel és az engedély visszavonására, illetve a tevékenység végzésétől való eltiltásra eljárást indít, az átvett adatokat az eljárás jogerős befejezéséig kezelheti.
+
+(6) A rendőrség a hatósági ellenőrzést évente köteles elvégezni. Ha a hatósági ellenőrzés során a rendőrség megállapítja, hogy az (1) bekezdés szerinti, a tevékenység gyakorlását kizáró feltétel áll fenn, az engedélyt visszavonja, vagy a polgári célú pirotechnikai tevékenységekről szóló kormányrendeletben meghatározott 1. és 2. pirotechnikai osztályba tartozó tűzijáték terméket, valamint a T1. és P1. pirotechnikai osztályba tartozó terméket forgalmazni kívánó vállalkozás számára előírt bejelentést tett szolgáltatót a tevékenység végzésétől eltiltja.
