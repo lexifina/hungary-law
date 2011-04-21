@@ -14,6 +14,4 @@ b) valamennyi pénzügyi szolgáltatási ágazat tekintetében legyen olyan tagj
 
 (6) A békéltető testületi tagok megbízatása három évre szól. A tagok újraválaszthatóak.
 
-[(6) A békéltető testületi tagok megbízatása négy évre szól. A tagok ismételten kijelölhetők.]
-
 (7) A békéltető testület tagjai tevékenységüket külön jogszabályban meghatározott díjazás ellenében végzik.

@@ -28,4 +28,4 @@ l)
 
 vonatkozó részletes szabályokat rendelettel meghatározza.
 
-(2)
+(2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
