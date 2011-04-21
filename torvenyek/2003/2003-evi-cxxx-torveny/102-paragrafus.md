@@ -26,4 +26,6 @@ l) a Tanács 2002/187/IB határozata (2002. február 28.) a bűnözés súlyos f
 
 m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről;
 
-n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival.
+n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival;
+
+n) az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat.
