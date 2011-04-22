@@ -1,0 +1,131 @@
+# A közigazgatási és igazságügyi miniszter 13/2011. (IV. 22.) KIM rendelete
+
+Magyar Közlöny 2011. évi 42. szám, 2011. április 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4dd55ccc3575141a4bf9a031a8291386a04da5fc/dokumentumok/5b3c90817473cddf352879f0791c5b66f2c7834a/letoltes)
+
+---
+
+A közigazgatási és igazságügyi miniszter 13/2011. (IV. 22.) KIM rendelete
+a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő
+és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló
+32/2010. (XII. 31.) KIM rendelet módosításáról
+A jogalkotásról szóló 2010. évi CXXX. törvény 30. § (2) bekezdésében és a 30. § (4) bekezdés a) pontjában kapott felhatalmazás
+alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.)
+Korm. rendelet 2. § (1) bekezdés a) pontjában, valamint 12. § a) pontjában meghatározott feladatkörömben eljárva a következőket
+rendelem el:
+1. §
+A Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz
+közzététele során történő megjelöléséről szóló 32/2010. (XII. 31.) KIM rendelet (a továbbiakban: Közlönyr.) a következő
+1/A. alcímmel egészül ki:
+„1/A. Az alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések megjelölése
+a kihirdetés során
+8/A. § Az alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések megjelölése annak kihirdetése során
+– az alábbi sorrendben –
+a) a címet, valamint sortöréssel elválasztva
+b) zárójelben a kihirdetés
+ba) évét arab számmal,
+bb) hónapját betűvel kiírva és
+bc) napját arab számmal
+foglalja magában.”
+2. §
+A Közlönyr. 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) A jogszabály megalkotójának teljes megjelölése
+a) a Kormány esetén „A Kormány”,
+b) a Magyar Nemzeti Bank elnöke esetén „A Magyar Nemzeti Bank elnökének”,
+c) a miniszterelnök esetén „A miniszterelnök”,
+d) miniszter esetén nagybetűs névelőt követően a miniszter feladat- és hatásköréről rendelkező kormányrendeletben
+meghatározott, tárca nélküli miniszter esetében a feladatkörre is utaló megnevezése,
+e) a Pénzügyi Szervezetek Állami Felügyelete elnöke esetén „A Pénzügyi Szervezetek Állami Felügyelete elnökének”,
+f) a Nemzeti Média- és Hírközlési Hatóság elnöke esetén „A Nemzeti Média- és Hírközlési Hatóság elnökének”,
+g) a helyi önkormányzat képviselő-testülete esetén a helyi önkormányzat megnevezését követően a „képviselő-testületének”
+szöveg vagy – közgyűlés esetén – a „közgyűlésének” szöveg.
+(2) A jogszabály megalkotója megjelölésének a rövidítése
+a) a Kormány esetén „Korm.”,
+b) a Magyar Nemzeti Bank elnöke esetén „MNB”,
+c) a miniszterelnök esetén „ME”,
+d) miniszter esetén az egyes miniszterek feladat- és hatásköréről szóló kormányrendeletben meghatározott rövid
+megjelölés,
+e) a Pénzügyi Szervezetek Állami Felügyelete elnöke esetén „PSZÁF”,
+f) a Nemzeti Média- és Hírközlési Hatóság elnöke esetén „NMHH”.”
+3. §
+A Közlönyr. 1. mellékletének 1. pont d) alpontja helyébe az alábbi rendelkezés lép:
+(A Magyar Közlöny fősorozatának címrendje a következő:)
+„d) IV. A Magyar Nemzeti Bank, a Pénzügyi Szervezetek Állami Felügyelete és a Nemzeti Média- és Hírközlési Hatóság
+elnökének rendeletei,”
+
+4. § (1) A jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet (a továbbiakban: R2.) 22. § (2) bekezdése helyébe a
+következő rendelkezés lép:
+„(2) Az általános hivatkozásban
+a) törvényre a „törvény” megjelöléssel,
+b) a Magyar Nemzeti Bank elnökének rendeletére az „a Magyar Nemzeti Bank elnökének rendelete” megjelöléssel,
+c) kormányrendeletre a „kormányrendelet” megjelöléssel,
+d) miniszteri rendeletre a miniszter megjelölését követően a „rendelete” megjelöléssel,
+e) előre meg nem határozható miniszterek rendeleteire a „miniszteri rendelet” megjelöléssel,
+f) a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletére az „a Pénzügyi Szervezetek Állami Felügyelete
+elnökének rendelete” megjelöléssel,
+g) a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletére az „a Nemzeti Média- és Hírközlési Hatóság
+elnökének rendelete” megjelöléssel,
+h) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete”
+megjelöléssel,
+i) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+j) valamennyi jogszabályra a „jogszabály” megjelöléssel
+kell hivatkozni.”
+(2) Az R2. 55. § (4a) bekezdése helyébe a következő rendelkezés lép:
+„(4a) A Pénzügyi Szervezetek Állami Felügyelete elnöke rendeletének és a Nemzeti Média- és Hírközlési Hatóság
+elnöke rendeletének a tervezetében a feladatkört általánosan megjelölő törvényi rendelkezésre kell hivatkozni.”
+(3) Az R2. 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A felhatalmazás jogosultjaként törvény tervezetében
+a) a Magyar Nemzeti Bank elnökét,
+b) a Kormányt,
+c) a Kormány egy vagy több tagját önállóan vagy más miniszternek egyetértési jogot biztosítva,
+d) a Pénzügyi Szervezetek Állami Felügyelete elnökét,
+e) a Nemzeti Média- és Hírközlési Hatóság elnökét vagy
+f) helyi önkormányzatot
+lehet megjelölni.”
+(4) Az R2. 123. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A hatályon kívül helyező rendelkezések között a törvényre vonatkozó hatályon kívül helyező rendelkezések
+megelőzik a Magyar Nemzeti Bank elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek
+megelőzik a kormányrendeletre vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Kormány
+tagja rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Pénzügyi Szervezetek
+Állami Felügyelete elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a
+Nemzeti Média- és Hírközlési Hatóság elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket.”
+(5) Az R2. 1. melléklete az 1. melléklet szerint módosul.
+(6) Az R2. 1. melléklet 7.1.2.2. pontjában, 7.1.2.2.1. pontjában és 7.5.1.2. pontjában a „vagy PSZÁF rendelet” szövegrész
+helyébe a „, PSZÁF rendelet vagy NMHH rendelet” szöveg lép.
+5. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Dr. Navracsics Tibor s. k.,
+közigazgatási és igazságügyi miniszter
+
+1. melléklet a 13/2011. (IV. 22.) KIM rendelethez
+1. Az R2. 1. melléklete a következő 2.3.10. ponttal egészül ki:
+„2.3.10. A Nemzeti Média- és Hírközlési Hatóság elnöke rendelete tervezetének a megjelölése
+A Nemzeti Média- és Hírközlési Hatóság elnökének
+.../... . (... . ... .) NMHH rendelete
+{a rendelet címe}
+ ”
+2. Az R2. 1. melléklet 4.1.4. pontja helyébe a következő rendelkezés lép:
+„4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére,
+a miniszteri rendeletre, a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletére vagy a Nemzeti Média
+és Hírközlési Hatóság elnökének rendeletére vonatkozó merev hivatkozás
+{a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}.
+({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB
+(VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) PSZÁF (VAGY) NMHH]
+rendelet
+ ”
+3. Az R2. 1. melléklet 8.1.1. pontja helyébe a következő rendelkezés lép:
+„8.1.1. A felhatalmazás jogosultjának a megjelölése egyes számú felhatalmazó rendelkezésben
+a Magyar Nemzeti Bank elnöke
+(VAGY)
+a Kormány
+(VAGY)
+a miniszterelnök
+(VAGY)
+[a (VAGY) az] {a Kormány egy vagy több tagjának megjelölése a rövidítése szerinti ábécésorrendben}
+(VAGY)
+a Pénzügyi Szervezetek Állami Felügyeletének elnöke
+(VAGY)
+a Nemzeti Média- és Hírközlési Hatóság elnöke
+(VAGY)
+{helyi önkormányzat megnevezése}
+(VAGY)
+a helyi önkormányzat képviselő-testülete
+ ”
