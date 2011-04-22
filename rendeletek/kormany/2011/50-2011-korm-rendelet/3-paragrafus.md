@@ -1,1 +1,3 @@
-## „(3) Az (1) bekezdés rendelkezésének alkalmazása során minősített sportlövő az, akinek az országos sportági szakszövetség által kiadott minősítése van.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
