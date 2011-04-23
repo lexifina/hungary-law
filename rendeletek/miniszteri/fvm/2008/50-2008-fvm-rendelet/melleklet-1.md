@@ -6,7 +6,7 @@
 
 a) 12%-nál nagyobb lejtésű területen az alábbi kultúrák termesztése tilos: dohány, cukorrépa, takarmányrépa, burgonya, csicsóka.
 
-b)[^30] 12%-nál nagyobb lejtésű területen a nyári és őszi betakarítású kultúrák lekerülése után gondoskodni kell a talaj fedettségéről:
+b)[^32] 12%-nál nagyobb lejtésű területen a nyári és őszi betakarítású kultúrák lekerülése után gondoskodni kell a talaj fedettségéről:
 
 ba) őszi kultúra vetésével, vagy
 
@@ -16,15 +16,17 @@ bc) másodvetésű takarónövény termesztésével.
 
 2. Erózió ellen kialakított teraszok megőrzése kötelező szőlőültetvények esetében.
 
-3. Vetésváltásra vonatkozó előírások:
+3.[^33] Vetésváltásra vonatkozó előírások:
 
-a)[^31] Egymás után két évig termeszthető: rozs, búza, tritikálé, árpa;
+a) Önmaguk után ugyanazon a területen nem termeszthető növények: burgonya, napraforgó, káposztarepce, szójabab, cukorrépa, olajtök, dinnye;
 
-b)[^32] Egymás után legfeljebb három évig termeszthető: kukorica és dohány;
+b) Egymás után két évig termeszthető: rozs, búza, tritikálé, árpa, zab, cirokfélék;
 
-c) Több évig termeszthető maga után: évelő kertészeti kultúrák, évelő takarmánynövények, fűmagtermesztés, méhlegelő céljából vetett növények, illetve energetikai hasznosítás céljából vetett többéves növények, valamint a rizs;
+c) Egymás után legfeljebb három évig termeszthető: dohány és a kukorica;
 
-d) Minden egyéb növény egy évig termeszthető.
+d) Egymás után legfeljebb négy évig termeszthető: vetőmag termesztés céljából hibridkukorica;
+
+e) Minden egyéb növény több évig termeszthető önmaga után.
 
 4. Tarló, nád, növényi maradvány valamint gyepek égetése tilos.
 
@@ -36,12 +38,11 @@ d) Minden egyéb növény egy évig termeszthető.
 
 8. A mezőgazdasági területeken a hasznosítás szempontjából nemkívánatos fás szárú növények megtelepedését és terjedését meg kell akadályozni.
 
-9.[^33] A Mezőgazdasági Parcella Azonosító Rendszerben rögzített tájképi elemek megőrzése kötelező. A kunhalom területén a gyeptelepítés előkészítéséhez szükséges talajmunkák kivételével bárminemű talajmunka végzése és a fahasználat tilos.
+9.[^34] A Mezőgazdasági Parcella Azonosító Rendszerben rögzített tájképi elemek megőrzése kötelező. Kunhalom területén gyep felszínborítás helyreállítása érdekében történő előkészítő beavatkozások kivételével bárminemű mezőgazdasági talajmunka végzése tilos. Kunhalom területén végzett fakivágás során tilos a földmű bolygatása.
 
-10.[^34] Öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján végezhető.
+10.[^35] Öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján végezhető.
 
-[^30]: Az 1. számú melléklet 1. pontjának b) alpontja a 80/2009. (VII. 3.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2009. július 6. napját követően megkezdett mezőgazdasági munkaműveletekre kell alkalmazni.
-[^31]: Az 1. számú melléklet 3. pontjának a) alpontja a 80/2009. (VII. 3.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^32]: Az 1. számú melléklet 3. pontjának b) alpontja a 80/2009. (VII. 3.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^33]: Az 1. számú melléklet 9. pontját a 32/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése iktatta be.
-[^34]: Az 1. számú melléklet 10. pontját a 32/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése iktatta be.
+[^32]: Az 1. számú melléklet 1. pontjának b) alpontja a 80/2009. (VII. 3.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2009. július 6. napját követően megkezdett mezőgazdasági munkaműveletekre kell alkalmazni.
+[^33]: Az 1. számú melléklet 3. pontja a 29/2011. (IV. 22.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. számú melléklet 9. pontját a 32/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^35]: Az 1. számú melléklet 10. pontját a 32/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése iktatta be.

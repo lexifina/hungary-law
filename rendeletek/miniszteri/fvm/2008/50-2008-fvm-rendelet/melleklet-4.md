@@ -22,6 +22,6 @@
 
 ## Maradandó: a meg nem felelés maradandó következményekkel járt a helyes mezőgazdasági és környezeti állapot fenntartásának vonatkozásában, hatásuk a gazdaság jelentős részére kiterjed, az érintett mezőgazdasági kultúrák, illetve a talaj nagy mértékben károsodtak.
 
-4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^37]
+4. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^38]
 
-[^37]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: A 4. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
