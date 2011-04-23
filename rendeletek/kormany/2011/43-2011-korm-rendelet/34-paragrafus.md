@@ -1,3 +1,0 @@
-34. § (1) A sportköztestületek a 9. § (1)–(2) bekezdésében meghatározottak alkalmazásával e rendelet hatálybalépésétől számított 15 napon belül megállapodnak a doppingbizottságba, illetve a dopping fellebbviteli bizottságba jelölésre kerülő személyekről, és erről 5 napon belül értesítik a HUNADO-t.
-
-(2) Az Országos Sportegészségügyi Intézet és a Sportegészségügyi Szakmai Kollégium a 6. § (3) bekezdésében meghatározottak alkalmazásával a TUE Bizottság elnökének személyére és tagjaira vonatkozó közös javaslatot e rendelet hatálybalépésétől számított 15 napon belül teszik meg a HUNADO részére. A HUNADO vezetője a közös javaslat beérkezésétől számított 5 napon belül felkéri a TUE Bizottság elnökét és tagjait a tisztség ellátására.

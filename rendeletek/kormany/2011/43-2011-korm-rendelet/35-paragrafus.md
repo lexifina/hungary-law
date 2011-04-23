@@ -1,3 +1,5 @@
+## 34. §[^1]
+
 35. § (1) A 3. § a) pontja helyébe a következő rendelkezés lép:
 
 (A miniszter feladat- és hatáskörében ellátja a tiltott teljesítményfokozó szerek és módszerek használatára vonatkozó hazai és nemzetközi rendelkezések betartásához szükséges alábbi feladatokat:)
@@ -11,3 +13,5 @@
 (3) Az 5. § (2) bekezdés r) pontja helyébe a következő rendelkezés lép:
 
 (A HUNADO doppingellenes tevékenysége során e rendelettel, a nemzetközi doppingellenes szervezetek doppingellenes szabályaival, valamint a nemzetközi követelményekkel összhangban)
+
+[^1]: A 34. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
