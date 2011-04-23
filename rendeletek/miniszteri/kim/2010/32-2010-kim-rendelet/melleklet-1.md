@@ -10,7 +10,7 @@ b) II. Törvények,
 
 c) III. Kormányrendeletek,
 
-d) IV. A Magyar Nemzeti Bank és a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletei,
+d)[^3] IV. A Magyar Nemzeti Bank, a Pénzügyi Szervezetek Állami Felügyelete és a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletei,
 
 e) V. A Kormány tagjainak rendeletei,
 
@@ -35,3 +35,5 @@ d) IV. Pályázati felhívások,
 e) V. Közlemények,
 
 f) VI. Hirdetmények.
+
+[^3]: A 1. melléklet 1. pont d) alpontja a 13/2011. (IV. 22.) KIM rendelet 3. §-ával megállapított szöveg.
