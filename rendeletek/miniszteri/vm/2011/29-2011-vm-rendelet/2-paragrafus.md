@@ -1,0 +1,1 @@
+## „n) gémeskút: olyan kút, amelyből a talajvíz kiemelését a kétkarú emelő elvén működő, a föld felszíne felett található szerkezet szolgálja, és a Mezőgazdasági Parcella Azonosító Rendszerben rögzítésre került;”
