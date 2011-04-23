@@ -16,11 +16,11 @@
 
 | 7. | Nemzeti Erőforrás Minisztérium | 906 |
 
-| 8. | Nemzeti Fejlesztési Minisztérium | 684 |
+| 8. | Nemzeti Fejlesztési Minisztérium | 686 |
 
 | 9. | Vidékfejlesztési Minisztérium | 735 |
 
-| 10. | ÖSSZESEN: | 6054 |
+| 10. | ÖSSZESEN: | 6056 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -146,7 +146,7 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 6.3. | Magyar Bányászati és Földtani Hivatal | 180 |
 
-| 6.4. | Magyar Energia Hivatal | 112 |
+| 6.4. | Magyar Energia Hivatal | 126 |
 
 | 6.5. | Nemzeti Hírközlési Hatóság | 460 |
 
@@ -316,6 +316,6 @@ Igazgatási és igazgatási jellegű szervek létszáma
 
 | 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
 
-| 11. | ÖSSZESEN: | 61 156 |
+| 11. | ÖSSZESEN: | 61 170 |
 
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja, a 1030/2011. (II. 22.) Korm. határozat 6–10. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja, az 1030/2011. (II. 22.) Korm. határozat 6–10. pontja, az 1103/2011. (IV. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
