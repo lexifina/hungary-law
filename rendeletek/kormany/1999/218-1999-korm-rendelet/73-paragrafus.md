@@ -10,6 +10,6 @@ c) a vendéglátóipar értékesítő helyein a jogszabályban előírt tájéko
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^102] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
+(2)[^104] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-[^102]: A 73. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^104]: A 73. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

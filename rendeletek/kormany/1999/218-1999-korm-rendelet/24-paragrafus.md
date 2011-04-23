@@ -14,9 +14,9 @@ c) a birtokhatár megjelölését vagy az egyéb közérdeket szolgáló jelet v
 
 ## harmincezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^38] A (2) bekezdésben meghatározott szabálysértés elkövetőjével szemben helye van.
+(3)[^40] A (2) bekezdésben meghatározott szabálysértés elkövetőjével szemben helye van.
 
-(4)[^39] Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a (2) bekezdés b) pontja esetében a természetvédelmi őr helyszíni bírságot szabhat ki.
+(4)[^41] Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a (2) bekezdés b) pontja esetében a természetvédelmi őr helyszíni bírságot szabhat ki.
 
-[^38]: A 24. § (3) bekezdése a 253/2004. (VIII. 31.) Korm. rendelet 52. §-a (2) bekezdésének d) pontja szerint módosított szöveg.
-[^39]: A 24. § (4) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^40]: A 24. § (3) bekezdése a 253/2004. (VIII. 31.) Korm. rendelet 52. §-a (2) bekezdésének d) pontja szerint módosított szöveg.
+[^41]: A 24. § (4) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.

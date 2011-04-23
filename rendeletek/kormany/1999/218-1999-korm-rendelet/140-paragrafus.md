@@ -4,6 +4,6 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^175] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(2)[^177] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^175]: A 140. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^177]: A 140. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.

@@ -6,9 +6,9 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^151] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal, állatról emberre terjedő betegség esetén a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal, illetve a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete hatáskörébe is tartozik.
+(2)[^153] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal, állatról emberre terjedő betegség esetén a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal, illetve a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete hatáskörébe is tartozik.
 
-(3)[^152]
+(3)[^154]
 
-[^151]: A 113. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 16. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b) és i) pontja szerint módosított szöveg.
-[^152]: A 113. § (3) bekezdését a 267/2007. (X. 15.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^153]: A 113. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 16. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b) és i) pontja szerint módosított szöveg.
+[^154]: A 113. § (3) bekezdését a 267/2007. (X. 15.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.

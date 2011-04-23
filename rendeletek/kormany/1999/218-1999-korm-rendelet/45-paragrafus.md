@@ -6,6 +6,6 @@ hatvanezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
 
-(3)[^62] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(3)[^64] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^62]: A 45. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 6. §-a iktatta be.
+[^64]: A 45. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 6. §-a iktatta be.

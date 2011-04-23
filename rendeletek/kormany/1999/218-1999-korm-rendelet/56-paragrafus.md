@@ -12,6 +12,6 @@ c) a hajóutak és kikötők létesítésére, használatára,
 
 d) a vízi közlekedés rendjére,
 
-e) a hajózási tevékenység végzésére – ide nem értve a jogszabály által engedélykötelesnek minősített árufuvarozás és személyszállítás szabályait[^82] –
+e) a hajózási tevékenység végzésére – ide nem értve a jogszabály által engedélykötelesnek minősített árufuvarozás és személyszállítás szabályait[^84] –
 
-[^82]: A Magyar Közlöny 2000. évi 15. számában megjelent helyesbítésnek megfelelő szöveg.
+[^84]: A Magyar Közlöny 2000. évi 15. számában megjelent helyesbítésnek megfelelő szöveg.

@@ -16,6 +16,6 @@ b) az építés műszaki munkálatait erre jogosultsággal rendelkező műszaki 
 
 harmincezer forintig terjedő pénzbírsággal sújtható.
 
-(4)[^171] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(4)[^173] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^171]: A 137. § (4) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^173]: A 137. § (4) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.

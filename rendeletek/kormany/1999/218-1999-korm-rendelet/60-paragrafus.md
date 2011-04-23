@@ -1,4 +1,4 @@
-## 59. §[^85] A 42–58/B. §-okban meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
+## 59. §[^87] A 42–58/B. §-okban meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
 
 ## II. CÍM
 
@@ -8,7 +8,7 @@
 
 60. § (1) Aki
 
-a)[^86] engedély nélkül utat elzár, az úton, az alatt vagy a felett építményt vagy más létesítményt, illetőleg ezekhez csatlakozást létesít,
+a)[^88] engedély nélkül utat elzár, az úton, az alatt vagy a felett építményt vagy más létesítményt, illetőleg ezekhez csatlakozást létesít,
 
 b) utat engedély nélkül felbont vagy elfoglal,
 
@@ -26,5 +26,5 @@ g) az utat vagy az út műtárgyát gondatlanul megrongálja,
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a helyi önkormányzat képviselő-testülete hivatalának erre felhatalmazott ügyintézője, a közterület-felügyelő, valamint természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr helyszíni bírságot szabhat ki.
 
-[^85]: Az 59. § a 211/2001. (XI. 14.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^86]: A 60. § (1) bekezdésének a) pontja az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^87]: Az 59. § a 211/2001. (XI. 14.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^88]: A 60. § (1) bekezdésének a) pontja az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének a) pontja szerint módosított szöveg.

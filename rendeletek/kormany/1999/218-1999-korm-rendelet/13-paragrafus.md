@@ -8,6 +8,6 @@ b) a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint a 
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^26] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, illetőleg a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
+(2)[^28] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, illetőleg a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-[^26]: A 13. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^28]: A 13. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

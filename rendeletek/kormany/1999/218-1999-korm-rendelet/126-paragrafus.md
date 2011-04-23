@@ -2,7 +2,7 @@
 
 ## Vízszennyezés
 
-126. § (1)[^155] Aki
+126. § (1)[^157] Aki
 
 a) külön jogszabályban meghatározott rendeltetésű vízi létesítménybe, illetve hasznosításra igénybe vett, vagy arra kijelölt vízkészletbe közvetlenül vagy közvetve fertőző, illetőleg károsan szennyező anyagot juttat és ezáltal a vízkészletet felhasználásra alkalmatlanná teszi, vagy a felhasználást veszélyezteti, ha környezetkárosítás egyébként nem állapítható meg,
 
@@ -12,7 +12,7 @@ c) az ivóvízellátást ásvány- és gyógyvízként szolgáló, vagy ilyen c�
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^156] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(2)[^158] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^155]: A 126. § eredeti szövegének jelölését a 129/2007. (VI. 8.) Korm. rendelet 18. §-a (1) bekezdésre változtatta.
-[^156]: A 126. § (2) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
+[^157]: A 126. § eredeti szövegének jelölését a 129/2007. (VI. 8.) Korm. rendelet 18. §-a (1) bekezdésre változtatta.
+[^158]: A 126. § (2) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
