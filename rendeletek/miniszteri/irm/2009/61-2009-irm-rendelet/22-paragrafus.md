@@ -24,11 +24,13 @@ e) előre meg nem határozható miniszterek rendeleteire a „miniszteri rendele
 
 f) a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletére az „a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete” megjelöléssel,
 
-g) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
+g) a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletére az „a Nemzeti Média- és Hírközlési Hatóság elnökének rendelete” megjelöléssel,
 
-h) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+h) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
 
-i) valamennyi jogszabályra a „jogszabály” megjelöléssel
+i) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+
+j) valamennyi jogszabályra a „jogszabály” megjelöléssel
 
 kell hivatkozni.
 
@@ -36,4 +38,4 @@ kell hivatkozni.
 
 (4) A jogszabály tervezete nem tartalmazhat olyan rendelkezést, amely kizárólag általános hivatkozást tartalmaz.
 
-[^18]: A 22. § (2) bekezdése a 19/2010. (XII. 21.) KIM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 22. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.

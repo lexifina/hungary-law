@@ -1,16 +1,18 @@
 ## 30. A felhatalmazás jogosultja
 
-75. § (1) A felhatalmazás jogosultjaként törvény tervezetében
+75. § (1)[^45] A felhatalmazás jogosultjaként törvény tervezetében
 
 a) a Magyar Nemzeti Bank elnökét,
 
 b) a Kormányt,
 
-c)[^45] a Kormány egy vagy több tagját önállóan vagy más miniszternek egyetértési jogot biztosítva,
+c) a Kormány egy vagy több tagját önállóan vagy más miniszternek egyetértési jogot biztosítva,
 
-d)[^46] a Pénzügyi Szervezetek Állami Felügyelete elnökét vagy
+d) a Pénzügyi Szervezetek Állami Felügyelete elnökét,
 
-e) helyi önkormányzatot
+e) a Nemzeti Média- és Hírközlési Hatóság elnökét vagy
+
+f) helyi önkormányzatot
 
 lehet megjelölni.
 
@@ -20,5 +22,4 @@ lehet megjelölni.
 
 (4) Ha a felhatalmazás azonos tárgykörben minden miniszternek önálló rendelet kiadására szól, a felhatalmazás címzettjeit általánosan, többes számban kell megjelölni.
 
-[^45]: A 75. § (1) bekezdés c) pontja a 19/2010. (XII. 21.) KIM rendelet 18. § (7) bekezdése szerint módosított szöveg.
-[^46]: A 75. § (1) bekezdés d) pontja a 19/2010. (XII. 21.) KIM rendelet 18. § (7) bekezdése szerint módosított szöveg.
+[^45]: A 75. § (1) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (3) bekezdésével megállapított szöveg.
