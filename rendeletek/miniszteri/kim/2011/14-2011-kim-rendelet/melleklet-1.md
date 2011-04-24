@@ -34,4 +34,6 @@ Lakcím: Lakcím:
 
 Aláírás: Aláírás:
 
+1M10629_0
+
 | A testületi tag magánszemély nyilatkozatának tartalmát tudomásul vettem. A magánszemély költségtérítését a nyilatkozat figyelembevételével állapítom meg. Kelt: ...................................................... ............................................................ cégszerű aláírás |

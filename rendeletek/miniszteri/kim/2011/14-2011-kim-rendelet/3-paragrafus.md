@@ -1,3 +1,5 @@
 3. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a Nemzeti Civil Alapprogram tanácsi és kollégiumi tagjainak díjazásáról szóló 12/2009. (V. 28.) SZMM rendelet.
+(2)[^2]
+
+[^2]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
