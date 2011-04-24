@@ -1,1 +1,0 @@
-## 7. § Az R. 5. § (3) bekezdésében az „1. melléklet” szövegrész helyébe az „1. számú melléklet”, az 5. § (4) bekezdésében az „1. melléklet” szövegrész helyébe az „1. számú melléklet”, az 5. § (8) bekezdésében az „1. melléklet” szövegrész helyébe az „1. számú melléklet” szöveg lép.
