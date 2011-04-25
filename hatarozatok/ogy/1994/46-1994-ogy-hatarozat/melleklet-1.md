@@ -1,3 +1,5 @@
+## 6. Fejezet[^169]
+
 ## V. RÉSZ
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -274,6 +276,7 @@
 
 1. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz
 
+[^169]: A IV. rész 6. fejezetét (134/E–134/F. §) a 9/2011. (III. 9.) OGY határozat 4. pontja iktatta be, hatályon kívül helyezte e módosító határozat 6. pontja.
 [^170]: A 135. § (1) bekezdése a 103/2001. (XII. 21.) OGY határozat 5. §-ának (1) bekezdésével megállapított szöveg.
 [^171]: A 135. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
 [^172]: A 135. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 46. §-ával megállapított szöveg.
