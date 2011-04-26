@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-30-41
 | --- | --- | --- |
 | 2011-03-09 | 2011-9-30-41.1 | 9/2011. (III. 9.) OGY határozat |
 | 2011-03-10 | 2011-9-30-41.2 | 2010: CXXX. törvény |
+| 2011-04-26 | 2011-9-30-41.3 | 2010: CXXX. törvény |

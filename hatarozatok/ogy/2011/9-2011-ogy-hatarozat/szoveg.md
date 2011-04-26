@@ -6,9 +6,9 @@
 
 4.[^2]
 
-5. E határozat a közzétételének napján lép hatályba,[^3]
+5.[^3] E határozat a közzétételének napján lép hatályba,
 
-6. A Hsz. IV. Részének 6. fejezete az új Alkotmány kihirdetése napján hatályát veszti.
+6.[^4]
 
 Melléklet a 9/2011. (III. 9.) OGY határozathoz
 
@@ -258,3 +258,4 @@ Az Alkotmány hatályba léptetéséről úgy kell rendelkezni, hogy a megalkota
 
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
