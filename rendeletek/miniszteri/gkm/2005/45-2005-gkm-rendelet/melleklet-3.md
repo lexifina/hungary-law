@@ -1,8 +1,50 @@
 ## 1. Az NKH Magyar Államkincstár számlaszáma: 10032000-00289926-00000000.
 
-## 2. A Vám- és Pénzügyőrség Magyar Államkincstár számlaszáma: 10032000-01037241-00000000 VPOP vám- és bírság, kamat bevételi számla.
+## 2. A Nemzeti Adó- és Vámhivatal Magyar Államkincstárnál vezetett számlaszáma: 10032000-01037241-00000000 NAV vám- és adóbírság, kamat bevételi számla.
 
-## 3.
+## 3.  Az NKH központosított bevételek beszedési célelszámolási előirányzat-felhasználási keretszámlái:
+
+|  | Név | Magyar Államkincstár számlaszáma |
+
+|  | NKH Budapest Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-37000004 |
+
+|  | NKH Borsod-Abaúj-Zemplén Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31800002 |
+
+|  | NKH Csongrád Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31700005 |
+
+|  | NKH Győr-Moson-Sopron Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31500001 |
+
+|  | NKH Hajdú-Bihar Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31400004 |
+
+|  | NKH Heves Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31300007 |
+
+|  | NKH Komárom-Esztergom Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31200000 |
+
+|  | NKH Jász-Nagykun-Szolnok Megye Központosított bevételek besz.célelsz.előir.felhaszn.keretsz. | 10032000-00289926-31100003 |
+
+|  | NKH Tolna Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-38000007 |
+
+|  | NKH Békés Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-39000000 |
+
+|  | NKH Baranya Megye Központosított bevételek besz. célelsz. előir. felhaszn.keretsz. | 10032000-00289926-32100006 |
+
+|  | NKH Zala Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31600008 |
+
+|  | NKH Veszprém Megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-31900009 |
+
+|  | NKH Szabolcs-Szatmár-Bereg megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-30000003 |
+
+|  | NKH Bács-Kiskun megye Központosított bevételek besz. célelsz. ekőir. felhaszn. keretsz. | 10032000-00289926-31000006 |
+
+|  | NKH Fejér megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-32000009 |
+
+|  | NKH Vas megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-33000002 |
+
+|  | NKH Nógrád megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-34000005 |
+
+|  | NKH Somogy megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-35000008 |
+
+|  | NKH Pest megye Központosított bevételek besz. célelsz. előir. felhaszn. keretsz. | 10032000-00289926-36000001 |
 
 ## 4. A Rendőrség Magyar Államkincstár számlaszámai:
 
@@ -50,13 +92,13 @@
 
 | Repülőtéri Rendőr Igazgatóság | 10023002-00290603-00000000 |
 
-| Országos Rendőr-főkapitányság | 10023002-01451722-00000000 |
+| Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
 ## 5. Az Országos Munkavédelmi és Munkaügyi Főfelügyelőség Magyar Államkincstár számlaszáma: 10032000-01743496-00000000
 
 ## 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla
 
-3. melléklet a 45/2005. (VI. 23.) GKM rendelethez[^26]
+3. melléklet a 45/2005. (VI. 23.) GKM rendelethez[^22]
 
 Írásbeli tájékoztatás
 
@@ -68,7 +110,7 @@
 
 a) a bírság kivetésének alapját képező jogszabályi rendelkezés,
 
-b)[^27] az elsőfokú határozat fellebbezésre tekintet nélküli végrehajtása,
+b)[^23] az elsőfokú határozat fellebbezésre tekintet nélküli végrehajtása,
 
 c) a kivetett bírság összege,
 
@@ -112,5 +154,5 @@ a) a kiállító hatóság megnevezése, bélyegző lenyomata, a kiállító al�
 
 b) a járművezető által történő átvételt igazoló záradék, a járművezető aláírása.
 
-[^26]: A 3. mellékletet a 41/2007. (IV. 4.) GKM rendelet 7. § (2) bekezdése iktatta be.
-[^27]: A 3. melléklet 3. pont b) alpontja az 56/2009. (X. 20.) KHEM rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2009. október 21. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 3. mellékletet a 41/2007. (IV. 4.) GKM rendelet 7. § (2) bekezdése iktatta be.
+[^23]: A 3. melléklet 3. pont b) alpontja az 56/2009. (X. 20.) KHEM rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2009. október 21. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
