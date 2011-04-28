@@ -1,78 +1,72 @@
 ## Betegszállítási adatlap
 
-| Betegszállítási adatlap |
+## Betegszállítási adatlap
 
-| A betegszállító állomás: | Napló tételszám: |
+| A betegszállító állomás: ............................................................................................. Napló tételszám:…………………………………………………………………….. |
 
-| ÁNTSZ kódja: |
+| ÁNTSZ kódja: ........................................................................................................... |
 
-| A beteg neve: | Születési dátuma: ⬜⬜⬜⬜ ⬜⬜ ⬜⬜ |
+| A beteg neve: ...................................................................................................... Születési dátuma: ................................................................................................ |
 
-| TAJ száma: ⬜⬜⬜ ⬜⬜⬜ ⬜⬜⬜ |
+| TAJ: ………………………………… |
 
-| Lakcíme irányítószámmal: |
+| Lakcíme irányítószámmal: ......................................................................................................................................... |
 
-| Diagnózis: |
+| Diagnózis: ………………………………………………………………………………………………………….................................................................................................................................................................... |
 
-| Szállítandó |
+| Szállítandó: |
 
-|  | honnan |
+| honnan ...................................................................................................................................................... |
 
-|  | hova |
+| hová .......................................................................................................................................................... |
 
-| A megrendelő orvos neve, pecsétszáma: |
+| A megrendelő orvos neve, pecsétszáma: ................................................................................................................... |
 
-| munkahelye, azonosító kódja: |
+| munkahelye, azonosító kódja: .................................................................................................................................... |
 
-| A megrendelés időpontja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap ⬜⬜ óra ⬜⬜ perc |
+| A megrendelés időpontja: ______ év __________ hó _____ nap ______ óra __ perc |
 
-| Kíséret | Szállítás módja: | Sürgőssége: |
+| Kíséret: | Szállítás módja: | Sürgőssége: |
 
-| betegkísérő | ⬜ |  | a) 6 órán belüli | ⬜ |
+|  |  |  | a) 6 órán belüli _____ |
 
-| kíséretet nem igényel | ⬜ | ülve ⬜ | fekve ⬜ | b) 24 órán belüli | ⬜ |
+| a) betegkísérő ___ | ülve _____ | fekve _____ | b) 24 órán belüli ____ |
 
-|  |  |  | c) meghatározott időpontra kért, illetve tervezett időpontban történő ismétlődő ⬜ |
+| b) kíséretet nem igényel___ |  |  | c) meghatározott időpontra kért, illetve tervezett időpontban történő ismétlődő ____ |
 
-| Időre kért szállításnál: a beérkezés ideje: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap ⬜⬜ óra ⬜⬜ perc |
+| Időre kért szállításnál: a beérkezés ideje ____ év __ hó __ nap __ óra __ perc |
 
-| Térítési kategória: |
+| Térítési kategória: | _ | magyar biztosítás alapján végzett ellátás |
 
-|  | ⬜ magyar biztosítás alapján végzett ellátás |
+|  | _ | magyar biztosítással nem rendelkező menekült ellátása |
 
-|  | ⬜ magyar biztosítással nem rendelkező menekült ellátása |
+|  | _ | államközi szerződés alapján végzett ellátás |
 
-|  | ⬜ államközi szerződés alapján végzett ellátás |
+|  | _ | egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján magyar egészségügyi ellátásra nem jogosult személyek térítésköteles ellátása |
 
-|  | ⬜ egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján magyar egészségügyi ellátásra nem jogosult |
+|  | _ | magyar biztosítással nem rendelkező menedékes ellátása |
 
-|  | személyek térítésköteles ellátása |
+|  | _ | külföldön élő magyarok központi költségvetésből támogatott ellátása (Segítő Jobb) |
 
-|  | ⬜ magyar biztosítással nem rendelkező menedékes ellátása |
+|  | _ | befogadott külföldi állampolgár |
 
-|  | ⬜ külföldön élő magyarok központi költségvetésből támogatott ellátása (Segítő Jobb) |
+|  | _ | menekült, menedékes státuszt kérelmező |
 
-|  | ⬜ befogadott külföldi állampolgár |
+|  | _ | elszámolásra vonatkozó nemzetközi szerződés/közösségi szabály alapján történő ellátás |
 
-|  | ⬜ menekült, menedékes státuszt kérelmező |
+| Költségviselő: | _ | a beteg kérésére történő fizetésköteles szállítás |
 
-|  | ⬜ elszámolásra vonatkozó nemzetközi szerződés/közösségi szabály alapján történő ellátás |
+|  | _ | OEP |
 
-| Költségviselő: |
+|  | _ | Egyéb |
 
-|  | ⬜ a beteg kérésére történő fizető köteles szállítás |
-
-|  | ⬜ OEP |
-
-|  | ⬜ egyéb |
-
-| A gépkocsi rendszáma: | ápoló/betegkísérő neve: | gépkocsivezető neve: |
+| A gépkocsi rendszáma: ....................................................... | ápoló/betegkísérő neve: ....................................................... | gépkocsivezető neve: ....................................................... |
 
 | A kivonulás adatai | km-óra állása | óra/perc |
 
 | Állomásra érkezéskor |  |  |
 
-| Átadás helyére érkezésekor |  |  |
+| Átadás helyére érkezéskor |  |  |
 
 | Helyszínről induláskor |  |  |
 
@@ -82,20 +76,12 @@
 
 | Összesen |  |  |
 
-| A szállítás típusai: | ⬜ egyedi | ⬜ kapcsolt |
+| A szállítás típusai: | _ egyedi | _ kapcsolt |
 
-| A szállítás dátuma: | A beteg |
+| A szállítás dátuma: ____ év __hó __ nap __ perc ...................................................................... gyógyítóintézetben átvettem. …………………. átvevő aláírása Az átvevő intézmény ÁNTSZ kódja: .......................................................... | A beteg ......................................... ....................................................... ....................................................... miatt továbbszállítandó. |
 
-| ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap ⬜⬜ óra ⬜⬜ perc |  |
+| Átvétel időpontja: ____ év __hó __ nap __ perc | ....................................................... továbbszállítást elrendelő orvos aláírása és bélyegzője |
 
-|  | gyógyítóintézetben átvettem |  |
+3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^48]
 
-| Az átvevő intézmény ÁNTSZ kódja: | miatt továbbszállítandó. |
-
-| Az átvétel időpontja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap ⬜⬜ óra ⬜⬜ perc |  |
-
-|  | továbbszállítást elrendelő orvos aláírása és bélyegzője |
-
-3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^41]
-
-[^41]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja szerint módosított szöveg.
+[^48]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja szerint módosított szöveg.

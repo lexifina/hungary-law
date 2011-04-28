@@ -58,6 +58,6 @@
 
 ## megrendelő orvos aláírása és bélyegzője
 
-3. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^40]
+3. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^47]
 
-[^40]: A 3. számú melléklet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdésével megállapított, valamint az 50/2008. (XII. 31.) EüM rendelet 7. § (3) bekezdése, 8. § (4) bekezdésének e) pontja és 8. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^47]: A 3. számú melléklet a 15/2011. (IV. 27.) NEFMI rendelet 7. § (2) bekezdésével megállapított szöveg.

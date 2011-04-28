@@ -42,6 +42,6 @@
 
 |  | átvevő orvos aláírása és bélyegzője |  |
 
-4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^42]
+4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^49]
 
-[^42]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta a szövegbe.
+[^49]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta a szövegbe.
