@@ -1,0 +1,9 @@
+# 69/2011. (IV. 28.) Korm. rendelet
+
+Összefogás az Államadósság Ellen Alapról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-69-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-04-29 | 2011-69-20-22.1 | 69/2011. (IV. 28.) Korm. rendelet |
