@@ -1,6 +1,4 @@
-## 1.
-
-## Az egyes jogszabályban foglalt gazdálkodási követelmény (a továbbiakban: JFGK) esetében megállapított meg nem felelések értékelési szempontjai
+## 1. Az egyes jogszabályban foglalt gazdálkodási követelmény (a továbbiakban: JFGK) esetében megállapított meg nem felelések értékelési szempontjai
 
 ## 1.1. JFGK 1 és 5
 
@@ -142,6 +140,86 @@
 
 ## Maradandó: nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
 
+## 1.8. JFGK 9.
+
+## A JFGK célja: A növényvédő szer kijuttatása, tárolása során fellépő veszélyek megelőzése, az ember és az állat egészségét, a környezet és természet védelmét szolgáló intézkedések biztosításával, illetve növényvédelemmel összefüggő kémiai biztonságra vonatkozó általános szabályok betartásával.
+
+## Súlyosság
+
+## Enyhe: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan kismértékű megsértése, amely a környezet és az emberi egészségre ártalmatlan.
+
+## Közepes: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetetten veszélyezteti.
+
+## Súlyos: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetlenül veszélyezteti.
+
+## Tartósság
+
+## Rövid távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatásokat ésszerű időhatáron belül meg lehet szüntetni.
+
+## Hosszú távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatás hosszú időhatáron belül csökkenthető, vagy megszüntethető.
+
+## Maradandó: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során maradandó károsodás következett be.
+
+## 1.9. JFGK 10.
+
+## A JFGK célja: az egyes hormon- vagy tireosztatikus hatású anyagoknak és a ß-agonistáknak az állattenyésztésben történő felhasználására vonatkozó tilalom betartatása annak érdekében, hogy az emberre kockázatos anyagok élelmiszerbe való átkerülése megakadályozható legyen.
+
+## Súlyosság
+
+## Enyhe: Az előírások olyan fokú megsértése, amely az emberi egészséget még nem veszélyezteti.
+
+## Közepes: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyeztetheti.
+
+## Súlyos: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyezteti.
+
+## Tartósság
+
+## Rövid távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet ésszerű időhatáron belül megszüntethető.
+
+## Hosszú távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet hosszú időhatáron belül csökkenthető, vagy megszüntethető.
+
+## Maradandó: Az előírások megsértése következében kialakult veszélyhelyzet a gazdálkodó által nem megszüntethető.
+
+## 1.10. JFGK 11.
+
+## A JFGK célja: Annak biztosítása, hogy a gazdálkodó által felhasznált anyagok és az általa forgalomba kerülő termékek élelmezési és takarmányozási szempontból biztonságosak, azonosíthatók legyenek.
+
+## Súlyosság
+
+## Enyhe: A nem megfelelően végzett tevékenység alapvetően nem veszélyezteti az emberi és állati egészséget, nem növeli az élelmiszerbiztonsági kockázatot.
+
+## Közepes: A nem megfelelően végzett tevékenység veszélyezteti az emberi és állati egészséget, növeli az élelmiszerbiztonsági kockázatot.
+
+## Súlyos: A nem megfelelően végzett tevékenység nagy mértékben növeli az élelmiszerbiztonsági kockázatot, ezáltal az emberi és állati egészségre közvetlen veszélyt jelent.
+
+## Tartósság
+
+## Rövid távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai olyan időintervallumon belül megszüntethetőek, hogy azok nem veszélyeztetik az élelmiszerbiztonságot.
+
+## Hosszú távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai csak olyan időintervallumon belül szüntethetők meg, hogy azok veszélyeztethetik az élelmiszerbiztonságot.
+
+## Maradandó: A nem megfelelően végzett tevékenység hiányosságai nem szüntethetők meg, így azok veszélyeztetik az élelmiszerbiztonságot.
+
+## 1.11. JFGK 12–15.
+
+## A JFGK célja: Bizonyos fertőző állatbetegségek elleni védekezés biztosítása.
+
+## Súlyosság
+
+## Enyhe: Az előírások olyan fokú megsértése, amely a járványügyi védekezést még nem veszélyezteti.
+
+## Közepes: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyeztetheti.
+
+## Súlyos: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyezteti.
+
+## Tartósság
+
+## Rövid távon helyrehozható: Az előírás megsértésből adódó hiányosság azonnal vagy rövid időhatáron belül megszüntethető.
+
+## Hosszú távon helyrehozható: Az előírás megsértésből adódó hiányosság hosszú időhatáron belül megszüntethető.
+
+## Maradandó: Az előírás megsértésből adódó hiányosság nem szüntethető meg.
+
 ## 2. Minimumkövetelmények esetében megállapított meg nem felelések értékelési szempontjai
 
 ## 2.1. Tápanyag-gazdálkodási minimum követelmények
@@ -168,7 +246,7 @@
 
 ## 2.2. Növényvédelmi minimum követelmények
 
-## 2.2.1. Gondoskodni kell a növényvédelmi tevékenység során kiürült csomagoló burkolatok, göngyölegek szakszerű összegyűjtéséről, kezeléséről, megsemmisítéséről. (pl. növényvédő szer csomagolóeszköz más célra még tisztított állapotban sem használható)
+## 2.2.1. Gondoskodni kell a növényvédelmi tevékenység során kiürült csomagoló burkolatok, göngyölegek szakszerű összegyűjtéséről, kezeléséről, megsemmisítéséről (pl. növényvédő szer csomagolóeszköz más célra még tisztított állapotban sem használható).
 
 ## Célja: a növényvédelmi tevékenységhez felhasznált termékek csomagoló anyagainak szakszerű megsemmisítése.
 
@@ -188,109 +266,7 @@
 
 ## Maradandó: a szennyezés hatására maradandó károsodás keletkezett a környezetben.
 
-## 2.2.2. Engedélyköteles terméket Magyarországon csak az élelmiszerlánc-felügyeleti szerv által kiadott engedély alapján, az élelmiszerláncról és hatósági felügyeletről szóló 2008. évi XLVI. törvény végrehajtására kiadott külön jogszabály szerint lehet forgalomba hozni és felhasználni.
-
-## (engedélyköteles termék: a növényvédő szer, növényvédőszer-hatóanyag, -adalékanyag, – segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag (kivéve a 2003/2003/EK rendelet szerinti EK-műtrágya), engedélyköteles továbbá az alkalmazás célja szerint ezekre visszavezethető egyéb termék, amelynek forgalomba hozatala és felhasználása engedélyhez kötött;).
-
-## Célja: Engedélyköteles termékek biztonságos felhasználása a káros környezeti hatások elkerülése érdekében.
-
-## Súlyosság
-
-## Enyhe: az engedélyköteles termék felhasználása nem az engedélynek megfelelően történt, de nem következett be szennyezés a környezetben.
-
-## Közepes: az engedélyköteles termék felhasználása nem az engedélynek megfelelően történt és a környezetben kismértékű szennyezés következett be.
-
-## Súlyos: az engedélyköteles termék felhasználása nem az engedélynek megfelelően történt és a környezetben jelentős mértékű szennyezés következett be, vagy engedélyköteles termék engedély nélküli felhasználása történt.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a keletkezett káros hatás ésszerű időhatáron belül csökkenthető vagy szüntethető meg.
-
-## Hosszútávon helyrehozható: a keletkezett káros hatás hosszú távon belül csökkenthető vagy szüntethető meg.
-
-## Maradandó: a szennyezés hatására maradandó károsodás következett be.
-
-## 2.2.3. A növényvédő szereket elkülönített raktárban, a vizek, a környezet és az emberi egészséget szolgáló intézkedések betartásával lehet tárolni.
-
-## Célja: Növényvédő szerek szakszerű, biztonságos tárolása.
-
-## Súlyosság
-
-## Enyhe: A tárolási előírások kismértékű megsértése, amely a környezetet és az emberi egészséget nem veszélyezteti.
-
-## Közepes: A tárolási előírások olyan megsértése, amely a környezetet és az emberi egészséget közvetetten veszélyezteti.
-
-## Súlyos: A tárolási előírások olyan súlyos megsértése, amely a környezetet és az emberi egészséget közvetlenül veszélyezteti.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a nem megfelelő tárolás következtében a keletkezett káros hatás ésszerű időhatáron belül csökkenthető vagy megszüntethető.
-
-## Hosszútávon helyrehozható: a nem megfelelő tárolás következtében keletkezett káros hatás hosszú távon belül csökkenthető vagy megszüntethető.
-
-## Maradandó: a nem megfelelő tárolás hatására maradandó károsodás következett be.
-
-## 2.2.4. A növényvédő szer kijuttatásra alkalmazott gépeknek szerepelniük kell a Növényvédelmi Gépek Jegyzékében (a továbbiakban: Jegyzék) vagy megfelelő nemzetközi minőségtanúsítási okirattal kell rendelkezniük, továbbá megfelelő műszaki állapotban kell lenniük.
-
-## Célja: A növényvédelmi tevékenységhez kapcsolódó gépek megfelelő műszaki állapotban tartása.
-
-## Súlyosság
-
-## Enyhe: a növényvédő szer kijuttatásra alkalmazott gép szerepel a Jegyzékben, vagy rendelkezik annak megfelelő nemzetközi minőségtanúsítási okirattal, de a műszaki állapota olyan kisebb hiányosságokat mutat, amely nem jelent veszélyt a környezetre és az emberi egészségre.
-
-## Közepes: a növényvédő szer kijuttatásra alkalmazott gép nem szerepel a Jegyzékben, vagy nem rendelkezik annak megfelelő nemzetközi minőségtanúsítási okirattal, és a műszaki állapota olyan súlyos hiányosságokat mutat, amely közvetetten veszélyezteti a környezet, az emberi egészséget.
-
-## Súlyos: a növényvédő szer kijuttatásra alkalmazott gép nem szerepel a Jegyzékben, vagy nem rendelkezik annak megfelelő nemzetközi minőségtanúsítási okirattal, és a műszaki állapota olyan súlyos hiányosságokat mutat, amely közvetlenül veszélyezteti a környezetet, emberi egészséget.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a nem megfelelő műszaki állapotban lévő gép használatából eredő káros hatás ésszerű időhatáron belül csökkenthető vagy megszüntethető.
-
-## Hosszútávon helyrehozható: a nem megfelelő műszaki állapotban lévő gép használatából eredő káros hatás hosszú távon belül csökkenthető vagy megszüntethető.
-
-## Maradandó: a nem megfelelő műszaki állapotban lévő gép használat hatására maradandó károsodás következett be.
-
-## 2.2.5. Az I. és II. forgalmi kategóriába sorolt növényvédő szereket kizárólag a kategóriának megfelelő végzettségű ember vásárolhatja meg, vagy használhatja fel.
-
-## Célja: Az I. és II. forgalmi kategóriába sorolt növényvédő szerek biztonságos használata.
-
-## Súlyosság
-
-## Enyhe: nem tudja igazolni a végzettséget, de a környezetre káros hatást nem gyakorolt a felhasználás.
-
-## Közepes: nem tudja igazolni a végzettséget, de a környezetre kismértékű káros hatást gyakorolt a felhasználás.
-
-## Súlyos: nem tudja igazolni a végzettséget és a környezetre nagymértékű káros hatást gyakorolt a felhasználás.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a végzettség nélküli felhasználásból keletkezett káros hatás ésszerű időhatáron belül csökkenthető vagy megszüntethető.
-
-## Hosszútávon helyrehozható: a végzettség nélküli felhasználásból keletkezett káros hatás hosszú távon belül csökkenthető vagy megszüntethető.
-
-## Maradandó: maradandó károsodás következett be.
-
-## 2.2.6. A növényvédő szer címkéjén, használati utasításában foglalt korlátozásokat be kell tartani.
-
-## Célja: A növényvédő szerek szakszerűtlen felhasználásából eredő környezeti károk elkerülése.
-
-## Súlyosság
-
-## Enyhe: a felhasználás nem a címkén feltüntettek, nem a használati utasításoknak megfelelően történt, de nem következett be szennyezés a környezetben.
-
-## Közepes: a felhasználás nem a címkén feltüntettek, nem a használati utasításoknak megfelelően történt és kismértékű szennyezés következett be a környezetben.
-
-## Súlyos: a felhasználás nem a címkén feltüntettek, nem a használati utasításoknak megfelelően történt és jelentős mértékű szennyezés következett be a környezetben.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a keletkezett káros hatás ésszerű időhatáron belül csökkenthető vagy megszüntethető.
-
-## Hosszútávon helyrehozható: a keletkezett káros hatás hosszú távon belül csökkenthető vagy megszüntethető.
-
-## Maradandó: maradandó károsodás következett be.
-
-2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^13]
+2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^20]
 
 ## A jogkövetkezmény mértékének számítási alapjai
 
@@ -346,4 +322,4 @@
 
 | 5 | 5 | 5 | 100% |
 
-[^13]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.

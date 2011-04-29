@@ -1,3 +1,3 @@
-1. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^12]
+1. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^19]
 
-[^12]: Az 1. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet a 32/2011. (IV. 28.) VM rendelet 4. §-ával megállapított szöveg.
