@@ -1,1 +1,3 @@
-## „2/B. § A betegszállítás tekintetében területi ellátásra kötelezett az a szolgáltató – figyelemmel az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 33. § (6) bekezdésében foglaltakra –, amelynek a területén a biztosítottnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti lakóhelye vagy tartózkodási helye van.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
