@@ -2,6 +2,6 @@
 
 6. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(4)[^10]
+(2)–(4)[^9]
 
-[^10]: A 6. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 827. pontja hatályon kívül helyezte.
+[^9]: A 6. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 827. pontja hatályon kívül helyezte.
