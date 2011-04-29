@@ -8,7 +8,7 @@
 
 ## Határidő: 2011. január 31.
 
-1. melléklet az 1015/2011. (I. 19.) Korm. határozathoz
+1. melléklet az 1015/2011. (I. 19.) Korm. határozathoz[^2]
 
 A Végrehajtás Operatív Program 2011-13-as akcióterve
 
@@ -118,6 +118,8 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | utód | 2.1.3 | A (lehetséges) kedvezményezettek számára folyamatos és átfogó információs tevékenység nyújtása, tájékoztatási tevékenységek folytatása | kiemelt (TA) | 6 - non-profit szervezet államháztartáson belül | 0,00 | 7,45 | 0,00 | 0,00 | 0,00 | nem releváns | nem releváns | 91,85% | 2 | futó | 2015/IV | kkv beszállító | - támogatási lehetőségek megismertetése a szélesebb közvélemény számára, pályázók hatékony mozgósítása; - fejlesztési programok eredményeinek bemutatása; - a partnerség elvével kapcsolatos feladatok ellátása; - ügyfélszolgálat | a „támogatandó projektek tervezett száma” tartalmazza a már jelenleg is futó projektek számát |
 
-| utód | 2.1.4 | A (lehetséges) kedvezményezetteket támogató, helyi elérhetőségű tanácsadói hálózat működtetése a minőségi projektek előkészítése és megvalósítása érdekében | kiemelt (TA) | 6 - non-profit szervezet államháztartáson belül | 0,00 | 5,32 | 0,00 | 0,00 | 0,00 | nem releváns | nem releváns | 91,85% | 8 | futó | 2015/IV | kkv beszállító | - támogatási lehetőségek megismertetése; - projekt javaslatok kidolgozásának segítése; - projektek megvalósításának segítése | a „támogatandó projektek tervezett száma” tartalmazza a már jelenleg is futó projektek számát |
+| utód | 2.1.4 | A (lehetséges) kedvezményezetteket támogató, helyi elérhetőségű tanácsadói hálózat működtetése a minőségi projektek előkészítése és megvalósítása érdekében | kiemelt (TA) | 6 - non-profit szervezet államháztartáson belül Széchényi Programiroda Nonprofit Kft. | 0,00 | 5,32 | 0,00 | 0,00 | 0,00 | nem releváns | nem releváns | 91,85% | 8 | futó | 2015/IV | kkv beszállító | - támogatási lehetőségek megismertetése; - projekt javaslatok kidolgozásának segítése; - projektek megvalósításának segítése | a „támogatandó projektek tervezett száma” tartalmazza a már jelenleg is futó projektek számát |
 
 |  | 1. | Prioritás | Összesen: | 0,00 | 24,33 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 91,85% | 12 |  |  |  |  |  |
+
+[^2]: Az 1. melléklet az 1115/2011. (IV. 28.) Korm. határozat 1. pontja szerint módosított szöveg.
