@@ -1,0 +1,39 @@
+A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E. §-a, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 2. §-a, valamint a Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat 1. pontja alapján meghozza a következő határozatát:
+
+1. A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény (a továbbiakban: 2006. évi LXV. törvény) 2. § (1) bekezdése alapján egyetért azzal, hogy az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány (a továbbiakban: Alapítvány) állami alapítójaként a nemzeti fejlesztési miniszter (a továbbiakban: Alapító) az Alapítvány jogutódlással történő megszüntetését kezdeményezze arra hivatkozással, hogy az alapítvány céljainak megvalósítására, feladatának további ellátására többségi állami tulajdoni részesedés biztosításával közhasznú szervezetnek minősülő, jogi személyiséggel rendelkező nonprofit gazdasági társaságot kíván alapítani.
+
+2. A Kormány
+
+a) felhívja az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon az 1. pont szerinti, az Alapítvány általános jogutódjaként működő Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. megalapításáról;
+
+b) egyetért azzal, hogy a megszűnt Alapítvány céljainak megvalósítása érdekében annak feladatait az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. lássa el, és ennek érdekében az Alapítvány vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontja után esedékessé váló kötelezettségei az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft.-re szállnak át; az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. vagyonává váló volt alapítványi vagyon kizárólag a megszűnt Alapítvány célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is csak e céloknak megfelelően használható fel;
+
+c) felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon arról, hogy az Alapítvány bírósági nyilvántartásból való törlésének napjával azonos fordulónapon, az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft.-re átszálló alapítványi vagyon figyelembevételével a megszűnt Alapítvány céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. által.
+
+Felelős: nemzeti fejlesztési miniszter
+
+közigazgatási és igazságügyi miniszter
+
+Határidő: azonnal
+
+3. A Kormány
+
+a) felhatalmazza a nemzeti fejlesztési minisztert, hogy a közigazgatási és igazságügyi miniszter bevonásával, a 2006. évi LXV. törvény 4. § (4) bekezdése alapján, az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. megalapításának cégbírósági kezdeményezésével egyidejűleg az Alapító nevében kérelmezze a Fővárosi Bíróságnál az Alapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben az Alapító nevében eljárjon, és az ennek érdekében szükséges intézkedéseket megtegye;
+
+b) megbízza a nemzeti fejlesztési minisztert, hogy a közigazgatási és igazságügyi miniszter bevonásával intézkedjen az Alapítványhoz vagyonelszámoló, könyvvizsgáló, valamint az 1. pont szerinti megszüntetési eljárásban közreműködő személyek kijelölése és az Alapítvány vagyonának a 2006. évi LXV. törvény 2. § (2) bekezdése szerinti, az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Közhasznú Nonprofit Kft. részére történő térítésmentes átadása érdekében;
+
+c) felhívja a nemzeti fejlesztési minisztert, hogy biztosítsa, hogy az Alapítvány megszűnése napjával mint mérlegfordulónappal az Alapítvány elkészítse a számviteli törvény szerinti egyes egyéb szervezetek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet 6. §-a szerinti beszámolóját.
+
+Felelős: nemzeti fejlesztési miniszter
+
+közigazgatási és igazságügyi miniszter
+
+Határidő: a 2. pont szerinti meghatalmazás kiadását követően azonnal
+
+4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az Alapítvány megszüntetéséről és a 2. pontban foglalt intézkedésekről a nyilvánosságot közleményben tájékoztassa.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: a bírósági törlést követően azonnal
+
+5. Ez a határozat a közzétételét követő napon lép hatályba.
