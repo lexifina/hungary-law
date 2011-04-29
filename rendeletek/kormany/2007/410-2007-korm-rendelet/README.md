@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2010-04-01 | 2007-410-20-22.10 | 86/2010. (III. 26.) Korm. rendelet |
 | 2011-01-01 | 2007-410-20-22.11 | 86/2010. (III. 26.) Korm. rendelet |
 | 2011-03-01 | 2007-410-20-22.12 | 10/2011. (II. 22.) Korm. rendelet |
+| 2011-04-29 | 2007-410-20-22.13 | 71/2011. (IV. 28.) Korm. rendelet |
