@@ -16,7 +16,7 @@ c)[^45] a 13. §-ban meghatározott idegenrendészeti és menedékjogi feladatok
 
 d)[^46] az egyes szabálysértésekről szóló kormányrendeletben meghatározott légiközlekedés biztonságát szolgáló szabályok megszegése szabálysértés esetén szabálysértési hatóságként jár el, a tulajdon elleni szabálysértések esetén lefolytatja a szabálysértésekről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást,
 
-e)[^47] törvényben meghatározott esetben közrendvédelmi bírságot állapít meg.
+e)[^47] törvényben meghatározott esetben légiközlekedési, közrendvédelmi bírságot állapít meg.
 
 ## lát el.
 
@@ -34,7 +34,7 @@ b) az ideiglenes légi határátkelőhelyek megnyitásával kapcsolatos rendész
 [^44]: A 10. § (2) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^45]: A 10. § (2) bekezdés c) pontja a 30/2009. (II. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^46]: A 10. § (2) bekezdés d) pontját a 361/2010. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
-[^47]: A 10. § (2) bekezdés e) pontját a 361/2010. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^47]: A 10. § (2) bekezdés e) pontját a 361/2010. (XII. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 71/2011. (IV. 28.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
 [^48]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^49]: A 10. § (3) bekezdés a) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
 [^50]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
