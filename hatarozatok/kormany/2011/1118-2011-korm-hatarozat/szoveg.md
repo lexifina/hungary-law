@@ -40,12 +40,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: azonnal
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+6.[^2]
 
-a) a Magyar Termelékenységi Központ Közalapítvány megszüntetéséről és tevékenységének más szervezeti keretek között történő folytatásáról szóló 2203/2004. (VIII. 23.) Korm. határozat,
+a)-d)[^3]
 
-b) a Bay Zoltán Alkalmazott Kutatási Alapítvány közalapítvánnyá történő átalakításáról és a Magyar Termelékenységi Központ Közalapítvány megszüntetésével és tevékenységének más szervezeti keretek között történő folytatásáról szóló 2203/2004. (VIII. 23.) Korm. határozat módosításáról szóló 1032/2005. (IV. 4.) Korm. határozat,
-
-c) a Bay Zoltán Alkalmazott Kutatási Közalapítvány Alapító Okiratának módosításáról szóló 1017/2006. (II. 15.) Korm. határozat, továbbá
-
-d) a Bay Zoltán Alkalmazott Kutatási Közalapítvány Alapító Okiratának módosításáról szóló 1079/2007. (X. 10.) Korm. határozat.
+[^2]: A 6. nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
