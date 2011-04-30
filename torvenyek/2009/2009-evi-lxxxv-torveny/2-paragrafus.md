@@ -50,7 +50,7 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 21. pénzforgalmi szolgáltatás: a Hpt. meghatározott pénzforgalmi szolgáltatás,
 
-22. pénzforgalmi szolgáltató: az a hitelintézet, elektronikus pénzt kibocsátó szakosított hitelintézet, Posta Elszámoló Központot működtető intézmény, pénzforgalmi intézmény, Magyar Nemzeti Bank és kincstár, amely pénzforgalmi szolgáltatási tevékenységet végez,
+22. pénzforgalmi szolgáltató: az a hitelintézet, elektronikuspénz-kibocsátó intézmény, Posta Elszámoló Központot működtető intézmény, pénzforgalmi intézmény, Magyar Nemzeti Bank és kincstár, amely pénzforgalmi szolgáltatási tevékenységet végez,
 
 23. referencia-árfolyam: pénzforgalmi szolgáltató által közzétett vagy a nyilvánosság számára hozzáférhető pénznemek közötti mindenkori átváltási árfolyam,
 
