@@ -38,12 +38,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-5. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+5.[^2]
 
-a) a Fogyatékos Személyek Esélyegyenlőségéért Közalapítvány Alapító Okiratának módosításáról szóló 1024/2010. (II. 5.) Korm. határozat,
+a)–d)[^3]
 
-b) a Fogyatékos Személyek Esélyegyenlőségéért Közalapítvány Alapító Okiratának módosításáról szóló 1118/2009. (VII. 23.) Korm. határozat,
-
-c) a Fogyatékos Személyek Esélyegyenlőségéért Közalapítvány Alapító Okiratának módosításáról szóló 1049/2007. (VII. 3.) Korm. határozat, továbbá a
-
-d) Fogyatékos Személyek Esélyegyenlőségéért Közalapítvány létrehozásáról szóló 1020/2007. (III. 28.) Korm. határozat.
+[^2]: Az 5. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: Az 5. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
