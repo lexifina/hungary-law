@@ -32,8 +32,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-5. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+5.[^2]
 
-a) a Mező Ferenc Sportközalapítvány alapító okiratának módosításáról szóló 1048/2008. (VII. 16.) Korm. határozat, továbbá
+a)–b)[^3]
 
-b) a Mező Ferenc Közalapítvány létrehozásáról szóló 1081/1996. (VII. 23.) Korm. határozat.
+[^2]: Az 5. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: Az 5. pont a)–b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
