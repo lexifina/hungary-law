@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^3] A támogatási kérelmet postai úton 2011-től évente május 1. és május 31. között, valamint október 1. és október 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
+6. § (1)[^3]
 
 (2) A támogatási kérelemnek a következőket kell tartalmaznia:
 
@@ -44,5 +44,5 @@ i) ha az ügyfél természetes személy, annak a hatósági igazolványnak a má
 
 (5) A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket a (4) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^3]: A 6. § (1) bekezdése a 13/2010. (VIII. 30.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^3]: A 6. § (1) bekezdését a 35/2011. (IV. 29.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
 [^4]: A 6. § (3) bekezdés f) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.
