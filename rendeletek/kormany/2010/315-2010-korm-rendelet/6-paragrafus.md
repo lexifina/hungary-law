@@ -40,7 +40,7 @@ n)[^4] illetékességi területén ellátja a regionális fejlesztési és képz
 
 a) feladatainak ellátása érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi kisebbségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel. Ennek keretében adatszolgáltatási feladatokat teljesít a fővárosi és megyei kormányhivatal, valamint az egyes szakigazgatási szervek felé – ideértve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján történő megtérítési igények érvényesítéséhez szükséges, havi rendszerességgel esedékes adatszolgáltatást is,
 
-b)[^6] illetékességi területén ellátja a védintézkedés kezdeményezésének megalapozásához szükséges információgyűjtéssel és elemzéssel kapcsolatos feladatokat,
+b)[^6]
 
 c) elkészíti a munkaügyi központ belső szakmai szabályzatait, valamint
 
@@ -60,4 +60,4 @@ c) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 [^4]: A 6. § (1) bekezdés n) pontját a 351/2010. (XII. 30.) Korm. rendelet 291. § (2) bekezdése iktatta be.
 [^5]: [A 351/2010. (XII. 30.) Korm. rendelet 291. § (3) bekezdésével elrendelt módosítás, amely szerint a 6. § (2) bekezdése e) ponttal egészül ki, nem vezethető át.]
-[^6]: A 6. § (3) bekezdés b) pontját a 12. § (2) bekezdése hatályon kívül helyezte [2011. április 30. napjával].
+[^6]: A 6. § (3) bekezdés b) pontját a 12. § (2) bekezdése hatályon kívül helyezte.

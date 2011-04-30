@@ -58,7 +58,7 @@ ob) a miniszter által megadott szempontok alapján irányítja, koordinálja a 
 
 oc) a munkaügyi tanács állásfoglalása előtt véleményezi a munkaügyi központ által indítandó programok tervezetét,
 
-p)[^3] ellátja a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződés X. mellékletének 7. és 11. cikkében meghatározott védintézkedés (a továbbiakban: védintézkedés) kezdeményezésének megalapozásához szükséges információgyűjtéssel és elemzéssel kapcsolatos feladatokat,
+p)[^3]
 
 q) szervezi, bonyolítja, illetőleg koordinálja az Európai Unió pénzügyi alapjaiból, illetőleg más külföldi alapokból támogatott egyes foglalkoztatási, képzési és informatikai programok megvalósítását,
 
@@ -82,4 +82,4 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 
 d) egyéb szervezetekkel.
 
-[^3]: A 4. § (1) bekezdés p) pontját a 12. § (2) bekezdése hatályon kívül helyezte [2011. április 30. napjával].
+[^3]: A 4. § (1) bekezdés p) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
