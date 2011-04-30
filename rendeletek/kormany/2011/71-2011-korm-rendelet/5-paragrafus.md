@@ -1,3 +1,3 @@
-5. § (1) Hatályát veszti az R2. 11. § (2) bekezdés i) pontjában az „és a Pest Megyei Rendőr-főkapitányság” szövegrész.
+5. §[^4]
 
-(2) Hatályát veszti az R3. 10. § (2) bekezdése.
+[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
