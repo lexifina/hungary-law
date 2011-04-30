@@ -46,14 +46,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-7. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti:
+7.[^2]
 
-a) a Gandhi Közalapítvány létrehozásáról szóló 1068/1995. (VII. 12.) Korm. határozat,
+a)–d)[^3]
 
-b) a Gandhi Közalapítvány Alapító Okiratának módosításáról szóló 2292/1997. (IX. 24.) Korm. határozat,
-
-c) a Gandhi Közalapítvány Alapító Okiratának módosításáról szóló 2004/1999. (I. 18.) Korm. határozat,
-
-d) a Gandhi Közalapítvány Alapító Okiratának módosításáról szóló 1040/2004. (IV. 27.) Korm. határozat, továbbá
-
-e) a Gandhi Közalapítvány alapító okiratának módosításáról szóló 1043/2008. (VI. 30.) Korm. határozat.
+[^2]: A 7. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 7. pont a)–e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
