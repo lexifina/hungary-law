@@ -38,4 +38,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-5. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti az Ipar Műszaki Fejlesztéséért Alapítványnak Iparfejlesztési Közalapítvánnyá történő átalakításáról szóló 1062/2004. (VI. 14.) Korm. határozat.
+5.[^2]
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
