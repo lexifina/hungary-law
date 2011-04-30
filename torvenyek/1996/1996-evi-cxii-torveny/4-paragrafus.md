@@ -20,7 +20,7 @@ f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. §-ának
 
 g) a külön jogszabály alapján létrehozott Diákhitel Központ hitelezési tevékenységének elősegítése érdekében végzett tevékenységet, valamint
 
-h) megbízás alapján elektronikus pénzeszközön történő adattárolást,
+h)
 
 i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
 

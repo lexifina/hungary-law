@@ -1,6 +1,6 @@
 ## V. RÉSZ
 
-## A PÉNZÜGYI INTÉZMÉNYEK ÉS A PÉNZFORGALMI INTÉZMÉNYEK SZÁMVITELE ÉS KÖNYVVIZSGÁLATA
+## A PÉNZÜGYI INTÉZMÉNYEK, A PÉNZFORGALMI INTÉZMÉNYEK ÉS AZ ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK SZÁMVITELE ÉS KÖNYVVIZSGÁLATA
 
 ## XXI. Fejezet
 
@@ -14,6 +14,6 @@ a) tegye lehetővé a pénzügyi intézmény belső ellenőrzését,
 
 b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, a Felügyelet és az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
 
-(3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek is meg kell felelnie.
+(3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek, az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.
 
 (4) A zálogkölcsönzési tevékenységet folytató pénzügyi vállalkozásnak, a pénzforgalmi szolgáltatási tevékenységet folytató vállalkozásnak, valamint a zálogkölcsönzési, illetve pénzforgalmi szolgáltatási tevékenységet kiemelt közvetítői tevékenységként, illetve pénzforgalmi közvetítői tevékenységként közvetítőnek a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység céljára szolgáló elkülönítetten nyilvántartott készpénzállományt vagy az e tevékenység folytatása során birtokába került, a megbízót, illetve az ügyfelet megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.

@@ -1,4 +1,4 @@
-151. § (1) A Felügyeletnek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, illetőleg tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásait, illetőleg tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen
+151. § (1) A Felügyeletnek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, illetőleg tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásait, illetőleg tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen
 
 a) döntési, illetőleg eljárási szabályzatai nem felelnek meg az előírásoknak, illetőleg a működés során ezeket nem tartja be,
 
@@ -13,6 +13,8 @@ e) szavatoló tőkéje nem éri el
 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében,
 
 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében
+
+3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében
 
 rögzített tőkekövetelményt,
 
@@ -32,7 +34,7 @@ j)
 
 k) ha a pénzügyi intézmény nem tesz eleget a 115. § (6) bekezdésében foglalt kötelezettségének.
 
-(2) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155–156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény
+(2) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155–156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
 a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
 
@@ -43,6 +45,8 @@ c) szavatoló tőkéje nem éri el
 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében,
 
 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében
+
+3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében
 
 rögzített tőkekövetelmény hetvenöt százalékát,
 
@@ -66,13 +70,15 @@ l) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalma
 
 m) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt.
 
-(3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény
+(3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
 a) szavatoló tőkéje nem éri el
 
 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében,
 
 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében
+
+3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében
 
 rögzített tőkekövetelmény hatvan százalékát,
 

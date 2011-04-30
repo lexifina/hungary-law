@@ -10,15 +10,15 @@ c) pénzügyi lízing;
 
 d) pénzforgalmi szolgáltatások nyújtása;
 
-e) elektronikus pénz kibocsátása, valamint olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papíralapú utazási csekk, váltó) kibocsátása, illetőleg az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak;
+e) elektronikus pénz kibocsátása;
 
-f) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
+f) olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papír alapú utazási csekk, váltó) kibocsátása, illetve az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak;
 
-g) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
+g) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
 
-h) pénzügyi szolgáltatás közvetítése;
+h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 
-i)
+i) pénzügyi szolgáltatás közvetítése;
 
 j) letéti szolgáltatás, széfszolgáltatás;
 
@@ -44,7 +44,7 @@ d) pénzügyi ügynöki tevékenység a bankközi piacon.
 
 (4) Ha törvény másként nem rendelkezik, kizárólag a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdés a) és d) pontjában meghatározott kiegészítő pénzügyi szolgáltatás.
 
-(5) Az (1) bekezdés d) és e) pontjában meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
 (6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
 
@@ -59,3 +59,11 @@ d) pénzügyi ügynöki tevékenység a bankközi piacon.
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 
 (12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
+
+(13) A 3. § (1) bekezdésének e) pontja szerinti pénzügyi szolgáltatási tevékenység végzésére
+
+a) a hitelintézet, az elektronikuspénz-kibocsátó intézmény és a Posta Elszámoló Központot működtető intézmény az elektronikus pénz kibocsátására vonatkozó engedély birtokában,
+
+b) a nem a monetáris politikai eszközeinek alkalmazása során eljáró MNB és a kincstár törvény erejénél fogva
+
+jogosult (a továbbiakban együttesen: elektronikus pénz kibocsátója).

@@ -2,17 +2,15 @@
 
 ## Könyvvizsgálat
 
-133. § (1) Pénzügyi intézmény, pénzforgalmi intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
+133. § (1) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
 
-a)
+a) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
 
-b) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
+b) a könyvvizsgáló nem rendelkezik a hitelintézetben, pénzforgalmi intézményben és elektronikuspénz-kibocsátó intézményben közvetlen vagy közvetett tulajdonnal,
 
-c) a könyvvizsgáló nem rendelkezik a hitelintézetben közvetlen vagy közvetett tulajdonnal,
+c) a könyvvizsgálónak nincs a hitelintézettel, pénzforgalmi intézménnyel és elektronikuspénz-kibocsátó intézménnyel szemben fennálló kölcsöntartozása, valamint
 
-d) a könyvvizsgálónak nincs a hitelintézettel szemben fennálló kölcsöntartozása, valamint
-
-e) a minősített befolyással rendelkező tulajdonos a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
+d) a minősített befolyással rendelkező tulajdonos a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
 
 (2) Az (1) bekezdés c)–d) pontjaiban foglalt korlátozásokat a könyvvizsgáló közvetlen hozzátartozójára is alkalmazni kell.
 
@@ -38,4 +36,4 @@ c) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele n
 
 d) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
 
-(6) Pénzügyi intézmény, pénzforgalmi intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.
+(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.

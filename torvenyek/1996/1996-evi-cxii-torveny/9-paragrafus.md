@@ -21,3 +21,5 @@
 (10) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag a távközlési eszközzel, digitális eszközzel vagy más információtechnológiai eszközzel történő fizetési művelet teljesítését [2. számú melléklet I. Fejezet 9. pontjának g) alpontja] végez, legalább tizenötmillió forint induló tőkével kell rendelkeznie.
 
 (11) Többes kiemelt közvetítőnek legalább ötvenmillió forint induló tőkével kell rendelkeznie.
+
+(12) Az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenységéhez legalább százmillió forint induló tőkével kell rendelkeznie.

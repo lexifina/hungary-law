@@ -1,6 +1,6 @@
 16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
-(2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
+(2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
 
 a) legalább ötszázmillió forint jegyzett és befizetett tőkével rendelkezik,
 

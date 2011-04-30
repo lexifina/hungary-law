@@ -70,4 +70,4 @@ e) a biztonsági kockázattal arányos logikai védelemre és a sérthetetlensé
 
 (9) A pénzügyi intézménynek belső szabályzatában meg kell határoznia az egyes munkakörök betöltéséhez szükséges informatikai ismeretet.
 
-(10) Az (1)–(9) bekezdésben foglaltaknak a pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódóan a pénzforgalmi intézménynek is meg kell felelnie.
+(10) Az (1)–(9) bekezdésben foglaltaknak a pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódóan a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.

@@ -2,9 +2,9 @@
 
 ## Függő közvetítő
 
-219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
+219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény felel.
 
-(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
+(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
 
 (3) A közvetítői díj időbeni ütemezésének arányosnak kell lennie a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
 
@@ -20,4 +20,4 @@ d) arról, hogy a pénzügyi szolgáltatási szerződés megkötéséért közve
 
 (5) A (4) bekezdésben meghatározottak nem alkalmazandóak, ha a tájékoztatási kötelezettséget a pénzforgalmi szolgáltatás nyújtásáról szóló törvény vagy a fogyasztónak nyújtott hitelről szóló törvény rendelkezései írják elő.
 
-(6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre a 219/D. §-ban foglalt rendelkezéseket nem kell alkalmazni.
+(6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre, és a 2. számú melléklet I. Fejezet 12.3. pont b) alpontjában meghatározott közvetítőre a 219/D. §-ban foglalt rendelkezéseket nem kell alkalmazni.

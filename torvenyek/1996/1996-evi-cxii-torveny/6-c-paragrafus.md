@@ -1,33 +1,11 @@
-## Közvetítő
+## Az elektronikuspénz-kibocsátó intézmény
 
-6/C. § (1) Közvetítő az, aki az e törvényben foglaltaknak megfelelően
+6/C. § (1) Az elektronikuspénz-kibocsátó intézmény az a vállalkozás, amely az e törvényben foglaltaknak megfelelően engedéllyel rendelkezik az elektronikuspénz-kibocsátási tevékenység [3. § (1) bekezdés e) pontja] végzésére.
 
-a) a pénzügyi szolgáltatás közvetítését
+(2) Az elektronikuspénz-kibocsátó intézmény kizárólag a 6/D. §-ban foglalt korlátozással kaphat engedélyt hitel- és pénzkölcsönnyújtási tevékenységre.
 
-aa) kiemelt közvetítői tevékenységként egy pénzügyi intézmény – ideértve a pénzügyi intézmény csoportját is – vagy több pénzügyi intézmény egymással nem versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: kiemelt közvetítő), vagy
+(3) Az elektronikuspénz-kibocsátó intézmény valamennyi pénzforgalmi szolgáltatás nyújtására kaphat engedélyt. Amennyiben az elektronikuspénz-kibocsátó intézmény pénzforgalmi szolgáltatást nyújt, úgy ezen tevékenysége vonatkozásában e törvény eltérő rendelkezése hiányában a pénzforgalmi intézményre és a pénzforgalmi szolgáltatás nyújtására vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-ab) ügynöki tevékenységként egy pénzügyi intézmény – ideértve a pénzügyi intézmény csoportját is – vagy több pénzügyi intézmény egymással nem versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: függő ügynök), vagy
+(4) Az elektronikuspénz-kibocsátó intézmény az általa végzett elektronikus pénz kibocsátásához vagy a (3) bekezdésben meghatározott tevékenységéhez kapcsolódóan jogosult az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatás működtetésével összefüggő és egyéb, szorosan kapcsolódó kiegészítő szolgáltatások nyújtására, valamint engedélyt kaphat a fizetési rendszer működtetése tevékenység végzésére.
 
-ac) pénzforgalmi közvetítői tevékenységként (a továbbiakban: pénzforgalmi közvetítő)
-
-végez (a továbbiakban együtt: függő közvetítő), vagy
-
-b) a pénzügyi szolgáltatás közvetítését
-
-ba) kiemelt közvetítői tevékenységként több pénzügyi intézmény egymással versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: többes kiemelt közvetítő), vagy
-
-bb) ügynöki tevékenységként több pénzügyi intézmény egymással versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: többes ügynök), vagy
-
-bc) alkuszi tevékenységként (a továbbiakban: alkusz)
-
-végez (a továbbiakban együtt független közvetítő).
-
-(2) Közvetítővel – ide nem értve a pénzügyi intézményt – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni.
-
-(3) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
-
-(4) A közvetítő nem jogosult az ügyfél nevében a pénzügyi intézménytől, a pénzforgalmi intézménytől az ügyfelet megillető pénz átvételére.
-
-(5) A közvetítő köteles az ügyfél által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt megillető pénzösszegeket elkülönített számlán tartani. Ezek a pénzösszegek a közvetítő más hitelezői kielégítésére csőd-, illetve felszámolási eljárás esetén nem használhatók fel.
-
-(6) Az (5) bekezdés szerinti elkülönített számlának tekintendő az a letéti számla, amelyen a közvetítő kizárólag az ügyfelek által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt megillető pénzösszegeket tarthatja.
+(5) Az elektronikuspénz-kibocsátó intézmény – törvény eltérő rendelkezése hiányában – egyéb üzleti tevékenységet is végezhet azzal, hogy az (1)–(4) bekezdésben meghatározottakon kívül más pénzügyi, kiegészítő pénzügyi szolgáltatást nem végezhet.

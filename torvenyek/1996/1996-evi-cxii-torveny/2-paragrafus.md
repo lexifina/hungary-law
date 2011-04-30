@@ -6,7 +6,7 @@ b) a betétnek nem minősülő, visszafizetendő pénzeszközöknek a Magyar Ál
 
 c) a pénzletétkezelésre, ha annak üzletszerű végzéséről külön jogszabály rendelkezik;
 
-d) az (5) bekezdés, 13. § (1)–(2) bekezdés, 13/C. §, 13/D. § (1) bekezdés, 45. §, 67. § (5)–(9) bekezdés, 87/K–87/L. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 174–175. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
+d) az (5) bekezdés, 13. § (1)–(2) bekezdés, 13/C. §, 13/D. § (1) bekezdés, 18/A. §, 45. §, 67. § (5)–(9) bekezdés, 87/K–L. §, 87/P. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 218. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
 
 e)
 
@@ -38,6 +38,6 @@ h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
-(4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 174–175. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt említenek, azon a kincstárt is érteni kell.
+(4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 218. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikus pénz kibocsátóját említenek, azon a kincstárt is érteni kell.
 
 (5) A 87/L. § hatálya a Posta Elszámoló Központot működtető intézményre azzal az eltéréssel terjed ki, hogy a készpénz-átutalási, a fizetési számlára történő készpénz-befizetési és a fizetési számláról postai úton történő készpénz-kifizetési tevékenységéhez kapcsolódóan a 87/L. § (3) bekezdése szerinti határidő egy munkanappal meghosszabbodhat.

@@ -15,7 +15,3 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 5. A Tanács 1986. december 18-án kelt 86/635/EGK irányelve a bankok és más pénzintézetek éves beszámolójáról és összevont beszámolójáról.
 
 6.
-
-7. Az Európai Parlament és a Tanács 1995. július 18-án kelt 95/26/EK irányelve a 77/780/EGK és a 89/646/EGK, a hitelintézetekre vonatkozó irányelve, a Tanács 93/22/EGK irányelve az értékpapírok területén érvényesülő befektetési szolgáltatásokról és az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra vonatkozó 85/611/EGK irányelv módosításáról, a prudenciális felügyelet megerősítése érdekében.
-
-8. Az Európai Parlament és a Tanács 2001. április 4-én kelt 2001/24/EK irányelve a hitelintézetek reorganizációjáról és felszámolásáról.

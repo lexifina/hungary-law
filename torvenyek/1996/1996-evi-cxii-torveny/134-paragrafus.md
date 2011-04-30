@@ -14,15 +14,15 @@ f) jelentős véleménykülönbség alakult ki közte és a pénzügyi intézmé
 
 (2) A pénzügyi intézmény összevont (konszolidált) éves beszámolóját felülvizsgáló könyvvizsgáló írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzügyi intézménnyel ellenőrző befolyás miatt szoros kapcsolatban álló vállalkozásnál olyan tényeket állapít meg, amelyek a pénzügyi intézmény folyamatos működését kedvezőtlenül érintik, vagy az (1) bekezdés a), c) pontjában foglaltak fennállására utalnak.
 
-(3) A pénzforgalmi intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel egyidejűleg a Felügyeletet írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
+(3) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel vagy az elektronikuspénz-kibocsátó intézménnyel egyidejűleg a Felügyeletet írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
 
-a) a pénzforgalmi szolgáltatásra vonatkozó jogszabályokban foglalt előírások súlyos megsértésére utaló körülményeket észlel,
+a) a pénzforgalmi szolgáltatásra és elektronikuspénz-kibocsátásra vonatkozó jogszabályokban foglalt előírások súlyos megsértésére utaló körülményeket észlel,
 
-b) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége folyamatos működését, kötelezettségeinek teljesítését nem látja biztosítottnak,
+b) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége, illetve az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenysége folyamatos működését, kötelezettségeinek teljesítését nem látja biztosítottnak,
 
 c) a könyvvizsgálói záradék korlátozása vagy megtagadása válhat szükségessé, vagy
 
-d) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége belső ellenőrzési rendszerének súlyos hiányosságait vagy elégtelenségét állapítja meg.
+d) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége, illetve az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenysége belső ellenőrzési rendszerének súlyos hiányosságait vagy elégtelenségét állapítja meg.
 
 (4) Az (1) és (3) bekezdésben fel nem sorolt esetekben is
 

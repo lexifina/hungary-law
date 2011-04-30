@@ -1,12 +1,12 @@
 190. § (1) A Felügyelet az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
 
-a) a pénzügyi intézményeket, pénzforgalmi intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
+a) a pénzügyi intézményeket, pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
 
 b) a kiegészítő pénzügyi szolgáltatást végző vállalkozásokat,
 
-c) a pénzügyi intézmény, a pénzforgalmi intézmény, a független közvetítő tulajdonosait,
+c) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a független közvetítő tulajdonosait,
 
-d) a pénzügyi intézmény, a pénzforgalmi intézmény, a független közvetítő vezető állású személyeit,
+d) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a független közvetítő vezető állású személyeit,
 
 e) a könyvvizsgálót,
 
@@ -24,7 +24,7 @@ d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalm�
 
 e) a hitelintézet belső szabályait, így különösen az alapszabályt, az üzletszabályzatot, az adós vagy hitelminősítési szabályzatot, a fizetőképesség biztosítására vonatkozó szabályzatot, a belső hitelszabályzatot,
 
-f) a pénzügyi intézmény, a pénzforgalmi intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
+f) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
 
 g) a hitelintézet közgyűléséről, az igazgatóság és a felügyelő bizottsági üléséről készült jegyzőkönyveket,
 

@@ -1,12 +1,12 @@
 ## Közös szabályok
 
-44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
+44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
 (2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
-(4) Pénzügyi intézménynél, pénzforgalmi intézménynél nem lehet vezető állású személy az, aki
+(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy az, aki
 
 a) minősített befolyással rendelkezik (vagy rendelkezett), illetőleg vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben
 
@@ -22,11 +22,11 @@ c) büntetett előéletű;
 
 d) nem rendelkezik jó üzleti hírnévvel.
 
-(5) Hitelintézetnél, pénzforgalmi elszámolóháznál, pénzforgalmi intézménynél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
+(5) Hitelintézetnél, pénzforgalmi elszámolóháznál, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
 a) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy az államigazgatás pénzügyi, illetve gazdasági területén szerzett – vezetői gyakorlattal,
 
-b) más pénzügyi intézménynél, pénzforgalmi intézménynél könyvvizsgáló,
+b) más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél könyvvizsgáló,
 
 c) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 

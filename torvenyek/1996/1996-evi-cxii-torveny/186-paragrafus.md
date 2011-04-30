@@ -4,7 +4,7 @@
 
 186. § (1) A Felügyelet a törvényben meghatározott hatáskör ellátásához szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
 
-(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény és a pénzforgalmi intézmény következő adatait:
+(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény következő adatait:
 
 a) név, székhely;
 

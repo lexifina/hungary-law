@@ -4,7 +4,7 @@ a) az olyan összesített adatok szolgáltatása, amelyből az egyes ügyfelek s
 
 b) a pénzforgalmi számlatulajdonos nevére, pénzforgalmi számlájának számára vonatkozó adatszolgáltatás, továbbá téves utalás esetén a teljesített átutalási megbízás megbízója, illetve a megbízó számlavezetője javára történő adatátadás, a megbízás szerint kedvezményezett, nem pénzforgalmi számlatulajdonos nevére, címére vonatkozóan,
 
-c) a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerbe, illetve e rendszerből a 2. számú melléklet V. fejezetének 3. pontja szerinti referenciaadat-szolgáltató részére nyújtott, a XX/A. Fejezetben meghatározott adatszolgáltatás,
+c) a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerbe, illetve e rendszerből a 2. számú melléklet V. fejezetének 3. pontja szerinti referenciaadat-szolgáltató részére nyújtott, a XX/A. Fejezetben meghatározott adatszolgáltatás,
 
 d) a pénzügyi intézmény által felhatalmazott könyvvizsgálóknak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 

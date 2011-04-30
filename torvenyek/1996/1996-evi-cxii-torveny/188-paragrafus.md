@@ -8,7 +8,7 @@ c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység es
 
 d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
 
-e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény nevét,
+e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevét,
 
 f) a szolgáltatási tevékenysége megkezdésének időpontját,
 

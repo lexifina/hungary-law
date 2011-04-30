@@ -1,6 +1,6 @@
 ## A felügyeleti díj
 
-139/A. § (1) A pénzügyi intézmény; a pénzforgalmi intézmény; a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás; a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+139/A. § (1) A pénzügyi intézmény; a pénzforgalmi intézmény; az elektronikuspénz-kibocsátó intézmény; a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás; a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
 
@@ -10,7 +10,7 @@
 
 a) bank és szakosított hitelintézet esetén: negyven,
 
-b) szövetkezeti hitelintézet, pénzügyi vállalkozás és pénzforgalmi intézmény esetén: négy,
+b) szövetkezeti hitelintézet, pénzügyi vállalkozás, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény esetén: négy,
 
 c) az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
 
@@ -26,7 +26,7 @@ b) a Bszt.-ben meghatározott portfóliókezelési tevékenység – ide nem ér
 
 (6) A pénzügyi vállalkozás által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,2 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
 
-(7) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
+(7) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 87/M. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
 
 (8) Ha az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke
 

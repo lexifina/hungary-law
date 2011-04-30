@@ -12,7 +12,9 @@ I. Pénzügyi szolgáltatások
 
 a) a külön jogszabályban meghatározott feltételekkel és korlátokkal történő, hitelviszonyt megtestesítő értékpapír kibocsátás és
 
-b) a pénzforgalmi intézmény által átvett pénzeszköz fizetési számlán történő nyilvántartása.
+b) a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény által átvett pénzeszköz fizetési számlán történő nyilvántartása,
+
+c) az elektronikuspénz-kibocsátó intézmény által az elektronikus pénz kibocsátása ellenében átvett pénzeszköz.
 
 4. Hitelreferencia-szolgáltatás:
 
@@ -24,13 +26,13 @@ b) a KHR-t kezelő pénzügyi vállalkozás által történő adatkezelés.
 
 a) a csekk,
 
-b) az elektronikus pénzeszköz,
+b) az elektronikus pénz,
 
 c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben meghatározott olyan személyre szabott dolog vagy eljárás, amely lehetővé teszi az ügyfél számára a fizetési megbízás megtételét,
 
-5.2 Elektronikus pénz: készpénz átvétele illetőleg számlapénz átutalása ellenében kibocsátott elektronikus pénzeszközön tárolt pénzérték, amelyet elektronikus fizetés céljából a kibocsátón kívül más is elfogad.
+5.2 Elektronikus pénz: az elektronikus pénz kibocsátójával szembeni követelés által megtestesített, elektronikusan tárolt – ideértve a mágneses tárolást is – összeg, melyet pénzeszköz átvétele ellenében bocsátanak ki a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési műveletek teljesítése céljából, és amelyet az elektronikus pénz kibocsátóján kívül más természetes és jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is elfogad. Nem minősül elektronikus pénznek az e törvény 2. számú melléklet I. fejezete 9.1. pontjának k) alpontja szerinti eszközön tárolt vagy l) pontjában rögzített fizetési műveletekre használt érték.
 
-5.3 Elektronikus pénzeszköz: olyan készpénz-helyettesítő fizetési eszköz – így különösen értéktároló kártya, számítógép memória – amely az elektronikus pénz tárolására szolgál és amellyel az ügyfél közvetlenül végezhet fizetési műveleteket.
+5.3
 
 5.4 Készpénz-helyettesítő fizetési eszköz kibocsátása: szerződés alapján a készpénz-helyettesítő fizetési eszköznek az ügyfél rendelkezésére bocsátása.
 
@@ -54,7 +56,7 @@ c) a fizetési műveletek fizetési számlák közötti teljesítése,
 
 d) a c) pontban meghatározott szolgáltatás, ha a fizetési művelet teljesítése a pénzforgalmi szolgáltatást igénybe vevő ügyfél rendelkezésére álló hitelkeretéből történik,
 
-e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekk és az elektronikus pénzeszköz – kibocsátása,
+e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
 
 f) a készpénzátutalás,
 
@@ -144,7 +146,11 @@ Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata köz
 
 12.2. Ügynöki tevékenység: pénzügyi intézménnyel kötött megbízási szerződés alapján pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás nyújtásának, ilyen szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, amelynek során a pénzügyi intézmény kockázatára önállóan kötelezettséget nem vállalnak, szerződést nem kötnek;
 
-12.3. Pénzforgalmi közvetítői tevékenység: pénzforgalmi intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is;
+12.3. Pénzforgalmi közvetítői tevékenység:
+
+a) pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is,
+
+b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapján, az elektronikus pénz kibocsátója nevében, javára és kockázatára, elektronikus pénz kibocsátására és visszaváltására irányuló szerződés megkötésének elősegítésére irányuló tevékenység.
 
 12.4. Alkuszi tevékenység: pénzügyi szolgáltatást igénybe venni szándékozó ügyféllel kötött megbízási szerződés alapján és nevében pénzügyi intézménnyel történő pénzügyi szolgáltatási szerződés kiválasztására, megkötésének elősegítésére irányuló tevékenység, amely nem terjed ki az ügyfél nevében, javára történő kockázatvállalásra.
 
@@ -270,7 +276,7 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 16. Nettó érték: kizárólag a 79. § (2) és (7) bekezdés, a 83. § (1)–(3) bekezdés, valamint a 85. § (1) bekezdés alkalmazásában az adott eszközből, illetve kötelezettségvállalásból kifolyólag fennálló kockázatvállalás könyv szerinti bruttó értékének (az eszközök bekerülési értékének, illetve a kötelezettségvállalás szerződés szerinti értékének) az elszámolt értékvesztéssel, értékcsökkenéssel, illetőleg a megképzett kockázati céltartalékkal csökkentett összege.
 
-17. Szavatoló tőke: a hitelintézetnek a számviteli jogszabályok által meghatározott saját tőkéje és azok a források, amelyek a hitelintézettel szemben fennálló követelések kielégítésébe tőkeként bevonhatók.
+17. Szavatoló tőke: a hitelintézetnek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek a számviteli jogszabályok által meghatározott saját tőkéje és azok a források, amelyek a hitelintézettel, pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel szemben fennálló követelések kielégítésébe tőkeként bevonhatók.
 
 18. Személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.
 
@@ -320,11 +326,13 @@ e) az alapítványi formában működő pénzügyi vállalkozás esetén a kurat
 
 f) pénzforgalmi intézmény esetén a pénzforgalmi intézmény pénzforgalmi szolgáltatási üzletág irányításáért felelős személy, valamint valamennyi helyettese;
 
-g) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese.
+g) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
+
+h) elektronikuspénz-kibocsátó intézmény esetén az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátás szolgáltatási üzletág irányításáért felelős személy, valamint valamennyi helyettese.
 
 26. Eszköz fenntartási mutató: olyan százalék formájában kifejezett hányados, amelynek számlálójában a fióktelep formájában működő pénzügyi intézmény Magyarországon meglévő pénzeszközeinek, a tulajdonában álló és harminc napon belül készpénzzé tehető értékpapírok piaci értékének, valamint problémamentes vagy külön figyelendőnek minősített hiteleinek és befektetéseinek összege, nevezőjében pedig a fióktelep Magyarországon vállalt kötelezettségei szerepelnek.
 
-27. Főiroda: az a hely, ahol a pénzügyi intézmény, a pénzforgalmi intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik.
+27. Főiroda: az a hely, ahol a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik.
 
 28. Dotációs tőke: a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke.
 
@@ -370,15 +378,17 @@ Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezésne
 
 a) hitelintézet esetén ha a hitelintézet a pénzügyi, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó, illetőleg jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel vagy jogi személyiséggel nem rendelkező gazdasági társasággal kizárólagos szerződést köt;
 
-b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi intézmény és egy személy között, amelynek keretében e személy olyan pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként a pénzforgalmi intézmény maga végezne.
+b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi intézmény és egy személy között, amelynek keretében e személy olyan pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként a pénzforgalmi intézmény maga végezne;
+
+c) elektronikuspénz-kibocsátó intézmény esetén olyan megállapodás egy elektronikuspénz-kibocsátó intézmény és egy személy között, amelynek keretében e személy olyan elektronikuspénz-kibocsátási vagy visszaváltási szolgáltatás nyújtásának vagy pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként az elektronikuspénz-kibocsátó intézmény maga végezne.
 
 42. ,,A'' zónába tartozó ország: minden ország, amely teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak, vagy amely speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valuta Alapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és amely a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetőleg nem függesztette fel.
 
-43. Határon átnyúló szolgáltatás: a pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, állandó lakóhelye sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény székhelye, telephelye, főirodája, fióktelepe.
+43. Határon átnyúló szolgáltatás: a pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, állandó lakóhelye sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelye, telephelye, főirodája, fióktelepe.
 
-44. Harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdése a), b), d) vagy e) pontjában foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
+44. Harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdése a), b), d) e) vagy f) pontjában foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
 
-45. Harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdésének b)–c) és f)–l) pontjában, valamint a (2) bekezdésében foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
+45. Harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdésének b)–c) és g)–l) pontjában, valamint a (2) bekezdésében foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
 
 46. Harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás.
 
@@ -431,6 +441,8 @@ b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azo
 65. Teljesítményjavadalmazás: a hitelintézet és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a hitelintézet, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a hitelintézet pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
 
 66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
+
+67. Átlagos kinnlevő elektronikuspénz-állomány: az adott naptári nap végén kibocsátott elektronikus pénzre vonatkozó, az azt megelőző hat naptári hónap pénzügyi kötelezettségei mindenkori teljes összegének átlaga, amelynek kiszámítása során az adott hónapra vonatkozó pénzügyi kötelezettségnek az egyes naptári hónapok első naptári napján fennálló pénzügyi kötelezettség tekintendő.
 
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
@@ -526,6 +538,6 @@ V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
 
 2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
 
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
+3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
 
 4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.

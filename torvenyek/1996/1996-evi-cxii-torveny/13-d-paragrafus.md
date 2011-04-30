@@ -1,6 +1,6 @@
 ## Irányítási rendszer és kockázatkezelési követelmények
 
-13/D. § (1) A hitelintézetnek és a pénzforgalmi intézménynek a mérete, az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenysége jellege, nagyságrendje és összetettsége arányában megbízható irányítási rendszerrel kell rendelkeznie, amelynek keretén belül köteles
+13/D. § (1) A hitelintézetnek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek a mérete, az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenysége jellege, nagyságrendje és összetettsége arányában megbízható irányítási rendszerrel kell rendelkeznie, amelynek keretén belül köteles
 
 a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíteni,
 

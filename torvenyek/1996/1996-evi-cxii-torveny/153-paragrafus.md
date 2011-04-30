@@ -1,6 +1,6 @@
 ## Intézkedések
 
-153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
+153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
 
 a) a vezető állású személlyel folytatott tárgyalás keretében a pénzügyi intézményt felhívhatja, hogy tegye meg a szükséges intézkedéseket
 
