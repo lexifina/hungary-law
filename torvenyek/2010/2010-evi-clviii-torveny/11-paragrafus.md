@@ -4,7 +4,7 @@
 
 a) hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
 
-b) harmadik országban székhellyel rendelkező hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
+b) harmadik országban székhellyel rendelkező hitelintézet, elektronikuspénz- kibocsátó intézmény, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
 
 c) olyan európai befektetési alapot kezelő alapkezelő számára kiadott engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 

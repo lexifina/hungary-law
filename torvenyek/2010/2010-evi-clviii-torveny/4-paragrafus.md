@@ -32,7 +32,7 @@ o) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. tör
 
 p) a 7. § p) pontjában meghatározottak szerint a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.),
 
-q) az elektronikus pénzt kibocsátó szakosított hitelintézetről szóló 2004. évi XXXV. törvény
+q)
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
