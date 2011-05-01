@@ -14,8 +14,9 @@ b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési
 
 (4) A Gyftv. 32/A. §-a szerinti eljárásokban az OEP kilencven napon belül dönt.
 
-(5) A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az illetékes szakmai kollégium, az Egészségügyi Stratégiai Kutató Intézet és a minőségtanúsításra kijelölt szervezet véleményét.
+(5)[^106] A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az illetékes szakmai kollégium, valamint a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet véleményét.
 
 (6) A Gyftv. 32. § (4) bekezdése szerinti eljárásokban az OEP kikéri a kérelem tárgya szerinti illetékes szakmai kollégium véleményét.
 
 [^105]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^106]: A Vhr. 7/C. § (5) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## Méltányosságból engedélyezhető gyógyszerek, gyógyászati segédeszközök köre és ártámogatása[^176]
+## Méltányosságból engedélyezhető gyógyszerek, gyógyászati segédeszközök köre és ártámogatása[^177]
 
-11/D. §[^177] (1)[^178] A biztosított az Ebtv. 26. §-a szerinti méltányossági kérelmet az OEP-nél, az e § (3) bekezdése szerinti esetben pedig az OEP-nél nyújthatja be.
+11/D. §[^178] (1)[^179] A biztosított az Ebtv. 26. §-a szerinti méltányossági kérelmet az OEP-nél, az e § (3) bekezdése szerinti esetben pedig az OEP-nél nyújthatja be.
 
-(2)[^179] A kérelemnek tartalmaznia kell a biztosított nevét, címét, TAJ-át, valamint – a b) pont bb) alpontját kivéve – a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, egyedi gyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
+(2)[^180] A kérelemnek tartalmaznia kell a biztosított nevét, címét, TAJ-át, valamint – a b) pont bb) alpontját kivéve – a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, egyedi gyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
 
 a) három hónapnál nem régebbi kórtörténeti összefoglalót, amely igazolja, hogy a kérelmező kizárólag az igényelt termékkel, illetve ellátással kezelhető vagy látható el;
 
@@ -20,11 +20,11 @@ cb) támogatásba be nem fogadott gyógyászati segédeszköz esetén a magyaror
 
 cc) a rendelésre jogosult orvos igazolását, ha a biztosított ellátásához az adott kihordási időre rendelhető gyógyászati segédeszköz-mennyiség nem elegendő;
 
-cd)[^180] az Ebtv. 26. § (1) bekezdés d) pontja esetében a biztosított nyilatkozatát, melyben megnevezi azt a korábban méltányosságból támogatott gyógyászati segédeszközt, amely javítási díjához kéri a támogatást, és megjelöli, hogy a javítandó eszköz tekintetében mikor részesült méltányosságból támogatásban;
+cd)[^181] az Ebtv. 26. § (1) bekezdés d) pontja esetében a biztosított nyilatkozatát, melyben megnevezi azt a korábban méltányosságból támogatott gyógyászati segédeszközt, amely javítási díjához kéri a támogatást, és megjelöli, hogy a javítandó eszköz tekintetében mikor részesült méltányosságból támogatásban;
 
 d) a biztosított jövedelméről szóló jövedelemigazolást.
 
-(3)[^181] A külön jogszabály szerinti indikáción túli gyógyszerrendelés szabályai alapján rendelt, illetve a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez
+(3)[^182] A külön jogszabály szerinti indikáción túli gyógyszerrendelés szabályai alapján rendelt, illetve a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez
 
 a) abban az esetben, ha az adott
 
@@ -38,18 +38,18 @@ b) az a) pont alá nem tartozó gyógyszer esetén a (2) bekezdésben – a fekv
 
 kell mellékelni.
 
-(4)[^182] Az OEP határozatát megküldi a kezelőorvosnak, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárnak, gyártónak vagy forgalmazónak. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, a fizetendő térítési díj mértékét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
+(4)[^183] Az OEP határozatát megküldi a kezelőorvosnak, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárnak, gyártónak vagy forgalmazónak. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, a fizetendő térítési díj mértékét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
 
-(5)[^183] A (3) bekezdés a) pontja szerinti kérelmet az OEP tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
+(5)[^184] A (3) bekezdés a) pontja szerinti kérelmet az OEP tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
 
-(6)[^184]
+(6)[^185]
 
-[^176]: A Vhr. 11/D. § előtti alcímét a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 113/2005. (VI. 25.) Korm. rendelet 11. §-ával megállapított, a 366/2010. (XII. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^177]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^178]: A Vhr. 11/D. § (1) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 10. pontja szerint módosított szöveg.
-[^179]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
-[^180]: A Vhr. 11/D. § (2) bekezdés c) pont cd) alpontját a 366/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^181]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^182]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A (4) bekezdést a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 14. § 12. pontja szerint módosított szöveg.
-[^183]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
-[^184]: A Vhr. 11/D. § (6) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be, hatályon kívül helyezte a 336/2009. (XII. 29.) Korm. rendelet 19. § (7) bekezdés b) pontja.
+[^177]: A Vhr. 11/D. § előtti alcímét a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 113/2005. (VI. 25.) Korm. rendelet 11. §-ával megállapított, a 366/2010. (XII. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^178]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^179]: A Vhr. 11/D. § (1) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 10. pontja szerint módosított szöveg.
+[^180]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
+[^181]: A Vhr. 11/D. § (2) bekezdés c) pont cd) alpontját a 366/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^182]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^183]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A (4) bekezdést a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 14. § 12. pontja szerint módosított szöveg.
+[^184]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
+[^185]: A Vhr. 11/D. § (6) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be, hatályon kívül helyezte a 336/2009. (XII. 29.) Korm. rendelet 19. § (7) bekezdés b) pontja.

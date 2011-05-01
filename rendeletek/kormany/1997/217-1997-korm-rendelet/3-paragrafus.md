@@ -2,7 +2,7 @@
 
 (2)[^42] A biztosítottat a járóbeteg-szakellátás keretében igénybe vehető laboratóriumi vizsgálatokra az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 2. mellékletében külön jelzéssel ellátott, továbbá a járóbeteg-szakellátás tevékenységi kódlistájának alkalmazásáról szóló Szabálykönyvben meghatározott esetekben kizárólag a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. Azon laboratóriumi vizsgálatok megismétlése, amelyekre a járóbeteg-szakellátás tevékenységi kódlistájának alkalmazásáról szóló Szabálykönyv rendelkezéseket tartalmaz, az abban előírt gyakorisággal kezdeményezhető, kivéve, ha az ettől való eltérést a biztosított egészségi állapota indokolja.
 
-(3)[^43] A biztosítottat fekvőbeteg-gyógyintézeti ellátásra a 2. § (2) és (4) bekezdésében meghatározott orvos utalhatja be.
+(3)[^43] A biztosítottat fekvőbeteg-gyógyintézeti ellátásra a 2. § (2) bekezdésében meghatározott orvos utalhatja be.
 
 (4)[^44] A biztosítottat
 
@@ -26,7 +26,7 @@ utalhatja be.
 
 [^41]: A Vhr. 3. § (1) bekezdése a 16/2008. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^42]: A Vhr. 3. §-ának új (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(6) bekezdésének számozását (3)–(7) bekezdésre változtatta.
-[^43]: A Vhr. 3. §-ának eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
+[^43]: A Vhr. 3. §-ának eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A (3) bekezdés a 73/2011. (IV. 29.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
 [^44]: A Vhr. 3. §-ának (3) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg, számozását (4) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
 [^45]: A Vhr. 3. §-ának (4) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg, számozását (5) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A 113/2005. (VI. 25.) Korm. rendelet 18. § (2) bekezdése alapján 2006. július 1-jén lép hatályba azzal, hogy a beutalási rend új szabályait 2007. január 1-jétől kell alkalmazni.
 [^46]: A Vhr. 3. §-ának (5) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.

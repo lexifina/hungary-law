@@ -60,7 +60,7 @@ m)[^35]
 
 (3)[^36] A foglalkozás-egészségügyi szolgálatok orvosa járóbeteg-szakellátásra a biztosítottat a foglalkozás-egészségügyi szolgáltatásról szóló 27/1995. (VII. 25.) NM rendeletben foglalt feladatai keretében utalhatja be.
 
-(4)[^37]
+(4)[^37] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató orvosa a 0–4 napos életkorban jogszabály szerint kötelező szűrővizsgálatok elvégzése érdekében jogosult beutalásra.
 
 (5) A társadalombiztosítási ellátásra, a külön jogszabályban meghatározott szociális juttatásra vagy kedvezményre való jogosultság megállapítása céljából a biztosított orvosi beutaló nélkül jogosult felkeresni a vonatkozó jogszabály szerint a szakvélemény (igazolás) elkészítésére jogosult egészségügyi szolgáltatót.
 
@@ -85,7 +85,7 @@ m)[^35]
 [^34]: A Vhr. 2. §-a (2) bekezdésének l) pontját a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése. Újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg.
 [^35]: A Vhr. 2. § (2) bekezdésének m) pontját a 281/2004. (X. 20.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése 2007. január 1. napjával.
 [^36]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^37]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^37]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^38]: A Vhr. 2. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^39]: A Vhr. 2. §-ának (7) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
 [^40]: A Vhr. 2. §-ának (8) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be.
