@@ -30,7 +30,7 @@
 
 ## – az útvonalengedély kiadásához szükséges egyéb adatok.
 
-3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^11]
+3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^17]
 
 Magyar Köztársaság
 
@@ -46,7 +46,7 @@ CÍMZETT megnevezése
 
 Állomáshely megnevezése
 
-Tárgy: Értesítés, engedély[^12]
+Tárgy: Értesítés, engedély[^18]
 
 A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján értesítem és hivatalosan igazolom, hogy a ……… számú csapatmozgásra vonatkozó diplomáciai engedélykérelem alapján a Magyar Köztársaság Kormánya a ………… számú határozatában a ……… (kérelmező állam megnevezése) Fegyveres Erői Kötelékébe tartozó egység mozgását a Magyar Köztársaság területén(re, keresztül) engedélyezte.
 
@@ -82,5 +82,5 @@ helye
 
 Záradék
 
-[^11]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja szerint módosított szöveg.
-[^12]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.
+[^17]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja szerint módosított szöveg.
+[^18]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.

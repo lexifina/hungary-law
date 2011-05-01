@@ -1,4 +1,4 @@
-1. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^10]
+1. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^15]
 
 ## Csapatmozgások közjogi engedélyezéséhez szükséges adatok
 
@@ -8,8 +8,9 @@
 
 3. A csapatmozgásban érintett katonák összlétszáma legfeljebb.
 
-4. Rendezvény tervezett helyszíne (Magyarországon a tevékenység tervezett helye, külföldön a rendeltetési ország).
+4.[^16] A rendezvény tervezett helyszíne az ország megjelölésével.
 
 5. Ha a csapatmozgás jellege indokolja, a résztvevők váltása érdekében többszöri határátlépés lehetősége.
 
-[^10]: Az 1. számú melléklet a 41/2002. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: Az 1. számú melléklet a 41/2002. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 4. pontja a 64/2011. (IV. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
