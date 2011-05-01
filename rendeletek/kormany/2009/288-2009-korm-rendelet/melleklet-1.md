@@ -1170,27 +1170,25 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 
 | 2083 | Tüdőbeteg-gondozók éves jelentése | AÁ | Évenkénti | Országos Korányi TBC és Pulmonológiai Intézet | a tárgyévet követő március 31. |  |  |
 
-| 2084 | A bőr és nemibeteg gondozók működési mutatói | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő április 30 |  |  |
+| 2084 | A bőr és nemibeteg gondozók működési mutatói | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő április 30 |  |  |
 
 | 2085 | Jelentés az onkológiai tevékenységről | AÁ | Évenkénti | Országos Onkológiai Intézet | a tárgyévet követő június 15. |  |  |
 
-| 2086 | A pszichiátriai gondozók jelentése | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő március 31. |  |  |
+| 2086 | A pszichiátriai gondozók jelentése | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő március 31. |  |  |
 
-| 2087 | Védőnői jelentés összesítője | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő április 28. |  |  |
+| 2087 | Védőnői jelentés összesítője | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő április 28. |  |  |
 
-| 2088 | Jelentés az addiktológiai betegek gondozásáról | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő március 31. |  |  |
+| 2088 | Jelentés az addiktológiai betegek gondozásáról | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő március 31. |  |  |
 
 | 2095 | Jelentés a diplomával rendelkezők szakvizsgáiról | AÁ | Évenkénti | Nemzeti Vizsgabizottság | a tárgyévet követő január 31. |  |  |
 
-| 2096 2100 | Kimutatás a bőr - és nemibeteg-gondozókban kezelt szexuális úton terjedő betegségekről Jelentés az iskola-egészségügyi ellátásról | AÁ AÁ | Évenkénti Évenkénti | Országos Epidemiológiai Központ Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő április 30. a tárgyévet követő december 20. |  |  |
+| 2096 2100 | Kimutatás a bőr - és nemibeteg-gondozókban kezelt szexuális úton terjedő betegségekről Jelentés az iskola-egészségügyi ellátásról | AÁ AÁ | Évenkénti Évenkénti | Országos Epidemiológiai Központ Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő április 30. a tárgyévet követő december 20. |  |  |
 
-| 2101 | Összesítő jelentés a veleszületett rendellenességgel sújtott újszülöttekről (csecsemőkről) | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ - Veleszületett Rendellenességek Országos Felügyeleti Osztálya | a tárgyévet követő április 30. |  |  |
+| 2101 | Összesítő jelentés a veleszületett rendellenességgel sújtott újszülöttekről (csecsemőkről) | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet - Veleszületett Rendellenességek Országos Felügyeleti Osztálya | a tárgyévet követő április 30. |  |  |
 
-| 2105 | Jelentés a kábítószer fogyasztókról és | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő június 15. |  |  |
+| 2105 | Jelentés a kábítószer fogyasztókról és kezelésükről | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő június 15. |  |  |
 
-| kezelésükről |  |  |  |  |  |
-
-| 2108 | Jelentés az otthoni szakápolási tevékenységről | AÁ | Évenkénti | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő április 30. |  |  |
+| 2108 | Jelentés az otthoni szakápolási tevékenységről | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő április 30. |  |  |
 
 | 2120 | Egészségügyi kiadás és bevétel adatok | AGY | Évenkénti | Minisztériumok, melyek felügyelete alá | a tárgyévet követő május 31. | 1338/2008/EK | Rendelet |
 
@@ -1200,7 +1198,7 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 
 |  |  | Országos Egészségbiztosítási Pénztár, |  |  |  |
 
-|  |  | Egészségügyi Stratégiai Kutatóintézet |  |  |  |
+|  |  | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet |  |  |  |
 
 | 2123 | Jelentés a járóbetegellátás valós | AÁ | Negyedévenkénti | Országos Egészségbiztosítási Pénztár | a tárgynegyedévet követő | 2002/990/EK | Határozat |
 
@@ -1264,7 +1262,7 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 
 |  |  |  |  | 696/93/EGK | Rendelet |
 
-| 2159 | Járóbeteg szakellátás betegforgalmi kimutatása | AÁ | Évenkénti | Egészségügyi Stratégiai Kutatóintézet | a tárgyévet követő június 30. |  |  |
+| 2159 | Járóbeteg szakellátás betegforgalmi kimutatása | AÁ | Évenkénti | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | a tárgyévet követő június 30. |  |  |
 
 | 2160 | Vízi, légi és csővezetékes szállítási | AGY | Negyedévenkénti | csővezetékes szállítás, vízi szállítás és légi | a tárgynegyedévet követő hó 15. |  |  |
 
@@ -1373,4 +1371,4 @@ Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 | Országos Statisztikai Adatgyűjtési Program Adatkörök |
 
 [^8]: A 7. § az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^9]: Az 1. melléklet a 257/2010. (XI. 9.) Korm. rendelet 3. §-ával megállapított, a 332/2010. (XII. 27.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet a 257/2010. (XI. 9.) Korm. rendelet 3. §-ával megállapított, a 332/2010. (XII. 27.) Korm. rendelet 34. §-a, az 59/2011. (IV. 12.) Korm. rendelet 19. §-a szerint módosított szöveg.
