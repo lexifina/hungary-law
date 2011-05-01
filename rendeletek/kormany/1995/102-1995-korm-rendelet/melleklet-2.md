@@ -57,4 +57,4 @@
 2. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^43]
 
 [^42]: Lásd 1999. MK 71. szám 4579–4580. oldal.
-[^43]: A 2. számú melléklet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (2) bekezdésével, valamint 2. számú mellékletével megállapított szöveg.
+[^43]: A 2. számú melléklet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (2) bekezdésével, valamint 2. számú mellékletével megállapított, a 73/2011. (IV. 29.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

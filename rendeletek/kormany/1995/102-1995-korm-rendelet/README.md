@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | --- | --- | --- |
 | 2009-10-01 | 1995-102-20-22.9 | 102/1995. (VIII. 25.) Korm. rendelet |
 | 2011-01-01 | 1995-102-20-22.10 | 252/2003. (XII. 23.) Korm. rendelet |
+| 2011-05-01 | 1995-102-20-22.11 | 127/1999. (VIII. 13.) Korm. rendelet |

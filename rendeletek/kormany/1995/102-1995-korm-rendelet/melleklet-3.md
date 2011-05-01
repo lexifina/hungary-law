@@ -42,21 +42,23 @@
 
 | Táppénz jellege (TP. jell.) | Kód |
 
-| Üzemi baleset | „1” |
+| Üzemi baleset | „1 |
 
-| Foglalkozási megbetegedés | „2” |
+| Foglalkozási megbetegedés | „2 |
 
-| Közúti baleset | „3” |
+| Közúti baleset | „3 |
 
-| Egyéb baleset | „4” |
+| Egyéb baleset | „4 |
 
-| Beteg gyermek ápolása | „5” |
+| Beteg gyermek ápolása | „5 |
 
-| Terhesség-szülés miatti keresőképtelenség | „6” |
+| Terhesség-szülés miatti keresőképtelenség | „6 |
 
-| Közegészségügyi okból foglalkozástól eltiltás vagy hatósági elkülönítés | „7” |
+| Közegészségügyi okból foglalkozástól eltiltás vagy hatósági elkülönítés | „7 |
 
-| Egyéb keresőképtelenség, illetve veszélyeztetett terhesség | „8" |
+| Egyéb keresőképtelenség | „8 |
+
+| Veszélyeztetett terhesség | „9 |
 
 3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^44]
 
