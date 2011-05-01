@@ -1,6 +1,6 @@
 ## Betegszabadság
 
-137. § (1) A munkavállalót a betegsége miatti keresőképtelenség idejére — ide nem értve a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenséget — naptári évenként tizenöt munkanap betegszabadság illeti meg.
+137. § (1) A munkavállalót a betegsége miatti keresőképtelenség idejére – ide nem értve a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenséget, valamint a veszélyeztetett terhesként történő gondozásba vételt követő, terhesség miatti kereső képtelenséget – naptári évenként tizenöt munkanap betegszabadság illeti meg.
 
 (2) A munkavállaló keresőképtelenségét — a keresőképesség orvosi elbírálásáról szóló rendelkezéseknek megfelelően — a kezelőorvos igazolja.
 
