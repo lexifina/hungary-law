@@ -30,6 +30,14 @@
 
 | 7. | A védett és fokozottan védett területek (Natura 2000) állapotára, továbbá a tájvédelemre vonatkozó szakkérdés | Nemzeti Park Igazgatóság |
 
+| 8. | Növényvédő szer, rovar és rágcsálók irtására alkalmas anyag maradékának meghatározása élelmiszerben és egyéb anyagban élelmezés-egészségügyi szempontból | Mezőgazdasági Szakigazgatási Hivatal |
+
+| 9. | Állategészségügyi vizsgálatok: a) állat- és takarmánymérgezésnél állati hullarész, takarmány-, és méregmaradvány vizsgálata, b) állatok oltási balesetei, állatgyógyászati oltó- és kórjelző anyagok vizsgálata c) állat és takarmányféleség bakteriológiai vizsgálata | Mezőgazdasági Szakigazgatási Hivatal |
+
+| 10. | Munkabiztonsági vizsgálatok: a) súlyos munkabalesetek vizsgálata b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Országos Munkavédelmi és Munkaügyi Főfelügyelőség |
+
+| 11. | Gyógyszerek vizsgálata | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) |
+
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
 Szakvélemény adására feljogosított szervek

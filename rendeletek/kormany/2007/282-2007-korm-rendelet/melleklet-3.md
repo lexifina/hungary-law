@@ -24,23 +24,21 @@
 
 |  | d) gombamérgezés esetén ételmaradék és gombamaradvány vizsgálata | Országos Élelmezés- és Táplálkozástudományi Intézet (OÉTI) |
 
-|  | e) növényvédő szer, rovar és rágcsálók irtására alkalmas anyag maradékának meghatározása élelmiszerben és egyéb anyagban élelmezés-egészségügyi szempontból | Mezőgazdasági Szakigazgatási Hivatal |
+|  | e) |  |
 
 |  | f) gyermekjáték, csomagoló- és tárolóanyag, kozmetikai készítmény toxikológiai vizsgálata | Országos Élelmezés- és Táplálkozástudományi Intézet (OÉTI) |
 
 |  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | ISZKI Toxikológiai Intézet Országos Kémiai Biztonsági Intézet (OKBI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
-| 4. | Állategészségügyi vizsgálatok: |  |
+| 4. |  |  |
 
-|  | a) állat- és takarmánymérgezésnél állati hullarész, takarmány-, és méregmaradvány vizsgálata b) állatok oltási balesetei, állatgyógyászati oltó- és kórjelző anyagok vizsgálata c) állat és takarmányféleség bakteriológiai vizsgálata | Mezőgazdasági Szakigazgatási Hivatal |
-
-| 5. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti Intézet (OGYI) |
+| 5. |  |  |
 
 | 6. | Lőfegyverrel elkövetett bűncselekmény esetén az ismeretlen lőfegyverek, töltényhüvelyek és lövedékek azonosítási vizsgálata | Bűnügyi Szakértői és Kutatóintézet |
 
 | 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos „Frédéric Joliot-Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézet (OSSKI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
-| 8. | Munkavédelmi vizsgálatok: a) súlyos munkabalesetek vizsgálata b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 2/2002. (II. 7.) SZCSM rendelet 4. §-ának (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Országos Munkavédelmi és Munkaügyi Főfelügyelőség |
+| 8. |  |  |
 
 | 9. | Bankjegyre, pénzérmére, készpénz-helyettesítő fizetési eszközre vonatkozó, valamint a pénzforgalommal kapcsolatos szakkérdés | Magyar Nemzeti Bank |
 
@@ -52,4 +50,4 @@
 
 3. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^8]
 
-[^8]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja szerint módosított szöveg.
+[^8]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja, az 59/2011. (IV. 12.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
