@@ -4,7 +4,7 @@ a) a biztosíték tárgyának értéke és az ügyfél hitelminősítése közö
 
 b) a biztosíték érvényesítésére vonatkozó átlátható és megbízható eljárás érdekében a biztosítéki megállapodás megfelelően dokumentált, valamint
 
-c)[^32] a biztosítékkal egy harmadik fél rendelkezik, akkor a hitelintézet minden szükséges intézkedést megtesz annak érdekében, hogy a harmadik fél a biztosíték tárgyát saját eszközeitől elkülönítve tartsa.
+c)[^33] a biztosítékkal egy harmadik fél rendelkezik, akkor a hitelintézet minden szükséges intézkedést megtesz annak érdekében, hogy a harmadik fél a biztosíték tárgyát saját eszközeitől elkülönítve tartsa.
 
 (2) A pénzügyi biztosíték hitelkockázati fedezetként történő elismerésének további feltétele, hogy a hitelintézet
 
@@ -20,4 +20,4 @@ e) legalább hathavonta vagy az értékben való jelentős csökkenés esetén a
 
 (3) A pénzügyi biztosítékok egyszerű módszerét alkalmazó hitelintézet az (1)–(2) bekezdésben meghatározott feltételek teljesülésén túl, akkor ismerheti el a pénzügyi biztosítékot hitelkockázati fedezetként, ha annak hátralévő futamideje eléri a kitettség hátralévő futamidejét.
 
-[^32]: A 114. § (1) bekezdésének c) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (9) bekezdésével megállapított szöveg.
+[^33]: A 114. § (1) bekezdésének c) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (9) bekezdésével megállapított szöveg.

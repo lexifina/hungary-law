@@ -24,9 +24,9 @@ d) a hitelnyújtó hitelintézet nem rendelkezik olyan információval, amely a 
 
 e) esetében az értékpapír likviditása (értékesíthetősége, átruházhatósága) megfelelő.
 
-(3)[^28] A 99. §-ban említett bármely számítási módszer alkalmazása esetén hitelkockázati fedezetként elismerhető pénzügyi biztosíték tárgya olyan kollektív befektetési értékpapír is lehet, amelynek nyilvánosan meghirdetett napi árfolyama van, és amelyhez tartozó kollektív befektetési forma – a (3a) bekezdésben meghatározott eltéréssel – kizárólag az (1)–(2) bekezdés szerinti elismerhető hitelkockázati fedezetbe, valamint fedezeti célú származtatott eszközbe fektet be.
+(3)[^29] A 99. §-ban említett bármely számítási módszer alkalmazása esetén hitelkockázati fedezetként elismerhető pénzügyi biztosíték tárgya olyan kollektív befektetési értékpapír is lehet, amelynek nyilvánosan meghirdetett napi árfolyama van, és amelyhez tartozó kollektív befektetési forma – a (3a) bekezdésben meghatározott eltéréssel – kizárólag az (1)–(2) bekezdés szerinti elismerhető hitelkockázati fedezetbe, valamint fedezeti célú származtatott eszközbe fektet be.
 
-(3a)[^29] Ha a kollektív befektetési értékpapír nem kizárólag a (3) bekezdésben foglalt eszközökbe fektet be, akkor is elismerhető hitelkockázati fedezetként annak feltételezésével, hogy a kollektív befektetési forma a kezelési szabályzata által megengedett legnagyobb mértékben nem elismert eszközökbe fektet. Ha a nem elismert eszközökből eredő kötelezettségek vagy függő kötelezettségek negatív értékkel is rendelkezhetnek, a hitelintézet kiszámítja a nem elismert eszközök teljes értékét és amennyiben ez negatív, úgy az elismert eszközök értékét is csökkenti ezen értékkel.
+(3a)[^30] Ha a kollektív befektetési értékpapír nem kizárólag a (3) bekezdésben foglalt eszközökbe fektet be, akkor is elismerhető hitelkockázati fedezetként annak feltételezésével, hogy a kollektív befektetési forma a kezelési szabályzata által megengedett legnagyobb mértékben nem elismert eszközökbe fektet. Ha a nem elismert eszközökből eredő kötelezettségek vagy függő kötelezettségek negatív értékkel is rendelkezhetnek, a hitelintézet kiszámítja a nem elismert eszközök teljes értékét és amennyiben ez negatív, úgy az elismert eszközök értékét is csökkenti ezen értékkel.
 
 (4) A hitelintézet ügyfele által vagy kapcsolt vállalkozása által kibocsátott, hitelviszonyt megtestesítő értékpapír fedezetként nem ismerhető el.
 
@@ -34,5 +34,5 @@ e) esetében az értékpapír likviditása (értékesíthetősége, átruházhat
 
 (6) Az (1) bekezdés b)–e) pontja vonatkozásában a 22. § (6)–(7) bekezdését megfelelően alkalmazni kell.
 
-[^28]: A 100. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^29]: A 100. § (3a) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^29]: A 100. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^30]: A 100. § (3a) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 20. § (2) bekezdése iktatta be.

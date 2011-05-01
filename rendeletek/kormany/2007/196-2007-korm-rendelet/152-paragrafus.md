@@ -1,6 +1,6 @@
 152. § (1) A 107. § a) pontja szerinti hitelkockázati fedezet, ha megfelel a 118. § (1) bekezdés szerinti feltételeknek, akkor harmadik fél hitelintézet által nyújtott garanciaként veendő figyelembe.
 
-(2)[^44] A 107. § b) pontja szerinti hitelkockázati fedezet, ha megfelel a 118. § (2) bekezdés szerinti feltételeknek, akkor az életbiztosítási kötvény visszavásárlási értéke által fedezett elismert érték
+(2)[^45] A 107. § b) pontja szerinti hitelkockázati fedezet, ha megfelel a 118. § (2) bekezdés szerinti feltételeknek, akkor az életbiztosítási kötvény visszavásárlási értéke által fedezett elismert érték
 
 a) a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásakor az életbiztosítási kötvényt kibocsátóhoz rendelt következő kockázati súly:
 
@@ -20,4 +20,4 @@ a) az értékpapír névértéke, ha névértéken kerül visszavásárlásra, v
 
 b) 100. § (2) bekezdésben meghatározott értékpapírokra vonatkozó értékelési módszer alapján kiszámított érték, ha az értékpapír piaci áron kerül visszavásárlásra.
 
-[^44]: A 152. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^45]: A 152. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.

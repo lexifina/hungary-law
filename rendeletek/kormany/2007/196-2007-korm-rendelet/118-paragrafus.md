@@ -6,7 +6,7 @@ b) az a hitelintézet, amelynél az óvadékot vagy a letétet elhelyezték, kif
 
 c) az óvadék feltétlen és visszavonhatatlan.
 
-(2)[^33] Nemteljesítés esetére fedezetet nyújtó életbiztosítási szerződés (kötvény) – amelyből eredő követelések jogosultja a hitelnyújtó hitelintézet – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
+(2)[^34] Nemteljesítés esetére fedezetet nyújtó életbiztosítási szerződés (kötvény) – amelyből eredő követelések jogosultja a hitelnyújtó hitelintézet – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
 
 a) az életbiztosítási szerződésből (kötvényből) eredő pénzköveteléseket a hitelnyújtó hitelintézetre engedményezték vagy azokra a hitelnyújtó hitelintézetnek zálogjoga van,
 
@@ -28,4 +28,4 @@ i) a visszavásárlási érték kifizetésére a hitelintézet beleegyezése né
 
 j) az életbiztosító az Európai Unió valamely tagállamában tevékenységi engedélyt szerzett biztosító, vagy az Európai Unióban alkalmazott felügyeleti és szabályozási rendelkezésekkel legalább egyenértékű rendelkezéseket alkalmazó harmadik ország illetékes hatóságának felügyelete alá tartozik.
 
-[^33]: A 118. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^34]: A 118. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
