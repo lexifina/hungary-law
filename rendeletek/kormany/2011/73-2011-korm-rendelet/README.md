@@ -1,0 +1,9 @@
+# 73/2011. (IV. 29.) Korm. rendelet
+
+az egyes egészségügyi tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-73-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-05-01 | 2011-73-20-22.1 | 73/2011. (IV. 29.) Korm. rendelet |
