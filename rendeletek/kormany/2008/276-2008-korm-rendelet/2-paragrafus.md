@@ -2,9 +2,9 @@
 
 a) külföldi fegyveres erő: a Honvédség kivételével valamely állam fegyveres ereje személyi állománya tagjainak összessége, ideértve a szárazföldi, haditengerészeti vagy légierőhöz tartozó katonai személyi állományt, valamint az adott fegyveres erő polgári alkalmazottait;
 
-b) magyar harmadik fél: a Honvédség személyi állományába nem tartozó magyar állampolgár vagy a Magyar Köztársaság területén szokásos tartózkodási hellyel rendelkező természetes személy, illetőleg székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
+b)[^2] magyar harmadik fél: olyan természetes személy, valamint a Honvédség kivételével olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet, akit a Magyar Köztársaság területén kár ér, kivéve a Honvédség hivatásos, szerződéses vagy önkéntes tartalékos állományába tartozó azon személyt, aki szolgálatteljesítés teljesítés közben veszti életét vagy szenved személyi sérülést;
 
-c) külföldi harmadik fél: az a) pont hatálya alá nem tartozó külföldi állampolgár vagy hontalan, illetőleg külföldön székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
+c)[^3] külföldi harmadik fél: az a) és a b) pont hatálya alá nem tartozó természetes személy, valamint jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
 
 d) szolgálati igazolás: a külföldi fegyveres erő illetékes szerve által kiadott írásos nyilatkozat az alábbiakról:
 
@@ -15,3 +15,6 @@ db) a károkozás szolgálati tevékenység ellátása közbeni cselekmény vagy
 dc) gépjárművel történt károkozás esetén, a gépjármű a külföldi fegyveres erő tulajdonában áll-e vagy általa üzemeltetett, illetve a gépjárműhasználat engedélyezett volt-e.
 
 (2) A Honvédség által a jelen rendelet alapján megfizetett nemzetközi kártérítéseket – az 5. § (5) bekezdése és a 9. § (5) bekezdése szerinti kifizetések kivételével – a Honvédséget mint munkáltatót ért kárnak kell tekinteni.
+
+[^2]: A 2. § (1) bekezdés b) pontja a 64/2011. (IV. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja a 64/2011. (IV. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -12,6 +12,12 @@
 
 (6) Amennyiben a külföldi fegyveres erők károkozásért való felelőssége a dokumentumok alapján egyértelműen megállapítható, a külföldi fél azonban a szolgálati igazolásban a károkozásért való felelősséget nem vállalja el és méltányosságon alapuló (ex gratia) fizetést sem ajánl fel, a Honvédelmi Minisztérium illetékes szerve intézkedhet egy általa megállapított kártérítési összeg kifizetésére a károsult részére.
 
-(7) Amennyiben a külföldi fegyveres erő kifizetést nem ajánl fel, vagy a károsult a (3), (5) vagy (6) bekezdés szerint felajánlott összeget kárigényének teljes kielégítéseként nem fogadja el, kárigényét peres úton a Magyar Állammal szemben is érvényesítheti. E lehetőségről a Honvédelmi Minisztérium illetékes szerve a károsultat tájékoztatja.
+(7)[^5] Ha a külföldi fegyveres erő a károkozásért való felelősséget nem vállalja és kifizetést sem ajánl fel vagy a károsult az (5) bekezdés szerint felajánlott összeget kárigényének teljes kielégítéseként nem fogadja el, a károsult a kárigényét közvetlenül a külföldi fegyveres erő állományának tagjával szemben érvényesítheti.
 
-(8) A (7) bekezdés alapján indult perekben a Magyar Államot a honvédelmi miniszter képviseli.
+(8)[^6] Ha a károsult a (3) bekezdés szerint felajánlott összeget kárigényének teljes kielégítéseként nem fogadja el, kárigényét peres úton a Magyar Állammal szemben érvényesítheti.
+
+(9)[^7] A (8) bekezdés alapján indult perekben a Magyar Államot a honvédelmi miniszter képviseli.
+
+[^5]: A 6. § (7) bekezdése a 64/2011. (IV. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^6]: A 6. § (8) bekezdése a 64/2011. (IV. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^7]: A 6. § (9) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.

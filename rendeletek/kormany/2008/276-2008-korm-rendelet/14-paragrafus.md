@@ -2,7 +2,9 @@
 
 14. § (1) E rendelet a kihirdetését követő hónap első napján lép hatályba.
 
-(2)–(3)[^1]
+(2)–(3)[^9]
+
+(4)[^10] E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló 64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr. hatálybalépését[^11] követően a Honvédelmi Minisztérium illetékes szervéhez benyújtott kárigények elbírálása tekintetében kell alkalmazni.
 
 Melléklet a 276/2008. (XI. 21.) Korm. rendelethez
 
@@ -70,4 +72,6 @@ Kelt: ..................................., 2........... ........................
 
 bejelentő
 
-[^1]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
+[^9]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
+[^10]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.
+[^11]: A hatálybalépés időpontja 2011. május 1.

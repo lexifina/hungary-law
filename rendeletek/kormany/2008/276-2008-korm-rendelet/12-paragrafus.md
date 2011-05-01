@@ -1,5 +1,3 @@
-## 11. § A NATO SOFA VIII. Cikkének 2. bekezdésében foglalt kárügyek érvényesítése során a Magyar Államot a honvédelmi miniszter képviseli.
-
 ## A NEMZETKÖZI KÁRTÉRÍTÉSEK PÉNZÜGYI FEDEZETE ÉS KIFIZETÉSE
 
 12. § (1) E rendelet szerinti kárrendezés költségeit a Honvédelmi Minisztérium fejezet „Nemzetközi kártérítés” elnevezésű forgóalapjából kell fedezni.
