@@ -1,6 +1,6 @@
 1. § (1) A 2004. évi CIX. törvénnyel kihirdetett, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt Cartagena Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) szerinti illetékes hatóság feladatait
 
-a) humán-egészségügyi, humán gyógyszergyártási célú felhasználás, az emberi testtel közvetlenül érintkező vegyi anyagok esetén az Országos Gyógyszerészeti Intézet,
+a)[^1] humán-egészségügyi, humán gyógyszergyártási célú felhasználás, az emberi testtel közvetlenül érintkező vegyi anyagok esetén a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet,
 
 b) a mezőgazdaság és az élelmiszeripar területén (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve egyéb ipari célú felhasználás esetén a földművelésügyi és vidékfejlesztési miniszter,
 
@@ -8,9 +8,10 @@ c) a felügyelet és ellenőrzés tekintetében a Mezőgazdasági és Szakigazga
 
 ## látja el.
 
-(2)[^1] A Jegyzőkönyv szerinti adatszolgáltatási, tájékoztatási, illetve bejelentési kötelezettségek teljesítését a környezetvédelmi és vízügyi miniszter (a továbbiakban: kapcsolattartó) végzi. A kapcsolattartó ellátja a géntechnológiával módosított szervezetek országhatárokon történő átviteléről szóló, 2003. július 15-i, 1946/2003/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1946/2003/EK rendelet) 17. cikke (2) bekezdésében foglalt tájékoztatási központ feladatait, különösen az 1946/2003/EK rendelet 9. cikkében, a 14. cikke (2) bekezdésében és a 15. cikke (1) bekezdésében foglalt kötelezettségek vonatkozásában.
+(2)[^2] A Jegyzőkönyv szerinti adatszolgáltatási, tájékoztatási, illetve bejelentési kötelezettségek teljesítését a környezetvédelmi és vízügyi miniszter (a továbbiakban: kapcsolattartó) végzi. A kapcsolattartó ellátja a géntechnológiával módosított szervezetek országhatárokon történő átviteléről szóló, 2003. július 15-i, 1946/2003/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1946/2003/EK rendelet) 17. cikke (2) bekezdésében foglalt tájékoztatási központ feladatait, különösen az 1946/2003/EK rendelet 9. cikkében, a 14. cikke (2) bekezdésében és a 15. cikke (1) bekezdésében foglalt kötelezettségek vonatkozásában.
 
-(3)[^2] Az (1) bekezdésben foglalt hatóságok a szükséges információkról rendszeresen tájékoztatják a kapcsolattartót.
+(3)[^3] Az (1) bekezdésben foglalt hatóságok a szükséges információkról rendszeresen tájékoztatják a kapcsolattartót.
 
-[^1]: Az 1. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: Az 1. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^1]: Az 1. § (1) bekezdés a) pontja az 59/2011. (IV. 12.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: Az 1. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
