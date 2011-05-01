@@ -1,7 +1,20 @@
-10. § (1) A bíráló bizottság a pályakövetési rendszer tapasztalatai, a munkaerő-piaci előrejelzések, a diplomás munkanélküliség helyzetének értékelése és a megelőző évben benyújtott jelölti jelentkezések száma alapján minden év november 15-éig javaslatot tesz a miniszternek azoknak a szakképesítéseknek a körére, amely szakképesítések hiányszakmának való minősítése indokolt, emellett adott évre vonatkozóan, valamint 3 évre előre a rezidensek szakmákra lebontott keretszámaira, és az egyes felsőoktatási intézmények vonatkozásában az általuk költségtérítéses képzésbe felvehető jelöltek keretszámára.
+## 9. §[^27]
 
-(2)[^11] A miniszter minden év december 31-éig közzéteszi az (1) bekezdésben meghatározott, adott évre vonatkozó keretszámokat, a hiányszakmák körét, továbbá az 5. § (1), (3) és (4) bekezdésében foglalt támogatások igénylésére vonatkozó pályázati felhívását.
+10. §[^28] (1) Az Egészségügyi Szakképzési és Továbbképzési Tanács Egészségügyi Felsőfokú Szakirányú Szakképzési Bizottsága (a továbbiakban: Bizottság)
 
-(3) A miniszter az (1) bekezdésben foglaltakra, valamint a humánerőforrás-monitoring rendszer által szolgáltatott adatokra tekintettel évente közzéteszi az adott évet követő harmadik évre vonatkozó keretszámot. A miniszter az előre megállapított keretszámot adott évben indokolt esetben +/–10% eltéréssel módosíthatja.
+a) a pályakövetési rendszer tapasztalatai,
 
-[^11]: A 10. § (2) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+b) a munkaerő-piaci előrejelzések,
+
+c) a diplomás munkanélküliség helyzetének értékelése és
+
+d) a megelőző évben benyújtott jelölti jelentkezések száma és szakmánkénti megoszlása alapján
+
+minden év október 30-áig javaslatot tesz a miniszternek az egyes megyék vonatkozásában azoknak a szakképesítéseknek a körére, amely szakképesítések hiányszakmának való minősítése indokolt, emellett a következő évre vonatkozóan a rezidensek egyetemi régiókra lebontott keretszámaira (a továbbiakban: rezidensi keretszám), és az egyes felsőoktatási intézmények vonatkozásában az általuk költségtérítéses képzésbe felvehető jelöltek keretszámára. Az egyes felsőoktatási intézmények régiójába tartozó megyék felsorolását az 1. melléklet tartalmazza.
+
+(2) A miniszter minden év december 15-éig közzéteszi az (1) bekezdésben meghatározott, a következő évre vonatkozó keretszámokat és megyénként a hiányszakmák körét.
+
+(3) A rezidensi keretszámok esetében külön kerülnek meghatározásra az általános orvos szakon végzettek, valamint a fogorvos, gyógyszerész és egészségpszichológia szakon végzettek számára kiírható állások keretszámai.
+
+[^27]: A 9. §-t a 72/2011. (IV. 29.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^28]: A 10. § a 72/2011. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

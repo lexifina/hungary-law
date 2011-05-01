@@ -1,1 +1,0 @@
-## 23. § A felsőoktatási intézmény a szakvizsgával már rendelkező, és második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb a Kjt. szerinti közalkalmazotti J1 fizetési osztály garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet.
