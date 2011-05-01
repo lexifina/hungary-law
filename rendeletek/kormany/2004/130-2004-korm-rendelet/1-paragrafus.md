@@ -2,7 +2,7 @@
 
 1. §[^1] (1)[^2] E rendelet alkalmazásában:
 
-a) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény és az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18. ) EüM rendelet alapján az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) által, valamint az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet alapján az Európai Bizottság (a továbbiakban: Bizottság) által forgalomba hozatalra engedélyezett gyógyszerek;
+a)[^3] gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény és az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18. ) EüM rendelet alapján a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által, valamint az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet alapján az Európai Bizottság (a továbbiakban: Bizottság) által forgalomba hozatalra engedélyezett gyógyszerek;
 
 b) gyógyászati segédeszköz: az az eszköz, amely megfelel az orvostechnikai eszközökről szóló 16/2006. (III. 27.) EüM rendeletben meghatározott feltételeknek;
 
@@ -14,3 +14,4 @@ d) szakmai kollégium: az orvostudomány területén működő, a szakmai kollé
 
 [^1]: Az 1. § a 67/2005. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg. Az OEP különkeretes gyógyszerkészítmények körének közzétételére vonatkozó kötelezettségéről lásd e módosító rendelet 3. § (3)–(4) bekezdését.
 [^2]: Az 1. § (1) bekezdése a 105/2006. (IV. 28.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2006. május 6. napja után megkezdődött közbeszerzésekre kell alkalmazni.
+[^3]: Az 1. § (1) bekezdés a) pontja az 59/2011. (IV. 12.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
