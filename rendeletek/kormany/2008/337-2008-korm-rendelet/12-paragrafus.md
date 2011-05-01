@@ -1,6 +1,6 @@
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. §[^78] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^79] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
 
 a) címzett támogatás szakmai programja,
 
@@ -54,4 +54,4 @@ c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 
 (6) Az OEP (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
 
-[^78]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^79]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

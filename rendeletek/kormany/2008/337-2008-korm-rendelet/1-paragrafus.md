@@ -22,13 +22,15 @@ j) a finanszírozási szerződés szerinti sürgősségi ellátási formához k�
 
 ## amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
 
+(1a)[^9] Többletkapacitásnak minősül az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatainak miniszteri rendeletben meghatározott finanszírozott szolgáltatási egysége.
+
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában a Tv. 1. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
-(3)[^9] A szakmai minimumfeltételek teljesítéséhez szükséges eszközök beszerzése, cseréje nem minősül az (1) bekezdésben foglaltak szerinti többletkapacitásnak.
+(3)[^10] A szakmai minimumfeltételek teljesítéséhez szükséges eszközök beszerzése, cseréje nem minősül az (1) bekezdésben foglaltak szerinti többletkapacitásnak.
 
-(4)[^10] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
+(4)[^11] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
 
-(5)[^11] Nem szakorvosi óraszám kapacitással
+(5)[^12] Nem szakorvosi óraszám kapacitással
 
 a) felsőfokú (nem orvos) végzettségű személy által irányított járóbeteg-szakellátás,
 
@@ -36,7 +38,7 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 
 ## nyújtható.
 
-(6)[^12] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
+(6)[^13] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -46,7 +48,8 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 [^6]: Az 1. § (1) bekezdés f) pontja a 360/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapítot, a 363/2010. (XII. 30.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
 [^7]: Az 1. § (1) bekezdés g) pontja a 360/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^8]: Az 1. § (1) bekezdés h) pontja a 360/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
-[^9]: Az 1. § (3) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
-[^10]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
-[^11]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
-[^12]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (1a) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^10]: Az 1. § (3) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
+[^11]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^12]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
+[^13]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

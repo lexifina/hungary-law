@@ -1,4 +1,4 @@
-12/C. §[^81] (1) Az egészségügyért felelős miniszter
+12/C. §[^82] (1) Az egészségügyért felelős miniszter
 
 a) a 12/A. § szerinti esetben a Kormány jóváhagyását,
 
@@ -26,4 +26,4 @@ engedélyezheti, és erről az egészségügyért felelős miniszter az OEP-et �
 
 (8) Az (1) és a (7) bekezdés szerinti értesítés a 12. § (1) bekezdése szerinti támogatási szerződés megkötésének feltétele, az a támogatási szerződés mellékletét képezi.
 
-[^81]: A 12/C. §-t a 363/2010. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^82]: A 12/C. §-t a 363/2010. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
