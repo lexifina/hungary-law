@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2010-06-29 | 2010. évi XC. törvény | 1990-100-00-00.39 |
 | 2010-12-18 | 2010. évi CLIII. törvény | 1990-100-00-00.40 |
 | 2011-01-01 | 2010. évi XC. törvény | 1990-100-00-00.41 |
+| 2011-05-01 | 2011. évi XXXIV. törvény | 1990-100-00-00.42 |
