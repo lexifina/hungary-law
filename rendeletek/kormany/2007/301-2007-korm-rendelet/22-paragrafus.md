@@ -20,9 +20,9 @@ f) az e) pontban meghatározott eset kivételével, egyéb fogva tartott személ
 
 (4) A szabad felhasználású költőpénz kifizetését a tárgyhó 5. napjáig kell teljesíteni, utólagos kifizetés kizárólag az elismerését kérő fekvőbeteg-gyógyintézeti ellátása esetén lehetséges.
 
-(5)[^18] A kiskorú elismerését kérő havi költőpénzét törvényes képviselője, a hatodik életévét be nem töltött kísérő nélküli kiskorú esetében pedig az ügygondnok veheti át. Az összeg személyes szükségletekre történő felhasználását ezekben az esetekben is biztosítani kell.
+(5)[^18] A kiskorú elismerését kérő havi költőpénzét törvényes képviselője, veheti át. Az összeg személyes szükségletekre történő felhasználását ezekben az esetekben is biztosítani kell.
 
 [^15]: A 22. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
 [^16]: A 22. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 89. §-ával megállapított szöveg.
 [^17]: A 22. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^18]: A 22. § (5) bekezdésében a 290/2010. (XII. 21.) Korm. rendelet 126. § (2) bekezdés b) pontja alapján az „a hatodik életévét be nem töltött kísérő nélküli kiskorú esetében pedig az ügygondnok” szövegrész hatályát veszti. [E módosító rendelet 126. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.]
+[^18]: A 22. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 126. § (2) bekezdés b) pontja szerint módosított szöveg.

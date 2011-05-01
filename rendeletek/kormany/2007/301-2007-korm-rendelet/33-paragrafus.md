@@ -4,9 +4,9 @@
 
 (2) A család egységének fenntartását – lehetőség szerint – a különleges bánásmódot igénylő személy elkülönített elhelyezése során is biztosítani kell.
 
-(3)[^25] A befogadás során elsődlegesen a kiskorú elismerését kérő érdekeinek szem előtt tartásával kell eljárni. A befogadó állomáson nyújtott elhelyezés során a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, továbbá – a (2) bekezdésben foglaltak sérelme nélkül – a nagykorúaktól elkülönített elhelyezéséről kell gondoskodni.
+(3)[^25] A befogadás során elsődlegesen a kiskorú elismerését kérő érdekeinek szem előtt tartásával kell eljárni. A befogadó állomáson nyújtott elhelyezés során a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, kell gondoskodni.
 
-(4)[^26] A kísérő nélküli kiskorú elismerését kérőt – tizennyolcadik életéve betöltéséig – kiskorúak elkülönített elhelyezésére és ellátására alkalmas befogadó állomáson kell elhelyezni.
+(4)[^26] A kísérő nélküli kiskorú elismerését kérő a gyermekvédelmi jogszabályok alapján a gyermekvédelmi intézményrendszer keretében helyezendő el feltéve, hogy az illető kiskorúságát a menekültügyi hatóság megállapította.
 
 (5) A kísérő nélküli kiskorú hozzátartozójánál is elhelyezhető, ha a hozzátartozó a kísérő nélküli kiskorú elszállásolását, ellátását és gondozását írásban vállalja, továbbá a kísérő nélküli kiskorú és a hozzátartozó személyes kapcsolata alapján nyilvánvaló, hogy az elhelyezés a kísérő nélküli kiskorú érdekeit szolgálja.
 
@@ -16,6 +16,6 @@
 
 (8)[^27] A nemi erőszak, súlyos elhanyagolás, kizsákmányolás, kínzás, vagy kegyetlen, embertelen és megalázó bánásmód áldozatául esett, továbbá fegyveres konfliktus során traumát szenvedett kiskorúak megfelelő rehabilitációs, szükség esetén mentálhigiénés ellátása és szaktanácsadása érdekében a menekültügyi hatóság jelzéssel él az illetékes egészségügyi intézmény, kísérő nélküli kiskorú esetében az illetékes gyermekvédelmi intézmény felé.
 
-[^25]: A 33. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 93. § (1) bekezdésével megállapított szöveg. A 33. § (3) bekezdésében a 290/2010. (XII. 21.) Korm. rendelet 126. § (2) bekezdés a) pontja alapján a „továbbá – a (2) bekezdésben foglaltak sérelme nélkül – a nagykorúaktól elkülönített elhelyezéséről” szövegrész hatályát veszti. [E módosító rendelet 126. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.]
-[^26]: [A 33. § (4) bekezdésének a 290/2010. (XII. 21.) Korm. rendelet 93. § (2) bekezdésével megállapított, a 125. § (4) bekezdése alapján 2011. május 1-jétől hatályos szövege: „(4) A kísérő nélküli kiskorú elismerését kérő a gyermekvédelmi jogszabályok alapján a gyermekvédelmi intézményrendszer keretében helyezendő el feltéve, hogy az illető kiskorúságát a menekültügyi hatóság megállapította.”]
+[^25]: A 33. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 93. § (1) bekezdésével megállapított, a 126. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^26]: A 33. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 93. § (2) bekezdésével megállapított szöveg.
 [^27]: A 33. § (8) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 93. § (3) bekezdése iktatta be.
