@@ -2,9 +2,9 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^5]
+(2)[^7]
 
-Melléklet a 32/2005. (XII. 27.) KvVM rendelethez[^6]
+Melléklet a 32/2005. (XII. 27.) KvVM rendelethez[^8]
 
 Az üvegházhatású gázok kibocsátásával kapcsolatos egyes tevékenységek, valamint az igazgatási szolgáltatási díj alapja és mértéke
 
@@ -32,5 +32,7 @@ díj mértéke
 
 | 3. |  | az együttes végrehajtási hitelesítői névjegyzékbe, illetve a külföldi együttes végrehajtási hitelesítői névjegyzékbe való bejegyzés és a hitelesítői jogosultság felfüggesztésének megszüntetése [a Magyar Köztársaság területén ENSZ Éghajlatváltozási Keretegyezménye keretében megvalósuló együttes végrehajtás hitelesítőire vonatkozó szakmai és személyi követelményekről, valamint a hitelesítés szabályairól szóló külön jogszabály] | 80 000 |
 
-[^5]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 42. pontja hatályon kívül helyezte.
-[^6]: A melléklet az 1/2009. (II. 10.) KvVM rendelet 29. § (4) bekezdése szerint módosított szöveg.
+| 4. |  | Nyomonkövetési tervek jóváhagyása (nyomonkövetési tervenként) | 207 000 |
+
+[^7]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 42. pontja hatályon kívül helyezte.
+[^8]: A melléklet az 1/2009. (II. 10.) KvVM rendelet 29. § (4) bekezdése, a 8/2011. (III. 17.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
