@@ -1,4 +1,4 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^19]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^20]
 
 |  | A | B |
 
@@ -106,4 +106,4 @@
 
 | 15. | A foglalkoztathatóság szakvéleményezése | 3 100 Ft/fő/eset |
 
-[^19]: A 2. számú melléklet a 366/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet a 366/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
