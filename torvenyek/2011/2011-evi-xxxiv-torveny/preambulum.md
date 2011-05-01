@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság NATO-tagságából eredő kötelezettségeinek teljesítése, valamint a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, és a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk jogállásának teljes körű biztosítása érdekében a következő törvényt alkotja:
