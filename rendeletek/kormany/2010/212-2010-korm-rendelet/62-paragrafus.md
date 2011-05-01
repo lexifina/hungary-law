@@ -24,6 +24,6 @@ k) részt vesz a magyar nyelv és kultúra megőrzése, terjesztése és megisme
 
 l) elősegíti a civil szektor szervezeteinek részvételét az oktatási közfeladatok ellátásában,
 
-m)[^164] a Wekerle Sándor Alapkezelő irányítása vonatkozásában a Wekerle Sándor Alapkezelő által bonyolított, hazai pályázati forrásból finanszírozott oktatási programok tekintetében a közigazgatási és igazságügyi miniszter intézkedéséhez kapcsolódó egyetértési jogot gyakorol.
+m)[^165] a Wekerle Sándor Alapkezelő irányítása vonatkozásában a Wekerle Sándor Alapkezelő által bonyolított, hazai pályázati forrásból finanszírozott oktatási programok tekintetében a közigazgatási és igazságügyi miniszter intézkedéséhez kapcsolódó egyetértési jogot gyakorol.
 
-[^164]: A 62. § m) pontját a 267/2010. (XII. 3.) Korm. rendelet 18. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^165]: A 62. § m) pontját a 267/2010. (XII. 3.) Korm. rendelet 18. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

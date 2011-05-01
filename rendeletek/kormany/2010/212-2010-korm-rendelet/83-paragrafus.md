@@ -2,7 +2,7 @@
 
 a) előkészíti különösen a kutatás-fejlesztésről és a technológiai innovációról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-b)[^241] az érintett miniszterekkel együttműködve előkészíti a kutatás-fejlesztést és technológiai innovációt érintő kormányzati döntéseket, stratégiákat és a hozzá kapcsolódó programokat, koordinálja azok megvalósítását,
+b)[^242] az érintett miniszterekkel együttműködve előkészíti a kutatás-fejlesztést és technológiai innovációt érintő kormányzati döntéseket, stratégiákat és a hozzá kapcsolódó programokat, koordinálja azok megvalósítását,
 
 c) összehangolja a hazai és az európai uniós kutatás-fejlesztési és innovációs közfinanszírozású támogatási forrásokat, elősegíti azok hatékony felhasználását,
 
@@ -14,7 +14,7 @@ f) intézkedéseket dolgoz ki az innovatív kis- és középvállalkozások fejl
 
 g) szervezi a kutatás-fejlesztés és innovációs terület társadalmi elfogadottságának és elismertségének növelésére irányuló központi programokat,
 
-h)[^242] irányítja a Nemzeti Innovációs Hivatalt.
+h)[^243] irányítja a Nemzeti Innovációs Hivatalt.
 
-[^241]: A 83. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (52) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^242]: A 83. § h) pontja a 303/2010. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^242]: A 83. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (52) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^243]: A 83. § h) pontja a 303/2010. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
