@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 89. § (1) bekezdésében kapott felhatalmazás alapján – az állami feladatok hatékonyabb ellátása és a költségvetési kiadások csökkentése érdekében – a következőket rendeli el:
