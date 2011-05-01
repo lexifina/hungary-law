@@ -38,10 +38,12 @@ e) gyógyszervásárláshoz nyújtott segély: gyógyszer, gyógyászati segéde
 
 12. gyógyszertárban értékesített fog- és szájápolók vásárlásához nyújtott támogatás;
 
-13. az Országos Gyógyszerészeti Intézet által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező gyógyszernek nem minősülő gyógyhatású termékek vásárlásához nyújtott támogatás;
+13.[^2] a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező gyógyszernek nem minősülő gyógyhatású termékek vásárlásához nyújtott támogatás;
 
 14. fizikoterápiás kezelés, gyógytorna, gyógymasszázs igénybevételéhez nyújtott támogatás;
 
 f) országos szövetkezeti szövetség: az Sztv. 95. §-ának megfelelő országos érdekképviseleti szervezet, figyelemmel az egyesülési jogról szóló 1989. évi II. törvény 2. §-ának (4) bekezdésére;
 
 g) egyéni keret: a támogatásra jogosultat tizenkét hónap alatt a szövetkezet közösségi alapjából megillető támogatás mértéke, amelyet a szövetkezet évente a beszámolót elfogadó közgyűlésén határoz meg.
+
+[^2]: A 2. § e) pont 13. pontja az 59/2011. (IV. 12.) Korm. rendelet 12. §-a szerint módosított szöveg.
