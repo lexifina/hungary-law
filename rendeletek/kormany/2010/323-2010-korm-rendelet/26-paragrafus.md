@@ -26,6 +26,6 @@
 
 ## szerinti feladatok ellátására.”
 
-(4)[^3] Azokat a 2011. január 1-jén folyamatban lévő másodfokú eljárásokat, amelyek a 2010. december 31-én hatályos jogszabályok szerint – az ÁNTSZ regionális intézetei első fokú hatáskörébe tartozó ügyek tekintetében másodfokú hatóságként eljáró – Országos Tisztifőorvosi Hivatal hatáskörébe tartoznak, az Országos Tisztifőorvosi Hivatal a 2010. december 31-én alkalmazandó jogszabályok szerint lefolytatja.
+(4)[^25] Azokat a 2011. január 1-jén folyamatban lévő másodfokú eljárásokat, amelyek a 2010. december 31-én hatályos jogszabályok szerint – az ÁNTSZ regionális intézetei első fokú hatáskörébe tartozó ügyek tekintetében másodfokú hatóságként eljáró – Országos Tisztifőorvosi Hivatal hatáskörébe tartoznak, az Országos Tisztifőorvosi Hivatal a 2010. december 31-én alkalmazandó jogszabályok szerint lefolytatja.
 
-[^3]: A 26. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 293. § (2) bekezdése iktatta be.
+[^25]: A 26. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 293. § (2) bekezdése iktatta be.

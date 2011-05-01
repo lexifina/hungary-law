@@ -68,4 +68,6 @@ d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
 ## első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-(9) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, embrionális őssejtekkel végzett beavatkozásokkal és kutatásokkal, továbbá az emberi génállományt a reprodukcióval összefüggésben érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+(9)[^23] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+
+[^23]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.

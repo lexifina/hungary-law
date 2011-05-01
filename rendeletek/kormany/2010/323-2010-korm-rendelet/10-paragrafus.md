@@ -8,7 +8,7 @@ b) jogszabályban meghatározott ügyekben első fokú hatósági jogkört gyako
 
 c) ellátja a fővárosi és megyei kormányhivatal alapító okiratában, illetve jogszabályokban számára meghatározott feladatokat
 
-ca) a közegészségügy (környezet- és település-egészségügy, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kémiai biztonság) területén, mely feladatok ellátásához fizikai, kémiai, biológiai és mikrobiológiai vizsgálólaboratóriumot üzemeltethet,
+ca)[^13] a közegészségügy (környezet- és település-egészségügy, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kémiai biztonság, gyermek- és ifjúságügy) területén, mely feladatok ellátásához vizsgálólaboratóriumot üzemeltethet,
 
 cb) a járványügy (fertőzőjárvány-ügy) területén, mely feladatok ellátásához vizsgálólaboratóriumot üzemeltethet,
 
@@ -20,4 +20,7 @@ d) ellátja a jogszabályban a feladatkörébe utalt szakfelügyeleti feladatoka
 
 (2) A megyei népegészségügyi szakigazgatási szerv részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
 
-(3) A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával kiegészítő, valamint – az alapító okiratban meghatározott arányban – kisegítő és vállalkozási tevékenységet végezhet.
+(3)[^14] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
+
+[^13]: A 10. § (1) bekezdés c) pont ca) alpontja a 73/2011. (IV. 29.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^14]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.

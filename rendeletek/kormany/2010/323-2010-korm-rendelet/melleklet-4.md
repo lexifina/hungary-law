@@ -256,31 +256,31 @@
 
 | 127. | CSONGRÁD MEGYE |  |
 
-| 128. | Makói, Hódmezővásárhelyi Kistérségi Népegészségügyi Intézet |  |
+| 128. | Hódmezővásárhelyi, Makói Kistérségi Népegészségügyi Intézet |  |
 
-| 129. | Székhely: | Makó |
+| 129. | Székhely: | Hódmezővásárhely |
 
-| 130. | Illetékességi terület: | Makói Kistérség |
+| 130. | Illetékességi terület: | Hódmezővásárhelyi Kistérség |
 
-| 131. |  | Hódmezővásárhelyi Kistérség |
+| 131. |  | Makói Kistérség |
 
-| 132. | Szegedi, Mórahalomi Kistérségi Népegészségügyi Intézet |  |
+| 132. | Szegedi, Kisteleki, Mórahalomi Kistérségi Népegészségügyi Intézet |  |
 
 | 133. | Székhely: | Szeged |
 
 | 134. | Illetékességi terület: | Szegedi Kistérség |
 
-| 135. |  | Mórahalomi Kistérség |
+| 135. |  | Kisteleki Kistérség |
 
-| 136. | Szentesi, Csongrádi, Kisteleki Kistérségi Népegészségügyi Intézet |  |
+| 136. |  | Mórahalomi Kistérség |
 
-| 137. | Székhely: | Szentes |
+| 137. | Szentesi, Csongrádi Kistérségi Népegészségügyi Intézet |  |
 
-| 138. | Illetékességi terület: | Szentesi Kistérség |
+| 138. | Székhely: | Szentes |
 
-| 139. |  | Csongrádi Kistérség |
+| 139. | Illetékességi terület: | Szentesi Kistérség |
 
-| 140. |  | Kisteleki Kistérség |
+| 140. |  | Csongrádi Kistérség |
 
 | 141. | FEJÉR MEGYE |  |
 
@@ -778,15 +778,17 @@
 
 ## a) Budapest és Pest megye vonatkozásában: a Fővárosi és Pest Megyei Népegészségügyi Szakigazgatási Szerv,
 
-## b) Baranya, Fejér, Somogy és Tolna megye vonatkozásában: a Tolna Megyei Népegészségügyi Szakigazgatási Szerv,
+## b) Baranya, Somogy és Tolna megye vonatkozásában: a Tolna Megyei Népegészségügyi Szakigazgatási Szerv,
 
 ## c) Borsod-Abaúj-Zemplén, Nógrád és Heves megye vonatkozásában: a Borsod-Abaúj-Zemplén Megyei Népegészségügyi Szakigazgatási Szerv,
 
 ## d) Bács-Kiskun, Békés és Csongrád megye vonatkozásában: a Csongrád Megyei Népegészségügyi Szakigazgatási Szerv,
 
-## e) Komárom-Esztergom, Győr-Moson-Sopron, Vas, Veszprém és Zala megye vonatkozásában: a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv,
+## e) Fejér, Komárom-Esztergom, és Veszprém megye vonatkozásában: a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv,
 
-## f) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye vonatkozásában: a Hajdú-Bihar Megyei Népegészségügyi Szakigazgatási Szerv.
+## f) Győr-Moson-Sopron, Vas és Zala megye vonatkozásában: a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv
+
+## g) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye vonatkozásában: a Hajdú-Bihar Megyei Népegészségügyi Szakigazgatási Szerv.
 
 4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez
 
