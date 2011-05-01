@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2011-01-01 | 2010. évi CXXIII. törvény | 1990-93-00-00.98 |
 | 2011-01-02 | 2010. évi CLXXXV. törvény | 1990-93-00-00.99 |
 | 2011-01-27 | 2010. évi CLIII. törvény | 1990-93-00-00.100 |
+| 2011-05-01 | 2010. évi LXXXIII. törvény | 1990-93-00-00.101 |
