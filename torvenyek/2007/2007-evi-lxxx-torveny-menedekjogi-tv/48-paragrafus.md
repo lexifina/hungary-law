@@ -4,6 +4,6 @@ a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy b
 
 b) jogszerűen tartózkodik a Magyar Köztársaság területén és nem kéri befogadó állomáson történő elhelyezését.
 
-[(1a) A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezéséről intézkedik.]
+(1a) A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezéséről intézkedik.
 
 (2) A kérelmező a befogadó állomásról csak különösen indokolt esetben, a menekültügyi hatóság engedélyével távozhat el, feltéve, hogy távolléte az eljárási cselekmények lefolytatását nem akadályozza.
