@@ -330,7 +330,7 @@
 
 | b) főkönyvelő, humánpolitikai szervező, informatikus, könyvtáros, revizor (belső ellenőr), statisztikus, számítástechnikai szervező, szoftverfejlesztő, üzemgazdász, üzemmérnök, munkavédelmi üzemmérnök stb. |  |  |  |  | * | * | * | * | * |  |
 
-| c) gazdasági vezető |  |  |  |  |  | * | * | * | * | * |
+| c) |  |  |  |  |  |  |  |  |  |  |
 
 | 2. Ügyintézői (előadói, főelőadói) munkakörök: |  |  |  |  |  |  |  |  |  |  |
 

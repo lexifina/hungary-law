@@ -1,12 +1,12 @@
 ## „I. Vezetői pótlékok az egészségügyi ágazatban
 
-## 1. Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének, valamint az egészségügyi közszolgáltató költségvetési szerv vezető testülete tagjainak pótléka
+## 1.[^31] Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző ellátást biztosító intézetben a pótlékalap 300%-a,
 
 ## b) gyógyító-megelőző ellátást közvetlenül nem biztosító intézetekben a pótlékalap 200%-a.
 
-## 2. Az önkormányzatok által fenntartott intézetek intézményvezetőjének, valamint az egészségügyi közszolgáltató költségvetési szerv vezető testülete tagjainak pótléka
+## 2.[^32] Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményben a pótlékalap 250%-a,
 
@@ -36,59 +36,55 @@
 
 ## c) alosztályvezető: a pótlékalap 100%-a
 
-4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^16]
+4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^33]
 
-A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztályokba sorolása
-
-és a vezetői pótlék mértéke
+A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 (egészségügy)
 
 | Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a |
 
-| A | B | C | D | E | F | G | H | I | J |
+|  | A | B | C | D | E | F | G | H | I | J |  |
 
-| I. Vezetői munkakörök: |
+| I. Megbízott vezetők |
 
-| Pályáztatásra kötelezett |  |  |  |  |  |  |  |  |  |  |  |
+| Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
 | a) Magasabb vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
 
-| főigazgató |  |  |  |  |  |  |  | * | * | * |  |
+| főigazgató |  |  |  |  |  |  |  | * | * | * | 300 |
 
-| főigazgató-helyettes |  |  |  |  |  |  | * | * | * | * |  |
+| főigazgató-helyettes |  |  |  |  |  |  | * | * | * | * | 250 |
 
-| igazgató (ápolási, orvos) |  |  |  |  |  | * | * | * | * | * |  |
+| igazgató (ápolási, gazdasági, orvos) |  |  |  |  |  | * | * | * | * | * | 200 |
 
 | b) Vezető beosztás |  |  |  |  |  |  |  |  |  |  |  |
 
-| hivatalvezető |  |  |  |  |  |  | * | * | * | * |  |
+| hivatalvezető |  |  |  |  |  |  | * | * | * | * | 150 |
 
-| rendelőintézet igazgató |  |  |  |  |  |  |  | * | * | * |  |
+| rendelőintézet igazgató |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| intézetvezető |  |  |  |  |  |  |  | * | * | * |  |
+| intézetvezető |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| rendelőintézet igazgató-helyettes |  |  |  |  |  |  | * | * | * | * |  |
+| osztályvezető |  |  |  |  |  | * | * | * | * |  | 150 |
 
-| intézetvezető helyettes (ápolási, gyógyító, gazdasági, rehab. intézetnél) |  |  |  |  |  |  |  | * | * | * |  |
+| rendelőintézet igazgató-helyettes |  |  |  |  |  |  | * | * | * | * | 100 |
+
+| intézetvezető helyettes (ápolási, gyógyító, gazdasági, rehab. intézetnél) |  |  |  |  |  |  |  | * | * | * | 100 |
 
 | főgyógyszerész |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| vezető főorvos (osztály,- részleg,- rendelő) |  |  |  |  |  |  |  | * | * | * | 150 |
+| vezető főorvos (osztály-, részleg-, rendelő) |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| ápolási igazgató-helyettes |  |  |  |  |  | * | * | * |  |  |  |
+| ápolási igazgató-helyettes |  |  |  |  |  | * | * | * |  |  | 150 |
 
 | vezető ápoló |  |  |  |  | * | * | * |  |  |  | 100 |
 
-| c) Csoportvezető |  |  |  |  |  |  |  |  |  |  |  |
-
-| laboratóriumvezető |  |  |  |  | * | * | * |  |  |  |  |
-
-| II. Egészségügyi munkakörök: |  |  |  |  |  |  |  |  |  |  |  |
-
-| a) Csoportvezető: |  |  |  |  |  |  |  |  |  |  |  |
+| II. Csoportvezetők |
 
 | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
+
+| laboratóriumvezető |  |  |  |  | * | * | * |  |  |  |  |
 
 | gyógyszertárvezető |  |  |  |  |  |  |  | * | * | * |  |
 
@@ -98,7 +94,9 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | vezető (asszisztens, műtős, szülésznő) |  |  |  |  | * | * | * |  |  |  |  |
 
-| b) Szakalkalmazottak: |  |  |  |  |  |  |  |  |  |  |  |
+| osztályvezető-helyettes |  |  |  |  | * | * | * |  |  |  |  |
+
+| III. Szakalkalmazottak |
 
 | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -144,13 +142,7 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | szonográfus |  |  |  |  |  | * | * |  |  |  |  |
 
-| védőnő |  |  |  |  |  | * | * |  |  |  |  |
-
-| ellenőr, főellenőr |  |  |  |  |  | * | * | * |  |  |  |
-
-| belső ellenőr |  |  |  |  |  | * | * | * |  |  |  |
-
-| informatikus |  |  |  |  | * | * | * |  |  |  |  |
+| védőnő |  |  |  |  |  | * | * | * |  |  |  |
 
 | gyógytornász |  |  |  |  |  | * | * |  |  |  |  |
 
@@ -158,23 +150,23 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | szakasszisztens |  |  |  |  | * | * | * |  |  |  |  |
 
+| ellenőr, főellenőr |  |  |  |  |  | * | * | * |  |  |  |
+
+| belső ellenőr |  |  |  |  |  | * | * | * |  |  |  |
+
+| informatikus |  |  |  |  | * | * | * |  |  |  |  |
+
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
+
+| segédápoló |  | * | * | * |  |  |  |  |  |  |  |
+
+| szakápoló, vezető szakápoló |  |  |  | * | * | * |  |  |  |  |  |
+
+| szülésznő |  |  | * | * | * |  |  |  |  |  |  |
 
 | egészségügyi gázmester |  |  |  | * | * | * |  |  |  |  |  |
 
 | üzemeltetés vezető |  |  |  |  |  | * | * | * |  |  |  |
-
-| főelőadó |  |  |  |  | * | * | * |  |  |  |  |
-
-| előadó |  |  |  | * | * | * |  |  |  |  |  |
-
-| technikus, főtechnikus |  |  |  | * | * | * |  |  |  |  |  |
-
-| ügykezelő, vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
-
-| ügykezelő gépíró |  |  |  | * | * | * |  |  |  |  |  |
-
-| ergonómus |  |  |  | * | * | * |  |  |  |  |  |
 
 | szakoktató |  |  |  | * | * | * |  |  |  |  |  |
 
@@ -202,11 +194,17 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | büfévezető |  |  | * | * | * |  |  |  |  |  |  |
 
-| segédápoló |  | * | * | * |  |  |  |  |  |  |  |
+| főelőadó |  |  |  |  | * | * | * |  |  |  |  |
 
-| szakápoló, vezető szakápoló |  |  |  | * | * | * |  |  |  |  |  |
+| előadó |  |  |  | * | * | * |  |  |  |  |  |
 
-| szülésznő |  |  | * | * | * |  |  |  |  |  |  |
+| technikus, főtechnikus |  |  |  | * | * | * |  |  |  |  |  |
+
+| ügykezelő, vezető ügykezelő |  |  |  | * | * | * |  |  |  |  |  |
+
+| ügykezelő gépíró |  |  |  | * | * | * |  |  |  |  |  |
+
+| ergonómus |  |  |  | * | * | * |  |  |  |  |  |
 
 | mentő gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -230,6 +228,6 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | egészségügyi kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-1 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
-
-[^16]: A 4. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (2) bekezdése, a 111/2010. (IV. 9.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^31]: A 3. melléklet I. pont 1. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 3. melléklet I. pont 2. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^33]: A 4. melléklet a 73/2011. (IV. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.

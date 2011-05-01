@@ -6,4 +6,6 @@
 
 (3) Az igazságügyi és rendészeti miniszter ágazati irányítása alá tartozó fegyveres szerveknél egészségügyi tevékenységet folytató közalkalmazottakra a rendeletet a 17. §-ban foglalt eltérésekkel kell alkalmazni.
 
-(4) A Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra a rendeletet a 18–25. §-okban foglalt eltérésekkel kell alkalmazni.
+(4)[^1] A Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra a rendeletet a 18–23/A. §-ban foglalt eltérésekkel kell alkalmazni.
+
+[^1]: Az 1. § (4) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
