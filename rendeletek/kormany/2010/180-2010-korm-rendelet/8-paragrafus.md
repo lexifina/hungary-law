@@ -1,6 +1,6 @@
-## 7. §[^5] Az OEP az új gyógyszert igénylő technológiát a 4. § (2) bekezdése szerinti határozat meghozatalát követő harminc napon belül értékeli, és az R3.-ban meghatározott szakmai szempontrendszer alapján pontozza.
+## 7. §[^6] Az OEP az új gyógyszert igénylő technológiát a 4. § (2) bekezdése szerinti határozat meghozatalát követő harminc napon belül értékeli, és az R3.-ban meghatározott szakmai szempontrendszer alapján pontozza.
 
-8. § (1)[^6] Az OEP a 6. § (5) bekezdése, valamint a 7. § szerinti értékelést és pontozást követő tizenöt napon belül dönt az előzetes befogadásról.
+8. § (1)[^7] Az OEP a 6. § (5) bekezdése, valamint a 7. § szerinti értékelést és pontozást követő tizenöt napon belül dönt az előzetes befogadásról.
 
 (2) A finanszírozásba való befogadásra az a technológia alkalmas, amely az R3.-ban meghatározott szakmai szempontpontrendszer alapján adható maximális pontszám 60 százalékát és a szakmai szempontrendszer kategóriáin belül az egyes kategóriákként adható pontszám 40 százalékát elérte.
 
@@ -22,5 +22,5 @@ b) a finanszírozás volumenére és
 
 c) az előzetesen befogadott technológia által kiváltott technológiák finanszírozásból való törlésére.
 
-[^5]: A 7. § a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^6]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^7]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
