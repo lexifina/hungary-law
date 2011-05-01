@@ -2,6 +2,9 @@
 
 (2) Az egészségügyi szolgáltató az adott reprodukciós eljárás befejezésének hónapjára vonatkozó teljesítményjelentésével egyidejűleg, a reprodukciós eljárás befejezését követő hónap 10. napjáig, külön állományban megküldi az OEP részére a kérelmező TAJ számát és az ahhoz tartozó kapcsolati kódot.
 
-(3) Az OEP az EMKI részére a kapcsolati kód felhasználásával a szülészeti esemény tényére vonatkozó adatot szolgáltat a szülészeti esemény hónapját követő második hónap 15. napjáig, és az adatszolgáltatást követően haladéktalanul – szülészeti esemény hiányában a kapcsolati kód OEP részére történő megküldését követő egy év elteltével – megsemmisíti a kapcsolati kódot, továbbá a nem finanszírozott reprodukciós eljárásra vonatkozó egyéb adatokat.
+(3)[^5] Az OEP a GYEMSZI részére a kapcsolati kód felhasználásával a szülészeti esemény tényére vonatkozó adatot szolgáltat a szülészeti esemény hónapját követő második hónap 15. napjáig, és az adatszolgáltatást követően haladéktalanul – szülészeti esemény hiányában a kapcsolati kód OEP részére történő megküldését követő egy év elteltével – megsemmisíti a kapcsolati kódot, továbbá a nem finanszírozott reprodukciós eljárásra vonatkozó egyéb adatokat.
 
-(4) Az egészségügyi szolgáltató az adott kérelmezőhöz tartozó kapcsolati kódot a (2) bekezdés szerint elküldött, az adott reprodukciós eljárással összefüggő utolsó jelentést követő 3 napon belül megsemmisíti. Az EMKI a kapcsolati kódot a (3) bekezdés szerinti adatszolgáltatást követően haladéktalanul – adatszolgáltatás hiányában a reprodukciós eljárás megkezdését követő egy év elteltével – megsemmisíti.
+(4)[^6] Az egészségügyi szolgáltató az adott kérelmezőhöz tartozó kapcsolati kódot a (2) bekezdés szerint elküldött, az adott reprodukciós eljárással összefüggő utolsó jelentést követő 3 napon belül megsemmisíti. A GYEMSZI a kapcsolati kódot a (3) bekezdés szerinti adatszolgáltatást követően haladéktalanul – adatszolgáltatás hiányában a reprodukciós eljárás megkezdését követő egy év elteltével – megsemmisíti.
+
+[^5]: A 3. § (3) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
