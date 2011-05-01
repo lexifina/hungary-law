@@ -1,6 +1,6 @@
-## XIV.[^138] A VÁMÁRU-NYILATKOZAT ELLENŐRZÉS NÉLKÜLI ELFOGADÁSÁNAK FELTÉTELEI
+## XIV.[^136] A VÁMÁRU-NYILATKOZAT ELLENŐRZÉS NÉLKÜLI ELFOGADÁSÁNAK FELTÉTELEI
 
-72/A. §[^139] (1)[^140] A vámhatóság a Vámkódex 71. § (2) bekezdése alapján a vámáru-nyilatkozatot ellenőrzés nélkül annak a nyilatkozattevőnek fogadja el, aki
+72/A. §[^137] (1)[^138] A vámhatóság a Vámkódex 71. § (2) bekezdése alapján a vámáru-nyilatkozatot ellenőrzés nélkül annak a nyilatkozattevőnek fogadja el, aki
 
 a) import forgalomban:
 
@@ -14,9 +14,9 @@ ad) elektronikusan nyújtja be a vámáru-nyilatkozatot;
 
 b) export forgalomban: elektronikusan nyújtja be a vámáru-nyilatkozatot.
 
-(2)[^141] Az ellenőrzés nélküli elfogadás nem alkalmazható a jövedéki termékek – kivéve a Jöt. 63. § (1) bekezdés c) pontja alatti, a 64. § (4) bekezdés rendelkezése alá tartozó alkoholtermék, valamint a 79. § (1) bekezdés a) pontja alatti szőlőbor –, illetve az export-visszatérítésben részesülő termékek vámeljárás alá vonására vonatkozó vám-árunyilatkozatok esetén, amikor a jogszabály a vámeljárás lefolytatását áruvizsgálat elvégzéséhez köti.
+(2)[^139] Az ellenőrzés nélküli elfogadás nem alkalmazható a jövedéki termékek – kivéve a Jöt. 63. § (1) bekezdés c) pontja alatti, a 64. § (4) bekezdés rendelkezése alá tartozó alkoholtermék, valamint a 79. § (1) bekezdés a) pontja alatti szőlőbor –, illetve az export-visszatérítésben részesülő termékek vámeljárás alá vonására vonatkozó vám-árunyilatkozatok esetén, amikor a jogszabály a vámeljárás lefolytatását áruvizsgálat elvégzéséhez köti.
 
-[^138]: Az új XIV. címet (72/A. §) a 21/2006. (VIII. 30.) PM rendelet 5. §-a iktatta be, egyidejűleg az eredeti XIV. és XV. cím számozását XV. és XVI. címre változtatva.
-[^139]: A 72/A. §-t és címét a 21/2006. (VIII. 30.) PM rendelet 5. §-a iktatta be.
-[^140]: A 72/A. § (1) bekezdése a 28/2009. (XI. 30.) PM rendelet 4. §-ával megállapított szöveg.
-[^141]: A 72/A. § (2) bekezdése a 48/2007. (XII. 29.) PM rendelet 8. §-ával megállapított szöveg.
+[^136]: Az új XIV. címet (72/A. §) a 21/2006. (VIII. 30.) PM rendelet 5. §-a iktatta be, egyidejűleg az eredeti XIV. és XV. cím számozását XV. és XVI. címre változtatva.
+[^137]: A 72/A. §-t és címét a 21/2006. (VIII. 30.) PM rendelet 5. §-a iktatta be.
+[^138]: A 72/A. § (1) bekezdése a 28/2009. (XI. 30.) PM rendelet 4. §-ával megállapított szöveg.
+[^139]: A 72/A. § (2) bekezdése a 48/2007. (XII. 29.) PM rendelet 8. §-ával megállapított szöveg.
