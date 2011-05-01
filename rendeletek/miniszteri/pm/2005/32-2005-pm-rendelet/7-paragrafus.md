@@ -16,7 +16,7 @@ f) a pénznyerő automatával játszható játék(ok) nevét,
 
 g) a pénznyerő automata üzemeltetésére vonatkozó adatokat,
 
-h)[^28] a legmagasabb tét megjelölését,
+h)[^27] a legmagasabb tét megjelölését,
 
 i) a nyeremény kifizetésének módját,
 
@@ -32,13 +32,13 @@ n) a pénznyerő automata integrált ellenőrző készülékkel (a továbbiakban
 
 o) a pénznyerő automata hitelesítési vizsgálatának összegzését.
 
-(3)[^29] A mérésügyi szerv a 6. § (4) bekezdésére figyelemmel – a kérelem beérkezésétől számított harminc napon belül – a hitelesítési vizsgálat alapján hitelesítési bizonyítványt állít ki. A hitelesítési bizonyítvány kiállításával egyidejűleg a mérésügyi szerv a pénznyerő automatán elhelyezett hitelesítő kártyát külön jogszabályban meghatározott törvényes tanúsító jellel (öntapadó matricával) látja el. A hitelesítési bizonyítvány – a (2) bekezdésben meghatározottakon túl – a pénznyerő automata üzemeltetésével kapcsolatos hitelesítői megjegyzéseket is tartalmazhat.
+(3)[^28] A mérésügyi szerv a 6. § (4) bekezdésére figyelemmel – a kérelem beérkezésétől számított harminc napon belül – a hitelesítési vizsgálat alapján hitelesítési bizonyítványt állít ki. A hitelesítési bizonyítvány kiállításával egyidejűleg a mérésügyi szerv a pénznyerő automatán elhelyezett hitelesítő kártyát külön jogszabályban meghatározott törvényes tanúsító jellel (öntapadó matricával) látja el. A hitelesítési bizonyítvány – a (2) bekezdésben meghatározottakon túl – a pénznyerő automata üzemeltetésével kapcsolatos hitelesítői megjegyzéseket is tartalmazhat.
 
 (4) A (3) bekezdés szerinti törvényes tanúsító jel olyan maradandó lenyomat, amely típusától függően lyukasztással a hitelesítés évét és hónapját tartalmazza.
 
-(5)[^30] A mérésügyi szerv a hitelesítési kártyán a hitelesítési bizonyítvány adatai közül
+(5)[^29] A mérésügyi szerv a hitelesítési kártyán a hitelesítési bizonyítvány adatai közül
 
-a)[^31] a pénznyerő automata mérésügyi szerv által adott azonosító számát,
+a)[^30] a pénznyerő automata mérésügyi szerv által adott azonosító számát,
 
 b) a pénznyerő automata típusát,
 
@@ -64,7 +64,7 @@ l) egy számlálólépés forintértékét,
 
 m) a levonóképes bélyegek sorszámát,
 
-n)[^32] a függőhuzalos biztosítások darabszámát,
+n)[^31] a függőhuzalos biztosítások darabszámát,
 
 o) a hitelesítési bizonyítvány érvényességi idejét, és
 
@@ -74,8 +74,8 @@ p) a játékjog szerzés módját
 
 (6) A hitelesítési kártyát a hitelesítéssel egyidejűleg a pénznyerő automatán jól láthatóan és oly módon kell elhelyezni, hogy azt kizárólag roncsolásos eljárással vagy a törvényes tanúsító jel megsértésével lehessen eltávolítani.
 
-[^28]: A 7. § (2) bekezdésének h) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
-[^29]: A 7. § (3) bekezdése a 32/2007. (XII. 21.) PM rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
-[^30]: A 7. § (5) bekezdésének felvezető szövege a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^31]: A 7. § (5) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^32]: A 7. § (5) bekezdésének n) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
+[^27]: A 7. § (2) bekezdésének h) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
+[^28]: A 7. § (3) bekezdése a 32/2007. (XII. 21.) PM rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
+[^29]: A 7. § (5) bekezdésének felvezető szövege a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^30]: A 7. § (5) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^31]: A 7. § (5) bekezdésének n) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.

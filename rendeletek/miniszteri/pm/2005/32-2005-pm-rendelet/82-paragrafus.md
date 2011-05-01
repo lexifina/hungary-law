@@ -6,17 +6,17 @@
 
 a) pénznyerő automata esetén:
 
-–[^298] a szerencsejáték felügyeleti azonosítót,
+–[^297] a szerencsejáték felügyeleti azonosítót,
 
 – a 77. § (4) bekezdésében a kérelemnek megfelelő zárójelben megadott kulcsszót,
 
-–[^299] a mérésügyi szerv által adott azonosító számot,
+–[^298] a mérésügyi szerv által adott azonosító számot,
 
 – az egy évet meghaladó időtartamra engedélyezett pénznyerő automata második évre járó igazgatási-szolgáltatási díjának megfizetésekor a „2díj” kifejezést is,
 
 b) játékterem esetén:
 
-–[^300] a szerencsejáték felügyeleti azonosítót,
+–[^299] a szerencsejáték felügyeleti azonosítót,
 
 – a 77. § (4) bekezdésében a kérelemnek megfelelő zárójelben megadott kulcsszót,
 
@@ -26,6 +26,6 @@ c) játékkaszinó esetén a kérelem tárgyát,
 
 d) sorsolás és fogadás esetén a játékfajta elnevezését és a kérelem tárgyát.
 
-[^298]: A 82. § (2) bekezdése a) pontjának első francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^299]: A 82. § (2) bekezdése a) pontjának harmadik francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^300]: A 82. § (2) bekezdése b) pontjának első francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^297]: A 82. § (2) bekezdése a) pontjának első francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^298]: A 82. § (2) bekezdése a) pontjának harmadik francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^299]: A 82. § (2) bekezdése b) pontjának első francia bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdésével megállapított szöveg.

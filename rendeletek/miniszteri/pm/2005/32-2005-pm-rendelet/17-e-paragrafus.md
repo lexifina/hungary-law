@@ -1,4 +1,4 @@
-17/E. §[^60] (1) Az elnök feladatai különösen
+17/E. §[^59] (1) Az elnök feladatai különösen
 
 a) a PÉB üléseinek összehívása és vezetése,
 
@@ -12,4 +12,4 @@ d) a PÉB nyertes pályázóra vonatkozó javaslatának a pénzügyminiszter el�
 
 (3) Az elnök feladatai ellátása során személyesen köteles eljárni.
 
-[^60]: A 17/E. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.
+[^59]: A 17/E. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.

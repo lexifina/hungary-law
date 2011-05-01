@@ -1,4 +1,4 @@
-17/G. §[^62] (1) A titkár feladata a PÉB működésével kapcsolatos adminisztrációs feladatok ellátása és az elnök támogatása feladatainak ellátásában, így különösen
+17/G. §[^61] (1) A titkár feladata a PÉB működésével kapcsolatos adminisztrációs feladatok ellátása és az elnök támogatása feladatainak ellátásában, így különösen
 
 a) előkészíteni a PÉB ülésének napirendjét,
 
@@ -24,4 +24,4 @@ f) minden olyan tényt, körülményt, melyet az elnök, a tag vagy a póttag fe
 
 (4) A titkár jogait és kötelességeit csak személyesen gyakorolhatja, illetve teljesítheti.
 
-[^62]: A 17/G. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.
+[^61]: A 17/G. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.

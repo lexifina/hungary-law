@@ -10,6 +10,6 @@ d) teremfelügyelője,
 
 e) játékteremben foglalkoztatott egyéb alkalmazottja, valamint
 
-f)[^140] ezen személyeknek a Polgári Törvénykönyvről szóló törvény meghatározott közeli hozzátartozója.
+f)[^139] ezen személyeknek a Polgári Törvénykönyvről szóló törvény meghatározott közeli hozzátartozója.
 
-[^140]: A 38. § f) pontja a 17/2009. (IX. 29.) PM rendelet 67. § g) pontja szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^139]: A 38. § f) pontja a 17/2009. (IX. 29.) PM rendelet 67. § g) pontja szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

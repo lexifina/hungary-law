@@ -1,6 +1,6 @@
 ## 35. § A játéktermet úgy kell kialakítani és a pénznyerő automatákat, játékautomatákat úgy kell elhelyezni, hogy a pénznyerő automaták, játékautomaták, a játékosok és a pénznyerő automatákon, játékautomatákon folyó játék állandó ellenőrzése és felügyelete biztosított legyen.
 
-36. § (1)[^135] A játékteremben érvényes, a mérésügyi szerv által kiállított hitelesítési bizonyítvánnyal és az állami adóhatóság által kiadott engedéllyel rendelkező üzemképes pénznyerő automata, illetve nyilvántartásba vételi igazolással rendelkező üzemképes játékautomata helyezhető el az alábbiak szerint:
+36. § (1)[^134] A játékteremben érvényes, a mérésügyi szerv által kiállított hitelesítési bizonyítvánnyal és az állami adóhatóság által kiadott engedéllyel rendelkező üzemképes pénznyerő automata, illetve nyilvántartásba vételi igazolással rendelkező üzemképes játékautomata helyezhető el az alábbiak szerint:
 
 a) I. kategóriába sorolt játékteremben:
 
@@ -16,13 +16,13 @@ II. kategóriába sorolt pénznyerő automata,
 
 játékautomata.
 
-(2)[^136] A szervező az általa üzemeltetett, a játékteremben meghibásodott, üzemképtelen pénznyerő automatát három munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell annak játékteremből történő elszállításáról.
+(2)[^135] A szervező az általa üzemeltetett, a játékteremben meghibásodott, üzemképtelen pénznyerő automatát három munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell annak játékteremből történő elszállításáról.
 
-(3)[^137] Pénznyerő automata közterületen, illetve a közönség számára nyitva álló épületben vagy helyiségben – ha az nem minősül játékteremnek – nem helyezhető el.
+(3)[^136] Pénznyerő automata közterületen, illetve a közönség számára nyitva álló épületben vagy helyiségben – ha az nem minősül játékteremnek – nem helyezhető el.
 
-(4)[^138] Az elektronikus kaszinóban kizárólag az állami adóhatóság által jóváhagyott játéktervben szereplő pénznyerő automata helyezhető el. A szervező a játéktervet kizárólag az állami adóhatóság jóváhagyásával változtathatja meg.
+(4)[^137] Az elektronikus kaszinóban kizárólag az állami adóhatóság által jóváhagyott játéktervben szereplő pénznyerő automata helyezhető el. A szervező a játéktervet kizárólag az állami adóhatóság jóváhagyásával változtathatja meg.
 
-[^135]: A 36. § (1) bekezdésének felvezető szövege a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
-[^136]: A 36. § (2) bekezdése a 17/2009. (IX. 29.) PM rendelet 50. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^137]: A 36. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 14. §-a iktatta be.
-[^138]: A 36. § (4) bekezdését a 19/2006. (VII. 31.) PM rendelet 14. §-a iktatta be, szövege a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 36. § (1) bekezdésének felvezető szövege a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
+[^135]: A 36. § (2) bekezdése a 17/2009. (IX. 29.) PM rendelet 50. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^136]: A 36. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 14. §-a iktatta be.
+[^137]: A 36. § (4) bekezdését a 19/2006. (VII. 31.) PM rendelet 14. §-a iktatta be, szövege a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

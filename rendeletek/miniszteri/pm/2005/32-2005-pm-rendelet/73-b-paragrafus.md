@@ -1,9 +1,7 @@
 ## A kártyaterem működtetésének személyi feltételei
 
-73/B. § (1) A szervező legalább egy teremvezetőt, egy pénztárost, valamint egy játékvezetőt köteles alkalmazni, akik (vagy helyetteseik) nyitvatartási időben folyamatosan kötelesek a kártyateremben rendelkezésre állni.
-
-[(1a)[^274] Kártyateremben a teremvezetőnek és legalább egy játékvezetőnek rendelkeznie kell kártyateremben vagy játékkaszinóban szerzett legalább egy éves szakmai gyakorlattal.]
+73/B. § (1)[^273] A szervező legalább egy teremvezetőt, egy pénztárost, valamint egy játékvezetőt köteles alkalmazni, akik (vagy helyetteseik) nyitvatartási időben folyamatosan kötelesek a kártyateremben rendelkezésre állni.
 
 (2) A kártyaterem tekintetében alkalmazni kell az 54. § (2)–(3) bekezdésében foglaltakat.
 
-[^274]: A 73/B. § (1a) bekezdését a 16/2010. (IV. 28.) PM rendelet 12. § (2) bekezdése iktatta be. [E módosító rendelet 20. § (5) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^273]: [A 73/B. § (1a) bekezdését a 16/2010. (IV. 28.) PM rendelet 12. § (2) bekezdése iktatta be, a 20. § (5) bekezdése alapján 2012. január 1-jétől hatályos szövege: „(1a) Kártyateremben a teremvezetőnek és legalább egy játékvezetőnek rendelkeznie kell kártyateremben vagy játékkaszinóban szerzett legalább egy éves szakmai gyakorlattal.”.]

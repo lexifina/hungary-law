@@ -14,6 +14,6 @@
 
 ## Hibás adat bejegyzése esetén az igazolást áthúzással érvényteleníteni kell, és új igazolást kell kiállítani. A kitöltött (kinyomtatott), de ki nem adott igazolást a kitöltést követő nyolc napon belül, a rontott, vagy kihagyott igazolást a hibátlan igazolással egyidejűleg meg kell küldeni az állami adóhatóságnak.
 
-15. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^355]
+15. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^354]
 
-[^355]: A 15. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^354]: A 15. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
