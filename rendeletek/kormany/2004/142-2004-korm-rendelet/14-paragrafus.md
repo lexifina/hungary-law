@@ -4,7 +4,7 @@
 
 (2) Az eseti engedély kizárólag az export, illetve import tevékenységre feljogosító tevékenységi engedéllyel rendelkező szervezetnek adható ki.
 
-(3)[^88] Ha az import tárgya kábítószert vagy pszichotrop anyagot tartalmazó olyan gyógyszer, amely nem rendelkezik Magyarországon forgalomba hozatali engedéllyel, az import engedély kiadásának feltétele az OGYI, illetve állatgyógyászati szerek esetén a miniszter által kiadott egyedi import engedély beszerzése.
+(3)[^88] Ha az import tárgya kábítószert vagy pszichotrop anyagot tartalmazó olyan gyógyszer, amely nem rendelkezik Magyarországon forgalomba hozatali engedéllyel, az import engedély kiadásának feltétele a GYEMSZI, illetve állatgyógyászati szerek esetén a miniszter által kiadott egyedi import engedély beszerzése.
 
 (4)[^89] Nem minősül exportnak, importnak (transzfer), ha a határ átlépésekor a gyógykezelés alatt álló személy a gyógykezeléshez szükséges, az 1. számú melléklet K1 vagy K2 jegyzékén, illetve P2 jegyzékén található hatóanyagot tartalmazó kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerből a határ átlépésétől számított hetvenkét órás időtartamra elegendő mennyiséget a kezelőorvos által kiállított, nemzetközi előírásnak megfelelő igazolással vagy az arra hatáskörrel és illetékességgel rendelkező hatóság által kiállított engedéllyel tart birtokában. Az igazolás kiállítása napjától számított harminc napig hatályos.
 
@@ -35,7 +35,7 @@ d)[^99] a tevékenység folytatása során az e rendeletben foglaltakat, illetve
 e) a tevékenységi engedélyt a kibocsátó hatóság visszavonta vagy felfüggesztette.
 
 [^87]: A 14. § (1) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 8. §-ának (1) bekezdése, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés b) és f) pontja szerint módosított szöveg.
-[^88]: A 14. § (3) bekezdése a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés f) pontja, továbbá a 19. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^88]: A 14. § (3) bekezdése a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés f) pontja, továbbá a 19. § (4) bekezdés b) pontja, az 59/2011. (IV. 12.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^89]: A 14. § (4) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^90]: A 14. § új (5) bekezdését a 153/2005. (VIII. 2.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 14. § (5) bekezdése a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^91]: A 14. § eredeti (5) bekezdésének számozását a 153/2005. (VIII. 2.) Korm. rendelet 8. §-ának (3) bekezdése (6) bekezdésre változtatta, szövege a 62/2010. (III. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

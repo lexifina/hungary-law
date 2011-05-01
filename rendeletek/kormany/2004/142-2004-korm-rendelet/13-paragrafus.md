@@ -2,7 +2,7 @@
 
 13. § (1)[^80] Az eseti kutatási engedély iránti kérelmet a tevékenységi engedéllyel nem rendelkező kérelmezőnek vizsgálatonként kell benyújtani az EEKH-hoz. Az eseti kutatási engedély a kérelemben megjelölt időpontig, illetve visszavonásáig hatályos.
 
-(2)[^81] A rendelet szerinti kábítószerekkel és pszichotróp anyagokkal végzett klinikai vizsgálatokhoz és orvostudományi kutatásokhoz az EEKH eseti kutatási engedélyét be kell szerezni. A kérelmezőnek kérelméhez csatolni kell az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) által kiadott klinikai vizsgálati engedélyt, illetve a kutatás szakmai engedélyezője által kiadott engedélyt. Az EEKH a kérelem beérkezését követő naptól számított tizenöt napon belül dönt az engedély kiadásáról és határozatát közli az OGYI-val, valamint az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) Országos Tisztifőorvosi Hivatalával.
+(2)[^81] A rendelet szerinti kábítószerekkel és pszichotróp anyagokkal végzett klinikai vizsgálatokhoz és orvostudományi kutatásokhoz az EEKH eseti kutatási engedélyét be kell szerezni. A kérelmezőnek kérelméhez csatolni kell a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által kiadott klinikai vizsgálati engedélyt, illetve a kutatás szakmai engedélyezője által kiadott engedélyt. Az EEKH a kérelem beérkezését követő naptól számított tizenöt napon belül dönt az engedély kiadásáról és határozatát közli a GYEMSZI-vel, valamint az Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ) Országos Tisztifőorvosi Hivatalával.
 
 (3) Az engedély iránti kérelemben meg kell jelölni:
 
@@ -47,7 +47,7 @@ b) az engedélyes az e rendeletben foglalt előírásokat, illetve az engedélyb
 (9)[^86] A kutatás időtartama alatt a rendőrség, illetve klinikai vizsgálatok esetén az ÁNTSZ hatósági ellenőrzést végezhet az engedélyesnél. A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) szükség esetén beszerzi az EEKH véleményét.
 
 [^80]: A 13. § (1) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés d) és f) pontja szerint módosított szöveg.
-[^81]: A 13. § (2) bekezdése a 258/2009. (XI. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (53) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^81]: A 13. § (2) bekezdése a 258/2009. (XI. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (53) bekezdése, az 59/2011. (IV. 12.) Korm. rendelet 10. § a) és b) pontja szerint módosított szöveg.
 [^82]: A 13. § (3) bekezdésének b) pontja a 153/2005. (VIII. 2.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
 [^83]: A 13. § (3) bekezdésének c) pontja a 153/2005. (VIII. 2.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
 [^84]: A 13. § (3) bekezdésének e) pontja a 153/2005. (VIII. 2.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
