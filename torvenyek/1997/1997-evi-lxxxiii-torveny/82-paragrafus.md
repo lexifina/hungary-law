@@ -9,3 +9,5 @@
 (3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 37. §-t a 2011. január 1-jét követően keletkezett jogsértések vonatkozásában kell alkalmazni.
 
 (4) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 66. § (1) bekezdést a 2011. január 1-jét követően jogalap nélkül igénybe vett pénzbeli ellátásra, baleseti járadékra, baleseti táppénzre vagy utazási költséghez nyújtott támogatásra kell alkalmazni.
+
+(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel megállapított 48. § (8) bekezdést a 2011. április 30-át követően bekövetkező keresőképtelenség esetén kell alkalmazni.
