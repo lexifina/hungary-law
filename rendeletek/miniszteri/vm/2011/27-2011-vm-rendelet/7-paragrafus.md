@@ -6,6 +6,4 @@
 
 (3) Az egyszerűsítettadóraktár-engedélyes köteles szőlőbor-pincekönyvet a 10–15. §-ban leírtaknak megfelelően vezetni.
 
-(4)[^1]
-
-[^1]: A 7. § (4) bekezdése a 21. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+(4) Az (1)–(3) bekezdésben nem említett borászati üzem szőlőbor-pincekönyvet köteles a 16. §-ban foglaltaknak megfelelően vezetni.

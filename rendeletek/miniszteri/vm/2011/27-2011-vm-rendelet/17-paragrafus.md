@@ -1,5 +1,3 @@
-## 16. §[^2]
-
 ## 17. § A szőlőbor-pincekönyvben
 
 a) a feldolgozott szőlő mennyiségét – beleértve a bérmunkában végzett feldolgozást is – a szőlő származási bizonyítvány második példányával,
@@ -19,5 +17,3 @@ g) a borászati melléktermékek kötelező lepárlásra történő értékesít
 h) a borászati melléktermékek ellenőrzés melletti kivonását borkísérő okmánnyal, és a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonására vonatkozó kötelezettségről szóló 123/2008. (IX. 16.) FVM rendelet 5. § (1) bekezdése szerinti bejelentéssel,
 
 i) a szőlőbor megsemmisítését a vámhatóság által kiállított megsemmisítési jegyzőkönyvvel
-
-[^2]: A 16. § a 21. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
