@@ -1,10 +1,10 @@
-11. § (1)[^10] Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 30. napon lép hatályba.
+11. § (1)[^11] Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 30. napon lép hatályba.
 
 (2) A 10. § és a melléklet EGT-re vonatkozó, III/7. pontja a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
 (3) Az e rendeletben foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.
 
-Melléklet a 227/2003. (XII. 13.) Korm. rendelethez[^11]
+Melléklet a 227/2003. (XII. 13.) Korm. rendelethez[^12]
 
 I. Kiállító intézet:
 
@@ -66,5 +66,5 @@ ___________
 
 * A megfelelő rész aláhúzandó!
 
-[^10]: A 11. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 799. pontja szerint módosított szöveg.
-[^11]: A melléklet III. része a 172/2005. (IX. 1.) Korm. rendelet 4. §-ának (2) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének k) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 799. pontja szerint módosított szöveg.
+[^12]: A melléklet III. része a 172/2005. (IX. 1.) Korm. rendelet 4. §-ának (2) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének k) pontja szerint módosított szöveg.
