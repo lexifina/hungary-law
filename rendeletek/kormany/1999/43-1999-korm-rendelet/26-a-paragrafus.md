@@ -1,11 +1,11 @@
-26/A. §[^209] (1) A biztosítottak részére nyújtott, az Eb. tv. 18. § (6) bekezdés l) pontjában meghatározott ellátásokat az egészségügyi szolgáltató a 4. § (1) és (2) bekezdése szerint jelenti.
+26/A. §[^212] (1) A biztosítottak részére nyújtott, az Eb. tv. 18. § (6) bekezdés l) pontjában meghatározott ellátásokat az egészségügyi szolgáltató a 4. § (1) és (2) bekezdése szerint jelenti.
 
 (2) Az (1) bekezdés szerinti beavatkozások nem számolhatók el a 4. § (3) bekezdése szerinti finanszírozott tevékenységként.
 
-(3)[^210] Az egészségügyi szolgáltató által az orvosbiológiai kutatásokról vezetett nyilvántartás a 26. számú melléklet szerinti adatokat tartalmazza. A szolgáltató a 26. számú melléklet szerinti adatokat az adott orvosbiológiai kutatáshoz kapcsolódóan elvégzett utolsó beavatkozás hónapját követő hónap 5. napjáig, számítógépes adathordozón megküldi a finanszírozónak.
+(3)[^213] Az egészségügyi szolgáltató által az orvosbiológiai kutatásokról vezetett nyilvántartás a 26. számú melléklet szerinti adatokat tartalmazza. A szolgáltató a 26. számú melléklet szerinti adatokat az adott orvosbiológiai kutatáshoz kapcsolódóan elvégzett utolsó beavatkozás hónapját követő hónap 5. napjáig, számítógépes adathordozón megküldi a finanszírozónak.
 
-(4)[^211]
+(4)[^214]
 
-[^209]: A 26/A. §-t az 58/2009. (III. 18.) Korm. rendelet 6. §-a iktatta be, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
-[^210]: A 26/A. § (3) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
-[^211]: A 26/A. § (4) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^212]: A 26/A. §-t az 58/2009. (III. 18.) Korm. rendelet 6. §-a iktatta be, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
+[^213]: A 26/A. § (3) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^214]: A 26/A. § (4) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.

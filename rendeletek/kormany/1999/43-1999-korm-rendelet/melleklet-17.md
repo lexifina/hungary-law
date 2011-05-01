@@ -1,4 +1,4 @@
-17. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^425]
+17. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^431]
 
 ## A tételes elszámolású eszközök és nagy értékű műtéti beavatkozások jelentésének adattartalma
 
@@ -58,4 +58,4 @@ Dátum: ..... év ............ hó ..... nap
 
 szolgáltató
 
-[^425]: A 17. számú melléklet az 50/2007. (III. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § h) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének i) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^431]: A 17. számú melléklet az 50/2007. (III. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § h) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének i) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés h) pontja szerint módosított szöveg.

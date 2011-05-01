@@ -242,7 +242,7 @@
 
 ## 17/A. Beutaló orvos munkahelyének azonosítója
 
-## Finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a szerződés szerinti szervezeti egység azonosító kódja, nem finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a működési engedély szerinti szervezeti egységkód, a REP ellenőrző orvosainak beutalása esetén 999999991, az orvos saját maga vagy közeli hozzátartozója beutalása esetén 999999992
+## Finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a szerződés szerinti szervezeti egység azonosító kódja, nem finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a működési engedély szerinti szervezeti egységkód, a OEP ellenőrző orvosainak beutalása esetén 999999991, az orvos saját maga vagy közeli hozzátartozója beutalása esetén 999999992
 
 ## 17/B. Beutaló orvos kódja
 
@@ -276,7 +276,7 @@
 
 ## C. az előző rekord folytatása
 
-## D. az Adatlapot kitöltő osztályon született újszülött
+## D. az Adatlapot kitöltő osztályon / az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött
 
 ## E. bírósági, igazságügyi-orvosszakértői beutalás
 
@@ -314,11 +314,11 @@
 
 ## 20. A felvétel időpontja
 
-## A felvétel dátuma (óra, perc pontossággal). Az a regisztrált időpont, amikor a felvételt végző orvos a beteg felvételének szükségességéről dönt
+## A felvétel dátuma (óra, perc pontossággal). Az a regisztrált időpont, amikor a felvételt végző orvos a beteg felvételének szükségességéről dönt. Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött esetén az újszülöttkori első szűrés kezdetének időpontja.
 
 ## 22. A távozás időpontja
 
-## A távozás időpontja az óra megadásával. Az óra, perc kitöltése csak áthelyezésre kerülő, illetve exitált betegnél kötelező. A távozás időpontja az, amikor a beteg az intézet azon osztályának területét hagyja el véglegesen, ahol a zárójelentését kiadták
+## A távozás időpontja az óra megadásával. Az óra, perc kitöltése csak áthelyezésre kerülő, illetve exitált betegnél kötelező. A távozás időpontja az, amikor a beteg az intézet azon osztályának területét hagyja el véglegesen, ahol a zárójelentését kiadták. Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött esetén az újszülöttkori első szűrés befejezésének időpontja.
 
 ## 23. A beteg további sorsa
 
@@ -326,7 +326,7 @@
 
 ## 2. más fekvőbeteg gyógyintézetbe történő áthelyezés
 
-## 3. otthonába bocsátva
+## 3. otthonába bocsátva / az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által nyújtott ellátás befejezettnek minősül
 
 ## 4. meghalt
 
@@ -530,6 +530,8 @@
 
 ## Az elvégzett beavatkozás darabszáma
 
+## Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött szűrésére vonatkozó OENO kódok esetén nem kell kitölteni a 27. rovatban a Sebgyógyulás (S), a Nosocomiális fertőzés (F), a beavatkozás minősítése az ellátásban elfoglalt helye szerint (M) rovatokat.
+
 ## 29. Újszülött súlya
 
 ## Újszülött testsúlya felvételkor grammban, újszülött esetén kitöltése kötelező
@@ -568,8 +570,8 @@
 
 ## 32.
 
-## Az Adatlap minden pontja kötelezően kitöltendő
+## Az Adatlap minden pontja kötelezően kitöltendő, kivéve ahol e melléklet a kitöltés mellőzését lehetővé teszi.
 
-15. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^423]
+15. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^429]
 
-[^423]: A 15. számú melléklet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (3) bekezdésével megállapított, a 318/2006. (XII. 23.) Korm. rendelet 24. § (4) bekezdése, a 4/2007. (I. 22.) Korm. rendelet 10. §-a, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § g) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének h) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése szerint módosított szöveg.
+[^429]: A 15. számú melléklet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (3) bekezdésével megállapított, a 318/2006. (XII. 23.) Korm. rendelet 24. § (4) bekezdése, a 4/2007. (I. 22.) Korm. rendelet 10. §-a, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § g) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének h) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése szerint módosított szöveg.

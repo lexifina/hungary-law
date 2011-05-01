@@ -1,4 +1,4 @@
-20. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^429]
+20. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^435]
 
 Háziorvosi betegforgalmi tevékenység tételes
 
@@ -35,6 +35,8 @@ Személyazonosító típusa
 Társadalombiztosítási Azonosító Jel
 
 Páciens törzskarton sorszáma
+
+A páciens nyilatkozata a kötelező egészségbiztosítás terhére igénybe vett egészségügyi ellátás adatainak megismerhetőségéről
 
 Gondozás
 
@@ -164,6 +166,14 @@ Tartalma:
 
 Az orvos személyazonosító bélyegzőjének 5 jegyű száma
 
+A páciens nyilatkozata a kötelező egészségbiztosítás terhére igénybe vett egészségügyi ellátás adatainak megismerhetőségéről
+
+Tartalma:
+
+1 = A háziorvos tájékoztatta a hozzá bejelentkezett biztosítottat arról, hogy a jövőben, ha a biztosított nem tiltja meg, megismerheti az OEP adatbázisában szereplő, a kötelező egészségbiztosítás terhére igénybe vett egészségügyi ellátás adatait, és a biztosított nem tiltotta meg azok megismerhetőségét.
+
+2 = A háziorvos tájékoztatta a hozzá bejelentkezett biztosítottat arról, hogy a jövőben, ha a biztosított nem tiltja meg, megismerheti az OEP adatbázisában szereplő, a kötelező egészségbiztosítás terhére igénybe vett egészségügyi ellátás adatait, de a biztosított megtiltotta azok megismerhetőségét.
+
 Gondozás
 
 Tartalma:
@@ -266,100 +276,4 @@ Tartalma:
 
 5 = szűrés
 
-6 = tanácsadás
-
-A = baleseti ellátás
-
-B = balesettel kapcsolatos ellátás
-
-C = akut megbetegedés gyanúja
-
-D = hatósági vizsgálat
-
-E = védőoltás
-
-Továbbküldés oka
-
-Tartalma:
-
-0 = nem történt továbbküldés
-
-1 = labordiagnosztika
-
-2 = képalkotó diagnosztika
-
-3 = egyéb diagnosztika
-
-4 = konzílium
-
-5 = terápia
-
-6 = adminisztratív ok
-
-7 = saját labor- és eszközdiagnosztika
-
-Továbbküldés iránya
-
-Tartalma:
-
-az ellátást végző intézmény azonosítója
-
-Továbbküldés eszköze
-
-Tartalma:
-
-1 = Útiköltség utalvánnyal
-
-2 = OEP által finanszírozott betegszállító gépjárművel
-
-3 = Nem térített utazással
-
-4 = Laborminta
-
-5 = Utazási Költségtérítési Utalvánnyal
-
-Gyógyszer, gyógyászati segédeszköz
-
-Tartalma:
-
-G = gyógyszer
-
-S = gyógyászati segédeszköz
-
-F = gyógyfürdő
-
-A rendelt gyógyszer, illetve a rendelt segédeszköz TTT kódja
-
-Tartalma:
-
-A rendelt gyógyszer, gyógyászati segédeszköz OEP TTT szerinti kódja
-
-A rendelést indokoló diagnózis
-
-Tartalma:
-
-A rendelést indokoló diagnózis
-
-A rendelés jogcíme
-
-Tartalma:
-
-001 = Közgyógyellátási igazolványra
-
-002 = Eü rendelkezésre (Eü. kiemelt)
-
-003 = Eü térítés köteles (Eü. emelt)
-
-004 = HM jogcímen
-
-005 = Üzemi baleset jogcímen
-
-011 = EÜ90 expediálása közgyógyellátási igazolványra
-
-012 = Közgyógyellátási igazolványra történő eladás (kiemelt)
-
-ALT = Általános (Normatív)
-
-0NT = Nem támogatott gyógyszer
-
-[^429]: A 20. számú melléklet a 364/2007. (XII. 23.) Korm. rendelet 16. § (19) bekezdésével megállapított és a 65/2008. (III. 29.) Korm. rendelet 3. § i) pontja, a 151/2008. (V. 30.) Korm. rendelet 10. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (7) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 15. § (1)–(2) szerint módosított szöveg.
+[^435]: A 20. számú melléklet a 364/2007. (XII. 23.) Korm. rendelet 16. § (19) bekezdésével megállapított és a 65/2008. (III. 29.) Korm. rendelet 3. § i) pontja, a 151/2008. (V. 30.) Korm. rendelet 10. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (7) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 15. § (1)–(2) bekezdése, a 73/2011. (IV. 29.) Korm. rendelet 6. § (6) bekezdése szerint módosított szöveg.
