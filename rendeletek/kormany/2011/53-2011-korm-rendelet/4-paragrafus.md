@@ -6,23 +6,7 @@
 
 (4)[^5]
 
-(5) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) a következő 9/A. §-sal egészül ki:
-
-## „9/A. § A miniszter a Közgyűjteményi Ellátó Szervezet útján – amely e tevékenységéhez a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe – működteti a központi közigazgatás integrált üdültetési rendszerét, gondoskodik az integrált üdültetési rendszerhez tartozó – az állami vagyon felügyeletéért felelős miniszter egyetértésével kijelölt – üdülőingatlanok üzemeltetéséről.”
-
-(6) Az R. 92. § (1) bekezdése a következő n) ponttal egészül ki:
-
-[A miniszter az informatikáért, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért és az űrkutatásért való felelőssége körében:]
-
-## „n) a Kopint-Datorg Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.”
-
-(7) Az R. 93. §-a helyébe a következő rendelkezés lép:
-
-## „93. § A Kopint-Datorg Zrt. a 92. § (1) bekezdés n) pontja szerinti feladatát a nemzeti fejlesztési miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét (SLA). A Kopint-Datorg Zrt. szolgáltatási díját a ténylegesen felmerült és a teljes költség felosztás módszerével meghatározott önköltség, valamint az adott szolgáltatással közvetlenül összefüggő felhalmozási költség alapján a szolgáltatási szint alapú közszolgáltatási szerződés határozza meg.”
-
-(8) Az R. 121. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza az integrált üdültetési rendszerhez tartozó üdülők igénybevételének rendjét és hasznosításának szabályait, meghatározza az alkalmazandó üdülési díjak megállapításának a szabályait.”
+(5)–(8)[^6]
 
 (9) A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § a) pont aa) alpontjában és b) pontjában meghatározott szerveknek 2011. május 1. napja előtt nyújtott informatikai és telekommunikációs szolgáltatások, az ezzel összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések, továbbá az átvett feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a Kopint-Datorg Zrt. a Központi Szolgáltatási Főigazgatóság jogutódja.
 
@@ -30,11 +14,7 @@
 
 (11) A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § h)–j) pontjában meghatározott feladatokkal összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések tekintetében, továbbá e feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a Központi Szolgáltatási Főigazgatóság jogutódja a Közgyűjteményi Ellátó Szervezet.
 
-(12) Hatályát veszti
-
-a) a Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet,
-
-b) a Központi Szolgáltatási Főigazgatóság által nyújtott ellátási szolgáltatások köréről, terjedelméről, valamint az igénybevétel rendjéről szóló 7/2007. (III. 19.) MeHVM rendelet.
+(12)[^7]
 
 Melléklet az 53/2011. (III. 31.) Korm. rendelethez
 
@@ -264,3 +244,5 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 [^4]: A 4. § (3) bekezdése a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
 [^5]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (5)–(8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
