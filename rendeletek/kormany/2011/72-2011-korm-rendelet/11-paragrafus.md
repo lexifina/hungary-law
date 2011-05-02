@@ -1,3 +1,0 @@
-## „(8) A központi gyakornoki állásra jelentkező jelölteket a felsőoktatási intézmény a döntéséről postai úton és – ha a jelölt az elektronikus úton történő értesítéshez hozzájárult – elektronikus úton értesíti. A jelölt a felsőoktatási intézmény döntéséről a (6) bekezdés szerinti időpontot követően személyesen is felvilágosítást kérhet.
-
-## (9) A felsőoktatási intézmény által alkalmazni kívánt jelölt október 15-éig köteles írásban értesíteni a felsőoktatási intézményt, hogy az elnyert állást be kívánja-e tölteni. Amennyiben a jelölt az értesítési kötelezettségét határidőben nem teljesíti, vagy az állást nem kívánja betölteni, a rangsorban a következő jelöltnek kell azt felkínálni.”

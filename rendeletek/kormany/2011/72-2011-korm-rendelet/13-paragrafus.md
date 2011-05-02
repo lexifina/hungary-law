@@ -1,1 +1,0 @@
-## „(4) Az egészségügyi szolgáltatóval létesített megállapodás alapján a szakképzés megkezdését megelőzően teljesített gyakorlati időből legfeljebb egy év – az egészségügyi szolgáltató akkreditációjának figyelembe vételével – a szakképzés teljesítésébe beszámítandó.”
