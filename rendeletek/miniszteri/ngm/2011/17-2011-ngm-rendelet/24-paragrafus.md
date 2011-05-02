@@ -1,3 +1,0 @@
-## 23. § A JötR. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A hatósági felügyeletet ellátó vámszerv az engedélyezési eljárás során az adóraktár, az adómentes üzem, a felhasználó üzem üzemi berendezéseiről, tárolótartályairól és az alkalmazott hivatalos zárakról műszaki leírást készít. A műszaki leírás eredeti példányát az adóraktárban, az adómentes üzemben, a felhasználó üzemben kell tartani, másodpéldánya az engedélyt kiadó vámszerv – amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos –, harmadpéldánya a hatósági felügyeletet ellátó vámszerv példánya.”

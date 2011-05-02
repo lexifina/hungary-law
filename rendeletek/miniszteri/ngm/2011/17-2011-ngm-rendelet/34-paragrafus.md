@@ -1,3 +1,0 @@
-## 33. § A JötR. 37/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A (2) bekezdés szerinti döntés közlésétől számított 5 napon belül az engedélyes köteles a manuális nyilvántartást benyújtani az engedélyt kiadó vámszervhez, amely azt – a benyújtástól számított 5 napon belül – jóváhagyja vagy elutasítja, jóváhagyás esetén hitelesíti. Az engedélyt kiadó vámszerv – amennyiben nem azonos a hatósági felügyeletet ellátó vámszervvel – a jóváhagyott manuális nyilvántartást – a jóváhagyással egyidejűleg – megküldi a hatósági felügyeletet ellátó vámszervhez, amely azt 8 napon belül hitelesíti.”

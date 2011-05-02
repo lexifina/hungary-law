@@ -1,3 +1,0 @@
-## 39. § A JötR. 70. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A beszállókártya számát a tranzitadóraktár-engedélyes az értékesítésről kibocsátott nyugtán, illetve számlán köteles feltüntetni, továbbá a vámszerv által jóváhagyott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által jóváhagyott és a hatósági felügyeletet ellátó vámszerv által hitelesített nyilvántartásában szerepeltetni. Az átszálló utasok esetében a repülőjegyről készített másolat a nyilvántartás mellékletét képezi. Végső úti céllal harmadik országba utazó utas az általa tranzitadóraktárban vásárolt adózatlan jövedéki terméket nem idegenítheti el, azt arra jogosulatlan személy részére nem adhatja át.”

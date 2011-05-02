@@ -1,3 +1,0 @@
-## 47. § A JötR. 100. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az adó-megállapítási és adófizetési kötelezettség alól véglegesen mentesíthető mintákról az adóraktár engedélyesének és az adómentes felhasználónak a vámszerv által elfogadott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által elfogadott és a hatósági felügyeletet ellátó vámszerv által hitelesített mintavételi nyilvántartást kell vezetnie. A mintavételi nyilvántartás vezetésére az engedélyt kiadó vámszerv által elfogadott számítógépes nyilvántartás is alkalmazható.”

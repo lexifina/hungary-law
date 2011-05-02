@@ -1,3 +1,0 @@
-## 90. § Az ingatlanok forgalmi értékadatainak szolgáltatási rendjéről és az adatszolgáltatás igazgatási szolgáltatási díjáról szóló 33/2007. (XII. 23.) PM rendelet (a továbbiakban: R8.) 15. §-a helyébe a következő rendelkezés lép:
-
-## „15. § Az igazgatási szolgáltatási díjat az állami adóhatóság illetékes regionális adó főigazgatósága gazdálkodási számlájára kell megfizetni banki átutalással vagy az állami adóhatóság ügyfélszolgálatain beszerezhető készpénzátutalási megbízással. Az átutalási megbízás közlemény rovatába vagy a készpénzfizetési megbízáson a kérelmező adószámát, illetve adóazonosító jelét kötelező feltüntetni. Az igazgatóságok és gazdálkodási számláinak részletes felsorolását jelen rendelet 3. számú melléklete tartalmazza.”

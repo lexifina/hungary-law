@@ -1,3 +1,0 @@
-## 1. § A jövedéki termékek veszteségnormáiról szóló 43/1997. (XII. 30.) PM rendelet (a továbbiakban: R1.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Nemzeti Adó- és Vámhivatal engedélyt kiadó vámszerve kérelemre, illetve hivatalból előírhatja az e rendeletben meghatározott veszteségnormától eltérő mértékek alkalmazását, amennyiben azt a műszaki-technológiai feltételek indokolják, a helyszíni mérések adatai, valamint szakértői vélemény alátámasztják. A veszteségnormától eltérő mértékek alkalmazásának hivatalból történő előírásának a hatósági felügyeletet ellátó vámszerv kezdeményezésére is helye van, amennyiben az az engedélyt kiadó vámszervvel nem azonos.”

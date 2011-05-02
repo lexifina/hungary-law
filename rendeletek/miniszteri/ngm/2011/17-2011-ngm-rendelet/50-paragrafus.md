@@ -1,3 +1,0 @@
-## 49. § A JötR. 109. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A Jöt. 24. § (1) bekezdése szerinti bejegyzett kereskedőnek a 15. számú melléklet szerinti adattartalommal kell folyamatosan a fogadóhelyen – több fogadóhely esetén összesítve is – a vámszerv által jóváhagyott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által jóváhagyott és a hatósági felügyeletet ellátó vámszerv által hitelesített szállítási nyilvántartást vezetni. A nyilvántartás vezetésére az engedélyt kiadó vámszerv által előzetesen jóváhagyott számítógépes nyilvántartás is alkalmazható.”

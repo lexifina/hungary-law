@@ -1,3 +1,0 @@
-## 35. § A JötR. 39. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az adóraktárban tárolt adózott jövedéki termékről a vámszerv által jóváhagyott és hitelesített, ha az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által jóváhagyott és a hatósági felügyeletet ellátó vámszerv által hitelesített külön nyilvántartást kell vezetni, az adózott jövedéki terméket a 28. számú melléklet, illetve a 28/A. számú melléklet szerinti termékmérleg-nyilvántartás nem tartalmazza. A nyilvántartás vezetésére az engedélyt kiadó vámszerv által előzetesen jóváhagyott számítógépes nyilvántartás is alkalmazható.”
