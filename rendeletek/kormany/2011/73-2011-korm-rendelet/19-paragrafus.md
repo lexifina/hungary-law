@@ -6,6 +6,8 @@
 
 (3) A 8. § (5) bekezdése 2011. július 1-jén lép hatályba.
 
-(4) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet és a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet módosításáról szóló 366/2010. (XII. 30.) Korm. rendelet 2. mellékletének a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 1. számú melléklet 5. pontját módosító rendelkezése a „részleges” szövegrész helyett a „kiegészítő” szöveggel lép hatályba.
+(4)[^14]
 
 (5) Ez a rendelet 2011. július 2-án hatályát veszti.
+
+[^14]: A 19. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

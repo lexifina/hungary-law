@@ -1,3 +1,3 @@
-## Hatályát veszti a Kr4. 1. mellékletében a „II. Nem ágazatspecifikus munkakörök” című táblázat gazdasági vezetőre vonatkozó 1. c) sora.
+10. melléklet a 73/2011. (IV. 29.) Korm. rendelethez[^24]
 
-10. melléklet a 73/2011. (IV. 29.) Korm. rendelethez
+[^24]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
