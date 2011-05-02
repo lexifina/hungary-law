@@ -34,12 +34,6 @@
 
 ## g) javaslatok a létesítmény nyomonkövetési rendszerének továbbfejlesztésére.
 
-6. melléklet a 8/2011. (III. 17.) NFM rendelethez
+6. melléklet a 8/2011. (III. 17.) NFM rendelethez[^4]
 
-1. Az R. mellékletének I. része a következő 4. ponttal egészül ki:
-
-„
-
-| 4. |  | Nyomonkövetési tervek jóváhagyása (nyomonkövetési tervenként) | 207 000 |
-
-”
+[^4]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

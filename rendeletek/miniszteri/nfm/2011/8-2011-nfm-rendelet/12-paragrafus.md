@@ -14,6 +14,6 @@ való megfelelést szolgálja.
 
 (4) Ez a rendelet a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásának nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról szóló, 2007. július 18-i 2007/589/EK bizottsági határozat I. melléklet 2.5. pont d) alpontjának, I. melléklet 2.1. pont e) és f) alpontjainak, I. melléklet 4.3. pont 1. és 2. francia bekezdésének, I. melléklet 5.2. pont 5. francia bekezdésének, valamint I. melléklet 10.4.2. pontjának végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(5)[^1]
+(5)[^2]
 
-[^1]: A 12. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 12. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
