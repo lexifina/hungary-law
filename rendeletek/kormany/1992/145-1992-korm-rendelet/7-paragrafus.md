@@ -1,4 +1,4 @@
-## 6. §[^8] A gazdálkodó szervezet a pénzbeli szénjárandóság folyósításakor szükséges adatokat (név, születési év, hó, nap, lakcím nyugdíjfolyósítási törzsszám) a tárgyévet megelőző év december 31-ig köteles a nyugdíjbiztosításnak (nyugdíjfolyósítási szervnek) az erre a célra rendszeresített űrlapon megküldeni.
+## 6. §[^8] A gazdálkodó szervezet a pénzbeli szénjárandóság folyósításakor szükséges adatokat (név, születési év, hó, nap, lakcím nyugdíjfolyósítási törzsszám) a tárgyévet megelőző év december 31-ig köteles a nyugdíjbiztosításnak (nyugdíjfolyósítási szervnek) az erre a célra rendszeresített űrlapon megküldeni. A gazdálkodó szervezet megszűnése esetén az adatokat az integráción kívüli szénbányák és a Bányászati Aknamélyítő Vállalat esetében a Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság, az érc- és ásványbányák esetében az Érc- és Ásványbányák Egészségmegőrzéséért Alapítvány küldi meg a nyugdíjbiztosításnak (nyugdíjfolyósítási szervnek).
 
 ## 7. §[^9] E rendelet alkalmazásában:
 
@@ -10,5 +10,5 @@ c) ,,bányaüzem'' kifejezésen a 115/1993. (VIII. 12.) Korm. rendelet fogalomme
 
 kell érteni.
 
-[^8]: A 6. § a 116/1994. (VIII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § a 75/2011. (V. 2.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^9]: A 7. §-t a 116/1994. (VIII. 31.) Korm. rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti 7. és 8. § számozását 8–9. §-ra változtatta.

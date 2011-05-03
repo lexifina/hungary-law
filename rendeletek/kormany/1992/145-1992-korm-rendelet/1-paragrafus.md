@@ -6,7 +6,7 @@ a) az őket utoljára foglalkoztató gazdálkodó szervezet jogutód nélkül me
 
 b) a gazdálkodó szervezet felszámolás alatt áll és bányászati termelő tevékenységét megszüntette.
 
-Az igényjogosultság a gazdálkodó szervezet megszűnésének, illetve a felszámolási eljárás alatt a bányászati termelőtevékenység megszűntének évét követő év első napján nyílik meg, a 2. § szerinti nem valorizált értéken, abban az esetben is, ha visszamenőleges igényérvényesítésről van szó.
+Az igényjogosultság a gazdálkodó szervezet megszűnésének, illetve a felszámolási eljárás alatt a bányászati termelőtevékenység megszűntének évét követő év első napján nyílik meg,, abban az esetben is, ha visszamenőleges igényérvényesítésről van szó.
 
 (3)[^3] A (2) bekezdésben foglalt feltételek megléte esetén sem jogosultak a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására azok, akik 1995. október 21-ét követően alapított bányászati gazdálkodó szervezettől mennek nyugdíjba.
 
@@ -19,6 +19,6 @@ b) a jogosult szülőjét (nagyszülőjét) mindaddig, amíg szülői nyugdíjat
 c) az a) és b) pontokban megállapított hozzátartozók hiányában a jogosult árvaellátásban részesülő kiskorú, illetve rokkant gyermekét.
 
 [^1]: Az 1. § a 116/1994. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított, záró szövegrésze a 75/2011. (V. 2.) Korm. rendelet 30. § (5) bekezdése szerint módosított szöveg.
 [^3]: Azb 1. § (3) bekezdését a 123/1995. (X. 6.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (4) bekezdése a 129/1997. (VII. 24.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.

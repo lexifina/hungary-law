@@ -1,4 +1,4 @@
-## 2. § A pénzbeli szénjárandóság éves összege évente 20 q hazai kitermelésű 16 500—17 500 kJ/kg fűtőértékű barnaszén tárgyév január 15-i szállítási költség nélküli fogyasztói ára, melynek mértékét a Gazdasági Minisztérium minden év január 20-ig köteles az Országos Nyugdíjbiztosítási Főigazgatósággal[^5] közölni.
+## 2. §[^5] A pénzbeli szénjárandóság éves összege a tárgyévet megelőző évre megállapított szénjárandóság összege, korrigálva a Központi Statisztikai Hivatal által közzétett, tárgyév januárjára vonatkozó, tárgyévet megelőző év januárjához viszonyított szén fogyasztói árindex mértékével. Az így kiszámított éves összeg mértékét a bányászatért felelős miniszter minden év március 15-éig közli az Országos Nyugdíjbiztosítási Főigazgatósággal.
 
 3. § (1) A pénzbeli szénjárandóságot a társadalombiztosítás (nyugdíjat folyósító szerv) folyósítja.
 
@@ -6,4 +6,4 @@
 
 (3) Az 1. §-ban meghatározott jogosultak számára teljesített kifizetés és annak megtérítése a Társadalombiztosítási Alap költségvetését nem érinti.
 
-[^5]: Lásd az 1998: XXXIX. törvényt.
+[^5]: A 2. § a 75/2011. (V. 2.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
