@@ -2,7 +2,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházás- ként gyártelepítés és annak létesítményei, valamint az ahhoz kapcsolódó logisztikai bázis és létesítményei | Kecskemét Megyei Jogú Város belterületi 26500 helyrajzi számú ingatlan | építésügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Kecskemét Megyei Jogú Város belterületi 26500 helyrajzi számú ingatlan | Általános építésügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -10,7 +10,7 @@
 
 | 4. | vízjogi engedélyek | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 5. | villamosenergia- ipari építésügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 5. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 6. | földvédelmi hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
@@ -30,7 +30,7 @@
 
 | 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^6]
+2. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Bács-Kiskun Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-[^6]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított szöveg.
+[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított szöveg.
