@@ -1,1 +1,6 @@
-1. melléklet a 16/2011. (II. 24.) Korm. rendelethez
+## 3. §[^2] E rendeletnek az egyes magyarországi nagyberuházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 76/2011. (V. 2.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatályba lépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+1. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^3]
+
+[^2]: A 3. §-t a 76/2011. (V. 2.) Korm. rendelet 4. §-a iktatta be.
+[^3]: Az 1. melléklet a 76/2011. (V. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.

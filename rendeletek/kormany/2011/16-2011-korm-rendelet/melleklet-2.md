@@ -4,7 +4,7 @@
 
 | Sor- szám | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Győr, 5475/66 | építésügyi hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Győr 5475/66 | Általános építésügyi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -18,7 +18,7 @@
 
 | 6. | vízjogi engedélyek | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 7. | villamosenergia- ipari építésügyi hatósági engedélyek | Győr-Moson-Sopron Megyei Kormányhivatal Mérésügyi és Műszaki biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 8. | földvédelmi hatósági eljárás | Győri Körzeti Földhivatal | Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala |
 
