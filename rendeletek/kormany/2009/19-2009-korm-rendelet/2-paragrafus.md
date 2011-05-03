@@ -1,25 +1,27 @@
 ## (A GET 6–7. §-ához)
 
-## Rendszerirányítás
+## Rendszerirányítás[^8]
 
-2. §[^8] (1) A rendszerirányítói működési engedélyt kérelmező földgázszállítónak rendelkeznie kell a rendszerirányítói tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, személyi állománnyal, módszerekkel, eljárásokkal, ezen belül különösen
+2. § (1) A rendszerirányítási feladatokat ellátó szállítási rendszerüzemeltetőnek a szállítási rendszerüzemeltetőre előírtakon túlmenően:
 
-a) a GET-ben előírt engedélyesi tevékenység ellátására alkalmas, a rendszerüzemeltetők informatikai rendszerével is együttműködő adatforgalmi és informatikai rendszerrel,
+a) rendelkeznie kell a rendszerirányítási tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, módszerekkel, személyi állománnyal, valamint eljárásokkal, így
 
-b) az engedélyes saját szervezetén belül foglalkoztatott megfelelő létszámú és képzettségű szakemberállománynyal, amely alkalmas az irányítási és koordinációs, fejlesztési, tervezési, a nemzetközi képviseleti tevékenységek végzésére, valamint az adatforgalmi és informatikai rendszer működtetésére,
+aa) a tevékenység ellátására alkalmas adatforgalmi és informatikai rendszerrel,
 
-c) olyan módszerekkel, eljárásokkal, mely alkalmas a GET 85. §-ában meghatározott mentesség tárgyában a Hivatal döntéséhez szükséges, az együttműködő földgázrendszerre és a földgázellátás forrásainak bővítésére gyakorolt hatás vizsgálatára,
+ab) az engedélyes saját szervezetén belül foglalkoztatott megfelelő létszámú és képzettségű szakember állománnyal, amely alkalmas az irányítási és koordinációs, fejlesztési, tervezési, valamint a nemzetközi képviseleti tevékenységek végzésére, és
 
-d) elkülönített szervezettel, amely működteti a napi földgáz és kereskedelmi piacot és rendelkezik a működtetéshez szükséges eszközökkel, a piac működését leíró szabályzatokkal.
+ac) olyan módszerekkel, eljárásokkal, melyek alkalmasak a GET 12. § b), d), e) és f) pontjában meghatározott feladatok és a GET 85. §-ában meghatározott mentesség tárgyában a Hivatal döntéséhez szükséges, az együttműködő földgázrendszerre és a földgázellátás forrásainak bővítésére gyakorolt hatás vizsgálatára,
 
-(2) Az egyenlő bánásmód követelménye, a versenysemlegesség, az átláthatóság, az ellátás biztonsága, a felhasználók védelme, valamint a legkisebb költség elvének érvényesülése érdekében az engedélyes rendszerirányítói tevékenysége körében köteles biztosítani, hogy
+b) biztosítania kell az egyenlő bánásmód követelménye, a versenysemlegesség, az átláthatóság, az ellátás biztonsága, a felhasználók védelme, valamint a legkisebb költség elvének érvényesülése érdekében, hogy
 
-a) a rendszerüzemeltetők a rendszerirányító részéről azonos, megkülönböztetés-mentes bánásmódban részesüljenek,
+ba) a rendszerüzemeltetők a rendszerirányító részéről azonos, megkülönböztetés-mentes bánásmódban részesüljenek,
 
-b) a rendszerüzemeltetők hozzáférhessenek a saját adataikhoz, valamint a közérdekű információkhoz a földgázszállító-hálózatokhoz való hozzáférés feltételeiről szóló 2005. szeptember 28-i 1775/2005/EK európai parlamenti és tanácsi rendelet harmadik félre vonatkozó titoktartásra vonatkozó előírásai betartása mellett,
+bb) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben,
 
-c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
+bc) a rendszerüzemeltetők hozzáférhessenek a saját adataikhoz, valamint a közérdekű információkhoz a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 715/2009/EK rendelet) harmadik félre vonatkozó titoktartásra vonatkozó előírásai betartása mellett.
 
-(3) A rendszerirányításra vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének I. fejezetében meghatározott iratokat kell benyújtani.
+(2) Az (1) bekezdés szerinti feltételek meglétét a Hivatal felhívására a szállítási rendszerüzemeltető igazolja.
 
-[^8]: A Vhr. 2. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+(3) A rendszerirányítási feladatokat és azok végzésének kötelezettségét a Hivatal – a GET-ben maghatározottakkal összhangban – a szállítási rendszerüzemeltető engedélyében írja elő. A Hivatal a rendszerirányítási feladatok változása miatt a szállítási rendszerüzemeltetői működési engedélyt hivatalból módosíthatja.
+
+[^8]: A Vhr. „Rendszerirányítás” alcíme (Vhr. 2. §) a 75/2011. (V. 2.) Korm. rendelet 13. §-ával megállapított szöveg.

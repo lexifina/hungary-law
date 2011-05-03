@@ -1,4 +1,4 @@
-67. §[^110] (1) A földgázszállító, illetve földgázelosztó köteles a földgáztermelő megkeresésére 60 napon belül a rendszerén való csatlakozási pont kiépítésének műszaki-gazdasági feltételeiről részletes ajánlatot adni.
+67. §[^123] (1) A földgázszállító, illetve földgázelosztó köteles a földgáztermelő megkeresésére 60 napon belül a rendszerén való csatlakozási pont kiépítésének műszaki-gazdasági feltételeiről részletes ajánlatot adni.
 
 (2) A földgáztermelő ajánlatkérésének tartalmaznia kell:
 
@@ -8,7 +8,7 @@ b) a kitermelni és a rendszerbe betáplálni tervezett órai és napi földgáz
 
 c) a rendszerbe betáplálni kívánt földgáz fizikai, kémiai jellemzőit,
 
-d)[^111] nyilatkozatot arról, hogy a betáplálni kívánt és a földgáztermelő által bizonylatolt minőségű földgáz megfelel a 66/A. § (4)–(5) bekezdésében meghatározott követelményeknek.
+d)[^124] nyilatkozatot arról, hogy a betáplálni kívánt és a földgáztermelő által bizonylatolt minőségű földgáz megfelel a 66/A. § (4)–(5) bekezdésében meghatározott követelményeknek.
 
 (3) A földgázszállító, illetve földgázelosztó ajánlatának tartalmaznia kell:
 
@@ -30,5 +30,5 @@ e) a betáplálási, illetve csatlakozási pontra vonatkozó mérési-elszámol�
 
 (7) A földgázszállító, illetve a földgázelosztó a termelői csatlakozási pontra vonatkozóan köteles az engedélymódosítási kérelmet a Hivatalhoz benyújtani, és a kérelméhez mellékelni a földgáztermelővel kötött megállapodásokat. A Hivatal csak részleges szigetüzem kialakításához járulhat hozzá.
 
-[^110]: A Vhr. 67. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^111]: A Vhr. 67. § (2) bekezdés d) pontját a 139/2009. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^123]: A Vhr. 67. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^124]: A Vhr. 67. § (2) bekezdés d) pontját a 139/2009. (VI. 30.) Korm. rendelet 2. §-a iktatta be.

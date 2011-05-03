@@ -1,4 +1,4 @@
-102. §[^160] (1) Ha a felhasználók ellátása több egymáshoz kapcsolódó elosztóvezetéken keresztül történik, az elosztási szerződés megkötésére a felhasználóval közvetlen műszaki kapcsolatban álló földgázelosztó köteles.
+102. §[^175] (1) Ha a felhasználók ellátása több egymáshoz kapcsolódó elosztóvezetéken keresztül történik, az elosztási szerződés megkötésére a felhasználóval közvetlen műszaki kapcsolatban álló földgázelosztó köteles.
 
 (2) A kapcsolódó elosztóvezetékeket üzemeltető földgázelosztók kötelesek együttműködési megállapodásban rögzíteni:
 
@@ -30,4 +30,4 @@ e) a földgázrendszerek kapcsolódási pontjainál a normál és rendkívüli �
 
 (4) A (2) és (3) bekezdés alapján érintett engedélyesek az együttműködési megállapodások megkötéséért egyetemlegesen felelősek.
 
-[^160]: A Vhr. 102. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^175]: A Vhr. 102. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

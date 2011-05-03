@@ -1,3 +1,3 @@
-35. §[^56] Az egyetemes szolgáltatásra vonatkozó részletes szabályokat e rendelet 2. számú melléklete szerinti Egyetemes Szolgáltatási Szabályzat (a továbbiakban: ESZSZ) tartalmazza.
+35. §[^69] Az egyetemes szolgáltatásra vonatkozó részletes szabályokat e rendelet 2. számú melléklete szerinti Egyetemes Szolgáltatási Szabályzat (a továbbiakban: ESZSZ) tartalmazza.
 
-[^56]: A Vhr. 35. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^69]: A Vhr. 35. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

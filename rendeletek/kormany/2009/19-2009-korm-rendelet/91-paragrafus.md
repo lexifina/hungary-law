@@ -1,4 +1,4 @@
-91. §[^143] (1) A rendszerhasználó a földgázszállítóval fennálló szerződés szerinti szolgáltatási időpontig a másodlagos piacon értékesítheti a gázátadó állomáson, illetve a betáplálási ponton leszerződött kapacitásokat.
+91. §[^156] (1) A rendszerhasználó a földgázszállítóval fennálló szerződés szerinti szolgáltatási időpontig a másodlagos piacon értékesítheti a gázátadó állomáson, illetve a betáplálási ponton leszerződött kapacitásokat.
 
 (2) A kapacitások másodlagos értékesítése a földgázszállító üzletszabályzatában rögzített módon, szabványosított eljárásrend alapján történik.
 
@@ -18,4 +18,4 @@ a) a rendszerek csatlakozási pontján leköthető megszakítható kapacitások 
 
 b) a megszakítható kapacitás kiszolgálásának megszüntetése esetén alkalmazott eljárásrendre és újranominálási szabályokra.
 
-[^143]: A Vhr. 91. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^156]: A Vhr. 91. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

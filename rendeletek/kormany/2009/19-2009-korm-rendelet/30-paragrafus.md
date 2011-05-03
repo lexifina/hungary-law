@@ -1,6 +1,6 @@
 ## (A GET 39. §-ához)
 
-30. §[^50] (1) Egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását
+30. §[^63] (1) Egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását
 
 a) a szolgáltatási területre jellemző, de legalább egy gázévre összesen 2600 napfok számig, és
 
@@ -12,4 +12,4 @@ b) legalább –12 °C közép-hőmérsékletéhez tartozó fogyasztási érték
 
 (4) Az egyetemes szolgáltató szükséges felkészülése érdekében a földgázelosztó köteles minden év január 1-jéig honlapján közzétenni a szolgáltatási területén lévő egyetemes szolgáltatásra jogosult felhasználóknak az (1) bekezdés alapján meghatározott gázigényét megyénkénti bontásban.
 
-[^50]: A Vhr. 30. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^63]: A Vhr. 30. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-117. §[^178] (1) Az SZB-t a rendszerirányító hívja össze. Az SZB minden évben szeptember 30-ig legalább egyszer össze kell, hogy üljön. Az SZB köteles megalakulásakor ügyrendjét elfogadni.
+117. §[^189] (1) Az SZB-t a rendszerirányító hívja össze. Az SZB minden évben szeptember 30-ig legalább egyszer össze kell, hogy üljön. Az SZB köteles megalakulásakor ügyrendjét elfogadni.
 
 (2) Az SZB ügyrendje az ÜKSZ része.
 
@@ -8,4 +8,4 @@
 
 (5) Az SZB összehívását bármely képviselő kezdeményezheti a rendszerirányítónál.
 
-[^178]: A Vhr. 117. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^189]: A Vhr. 117. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

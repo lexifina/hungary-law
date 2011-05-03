@@ -1,4 +1,4 @@
-161. §[^252] (1) A napi földgáz és kapacitás kereskedelmi piacot működtető rendszerirányító és az elszámolást biztosító vállalkozás köteles a jogszabályokban, az ÜKSZ-ben, az üzlet-, valamint elszámolási szabályzatában és a működési engedélyben előírt feltételek szerint végezni tevékenységét. A napi földgáz és kapacitás kereskedelmi piacot működtető rendszerirányító szolgáltatásaiért szedhető díját a rendszerirányítási díj tartalmazza. Az elszámolást biztosító vállalkozás a napi földgáz és kapacitás kereskedelmi piac működési szabályzatában rögzített és forgalmi díjat szedhet.
+161. §[^276] (1) A napi földgáz és kapacitás kereskedelmi piacot működtető rendszerirányító és az elszámolást biztosító vállalkozás köteles a jogszabályokban, az ÜKSZ-ben, az üzlet-, valamint elszámolási szabályzatában és a működési engedélyben előírt feltételek szerint végezni tevékenységét. A napi földgáz és kapacitás kereskedelmi piacot működtető rendszerirányító szolgáltatásaiért szedhető díját a rendszerirányítási díj tartalmazza. Az elszámolást biztosító vállalkozás a napi földgáz és kapacitás kereskedelmi piac működési szabályzatában rögzített és forgalmi díjat szedhet.
 
 (2) A napi földgáz és kapacitás kereskedelmi piacon forgalmazott termékeket – beleértve a másodlagos kapacitás-kereskedelmet is – a napi földgáz és kapacitás kereskedelmi piac működési szabályzata tartalmazza. A szabályozást úgy kell kialakítani, hogy a gázforgalmazás előkészítését, de legalább a gáznapi egyensúlyozást és annak gáznapot követő elszámolásához szükséges fizikai termékek kereskedelmét lehetővé tegye a földgázszállító rendszer fizikai korlátainak figyelembevétele mellett.
 
@@ -48,4 +48,4 @@ q) egyéb, a piac működését meghatározó szabályokat.
 
 (8) A napi földgáz és kapacitás kereskedelmi piac működési szabályzatát a rendszerirányító és az elszámolást végző vállalkozás a Hivatal jóváhagyását követően köteles a honlapján közzétenni.
 
-[^252]: A Vhr. 161. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^276]: A Vhr. 161. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

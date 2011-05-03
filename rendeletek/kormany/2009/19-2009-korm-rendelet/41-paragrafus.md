@@ -1,4 +1,4 @@
-41. §[^62] (1) A kérelmezőnek
+41. §[^75] (1) A kérelmezőnek
 
 a) vállalnia kell, hogy a beruházás során kiépítésre kerül az együttműködő földgázrendszer csatlakozási lehetősége,
 
@@ -18,7 +18,7 @@ c) a mentesség tárgyát és a mentesség határidejét,
 
 d) a kapacitásértékesítési szabályzatát, amely részletes eljárásrendet tartalmaz a kapacitások eseti, aukciós vagy pályázati úton történő értékesítésére.
 
-e)[^63]
+e)[^76]
 
-[^62]: A Vhr. 41. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^63]: A Vhr. 41. § (3) bekezdés e) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^75]: A Vhr. 41. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^76]: A Vhr. 41. § (3) bekezdés e) pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-157. §[^243] (1) A GET 139. § (1) bekezdése alapján a közüzemi szolgáltató helyébe lépő egyetemes szolgáltató szerződéskötési kötelezettségének teljesítése érdekében 2009. december 31-ig köteles – a 2009. július 1-jén vagy azt követően szerződést kötött felhasználók kivételével – minden általa ellátott felhasználót írásban legalább a következőkről tájékoztatni:
+157. §[^267] (1) A GET 139. § (1) bekezdése alapján a közüzemi szolgáltató helyébe lépő egyetemes szolgáltató szerződéskötési kötelezettségének teljesítése érdekében 2009. december 31-ig köteles – a 2009. július 1-jén vagy azt követően szerződést kötött felhasználók kivételével – minden általa ellátott felhasználót írásban legalább a következőkről tájékoztatni:
 
 a) saját elérhetőségeiről (ügyfélszolgálatok, telefon, internet),
 
@@ -22,4 +22,4 @@ g) arról, hogy ha a felhasználó 2010. július 1-jéig nem köti meg az egyete
 
 (5) A tájékoztatók szövegét a Hivatal részére előzetesen be kell mutatni. A Hivatal elrendelheti az e § rendelkezéseinek nem megfelelő, hiányos vagy megtévesztő tájékoztató módosítását.
 
-[^243]: A Vhr. 157. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^267]: A Vhr. 157. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-9. §[^17] (1) A földgázelosztó adatforgalmi és informatikai rendszerének
+9. §[^30] (1) A földgázelosztó adatforgalmi és informatikai rendszerének
 
 a) biztosítania kell a jogszabályokban és az ÜKSZ-ben előírt adatrögzítést és a csatlakozó szállítóvezetékkel történő adatforgalmat, a gáznapra, valamint az ennél hosszabb időszakra történő kapacitás-lekötés adatforgalmának rögzítését és feldolgozását a kapacitások másodlagos kereskedelmére terjedően is,
 
@@ -12,4 +12,4 @@ e) elő kell segítenie a földgázszállító egyensúlyozási és elszámolás
 
 (2) A 8. §-ban és az (1) bekezdésben meghatározott kötelezettségeket a földgázszállítóra is alkalmazni kell, ha a GET 18. §-a szerint a földgázszállító a gázátadó állomást követő szállítóvezeték szakaszon végez szállítási tevékenységet a szállítóvezetékre közvetlenül csatlakozó felhasználó részére.
 
-[^17]: A Vhr. 9. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^30]: A Vhr. 9. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

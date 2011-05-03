@@ -2,7 +2,7 @@
 
 ## Szervezett földgázpiac
 
-36. §[^57] (1) A szervezett földgázpiac működtetésére vonatkozó engedélyt kérelmezőnek rendelkeznie kell:
+36. §[^70] (1) A szervezett földgázpiac működtetésére vonatkozó engedélyt kérelmezőnek rendelkeznie kell:
 
 a) a tevékenység folytatásához szükséges személyi, tárgyi és biztonsági feltételekkel, a biztonságos működéshez szükséges feltételekkel,
 
@@ -26,4 +26,4 @@ d) a kérelmező nem teljesíti a szétválasztásra vonatkozó GET-ben előírt
 
 e) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.
 
-[^57]: A Vhr. 36. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^70]: A Vhr. 36. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
