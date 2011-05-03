@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Amerikai Egyesült Államok között létrejött, légimarsallok alkalmazásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
