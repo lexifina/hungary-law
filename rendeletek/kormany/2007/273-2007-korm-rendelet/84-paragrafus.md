@@ -1,13 +1,18 @@
-## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó közös szabályok
+## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó szabályok[^108]
 
-84. § (1) Az átviteli rendszerirányító, az elosztó és az egyetemes szolgáltató az 56. § alá nem tartozó tevékenységek tekintetében jogosult
+84. §[^109] (1) A VET 102–102/E. §-a szerinti átviteli rendszerirányító a napi átviteli rendszerirányítási tevékenységek teljes körébe, a VET 103. §-a szerinti átviteli rendszerirányító, az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató az 56. § alá tartozó tevékenységek tekintetében kiszervezésre nem jogosult.
 
-a)[^102] bármely személyt felhatalmazni arra, hogy az engedélyében meghatározott tevékenységeket a Hivatal hozzájáruló határozata alapján,
+(2) Az engedélyköteles tevékenység jelentős részének minősülnek az engedélyben felsoroltakon kívül azok a tevékenységek, amelyek nélkül az engedélyes nem lenne képes biztonságos, zavartalan és megfelelő színvonalú engedélyköteles tevékenységet végezni, függetlenül attól, hogy a tevékenységről egy vagy több jogügylettel rendelkezik vagy kíván rendelkezni.
 
-b) bármely személyt felhatalmazni arra, hogy az engedélyében az a) pont szerint meg nem határozott tevékenységeket a Hivatal előzetes értesítése mellett
+(3) Az (1) bekezdésben meghatározott engedélyes
 
-szerződés alapján lássák el (a továbbiakban: kiszervezés).
+a) a VET szerinti engedélyköteles tevékenysége (2) bekezdés szerinti jelentős részének kiszervezésére a Hivatal előzetes jóváhagyása alapján,
 
-(2) Az (1) bekezdés a) pontja szerinti kiszervezéshez történő hozzájárulásra irányuló, a 83. § (3)–(4) bekezdése szerinti kérelem alapján induló eljárás során a Hivatal VET 95. § (1) bekezdésében foglaltakon belül különösen a legkisebb költség elvének való megfelelést is vizsgálja, ezért a jóváhagyáshoz az engedélyesnek igazolnia kell, hogy a tevékenység kiszervezett formában történő végzése a rögzített időtávon belül és pénzügyi feltételek mellett inkább megfelel a legkisebb költség elvének és a felhasználói érdekeknek, mint ha saját maga végezné azokat.
+b) a VET szerinti engedélyköteles tevékenysége (2) bekezdés szerinti jelentős részének nem minősülő részének kiszervezésére a Hivatal előzetes tájékoztatását követően jogosult.
 
-[^102]: A Vhr. 84. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(4) Ha a Hivatal a (3) bekezdés a) pont szerinti eljárásban a tevékenység kiszervezéséhez hozzájárul, és a tevékenységet a működési engedély nem tartalmazza, az engedélyes köteles a Hivataltól a jóváhagyó határozat közlésétől számított 30 napon belül működési engedélye módosítását kérni.
+
+(5) A (3) bekezdés a) pontja szerinti, a 83. § (3)–(4) bekezdése szerinti kérelem alapján induló eljárás során a Hivatal a VET 95. § (1) bekezdése alapján részletesen vizsgálja a legkisebb költség elvének való megfelelést. A jóváhagyáshoz az engedélyesnek igazolnia kell, hogy a tevékenység kiszervezett formában történő végzése a pénzügyi feltételek mellett, annak időtartamán belül inkább megfelel a legkisebb költség elvének, valamint a felhasználók érdekének, mint ha azt saját maga végezné.
+
+[^108]: A Vhr. 84. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^109]: A Vhr. 84. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

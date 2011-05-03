@@ -1,1 +1,5 @@
-93. § Az információhoz való hozzáférés tekintetében az átviteli rendszerirányítási és az elosztó hálózati engedélyes köteles biztosítani, hogy a villamosenergia-ipari vállalkozások és a felhasználók egyenlő bánásmódban részesüljenek, tekintet nélkül arra, hogy azok az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, villamos-energia kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
+93. §[^120] (1) A hálózati engedélyes köteles olyan szervezeti egységről és ahhoz tartozó személyzetről gondoskodni, amely képes meghozni a 84. § (3) bekezdése szerint kiszervezett tevékenységre vonatkozó önálló döntéseket a 84–89. § rendelkezéseivel összhangban.
+
+(2) A Hivatal által a kiszervezett tevékenység tárgyában küldött irat kézbesítése a hálózati engedélyes engedélyében meghatározott elérhetőségekre történik.
+
+[^120]: A Vhr. 93. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

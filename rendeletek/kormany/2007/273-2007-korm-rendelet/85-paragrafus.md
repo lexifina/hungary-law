@@ -1,3 +1,9 @@
-85. §[^103] A Hivatal az 52. § (1) bekezdésének és a 84. § (1) bekezdésének megfelelően az átviteli rendszerirányító, az elosztó és az egyetemes szolgáltató engedélyében meghatározhatja az engedélyes engedélyköteles tevékenységének kapcsolódó tevékenységnek minősülő jelentős – más által a Hivatal hozzájárulása alapján végezhető – részét az 56. §-sal összhangban, valamint a más személyekkel történő végzés feltételeit, továbbá a hozzájárulás nélkül kiszervezhető másodlagos tevékenységek körét.
+85. §[^110] (1) Az engedélyes köteles biztosítani, hogy a kiszervezés a VET és annak felhatalmazása alapján kiadott jogszabályok, az engedélye, a Hivatal engedélyesre vonatkozó határozatai, az üzletszabályzata, valamint a villamosenergia-ellátási szabályzatok rendelkezéseivel összhangban történjen.
 
-[^103]: A Vhr. 85. §-a a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(2) A kiszervezett tevékenységet végző személy (a továbbiakban: közreműködő) köteles az (1) bekezdésben meghatározottak betartására. Amennyiben a közreműködő a (1) bekezdésben foglaltaknak nem tesz eleget, a Hivatal
+
+a) az engedélyessel szemben a VET 96. §-ában foglalt jogkövetkezményeket alkalmazza, és
+
+b) a jogsértés súlyára tekintettel visszavonhatja a kiszervezést jóváhagyó határozatát, és kötelezi az engedélyest a határozattal érintett tevékenység vagy egy részének saját személyzettel vagy eszközökkel történő végzésére vagy a közreműködő személyének újrapályáztatására.
+
+[^110]: A Vhr. 85. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

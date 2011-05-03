@@ -1,5 +1,10 @@
-99. § (1) Az átviteli rendszerirányítási és az elosztó hálózati engedélyes gazdasági társaság az éves megfelelési jelentésben nyilatkozik arról, hogy nincs tulajdonosi részesedése más, e törvény szerint engedélyköteles, nem átviteli rendszerirányítói, illetve nem elosztói engedélyes tevékenységet végző gazdasági társaságban.
+## (A VET 102–102/E. §-ához)
 
-(2) Amennyiben az átviteli rendszerirányítási és az elosztó hálózati engedélyes gazdasági társaság tulajdonrésszel rendelkezik a szervezett villamosenergia-piaci engedélyesben, az éves megfelelési jelentésben köteles nyilatkozni a VET 54. és 177. §-ában meghatározott tulajdoni korlátok betartásáról.
+## Az átviteli rendszerirányító taggal rendelkező vertikálisan integrált villamosenergia-ipari vállalkozásokra vonatkozó szétválasztási szabályok[^126]
 
-(3) Az átviteli rendszerirányítási és az elosztó engedélyes társaság VET 101. § c) pontja szerinti munkavállalója az éves megfelelési jelentésben nyilatkozik arról, hogy nem szerzett részesedést a rendszerirányítási, illetőleg elosztói engedélyesi tevékenységet ellátó gazdasági társaságon kívül e törvény szerint engedélyköteles villamosenergia-ipari tevékenységet folytató gazdasági társaságban, vagy annak kapcsolt vállalkozásában; nem vezető tisztségviselője ilyen gazdasági társaságnak, továbbá nem létesített munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt ilyen gazdasági társasággal.
+99. §[^127] (1) Az átviteli rendszerirányító operatív irányítását ellátó személy munkaszerződésében rögzíteni kell a jogaira és kötelezettségeire, a munkabérére, az egyéb juttatásaira vagy díjazására, a munkavégzésének feltételeire, hatáskörére és beszámolási kötelezettségére, a munkaviszony megszüntetésére vonatkozó szabályokat, valamint az arra vonatkozó tájékoztatást, hogy munkaviszonyának idő előtti megszüntetése esetén a Hivatalnál jogorvoslati jogosultságát nem érintő hatósági ellenőrzést kezdeményezhet.
+
+(2) Az átviteli rendszerirányító arra jogosult szerve éves üzleti tervére és az eladósodás mértékére javaslatot tesz a felügyelőbizottság részére. Ha a felügyelőbizottság az éves üzleti tervre és az eladósodás mértékére tett javaslatot nem hagyja jóvá, az elutasítás vagy módosítás tényéről, indokairól és körülményeiről a megfelelési ellenőr tájékoztatja a Hivatalt.
+
+[^126]: A Vhr. 99. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^127]: A Vhr. 99. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

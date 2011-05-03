@@ -1,15 +1,14 @@
 ## (A VET 87. §-ához)
 
-## Az átviteli rendszerirányításra vonatkozó működési engedély
+## Az átviteli rendszerirányításra vonatkozó működési engedély[^92]
 
-78. § (1) Átviteli rendszerirányításra vonatkozó engedélyt az állam közvetlen vagy közvetett irányítása alatt álló részvénytársaság kaphat, ha megfelel a VET-ben és e rendeletben meghatározott feltételeknek, és jegyzett tőkéje legalább 100 milliárd forint, amelyet teljes egészében befizettek vagy rendelkezésre bocsátottak. A közvetlen vagy közvetett irányítás megítélése szempontjából a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) rendelkezései az irányadóak.
+78. §[^93] (1) Az átviteli rendszerirányításra vonatkozó engedély iránti kérelem a tanúsításról rendelkező határozat közlését követő naptól számított 30 napon belül nyújtható be.
 
-(2) A kérelmezőnek tulajdonolnia kell:
+(2) A VET 104. §-a szerinti szétválasztási szabályok figyelembevételével tanúsított kérelmezőnek legalább használati joggal kell rendelkeznie:
 
-a) a VET-ben, más jogszabályban, a villamosenergia-ellátási szabályzatokban, üzletszabályzatban előírt, a tevékenysége folytatásához szükséges – a működési engedélyben részletesen meghatározott – hálózati, rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközöket,
+a) a VET-ben, az e rendeletben és a villamosenergia-ellátási szabályzatokban előírt, az átviteli rendszerirányítási tevékenység folytatásához szükséges eszközökre, ideértve a hálózati, rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközöket, és
 
-b) jogszabályokban és szabványokban meghatározott üzembiztonságú és minőségű villamos energia ellátására alkalmas átviteli hálózatot, beleértve a szükséges vezetékeket, kapcsoló és transzformátorállomásokat, valamint a hálózat üzemben tartásához és a hálózatra csatlakozó felhasználók kiszolgálásához szükséges kiszolgáló berendezéseket, létesítményeket.
+b) a jogszabályokban, valamint szabványokban meghatározott üzembiztonságú és minőségű villamos energia továbbítására alkalmas átviteli hálózatra és hálózati elemekre.
 
-(3) A kérelmezőnek rendelkeznie kell a VET-ben, más jogszabályban, a villamosenergia-ellátási szabályzatokban, üzletszabályzatban előírt feladatai ellátásához szükséges, a (2) bekezdés hatálya alá nem tartozó rendszerirányítási, informatikai, adatátviteli, folyamatszabályozási, távközlési, mérési és egyéb szükséges eszközökkel, valamint ezen eszközök, rendszerek, eljárások megfelelő működtetését biztosító jogokkal (tulajdonjog vagy egyéb használati jog).
-
-(4) Az átviteli rendszerirányításra vonatkozó működési engedély iránti kérelemhez e rendelet 12. számú mellékletében meghatározott iratokat kell benyújtani.
+[^92]: A Vhr. 78. §-t megelőző alcím a 75/2011. (V. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^93]: A Vhr. 78. §-a a 75/2011. (V. 2.) Korm. rendelet 3. §-ával megállapított szöveg.

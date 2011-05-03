@@ -234,7 +234,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a védendő fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő fogyasztók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^158]
+24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^195]
 
 Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgáltatás rendje
 
@@ -296,4 +296,4 @@ Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgált
 
 |  |  | 14. cikk | Az irányelv alapján meghozott intézkedések bejelentése a Bizottság felé | Az irányelv átültetésekor | Gazdasági és Közlekedési Minisztérium |
 
-[^158]: A Vhr. 24. számú melléklete a 187/2008. (VII. 24.) Korm. rendelet 5. §-a, a 64/2009. (III. 31.) Korm. rendelet 1. § (6) bekezdése és 6. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^195]: A Vhr. 24. számú melléklete a 187/2008. (VII. 24.) Korm. rendelet 5. §-a, a 64/2009. (III. 31.) Korm. rendelet 1. § (6) bekezdése és 6. § (5) bekezdés c) pontja szerint módosított szöveg.

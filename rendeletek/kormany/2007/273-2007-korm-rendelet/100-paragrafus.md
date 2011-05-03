@@ -1,5 +1,16 @@
-## (A VET 103–105. §-ához)
+## (A VET 104. §-ához)
 
-## Számviteli szétválasztás
+## A vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosára vonatkozó szétválasztási szabályok[^130]
 
-100. § A horizontálisan integrált villamosenergia-ipari vállalkozás, amennyiben éves árbevételének legfeljebb 1%-a származik a nem engedélyköteles tevékenység(ek)ből, nem köteles ezen tevékenységekre önálló mérleget és eredménykimutatást készíteni. Ettől függetlenül a nem engedélyköteles tevékenységből származó bevételeket és ráfordításokat, valamint a tevékenységhez kapcsolódó eszközöket a számviteli éves beszámoló kiegészítő mellékletében részletezni kell.
+100. §[^131] (1) Az átviteli hálózat tulajdonosa által készített megfelelési programra és megfelelési jelentésre – a vertikálisan integrált villamosenergia-ipari vállalkozás tagjaira vonatkozó rendelkezések kivételével – a 94. § (1)–(2) bekezdését és a 95–97. § rendelkezéseit kell alkalmazni azzal, hogy a hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
+
+(2) Az átviteli hálózat tulajdonosa által készített megfelelési programnak tartalmaznia kell a 94. § (3) bekezdés 1–3., 5–6., 8–16. és 18–19. pontjában foglaltakat azzal, hogy a hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
+
+(3) A VET 104. § (5) bekezdés c) pontja szerinti megfelelési jelentés kötelező tartalmi eleme:
+
+a) a szétválasztáshoz kapcsolódó peres és egyéb vitás ügyek bemutatása és
+
+b) a 95. § (3) bekezdés a)–g) pontjában foglaltak azzal, hogy hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
+
+[^130]: A Vhr. 100. §-t megelőző alcímet a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^131]: A Vhr. 100. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

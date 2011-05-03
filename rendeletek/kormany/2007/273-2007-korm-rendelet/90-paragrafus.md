@@ -1,11 +1,24 @@
-## Alapvető eszközökkel való rendelkezés közös szabályai
+## Alapvető eszközökkel való rendelkezés szabályai[^115]
 
-90. § (1)[^104] A Hivatal az átviteli rendszerirányító, az elosztó és az egyetemes szolgáltató működési engedélyében meghatározza az engedélyes alapvető eszközeinek azon körét, amelyekkel való rendelkezéshez (alapvető eszközökkel való rendelkezés) a Hivatal hozzájárulása szükséges, valamint meghatározza ezen eszközökkel való rendelkezés feltételeit.
+90. §[^116] (1) A Hivatal – a VET szerinti engedélyköteles tevékenyég al- és résztevékenységeinek figyelembevételével – az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató engedélyében meghatározza az engedélyköteles tevékenység végzéséhez szükséges alapvető eszközök és vagyoni értékű jogok azon körét, amelyekkel való rendelkezéshez a Hivatal hozzájárulása szükséges, valamint meghatározza az ezekkel az eszközökkel való rendelkezés feltételeit.
 
-(2) Az átviteli rendszerirányító, az elosztó és az egyetemes szolgáltató köteles saját tulajdonban lévő eszközökkel végezni engedélyköteles tevékenysége működési engedélyben meghatározott elemeit, különös tekintettel az alábbi eszközökre:
+(2) Az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató köteles saját tulajdonban lévő eszközökkel végezni engedélyköteles tevékenysége engedélyben meghatározott elemeit. Az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató tulajdonában kell állnia legalább az alábbi eszközöknek:
 
-a) a nagyfeszültségű, a közép- és kisfeszültségű közcélú hálózat, valamint
+a) átviteli rendszerüzemeltető esetén a rendszer- és üzemirányítási, üzemeltetési valamint a rendszerirányításhoz, a méréshez és az elszámoláshoz szükséges informatikai és egyéb eszközök,
 
-b) rendszer- és üzemirányítási, továbbá a teljesítményszabályozó eszközök, valamint a mérési és elszámolási és a rendszerirányításhoz, valamint mérés-elszámoláshoz szükséges informatikai eszközök.
+b) elosztó esetén
 
-[^104]: A Vhr. 90. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+ba) a nagyfeszültségű, a közép- és kisfeszültségű elosztóhálózat és
+
+bb) a mérőberendezések és az elszámoláshoz szükséges mérési adatgyűjtő rendszerek;
+
+bc) az üzemirányítási eszközök, beleértve az üzemirányításhoz szükséges távközlési eszközöket, valamint a teljesítményszabályozó eszközöket és
+
+bd) a bb) alpont szerinti rendszerek adatfeldolgozásához és számlázásához, valamint az üzemirányításhoz szükséges informatikai eszközök és
+
+c) egyetemes szolgáltató esetén az elszámoláshoz szükséges eszközök.
+
+(3) A VET 102–102/E. §-a vagy 103. §-a szerinti átviteli rendszerirányító esetén az alapvető eszközökkel való rendelkezéshez való hozzájárulás feltétele a VET 160. § (4) bekezdésére tekintettel indított eljárás eredményeképpen hozott tanúsításról rendelkező határozat.
+
+[^115]: A Vhr. 90. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^116]: A Vhr. 90. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

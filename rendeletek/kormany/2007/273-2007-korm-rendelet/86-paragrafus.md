@@ -1,11 +1,17 @@
-86. § (1) Az engedélyes köteles biztosítani, hogy a Hivatal engedélye alapján az engedélyköteles tevékenység egyes elemeinek más személy által történő végzése a VET és a végrehajtására kiadott jogszabályok, az engedély, a villamosenergia-ellátási szabályzatok, az engedélyes üzletszabályzata és a Hivatal engedélyesre vonatkozó határozatai rendelkezéseivel összhangban történjen.
+86. §[^111] A 84. § (3) bekezdés a) pontja szerinti előzetes jóváhagyáshoz az engedélyes köteles benyújtani a kiszervezésre vonatkozó szerződést vagy annak tervezetét, amelynek minden kiszervezett tevékenység esetében tartalmaznia kell legalább a következőket:
 
-(2) Az engedélyköteles tevékenység egyes elemeit végző más személy (a továbbiakban: közreműködő) köteles az (1) bekezdésben meghatározott valamennyi előírás megismerésére, betartására.
+a) a tevékenység tartalmát, ideértve annak végzésének helyét és idejét,
 
-(3) Az engedélyes a közreműködő által végzett tevékenységért úgy felel, mintha azt maga végezte volna.
+b) a szolgáltatás színvonalának mérésére szolgáló paramétereket,
 
-(4) Ha a közreműködő a (1) bekezdésben meghatározott valamely előírást megszegi, a Hivatal
+c) a paraméterek elvárt értékeit,
 
-a) az engedélyessel, vagy az integrált villamosenergia-ipari vállalkozásnak a kiszervezett tevékenységet végző, e törvény szerint nem engedélyköteles tagjával szemben a VET 96. §-ában foglalt jogkövetkezményeket alkalmazza, valamint egyidejűleg
+d) a szolgáltatási színvonal be nem tartásának következményeit,
 
-b) a jogsértés súlyára tekintettel visszavonhatja a közreműködő bevonásához történő hozzájáruló határozatát, valamint kötelezheti az engedélyest a határozattal érintett tevékenységek összességének, illetve egy részének a saját személyzettel és/vagy eszközökkel történő folytatólagos végzésére, vagy a tevékenység(ek) végzésének újra pályáztatására.
+e) a költségelszámolás módját,
+
+f) az üzemzavarok elhárítása, mint kiemelt fontosságú szolgáltatás vonatkozásában az adatáramlást tartalmazó előírásokat, az üzemzavar-elhárítás időtartamára megállapított normatívák és a tényadatok archiválásának rendszerét valamint
+
+g) a szerződés felmondásának feltételeit, módját és jogkövetkezményeit.
+
+[^111]: A Vhr. 86. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

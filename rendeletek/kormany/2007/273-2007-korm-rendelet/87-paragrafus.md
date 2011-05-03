@@ -1,15 +1,5 @@
-87. § A 84–85. § előírásaival összefüggésben a jóváhagyáshoz az engedélyes köteles benyújtani a szolgáltatási szerződést, vagy annak tervezetét, melynek minden egyes kiszervezett szolgáltatás esetében tartalmaznia kell a következőket:
+87. §[^112] (1) Ha a közreműködő az engedélyes kapcsolt vállalkozása, a kiszervezett tevékenység végzésére – sem részben, sem egészben – nem jogosíthat fel más vállalkozást.
 
-a) a szolgáltatás tartalma, beleértve annak nyújtásának helye és ideje,
+(2) A közreműködő a tevékenység végzéséhez az engedélyes kapcsolt vállalkozását alvállalkozóként nem vonhatja be.
 
-b) a szolgáltatás színvonalának mérésére szolgáló paraméterek,
-
-c) a paraméterek elvárt értékei,
-
-d) a szolgáltatási színvonal be nem tartásának következményei,
-
-e) a költségelszámolás módja,
-
-f) az üzemzavarok elhárítása, mint kiemelt fontosságú szolgáltatás vonatkozásában az adatáramlást tartalmazó előírások, az üzemzavar elhárítás időtartamára megállapított normatívák és a tényadatok archiválásának rendszere,
-
-g) a szerződés felmondásának esetei, módja és jogkövetkezményei.
+[^112]: A Vhr. 87. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

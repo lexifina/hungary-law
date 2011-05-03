@@ -188,6 +188,6 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^157]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^194]
 
-[^157]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 332/2010. (XII. 27.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^194]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 332/2010. (XII. 27.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.

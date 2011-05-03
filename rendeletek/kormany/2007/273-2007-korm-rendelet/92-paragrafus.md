@@ -1,9 +1,6 @@
-## (A VET 100–102. §-ához)
+## A vertikálisan integrált villamosenergia-ipari vállalkozásra vonatkozó közös szétválasztási szabályok[^118]
 
-## A vertikálisan integrált villamosenergia-ipari vállalkozásokra vonatkozó szétválasztási szabályok
+92. §[^119] A hálózati engedélyes vezető tisztségviselője, felügyelőbizottságának – elosztó esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és engedélyesi tevékenységet ellátó szervezeti egységének vezetője (a továbbiakban: szervezeti egység vezető) a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a hálózati engedélyesnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetők.
 
-92. § (1) Az átviteli rendszerirányítási és az elosztó hálózati engedélyesi tevékenységet ellátó gazdasági társaság vezető állású munkavállalójának, valamint az engedélyesi tevékenységet ellátó szervezeti egység vezetőjének munkaszerződésében, illetőleg megbízási szerződésében rögzíteni kell a felmondásra vonatkozó szabályokat. Az átviteli rendszerirányítási és az elosztó hálózati engedélyesi tevékenységet ellátó gazdasági társaság vezető állású munkavállalójának, valamint az engedélyesi tevékenységet ellátó szervezeti egység vezetőjének felmondásáról, a felmondás indokairól és körülményeiről az átviteli rendszerirányítási és az elosztó hálózati engedélyes a felmondást megelőzően köteles tájékoztatni a Magyar Energia Hivatalt.
-
-(2) Az átviteli rendszerirányítási és az elosztó hálózati engedélyes vezető tisztségviselője, felügyelő bizottsági tagja és vezető állású munkavállalója a tisztsége, illetve munkaviszonya megszűnését követő egy éven belül köteles a Hivatalnak jelenteni, ha más engedélyes vezető tisztségviselője, felügyelő bizottsági tagja vagy vezető állású munkavállalója kíván lenni. A Hivatal írásbeli jóváhagyása nélkül a munkaviszony megszűnést követő egy év elteltéig az említett tisztségek nem tölthetők be.
-
-(3) Az átviteli rendszerirányítási és az elosztó hálózati engedélyes korábbi vezető tisztségviselője, felügyelő bizottsági tagja és vezető állású munkavállalója a tisztsége, illetve munkaviszonya megszűnését követően köteles üzleti titokként kezelni az átviteli rendszerirányítási és az elosztó hálózati engedélyesnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetőek.
+[^118]: A Vhr. 92. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^119]: A Vhr. 92. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

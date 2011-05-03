@@ -12,6 +12,6 @@ b) százmillió forint.
 
 (3) A bírság ismételten is kiszabható.
 
-(4)[^105] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
+(4)[^117] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
 
-[^105]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^117]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.

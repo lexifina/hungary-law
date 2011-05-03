@@ -168,6 +168,6 @@
 
 | Maradó élettartam | dátum |  |  |
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^156]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^193]
 
-[^156]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. E módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^193]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. E módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.

@@ -30,9 +30,9 @@
 
 ## 2. Annak a mérlegkörnek a megnevezése, amelyhez csatlakozni kíván, illetve önálló mérlegkör alapításának bejelentése,
 
-## 3.[^153] Nyilatkozatot arra vonatkozóan, hogy a kérelmező bejegyzésének helye szerinti országban milyen jogosultság, illetve engedély alapján végzi villamosenergia-kereskedelmi tevékenységét,
+## 3.[^190] Nyilatkozatot arra vonatkozóan, hogy a kérelmező bejegyzésének helye szerinti országban milyen jogosultság, illetve engedély alapján végzi villamosenergia-kereskedelmi tevékenységét,
 
-## 4.[^154]
+## 4.[^191]
 
 ## 5. A VET 88. § (3) bekezdés d) pontjában meghatározott feltételek teljesítését igazoló okiratokat, valamint a képviselő megnevezését, képviseleti jogának igazolását és az iroda elérhetőségét lehetővé tevő adatokat (cím, telefon, fax, e-mail).
 
@@ -62,5 +62,5 @@ A szervezett villamosenergia-piac működtetésére vonatkozó engedély
 
 11. Ellenőrzött minőségbiztosítási rendszer bevezetésének ütemterve és határideje.
 
-[^153]: A Vhr. 15. számú melléklet „Korlátozott villamosenergia-kereskedelmi engedély kérelemhez benyújtandó dokumentumok” cím 3. pontja a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^154]: A Vhr. 15. számú melléklet „Korlátozott villamosenergia-kereskedelmi engedély kérelemhez benyújtandó dokumentumok” cím 4. pontját a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^190]: A Vhr. 15. számú melléklet „Korlátozott villamosenergia-kereskedelmi engedély kérelemhez benyújtandó dokumentumok” cím 3. pontja a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^191]: A Vhr. 15. számú melléklet „Korlátozott villamosenergia-kereskedelmi engedély kérelemhez benyújtandó dokumentumok” cím 4. pontját a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
