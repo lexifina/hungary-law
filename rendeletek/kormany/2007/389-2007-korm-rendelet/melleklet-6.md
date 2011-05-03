@@ -1,4 +1,4 @@
-6. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^91]
+6. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^92]
 
 ## A kapcsoltan termelt villamos energia átvételi árainak meghatározása
 
@@ -22,4 +22,4 @@ akkor az 1. pont a) alpont alatti képletet év közben is – a gázárváltoz�
 
 | INF: | A Magyar Nemzeti Bank által a tárgyévet megelőzően november 30-ig utoljára közzé tett, a tárgyévre vonatkozó fogyasztói árindex előrejelzés |
 
-[^91]: A 6. számú melléklet helyébe e rendelet 10. § (5) bekezdése alapján külön jogszabály által meghatározott időpontban e rendelet 13. számú melléklete lép. A 6. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 2. §-a, a 287/2008. (XI. 28.) Korm. rendelet 10. § (4) bekezdése, a 206/2009. (IX. 22.) Korm. rendelet 2. §-a, a 343/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése, a 369/2010. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^92]: A 6. számú melléklet helyébe e rendelet 10. § (5) bekezdése alapján külön jogszabály által meghatározott időpontban e rendelet 13. számú melléklete lép. A 6. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 2. §-a, a 287/2008. (XI. 28.) Korm. rendelet 10. § (4) bekezdése, a 206/2009. (IX. 22.) Korm. rendelet 2. §-a, a 343/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése, a 369/2010. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

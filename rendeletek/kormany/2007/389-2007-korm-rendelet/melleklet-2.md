@@ -1,4 +1,4 @@
-2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^85]
+2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^86]
 
 ## A kapcsoltan termelt átvételi kötelezettség alá eső villamos energia átvételi bázisárai (ÁFA nélkül)
 
@@ -90,4 +90,4 @@ b) nem földgáztüzelés esetében:
 
 |  | Mélyvölgyi időszak | 3,00 |
 
-[^85]: A 2. számú melléklet a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése, a 369/2010. (XII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^86]: A 2. számú melléklet a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése, a 369/2010. (XII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.

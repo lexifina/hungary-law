@@ -4,7 +4,7 @@
 
 ## 1. A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, a Befogadó és a kereskedők viszonylatában a külön jogszabály szerint meghatározott menetrend szerinti villamosenergia-mennyiségen alapuló számla alapján történnek.
 
-## 2.[^88] A jogosult köteles számláját a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
+## 2.[^89] A jogosult köteles számláját a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
 
 ## 3. A fizetési kötelezettségekkel kapcsolatos számlákra vonatkozó kifogásokat a számla kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A számlára vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
 
@@ -22,9 +22,9 @@
 
 ## 3. A havi számlát az Értékesítő a tárgyhónapot követő hónap nyolcadik munkanapjától nyújthatja be a Befogadó részére.
 
-## 4–6.[^89]
+## 4–6.[^90]
 
-## 7.[^90] Az Értékesítő a havi számla tekintetében köteles telephelyenként, a telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként (például ellennyomású kapcsolt, gázmotoros kapcsolt) külön számlát kiállítani.
+## 7.[^91] Az Értékesítő a havi számla tekintetében köteles telephelyenként, a telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként (például ellennyomású kapcsolt, gázmotoros kapcsolt) külön számlát kiállítani.
 
 ## 8. Hóközi árváltozás esetén az Értékesítőnek az árváltozással érintett időszakoknak megfelelően megbontva kell a számlát kiállítania.
 
@@ -38,6 +38,6 @@
 
 3. E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan, a tárgyévet megelőző évben havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
 
-[^88]: A 4. számú melléklet I. fejezet 2. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^89]: A 4. számú melléklet II. fejezet 4–6. pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^90]: A 4. számú melléklet II. fejezet 7. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^89]: A 4. számú melléklet I. fejezet 2. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^90]: A 4. számú melléklet II. fejezet 4–6. pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^91]: A 4. számú melléklet II. fejezet 7. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
