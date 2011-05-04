@@ -1,3 +1,3 @@
-## 15. § A GET Vhr. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^15]
 
-## „(1) A szállítási rendszerüzemeltetési működési engedélyt kérelmező az általa üzemeltetni kívánt szállítóvezetékre köteles benyújtani az engedély iránti kérelmet, beleértve a saját tulajdonú, továbbá az üzemeltetési szerződés alapján működtetett olyan szállítóvezeték-részeket is, melyek kapacitásait nem ő értékesíti.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

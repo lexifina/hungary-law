@@ -1,7 +1,3 @@
-## 21. § A GET Vhr. a következő 150/A. §-sal és az azt megelőző hivatkozással egészül ki:
+## 21. §[^21]
 
-## „(A GET 128. §-ához)
-
-## 150/A. § (1) A tanúsítási eljárás lefolytatása iránti kérelemhez a 14. számú mellékletben meghatározott iratokat kell benyújtani.
-
-## (2) A Hivatal a 14. számú melléklet I. d) és e) pontja alapján benyújtott dokumentumok jóváhagyásáról a tanúsítást követően a szállítási rendszerüzemeltetési működési engedély iránti kérelem elbírálásával egyidejűleg dönt.”
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

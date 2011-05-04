@@ -1,3 +1,3 @@
-## 16. § A GET Vhr. 4. §-a a következő (5) bekezdéssel egészül ki:
+## 16. §[^16]
 
-## „(5) A szállítási rendszerüzemeltető működése során folyamatosan köteles megfelelni a 3. és e § szerinti engedélyezési feltételeknek.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

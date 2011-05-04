@@ -1,3 +1,3 @@
-## 23. § A GET Vhr. 154. §-a helyébe a következő rendelkezés lép:
+## 23. §[^23]
 
-## „154. § A Mód. Kr.-rel megállapított, e rendelet 138. § (1) bekezdése szerinti, aktualizált megfelelési programot a földgázelosztó és földgáztároló engedélyes első alkalommal 2015. szeptember 30-ig nyújtja be a Hivatalhoz jóváhagyásra.”
+[^23]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

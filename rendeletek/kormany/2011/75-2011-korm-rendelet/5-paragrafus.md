@@ -1,3 +1,3 @@
-## 4. § A Vhr. 83. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## „(3) A kérelmet a VET 94. § (1) és (4) bekezdésében meghatározott ügyletek esetén az érintett engedélyes, átviteli rendszerüzemeltető esetén az átviteli hálózat vagy az átviteli tevékenység végzéséhez szükséges eszközök tulajdonosa köteles benyújtani a Hivatalhoz.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

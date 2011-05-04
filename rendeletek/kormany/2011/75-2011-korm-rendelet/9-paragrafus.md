@@ -1,7 +1,3 @@
-## 8. § A Vhr. „Nemzetközi együttműködés és kapcsolat az Európai Unió szerveivel” alcíme a következő 117/B. §-sal és az azt megelőző hivatkozással egészül ki:
+## 8. §[^8]
 
-## „(A VET 160. §-ához)
-
-## 117/B. § (1) A tanúsítási eljárás lefolytatása iránti kérelemhez a 12. számú mellékletben meghatározott iratokat kell csatolni.
-
-## (2) A Hivatal a 12. számú melléklet I. d) és e) pontja alapján benyújtott dokumentumok jóváhagyásáról az átviteli rendszerirányítási működési engedély iránti kérelem elbírálásával egyidejűleg dönt.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

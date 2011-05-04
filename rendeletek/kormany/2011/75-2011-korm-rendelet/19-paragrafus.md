@@ -1,5 +1,3 @@
-## 18. § A GET Vhr. a 137. §-át követően a következő alcímmel egészül ki:
+## 18. §[^18]
 
-## „A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok
-
-## 137/A. § A rendszerüzemeltető vezető tisztségviselője, felügyelőbizottságának – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és szervezeti egység vezetője a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a rendszerüzemeltetőnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetőek.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
