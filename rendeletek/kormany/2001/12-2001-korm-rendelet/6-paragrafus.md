@@ -1,6 +1,6 @@
 6. § (1) A kedvezmény összege gyermeken kívüli más eltartott családtag után személyenként harmincezer forint.
 
-(2)[^52]
+(2)[^55]
 
 (3) A kedvezmény szempontjából gyermek:
 
@@ -12,4 +12,4 @@ c) az átmeneti vagy tartós nevelésbe vett gyermek, aki a gyermek- és ifjús�
 
 (4) A kedvezményt ugyanazon gyermek vagy más eltartott családtag után csak egy alkalommal lehet igénybe venni.
 
-[^52]: A 6. § (2) bekezdését a 3/2005. (I. 12.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^55]: A 6. § (2) bekezdését a 3/2005. (I. 12.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
