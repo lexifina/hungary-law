@@ -1,4 +1,4 @@
-## I.[^147]
+## I.[^149]
 
 ## ÁLLAMI VADÁSZJEGY
 
@@ -12,7 +12,7 @@
 
 ## MINTA első és második oldala
 
-## II.[^148]
+## II.[^150]
 
 ## ÁLLAMI VADÁSZATI ENGEDÉLY
 
@@ -38,5 +38,5 @@
 
 15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
 
-[^147]: A Vhr. 14. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^148]: A Vhr. 14. számú melléklet II. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^149]: A Vhr. 14. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^150]: A Vhr. 14. számú melléklet II. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
