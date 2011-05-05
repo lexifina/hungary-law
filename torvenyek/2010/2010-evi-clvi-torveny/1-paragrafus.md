@@ -1,1 +1,0 @@
-1. § Hatályát veszti a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a Magyar Köztársaság, illetve a Moldovai Köztársaság területén jogellenesen tartózkodó személyek átadásáról és átvételéről szóló, Budapesten, 1997. június 4-én aláírt Megállapodás kihirdetéséről szóló 2000. évi XXIV. törvény.
