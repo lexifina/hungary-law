@@ -1,0 +1,1 @@
+Az Országgyűlés az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő magyar katonai szerepvállalással összefüggő egyes kormányhatározatok módosításáról szóló 1078/2011. (III. 30.) Korm. határozatban foglalt döntésekről szóló beszámolót elfogadja.
