@@ -1,3 +1,0 @@
-## „(3) A pályázat útján elnyert támogatással létrehozott, az önkormányzat tulajdonát képező bérlakásra, garzonházra, nyugdíjasházra, idősek otthonára a miniszter vagy megbízottja kérelmére 20 éves időtartamra elidegenítési és terhelési tilalmat kell feljegyezni a Magyar Állam javára az ingatlan-nyilvántartásba. A tilalmat a miniszter vagy megbízottja által kiadott törlési engedély alapján kell az ingatlan-nyilvántartásból törölni.
-
-## (4) Az elidegenítési és terhelési tilalom lejáratát követően a bérlakás értékesítése esetén az annak eladásából származó bevételt az önkormányzat csak a tulajdonában lévő lakóépületek üzemeltetésére, karbantartására, korszerűsítésére, felújítására és új bérlakások létesítésére használhatja fel.”

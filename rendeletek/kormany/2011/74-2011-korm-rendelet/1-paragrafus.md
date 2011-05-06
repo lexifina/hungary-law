@@ -1,7 +1,0 @@
-1. § (1) A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az e rendeletben foglalt feltételek alapján állami támogatás vehető igénybe a központi költségvetésből a Magyar Köztársaság területén lévő lakás építésére, vásárlására, bővítésére, korszerűsítésére, a lakóépületek közös használatú részeinek felújítására, valamint a társulati úton megvalósuló közcélú víziközmű beruházásokra. Állami támogatást vehetnek igénybe továbbá a települési önkormányzatok bérlakás-állományuk növelésére, garzonház, nyugdíjasház vagy idősek otthona létesítésére, lakóépületek energiatakarékos korszerűsítésére, felújítására, városrehabilitáció keretében lakóépülettömbök korszerűsítésére, felújítására, lakbértámogatásra, megyei önkormányzatok idősek otthona, az egyházak nyugdíjasházak vagy idősek otthona létesítésére, valamint a lakhatást szolgáló egyházi ingatlanok korszerűsítésére és felújítására. Nem minősül új lakás felépítésének vagy bővítésének meglévő épület, épületrész vagy építmény átalakítása. A Lakóépületek és környezetük felújításának támogatása programon belül a 28. §-ra, valamint a 32/C. §-ra vonatkozóan közvetlenül is nyújthatnak be pályázatot a lakásszövetkezetek és a társasházak is.”
-
-(2) Az R. 1. § (4) bekezdése a következő 14–16. ponttal egészül ki:
-
-(E rendelet alkalmazásában az egyes fogalmak jelentése a következő:)

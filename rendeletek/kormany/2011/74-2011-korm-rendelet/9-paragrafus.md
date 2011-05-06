@@ -1,3 +1,0 @@
-## 8. § Az R. 32/D. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az állam a központi költségvetés Lakbértámogatás előirányzatából a lakbér megfizetéséhez vissza nem térítendő központi lakbértámogatást nyújt az önkormányzat által felvett hitel felhasználásával a tulajdonába került bérlakásban, továbbá a nem önkormányzati vagy nem állami tulajdonban lévő bérlakásban lakó, a 2. § (2), (3) bekezdése szerinti feltételeknek megfelelő, jövedelmi helyzetük alapján rászoruló, gyermeket nevelő személyek részére – a bérlakás fekvése szempontjából illetékes települési önkormányzat útján – az e §-ban meghatározott feltételek szerint.”
