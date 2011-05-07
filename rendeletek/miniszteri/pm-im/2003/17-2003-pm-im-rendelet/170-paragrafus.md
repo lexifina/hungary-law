@@ -1,5 +1,5 @@
 ## X. Fejezet
 
-## A vámhivatal eljárására vonatkozó különös szabályok[^90]
+## A Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve eljárására vonatkozó különös szabályok[^98]
 
-[^90]: A X. Fejezet címe a 24/2006. (IX. 28.) PM–IRM együttes rendelet 44. §-ával megállapított szöveg.
+[^98]: A X. Fejezet címe a 19/2011. (V. 6.) NGM rendelet 13. §-ával megállapított szöveg.

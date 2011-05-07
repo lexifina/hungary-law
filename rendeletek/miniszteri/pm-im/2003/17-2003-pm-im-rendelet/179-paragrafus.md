@@ -6,12 +6,16 @@
 
 179. § (1) Ez a rendelet 2003. július 1. napján lép hatályba. Rendelkezéseit a hatálybalépésekor folyamatban lévő nyomozások teljesítése során is alkalmazni kell.
 
-(2)–(3)[^95]
+(2)[^111] Ennek a rendeletnek a pénzügyminiszter irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályairól és a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályairól szóló 17/2003. (VII. 1.) PM–IM együttes rendelet módosításáról szóló 19/2011. (V. 6.) NGM rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatálybalépésekor[^112] folyamatban lévő nyomozások során is alkalmazni kell.
 
-(4)[^96]
+(3)[^113]
 
-Melléklet a 17/2003. (VII. 1.) PM–IM együttes rendelethez[^97]
+(4)[^114]
 
-[^95]: A 179. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 112. pontja hatályon kívül helyezte.
-[^96]: A 179. § (4) bekezdését a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.
-[^97]: A mellékletet a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 112. pontja hatályon kívül helyezte.
+Melléklet a 17/2003. (VII. 1.) PM–IM együttes rendelethez[^115]
+
+[^111]: A 179. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 112. pontja hatályon kívül helyezte, újonnan a 19/2011. (V. 6.) NGM rendelet 15. §-a iktatta be.
+[^112]: A hatálybalépés időpontja 2011. május 7.
+[^113]: A 179. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 112. pontja hatályon kívül helyezte.
+[^114]: A 179. § (4) bekezdését a 24/2006. (IX. 28.) PM–IRM együttes rendelet 45. § (2) bekezdése hatályon kívül helyezte.
+[^115]: A mellékletet a 118/2008. (V. 8.) Korm. rendelet 43. §-ának 112. pontja hatályon kívül helyezte.

@@ -8,5 +8,8 @@
 
 (3) Az ügyész nyomozásra vonatkozó rendelkezéseit tartalmazó iratokat az irattári példányban kell elhelyezni.
 
+(4)[^20] Az irattári példány elektronikus formában is elkészíthető, amennyiben az ügy terjedelme és a dokumentumok jellege a teljes körű archiválást lehetővé teszi, és a technikai feltételek biztosítottak.
+
 [^18]: A 19. §-t megelőző alcím a 24/2006. (IX. 28.) PM–IRM együttes rendelet 12. §-ával megállapított szöveg.
 [^19]: A 19. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 12. §-ával megállapított szöveg.
+[^20]: A 19. § (4) bekezdését a 19/2011. (V. 6.) NGM rendelet 2. §-a iktatta be.

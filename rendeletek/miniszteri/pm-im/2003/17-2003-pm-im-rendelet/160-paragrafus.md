@@ -6,6 +6,8 @@
 
 (2) A diplomáciai mentességet élvező személlyel szemben büntetőeljárási cselekmény tettenérés esetén sem alkalmazható.
 
-(3) A diplomáciai mentesség fennállásának kérdésében – kétség esetén – az országos parancsnokság útján a külügyminisztert kell megkeresni.
+(3)[^93] A diplomáciai mentesség fennállásának kérdésében – kétség esetén – a Nemzeti Adó- és Vámhivatal Központi Hivatala útján a külügyminisztert kell megkeresni.
 
 (4) Ha a büntetőeljárás során adat merül fel arra, hogy az, akinek tanúkénti kihallgatása szükséges, illetőleg aki magánfélként lép fel, diplomáciai mentességet élvező személy, előterjesztést kell tenni az ügyészhez annak érdekében, hogy indítványozza a mentesség felfüggesztésére jogosult döntését.
+
+[^93]: A 160. § (3) bekezdése a 19/2011. (V. 6.) NGM rendelet 16. § c) pontja szerint módosított szöveg.

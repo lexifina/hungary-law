@@ -2,9 +2,9 @@
 
 ## A Be. 138/A. és 138/B. §-ához
 
-## (A távoltartás)[^52]
+## (A távoltartás)[^56]
 
-73/A. §[^53] (1) A távoltartás indítványozására a nyomozó hatóság vezetője tesz előterjesztést az ügyészhez. Az előterjesztés tartalmára a 64. §-ának (2) bekezdésében foglaltakat kell értelemszerűen alkalmazni azzal, hogy az előterjesztésnek tartalmaznia kell a korlátozásokra vonatkozó javaslatot is.
+73/A. §[^57] (1) A távoltartás indítványozására a nyomozó hatóság vezetője tesz előterjesztést az ügyészhez. Az előterjesztés tartalmára a 64. §-ának (2) bekezdésében foglaltakat kell értelemszerűen alkalmazni azzal, hogy az előterjesztésnek tartalmaznia kell a korlátozásokra vonatkozó javaslatot is.
 
 (2) Az előterjesztésben a nyomozó hatóság vezetője javaslatot tehet annak indítványozására is, hogy a terhelt a nyomozó hatóságnál meghatározott időközönként jelentkezzék.
 
@@ -12,5 +12,5 @@
 
 (4) A nyomozó hatóság haladéktalanul tájékoztatja a bíróságot, ha tudomására jut, hogy a terhelt a távoltartás szabályait szándékosan megszegte.
 
-[^52]: A 73/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 26. §-a iktatta be.
-[^53]: A 73/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 26. §-a iktatta be.
+[^56]: A 73/A. §-t megelőző alcímet a 24/2006. (IX. 28.) PM–IRM együttes rendelet 26. §-a iktatta be.
+[^57]: A 73/A. §-t a 24/2006. (IX. 28.) PM–IRM együttes rendelet 26. §-a iktatta be.

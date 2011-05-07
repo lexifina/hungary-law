@@ -1,3 +1,5 @@
+## során keletkezett iratokat, biztosított tárgyakat.
+
 118. § (1) Ha a nyomozás elrendelése után fedett nyomozó igénybevétele szükséges, a nyomozó hatóság vezetője az ügyészhez előterjesztést tesz, amely tartalmazza
 
 a) a nyomozó hatóság megnevezését, az ügyszámot, a nyomozás elrendelésének időpontját,

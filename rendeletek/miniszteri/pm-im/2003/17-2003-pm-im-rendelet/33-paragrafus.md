@@ -6,7 +6,7 @@ a) a kirendelt intézménynek, a szakértőnek, illetve a szakértői csoport ve
 
 b) a szakértő-kirendelés indokoltságát megalapozó tényeket,
 
-c) az átadott tárgyak kezelésére, vizsgálatára, megváltoztathatóságára vagy megsemmisíthetőségére vonatkozó rendelkezéseket,
+c)[^40] az átadott tárgyak átvételére, kezelésére, vizsgálatára, megváltoztathatóságára vagy megsemmisíthetőségére, valamint a visszaadás idejére és módjára vonatkozó rendelkezéseket,
 
 d) a személy testének sérthetetlenségét érintő vizsgálatra, illetve mintavételre vonatkozó rendelkezést,
 
@@ -15,3 +15,5 @@ e) a mintavételt szükségessé tévő okok megjelölését, amennyiben a nyomo
 f) a szakértői vélemény előterjesztésének módját,
 
 g) azt, ha a gyanúsított, a tanú, illetőleg a sértett kérte a reá vonatkozó szakvéleménynek a vizsgálat tárgyára, a vizsgálati eljárásokra és eszközökre, a vizsgálat tárgyában bekövetkezett változásokra vonatkozó adatai zártan kezelését.
+
+[^40]: A 33. § c) pontja a 19/2011. (V. 6.) NGM rendelet 4. §-ával megállapított szöveg.
