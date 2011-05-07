@@ -30,6 +30,6 @@ k) az üzemeltetés személyi és tárgyi feltételeit.
 
 (4) A légiforgalmi berendezés minősítése után a hatóság a tulajdonos (vagyonkezelő) és az üzembentartó részére a berendezés üzemben tartására vonatkozó határozatot kiadja.
 
-(5) A légiforgalmi berendezés tartósan üzemképtelenné válása esetén az üzembentartó intézkedik az előírt tájékoztatás (NOTAM) kiadásáról, és az eseményt a külön jogszabályban[^7] előírtak szerint haladéktalanul jelenti a hatóságnak.
+(5) A légiforgalmi berendezés tartósan üzemképtelenné válása esetén az üzembentartó intézkedik az előírt tájékoztatás (NOTAM) kiadásáról, és az eseményt a külön jogszabályban[^8] előírtak szerint haladéktalanul jelenti a hatóságnak.
 
-[^7]: 16/2000. (XI. 22.) KöViM rendelet a légiforgalom irányításának szabályairól.
+[^8]: 16/2000. (XI. 22.) KöViM rendelet a légiforgalom irányításának szabályairól.

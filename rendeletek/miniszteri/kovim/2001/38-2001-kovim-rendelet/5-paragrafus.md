@@ -16,7 +16,7 @@ d) rádióberendezés esetén a működési terület, légtérfedési és dombor
 
 e) a telepítés helyéül kiválasztott ingatlanra vonatkozó tulajdoni lap 30 napnál nem régebbi hiteles másolatát, valamint az ingatlan-nyilvántartási térkép hiteles másolatát. Amennyiben a berendezés telepítése nem a kérelmező tulajdonában, illetve vagyonkezelésében lévő ingatlanon történik, akkor az ingatlan tulajdonosával (vagyonkezelőjével) kötött, a terület használatára vonatkozó megállapodást is,
 
-f)[^4] az érintett közműszolgáltatók nyilatkozatát,
+f)[^5] az érintett közműszolgáltatók nyilatkozatát,
 
 g) a környezeti hatásvizsgálathoz kötött tevékenység esetén a környezetvédelmi hatóság engedélyét,
 
@@ -30,4 +30,4 @@ k) a létesítés indokolását.
 
 (4) A létesítési engedély iránti kérelmet az építtető (tulajdonos, vagyonkezelő), valamint a megbízott tervező nyújthatja be.
 
-[^4]: Az 5. § (3) bekezdésének f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 70. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^5]: Az 5. § (3) bekezdésének f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 70. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

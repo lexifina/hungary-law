@@ -10,8 +10,8 @@
 
 (5) A létesítési engedélyben rögzített előírásoktól és feltételektől csak az engedélyező hozzájárulásával lehet eltérni.
 
-(6) Rádióberendezés esetén, a telepített berendezés földi és légi ellenőrzése után a rádióengedélyezési eljárás a hatóság útján a hírközlési hatóságnál kezdeményezhető.[^5]
+(6) Rádióberendezés esetén, a telepített berendezés földi és légi ellenőrzése után a rádióengedélyezési eljárás a hatóság útján a hírközlési hatóságnál kezdeményezhető.[^6]
 
 (7) A hatóság a létesítési engedélyt az építtetőnek (vagyonkezelőnek vagy tulajdonosnak), illetve a tervezőnek küldi meg.
 
-[^5]: 2/2001. (I. 31.) MeHVM rendelet a rádióberendezésekről és a végberendezésekről, valamint megfelelőségük elismeréséről.
+[^6]: 2/2001. (I. 31.) MeHVM rendelet a rádióberendezésekről és a végberendezésekről, valamint megfelelőségük elismeréséről.

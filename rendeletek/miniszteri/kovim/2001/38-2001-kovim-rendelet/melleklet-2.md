@@ -92,6 +92,6 @@
 
 ## 4. Évenként a turbó generátorok üzemképességét a hatóság képviselőjének jelenlétében ellenőrizni kell.
 
-2. számú melléklet a 38/2001. (XI. 14.) KöViM rendelethez[^9]
+2. számú melléklet a 38/2001. (XI. 14.) KöViM rendelethez[^12]
 
-[^9]: A 2. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 70. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^12]: A 2. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 70. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
