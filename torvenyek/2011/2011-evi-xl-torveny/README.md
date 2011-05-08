@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-40-00-00
 | --- | --- | --- |
 | 2011-05-07 | 2011. évi XL. törvény | 2011-40-00-00.0 (közlönyállapot) |
 | 2011-05-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-40-00-00.1 |
+| 2011-05-08 | 2010. évi CXXX. törvény | 2011-40-00-00.2 |
