@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-16-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-05-07 | 2011-16-20-2W.1 | 16/2011. (V. 6.) NFM rendelet |
+| 2011-05-08 | 2011-16-20-2W.2 | 2010: CXXX. törvény |
