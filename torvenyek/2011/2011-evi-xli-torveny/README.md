@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-41-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2011-05-09 | 2011. évi XLI. törvény | 2011-41-00-00.0 (közlönyállapot) |
+| 2011-05-09 | 2011. évi LXXVI. törvény | 2011-41-00-00.1 |

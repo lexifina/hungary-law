@@ -13,11 +13,3 @@ e) 9. § (5) és (6) bekezdése,
 f) Melléklete.
 
 (2) Hatályát veszti a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56/A. § (2) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
