@@ -14,7 +14,7 @@ Tagok:
 
 dr. Bohács Zsolt (Fidesz)
 
-Gulyás Gergely (Fidesz)[^1]
+dr. Zsiga Marcell (Fidesz)[^1]
 
 dr. Horváth Zsolt (Veszprém) (Fidesz)
 
@@ -870,7 +870,7 @@ Seszták Oszkár (KDNP)[^101]
 
 Tagok:
 
-Arnóth Sándor (Fidesz)
+Kara Ákos (Fidesz)[^102]
 
 Babák Mihály (Fidesz)
 
@@ -882,13 +882,13 @@ dr. Bóka István (Fidesz)
 
 dr. Dancsó József (Fidesz)
 
-dr. Pósán László (Fidesz)[^102]
+dr. Pósán László (Fidesz)[^103]
 
 Ékes József (Fidesz)
 
 Herman István Ervin (Fidesz)
 
-Font Sándor (Fidesz)[^103]
+Font Sándor (Fidesz)[^104]
 
 Magyar Anna (Fidesz)
 
@@ -896,11 +896,11 @@ Márton Attila (Fidesz)
 
 dr. Nagy István (Fidesz)
 
-dr. Vitányi István (Fidesz)[^104]
+dr. Vitányi István (Fidesz)[^105]
 
 Szólláth Tibor Zoltán (Fidesz)
 
-Hoffman Pál (KDNP)[^105]
+Hoffman Pál (KDNP)[^106]
 
 Boldvai László (MSZP)
 
@@ -912,7 +912,7 @@ dr. Veres János (MSZP)
 
 dr. Lenhardt Balázs (Jobbik)
 
-Pősze Lajos (független)[^106]
+Pősze Lajos (független)[^107]
 
 Vágó Gábor (LMP)
 
@@ -978,7 +978,7 @@ z) a Centrum Parkoló Kft., valamint a Fővárosi Önkormányzatok Parkolási T�
 
 zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat elbírálása során felmerült egyes pártkötődések és háttéralkuk szerepét vizsgáló bizottság létrehozásáról szóló 18/2010. (II. 25.) OGY határozat.
 
-[^1]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^1]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1079,8 +1079,9 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^99]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^100]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^101]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^102]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^103]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^104]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
-[^105]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^106]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^102]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^103]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^104]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^105]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
+[^106]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^107]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
