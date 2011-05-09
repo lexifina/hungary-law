@@ -15,35 +15,3 @@
 a) az Európai Parlament és a Tanács 2001/37/EK irányelve (2001. június 5.) a tagállamoknak a dohánytermékek gyártására, kiszerelésére és árusítására vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről;
 
 b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, 5. cikk (2) bekezdése [a törvény 5. §-ának (4) bekezdése].
-
-## Melléklet az 1999. évi XLII. törvényhez
-
-E törvény 6. § (1) bekezdés b) pontja szerint alkalmazandó szabadon megválasztható egészségvédő figyelmeztető feliratok az alábbiak:
-
-1. A dohányosok korábban halnak.
-
-2. A dohányzás elzárja az artériákat, szívrohamot és agyvérzést okoz.
-
-3. A dohányzás halálos tüdőrákot okoz.
-
-4. A terhes nők dohányzása károsítja a magzat egészségét.
-
-5. Védje a gyermekeket: ne tegye ki őket a dohányfüst belélegzése veszélyének.
-
-6. Az orvosok és a gyógyszerészek segíthetnek a leszokásban.
-
-7. A dohányzásról nagyon nehéz leszokni, ezért ne szokjon rá.
-
-8. A dohányzás abbahagyása csökkenti a halálos szív- és tüdőbetegségek kockázatát.
-
-9. A dohányzás lassú és fájdalmas halálhoz vezet.
-
-10. Kérjen segítséget a leszokáshoz (telefon/levélcím/Internet-cím) kérdezze meg háziorvosát/gyógyszerészét.
-
-11. A dohányzás lassíthatja a vér áramlását, és impotenciát okozhat.
-
-12. A dohányzás öregíti a bőrt.
-
-13. A dohányzás károsítja a spermákat és gyengíti a megtermékenyítő képességet.
-
-14. A füst benzolt, nitrozamint, formaldehidet és hidrogén-cianidot tartalmaz.
