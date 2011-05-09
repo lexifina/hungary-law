@@ -1,0 +1,3 @@
+14. § A munkavédelemről szóló 1993. évi XCIII. törvény 38. §-a helyébe a következő rendelkezés lép:
+
+„38. § Azokon a munkahelyeken, ahol az egészséget nem veszélyeztető és biztonságos munkavégzés dohányzási tilalom elrendelését teszi szükségessé, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben foglaltaknak megfelelő, nyílt légterű dohányzóhelyet kell kijelölni, kivéve, ha a munkáltató a munkahelyet külön törvény szerint nemdohányzó munkahellyé nyilvánította.”
