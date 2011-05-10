@@ -1,0 +1,1084 @@
+# A nemzetgazdasági miniszter 20/2011. (V. 10.) NGM rendelete
+
+Magyar Közlöny 2011. évi 49. szám, 2011. május 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4a404d601b1ba613b5be35afbaa5d56fba32437e/dokumentumok/6ef9036aeda47f7ff49972a0c35d30a3872d64f7/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 20/2011. (V. 10.) NGM rendelete
+a helyi önkormányzatokat és a többcélú kistérségi társulásokat 2011. évben egyes központi
+költségvetési kapcsolatokból megillető forrásokról szóló 4/2011. (I. 31.) NGM rendelet
+módosításáról
+A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 80. § (3) bekezdésében foglalt felhatalmazás
+alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.)
+Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget
+vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § p) pontjában meghatározott feladatkörében
+eljáró belügyminiszterrel egyetértésben, a következőket rendelem el:
+1. § A helyi önkormányzatokat és a többcélú kistérségi társulásokat 2011. évben egyes központi költségvetési
+kapcsolatokból megillető forrásokról szóló 4/2011. (I. 31.) NGM rendelet (a továbbiakban: R.) kiegészül a következő
+1/A. §-sal:
+„1/A. § (1) A KT 3. mellékletében szereplő normatív hozzájárulások jogcímeihez kapcsolódó mutatószámok kiegészítő
+felmérése alapján a helyi önkormányzatokat finanszírozási különbözetként megillető, a KT. 3. melléklet 16. pont
+g) alpontja szerinti Intézményi társulás óvodájába, általános iskolájába járó gyermekek, tanulók támogatása jogcím
+támogatási összegének helyi önkormányzatonkénti részletezését az 5. melléklet tartalmazza.
+(2) A helyi önkormányzatokat felelősségi körükön kívül eső okból finanszírozási különbözetként megillető,
+a KT. 3. melléklet 8. pontja szerinti Üdülőhelyi feladatok jogcím támogatási összegének helyi önkormányzatonkénti
+részletezését az 5. melléklet tartalmazza.
+(3) A KT 3. mellékletében szereplő normatív hozzájárulások jogcímeihez kapcsolódó mutatószámok kiegészítő
+felmérése alapjána társulásokat finanszírozásikülönbözetkéntmegillető, a KT. 3. melléklet 16. pont g) alpontja szerinti
+Intézményi társulás óvodájába, általános iskolájába járó gyermekek, tanulók támogatása jogcím támogatási
+összegének társulásonkénti részletezését a 6. melléklet tartalmazza.
+(4) A társulásokat felelősségi körükön kívül eső okból finanszírozási különbözetként megillető,
+a) a KT. 8. melléklet III. rész 2.1. pontja szerinti Többcélú kistérségi társulások általános feladatainak támogatása
+jogcím,
+b) a KT 8. melléklet III. rész 2.2. pontja szerinti Többcélú kistérségi társulások közoktatási feladatainak támogatása
+jogcím,
+c) a KT 8. melléklet III. rész 2.4. pontja szerinti Többcélú kistérségi társulások szociális alapszolgáltatási feladatainak
+támogatása jogcím,
+d) a KT 8. melléklet III. rész 2.6. pontja szerinti Többcélú kistérségi társulások gyermekjóléti alapellátási feladatainak
+támogatása jogcím,
+e) a KT 8. melléklet III. rész 2.7. pontja szerinti Többcélú kistérségi társulások mozgókönyvtári és egyes közművelődési
+feladatainak támogatása jogcím,
+f) a KT 8. melléklet III. rész 2.8. pontja szerinti Többcélú kistérségi társulások belső ellenőrzési feladatainak támogatása
+jogcím
+támogatási összegének társulásonkénti részletezését a 6. melléklet tartalmazza.”
+2. § Az R. az 1. és 2. melléklet szerinti 5. és 6. mellékletekkel egészül ki.
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba és az azt követő második napon hatályát veszti.
+Dr. Matolcsy György s. k.,
+nemzetgazdasági miniszter
+
+1. melléklet a 20/2011. (V. 10.) NGM rendelethez
+„5. melléklet a 4/2011. (I. 31.) NGM rendelethez
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. Megye/főváros társulás óvodájába,
+általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+1 Főváros 375 039 000 0 375 039 000
+2 Baranya 0 80 085 329 80 085 329
+3 Bács-Kiskun 0 103 360 000 103 360 000
+4 Békés 0 37 664 000 37 664 000
+5 Borsod-Abaúj-Zemplén 0 231 487 996 231 487 996
+6 Csongrád 0 66 101 333 66 101 333
+7 Fejér 0 100 127 999 100 127 999
+8 Győr-Moson-Sopron 0 110 880 000 110 880 000
+9 Hajdú-Bihar 0 74 506 666 74 506 666
+10 Heves 0 97 909 334 97 909 334
+11 Komárom-Esztergom 0 62 901 334 62 901 334
+12 Nógrád 0 84 554 666 84 554 666
+13 Pest 0 94 805 333 94 805 333
+14 Somogy 0 130 922 667 130 922 667
+15 Szabolcs-Szatmár-Bereg 0 150 912 000 150 912 000
+16 Jász-Nagykun-Szolnok 0 68 394 665 68 394 665
+17 Tolna 0 103 637 334 103 637 334
+18 Vas 0 58 783 998 58 783 998
+19 Veszprém 0 101 002 664 101 002 664
+20 Zala 0 87 178 667 87 178 667
+Összesen 375 039 000 1 845 215 985 2 220 254 985 "
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+1 1 1 0113578 Budapest Főváros -2 100 000 000 0 -2 100 000 000
+2 1 3 0109566 I. kerület 180 000 000 0 180 000 000
+3 1 3 0103179 II. kerület 54 849 000 0 54 849 000
+4 1 3 0118069 III. kerület 70 500 000 0 70 500 000
+5 1 3 0105467 IV. kerület 47 550 000 0 47 550 000
+6 1 3 0113392 V. kerület 957 000 000 0 957 000 000
+7 1 3 0116586 VI. kerület 120 000 000 0 120 000 000
+8 1 3 0129744 VII. kerület 210 000 000 0 210 000 000
+9 1 3 0125405 VIII. kerület 361 605 000 0 361 605 000
+10 1 3 0129586 IX. kerület 83 535 000 0 83 535 000
+11 1 3 0110700 X. kerület 135 000 000 0 135 000 000
+12 1 3 0124697 XII. kerület 45 000 000 0 45 000 000
+13 1 3 0124299 XIII. kerület 210 000 000 0 210 000 000
+Főváros összesen 375 039 000 0 375 039 000
+1 2 2 0219415 Pécs m.j. 0 2 144 000 2 144 000
+2 2 3 0233154 Bóly 0 5 418 667 5 418 667
+3 2 3 0221528 Harkány 0 2 229 333 2 229 333
+4 2 3 0226408 Komló 0 2 784 000 2 784 000
+5 2 3 0206336 Kozármisleny 0 917 333 917 333
+6 2 3 0206813 Mágocs 0 2 261 333 2 261 333
+7 2 3 0223959 Mohács 0 1 877 333 1 877 333
+8 2 3 0210825 Pécsvárad 0 2 656 000 2 656 000
+9 2 3 0232160 Sásd 0 1 717 333 1 717 333
+10 2 3 0205519 Siklós 0 341 333 341 333
+11 2 3 0228024 Villány 0 1 226 667 1 226 667
+12 2 4 0231927 Beremend 0 2 570 667 2 570 667
+13 2 4 0233765 Szászvár 0 4 384 000 4 384 000
+14 2 5 0233279 Alsószentmárton 0 1 642 667 1 642 667
+15 2 5 0205403 Babarc 0 341 333 341 333
+16 2 5 0224749 Baranyajenő 0 160 000 160 000
+17 2 5 0216461 Berkesd 0 1 568 000 1 568 000
+18 2 5 0232151 Bogád 0 2 730 667 2 730 667
+19 2 5 0207773 Dencsháza 0 2 634 667 2 634 667
+20 2 5 0217419 Drávafok 0 266 667 266 667
+21 2 5 0228608 Drávaszabolcs 0 1 813 333 1 813 333
+22 2 5 0221698 Drávasztára 0 565 333 565 333
+23 2 5 0216498 Egyházasharaszti 0 320 000 320 000
+24 2 5 0218704 Erdősmecske 0 213 333 213 333
+25 2 5 0213499 Erzsébet 0 234 667 234 667
+26 2 5 0208819 Felsőszentmárton 0 928 000 928 000
+27 2 5 0233233 Gödre 0 736 000 736 000
+28 2 5 0207126 Hetvehely 0 682 667 682 667
+29 2 5 0227933 Himesháza 0 1 205 333 1 205 333
+30 2 5 0219132 Kátoly 0 85 333 85 333
+31 2 5 0210542 Kémes 0 2 368 000 2 368 000
+32 2 5 0209548 Kisvaszar 0 256 000 256 000
+33 2 5 0215538 Kővágószőlős 0 1 504 000 1 504 000
+34 2 5 0233330 Lánycsók 0 2 858 667 2 858 667
+35 2 5 0222974 Lippó 0 949 333 949 333
+36 2 5 0225177 Magyarbóly 0 1 824 000 1 824 000
+37 2 5 0227863 Majs 0 1 429 333 1 429 333
+38 2 5 0213444 Mecseknádasd 0 2 080 000 2 080 000
+39 2 5 0216285 Mindszentgodisa 0 1 717 333 1 717 333
+40 2 5 0202653 Nagyharsány 0 949 333 949 333
+41 2 5 0219877 Nagypall 0 213 333 213 333
+42 2 5 0219646 Ófalu 0 64 000 64 000
+43 2 5 0218555 Olasz 0 2 005 333 2 005 333
+44 2 5 0211730 Orfű 0 384 000 384 000
+45 2 5 0208800 Siklósnagyfalu 0 533 333 533 333
+46 2 5 0223472 Somberek 0 4 949 333 4 949 333
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+47 2 5 0205607 Szederkény 0 2 773 333 2 773 333
+48 2 5 0222424 Tormás 0 128 000 128 000
+49 2 5 0206062 Újpetre 0 1 546 667 1 546 667
+50 2 5 0202264 Vásárosdombó 0 2 837 333 2 837 333
+51 2 5 0220279 Véménd 0 1 173 333 1 173 333
+52 2 5 0205892 Vokány 0 885 333 885 333
+Baranya megye összesen 0 80 085 329 80 085 329
+1 3 3 0318759 Hajós 0 1 973 333 1 973 333
+2 3 3 0309469 Jánoshalma 0 576 000 576 000
+3 3 3 0306442 Kalocsa 0 3 893 333 3 893 333
+4 3 3 0320297 Kiskunfélegyháza 0 1 109 333 1 109 333
+5 3 3 0332434 Kiskunhalas 0 330 667 330 667
+6 3 3 0317677 Lajosmizse 0 1 365 333 1 365 333
+7 3 4 0332823 Bugac 0 3 264 000 3 264 000
+8 3 4 0307861 Dunapataj 0 4 672 000 4 672 000
+9 3 4 0318458 Harta 0 3 626 667 3 626 667
+10 3 4 0306202 Lakitelek 0 9 194 667 9 194 667
+11 3 4 0321245 Sükösd 0 7 338 667 7 338 667
+12 3 5 0313408 Ballószög 0 7 136 000 7 136 000
+13 3 5 0326471 Csátalja 0 3 456 000 3 456 000
+14 3 5 0321069 Dunaegyháza 0 1 642 667 1 642 667
+15 3 5 0304109 Dusnok 0 5 056 000 5 056 000
+16 3 5 0302954 Felsőszentiván 0 9 674 667 9 674 667
+17 3 5 0302149 Foktő 0 3 232 000 3 232 000
+18 3 5 0331848 Gara 0 2 176 000 2 176 000
+19 3 5 0308350 Harkakötöny 0 1 386 667 1 386 667
+20 3 5 0317923 Jakabszállás 0 4 469 333 4 469 333
+21 3 5 0308378 Jászszentlászló 0 2 954 667 2 954 667
+22 3 5 0305856 Kunadacs 0 3 936 000 3 936 000
+23 3 5 0332540 Nemesnádudvar 0 8 032 000 8 032 000
+24 3 5 0316939 Orgovány 0 6 869 333 6 869 333
+25 3 5 0328820 Szeremle 0 1 941 333 1 941 333
+26 3 5 0328343 Vaskút 0 4 053 333 4 053 333
+Bács-Kiskun megye összesen 0 103 360 000 103 360 000
+1 4 3 0409760 Békés 0 2 858 667 2 858 667
+2 4 3 0424819 Dévaványa 0 1 120 000 1 120 000
+3 4 3 0432957 Elek 0 2 240 000 2 240 000
+4 4 3 0433455 Gyomaendrőd 0 256 000 256 000
+5 4 3 0430128 Medgyesegyháza 0 1 173 333 1 173 333
+6 4 3 0419628 Mezőberény 0 1 098 666 1 098 666
+7 4 3 0428565 Sarkad 0 1 472 000 1 472 000
+8 4 3 0429531 Vésztő 0 501 334 501 334
+9 4 4 0431334 Csabacsűd 0 2 048 000 2 048 000
+10 4 4 0424031 Dombegyház 0 1 962 667 1 962 667
+11 4 4 0410287 Kondoros 0 5 429 333 5 429 333
+12 4 5 0413471 Bucsa 0 3 296 000 3 296 000
+13 4 5 0416045 Kunágota 0 5 440 000 5 440 000
+14 4 5 0427906 Magyarbánhegyes 0 3 936 000 3 936 000
+15 4 5 0411536 Magyardombegyház 0 309 333 309 333
+16 4 5 0419257 Okány 0 4 522 667 4 522 667
+Békés megye összesen 0 37 664 000 37 664 000
+1 5 3 0503595 Abaújszántó 0 1 632 000 1 632 000
+2 5 3 0503939 Cigánd 0 1 706 667 1 706 667
+3 5 3 0510728 Edelény 0 3 274 667 3 274 667
+4 5 3 0533048 Encs 0 2 656 000 2 656 000
+5 5 3 0515936 Gönc 0 597 333 597 333
+6 5 3 0506691 Kazincbarcika 0 3 285 333 3 285 333
+7 5 3 0513833 Mezőcsát 0 3 264 000 3 264 000
+8 5 3 0511323 Mezőkeresztes 0 6 538 667 6 538 667
+9 5 3 0519433 Mezőkövesd 0 1 301 333 1 301 333
+10 5 3 0514492 Ózd 0 1 674 667 1 674 667
+11 5 3 0527410 Putnok 0 1 450 666 1 450 666
+12 5 3 0523029 Rudabánya 0 1 642 667 1 642 667
+13 5 3 0516054 Sajószentpéter 0 1 621 333 1 621 333
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+14 5 3 0505120 Sátoraljaújhely 0 2 656 000 2 656 000
+15 5 3 0508077 Szendrő 0 992 000 992 000
+16 5 3 0518306 Tokaj 0 1 226 667 1 226 667
+17 5 4 0521546 Múcsony 0 5 194 667 5 194 667
+18 5 4 0519220 Ricse 0 4 288 000 4 288 000
+19 5 4 0522169 Szentistván 0 3 466 667 3 466 667
+20 5 4 0528398 Tiszalúc 0 2 026 667 2 026 667
+21 5 5 0509362 Aggtelek 0 810 667 810 667
+22 5 5 0520482 Alsóberecki 0 565 333 565 333
+23 5 5 0503771 Arnót 0 1 621 333 1 621 333
+24 5 5 0518184 Baktakék 0 3 818 667 3 818 667
+25 5 5 0525159 Bánhorváti 0 3 200 000 3 200 000
+26 5 5 0521953 Bánréve 0 3 626 666 3 626 666
+27 5 5 0534290 Berente 0 2 464 000 2 464 000
+28 5 5 0526356 Berzék 0 949 333 949 333
+29 5 5 0523737 Bodroghalom 0 2 421 333 2 421 333
+30 5 5 0530784 Bodrogkeresztúr 0 2 858 667 2 858 667
+31 5 5 0514401 Bodrogolaszi 0 2 784 000 2 784 000
+32 5 5 0505926 Bódvaszilas 0 3 744 000 3 744 000
+33 5 5 0525195 Bogács 0 3 541 333 3 541 333
+34 5 5 0514474 Boldogkőváralja 0 2 901 333 2 901 333
+35 5 5 0508396 Boldva 0 4 309 333 4 309 333
+36 5 5 0530669 Borsodbóta 0 1 792 000 1 792 000
+37 5 5 0505306 Bőcs 0 2 357 333 2 357 333
+38 5 5 0508022 Bükkszentkereszt 0 800 000 800 000
+39 5 5 0528459 Csernely 0 746 667 746 667
+40 5 5 0504686 Dédestapolcsány 0 2 101 333 2 101 333
+41 5 5 0505865 Egerlövő 0 170 667 170 667
+42 5 5 0509742 Felsődobsza 0 2 165 333 2 165 333
+43 5 5 0532762 Felsőnyárád 0 2 965 333 2 965 333
+44 5 5 0523533 Felsővadász 0 2 656 000 2 656 000
+45 5 5 0530483 Forró 0 3 797 333 3 797 333
+46 5 5 0523719 Gelej 0 416 000 416 000
+47 5 5 0515608 Gesztely 0 4 821 333 4 821 333
+48 5 5 0521564 Girincs 0 1 760 000 1 760 000
+49 5 5 0527942 Halmaj 0 3 349 333 3 349 333
+50 5 5 0511226 Hangács 0 277 333 277 333
+51 5 5 0506655 Hejőbába 0 3 498 667 3 498 667
+52 5 5 0504604 Hejőkeresztúr 0 3 552 000 3 552 000
+53 5 5 0531200 Hernádnémeti 0 6 314 667 6 314 667
+54 5 5 0519840 Hernádvécse 0 2 997 333 2 997 333
+55 5 5 0511697 Hidasnémeti 0 3 232 000 3 232 000
+56 5 5 0525672 Hidvégardó 0 394 667 394 667
+57 5 5 0521236 Homrogd 0 1 770 667 1 770 667
+58 5 5 0508086 Ináncs 0 3 008 000 3 008 000
+59 5 5 0520233 Jákfalva 0 448 000 448 000
+60 5 5 0513374 Kázsmárk 0 3 338 667 3 338 667
+61 5 5 0512034 Kelemér 0 298 667 298 667
+62 5 5 0505458 Kenézlő 0 3 200 000 3 200 000
+63 5 5 0529249 Kesznyéten 0 3 018 667 3 018 667
+64 5 5 0526602 Köröm 0 2 240 000 2 240 000
+65 5 5 0519576 Krasznokvajda 0 1 173 333 1 173 333
+66 5 5 0511819 Kurityán 0 2 922 667 2 922 667
+67 5 5 0515857 Lak 0 2 058 667 2 058 667
+68 5 5 0503531 Léh 0 405 333 405 333
+69 5 5 0521768 Megyaszó 0 3 914 667 3 914 667
+70 5 5 0518379 Mezőnagymihály 0 1 589 333 1 589 333
+71 5 5 0533181 Nagyrozvágy 0 832 000 832 000
+72 5 5 0527191 Novajidrány 0 2 954 667 2 954 667
+73 5 5 0531778 Olaszliszka 0 3 520 000 3 520 000
+74 5 5 0522628 Ónod 0 5 077 333 5 077 333
+75 5 5 0534069 Ormosbánya 0 2 741 333 2 741 333
+76 5 5 0526745 Parasznya 0 2 581 333 2 581 333
+77 5 5 0524420 Pere 0 234 667 234 667
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+78 5 5 0533419 Perkupa 0 501 333 501 333
+79 5 5 0506053 Ragály 0 1 504 000 1 504 000
+80 5 5 0529717 Rakaca 0 2 133 333 2 133 333
+81 5 5 0503081 Sajóhídvég 0 2 133 333 2 133 333
+82 5 5 0527173 Sajólád 0 6 357 333 6 357 333
+83 5 5 0522479 Sajólászlófalva 0 224 000 224 000
+84 5 5 0530340 Sajószöged 0 2 901 333 2 901 333
+85 5 5 0520738 Sajóvámos 0 1 706 667 1 706 667
+86 5 5 0527757 Sajóvelezd 0 309 333 309 333
+87 5 5 0525380 Selyeb 0 341 333 341 333
+88 5 5 0532531 Serényfalva 0 586 667 586 667
+89 5 5 0531015 Szalaszend 0 2 624 000 2 624 000
+90 5 5 0516753 Szalonna 0 2 421 333 2 421 333
+91 5 5 0509830 Szemere 0 1 824 000 1 824 000
+92 5 5 0520871 Szin 0 1 952 000 1 952 000
+93 5 5 0516179 Szögliget 0 106 667 106 667
+94 5 5 0512210 Tállya 0 2 570 667 2 570 667
+95 5 5 0508165 Tard 0 1 088 000 1 088 000
+96 5 5 0530447 Tibolddaróc 0 2 133 333 2 133 333
+97 5 5 0508633 Tiszapalkonya 0 1 653 333 1 653 333
+98 5 5 0514890 Tomor 0 533 333 533 333
+99 5 5 0530003 Vajdácska 0 2 677 333 2 677 333
+100 5 5 0511581 Vilmány 0 3 221 333 3 221 333
+101 5 5 0521087 Vizsoly 0 2 378 667 2 378 667
+Borsod-Abaúj-Zemplén megye összesen 0 231 487 996 231 487 996
+1 6 3 0605379 Csanádpalota 0 746 667 746 667
+2 6 3 0631024 Kistelek 0 4 234 667 4 234 667
+3 6 3 0607357 Makó 0 501 333 501 333
+4 6 3 0614456 Szentes 0 832 000 832 000
+5 6 4 0626666 Kiszombor 0 5 450 667 5 450 667
+6 6 4 0632489 Szegvár 0 6 080 000 6 080 000
+7 6 5 0614252 Apátfalva 0 5 525 333 5 525 333
+8 6 5 0610339 Ásotthalom 0 4 309 333 4 309 333
+9 6 5 0623676 Balástya 0 5 098 667 5 098 667
+10 6 5 0613383 Domaszék 0 8 245 333 8 245 333
+11 6 5 0619974 Fábiánsebestyén 0 2 752 000 2 752 000
+12 6 5 0609210 Földeák 0 4 000 000 4 000 000
+13 6 5 0606284 Pitvaros 0 2 730 667 2 730 667
+14 6 5 0603966 Ruzsa 0 3 701 333 3 701 333
+15 6 5 0621412 Üllés 0 6 176 000 6 176 000
+16 6 5 0617765 Zsombó 0 5 717 333 5 717 333
+Csongrád megye összesen 0 66 101 333 66 101 333
+1 7 2 0714827 Székesfehérvár m.j. 0 2 901 333 2 901 333
+2 7 3 0710296 Gárdony 0 2 016 000 2 016 000
+3 7 3 0704659 Martonvásár 0 917 333 917 333
+4 7 3 0718485 Mór 0 768 000 768 000
+5 7 3 0723694 Sárbogárd 0 885 333 885 333
+6 7 3 0725016 Velence 0 480 000 480 000
+7 7 4 0717376 Aba 0 6 464 000 6 464 000
+8 7 4 0713152 Cece 0 4 309 333 4 309 333
+9 7 4 0720002 Csákvár 0 6 165 333 6 165 333
+10 7 4 0707506 Lajoskomárom 0 3 253 333 3 253 333
+11 7 4 0717552 Mezőfalva 0 7 733 333 7 733 333
+12 7 4 0719354 Perkáta 0 5 898 667 5 898 667
+13 7 4 0720206 Seregélyes 0 8 736 000 8 736 000
+14 7 4 0733321 Soponya 0 2 592 000 2 592 000
+15 7 4 0728705 Szabadbattyán 0 6 261 333 6 261 333
+16 7 5 0726824 Alap 0 2 549 333 2 549 333
+17 7 5 0707047 Baracs 0 6 549 333 6 549 333
+18 7 5 0732018 Iszkaszentgyörgy 0 2 122 667 2 122 667
+19 7 5 0716683 Káloz 0 8 800 000 8 800 000
+20 7 5 0729036 Mezőszilas 0 3 680 000 3 680 000
+21 7 5 0713903 Nádasdladány 0 2 560 000 2 560 000
+22 7 5 0725751 Pákozd 0 2 144 000 2 144 000
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+23 7 5 0731802 Sárkeresztes 0 1 482 667 1 482 667
+24 7 5 0718740 Szabadhídvég 0 330 667 330 667
+25 7 5 0719549 Szár 0 2 410 667 2 410 667
+26 7 5 0729267 Tác 0 3 136 000 3 136 000
+27 7 5 0721005 Tordas 0 2 496 000 2 496 000
+28 7 5 0713897 Vértesboglár 0 1 194 667 1 194 667
+29 7 5 0730243 Zámoly 0 1 290 667 1 290 667
+Fejér megye összesen 0 100 127 999 100 127 999
+1 8 3 0810588 Beled 0 1 258 667 1 258 667
+2 8 3 0804039 Csorna 0 1 344 000 1 344 000
+3 8 3 0809885 Fertőd 0 2 208 000 2 208 000
+4 8 3 0815343 Fertőszentmiklós 0 853 333 853 333
+5 8 3 0829221 Jánossomorja 0 906 667 906 667
+6 8 3 0828334 Kapuvár 0 4 778 667 4 778 667
+7 8 3 0804783 Mosonmagyaróvár 0 1 088 000 1 088 000
+8 8 3 0819035 Tét 0 3 904 000 3 904 000
+9 8 4 0815501 Bősárkány 0 2 805 333 2 805 333
+10 8 4 0833668 Lébény 0 4 245 333 4 245 333
+11 8 4 0802495 Nagycenk 0 1 973 333 1 973 333
+12 8 4 0808536 Szany 0 1 056 000 1 056 000
+13 8 5 0811882 Abda 0 4 405 334 4 405 334
+14 8 5 0828769 Bágyogszovát 0 2 357 334 2 357 334
+15 8 5 0805944 Bakonyszentlászló 0 2 538 667 2 538 667
+16 8 5 0833950 Bőny 0 1 856 000 1 856 000
+17 8 5 0821865 Darnózseli 0 2 432 000 2 432 000
+18 8 5 0827739 Dunakiliti 0 2 805 333 2 805 333
+19 8 5 0821078 Dunaszeg 0 1 770 667 1 770 667
+20 8 5 0816708 Écs 0 2 997 333 2 997 333
+21 8 5 0815237 Egyházasfalu 0 629 333 629 333
+22 8 5 0815033 Enese 0 2 794 667 2 794 667
+23 8 5 0833996 Farád 0 1 472 000 1 472 000
+24 8 5 0831440 Fertőszéplak 0 1 152 000 1 152 000
+25 8 5 0826860 Gyarmat 0 2 549 333 2 549 333
+26 8 5 0820400 Gyömöre 0 3 328 000 3 328 000
+27 8 5 0813198 Győrladamér 0 2 346 666 2 346 666
+28 8 5 0826790 Halászi 0 3 754 667 3 754 667
+29 8 5 0812308 Hédervár 0 2 677 333 2 677 333
+30 8 5 0818403 Hegykő 0 2 293 333 2 293 333
+31 8 5 0831635 Iván 0 1 973 333 1 973 333
+32 8 5 0814748 Kimle 0 3 221 333 3 221 333
+33 8 5 0822886 Kisbajcs 0 2 325 333 2 325 333
+34 8 5 0811262 Kóny 0 4 234 667 4 234 667
+35 8 5 0831194 Lövő 0 2 304 000 2 304 000
+36 8 5 0812812 Mezőörs 0 352 000 352 000
+37 8 5 0821980 Mihályi 0 2 229 333 2 229 333
+38 8 5 0802556 Mórichida 0 288 000 288 000
+39 8 5 0832939 Nagylózs 0 405 333 405 333
+40 8 5 0823773 Pereszteg 0 554 667 554 667
+41 8 5 0825335 Rábapatona 0 1 621 333 1 621 333
+42 8 5 0815422 Rábatamási 0 1 717 333 1 717 333
+43 8 5 0833969 Rétalap 0 554 667 554 667
+44 8 5 0812627 Sokorópátka 0 1 994 667 1 994 667
+45 8 5 0829090 Sopronhorpács 0 1 514 667 1 514 667
+46 8 5 0825724 Sopronkövesd 0 2 080 000 2 080 000
+47 8 5 0819266 Szil 0 3 424 000 3 424 000
+48 8 5 0803364 Szilsárkány 0 426 667 426 667
+49 8 5 0814261 Táp 0 2 282 667 2 282 667
+50 8 5 0821971 Tápszentmiklós 0 2 720 000 2 720 000
+51 8 5 0833914 Tarjánpuszta 0 320 000 320 000
+52 8 5 0816674 Töltéstava 0 2 922 667 2 922 667
+53 8 5 0804622 Zsira 0 832 000 832 000
+Győr-Moson-Sopron megye összesen 0 110 880 000 110 880 000
+1 9 3 0912788 Berettyóújfalu 0 1 226 667 1 226 667
+2 9 3 0919956 Biharkeresztes 0 3 786 667 3 786 667
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+3 9 3 0905573 Derecske 0 8 522 667 8 522 667
+4 9 3 0902307 Kaba 0 7 136 000 7 136 000
+5 9 4 0920011 Bagamér 0 5 994 667 5 994 667
+6 9 4 0912450 Csökmő 0 3 242 667 3 242 667
+7 9 4 0906266 Hosszúpályi 0 14 197 333 14 197 333
+8 9 4 0906309 Nagyrábé 0 4 277 333 4 277 333
+9 9 4 0904817 Zsáka 0 1 888 000 1 888 000
+10 9 5 0925469 Esztár 0 4 245 333 4 245 333
+11 9 5 0916993 Furta 0 2 357 333 2 357 333
+12 9 5 0916568 Görbeháza 0 4 832 000 4 832 000
+13 9 5 0929391 Hencida 0 2 549 333 2 549 333
+14 9 5 0931130 Körösszakál 0 1 578 667 1 578 667
+15 9 5 0908943 Körösszegapáti 0 1 600 000 1 600 000
+16 9 5 0903683 Magyarhomorog 0 1 749 333 1 749 333
+17 9 5 0919099 Szentpéterszeg 0 2 741 333 2 741 333
+18 9 5 0932568 Újszentmargita 0 2 581 333 2 581 333
+Hajdú-Bihar megye összesen 0 74 506 666 74 506 666
+1 10 2 1020491 Eger m.j. 0 4 384 000 4 384 000
+2 10 3 1033260 Bélapátfalva 0 1 226 667 1 226 667
+3 10 3 1003276 Füzesabony 0 1 450 667 1 450 667
+4 10 3 1018281 Kisköre 0 789 333 789 333
+5 10 3 1012070 Pétervására 0 2 058 667 2 058 667
+6 10 4 1007436 Parád 0 2 997 333 2 997 333
+7 10 4 1024147 Verpelét 0 5 034 667 5 034 667
+8 10 5 1006345 Aldebrő 0 2 869 333 2 869 333
+9 10 5 1006503 Átány 0 4 256 000 4 256 000
+10 10 5 1011527 Balaton 0 2 890 667 2 890 667
+11 10 5 1010621 Bükkszenterzsébet 0 565 333 565 333
+12 10 5 1009201 Detk 0 1 578 667 1 578 667
+13 10 5 1016610 Egercsehi 0 3 018 667 3 018 667
+14 10 5 1019123 Gyöngyössolymos 0 2 101 333 2 101 333
+15 10 5 1020242 Heréd 0 2 752 000 2 752 000
+16 10 5 1015307 Kápolna 0 2 208 000 2 208 000
+17 10 5 1028079 Kerecsend 0 2 122 667 2 122 667
+18 10 5 1012502 Kisnána 0 1 802 667 1 802 667
+19 10 5 1023995 Kompolt 0 3 626 667 3 626 667
+20 10 5 1027696 Maklár 0 2 933 333 2 933 333
+21 10 5 1014872 Mátraderecske 0 2 229 333 2 229 333
+22 10 5 1025089 Mezőszemere 0 533 333 533 333
+23 10 5 1031662 Mezőtárkány 0 4 725 333 4 725 333
+24 10 5 1018810 Noszvaj 0 3 157 333 3 157 333
+25 10 5 1022196 Poroszló 0 3 850 667 3 850 667
+26 10 5 1027650 Rózsaszentmárton 0 3 712 000 3 712 000
+27 10 5 1008527 Sirok 0 2 656 000 2 656 000
+28 10 5 1016063 Szajla 0 362 667 362 667
+29 10 5 1005643 Szilvásvárad 0 2 272 000 2 272 000
+30 10 5 1013240 Tarnalelesz 0 3 786 667 3 786 667
+31 10 5 1023348 Tarnaméra 0 1 738 667 1 738 667
+32 10 5 1014128 Tarnaörs 0 4 789 333 4 789 333
+33 10 5 1017163 Tarnazsadány 0 4 021 333 4 021 333
+34 10 5 1007083 Tiszanána 0 6 634 667 6 634 667
+35 10 5 1003513 Visznek 0 2 773 333 2 773 333
+Heves megye összesen 0 97 909 334 97 909 334
+1 11 3 1117330 Kisbér 0 138 667 138 667
+2 11 3 1115352 Nyergesújfalu 0 1 258 667 1 258 667
+3 11 3 1120127 Tata 0 1 045 333 1 045 333
+4 11 4 1108758 Tát 0 6 176 000 6 176 000
+5 11 5 1107311 Bokod 0 6 730 667 6 730 667
+6 11 5 1118926 Csolnok 0 9 898 667 9 898 667
+7 11 5 1129638 Epöl 0 5 354 667 5 354 667
+8 11 5 1106521 Gyermely 0 2 645 333 2 645 333
+9 11 5 1102510 Kocs 0 3 498 667 3 498 667
+10 11 5 1125487 Leányvár 0 6 752 000 6 752 000
+11 11 5 1122619 Szomód 0 2 506 667 2 506 667
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+12 11 5 1118935 Tarján 0 4 437 333 4 437 333
+13 11 5 1120987 Tárkány 0 2 816 000 2 816 000
+14 11 5 1134023 Tokodaltáró 0 7 829 333 7 829 333
+15 11 5 1115282 Vértessomló 0 1 813 333 1 813 333
+Komárom-Esztergom megye összesen 0 62 901 334 62 901 334
+1 12 3 1213657 Balassagyarmat 0 1 130 667 1 130 667
+2 12 3 1207409 Pásztó 0 1 504 000 1 504 000
+3 12 3 1223825 Rétság 0 373 333 373 333
+4 12 3 1206628 Szécsény 0 2 506 667 2 506 667
+5 12 5 1202389 Bercel 0 3 509 333 3 509 333
+6 12 5 1209894 Borsosberény 0 352 000 352 000
+7 12 5 1214234 Buják 0 3 296 000 3 296 000
+8 12 5 1203665 Cered 0 2 442 667 2 442 667
+9 12 5 1230270 Csécse 0 1 312 000 1 312 000
+10 12 5 1222594 Cserhátsurány 0 1 600 000 1 600 000
+11 12 5 1208156 Drégelypalánk 0 2 389 333 2 389 333
+12 12 5 1204251 Ecseg 0 1 834 667 1 834 667
+13 12 5 1205980 Egyházasgerge 0 405 333 405 333
+14 12 5 1225496 Endrefalva 0 3 093 333 3 093 333
+15 12 5 1221582 Érsekvadkert 0 4 629 333 4 629 333
+16 12 5 1215370 Etes 0 2 986 667 2 986 667
+17 12 5 1203993 Héhalom 0 1 461 333 1 461 333
+18 12 5 1208642 Kálló 0 3 061 333 3 061 333
+19 12 5 1218625 Karancsalja 0 1 034 667 1 034 667
+20 12 5 1208855 Karancskeszi 0 1 610 667 1 610 667
+21 12 5 1221041 Karancslapujtő 0 5 578 667 5 578 667
+22 12 5 1226897 Karancsság 0 2 549 333 2 549 333
+23 12 5 1228389 Kazár 0 3 605 333 3 605 333
+24 12 5 1220190 Lucfalva 0 1 770 667 1 770 667
+25 12 5 1226967 Magyargéc 0 2 570 667 2 570 667
+26 12 5 1232407 Magyarnándor 0 1 504 000 1 504 000
+27 12 5 1216391 Nagybárkány 0 1 589 333 1 589 333
+28 12 5 1223986 Nagyoroszi 0 1 696 000 1 696 000
+29 12 5 1209797 Nézsa 0 1 728 000 1 728 000
+30 12 5 1204358 Nógrád 0 522 667 522 667
+31 12 5 1232300 Nógrádkövesd 0 746 667 746 667
+32 12 5 1212131 Nógrádmegyer 0 1 088 000 1 088 000
+33 12 5 1208387 Nógrádsáp 0 981 333 981 333
+34 12 5 1229425 Nőtincs 0 1 440 000 1 440 000
+35 12 5 1203249 Őrhalom 0 1 024 000 1 024 000
+36 12 5 1205883 Palotás 0 2 080 000 2 080 000
+37 12 5 1207199 Patak 0 181 333 181 333
+38 12 5 1212195 Romhány 0 3 072 000 3 072 000
+39 12 5 1212520 Ságújfalu 0 2 240 000 2 240 000
+40 12 5 1214881 Sóshartyán 0 1 194 667 1 194 667
+41 12 5 1210199 Szarvasgede 0 554 667 554 667
+42 12 5 1209043 Szente 0 277 333 277 333
+43 12 5 1218786 Szügy 0 2 229 333 2 229 333
+44 12 5 1224174 Tereske 0 1 568 000 1 568 000
+45 12 5 1206381 Tolmács 0 320 000 320 000
+46 12 5 1230915 Vanyarc 0 1 909 333 1 909 333
+Nógrád megye összesen 0 84 554 666 84 554 666
+1 13 3 1311341 Cegléd 0 704 000 704 000
+2 13 3 1320534 Dunavarsány 0 138 667 138 667
+3 13 3 1317260 Ráckeve 0 426 667 426 667
+4 13 3 1324934 Vác 0 277 333 277 333
+5 13 3 1328413 Visegrád 0 490 667 490 667
+6 13 4 1329647 Dömsöd 0 9 173 333 9 173 333
+7 13 4 1330696 Kartal 0 7 786 667 7 786 667
+8 13 4 1310816 Kiskunlacháza 0 11 317 333 11 317 333
+9 13 4 1308545 Őrbottyán 0 6 293 333 6 293 333
+10 13 5 1318573 Acsa 0 2 282 667 2 282 667
+11 13 5 1325098 Bénye 0 2 026 667 2 026 667
+12 13 5 1327128 Galgamácsa 0 2 677 333 2 677 333
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+13 13 5 1309849 Hernád 0 6 954 667 6 954 667
+14 13 5 1303300 Iklad 0 2 986 667 2 986 667
+15 13 5 1322682 Letkés 0 576 000 576 000
+16 13 5 1303692 Mende 0 7 104 000 7 104 000
+17 13 5 1320066 Nyársapát 0 8 245 333 8 245 333
+18 13 5 1318689 Penc 0 2 304 000 2 304 000
+19 13 5 1306840 Sóskút 0 3 253 333 3 253 333
+20 13 5 1326259 Szigetbecse 0 2 933 333 2 933 333
+21 13 5 1326213 Szigetmonostor 0 2 410 667 2 410 667
+22 13 5 1312690 Sződ 0 2 101 333 2 101 333
+23 13 5 1309405 Tápióság 0 9 621 333 9 621 333
+24 13 5 1317668 Vácrátót 0 2 720 000 2 720 000
+Pest megye összesen 0 94 805 333 94 805 333
+1 14 2 1420473 Kaposvár m.j. 0 3 018 667 3 018 667
+2 14 3 1433853 Balatonboglár 0 661 333 661 333
+3 14 3 1433862 Balatonlelle 0 1 525 333 1 525 333
+4 14 3 1432799 Barcs 0 2 250 667 2 250 667
+5 14 3 1421315 Csurgó 0 2 282 667 2 282 667
+6 14 3 1411192 Igal 0 2 602 667 2 602 667
+7 14 3 1426453 Kadarkút 0 2 229 333 2 229 333
+8 14 3 1418500 Marcali 0 938 667 938 667
+9 14 3 1417941 Nagyatád 0 2 794 667 2 794 667
+10 14 3 1421652 Nagybajom 0 960 000 960 000
+11 14 3 1417631 Siófok 0 5 397 333 5 397 333
+12 14 3 1408590 Tab 0 3 360 000 3 360 000
+13 14 4 1424907 Balatonszárszó 0 3 072 000 3 072 000
+14 14 5 1428714 Andocs 0 2 986 667 2 986 667
+15 14 5 1430474 Babócsa 0 2 901 333 2 901 333
+16 14 5 1407375 Balatonkeresztúr 0 1 024 000 1 024 000
+17 14 5 1414562 Balatonmáriafürdő 0 458 667 458 667
+18 14 5 1416601 Balatonszabadi 0 3 680 000 3 680 000
+19 14 5 1422822 Balatonszemes 0 2 090 667 2 090 667
+20 14 5 1421324 Balatonszentgyörgy 0 2 794 667 2 794 667
+21 14 5 1426532 Böhönye 0 5 184 000 5 184 000
+22 14 5 1424314 Csököly 0 2 400 000 2 400 000
+23 14 5 1406451 Gamás 0 1 557 333 1 557 333
+24 14 5 1430571 Gölle 0 320 000 320 000
+25 14 5 1414599 Görgeteg 0 2 090 667 2 090 667
+26 14 5 1409928 Hetes 0 1 504 000 1 504 000
+27 14 5 1419150 Homokszentgyörgy 0 3 765 333 3 765 333
+28 14 5 1427784 Iharosberény 0 3 093 333 3 093 333
+29 14 5 1405272 Kánya 0 352 000 352 000
+30 14 5 1418227 Kaposmérő 0 8 746 667 8 746 667
+31 14 5 1411174 Kéthely 0 1 653 333 1 653 333
+32 14 5 1424493 Kisbárapáti 0 202 667 202 667
+33 14 5 1428857 Kutas 0 7 754 667 7 754 667
+34 14 5 1414863 Látrány 0 2 304 000 2 304 000
+35 14 5 1416106 Mesztegnyő 0 1 802 667 1 802 667
+36 14 5 1421449 Nagyberki 0 4 032 000 4 032 000
+37 14 5 1411828 Porrog 0 234 667 234 667
+38 14 5 1419026 Pusztakovácsi 0 661 333 661 333
+39 14 5 1414942 Ságvár 0 2 677 333 2 677 333
+40 14 5 1402051 Sávoly 0 1 429 333 1 429 333
+41 14 5 1427368 Segesd 0 4 778 667 4 778 667
+42 14 5 1432780 Simonfa 0 448 000 448 000
+43 14 5 1431219 Somogyaszaló 0 288 000 288 000
+44 14 5 1428963 Somogyjád 0 10 400 000 10 400 000
+45 14 5 1415626 Somogysámson 0 1 728 000 1 728 000
+46 14 5 1428723 Somogysárd 0 853 333 853 333
+47 14 5 1403416 Somogyszil 0 288 000 288 000
+48 14 5 1418546 Somogyszob 0 1 856 000 1 856 000
+49 14 5 1425706 Szentbalázs 0 1 749 333 1 749 333
+50 14 5 1404932 Taszár 0 3 893 333 3 893 333
+51 14 5 1432416 Tengőd 0 245 333 245 333
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+52 14 5 1420093 Törökkoppány 0 1 760 000 1 760 000
+53 14 5 1408183 Vése 0 2 272 000 2 272 000
+54 14 5 1414623 Zákány 0 1 568 000 1 568 000
+Somogy megye összesen 0 130 922 667 130 922 667
+1 15 2 1517206 Nyíregyháza m.j. 0 426 667 426 667
+2 15 3 1502325 Baktalórántháza 0 1 472 000 1 472 000
+3 15 3 1530641 Csenger 0 2 261 333 2 261 333
+4 15 3 1517756 Demecser 0 2 496 000 2 496 000
+5 15 3 1509265 Kisvárda 0 458 667 458 667
+6 15 3 1517826 Mándok 0 1 461 333 1 461 333
+7 15 3 1527155 Nagyhalász 0 1 024 000 1 024 000
+8 15 3 1514845 Nyírbátor 0 810 667 810 667
+9 15 3 1516203 Záhony 0 821 333 821 333
+10 15 4 1508776 Ajak 0 6 144 000 6 144 000
+11 15 4 1505801 Gávavencsellő 0 5 728 000 5 728 000
+12 15 4 1516665 Kölcse 0 3 712 000 3 712 000
+13 15 4 1530979 Levelek 0 6 869 333 6 869 333
+14 15 4 1507463 Mérk 0 3 626 667 3 626 667
+15 15 4 1515802 Nyírbéltek 0 4 661 333 4 661 333
+16 15 4 1531769 Ököritófülpös 0 2 698 667 2 698 667
+17 15 4 1517817 Tiszabecs 0 2 346 667 2 346 667
+18 15 4 1531398 Tyukod 0 1 216 000 1 216 000
+19 15 5 1522239 Botpalád 0 2 485 333 2 485 333
+20 15 5 1509681 Cégénydányád 0 2 133 333 2 133 333
+21 15 5 1512928 Csaholc 0 2 837 333 2 837 333
+22 15 5 1529416 Csaroda 0 2 400 000 2 400 000
+23 15 5 1526107 Csegöld 0 117 333 117 333
+24 15 5 1524095 Csengersima 0 1 728 000 1 728 000
+25 15 5 1532328 Encsencs 0 7 146 667 7 146 667
+26 15 5 1518528 Eperjeske 0 2 581 333 2 581 333
+27 15 5 1522415 Fényeslitke 0 4 458 667 4 458 667
+28 15 5 1513727 Gacsály 0 736 000 736 000
+29 15 5 1503629 Géberjén 0 1 621 333 1 621 333
+30 15 5 1507676 Gyulaháza 0 5 749 333 5 749 333
+31 15 5 1517589 Jármi 0 1 557 333 1 557 333
+32 15 5 1519424 Kisar 0 1 706 667 1 706 667
+33 15 5 1523612 Kömörő 0 373 333 373 333
+34 15 5 1529984 Magosliget 0 608 000 608 000
+35 15 5 1529799 Méhtelek 0 1 930 667 1 930 667
+36 15 5 1531750 Milota 0 960 000 960 000
+37 15 5 1519211 Nábrád 0 2 208 000 2 208 000
+38 15 5 1527988 Nagyszekeres 0 2 517 333 2 517 333
+39 15 5 1533783 Nagyvarsány 0 3 968 000 3 968 000
+40 15 5 1508420 Napkor 0 5 610 667 5 610 667
+41 15 5 1525973 Nyírcsászári 0 2 741 333 2 741 333
+42 15 5 1518290 Nyírkarász 0 4 512 000 4 512 000
+43 15 5 1511095 Nyírlövő 0 394 667 394 667
+44 15 5 1523269 Nyírmeggyes 0 4 234 667 4 234 667
+45 15 5 1527748 Pap 0 2 506 667 2 506 667
+46 15 5 1523685 Pátyod 0 1 344 000 1 344 000
+47 15 5 1531857 Ramocsaháza 0 4 586 667 4 586 667
+48 15 5 1517428 Rozsály 0 2 656 000 2 656 000
+49 15 5 1513046 Szamosszeg 0 3 040 000 3 040 000
+50 15 5 1508554 Tiszakanyár 0 4 096 000 4 096 000
+51 15 5 1504446 Tiszakerecseny 0 2 442 667 2 442 667
+52 15 5 1508794 Tiszakóród 0 2 250 667 2 250 667
+53 15 5 1513541 Tiszaszalka 0 4 736 000 4 736 000
+54 15 5 1516957 Tornyospálca 0 7 701 333 7 701 333
+Szabolcs-Szatmár-Bereg megye összesen 0 150 912 000 150 912 000
+1 16 3 1612441 Abádszalók 0 2 229 333 2 229 333
+2 16 3 1622798 Jászkisér 0 2 314 667 2 314 667
+3 16 3 1622567 Kunhegyes 0 4 437 333 4 437 333
+4 16 3 1602626 Martfű 0 245 333 245 333
+5 16 3 1604260 Mezőtúr 0 85 333 85 333
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+6 16 3 1629726 Tiszafüred 0 7 008 000 7 008 000
+7 16 4 1622938 Cibakháza 0 5 845 333 5 845 333
+8 16 4 1616647 Fegyvernek 0 11 360 000 11 360 000
+9 16 5 1611305 Besenyszög 0 5 749 333 5 749 333
+10 16 5 1605795 Cserkeszőlő 0 5 077 333 5 077 333
+11 16 5 1630711 Jászalsószentgyörgy 0 7 093 333 7 093 333
+12 16 5 1613514 Jászszentandrás 0 2 794 667 2 794 667
+13 16 5 1611235 Kőtelek 0 4 864 000 4 864 000
+14 16 5 1630386 Tiszakürt 0 4 704 000 4 704 000
+15 16 5 1607490 Tószeg 0 4 586 667 4 586 667
+Jász-Nagykun-Szolnok megye összesen 0 68 394 665 68 394 665
+1 17 2 1722761 Szekszárd m.j. 0 4 277 334 4 277 334
+2 17 3 1708864 Bátaszék 0 1 493 333 1 493 333
+3 17 3 1706497 Bonyhád 0 4 661 333 4 661 333
+4 17 3 1707685 Dombóvár 0 7 274 667 7 274 667
+5 17 3 1731501 Dunaföldvár 0 4 874 667 4 874 667
+6 17 3 1730289 Gyönk 0 6 709 333 6 709 333
+7 17 3 1714030 Nagymányok 0 629 333 629 333
+8 17 3 1704862 Paks 0 2 218 667 2 218 667
+9 17 3 1720783 Simontornya 0 6 325 333 6 325 333
+10 17 3 1724563 Tamási 0 5 482 667 5 482 667
+11 17 4 1724989 Decs 0 3 573 333 3 573 333
+12 17 4 1718980 Fadd 0 6 986 667 6 986 667
+13 17 4 1718388 Nagydorog 0 5 162 667 5 162 667
+14 17 5 1726125 Aparhant 0 2 016 000 2 016 000
+15 17 5 1703425 Bogyiszló 0 2 922 667 2 922 667
+16 17 5 1719284 Cikó 0 1 226 667 1 226 667
+17 17 5 1711688 Diósberény 0 650 667 650 667
+18 17 5 1709539 Dunaszentgyörgy 0 2 581 333 2 581 333
+19 17 5 1712326 Györköny 0 1 344 000 1 344 000
+20 17 5 1704701 Iregszemcse 0 6 453 333 6 453 333
+21 17 5 1721184 Koppányszántó 0 618 667 618 667
+22 17 5 1710463 Kölesd 0 1 504 000 1 504 000
+23 17 5 1720507 Kurd 0 1 536 000 1 536 000
+24 17 5 1720701 Mórágy 0 1 525 333 1 525 333
+25 17 5 1705661 Ozora 0 4 682 667 4 682 667
+26 17 5 1708961 Őcsény 0 2 389 333 2 389 333
+27 17 5 1710083 Szakcs 0 3 733 333 3 733 333
+28 17 5 1731459 Tevel 0 2 570 667 2 570 667
+29 17 5 1709414 Várdomb 0 1 536 000 1 536 000
+30 17 5 1721625 Zomba 0 6 677 333 6 677 333
+Tolna megye összesen 0 103 637 334 103 637 334
+1 18 3 1802431 Bük 0 277 333 277 333
+2 18 3 1827094 Celldömölk 0 2 666 667 2 666 667
+3 18 3 1812140 Csepreg 0 682 667 682 667
+4 18 3 1810630 Őriszentpéter 0 1 536 000 1 536 000
+5 18 3 1830881 Répcelak 0 2 208 000 2 208 000
+6 18 3 1804695 Vasvár 0 352 000 352 000
+7 18 3 1826426 Vép 0 597 333 597 333
+8 18 4 1811679 Jánosháza 0 1 856 000 1 856 000
+9 18 5 1807214 Acsád 0 341 333 341 333
+10 18 5 1822549 Alsószölnök 0 234 667 234 667
+11 18 5 1808873 Apátistvánfalva 0 330 667 330 667
+12 18 5 1817020 Bajánsenye 0 309 333 309 333
+13 18 5 1805102 Balogunyom 0 245 333 245 333
+14 18 5 1829203 Boba 0 1 760 000 1 760 000
+15 18 5 1805476 Bő 0 1 770 667 1 770 667
+16 18 5 1803911 Csákánydoroszló 0 3 328 000 3 328 000
+17 18 5 1812724 Csehimindszent 0 1 088 000 1 088 000
+18 18 5 1826064 Csipkerek 0 160 000 160 000
+19 18 5 1825946 Egyházasrádóc 0 1 930 667 1 930 667
+20 18 5 1813587 Felsőcsatár 0 1 152 000 1 152 000
+21 18 5 1823287 Felsőszölnök 0 544 000 544 000
+22 18 5 1826152 Gérce 0 1 376 000 1 376 000
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+23 18 5 1830942 Gersekarát 0 1 280 000 1 280 000
+24 18 5 1811943 Gyöngyösfalu 0 2 272 000 2 272 000
+25 18 5 1809724 Győrvár 0 2 101 333 2 101 333
+26 18 5 1811387 Ikervár 0 4 746 667 4 746 667
+27 18 5 1813958 Ják 0 2 773 333 2 773 333
+28 18 5 1804640 Kám 0 106 667 106 667
+29 18 5 1812247 Kemenesmagasi 0 1 610 667 1 610 667
+30 18 5 1809937 Kenyeri 0 352 000 352 000
+31 18 5 1806716 Nádasd 0 2 517 333 2 517 333
+32 18 5 1824509 Nemesbőd 0 277 333 277 333
+33 18 5 1832629 Ostffyasszonyfa 0 885 333 885 333
+34 18 5 1823108 Pankasz 0 928 000 928 000
+35 18 5 1807278 Püspökmolnári 0 1 621 333 1 621 333
+36 18 5 1826736 Rábagyarmat 0 181 333 181 333
+37 18 5 1826073 Rábapaty 0 2 410 667 2 410 667
+38 18 5 1833172 Szeleste 0 1 685 333 1 685 333
+39 18 5 1832045 Táplánszentkereszt 0 4 480 000 4 480 000
+40 18 5 1829568 Telekes 0 373 333 373 333
+41 18 5 1829878 Torony 0 1 397 333 1 397 333
+42 18 5 1829373 Vasszécseny 0 2 037 333 2 037 333
+Vas megye összesen 0 58 783 998 58 783 998
+1 19 2 1911767 Veszprém m.j. 0 1 205 333 1 205 333
+2 19 3 1922327 Badacsonytomaj 0 373 333 373 333
+3 19 3 1902219 Balatonfűzfő 0 853 333 853 333
+4 19 3 1905148 Balatonkenese 0 1 184 000 1 184 000
+5 19 3 1933127 Berhida 0 512 000 512 000
+6 19 3 1932276 Devecser 0 1 280 000 1 280 000
+7 19 3 1923658 Herend 0 416 000 416 000
+8 19 3 1925593 Sümeg 0 864 000 864 000
+9 19 3 1929434 Tapolca 0 202 667 202 667
+10 19 3 1911439 Várpalota 0 277 333 277 333
+11 19 3 1926499 Zirc 0 2 890 667 2 890 667
+12 19 4 1905625 Révfülöp 0 1 397 333 1 397 333
+13 19 5 1907302 Adásztevel 0 309 333 309 333
+14 19 5 1930526 Alsóörs 0 1 461 333 1 461 333
+15 19 5 1925991 Bakonynána 0 4 405 333 4 405 333
+16 19 5 1922813 Bakonyszentkirály 0 1 909 333 1 909 333
+17 19 5 1903072 Balatoncsicsó 0 1 066 667 1 066 667
+18 19 5 1930252 Borzavár 0 810 667 810 667
+19 19 5 1930924 Csabrendek 0 4 618 667 4 618 667
+20 19 5 1931699 Csetény 0 2 442 667 2 442 667
+21 19 5 1932878 Csót 0 2 688 000 2 688 000
+22 19 5 1932814 Csögle 0 2 026 667 2 026 667
+23 19 5 1920154 Dáka 0 213 333 213 333
+24 19 5 1910445 Egyházaskesző 0 330 667 330 667
+25 19 5 1918193 Gógánfa 0 2 912 000 2 912 000
+26 19 5 1915361 Hajmáskér 0 3 968 000 3 968 000
+27 19 5 1917437 Jásd 0 885 333 885 333
+28 19 5 1914553 Kapolcs 0 160 000 160 000
+29 19 5 1914270 Káptalanfa 0 2 357 333 2 357 333
+30 19 5 1912478 Kemenesszentpéter 0 533 333 533 333
+31 19 5 1925654 Kerta 0 1 461 333 1 461 333
+32 19 5 1923454 Kővágóörs 0 170 667 170 667
+33 19 5 1925858 Köveskál 0 181 333 181 333
+34 19 5 1921962 Lesenceistvánd 0 416 000 416 000
+35 19 5 1917871 Lesencetomaj 0 2 005 333 2 005 333
+36 19 5 1904552 Litér 0 2 496 000 2 496 000
+37 19 5 1905087 Lovászpatona 0 2 154 667 2 154 667
+38 19 5 1923560 Mezőlak 0 2 442 667 2 442 667
+39 19 5 1924040 Monostorapáti 0 2 442 667 2 442 667
+40 19 5 1927979 Nagyalásony 0 2 880 000 2 880 000
+41 19 5 1919196 Nagyvázsony 0 2 581 333 2 581 333
+42 19 5 1902787 Nemesgulács 0 1 162 667 1 162 667
+43 19 5 1902194 Nemesvámos 0 2 272 000 2 272 000
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+44 19 5 1921759 Nemesszalók 0 2 218 667 2 218 667
+45 19 5 1914757 Noszlop 0 3 264 000 3 264 000
+46 19 5 1924004 Nyirád 0 4 448 000 4 448 000
+47 19 5 1911855 Pápakovácsi 0 1 450 667 1 450 667
+48 19 5 1931255 Pápateszér 0 1 952 000 1 952 000
+49 19 5 1926569 Somlóvásárhely 0 2 240 000 2 240 000
+50 19 5 1905388 Sümegprága 0 288 000 288 000
+51 19 5 1903568 Szentantalfa 0 416 000 416 000
+52 19 5 1924891 Szigliget 0 341 333 341 333
+53 19 5 1913125 Takácsi 0 949 333 949 333
+54 19 5 1930465 Tihany 0 1 653 333 1 653 333
+55 19 5 1902714 Tótvázsony 0 1 760 000 1 760 000
+56 19 5 1904631 Tüskevár 0 885 333 885 333
+57 19 5 1924767 Ugod 0 3 072 000 3 072 000
+58 19 5 1907065 Városlőd 0 4 181 333 4 181 333
+59 19 5 1926648 Vaszar 0 1 461 333 1 461 333
+60 19 5 1912654 Zalahaláp 0 1 952 000 1 952 000
+61 19 5 1920826 Zánka 0 1 248 000 1 248 000
+Veszprém megye összesen 0 101 002 664 101 002 664
+1 20 3 2003814 Hévíz 0 832 000 832 000
+2 20 3 2012575 Lenti 0 1 258 667 1 258 667
+3 20 3 2012122 Letenye 0 693 333 693 333
+4 20 3 2030933 Nagykanizsa m.j. 0 1 376 000 1 376 000
+5 20 3 2031741 Pacsa 0 74 667 74 667
+6 20 3 2011785 Zalakaros 0 64 000 64 000
+7 20 3 2030313 Zalalövő 0 704 000 704 000
+8 20 3 2032522 Zalaszentgrót 0 245 333 245 333
+9 20 4 2023302 Gyenesdiás 0 5 205 333 5 205 333
+10 20 4 2012919 Vonyarcvashegy 0 3 637 333 3 637 333
+11 20 5 2019512 Alsónemesapáti 0 1 280 000 1 280 000
+12 20 5 2032081 Alsópáhok 0 1 824 000 1 824 000
+13 20 5 2030368 Bagod 0 1 749 333 1 749 333
+14 20 5 2004738 Bak 0 1 130 667 1 130 667
+15 20 5 2018360 Becsvölgye 0 1 376 000 1 376 000
+16 20 5 2017543 Bocfölde 0 693 333 693 333
+17 20 5 2010056 Borsfa 0 1 066 667 1 066 667
+18 20 5 2020613 Búcsúszentlászló 0 448 000 448 000
+19 20 5 2006132 Csapi 0 32 000 32 000
+20 20 5 2007135 Cserszegtomaj 0 2 997 333 2 997 333
+21 20 5 2002583 Csesztreg 0 1 578 667 1 578 667
+22 20 5 2031149 Csonkahegyhát 0 1 013 333 1 013 333
+23 20 5 2033428 Egervár 0 4 266 667 4 266 667
+24 20 5 2021476 Felsőrajk 0 352 000 352 000
+25 20 5 2012991 Galambok 0 2 037 333 2 037 333
+26 20 5 2008068 Gellénháza 0 2 026 667 2 026 667
+27 20 5 2012089 Gelse 0 2 197 333 2 197 333
+28 20 5 2010269 Hahót 0 352 000 352 000
+29 20 5 2018041 Karmacs 0 224 000 224 000
+30 20 5 2028167 Lovászi 0 1 824 000 1 824 000
+31 20 5 2013064 Magyarszerdahely 0 138 667 138 667
+32 20 5 2025210 Murakeresztúr 0 2 005 333 2 005 333
+33 20 5 2033987 Muraszemenye 0 1 226 667 1 226 667
+34 20 5 2020589 Nagykapornak 0 2 037 333 2 037 333
+35 20 5 2022178 Nagykutas 0 202 667 202 667
+36 20 5 2004455 Nagylengyel 0 170 667 170 667
+37 20 5 2014979 Nagyrécse 0 1 386 667 1 386 667
+38 20 5 2027775 Óhíd 0 341 333 341 333
+39 20 5 2025052 Orosztony 0 298 667 298 667
+40 20 5 2029160 Páka 0 3 232 000 3 232 000
+41 20 5 2021050 Pókaszepetk 0 3 008 000 3 008 000
+42 20 5 2009867 Pölöske 0 544 000 544 000
+43 20 5 2031592 Rédics 0 1 354 667 1 354 667
+44 20 5 2027720 Salomvár 0 437 333 437 333
+45 20 5 2014906 Sármellék 0 2 112 000 2 112 000
+
+A HELYI ÖNKORMÁNYZATOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK (FT)
+Közoktatási
+kiegészítő
+A helyi önkormányzat Üdülőhelyi hozzájárulások
+feladatok Intézményi Összesen
+No. megye BM KSH neve társulás óvodájába,
+kódja általános iskolájába
+járó gyermekek, (1+2)
+tanulók támogatása
+3/8 3/16.g 4 hónap
+1 2 3
+46 20 5 2019080 Söjtör 0 2 026 667 2 026 667
+47 20 5 2002404 Surd 0 309 333 309 333
+48 20 5 2021397 Sümegcsehi 0 1 162 667 1 162 667
+49 20 5 2007700 Szepetnek 0 842 667 842 667
+50 20 5 2008828 Teskánd 0 2 976 000 2 976 000
+51 20 5 2005342 Tófej 0 1 184 000 1 184 000
+52 20 5 2032638 Tornyiszentmiklós 0 160 000 160 000
+53 20 5 2012609 Türje 0 3 072 000 3 072 000
+54 20 5 2017400 Zalaapáti 0 2 410 667 2 410 667
+55 20 5 2007579 Zalabaksa 0 245 333 245 333
+56 20 5 2024280 Zalabér 0 842 667 842 667
+57 20 5 2004002 Zalacsány 0 1 109 333 1 109 333
+58 20 5 2002486 Zalacséb 0 437 333 437 333
+59 20 5 2010348 Zalakomár 0 5 205 333 5 205 333
+60 20 5 2022947 Zalaszabar 0 256 000 256 000
+61 20 5 2033288 Zalaszántó 0 1 632 000 1 632 000
+62 20 5 2018564 Zalaszentbalázs 0 1 802 667 1 802 667
+63 20 5 2033136 Zalaszentgyörgy 0 224 000 224 000
+64 20 5 2029683 Zalatárnok 0 224 000 224 000
+Zala megye összesen 0 87 178 667 87 178 667
+Összesen 375 039 000 1 845 215 985 2 220 254 985 "”
+
+2. melléklet a 20/2011. (V. 10.) NGM rendelethez
+„6. melléklet a 4/2011. (I. 31.) NGM rendelethez
+
+A TÖBBCÉLÚ KISTÉRSÉGI TÁRSULÁSOKAT FINANSZÍROZÁSI KÜLÖNBÖZETKÉNT MEGILLETŐ
+2011. ÉVI NORMATÍV HOZZÁJÁRULÁSOK ÉS NORMATÍV, KÖTÖTT FELHASZNÁLÁSÚ TÁMOGATÁSOK (FT)
+Közoktatási Többcélú kistérségi társulások
+kiegészítő mozgó- A többcélú
+Többcélú kistérségi társulás hozzájárulások általános közoktatási szociális gyermekjóléti könyvtári belső kistérségi
+Intézményi feladatainak feladatainak alap- alapellátási és egyes ellenőrzési társulások Összesen
+No. megye BM technikai neve társulás óvodájába, feladatainak feladatainak közművelődési feladatainak támogatása
+KSH általános iskolájába feladatainak összesen
+járó gyermekek, (2+...+7) (1+8)
+kódja tanulók támogatása támogatása
+3/16.g 4 hónap 8/III/2.1 8/III/2.2 8/III/2.4 8/III/2.6 8/III/2.7 8/III/2.8 8/III
+1 2 3 4 5 6 7 8 9
+1 2 6 0200037 Pécsi Többcélú Kistérségi Társulás 11 605 333 0 0 0 0 0 0 0 11 605 333
+2 2 6 0200064 Sellyei Kistérségi Többcélú Társulás 13 557 333 0 0 0 0 0 0 0 13 557 333
+3 2 6 0200082 Szentlőrinci Kistérség Többcélú Önkormányzati Társulás 8 736 000 0 0 0 0 0 0 0 8 736 000
+4 2 6 0200091 Szigetvár - Dél-Zselic Többcélú Kistérségi Társulás 17 546 667 0 0 0 0 0 0 0 17 546 667
+5 3 6 0300028 Bácsalmás Kistérségi Többcélú Társulás 2 954 667 0 0 0 0 0 0 0 2 954 667
+6 3 6 0300046 Kecskemét és Térsége Többcélú Társulás 3 616 000 0 0 0 0 0 0 0 3 616 000
+7 3 6 0300055 Kiskőrösi Többcélú Kistérségi Társulás 16 224 000 0 0 0 0 0 0 0 16 224 000
+8 5 6 0500082 Sátoraljaújhely Kistérségi Többcélú Társulás 5 205 333 0 0 0 0 0 0 0 5 205 333
+9 7 6 0700028 Vértes Többcélú Kistérségi Önkormányzati Társulás 1 994 667 0 0 0 0 0 0 0 1 994 667
+10 7 6 0700046 "Móri" Többcélú Kistérségi Társulás 14 208 000 0 0 0 0 0 0 0 14 208 000
+11 7 6 0700082 Velencei-tó Környéki Többcélú Kistérségi Társulás 9 013 333 0 0 0 0 0 0 0 9 013 333
+12 7 6 0700107 Szent László Völgye Többcélú Kistérségi Társulás 5 856 000 0 0 0 0 0 0 0 5 856 000
+13 8 6 0800064 Pannonhalma Többcélú Kistérségi Társulás 2 378 667 0 0 0 0 0 0 0 2 378 667
+14 9 6 0900019 Balmazújvárosi Kistérség Többcélú Társulása 1 984 000 0 0 0 0 0 0 0 1 984 000
+15 9 6 0900091 Debreceni Többcélú Kistérségi Társulás 4 074 667 0 0 0 0 0 0 0 4 074 667
+16 11 6 1100064 Kisbéri Többcélú Kistérségi Társulás 14 826 667 0 0 0 0 0 0 0 14 826 667
+17 12 6 1200046 Bátonyterenye Kistérség Önkormányzatainak Többcélú Társulása 7 733 333 0 0 0 0 0 0 0 7 733 333
+18 13 6 1300055 Szobi Kistérség Önkormányzatainak Többcélú Társulása 8 352 000 0 0 0 0 0 0 0 8 352 000
+19 14 6 1400055 Pogányvölgyi Többcélú Kistérségi Társulás 9 866 667 0 0 0 0 0 0 0 9 866 667
+20 14 6 1400064 Barcsi Többcélú Kistérségi Társulás 7 200 000 0 0 0 0 0 0 0 7 200 000
+21 14 6 1400107 Balatonföldvári Többcélú Kistérségi Társulás 2 613 333 0 0 0 0 0 0 0 2 613 333
+22 15 6 1500073 Közép-Szabolcsi Többcélú Kistérségi Társulás 7 232 000 0 0 0 0 0 0 0 7 232 000
+23 16 6 1600046 Jászsági Többcélú Társulás 16 864 000 0 0 0 0 0 0 0 16 864 000
+24 18 6 1800019 Kőszeg Város és Vonzáskörzete Többcélú Kistérségi Társulása 2 762 667 0 0 0 0 0 0 0 2 762 667
+25 18 6 1800046 Szentgotthárd Város és Térsége Többcélú Kistérségi Társulás 3 498 667 0 0 0 0 0 0 0 3 498 667
+26 18 6 1800082 Szombathelyi Kistérség Többcélú Társulása 6 485 333 0 0 0 0 0 0 0 6 485 333
+27 19 6 1900055 Új Atlantisz Többcélú Kistérségi Társulás 0 -14 000 000 -125 153 050 -18 148 224 -4 829 400 -20 000 000 -5 135 000 -187 265 674 -187 265 674
+28 19 6 1900107 Somló-környéki Többcélú Kistérségi Társulás 0 23 077 040 123 371 050 8 027 904 1 578 600 24 000 000 4 977 000 185 031 594 185 031 594
+29 20 6 2000055 Dél-Zala Murahíd Letenye Többcélú Társulás 7 605 333 0 0 0 0 0 0 0 7 605 333
+Összesen 213 994 667 9 077 040 -1 782 000 -10 120 320 -3 250 800 4 000 000 -158 000 -2 234 080 211 760 587 ”
