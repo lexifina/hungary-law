@@ -174,6 +174,6 @@
 
 ## 31. Urológia
 
-4. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^21]
+4. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^24]
 
-[^21]: A 4. számú melléklet a Magyar Közlöny 2000. évi 8. számában megjelent helyesbítésnek megfelelő és az 1/2001. (II. 14.) EüM rendelet 2. § (2) bekezdése, a 30/2002. (V. 24.) EüM rendelet 1. § (4) bekezdése, a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (4) bekezdése, a 42/2007. (IX. 19.) EüM rendelet 5. § (5) bekezdésének b) pontja és (6) bekezdése szerint módosított szöveg.
+[^24]: A 4. számú melléklet a Magyar Közlöny 2000. évi 8. számában megjelent helyesbítésnek megfelelő és az 1/2001. (II. 14.) EüM rendelet 2. § (2) bekezdése, a 30/2002. (V. 24.) EüM rendelet 1. § (4) bekezdése, a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (4) bekezdése, a 42/2007. (IX. 19.) EüM rendelet 5. § (5) bekezdésének b) pontja és (6) bekezdése szerint módosított szöveg.

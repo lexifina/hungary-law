@@ -80,6 +80,6 @@
 
 | 40. | Urológia | 60 hónap | 1. 26 hó törzsképzési program, benne: 1.1. 6 hó sürgősségi betegellátás, benne: 1.1.1. 2 hó intenzív osztályos munka 1.1.2. 2 hó traumatológia 1.1.3. 2 hó mentőgyakorlat 1.2. 8 hó általános sebészet gyakorlat 1.3. 1 hó érsebészeti gyakorlat 1.4. 1 hó nőgyógyászat 1.5. 3 hó urológiai ambulancián 1.6. 3 hó gyermekurológia 1.7. 2 hó andrológia 1.8. törzsképzési tanfolyam (tanfolyamok) 2. 34 hó urológiai osztályos gyakorlat, benne: 2.1. ultrahang alapismeretek tanfolyam 2.2. 1 hó urológiai ultrahang gyakorlat 2.3. a szakképzést irányító felsőoktatási intézmény által a szakképzés megkezdésekor megadott számú és típusú műtét 2.4. szakvizsgafelkészítő program sikeres teljesítése |
 
-3. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^20]
+3. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^23]
 
-[^20]: A 3. számú melléklet a 10/2010. (IX. 23.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. számú melléklet a 10/2010. (IX. 23.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.

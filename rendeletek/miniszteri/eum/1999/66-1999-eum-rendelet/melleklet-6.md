@@ -10,6 +10,6 @@
 
 | 3. Sugáregészségtan | 24 | 12 hó sugáregészségtani törzsképzés 12 hó sugáregészségtani gyakorlat | ráépített szakképesítés megelőző orvostan és népegészségtanra |
 
-6. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^22]
+6. számú melléklet a 66/1999. (XII. 25.) EüM rendelethez[^25]
 
-[^22]: A 6. számú melléklet a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (5) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján első alkalommal a szakképesítésük megszerzését 2004. január 1-je után megkezdők esetében kell alkalmazni; (4) bekezdése alapján a fog- és szájbetegségek szakképesítés megszerzésére a fogorvosi oklevelet legkésőbb 2003-ban megszerzők jelentkezhetnek be. Aki a fog- és szájbetegségek szakképzést 2003. december 31-ig megkezdte, az a képzést végző felsőoktatási intézménytől 2003. augusztus 21-től számított hat hónapon belül kérheti a konzerváló fogászat és fogpótlástan szakképzésre való áttérést.
+[^25]: A 6. számú melléklet a 45/2003. (VIII. 6.) ESZCSM rendelet 3. § (5) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján első alkalommal a szakképesítésük megszerzését 2004. január 1-je után megkezdők esetében kell alkalmazni; (4) bekezdése alapján a fog- és szájbetegségek szakképesítés megszerzésére a fogorvosi oklevelet legkésőbb 2003-ban megszerzők jelentkezhetnek be. Aki a fog- és szájbetegségek szakképzést 2003. december 31-ig megkezdte, az a képzést végző felsőoktatási intézménytől 2003. augusztus 21-től számított hat hónapon belül kérheti a konzerváló fogászat és fogpótlástan szakképzésre való áttérést.
