@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-5-20-0B
 | 2010-04-01 | 2010-5-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-04-02 | 2010-5-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-12-25 | 2010-5-20-0B.4 | 17/2010. (XII. 20.) NEFMI rendelet |
+| 2011-05-11 | 2010-5-20-0B.5 | 20/2011. (V. 10.) NEFMI rendelet |

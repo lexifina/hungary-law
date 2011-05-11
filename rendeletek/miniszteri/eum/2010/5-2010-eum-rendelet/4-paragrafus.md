@@ -24,10 +24,13 @@ eb) azokra a szakterületekre, amelyeken egészségügyi ágazati képzés szerv
 
 ec) az egészségügyi intézmények szak- és továbbképző helyként történő elismerésének, valamint a továbbképzési programok elfogadásának szakmai szempontjaira,
 
-ed) a szakmai kollégium állásfoglalásának figyelembevételével az adott szakmában a szakképzést végző és szakképzést vezető oktatóhoz rendelhető szakorvos- és szakgyógyszerész jelöltek maximális, továbbá a szakorvos jelölt által ellátandó betegek, beavatkozások és tevékenységek minimális számára,
+ed)[^2] a szakorvos jelölt által ellátandó betegek, beavatkozások és tevékenységek minimális számára,
 
 ee) az egészségügyi ágazati képzést érintő jogszabály (jogszabályok) megalkotására, módosítására,
 
 f) elemzi és értékeli az egészségügyi képzés, szakképzés, a felsőfokú szakirányú szakképzés és a továbbképzés helyzetét.
 
-(3) A Tanács az Eütv. 116/C. § (7) bekezdése szerinti ellenőrzés során egészségügyi szakmai szakkérdésben szakértőként a szakmai kollégiumokat veheti igénybe.
+(3)[^3]
+
+[^2]: A 4. § (2) bekezdés e) pont ed) alpontja a 20/2011. (V. 10.) NEFMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (3) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 6. § b) pontja hatályon kívül helyezte.
