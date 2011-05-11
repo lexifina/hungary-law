@@ -6,10 +6,12 @@
 
 ## 1. § E rendelet hatálya
 
-a) az egészségügyi felsőfokú szakirányú szakmai képzés (a továbbiakban: szakképzés) támogatott formáira történő felvétel szabályaira (a továbbiakban: rendszerbevételi eljárás),
+a)[^1] az egészségügyi felsőfokú szakirányú szakmai képzésben (a továbbiakban: szakképzés) a központi gyakornoki rendszerbe történő felvétel szabályaira (a továbbiakban: rendszerbevételi eljárás)
 
 b) a szakképzést végző intézmények kiválasztásának szabályaira (a továbbiakban: minősítési eljárás) és
 
 c) a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
 
 terjed ki.
+
+[^1]: Az 1. § a) pontja a 20/2011. (V. 10.) NEFMI rendelet 7. §-ával megállapított szöveg.
