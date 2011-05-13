@@ -56,7 +56,10 @@
 
 26. túllegeltetés: a gyep olyan legeltetési módból eredő károsodása, melynek során a gyepben állományalkotó fűfélék rövidre rágása és taposása következtében a gyep foltokban megritkul, a talajfelszín fedetlenné válik;
 
-27. védett őshonos mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. számú mellékletében felsorolt védett, őshonos állatfajták.
+27. védett őshonos mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. számú mellékletében felsorolt védett, őshonos állatfajták;
+
+28.[^3] mezőgazdasági parcellák azonosításának biztosítása: olyan tevékenység, amely során a mezőgazdasági parcella esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon fehér színű festéssel jelölik meg azzal a megkötéssel, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület töréspontjain határjeleket, különösen határkarókat kell elhelyezni.
 
 [^1]: A 2. § 5. pontja a 21/2010. (III. 16.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 25. pontja a 21/2010. (III. 16.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 28. pontját a 36/2011. (V. 12.) VM rendelet 1. §-a iktatta be.
