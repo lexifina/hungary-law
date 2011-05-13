@@ -1,5 +1,13 @@
-2. § (1)[^1] Az 1. számú mellékletben megjelölt intézményeken kívül a Nemzeti Család- és Szociálpolitikai Intézet valamennyi, a szociális és munkaügyi miniszter hatáskörébe tartozó szakképesítés tekintetében jogosult szakmai vizsga megszervezésére.
+2. §[^1] (1) Az 1. számú mellékletben megjelölt intézményeken kívül
 
-(2) Az (1) bekezdésben foglalt jogosultság kiterjed az R. 2006. március 31-én hatályos azon szakképesítéseinek – korábbi szabályok szerint megkezdett képzéseket követő – szakmai vizsgáira is, amelyek az e rendelet 4. számú mellékletében szerepelnek.
+a) a Nemzeti Szakképzési és Felnőttképzési Intézet a szakképzésért és felnőttképzésért, valamint a foglalkoztatás-politikáért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés,
 
-[^1]: A 2. § (1) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+b) a Nemzeti Család- és Szociálpolitikai Intézet a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi esélyegyenlőség előmozdításáért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés
+
+tekintetében jogosult szakmai vizsga megszervezésére.
+
+(2) A Nemzeti Szakképzési és Felnőttképzési Intézet vizsgaszervezési jogosultsága kiterjed az R. 2006. március 31-én hatályos azon szakképesítéseinek – korábbi szabályok szerint megkezdett képzéseket követő – szakmai vizsgáira is, amelyek az e rendelet 4. számú mellékletében szerepelnek.
+
+(3) A Nemzeti Szakképzési és Felnőttképzési Intézet az (1) bekezdés b) pontja szerinti szakképesítések tekintetében 2011. július 31-éig jogosult szakmai vizsga megszervezésére.
+
+[^1]: A 2. § a 22/2011. (V. 12.) NEFMI rendelet 4. §-ával megállapított szöveg.
