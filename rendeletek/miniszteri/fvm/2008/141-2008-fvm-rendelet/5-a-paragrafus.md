@@ -1,6 +1,6 @@
-5/A. §[^32] (1) A LEADER HACS vezető tisztségviselői részére tiszteletdíj állapítható meg. A tiszteletdíj bruttó összegéből elszámolható kiadás legfeljebb havonta bruttó 120 000 Ft, kivételt képez ez alól az egyesület elnöke, a nonprofit gazdasági társaság cégvezetője és ügyvezetője. Az elnök, a cégvezető és az ügyvezető tiszteletdíjának összegéből elszámolható kiadás legfeljebb havonta bruttó 180 000 Ft, ha nem lát el munkaszervezet-vezetői feladatokat, vagy ha nem főállásban látja el feladatait. Ha munkaszervezet-vezetői feladatokat is ellát vagy főállásban történik a feladatellátás, akkor a munkabére összegéből elszámolható kiadás legfeljebb havonta a munkaszervezet-vezetőre vonatkozó IH közleményben meghatározott összeg lehet.
+5/A. §[^36] (1) A LEADER HACS vezető tisztségviselői részére tiszteletdíj állapítható meg. A tiszteletdíj bruttó összegéből elszámolható kiadás legfeljebb havonta bruttó 120 000 Ft, kivételt képez ez alól az egyesület elnöke, a nonprofit gazdasági társaság cégvezetője és ügyvezetője. Az elnök, a cégvezető és az ügyvezető tiszteletdíjának összegéből elszámolható kiadás legfeljebb havonta bruttó 180 000 Ft, ha nem lát el munkaszervezet-vezetői feladatokat, vagy ha nem főállásban látja el feladatait. Ha munkaszervezet-vezetői feladatokat is ellát vagy főállásban történik a feladatellátás, akkor a munkabére összegéből elszámolható kiadás legfeljebb havonta a munkaszervezet-vezetőre vonatkozó IH közleményben meghatározott összeg lehet.
 
-(2)[^33] A LEADER HACS munkaszervezet dolgozója és vezető tisztségviselője részére a 4. számú melléklet c) pontja szerinti költségtérítés állapítható meg. Az így megállapított költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a munkavállaló, vezető tisztségviselő részére megállapított havi bruttó munkabér vagy tiszteletdíj összegének 1/3 részét, legfeljebb bruttó 120 000 Ft-ot. Ha a LEADER HACS vezető tisztségviselője részére tiszteletdíj nem kerül megállapításra, akkor az előzőek szerinti költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a bruttó 120 000 Ft-ot.
+(2)[^37] A LEADER HACS munkaszervezet dolgozója és vezető tisztségviselője részére a 4. számú melléklet c) pontja szerinti költségtérítés állapítható meg. Az így megállapított költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a munkavállaló, vezető tisztségviselő részére megállapított havi bruttó munkabér vagy tiszteletdíj összegének 1/3 részét, legfeljebb bruttó 120 000 Ft-ot. Ha a LEADER HACS vezető tisztségviselője részére tiszteletdíj nem kerül megállapításra, akkor az előzőek szerinti költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a bruttó 120 000 Ft-ot.
 
 (3) A folyamatos munkavégzéshez szükséges informatikai és kommunikációs eszközöket – számítógép, laptop, mobiltelefon – a LEADER HACS-csal munkaszerződésben álló főállású munkavállalók, illetve a LEADER HACS vezető tisztségviselői kaphatnak használatra.
 
@@ -12,11 +12,11 @@
 
 (7) A HVI címbirtokos szervezet vezetője, vezető helyettese, irodavezetője és munkavállalója tiszteletdíj, munkabér fizetése mellett nem lehet a LEADER HACS munkaszervezet-vezetője, alkalmazottja vagy vezető tisztségviselője.
 
-(8)[^34] A LEADER HACS munkaszervezet-vezetője, munkavállalója tulajdonában és ezek közeli hozzátartozói tulajdonában álló szervezet nem vehet részt a LEADER HACS feladatainak ellátásában, szolgáltatást nem nyújthat.
+(8)[^38] A LEADER HACS munkaszervezet-vezetője, munkavállalója tulajdonában és ezek közeli hozzátartozói tulajdonában álló szervezet nem vehet részt a LEADER HACS feladatainak ellátásában, szolgáltatást nem nyújthat.
 
-(9)[^35] A LEADER HACS munkaszervezet-vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló ingatlan, valamint a LEADER HACS munkaszervezet-vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló szervezet tulajdonában álló ingatlan vonatkozásában bérleti díj nem számolható el.
+(9)[^39] A LEADER HACS munkaszervezet-vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló ingatlan, valamint a LEADER HACS munkaszervezet-vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló szervezet tulajdonában álló ingatlan vonatkozásában bérleti díj nem számolható el.
 
-[^32]: Az 5/A. §-t a 123/2009. (IX. 17.) FVM rendelet 5. §-a iktatta be.
-[^33]: Az 5/A. § (2) bekezdése a 21/2010. (III. 16.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^34]: Az 5/A. § (8) bekezdése a 21/2010. (III. 16.) FVM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^35]: Az 5/A. § (9) bekezdését a 21/2010. (III. 16.) FVM rendelet 18. § (3) bekezdése iktatta be.
+[^36]: Az 5/A. §-t a 123/2009. (IX. 17.) FVM rendelet 5. §-a iktatta be.
+[^37]: Az 5/A. § (2) bekezdése a 21/2010. (III. 16.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 5/A. § (8) bekezdése a 21/2010. (III. 16.) FVM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^39]: Az 5/A. § (9) bekezdését a 21/2010. (III. 16.) FVM rendelet 18. § (3) bekezdése iktatta be.

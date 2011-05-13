@@ -4,7 +4,7 @@
 
 (2) Ha a LEADER HACS, illetve a HVK egymást követő három kifizetési időszakban – a teljesítési igazolás szerint – a beszámolóban szereplő feladatok legalább 50%-át nem teljesíti, az IH visszavonja a LEADER HACS, illetve a HVK címet.
 
-(3)[^53] Az (1) bekezdés szerinti visszavonásról az IH a visszavonástól számított nyolc napon belül értesíti az MVH-t, valamint a LEADER HACS-ot és a HVK-t.
+(3)[^59] Az (1) bekezdés szerinti visszavonásról az IH a visszavonástól számított nyolc napon belül értesíti az MVH-t, valamint a LEADER HACS-ot és a HVK-t.
 
 (4) Ha a LEADER HACS vagy a HVK a projektgazda által benyújtott kérelemhez – az IH és a LEADER HACS, illetve az IH és a HVK közötti, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005. EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet szerinti együttműködési megállapodásban rögzítettek alapján – a támogatás részletes feltételeit megállapító jogszabályban meghatározott támogatási időszak utolsó napját követő 20 napon belül pontozási jegyzőkönyvet, illetve előzetes pontozási jegyzőkönyvet indokolatlanul nem állítja ki, akkor az a teljesítési arány jegyzőkönyvenkénti 5%-os csökkentését vonja maga után. A LEADER HACS, illetve a HVK csak abban az esetben tagadhatja meg a pontozási jegyzőkönyv, illetve az előzetes pontozási jegyzőkönyv kiállítását, ha a projektgazda nem bocsátja rendelkezésére az MVH-nak benyújtandó támogatási kérelmét.
 
@@ -12,4 +12,4 @@
 
 (6) Ha a LEADER HACS vagy a HVK vállalkozási tevékenységéről valótlan adatokat szolgáltat, akkor az IH visszavonja a LEADER HACS vagy a HVK címet.
 
-[^53]: A 8. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (28) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^59]: A 8. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (28) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
