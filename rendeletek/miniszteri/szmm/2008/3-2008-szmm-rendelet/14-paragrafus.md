@@ -1,4 +1,4 @@
-14. §[^6]
+14. §[^9]
 
 Melléklet a 3/2008. (IV. 15.) SZMM rendelethez
 
@@ -58,4 +58,4 @@ b) Somogy megye,
 
 c) Tolna megye.
 
-[^6]: A 14. § e rendelet 13. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. § e rendelet 13. § (2) bekezdése alapján hatályát vesztette.

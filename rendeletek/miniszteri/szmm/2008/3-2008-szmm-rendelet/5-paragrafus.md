@@ -1,14 +1,14 @@
 5. § (1) A pályázatokat, illetve a kijelölési kérelmeket – a pályázati határidő lejártát, illetve a kijelölési kérelem benyújtását követő tizenöt napon belül – döntés-előkészítő bizottság (a továbbiakban: bizottság) véleményezi, és javaslatot tesz a miniszternek a módszertani intézmények kijelölésére.
 
-(2) A bizottság öt tagból áll,
+(2)[^5] A bizottság öt tagból áll,
 
-a) elnökét és egy tagját a miniszter jelöli ki,
+a) elnökét és két tagját a miniszter,
 
-b)[^2] egy tagját regionális módszertani intézmény esetén az illetékes szociális és gyámhivatal, egyházi módszertani intézmény esetén a Nemzeti Rehabilitációs és Szociális Hivatal jelöli ki,
+b) egy tagját a Nemzeti Rehabilitációs és Szociális Hivatal,
 
-c) egy tagját az Intézet jelöli ki,
+c) egy tagját az Intézet
 
-d) egy tagját regionális módszertani intézmény esetén az illetékes regionális szociálpolitikai tanács, egyházi módszertani intézmény esetén az Országos Szociálpolitikai Tanács kéri fel.
+## jelöli ki.
 
 (3) Nem lehet tagja a bizottságnak az a személy, aki
 
@@ -28,4 +28,4 @@ d) az a)–c) pont szerinti személy hozzátartozója.
 
 (7) A bizottság a működési rendjét – az e rendeletben meghatározott keretek között – maga alakítja ki.
 
-[^2]: Az 5. § (2) bekezdés b) pontja a 25/2010. (XII. 30.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdése a 22/2011. (V. 12.) NEFMI rendelet 1. §-ával megállapított szöveg.

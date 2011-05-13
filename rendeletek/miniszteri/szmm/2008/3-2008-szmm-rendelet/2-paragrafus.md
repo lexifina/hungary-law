@@ -1,4 +1,4 @@
-2. § (1) A szociális és munkaügyi miniszter (a továbbiakban: miniszter)
+2. § (1)[^2] A miniszter
 
 a) hét regionális módszertani intézményt,
 
@@ -13,3 +13,5 @@ b) egyházi módszertani intézményeket [az a)–b) pontban foglalt intézmény
 (4) Ha a konzorcium valamennyi, jogi személyiséggel nem rendelkező tagjának ugyanaz a fenntartója, konzorcium úgy jön létre, hogy a fenntartó a (3) bekezdés szerinti feltételeket konzorciumi működési szabályzatban meghatározza. A konzorciumi működési szabályzatra egyebekben a konzorciumi szerződésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (5) A módszertani intézménynek kijelölt konzorcium gesztor szervezete a kijelölés időtartama alatt nem változhat meg. A gesztor szervezet szervezi és irányítja a tagok módszertani feladatainak ellátását. A módszertani feladatok ellátásáért a gesztor szervezet felelős.
+
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 22/2011. (V. 12.) NEFMI rendelet 2. § b) pontja szerint módosított szöveg.

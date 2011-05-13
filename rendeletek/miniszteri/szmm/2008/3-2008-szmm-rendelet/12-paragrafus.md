@@ -1,4 +1,4 @@
-## A Nemzeti Család- és Szociálpolitikai Intézet szociális módszertani feladatai[^4]
+## A Nemzeti Család- és Szociálpolitikai Intézet szociális módszertani feladatai[^7]
 
 12. § (1) Az Intézet országos szociális módszertani intézmény, amely
 
@@ -22,4 +22,4 @@ i) ellátja az alapító okiratában meghatározott egyéb feladatokat.
 
 (2) Az Intézet az (1) bekezdés szerinti – különösen a fogyatékos személyekkel, a hajléktalan személyekkel és a pszichiátriai, illetve szenvedélybetegekkel kapcsolatos – módszertani feladatainak ellátásába szociális szolgáltatókat, intézményeket, illetve szakmai szervezeteket is bevonhat.
 
-[^4]: A 12. §-t megelőző alcím a 25/2010. (XII. 30.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 12. §-t megelőző alcím a 25/2010. (XII. 30.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.

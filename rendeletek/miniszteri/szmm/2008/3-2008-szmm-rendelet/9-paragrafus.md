@@ -16,6 +16,6 @@ g) ellátja a jogszabályokban meghatározott egyéb feladatokat.
 
 (2) A regionális módszertani intézmény a feladatait – a melléklet szerinti – működési területén található helyi önkormányzatok, társulások, többcélú kistérségi társulások, illetve az ott székhellyel rendelkező működést engedélyező szervek által engedélyezett szociális szolgáltatók, intézmények, telephelyek tekintetében, valamennyi szociális szolgáltatással kapcsolatban ellátja, kivéve, ha a szociális szolgáltatóval, intézménnyel kapcsolatos módszertani feladatokat egyházi módszertani intézmény látja el.
 
-(3)[^3] Amennyiben az egyházi módszertani intézmény, illetve az illetékes regionális módszertani intézmény hatósági eljárásban szakértőként nem járhat el, a működést engedélyező szerv – jogszabály eltérő rendelkezése hiányában – másik egyházi módszertani intézményt, illetve másik regionális módszertani intézményt rendel ki.
+(3)[^6] Amennyiben az egyházi módszertani intézmény, illetve az illetékes regionális módszertani intézmény hatósági eljárásban szakértőként nem járhat el, a működést engedélyező szerv – jogszabály eltérő rendelkezése hiányában – másik egyházi módszertani intézményt, illetve másik regionális módszertani intézményt rendel ki.
 
-[^3]: A 9. § (3) bekezdése a 22/2010. (XII. 30.) NEFMI rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdése a 22/2010. (XII. 30.) NEFMI rendelet 1. §-a szerint módosított szöveg.

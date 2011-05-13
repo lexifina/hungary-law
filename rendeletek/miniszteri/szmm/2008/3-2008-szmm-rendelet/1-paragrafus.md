@@ -6,7 +6,7 @@ a) konzorcium: a gesztor szociális szolgáltató, intézmény vagy a gesztor sz
 
 b) szakmai szervezet: szociális szolgáltatással összefüggő kutató, fejlesztő vagy képző tevékenységét legalább öt éve végző jogi személy;
 
-c) támogatási szerződés: a módszertani intézménnyel, konzorcium esetén a gesztor szervezettel a módszertani feladatok ellátásáért nyújtott állami támogatásról – a szociális és munkaügyi miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltak szerint – megkötött szerződés;
+c)[^1] támogatási szerződés: a módszertani intézménnyel, konzorcium esetén a gesztor szervezettel a módszertani feladatok ellátásáért nyújtott állami támogatásról – a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltak szerint – megkötött szerződés;
 
 d) hozzátartozó: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. §-ának g) pontja szerinti személy;
 
@@ -41,3 +41,5 @@ f) a fenntartó fogadhatja el a kijelölést [8. § (11) bekezdése] és a kijel
 g) a fenntartó mondhat le a kijelölésről [7. § (2) bekezdésének d) pontja, 7. § (4) bekezdése],
 
 h) a fenntartó köteles az adatváltozást bejelenteni [6. § (2) bekezdése].
+
+[^1]: Az 1. § (1) bekezdés c) pontja a 22/2011. (V. 12.) NEFMI rendelet 2. § a) pontja szerint módosított szöveg.
