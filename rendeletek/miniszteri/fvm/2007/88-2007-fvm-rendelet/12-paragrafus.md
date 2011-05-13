@@ -16,7 +16,10 @@ a) az erdőrészletek határvonalainak vázrajzát, külső töréspontjainak az
 
 b) a koordináták pontosságát alátámasztó mérési jegyzőkönyvnek a készítő és a kérelmező által aláírt másolati példányát, amely tartalmazza a mért pontok által meghatározott sokszög területét, a körüljárási irányt és a kivett területeket külön koordinátalistával.
 
+(7)[^37] A 2011. évben kifizetési kérelem benyújtására – a jogerős elutasító határozattal vagy jogerős, eljárást megszüntető végzéssel rendelkező ügyfél kivételével – az az ügyfél jogosult, aki a 10. § alapján támogatási kérelmet nyújtott be.
+
 [^33]: A 12. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának f) pontja hatályon kívül helyezte.
 [^34]: A 12. § (2) bekezdése a 46/2010. (XII. 31.) VM rendelet 5. §-ával megállapított szöveg.
 [^35]: A 12. § (3) bekezdése a 11/2010. (VIII. 30.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^36]: A 12. § (6) bekezdése a 11/2010. (VIII. 30.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^37]: A 12. § (7) bekezdését a 36/2011. (V. 12.) VM rendelet 9. §-a iktatta be.
