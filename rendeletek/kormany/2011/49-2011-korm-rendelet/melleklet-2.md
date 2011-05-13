@@ -2,6 +2,8 @@
 
 | Támogatandó szervezet | Támogatott feladat | Támogatás összege (Ft) | Forrás pontos megnevezése |
 
+| „Önkéntes Központ” Alapítvány | TeSzedd! – Önkéntesen a tiszta Magyarországért és az Önkéntes Roadshow rendezvények támogatása | 40 000 000 | X. fejezet 15.2.32. Az önkéntesség európai évéhez és a civil szervezetekhez kapcsolódó programok támogatása |
+
 | A HON Kulturális és Művészeti Alapítvány | 2011. évi programok és a szervezet működésének támogatása | 500 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
 | Bolyai Műhely Alapítvány | 2011. évi tevékenységek támogatása (tehetséggondozás, tudományos és kulturális tevékenység) | 5 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
@@ -24,7 +26,7 @@
 
 | Isten Szolgálatában Református Missziói Alapítvány | 2011. évi programok és a szervezet működésének támogatása | 1 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
-| Keresztény Értelmiségiek Szövetsége | 2011. évi programok támogatása (Magyar–Lengyel barátság expressz) | 5 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
+| Keresztény Értelmiségiek Szövetsége | 2011. évi programok támogatása (Magyar-Lengyel barátság expressz) | 5 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
 | Kópházi Horvát Egyesület | 2011. évi programok és a szervezet működésének támogatása | 500 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
@@ -32,11 +34,11 @@
 
 | Kőszegi Ostromnapok Egyesület | 2011. évi programok és a szervezet működésének támogatása | 500 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
-| Kráter Műhely Egyesület | 2011. évi programok, működés támogatása. X. Kárpát-medencei Keresztkötődések Konferencia megszervezése (2011.05. 28–29.) | 1 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
+| Kráter Műhely Egyesület | 2011. évi programok, működés támogatása. X. Kárpát-medencei Keresztkötődések Konferencia megszervezése (2011.05.28–29.) | 1 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
 | Lovassy és Volt Piarista Gimnázium Öregdiákjainak Baráti Köre | Kiadvány megjelentetésének támogatása | 1 000 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
-| Magyar–Horvát Kulturális Egyesület | Könyv elkészítése és kiadása, kapcsolódó költségek finanszírozása | 1 750 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
+| Magyar-Horvát Kulturális Egyesület | Könyv elkészítése és kiadása, kapcsolódó költségek finanszírozása | 1 750 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
 | Magyar Piarista Közhasznú Alapítvány | 2011. évi tevékenység támogatása, informatikai fejlesztés | 1 500 000 | X. fejezet 15.3.10 Civil és nonprofit szervezetek támogatása |
 
@@ -76,19 +78,67 @@
 
 | Európai Szegénység ellenes Hálózat (European Anti-Poverty Network) | Szegénységben érintettek 10. Európai Találkozójának megszervezése (Brüsszel, 2011. május 13–14.) | 105 000 000 Ft (375 000 euró) | X. fejezet 15.2.38 2011-es soros elnökséggel kapcsolatos kiadások finanszírozása |
 
+| Bolyai tehetséggondozó Gimnázium és Kollégium | Bolyai Iskolák X. találkozója | 1 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Genius Jótékonysági Alapítvány | részben működésre, részben programokra | 3 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Kárpátaljai Magyar Pedagógus Szövetség | működési költség, programok, lapkiadás | 3 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Kárpátaljai Református Egyház Jótékonysági Alapítvány | Líceumok működési költsége | 25 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Miasszonyunkról Nevezett Szegény Iskolanővérek rendje | munkabérek és fenntartási költségek | 4 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Munkácsi Szent István Líceum | működési költség, bérek | 1 500 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| II. Rákóczi Ferenc Főiskola | havi fenntartási költség | 18 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Selye János Egyetem | működési költségek, programok | 30 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Szekeres László Alapítvány | felsőoktatási ösztöndíjprogram | 25 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Szent József Római Katolikus Plébániahivatal, Tóthfalu | a diákotthon működési költségeihez (közüzemi díjak és munkabérek) való hozzájárulás | 4 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Szórvány Közalapítvány | Emmausz Kollégium működési költség, építési költségekhez való hozzájárulás | 4 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Sztojka Sándor Alapítvány | működési költség | 5 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Vajdasági Magyar Pedagógusok Egyesülete | anyanyelvápolás, pedagógus továbbképzés, gyermek táborok és tanulmányi vetélkedők | 4 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
+
+| Felőri Református Egyházközség | Felőri Szórványkollégium: az építkezés befejezéséhez | 20 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
 | Kallós Zoltán Alapítvány | A Válaszúti-Mezőségi Szórványkollégiumban 93 óvodás és elemi iskolás gyermek magyar nyelvű oktatása és szociális támogatása | 5 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
+| Kallós Zoltán Alapítvány | működés április–május–június | 5 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
+| Kőhalmi Református Egyházközség | Szórvány Diákotthon rezsijére (fűtésszámlák) | 4 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
+| Magyarvistai Református egyházközség | Magyarvistai felekezeti iskola felújítása | 2 200 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
+| Moldovai Csángómagyarok Szövetsége | működés április–május–június | 30 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
+| Szekeres László Alapítvány | szórvány iskolabusz program | 25 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
 
 | Téka Alapítvány | Mezőségi szórványoktatási program támogatása | 5 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
 
+| Téka Alapítvány | működés április–május–június | 5 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
+
 | Aracs Társadalmi Szervezet | Működési költség és az Aracs című folyóirat 1. számának megjelentetése | 1 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
-| CSEMADOK | Működési költségek, a 2011. első negyedévi bérjellegű kiadások támogatása | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+| Bácskossuthfalvi Református Egyházközség, Napsugár Óvoda | működési költségekhez való hozzájárulás, bérek és járulékok | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Cseh- és Morvaországi Magyarok Szövetsége | működési költségek, lapkiadás | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| CSEMADOK | Működési költségek, a 2011 első negyedévi bérjellegű kiadások támogatása és 2011 első félévi működési kiadások támogatása | 15 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Délvidéki Mártírium 1944–45 Alapítvány | Kutatói ösztöndíjak, kutatási anyag rendezése, könyvkiadás, eszközbeszerzés, útiköltség térítés | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Emmausz Kollégium | Kollégium fenntartási költségeinek támogatása | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| Erdélyi Magyar Írók Ligája | működési támogatás 2011-re | 1 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
 | Erdélyi Múzeum Egyesület | Az egyesület tudományos tevékenységének támogatása | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Erdélyi Múzeum Egyesület | működés április–május–június | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Fórum Kisebbségkutató Intézet | Kampány a 2011. májusi népszámlálásra | 10 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
@@ -98,28 +148,52 @@
 
 | Kolozsvári Protestáns Teológiai Intézet | Kolozsvári Protestáns Teológiai Intézet működésének támogatása | 10 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| Körösi Csoma Sándor Művelődési Kör | Göteborgi Magyar Napok programsorozat | 1 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Macedóniai Magyar Teleház Szervezet | működési költségekhez való hozzájárulás | 1 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
 | Magyar Értelmiségiek Kárpátaljai Közössége | Az Együtt című folyóirat 1. szám megjelenésének támogatása | 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Magyar Ház Alapítvány | Működési költség támogatása | 3 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Magyar Nemzetiségi Művelődési Intézet | programfinanszírozás, működési költség | 3 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Miasszonyunkról Nevezett Szegény Iskolanővérek rendje | Tatarozási költségek, munkabérek és fenntartási költségek | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Munkácsi Szent István Líceum | Működési költség támogatása | 1 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| Muravidéki Magyar Önkormányzati Nemzeti Közösség | programfinanszírozás (nyári ifjúsági Tábor és ifjúsági Szabadegyetem), működési költségek, tudományos kutatás | 7 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| NIKE Sportegyesület | Sport programok támogatása határon túli magyar fiatalok számára | 10 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
 | Pannónia Alapítvány | A Pannon RTV technikai felszerelése és működési költségei | 25 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
-| Pro Civis Polgári Társulás | A magyarlakta települések önkormányzatai munkáját összehangoló, együttműködésüknek szervezeti keretet adó intézet felállítására, valamint a hazai és uniós jogszabályi és pályázati lehetőségekről rendszeresen informáló, magyar nyelvű Önkormányzati Fórum, c. lap elindítása, a szükséges működési költségek támogatása | 20 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+| Pro Civis Polgári Társulás | A magyarlakta települések önkormányzatai munkáját összehangoló, együttműködésüknek szervezeti keretet adó intézet felállítására, valamint a hazai és uniós jogszabályi és pályázati lehetőségekről rendszeresen informáló, magyar nyelvű Önkormányzati Fórum c. lap elindítása, a szükséges működési költségek támogatása | 20 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
-| Stojka Sándor Alapítvány | Stojka Sándor görög katolikus líceum működése | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+| Református Diakónia Koordinációs Központ | szociális tevékenység | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Szekeres László Alapítvány | Folyóirat- és lapkiadás támogatása | 25 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| „Szent Márton Karitász" Kárpátaljai Megyei Jótékonysági Alapítvány | szociális tevékenység | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Szlovákiai Magyar Cserkész Szövetség | működési költségek, programok | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
 | Szlovákiai Magyar Televíziósok Szövetsége | A májusi népszámlálás ügyére kiemelt figyelmet fordító, február végén induló Hírek.sk magyar nyelvű televíziós hírportál indítási és működtetési költségeihez nyújtott támogatás | 3 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Szövetség a Közös Célokért | felvidék.ma működési költségek | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Sztojka Sándor Alapítvány | Sztojka Sándor görög katolikus líceum működése | 5 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Teleki László Alapítvány | The Dynamics of Cultural Diversity c. konferencia megrendezése | 7 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | Vajdasági Fejlesztési Háló | Működési költség, személyi bérek, program | 20 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| Vajdasági Magyar Művelődési Intézet | programfinanszírozás, működési költségekhez való hozzájárulás, Az 1944–45-ös délvidéki magyarellenes atrocitások feltárásának támogatása (kutatói ösztöndíjak, útiköltség-térítés, műszaki felszerelés beszerzés | 9 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Vajdasági Magyar Művelődési Szövetség | programfinanszírozás, működési költségek, eszközbeszerzés | 3 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
 | Vajdasági Magyar Pedagógusok Egyesülete | Az újvidéki Apáczai Diákotthon működési költsége | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+
+| Vermes Miklós Országos Fizikus Tehetségápoló és Kutató Alapítvány | Nemzetközi Fizikaverseny támogatása | 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 2. melléklet a 49/2011. (III. 30.) Korm. rendelethez
