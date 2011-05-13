@@ -1,0 +1,1 @@
+[A Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmánya és az ugyanott aláírt Egyezmény és Fakultatív Jegyzőkönyv a Magyar Köztársaság vonatkozásában 1994. július 1-jén léptek hatályba.]
