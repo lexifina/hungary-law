@@ -1,1 +1,1 @@
-2. § Az Országgyűlés a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmányát – az 1994. évi kiotói, az 1998. évi minneapolisi, a 2002. évi marrakesh-i és a 2006. évi antalyai Meghatalmazotti Értekezleteken történt módosításaival egységes szerkezetben – (a továbbiakban: ITU Alapokmány) e törvénnyel kihirdeti.
+### 2. §
