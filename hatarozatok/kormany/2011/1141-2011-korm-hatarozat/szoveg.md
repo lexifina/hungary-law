@@ -34,20 +34,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: az Alapítvány bírósági törlését követően azonnal
 
-6. A Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat (a továbbiakban: Korm. hat.) a következő 4.7. ponttal egészül ki:
+6–7.[^2]
 
-(A Kormány megbízza az állami vagyon felügyeletéért felelős minisztert és a kormányzati tevékenység összehangolásáért felelős minisztert, hogy a közalapítványok és alapítványok által ellátott feladatok felett szakmai felügyeletet gyakorló miniszter bevonásával tegyék meg a szükséges intézkedéseket az alábbi közalapítványok és alapítványok megszüntetése érdekében azzal, hogy az érintett alapítványok, közalapítványok céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet által történik. Az átalakítás során a megszüntetésre kerülő alapítvány vagy közalapítvány által ellátott feladatok tekintetében a szakmai szempontú döntéshozatali mechanizmus megerősítése érdekében tanácsadó testület hozható létre a megszüntetésre kerülő alapítvány vagy közalapítvány kuratóriumának bázisán.)
+8.[^3] Ez a határozat a közzétételét követő napon lép hatályba,
 
-„4.7. Magyar Kultúra Alapítvány,”
-
-7. A Korm. hat. 5. pont 5.1. alpontja a következő 5.1.5. ponttal egészül ki:
-
-(A 4. pont szerint megszüntetésre kerülő alapítvány vagy közalapítvány működése felett szakmai felügyelet gyakorlásával a Kormány megbízza
-
-a közigazgatási és igazságügyi minisztert)
-
-„5.1.5. a Magyar Kultúra Alapítvány,”
-
-(tekintetében.)
-
-8. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Korm. hat. 1.8. és 3.1.4. pontja.
+[^2]: A 6–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
