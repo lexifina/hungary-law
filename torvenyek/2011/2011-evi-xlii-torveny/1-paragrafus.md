@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamai, és másrészről a Kirgiz Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
