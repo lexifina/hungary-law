@@ -1,6 +1,6 @@
 2. § A Megállapodás hiteles magyar nyelvű szövege a következő:
 
-PARTNERSÉGI ÉS EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS
+„PARTNERSÉGI ÉS EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS
 
 egyrészről az Európai Közösségek és tagállamai, és másrészről a Kirgiz Köztársaság közötti partnerség létrehozásáról
 
@@ -1480,4 +1480,4 @@ b) a megállapodás 2. cikkében szereplő lényeges alkotóelem megsértése.
 
 A francia kormány nyilatkozata
 
-A Francia Köztársaság megjegyzi, hogy a Kirgiz Köztársasággal kötött partnerségi és együttműködési megállapodást az Európai Közösséggel az Európai Közösséget létrehozó szerződés alapján társult tengerentúli országokra és területekre nem kell alkalmazni.
+A Francia Köztársaság megjegyzi, hogy a Kirgiz Köztársasággal kötött partnerségi és együttműködési megállapodást az Európai Közösséggel az Európai Közösséget létrehozó szerződés alapján társult tengerentúli országokra és területekre nem kell alkalmazni.”
