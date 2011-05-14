@@ -44,10 +44,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: az Alapítvány bírósági törlését követően azonnal
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+6.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) a Magyar Nemzeti Üdülési Alapítvány Alapító Okiratának módosításáról szóló 1083/1998. (VI. 3.) Korm. határozat;
+a)–c)[^2]
 
-b) a Magyar Nemzeti Üdülési Alapítvány kuratóriuma új elnökének megbízásáról és az alapító okirat módosításáról szóló 1173/2010. (VIII. 18.) Korm. határozat; továbbá
-
-c) a Magyar Nemzeti Üdülési Alapítvány kuratóriuma új tagjainak megbízásáról és az alapító okirat módosításáról szóló 1197/2010. (IX. 17.) Korm. határozat.
+[^1]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 6. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
