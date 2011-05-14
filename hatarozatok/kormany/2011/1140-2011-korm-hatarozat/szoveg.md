@@ -44,4 +44,6 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Nemzetközi Pető András Közalapítvánnyal kapcsolatos kérdésekről szóló 2165/1995. (VI. 8.) Korm. határozat.
+6.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
