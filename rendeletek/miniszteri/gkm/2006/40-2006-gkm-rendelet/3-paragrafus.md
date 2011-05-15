@@ -18,4 +18,9 @@ e) megfelel az e rendelet 1. mellékletében, a biztonságirányítási rendszer
 
 (4) A pályavasúti és az integrált vasúti társaság, valamint az általuk működtetett pályahálózaton forgalmat lebonyolító vállalkozó vasúti társaságok és nemzetközi csoportosulások – a pályavasúti társaság, illetve az integrált vasúti társaság biztonságirányítási rendszere alapján – megállapodásban rögzítik a rendkívüli események során követendő eljárást.
 
-(5) A vasúti társaság felelős a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkoztatottak számára nyújtott képzés és képesítés színvonaláért.
+(5)[^1] A vasúti társaság felelős a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkoztatottak számára nyújtott képzés színvonaláért, valamint azért, hogy az országos vasúti pályahálózaton vonatokat közlekedtető vasúti járművezető rendelkezzen vasúti járművezetői engedéllyel és tanúsítvánnyal.
+
+(6)[^2] A vasúti társaság a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott munkavállalóit a biztonságirányítási rendszerére vonatkozóan képzésben részesíti, amelynek tartalmát és gyakoriságát a biztonságirányítási rendszerében határozza meg.
+
+[^1]: A 3. § (5) bekezdése a 20/2011. (V. 10.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (6) bekezdését a 20/2011. (V. 10.) NFM rendelet 1. §-a iktatta be.

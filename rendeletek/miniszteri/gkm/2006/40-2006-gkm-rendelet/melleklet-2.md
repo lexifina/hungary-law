@@ -28,9 +28,13 @@
 
 ## i) a balesetek és váratlan vasúti események következményeinek elhárításához szükséges riasztási, bevetési és mindezzel összefüggő tájékoztatási intézkedések rendszere;
 
-## j) a biztonságirányítási rendszer belső ellenőrzési rendszere.
+## j) a biztonságirányítási rendszer belső ellenőrzési rendszere;
 
-2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^14]
+## k)[^21] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
+
+## l)[^22] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
+
+2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^23]
 
 Közös biztonsági mutatók
 
@@ -358,4 +362,6 @@ Ezek a vasúti átjárók a következő osztályokba sorolhatók:
 
 9.8.4. „Vágánykilométer”: a 2004/49/EK irányelv 2. cikke hatálya alá tartozó tagállami vasúthálózaton mért hossz kilométer mértékegységben. Többvágányú vonal esetében mindegyik vágányt figyelembe kell venni.
 
-[^14]: A 2. melléklet a 23/2010. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^22]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^23]: A 2. melléklet a 23/2010. (XII. 20.) NFM rendelet 4. §-ával megállapított szöveg.
