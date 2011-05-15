@@ -1,0 +1,17 @@
+## 17. A képzésben részt vevő alapvizsgájának felfüggesztése vagy eltiltása az alapvizsgától
+
+20. § (1) A vizsgabizottság (vizsgabiztos) a képzésben részt vevő vizsgáztatását felfüggeszti, és a képzésben részt vevőt az alapvizsgától legalább egy év, de legfeljebb két év időtartamra eltiltja, ha a képzésben részt vevő
+
+a) a természetes személyazonosító adatait illetően a vizsgabizottságot (vizsgabiztost) megtévesztette, vagy azt megkísérelte,
+
+b) a vizsgabizottság (vizsgabiztos) döntését jogtalan előny adásával vagy erre vonatkozó ígéretével befolyásolni törekedett.
+
+(2) A vizsgabizottság (vizsgabiztos) a vizsgázó vizsgáztatását felfüggeszti, és a vizsgázót az alapvizsgától legalább egy, de legfeljebb hat hónap időtartamra eltiltja, ha a vizsgázó
+
+a) a vizsgán szeszes italtól vagy más, bódító hatású anyagtól vagy szertől befolyásolt állapotban jelent meg,
+
+b) a vizsgán meg nem engedett segédeszközt használt, vagy annak használatát megkísérelte,
+
+c) a vizsga rendjét zavarta.
+
+(3) Az egy év és ennél hosszabb időre történő felfüggesztés esetén a képzésben részt vevő további alapvizsgára akkor bocsátható, ha az alapképzésben ismételten részt vesz és a 18. § (1)–(2) bekezdésében meghatározott feltételek teljesülnek. Ebben az esetben az alapképzésben való részvétel alól mentesítés nem adható.
