@@ -46,6 +46,8 @@ v) közreműködik a támogatási előirányzatok pályázati rendszerében a p�
 
 w) ellátja a jogszabályban meghatározott, európai uniós forrásból származó, és egyéb nemzetközi támogatásokkal kapcsolatosan a támogatások fogadásáért felelős kifizető hatósági és igazoló hatósági feladatokat, valamint a Nemzeti Alap számára előírt feladatokat.
 
+wa) a kincstári egységes számla terhére, annak forrásaiból – jogszabályban meghatározott feltételekkel – kamatmentes megelőlegezési kölcsönt nyújthat a Nyugdíjreform és Adósságcsökkentő Alapnak a Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 7. § c) pontjában meghatározott kifizetések teljesítéséhez.
+
 x) a kincstári egységes számla terhére, annak forrásaiból kamatmentes megelőlegezési, likviditási hitelt nyújthat az Európai Unió részére történő cukorágazati hozzájárulás fizetési kötelezettség teljesítésére a mezőgazdasági és vidékfejlesztési támogatási szervnek;
 
 y) a kincstári körbe tartozók esetén díjazás ellenében ellátja a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatokat;

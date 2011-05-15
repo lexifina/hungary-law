@@ -16,7 +16,7 @@ e) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 65. §-a alapj�
 
 f) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 17. § (4)–(5) bekezdései alapján a Magyar Nemzeti Bank kiegyenlítési tartalékaira nyújtott térítés és az azokról kapott visszatérítés;
 
-g) a 18/B. § (1) bekezdés d), zs) és x) pontjaiban meghatározott megelőlegezési és likviditási hitelek;
+g) a 18/B. § (1) bekezdés d), zs), x) és wa) pontjában meghatározott megelőlegezési és likviditási hitelek;
 
 h) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. §-ának (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank Rt. és a központi költségvetés közötti elszámolások előjelre való tekintet nélkül;
 
