@@ -34,12 +34,9 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: az Alapítvány bírósági törlését követően azonnal
 
-5. A Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat (a továbbiakban: Korm. határozat) 3. pont 3.1. alpontja a következő 3.1.2. ponttal egészül ki:
+5.[^2]
 
-(A Kormány felkéri az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján gondoskodjon a 2. pont szerint megalapításra kerülő nonprofit gazdasági társaságok vagyonkezelésére vonatkozó szerződés megkötéséről, valamint a vagyonkezelői joggyakorlás módjának megállapodásban történő rendezéséről a közigazgatási és igazságügyi miniszterrel)
+6.[^3] Ez a határozat a közzétételét követő napon lép hatályba,
 
-„3.1.2. a Pro Rekreatione Alapítvány,”
-
-(tekintetében.)
-
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Korm. határozat 3.3.3. pontja.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
