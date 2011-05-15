@@ -146,15 +146,7 @@ A tervdokumentációk tartalmának valódiságát a kivitelezést végző és a 
 
 Az OVSZ I. hatálya alá tartozó valamennyi tevékenység során be kell tartani a vonatkozó környezet- és természetvédelmi jogszabályokat.
 
-7.[^6] A vasúti szakszemélyzet képzése és továbbképzése a vasútvállalat, illetve a vasútvállalat feladata és felelőssége. A képzés, továbbképzés rendjét a vasútvállalat utasításban szabályozza, amelyet a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) Központi Hivatalával jóvá kell hagyatni.
-
-Az előírt vasúti szakképzettséggel nem rendelkező dolgozók a szükséges – elméleti és gyakorlati – szakismereteket a szolgálati helyeken (munkahelyeken), vagy tanfolyamokon történő kiképzés során a vállalati utasításban meghatározott időn belül kötelesek elsajátítani.
-
-A vasúti közlekedés biztonságával összefüggő munkakörökben dolgozókat a vasútvállalat által kijelölt központi oktatási intézményekben kell vizsgáztatni. Ezen munkakörökben foglalkoztatottak kiképzését a kijelölt oktatási intézményekben az érvényes képzési program szerint kell végezni. A vasúti közlekedés biztonságával összefüggő munkakörök megnevezését a II. függelék tartalmazza.
-
-A munkavállalók képzését, rendszeres szakmai oktatását vállalati utasításban kell szabályozni.
-
-A vasútvállalat köteles ellátni munkavállalóit a szolgálatuk végzéséhez szükséges szakmai utasításokkal.
+7.[^6]
 
 8. A vasút üzemeltetője köteles a vasúti közlekedés biztonságára vonatkozó, illetve azt érintő, általa készített, vezetője által elfogadott belső szabályzatot (utasítást) a vasúti hatósággal jóváhagyatni.
 
@@ -5040,149 +5032,11 @@ Ad B. 5.: VASÚTI JÁRMŰVEK
 
 16. Vontatott jármű: az olyan vasúti jármű, amelynek közlekedéséhez más jármű vonóereje szükséges és jellemzően személy, vagy áruszállításra szolgál.
 
-lI. FÜGGELÉK: A VASÚTI KÖZLEKEDÉS BIZTONSÁGÁVAL ÖSSZEFÜGGŐ MUNKAKÖRÖK, SZAKMÁK
-
---------------------
-
-Munkakör megnevezése
-
---------------------
-
-Árufuvarozási központ technológiai helyettes
-
-Hálózati vezető kocsiirányító
-
-Hálózati kocsi és rakszer-irányító
-
-Fő-áruirányító
-
-Futásfelügyelő
-
-Árufuvarozási vonalbiztos
-
-Árufuvarozási részlegvezető (főnök)
-
-Szállítmányozási szolgálatvezető
-
-Árufuvarozási hivatalnok
-
-Területi vezető kocsiirányító
-
-Területi kocsiirányító
-
-Kocsigazdálkodási szakelőadó
-
-Rakodásirányító
-
-Áruirányító
-
-Kocsiirányító
-
-Szolgáltatás felügyelő
-
-Személyszállítási vezető
-
-Vezető jegyvizsgáló
-
-Jegyvizsgáló
-
-Kereskedelmi hivatalnok
-
-Hálózati fő-üzemirányító
-
-Területi fő-üzemirányító
-
-Kiemelt vonatok irányítója
-
-Raktárnok
-
-Segédraktárnok
-
-Átmenesztő
-
-Áruátadó-átvevő
-
-Árufuvarozási raktári munkás
-
-Darukötöző
-
-Tengelyátszerelő
-
-Árufuvarozási tartalékos
-
-Forgalmi részlegvezető
-
-Forgalmi hivatalnok
-
-Állomási irányító
-
-Forgalmi szolgálattevő
-
-Térfőnök
-
-Kocsimester (forgalmi)
-
-Váltókezelő
-
-Tolatásvezető
-
-Kocsirendező
-
-Vonat fel- és átvevő
-
-Műszaki kocsimester
-
-Nehézgépkezelő
-
-Könnyűgép kezelő
-
-Darukezelő
-
-Átrakó
-
-Üzemeltető művezető
-
-SZIR-ZAIR üzemeltetési előadó
-
-Gépkocsivezető
-
-Mozdonyvezető
-
-Segéd-mozdonyvezető
-
-Mozdonyfűtő
-
-Kocsivizsgáló
-
-Féklakatos
-
-Villamos fűtési lakatos
-
-Vontatási diszpécser
-
-Mozdonyfelvigyázó
-
-Külsős mozdonyfelvigyázó
-
-Vontatási telep vezető
-
-Vasúti járműves darukezelő
-
-Sajáthasználatú vasúti járművezető
-
-Kazánfűtő ,,A''
-
-Kazánfűtő ,,B''
-
-Forgalmi vonatirányító
-
-Központi forgalomirányító
-
-KÖFE irányító
+lI. FÜGGELÉK[^30]
 
 [^4]: Az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló 3/2003. (I. 25.) BM–GKM–KvVM együttes rendelet.
 [^5]: A 4. számú melléklet A. részének 3. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 43. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: A 4. számú melléklet A. részének 7. pontja a 95/2006. (XII. 27.) GKM rendelet 53. § a) pontja szerint módosított szöveg.
+[^6]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének 7. pontját a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^7]: A 4. számú melléklet A. rész 9.1. pontja a 48/2009. (IX. 30.) KHEM rendelet 28. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^8]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény, a környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény, a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet.
 [^9]: A folyók mértékadó árvízszintjeiről szóló 15/1997. (X. 19.) KHVM rendelet.
@@ -5206,3 +5060,4 @@ KÖFE irányító
 [^27]: A vasúti járművek üzembe helyezésének engedélyezéséről és időszakos vizsgálatáról szóló 28/2003. (V. 8.) GKM rendelet.
 [^28]: A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény.
 [^29]: A 4. számú melléklet I. Függeléke B. 1.1. pontjának 10. alpontjában foglalt táblázat a Magyar Közlöny 2004. évi 9. számában megjelent helyesbítésnek megfelelő szöveg.
+[^30]: A 4. számú melléklet Országos Vasúti Szabályzat „A. Általános Rendelkezések” című fejezetének II. Függelékét a 19/2011. (V. 10.) NFM rendelet 39. § (1) bekezdés b) pontja hatályon kívül helyezte.
