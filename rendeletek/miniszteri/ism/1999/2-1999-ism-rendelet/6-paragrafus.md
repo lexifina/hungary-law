@@ -1,4 +1,4 @@
-## 5. §[^11]
+## 5. §[^12]
 
 ## Az Alapprogram Tanácsa
 
@@ -8,7 +8,7 @@ a) dönt az Alapprogram – az országos és a regionális támogatási rendszer
 
 b) dönt a pályázatok, illetve támogatási igények elbírálásának rendjéről, az elbírálásban résztvevők köréről,
 
-c) a hozzá beérkezett pályázatok, illetve támogatási igények alapján – a miniszter véleményének előzetes meghallgatásával – dönt a támogatások odaítéléséről,
+c)[^13] a hozzá beérkezett pályázatok, illetve támogatási igények alapján – a miniszter által felkért szakértők véleményének előzetes meghallgatásával – dönt a támogatások odaítéléséről,
 
 d) meghatározza a támogatások kedvezményezettjeivel kötendő szerződések tartalmát, a kedvezményezettek értesítésével, a velük való kapcsolattartással összefüggő szabályokat és feladatokat,
 
@@ -22,18 +22,19 @@ h) meghatározza ügyrendjét és a működésének nyilvánosságával összef�
 
 i) összehangolja a Regionális Ifjúsági Tanácsok munkáját.
 
-j)[^12] közreműködik a gyermek- és ifjúsági szolgáltatások fejlesztésének tervezésével és összehangolásával kapcsolatos feladatok ellátásában, e körben együttműködik a területfejlesztésért felelős központi államigazgatási szervekkel, valamint az Országos Területfejlesztési Tanáccsal,
+j)[^14] közreműködik a gyermek- és ifjúsági szolgáltatások fejlesztésének tervezésével és összehangolásával kapcsolatos feladatok ellátásában, e körben együttműködik mindazon szervekkel és szervezetekkel, amelyek tevékenysége feladatkörét érinti,
 
-k)[^13] közreműködik a gyermekek és az ifjúság élethelyzetének javításával kapcsolatos, a gyermek- és ifjúságpolitikáért felelős miniszter által előkészített programok kidolgozásában,
+k)[^15] közreműködik a gyermekek és az ifjúság élethelyzetének javításával kapcsolatos, a gyermek- és ifjúságpolitikáért felelős miniszter által előkészített programok kidolgozásában,
 
-l)[^14] részt vesz a gyermek- és ifjúságpolitika célkitűzéseinek, fejleményeinek a társadalommal való megismertetésében,
+l)[^16] részt vesz a gyermek- és ifjúságpolitika célkitűzéseinek, fejleményeinek a társadalommal való megismertetésében.
 
-m)[^15] feladatainak ellátása során együttműködik az Országos Fogyatékosügyi Tanáccsal, illetve a Roma Integrációs Tanáccsal.
+m)[^17]
 
 (2) A Tanács feladatainak végrehajtásáról évente két alkalommal írásban tájékoztatja a minisztert.
 
-[^11]: Az 5. §-t a 8/2006. (XII. 27.) SZMM rendelet 9. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A 6. § (1) bekezdésének j) pontját a 6/2002. (V. 8.) ISM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
-[^13]: A 6. § (1) bekezdésének k) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
-[^14]: A 6. § (1) bekezdésének l) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
-[^15]: A 6. § (1) bekezdésének m) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
+[^12]: Az 5. §-t a 8/2006. (XII. 27.) SZMM rendelet 9. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 6. § (1) bekezdés c) pontja a 21/2011. (V. 12.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdésének j) pontját a 6/2002. (V. 8.) ISM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be, szövege a 21/2011. (V. 12.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdésének k) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
+[^16]: A 6. § (1) bekezdésének l) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be.
+[^17]: A 6. § (1) bekezdésének m) pontját a 24/2007. (VI. 26.) SZMM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 21/2011. (V. 12.) NEFMI rendelet 11. § d) pontja hatályon kívül helyezte.
