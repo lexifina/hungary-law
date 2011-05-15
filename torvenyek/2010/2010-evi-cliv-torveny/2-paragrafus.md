@@ -1,4 +1,4 @@
-2. § (1) A Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) jogi személy.
+2. § (1) Az Alap jogi személy.
 
 (2) Az Alap székhelye: Budapest.
 
