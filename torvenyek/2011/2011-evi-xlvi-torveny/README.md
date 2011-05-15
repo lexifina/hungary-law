@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-46-00-00
 | --- | --- | --- |
 | 2011-05-14 | 2011. évi XLVI. törvény | 2011-46-00-00.0 (közlönyállapot) |
 | 2011-05-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-46-00-00.1 |
+| 2011-05-15 | 2010. évi CXXX. törvény | 2011-46-00-00.2 |
