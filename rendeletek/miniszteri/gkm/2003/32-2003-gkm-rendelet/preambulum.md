@@ -1,1 +1,0 @@
-A vasútról szóló 1993. évi XCV. törvény 17. §-a (4) bekezdésének e) pontjában kapott felhatalmazás alapján – figyelemmel a felnőttképzésről szóló 2001. évi CI. törvényre és a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 171/2002. (VIII. 9.) Korm. rendelet 6. §-a (2) bekezdésének j) pontjában foglaltakra is – a következőket rendelem el:
