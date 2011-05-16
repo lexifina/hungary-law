@@ -1,3 +1,0 @@
-## 3. § Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A vasútbiztonsági tanúsítványt [Vtv. 33. § (1) bekezdés] a közlekedési hatóság a biztonságirányítási rendszerre megállapított követelményekre és a biztonságirányítási rendszerre vonatkozó, e rendelet 1. mellékletében meghatározott, valamint a vasútbiztonsági tanúsítvány megszerzéséhez szükséges követelményeknek való megfelelés értékelésére szolgáló közös biztonsági módszerről szóló, 2010. december 9-i 1158/2010/EU európai bizottsági rendeletben foglalt előírások teljesítése esetén adhatja ki annak a vasúti társaságnak, amelyik először Magyarországon kezdi vagy kezdte meg működését.”
