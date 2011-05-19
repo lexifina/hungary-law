@@ -1,3 +1,0 @@
-## 1. § Az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet (a továbbiakban: R) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az Állami Egészségügyi Tartalék (a továbbiakban: tartalék) rendeltetése, hogy a katasztrófa-egészségügyi ellátáshoz szükséges többletigények kielégítését szolgáló egészségügyi fogyóanyagok, gyógyszerek, valamint a szükségkórházak és orvosi segélyhelyek (a továbbiakban együtt: szükséggyógyintézetek) telepítéséhez és felszereléséhez szükséges berendezések, orvostechnikai eszközök és egyéb anyagok felhasználásra alkalmas állapotban rendelkezésre álljanak.”
