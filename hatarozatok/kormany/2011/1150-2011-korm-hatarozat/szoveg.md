@@ -50,4 +50,6 @@ a közigazgatási és igazságügyi miniszterrel)
 
 (tekintetében.)
 
-7. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Korm. határozat 4.26., 5.4., valamint 5.4.1. pontja.
+7.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
