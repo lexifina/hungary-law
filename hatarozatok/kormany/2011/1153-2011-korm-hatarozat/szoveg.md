@@ -38,8 +38,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a Közalapítvány bírósági törlését követően azonnal
 
-6. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+6.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) a Wesselényi Miklós Sportközalapítvány alapító okiratának módosításáról szóló 1166/2009. (X. 2.) Korm. határozat, és
+a)–b)[^3]
 
-b) a Wesselényi Miklós Sport Közalapítvány egyesítéssel történő létrehozataláról szóló 2204/1999. (VIII. 6.) Korm. határozat.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 6. pont a)–b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
