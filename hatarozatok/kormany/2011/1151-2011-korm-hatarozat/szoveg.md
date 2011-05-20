@@ -62,10 +62,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-8. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+8.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) a Magyar Alkotóművészeti Közalapítványról szóló 1077/1995. (VIII. 24.) Korm. határozat,
+a)–c)[^2]
 
-b) a Magyar Alkotóművészeti Közalapítvány Alapító Okiratának módosításáról szóló 2226/1999. (IX. 3.) Korm. határozat, továbbá
-
-c) a Magyar Alkotóművészeti Közalapítvány Alapító Okiratának módosításáról szóló 1131/2006. (XII. 25.) Korm. határozat.
+[^1]: A 8. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 8. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
