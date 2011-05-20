@@ -1,4 +1,4 @@
-## 125. §[^144] A Tv. 53. § (1) bekezdése alapján az arcképmás és ujjnyomat adatokat a regionális igazgatóság, illetve a Rendőrség rögzíti.
+## 125. §[^149] A Tv. 53. § (1) bekezdése alapján az arcképmás és ujjnyomat adatokat a regionális igazgatóság, illetve a Rendőrség rögzíti.
 
 ## Az őrizet
 
@@ -6,7 +6,7 @@
 
 (2) Kiutasítást előkészítő őrizetet
 
-a)[^145] ha a harmadik országbeli állampolgár személyazonossága tisztázatlan, a Rendőrség,
+a)[^150] ha a harmadik országbeli állampolgár személyazonossága tisztázatlan, a Rendőrség,
 
 b) ha a harmadik országbeli állampolgár tartózkodásának jogszerűsége tisztázatlan, a regionális igazgatóság
 
@@ -18,12 +18,12 @@ b) ha a harmadik országbeli állampolgár tartózkodásának jogszerűsége tis
 
 (5) Az őrizetet elrendelő hatóságnak arra kell törekednie, hogy az őrizet a lehető legrövidebb ideig tartson. A kiutasítás végrehajtása feltételeinek megteremtésére, valamint a kiutasítást előkészítő őrizet elrendelése esetén a harmadik országbeli állampolgár személyazonosságának vagy tartózkodása jogszerűségének megállapítására soron kívül kell intézkedni.
 
-(6)[^146] A Tv. 54. § (6) bekezdés b) pontja alkalmazásának akkor van helye, ha valószínűsíthető, hogy a kiutasítást az őrizet elrendelésétől számított tizenkét hónap elteltével sem lehetne végrehajtani, így különösen, ha az őrizetes
+(6)[^151] A Tv. 54. § (6) bekezdés b) pontja alkalmazásának akkor van helye, ha valószínűsíthető, hogy a kiutasítást az őrizet elrendelésétől számított tizenkét hónap elteltével sem lehetne végrehajtani, így különösen, ha az őrizetes
 
 a) kiutazásának feltételei nem biztosíthatóak, vagy
 
 b) egészségi állapota miatt huzamos kórházi kezelést igényel.
 
-[^144]: A 125. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^145]: A 126. § (2) bekezdésének a) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^146]: A 126. § (6) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^149]: A 125. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^150]: A 126. § (2) bekezdésének a) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^151]: A 126. § (6) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 66. §-ával megállapított szöveg.

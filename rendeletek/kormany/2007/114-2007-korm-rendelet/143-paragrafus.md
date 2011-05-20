@@ -10,8 +10,8 @@ c) arra, hogy a foganatosítás milyen járművön, továbbá arra, hogy kísér
 
 (3) Külön jogszabályban meghatározott esetben pszichológus vagy szakorvos közreműködését kell igénybe venni, ha a kitoloncolással járó megterhelést az érintett mentális vagy egészségi állapota következtében átmenetileg nem vagy csak különleges feltételek mellett képes elviselni.
 
-(4)[^170] A kitoloncolás foganatosítását csak az elrendelő határozat vagy végzés birtokában, az abban foglaltak szerint lehet megkezdeni. A foganatosítás megkezdésekor és befejezésekor meg kell állapítani, hogy a harmadik országbeli állampolgáron vannak-e látható külsérelmi nyomok, ebben az esetben azok leletezéséről kell gondoskodni.
+(4)[^175] A kitoloncolás foganatosítását csak az elrendelő határozat vagy végzés birtokában, az abban foglaltak szerint lehet megkezdeni. A foganatosítás megkezdésekor és befejezésekor meg kell állapítani, hogy a harmadik országbeli állampolgáron vannak-e látható külsérelmi nyomok, ebben az esetben azok leletezéséről kell gondoskodni.
 
 (5) Az érintett a foganatosítás ellen panasszal élhet, a foganatosítás befejezését követő nyolc napon belül, amelyet írásban, postai úton kell előterjeszteni. A panasz kivizsgálása során a Rendőrségről szóló törvény megfelelő alkalmazásával kell eljárni.
 
-[^170]: A 143. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^175]: A 143. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.

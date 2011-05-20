@@ -30,23 +30,23 @@ b) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az
 
 c) az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i, 333/2002/EK tanácsi rendelet,
 
-d)[^205] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet,
+d)[^213] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet,
 
 e) a vízumok, köztük az átutazó tengerészek számára kibocsátandó vízumok határon történő kiadásáról szóló, 2003. február 27-i, 415/2003/EK tanácsi rendelet,
 
 f) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i, 562/2006/EK európai parlamenti és tanácsi rendelet,
 
-g)[^206] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet,
+g)[^214] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet,
 
-h)[^207] a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet;
+h)[^215] a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet;
 
-i)[^208] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
+i)[^216] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^209]
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^217]
 
-II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^210]
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^218]
 
 Vízum
 
@@ -54,25 +54,33 @@ Vízum
 
 Kishatárforgalmi engedély okmány
 
-2. Kishatárforgalmi engedély: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben meghatározott formájú okmány.
+2.[^219] A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra:
 
-Az okmány formátuma: matrica.
+– a kishatárforgalmi engedély/local border traffic permit
 
-Megjegyzés: kishatárforgalom céljából kiadva.
+– a tartózkodási engedély/residence permit
+
+– humanitárius célú tartózkodási engedély/residence permit granted on humanitarian grounds
+
+– a bevándorlási engedély/immigration permit
+
+– a letelepedési engedély/permanent residence permit
+
+– az ideiglenes letelepedési engedély/interim permanent residence permit
+
+– a nemzeti letelepedési engedély/national permanent residence permit
+
+– az EK letelepedési engedély/ EC permanent residence permit
+
+Az okmány formátuma: ID-1-es kártya, mely tároló elemet tartalmaz.
+
+Megjegyzés: Az EK letelepedési engedély esetén: „huzamos tartózkodási engedéllyel rendelkező – EK/long-term resident-EC
 
 III. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
 Tartózkodási engedély okmányok
 
-1. Tartózkodási engedély okmány: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
-
-Az okmány formátuma: matrica
-
-2. Humanitárius tartózkodási engedély okmány: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
-
-Az okmány formátuma: ID-2 kártya
-
-Megjegyzések: „humanitárius célú tartózkodási engedély”
+1–2.[^220]
 
 3. Humanitárius tartózkodási engedély okmány menedékjogot kérő számára
 
@@ -106,25 +114,7 @@ Az okmány adattartalma a következő:
 
 12. egyéb megjegyzések
 
-IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez
-
-Bevándorolt és letelepedett státuszt igazoló okmányok
-
-A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
-
-Az okmány formátuma: matrica
-
-Megjegyzések:
-
-1. Bevándorlási engedély esetén: „bevándorlási engedély”
-
-2. Letelepedési engedély esetén: „letelepedési engedély”
-
-3. Ideiglenes letelepedési engedély esetén: „ideiglenes letelepedési engedély”
-
-4. Nemzeti letelepedési engedély esetén: „nemzeti letelepedési engedély”
-
-5. EK letelepedési engedély esetén: „huzamos tartózkodási engedéllyel rendelkező – EK”
+IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^221]
 
 V. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
@@ -328,9 +318,12 @@ Az okmány adattartalma:
 
 8. kiállító szerv
 
-[^205]: A 183. § (2) bekezdés d) pontja a 290/2010. (XII. 21.) Korm. rendelet 76. §-ával megállapított szöveg.
-[^206]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
-[^207]: A 183. § (2) bekezdés h) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
-[^208]: A 183. § (2) bekezdés i) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
-[^209]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^210]: A II. melléklet a 96/2010. (III. 31.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^213]: A 183. § (2) bekezdés d) pontja a 290/2010. (XII. 21.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^214]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
+[^215]: A 183. § (2) bekezdés h) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^216]: A 183. § (2) bekezdés i) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^217]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^218]: A II. melléklet a 96/2010. (III. 31.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^219]: A II. melléklet 2. pontja a 290/2010. (XII. 21.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^220]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
+[^221]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 95. § (1) A magyarországi megélhetés különösen a következő okiratokkal igazolható:
 
-a)[^109] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
+a)[^111] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
 
 b) a megélhetést biztosító magyarországi vagyon, vagyoni értékű jog, vagyoni érték meglétét igazoló közokirattal vagy teljes bizonyító erejű magánokirattal;
 
@@ -8,7 +8,7 @@ c) a magyar jog hatálya alá tartozó rendszeres, munkavégzésre irányuló jo
 
 d) egyéb magyarországi rendszeres, jövedelemszerző tevékenységből származó, közokirattal vagy más módon igazolt adóköteles jövedelemmel;
 
-e)[^110] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
+e)[^112] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
 
 f) a Magyar Köztársaságban élő családtag által tett, közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozattal, valamint a tartást vállaló személy tartási képességét igazoló okirattal.
 
@@ -52,5 +52,5 @@ c) a Magyar Köztársaságban élő családtag közjegyzői okiratba foglalt, a 
 
 (6) Nem kell csatolni a lakhatás feltételeit igazoló okiratot, ha a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárásban a kérelmező azt már csatolta, és a harmadik országbeli állampolgár bejelentett szálláshelye nem változott meg.
 
-[^109]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^110]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^111]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^112]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
