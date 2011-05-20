@@ -96,4 +96,6 @@
 
 | Az illetékbélyeg helye: |
 
-6. melléklet a 25/2007. (V. 31.) IRM rendelethez
+6. melléklet a 25/2007. (V. 31.) IRM rendelethez[^31]
+
+[^31]: A 6. melléklet a 12/2010. (XII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.

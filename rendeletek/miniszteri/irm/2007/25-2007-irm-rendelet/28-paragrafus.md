@@ -1,3 +1,3 @@
-28. §[^23]
+28. §[^26]
 
-[^23]: A 27–30. §-t a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 13. pontja hatályon kívül helyezte.
+[^26]: A 27–30. §-t a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 13. pontja hatályon kívül helyezte.

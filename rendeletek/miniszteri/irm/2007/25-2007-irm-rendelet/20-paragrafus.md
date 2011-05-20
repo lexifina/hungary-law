@@ -2,6 +2,6 @@
 
 20. § (1) A Harmtv. 32. § (1) bekezdés b)–d) pontja szerinti ideiglenes letelepedési engedély, nemzeti letelepedési engedély, valamint EK letelepedési engedély iránti kérelmet az e rendelet 20. mellékletében meghatározott formanyomtatványon kell benyújtani.
 
-(2)[^11] A Magyar Köztársaság területén született harmadik országbeli állampolgár gyermek részére a Harmtv. 33. § (3) bekezdésében meghatározott ideiglenes letelepedési engedélyt, illetve nemzeti letelepedési engedélyt az e rendelet 23. mellékletében meghatározott bejelentőlap és betétlap alapján kell kiadni.
+(2)[^14] A Magyar Köztársaság területén született harmadik országbeli állampolgár gyermek részére a Harmtv. 33. § (3) bekezdésében meghatározott ideiglenes letelepedési engedélyt, illetve nemzeti letelepedési engedélyt az e rendelet 23. mellékletében meghatározott bejelentőlap és betétlap alapján kell kiadni.
 
-[^11]: A 20. § (2) bekezdése a 12/2010. (XII. 23.) BM rendelet 9. §-ával megállapított szöveg.
+[^14]: A 20. § (2) bekezdése a 12/2010. (XII. 23.) BM rendelet 9. §-ával megállapított szöveg.

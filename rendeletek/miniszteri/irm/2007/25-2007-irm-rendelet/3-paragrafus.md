@@ -16,8 +16,10 @@ meghatározott formanyomtatványon nyújthatja be.
 
 a) az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kártya formátumban kell kiadni,
 
-b) a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja úti okmányában matrica formájában – tartózkodási engedély megnevezéssel – kell elhelyezni.
+b)[^1] a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kártya formátumban – tartózkodási engedély megnevezéssel – kell kiadni.
 
 (5) Az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiállított tartózkodási kártyát az e rendelet 6. melléklet 2. pont a) alpontja szerinti formában és adattartalommal kell kiállítani.
 
 (6) A magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiállított tartózkodási kártyát az e rendelet 6. melléklet 2. pont b) alpontja szerinti formában és adattartalommal kell kiállítani.
+
+[^1]: A 3. § (4) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
