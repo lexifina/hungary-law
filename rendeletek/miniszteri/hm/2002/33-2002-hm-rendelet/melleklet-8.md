@@ -104,10 +104,10 @@ j) adatgyűjtő értékelő és tájékoztató központok vezető, tiszt, tiszth
 
 4. Az 1–3. sugárvédelmi ismereteket nyújtó képzést- továbbképzést a felsőfokú képzést végző katonai tanintézetekben kell végrehajtani a kijelölt személyi állomány-csoportoknak.
 
-5.[^41] A megszerzett sugárvédelmi végzettség sugárvédelmi képesítést jelent. Időbeli hatálya 5 év, mely az 5. évben szinten tartó tanfolyam, mint továbbképzés és vizsga keretében megújítandó. 5 éven túl a képesítés időbeli hatályát veszti. Az ismételt időbeli hatály az újabb szinten tartó tanfolyam és eredményes vizsga napjától számított 5 év.
+5.[^42] A megszerzett sugárvédelmi végzettség sugárvédelmi képesítést jelent. Időbeli hatálya 5 év, mely az 5. évben szinten tartó tanfolyam, mint továbbképzés és vizsga keretében megújítandó. 5 éven túl a képesítés időbeli hatályát veszti. Az ismételt időbeli hatály az újabb szinten tartó tanfolyam és eredményes vizsga napjától számított 5 év.
 
 6. Kiképzés keretén belül a hadkötelezettség alapján szolgálatot teljesítő állomány részére az 1. pontban meghatározott sugárvédelmi ismeretek oktatásának feltételeit és folyamatos végrehajtását kijelölt Kiképző Központban kell biztosítani.
 
 7. Honvédségi szervezetek nukleárisbaleset-elhárítására kijelölt személyi állománya sugárvédelmi képzését a feladat jellegének megfelelően kell meghatározni. Az operatív törzs vezető intézkedése alapján alap, bővített, átfogó, illetve speciális képzésre kötelezett csoportokba kell sorolni az irányító és beavatkozó erőket.
 
-[^41]: A 8. számú melléklet 5. pontja az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 8. számú melléklet 5. pontja az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

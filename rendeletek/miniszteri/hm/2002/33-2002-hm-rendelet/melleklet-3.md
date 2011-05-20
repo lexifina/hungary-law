@@ -22,7 +22,7 @@
 
 ## 7.[^38] Az engedélyes honvédségi szervezet sugárvédelmi megbízottja (sugárvédelmi szolgálat) köteles a dózismérőkről, a személyi dózisokról saját nyilvántartást vezetni, amelyben fel kell tüntetni az érintett személyek természetes személyazonosító adatait, a kiadott dózismérő számát, a kiadás (csere) és a hatóság részére való továbbítás napját. Az ellenőrzésre bejelentett létszám vagy a személyek természetes személyazonosító adataiban bekövetkezett változásokat a hatósággal, a változás időpontjában írásban közölni kell. Az értékelés és központi nyilvántartás vezetése érdekében, a dózismérőket és kísérő űrlapokat pontosan kitöltve, az ellenőrzési időszak végén a hatóságnak vissza kell küldeni.
 
-## 8. A személyi állomány foglalkozási sugárterhelésének központi nyilvántartását a hatóság vezeti. Az egyéni dózis adatait, az értékelést végző országos szervezettől átvéve, 10 munkanapon belül, írásban közli az engedélyesekkel.
+## 8.[^39] A személyi állomány foglalkozási sugárterhelésének központi nyilvántartását a hatóság vezeti. Az egyéni dózis adatait, az értékelést végző országos szervezettől átvéve, 15 napon belül, írásban közli az engedélyesekkel.
 
 ## 9. A sugárvédelmi megbízott (sugárvédelmi szolgálat) köteles továbbá a dózismérés eredményeit személyenként nyilvántartani és az alkalmazott sugárveszélyes munkájának időtartama alatt, továbbá annak megszűnését követő 30 éven át megőrizni. Az engedélyes honvédségi szervezetnél bekövetkezett szervezeti változás esetén a sugárterhelések adatainak megőrzése a mindenkori jogutód felelőssége.
 
@@ -43,3 +43,4 @@
 3. számú melléklet a 33/2002. (V. 3.) HM rendelethez
 
 [^38]: A 2. számú melléklet 7. pontja az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 2. számú melléklet 8. pontja a 2/2011. (V. 12.) HM rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. május 20-át követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

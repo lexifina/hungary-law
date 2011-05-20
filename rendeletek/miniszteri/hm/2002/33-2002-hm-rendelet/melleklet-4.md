@@ -24,6 +24,6 @@
 
 ## 3. A rendszeresítési eljárás során a rendszeresítő győződjön meg arról, hogy a haditechnikai termék gyártója biztosította-e a sugárveszély jogszabályban előírt jelzését a termék hozzáférhető felszínén, csomagjain (csomagolásán).
 
-4. számú melléklet a 33/2002. (V. 3.) HM rendelethez[^39]
+4. számú melléklet a 33/2002. (V. 3.) HM rendelethez[^40]
 
-[^39]: A 4. számú mellékletet az 5/2010. (III. 9.) HM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^40]: A 4. számú mellékletet az 5/2010. (III. 9.) HM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
