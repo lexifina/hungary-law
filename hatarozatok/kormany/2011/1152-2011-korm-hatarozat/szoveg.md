@@ -38,10 +38,9 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: azonnal
 
-7. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+7.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) az Oktatásért Közalapítvány létrehozásáról szóló 2153/2005. (VII. 27.) Korm. határozat,
+a)–c)[^3]
 
-b) az Oktatásért Közalapítvány Alapító Okiratának módosításáról szóló 1085/2009. (VI. 4.) Korm. határozat, valamint
-
-c) az Oktatásért Közalapítvány alapító okiratának módosításáról szóló 1015/2010. (I. 28.) Korm. határozat.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 7. pont a)–c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
