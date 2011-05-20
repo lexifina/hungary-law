@@ -2,11 +2,11 @@
 
 ## valamint a menekült, az oltalmazott és a menedékes tankötelezettsége teljesítésével kapcsolatos költségek megtérítése
 
-45. § (1)[^38] A menekültügyi hatóság – kérelemre – megtéríti a befogadó állomáson tartózkodó kiskorú menekült, oltalmazott és menedékes óvodai nevelése során igénybe vett étkezés költségét.
+45. § (1)[^44] A menekültügyi hatóság – kérelemre – megtéríti a befogadó állomáson tartózkodó kiskorú menekült, oltalmazott és menedékes óvodai nevelése során igénybe vett étkezés költségét.
 
-(2)[^39] A menekültügyi hatóság – a menekült, az oltalmazott és a menedékes tankötelezettségének teljesítése érdekében a befogadó állomáson való tartózkodása ideje alatt – a menekült, az oltalmazott és menedékes általános iskolai, szakiskolai, középiskolai, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményi oktatásával összefüggésben felmerült diákotthoni, kollégiumi elhelyezésével kapcsolatos költségeket – kérelemre – megtéríti.
+(2)[^45] A menekültügyi hatóság – a menekült, az oltalmazott és a menedékes tankötelezettségének teljesítése érdekében a befogadó állomáson való tartózkodása ideje alatt – a menekült, az oltalmazott és menedékes általános iskolai, szakiskolai, középiskolai, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményi oktatásával összefüggésben felmerült diákotthoni, kollégiumi elhelyezésével kapcsolatos költségeket – kérelemre – megtéríti.
 
-(3)[^40] A menekültügyi hatóság – kérelemre – megtéríti a (2) bekezdésben meghatározott nevelési-oktatási intézményben igénybe vett étkezés, valamint a nevelési-oktatási intézménybe irányuló helyi és helyközi utazáshoz igénybevett menetjegy vagy bérlet költségét is.
+(3)[^46] A menekültügyi hatóság – kérelemre – megtéríti a (2) bekezdésben meghatározott nevelési-oktatási intézményben igénybe vett étkezés, valamint a nevelési-oktatási intézménybe irányuló helyi és helyközi utazáshoz igénybevett menetjegy vagy bérlet költségét is.
 
 (4) A menekült, illetve az oltalmazott kérelmére a menekültügyi hatóság – az oklevél megszerzéséhez jogszabály által meghatározott képzési idő tartamára – átvállalhatja az alapképzésben vagy mesterképzésben, államilag elismert felsőoktatási intézményben, államilag támogatott hallgatóként folytatandó felsőfokú oktatás, valamint a felsőfokú oktatásban való részvételt elősegítő felkészítő nyelvi képzés kollégiumi elhelyezési költségét. A támogatás legfeljebb két félévvel hosszabbítható meg.
 
@@ -14,6 +14,6 @@
 
 (6) A (4)–(5) bekezdés alapján megállapított támogatás folyósításának feltétele, hogy a menekült, illetve az oltalmazott igazolja, hogy a képzési idő kezdetén a felsőoktatási intézménybe vagy az előkészítő nyelvi képzésre beiratkozott, illetve a felsőoktatásról szóló 2005. évi CXXXIX. törvény 40. § (3) bekezdésében meghatározott bejelentési kötelezettségének eleget tett, és az adott félévben tanulmányait folytatja.
 
-[^38]: A 45. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.
-[^39]: A 45. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.
-[^40]: A 45. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.
+[^44]: A 45. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.
+[^45]: A 45. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.
+[^46]: A 45. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 101. §-ával megállapított szöveg.

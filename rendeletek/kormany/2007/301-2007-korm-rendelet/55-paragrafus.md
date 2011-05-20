@@ -2,7 +2,7 @@
 
 55. § (1) A nagykorú menekült, illetve oltalmazott részére – a befogadó állomás végleges elhagyását követően, kérelmére – az elismerésétől számított tíz éven belül egy alkalommal a menekültügyi hatóság lakáscélú támogatást adhat, feltéve, hogy a kérelem tárgyát képező ingatlan nem haladja meg a lakáscélú állami támogatásokról szóló jogszabályban meghatározott, a magyar állampolgárok által igénybe vehető méltányolható lakásigény mértékét.
 
-(2)[^55]
+(2)[^61]
 
 (3) A lakáscélú támogatás felhasználható:
 
@@ -18,4 +18,4 @@ c) a saját tulajdonú lakás, családi ház első alkalommal történő felúj�
 
 (6) A kamatmentes kölcsön 1–15 évi időtartamra nyújtható.
 
-[^55]: Az 55. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^61]: Az 55. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.

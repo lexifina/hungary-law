@@ -1,6 +1,6 @@
 ## Letelepedéshez nyújtott egyszeri támogatás
 
-47. §[^42] (1) A menekültügyi hatóság a menekült, illetve az oltalmazott kérelmére – lakhatásuk elősegítése céljából, e rendeletben foglaltaktól eltérő, más intézményi ellátás igénybevétele kivételével – egyszeri támogatást állapíthat meg.
+47. §[^48] (1) A menekültügyi hatóság a menekült, illetve az oltalmazott kérelmére – lakhatásuk elősegítése céljából, e rendeletben foglaltaktól eltérő, más intézményi ellátás igénybevétele kivételével – egyszeri támogatást állapíthat meg.
 
 (2) A támogatás a településen elismert minimális lakásnagyságot és minőséget meg nem haladó lakás vagy szállás esetén, csak érvényes lakásbérleti szerződés, albérleti szerződés (a továbbiakban együtt: lakásbérleti szerződés) alapján folyósítható, és csak a lakásbérleti szerződésben meghatározott lakásbérleti vagy albérleti díj, illetve letéti díj (kaució) fedezetére fordítható.
 
@@ -30,4 +30,4 @@ c) a lakás mérete, állapota és felszereltsége.
 
 (9) Ha a menekültügyi hatóság a támogatás iránti kérelemnek helyt ad, a menekült, illetve az oltalmazott köteles a támogatás folyósításától számított tizenöt napon belül a befogadó állomás területét véglegesen elhagyni.
 
-[^42]: A 47. § a 290/2010. (XII. 21.) Korm. rendelet 103. §-ával megállapított szöveg.
+[^48]: A 47. § a 290/2010. (XII. 21.) Korm. rendelet 103. §-ával megállapított szöveg.
