@@ -1,0 +1,98 @@
+# A Kormány 83/2011. (V. 20.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 53. szám, 2011. május 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d8c110240179890a635c9732107b960857f3bb96/dokumentumok/80fba2f0be15dd555b911f8ec94aff2b2f9ed67e/letoltes)
+
+---
+
+A Kormány 83/2011. (V. 20.) Korm. rendelete
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között
+a közös államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról
+és rekonstrukciójáról szóló 2007. június 18-i Megállapodást módosító 1. Kiegészítés kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között
+a közös államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról és
+rekonstrukciójáról szóló 2007. június 18-i Megállapodást módosító 1. Kiegészítés (a továbbiakban: 1. Kiegészítés)
+kötelező hatályának elismerésére.
+2. §
+A Kormány az 1. Kiegészítést e rendelettel kihirdeti.
+3. §
+Az 1. Kiegészítés hiteles magyar nyelvű szövege a következő:
+„1. KIEGÉSZÍTÉS
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között
+a közös államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról
+és rekonstrukciójáról szóló 2007. június 18-i Megállapodáshoz
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban együtt: Szerződő Felek),
+tekintettel a határátlépés ellenőrzésének schengeni vívmányok általi megszüntetésére a belső határokon, azon
+szándéktól vezérelve, hogy
+eleget tegyenek a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös
+államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről
+2007. november 16-án, Párkányban aláírt Egyezmény 6. Cikk (1) bekezdése rendelkezésének,
+eleget tegyenek a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös
+államhatárán, Szécsény és Pető (Pet’ov) települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények
+megépítéséről 2007. november 16-án, Párkányban aláírt Egyezmény 6. Cikk (1) bekezdése rendelkezésének,
+valamint kialakítsák a közúti forgalom feltételeit a Ronyva folyó feletti hídon a Magyar Köztársaság területén levő
+Sátoraljaújhely és a Szlovák Köztársaság területén levő Szlovákújhely (Slovenské Nové Mesto) között,
+a következőkben állapodtak meg:
+1. Cikk
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös államhatáron lévő közúti
+határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról és rekonstrukciójáról 2007. június 18. napján
+Pozsonyban aláírt Megállapodásban
+(1) az 5. Cikk
+– (1) bekezdés f) pontja a következőképp módosul:
+„f) a Magyar Köztársaság területén Sátoraljaújhely és a Szlovák Köztársaság területén Szlovákújhely (Slovenské Nové
+Mesto) között a XIXx. és XVIII.8x, valamint a XIX./1 és XIX./2 számú határjelek között, a Ronyva folyó feletti híd”,
+– (1) bekezdés a következő h) ponttal egészül ki:
+„h) a Magyar Köztársaság területén Szécsény és a Szlovák Köztársaság területén Pető (Pet’ov) között, a V.23 és
+a V.24 számú határjelek között, az Ipoly folyó feletti híd”,
+– (2) bekezdés d) pontja az alábbiak szerint módosul:
+„d) a Magyar Köztársaság területén Sátoraljaújhely és a Szlovák Köztársaság területén Szlovákújhely (Slovenské Nové
+Mesto) között a XIX.4 és XIX.4/1 számú határjelek között, a Ronyva folyó feletti híd, korlátozás nélküli
+személyforgalomra és teherforgalomra legfeljebb 3,5 t össztömegig,”,
+– (2) bekezdés a következő g) ponttal egészül ki:
+„g) a Magyar Köztársaság területén Ráróspuszta és a Szlovák Köztársaság területén Rároš között, a V.35 és a V.36 számú
+határjelek között, az Ipoly folyó feletti híd.”.
+
+(2) A 8. Cikk a következőképp módosul:
+„A hidak és útszakaszok területén a reklámtáblák elhelyezése tilos; közérdekű tájékoztatást tartalmazó táblák csak az
+Illetékes Szervezetek külön egyetértésével helyezhetők el.”.
+(3) A 9. Cikk
+– (2) bekezdés a következőképp módosul:
+„Az Illetékes Szervezetek az (1) bekezdésben megjelölt határidőknek megfelelően kötelesek beszerezni a
+munkálatokhoz a szükséges engedélyeket.”,
+– (3) bekezdés a következőképp módosul:
+„Amennyiben a híd- vagy útlezárás két óránál hosszabb időt vesz igénybe, az Illetékes Szervezetek közösen
+gondoskodnak a forgalom más útvonalon történő zavartalan lebonyolításáról.”.
+(4) A 10. Cikk
+– (1) bekezdés a következőképp módosul:
+„Ezen Megállapodás 5. Cikkének (1), (2) és (4) bekezdésében megjelölt hidak és útszakaszok rendeltetésszerű
+használatához közvetlenül nem szükséges egyéb berendezések elhelyezésére, felszerelésére, illetve ezen
+berendezésekkel kapcsolatos üzemeltetési, fenntartási munkák elvégzésére csak abban az esetben kerülhet sor, ha
+azzal mindkét állam Illetékes Szervezetei egyetértettek.”,
+– (3) bekezdés a következőképp módosul:
+„Az (1) bekezdésben megjelölt munkák elvégzéséhez az 5. Cikk (4) bekezdésében megjelölt hidak tekintetében
+mindkét állam Illetékes Szervezeteinek hozzájárulása szükséges.”.
+(5) A 13. Cikk és a Megállapodás melléklete hatályát veszti.
+(6) A 14., 15. és 16. Cikk számozása 13., 14. és 15. Cikkre változik.
+2. Cikk
+A jelen Kiegészítés az 1. Cikkben meghatározott Megállapodás elválaszthatatlan részét képezi.
+3. Cikk
+Jelen Kiegészítést a Szerződő Feleknek a belső jogszabályaikkal összhangban jóvá kell hagyniuk, és az a jóváhagyást
+igazoló későbbi jegyzék kézhezvételétől számított 30. (harmincadik) napon lép hatályba.
+Készült Pozsonyban, 2011. május 12. napján, két eredeti példányban, magyar és szlovák nyelven, amelyből mindkét
+nyelvű szöveg egyaránt hiteles.
+A Magyar Köztársaság A Szlovák Köztársaság
+Kormánya nevében Kormánya nevében”
+4. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 2–3. §-a az 1. Kiegészítés 3. Cikkében meghatározott időpontban lép hatályba.
+(3) Az 1. Kiegészítés, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak
+ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(4) E rendelet végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
+(5) A közlekedésért felelős miniszter a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös
+államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló
+2007. június 18-i Megállapodásnak az 1. Kiegészítéssel egységes szerkezetbe foglalt szövegét a Magyar Közlönyben
+közzéteszi.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
