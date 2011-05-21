@@ -1,3 +1,0 @@
-## 3. § Az R1. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a harmadik ország állampolgárságával rendelkező családtag a kártya formátumú tartózkodási kártyát, vagy a matrica formátumú tartózkodási kártyát tartalmazó úti okmányát elvesztette, az megsemmisült vagy azt eltulajdonították, illetve ha az úti okmány vagy a benne lévő tartózkodási kártya megrongálódás miatt a benne foglalt adatok igazolására alkalmatlanná vált, a tartózkodási kártyát a bejelentett lakóhely szerint illetékes regionális igazgatóság az e rendelet 5. mellékletében meghatározott formanyomtatványon benyújtott kérelemre pótolja.”
