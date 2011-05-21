@@ -1,0 +1,5 @@
+2. § (1) A miniszterelnök a honvédelemért felelős miniszter és a rendészetért felelős miniszter együttes előterjesztésére javaslatot tesz a Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvénnyel létrehozott Országgyűlés Szent Korona Testület (a továbbiakban: Testület) részére a Szent Korona rendkívüli állapotban, szükségállapotban, veszélyhelyzetben vagy azok épségét közvetlenül fenyegető más okból történő veszélyeztetettsége esetére a Szent Korona biztonságba helyezésére vonatkozó eljárási szabályokra.
+
+(2) A Testületnek a Szent Koronával kapcsolatos intézkedési javaslatai Honvéd Koronaőrséget érintő feladatainak végrehajtását a honvédelemért felelős miniszter rendeli el.
+
+(3) Ha a Szent Korona őrzési helyről történő elszállításáról a Testület döntést hoz, az elszállítást – a Testület által megállapított eseti feltételekkel – kizárólag a Honvéd Koronaőrség hajtja végre. Az elszállítás végrehajtásáról a honvédelemért felelős miniszter a Testületet tájékoztatja.

@@ -1,0 +1,1 @@
+A Kormány a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 207. § (1) bekezdés l) pontjában, valamint az 5. § tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés g) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
