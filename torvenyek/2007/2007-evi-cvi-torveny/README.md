@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2010-09-01 | 2010. évi LXXXVII. törvény | 2007-106-00-00.10 |
 | 2010-12-18 | 2010. évi CLIII. törvény | 2007-106-00-00.11 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 2007-106-00-00.12 |
+| 2011-05-21 | 2011. évi LI. törvény | 2007-106-00-00.13 |

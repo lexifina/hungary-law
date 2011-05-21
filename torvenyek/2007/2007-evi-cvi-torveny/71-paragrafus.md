@@ -453,3 +453,11 @@ Tiszamenti Regionális Vízművek Zrt.
 |
 
 75% + 1 szavazat
+
+|
+
+Herendi Porcelánmanufaktúra Zrt.
+
+|
+
+25%+1 szavazat
