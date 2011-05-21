@@ -18,7 +18,7 @@
 
 ## 8.[^108] A 24 órás őr- és ügyeleti, valamint rendész szolgálatot ellátó személyi állomány a szolgálatteljesítés napján, ha a szolgálati helyükről nem távozhatnak el.
 
-## 9.[^109] Az MH Támogató Dandár díszzászlóalj, központi zenekar hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonái a díszelgés és a díszelgésre történő felkészülés, valamint a helyőrségi zenekarok, illetve a helyőrségtől díszelgésre kirendelt hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonák a díszelgésre történő felkészülés és díszelgési feladatok ellátásának napjain.
+## 9.[^109] Az MH Támogató Dandár Nemzeti Honvéd Díszegység, díszzászlóalj, központi zenekar hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonái a díszelgés és a díszelgésre történő felkészülés, valamint a helyőrségi zenekarok, illetve a helyőrségtől díszelgésre kirendelt hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonák a díszelgésre történő felkészülés és díszelgési feladatok ellátásának napjain.
 
 ## 10.[^110] A repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonák startétkezés címén tényleges repülési napokon, valamint készültségi szolgálatban, ha a szolgálat teljesítésének helyéről (laktanyából) nem távozhatnak el. A pótnorma csak természetben biztosítható, a startétkezés összegét élelmiszer-utalvánnyal megváltani nem lehet. A központi szervnél, parancsnokságon és a Zrínyi Miklós Nemzetvédelmi Egyetemen szolgálatot teljesítő repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonák részére tényleges repülési napokon a startétkezést parancs (repülési terv) alapján a repültető katonai szervezet térítésmentesen köteles biztosítani.
 
@@ -43,7 +43,7 @@
 [^106]: Az 5. számú melléklet 6. pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 13. pontja szerint módosított szöveg.
 [^107]: Az 5. számú melléklet 7. pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 13. pontja szerint módosított szöveg.
 [^108]: Az 5. számú melléklet 8. pontja a 3/2009. (III. 18.) HM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^109]: Az 5. számú melléklet 9. pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 26. pontja, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^109]: Az 5. számú melléklet 9. pontja a 3/2011. (V. 12.) HM rendelet 4. §-ával megállapított szöveg.
 [^110]: Az 5. számú melléklet 10. pontja a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^111]: Az 5. számú melléklet 12. pontja a 3/2009. (III. 18.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
 [^112]: Az 5. számú melléklet 13. pontja a 3/2009. (III. 18.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
