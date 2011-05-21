@@ -34,11 +34,11 @@
 
 ## 11. Az Információs Hivatal központi objektuma
 
-## 12. A Szent Korona és a koronázási jelvények
+## 12.[^66] A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 2. § (1) bekezdés b) pontjában meghatározott koronázási palást
 
-## 13.[^66]
+## 13.[^67]
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^67]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^68]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -174,5 +174,6 @@
 
 [^64]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^65]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^66]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^67]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^66]: Az 1. melléklet 2. pont 12. alpontja a 78/2011. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^67]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^68]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
