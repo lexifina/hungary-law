@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló 2007. június 18-i Megállapodást módosító 1. Kiegészítés (a továbbiakban: 1. Kiegészítés) kötelező hatályának elismerésére.
