@@ -98,7 +98,9 @@ n)[^6] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. §
 
 o) a nemzetközi kötelezettségvállalás alapján rejtjeltevékenységet ellátók munkaköre;
 
-p) az állandó személyi védelemben részesülő állami vezetők állami légijárművel történő szállításában részt vevő gépszemélyzet valamennyi munkaköre.
+p) az állandó személyi védelemben részesülő állami vezetők állami légijárművel történő szállításában részt vevő gépszemélyzet valamennyi munkaköre;
+
+r)[^7] a koronaőr, illetve a palotaőr szolgálati beosztást ellátó hivatásos és szerződéses állományú katonák.
 
 II. 2. „B” típusú nemzetbiztonsági ellenőrzésre kötelezettek az alábbi munkaköröket betöltő, illetve az arra jelölt személyek:
 
@@ -124,7 +126,7 @@ j) a hadfelszerelési fejlesztést és a logisztikai tervezést, irányítást �
 
 k) a rejtjelzett kapcsolatokat fenntartó rejtjelző szervek valamennyi munkaköre, a rejtjelzéssel megbízott és a rejtjelző szakkiképzést végrehajtó személy, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
-l)[^7] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek biztonsági felelőse, rendszeradminisztrátora, továbbá az MH szintű elektronikus hitelesítési szolgáltatás, valamint a központi katasztrófa adattároló csoport valamennyi munkaköre, és az MH híradó és informatikai rendszerének rendszer-felügyeletét ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+l)[^8] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek biztonsági felelőse, rendszeradminisztrátora, továbbá az MH szintű elektronikus hitelesítési szolgáltatás, valamint a központi katasztrófa adattároló csoport valamennyi munkaköre, és az MH híradó és informatikai rendszerének rendszer-felügyeletét ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
 m) a nemzetközi katonai megfigyelői és szaktanácsadói tevékenységet ellátó személy;
 
@@ -154,4 +156,5 @@ f) válságreagáló és béketámogató műveletben részt vevő, illetve rész
 [^4]: A melléklet I. 2. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § c) pontja szerint módosított szöveg.
 [^5]: A melléklet II. 1. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § d) pontja szerint módosított szöveg.
 [^6]: A melléklet II. 1. pont n) alpontja a 11/2010. (V. 12.) HM rendelet 5. § e) pontja szerint módosított szöveg.
-[^7]: A melléklet II. 2. pont l) alpontja a 11/2010. (V. 12.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^7]: A melléklet II. 1. pont r) alpontját a 3/2011. (V. 12.) HM rendelet 2. §-a iktatta be.
+[^8]: A melléklet II. 2. pont l) alpontja a 11/2010. (V. 12.) HM rendelet 5. § f) pontja szerint módosított szöveg.
