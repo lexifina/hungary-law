@@ -6,9 +6,9 @@
 
 ## ADATSZOLGÁLTATÁSI, NYILVÁNTARTÁSI, BEJELENTÉSI, TÁJÉKOZTATÁSI KÖTELEZETTSÉG ELMULASZTÁSÁVAL ELKÖVETETT SZABÁLYSÉRTÉSEK
 
-## Minősített adat biztonságának megsértése[^42]
+## Minősített adat biztonságának megsértése[^41]
 
-25. § (1)[^43] Aki
+25. § (1)[^42] Aki
 
 a) a minősített adatot a feladatának ellátása során jogszabályellenes módon készíti, sokszorosítja, minősíti, nyilvántartja, kezeli vagy őrzi,
 
@@ -28,5 +28,5 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-[^42]: A 25. §-t megelőző alcím a 90/2010. (III. 26.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
-[^43]: A 25. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.
+[^41]: A 25. §-t megelőző alcím a 90/2010. (III. 26.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^42]: A 25. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.

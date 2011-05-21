@@ -1,4 +1,4 @@
-## 98/A. §[^141]
+## 98/A. §[^140]
 
 ## Munkavédelmi képviselő akadályozása
 
@@ -6,7 +6,7 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^142] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a munkavédelmi felügyelőség, valamint a bányakapitányság hatáskörébe is tartozik.
+(2)[^141] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a munkavédelmi felügyelőség, valamint a bányakapitányság hatáskörébe is tartozik.
 
-[^141]: A 98/A. §-t és alcímét az 55/2001. (IV. 10.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének b) pontja.
-[^142]: A 99. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.
+[^140]: A 98/A. §-t és alcímét az 55/2001. (IV. 10.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének b) pontja.
+[^141]: A 99. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.

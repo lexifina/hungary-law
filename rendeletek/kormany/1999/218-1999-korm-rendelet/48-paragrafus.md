@@ -1,4 +1,4 @@
-## 47/A. §[^68]
+## 47/A. §[^67]
 
 ## Biztonságos közlekedésre alkalmatlan jármű vezetése
 
@@ -6,10 +6,10 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^69] Az (1) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
+(2)[^68] Az (1) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
 
-(3)[^70] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(3)[^69] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^68]: A 47/A. §-t és alcímét az 55/2001. (IV. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének b) pontja.
-[^69]: A 48. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 6. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^70]: A 48. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 9. §-a iktatta be.
+[^67]: A 47/A. §-t és alcímét az 55/2001. (IV. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 59/2007. (III. 31.) Korm. rendelet 3. § (2) bekezdésének b) pontja.
+[^68]: A 48. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 6. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^69]: A 48. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 9. §-a iktatta be.

@@ -8,9 +8,9 @@
 
 százezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^62] A (2) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá az (1) bekezdésben meghatározott szabálysértés esetében a rendőrség helyszíni bírságot szabhat ki.
+(3)[^61] A (2) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá az (1) bekezdésben meghatározott szabálysértés esetében a rendőrség helyszíni bírságot szabhat ki.
 
-(4)[^63] Az (1) és (2) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(4)[^62] Az (1) és (2) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^62]: A 44. § (3) bekezdése a 23/2000. (III. 8.) Korm. rendelet 4. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^63]: A 44. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
+[^61]: A 44. § (3) bekezdése a 23/2000. (III. 8.) Korm. rendelet 4. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^62]: A 44. § (4) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
