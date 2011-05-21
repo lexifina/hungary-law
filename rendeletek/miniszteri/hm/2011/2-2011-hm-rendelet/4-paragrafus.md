@@ -1,1 +1,0 @@
-## 3. § A nyilvános repülőrendezvény szabályairól az állami célú légiközlekedésben című 11/1999. (VIII. 26.) HM rendelet 16. § (2) bekezdésében a „10 munkanapon” szövegrész helyébe a „15 napon” szöveg lép.
