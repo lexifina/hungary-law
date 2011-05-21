@@ -3094,6 +3094,8 @@ A) AZ ŐRSZOLGÁLAT
 
 326.2. Az őrszolgálat ellátásában e Szabályzat és az őrszolgálati okmányok előírásaitól semmiféle eltérés nem engedhető meg.
 
+326.2.1.[^28] Szolgálati Intézkedés határozza meg a Honvéd Koronaőrség és a Honvéd Palotaőrség szolgálati személyei speciális kötelmeit és feladatait.
+
 326.3. Az őrséget vagy egyes tagjait más feladattal megbízni vagy feladatától bármivel elvonni tilos!
 
 326.4. Őrszolgálatba beosztott személyt – a felállított őr kivételével – különösen indokolt esetben a laktanya- (helyőrség-) ügyeletes engedhet el rövid időre az őrség számára kijelölt helyről. Ha az őrség valamelyik tagja megbetegszik, és ezért az őrszolgálat ellátására képtelenné válik, leváltására és pótlására a laktanya- (helyőrség-) ügyeletes intézkedjen.
@@ -3734,7 +3736,7 @@ A szállítmányok őrzésének közös szabályai
 
 444.1. Csapat- és szükség esetén ellátási (anyag-) szállítmányok őrzésére és védelmére szállítmányőrséget kell vezényelni. Csapatszállítmányon őrzés szempontjából haditechnikai eszközeivel együtt szállított alegységet, egységet kell érteni.
 
-444.2.[^28] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
+444.2.[^29] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
 
 Belföldi ellátási (anyag-)szállítmányok kísérése esetén az őrséget őrszolgálat ellátására legfeljebb négy nap időtartamra lehet vezényelni a készenléti szolgálattal együtt.
 
@@ -3772,7 +3774,7 @@ Ha a vonat hosszabb ideig áll, az őrség megerősítésére be lehet vonni az 
 
 A légijármű fedélzetén tartózkodó őrség köteles a repülőgép parancsnokának a repülés biztonságára vonatkozó parancsait végrehajtani.
 
-449.2.[^29] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
+449.2.[^30] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
 
 a) központi őrség (járőr) vezénylése esetén a szolgálat időtartama a szállítmány átvételétől a szállítmány átadásáig tart,
 
@@ -4358,7 +4360,7 @@ b) a laktanya- (objektum-) ügyeleti szolgálat;
 
 c) a laktanyaparancsnok szolgálati elöljárója és az általa megbízott személy az alárendeltjeik vonatkozásában;
 
-d)[^30] a HM illetékes szervének vezetője és az általa megbízott személy;
+d)[^31] a HM illetékes szervének vezetője és az általa megbízott személy;
 
 e) a vállalkozó és az általa megbízott személy;
 
@@ -4374,7 +4376,7 @@ c) a középszintű vezető szerveknek évente;
 
 d) a felsőszintű szerveknek évente az őrségek 20%-át.
 
-532.[^31] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
+532.[^32] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
 
 533. Az ellenőrzés során vizsgálni kell:
 
@@ -4408,7 +4410,7 @@ A katonai rendészeti szolgálat feladata, hatásköre
 
 a) a katonák és a honvédségi gépjárművek ellenőrzése;
 
-b)[^32] részvétel:
+b)[^33] részvétel:
 
 – a katonák által okozott vagy elszenvedett balesetek, bűncselekmények, szabálysértések és fegyelemsértések esetén a helyszín biztosításában, baleseti helyszínelésében;
 
@@ -4450,7 +4452,7 @@ d) tervezi az MH szintű katonai rendészeti szolgálatot ellátó állomány sz
 
 e) ellátja a katonai rendészeti tevékenység szakmai felügyeletét.
 
-539.[^33] Az MH szintű katonai rendészeti ellenőrzést a Honvéd Vezérkar főnöke által jóváhagyott terv alapján az általa kijelölt katonai szervezet végzi.
+539.[^34] Az MH szintű katonai rendészeti ellenőrzést a Honvéd Vezérkar főnöke által jóváhagyott terv alapján az általa kijelölt katonai szervezet végzi.
 
 540. Az MH középszintű parancsnokságai és a helyőrségparancsnokok alkalmazási körleteikben, illetve helyőrségükre vonatkozóan:
 
@@ -4840,8 +4842,6 @@ c) azt a gépjárművezetőt, aki olyan kisebb súlyú szabálytalanságot vagy 
 
 590.2. Ha a figyelmeztetett katona a kifogásolt magatartást megszünteti, a járőrparancsnok bocsássa el, pl. „Távozhat”. A figyelmeztetésről a katona állományilletékes parancsnokát értesíteni nem kell.
 
-590.3. Ha az egyszeri figyelmeztetés eredménytelen marad, a járőr köteles a katonát feljelenteni, szükség esetén előállítani.
-
 [^1]: A melléklet 18. pont k) alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: A melléklet 19. pont i) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
 [^3]: A melléklet 22. pont q) alpontja a 11/2010. (V. 12.) HM rendelet 3. § c) pontja szerint módosított szöveg.
@@ -4869,9 +4869,10 @@ c) azt a gépjárművezetőt, aki olyan kisebb súlyú szabálytalanságot vagy 
 [^25]: A melléklet 289.1. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
 [^26]: A melléklet 290.4 pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
 [^27]: A melléklet 295. pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
-[^28]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^29]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^30]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^31]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^32]: A melléklet 536.1. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^33]: A melléklet 539. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^28]: A melléklet 326.2.1. pontját a 3/2011. (V. 12.) HM rendelet 1. §-a iktatta be.
+[^29]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^30]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^31]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^32]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^33]: A melléklet 536.1. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^34]: A melléklet 539. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
