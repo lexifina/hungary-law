@@ -3928,6 +3928,40 @@
 
 ## Fegyvernemi (szakági) azonosító
 
+| 97 | KORONAŐRSÉG, PALOTAŐRSÉG |
+
+| A | általános | a | pk., főov., igazgató, hiv. vez. |
+
+| A |  | b | az „a” pontban szereplők helyettesei |
+
+| A |  | c | törzsfőnök |
+
+| A |  | e | kiem. főti., főti., ti., tts. |
+
+| A |  | k | beosztott |
+
+| H | hadműveleti | a |  |
+
+| H |  | b |  |
+
+| H |  | c |  |
+
+| H |  | e |  |
+
+| H |  | k |  |
+
+| O | kiképzési | a |  |
+
+| O |  | b |  |
+
+| O |  | c |  |
+
+| O |  | e |  |
+
+| O |  | k |  |
+
+## Fegyvernemi (szakági) azonosító
+
 | 99 | ÁLTALÁNOS MUNKAKÖRÖK |
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
@@ -4368,44 +4402,4 @@ B) c) mélységi és speciális felderítő, különleges műveleti
 
 C) műszaki
 
-| Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
-
-| iskolai végzettség | szakképzett- ségi szint | előmeneteli tanfolyam | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korlátozások |
-
-| 16 | dandártábornok | ZMNE, SZPE | SZFF | * | A6 | F5, K3, 13, 14, 15, 17, 23, 24, 25 | Pa/V, Pv/V | T1 |
-
-| 15 | ezredes | Pa/V, Pv/IV |
-
-| 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 13 | őrnagy | ZMNEF, SZPF | ET |  | Pa/IV, Pm/IV | T3 |
-
-| 12 | százados | ET | F5, K3, 13, 14, 15, 17, 23, 24 |  |
-
-| 11 | főhadnagy | ET | T4 |
-
-| 10 | hadnagy |  |
-
-| 09 | főtörzszászlós | SZPF, ZMNEF | SZFF |  | A3 | Pa/III, Pm/III |  |
-
-| 08 | törzszászlós | KÉ | SZKF54 | ET |
-
-| 07 | zászlós |  |
-
-| 06 | főtörzsőrmester | ÁI, KÉ | SZKF31, SZKF52 | ET |
-
-| 05 | törzsőrmester | ET |
-
-| 04 | őrmester |  |
-
-| 03 | szakaszvezető | ÁI | AK, KK | ET |
-
-| 02 | tizedes | ET |
-
-| 01 | őrvezető |  |
-
-D) vegyivédelmi
-
-[^27]: A 2. számú melléklet a 18/2010. (XII. 10.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. számú melléklet a 18/2010. (XII. 10.) HM rendelet 2. § (2) bekezdésével megállapított, a 3/2011. (V. 12.) HM rendelet 3. § (2) bekezdése szerint módosított szöveg.
