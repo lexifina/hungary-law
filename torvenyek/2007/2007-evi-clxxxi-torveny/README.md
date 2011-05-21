@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-181-00-00
 | 2008-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-181-00-00.1 |
 | 2010-05-29 | 2010. évi XLIII. törvény | 2007-181-00-00.2 |
 | 2011-01-01 | 2010. évi CLVIII. törvény | 2007-181-00-00.3 |
+| 2011-05-21 | 2011. évi XLVII. törvény | 2007-181-00-00.4 |
