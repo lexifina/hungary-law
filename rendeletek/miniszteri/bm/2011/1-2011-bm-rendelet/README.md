@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1-20-0A
 | 2011-02-20 | 2011-1-20-0A.2 | 2010: CXXX. törvény |
 | 2011-04-06 | 2011-1-20-0A.3 | 2010: CXXX. törvény |
 | 2011-05-21 | 2011-1-20-0A.4 | 2010: CXXX. törvény |
+| 2011-05-22 | 2011-1-20-0A.5 | 44/2017. (XII. 29.) BM rendelet |
