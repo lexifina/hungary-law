@@ -1,45 +1,33 @@
-## A nagycsaládos kedvezmény mértéke gyermekenként és jogosultsági időszakonként fogyasztói közösségek esetében
+## Az egyes elosztói működési területenként alkalmazandó nagycsaládos kedvezmény mértéke gyermekenként és jogosultsági időszakonként fogyasztói közösségek esetében
 
 ## 1. 20 m3/h-nál kisebb névleges teljesítményű gázmérővel rendelkező fogyasztói közösségek esetében
 
-| Egyetemes szolgáltató | Három vagy több gyermeket nevelő családok esetén 1-3. gyermekre tekintettel járó kedvezmény | Háromnál több gyermeket nevelő családok esetén 4. és további gyermekekre tekintettel járó kedvezmény |
+| Elosztói működési terület | Három vagy több gyermeket nevelő családok esetében 1–3. gyermekre tekintettel járó kedvezmény | Háromnál több gyermeket nevelő családok esetében 4. és további gyermekekre tekintettel járó kedvezmény |
 
 |  | Ft/év/gyermek | Ft/év/gyermek |
 
-| E.ON Energiaszolgáltató Kft. | 1049 | 1573 |
+| Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság: | 1049 | 1573 |
 
-| GDF SUEZ Energia Magyarország Zrt. | 1058 | 1587 |
+| Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság: | 1058 | 1587 |
 
-| Fővárosi Gázművek Zrt. | 1054 | 1581 |
+| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 1054 | 1581 |
 
-| Tigáz Zrt. | 1085 | 1627 |
-
-| Alpiq Csepeli Erőmű Kft. | 1054 | 1581 |
-
-| ISD Power Energiatermelő és Szolgáltató Kft. | 1054 | 1581 |
-
-| OERG Ózdi Energiaszolgáltató és Kereskedelmi Kft. | 1054 | 1581 |
+| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság: | 1085 | 1627 |
 
 ## 2. 20 m3/h feletti névleges (össz)teljesítményű gázmérővel rendelkező fogyasztói közösségek esetében
 
-| Egyetemes szolgáltató | Három vagy több gyermeket nevelő családok esetén 1-3. gyermekre tekintettel járó kedvezmény | Háromnál több gyermeket nevelő családok esetén 4. és további gyermekekre tekintettel járó kedvezmény |
+| Elosztói működési terület | Három vagy több gyermeket nevelő családok esetében 1–3. gyermekre tekintettel járó kedvezmény | Háromnál több gyermeket nevelő családok esetében 4. és további gyermekekre tekintettel járó kedvezmény |
 
-| Ft/év/gyermek | Ft/év/gyermek |
+|  | Ft/év/gyermek | Ft/év/gyermek |
 
-| E.ON Energiaszolgáltató Kft. | 1171 | 1757 |
+| Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság: | 1171 | 1757 |
 
-| GDF SUEZ Energia Magyarország Zrt. | 886 | 1329 |
+| Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság: | 886 | 1329 |
 
-| Fővárosi Gázművek Zrt. | 871 | 1306 |
+| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 871 | 1306 |
 
-| Tigáz Zrt. | 830 | 1245 |
+| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság: | 830 | 1245 |
 
-| Alpiq Csepeli Erőmű Kft. | 871 | 1306 |
+11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^39]
 
-| ISD Power Energiatermelő és Szolgáltató Kft. | 871 | 1306 |
-
-| OERG Ózdi Energiaszolgáltató és Kereskedelmi Kft. | 871 | 1306 |
-
-11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^37]
-
-[^37]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^39]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 7. §-a szerint módosított szöveg.

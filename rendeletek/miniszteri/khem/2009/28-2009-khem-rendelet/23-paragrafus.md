@@ -1,4 +1,4 @@
-23. §[^31] (1) A 16/B. § (4) bekezdés szerinti kötelezettségnek a szolgáltató és a MÁK első alkalommal 2011. január 15-ig tesz eleget.
+23. §[^32] (1) A 16/B. § (4) bekezdés szerinti kötelezettségnek a szolgáltató és a MÁK első alkalommal 2011. január 15-ig tesz eleget.
 
 (2) A nagycsaládos kedvezményre való jogosultság megállapítására irányuló kérelmet első alkalommal 2011. február 28-ig lehet az Igazgatósághoz benyújtani.
 
@@ -12,4 +12,4 @@ a) a 16/C. § (1) bekezdés c) pont ca) alpontja szerinti esetben a fogyasztási
 
 b) a 16/C. § (1) bekezdés c) pont cb) alpontja szerinti esetben havonta egyenlő összegben érvényesíti.
 
-[^31]: A 23. §-t a 39/2010. (XII. 31.) NFM rendelet 6. §-a iktatta be.
+[^32]: A 23. §-t a 39/2010. (XII. 31.) NFM rendelet 6. §-a iktatta be.

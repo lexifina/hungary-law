@@ -22,7 +22,7 @@ i)[^3] fogyasztói közösség: a közös gázmérővel rendelkező olyan lakó�
 
 j)[^4] jogosultsági időszak: minden naptári évben a január 1. és december 31. közötti időszak,
 
-k)[^5] nagycsaládos háztartás: az a háztartás, amelyben a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 11. §-a (1) bekezdésének e) vagy f) pontjában meghatározott összegű családi pótlékban részesülő, továbbá a nevelőszülőként, hivatásos nevelőszülőként legalább három gyermek után a Cst. 11. §-a (1) bekezdésének j) pontjában meghatározott összegű családi pótlékban részesülő személy él,
+k)[^5] nagycsaládos háztartás: az a háztartás, amelyben a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti jogosult legalább három gyermek után, illetve figyelembevételével részesül családi pótlékban,
 
 l)[^6] nagycsaládos kedvezmény: a nagycsaládos háztartás számára a MÁK által határozatban megállapított kedvezmény.
 
@@ -31,5 +31,5 @@ l)[^6] nagycsaládos kedvezmény: a nagycsaládos háztartás számára a MÁK �
 [^2]: A 2. § (1) bekezdés b) pontja a 18/2010. (XII. 3.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés i) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
 [^4]: A 2. § (1) bekezdés j) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
-[^5]: A 2. § (1) bekezdés k) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
+[^5]: A 2. § (1) bekezdés k) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdés l) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.

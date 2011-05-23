@@ -18,6 +18,6 @@ c) a vásárlás időpontjában az egységnyi hőmennyiségre vonatkozó díjnak
 
 ## a szorzataként kell meghatározni. Az alapdíj fizetése a következő vásárlás alkalmával utólag történik, az előző vásárlás óta eltelt időszakban érvényes alapdíjak összegzésével. A megkezdett hónap egész hónapnak számít.
 
-(6)[^25] A miniszter a 2. mellékletben évente teszi közzé a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabályozás során alkalmazott referencia időszakot, és az árfolyamok mértékét.
+(6)[^26] A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabályozás során alkalmazott referencia időszakot és az árfolyamok mértékét a 2. melléklet tartalmazza. A 2. melléklet szerinti árfolyamok mértékét és a referencia időszakot negyedévente felül kell vizsgálni.
 
-[^25]: A 17. § (6) bekezdését a 18/2010. (XII. 3.) NFM rendelet 1. §-a iktatta be.
+[^26]: A 17. § (6) bekezdését a 18/2010. (XII. 3.) NFM rendelet 1. §-a iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 3. §-ával megállapított szöveg.

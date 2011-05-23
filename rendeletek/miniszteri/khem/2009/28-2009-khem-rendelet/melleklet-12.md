@@ -16,25 +16,25 @@
 
 ## Társadalombiztosítási azonosító jel (TAJ): .................................................................................
 
-## 2. Igénylő és a vele együtt élő személyek adatai:
+## 2. Az igénylő és a vele együtt élő személyek adatai:
 
-## A táblázatban fel kell tüntetni az igénylőt és minden olyan személyt, akinek a kérelmezővel közös a lakcíme, ide értve azon gyermekeket, akik után családi pótlékban (nevelési ellátás/iskoláztatási támogatás) részesül.
+## A táblázatban fel kell tüntetni az igénylőt és minden olyan személyt, akinek a kérelmezővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családipótlékra jogosult, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembe vételre kerülnek.
 
 | Név | Születési idő | TAJ szám |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
-|  | □□□□-□□-□□ | □□□-□□□-□□□ |
+|  | □□□□-□□-□□ | □□□□-□□-□□ |
 
 ## 3. Szolgáltatásra vonatkozó adatok
 
@@ -80,7 +80,7 @@
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^38]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^40]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
@@ -116,4 +116,4 @@ Gyerekek után járó kedvezmény felső határa:
 
 Dátum
 
-[^38]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^40]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be.
