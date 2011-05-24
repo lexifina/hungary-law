@@ -1,1 +1,3 @@
-## 7. § A Rendelet 11. melléklete a 3. melléklet szerint módosul.
+## 1–7. §[^2]
+
+[^2]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
