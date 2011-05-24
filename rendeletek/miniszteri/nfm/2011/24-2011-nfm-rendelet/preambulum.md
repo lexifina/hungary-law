@@ -1,0 +1,1 @@
+Az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
