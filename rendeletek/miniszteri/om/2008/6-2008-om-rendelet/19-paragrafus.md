@@ -1,1 +1,0 @@
-## a levonásba helyezett, visszaigényelt és visszakapott, illetve áthárított és az ÖM által is támogatott ÁFA összegét köteles a jogosulatlanul igénybe vett állami támogatásokra vonatkozó szabályok szerint visszatéríteni.
