@@ -108,7 +108,7 @@
 
 53. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az üzemi balesetek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXIX. törvény
 
-54. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXX. törvény
+54.
 
 55. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az idegen és a saját honos munkavállalóknak az üzemi balesetek kártalanítása szempontjából egyenlő elbánásban részesítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXI. törvény
 
@@ -150,7 +150,7 @@
 
 74. a hajóselismervényekre vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi VI. törvény
 
-75. az 1926. évben, Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a kivándorlók hajókon történő felügyeletének egyszerűsítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1931. évi VII. törvény
+75.
 
 76. a Görögországgal Athénben 1930. évi május hó 5. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi X. törvény
 
