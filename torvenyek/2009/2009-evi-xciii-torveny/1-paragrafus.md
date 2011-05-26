@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad az 1928. évi XXX. törvény által kihirdetett, a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 7. ülésszakán elfogadott, a foglalkozási betegségek kártalanításáról szóló 1925. évi 18. számú Egyezmény (a továbbiakban: Egyezmény) felmondására.
