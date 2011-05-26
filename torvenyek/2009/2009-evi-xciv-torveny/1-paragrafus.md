@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad az 1931. évi VII. törvény által kihirdetett, a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 8. ülésszakán elfogadott, a kivándorlók hajókon történő felügyeletének egyszerűsítéséről szóló 1926. évi 21. számú Egyezmény (a továbbiakban: Egyezmény) felmondására.
