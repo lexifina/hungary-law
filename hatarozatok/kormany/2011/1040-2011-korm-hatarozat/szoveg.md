@@ -38,11 +38,11 @@ Határidő: 2012. évi költségvetés előkészítése során
 
 5. A Kormány
 
-a) egyetért azzal, hogy – a szükségtelen szabadságkorlátozás visszaszorítása végett – a lakóhelyen elektronikus távfelügyeleti eszközzel ellenőrzött házi őrizet elrendelésének feltételei megteremtődjenek,
+a)[^1] egyetért azzal, hogy – a szükségtelen szabadságkorlátozás visszaszorítása végett – a lakóhelyen elektronikus távfelügyeleti eszközzel ellenőrzött házi őrizet elrendelésének feltételei megteremtődjenek,
 
 Felelős: belügyminiszter
 
-Határidő: (a technikai és pénzügyi feltételek kidolgozására) 2011. március 30.
+Határidő: (a technikai és pénzügyi feltételek kidolgozására) 2012. június 30.
 
 b) egyetért azzal, hogy az a) pontban írtak bevezetését követő 6 hónap elteltével az új intézmény gyakorlati tapasztalatait értékeljék; ennek kapcsán vizsgálják meg az elektronikus távfelügyeleti eszköznek a büntetés végrehajtása során történő alkalmazását is.
 
@@ -53,3 +53,5 @@ Felelős: belügyminiszter, közigazgatási és igazságügyi miniszter
 Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: 2011. április 30.
+
+[^1]: Az 5. pont a) alpontja az 1171/2011. (V. 26.) Korm. határozat 2. pontja szerint módosított szöveg.

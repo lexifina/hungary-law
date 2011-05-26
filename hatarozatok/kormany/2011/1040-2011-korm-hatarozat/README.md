@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1040-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-03-09 | 2011-1040-30-22.1 | 1040/2011. (III. 9.) Korm. határozat |
+| 2011-05-26 | 2011-1040-30-22.2 | 1171/2011. (V. 26.) Korm. határozat |
