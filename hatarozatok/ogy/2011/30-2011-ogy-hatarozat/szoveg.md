@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Gelencsér Attila országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 13. B. XIV. 33.126/2010/4. számú megkeresésével érintett ügyben nem függeszti fel.
