@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Meggyes Tamás országgyűlési képviselő mentelmi jogát az Esztergomi Városi Bíróság 12. B. 160/2011/2/I., valamint 12. B. 160/2011/3. számú megkeresésével érintett ügyben nem függeszti fel.
