@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 1. ülésszakán elfogadott, a nőknek a szülés előtt és utána való foglalkoztatásáról szóló 1919. évi 3. számú Egyezmény (a továbbiakban: Egyezmény) felmondására.
