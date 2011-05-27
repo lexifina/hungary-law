@@ -1,1 +1,0 @@
-(A Magyar Köztársaságnak az Egyezményhez, a Megállapodáshoz és a Jegyzőkönyvekhez történő csatlakozásáról szóló diplomáciai jegyzék átadása a letéteményesnek 2004. augusztus 31-én megtörtént. Az Egyezmény, a Megállapodás és a Jegyzőkönyvek rendelkezéseit 2004. november 1-jétől kell a Magyar Köztársaságban alkalmazni.)
