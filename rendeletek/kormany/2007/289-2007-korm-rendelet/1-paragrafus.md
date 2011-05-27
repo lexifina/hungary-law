@@ -92,9 +92,9 @@ jc) a szolgáltatás díját díjszétosztás nélkül fizető társasházi fogy
 
 k) fogyasztási időszak: a számlán feltüntetett hőmennyiség felhasználásának időszaka;
 
-l)[^4] jogosultsági időszak: a 2009. január 1-je és 2011. április 30-a közötti időszak;
+l)[^4] jogosultsági időszak: a 2009. január 1-je és 2011. augusztus 31-e közötti időszak;
 
-m)[^5] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. április 30-án történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
+m)[^5] elszámolási időszak: havonta elszámolási céllal végzett fogyasztás-megállapítás (leolvasás) esetén a 2008. december 31-én vagy azt közvetlenül megelőzően történő leolvasástól a 2011. augusztus 31-én történő vagy az azt követő első leolvasás közötti időszak; évente egyszer végzett elszámolási célú fogyasztás-megállapítás (leolvasás) esetén az évente elvégzett leolvasási időpontok közötti időszak;
 
 n) fogyasztási jelleggörbe: az éves gázfogyasztás naptári hónapokra eső részének százalékos arányát tartalmazó adatsor;
 
@@ -103,5 +103,5 @@ o) közös képviselő: a társasház szolgáltató felé történő képviselet
 [^1]: Az 1. § a) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pontjának 4. alpontja a 286/2008. (XI. 28.) Korm. rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 10. § (3) bekezdése alapján a 2008. november 30-án folyamatban lévő ügyekre a 2008. november 29-én hatályos rendelkezésket kell alkalmazni.
 [^3]: Az 1. § c) pontja a 286/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § l) pontja a 333/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § m) pontja a 333/2010. (XII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § l) pontja a 85/2011. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § m) pontja a 85/2011. (V. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

@@ -6,19 +6,19 @@ b) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem megha
 
 ba) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,556 Ft/MJ,
 
-bb)[^13] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 0,278 Ft/MJ;
+bb)[^13] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 0,278 Ft/MJ;
 
 c) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum két és félszeresét, de nem haladja meg annak háromszorosát,
 
 ca) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,238 Ft/MJ,
 
-cb)[^14] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 0 Ft/MJ;
+cb)[^14] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 0 Ft/MJ;
 
 d) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum háromszorosát, de nem haladja meg annak három és félszeresét,
 
 da) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 0,018 Ft/MJ,
 
-db)[^15] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 0 Ft/MJ.
+db)[^15] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 0 Ft/MJ.
 
 (2)[^16] A távhőfelhasználás esetében a támogatás fajlagos bruttó összege
 
@@ -28,19 +28,19 @@ b) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem megha
 
 ba) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 1377 Ft/GJ,
 
-bb)[^17] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 688,5 Ft/GJ;
+bb)[^17] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 688,5 Ft/GJ;
 
 c) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum két és félszeresét, de nem haladja meg annak háromszorosát,
 
 ca) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 783 Ft/GJ,
 
-cb)[^18] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 0 Ft/GJ;
+cb)[^18] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 0 Ft/GJ;
 
 d) ha a háztartásban az egy fogyasztási egységre jutó havi jövedelem meghaladja a nyugdíjminimum háromszorosát, de nem haladja meg annak három és félszeresét,
 
 da) a jogosultsági időszak 2010. április 30-áig terjedő részidőszaka vonatkozásában 399 Ft/GJ,
 
-db)[^19] a jogosultsági időszak 2010. május 1-jétől 2011. április 30-áig terjedő részidőszaka vonatkozásában 0 Ft/GJ.
+db)[^19] a jogosultsági időszak 2010. május 1-jétől 2011. augusztus 31-éig terjedő részidőszaka vonatkozásában 0 Ft/GJ.
 
 (3)[^20] Gázfogyasztás esetén a támogatás
 
@@ -48,7 +48,7 @@ a) a jogosultsági időszak 2009. január 1-jétől 2009. december 31-éig terje
 
 b)[^21] a jogosultsági időszak 2010. január 1-jétől 2010. december 31-éig terjedő részidőszakában legfeljebb 68 000 MJ, nagycsaládos háztartás esetében legfeljebb 136 000 MJ
 
-c)[^22] a jogosultsági időszak 2011. január 1-jétől 2011. április 30-áig terjedő részidőszakában legfeljebb 40 800 MJ, nagycsaládos háztartás esetében legfeljebb 81 600 MJ
+c)[^22] a jogosultsági időszak 2011. január 1-jétől 2011. augusztus 31-éig terjedő részidőszakában legfeljebb 47 600 MJ, nagycsaládos háztartás esetében legfeljebb 95 200 MJ
 
 hőmennyiségre jár.
 
@@ -75,14 +75,14 @@ b) a távhőszolgáltatás díját közvetlen számlázás alapján fizető fogy
 (11)[^23]
 
 [^12]: A 3. § (1) bekezdése a 211/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. § (1) bekezdés b) pont bb) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^14]: A 3. § (1) bekezdés c) pont cb) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^15]: A 3. § (1) bekezdés d) pont db) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés b) pont bb) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § (1) bekezdés c) pont cb) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (1) bekezdés d) pont db) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^16]: A 3. § (2) bekezdése a 211/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (2) bekezdés b) pont bb) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^18]: A 3. § (2) bekezdés c) pont cb) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^19]: A 3. § (2) bekezdés d) pont db) alpontja a 333/2010. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^17]: A 3. § (2) bekezdés b) pont bb) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^18]: A 3. § (2) bekezdés c) pont cb) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^19]: A 3. § (2) bekezdés d) pont db) alpontja a 85/2011. (V. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^20]: A 3. § (3) bekezdése a 290/2009. (XII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (3)–(6) bekezdését.
 [^21]: A 3. § (3) bekezdés b) pontja a 211/2010. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^22]: A 3. § (3) bekezdés c) pontját a 112/2010. (IV. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 136/2010. (IV. 27.) Korm. rendelet 2. § (2) bekezdés a) pontja, újból a 333/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 3. § (3) bekezdés c) pontját a 112/2010. (IV. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 136/2010. (IV. 27.) Korm. rendelet 2. § (2) bekezdés a) pontja, újból a 333/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 85/2011. (V. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^23]: A 3. § (11) bekezdését a 137/2009. (VI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 290/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdés a) pontja.
