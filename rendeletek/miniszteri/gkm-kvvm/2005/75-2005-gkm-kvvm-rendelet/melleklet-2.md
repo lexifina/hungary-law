@@ -32,7 +32,7 @@
 
 ## 2.3. a részecskékből álló szennyezőanyag mindazokat az anyagokat jelenti, amelyek egy CI motor kipufogógázának tiszta, szűrt levegővel oly módon történő felhígítása után, hogy a hőmérséklet ne haladja meg a 325 K (52 °C) értéket, egy meghatározott szűrőközegen összegyűlnek;
 
-## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^26], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
+## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^30], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
 
 ## 2.5. a névleges fordulatszám a regulátor által megengedett maximális fordulatszámot jelenti teljes terhelésnél, a gyártó megadása szerint;
 
@@ -550,7 +550,7 @@
 
 ## 4.2.2.2. A szénmonoxid, szénhidrogének, nitrogén-oxidok és az összesített szénhidrogén és nitrogénoxid kibocsátására kapott értékek a 2. lépcsőben ne haladják meg azokat, amelyek az alábbi táblázatban láthatók:
 
-| 2. szabályozási lépcső4 |
+| 2. szabályozási lépcső31 |
 
 | Osztály | Szénmonoxid (CO) (g/kWh) | Szénhidrogén és nitrogénoxid (HC+NOx) (g/kWh) |
 
@@ -568,7 +568,7 @@
 
 | SN-4 | 610 | 12,1 |
 
-## 4 Lásd 4. számú melléklet 4. függelék, beleértve a romlási tényezőket is.
+## 31 Lásd 4. számú melléklet 4. függelék, beleértve a romlási tényezőket is.
 
 ## A nitrogénoxidok kibocsátása egyik motorosztálynál sem haladhatja meg a 10 g/kWh értéket.
 
@@ -616,10 +616,6 @@
 
 ## k – az n-től függő, az alábbi táblázat szerinti statisztikai tényező (n – a megvizsgált motorok száma):
 
-## ________________
-
-## 5 ahol n a megvizsgált motorok száma.
-
 | n | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 | k | 0,973 | 0,613 | 0,489 | 0,421 | 0,376 | 0,342 | 0,317 | 0,296 | 0,279 |
@@ -629,6 +625,10 @@
 | k | 0,265 | 0,253 | 0,242 | 0,233 | 0,224 | 0,216 | 0,210 | 0,203 | 0,198 |
 
 ## ha n ≥ 20, akkor
+
+## ____________
+
+## 5 ahol n a megvizsgált motorok száma.
 
 ## 5.3.3. A gyártás megfelelőségének megállapításáért felelős jóváhagyó hatóság, vagy a műszaki szolgálat a vizsgálatokat a gyártó előírásainak megfelelően részben vagy teljesen bejáratott motorokon végzi el.
 
@@ -718,8 +718,131 @@
 
 ## 7.2. Ha az egy családba tartozó motorok olyan változó tulajdonságokkal is rendelkeznek amelyekről feltételezhető, hogy hatással vannak a szennyezőanyag-kibocsátásra, ezeket a tulajdonságokat is meg kell állapítani, és figyelembe kell venni az alapmotor kiválasztásánál.
 
+## 8. A III B. ÉS IV. SZAKASZRA VONATKOZÓ TÍPUS-JÓVÁHAGYÁSI KÖVETELMÉNYEK
+
+## 8.1. Ez a pont azokra az elektronikus vezérlésű motorokra vonatkozik, amelyek mind az üzemanyag-befecskendezés mennyiségét, mind időzítését elektronikusan vezérlik (a továbbiakban: motorok). Ez a pont a motoron az e melléklet 4.1.2.5. és 4.1.2.6. pontjában meghatározott kibocsátási határértékeknek való megfelelés érdekében használt technológiától függetlenül alkalmazandó.
+
+## 8.2. Fogalommeghatározások
+
+## E pont alkalmazásában:
+
+## 8.2.1. kibocsátáscsökkentő stratégia: a kibocsátáscsökkentő rendszer egy kibocsátáscsökkentő alapstratégiával és kibocsátáscsökkentő segédstratégiákkal való kombinációja, amely vagy a motor, vagy annak a nem közúti mozgó gép általános kialakításának részét képezi, amelybe a motort beszerelték.
+
+## 8.2.2. reagens: bármely olyan fogyó vagy nem újratermelődő anyag, amelyre a kipufogógáz-utókezelő rendszer hatékony működése érdekében van szükség, illetve amelyet erre használnak.
+
+## 8.3. Általános követelmények
+
+## 8.3.1. A kibocsátáscsökkentő alapstratégiára vonatkozó követelmények
+
+## 8.3.1.1. A kibocsátáscsökkentő alapstratégiát, amely a motor üzemeltetése alatti teljes fordulatszám- és nyomatéktartományban aktív, úgy kell kialakítani, hogy a motor megfeleljen az ebben az irányelvben foglalt rendelkezéseknek.
+
+## 8.3.1.2. Minden olyan kibocsátáscsökkentő alapstratégia tilos, amely különbséget tud tenni a szabványosított típus-jóváhagyási vizsgálat alatti és egyéb üzemeltetési körülmények melletti motorműködés között, és ennélfogva a típus- jóváhagyási eljárás lényeges körülményeihez képest eltérő körülmények melletti működés esetén alacsonyabb kibocsátáscsökkentő teljesítményt eredményez.
+
+## 8.3.2. A kibocsátáscsökkentő segédstratégiára vonatkozó követelmények
+
+## 8.3.2.1. Kibocsátáscsökkentő segédstratégiát lehet használni motorokban vagy nem közúti mozgó gépekben, feltéve, hogy a segédstratégia aktív állapotban – bizonyos környezeti vagy üzemeltetési körülményekre adott válaszként – módosítja ugyan a kibocsátáscsökkentő alapstratégiát, de állandó jelleggel nem csökkenti a kibocsátáscsökkentő rendszer hatékonyságát.
+
+## a) ha a kibocsátáscsökkentő segédstratégia a típus-jóváhagyási vizsgálat alatt aktiválódik, a 8.3.2.2. és 8.3.2.3. pontot nem kell alkalmazni;
+
+## b) ha a kibocsátáscsökkentő segédstratégia nem aktiválódik a típus-jóváhagyási vizsgálat alatt, igazolni kell, hogy a kibocsátáscsökkentő segédstratégia csak annyi ideig aktív, amennyi a 8.3.2.3. pontban foglalt célok érdekében szükséges.
+
+## 8.3.2.2. E pont vonatkozásában a következő feltételek mindegyikének teljesülnie kell:
+
+## a) 1 000 métert meg nem haladó tengerszint feletti magasság (vagy 90 kPa-nak megfelelő légnyomás);
+
+## b) 275 K és 303 K (2 °C és 30 °C) közötti környezeti hőmérséklet;
+
+## c) a motorhűtő közeg hőmérséklete 343 K (70 °C) feletti.
+
+## A motor a), b) és c) pontban leírt feltételek szerinti működése esetén a kibocsátáscsökkentő segédstratégia csak kivételesen aktiválódhat.
+
+## 8.3.2.3. A kibocsátáscsökkentő segédstratégia különösen a következő célokból aktiválódhat:
+
+## a) fedélzeti vezérlőjelek általi aktiválás a motor védelmében (ideértve a levegőrendszer védelmét is) és/vagy azon nem közúti mozgó gép védelmében, amelybe a motor be van építve;
+
+## b) az üzembiztonság és az üzemeltetési stratégiák érdekében;
+
+## c) a túlzott kibocsátás megelőzése érdekében hidegindítás, a motor bemelegítése vagy leállítása alatt;
+
+## d) meghatározott környezeti vagy üzemeltetési körülmények esetén az előírás hatálya alá eső valamelyik szennyező anyag kibocsátásának ellenőrzéséről történő lemondás annak érdekében, hogy cserében a többi szennyező anyag kibocsátása az adott motorra vonatkozó határértékeken belül maradjon. A cél egy természetes jelenség hatásának oly módon történő ellensúlyozása, aminek eredményeképpen az összes szennyező komponens elfogadható mértékben szabályozható marad.
+
+## 8.3.2.4. A gyártó köteles a műszaki hatóságnak a típus-jóváhagyási vizsgálat időpontjában igazolni, hogy a kibocsátáscsökkentő segédstratégiák működése megfelel a 8.3.2. pontban foglalt követelményeknek. Az igazolás a 8.3.3. pontban említett dokumentáció értékelésével történik.
+
+## 8.3.2.5. Kibocsátáscsökkentő segédstratégia csak a 8.3.2. pontban leírtaknak megfelelően működhet.
+
+## 8.3.3. A dokumentációra vonatkozó követelmények
+
+## 8.3.3.1. A gyártónak a típus-jóváhagyási kérelem mellett adatközlő mappát kell benyújtania a műszaki szolgálatnak, amely tájékoztatást nyújt valamennyi szerkezeti elemről és kibocsátáscsökkentő stratégiáról, valamint azokról az eszközökről, amelyekkel a segédstratégia közvetlen vagy közvetett módon a kimeneti változókat szabályozza. Az adatközlő mappa két részből áll:
+
+## a) a típus-jóváhagyási kérelem mellé csatolt dokumentációs csomagból, amelynek teljes áttekintést kell adnia a kibocsátáscsökkentő stratégiáról. Igazolni kell, hogy minden olyan kimeneti állapot ismert, amelyet a különböző egységek bemeneti jeleit felhasználó szabályozási mátrix lehetővé tesz. Az erről szóló dokumentáció a II. mellékletben említett adatközlő mappa részét kell, hogy képezze;
+
+## b) abból a kiegészítő anyagból, amelyet ugyan bemutatnak a műszaki szolgálatnak, de nem kell csatolni a típusjóváhagyási kérelemhez, és amelynek magában kell foglalnia a kibocsátáscsökkentő segédstratégia által módosított paramétereket és a stratégia működésének peremfeltételeit, különösen a következőket:
+
+## ba) a hatékony kibocsátáscsökkentést eredményező üzemanyagrendszer és más fontos rendszerek (kipufogógáz-visszavezető rendszer (EGR) vagy reagensadagolás) szabályozási logikájának, az időzítési stratégiáknak, valamint a »ki-be« kapcsolási pontoknak a leírása valamennyi üzemmódra;
+
+## bb) a motoron alkalmazott valamennyi kibocsátáscsökkentő segédstratégia használatának indokolása, a szennyezőanyag-kibocsátásra gyakorolt hatásokat bemutató anyag és mérési adatok kíséretében. Az indokolás alapulhat mérési adatokon, megalapozott műszaki elemzésen vagy a kettő kombinációján;
+
+## bc) a NOx -szabályozás helytelen működésének felismerésére, elemzésére és diagnosztizálására használt algoritmusok vagy (adott esetben) szenzorok részletes leírása;
+
+## bd) a 8.4.7.2. pontban említett követelményeknél használt tűréshatárok, az alkalmazott módszertől függetlenül.
+
+## 8.3.3.2. A 8.3.3.1. pont b) alpontjában említett kiegészítő anyagot a jóváhagyó hatóság kérésére a rendelkezésére kell bocsátani. A hatóság ezen iratanyag tekintetében – üzleti érdekére hivatkozással a gyártó által benyújtott kérelem alapján – további ügyfelek iratbetekintési jogát korlátozza (ezen iratanyagot bizalmasan kezeli).
+
+## 8.4. A NOx -szabályozásra szolgáló megoldások helyes működését biztosító követelmények
+
+## 8.4.1. A gyártónak – a II. melléklet 1. függelékének 2. pontjában és a II. melléklet 3. függelékének 2. pontjában meghatározott dokumentumokat használva – az NOx -szabályozásra szolgáló intézkedések működési jellemzőit teljes mértékben leíró információt kell benyújtania.
+
+## 8.4.2. Reagenst igénylő kibocsátáscsökkentő rendszer esetében a gyártónak – a II. melléklet 1. függelékének 2.2.1.13. pontja és 3. függelékének 2.2.1.13. pontja szerint – meg kell adnia a reagens jellemzőit, ideértve a reagens típusát, a feloldott reagens koncentrációját, az üzemi hőmérsékleti feltételeket, valamint a reagens összetételére és minőségére vonatkozó nemzetközi szabványokra való hivatkozást.
+
+## 8.4.3. A motor kibocsátáscsökkentő stratégiájának működnie kell a Közösség területén szokásosan előforduló minden környezeti feltétel mellett, különösen alacsony környezeti hőmérsékletek esetén is.
+
+## 8.4.4. A gyártónak igazolnia kell, hogy reagens használata esetén a típus-jóváhagyási eljárás során alkalmazandó kibocsátásmérési ciklus alatt az ammóniakibocsátás nem haladja meg a 25 ppm átlagértéket.
+
+## 8.4.5. Ha a nem közúti mozgó gépekre különálló reagenstartályokat szerelnek fel vagy kapcsolnak hozzájuk, biztosítani kell a tartályban található reagensből való mintavételt. A mintavételi pontnak speciális szerszám vagy eszköz használata nélkül is könnyen hozzáférhetőnek kell lennie.
+
+## 8.4.6. Használati és karbantartási követelmények
+
+## 8.4.6.1. A típusjóváhagyást a 4. cikk (3) bekezdésének megfelelően ahhoz a feltételhez kell kötni, hogy a nem közúti mozgó gépek kezelőit legalább az alábbiakat magában foglaló írásbeli használati utasítással látják el:
+
+## a) a beszerelt motor helytelen működtetéséből, használatából vagy karbantartásából eredő lehetséges működési hibákat elmagyarázó, részletes figyelmeztetések a hozzájuk tartozó hibaelhárítási intézkedésekkel együtt;
+
+## b) a gép helytelen használatából adódó lehetséges motorműködési hibákat elmagyarázó, részletes figyelmeztetések a hozzájuk tartozó hibaelhárítási intézkedésekkel együtt;
+
+## c) a reagens helyes használatára vonatkozó információ és utasítás a reagens újratöltési gyakoriságáról a szokásos karbantartási időpontok között;
+
+## d) egyértelmű figyelmeztetés arról, hogy az adott motortípusra kiállított típus-jóváhagyási tanúsítvány csak a következő feltételek együttes teljesülése mellett érvényes:
+
+## da) a motort a megadott használati utasítások szerint működtetik, használják és tartják karban;
+
+## db) helytelen működés, használat vagy karbantartás esetén azonnal felléptek az a) és b) pontban említett figyelmeztetésekben megadott hibaelhárítási intézkedéseknek megfelelően;
+
+## dc) a motort nem használták szándékosan rendeltetésének nem megfelelően, és főként nem hatástalanították a kipufogógáz-visszavezető vagy a reagens-adagoló rendszert.
+
+## Az utasításokat egyértelműen és érthetően (nem szaknyelven) kell megfogalmazni, ugyanazt a nyelvezetet használva, mint a nem közúti mozgó gépekhez vagy azok motorjaihoz tartozó kezelői kézikönyvben.
+
+## 8.4.7. Reagens-szabályozás (ha van)
+
+## 8.4.7.1. A típusjóváhagyást a 4. cikk (3) bekezdésének megfelelően ahhoz a feltételhez kell kötni, hogy a gép kezelőjét kijelzőkkel vagy – a nem közúti mozgó gép adott konfigurációjának megfelelően – más alkalmas módon tájékoztatják a következőkről:
+
+## a) a reagens tároló tartályban maradt reagens mennyisége, valamint külön jelzés arról, ha a reagens mennyisége a teli tartály űrtartalmának 10 %-a alá csökkent;
+
+## b) ha a reagens tároló tartály kiürül vagy majdnem kiürül;
+
+## c) ha a tartályban lévő reagens a beépített eszközök szerint nem felel meg a II. melléklet 1. függelékének 2.2.1.13. pontja vagy 3. függelékének 2.2.1.13. pontja szerint bejelentett vagy feljegyzett jellemzőknek;
+
+## d) ha megszakad a reagens adagolás, kivéve az olyan eseteket, amikor azt a motorvezérlő egység vagy az adagolás-szabályozó szakítja meg azon motorüzemeltetési körülményekre reagálva, amelyek mellett nincs szükség adagolásra, feltéve, hogy ezeket az üzemeltetési körülményeket a jóváhagyó hatóság tudomására hozták.
+
+## 8.4.7.2. A reagensnek a bejelentett jellemzőknek és a kapcsolódó NOx-kibocsátási tűréshatároknak való megfelelőségére vonatkozó követelményeket az alábbi módszerek valamelyikével kell teljesíteni, a gyártó döntése szerint:
+
+## a) közvetlen módszerek, mint például a reagens minőségét érzékelő szenzor használata;
+
+## b) közvetett módszerek, mint például NOx-érzékelő használata a kipufogórendszerben a reagens hatékonyságának értékelésére;
+
+## c) bármilyen egyéb módszer, feltéve, hogy hatékonysága legalább megegyezik az a) vagy b) pontban említett módszerek hatékonyságával, és az ebben a pontban foglalt fő követelményeknek eleget tesznek.
+
 2. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez
+együttes rendelethez[^31]
 
-[^26]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
+[^30]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
+[^31]: A 2. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

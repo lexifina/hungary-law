@@ -126,9 +126,79 @@
 
 ## motor-fordulatszámnál és 100%-os terhelésnél: ............................... kPa
 
-## 2. Kiegészítő szennyezés-korlátozó készülékek (ha van ilyen és nem szerepel más rovatban)
+## 2. LÉGSZENNYEZÉS ELLENI INTÉZKEDÉSEK
 
-## – Leírás és/vagy rajz(ok):
+## 2.1. Kartergázok visszavezetésére szolgáló eszköz: van/nincs(*)
+
+## 2.2. További szennyezéscsökkentő berendezések (ha vannak ilyenek, és ha nem szerepelnek más cím alatt):
+
+## 2.2.1. Katalizátor: van/nincs(*)
+
+## 2.2.1.1. Gyártmány(ok):
+
+## 2.2.1.2. Típus(ok):
+
+## 2.2.1.3. A katalizátor és elemek száma:
+
+## 2.2.1.4. A katalizátor(ok) mérete és térfogata:
+
+## 2.2.1.5. A katalitikus reakció típusa:
+
+## 2.2.1.6. Teljes nemesfémtöltet:
+
+## 2.2.1.7. Relatív koncentráció:
+
+## 2.2.1.8. Hordozó (szerkezete és anyaga):
+
+## 2.2.1.9. Cellasűrűség:
+
+## 2.2.1.10. A katalizátor(ok) házának típusa:
+
+## 2.2.1.11. A katalizátor(ok) elhelyezése (helye és a motortól mért legkisebb/legnagyobb távolsága):
+
+## 2.2.1.12. Szokásos üzemi tartomány (K):
+
+## 2.2.1.13. Fogyó reagens (ha van):
+
+## 2.2.1.13.1. A katalitikus folyamathoz szükséges reagens típusa és koncentrációja:
+
+## 2.2.1.13.2. A reagens szokásos üzemi hőmérséklet-tartománya:
+
+## 2.2.1.13.3. Nemzetközi szabvány (ha van):
+
+## 2.2.1.14. NOx-érzékelő: van/nincs(*)
+
+## 2.2.2. Oxigénérzékelő: van/nincs(*)
+
+## 2.2.2.1. Gyártmány(ok):
+
+## 2.2.2.2. Típus:
+
+## 2.2.2.3. Elhelyezés:
+
+## 2.2.3. Légbefúvás: van/nincs(*)
+
+## 2.2.3.1. Típus (rezgőszelep, levegőszivattyú stb.):
+
+## 2.2.4. Kipufogógáz-visszavezetés: van/nincs(*)
+
+## 2.2.4.1. Jellemzők (hűtött/nem hűtött, magas/alacsony nyomás stb.):
+
+## 2.2.5. Részecskecsapda: van/nincs(*)
+
+## 2.2.5.1. A részecskecsapda mérete és térfogata:
+
+## 2.2.5.2. A részecskecsapda típusa és kialakítása:
+
+## 2.2.5.3. Elhelyezés (hely és a motortól mért legkisebb/legnagyobb távolság):
+
+## 2.2.5.4. A regenerálás módja vagy rendszere, leírás, illetve rajz:
+
+## 2.2.5.5. Szokásos üzemi hőmérséklet- (K) és nyomástartomány (kPa):
+
+## 2.2.6. Más rendszerek: van/nincs(*)
+
+## 2.2.6.1. Leírás és működés:
 
 ## 3. Üzemanyag-ellátás
 
@@ -193,6 +263,10 @@
 ## 4.1. A maximális szelepnyitás és a nyitási és zárási szögek a holtpontokhoz képest, vagy egyenértékű adatok:
 
 ## 4.2. Referencia és/vagy beállítási tartományok
+
+## __________________________
+
+## (*) A nem kívánt rész törlendő.
 
 ## 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 2. számú mellékletéhez
 
@@ -342,9 +416,79 @@
 
 ## motor-fordulatszámnál és 100%-os terhelésnél: .................. kPa
 
-## 2. Kiegészítő kibocsátás-korlátozó készülékek (ha van ilyen és nem szerepel más rovatban)
+## 2. LÉGSZENNYEZÉS ELLENI INTÉZKEDÉSEK
 
-## - Leírás és/vagy rajz(ok):
+## 2.1. Kartergázok visszavezetésére szolgáló eszköz: van/nincs(*)
+
+## 2.2. További szennyezéscsökkentő berendezések (ha vannak ilyenek, és ha nem szerepelnek más cím alatt):
+
+## 2.2.1. Katalizátor: van/nincs(*)
+
+## 2.2.1.1. Gyártmány(ok):
+
+## 2.2.1.2. Típus(ok):
+
+## 2.2.1.3. A katalizátor és elemek száma:
+
+## 2.2.1.4. A katalizátor(ok) mérete és térfogata:
+
+## 2.2.1.5. A katalitikus reakció típusa:
+
+## 2.2.1.6. Teljes nemesfémtöltet:
+
+## 2.2.1.7. Relatív koncentráció:
+
+## 2.2.1.8. Hordozó (szerkezete és anyaga):
+
+## 2.2.1.9. Cellasűrűség:
+
+## 2.2.1.10. A katalizátor(ok) házának típusa:
+
+## 2.2.1.11. A katalizátor(ok) elhelyezése (helye és a motortól mért legkisebb/legnagyobb távolsága):
+
+## 2.2.1.12. Szokásos üzemi tartomány (K):
+
+## 2.2.1.13. Fogyó reagens (ha van):
+
+## 2.2.1.13.1. A katalitikus folyamathoz szükséges reagens típusa és koncentrációja:
+
+## 2.2.1.13.2. A reagens szokásos üzemi hőmérséklet-tartománya:
+
+## 2.2.1.13.3. Nemzetközi szabvány (ha van):
+
+## 2.2.1.14. NOx-érzékelő: van/nincs(*)
+
+## 2.2.2. Oxigénérzékelő: van/nincs(*)
+
+## 2.2.2.1. Gyártmány(ok):
+
+## 2.2.2.2. Típus:
+
+## 2.2.2.3. Elhelyezés:
+
+## 2.2.3. Légbefúvás: van/nincs(*)
+
+## 2.2.3.1. Típus (rezgőszelep, levegőszivattyú stb.):
+
+## 2.2.4. Kipufogógáz-visszavezetés: van/nincs(*)
+
+## 2.2.4.1. Jellemzők (hűtött/nem hűtött, magas/alacsony nyomás stb.):
+
+## 2.2.5. Részecskecsapda: van/nincs(*)
+
+## 2.2.5.1. A részecskecsapda mérete és térfogata:
+
+## 2.2.5.2. A részecskecsapda típusa és kialakítása:
+
+## 2.2.5.3. Elhelyezés (hely és a motortól mért legkisebb/legnagyobb távolság):
+
+## 2.2.5.4. A regenerálás módja vagy rendszere, leírás, illetve rajz:
+
+## 2.2.5.5. Szokásos üzemi hőmérséklet- (K) és nyomástartomány (kPa):
+
+## 2.2.6. Más rendszerek: van/nincs(*)
+
+## 2.2.6.1. Leírás és működés:
 
 ## 3. Dízelmotor tüzelőanyag-ellátó rendszere
 
@@ -470,25 +614,31 @@
 
 ## 7.4.2. Gyújtás beállítási görbe, amennyiben létezik:...”
 
+## _________________
+
+## (*) A nem kívánt rész törlendő.
+
 3. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez
+együttes rendelethez[^32]
 
 Kompresszió-gyújtású motorok vizsgálati eljárása
 
 1. Bevezetés
 
-1.1. Ez a melléklet a vizsgált motor által kibocsátott gáznemű és részecskékből álló szennyezőanyagok mennyiségének meghatározási módszerét írja le. Két vizsgálati ciklus leírását tartalmazza, amelyeket az 1. számú melléklet 1. szakaszában foglaltak szerint kell alkalmazni:
+1.1. E melléklet a vizsgált motor által kibocsátott gáz- és szilárd halmazállapotú szennyező anyagok mennyiségének meghatározására szolgáló módszert írja le.
 
-− az NRSC ciklus (stacionárius teszt mobil gépekhez és berendezésekhez), amelyet az I., II., III/A szabályozási lépcsőben és az állandó fordulatszámú motorok esetében, továbbá a III/B és IV. szabályozási lépcsőben a gáz-halmazállapotú szennyezőanyagok esetében kell alkalmazni;
+A következő mérési ciklusok alkalmazandók:
 
-− az NRTC ciklus (dinamikus teszt mobil gépekhez és berendezésekhez), amelyet a III/B és IV. szabályozási lépcsőben az állandó fordulatszámú motorok kivételével minden motornál a részecske kibocsátás meghatározásához kell alkalmazni;
+– a berendezés specifikációjának megfelelő NRSC (Non-Road Steady Speed Cycle – nem közúti állandósult állapotú ciklus), amelyet a szénmonoxidnak, a szénhidrogéneknek, a nitrogén-oxidoknak és a szilárd részecskéknek az 1. számú melléklet 1.1. és 1.2. pontjában leírt motorok kibocsátásának méréséhez kell használni az I., II. III A., III B. és IV. szakaszban,
 
-− belvízi hajók motorjánál az ISO 8178-4:2001[E] és az IMO MARPOL 73/78, VI melléklet (NOx Code) szerinti vizsgálati eljárást kell alkalmazni;
+– a berendezés specifikációjának megfelelő NRTC (Non-Road Transient Cycle – nem közúti átmeneti állapotú ciklus), amelyet a szénmonoxidnak, a szénhidrogéneknek, a nitrogén-oxidoknak és a szilárd részecskéknek az 1. számú melléklet 1.1. pontjában leírt motorok kibocsátásának méréséhez kell használni a III B. és IV. szakaszban,
 
-− vasúti motorkocsik meghajtó motorjai esetében a III/A és III/B szabályozási lépcsőben NRSC ciklust kell használni a gáz-halmazállapotú és a részecske kibocsátás meghatározásához;
+– a belvízi hajókon történő felhasználásra szánt motorokon az MSZ EN ISO 8178-4:2002 szabványban és az IMO(1) MARPOL(2) 73/78 egyezmény VI. mellékletében (NOx) meghatározott ISO mérési eljárást kell elvégezni,
 
-− vasúti mozdonyok meghajtó motorjai esetében a III/A és III/B szabályozási lépcsőben NRSC ciklust kell használni a gáz-halmazállapotú és a részecske kibocsátás meghatározásához.
+– a vasúti motorkocsik meghajtására szánt motorok gáz- és szilárd halmazállapotú szennyező anyagainak mérésére a III A. és a III B. szakaszban NRSC-t kell alkalmazni, valamint
+
+– a mozdonyok meghajtására szánt motorok gáz- és szilárd halmazállapotú szennyező anyagainak mérésére a III A. szakaszban és a III B. szakaszban NRSC-t kell alkalmazni.
 
 1.2. A vizsgálatot próbapadra szerelt, motorfékpaddal összekapcsolt motorral kell végezni.
 
@@ -504,17 +654,17 @@ Alternatív megoldásként minden egyes vizsgálati fázisban külön szűrőn l
 
 E melléklet 3. függelékében leírt módon kell minden szennyező komponensre a g/kWh értéket számítani.
 
-1.3.2. NRTC teszt
+1.3.2. NRTC-vizsgálat:
 
-Az előírt tranziens teszt ciklust, amely a nem közúti mozgó gépekbe szerelt motorok működési feltételein alapul kétszer kell lefutni:
+Az előírt átmeneti mérési ciklust, amely kifejezetten a nem közúti gépekbe épített dízelmotorok üzemeltetési körülményein alapul, kétszer kell elvégezni:
 
-− első alkalommal (hidegindítás), amikor a motor a környezeti hőmérsékletre van lehűtve, és a hűtőfolyadék, a motorolaj, a kipufogógáz utókezelő rendszer és minden motorszabályozó berendezés stabilizálódott –0–30 °C között;
+– először (hidegindítás), miután a motor elérte a szobahőmérsékletet, a motorhűtő közeg és az olaj, az utókezelő rendszerek és minden motorvezérlő segédberendezés hőmérséklete pedig 20 és 30 °C között stabilizálódott;
 
-− másodszor (melegindítás) egy 20 perces melegítés után, ami közvetlenül a hidegindítási ciklus után kezdődik.
+– másodszor (melegindítás) egy húszperces kondicionálás után, amelyet közvetlenül a hidegindításos ciklus befejezése után kell kezdeni.
 
-A teszt során az 1.3. pont szerinti szennyező anyagokat kell vizsgálni. A motorfékpad nyomaték és fordulatszám jelét használva a teljesítményt a ciklus teljes idejére integrálni kell, megkapva ezáltal a motor ciklus során végzett munkáját. A gáznemű szennyező anyagok koncentrációját meg kell határozni a ciklus során, vagy a kezeletlen kipufogógázból a gázelemzők jelének integrálásával e melléklet 3. függelékével összhangban, vagy egy teljes áramú CVS rendszer hígított kipufogógázának integrálásával, illetve zsákos módszerrel, e melléklet 3. függelékének megfelelően. A részecskék esetében arányos mintát kell venni a hígított kipufogógázból a specifikált szűrőn részleges vagy teljes áramú hígító-rendszert használva. Az alkalmazott módszertől függően meg kell határozni a hígítatlan vagy a hígított kipufogógáz áramát a ciklusra vonatkozóan, a kibocsátott szennyező anyagok tömegének számításához. A tömeg emissziót a végzett munkára vonatkoztatva adódik minden szennyező komponensre a kibocsátás g/kWh értéke.
+E vizsgálatsorozat során a fenti szennyező anyagokat kell vizsgálni. A vizsgálatsorozat a motor természetes lehűlését vagy kényszerhűtését követő hidegindításos ciklusból, kondicionálásból és egy melegindításból áll, és az összetett kibocsátás kiszámítására szolgál. A motorfékpad által mért nyomatékot és fordulatszámot használva integrálni kell a teljesítményt a ciklus idejének figyelembevételével, ami a motornak a ciklus alatt végzett munkáját adja. A gáz-halmazállapotú alkotóelemek koncentrációját a ciklus során a következő módszerek valamelyikével kell meghatározni: vagy a kezeletlen kipufogógázban a gázelemző készüléktől kapott jel integrálásával e melléklet 3. függeléke szerint, vagy a CVS teljes áramú hígítórendszer hígított kipufogógázában mért koncentráció integrálásával, vagy e melléklet 3. függeléke szerinti zsákos mintavétellel. A szilárd részecskék méréséhez a hígított kipufogógázból kell arányos mintát venni egy speciális szűrővel, akár részleges áramú, akár teljes áramú hígítás mellett. A szennyező anyagok kibocsátott tömegének kiszámításához meg kell határozni – a használt módszertől függően – a hígított vagy hígítatlan kipufogógáz-áramot a ciklus során. Mivel az egyes szennyező anyagok mennyiségét kilowattóránként kibocsátott grammban kell kifejezni, a kibocsátott tömegértékeket a motor munkavégzéséhez kell viszonyítani.
 
-Az emissziót (a g/kWh értéket) mind a hideg, mind a meleg tesztre meg kell határozni. A kombinált súlyozott emissziót a 10%-kal súlyozott hideg ciklus eredmény és a 90%-kal súlyozott meleg ciklus eredmény összege adja. A kombinált súlyozott emissziónak kell kielégítenie az előírt határértéket.
+A szennyezőanyag-kibocsátásokat (g/kWh) mind a hideg-, mind a melegindításos ciklusok során meg kell mérni. Az összetett súlyozott kibocsátások kiszámításában a hidegindításos eredményeket 10%-os, a melegindításos eredményeket 90%-os súllyal kell figyelembe venni. A súlyozott összetett eredményeknek meg kell felelniük a határértékeknek.
 
 2. Vizsgálati feltételek
 
@@ -640,87 +790,89 @@ A gázelemző készülékeken el kell végezni a nulla pont beállítást és ka
 
 3.7. A vizsgálati ciklus
 
-3.7.1. A gépnek (motornak) az 1. számú melléklet 1. pontja szerinti specifikációja függvényében:
+3.7.1. A berendezés specifikációja az 1. számú melléklet 1. pontjának megfelelően:
 
-3.7.1.1. "A" specifikáció
+3.7.1.1. „A” specifikáció
 
-Az 1. számú melléklet 1.1. és 1.4. pontja szerinti gépek esetében az alábbi 8-üzemmódú ciklust[^27] kell követni a vizsgált motorral a motorfékpadon:
+Az 1. számú melléklet 1.1. és 1.4. pontjának hatálya alá tartozó motorok esetében a fékpadi üzemeltetés során a következő nyolc üzemmódból álló ciklus[^(3)szerint] kell elvégezni a motor vizsgálatát:
 
-| Üzemmód sorszáma | Motor- fordulatszám | Terhelés (%) | Súlyozási tényező |
+|  | Üzemmód száma | Motorfordulatszám (fordulat/perc) | Terhelés (%) | Súlyozási tényező |
 
-| 1 | névleges |  |  | 100 | 0,15 |
+|  | 1 | Névleges vagy referencia (*) | 100 | 0,15 |
 
-| 2 | névleges |  |  | 75 | 0,15 |
+|  | 2 | Névleges vagy referencia (*) | 75 | 0,15 |
 
-| 3 | névleges |  |  | 50 | 0,15 |
+|  | 3 | Névleges vagy referencia (*) | 50 | 0,15 |
 
-| 4 | névleges |  |  | 10 | 0,10 |
+|  | 4 | Névleges vagy referencia (*) | 10 | 0,10 |
 
-| 5 | közbenső |  |  | 100 | 0,10 |
+|  | 5 | Közbenső | 100 | 0,10 |
 
-| 6 | közbenső |  |  | 75 | 0,10 |
+|  | 6 | Közbenső | 75 | 0,10 |
 
-| 7 | közbenső |  |  | 50 | 0,10 |
+|  | 7 | Közbenső | 50 | 0,10 |
 
-| 8 | alapjárati |  |  | - | 0,15 |
+|  | 8 | Üresjárati | – | 0,15 |
 
-3.7.1.2. "B" specifikáció
+|  | (*) A referenciasebesség meghatározása a 3. számú melléklet 4.3.1. pontjában található. |
 
-Az 1. számú melléklet 1.2. pontja szerinti gépek motorját az alábbi 5-üzemmódú ciklus[^28] szerint kell vizsgálni
+3.7.1.2. „B” specifikáció
 
-| Üzemmód sorszáma | Motor- fordulatszám | Terhelés% | Súlyozási tényező |
+Az 1. számú melléklet 1.2. pontjának hatálya alá tartozó motorok esetében a fékpadi üzemeltetés során a következő öt üzemmódból álló ciklus[^(4)] szerint kell elvégezni a motor vizsgálatát:
 
-| 1 | névleges | 100 | 0,05 |
+|  | Üzemmód száma | Motorfordulatszám (fordulat/perc) | Terhelés (%) | Súlyozási tényező |
 
-| 2 | névleges | 75 | 0,25 |
+|  | 1 | Névleges | 100 | 0,05 |
 
-| 3 | névleges | 50 | 0,30 |
+|  | 2 | Névleges | 75 | 0,25 |
 
-| 4 | névleges | 25 | 0,30 |
+|  | 3 | Névleges | 50 | 0,30 |
 
-| 5 | névleges | 10 | 0,10 |
+|  | 4 | Névleges | 25 | 0,30 |
 
-A terhelések a névleges tartós teljesítményhez tartozó nyomaték százalékában vannak megadva, ahol a névleges tartós teljesítmény az a legnagyobb teljesítmény, amely elérhető az éves üzemórák során korlátlan számban lefutható változó teljesítményű üzemállapot sorozatban, meghatározott karbantartási intervallumok között és környezeti feltételek mellett, miközben a karbantartási műveleteket a gyártó előírásainak megfelelően végrehajtják[^29].
+|  | 5 | Névleges |  |  |
 
-3.7.1.3. "C" specifikáció
+A terhelés alatt feltüntetett értékek azon névleges alapteljesítményhez tartozó nyomaték százalékos értékei, amellyel a motor a megadott karbantartási időpontok között és a megadott környezeti feltételek mellett, a gyártó által előírtak szerint végzett karbantartások mellett évente korlátlan óraszámban működtethető; a névleges alapteljesítmény változó teljesítménysorozat alatt rendelkezésre álló maximális teljesítményként értendő.
 
-A belvízi hajók meghajtó motorjának[^30] esetében az ISO 81784:2002(E) ISO szabványban és az IMO MARPOL 73/78, Annex VI (NOx Code) anyagban specifikált teszt eljárást kell alkalmazni.
+3.7.1.3. „C” specifikáció
 
-Az álladó lapátszögű hajócsavarral (fix nyomatékgörbével) működő meghajtó motort a motorfékpadon az alábbi 4 üzemmódú, állandósult állapotú ciklust[^31] alkalmazva kell vizsgálni, amelyet a kereskedelmi hajók dízelmotorjának a valós működésének reprezentálására fejlesztettek ki.
+A belvízi hajókra történő használatra szánt meghajtó motorokon[^(5)] az MSZ EN ISO 8178-4:2002 szabványban és az IMO MARPOL 73/78 egyezmény VI. mellékletében (NOx Szabályzat) meghatározott vizsgálati eljárást kell elvégezni.
 
-| Üzemmód sorszáma | Motor- fordulatszám | Terhelés% | Súlyozási tényező |
+Az állandó lapátszögű hajócsavarral (fix nyomatékgörbével) működő meghajtó motort a kereskedelmi tengerhajózási dízelmotorok üzem közbeni működésének bemutatására kifejlesztett, a következő négy üzemmódból álló, állandósult állapotú ciklus[^(6)] szerint kell a motorfékpadon vizsgálni.
 
-| 1 | 100% (névleges) | 100 | 0,20 |
+|  | Üzemmód száma | Motorfordulatszám (fordulat/perc) | Terhelés (%) | Súlyozási tényező |
 
-| 2 | 91% | 75 | 0,50 |
+|  | 1 | 100% (névleges) | 100 | 0,20 |
 
-| 3 | 80% | 50 | 0,15 |
+|  | 2 | 91% | 75 | 0,50 |
 
-| 4 | 63% | 25 | 0,15 |
+|  | 3 | 80% | 50 | 0,15 |
 
-Belvízi hajók állandó fordulatszámú, változtatható lapátszögű vagy elektromosan csatlakoztatott hajócsavarral működő meghajtó motorjait a motorfékpadon az alábbi 4 üzemmódból álló, állandósult állapotú ciklussal[^32] kell vizsgálni, amely terheléseit és súlyozó tényezőit tekintve azonos az előzővel, de a motor minden üzemmódban névleges fordulatszámon üzemel.
+|  | 4 | 63% | 25 | 0,15 |
 
-| Üzemmód sorszáma | Motor- fordulatszám | Terhelés% | Súlyozási tényező |
+Belvízi hajók állandó fordulatszámú, változtatható lapátszögű vagy elektromosan csatlakoztatott hajócsavarral működő meghajtó motorjait a fenti ciklus terhelési és súlyozási tényezőivel jellemzett, következő négy üzemmódból álló, állandósult állapotú ciklus[^(7)] szerint – de minden üzemmódban névleges fordulatszámon működtetett motorral – kell a motorfékpadon vizsgálni:
 
-| 1 | 100% | 100 | 0,20 |
+|  | Üzemmód száma | Motorfordulatszám (fordulat/perc) | Terhelés (%) | Súlyozási tényező |
 
-| 2 | 100% | 75 | 0,50 |
+|  | 1 | Névleges | 100 | 0,20 |
 
-| 3 | 100% | 50 | 0,15 |
+|  | 2 | Névleges | 75 | 0,50 |
 
-| 4 | 100% | 25 | 0,15 |
+|  | 3 | Névleges | 50 | 0,15 |
 
-3.7.1.4. "D" specifikáció
+|  | 4 | Névleges | 25 | 0,15 |
 
-Az 1. számú melléklet 1.5. pontjának hatálya alá tartozó motorokat az alábbi 3 üzemmódú ciklussal[^33] kell vizsgálni a motorfékpadon.
+3.7.1.4. „D” specifikáció
 
-| Üzemmód sorszáma | Motor- fordulatszám | Terhelés% | Súlyozási tényező |
+Az 1. számú melléklet 1.5. pontjának hatálya alá tartozó motorok esetében a fékpadi üzemeltetés során a következő három üzemmódból álló ciklus[^(8)] szerint kell elvégezni a motor vizsgálatát:
 
-| 1 | névleges | 100 | 0,25 |
+|  | Üzemmód száma | Motorfordulatszám (fordulat/perc) | Terhelés (%) | Súlyozási tényező |
 
-| 2 | közepes | 50 | 0,15 |
+|  | 1 | Névleges | 100 | 0,25 |
 
-| 3 | alapjárat | – | 0,60 |
+|  | 2 | Közbenső | 50 | 0,15 |
+
+|  | 3 | Üresjárati | – | 0,60 |
 
 3.7.2. A motor előkészítése
 
@@ -826,17 +978,19 @@ A motort nem szükséges minden egyes teszt előtt feltérképezni. A feltérké
 
 – az előző feltérképezés óta mérnöki megítélés szerint elfogadhatatlanul hosszú idő telt el; vagy
 
-− olyan fizikai változtatás vagy beszabályozás történt a motoron, amely befolyásolhatja a motor teljesítményét.
+- olyan fizikai változtatás vagy beszabályozás történt a motoron, amely befolyásolhatja a motor teljesítményét.
 
 4.3. A referencia teszt ciklus generálása
 
-4.3.1. Referencia fordulatszám
+4.3.1. Referencia-fordulatszám
 
-A referencia fordulatszám megfelel a 3. számú melléklet 4. függelékében meghatározott motorfékpadi program 100% normalizált fordulatszámának. Nyilvánvaló, hogy a denormalizálás révén kapott aktuális motorfékpadi ciklus nagy mértékben függ a referencia sebesség helyes megválasztásától. A referencia fordulatszámot az alábbi definíció alapján kell meghatározni:
+A referencia-fordulatszám (nref) a 3. számú melléklet 4. függelékében lévő motorfékpadi ciklus menetében meghatározott normált fordulatszámértékek 100%-ának felel meg. A referencia-fordulatszámra visszaszámítással kapott tényleges motorciklus nagyban függ a helyes referencia-fordulatszám megválasztásától. A referencia- fordulatszámot a következő módszerrel kell meghatározni:
 
-nref = alacsony ford.szám + 0,95 x (magas ford.szám–alacsony ford.szám),
+nref = alacsony fordulatszám + 0,95 x (magas fordulatszám – alacsony fordulatszám)
 
-(ahol "magas fordulatszám", az a legmagasabb fordulatszám, melyen a motor a névleges teljesítmény 70%-át adja le, "alacsony fordulatszám az a legalacsonyabb fordulatszám, amelyen a motor a névleges teljesítmény 50%-át adja le
+(ahol a magas fordulatszám az a legnagyobb motorfordulatszám, amely mellett a névleges teljesítmény 70%-a leadásra kerül, míg az alacsony fordulatszám az a legkisebb motorfordulatszám, amely mellett a névleges teljesítmény 50%-a leadásra kerül).
+
+Ha a mért referencia-fordulatszám legfeljebb ±3%-kal haladja meg a gyártó által megadott referencia-fordulatszámot, a megadott referencia-fordulatszámot lehet a kibocsátási vizsgálatokhoz használni. Ha a megadott értékeken kívül esik, akkor a mért referencia-fordulatszámot kell a kibocsátási vizsgálatokhoz használni(9).
 
 4.3.2. A motorfordulatszám denormalizálása
 
@@ -882,101 +1036,129 @@ Nm
 
 Tsp – 2.π..ΘD különbség kisebb, mint a csúcsnyomaték –5%-a, ne legyen 30-nál több (a kifejezésben Tsp – az igényelt nyomaték, – a motorfordulatszám idő szerinti deriváltja, ΘD az örvényáramú fék forgó tömegének tehetetlenségi nyomatéka).
 
-4.5. Az emissziós teszt végrehajtása
+4.5. Kibocsátás mérési menet
 
-A következő folyamatábra mutatja a vizsgálat végrehajtásának sorrendjét.
+A következő folyamatábra a vizsgálatsorozat menetét ábrázolja:
 
-| Motor előkészítés, előzetes tesztmérések teljesítmény ellenőrzés és beállítás |
+A mérési ciklus előtt a motor, a vizsgálókamra és a szennyezőanyag-kibocsátási rendszerek ellenőrzésére szükség szerint egy vagy több gyakorlóciklus lefuttatható.
 
-| Motortérkép generálása (maximális nyomaték görbéje) |
+____________
 
-| Egy vagy néhány gyakorló ciklus lefutása a motor – fékpad - emissziómérő rendszer ellenőrzéséhez |
+(9) Ez megfelel az MSZ ISO 8178-11:2006 szabványnak.
 
-| START |
+4.5.1. A mintavevő szűrők előkészítése
 
-| Az előírt 20 perces előkondicionáló ciklus lefutása a motor és a részecske mintavevő (PM) kondicionálására, beleértve a (részleges vagy teljes áramú) hígító alagút rendszer. A részecskéket vakszűrőn kell gyűjteni. |
+A vizsgálat megkezdése előtt legalább egy órával minden szűrőt portól védett, de a levegőcserét lehetővé tevő Petricsészébe és azzal együtt egy mérlegkamrába kell helyezni stabilizálás céljából. A stabilizálás végén minden szűrőt le kell mérni, és súlyukat fel kell jegyezni. A szűrőt ezután zárt Petricsészében vagy légmentesen lezárt szűrőtartóban kell tárolni addig, amíg nem lesz rá szükség a vizsgálathoz. A szűrőt a mérlegkamrából történő kivétel után nyolc órán belül fel kell használni. A tárasúlyt fel kell jegyezni.
 
-| A motor jár, PM rendszert by-pass (megkerülő) állásba kapcsolni, a szűrőt stabilizált és lemért mintavevő szűrőre cserélni. Minden rendszer kész a mintavételre és adatgyűjtésre. |
+4.5.2. A mérőrendszer összeállítása
 
-| Végrehajtani a meleg emissziós teszt ciklus a motor leállításától számított 5 percen belül vagy járó motorral alapjáratról indulva |
+A műszereket és a mintavevő szondákat az előírt módon kell felszerelni. Ha a kipufogógáz hígításához teljes áramú hígítórendszert használnak, a kipufogócső végét be kell kötni a rendszerbe.
 
-Egy vagy több gyakorló ciklust lehet lefutni, ha az szükséges a motor a fékpad és az emissziómérő rendszer ellenőrzésére a ciklus lefutása előtt.
+4.5.3. A hígítórendszer beindítása
 
-4.5.1. A minta szűrő előkészítése
+A hígítórendszert be kell kapcsolni. A teljes áramú hígítórendszer hígított kipufogógáz esetében a teljes áramot vagy a részleges áramú hígítórendszer hígított kipufogógáz-áramát úgy kell beállítani, hogy a rendszerben ne következzen be vízlecsapódás, és hogy a szűrő felületének hőmérséklete 315 K (42 °C) és 325 K (52 °C) között legyen.
 
-A vizsgálat előtt legalább egy órával minden egyes szűrőt porszennyezéstől védett és a légcserét lehetővé tevő Petri-csészébe kell helyezni, és a stabilizálódás érdekében a súlymérő kamrába kell helyezni. A stabilizálódási időszak végén a szűrőket le kell mérni, és a súlyukat fel kell jegyezni. Ezt követően a szűrőt lezárt Petri-csészében vagy lezárt szűrőtartóban kell tárolni, amíg a teszt során szükség nem lesz rá. A szűrőt a súlymérő kamrából történő kihozatalát követő 8 órán belül fel kell használni. A tára súlyt fel kell jegyezni.
+4.5.4. A részecske-mintavevő rendszer elindítása
 
-4.5.2. A mérőeszköz üzembe helyezése
+A részecske-mintavevő rendszert el kell indítani és megkerülő vezetéken kell járatni. A hígító levegő részecske-háttérszintje a hígító levegőnek a kipufogógáz hígító alagútba való belépése előtti mintavételével határozható meg. A részecske-háttérmintát lehetőleg a tranziens ciklus alatt kell összegyűjteni, ha egy másik részecske-mintavevő rendszer is rendelkezésre áll. Egyéb esetben a tranziens ciklus részecskéinek összegyűjtésére használt részecske-mintavevő rendszer használható. Szűrt hígító levegő használata esetén elegendő lehet egy mérés a vizsgálat előtt vagy után. Szűretlen hígító levegő használata esetén méréseket kell végezni a ciklus megkezdése előtt és a ciklus befejezése után, és az értékeket átlagolni kell.
 
-A mérőrendszert és a mintavevőt a követelményeknek megfelelően üzembe kell helyezni. A kipufogócsövet csatlakoztatni kell a teljes áramú hígító rendszerhez, ha alkalmazzák.
+4.5.5. A gázelemző készülékek ellenőrzése
 
-4.5.3. A hígító rendszer és a motor indítása és előkondicionálása
+A gázelemző készülékeken be kell állítani a nulla pontot és a mérőtartományt. Mintavevő zsákok használata esetén ezeket ki kell üríteni.
 
-A hígító rendszert és a motort indítani és bemelegíteni kell. A mintavevő rendszer előkondicionálását a motor névleges fordulatszámon és 100% nyomatékon történő, minimum 20 perces járatásával kell elvégezni, amely idő alatt üzemel a részáramú mintavevő vagy a teljes áramú mintavevő a másodlagos hígító rendszerrel. Vak mintát kell venni a kibocsátott részecskékből. A részecske szűrőket nem kell stabilizálni és lemérni, és azok eldobhatók. A szűrőanyag cserélhető a kondicionálás alatt, feltéve, hogy a szűrőn keresztüli teljes mintavételi idő túllépi a 20 percet. Az átfolyás közelítse meg a tranziens teszthez választott átfolyást. A névleges sebességet tartva a nyomatékot 100%-ról csökkenteni kell olyan mértékben, ami ahhoz szükséges, hogy a maximális hőmérséklet a mintavételi zónában ne lépje túl az előírt 191 °C-t.
+4.5.6. Lehűtési előírások
 
-4.5.4. A részecske mintavevő indítása
+Természetes lehűlés vagy kényszerhűtés alkalmazható. Kényszerhűtésnél a műszaki szempontoknak megfelelően kell összeállítani azokat a rendszereket, melyek hűtőlevegőt fújnak a motorra, hideg olajat szállítanak a motor kenőrendszerében, hőt vonnak el a motorhűtő rendszeren keresztül a hűtőközegtől és a kipufogógáz-utókezelő rendszerből. Az utókezelő rendszer kényszerhűtése esetén addig nem szabad hűtőlevegőt alkalmazni, amíg az utókezelő rendszer le nem hűl a katalizátor aktiválási hőmérséklete alá. Tilos minden olyan hűtési eljárás, amely nem reprezentatív kibocsátást eredményez.
 
-A részecske mintavevőt indítani kell és by-pass (megkerülés) állásban működtetni. A hígító levegő részecske háttér szintet meg lehet határozni a hígító levegőből történő mintavétellel, még az előtt, hogy kipufogógáz lépett volna a hígító alagútba. Előnyösebb, ha a részecske háttér mintát a tranziens ciklus lefutása alatt mérik egy másik mintavevővel, ha az rendelkezésre áll. Ellenkező esetben a tranziens ciklusban a PM mintához használt mintavevő alkalmazható. Ha a mintavevő szűrt hígító levegőt használ, egy mérés is elég a ciklus előtt vagy után. Ha nem szűrik a hígító levegőt, a ciklus előtt és után is kell mérést végezni, és az eredményeket átlagolni kell.
+A szennyezőanyag-kibocsátási vizsgálat hidegindításos ciklusát a lehűtést követően csak akkor lehet elindítani, ha a motorolaj, a hűtőközeg és az utókezelő rendszer hőmérséklete legalább 15 percen keresztül 20 °C és 30 °C közötti szinten stabil marad.
 
-4.5.5. A hígító rendszer beállítása
+4.5.7. A ciklus menete
 
-A teljes hígított kipufogógáz térfogatáramát vagy a hígított kipufogógáznak a részáramú hígító rendszeren átmenő térfogatáramát úgy kell beállítani, hogy elkerüljék a vízkondenzációt a rendszerben és a szűrő felületénél 315 K (42 °C) és 325 K (52 °C) közötti hőmérsékletet kapjunk.
+4.5.7.1. Hidegindításos ciklus
 
-4.5.6. A gázelemzők ellenőrzése
+A vizsgálatsorozatot a lehűtés befejezése után – ha a 4.5.6. pontban foglalt követelmények teljesültek – a hidegindításos ciklussal kell kezdeni.
 
-A gázelemzőket nullázni és kalibrálni kell. Mintazsák használata esetén a zsákot ki kell üríteni.
+A motort a gyártó által a felhasználói kézikönyvben megadott ajánlások szerint kell beindítani vagy sorozatgyártású indítómotorral vagy a fékpaddal.
 
-4.5.7. A motor indítási eljárása
+Amint megállapítható, hogy a motor beindult, el kell indítani egy független alapjárati időzítőt. Hagyni kell, hogy a motor 23±1 s-en keresztül szabadon, terhelés nélkül fusson alapjáraton. A tranziens motorciklus elindítását úgy kell időzíteni, hogy a ciklus első, nem alapjárati adatrögzítésére 23±1 s elteltével kerüljön sor. A terhelés nélküli alapjárat ideje benne van a 23±1 s-ben.
 
-A stabilizált motor a bemelegítő szakasz befejezése után 5 percen belül be kell indítani a gyártó által a kezelési utasításban javasolt módszerrel, vagy a saját indítómotorját vagy a fékpadot használva. Választható módon a tesztet meg lehet kezdeni a motor előkondicionálási szakasza után 5 percen belül a motor leállítása nélkül, amikor a motort alapjáraton járatják.
+A vizsgálatot a 3. számú melléklet 4. függelékében leírt referenciaciklus szerint kell végrehajtani. A fordulatszám- és nyomatékvezérlő jeleket legalább 5/s gyakorisággal kell kiadni (10/s ajánlott). A beállítási pontokat a referenciaciklus 1/s gyakoriságú beállítási pontjai között lineáris interpolációval kell kiszámítani. A mért fordulatszámot és nyomatékot a mérési ciklus alatt legalább 1/s gyakorisággal regisztrálni kell; a jelek elektronikus szűrése megengedett.
 
-4.5.8. A ciklus lefutása
+4.5.7.2. A gázelemző-készülék kijelzése
 
-4.5.8.1. A teszt sorrendje
+A motor beindításakor el kell indítani a mérőrendszert. Ezzel egyidejűleg el kell kezdeni:
 
-A vizsgálatot végre lehet hajtani az előkondicionálás után leállított motor indításával, vagy alapjáratról, ha a tesztet közvetlenül az előkondicionálás után járó motorral kezdik. A tesztet a 3. számú melléklet 4. függelék szerinti referencia ciklusnak megfelelően kell végrehajtani. A motor fordulatszám nyomaték pontokat beállító parancsokat 5 Hz vagy nagyobb frekvenciával kell kiadni (10 Hz ajánlott). A beállítási pontokat a referencia ciklus 1 Hz-es beállítási pontjai közötti lineáris interpolációval kell számítani. A kijelzett motor fordulatszámot és nyomatékot a ciklus során legalább 1 s gyakorisággal regisztrálni kell. A jeleket lehet elektronikusan szűrni.
+– teljes áramú hígítórendszer esetében a hígított levegő gyűjtését vagy elemzését,
 
-4.5.8.2. A gázelemző válasz
+– a hígítatlan vagy hígított (az alkalmazott módszertől függően) kipufogógáz gyűjtését vagy elemzését,
 
-A motor indításakor vagy a teszt kezdetén, ha azt közvetlenül az előkondicionálástól kezdik, a mérőberendezéseket indítani kell, egyidejűleg
+– a hígított kipufogógáz mennyiségének, valamint az előírt hőmérsékleteknek és nyomásoknak a mérését,
 
-− indul a hígító levegő gyűjtése vagy elemzése, ha teljes áramú hígító rendszert használnak,
+– hígítatlan kipufogógáz elemzése esetén a kipufogógáz-tömegáram regisztrálását,
 
-− indul a kezeletlen vagy a hígított kipufogógáz gyűjtése vagy elemzése, az alkalmazott módszertől függően;
+– a fékpad által mért fordulatszám- és nyomatékadatok regisztrálását.
 
-− indul a hígított kipufogógáz mennyiségének, és a megkövetelt hőmérsékleteknek, nyomásoknak a mérése;
+Hígítatlan kipufogógáz mérése esetén a szennyezőanyag-koncentrációkat (szénhidrogének, CO és NOx) és a kipufogógáz tömegáramát folyamatosan mérni kell, és legalább 2/s gyakorisággal számítógépes rendszerben kell regisztrálni. Minden más adatot legalább 1/s mintavételi gyakorisággal lehet regisztrálni. Analóg gázelemző készülékek esetében a választ regisztrálni kell; a kalibrációs adatok alkalmazása történhet online vagy offline módon az adatértékelés során.
 
-− kezdődik a kijelzett fordulatszám és nyomaték adatoknak a regisztrálása.
+Teljes áramú hígítórendszer esetében a szénhidrogént és az NOx-et folyamatosan legalább 2/s gyakorisággal kell mérni a hígító alagútban. Az átlagos koncentrációkat a gázelemző készülék által az egész mérési ciklus alatt adott jelek integrálásával kell meghatározni. A rendszer válaszideje nem lehet 20 s-nál hosszabb, és szükség esetén össze kell hangolni az állandó térfogatú mintavétel (CVS) áramlásingadozásával és a mintavételi idő/mérési ciklus eltolódásaival. A CO, CO2 értékeit integrálással, vagy a mintavevő zsákban a ciklus alatt összegyűjtött gáz koncentrációjának elemzésével kell meghatározni. A hígító levegőben található gázhalmazállapotú szennyező anyagok koncentrációját integrálással vagy a háttérzsákba történő begyűjtéssel kell meghatározni. Minden más mérendő paramétert legalább 1/s gyakorisággal kell regisztrálni.
 
-Kezeletlen kipufogógáz mérése esetén a gázkoncentrációkat (HC, CO és NOx), valamint a kipufogógáz tömegáramát folyamatosan, legalább 2 Hz gyakorisággal kell mérni és tárolni a komputer rendszerben. Minden más adat mérhető legalább 1 Hz gyakorisággal. Analóg gázelemzők esetén a kijelzést regisztrálni kell, és ezután a kalibrációs adatok használhatók az adatok on-line vagy off-line értékelése során.
+4.5.7.3. Részecske-mintavétel
 
-Teljes áramú hígító rendszer használata esetén HC és NOx koncentrációt folyamatosan, legalább 2 Hz gyakorisággal kell mérni a hígító alagútban. Az átlagos koncentrációt a gázelemző jelek integrálásával kell meghatározni a teljes ciklusra. A rendszer válaszideje ne legyen nagyobb 20 s-nél, és össze kell hangolni a CVS áramlás ingadozását és a minta idő/teszt ciklus eltolódást, ha szükséges. A CO-t és CO2-t integrálással, vagy a mintavevő zsákba a teljes ciklus alatt vett minta koncentrációjának mérésével kell meghatározni. A hígító levegő szennyező gáz koncentrációját integrálással vagy háttér mintazsákban történő gyűjtéssel kell megállapítani. Minden mérendő jellemzőt legalább egy érték/másodperc (1 Hz) gyakorisággal regisztrálni kell.
+A motor beindításakor a részecske-mintavevő rendszert a megkerülő ágról át kell kapcsolni részecskegyűjtésre.
 
-4.5.8.3. Részecske mintavétel
+Részleges áramú hígítórendszer esetében a mintavevő szivattyú(ka)t úgy kell beállítani, hogy a részecske-mintavevő szondán vagy az átvezető csövön átáramló mennyiség mindig arányos legyen a kipufogógáz-tömegárammal.
 
-A motor indításakor, vagy a teszt kezdetén, ha azt közvetlenül az előkondicionálástól kezdik, a részecske mintavevőt by-pass állásból részecske gyűjtésre kell átkapcsolni.
+Teljes áramú hígítórendszer esetében a mintavevő szivattyú(ka)t úgy kell beállítani, hogy a részecske-mintavevő szondán vagy az átvezető csövön átáramló mennyiség ±5% tűréssel egyenlő maradjon a beállított áramlási mennyiséggel. Ha áramláskiegyenlítést (azaz arányos mintaáram-szabályozást) alkalmaznak, akkor igazolni kell, hogy a főalagút áramának és a részecskeminta áramának aránya nem változik meg a beállított értéknél ±5%-nál nagyobb mértékben (kivéve a mintavétel első 10 másodpercét).
 
-Részáramú hígító rendszer alkalmazása esetén a minta szivattyút (szivattyúkat) úgy kell beállítani, hogy a mintavevő szondánál vagy az átvezető csőnél a minta áramának és kipufogógáz tömegáramának aránya állandó maradjon.
+MEGJEGYZÉS: Kétszeres hígítású üzemeltetés esetében a mintaáram a mintavevő szűrőkön áthaladó áram és a másodlagos hígító levegő áramának nettó különbsége.
 
-Teljes áramú hígító rendszer alkalmazása esetén a minta szivattyút (szivattyúkat) úgy kell beállítani, hogy a minta árama a mintavevő szondánál vagy az átvezető csőnél maradjon a beállított érték ±5% tartományon belül. Ha áramlás kompenzációt (pl. a mintaáram arányos szabályozását) alkalmaznak, bizonyítani kell a fő alagút és a részecske minta áramának aránya nem tér el ±5%-nál nagyobb mértékben a beállított értéktől (kivéve a mintavétel első 10 s-át).
+Regisztrálni kell az átlagos hőmérsékletet és nyomást a gázmérő(k) vagy áramlásmérő műszerek belépési pontján. Ha a beállított áramlási sebesség a szűrő nagy részecsketerhelése miatt nem tartható a teljes ciklus alatt (±5%-on belül), a vizsgálatot érvénytelennek kell tekinteni. A vizsgálatot meg kell ismételni kisebb áramlási sebességgel, illetve nagyobb átmérőjű szűrővel.
 
-Megjegyzés: kettős hígítású üzemben a minta árama a minta szűrő áramának és a másodlagos hígító levegő áramának nettó különbsége.
+4.5.7.4. Motorleállás hidegindításos ciklus alatt
 
-A gázóra vagy áramlásmérő eszköz bemeneténél az átlagos hőmérsékletet és nyomást regisztrálni kell. Ha a beállított áramlás nem lehet az egész ciklus alatt állandó értéken tartani (±5% tartományon belül) a szűrő magas részecske terhelése miatt, a teszt érvénytelen. A vizsgálatot meg kell ismételni, alacsonyabb mintaárammal vagy nagyobb átmérőjű szűrővel.
+Ha a hidegindításos mérési ciklus valamely pontján a motor leáll, a motort elő kell kondicionálni, a lehűtést meg kell ismételni, majd újra kell indítani a motort, és meg kell ismételni a vizsgálatot. Ha a mérési ciklus során bármelyik mérőműszer hibásan működik, a vizsgálatot érvénytelennek kell tekinteni.
 
-4.5.8.4. A motor leállása
+4.5.7.5. A hidegindításos mérési ciklus utáni műveletek
 
-Amennyiben a motor a ciklusban bármikor leáll, a motort újra kondicionálva és indítva a tesztet meg kell ismételni. Az előírt teszt berendezések bármely, a ciklus alatt fellépő hibája esetén a teszt érvénytelen.
+A hidegindításos mérési ciklus befejezésekor le kell állítani a kipufogógáz tömegáramának és a hígított kipufogógáz térfogatának mérését, a gyűjtőzsákokba menő gázáramot és a részecske-mintavevő szivattyút. Integráló gázelemző rendszer esetében a mintavételt a rendszer válaszidejének végéig kell folytatni.
 
-4.5.8.5. A teszt utáni műveletek
+Gyűjtőzsák használata esetén a bennük lévő gázok koncentrációját minél előbb, de a ciklus befejezésétől számított 20 percnél semmiképpen sem később elemezni kell.
 
-A teszt befejezésekor a kipufogógáz tömegáram, a hígított kipufogógáz térfogatáram mérését, a minta áramlást a gyűjtőzsákba, a részecske mintavevő szivattyúját le kell állítani. Integráló gázelemző rendszernél a mintavételt folytatni kell a rendszer válaszidejének elteléséig.
+A szennyezőanyag-vizsgálat után a nullázó gázzal és ugyanazzal a kalibráló gázzal meg kell ismételni a gázelemző készülékek ellenőrzését. A vizsgálat akkor tekinthető elfogadhatónak, ha a vizsgálatot megelőző és a vizsgálatot követő mérési eredmények közötti különbség a kalibráló gáz koncentrációjának 2%-ánál kisebb.
 
-A mintazsák koncentrációját, ha használnak ilyet, a lehető leghamarabb elemezni kell, de semmi esetre sem 20 percnél többel a ciklus befejezésétől számítva.
+A részecskeszűrőket a vizsgálat befejezését követő egy órán belül vissza kell helyezni a mérlegkamrába. A szűrőket legalább egy órán át portól védett és levegőcserét lehetővé tévő Petricsészében kell kondicionálni, és azután meg kell mérni a tömegüket. A szűrők bruttó tömegét fel kell jegyezni.
 
-A teszt után vissza kell ellenőrizni a gázelemzőket nulla és kalibráló gázzal. A teszt akkor fogadható el, ha az előtte és utána végzett vizsgálat eredményei közötti különbség kisebb a kalibráló gáz névleges értékének 2%-ánál.
+4.5.7.6. Kondicionálás
 
-A részecske szűrőket a teszt befejezésétől számított egy órán belül vissza kell vinni a súlymérő kamrába. Porszennyezéstől védett és a légcserét lehetővé tevő Petri-csészébe kell helyezni és legalább egy órán át kondicionálni kell őket, majd a súlyukat meg kell mérni. A szűrők bruttó súlyát kell feljegyezni.
+Közvetlenül a motor kikapcsolása után – ha használatban voltak – a motorhűtő ventilátor(oka)t és a CVS légfúvót is ki kell kapcsolni (vagy le kell kapcsolni a kipufogórendszert a CVS-ről).
+
+Ezután kondicionálni kell a motort 20±1 percen át, majd elő kell készíteni a motort és a fékpadot a melegindításos ciklusra. A kiürített mintagyűjtő zsákokat csatlakoztatni kell a hígított gáz és hígított levegő mintagyűjtő rendszereire. Be kell kapcsolni a CVS-t (ha használunk ilyet és még nem volt bekapcsolva), illetve csatlakoztatni kell a kipufogórendszert a CVS-hez (ha szét voltak kapcsolva). El kell indítani a mintavevő szivattyúkat (a részecske-mintavevő szivattyú(k) kivételével), a motorhűtő ventilátor(oka)t és az adatgyűjtő rendszert.
+
+A vizsgálat megkezdése előtt az állandó térfogatú mintavételi rendszer hőcserélőjét (ha használunk ilyet) és adott esetben a folyamatos működésű mintavételi rendszer(eke)t elő kell melegíteni a kijelölt üzemi hőmérsékletre.
+
+A mintaáramlási sebességet a kívánt áramlási sebességre, a CVS gázáramlást mérő eszközöket pedig nullára kell állítani. Óvatosan minden szűrőtartóba tiszta részecskeszűrőt kell tenni, és az összeszerelt szűrőtartókat be kell szerelni a mintaáram-vezetékbe.
+
+4.5.7.7. Melegindításos ciklus
+
+Amint megállapítható, hogy a motor beindult, el kell indítani egy független alapjárati időzítőt. Hagyni kell, hogy a motor 23±1 s-en keresztül szabadon, terhelés nélkül fusson alapjáraton. A tranziens motorciklus elindítását úgy kell időzíteni, hogy a ciklus első, nem alapjárati adatrögzítésére 23±1 s elteltével kerüljön sor. A terhelés nélküli alapjárat ideje benne van a 23±1 s-ben.
+
+A vizsgálatot a 3. számú melléklet 4. függelékében leírt referenciaciklus szerint kell végrehajtani. A fordulatszám- és nyomatékvezérlő jeleket legalább 5/s gyakorisággal (10/s ajánlott) kell kiadni. A beállítási pontokat a referenciaciklus 1/s gyakoriságú beállítási pontjai között lineáris interpolációval kell kiszámítani. A mért fordulatszámot és nyomatékot a mérési ciklus alatt legalább 1/s gyakorisággal regisztrálni kell; a jelek elektronikus szűrése megengedett.
+
+Ezután a 4.5.7.2. és a 4.5.7.3. pontban leírt eljárást kell megismételni.
+
+4.5.7.8. Motorleállás melegindításos ciklus alatt
+
+Ha a melegindításos ciklus valamely pontján a motor leáll, a motort le lehet állítani, és 20 percen keresztül újra lehet kondicionálni. A melegindításos ciklust ekkor meg lehet ismételni. Csak egy újrakondicionálás és egy melegindításos ciklus megengedett.
+
+4.5.7.9. A melegindításos ciklus utáni műveletek
+
+A melegindításos ciklus befejezésekor le kell állítani a kipufogógáz tömegáramának és a hígított kipufogógáz térfogatának mérését, a gyűjtőzsákokba menő gázáramot és a részecske-mintavevő szivattyút. Integráló gázelemző rendszer esetében a mintavételt a rendszer válaszidejének végéig kell folytatni.
+
+Gyűjtőzsák használata esetén a bennük lévő gázok koncentrációját minél előbb, de a ciklus befejezésétől számított 20 percnél semmiképpen sem később elemezni kell.
+
+A szennyezőanyag-vizsgálat után a nullázó gázzal és ugyanazzal a mérőtartomány-kalibráló gázzal meg kell ismételni a gázelemző készülékek ellenőrzését. A vizsgálat akkor tekinthető elfogadhatónak, ha a vizsgálatot megelőző és a vizsgálatot követő mérési eredmények közötti különbség a kalibráló gáz értékének 2%-ánál kisebb.
+
+A részecskeszűrőket a vizsgálat befejezését követő egy órán belül vissza kell helyezni a mérlegkamrába. A szűrőket legalább egy órán át portól védett és levegőcserét lehetővé tévő Petricsészében kell kondicionálni, és azután meg kell mérni a tömegüket. A szűrők bruttó tömegét fel kell jegyezni.
 
 4.6. A teszt végrehajtásának ellenőrzése
 
@@ -1390,11 +1572,11 @@ Közvetlen mérési módszer
 
 A pillanatnyi kipufogógáz áram mérését az alábbi rendszerekkel lehet végezni:
 
-− nyomáskülönbségen alapuló eszközök, mint a mérőtorok (részletekért lásd ISO 5167:2000).
+- nyomáskülönbségen alapuló eszközök, mint a mérőtorok (részletekért lásd ISO 5167:2000).
 
-− ultrahangos áramlásmérő,
+- ultrahangos áramlásmérő,
 
-− örvénykeltésen alapuló áramlásmérő (vortex flowmeter).
+- örvénykeltésen alapuló áramlásmérő (vortex flowmeter).
 
 Elővigyázatosan kell eljárni az emissziómérés hibáját okozó áramlásmérési hibák elkerülése érdekében. Az elővigyázatosság felöleli az áramlásmérő gondos, a gyártó előírásainak és a jó mérnöki gyakorlatnak megfelelő beépítését a motor kipufogórendszerébe. A berendezés beépítése különösen nem befolyásolhatja a motor teljesítményét és kibocsátásait.
 
@@ -1566,9 +1748,9 @@ A gáz mintavevő szondát a hígító alagút olyan pontján kell elhelyezni, a
 
 Mintát alapvetően kétféleképpen lehet venni:
 
-− a szennyező anyagokat a ciklus teljes ideje alatt zsákban gyűjtve, és a teszt befejezése után megmérve;
+- a szennyező anyagokat a ciklus teljes ideje alatt zsákban gyűjtve, és a teszt befejezése után megmérve;
 
-− folyamatosan véve mintát és integrálva a teljes ciklusra; ez a módszer kötelező a HC-re és NOx -re.
+- folyamatosan véve mintát és integrálva a teljes ciklusra; ez a módszer kötelező a HC-re és NOx -re.
 
 A háttér koncentrációt a hígító alagút előtt kell venni, gyűjtőzsákba, és azt le kell vonni az emissziós koncentrációból a 3. függelék 2.2.3. pontja szerint.
 
@@ -1590,11 +1772,11 @@ Ha a kipufogógáz áram és a részleges hígító rendszer kombinált transzfo
 
 A teljes rendszer válaszidejét úgy kell kialakítani, hogy az biztosítsa a részecskék reprezentatív GSE mintáját, arányosan a teljes kipufogógáz tömegárammal. Az arányosság megállapításához regresszió analízist kell végezni GSE és GEXHW között, minimum 5 Hz adatgyűjtési gyakorisággal, és a következő követelményeket kell kielégíteni:
 
-− a GSE és GEXHW közötti lineáris regresszió r2 regressziós együtthatója ne legyen kisebb 0,95-nél;
+- a GSE és GEXHW közötti lineáris regresszió r2 regressziós együtthatója ne legyen kisebb 0,95-nél;
 
-− a becslés standard hibája ne haladja meg GSE legnagyobb értékének 5%-át;
+- a becslés standard hibája ne haladja meg GSE legnagyobb értékének 5%-át;
 
-− a regressziós egyenes GSE tengelymetszéke ne haladja meg GSE legnagyobb értékének 2%-át.
+- a regressziós egyenes GSE tengelymetszéke ne haladja meg GSE legnagyobb értékének 2%-át.
 
 Választható módon előzetes tesztet lehet lefutni, és az előzetes teszt kipufogógáz tömegáram jelével szabályozni a részecske mérő rendszer mintaáramát ("előrelátó szabályozás"). Ez az eljárás követelmény, ha a részecskemérő rendszer t50,P reakcióideje és/vagy a kipufogógáz tömegáram jelének t50,F reakció ideje > 0,3 s. A részleges áramú hígító rendszer helyes szabályozását akkor kapjuk meg, ha az előzetes teszt GEXHW,pre tömegáram jelét, amely GSE-t szabályozza, a t50,P + t50,F "előrelátási idővel" eltoljuk.
 
@@ -1676,7 +1858,7 @@ A hígító rendszer és a mintavevő rendszer minden részét, amely kapcsolatb
 
 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
 
-Kalibrálási eljárás (NRSC, NRTC[^34])
+Kalibrálási eljárás (NRSC, NRTC[^33])
 
 1. Az elemző készülékek kalibrálása
 
@@ -2358,7 +2540,7 @@ Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentie
 
 A szennyezőanyag-kibocsátás tömegáramokat az egyes üzemmódokban az alábbiak szerint kell kiszámítani:
 
-(a) Kezeletlen kipufogógázra[^35]:
+(a) Kezeletlen kipufogógázra[^34]:
 
 Gáz tömeg = u × conc × GEXHV
 
@@ -2510,7 +2692,7 @@ DF = 13,4/concCO2
 
 1.4.5. A fajlagos szennyezőanyag-kibocsátás számítása
 
-A PT (g/kWh) fajlagos részecske-kibocsátást az alábbiak szerint kell kiszámítani[^36]:
+A PT (g/kWh) fajlagos részecske-kibocsátást az alábbiak szerint kell kiszámítani[^35]:
 
 Egyszűrős módszer esetén:
 
@@ -2528,9 +2710,9 @@ A tényleges súlyozási tényezők értéke nem térhet el ± 0,005-nél (abszo
 
 Az NRTC teszt során kibocsátott szennyező-anyagok értékelésnek két alábbi módszerét írja le ez a pont:
 
-− a gázkomponensek valós idejű mérését a kezeletlen kipufogógázban, és a részecskeék meghatározását a részáramú hígító rendszerben,
+- a gázkomponensek valós idejű mérését a kezeletlen kipufogógázban, és a részecskeék meghatározását a részáramú hígító rendszerben,
 
-− a gázkomponensek és a részecskeék meghatározását a teljes áramú hígító rendszerben (CVS rendszer).
+- a gázkomponensek és a részecskeék meghatározását a teljes áramú hígító rendszerben (CVS rendszer).
 
 2.1. A gázhalmazállapotú kibocsátás számítása a kezeletlen kipufogógázban és a részecske mérés részáramú hígító rendszerrel.
 
@@ -2624,69 +2806,77 @@ pb: a teljes légköri nyomás (kPa).
 
 Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
 
-2.1.2.4. A fajlagos emisszió számítása
+2.1.2.4. A fajlagos kibocsátások kiszámítása
 
-A fajlagos emissziókat (g/kWh) minden egyes komponensre a következőképpen kell számítani:
+A fajlagos kibocsátást [g/kWh] minden egyes összetevő tekintetében a következőképpen kell kiszámolni:
 
-Egyedi gáz = Mgáz / Wact
+ahol:
 
-ahol
+Mgas,cold = a gáz-halmazállapotú szennyező anyag össztömege a hidegindításos ciklus alatt (g)
 
-Wact = az aktuális ciklus munka a 3. számú melléklet 4.6.2. pontja szerint (kWh)
+Mgas,hot = a gáz-halmazállapotú szennyező anyag össztömege a melegindításos ciklus alatt (g)
+
+Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
+
+Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh).
 
 2.1.3. A részecske meghatározása
 
-2.1.3.1. A tömeg emisszió számítása
+2.1.3.1. A kibocsátott tömeg kiszámítása
 
-A részecskék tömeg emisszióját az alábbi módszerek egyikével kell számítani:
-
-(a) módszer
+Az MPT,cold és az MPT,hot részecsketömegeket (g/vizsgálat) a következő módszerek valamelyikével kell kiszámítani:
 
 ahol
 
-Mf = a ciklus alatt összegyűjtött részecske minta tömege (mg)
+MPT = MPT,cold a hidegindításos ciklus vonatkozásában
 
-MSAM = a részecske gyűjtő szűrőn áthaladó hígított kipufogógáz tömege (kg)
+MPT = MPT,hot a melegindításos ciklus vonatkozásában
 
-MEDFW = a ciklus alatti egyenértékű hígított kipufogógáz tömege (kg).
+Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
 
-A ciklus alatti egyenértékű hígított kipufogógáz tömegét a következőképpen kell meghatározni:
+MEDFW = az egyenértékű hígított kipufogógáz tömege a ciklus során (kg)
+
+MSAM = a részecskegyűjtő szűrőkön áthaladó hígított kipufogógáz tömege (kg)
+
+Az egyenértékű hígított kipufogógáz össztömegét a ciklusban a következőképpen kell meghatározni:
 
 ahol
 
-GEDFW,i = a pillanatnyi egyenértékű hígított kipufogógáz tömegáram (kg/s)
+GEDFW,i = a hígított kipufogógáz pillanatnyi egyenértékű tömegárama (kg/s)
 
-GEXHW,i = a pillanatnyi kipufogógáz tömegáram (kg/s)
+GEXHW,i = a kipufogógáz pillanatnyi tömegárama (kg/s)
 
-qi = a pillanatnyi hígítási tényező
+qi = pillanatnyi hígítási arány
 
-GTOTW,i = a pillanatnyi hígított kipufogógáz tömegárama a hígító alagútban (kg/s)
+GTOTW,i = a hígító alagúton áthaladó hígított kipufogógáz pillanatnyi tömegárama (kg/s)
 
-GDILW,i = a pillanatnyi hígító levegő tömegáram (kg/s)
+GDILW,i = a hígító levegő pillanatnyi tömegárama (kg/s)
 
-f = az adatok mintavételi frekvenciája (Hz)
+f = adatlekérdezési gyakoriság (1/s)
 
 n = a mérések száma
 
-(b) módszer
+ahol
+
+MPT = MPT,cold a hidegindításos ciklus vonatkozásában
+
+MPT = MPT,hot a melegindításos ciklus vonatkozásában
+
+Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
+
+rs = az átlagos mintavételi arány a mérési ciklus alatt
 
 ahol
 
-Mf = a ciklus alatt összegyűjtött részecske minta tömege (mg)
+MSE = a kipufogógáz-minta tömege a ciklus során (kg)
 
-rs = az átlagos minta arány a ciklus során,
+MEXHW = a ciklus során átáramló kipufogógáz össztömege (kg)
 
-ahol
+MSAM = a részecskegyűjtő szűrőkön áthaladó hígított kipufogógáz tömege (kg)
 
-MSE = a ciklus során a kipufogógáz minta tömege (kg)
+MTOTW = a hígító alagúton áthaladó hígított kipufogógáz tömege (kg)
 
-MEXHW = a teljes kipufogógáz tömeg a ciklus során (kg)
-
-MSAM = a részecske minta szűrőn áthaladt hígított kipufogógáz tömege (kg)
-
-MTOTW = a hígító alagúton áthaladt hígított kipufogógáz tömege a ciklus során (kg).
-
-Megjegyzés: teljes minta típusú rendszer esetén MSAM és MTOTW megegyezik.
+MEGJEGYZÉS: Teljes mintavételt alkalmazó rendszer esetében az MSAM és az MTOTW megegyezik.
 
 2.1.3.2. A részecskék nedvesség korrekciós tényezője
 
@@ -2704,13 +2894,23 @@ pb: a teljes légköri nyomás, kPa.
 
 Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
 
-2.1.3.3. A fajlagos kibocsátás számítása
+2.1.3.3. A fajlagos kibocsátások kiszámítása
 
-A részecske emissziót (g/kWh) a következőképpen kell számítani:
+A fajlagos kibocsátásokat (g/kWh) a következőképpen kell kiszámítani:
 
 ahol
 
-Wact = az aktuális ciklus munka a 3. számú melléklet 4.6.2. pontja szerint (kWh)
+MPT,cold = az NRTC hidegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
+
+MPT,hot = az NRTC melegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
+
+Kp,cold = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a hidegindításos ciklus alatt
+
+Kp,hot = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a melegindításos ciklus alatt
+
+Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
+
+Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
 
 2.2. A gázhalmazállapotú és a részecske kibocsátás meghatározása teljes áramú hígító rendszerrel
 
@@ -2868,55 +3068,71 @@ DF = a 2.2.3.1.1. pont szerinti hígítási tényező
 
 Mivel a NOx kibocsátás függ a környező levegő állapotától, a koncentrációt a környezeti levegő nedvességtartalmára való tekintettel korrigálni kell a 2.2.2. pontban leírt KH tényezővel.
 
-2.2.4. A fajlagos kibocsátás számítása
+2.2.4. A fajlagos kibocsátások kiszámítása
 
-A fajlagos emissziókat (g/kWh) minden egyes komponensre a következőképpen kell számítani:
-
-Egyedi gáz = Mgáz / Wact
+A kibocsátást [g/kWh] minden egyes összetevő tekintetében a következőképpen kell kiszámolni:
 
 ahol
 
-Wact = az aktuális ciklus munka a 3. számú melléklet 4.6.2. pontja szerint (kWh)
+Mgas,cold = a gáz-halmazállapotú szennyező anyag össztömege a hidegindításos ciklus alatt (g)
+
+Mgas,hot = a gáz-halmazállapotú szennyező anyag össztömege a melegindításos ciklus alatt (g)
+
+Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
+
+Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
 
 2.2.5. A részecske kibocsátás számítása
 
-2.2.5.1 A részecske tömeget MPT (g/teszt) az alábbiak szerint kell számítani.
+2.2.5.1. A tömegáram kiszámítása
+
+Az MPT,cold és az MPT,hot részecsketömegeket (g/vizsgálat) a következőképpen kell kiszámítani:
 
 ahol
 
-Mf = a ciklus alatt összegyűjtött részecske minta tömege (mg)
+MPT = MPT,cold a hidegindításos ciklus vonatkozásában
 
-MTOTW = a ciklus alatti teljes hígított kipufogógáz tömeg a 2.2.1. pont szerint (kg).
+MPT = MPT,hot a melegindításos ciklus vonatkozásában
 
-MSAM = a részecskék gyűjtéséhez a hígító alagútból kivett hígított kipufogógáz tömege (kg),
+Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
 
-és
+MTOTW = a hígított kipufogógáz össztömege a teljes ciklus alatt, a 2.2.1. pontban meghatározottak szerint (kg)
 
-Mf = Mf,p + Mf,b , ha külön mérik őket (mg)
+MSAM = a hígító alagútból részecske-mintavétel céljából kivett hígított kipufogógáz tömege (kg),
 
-Mf,p = az elsődleges szűrőn gyűjtött részecske tömeg (mg)
+valamint
 
-Mf,b = a pótszűrőn gyűjtött részecske tömeg (mg)
+Mf = Mfp + Mfb, ha külön mérték az értékeket (mg)
 
-Kétszeres hígító rendszer alkalmazása esetén a másodlagos hígító levegő tömegét le kell vonni a részecske szűrőn átfolyó, kétszer hígított kipufogógáz minta teljes tömegéből.
+Mf,p = az elsődleges szűrőn összegyűjtött részecskék tömege (mg)
 
-ahol
+Mf,b = a kiegészítő szűrőn összegyűjtött részecskék tömege (mg)
 
-MTOT = a részecske szűrőn átfolyó, kétszer hígított kipufogógáz minta teljes tömege (kg)
+Kétszeres hígítású rendszer alkalmazása esetén a másodlagos hígító levegő tömegét le kell vonni a részecskeszűrőkön áthaladó kétszeresen hígított kipufogógáz-minta össztömegéből.
+
+MSAM = MTOT – MSEC
+
+ahol:
+
+MTOT = a részecskeszűrőn áthaladó kétszeresen hígított kipufogógáz tömege (kg)
 
 MSEC = a másodlagos hígító levegő tömege (kg)
 
-Ha a hígító levegőben meghatározzák a részecskék háttérszintjét a 3. számú melléklet 4.4.4. pontja szerint, a részecske tömeget korrigálni lehet. Ebben az esetben a (g/teszt) részecske tömeget az alábbiak szerint kell számítani:
+Ha a hígító levegő részecske-háttérszintjét a 3. számú melléklet 4.5.4. pontjának megfelelően határozzák meg, a részecsketömeg korrigálható a háttérkoncentráció figyelembevételével. Ebben az esetben az MPT,cold és az MPT,hot részecsketömeget (g/vizsgálat) a következőképpen kell kiszámítani:
 
-ahol
+ahol:
 
-Mf, MSAM, MTOTW = azonos az előzővel
+MPT = MPT,cold a hidegindításos ciklus vonatkozásában
 
-MDIL = a részecskeháttér mérőben az elsődleges hígító levegő tömege (kg)
+MPT = MPT,hot a melegindításos ciklus vonatkozásában
 
-Md = a részecskeháttér mérőben elsődleges hígítólevegőből gyűjtött részecske minta tömege (mg)
+Mf, MSAM, MTOTW = lásd fent
 
-DF = a 2.2.3.1.1. pont szerinti hígítási tényező.
+MDIL = a háttérrészecske-mintavevő által mintavételezett elsődleges hígító levegő tömege (kg)
+
+Md = az elsődleges hígító levegőből begyűjtött háttérrészecskék tömege (mg)
+
+DF = hígítási tényező a 2.2.3.1.1. pontban meghatározottak szerint.
 
 2.2.5.2. A részecske nedvességkorrekciós tényező
 
@@ -2934,129 +3150,35 @@ pb: a teljes légköri nyomás, kPa.
 
 Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
 
-2.2.5.3. A fajlagos kibocsátás számítása
+2.2.5.3. A fajlagos kibocsátások kiszámítása
 
-A részecske emissziót (g/kWh) a következőképpen kell számítani:
+A fajlagos kibocsátásokat (g/kWh) a következőképpen kell kiszámítani:
 
 ahol
 
-Wact = az aktuális ciklus munka a 3. számú melléklet 4.6.2. pontja szerint (kWh)
+MPT,cold = az NRTC hidegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
+
+MPT,hot = az NRTC melegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
+
+Kp,cold = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a hidegindításos ciklus alatt
+
+Kp,hot = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a melegindításos ciklus alatt
+
+Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
+
+Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
 
 4. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
 
 NRTC MOTORFÉKPADI PROGRAM
 
-| Idő (s) | Norm. sebes- ség (%) | Norm. nyoma- ték (%) |  | Idő (s) | Norm. sebes- ség (%) | Norm. nyoma- ték (%) |  | Idő (s) | Norm. sebes- ség (%) | Norm. nyoma- ték (%) |
-
-| 1 | 0 | 0 |  | 52 | 102 | 46 |  | 103 | 74 | 24 |
-
-| 2 | 0 | 0 |  | 53 | 102 | 41 |  | 104 | 77 | 6 |
-
-| 3 | 0 | 0 |  | 54 | 102 | 31 |  | 105 | 76 | 12 |
-
-| 4 | 0 | 0 |  | 55 | 89 | 2 |  | 106 | 74 | 39 |
-
-| 5 | 0 | 0 |  | 56 | 82 | 0 |  | 107 | 72 | 30 |
-
-| 6 | 0 | 0 |  | 57 | 47 | 1 |  | 108 | 75 | 22 |
-
-| 7 | 0 | 0 |  | 58 | 23 | 1 |  | 109 | 78 | 64 |
-
-| 8 | 0 | 0 |  | 59 | 1 | 3 |  | 110 | 102 | 34 |
-
-| 9 | 0 | 0 |  | 60 | 1 | 8 |  | 111 | 103 | 28 |
-
-| 10 | 0 | 0 |  | 61 | 1 | 3 |  | 112 | 103 | 28 |
-
-| 11 | 0 | 0 |  | 62 | 1 | 5 |  | 113 | 103 | 19 |
-
-| 12 | 0 | 0 |  | 63 | 1 | 6 |  | 114 | 103 | 32 |
-
-| 13 | 0 | 0 |  | 64 | 1 | 4 |  | 115 | 104 | 25 |
-
-| 14 | 0 | 0 |  | 65 | 1 | 4 |  | 116 | 103 | 38 |
-
-| 15 | 0 | 0 |  | 66 | 0 | 6 |  | 117 | 103 | 39 |
-
-| 16 | 0 | 0 |  | 67 | 1 | 4 |  | 118 | 103 | 34 |
-
-| 17 | 0 | 0 |  | 68 | 9 | 21 |  | 119 | 102 | 44 |
-
-| 18 | 0 | 0 |  | 69 | 25 | 56 |  | 120 | 103 | 38 |
-
-| 19 | 0 | 0 |  | 70 | 64 | 26 |  | 121 | 102 | 43 |
-
-| 20 | 0 | 0 |  | 71 | 60 | 31 |  | 122 | 103 | 34 |
-
-| 21 | 0 | 0 |  | 72 | 63 | 20 |  | 123 | 102 | 41 |
-
-| 22 | 0 | 0 |  | 73 | 62 | 24 |  | 124 | 103 | 44 |
-
-| 23 | 0 | 0 |  | 74 | 64 | 8 |  | 125 | 103 | 37 |
-
-| 24 | 1 | 3 |  | 75 | 58 | 44 |  | 126 | 103 | 27 |
-
-| 25 | 1 | 3 |  | 76 | 65 | 10 |  | 127 | 104 | 13 |
-
-| 26 | 1 | 3 |  | 77 | 65 | 12 |  | 128 | 104 | 30 |
-
-| 27 | 1 | 3 |  | 78 | 68 | 23 |  | 129 | 104 | 19 |
-
-| 28 | 1 | 3 |  | 79 | 69 | 30 |  | 130 | 103 | 28 |
-
-| 29 | 1 | 3 |  | 80 | 71 | 30 |  | 131 | 104 | 40 |
-
-| 30 | 1 | 6 |  | 81 | 74 | 15 |  | 132 | 104 | 32 |
-
-| 31 | 1 | 6 |  | 82 | 71 | 23 |  | 133 | 101 | 63 |
-
-| 32 | 2 | 1 |  | 83 | 73 | 20 |  | 134 | 102 | 54 |
-
-| 33 | 4 | 13 |  | 84 | 73 | 21 |  | 135 | 102 | 52 |
-
-| 34 | 7 | 18 |  | 85 | 73 | 19 |  | 136 | 102 | 51 |
-
-| 35 | 9 | 21 |  | 86 | 70 | 33 |  | 137 | 103 | 40 |
-
-| 36 | 17 | 20 |  | 87 | 70 | 34 |  | 138 | 104 | 34 |
-
-| 37 | 33 | 42 |  | 88 | 65 | 47 |  | 139 | 102 | 36 |
-
-| 38 | 57 | 46 |  | 89 | 66 | 47 |  | 140 | 104 | 44 |
-
-| 39 | 44 | 33 |  | 90 | 64 | 53 |  | 141 | 103 | 44 |
-
-| 40 | 31 | 0 |  | 91 | 65 | 45 |  | 142 | 104 | 33 |
-
-| 41 | 22 | 27 |  | 92 | 66 | 38 |  | 143 | 102 | 27 |
-
-| 42 | 33 | 43 |  | 93 | 67 | 49 |  | 144 | 103 | 26 |
-
-| 43 | 80 | 49 |  | 94 | 69 | 39 |  | 145 | 79 | 53 |
-
-| 44 | 105 | 47 |  | 95 | 69 | 39 |  | 146 | 51 | 37 |
-
-| 45 | 98 | 70 |  | 96 | 66 | 42 |  | 147 | 24 | 23 |
-
-| 46 | 104 | 36 |  | 97 | 71 | 29 |  | 148 | 13 | 33 |
-
-| 47 | 104 | 65 |  | 98 | 75 | 29 |  | 149 | 19 | 55 |
-
-| 48 | 96 | 71 |  | 99 | 72 | 23 |  | 150 | 45 | 30 |
-
-| 49 | 101 | 62 |  | 100 | 74 | 22 |  | 151 | 34 | 7 |
-
-| 50 | 102 | 51 |  | 101 | 75 | 24 |  | 152 | 14 | 4 |
-
-| 51 | 102 | 50 |  | 102 | 73 | 30 |  | 153 | 8 | 16 |
-
-[^27]: Azonos a 8178-4 számú ISO szabvány tervezet szerinti C1 ciklussal.
-[^28]: Azonos az ISO 8178-4:1996(E) szabvány D2 ciklusával.
-[^29]: A névleges tartós teljesítmény jobb megértése érdekében lásd az ISO 8528-1:1993(E) szabvány 2. ábráját.
-[^30]: Az állandó fordulatszámú segédmotorokat az ISO D2 terhelési ciklus szerint kell jóváhagyni, azaz a 3.7.1.2. pont szerinti 5 üzemmódú állandó fordulatszámú ciklussal; a változó fordulatszámú segédmotorokat az ISO C1 terhelési ciklus szerint kell jóváhagyni, azaz a 3.7.1.1. pont szerinti 5 üzemmódú állandó fordulatszámú ciklussal.
-[^31]: Azonos az ISO 8178-4:2002(E) szabvány 8.4.1. pontjában leírt D2 ciklussal.
-[^32]: Azonos az ISO 8178-4:2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontja szerinti E2 ciklussal.
-[^33]: Azonos az ISO 8178-4:2002(E) szabványban leírt F ciklussal.
-[^34]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
-[^35]: NOx esetében a NOx koncentrációt (NOxconc vagy NOxconcc) meg kell szorozni KHNOX-szal (a NOx-nak az előző 1.3.3. pontban idézett nedvességi korrekciós tényezőjével) az alábbiak szerint: KHNOX × conc vagy KHNOX × concc
-[^36]: A PTtömeg részecske-tömegáramot meg kell szorozni Kp-vel (az 1.4.1. pontban említett, részecskékre vonatkozó páratartalom korrekciós tényezővel).
+[^32]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^(3)szerint]: Az MSZ EN ISO 8178-4:2007 szabvány (2008. 07. 01-jei helyesbített változat) 8.3.1.1. pontjában leírt C1 ciklussal megegyező.
+[^(4)]: Az MSZ EN ISO 8178-4:2002(E) szabvány 8.4.1. pontjában leírt D2 ciklussal megegyező.
+[^(5)]: Az állandó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti D2 terhelési ciklus, azaz a 3.7.1.2. pontban meghatározott, öt üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani, míg a változó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti C1 terhelési ciklus, azaz a 3.7.1.1. pontban meghatározott, nyolc üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani.
+[^(6)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E3 ciklussal megegyező. A négy üzemmód az üzem közbeni méréseken alapuló átlagos hajtócsavargörbén alapul.
+[^(7)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E2 ciklussal megegyező.
+[^(8)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány F ciklusával megegyező.
+[^33]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
+[^34]: NOx esetében a NOx koncentrációt (NOxconc vagy NOxconcc) meg kell szorozni KHNOX-szal (a NOx-nak az előző 1.3.3. pontban idézett nedvességi korrekciós tényezőjével) az alábbiak szerint: KHNOX × conc vagy KHNOX × concc
+[^35]: A PTtömeg részecske-tömegáramot meg kell szorozni Kp-vel (az 1.4.1. pontban említett, részecskékre vonatkozó páratartalom korrekciós tényezővel).
