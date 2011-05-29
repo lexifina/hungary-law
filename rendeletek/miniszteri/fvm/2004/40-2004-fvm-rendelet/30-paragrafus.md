@@ -42,9 +42,11 @@ u)[^81] a Bizottság 2008/83/EK irányelve (2008. augusztus 13.) a 2002/53/EK ta
 
 v)[^82] a Bizottság 2007/72/EK irányelve (2007. december 13.) a 66/401/EGK tanácsi irányelvnek a Galega orientalis Lam. fajjal történő kiegészítéséről,
 
-w)[^83] a Bizottság 2009/97/EK irányelve (2009. augusztus 3.) a 2002/53/EK és a 2002/55/EK tanácsi irányelv 7. cikkének alkalmazásában egyes mezőgazdasági növényfajok és zöldségfajok fajtái esetében minimálisan vizsgálandó jellemezők és a vizsgálat minimumfeltételei vonatkozásában a végrehajtási intézkedések meghatározásáról szóló 2003/90/EK és 2003/91/EK irányelvek módosításáról.
+w)[^83] a Bizottság 2009/97/EK irányelve (2009. augusztus 3.) a 2002/53/EK és a 2002/55/EK tanácsi irányelv 7. cikkének alkalmazásában egyes mezőgazdasági növényfajok és zöldségfajok fajtái esetében minimálisan vizsgálandó jellemezők és a vizsgálat minimumfeltételei vonatkozásában a végrehajtási intézkedések meghatározásáról szóló 2003/90/EK és 2003/91/EK irányelvek módosításáról,
 
-[z)[^84] a Tanács 2008/90/EK irányelve (2008. szeptember 29.) a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról.]
+wa)[^84] a Bizottság 2010/46/EU irányelve (2010. július 2.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+
+wb)[^85] a Bizottság 2009/145/EK irányelve (2009. november 26.) egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről.
 
 [^75]: A 30. § a 22/2005. (III. 22.) FVM rendelet 6. §-ával megállapított szöveg.
 [^76]: A 30. § o) pontját a 70/2006. (IX. 27.) FVM rendelet 2. §-a iktatta be.
@@ -55,4 +57,5 @@ w)[^83] a Bizottság 2009/97/EK irányelve (2009. augusztus 3.) a 2002/53/EK és
 [^81]: A 30. § u) pontját a 150/2008. (XI. 12.) FVM rendelet 1. §-a iktatta be.
 [^82]: A 30. § v) pontját a 173/2008. (XII. 31.) FVM rendelet 1. §-a iktatta be.
 [^83]: A 30. § w) pontját a 183/2009. (XII. 30.) FVM rendelet 1. § (8) bekezdése iktatta be.
-[^84]: A 30. § z) pontját a 68/2010. (V. 12.) FVM rendelet 6. §-a iktatta be. [E módosító rendelet 8. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.]
+[^84]: A 30. § wa) pontját a 42/2011. (V. 26.) VM rendelet 2. §-a iktatta be.
+[^85]: A 30. § wb) pontját a 42/2011. (V. 26.) VM rendelet 2. §-a iktatta be. [A 30. § z) pontjának a 68/2010. (V. 12.) FVM rendelet 6. §-ával beiktatott, a 8. § (2) bekezdése alapján 2012. szeptember 30-ától hatályos szövege: „z) a Tanács 2008/90/EK irányelve (2008. szeptember 29.) a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról.”.]
