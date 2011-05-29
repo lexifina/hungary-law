@@ -1,3 +1,3 @@
-## 5. §[^9]
+## 5. §[^7]
 
-[^9]: Az 5. § e rendelet 8. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § e rendelet 8. § (2) bekezdése alapján hatályát vesztette.
