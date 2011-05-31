@@ -588,7 +588,13 @@ b) 23–27/B. §-t a 2010. április 30-át követően indult ügyekben kell alka
 
 R. 30/A. §[^174] A 19/A. §-ban foglaltaktól eltérően az egyik pénztárból a másik pénztárba átlépett vagy a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 1998. január 1-je és 2010. december 31-e közötti bevallási időszakra tévesen az átadó pénztárhoz benyújtott bevallásokat és beérkezett befizetéseket az átadó pénztár feldolgozza, és azt a tag egyéni számláján kimutatja. A tagsági jogviszony megszűnését követően könyvelt tagi követelés összegét a pénztár a Pénztárak Központi Nyilvántartásával történt egyeztetést követően az átlépés szabályai szerint átutalja a pénztártag aktuális pénztárába, illetőleg a Nyugdíjbiztosítási Alap részére. A rendezésről a pénztár – az adatátadás módjáról kötött megállapodásban foglaltaknak megfelelően – értesíti az állami adóhatóságot.
 
-R. 31. §[^175] Ez a rendelet a 23–27/B. §-ban
+R. 30/B. §[^175] (1) Az állami adóhatóság a Tbj. 51. § (2) bekezdésében, továbbá a 20. § (2) bekezdésben foglalt adategyeztetés eredménye alapján a 2011. április 30-ig beérkezett – a 2007. január 1. és 2010. szeptember 30. közötti bevallási időszakokra vonatkozó tagdíj, tagdíj-kiegészítésekre vonatkozó – foglalkoztatói helyesbítéseket (önellenőrzés, adózói javítás) 2011. május 31-ig átadja az érintett magánnyugdíjpénztár részére, annak érdekében, hogy a tagok könyveletlen befizetései előírásra kerüljenek.
+
+(2) A magánnyugdíjpénztár az (1) bekezdésben foglalt adatátadás, valamint a rendelkezésére álló adatok (pl. az állami adóhatóság korábbi adatközlése) alapján a függő tételek azonosítását elvégzi, és a tagi követelés összegét a tag egyéni számláján az Mpt. 24. § (11) bekezdés szerinti átadás időpontjáig nyilvántartásba veszi (jóváírja).
+
+(3) Az állami adóhatóság a Tbj. 51. § (2) bekezdésében, továbbá a 20. § (2) bekezdésben foglalt adategyeztetést a 2011. április 30-a után beérkezett foglalkoztatói helyesbítések (önellenőrzés, adózói javítás) esetén kizárólag a magánnyugdíjpénztári tagok vonatkozásában végzi el.
+
+R. 31. §[^176] Ez a rendelet a 23–27/B. §-ban
 
 a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendelet II. címének, a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet végrehajtására vonatkozó szabályok megállapításáról szóló, 1972. március 21-i 574/72/EGK tanácsi rendelet III. címének, az 1408/71/EGK és az 574/72/EGK rendelet rendelkezéseinek valamely harmadik ország e rendelkezések által pusztán állampolgárságuk okán nem érintett állampolgáraira való kiterjesztéséről szóló, 2003. május 14-i 859/2003/EK tanácsi rendelet 1. és 2. cikkének, és
 
@@ -770,4 +776,5 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^172]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
 [^173]: Az R. 30. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
 [^174]: Az R. 30/A. §-át a 297/2010. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^175]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^175]: Az R. 30/B. §-t a 87/2011. (V. 31.) Korm. rendelet 13. §-a iktatta be.
+[^176]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
