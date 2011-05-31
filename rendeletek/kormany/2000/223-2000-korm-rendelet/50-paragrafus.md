@@ -10,7 +10,7 @@ a) mérlegének záró adata mellett az ellenőrzés megállapításainak ezen e
 
 b) eredménykimutatásának tárgyévi oszlopának adatai mellett az ellenőrzés, megállapításainak az előző év(ek) eredményét érintő értékeit összevontan
 
-## kell feltüntetni.
+kell feltüntetni.
 
 (4)[^184] Az éves pénztári beszámoló ismételt közzétételéhez is szükséges a jóváhagyásra jogosult közgyűlés (küldöttközgyűlés) elé terjesztés a könyvvizsgálói jelentéssel együtt. Az ismételten közzétételre kerülő beszámolót a könyvvizsgálói jelentéssel együtt a jóváhagyást követő 30 napon belül egy példányban a 8. § (1) bekezdésében meghatározott módon és formában kell a Felügyelet részére megküldeni. Az ismételt közzétételről a pénztár az ellenőrzés befejezését követő 90 napon belül köteles gondoskodni.
 

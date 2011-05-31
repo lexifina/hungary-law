@@ -38,7 +38,7 @@ a) beolvadás esetében a beolvadó és átvevő pénztár megbontásban és egy
 
 b) összeolvadás esetében az egyesülő pénztárak szerinti megbontásban és együttesen
 
-## tartalmazza.
+tartalmazza.
 
 (7) A (4) bekezdés a) pontja szerinti vagyonmérleget az átalakulással létrejövő pénztárak vagyonmérlegének elkészítéséhez meg kell bontani a pénztár közgyűlése által meghatározott módon
 

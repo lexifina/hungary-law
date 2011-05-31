@@ -38,7 +38,7 @@ bc) az ügylet a befektetési portfolió részét képezi, vagy
 
 bd) az ügylet a befektetési portfolió részét képező alapügylet, mérlegtétel fedezeti ügylete,
 
-## akkor az a) pont szerint elszámolt opciós díjat időbelileg el kell határolni és az időbeli elhatárolást az ügylet zárásakor kell megszüntetni.
+akkor az a) pont szerint elszámolt opciós díjat időbelileg el kell határolni és az időbeli elhatárolást az ügylet zárásakor kell megszüntetni.
 
 (15)[^156] A befektetési portfolió részét képező eszköz beszerzésére kötött leszállítási opciós ügylet esetén a (17) bekezdés előírásait kell alkalmazni, kivéve az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárt, amely a számviteli politikájában rögzítettek szerint dönthet úgy, hogy nem a (17) bekezdés, hanem a (14) bekezdés szerint jár el.
 

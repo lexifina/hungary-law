@@ -1,5 +1,3 @@
-## Az eredménykimutatás előírt tagolása
-
 | Megnevezés | Előző évi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Előző évi felülvizs- gált beszá- moló záró adatai | Tárgyévi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Tárgyévi felül- vizsgált beszámoló záró adatai |
 
 | A) | Pénztár működési tevékenysége |
@@ -425,5 +423,9 @@
 |  |  | 28.3. Azonosítatlan befizetések befektetési hozamára |  |  |  |  |  |  |
 
 4. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^196]
+
+Az egyesített (összesített) eredménykimutatás előírt tagolása
+
+Ezer forintban
 
 [^196]: A 4. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 68. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.

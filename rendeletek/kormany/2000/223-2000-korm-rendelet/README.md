@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-223-20-
 | --- | --- | --- |
 | 2010-01-01 | 2000-223-20-22.12 | 223/2000. (XII. 19.) Korm. rendelet |
 | 2011-01-01 | 2000-223-20-22.13 | 273/2010. (XII. 9.) Korm. rendelet |
+| 2011-05-31 | 2000-223-20-22.14 | 358/2006. (XII. 27.) Korm. rendelet |
