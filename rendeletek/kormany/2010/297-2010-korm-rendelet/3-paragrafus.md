@@ -1,17 +1,15 @@
 ## 2. Visszaléptetés
 
-3. § (1) A magánnyugdíjpénztár a beérkezett nyilatkozatokat feldolgozza, majd ezt követően – a nyilatkozat hozzá történő beérkezését követő legkésőbb 45 napon belül
+3. §[^1] (1) A magánnyugdíjpénztár a függő tételként nyilvántartott befizetések Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) részére történő átadása során figyelmen kívül hagyja azokat az eszközöket, amelyeket az Alap bármely okból nem szerezhet meg (így különösen, amely eszköz tulajdonjogát nem szerezheti meg, az ügylet alanyává nem válhat), továbbá azokat, amelynek az Alap részére történő átruházása bármely egyéb okból nem lehetséges 2011. június 12. napjáig. Ilyen eszközök a függő tételek fedezetéül átadott eszközök között nem szerepelhetnek és ezen eszközök értékének megfelelő pénzösszeget kell az Alap részére átadni.
 
-a) megállapítja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagjainak számát, és
+(2) A magánnyugdíjpénztár az Alap részére a pénzeszközöket és pénzügyi eszközöket oly módon köteles átadni, hogy azok felett az Alap per-, teher-, igény- és mindenfajta korlátozástól mentes tulajdonjogot szerezzen.
 
-b) a visszaléptetés végrehajtására ütemtervet készít.
+(3) A magánnyugdíjpénztár az Mpt. 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetések összegét az Alaptól írásban visszaigényli. Az Alap a magánnyugdíjpénztár visszaigénylésének kézhezvételét követő 2 munkanapon belül kezdeményezi a visszaigényelt összegnek a magánnyugdíjpénztár pénzforgalmi számlájára történő átutalását. A magánnyugdíjpénztár a visszalépő tagi kifizetéseket a tag 6. § szerinti nyilatkozatának megfelelően, a visszaigényelt összeg jóváírását követő 8 munkanapon belül, de legkésőbb 2011. augusztus 31-ig végzi el.
 
-(2) Az (1) bekezdés b) pontja szerinti ütemtervnek tartalmaznia kell a visszalépő tagi kifizetések, valamint az Államadósság Kezelő Központ Zrt.-nek (a továbbiakban: ÁKK) történő eszközátadás ütemezését is. A magánnyugdíjpénztár az ütemtervét – az elkészítését követő 3 napon belül – jóváhagyásra megküldi a Felügyeletnek. A magánnyugdíjpénztár a visszaléptetést a Felügyelet által jóváhagyott ütemterv alapján folytatja le.
+(4) A magánnyugdíjpénztár a 2011. május 31-én függő tételként nyilvántartott és az Alap részére átadott összeget befizetőnkénti (foglalkoztatónkénti) részletezettséggel, a 0-ás számlaosztályban elkülönítetten köteles nyilvántartani.
 
-(3) A társadalombiztosítási nyugdíjrendszerbe visszalépő taggal való elszámolás fordulónapja azon hónap utolsó napja, amikor az elszámolás az ütemterv alapján megtörténik.
+(5) A 2011. május 31-én függő tételként nyilvántartott és az Alap részére átadott magánnyugdíjpénztári befizetésekből és azok hozamaiból a pénztártagokra 2011. május 31-ét követően azonosított tagdíj és azok hozamainak összegét a magánnyugdíjpénztár havonta, az adott hónapot követő hónap 8. napjáig az Alaptól írásban visszaigényli és az összeg visszautalását követően az érintett pénztártag egyéni számláján haladéktalanul jóváírja. Az Alap a magánnyugdíjpénztár visszaigénylésének kézhezvételét követő 2 munkanapon belül kezdeményezi a visszaigényelt összegnek a magánnyugdíjpénztár pénzforgalmi számlájára történő átutalását.
 
-(4) A magánnyugdíjpénztár az Mpt. 24. § (11) bekezdésében előírt átadást jogszabályban előírtak szerint az elszámolás fordulónapját követő tizenkét napon belül teljesíti. A követelésnek megfelelő eszközfedezetet a visszalépő tag portfólióján belüli eszközaránynak (az egyes értékpapírok arányának) megfelelő arányban kell átadni, az ezt követően esetlegesen fennmaradó összeget pedig pénzben kell átutalni.
+(6) A visszaléptetés során a magánnyugdíjpénztár az eszközök átadásával és az átutalásokkal kapcsolatos tényleges banki, tőzsdei, elszámolóházi és postai költségeket a tagi követeléssel szemben érvényesítheti.
 
-(5) A magánnyugdíjpénztár a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra jutó, a függő számláról a visszalépést követően azonosított tagi követelés összegét az elszámolás fordulónapjának hónapját követő negyedik hónap tizenkettedik napjáig a (4) bekezdésben foglaltak szerint utalja át. Az ezt követően azonosított tagi követelés összegét a magánnyugdíjpénztár az átlépésre vonatkozó elszámolási határidők figyelembevételével pénzben utalja át.
-
-(6) A visszaléptetés során a magánnyugdíjpénztár az eszközök átadásával és az átutalásokkal kapcsolatos tényleges banki és postai költségeket a tagi követeléssel szemben érvényesítheti.
+[^1]: A 3. § a 87/2011. (V. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

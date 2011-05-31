@@ -52,6 +52,8 @@ TB rendszerbe visszalépett tagok miatt átadott vagyon
 
 | Nagyságrend:ezer Ft |
 
+0M30164_1
+
 | Sor- szám | Pszáf kód | Megnevezés | ISIN/ azo- no- sító kód | Tétel neve | Tárgyhónapban átadásra került portfolió | Átadásra váró portfolió állomány a tárgyhónap záró napján | Mód |
 
 | Klasszikus portfolió | Kiegyensúlyozott portfolió | Növekedési portfolió | Portfoliók összesen | Klasszikus portfolió | Kiegyensúlyozott portfolió | Növekedési portfolió | Portfoliók összesen |
