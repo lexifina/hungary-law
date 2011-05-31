@@ -12,4 +12,6 @@
 
 (2) E rendelet 33. §-a, 30. §-ával a Pkr. 2. §-a 10. és 12. pontját megállapító rendelkezés, 31. §-ával a Pkr. 17/A–17/C. §-át megállapító rendelkezés 2011. április 1-jén lép hatályba.
 
-(3) E rendelet 3–5. §-a, 7. §-ának (2) bekezdése, 9. §-a, 11–21. §-a 2011. július 1-jén lép hatályba.
+(3)[^2] E rendelet 3–5. §-a, 7. § (2) bekezdése, 9. §-a, 11–21. §-a 2012. január 1-jén lép hatályba.
+
+[^2]: A 42. § (3) bekezdése a 87/2011. (V. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
