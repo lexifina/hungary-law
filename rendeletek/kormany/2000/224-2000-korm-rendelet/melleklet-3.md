@@ -46,6 +46,6 @@
 
 ## H. Tárgyévi eredmény (E–F–G)
 
-3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^64]
+3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^69]
 
-[^64]: A 3. számú melléklet a 289/2002. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg, e módosító rendelet 6. § (2) bekezdése alapján a módosított rendelkezéseket a 2002. évi beszámoló készítése során is alkalmazni lehet.
+[^69]: A 3. számú melléklet a 289/2002. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg, e módosító rendelet 6. § (2) bekezdése alapján a módosított rendelkezéseket a 2002. évi beszámoló készítése során is alkalmazni lehet.

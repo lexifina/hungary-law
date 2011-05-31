@@ -1,4 +1,4 @@
-## 5. §[^17] Az egyéb szervezet, közhasznú egyéb szervezet, az alapszabályában (alapító okiratában) foglaltaknak megfelelően, a külön jogszabályokban meghatározott alaptevékenységet (tevékenység célja szerinti, lakásszövetkezeti, közhasznú, alapítványi célú tevékenység stb.), valamint ha jogszabály lehetővé teszi, vállalkozási tevékenységet is folytathat.
+## 5. §[^18] Az egyéb szervezet, közhasznú egyéb szervezet, az alapszabályában (alapító okiratában) foglaltaknak megfelelően, a külön jogszabályokban meghatározott alaptevékenységet (tevékenység célja szerinti, lakásszövetkezeti, közhasznú, alapítványi célú tevékenység stb.), valamint ha jogszabály lehetővé teszi, vállalkozási tevékenységet is folytathat.
 
 ## Beszámolási kötelezettség
 
@@ -36,9 +36,9 @@ c) az egyéb szervezet, valamint a közhasznú egyéb szervezet választása ala
 
 (10) Annak az egyéb szervezetnek, amely a Tv. szerinti éves, illetve a Tv. szerinti egyszerűsített éves beszámoló készítését választotta és vállalkozási tevékenységet is folytat, a Tv.-ben előírt beszámoló készítése során biztosítania kell az alap- és a vállalkozási tevékenységéből származó bevételeinek, költségeinek, ráfordításainak (kiadásainak), valamint a vállalkozási tevékenység adózás előtti eredményének elkülönítetten történő bemutatását is.
 
-(11)[^18]
+(11)[^19]
 
 (12) Az egyéb szervezet, illetve a közhasznú egyéb szervezet a mérleg, továbbá az eredménylevezetés, közhasznú eredménylevezetés, az eredménykimutatás, közhasznú eredménykimutatás tételeit más jogszabályok előírása, valamint belső igényei szerint továbbtagolhatja.
 
-[^17]: Az 5. § a 350/2004. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi üzleti évről készített beszámolóra is lehet alkalmazni.
-[^18]: A 6. § (11) bekezdését a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (1) bekezdése hatályon kívül helyezte.
+[^18]: Az 5. § a 350/2004. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi üzleti évről készített beszámolóra is lehet alkalmazni.
+[^19]: A 6. § (11) bekezdését a 237/2003. (XII. 17.) Korm. rendelet 14. §-ának (1) bekezdése hatályon kívül helyezte.
