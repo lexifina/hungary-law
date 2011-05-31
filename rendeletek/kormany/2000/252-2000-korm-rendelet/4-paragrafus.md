@@ -10,7 +10,7 @@ a) az éves pénztári beszámolóból, és
 
 b) a negyedéves jelentésből
 
-## áll.
+áll.
 
 (3)[^1] A pénztár eseti (évközi) beszámolót köteles készíteni, ha a Felügyelet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény 41. § (3) bekezdése alapján elrendelte.
 

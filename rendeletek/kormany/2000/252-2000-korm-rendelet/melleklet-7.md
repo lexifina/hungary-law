@@ -1,5 +1,3 @@
-## Számlakeret-tükör
-
 ## 1. Számlaosztály
 
 ## BEFEKTETETT ESZKÖZÖK

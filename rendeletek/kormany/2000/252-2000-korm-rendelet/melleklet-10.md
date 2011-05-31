@@ -1,5 +1,3 @@
-## Portfolió állomány .................... Pénztár 200.... év ..... negyedév
-
 ## Ezer forint
 
 | Sor- szám | PSZÁF kód | Megnevezés | Fedezeti alap | Működési alap | Likviditási alap | Összesen |
@@ -75,5 +73,7 @@
 |  |  | Egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír |  |  |  |  |
 
 10. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^73]
+
+D) Taglétszám alakulása korévenként
 
 [^73]: A 10. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
