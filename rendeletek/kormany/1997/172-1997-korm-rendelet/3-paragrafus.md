@@ -1,14 +1,14 @@
-3. § (1)[^3] A központi nyilvántartás a pénztárak és az állami adóhatóság rendszeres és eseti adatszolgáltatási kötelezettségére épül. A központi nyilvántartásban tárolt adatok egyeztetése, ellenőrzése, a hiányzó adatok pótlása érdekében elrendelt eseti adatszolgáltatás tartalmát, formáját és a teljesítés módját a Felügyelet határozza meg, és elektronikus úton küldi meg a pénztárak és az állami adóhatóság részére.
+3. § (1)[^4] A központi nyilvántartás a pénztárak és az állami adóhatóság rendszeres és eseti adatszolgáltatási kötelezettségére épül. A központi nyilvántartásban tárolt adatok egyeztetése, ellenőrzése, a hiányzó adatok pótlása érdekében elrendelt eseti adatszolgáltatás tartalmát, formáját és a teljesítés módját a Felügyelet határozza meg, és elektronikus úton küldi meg a pénztárak és az állami adóhatóság részére.
 
 (2) Az adatszolgáltatás alapjául szolgáló bizonylatoknak alakilag és tartalmilag hiteleseknek, megbízhatóaknak és helytállóknak kell lenniük.
 
-(3)[^4] A pénztárak által alkalmazandó belépési nyilatkozat adattartalmát és az általuk készített adatszolgáltatás részletes tartalmát az 1. és 2. számú melléklet határozza meg.
+(3)[^5] A pénztárak által alkalmazandó belépési nyilatkozat adattartalmát és az általuk készített adatszolgáltatás részletes tartalmát az 1. és 2. számú melléklet határozza meg.
 
-(4)[^5]
+(4)[^6]
 
-(5)[^6] Az adatszolgáltatásokat elektronikus úton a Felügyelet által a Pénzügyi Közlönyben közzétett adatszerkezetnek megfelelő jelentések szerint kell teljesíteni.
+(5)[^7] Az adatszolgáltatásokat elektronikus úton a Felügyelet által a Pénzügyi Közlönyben közzétett adatszerkezetnek megfelelő jelentések szerint kell teljesíteni.
 
-[^3]: A 3. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^4]: A 3. § (3) bekezdése a 64/1998. (III. 31.) Korm. rendelet 19. §-ával megállapított és a 210/2000. (XII. 11.) Korm. rendelet 6. §-ának (2) bekezdése, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 3.§ (4) bekezdését a 64/1998. (III. 31.) Korm. rendelet 26. §-ának (1) bekezdése hatályon kívül helyezte.
-[^6]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 118. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdése a 64/1998. (III. 31.) Korm. rendelet 19. §-ával megállapított és a 210/2000. (XII. 11.) Korm. rendelet 6. §-ának (2) bekezdése, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 3.§ (4) bekezdését a 64/1998. (III. 31.) Korm. rendelet 26. §-ának (1) bekezdése hatályon kívül helyezte.
+[^7]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 118. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

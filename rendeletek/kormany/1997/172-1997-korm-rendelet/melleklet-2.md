@@ -1,4 +1,4 @@
-## 1.[^31] A belépési nyilatkozat adattartalma:
+## 1.[^32] A belépési nyilatkozat adattartalma:
 
 ## – Pénztártag természetes személyazonosító adatai
 
@@ -70,7 +70,7 @@
 
 ## – Magánnyugdíjpénztár záradékolása, aláírása
 
-## 2.[^32] A pénztártagsági jogviszony létesítéséhez, módosulásához és megszűnéséhez kapcsolódó adatok:
+## 2.[^33] A pénztártagsági jogviszony létesítéséhez, módosulásához és megszűnéséhez kapcsolódó adatok:
 
 ## – Pénztártag természetes személyazonosító adatai
 
@@ -132,13 +132,13 @@
 
 ## 5. A pénztár által megállapított nyugdíjpénztári szolgáltatások és egyösszegű kifizetések adatai:
 
-## –[^33] A szolgáltatást vagy egyösszegű kifizetést igénybe vevő személy azonosító adatai (neve, TAJ száma, adóazonosító jele/útlevélszáma, születési helye, születési dátuma, anyja neve, leánykori neve, lakóhelye: település neve, irányítószáma, közterület neve, jellege, házszám)
+## –[^34] A szolgáltatást vagy egyösszegű kifizetést igénybe vevő személy azonosító adatai (neve, TAJ száma, adóazonosító jele/útlevélszáma, születési helye, születési dátuma, anyja neve, leánykori neve, lakóhelye: település neve, irányítószáma, közterület neve, jellege, házszám)
 
 ## – A szolgáltatás vagy egyösszegű kifizetés igénybevételének jogalapja (saját jogon a nyugdíjkorhatár elérésekor, saját jogon a Tny. szerint megállapított rokkantsági nyugellátás igénybevétele esetén, kedvezményezetti jogon)
 
 ## – A Tny. szerint megállapított nyugellátás igénybevételének időpontja
 
-## –[^34] Kedvezményezettként igénybe vett szolgáltatás vagy egyösszegű kifizetés esetén a felhalmozó pénztártag azonosítója (TAJ száma, adóazonosító jele/útlevélszáma)
+## –[^35] Kedvezményezettként igénybe vett szolgáltatás vagy egyösszegű kifizetés esetén a felhalmozó pénztártag azonosítója (TAJ száma, adóazonosító jele/útlevélszáma)
 
 ## – A választott járadékszolgáltatás vagy egyösszegű kifizetés típusa (az Mpt. 27. §-a és 28. §-a alapján)
 
@@ -152,7 +152,7 @@
 
 ## – Pénztártag neve
 
-## –[^35] Pénztártag TAJ száma, adóazonosító jele vagy útlevélszáma
+## –[^36] Pénztártag TAJ száma, adóazonosító jele vagy útlevélszáma
 
 ## – Tárgyév (elszámolási időszak alapján)
 
@@ -184,7 +184,7 @@
 
 ## – A tagi követelés piaci értéke tárgyév december 31-én
 
-## 7.[^36] az adóhatóság által az egyéni nyugdíjjárulék számla vezetéséhez teljesített adatszolgáltatás adattartalma:
+## 7.[^37] az adóhatóság által az egyéni nyugdíjjárulék számla vezetéséhez teljesített adatszolgáltatás adattartalma:
 
 | 1. a Tbj. 44. §-ának (1) bekezdése szerinti nyilvántartásra kötelezett adatai (neve, székhelye, adóazonosító száma), |
 
@@ -222,12 +222,12 @@
 
 | 28. a felszolgálási díj után fizetett nyugdíjjárulékot is magában foglaló nyugdíjbiztosítási járulék alapjáról és összegéről |
 
-2. számú melléklet a 172/1997. (X. 6.) Korm. rendelethez[^37]
+2. számú melléklet a 172/1997. (X. 6.) Korm. rendelethez[^38]
 
-[^31]: Az 1. számú melléklet 1. pontja a 265/2005. (XII. 14.) Korm. rendelet 2. §-ával megállapított, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a, a 314/2009. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^32]: Az 1. számú melléklet 2. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: Az 1. számú melléklet 5. pontjának első francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
-[^34]: Az 1. számú melléklet 5. pontjának negyedik francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^35]: Az 1. számú melléklet 6. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
-[^36]: Az 1. számú melléklet 7. pontját a 297/2010. (XII. 23.) Korm. rendelet 9. § (6) bekezdése iktatta be.
-[^37]: A 2. számú mellékletet a 297/2010. (XII. 23.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^32]: Az 1. számú melléklet 1. pontja a 265/2005. (XII. 14.) Korm. rendelet 2. §-ával megállapított, valamint a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a, a 314/2009. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^33]: Az 1. számú melléklet 2. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 119–120. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: Az 1. számú melléklet 5. pontjának első francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 5. pontjának negyedik francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^36]: Az 1. számú melléklet 6. pontjának második francia bekezdése a 236/2006. (XI. 24.) Korm. rendelet – 330/2006. (XII. 23.) Korm. rendelet 14. § (2) bekezdésével megállapított – 6. § (3) bekezdése szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 7. pontját a 297/2010. (XII. 23.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^38]: A 2. számú mellékletet a 297/2010. (XII. 23.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
