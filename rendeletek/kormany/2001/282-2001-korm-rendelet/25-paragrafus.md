@@ -6,8 +6,8 @@
 
 25. § (1) Hitel- vagy kölcsöntartozással nem rendelkező pénztár a tulajdonában lévő, a gazdálkodás nyilvántartását, a biztosításmatematikai feladatok ellátását, a befektetési üzletmenetet végző szervezet részére kölcsönt nyújthat, tőle tartozást vállalhat át, és érte bírósági úton érvényesíthető követelésre nem készfizető kezességet vállalhat.
 
-(2)[^64] Az (1) bekezdés szerint vállalt kötelezettségek összességükben nem haladhatják meg a pénztár kötelezettségvállalás időpontjában meglévő likviditási tartalékainak 30%-át.
+(2)[^66] Az (1) bekezdés szerint vállalt kötelezettségek összességükben nem haladhatják meg a pénztár kötelezettségvállalás időpontjában meglévő likviditási tartalékainak 30%-át.
 
 (3) A kötelezettségvállalást, az azt bizonyító okirat másolatával, annak keletkezését követő 8 napon belül be kell jelenteni a Felügyeletnek.
 
-[^64]: A 25. § (2) bekezdés második mondatát a 335/2008. (XII. 30.) Korm. rendelet 29. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^66]: A 25. § (2) bekezdés második mondatát a 335/2008. (XII. 30.) Korm. rendelet 29. § (1) bekezdés a) pontja hatályon kívül helyezte.

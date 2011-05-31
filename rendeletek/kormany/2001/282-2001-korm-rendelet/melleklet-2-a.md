@@ -1,4 +1,4 @@
-2/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^115]
+2/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^118]
 
 I. Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó prudenciális elvárások
 
@@ -26,7 +26,7 @@ II. Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó á
 
 7. A nem OECD, illetve EU-tagállam, vagy az EGT-megállapodásban részes állambeli kibocsátó értékpapírjába történő befektetések aránya – választható portfoliónként – nem haladhatja meg a külföldi befektetések 20 százalékát.
 
-8.[^116]
+8.[^119]
 
 9. Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök (illetve választható portfoliós rendszer esetében az egyes portfoliók értékének) 10 százalékát nem haladhatja meg.
 
@@ -42,7 +42,7 @@ III. Az egyes választható portfoliókra vonatkozó prudenciális elvárások, 
 
 1.3. A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 10 százalékát nem haladhatja meg.
 
-1.4.[^117]
+1.4.[^120]
 
 2. Kiegyensúlyozott portfolióra vonatkozó elvárások, előírások:
 
@@ -60,6 +60,6 @@ III. Az egyes választható portfoliókra vonatkozó prudenciális elvárások, 
 
 3.3. A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok arányának a befektetett eszközök 40 százalékát meg kell haladnia.
 
-[^115]: A 2/A. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 12. §-a iktatta be.
-[^116]: A 2/A. számú melléklet II. részének 8. pontját a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^117]: A 2/A. számú melléklet III. rész 1. pont 1.4. alpontját a 155/2009. (VII. 23.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^118]: A 2/A. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 12. §-a iktatta be.
+[^119]: A 2/A. számú melléklet II. részének 8. pontját a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^120]: A 2/A. számú melléklet III. rész 1. pont 1.4. alpontját a 155/2009. (VII. 23.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.

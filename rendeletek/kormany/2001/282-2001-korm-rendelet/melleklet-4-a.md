@@ -54,6 +54,8 @@
 
 ## b) Választható portfoliós rendszerben a referenciaindex hozamát (referenciahozamot) választható portfoliónként, az a) pont szerinti módszerrel is ki kell számítani.
 
-4/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^127]
+4/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^130]
 
-[^127]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 10/2009. (I. 27.) Korm. rendelet 6. § (7) bekezdése és a 27/2009. (II. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+A 10 éves vagyonnövekedési mutató meghatározása
+
+[^130]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 10/2009. (I. 27.) Korm. rendelet 6. § (7) bekezdése és a 27/2009. (II. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.

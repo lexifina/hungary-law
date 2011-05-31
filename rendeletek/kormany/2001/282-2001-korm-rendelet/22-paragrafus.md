@@ -1,4 +1,4 @@
-22. §[^60] (1)[^61] A pénztár köteles a pénztártag egyéni számlájának tárgyévi alakulásáról, valamint annak tárgyév végi egyenlegéről számlaértesítőt küldeni a pénztártag részére évente legalább egy alkalommal, legkésőbb a tárgyévet követő év június 30-ig. A tárgyévben elszámolóegységre épülő rendszert alkalmazó pénztár esetén a számlaértesítőt a tárgyévet követő év február 28-ig kell megküldeni. 2011. évben a pénztár tagjai részére az egyéni számlaértesítőt 2011. június 30-áig küldi meg. A társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag részére a tárgyévben esedékes számlaértesítőt a taggal való elszámolást követő 30 napon belül kell megküldeni.
+22. §[^61] (1)[^62] A pénztár köteles a pénztártag egyéni számlájának tárgyévi alakulásáról, valamint annak tárgyév végi egyenlegéről számlaértesítőt küldeni a pénztártag részére évente legalább egy alkalommal, legkésőbb a tárgyévet követő év június 30-ig. A tárgyévben elszámolóegységre épülő rendszert alkalmazó pénztár esetén a számlaértesítőt a tárgyévet követő év február 28-ig kell megküldeni. 2011. évben a pénztár tagjai részére az egyéni számlaértesítőt 2011. június 30-áig küldi meg. A társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag részére a 2010. és 2011. évre vonatkozó számlaértesítőt a kifizetést követő 5 munkanapon belül, de legkésőbb 2011. augusztus 31-ig kell megküldeni.
 
 (2) Amennyiben a pénztár nem működtet elszámolóegységen alapuló nyilvántartási rendszert, a pénztártagnak küldött számlaértesítőnek legalább tartalmaznia kell:
 
@@ -28,7 +28,7 @@ l) a tag részére nyugdíjba vonulásakor várhatóan folyósítandó járadék
 
 m) az első pénztári tagsági jogviszony kezdő időpontját,
 
-n)[^62] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
+n)[^63] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
 
 o) a választható befektetési portfóliók közötti váltás címén az egyéni számláról történő levonás összegét,
 
@@ -62,15 +62,36 @@ k) a tag részére nyugdíjba vonulásakor várhatóan folyósítandó járadék
 
 l) az első pénztári tagsági jogviszony kezdő időpontját,
 
-m)[^63] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
+m)[^64] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
 
 n) a tag által választott befektetési portfólió(k) megnevezését,
 
 o) a tag tájékoztatása érdekében az egyes portfóliók tárgyévi hozamát, a portfóliók közötti váltás módjával és annak költségeivel kapcsolatos tájékoztatást.
 
+(3a)[^65] A társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártagok számára küldendő számlaértesítő a (3) bekezdésben foglaltakon túl az alábbiakat tartalmazza:
+
+a) a Nyugdíjreform és Adósságcsökkentő Alap részére az Mpt. 24. § (11) bekezdése alapján átutalt tagi követelés összegét, csökkentve a visszalépő tagi kifizetés összegével,
+
+aa) az egyéni számlán jóváírt tagdíj összegét csökkentve az egyéni számlán jóváírt hozamokkal,
+
+ab) az egyéni számlán jóváírt hozam összegét,
+
+ac) a hozamgarantált tőke összegét, továbbá
+
+b) a visszalépő tagi kifizetés összegét,
+
+ba) a munkavállalói tagdíj-kiegészítés összegét,
+
+bb) munkáltatói tagdíj-kiegészítés összegét,
+
+bc) a hozamgarantált tőke feletti összeget,
+
+bd) a visszalépő tagi kifizetés összegének (munkavállalói, munkáltatói tagdíj-kiegészítés összege, hozamgarantált tőke feletti összeg) kifizetésével kapcsolatban felmerülő költség összegét.
+
 (4) Amennyiben a pénztár egyéni számlára vonatkozó hozamrátát közöl a számlaértesítőben, akkor köteles feltüntetni a számítás módját is, amelynek alapján a tag a számlakivonaton szereplő adatokból azt ellenőrizni tudja.
 
-[^60]: A 22. § a 369/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^61]: A 22. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^62]: A 22. § (2) bekezdésének n) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^63]: A 22. § (3) bekezdésének m) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^61]: A 22. § a 369/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^62]: A 22. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 87/2011. (V. 31.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^63]: A 22. § (2) bekezdésének n) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^64]: A 22. § (3) bekezdésének m) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^65]: A 22. § (3a) bekezdését a 87/2011. (V. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.

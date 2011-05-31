@@ -1,4 +1,4 @@
-16/E. §[^51] (1) Nem bízható meg ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel az a gazdasági társaság,
+16/E. §[^52] (1) Nem bízható meg ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel az a gazdasági társaság,
 
 a) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének y) pontja szerinti közeli hozzátartozója a pénztár alkalmazottja, megbízottja vagy a pénztár vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének y) pontja szerinti közeli hozzátartozója;
 
@@ -10,4 +10,4 @@ c) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tiszt
 
 (3) Amennyiben az ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel megbízott gazdasági társaságban a pénztár önállóan, vagy más önkéntes kölcsönös biztosító pénztárral, vagy magánnyugdíjpénztárral közösen 100%-os tulajdonrésszel rendelkezik, akkor az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni.
 
-[^51]: A 16/E. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^52]: A 16/E. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.

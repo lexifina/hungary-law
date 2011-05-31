@@ -14,7 +14,7 @@
 
 ## 4. Az értékelés körébe tartozó eszközök teljeskörűen megegyeznek a Felügyeletnek küldött negyedéves jelentés megfelelő adataival.
 
-## 5.[^118] A pénztár az értékelést a pénztár egészére elkülönítve, a likviditási, a működési, valamint a fedezeti tartalék eszközei szerint, s ezen belül az egyéni számlák tartalékára és a szolgáltatási tartalékokra megbontva végzi. Választható portfoliós rendszer esetében a fedezeti tartalék eszközeit portfoliónkénti bontásban kell kimutatni és értékelni.
+## 5.[^121] A pénztár az értékelést a pénztár egészére elkülönítve, a likviditási, a működési, valamint a fedezeti tartalék eszközei szerint, s ezen belül az egyéni számlák tartalékára és a szolgáltatási tartalékokra megbontva végzi. Választható portfoliós rendszer esetében a fedezeti tartalék eszközeit portfoliónkénti bontásban kell kimutatni és értékelni.
 
 ## 6. A pénztár könyvvizsgálója az óvatosság számviteli elvének érvényesítése érdekében – külön indoklással – alacsonyabb érték megállapítása céljából eltérhet a II. fejezetben leírt értékelési eljárásoktól.
 
@@ -34,11 +34,11 @@
 
 ## a) a pénztár tulajdonában lévő, a tőzsdén jegyzett fix és változó kamatozású kötvények, valamint a diszkont kincstárjegyek esetén – az elsődleges forgalmazói rendszerbe bevezetett államkötvényeket és diszkont kincstárjegyeket kivéve – egységesen az értékelési időszakban az utolsó tőzsdei záró nettó árfolyam felhasználásával kell értékelni oly módon, hogy a nettó árhoz a piaci érték meghatározásakor hozzá kell adni a fordulónapig felhalmozott kamatokat;
 
-## b)[^119] az elsődleges forgalmazói rendszerbe bevezetett, kötelező árjegyzésű, 3 hónapnál hosszabb hátralévő futamidejű fix és változó kamatozású, illetve diszkont állampapírok esetén az Államadósság Kezelő Központ (a továbbiakban: ÁKK) által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett legjobb vételi és eladási nettó árfolyamok számtani átlaga és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+## b)[^122] az elsődleges forgalmazói rendszerbe bevezetett, kötelező árjegyzésű, 3 hónapnál hosszabb hátralévő futamidejű fix és változó kamatozású, illetve diszkont állampapírok esetén az Államadósság Kezelő Központ (a továbbiakban: ÁKK) által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett legjobb vételi és eladási nettó árfolyamok számtani átlaga és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
 
-## c)[^120] az elsődleges forgalmazói rendszerben nem kötelező árjegyzésű, 3 hónapnál rövidebb hátralévő futamidejű, fix kamatozású és diszkont állampapírok – ideértve az állami készfizető kezességgel rendelkező értékpapírokat is – esetén az ÁKK által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett 3 hónapos referenciahozam felhasználásával a fordulónapra számított nettó árfolyam és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+## c)[^123] az elsődleges forgalmazói rendszerben nem kötelező árjegyzésű, 3 hónapnál rövidebb hátralévő futamidejű, fix kamatozású és diszkont állampapírok – ideértve az állami készfizető kezességgel rendelkező értékpapírokat is – esetén az ÁKK által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett 3 hónapos referenciahozam felhasználásával a fordulónapra számított nettó árfolyam és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
 
-## d)[^121] ha tőzsdére bevezetett hitelviszonyt megtestesítő értékpapírnak – az elsődleges forgalmazói rendszerbe bevezetett állampapírokat kivéve – nincsen 30 napnál nem régebbi árfolyama, akkor a piaci érték meghatározása a tőzsdén kívüli kereskedelem szerinti regisztrált és a fordulónapig közzétett utolsó, forgalommal súlyozott nettó átlagár és a fordulónapig felhalmozott kamat felhasználásával történik, ha ez az adat nem régebbi 30 napnál. A tőzsdén kívüli kereskedelem szerint regisztrált árfolyamok 30 napos érvényessége a közzétételben megjelölt időszak, azaz a vonatkozási időszak utolsó napjától számítandó akkor is, ha az nem munkanapra esik. Ugyanezen módszert kell alkalmazni a tőzsdére be nem vezetett hitelviszonyt megtestesítő értékpapírra;
+## d)[^124] ha tőzsdére bevezetett hitelviszonyt megtestesítő értékpapírnak – az elsődleges forgalmazói rendszerbe bevezetett állampapírokat kivéve – nincsen 30 napnál nem régebbi árfolyama, akkor a piaci érték meghatározása a tőzsdén kívüli kereskedelem szerinti regisztrált és a fordulónapig közzétett utolsó, forgalommal súlyozott nettó átlagár és a fordulónapig felhalmozott kamat felhasználásával történik, ha ez az adat nem régebbi 30 napnál. A tőzsdén kívüli kereskedelem szerint regisztrált árfolyamok 30 napos érvényessége a közzétételben megjelölt időszak, azaz a vonatkozási időszak utolsó napjától számítandó akkor is, ha az nem munkanapra esik. Ugyanezen módszert kell alkalmazni a tőzsdére be nem vezetett hitelviszonyt megtestesítő értékpapírra;
 
 ## e) ha a fenti értékelési módszerek nem használhatóak, akkor a nettó beszerzési árat kell felhasználni oly módon, hogy a piaci érték meghatározásakor hozzá kell adni az utolsó kamatfizetés óta a fordulónapig felhalmozott kamatokat.
 
@@ -56,7 +56,7 @@
 
 ## a) a nyíltvégű befektetési alap befektetési jegyét az alapkezelő által közzétett legutolsó egy jegyre jutó nettó eszközértéken kell figyelembe venni;
 
-## b)[^122] zárt végű befektetési alap befektetési jegye esetében az utolsó tőzsdei záróárfolyam és az utolsó nyilvánosságra hozott nettó eszközérték közül az alacsonyabbat kell figyelembe venni. Az utolsó tőzsdei záróárfolyam akkor alkalmazható, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi. A kockázati tőkealap-jegyeket is a zárt végű befektetési alapokra vonatkozó értékelési módszer alapján kell értékelni.
+## b)[^125] zárt végű befektetési alap befektetési jegye esetében az utolsó tőzsdei záróárfolyam és az utolsó nyilvánosságra hozott nettó eszközérték közül az alacsonyabbat kell figyelembe venni. Az utolsó tőzsdei záróárfolyam akkor alkalmazható, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi. A kockázati tőkealap-jegyeket is a zárt végű befektetési alapokra vonatkozó értékelési módszer alapján kell értékelni.
 
 ## 7. Jelzáloglevél: a jelzáloglevelet a hitelviszonyt megtestesítő értékpapírokhoz hasonlóan, a 4.1. pont szerint kell értékelni.
 
@@ -88,20 +88,20 @@
 
 ## 11. Repó (fordított repó): az ügylet árkülönbözetének naptári napra számított időarányos (lineáris) része.
 
-## 12.[^123] Ingatlan: az ingatlanokat a pénztár által meghatározott fordulónapra, de legalább az üzleti év fordulónapjára, 3 hónapnál nem régebbi, a pénztártól független ingatlanértékelő által készített értékbecslés alapján kell értékelni. Az ingatlan beszerzésének évében a pénztár az ingatlant könyv szerinti értéken is értékelheti. A követelés fejében átvett, 10 millió forint bekerülési értéket meg nem haladó ingatlantulajdon a pénztár könyvvizsgálója által hitelesített piaci értéken is értékelhető. Az ingatlanértékelő által végzett értékbecslések között végzett ingatlan beruházást könyv szerinti értéken kell értékelni.
+## 12.[^126] Ingatlan: az ingatlanokat a pénztár által meghatározott fordulónapra, de legalább az üzleti év fordulónapjára, 3 hónapnál nem régebbi, a pénztártól független ingatlanértékelő által készített értékbecslés alapján kell értékelni. Az ingatlan beszerzésének évében a pénztár az ingatlant könyv szerinti értéken is értékelheti. A követelés fejében átvett, 10 millió forint bekerülési értéket meg nem haladó ingatlantulajdon a pénztár könyvvizsgálója által hitelesített piaci értéken is értékelhető. Az ingatlanértékelő által végzett értékbecslések között végzett ingatlan beruházást könyv szerinti értéken kell értékelni.
 
-## 13.[^124] Swap: a letétkezelő belső értékelési szabályzata alapján kell értékelni.
+## 13.[^127] Swap: a letétkezelő belső értékelési szabályzata alapján kell értékelni.
 
-## 14.[^125] Az egyéb, tőzsdén vagy más szabályozott piacon forgalmazott, fenti kategóriákba nem sorolható értékpapír esetében a piaci érték forrása azon tőzsdei vagy más szabályozott piaci árfolyam, ahol az adott értékpapír forgalma jellemzően zajlik. Amennyiben a vonatkozó piacról 30 napnál frissebb árfolyam nem érhető el, akkor a beszerzési árat kell az értékeléshez alkalmazni.
+## 14.[^128] Az egyéb, tőzsdén vagy más szabályozott piacon forgalmazott, fenti kategóriákba nem sorolható értékpapír esetében a piaci érték forrása azon tőzsdei vagy más szabályozott piaci árfolyam, ahol az adott értékpapír forgalma jellemzően zajlik. Amennyiben a vonatkozó piacról 30 napnál frissebb árfolyam nem érhető el, akkor a beszerzési árat kell az értékeléshez alkalmazni.
 
-4. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^126]
+4. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^129]
 
-[^118]: A 3. számú melléklet I. része 5. pontjának második mondatát a 234/2006. (XI. 24.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^119]: A 3. számú melléklet II. része 4. pontjának b) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^120]: A 3. számú melléklet II. része 4. pontjának c) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^121]: A 3. számú melléklet II. része 4. pontjának d) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^122]: A 3. számú melléklet II. rész 6. pontja b) alpontjának második és harmadik mondatát a 332/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^123]: A 3. számú melléklet II. fejezetének 12. pontját a 300/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta be, szövege a 369/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^124]: A 3. számú melléklet II. részének 13. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^125]: A 3. számú melléklet II. részének 14. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^126]: A 4. számú melléklet a 332/2005. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 234/2006. (XI. 24.) Korm. rendelet 14. §-a, a 369/2007. (XII. 23.) Korm. rendelet 16. §-a, a 335/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^121]: A 3. számú melléklet I. része 5. pontjának második mondatát a 234/2006. (XI. 24.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^122]: A 3. számú melléklet II. része 4. pontjának b) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^123]: A 3. számú melléklet II. része 4. pontjának c) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^124]: A 3. számú melléklet II. része 4. pontjának d) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^125]: A 3. számú melléklet II. rész 6. pontja b) alpontjának második és harmadik mondatát a 332/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^126]: A 3. számú melléklet II. fejezetének 12. pontját a 300/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta be, szövege a 369/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^127]: A 3. számú melléklet II. részének 13. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^128]: A 3. számú melléklet II. részének 14. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^129]: A 4. számú melléklet a 332/2005. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 234/2006. (XI. 24.) Korm. rendelet 14. §-a, a 369/2007. (XII. 23.) Korm. rendelet 16. §-a, a 335/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

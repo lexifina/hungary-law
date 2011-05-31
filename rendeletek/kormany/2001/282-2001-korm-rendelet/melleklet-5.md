@@ -1,5 +1,3 @@
-## A 10 éves vagyonnövekedési mutató meghatározása
-
 ## A pénztárnak a vagyonnövekedési mutatót a következő képlet szerint kell meghatároznia:
 
 ## ahol
@@ -16,6 +14,6 @@
 
 ## vb = a tárgyévet megelőző 9. évben a pénztár fedezeti tartaléka egy pénztártagra jutó vagyonának nyitó értéke.
 
-5. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^128]
+5. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^131]
 
-[^128]: Az 5. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^131]: Az 5. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
