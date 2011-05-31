@@ -8,11 +8,11 @@ b) a mérleg fordulónapja előtti időszakot terhelő – a pénztár működé
 
 c) a mérleg fordulónapja és elkészítésének időpontja között a pénztárral szemben érvényesített, benyújtott, ismertté vált, a mérleggel lezárt üzleti évhez kapcsolódó kártérítési igényt, késedelmi kamatot, kártérítést, bírósági költséget;
 
-d)[^69]
+d)[^71]
 
 (3) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni a rendkívüli bevételként elszámolt térítés nélkül (visszaadási kötelezettség nélkül) átvett eszközök átadónál kimutatott nyilvántartás szerinti (legfeljebb forgalmi, piaci) értékét, továbbá az ajándékként, a hagyatékként kapott, a többletként fellelt eszközök piaci értékét. A térítés nélkül átvett eszközök esetében elkülönítetten kell nyilvántartani a működési célú, a tartós befektetési célú, valamint a továbbértékesítési célú eszközökkel kapcsolatos passzív időbeli elhatárolásokat.
 
-(4)[^70] A költségek és ráfordítások passzív időbeli elhatárolásaként kell kimutatni az elszámoló egység napi nettó árfolyamának megállapításakor figyelembe vett, a tárgyidőszakot időarányosan terhelő, de még nem számlázott vagyonkezelési, letétkezelési és egyéb díjak befektetési tevékenységgel kapcsolatos egyéb ráfordításként elszámolt összegét. Amennyiben a vagyonkezelőt szerződés szerint teljesítményhez kötött díjazás illeti meg, akkor a szerződés szerinti díj tárgyidőszakra jutó időarányos összegét a havi zárás keretében kell elhatárolni.
+(4)[^72] A költségek és ráfordítások passzív időbeli elhatárolásaként kell kimutatni az elszámoló egység napi nettó árfolyamának megállapításakor figyelembe vett, a tárgyidőszakot időarányosan terhelő, de még nem számlázott vagyonkezelési, letétkezelési és egyéb díjak befektetési tevékenységgel kapcsolatos egyéb ráfordításként elszámolt összegét. Amennyiben a vagyonkezelőt szerződés szerint teljesítményhez kötött díjazás illeti meg, akkor a szerződés szerinti díj tárgyidőszakra jutó időarányos összegét a havi zárás keretében kell elhatárolni.
 
-[^69]: A 27. § (2) bekezdésének d) pontját a 293/2001. (XII. 26.) Korm. rendelet 24. §-a hatályon kívül helyezte.
-[^70]: A 27. § (4) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 325/2009. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.
+[^71]: A 27. § (2) bekezdésének d) pontját a 293/2001. (XII. 26.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^72]: A 27. § (4) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 325/2009. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 46. § (1) és (3) bekezdését.

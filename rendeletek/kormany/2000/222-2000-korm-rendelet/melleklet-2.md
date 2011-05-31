@@ -2,6 +2,8 @@
 
 ## Ezer forintban
 
+## 7M14928M_0
+
 | Megnevezés | Előző évi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Előző évi felülvizs- gált beszá- moló záró adatai | Tárgyévi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Tárgyévi felül- vizsgált beszámoló záró adatai |
 
 | ESZKÖZÖK (AKTÍVÁK) |
@@ -232,15 +234,15 @@
 
 |  |  | 5. | Az adóhatóság magánnyugdíjpénztári beszedési számláiról átutalt, bevallási adatokhoz még nem rendelhető befizetések |  |  |  |  |
 
-|  |  |  | 5.1. Az adóhatóság magánnyugdíjpénztári beszedési számláiról átutalt munkáltatóhoz rendelhető befizetés |  |  |  |  |
+|  |  |  | 5.1. Az adóhatóság magánnyugdíjpénztári beszedési számláiról átutalt munkáltatóhoz rendelhető befizetés |  |  |  |  |
 
-|  |  |  | 5.2. Az adóhatóság magánnyugdíjpénztári beszedési számláiról átutalt munkáltatóhoz nem rendelhető befizetés |  |  |  |  |
+|  |  |  | 5.2. Az adóhatóság magánnyugdíjpénztári beszedési számláiról átutalt munkáltatóhoz nem rendelhető befizetés |  |  |  |  |
 
 |  |  | 6. | Egyéb azonosítatlan (függő) befizetések |  |  |  |
 
-|  |  |  | 6.1. Munkáltatóhoz rendelhető függő befizetések |  |  |  |
+|  |  |  | 6.1. Munkáltatóhoz rendelhető függő befizetések |  |  |  |
 
-|  |  |  | 6.2. Munkáltatóhoz és taghoz nem rendelhető függő befizetések |  |  |  |
+|  |  |  | 6.2. Munkáltatóhoz és taghoz nem rendelhető függő befizetések |  |  |  |
 
 | G) | Passzív időbeli elhatárolások |  |  |  |
 
@@ -250,6 +252,6 @@
 
 |  |  | 3. | Halasztott bevételek |  |  |  |  |
 
-2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^218]
+2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^223]
 
-[^218]: A 2. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 285/2005. (XII. 20.) Korm. rendelet 33. § (1)–(2) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 17. §-a, a 396/2007. (XII. 27.) Korm. rendelet 31. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi rendelet 77. § (1) bekezdését.
+[^223]: A 2. számú melléklet a 287/2002. (XII. 23.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 285/2005. (XII. 20.) Korm. rendelet 33. § (1)–(2) bekezdése, valamint a 358/2006. (XII. 27.) Korm. rendelet 17. §-a, a 396/2007. (XII. 27.) Korm. rendelet 31. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi rendelet 77. § (1) bekezdését.

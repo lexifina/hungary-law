@@ -28,7 +28,11 @@ k)[^6] bevallási adat: az adózás rendjéről szóló 2003. évi XCII. törvé
 
 l)[^7] értékelés napja a napi értékelés vonatkozásában: minden munkanap, illetve a hónap utolsó napja (ha az nem munkanap);
 
-m)[^8] a működési és a likviditási tartalék forrásai kimerültnek tekintendőek: ha a jegyzett tőke és az egyéb kockázatokra képzett likviditási és kockázati céltartalék értéke a tárgyhónapot megelőző havi zárást követően tárgyhónapot követő hónap működési kiadásaira nem nyújt fedezetet.
+m)[^8] a működési és a likviditási tartalék forrásai kimerültnek tekintendők: amennyiben a pénztár tárgyhónapot megelőző havi zárásakor meglévő saját tőkéjének, működési céltartalékának, valamint likviditási és kockázati céltartalékának likvid eszközökben meglévő eszközfedezete nem nyújt fedezetet a tárgyhónapot követő hónap működési kiadásaira;
+
+n)[^9] a saját tőke és a működési céltartalék eszközfedezete: a működési célú befektetési portfolió részét képező eszközök, valamint a működési célt szolgáló egyéb, forgóeszköznek minősülő eszközök;
+
+o)[^10] a likviditási és kockázati céltartalék eszközfedezete: a likviditási és kockázati célú befektetési portfolió részét képező eszközök.
 
 [^1]: A 2. § f) pontja a 325/2009. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
 [^2]: A 2. § g) pontját a 287/2002. (XII. 23.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
@@ -37,4 +41,6 @@ m)[^8] a működési és a likviditási tartalék forrásai kimerültnek tekinte
 [^5]: A 2. § j) pontját a 285/2005. (XII. 20.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^6]: A 2. § k) pontját a 396/2007. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
 [^7]: A 2. § l) pontját a 325/2009. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^8]: A 2. § m) pontját a 297/2010. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^8]: A 2. § m) pontját a 297/2010. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § n) pontját a 87/2011. (V. 31.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^10]: A 2. § o) pontját a 87/2011. (V. 31.) Korm. rendelet 14. § (1) bekezdése iktatta be.
