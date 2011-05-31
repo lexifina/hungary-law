@@ -664,7 +664,7 @@
 
 | Folyékony étrend-kiegészítők | 100 mg/l |
 
-| Szilárd étrend-kiegészítők(1) | 300 mg/kg |
+| Szilárd étrend-kiegészítők | 300 mg/kg |
 
 | Levesek | 50 mg/kg |
 
@@ -679,8 +679,6 @@
 | Almabor (a cidre bouche kivételével) és körtebor |  |
 
 | Ízesített gyümölcsborok, ízesített alma- és körtebor, gyümölcslikőrbor |  |
-
-## (1) Megjegyzés: kapszulás termékek esetében a kapszulára nem vonatkozik az előírás.
 
 5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^30]
 
