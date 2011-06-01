@@ -12,7 +12,7 @@ c) a közigazgatási szerv által írásban meghatározott feltételeket teljes�
 
 (7) A pályakezdőként kinevezett köztisztviselőnek a tanácsos besorolási fokozatba soroláshoz közigazgatási szakvizsgát kell tennie. Közigazgatási szakvizsga hiányában a köztisztviselő nem sorolható a tanácsos besorolási fokozatba.
 
-(8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt köztisztviselő tehet, aki közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik és részt vett a jogszabály által meghatározott felkészítő tanfolyamon. A jegyző, főjegyző és a vezetői megbízással, kinevezéssel rendelkező köztisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
+(8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt köztisztviselő tehet, aki közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik. A jegyző, főjegyző és a vezetői megbízással, kinevezéssel rendelkező köztisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
 
 (9) E törvény alkalmazásában közigazgatási szakvizsgával egyenértékű a jogi szakvizsga, valamint az OKV elnöksége által teljes körűen közigazgatási jellegűnek minősített tudományos fokozat és az annak alapján adott mentesítés. Az OKV elnöksége részben is közigazgatási jellegűnek minősítheti a köztisztviselő tudományos fokozatát, ebben az esetben a köztisztviselő a közigazgatási szakvizsgának abból a részéből tesz vizsgát, amelyre a mentesítés nem vonatkozik.
 

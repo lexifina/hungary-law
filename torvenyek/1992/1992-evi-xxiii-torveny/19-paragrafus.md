@@ -56,9 +56,11 @@ a) a felmentés a gyakornoki idő alatt történt;
 
 b) legkésőbb a közszolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül [19/A. § (1) bekezdés].
 
-c) egészségügyi okot kivéve alkalmatlanság címén mentették fel;
+c) felmentésére a 17. § (2) bekezdés b) pontjában meghatározott okból került sor;
 
-d) közszolgálati jogviszonya a 17/A. § (1) bekezdése szerint szűnt meg és az új munkáltatóval a 17/A. § (3) bekezdése szerint foglalkoztatásra irányuló jogviszonyt létesít.
+d) közszolgálati jogviszonya a 17/A. § (1) bekezdése szerint szűnt meg és az új munkáltatóval a 17/A. § (3) bekezdése szerint foglalkoztatásra irányuló jogviszonyt létesít;
+
+e) méltatlanság címén mentették fel [17. § (2) bekezdés a) pont].
 
 (9) Ha a köztisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

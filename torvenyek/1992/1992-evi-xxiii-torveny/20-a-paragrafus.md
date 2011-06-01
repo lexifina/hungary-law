@@ -1,6 +1,6 @@
 ## A tartalékállomány
 
-20/A. § (1) Ha a közigazgatási szervnél alkalmazott köztisztviselőt közszolgálati jogviszonyából a 17. § (1) bekezdése alapján vagy a (2) bekezdés a) pontjában meghatározott ok miatt mentik fel, legfeljebb a felmentési idő tartamára beleegyezésével tartalékállományba kell helyezni abból a célból, hogy számára másik közigazgatási szervnél képzettségének, besorolásának megfelelő állást ajánljanak fel. Ha a köztisztviselő a tartalékállományba helyezéséhez nem járul hozzá, vagy kérésére a tartalékállományból törlik, a reá irányadó végkielégítés felére jogosult. A közszolgálati jogviszony megszűnésével a tartalékállományba helyezés is megszűnik.
+20/A. § (1) Ha a közigazgatási szervnél alkalmazott köztisztviselőt közszolgálati jogviszonyából a 17. § (1) bekezdés a)–c) pontjaiban meghatározott okból, vagy a 17. § (2) bekezdés b)–d) pontjaiban meghatározott okból mentik fel vagy a 15. § (1) bekezdés g) pontja alapján szűnik meg a jogviszonya, legfeljebb a felmentési idő tartamára beleegyezésével tartalékállományba kell helyezni abból a célból, hogy számára másik közigazgatási szervnél képzettségének, besorolásának megfelelő állást ajánljanak fel. Ha a köztisztviselő a tartalékállományba helyezéséhez nem járul hozzá, vagy kérésére a tartalékállományból törlik, a reá irányadó végkielégítés felére jogosult. A közszolgálati jogviszony megszűnésével a tartalékállományba helyezés is megszűnik.
 
 (2) A tartalékállományba helyezésről a közigazgatási szerv hivatali szervezetének a vezetője intézkedik. Intézkedéséről – a Kormány által meghatározott rendben – haladéktalanul értesíti a központi közszolgálati hatóság központi közszolgálati nyilvántartását (62/A. §).
 
@@ -16,7 +16,7 @@ b)
 
 (6) A tartalékállományba helyezés nem érinti a köztisztviselő közszolgálati jogviszonyából eredő jogokat, illetve kötelezettségeket.
 
-(7) Meg kell szüntetni a tartalékállományba helyezést, ha hat hónapon belül:
+(7) Meg kell szüntetni a tartalékállományba helyezést, ha:
 
 a) a köztisztviselőt új munkakörbe helyezik át;
 

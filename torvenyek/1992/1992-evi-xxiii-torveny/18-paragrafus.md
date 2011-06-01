@@ -1,4 +1,4 @@
-18. § (1) A felmentési idő két hónap. Ettől eltérően, ha a felmentés – az egészségügyi alkalmatlanság esetét kivéve – a 17. § (2) bekezdésének b) pontján alapul, a felmentési idő egy hónap.
+18. § (1) A felmentési idő két hónap. Ettől eltérően, ha a felmentés a 17. § (2) bekezdésének b) pontján alapul, a felmentési idő egy hónap.
 
 (2) Határozott idejű közszolgálati jogviszony megszüntetése esetén a felmentési idő nem terjedhet túl azon az időponton, amikor a közszolgálati jogviszony a kinevezés értelmében felmentés nélkül is megszűnt volna.
 
