@@ -658,6 +658,6 @@
 
 |  |  | Tilos |  |  |
 
-2. számú melléklet a 45/2007. (XII. 29.) PM rendelethez[^13]
+2. számú melléklet a 45/2007. (XII. 29.) PM rendelethez[^14]
 
-[^13]: A 2. számú mellékletet a 42/2008. (XII. 31.) PM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^14]: A 2. számú mellékletet a 42/2008. (XII. 31.) PM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
