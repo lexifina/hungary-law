@@ -1,0 +1,1 @@
+## „(4) Az egyes ellátások nyújtásának szakmai feltételeit a 2. számú melléklet, az egyes ellátások keretein belül igénybe vehető kezelések időtartamának meghatározását pedig a 3. számú melléklet tartalmazza.”
