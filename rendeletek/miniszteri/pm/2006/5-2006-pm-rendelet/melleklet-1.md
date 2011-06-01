@@ -1,4 +1,4 @@
-1. számú melléklet az 5/2006. (II. 7.) PM rendelethez[^19]
+1. számú melléklet az 5/2006. (II. 7.) PM rendelethez[^20]
 
 | 42A1A A biztosító nem-élet üzletág állományának bemutatása a tárgy időszak végén (darab) |
 
@@ -784,4 +784,4 @@
 
 |  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^19]: Az 1. számú melléklet a 24/2010. (XII. 31.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 1. számú melléklet a 24/2010. (XII. 31.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
