@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2010-12-24 | 2010. évi CXXXV. törvény | 1992-66-00-00.44 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1992-66-00-00.45 |
 | 2011-03-09 | 2011. évi XIV. törvény | 1992-66-00-00.46 |
+| 2011-06-01 | 2011. évi XLIX. törvény | 1992-66-00-00.47 |

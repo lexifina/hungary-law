@@ -6,7 +6,7 @@
 
 a) a nyilvántartás (6. §) szerveinek;
 
-b) a szülő, illetve hozzátartozó a születés és a haláleset bejelentésekor az egészségügyi intézménynek, illetve az anyakönyvvezetőnek;
+b) a szülő, illetve hozzátartozó a születés és a haláleset bejelentésekor az egészségügyi intézménynek és az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személynek, illetve az anyakönyvvezetőnek;
 
 c) a házasulók a házassági szándékuk bejelentésekor, illetve a bejegyzett élettársi kapcsolatot létesítők e szándékuk bejelentésekor az anyakönyvvezetőnek;
 
