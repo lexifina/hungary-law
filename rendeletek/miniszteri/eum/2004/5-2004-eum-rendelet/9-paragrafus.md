@@ -1,3 +1,5 @@
 9. § (1) Az 1. § (2) bekezdése a) pontjának ai) alpontja szerinti gyógyászati ellátás négy különböző, az 1. § (2) bekezdése a) pontjának aa)–ah) alpontjai szerinti gyógyászati ellátások, és a 4. számú mellékletben meghatározott fizikoterápiás kezelések közül a gyógyfürdő szakorvosa által meghatározott ellátásfajtából áll.
 
-(2) A gyógyfürdő szakorvosa – az (1) bekezdés szerinti ellátás esetében – köteles a betegről kórlapot vezetni, két példányban kezelőlapot kitölteni és a kezelés befejezésekor zárójelentést készíteni, melyben rögzíti a kúra során a beteg egészségi állapotában észlelt változást is.
+(2)[^15] Az (1) bekezdés szerinti ellátások esetében a gyógyfürdő szakorvosa, az 1. § (2) bekezdés c) pontja szerinti ellátás esetében pedig a 2. § (3a) bekezdése szerinti egészségügyi szolgáltató szakorvosa köteles a betegről kórlapot vezetni, két példányban kezelőlapot kitölteni és a kezelés befejezésekor zárójelentést készíteni, melyben rögzíti a kúra során a beteg egészségi állapotában észlelt változást is.
+
+[^15]: A 9. § (2) bekezdése a 27/2011. (V. 31.) NEFMI rendelet 5. §-ával megállapított szöveg.

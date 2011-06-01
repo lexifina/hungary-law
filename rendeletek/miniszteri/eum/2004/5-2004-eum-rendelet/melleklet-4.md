@@ -1,25 +1,29 @@
-## Kezelések átlagos időtartama
+## Kezelések időtartama
 
-| Gyógyászati ellátások | Átlagos idő |
+|  | A | B | C |
 
-| 01 | Gyógyvizes gyógymedence | 30 perc |
+| 1 | Kódszám | Gyógyászati ellátás | Időtartam |
 
-| 02 | Gyógyvizes kádfürdő | 20 perc |
+| 2 | 01 | Gyógyvizes gyógymedence | 30 perc |
 
-| 03 | Iszappakolás | 20 perc |
+| 3 | 02 | Gyógyvizes kádfürdő | 20 perc |
 
-| 04 | Súlyfürdő | 15 perc |
+| 4 | 03 | Iszappakolás | 20 perc |
 
-| 05 | Szénsavas fürdő | 15 perc |
+| 5 | 04 | Súlyfürdő | 15 perc |
 
-| 06 | Orvosi gyógymasszázs | 20 perc |
+| 6 | 05 | Szénsavas fürdő | 15 perc |
 
-| 07 | Víz alatti vízsugármasszázs | 15 perc |
+| 7 | 06 | Orvosi gyógymasszázs | 20 perc |
 
-| 08 | Víz alatti csoportos gyógytorna | 25 perc |
+| 8 | 07 | Víz alatti vízsugármasszázs | 15 perc |
 
-| 09 | Komplex fürdőgyógyászati ellátás | 4 óra |
+| 9 | 08 | Víz alatti csoportos gyógytorna | 25 perc |
 
-| 10 | 18 éves kor alatti csoportos gyógyúszás | 45 perc |
+| 10 | 09 | Komplex fürdőgyógyászati ellátás | 4 óra |
+
+| 11 | 10 | 18 éves kor alatti csoportos gyógyúszás | 45 perc |
+
+| 12 | 11 | Szén-dioxid gyógygázfürdő | 20 perc |
 
 4. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez
