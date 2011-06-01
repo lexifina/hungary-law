@@ -1,1 +1,3 @@
-78/A. §
+78/A. § (1) A sportról szóló 2004. évi I. törvény módosításáról szóló 2011. évi LIV. törvény (a továbbiakban: módosító törvény) 2. §-ával megállapított 62. § (1) bekezdése szerinti javaslattétel szabályait első alkalommal a módosító törvény hatálybalépését követően, a Nemzet Sportolói létszáma 12 fő alá csökkenése esetén kell alkalmazni.
+
+(2) A sportközalapítvány a módosító törvény 1. §-ával megállapított 48. (2) bekezdése szerinti, az eredményességi támogatás mértékére és a támogatásra jogosultság feltételeire vonatkozó szabályzatát a módosító törvény hatálybalépésétől számított 30 napon belül köteles meghatározni.
