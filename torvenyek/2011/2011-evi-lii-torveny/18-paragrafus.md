@@ -8,7 +8,7 @@ c) 20. § (1) bekezdés második mondatában az „A 19. § (3) bekezdésében f
 
 d) 23. § (6) bekezdésében a „8. § (2) vagy (3) bekezdés” szövegrész helyébe a „8. § (2) bekezdés g) vagy h) pontja” szöveg,
 
-e) 24. § (1) bekezdésében a „továbbá a 49/E. §” szövegrész helyébe a „továbbá a 49/E. §-a, 59. §-a” szöveg,
+e)
 
 f) 57. § (2) bekezdésben a „10. § (3) bekezdésben és a (4) bekezdésben” szövegrész helyébe a „10. § (4)–(6) bekezdésben” szöveg lép.
 
