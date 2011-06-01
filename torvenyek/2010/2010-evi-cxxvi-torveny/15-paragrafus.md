@@ -5,3 +5,5 @@
 (2) A szakigazgatási szerv kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat a szakigazgatási szerv vezetője gyakorolja.
 
 (3) A szakigazgatási szerv kormánytisztviselőjének kinevezni javasolt személyről a szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a szakigazgatási szervnél kormánytisztviselőnek.
+
+(4) A szakigazgatási szerv vezetője a szakigazgatási szervnek a törvény vagy kormányrendelet alapján létrehozott önálló feladat- és hatáskörrel rendelkező szervezeti egységének vezetője vezetői munkakörbe történő kinevezésére és felmentésére vonatkozó hatáskörét a kormánymegbízott egyetértésével gyakorolja.
