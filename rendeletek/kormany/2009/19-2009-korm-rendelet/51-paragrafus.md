@@ -16,10 +16,14 @@
 
 (7) A rendszerüzemeltető köteles az üzletszabályzata részeként a kapacitáslekötési szerződések módosítására egyszerűsített eljárásrendet és egységes okirati rendszert kidolgozni és alkalmazni. A kereskedőváltással kapcsolatos, vagy más okból történő kapacitáslekötési szerződés módosításokért ellenérték, illetve költségtérítés nem kérhető.
 
-(8) Gázév közbeni kereskedőváltás esetén a gázév végéig a felhasználó – vagy a vele szerződést kötő új földgázkereskedő – köteles a korábbi földgázkereskedő által az ellátása érdekében a rendszerüzemeltetőknél lekötött és a szerződés megszűnését követően ismételten rendelkezésére bocsátott kapacitást lekötni, valamint szállítói és elosztói kapacitás esetében a gázév végéig, tárolási kapacitás esetében a tárolási év végéig a kapacitásdíjat időarányosan a külön jogszabály rendelkezései szerint megfizetni.
+(8)[^91] Kereskedőváltás esetében a felhasználó vagy a vele szerződést kötő új földgázkereskedő a gázév végéig köteles a korábbi földgázkereskedő által az ellátása érdekében a rendszerüzemeltetőknél lekötött és a szerződés megszűnését követően ismételten rendelkezésére bocsátott kapacitást – a (9) bekezdés szerinti eltéréssel – lekötni. A szállítói és elosztói kapacitás esetében a kapacitásdíjat a gázév végéig, tárolási kapacitás esetében a tárolási év végéig időarányosan kell megfizetni.
+
+(9)[^92] A felhasználóval szerződést kötő új földgázkereskedő a (8) bekezdés szerinti kereskedőváltás esetében részben vagy egészben megtagadhatja a rendelkezésre bocsátott szállítói, illetve tárolói kapacitás átvételét és lekötését. A földgáz rendszerhasználati díjak megállapításáról szóló jogszabály szerinti díjakat az új földgázkereskedő által átvett és lekötött kapacitás után kell megfizetni.
 
 [^86]: A Vhr. 51. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^87]: A Vhr. 51. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^88]: A Vhr. 51. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^89]: A Vhr. 51. § (3) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^90]: A Vhr. 51. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (1) bekezdésével megállapított, a 116/2010. (IV. 15.) Korm. rendelet 26. § (1) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (111) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^91]: A Vhr. 51. § (8) bekezdése a 88/2011. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^92]: A Vhr. 51. § (9) bekezdését a 88/2011. (V. 31.) Korm. rendelet 1. §-a iktatta be.

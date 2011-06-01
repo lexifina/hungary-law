@@ -2,7 +2,7 @@
 
 ## Ügyfélszolgálat
 
-53. §[^95] (1) Az egyetemes szolgáltató az általa ellátott lakossági fogyasztók kiszolgálása érdekében ügyfélszolgálati irodát köteles működtetni, amely
+53. §[^97] (1) Az egyetemes szolgáltató az általa ellátott lakossági fogyasztók kiszolgálása érdekében ügyfélszolgálati irodát köteles működtetni, amely
 
 a) állandó ügyfélszolgálati iroda,
 
@@ -26,17 +26,17 @@ b) a megyei jogú városokban.
 
 (7) Az ügyfélszolgálati fiókiroda működési területén lévő felhasználási hellyel rendelkező lakossági fogyasztó jogosult az állandó ügyfélszolgálati irodában történő ügyintézésre is.
 
-(8)[^96] Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
+(8)[^98] Az ügyfélszolgálatokon kötelezően végzendő tevékenységek körét, a nyitvatartási időre és a tevékenységek végzésére vonatkozó részletes minőségi követelményeket, a szolgáltatás elvárt színvonalát a Hivatal – az üzletszabályzatok keretei között – állapítja meg.
 
 (9) Az egyetemes szolgáltató a jogszabályi előírásokkal, valamint a Hivatal (8) bekezdés szerinti határozatával összhangban kérheti, hogy a Hivatal az állandó ügyfélszolgálati iroda működési követelményeinek megfelelő ügyfélszolgálati fiókirodát minősítse állandó ügyfélszolgálati irodának. Ha az engedélyes az átminősített irodát a jövőben ismét a fiókirodára vonatkozó szabályok szerint kívánja működtetni, az üzletszabályzatának módosítása iránti kérelemmel együtt kérheti a Hivataltól a fiókirodává minősítést.
 
 (10) Az ügyfélforgalmi adatokat az egyetemes szolgáltató köteles rögzíteni.
 
-(11)[^97] A földgázelosztó az egyetemes szolgáltatóra vonatkozó rendelkezések szerint köteles ügyfélszolgálati irodát létesíteni. A földgázelosztó és az egyetemes szolgáltató megállapodása esetén a földgázelosztói ügyfélszolgálat az egyetemes szolgáltatói ügyfélszolgálattal közös helyiségben is működtethető.
+(11)[^99] A földgázelosztó az egyetemes szolgáltatóra vonatkozó rendelkezések szerint köteles ügyfélszolgálati irodát létesíteni. A földgázelosztó és az egyetemes szolgáltató megállapodása esetén a földgázelosztói ügyfélszolgálat az egyetemes szolgáltatói ügyfélszolgálattal közös helyiségben is működtethető.
 
-(12)[^98] Közös helyiségben működtetett elosztó hálózati és egyetemes szolgáltatói ügyfélszolgálat esetén az ügyfelek számára az egyes jogviszonyokkal összefüggő önálló ügyintézés lehetőségét biztosítani kell.
+(12)[^100] Közös helyiségben működtetett elosztó hálózati és egyetemes szolgáltatói ügyfélszolgálat esetén az ügyfelek számára az egyes jogviszonyokkal összefüggő önálló ügyintézés lehetőségét biztosítani kell.
 
-[^95]: A Vhr. 53. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^96]: A Vhr. 53. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^97]: A Vhr. 53. § (11) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^98]: A Vhr. 53. § (12) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^97]: A Vhr. 53. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^98]: A Vhr. 53. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 669. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^99]: A Vhr. 53. § (11) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^100]: A Vhr. 53. § (12) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 17. §-ával megállapított szöveg.

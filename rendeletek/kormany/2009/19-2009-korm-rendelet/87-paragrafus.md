@@ -1,4 +1,4 @@
-87. §[^150] (1) A felhasználónak járó napi forrásoldali kapacitást a felhasználó napi csúcskihasználási óraszáma (óra/nap) és a legnagyobb órai kapacitásigénye (MJ/óra) szorzataként kell meghatározni és a napi forrásoldali kapacitásigényként kell nyilvántartani (MJ/nap). Az egyes felhasználóknak járó szállítórendszeri kiadási ponti, betáplálási ponti és tárolói kapacitásokat a közvetlen kiszolgáló rendszerüzemeltetőnek kell az ÜKSZ-ben meghatározott módszertan alapján meghatároznia és nyilvántartania.
+87. §[^152] (1) A felhasználónak járó napi forrásoldali kapacitást a felhasználó napi csúcskihasználási óraszáma (óra/nap) és a legnagyobb órai kapacitásigénye (MJ/óra) szorzataként kell meghatározni és a napi forrásoldali kapacitásigényként kell nyilvántartani (MJ/nap). Az egyes felhasználóknak járó szállítórendszeri kiadási ponti, betáplálási ponti és tárolói kapacitásokat a közvetlen kiszolgáló rendszerüzemeltetőnek kell az ÜKSZ-ben meghatározott módszertan alapján meghatároznia és nyilvántartania.
 
 (2) A szerződött kapacitást meghaladóan kapacitás biztosítására a rendszerüzemeltető nem kötelezhető. Ha a rendszerhasználó adott gáznapon a szerződött kapacitást meghaladó mértékben vett igénybe kapacitást, a rendszerüzemeltető jogosult a külön jogszabályban meghatározott pótdíjat felszámítani.
 
@@ -10,4 +10,4 @@
 
 (6) A rendszerüzemeltető a GET 71. § (3) bekezdésében foglaltakon kívül köteles nyilvántartani, a felhasználási hely azonosítóját és a felhasználó előző gázévi nyilvántartott kapacitása alapján a legnagyobb kiadási és forrásoldali kapacitásigényét, valamint a fogyasztási hely korlátozási besorolását.
 
-[^150]: A Vhr. 87. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^152]: A Vhr. 87. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-162. §[^277] (1) A nominálást követően keletkezett egyensúlytalanságot a rendszerhasználó a gáznapon a napi földgáz és kapacitás kereskedelmi piacon az MGP-re végrehajtott tranzakcióinak megfelelően az ÜKSZ-ben és a napi földgáz és kapacitás kereskedelmi piaci szabályzatban meghatározott módon csökkentheti.
+162. §[^279] (1) A nominálást követően keletkezett egyensúlytalanságot a rendszerhasználó a gáznapon a napi földgáz és kapacitás kereskedelmi piacon az MGP-re végrehajtott tranzakcióinak megfelelően az ÜKSZ-ben és a napi földgáz és kapacitás kereskedelmi piaci szabályzatban meghatározott módon csökkentheti.
 
 (2) A rendszerhasználó köteles a földgázszállító részére a napi szállítási feladatot a nominálásukban, illetve az újranominálásukban az ÜKSZ szerint megadni. A napi szállítási feladat csak egyensúlyba állított forrás-felhasználás mérleggel adható meg.
 
@@ -14,7 +14,7 @@
 
 (8) A földgázszállító jogosult a szállítórendszerben lévő készletből kiegyensúlyozás céljára napi földgáz és kapacitás kereskedelmi piacon földgázt értékesíteni. Ezen értékesítésre a (7) bekezdés rendelkezéseit kell alkalmazni.
 
-(9)[^278] A szállítási rendszerirányítónak rendelkeznie kell elkülönített szervezettel, amely a szervezett földgázpiac GET 143. § (1) bekezdése szerinti létrehozásáig működteti a napi földgáz- és kapacitás kereskedelmi piacot, valamint a működtetéséhez szükséges eszközökkel és a piac működését leíró szabályzatokkal.
+(9)[^280] A szállítási rendszerirányítónak rendelkeznie kell elkülönített szervezettel, amely a szervezett földgázpiac GET 143. § (1) bekezdése szerinti létrehozásáig működteti a napi földgáz- és kapacitás kereskedelmi piacot, valamint a működtetéséhez szükséges eszközökkel és a piac működését leíró szabályzatokkal.
 
-[^277]: A Vhr. 162. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^278]: A Vhr. 162. § (9) bekezdését a 75/2011. (V. 2.) Korm. rendelet 24. §-a iktatta be.
+[^279]: A Vhr. 162. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^280]: A Vhr. 162. § (9) bekezdését a 75/2011. (V. 2.) Korm. rendelet 24. §-a iktatta be.

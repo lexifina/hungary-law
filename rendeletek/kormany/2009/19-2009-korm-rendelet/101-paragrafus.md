@@ -1,6 +1,6 @@
 ## Rendszerüzemeltetők együttműködése
 
-101. §[^174] Az együttműködő földgázrendszer minden, a tevékenységükkel érintett csatlakozó pontjára vonatkozóan
+101. §[^176] Az együttműködő földgázrendszer minden, a tevékenységükkel érintett csatlakozó pontjára vonatkozóan
 
 a) a földgázszállítónak a földgázelosztóval,
 
@@ -18,4 +18,4 @@ g) a telephelyi engedélyesnek a földgázszállítóval vagy a földgázeloszt�
 
 megkötött együttműködési megállapodással kell rendelkeznie az érintett pont közös használatára, a kötelezettségek és felelősségek rögzítésére, az elszámolások és a vitás kérdések rendezésére.
 
-[^174]: A Vhr. 101. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^176]: A Vhr. 101. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -738,13 +738,13 @@
 
 Az engedélyezési kérelemhez tevékenységenként benyújtandó mellékletek
 
-I.[^308]
+I.[^310]
 
-II. Fejezet[^309]
+II. Fejezet[^311]
 
-Szállítási rendszerüzemeltetésre vonatkozó működési engedély[^310]
+Szállítási rendszerüzemeltetésre vonatkozó működési engedély[^312]
 
-## A)[^311] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelem benyújtásával együtt a Hivatalhoz be kell nyújtani:
+## A)[^313] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelem benyújtásával együtt a Hivatalhoz be kell nyújtani:
 
 1. a kérelem benyújtását megelőző évre elkészített éves beszámolót, vagy ha a kérelmező éves beszámoló benyújtására nem volt kötelezett, akkor a nyitómérleget,
 
@@ -802,7 +802,7 @@ d) a szállítóvezetékek üzemeltetését, irányítását, ellenőrzését sz
 
 e) a nem hazai felhasználású földgáz szállítására igénybevett vezetékszakaszok bemutatásával,
 
-f)[^312] a nem szállítási rendszerüzemeltetői tulajdonú rendszerek bemutatásával,
+f)[^314] a nem szállítási rendszerüzemeltetői tulajdonú rendszerek bemutatásával,
 
 g) a szállítóvezeték többségi tulajdonának igazolásával,
 
@@ -812,7 +812,7 @@ h) a mérő és adatátviteli eszközök leírásával,
 
 19. Minőség Elszámolási Rendet,
 
-20.[^313] nyilatkozatot arra vonatkozóan, hogy a tanúsításról rendelkező határozatban foglaltakhoz képest nem történt változás.
+20.[^315] nyilatkozatot arra vonatkozóan, hogy a tanúsításról rendelkező határozatban foglaltakhoz képest nem történt változás.
 
 B) Az A) pont 4., 6., 7., 8., 9., 10., 12., 15., 17., 18. vagy 19. alpontjaiban foglalt dokumentumok a 125. § (5) bekezdésben meghatározott határidőben is benyújthatók.
 
@@ -860,9 +860,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^314] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^316] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^315]
+14.[^317]
 
 15. üzemeltetési szerződéseket,
 
@@ -994,9 +994,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^316] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^318] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^317]
+14.[^319]
 
 15. üzemeltetési szerződéseket,
 
@@ -1100,11 +1100,11 @@ Vezetékes PB-gáz szolgáltatásra vonatkozó működési engedély
 
 9. mérési, felosztási és elszámolási rendszer leírását,
 
-10.[^318]
+10.[^320]
 
-11.[^319] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+11.[^321] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-12.[^320]
+12.[^322]
 
 13. üzemeltetési szerződéseket,
 
@@ -1178,16 +1178,16 @@ Szervezett földgázpiac működtetésére vonatkozó működési engedély
 
 9. ellenőrzött minőségbiztosítási rendszer bevezetésének ütemtervét a bevezetés határidejével.
 
-[^308]: A Vhr. 5. számú melléklet I. Fejezetét a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
-[^309]: A Vhr. 5. számú melléklet II. Fejezete az 54/2011. (IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^310]: A Vhr. 5. számú melléklet II. Fejezet címe a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^311]: A Vhr. 5. számú melléklet II. Fejezet A) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^312]: A Vhr. 5. számú melléklet II. Fejezet A) pont 17. pont f) alpontja a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^313]: A Vhr. 5. számú melléklet II. Fejezet A) pont 20. pontját a 75/2011. (V. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^314]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^315]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^316]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^317]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^318]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^319]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^320]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^310]: A Vhr. 5. számú melléklet I. Fejezetét a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
+[^311]: A Vhr. 5. számú melléklet II. Fejezete az 54/2011. (IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^312]: A Vhr. 5. számú melléklet II. Fejezet címe a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^313]: A Vhr. 5. számú melléklet II. Fejezet A) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^314]: A Vhr. 5. számú melléklet II. Fejezet A) pont 17. pont f) alpontja a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^315]: A Vhr. 5. számú melléklet II. Fejezet A) pont 20. pontját a 75/2011. (V. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^316]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^317]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^318]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^319]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^320]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^321]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^322]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

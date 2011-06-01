@@ -1,6 +1,6 @@
 ## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó közös szabályok
 
-143. §[^239] (1)[^240] Az engedélyesnek a kiszervezendő tevékenységet végzők (a továbbiakban: közreműködő) kiválasztására és megbízására vonatkozó belső kiválasztási szabályzattal kell rendelkeznie.
+143. §[^241] (1)[^242] Az engedélyesnek a kiszervezendő tevékenységet végzők (a továbbiakban: közreműködő) kiválasztására és megbízására vonatkozó belső kiválasztási szabályzattal kell rendelkeznie.
 
 (2) Az engedélyes a kiszervezéssel összefüggő kiválasztásra és megbízásra vonatkozóan – ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá – a belső kiválasztási szabályzatában foglaltak szerint köteles eljárni.
 
@@ -16,5 +16,5 @@ c) jogorvoslati lehetőségeket.
 
 (5) Az engedélyes köteles a módosításokkal egységes szerkezetbe foglalt belső kiválasztási szabályzataikat az érintetteknek átadni.
 
-[^239]: A Vhr. 143. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^240]: A Vhr. 143. § (1) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (4) bekezdése szerint módosított szöveg.
+[^241]: A Vhr. 143. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^242]: A Vhr. 143. § (1) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (4) bekezdése szerint módosított szöveg.

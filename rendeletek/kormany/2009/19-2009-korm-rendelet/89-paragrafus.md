@@ -1,4 +1,4 @@
-89. §[^152] (1) A kapacitás lekötéshez a földgázszállító minden év február 15-ig elkészíti és honlapján nyilvánossá teszi a kiadási pontokon a következő gázévben biztosítható földgáz minőségi jellemzőket.
+89. §[^154] (1) A kapacitás lekötéshez a földgázszállító minden év február 15-ig elkészíti és honlapján nyilvánossá teszi a kiadási pontokon a következő gázévben biztosítható földgáz minőségi jellemzőket.
 
 (2) A rendszerhasználók, illetve a termelők kötelesek minden év december 31-ig az ÜKSZ-ben rögzített módon megadni a földgázszállítónak a következő gázévben a forrásoldali betáplálás során általuk garantált földgáz minőségi jellemzőket. A kapott adatok alapján a földgázszállító meghatározza a földgáz minőségi jellemzők kiadási ponton biztosítható értékeit.
 
@@ -14,4 +14,4 @@ b) az igénybejelentés és nyilvántartásba vétel határidejét,
 
 c) a nyilvántartott, de nem igényelt kapacitások átlátható értékesítésének részletes feltételeit.
 
-[^152]: A Vhr. 89. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^154]: A Vhr. 89. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

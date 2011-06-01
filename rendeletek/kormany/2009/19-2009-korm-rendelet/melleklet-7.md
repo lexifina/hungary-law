@@ -1,6 +1,6 @@
 ## 1. Új települések, településrészek és területek engedélyezése
 
-## 1.1.[^321] A földgázelosztó engedély iránti kérelméhez benyújtandó iratok:
+## 1.1.[^323] A földgázelosztó engedély iránti kérelméhez benyújtandó iratok:
 
 ## 1. Új település, településrész engedélyezésekor az illetékes helyi önkormányzatok képviselő-testületei nyilatkozata a tanulmányterv és annak adataira alapuló csatlakozási díj számítás elfogadásáról.
 
@@ -24,7 +24,7 @@
 
 ## 7. Vagyon- és a környezeti károkra is kiterjedő felelősségbiztosítási szerződések meglétének igazolása.
 
-## 8.[^322] Engedélyes nyilatkozat arról, hogy a módosításban szereplő gázelosztó rendszerek természetvédelmi területet érintenek-e.
+## 8.[^324] Engedélyes nyilatkozat arról, hogy a módosításban szereplő gázelosztó rendszerek természetvédelmi területet érintenek-e.
 
 ## 9. Új település, településrész engedélyezésekor a rendszerirányító nyilatkozata a szükséges kapacitás rendelkezésre állásáról.
 
@@ -32,7 +32,7 @@
 
 ## 11. A települések, településrészek és területek egyetemes szolgáltatójával, illetve kereskedőjével megkötött szerződés.
 
-## 1.2.[^323] Az egyetemes szolgáltató engedély iránti kérelméhez benyújtandó iratok:
+## 1.2.[^325] Az egyetemes szolgáltató engedély iránti kérelméhez benyújtandó iratok:
 
 ## 1. Új település, településrész engedélyezésekor az illetékes helyi önkormányzatok képviselő-testületei nyilatkozata a földgáz egyetemes szolgáltató kiválasztásáról.
 
@@ -64,7 +64,7 @@
 
 ## 4. Vezetékes PB-szolgáltatásról való átállás esetén az újonnan épülő vezetékrendszerekre vonatkozó tanulmányterv, ez alapján a csatlakozási díjszámítás (a felhasználóktól maximum e számítás alapján kiszámított díj kérhető) részletes bemutatása elektronikus formában, az érintett önkormányzat nyilatkozata a tanulmányterv és annak adataira alapuló csatlakozási díj számítás elfogadásáról, valamint a földgázelosztó kérelméhez benyújtandó iratok.
 
-## 4.[^324] A földgázszállító és földgáztároló engedély iránti kérelméhez benyújtandó iratok
+## 4.[^326] A földgázszállító és földgáztároló engedély iránti kérelméhez benyújtandó iratok
 
 ## 1. A beruházással megvalósuló új földgázrendszer megvalósításának határideje.
 
@@ -82,7 +82,7 @@
 
 ## 2. A telephelyi vezeték fő elemeinek és jellemzőinek leírása, szükség esetén térképekkel.
 
-## 3.[^325]
+## 3.[^327]
 
 ## 4. A telephelyi felhasználókkal megkötött (elő)szerződések.
 
@@ -96,7 +96,7 @@
 
 ## 4. A telephelyi vezeték fő elemeinek és jellemzőinek leírása, szükség esetén térképekkel.
 
-## 5.[^326]
+## 5.[^328]
 
 ## 6. A telephelyi felhasználókkal megkötött (elő)szerződések.
 
@@ -106,9 +106,9 @@
 
 7. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
 
-[^321]: A Vhr. 6. számú melléklet 1.1. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^322]: A Vhr. 6. számú melléklet 1.1. pont 8. alpont második mondatát a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^323]: A Vhr. 6. számú melléklet 1.2. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^324]: A Vhr. 6. számú melléklet 4. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^325]: A Vhr. 6. számú melléklet 5. pont 3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^326]: A Vhr. 6. számú melléklet 6. pont 5. alpontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^323]: A Vhr. 6. számú melléklet 1.1. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^324]: A Vhr. 6. számú melléklet 1.1. pont 8. alpont második mondatát a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^325]: A Vhr. 6. számú melléklet 1.2. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^326]: A Vhr. 6. számú melléklet 4. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^327]: A Vhr. 6. számú melléklet 5. pont 3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^328]: A Vhr. 6. számú melléklet 6. pont 5. alpontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
