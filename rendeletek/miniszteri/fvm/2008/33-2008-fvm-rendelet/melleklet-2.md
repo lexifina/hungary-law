@@ -194,6 +194,6 @@
 
 ## Tamarix ramosissima – ogyesszai tamariska
 
-2. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^65]
+2. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^88]
 
-[^65]: A 2. számú melléklet a 17/2010. (IX. 30.) VM rendelet 12. §-a szerint módosított szöveg.
+[^88]: A 2. számú melléklet a 17/2010. (IX. 30.) VM rendelet 12. §-a, a 46/2011. (V. 31.) VM rendelet 17. §-a szerint módosított szöveg.

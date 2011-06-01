@@ -1,8 +1,8 @@
-## Sövénytelepítés[^21]
+## Sövénytelepítés[^27]
 
 6. § (1) A 3. § (1) bekezdése a) pontjának aa) alpontja szerinti sövénytelepítés esetén a kérelmezőnek rendelkeznie kell egybefüggően legalább 1 hektár szántó vagy gyep (rét, legelő) hasznosítású,
 
-a)[^22] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
+a)[^28] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
 
 b) Natura 2000 területtel, az 5. § (2) bekezdésében foglaltakra is figyelemmel.
 
@@ -12,11 +12,17 @@ b) Natura 2000 területtel, az 5. § (2) bekezdésében foglaltakra is figyelemm
 
 a) a sövény mérete egybefüggően legalább 250 méter hosszú és legalább 1,5 méter, de legfeljebb 3 méter széles, kiterjedését a szélső tövektől számított 0,75 méter távolság (várható koronavetület) alapján kell számítani;
 
-b) a 250 méter hosszúságot meghaladó sövényen 250 méterenként 1 db, legalább 2 méter széles átjárót kell hagyni, ahol a kiterjedés az a) pont szerint értendő;
+b)[^29] a 250 méter hosszúságot meghaladó sövény telepítésekor 250 méterenként 1 db, legalább 2 méter széles átjárót kell biztosítani kivéve, ha a sövénytelepítés kerítés mellett kerül megvalósításra;
 
-c)[^23] a sövény kiterjedése nem haladhatja meg az 5. § (1) bekezdésében foglaltak teljesülése esetén az érintett kötelezettségvállalással érintett egybefüggő terület, illetve az 5. § (2) bekezdésében foglaltak teljesülése esetén az érintett összefüggő terület 5%-át;
+c)[^30] a sövény kiterjedése nem haladhatja meg
 
-d)[^24] a sövényt hosszanti oldalával az 5. § (1) bekezdésében foglaltak teljesülése esetén az érintett kötelezettségvállalással érintett egybefüggő terület szélével, illetve az 5. § (2) bekezdésében foglaltak teljesülése esetén az érintett összefüggő terület szélével érintkezően kell telepíteni;
+ca) az 5. § (1) bekezdésében meghatározott esetben a kötelezettségvállalással érintett egybefüggő terület, vagy
+
+cb) az 5. § (2) bekezdésében meghatározott esetben az érintett összefüggő terület
+
+8%-át, ha a terület nagysága meghaladja az 5 hektárt, akkor a terület 5%-át;
+
+d)[^31] a sövényt hosszanti oldalával az 5. § (1) bekezdésében foglaltak teljesülése esetén az érintett kötelezettségvállalással érintett egybefüggő terület szélével, illetve az 5. § (2) bekezdésében foglaltak teljesülése esetén az érintett összefüggő terület szélével érintkezően kell telepíteni;
 
 e) 12%-nál nagyobb lejtésű területen a sövénynek a lejtés irányára merőleges vetületi hossza nem lehet kevesebb, mint a tényleges hossz 70%-a;
 
@@ -34,10 +40,15 @@ k) a sövénytelepítés során az alkalmazható sortáv nem haladhatja meg az 1
 
 l) a sövénytelepítésre fagymentes időszakban, a vegetációs időszakon kívül kerülhet sor.
 
-(4)[^25] A támogatásra jogosult köteles az 5. § (7) bekezdésének a) pontja szerinti időszakban a telepített sövényben megjelenő, az 1. számú melléklet C. pontjában szereplő invazív cserje- és fafajok egyedeit úgy eltávolítani, hogy a telepített sövényben az e fajokból álló invazív borítás ne haladja meg az 1%-ot.
+(4)[^32] A támogatásra jogosult köteles
 
-[^21]: A 6. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 5. § (1) bekezdése iktatta be.
-[^22]: A 6. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 6. § (3) bekezdés c) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (3) bekezdésével megállapított, a 61/2009. (V. 14.) FVM rendelet 82. § (3) bekezdése szerint módosított szöveg.
-[^24]: A 6. § (3) bekezdés d) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (3) bekezdésével megállapított, a 61/2009. (V. 14.) FVM rendelet 82. § (3) bekezdése szerint módosított szöveg.
-[^25]: A 6. § (4) bekezdése a 14/2009. (II. 28.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg.
+a) az 5. § (7) bekezdése szerinti időszakban a telepített sövényben megjelenő, az 1. számú melléklet C. pontjában szereplő invazív cserje- és fafajok egyedeit úgy eltávolítani, hogy a telepített sövényben az e fajokból álló invazív borítás ne haladja meg az 1%-ot, és
+
+b) a támogatási kérelemben megjelölt beruházás megvalósításáról nyilvántartást vezetni az agrár-környezetgazdálkodási intézkedés igénybevételének feltételeiről szóló külön jogszabály szerinti Gazdálkodási Napló irányító hatóság által közleményben meghatározott lapjain.
+
+[^27]: A 6. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^28]: A 6. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 6. § (3) bekezdés b) pontja a 46/2011. (V. 31.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 6. § (3) bekezdés c) pontja a 46/2011. (V. 31.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^31]: A 6. § (3) bekezdés d) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (3) bekezdésével megállapított, a 61/2009. (V. 14.) FVM rendelet 82. § (3) bekezdése szerint módosított szöveg.
+[^32]: A 6. § (4) bekezdése a 46/2011. (V. 31.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.

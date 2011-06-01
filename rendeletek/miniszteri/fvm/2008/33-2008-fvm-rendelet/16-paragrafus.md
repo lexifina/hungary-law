@@ -1,6 +1,8 @@
+## 15. §[^65]
+
 ## Támogatási kérelem benyújtása
 
-16. §[^54] (1)[^55] Támogatási kérelem 2009-ben június 1. és július 25. között, azt követően pedig évente június 1. és június 30. között nyújtható be elektronikus úton. A támogatási kérelem mellékleteit írott formában, postai úton kell benyújtani, az elektronikusan benyújtott kérelemmel azonos támogatási kérelem benyújtási időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
+16. §[^66] (1)[^67] Támogatási kérelem 2009-ben június 1. és július 25. között, azt követően pedig évente június 1. és június 30. között nyújtható be elektronikus úton. A támogatási kérelem mellékleteit írott formában, postai úton kell benyújtani, az elektronikusan benyújtott kérelemmel azonos támogatási kérelem benyújtási időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
 
 (2) Az elektronikus kérelembenyújtás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet (a továbbiakban: 80/2008. Korm. rendelet) 2. § (1)–(5) bekezdései és 3. §-a szabályozzák.
 
@@ -8,7 +10,7 @@
 
 a) ügyfél-azonosítási információk;
 
-b) támogatási jogosultságra vonatkozó adatok, különösen a blokkazonosító, az intézkedés azonosító, illetve a területméret adatok.
+b)[^68] a blokkazonosító, az intézkedés azonosító, a területméret adatok, a beruházás méretére vonatkozó adatok és a helyrajzi számok.
 
 (4) A támogatási kérelemben fel kell tüntetni, hogy
 
@@ -48,5 +50,10 @@ g) madárvédelmi berendezések beszerzése esetén a 14. § (2) bekezdés b) po
 
 (9) A támogatási kérelemhez az EMVA általános rendelet 13. § (2) bekezdésében foglaltaktól eltérően nem kell mellékelni az egyedi blokktérképet.
 
-[^54]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
-[^55]: A 16. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+(10)[^69] A támogatási kérelem benyújtásánál a falugazdász vagy az agrárkamarai tanácsadó kizárólag az ügyfél technikai közreműködőjeként járhat el. A technikai közreműködő fogalmára, valamint eljárásával kapcsolatos szabályokra az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendelet (a továbbiakban: egységes kérelem rendelet) előírásait kell alkalmazni.
+
+[^65]: A 15. §-t a 46/2011. (V. 31.) VM rendelet 18. §-a hatályon kívül helyezte.
+[^66]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
+[^67]: A 16. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^68]: A 16. § (3) bekezdés b) pontja a 46/2011. (V. 31.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^69]: A 16. § (10) bekezdését a 46/2011. (V. 31.) VM rendelet 10. § (2) bekezdése iktatta be.

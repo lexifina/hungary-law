@@ -10,7 +10,7 @@
 
 | 2. | Mesterséges fészekodú | A | kék cinege, barátcinege | erdőközeli ültetvény fái, erdősáv, erdőfolt, erdőszél | 2–10 db/ha | 12 |
 
-| 3. | B | széncinege, mezei veréb, házi veréb, örvös légykapó | ültetvény fái, fa, fasor, facsoport, erdősáv, erdőfolt, erdőszél | 2–20 db/ha | 16 |
+| 3. | B | széncinege, mezei veréb, házi veréb, örvös légykapó | ültetvény fái, fa, fasor, facsoport, erdősáv, erdőfolt, erdőszél | 2–10 db/ha | 16 |
 
 | 4. | C | házi rozsdafarkú, kerti rozsdafarkú, barázdabillegető, szürke légykapó | nyíltabb helyek fái, magasabb kerítés és kőfal | 2–6 db/ha | 12 |
 
@@ -62,6 +62,6 @@
 
 | T-ülőfa | 5–6 cm vastag és 2,5–3 méter hosszú rúd vagy oszlop, tetején keresztben 0,5–0,6 m hosszú és kissé vékonyabb vízszintes farúd | talajba ásva vagy ütve, nyílt szántóföldi részeken, fátlan szegélyeken |
 
-3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^66]
+3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^89]
 
-[^66]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^89]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.
