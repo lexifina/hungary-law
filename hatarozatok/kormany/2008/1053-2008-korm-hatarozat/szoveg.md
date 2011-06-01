@@ -1,4 +1,4 @@
-1. A Kormány a „Legyen jobb a gyermekeknek!” Nemzeti Stratégiáról 2007–2032 szóló, 47/2007. (V. 31.) OGY határozat 6. pontja alapján, a Nemzeti Stratégia hatékony végrehajtása és végrehajtásának követése, értékelése érdekében létrehozza a „Legyen jobb a gyermekeknek!” Nemzeti Stratégia Értékelő Bizottságot (a továbbiakban: Bizottság) a szakmai és civil szervezetek, valamint az egyházak által delegált szakértőkből.
+1.[^1] A Kormány a „Legyen jobb a gyermekeknek!” Nemzeti Stratégiáról 2007–2032 szóló 47/2007. (V. 31.) OGY határozat 6. pontja alapján, a Nemzeti Stratégia hatékony végrehajtása és végrehajtásának követése, értékelése érdekében a kormányzat, a szakmai és civil szervezetek, valamint az egyházak részvételével működő, „Legyen jobb a gyermekeknek!” Nemzeti Stratégia Értékelő Bizottságot (a továbbiakban: Bizottság) hoz létre.
 
 2. A Bizottság a Nemzeti Stratégia végrehajtását és annak civil kontrollját, átláthatóságát segítő, véleményező és javaslattevő testület.
 
@@ -6,59 +6,89 @@
 
 a) vélemények, ajánlások megfogalmazásával tevékenyen közreműködni a „Legyen jobb a gyermekeknek!” Nemzeti Stratégia 2007–2032 megvalósításában,
 
-b) véleményt nyilvánítani a gyermekek helyzetéhez kapcsolódó aktuális kérdésekről, biztosítva a társadalom legszélesebb körű tájékoztatását a Stratégia megvalósulásáról,
+b)[^2] a Stratégia végrehajtását tervszerűen, módszeresen monitorozni, az utánkövetés eszközrendszerét és eljárásait továbbfejleszteni, egy – a gyermekszegénységet mérő és leginkább jellemző mutatókból álló – indikátorrendszert alkotni, az adatokat összegyűjteni, elemezni és közzétenni,
 
 c) figyelemmel kísérni és értékelni a Stratégia céljaival, prioritásaival kapcsolatos társadalmi folyamatok alakulását,
 
-d) összevetni a Stratégia végrehajtása érdekében adott időszakban az összes közreműködő részéről megtett vagy tervezett intézkedéseket és lépéseket a Stratégia célkitűzéseivel, és értékelni ezek várható hatásait,
+d)[^3] a monitorozás eredményeinek, valamint a kormányzati intézkedések hatásainak, illetve különböző programok működésének a tapasztalatai alapján véleményeket, javaslatokat megfogalmazni a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság számára.
 
-e) kidolgozni a Stratégiában meghatározott feladatok utókövetésének eszközrendszerét és eljárásait, a 2000 márciusában útjára indított lisszaboni stratégia alapján a nyitott koordináció keretei között kialakított monitoring és ellenőrzési elvek, és közös mérőszámok figyelembevételével. A „Legyen jobb a gyermekeknek!” Nemzeti Stratégia 2007–2032 utókövetésének eszközrendszerére és eljárásaira a Bizottság 2008. december 31-ig tesz javaslatot a Kormánynak.
+e)[^4]
 
-4. A Bizottság feladatainak végrehajtásáról évente, december 31. napjáig, írásban tájékoztatja a feladatkörrel rendelkező minisztert, valamint a nyilvánosságot.
+4.[^5] A Bizottság feladatainak végrehajtásáról évente, március 31. napjáig, írásban tájékoztatja a feladatkörrel rendelkező minisztert, valamint a nyilvánosságot.
 
-5. A Bizottság kilenc, a gyermekeket érintő kérdésekkel foglalkozó területen tevékenykedő szakmai és civil szervezet, egyház által kijelölt szakértőből áll.
+5.[^6] A Bizottság 24 tagból áll. A Bizottság elnöke a társadalmi felzárkózásért felelős államtitkár, társelnöke a 6. pontban felsorolt szervezetek képviselői közül az általuk választott személy.
 
-A Bizottság tagjai:
+A Kormány a Bizottság további tagjaként a kormányzati oldal képviseletére felhívja
 
-a) a Magyar Tudományos Akadémia Gyermekprogram Irodája,
+a) az oktatásért felelős államtitkárt,
 
-b) a Magyar Tudományos Akadémia Közgazdaságtudományi Intézete,
+b) a szociális, család- és ifjúságügyért felelős államtitkárt,
 
-c) a Szociálpolitikai Tanács,
+c) az egészségügyért felelős államtitkárt,
 
-d) a Gyermek és Ifjúsági Konferencia,
+d) a sportért felelős államtitkárt,
 
-e) a Roma Integrációs Tanács,
+e) az egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkárt,
 
-f) a Magyar Szegénységellenes Hálózat,
+f) a fejlesztéspolitikai koordinációért felelős államtitkárt,
 
-g) a Szociális Szakmai Szövetség
+g) az államháztartásért felelős államtitkárt,
 
-által jelölt egy-egy személy,
+h) a foglalkoztatáspolitikáért felelős államtitkárt,
 
-h) azon egyházak által közösen jelölt két személy, amely egyházak a Magyar Köztársaság területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek.
+i) a vidékfejlesztésért felelős államtitkárt,
 
-6. A Bizottság ülésén tanácskozási joggal, állandó meghívottként részt vesz:
+j) a Miniszterelnökséget vezető államtitkárt és
 
-a) az egészségügyi miniszter,
+k) a Központi Statisztikai Hivatal elnökét
 
-b) az igazságügyi és rendészeti miniszter,
+egy-egy tag jelölésére.
 
-c) az oktatási és kulturális miniszter,
+6.[^7] A Kormány a Bizottság további tagjaként a szakmai és civil oldal képviseleteként
 
-d) az önkormányzati miniszter,
+a) felkéri
 
-e) a pénzügyminiszter,
+aa) a Magyar Tudományos Akadémia Gyermekprogram Irodáját,
 
-f) a szociális és munkaügyi miniszter,
+ab) a Magyar Máltai Szeretetszolgálatot,
 
-g) a Miniszterelnöki Hivatalt vezető miniszter,
+ac) a Magyar Ökumenikus Segélyszervezetet,
 
-h) és a Központi Statisztikai Hivatal elnöke,
+ad) a Magyar Szegénységellenes Hálózatot,
+
+ae) a Nagycsaládosok Országos Egyesületét,
+
+af) az Egyedülálló Szülők Klubja Alapítványt,
+
+ag) a Roma Koordinációs Tanácsot,
+
+ah) a Szociálpolitikai Tanácsot és
+
+ai) a Települési Önkormányzatok Országos Szövetségét
+
+egy-egy tag jelölésére, továbbá
+
+b) felkéri azon egyházakat, amelyek a Magyar Köztársaság területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben oktatást, nevelést és képzést biztosító közoktatási és felsőoktatási intézményeket tartanak fenn, hogy egyházanként legfeljebb egy-egy tagot, összesen három főt jelöljenek.
+
+6/A.[^8] A Bizottság ülésén tanácskozási joggal, állandó meghívottként részt vesz:
+
+a) az Állampolgári Jogok Országgyűlési Biztosa,
+
+b) a Nemzeti és Etnikai Kisebbségi Jogok Országgyűlési Biztosa,
+
+c) a Magyar Tudományos Akadémia Közgazdaságtudományi Intézete,
+
+d) a Központi Statisztikai Hivatal Népességtudományi Kutatóintézete,
+
+e) a TÁRKI,
+
+f) az Oktatáskutató és Fejlesztő Intézet,
+
+g) a Népesedési Kerekasztal
 
 által kijelölt egy-egy személy.
 
-7. A Bizottság tagjait az 5. pontban felsorolt szervezetek képviseletét ellátó testület vagy személy jelöli a feladatkörrel rendelkező miniszter felkérése alapján. A Bizottság tagjait feladataik ellátására a feladatkörrel rendelkező miniszter négy évre, írásban kéri fel. A Bizottság valamely tagjának halála vagy lemondása esetén a tagot jelölő szervezet jogosult újabb jelölésre, a felkérés idejére.
+7.[^9] A Bizottság tagjait a 6. pontban felsorolt szervezetek képviseletét ellátó testület vagy személy jelöli a feladatkörrel rendelkező miniszter felkérése alapján. A Bizottság tagjait feladataik ellátására a feladatkörrel rendelkező miniszter négy évre, írásban kéri fel. A Bizottság valamely tagjának halála vagy lemondása esetén a tagot jelölő szervezet jogosult újabb jelölésre, a felkérés idejére.
 
 8. A tagok visszahívására a jelölő szervezetek jogosultak, egyidejűleg új tag jelölésével az eredetileg felkért tag megbízatásának idejére. Ennek alapján a felkérés visszavonásáról, és az új tag felkéréséről a feladatkörrel rendelkező miniszter gondoskodik.
 
@@ -66,6 +96,17 @@ h) és a Központi Statisztikai Hivatal elnöke,
 
 10. A Bizottság feladataival és működésével kapcsolatos szervezési, adminisztratív és titkársági teendőket a feladatkörrel rendelkező miniszter által vezetett központi államigazgatási szerv látja el.
 
-11. A Kormány felhívja a minisztereket és a Központi Statisztikai Hivatal elnökét, hogy a Nemzeti Stratégia, valamint a kormányzati cselekvési terv időarányos végrehajtásáról, a Nemzeti Stratégiát érintő jogszabály-tervezetekről, intézkedésekről a Bizottságot feladataihoz illeszkedően folyamatosan tájékoztassák.
+11.[^10]
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1177/2011. (V. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont b) alpontja az 1177/2011. (V. 31.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. pont d) alpontja az 1177/2011. (V. 31.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 3. pont e) alpontját az 1177/2011. (V. 31.) Korm. határozat 9. pontja hatályon kívül helyezte.
+[^5]: A 4. pont az 1177/2011. (V. 31.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^6]: Az 5. pont az 1177/2011. (V. 31.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: A 6. pont az 1177/2011. (V. 31.) Korm. határozat 5. pontjával megállapított szöveg.
+[^8]: A 6/A. pontot az 1177/2011. (V. 31.) Korm. határozat 6. pontja iktatta be.
+[^9]: A 7. pont az 1177/2011. (V. 31.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^10]: A 11. pontot az 1177/2011. (V. 31.) Korm. határozat 9. pontja hatályon kívül helyezte.
