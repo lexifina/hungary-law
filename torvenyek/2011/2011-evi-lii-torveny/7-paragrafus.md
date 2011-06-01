@@ -1,0 +1,3 @@
+7. § A Ktjv. 26. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A szakmai vezetők és a kormánytisztviselők önéletrajzát a minisztériumok és a Miniszterelnökség a 25. § (3) bekezdésében meghatározott rendszerben kezelik. Az önéletrajz kötelezően tartalmazza a szakmai vezetők és a kormánytisztviselők Ktv.-ben meghatározott közszolgálati alapnyilvántartásban szereplő adatai közül a Kormány által rendeletben meghatározott adatokat, valamint a készségekre, képességekre és kompetenciákra, katonai szolgálatra vonatkozó adatokat, továbbá a járművezetéssel kapcsolatos adatokat, valamint az önéletrajzhoz csatolandó, az önéletrajzban foglaltakat igazoló mellékleteket, illetve tartalmazhat egyéb kiegészítő információkra vonatkozó adatokat.”
