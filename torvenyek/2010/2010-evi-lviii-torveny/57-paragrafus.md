@@ -6,7 +6,7 @@ b) a Ktv. IV., V., VI. és IX. fejezetében
 
 foglalt rendelkezéseket az e törvény szerinti eltérésekkel kell megfelelően alkalmazni.
 
-(2) Az ügykezelő kormánytisztviselői jogviszonyában a Ktv. 19/A. §-át a 10. § (3) bekezdésben és a (4) bekezdésben foglalt eltérő szabályokkal együttesen kell alkalmazni.
+(2) Az ügykezelő kormánytisztviselői jogviszonyában a Ktv. 19/A. §-át a 10. § (4)–(6) bekezdésben foglalt eltérő szabályokkal együttesen kell alkalmazni.
 
 (3) A 19. §-ban meghatározott szerveknél kinevezett ügykezelő a középiskolai végzettségű kormánytisztviselőre irányadó illetménykiegészítésre jogosult.
 

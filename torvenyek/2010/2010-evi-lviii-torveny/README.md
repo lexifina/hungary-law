@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-58-00-00
 | 2011-04-01 | 2011. évi XXX. törvény | 2010-58-00-00.10 |
 | 2011-04-02 | 2011. évi XXX. törvény | 2010-58-00-00.11 |
 | 2011-05-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-58-00-00.12 |
+| 2011-06-01 | 2011. évi LII. törvény | 2010-58-00-00.13 |

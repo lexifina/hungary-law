@@ -42,4 +42,4 @@ c) a 35 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha
 
 d) a 40 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 4 év vagy ennél kevesebb van hátra.
 
-(6) Arra a kormánytisztviselőre, akinek a 8. § (2) vagy (3) bekezdés alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
+(6) Arra a kormánytisztviselőre, akinek a 8. § (2) bekezdés g) vagy h) pontja alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
