@@ -1,1 +1,11 @@
-11–18. §
+## A pénzeszközök átutalására vonatkozó korlátozó intézkedések végrehajtására vonatkozó rendelkezések
+
+11. § (1) Ha az uniós jogi aktus pénzeszközök átutalására vonatkozó korlátozó intézkedést rendel el, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és l) pontja hatálya alá tartozó szolgáltató – ide nem értve a pénzfeldolgozást végző szolgáltatót – (a továbbiakban: pénzügyi szolgáltató) az uniós jogi aktusban rögzített esetekben a pénzeszközök átutalása és a pénzügyi szolgáltatás kezdeményezéséről, fogadásáról, teljesítéséről haladéktalanul értesíti a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szervet, illetve az uniós jogi aktusban meghatározott esetekben a teljesítés engedélyezése iránti kérelmet nyújt be a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szervhez.
+
+(2) A pénzügyi szolgáltató értesítésének, illetve kérelmének tartalmaznia kell a pénzeszközök átutalásával és a pénzügyi szolgáltatással kapcsolatban rendelkezésre álló összes adatot, tényt, körülményt, különös tekintettel az átutalás céljának megjelölésére, a megbízóra és a kedvezményezettre vonatkozó adatokra, a Pmt. alapján rögzített adatokra, a kapcsolódó egyéb hatósági engedélyekre és az uniós jogi aktusban a pénzeszközök átutalására és a pénzügyi szolgáltatásokra vonatkozó korlátozások kapcsán rögzített kivételekre.
+
+(3) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az uniós jogi aktusban meghatározott határidőn belül megvizsgálja a kérelmet és dönt az uniós jogi aktusban rögzített feltételek alapján és szempontoknak megfelelően.
+
+(4) Ha a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításért felelős szerv az uniós jogi aktusban meghatározott határidőn belül nem hoz döntést, az engedélyt megadottnak kell tekinteni.
+
+(5) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv a kérelmet elutasító határozatát megküldi az adópolitikáért felelős miniszter részére, aki a kérelem elutasításáról az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és az Európai Bizottságot.
