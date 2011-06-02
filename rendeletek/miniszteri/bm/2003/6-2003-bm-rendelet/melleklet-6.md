@@ -34,6 +34,6 @@
 
 ## = Hálózati kommunikációs szoftver
 
-6. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^217]
+6. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^219]
 
-[^217]: A 6. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^219]: A 6. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be, szövege a 14/2009. (VI. 3.) IRM rendelet 44. § (2) bekezdésével megállapított szöveg.

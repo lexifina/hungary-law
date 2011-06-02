@@ -1,4 +1,4 @@
-## 102/A. §[^206] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
+## 102/A. §[^208] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
 
 ## Átmeneti rendelkezések
 
@@ -22,4 +22,4 @@ c) jogerős bírósági határozat megállapította, hogy az utólagos házassá
 
 (4) Az 1947. június 1. előtt teljesített születési anyakönyvi bejegyzésben, ha az ismeretlen szülőktől származóként vagy az apa adatai nélkül anyakönyvezték, csak az érdekeltek kérelmére kell a képzelt szülők, illetőleg a képzelt apa adatait bejegyezni.
 
-[^206]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.
+[^208]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.

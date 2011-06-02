@@ -1,12 +1,12 @@
 ## 33. § Az anyakönyvvezető az ugyanarra a személyre vonatkozó adatokat a korábbi bejegyzés adataival összehasonlítja, az esetleges eltéréseket helyesbíti, illetőleg kijavítja.
 
-## Az üres lapok, rovatok és megkezdett utólagos bejegyzések[^61]
+## Az üres lapok, rovatok és megkezdett utólagos bejegyzések[^63]
 
 34. § (1) Az anyakönyvvezető a tévedésből üresen maradt lapot vagy vízszintes rovatot egymást keresztező vonalakkal áthúzza, ennek tényét az ,,Utólagos bejegyzések'' rovatban feltünteti.
 
 (2) Ha az anyakönyv valamelyik rovatába nincs bejegyzendő adat, az anyakönyvvezető a rovatot aláírás előtt kihúzza. A ,,Megjegyzések'' rovatnak üresen maradt részét ki kell húzni. Az ,,Utólagos bejegyzések'' rovatot nem szabad áthúzni.
 
-(3)[^62] A tévedésből megkezdett, de be nem fejezett utólagos bejegyzést az anyakönyvvezető törli, ennek okát az ,,Utólagos bejegyzések'' rovatban feltünteti.
+(3)[^64] A tévedésből megkezdett, de be nem fejezett utólagos bejegyzést az anyakönyvvezető törli, ennek okát az ,,Utólagos bejegyzések'' rovatban feltünteti.
 
-[^61]: A 34. §-t megelőző alcím a 14/2009. (VI. 3.) IRM rendelet 46. § 20. pontja szerint módosított szöveg.
-[^62]: A 34. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 47. § f) pontja szerint módosított szöveg.
+[^63]: A 34. §-t megelőző alcím a 14/2009. (VI. 3.) IRM rendelet 46. § 20. pontja szerint módosított szöveg.
+[^64]: A 34. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 47. § f) pontja szerint módosított szöveg.

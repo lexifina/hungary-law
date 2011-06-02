@@ -1,6 +1,6 @@
-## 44/A. §[^81] A bejegyzett élettársi kapcsolat létesítésénél az anyakönyvvezető (a helyettesítéssel megbízott anyakönyvvezető) csak a saját vagy a helyettesítéssel megbízott anyakönyvvezető a megbízója működési területe szerint illetékes települési önkormányzat területén járhat el.
+## 44/A. §[^83] A bejegyzett élettársi kapcsolat létesítésénél az anyakönyvvezető (a helyettesítéssel megbízott anyakönyvvezető) csak a saját vagy a helyettesítéssel megbízott anyakönyvvezető a megbízója működési területe szerint illetékes települési önkormányzat területén járhat el.
 
-44/B. §[^82] (1) A bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentésekor az anyakönyvvezető a felekkel ismerteti a bejegyzett élettársi kapcsolat létesítésének törvényi akadályait, annak törvényes előfeltételeit.
+44/B. §[^84] (1) A bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentésekor az anyakönyvvezető a felekkel ismerteti a bejegyzett élettársi kapcsolat létesítésének törvényi akadályait, annak törvényes előfeltételeit.
 
 (2) Az anyakönyvvezető felhívja a felek figyelmét a bejegyzett élettársi kapcsolat létesítése akadályai elhallgatásának következményeire.
 
@@ -8,5 +8,5 @@
 
 (4) A jegyzőkönyvnek tartalmaznia kell azt a tényt, ha a bejegyzett élettársi kapcsolat létrehozása kisebbségi nyelven történt, valamint az alkalmazott kisebbségi nyelv megnevezését is.
 
-[^81]: A 44/A. §-t a 14/2009. (VI. 3.) IRM rendelet 18. §-a iktatta be.
-[^82]: A 44/B. §-t a 14/2009. (VI. 3.) IRM rendelet 18. §-a iktatta be.
+[^83]: A 44/A. §-t a 14/2009. (VI. 3.) IRM rendelet 18. §-a iktatta be.
+[^84]: A 44/B. §-t a 14/2009. (VI. 3.) IRM rendelet 18. §-a iktatta be.
