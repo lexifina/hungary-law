@@ -1,1 +1,0 @@
-A Kormány az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény 22. § (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el.
