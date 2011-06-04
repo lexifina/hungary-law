@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-17-00-00
 | 2011-03-12 | 2011. évi XVII. törvény | 2011-17-00-00.0 (közlönyállapot) |
 | 2011-03-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-17-00-00.1 |
 | 2011-06-03 | 13/2011. (V. 6.) KüM határozat | 2011-17-00-00.2 |
+| 2011-06-04 | 2010. évi CXXX. törvény | 2011-17-00-00.3 |
