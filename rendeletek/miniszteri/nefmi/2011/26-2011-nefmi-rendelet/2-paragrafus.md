@@ -1,1 +1,3 @@
-## 1. § A kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendelet (a továbbiakban: Rendelet) 2. számú melléklete az e rendelet 1. melléklete szerinti kerettantervvel egészül ki.
+2. §[^3]
+
+[^3]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
