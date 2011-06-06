@@ -576,7 +576,7 @@ Harangozó Gábor István (MSZP)
 
 Szabó Vilmos (MSZP)
 
-Samu Tamás Gergő (Jobbik)[^65]
+Jámbor Nándor (Jobbik)[^65]
 
 Vona Gábor (Jobbik)[^66]
 
@@ -1042,7 +1042,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^62]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^63]: A 8/2011. (II. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^64]: A 8/2011. (II. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^65]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^65]: A 35/2011. (VI. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^66]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^67]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
 [^68]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
