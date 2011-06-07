@@ -40,9 +40,9 @@ bl) a szerződésmódosítás lehetősége a szeptemberi tanulólétszám ismere
 
 (6) A szerződő felek a támogatás előfinanszírozását vállaló szerződő fél személyét a 8. § (2) bekezdése szerinti időszakokra eltérően is meghatározhatják.
 
-(7)[^2] A támogatás igénylésének további feltétele, hogy a szerződésnek a támogatás előfinanszírozását vállaló szerződő fél személyére vonatkozó elemét a felek a már megkezdett – a 8. § (2) bekezdésében meghatározott – időszak vonatkozásában ne módosítsák.
+(7)[^3] A támogatás igénylésének további feltétele, hogy a szerződésnek a támogatás előfinanszírozását vállaló szerződő fél személyére vonatkozó elemét a felek a már megkezdett – a 8. § (2) bekezdésében meghatározott – időszak vonatkozásában ne módosítsák.
 
-(8)[^3] Ha a fenntartó a 8. § (2) bekezdése szerinti valamely időszakra szerződést kötött, az e rendelet szerinti támogatásra akkor jogosult, ha ugyanazon időszakra nem köt újabb szerződést.
+(8)[^4] Ha a fenntartó a 8. § (2) bekezdése szerinti valamely időszakra szerződést kötött, az e rendelet szerinti támogatásra akkor jogosult, ha ugyanazon időszakra nem köt újabb szerződést.
 
-[^2]: A 6. § (7) bekezdése a 10/2011. (II. 15.) VM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 6. § (8) bekezdése a 10/2011. (II. 15.) VM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 6. § (7) bekezdése a 10/2011. (II. 15.) VM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 6. § (8) bekezdése a 10/2011. (II. 15.) VM rendelet 2. §-ával megállapított szöveg.

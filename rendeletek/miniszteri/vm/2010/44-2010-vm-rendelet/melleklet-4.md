@@ -80,4 +80,6 @@
 
 ## 4. Kérelmező aláírása.
 
-4. melléklet a 44/2010. (XII. 22.) VM rendelethez
+4. melléklet a 44/2010. (XII. 22.) VM rendelethez[^9]
+
+[^9]: A 4. melléklet az 51/2011. (VI. 6.) VM rendelet 20. §-a szerint módosított szöveg.

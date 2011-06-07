@@ -1,6 +1,6 @@
 ## 3. A kérelmezők jóváhagyása
 
-5. § (1)[^1] Az 1. mellékletben meghatározott adattartalmú jóváhagyási kérelmet – amelyet az MVH rendszeresít és a honlapján közlemény formájában tesz közzé – a jóváhagyással nem rendelkező kérelmezőnek legkésőbb a szerződésnek a 8. § (1) bekezdés szerinti első alkalommal történő benyújtásával egyidejűleg kell benyújtania a kérelmező székhelye szerint illetékes MVH megyei kirendeltségéhez. A 8. § (2) bekezdés a) pontja szerinti időszak esetében a jóváhagyási kérelmet – a szerződéssel egyidejűleg vagy önállóan – legkésőbb 2011. február 28-áig kell benyújtani. A jóváhagyási kérelmek benyújtási határideje jogvesztő.
+5. § (1)[^2] Az 1. mellékletben meghatározott adattartalmú jóváhagyási kérelmet – amelyet az MVH rendszeresít és a honlapján közlemény formájában tesz közzé – a jóváhagyással nem rendelkező kérelmezőnek legkésőbb a szerződésnek a 8. § (1) bekezdés szerinti első alkalommal történő benyújtásával egyidejűleg kell benyújtania a kérelmező székhelye szerint illetékes MVH megyei kirendeltségéhez. A 8. § (2) bekezdés a) pontja szerinti időszak esetében a jóváhagyási kérelmet – a szerződéssel egyidejűleg vagy önállóan – legkésőbb 2011. február 28-áig kell benyújtani. A jóváhagyási kérelmek benyújtási határideje jogvesztő.
 
 (2) Az a kérelmező jogosult jóváhagyás iránti kérelem előterjesztésére, amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti ügyfél-nyilvántartási rendszerben, mint pénzügyi kapcsolattal rendelkező ügyfél nyilvántartásba vetette magát.
 
@@ -18,4 +18,4 @@
 
 (9) Amennyiben a hiánypótlást a kérelmező a (8) bekezdésben rögzített határidőn túl nyújtja be, azt a döntés meghozatalánál nem lehet figyelembe venni.
 
-[^1]: Az 5. § (1) bekezdése a 10/2011. (II. 15.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (1) bekezdése a 10/2011. (II. 15.) VM rendelet 1. §-ával megállapított szöveg.

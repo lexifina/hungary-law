@@ -3132,4 +3132,10 @@
 
 | 1566 | 0617765 | Zsombó |
 
+| 1567 | 0216355 | Szentlászló |
+
+| 1568 | 0614410 | Kübekháza |
+
+| 1569 | 0331468 | Fülöpháza |
+
 5. melléklet a 44/2010. (XII. 22.) VM rendelethez

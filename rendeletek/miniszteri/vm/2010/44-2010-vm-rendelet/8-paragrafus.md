@@ -1,6 +1,6 @@
 ## 6. A szerződés és a támogatási kérelem benyújtása
 
-8. § (1)[^5] A támogatás előfinanszírozását vállaló szerződő fél köteles a szerződés másolati példányát a szerződésben szereplő első szállítási napot követő tizenöt napon belül, a szerződésmódosítás másolati példányát a megkötésétől számított tizenöt napon belül a székhelye szerint illetékes MVH megyei kirendeltségéhez benyújtani. A 8. § (2) bekezdés a) pontja szerinti időszak esetében a szerződés benyújtási határideje 2011. február 28.
+8. § (1)[^6] A támogatás előfinanszírozását vállaló szerződő fél köteles a szerződés másolati példányát a szerződésben szereplő első szállítási napot követő tizenöt napon belül, a szerződésmódosítás másolati példányát a megkötésétől számított tizenöt napon belül a székhelye szerint illetékes MVH megyei kirendeltségéhez benyújtani. A 8. § (2) bekezdés a) pontja szerinti időszak esetében a szerződés benyújtási határideje 2011. február 28.
 
 (2) A kérelmező a 3. mellékletben meghatározott adattartalmú támogatási kérelmét – az MVH által rendszeresített és honlapján közlemény formájában közzétett nyomtatványon –
 
@@ -30,4 +30,4 @@ kiszállított tejtermékekre vonatkozóan, időszakonként egy alkalommal, szem
 
 (9) Amennyiben a hiánypótlást a kérelmező a (8) bekezdésben rögzített határidőn túl nyújtja be, azt a döntés meghozatalánál nem lehet figyelembe venni.
 
-[^5]: A 8. § (1) bekezdése a 10/2011. (II. 15.) VM rendelet 4. §-ával megállapított szöveg.
+[^6]: A 8. § (1) bekezdése a 10/2011. (II. 15.) VM rendelet 4. §-ával megállapított szöveg.
