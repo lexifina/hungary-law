@@ -1,1 +1,3 @@
-## 20. § A 2011. évi iskolatej program szabályozásáról szóló 44/2010. (XII. 22.) VM rendelet 4. melléklete a 8. melléklet szerint módosul.
+## 20. §[^1]
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

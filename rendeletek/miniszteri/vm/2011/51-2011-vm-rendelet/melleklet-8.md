@@ -26,18 +26,6 @@
 
 ## 6. Keltezés, a kérelmező (cégszerű) aláírása.
 
-8. melléklet az 51/2011. (VI. 6.) VM rendelethez
+8. melléklet az 51/2011. (VI. 6.) VM rendelethez[^3]
 
-A 2011. évi iskolatej program szabályozásáról szóló 44/2010. (XII. 22.) VM rendelet 4. mellékletében foglalt táblázat – az „1566” sort követően – a következő sorokkal egészül ki:
-
-„
-
-| (Sorszám | KSH | Önkormányzat) |
-
-| 1567 | 0216355 | Szentlászló |
-
-| 1568 | 0614410 | Kübekháza |
-
-| 1569 | 0331468 | Fülöpháza |
-
-”
+[^3]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
