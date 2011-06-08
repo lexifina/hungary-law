@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-45
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-12-02 | 2002-3-20-45.8 | 3/2002. (II. 15.) OM rendelet |
+| 2011-06-08 | 2002-3-20-45.9 | 30/2011. (VI. 7.) NEFMI rendelet |

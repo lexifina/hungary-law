@@ -10,7 +10,7 @@
 
 ## 5. Magyar Zeneiskolák és Művészeti Iskolák Szövetsége
 
-2. számú melléklet a 3/2002. (II. 15.) OM rendelethez[^60]
+2. számú melléklet a 3/2002. (II. 15.) OM rendelethez[^62]
 
 Az országos mérés 6., 8. és 10. évfolyamra vonatkozó tartalmi kerete
 
@@ -456,4 +456,4 @@ Egyrészt a mérő jelleg, másrészt az egyértelmű kódolás és értékelés
 
 A tesztek összeállításakor ezért ügyelünk arra, hogy a szövegek tematikája mellett a feladatok megfogalmazása se kedvezzen egyik részpopulációnak sem, a feladatok megoldásához ne legyen szükség olyan háttértudásra, amely a tanuló szociokulturális hátterének, egyéni motívációjának és ismereteinek vagy éppen tárgyi felkészültségének a függvénye.
 
-[^60]: A 2. számú mellékletet a 24/2007. (IV. 2.) OKM rendelet 7. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta.
+[^62]: A 2. számú mellékletet a 24/2007. (IV. 2.) OKM rendelet 7. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta.
