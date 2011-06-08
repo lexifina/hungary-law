@@ -36,7 +36,7 @@
 
 | 16. | 2011. 01. 31. | A főjegyző megküldi az általános iskolának a kötelező felvételi feladatot ellátó középfokú iskola nevét és címét. |
 
-| 17. | 2011. 02. 01. | Jelentkezés az Igazságügyi és Rendészeti Minisztérium és a Honvédelmi Minisztérium által fenntartott iskolákba. |
+| 17. | 2011. 02. 01. | Jelentkezés a Belügyminisztérium és a Honvédelmi Minisztérium által fenntartott iskolákba. |
 
 | 18. | 2011. 02. 03., 14.00 | Pótló írásbeli felvételi vizsgák a kilencedik évfolyamos tehetséggondozó képzésre jelentkezők számára azoknak, akik az előző írásbelin alapos ok miatt nem tudtak részt venni. |
 
@@ -78,7 +78,7 @@
 
 | 37. | 2011. 08. 01–05. | Beiratkozás a Honvédelmi Minisztérium által fenntartott szakképző iskolába. |
 
-| 38. | 2011. 08. 08–26. | Beiratkozás az Igazságügyi és Rendészeti Minisztérium által fenntartott rendészeti szakközépiskolákba. |
+| 38. | 2011. 08. 08–26. | Beiratkozás a Belügyminisztérium által fenntartott rendészeti szakközépiskolákba. |
 
 | 39. | 2011. 08. 23–24. | A tanköteles tanulók beíratása a kötelező felvételt biztosító iskolába (az iskola által meghatározott időben). |
 

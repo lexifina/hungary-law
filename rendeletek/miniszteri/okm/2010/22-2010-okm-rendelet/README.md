@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-22-20-1
 | --- | --- | --- |
 | 2010-05-21 | 2010-22-20-1W.1 | 22/2010. (V. 13.) OKM rendelet |
 | 2010-10-14 | 2010-22-20-1W.2 | 11/2010. (X. 6.) NEFMI rendelet |
+| 2011-06-08 | 2010-22-20-1W.3 | 30/2011. (VI. 7.) NEFMI rendelet |

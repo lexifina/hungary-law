@@ -1,4 +1,4 @@
-1. melléklet a 22/2010. (V. 13.) OKM rendelethez
+1. melléklet a 22/2010. (V. 13.) OKM rendelethez[^8]
 
 I. Érettségi vizsgaidőszakok, vizsganapok
 
@@ -140,19 +140,19 @@ szóbeli és gyakorlati vizsgatevékenység: 2011. május–június
 
 2. A Honvédelmi Minisztérium illetékességi körébe tartozó iskolai rendszerű szakképzésben oktatott szakképesítések szakmai vizsgáinak írásbeli vizsgaidőpontjai: 2011. január 19. és június 6.
 
-3. Az Igazságügyi és Rendészeti Minisztérium irányítása alá tartozó, iskolai rendszerű szakképzésben oktatott szakképesítések írásbeli, szóbeli és gyakorlati vizsgaidőpontjai:
+3. A Belügyminisztérium irányítása alá tartozó, iskolai rendszerű szakképzésben oktatott szakképesítések írásbeli, szóbeli és gyakorlati vizsgaidőpontjai:
 
 a) írásbeli: 2010. szeptember 23. 10.00
 
-szóbeli és gyakorlati: 2010. október 11–15.
+szóbeli és gyakorlati: 2010. október 11–15.
 
 b) írásbeli: 2011. január 5. 10.00
 
-szóbeli és gyakorlati: 2011. január 17–21.
+szóbeli és gyakorlati: 2011. január 17–21.
 
-c) írásbeli: 2011. május 30.
+c) írásbeli: 2011. június 16.
 
-szóbeli és gyakorlati: 2011. június 6–17.
+szóbeli és gyakorlati: 2011. június 20–29.
 
 4. A Földművelésügyi és Vidékfejlesztési Minisztérium illetékességi körébe tartozó, iskolarendszerű szakképzésben oktatott szakképesítések szakmai vizsgáinak írásbeli és szóbeli (gyakorlati) vizsgaidőpontjai:
 
@@ -173,3 +173,5 @@ szóbeli és gyakorlati vizsgarész, valamint szóbeli és gyakorlati vizsgatev�
 6. Az egyes OKJ szakképesítések írásbeli, vizsgarészének, az írásbeli és interaktív vizsgatevékenységeknek szakképe- sítésenként, illetve tantárgyanként meghatározott vizsgaidőpontját, valamint a tételek átvételének idejét és módját a szakképesítésekért felelős miniszter közleményben teszi közzé.
 
 7. A szakközépiskolákban a szakmai vizsgák írásbeli vizsgarésze, valamint írásbeli, interaktív vizsgatevékenysége 2011. május 27-én is megszervezhető (pótnap) abban az esetben, ha a vizsgázó szakmai vizsgát, valamint érettségi vizsgát is tesz, és az írásbeli vizsgák, továbbá az írásbeli vagy interaktív vizsgatevékenységek azonos napra eső időpontjai nem teszik lehetővé a mindkét vizsgán való részvételt. A vizsgaidőpontok egybeeséséről, a pótnap igénybevételének szükségességéről a szakközépiskola a vizsgabejelentés és tételigénylés megküldésével egyidejűleg értesíti a szak- képesítésért felelős minisztert és a szakmai vizsga írásbeli tételét biztosító intézményt.
+
+[^8]: Az 1. melléklet a 30/2011. (VI. 7.) NEFMI rendelet 13. §-a szerint módosított szöveg.
