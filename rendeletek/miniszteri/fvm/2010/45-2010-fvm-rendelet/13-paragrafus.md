@@ -1,6 +1,6 @@
 13. § (1) A TSE, BSE és súrlókór tekintetében a pénzügyi hozzájárulás a Határozat 9. cikkével elfogadott nemzeti programok szerinti gyorstesztek, a megerősítő és elsődleges molekuláris vizsgálatok költségeire, valamint a genotípus-vizsgálatok költségére vehető igénybe. A keretösszeg a végrehajtási időszakra legfeljebb 760 000 EUR.
 
-(2) A genotípus vizsgálatokra a keretösszeg a végrehajtási időszakra legfeljebb 100 000 EUR. A pénzügyi hozzájárulás igénybevételére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége jogosult.
+(2)[^14] A genotípus vizsgálatokra a keretösszeg a végrehajtási időszakra legfeljebb 64 000 EUR. A pénzügyi hozzájárulás igénybevételére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége jogosult.
 
 (3) A gyorstesztek, a megerősítő és elsődleges molekuláris vizsgálatok költségeire a keretösszeg a végrehajtási időszakra legfeljebb 660 000 EUR. A pénzügyi hozzájárulás igénybevételére az MgSzH jogosult.
 
@@ -17,3 +17,5 @@ d) a genotípus-vizsgálatonként a 20 EUR
 összeget.
 
 (5) A pénzügyi hozzájárulás kifizetését igénylő kérelemhez csatolni kell a tárgyidőszakban a kapcsolódó költségeket igazoló bizonylatokról készült, a 3. melléklet szerinti adattartalmú összesítő kimutatást.
+
+[^14]: A 13. § (2) bekezdése a 49/2011. (VI. 6.) VM rendelet 17. § (4) bekezdés f) pontja szerint módosított szöveg.
