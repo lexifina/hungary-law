@@ -1,1 +1,0 @@
-## Támogatási kérelem elbírálása
