@@ -1,1 +1,0 @@
-## 1. § A Kormány a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalmazása és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1998. év november hó 11. napján aláírt Megállapodást e rendelettel kihirdeti.
