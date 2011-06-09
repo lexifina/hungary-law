@@ -1,0 +1,9 @@
+# 49/2011. (VI. 6.) VM rendelet
+
+az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2011. évi finanszírozásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-49-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-06-09 | 2011-49-20-2Y.1 | 49/2011. (VI. 6.) VM rendelet |
