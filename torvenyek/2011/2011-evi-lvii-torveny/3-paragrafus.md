@@ -1,0 +1,1 @@
+3. § Az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó adóalany esetében az egyszerűsített vállalkozói adó alapjának megállapításakor az összes bevételt csökkenti az adóévben az Alap részére visszafizetési kötelezettség nélkül adott támogatás, juttatás összege.
