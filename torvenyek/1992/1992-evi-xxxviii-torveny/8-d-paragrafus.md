@@ -2,7 +2,7 @@
 
 a) a vagyonát képező, a Magyar Állam által kibocsátott, hitelviszonyt megtestesítő értékpapírokat azok bevonása céljából térítésmentesen átadja a Magyar Államnak,
 
-b) a vagyonába tartozó eszközökből származó bevételeket a Magyar Állam javára fizeti meg.
+b) a vagyonába tartozó eszközökből, valamint az Összefogás az Államadósság Ellen Alapból származó bevételeket a Magyar Állam javára fizeti meg.
 
 (2) Az (1) bekezdés a) pontja szerinti vagyonátadás értéke költségvetési bevételként nem számolható el.
 

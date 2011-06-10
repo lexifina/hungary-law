@@ -1,4 +1,4 @@
-105/A. § (1) A helyi önkormányzati tulajdonban lévő vagyon vagyonkezelésbe adása során a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 80/A. §-a, az önkormányzati közfeladatot szabályozó külön törvény és e törvény rendelkezései szerint kell eljárni.
+105/A. § (1) A helyi önkormányzati tulajdonban lévő vagyon vagyonkezelésbe adása során az Ötv. 80/A. §-a, az önkormányzati közfeladatot szabályozó külön törvény és e törvény rendelkezései szerint kell eljárni.
 
 (2) A vagyonkezelésre vonatkozó nyilvános pályázati kiírásnak tartalmaznia kell az önkormányzattól átvállalt közfeladatok ellátására vonatkozó törvényi előírások szerint a pályázó személyi és szakmai felkészültségével kapcsolatos elvárásokat, az ellátás biztonságát szavatoló tényezőket, az Ötv. 80/A. § (7) bekezdésben foglalt feladatok esetén a sajátos védettség szempontjait, illetőleg az ellátás színvonalának emelését szolgáló befektetések szükségességét.
 

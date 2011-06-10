@@ -16,7 +16,9 @@ f) az állami kezesség vállalása és beváltása jogosságának ellenőrzés�
 
 g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
 
-h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek.
+h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
+
+i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére.
 
 (2) Az (1) bekezdésben meghatározott szerv feladatát, hatáskörét és szervezetét, valamint a kormányzati ellenőrzés eljárási szabályait a Kormány rendeletben határozza meg. Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, ott az (1) bekezdésben meghatározott kormányzati ellenőrzési szervet kell érteni.
 

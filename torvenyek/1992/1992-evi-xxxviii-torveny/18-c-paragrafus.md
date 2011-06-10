@@ -12,7 +12,7 @@
 
 a) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsok és munkaszervezeteik működési és fejlesztési célú pénzeszközeik kezelésére,
 
-b) a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa,
+b) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa,
 
 c) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
