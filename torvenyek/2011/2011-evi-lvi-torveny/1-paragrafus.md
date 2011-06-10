@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Délkelet-európai Rendészeti Központról szóló, Bukarestben, 2009. december 9-én létrejött Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.

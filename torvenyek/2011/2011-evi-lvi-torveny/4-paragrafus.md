@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad a Délkelet-európai Rendészeti Központ kiváltságairól és mentességeiről szóló, Bukarestben, 2010. november 24-én létrejött Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
