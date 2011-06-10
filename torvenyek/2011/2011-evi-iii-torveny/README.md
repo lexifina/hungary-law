@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-3-00-00
 | 2011-03-02 | 2011. évi III. törvény | 2011-3-00-00.0 (közlönyállapot) |
 | 2011-03-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-3-00-00.1 |
 | 2011-06-09 | 10/2011. (IV. 7.) KüM határozat | 2011-3-00-00.2 |
+| 2011-06-10 | 2010. évi CXXX. törvény | 2011-3-00-00.3 |
