@@ -8,4 +8,6 @@ c) a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártag term
 
 d) a beazonosított függő tételek miatti visszafizetésekre kell fordítani,
 
-e) a kincstári egységes számla terhére nyújtott megelőlegezési kölcsön törlesztésére kell fordítani.
+e) a kincstári egységes számla terhére nyújtott megelőlegezési kölcsön törlesztésére kell fordítani,
+
+f) az eszközökből fakadó kockázatok kezelésére és csökkentésére kell fordítani.
