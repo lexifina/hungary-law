@@ -5,11 +5,3 @@
 (3) A Megállapodás, illetve a 2–3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) A törvény végrehajtásához szükséges intézkedésekről az agrárpolitikáért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
