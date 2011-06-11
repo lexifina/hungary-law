@@ -9,11 +9,3 @@
 (5) E törvény 5. § (3), (4) bekezdése, 6. § (2) bekezdése, 7. § (1) bekezdése, 9. § (2) bekezdése 2011. szeptember 30-án lép hatályba.
 
 (6) E törvény 4. § (8), (11), (13), (16) bekezdése 2011. október 1-jén lép hatályba.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
