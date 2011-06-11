@@ -1,6 +1,6 @@
 ## 4. A támogatás igénybevételének feltételei
 
-4. § (1)[^5] Támogatás igénybevételére jogosult
+4. § (1)[^6] Támogatás igénybevételére jogosult
 
 a) a mezőgazdasági termelő, ha
 
@@ -12,7 +12,7 @@ b) a zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leán
 
 [a továbbiakban az a) és b) pont együtt: ügyfél].
 
-(2)[^6] Az (1) bekezdés a) pont ab) alpontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés a) pont ab) alpontjában meghatározott feltételnek.
+(2)[^7] Az (1) bekezdés a) pont ab) alpontjában meghatározott feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalnia kell, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben megfelel az (1) bekezdés a) pont ab) alpontjában meghatározott feltételnek.
 
 (3) Az ültetvény területének növelése abban az esetben támogatható, ha a beruházás alapján az ültetvény területe eléri az 1. mellékletben foglalt táblázat F oszlopában az adott fajra vonatkozó legkisebb ültetvényméretet azzal, hogy a régi és az új ültetvény együttesen egy adott megyén belüli vagy közvetlenül szomszédos megyében elhelyezkedő ültetvényt alkot.
 
@@ -38,5 +38,5 @@ f) a telepítési engedély szerint megvalósítani a beruházást.
 
 (6) Egy ügyfél egy támogatási kérelemben külön-külön és mindhárom célterületre vonatkozóan is igényelhet támogatást.
 
-[^5]: A 4. § (1) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (2) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 34/2010. (XI. 25.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.

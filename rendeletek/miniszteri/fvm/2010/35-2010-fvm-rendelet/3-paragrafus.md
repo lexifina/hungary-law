@@ -14,8 +14,8 @@ c) 8 évnél fiatalabb meglévő vagy új ültetvény víztakarékos öntözés�
 
 (4) A támogatható csemegeszőlő-fajtákat a 2. melléklet tartalmazza.
 
-(5)[^4] Az ültetvény tőszámának növeléséhez e rendelet szerinti támogatás nem vehető igénybe.
+(5)[^5] Az ültetvény tőszámának növeléséhez e rendelet szerinti támogatás nem vehető igénybe.
 
 (6) Az egyes célterületek szerinti beruházásokhoz kapcsolódva az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 31. §-ában meghatározott kiadásokra támogatás vehető igénybe.
 
-[^4]: A 3. § (5) bekezdése a 34/2010. (XI. 25.) VM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § (5) bekezdése a 34/2010. (XI. 25.) VM rendelet 2. §-ával megállapított szöveg.
