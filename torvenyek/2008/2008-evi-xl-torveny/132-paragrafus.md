@@ -36,7 +36,7 @@
 
 16. a napi földgáz és kapacitás kereskedelmi piac működési feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit,
 
-17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére vonatkozó részletes szabályokat,
+17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére, valamint a szervezett földgázpiac működtetésére vonatkozó részletes szabályokat,
 
 18. a földgázszállítási tevékenység végzésének és a földgázszállítói kapacitás értékesítésének részletes szabályait, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályokat, különösen a felhasználásukkal kapcsolatos jogokat és kötelezettségeket, valamint a kiegyensúlyozási pótdíj nyilvántartásával kapcsolatos rendelkezéseket,
 

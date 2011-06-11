@@ -1,1 +1,1 @@
-49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést a külön törvényben meghatározott módon felfüggeszteni.
+49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést felfüggeszteni.

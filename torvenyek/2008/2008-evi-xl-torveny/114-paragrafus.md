@@ -51,3 +51,19 @@ d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérele
 (11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és a Magyar Köztársaság közötti nemzetközi szerződés ezt biztosítja.
 
 (12) A szállítási rendszerüzemeltetési engedély kiadásának feltételei tekintetében a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet az általános szabályoktól eltérően is rendelkezhet azon kérelmező vonatkozásában, amely földgáz szállítóvezeték tulajdonjogával a szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásakor nem rendelkezik.
+
+(13) Szervezett földgázpiaci engedélyt részvénytársaság vagy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
+
+(14) A szervezett földgázpiaci engedély kizárólagos jogot biztosít és kötelezettséget jelent a szervezett földgázpiac működtetésére.
+
+(15) A szervezett földgázpiaci működési engedély kiadását a Hivatal – a (7) bekezdésben meghatározottakon túlmenően – megtagadja, ha a kérelmező nem felel meg a 48/A. § (3) bekezdés szerinti szabályoknak.
+
+(16) A szervezett földgázpiaci tevékenység fióktelep formájában történő végzése esetén az engedély kiadását a Hivatal megtagadhatja, ha
+
+a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelep felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Hivatal és a kérelmező székhelye szerinti felügyeleti hatóság között,
+
+b) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
+
+c) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, hozzájáruló nyilatkozatát vagy tudomásulvételét, vagy
+
+d) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.

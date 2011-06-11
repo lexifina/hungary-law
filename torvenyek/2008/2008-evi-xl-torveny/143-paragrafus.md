@@ -1,4 +1,4 @@
-143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől a 46. §–49. §-ok szerinti szervezett földgázpiac létrejöttéig napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
+143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
 
 (1a) A napi földgáz- és kapacitás kereskedelmi piac kizárólag akkor szűnik meg, ha a 46–49. §-ok szerinti szervezett földgázpiac ellátja annak e törvény szerinti feladatait.
 
