@@ -10,4 +10,4 @@
 
 (5) A villamosenergia-ipari vállalkozások kötelesek biztosítani a Hivatal számára, hogy a Hivatal munkatársai a társaság pénzügyi-számviteli kimutatásait, és az ahhoz kapcsolódó bizonylatokat és információkat megismerhessék, azokba betekinthessenek. A Hivatalnak indokolnia kell, hogy az adott információra mely feladata ellátásához van szükség.
 
-(6) A 66. § (4)–(5) bekezdésében foglaltak ellenőrzésének biztosítására a (2) és (5) bekezdést megfelelően alkalmazni kell a 2011. július 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetőjére.
+(6) A 66. § (4)–(5) bekezdésében foglaltak ellenőrzésének biztosítására a (2) és (5) bekezdést megfelelően alkalmazni kell a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetőjére.

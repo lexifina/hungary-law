@@ -4,7 +4,9 @@
 
 (2) Szervezett villamosenergia-piaci működési engedélyt jogi személyiséggel rendelkező gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
 
-(3) A szervezett villamosenergia-piaci tevékenység fióktelep formájában történő végzése esetén a működési engedély kiadását a Hivatal a 75. § (3) bekezdésében meghatározottakon túlmenően akkor is megtagadhatja, ha
+(2a) A szervezett villamosenergia-piaci működési engedély kiadását a Hivatal a 75. § (3) bekezdésében meghatározottakon túlmenően akkor is megtagadja, ha a kérelmező nem teljesíti az 55. § (5) bekezdésében előírt szabályokat.
+
+(3) A szervezett villamosenergia-piaci tevékenység fióktelep formájában történő végzése esetén a működési engedély kiadását a Hivatal – (2a) bekezdésben meghatározottakon túlmenően – megtagadhatja, ha
 
 a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Hivatal és a kérelmező székhelye szerinti felügyeleti hatóság között,
 
