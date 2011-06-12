@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, pereme virágszirom formájú, széle szaggatottan recézett.
+
+(2) Az emlékérme előlapján, a középmezőben a Deák téri evangélikus templom oltárának ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYAR KÖZTÁRSASÁG” felirat, alsó köriratban az „5000” értékjelzés és a „FORINT” felirat olvasható. Az alsó és a felső köriratot az emlékérme bal szélén a vízszintesen elhelyezett „1811” felszentelési évszám, az emlékérme jobb szélén a szintén vízszintesen elhelyezett „2011” verési évszám választja el. Az alsó körirat alatt a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben a Deák téri evangélikus templom épületének ábrázolása látható. Az emlékérme szélén, felső köriratban a „DEÁK TÉRI EVANGÉLIKUS TEMPLOM” felirat olvasható. Sz. Egyed Emma tervezőművész mesterjegye a templom ábrázolása alatt látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
