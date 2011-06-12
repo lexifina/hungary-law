@@ -6,4 +6,6 @@
 
 (3) A vizsgálatot az eszköz rendes használati körülményeihez hasonló körülmények között kell lefolytatni.
 
-(4) A vizsgálatot a mellékletben meghatározott képesítéssel rendelkező személy végezheti.
+(4)[^2] A vizsgálatot a Mellékletben meghatározott képesítéssel rendelkező személy végezheti. A megbízó felelős a klinikai vizsgálatot végző személyzet képzéséért és oktatásáért.
+
+[^2]: A 7. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 25. §-ával megállapított szöveg.
