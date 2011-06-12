@@ -4,16 +4,4 @@
 
 „a) az „emberkereskedelem”: személyek toborzását, szállítását, eladását, elrejtését, vagy átvételét jelenti fenyegetés, erőszak vagy a kényszer más formáinak alkalmazásával, erőszakos elrablás, csalás, megtévesztés, hatalommal vagy kiszolgáltatott helyzettel való visszaélés útján, vagy anyagi ellenszolgáltatás vagy előnyök adásával, vagy elfogadásával annak érdekében, hogy a kizsákmányolás céljából elnyerjék egy olyan személy beleegyezését, aki más személy felett hatalommal rendelkezik. A kihasználásnak magában kell foglalnia legalább a mások prostituálásának kihasználását, vagy a szexuális kizsákmányolás más formáit, kényszermunkát vagy szolgáltatásokat, rabszolgatartást vagy a rabszolgatartáshoz hasonló gyakorlatot, mások leigázását vagy emberi test szerveinek tiltott eltávolítását;”.
 
-(2) A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 2. § 24. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„24. muzeális fegyver és lőszer: az elöltöltő fegyver, valamint az 1890 előtt készített tűzfegyver – kivéve, ha korszerű perem vagy központi gyújtású lőszer használatára alkalmas – és a muzeális fegyverekhez használható 1945 előtt készült lőszer;”.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+(2)
