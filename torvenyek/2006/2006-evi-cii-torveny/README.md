@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-102-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2006-12-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-102-00-00.1 |
+| 2011-06-12 | 2011. évi XLVIII. törvény | 2006-102-00-00.2 |
