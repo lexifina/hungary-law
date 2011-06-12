@@ -1,10 +1,10 @@
-9. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez
+9. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez[^32]
 
 ## Váratlan események bejelentése
 
 A 11. §-ban előírt bejelentéseknek a következő adatokat kell tartalmazniuk:
 
-1. a bejelentő intézet neve, címe;
+1.[^33] a bejelentő intézet és a balesetfelelős neve, címe, elérhetősége;
 
 2. a jelenséget (veszélyhelyzetet, balesetet) észlelő vagy közvetítő személy neve;
 
@@ -40,7 +40,7 @@ A 11. §-ban előírt bejelentéseknek a következő adatokat kell tartalmazniuk
 
 – az utolsó nagyjavítás időpontja;
 
-10. intézkedések a további balesetek megelőzésére;
+10.[^34] a váratlan eseménnyel kapcsolatos intézkedések (FSCA), intézkedések a további balesetek megelőzésére;
 
 11. kinek jelentették a jelenséget, balesetet;
 
@@ -48,4 +48,6 @@ A 11. §-ban előírt bejelentéseknek a következő adatokat kell tartalmazniuk
 
 13. a bejelentés dátuma, aláírás.
 
-A bejelentést az eseményt követően haladéktalanul, legkésőbb 8 napon belül kell megküldeni a Hivatal részére egy példányban
+[^32]: A 9. számú melléklet a 29/2011. (VI. 7.) NEFMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^33]: A 9. számú melléklet 1. pontja a 29/2011. (VI. 7.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^34]: A 9. számú melléklet 10. pontja a 29/2011. (VI. 7.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.

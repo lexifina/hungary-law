@@ -18,7 +18,7 @@ ba) az invazív mintavevő, valamint
 
 bb) az emberi szervezethez mintavétel céljából csatlakoztatott orvostechnikai eszköz;
 
-c) orvostechnikai eszköz: az orvostechnikai eszközökről szóló 47/1999. (X. 6.) EüM rendeletben meghatározott eszköz;
+c)[^1] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendeletben (a továbbiakban: R.) meghatározott eszköz;
 
 d) kalibráló és kontrol anyagok: azok az anyagok vagy termékek, amelyeknek a gyártó meghatározása szerinti célja
 
@@ -50,7 +50,25 @@ l) vonatkozó nemzeti szabvány: az 1. számú melléklet szerinti valamely alap
 
 m) minták befogadására szolgáló tartály: az olyan vákuum típusú vagy egyéb eszköz, amelyet a gyártó speciálisan arra szánt, hogy az emberi szervezetből származó mintákat közvetlenül a levételt követően befogadja, és in vitro diagnosztikai vizsgálat céljára tárolja;
 
-n)[^1] közös műszaki előírások: az Európai Unió Hivatalos Lapjában közzétett műszaki előírások, amelyek tartalmazzák a megfelelő teljesítőképesség értékelési, újraértékelési és egy adott gyártási sorozat kibocsáthatóságára vonatkozó feltételeket, referenciamódszereket és referenciaanyagokat. E rendelet alkalmazásában, ahol harmonizált szabványra történik hivatkozás, az egyben közös műszaki előírásokra tett hivatkozásnak is értendő.
+n)[^2] közös műszaki előírások: az Európai Unió Hivatalos Lapjában közzétett műszaki előírások, amelyek tartalmazzák a megfelelő teljesítőképesség értékelési, újraértékelési és egy adott gyártási sorozat kibocsáthatóságára vonatkozó feltételeket, referenciamódszereket és referenciaanyagokat. E rendelet alkalmazásában, ahol harmonizált szabványra történik hivatkozás, az egyben közös műszaki előírásokra tett hivatkozásnak is értendő;
+
+o)[^3] balesetfelelős: az egészségügyi szolgáltató orvosigazgatója, vagy ennek hiányában a megfelelő szakmai vezető, aki a váratlan esemény, baleset jelentésével, kivizsgálásával kapcsolatos teendőket ellátja;
+
+p)[^4] váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, vagy teljesítőképességében bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a beteg, az eszköz kezelője, vagy más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
+
+q)[^5] az egészségi állapot súlyos romlása:
+
+qa) életet veszélyeztető megbetegedés,
+
+qb) élettani funkció vagy egészség tartós károsodása,
+
+qc) olyan állapot, amely orvosi vagy műtéti beavatkozást tesz szükségessé a qa) és qb) alpontban leírtak megelőzésére,
+
+qd) a gyártó használati útmutatójának megfelelően használt diagnosztikai vagy in vitro diagnosztikai eszközzel végzett vizsgálat hibás eredményének következtében létrejött ártalom,
+
+qe) magzati károsodás, magzati halál vagy veleszületett vagy a szüléssel összefüggésbe hozható rendellenesség;
+
+r)[^6] súlyos közegészségügyi kockázat: minden olyan váratlan esemény vagy baleset következtében kialakult veszély, amely több ember esetében halálhoz vagy az egészségi állapot súlyos romlásához vezethet.
 
 (2) E rendelet előírásait az (1) bekezdés b) pontja szerinti tartozékra, mint önálló eszközre kell alkalmazni.
 
@@ -68,4 +86,9 @@ b) külső minőségértékelési programnál alkalmazott anyag.
 
 (5) Az emberi eredetű szövet, sejt és anyag vételére, gyűjtésére és felhasználására vonatkozó követelményeket külön jogszabály tartalmazza.
 
-[^1]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^1]: A 2. § (1) bekezdés c) pontja a 29/2011. (VI. 7.) NEFMI rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^3]: A 2. § (1) bekezdés o) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés p) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^5]: A 2. § (1) bekezdés q) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^6]: A 2. § (1) bekezdés r) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.

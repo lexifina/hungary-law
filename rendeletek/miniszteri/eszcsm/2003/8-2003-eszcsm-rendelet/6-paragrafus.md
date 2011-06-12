@@ -4,7 +4,7 @@
 
 (3) A gyártó vagy a meghatalmazott képviselő és a kijelölt szervezet a 2–7. számú mellékletek szerinti értékelések és vizsgálatok elvégzésének feltételeit szerződésben rögzíti.
 
-(4)[^5] Közegészségügyi vagy gyógykezelési célból – orvosilag indokolt kérelemre – meghatározott időtartamra és meghatározott helyen történő felhasználásra az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: Hivatal) kivételesen engedélyezheti olyan egyedi eszköz eseti használatbavételét és alkalmazását, amelyet nem vetettek alá az 5. § (1)–(4) bekezdései szerinti eljárásoknak.
+(4)[^11] Közegészségügyi vagy gyógykezelési célból – orvosilag indokolt kérelemre – meghatározott időtartamra és meghatározott helyen történő felhasználásra a Hivatal kivételesen engedélyezheti olyan egyedi eszköz eseti használatbavételét és alkalmazását, amelyet nem vetettek alá az 5. § (1)–(4) bekezdései szerinti eljárásoknak.
 
 (5) Ha a megfelelőség-értékelési eljárás a kijelölt szervezet közreműködését igényli, és az adott eljárás lefolytatására több szervezet van kijelölve, közülük a gyártó vagy a meghatalmazott képviselő választ.
 
@@ -18,4 +18,4 @@
 
 (10) Az EK valamely tagállamának illetékes hatósága által kijelölt és az Európai Bizottság által az Európai Közösségek Hivatalos Lapjában közzétett kijelölt szervezet eszközre vonatkozó megfelelőségi tanúsítását e rendelet szerint kiadott megfelelőségi tanúsításnak kell tekinteni.
 
-[^5]: A 6. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 31. § a) pontja szerint módosított szöveg.
+[^11]: A 6. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 30. § c) pontja szerint módosított szöveg.
