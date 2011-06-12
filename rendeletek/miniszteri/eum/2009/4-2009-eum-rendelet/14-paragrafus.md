@@ -12,8 +12,9 @@
 
 (6) Amennyiben a tanúsítvány felfüggesztése, korlátozása esetén a kijelölt szervezet felhívására – az abban foglalt megfelelő határidőn belül – a gyártó a megfelelő intézkedések megtételével nem biztosítja az e rendeletnek való megfelelést, illetve az EK megfelelőségi tanúsítvány kiállításához szükséges feltételeket, a kijelölt szervezet a tanúsítvány visszavonásáról rendelkezik.
 
-(7) A kijelölt szervezet döntésétől számított 15 napon belül tájékoztatja a Hivatalt minden kibocsátott, módosított, kiegészített, felfüggesztett, visszavont vagy elutasított tanúsítványról, valamint tájékoztatja a többi kijelölt szervezetet minden felfüggesztett, visszavont vagy elutasított tanúsítványról, továbbá megkeresésre a kibocsátott tanúsítványokról. A Hivatal a kijelölt szervezet tájékoztatása alapján értesíti a Bizottságot és az EGT tagállamokat. A kijelölt szervezet a Hivatal megkeresésére rendelkezésére bocsát minden, a tevékenységével összefüggő egyéb információt.
+(7)[^15] A kijelölt szervezet a döntésétől számított 15 napon belül a Hivatal által rendszeresített formanyomtatványon tájékoztatja a Hivatalt minden kibocsátott, módosított, kiegészített, felfüggesztett, visszavont vagy elutasított tanúsítványról, valamint tájékoztatja a többi kijelölt szervezetet minden felfüggesztett, visszavont vagy elutasított tanúsítványról, továbbá megkeresésre a kibocsátott tanúsítványokról. A Hivatal a kijelölt szervezet tájékoztatása alapján értesíti a Bizottságot, az EGT államokat. A kijelölt szervezet a Hivatal megkeresésére rendelkezésére bocsát minden, a tevékenységével összefüggő egyéb információt.
 
-(8)[^4]
+(8)[^16] Amennyiben a Hivatal piacfelügyeleti eljárása során a 22. § (1) bekezdése vagy a 23. § (1) bekezdése szerinti határozatot hoz, a kijelölt szervezet, amely lefolytatta a 13. § szerinti eljárást, a határozatban foglaltak figyelembevételével a 13. § szerinti eljárását felülvizsgálja.
 
-[^4]: A 14. § (8) bekezdését a 18/2010. (IV. 20.) EüM rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^15]: A 14. § (7) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^16]: A 14. § (8) bekezdését a 18/2010. (IV. 20.) EüM rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 29/2011. (VI. 7.) NEFMI rendelet 12. § (2) bekezdése iktatta be.

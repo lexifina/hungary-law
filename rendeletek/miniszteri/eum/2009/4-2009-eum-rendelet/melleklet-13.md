@@ -2,15 +2,15 @@
 
 ## intézkedések bejelentési formanyomtatványa
 
-## A) Az egészségügyi szolgáltató, forgalmazó, felhasználó bejelentő nyomtatványa
+## A) Az egészségügyi szolgáltató, forgalmazó, felhasználó bejelentő nyomtatványa az orvostechnikai eszközzel kapcsolatos váratlan eseményről vagy balesetről
 
 | A bejelentő adatai: |
 
 | A bejelentő neve: |
 
-| □ Disztribútor | □ Forgalmazó | □ Egészségügyi szolgáltató: ............................................ |
+| □ Disztribútor | □ Forgalmazó | □ Egészségügyi szolgáltató: |
 
-| □ Importőr | □ Felhasználó | □ Egyéb |
+| □ Importőr | □ Felhasználó | □ Egyéb |
 
 | Utca, házszám vagy postafiók |
 
@@ -21,6 +21,8 @@
 | Telefon | Fax |
 
 | E-mail |
+
+| Balesetfelelős neve, elérhetősége |
 
 | Eszközre vonatkozó adatok: |
 
@@ -52,7 +54,7 @@
 
 | A gyártó meghatalmazott képviselőjének adatai |
 
-| Magyarországi egyéb képviselet (disztribútor, márkaszerviz, forgalmazó stb.) |
+| Magyarországi egyéb képviselet |
 
 | Eseményre vonatkozó adatok: |
 
@@ -72,31 +74,35 @@
 
 | A szerviz neve, címe |
 
-| Utolsó időszakos felülvizsgálat időpontja, adatai (az orvostechnikai eszközökről szóló EüM rendelet 27. §-a és 13. melléklete alapján) |
+| Utolsó időszakos felülvizsgálat időpontja, adatai az orvostechnikai eszközökről szóló EüM rendelet 27. §-a és 13. melléklete alapján |
 
-| Utolsó naplózott szervizbeavatkozás időpontja |
+| Utolsó naplózott szerviz beavatkozás időpontja |
 
 | Utolsó naplózott nagyjavítás időpontja |
 
 ## Megjegyzés:
 
-## Jelen bejelentés nem jelenti azt, hogy a gyártó, a meghatalmazott képviselője vagy a kompetens hatóság megerősíti vagy elismeri, hogy a bejelentett eszköz bármely módon hozzájárult volna az eseményben érintett személy halálához, illetve egészségkárosodásához, vagy annak közvetlen okozója lett volna.
+## Jelen bejelentés nem jelenti azt, hogy a gyártó, a meghatalmazott képviselője vagy az illetékes hatóság megerősíti vagy elismeri, hogy a bejelentett eszköz bármely módon hozzájárult volna az eseményben érintett személy halálához, vagy egészségkárosodásához, vagy annak közvetlen okozója lett volna.
 
 ## Ezennel kijelentem, hogy a fenti adatokat legjobb tudásom szerint közöltem.
 
-## Hely: Dátum:
+## Hely: ................................................ Dátum: .....................................................................................................
+
+## .
+
+## ...................................................
 
 ## aláírás
-
-## (A jelentést az eseményt követően haladéktalanul, de legkésőbb 3 napon belül meg kell küldeni a Hivatal részére.)
 
 ## B) A gyártó (meghatalmazott képviselő) bejelentő nyomtatványa – a tudomására jutott váratlan eseményekről és balesetekről
 
 ## Report Form
 
-## Manufacturer’s Incident Report
+## Manufacturer's Incident Report
 
-| 1 Hivatalos információk/ Administrative information Címzett adatai/ Recipient |
+| 1 Hivatalos információk/ Administrative information |
+
+| Címzett adatai/ Recipient |
 
 | Az illetékes nemzeti hatóság neve/ Name of national competent authority (NCA) |
 
@@ -108,23 +114,37 @@
 
 | A bejelentés hivatkozási száma a nemzeti hatóságnál (ha ismert)/ Reference number assigned by NCA to whom sent (if known) |
 
-| Bejelentés típusa/ Type of report □ Előzetes bejelentés/ Initial report □ Eljárást nyomonkövető bejelentés/ Follow-up report □ Együttes előzetes és végső bejelentés/ Combined initial and final report □ Végső bejelentés/ Final report |
+| Bejelentés típusa/ Type of report |
 
-| Váratlan esemény osztályozása/ Classification of incident □ Halált vagy előre nem látható, súlyos egészségügyi állapotromlást, súlyos közegészségügyi probémát okozó esemény/ Death or unanticipated serious deterioration in state of health, serious public health threat □ Egyéb bejelentendő esemény/ All other reportable incidents |
+| □ Előzetes bejelentés/ Initial report |
+
+| □ Eljárást nyomonkövető bejelentés/ Follow-up report |
+
+| □ Együttes előzetes és végső bejelentés/ Combined initial and final report |
+
+| □ Végső bejelentés/ Final report |
+
+| Váratlan esemény osztályozása/ Classification of incident |
+
+| □ Halált okozó esemény/Death |
+
+| □ Előre nem látható, súlyos egészségromlást okozó esemény/Unanticipated serious deterioration in state of health |
+
+| □ Súlyos közegészségügyi kockázat/ Serious public health threat |
+
+| □ Egyéb bejelentendő esemény/ All other reportable incidents |
 
 | Más nemzeti hatóság(ok) megnevezése, akik megkapták a bejelentést/ Identify to what other NCAs this report was also sent |
 
-| 2 A bejelentés benyújtójának adatai/ Information on submitter of the report |
+| 2 A bejelentés benyújtójának adatai/Information on submitter of the report |
 
 | Bejelentő típusa/ Status of submitter |
 
-| □ Gyártó/ Manufacturer |
+| □ Gyártó/ Manufacturer |
 
-| □ Meghatalmazott képviselő (az orvostechnikai eszközökről szóló EüM rendelet 4. § 13. pontja)/ Authorised representative within EEA and Switzerland |
+| □ Meghatalmazott képviselő az orvostechnikai eszközökről szóló EüM rendelet 4. § (1) bekezdés 13. pontja szerint/ Authorised representative within EEA and Switzerland |
 
-| □ Egyéb/ Others (identify the role): |
-
-| 3 Gyártó adatai/ Manufacturer information |
+| 3 Gyártó adatai/ Manufacturer information |
 
 | Gyártó neve/ Manufacturer name |
 
@@ -132,13 +152,13 @@
 
 | Cím/ Address |
 
-| Postai irányítószám/ Postal code | Város/ City |
+| Postai irányítószám/ Postai code | Város/ City |
 
 | Telefonszám/ Phone | Fax/ Fax |
 
 | E-mail cím/ E-mail | Ország/ Country |
 
-| 4 Meghatalmazott képviselő adatai/ Authorised Representative information |
+| 4 Meghatalmazott képviselő adatai/ Authorised Representative information |
 
 | A meghatalmazott képviselő neve/ Name of the authorised representative |
 
@@ -146,39 +166,15 @@
 
 | Cím/ Address |
 
-| Postai irányítószám/ Postal code | Város/ City |
+| Postai irányítószám/ Postai code | Város/ City |
 
 | Telefonszám/ Phone | Fax/ Fax |
 
 | E-mail cím/ E-mail | Ország/ Country |
 
-| 5 Bejelentő adatai (ha nem a gyártó vagy a meghatalmazott képviselője)/ Submitter’s information (if different from section 3 or 4) |
+| 5 Adatok a bejelentett orvostechnikai eszközzel kapcsolatban/ Medical device information |
 
-| Bejelentő neve/ Submitter’s name |
-
-| Kapcsolattartó személy neve/ Name of the contact person |
-
-| Cím/ Address |
-
-| Postai irányítószám/ Postal code | Város/ City |
-
-| Telefonszám/ Phone | Fax/ Fax |
-
-| E-mail cím/ E-mail | Ország/ Country |
-
-| 6 Adatok a bejelentett orvostechnikai eszközzel kapcsolatban/ Medical device information |
-
-| Osztálya/ Class |
-
-| □ Aktív beültethető eszköz/ AIMD Active implants |
-
-| □ III. osztályba sorolt eszköz/ MDD Class III |
-
-| □ II.b osztályba sorolt eszköz/ MDD ClassIIb |
-
-| □ II.a osztályba sorolt eszköz/ MDD ClassIIa |
-
-| □ I. osztályba sorolt eszköz/ MDD Class I |
+| Osztálya/ Class □ Aktív beültethető eszköz/ AIMD Active implants □ III. osztályba sorolt eszköz/ MDD Class III □ II.b osztályba sorolt eszköz/ MDD Class IIb □ II.a osztályba sorolt eszköz/ MDD Class IIa □ I. osztályba sorolt eszköz/ MDD Class I |
 
 | Kódolási rendszer (lehetőleg GMDN)/ Nomenclature system (preferable GMDN) |
 
@@ -186,23 +182,23 @@
 
 | A kód szöveges megnevezése/ Nomenclature text |
 
-| Kereskedelmi, márkanév/ Commercial name/brand name/make |
+| Kereskedelmi név, márkanév/ Commercial name/brand name/make |
 
-| Model- és vagy katalógusszám/ Model and/or catalogue number |
+| Modell- és/vagy katalógusszám/ Model and/or catalogue number |
 
-| Sorozatszám és/vagy lot vagy tételszám/ Serial number(s) and/or lot/batch number(s) |
+| Sorozatszám és/vagy gyártási tételszám/ Serial number(s) and/or lot/batch number(s) |
 
 | Szoftver változat száma (ha van)/ Software version number (if applicable) |
 
-| Gyártási dátum/lejárati datum (ha értelmezhető)/ Manufacturing date/expiry date (if applicable) |
+| Gyártási dátum/lejárati dátum (ha értelmezhető)/ Manufacturing date/expiry date (if applicable) |
 
-| Tartozék vagy összekapcsolt eszköz (ha van)/ Accessories/associated device (if applicable) |
+| Tartozék, vagy összekapcsolt eszköz (ha van)/ Accessories/associated device (if applicable) |
 
 | Kijelölt szervezet azonosító száma/ Notified body (NB) ID-number |
 
-| 7 Váratlan esemény, baleset adatai/Incident information |
+| 6 Váratlan esemény, baleset adatai/ Incident information |
 
-| A bejelentés nyilvántartási száma az alkalmazás helyén/ User facility report reference number, if applicable |
+| A bejelentés nyilvántartási száma az alkalmazás helyén (ha értelmezhető)/ User facility report reference number, if applicable |
 
 | Gyártó tudomására jutás dátuma/ Manufacturers awareness date |
 
@@ -210,55 +206,55 @@
 
 | Váratlan esemény, baleset leírása/ Incident description narrative |
 
-| Érintett betegek száma (ha ismert)/ Number of patients involved (if known) | Érintett eszközök száma (ha ismert)/ Number of medical devices involved (if known) |
+| Érintettek száma (ha ismert)/ Number of persons involved (if known) | Érintett eszközök száma (ha ismert)/ Number of medical devices involved (if known) |
 
 | Eszköz jelenlegi helye (ha ismert)/ Medical device current location/disposition (if known) |
 
-| Az eszköz kezelője az esemény idején (válasszon egyet)/ Operator of the medical device at the time of incident (select one) |
+| Az eszköz kezelője az esemény idején/ Operator of the medical device at the time of incident |
 
-| □ Egészségügyi szolgáltató/ health care professional |
+| □ Egészségügyi szolgáltató/ health care professional |
 
-| □ Beteg/ patient |
+| □ Beteg/ patient |
 
-| □ Egyéb/ other |
+| □ Egyéb/ other |
 
-| Eszköz használatának módja (válasszon a listából)/ Usage of the medical device (select from list below) |
+| Eszköz használatának módja/ Usage of the medical device |
 
-| □ Első felhasználó által/ initial use | □ Egyszerhasználatos eszköz újrahasználata/ reuse of a single use medical device |
+| □ Első használat/ initial use |
 
-| □ Újrahasználható eszköz újrahasználata/ reuse of a reusable medical device | □ Felújított eszköz/ re-serviced/refurbished |
+| □ Újrahasználható eszköz újrahasználata/ reuse of a reusable medical device | □ Felújított eszköz/ re-serviced/refurbished |
 
-| □ Egyéb (határozza meg)/ other (please specify): | □ Használatbavétel előtti probléma/ problem noted prior use |
+| □ Egyéb (határozza meg)/ other (please specify): | □ Használatbavétel előtti probléma/ problem noted prior use |
 
-| 8 Információk a betegről/ Patient information |
+| 7 Információk az érintett személyről/ Information on the persons involved |
 
-| Mi történt a beteggel/ Patient outcome |
+| Az eszköz alkalmazásának körülményei/ Description of the incident |
 
-| Az egészségügyi szolgáltató által a betegnek nyújtott ellátás/ Remedial action taken by the healthcare facility relevant to the care of the patient |
+| Az egészségügyi szolgáltató által az érintettnek nyújtott ellátás/ Remedial action taken by the healthcare facility relevant to the care of the person involved |
 
-| Beteg kora az esemény idején (ha ismert)/ Age of the patient at the time of incident, if applicable |
+| Érintett kora az esemény idején (ha ismert)/ Age of the person at the time of incident, if applicable |
 
-| Beteg neme (ha ismert)/ Gender (if applicable) |
+| Érintett neme (ha ismert)/ Gender (if applicable) |
 
-| □ Nő/ Female | □ Férfi/ Male |
+| □ Nő/ Female □ Férfi/Male |
 
-| A beteg súlya kilogrammban (ha ismert)/ Weight in kilograms (if applicable) |
+| Az érintett súlya kilogrammban (ha ismert)/ Weight in kilograms (if applicable) |
 
-| 9 Egészségügyi szolgáltató adatai (ahol az esemény történt)/ Healthcare facility information |
+| 8 Egészségügyi szolgáltató adatai (ahol az esemény történt)/ Healthcare facility information |
 
 | Egészségügyi szolgáltató neve/ Name of the healthcare facility |
 
-| Kapcsolattartó személy az egészségügyi szolgáltatónál/ Contact person within the facility |
+| Balesetfelelős neve/ Incident contact person within the facility |
 
 | Cím/ Address |
 
-| Postai irányítószám/ Postal code | Város/ City |
+| Postai irányítószám/ Postai code | Város/ City |
 
 | Telefonszám/ Phone | Fax/ Fax |
 
 | E-mail/ E-mail | Ország/ Country |
 
-| 10 Gyártó előzetes megjegyzései (előzetes és eljárást nyomon követő bejelentés esetén)/ Manufacturer’s preliminary comments (Initial/Follow-up report) |
+| 9 Gyártó előzetes megjegyzései (előzetes és eljárást nyomon követő bejelentés esetén)/ Manufacturer’s preliminary comments (Initial/Follow-up report) |
 
 | Gyártó előzetes elemzése/ Manufacturer’s preliminary analysis |
 
@@ -266,13 +262,13 @@
 
 | A következő jelentés várható dátuma/ Expected date of next report |
 
-| 11 A gyártó végső bejelentése/ Results of manufacturers final investigation (Final report) |
+| 10 A gyártó végső bejelentése/ Results of manufacturers final investigation (Final report) |
 
 | A gyártó eszköz elemzésének eredménye/ The manufacturer’s device analysis results |
 
-| Gyógyító eljárás/helyreállító eljárás/megelőző eljárás/helyszíni biztonsági korrekciós intézkedés/ Remedial action/corrective action/preventive action/Field Safety Corrective Action |
+| Javító eljárás/helyreállító eljárás/megelőző eljárás/helyszíni biztonsági korrekciós intézkedés/ Remedial action/corrective action/preventive action/Field Safety Corrective Action |
 
-| Megjegyzés: helyszíni biztonsági korrekciós intézkedés esetén ki kell tölteni a 12. melléklet ezzel kapcsolatos nyomtatványát/ NOTE: In the case of a FSCA the submitter needs to fill in the form of Annex 12. of this annex |
+| Megjegyzés: helyszíni biztonsági korrekciós intézkedés esetén ki kell tölteni az orvostechnikai eszközökről szóló EüM rendelet 12. melléklet C) jelű nyomtatványát/ NOTE: In the case of a FSCA the submitter needs to fill in the FSCA report form of this annex |
 
 | A megjelölt intézkedések végrehajtásának menetrendje/ Time schedule for the implementation of the identified action |
 
@@ -282,21 +278,23 @@
 
 | A gyártó tud az eszközzel kapcsolatban hasonló okból fakadó eseményekről?/ Is the manufacturer aware of similar incidents with this type of medical device with a similar root cause? |
 
-| □ Igen/ Yes | □ Nem/ No |
+| □ Igen/Yes □ Nem/No |
 
-| Ha igen, mely államokban és mi a bejelentés száma?/ If yes, state in which countries and the report reference numbers of the incidents |
+| Ha igen, mely országokban és mi a bejelentés száma?/ If yes, state in which countries and the report reference numbers of the incidents |
 
-| Csak végső bejelentés esetén, az eszközt a következő államokban forgalmazzák (beleértve Svájcot, EGT tagállamokat, jelölt és egyéb országokat):/ For final report only. The medical device has been distributed to the following countries: |
+| Csak végső bejelentés esetén töltendő ki. Az eszközt a következő országokban forgalmazzák:/ For final report only. The medical device has been distributed to the following countries: |
 
-| 12. Magyarázatok/ Comments |
+| 11 Megjegyzések/ Comments |
 
 ## Kijelentem, hogy a fenti adatokat legjobb tudásom szerint közöltem./ I affirm that the information given above is correct to the best of my knowledge.
 
-## Aláírás/ Signature
+## ...................................................
 
-## Név/ Name Város/ City Dátum/ Date
+## Aláírás/Signature
 
-## E bejelentés benyújtása önmagában nem jelenti azt, hogy a gyártó és/vagy a meghatalmazott képviselő vagy az illetékes nemzeti hatóság elismeri, hogy a benyújtása a bejelentés teljes megoldása, illetve, hogy a bejelentett eszköz bármely módon hozzájárult volna az eseményben érintett személy halálához, illetve egészségkárosodásához, vagy annak közvetlen okozója lett volna.
+## Név/ Name Város/City Dátum/Date
+
+## E bejelentés benyújtása önmagában nem jelenti azt, hogy a gyártó és/vagy a meghatalmazott képviselő vagy az illetékes nemzeti hatóság elismeri, hogy a benyújtása a bejelentés teljes megoldása, továbbá, hogy a bejelentett eszköz bármely módon hozzájárult volna az eseményben érintett személy halálához, vagy egészségkárosodásához, vagy annak közvetlen okozója lett volna.
 
 ## Submission of this report does not, in itself, represent a conclusion by the manufacturer and/or authorized representative or the national competent authority that the content of this report is complete or accurate, that the medical device(s) listed failed in any manner and/or that the medical device(s) caused or contributed to the alleged death or deterioration in the state of the health of any person.
 
@@ -306,7 +304,7 @@
 
 ## Field Safety Corrective Action
 
-## 1 Hivatalos információk/ Administrative information
+## 1 Hivatalos információk/ Administrative information
 
 ## Rendeltetési hely/ Destination
 
@@ -322,17 +320,17 @@
 
 ## Más nemzeti hatóság(ok) megnevezése, akik megkapták a bejelentést/ Identify to what other national competent authorities this report was also sent
 
-| 2 A bejelentés benyújtójának adatai/ Information on submitter of the report |
+| 2 A bejelentés benyújtójának adatai/ Information on submitter of the report |
 
 | Bejelentő típusa/ Status of submitter |
 
-| □ Gyártó/ Manufacturer |
+| □ Gyártó/ Manufacturer |
 
-| □ Meghatalmazott képviselő/ Authorised representative within EEA |
+| □ Meghatalmazott képviselő/ Authorised representative within EEA |
 
-| □ Egyéb/ Others (identify the role): |
+| □ Egyéb/ Others (identify the role): |
 
-| 3 Gyártó adatai/ Manufacturer information |
+| 3 Gyártó adatai/ Manufacturer information |
 
 | A gyártó neve/ Manufacturer name |
 
@@ -346,7 +344,7 @@
 
 | E-mail címe/ E-mail | Ország/ Country |
 
-| 4 A meghatalmazott képviselő adatai/ Authorised representative information |
+| 4 A meghatalmazott képviselő adatai/ Authorised representative information |
 
 | A meghatalmazott képviselő neve/ Name of the authorised representative |
 
@@ -360,7 +358,7 @@
 
 | E-mail cím/ E-mail | Ország/ Country |
 
-| 5 Nemzeti kapcsolattartó adatai/ National contact point information |
+| 5 Nemzeti kapcsolattartó adatai/ National contact point information |
 
 | Nemzeti kapcsolattartó szervezet neve/ National contact point name |
 
@@ -374,19 +372,19 @@
 
 | E-mail cím/ E-mail | Ország/ Country |
 
-| 6 Orvostechnikai eszköz adatai/ Medical device information |
+| 6 Orvostechnikai eszköz adatai/ Medical device information |
 
 | Osztálya/ Class |
 
-| □ Aktív beültethető orvostechnikai eszköz/ AIMD Active implants |
+| □ Aktív beültethető orvostechnikai eszköz/ AIMD Active implants |
 
-| □ III. osztályba sorolt eszköz/ MDD Class III |
+| □ III. osztályba sorolt eszköz/ MDD Class III |
 
-| □ II.b osztályba sorolt eszköz/ MDD Class IIb |
+| □ II.b osztályba sorolt eszköz/ MDD Class IIb |
 
-| □ II.a osztályba sorolt eszköz/ MDD Class IIa |
+| □ II.a osztályba sorolt eszköz/ MDD Class IIa |
 
-| □ I. osztályba sorolt eszköz/ MDD Class I |
+| □ I. osztályba sorolt eszköz/ MDD Class I |
 
 | Kódolási rendszer/ Nomenclature system (preferable GMDN) |
 
@@ -408,7 +406,7 @@
 
 | Kijelölt szervezet azonosító száma/ Notified body (NB) ID-number |
 
-| 7 A helyszíni biztonsági korrekciós intézkedés (FSCA) leírása/ Description of FSCA |
+| 7 A helyszíni biztonsági korrekciós intézkedés (FSCA) leírása/ Description of FSCA |
 
 | A helyszíni biztonsági korrekciós intézkedések oka és háttér adatai/ Background information and reason for the FSCA |
 
@@ -418,11 +416,11 @@
 
 | Csatolmányok/ Attached please find |
 
-| □ Helyszíni biztonsági feljegyzés (angol nyelven)/ Field Safety Notice (FSN) in English |
+| □ Helyszíni biztonsági feljegyzés (angol nyelven)/ Field Safety Notice (FSN) in English |
 
-| □ Helyszíni biztonsági feljegyzés (nemzeti nyelven)/ FSN in national language |
+| □ Helyszíni biztonsági feljegyzés (nemzeti nyelven)/ FSN in national language |
 
-| □ Egyéb/ Others (please specify): |
+| □ Egyéb/ Others (please specify): |
 
 | A megjelölt intézkedések végrehajtásának menetrendje/ Time schedule for the implementation of the different actions |
 
@@ -430,7 +428,7 @@
 
 | Az előzőeken kívüli érintett államok/ These countries outside the EEA and Switzerland are affected by this FSCA |
 
-| 8 Megjegyzések/Comments |
+| 8 Megjegyzések/Comments |
 
 ## Kijelentem, hogy a fenti adatokat legjobb tudásom szerint közöltem./ I affirm that the information given above is correct to the best of my knowledge.
 
@@ -442,7 +440,7 @@
 
 ## Submission of this report does not, in itself, represent a conclusion by the manufacturer and/or authorized representative or the national competent authority that the content of this report is complete or accurate, that the medical device(s) listed failed in any manner and/or that the medical device(s) caused or contributed to the alleged death or deterioration in the state of the health of any person.
 
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^19]
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^46]
 
 ## Időszakos felülvizsgálat
 
@@ -500,4 +498,4 @@ II. Egyéb előírások
 
 5. Az első időszakos felülvizsgálat az üzembe helyezést követően, az előírt gyakoriságtól függően 1, 2 vagy 3 év elteltével esedékes. A további felülvizsgálat az előző felülvizsgálat időpontjától számítandó.
 
-[^19]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése szerint módosított szöveg.

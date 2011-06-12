@@ -1,3 +1,3 @@
-14. melléklet a 4/2009. (III. 17.) EüM rendelethez[^20]
+14. melléklet a 4/2009. (III. 17.) EüM rendelethez[^47]
 
-[^20]: A 14. melléklet a 33/2009. (X. 20.) EüM rendelet 26. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^47]: A 14. melléklet a 33/2009. (X. 20.) EüM rendelet 26. § (5) bekezdés c) pontja szerint módosított szöveg.

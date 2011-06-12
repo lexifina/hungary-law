@@ -38,20 +38,43 @@ b) amely saját neve alatti forgalomba hozatal céljából eszközt összeszerel
 
 17. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
-18. forgalomba hozatal: a rendelésre készült, a klinikai vizsgálatra szánt, valamint az újrafelhasználhatóvá tett egyszerhasználatos eszköz kivételével az eszköz visszterhes vagy ingyenes, első ízben történő rendelkezésre bocsátása az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az eszközök vonatkozásában az EGT tagállamával azonos jogállást élvező államban (a továbbiakban együtt: EGT tagállam) forgalmazás vagy felhasználás céljából, függetlenül attól, hogy az eszköz új vagy felújított;
+18.[^5] forgalomba hozatal: a rendelésre készült, a klinikai vizsgálatra szánt kivételével az eszköz visszterhes vagy ingyenes, első ízben történő rendelkezésre bocsátása az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az eszközök vonatkozásában az EGT tagállamával azonos jogállást élvező államban (a továbbiakban együtt: EGT tagállam) forgalmazás vagy felhasználás céljából, függetlenül attól, hogy az eszköz új vagy felújított;
 
 19. használatbavétel: az EGT tagállamban az eszköznek rendeltetésszerűen alkalmazható gyártmányként a végfelhasználó részére első ízben történő rendelkezésre bocsátása;
 
 20. kijelölt szervezet: a külön jogszabály alapján az eszköz megfelelőségének értékelésével és tanúsításával kapcsolatos feladatok ellátására kijelölt és az Európai Bizottság (a továbbiakban: Bizottság), továbbá az EGT tagállamok felé bejelentett szervezet, valamint egyéb, a megfelelőség értékelési feladatok ellátására kijelölt, a Bizottságnál bejelentésre került, a Bizottság által adott azonosító számmal rendelkező szervezet;
 
-21. újrafelhasználhatóvá tétel: a lejárt szavatosságú, vagy a kicsomagolt, de fel nem használt egyszerhasználatos eszköz – ide nem értve a biztosítottak részére felírt gyógyászati segédeszközöket, valamint az egyszerhasználatos injekciós tűt és kanült, fecskendőt – tisztítása, fertőtlenítése, öblítése és szárítása, tisztaságának és épségének ellenőrzése, ápolása, csomagolása és sterilizálása, valamint – amennyiben szükséges – a technikai és funkcionális biztonságának visszaállítása a 15. mellékletben foglaltak szerint;
+21.[^6]
 
 22. honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően nemzeti szabványként közzétettek;
 
 23. klinikai adat: egy eszköz alkalmazásából származó, annak biztonságosságára, illetve teljesítőképességére vonatkozó információ;
 
-24. váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, illetve teljesítőképességben bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége, amely a beteg, az eszköz kezelőjének, illetve más személy halálához vagy egészségi állapotának romlásához vezetett vagy vezethetett volna;
+24.[^7] váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben vagy teljesítőképességében bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a beteg, az eszköz kezelője vagy más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
 
-25. helyszíni biztonsági korrekciós intézkedés (FSCA): egy forgalomban, illetve használatban lévő eszközön a gyártó által a váratlan esemény kockázatának csökkentése érdekében végzett tevékenység.
+25. helyszíni biztonsági korrekciós intézkedés (FSCA): egy forgalomban, illetve használatban lévő eszközön a gyártó által a váratlan esemény kockázatának csökkentése érdekében végzett tevékenység;
+
+26.[^8] balesetfelelős: az egészségügyi szolgáltató orvosigazgatója, vagy ennek hiányában a megfelelő szakmai vezető, aki a váratlan esemény, baleset jelentésével, kivizsgálásával kapcsolatos teendőket ellátja;
+
+27.[^9] az egészségi állapot súlyos romlása:
+
+a) életet veszélyeztető megbetegedés,
+
+b) élettani funkció vagy egészség tartós károsodása,
+
+c) olyan állapot, amely orvosi vagy műtéti beavatkozást tesz szükségessé az a) és b) pontban leírtak megelőzésére,
+
+d) a gyártó használati útmutatójának megfelelően használt diagnosztikai vagy in vitro diagnosztikai eszközzel végzett vizsgálat hibás eredményének következtében létrejött ártalom,
+
+e) magzati károsodás, magzati halál vagy veleszületett vagy a szüléssel összefüggésbe hozható rendellenesség;
+
+28.[^10] súlyos közegészségügyi kockázat: minden olyan váratlan esemény vagy baleset következtében kialakult veszély, amely több ember esetében halálhoz vagy az egészségi állapot súlyos romlásához vezethet.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
+
+[^5]: A 4. § (1) bekezdés 18. pontja a 29/2011. (VI. 7.) NEFMI rendelet 31. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés 21. pontját a 29/2011. (VI. 7.) NEFMI rendelet 31. § d) pontja hatályon kívül helyezte.
+[^7]: A 4. § (1) bekezdés 24. pontja a 29/2011. (VI. 7.) NEFMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (1) bekezdés 26. pontját a 29/2011. (VI. 7.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^9]: A 4. § (1) bekezdés 27. pontját a 29/2011. (VI. 7.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^10]: A 4. § (1) bekezdés 28. pontját a 29/2011. (VI. 7.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
