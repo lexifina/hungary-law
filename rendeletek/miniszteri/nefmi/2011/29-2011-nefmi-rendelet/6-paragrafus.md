@@ -1,0 +1,1 @@
+## „(5) A Hivatal az (1)–(3) bekezdés szerint lefolytatott eljárás alapján felfüggesztett vagy a forgalomból kivont eszközök megnevezését, azok gyártójának vagy meghatalmazott képviselőjének nevét a Hivatal honlapján közzéteszi.”
