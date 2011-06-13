@@ -1,1 +1,0 @@
-## „(8) Amennyiben a Hivatal piacfelügyeleti eljárása során a 22. § (1) bekezdése vagy a 23. § (1) bekezdése szerinti határozatot hoz, a kijelölt szervezet, amely lefolytatta a 13. § szerinti eljárást, a határozatban foglaltak figyelembevételével a 13. § szerinti eljárását felülvizsgálja.”

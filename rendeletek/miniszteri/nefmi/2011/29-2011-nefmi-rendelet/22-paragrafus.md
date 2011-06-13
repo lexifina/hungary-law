@@ -1,3 +1,0 @@
-## 21. § Az R 2. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az egészségügyi szolgáltató működési engedélyének kiadására illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének kistérségi vagy fővárosi kerületi intézete, vagy az Országos Tisztifőorvosi Hivatal (a továbbiakban együtt: egészségügyi államigazgatási szerv) a működési engedélyezési eljárás, valamint az egészségügyi szolgáltató rendszeres ellenőrzése során a rendelkezésre álló dokumentumok, jegyzőkönyvek megvizsgálásával ellenőrzi, hogy a felhasználó eleget tesz-e az egyes eszközök rendeltetésszerű és biztonságos teljesítőképességére vonatkozó követelményeknek, valamint azt, hogy van-e balesetfelelős kijelölve.”
