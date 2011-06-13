@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-48-00-00
 | --- | --- | --- |
 | 2011-06-12 | 2011. évi XLVIII. törvény | 2011-48-00-00.0 (közlönyállapot) |
 | 2011-06-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-48-00-00.1 |
+| 2011-06-13 | 2010. évi CXXX. törvény | 2011-48-00-00.2 |
