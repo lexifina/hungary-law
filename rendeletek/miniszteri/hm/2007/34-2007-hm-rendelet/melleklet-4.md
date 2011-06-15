@@ -30,7 +30,7 @@
 
 | * Tábornoki rendfokozattal rendszeresített igazgatói beosztás. |
 
-| 1. MK KBH-nál: műveleti; HM; 1.; 2. KBI igazgató. |
+| 1. MK KBH-nál: 11., 22., 23., 24.Igazgatóság igazgató. |
 
 | 2. MK KFH-nál: hírszerző; rádióelektronikai felderítő; elemző és értékelő; humán igazgató. |
 
