@@ -6,7 +6,7 @@
 
 | 2. | A légijármű parancsnok helyettesének (másodpilótának, operátornak) és a fedélzeti megfigyelőnek | 58,0 |
 
-| 3. | A légijárművet üzemeltető beosztott gépszemélyzet tagoknak, valamint az ejtőernyős szakmai számú beosztást betöltőnek | 50,0 |
+| 3. | A légijárművet üzemeltető beosztott gépszemélyzet tagoknak, valamint az ejtőernyős beosztást betöltőknek | 50,0 |
 
 | 4. | Katonai tanintézeti hallgatóknak | 50,0 |
 
