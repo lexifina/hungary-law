@@ -10,7 +10,7 @@
 
 (2)[^17] A kiküldött részére folyósítandó devizaellátmány havi nettó összege a külföldön betöltött beosztásra, munkakörre (a továbbiakban együtt: beosztás) az 1. számú mellékletben meghatározott szorzószám, valamint az 5. számú mellékletben országonként meghatározott alapellátmány és a 6. számú mellékletben az adott országra megállapított ellátmánypótlék együttes összegének (utóbbiak együttes összege a továbbiakban: alapellátmány) szorzatával egyenlő. A devizaellátmány összegét a külföldi szolgálatba vezényeltekkel kapcsolatos személyügyi feladatokról és jogállásuk egyes kérdéseiről szóló miniszteri rendeletben meghatározott állományilletékes parancsnok besorolási határozatban (parancsban) állapítja meg.
 
-(3)[^18] A kiküldött devizaszorzószámát a külföldi szolgálat megkezdésekor a beosztásra meghatározott szorzósáv alsó határértéke szerint kell meghatározni. Ettől csak kivételesen, a honvédség érdekei alapján katona-szakmapolitikai szempontból kiemelt jelentőséggel bíró beosztások esetében, a honvédelmi miniszter külön engedélyével lehet eltérni. A miniszteri engedélyre irányuló javaslatot a feladat- és hatáskörrel rendelkező személyügyi szerv a személyi beszélgetés előtt a HM KPH útján terjeszti fel.
+(3)[^18] A kiküldött devizaszorzószámát a külföldi szolgálat megkezdésekor a beosztásra meghatározott szorzósáv alsó határértéke szerint kell meghatározni. Ettől csak kivételesen, a honvédség érdekei alapján katona-szakmapolitikai szempontból kiemelt jelentőséggel bíró beosztások esetében, a HM közigazgatási államtitkár külön engedélyével lehet eltérni. Az engedélyre irányuló javaslatot a feladat- és hatáskörrel rendelkező személyügyi szerv a személyi beszélgetés előtt a HM KPH útján terjeszti fel.
 
 (4) A kiküldött devizaszorzószámát a külföldi szolgálat megkezdésének napjától számított 12 havonként
 
@@ -29,7 +29,7 @@ b) a 3. § i) pontjának 6. alpontjában szereplő szervezetek állományába ta
 (8)[^21] Az állomáshelyen kialakult – a kiküldött személyi biztonságát közvetlenül érintő – válsághelyzet esetén a honvédelmi miniszter a devizaellátmányon felül normatív miniszteri utasításban eseti jelleggel, határozott időtartamra különpótlékot állapíthat meg.
 
 [^17]: A 6. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^18]: A 6. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^18]: A 6. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) pontja, a 4/2011. (VI. 7.) HM rendelet 13. § a) és b) pontja szerint módosított szöveg.
 [^19]: A 6. § (4) bekezdés a) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) és t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^20]: A 6. § (7) bekezdése a 9/2010. (V. 4.) HM rendelet 13. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
 [^21]: A 6. § (8) bekezdését az 1/2011. (III. 8.) HM rendelet 4. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

@@ -12,25 +12,25 @@ vér szerinti, örökbe fogadott, nevelt, gyámságba vett gyermeke után jár a
 
 (3)[^24] Ha a kiküldött családtagi pótlékra jogosító gyermekének életkora meghaladja a közoktatásról szóló jogszabály szerinti tankötelezettség felső korhatárát, a tankötelezettség megszűnését követően a kiküldöttnek a családtagi pótlék folyósításának előfeltételeként évente – a tanévkezdést követően – iskolalátogatási igazolást kell benyújtania az illetékes pénzügyi ellátó szervhez, melyet az illetékes pénzügyi ellátó szerv a beérkezést követő tizenöt napon belül másolatban továbbít az illetékes személyügyi szervhez.
 
-(4) A családtagi pótlék havi nettó összege
+(4)[^25] A családtagi pótlék havi nettó összege
 
 a) házastárs után
 
-– amennyiben külföldön nem rendelkezik jövedelemmel, a kiküldött devizaellátmányának 25%-a,
+aa) amennyiben a külföldi tartózkodás ideje alatt nem rendelkezik jövedelemmel (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat), a kiküldött devizaellátmányának 25%-a,
 
-–[^25] ha a külföldön szerzett havi nettó jövedelme nem haladja meg az állomáshelyre az 5. számú mellékletben meghatározott alapellátmány összegét, a kiküldött devizaellátmányának 12,5%-a;
+ab) ha a külföldi tartózkodás ideje alatt szerzett havi nettó jövedelme (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat) nem haladja meg az állomáshelyre az 5. számú mellékletben meghatározott alapellátmány összegét, a kiküldött devizaellátmányának 12,5%-a;
 
 b) gyermek után – a c) pontban foglaltak kivételével – az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány
 
-– 10%-a a gyermek 12. életévének betöltéséig,
+ba) 10%-a a gyermek 12. életévének betöltéséig,
 
-– 15%-a a gyermek 12. életévének betöltését követően;
+bb) 15%-a a gyermek 12. életévének betöltését követően;
 
 c) a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló jogszabály alapján tartósan betegnek, illetve fogyatékosnak minősülő gyermek után az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány
 
-– 15%-a a gyermek 12. életévének betöltéséig,
+ca) 15%-a a gyermek 12. életévének betöltéséig,
 
-– 20%-a a gyermek 12. életévének betöltését követően.
+cb) 20%-a a gyermek 12. életévének betöltését követően.
 
 (5) A (4) bekezdés b) és c) pontjait úgy kell alkalmazni, hogy abban a hónapban, amelyben a gyermek a 12. életévét betölti, már a teljes hónapra a magasabb összegű családtagi pótlékot kell folyósítani.
 
@@ -39,4 +39,4 @@ c) a magasabb összegű családi pótlékra jogosító betegségekről és fogya
 [^22]: A 7. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^23]: A 7. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^24]: A 7. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^25]: A 7. § (4) bekezdés a) pont második franciabekezdése a 9/2010. (V. 4.) HM rendelet 10. § b) pontja szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
+[^25]: A 7. § (4) bekezdése a 4/2011. (VI. 7.) HM rendelet 11. §-ával megállapított szöveg.

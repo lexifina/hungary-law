@@ -6,7 +6,7 @@
 
 (2)[^49] Az oktatási intézmény éves tandíját – eredeti számla vagy az oktatási intézmény által kiállított számlát helyettesítő bizonylat leadása ellenében – az alapellátmány legfeljebb tízszereséig terjedő mértékéig meg kell téríteni.
 
-(3)[^50] A (2) bekezdésben meghatározott összegen felül csak a honvédelmi miniszter külön engedélye alapján folyósítható további költségtérítés. A miniszteri engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára vonatkozik. A költségtérítésre vonatkozó kérelmet – az engedélyező elöljáró véleményével együtt – a HM KPH útján kell a honvédelmi miniszter részére felterjeszteni.
+(3)[^50] A (2) bekezdésben meghatározott összegen felül csak a HM közigazgatási államtitkár külön engedélye alapján folyósítható további költségtérítés. Az engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára vonatkozik. A költségtérítésre vonatkozó kérelmet – az engedélyező elöljáró véleményével együtt – a HM KPH útján kell a HM közigazgatási államtitkár részére felterjeszteni.
 
 (4) Az alapfokú képzést közvetlenül megelőző (legfeljebb kétéves időtartamú) ún. iskolai előkészítő tandíját a (2)–(3) bekezdésekben foglaltak figyelembevételével kell megtéríteni.
 
@@ -18,4 +18,4 @@
 
 [^48]: A 22. § az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^49]: A 23. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^50]: A 23. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^50]: A 23. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) pontja, a 4/2011. (VI. 7.) HM rendelet 13. § e) és f) pontja szerint módosított szöveg.
