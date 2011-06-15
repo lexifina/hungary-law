@@ -1,0 +1,1 @@
+Az Országgyűlés mint alkotmányozó hatalom az Alkotmány 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva, a Magyarország Alaptörvényéhez kapcsolódó egyes, az Alaptörvény hatálybalépését megelőzően szükséges átmeneti rendelkezések megalkotása érdekében az Alkotmányt a következők szerint módosítja:
