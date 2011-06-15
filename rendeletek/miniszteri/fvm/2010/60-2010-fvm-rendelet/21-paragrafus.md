@@ -1,5 +1,0 @@
-21. § (1) A 10/02/19 Állami génmegőrzési feladatok támogatása jogcímcsoport előirányzatából a növényi génmegőrzési és a növényi és állati génmegőrzéshez kapcsolódó kutatási tevékenységet folytató költségvetési szervek, kutatóintézetek, felsőoktatási intézmények, gazdasági társaságok, alapítványok és természetes személyek részére vissza nem térítendő költségvetési támogatás adható. A támogatott célok megvalósításához más jogszabályok és jogcímek alapján igényelhető támogatás is felhasználható.
-
-(2) Az előirányzatból nyújtott támogatás pályázat, feladatterv, egyedi engedélyezés, megállapodás vagy szerződés formájában valósulhat meg. A miniszter gondoskodik a pályázatok kiírásáról, lebonyolításáról, a pályázatok elbírálásáról, a feladattervek meghatározásáról, a megállapodások, szerződések előkészítéséről. Az előirányzatból államháztartáson kívüli szervezetek részére előleg fizethető.
-
-(3) Az előirányzat felhasználása során, az államháztartáson kívüli támogatottak esetében az előlegfizetés és elszámolás tekintetében alkalmazni kell a rendelet előírásait.

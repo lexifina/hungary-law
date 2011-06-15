@@ -1,3 +1,0 @@
-76. § (1) A 74. § (3) bekezdésében meghatározott feladatok támogatása csak a fejezeti előirányzat keretei között, a miniszter által jóváhagyott szakmai előirányzat-felhasználási terv alapján lehetséges.
-
-(2) Az állami tulajdonban és az MgSzH vagyonkezelésében és a vízgazdálkodási társulatok üzemeltetésében lévő szivattyútelepek költségelszámolásánál csak a ténylegesen védekezésre vagy üzemeltetésre fordított költségek vehetők figyelembe. Az elszámolható általános költség mértéke a tárgyévet megelőző év általános költségének a mértékével megegyező lehet, de nem haladhatja meg a tárgyévi védekezésre és üzemeltetésre fordított költség 20%-át.

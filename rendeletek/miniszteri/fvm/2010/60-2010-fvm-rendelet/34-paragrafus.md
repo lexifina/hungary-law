@@ -1,1 +1,0 @@
-## 33. § A 10/13 EU tagságból eredő feladatok alcímen jóváhagyott előirányzat elsősorban az Európai Unióban való eredményes működés feltételét képező intézményi feladatokra, valamint a minisztérium és a brüsszeli bizottságok közötti kapcsolatrendszer működtetésére fordítható.

@@ -1,3 +1,0 @@
-18. § (1) A 10/02/16 Magyar Agrárkamara állami feladatainak támogatása jogcímcsoport támogatási előirányzatának célja a gazdasági kamarákról szóló 1999. évi CXXI. törvény 9–12. §-ában, valamint a miniszter és a Magyar Agrárkamara (a továbbiakban: Agrárkamara) között létrejött együttműködési megállapodásban meghatározott feladatok ellátásának biztosítása.
-
-(2) Az együttműködési megállapodás alapján előleg fizethető. A támogatási előlegek átadására ütemezetten, az előlegekkel történő elszámolási kötelezettséggel és az egyes elszámolásokat követően kerül sor. A támogatás teljes összegének felhasználásáról az Agrárkamara éves beszámolót és elszámolást készít.

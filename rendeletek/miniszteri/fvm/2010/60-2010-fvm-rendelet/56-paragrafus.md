@@ -1,5 +1,0 @@
-56. § (1) A támogatói okiratban vagy a támogatási szerződésben az Ámr. 112. § (6) bekezdésében foglaltakat rögzíteni kell, fejlesztési projekt esetén pedig a létrehozott eszközök működtetési kötelezettségének időtartamát és az időtartam alatt a kedvezményezett által fenntartandó feltételeket is.
-
-(2) Az Ámr. 119. § (1)–(4) bekezdése alapján a kedvezményezett a visszafizetési kötelezettséggel kapott támogatás, valamint a támogatási okirat visszavonása vagy a támogatási szerződés felmondása, az attól történő elállás esetén visszafizetendő, jogosulatlanul igénybe vett támogatás visszafizetésének biztosítékául köteles benyújtani valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozóan, a fejezet irányítójának javára szóló, csak annak írásbeli hozzájárulásával visszavonható beszedési megbízásra felhatalmazó nyilatkozatát.
-
-(3) A támogatás visszafizetésére kötelezett pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legalább 35 napra való sorba állításáról rendelkezik. Több bankszámla esetén a kedvezményezettnek meg kell adnia a felhatalmazó nyilatkozatok érvényesítésének sorrendjét is.

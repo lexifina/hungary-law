@@ -1,1 +1,0 @@
-## 6. § A 10/01/18 Központi beruházások maradványának rendezése jogcímcsoport technikai előirányzat, amely a központi beruházás keretében megvalósított, lezárult támogatási programok maradványainak kezelésére szolgál.

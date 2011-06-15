@@ -1,5 +1,0 @@
-## 23. § A 10/02/21 Kincstári szolgáltatási díjak jogcímcsoport jóváhagyott előirányzatának célja a kincstári számlavezetés díjainak finanszírozása. A Kincstár az Ámr. 108/A. §-ában foglaltak szerint terheli a forintszámlákat, amelyről a számlakivonaton küld értesítést.
-
-24. § (1) A 10/02/22 Bormarketing és minőség-ellenőrzés jogcímcsoporton jóváhagyott előirányzat pénzügyi forrása a bor forgalombahozatali járulék megfizetésének, kezelésének és felhasználásának szabályairól szóló 70/2007. (VII. 27.) FVM rendelet szerinti bor forgalombahozatali járulék befizetésekből származik.
-
-(2) A befizetett járulékok felhasználásáról a Bormarketing Bizottság javaslatára, a miniszter dönt. A befizetett járulék 40%-a minőségellenőrzési feladatokra az MgSzH-nál kerül felhasználásra, 60%-a az AMC által meghirdetett közösségi marketing célokat szolgál. A döntéseket megalapozó, szőlő-bor ágazatban működő szakmai szervezetek közreműködésére fordítható összeget, amely a marketing keret legfeljebb 5%-a lehet, a miniszter határozza meg.

@@ -1,3 +1,0 @@
-19. § (1) A 10/02/17 Állatorvosi Kamara állami feladatainak támogatása jogcímcsoport előirányzatának célja a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. § (1) bekezdés d), g), l), m) pontjában foglalt, valamint a miniszter és a Magyar Állatorvosi Kamara között létrejött megállapodásban meghatározott feladatok finanszírozása.
-
-(2) A megállapodás alapján – a kis összegű támogatásra tekintettel – az éves feladatok előfinanszírozására kerül sor. A támogatás felhasználásról a Magyar Állatorvosi Kamara éves beszámolót és elszámolást készít.

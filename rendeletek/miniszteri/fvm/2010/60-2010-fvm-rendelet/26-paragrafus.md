@@ -1,1 +1,0 @@
-## 25. § A 10/02/23 Nem tervezhető egyéb feladatok jogcímcsoporton szereplő előirányzat az esetlegesen év közben belépő új támogatási célok megjelenítésére szolgál. Eredeti kiadási, bevételi és támogatási előirányzata nincs.

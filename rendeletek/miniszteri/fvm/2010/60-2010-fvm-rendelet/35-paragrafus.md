@@ -1,1 +1,0 @@
-## 34. § A 10/14/01 Fejezeti általános tartalék jogcímcsoporton jóváhagyott előirányzat az intézmények és egyéb szervezetek előre nem tervezhető, a miniszter által jóváhagyott rendkívüli kiadásaira, támogatására szolgál a miniszter feladat- és hatásköréről szóló kormányrendelet szerint.
