@@ -1,0 +1,1 @@
+## 11. § E rendelet 8. §-a a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről szóló 2009. szeptember 16-i 2009/103/EK európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.

@@ -1,0 +1,1 @@
+## 10. § A bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 19/2009. (X. 9.) PM rendelet (a továbbiakban: R.) besorolásra vonatkozó szabályait kell alkalmazni azon szerződések besorolására, amelyek esetében az R. 6. § (1) bekezdés a) pontja szerinti igazolás 2011. július 1-jét megelőzően beérkezett.
