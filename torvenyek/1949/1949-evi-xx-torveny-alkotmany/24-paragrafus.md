@@ -6,4 +6,4 @@
 
 (4) Az Országgyűlés a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott Házszabályban állapítja meg működésének szabályait és tárgyalási rendjét.
 
-(5)
+(5) A Magyarország Alaptörvénye (a továbbiakban: Alaptörvény) végrehajtásához szükséges törvényeket az Országgyűlés az Alaptörvényben meghatározott szavazataránnyal fogadja el.
