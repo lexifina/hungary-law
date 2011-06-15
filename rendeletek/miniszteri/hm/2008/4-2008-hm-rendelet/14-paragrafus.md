@@ -2,9 +2,9 @@
 
 14. § (1) Ez a rendelet 2008. március 1-jén lép hatályba.
 
-(2)[^7]
+(2)[^9]
 
-(3)[^8]
+(3)[^10]
 
-[^7]: A 14. § (2) bekezdése e rendelet 14. § (3) bekezdése alapján hatályát vesztette.
-[^8]: A 14. § (3) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^9]: A 14. § (2) bekezdése e rendelet 14. § (3) bekezdése alapján hatályát vesztette.
+[^10]: A 14. § (3) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
