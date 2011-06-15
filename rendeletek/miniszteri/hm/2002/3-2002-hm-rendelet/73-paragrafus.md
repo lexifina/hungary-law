@@ -1,8 +1,8 @@
-## Illetmény-megállapítás[^94]
+## Illetmény-megállapítás[^96]
 
-73. §[^95] (1)–(2)[^96]
+73. §[^97] (1)–(2)[^98]
 
-(3)[^97] A hivatásos katona illetmény- megállapítására illetmény-megállapítási parancsban, illetőleg határozatban kell intézkedni, amelynek tartalmaznia kell
+(3)[^99] A hivatásos katona illetmény- megállapítására illetmény-megállapítási parancsban, illetőleg határozatban kell intézkedni, amelynek tartalmaznia kell
 
 a) az illetmény-megállapítás okát,
 
@@ -32,7 +32,7 @@ m) a megállapított illetményelemek együttes összegét, valamint
 
 n) a besorolás szerinti illetményre való jogosultság kezdőnapját.
 
-(4)[^98] A Hjt. 109/B. § (3) bekezdésében meghatározott illetményváltozásról szóló értesítést az állományilletékes személyügyi szerv – az illetékes pénzügyi szerv bevonásával – 3 példányban készíti, amelyből egy példány átadásra kerül a hivatásos katona részére, egy-egy példány továbbá elhelyezésre kerül a hivatásos katona személyügyi, illetve pénzügyi gyűjtőjébe. Az illetményváltozásról szóló értesítésnek tartalmaznia kell:
+(4)[^100] A Hjt. 109/B. § (3) bekezdésében meghatározott illetményváltozásról szóló értesítést az állományilletékes személyügyi szerv – az illetékes pénzügyi szerv bevonásával – 3 példányban készíti, amelyből egy példány átadásra kerül a hivatásos katona részére, egy-egy példány továbbá elhelyezésre kerül a hivatásos katona személyügyi, illetve pénzügyi gyűjtőjébe. Az illetményváltozásról szóló értesítésnek tartalmaznia kell:
 
 a) az értesítés kiadásának okát, valamint az ok bekövetkezésének időpontját,
 
@@ -76,8 +76,11 @@ f) a megállapított eseti pótlék megnevezését, a pótlék összegének kisz
 
 g) a megállapított eseti kiegészítő illetmény megnevezését, a kiegészítő illetmény összegét.
 
-[^94]: A 73. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
-[^95]: A 73. § a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
-[^96]: A 73. § (1)–(2) bekezdését a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^97]: A 73. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^98]: A 73. § (4) bekezdés első mondata a 6/2009. (VI. 4.) HM rendelet 10. §-ával megállapított szöveg.
+(6)[^101] Az illetmény-megállapítási parancs- és határozat-tervezetek pénzbeli járandóságokra vonatkozó szövegrészét a pénzügyi ellenjegyzési jogkört gyakorlóval aláírás előtt ellenjegyeztetni kell.
+
+[^96]: A 73. §-t megelőző alcím a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
+[^97]: A 73. § a 15/2008. (VI. 20.) HM rendelet 13. §-ával megállapított szöveg.
+[^98]: A 73. § (1)–(2) bekezdését a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^99]: A 73. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 73. § (4) bekezdés első mondata a 6/2009. (VI. 4.) HM rendelet 10. §-ával megállapított szöveg.
+[^101]: A 73. § (6) bekezdését a 4/2011. (VI. 7.) HM rendelet 2. §-a iktatta be.

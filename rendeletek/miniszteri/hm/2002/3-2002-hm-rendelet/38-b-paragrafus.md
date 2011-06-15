@@ -1,6 +1,6 @@
 ## Egészségügyi tisztek, zászlósok, tiszthelyettesek és tisztesek munkahelyi pótléka
 
-38/B. §[^43] (1) A járóbeteg- és fekvőbeteg-szakellátást nyújtó intézetben szolgálatot teljesítő – (2) bekezdésben meghatározott – orvosok, egészségügyi tisztek, zászlósok, tiszthelyettesek és tisztesek részére munkahelyi pótlék jár.
+38/B. §[^44] (1) A járóbeteg- és fekvőbeteg-szakellátást nyújtó intézetben szolgálatot teljesítő – (2) bekezdésben meghatározott – orvosok, egészségügyi tisztek, zászlósok, tiszthelyettesek és tisztesek részére munkahelyi pótlék jár.
 
 (2) A munkahelyi pótlékra jogosultak köre és a pótlék havi mértéke:
 
@@ -46,4 +46,4 @@ c) az illetményalap 20%-a valamennyi asszisztensi és szakasszisztensi képesí
 
 (3) A több feltételnek is megfelelő hivatásos katona csak egy, a magasabb összegű pótlékra jogosult.
 
-[^43]: A 38/B. §-t és az azt megelőző alcímet a 35/2003. (XII. 31.) HM rendelet 13. §-a iktatta a szövegbe.
+[^44]: A 38/B. §-t és az azt megelőző alcímet a 35/2003. (XII. 31.) HM rendelet 13. §-a iktatta a szövegbe.

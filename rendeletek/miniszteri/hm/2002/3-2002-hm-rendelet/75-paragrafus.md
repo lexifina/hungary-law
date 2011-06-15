@@ -2,7 +2,7 @@
 
 75. § (1) A hivatásos katonák illetményfejlesztésére felhasználható keretekkel a (2) bekezdésben foglaltak szerint központi, illetőleg helyi parancsnoki hatáskörben kell gazdálkodni.
 
-(2)[^104] A központi keretet terheli:
+(2)[^103] A központi keretet terheli:
 
 a) az első, illetőleg a magasabb rendfokozatba történő kinevezés, előléptetés miatti illetményemelkedés,
 
@@ -24,4 +24,4 @@ i) az 54. § szerinti oktatói illetménypótlék alsó határának megfelelő �
 
 (3) A parancsnok részére rendelkezésre bocsátott helyi keretet terheli a beosztási illetménynek a Hjt. 108. § (3) bekezdése szerinti magasabb összegben való megállapítása, valamint amennyiben az 54. § szerinti oktatói pótlék az alsó határnál magasabb összegben kerül megállapításra, az alsó határ feletti összeg.
 
-[^104]: A 75. § (2) bekezdése a 15/2008. (VI. 20.) HM rendelet 15. §-ával megállapított szöveg.
+[^103]: A 75. § (2) bekezdése a 15/2008. (VI. 20.) HM rendelet 15. §-ával megállapított szöveg.

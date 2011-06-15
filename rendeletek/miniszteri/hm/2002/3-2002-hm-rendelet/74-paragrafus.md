@@ -1,21 +1,43 @@
-## 74. §[^99] Az állományilletékes parancsnok (vezető) illetmény-megállapítási jogköre a következő:
+74. §[^102] (1) Az állományilletékes parancsnok (vezető) illetmény-megállapítási jogköre a következő:
 
-a)[^100] a honvédelmi miniszter állapítja meg az illetményét a közvetlen irányítása alá tartozó HM szervek teljes állományának, valamint – a HM Honvéd Vezérkar kivételével – a HM szervek, a HM szervezetek, a közvetlen felügyelete, fenntartói irányítása alá tartozó szervezetek, a HM államtitkár által felügyelt szervezetek parancsnokainak (vezetőinek), valamint a közvetlen irányítása alá tartozó szervezetek vezetőinek, helyetteseiknek, továbbá a HVKF-nek és helyettesének;
+a) a honvédelmi miniszter állapítja meg az illetményét
 
-b) a HM államtitkár, a HM szakállamtitkárok és a HM kabinetfőnök állapítják meg – a parancsnokok (vezetők) kivételével – az irányításuk alá tartozó HM szervek teljes állományának illetményét;
+aa) a HM-szervek vezetőinek,
 
-c)[^101] a HVKF állapítja meg az illetményét – a helyettese kivételével – a HM Honvéd Vezérkar teljes állományának, a közvetlen alárendeltségébe tartozó szervezetek parancsnokainak (vezetőinek);
+ab) a HVKF-nek, a HVKF helyettesének, a HVK törzsigazgatónak,
 
-d) az a)–c) pontokba nem tartozó, önálló állománytáblával (munkaköri jegyzékkel) rendelkező szervezetek parancsnokainak (vezetőinek) illetmény-megállapítási jogköre a katonai szervezet teljes állományára, köztük a helyetteseikre is, továbbá a nekik közvetlenül alárendelt katonai szervezetek parancsnokaira (vezetőire) terjed ki;
+ac) a közvetlen irányítása alá tartozó szervezetek vezetőjének és helyettesének,
 
-e)[^102] más katonai szervezeti egységhez szolgálatteljesítésre vagy hazai tanulmányok folytatására vezényeltek illetmény-megállapítására a vezénylési hely állományilletékes parancsnoka (vezetője) jogosult;
+ad) a közvetlen alárendeltségébe tartozó szervezetek vezetőjének,
 
-f) a Hjt. 48. § (1) bekezdés b), e), f), j), k), l) pontja alá tartozók illetmény-megállapítása a munkáltatói jogkört gyakorló elöljárót illeti meg, a Hjt. 48. § (1) bekezdés c), g) és h) pontjában szereplő hivatásos katonák esetében pedig a Honvédség központi személyzeti szervének vezetője az illetmény megállapítására jogosult elöljáró;
+ae) a fenntartói irányítása alá tartozó szervezet vezetőjének,
 
-g)[^103] a külföldi, továbbá a NATO vagy az EU érdekében feladatokat végrehajtó, Magyarországra települő többnemzeti katonai szervezeteknél szolgálatot teljesítő állomány illetményének megállapítására a miniszter által kijelölt parancsnok (vezető) jogosult.
+af) a felügyelete alá tartozó szervezet vezetőjének, valamint
 
-[^99]: A 74. § a 15/2008. (VI. 20.) HM rendelet 14. §-ával megállapított szöveg.
-[^100]: A 74. § a) pontja a 6/2009. (VI. 4.) HM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^101]: A 74. § c) pontja a 6/2009. (VI. 4.) HM rendelet 11. § (2) bekezdésével megállapított, a 9/2010. (V. 4.) HM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^102]: A 74. § e) pontja a 9/2010. (V. 4.) HM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^103]: A 74. § g) pontját a 9/2010. (V. 4.) HM rendelet 1. §-a iktatta be.
+ag) a parlamenti államtitkár által felügyelt szervezet vezetőinek;
+
+b) a HM közigazgatási államtitkár állapítja meg – a HM-szervek vezetői és a Miniszteri Kabinet állománya kivételével – a HM hivatali szervezet állományának illetményét;
+
+c) a HM kabinetfőnök állapítja meg a Miniszteri Kabinet állományának illetményét;
+
+d) a HVKF állapítja meg az illetményét
+
+da) a – HM HVKF helyettes, a törzsigazgató, a csoportfőnökök, valamint a Vezérkari Iroda vezetője kivételével – Honvéd Vezérkar teljes állományának, továbbá
+
+db) az MH Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnokának szolgálati alárendeltségébe tartozó katonai szervezetek parancsnokai kivételével a HVKF szolgálati alárendeltségébe tartozó katonai
+
+szervezetek parancsnokainak;
+
+e) az MH ÖHP parancsnoka állapítja meg az illetményét az MH ÖHP teljes személyi állománya, valamint a szolgálati alárendeltségébe tartozó katonai szervezetek parancsnokai részére;
+
+f) az a)–e) pontokba nem tartozó, önálló állománytáblával (munkaköri jegyzékkel) rendelkező szervezetek parancsnokainak (vezetőinek) illetmény-megállapítási jogköre a szervezet állományára terjed ki;
+
+g) a Hjt. 48. § (1) bekezdés b), e), f), j), k), l) pontja alá tartozók illetmény-megállapítása a munkáltatói jogkört gyakorló elöljárót illeti meg, a Hjt. 48. § (1) bekezdés c), g) és h) pontjában szereplő hivatásos katonák esetében pedig a honvédség központi személyzeti szervének vezetője az illetmény megállapítására jogosult elöljáró;
+
+h) a külföldi, továbbá a NATO vagy az EU érdekében feladatokat végrehajtó, Magyarországra települő többnemzeti katonai szervezeteknél szolgálatot teljesítő állomány illetményének megállapítására a miniszter által kijelölt parancsnok (vezető) jogosult;
+
+i) a felsőoktatási intézmény nappali iskolarendszerű képzésén tanulmányokat folytató hivatásos katonák illetményének megállapítására a Zrínyi Miklós Nemzetvédelmi Egyetem vezetője jogosult;
+
+j) a g)–i) pontokba nem tartozó, más katonai szervezeti egységhez szolgálatteljesítésre, hazai vagy külföldi tanulmányok folytatására, továbbképzésre, átképzésre három hónapot meghaladó időtartamra vezényeltek illetmény-megállapítására a vezénylési hely állományilletékes parancsnoka (vezetője) jogosult.
+
+[^102]: A 74. § a 4/2011. (VI. 7.) HM rendelet 3. §-ával megállapított szöveg.

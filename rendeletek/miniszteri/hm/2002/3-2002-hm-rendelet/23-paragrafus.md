@@ -6,6 +6,6 @@ a) folyóvízben az illetményalap 3,5%-a,
 
 b) állóvízben és búvárkeszonban az illetményalap 2,6%-a.
 
-(2)[^21] A búvár részére víz alatti robbantás, tűzszerész tevékenység végzése esetén az (1) bekezdésen felül, óránként az illetményalap 4,7%-ának megfelelő összegű tűzszerészpótlék is jár.
+(2)[^22] A búvár részére víz alatti robbantás, tűzszerész tevékenység végzése esetén az (1) bekezdésen felül, óránként az illetményalap 4,7%-ának megfelelő összegű tűzszerészpótlék is jár.
 
-[^21]: A 23. § (2) bekezdése a 6/2009. (VI. 4.) HM rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^22]: A 23. § (2) bekezdése a 6/2009. (VI. 4.) HM rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.

@@ -12,6 +12,6 @@
 
 | Nagy magasságból felszereléssel vagy (és) fegyverrel végrehajtott ugrásokért | 50 | 75 | 100 |
 
-6. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^155]
+6. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^149]
 
-[^155]: A 6. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (2) bekezdése alapján azoknak, akiknek a módosított 6. számú melléklet szerint csökken az osztálybasorolási pótlékuk, a pótlékcsökkenést kiegészítő illetmény folyósításával kell kompenzálni. A kiegészítő illetmény mértékét a 7. számú melléklet tartalmazza.
+[^149]: A 6. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (2) bekezdése alapján azoknak, akiknek a módosított 6. számú melléklet szerint csökken az osztálybasorolási pótlékuk, a pótlékcsökkenést kiegészítő illetmény folyósításával kell kompenzálni. A kiegészítő illetmény mértékét a 7. számú melléklet tartalmazza.

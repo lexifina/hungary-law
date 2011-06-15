@@ -2,21 +2,21 @@
 
 ## legmagasabb havi mértéke az illetményalap százalékában
 
-## I. Köztisztviselői munkakör esetén
+## I. Kormánytisztviselői munkakör esetében
 
-| Fsz. | A helyettesített köztisztviselői munkakör, besorolási osztály/fizetési fokozat | A megállapítható legmagasabb mérték a köztisztviselői illetményalap %-ában |
+| Fsz. | A helyettesített kormánytisztviselői munkakör besorolási osztály/vezetői beosztás | A megállapítható legmagasabb mérték az illetményalap %-ában |
 
-| 1. | – III. besorolási osztályban | 25% |
+| 1. | – III. besorolási osztályban | 25% |
 
-| 2. | – II. besorolási osztályban | 30% |
+| 2. | – II. besorolási osztályban | 30% |
 
-| 3. | – I. besorolási osztályban | 40% |
+| 3. | – I. besorolási osztályban | 40% |
 
-| 4. | – osztályvezető | 50% |
+| 4. | – osztályvezető | 50% |
 
-| 5. | – főosztályvezető, főosztályvezető-helyettes | 75% |
+| 5. | – főosztályvezető, főosztályvezető-helyettes | 75% |
 
-## II. Közalkalmazotti munkakör esetén
+## II. Közalkalmazotti munkakör esetén
 
 | Fsz. | A helyettesített közalkalmazotti munkakör, fizetési osztály | A megállapítható legmagasabb mérték a köztisztviselői illetményalap %-ában |
 
@@ -30,6 +30,6 @@
 
 | 5. | – fizetési osztálytól függetlenül a magasabb vezető, – egyetemi tanár, kutatóprofesszor, tudományos tanácsadó | 75% |
 
-3. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^154]
+3. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^148]
 
-[^154]: A 3. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^148]: A 3. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
