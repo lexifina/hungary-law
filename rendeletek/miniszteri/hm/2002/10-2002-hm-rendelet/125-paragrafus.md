@@ -6,11 +6,11 @@
 
 (4) A hivatásos állományba vételre, valamint a rendelkezési állományba helyezésre és vezénylésre vonatkozó döntést a Honvédség központi személyügyi szerve – a szolgálatok által e rendelet előírásai szerint elkészített és megküldött okmányok alapján – készíti elő.
 
-(5)[^139]
+(5)[^143]
 
 (6) A Honvédség állományában szolgálatot teljesítő pályázatot elnyert személy rendelkezési állományba helyezésének, vezénylésének kezdeményezése előtt a szolgálatok beszerzik az adott szervezet állományilletékes parancsnokának (szolgálati elöljárónak) hozzájáruló nyilatkozatát. A hozzájárulás csak a szolgálati érdeket súlyosan sértő vagy veszélyeztető esetben tagadható meg.
 
-(7)[^140] A pályázatot elnyert személyt – a szolgálat érdekében – a főigazgató által javasolt időpontban, az előmeneteli rangsortól eltérően kell a szolgálatok állományába áthelyezni.
+(7)[^144] A pályázatot elnyert személyt – a szolgálat érdekében – a főigazgató által javasolt időpontban, az előmeneteli rangsortól eltérően kell a szolgálatok állományába áthelyezni.
 
-[^139]: A 125. § (5) bekezdését a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
-[^140]: A 125. § (7) bekezdése a 4/2006. (II. 7.) HM rendelet 48. §-ával megállapított szöveg.
+[^143]: A 125. § (5) bekezdését a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^144]: A 125. § (7) bekezdése a 4/2006. (II. 7.) HM rendelet 48. §-ával megállapított szöveg.

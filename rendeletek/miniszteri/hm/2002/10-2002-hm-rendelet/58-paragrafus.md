@@ -2,15 +2,18 @@
 
 ## Megbízás
 
-58. § (1)[^53] A Hjt. 53. § (1) bekezdése alapján az állomány tagja akkor bízható meg más beosztás, illetve feladatkör ellátásával, ha rendelkezik az ahhoz szükséges iskolai végzettséggel, szakképesítéssel, illetőleg – amennyiben ez a beosztás ellátásának feltétele – a megfelelő nemzetbiztonsági ellenőrzéssel.
+58. § (1)[^55] A Hjt. 53. § (1) bekezdése alapján az állomány tagja akkor bízható meg más beosztás, illetve feladatkör ellátásával, ha rendelkezik az ahhoz szükséges iskolai végzettséggel, szakképesítéssel, illetőleg – amennyiben ez a beosztás ellátásának feltétele – a megfelelő nemzetbiztonsági ellenőrzéssel.
 
-(2)[^54] Az állomány általános előmeneteli rendbe tartozó beosztást betöltő tagját eredeti beosztásának ellátása alól mentesítve, eggyel magasabb vagy azonos rendfokozattal rendszeresített beosztás ellátásával az (1) bekezdés figyelembevételével lehet megbízni.
+(2)[^56] Az állomány általános előmeneteli rendbe tartozó beosztást betöltő tagját eredeti beosztásának ellátása alól mentesítve, eggyel magasabb vagy azonos rendfokozattal rendszeresített beosztás ellátásával az (1) bekezdés figyelembevételével lehet megbízni.
 
-(3)[^55] Az állomány tagját eredeti, speciális előmeneteli rendbe tartozó beosztásának ellátása alól mentesítve, a viselt rendfokozatánál eggyel magasabb vagy azzal azonos rendfokozattal rendszeresített, általános előmeneteli rendbe tartozó beosztás ellátásával az (1) bekezdés figyelembevételével lehet megbízni.
+(3)[^57] Az állomány tagját eredeti, speciális előmeneteli rendbe tartozó beosztásának ellátása alól mentesítve, a viselt rendfokozatánál eggyel magasabb vagy azzal azonos rendfokozattal rendszeresített, általános előmeneteli rendbe tartozó beosztás ellátásával az (1) bekezdés figyelembevételével lehet megbízni.
 
-(4)[^56] A speciális előmeneteli rendbe tartozó beosztás ellátásával történő megbízás esetén a (2) bekezdés szerinti rendszeresített rendfokozaton a beosztásban elérhető legmagasabb rendfokozatot kell érteni.
+(4)[^58] A speciális előmeneteli rendbe tartozó beosztás ellátásával történő megbízás esetén a (2) bekezdés szerinti rendszeresített rendfokozaton a beosztásban elérhető legmagasabb rendfokozatot kell érteni.
 
-[^53]: Az 58. § (1) bekezdése az 1/2008. (I. 30.) HM rendelet 4. §-ával megállapított szöveg.
-[^54]: Az 58. § (2) bekezdése a 17/2009. (XII. 3.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^55]: Az 58. § (3) bekezdését a 17/2009. (XII. 3.) HM rendelet 4. § (2) bekezdése iktatta be.
-[^56]: Az 58. § (4) bekezdését a 17/2009. (XII. 3.) HM rendelet 4. § (2) bekezdése iktatta be.
+(5)[^59] Az állomány tagjának eredeti beosztása ellátása mellett történő megbízásánál a (2)–(4) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a megbízással ellátandó beosztás rendszeresített rendfokozata indokolt esetben – az adott állománykategórián belül – felfelé legfeljebb két rendfokozattal térhet el az eredeti beosztás rendszeresített rendfokozatától.
+
+[^55]: Az 58. § (1) bekezdése az 1/2008. (I. 30.) HM rendelet 4. §-ával megállapított szöveg.
+[^56]: Az 58. § (2) bekezdése a 17/2009. (XII. 3.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 58. § (3) bekezdését a 17/2009. (XII. 3.) HM rendelet 4. § (2) bekezdése iktatta be.
+[^58]: Az 58. § (4) bekezdését a 17/2009. (XII. 3.) HM rendelet 4. § (2) bekezdése iktatta be.
+[^59]: Az 58. § (5) bekezdését a 4/2011. (VI. 7.) HM rendelet 14. §-a iktatta be.

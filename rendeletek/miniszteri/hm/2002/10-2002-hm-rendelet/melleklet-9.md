@@ -1,10 +1,10 @@
 ## IGAZOLÁS
 
-## HM Személyzeti Főosztály
+## HVK Személyzeti Csoportfőnökség
 
 ## IGAZOLÁS
 
-## Igazolom, hogy   (név, rf.)
+## Igazolom, hogy (név, rf.)
 
 ## (szül. év, hónap, nap)
 
@@ -16,17 +16,15 @@
 
 ## A Hjt. 126/A. § (3) bekezdése alapján a jelen igazolás kiállítására a hivatásos állomány tagja részére az állam készfizető kezességével megvalósuló hitelkonstrukció igénybevétele érdekében került sor.
 
-## Budapest, ...............................................
+## Budapest, ...............................................
 
 ## ................................................................………
 
-## főosztályvezető
+## csoportfőnök
 
-9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^208]
+9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^212]
 
-HONVÉDELMI MINISZTÉRIUM
-
-KÖZGAZDASÁGI ÉS PÉNZÜGYI ÜGYNÖKSÉG
+HM KÖZGAZDASÁGI ÉS PÉNZÜGYI HIVATAL
 
 Illetmény, Munkaügyi és Nyugdíjmegállapító Igazgatóság
 
@@ -44,21 +42,21 @@ nyugdíjrendszerbe való visszalépéshez
 
 A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (9) bekezdése alapján a társadalombiztosítási nyugdíjrendszerbe történő visszalépéshez
 
-................................................ (szül. idő: .........................................; anyja neve: .....................................................................)
+................................................ (szül. idő: .........................................; anyja neve: .....................................................................)
 
 részére az alábbiakat igazolom.
 
-I. Az alapnyilvántartást vezető katonai szervezet személyügyének részéről:
+I. Az alapnyilvántartást vezető katonai szervezet személyügyének részéről:
 
 Fent nevezett személy az Mpt. 123. § (8) bekezdés b) pontjában meghatározott feltételnek megfelel, azaz a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozik, az igazolás kiadásakor szolgálati jogviszonyban áll.
 
-..................................., 200........ év .................... hó ............-n
+..................................., 200........ év .................... hó ............-n
 
 aláírás
 
 P. H.
 
-II. Nyugdíjmegállapító Osztály részéről:
+II. Nyugdíjmegállapító Osztály részéről:
 
 Ön a Hjt. 214/A. §-ában foglaltaknak megfelelt és 2007. december 31-ei hatállyal a szolgálati nyugdíjának összegét a ............... számú határozatomban rögzítettem, a határozat jogerőre emelkedett.
 
@@ -66,10 +64,10 @@ A fentiek alapján az Mpt. 123. § (8) bekezdés c) pontjában meghatározott fe
 
 Társadalombiztosítási nyugdíjrendszerbe történő visszalépését ezen igazolás alapján a magánnyugdíjpénztárnál kezdeményezheti. Jelen igazolás 30 napig használható fel.
 
-Budapest, 200.... év .................... hó ...............-n.
+Budapest, 200.... év .................... hó ...............-n.
 
 aláírás
 
 P. H.
 
-[^208]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be.
+[^212]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be, szövege a 4/2011. (VI. 7.) HM rendelet 15. § f) pontja szerint módosított szöveg.

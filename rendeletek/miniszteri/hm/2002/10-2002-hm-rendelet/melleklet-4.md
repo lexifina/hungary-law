@@ -412,7 +412,7 @@
 
 ## a) A legénységi teljesítményértékelő lapon 14 szempontot kell értékelni.
 
-## b)[^202] A tiszti, zászlósi, tiszthelyettesi értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a választható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
+## b)[^206] A tiszti, zászlósi, tiszthelyettesi értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a választható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
 
 ## Értékelési csoportonként maximális (7-es) pontszámot csak a következő megoszlásban lehet adni:
 
@@ -450,4 +450,4 @@
 
 4. számú melléklet a 10/2002. (III. 5.) HM rendelethez
 
-[^202]: A 3. számú melléklet Kitöltési Útmutatójának 3. b) pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^206]: A 3. számú melléklet Kitöltési Útmutatójának 3. b) pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.

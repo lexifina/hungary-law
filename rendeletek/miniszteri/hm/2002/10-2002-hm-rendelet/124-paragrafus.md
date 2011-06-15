@@ -14,6 +14,6 @@
 
 (5) Az utánpótlás biztosítása érdekében a szolgálatok együttműködnek a Honvédség központi személyügyi szervével és a toborzó irodákkal.
 
-(6)[^138] A szolgálatoknál szolgálatteljesítés céljából történő hivatásos állományba vétel esetén a 10. § (1) bekezdés a) és b) pontjaiban foglaltaktól eltérően is létesíthető hivatásos szolgálati viszony, amennyiben a pályázó a rendfokozati állománycsoporthoz meghatározott iskolai végzettséggel rendelkezik.
+(6)[^142] A szolgálatoknál szolgálatteljesítés céljából történő hivatásos állományba vétel esetén a 10. § (1) bekezdés a) és b) pontjaiban foglaltaktól eltérően is létesíthető hivatásos szolgálati viszony, amennyiben a pályázó a rendfokozati állománycsoporthoz meghatározott iskolai végzettséggel rendelkezik.
 
-[^138]: A 124. § (6) bekezdését a 4/2006. (II. 7.) HM rendelet 47. §-a iktatta be.
+[^142]: A 124. § (6) bekezdését a 4/2006. (II. 7.) HM rendelet 47. §-a iktatta be.

@@ -138,6 +138,6 @@
 
 ## 9. A Vezetői értékelés egy példányát az értékelt átveszi.
 
-5. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^203]
+5. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^207]
 
-[^203]: Az 5. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján az illetékes személyügyi vezetőnek a 2003. október 19. előtt elkészített minősítéseket a 2003/2004. évi előmenetelnél úgy kell figyelembe vennie, hogy a legénységi állomány tekintetében figyelmen kívül kell hagyni a minősítés eredményéből a 6–9., a 12. és a 14. szempontok pontszámait. Valamennyi minősítést ki kell egészíteni a megszerezhető többletpontokkal. A módosításról jegyzőkönyvet kell felvenni, amelyet az állomány tagjával történt ismertetés után a minősítési laphoz csatolni kell.
+[^207]: Az 5. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján az illetékes személyügyi vezetőnek a 2003. október 19. előtt elkészített minősítéseket a 2003/2004. évi előmenetelnél úgy kell figyelembe vennie, hogy a legénységi állomány tekintetében figyelmen kívül kell hagyni a minősítés eredményéből a 6–9., a 12. és a 14. szempontok pontszámait. Valamennyi minősítést ki kell egészíteni a megszerezhető többletpontokkal. A módosításról jegyzőkönyvet kell felvenni, amelyet az állomány tagjával történt ismertetés után a minősítési laphoz csatolni kell.
