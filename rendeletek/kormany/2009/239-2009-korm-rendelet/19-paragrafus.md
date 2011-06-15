@@ -6,4 +6,4 @@
 
 (4) Az MKEH és a jegyző a nála e rendelet hatálybalépését megelőző napig bejelentett osztályba sorolásról vagy minősítésről, illetve a tevékenységüket e rendelet hatálybalépése után megkezdő szálláshely-szolgáltatók tekintetében az osztályba sorolás vagy minősítés feltüntetéséhez kapcsolódó feltételek fennállásáról hatósági bizonyítványt állít ki.
 
-[^15]: A 19. §-t a 21. § (1) bekezdése hatályon kívül helyezte. [E módosító rendelet – a 281/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított – 17. § (2) bekezdése alapján a rendelkezés 2011. július 1. napján lép hatályba.]
+[^15]: A 19. §-t a 21. § (1) bekezdése hatályon kívül helyezte. [E módosító rendelet 17. § (2) bekezdése alapján a rendelkezés 2012. július 1. napján lép hatályba.]
