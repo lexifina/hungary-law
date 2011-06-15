@@ -1,0 +1,9 @@
+## 2. § Az R. 19. §-a helyébe a következő rendelkezés lép:
+
+## „19. § (1) A szálloda, panzió, és közösségi szálláshelyet üzemeltető szálláshely-szolgáltató jogosult kereskedelmi kommunikációjában vagy statisztikai adatszolgáltatási kötelezettségének teljesítése keretében a kereskedelmi és a fizetővendéglátó szálláshelyek osztályba sorolásáról, valamint a falusi szálláshelyek minősítéséről szóló 45/1998. (VI. 24.) IKIM rendelet (a továbbiakban: IKIM r.) – e rendelet hatálybalépését megelőző napon hatályos – 2. számú melléklete I., II., V., VI. pontjában, valamint VII. pont I–VI., IX. és X. alpontjában meghatározottak szerinti osztályba sorolást feltüntetni.
+
+## (2) Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 160/2009. (XI. 19.) FVM rendelet alapján 2011. szeptember 1-jéig támogatásban részesült egyéb szálláshelyet üzemeltető szálláshely-szolgáltató jogosult a támogatással összefüggően és kereskedelmi kommunikációjában az IKIM r. – e rendelet hatálybalépését megelőző napon hatályos – 3. számú melléklete II. pontjában meghatározottak szerinti minősítést feltüntetni.”
+
+3. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2011. szeptember 2-án hatályát veszti.
+
+(2) A 2. § 2011. szeptember 1-jén lép hatályba.
