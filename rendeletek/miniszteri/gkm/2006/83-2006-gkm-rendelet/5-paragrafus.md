@@ -1,3 +1,3 @@
-5. §[^5]
+5. §[^6]
 
-[^5]: Az 5. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 42. pontja hatályon kívül helyezte.
+[^6]: Az 5. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 42. pontja hatályon kívül helyezte.
