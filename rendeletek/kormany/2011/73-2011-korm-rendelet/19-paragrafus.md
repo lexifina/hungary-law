@@ -6,8 +6,8 @@
 
 (3) A 8. § (5) bekezdése 2011. július 1-jén lép hatályba.
 
-(4)[^14]
+(4)[^13]
 
 (5) Ez a rendelet 2011. július 2-án hatályát veszti.
 
-[^14]: A 19. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 19. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
