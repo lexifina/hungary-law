@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 19/2009. (X. 9.) PM rendelet.
+## 12. §[^1]
 
 1. melléklet a 21/2011. (VI. 10.) NGM rendelethez
 
@@ -73,3 +73,5 @@ Bonus-malus osztályba sorolás autóbusz, tehergépkocsi, vontató, mezőgazdas
 | M03 | M02 | M04 | M04 | M04 | M04 |
 
 | M04 | M03 | M04 | M04 | M04 | M04 |
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
