@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-62-00-00
 | --- | --- | --- |
 | 2011-06-15 | 2011. évi LXII. törvény | 2011-62-00-00.0 (közlönyállapot) |
 | 2011-06-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-62-00-00.1 |
+| 2011-06-16 | 2010. évi CXXX. törvény | 2011-62-00-00.2 |
