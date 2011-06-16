@@ -94,19 +94,11 @@ bb) 15. § (1) bekezdése,
 
 c) az Eütv.
 
-ca) 140/A. § (4) bekezdése,
-
-cb) 140/A. § (9) bekezdés a) pontja,
-
-cc) 140/E. § (5) bekezdés b) pontja,
-
-cd) 149/B. § (1) bekezdés a) pontja,
-
-ce) 149/C. § (2) bekezdése,
+ca)–ce)[^18]
 
 cf) 159. § (6) bekezdése,
 
-cg)[^18]
+cg)[^19]
 
 ch) 242/A. § (1) bekezdése,
 
@@ -162,10 +154,11 @@ eb) 72. § (1)–(3) és (5) bekezdése
 
 ## szerinti feladatok ellátására.
 
-(7)[^19] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a kistérségi népegészségügyi intézetet jelöli ki az Eüak. 5. § (3) bekezdése szerinti feladatok ellátására.
+(7)[^20] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a kistérségi népegészségügyi intézetet jelöli ki az Eüak. 5. § (3) bekezdése szerinti feladatok ellátására.
 
 [^15]: A 12. § (4) bekezdés a) pont ae) alpontja a 73/2011. (IV. 29.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
 [^16]: A 12. § (4) bekezdés a) pont af) alpontját a 73/2011. (IV. 29.) Korm. rendelet 13. § (5) bekezdése iktatta be.
 [^17]: A 12. § (4) bekezdés c) pont cb) alpontja a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^18]: A 12. § (5) bekezdés c) pont cg) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^19]: A 12. § (7) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^18]: A 12. § (5) bekezdés c) pont ca)–ce) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 12. § (5) bekezdés c) pont cg) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^20]: A 12. § (7) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.

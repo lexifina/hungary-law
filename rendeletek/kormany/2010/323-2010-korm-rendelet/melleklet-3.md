@@ -42,9 +42,9 @@
 
 ## 8. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-## 9.[^29] Az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
+## 9.[^32] Az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^30]
+3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^33]
 
-[^29]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be.
-[^30]: A 3. melléklet a 73/2011. (IV. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^32]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be.
+[^33]: A 3. melléklet a 73/2011. (IV. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
