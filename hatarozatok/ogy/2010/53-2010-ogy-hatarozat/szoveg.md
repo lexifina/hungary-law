@@ -1,6 +1,6 @@
 1. Az Alkotmánybíróság tagjait jelölő eseti bizottság létrehozásáról szóló 52/2010. (VII. 14.) OGY határozat (a továbbiakban: Abth.) 4. és 5. pontja alapján az Országgyűlés az eseti bizottság tisztségviselőinek és tagjainak a következőket választja meg:
 
-Elnök: dr. Balsai István (Fidesz)
+Elnök: dr. Varga István (Fidesz)[^2]
 
 Alelnök: dr. Schiffer András (LMP)
 
@@ -32,6 +32,7 @@ dr. Gaudi-Nagy Tamás (Jobbik)
 
 dr. Gyüre Csaba (Jobbik)
 
-2. Ez a határozat az Abth. hatálybalépése napján[^2] lép hatályba.
+2. Ez a határozat az Abth. hatálybalépése napján[^3] lép hatályba.
 
-[^2]: A hatálybalépés időpontja: 2010. július 14.
+[^2]: A 38/2011. (VI. 15.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A hatálybalépés időpontja: 2010. július 14.
