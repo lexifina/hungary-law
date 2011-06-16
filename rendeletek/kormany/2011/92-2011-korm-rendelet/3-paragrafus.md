@@ -1,0 +1,3 @@
+## 2. § Az R. 11. §-a helyébe a következő rendelkezés lép:
+
+## „11. § A társkártya előállítási és kézbesítési költségeit az intézmény a munkavállalóra háríthatja. A munkavállalóra hárított költség nem haladhatja meg társkártyánként az 1 500 forintot. A társkártya használatával és a támogatás igénybevételével, valamint a társkártya visszavonásával kapcsolatban – a társkártya előállítási, kézbesítési költségeitől és az elveszett, ellopott vagy megrongálódott társkártyák pótlásától eltekintve – a munkáltatónak és a munkavállalónak díjat, egyéb költséget az intézmény semmilyen jogcímen nem számíthat fel.”
