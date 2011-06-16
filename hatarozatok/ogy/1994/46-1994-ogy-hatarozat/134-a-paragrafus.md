@@ -128,13 +128,13 @@
 
 ## (1) A vezető közjogi tisztségek betöltőinek megválasztása során a Házszabály általános rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-## (2) Az Országgyűlés az Alkotmányban, illetőleg külön törvényekben megállapított szabályok szerint választja meg a köztársasági elnököt, a miniszterelnököt, az Alkotmánybíróság tagjait, a Legfelsőbb Bíróság elnökét, a legfőbb ügyészt, az országgyűlési biztosokat, továbbá az Állami Számvevőszék elnökét és alelnökeit. A választás titkos szavazással történik, kivéve a miniszterelnök megválasztását.
+## (2)[^165] Az Országgyűlés az Alkotmányban, illetőleg külön törvényekben megállapított szabályok szerint választja meg a köztársasági elnököt, a miniszterelnököt, az Alkotmánybíróság elnökét és tagját, a Legfelsőbb Bíróság elnökét, a legfőbb ügyészt, az országgyűlési biztost, továbbá az Állami Számvevőszék elnökét és alelnökét. A választás titkos szavazással történik, kivéve a miniszterelnök megválasztását.
 
 ## (3) Ha törvény valamely tisztségviselő megválasztása vagy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, az erre hatáskörrel rendelkező bizottság a jelöltet meghallgatja, és a személyi javaslatot véleményezi. A jelölt miniszterré történő kinevezésének támogatásáról a bizottság nyílt szavazással határoz.
 
 ## (4) Az Országgyűlés által választott tisztségviselők esetében a kialakított véleményt a bizottság előadója az Országgyűlés ülésén ismerteti. A többi jelöltről a véleményt a bizottság elnöke az Országgyűlés elnökének küldi meg, aki azt a javaslattételi és a kinevezési jogkör gyakorlójához eljuttatja.
 
-## (5)[^165]
+## (5)[^166]
 
 ## (6) Külön törvényben meghatározott tisztségek betöltőinek megválasztására – eltérő rendelkezés hiányában – e § rendelkezéseit kell alkalmazni.
 
@@ -158,7 +158,7 @@
 
 ## b) a lemondó nyilatkozatot nem kell kiadni bizottsági előkészítésre;
 
-## c)[^166] a lemondó nyilatkozathoz módosító javaslatot nem lehet benyújtani, de bármely képviselőcsoport vagy legalább tíz képviselő — legkésőbb az e napirendi pont tárgyalásának megkezdése előtti napon — írásban javasolhatja, hogy az Országgyűlés kérje a köztársasági elnöktől elhatározásának újbóli megfontolását; ilyen javaslat esetén először e javaslatról kell szavazni;
+## c)[^167] a lemondó nyilatkozathoz módosító javaslatot nem lehet benyújtani, de bármely képviselőcsoport vagy legalább tíz képviselő — legkésőbb az e napirendi pont tárgyalásának megkezdése előtti napon — írásban javasolhatja, hogy az Országgyűlés kérje a köztársasági elnöktől elhatározásának újbóli megfontolását; ilyen javaslat esetén először e javaslatról kell szavazni;
 
 ## d) ha a köztársasági elnök elhatározásának fenntartásáról írásban értesíti az Országgyűlést, az a)—c) pontok szerint kell eljárni, de vitát már nem lehet nyitni, és az Országgyűlés a lemondás tudomásulvételét nem tagadhatja meg.
 
@@ -190,9 +190,9 @@
 
 ## (2) Ha a Kormány a miniszterelnök útján azt javasolja, hogy az általa benyújtott előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, a javaslatot az Országgyűlés ülésén szóban is — legkésőbb a benyújtott előterjesztés egésze feletti zárószavazás megkezdése előtt — elő lehet terjeszteni.
 
-## 134/A–134/F. §[^167]
+## 134/A–134/F. §[^168]
 
-## 5. Fejezet[^168]
+## 5. Fejezet[^169]
 
 ## AZ EURÓPAI UNIÓS ÜGYEKKEL KAPCSOLATOS ELJÁRÁS
 
@@ -217,7 +217,8 @@
 [^162]: A 131/F. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 2. §-ával megállapított szöveg.
 [^163]: A 131/G. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 3. §-ával megállapított szöveg.
 [^164]: A 132. § a 71/1997. (VII. 17.) OGY határozat 45. §-ával megállapított szöveg.
-[^165]: A 132. § (5) bekezdését az Alkotmánybíróság a 9/2008. (I. 31.) AB határozatának 1. pontjával megsemmisítette 2008. december 31. napjával.
-[^166]: A 133. § (2) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
-[^167]: A 134/A–134/F. §-t és a 134/A. §-t megelőző alcímet a 62/1995. (VI. 17.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése.
-[^168]: A IV. Rész 5. fejezetét (134/A–134/D. §-t) a 47/2004. (V. 18.) OGY határozat 4. §-a iktatta be, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba; a hatálybalépés napja 2004. június 24. (Lásd a 2004: LIII. törvényt.)
+[^165]: A 132. § (2) bekezdése a 36/2011. (VI. 15.) OGY határozat 1. §-ával megállapított szöveg.
+[^166]: A 132. § (5) bekezdését az Alkotmánybíróság a 9/2008. (I. 31.) AB határozatának 1. pontjával megsemmisítette 2008. december 31. napjával.
+[^167]: A 133. § (2) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
+[^168]: A 134/A–134/F. §-t és a 134/A. §-t megelőző alcímet a 62/1995. (VI. 17.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése.
+[^169]: A IV. Rész 5. fejezetét (134/A–134/D. §-t) a 47/2004. (V. 18.) OGY határozat 4. §-a iktatta be, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba; a hatálybalépés napja 2004. június 24. (Lásd a 2004: LIII. törvényt.)

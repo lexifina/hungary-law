@@ -16,6 +16,6 @@
 
 ## * A Házszabály 37. § (2) bekezdése szerint a bizottsági tag távolléte esetére csak ugyanazon bizottság tagjának adható képviseleti megbízás.
 
-3. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz[^202]
+3. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz[^203]
 
-[^202]: Az új 3. számú mellékletet a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése iktatta be, egyidejűleg az eredeti 3. számú melléklet számozását 4. számú mellékletre változtatta.
+[^203]: Az új 3. számú mellékletet a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése iktatta be, egyidejűleg az eredeti 3. számú melléklet számozását 4. számú mellékletre változtatta.

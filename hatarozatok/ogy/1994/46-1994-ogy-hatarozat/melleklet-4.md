@@ -8,7 +8,7 @@
 
 ## 4. A 3. pontban foglaltak alapján nem közvetített nyilvános bizottsági üléseket az elektronikus sajtó közvetítheti vagy rögzítheti. A közvetítés technikai előkészületei és lebonyolítása a bizottsági ülést nem zavarhatják.
 
-4. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz[^203]
+4. számú melléklet a 46/1994. (IX. 30.) OGY határozathoz[^204]
 
 Esküszöveg
 
@@ -26,4 +26,4 @@ Budapest, 19… évi …………………… hó …… napján
 
 aláírás
 
-[^203]: Az eredeti 3. számú melléklet számozását 4. számú mellékletre változtatta a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése.
+[^204]: Az eredeti 3. számú melléklet számozását 4. számú mellékletre változtatta a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése.
