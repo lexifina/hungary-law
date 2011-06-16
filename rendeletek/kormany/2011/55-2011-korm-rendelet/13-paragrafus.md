@@ -1,4 +1,4 @@
-## 12. § Az elveszett, ellopott vagy megrongálódott kártyák pótlása esetén az intézmény a kártya-előállítás és kézbesítés költségét a munkavállalóra háríthatja. Ennek mértéke nem haladhatja meg kártyánként az 1500 forintot.
+## 12/A. §[^5] A jelen alcím szerinti maximális költségek, összegek mértéke az áthárítható általános forgalmi adót nem tartalmazza.
 
 ## 4. A kártyakibocsátás feltételei
 
@@ -9,3 +9,5 @@ a) ügyfelek számára nyitva álló helyiséget tart fenn minden 35 000 főnél
 b) az utolsó lezárt üzleti évben legalább 100 000 darab saját kibocsátású bankkártyával rendelkezik,
 
 c) legalább 2 év tapasztalata van az SZJA törvény 71. §-a szerinti béren kívüli juttatások igénybevételére szolgáló elektronikus utalványkártyák kibocsátásában, és az általa kibocsátott ilyen utalványkártyák száma meghaladta a 25 000 darabot a legutolsó lezárt üzleti év adatai alapján.
+
+[^5]: A 12/A. §-t a 92/2011. (VI. 15.) Korm. rendelet 3. §-a iktatta be.

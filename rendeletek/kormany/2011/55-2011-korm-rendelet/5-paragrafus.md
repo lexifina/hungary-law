@@ -24,6 +24,8 @@ k) testedzési szolgáltatás (TEÁOR 93.13),
 
 l) egyéb sporttevékenység (TEÁOR 93.19-ből verseny- és lovaglóistállók tevékenysége).
 
-(2) Az (1) bekezdés b)–l) pontjában meghatározott szolgáltatások csak az (1) bekezdés a) pontja szerinti szolgáltatással együttesen vehetők igénybe a kártyával, a személyes elektronikus utalvány nyilvántartás szerint rendelkezésre álló elektronikus utalványok terhére.
+(2)[^1] Az (1) bekezdés b)–l) pontjában meghatározott szolgáltatások (a továbbiakban: kapcsolódó szolgáltatás) csak az (1) bekezdés a) pontja szerinti szolgáltatással együttesen vehetők igénybe a kártyával, a személyes elektronikus utalvány nyilvántartás szerint rendelkezésre álló elektronikus utalványok terhére.
 
 (3) A szolgáltató a kártyán a munkavállaló és társkártyával rendelkező közeli hozzátartozója rendelkezésére álló elektronikus utalványt készpénzre, vagy készpénz-helyettesítő eszközre nem válthatja át.
+
+[^1]: Az 5. § (2) bekezdése a 92/2011. (VI. 15.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
