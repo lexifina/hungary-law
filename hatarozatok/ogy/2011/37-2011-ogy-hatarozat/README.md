@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-06-16 | 2011-37-30-41.1 | 37/2011. (VI. 15.) OGY határozat |
+| 2011-06-17 | 2011-37-30-41.2 | 2010: CXXX. törvény |
