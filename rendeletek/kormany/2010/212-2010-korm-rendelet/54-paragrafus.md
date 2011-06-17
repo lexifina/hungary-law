@@ -1,6 +1,6 @@
-## 53. §[^151] A miniszter – a külügyminiszterrel és a közigazgatási és igazságügyi miniszterrel együttműködve – részt vesz a nemzeti és etnikai kisebbségek kultúrájának ápolásával kapcsolatos állami feladatok ellátásában, ideértve a Magyar Köztársaság területén élő nemzeti és etnikai kisebbségek, és az anyaországok közötti kulturális kapcsolatok fenntartását.
+## 53. §[^154] A miniszter – a külügyminiszterrel és a közigazgatási és igazságügyi miniszterrel együttműködve – részt vesz a nemzeti és etnikai kisebbségek kultúrájának ápolásával kapcsolatos állami feladatok ellátásában, ideértve a Magyar Köztársaság területén élő nemzeti és etnikai kisebbségek, és az anyaországok közötti kulturális kapcsolatok fenntartását.
 
-## 54. §[^152] A miniszter egyéb kormányzati felelőssége körében
+## 54. §[^155] A miniszter egyéb kormányzati felelőssége körében
 
 a) véleményezi a szerzői és szomszédos jogok közös kezelését végző egyesületek díjszabásait,
 
@@ -8,5 +8,5 @@ b) együttműködik a közigazgatási és igazságügyi miniszterrel és a Szell
 
 c) muzeális intézményeket nyilvántartó hatóságként működik.
 
-[^151]: Az 53. § a 267/2010. (XII. 3.) Korm. rendelet 40. § (34) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^152]: Az 54. § a 341/2010. (XII. 28.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^154]: Az 53. § a 267/2010. (XII. 3.) Korm. rendelet 40. § (34) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^155]: Az 54. § a 341/2010. (XII. 28.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

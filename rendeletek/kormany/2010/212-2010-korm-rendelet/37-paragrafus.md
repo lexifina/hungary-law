@@ -46,10 +46,13 @@ t) településüzemeltetésért,
 
 u) építésügyért,
 
-v)[^91] – a 40. § (4a) bekezdése szerinti eljárásokban – állampolgársági ügyekért
+v)[^91] – a 40. § (4a) bekezdése szerinti eljárásokban – állampolgársági ügyekért,
+
+w)[^92] közfoglalkoztatásért
 
 felelős tagja.
 
 [^89]: A 37. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (24) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^90]: A 37. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (14) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^91]: A 37. § v) pontját a 267/2010. (XII. 3.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^92]: A 37. § w) pontját a 90/2011. (VI. 14.) Korm. rendelet 1. §-a iktatta be.

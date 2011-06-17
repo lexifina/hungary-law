@@ -12,7 +12,7 @@ e) az egészségügyi szakellátási kapacitásokra és az ahhoz kapcsolódó el
 
 vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(2)[^141] A miniszter az egészségbiztosításért való felelőssége körében közreműködik az államháztartásról szóló törvényből fakadó, a központi költségvetéssel és az Egészségbiztosítási Alap költségvetésével összefüggő, valamint egyéb pénzügyi feladatok ellátásában.
+(2)[^144] A miniszter az egészségbiztosításért való felelőssége körében közreműködik az államháztartásról szóló törvényből fakadó, a központi költségvetéssel és az Egészségbiztosítási Alap költségvetésével összefüggő, valamint egyéb pénzügyi feladatok ellátásában.
 
 (3) A miniszter az egészségbiztosításért való felelőssége körében ellátja az egészségügyi szakellátási kapacitásokkal és az ahhoz kapcsolódó ellátási területekkel összefüggésben részére jogszabályban meghatározott feladatokat.
 
@@ -20,4 +20,4 @@ vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormány
 
 (5) A miniszter az egészségbiztosításért való felelőssége körében társfelelősként közreműködik a társadalombiztosítás ellátásaira jogosultakról, valamint e szolgáltatások fedezetéről szóló jogszabályok előkészítésében.
 
-[^141]: A 48. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (30) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^144]: A 48. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (30) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
