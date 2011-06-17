@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2010-07-01 | 2003-38-20-0M.13 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-08-31 | 2003-38-20-0M.14 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-03-29 | 2003-38-20-0M.15 | 9/2011. (III. 21.) NEFMI rendelet |
+| 2011-06-17 | 2003-38-20-0M.16 | 31/2011. (VI. 16.) NEFMI rendelet |

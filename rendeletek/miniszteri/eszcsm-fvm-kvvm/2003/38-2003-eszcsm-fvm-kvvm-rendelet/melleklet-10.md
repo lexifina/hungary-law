@@ -1,6 +1,6 @@
 10. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^95]
+együttes rendelethez[^98]
 
 1. Biocid termék bejelentő lapja adattartalma
 
@@ -58,4 +58,4 @@ együttes rendelethez[^95]
 
 2.6. Dátum, aláírás
 
-[^95]: A 10. számú melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § d) pontjával megállapított szöveg.
+[^98]: A 10. számú melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § d) pontjával megállapított szöveg.

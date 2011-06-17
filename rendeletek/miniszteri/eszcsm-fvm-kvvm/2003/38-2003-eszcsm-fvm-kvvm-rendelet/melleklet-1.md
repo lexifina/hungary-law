@@ -1,6 +1,6 @@
 1. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^69]
+együttes rendelethez[^72]
 
 ## A biocid termékekben felhasználható hatóanyagok jegyzéke
 
@@ -92,4 +92,10 @@ Jelmagyarázat:
 
 | 30. | Akrolein | Akrilaldehid EK-szám: 203-453-4 CAS-szám: 107-02-8 | 913 g/kg | 2010. szeptember 1. | Nem alkalmazható | 2020. augusztus 31. | 12 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – ha ez a termék esetében releváns – értékelést kell folytatni a termék által okozott hatásoknak esetlegesen kitett azon népességcsoportokra, valamint azon felhasználási vagy expozíciós körülményekre vonatkozóan, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. Az engedély a következő feltételekkel adható ki: 1. Az akroleint tartalmazó szennyvizeket az elvezetést megelőzően ellenőrizni kell, kivéve, ha a környezetet érintő kockázatok igazolhatóan más módon is csökkent- hetőek. A tengeri környezetet érintő kockázatokra tekintettel – szükség szerint – a szennyvizeket az elvezetést megelőzően alkalmas tartályokban vagy tározókban kell tárolni, vagy megfelelően kezelni kell. 2. Az ipari, illetve foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, és biztonságos munkafolyamatokat kell létrehozni, kivéve, ha a termék engedélyezése iránti kérelem bizonyítja, hogy az ipari, illetve a foglalkozásszerű felhasználókat érintő kockázatok más módon is elfogadható szintre csökkenthetőek. |
 
-[^69]: Az 1. számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának a) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. január 1-jén. Az 1. számú melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 1. §-a, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § a) pontja szerint módosított szöveg.
+| 37. | Metoflutrin | RTZ izomer: 2,3,5,6-tetrafluor-4-(metoximetil) benzil- (1R,3R)-2,2-dimetil-3-(Z)-(prop-1- enil)ciklopropán- karboxilát | A hatóanyag meg kell hogy feleljen mindkét alábbi legkisebb tisztasági értéknek: RTZ izomer 754 g/kg Összes izomer 930 g/kg | 2011. május 1. | Nem alkalmazható | 2021. április 30. | 18 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – el kell végezni az uniós szintű kockázatértékelés által reprezentatív módon nem vizsgált, a környezeti elemeket és a népességcsoportokat érintő felhasználási vagy expozíciós körülmények, valamint kockázatok értékelését. |
+
+|  |  | EK-szám: n. a. |  |  |  |  |  |  |
+
+|  |  | CAS-szám: 240494-71-7 Összes izomer: 2,3,5,6-tetrafluor-4-(metoximetil) benzil- (EZ)-(1RS,3RS;1SR,3SR)-2,2-dimetil-3- prop-1-enilciklo- propánkarboxilát EK-szám: n. a. CAS-szám: 240494-70-6 |  |  |  |  |  |  |
+
+[^72]: Az 1. számú melléklet a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 9. §-ának a) pontja szerint módosított szöveg; a melléklet címének lábjegyzete hatályát vesztette 2009. január 1-jén. Az 1. számú melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelet 1. §-a, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § a) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
