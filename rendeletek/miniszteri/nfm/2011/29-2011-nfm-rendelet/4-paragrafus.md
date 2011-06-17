@@ -8,4 +8,6 @@
 
 (4) Hatályát veszti a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló 113/2007. (XII. 29.) GKM rendelet.
 
-(5) Hatályát veszti a légiforgalmi irányító szolgálatot ellátó és a légiforgalmi szakszemélyzet képzését végző szervezetről szóló 83/2006. (XII. 13.) GKM rendelet 2. §-ában az „általános” szövegrész.
+(5)[^4]
+
+[^4]: A 4. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
