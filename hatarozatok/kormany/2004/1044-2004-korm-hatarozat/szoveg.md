@@ -6,15 +6,7 @@ Felelős: az európai integrációs ügyek koordinációjáért felelős tárca 
 
 Határidő: azonnal
 
-2. az államháztartásról szóló 1992. évi XXXVIII. törvény 39. §-ának (2) bekezdésében biztosított jogkörében e határozat melléklete szerint elrendeli a 2004. évi központi költségvetés X.8.3.31.5. Tempus Közalapítvány Strukturális Alapok Képzési Központ támogatása jogcím terhére a X.8.1. Nemzeti Fejlesztési Hivatal működési költségvetés megemelésére 50 millió forint, a X.8.3.22. EU támogatások technikai segítségnyújtás jogcím megemelésére 25 millió forint átcsoportosítását;
-
-3. a) elfogadja a Tempus Közalapítványnak a módosításokkal egységes szerkezetbe foglalt alapító okiratát,
-
-b) felhatalmazza az oktatási minisztert a Közalapítvány alapító okiratának Kormány nevében történő aláírására és a bírósági nyilvántartásba vétel során az alapító képviseletére,
-
-c) elrendeli a Közalapítvány módosításokkal egységes szerkezetbe foglalt alapító okiratának – a bírósági nyilvántartásba vételét követően – a Magyar Közlönyben történő közzétételét.
-
-Felelős: oktatási miniszter
+2–3.[^2]
 
 4. Ez a határozat a közzététele napján lép hatályba, egyidejűleg a Strukturális Alapok és a Kohéziós Alap felhasználására történő felkészítésről, valamint a strukturális alapok és a Kohéziós Alap Képzőközpont (SAKK) létrehozásáról szóló 1038/2003. (IV. 24.) Korm. határozat a hatályát veszti.
 
@@ -117,3 +109,5 @@ Millió forintban, egy tizedessel
 | Pénzügyminisztérium | 2 példány | egyéb: azonnal |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^2]: A 2–3. pontot az 1199/2011. (VI. 17.) Korm. határozat 3. pont e) alpontja hatályon kívül helyezte.
