@@ -24,7 +24,7 @@ k) a kárpótlási ügyekben hozott közigazgatási döntés bíróság általi 
 
 l) a helyi önkormányzat adósságrendezési eljárása;
 
-m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása, továbbá a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló 44/2001/EK rendelet, a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló 805/2004/EK rendelet és a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2201/2003/EK rendelet alapján hozott bírósági határozat (bírósági egyezség), kiállított közokirat végrehajtását kezdeményező eljárás;
+m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása;
 
 n) az eredményes alkotmányjogi panasz alapján induló eljárás;
 
@@ -34,7 +34,11 @@ p) a jogi segítségnyújtás engedélyezése tárgyában hozott közigazgatási
 
 r) a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára, valamint a megelőző távoltartás elrendelésére irányuló nemperes eljárások.
 
-s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata.
+s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata,
+
+t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/EK tanácsi rendelet, a 2201/2003/EK tanácsi rendelet és a 4/2009/EK tanácsi rendelet alapján,
+
+u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 
