@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-31-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-06-17 | 2011-31-20-2V.1 | 31/2011. (VI. 16.) NEFMI rendelet |
+| 2011-06-18 | 2011-31-20-2V.2 | 2010: CXXX. törvény |
