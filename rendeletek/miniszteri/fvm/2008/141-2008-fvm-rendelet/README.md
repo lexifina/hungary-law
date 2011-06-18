@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-141-20-
 | 2010-05-16 | 2008-141-20-82.6 | 70/2010. (V. 13.) FVM rendelet |
 | 2011-01-14 | 2008-141-20-82.7 | 1/2011. (I. 11.) VM rendelet |
 | 2011-05-13 | 2008-141-20-82.8 | 37/2011. (V. 12.) VM rendelet |
+| 2011-06-18 | 2008-141-20-82.9 | 54/2011. (VI. 10.) VM rendelet |

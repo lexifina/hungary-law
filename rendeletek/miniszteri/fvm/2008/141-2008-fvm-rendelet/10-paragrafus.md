@@ -1,6 +1,5 @@
-## 9/C. §[^62] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján előzetesen elismert helyi közösségek tervezési folyamatával, és a LEADER csoportok kiválasztásával kapcsolatos egyes kérdésekről szóló 147/2007. (XII. 4.) FVM rendelet, valamint a Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet módosításáról szóló 37/2011. (V. 12.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 7. § (5b) bekezdését, a módosító rendelet hatálybelépésekor[^63] folyamatban lévő ügyekben is alkalmazni kell.
+## 9/D. §[^65] E rendeletnek a LEADER Helyi Akciócsoportok működéséről szóló 54/2011. (VI. 10.) VM rendelettel [a továbbiakban: 54/2011. (VI. 10.) VM rendelet] módosított 4. § (1) bekezdését, a módosító rendelet hatálybelépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^62]: A 9/C. §-t a 37/2011. (V. 12.) VM rendelet 2. § (9) bekezdése iktatta be.
-[^63]: A hatálybalépés időpontja 2011. május 13.
+[^65]: A 9/D. §-t az 54/2011. (VI. 10.) VM rendelet 16. § (2) bekezdése iktatta be.
