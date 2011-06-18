@@ -12,6 +12,8 @@ d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontala
 
 e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
 
-f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították.
+f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
+
+g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget.
 
 (3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
