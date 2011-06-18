@@ -2,7 +2,7 @@
 
 ## A VÉGREHAJTÁS SZERVEZETE
 
-## XVII. Fejezet
+## XVIII. Fejezet
 
 ## A VÉGREHAJTÁSI SZERVEZET KÖZÖS SZABÁLYAI
 

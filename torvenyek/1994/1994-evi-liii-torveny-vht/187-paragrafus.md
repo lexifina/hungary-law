@@ -8,4 +8,4 @@ c) egyéb keresetet indítottak, egyúttal a követelés létrejöttét, mennyis
 
 (2) A biztosítási intézkedést az a bíróság rendeli el, amelynél a kereseti kérelmet benyújtották. A biztosítási intézkedés elrendelése iránti kérelem tárgyában szükség esetén meghallgatást kell tartani.
 
-(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a 44/2001/EK tanácsi rendelet szerinti ügyben a kereseti kérelmet az Európai Unió másik tagállamának bíróságához nyújtották be. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
+(3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a 44/2001/EK tanácsi rendelet vagy a 4/2009/EK tanácsi rendelet szerinti ügyben a kereseti kérelmet az Európai Unió másik tagállamának bíróságához nyújtották be. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.

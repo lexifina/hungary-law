@@ -1,4 +1,4 @@
-## XVI. Fejezet
+## XVII. Fejezet
 
 ## A JOGORVOSLATOK EGYÉB SZABÁLYAI
 

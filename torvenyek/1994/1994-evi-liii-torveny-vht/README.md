@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2011-03-01 | 2010. évi CLXXXIII. törvény | 1994-53-00-00.69 |
 | 2011-03-23 | 2011. évi XVIII. törvény | 1994-53-00-00.70 |
 | 2011-04-01 | 2011. évi XXIII. törvény | 1994-53-00-00.71 |
+| 2011-06-18 | 2010. évi CXXVII. törvény | 1994-53-00-00.72 |

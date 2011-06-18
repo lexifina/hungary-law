@@ -1,4 +1,4 @@
-## XX. Fejezet
+## XXI. Fejezet
 
 ## A VÉGREHAJTÁSI ÜGYINTÉZŐ
 

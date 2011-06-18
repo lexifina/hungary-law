@@ -1,4 +1,4 @@
-## XIX. Fejezet
+## XX. Fejezet
 
 ## A MEGYEI BÍRÓSÁGI VÉGREHAJTÓ
 

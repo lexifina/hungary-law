@@ -2,7 +2,7 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-## XXII. Fejezet
+## XXIII. Fejezet
 
 ## A TÖRVÉNY HATÁLYBALÉPÉSE ÉS VÉGREHAJTÁSA
 
