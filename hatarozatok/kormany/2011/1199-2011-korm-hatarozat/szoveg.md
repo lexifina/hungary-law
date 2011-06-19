@@ -18,26 +18,9 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-a) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1076/1999. (VII. 7.) Korm. határozat,
+a)–k)[^3]
 
-b) az Oktatási Minisztérium felügyelete alá tartozó közalapítványok alapító okiratainak egységes módosításáról szóló 1090/2000. (XI. 14.) Korm. határozat,
-
-c) az oktatási miniszter kormányzati felelősségi körébe tartozó egyes közalapítványok alapító okiratainak módosításáról szóló 1075/2001. (VII. 13.) Korm. határozat,
-
-d) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1110/2003. (XI. 5.) Korm. határozat,
-
-e) a Strukturális Alapok és Kohéziós Alap Képzőközpont (SAKK) feladatainak a Nemzeti Fejlesztési Hivatal keretei között történő ellátásáról szóló 1044/2004. (V. 14.) Korm. határozat 2. és 3. pontja,
-
-f) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1134/2004. (XII. 6.) Korm. határozat,
-
-g) az oktatási miniszter kormányzati felelősségi körébe tartozó egyes közalapítványok alapító okiratának módosításáról szóló 1092/2005. (IX. 15.) Korm. határozat,
-
-h) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1102/2006. (X. 27.) Korm. határozat,
-
-i) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1093/2007. (XI. 29.) Korm. határozat,
-
-j) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1024/2009. (III. 6.) Korm. határozat, valamint
-
-k) a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1190/2009. (XI. 13.) Korm. határozat.
+[^2]: A 3. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A 3. pont a)–k) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
