@@ -1,0 +1,3 @@
+## 8. § A 29/2010. (III. 30.) FVM rendelet a következő 20. §-sal egészül ki:
+
+## „20. § E rendeletnek a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet és a dohánytermékek gyártásáról, forgalmazásáról és ellenőrzéséről szóló 102/2005. (X. 31.) FVM rendelet módosításáról szóló 56/2011. (VI. 17.) VM rendelet 3. §-ával megállapított 6. § (4) bekezdését és a 4. §-ával módosított 14. § (1) és (2) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.”
