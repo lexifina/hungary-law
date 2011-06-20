@@ -1,6 +1,6 @@
-## 7. §[^23] Ez a rendelet az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet, valamint az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 2007. július 24-i 875/2007/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 8. §[^25] E rendeletnek a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet és a mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendelet módosításáról szóló 56/2011. (VI. 17.) VM rendelet 11. §-ával módosított 2. § (1) bekezdését a 2011. január 1. után megkötött hitel-, és kölcsönszerződésekre is alkalmazni kell.
 
-1. számú melléklet az 50/2007. (VI. 27.) FVM rendelethez[^24]
+1. számú melléklet az 50/2007. (VI. 27.) FVM rendelethez[^26]
 
 ## Kérelem adattartalma mezőgazdasági vállalkozások részére intézményi kezességvállaláshoz
 
@@ -20,5 +20,5 @@ A kérelmező nyilatkozik arról, hogy:
 
 4. Keltezés és a kérelmező cégszerű aláírása
 
-[^23]: A 7. § a 99/2008. (VIII. 6.) FVM rendelet 5. §-ával megállapított szöveg.
-[^24]: Az 1. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^25]: A 8. §-t az 56/2011. (VI. 17.) VM rendelet 12. §-a iktatta be.
+[^26]: Az 1. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 1. § (5) bekezdésével megállapított szöveg.
