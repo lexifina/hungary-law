@@ -34,7 +34,7 @@
 
 11. referencia terület: a 2., a 7., a 17., és a 20. pontok szerinti referencia terület együtt;
 
-12. támogatási időszak: a szerkezetátalakítási program 2010–2013. közötti teljes időtartama;
+12.[^2] támogatási időszak: a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program 2010–2013. közötti teljes időtartama;
 
 13. támogatási jogosultság: a 3., a 6., a 18. és a 19. pontok szerinti támogatási jogosultságok együtt;
 
@@ -55,3 +55,4 @@
 21. zöldségtermelő: az az ügyfél, aki, vagy amely az R. II. fejezetében foglaltak alapján spárga, dinnye, torma, fűszerpaprika termelésére szolgáló terület után támogatást vett igénybe.
 
 [^1]: Az 1. § 4. pontja a 48/2010. (XII. 31.) VM rendelet 5. §-ával megállapított szöveg.
+[^2]: Az 1. § 12. pontja az 56/2011. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.

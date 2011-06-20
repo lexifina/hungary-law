@@ -4,6 +4,8 @@
 
 (3) Az (1) bekezdés alkalmazásakor a Burley dohány szerkezetátalakítási támogatási jogosultság egységértékének megállapításához a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét 0,897-del kel szorozni.
 
-(4) A gyümölcs és a Virginia dohány támogatási jogosultság egységértékét a 2. melléklet szerinti képlet alapján kell meghatározni.
+(4)[^13] A gyümölcs és Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét a 2. melléklet szerinti képlet alapján kell meghatározni.
 
 (5) A támogatási jogosultság egységértéke a közösségi jogi aktusban meghatározott esetben és jogszabályban meghatározottak szerint csökkenthető.
+
+[^13]: A 10. § (4) bekezdése az 56/2011. (VI. 17.) VM rendelet 10. § d) pontja szerint módosított szöveg.
