@@ -10,6 +10,6 @@
 
 (5) Ha a helyi önkormányzat az érdekeltségnövelő támogatást és az ahhoz kapcsolódó önrészt, részben vagy egészben nem a megjelölt feladatra használta fel, akkor az államháztartásról szóló 1992. évi XXXVIII. törvény 64/B. §-ának (1) és (2) bekezdése szerint köteles eljárni.
 
-(6)[^3] A támogatás felhasználását az államháztartásról szóló 1992. évi XXXVIII. törvényben jelzett szervezeteken túl – szükség esetén – az Oktatási és Kulturális Minisztérium (a továbbiakban: Minisztérium) helyszíni ellenőrzés keretében vizsgálhatja.
+(6)[^3] A támogatás felhasználását az államháztartásról szóló 1992. évi XXXVIII. törvényben jelzett szervezeteken túl – szükség esetén – a kultúráért felelős miniszter (a továbbiakban: miniszter) (a továbbiakban: Minisztérium) helyszíni ellenőrzés keretében vizsgálhatja.
 
-[^3]: Az 5. § (6) bekezdése a 6/2007. (II. 13.) OKM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (6) bekezdése a 32/2011. (VI. 20.) NEFMI rendelet 4. § (1) bekezdése szerint módosított szöveg.
