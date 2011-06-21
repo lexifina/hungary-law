@@ -1,0 +1,1 @@
+## „(4) A javaslat alapján a miniszter hirdet eredményt. A támogatásban részesült önkormányzatok és a támogatás összegének jegyzékét a miniszter minden év május 30-áig utalványozás céljából megküldi a helyi önkormányzatokért felelős miniszternek, ezzel egyidejűleg a pályázat eredményét közzéteszi a kormány honlapján és a miniszter által vezetett minisztérium hivatalos lapjában.”
