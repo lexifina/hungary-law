@@ -1,0 +1,5 @@
+## 8. § A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet (a továbbiakban: R2.) 2. § (1) és (2) bekezdései helyébe a következő rendelkezések lépnek:
+
+## „2. § (1) Az Eximbank folyamatos nyilvántartást vezet a központi költségvetés terhére vállalt exportcélú garanciaügyletekről és ezekről negyedévenként a 2. számú melléklet szerint beszámolót készít. A negyedéves beszámolót a negyedévet követő hónap 15-éig eljuttatja az államháztartásért felelős miniszternek, és a 2. számú melléklet 1. számú táblázatát és 1/b. számú táblázatát egyidejűleg megküldi a Magyar Államkincstárnak is.
+
+## (2) Az Eximbank az (1) bekezdés szerinti beszámolóban negyedévente elektronikus úton adatot szolgáltat az államháztartásért felelős miniszternek a központi költségvetés terhére vállalt garanciák beváltásának adott évre várható összegéről havi ütemezésben, ügyletenkénti bontásban.”

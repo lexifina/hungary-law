@@ -1,0 +1,5 @@
+A költségvetési viszontgarancia vállalásának és érvényesítésének részletes szabályairól szóló 48/2002. (XII. 28.) PM rendelet tekintetében a Magyar Köztársaság 2003. évi költségvetéséről szóló 2002. évi LXII. törvény 104. § (3) bekezdésben kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva,
+
+a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 26. § (5) bekezdésben kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva,
+
+a következőket rendelem el:
