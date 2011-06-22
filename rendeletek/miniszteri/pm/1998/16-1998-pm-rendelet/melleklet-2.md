@@ -1,4 +1,4 @@
-## 1. számú táblázat[^38]
+## 1. számú táblázat[^46]
 
 ## Az Eximbank Zrt. .... év ....... negyedév végén fennálló kötelezettségállománya
 
@@ -30,7 +30,7 @@
 
 ## cégszerű aláírás
 
-## 2. számú táblázat[^39]
+## 2. számú táblázat[^47]
 
 ## Az Eximbank Zrt. .... év ....... negyedévi adósságszolgálati kötelezettsége
 
@@ -60,7 +60,7 @@
 
 2. számú melléklet a 16/1998. (V. 20.) PM rendelethez
 
-1. számú táblázat[^40]
+1. számú táblázat[^48]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
@@ -80,7 +80,33 @@ Készítette: ……………………………………………..
 
 Cégszerű aláírás
 
-2. számú táblázat[^41]
+1/b. számú táblázat[^49]
+
+Negyedéves jelentés az Eximbank Zrt. garanciaállományának tárgyévben várható beváltásáról
+
+|  | A | B | C | D | E | F | G | H |
+
+| 1 | Sorszám | Bank/ország | Garancia jellege | Megbízó (ügyfél) | Devizanem | Tárgyévben várható garancia- beváltás időpontja (hónap) | Várhatóan beváltásra kerülő garancia- összeg (ezer deviza) | Összeg (millió Ft) |
+
+| 2 | Módozatonként |  |  |  |  |  |  |  |
+
+| 3 |  |  |  |  |  |  |  |  |
+
+| 4 |  |  |  |  |  |  |  |  |
+
+| … |  |  |  |  |  |  |  |  |
+
+| 5 | Tárgyévben várható garanciabeváltás összesen |
+
+Dátum: ......................................................................
+
+Készítette: .................................................................
+
+............................................
+
+Cégszerű aláírás
+
+2. számú táblázat[^50]
 
 Negyedéves jelentés
 
@@ -100,7 +126,7 @@ Készítette: ………………………………………………
 
 Cégszerű aláírás
 
-3. számú táblázat[^42]
+3. számú táblázat[^51]
 
 Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott tőkekövetelésekről
 
@@ -118,7 +144,7 @@ Készítette: ………………………………………………
 
 Cégszerű aláírás
 
-4. számú táblázat[^43]
+4. számú táblázat[^52]
 
 Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről
 
@@ -142,9 +168,10 @@ Készítette: ................................................................
 
 cégszerű aláírás
 
-[^38]: Az 1. számú melléklet 1. számú táblázata az 5/2002. (II. 8.) PM rendelet 4. §-ával megállapított, valamint a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^39]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^40]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^41]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^42]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^43]: A 2. számú melléklet 4. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
+[^46]: Az 1. számú melléklet 1. számú táblázata az 5/2002. (II. 8.) PM rendelet 4. §-ával megállapított, valamint a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^47]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^48]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^49]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be.
+[^50]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^51]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^52]: A 2. számú melléklet 4. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.

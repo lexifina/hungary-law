@@ -12,7 +12,7 @@
 
 | 3. | Év: |  |  |  |  |  |  |  |
 
-| 4. | Negyedéves várható kárfizetés összesen: |  |  |  |  |  |  |  |
+| 4. | Éves várható kárfizetés összesen: |  |  |  |  |  |  |  |
 
 ## Dátum: ....................................................
 
@@ -22,6 +22,6 @@
 
 ## Cégszerű aláírás
 
-6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^47]
+6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^56]
 
-[^47]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^56]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-3. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^44]
+3. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^53]
 
-[^44]: A 3. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^53]: A 3. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
