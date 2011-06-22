@@ -1,6 +1,6 @@
 ## ..... számú IGÉNYBEJELENTÉS ÉS ELSZÁMOLÁSI ÍV
 
-## A Széchenyi vállalkozói kártyahitelhez kapcsolódó állami viszontgarancia igénybevételére
+## A Széchenyi Kártya Program keretében 2010. augusztus 15-ét követően megkötött hitelszerződésekhez kapcsolódó állami viszontgarancia igénybevételére
 
 | Sorszám | Készfizető- kezességválla- lási szerződés száma | Vállalkozás/ vállalkozó neve, adószáma | Beváltott összeg (Ft) | Folyósító pénzügyi intézmény | Hitel-, illetve kölcsönszerződés felmondás időpontja | Kezes általi teljesítés összege (Ft) | Megtérülés engedménye- zésből (Ft) | Igényelt állami viszontgarancia összege (Ft) |
 
@@ -16,7 +16,7 @@
 
 ## Hitelgarancia Zrt.
 
-5. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^45]
+5. számú melléklet a 48/2002. (XII. 28.) PM rendelethez[^58]
 
 Negyedéves jelentés a külön jogszabályokban meghatározott hitelkonstrukciókkal kapcsolatos kötelezettségállományról 200..... év ...... negyedév
 
@@ -62,4 +62,4 @@ Budapest, 200.........................
 
 Kezes
 
-[^45]: Az 5. számú mellékletet a 14/2008. (V. 16.) PM rendelet 6. § (4) bekezdése iktatta be. E módosító rendelet 8. §-a alapján az 5. számú melléklet szerinti adatszolgáltatást első ízben a 2008. második negyedévi adatszolgáltatásnál kell teljesíteni.
+[^58]: Az 5. számú mellékletet a 14/2008. (V. 16.) PM rendelet 6. § (4) bekezdése iktatta be. E módosító rendelet 8. §-a alapján az 5. számú melléklet szerinti adatszolgáltatást első ízben a 2008. második negyedévi adatszolgáltatásnál kell teljesíteni.
