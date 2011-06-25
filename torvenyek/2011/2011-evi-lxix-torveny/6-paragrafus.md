@@ -1,0 +1,3 @@
+6. § Az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az állami adóhatóság és a vámhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.”
