@@ -1,0 +1,3 @@
+## 1. § A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet (a továbbiakban: R.) 1/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A bíróság a Kincstár területi szerve részére átadott külföldi fizetőeszközök elkobzásáról rendelkező jogerős határozatát azzal a felhívással küldi meg a Kincstár területi szerve részére, hogy a számlán kezelt külföldi fizetőeszközök ellenértékét utalja át a megyei (fővárosi) bíróság gazdasági hivatalának (a továbbiakban: BGH) számlájára. A határozatot és a felhívás másolatát a BGH-nak is meg kell küldeni.”

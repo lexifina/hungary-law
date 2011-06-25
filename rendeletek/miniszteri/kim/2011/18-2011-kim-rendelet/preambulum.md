@@ -1,0 +1,7 @@
+A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 127. § (1) bekezdés a) pontjában kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § d) pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –, valamint a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés j) pontjában kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § n) pontjában meghatározott feladatkörében eljáró belügyminiszterrel és az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –
+
+a 8. § (2) bekezdése tekintetében a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
