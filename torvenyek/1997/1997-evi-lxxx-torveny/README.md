@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2011-01-01 | 2010. évi CXXIII. törvény | 1997-80-00-00.48 |
 | 2011-03-12 | 2011. évi XIII. törvény | 1997-80-00-00.49 |
 | 2011-04-01 | 2011. évi XXIII. törvény | 1997-80-00-00.50 |
+| 2011-06-25 | 2011. évi LXIX. törvény | 1997-80-00-00.51 |
