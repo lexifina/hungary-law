@@ -1,0 +1,1 @@
+## 1. § A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény végrehajtásáról szóló 10/1995. (IX. 28.) KTM rendelet (a továbbiakban: KTM rendelet) 4. számú melléklete helyébe az 1. melléklet lép.
