@@ -12,7 +12,9 @@ d) nemzetközi szerződésben meghatározott külön eljárás alapján történ
 
 e) nemzetközi szervezet által meghatározott külön eljárás alapján történő beszerzésre;
 
-f) olyan beszerzésre, amelynek kizárólagos rendeltetése az, hogy lehetővé tegye az ajánlatkérő számára egy vagy több nyilvános elektronikus hírközlési szolgáltatás nyújtását, illetve nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy igénybevételét.
+f) olyan beszerzésre, amelynek kizárólagos rendeltetése az, hogy lehetővé tegye az ajánlatkérő számára egy vagy több nyilvános elektronikus hírközlési szolgáltatás nyújtását, illetve nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy igénybevételét;
+
+g) a közoktatásról szóló 1993. évi LXXIX. törvény alapján a helyi önkormányzat kötelező közoktatási feladatának nem állami intézményfenntartó útján történő ellátására, valamint a közoktatási intézmény intézményfenntartói jogának nem állami intézményfenntartónak történő átadására.
 
 (2) E fejezet szerinti eljárást – a 27. §-ban meghatározott szolgáltatások körében – nem kell alkalmazni a következő esetekben:
 

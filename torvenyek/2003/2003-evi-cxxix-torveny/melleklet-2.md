@@ -319,11 +319,3 @@ ex 8901 A: hadihajók
 Optikai, fényképészeti, mozgófényképészeti, mérő-, ellenőrző, precíziós, orvosi és sebészeti műszerek és készülékek; ezek alkatrészei és tartozékai
 
 kivéve:
-
-ex 9005: binokuláris távcsövek
-
-ex 9013: vegyes eszközök, lézerek
-
-ex 9014: távmérő berendezések
-
-ex 9028: elektromos és elektronikus mérőműszerek
