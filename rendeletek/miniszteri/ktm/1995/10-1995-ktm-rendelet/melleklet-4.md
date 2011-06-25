@@ -56,7 +56,7 @@
 
 ## 5. Keltezés, cégszerű aláírás
 
-## III.[^58] A termékdíj-fizetési kötelezettség (B01-B02)
+## III.[^60] A termékdíj-fizetési kötelezettség (B01-B02)
 
 ## 1. Termékdíj fajtája KT kód szerinti bontásban
 
@@ -104,7 +104,7 @@
 
 ## g) Keltezés, cégszerű aláírás
 
-## V.[^59] Bevallás a termékdíj-fizetési kötelezettség átvállalásáról (ÁTV)
+## V.[^61] Bevallás a termékdíj-fizetési kötelezettség átvállalásáról (ÁTV)
 
 ## 1. Átvállalással érintett termék adatai
 
@@ -150,7 +150,7 @@
 
 ## f) Keltezés, cégszerű aláírás
 
-## VII.[^60] Levonást részletező lap (UHB)
+## VII.[^62] Levonást részletező lap (UHB)
 
 ## 1. Termékdíj levonáshoz kötődő hasznosítási adatok:
 
@@ -178,7 +178,7 @@
 
 ## 3. Keltezés, cégszerű aláírás
 
-## VIII.[^61] Hasznosítás koordináló szervezetek bevallása az átvállalt mennyiségekről (HKS)
+## VIII.[^63] Hasznosítás koordináló szervezetek bevallása az átvállalt mennyiségekről (HKS)
 
 ## A) Csatlakozott partnerek adatai
 
@@ -262,7 +262,7 @@
 
 ## 6. Keltezés, cégszerű aláírás
 
-## XII.[^62]
+## XII.[^64]
 
 ## XIII. Visszaigénylésről (VIS)
 
@@ -272,23 +272,23 @@
 
 ## b) a termékdíjkötekles termék KT-kódja
 
-## c)[^63] a termékdíjköteles termék mennyisége (kg)
+## c)[^65] a termékdíjköteles termék mennyisége (kg)
 
 ## 2. A visszaigénylés időszaka
 
-## 3.[^64] Termékdíjtétel (Ft/kg)
+## 3.[^66] Termékdíjtétel (Ft/kg)
 
 ## 4. A visszaigényelhető termékdíj összege (Ft)
 
 ## 5. Keltezés, cégszerű aláírás
 
-4. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^65]
+4. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^67]
 
-[^58]: A 3. számú melléklet III. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^59]: A 3. számú melléklet V. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^60]: A 3. számú melléklet VII. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^61]: A 3. számú melléklet VIII. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^62]: A 3. számú melléklet a XII. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^63]: A 3. számú melléklet XIII. pont 1. c) alpontja a 21/2009. (XII. 22.) KvVM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^64]: A 3. számú melléklet XIII. pont 3. alpontja a 21/2009. (XII. 22.) KvVM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^65]: A 4. számú melléklet a 7/2009. (V. 29.) KvVM rendelet 2. § (1) bekezdésével megállapított, a 21/2009. (XII. 22.) KvVM rendelet 6. § (2) és 7. § (3) bekezdése szerint módosított szöveg.
+[^60]: A 3. számú melléklet III. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^61]: A 3. számú melléklet V. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^62]: A 3. számú melléklet VII. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^63]: A 3. számú melléklet VIII. pontja a 21/2009. (XII. 22.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^64]: A 3. számú melléklet a XII. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^65]: A 3. számú melléklet XIII. pont 1. c) alpontja a 21/2009. (XII. 22.) KvVM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^66]: A 3. számú melléklet XIII. pont 3. alpontja a 21/2009. (XII. 22.) KvVM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^67]: A 4. számú melléklet a 41/2011. (V. 26.) VM rendelet 1. §-ával megállapított szöveg.

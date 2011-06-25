@@ -30,6 +30,6 @@
 
 ## g) a termék külföldre értékesítését igazoló bizonylatok tételes összesítése (kibocsátó, bizonylatszám, teljesítés dátuma, KT-kód, mennyiség, a korábban megfizetett visszaigényelhetővé vált nettó termékdíj összeg).
 
-11. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^72]
+11. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^74]
 
-[^72]: A 11. számú mellékletet a 6/1999. (VII. 21.) KöM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 31/2008. (XII. 31.) KvVM rendelet 4. § (3) bekezdése.
+[^74]: A 11. számú mellékletet a 6/1999. (VII. 21.) KöM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 31/2008. (XII. 31.) KvVM rendelet 4. § (3) bekezdése.

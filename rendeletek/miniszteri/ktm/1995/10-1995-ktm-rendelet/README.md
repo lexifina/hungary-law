@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-10-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1995-10-20-6D.16 | 10/1995. (IX. 28.) KTM rendelet |
+| 2011-06-25 | 1995-10-20-6D.17 | 41/2011. (V. 26.) VM rendelet |

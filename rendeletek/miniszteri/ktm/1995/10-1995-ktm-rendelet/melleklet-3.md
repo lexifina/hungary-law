@@ -92,7 +92,7 @@
 
 ## r) keltezés, cégszerű aláírás.
 
-## IV.[^54]
+## IV.[^55]
 
 ## V. Bejelentőlap a képviseletről (BJ4)
 
@@ -302,7 +302,7 @@
 
 ## aa) Önkormányzat felé fennálló
 
-## ab) APEH felé fennálló
+## ab)[^56]
 
 ## ac) Egyéb köztartozások
 
@@ -374,7 +374,7 @@
 
 ## 5. Keltezés, cégszerű aláírás
 
-## XIII.[^55]
+## XIII.[^57]
 
 ## XIV. Átvállalási szerződés nyilvántartásba vételi kérelem (KE7)
 
@@ -420,11 +420,12 @@
 
 ## 5. Keltezés, aláírás
 
-## XVI.[^56]
+## XVI.[^58]
 
-3. számú melléklet a 10/1995. (IX. 28.) KTM rendelet 4. §-ának (2) bekezdéséhez[^57]
+3. számú melléklet a 10/1995. (IX. 28.) KTM rendelet 4. §-ának (2) bekezdéséhez[^59]
 
-[^54]: A 2. számú melléklet a IV. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^55]: A 2. számú melléklet a XIII. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^56]: A 2. számú melléklet a XVI. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
-[^57]: A 3. számú melléklet a 31/2008. (XII. 31.) KvVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^55]: A 2. számú melléklet a IV. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^56]: A 2. számú melléklet X. alcím 1. pont a) pont ab) alpontját a 41/2011. (V. 26.) VM rendelet 3. §-a hatályon kívül helyezte.
+[^57]: A 2. számú melléklet a XIII. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^58]: A 2. számú melléklet a XVI. pontját a 21/2009. (XII. 22.) KvVM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^59]: A 3. számú melléklet a 31/2008. (XII. 31.) KvVM rendelet 3. § (2) bekezdésével megállapított szöveg.

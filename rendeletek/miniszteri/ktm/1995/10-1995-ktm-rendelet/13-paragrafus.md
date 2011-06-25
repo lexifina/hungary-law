@@ -1,10 +1,10 @@
-## 11—12. §[^35]
+## 11—12. §[^36]
 
-13. §[^36] (1) A Kt. 7. § (1) bekezdésében meghatározott szolgáltatásmegrendelés igénybevételének feltételei:
+13. §[^37] (1) A Kt. 7. § (1) bekezdésében meghatározott szolgáltatásmegrendelés igénybevételének feltételei:
 
 a) a környezetvédelmi jogszabályok, hatósági előírások betartása az újrahasználat, az újrafeldolgozás, illetve az energianyerés során,
 
-b)[^37] a 6. számú melléklet szerinti, a megrendelés időszakára vonatkozó negyedévenkénti beszámoló benyújtása a Minisztériumhoz,
+b)[^38] a 6. számú melléklet szerinti, a megrendelés időszakára vonatkozó negyedévenkénti beszámoló benyújtása a Minisztériumhoz,
 
 c) a beszámolóban szereplő adatok alátámasztásához szükséges nyilvántartások vezetése,
 
@@ -22,6 +22,6 @@ d) hulladékhasznosítás esetén a hulladék újrahasználatából, újrafeldol
 
 (3) A Kt. 7. §-a (4) bekezdésében meghatározott igénybevevő által készletezett összes hulladék engedélyezett lerakóra történő elhelyezési költsége 3 hónapnál hosszabb ideig nem haladhatja meg az igénybevevő saját tőkéjének összegét.
 
-[^35]: A 11–12. §-át a 16/1997. (VI. 5.) KTM rendelet 11. §-a (3) bekezdésének c) pontja hatályon kívül helyezte.
-[^36]: A 13. § a 12/2004. (VII. 13.) KvVM rendelet 9. §-ával megállapított szöveg.
-[^37]: A 13. § (1) bekezdésének b) pontja a 26/2004. (XII. 22.) KvVM rendelet 8. §-ának a) pontja szerint módosított szöveg.
+[^36]: A 11–12. §-át a 16/1997. (VI. 5.) KTM rendelet 11. §-a (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^37]: A 13. § a 12/2004. (VII. 13.) KvVM rendelet 9. §-ával megállapított szöveg.
+[^38]: A 13. § (1) bekezdésének b) pontja a 26/2004. (XII. 22.) KvVM rendelet 8. §-ának a) pontja szerint módosított szöveg.

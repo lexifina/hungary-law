@@ -84,6 +84,6 @@
 
 ## d) Megrendelési összeg (göngyölítve, havi bontásban):
 
-7. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^68]
+7. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^70]
 
-[^68]: A 7. számú melléklet a 21/2009. (XII. 22.) KvVM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^70]: A 7. számú melléklet a 21/2009. (XII. 22.) KvVM rendelet 6. § (3) bekezdésével megállapított, a 41/2011. (V. 26.) VM rendelet 2. §-a szerint módosított szöveg.

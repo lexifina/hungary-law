@@ -184,6 +184,6 @@
 
 |  | cégszerű aláírás |
 
-6. számú melléklet a 10/1995. (IX. 28.) KTM rendelet 14.§-ához[^67]
+6. számú melléklet a 10/1995. (IX. 28.) KTM rendelet 14.§-ához[^69]
 
-[^67]: A 6. számú melléklet a 102/2007. (XII. 27.) KvVM rendelet 11. §-ával megállapított szöveg.
+[^69]: A 6. számú melléklet a 102/2007. (XII. 27.) KvVM rendelet 11. §-ával megállapított szöveg.

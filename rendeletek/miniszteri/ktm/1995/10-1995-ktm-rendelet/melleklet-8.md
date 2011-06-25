@@ -212,6 +212,8 @@
 
 |  | 73 | ha a kereskedelmi csomagolás termékdíj a Kt. 5/E. § (2) bekezdése szerint a nem újrahasználható csomagolás anyagában történő hasznosítása után 100%-os levonásra kerül és a hasznosított mennyiség a 71-es kódnál elszámolásra nem került; |
 
+| 80 |  | ha a Kt. 4. § (4) bekezdés szerinti eljárást választó kötelezettnek hasznosítást koordináló szervezettel kötött átvállalási szerződése van, és a tényleges hasznosítandó mennyiség alapjának meghatározásához a készletre történő felvételkor keletkezett mentességgel bevallott termékdíjköteles termék mennyisége korrekcióra – külföldre történő kiszállítás – került; |
+
 | 90 |  | az összes termék (a 00–89-es végződéssel rendelkező termékek gyűjtőkódja). |
 
 ## A KT kód 6–7. kiegészítő jegye (származáskód):
@@ -306,6 +308,6 @@
 
 | 5–9. pozíció: | megegyezik a KT kód első öt jegyének felépítésével |
 
-8. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^69]
+8. számú melléklet a 10/1995. (IX. 28.) KTM rendelethez[^71]
 
-[^69]: A 8. számú mellékletet újonnan a 26/2004. (XII. 22.) KvVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 102/2007. (XII. 27.) KvVM rendelet 15. § (1) bekezdése.
+[^71]: A 8. számú mellékletet újonnan a 26/2004. (XII. 22.) KvVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 102/2007. (XII. 27.) KvVM rendelet 15. § (1) bekezdése.
