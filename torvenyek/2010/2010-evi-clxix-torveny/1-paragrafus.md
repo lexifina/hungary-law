@@ -6,6 +6,6 @@
 
 a) bevételi főösszegét 13 152 945,1 millió forintban,
 
-b) kiadási főösszegét 13 838 618,3 millió forintban,
+b) kiadási főösszegét 14 337 194,3 millió forintban,
 
-c) hiányát 685 673,2 millió forintban állapítja meg.
+c) hiányát 1 184 249,2 millió forintban állapítja meg.

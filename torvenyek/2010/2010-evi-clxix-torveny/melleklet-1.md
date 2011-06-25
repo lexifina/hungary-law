@@ -44980,6 +44980,20 @@ Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 
 |
 
+3
+
+|
+
+A MOL Nyrt. által kibocsátott részvények megvásárlása
+
+|
+
+498 576,0
+
+|
+
+|
+
 5
 
 |
@@ -45400,7 +45414,7 @@ XLIII. fejezet összesen:
 
 |
 
-91 854,5
+590 430,5
 
 |
 
@@ -48798,7 +48812,7 @@ KIADÁSI FŐÖSSZEG:
 
 |
 
-13 838 618,3
+14 337 194,3
 
 |
 
@@ -48822,7 +48836,7 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
-–685 673,2
+–1 184 249,2
 
 |
 

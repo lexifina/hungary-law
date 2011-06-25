@@ -139,9 +139,3 @@ Megállapodás alapján fizetők járulékai (1. cím, 3. alcím, 2. jogcím-cso
 Munkáltatói táppénz hozzájárulás (1. cím, 3. alcím, 4. jogcím-csoport)
 
 Százalékos mértékű egészségügyi hozzájárulás (1. cím, 4. alcím, 2. jogcím-csoport)
-
-Terhességi-gyermekágyi segély (2. cím, 2. alcím, 1. jogcím-csoport)
-
-Táppénz (2. cím, 2. alcím, 2. jogcím-csoport, 1. jogcím)
-
-Gyermekápolási táppénz (2. cím, 2. alcím, 2. jogcím-csoport, 2. jogcím)
