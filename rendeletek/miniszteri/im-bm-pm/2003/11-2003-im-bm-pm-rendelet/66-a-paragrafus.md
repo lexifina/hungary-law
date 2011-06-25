@@ -1,6 +1,6 @@
-## Élelmiszer[^52]
+## Élelmiszer[^58]
 
-66/A. §[^53] (1) A hatóság a külön törvényben meghatározott élelmiszerlánc-felügyeleti szerv megkeresésére mintát szolgáltat a hatósági eljárással összefüggésben indult büntetőeljárásban lefoglalt élelmiszerből.
+66/A. §[^59] (1) A hatóság a külön törvényben meghatározott élelmiszerlánc-felügyeleti szerv megkeresésére mintát szolgáltat a hatósági eljárással összefüggésben indult büntetőeljárásban lefoglalt élelmiszerből.
 
 (2) Az (1) bekezdés szerinti mintaadás nem veszélyeztetheti a büntetőeljárás eredményességét.
 
@@ -8,5 +8,5 @@
 
 (4) E § alkalmazásában élelmiszer a külön jogszabályban meghatározott fogalom.
 
-[^52]: A 66/A. §-t megelőző alcímet a 47/2009. (IX. 28.) IRM–PM együttes rendelet 19. §-a iktatta be.
-[^53]: A 66/A. §-t a 47/2009. (IX. 28.) IRM–PM együttes rendelet 19. §-a iktatta be. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^58]: A 66/A. §-t megelőző alcímet a 47/2009. (IX. 28.) IRM–PM együttes rendelet 19. §-a iktatta be.
+[^59]: A 66/A. §-t a 47/2009. (IX. 28.) IRM–PM együttes rendelet 19. §-a iktatta be. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

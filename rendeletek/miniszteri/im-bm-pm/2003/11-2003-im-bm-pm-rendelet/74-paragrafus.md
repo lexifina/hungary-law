@@ -1,13 +1,15 @@
-74. §[^62] (1) Az elkobzott jövedéki termékek és nem közösségi áruk értékesítését a jövedéki, illetve vámjogszabályok rendelkezései szerint a vámhatóság végzi
+74. §[^68] (1) A lefoglalt és előzetesen értékesíthetővé vált, vagy elkobzott jövedéki termékek és nem közösségi áruk értékesítését a jövedéki, illetve vámjogszabályok rendelkezései szerint a NAV végzi.
+
+(2) A lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott bűnjel értékesítése
 
 a) kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet (kereskedő) közreműködésével történő eladás,
 
 b) árverés vagy elektronikus árverés
 
-útján.
+útján történhet.
 
-(2) Az előzetesen értékesített, valamint az elkobzott jövedéki termékek és nem közösségi áruk értékesítéséből befolyt ellenértéket a vámhatóság számlájára kell befizetni és a jövedéki, illetve vámjogszabályok szerint kell elszámolni.
+(3) A NAV nyomozóhatósági jogkörben lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott jövedéki termékek és nem közösségi áruk értékesítéséből befolyt ellenértéket a NAV által kezelt államháztartási számlára kell befizetni és a jövedéki, illetve vámjogszabályok szerint kell elszámolni.
 
-(3) Az elkobzott – jövedéki terméknek nem minősülő – nem közösségi áruk elektronikus árverés útján történő értékesítését a vámhatóság az adózás rendjéről szóló törvény vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
+(4) A lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott – jövedéki terméknek nem minősülő – nem közösségi áruk elektronikus árverés útján történő értékesítését a NAV az adózás rendjéről szóló törvény vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
 
-[^62]: A 74. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 22. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^68]: A 74. § a 18/2011. (VI. 24.) KIM rendelet 7. §-ával megállapított szöveg.
