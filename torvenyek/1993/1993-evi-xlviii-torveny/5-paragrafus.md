@@ -16,7 +16,7 @@ f) a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló 
 
 g) a geotermikus energia kinyerését és hasznosítását, valamint az ehhez szükséges – külön jogszabályban meghatározott – földalatti és felszíni létesítmények megépítését és használatba vételét, ha a tevékenység nem vízjogi engedély köteles,
 
-h) a bányászati tevékenység során keletkező hulladék kezelését,
+h) a bányászati hulladék kezelését,
 
 i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
 

@@ -8,7 +8,9 @@ b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi
 
 c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít,
 
-d) bányászati hulladékot engedély nélkül kezel, tárol.
+d) bányászati hulladékot engedély nélkül kezel, tárol,
+
+e) bányászati koncesszió nélkül vagy az abban foglaltaktól eltérően energetikai és ipari eredetű szén-dioxidot földtani szerkezetbe sajtol.
 
 (2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul vagy engedélytől eltérő módon gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja, illetőleg kezdeményezheti a koncessziós szerződés megszüntetését, és elrendelheti az eredeti állapot helyreállítását, vagy, ha ez már nem lehetséges, a tájrendezést.
 

@@ -20,11 +20,11 @@ c) a bánya szüneteltetése, bezárása, a szénhidrogénmező felhagyása,
 
 d) a bányászati tevékenység befejezését követő tájrendezés,
 
-e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása,
+e) a szénhidrogén, valamint az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
 
 f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
 
-g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése is.
+g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
 
 5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, illetve jogi személyiséggel nem rendelkező társaság (a továbbiakban együtt: személy).
 
@@ -76,7 +76,7 @@ b) a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, 
 
 c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
 
-d) a földtani szerkezetek megismerése szénhidrogén föld alatti tárolására való alkalmasság szempontjából.
+d) a földtani szerkezetek megismerése szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid felszín alatti tárolására való alkalmasság szempontjából.
 
 18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatási jogot adományozó határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 
@@ -98,9 +98,9 @@ A szállítóvezeték alkotórészei:
 
 A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a szállítóvezeték tartozékai.
 
-23.
+23. „Energetikai és ipari eredetű szén-dioxid”: a fosszilis ásványi nyersanyagok termikus bomlása és fosszilis energiahordozók elégetése során keletkező szén-dioxid.
 
-24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéreg-rész.
+24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése, valamint energetikai és ipari eredetű szén-dioxid földtani szerkezetekben történő tárolása céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéreg-rész.
 
 25. ,,Növelt hatékonyságú művelési eljárás'': olyan végső többletolaj kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető olajmennyiséget. A réteg-energia megnövelése termikus, gázos, kémiai vagy egyéb módon (pl. elektromágneses) történik.
 
@@ -153,3 +153,7 @@ A vezetékek alkotórészei:
 42. „Geotermikus energia hasznosítása”: azon tevékenység, amely során a kinyert geotermikus energia felhasználásra kerül.
 
 43. „Bányászati hulladék”: a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap.
+
+44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló engedélyes által végzett tervezése, építése, üzembe helyezése, üzemeltetése (ellenőrzés, karbantartás, üzemzavar elhárítás, javítás), felhagyása és elbontása, valamint a tervezés, létesítés, üzemeltetés felügyelete.
+
+45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.

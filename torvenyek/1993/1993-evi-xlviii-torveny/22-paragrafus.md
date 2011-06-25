@@ -1,6 +1,6 @@
 ## A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási jogot adományoz.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia, valamint az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási jogot adományoz.
 
 (2) A kutatási jog a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-, illetve geotermikusenergia-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag, illetve geotermikus energia jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának, a geotermikus védőidom kijelölésének kezdeményezésére.
 

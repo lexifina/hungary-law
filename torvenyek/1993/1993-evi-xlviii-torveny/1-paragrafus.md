@@ -26,7 +26,9 @@ i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
 
 j) a bányászati hulladék kezelése;
 
-k) az a)–j) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
+k) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, hasznosítása és bezárása;
+
+l) az a)–k) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
 
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
 

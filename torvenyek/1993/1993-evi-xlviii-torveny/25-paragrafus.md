@@ -12,8 +12,26 @@ c) a bánya bezárásakor, illetve a mező felhagyásakor a visszahagyott ásvá
 
 az állami földtani feladatokat ellátó szervnek megküldeni.
 
-(3) Üzleti titokként kell kezelni a kutatási jog jogosultja által a kutatási zárójelentésben és egyéb módon szolgáltatott adatokat a jogosultság időtartama alatt, valamint a bányavállalkozó által a kutatási zárójelentésben, készletszámítási jelentésben és egyéb módon szolgáltatott adatokat a bányabezárási terv (42. §) jóváhagyásáig, bányatelek-megállapítás, illetőleg geotermikus védőidom kijelölés hiányában a kutatási zárójelentés elfogadását, illetőleg egyéb esetben az adatszolgáltatási kötelezettség keletkezését követő egy évig. Nem tartozik az üzleti titok körébe az elvégzett kutatások helyére és a kutatási adatok birtokosára vonatkozó információ.
+(3) Üzleti titokként kell kezelni a technológiai eljárásokra, a műszaki megoldásokra, a kutatási, kitermelési tevékenységekre, a munkaszervezési és logisztikai módszerekre, továbbá a know-how-ra vonatkozó adatokat, amelyek, megismerése az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna
+
+a) a kutatási jog jogosultja által a kutatási zárójelentésben és egyéb módon szolgáltatott adatok esetén a kutatási jogosultság időtartama alatt, valamint
+
+b) a bányavállalkozó által a kutatási zárójelentésben, készletszámítási jelentésben és egyéb módon szolgáltatott adatok esetén a bányabezárási terv (42. §) jóváhagyásáig, bányatelek-megállapítás, vagy geotermikus védőidom kijelölés hiányában a kutatási zárójelentés elfogadását, továbbá egyéb esetben az adatszolgáltatási kötelezettség keletkezését követő egy évig.
+
+(3a) Nem tartozik az üzleti titok körébe
+
+a) az elvégzett kutatások helyére,
+
+b) a kutatási adatok birtokosára,
+
+c) az éves kitermelt ásványi nyersanyag mennyiségére, minőségére,
+
+d) a kitermelés helyére, valamint
+
+e) a befizetett bányajáradék összegére
+
+vonatkozó információ.
 
 (4) A bányavállalkozó felelős a szolgáltatott adatok valódiságáért, amelyet az állami földtani feladatokat ellátó szerv jogosult ellenőrizni.
 
-(5) Az állami földtani feladatokat ellátó szerv vezeti az állami ásványi nyersanyag és geotermikus energiavagyon nyilvántartást, amelyre a jogosult kérelmére, külön jogszabályban meghatározott díjazásért, igazolást ad ki.
+(5) Az állami földtani feladatokat ellátó szerv vezeti az állami ásványi nyersanyag és geotermikus energiavagyon, valamint az energetikai és ipari eredetű szén-dioxidot tároló földtani szerkezetek nyilvántartását, amelyekkel kapcsolatban a jogosult kérelmére, külön jogszabályban meghatározott díjazásért, igazolást ad ki.

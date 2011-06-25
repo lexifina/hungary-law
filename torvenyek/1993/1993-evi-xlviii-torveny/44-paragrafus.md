@@ -10,7 +10,7 @@ d) a geotermikus energia kutatása, energetikai célra történő kinyerése és
 
 e) szénhidrogén-termelésben, -előkészítésben és az elsődleges feldolgozásban használt technológiai létesítmény, csővezeték, a szénhidrogén-szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékei szállítóvezetékeinek építése, használatbavétele, üzemeltetése, elbontása és felhagyása,
 
-f) szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése,
+f) a szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
 
 g) a cseppfolyós propán-, butángázok és ezek elegyeinek töltő és tároló, a töltőüzemben lévő nyomáspróbázó és javító létesítményei, azok berendezései, valamint elosztóvezetékei építése, használatbavétele, üzemeltetése és elbontása,
 

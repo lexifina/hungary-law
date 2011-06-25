@@ -83,3 +83,5 @@ b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csa
 (4) A miniszter a hatósági engedély alapján bányászati jogot gyakorló bányavállalkozóval a 26/A. § (5) bekezdése alapján szerződést köt.
 
 (5) A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti és a csökkentéssel kapcsolatos feltételekről – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági szerződésre vonatkozó rendelkezései szerint – a bányavállalkozóval szerződést köt.
+
+(6) Az állami földtani feladatokat ellátó szerv 2011. december 31. napjáig felmérést végez az ország területén rendelkezésre álló, energetikai és ipari eredetű szén-dioxid tárolására potenciálisan alkalmas földtani szerkezetek kapacitásáról, és ezen felmérés alapján közzéteszi e területek listáját.

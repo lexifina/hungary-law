@@ -8,7 +8,7 @@
 
 (3)
 
-(4)
+(4) A törvény 9. §-a szerinti zárt területté történő kijelölés a folyamatban lévő eljárásokat nem érinti.
 
 (5) A törvény 9. §-ában megjelölt területek minősítéséről, a minősítések ötévenként történő felülvizsgálatáról és a koncesszióra jelölhető zárt területek közzétételéről a bányafelügyelet gondoskodik.
 
