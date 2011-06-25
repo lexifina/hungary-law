@@ -1,4 +1,4 @@
-8. §[^1] (1) Az ujj- és tenyérnyomat, valamint a DNS-minta rögzítését a szakértői nyilvántartó szerv által előzetesen jóváhagyott és feltüntetett eszközzel és módon kell végezni. A szakértői nyilvántartó szerv a jóváhagyott eszközöket és módszereket a honlapján közzéteszi.
+8. §[^5] (1) Az ujj- és tenyérnyomat, valamint a DNS-minta rögzítését a szakértői nyilvántartó szerv által előzetesen jóváhagyott és feltüntetett eszközzel és módon kell végezni. A szakértői nyilvántartó szerv a jóváhagyott eszközöket és módszereket a honlapján közzéteszi.
 
 (2) Az ujj- és tenyérnyomat rögzítését követően a nyomozó hatóság, az ügyészség vagy a katonai nyomozó hatóság megküldi
 
@@ -42,4 +42,4 @@ a vizsgálatok elvégzését követő három munkanapon belül megküldi a szak�
 
 (7) A 4. mellékletben foglalt adatlapon megjelölt eljáró szerv kódját és a bűncselekmény adatai cím alatt megjelölt kódokat az eljáró nyomozó hatóság, nyomozó ügyész vagy ügyészségi nyomozó az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló IRM rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
 
-[^1]: A 8. § a 19/2010. (IV. 30.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^5]: A 8. § a 19/2010. (IV. 30.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
