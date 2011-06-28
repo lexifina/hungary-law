@@ -1,87 +1,89 @@
-## Zsűriszámot tartalmazó jegyzőkönyv
+## Kérelem tárgyak népi iparművészeti alkotássá minősítéséhez
 
-| .......... sz. ZSŰRIJEGYZŐKÖNYV |
+## 1. Fejléc: feltüntetendő a
 
-| BENYÚJTÓ NEVE: |
+## „Hagyományok Háza
 
-| BENYÚJTÓ CÍME: |
+## Népi Iparművészeti Osztály
 
-| TERVEZŐ NEVE: |
+## nepiiparmuveszet@hagyomanyokhaza.hu
 
-| BENYÚJTÓ MEGJEGYZÉSE: |
+## www.hagyomanyokhaza.hu
 
-| A zsűriszámot kapott termék az Áfa törvény szerint 2004. 01. 01-től tárgyi adómentes. (1992. évi LXXIV. törvény 2. sz. melléklet 24. sorszám) |
+## 1011 Budapest, Corvin tér 8. Postacím: 1251 Budapest, Pf.: 23. Tel/fax: (36–1)201–8734
 
-| MEGNEVEZÉS: |  |
+## A zsűri eljárási díjat a Hagyományok Háza által kibocsátott befizetési postautalványon vagy átutalással lehet befizetni. A Hagyományok Háza számlaszámát tartalmazó csekk igényelhető a Hagyományok Háza – Népi Iparművészeti Osztályán
 
-| MÉRET: |  |
+## A befizetés igazolását kérjük a jegyzőkönyvhöz csatolni!
 
-| ALAPANYAG: | HATÁROZAT |
+## Az adatokat pontosan, olvashatóan kérjük kitölteni!” szöveg
 
-| SZÍNÁLLÁSA: |  |
+## 2. Adatok:
 
-| DÍSZÍTMÉNY, STÍLUS: | ZSŰRISZÁM: |
+## 2.1. Benyújtó neve
 
-| Éves előállítható példányszám: |  |
+## 2.2. Amennyiben van, a „Népi iparművész” igazolvány száma
 
-| MEGNEVEZÉS: |  |
+## 2.3. Benyújtó születési helye, ideje
 
-| MÉRET: |  |
+## 2.4. Benyújtó anyja neve
 
-| ALAPANYAG: | HATÁROZAT |
+## 2.5. Benyújtó lakcíme:
 
-| SZÍNÁLLÁSA: |  |
+## 2.5.1. megye
 
-| DÍSZÍTMÉNY, STÍLUS: | ZSŰRISZÁM: |
+## 2.5.2. település
 
-| Éves előállítható példányszám: |  |
+## 2.5.3. közterület neve és típusa, házszám
 
-| MEGNEVEZÉS: |  |
+## 2.5.4. irányítószám
 
-| MÉRET: |  |
+## 2.6. Telefonszám (munkaidőben elérhető)
 
-| ALAPANYAG: | HATÁROZAT |
+## 2.7. Tervező neve
 
-| SZÍNÁLLÁSA: |  |
+## 2.8. Tervező címe
 
-| DÍSZÍTMÉNY, STÍLUS: | ZSŰRISZÁM: |
+## 2.8.1. megye
 
-| Éves előállítható példányszám: |  |
+## 2.8.2. település
 
-| MEGNEVEZÉS: |  |
+## 2.8.3. közterület neve és típusa, házszám
 
-| MÉRET: |  |
+## 2.8.4. irányítószám
 
-| ALAPANYAG: | HATÁROZAT |
+## 2.9. Benyújtó esetleges megjegyzése
 
-| SZÍNÁLLÁSA: |  |
+## 2.10. Szakág (* -gal jelölt szakágak közül kérjük beírni)
 
-| DÍSZÍTMÉNY, STÍLUS: | ZSŰRISZÁM: |
+## 2.11. Benyújtott tárgyak részletezése, tájegységi, etnikai jellemzők tekintetében is
 
-| Éves előállítható példányszám: |  |
+## 2.11.1. fotó-szám
 
-| MEGNEVEZÉS: |  |
+## 2.11.2. megnevezés
 
-| MÉRET: |  |
+## 2.11.3. méret (cm-ben)
 
-| ALAPANYAG: | HATÁROZAT |
+## 2.11.4. alapanyag
 
-| SZÍNÁLLÁSA: |  |
+## 2.11.5. szín
 
-| DÍSZÍTMÉNY, STÍLUS: | ZSŰRISZÁM: |
+## 2.11.6. díszítmény stílus
 
-| Éves előállítható példányszám: |  |
+## 2.11.7. forrás
 
-| A ZSŰRI MEGJEGYZÉSE: |
+## 2.11.8. éves előállítható példányszám
 
-| Büntetőjogi felelősségem tudatában kijelentem, hogy a benyújtott alkotás saját tervezésem. |
+## 2.12. A zsűrizés helyszíne (ahol az alkotás zsűrizésre kerül)
 
-| Dátum: ................................................................ | Zsűrizéshez leadott fénykép: db. |
+## 2.13. A „Büntetőjogi felelősségem tudatában kijelentem, hogy a benyújtott tárgy(ak) a fent megnevezett tervező alkotása(i).” szöveg
 
-| ............................................................................ benyújtó aláírása, pecsét |
+## 2.14. „A zsűrizésre beadott tárgyakat a zsűrizést követően 30 napig tudja tárolni az intézmény. A tárgyak elszállításáról a benyújtó gondoskodik.” szöveg
 
-| Dátum: ................................................................ |  |
+## 2.15. Dátum
 
-| .................................................................. aláírás, pecsét | .................................................................. zsűritagok aláírása |
+## 2.16. Benyújtó aláírása
 
-5. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez
+5. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^16]
+
+[^16]: Az 5. számú melléklet a 35/2011. (VI. 27.) NEFMI rendelet 7. §-ával megállapított szöveg.

@@ -1,12 +1,44 @@
-## NÉPMŰVÉSZ IGAYOLVÁNY
+## A Bizottság jegyzőkönyve
 
-|  |  | Igazolvány száma: ....................................................... |
+## /0/001.sz. ZSŰRIJEGYZŐKÖNYV
 
-| NÉPI IPARMŰVÉSZ IGAZOLVÁNY |  |  |  |  |
+## 1. ADATOK:
 
-|  |  | ................................................................... népi iparművész Név: ................................................................................. .......................................................................................... Lakcím: ............................................................................ .......................................................................................... |
+## 1.1. BENYÚJTÓ NEVE
 
-| A Hagyományok Háza, a 12/2004. (V. 21.) NKÖM rendelet .... § (...) bekezdésében foglaltak alapján népi iparművészeti tevékenységét elbírálva ................................................................... foglalkozási ágban Népi Iparművésznek ismerte el Budapest, 200 .................. hó ......... nap P. H. ................................................................... főigazgató |  | Érvényes: .......................................................................................... P. H. .......................................................................................... P. H. .......................................................................................... P. H. Jelen igazolvány birtokosát az Szja törvény 39. § (2) bekezdésben foglalt feltételek szerint illeti meg tevékenységi adókedvezmény. |
+## 1.2. BENYÚJTÓ CÍME
+
+## 1.3. TERVEZŐ NEVE
+
+## 1.4. TERVEZŐ CÍME
+
+## 1.5. BENYÚJTÓ MEGJEGYZÉSE
+
+## 1.6. AZ „A ZSŰRISZÁMOT KAPOTT TERMÉK ÉRTÉKESÍTÉSÉNÉL A MINDENKORI ÁFA TÖRVÉNYBEN FOGLALTAK SZERINT KELL ELJÁRNI.” SZÖVEG
+
+## 1.7. MEGNEVEZÉS
+
+## 1.8. MÉRET
+
+## 1.9. ALAPANYAG
+
+## 1.10. SZÍNÁLLÁSA
+
+## 1.11. DÍSZÍTMÉNY, STÍLUS
+
+## 1.12. SZAKÁG
+
+## 2. HATÁROZAT:
+
+## 2.1. ZSŰRISZÁM
+
+## 2.2. ÉVES ELŐÁLLÍTHATÓ PÉLDÁNYSZÁM
+
+## 2.3. A ZSŰRI DÖNTÉSE
+
+## 2.4. DÁTUM ÉS A BENYÚJTÓ ALÁÍRÁSA
+
+## 2.5. DÁTUM, PECSÉTNYOMAT, A ZSŰRI NEVÉBEN ALÁÍRÁS
 
 6. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez
 
@@ -30,7 +62,7 @@ Minden műfajban az 5 db A kategóriát elért tárgy, valamint
 
 8. Fazekas munka B 30 db
 
-9. Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád B 30 db
+9.[^17] Fonott és szőtt használati tárgyak: vessző, gyékény, csuhé, nád, szalma B 30 db
 
 10. Halászháló, kötél B 15 db
 
@@ -48,7 +80,7 @@ Minden műfajban az 5 db A kategóriát elért tárgy, valamint
 
 17. Kovács- és rézműves termékek B 30 db
 
-18. Lószerszámok, nyergek B 15 db (komplett felszerelés)
+18.[^18] Lószerszámok, nyergek B 15 db
 
 19. Mártott gyertya B 30 db
 
@@ -79,3 +111,6 @@ Minden műfajban az 5 db A kategóriát elért tárgy, valamint
 32. Viselet B 25 db
 
 33. Ajándéktárgyak Nem népi iparművész címre jogosító kategória
+
+[^17]: A 6. számú melléklet 9. pontja a 35/2011. (VI. 27.) NEFMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 6. melléklet 18. pontja a 35/2011. (VI. 27.) NEFMI rendelet 9. §-a szerint módosított szöveg.
