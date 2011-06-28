@@ -1,1 +1,0 @@
-## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Srí Lanka-i Demokratikus Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
