@@ -10,4 +10,4 @@
 
 (6) Az OIT-ot a javaslatok nem kötik. Az OIT a pályázókat meghallgathatja.
 
-(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha az OIT a pályázat elbírálója és az áthelyezésre is az OIT jogosult, határoz a bíró áthelyezéséről.
+(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha a pályázat elbírálója jogosult az áthelyezésre, határoz a bíró áthelyezéséről.
