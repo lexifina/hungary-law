@@ -1,0 +1,1 @@
+63/A. § A Kormánytisztviselők Napja július 1-je, amely az e törvény hatálya alá tartozó szerveknél – a munkaviszonyban állókra is kiterjedően – munkaszüneti nap. Az ügyfélszolgálati feladatok ellátásával összefüggő munkakört betöltők esetében a Kormánytisztviselők Napja nem minősül munkaszüneti napnak.
