@@ -1,0 +1,5 @@
+## 4. § Az R. 7. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A „Népi Iparművész”-nek minősített személyt a személyi azonosításra alkalmas hatósági igazolvánnyal (a továbbiakban: igazolvány) kell ellátni. Amennyiben a „Népi Iparművész”-nek minősített személy több, a 2. mellékletben meghatározott foglalkozási ágban nyerte el a „Népi Iparművész” minősítést, úgy erről az igazolványt foglalkozási áganként, külön-külön kell kiállítani.
+
+## (2) Az igazolvány a kiállítás napjától számított öt évre adható ki, hatályossága háromszor öt-öt évre meghosszabbítható. A meghosszabbítás feltétele a folyamatos magas szintű alkotói munka és az alkotások öt év alatt történő minősíttetése, amelynek során legalább két alkotást „A” kategóriába, négy alkotást pedig „B” kategóriába sorol a zsűri. Az igazolvány negyedik alkalommal történő meghosszabbítása esetén az igazolványt határozatlan időre kell kiadni. A meghosszabbítást a főigazgatónál kell kérelmezni. A meghosszabbításra javaslatot tevő szerv a Testület.”
