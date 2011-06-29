@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Németh Szilárd István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 1. B. 34.203/2011/4. számú megkeresésével érintett ügyben nem függeszti fel.
