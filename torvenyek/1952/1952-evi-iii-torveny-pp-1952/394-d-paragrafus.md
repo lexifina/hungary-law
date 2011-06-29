@@ -1,6 +1,6 @@
 ## Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2012. június 30-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2011. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2012. július 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2013. március 31-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2012. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. április 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (3) bekezdésben foglalt kivétellel – elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje.
 

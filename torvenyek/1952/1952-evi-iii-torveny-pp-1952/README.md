@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2011-01-07 | 2010. évi CLXXXIII. törvény | 1952-3-00-00.81 |
 | 2011-03-01 | 2010. évi CLXXXIII. törvény | 1952-3-00-00.82 |
 | 2011-04-01 | 2010. évi CXXXV. törvény | 1952-3-00-00.83 |
+| 2011-06-29 | 2011. évi LXVII. törvény | 1952-3-00-00.84 |
