@@ -1,3 +1,0 @@
-## 1. § A népi iparművészettel kapcsolatos állami feladatok végrehajtásáról szóló 12/2004. (V. 21.) NKÖM rendelet (a továbbiakban: R.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 1. mellékletében felsorolt alkotások népi iparművészeti alkotássá minősítését a 4. mellékletben meghatározott adattartalmú kérelemben a főigazgatónál kell kezdeményezni. A kérelemhez mellékelni kell a minősíttetni kívánt alkotást, vagy amennyiben annak a helyszínre történő szállítása és bemutatása jelentős nehézségbe ütközik, úgy a minősítendő alkotásról megfelelő minőségben elkészített fotódokumentációt. Indokolt esetben a Bizottság a helyszínen is megtekintheti az alkotást.”
