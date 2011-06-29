@@ -1,0 +1,1 @@
+6. § Ez a rendelet a kozmetikai termékekről szóló 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet 38. cikkének, valamint 39. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
