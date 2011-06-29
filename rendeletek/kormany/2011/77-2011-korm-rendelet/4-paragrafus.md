@@ -322,12 +322,13 @@
 
 (2) E rendelet 2–3. §-a a megállapodás 11. cikkének c) pontjában meghatározott időpontban lép hatályba.[^3]
 
-(3) A Megállapodás hatálybalépésével egyidejűleg hatályát veszti a Magyar Köztársaság Kormánya és a Srí Lanka-i Demokratikus Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről szóló 185/2007. (VII. 18.) Korm. rendelet.
+(3)[^4]
 
-(4) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+(4) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^5]
 
 (5) E rendelet végrehajtásához szükséges intézkedésekről a külgazdaságért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a megállapodás 11. cikkének c) pontjában meghatározott időpontban lép hatályba. A 25/2013. (VI. 12.) KÜM közlemény alapján a hatálybalépés időpontja 2011. június 28.
 [^3]: A 25/2013. (VI. 12.) KÜM közlemény alapján a hatálybalépés időpontja 2011. június 28.
-[^4]: Lásd a 25/2013. (VI. 12.) KÜM közleményt.
+[^4]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Lásd a 25/2013. (VI. 12.) KÜM közleményt.
