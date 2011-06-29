@@ -1,4 +1,4 @@
-5. § (1)[^18] A kozmetikai termék gyártója a termék címkéjén jelzett címen az illetékes hatóság számára könnyen hozzáférhető termékinformációs dokumentációban megőrzi:
+5. § (1)[^18] A kozmetikai termék gyártója vagy annak meghatalmazott képviselője, vagy az a személy, akinek megrendelésére a kozmetikai terméket gyártották, vagy aki importált kozmetikai terméknek a közösségi forgalomba hozataláért felelős, a termék címkéjén a 9. § (1) bekezdés b) pontjában jelzett címen az illetékes hatóság számára könnyen hozzáférhető termékinformációs dokumentációban megőrzi:
 
 a) a kozmetikai termék minőségi és mennyiségi összetételét, illat és illatkompozíció esetében nevét és kódszámát, a szállító azonosító adatait,
 
@@ -14,7 +14,7 @@ f) a kozmetikai termék használatának az emberi egészségre gyakorolt nem kí
 
 g) a kozmetikai termék ígért hatásainak igazolását, ahol azt a hatás, illetve a termék jellege indokolja,
 
-h)[^19] a termék, illetve összetevői kifejlesztésére vagy biztonságosságának értékelésére vonatkozóan a gyártó, illetve beszállítója által végzett állatkísérletekkel kapcsolatos adatokat, beleértve az Európai Gazdasági Térségen kívüli országok állatvédelmi előírásainak betartásával végzett bármilyen állatkísérletet.
+h)[^19] a termék, illetve összetevői kifejlesztésére vagy biztonságosságának értékelésére vonatkozóan a gyártó vagy annak meghatalmazott képviselője, illetve beszállítója által végzett állatkísérletekkel kapcsolatos adatokat, beleértve az Európai Gazdasági Térségen kívüli országok állatvédelmi előírásainak betartásával végzett bármilyen állatkísérletet.
 
 (2)[^20] Amennyiben ugyanazt a kozmetikai terméket az Európai Gazdasági Térség területén belül több helyen gyártják, a gyártó megjelölheti azt a gyártási helyet, ahol az (1) bekezdés d) pontjában meghatározott adatok rendelkezésre állnak, és erről értesíti az Országos Élelmezés- és Táplálkozástudományi Intézetet (a továbbiakban: OÉTI), mint nemzeti hatóságot.
 
@@ -36,8 +36,8 @@ c) a 4.1. veszélyességi osztály,
 
 d) az 5.1. veszélyességi osztály.
 
-[^18]: Az 5. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (1) bekezdésének h) pontja a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^18]: Az 5. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 33/2011. (VI. 21.) NEFMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdésének h) pontja a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése, a 33/2011. (VI. 21.) NEFMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^20]: Az 5. § (2) bekezdése a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-ának (5) bekezdése, a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése, a 3/2008. (I. 11.) EüM rendelet 4. § (8) bekezdésének a) pontja szerint módosított szöveg.
 [^21]: Az 5. § (4) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (2) bekezdésével megállapított és a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése szerint módosított szöveg.
 [^22]: Az 5. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 5. § (3) bekezdése iktatta be.

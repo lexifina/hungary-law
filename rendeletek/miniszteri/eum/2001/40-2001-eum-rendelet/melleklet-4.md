@@ -566,6 +566,6 @@
 
 | 57−62 |  |  |  |  |  |  |
 
-4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^90]
+4. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^93]
 
-[^90]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^93]: A 4. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (4) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 4. § (2) bekezdésének c) pontja, a 47/2007. (X. 31.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.

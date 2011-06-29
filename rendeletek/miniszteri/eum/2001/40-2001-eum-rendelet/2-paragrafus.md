@@ -6,7 +6,7 @@
 
 (4)[^9] Kozmetikai terméket tilos előállítani veszélyes anyag vagy keverék, illetve gyógyszer előállítására szolgáló üzemrészben.
 
-(5)[^10] Az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet VI. mellékletének 3. része alapján az 1A., 1B. és 2. kategóriába tartozó karcinogénnek, mutagénnek vagy reproduktív toxicitással rendelkezőnek minősített anyagok kozmetikai termékekben való felhasználása tilos.
+(5)[^10]
 
 (6)[^11] Tilos olyan kozmetikai terméket (ideértve a mintapéldányt is) forgalomba hozni, amelynek végső összetételét – az ismételt dózis toxicitással, a reproduktív toxicitással és a toxikokinetikával kapcsolatos vizsgálatok kivételével – az e rendelet követelményeinek való megfelelés érdekében, alternatív módszer európai közösségi szintű hivatalos elfogadását követően az alternatív módszertől eltérően állatkísérlet felhasználásával igazolták.
 
@@ -18,7 +18,7 @@
 [^7]: A 2. § (2) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (7) bekezdésének c) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (6) bekezdésének c) pontja szerint módosított szöveg.
 [^9]: A 2. § (4) bekezdése a 14/2010. (IV. 7.) EüM rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 2. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 2. § (2) bekezdése iktatta be, szövege a 16/2009. (V. 11.) EüM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2011. (VI. 21.) NEFMI rendelet 3. § (1) bekezdés a) pontja.
 [^11]: A 2. § (6) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^12]: A 2. § (7) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^13]: A 2. § (8) bekezdését a 48/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
