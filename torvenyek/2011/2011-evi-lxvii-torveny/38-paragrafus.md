@@ -1,0 +1,1 @@
+38. § Az alapítványok elektronikus nyilvántartásáról, valamint a nyilvántartásból történő adatszolgáltatásról szóló 2010. évi XVI. törvény 7. § (1) bekezdésében a „2011. július 1. napján” szövegrész a „2011. december 5. napján” szöveggel lép hatályba.

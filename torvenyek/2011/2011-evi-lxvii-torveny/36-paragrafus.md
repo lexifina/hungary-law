@@ -1,0 +1,1 @@
+36. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 6. § (5) bekezdésében és 7. § (5) bekezdésében a „2011. július 1-jétől” szövegrész helyébe a „2011. december 5-étől” szöveg lép.

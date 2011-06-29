@@ -1,0 +1,1 @@
+16. § A 11–15. §-ban foglalt rendelkezések szerint kell eljárni, ha a kérelemnek a megkeresett külföldi központi hatósághoz történő továbbítását követően válik szükségessé a kérelem teljesítése érdekében újabb irat vagy adat továbbítása.
