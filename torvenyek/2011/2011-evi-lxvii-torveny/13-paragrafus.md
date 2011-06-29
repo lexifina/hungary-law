@@ -1,1 +1,0 @@
-13. § A kérelem és mellékleteinek idegen nyelvre történő lefordíttatásáról a központi hatóság gondoskodik és felhívja a fordítás készítőjét, hogy a felmerült fordítási költségre vonatkozó iratokat közvetlenül a kérelmet felvevő bíróságnak küldje meg.

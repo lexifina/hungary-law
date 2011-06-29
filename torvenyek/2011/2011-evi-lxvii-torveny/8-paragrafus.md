@@ -1,1 +1,0 @@
-8. § A kérelmező részére engedélyezett költségmentesség a kérelemnek a megkeresett külföldi állam központi hatóságához történő továbbításáig, illetve ezt követően a kérelem teljesítése érdekében szükségessé váló újabb irat- vagy adattovábbítás tekintetében illeti meg a kérelmezőt.

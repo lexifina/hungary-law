@@ -1,1 +1,0 @@
-25. § Ha a tartásdíj önkéntes megfizetéséről határidőben nem érkezett nyilatkozat és igazolás, továbbá halasztási vagy részletfizetési kérelmet sem terjesztett elő a kötelezett, vagy ha a kérelmező ezek ellenére is fenntartja kérelmét, a központi hatóság a 22. § megfelelő alkalmazásával intézkedik a szükséges bírósági eljárás megindítása iránt.
