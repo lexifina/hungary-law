@@ -1,0 +1,144 @@
+# A Kormány 106/2011. (VI. 30.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 74. szám, 2011. június 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/82da21fea22507f96075b0cb3e4293d4b9f65462/dokumentumok/d3c824f8455f243b2d787d9241c755d4f90d60f0/letoltes)
+
+---
+
+A Kormány 106/2011. (VI. 30.) Korm. rendelete
+egyes egészségbiztosítási tárgyú kormányrendeletek táppénzzel kapcsolatos módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés k) pontjában kapott
+felhatalmazás alapján,
+a 7. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott
+felhatalmazás alapján,
+a 8–11. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés zs) pontjában
+kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló
+217/1997. (XII. 1.) Korm. rendelet módosítása
+1. §
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.)
+Korm. rendelet (a továbbiakban: Kr1.) 3. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az Ebtv. 20. § (4) bekezdése alapján a 3/A. § (10a) bekezdése szerinti beutalót – a miniszteri rendeletben
+meghatározott esetben – a keresőképtelen állományba vevő orvos vagy a felülvéleményező főorvos állíthatja ki.”
+2. §
+A Kr1. 3/A. §-a a következő (10a) bekezdéssel egészül ki:
+„(10a) Az Ebtv. 20. § (4) bekezdése szerinti esetben a beutalónak – a kötelező tartalmi elemein túl – tartalmaznia kell
+a) azt a tényt, hogy a beutaló orvos a biztosítottat a keresőképtelenségével összefüggő betegsége miatt soron kívül
+utalja be,
+b) azt, hogy a biztosított keresőképtelensége ugyanazon betegségből adódóan folyamatosan hány napja áll fenn,
+valamint
+c) a biztosított táppénzes naplószámát.”
+
+3. § A Kr1. a következő 12/C. §-sal egészül ki:
+„12/C. § A 3/A. § (10a) bekezdése szerinti beutaló kiállítása előtt a 3. § (8) bekezdése szerinti beutaló orvos az
+OEP 12/B. § szerinti nyilvántartásában közvetlenül elektronikus úton ellenőrzi, hogy a biztosított a beutaló kiállításakor
+táppénzre jogosultságot szerezhet-e.”
+4. § (1) A Kr1. 37. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Ha a foglalkoztatónál társadalombiztosítási kifizetőhely (a továbbiakban: kifizetőhely) nincs, a foglalkoztató
+a terhességi-gyermekágyi segélyre, a gyedre, a táppénzre, a baleseti táppénzre vonatkozó kérelem elbírálásához
+„Foglalkoztatói igazolás”-t állít ki, és azt a biztosított által benyújtott igazolásokkal együtt – gyermekgondozási díj
+iránti kérelem esetén ezzel a kérelemmel – öt napon belül a (2a) bekezdésben foglaltaknak megfelelően a székhelye
+(telephelye) szerint illetékes egészségbiztosítási pénztári szakigazgatási szervnek megküldi. A foglalkoztató a kérelem,
+illetve igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+(2) Az „Igénybejelentés táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, baleseti táppénz
+igényléséhez” elnevezésű nyomtatvány kiállítására kötelezett a (2a) bekezdésben foglaltaknak megfelelően
+nyújthatja be a pénzbeli ellátás iránti igényét a székhelye (telephelye) szerint illetékes egészségbiztosítási pénztári
+szakigazgatási szervhez.”
+(2) A Kr1. 37. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az Ebtv. 61. § (5) bekezdése szerinti kérelem kinyomtatva és aláírva személyesen vagy postai úton nyújtható be,
+vagy regisztrációt követően elektronikus úton – ügyfélkapun keresztül – küldhető meg az egészségbiztosítási pénztári
+szakigazgatási szervhez.”
+5. § A Kr1.
+a) 2. § (1) bekezdésében az „– a sürgősségi ellátást nem igénylő esetekben –” szövegrész helyébe az „– az Ebtv.
+20. § (4) bekezdésében meghatározott eset kivételével –” szöveg,
+b) 38. § (3) bekezdésében a „táppénz, baleseti táppénz” szövegrész helyébe a „baleseti táppénz” szöveg
+lép.
+6. § Hatályát veszti a Kr1.
+a) 31/A. §-ában az „– a biztosítási jogviszony megszűnése után megállapított vagy folyósított táppénz kivételével –”
+szövegrész,
+b) 31/D. § (6) bekezdése,
+c) 42. § (1) bekezdésében a „ , továbbá az Ebtv. 48/A. §-ban meghatározott esetben a keresőképtelenségi igazolás
+benyújtásával igényelt ellátás elbírálását követő öt napon belül” szövegrész.
+2. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes
+szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
+7. § (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr2.) 6/A. számú melléklete az 1. melléklet szerint módosul.
+(2) A Kr2. 20. számú melléklete a 2. melléklet szerint módosul.
+3. A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet
+módosítása
+8. § A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet (a továbbiakban:
+Kr3.) 2. §-a a következő g) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„g) keresőképtelenség miatti soron kívüli eset: az Ebtv. 20. § (4) bekezdése szerinti ellátás.”
+9. § A Kr3. 13/A. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A betegfogadási lista összeállításánál a (7) bekezdésben foglaltakon túl figyelembe kell venni a betegforgalmi
+adatok alapján a keresőképtelenség miatti soron kívüli esetek számát, azzal, hogy a keresőképtelenség miatti soron
+kívüli esetek ellátása nem veszélyeztetheti a nem keresőképtelen betegek folyamatos ellátását.”
+
+10. §
+A Kr3. 6. számú melléklete a 3. melléklet szerint módosul.
+11. §
+A Kr3. 13/B. § (1) bekezdésében a „valamint az azonnali ellátást igénylő esetekről” szövegrész helyébe az „az azonnali
+ellátást igénylő, valamint a keresőképtelenség miatti soron kívüli esetekről” szöveg lép.
+4. Záró rendelkezések
+12. §
+Ez a rendelet 2011. július 1-jén lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 106/2011. (VI. 30.) Korm. rendelethez
+A Kr2. 6/A. számú melléklet „Kitöltési útmutató” alcím „22. Az ellátás típusa” pontja a „9 – nappali ellátás” alpontot
+követően a „K = az Ebtv. 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli ellátás” alponttal egészül ki.
+2. melléklet a 106/2011. (VI. 30.) Korm. rendelethez
+1. A Kr2. 20. számú melléklete a „Továbbküldést indokoló diagnózis BNO kódja” sorát megelőzően a „Sürgősségi
+továbbküldés oka” sorral egészül ki.
+2. A Kr2. 20. számú melléklet „Kitöltési útmutató” alcím a „Továbbküldés iránya” pontját megelőzően a következő ponttal
+egészül ki:
+„Sürgősségi továbbküldés oka:
+0 = Nem sürgős továbbküldés
+1 = Keresőképtelenség miatti soron kívüli ellátás
+2 = Orvosszakmai indok alapján történő sürgős ellátás”
+
+3. melléklet a 106/2011. (VI. 30.) Korm. rendelethez
+A Kr3. 6. számú mellékletének a „Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási Pénztár részére”
+elnevezésű része helyébe a következő rész lép:
+„Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási Pénztár részére
+(Járóbeteg-ellátás esetén szakrendelésenként)
+A jelentés adattartalma a következő:
+Intézmény kódja
+Intézmény
+telephelye
+Szakrendelés
+(járó)
+Listára kerülés
+dátuma
+[éééé/hh/nn]
+Napi sorszám
+Azonnali (akut)
+beavatkozás (A)
+/Halasztható
+beavatkozás (H)
+/Keresőképtelen
+ség miatti
+beavatkozás (K)
+Esemény*
+Esemény
+dátuma
+[ééééhhnn]**
+* Események:
+Az adott hónap során
+ellátott betegek
+Ellátást a beteg megkapta a jelentő intézményben normál rend szerint NOR
+Ellátást a beteg megkapta a jelentő intézményben, de valamilyen
+szakmai ok vagy a keresőképtelenség miatti soron kívüliség miatt
+a listához képest előrehozva
+ELO
+Az adott hónap során nem
+ellátott betegek
+Halasztás szakmai okokból (ideiglenes alkalmatlanság) HSZ
+Halasztás kapacitáshiány miatt HKH
+Halasztás a beteg kérésére HBK
+A beteg nem jelent meg NJM
+Egyéb okból aktualitását vesztette EOA
+Nincs esemény (várakozás) NES
+** Esemény dátuma: Csak igénybevett ellátás estén kitöltendő.
+”
