@@ -1,3 +1,5 @@
-220. § (1)
+220. § (1) Hatályát veszti a Get. 3. § 9. és 71. pontja, 29. § (1) bekezdése, 35. § b)–c) pontja, 38. § (1)–(2) bekezdése, 66. § (7) bekezdése, 104. § (1) bekezdése, 114. § (1) bekezdés a) pontja, 133. § (1) bekezdés 7. pontja, 135. § (1) bekezdése, 140. § (1)–(3) és az (5)–(6) bekezdései, 141. § (8) bekezdése, 143. § (8) bekezdése, 145. § (1) és (3)–(4) bekezdései, 148-158. §-a.
 
 (2) Hatályát veszti a Get. 15. §-ában az „a rendszerirányítóval” szövegrész, 36. § (1) bekezdés e) pontjában az „a szolgáltatás díját, valamint” szövegrész, 113. § (3) bekezdésben az „az engedélyessel és a rendszerhasználókkal történő egyeztetés mellett, annak eredménytelensége esetén” szövegrész, valamint 125. § (10) bekezdésében az „a rendszerirányító és” szövegrész.
+
+(3) Hatályát veszti a Get. 37. §-a.
