@@ -1,4 +1,4 @@
-2. § (1) E törvény hatálybalépésével egyidejűleg az agrárpolitikáért felelős miniszter az agrárkamarai rendszer átalakítását felügyelő megbízottat (a továbbiakban: kamarai biztos) nevez ki. A kamarai biztos feladatait az agrárkamarai rendszer új szervezeti és működési feltételeit meghatározó törvény hatálybalépéséig, de legfeljebb 2011. június 30-ig látja el.
+2. § (1) E törvény hatálybalépésével egyidejűleg az agrárpolitikáért felelős miniszter az agrárkamarai rendszer átalakítását felügyelő megbízottat (a továbbiakban: kamarai biztos) nevez ki. A kamarai biztos feladatait az agrárkamarai rendszer új szervezeti és működési feltételeit meghatározó törvény alapján megalakuló országos kamara elnökének megválasztását követő nyolcadik napig látja el.
 
 (2) A kamarai biztos:
 
@@ -16,7 +16,7 @@ f) ellátja mindazokat a feladatokat, amelyeket az agrárpolitikáért felelős 
 
 (3) A kamarai biztos a (2) bekezdésben foglaltak szerinti feladatai ellátása érdekében:
 
-a) az agrárkamara kötelezettségvállalásával, valamint képviseletével kapcsolatos ügyben az agrárkamara képviseleti jogát magához vonhatja, vagy jognyilatkozat megtételét előzetes írásbeli hozzájárulásához kötheti;
+a) az agrárkamara elnöke, alelnöke, főtitkára valamint titkára továbbá az agrárkamara nevében jognyilatkozat tételre jogosult más személy képviseleti vagy döntéshozatali jogkörét írásban magához vonhatja, az agrárkamara bármely tisztségviselője, munkavállalója részére utasítást adhat, vagy jognyilatkozat megtételét előzetes írásbeli hozzájárulásához kötheti
 
 b) az agrárkamara részére feladatot határozhat meg;
 
