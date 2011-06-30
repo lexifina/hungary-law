@@ -1,0 +1,1 @@
+A Kormány a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. §-ában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, a következőket rendeli el:
