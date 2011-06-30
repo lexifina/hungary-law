@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-275-20-
 | 2009-12-12 | 2009-275-20-22.2 | 275/2009. (XII. 3.) Korm. rendelet |
 | 2010-07-02 | 2009-275-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-12-31 | 2009-275-20-22.4 | 372/2010. (XII. 31.) Korm. rendelet |
+| 2011-06-30 | 2009-275-20-22.5 | 108/2011. (VI. 30.) Korm. rendelet |
