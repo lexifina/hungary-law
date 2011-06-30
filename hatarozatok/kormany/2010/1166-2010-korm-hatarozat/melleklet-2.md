@@ -1,321 +1,231 @@
-## A Miniszterelnökség és a minisztériumok összlétszáma
+| 1. | Miniszterelnökség | 134 |
 
-|  | Megnevezés | Létszám (fő) |
+| 2. | Közigazgatási és Igazságügyi Minisztérium | 1087 |
 
-| 1. | Miniszterelnökség | 128 |
+| 3. | Vidékfejlesztési Minisztérium | 698 |
 
-| 2. | Közigazgatási és Igazságügyi Minisztérium | 1144 |
+| 4. | Honvédelmi Minisztérium | 523 |
 
-| 3. | Belügyminisztérium | 346 |
+| 5. | Belügyminisztérium | 354 |
 
-| 4. | Honvédelmi Minisztérium | 550 |
+| 6. | Nemzetgazdasági Minisztérium | 817 |
 
-| 5. | Külügyminisztérium | 690 |
+| 7. | Nemzeti Fejlesztési Minisztérium | 686 |
 
-| 6. | Nemzetgazdasági Minisztérium | 871 |
+| 8. | Külügyminisztérium | 659 |
 
-| 7. | Nemzeti Erőforrás Minisztérium | 906 |
+| 9. | Nemzeti Erőforrás Minisztérium | 861 |
 
-| 8. | Nemzeti Fejlesztési Minisztérium | 686 |
-
-| 9. | Vidékfejlesztési Minisztérium | 735 |
-
-| 10. | ÖSSZESEN: | 6056 |
+| 10. | ÖSSZESEN | 5819 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
-Igazgatási és igazgatási jellegű szervek létszáma
+| Sorszám | közigazgatási szerv | létszám (fő) |
 
-|  | Megnevezés | Létszám (fő) |
+| Közigazgatási és Igazságügyi Minisztérium |
 
-| 1. | Közigazgatási és Igazságügyi Minisztérium | 4 341 |
+| 1. | Központi Statisztikai Hivatal | 1393 |
 
-| 1.1. | Központi Statisztikai Hivatal | 1 393 |
+| 2. | Szellemi Tulajdon Nemzeti Hivatala | 231 |
 
-| 1.2. | Magyar Szabadalmi Hivatal | 229 |
+| 3. | Kormányzati Ellenőrzési Hivatal | 140 |
 
-| 1.3. | Kormányzati Ellenőrzési Hivatal | 120 |
+| 4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 739 |
 
-| 1.4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 796 |
+| 5. | Balassi Intézet | 280 |
 
-| 1.5. | Fővárosi, megyei közigazgatási hivatalok | 1 503, ebből 100 fő 2011. december 31-éig terjedő időre |
+| 6. | Egyenlő Bánásmód Hatóság | 20 |
 
-| 1.5.1. | Fővárosi, megyei szociális és gyámhivatalok | 290 |
+| 7. | Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata | 109 |
 
-| 1.6. | Balassi Intézet | 280 |
+| 8. | ECOSTAT Kormányzati Hatásvizsgálati Központ | 17 |
 
-| 1.7. | Egyenlő Bánásmód Hatóság | 20 |
+| 9. | Közpolitikai Kutatások Intézete | 35 |
 
-| 2. | Belügyminisztérium | 997 |
+| 10. | Nemzeti Közigazgatási Intézet | 91 |
 
-| 2.1. | Szervezett Bűnözés Elleni Koordinációs Központ | 16 |
+| 11. | Wekerle Sándor Alapkezelő | 346 |
 
-| 2.2. | Bevándorlási és Állampolgársági Hivatal | 981 |
+| 12. | Nemzeti Államigazgatási Központ | 318 |
 
-| 2.2.1. | Bevándorlási és Állampolgársági Hivatal | 922 |
+| 13. | Csongrád Megyei Kormányhivatal | 1050 |
 
-| 2.2.2. | Menekülteket Befogadó Állomás, Békéscsaba | 21 |
+| 14. | Komárom-Esztergom Megyei Kormányhivatal | 633 |
 
-| 2.2.3. | Menekülteket Befogadó Állomás, Bicske | 12 |
+| 15. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 1965 |
 
-| 2.2.4. | Menekülteket Befogadó Állomás, Debrecen | 26 |
+| 16. | Fejér Megyei Kormányhivatal | 1214 |
 
-| 3. | Külügyminisztérium | 1 184 |
+| 17. | Békés Megyei Kormányhivatal | 1332 |
 
-| 3.1. | Külképviseletek igazgatása | 1 164 |
+| 18. | Vas Megyei Kormányhivatal | 928 |
 
-| 3.2. | Magyar Külügyi Intézet | 20 |
+| 19. | Baranya Megyei Kormányhivatal | 1349 |
 
-| 4. | Nemzetgazdasági Minisztérium | 26 037 |
+| 20. | Heves Megyei Kormányhivatal | 752 |
 
-| 4.1. | Adó- és Pénzügyi Ellenőrzési Hivatal | 15 607 |
+| 21. | Somogy Megyei Kormányhivatal | 814 |
 
-| 4.1.1. |  |  |
+| 22. | Bács-Kiskun Megyei Kormányhivatal | 1146 |
 
-| 4.1.2. |  |  |
+| 23. | Veszprém Megyei Kormányhivatal | 910 |
 
-| 4.1.3. |  |  |
+| 24. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 833 |
 
-| 4.1.4. |  |  |
+| 25. | Budapest Főváros Kormányhivatala | 3554 |
 
-| 4.1.5. |  |  |
+| 26. | Hajdú-Bihar Megyei Kormányhivatal | 1179 |
 
-| 4.1.6. |  |  |
+| 27. | Zala Megyei Kormányhivatal | 722 |
 
-| 4.1.7. |  |  |
+| 28. | Nógrád Megyei Kormányhivatal | 530 |
 
-| 4.1.8. |  |  |
+| 29. | Győr-Moson-Sopron Megyei Kormányhivatal | 981 |
 
-| 4.1.9. |  |  |
+| 30. | Pest Megyei Kormányhivatal | 1291 |
 
-| 4.1.10. |  |  |
+| 31. | Tolna Megyei Kormányhivatal | 591 |
 
-| 4.1.11. |  |  |
+| 32. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 1662 |
 
-| 4.2. | Magyar Államkincstár | 4 244 |
+| Vidékfejlesztési Minisztérium |
 
-| 4.3. | Magyar Kereskedelmi Engedélyezési Hivatal | 486 |
+| 33. | Mezőgazdasági Szakigazgatási Hivatal | 1256 |
 
-| 4.4. | Nemzeti Innovációs Hivatal | 106 |
+| 34. | Földmérési és Távérzékelési Intézet | 235 |
 
-| 4.5. | Nemzeti Fogyasztóvédelmi Hatóság | 512 |
+| 35. | Mezőgazdasági és Vidékfejlesztési Hivatal | 1152 |
 
-| 4.6. | Foglalkoztatási és Szociális Hivatal | 313 |
+| 36. | Aggteleki Nemzeti Park Igazgatóság | 81 |
 
-| 4.7. | Munkaügyi Központok | 3 479 |
+| 37. | Balaton-felvidéki Nemzeti Park Igazgatóság | 71 |
 
-| 4.7.1. | Közép-magyarországi Regionális Munkaügyi Központ | 497 |
+| 38. | Bükki Nemzeti Park Igazgatóság | 83 |
 
-| 4.7.2. | Dél-dunántúli Regionális Munkaügyi Központ | 423 |
+| 39. | Duna-Dráva Nemzeti Park Igazgatóság | 68 |
 
-| 4.7.3. | Dél-alföldi Regionális Munkaügyi Központ | 527 |
+| 40. | Duna-Ipoly Nemzeti Park Igazgatóság | 71 |
 
-| 4.7.4. | Észak-magyarországi Regionális Munkaügyi Központ | 652 |
+| 41. | Fertő-Hanság Nemzeti Park Igazgatóság | 69 |
 
-| 4.7.5. | Észak-alföldi Regionális Munkaügyi Központ | 671 |
+| 42. | Őrségi Nemzeti Park Igazgatóság | 37 |
 
-| 4.7.6. | Közép-dunántúli Regionális Munkaügyi Központ | 397 |
+| 43. | Hortobágyi Nemzeti Park Igazgatóság | 101 |
 
-| 4.7.7. | Nyugat-dunántúli Regionális Munkaügyi Központ | 312 |
+| 44. | Kiskunsági Nemzeti Park Igazgatóság | 83 |
 
-| 4.8. | Országos Munkavédelmi és Munkaügyi Főfelügyelőség | 1 055 |
+| 45. | Körös-Maros Nemzeti Park Igazgatóság | 55 |
 
-| 4.9. | Európai Támogatásokat Auditáló Főigazgatóság | 80 |
+| 46. | Országos Környezetvédelmi Természetvédelmi és Vízügyi Főfelügyelőség | 100 |
 
-| 4.10. | Nemzeti Külgazdasági Hivatal | 155 |
+| 47. | Alsó-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 150 |
 
-| 5. | Nemzeti Erőforrás Minisztérium | 5 287 |
+| 48. | Dél-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 145 |
 
-| 5.1. |  |  |
+| 49. | Észak-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 151 |
 
-| 5.2. | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 50 |
+| 50. | Észak-magyarországi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 158 |
 
-| 5.3. | Állami Népegészségügyi és Tisztiorvosi Szolgálat és intézményei | 4 049 |
+| 51. | Felső-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 82 |
 
-| 5.4. | Országos Rehabilitációs és Szociális Szakértői Intézet | 551 |
+| 52. | Közép-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 199 |
 
-| 5.5. | Kulturális Örökségvédelmi Hivatal | 317 |
+| 53. | Közép-Duna-völgyi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 293 |
 
-| 5.6. | Oktatási Hivatal | 320 |
+| 54. | Közép-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 85 |
 
-| 6. | Nemzeti Fejlesztési Minisztérium | 2 996 |
+| 55. | Nyugat-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 80 |
 
-| 6.1. | Nemzeti Fejlesztési Ügynökség | 241 |
+| 56. | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 130 |
 
-| 6.2. | Közlekedésbiztonsági Szervezet | 57 |
+| 57. | Országos Meteorológiai Szolgálat | 228 |
 
-| 6.3. | Magyar Bányászati és Földtani Hivatal | 180 |
+| 58. | Nemzeti Földalapkezelő Szervezet | 145 |
 
-| 6.4. | Magyar Energia Hivatal | 126 |
+| Honvédelmi Minisztérium |
 
-| 6.5. | Nemzeti Hírközlési Hatóság | 460 |
+| 59. | Magyar Köztársaság Állandó NATO Képviselet, Védelempolitikai Részleg | 15 |
 
-| 6.6. | Nemzeti Közlekedési Hatóság | 1 861 |
+| 60. | Magyar Köztársaság Állandó EBESZ Képviselet, Katonai Képviselet | 4 |
 
-| 6.7. | Országos Atomenergia Hivatal | 85 |
+| 61. | HM Védelmi Hivatal | 46 |
 
-| 7. | Vidékfejlesztési Minisztérium | 12 663 |
+| 62. | HM Belső Ellenőrzési Hivatal | 38 |
 
-| 7.1. | Mezőgazdasági Szakigazgatási Hivatal | 4 909 |
+| 63. | HM Hatósági Hivatal | 42 |
 
-| 7.1.1. | Mezőgazdasági Szakigazgatási Hivatal Központ | 947 |
+| 64. | HM Nemzetközi Együttműködési és Fegyverzet-ellenőrzési Hivatal | 41 |
 
-| 7.1.2. | Baranya Megyei Szakigazgatási Hivatal | 213 |
+| 65. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 26 |
 
-| 7.1.3. | Bács-Kiskun Megyei Szakigazgatási Hivatal | 270 |
+| Belügyminisztérium |
 
-| 7.1.4. | Békés Megyei Szakigazgatási Hivatal | 234 |
+| 66. | Szervezett Bűnözés Elleni Koordinációs Központ | 16 |
 
-| 7.1.5. | Borsod-Abaúj-Zemplén Megyei Szakigazgatási Hivatal | 235 |
+| 67. | Bevándorlási és Állampolgársági Hivatal | 983 |
 
-| 7.1.6. | Csongrád Megyei Szakigazgatási Hivatal | 214 |
+| Nemzetgazdasági Minisztérium |
 
-| 7.1.7. | Fejér Megyei Szakigazgatási Hivatal | 223 |
+| 68. | Nemzeti Adó- és Vámhivatal | 23060 |
 
-| 7.1.8. | Győr-Moson-Sopron Megyei Szakigazgatási Hivatal | 170 |
+| 69. | Magyar Államkincstár | 4343 |
 
-| 7.1.9. | Hajdú-Bihar Megyei Szakigazgatási Hivatal | 295 |
+| 70. | Magyar Kereskedelmi Engedélyezési Hivatal | 287 |
 
-| 7.1.10. | Heves Megyei Szakigazgatási Hivatal | 172 |
+| 71. | Nemzeti Innovációs Hivatal | 106 |
 
-| 7.1.11. | Komárom-Esztergom Megyei Szakigazgatási Hivatal | 105 |
+| 72. | Nemzeti Fogyasztóvédelmi Hatóság | 155 |
 
-| 7.1.12. | Nógrád Megyei Szakigazgatási Hivatal | 96 |
+| 73. | Foglalkoztatási Hivatal | 215 |
 
-| 7.1.13. | Fővárosi és Pest Megyei Szakigazgatási Hivatal | 385 |
+| 74. | Országos Munkavédelmi és Munkaügyi Főfelügyelőség | 182 |
 
-| 7.1.14. | Somogy Megyei Szakigazgatási Hivatal | 199 |
+| 75. | Európai Támogatásokat Auditáló Főigazgatóság | 80 |
 
-| 7.1.15. | Szabolcs-Szatmár-Bereg Megyei Szakigazgatási Hivatal | 240 |
+| 76. | Nemzeti Külgazdasági Hivatal | 155 |
 
-| 7.1.16. | Jász-Nagykun-Szolnok Megyei Szakigazgatási Hivatal | 207 |
+| Nemzeti Fejlesztési Minisztérium |
 
-| 7.1.17. | Tolna Megyei Szakigazgatási Hivatal | 132 |
+| 77. | Magyar Energia Hivatal | 126 |
 
-| 7.1.18. | Vas Megyei Szakigazgatási Hivatal | 202 |
+| 78. | Országos Atomenergia Hivatal | 85 |
 
-| 7.1.19. | Veszprém Megyei Szakigazgatási Hivatal | 210 |
+| 79. | Nemzeti Fejlesztési Ügynökség | 241 |
 
-| 7.1.20. | Zala Megyei Szakigazgatási Hivatal | 160 |
+| 80. | Közlekedésbiztonsági Szervezet | 57 |
 
-| 7.2. | Földhivatalok, Földmérési és Távérzékelési Intézet | 4 112 |
+| 81. | Magyar Bányászati és Földtani Hivatal | 180 |
 
-| 7.2.1. | Földmérési és Távérzékelési Intézet | 189 |
+| 82. | Nemzeti Közlekedési Hatóság | 477 |
 
-| 7.2.2. | Baranya Megyei Földhivatal | 156 |
+| Külügyminisztérium |
 
-| 7.2.3. | Bács-Kiskun Megyei Földhivatal | 274 |
+| 83. | Külképviseletek igazgatása | 1197 |
 
-| 7.2.4. | Békés Megyei Földhivatal | 172 |
+| Nemzeti Erőforrás Minisztérium |
 
-| 7.2.5. | Borsod-Abaúj-Zemplén Megyei Földhivatal | 272 |
+| 84. | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 50 |
 
-| 7.2.6. | Csongrád Megyei Földhivatal | 177 |
+| 85. | ÁNTSz Országos Tisztifőorvosi Hivatal és országos intézetei | 1191 |
 
-| 7.2.7. | Fejér Megyei Földhivatal | 175 |
+| 86. | Nemzeti Rehabilitációs és Szociális Hivatal | 702 |
 
-| 7.2.8. | Fővárosi Földhivatal | 435 |
+| 87. | Kulturális Örökségvédelmi Hivatal | 169 |
 
-| 7.2.9. | Győr-Moson-Sopron Megyei Földhivatal | 161 |
+| 88. | Oktatási Hivatal | 205 |
 
-| 7.2.10. | Hajdú-Bihar Megyei Földhivatal | 209 |
+| 89. | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | 576 |
 
-| 7.2.11. | Heves Megyei Földhivatal | 126 |
+| Nyugdíjbiztosítási Alap |
 
-| 7.2.12. | Jász-Nagykun-Szolnok Megyei Földhivatal | 171 |
+| 90. | Országos Nyugdíjbiztosítási Főigazgatóság | 351 |
 
-| 7.2.13. | Komárom-Esztergom Megyei Szakigazgatási Földhivatal | 114 |
+| 91. | ONYF igazgatási szervei (Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság, Nyugdíjfolyósító Igazgatóság) | 1271 |
 
-| 7.2.14. | Nógrád Megyei Szakigazgatási Földhivatal | 102 |
+| Egészségbiztosítási Alap |
 
-| 7.2.15. | Pest Megyei Földhivatal | 452 |
+| 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 7.2.16. | Somogy Megyei Földhivatal | 158 |
+| 93. | ÖSSZESEN | 70729 |
 
-| 7.2.17. | Szabolcs-Szatmár-Bereg Megyei Földhivatal | 243 |
-
-| 7.2.18. | Tolna Megyei Földhivatal | 104 |
-
-| 7.2.19. | Vas Megyei Földhivatal | 116 |
-
-| 7.2.20. | Veszprém Megyei Földhivatal | 163 |
-
-| 7.2.21. | Zala Megyei Földhivatal | 143 |
-
-| 7.3. | Mezőgazdasági és Vidékfejlesztési Hivatal | 1 152 |
-
-| 7.4. | Nemzeti park igazgatóságok | 693 |
-
-| 7.4.1. | Aggteleki Nemzeti Park Igazgatóság | 81 |
-
-| 7.4.2. | Balatoni Nemzeti Park Igazgatóság | 71 |
-
-| 7.4.3. | Bükki Nemzeti Park Igazgatóság | 83 |
-
-| 7.4.4. | Duna-Dráva Nemzeti Park Igazgatóság | 68 |
-
-| 7.4.5. | Duna-Ipoly Nemzeti Park Igazgatóság | 71 |
-
-| 7.4.6. | Fertő-Hanság Nemzeti Park Igazgatóság | 53 |
-
-| 7.4.7. | Őrségi Nemzeti Park Igazgatóság | 37 |
-
-| 7.4.8. | Hortobágyi Nemzeti Park Igazgatóság | 101 |
-
-| 7.4.9. | Kiskunsági Nemzeti Park Igazgatóság | 73 |
-
-| 7.4.10. | Körös-Maros Nemzeti Park Igazgatóság | 55 |
-
-| 7.5. | Környezetvédelmi, természetvédelmi és vízügyi hatósági szervek | 1 573 |
-
-| 7.5.1. | Országos Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 100 |
-
-| 7.5.2. | Alsó-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 150 |
-
-| 7.5.3. | Dél-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 145 |
-
-| 7.5.4. | Észak-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 151 |
-
-| 7.5.5. | Észak-magyarországi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 158 |
-
-| 7.5.6. | Felső-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 82 |
-
-| 7.5.7. | Közép-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 199 |
-
-| 7.5.8. | Közép-Duna-völgyi Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 293 |
-
-| 7.5.9. | Közép-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 85 |
-
-| 7.5.10. | Nyugat-dunántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 80 |
-
-| 7.5.11. | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 130 |
-
-| 7.6. | Országos Meteorológiai Szolgálat | 224 |
-
-| 8. | Egészségbiztosítási Alap | 3 465 |
-
-| 8.1. | Országos Egészségbiztosítási Pénztár és területi igazgatási szervei | 3 465 |
-
-| 9. | Nyugdíjbiztosítási Alap | 3 987 |
-
-| 9.1. | Országos Nyugdíjbiztosítási Főigazgatóság | 295 |
-
-| 9.2. | Regionális Nyugdíjbiztosítási Igazgatóságok, Nyugdíjfolyósító Igazgatóság | 3 692 |
-
-| 10. | Honvédelmi Minisztérium | 199 |
-
-| 10.1. | Magyar Köztársaság Állandó NATO Képviselet, Védelempolitikai Részleg | 15 |
-
-| 10.2. | Magyar Köztársaság Állandó EBESZ Képviselet, Katonai Képviselet | 4 |
-
-| 10.3. | HM Védelmi Hivatal | 41 |
-
-| 10.4. | HM Központi Ellenőrzési és Hatósági Hivatal | 73 |
-
-| 10.5. | HM Nemzetközi Együttműködési Fegyverzet-ellenőrzési Hivatal | 41 |
-
-| 10.6. | HM Társadalmi Kapcsolatok és Hadisírgondozó Hivatal | 25 |
-
-| 11. | ÖSSZESEN: | 61 170 |
-
-[^2]: A 2. számú melléklet az 1216/2010. (X. 19.) Korm. határozat 3. pontja, az 1232/2010. (XI. 12.) Korm. határozat 2–6. pontja, az 1247/2010. (XI. 18.) Korm. határozat 4. pontja, az 1248/2010. (XI. 19.) Korm. határozat 4. pontja, az 1292/2010. (XII. 15.) Korm. határozat 2–3. pontja, az 1030/2011. (II. 22.) Korm. határozat 6–10. pontja, az 1103/2011. (IV. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított szöveg.
