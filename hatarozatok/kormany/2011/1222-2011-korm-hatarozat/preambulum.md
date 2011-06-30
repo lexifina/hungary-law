@@ -1,0 +1,1 @@
+A Kormány az útberuházások programjának hosszú távú meghatározása és a kapcsolódó gazdasági folyamatok tervezhetősége érdekében, a Nemzeti Együttműködési Programnak és az Új Széchenyi Tervnek megfelelően a következő határozatot hozza.
