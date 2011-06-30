@@ -1,5 +1,0 @@
-A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E. §-a, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 2. §-a, az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 144. § (2) bekezdése, valamint a Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat 1. pontja alapján meghozza az alábbi határozatát:
-
-1. A Magyar Nemzeti Üdülési Alapítvány közhasznú nonprofit gazdasági társasággá történő átalakításáról szóló 1142/2011. (V. 12.) Korm. határozat 2. pont a)–b) és c) alpontjaiban, 3. pont a) és b) alpontjaiban, valamint 4. pontjában a „Magyar Nemzeti Üdülési Közhasznú Nonprofit Kft.” szövegrészek helyébe a „Magyar Nemzeti Üdülési Közhasznú Nonprofit Zrt.” szöveg lép.
-
-2. Ez a határozat a közzétételét követő napon lép hatályba és a hatálybalépését követő napon hatályát veszti.
