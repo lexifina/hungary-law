@@ -1,3 +1,5 @@
-## 12. § A rendelet alkalmazásában talajvédelmi tervnek kell tekinteni a talajtani szakvélemyény készítésének részletes szabályairól szóló 29/2006. (IV. 10.) FVM rendelet alapján elkészült talajtani szakvéleményt.
+## 12. §[^61]
 
 ## Az Európai Unió jogának való megfelelés
+
+[^61]: A 12. §-t az 59/2011. (VI. 29.) VM rendelet 9. § e) pontja hatályon kívül helyezte.

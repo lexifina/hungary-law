@@ -1,631 +1,503 @@
 ## Értékelés
 
-## A vízrendezés kollektív beruházásai, vízkárelhárítás, belvízrendezés
+## 1. A vízrendezés kollektív beruházásai, vízkárelhárítás, belvízrendezés
 
-| Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
+|  | A. | B. | C. |
 
-| Szakmai szempontok |
+| 1. | Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
 
-| Vonalas létesítmények* |
+| 2. | Szakmai szempontok |
 
-| Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
+| 3. | Vonalas létesítmények* |
 
-| Mezőgazdasági termelés biztonságának emelése, vizek és vizes élőhelyek ökológiai állapotának megőrzése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 2 |
+| 4. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
 
-| Kapcsolódás vízvisszatartó, víztározó létesítményekhez | Terv alapján | 3 |
+| 5. | Mezőgazdasági termelés biztonságának emelése, vizek és vizes élőhelyek ökológiai állapotának megőrzése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 2 |
 
-| A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 10 |
+| 6. | Kapcsolódás vízvisszatartó, víztározó létesítményekhez | Engedélyezési terv vagy műszaki leírás és tervdokumentáció alapján | 3 |
 
-| Tározók* |
+| 7. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 10 |
 
-| Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
+| 8. | Tározók** |
 
-| Többcélú hasznosítás | Terv alapján | 2 |
+| 9. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
 
-| Belvízkár (belvíztározó), helyi vízkár (záportározó) elhárító hatás. A felszín alatti vízkészletet igénybe nem vevő fejlesztés. | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 3 |
+| 10. | A tározó öntözési célú hasznosításra is alkalmas | Engedélyezési terv vagy műszaki leírás és tervdokumentáció alapján | 2 |
 
-| A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 10 |
+| 11. | Belvízkár (belvíztározó), helyi vízkár (záportározó) elhárító hatás. | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 3 |
 
-| Összesen: |  | max. 20 |
+| 12. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 10 |
 
-| Horizontális szempontok |
+| 13. | Összesen: |  | max. 20 |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámának szinten tartása (legalább 1 fő) |  | 3 |
+| 14. | Horizontális szempontok |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | Igényelt támogatás összege/új munkahelyek száma |  |
+| 15. | A támogatási kérelem benyújtását megelőző 12 hónapban foglalkoztatottak átlaglétszámának szinten tartása (legalább 1 fő) | Főlap | 10 |
 
-|  | 0–25 000 000 Ft/új munkahely | 11 |
+| A támogatási kérelem benyújtását megelőző 12 hónap átlaglétszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | 1 új munkahely Főlap | 14 |
 
-|  | 25 000 001–50 000 000 Ft/új munkahely | 10 |
+| 2 vagy több új munkahely | 17 |
 
-|  | 50 000 001–75 000 000 Ft/új munkahely | 9 |
+| 16. | Az megvalósítás helye a Vhr. szerinti hátrányos helyzetű területen van |  | 5 |
 
-|  | 75 000 001–100 000 000 Ft/új munkahely | 8 |
+| 17. | Összesen: |  | max. 22 |
 
-|  | 100 000 001–125 000 000 Ft/új munkahely | 7 |
+| 18. | Egyéb szempontok |
 
-|  | 125 000 001–150 000 000 Ft/új munkahely | 6 |
+| 19. | Ha az ügyfél nem természetes személy |
 
-|  | 150 000 001–175 000 000 Ft/új munkahely | 4 |
+| 20. | Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata | Az eredeti nyilatkozat vagy hiteles másolata | 1 |
 
-|  | 175 000 001 Ft/új munkahely felett | 2 |
+| 21. | Nők foglalkoztatása | Főlap |  |
 
-| Az ügyfél részt vesz az agrár-környezetgazdálkodási programban (a 2009. évi kérelembenyújtási időszakban támogatási kérelmet nyújtott be.) |  | 2 |
+| 22. |  | A foglalkoztatottak számának több, mint 50%-a nő | 5 |
 
-| A megvalósítás helye |  |  |
+| 23. |  | A foglalkoztatottak számának 20–50%-a nő | 2 |
 
-|  | hátrányos helyzetű térségben van | 6 |
+| 24. |  | A foglalkoztatottak számának kevesebb, mint 20%-a nő, de legalább 1 fő | 1 |
 
-| Pénzügyi terv önkormányzat esetén | Bázis évre vonatkozóan |  |
+| 25. | Csökkent munkaképességű foglalkoztatása | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 2 |
 
-|  | Felhalmozási kiadások | 3 |
+| 26. | Ha az ügyfél természetes személy |  |
 
-|  | Saját bevételek aránya | 3 |
+| 27. | Az ügyfél nő | Főlap | 4 |
 
-|  | Pénzügyi stabilitás (működési bevételek fedezik-e a működési kiadásokat) | 3 |
+| 28. | Az ügyfél roma származású | Főlap | 1 |
 
-|  | Beruházás befejezését követő első évre vonatkozóan |  |
+| 29. | Az ügyfél csökkent munkaképességű | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 3 |
 
-|  | Felhalmozási kiadások | 2 |
+| 30. | Összesen: |  | max. 8 |
 
-|  | Saját bevételek aránya | 2 |
+| 31. | Pénzügyi terv önkormányzat, vízgazdálkodási társulat, mezőgazdasági termelő esetén összesen |  | max. 20 pont |
 
-|  | Pénzügyi stabilitás (működési bevételek fedezik-e a működési kiadásokat) | 2 |
+| 32. | Üzleti terv vagy Működtetési terv |  | max. 30 pont |
 
-| Üzemeltetési vizsgálat | Az önkormányzat területén a belvízzel veszélyeztetett területek aránya a bázis évhez képest a beruházást követő első gazdasági évre hány százalékkal csökken. 10 százalékpontonkénti csökkenésre 1 pont adható, de maximum 5 pont. | 5 |
+| 33. | Mindösszesen: |  | max. 100 |
 
-| Összesen: |  | 20 |
+| 34. |  | Kommunikációs terv | (+)1 |
 
-| Pénzügyi terv vízgazdálkodási társulat esetén |  |  |
+| 35. |  | Társadalmi felelősségvállalás | (+)1 |
 
-| Pénzügyi terv koherenciájának vizsgálata | Saját tőke változása | 3 |
+## 2. Öntözés mezőgazdasági üzemi és közösségi létesítményeinek fejlesztése
 
-|  | Befektetett eszközök változása | 2 |
+| 36. | A. | B. | C. |
 
-| Az ügyfél értékelése | Likviditás | 2 |
+| 37. | Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
 
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 2 |
+| 38. | Szakmai szempontok |
 
-|  | A kivetett és befolyt érdekeltségi hozzájárulások aránya | 3 |
+| 39. | Öntözés üzemi létesítményei* |
 
-| Terv adatok értékelés | Likviditás | 2 |
+| 40. | Az öntözött terület kisebb vagy egyenlő 20 ha-nál | Műszaki leírás és tervdokumentáció | 5 |
 
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 1 |
+| 41. | Alacsony nyomású – a szórófejnél kisebb, mint 4 bar nyomású –, kis és közepes intenzitású, esőztető, valamint mikroöntöző berendezések alkalmazása. | Műszaki leírás és tervdokumentáció, engedélyezési terv | Igen: 5 Nem: 0 |
 
-| Üzemeltetési vizsgálat | A beruházással érintett mű vízgyűjtő területén a belvízzel veszélyeztetett területek aránya a bázis évhez képest a beruházást követő első gazdasági évre hány százalékkal csökken. 10 százalékpontonkénti csökkenésre 1 pont adható, de maximum 5 pont. | 5 |
+| 42. | A beruházás vízvisszatartó tározó építését is tartalmazza | Műszaki leírás és tervdokumentáció vagy Vízjogi engedély alapján | 3 |
 
-| Összesen: |  | 20 |
+| 43. | Meglévő öntöző-vízszolgáltató mű kihasználtságának fokozása | Műszaki leírás és tervdokumentáció vagy Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 2 |
 
-| Ha az ügyfél nem természetes személy |  |  |
+| 44. | A fejlesztés kizárólag felszíni vízkészletre támaszkodik. | Vízjogi engedély alapján | 3 |
 
-| Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata |  | 3 |
+| 45. | A beruházás közösségi öntözővízszolgáltató műből nyeri az öntözővizet | Vízjogi engedély alapján | 2 |
 
-| Nők foglalkoztatása |  |  |
+| 46. | Öntözés közösségi létesítményei** |
 
-|  | A foglalkoztatottak számának több, mint 50%-a nő | 3 |
+| 47. | Meglévő öntöző-vízszolgáltató mű kihasználtságának fokozása | Műszaki leírás és tervdokumentáció vagy Vízjogi engedély alapján | 10 |
 
-|  | A foglalkoztatottak számának 20–50%-a nő | 2 |
+| 48. | Új öntözővízszolgáltató mű | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | 5 |
 
-|  | A foglalkoztatottak számának kevesebb, mint 20%-a nő | 1 |
+| 49. | A kiszolgálni tervezett öntözésre berendezett terület nagysága | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | Nagyobb, vagy egyenlő mint 50, akkor 5 pont ha kisebb mint 50 ha: 0 pont |
 
-| Csökkent munkaképességű foglalkoztatása |  | 2 |
+| 50. | Összesen: |  | max. 20 |
 
-| Összesen: |  | 70 |
+| 51. | Horizontális szempontok |
 
-| Működtetési terv |
+| 52. | A támogatási kérelem benyújtását megelőző 12 hónapban foglalkoztatottak átlaglétszámának szinten tartása (legalább 1 fő) | Főlap | 10 |
 
-| 15 millió forint vagy azt meghaladó támogatási igényű kérelem esetén kötelező benyújtani |
+|  | A támogatási kérelem benyújtását megelőző 12 hónap átlaglétszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | 1 új munkahely Főlap | 14 |
 
-| Működtetési terv | Fejlesztés összefoglaló | 2 |
+| 2 vagy több új munkahely | 17 |
 
-|  | Helyzetelemzés | 5 |
+| 53. | A megvalósítás helye a Vhr. szerinti hátrányos helyzetű területen van |  | 5 |
 
-|  | Fejlesztés bemutatása | 10 |
+| 54. | Összesen: |  | max. 22 |
 
-|  | Fejlesztés várható hatásai | 4 |
+| 55. | Egyéb szempontok |
 
-|  | Pénzügyi fenntarthatóság | 3 |
+| 56. | Ha az ügyfél nem természetes személy |
 
-|  | Kockázatelemzés | 6 |
+| 57. | Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata | Az eredeti nyilatkozat vagy hiteles másolata | 1 |
 
-| Összesen: |  | max. 30 |
+| 58. | Nők foglalkoztatása | Főlap |  |
 
-| Mindösszesen: |  | max. 100 |
+| 59. |  | A foglalkoztatottak számának több, mint 50%-a nő | 5 |
 
-|  | Kommunikációs terv | (+)5 |
+| 60. |  | A foglalkoztatottak számának 20–50%-a nő | 2 |
 
-|  | Társadalmi felelősségvállalás | (+)5 |
+| 61. |  | A foglalkoztatottak számának kevesebb, mint 20%-a nő, de legalább 1 fő | 1 |
 
-## Öntözés mezőgazdasági üzemi és közösségi létesítményeinek fejlesztése
+| 62. | Csökkent munkaképességű foglalkoztatása | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 2 |
 
-| Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
+| 63. | Ha az ügyfél természetes személy |  |
 
-| Szakmai szempontok |
+| 64. | Az ügyfél nő | Főlap | 4 |
 
-| Öntözés üzemi létesítményei |
+| 65. | Az ügyfél roma származású | Főlap | 1 |
 
-| Alacsony nyomású – a szórófejnél kisebb mint 4 bar nyomású –, kis és közepes intenzitású, esőztető, valamint mikroöntöző berendezések alkalmazása. | Műszaki paraméterek alapján | Igen: 10 Nem: 0 |
+| 66. | Az ügyfél csökkent munkaképességű | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 3 |
 
-| A fejlesztés kizárólag felszíni vízkészletre támaszkodik. | Vízjogi engedély alapján | 5 |
+| 67. | Összesen: |  | max. 8 |
 
-| A beruházás közösségi öntözővízszolgáltató műből nyeri az öntözővizet | Vízjogi engedély alapján | 5 |
+| 68. | Pénzügyi terv mezőgazdasági termelő, termelői csoport, zöldség-gyümölcs termelői csoport, nonprofit gazdasági társaság, vízgazdálkodási társulat esetén összesen |  | max. 20 pont |
 
-| Öntözés közösségi létesítményei |
+| 69. | Üzleti terv vagy Működtetési terv |  | max. 30 pont |
 
-| Meglévő öntöző-vízszolgáltató mű kihasználtságának fokozása | Vízjogi engedély alapján | 5 |
+| 70. | Mindösszesen: |  | max. 100 |
 
-| Új öntözővízszolgáltató mű | Terv alapján | 5 |
+| 71. |  | Kommunikációs terv | (+)1 |
 
-| A kiszolgálni tervezett öntözésre berendezett terület nagysága | Terv alapján | Nagyobb vagy egyenlő mint 50 ha: 10 Kisebb mint 50 ha: 0 |
+| 72. |  | Társadalmi felelősségvállalás | (+)1 |
 
-| Összesen: |  | max. 20 |
+## 3. Melioráció mezőgazdasági üzemi és közösségi létesítményeinek fejlesztése
 
-| Horizontális szempontok |
+| 73. | A. | B. | C. |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámának szinten tartása (legalább 1 fő) |  | 3 |
+| 74. | Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | Igényelt támogatás összege/új munkahelyek száma |  |
+| 75. | Szakmai szempontok |
 
-|  | 0–25 000 000 Ft/új munkahely | 11 |
+| 76. | Üzemi melioráció* |
 
-|  | 25 000 001–50 000 000 Ft/új munkahely | 10 |
+| 77. | Az ügyfél komplex meliorációt valósít meg. (Legalább a vízrendezés és területrendezés elemeiből egyaránt tervez beavatkozást) | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | Igen: 5 Nem: 0 |
 
-|  | 50 000 001–75 000 000 Ft/új munkahely | 9 |
+| 78. | Talajvédelmi funkciója van | MgSZH szakvéleménye alapján | 5 |
 
-|  | 75 000 001–100 000 000 Ft/új munkahely | 8 |
+| 79. | Talaj-vízháztartást javító funkciója van | MgSZH szakvéleménye alapján | 5 |
 
-|  | 100 000 001–125 000 000 Ft/új munkahely | 7 |
+| 80. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 5 |
 
-|  | 125 000 001–150 000 000 Ft/új munkahely | 6 |
+| 81. | Közösségi létesítmények** |
 
-|  | 150 000 001–175 000 000 Ft/új munkahely | 4 |
+| 82. | Kapcsolódik védett területek vízellátásához | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | Igen: 5 Nem: 0 |
 
-|  | 175 000 001 Ft/új munkahely felett | 2 |
+| 83. | Vízvisszatartó, tározó létesítményeket tartalmaz | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | 5 |
 
-| Az ügyfél részt vesz az agrár-környezetgazdálkodási programban (a 2009.évi kérelem-benyújtási időszakban támogatási kérelmet nyújtott be.) |  | 2 |
+| 84. | Belvízkárt, helyi vízkárt elhárító hatása van | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | 5 |
 
-| A megvalósítás helye |  |  |
+| 85. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 5 |
 
-|  | hátrányos helyzetű térségben van | 6 |
+| 86. | Összesen: |  | max. 20 |
 
-| Pénzügyi terv mezőgazdasági termelő esetén |  |  |
+| 87. | Horizontális szempontok |
 
-| A vállalkozás pénzügyi tervének koherenciája |  |  |
+| 88. | A támogatási kérelem benyújtását megelőző 12 hónapban foglalkoztatottak átlaglétszámának szinten tartása (legalább 1 fő) | Főlap | 10 |
 
-|  | Befektetett eszközök változása | 1 |
+| A támogatási kérelem benyújtását megelőző 12 hónap átlaglétszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | 1 új munkahely Főlap | 14 |
 
-|  | Saját tőke változása a beruházás időtartama alatt | 1 |
+| 2 vagy több új munkahely | 17 |
 
-|  | Értékcsökkenés változása | 2 |
+| 89. | A megvalósítás helye a Vhr. szerinti hátrányos helyzetű területen van |  | 5 |
 
-|  | Saját tőke változása a működtetési időszak alatt | 2 |
+| 90. | Összesen: |  | max. 22 |
 
-| Vállalatértékelés | A vállalkozás pénzügyi táblájában feltüntetett bázis adatainak összevetése referencia adatokkal |  |
+| 91. | Egyéb szempontok |
 
-|  | Termelési érték | 2 |
+| 92. | Ha az ügyfél nem természetes személy |  |  |
 
-|  | Adózás előtti eredmény | 2 |
+| 93. | Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata | Az eredeti nyilatkozat vagy hiteles másolata | 1 |
 
-|  | Termelési értékarányos jövedelmezőség | 2 |
+| 94. | Nők foglalkoztatása | Főlap |  |
 
-| Pénzügyi terv valóságtartalom vizsgálata | Pénzügyi tábla adatainak összevetése referencia adatokkal a működtetés alatt |  |
+| 95. |  | A foglalkoztatottak számának több, mint 50%-a nő | 5 |
 
-|  | Termelési érték | 1 |
+| 96. |  | A foglalkoztatottak számának 20-50%-a nő | 2 |
 
-|  | Adózás előtti eredmény | 1 |
+| 97. |  | A foglalkoztatottak számának kevesebb, mint 20%-a nő, de legalább 1 fő | 1 |
 
-|  | Termelési értékarányos jövedelmezőség | 1 |
+| 98. | Csökkent munkaképességű foglalkoztatása | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 2 |
 
-| Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Az üzem által a bázis évhez képest a határozatot követő 4. évre vállalt mezőgazdasági terület nő, akkor 5 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 |
+| 99. | Ha az ügyfél természetes személy |  |
 
-| Összesen: |  | 20 |
+| 100. | Az ügyfél nő | Főlap | 4 |
 
-| Pénzügyi terv termelői csoport zöldség-gyümölcs termelői csoport esetén |  |  |
+| 101. | Az ügyfél roma származású | Főlap | 1 |
 
-| A vállalkozás pénzügyi tervének koherenciája | Befektetett eszközök változása | 2 |
+| 102. | Az ügyfél csökkent munkaképességű | Főlap és a 177/2005. (IX. 2.) Korm. rendelet 2. § (1) bekezdés e) pontjában foglaltak vonatkozásában kiállított eredeti szakvélemény, eredeti igazolás vagy hiteles másolata. | 3 |
 
-|  | Saját tőke változása a beruházás időtartama alatt | 2 |
+| 103. | Összesen: |  | max. 8 |
 
-|  | Értékcsökkenés változása | 2 |
+| 104. | Pénzügyi terv termelői csoport, zöldség-gyümölcs termelői csoport, nonprofit gazdasági társaság esetén |  | max. 20 pont |
 
-|  | Saját tőke változása a működtetési időszak alatt | 2 |
+| 105. | Üzleti terv vagy Működtetési terv |  | max. 30 pont |
 
-| Vállalatértékelés | A vállalkozás bázis évében az egy tagra jutó árbevétel értéke meghaladja a 8 millió forintot akkor 2 pont, ha a 12 millió forintot akkor 3 pont, ha a 16 millió forintot, akkor 4 pont. Induló TCS esetében a számítást a pályázat és az azt követő 2 év terv adatai alapján kell elvégezni. | 6 |
+| 106. | Mindösszesen: |  | max. 100 |
 
-| Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Ha vállalkozás 1 tagra jutó árbevétele a 4. évre nézve benyújtás évéhez képest több, mint 10%-kal bővül, akkor 1 pont, ha több, mint 20%-kal, akkor 2 pont. Induló TCS esetében, ha eléri az egy tagra jutó árbevétel a 8,8 millió forintot akkor 1 pont, ha a 9,6 millió forintot, akkor 2 pont. | 2 |
+| 107. |  | Kommunikációs terv | (+)1 |
 
-|  | Ha pályázó benyújtást követő 3 évben realizált árbevétele, a benyújtás évében tervezett (bázis év) árbevételéhez képest a növekmények értéke eléri a támogatás 1,2 szeresét, akkor 2 pont, ha az 1,4-szeresét, akkor 4 pont. | 4 |
+| 108. |  | Társadalmi felelősségvállalás | (+)1 |
 
-| Összesen: |  | 20 |
+## Az egy és kettő csillaggal (*, **) jelzett értékelési szempontok együttes megvalósulása esetén a magasabb pontszámot kell figyelembe venni.
 
-| Pénzügyi terv nonprofit gazdasági társaság, vízgazdálkodási társulat esetén |  |  |
+## Pénzügyi terv pontozása
 
-| Pénzügyi terv koherenciájának vizsgálata | Saját tőke változása | 3 |
+| 1. | Pénzügyi terv önkormányzat esetén |
 
-|  | Befektetett eszközök változása | 2 |
+| 2. | Saját bevételek aránya | A bázisévben* a saját bevételek aránya az összes bevételhez képest 20% feletti | 6 |
 
-| Az ügyfél értékelése | Likviditás | 2 |
+| Ha 15,01% és 20 % között van | 3 |
 
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 2 |
+| Ha 10% és 15% között van | 1 |
 
-|  | A kivetett és befolyt érdekeltségi hozzájárulások aránya | 3 |
+| Ha 10% alatti | 0 |
 
-| Terv adatok értékelés | Likviditás | 2 |
+| 3. | Felhalmozási kiadások | Bázisévben* a felhalmozási kiadások aránya az összes kiadáshoz képest 13% feletti | 6 |
 
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 1 |
+| ha 9,01% és 13% között van | 3 |
 
-|  | A beruházással érintett mű területén a bázis évhez képest a beruházást követő első évre az öntözhető területek aránya nő, akkor 5 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 |
+| ha 5% és 9% között van | 1 |
 
-| Összesen: |  | 20 |
+| ha 5% alatti | 0 |
 
-| Ha az ügyfél nem természetes személy |  |  |
+| 4. | Üzemeltetési vizsgálat | Az önkormányzat területén a belvízzel veszélyeztetett területek aránya a bázisévhez* képest a támogatási határozat kézhezvételét követő harmadik évben hány százalékkal csökken. | max.: 6 |
 
-| Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata |  | 3 |
+| 10 százalékpontonkénti csökkenésre 1 pont adható, de maximum 6 pont. |
 
-| Nők foglalkoztatása |  |  |
+| 5. | Pénzügyi stabilitás | Pénzügyi stabilitás: (költségvetési hozzájárulások fedezik-e a működési költségeket) | 2 |
 
-|  | A foglalkoztatottak számának több, mint 50%-a nő | 3 |
+| Amennyiben a bázisévben* a költségvetési hozzájárulások fedezik a működési költségek 100%-át |  |
 
-|  | A foglalkoztatottak számának 20–50%-a nő | 2 |
+| 6. | Összesen: |  | max. 20 |
 
-|  | A foglalkoztatottak számának kevesebb, mint 20%-a nő | 1 |
+| 1. | Pénzügyi terv vízgazdálkodási társulat esetén |
 
-| Csökkent munkaképességű foglalkoztatása |  | 2 |
+| 2. | A befektetett eszközök változása | A befektetett eszközök változása: |  |
 
-| Ha az ügyfél természetes személy |  |  |
+| – A bázisévhez* viszonyítva a befektetett eszközök változása a támogatási határozat kézhezvételét követő harmadik évben eléri a beruházás 110%-át | 4 |
 
-| Az ügyfél nő |  | 3 |
+| Ha eléri a 100%-át, de kevesebb, mint 110%, akkor | 2 |
 
-| Az ügyfél roma származású |  | 3 |
+| Ha eléri a 90%-át, de kisebb, mint 100%, akkor | 1 |
 
-| Az ügyfél csökkent munkaképességű |  | 2 |
+| Ha 90% alatti, akkor | 0 |
 
-| Összesen: |  | 70 |
+| 3. | Az ügyfél értékelése | Likviditás: |  |
 
-| Üzleti terv vagy Működtetési terv |
+| Amennyiben a likviditási mutató (Forgóeszközök/rövidlejáratú kötelezettségek) értéke a bázisévben* nagyobb, mint 1,5 | 2 |
 
-| 15 millió forint vagy azt meghaladó támogatási igényű kérelem esetén kötelező benyújtani |
+| ha nagyobb, mint 1,2, de kisebb vagy egyenlő, mint 1,5 | 1 |
 
-| Üzleti terv | Vezetői összefoglaló | 1 |
+| 4. | Pénzügyi stabilitás | Pénzügyi stabilitás: (költségvetési hozzájárulások fedezik-e a működési költségeket) Amennyiben a bázisévben* a költségvetési hozzájárulások fedezik a működési költségek 100%-át | 1 |
 
-|  | Ügyfél bemutatása | 3 |
+| 5. | Terv adatok értékelés | Amennyiben a likviditási mutató (Forgóeszközök/rövidlejáratú kötelezettségek) értéke a támogatási határozat kézhezvételét követő 3. évben nagyobb, mint 1,5 | 2 |
 
-|  | Piacelemzés és értékesítés | 4 |
+| ha nagyobb, mint 1,2, de kisebb vagy egyenlő, mint 1,5 | 1 |
 
-|  | Működési terv | 8 |
+| 6. | Pénzügyi stabilitás | Pénzügyi stabilitás: (költségvetési hozzájárulások fedezik-e a működési költségeket). Amennyiben a támogatási határozat kézhezvételét követő 3. évben a költségvetési hozzájárulások fedezik a működési költségek 100%-át | 1 |
 
-|  | Szervezet, emberi erőforrások | 1 |
+| 7. | Üzemeltetési vizsgálat | A beruházással érintett mű vízgyűjtő területén a belvízzel veszélyeztetett területek aránya a támogatási határozat kézhezvételét követő harmadik évben hány százalékkal csökken. 10 százalékpontonkénti csökkenésre 2 pont adható, de maximum 8 pont | 8 |
 
-|  | Fejlesztés bemutatása | 13 |
+| 8. | Összesen: |  | max. 20 |
 
-| Összesen: |  | max. 30 |
+| 1. | Pénzügyi terv termelői csoport, zöldség-gyümölcs termelői csoport esetén |
 
-| Működtetési terv | Fejlesztés összefoglaló | 2 |
+| 2. | Vállalatértékelés | A bázisévben* az egy tagra jutó árbevétel értéke meghaladja a 16 millió forintot | 5 |
 
-|  | Helyzetelemzés | 5 |
+| ha a 12 millió forintot, de kevesebb vagy egyenlő, mint 16 millió forint | 4 |
 
-|  | Fejlesztés bemutatása | 10 |
+| ha a 8 millió forintot, de kevesebb vagy egyenlő, mint 12 millió forint | 3 |
 
-|  | Fejlesztés várható hatásai | 4 |
+| Induló TCS esetében a számítást a támogatási határozat kézhezvételét követő 3. év tervadatai alapján kell elvégezni. |  |
 
-|  | Pénzügyi fenntarthatóság | 3 |
+| 3. | Pénzügyi terv üzemeltetési-hatékonysági vizsgálata I | Ha az 1 tagra jutó árbevétel a támogatási határozat kézhezvételét követő 3. évre nézve a benyújtás évéhez képest több, mint 20%-kal bővül | 4 |
 
-|  | Kockázatelemzés | 6 |
+| ha több, mint 10%-kal, de kevesebb vagy egyenlő, mint 20% a bővülés | 2 |
 
-| Összesen: |  | max. 30 |
+| Induló TCS esetében, ha eléri az egy tagra jutó árbevétel a 9,6 millió forintot | 4 |
 
-| Mindösszesen: |  | max. 100 |
+| ha a 8,8 millió forintot, de kevesebb, mint 9,6 millió forint | 2 |
 
-|  | Kommunikációs terv | (+)5 |
+| 4. | Pénzügyi terv üzemeltetési-hatékonysági vizsgálata II. | Ha a támogatási határozat kézhezvételét követő 3. évi árbevétel értéke, a bázisévi* árbevételéhez képest eléri a támogatás 1,2-szeresét, de kevesebb, mint az 1,4-szerese | 3 |
 
-|  | Társadalmi felelősségvállalás | (+)5 |
+| Ha eléri a támogatás 1,4-szeresét | 6 |
 
-## Melioráció mezőgazdasági üzemi és közösségi létesítményeinek fejlesztése
+| 5. | Pénzügyi terv üzemeltetési-hatékonysági vizsgálata III. | Az üzem által a bázisévhez* képest a támogatási határozat kézhezvételét követő 3. évre vállalt befektetett eszközök növekménye, meghaladja a 25%-ot | 5 |
 
-| Értékelési szempont megnevezése | Értékelés módja (Ellenőrzés módja) | Értékeléshez rendelhető maximális pontszám |
+|  |  | Ha 20,01-25% | 4 |
 
-| Szakmai szempontok |
+| Ha 15,01-20% | 3 |
 
-| Üzemi melioráció |
+| Ha 10,01-15% | 2 |
 
-| Az ügyfél komplex meliorációt valósít meg. (Legalább a vízrendezés és területrendezés elemeiből egyaránt tervez beavatkozást) | Terv alapján | Igen: 5 Nem: 0 |
+| Ha 5-10% | 1 |
 
-| Talajvédelmi funkciója van | Szakvélemény alapján | 5 |
+| Ha 5% alatti | 0 |
 
-| Talaj-vízháztartást javító funkciója van | Szakvélemény alapján | 5 |
+| 6. | Összesen: |  | max. 20 |
 
-| A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 5 |
+| 1. | Pénzügyi terv mezőgazdasági termelő esetén |
 
-| Közösségi létesítmények |
+| 2. | Értékesítés nettó árbevétele | Ha az értékesítés nettó árbevétele a bázisévet* követő 3. évre 15% vagy azt meghaladó mértékben növekszik | 8 |
 
-| Kapcsolódik védett területek vízellátásához | Terv alapján | Igen: 5 Nem: 0 |
+| Ha 13,01-15% | 7 |
 
-| Vízvisszatartó, tározó létesítményeket tartalmaz | Terv alapján | 5 |
+| Ha 11,01-13% | 6 |
 
-| Belvízkárt, helyi vízkárt elhárító hatása van | Terv alapján | 5 |
+| Ha 9,01-11% | 5 |
 
-| A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 5 |
+| Ha 7,01-9% | 4 |
 
-| Összesen: |  | max. 20 |
+| Ha 5,01-7% | 3 |
 
-| Horizontális szempontok |
+| Ha 3,01-5% | 2 |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámának szinten tartása (legalább 1 fő) |  | 3 |
+| Ha 1-3% | 1 |
 
-| A kérelem benyújtását megelőző 12 hónap átlag létszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására | Igényelt támogatás összege/új munkahelyek száma |  |
+| Ha 1% alatti | 0 |
 
-|  | 0–25 000 000 Ft/új munkahely | 11 |
+| 3. | Adózás előtti eredmény vizsgálata | Az adózás előtti eredmény a támogatási határozat kézhezvételét követő 3. és 4. évben pozitív | 6 |
 
-|  | 25 000 001–50 000 000 Ft/új munkahely | 10 |
+| Amennyiben a két év közül csak az egyikben pozitív, akkor | 3 |
 
-|  | 50 000 001–75 000 000 Ft/új munkahely | 9 |
+| 4. | Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Az üzem által a bázisévhez* képest a támogatási határozat kézhezvételét követő 3. évre vállalt mezőgazdasági terület nő, akkor 5 százalékpontonkénti növekedésre 1 pont adható, de maximum 6 pont. | 6 |
 
-|  | 75 000 001–100 000 000 Ft/új munkahely | 8 |
+| 5. | Összesen: |  | max. 20 |
 
-|  | 100 000 001–125 000 000 Ft/új munkahely | 7 |
+| 1. | Pénzügyi terv nonprofit gazdasági társaság esetén |
 
-|  | 125 000 001–150 000 000 Ft/új munkahely | 6 |
+| 2. | Az ügyfél értékelése | Amennyiben a likviditási mutató (Forgóeszközök/rövidlejáratú kötelezettségek) értéke a bázisévben* nagyobb, mint 1,3 | 5 |
 
-|  | 150 000 001–175 000 000 Ft/új munkahely | 4 |
+| ha nagyobb, mint 1,1, de kisebb vagy egyenlő, mint 1,3 | 2 |
 
-|  | 175 000 001 Ft/új munkahely felett | 2 |
+| 3. | Pénzügyi stabilitás | Amennyiben a likviditási mutató (Forgóeszközök/rövidlejáratú kötelezettségek) értéke a támogatási határozat kézhezvételét követő 3. évben nagyobb, mint 1,3 | 5 |
 
-| Az ügyfél részt vesz az agrár-környezetgazdálkodási programban (a 2009. évi kérelembenyújtási időszakban támogatási kérelmet nyújtott be.) |  | 2 |
+| ha nagyobb, mint 1,1, de kisebb vagy egyenlő, mint 1,3 | 2 |
 
-| A megvalósítás helye |  |  |
+| 4. | Pénzügyi terv üzemeltetési hatékonyság vizsgálata | A befektetett eszközök változása: – A bázisévhez* viszonyítva a befektetett eszközök változása a támogatási határozat kézhezvételét követő harmadik évben meghaladja a beruházás 110%-át | 5 |
 
-|  | hátrányos helyzetű térségben van | 6 |
+| Ha eléri a 100%-át, de kevesebb vagy egyenlő, mint 110%, akkor | 3 |
 
-| Pénzügyi terv mezőgazdasági termelő esetén |  |  |
+| Ha nagyobb 90%-nál, de kisebb, mint 100%, akkor | 1 |
 
-| A vállalkozás pénzügyi tervének koherenciája |  |  |
+| Ha 90% alatti, akkor | 0 |
 
-|  | Befektetett eszközök változása | 1 |
+| 5. | Terv adatok értékelése | A beruházással érintett mű vízgyűjtő területén a bázisévhez* képest a támogatási határozat kézhezvételét követő első 3 évre a fejlesztéssel érintett (meliorált, öntözhető) területek aránya nő, akkor 10 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 |
 
-|  | Saját tőke változása a beruházás időtartama alatt | 1 |
+| 6. | Összesen: |  | max. 20 |
 
-|  | Értékcsökkenés változása | 2 |
-
-|  | Saját tőke változása a működtetési időszak alatt | 2 |
-
-| Vállalatértékelés | A vállalkozás pénzügyi táblájában feltüntetett bázis adatainak összevetése referencia adatokkal |  |
-
-|  | Termelési érték | 2 |
-
-|  | Adózás előtti eredmény | 2 |
-
-|  | Termelési értékarányos jövedelmezőség | 2 |
-
-| Pénzügyi terv valóságtartalom vizsgálata | Pénzügyi tábla adatainak összevetése referencia adatokkal a működtetés alatt |  |
-
-|  | Termelési érték | 1 |
-
-|  | Adózás előtti eredmény | 1 |
-
-|  | Termelési értékarányos jövedelmezőség | 1 |
-
-| Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Az üzem által a bázis évhez képest a határozatot követő 4. évre vállalt mezőgazdasági terület nő, akkor 5 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 |
-
-| Összesen: |  | 20 |
-
-| Pénzügyi terv termelői csoport, zöldség-gyümölcs termelői csoport esetén |  |  |
-
-| A vállalkozás pénzügyi tervének koherenciája | Befektetett eszközök változása | 2 |
-
-|  | Saját tőke változása a beruházás időtartama alatt | 2 |
-
-|  | Értékcsökkenés változása | 2 |
-
-|  | Saját tőke változása a működtetési időszak alatt | 2 |
-
-| Vállalatértékelés | A vállalkozás bázis évében az egy tagra jutó árbevétel értéke meghaladja a 8 millió forintot akkor 2 pont, ha a 12 millió forintot akkor 3 pont, ha a 16 millió forintot, akkor 4 pont. Induló TCS esetében a számítást a pályázat és az azt követő 2 év tervadatai alapján kell elvégezni. | 6 |
-
-| Pénzügyi terv üzemeltetési-hatékonysági vizsgálata | Ha vállalkozás 1 tagra jutó árbevétele a 4. évre nézve benyújtás évéhez képest több, mint 10%-kal bővül, akkor 1 pont, ha több, mint 20%-kal, akkor 2 pont. Induló TCS esetében, ha eléri az egy tagra jutó árbevétel a 8,8 millió forintot akkor 1 pont, ha a 9,6 millió forintot, akkor 2 pont. | 2 |
-
-|  | Ha pályázó benyújtást követő 3 évben realizált árbevétele, a benyújtás évében tervezett (bázis év) árbevételéhez képest a növekmények értéke eléri a támogatás 1,2szeresét, akkor 2 pont, ha az 1,4-szeresét, akkor 4 pont. | 4 |
-
-| Összesen: |  | 20 |
-
-| Pénzügyi terv nonprofit gazdasági társaság, vízgazdálkodási társulat esetén |  |  |
-
-| Pénzügyi terv koherenciájának vizsgálata | Saját tőke változása | 3 |
-
-|  | Befektetett eszközök változása | 2 |
-
-| Az ügyfél értékelése | Likviditás | 2 |
-
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 2 |
-
-|  | A kivetett és befolyt érdekeltségi hozzájárulások aránya | 3 |
-
-| Terv adatok értékelés | Likviditás | 2 |
-
-|  | Pénzügyi stabilitás (érdekeltségi hozzájárulások fedezik-e a működési költségeket) | 1 |
-
-|  | A beruházással érintett mű vízgyűjtő területén a bázis évhez képest a beruházást követő első évre a meliorált területek aránya nő, akkor 5 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 |
-
-| Összesen: |  | 20 |
-
-| Ha az ügyfél nem természetes személy |  |  |
-
-| Helyi/Megyei/Országos Cigány Önkormányzat nyilatkozata |  | 3 |
-
-| Nők foglalkoztatása |  |  |
-
-|  | A foglalkoztatottak számának több, mint 50%-a nő | 3 |
-
-|  | A foglalkoztatottak számának 20–50%-a nő | 2 |
-
-|  | A foglalkoztatottak számának kevesebb, mint 20%-a nő | 1 |
-
-| Csökkent munkaképességű foglalkoztatása |  | 2 |
-
-| Ha az ügyfél természetes személy |  |  |
-
-| Az ügyfél nő |  | 3 |
-
-| Az ügyfél roma származású |  | 3 |
-
-| Az ügyfél csökkent munkaképességű |  | 2 |
-
-| Összesen: |  | 70 |
-
-| Üzleti terv vagy Működtetési terv |
-
-| 15 millió forint vagy azt meghaladó támogatási igényű kérelem esetén kötelező benyújtani |
-
-| Üzleti terv | Vezetői összefoglaló | 1 |
-
-|  | Ügyfél bemutatása | 3 |
-
-|  | Piacelemzés és értékesítés | 4 |
-
-|  | Működési terv | 8 |
-
-|  | Szervezet, emberi erőforrások | 1 |
-
-|  | Fejlesztés bemutatása | 13 |
-
-| Összesen: |  | max. 30 |
-
-| Működtetési terv | Fejlesztés összefoglaló | 2 |
-
-|  | Helyzetelemzés | 5 |
-
-|  | Fejlesztés bemutatása | 10 |
-
-|  | Fejlesztés várható hatásai | 4 |
-
-|  | Pénzügyi fenntarthatóság | 3 |
-
-|  | Kockázatelemzés | 6 |
-
-| Összesen: |  | max. 30 |
-
-| Mindösszesen: |  | max. 100 |
-
-|  | Kommunikációs terv | (+)5 |
-
-|  | Társadalmi felelősségvállalás | (+)5” |
-
-4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^50]
+4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^65]
 
 Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
-1. célterület esetén:
+| 1. | 1. célterület esetén: |
 
-Műszaki leírás
+| 2. | Műszaki leírás |
 
-– a beruházás alapadatai:
+| 3. | A beruházás alapadatai: |
 
-= a beruházó (kérelmező, engedélyes) neve, címe,
+| 4. | a beruházó (kérelmező, engedélyes) neve |
 
-= a beruházás helye (külterület megnevezése),
+| 5. | a beruházás helye (külterület megnevezése), |
 
-= a beruházás jellege: új, felújítás,
+| 6. | a beruházás jellege: új, felújítás, |
 
-– a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként),
+| 7. | a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként), |
 
-– a tervezett létesítmények leírása:
+| 8. | a tervezett létesítmények leírása: |
 
-= a létesítmények műszaki alapadatai (méret, kapacitás, stb)
+| 9. | a létesítmények műszaki alapadatai (méret, kapacitás stb.) |
 
-= a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek)
+| 10. | a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek) |
 
-= kapcsolódása a vízrendszerhez,
+| 11. | kapcsolódása a vízrendszerhez, |
 
-= belvízvédekezés, vízkárelhárítás hatékonyságának értékelése, mezőgazdasági termelés biztonsága emelésének értékelése, vizek és vizes élőhelyek ökológiai állapota megőrzésének értékelése, tározó többcélú hasznosításának leírása,
+| 12. | belvízvédekezés, vízkárelhárítás hatékonyságának értékelése, mezőgazdasági termelés biztonsága emelésének értékelése, vizek és vizes élőhelyek ökológiai állapota megőrzésének értékelése, tározó többcélú hasznosításának leírása, |
 
-Rajzok
+| 13. | Rajzok |
 
-– átnézetes helyszínrajz 1:25 000–1:100 000
+| 14. | átnézetes helyszínrajz 1:25 000–1:100 000 |
 
-– részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (létesítmények, nyomvonalak, területi határok jelölésével).
+| 15. | részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (létesítmények, nyomvonalak, területi határok jelölésével). |
 
-2. célterület esetén:
+| 16. | 2. célterület esetén: |
 
-Műszaki leírás
+| 17. | Műszaki leírás |
 
-– a beruházás alapadatai:
+| 18. | a beruházás alapadatai: |
 
-= a beruházó (kérelmező, engedélyes) neve, címe,
+| 19. | a beruházó (kérelmező, engedélyes) neve |
 
-= a beruházás helye (külterület megnevezése),
+| 20. | a beruházás helye (külterület megnevezése), |
 
-= a beruházás jellege: új, felújítás,
+| 21. | a beruházás jellege: új, felújítás, |
 
-– a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként),
+| 22. | a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként), |
 
-– az öntözőtelep bruttó területe (öntözött terület):
+| 23. | az öntözőtelep bruttó területe (öntözött terület): |
 
-= lineár, körforgó rendszer területei (ha),
+| 24. | lineár, körforgó rendszer területei (ha), |
 
-= mikroöntöző rendszer területei (ha),
+| 25. | mikroöntöző rendszer területei (ha), |
 
-= tömlős, csévélődobos rendszer területei (ha),
+| 26. | tömlős, csévélődobos rendszer területei (ha), |
 
-= egyéb öntözési mód területei (ha),
+| 27. | egyéb öntözési mód területei (ha), |
 
-– a tervezett öntözési üzem alapadatai:
+| 28. | a tervezett öntözési üzem alapadatai: |
 
-= az öntözési mód megnevezése,
+| 29. | az öntözési mód megnevezése, |
 
-= az öntözőtelep bruttó területe (ha),
+| 30. | az öntözőtelep bruttó területe (ha), |
 
-= az évente öntözött nettó terület (ha),
+| 31. | az évente öntözött nettó terület (ha), |
 
-= az öntözés mértékadó vízsugárigénye (m3/h, m3 /s),
+| 32. | az öntözés mértékadó vízsugárigénye (m3/h, m3/s), |
 
-= az éves vízigény (m3),
+| 33. | az éves vízigény (m3), |
 
-= öntözött növények,
+| 34. | öntözött növények, |
 
-– a tervezett létesítmények leírása:
+| 35. | a tervezett létesítmények leírása: |
 
-= a létesítmények műszaki alapadatai (méret, kapacitás, stb),
+| 36. | a létesítmények műszaki alapadatai (méret, kapacitás stb.), |
 
-= a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek, nyomásviszonyok),
+| 37. | a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek, nyomásviszonyok), |
 
-= kapcsolódása a vízrendszerhez.
+| 38. | kapcsolódása a vízrendszerhez. |
 
-Rajzok
+| 39. | Rajzok |
 
-– átnézetes helyszínrajz 1:25 000–1:100 000
+| 40. | átnézetes helyszínrajz 1:25 000–1:100 000 |
 
-– részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000
+| 41. | részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével). |
 
-(mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével).
+| 42. | 3. célterület esetén: |
 
-3. célterület esetén:
+| 43. | Műszaki leírás |
 
-Műszaki leírás
+| 44. | a beruházás alapadatai: |
 
-– a beruházás alapadatai:
+| 45. | a beruházó (kérelmező, engedélyes) neve, címe, |
 
-= a beruházó (kérelmező, engedélyes) neve, címe,
+| 46. | a beruházás helye (külterület megnevezése), |
 
-= a beruházás helye (külterület megnevezése),
+| 47. | a beruházás jellege: új, felújítás, |
 
-= a beruházás jellege: új, felújítás,
+| 48. | a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként), |
 
-– a tervezett beruházással érintett területek (ingatlanok) helyrajzi számai (külterületenként),
+| 49. | a tervezett létesítmények leírása: |
 
-– a tervezett létesítmények leírása:
+| 50. | a létesítmények műszaki alapadatai (méret, kapacitás stb.) |
 
-= a létesítmények műszaki alapadatai (méret, kapacitás, stb)
+| 51. | a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek) |
 
-= a berendezések műszaki alapadatai (kivitel, kapacitás, fő méretek)
+| 52. | kapcsolódása a vízrendszerhez, |
 
-= kapcsolódása a vízrendszerhez,
+| 53. | talajvédelmi, talajvíz-háztartási funkciók értékelése. |
 
-= talajvédelmi, talajvíz-háztartási funkciók értékelése.
+| 54. | Rajzok |
 
-Rajzok
+| 55. | átnézetes helyszínrajz 1:25 000–1:100 000 |
 
-– átnézetes helyszínrajz 1:25 000–1:100 000
+| 56. | részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével). |
 
-– részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000
-
-(mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével).
-
-[^50]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be.
+[^65]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be, szövege az 59/2011. (VI. 29.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.

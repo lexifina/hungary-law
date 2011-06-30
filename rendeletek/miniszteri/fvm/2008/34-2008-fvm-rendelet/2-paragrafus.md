@@ -18,35 +18,36 @@ f) vízilétesítmény: a vízgazdálkodásról szóló 1995. évi LVII. törvé
 
 g) mezőgazdasági célú víz: minden mezőgazdasági hasznosítású víz;
 
-h)[^2] ügyfél: vízgazdálkodási társulat, önkormányzat, mezőgazdasági termelő, TÉSZ, termelői csoport, nonprofit gazdasági társaság
+h)[^2] ügyfél: vízgazdálkodási társulat, önkormányzat, mezőgazdasági termelő, TÉSZ, termelői csoport, zöldség-gyümölcs termelői csoport, nonprofit gazdasági társaság;
 
 i)[^3] közösségi beruházás: olyan e rendelet 3. § bb), illetve cb) pontja alapján megvalósítható beruházás (új építésű, vagy felújítani kívánt közösségi létesítmény, meliorációs tevékenység), ami a vonatkozó terv és engedély alapján közösségi létesítmény felújítására, illetve létrehozására irányul;
 
 j) közösségi létesítmény: több termelő érdekeit szolgáló létesítmény;
 
-k) talajvédelmi terv: a termőföld védelméről szóló 2007. évi CXXIX. törvény szerint;
+k)[^4] talajvédelmi terv: a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tftv.) szerint;
 
-l)[^4] mezőgazdasági termelő: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 3. § 12. pontjában meghatározott termelő, továbbá az alapító okirat szerint öntözési szolgáltatási igények kielégítésére létrehozott gazdasági társaság és szövetkezet, kivéve nonprofit gazdasági társaság.
+l)[^5] mezőgazdasági termelő: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 3. § 12. pontjában meghatározott termelő, továbbá az alapító okirat szerint öntözési szolgáltatási igények kielégítésére létrehozott gazdasági társaság és szövetkezet, kivéve nonprofit gazdasági társaság.
 
-m)[^5] közcélú vízilétesítmény: a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú mellékletének 26. a) pontjában meghatározott létesítmény;
+m)[^6] közcélú vízilétesítmény: a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú mellékletének 26. a) pontjában meghatározott létesítmény;
 
-n)[^6] megvalósítási hely: az az egyedileg azonosítható (névvel ellátott) vonalas létesítmény, tározó, egy vagy több helyrajzi számon szereplő összefüggő földterület, amelynek részén vagy egészén a beruházás megvalósul, beleértve az öntözéssel érintett területet is;
+n)[^7] megvalósítási hely: az az egyedileg azonosítható (névvel ellátott) vonalas létesítmény, tározó, egy vagy több helyrajzi számon szereplő összefüggő földterület, amelynek részén vagy egészén a beruházás megvalósul, beleértve az öntözéssel érintett területet is;
 
-o)[^7] fődarabcsere: az öntöző berendezés/telep működésének jellegét alapvetően meghatározó, azonos funkciót ellátó, Gépkatalógusban szereplő elemek cseréje;
+o)[^8] fődarabcsere: az öntöző berendezés/telep működésének jellegét alapvetően meghatározó, azonos funkciót ellátó, Gépkatalógusban szereplő elemek cseréje;
 
-p)[^8] nonprofit gazdasági társaság: az a gazdasági társaságokról szóló 2006. évi IV. törvény szerinti nonprofit gazdasági társaság, amely mezőgazdasági tevékenységet végez;
+p)[^9] nonprofit gazdasági társaság: az a gazdasági társaságokról szóló 2006. évi IV. törvény szerinti nonprofit gazdasági társaság, amely mezőgazdasági tevékenységet végez;
 
-q)[^9] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés a) és b) pontjaiban meghatározott csoport;
+q)[^10] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés a) és b) pontjaiban meghatározott csoport;
 
-r)[^10] öntözéssel érintett terület: olyan, a támogatott fejlesztés megvalósításával öntözött terület, amely az alkalmazott öntözési technológia vagy azok kombinációja alapján egyértelműen lehatárolható.
+r)[^11] öntözéssel érintett terület: olyan, a támogatott fejlesztés megvalósításával öntözött terület, amely az alkalmazott öntözési technológia vagy azok kombinációja alapján egyértelműen lehatárolható.
 
 [^1]: Az 1. § a 77/2008. (VI. 14.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § h) pontja a 23/2010. (III. 16.) FVM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § h) pontja az 59/2011. (VI. 29.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § i) pontja a 114/2009. (VIII. 29.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § l) pontja a 114/2009. (VIII. 29.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § m) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
-[^6]: A 2. § n) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^7]: A 2. § o) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
-[^8]: A 2. § p) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
-[^9]: A 2. § q) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (4) bekezdése iktatta be.
-[^10]: A 2. § r) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (5) bekezdése iktatta be.
+[^4]: A 2. § k) pontja az 59/2011. (VI. 29.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § l) pontja a 114/2009. (VIII. 29.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § m) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
+[^7]: A 2. § n) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § o) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
+[^9]: A 2. § p) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
+[^10]: A 2. § q) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (4) bekezdése iktatta be.
+[^11]: A 2. § r) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (5) bekezdése iktatta be.

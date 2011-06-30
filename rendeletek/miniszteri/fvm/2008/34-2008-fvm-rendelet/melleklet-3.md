@@ -1,67 +1,69 @@
 ## A területi vízgazdálkodás főművekkel összehangolt fejlesztésre kijelölt területei
 
-| 1. Berettyó-Sebes Körös közti tájegység. Alsó-Nyírvíz tájegység. Fürjéri öblözet | Hajdú Bihar megye |
+|  | A | B |
 
-| 2. Algyői belvízrendszer | Bács-Kiskun és Csongrád megye |
+| 1. | Berettyó-Sebes Körös közti tájegység. Alsó-Nyírvíz tájegység. Fürjéri öblözet | Hajdú Bihar megye |
 
-| 3. Kraszna balparti belvízrendszer | Szabolcs-Szatmár-Bereg megye |
+| 2. | Algyői belvízrendszer | Bács-Kiskun és Csongrád megye |
 
-| 4. Királyéri öblözet | Szabolcs-Szatmár-Bereg megye Hajdú-Bihar megye |
+| 3. | Kraszna balparti belvízrendszer | Szabolcs-Szatmár-Bereg megye |
 
-| 5. Réhelyi, Szeghalmi, Gyomai belvízrendszer | Békés megye–Hajdú Bihar megye |
+| 4. | Királyéri öblözet | Szabolcs-Szatmár-Bereg megye Hajdú-Bihar megye |
 
-| 6. Túr-belvíz főcsatorna és Tapolnok-Kömörő térsége | Szabolcs-Szatmár-Bereg megye |
+| 5. | Réhelyi, Szeghalmi, Gyomai belvízrendszer | Békés megye-Hajdú Bihar megye |
 
-| 7. Doba-milléri öblözetek | Jász-Nagykun-Szolnok megye |
+| 6. | Túr-belvíz főcsatorna és Tapolnok-Kömörő térsége | Szabolcs-Szatmár-Bereg megye |
 
-| 8. Hármas-Körös jobbparti tájegység | Jász-Nagykun-Szolnok megye |
+| 7. | Doba-milléri öblözetek | Jász-Nagykun-Szolnok megye |
 
-| 9. Kígyós Főgyűjtő csatorna öblözete | Bács-Kiskun megye |
+| 8. | Hármas-Körös jobbparti tájegység | Jász-Nagykun-Szolnok megye |
 
-| 10. Felsőszabolcsi belvízrendszer | Szabolcs-Szatmár-Bereg megye |
+| 9. | Kígyós Főgyűjtő csatorna öblözete | Bács-Kiskun megye |
 
-| 11. Tisza-Maroszugi, Sámsoni belvízrendszer | Csongrád megye–Békés megye |
+| 10. | Felsőszabolcsi belvízrendszer | Szabolcs-Szatmár-Bereg megye |
 
-| 12. Hortobágy-Berettyó jobb parti belvízrendszer | Jász-Nagykun-Szolnok megye |
+| 11. | Tisza-Maroszugi, Sámsoni belvízrendszer | Csongrád megye-Békés megye |
 
-| 13. Dél-Pest megyei tájegység | Pest megye |
+| 12. | Hortobágy-Berettyó jobb parti belvízrendszer | Jász-Nagykun-Szolnok megye |
 
-| 14. Dél-Dunavölgyi tájegység | Bács-Kiskun megye |
+| 13. | Dél-Pest megyei tájegység | Pest megye |
 
-| 15. Dél-Borsodi tájegység | Borsod-Abaúj-Zemplén megye |
+| 14. | Dél-Dunavölgyi tájegység | Bács-Kiskun megye |
 
-| 16. Mezőberényi és Dögös-Kákafoki belvízrendszerek | Békés megye |
+| 15. | Dél-Borsodi tájegység | Borsod-Abaúj-Zemplén megye |
 
-| 17. Sárréti tájegység és Kösely öblözet | Hajdú-Bihar megye–Békés megye |
+| 16. | Mezőberényi és Dögös-Kákafoki belvízrendszerek | Békés megye |
 
-| 18. Alsó Szigetköz | Győr-Moson-Sopron megye |
+| 17. | Sárréti tájegység és Kösely öblözet | Hajdú-Bihar megye-Békés megye |
 
-| 19. Kelet Baranyai Tájegység | Baranya megye |
+| 18. | Alsó Szigetköz | Győr-Moson-Sopron megye |
 
-| 20. Nyíri belvízrendszer | Szabolcs-Szatmár-Bereg megye |
+| 19. | Kelet Baranyai Tájegység | Baranya megye |
 
-| 21. Cece-Ősi belvízrendszer | Fejér megye |
+| 20. | Nyíri belvízrendszer | Szabolcs-Szatmár-Bereg megye |
 
-| 22. Rinya térség | Somogy megye |
+| 21. | Cece-Ősi belvízrendszer | Fejér megye |
 
-| 23. Gyála, Maros balparti belvízrendszer, Percsorai öblözet | Csongrád megye |
+| 22. | Rinya térség | Somogy megye |
 
-| 24. Tisza-Kunság térsége | Bács-Kiskun megye |
+| 23. | Gyála, Maros balparti belvízrendszer, Percsorai öblözet | Csongrád megye |
 
-| 25. Taktaköz | Borsod-Abaúj-Zemplén megye |
+| 24. | Tisza-Kunság térsége | Bács-Kiskun megye |
 
-| 26. Bodrogköz | Borsod-Abaúj-Zemplén megye |
+| 25. | Taktaköz | Borsod-Abaúj-Zemplén megye |
 
-| 27. Dél-Heves síkvidék öblözetei | Heves megye |
+| 26. | Bodrogköz | Borsod-Abaúj-Zemplén megye |
 
-| 28. Beregi belvízrendszer | Szabolcs-Szatmár-Bereg megye |
+| 27. | Dél-Heves síkvidék öblözetei | Heves megye |
 
-| 29. Kurcza térség (Szentes) | Csongrád megye |
+| 28. | Beregi belvízrendszer | Szabolcs-Szatmár-Bereg megye |
 
-| 30. Vidre-éri belvízrendszer (Csongrád) | Csongrád megye |
+| 29. | Kurcza térség (Szentes) | Csongrád megye |
 
-| 31. Dél-Tolna öblözet | Tolna megye |
+| 30. | Vidre-éri belvízrendszer (Csongrád) | Csongrád megye |
 
-3. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^49]
+| 31. | Dél-Tolna öblözet | Tolna megye |
 
-[^49]: A 3. számú melléklet a 114/2009. (VIII. 29.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
+3. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^64]
+
+[^64]: A 3. számú melléklet az 59/2011. (VI. 29.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

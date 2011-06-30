@@ -6,6 +6,24 @@
 
 Az ügyfél köteles a 3. § b)–c) pontjaiban meghatározott célterületen a tevékenységet a külön jogszabály szerinti hatósági engedélyben foglaltak szerint végrehajtani.
 
-(3)[^21] Az ügyfél vagy annak alkalmazottja köteles az Új Magyarország Vidékfejlesztési Program keretében, a 2.1 és 3.1 célterületre benyújtott kérelmek esetében, e célterületek tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt.
+(3)[^26] Az Új Magyarország Vidékfejlesztési Program keretében, az öntözés üzemi (2.1 célterület) és a melioráció üzemi (3.1 célterület) beruházásainak fejlesztésére benyújtott kérelmek esetében, e célterületek tárgyában szervezett kötelező képzésen
 
-[^21]: Az 5. § (3) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 4. §-ával megállapított szöveg.
+a) a természetes személy ügyfél esetén
+
+aa) az ügyfél saját maga, vagy
+
+ab) teljes vagy részmunkaidőben foglalkoztatott kijelölt munkavállalója,
+
+b) a nem természetes személy ügyfél esetén
+
+ba) teljes vagy részmunkaidőben foglalkoztatott kijelölt munkavállalója,
+
+bb) vezető tisztségviselője,
+
+bc) tagja,
+
+c) családi gazdálkodó ügyfél esetén a családi gazdaság vezetője vagy tagja
+
+köteles részt venni az utolsó kifizetési kérelem benyújtása előtt.
+
+[^26]: Az 5. § (3) bekezdése az 59/2011. (VI. 29.) VM rendelet 4. §-ával megállapított szöveg.
