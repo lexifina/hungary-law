@@ -1,4 +1,4 @@
-303. § (1) A végrehajtó a (2) és (3) bekezdés szerinti végrehajtási eljárás adósával, kötelezettjével szemben indított (vagy zálogjogosult bekapcsolódásával indult) végrehajtási eljárásban a lakóingatlan kiürítésének foganatosítását a 182/A. §-ban foglalt rendelkezések szerint, a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzés vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelme kézhezvételét követő naptól a 2011. július 1-jéig terjedő időszakot követő időszakra halasztja el.
+303. § (1) A végrehajtó a (2) és (3) bekezdés szerinti végrehajtási eljárás adósával, kötelezettjével szemben indított (vagy zálogjogosult bekapcsolódásával indult) végrehajtási eljárásban a lakóingatlan kiürítésének foganatosítását a 182/A. §-ban foglalt rendelkezések szerint, a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzés vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelme kézhezvételét követő naptól a 2011. október 1-jéig terjedő időszakot követő időszakra halasztja el.
 
 (2) Az (1) bekezdésben foglaltak alkalmazására
 
@@ -34,4 +34,6 @@ a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosí
 
 a) a Hpt. 2. számú melléklet III. Egyéb meghatározások 5.1. pontja szerinti lakáscélú hitel- vagy kölcsönszerződés, valamint az 5.2. pontja szerinti lakáscélú pénzügyi lízingszerződés, továbbá
 
-b) ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- vagy kölcsönszerződés, amely esetében az adós a folyósított kölcsön összegéből fedezte a fedezetként lekötött lakóingatlan vásárlását, építését, bővítését, korszerűsítését, felújítását vagy ennek egy részét.
+b) ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- vagy kölcsönszerződés, amely esetében az adós a folyósított kölcsön összegét a fedezetként lekötött lakóingatlan vásárlására, építésére, bővítésére, korszerűsítésére, felújítására vagy ezek egy részére fordította,
+
+ha a hitelfolyósításkor a hitelösszeg nem haladta meg a 20 millió Ft-ot vagy a lakóingatlannak a lakáshitel-szerződésben meghatározott (vagy ha a lakáshitel-szerződés erről nem rendelkezett, a hitelfolyósításkori) forgalmi értéke a 30 millió Ft-ot.
