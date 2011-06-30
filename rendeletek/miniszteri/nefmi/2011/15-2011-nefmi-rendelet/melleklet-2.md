@@ -1,4 +1,4 @@
-## 1.–2.[^8]
+## 1–2.[^9]
 
 ## 3. Az R. 1. számú melléklet II. Tárgyi feltételek II/A. pontja helyébe a következő rendelkezés lép:
 
@@ -14,7 +14,7 @@
 
 ## 2. megfelelő hírközlő eszközökkel (vezetékes telefon és elektronikus elérhetőség) rendelkezik.”
 
-## 4.[^9] Az R. 1. számú melléklet II. Tárgyi feltételek II/B. pont megjelölése, bevezető része és 1–2. alpontja helyébe a következő rendelkezések lépnek:
+## 4.[^10] Az R. 1. számú melléklet II. Tárgyi feltételek II/B. pont megjelölése, bevezető része és 1–2. alpontja helyébe a következő rendelkezések lépnek:
 
 ## „II/B. Közúti betegszállító gépjármű az első működési engedélyének kiadásakor a gyártás évétől számítva 6 évesnél idősebb nem lehet, és legfeljebb a gyártás évétől számított 15 évig üzemeltethető, feltéve, hogy az időszakos vizsgálaton a műszaki feltételeknek megfelelt. A 2009. április 1-je után betegszállító járműként üzembe helyezett betegszállító gépjárművek legfeljebb a gyártás évétől számított 10 évig üzemeltethetők.
 
@@ -36,11 +36,11 @@
 
 ## a) a hordágy méretei: minimális hosszúsága 1950 mm, minimális szélessége 450 mm.”
 
-## 5–6.[^10]
+## 5–6.[^11]
 
-2. melléklet a 15/2011. (IV. 27.) NEFMI rendelethez[^11]
+2. melléklet a 15/2011. (IV. 27.) NEFMI rendelethez[^12]
 
-[^8]: Az 1. melléklet 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet 4. pontja a 37/2011. (VI. 28.) NEFMI rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^10]: Az 1. melléklet 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet 4. pontja a 37/2011. (VI. 28.) NEFMI rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^11]: Az 1. melléklet 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
