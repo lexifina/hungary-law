@@ -85,7 +85,7 @@
 [^37]: Az 1. számú melléklet 1. pontjában meghatározott szakképesítés nélküli gépkocsi-vezető a 60/2007. (XII. 29.) EüM rendelet 9. § (2) bekezdése alapján 2008. december 31-ig végezheti tevékenységét.
 [^38]: Az 1. számú melléklet I. pont 1. c) alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^39]: Az 1. számú melléklet I. pont 1. d)–e) alpontját a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdése hatályon kívül helyezte.
-[^40]: Az 1. számú melléklet 2. pontjában meghatározott szakképesítés nélküli betegkísérő a 60/2007. (XII. 29.) EüM rendelet 9. § (2) bekezdése alapján 2008. december 31-ig végezheti tevékenységét.
+[^40]: Az 1. számú melléklet 2. pontjában meghatározott szakképesítés nélküli betegkísérő a 60/2007. (XII. 29.) EüM rendelet 9. § (2) bekezdése alapján 2008. december 31-ig végezheti tevékenységét. Az 1. számú melléklet I. Személyi feltételek 2. pontjában a 37/2011. (VI. 28.) NEFMI rendelet 17. § (1) bekezdése alapján hatályát vesztette az „A vizsga szabályait az ETI vizsgaszabályzata tartalmazza.” szövegrész, ez azonban nem vezethető át.
 [^41]: Az 1. számú melléklet I. pont 2. a) alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^42]: Az 1. számú melléklet I. pont 2. b) alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^43]: Az 1. számú melléklet I. pont 2. c)–d) alpontját a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdése hatályon kívül helyezte.
