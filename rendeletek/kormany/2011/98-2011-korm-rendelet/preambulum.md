@@ -1,0 +1,1 @@
+A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdés 16. és 17. pontjában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés a) és f) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
