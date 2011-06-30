@@ -1,0 +1,1 @@
+13. § A 2. § szerinti kezességvállalás iránti igényt a pénzügyi intézmény a 2. § (2) bekezdés szerinti kormányrendelet hatálybalépését követő 15 napon belül írásban bejelenti az államháztartásért felelős miniszternek.
