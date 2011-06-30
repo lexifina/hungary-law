@@ -1,3 +1,3 @@
-1. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^37]
+1. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^39]
 
-[^37]: A rendelet eredeti mellékletének megjelölését a 355/2008. (XII. 31.) Korm. rendelet 10. §-a 1. számú mellékletre változtatta.
+[^39]: A rendelet eredeti mellékletének megjelölését a 355/2008. (XII. 31.) Korm. rendelet 10. §-a 1. számú mellékletre változtatta.

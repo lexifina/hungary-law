@@ -66,17 +66,15 @@
 
 ## Mestertanár elnevezésű munkakörbe lehet átsorolni azt a mesterfokozattal rendelkező adjunktus oktatói munkakörben foglalkoztatott közalkalmazottat, aki a felsőoktatási intézmény által folytatott alapképzésben, szakmai-elméleti és gyakorlati oktatásban vesz részt, és megfelel az intézmény foglalkoztatási követelményrendszerében előírt sajátos mestertanári követelményeknek.
 
-2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^38]
+2. számú melléklet az 53/2006. (III. 14.) Korm. rendelethez[^40]
 
-A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezése,
-
-fizetési osztályokba sorolása és a vezetői pótlék mértéke
+A katonai felsőoktatási intézmény közalkalmazotti munkaköreinek megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék min. %-a |
 
-|  | A | B | C | D | E | F | G | H | I | J |
+| A | B | C | D | E | F | G | H | I | J |
 
-| vezetői munkakörök: |
+| I. Megbízott vezetők |
 
 | pályáztatásra kötelezett: |
 
@@ -88,9 +86,9 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | dékán (oktatói besorolás szerint) |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| főtitkár |  |  |  |  |  |  |  | * | * | * |  |
+| főtitkár |  |  |  |  |  |  |  | * | * | * | 250 |
 
-| gazdasági igazgató |  |  |  |  |  | * | * | * | * | * |  |
+| gazdasági igazgató |  |  |  |  |  | * | * | * | * | * | 200 |
 
 | b) vezető beosztás: |
 
@@ -104,31 +102,35 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | oktatási szervezeti egység vezető helyettes |  |  |  |  |  |  |  |  |  |  | 100 |
 
-| igazgató (kinevezett, szervezeti egység vezetője) |  |  |  |  |  |  |  | * | * | * |  |
+| igazgató (szervezeti egység vezetője) |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| Igazgató-helyettes (szervezeti egység vezető helyettese) |  |  |  |  |  |  | * | * | * |  |  |
+| igazgató-helyettes (szervezeti egység vezető helyettese) |  |  |  |  |  |  | * | * | * |  | 100 |
 
-| gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 100 |
 
-| intézetvezető (tudományos intézetnél) |  |  |  |  |  |  |  | * | * | * |  |
+| intézetvezető (tudományos intézetnél) |  |  |  |  |  |  |  | * | * | * | 150 |
 
-| hivatalvezető (dékáni, főigazgatói, rektori) |  |  |  |  |  | * | * | * | * |  |  |
+| hivatalvezető |  |  |  |  |  | * | * | * | * |  | 150 |
 
-| osztályvezető (kinevezett, szervezeti egység vezetője) |  |  |  |  |  | * | * | * | * | * |  |
+| hivatalvezető-helyettes |  |  |  |  |  | * | * | * | * |  | 100 |
 
-| osztályvezető-helyettes  (szervezeti egység vezető helyettese) |  |  |  |  |  | * | * | * | * |  |  |
+| osztályvezető (szervezeti egység vezetője) |  |  |  |  |  | * | * | * | * | * | 150 |
 
-| irodavezető |  |  |  |  |  | * | * | * |  |  |  |
+| irodavezető |  |  |  |  |  | * | * | * |  |  | 150 |
 
-| felsőoktatási munkakörök: |
+| irodavezető-helyettes |  |  |  |  |  | * | * | * |  |  | 100 |
 
-| a) csoportvezető |
+| II. Felsőoktatási munkakörök: |
+
+| a) csoportvezető |
 
 | pályáztatásra kötelezett: |
 
 | szakcsoportvezető |  |  |  |  |  |  | * | * | * | * |  |
 
 | alosztályvezető |  |  |  |  | * | * | * | * | * |  |  |
+
+| osztályvezető-helyettes |  |  |  |  | * | * | * |  |  |  |  |
 
 | csoportvezető |  |  |  |  | * | * | * | * |  |  |  |
 
@@ -144,7 +146,7 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
-| jogász |  |  |  |  |  | * | * | * | * | * |  |
+| jogász |  |  |  |  |  |  |  | * | * | * |  |
 
 | mérnök |  |  |  |  |  |  |  | * | * | * |  |
 
@@ -152,17 +154,17 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | főelőadó |  |  |  |  | * | * | * | * | * | * |  |
 
-| pályáztatás alól mentesített: |
+| pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
 | szakoktató |  |  |  | * | * | * | * |  |  |  |  |
 
 | gyakorlati oktató |  |  |  | * | * | * | * |  |  |  |  |
 
-| szervező |  |  |  | * | * | * | * |  |  |  |  |
+| szervező |  |  | * | * | * | * | * | * |  |  |  |
 
-| (fő-) technikus |  |  |  | * | * | * |  |  |  |  |  |
+| (fő-) technikus, |  |  |  | * | * | * |  |  |  |  |  |
 
-| informatikus |  |  |  | * | * | * |  |  |  |  |  |
+| informatikus |  |  |  |  | * | * | * | * | * |  |  |
 
 | előadó |  |  |  | * | * | * |  |  |  |  |  |
 
@@ -170,15 +172,13 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | szakmunkás |  | * | * | * | * |  |  |  |  |  |  |
 
-| alosztályvezető |  |  |  |  | * | * | * | * | * |  |  |
-
 | gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
 | lőtérvezető |  | * | * | * |  |  |  |  |  |  |  |
 
 | forgalmi alkalmazott | * | * | * | * |  |  |  |  |  |  |  |
 
-| raktárvezető, raktárvezető- helyettes |  |  | * | * | * |  |  |  |  |  |  |
+| raktárvezető, raktárvezető helyettes |  |  | * | * | * |  |  |  |  |  |  |
 
 | raktáros |  | * | * |  |  |  |  |  |  |  |  |
 
@@ -188,4 +188,4 @@ fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
 | gondnok | * | * | * |  |  |  |  |  |  |  |  |
 
-[^38]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva. A 2. számú melléklet a 282/2010. (XII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^40]: A 2. számú mellékletet a 355/2008. (XII. 31.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatva. A 2. számú melléklet a 98/2011. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
