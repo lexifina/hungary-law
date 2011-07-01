@@ -147,3 +147,25 @@ a trösztökről szóló 122/1951. (VI. 17.) MT rendelet 1. §-ának (3) bekezd�
 a biztosítási díj fizetésének szabályozásáról szóló 152/1951. (VIII. 11.) MT rendelet;
 
 a hitelrendszerről szóló 19/1952. (III. 13.) MT rendelet 6. §-ának (3) bekezdése;
+
+a törvényes zálogjog vagy visszatartási jog címén a szálloda birtokában levő ingóságok értékesítéséről szóló 70/1952. (VIII. 23.) MT rendelet 1. és 2. §-ának a visszatartási joggal kapcsolatos rendelkezése, 4–5. §-a;
+
+a polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) hatálybaléptetése folytán szükséges rendelkezések tárgyában kibocsátott 105/1952. (XII. 28.) MT rendelet 10. §-a;
+
+az állami szervek jogi képviseletéről szóló 50/1953. (X. 23.) MT rendelet;
+
+a polgári perrendtartásról szóló 1952. évi III. törvény hatálybaléptetése tárgyában kibocsátott 105/1952. (XII. 28.) MT rendeletet módosító 46/1954. (VIII. 1.) MT rendelet 3. §-a;
+
+a szállítási szerződésekről szóló 50/1955. (VIII. 19.) MT rendelet 13. §-ának (1) bekezdése, valamint 16. §-ának (3) bekezdése;
+
+a döntőbizottságokról és a döntőbizottsági eljárásról szóló 51/1955. (VIII. 19.) MT rendelet 28. §-ának (2) bekezdése, 42. §-ának (1)–(6) és (8) bekezdése;
+
+az állami kiskereskedelmi vállalatok árurészletügyleteiről szóló 5/1956. (II. 21.) MT rendelet 2. és 3. §-a;
+
+a lakásbérletről szóló 35/1956. (XI. 30.) MT rendelet 13. §-ának (2)–(4) bekezdése, 15. §-a, 17. §-ának (2) bekezdése, 21. §-ának (3) bekezdése, 23. §-a, 29. §-a, 44. §-a (2) bekezdés b) pontjának a bérlet felmondásával kapcsolatos rendelkezése;
+
+az egyesületek feletti felügyelet és ellenőrzés szabályozásáról szóló 3/1957. (I. 20.) Korm. rendelet;
+
+a lakásbérletről szóló 35/1956. (IX. 30.) MT rendelet végrehajtása tárgyában kibocsátott 15/1957. (III. 7.) Korm. rendelet 31. §-a;
+
+az új szövetkezeti törvény megalkotásáról szóló 1.088/1956. (IX. 4.) Mt. h.;
