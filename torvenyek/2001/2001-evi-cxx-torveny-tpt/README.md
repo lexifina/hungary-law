@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-120-00-00.36 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 2001-120-00-00.37 |
+| 2011-07-01 | 2011. évi LXVI. törvény | 2001-120-00-00.38 |

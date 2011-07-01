@@ -86,7 +86,7 @@ d) egyéb bevételek.
 
 (20) A Pénz- és Tőkepiaci Állandó Választottbíróság bevételei után társasági és helyi adót nem fizet.
 
-(21) A Pénz- és Tőkepiaci Állandó Választottbíróság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(21)
 
 (22) A Pénz- és Tőkepiaci Állandó Választottbíróság beszámoló készítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
 
