@@ -16,7 +16,7 @@
 
 8. csekély értékűnek minősülő ajándék: természetbeni juttatás, amelynek egyedi, az általános forgalmi adót is tartalmazó értéke, ilyen érték hiányában pedig az általános forgalmi adóval együtt számított beszerzési ára vagy előállítási költsége nem haladja meg a mindenkori minimálbér havi összegének 5%-át;
 
-9. ésszerű mértékű támogatás: olyan támogatás, amely a meghirdetett rendezvény egy főre eső összegét tekintve nem haladja meg a h) pontban meghatározott összeget;
+9. ésszerű mértékű támogatás: olyan támogatás, amely a meghirdetett rendezvény egy főre eső összegét tekintve nem haladja meg a 8. pontban meghatározott összeget;
 
 10. kereskedelmi gyakorlat: gyógyszer, tápszer, illetve gyógyászati segédeszköz rendelésének, beszerzésének, értékesítésének vagy fogyasztásának előmozdítására irányuló bármely tájékoztatás, tevékenység, megjelenítési mód, marketing vagy egyéb kereskedelmi kommunikáció. A közforgalmú gyógyszertárak, az intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egysége és a fiókgyógyszertárak, valamint gyógyászatisegédeszköz szaküzletek esetében nem minősül kereskedelmi gyakorlatnak a gyógyszerek, gyógyászati segédeszköz kiszolgáltatásakor, valamint a gyógyszerekkel kapcsolatos jogszabályban előírt tájékoztatás nyújtása során végzett egészségügyi szolgáltató tevékenység, továbbá a gyógyszerészi gondozás;
 
@@ -72,4 +72,10 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 33. gyógyászatisegédeszköz-szaküzlet: a lakosság közvetlen gyógyászati segédeszköz ellátását biztosító intézmény;
 
-34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság.
+34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság;
+
+35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 5%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+
+36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
+
+37. árkedvezmény: bárki számára hozzáférhető, nyilvánosan közzétett módon, a kedvezmény időszakát is megjelölő, azonos feltételekkel adott árengedmény.

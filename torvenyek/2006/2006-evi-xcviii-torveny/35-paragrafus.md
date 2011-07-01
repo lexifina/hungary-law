@@ -23,3 +23,11 @@ a) a támogatási csoporton belül vagy referenciaeszköz, vagy a referenciaeszk
 b) százalékos támogatásban részesülő eszközök csoportja esetében a legalacsonyabb közfinanszírozás alapjául elfogadott árú termék.
 
 (7) A közgyógyellátásban ki nem szolgáltatható funkcionális csoportokat külön jogszabály tartalmazza.
+
+(8) Közgyógyellátás jogcímen
+
+a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó, és
+
+b) a hatóanyagalapú fix támogatású csoportba nem tartozó
+
+gyógyszer rendelhető.

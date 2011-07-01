@@ -6,7 +6,7 @@ b) költséghatékonyságával kapcsolatban igazoltan kétség merült fel,
 
 c) az E. Alap költségvetését az alkalmazásával elérhető egészségnyereséghez képest aránytalanul nagy mértékben terheli,
 
-d) a forgalomba hozatali engedélyének jogosultját ugyanazon támogatott gyógyszer tekintetében egy éven belül két esetben – a gyógyszerek reklámozására és ismertetésére vonatkozó külön jogszabályokban meghatározottak megsértése miatt – reklámfelügyeleti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta,
+d)
 
 e) költséghatékonysága nem bizonyítható,
 
@@ -18,8 +18,12 @@ h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer 
 
 i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 60%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
 
-j) az általa végzett nemzetközi ár-összehasonlítás alapján a gyógyszer termelői ára legalább 40%-kal magasabb a külön jogszabályban megjelölt, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban külön jogszabályban meghatározott feltételek szerint ténylegesen forgalomban lévő öt legalacsonyabb termelői árú ugyanazon, vagy azonos hatóanyagú gyógyszer árának számtani átlagánál.
+j) az általa végzett nemzetközi ár-összehasonlítás során megállapítja, hogy a gyógyszer termelői ára legalább 20%-kal magasabb a vizsgálatba vont, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban alkalmazott három legalacsonyabb termelői ár számtani átlagánál.
+
+(1a) Ha támogatott gyógyszer tekintetében a forgalombahozatali engedély jogosultját vagy meghatalmazottját egy éven belül két esetben – e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásai megsértése miatt – reklámfelügyeleti eljárásban, illetve a 19. § szerinti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta, és vele szemben e jogsértések miatt összesen legalább ötmillió forint mértékű bírságot szabott ki, az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból az eljárással érintett gyógyszert, ha az adott indikációban rendelkezésre áll más olyan gyógyszer, amelyhez a beteg a támogatásból kizárt gyógyszer térítési díjánál legfeljebb 50%-kal magasabb térítési díj ellenében juthat hozzá.
 
 (2) A gyógyszernyilvántartásból törölt gyógyszert legkésőbb a törlést követő negyedik hónap 1. napjával az egészségbiztosítási szerv a támogatásból kizárja.
 
 (3) Az egészségbiztosítási szerv kizárhatja a társadalombiztosítási támogatásból a gyógyszert, ha a forgalomba hozatali engedély jogosultja a 21. § (8) bekezdésében foglalt forgalmazási, illetve készletben tartási kötelezettségét nem teljesíti.
+
+(4) Az (1)–(1a) és a (3) bekezdés alapján a társadalombiztosítási támogatásból kizárt gyógyszerre a forgalombahozatali engedély jogosultja a kizárásról szóló döntés jogerőre emelkedésétől számított fél éven belül befogadásra irányuló kérelmet nem adhat be.

@@ -1,6 +1,6 @@
 11. § (1) Finanszírozási szerződés, illetve gyógyszer és gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés csak olyan egészségügyi szolgáltatóval köthető, amely teljesíti a gyógyszer- és gyógyászatisegédeszköz-gazdaságosság e törvényben meghatározott, valamint az egészségbiztosítási szerv által előírt feltételeit, így a hatékony és gazdaságos gyógyszerrendelést elősegítő, minősített számítógépes program használatát.
 
-(2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag külön jogszabályban foglalt feltételeknek megfelelő üzletben lehet.
+(2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag jogszabályban foglalt feltételek szerint lehet.
 
 (3) Gyógyszertárnak gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy foglalkoztatása esetén nem kell rendelkeznie a (2) bekezdés szerinti engedéllyel. Gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy hiányában a (2) bekezdés szerinti engedély nélkül csak sorozatgyártású gyógyászati segédeszköz forgalmazható, javítási és kölcsönzési tevékenység nem végezhető. Ez a javítási és kölcsönzési tilalom nem érinti a – külön jogszabályban vagy a felek közötti szerződésben meghatározott – szavatosságra és jótállásra vonatkozó kötelezettség érvényesítését.
 

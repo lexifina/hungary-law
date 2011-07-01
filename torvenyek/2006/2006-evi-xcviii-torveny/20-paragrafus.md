@@ -4,7 +4,7 @@
 
 (3) A gyógyszerészeti államigazgatási szerv – a 14. § rendelkezései megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult a gyógyszerészeti államigazgatási szerv, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
-(4)
+(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
 
 (5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat a gyógyszerészeti államigazgatási szerv eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
 

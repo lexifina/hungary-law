@@ -1,0 +1,5 @@
+86/A. § (1) A 2011. július 1-jét megelőzően kiállított ismertetői igazolványok helyett a gyógyszerészeti államigazgatási szerv 2011. október 1-jéig az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 13/A. § (2) bekezdésének megfelelő új igazolványt állít ki az ismertető kérelmére. A 2011. július 1-jét megelőzően kiállított ismertetői igazolványok az új igazolvány kiállításáig, de legkésőbb 2011. december 31-éig érvényesek.
+
+(2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 35. § (8) bekezdésében foglaltakat 2011. október 1-jétől kell alkalmazni.
+
+(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 36. § (7)–(9) bekezdéseit a naptári évtől eltérő üzleti évvel rendelkező forgalombahozatali engedély jogosultjai 2012. december 31-éig alkalmazhatják az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény hatálybalépése napján hatályos szabályok szerint.

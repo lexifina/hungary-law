@@ -14,15 +14,17 @@ b) az a) pontban meghatározottak megbízása alapján más gazdálkodó szervez
 
 (4) A (3) bekezdés szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmaznia kell:
 
-a) az ismertetési tevékenységet folytató nevét, címét, illetve székhelyét és cégjegyzékszámát,
+a) az ismertetési tevékenységet folytató nevét, címét, illetve székhelyét és cégjegyzékszámát, valamint az ismertetési tevékenység időtartamát, amennyiben az ismertetési tevékenységet határozott ideig kívánja folytatni,
 
 b) gyógyszer esetén az ismertetni kívánt gyógyszer vagy gyógyszerek forgalomba hozatali engedélye jogosultjának vagy a gyógyszer forgalmazására engedéllyel rendelkezőnek, illetve meghatalmazottjának a nevét, gyógyászati segédeszköz esetén az ismertetni kívánt gyógyászati segédeszköz vagy gyógyászati segédeszközök gyártójának, forgalmazójának vagy annak meghatalmazott képviselőjének a nevét,
 
-c) az ismertetési tevékenységet folytató nevében eljáró, a 13. § szerinti ismertető személy vagy személyek természetes személyazonosító adatait,
+c) az ismertetési tevékenységet folytató nevében eljáró, a 13. § szerinti ismertető személy vagy személyek természetes személyazonosító adatait, lakcímét, valamint ismertetési tevékenységének időtartamát, amennyiben az ismertetési tevékenységet határozott ideig kívánja folytatni,
 
 d) a 13. § szerinti ismertető személy nyilatkozatát arról, hogy vele szemben a 13. § (3) bekezdése szerinti összeférhetetlenségi ok nem áll fenn,
 
-e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél számát és alap-nyilvántartási számát, ha az ismertetés külön jogszabály szerint meghatározott képzettséghez kötött.
+e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél másolatát és – ha van – alap-nyilvántartási számát.
+
+(4a) A (3) bekezdés szerinti bejelentéshez csatolni kell az ismertető személy egy darab egy évnél nem régebbi fényképét (igazolványképét).
 
 (5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti a gyógyszerészeti államigazgatási szervnek.
 

@@ -8,7 +8,7 @@ c) a gyógyszer, illetve gyógyászati segédeszköz ismertetésével kapcsolatb
 
 d) a 44/A. § szerinti juttatás feltételeire, mértékére, összegére, utalására vonatkozó szabályokat
 
-e) a Gyftv. 36. § (1) és (4) bekezdései, valamint a 42. § (1)–(6) bekezdései szerinti fizetési kötelezettségek 20%-ának erejéig a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre vonatkozó részletes szabályokat,
+e) a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre vonatkozó eljárási szabályokat,
 
 f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat
 
@@ -34,7 +34,7 @@ h) a gyógyszerészek nyilvántartásának szabályait,
 
 i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének szabályait,
 
-j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
+j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel, valamint a gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
 
 k) az egészségügyi szolgáltatók gyógyszerrendelése értékelésének alapjául szolgáló ATC-csoportokat, az értékelésre kerülő hatóanyagokat, a preferált megoszlási mutatókat, a célértékeket, és a felírt gyógyszerek mennyiségére vagy volumenére vonatkozó azon feltételeket, amelyek alapján a gyógyszerrendelés nem kerül értékelésre,
 

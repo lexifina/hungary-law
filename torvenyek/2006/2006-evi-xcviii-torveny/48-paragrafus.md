@@ -12,7 +12,7 @@
 
 a) az új gyógyszertár típusát,
 
-b) az új gyógyszertár működtetési helyének pontos címét,
+b) az új gyógyszertár pontos címét,
 
 c) az új gyógyszertár megnyitásának tervezett időpontját.
 

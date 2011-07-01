@@ -1,6 +1,6 @@
 42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a tárgyév első napján hatályos előirányzatot, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
-(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január-december hónapjaira adódó összeget, a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget, valamint az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímnek a tárgyévet megelőző év első napján és a tárgyév első napján hatályos előirányzata pozitív különbségét.
+(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január–december hónapjaira adódó összeget, a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget.
 
 (3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik.
 

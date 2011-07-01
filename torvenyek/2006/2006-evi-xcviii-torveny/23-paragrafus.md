@@ -32,7 +32,9 @@ c) jogszabályváltozás azt indokolja,
 
 d) jogszabály hivatalbóli eljárás indítását írja elő,
 
-e) a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbítása indokolt a folyamatos és biztonságos betegellátás érdekében.
+e) a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbítása indokolt a folyamatos és biztonságos betegellátás érdekében,
+
+f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában meghatározott feltételeknek a készítmény nem felel meg.
 
 (8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
 
