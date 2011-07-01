@@ -1,0 +1,1 @@
+## 1. § A fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körét a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 9/A. § (1) és (2) bekezdésében meghatározott ellátási kötelezettség tekintetében – a tevékenységek ágazati besorolása és a szolgáltatások jegyzéke alapján – az 1. melléklet határozza meg.
