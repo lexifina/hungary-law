@@ -1,4 +1,4 @@
-## között lehet benyújtani az MVH-hoz.
+## 8. §[^9]
 
 ## Jogkövetkezmények
 
@@ -12,4 +12,5 @@
 
 (5) Amennyiben az 1. számú melléklet szerinti nyilatkozattal, illetve pénzügyi tervvel alátámasztott pontozási szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, az igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül, és az ügyfél e rendelet szerinti támogatáshoz való joga megszűnik.
 
+[^9]: A 8. §-t az 57/2011. (VI. 20.) VM rendelet 16. § f) pontja hatályon kívül helyezte.
 [^10]: A 9. § (2) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (4) bekezdésének e) pontja hatályon kívül helyezte.
