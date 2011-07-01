@@ -1,0 +1,9 @@
+# 107/2011. (VI. 30.) Korm. rendelet
+
+a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-107-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-07-01 | 2011-107-20-22.1 | 107/2011. (VI. 30.) Korm. rendelet |

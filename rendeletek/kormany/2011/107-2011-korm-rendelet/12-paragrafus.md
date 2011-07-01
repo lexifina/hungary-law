@@ -1,0 +1,3 @@
+12. § (1) A támogatási igazolás alapján nyújtott támogatás felhasználásának szakmai ellenőrzésére az ellenőrző szervezet jogosult. Az ellenőrző szervezet a szakmai ellenőrzés keretében jogosult a támogatásból megvalósuló programok dokumentációjába betekinteni. Ennek érdekében a támogatott szervezet az iratokat a támogatási igazolás kiállításától számított 10 évig megőrzi, ellenőrzés esetén azt rendelkezésre bocsátja, és az ellenőrzés során együttműködik az ellenőrző szervezettel, az ellenőrzés lefolytatásához szükséges tájékoztatást az ellenőrző szervezet részére megadja, valamint az ellenőrzésben közreműködik.
+
+(2) Az ellenőrző szervezet a szakmai ellenőrzés keretében jogosult a támogatásból megvalósuló szakmai programok helyszíni ellenőrzésére.

@@ -1,0 +1,1 @@
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (10) bekezdésében kapott felhatalmazás alapján, valamint az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
