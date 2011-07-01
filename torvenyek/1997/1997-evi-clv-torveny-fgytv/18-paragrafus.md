@@ -4,6 +4,6 @@
 
 (2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) mellett működő független testület.
 
-(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének ügyszámarányos támogatásáról, továbbá biztosítja az Európai Gazdasági Térségről szóló megállapodásban részes államok pénzügyi vitarendezési hálózatában (a továbbiakban: FIN-Net) való részvétellel összefüggő békéltető testületi feladatok ellátásához szükséges pénzügyi fedezetet.
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének ügyszámarányos támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.

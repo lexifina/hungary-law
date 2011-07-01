@@ -8,7 +8,7 @@
 
 a) legyen olyan tagja, aki megfelel a 25. § (4) bekezdésében meghatározott követelményeknek, továbbá
 
-b) valamennyi pénzügyi szolgáltatási ágazat tekintetében legyen olyan tagja, aki rendelkezik a pénzügyi szolgáltatási tevékenységgel összefüggő fogyasztói jogviták rendezéséhez szükséges végzettséggel és szakismerettel.
+b)
 
 (5)
 
