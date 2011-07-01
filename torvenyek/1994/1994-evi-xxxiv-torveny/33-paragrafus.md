@@ -20,7 +20,7 @@ a) aki a rendőr felszólítására nem tudja magát hitelt érdemlően igazolni
 
 b) aki bűncselekmény elkövetésével gyanúsítható;
 
-c) akitől bűncselekmény gyanúja vagy szabálysértés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
+c) akitől bűncselekmény gyanúja vagy szabálysértés, valamint közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
 
 d) aki a szülői felügyelet vagy a gyámság, illetőleg az intézeti nevelés hatálya alól engedély nélkül kivonja magát;
 

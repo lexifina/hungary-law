@@ -12,7 +12,7 @@ b) elvégzi
 
 ba) a rendőrség, a büntetés-végrehajtási szervezet, az állami és hivatásos önkormányzati tűzoltóság, a polgári védelem, a katasztrófavédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
 
-bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság és a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
+bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, Kormány által kijelölt szerv a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
 
 bc) a ba) és bb) pontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) pontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá a ba) és bb) pontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai (a továbbiakban: védett állomány) megbízhatósági vizsgálatát,
 
