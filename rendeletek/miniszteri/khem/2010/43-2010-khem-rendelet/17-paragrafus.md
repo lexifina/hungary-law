@@ -1,1 +1,0 @@
-## 16. § A miniszter a megítélt támogatásról vagy a pályázat elutasításáról legkésőbb a tárgyév augusztus 2-áig írásban értesíti a pályázatot benyújtó önkormányzatokat. A miniszter a döntéseket közzéteszi a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, és az általa vezetett minisztérium honlapján .
