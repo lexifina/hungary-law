@@ -74,7 +74,7 @@ alapján illeti meg,
 
 3715 Könyv- és lapkiadó-szerkesztő munkatárs
 
-3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, a szövetség szabályzatában meghatározott sportszakembernek minősül, és rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel. Sportszakember különösen a sportedző (a sportág megjelölésével), sportoktató (a sportág megjelölésével), mérkőzésvezető, versenybíró, sportorvos, gyúró
+3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, továbbá a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel
 
 3721 Segédszínész
 
@@ -114,7 +114,11 @@ b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintn
 
 c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
 
-d) az a)–b) pontokban említett összeghatár helyett évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója
+d) az a)–b) pontokban említett összeghatár helyett
+
+da) évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+
+db) évi 50 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
 
 azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
