@@ -110,6 +110,6 @@
 
 | L4 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | 300 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^11]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^10]
 
-[^11]: Az 5. melléklet a 351/2010. (XII. 30.) Korm. rendelet 246. §-a szerint módosított szöveg.
+[^10]: Az 5. melléklet a 351/2010. (XII. 30.) Korm. rendelet 246. §-a szerint módosított szöveg.

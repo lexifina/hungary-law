@@ -1,40 +1,14 @@
-|  | A | B | C | D |
+| Sorszám | a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalma („ittas vezetés”) | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások | A bírság összege forintban, a határozat jogerőre emelkedésétől számított | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+| 1. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,30 mg/l-t nem haladja meg, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 150 000 | járművezető |
 
-| 2 | I. tizenöt napon belül befizetve | II. tizenöt napot követően befizetve |
+| 2. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációnál magasabb, de 0,80‰ véralkohol-koncentrációt nem haladja meg vagy a kilégzett levegőben 0,30 mg/l-nél magasabb, de a 0,50 mg/l-t nem haladja meg, feltéve, ha azok nem minősülnek bűncselekménynek | 4. § (1) bekezdés c) pont | 200 000 |
 
-| 3 | 1. | Menet közben kézben tartott mobil rádiótelefon használata |  |  |  |
+| 3. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke a 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,50 mg/l-t meghaladja, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 300 000 |
 
-| 4 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető |
+| 4. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,50 mg/l-t nem haladja meg | 4. § (1) bekezdés c) pont | 30 000 | járművezető, hajtó |
 
-| 5 | b) lakott területen kívül | b) 15 000 | b) 21 000 | járművezető |
-
-| 6 | c) autóúton, autópályán | c) 20 000 | c) 32 000 | járművezető |
-
-| 7 | 2. | Biztonsági öv használata nélküli közlekedés: |  |  |  |
-
-| 8 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utazó személy |
-
-| 9 | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utazó személy |
-
-| 10 | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utazó személy |
-
-| 11 | 3. | Gyermekbiztonsági rendszer használatának elmulasztása |  |  |  |
-
-| 12 | a) lakott területen belül | a) 15 000 | a) 21 000 | járművezető |
-
-| 13 | b) lakott területen kívül | b) 30 000 | b) 42 000 | járművezető |
-
-| 14 | c) autóúton, autópályán | c) 45 000 | c) 57 000 | járművezető |
-
-| 15 | 4. | Motorkerékpár-bukósisak használatának elmulasztása |  |  |  |
-
-| 16 | a) lakott területen belül | a) 10 000 | a) 16 000 | járművezető utas |
-
-| 17 | b) lakott területen kívül | b) 20 000 | b) 32 000 | járművezető utas |
-
-| 18 | c) autóúton, autópályán | c) 30 000 | c) 42 000 | járművezető utas |
+| 5. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben 0,50 mg/l-t meghaladja | 4. § (1) bekezdés c) pont | 60 000 |  |
 
 12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
 
