@@ -1,6 +1,6 @@
 ## Ellenőrzés
 
-92. § (1) A helyi önkormányzat gazdálkodását (ideértve az Európai Unió által nyújtott és egyéb nemzetközi támogatások, valamint az ehhez kapcsolódó költségvetési támogatások felhasználását is) az Állami Számvevőszék ellenőrzi.
+92. § (1)
 
 (2) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, a kormány által kijelölt szerv, a fejezetek ellenőrzési szervezetei, a kincstár, illetve az európai uniós támogatások irányító hatóságai és a kifizető hatóság képviselői is ellenőrizhetik.
 
