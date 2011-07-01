@@ -4,7 +4,7 @@ a) az ellátás visszautasítására vonatkozó részletes szabályokat megálla
 
 b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra vonatkozó szabályokat,
 
-c) a Nemzeti Egészségügyi Tanács feladatára, szervezetére és működésére vonatkozó részletes szabályokat,
+c)
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
@@ -36,7 +36,7 @@ q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a rendkí
 
 r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
 
-s)
+s) a holttest szállításának legmagasabb árát,
 
 t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
 
@@ -80,7 +80,7 @@ f) az egyes egészségügyi ellátásokra vonatkozó részletes szabályokat,
 
 g) az egészségügyi szolgáltatásokkal kapcsolatban:
 
-ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatók szakmai felügyeletére vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
+ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatás gyakorlásához szükséges képzés tartalmának meghatározására, az egészségügyi szolgáltatók szakmai felügyeletére vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
 
 gb) a kizárólag gyógyintézetben vagy fekvőbeteg-gyógyintézetben nyújtható egészségügyi szolgáltatásokat,
 
@@ -186,7 +186,7 @@ a) az EFE központi és regionális részéből megszerezhető forrásokra irán
 
 b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
 
-c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat,
+c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
 
 d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
 
@@ -226,9 +226,11 @@ ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi f
 
 cj)
 
-ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
 
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -1,6 +1,6 @@
 ## Ápolás
 
-98. § (1) Az ápolás azoknak az ápolási és gondozási eljárásoknak az összessége, amelyek feladata az egészségi állapot javítása, az egészség megőrzése és helyreállítása, a beteg állapotának stabilizálása, a betegségek megelőzése, a szenvedések enyhítése a beteg emberi méltóságának a megőrzésével, környezetének az ápolási feladatokban történő részvételre való felkészítésével és bevonásával.
+98. § (1) Az ápolás azoknak az ápolási és gondozási eljárásoknak az összessége, amelyek feladata az egészségi állapot javítása, az egészség megőrzése, fejlesztése és helyreállítása, a beteg állapotának stabilizálása, a betegségek megelőzése, a szenvedések enyhítése a beteg emberi méltóságának a megőrzésével, környezetének az ápolási feladatokban történő részvételre való felkészítésével és bevonásával.
 
 (2) Az ápolás
 

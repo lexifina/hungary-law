@@ -30,4 +30,4 @@ c) a régió területén működő egészségbiztosítási szervek egy közös k
 
 d) a Regionális Fejlesztési Tanács képviselője,
 
-e) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány képviselője.
+e) a betegjogi képviselőt foglalkoztató szerv képviselője.

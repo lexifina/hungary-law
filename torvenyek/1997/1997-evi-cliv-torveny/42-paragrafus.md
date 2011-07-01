@@ -2,7 +2,7 @@
 
 42. § (1) Az ifjúság-egészségügyi gondozás célja a kiskorúak harmonikus testi és lelki fejlődésének elősegítése. Ennek során biztosítani kell
 
-a) az egészségnevelést,
+a) a korcsoportokhoz igazodva a közoktatási intézményekben a teljeskörű egészségfejlesztés bevezetését és megvalósítását,
 
 b) az életkoruknak megfelelő szűrővizsgálatokat,
 
@@ -24,7 +24,7 @@ c) a harmonikus testi és lelki fejlődést veszélyeztető körülmények, alko
 
 a) ellenőrizni kell
 
-aa) a közegészségügyi követelmények érvényesülését az elméleti és gyakorlati képzésre szolgáló helyiségekben, továbbá a szabadtéri foglalkoztatási és rekreációs területeken,
+aa) a közegészségügyi, valamint a balesetmegelőzési követelmények érvényesülését a gondozó és a nevelő-oktató intézményekben, az elméleti és gyakorlati képzésre szolgáló helyiségekben, továbbá a szabadtéri foglalkoztatási és rekreációs területeken,
 
 ab) a bölcsődében, a nevelési-oktatási intézményben folyó étkeztetést,
 

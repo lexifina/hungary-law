@@ -2,7 +2,7 @@
 
 (2) Az egészségügyi szolgáltatások igénybevétele során érvényesülnie kell az esélyegyenlőségnek.
 
-(3) Az egészségi állapot javításának elsődleges eszköze az egészség megőrzése és a betegségek megelőzése.
+(3) Az egészségi állapot javításának elsődleges eszköze az egészség fejlesztése, védelme és a betegségek megelőzése.
 
 (4) Az egészségügyi szolgáltatások alapvető szakmai feltételrendszere tulajdon- és működtetési formától független, kizárólag a szolgáltatás szakmai tartalmán alapul.
 

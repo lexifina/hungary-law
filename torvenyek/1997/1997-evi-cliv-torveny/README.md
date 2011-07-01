@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2010-09-16 | 2010. évi LXXXIX. törvény | 1997-154-00-00.44 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 1997-154-00-00.45 |
 | 2011-04-01 | 2011. évi XXIII. törvény | 1997-154-00-00.46 |
+| 2011-07-01 | 2011. évi LXXXI. törvény | 1997-154-00-00.47 |

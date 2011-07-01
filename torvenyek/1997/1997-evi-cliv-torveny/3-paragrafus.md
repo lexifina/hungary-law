@@ -28,7 +28,7 @@ i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változá
 
 j) veszélyeztető állapot: az az állapot, amelyben az azonnali intézkedés hiánya a beteg vagy más személy életét, testi épségét vagy egészségét közvetlenül fenyegető helyzetet eredményezne, illetőleg a környezetére közvetlen veszélyt jelentene;
 
-k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, egészségének megőrzése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
+k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
 
 ka) szűrővizsgálat: olyan vizsgálat, amelynek célja a betegség tüneteit nem mutató (tünetmentes) személy esetleges betegségének vagy kórmegelőző állapotának – ideértve a betegségre hajlamosító kockázati tényezőket is – korai felismerése,
 

@@ -4,7 +4,7 @@
 
 (2) Az EFE az Egészségügyi Fejlesztési Előirányzat Központi részéből (a továbbiakban: központi rész) és az Egészségügyi Fejlesztési Előirányzat Regionális részéből (a továbbiakban: regionális rész) áll.
 
-(3) A központi rész felhasználása kizárólag a NEP-pel összhangban
+(3) A központi rész felhasználása kizárólag
 
 a) kormányzati projektek támogatására,
 

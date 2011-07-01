@@ -4,7 +4,7 @@ a) tartózkodó természetes személyekre,
 
 b) működő egészségügyi szolgáltatókra,
 
-c) folytatott egészségügyi tevékenységekre.
+c) folytatott egészségügyi és egészségfejlesztési tevékenységekre.
 
 (2) Törvény a természetes személyek egyes csoportjai tekintetében az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 

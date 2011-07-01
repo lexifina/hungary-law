@@ -12,7 +12,7 @@ d) testvérének egyeneságbeli rokona.
 
 (3) Kivételesen a (2) bekezdésben foglalt feltételek hiánya esetén is sor kerülhet szerv adományozására. Ebben az esetben a donor és a recipiens együttes kérelmét a kórházi etikai bizottság vizsgálja meg. A kórházi etikai bizottság akkor járul hozzá a szervkivételhez, ha meggyőződött róla, hogy a donor és a recipiens között szoros érzelmi kapcsolat áll fenn és az adományozás ellenérték nélkül, valamint kényszertől, fenyegetéstől és megtévesztéstől mentesen történt.
 
-(4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szervdonor.
+(4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szerv-, illetve szövetdonor.
 
 (5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
 

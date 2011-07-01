@@ -1,4 +1,4 @@
-146/A. § (1) A NEP-hez igazodva a RET elkészíti az adott egészségügyi régió egészségfejlesztési programját.
+146/A. § (1) A RET elkészíti az adott egészségügyi régió egészségfejlesztési programját.
 
 (2) A regionális egészségfejlesztési program tartalmazza
 

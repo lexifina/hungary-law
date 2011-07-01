@@ -1,4 +1,4 @@
-113. § (1) Az egészségügyi dolgozó működési nyilvántartásának időtartama öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható.
+113. § (1) Az egészségügyi dolgozó működési nyilvántartásának érvényességi ideje öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható. A működési nyilvántartás adatainak kötelező megőrzési ideje a működési nyilvántartásból történő törléstől számított 10 év.
 
 (2) A működési nyilvántartás ötéves időtartama akkor újítható meg, ha
 

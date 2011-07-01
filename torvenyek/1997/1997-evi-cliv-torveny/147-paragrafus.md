@@ -2,7 +2,7 @@
 
 147. § (1) A Kormány az egészségügy szervezésével és irányításával összefüggő feladatkörében
 
-a) gondoskodik – a miniszter útján – a NEP előkészítéséről, illetőleg annak az Országgyűlés elé terjesztéséről,
+a)
 
 b) meghatározza az egészséget támogató kormányzati politika, ezen belül az egészségpolitika elveit, céljait és főbb irányait,
 

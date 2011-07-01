@@ -1,10 +1,10 @@
 5. § (1) Az egészségüggyel kapcsolatos társadalmi kötelezettségek az egyén saját és környezete egészségi állapotáért viselt felelősségével együtt biztosítják a lakosság egészségének védelmét és egészségi állapotának javítását.
 
-(2) Mindenki köteles tiszteletben tartani mások jogait egészségük megőrzéséhez és védelméhez, a betegségek megelőzéséhez és a gyógyuláshoz.
+(2) Mindenki köteles tiszteletben tartani mások jogait egészségük fejlesztéséhez, védelméhez, a betegségek megelőzéséhez, a gyógyuláshoz és az orvosi rehabilitációhoz.
 
 (3) Mindenkinek
 
-a) joga van olyan ismeretek megszerzéséhez, amelyek lehetővé teszik számára az egészsége megőrzésével és fejlesztésével kapcsolatos lehetőségei megismerését, valamint megfelelő tájékoztatáson alapuló döntését az egészséggel kapcsolatos kérdésekben,
+a) joga van olyan ismeretek megszerzéséhez, amelyek lehetővé teszik számára az egészsége védelmével és fejlesztésével kapcsolatos lehetőségek megismerését, valamint megfelelő tájékoztatáson alapuló döntését az egészséggel kapcsolatos kérdésekben,
 
 b) joga van tájékoztatást kapni az egészségügyi szolgáltatók által nyújtott egészségügyi ellátások jellemzőiről, azok elérhetőségéről és az igénybevétel rendjéről, továbbá a betegeket megillető jogokról és azok érvényesíthetőségéről,
 

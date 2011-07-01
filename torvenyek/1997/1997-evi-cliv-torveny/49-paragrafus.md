@@ -1,6 +1,4 @@
-49. § (1) Élelmiszert csak olyan anyagokból, illetve anyagok alkalmazásával és oly módon szabad előállítani, kezelni, forgalomba hozni, illetve külföldről behozni, amely megfelel a közegészségügyi előírásoknak.
-
-(2) Élelmiszert előállító, feldolgozó-, csomagoló-, illetve forgalomba hozó tevékenység folytatásához a külön jogszabályban előírtak szerinti esetekben az egészségügyi államigazgatási szerv hozzájárulása szükséges.
+49. § (1)–(2)
 
 (3)
 

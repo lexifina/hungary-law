@@ -6,7 +6,7 @@ a) a decentralizáció, a regionalitás elvének érvényre juttatásával az ig
 
 b) az Európai Unió strukturális alapjaiból megszerezhető forrásokhoz szükséges önrész kiegészítése.
 
-(3) A regionális rész a NEP-pel összhangban kizárólag
+(3) A regionális rész kizárólag
 
 a) a regionális egészségpolitikai programban szereplő fejlesztések, átalakítások, rekonstrukciók finanszírozására,
 

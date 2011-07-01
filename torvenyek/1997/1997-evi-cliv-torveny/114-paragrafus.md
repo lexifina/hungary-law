@@ -12,7 +12,7 @@ c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészség�
 
 d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 
-e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettek számára, a megszerezni kívánt szakképesítés szerinti megoszlásban, valamint a szakvizsgát tett személyek számára szakképesítés szerinti megoszlásban vonatkozó adatokat,
+e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettekre, a szakvizsgát tett személyekre vonatkozó adatokat, valamint a 116/A. § (5) bekezdés d) pontja szerinti adatokat,
 
 f) a d) és e) pontokban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
 
@@ -36,7 +36,7 @@ a) személyazonosításra alkalmas módon továbbítja
 
 aa) a (2) bekezdés a)–c) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
 
-ab) a (2) bekezdés e) pontja szerinti adatokat közül a szakvizsgát tett személyek számára vonatkozó adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
+ab) a (2) bekezdés e) pontja szerinti adatokat az egészségügyi államigazgatási szerv,
 
 ac) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
 
@@ -44,7 +44,7 @@ ad) a (2) bekezdés i) és k) pontja szerinti adatokat az egészségügyi állam
 
 b) személyazonosításra alkalmatlan módon továbbítja
 
-ba) a (2) bekezdés d) és f) pontja szerinti adatokat, valamint a (2) bekezdés e) pontja szerinti adatok közül egészségügyi felsőfokú szakirányú szakképzésre felvettek számára vonatkozó adatokat az orvos- és egészségtudomány képzést folytató felsőoktatási intézmények,
+ba) a (2) bekezdés d) és f) pontja szerinti adatokat az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény,
 
 bb) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
 

@@ -1,3 +1,13 @@
 244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Amennyiben a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
 
-(2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat a Módtv. hatálybalépését követően benyújtott működési nyilvántartás meghosszabbítása iránti kérelmekre kell alkalmazni.
+(2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet hatálya alá tartozó egészségügyi dolgozók esetében a Módtv. hatálybalépését követően megkezdett továbbképzési ciklusok esetében kell alkalmazni.
+
+(3) Az a személy, aki a működési nyilvántartásban az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény (a továbbiakban: Tv.) hatálybalépését megelőző napon szereplő nevétől eltérő, e törvény szerinti nevet kíván használni az egészségügyi tevékenység gyakorlása során, a Tv. hatálybalépésétől számított 60 napon belül értesítenie kell a használni kívánt névről a működési nyilvántartást vezető szervet.
+
+(4) A Tv.-nyel megállapított 35. § (5) bekezdésében foglaltakat 2012. január 1-jétől kell alkalmazni.
+
+(5) A felsőoktatási intézmények az egészségügyi felsőfokú szakirányú szakképzést az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: R.) alapján megkezdőkre vonatkozó 116/A. § (5) bekezdés szerinti adatokat 2011. szeptember 30-ig elektronikus úton megküldik az egészségügyi államigazgatási szerv részére.
+
+(6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
+
+(7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.

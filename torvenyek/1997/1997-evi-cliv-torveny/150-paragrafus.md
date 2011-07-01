@@ -2,7 +2,7 @@
 
 150. § (1) A miniszter az e törvényben foglaltaknak, valamint a Kormány egészségpolitikai döntéseinek megfelelően ellátja az egészségügy ágazati irányítását. Így különösen
 
-a) ellátja a NEP által meghatározott ágazati feladatokat,
+a)
 
 b) ellátja az egészségügyi képzéssel, szakképzéssel, szakirányú szakképzéssel és továbbképzéssel összefüggő szakmai feladatokat,
 

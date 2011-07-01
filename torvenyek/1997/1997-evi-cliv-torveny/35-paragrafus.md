@@ -2,22 +2,22 @@
 
 ## NÉPEGÉSZSÉGÜGY
 
-35. § (1) A népegészségügy a társadalom egészének szervezett tevékenysége, amelynek célja a lakosság egészségi állapotának javítása az egészség megőrzése, a betegségek megelőzése révén.
+35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, társadalmi szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
 
-(2) A népegészségügyi tevékenység körében meg kell határozni az egészség tudományosan megalapozott biológiai és természeti-társadalmi környezeti feltételeit, az egészség megőrzésének, a betegségek megelőzésének hatékony, hozzáférhető és a lakosság által elfogadható módszereit, valamint az ehhez szükséges intézményrendszer sajátosságait.
+(2) A népegészségügyi tevékenység magában foglalja
 
-(3) A népegészségügyi tevékenység keretében
+a) az egészség tudományosan megalapozott természeti és társadalmi környezeti (a továbbiakban együtt: környezeti) feltételeinek, az egészség fejlesztésének, a betegségek megelőzésének hatékony, hozzáférhető és megfelelő bizonyítékokon alapuló módszereinek, valamint az ehhez szükséges intézményrendszer kialakítása, működtetése feltételeinek meghatározását,
 
-a) rendszeresen elemezni kell a lakosság egészségi állapotát és az ezt befolyásoló kémiai, fizikai, pszichikai, biológiai, környezeti és társadalmi tényezőket,
+b) a lakosság egészségmagatartásának, az azt befolyásoló környezeti tényezőknek a rendszeres elemzését,
 
-b) az elemzés során feltárt adatok alapján értékelni kell az egészségkárosító hatások kockázatát és rangsorolni kell a népegészségügyi feladatokat,
+c) a b) pont szerinti elemzés során feltárt adatok alapján az egészségkárosító hatások kockázatának értékelését és az ennek megfelelő problémák és prioritások rangsorolását,
 
-c) ki kell dolgozni a megelőzés és az egészségkárosító hatások csökkentésének módozatait,
+d) a nemzetközi irányvonalakkal összhangban levő népegészségügyi stratégia és ennek megvalósítását elősegítő akcióterv kidolgozását, amely előre meghatározott, mérhető egészségcélokat határoz meg az egészség javítása érdekében, továbbá tartalmazza a megelőzés és az egészségkárosító hatások csökkentésére irányuló beavatkozásokat,
 
-d) a feladatok megoldása érdekében környezetegészségügyi programokat, egészségmegőrző, megelőző, gyógyító és rehabilitációs szolgáltatásokat kell megvalósítani,
+e) a feladatok megvalósítása érdekében egészségfejlesztési, egészségvédelmi, betegségmegelőzési, gyógyító és orvosi rehabilitációs szolgáltatások biztosítását,
 
-e) a szolgáltatásokat hatékonyságuk, hozzáférhetőségük és egyéb minőségi jellemzőik szerint rendszeresen értékelni kell.
+f) a szolgáltatásoknak a hatékonyságuk, eredményességük, hozzáférhetőségük és egyéb minőségi jellemzőik szerinti rendszeres értékelését.
 
-(4) Az egészséget támogató társadalompolitika céljainak meghatározásánál, valamint a döntések előkészítésénél támaszkodni kell a népegészségügyi tevékenység során feltárt adatokra.
+(3) A társadalom- és az egészségpolitika céljainak meghatározásánál, valamint a döntések előkészítésénél támaszkodni kell a népegészségügyi tevékenység során feltárt adatokra.
 
-(5) A lakosságot a népegészségügyi helyzetről, a felmerült problémákról, az előidéző tényezőkről, a várható következményekről, a megoldás lehetőségeiről és korlátairól rendszeresen tájékoztatni kell.
+(4) A lakosságot a népegészségügyi helyzetről, a felmerült problémákról, az előidéző tényezőkről, a várható következményekről, a megoldás lehetőségeiről és korlátairól rendszeresen tájékoztatni kell.

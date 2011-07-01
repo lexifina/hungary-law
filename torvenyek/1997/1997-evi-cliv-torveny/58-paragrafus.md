@@ -6,11 +6,15 @@ b) a védőoltás beadásához fűződő közegészségügyi érdeket nem veszé
 
 (2) Az elhalasztott kötelező védőoltást a halasztásra okot adó körülmény megszűnését követően haladéktalanul pótolni kell.
 
+(2a) Az (1) és (2) bekezdésben foglaltakról a kezelőorvos az egészségügyi államigazgatási szervet írásban értesíti.
+
 (3) A kezelőorvos, a beteg vagy a beteg törvényes képviselője a beteg lakóhelye szerint illetékes egészségügyi államigazgatási szervnél kérelmezheti a védőoltás alóli mentesítést, ha
 
 a) a védőoltásban részesítés a beteg egészségi állapota miatt nem lehetséges, vagy a védőoltás a beteg egészségét vagy meglévő betegségét várhatóan károsan befolyásolná, és
 
 b) az a) pont szerinti körülmény változása belátható időn belül nem várható.
+
+(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó orvosi szakvéleményt.
 
 (4) A (3) bekezdés szerinti eljárás alatt – annak jogerős befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás jogerős befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 

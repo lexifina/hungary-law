@@ -1,4 +1,4 @@
-141. § (1) Az állam – az e törvényben meghatározott keretek között – felelős a lakosság egészségi állapotáért, különösen azért, hogy az ehhez szükséges feltételrendszer kialakításával lehetővé váljon a közösségek és az egyének számára egészségi állapotuk megőrzése, védelme és fejlesztése, valamint szükség esetén lehetséges mértékű helyreállítása.
+141. § (1) Az állam – az e törvényben meghatározott keretek között – felelős a lakosság egészségi állapotáért, különösen azért, hogy az egészséghez szükséges feltételrendszer kialakításával lehetővé váljon a közösségek és az egyének számára egészségi állapotuk védelme és fejlesztése, valamint szükség esetén lehetséges mértékű helyreállítása.
 
 (2) Az állam felelősségének tartalma:
 
@@ -12,7 +12,7 @@ d) az egészségpolitikai cél-, feladat- és eszközrendszer meghatározása é
 
 (3) Az állam felelőssége körében az állam kötelezettségét képezi különösen
 
-a) az egészségmegőrzés és egészségfejlesztés alapvető feltételeinek biztosítása,
+a) az egészségfejlesztés alapvető feltételeinek biztosítása,
 
 b) az egészségügyi ellátórendszer, az egészségügyi ellátási kötelezettség és felelősség meghatározása,
 

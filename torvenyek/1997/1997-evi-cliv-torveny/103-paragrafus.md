@@ -4,7 +4,7 @@
 
 (2) A klinikai szakpszichológiai tevékenység az a klinikai és mentálhigiéniai szakpszichológus által végzett tevékenység, amely
 
-a) a lelki egészség megőrzésére és helyreállítására,
+a) a lelki egészség megőrzésére, fejlesztésére és helyreállítására,
 
 b) a lelki zavarok megállapítására, vizsgálatára és okainak feltárására,
 
