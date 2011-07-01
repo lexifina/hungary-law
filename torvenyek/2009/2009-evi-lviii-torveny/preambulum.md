@@ -1,1 +1,0 @@
-(Az Egyesült Nemzetek Főtitkára, mint a Megállapodás letéteményese körlevélben értesítette a Szerződő Feleket, hogy az ADR „A” és „B” Mellékletének 2009. évi módosításai és kiegészítései 2009. január 1-jén – 2009. június 30-ig tartó átmeneti idővel – hatályba léptek.)

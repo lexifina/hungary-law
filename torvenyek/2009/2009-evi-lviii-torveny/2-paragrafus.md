@@ -1,1 +1,0 @@
-2. § A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete 2009. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítását e törvény melléklete tartalmazza.
