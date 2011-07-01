@@ -6,39 +6,37 @@
 
 | 2 | 50/15%-ra jogosultak |
 
-| 3 |  |  | – BM egyes hivatali szervezeti egységei |
+| 3 |  |  | – BM egyes hivatali szervezeti egységei |
 
-| 4 | – Nemzeti Védelmi Szolgálat |  |  |
+| 4 | – Nemzeti Védelmi Szolgálat |  |  |
 
-| 5 | – Terrorelhárítási Központ |  |  |
+| 5 | – Terrorelhárítási Központ |  |  |
 
 | 6 | 40/20%-ra jogosultak |
 
-| 7 | – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) szervezeti elemei, kivéve az a) ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok, b) ORFK Oktatási Igazgatóság, c) Zsaru Magazin – a Köztársasági Őrezred – a Nemzeti Nyomozó Iroda | – BM Országos Katasztrófavédelmi Főigazgatóság (OKF) központi szervei | – Rendőrtiszti Főiskola |
+| 7 | – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) szervezeti elemei, kivéve az a) ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok, b) ORFK Oktatási Igazgatóság, c) Zsaru Magazin – a Köztársasági Őrezred – a Nemzeti Nyomozó Iroda | – BM Országos Katasztrófavédelmi Főigazgatóság (OKF) központi szervei | – Rendőrtiszti Főiskola – Nemzetközi Oktatási és Polgári Válságkezelési Központ |
 
 | 8 | 30/15%-ra jogosultak |
 
 | 9 | ORFK területi besorolású szervei | OKF területi besorolású háttérintézményei | Rendészeti szakközépiskolák |
 
-| 10 | – a megyei (fővárosi) rendőr-főkapitányság megyei illetékességű középirányító szervei – a Készenléti Rendőrség – a Repülőtéri Rendőr Igazgatóság – ORFK Oktatási Igazgatóság – ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok – Zsaru Magazin – Bűnügyi Szakértői és Kutató Intézet | – Fővárosi polgári védelmi és megyei katasztrófavédelmi igazgatóság megyei illetékességű középirányító szervei – Katasztrófavédelmi Oktatási Központ | – Nemzetközi Oktatási és Polgári Válságkezelési Központ |
+| 10 | – a megyei (fővárosi) rendőr-főkapitányság megyei illetékességű középirányító szervei – a Készenléti Rendőrség – a Repülőtéri Rendőr Igazgatóság – ORFK Oktatási Igazgatóság – ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és regionális gazdasági ellátó igazgatóságok – Zsaru Magazin – Bűnügyi Szakértői és Kutató Intézet | – Fővárosi polgári védelmi és megyei katasztrófavédelmi igazgatóság megyei illetékességű középirányító szervei – Katasztrófavédelmi Oktatási Központ | – BM Vezetőképző és Kutatóintézet |
 
-| – BM Vezetőképző és Kutatóintézet |
+| 11 |  | – Repülőtéri Katasztrófavédelmi Igazgatóság területi feladatokat ellátó állománya |  |
 
-| 11 |  | – Repülőtéri Katasztrófavédelmi Igazgatóság területi feladatokat ellátó állománya |  |
-
-| 12 |  | – Fővárosi Önkormányzati Tűzoltó-parancsnokság megyei illetékességű középirányító szervei |  |
+| 12 |  | – Fővárosi Önkormányzati Tűzoltó-parancsnokság megyei illetékességű középirányító szervei |  |
 
 | 13 | 15/10%-ra jogosultak |
 
-| 14 | – a rendőrkapitányságok (kerületi, városi, vízirendészeti) | – Repülőtéri Katasztrófavédelmi Igazgatóság helyi feladatokat ellátó állománya |  |
+| 14 | – a rendőrkapitányságok (kerületi, városi, vízirendészeti) | – Repülőtéri Katasztrófavédelmi Igazgatóság helyi feladatokat ellátó állománya |  |
 
-| 15 | – határrendészeti kirendeltségek |  |  |
+| 15 | – határrendészeti kirendeltségek |  |  |
 
-| 16 |  | – Országház Tűzoltó-parancsnokság |  |
+| 16 |  | – Országház Tűzoltó-parancsnokság |  |
 
-| 17 |  | – Katasztrófavédelem polgári védelmi kirendeltségei |  |
+| 17 |  | – Katasztrófavédelem polgári védelmi kirendeltségei |  |
 
-| 18 |  | – Hivatásos önkormányzati tűzoltó-parancsnokságok (kerületi, városi) |  |
+| 18 |  | – Hivatásos önkormányzati tűzoltó-parancsnokságok (kerületi, városi) |  |
 
 2. számú melléklet a 20/1997. (III. 19.) BM rendelethez
 
