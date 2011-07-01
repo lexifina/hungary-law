@@ -1,0 +1,7 @@
+# 2011. évi LXXX. törvény a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke 2011. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-80-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2011-07-01 | 2011. évi LXXX. törvény | 2011-80-00-00.0 (közlönyállapot) |
