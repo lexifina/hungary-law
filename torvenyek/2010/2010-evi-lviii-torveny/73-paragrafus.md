@@ -1,6 +1,6 @@
 73. § E törvény hatálybalépésével egyidejűleg
 
-a) az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 14. § (5) bekezdésében az „az államtitkárt” szövegrész helyébe az „a közigazgatási államtitkárt” szöveg,
+a)
 
 b) a Rendőrségről szóló 1994. évi XXXIV. törvény 6/C. § (4) bekezdésében az „az államtitkári” szövegrészek helyébe az „a közigazgatási államtitkári” szöveg,
 
