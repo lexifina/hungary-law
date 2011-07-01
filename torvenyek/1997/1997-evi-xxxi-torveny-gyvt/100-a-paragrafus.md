@@ -20,7 +20,7 @@ d) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemb
 
 (6) Az intézményvezetőre vonatkozó rendelkezéseket a gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vezetőjén kívül arra a személyre is alkalmazni kell, aki az intézményvezető jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-(7) Ha a bírságot a települési önkormányzat jegyzője mint működést engedélyező szerv szabta ki, a bírságról szóló határozatát közli az ellenőrzési jogkört gyakorló gyámhivatallal.
+(7)
 
 (8) A jogerősen kiszabott és meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül, amelyről az állami adóhatóság gondoskodik.
 
