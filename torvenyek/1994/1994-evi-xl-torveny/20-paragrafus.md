@@ -18,4 +18,4 @@
 
 (9) Az Akadémia – kapcsolódva az államháztartás rendjéhez – megadja a központi költségvetés tervezéséhez és az annak végrehajtásáról szóló beszámolóhoz szükséges információkat.
 
-(10) Az Akadémia és az akadémiai költségvetési szervek gazdálkodását az Állami Számvevőszék ellenőrzi.
+(10)
