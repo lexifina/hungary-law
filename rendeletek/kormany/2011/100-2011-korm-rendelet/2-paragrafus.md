@@ -1,0 +1,1 @@
+## „16a. végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnését követően kiállított, az adott időszak alatti mérőállás szerinti fogyasztáson és a zónaidőkhöz rendelt tarifák szorzatán alapuló számla;”

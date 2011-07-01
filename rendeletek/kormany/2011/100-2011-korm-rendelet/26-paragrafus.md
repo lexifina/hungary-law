@@ -1,0 +1,3 @@
+## 25. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Get. Vhr.) 3. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Szállítóvezeték az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett, a Hivatal által kiadott működési engedély alapján, a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló jogszabályban foglaltak szerint létesíthető. A szállítóvezetéket – a GET 121/I. § szerinti független rendszerüzemeltetőt kivéve – csak az a földgázszállító üzemeltetheti, akinek az a működési engedélyében szerepel.”
