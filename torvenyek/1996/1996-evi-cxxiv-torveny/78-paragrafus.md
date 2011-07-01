@@ -1,6 +1,8 @@
 ## Az egyes elkülönített állami pénzalapokról szóló 1992. évi LXXXIII. törvény módosítása
 
-78. § (1)–(2)
+78. § (1)
+
+(2)
 
 (3) Az Eat. 30. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
 
