@@ -1,31 +1,19 @@
-## A minden egyetemes szolgáltató által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai (Ft/kWh)
+## Az egyetemes szolgáltatók által alkalmazandó árszabások
 
-|  | A. | B. | C. | D. | E. |
+## legmagasabb egyetemes szolgáltatási árai (Ft/kWh)
+
+|  | A | B | C | D | E |
 
 | 1. | Árszabások | EDF DÉMÁSZ Zrt. | E.ON Energia- szolgáltató Kft. | ELMŰ Nyrt. | ÉMÁSZ Nyrt. |
 
-| 2. | A1 |  |  |  |  |
+| 2. | A1 – lakossági felhasználók esetében 1320 kWh/év fogyasztásig – lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére – nem lakossági felhasználók esetében | 20,92 22,07 22,07 | 20,21 22,83 22,83 | 21,28 22,70 22,70 | 21,86 23,32 23,32 |
 
-| – lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 21,88 | 21,17 | 22,24 | 22,82 |
+| 3. | A2 – csúcsidőszak – völgyidőszak | 25,80 15,29 | 28,89 17,47 | 27,96 16,90 | 26,87 16,23 |
 
-| – lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 23,03 | 23,79 | 23,66 | 24,28 |
+| 4. | A3 – csúcsidőszak – völgyidőszak | 26,06 15,46 | 31,34 19,80 | 27,96 16,90 | 26,87 16,23 |
 
-| – nem lakossági felhasználók esetében | 23,03 | 23,79 | 23,66 | 24,28 |
+| 5. | B Alap | 14,91 | 15,69 | 15,36 | 15,43 |
 
-| 3. | A2 |  |  |  |  |
-
-| – csúcsidőszak | 26,76 | 29,85 | 28,92 | 27,83 |
-
-| – völgyidőszak | 16,25 | 18,43 | 17,86 | 17,19 |
-
-| 4. | A3 |  |  |  |  |
-
-| – csúcsidőszak | 27,02 | 32,30 | 28,92 | 27,83 |
-
-| – völgyidőszak | 16,42 | 20,76 | 17,86 | 17,19 |
-
-| 5. | B Alap | 15,87 | 16,65 | 16,32 | 16,39 |
-
-| 6. | H | 15,87 | 16,65 | 16,32 | 16,39 |
+| 6. | H | 14,91 | 15,69 | 15,36 | 15,43 |
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez
