@@ -1,0 +1,1 @@
+21/H. § Az adatkezelés jogszerűségének ellenőrzése érdekében a közigazgatási bírságnyilvántartásba a nyilvántartó szerv szakmai felügyeletét ellátó miniszter, az adatvédelmi biztos, illetve az általuk meghatalmazott személy, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.

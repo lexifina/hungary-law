@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2010-09-01 | 2010. évi XLIII. törvény | 1988-1-00-00.41 |
 | 2011-01-01 | 2010. évi CLXXII. törvény | 1988-1-00-00.42 |
 | 2011-01-15 | 2010. évi CLXXII. törvény | 1988-1-00-00.43 |
+| 2011-07-01 | 2010. évi CLXXII. törvény | 1988-1-00-00.44 |

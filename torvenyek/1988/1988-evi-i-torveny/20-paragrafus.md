@@ -20,7 +20,7 @@ i) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekre,
 
 j) a nehéz tehergépkocsik közlekedésének korlátozására,
 
-k) a biztonsági öv, a gyermekbiztonsági rendszer, a motorkerékpár-bukósisak és a mobil rádiótelefon használatára
+k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”)
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -28,11 +28,13 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdésben foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta egy év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+
+(4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (5) A bírságot a rendelkezés megsértéséért felelős köteles megfizetni. Amennyiben valamely rendelkezés megsértéséért többen is felelőssé tehetők, a külön jogszabályban meghatározott bírság összegét a jogsértésben való felelősségük arányában kötelesek megfizetni. Ha a felelősségük aránya nem állapítható meg, a bírságfizetési kötelezettség őket egyenlő arányban terheli. Nem állapítható meg a bírságfizetési kötelezettség a közúti szállítást végző működési körén kívül eső olyan elháríthatatlan ok esetén, amelyet az nem látott és ésszerű elvárhatóság mellett nem is láthatott előre.
 
-(6) A beszedett bírság a központi költségvetés központosított bevételét képezi. A kivetett bírság összegének megfizetése meghatározott számlára történő befizetéssel történik. A megfizetett bírság, illetőleg a pénzkövetelés biztosítás összegét a külön jogszabályban foglaltak szerint, az azt megállapító határozat jogerőre emelkedéséig az eljáró hatóságnak letétként kell kezelnie.
+(6) A beszedett bírság a központi költségvetés központosított bevételét képezi. A kivetett bírság összegének megfizetése meghatározott számlára történő befizetéssel történik. A megfizetett bírság, illetőleg a pénzkövetelés biztosítás összegét a külön jogszabályban foglaltak szerint, az azt megállapító döntés jogerőre emelkedéséig az eljáró hatóságnak letétként kell kezelnie.
 
 (7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
 
@@ -42,7 +44,7 @@ b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény
 
 (8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni és a jármű forgalmi engedélyét – az átvételét igazoló elismervény egyidejű kiállítása és a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (8) bekezdés szerint kijelölt várakozási helyről és annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
+(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
 
 (10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
 
@@ -79,3 +81,5 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 (13) Az e § szerinti, a közúti áru- és személyszállítást érintő ellenőrzések szakmai útmutatását és koordinációját – a külön jogszabályban meghatározott rendelkezések szerint – a közlekedési hatóság látja el.
 
 (14) Az e § alapján lefolytatott bírságolási eljárás során hozott döntéssel szemben előterjesztett fellebbezés esetén a fellebbezéssel nem támadott rendelkezés jogerős.
+
+(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
