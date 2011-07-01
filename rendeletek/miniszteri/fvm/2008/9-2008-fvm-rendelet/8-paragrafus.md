@@ -4,15 +4,7 @@
 
 8. § (1)[^16]
 
-(2)[^17] A kifizetési kérelmet évente:
-
-a) április 1–30.;
-
-b) július 1–31.;
-
-c) október 1–31.
-
-között kell benyújtani.
+(2)[^17]
 
 (3) Az utolsó kifizetési kérelemhez csatolni kell:
 
@@ -26,5 +18,5 @@ d) a gépjárműre vonatkozó adásvételi szerződést vagy annak hiteles máso
 
 [^15]: A 7. § a 23/2010. (III. 16.) FVM rendelet 21. § (4) bekezdésével megállapított szöveg.
 [^16]: A 8. § (1) bekezdését a 23/2010. (III. 16.) FVM rendelet 21. § (6) bekezdése hatályon kívül helyezte.
-[^17]: A 8. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 21. § (5) bekezdésével megállapított szöveg.
+[^17]: A 8. § (2) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § d) pontja hatályon kívül helyezte.
 [^18]: A 8. § (3) bekezdésének a) pontja az 54/2008. (IV. 24.) FVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
