@@ -2,7 +2,8 @@
 
 (2)[^2] Az (1) bekezdés szerint vételre felajánlott földgáz fajlagos árának meghatározása az 1. melléklet szerinti képlettel történik.
 
-(3) A volt közüzemi nagykereskedő jogosult a felajánlási áron túlmenően érvényesíteni a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 2. § (1) bekezdés e) pontjában meghatározott nagykereskedői árrést, valamint a földgázforrás behozatalához szükséges, osztrák–magyar államhatár Baumgarten felőli belépési ponti szállítási kapacitás díját.
+(3)[^3] A volt közüzemi nagykereskedő jogosult a felajánlási áron túlmenően érvényesíteni a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet (a továbbiakban: árképzési rendelet) 2. § (1) bekezdés e) pontjában meghatározott nagykereskedői árrést, valamint a földgázforrás behozatalához szükséges, osztrák–magyar államhatár Baumgarten felőli belépési ponti szállítási kapacitás díját.
 
 [^1]: Az 1. § (1) bekezdése a 38/2010. (XII. 31.) NFM rendelet 2. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 38/2010. (XII. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 32/2011. (VI. 30.) NFM rendelet 7. §-a szerint módosított szöveg.

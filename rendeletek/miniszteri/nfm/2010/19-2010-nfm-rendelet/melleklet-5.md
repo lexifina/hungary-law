@@ -1,10 +1,10 @@
-## Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2011. második negyedévre
+## Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2011. harmadik negyedévre
 
 | Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (USD/GJ) |
 
-| FŐGÁZ Zrt. | 2578 | 9,329 |
+| FŐGÁZ Zrt. | 1547 | 6,986 |
 
-5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^20]
+5. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^21]
 
 A GET 141. § (1) bekezdése szerint a volt közüzemi nagykereskedő forrásaival rendelkező kereskedő által felajánlott földgázforrás ára a következőket tartalmazza:
 
@@ -108,4 +108,4 @@ e) A mobilgáz-finanszírozás költsége:
 
 A betárolt földgázmennyiségre negyedévente frissített, az aktuális negyedévet megelőző negyedév második hónapjának 1. és 15. napja közötti időszak banki napjain jegyzett hathavi BUBOR bankközi kamatláb átlaga +75 bázisponton számított finanszírozási költség.
 
-[^20]: Az 5. mellékletet a 12/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdése iktatta be.
+[^21]: Az 5. mellékletet a 12/2011. (IV. 7.) NFM rendelet 4. § (2) bekezdése iktatta be.
