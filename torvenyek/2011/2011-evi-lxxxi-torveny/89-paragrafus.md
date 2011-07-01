@@ -7,11 +7,3 @@
 (3) A 83. § (2) bekezdése 2012. január 1-jén lép hatályba.
 
 (4) Ez a törvény 2012. január 2-án hatályát veszti.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-azOrszággyűlés alelnöke
