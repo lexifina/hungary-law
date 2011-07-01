@@ -26,4 +26,4 @@ j) azon körülményeket, amelyek fennállása esetén a támogatást nyújtó a
 
 (4) Az alaprésznek az oktatásért felelős miniszter rendelkezési jogkörébe tartozó részével összefüggő, az (1) bekezdésben meghatározott feladatot – az oktatásért felelős miniszter szakmai irányításával –, az állami szakképzési és felnőttképzési intézet látja el.
 
-(5) Az alaprész felhasználásának ellenőrzését az állami szakképzési és felnőttképzési intézet, az Állami Számvevőszék, valamint a Kormány által kijelölt belső ellenőrzési szerv végzi.
+(5) Az alaprész felhasználásának ellenőrzését az állami szakképzési és felnőttképzési intézet, valamint a Kormány által kijelölt belső ellenőrzési szerv végzi.
