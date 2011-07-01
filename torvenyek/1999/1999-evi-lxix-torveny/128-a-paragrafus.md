@@ -10,6 +10,8 @@
 
 (5) Az előkészítő eljárás befejezését követő 3 munkanapon belül a rendőrség az előkészítő eljárás anyagát – a (6) bekezdésben foglalt eseten kívül – a bíróságnak megküldi.
 
+(5a) A rendőri szerv az előkészítő eljárás anyagának bírósághoz történő áttételét megelőzően – az érték-egybefoglalás megállapíthatósága érdekében – ellenőrzi, hogy az eljárás alá vont személlyel szemben tulajdon elleni szabálysértés elkövetése miatti előkészítő eljárás más rendőri szervnél folyik-e.
+
 (6) A 84. § (1) bekezdés a)–g) pontban szereplő okok fennállása esetén az eljárást a rendőrség szünteti meg.
 
 (7) Az előkészítő eljárást lefolytató a 47. § (3) bekezdése szempontjából az eljárás résztvevője.
