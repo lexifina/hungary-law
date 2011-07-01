@@ -24,7 +24,7 @@ e) az egészségügyi szolgáltató nyilatkozatát arról, hogy az átcsoportos�
 
 (6)[^48] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés krónikus fekvőbeteg-szakellátási kapacitás intézeti hospice ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. § és a 2. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó kapacitás szakma szerinti besorolását.
 
-(7)[^49] A Tv. 7. § (3) bekezdése szerinti átcsoportosítás esetén az átcsoportosítandó kapacitás nem haladhatja meg az adott szakma kapacitásának 30%-át. Az átcsoportosítással létrejövő kapacitásnövekmény egy adott szakmában legfeljebb 30%-ot érhet el. Amennyiben az átcsoportosítással új szakma kerül kialakításra, az új szakmára meghatározott ellátási terület figyelembevételével a 10 ezer főre jutó kapacitás nem haladhatja meg az adott szakmára vonatkozó országos átlagot.
+(7)[^49] Amennyiben a Tv. 7. § (3) bekezdése szerinti átcsoportosítással új szakma kerül kialakításra, az új szakmára meghatározott ellátási terület figyelembevételével a 10 ezer főre jutó kapacitás nem haladhatja meg az adott szakmára vonatkozó országos átlagot.
 
 (8)[^50] A Tv. 7. § (3) bekezdése szerinti átcsoportosítás az egészségügyi szolgáltatóra irányadó, külön jogszabály szerinti teljesítményvolumen változása nélkül kezdeményezhető. Ugyanazon szakmára vonatkozóan az egészségügyi szolgáltató újabb átcsoportosítást az előző átcsoportosítástól számított egy éven belül nem kezdeményezhet.
 
@@ -65,7 +65,7 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 [^46]: A 8. § (4) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^47]: A 8. § (5) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^48]: A 8. § (6) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
-[^49]: A 8. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg. [A 8. § (7) bekezdésének a 363/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított, a 17. § (2) bekezdése alapján 2011. július 1-jétől hatályos szövege: „(7) Amennyiben a Tv. 7. § (3) bekezdése szerinti átcsoportosítással új szakma kerül kialakításra, az új szakmára meghatározott ellátási terület figyelembevételével a 10 ezer főre jutó kapacitás nem haladhatja meg az adott szakmára vonatkozó országos átlagot.”.]
+[^49]: A 8. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^50]: A 8. § (8) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
 [^51]: A 8. § (9) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^52]: A 8. § (9a) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
