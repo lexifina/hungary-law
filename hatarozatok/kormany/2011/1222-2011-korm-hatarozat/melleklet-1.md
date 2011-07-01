@@ -50,6 +50,8 @@
 
 ## 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 10. Hatályát veszti az országos közúthálózat fejlesztésének, fenntartásának és üzemeltetésének hosszú és középtávú feladatairól, valamint finanszírozásának egyes kérdéseiről szóló 2044/2003. (III. 14.) Korm. határozat.
+## 10.[^1]
 
 1. melléklet az 1222/2011. (VI. 29.) Korm. határozathoz
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
