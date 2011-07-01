@@ -1,6 +1,6 @@
 80. § E törvény hatálybalépésével egyidejűleg
 
-a) az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 14. § (5) bekezdésében a „szakállamtitkárt” szövegrész helyébe a „helyettes államtitkárt” szöveg,
+a)
 
 b) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 33/A. § (1) bekezdés c) pontjában az „államtitkár, szakállamtitkár” szövegrész helyébe az „államtitkár, közigazgatási államtitkár, helyettes államtitkár” szöveg,
 

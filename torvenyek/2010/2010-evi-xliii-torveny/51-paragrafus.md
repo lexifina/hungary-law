@@ -6,4 +6,4 @@
 
 (3) Az államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
 
-(4) Az államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
+(4) Az államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.

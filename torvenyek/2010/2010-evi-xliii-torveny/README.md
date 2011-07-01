@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2010-12-31 | 2010. évi CLXXI. törvény | 2010-43-00-00.8 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 2010-43-00-00.9 |
 | 2011-04-02 | 2011. évi XXX. törvény | 2010-43-00-00.10 |
+| 2011-07-01 | 2011. évi CXXVIII. törvény | 2010-43-00-00.11 |
