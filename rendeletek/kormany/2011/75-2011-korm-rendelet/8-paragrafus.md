@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A Vhr. 100. §-a a következő (4) bekezdéssel egészül ki:
 
-[^7]: A 7. § a 31. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+## „(4) Átviteli rendszerüzemeltető esetén a vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosa köteles a VET 153. § (2) bekezdésében foglaltaknak megfelelni.”

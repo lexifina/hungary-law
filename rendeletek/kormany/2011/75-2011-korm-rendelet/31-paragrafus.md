@@ -1,4 +1,4 @@
-## 30. §[^30]
+## 30. §[^29]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) E rendelet 2. §-a az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
-[^30]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
