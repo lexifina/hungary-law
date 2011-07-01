@@ -100,7 +100,11 @@ b) mikrovállalkozások létrehozása és fejlesztése,
 
 c) turisztikai tevékenységek ösztönzése,
 
-d) a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások,
+d)[^6] a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások az alábbiak szerint,
+
+da) kistérségi közlekedési szolgáltatások fejlesztése,
+
+db) többfunkciós szolgáltató központ létesítése,
 
 e) falumegújítás és -fejlesztés,
 
@@ -118,13 +122,17 @@ a) helyi fejlesztési stratégiák kidolgozása,
 
 b) hazai és nemzetközi térségek közötti együttműködések,
 
-c) a helyi akciócsoportok működtetési költségei.
+c) a helyi akciócsoportok működtetési költségei,
 
-(5)[^6] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: a földművelésügyi és vidékfejlesztési miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a Vidékfejlesztési Képzési és Szaktanácsadási Intézet, mint az IH technikai támogató egysége.
+d)[^7] a helyi fejlesztési stratégiák megvalósítása (LEADER).
+
+(5)[^8] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: a földművelésügyi és vidékfejlesztési miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a Vidékfejlesztési Képzési és Szaktanácsadási Intézet, mint az IH technikai támogató egysége.
 
 [^1]: Az 1. § az 53/2008. (IV. 24.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^2]: A 2. § (1) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (2) bekezdésének o) pontját az 51/2009. (IV. 16.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^5]: A 2. § (2) bekezdés p) pontját a 18/2011. (III. 9.) VM rendelet 30. §-a iktatta be.
-[^6]: A 2. § (5) bekezdése az 53/2008. (IV. 24.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^6]: A 2. § (3) bekezdés d) pontja az 57/2011. (VI. 20.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (4) bekezdés d) pontját az 57/2011. (VI. 20.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § (5) bekezdése az 53/2008. (IV. 24.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
