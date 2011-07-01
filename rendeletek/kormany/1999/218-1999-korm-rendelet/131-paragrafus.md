@@ -8,6 +8,6 @@ b) villamos berendezés és készülék, villamos fogyasztó berendezés létes�
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^165] Az (1) bekezdés a)–b) pontjában meghatározott szabálysértés miatt az eljárás a munkavédelmi felügyelőség, továbbá a bányakapitányság hatáskörébe is tartozik.
+(2)[^163] Az (1) bekezdés a)–b) pontjában meghatározott szabálysértés miatt az eljárás a munkavédelmi felügyelőség, továbbá a bányakapitányság hatáskörébe is tartozik.
 
-[^165]: A 131. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.
+[^163]: A 131. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.

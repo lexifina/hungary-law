@@ -10,6 +10,6 @@ c) a foglalkozási megbetegedéssel kapcsolatos bejelentési, kivizsgálási, ny
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^139] Az (1) bekezdésben meghatározott szabálysértés miatt a bányakapitányság, az (1) bekezdés a) és b) pontjában meghatározott szabálysértés miatt a munkavédelmi felügyelőség.
+(2)[^137] Az (1) bekezdésben meghatározott szabálysértés miatt a bányakapitányság, az (1) bekezdés a) és b) pontjában meghatározott szabálysértés miatt a munkavédelmi felügyelőség.
 
-[^139]: A 98. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.
+[^137]: A 98. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.

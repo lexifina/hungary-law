@@ -1,6 +1,6 @@
 ## Gyógyszerrendészeti és állatgyógyászati készítményekkel kapcsolatos szabálysértés
 
-105. § (1)[^148] Aki
+105. § (1)[^146] Aki
 
 a) engedély nélkül gyógyszert készít vagy forgalmaz, illetőleg a forgalomból kivont, vagy Magyarországon nem engedélyezett gyógyszert jogosulatlanul forgalomba hoz, vagy indokolatlan mennyiségben tart, Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart,
 
@@ -30,4 +30,4 @@ c) állatgyógyászati készítményt engedély nélkül kipróbál,
 
 (5) Az (1) bekezdés a) pontja alkalmazásában indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott beteg személyes szükségleteinek kielégítését célozza.
 
-[^148]: A 105. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^146]: A 105. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
