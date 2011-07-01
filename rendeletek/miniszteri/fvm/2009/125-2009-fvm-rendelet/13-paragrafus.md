@@ -1,3 +1,3 @@
-## 11–12. §[^2]
+## 11–12. §[^3]
 
-[^2]: A 11–12. § a 13. § alapján hatályát vesztette.
+[^3]: A 11–12. § a 13. § alapján hatályát vesztette.

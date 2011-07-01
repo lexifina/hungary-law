@@ -2,16 +2,12 @@
 
 ## Kifizetési kérelem
 
-8. § (1) A kifizetési kérelmet a 2010. évtől kezdődően évente
-
-a) május 1–31.,
-
-b) november 1–30.
-
-között lehet benyújtani az MVH-hoz.
+8. § (1)[^2]
 
 (2) Ha a beruházás építésiengedély-köteles, akkor
 
 a) az első kifizetési kérelemhez mellékelni kell a jogerős építési engedély hiteles másolatát, valamint vízi létesítményhez történő csatlakozás esetén a létesítési vízjogi engedély hiteles másolatát,
 
 b) az utolsó kifizetési kérelemhez mellékelni kell a forgalomba helyezési engedély hiteles másolatát.
+
+[^2]: A 8. § (1) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § k) pontja hatályon kívül helyezte.

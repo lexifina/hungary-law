@@ -1,5 +1,5 @@
-## 13. §[^3]
+## 13. §[^4]
 
 ## Az Európai Unió jogának való megfelelés
 
-[^3]: A 13. § ugyanezen § alapján hatályát vesztette.
+[^4]: A 13. § ugyanezen § alapján hatályát vesztette.

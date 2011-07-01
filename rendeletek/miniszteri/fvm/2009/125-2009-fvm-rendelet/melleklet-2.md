@@ -186,6 +186,6 @@
 
 | Mindösszesen: |  | max. 100 |
 
-2. melléklet a 125/2009. (IX. 29.) FVM rendelethez[^4]
+2. melléklet a 125/2009. (IX. 29.) FVM rendelethez[^5]
 
-[^4]: A 2. számú melléklet a 13. § alapján hatályát vesztette.
+[^5]: A 2. számú melléklet a 13. § alapján hatályát vesztette.
