@@ -102,7 +102,7 @@
 
 ## ΣC = a fejlesztésnek az 5. § (4)–(6) bekezdések alapján meghatározott elszámolható költségei (ezer Ft).
 
-2. melléklet a 78/2007. (VII. 30.) FVM rendelethez[^26]
+2. melléklet a 78/2007. (VII. 30.) FVM rendelethez[^27]
 
 1. A támogatási kérelemhez rendszeresített formanyomtatvány kötelező adattartalma:
 
@@ -124,4 +124,4 @@
 
 1.10. a mezőgazdasági üzem termelési szerkezetének adatai a Vhr. 1. számú melléklete szerinti bontásban.
 
-[^26]: A 2. mellékletet a 23/2010. (III. 16.) FVM rendelet 5. § (3) bekezdése iktatta be.
+[^27]: A 2. mellékletet a 23/2010. (III. 16.) FVM rendelet 5. § (3) bekezdése iktatta be.
