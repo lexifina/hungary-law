@@ -1,6 +1,6 @@
-## VKKI feladatai[^90]
+## VKKI feladatai[^89]
 
-## 33/A. §[^91] A VKKI alaptevékenysége körében ellátja a miniszter feladat- és hatáskörébe tartozó
+## 33/A. §[^90] A VKKI alaptevékenysége körében ellátja a miniszter feladat- és hatáskörébe tartozó
 
 a) a vizek kártételei elleni védelemmel, különös tekintettel a Műszaki Törzs vezetésére,
 
@@ -20,5 +20,5 @@ h) az Országos Környezeti Kármentesítési Programmal kapcsolatos, továbbá
 
 i) egyéb, a miniszter által feladatkörébe utalt
 
-[^90]: A 33/A. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
-[^91]: A 33/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^89]: A 33/A. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^90]: A 33/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

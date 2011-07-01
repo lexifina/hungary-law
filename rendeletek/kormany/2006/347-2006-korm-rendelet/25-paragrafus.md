@@ -1,4 +1,4 @@
-## 24/A. §[^42] A Kormány természetvédelmi őrszolgálatként a Természetvédelmi Őrszolgálatot jelöli ki, amely az NPI szervezetén belül működik.
+## 24/A. §[^41] A Kormány természetvédelmi őrszolgálatként a Természetvédelmi Őrszolgálatot jelöli ki, amely az NPI szervezetén belül működik.
 
 ## SZAKHATÓSÁGOK KIJELÖLÉSE
 
@@ -10,4 +10,4 @@ a) az OKTVF-t, valamint
 
 b) a felügyelőséget,
 
-[^42]: A 24/A. §-t a 11/2007. (II. 6.) Korm. rendelet 1. §-a iktatta be.
+[^41]: A 24/A. §-t a 11/2007. (II. 6.) Korm. rendelet 1. §-a iktatta be.
