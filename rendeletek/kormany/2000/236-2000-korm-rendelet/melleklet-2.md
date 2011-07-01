@@ -1,70 +1,46 @@
-## A pontrendszer hatálya alá tartozó egyes szabálysértések
+## A pontrendszer hatálya alá tartozó egyes közigazgatási bírsággal sújtandó jogsértések
 
-| Kód- szám | Tényállás | Pont- szám |
+| Kódszám | Tényállás | Pontszám |
 
-| 07 | Járművezetés az eltiltás tartama alatt [a szabálysértésekről szóló 1999. évi LXIX. törvény 156/A. § (1) bek.] | 5 |
+| 16 | A megengedett legnagyobb sebesség túllépése |  |
 
-| 08 | Ittas vezetés [az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet (a továbbiakban: SzR.) 42. § (1) bek.]; | 5 |
+| 1601 | A megengedett legnagyobb sebesség túllépése [a közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet (a továbbiakban: KR.) 1. melléklet 1. pont a)–c) alpontja, 2. pont a)–c) alpontja, 3. pont a)–c) alpontja, a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: BR.) 11/B. melléklet 1. pont a)–c) alpontja, 2. pont a)–c) alpontja, 3. pont a)–c) alpontja]; | 4 |
 
-| 09 | Sebességkorlátozás jelentős túllépése [SzR. 43. § (1) bek.]; | 5 |
+| 1602 | A megengedett legnagyobb sebesség túllépése [KR. 1. melléklet 1. pont d)–e) alpontja, 2. pont d)–e) alpontja, 3. pont d)–e) alpontja, BR. 11/B. melléklet 1. pont d)–e) alpontja, 2. pont d)–e) alpontja, 3. pont d)–e) alpontja]; | 6 |
 
-| 10 | Az elsőbbség és az előzés szabályainak megsértése: |  |
+| 1603 | A megengedett legnagyobb sebesség túllépése [KR. 1. melléklet 1. pont f)–g) alpontja, 2. pont f)–g) alpontja, 3. pont f)–g) alpontja, BR. 11/B. melléklet 1. pont f)–g) alpontja, 2. pont f)–g) alpontja, 3. pont f)–g) alpontja]; | 8 |
 
-| 1001 | Az elsőbbség és az előzés szabályainak megsértése [SzR. 44. § (1) bek.]; | 4 |
+| 17 | Vasúti átjárón áthaladás szabályainak megsértése [KR. 2. melléklet 1. pont, BR. 11/C. melléklet 2. pont]; | 8 |
 
-| 1002 | Az elsőbbség és az előzés szabályainak megsértése [SzR. 44. § (2) bek.]; | 5 |
+| 18 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt, kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KR. 4. melléklet 1. pont]; | 6 |
 
-| 11 | Vasúti átjárón áthaladás szabályainak megsértése [SzR. 45. § (1) bek.]; | 5 |
+| 19 | Az autópálya leállósávján történő haladás [KR. 5. melléklet 1. pont]; | 6 |
 
-| 12 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; |  |
+| 20 | Megállás az autópálya úttestjén és leállósávján [KR. 5. melléklet 2. pont]; | 6 |
 
-| 1201 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; | 4 |
+| 21 | A behajtás tilalmára vonatkozó szabályok megszegése [KR. 6. melléklet 1. pont]; | 4 |
 
-| 1202 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; könnyű testi sértés okozása esetén | 5 |
+| 22 | A kötelező haladási irányra vonatkozó szabályok megszegése [KR. 6. melléklet 2. pont]; | 4 |
 
-| 13 | Engedély nélküli vezetés (közúti forgalomban gépi meghajtású jármű vezetése más kategóriába tartozó engedéllyel, illetve a jármű vezetésének átengedése engedéllyel nem rendelkező részére) [SzR. 47. § (1) bek.]; | 4 |
+| 23 | Ittas vezetés |  |
 
-| 14 | Biztonságos közlekedésre alkalmatlan jármű vezetése üzemképtelen fék, kormányberendezés esetén [SzR. 48. § (1) bek.]; | 5 |
+| 2301 | Ittas vezetés [BR. 11/D. melléklet 1. pont]; | 6 |
 
-| 15 | Közúti közlekedési szabályok kisebb fokú megsértése közül, amennyiben a jogsértés más helyen meghatározott körbe nem sorolható [SzR. 54. § (1) bek.]: |  |
+| 2302 | Ittas vezetés [BR. 11/D. melléklet 2. pont]; | 8 |
 
-| 1501 | A megengedett sebességhatár legalább negyedével történő túllépése [a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) 14. § (1) bekezdés d) pont, 26. §] | 3 |
+| 2303 | Ittas vezetés [BR. 11/D. melléklet 3. pont]; | 8 |
 
-| 1502 | Irányjelzés szabályainak megszegése [KRESZ 29. §]; | 3 |
+| 24 | A forgalomirányító fényjelző készülék előtti megállási kötelezettség megszegése [KR. 3. melléklet 1., 2. pont, BR. 11/C. melléklet 1. pont]; | 8 |
 
-| 1503 | Bekanyarodási szabályok megsértése [KRESZ 31. § (1)–(4) bek.]; | 2 |
+| 25 | Biztonsági öv használata nélküli közlekedés |  |
 
-| 1504 | Megállás, megfordulás, hátramenet szabályainak megszegése autópályán, autóúton és vasúti átjáróban [KRESZ 33. § (2) bek., 37. § (3) bek. b) pont, (4) bek.]; | 5 |
+| 2501 | a) lakott területen [BR. 11/A. melléklet 1. pont]; | 3 |
 
-| 1505 | Megállás útkereszteződésben és az úttestek széleinek metszéspontjától számított 5 m-es távolságon belül [40. § (5) bekezdés d) pont]; | 2 |
+|  | b) lakott területen kívül [BR. 11/A. melléklet 2. pont]; |  |
 
-| 1506 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt [KRESZ 40. § (5) bekezdés e) pontja]; | 4 |
+| 2502 | autóúton, autópályán [BR. 11/A. melléklet 3. pont]. | 5 |
 
-| 1507 | Megállás kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KRESZ 40. § (5) bekezdés a), c), l) pont]; | 4 |
-
-| 1508 | A forgalomirányító fényjelző készülék tilos jelzésén való áthaladás [KRESZ 9. § (4) bekezdés d) pont]; | 4 |
-
-| 1509 | A rendőr jelzésének figyelmen kívül hagyása [KRESZ 6. § (1) bek. a) pontjának második francia bekezdése és e) pont]; | 4 |
-
-| 1510 | Megállás vasúti átjáróban, valamint a vasúti átjáró előtt [KRESZ 40. § (5) bekezdés g) pontja]; | 4 |
-
-| 1511 | Gyalogosok elsőbbségére vonatkozó szabályok megsértése [KRESZ 43. § (1) bek.]; | 4 |
-
-| 1512 |  |  |
-
-| 1513 |  |  |
-
-| 1514 | Nem megfelelő sebesség alkalmazása (relatív sebességtúllépés) [KRESZ 25. § (1) bek.] – csak halmazatként alkalmazható; | 1 |
-
-| 1515 | Egyes jelzőtáblák utasításainak megszegése [KRESZ 13. § (1) bekezdés a) 14. § (1) bekezdés a)–c), e)–u), valamint y)–z), z/2. pont]; | 2 |
-
-| 1516 | A kijelölt gyalogos-átkelőhely előtt megálló jármű melletti elhaladás megállás nélkül [KRESZ 43. § (3) bekezdés]; | 4 |
-
-| 1517 | Jobbra tartási kötelezettség megsértése [KRESZ 25. § (2) bekezdés]; | 1 |
-
-| 1518 | Záróvonal és járműforgalom elől elzárt területen való áthaladás [KRESZ 18. § (1) bekezdés c), k) pont]. | 1 |
-
-2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^13]
+2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
 
 Eljáró bíróság hatóság megnevezése kódja:
 
@@ -148,4 +124,4 @@ A Kpt. 4. § (2) bekezdés szerinti halmazati összpontszám:
 
 |  |  |  |  | KH ügyintéző |
 
-[^13]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja szerint módosított szöveg.
+[^14]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja szerint módosított szöveg.
