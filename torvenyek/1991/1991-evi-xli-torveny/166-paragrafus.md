@@ -10,9 +10,9 @@ b) a 2009. január 1-jét követően érkezett közjegyzői nemperes eljárásba
 
 c) az elektronikus úton vezetett levéltárban elhelyezett, 2004. július 1-jét követően létrejött okiratok eredeti példányait, ha elkészítésük óta öt év eltelt;
 
-[d) az 1992. január 1. napja és 2004. június 30. napja között készült papír alapú okiratok eredeti példányait,
+d) az 1992. január 1. napja és 2004. június 30. napja között készült papír alapú okiratok eredeti példányait,
 
-e) a Magyar Országos Közjegyzői Kamara és a területi kamarák maradandó értékű iratait.]
+e) a Magyar Országos Közjegyzői Kamara és a területi kamarák maradandó értékű iratait.
 
 (2) A közjegyzői levéltár a Magyar Országos Közjegyzői Kamara által fenntartott köztestületi levéltár.
 
