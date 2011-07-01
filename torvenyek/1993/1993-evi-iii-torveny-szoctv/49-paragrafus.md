@@ -4,9 +4,9 @@
 
 (2) A közgyógyellátási igazolvánnyal (a továbbiakban: igazolvány) rendelkező személy – külön jogszabályban meghatározottak szerint – térítésmentesen jogosult a társadalombiztosítási támogatásba befogadott
 
-a) járóbeteg-ellátás keretében rendelhető gyógyszerekre – ideértve a különleges táplálkozási igényt kielégítő tápszereket is – gyógyszerkerete erejéig,
+a) járóbeteg-ellátás keretében rendelhető egyes, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló jogszabályban meghatározott gyógyszerekre – ideértve a különleges táplálkozási igényt kielégítő tápszereket is – gyógyszerkerete erejéig,
 
-b) egyes, külön jogszabályban meghatározott gyógyászati segédeszközökre, ideértve a protetikai és fogszabályozó eszközöket is, valamint azok javítására és kölcsönzésére, továbbá
+b) egyes, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló jogszabályban meghatározott gyógyászati segédeszközökre, ideértve a protetikai és fogszabályozó eszközöket is, valamint azok javítására és kölcsönzésére, továbbá
 
 c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátásokra [az a)–c) pont szerintiek a továbbiakban együtt: gyógyító ellátás].
 
