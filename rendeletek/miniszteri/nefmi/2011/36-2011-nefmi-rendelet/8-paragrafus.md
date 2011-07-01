@@ -1,0 +1,1 @@
+## 7. § Az egynapos sebészeti és a kúraszerűen végezhető ellátások szakmai feltételeiről szóló 16/2002. (XII. 12.) ESZCSM rendelet (a továbbiakban: R2.) 3. § (1) bekezdése a „megfelel” szövegrészt követően az „ , amennyiben azt az R. 9. számú melléklete engedi” szöveggel egészül ki.
