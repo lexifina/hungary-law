@@ -1,5 +1,3 @@
-## „(4) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott és 2012. január 1-jén hivatalban lévő alelnökének megbízatását a 14. § nem érinti, rá megbízatásának megszűnéséig e törvény 10–12. §-ának szabályait kell alkalmazni, azzal, hogy azok alkalmazásában az Állami Számvevőszék elnökén az Állami Számvevőszék alelnökét kell érteni.”
-
 ## Hatályon kívül helyező rendelkezések
 
 38. § (1) Hatályát veszti
@@ -65,11 +63,3 @@ o) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 92. § (1) bek
 p) a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 15. § (5) bekezdésében az „az Állami Számvevőszék,” szövegrész,
 
 q) az állami vagyonról szóló 2007. évi CVI. törvény 36. § (3) bekezdésének második mondata.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
