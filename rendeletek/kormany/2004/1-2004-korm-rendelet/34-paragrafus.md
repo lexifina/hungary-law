@@ -8,27 +8,29 @@ Melléklet az 1/2004. (I. 5.) Korm. rendelethez[^62]
 
 A rendeletben meghatározott egyes intézmények működtetéséért felelős személyek
 
-| Közösségi Támogatási Keret Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+|  | A | B |
 
-| Gazdasági Versenyképesség Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 1. | Közösségi Támogatási Keret Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Környezetvédelem és Infrastruktúra Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 2. | Gazdasági Versenyképesség Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Humánerőforrás-fejlesztési Operatív Program és EQUAL Közösségi Kezdeményezés Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 3. | Környezetvédelem és Infrastruktúra Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Agrár- és Vidékfejlesztési Operatív Program Irányító Hatóság | földművelésügyi és vidékfejlesztési miniszter |
+| 4. | Humánerőforrás-fejlesztési Operatív Program és EQUAL Közösségi Kezdeményezés Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Regionális Fejlesztési Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 5. | Agrár- és Vidékfejlesztési Operatív Program Irányító Hatóság | agrárpolitikáért és az agrár-vidékfejlesztésért felelős miniszter |
 
-| INTERREG Közösségi Kezdeményezés Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 6. | Regionális Fejlesztési Operatív Program Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Kohéziós Alap Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
+| 7. | INTERREG Közösségi Kezdeményezés Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Kohéziós Alap környezetvédelmi közreműködő szervezet | környezetvédelmi és vízügyi miniszter |
+| 8. | Kohéziós Alap Irányító Hatóság | Nemzeti Fejlesztési Ügynökség elnöke |
 
-| Kohéziós Alap közlekedési közreműködő szervezet | gazdasági és közlekedési miniszter |
+| 9. | Kohéziós Alap környezetvédelmi közreműködő szervezet | fejlesztéspolitikáért felelős miniszter |
 
-| Kifizető Hatóság | pénzügyminiszter |
+| 10. | Kohéziós Alap közlekedési közreműködő szervezet | fejlesztéspolitikáért felelős miniszter |
+
+| 11. | Kifizető Hatóság | államháztartásért felelős miniszter |
 
 [^61]: A 34. § a 192/2006. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^62]: A melléklet a 30/2007. (II. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^62]: A melléklet a 86/2011. (V. 31) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

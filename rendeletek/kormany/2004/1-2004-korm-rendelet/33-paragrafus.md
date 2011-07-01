@@ -10,7 +10,7 @@ a)[^55] a fejlesztéspolitikáért felelős miniszter, az államháztartásért 
 
 b)[^57] az operatív program irányító hatóság irányítását ellátó miniszter, hogy az operatív program irányító hatóság javaslatára, a strukturális alapok közreműködő szervezeteit rendeletben, illetve ha a strukturális alapok közreműködő szervezete más minisztérium irányítása vagy felügyelete alatt áll, az érintett miniszter egyetértésével kiadott rendeletben megállapítsa;
 
-c)[^58] a Miniszterelnöki Hivatalt vezető miniszter, hogy a Kohéziós Alap közreműködő szervezet működtetéséért – ezen belül különösen a Kohéziós Alap támogatásainak hatékony és jogszabályoknak megfelelő felhasználásáért – felelős, az e rendelet mellékletében meghatározott miniszter egyetértésével kiadott rendeletben a Kohéziós Alap közreműködő szervezetet megállapítsa.[^59]
+c)[^58] a fejlesztéspolitikáért felelős miniszter, hogy a Kohéziós Alap közreműködő szervezet működtetéséért – ezen belül a Kohéziós Alap támogatásainak hatékony és jogszabályoknak megfelelő felhasználásáért – felelős, az e rendelet mellékletében meghatározott miniszter egyetértésével kiadott rendeletben a Kohéziós Alap közreműködő szervezetet megállapítsa.[^59]
 
 (4)[^60]
 
@@ -20,6 +20,6 @@ c)[^58] a Miniszterelnöki Hivatalt vezető miniszter, hogy a Kohéziós Alap k�
 [^55]: A 33. § (3) bekezdésének a) pontja a 138/2008. (V. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^56]: Lásd a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendeletet.
 [^57]: A 33. § (3) bekezdés b) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg,
-[^58]: A 33. § (3) bekezdés c) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg,
+[^58]: A 33. § (3) bekezdés c) pontja a 86/2011. (V. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^59]: Lásd a 18/2006. (XII. 28.) MeHVM–GKM együttes rendeletet, a 28/2011. (V. 31.) NFM rendeletet.
 [^60]: A 33. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 761. pontja hatályon kívül helyezte.
