@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2009-50-00-00.7 |
 | 2011-01-02 | 2010. évi XXXVIII. törvény | 2009-50-00-00.8 |
 | 2011-06-29 | 2011. évi LXVII. törvény | 2009-50-00-00.9 |
+| 2011-07-01 | 2009. évi CXV. törvény | 2009-50-00-00.10 |

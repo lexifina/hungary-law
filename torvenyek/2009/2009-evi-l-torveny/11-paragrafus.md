@@ -10,7 +10,7 @@ a) a MOKK rendszerébe beviszi és minősített elektronikus aláírással, vala
 
 b) az (1) bekezdés b) pontja szerinti esetben legalább közepes vagy magas biztonsági szinten történő azonosítás mellett az ügyfélkapuján belépve a MOKK rendszerébe beviszi.
 
-(3) A jogi képviselővel rendelkező fél és a jogi személy fél beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
+(3) A jogi képviselővel rendelkező fél és a vállalkozás és egyéb jogi személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
 (4) Az (1) bekezdés a) pontja szerint, vagy az (1) bekezdés b) pontja szerinti esetben az ügyfélkapun magas biztonsági szinten történő azonosítás mellett belépve kell benyújtani
 

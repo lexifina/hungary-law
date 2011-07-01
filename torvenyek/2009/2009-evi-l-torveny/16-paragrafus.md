@@ -6,4 +6,4 @@
 
 (4)
 
-(5) Vállalkozás és jogi képviselővel rendelkező fél részére az iratokat – a (2) bekezdésben meghatározott eset kivételével – a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kell kézbesíteni. Az elektronikus iraton minősített elektronikus aláírást és minősített időbélyegzőt kell elhelyezni.
+(5)

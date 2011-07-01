@@ -14,7 +14,7 @@ e) a félnek nincs perbeli jogképessége (Pp. 48. §);
 
 f) a jogosult a 15. § (1) bekezdése ellenére kézbesítési megbízottat nem jelölt meg, vagy a jogosult a fizetési meghagyás hirdetményi kézbesítését kéri;
 
-g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) bekezdés];
+g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) és (4) bekezdés];
 
 h) a jogosult követelése idő előtti vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
 
@@ -26,7 +26,7 @@ ib) amely határidő elmulasztása esetén a fél igazolással élhet, és a jog
 
 j) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
 
-k) a jogi képviselővel rendelkező fél vagy a jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
+k) a jogi képviselővel rendelkező fél vagy a vállalkozás és egyéb jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
 
 l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem, vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el.
 
