@@ -1,0 +1,3 @@
+136/A. § (1) Ha a lakossági fogyasztó az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 29. § (3) bekezdés a) pontjának hatálybalépésekor fizetési kötelezettsége teljesítésével késedelemben van, kikapcsolására e törvénynek a fizetési kötelezettség esedékességekor hatályos rendelkezéseit kell alkalmazni.
+
+(2) Ha a védendő fogyasztó kikapcsolásának az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 65. § (5) bekezdése hatálybalépésekor az abban meghatározott feltételek fennállnak, kikapcsolására e törvénynek a fizetési kötelezettség esedékességekor hatályos rendelkezéseit kell alkalmazni.

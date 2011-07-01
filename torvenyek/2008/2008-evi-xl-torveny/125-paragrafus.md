@@ -4,6 +4,10 @@
 
 125. § (1) Az engedélyesek (a továbbiakban: adatkezelő) az e törvényben meghatározott engedélyköteles tevékenység végzése, az ehhez szükséges műszaki berendezések létesítésére és üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, a teljesítésének figyelemmel kísérése, a szerződésben meghatározott díjak számlázása, továbbá a szerződésből eredő egyéb követelések érvényesítése, és az Üzemi és Kereskedelmi Szabályzatban foglalt együttműködési, adatszolgáltatási kötelezettségek teljesítése céljából kezelhetik a felhasználó, valamint a külön jogszabályban meghatározott fizető azonosításához szükséges és elégséges – e törvény vagy a végrehajtására kiadott külön jogszabály szerint a szerződés tartalmát képező – személyes adatokat. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, születésének helye és ideje, valamint anyja neve, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
 
+(1a) A megfelelési ellenőr az e törvényben és a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott, szétválasztási követelményeknek való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben kezelheti a tevékenysége során tudomására jutott, a megfelelési ellenőrt munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztató engedélyes üzleti titkait, valamint az engedélyesnél munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyja nevét, valamint munkakörükre és végzettségükre vonatkozó adatokat.
+
+(1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának kezeléséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
+
 (2) Az adatkezelő a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
 
 (3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
@@ -18,7 +22,11 @@ c) a Hivatalnak,
 
 d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
 
-e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak.
+e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
+
+f) a Nemzeti Fogyasztóvédelmi Hatóságnak, valamint
+
+g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek.
 
 (5) A (4) bekezdés a)–c) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 
@@ -28,7 +36,7 @@ a) a jogszabályokban, valamint az Üzemi és Kereskedelmi Szabályzatban foglal
 
 b) a külön jogszabályokban meghatározott, az engedélyes földgázipari vállalkozás tulajdonosainak jogaira vonatkozó rendelkezéseknek,
 
-c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és felhasználókkal szemben az egyenlő bánásmód követelményének.
+c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és felhasználókkal szemben az egyenlő bánásmód, különösen a kapcsolt vállalkozások javára történő megkülönböztetéstől való tartózkodás követelményének.
 
 (7) A rendszerüzemeltetők és a telephelyi szolgáltatók nem élhetnek vissza azokkal az üzleti érdeket érintő információkkal, amelyekhez a rendszerhasználóktól az együttműködő földgázrendszerhez való hozzáférés megvalósítása vagy tárgyalása során jutottak, és kötelesek továbbá mindazon üzleti titoknak nem minősülő információkat az összes érdekelt rendelkezésére bocsátani, amelyeket bármelyik érdekelt részére eljuttattak.
 

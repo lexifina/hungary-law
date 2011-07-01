@@ -1,12 +1,14 @@
-108. § (1) A felhasználók a földgázszállítás és földgázelosztás bővítésére és fejlesztésére a földgázellátásba történő bekapcsolásért, vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért a miniszter által rendeletben meghatározott mértékű csatlakozási díjat fizetnek a rendszerüzemeltetőnek. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók. A csatlakozási díjat a rendszerhasználati díjak figyelembevételével úgy kell meghatározni, hogy a szállító- és elosztóvezeték tulajdonosának, illetve a hatékonyan működő rendszerüzemeltetőnek a felhasználó bekapcsolása miatt felmerült indokolt költségeire fedezetet nyújtson.
+108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit és alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjakat és alkalmazásának egyedi szabályait a Hivatal határozatban állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
 
-(2) A felhasználó bekapcsolása miatt felmerült indokolt költség nem lehet magasabb, mint az adott felhasználó kapacitásigényére jutó szükséges és igazolt beruházási költség. A felhasználó által befizetett csatlakozási díjból származó teljes bevételt az adott felhasználó csatlakozásához szükséges beruházásokra kell fordítani.
+(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozás érdekében végrehajtott hálózati beruházásra fordított összeg nagyságát.
 
-(3) A Hivatal a csatlakozási díjra és alkalmazásának feltételeire vonatkozó előterjesztést készít, és kezdeményezi a miniszternél a rendelettel történő kihirdetését.
+(3) A csatlakozási díjból származó bevételt a csatlakozáshoz szükséges beruházásokra kell fordítani.
 
-(4) A miniszter a Hivatal előterjesztését elfogadja, vagy elutasítja. Az előterjesztés
+(3a) A rendszerhasználó és a földgázrendszerhez csatlakozni kívánó köteles a Hivatal által megállapított csatlakozási díjat megfizetni. A rendszerüzemeltető köteles a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
 
-a) elfogadása esetén a miniszter a Hivatal által meghatározott csatlakozási díjat a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki,
+(4) A Hivatal az (1) bekezdésben meghatározott jogszabály előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
+
+a) elfogadása esetén a miniszter a csatlakozási díjak meghatározásának szempontjait, elemeit, alkalmazásának általános szabályait a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki,
 
 b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
 

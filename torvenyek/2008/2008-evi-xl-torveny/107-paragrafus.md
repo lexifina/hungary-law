@@ -9,3 +9,5 @@
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
 (6) Az egyetemes szolgáltatás árának meghatározása során az egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény szerinti különadó nem minősül indokolt költségnek és nem képezheti indokolt árbevételi igény alapját.
+
+(6) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait a miniszter rendeletben állapíthatja meg.

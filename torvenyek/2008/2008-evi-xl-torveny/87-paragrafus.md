@@ -1,1 +1,7 @@
-87. § A rendszerüzemeltető olyan adatforgalmi és informatikai rendszert működtet, és köteles azzal rendelkezni, amely biztosítja az együttműködő földgázrendszer egyensúlyáért felelős engedélyesek részére az együttműködő földgázrendszer irányításához szükséges adatokat. Az adatforgalmi és informatikai rendszernek alkalmasnak kell lennie továbbá a rendszerüzemeltető tevékenységeire vonatkozó információk általános és személyre szabott – a 125. §-nak megfelelő – közzétételére, az engedélyesek és rendszerhasználók előírt adatszolgáltatásainak fogadására, továbbá a rendszerhasználókkal való szerződéskötésre. Az adatforgalmi és informatikai rendszerek együttműködtethetőségéhez szükséges követelményeket a rendszerirányító határozza meg.
+87. § (1) A rendszerüzemeltetőnek olyan adatforgalmi és informatikai rendszerrel kell rendelkeznie, amely közvetlen kapcsolaton alapuló információközvetítő eszköz útján, megfelelő időben biztosítja az együttműködő földgázrendszer egyensúlyáért felelős engedélyesek részére az együttműködő földgázrendszer irányításához szükséges megbízható adatokat.
+
+(2) Az adatforgalmi és informatikai rendszernek alkalmasnak kell lennie a rendszerüzemeltető tevékenységeire vonatkozó információk általános és személyre szabott – a 125. §-nak megfelelő – közzétételére, az engedélyesek és rendszerhasználók előírt adatszolgáltatásainak fogadására, továbbá a rendszerhasználókkal való szerződéskötésre.
+
+(3) Az adatforgalmi és informatikai rendszerek együttműködtethetőségéhez szükséges követelményeket az Üzemi és Kereskedelmi Szabályzatban kell meghatározni.
+
+(4) A rendszerüzemeltető köteles az adatforgalmi és informatikai rendszert folyamatosan működtetni.

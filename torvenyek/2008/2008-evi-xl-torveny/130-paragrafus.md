@@ -1,7 +1,9 @@
 ## Nemzetközi együttműködés és kapcsolat az Európai Unió szerveivel
 
-130. § (1) A Hivatal a 2003/55/EK európai parlamenti és tanácsi irányelv értelmében szabályozó hatóságnak minősülő külföldi energetikai szervezetekkel (a továbbiakban: külföldi energetikai szabályozó szervezetekkel), illetve szakmai szövetségekkel (különösen az Európai Unió tagállamai szabályozó hatóságainak szövetségével, a szabályozó hatóságok regionális szövetségével, az Európai Bizottság által létrehozott, villamosenergia- és gázpiac területén működő tanácsadói testülettel) – a hatályos jogszabályok előírásainak figyelembevételével – együttműködési megállapodást köthet, információkat cserélhet és tagként ilyen szervezetekbe beléphet.
+130. § A Hivatal nemzetközi együttműködésére és az Európai Unió szerveivel való kapcsolatára vonatkozóan a VET. 164–165/C. §-ainak előírásait kell megfelelően alkalmazni azzal, hogy
 
-(2) A nemzetközi együttműködés során a külföldi energetikai szabályozó szervezetektől kapott adatokat, információkat a Hivatal a VET. 164. § (2) bekezdésben meghatározott célokra használhatja fel, és adhatja át külföldi szabályozó testületeknek.
+a) az Európai Parlament és a Tanács a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/72/EK irányelve alatt a 2009/73/EK irányelv,
 
-(3) A Hivatal Európai Bizottság vagy Energia Közösség Szabályozó Testülete részére történő adat- és információszolgáltatására a VET. 164. § (3) bekezdés rendelkezései az irányadók.
+b) az Európai Parlament és a Tanács a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 714/2009/EK rendelete alatt a 715/2009/EK rendelet
+
+értendő.

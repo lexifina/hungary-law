@@ -2,7 +2,7 @@
 
 ## EGYES CÉGJOGI ESEMÉNYEKRE VONATKOZÓ KÖZÖS SZABÁLYOK
 
-122. § (1) Az engedélyes földgázipari vállalkozásnak a Gt. rendelkezései szerinti átalakuláshoz, szétválásához (különválásához, kiválásához), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal jóváhagyása szükséges. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke vagy törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi.
+122. § (1) Az engedélyesnek a Gt. rendelkezései szerinti szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal hozzájáruló határozata szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke vagy törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára a Gt. kötelezővé teszi.
 
 (2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) valamint szétválás (különválás, kiválás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Gt. 70. §-ának (1) bekezdésében foglaltak nem alkalmazhatók.
 

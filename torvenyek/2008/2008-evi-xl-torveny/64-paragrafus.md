@@ -6,4 +6,14 @@
 
 (3) Az (1) és (2) bekezdés szerinti rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(4) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre vonatkozó rendelkezések lakossági fogyasztónak nem minősülő felhasználókkal szembeni megsértése esetén a Hivatal jár el.
+(3a) A fogyasztóvédelmi hatóság eljárása során a fogyasztóvédelemről szóló törvényben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
+
+a) az engedélyes üzletszabályzatában foglaltak betartására kötelezés,
+
+b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása, és
+
+c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
+
+(4) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el.
+
+(5) A felhasználó köteles panaszával – a hatósági eljárást megelőzően – igazolható módon az engedélyeshez fordulni.

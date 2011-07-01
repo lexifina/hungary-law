@@ -38,7 +38,7 @@ e) elemzést az új infrastruktúrának az együttműködő földgázrendszerre 
 
 f) az új infrastruktúrához való hozzáférési és kapacitásallokációs szabályokat.
 
-(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra az értesítés kézhezvételétől számított 2 hónapon belül észrevételt nem tesz, további kiegészítő információt nem kér, a Hivatal az eljárás felfüggesztését megszünteti.
+(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra az értesítés kézhezvételétől számított 2 hónapon belül észrevételt nem tesz, további kiegészítő információt nem kér, a Hivatal az eljárás felfüggesztését megszünteti. Ha az Európai Bizottság kiegészítő információt kér, az eljárási határidő 2 hónappal meghosszabbodik.
 
 (7) A meglévő szállítóvezeték kapacitásbővítései, illetve a meglévő szállítóvezeték és tároló azon fejlesztései esetén, amelyek lehetővé teszik a földgázellátási források kiterjesztését, az új infrastruktúra-fejlesztésre és a mentességre vonatkozó rendelkezések megfelelően alkalmazandók.
 
