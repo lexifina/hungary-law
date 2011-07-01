@@ -21,5 +21,3 @@ e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végr
 f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 
 g) a végrehajtói ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat,
-
-h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a megyei bírósági végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
