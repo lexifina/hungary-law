@@ -1,26 +1,6 @@
 ## Kifizetési kérelem
 
-8. § (1)[^21] A kifizetési kérelmet
-
-a) 2009. november 16. és 2010. január 31.,
-
-b) 2010. április 1. és 2010. április 30.,
-
-c) 2010. július 1. és 2010. július 31.,
-
-d) 2010. október 1. és 2010. október 31.,
-
-e) a 2011. évtől kezdődően évente
-
-ea) január 1. és január 31.,
-
-eb) április 1. és április 30.,
-
-ec) július 1. és július 31.,
-
-ed) október 1. és október 31.
-
-## között lehet benyújtani az MVH-hoz.
+8. § (1)[^21]
 
 (2) Az utolsó kifizetési kérelemhez mellékelni kell:
 
@@ -32,14 +12,14 @@ c) termálkút létesítés esetén továbbá az üzemeltetési vízjogi engedé
 
 (3) Ha a (2) bekezdés b) pontja szerinti nyilatkozat kiállítója és a technológiai terv készítője nem ugyanaz a személy, akkor az utolsó kifizetési kérelemhez csatolni kell a végzettséget igazoló okirat hiteles másolatát.
 
-(4)[^23] Az (1) bekezdés a) pontja és a (6) bekezdés szerinti időszakban benyújtott, az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján igénybe vett támogatási előleg elszámolásával érintett kifizetési kérelmet nem kell figyelembe venni a Vhr. 17. § (2) bekezdésében meghatározott szabályok alkalmazásakor.
+(4)[^23]
 
-(5)[^24] Az (1) bekezdés a) pontja szerinti időszakban benyújtott kifizetési kérelmek és azok módosításai esetében a 2009. december 15-ével lezárt gépkatalógust kell alkalmazni.
+(5)[^24]
 
-(6)[^25] Az az ügyfél, aki az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján támogatási előleget vett igénybe, kizárólag a támogatási előleg elszámolása érdekében az (1) bekezdés a) pontja szerinti időszak mellett 2010. március 1. és 31. között is nyújthat be kifizetési kérelmet az MVH-hoz.
+(6)[^25]
 
-[^21]: A 8. § (1) bekezdése a 175/2009. (XII. 23.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg; e módosító rendelet 6. §-a alapján a rendelkezést a 2009. november 15-ét követően, 2009. december 24-e előtt benyújtott kifizetési kérelmekre is alkalmazni kell.
+[^21]: A 8. § (1) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § e) pontja hatályon kívül helyezte.
 [^22]: A 8. § (2) bekezdésének a) pontja a 34/2009. (IV. 2.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^23]: A 8. § (4) bekezdését a 136/2009. (X. 16.) FVM rendelet 10. § (2) bekezdése iktatta be, szövege a 175/2009. (XII. 23.) FVM rendelet 1. § (2) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^24]: A 8. § (5) bekezdését a 175/2009. (XII. 23.) FVM rendelet 1. § (3) bekezdése iktatta be; e módosító rendelet 6. §-a alapján a rendelkezést a 2009. november 15-ét követően, 2009. december 24-e előtt benyújtott kifizetési kérelmekre is alkalmazni kell.
-[^25]: A 8. § (6) bekezdését a 15/2010. (II. 25.) FVM rendelet 1. §-a iktatta be.
+[^23]: A 8. § (4) bekezdését a 136/2009. (X. 16.) FVM rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezte az 57/2011. (VI. 20.) VM rendelet 16. § e) pontja.
+[^24]: A 8. § (5) bekezdését a 175/2009. (XII. 23.) FVM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 57/2011. (VI. 20.) VM rendelet 16. § e) pontja.
+[^25]: A 8. § (6) bekezdését a 15/2010. (II. 25.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte az 57/2011. (VI. 20.) VM rendelet 16. § e) pontja.
