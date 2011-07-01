@@ -4,7 +4,7 @@
 
 (2) Az Alap szabad pénzeszközeit kizárólag pénzben vagy állampapírban tarthatja.
 
-(3) Az Alap gazdálkodását az Állami Számvevőszék ellenőrzi.
+(3)
 
 (4) Az Alap éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a Kormány rendeletben állapítja meg.
 
