@@ -1,0 +1,3 @@
+24. § Az Eütv. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Járványveszély vagy járvány (a továbbiakban együtt: járvány) fennállását – a honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezeteknél, továbbá a Magyar Honvédség katonai szervezeteinél fellépő járvány, járványveszély kivételével – az egészségügyi államigazgatási szerv állapítja meg. A kórokozó azonosítása, a fertőző forrás felderítése, a terjedési mód megállapítása és a veszélyeztetett lakosságcsoport meghatározása céljából járványügyi vizsgálatot kell végezni, élelmiszer közvetítésével terjedő járvány esetében az élelmiszerlánc-felügyeleti szervvel együttműködve.”

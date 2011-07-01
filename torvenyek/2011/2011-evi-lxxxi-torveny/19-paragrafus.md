@@ -1,0 +1,3 @@
+19. § Az Eütv. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés szerinti tevékenység keretében rendszeresen vizsgálni kell az ivóvíz – a 178/2002/EK rendelet 2. cikke szerinti ivóvíz kivételével, amelyet az élelmiszer-vállalkozásoknál élelmiszer-előállításra használnak – és minden egyéb, emberi felhasználásra kerülő víz és felszíni víz, a medencés közfürdők vizének, valamint a belső téri levegő szennyezettségét, a szennyvízelvezetés és a szilárd hulladékok elhelyezésének állapotát, valamint mindezek egészségkárosító tényezőit, a környezeti zaj-, rezgés- és fényártalmakat, a hőmérsékleti és a légnyomás okoztak ártalmakat, az ionizáló és nem ionizáló sugarak mértékét és egészségkárosító hatását.”

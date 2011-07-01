@@ -1,0 +1,3 @@
+49. § Az Ekt. a következő 33/C. §-sal egészül ki:
+
+„33/C. § Illetékmentes az egészségügyben működő szakmai kamarai tagsági viszony létesítésére irányuló, 2011. április 1. és 2011. június 30. között kezdeményezett eljárás azzal, hogy az egyes egészségügyi tárgyú törvények módosításról szóló 2011. évi LXXXI. törvény hatálybalépése előtt, de 2011. március 31-ét követően kezdeményezett eljárásokban megfizetett eljárási illeték visszatérítése – a megfizetés tényének igazolása mellett – az állami adóhatóságnál kérhető. A visszatérítés során az állami adóhatóság az adózás rendjéről szóló törvény szerinti adó-visszatérítés szabályai szerint jár el.”

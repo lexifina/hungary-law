@@ -1,0 +1,3 @@
+79. § A Gyftv. a következő 83/C. §-sal egészül ki:
+
+„83/C. § A gyógyszertár vezetője 2013. július 1-jéig a fiókgyógyszertárból átalakult közforgalmú gyógyszertárban fennálló vezetői vagy munkaviszonyát, munkavégzésre irányuló jogviszonyát a Gyftv. 66. § (2) bekezdésének módosítását követően is fenntarthatja.”
