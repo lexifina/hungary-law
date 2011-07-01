@@ -56,9 +56,9 @@
 
 ## c) A gyermeket, a tanulót akkor lehet a felvételi és mulasztási naplóból, illetve a beírási naplóból törölni, ha az óvodai elhelyezés, a tanulói jogviszony, illetőleg a kollégiumi tagsági viszony megszűnt. A törlést a megfelelő záradék bejegyzésével kell végrehajtani.
 
-## d)[^276] Ha az óvoda, az iskola beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve sajátos nevelési igényű gyermek, tanuló nevelését, oktatását is ellátja, a felvételi naplóban, illetve a beírási naplóban fel kell tüntetni a szakvéleményt kiállító nevelési tanácsadó, a szakértői és rehabilitációs bizottság nevét, címét, a szakvélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
+## d)[^277] Ha az óvoda, az iskola beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve sajátos nevelési igényű gyermek, tanuló nevelését, oktatását is ellátja, a felvételi naplóban, illetve a beírási naplóban fel kell tüntetni a szakvéleményt kiállító nevelési tanácsadó, a szakértői és rehabilitációs bizottság nevét, címét, a szakvélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
 
-## e)[^277] Az óvoda, az iskola a d) pontban meghatározott adatok alapján minden év június 30-áig megküldi az illetékes nevelési tanácsadó, illetve szakértői és rehabilitációs bizottság részére azon gyermekek, tanulók nevét – a nevelési tanácsadó, illetve a szakértői és rehabilitációs bizottsági szakvélemény számával együtt –, akiknek a felülvizsgálata a következő tanévben esedékes.
+## e)[^278] Az óvoda, az iskola a d) pontban meghatározott adatok alapján minden év június 30-áig megküldi az illetékes nevelési tanácsadó, illetve szakértői és rehabilitációs bizottság részére azon gyermekek, tanulók nevét – a nevelési tanácsadó, illetve a szakértői és rehabilitációs bizottsági szakvélemény számával együtt –, akiknek a felülvizsgálata a következő tanévben esedékes.
 
 ## A foglalkozási napló
 
@@ -70,19 +70,19 @@
 
 ## 6.
 
-## a)[^278] Az iskola és a kollégium a tanulókról – a tanévkezdést követő harminc napon belül – nyilvántartási lapot (iskolában törzslapot, kollégiumban törzskönyvet) állít ki. A nyilvántartási lapon fel kell tüntetni az iskola, illetve a kollégium nevét, címét, OM azonosítóját és a tanuló azonosító számát. A nyilvántartási lap csak a közoktatási törvény 2. számú mellékletében meghatározott adatokat tartalmazhatja. Az iskolában a törzslapon fel kell tüntetni a tanuló év végi szöveges minősítéseit, osztályzatait, továbbá a tanulók ügyeivel kapcsolatos döntéseket, határozatokat.
+## a)[^279] Az iskola és a kollégium a tanulókról – a tanévkezdést követő harminc napon belül – nyilvántartási lapot (iskolában törzslapot, kollégiumban törzskönyvet) állít ki. A nyilvántartási lapon fel kell tüntetni az iskola, illetve a kollégium nevét, címét, OM azonosítóját és a tanuló azonosító számát. A nyilvántartási lap csak a közoktatási törvény 2. számú mellékletében meghatározott adatokat tartalmazhatja. Az iskolában a törzslapon fel kell tüntetni a tanuló év végi szöveges minősítéseit, osztályzatait, továbbá a tanulók ügyeivel kapcsolatos döntéseket, határozatokat.
 
-## b)[^279] Ha az iskolai nevelés és oktatás nyelve a nemzeti és etnikai kisebbség nyelve, a törzslapot magyar nyelven és az oktatás nyelvén is vezetni kell. Ha a két szöveg között eltérés van, és nem állapítható meg, hogy melyik a helyes szöveg, a magyar nyelvi bejegyzést kell elfogadni.
+## b)[^280] Ha az iskolai nevelés és oktatás nyelve a nemzeti és etnikai kisebbség nyelve, a törzslapot magyar nyelven és az oktatás nyelvén is vezetni kell. Ha a két szöveg között eltérés van, és nem állapítható meg, hogy melyik a helyes szöveg, a magyar nyelvi bejegyzést kell elfogadni.
 
-## c)[^280] Ha az iskola testi, érzékszervi, értelmi vagy más fogyatékos tanuló nevelését-oktatását is ellátja, a törzslapon fel kell tüntetni a szakvéleményt kiállító szakértő és rehabilitációs bizottság nevét, címét, a szakvélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
+## c)[^281] Ha az iskola testi, érzékszervi, értelmi vagy más fogyatékos tanuló nevelését-oktatását is ellátja, a törzslapon fel kell tüntetni a szakvéleményt kiállító szakértő és rehabilitációs bizottság nevét, címét, a szakvélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
 
-## d)[^281] A megsemmisült vagy elveszett törzslap helyett — a rendelkezésre álló iratok, adatok alapján — póttörzslapot kell kiállítani. A póttörzslapot az a)—b) pontban foglaltak szerint kell kiállítani.
+## d)[^282] A megsemmisült vagy elveszett törzslap helyett — a rendelkezésre álló iratok, adatok alapján — póttörzslapot kell kiállítani. A póttörzslapot az a)—b) pontban foglaltak szerint kell kiállítani.
 
 ## A bizonyítvány
 
 ## 7.
 
-## a)[^282] A közoktatásban a tanuló által elvégzett évfolyamokról kiállított év végi bizonyítványokat egy bizonyítványkönyvbe (a továbbiakban együtt: bizonyítvány) kell bevezetni, függetlenül attól, hogy a tanuló hányszor változtatott iskolát, iskolatípust. Az egyes évfolyamokról a bizonyítványt a törzslap alapján kell kiállítani. A tanuló által elvégzett évfolyamokról év végi bizonyítványt kell kiállítani. A bizonyítványban fel kell tüntetni az iskola OM azonosítóját és a tanuló azonosító számát. A bizonyítványban, záradék formájában, fel kell tüntetni az érettségi vizsga, a szakmai vizsga, a művészeti alapvizsga és záróvizsga letételét.
+## a)[^283] A közoktatásban a tanuló által elvégzett évfolyamokról kiállított év végi bizonyítványokat egy bizonyítványkönyvbe (a továbbiakban együtt: bizonyítvány) kell bevezetni, függetlenül attól, hogy a tanuló hányszor változtatott iskolát, iskolatípust. Az egyes évfolyamokról a bizonyítványt a törzslap alapján kell kiállítani. A tanuló által elvégzett évfolyamokról év végi bizonyítványt kell kiállítani. A bizonyítványban fel kell tüntetni az iskola OM azonosítóját és a tanuló azonosító számát. A bizonyítványban, záradék formájában, fel kell tüntetni az érettségi vizsga, a szakmai vizsga, a művészeti alapvizsga és záróvizsga letételét.
 
 ## b) Az elveszett vagy megsemmisült bizonyítványról — kérelemre — a törzslap (póttörzslap) alapján másodlat állítható ki. A másodlatért a külön jogszabályban meghatározottak szerint illetéket kell leróni.
 
@@ -116,7 +116,7 @@
 
 ## a) A pedagógus csak a nevelő-oktató munkával összefüggő feladatokhoz nélkülözhetetlen ügyviteli tevékenységet köteles elvégezni.
 
-## b)[^283] Az osztályfőnök vezeti az osztálynaplót, a törzslapot, és kiállítja a bizonyítványt, vezeti a továbbtanulással összefüggő nyilvántartást. Alapfokú művészetoktatási intézményben a hangszert, illetve a csoportos tantárgyat oktató szaktanár – az intézményvezető megbízása alapján – vezeti az egyéni foglalkozási naplót, a csoportos foglalkozási naplót, a törzslapot és kiállítja a bizonyítványt.
+## b)[^284] Az osztályfőnök vezeti az osztálynaplót, a törzslapot, és kiállítja a bizonyítványt, vezeti a továbbtanulással összefüggő nyilvántartást. Alapfokú művészetoktatási intézményben a hangszert, illetve a csoportos tantárgyat oktató szaktanár – az intézményvezető megbízása alapján – vezeti az egyéni foglalkozási naplót, a csoportos foglalkozási naplót, a törzslapot és kiállítja a bizonyítványt.
 
 ## c) A törzslap személyi és tanév végi adatainak a bizonyítvánnyal való egyeztetéséért az osztályfőnök és az iskola igazgatója által kijelölt két összeolvasó pedagógus, illetve a pedagógus és iskolatitkár a felelős. A törzslapra és a bizonyítványba a tanulókkal kapcsolatos határozatokat, valamint a továbbtanulásra vonatkozó bejegyzéseket a megfelelő záradékkal kell feltüntetni. Az iskola által vezetett törzslap közokirat.
 
@@ -124,11 +124,11 @@
 
 ## a) A hibás bejegyzéseket a tanügyi nyilvántartásokban áthúzással kell érvényteleníteni, oly módon, hogy az olvasható maradjon, és a hibás bejegyzést helyesbíteni kell. A javítást aláírással, keltezéssel és az iskola körbélyegzőjének lenyomatával kell hitelesíteni.
 
-## b)[^284] Névváltozás esetén – a volt tanuló kérelmére, az engedélyező okirat alapján – a megváltozott nevet a törzslapra be kell jegyezni, és az eredeti iskolai bizonyítványról – beleértve az érettségi vizsgáról és a szakmai vizsgáról kiállított bizonyítványt is – bizonyítvány-másodlatot kell kiadni. Az eredeti bizonyítványt meg kell semmisíteni vagy – ha tulajdonosa kéri – az „ÉRVÉNYTELEN” felirattal, vagy iratlyukasztóval történő kilyukasztással érvénytelenítni kell és vissza kell adni a tulajdonosának.
+## b)[^285] Névváltozás esetén – a volt tanuló kérelmére, az engedélyező okirat alapján – a megváltozott nevet a törzslapra be kell jegyezni, és az eredeti iskolai bizonyítványról – beleértve az érettségi vizsgáról és a szakmai vizsgáról kiállított bizonyítványt is – bizonyítvány-másodlatot kell kiadni. Az eredeti bizonyítványt meg kell semmisíteni vagy – ha tulajdonosa kéri – az „ÉRVÉNYTELEN” felirattal, vagy iratlyukasztóval történő kilyukasztással érvénytelenítni kell és vissza kell adni a tulajdonosának.
 
-## c)[^285] Ha a bizonyítvány kiadását követően derül ki, hogy az iskola hibás adatokat vezetett be a bizonyítványba, a hibás bizonyítványt ki kell cserélni. A cseréért díjat nem kell fizetni.
+## c)[^286] Ha a bizonyítvány kiadását követően derül ki, hogy az iskola hibás adatokat vezetett be a bizonyítványba, a hibás bizonyítványt ki kell cserélni. A cseréért díjat nem kell fizetni.
 
-## d)[^286] A bizonyítvány-másodlatnak – szöveghűen – tartalmaznia kell az eredeti bizonyítványon található minden adatot és bejegyzést. A másodlat kiadását az eredeti bizonyítványt kiállító iskola, illetve jogutódja, jogutód nélkül megszűnt iskola esetén az végzi, akinél a megszűnt iskola iratait elhelyezték (a továbbiakban együtt: kiállító szerv). A bizonyítvány-másodlaton záradék formájában fel kell tüntetni a másodlat kiadásának az okát, továbbá a kiállító szerv hivatalos nevét, címét, a kiadás napját, valamint el kell látni iktatószámmal, a kiállító szerv vezetőjének (vagy megbízottjának) aláírásával és körbélyegzőjének lenyomatával. Bizonyítvány-másodlat kiadása esetén
+## d)[^287] A bizonyítvány-másodlatnak – szöveghűen – tartalmaznia kell az eredeti bizonyítványon található minden adatot és bejegyzést. A másodlat kiadását az eredeti bizonyítványt kiállító iskola, illetve jogutódja, jogutód nélkül megszűnt iskola esetén az végzi, akinél a megszűnt iskola iratait elhelyezték (a továbbiakban együtt: kiállító szerv). A bizonyítvány-másodlaton záradék formájában fel kell tüntetni a másodlat kiadásának az okát, továbbá a kiállító szerv hivatalos nevét, címét, a kiadás napját, valamint el kell látni iktatószámmal, a kiállító szerv vezetőjének (vagy megbízottjának) aláírásával és körbélyegzőjének lenyomatával. Bizonyítvány-másodlat kiadása esetén
 
 ## da) a törzslapon fel kell tüntetni – a kiadott másodlat iktatószámát és a kiadás napját, továbbá azt, ha az eredeti bizonyítványt megsemmisítették, illetve érvénytelenné nyilvánították,
 
@@ -148,7 +148,7 @@
 
 ## – az elrontott és megsemmisített bizonyítványokról.
 
-## 13.[^287]
+## 13.[^288]
 
 ## Az iskola az elveszett (megsemmisült) üres bizonyítvány-nyomtatvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi az Oktatási és Kulturális Minisztérium hivatalos lapjában, megjelölve az adott bizonyítvány-nyomtatvány egyedi azonosításához szükséges adatokat és az érvénytelenség időpontját.
 
@@ -234,7 +234,7 @@
 
 ## II.
 
-## Az iskolák által alkalmazott záradékok[^288]
+## Az iskolák által alkalmazott záradékok[^289]
 
 | Záradék | Dokumentumok |
 
@@ -368,7 +368,7 @@
 
 ## III.
 
-## Az óvoda által használt kötelező nyomtatványok[^289]
+## Az óvoda által használt kötelező nyomtatványok[^290]
 
 ## 1. Felvételi előjegyzési napló
 
@@ -380,7 +380,7 @@
 
 ## 5. Tankötelezettség megállapításához szükséges szakvélemény
 
-## 6. [^290]Jegyzőkönyv a tanuló- és gyermekbalesetekről*
+## 6. [^291]Jegyzőkönyv a tanuló- és gyermekbalesetekről*
 
 ## 7. Nyilvántartás a tanuló- és gyermekbalesetekről*
 
@@ -394,11 +394,11 @@
 
 ## 4. Bizonyítványkönyv*
 
-## 5. Diákigazolvány*[^291]
+## 5. Diákigazolvány*[^292]
 
 ## 6. Ellenőrző
 
-## 7. [^292]
+## 7. [^293]
 
 ## 8. Érettségi bizonyítvány*
 
@@ -448,7 +448,7 @@
 
 ## 31. Továbbtanulók nyilvántartása
 
-## 32.[^293] Jegyzőkönyv a tanuló- és gyermekbalesetekről*
+## 32.[^294] Jegyzőkönyv a tanuló- és gyermekbalesetekről*
 
 ## 33. Nyilvántartás a tanuló- és gyermekbalesetekről*
 
@@ -490,7 +490,7 @@
 
 ## 16. Törzslap külív, belív* (alapfokú művészetoktatási intézmény művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet – szerint)
 
-## 17.[^294] Szülői nyilatkozat
+## 17.[^295] Szülői nyilatkozat
 
 ## A kollégium által használt nyomtatványok
 
@@ -500,13 +500,13 @@
 
 ## 3. Kollégiumi törzskönyv*
 
-## 4.[^295] Jegyzőkönyv a tanuló- és gyermekbalesetekről*
+## 4.[^296] Jegyzőkönyv a tanuló- és gyermekbalesetekről*
 
 ## 5. Nyilvántartás a tanuló- és gyermekbalesetekről*
 
 ## _______________
 
-## Megjegyzés:[^296]
+## Megjegyzés:[^297]
 
 ## * jelölt nyomtaványok csak az Oktatási és Kulturális Minisztérium engedélyével gyárthatók és forgalmazhatók,
 
@@ -516,24 +516,24 @@
 
 5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez
 
-[^276]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 4. d) pontját a 4/2001. (I. 26.) OM rendelet 20. §-ának (1) bekezdése iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított szöveg.
-[^277]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 4. e) pontját a 21/2005. (VII. 25.) OM rendelet 13. §-ának (1) bekezdése iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított szöveg.
-[^278]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A törzslap” alcím 6. a) pontja a 20/2006. (V. 5.) OM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^279]: A 4. számú melléklet 6. b) pontja a 32/2008. (XI. 24.) OKM rendelet 18. § (4) bekezdésének b) pontja szerint módosított szöveg.
-[^280]: Az új c) pontot a 4/2001. (I. 26.) OM rendelet 20. §-ának (2) bekezdése iktatta be a szövegbe, egyidejűleg az eredeti c) pont jelölését d) pontra változtatva.
-[^281]: A c) pont jelölését a 4/2001. (I. 26.) OM rendelet 20. §-ának (2) bekezdése d) pontra változtatta.
-[^282]: A 4. számú melléklet 7. a) pontja a 32/2005. (XII. 22.) OM rendelet 4. § (2) bekezdésével megállapított, ötödik mondata a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja szerint módosított szöveg.
-[^283]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 10. b) pontja a 21/2005. (VII. 25.) OM rendelet 13. §-ának (2) bekezdésével megállapított szöveg.
-[^284]: A 4. számú melléklet 11. b) pontja a 22/2010. (V. 13.) OKM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^285]: A 4. számú melléklet 11. c) pontja a 22/2010. (V. 13.) OKM rendelet 15. § (1) szerint módosított szöveg.
-[^286]: A 4. számú melléklet 11. d) pontját a 22/2010. (V. 13.) OKM rendelet 13. § (3) bekezdése iktatta be.
-[^287]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A bizonyítvány-nyomtatványok kezelése” alcím 13. pontját a 20/2006. (V. 5.) OM rendelet 3. § (2) bekezdése iktatta be, szövege a 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^288]: A 4. számú melléklet II. részében ,,Az iskolák által alkalmazott záradékok'' alcím alatti rendelkezések a 16/1998. (IV. 8.) MKM rendelet 29. §-a, illetve 3. számú melléklete szerint megállapított szöveg.
-[^289]: A 17/1994. ( VII. 29.) MKM rendelet 6.§ (1) bekezdés a) pontja szerint módosított szöveg.
-[^290]: A 4. számú melléklet III. fejezetében ,,Az óvoda által használt kötelező nyomtatványok'' alcím alatti 6. és 7. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (1) bekezdése iktatta a szövegbe.
-[^291]: Az 5. pont a 20/1994. ( XI. 10.) MKM rendelet 3. §-ának (8) bekezdésével megállapított szöveg.
-[^292]: A 4. számú melléklet III. rész az „Az iskola által kötelezően használt nyomtatványok” alcímének 7., 10., 12., 15., 16. és 26. pontját a 8/2000. (V. 24.) OM. rendelet 30. §-ának (3) bekezdése hatályon kívül helyezte.
-[^293]: A 4. számú melléklet III. fejezetében ,,Az iskola által használt kötelező nyomtatványok'' alcím alatti 32. és 33. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (2) bekezdése iktatta a szövegbe.
-[^294]: A 4. számú melléklet a „A nevelési-oktatási intézmény irattári terve, az iskolai záradékok és a kötelező nyomtatványok” címen belül „Az alapfokú művészetoktatási intézmények által használt kötelező nyomtatványok” alcímű rész 17. pontját a 21/2005. (VII. 25.) OM rendelet 13. §-ának (3) bekezdése iktatta a szövegbe.
-[^295]: A 4. számú melléklet III. fejezetében ,,A kollégium által használt nyomtatványok'' alcím alatti 4. és 5. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (3) bekezdése iktatta a szövegbe.
-[^296]: A 4. számú melléklet Megjegyzés része 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^277]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 4. d) pontját a 4/2001. (I. 26.) OM rendelet 20. §-ának (1) bekezdése iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított szöveg.
+[^278]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 4. e) pontját a 21/2005. (VII. 25.) OM rendelet 13. §-ának (1) bekezdése iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 6. §-ával megállapított szöveg.
+[^279]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A törzslap” alcím 6. a) pontja a 20/2006. (V. 5.) OM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^280]: A 4. számú melléklet 6. b) pontja a 32/2008. (XI. 24.) OKM rendelet 18. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^281]: Az új c) pontot a 4/2001. (I. 26.) OM rendelet 20. §-ának (2) bekezdése iktatta be a szövegbe, egyidejűleg az eredeti c) pont jelölését d) pontra változtatva.
+[^282]: A c) pont jelölését a 4/2001. (I. 26.) OM rendelet 20. §-ának (2) bekezdése d) pontra változtatta.
+[^283]: A 4. számú melléklet 7. a) pontja a 32/2005. (XII. 22.) OM rendelet 4. § (2) bekezdésével megállapított, ötödik mondata a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^284]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A beírási napló, a felvételi és mulasztási napló” alcím 10. b) pontja a 21/2005. (VII. 25.) OM rendelet 13. §-ának (2) bekezdésével megállapított szöveg.
+[^285]: A 4. számú melléklet 11. b) pontja a 22/2010. (V. 13.) OKM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^286]: A 4. számú melléklet 11. c) pontja a 22/2010. (V. 13.) OKM rendelet 15. § (1) szerint módosított szöveg.
+[^287]: A 4. számú melléklet 11. d) pontját a 22/2010. (V. 13.) OKM rendelet 13. § (3) bekezdése iktatta be.
+[^288]: A 4. számú melléklet „A nevelési-oktatási intézmények ügyintézésének, iratkezelésének általános szabályai és a tanügyi nyilvántartások” címen belül „A bizonyítvány-nyomtatványok kezelése” alcím 13. pontját a 20/2006. (V. 5.) OM rendelet 3. § (2) bekezdése iktatta be, szövege a 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^289]: A 4. számú melléklet II. részében ,,Az iskolák által alkalmazott záradékok'' alcím alatti rendelkezések a 16/1998. (IV. 8.) MKM rendelet 29. §-a, illetve 3. számú melléklete szerint megállapított szöveg.
+[^290]: A 17/1994. ( VII. 29.) MKM rendelet 6.§ (1) bekezdés a) pontja szerint módosított szöveg.
+[^291]: A 4. számú melléklet III. fejezetében ,,Az óvoda által használt kötelező nyomtatványok'' alcím alatti 6. és 7. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (1) bekezdése iktatta a szövegbe.
+[^292]: Az 5. pont a 20/1994. ( XI. 10.) MKM rendelet 3. §-ának (8) bekezdésével megállapított szöveg.
+[^293]: A 4. számú melléklet III. rész az „Az iskola által kötelezően használt nyomtatványok” alcímének 7., 10., 12., 15., 16. és 26. pontját a 8/2000. (V. 24.) OM. rendelet 30. §-ának (3) bekezdése hatályon kívül helyezte.
+[^294]: A 4. számú melléklet III. fejezetében ,,Az iskola által használt kötelező nyomtatványok'' alcím alatti 32. és 33. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (2) bekezdése iktatta a szövegbe.
+[^295]: A 4. számú melléklet a „A nevelési-oktatási intézmény irattári terve, az iskolai záradékok és a kötelező nyomtatványok” címen belül „Az alapfokú művészetoktatási intézmények által használt kötelező nyomtatványok” alcímű rész 17. pontját a 21/2005. (VII. 25.) OM rendelet 13. §-ának (3) bekezdése iktatta a szövegbe.
+[^296]: A 4. számú melléklet III. fejezetében ,,A kollégium által használt nyomtatványok'' alcím alatti 4. és 5. pontot a 16/1998. (IV. 8.) MKM rendelet 30. §-ának (3) bekezdése iktatta a szövegbe.
+[^297]: A 4. számú melléklet Megjegyzés része 11/2006. (XI. 10.) OKM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg.

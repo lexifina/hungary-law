@@ -1,12 +1,12 @@
 ## Kérelem a nem önkormányzati nevelési-oktatási intézmény működésének megkezdéséhez szükséges engedély kiadásához
 
-## I.
+## I.[^307]
 
-## A(z) ........................... Önkormányzat jegyzője, főjegyzője részére a közoktatásról szóló 1993. évi LXXIX. törvény 79. §-ának (2) bekezdése alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
+## A(z) ........................... Kormányhivatal részére a közoktatásról szóló 1993. évi LXXIX. törvény 79. §-ának (2) bekezdése alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
 
 ## 1. A működési engedély iránti kérelem tárgya
 
-## 2. A közoktatási intézményt nyilvántartásba vevő jegyző, főjegyző hivatala, a nyilvántartásba vételről szóló határozat száma, kelte (amennyiben a nyilvántartásba vétel már megtörtént)
+## 2.[^308] A közoktatási intézményt nyilvántartásba vevő kormányhivatal, a nyilvántartásba vételről szóló határozat száma, kelte (amennyiben a nyilvántartásba vétel már megtörtént)
 
 ## 3. Alapító adatai (név, működési forma, nyilvántartásba vétel formája és azonosítója, székhely, értesítési cím)
 
@@ -48,7 +48,7 @@
 
 ## A mellékletek
 
-## A kérelemhez csatolni kell eredetiben vagy másolatban: (Másolat esetén az eljárás során a jegyző, főjegyző kérheti az eredeti dokumentum bemutatását.)
+## A kérelemhez csatolni kell eredetiben vagy másolatban: (Másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását.)[^309]
 
 ## 1. a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló határozatot,
 
@@ -82,6 +82,9 @@
 
 ## Ha a kérelmező a melléklet 1., 3., 4. pontja szerinti adattartalmat nem igazolja, a kérelem elbírálásához a nyilvántartásba vételi engedélyről szóló határozat, a tulajdoni lap, a használatbavételi engedély, a hatósági bizonyítvány vonatkozásában a nyilvántartást vezető szervet kell megkeresni a jogosultságra vonatkozó adatok szolgáltatása vagy igazolása iránt.
 
-7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^306]
+7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^310]
 
-[^306]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.
+[^307]: A 6. számú melléklet I. rész nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § b) pontja szerint módosított szöveg.
+[^308]: A 6. számú melléklet I. rész 2. pontja a 34/2011. (VI. 24.) NEFMI rendelet 9. § c) pontja szerint módosított szöveg.
+[^309]: A 6. számú melléklet II. részének nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^310]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.
