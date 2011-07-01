@@ -1,0 +1,1 @@
+A Kormány a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
