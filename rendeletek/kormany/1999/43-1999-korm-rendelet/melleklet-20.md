@@ -62,6 +62,8 @@ Diagnózis BNO kód
 
 Továbbküldés oka
 
+Sürgősségi továbbküldés oka
+
 Továbbküldést indokoló diagnózis BNO kódja
 
 Továbbküldés iránya
@@ -272,8 +274,4 @@ Tartalma:
 
 3 = gondozás
 
-4 = adminisztratív ok (pl. mentőutalvány, keresőképtelenséget igazoló utalvány kiállítása, hatósági vizsgálat)
-
-5 = szűrés
-
-[^435]: A 20. számú melléklet a 364/2007. (XII. 23.) Korm. rendelet 16. § (19) bekezdésével megállapított és a 65/2008. (III. 29.) Korm. rendelet 3. § i) pontja, a 151/2008. (V. 30.) Korm. rendelet 10. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (7) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 15. § (1)–(2) bekezdése, a 73/2011. (IV. 29.) Korm. rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^435]: A 20. számú melléklet a 364/2007. (XII. 23.) Korm. rendelet 16. § (19) bekezdésével megállapított és a 65/2008. (III. 29.) Korm. rendelet 3. § i) pontja, a 151/2008. (V. 30.) Korm. rendelet 10. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (7) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 15. § (1)–(2) bekezdése, a 73/2011. (IV. 29.) Korm. rendelet 6. § (6) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
