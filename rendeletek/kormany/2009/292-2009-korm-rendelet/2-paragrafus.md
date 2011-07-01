@@ -100,7 +100,7 @@ b)[^8] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy
 
 19. közreműködő szervezet: az európai uniós forrásból finanszírozott támogatások esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet;
 
-20.[^9] köztartozás: e rendelet VII. fejezete alkalmazásában az Áht. 13/A. § (4) bekezdésében, egyebekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;
+20.[^9] köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;
 
 21. kutatás-fejlesztés: a kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. §-ának 1. d) pontjában meghatározott tevékenység;
 
@@ -124,4 +124,4 @@ b)[^8] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy
 [^6]: A 2. § 14. pont b) alpontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § 17. pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
 [^8]: A 2. § 18. pont b) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
-[^9]: A 2. § 20. pontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. § 20. pontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 95/2011. (VI. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

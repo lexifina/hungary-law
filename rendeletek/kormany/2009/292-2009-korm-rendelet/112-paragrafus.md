@@ -38,7 +38,7 @@ i) a folyósított előleggel, illetve az előfinanszírozással kapcsolatos sza
 
 j) a támogatott tevékenység megvalósításába közreműködők bevonásának lehetőségét, a közreműködők által megvalósítható tevékenységeket,
 
-k) a 122. § (1) bekezdése szerinti adatok támogató felé történő bejelentésének kötelezettségét, a bejelentési kötelezettség elmulasztásának következményeit,
+k)[^195] a (9) bekezdés szerinti adatszolgáltatáshoz szükséges adatok és az azokban bekövetkező változások támogató felé történő bejelentésének kötelezettségét, a bejelentési kötelezettség elmulasztásának következményeit,
 
 l) a 120. § (1) bekezdése szerinti elállási, illetve visszavonási okokat, és
 
@@ -53,3 +53,4 @@ m) a támogatások felhasználásának elkülönített nyilvántartási kötelez
 (10) A támogató a költségvetésből nyújtott támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett utolsó beszámolójának és kifizetési igénylésének támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
 
 [^194]: A 112. § (4) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^195]: A 112. § (6) bekezdés k) pontja a 95/2011. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

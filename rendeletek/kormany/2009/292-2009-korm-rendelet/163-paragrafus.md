@@ -1,12 +1,12 @@
-## 162. §[^242]
+## 162. §[^240]
 
 ## IX. Fejezet
 
-## A KÖLTSÉGVETÉSI FŐFELÜGYELŐ, KÖLTSÉGVETÉSI FELÜGYELŐ ÉS A BIZTOSOK[^243]
+## A KÖLTSÉGVETÉSI FŐFELÜGYELŐ, KÖLTSÉGVETÉSI FELÜGYELŐ ÉS A BIZTOSOK[^241]
 
-## A költségvetési (fő)felügyelő[^244]
+## A költségvetési (fő)felügyelő[^242]
 
-163. §[^245] (1)[^246] Az Áht. 46/A. §-a szerinti költségvetési (fő)felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett pénzügyi-számviteli vagy jogi végzettséggel és a kijelölés évét megelőző tíz évben legalább három éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
+163. §[^243] (1)[^244] Az Áht. 46/A. §-a szerinti költségvetési (fő)felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett pénzügyi-számviteli vagy jogi végzettséggel és a kijelölés évét megelőző tíz évben legalább három éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
 
 (2) Nem jelölhető ki költségvetési (fő)felügyelőnek az a természetes személy, aki
 
@@ -40,7 +40,7 @@ c) a költségvetési (fő)felügyelő által esetileg és előre meghatározott
 
 d) az elrendelt előirányzat-zárolás végrehajtására irányuló intézkedés,
 
-e)[^247] a rendkívüli kormányzati intézkedésekre szolgáló tartalékból többletforrás biztosítására irányuló igény,
+e)[^245] a rendkívüli kormányzati intézkedésekre szolgáló tartalékból többletforrás biztosítására irányuló igény,
 
 f) a 180. § szerinti előirányzat-felhasználási keret előrehozására irányuló kérelem,
 
@@ -58,9 +58,9 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (12) A költségvetési szervhez kijelölt kincstári biztos, felsőoktatási kincstári megbízott köteles a költségvetési (fő)felügyelőt munkájában támogatni.
 
-[^242]: A 162. §-t megelőző alcímet a 313/2010. (XII. 23.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte. A 162. § a 313/2010. (XII. 23.) Korm. rendelet 42. §-a alapján nem lép hatályba.
-[^243]: A IX. fejezet címe a 226/2010. (VIII. 13.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^244]: A 163. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^245]: A 163. § a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^246]: A 163. § (1) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
-[^247]: A 163. § (6) bekezdés e) pontja a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^240]: A 162. §-t megelőző alcímet a 313/2010. (XII. 23.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte. A 162. § a 313/2010. (XII. 23.) Korm. rendelet 42. §-a alapján nem lép hatályba.
+[^241]: A IX. fejezet címe a 226/2010. (VIII. 13.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^242]: A 163. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^243]: A 163. § a 226/2010. (VIII. 13.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^244]: A 163. § (1) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^245]: A 163. § (6) bekezdés e) pontja a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
