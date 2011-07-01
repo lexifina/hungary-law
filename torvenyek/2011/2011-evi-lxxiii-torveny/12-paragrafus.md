@@ -4,14 +4,6 @@
 
 (3) A Kpt. 5. § (1) bekezdés e) pontjában a „helyszíni bírság” szövegrész helyébe a „helyszíni bírság és a helyszínen alkalmazott közigazgatási bírság” szöveg, a (2) bekezdésében a „fegyelmi hatóság” szövegrész helyébe a „közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság” szöveg, a 6. § (2) bekezdésében a „12-t elérte” szövegrész helyébe a „13-at elérte” szöveg lép.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi LXXIII. törvényhez
 
 „1. melléklet a 2000. évi CXXVIII. törvényhez
