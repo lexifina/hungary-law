@@ -1,1 +1,0 @@
-## Az esélyegyenlőséget szolgáló intézkedések
