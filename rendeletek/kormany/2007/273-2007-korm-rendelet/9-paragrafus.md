@@ -1,9 +1,10 @@
 ## (A VET 25. §-ához)
 
-## Hálózatfejlesztési terv módosítása
+## Hálózatfejlesztési terv[^32]
 
-9. § (1)[^7] Az átviteli rendszerirányító vagy az elosztó jogosult és köteles a jóváhagyott hálózatfejlesztési terv módosítása iránt kérelmet benyújtani a Hivatalhoz, ha a tervezési időszakban ismert körülmények lényegesen megváltoztak, a tervezés során figyelembe vett adatok eltérnek a hálózat tényleges adataitól vagy a hálózatfejlesztési tervben szereplő fejlesztés finanszírozása vagy létesítése ellehetetlenül.
+9. §[^33] (1) Az átviteli rendszerirányító a hálózatfejlesztési terv elkészítésekor felülvizsgálja az előző tervezési időszakban készített hálózati tervet és meghatározza az adott tervezési időszak során figyelembe veendő szempontokat.
 
-(2) A hálózatfejlesztési terv módosítása iránti eljárása során a Hivatal mérlegeli a villamosenergia-ellátás biztonságát, a villamosenergia-piac hatékony működését, és elemzi a terv módosításának a hálózati engedélyesek fejlesztéseire gyakorolt hatását.
+(2) A hálózati engedélyes által készítendő hálózatfejlesztési terv formájára, kötelező tartalmi elemeire, vizsgálati szempontjaira vonatkozó részletes szabályokat az üzemi szabályzat tartalmazza.
 
-[^7]: A Vhr. 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A Vhr. 9. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^33]: A Vhr. 9. §-a a 100/2011. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

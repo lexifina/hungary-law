@@ -1,5 +1,3 @@
-## (A VET 81. §-ához)
-
 ## 50 MW vagy ezt meghaladó teljesítőképességű erőmű létesítésére vonatkozó engedély
 
 63. § (1) Az engedély iránti kérelemhez mellékelni kell az 5. számú mellékletben előírtakat.

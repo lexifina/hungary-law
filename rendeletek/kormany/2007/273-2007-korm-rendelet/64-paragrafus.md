@@ -1,5 +1,3 @@
-## (A VET 82. §-ához)
-
 ## Az erőmű-bővítési engedély
 
 64. § (1) Erőmű bővítésének minősül a működési engedélyben meghatározott erőművi névleges teljesítőképesség további új főberendezéssel történő legalább 10%-os növelése. Erőmű bővítésének minősül a kiserőmű névleges teljesítőképességének új berendezéssel történő növelése is, ha a kiserőmű névleges teljesítőképessége a bővítéssel együtt eléri, vagy meghaladja az 50 MW-t.

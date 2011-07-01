@@ -2,8 +2,11 @@
 
 ## Nemzetközi együttműködés és kapcsolat az Európai Unió szerveivel
 
-116. § (1) A Hivatal az Európai Szabályozó Hatóságok Szövetségének (a továbbiakban: CEER) és az Európai Szabályozó Hatóságok Csoportjának (a továbbiakban: ERGEG) tagjai esetében, a nemzetközi együttműködés keretében a VET 159. § szerinti hatáskörébe tartozó személyesnek nem minősülő adatot adhat át, illetve használhat fel.
+116. § (1)[^213] A Hivatal az Európai Szabályozó Hatóságok Szövetsége tagjainak a nemzetközi együttműködés keretében feladataik ellátásához szükséges, személyes adatnak nem minősülő adatot adhat át, és ezektől a szervezetektől a feladatai ellátásához szükséges adatokat, információkat kérhet.
 
-(2) A villamos energia piac regionális és európai szintű harmonizációja érdekében az Európai Parlament és a Tanács a belső villamosenergia-piacra vonatkozó közös szabályokról, valamint a 96/92/EK irányelv hatályon kívül helyezéséről szóló 2003/54/EK irányelve (2003. június 26.) alapján évente benyújtandó nemzeti jelentést a Hivatal az ERGEG szervezésében, egységes keretek alapján készíti.
+(2)[^214] A villamos energia piac regionális és európai szintű harmonizációja érdekében a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/72/EK európai parlamenti és tanácsi irányelv alapján évente benyújtandó nemzeti jelentést a Hivatal készíti.
 
 (3) Az Európai Bizottság részére teljesítendő, az egyes energetikai tárgyú közösségi jogi aktusokban meghatározott jelentéstételi és adatszolgáltatási kötelezettségeket az e rendelet 24. számú mellékletében megjelölt szervezet teljesíti az e rendelet 24. számú mellékletében meghatározott határidők betartásával.
+
+[^213]: A Vhr. 116. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^214]: A Vhr. 116. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

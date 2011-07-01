@@ -1,5 +1,7 @@
-21. § (1) A felhasználói típuscsoportokra kidolgozott profil-görbéket az elosztói szabályzat tartalmazza.
+21. §[^51] (1) A felhasználói típuscsoportokra kidolgozott profilokat az elosztói szabályzat tartalmazza.
 
-(2) A mérlegkörök elszámolásához szükséges elszámolási mérési adatok képzésének, továbbításának kérdéseit a villamosenergia-ellátási szabályzatok fogalmazzák meg az elszámolásban részt vevők (elosztók, kereskedők/mérlegkör-felelősök, rendszerirányító) együttműködési szabályaiként.
+(2) A mérlegkörök elszámolásához szükséges elszámolási mérési adatok képzését és továbbítását a villamosenergia-ellátási szabályzatok határozzák meg.
 
-(3) A profilozási és felhasználói elszámolási eljárás részletes szabályait, valamint a mérés kialakításának követelményeit az elosztói szabályzat tartalmazza.
+(3) A profilozási és felhasználói elszámolási eljárás, az engedélyesek egymás közötti elszámolásának részletes szabályait, valamint a mérés kialakításának követelményeit a villamosenergia-ellátási szabályzatok tartalmazzák.
+
+[^51]: A Vhr. 21. §-a a 100/2011. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

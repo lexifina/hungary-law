@@ -1,1 +1,3 @@
-19. § A profil elszámolású felhasználó által fizetett rendszerhasználati díjak tartalmazzák a menetrend kiegyensúlyozásának költségeit is a rendszerhasználati díjak megállapításáról szóló miniszteri rendeletben meghatározottak szerint.
+19. §[^49] A profil elszámolású felhasználó által fizetett rendszerhasználati díjak tartalmazzák a menetrend kiegyensúlyozásának költségeit is a Hivatal határozatában meghatározottak szerint.
+
+[^49]: A Vhr. 19. §-a a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

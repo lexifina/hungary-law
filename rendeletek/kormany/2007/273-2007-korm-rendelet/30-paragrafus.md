@@ -2,7 +2,7 @@
 
 ## Védendő fogyasztókra vonatkozó részletes szabályok
 
-30. §[^40] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
+30. §[^88] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
@@ -32,7 +32,7 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 (5) Az elosztó köteles a szociálisan rászoruló fogyasztót a rászorultság igazolását követő 8 napon belül nyilvántartásba venni, és a nyilvántartásba vételről a fogyasztóval jogviszonyban álló villamosenergia-kereskedőt a fogyasztóval egyidejűleg értesíteni.
 
-(6) A nyilvántartásba történő felvételre vonatkozó kérelem benyújtásakor folyamatban lévő kikapcsolási eljárást a kérelem elbírálásáig az elosztó felfüggeszti.
+(6)[^89]
 
 (7) Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő fogyasztó – a véghatáridő lejártát 30 nappal megelőzően az elosztó által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, az igazoló iratban meghatározott véghatáridő lejártát követő 8 napon belül az elosztó az érintett védendő fogyasztót törli a nyilvántartásból. A nyilvántartásból való törlésről az érintett védendő fogyasztót az elosztó értesíti. A fogyasztó adatainak megállapíthatósága tekintetében a VET 65. § (4) bekezdésében foglaltak ebben az esetben is irányadók.
 
@@ -40,4 +40,5 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 (9) Jogosultságának a VET 65. § (4) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^40]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^88]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^89]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

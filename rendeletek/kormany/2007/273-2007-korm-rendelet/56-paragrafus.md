@@ -1,4 +1,4 @@
-56. §[^82] (1) Az elosztó, az egyetemes szolgáltató, az átviteli rendszerüzemeltető, valamint – az átviteli rendszerirányító teljes tulajdonosi szétválasztása esetén – az átviteli rendszerirányító a VET szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni legalább az alábbi kötelezettségeinek az engedélyében meghatározottak szerint:
+56. §[^138] (1) Az elosztó, az egyetemes szolgáltató, az átviteli rendszerüzemeltető, valamint – az átviteli rendszerirányító teljes tulajdonosi szétválasztása esetén – az átviteli rendszerirányító a VET szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni legalább az alábbi kötelezettségeinek az engedélyében meghatározottak szerint:
 
 a) átviteli rendszerüzemeltető és átviteli rendszerirányító esetén:
 
@@ -12,7 +12,7 @@ ad) a rendszerszintű szolgáltatások tervezése, valamint az igénybevételük
 
 ae) a szervezett villamosenergia-piacon megkötött ügyletek végrehajtásában történő közreműködés és
 
-af)[^83] a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések elrendelése;
+af)[^139] a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések elrendelése;
 
 b) elosztó esetén
 
@@ -28,5 +28,5 @@ c) egyetemes szolgáltató esetén az egyetemes szolgáltatási tevékenységéh
 
 (2) A VET 102–102/E. §-a szerinti átviteli rendszerirányító az (1) bekezdésben foglaltakon túlmenően a VET szerinti engedélyköteles tevékenysége vonatkozásban köteles saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni a VET 102/B. § (3) bekezdés c) pontjában foglaltaknak.
 
-[^82]: A Vhr. 56. § a 75/2011. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^83]: [A Vhr. 56. § (1) bekezdés a) pont af)–ag) alpontjának a 75/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított, a 31. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „af) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések elrendelése; és ag) a VET 13. § (1a) bekezdése szerinti kötelező átvételi rendszer mérlegkörének működtetése és kiegyenlítése;”.]
+[^138]: A Vhr. 56. § a 75/2011. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^139]: [A Vhr. 56. § (1) bekezdés a) pont af)–ag) alpontjának a 75/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított, a 31. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „af) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések elrendelése; és ag) a VET 13. § (1a) bekezdése szerinti kötelező átvételi rendszer mérlegkörének működtetése és kiegyenlítése;”.]

@@ -1,3 +1,6 @@
-18. § (1) A profil-görbén alapuló elszámolású felhasználót (a továbbiakban: profil elszámolású felhasználó) a felhasználási hely szerinti területen működési engedéllyel rendelkező elosztó köteles a profil-görbék alapján felhasználói terhelési profilba besorolni. Az elosztó a besorolást a felhasználó fogyasztási szokásainak figyelembevételével objektív módon, az elosztói szabályzatban és az üzletszabályzatában foglaltak szerint köteles végrehajtani.
+18. § (1)[^47] A profil elszámolású felhasználót a felhasználási hely szerinti területen működési engedéllyel rendelkező elosztó köteles a profilok alapján besorolni. Az elosztó a besorolást objektív módon, az elosztói szabályzatban és az üzletszabályzatában foglaltak szerint köteles végrehajtani.
 
-(2) A 16. § (2) bekezdés b) pontja szerint vételező felhasználók profilját a fényforrásoknak az előtétekkel és egyéb tartozékokkal együtt számított hatásos névleges teljesítményfelvétele, a közvilágítási naptár vagy a tényleges kapcsolások alapján meghatározott világítási időtartam szerint kell meghatározni.
+(2)[^48] A 16. § (3) bekezdés b) pontja szerint vételező felhasználók profilját a fényforrásoknak az előtétekkel és egyéb tartozékokkal együtt számított hatásos névleges teljesítményfelvétele, a közvilágítási naptár vagy a tényleges kapcsolások alapján meghatározott világítási időtartam szerint kell meghatározni.
+
+[^47]: A Vhr. 18. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^48]: A Vhr. 18. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

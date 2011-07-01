@@ -20,7 +20,7 @@ h) a villamosenergia-rendszer hálózatfejlesztési tervének készítése sorá
 
 a) a villamosenergia-kereskedelem részletes szabályaira,
 
-b) a keresletoldali szabályozási intézkedések összehangolására vonatkozó részletes eljárásrendre, valamint az átviteli rendszerirányító ezzel kapcsolatos feladataira,
+b)[^131]
 
 c) a mérlegköri elszámolás részletes szabályaira,
 
@@ -43,3 +43,5 @@ b) az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire,
 c) a profilos fogyasztás és elszámolás szabályaira.
 
 (4) A villamosenergia ellátási szabályzatokat egymással összhangban kell elkészíteni.
+
+[^131]: A Vhr. 47. § (2) bekezdés b) pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

@@ -10,6 +10,6 @@
 
 (6) Amennyiben a vételezett és betáplált villamosenergia-szaldó alapján betáplálási többlet áll fenn, az elszámolás során betáplált villamosenergia-többletet a háztartási méretű kiserőmű üzemeltetőjével jogviszonyban álló kereskedő által a részére – mint felhasználó részére – értékesített villamos energia szerződés szerinti átlagos termékára, valamint a háztartási kiserőmű üzemeltetője, mint felhasználó által fizetendő rendszerhasználati díj összegének 85%-ával kell elszámolni.
 
-(7) A fogyasztásmérő berendezés költségeinek viselésére 3x16 A teljesítmény határig a felhasználókra, a felett az erőművekre vonatkozó szabályok alkalmazandók.
+(7) A fogyasztásmérő berendezés költségeinek viselésére 3 x 16 A teljesítmény határig a felhasználókra, a felett az erőművekre vonatkozó szabályok alkalmazandók.
 
 (8) A háztartási kiserőművek csatlakoztatásával és üzemeltetésével kapcsolatos további szabályokat az ellátási szabályzatok és a hálózati engedélyesek üzletszabályzatai, a villamos energia értékesítés elszámolásával kapcsolatos további szabályokat a kereskedők üzletszabályzatai tartalmazzák.

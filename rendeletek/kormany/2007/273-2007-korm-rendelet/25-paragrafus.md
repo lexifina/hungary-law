@@ -6,6 +6,6 @@
 
 (4) A lakossági fogyasztó – amennyiben a villamos energia szolgáltatásra igényt tart – tartozásának rendezését a villamosenergia-kereskedő felé igazolni köteles.
 
-(5)[^33] Az elosztó a villamosenergia-kereskedőnek a VET 47. § (9) bekezdése szerinti kezdeményezése alapján a lakossági fogyasztót a villamosenergia-ellátásba 24 órán belül visszakapcsolja.
+(5)[^78]
 
-[^33]: A Vhr. 25. § (5) bekezdése a 64/2009. (III. 31.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^78]: A Vhr. 25. § (5) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

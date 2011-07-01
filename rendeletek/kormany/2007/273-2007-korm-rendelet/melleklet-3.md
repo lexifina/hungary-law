@@ -8,7 +8,7 @@
 
 ## (2) Kizárólag e szabályzat alkalmazása szempontjából:
 
-## a) elszámolási időszak: azt az időszakot jelenti, amelyre vonatkozóan a hálózati engedélyes a rendszerhasználóval a rendszerhasználati díjakat, illetve az egyetemes szolgáltató vagy a villamosenergia-kereskedő a felhasználóval a villamos energia árát elszámolják;
+## a)[^255]
 
 ## b) fizető: az, aki a hálózathasználati szerződéshez kapcsolódóan, külön kötött fizetési megállapodásban vállalja meghatározott felhasználási helyen felhasznált energia ellenértékének, valamint a rendszerhasználati díjnak és a járulékos költségeknek megfizetését;
 
@@ -16,11 +16,11 @@
 
 ## d) leolvasási időszak: a fogyasztásmérő-berendezés két egymást követő leolvasása vagy adatrögzítése közötti időszak;
 
-## e) részszámla: a rendszerhasználó részére az elszámolási időszakon belül benyújtott számla.
+## e)[^256]
 
 ## A hálózathoz való csatlakozás
 
-## 3. § (1) Az átviteli, illetve az elosztó hálózathoz történő csatlakozási igény esetén a hálózati engedélyes – amennyiben a rendszerhasználó a jogszabályokban, a villamosenergia-ellátási szabályzatokban, a hálózati engedélyes üzletszabályzatában, valamint a hálózati engedélyes ajánlatában foglaltakat elfogadja, a hálózati csatlakozási szerződést a hálózati engedélyessel megkötötte és a külön jogszabályban meghatározott csatlakozási díjat megfizette – a hálózati csatlakozási szerződés rendelkezései szerint köteles a rendszerhasználó részére az adott felhasználási helyen levő csatlakozási pont(ok)ra a hálózati csatlakozást kiépíteni.
+## 3. § (1)[^257] Az átviteli, illetve az elosztó hálózathoz történő csatlakozási igény esetén a hálózati engedélyes – amennyiben a rendszerhasználó a jogszabályokban, a villamosenergia-ellátási szabályzatokban, a hálózati engedélyes üzletszabályzatában, valamint a hálózati engedélyes ajánlatában foglaltakat elfogadja, a hálózati csatlakozási szerződést a hálózati engedélyessel megkötötte és a Hivatal határozatában meghatározott csatlakozási díjat megfizette – a hálózati csatlakozási szerződés rendelkezései szerint köteles a rendszerhasználó részére az adott felhasználási helyen levő csatlakozási pont(ok)ra a hálózati csatlakozást kiépíteni.
 
 ## (2) A rendelkezésre álló teljesítményt felhasználási helyenként és azon belül csatlakozási pontonként a hálózati csatlakozási szerződésben kell rögzíteni.
 
@@ -60,7 +60,7 @@
 
 ## 8. § (1) A hálózathoz való hozzáférés megtagadása a hozzáférés megszüntetését jelenti, ekkor a hálózati engedélyes a hálózathasználati szerződést köteles felmondani. A szállítások korlátozása, csökkentése, szüneteltetése az azt megalapozó ok vagy körülmény megszűnéséig vagy megszüntetéséig tartható fenn.
 
-## (2)[^179] A VET 36. § (2) bekezdés e) pontja szerinti szüneteltetés időtartama nem haladhatja meg:
+## (2)[^258] A VET 36. § (2) bekezdés e) pontja szerinti szüneteltetés időtartama nem haladhatja meg:
 
 ## a) március 1. és november 30. között egynapos munka esetén a 12 órát, többnapos munka esetén a napi 8 órát és összesen a heti 3 napot, valamint a havi 5 napot, és
 
@@ -68,7 +68,7 @@
 
 ## Nem lakossági fogyasztó esetén a felek a fentiektől eltérően is megállapodhatnak.
 
-## (3)[^180] A hozzáférés megtagadása, illetve a szállítások korlátozása, csökkentése, szüneteltetése további részletszabályait az üzemi-, elosztói szabályzat és az üzletszabályzat tartalmazza.
+## (3)[^259] A hozzáférés megtagadása, illetve a szállítások korlátozása, csökkentése, szüneteltetése további részletszabályait az üzemi-, elosztói szabályzat és az üzletszabályzat tartalmazza.
 
 ## Fogyasztás és betáplálás
 
@@ -94,7 +94,7 @@
 
 ## (2) Az igénybejelentésnek az elosztó üzletszabályzatában meghatározott formanyomtatványát az elosztó az állandó ügyfélszolgálati irodában és az ügyfélszolgálati fiókirodában egyaránt hozzáférhetővé teszi, továbbá honlapján elektronikusan letölthető formátumban is közzéteszi.
 
-## (3) A VET 63. § (1) bekezdésében szabályozott esetben a rendszerhasználói igényt a rendszerhasználó helyett villamosenergia-kereskedő vagy az egyetemes szolgáltató nyújtja be az adott területre működési engedéllyel rendelkező hálózati engedélyesnek. A bizományosként történő eljárásra vonatkozó jogosultságot a hálózati engedélyes felé a villamosenergia-kereskedő vagy az egyetemes szolgáltató igazolja.
+## (3)[^260] A VET 63. § (1) bekezdésében szabályozott esetben a rendszerhasználói igényt a rendszerhasználó helyett villamosenergia-kereskedő vagy az egyetemes szolgáltató nyújtja be az adott területre működési engedéllyel rendelkező hálózati engedélyesnek. A megbízottként történő eljárásra vonatkozó jogosultságot a hálózati engedélyes felé a villamosenergia-kereskedő vagy az egyetemes szolgáltató igazolja.
 
 ## (4) Nem kell rendszerhasználói igénybejelentést tenni azon rendszerhasználóknak, amelyek e rendelet hatálybalépésekor a villamos energiáról szóló 2001. évi CX. törvény alapján kötött közüzemi szerződéssel rendelkeznek, vagy a Ptk. szerint írásbeli közüzemi szerződés nélkül, ráutaló magatartással vételeznek.
 
@@ -178,7 +178,7 @@
 
 ## d) csatlakozási pontonként a rendelkezésre álló teljesítményt;
 
-## e)[^181] a külön jogszabályban meghatározott csatlakozási díj mértékét, teljesítésének módját és határidejét, a hálózati engedélyes pénzforgalmi számlaszámát;
+## e)[^261] a külön jogszabályban meghatározott csatlakozási díj mértékét, teljesítésének módját és határidejét, a hálózati engedélyes pénzforgalmi számlaszámát;
 
 ## f) amennyiben a rendszerhasználó helyett a fizető teljesít, a fizető megnevezését, személyi, illetve azonosító adatait;
 
@@ -220,7 +220,7 @@
 
 ## e) csatlakozási pontonként a lekötött teljesítményt, a szolgáltatott villamos energia műszaki jellemzőit, a nyújtott szolgáltatás minőségi jellemzőit;
 
-## f)[^182] a külön jogszabályban meghatározott hálózathasználati díj mértékét, megfizetésének módját és feltételeit, a hálózati engedélyes pénzforgalmi számlaszámát;
+## f)[^262] a külön jogszabályban meghatározott hálózathasználati díj mértékét, megfizetésének módját és feltételeit, a hálózati engedélyes pénzforgalmi számlaszámát;
 
 ## g) a felhasználási vagy betáplálási helyen felszerelt, elszámolás alapjául szolgáló fogyasztásmérő-berendezés részletes leírását, valamint a fogyasztásmérő-berendezés hitelességére vonatkozó nyilatkozatot;
 
@@ -258,7 +258,7 @@
 
 ## b) 200 kVA rendelkezésre álló teljesítmény vagy ezt meghaladó teljesítmény esetén a rendszerhasználót – eltérő megállapodás hiányában – névre és felhasználási helyre szóló levélben.
 
-## (2)[^183] A fogyasztásmérő-berendezés hitelességi idejének lejárta miatti cseréje esetén szükséges munkavégzés, a fogyasztásmérő-berendezés ellenőrző leolvasása, vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzés időpontjáról a hálózati engedélyes a (4) bekezdésben meghatározott határidőknek megfelelően, írásban köteles a rendszerhasználót értesíteni. Amennyiben a rendszerhasználó számára az értesítésben megadott időpont nem megfelelő, a hálózati engedélyes köteles a rendszerhasználóval egyeztetni a megfelelő időpont kijelölése érdekében. A rendszerhasználó köteles a hálózati engedélyes által megküldött értesítésben megjelölt, vagy a közös megegyezéssel kijelölt időpontban a hálózati engedélyes felhasználási helyhez tartozó mérőhelyen történő munkavégzését lehetővé tenni.
+## (2)[^263] A fogyasztásmérő-berendezés hitelességi idejének lejárta miatti cseréje esetén szükséges munkavégzés, a fogyasztásmérő-berendezés ellenőrző leolvasása, vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzés időpontjáról a hálózati engedélyes a (4) bekezdésben meghatározott határidőknek megfelelően, írásban köteles a rendszerhasználót értesíteni. Amennyiben a rendszerhasználó számára az értesítésben megadott időpont nem megfelelő, a hálózati engedélyes köteles a rendszerhasználóval egyeztetni a megfelelő időpont kijelölése érdekében. A rendszerhasználó köteles a hálózati engedélyes által megküldött értesítésben megjelölt, vagy a közös megegyezéssel kijelölt időpontban a hálózati engedélyes felhasználási helyhez tartozó mérőhelyen történő munkavégzését lehetővé tenni.
 
 ## (3) Nem alkalmazható a felhasználóval szemben a (2) bekezdésben meghatározott kötelezettségek megsértése vagy elmulasztása esetén hátrányos következmény, ha:
 
@@ -298,15 +298,15 @@
 
 ## Rendszerhasználati díjfizetéssel kapcsolatos elszámolás
 
-## 19. § (1) A rendszerhasználati díjfizetéssel kapcsolatos elszámolás szabályait az e rendeletben foglaltak és a rendszerhasználati díjak megállapításáról szóló rendeletben foglaltak alapján a hálózathasználati szerződésben kell rögzíteni.
+## 19. § (1)[^264] A rendszerhasználati díjfizetéssel kapcsolatos elszámolás szabályait az e rendeletben és a Hivatal határozatában foglaltak és a rendszerhasználati díjak megállapításáról szóló rendeletben foglaltak alapján a hálózathasználati szerződésben kell rögzíteni.
 
 ## (2) A hálózati engedélyes üzletszabályzatában meghatározott felhasználók fogyasztásmérő berendezéseinek adatrögzítési, továbbá azok leolvasási napjait a hálózathasználati szerződésben kell meghatározni.
 
 ## (3) Fogyasztásmérő-berendezés nélkül történő villamosenergia-felhasználásnak csak különös műszaki vagy gazdasági szempontok által indokolt esetben és a hálózati engedélyes, illetve a villamosenergia-kereskedő hozzájárulásával van helye. Ez esetben a szolgáltatott villamos energia mennyiségét és a lekötött teljesítmény értékét a felhasználói berendezés névleges teljesítménye és a szerződésben meghatározott felhasználási időtartam alapján kell megállapítani.
 
-## (4) A rendszerhasználati díj elszámolásakor a VET 142. §-ában foglalt rendelkezés alapján megállapított árat (díjat) kell alkalmazni, a hálózathasználattal kapcsolatos egyéb szolgáltatások díjait pedig a külön jogszabályokban foglalt előírások, ármegállapítások és az üzletszabályzat rendelkezései szerint kell megállapítani.
+## (4)[^265] A rendszerhasználati díj elszámolásakor a Hivatal határozatában meghatározott díjat kell alkalmazni, a hálózathasználattal kapcsolatos egyéb szolgáltatások díjait pedig a külön jogszabályokban foglalt előírások, ármegállapítások és az üzletszabályzat rendelkezései szerint kell megállapítani.
 
-## (5) A hálózati engedélyes az elszámolási időszakra vonatkozóan a (4) bekezdés szerinti árat és díjat elszámolási időszakra állapítja meg, amelyről a szerződésben foglalt gyakorisággal számlát állít ki. A hálózati engedélyes és a rendszerhasználó az elszámolási időszakban és a számlakibocsátás gyakoriságában köteles megállapodni. Ha az elszámolási időszak időtartama a két hónapot meghaladja, a hálózati engedélyes jogosult részszámlát kibocsátani. A résszámla alapja – ha a felek eltérően nem állapodtak meg – az előző elszámolási időszakban történt fogyasztás és az elszámolási időszakra vonatkozó lekötött teljesítmény.
+## (5)[^266] A hálózati engedélyes a (4) bekezdés szerinti díjat az elszámolási időszakra elszámolási időszakra állapítja meg, amelyről a szerződésben foglalt gyakorisággal számlát állít ki. A hálózati engedélyes és a rendszerhasználó az elszámolási időszakban és a számlakibocsátás gyakoriságában köteles megállapodni. Ha az elszámolási időszak időtartama a két hónapot meghaladja, a hálózati engedélyes jogosult részszámlát kibocsátani. A résszámla alapja – ha a felek eltérően nem állapodtak meg – az előző elszámolási időszakban történt fogyasztás és az elszámolási időszakra vonatkozó lekötött teljesítmény.
 
 ## (6) Árváltozás esetén a díjat
 
@@ -328,13 +328,15 @@
 
 ## (10) A fizető és a rendszerhasználó – a felek megállapodásának megfelelően – tartósan vagy időlegesen is eltérő lehet, a hálózati engedélyessel szemben azonban felelősségük egyetemleges. A fizetési megállapodásban vállalt kötelezettség nem teljesítése esetén a megállapodásban meghatározott valamennyi felhasználási hely kikapcsolható a villamosenergia-szolgáltatásból.
 
+## (11)[^267] A hálózati engedélyes köteles az elszámolási időszak utolsó napjára elszámoló számlát, a hálózathasználati vagy villamosenergia-vásárlási szerződés megszűnése esetén a szerződés időtartamának utolsó napjára végszámlát kibocsátani, és a felhasználóval elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is. Ennek részletes szabályait a hálózati engedélyes üzletszabályzata tartalmazza.
+
 ## Számlakifogás
 
-## 20. § (1) A rendszerhasználó a számla ellen a hálózati engedélyesnél kifogást emelhet. A kifogás bejelentésének a számla kiegyenlítésére halasztó hatálya nincs, kivéve, ha a számla összege az előző év azonos időszakára vetített díj 200%-át meghaladja.
+## 20. § (1)[^268] A rendszerhasználó a számla ellen a hálózati engedélyesnél kifogást emelhet. A kifogás bejelentésének a számla kiegyenlítésére halasztó hatálya nincs, kivéve, ha a számlán elszámolt villamos energia mennyiség az előző év azonos időszakában elszámolt villamos energia mennyiség 150%-át meghaladja.
 
 ## (2) A hálózati engedélyes köteles a kifogást megvizsgálni, és ennek eredményéről a rendszerhasználót legkésőbb a kifogás vételétől számított 15 napon belül írásban értesíteni.
 
-## (3)[^184] Ha a rendszerhasználót visszatérítés illeti meg, a hálózati engedélyes azt az esedékességtől számított 8 napon belül köteles a rendszerhasználó részére készpénzben kifizetni vagy a rendszerhasználó fizetési számlájára visszautalni. A felek erre vonatkozó megállapodása alapján a hálózati engedélyes jogosult a visszatérítést a felhasználót terhelő számlatartozás összegébe beszámítani.
+## (3)[^269] Ha a rendszerhasználót visszatérítés illeti meg, a hálózati engedélyes azt az esedékességtől számított 8 napon belül köteles a rendszerhasználó részére kifizetni A felek erre vonatkozó megállapodása alapján a hálózati engedélyes jogosult a visszatérítést a felhasználót terhelő számlatartozás összegébe beszámítani.
 
 ## (4) Ha a téves vagy elmaradt elszámolás miatt a hálózati engedélyest díj vagy díjkülönbözet illeti meg, a rendszerhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel.
 
@@ -348,7 +350,7 @@
 
 ## (3) Ha a helyesbítés mértéke nem határozható meg, vagy abban a felek nem tudnak megállapodni, illetve ha időközben a felhasználó felhasználásában változás következett be, a hibás mérést megelőző és azt követő elszámolási időszakok – de legalább négy hónap – felhasználási adatainak átlaga képezi az elszámolás alapját. Amennyiben a hibás mérés előtt a felhasználási helyen a fogyasztásról hiteles mérővel mért adat nem áll rendelkezésre, akkor a hibás mérést követő négy hónapban hiteles méréssel megállapított fogyasztásból kell a vélelmezett fogyasztást meghatározni. A jelen bekezdésben meghatározott módon becsült felhasználást a felek a (2) bekezdésben meghatározottak szerint kötelesek elszámolni.
 
-## (4)[^185] Ha hibás mérés miatt a rendszerhasználót visszatérítés illeti meg, a hálózati engedélyes a (2)–(3) bekezdésekben foglalt elszámolások lezárását követő 8 napon belül az elszámolás eredményéről köteles írásban tájékoztatni a rendszerhasználó egyetemes szolgáltatóját vagy villamosenergia-kereskedőjét. A visszatérítendő villamos energia árat a villamosenergia-kereskedő az értesítés kézhezvételétől számított 8 napon belül köteles a rendszerhasználó részére készpénzben kifizetni vagy a rendszerhasználó pénzforgalmi számlájára visszautalni, illetve a rendszerhasználóval történt előzetes megállapodás esetén a rendszerhasználót terhelő számlatartozás összegébe beszámítani. Egyetemes szolgáltatásban részesülő rendszerhasználó esetében a visszatérítésre az ESzSz 10. §-ának rendelkezései irányadók. A hálózathasználati díjakat az az engedélyes írja jóvá vagy fizeti vissza a rendszerhasználónak, amely azt a rendszerhasználónak kiszámlázta. A hálózati engedélyes és az egyetemes szolgáltató vagy villamosenergia-kereskedő közötti elszámolásra a villamosenergia-ellátási szabályzatok vonatkozó rendelkezései irányadók.
+## (4)[^270] Ha hibás mérés miatt a rendszerhasználót visszatérítés illeti meg, a hálózati engedélyes a (2)–(3) bekezdésekben foglalt elszámolások lezárását követő 8 napon belül az elszámolás eredményéről köteles írásban tájékoztatni a rendszerhasználó egyetemes szolgáltatóját vagy villamosenergia-kereskedőjét. A visszatérítendő villamos energia árat a villamosenergia-kereskedő az értesítés kézhezvételétől számított 8 napon belül köteles a rendszerhasználó részére készpénzben kifizetni vagy a rendszerhasználó pénzforgalmi számlájára visszautalni, illetve a rendszerhasználóval történt előzetes megállapodás esetén a rendszerhasználót terhelő számlatartozás összegébe beszámítani. Egyetemes szolgáltatásban részesülő rendszerhasználó esetében a visszatérítésre az ESzSz 10. §-ának rendelkezései irányadók. A hálózathasználati díjakat az az engedélyes írja jóvá vagy fizeti vissza a rendszerhasználónak, amely azt a rendszerhasználónak kiszámlázta. A hálózati engedélyes és az egyetemes szolgáltató vagy villamosenergia-kereskedő közötti elszámolásra a villamosenergia-ellátási szabályzatok vonatkozó rendelkezései irányadók.
 
 ## (5) Ha hibás mérés miatt az egyetemes szolgáltatót vagy villamosenergia-kereskedőt a rendszerhasználó villamos energia felhasználása után árkülönbözet és a hálózati engedélyest hálózathasználati díjkülönbözet illeti meg, a hálózati engedélyes a (2)–(3) bekezdésekben foglalt elszámolások lezárását követő 8 napon belül az elszámolás eredményéről köteles írásban tájékoztatni a rendszerhasználó egyetemes szolgáltatóját vagy villamosenergia-kereskedőjét. A villamos energia árkülönbözetről az egyetemes szolgáltató vagy a villamosenergia-kereskedő, a hálózathasználati díjkülönbözetről a hálózati engedélyes külön számlát állít ki a rendszerhasználónak. Abban az esetben, ha a villamosenergia-vásárlási szerződés alapján hálózathasználati díjakat az egyetemes szolgáltató vagy a villamosenergia-kereskedő számlázza a rendszerhasználónak, úgy hibás mérés miatti számlázásra is ezen rendelkezések irányadók. A hibás méréssel összefüggésben kiállított számla megfizetésére a 20. § (4)–(5) bekezdéseiben foglaltak irányadók.
 
@@ -360,7 +362,7 @@
 
 ## Szerződésszegés
 
-## 22/A. §[^186] (1) A felhasználási helyen végzett ellenőrzés során annak eredményét minden esetben írásbeli dokumentumban kell rögzíteni (ténymegállapító jegyzőkönyv, egyszerűsített jegyzőkönyv, mérő felülvizsgálati lap, munkalap stb.).
+## 22/A. §[^271] (1) A felhasználási helyen végzett ellenőrzés során annak eredményét minden esetben írásbeli dokumentumban kell rögzíteni (ténymegállapító jegyzőkönyv, egyszerűsített jegyzőkönyv, mérő felülvizsgálati lap, munkalap stb.).
 
 ## (2) A felhasználási helyen végzett ellenőrzés csak a felhasználó, vagy képviselője, vagy független tanú jelenlétében folytatható le.
 
@@ -374,7 +376,7 @@
 
 ## (8) A szerződésszegés vagy annak alapos gyanúja esetén felvett ténymegállapító jegyzőkönyv tartalmi követelményeit a hálózati engedélyes üzletszabályzata tartalmazza.
 
-## 23. §[^187] (1) A szerződésszegés azon eseteit, amelyeknél azonnali felmondásnak van helye, valamint a kötbérre vonatkozó részletes rendelkezéseket – a (2) bekezdésben foglalt kivétellel – a hálózati engedélyes üzletszabályzata tartalmazza, egyebekben a szerződésszegésre a VET és a Ptk. általános szabályai az irányadók.
+## 23. §[^272] (1) A szerződésszegés azon eseteit, amelyeknél azonnali felmondásnak van helye, valamint a kötbérre vonatkozó részletes rendelkezéseket – a (2) bekezdésben foglalt kivétellel – a hálózati engedélyes üzletszabályzata tartalmazza, egyebekben a szerződésszegésre a VET és a Ptk. általános szabályai az irányadók.
 
 ## (2) A VET 47. § (9) bekezdése, valamint e rendelet 25. §-ának (5) bekezdése szerinti határidőre figyelemmel amennyiben a tartozás rendezését követő visszakapcsolásra 48 óránál később kerül sor a hálózati engedélyes köteles kötbért fizetni a felhasználónak. A kötbér mértéke a villamos elosztó hálózati engedélyesek és az egyetemes szolgáltató által a felhasználó igénye alapján, külön díj ellenében végezhető szolgáltatások köréről és díjairól szóló rendeletben meghatározott, a felhasználónak a villamosenergia-ellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
 
@@ -386,12 +388,21 @@
 
 3. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-[^179]: A Vhr. 2. számú melléklet 8. § új (2) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta.
-[^180]: A Vhr. 2. számú melléklet 8. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése.
-[^181]: A Vhr. 2. számú melléklet 13. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
-[^182]: A Vhr. 2. számú melléklet 16. § (1) bekezdés f) pontja a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
-[^183]: A Vhr. 2. számú melléklet 17. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^184]: A Vhr. 2. számú melléklet 20. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
-[^185]: A Vhr. 2. számú melléklet 21. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
-[^186]: A Vhr. 2. számú melléklet 22/A. §-át a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^187]: A Vhr. 2. számú melléklet 23. §-a a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^255]: A Vhr. 2. számú melléklet 2. § (2) bekezdés a) pontját a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése hatályon kívül helyezte.
+[^256]: A Vhr. 2. számú melléklet 2. § (2) bekezdés e) pontját a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése hatályon kívül helyezte.
+[^257]: A Vhr. 2. számú melléklet 3. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^258]: A Vhr. 2. számú melléklet 8. § új (2) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta.
+[^259]: A Vhr. 2. számú melléklet 8. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése.
+[^260]: A Vhr. 2. számú melléklet 10. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^261]: A Vhr. 2. számú melléklet 13. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^262]: A Vhr. 2. számú melléklet 16. § (1) bekezdés f) pontja a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^263]: A Vhr. 2. számú melléklet 17. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^264]: A Vhr. 2. számú melléklet 19. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^265]: A Vhr. 2. számú melléklet 19. § (4) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^266]: A Vhr. 2. számú melléklet 19. § (5) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^267]: A Vhr. 2. számú melléklet 19. § (11) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^268]: A Vhr. 2. számú melléklet 20. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^269]: A Vhr. 2. számú melléklet 20. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a, a 100/2011. (VI. 29.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
+[^270]: A Vhr. 2. számú melléklet 21. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^271]: A Vhr. 2. számú melléklet 22/A. §-át a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^272]: A Vhr. 2. számú melléklet 23. §-a a 116/2010. (IV. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.

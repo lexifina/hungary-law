@@ -1,5 +1,3 @@
-## (A VET 80. §-ához)
-
 ## Kiserőművi összevont engedély
 
 62. § (1) Az engedély iránti kérelemhez mellékelni kell a 4. számú mellékletben előírtakat.

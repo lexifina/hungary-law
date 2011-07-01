@@ -1,5 +1,3 @@
-## (A VET 72. §-ához)
-
 ## Üzletszabályzat
 
 51. § (1) Az engedélyesek az üzletszabályzataik tervezetét kötelesek honlapjukon közzétenni. Az üzletszabályzatot az Energetikai Érdekegyeztető Tanácsnál regisztrált energetikai felhasználói érdekképviseletekkel egyeztetve, a honlapon keresztül érkezett észrevételekkel együtt nyújtják be a Hivatal részére jóváhagyásra. Az engedélyes a honlapon, valamint a regisztrált energetikai felhasználói érdekképviseletek részére az érdemi észrevételek megtételére legalább 20 napos határidőt köteles biztosítani.

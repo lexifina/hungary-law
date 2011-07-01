@@ -1,5 +1,3 @@
-## (A VET 66., 85. és 86. §-ához)
-
 ## Közcélúvá nyilvánítás
 
 40. § (1) A Hivatal valamennyi nagyfeszültségű vezeték közcélúságát vizsgálja.

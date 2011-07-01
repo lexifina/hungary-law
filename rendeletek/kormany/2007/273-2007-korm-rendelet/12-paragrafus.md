@@ -20,11 +20,11 @@
 
 (9) A (4)–(6) bekezdésekben meghatározott vételezői, felhasználói jogokat a magánvezeték üzemeltetője nem korlátozhatja.
 
-(10)[^10] Ha a továbbadással villamos energiát vételezők közösen a Hivataltól a magánvezeték engedélykötelessé nyilvánítását kérelmezik, a kérelemhez csatolni kell a (4) bekezdés előírásaival összefüggésben keletkező iratokat.
+(10)[^37] Ha a továbbadással villamos energiát vételezők közösen a Hivataltól a magánvezeték engedélykötelessé nyilvánítását kérelmezik, a kérelemhez csatolni kell a (4) bekezdés előírásaival összefüggésben keletkező iratokat.
 
-(11)[^11] A Hivatal a VET 66. §-ának (8) bekezdése szerinti eljárásban a magánvezeték tulajdonosától és üzemeltetőjétől bekérhet minden olyan nyilatkozatot, iratot, egyéb bizonyítékot, amelyet a határozatának meghozatalához szükségesnek tart. A magánvezeték tulajdonosa, illetve üzemeltetője a Hivatal felhívásának köteles határidőben eleget tenni. Az eljárás akadályozása esetén a Hivatal az ügyféllel szemben a VET 96. § (1) bekezdésének a)–b) pontjai szerinti jogkövetkezményeket alkalmazhatja.
+(11)[^38] A Hivatal a VET 66. §-ának (8) bekezdése szerinti eljárásban a magánvezeték tulajdonosától és üzemeltetőjétől bekérhet minden olyan nyilatkozatot, iratot, egyéb bizonyítékot, amelyet a határozatának meghozatalához szükségesnek tart. A magánvezeték tulajdonosa, illetve üzemeltetője a Hivatal felhívásának köteles határidőben eleget tenni. Az eljárás akadályozása esetén a Hivatal az ügyféllel szemben a VET 96. § (1) bekezdésének a)–b) pontjai szerinti jogkövetkezményeket alkalmazhatja.
 
 (12) A magánvezeték üzemeltetője az előre tervezhető éves rendes karbantartási, felújítási munkálatokról, az ezzel kapcsolatos szüneteltetés kezdő időpontjáról és várható időtartamáról az érintett felhasználókat és vételezőket a szünetelés megkezdését megelőzően legalább 15 nappal írásban értesíti.
 
-[^10]: A Vhr. 12. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573–574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A Vhr. 12. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A Vhr. 12. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573–574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A Vhr. 12. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -68,7 +68,7 @@ ib) a felhasználóknak és engedélyeseknek az előre tervezhető karbantartás
 
 ic) a rendszerszintű teljesítmény és villamos energia mérleg elkészítésének rendjéről, továbbá az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) és a Hivatal tájékoztatásának módjáról a mérleg, az erőművi teljesítmény, a közcélú hálózatok, valamint a fogyasztás várható jövőbeli alakulásáról,
 
-id)[^72] az átviteli rendszerirányító részére a VET 152. §-a szerinti személyek és a felhasználók által kötelezően szolgáltatott következő adatokról:
+id)[^123] az átviteli rendszerirányító részére a VET 152. §-a szerinti személyek és a felhasználók által kötelezően szolgáltatott következő adatokról:
 
 1. a menetrendek bejelentése,
 
@@ -90,7 +90,7 @@ id)[^72] az átviteli rendszerirányító részére a VET 152. §-a szerinti sze
 
 10. a hálózatfejlesztési, hálózattervezési alapadatok,
 
-ie)[^73] az átviteli rendszerirányító által a vele kapcsolatban álló VET 152. §-a szerinti személyek és a felhasználók részére szolgáltatott következő adatokról:
+ie)[^124] az átviteli rendszerirányító által a vele kapcsolatban álló VET 152. §-a szerinti személyek és a felhasználók részére szolgáltatott következő adatokról:
 
 1. az id) alpont szerinti adatok beérkezésének visszaigazolása,
 
@@ -108,7 +108,7 @@ ie)[^73] az átviteli rendszerirányító által a vele kapcsolatban álló VET 
 
 8. az adatok a rendszerszintű szolgáltatások biztosításához szükséges tevékenységek piacára beérkezett ajánlatokból kiválasztott ajánlatokra vonatkozóan,
 
-if)[^74] az átviteli rendszerirányító által a vele kapcsolatban nem álló VET 152. §-a szerinti személyek és a felhasználók részére szolgáltatott következő adatokról:
+if)[^125] az átviteli rendszerirányító által a vele kapcsolatban nem álló VET 152. §-a szerinti személyek és a felhasználók részére szolgáltatott következő adatokról:
 
 1. a határmetszéken rendelkezésre álló átviteli kapacitási adatok megadása,
 
@@ -126,17 +126,21 @@ ja) a villamosenergia-rendszer üzemzavara, ellátás szüneteltetése, korláto
 
 jb) a villamos energia válsághelyzetet el nem érő ellátási zavar során szükséges teendőkről,
 
-k) a termelő berendezés – átviteli rendszerirányító által a VET 5. § (3) bekezdés szerinti – igénybevétele esetén felmerülő indítási és üzemeltetési költségek meghatározásának módjáról.
+k)[^126] a termelő berendezés – átviteli rendszerirányító által a VET 5. § (3) bekezdés szerinti – igénybevétele esetén felmerülő indítási és üzemeltetési költségek meghatározásának módjáról, valamint szabályairól, és
 
-(3)[^75]
+l)[^127] a keresletoldali szabályozási intézkedések összehangolására vonatkozó eljárásrendről, valamint az átviteli rendszerirányító ezzel kapcsolatos feladatairól.
 
-(4)[^76] Az Üzemi és a Kereskedelmi Szabályzatot az átviteli rendszerirányító, a villamosenergia-elosztói szabályzatot pedig az elosztók – a mindenkor hatályos egységes szerkezetbe foglalt szöveggel – a Hivatal jóváhagyó határozatával együtt teszik közzé saját honlapjukon. A jóváhagyott szabályzatot az engedélyes elektronikus formában a Hivatalnak megküldi, ezt követően a szabályzatot a Hivatal is közzéteszi honlapján.
+(3)[^128]
 
-(5)[^77] Az ie) és if) alpontokban meghatározott adatok az i) pont alkalmazásában nem képeznek üzleti titkot.
+(4)[^129] Az Üzemi és a Kereskedelmi Szabályzatot az átviteli rendszerirányító, a villamosenergia-elosztói szabályzatot pedig az elosztók – a mindenkor hatályos egységes szerkezetbe foglalt szöveggel – a Hivatal jóváhagyó határozatával együtt teszik közzé saját honlapjukon. A jóváhagyott szabályzatot az engedélyes elektronikus formában a Hivatalnak megküldi, ezt követően a szabályzatot a Hivatal is közzéteszi honlapján.
 
-[^72]: A Vhr. 46. § (2) bekezdés i) pont id) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^73]: A Vhr. 46. § (2) bekezdés i) pont ie) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^74]: A Vhr. 46. § (2) bekezdés i) pont if) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^75]: A Vhr. 46. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^76]: A Vhr. 46. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^77]: A Vhr. 46. § (5) bekezdését a 187/2008. (VII. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+(5)[^130] Az ie) és if) alpontokban meghatározott adatok az i) pont alkalmazásában nem képeznek üzleti titkot.
+
+[^123]: A Vhr. 46. § (2) bekezdés i) pont id) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^124]: A Vhr. 46. § (2) bekezdés i) pont ie) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^125]: A Vhr. 46. § (2) bekezdés i) pont if) alpontját a 187/2008. (VII. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^126]: A Vhr. 46. § (2) bekezdés k) pontja a 100/2011. (VI. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^127]: A Vhr. 46. § (2) bekezdés l) pontját a 100/2011. (VI. 29.) Korm. rendelet 15. §-a iktatta be.
+[^128]: A Vhr. 46. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^129]: A Vhr. 46. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^130]: A Vhr. 46. § (5) bekezdését a 187/2008. (VII. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.

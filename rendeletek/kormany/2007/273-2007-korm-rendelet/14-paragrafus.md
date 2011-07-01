@@ -2,11 +2,11 @@
 
 ## Mérés, leolvasás
 
-14. § (1) A hálózati engedélyesek a szerződések teljesítésének elszámolása érdekében a VET és e rendelet keretei között az ellátási szabályzatokban meghatározott módon és határidőre kötelesek gondoskodni a villamosenergia-fogyasztás méréséről.
+14. § (1)[^39]
 
-(2)[^12] Amennyiben a felhasználó megváltoztatja felhasználási helyét, érvényes villamosenergia-vásárlásra vonatkozó szerződését más engedélyessel történő szerződéskötés vagy a villamosenergia-fogyasztással történő felhagyás érdekében felmondja, a hálózati engedélyes a felhasználó szándékának írásbeli bejelentését követő öt munkanapon belül köteles a felhasználó és a részére villamos energiát értékesítő engedélyes között végelszámolás alapjául szolgáló mérőállást az üzletszabályzat vagy a hálózat használati szerződés rendelkezései szerint rögzíteni. A rögzített mérőállást a hálózati engedélyes köteles az érintett kereskedők felé a rögzítést követő két munkanapon belül megadni.
+(2)[^40] Nem profil alapú elszámolású rendszerhasználók esetén a hálózati engedélyes terhelési görbe regisztrálására alkalmas távlehívható fogyasztásmérő készülékkel biztosítja a mérést és legalább naponta elvégzi a mérési adatok távlehívását.
 
-(3) A villamosenergia-ellátási szabályzatok szerint meghatározott mérési adatokat a Kereskedelmi Szabályzatban meghatározott adatformátumban és időpontig kell megküldeni az átviteli rendszerirányító részére. Ezen túlmenően a hálózati engedélyes a számlázás alapjául szolgáló adatokat köteles továbbítani az érintett felhasználóval jogviszonyban álló kereskedő és egyetemes szolgáltató részére, a Kereskedelmi Szabályzatban meghatározott feltételek szerint, az ott meghatározott feldolgozásban.
+(3)[^41] A villamosenergia-ellátási szabályzatok szerint meghatározott mérési adatokat a Kereskedelmi Szabályzatban meghatározott adatformátumban és időpontig kell megküldeni az átviteli rendszerirányító részére. Ezen túlmenően a hálózati engedélyes a számlázás alapjául szolgáló adatokat azok rendelkezésre állásától számított 3 napon belül köteles továbbítani az érintett felhasználóval jogviszonyban álló kereskedő és egyetemes szolgáltató részére, a Kereskedelmi Szabályzatban meghatározott feltételek szerint, az ott meghatározott feldolgozásban.
 
 (4) A rendszerszintű, ezen belül különösen az elszámoláshoz szükséges együttműködés érdekében valamennyi engedélyes – az engedélyköteles magánvezeték üzemeltetője, a közvetlen vezeték és termelői vezeték üzemeltetője kivételével – az átviteli rendszerirányító által összehangolt adatforgalmi-kommunikációs rendszert működtet. A kommunikációs rendszerrel kapcsolatos alapkövetelményeket a villamosenergia-ellátási szabályzatok tartalmazzák.
 
@@ -18,4 +18,6 @@
 
 (8) A távlehívható fogyasztásmérő távleolvasását lehetővé tevő adatátviteli kapcsolat felhasználási helyen belül történő kiépítésének költsége és az adatátviteli kapcsolat folyamatos biztosításának kötelezettsége és azok költségei, beleértve az előfizetési díjat is, a felhasználót terhelik.
 
-[^12]: A Vhr. 14. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^39]: A Vhr. 14. § (1) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^40]: A Vhr. 14. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A Vhr. 14. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
