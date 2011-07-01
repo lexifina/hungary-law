@@ -8,4 +8,4 @@ c) az ügyészség végzi, a megyei (fővárosi) főügyészség, a Központi Ny
 
 szervezetében működik.
 
-[^10]: A 10. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^10]: A 10. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

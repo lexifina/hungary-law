@@ -2,4 +2,4 @@
 
 (2) Az ügyész az ENyÜBS-ben e rendelet rendelkezéseit alkalmazva hajtja végre a nemzetközi bűnügyi jogsegélyről szóló törvény alapján az ügyész által külföldi államnál tett feljelentés, valamint a büntetőeljárás ügyész általi átadása bűnügyi jogsegélyformák teljesítésével összefüggő statisztikai feladatokat.
 
-[^1]: Az 1. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^1]: Az 1. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

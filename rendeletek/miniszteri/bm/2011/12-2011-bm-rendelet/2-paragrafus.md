@@ -34,4 +34,4 @@
 
 17. statisztikai adatlap: az ENyÜBS által gyűjtött, az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendeletben meghatározott adatköröknek megfelelően strukturált, az adatkezelő rendszerben megfigyelési egységenként rögzített bűnügyi statisztikai adatok összessége.
 
-[^2]: A 2. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^2]: A 2. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

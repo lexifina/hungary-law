@@ -16,4 +16,4 @@
 
 (8) A bűnügyi statisztikai adatok a Központi Statisztikai Hivatalnak statisztikai célra az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendelet rendelkezéseivel összhangban átadhatók.
 
-[^12]: A 12. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^12]: A 12. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

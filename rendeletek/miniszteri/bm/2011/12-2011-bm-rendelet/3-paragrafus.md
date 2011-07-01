@@ -2,4 +2,4 @@
 
 (2) A bűnügyi statisztikai adat csak akkor kezelhető, ha az olyan adatból keletkezett, amelynek feltárása során a nyomozó hatóság, illeve az ügyész megtartotta a büntetőeljárásról szóló törvény bizonyítás általános szabályaira vonatkozó rendelkezéseit.
 
-[^3]: A 3. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^3]: A 3. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

@@ -14,4 +14,4 @@ b) a NAV nyomozó hatósága végzi, a NAV elnöke,
 
 c) az ügyészség végzi, a legfőbb ügyész
 
-[^11]: A 11. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^11]: A 11. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

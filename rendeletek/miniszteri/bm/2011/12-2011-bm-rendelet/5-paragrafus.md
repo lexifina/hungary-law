@@ -12,5 +12,5 @@
 
 (6) A felettes ügyész az (1)–(5) bekezdésben foglaltak megfelelő alkalmazásával jár el akkor is, ha a bűnügyi statisztikai adatokat az ügyész rögzítette.
 
-[^4]: A 4. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
-[^5]: A 5. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^4]: A 4. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
+[^5]: A 5. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

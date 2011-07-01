@@ -10,4 +10,4 @@ a) több – akár egymással azonos, akár egymástól eltérő – bűnügyi s
 
 b) az a) pont szerinti esetben a bűnügyi statisztikai adat rögzítésére okot adó büntetőeljárási döntések közül egyeseket a nyomozó hatóság, másokat az ügyész hozott.
 
-[^6]: A 6. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^6]: A 6. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

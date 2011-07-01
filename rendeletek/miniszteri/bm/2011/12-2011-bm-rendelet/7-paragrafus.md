@@ -2,4 +2,4 @@
 
 (2) Az adatkezelő az adattovábbító (1) bekezdés szerinti felhívásának teljesítését – illetőleg e felhívás alaptalan voltának a tisztázását – követően a bűnügyi statisztikai adatot az adattovábbító egység részére haladéktalanul hozzáférhetővé teszi az adatkezelő rendszerben.
 
-[^7]: A 7. § a 15. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^7]: A 7. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
