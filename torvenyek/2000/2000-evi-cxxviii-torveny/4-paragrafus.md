@@ -1,16 +1,20 @@
 4. § (1) Az 1. § (1) bekezdése alapján a szabályszegésekhez rendelhető pontok száma:
 
-a) gondatlan bűncselekmény elkövetése esetén 6,
+a) gondatlan bűncselekmény elkövetése esetén 9,
 
-b) szándékos bűncselekmény elkövetése esetén 9,
+b) szándékos bűncselekmény elkövetése esetén 11,
 
-c) szabálysértés elkövetése esetén 1–5 pont.
+c) szabálysértés elkövetése esetén 1–8,
+
+d) a közigazgatási bírsággal sújtandó szabályszegés esetén 1–8 pont.
 
 (2) A pontrendszer hatálya alá tartozó több szabályszegés egy eljárásban történő elbírálása esetén az elbírált
 
-a) bűncselekmények közül a legmagasabb pontszámmal járó bűncselekményhez rendelt pontszámot 4 ponttal kell növelni,
+a) bűncselekmények közül a legmagasabb pontszámmal járó bűncselekményhez rendelt pontszámot 5 ponttal kell növelni,
 
-b) szabálysértések esetén a legmagasabb pontszámmal járó szabálysértéshez rendelt pontszámot a kisebb súlyú szabálysértéshez rendelt pontszám felével kell megemelni, de az nem érheti el – az 1 ponttal járó szabálysértés kivételével – az egyes szabálysértésekre megállapított pontszámok felső határának együttes tartamát.
+b) szabálysértések esetén a legmagasabb pontszámmal járó szabálysértéshez rendelt pontszámot a kisebb súlyú szabálysértéshez rendelt pontszám felével kell megemelni, de az nem érheti el – az 1 ponttal járó szabálysértés kivételével – az egyes szabálysértésekre megállapított pontszámok felső határának együttes tartamát,
+
+c) a közigazgatási bírsággal sújtandó szabályszegések esetén a b) pontban foglaltak szerint kell eljárni.
 
 (3) Ha a (2) bekezdés b) pontja szerinti számításnál töredék pontszám kerül megállapításra, akkor a pontszámot felfelé kell kerekíteni.
 
@@ -18,7 +22,11 @@ b) szabálysértések esetén a legmagasabb pontszámmal járó szabálysértés
 
 a) e törvény melléklete határozza meg a pontrendszer hatálya alá tartozó egyes bűncselekményeket és azokhoz rendelt pontok számát,
 
-b) kormányrendelet határozza meg a pontrendszer hatálya alá tartozó egyes szabálysértéseket és azokhoz rendelt pontok számát.
+b) kormányrendelet határozza meg a pontrendszer hatálya alá tartozó
+
+ba) egyes szabálysértéseket és az azokhoz rendelt pontok számát,
+
+bb) egyes közigazgatási bírsággal sújtandó szabályszegéseket, és az azokhoz rendelt pontok számát.
 
 (5) A pontrendszer hatálya alá tartozó szabályszegéseknél a (6) bekezdésben foglalt kivétellel, a szabályszegés elkövetése idején hatályban lévő jogszabály által rendelt pontszámot kell alkalmazni.
 

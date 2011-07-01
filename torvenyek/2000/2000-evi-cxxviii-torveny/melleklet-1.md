@@ -1,7 +1,5 @@
 1. számú melléklet a 2000. évi CXXVIII. törvényhez
 
-A pontrendszer hatálya alá tartozó bűncselekmények
-
 |
 
 Kódszám
@@ -24,7 +22,7 @@ Segítségnyújtás elmulasztása (közúti közlekedés körében) [Btk. 172. �
 
 |
 
-9
+11
 
 |
 
@@ -36,7 +34,7 @@ Közúti veszélyeztetés [Btk. 186. §]
 
 |
 
-9
+11
 
 |
 
@@ -48,7 +46,7 @@ Közúti baleset okozása [Btk. 187. §]
 
 |
 
-6
+9
 
 |
 
@@ -60,7 +58,7 @@ Járművezetés ittas vagy bódult állapotban [Btk. 188. §]
 
 |
 
-9
+11
 
 |
 
@@ -72,7 +70,7 @@ Járművezetés tiltott átengedése [Btk. 189. §]
 
 |
 
-9
+11
 
 |
 
@@ -84,4 +82,4 @@ Cserbenhagyás [Btk. 190. §]
 
 |
 
-9
+11

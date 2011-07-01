@@ -8,7 +8,7 @@ c) az elbírált cselekmény jogszabály szerinti megnevezését, minősítésé
 
 d) járművezetéstől eltiltás, járműkategória vezetésétől eltiltás alkalmazását, időtartamát,
 
-e) a határozat jogerőre emelkedésének idejét, helyszíni bírság kiszabásának idejét,
+e) a határozat jogerőre emelkedésének idejét, helyszíni bírság és a helyszínen alkalmazott közigazgatási bírság kiszabásának idejét,
 
 f) a határozat, elismervény ügyszámát, illetve sorszámát,
 
@@ -24,7 +24,7 @@ k) a vezetői engedély visszaadásának időpontját,
 
 l) az utánképzés igazolásának időpontját.
 
-(2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, fegyelmi hatóság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől számított nyolc napon belül értesíti a Nyilvántartót.
+(2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől számított nyolc napon belül értesíti a Nyilvántartót.
 
 (3) A Nyilvántartót az (1) bekezdés j)–k) pontjaiban megjelölt adatokról a vezetői engedély átvételére, kiadására jogosult, külön jogszabályban meghatározott hatóság az okmány leadását, kiadását, az igazolás bemutatását követő három napon belül értesíti.
 
