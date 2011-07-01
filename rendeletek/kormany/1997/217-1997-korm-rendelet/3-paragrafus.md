@@ -20,7 +20,7 @@ utalhatja be.
 
 (7)[^47] A (6) bekezdés szerinti szenvedélybeteg rehabilitációja történhet a szociális igazgatásról és szociális ellátásokról szóló törvény[^48] hatálya alá tartozó, az egészségügyi államigazgatási szerv által kiadott működési engedéllyel rendelkező személyes gondoskodást nyújtó intézményben is.
 
-(8)[^49]
+(8)[^49] Az Ebtv. 20. § (4) bekezdése alapján a 3/A. § (10a) bekezdése szerinti beutalót – a miniszteri rendeletben meghatározott esetben – a keresőképtelen állományba vevő orvos vagy a felülvéleményező főorvos állíthatja ki.
 
 (9)[^50] Laborvizsgálat és képalkotó diagnosztikai ellátás nem végezhető beutaló nélkül, kivéve ha a 4. § (1) bekezdés b) pontjában meghatározott eset áll fenn.
 
@@ -32,5 +32,5 @@ utalhatja be.
 [^46]: A Vhr. 3. §-ának (5) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
 [^47]: A Vhr. 3. §-ának (6) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése, szövege a 17. § (8) bekezdése a) pontjának aa) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 129–130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^48]: Lásd az 1993: III. törvényt.
-[^49]: A Vhr. 3. §-ának (8) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdésének b) pontja.
+[^49]: A Vhr. 3. § (8) bekezdését újonnan a 106/2011. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
 [^50]: A Vhr. 3. §-ának (9) bekezdését a 16/2007. (II. 13.) Korm. rendelet 2. §-a iktatta be, szövege a 65/2008. (III. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

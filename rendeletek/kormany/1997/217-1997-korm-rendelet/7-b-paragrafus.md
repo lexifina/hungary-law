@@ -1,4 +1,4 @@
-7/B. §[^103] (1) Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
+7/B. §[^104] (1) Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
 
 a) 98%-os támogatási mérték,
 
@@ -38,7 +38,7 @@ b) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinansz
 
 c) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
-(6)[^104] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
+(6)[^105] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
 
-[^103]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^104]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^104]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^105]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

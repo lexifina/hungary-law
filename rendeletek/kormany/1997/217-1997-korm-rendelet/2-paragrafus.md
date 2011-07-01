@@ -2,7 +2,7 @@
 
 ## [Az Ebtv. 13–17. §-ához és 18. §-a (1) bekezdéséhez]
 
-2. § (1)[^22] A biztosított – a sürgősségi ellátást nem igénylő esetekben – orvosi beutaló nélkül is jogosult igénybe venni
+2. § (1)[^22] A biztosított – az Ebtv. 20. § (4) bekezdésében meghatározott eset kivételével – orvosi beutaló nélkül is jogosult igénybe venni
 
 a) szakorvosi rendelő által nyújtott
 
@@ -70,7 +70,7 @@ m)[^35]
 
 (8)[^40] Amennyiben a biztosított az (1) bekezdésben meg nem nevezett járóbeteg-szakellátást beutaló nélkül vesz igénybe és a 4. § (1) bekezdésének b) pontjában meghatározott eset nem áll fenn, az adott szakellátás keretében további szakellátás a biztosított részére nem kezdeményezhető.
 
-[^22]: A Vhr. 2. §-ának (1) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 2. §-ával megállapított, valamint a 63/2007. (III. 31.) Korm. rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^22]: A Vhr. 2. §-ának (1) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 2. §-ával megállapított, a 63/2007. (III. 31.) Korm. rendelet 6. § (7) bekezdése szerint módosított szöveg. A Vhr. 2. § (1) bekezdés nyitó szövegrésze a 106/2011. (VI. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^23]: A Vhr. 2. §-a (1) bekezdése a) pontjának ae) alpontját a 319/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^24]: A Vhr. 2. §-a (1) bekezdése a) pontjának af) alpontját a 319/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A Vhr. 2. §-a (1) bekezdése a) pontjának ag) alpontját a 319/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.

@@ -32,9 +32,17 @@ b)[^62]
 
 c) az ellátás tényét igazoló adatokat.
 
-(11)[^63] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+(10a)[^63] Az Ebtv. 20. § (4) bekezdése szerinti esetben a beutalónak – a kötelező tartalmi elemein túl – tartalmaznia kell
 
-(12)[^64] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
+a) azt a tényt, hogy a beutaló orvos a biztosítottat a keresőképtelenségével összefüggő betegsége miatt soron kívül utalja be,
+
+b) azt, hogy a biztosított keresőképtelensége ugyanazon betegségből adódóan folyamatosan hány napja áll fenn, valamint
+
+c) a biztosított táppénzes naplószámát.
+
+(11)[^64] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+
+(12)[^65] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
 
 [^51]: A Vhr. 3/A. §-át a 131/2006. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
 [^52]: A Vhr. 3/A. §-ának (1) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 172/2007. (VI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -48,5 +56,6 @@ c) az ellátás tényét igazoló adatokat.
 [^60]: A Vhr. 3/A. §-ának (9) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^61]: A Vhr. 3/A. §-ának (1) bekezdése a 16/2007. (II. 13.) Korm. rendelet 3. §-ával megállapított szöveg, számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (10) bekezdésre változtatta.
 [^62]: A Vhr. 3/A. § (10) bekezdésének b) pontját a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^63]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
-[^64]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^63]: A Vhr. 3/A. § (10a) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^64]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
+[^65]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.

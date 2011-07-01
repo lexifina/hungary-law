@@ -1,8 +1,8 @@
-25/A. §[^289] (1)–(2)[^290]
+25/A. §[^290] (1)–(2)[^291]
 
-(3)[^291] Járóbeteg-szakellátás és fogászati alapellátás esetén az elszámolási nyilatkozatot az egészségügyi szolgáltató az ellátást követően adja át a biztosítottnak.
+(3)[^292] Járóbeteg-szakellátás és fogászati alapellátás esetén az elszámolási nyilatkozatot az egészségügyi szolgáltató az ellátást követően adja át a biztosítottnak.
 
-(4)[^292] Az elszámolási nyilatkozatot
+(4)[^293] Az elszámolási nyilatkozatot
 
 a) kúraszerű ellátás esetén a teljesítmény-elszámolás szempontjából egy ellátási esetnek minősülő ellátás befejezésekor,
 
@@ -10,9 +10,9 @@ b) injekciós kúra, infúziós kúra, kötözés, gyógytorna kezelés, fizikot
 
 köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.
 
-(5)[^293] Dialízis kezelés esetén az elszámolási nyilatkozatot havonta, a tárgyhónapot követő első dialízis kezeléskor a tárgyhónapban elvégzett dialízis kezelésekről, valamint a kúra befejezésekor a még el nem számolt dialízis kezelésekről köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.
+(5)[^294] Dialízis kezelés esetén az elszámolási nyilatkozatot havonta, a tárgyhónapot követő első dialízis kezeléskor a tárgyhónapban elvégzett dialízis kezelésekről, valamint a kúra befejezésekor a még el nem számolt dialízis kezelésekről köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.
 
-(6)[^294] Az egészségügyi szolgáltatónak nem kell elszámolási nyilatkozatot kiállítania és átadnia a biztosított részére
+(6)[^295] Az egészségügyi szolgáltatónak nem kell elszámolási nyilatkozatot kiállítania és átadnia a biztosított részére
 
 a) az ellátást követően a beteg közvetlen jelenlétét nem igénylő diagnosztikai vizsgálat esetén,
 
@@ -20,18 +20,18 @@ b) mozgó szakorvosi szolgálat által végzett ellátás esetén,
 
 c) szövettani vizsgálat és citológiai vizsgálat esetén,
 
-d)[^295] iskola- és ifjúság-egészségügyi ellátás keretében nyújtott szolgáltatás esetén.
+d)[^296] iskola- és ifjúság-egészségügyi ellátás keretében nyújtott szolgáltatás esetén.
 
-(7)[^296] A fogászati alap- és szakellátás, valamint a laboratóriumi ellátás esetében, az igényelhető legmagasabb finanszírozási összeg meghatározásánál a finanszírozó által az egészségügyi szolgáltató részére megküldött utolsó teljesítmény-elszámolásnál alkalmazott fix pont-forint értéket kell figyelembe venni.
+(7)[^297] A fogászati alap- és szakellátás, valamint a laboratóriumi ellátás esetében, az igényelhető legmagasabb finanszírozási összeg meghatározásánál a finanszírozó által az egészségügyi szolgáltató részére megküldött utolsó teljesítmény-elszámolásnál alkalmazott fix pont-forint értéket kell figyelembe venni.
 
-(8)[^297] Az egészségügyi szolgáltató gondoskodik arról, hogy az Ebtv. 18. § (9)–(10) bekezdése szerinti lehetőségről szóló tájékoztató az ellátást igénybe vevők számára jól látható helyen kifüggesztésre kerüljön.
+(8)[^298] Az egészségügyi szolgáltató gondoskodik arról, hogy az Ebtv. 18. § (9)–(10) bekezdése szerinti lehetőségről szóló tájékoztató az ellátást igénybe vevők számára jól látható helyen kifüggesztésre kerüljön.
 
-[^289]: A Vhr. 25/A §-át újonnan a 207/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 319/2006. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a rendelkezést a háziorvosi ellátás, fogászati alapellátás és a járóbeteg-szakellátások vonatkozásában 2008. január 1-jétől kell alkalmazni.
-[^290]: A Vhr. 25/A. § (1)–(2) bekezdését a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
-[^291]: A Vhr. 25/A. § (3) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
-[^292]: A Vhr. 25/A. § (4) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^293]: A Vhr. 25/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^294]: A Vhr. 25/A. § (6) bekezdését újonnan a 43/2008. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^295]: A Vhr. 25/A. § (6) bekezdésének d) pontját a 79/2008. (IV. 3.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^296]: A Vhr. 25/A. § (7) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2008. január 1. napján lépett hatályba.
-[^297]: A Vhr. 25/A. § (8) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja, újonnan a 366/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^290]: A Vhr. 25/A §-át újonnan a 207/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 319/2006. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a rendelkezést a háziorvosi ellátás, fogászati alapellátás és a járóbeteg-szakellátások vonatkozásában 2008. január 1-jétől kell alkalmazni.
+[^291]: A Vhr. 25/A. § (1)–(2) bekezdését a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
+[^292]: A Vhr. 25/A. § (3) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^293]: A Vhr. 25/A. § (4) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^294]: A Vhr. 25/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^295]: A Vhr. 25/A. § (6) bekezdését újonnan a 43/2008. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^296]: A Vhr. 25/A. § (6) bekezdésének d) pontját a 79/2008. (IV. 3.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^297]: A Vhr. 25/A. § (7) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2008. január 1. napján lépett hatályba.
+[^298]: A Vhr. 25/A. § (8) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja, újonnan a 366/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
