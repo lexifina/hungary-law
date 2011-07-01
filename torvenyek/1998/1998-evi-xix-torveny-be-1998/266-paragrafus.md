@@ -6,7 +6,9 @@ a) a 188. § (1) bekezdésének a), b) és d)–g) pontjában meghatározott okb
 
 b) hivatalból vagy indítványra felfüggeszti, és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy állami irányítás egyéb jogi eszközét kell alkalmazni, amelynek alkotmányellenességét észleli.
 
-c) hivatalból vagy indítványra felfüggeszti, ha az Európai Unióról szóló Szerződésben, illetve az Európai Közösséget létrehozó Szerződésben foglalt szabályok szerint az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi. E határozatban meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A határozatot az Európai Bíróságnak, továbbá tájékoztatásul az igazságügyért felelős miniszternek is megküldi.
+c) hivatalból vagy indítványra felfüggeszti, ha az Európai Unióról szóló Szerződésben, illetve az Európai Közösséget létrehozó Szerződésben foglalt szabályok szerint az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi. E határozatban meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A határozatot az Európai Bíróságnak, továbbá tájékoztatásul az igazságügyért felelős miniszternek is megküldi,
+
+d) hivatalból felfüggeszti, ha az ügyész a 178/B. § (2) vagy (4) bekezdése alapján kezdeményezte a vádlottal szemben a külföldi ítélet nemzetközi bűnügyi jogsegélyről szóló törvény szerinti elismerési eljárásának lefolytatását, de az a bizonyítási eljárás lefolytatásáig nem fejeződött be.
 
 (2) A bíróság az eljárást akkor is felfüggeszti, ha az eljárás megindításához szükséges feljelentés [Btk. 236. § (1) bek., 240. §] hiányzik. Az eljárás felfüggesztése legfeljebb az alapügy jogerős befejezéséig tart.
 

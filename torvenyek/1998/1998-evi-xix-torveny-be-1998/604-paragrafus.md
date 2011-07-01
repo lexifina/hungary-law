@@ -67,13 +67,3 @@ a) a nyomozó hatóság országos parancsnoka (vezetője), hogy a legfőbb ügy�
 b) a legfőbb ügyész, hogy a büntetőeljárással összefüggő ügyészi feladatok ellátása során utasításban,
 
 c) az Országos Igazságszolgáltatási Tanács, hogy a bírósági eljárással kapcsolatban szabályzatban,
-
-d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végrehajtási feladataival kapcsolatban rendeletben
-
-az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
-
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
-
-(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
-
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.
