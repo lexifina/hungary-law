@@ -1,3 +1,0 @@
-110. § A Telj. tv. 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § A fizetést korlátozó eljárás során született határozatoknak és a megtett intézkedéseknek nem lehet az eljárás megindításának az 5. § (2) bekezdése szerinti időpontját megelőző időpontra visszaható, a résztvevőnek, a kapcsolódó rendszer résztvevőjének, valamint a kapcsolódó rendszer résztvevőnek nem minősülő rendszerüzemeltetőjének a rendszerben való részvételből származó jogait vagy kötelezettségeit érintő hatálya.”
