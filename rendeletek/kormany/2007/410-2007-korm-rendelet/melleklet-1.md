@@ -1,6 +1,6 @@
-## 14. §[^26] E rendeletnek a közbiztonságra különösen veszélyes eszközökről szóló 175/2003. (X. 28.) Korm. rendelet, a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet, és a közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet módosításáról szóló 71/2011. (IV. 28.) Korm. rendelet (a továbbiakban: R.) 3. § (1) bekezdésével megállapított 9. § (4) bekezdését az R. hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
+## 16. §[^29] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 99/2011. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított 8/A. §-át, valamint 1. § (4) bekezdésével megállapított 4. mellékletét a 2011. június 30. után indult eljárásokban kell alkalmazni.
 
-1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^27]
+1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^30]
 
-[^26]: A 14. §-t a 71/2011. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^27]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 9. § (5) bekezdése alapján rendelkezéseit a 2009. május 2. napját követően indult eljárásokban kell alkalmazni.
+[^29]: A 16. §-t a 99/2011. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^30]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 9. § (5) bekezdése alapján rendelkezéseit a 2009. május 2. napját követően indult eljárásokban kell alkalmazni.

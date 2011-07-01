@@ -4,4 +4,6 @@
 
 | 2. | A továbbhaladás tilalmát jelző fényjelzés | 9. § (4) bekezdés d) pont | 100 000 |
 
-4. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+4. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^31]
+
+[^31]: A 4. számú melléklet a 99/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
