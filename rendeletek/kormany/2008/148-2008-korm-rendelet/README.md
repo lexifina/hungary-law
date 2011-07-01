@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-148-20-
 | 2010-05-01 | 2008-148-20-22.6 | 39/2010. (II. 26.) Korm. rendelet |
 | 2011-01-01 | 2008-148-20-22.7 | 370/2010. (XII. 31.) Korm. rendelet |
 | 2011-03-23 | 2008-148-20-22.8 | 37/2011. (III. 22.) Korm. rendelet |
+| 2011-07-01 | 2008-148-20-22.9 | 86/2011. (V. 31.) Korm. rendelet |
