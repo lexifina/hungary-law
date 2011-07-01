@@ -4,7 +4,7 @@
 
 (2) Ha a támogatást igénylő a hiánypótlást hibásan, hiányosan nyújtja be, úgy a hibás, hiányos támogatási kérelmet a rendelkezésre álló adatok alapján kell elbírálni, vagy ha befogadási vagy jogosultsági kritériumra vonatkozó adat hiányzik, úgy további vizsgálat nélkül el kell utasítani.
 
-(3) Ha a projektjavaslat megfelel a felhívásban meghatározott befogadási és jogosultsági kritériumoknak, a közreműködő szervezet azt befogadja, és az NFÜ által meghatározott módon tartalmilag értékeli. A befogadásról a közreműködő szervezet a benyújtási határidőtől – folyamatos elbírálás esetén a projektjavaslat beérkezésétől, hiánypótlás esetén a hiánypótlás beérkezésétől – számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat befogadásáról (befogadó nyilatkozat). Ha a beérkező projektjavaslatok száma jelentősen meghaladja a tervezettet, a befogadásról szóló értesítésre meghatározott határidőt az NFÜ egy alkalommal meghosszabbíthatja.
+(3)[^5] Ha a projektjavaslat megfelel a felhívásban meghatározott befogadási és jogosultsági kritériumoknak, a közreműködő szervezet azt befogadja, és az NFÜ által meghatározott módon tartalmilag értékeli. A közreműködő szervezet a benyújtási határidőtől – folyamatos elbírálás esetén a projektjavaslat beérkezésétől – számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat befogadásáról (befogadó nyilatkozat). Ha a beérkező projektjavaslatok száma jelentősen meghaladja a tervezettet, a befogadásról szóló értesítésre meghatározott határidőt az NFÜ egy alkalommal meghosszabbíthatja.
 
 (4) A közreműködő szervezet a befogadott projekteket az objektív és számszerűsíthető tartalmi értékelési kritériumok alapján sorrendbe rendezi, jelzi a további szempontokra vonatkozó szakmai javaslatát és összegző lapokkal a döntés-előkészítő bizottság elé terjeszti. A döntés-előkészítő bizottság minden előzetes projektjavaslatról összegző lapot tölt ki, amely tartalmazza
 
@@ -21,3 +21,5 @@ d) támogatási javaslat esetén a támogatást igénylő által teljesítendő 
 (6) Ha a támogatást igénylő támogatás szempontjából releváns adataiban, vagy a támogatás feltételeiben változás következik be, a támogatást igénylő köteles azt haladéktalanul írásban bejelenteni a támogatónak.
 
 (7) Ha a támogatást igénylő pályázatában valótlan adatot közölt, vagy valótlan tartalmú nyilatkozatot tett – a nyilvánvaló adminisztrációs hiba esetét kivéve – a projektjavaslat nem támogatható.
+
+[^5]: A 24. § (3) bekezdése a 86/2011. (V. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.

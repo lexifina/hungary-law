@@ -6,7 +6,9 @@ a) a projektjavaslat támogatására,
 
 b) a projektjavaslat feltételekkel vagy csökkentett összköltséggel történő támogatására, vagy
 
-c) a projektjavaslat elutasítására.
+c) a projektjavaslat elutasítására,
+
+d)[^6] a forráskezelő szervezet által előterjesztett javaslat alapján a közvetítők kiválasztására.
 
 (3) A döntés-előkészítő bizottság szavazással határoz a döntési javaslatról. Határozatát tagjai több mint felének egyező szavazatával hozza meg.
 
@@ -25,3 +27,5 @@ c) a projektjavaslat elutasítására.
 (10) A támogatást igénylők a döntési javaslat pályázatukra vonatkozó részét megtekinthetik.
 
 (11) A közreműködő szervezet a döntést, a döntést követő 4 napon belül rögzíti az EMIR-ben.
+
+[^6]: A 26. § (2) bekezdés d) pontját a 86/2011. (V. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.

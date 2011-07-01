@@ -2,9 +2,9 @@
 
 (2) A kedvezményezett a támogatási szerződésbe foglalt következő nyilatkozatok nyújtására köteles:
 
-a) a helyi önkormányzatok, a kisebbségi önkormányzatok, az önkormányzatok társulásai, továbbá ezek költségvetési szervei esetében az érintett önkormányzat, és – ha önállóan gazdálkodó költségvetési szerv pályázik – az önállóan gazdálkodó költségvetési szerv kötelezettségvállalása arról, hogy a projekt meghiúsulása, vagy a támogatás szabálytalan felhasználása esetén a támogatást visszafizeti,
+a)[^9]
 
-b) az egyházak és intézményeik, az alapítványok és intézményeik, a közalapítványok és intézményeik, a közhasznú szervezetnek minősülő non-profit gazdasági társaságok, a köztestületek, valamint az egyéb közhasznú és társadalmi szervezetek esetében – a politikai pártok kivételével – a kedvezményezett kötelezettségvállalása arról, hogy ha a projekt részben vagy egészben meghiúsul, vagy a támogatást szabálytalanul használja fel, a támogatást visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
+b)[^10]
 
 c) a kedvezményezett azon nyilatkozata, hogy az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 122/A. § (1) és (2) bekezdése szerinti támogatási rendszerből való kizárás hatálya alatt nem áll,
 
@@ -15,3 +15,6 @@ e) a kedvezményezett kötelezettségvállalása arról, hogy – a projekt rés
 ea) az adott projektre vonatkozóan a kedvezményezett részére megítélt, de még ki nem fizetett támogatási összegbe beszámításra kerül, ennek hiányában
 
 eb) a központi költségvetésből biztosított támogatásból – ha a kedvezményezett ilyen támogatásra jogosult – levonásra kerül.
+
+[^9]: A 34. § (2) bekezdés a) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^10]: A 34. § (2) bekezdés b) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.

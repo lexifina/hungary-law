@@ -9,3 +9,7 @@ c) kistérségi programban meghatározott projektek esetében a projektjavaslat 
 (2) Nagyprojekt esetében az (1) bekezdésben meghatározott határidők a támogatásról vagy az elutasításról hozott döntési javaslatról történő értesítés határidejét jelentik.
 
 (3) Ha a támogatási konstrukció sajátosságai indokolják, vagy ha a beérkező projektjavaslatok száma meghaladja a tervezettet, a határidőt az NFÜ egy alkalommal legfeljebb 30 nappal meghosszabbíthatja.
+
+(4)[^7] A közvetítői pályázatok elbírálásáról – a pályázat beérkezésétől a pályázat elbírálásáról szóló értesítésig, ide nem számítva a hiánypótlás vagy a kifogás elbírálására irányuló eljárás időtartamát – a pályázati felhívásban meghatározott, de legfeljebb 75 napos határidőn belül az NFÜ dönt. E határidő meghosszabbítására a (3) bekezdésben foglaltakat kell alkalmazni.
+
+[^7]: A 27. § (4) bekezdését a 86/2011. (V. 31.) Korm. rendelet 12. § (3) bekezdése iktatta be.

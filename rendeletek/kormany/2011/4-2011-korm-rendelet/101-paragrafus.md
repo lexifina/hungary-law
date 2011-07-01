@@ -12,4 +12,6 @@
 
 (4) A visszafizetési kötelezettség a támogató döntése alapján részletekben is teljesíthető, a visszafizetés ütemezését külön megállapodásban kell rögzíteni.
 
-(5) Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 232. § (3) bekezdése szerinti késedelmi kamatot kell fizetnie.
+(5)[^15] Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 301. §-a szerinti késedelmi kamatot kell fizetnie.
+
+[^15]: A 101. § (5) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (5) bekezdése szerint módosított szöveg.

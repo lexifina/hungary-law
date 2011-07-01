@@ -34,7 +34,7 @@
 
 ## aláírás
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^18]
 
 A közreműködő szervezetek felsorolása operatív programonként, prioritásonként és intézkedésenként
 
@@ -48,21 +48,21 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 4. | Gazdaságfejlesztési Operatív Program |  |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
-| 5. | Környezet és Energia Operatív Program | Egészséges tiszta települések |  | Környezetvédelmi Fejlesztési Igazgatóság |
+| 5. | Környezet és Energia Operatív Program |  |  | „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. |
 
-| 6. | Vizeink jó kezelése |  | Környezetvédelmi Fejlesztési Igazgatóság |
+| 6. |  |  |  |  |
 
-| 7. | Természeti értékeink jó kezelése |  | Környezetvédelmi Fejlesztési Igazgatóság |
+| 7. |  |  |  |  |
 
-| 8. | A megújuló energiaforrás növelése |  | „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. |
+| 8. |  |  |  |  |
 
-| 9. | Hatékony energiafelhasználás |  | „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. |
+| 9. |  |  |  |  |
 
-| 10. | Fenntartható termelési és fogyasztási szokások ösztönzése |  | Környezetvédelmi Fejlesztési Igazgatóság |
+| 10. |  |  |  |  |
 
-| 11. | Projekt előkészítés I–III., valamint VI. prioritásokhoz kapcsolódóan |  | Környezetvédelmi Fejlesztési Igazgatóság |
+| 11. |  |  |  |  |
 
-| 12. | Projekt előkészítés IV–V. prioritásokhoz kapcsolódóan |  | „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. |
+| 12. |  |  |  |  |
 
 | 13. | Közlekedés Operatív Program |  |  | KIKSZ Közlekedésfejlesztési Zrt. |
 
@@ -157,3 +157,5 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 | 58. | Társadalmi Megújulás Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
 | 59. | Társadalmi Infrastruktúra Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+
+[^18]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.

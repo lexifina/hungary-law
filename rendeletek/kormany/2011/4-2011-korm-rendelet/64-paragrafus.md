@@ -10,9 +10,9 @@ b) a megkötött közvetítői szerződések teljesítésének előrehaladásár
 
 c) a kockázatvállalás teljesítményéről és a kockázatvállalás szempontjából lényeges eseményekről, így különösen a kölcsön közvetítő általi minősítéséről és a kezesség beváltására vonatkozó adatokról,
 
-d) a közvetítők által elkövetett szabálytalanságokról szabálytalansági jelentés formájában,
+d)[^11]
 
-e) a kedvezményezettek által elkövetett nem teljesítésről és más szerződésszegésekről, és
+e)[^12] a közvetítő vagy a kedvezményezett által megvalósított jogosulatlan forrásfelhasználásról, és
 
 f) az NFÜ által kért bármely egyéb adatról vagy eseményről.
 
@@ -21,3 +21,6 @@ f) az NFÜ által kért bármely egyéb adatról vagy eseményről.
 (5) Az NFÜ a forráskezelő szervezet számára biztosítja a finanszírozási keretből az NFÜ által elfogadott program végrehajtására jóváhagyott forrás összegét.
 
 (6) Az NFÜ a forráskezelő szervezet javaslatára vagy saját kezdeményezésből is az egyes programokra jóváhagyott források között átcsoportosíthat a már megkötött közvetítői szerződések forrásigényének figyelembevételével.
+
+[^11]: A 64. § (3) bekezdés d) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.
+[^12]: A 64. § (3) bekezdés e) pontja a 86/2011. (V. 31.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

@@ -40,4 +40,6 @@ e) a további részletes információk elérhetőségét.
 
 (11) Ha a felfüggesztés dátuma előtt beérkezett projektjavaslatokról hozott döntést követően a támogatásra rendelkezésre álló keret nem merült ki, a felfüggesztést meg lehet szüntetni, és új benyújtási határidőt lehet meghatározni.
 
-(12) A közvetítők kiválasztására irányuló felhívások tervezetét a forráskezelő szervezet készíti el, majd az NFÜ jóváhagyását követően – az NFÜ nevében, vagy kezességvállalás esetén a saját nevében – a felhívást közzéteszi. A közvetítők kiválasztására programonként olyan nyilvános pályázatot kell kiírni, amely biztosítja a pályázat átláthatóságát, a verseny tisztaságát és az ajánlattevők esélyegyenlőségét.
+(12)[^4] A közvetítők kiválasztására irányuló felhívások tervezetét a forráskezelő szervezet készíti el, melyet az NFÜ hagy jóvá és tesz közzé. A közvetítők kiválasztására programonként olyan nyilvános pályázatot kell kiírni, amely biztosítja a pályázat átláthatóságát, a verseny tisztaságát és az ajánlattevők esélyegyenlőségét.
+
+[^4]: A 21. § (12) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (4) bekezdése szerint módosított szöveg.
