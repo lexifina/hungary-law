@@ -16,7 +16,7 @@ a) a napi huszonnégy órán át folyamatos szolgáltatást nyújtó egészség�
 
 b) külön törvény vagy kollektív szerződés a 118/A. § (1) bekezdésétől eltérően legfeljebb négyhavi, illetve legfeljebb tizenhat heti munkaidőkeretet is megállapíthat,
 
-c) külön törvény vagy kollektív szerződés a 119. § (3) és (6) bekezdésétől eltérhet azzal, hogy a nem készenléti jellegű munkakörben foglalkoztatott munkavállaló munkaideje nem haladhatja meg a munkaidőkeret átlagában a heti 60 órát, egészségügyi ügyelet esetén a heti 72 órát,
+c) külön törvény vagy kollektív szerződés a 119. § (3) és (6) bekezdésétől eltérhet, azonban a nem készenléti jellegű munkakörben foglalkoztatott munkavállaló munkaideje nem haladhatja meg a munkaidőkeret átlagában a heti 60 órát, egészségügyi ügyelet esetén a heti 72 órát,
 
 d) kollektív szerződés rendelkezése alapján, vagy ha a napi huszonnégy órán át folyamatos szolgáltatást nyújtó egészségügyi szolgáltatók esetében külön törvény lehetővé teszi, a munkavállaló előzetes írásos beleegyezése esetén a 123. § (1) bekezdésétől eltérően legalább megszakítás nélküli nyolc óra napi pihenőidőt kell biztosítani,
 

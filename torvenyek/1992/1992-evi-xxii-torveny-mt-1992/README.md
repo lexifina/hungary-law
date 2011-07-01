@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-22-00-00
 | 2010-09-01 | 2010. évi XC. törvény | 1992-22-00-00.71 |
 | 2011-01-01 | 7/2010. (XII. 14.) NGM rendelet | 1992-22-00-00.72 |
 | 2011-05-01 | 2011. évi XXXI. törvény | 1992-22-00-00.73 |
+| 2011-07-01 | 2011. évi LXXXI. törvény | 1992-22-00-00.74 |
