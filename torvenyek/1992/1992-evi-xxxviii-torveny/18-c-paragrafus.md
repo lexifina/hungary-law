@@ -34,11 +34,9 @@ f) a Nyugdíjreform és Adósságcsökkentő Alap.
 
 (12) A kincstár a kötelezett külön rendelkezése nélkül teljesíti – külön jogszabályban meghatározott számlakörben – a Magyar Állammal, a 18/B. § (4) bekezdésében, valamint a 18/C. § (6) bekezdésében (ide nem értve az önkormányzati családtámogatási folyószámlát), valamint (16)–(17) bekezdésében meghatározott szervezetekkel szemben benyújtott hatósági átutalást és átutalási végzésen alapuló átutalást.
 
-(13) A kincstár vagy a támogató – a 13/A. § (5) és (6) bekezdésében foglaltak végrehajtása érdekében – a Kormány rendeletében meghatározottak szerint a költségvetési támogatások kedvezményezettjeiről a (14) bekezdésben felsorolt adatokat szolgáltat az állami adóhatóság és a vámhatóság részére.
+(13) A kincstár – a 13/A. § (5) és (6) bekezdésében foglaltak végrehajtása érdekében – a támogató és az állami adóhatóság adatszolgáltatása alapján a támogatási jogviszony fennállásáig kezeli a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adóazonosító számára, valamint az esedékessé vált és meg nem fizetett köztartozás jogcímére és összegére vonatkozó adatokat.>
 
-(14) A (13) bekezdésben meghatározott adatközlés a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adószámára, adóazonosító jelére terjed ki.
-
-(15) Az adóhatóságok a (13)–(14) bekezdés szerinti adatközlés alapján a Kormány rendeletében meghatározottak szerint kötelesek jelezni az állami támogatások utalványozóinak és a kincstárnak, ha a támogatások kedvezményezettjeinél esedékessé vált és a 13/A. § (9) bekezdésben meghatározott idő alatt meg nem fizetett köztartozás keletkezett, a köztartozás jogcímét és összegét, illetve azt is, ha a köztartozást megfizették.
+(14)–(15)
 
 (16) Az Országgyűlés és a Kormány által alapított közalapítványok az államháztartás alrendszereiből származó pénzeszközeiket a kincstárban vezetett pénzforgalmi számlán kötelesek tartani azok felhasználásáig. Ezen pénzeszközökből származó, átmenetileg szabad pénzeszközeiket a közalapítványok kizárólag a kincstár hálózatában értékesített állampapírok vásárlásával hasznosíthatják. Ezen közalapítványok egyéb forrásból származó pénzeszközeiket is kezelhetik a kincstárban vezetett pénzforgalmi számlájukon.
 

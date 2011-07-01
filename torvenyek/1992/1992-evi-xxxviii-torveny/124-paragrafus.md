@@ -90,7 +90,7 @@ a) a kincstári rendszer működésének, a kincstári gazdálkodásnak a részl
 
 b) a kincstári ügyfelek fizetési számlarendjét, a számlavezetés szabályait, a munkabér és egyéb járandóságok számfejtési és folyósítási rendjét,
 
-c) — az Állami Számvevőszék véleményének kikérésével — az államháztartás körébe tartozó egyéb szervek, az előirányzattal rendelkező jogi személyiséggel nem rendelkező költségvetési egységek költségvetési gazdálkodásának számviteli rendjét, az államháztartás alrendszereiből támogatásban részesülő államháztartáson kívüli szervezetek esetében a támogatás elszámolásának számviteli rendjét, valamint a kincstár számviteli rendjét,
+c) az államháztartás körébe tartozó egyéb szervek, az előirányzattal rendelkező jogi személyiséggel nem rendelkező költségvetési egységek költségvetési gazdálkodásának számviteli rendjét, az államháztartás alrendszereiből támogatásban részesülő államháztartáson kívüli szervezetek esetében a támogatás elszámolásának számviteli rendjét, valamint a kincstár számviteli rendjét,
 
 d) a kincstár és a kincstári körbe tartozók által teljesítendő adatszolgáltatások körét, szabályait,
 

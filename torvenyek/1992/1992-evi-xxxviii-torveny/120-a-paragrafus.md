@@ -1,4 +1,4 @@
-120/A. § (1) Az államháztartás külső ellenőrzésével kapcsolatos feladatokat az Állami Számvevőszék látja el, melynek feladatait, hatáskörét és szervezetét külön törvény állapítja meg.
+120/A. § (1) Az államháztartás külső ellenőrzésével kapcsolatos feladatokat az Állami Számvevőszék látja el.
 
 (2) A kormányzati ellenőrzést a kormány által erre kijelölt szerv tevékenysége útján kell ellátni.
 

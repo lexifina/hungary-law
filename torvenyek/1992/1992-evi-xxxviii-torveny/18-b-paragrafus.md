@@ -76,7 +76,7 @@ b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági 
 
 (7) A kincstár által kezdeményezett, az önkormányzatokkal kapcsolatos adósságrendezési eljárásban a kincstár teljes jogkörrel eljár a Magyar Állam képviseletében.
 
-(8) A kincstár a 64/A–64/D. §-ok alapján felülvizsgálja a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűségét (a továbbiakban: felülvizsgálat), melynek során érvényesíti az Állami Számvevőszéknek az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény (a továbbiakban: ÁSZ törvény) 2. §-ának (5) bekezdése alapján végzett ellenőrzés során megállapított eltéréseket is, továbbá intézkedik a megállapított visszafizetési kötelezettség, illetve pótlólagos támogatás pénzügyi rendezéséről.
+(8) A kincstár a 64/A–64/D. §-ok alapján felülvizsgálja a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűségét (a továbbiakban: felülvizsgálat), melynek során érvényesíti az Állami Számvevőszék ellenőrzésével megállapított eltéréseket is, továbbá intézkedik a megállapított visszafizetési kötelezettség, illetve pótlólagos támogatás pénzügyi rendezéséről.
 
 (9) A kincstár az (1) bekezdés p) pontja szerinti feladatai ellátásához az a) pont szerinti nyilvántartások adatait is felhasználja. Amennyiben a kötelezettségvállalás bejelentés kifizetésre vonatkozó adatai nem a bejelentésnek megfelelően teljesülnek, a kincstár rendelkezésre állási díjat számít fel jogszabályban szabályozott módon.
 
