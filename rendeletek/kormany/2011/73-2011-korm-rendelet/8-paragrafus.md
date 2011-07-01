@@ -4,8 +4,7 @@
 
 8. § (1)–(4)[^7]
 
-(5)[^8]
+(5) A Kr4. 16. § (2) bekezdés b) pont bh) alpontjában a „pszichiátriai osztályon” szövegrész helyébe a „pszichiátriai osztályon, pszichiátriai, addiktológiai gondozóban” szöveg lép.
 
 [^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 8. § (1)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. § (5) bekezdése a 19. § (3) bekezdése alapján 2011. július 1-jén lép hatályba.
