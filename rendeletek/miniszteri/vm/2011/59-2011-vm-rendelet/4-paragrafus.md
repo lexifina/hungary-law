@@ -1,1 +1,0 @@
-## „(14) E rendelet alapján támogatás kizárólag abban az esetben vehető igénybe, ha az ügyfél, szakmai pontszámai elérik vagy meghaladják az 1. célterület esetén a 10 pontot, a 2.1. és 2.2. célterületek esetén a 10 pontot, a 3.1. célterület és 3.2. célterületek esetén a 10 pontot.”
