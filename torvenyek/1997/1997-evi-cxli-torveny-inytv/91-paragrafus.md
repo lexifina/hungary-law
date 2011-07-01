@@ -2,7 +2,7 @@
 
 91. § (1) Ez a törvény 2000. január 1-jén lép hatályba; a már folyamatban lévő eljárásokat azonban a korábbi rendelkezések szerint kell befejezni.
 
-(2) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 82. § (1) bekezdésével megállapított 16/A. §-t csak a hatálybalépését követően megkötött jelzálogjog alapítására irányuló szerződésekre kell alkalmazni azzal, hogy a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 36. §-ával megállapított 16/A. § (2)–(5) bekezdésében meghatározott rendelkezések csak az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 82. § (1) bekezdésének hatálybalépésekor már fennálló jelzálogjoggal biztosított kölcsönjogviszonyok esetében irányadók.
+(2)
 
 (3) A társasházakról szóló 2003. évi CXXXIII. törvény módosításáról szóló 2010. évi CLXXVII. törvény (a továbbiakban: Módtv.) 19. § (1) bekezdésével megállapított 34/A. §-t a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
