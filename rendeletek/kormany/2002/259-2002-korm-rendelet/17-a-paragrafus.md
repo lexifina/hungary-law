@@ -1,5 +1,5 @@
-## 17. §[^143]
+## 17. §[^138]
 
 ## A közösségi fenntartókra vonatkozó különös szabályok
 
-[^143]: A 17. §-t és az azt megelőző alcímet a 213/2009. (IX. 29.) Korm. rendelet 15. § (7) bekezdés c) pont cb) alpontja hatályon kívül helyezte.
+[^138]: A 17. §-t és az azt megelőző alcímet a 213/2009. (IX. 29.) Korm. rendelet 15. § (7) bekezdés c) pont cb) alpontja hatályon kívül helyezte.

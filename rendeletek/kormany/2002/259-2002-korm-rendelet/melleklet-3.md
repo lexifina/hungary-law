@@ -22,6 +22,6 @@
 
 ## 11. A kiadmányozási joggal rendelkező személy aláírása és a tanúsítványt kiállító szerv bélyegzőlenyomata.
 
-3. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^153]
+3. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^149]
 
-[^153]: A 3. számú mellékletet a 60/2004. (III. 31.) Korm. rendelet 21. § (9) bekezdésének b) pontja hatályon kívül helyezte. Újonnan a 127/2004. (IV. 29.) Korm. rendelet II. Részének 12. §-a iktatta be, hatályon kívül helyezte a 226/2006. (XI. 20.) Korm. rendelet 29. § (1) bekezdése b) pontjának bb) alpontja.
+[^149]: A 3. számú mellékletet a 60/2004. (III. 31.) Korm. rendelet 21. § (9) bekezdésének b) pontja hatályon kívül helyezte. Újonnan a 127/2004. (IV. 29.) Korm. rendelet II. Részének 12. §-a iktatta be, hatályon kívül helyezte a 226/2006. (XI. 20.) Korm. rendelet 29. § (1) bekezdése b) pontjának bb) alpontja.

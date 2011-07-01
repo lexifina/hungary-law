@@ -1,4 +1,4 @@
-14/B. §[^132] (1) A működést engedélyező szerv
+14/B. §[^131] (1) A működést engedélyező szerv
 
 a) a működési engedélyt visszavonja, ha a szolgáltató (intézmény, hálózat) megszűnt vagy szolgáltató tevékenységet nem végez;
 
@@ -12,7 +12,7 @@ e) a b)–d) pontban nem említett esetben a működési engedélyt visszavonja,
 
 f) az a)–c) és e) pontban nem említett jogsértés esetén a jogsértés jellegétől és súlyától függően, az ellátott gyermekek érdekeinek figyelembevételével
 
-fa)[^133] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
+fa)[^132] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
 
 fb) az fa) alpont szerinti felszólítással egyidejűleg – ha az ellátott gyermekek Gyvt. szerinti jogainak megóvása érdekében szükséges – legfeljebb a hiányosság vagy más jogsértés megszüntetéséig, illetve a jogszerű működés helyreállításáig megtilthatja újabb gyermekek, illetve más ellátottak felvételét,
 
@@ -66,5 +66,5 @@ k) alkalmazhatja a Gyvt.-ben meghatározott egyéb jogkövetkezményeket.
 
 (8) Az újabb gyermekek, illetve más ellátottak felvétele a (3) bekezdés c) pontjában foglaltaktól eltérő időpontig is megtiltható, ha az egyidejűleg alkalmazott más jogkövetkezmény azt indokolja. Ha a tilalmat megszegik, a működést engedélyező szerv a (3) bekezdésben meghatározott más jogkövetkezményt alkalmazhat.
 
-[^132]: A 14/B. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (9)–(10) bekezdését.
-[^133]: A 14/B. § (1) bekezdés f) pont fa) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^131]: A 14/B. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (9)–(10) bekezdését.
+[^132]: A 14/B. § (1) bekezdés f) pont fa) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 17. pontja szerint módosított szöveg.
