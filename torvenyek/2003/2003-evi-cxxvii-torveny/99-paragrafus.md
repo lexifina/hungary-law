@@ -8,7 +8,7 @@ b) a szivar esetében a darabot vagy a dobozt,
 
 c) a szivarka esetében a legalább 5 darabot tartalmazó dobozt,
 
-d) a fogyasztási dohány esetében a tasakot vagy a dobozt
+d) a fogyasztási dohány esetében a legalább 40 gramm, de legfeljebb 200 gramm – azonban minden esetben tízzel osztható gramm-tömegű – fogyasztási dohányt tartalmazó tasakot vagy dobozt
 
 kell érteni.
 
