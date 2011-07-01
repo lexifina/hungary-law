@@ -2,27 +2,7 @@
 
 ## Kifizetési kérelem
 
-8. § (1)[^14] A kifizetési kérelmet
-
-a) a 2010. évben
-
-aa) április 1–30.,
-
-ab) július 1–31., valamint
-
-ac) október 1–31.;
-
-b) a 2011. évtől kezdődően évente
-
-ba) január 1–31.,
-
-bb) április 1–30.,
-
-bc) július 1–31., valamint
-
-bd) október 1–31.
-
-## közötti időszakokban az MVH által az MVH honlapján közzétett formanyomtatványon, postai úton lehet benyújtani az MVH-hoz.
+8. § (1)[^14]
 
 (2) A támogatási kérelem módosítására gép, technológiai berendezés tekintetében az e rendelet alapján helyt adó, vagy részben helyt adó támogatási határozattal rendelkező ügyfélnek (a továbbiakban: kedvezményezett) a kifizetési kérelem benyújtásakor van lehetősége. Kizárólag a támogatási határozatban szereplő gépekkel, technológiai berendezésekkel egyenértékű gépek, technológiai berendezések beszerzése támogatható a kifizetési kérelem elbírálása során. Egyenértékűnek kell tekinteni a gépet, berendezést, ha azonos funkciót lát el, és a kedvezményezett indokolja a gép, berendezés megváltoztatásának szükségességét.
 
@@ -48,6 +28,6 @@ d) a kérelemmel elszámolni tervezett kiadás;
 
 e) a kérelemmel igénybe venni tervezett támogatás.
 
-[^14]: A 8. § (1) bekezdése a 96/2009. (VII. 30.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^14]: A 8. § (1) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § j) pontja hatályon kívül helyezte.
 [^15]: A 8. § (4) bekezdésének c) pontját a 96/2009. (VII. 30.) FVM rendelet 5. § (2) bekezdése iktatta be.
 [^16]: A 8. § (5) bekezdését a 96/2009. (VII. 30.) FVM rendelet 5. § (3) bekezdése iktatta be.
