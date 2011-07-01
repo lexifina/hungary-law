@@ -1,0 +1,1 @@
+178/D. § A VET. 171/A. § szerinti kapcsolt mérlegkör keretében való értékesítési jogosultság 2012. június 30-án megszűnik. A kapcsolt mérlegkör keretében való értékesítési jogosultság megszűnésével kapcsolatos elszámolásra a 171/A. §-t kell alkalmazni.

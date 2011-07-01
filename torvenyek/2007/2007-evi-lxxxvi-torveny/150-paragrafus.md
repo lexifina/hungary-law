@@ -2,7 +2,7 @@
 
 ## ADATSZOLGÁLTATÁS, BIZALMAS INFORMÁCIÓ KEZELÉSE, TITOKVÉDELEM
 
-150. § (1) A rendszerhasználók és az engedélyesek kötelesek a villamosenergia-rendszer, valamint a villamosenergia-piac zavartalan működését biztosító, külön jogszabályban, valamint a villamosenergia-ellátási szabályzatokban meghatározott, személyes adatot nem tartalmazó adatokat, információkat a külön jogszabályban – és azzal összhangban a villamosenergia-ellátási szabályzatokban – meghatározottak részére az előírt módon, időben és csoportosításban megadni.
+150. § (1) A rendszerhasználók és az engedélyesek kötelesek a villamosenergia-rendszer, valamint a villamosenergia-piac zavartalan működését biztosító, külön jogszabályban, valamint a villamosenergia-ellátási szabályzatokban meghatározott, személyes adatot nem tartalmazó adatokat, információkat a külön jogszabályban előírt ideig megőrizni, továbbá abban – és azzal összhangban a villamosenergia-ellátási szabályzatokban – meghatározottak részére az előírt módon, időben és csoportosításban megadni.
 
 (2) Az átadott adatokat az adatkezelő kizárólag a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos – engedélyes – tevékenysége ellátásával összefüggésben használhatja.
 

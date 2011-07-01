@@ -1,3 +1,3 @@
-63. § (1) A kereskedő köteles a felhasználó hálózati csatlakozási és hálózathasználati, illetve villamosenergia-vásárlási szerződéseinek megbízottként vagy bizományosként történő összevont kezelésére, ha a felhasználó ezt kéri.
+63. § (1) A villamosenergia-kereskedő a felhasználóval történő közös megegyezés esetén, az egyetemes szolgáltató a felhasználó igénye esetén köteles a felhasználó hálózati csatlakozási, hálózathasználati és villamosenergia-vásárlási szerződéseinek megbízottként történő, összevont kezelésére.
 
 (2) A kereskedő és az elosztó hálózati engedélyes az (1) bekezdés szerinti kötelezettség teljesítése érdekében az üzletszabályzatukban meghatározott feltételek szerint megállapodást kötnek.

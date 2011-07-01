@@ -13,3 +13,7 @@
 (6) A Hivatal a (3) bekezdés szerinti kivitelezési határidőt – az engedélyes kérelmére – meghosszabbíthatja. A kivitelezési határidőt legfeljebb az eredeti kivitelezési határidőtől számított összesen három évvel lehet meghosszabbítani.
 
 (7) Ha az engedélyes a kivitelezés megkezdésével neki felróható okból késlekedik és emiatt az engedélyben előírt vagy a meghosszabbított kivitelezési határidő lejár, a kiserőművi összevont engedélyt a Hivatal visszavonja. Az e bekezdésben meghatározott ok miatt történő visszavonás esetén az engedélyes kártérítési, illetve kártalanítási igényt a Hivatallal szemben nem támaszthat.
+
+(8) Amennyiben az ügyfél a Hivatal hatáskörébe tartozó, a Tszt. szerint engedélyköteles tevékenységet is folytatni kíván, akkor a kiserőművi összevont engedély iránti kérelmével egyidejűleg köteles kérelmezni a Tszt. szerinti engedélyeket is.
+
+(9) A (8) bekezdés szerinti esetben a Hivatal a kiserőművi összevont engedélyt és a Tszt. szerinti engedélyeket egy engedélyben adja ki.

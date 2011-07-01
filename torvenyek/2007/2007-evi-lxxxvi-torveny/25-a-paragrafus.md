@@ -1,0 +1,1 @@
+25/A. § A Hivatal dönt a 132 kV-os és annál nagyobb feszültségű vezeték vagy berendezés közcélúságáról. A vezeték vagy berendezés közcélúvá minősítése, valamint átminősítése iránti eljárás kérelemre vagy hivatalból a Vhr.-ben foglaltak szerint történik.

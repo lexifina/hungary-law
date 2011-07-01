@@ -1,10 +1,10 @@
 ## A Hivatal szervezete, vezetői és alkalmazottai
 
-166. § (1) A Hivatal elnökét és elnökhelyettesét – a miniszter javaslatára – a miniszterelnök nevezi ki és menti fel. A kinevezés időtartama hat év. Az elnök és az elnökhelyettes megbízatásának megszűnése esetén a miniszter nyilvános pályázatot ír ki a megüresedő tisztségre. A pályázatokat a miniszter a pályázatok benyújtására rendelkezésre nyitva álló határidő lejártát követően harminc napon belül szakmailag értékeli. A miniszter az értékelés eredményéről, a jelöltek sorrendjéről és javaslatának indokolásáról írásban vagy elektronikusan tájékoztatja a miniszterelnököt.
+166. § (1) A Hivatal elnökét és elnökhelyetteseit – a miniszter javaslatára – a miniszterelnök nevezi ki és menti fel. A kinevezés időtartama hat év, ami egy alkalommal azonos időtartamra meghosszabbítható. Az elnök és elnökhelyettesek kinevezése időtartamának lejárta vagy megbízatása egyéb okból történő megszűnése esetén a miniszter nyilvános pályázatot ír ki a megüresedő tisztségre. A pályázatokat a miniszter a pályázatok benyújtására rendelkezésre nyitva álló határidő lejártát követően harminc napon belül szakmailag értékeli. A miniszter az értékelés eredményéről, a jelöltek sorrendjéről és javaslatának indokolásáról írásban vagy elektronikusan tájékoztatja a miniszterelnököt.
 
-(2) Az elnök és az elnökhelyettes tekintetében a munkáltatói jogokat – a kinevezés és a felmentés kivételével – a miniszter gyakorolja.
+(2) Az elnök és az elnökhelyettesek tekintetében a munkáltatói jogokat – a kinevezés és a felmentés kivételével – a miniszter gyakorolja.
 
-(3) A Hivatal elnökének és elnökhelyettesének megbízatása megszűnik,
+(3) A Hivatal elnökének és elnökhelyetteseinek megbízatása megszűnik,
 
 a) ha a kinevezés időtartama lejár,
 
@@ -14,7 +14,7 @@ c) ha tisztségéből felmentik,
 
 d) ha meghal.
 
-(4) Felmentéssel szűnik meg a Hivatal elnökének és elnökhelyettesének megbízatása, ha
+(4) Felmentéssel szűnik meg a Hivatal elnökének és elnökhelyetteseinek megbízatása, ha
 
 a) jogerős bírói ítélet megállapítása szerint bűncselekményt követett el,
 
@@ -24,7 +24,7 @@ c) tisztségével való összeférhetetlenségét három hónapon belül nem sz�
 
 d) tevékenységével a Hivatal hatósági jogköreinek gyakorlását veszélyezteti.
 
-(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettese részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat.
+(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettesei részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat.
 
 (6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a miniszterelnök elé.
 
@@ -32,7 +32,7 @@ d) tevékenységével a Hivatal hatósági jogköreinek gyakorlását veszélyez
 
 a) vezeti a Hivatalt,
 
-b) gyakorolja a Hivatal köztisztviselői felett a munkáltatói jogokat,
+b) gyakorolja a Hivatal kormánytisztviselői felett a munkáltatói jogokat,
 
 c) irányítja a Hivatal gazdálkodását,
 

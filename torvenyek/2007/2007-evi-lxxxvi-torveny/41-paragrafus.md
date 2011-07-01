@@ -1,4 +1,4 @@
-41. § (1) A hálózati engedélyesek kötelesek gondoskodni a felhasználók és az erőművek átviteli vagy elosztó hálózathoz történő kapcsolódásához – azon belül a méréshez – szükséges, az üzemi és az elosztói szabályzatokban meghatározott csatlakozó-, kapcsoló- és átalakítóberendezés, valamint az elszámolási mérésre alkalmas mérőberendezés felszereléséről, hitelesítéséről és karbantartásáról, kivéve a felhasználó tulajdonában álló kapcsolóberendezés beépített elemeit.
+41. § (1) A hálózati engedélyesek kötelesek gondoskodni a felhasználók és az erőművek átviteli vagy elosztó hálózathoz történő csatlakozásához – azon belül a méréshez – szükséges, az üzemi és az elosztói szabályzatokban meghatározott csatlakozó-, kapcsoló- és átalakítóberendezés, valamint az elszámolási mérésre alkalmas mérőberendezés felszereléséről, hitelesítéséről és karbantartásáról, kivéve a felhasználó tulajdonában álló kapcsolóberendezés beépített elemeit.
 
 (2) A berendezések felszerelésének, hitelesítésének és karbantartásának költségei erőmű esetén a termelőt, illetve az üzemeltetőt, felhasználó esetén az átviteli rendszerirányítót vagy az elosztó hálózati engedélyeseket terhelik.
 

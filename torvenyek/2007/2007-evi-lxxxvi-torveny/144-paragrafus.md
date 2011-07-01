@@ -4,11 +4,11 @@
 
 (3) A csatlakozási díjból származó bevételt a hálózathoz történő csatlakozáshoz szükséges beruházásokra kell fordítani.
 
-(4) A Hivatal a csatlakozási díjra és alkalmazásának feltételeire vonatkozó előterjesztést készít, és kezdeményezi a miniszternél a rendelettel történő kihirdetését.
+(4) A csatlakozási díjat tételesen kell megállapítani. Az erőművek és a 132 kV, vagy annál magasabb feszültségszintre csatlakozó felhasználók esetében a csatlakozási díj a kiszámítására vonatkozó módszer előírásával is megállapítható. A rendszerhasználók és a hálózatra csatlakozni kívánók kötelesek a Hivatal által megállapított csatlakozási díjat megfizetni. A hálózati engedélyesek kötelesek a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
 
-(5) A miniszter a Hivatal előterjesztését elfogadja, vagy elutasítja. Az előterjesztés
+(5) A Hivatal az (1) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján közzéteszi és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
 
-a) elfogadása esetén a miniszter a Hivatal által meghatározott csatlakozási díjat a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki,
+a) elfogadása esetén a miniszter a csatlakozási díjak meghatározásának szempontjait, elemeit, alkalmazásának általános szabályait a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki,
 
 b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
 

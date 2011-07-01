@@ -1,0 +1,9 @@
+165/A. § (1) A Hivatal az Ügynökség véleményét kérheti arra vonatkozólag, hogy egy külföldi szabályozó hatóság határozata megfelel-e a 2009/72/EK irányelv vagy a 714/2009/EK rendelet alapján kiadott iránymutatásoknak (a továbbiakban: iránymutatások).
+
+(2) A Hivatal, ha úgy ítéli meg, hogy egy külföldi szabályozó hatóság villamos energia határon keresztül történő ki- és beszállítására vonatkozó határozata nem felel meg az iránymutatásoknak, a határozat keltétől számított 2 hónapon belül tájékoztathatja erről az Európai Bizottságot.
+
+(3) Abban az esetben, ha külföldi szabályozó hatóság vagy az Európai Bizottság az Ügynökség véleményét kéri arra vonatkozólag, hogy a Hivatal villamos energia határon keresztül történő ki- és beszállítására vonatkozó vagy más határozata megfelel-e iránymutatásoknak, és az Ügynökség véleményében megállapítja, hogy a Hivatal határozata nem felel meg azoknak, a Hivatal az Ügynökség véleményében foglaltakat annak kézhezvételétől számított 4 hónapon belül köteles végrehajtani.
+
+(4) Ha az Európai Bizottság a hivatali határozat iránymutatásoknak való megfelelésének további kivizsgálása tárgyában indított eljárásában megállapítja, hogy a Hivatal határozata nem felel meg az iránymutatásoknak, és ezért határozata visszavonására kötelezi, a Hivatal köteles a határozatát 2 hónapon belül visszavonni, továbbá erről az Európai Bizottságot tájékoztatni. Ha az Európai Bizottság nem indít eljárást, vagy az eljárás megindításáról szóló határozatának keltétől számított 4 hónapon belül nem hoz határozatot, úgy kell tekinteni, hogy nem emelt kifogást a Hivatal határozatával szemben.
+
+(5) A Hivatal és a Hivatal eljárásában résztvevő ügyfelek az Európai Bizottságnak a hivatali határozat iránymutatásoknak való megfelelésének további kivizsgálása tárgyában indított eljárása során az Európai Bizottság felhívására jogosultak észrevételeket benyújtani.

@@ -1,6 +1,4 @@
-141. § (1) A legmagasabb árat – a (2) bekezdésben foglalt eltéréssel – úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
-
-(2) A csatlakozási díjat a 144. § (2) bekezdésében meghatározott elvekkel összhangban kell megállapítani.
+141. § (1)–(2)
 
 (3) A hatósági ár megállapítása történhet tételesen, vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 

@@ -14,13 +14,15 @@ b) elektronikusan és telefonon keresztül is lehetővé tenni a lakossági fogy
 
 (6) A villamosenergia-kereskedő ellátja az e törvény alapján védendő fogyasztókkal kapcsolatos, külön jogszabályban meghatározott feladatokat.
 
-(7) A villamosenergia-kereskedő a lakossági fogyasztók villamosenergia-ellátásból történő kikapcsolását fizetési késedelem esetén kizárólag az alábbi feltételek együttes fennállása esetén jogosult kezdeményezni a lakossági fogyasztóval kötött csatlakozási szerződésben részes hálózati engedélyesnél:
+(7) A villamosenergia-kereskedő a lakossági fogyasztók villamosenergia-ellátásból történő kikapcsolását fizetési késedelem esetén kizárólag az alábbi feltételek együttes fennállása esetén jogosult kezdeményezni az érintett elosztónál, ha:
 
-a) a lakossági fogyasztó legalább három havi számlatartozást halmozott fel,
+a) a lakossági fogyasztó fizetési kötelezettségével 60 napot meghaladó késedelembe esett,
 
-b) a villamosenergia-kereskedő által, fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetések a lakossági fogyasztóval nem vezettek eredményre,
+b) a lakossági fogyasztó által a fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetén az egyeztetés a villamosenergia-kereskedővel nem vezetett eredményre, és
 
-c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább háromszor, írásban értesítette, és az értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és külön jogszabály alapján megillető kedvezményekre, valamint az előre fizető mérő felszerelésének a lehetőségére.
+c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább kétszer írásban értesítette, és az első értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és a Vhr. alapján megillető kedvezményekre, valamint az előrefizetős mérő felszerelésének a lehetőségére.
+
+(7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton történik, a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
 
 (8) A lakossági fogyasztó kikapcsolására nem kerülhet sor:
 
@@ -32,6 +34,6 @@ c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 
 d) külön jogszabályban meghatározott pihenőnapon.
 
-(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi a villamosenergia-kereskedővel szemben felhalmozott tartozását, a kereskedő 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
+(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló jogszabályban meghatározott egyéb költségeket is megfizeti, a villamosenergia-kereskedő a tudomására jutást követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
 
-(10) A hálózati engedélyes a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles haladéktalanul eleget tenni.
+(10) Az elosztó a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.

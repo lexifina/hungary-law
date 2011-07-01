@@ -1,7 +1,1 @@
-49. § Az egyetemes szolgáltató által kötött villamosenergia-értékesítési szerződés alapján az egyetemes szolgáltatás keretébe tartozik:
-
-a) a külön jogszabályban meghatározott típusú termékcsomagok és árszabások alapján szolgáltatott villamos energia,
-
-b) az e törvényben és a külön jogszabályban meghatározott szolgáltatási színvonalú ügyfélkapcsolati szolgáltatás,
-
-c) a védendő fogyasztóknak e törvény és külön jogszabály alapján nyújtott szolgáltatások.
+49. § Az egyetemes szolgáltató által kötött villamosenergia-vásárlási szerződés alapján az egyetemes szolgáltatás keretébe tartozik a villamosenergia-piaci egyetemes szolgáltatás árképzéséről, valamint az egyetemes szolgáltatás keretében nyújtandó termékcsomagokról szóló miniszteri rendeletben (a továbbiakban: ESZ rendelet) meghatározott típusú termékcsomagok és árszabások alapján szolgáltatott villamos energia értékesítése.

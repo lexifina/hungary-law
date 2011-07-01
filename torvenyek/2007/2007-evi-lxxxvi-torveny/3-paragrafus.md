@@ -4,9 +4,9 @@
 
 1. Átvitel: villamos energiának az átviteli hálózaton keresztül történő továbbítása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
-2. Átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer – beleértve a tartószerkezeteket és a rendszerösszekötő vezetékeket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
+2. Átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer – beleértve a tartószerkezeteket és a határkeresztező vezetékeket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 
-3. Belső európai villamosenergia-piac működési követelményei: a 2001. május 17-én, egyes európai országok villamosenergia-átviteli rendszert üzemeltető vagy irányító társaságai által létrehozott Egyesített Villamosenergia-rendszerirányítók Szövetsége (UCTE) által meghatározott műszaki követelményrendszer;
+3.
 
 4. Biomassza: a mezőgazdaságból, erdőgazdálkodásból és az ehhez kapcsolódó iparágakból származó termékek, hulladékok és maradékanyagok (a növényi és állati eredetűeket is beleértve) biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
 
@@ -18,15 +18,19 @@
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
-9. Elosztó hálózat: a villamos energia elosztására és a felhasználói csatlakozási pontra való eljuttatás céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
+9. Elosztó hálózat: a villamos energia elosztására és csatlakozási pontra való eljuttatása céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 
 10. Előre fizetős mérő: olyan fogyasztásmérő berendezés, amely a fogyasztást csak az ellenérték előzetes megfizetése esetén teszi lehetővé;
 
-11. Elsődleges (primer) energiaforrás: azon rendelkezésre álló és az energia átalakítására felhasználható energiaforrások gyűjtőneve, amelyek kémiailag, fizikailag vagy nukleárisan kötött formában, megújuló vagy nem megújuló módon tartalmaznak energiát;
+11. Elsődleges energiaforrás: azon rendelkezésre álló energiaforrások gyűjtőneve, amelyek kémiailag, fizikailag vagy nukleárisan kötött formában, megújuló vagy nem megújuló módon tartalmaznak átalakításra alkalmas energiát, azzal, hogy villamos energia felhasználásával, átalakításával nyert energiát tartalmazó energiaforrás nem tekinthető elsődleges energiaforrásnak;
 
-12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer által létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
+11a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
+
+12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer alapján létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
 
 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energia Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
+
+13a. Eredetigazolás: olyan dokumentum, amely igazolja a megújuló energiaforrásból előállított vagy a nagyhatékonyságú, hasznos hőigényen alapuló, kapcsoltan termelt villamos energia mennyiségét;
 
 14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel, engedélyezési szempontból ideértve az energia tározós erőművet is;
 
@@ -42,15 +46,15 @@
 
 20. Gazdaságilag indokolt hő- vagy hűtési igény: a hő vagy hűtés iránti igényt meg nem haladó mértékű kereslet, amelyet versenypiaci feltételek mellett, kapcsolt hő- és villamosenergia-termelés hiányában, a kapcsolt energiatermeléstől eltérő egyéb energia-előállító folyamaton keresztül elégítenének ki;
 
-21. Határkeresztező vezeték: a közcélú hálózat részét képező, az országhatárt keresztező vezeték, beleértve a hozzá tartozó átalakító- és kapcsolóberendezést;
+21. Határkeresztező vezeték: az átviteli hálózat részét képező, az országhatárt keresztező vezeték, beleértve a hozzá tartozó átalakító- és kapcsolóberendezést;
 
-22. Hálózati engedélyes: az elosztó hálózati engedélyes, valamint hálózati tevékenysége vonatkozásában az átviteli rendszerirányító;
+22. Hálózati engedélyes: az átviteli rendszerirányító és az elosztó;
 
 23. Hasznos hő: a kapcsoltan termelt energia előállítása során valamely, gazdaságilag indokolt hő- vagy hűtési igény kielégítése érdekében megtermelt hő;
 
-24. Háztartási méretű kiserőmű: olyan, a kisfeszültségű hálózatra csatlakozó kiserőmű, melynek csatlakozási teljesítménye nem haladja meg az 50 kVA-t;
+24. Háztartási méretű kiserőmű: olyan, a kisfeszültségű hálózatra csatlakozó kiserőmű, melynek csatlakozási teljesítménye egy csatlakozási ponton nem haladja meg az 50 kVA-t;
 
-25. Horizontálisan integrált villamosenergia-ipari vállalkozás: olyan villamosenergia-ipari vállalkozás, amely e törvény rendelkezései szerint engedélyköteles tevékenységek közül legalább egy villamosenergia-ipari tevékenységre rendelkezik engedéllyel és más, nem villamosenergia-ipari tevékenységet is folytat;
+25. Horizontálisan integrált villamosenergia-ipari vállalkozás: olyan villamosenergia-ipari vállalkozás, amely e törvény rendelkezései szerint engedélyköteles tevékenységek közül legalább egy tevékenység végzésére rendelkezik engedéllyel és más tevékenységet is folytat;
 
 26. Hulladékból nyert energia: hulladéknak – a környezetvédelmi és hulladékgazdálkodási előírások betartása mellett – tüzelőanyagként történő felhasználása során nyert energia;
 
@@ -60,7 +64,9 @@
 
 27a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat;
 
-28. Kapcsolt bizonyítvány: a gazdaságilag indokolt hő- vagy hűtési igény kielégítésére szolgáló, nagy hatékonysággal kapcsoltan termelt villamos energia mennyiségét igazoló, származási igazoláson alapuló forgalomképes okirat;
+28. Kapcsolt bizonyítvány: olyan forgalomképes okirat, amely igazolja a gazdaságilag indokolt hő- vagy hűtési igény kielégítésére szolgáló, nagy hatékonysággal kapcsoltan termelt villamos energia mennyiségét a kapcsoltan termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
+
+28a. Kapcsolt vállalkozás: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 3. § (2) bekezdésének 7. pontja szerinti kapcsolt vállalkozás;
 
 29. Kapcsoltan termelt energia: azonos technológiai folyamatban egyidejűleg termelt mechanikai, hő- és villamos energia;
 
@@ -68,7 +74,7 @@
 
 31. Kiegyenlítő energia: az átviteli rendszerirányító által a pozitív, vagy negatív irányú menetrendi eltérést kiegyenlítő szabályozás során a mérlegkör-felelősökkel elszámolt villamos energia;
 
-32. Kiserőmű: 50 MW-nál kisebb teljesítőképességű erőmű;
+32. Kiserőmű: 50 MW-nál kisebb névleges teljesítőképességű erőmű;
 
 33. Kiserőművi összevont engedély: az engedélyköteles kiserőmű létesítésére és villamosenergia-termelésére vonatkozó engedély;
 
@@ -78,7 +84,7 @@
 
 36. Közcélú hálózat: olyan átviteli vagy elosztó hálózat, amely szükséges a villamosenergia-rendszer biztonságos és hatékony működéséhez;
 
-37. Középfeszültségű hálózat: az 1 kV-nál nagyobb és legfeljebb 35 kV névleges feszültségű hálózat;
+37.
 
 38. Közvetlen vezeték: közcélúnak, magán-, illetve termelői vezetéknek nem minősülő, országhatárt nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely természetes személyt, gazdálkodó szervezetet, illetőleg ezek csoportját oly módon köt össze erőművel, hogy a közvetlen vezetéken keresztül ellátott vételező és az erőmű legfeljebb az erőmű hálózati berendezésein keresztül csatlakozik a közcélú hálózathoz;
 
@@ -94,9 +100,11 @@ c) a kizárólag a közvilágítás villamos energia ellátását szolgáló vez
 
 d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztosító vezérlő rendszer. Több célú vezérlési rendszer esetén azonban annak csak kizárólag a közvilágítás célját szolgáló része;
 
-41. Közvilágítási elosztó hálózat: a közvilágítás villamos energia ellátását biztosító kapcsolható, illetve szabályozható hálózat;
+41. Közvilágítási elosztó hálózat: az elosztó hálózat részének nem minősülő, az elosztó tulajdonában lévő, a közvilágítás villamos energia ellátását biztosító kapcsolható, illetve szabályozható hálózat;
 
 42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, lakás céljára használt lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
+
+42a. Leágazási pont: az átviteli vagy az elosztó hálózat azon pontja, amelyen keresztül a csatlakozóberendezés részét képező csatlakozó vezeték e hálózathoz kapcsolódik;
 
 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 
@@ -104,21 +112,25 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
 
+45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
+
 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 
-47. Nagyfeszültségű hálózat: 35 kV-nál nagyobb névleges feszültségű hálózat;
+47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyar Köztársaságra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 
-48. Összekapcsolt villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik a Magyar Köztársaság (a továbbiakban: ország) területén működik;
+48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik a Magyar Köztársaság (a továbbiakban: ország) területén működik;
 
-49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó hálózati engedélyes tulajdonában álló méretlen szakasza, amely a magánvezetéket, vagy ennek hiányában a csatlakozási pontot a felhasználói berendezéssel köti össze;
+49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
-50. Rendszerhasználó: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki (amely) a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül, vagy közvetve kapcsolódik;
+49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
 
-51. Rendszerirányítás: a villamosenergia-rendszer üzemvitelének, karbantartásának, fejlesztésének – beleértve a hálózatok egységes kezelését – a rendszerszintű szolgáltatások, nemzetközi összeköttetések rendelkezésre állásának, erőművek működtetésének biztonságát, szabályosságát, minőségét, környezetkímélő voltát szolgáló célirányos tevékenységek összessége;
+50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik;
+
+51. Rendszerirányítás: a villamosenergia-rendszer zavartalan és biztonságos működtetését és a teljesítmény egyensúlyának biztosítását, valamint a nemzetközi összeköttetések rendelkezésre állását szolgáló célirányos tevékenységek összessége;
 
 52. Rendszerösszekötő vezeték: az átviteli hálózat részét képező határkeresztező vezeték, amely együttműködő villamosenergia-rendszerek hálózatait köti össze;
 
-53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának biztosítása és az átvitel megfelelő minőségének fenntartása érdekében nyújtott szolgáltatások összessége;
+53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében biztosított szolgáltatások összessége;
 
 54. Szélerőmű: olyan erőmű, amely a villamos energiát szélenergia felhasználásával termeli;
 
@@ -134,13 +146,13 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 60. Termelői vezeték: közcélú hálózat részének, magánvezetéknek, illetve közvetlen vezetéknek nem minősülő vezeték, hálózati elem, illetőleg átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el;
 
-61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül, ellenérték fejében történő továbbítása vételezők részére;
+61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
 
 62. Üzemi hiba: azon nem tervezett üzemi esemény, amely a villamosenergia-termelés, -átvitel vagy -elosztás tervszerű üzemmenetében nem szándékolt változást eredményez;
 
 63. Üzletszabályzat: az engedélyes általános szerződési feltételeit tartalmazó, a Hivatal által jóváhagyott szabályzat;
 
-64. Vállalkozás: jogi személyiséggel rendelkező gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe;
+64.
 
 65. Vertikálisan integrált villamosenergia-ipari vállalkozás: olyan villamosenergia-ipari vállalkozás vagy vállalkozások csoportja, amelynek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a villamosenergia-ipari vállalkozás vagy vállalkozások csoportja az átviteli rendszerirányítási vagy elosztási tevékenységek mellett egyidejűleg a termelési vagy kereskedelmi tevékenységek közül legalább az egyiket végzi, vagy ezek egyikére vonatkozó engedéllyel rendelkezik. A vertikálisan integrált villamosenergia-ipari vállalkozás részének minősül az említett villamosenergia-ipari vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek;
 
@@ -156,6 +168,6 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 
-72. Zöld bizonyítvány: a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia mennyiségét igazoló, származási igazoláson alapuló forgalomképes okirat.
+72. Zöld bizonyítvány: olyan forgalomképes okirat, amely igazolja a megújuló energiaforrásból nyert energiával előállított villamos energia mennyiségét a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
 
 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.

@@ -7,3 +7,7 @@
 (3) Az erőműlétesítési-engedély határozott ideig hatályos. A Hivatal az engedélyt – kérelemre – egyszer, a létesítési engedéllyel azonos időtartamra, de legfeljebb további két évre meghosszabbíthatja.
 
 (4) A Hivatal az erőműlétesítési-engedélyt – kérelemre – módosíthatja.
+
+(5) Amennyiben az ügyfél a Hivatal hatáskörébe tartozó a Tszt. szerint engedélyköteles tevékenységet is folytatni kíván, akkor a létesítési engedély iránti kérelmével egyidejűleg köteles kérelmezni a Tszt. szerinti távhőtermelői létesítési engedélyt is.
+
+(6) Az (5) bekezdés szerinti esetben a Hivatal a létesítési engedélyt és a Tszt. szerinti távhőtermelői létesítési engedélyt egy engedélyben adja ki.

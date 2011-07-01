@@ -12,7 +12,7 @@
 
 (6) Az Energetikai Állandó Választottbíróság jogi személy. Székhelye Budapest.
 
-(7) Az Energetikai Állandó Választottbíróság jogi személyiségét alapító okiratának a Hivatal hivatalos lapjában történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el az Energetikai Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
+(7) Az Energetikai Állandó Választottbíróság jogi személyiségét alapító okiratának a Hivatalos Értesítőben történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el az Energetikai Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
 
 (8) Az Energetikai Állandó Választottbíróság egyeztető eljárás lefolytatására is jogosult a közvetítői tevékenységről szóló 2002. évi LV. törvény szabályainak megfelelően.
 

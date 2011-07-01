@@ -4,6 +4,6 @@
 
 (3) A hálózati engedélyesnek az átviteli, illetve elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható. Az átviteli rendszerirányító és az elosztó hálózati engedélyes a műszaki lehetőségek fennállása esetén köteles egy másik csatlakozási pontot felajánlani, ahol a csatlakozás biztosítható.
 
-(4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A határozatban rendelkezni kell a csatlakozási díj mértékéről is.
+(4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
-(5) A külön jogszabályban előírt feltételek szerint megvalósuló csatlakozás esetén a rendszerhasználó megfizeti a jogszabályban meghatározott csatlakozási díjat.
+(5) A külön Hivatal határozatában előírt feltételek szerint megvalósuló csatlakozás esetén a rendszerhasználó megfizeti a Hivatal határozatában meghatározott csatlakozási díjat.

@@ -2,7 +2,7 @@
 
 163. § (1) A Hivatal a lakossági fogyasztók érdekeinek érvényesítése érdekében a vezetékes energetikai rendszerekre vonatkozó jogszabályok alkalmazása, illetve feladatai ellátása során a fogyasztóvédelmi hatósággal együttműködik.
 
-(2) A Hivatal és a fogyasztóvédelmi hatóság az együttműködésük részletes szabályaira vonatkozóan – évente felülvizsgálatra kerülő – megállapodást köt. A megállapodást a Hivatal és a fogyasztóvédelmi hatóság a nyilvánosság számára hozzáférhetővé teszi.
+(2) A Hivatal és a fogyasztóvédelmi hatóság az együttműködésük részletes szabályaira vonatkozóan – a két hatóság együttműködését érintő jogszabályváltozás esetén, de legalább évente felülvizsgálatra kerülő – megállapodást köt. A megállapodást a Hivatal és a fogyasztóvédelmi hatóság a nyilvánosság számára hozzáférhetővé teszi.
 
 (3) A Hivatal együttműködik a felhasználói érdekek képviseletét ellátó társadalmi szervezetekkel,
 

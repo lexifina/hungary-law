@@ -6,7 +6,7 @@ b) az e törvényben vagy külön jogszabályban meghatározott átvételi áron
 
 (2) Az (1) bekezdés b) pontja szerinti, átvételi kötelezettség alá eső villamos energia átvételi árát – a 171. § (3)–(4) bekezdéseivel összhangban – Ft/kWh egységben kell megállapítani.
 
-(3) Az átvételi kötelezettség alá eső villamos energia átvételi árát, az átvétel feltételeit és módját a Kormány rendeletben állapítja meg. Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát a jogszabályban meghatározott feltételek szerint a Hivatal állapítja meg. Az átvételi kötelezettség alá eső villamos energia átvételi árát – a (2) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint a kapcsoltan termelt hő felhasználási céljától függően és az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
+(3) Az átvételi kötelezettség alá eső villamos energia átvételi árát, az átvétel feltételeit és módját a Kormány rendeletben állapítja meg. Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát a jogszabályban meghatározott feltételek szerint a Hivatal állapítja meg. Az átvételi kötelezettség alá eső villamos energia átvételi árát – a (2) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
 
 (4) Az (1) bekezdés b) pontja szerinti kötelező átvétel legfeljebb az adott beruházásnak az adott átvételi ár melletti megtérülési idejére biztosítható.
 

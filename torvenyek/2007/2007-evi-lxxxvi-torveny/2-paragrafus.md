@@ -4,7 +4,7 @@
 
 a) a villamos energia termelésére, átvitelére, elosztására, kereskedelmére, fogyasztására, továbbadására,
 
-b) a villamosenergia-rendszer irányítására, rendszerszintű szolgáltatásaira,
+b) a villamosenergia-rendszer irányítására,
 
 c) a villamosmű, az összekötő és a felhasználói berendezés, valamint a termelői vezeték, magánvezeték és a közvetlen vezeték építésére, üzemeltetésére, használatbavételére, fennmaradására és megszüntetésére,
 

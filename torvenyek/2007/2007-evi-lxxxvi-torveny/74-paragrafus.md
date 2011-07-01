@@ -34,4 +34,4 @@ c) a felhasználó tulajdonában álló magánvezeték a felhasználó vagy a fe
 
 d) 2005. november 25. előtt fogyasztói vezetékként létesült.
 
-(3) A termelői vezetékre az e törvényben foglalt kivételekkel a közvetlen vezeték létesítésének és megszüntetésének a szabályait megfelelően kell alkalmazni azzal az eltéréssel, hogy nem engedélyköteles a tevékenység, amennyiben a vezeték kizárólag az erőműnek, erőművek csoportjának, illetőleg saját létesítményének az átviteli vagy elosztó hálózathoz való csatlakozására szolgál, arról más vételező ellátása nem történik.
+(3) A távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) szerint engedélyköteles tevékenységre vonatkozó határozatlan időre szóló engedély, valamint az e törvény szerint határozott időre szóló engedélyek egy engedélyben történő kiadása esetén az e törvény szerinti engedély meghosszabbítására irányuló eljárás az engedély Tszt. szerinti tevékenységre vonatkozó részeinek hatályát nem érinti.

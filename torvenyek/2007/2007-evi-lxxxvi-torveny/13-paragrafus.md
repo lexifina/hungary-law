@@ -8,4 +8,4 @@
 
 1. CÍM
 
-Az átviteli rendszerirányító feladatai
+Az átviteli rendszerirányítás

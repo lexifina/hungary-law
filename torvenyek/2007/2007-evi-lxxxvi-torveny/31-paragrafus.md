@@ -2,9 +2,9 @@
 
 a) a működési engedélyben meghatározott elosztó hálózat irányítása és üzemvitele biztonságának biztosítása,
 
-b) a villamos energia elosztó hálózatokon keresztül történő továbbítása, az üzemi szabályzatban meghatározott mennyiségi elszámolásainak elkészítése,
+b) a villamos energia elosztó hálózatokon keresztül történő továbbítása, a villamosenergia-ellátási szabályzatokban meghatározott mennyiségi elszámolásainak elkészítése,
 
-c) kétévente hálózat fejlesztési terv készítése és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
+c) évente hálózat fejlesztési terv készítése és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
 
 d) a működési engedélyben meghatározott elosztó hálózat működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges, az üzemi és elosztói szabályzatban meghatározott információk összegyűjtése és szolgáltatása az átviteli rendszerirányítóval együttműködve,
 
@@ -14,4 +14,6 @@ f) az e törvény alapján védendő felhasználókkal kapcsolatos, külön jogs
 
 g) a mérési, leolvasási és számlázási rendszerek fejlesztéséről a működési engedélyben meghatározott időszakonként beszámoló készítése, illetve a számlázási rendszer lényeges megváltoztatása előtt a Hivatallal történő egyeztetés,
 
-h) ügyfélszolgálatok működtetése telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben.
+h) állandó ügyfélszolgálati irodák működtetése telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben a működési területén lévő megyeszékhelyen és megyei jogú városban, vagy, ha a működési területén ilyen város nincs, az ellátotti települések közül a legtöbb felhasználóval rendelkező településen, és
+
+i) az elosztó hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása a rendszerhasználók részére.

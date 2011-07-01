@@ -6,7 +6,7 @@ b) az élet- és vagyonbiztonság veszélyeztetése,
 
 c) a szükséges hálózati kapacitások, az erőművi teljesítmények, illetőleg a határon keresztül szállított villamos energia hiánya,
 
-d) az összekapcsolt villamosenergia-rendszer, illetve a villamosenergia-rendszer üzemzavara,
+d) az együttműködő villamosenergia-rendszer, illetve a villamosenergia-rendszer üzemzavara,
 
 e) a rendszerszintű szolgáltatások biztosításának vagy a rendszer szabályozhatóságának veszélybe kerülése,
 
@@ -16,7 +16,7 @@ g) a villamos energia beszállítása a megújuló energiaforrások, a hulladék
 
 h) más módon el nem végezhető karbantartási és felújítási munkák, valamint kapcsolások érdekében.
 
-(2) Az elosztó hálózati engedélyes a külön jogszabályban meghatározott feltételek szerint az átviteli hálózat üzemét nem befolyásoló elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül a külön jogszabályban meghatározott feltételek szerint megtagadhatja, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti, előre fizető mérő felszereléséhez kötheti. A megtagadásra, korlátozásra, csökkentésre, szünetelésre, előre fizető mérő felszereléséhez kötésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
+(2) Az elosztó hálózati engedélyes a külön jogszabályban meghatározott feltételek szerint az átviteli hálózat üzemét nem befolyásoló elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül a külön jogszabályban meghatározott feltételek szerint megtagadhatja, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, vagy szüneteltetheti. A megtagadásra, korlátozásra, csökkentésre, és szünetelésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
 
 a) rendkívüli hálózati állapotok,
 
@@ -28,9 +28,9 @@ d) a villamosenergia-rendszer üzemzavara esetén,
 
 e) más módon el nem végezhető munkák és kapcsolások érdekében,
 
-f) szerződés nélküli vételezés esetén,
+f) hálózati csatlakozási, hálózathasználati vagy villamosenergia-vásárlási szerződés nélküli vételezés esetén,
 
-g) szerződésszegő vételezés esetén az üzletszabályzatban meghatározott előzetes egyeztetést követően, azzal, hogy lakossági fogyasztó villamosenergia-ellátásból történő kikapcsolására, valamint a tartozását rendező lakossági fogyasztó ellátásba történő ismételt bekapcsolására a kikapcsolás és ismételt bekapcsolás villamosenergia-kereskedő általi kezdeményezésére vonatkozóan a 47. § (7)–(9) bekezdéseinek előírásai az elosztó hálózati engedélyes eljárására megfelelően alkalmazandók.
+g) szerződésszegő vételezés esetén az üzletszabályzatban meghatározott előzetes egyeztetést követően, azzal, hogy lakossági fogyasztó villamosenergia-ellátásból történő kikapcsolására, valamint a tartozását rendező lakossági fogyasztó ellátásba történő ismételt bekapcsolására a kikapcsolás és ismételt bekapcsolás villamosenergia-kereskedő általi kezdeményezésére vonatkozóan a 47. § (7)–(9) bekezdéseinek előírásai az elosztó hálózati engedélyes eljárására megfelelően alkalmazandók, vagy
 
 (3) Az elosztó hálózati engedélyesek az elosztó hálózat üzemét az átviteli rendszerirányító utasítása, illetve előzetes hozzájárulása alapján korlátozhatják, szüneteltethetik a villamosenergia-ellátási szabályzatokban meghatározott eljárásrend alapján.
 
@@ -42,4 +42,4 @@ g) szerződésszegő vételezés esetén az üzletszabályzatban meghatározott 
 
 (7) Az átviteli és az elosztó hálózathoz való hozzáférés megtagadásának, illetve az átvitel és az elosztás korlátozásának, szüneteltetésének részletes szabályait a villamosenergia-ellátási szabályzatok határozzák meg.
 
-(8) A Hivatal a rendszerhasználó kérelmére felülvizsgálja, hogy a megtagadás (1) és (2) bekezdésben meghatározott feltételei fennálltak-e. Amennyiben a Hivatal a megtagadás feltételeinek hiányát állapítja meg, az érintett hálózati engedélyest határozatban kötelezi az átviteli és elosztó hálózathoz való hozzáférés biztosítására.
+(8) A Hivatal a rendszerhasználó kérelmére felülvizsgálja, hogy a megtagadás (1) és (2) bekezdésben meghatározott feltételei fennálltak-e. Amennyiben a Hivatal a megtagadás feltételeinek hiányát állapítja meg, az érintett hálózati engedélyest határozatban kötelezi az átviteli vagy elosztó hálózathoz való hozzáférés biztosítására.

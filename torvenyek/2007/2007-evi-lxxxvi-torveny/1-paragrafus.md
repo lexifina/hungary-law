@@ -16,7 +16,7 @@ d) a felhasználók biztonságos, zavartalan, megfelelő minőségű és átlát
 
 e) a felhasználók érdekeinek hatékony védelme,
 
-f) a magyar villamosenergia-piac integrációja az Európai Közösség egységesülő villamos energia piacaiba, különös tekintettel a transz-európai hálózatok létrehozására és fejlesztésére, valamint a villamosenergia-rendszer együttműködési képességének ösztönzésére,
+f) a magyar villamosenergia-piac integrációja az Európai Unió egységesülő villamos energia piacaiba, különös tekintettel a transz-európai hálózatok létrehozására és fejlesztésére, valamint a villamosenergia-rendszer együttműködési képességének ösztönzésére,
 
 g) új termelő kapacitások és új hálózati infrastruktúra létesítésének, a villamosenergia-piacra új szereplőként belépők megjelenésének az elősegítése,
 

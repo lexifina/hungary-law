@@ -32,4 +32,4 @@ meghatározott szerződésszegés esetén.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül általuk tervezett változtatásokat is.
 
-(8) A felhasználót ellátó villamosenergia-kereskedő, vagy termelő személyének megváltozása esetén ezzel összefüggésben a felhasználótól díj megfizetése nem kérhető.
+(8)

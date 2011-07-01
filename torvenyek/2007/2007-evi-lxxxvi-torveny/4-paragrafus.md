@@ -4,9 +4,9 @@
 
 ## Termelés
 
-4. § (1) Villamos energiát termelni 50 MW vagy azt meghaladó teljesítőképességű erőműben termelői működési engedély, 0,5 MW vagy annál nagyobb teljesítőképességű kiserőműben kiserőművi összevont engedély birtokában lehet.
+4. § (1) Villamos energiát termelni 50 MW vagy azt meghaladó névleges teljesítőképességű erőműben termelői működési engedély, 0,5 MW vagy annál nagyobb névleges teljesítőképességű kiserőműben kiserőművi összevont engedély birtokában lehet.
 
-(2) A termelő az (1) bekezdésben meghatározott engedélye alapján
+(2) A termelő – az (1) bekezdésben meghatározott esetben engedélye alapján –
 
 a) a saját maga által termelt villamos energiát,
 

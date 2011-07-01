@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2011-03-30 | 2011. évi XXIX. törvény | 2007-86-00-00.18 |
 | 2011-04-15 | 2011. évi XXIX. törvény | 2007-86-00-00.19 |
 | 2011-06-11 | 2011. évi LIX. törvény | 2007-86-00-00.20 |
+| 2011-07-01 | 2011. évi XXIX. törvény | 2007-86-00-00.21 |

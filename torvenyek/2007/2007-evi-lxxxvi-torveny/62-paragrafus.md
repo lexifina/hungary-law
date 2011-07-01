@@ -26,9 +26,15 @@ b) a módosítást az ügyfélszolgálati irodákban és a honlapján közzéten
 
 c) az érintett felhasználókat a tervezett módosítás tartalmáról, valamint a szerződés felmondásának lehetőségéről írásban értesíteni.
 
-(3) Az árváltozás felhasználóknak történő bejelentésére a 143. § (5) és (6) bekezdésében foglaltak irányadók az egyetemes szolgáltatásra jogosult felhasználókkal szemben, akkor is, ha nem egyetemes szolgáltatótól, hanem villamosenergia-kereskedőtől vásárolnak villamos energiát.
+(3) Az árváltozás felhasználóknak történő bejelentésére a 143/A. § (2)–(3) bekezdésében foglaltak irányadók az egyetemes szolgáltatásra jogosult felhasználókkal szemben, akkor is, ha nem egyetemes szolgáltatótól, hanem villamosenergia-kereskedőtől vásárolnak villamos energiát.
 
-(4) Az egyetemes szolgáltatásra jogosult felhasználó a villamosenergia-vásárlási szerződést harminc napos felmondási idővel felmondhatja. A villamosenergia-vásárlási szerződésben a felek az egyetemes szolgáltatásra jogosult felhasználóra nézve kedvezőbb felmondási feltételekben is megállapodhatnak. Az egyetemes szolgáltatásra jogosult felhasználó felmondási jogát korlátozó vagy kizáró szerződési kikötés semmis.
+(4) Az egyetemes szolgáltatásra jogosult felhasználó a nem határozott időtartamra kötött villamosenergia-vásárlási szerződést 30 napos felmondási idővel, írásban felmondhatja. Az egyetemes szolgáltatásra jogosult felhasználó felmondási jogát időben korlátozó vagy kizáró szerződési kikötés semmis.
+
+(4a) Amennyiben az egyetemes szolgáltatásra jogosult nem lakossági felhasználó villamosenergia-kereskedővel kötött villamosenergia-vásárlási szerződése megszűnését követően ismét egyetemes szolgáltatást kíván igénybe venni, az egyetemes szolgáltató jogosult a felhasználótól a villamosenergia-kereskedő arra vonatkozó igazolását kérni, hogy az egyetemes szolgáltatásra jogosult nem lakossági felhasználó villamosenergia-vásárlási szerződése nem a nemfizetésből eredő kikapcsolás miatt szűnt meg.
+
+(4b) A villamosenergia-kereskedő köteles a feltételek fennállása esetén a (4a) bekezdés szerinti igazolást az egyetemes szolgáltatásra jogosult nem lakossági felhasználó kérésére kiadni.
+
+(4c) Amennyiben a villamosenergia-kereskedő az igazolást azért nem adta ki, mert az egyetemes szolgáltatásra jogosult nem lakossági felhasználó kötött szerződése nemfizetésből eredő kikapcsolás miatt szűnt meg, az egyetemes szolgáltató jogosult a villamosenergia-vásárlási szerződés megkötésének feltételeként pénzügyi biztosítékot kérni, amelynek összegét a Vhr. tartalmazza.
 
 (5) A villamosenergia-kereskedő részéről szerződésszegésnek minősül különösen, ha
 
