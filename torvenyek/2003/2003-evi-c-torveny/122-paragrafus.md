@@ -4,7 +4,7 @@
 
 (3) A Kassza saját tőkéje nem osztható fel, saját vagyona, bevételei és jövedelme után sem társasági adó, sem helyi adó, sem illeték fizetésére nem kötelezhető, pénzeszközei nem vonhatók el, és a (7) bekezdésben meghatározottól eltérő célra nem használhatók fel. A Kasszához történő be- és kifizetések után áfafizetési kötelezettség nem keletkezik.
 
-(4) A Kassza pénzügyi-számviteli ellenőrzését az Állami Számvevőszék végzi.
+(4)
 
 (5)–(6)
 

@@ -34,6 +34,6 @@ d) egyéb bevételek.
 
 (9) Szabad pénzeszközét a Hírközlési Állandó Választottbíróság kizárólag állampapírba fektetheti. A Hírközlési Állandó Választottbíróság ingatlant kizárólag székhelyének megvásárlása céljából szerezhet.
 
-(10) A Hírközlési Állandó Választottbíróság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(10)
 
 (11) A Hírközlési Állandó Választottbíróság beszámolókészítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
