@@ -1,0 +1,3 @@
+10. § (1) Ha az üzemanyag-forgalmazó töltőállomásán a 9. § (1) bekezdés a) pontja szerinti motorbenzint, bioüzemanyagot vagy olyan üzemanyagot forgalmaz, amelyben a hozzákevert bioüzemanyag a 10 térfogatszázalékot meghaladja, akkor köteles tájékoztatást adni a töltőállomás adott kútoszlopán a motorhajtóanyag megnevezéséről és bioüzemanyag-tartalmáról, különös tekintettel a zsírsav-metil-észter (FAME) tartalomra.
+
+(2) Az üzemanyag-forgalmazó gépjárműtípusonként – szükség esetén évjáratonként – tájékoztatást ad arról, hogy az (1) bekezdés szerinti motorhajtóanyag melyik gépjárművekben alkalmazható és melyek annak a környezetre, valamint a gépjármű üzemeltetésére gyakorolt hatásai.
