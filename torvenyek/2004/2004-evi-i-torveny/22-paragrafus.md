@@ -26,6 +26,22 @@ c) a versenyszabályzatot, illetve a sportág egyéb szabályzatait megszegő ve
 
 d) érvényesíti a doppingtilalmat,
 
-e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket.
+e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket,
 
-(3) A sportág céljainak elérése érdekében a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
+f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
+
+fa) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
+
+fb) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+
+fc) kezdeményezi a sportigazgatási szervnél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
+
+fd) az fa)–fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportigazgatási szervvel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportigazgatási szervet az általa kiadott támogatási igazolásokról,
+
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
+
+(4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+
+(5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(6) A sportág céljainak elérése érdekében a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.

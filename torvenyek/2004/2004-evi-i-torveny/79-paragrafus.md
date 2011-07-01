@@ -39,3 +39,5 @@ b) a hazai rendezésű sport világesemények állami támogatására és rendez
 (4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.
+
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.

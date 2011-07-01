@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2010-12-31 | 2009. évi CIX. törvény | 2004-1-00-00.18 |
 | 2011-01-01 | 2010. évi LXXXIII. törvény | 2004-1-00-00.19 |
 | 2011-06-01 | 2011. évi LIV. törvény | 2004-1-00-00.20 |
+| 2011-07-01 | 2011. évi LXXXII. törvény | 2004-1-00-00.21 |
