@@ -1,3 +1,0 @@
-18. § (1) Az Állami Számvevőszék elnöke az év során végzett ellenőrzésekről jelentésben tájékoztatja az Országgyűlést. A jelentést nyilvánosságra kell hozni. A nyilvánosságra hozott jelentés nem tartalmazhat minősített adatot, valamint törvény által védett egyéb titkot. A vizsgált magánszemély, jogi személy, gazdálkodó szervezet vagy költségvetési szerv felelős vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata közérdekből nyilvános adat és a jelentésben nyilvánosságra hozható, illetőleg egyéb módon hozzáférhetővé tehető.
-
-(2) Az Állami Számvevőszék elnöke a zárszámadás ellenőrzéséről készült jelentést a zárszámadással együtt terjeszti az Országgyűlés elé.

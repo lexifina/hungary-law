@@ -1,1 +1,0 @@
-22/A. § Az Állami Számvevőszék az ellenőrzés során a 2. § (9) bekezdésében megjelölt szerződő feleknél, továbbá a szerződés teljesítésében közreműködő gazdálkodó szervezetnél a 22. §-ban meghatározott intézkedéseket nem alkalmazhatja.
