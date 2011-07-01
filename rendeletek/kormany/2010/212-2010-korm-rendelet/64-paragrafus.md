@@ -54,11 +54,15 @@ d) a sport eszközrendszerén keresztül a társadalom megújításának segít�
 
 összefüggő kormányzati teendők ellátásában.
 
-(3) A miniszter – a (4) bekezdésben foglalt kivétellel – ellátja a sportigazgatási szerv feladatait.
+(3)[^174] A miniszter – a (4)–(5) bekezdésben foglalt kivétellel – ellátja a sportigazgatási szerv feladatait.
 
-(4)[^174] A sportról szóló 2004. évi I. törvény 64. § (1) bekezdése szerinti olimpiai központok vagyonkezelése tekintetében a sportigazgatási szerv feladatait a Nemzeti Sportközpontok látja el.
+(4)[^175] A sportról szóló 2004. évi I. törvény 64. § (1) bekezdése szerinti olimpiai központok vagyonkezelése tekintetében a sportigazgatási szerv feladatait a Nemzeti Sportközpontok látja el.
+
+(5)[^176] A sportról szóló 2004. évi I. törvény 51. § (2) bekezdés g) pontja szerinti látvány-csapatsportok támogatásával összefüggő közigazgatási hatósági és szolgáltatási feladatok tekintetében a sportigazgatási szerv feladatait a Nemzeti Sport Intézet látja el.
 
 [^171]: A 64. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^172]: A 64. § (1) bekezdés p) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^173]: A 64. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (41) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^174]: A 64. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 19. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^174]: A 64. § (3) bekezdése a 107/2011. (VI. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^175]: A 64. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 19. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^176]: A 64. § (5) bekezdését a 107/2011. (VI. 30.) Korm. rendelet 16. § (5) bekezdése iktatta be.

@@ -90,7 +90,7 @@ d) ellátja a közfoglalkoztatás-politika koordinációjával kapcsolatos felad
 
 e) gondoskodik a közfoglalkoztatási koncepció végrehajtásáról, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését,
 
-f)[^127]
+f)[^127] irányítja a munkaügyi központok és kirendeltségeik közfoglalkoztatási feladatainak ellátását.
 
 (6) A miniszter továbbá
 
@@ -127,7 +127,7 @@ i) működteti az Országos Bűnmegelőzési Bizottságot.
 [^124]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^125]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^126]: A 40. § (5a) bekezdését a 90/2011. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
-[^127]: A 40. § (5a) bekezdés f) pontja a 90/2011. (VI. 14.) Korm. rendelet 4. § (2) bekezdés a) pontja alapján 2011. július 1-jén lép hatályba.
+[^127]: A 40. § (5a) bekezdés f) pontja a 90/2011. (VI. 14.) Korm. rendelet 4. § (2) bekezdés a) pontja alapján 2011. július 1-jén lépett hatályba.
 [^128]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^129]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^130]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

@@ -1,4 +1,4 @@
-75. § (1)[^216] A miniszter a gazdaságpolitikáért, valamint a gazdaságpolitika makrogazdasági szabályozásáért való felelősségi körében
+75. § (1)[^218] A miniszter a gazdaságpolitikáért, valamint a gazdaságpolitika makrogazdasági szabályozásáért való felelősségi körében
 
 a) javaslatot készít a Kormány gazdaságpolitikai céljaira, a gazdaságpolitikai programok végrehajtására és az ezek megvalósításához szükséges eszközökre,
 
@@ -12,15 +12,15 @@ e) javaslatot és programokat dolgoz ki a lemaradó térségek gazdasági felzá
 
 f) gondoskodik a versenyképesség feltételeinek megteremtéséről,
 
-g)[^217] kidolgozza és képviseli a Kormány álláspontját az a)–f) pontokban érintett területeken az Európai Unió intézményeiben,
+g)[^219] kidolgozza és képviseli a Kormány álláspontját az a)–f) pontokban érintett területeken az Európai Unió intézményeiben,
 
 h) kidolgozza a gazdasági versenyképesség szociális piacgazdasági alapú javításával, a mikro-, kis- és középvállalkozásokkal, fejlődésük támogatásával, a gazdasági kamarákkal, a beruházások ösztönzésével és a nemzeti akkreditálással kapcsolatos jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-i)[^218]
+i)[^220]
 
 j) képviseli a Kormányt a Monetáris Tanács ülésein.
 
-(2)[^219] A miniszter az államháztartásért való felelősségi körében
+(2)[^221] A miniszter az államháztartásért való felelősségi körében
 
 a) felelős az államháztartás összessége tekintetében a fiskális fegyelem fenntartásáért, a költségvetési törvénynek való megfelelés biztosításáért, a költségvetési kiadási fegyelem érvényesítéséért,
 
@@ -36,7 +36,7 @@ f) gondoskodik az állami pénzügyi intézkedéseknek és a költségvetési ja
 
 g) felel a hazai és közösségi közpénzek felhasználásának költségvetési, gazdálkodási, elszámolási szabályainak kialakításáért,
 
-h)[^220] előkészíti különösen az államháztartásról, a központi költségvetésről, a zárszámadásról, a társadalombiztosítás pénzügyi alapjai költségvetéséről és zárszámadásáról, az elkülönített állami pénzalapok költségvetéséről és zárszámadásáról, a helyi és kisebbségi önkormányzatok gazdálkodásáról, a részükre nyújtandó támogatásokról, az államháztartási belső ellenőrzési rendszerekről, a társadalmi szervezetek gazdálkodási rendjéről, az állami beruházások finanszírozásának és pénzügyi lebonyolításának rendjéről, valamint a szerencsejátékról szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
+h)[^222] előkészíti különösen az államháztartásról, a központi költségvetésről, a zárszámadásról, a társadalombiztosítás pénzügyi alapjai költségvetéséről és zárszámadásáról, az elkülönített állami pénzalapok költségvetéséről és zárszámadásáról, a helyi és kisebbségi önkormányzatok gazdálkodásáról, a részükre nyújtandó támogatásokról, az államháztartási belső ellenőrzési rendszerekről, a társadalmi szervezetek gazdálkodási rendjéről, az állami beruházások finanszírozásának és pénzügyi lebonyolításának rendjéről, valamint a szerencsejátékról szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
 
 i) közreműködik valamennyi, a közpénzügyeket érintő szabályozás kialakításában,
 
@@ -44,7 +44,7 @@ j) ellátja a társadalombiztosítás pénzügyi alapjai gazdálkodásával, bes
 
 k) javaslatot tesz a helyi önkormányzati forrásszabályozási rendszerre, a saját és átengedett bevételek, a központi költségvetési támogatások arányára, valamint a kiegyenlítő mechanizmusokra; működteti az önhibájukon kívül működési forráshiányos helyi önkormányzatok támogatási és a jövedelemkülönbség mérséklés rendszerét,
 
-l)[^221]
+l)[^223]
 
 m) gondoskodik a tevékenységi körébe tartozó feladatokkal összefüggő statisztikai információs rendszer kialakításáról, működtetéséről és fejlesztéséről, az Európai Unió által előírt statisztikai adatszolgáltatásról, annak ellenőrizhetőségéről, képviseli a minisztériumot a Statisztikai Tanács munkájában,
 
@@ -68,11 +68,11 @@ v) kialakítja a kincstári stratégiát, irányítja a Magyar Államkincstárat
 
 (3) A miniszter az adópolitikáért való felelőssége körében
 
-a)[^222] előkészíti különösen az államháztartás alrendszereit illető befizetési kötelezettségekről (adók, illetékek, vámok, egyéb járulékok, hozzájárulások és egyéb befizetési kötelezettségek; a továbbiakban együtt: adók), a normatív, nem termelési típusú állami támogatásokról, a helyi adókról, az adózás rendjéről, a vámjog és vámeljárás szabályozásáról, a Nemzeti Adó- és Vámhivatal rendészeti feladatainak ellátásáról szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
+a)[^224] előkészíti különösen az államháztartás alrendszereit illető befizetési kötelezettségekről (adók, illetékek, vámok, egyéb járulékok, hozzájárulások és egyéb befizetési kötelezettségek; a továbbiakban együtt: adók), a normatív, nem termelési típusú állami támogatásokról, a helyi adókról, az adózás rendjéről, a vámjog és vámeljárás szabályozásáról, a Nemzeti Adó- és Vámhivatal rendészeti feladatainak ellátásáról szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
 
 b) felelős a központi adók, vámok és járulékok, a társadalombiztosítás pénzügyi alapjait, valamint a Munkaerőpiaci Alapot megillető járulékok és hozzájárulások beszedéséért, azok kiutalásáért, folyósításáért és ellenőrzéséért és az ezekkel kapcsolatos adatszolgáltatásokért
 
-c)[^223] meghatározza a Nemzeti Adó- és Vámhivatal feladatai teljesítésének éves követelményeit,
+c)[^225] meghatározza a Nemzeti Adó- és Vámhivatal feladatai teljesítésének éves követelményeit,
 
 d) koordinálja az adóigazgatás szervezeti rendszere egyes elemeinek együttműködését,
 
@@ -80,21 +80,21 @@ e) felelős az Európai Unióval kiépült vámunióval kapcsolatos, szakmailag 
 
 f) irányítja a nemzetközi szabadkereskedelmi és integrációs feladatokból a vámigazgatásra háruló együttműködési kötelezettségek végrehajtását,
 
-g)[^224] gyakorolja a méltányossági jogkört a Nemzeti Adó- és Vámhivatal vámszerveinek hatáskörébe utalt szabálysértési ügyekben,
+g)[^226] gyakorolja a méltányossági jogkört a Nemzeti Adó- és Vámhivatal vámszerveinek hatáskörébe utalt szabálysértési ügyekben,
 
-h)[^225] felügyeli a Nemzeti Adó- és Vámhivatalt és az önkormányzati adóhatóságokat.
+h)[^227] felügyeli a Nemzeti Adó- és Vámhivatalt és az önkormányzati adóhatóságokat.
 
-(4)[^226] A miniszter a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért, illetve az egészségbiztosítási járulék-fizetés szabályozásáért való felelőssége körében előkészíti különösen:
+(4)[^228] A miniszter a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért, illetve az egészségbiztosítási járulék-fizetés szabályozásáért való felelőssége körében előkészíti különösen:
 
-a)[^227] a nemzeti erőforrás miniszterrel együttesen a társadalombiztosítási nyugellátás fedezetére szolgáló befizetési kötelezettségekről, és a magánnyugdíjpénztárakról,
+a)[^229] a nemzeti erőforrás miniszterrel együttesen a társadalombiztosítási nyugellátás fedezetére szolgáló befizetési kötelezettségekről, és a magánnyugdíjpénztárakról,
 
-b)[^228] a nemzeti erőforrás miniszterrel együttesen az egészségbiztosítás természetbeni és pénzbeli szolgáltatásainak fedezetére szolgáló befizetési kötelezettségekről, továbbá az egészségügyi hozzájárulásról,
+b)[^230] a nemzeti erőforrás miniszterrel együttesen az egészségbiztosítás természetbeni és pénzbeli szolgáltatásainak fedezetére szolgáló befizetési kötelezettségekről, továbbá az egészségügyi hozzájárulásról,
 
-c)[^229] az önkéntes nyugdíjpénztárakról, a foglalkoztatói nyugdíjszolgáltató intézményekről, az önkéntes egészség- és önsegélyező pénztárakról
+c)[^231] az önkéntes nyugdíjpénztárakról, a foglalkoztatói nyugdíjszolgáltató intézményekről, az önkéntes egészség- és önsegélyező pénztárakról
 
 szóló jogszabályokat, valamint e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-(5)[^230] A miniszter a számviteli szabályozásért való felelőssége körében
+(5)[^232] A miniszter a számviteli szabályozásért való felelőssége körében
 
 a) előkészíti különösen a beszámoló készítéséről és a könyvvezetésről, a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
 
@@ -120,18 +120,18 @@ c) kidolgozza a központi költségvetés külföldi követelései leépítésé
 
 d) ellátja a nemzetközi pénzügyi intézményekhez kapcsolódó tagságból, illetve nemzetközi pénzügyi intézményi együttműködésből fakadó feladatokat, kezdeményezi az e szervezetekkel kötendő megállapodások előkészítését, és ha azokból közvetlen állami kötelezettségvállalás keletkezik, megköti azokat.
 
-[^216]: A 75. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (48) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^217]: A 75. § (1) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^218]: A 75. § (1) bekezdés i) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^219]: A 75. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^220]: A 75. § (2) bekezdés h) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (1) bekezdésével megállapított szöveg.
-[^221]: A 75. § (2) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^222]: A 75. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (2) bekezdésével megállapított szöveg.
-[^223]: A 75. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (3) bekezdésével megállapított szöveg.
-[^224]: A 75. § (3) bekezdés g) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (4) bekezdésével megállapított szöveg.
-[^225]: A 75. § (3) bekezdés h) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (5) bekezdésével megállapított szöveg.
-[^226]: A 75. § (4) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (48) bekezdés b) pontja, záró szövegrésze a 40. § (48) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^227]: A 75. § (4) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^228]: A 75. § (3) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) és g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^229]: A 75. § (3) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^230]: A 75. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^218]: A 75. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (48) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^219]: A 75. § (1) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^220]: A 75. § (1) bekezdés i) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^221]: A 75. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^222]: A 75. § (2) bekezdés h) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (1) bekezdésével megállapított szöveg.
+[^223]: A 75. § (2) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^224]: A 75. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (2) bekezdésével megállapított szöveg.
+[^225]: A 75. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (3) bekezdésével megállapított szöveg.
+[^226]: A 75. § (3) bekezdés g) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (4) bekezdésével megállapított szöveg.
+[^227]: A 75. § (3) bekezdés h) pontja a 273/2010. (XII. 9.) Korm. rendelet 137. § (5) bekezdésével megállapított szöveg.
+[^228]: A 75. § (4) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (48) bekezdés b) pontja, záró szövegrésze a 40. § (48) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^229]: A 75. § (4) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^230]: A 75. § (3) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) és g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^231]: A 75. § (3) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^232]: A 75. § (5) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (31) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

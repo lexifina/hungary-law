@@ -34,6 +34,6 @@ m) a 170/2006. (VII. 28.) Korm. rendelet a szociális és munkaügyi miniszter f
 
 n) a 88/2009. (IV. 13.) Korm. rendelet a társadalompolitika összehangolásáért felelős tárca nélküli miniszter feladat- és hatásköréről.
 
-(3)[^343] Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza az integrált üdültetési rendszerhez tartozó üdülők igénybevételének rendjét és hasznosításának szabályait, meghatározza az alkalmazandó üdülési díjak megállapításának a szabályait.
+(3)[^347] Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza az integrált üdültetési rendszerhez tartozó üdülők igénybevételének rendjét és hasznosításának szabályait, meghatározza az alkalmazandó üdülési díjak megállapításának a szabályait.
 
-[^343]: A 121. § (3) bekezdését az 53/2011. (III. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
+[^347]: A 121. § (3) bekezdését az 53/2011. (III. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.

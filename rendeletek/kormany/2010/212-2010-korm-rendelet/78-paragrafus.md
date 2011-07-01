@@ -8,7 +8,7 @@ c) kialakítja a Kormány külgazdasági politikáját,
 
 d) az érintett miniszterekkel együttműködve, a külügyminiszter vonatkozó hatásköreire tekintettel gondoskodik az áruk, szolgáltatások, a személyek és a tőke szabad áramlásával kapcsolatos európai uniós irányelvek magyarországi végrehajtásáról, a magyar álláspont kialakításáról és kidolgozásáról, valamint képviseli azokat az Európai Unió feladatkörrel rendelkező intézményeiben,
 
-e)[^234] felel a külgazdasági diplomata hálózat szakmai irányításáért, irányítja az OECD melletti Magyar Állandó Képviseletet, javaslatot tesz a képviseletet vezető nagykövet kinevezésére, felmentésére, kezdeményezi a szakdiplomaták kinevezését, felmentését,
+e)[^236] felel a külgazdasági diplomata hálózat szakmai irányításáért, irányítja az OECD melletti Magyar Állandó Képviseletet, javaslatot tesz a képviseletet vezető nagykövet kinevezésére, felmentésére, kezdeményezi a szakdiplomaták kinevezését, felmentését,
 
 f) stratégiát dolgoz ki a külföldi működő tőke befektetések ösztönzésére, az áruk és szolgáltatások külkereskedelmének, valamint a hazai vállalkozások működő tőke exportjának elősegítésére,
 
@@ -16,10 +16,10 @@ g) ellátja a Kárpát-medencei Gazdasági Övezet létrehozásával és működ
 
 h) irányítja, értékeli és ellenőrzi a kereskedelemfejlesztést és a befektetés-ösztönzést szolgáló hazai intézményrendszert,
 
-i)[^235] ellátja a Magyar Turizmus Zrt. szakmai felügyeletét,
+i)[^237] ellátja a Magyar Turizmus Zrt. szakmai felügyeletét,
 
-j)[^236] irányítja a Nemzeti Külgazdasági Hivatalt.
+j)[^238] irányítja a Nemzeti Külgazdasági Hivatalt.
 
-[^234]: A 78. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^235]: A 78. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (33) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^236]: A 78. § j) pontját a 267/2010. (XII. 3.) Korm. rendelet 25. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^236]: A 78. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^237]: A 78. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (33) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^238]: A 78. § j) pontját a 267/2010. (XII. 3.) Korm. rendelet 25. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
