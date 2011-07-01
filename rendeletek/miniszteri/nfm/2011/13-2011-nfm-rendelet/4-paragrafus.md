@@ -1,6 +1,6 @@
-4. § (1)[^1] A Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) az 1. § (1) bekezdésben meghatározott készletmérték és a 2. § (1) bekezdés szerinti készletmérték közötti földgázkészletet
+4. § (1)[^2] A Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) az 1. § (1) bekezdésben meghatározott készletmérték és a 2. § (1) bekezdés szerinti készletmérték közötti földgázkészletet
 
-a)[^2] az egyetemes szolgáltatásra jogosult felhasználók ellátásbiztonsága érdekében, az egyetemes szolgáltatóknak értékesítésre történő felajánlás céljából a 2004. január 1-jén földgáz közüzemi nagykereskedelmi engedéllyel rendelkező engedélyes földgáz-kereskedelmi engedéllyel rendelkező jogutódja részére 2,9 millió GJ, és
+a)[^3] az egyetemes szolgáltatásra jogosult felhasználók ellátásbiztonsága érdekében, az egyetemes szolgáltatóknak értékesítésre történő felajánlás céljából a 2004. január 1-jén földgáz közüzemi nagykereskedelmi engedéllyel rendelkező engedélyes földgáz-kereskedelmi engedéllyel rendelkező jogutódja részére 2,9 millió GJ, és
 
 b) a távfűtésben részesülő fogyasztók ellátásbiztonsága érdekében, a távhő- és kapcsoltan hőtermelő társaságoknak értékesítésre történő felajánlás céljából azon földgáz-kereskedelmi engedélyes részére, amely olyan vállalatcsoport tagja, amelynek valamely tagja vagy jogelődje a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi nagykereskedelmi engedéllyel rendelkezett, 6,8 millió GJ
 
@@ -14,5 +14,5 @@ b) a távfűtésben részesülő fogyasztók ellátásbiztonsága érdekében, a
 
 (5) A kitárolás során az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ), valamint a biztonsági készletezésre igénybe vett földgáztároló üzletszabályzata az irányadó.
 
-[^1]: A 4. § (1) bekezdés záró szövegrésze a 14/2011. (IV. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 4. § (1) bekezdés a) pontja a 14/2011. (IV. 15.) NFM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés záró szövegrésze a 14/2011. (IV. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés a) pontja a 14/2011. (IV. 15.) NFM rendelet 1. § (1) bekezdése szerint módosított szöveg.

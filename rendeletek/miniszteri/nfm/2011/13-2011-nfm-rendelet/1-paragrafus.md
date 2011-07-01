@@ -1,7 +1,3 @@
-1. § (1) A földgáz biztonsági készlet mértéke 2011. június 30-ig 1200 millió m3 mobil földgázkészlet.
+1. §[^1]
 
-(2) Az (1) bekezdés szerinti földgáz biztonsági készlet mértékhez tartozó:
-
-a) betárolási kapacitás 342 millió MJ/nap,
-
-b) kitárolási kapacitás 684 millió MJ/nap.
+[^1]: Az 1. §-t a 8. § (2) bekezdése hatályon kívül helyezte.
