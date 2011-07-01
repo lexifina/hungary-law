@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2010-07-27 | 2004. évi CXXXV. törvény | 1993-79-00-00.59 |
 | 2010-09-01 | 2010. évi LXXI. törvény | 1993-79-00-00.60 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1993-79-00-00.61 |
+| 2011-07-01 | 2010. évi CLIII. törvény | 1993-79-00-00.62 |

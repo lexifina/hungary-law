@@ -110,7 +110,9 @@ b) az érettségi vizsga, a szakmai vizsga;
 
 44. telephely: az alapító okiratban meghatározott, a székhelyen kívül működő szervezeti egység (tagintézmény, kihelyezett osztály, csoport, műhely, gyakorlóhely, iroda, napközi, tanulószoba, konyha stb.) elhelyezését szolgáló feladatellátási hely;
 
-45. térségi feladat ellátása: térségi feladatot lát el a közoktatási intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, illetve a főváros határain kívül élők veszik igénybe.
+45. térségi feladat ellátása: térségi feladatot lát el a közoktatási intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, illetve a főváros határain kívül élők veszik igénybe;
+
+46. működést engedélyező szerv: a Kormány általános hatáskörű területi államigazgatási szerve.
 
 (2) Az általános iskolai oktatás a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. §-a (4) bekezdésének alkalmazásában az alapfokú oktatás.
 

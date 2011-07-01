@@ -46,7 +46,7 @@ a) felhívja a közoktatási intézmény vezetőjét a szabálytalanság megszü
 
 b) eljárást kezdeményez
 
-ba) a jegyzőnél, főjegyzőnél a nem helyi önkormányzati intézményfenntartói tevékenységgel összefüggő törvénysértés megszüntetése érdekében,
+ba) a a nem helyi önkormányzati intézményfenntartói tevékenységgel összefüggő törvénysértés megszüntetése érdekében,
 
 bb) a nem állami, nem önkormányzati intézmények esetén a kifizető szervnél a normatív költségvetési támogatás és hozzájárulás felülvizsgálatára, folyósításának felfüggesztésére, szükség esetén az érintett gyermekek, tanulók másik nevelési-oktatási intézménybe történő átvételére, felvételére,
 

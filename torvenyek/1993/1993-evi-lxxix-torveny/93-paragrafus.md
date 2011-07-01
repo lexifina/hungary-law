@@ -34,6 +34,6 @@ n) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat.
 
 (4) Az oktatásért felelős miniszter köteles a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának c) pontjában meghatározott jogköre alapján kezdeményezni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnél, hogy határidő kitűzésével hívja fel az érintett helyi önkormányzatot a közoktatás feladatainak ellátásával összefüggő törvénysértés megszüntetésére, és amennyiben a felhívás nem vezet eredményre – az ügy jellegétől függően –, indítson eljárást az Állami Számvevőszéknél, az Alkotmánybíróságnál, illetve a bíróságnál.
 
-(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a jegyzőt, főjegyzőt, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
+(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a működést engedélyező szervet, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
 
 (6) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
