@@ -56,15 +56,17 @@ f) dohány-adalékanyag: minden olyan természetes vagy mesterséges, a dohányt
 
 11. Idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag.
 
-12. Fogyasztói csomagolási egység: a dohánytermékek kötelező csomagolása során alkalmazott legkisebb csomagolási egység:
+12.[^1] Fogyasztói csomagolási egység: a dohánytermékek kötelező csomagolása során alkalmazott legkisebb csomagolási egység:
 
 a) cigaretta esetében legalább 19 db, de legfeljebb 50 db cigarettát tartalmazó csomag,
 
-b) a 2. pont ba) alpontja szerinti dohánytermék esetén darab vagy doboz,
+b) a 2. pont b) pontjának ba) alpontja szerinti dohánytermék esetén darab vagy doboz,
 
-c) a 2. pont bb) és bc) alpontja szerinti dohánytermék esetén legalább 5 darabot tartalmazó doboz,
+c) a 2. pont b) pontjának bb) és bc) alpontja szerinti dohánytermék esetén legalább 5 darabot tartalmazó doboz,
 
-d) fogyasztási dohány, füst nélküli dohánytermékek esetében tasak vagy doboz.
+d) a fogyasztási dohány esetében a legalább 40 gramm, de legfeljebb 200 gramm – de minden esetben tízzel osztható gramm-tömegű – fogyasztási dohányt tartalmazó tasak vagy doboz,
+
+e) rágásra szolgáló vagy tüsszentésre szolgáló dohánytermékek esetében tasak vagy doboz.
 
 13. Gyűjtőcsomag: több fogyasztói csomagolási egységet tartalmazó, kiskereskedelmi forgalomban értékesített nagyobb csomagolási egység.
 
@@ -83,3 +85,5 @@ d) fogyasztási dohány, füst nélküli dohánytermékek esetében tasak vagy d
 20. Forgalmazás: a dohánytermék továbbforgalmazók részére történő nagykereskedelmi, illetve a fogyasztók, mint végső felhasználók részére történő kiskereskedelmi értékesítése.
 
 21. Importálás: a Jöt. 7. §-ának 2. pontjában meghatározott fogalom.
+
+[^1]: A 2. § 12. pontja a 62/2011. (VI. 30.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
