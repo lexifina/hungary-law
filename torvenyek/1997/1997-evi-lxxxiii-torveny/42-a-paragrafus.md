@@ -14,7 +14,7 @@ b) a terhességi-gyermekágyi segélyben részesült anya, akinek a biztosítás
 
 (4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-a) a biztosítás megszűnését követő táppénz, baleseti táppénz idejét,
+a) a biztosítás megszűnését követő baleseti táppénz idejét,
 
 b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejéből 180 napot,
 

@@ -8,11 +8,11 @@
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
-(3) A foglalkoztató és egyéb szerv köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
+(3) A foglalkoztató és egyéb szerv, valamint az egészségügyi szolgáltató köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
 
-(4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.
+(4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.
 
-(5) Ha az ellátás jogalap nélküli megállapításáért, illetőleg a felvételéért több foglalkoztatót vagy egyéb szervet terhel felelősség, a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.
+(5) Ha az ellátás jogalap nélküli megállapításáért, illetőleg a felvételéért több foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót terhel felelősség, a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.
 
 (6) A jogalap nélkül felvett ellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
 

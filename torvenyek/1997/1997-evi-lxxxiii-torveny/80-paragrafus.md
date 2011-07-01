@@ -4,7 +4,7 @@
 
 (3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
 
-(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított táppénzről, terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
+(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
 (5) Ha az uniós rendeletek vagy a Magyar Köztársaság által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 

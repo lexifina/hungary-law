@@ -12,7 +12,7 @@
 
 (4) Az egészségbiztosítási pénzbeli ellátás tárgyában benyújtott kérelem érdemi elbírálása tárgyában kizárólag az e törvényben meghatározott esetekben nem kell határozatot hozni, ha a hatóság a kérelemnek teljes mértékben helyt ad.
 
-(5)
+(5) A kifizetőhellyel nem rendelkező munkáltató a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az OEP honlapján közzétett számítógépes program segítségével töltheti ki és állíthatja elő.
 
 (6) Az igényelbíráló szerv az ügyfelet személyes megjelenésre is felhívhatja az igény elbírálása érdekében. Ha az ellátásban részesülő az orvosi vizsgálaton vagy a kórházban a jogkövetkezményekről való tájékoztatást tartalmazó ismételt felhívásra sem jelenik meg, vagy az orvosi felülvizsgálatnak, kórházi megfigyelésnek elfogadható indok nélkül nem veti magát alá és emiatt a kérelmet elbírálni nem lehet, az eljárást meg kell szüntetni.
 

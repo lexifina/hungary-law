@@ -14,7 +14,9 @@ c) a rendelés a külön jogszabályban foglalt szakmai szabályok szerint tört
 
 d) az adott gyógyászati segédeszköz árához, illetve kölcsönzési díjához az egészségbiztosító a külön jogszabályban meghatározott eljárásrend szerint támogatást állapít meg, továbbá javítási díjához, illetőleg a gyógyászati ellátás árához külön jogszabály támogatást rendel, és
 
-e) a kiszolgálásra, kölcsönzésre vagy javításra az egészségbiztosítóval e feladatra szerződött (a továbbiakban: szerződött) forgalmazónál vagy gyártónál kerül sor.
+e) a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben meghatározott egyes gyógyászati segédeszköz kiszolgáltatásához az egészségbiztosító ellenőrző főorvosa a miniszteri rendeletben foglaltak szerint ellenjegyzésével hozzájárult, és
+
+f) a kiszolgálásra, kölcsönzésre vagy javításra az egészségbiztosítóval e feladatra szerződött (a továbbiakban: szerződött) forgalmazónál vagy gyártónál kerül sor.
 
 (2) A biztosított az (1) bekezdésben foglaltakon túl akkor is jogosult a külön jogszabályban meghatározott gyógyászati segédeszköz árához nyújtott támogatásra, ha annak kiszolgáltatására egészségügyi ellátás keretében a külön jogszabályban meghatározott egészségügyi szolgáltatónál kerül sor.
 

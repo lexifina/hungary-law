@@ -106,7 +106,7 @@ l) a finanszírozás alapjául szolgáló homogén betegségcsoportokat és azok
 
 m) a járóbeteg-szakellátás körébe tartozó beavatkozási csoportokat és azok pontértékét, valamint a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejét,
 
-n) a gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésének szakmai követelményeit,
+n) a gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésének szakmai követelményeit és a rendelésre jogosultak körét,
 
 o) a kötelező egészségbiztosítás egészségügyi szolgáltatásainak rendelésére vonatkozó szabályokat,
 
@@ -142,7 +142,11 @@ c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szab
 
 d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
 
-e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket.
+e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket,
+
+f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
+
+g) a szakmai ellenjegyzéssel kiszolgáltatható egyes gyógyászati segédeszközök körét, a szakmai ellenjegyzés feltételeit és a mérlegelés szempontjait.
 
 (7)
 

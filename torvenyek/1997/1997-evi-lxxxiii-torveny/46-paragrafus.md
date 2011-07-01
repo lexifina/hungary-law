@@ -1,6 +1,6 @@
 46. § (1) Táppénz a keresőképtelenség tartamára jár, legfeljebb azonban
 
-a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át, a biztosítási jogviszony megszűnését követően 30 napon át;
+a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át;
 
 b) egyévesnél fiatalabb gyermek szoptatása, illetőleg ápolása címén a gyermek egyéves koráig;
 

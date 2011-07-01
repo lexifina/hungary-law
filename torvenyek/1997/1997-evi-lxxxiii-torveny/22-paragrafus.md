@@ -26,7 +26,7 @@ a) a 16 éven aluli gyermek kísérőjét,
 
 b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet a beutaló orvos szükségesnek tartja.
 
-(7) Helyi közlekedési eszköz igénybevételéhez nem jár támogatás.
+(7) Helyi utazás költségeihez támogatás nem jár.
 
 (8) Az utazási költséghez nyújtott támogatás mértékét és módját külön jogszabály tartalmazza.
 

@@ -4,7 +4,7 @@ a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a bizt
 
 b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
 
-és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
+és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról, továbbá a b) pont esetében a (4) bekezdés szerinti ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 
@@ -14,7 +14,7 @@ b) az a) pont hatálya alá nem tartozó esetben akkor, ha a biztosított ellát
 
 (3) Amennyiben a kezelőorvos a biztosított részére az (1) bekezdésben szereplő ellátást rendel, a biztosított az ellátásra a várólistára, illetve betegfogadási listára történő felkerülés időpontja szerint jogosult. Az így meghatározott időponttól eltérni az ellátás szakmai indokoltsága, az ellátás várható eredménye, illetve a biztosított kérése alapján lehet. Az eltérés lehetőségének egészségügyi szakmai feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben szabályozza.
 
-(4)
+(4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 

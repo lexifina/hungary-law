@@ -40,7 +40,7 @@ társadalombiztosítási támogatással rendelt.
 
 (13) A (2)–(4) bekezdés, a (6)–(9) bekezdés, a (12) bekezdés, a (16) bekezdés, valamint a 31. § (5) bekezdés és a 35. § (6) bekezdése szerinti követelés összege után a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresét kell fizetni, amennyiben a kamat összege meghaladja az 1000 forintot.
 
-(14) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a Gyftv.-ben és annak felhatalmazása alapján kiadott jogszabályban foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy évre fel kell függeszteni.
+(14) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a Gyftv.-ben és annak felhatalmazása alapján kiadott jogszabályban foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy hónapra fel kell függeszteni.
 
 (15) Amennyiben az (1)–(4) bekezdés alapján az egészségügyi szolgáltató megtérítési kötelezettsége meghaladja az ellenőrzött időszak alatt az egészségügyi szolgáltatónak járó teljes finanszírozási összeg húsz százalékát, az egészségbiztosító a finanszírozási szerződést felmondhatja.
 

@@ -16,4 +16,4 @@ b) a korábbi táppénzét a (2)-(3) bekezdésben foglaltak alapján állapítot
 
 (7) A táppénz alapjaként figyelembe vehető, a (2) bekezdésben meghatározott jövedelem naptári napi átlagának kiszámítására vonatkozó részletes szabályokat a Kormány állapítja meg.
 
-(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának, a biztosítási jogviszony megszűnését követően a minimálbér 150 százalékának harmincad részét.
+(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának harmincad részét.

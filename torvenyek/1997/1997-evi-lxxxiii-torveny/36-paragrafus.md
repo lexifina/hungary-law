@@ -1,5 +1,3 @@
-## A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló szerződések
-
 ## A szerződés teljesítésének ellenőrzése
 
 36. § (1) Az egészségbiztosító ellenőrzi az egészségügyi szolgáltatás nyújtására kötött szerződés teljesítését.
