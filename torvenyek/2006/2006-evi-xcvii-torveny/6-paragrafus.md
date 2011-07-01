@@ -20,7 +20,7 @@ e) az alapszabályban meghatározott más állandó bizottságok.
 
 (5) Az országos elnökség kizárólagos hatáskörébe tartozik
 
-a) a 16. § (4) bekezdésében meghatározott fellebbezések elbírálása,
+a)
 
 b) az alapszabály eltérő rendelkezése hiányában a 2. § d) pontjában meghatározott véleményezési jogkörök gyakorlása, a 2/A. és 2/B. §-ban foglalt jogkörök gyakorlása, a 2/D. § (4) bekezdése szerinti fellebbezések elbírálása, továbbá a jogszabályban vagy az alapszabályban más kamarai szerv feladat- és hatáskörébe nem utalt feladatok ellátása, hatáskörök gyakorlása,
 
