@@ -14,7 +14,7 @@ ad) a szociális szolgáltató, intézmény székhelye, telephelye szerint illet
 
 ae)[^11] támogató szolgáltatást, közösségi ellátást vagy jelzőrendszeres házi segítségnyújtást nyújtó szociális szolgáltató, intézmény esetén a Hivatalt,
 
-af)[^12] nappali ellátás esetén a szociális foglalkoztatást engedélyező szociális és gyámhivatalt, ha a nappali ellátással kapcsolatban szociális foglalkozatási engedélyt adtak ki;
+af)[^12]
 
 b)[^13] hozott jogerős vagy a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát és a 13. § (6) bekezdése szerinti végzését közli a Magyar Államkincstárnak a normatív állami támogatás ügyében illetékes területi szervével (a továbbiakban: igazgatóság).
 
@@ -28,5 +28,5 @@ c) működése az ellenőrzés során tett megállapítások alapján megfelel-e
 
 [^10]: A 4. § (2) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdés a) pont ae) alpontja a 332/2010. (XII. 27.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
-[^12]: A 4. § (2) bekezdés a) pont af) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés d) pontja hatályon kívül helyezte. [E módosító rendelet 39. § (4) bekezdése alapján 2011. július 1-jén lép hatályba.]
+[^12]: A 4. § (2) bekezdés a) pont af) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés d) pontja hatályon kívül helyezte.
 [^13]: A 4. § (2) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -28,9 +28,9 @@ b) a szociális szolgáltatónak, intézménynek,
 
 c) másolatban az igazgatóságnak,
 
-d)[^27] támogató szolgáltatást, közösségi ellátást vagy jelzőrendszeres házi segítségnyújtást nyújtó szociális szolgáltató, intézmény esetén másolatban a Hivatalnak,
+d)[^27] támogató szolgáltatást, közösségi ellátást vagy jelzőrendszeres házi segítségnyújtást nyújtó szociális szolgáltató, intézmény esetén másolatban a Hivatalnak.
 
-e)[^28] nappali ellátás esetén másolatban a szociális foglalkoztatást engedélyező szociális és gyámhivatalnak, ha a nappali ellátással kapcsolatban szociális foglalkozatási engedélyt adtak ki.
+e)[^28]
 
 (9) Ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) másként nem rendelkezik, az eljárás során a fenntartó és a szociális szolgáltató, intézmény köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat a működést engedélyező szervnek.
 
@@ -39,4 +39,4 @@ e)[^28] nappali ellátás esetén másolatban a szociális foglalkoztatást enge
 [^25]: A 11. § (6) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^26]: A 11. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés j) pontja szerint módosított szöveg.
 [^27]: A 11. § (8) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 35. § e) pontja szerint módosított szöveg.
-[^28]: A 11. § (8) bekezdés e) pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés e) pontja hatályon kívül helyezte. [E módosító rendelet 39. § (4) bekezdése alapján 2011. július 1-jén lép hatályba.]
+[^28]: A 11. § (8) bekezdés e) pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés e) pontja hatályon kívül helyezte.
