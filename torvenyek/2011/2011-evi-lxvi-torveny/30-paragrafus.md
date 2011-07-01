@@ -1,0 +1,5 @@
+## Büntetőeljárás és más felelősségre vonás kezdeményezése
+
+30. § (1) Ha az Állami Számvevőszék az ellenőrzése során bűncselekmény gyanúját állapítja meg, megállapításait köteles az illetékes hatósággal haladéktalanul közölni. Egyéb jogellenes cselekmény esetén a felelősség tisztázását, érvényesítését kezdeményezheti. A megkeresett szervezet az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – hatvan napon belül, az eljárás eredményéről pedig annak befejezését követően harminc napon belül tájékoztatni köteles az Állami Számvevőszéket.
+
+(2) Az Állami Számvevőszék megbízásából ellenőrzést végző személynek kötelessége, hogy az ellenőrzés során az általa felelősként megjelölt személlyel a megállapításait írásban ismertesse, és tőle írásbeli magyarázatot kérjen. A felelősként megjelölt személy az írásbeli magyarázatot tizenöt napon belül köteles megadni; annak elfogadásáról, vagy elutasításáról az ellenőrzést végzőnek harminc napon belül írásban kell nyilatkoznia.

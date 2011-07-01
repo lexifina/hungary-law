@@ -1,0 +1,1 @@
+4. § Az Állami Számvevőszék elnöke az Országgyűlés számára készített éves beszámolójában tájékoztatást ad a szervezet előző évi ellenőrzési tevékenységéről, működéséről, gazdálkodásáról, valamint az ellenőrzési megállapítások alapján tett intézkedésekről.
