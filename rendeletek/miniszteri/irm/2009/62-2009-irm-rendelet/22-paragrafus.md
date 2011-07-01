@@ -16,4 +16,4 @@
 
 (5) A raktárhelyiség megvilágítására UV-mentes vagy kevés UV-sugárzást kibocsátó világítótestek használhatók. A levéltár a megvilágítás erősségét és idejét minimalizálja, a világítás ereje legfeljebb 200 lux lehet.
 
-[^10]: A 21. § az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^10]: A 21. § az 58. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

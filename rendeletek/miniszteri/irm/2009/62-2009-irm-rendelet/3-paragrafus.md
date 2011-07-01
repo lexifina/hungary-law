@@ -10,6 +10,6 @@ a) a Kjtv. 166. §-a alapján a levéltári anyag részét képező iratok helyb
 
 b) a levéltári anyag részét képező iratok mindenben megfelelnek a közjegyzőkről szóló törvényben, a közjegyzői nemperes eljárásokról szóló jogszabályokban, továbbá a közjegyzői és a közjegyzői kamarai ügyvitelről, iratkezelésről szóló jogszabályokban előírt alaki követelményeknek és
 
-c)[^4] azokat az átadó (a közjegyző vagy örököse, az iratokat és eszközöket birtokló személy) az e rendeletben foglaltak szerint előkészítette.
+c)[^4] azokat az átadó (a közjegyző vagy örököse, az iratokat és eszközöket birtokló személy, vagy a kamara) az e rendeletben foglaltak szerint előkészítette.
 
-[^4]: A 3. § c) pontjában az „(a közjegyző vagy örököse, az iratokat és eszközöket birtokló személy)” szövegrész helyébe az „(a közjegyző vagy örököse, az iratokat és eszközöket birtokló személy, vagy a kamara)” szöveg lép az 59. § b) pontja alapján [az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba].
+[^4]: A 3. § c) pontja az 59. § b) pontja szerint módosított szöveg.

@@ -12,5 +12,5 @@
 
 (6) Az iratjegyzéket a kamarai iratkezelési szabályzatban foglalt adatokkal kell elkészíteni.
 
-[^5]: A 10. § az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
-[^6]: A 11. § az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^5]: A 10. § az 58. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
+[^6]: A 11. § az 58. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
