@@ -1,0 +1,1 @@
+## 3. § A KöFI által, a feladatellátáshoz használt állami tulajdonú eszközök az Energia Központ Nonprofit Kft. tulajdonába, a tulajdonba adás megtörténtéig az Energia Központ Nonprofit Kft. használatába kerülnek.
