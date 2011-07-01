@@ -60,6 +60,6 @@
 
 | * A Kincstár által felszámított díj a külső szolgáltatók által áthárított díjon felül kerül terhelésre. |
 
-5/A. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^104]
+5/A. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^113]
 
-[^104]: Az 5/A. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 15. § (2) bekezdése iktatta be, szövege a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^113]: Az 5/A. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 15. § (2) bekezdése iktatta be, szövege a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.

@@ -52,6 +52,6 @@
 
 ## A Magyar Államkincstár aláírása: a számlavezető Állampénztári Iroda cégszerű aláírásának és pecsétjének a helye.
 
-5/B. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^105]
+5/B. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^114]
 
-[^105]: Az 5/B. számú mellékletet a 3/2011. (I. 28.) NGM rendelet 21. § (2) bekezdése iktatta be.
+[^114]: Az 5/B. számú mellékletet a 3/2011. (I. 28.) NGM rendelet 21. § (2) bekezdése iktatta be.

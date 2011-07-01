@@ -1,8 +1,8 @@
-## 71. §[^98]
+## 71. §[^107]
 
 72. § (1) A korábban nem feladatfinanszírozási körbe vont fejezeti kezelésű előirányzatok maradványait – amennyiben az előirányzat a tárgyévben feladatfinanszírozási körbe tartozik – a tárgyévi előirányzattal azonos szabályok szerint kell felhasználni.
 
-(2)[^99] Az államháztartásért felelős miniszter tájékoztatóban teszi közzé
+(2)[^108] Az államháztartásért felelős miniszter tájékoztatóban teszi közzé
 
 a) a nemzetgazdasági számlák – ideértve az önkormányzati visszafizetések teljesítésére szolgáló számlákat is –,
 
@@ -32,5 +32,5 @@ d) a 60. § szerinti adatszolgáltatás módját,
 
 e) a Kincstár az Ámr.-ben és e rendeletben meghatározott feladatainak ellátásáért felelős szervezeti egységeinek megnevezését és elérhetőségi adatait.
 
-[^98]: A 71. §-t az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^99]: A 72. § (2) bekezdés nyitó szövegrésze az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^107]: A 71. §-t az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^108]: A 72. § (2) bekezdés nyitó szövegrésze az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

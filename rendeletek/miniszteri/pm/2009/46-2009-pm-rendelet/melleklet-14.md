@@ -80,22 +80,8 @@
 
 ## – Dátum, aláírás, iktatószám: Az előirányzat-módosításról történő adatszolgáltatás dátumát, a cégszerű aláírást, a fejezet (vagy a BM) pecsétjét és iktatószámát kell feltüntetni.
 
-14. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^111]
+14. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^120]
 
 |  | EG-03I |
 
-Magyar Államkincstár
-
-Intézményi előirányzatok módosítása
-
-Költségvetési szerv neve: Bizonylat sorszáma:
-
-címe: Korrigált bizonylat sorsz:
-
-|  | Munkaadókat terhelő járulékok éves fizetési kötelezettségének eleget tud tenni |  |
-
-Államháztartási egyedi azonosítószám:
-
-Számlaszám (1-16 pozíció):
-
-[^111]: A 14. számú melléklet a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^120]: A 14. számú melléklet a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdésével megállapított szöveg.

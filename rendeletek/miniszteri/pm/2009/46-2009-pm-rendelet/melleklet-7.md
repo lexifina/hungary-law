@@ -36,6 +36,6 @@
 
 ## - Egyéb nemzetközi támogatási programok közösségi forrás pénzforgalmi forintszámla
 
-7. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^106]
+7. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^115]
 
-[^106]: A 7. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.
+[^115]: A 7. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg.

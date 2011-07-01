@@ -244,6 +244,6 @@
 
 ## Magyar Államkincstár Pénzforgalmi Főosztály: A tényleges számlanyitást, megszüntetést, valamint adatmódosítást végrehajtó szervezet cégszerű aláírásának és pecsétjének helye.
 
-2. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^101]
+2. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^110]
 
-[^101]: A 2. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított, a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdése és 23. § (3) bekezdése szerint módosított szöveg.
+[^110]: A 2. számú melléklet az 5/2010. (IX. 8.) NGM rendelet 15. § (1) bekezdésével megállapított, a 3/2011. (I. 28.) NGM rendelet 21. § (1) bekezdése és 23. § (3) bekezdése szerint módosított szöveg.

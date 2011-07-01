@@ -36,10 +36,22 @@ kell megküldeni a Kincstár részére.
 
 (16) Az Alapokmányban meghatározott cél megvalósításának veszélyeztetése esetén a Kincstár csak a kötelezettségvállalásra jogosult külön rendelkezésének megfelelően fogad be további szerződéseket és rendelkezik annak pénzügyi teljesítéséről.
 
-(17) A Kincstár az átutalási megbízásokat
+(17)[^83] Az átutalási megbízás benyújtójának az átutalási megbízás közlemény rovatában a 24. § (1) bekezdésében meghatározottakon túl nyilatkoznia kell arról, hogy a kifizetésre kerülő összeg
 
-a) nem teljesítheti, ha a megvalósítónak lejárt esedékességű köztartozása van,
+a) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 36/A. § (6) bekezdése szerinti, vagy
 
-b) nem teljesítheti, ha az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 36/A. §-ban előírt együttes adóigazolást az átutalásról rendelkező nem mellékelte, illetve a köztartozásmentes adózói adatbázisban való nyilvántartását nyilatkozat formájában nem igazolta,
+b) az Áht. 13/A. § (5) és (6) bekezdése és az a) ponton kívüli egyéb
 
-c) részben teljesítheti, ha a kiadott együttes adóigazoláson köztartozás mutatkozik, mely esetekben a tartozásnak megfelelő összeggel csökkentett kifizetés teljesíthető.
+kifizetésnek minősül.
+
+(18)[^84] A (17) bekezdés a) pontja szerinti nyilatkozat tétele esetén az átutalási megbízás közlemény rovatában a nyilatkozat mellett a kifizetés kedvezményezettjének adóazonosító számát is fel kell tüntetni. A nyilatkozatot, továbbá az adóazonosító szám közlését a Kincstár által kiadott tájékoztatóban meghatározott jelölés alkalmazásával kell megtenni. Nyilatkozat hiányában, vagy – a (17) bekezdés a) pontja szerinti esetben – adóazonosító számot nem tartalmazó nyilatkozat esetén a Kincstár az átutalási megbízás teljesítését visszautasítja.
+
+(19)[^85] A (17) bekezdés a) pontja szerinti esetben a Kincstár az átutalási megbízást
+
+a) nem teljesíti, ha az Art. 36/A. § (1) bekezdése szerinti együttes adóigazolást az átutalási megbízás benyújtója nem mellékelte, vagy a köztartozásmentes adózói adatbázisban való nyilvántartását nyilatkozat formájában nem igazolta,
+
+b) a tartozásnak megfelelő összeggel csökkentett összegű kifizetésként teljesíti, ha az Art. 36/A. § (1) bekezdése szerinti együttes adóigazoláson köztartozás mutatkozik.
+
+[^83]: Az 55. § (17) bekezdése a 23/2011. (VI. 30.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^84]: Az 55. § (18) bekezdését a 23/2011. (VI. 30.) NGM rendelet 5. § (2) bekezdése iktatta be.
+[^85]: Az 55. § (19) bekezdését a 23/2011. (VI. 30.) NGM rendelet 5. § (2) bekezdése iktatta be.

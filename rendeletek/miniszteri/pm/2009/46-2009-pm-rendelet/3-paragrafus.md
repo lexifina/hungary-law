@@ -2,7 +2,7 @@
 
 ## A kincstári számlák
 
-3. § (1)[^3] A Kincstár a kincstári körbe tartozó kincstári ügyfelek részére a 4–6. §-okban, a 8–10. §-okban, az Ámr. 172. §-ában, 179. §-ában és 199. §-ában megjelölt számlákat vezeti.
+3. § (1)[^4] A Kincstár a kincstári körbe tartozó kincstári ügyfelek részére a 4–6. §-okban, a 8–10. §-okban, az Ámr. 172. §-ában, 179. §-ában és 199. §-ában megjelölt számlákat vezeti.
 
 (2) A Kincstár a kincstári körbe nem tartozó kincstári ügyfelek részére
 
@@ -28,4 +28,4 @@ vezethet.
 
 (5) A Kincstár jogosult a bírósági végrehajtásról szóló 1994. évi LIII. törvény 80–81. §-a szerint átutalási végzés alapján zárolt számlát nyitni és arra az adós ügyfél számlájáról elkülöníteni a végzésben feltüntetett követelés összegét. A számla felett a kincstári ügyfelek nem rendelkezhetnek. A számla megszüntetéséről a végzésben feltüntetett követelés átutalását követően a Kincstár intézkedik.
 
-[^3]: A 3. § (1) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^4]: A 3. § (1) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

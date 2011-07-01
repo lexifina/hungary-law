@@ -6,7 +6,7 @@ a) elszámolási számlát,
 
 b) célelszámolási számlát,
 
-c)[^23] központi és területi ellátási számlát,
+c)[^24] központi és területi ellátási számlát,
 
 d) technikai számlát,
 
@@ -18,11 +18,11 @@ g) előirányzat-felhasználási keret elosztási számlát
 
 vezethet.
 
-(2)[^24] Az (1) bekezdés a) pontja szerinti elszámolási számlára kerülnek átutalásra az állami adóhatóságtól naponta átutalt bevételek, innen kerül visszautalásra a jogosulatlan bevétel az állami adóhatóság részére. Erre a számlára kell átvezetni év végén az (1) bekezdés b)–c) pontjában megjelölt számlák egyenlegét.
+(2)[^25] Az (1) bekezdés a) pontja szerinti elszámolási számlára kerülnek átutalásra az állami adóhatóságtól naponta átutalt bevételek, innen kerül visszautalásra a jogosulatlan bevétel az állami adóhatóság részére. Erre a számlára kell átvezetni év végén az (1) bekezdés b)–c) pontjában megjelölt számlák egyenlegét.
 
 (3) Az (1) bekezdés b) pontja szerinti célelszámolási számla a sajátos bevételek és kiadások teljesítésére szolgál.
 
-(4)[^25] Az (1) bekezdés c) pontja szerinti ellátási számla a társadalombiztosítás pénzügyi alapjai éves költségvetésében részletezett kiadások, egyéb bevételek, valamint nem a társadalombiztosítás pénzügyi alapjai által finanszírozott ellátások teljesítésének kimutatására szolgál. A területi ellátási számlák felett a fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek törvényben meghatározott feladataik ellátása során rendelkezési joggal bírnak.
+(4)[^26] Az (1) bekezdés c) pontja szerinti ellátási számla a társadalombiztosítás pénzügyi alapjai éves költségvetésében részletezett kiadások, egyéb bevételek, valamint nem a társadalombiztosítás pénzügyi alapjai által finanszírozott ellátások teljesítésének kimutatására szolgál. A területi ellátási számlák felett a fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek törvényben meghatározott feladataik ellátása során rendelkezési joggal bírnak.
 
 (5) Az (1) bekezdés d) pontja szerinti technikai számla
 
@@ -40,6 +40,6 @@ b) a Nyugdíjbiztosítási Alaphoz visszaérkezett nyugellátások, a korengedm�
 
 (10) A társadalombiztosítás pénzügyi alapjai számláinak megnyitásáról, törzsadatainak módosításáról, illetve megszüntetéséről az OEP és az ONYF gondoskodik.
 
-[^23]: A 9. § (1) bekezdés c) pontja a 3/2011. (I. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^24]: A 9. § (2) bekezdése a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
-[^25]: A 9. § (4) bekezdése a 3/2011. (I. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^24]: A 9. § (1) bekezdés c) pontja a 3/2011. (I. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^25]: A 9. § (2) bekezdése a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 9. § (4) bekezdése a 3/2011. (I. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.

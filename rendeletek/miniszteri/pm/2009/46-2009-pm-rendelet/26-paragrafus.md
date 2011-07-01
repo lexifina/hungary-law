@@ -4,10 +4,10 @@
 
 a) intézményi kártyát, amely a készlet- és kis értékű tárgyi eszközök beszerzésére, a nem rendszeres kisösszegű szolgáltatások ellenértékének kiegyenlítésére és készpénz felvételére-befizetésére szolgáló forint alapú, kizárólag belföldön használható elektronikus módon elfogadható fizetési eszköz;
 
-b)[^39] VIP ezüst vagy arany kártyát, amely a minisztériumok, külképviseletek, költségvetési szervek, illetve a kincstári pénzforgalmi számlatulajdonosok vezető beosztású, valamint a szerv vezetője által kártyahasználatra feljogosított dolgozóinak a kártyafedezeti számlatulajdonos belső szabályzatában meghatározott kiadásai kiegyenlítésére és készpénz felvételére szolgáló, külföldön és belföldön egyaránt használható elektronikus és hagyományos módon is elfogadható fizetési eszköz.
+b)[^45] VIP ezüst vagy arany kártyát, amely a minisztériumok, külképviseletek, költségvetési szervek, illetve a kincstári pénzforgalmi számlatulajdonosok vezető beosztású, valamint a szerv vezetője által kártyahasználatra feljogosított dolgozóinak a kártyafedezeti számlatulajdonos belső szabályzatában meghatározott kiadásai kiegyenlítésére és készpénz felvételére szolgáló, külföldön és belföldön egyaránt használható elektronikus és hagyományos módon is elfogadható fizetési eszköz.
 
 (2) Mindkét típusú kincstári kártyával teljesíthető készpénz befizetés belföldön beváltóhelyeken, a kincstári kártyákat kibocsátó hitelintézet meghatározott bankjegykiadó automatáinál és bankfiókjaiban.
 
 (3) A kincstári pénzforgalmi számlatulajdonosok számára a VIP ezüst vagy arany kártya igénybevételét szerződésben meghatározott külön feltételekhez kötheti a Kincstár.
 
-[^39]: A 26. § (1) bekezdés b) pontja a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^45]: A 26. § (1) bekezdés b) pontja a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.

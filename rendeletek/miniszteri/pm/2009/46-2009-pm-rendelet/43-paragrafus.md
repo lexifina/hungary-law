@@ -1,4 +1,4 @@
-## 43. §[^57] Az állami adóhatóság adatokat szolgáltat a Munkaerőpiaci Alap kezelője, a Kutatási és Technológiai Innovációs Alap kezelője, a Nemzeti Kulturális Alap kezelője, továbbá a Kincstár részére
+## 43. §[^63] Az állami adóhatóság adatokat szolgáltat a Munkaerőpiaci Alap kezelője, a Kutatási és Technológiai Innovációs Alap kezelője, a Nemzeti Kulturális Alap kezelője, továbbá a Kincstár részére
 
 a) havonta a bevallásra kötelezettek bevallási adatairól alaponként, bevallási jogcímenkénti bontásban a bevallás esedékességének hónapját követő hónap 15. napjáig, adathiány esetén a negyedévet követő hónap 15. napjáig,
 
@@ -8,4 +8,4 @@ c) évenként a tárgyévben esedékes bevallások és december 31-ig teljesíte
 
 d) negyedévente a követelések értékvesztésének összegéről, az első negyedévre vonatkozóan május 20-ig, a második, harmadik negyedévre vonatkozóan a tárgynegyedévet követő hó 15-ig, a negyedik negyedévre vonatkozóan a tárgyévet követő május 15-ig.
 
-[^57]: A 43. § nyitó szövegrésze a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^63]: A 43. § nyitó szövegrésze a 3/2011. (I. 28.) NGM rendelet 23. § (1) bekezdése szerint módosított szöveg.

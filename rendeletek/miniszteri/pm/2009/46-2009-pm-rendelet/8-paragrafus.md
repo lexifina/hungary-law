@@ -1,6 +1,6 @@
 ## Az elkülönített állami pénzalapok számlái
 
-8. §[^22] (1) Az elkülönített állami pénzalap kezelője az elkülönített állami pénzalap pénzügyi gazdálkodását a Kincstárban vezetett előirányzat-felhasználási keretszámlán bonyolítja. A Munkaerőpiaci Alap esetén
+8. §[^23] (1) Az elkülönített állami pénzalap kezelője az elkülönített állami pénzalap pénzügyi gazdálkodását a Kincstárban vezetett előirányzat-felhasználási keretszámlán bonyolítja. A Munkaerőpiaci Alap esetén
 
 a) a Kincstár központi és területi előirányzat-felhasználási keretszámlát vezet,
 
@@ -14,4 +14,4 @@ d) a területi számlák felett az alap felhasználásában részt vevő más sz
 
 (3) Az elkülönített állami pénzalap számlájának megnyitásáról, törzsadatainak módosításáról, megszüntetéséről az alappal való rendelkezésre jogosult és felhasználásért felelős miniszter az elkülönített állami pénzalap létesítésének, működési és lebonyolítási rendje változásának, megszüntetésének időpontja szerinti határnappal gondoskodik. A (2) bekezdés szerinti számlákra a 4. § (14) bekezdésében és az 5. § (11) bekezdésében foglalt szabályokat is alkalmazni kell.
 
-[^22]: A 8. § a 3/2011. (I. 28.) NGM rendelet 9. §-ával megállapított szöveg.
+[^23]: A 8. § a 3/2011. (I. 28.) NGM rendelet 9. §-ával megállapított szöveg.

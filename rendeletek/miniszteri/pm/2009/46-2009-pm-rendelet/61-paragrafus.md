@@ -1,6 +1,6 @@
 ## A vagyonkezelő szervezet adatszolgáltatása
 
-61. §[^89] (1) A vagyonkezelő szervezet az állami vagyon kezelésével kapcsolatos valamennyi számlájának pénzforgalmáról havi jelentést nyújt be a tárgyhót követő hónap 10. napjáig az államháztartásért felelős miniszternek és az állami vagyon felügyeletéért felelős miniszternek. Az adatszolgáltatás részletes tartalmát az államháztartásért felelős miniszter tájékoztatóban állapítja meg.
+61. §[^98] (1) A vagyonkezelő szervezet az állami vagyon kezelésével kapcsolatos valamennyi számlájának pénzforgalmáról havi jelentést nyújt be a tárgyhót követő hónap 10. napjáig az államháztartásért felelős miniszternek és az állami vagyon felügyeletéért felelős miniszternek. Az adatszolgáltatás részletes tartalmát az államháztartásért felelős miniszter tájékoztatóban állapítja meg.
 
 (2) A vagyonkezelő szervezet az állami vagyonnal kapcsolatos központosított bevételek és kiadások várható alakulásának havi ütemezéséről elektronikus úton adatot szolgáltat a (3) bekezdés szerinti tartalommal minden hónap 7. napjáig az államháztartásért felelős miniszternek és a fejezetet irányító szervnek.
 
@@ -16,4 +16,4 @@ d) az a)–c) pontok szerinti adatokon belül az előirányzat vagy finanszíroz
 
 e) az a)–c) pontok szerinti adatokon belül az Áht. 116. § (1) bekezdés 2. pontja szerinti maastrichti egyenlegmutató és az Áht. 110. § (3) bekezdése szerinti maastrichti adósságmutató számításához szükséges információkra.
 
-[^89]: A 61. § a 3/2011. (I. 28.) NGM rendelet 18. §-ával megállapított szöveg.
+[^98]: A 61. § a 3/2011. (I. 28.) NGM rendelet 18. §-ával megállapított szöveg.

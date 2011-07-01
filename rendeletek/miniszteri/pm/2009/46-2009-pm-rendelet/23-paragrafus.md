@@ -30,7 +30,7 @@ dc) készpénz kifizetése pénztárban számláról,
 
 dd) megbízás teljesítése postai kifizetési utalvánnyal számláról.
 
-(2)[^36] A Kincstár az egyszerű átutalások keretében a kincstári ügyfelek részére a Valósidejű Bruttó Elszámolási Rendszeren (a továbbiakban: VIBER) érkező jóváírásokat is fogadja. A nagy értékű sürgős bankközi elszámolást igénylő fizetési megbízásokat a kincstári ügyféllel kötött külön megállapodásban foglalt eljárás és feltételek alapján a Kincstár automatikus azonos napi elszámolással teljesíti, amennyiben a fedezet teljes egészében rendelkezésre áll. Részteljesítés, értéknapon történő utalás a VIBER-en nem végezhető.
+(2)[^39] A Kincstár az egyszerű átutalások keretében a kincstári ügyfelek részére a Valósidejű Bruttó Elszámolási Rendszeren (a továbbiakban: VIBER) érkező jóváírásokat is fogadja. A nagy értékű sürgős bankközi elszámolást igénylő fizetési megbízásokat a kincstári ügyféllel kötött külön megállapodásban foglalt eljárás és feltételek alapján a Kincstár automatikus azonos napi elszámolással teljesíti, amennyiben a fedezet teljes egészében rendelkezésre áll. Részteljesítés, értéknapon, és az Áht. 13/A. § (5) bekezdésének hatálya alá tartozó támogatás kifizetésére irányuló történő utalás a VIBER-en nem végezhető.
 
 (3) Az Ámr. 235. §-a szerint kötelezettségvállalás-bejelentési kötelezettség alá tartozó kiadási előirányzatok terhére elektronikus úton teljesítésre kerülő kifizetést (átutalást) a Kincstár a „Megbízások vonali úton történő benyújtására” tárgyú megállapodásban foglaltak alapján a „II. file szerkezet” struktúrájában és kizárólag vonali úti forgalmazásban fogadja be. Ugyancsak ebben a formában, egyedi elektronikus tranzakcióként kell benyújtani a 25. § (2) bekezdés szerinti, előzetes bejelentési kötelezettség alá eső, engedélyezett megbízásokat, amennyiben az átutalást nem papír alapon kezdeményezik.
 
@@ -44,7 +44,7 @@ b) a kincstári pénzforgalmi számlatulajdonosokkal szemben a pénzforgalom leb
 
 terhére teljesít.
 
-(6)[^37] A felhatalmazó levélen alapuló beszedés esetében az Igazgatósághoz az MNB rendelet szerinti felhatalmazó levelet kell benyújtani. Amennyiben az abban megjelölt terhelendő számla KTK vagy ÁHT azonosító használatára kötelezett, a felhatalmazó levél benyújtása mellett közölni kell a kiadási KTK-t vagy ÁHT azonosítót is. Ha a felhatalmazó levéllel érintett kedvezményezett számla devizaszámla, az IBAN szám és a kapcsolódó BIC kód megjelölése is szükséges.
+(6)[^40] A felhatalmazó levélen alapuló beszedés esetében az Igazgatósághoz az MNB rendelet szerinti felhatalmazó levelet kell benyújtani. Amennyiben az abban megjelölt terhelendő számla KTK vagy ÁHT azonosító használatára kötelezett, a felhatalmazó levél benyújtása mellett közölni kell a kiadási KTK-t vagy ÁHT azonosítót is. Ha a felhatalmazó levéllel érintett kedvezményezett számla devizaszámla, az IBAN szám és a kapcsolódó BIC kód megjelölése is szükséges.
 
 (7) Határidős beszedés esetében – amennyiben a terhelendő vagy a jóváírandó számla KTK vagy ÁHT azonosító használatára kötelezett – az Igazgatósághoz be kell nyújtani a kötelezett és a jogosult közötti megállapodást. A megállapodásnak tartalmaznia kell a kiadási, illetve bevételi KTK-t vagy ÁHT azonosítót. A határidős beszedés adattartalma megegyezik az MNB rendeletben található formanyomtatvány adattartalmával.
 
@@ -58,8 +58,8 @@ terhére teljesít.
 
 (12) A hatósági átutalást és átutalási végzést – ha az érvényesíteni kívánt közigazgatási döntés ellen a kötelezett számlatulajdonos bírósági felülvizsgálatot kezdeményezett a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 110. § (1) bekezdése alapján és a keresetlevélben a végrehajtás felfüggesztését kérte – a Kincstár nem teljesíti, feltéve, hogy erről a kötelezett számlatulajdonos a keresetlevél egy eredeti példányával, még a hatósági átutalás és átutalási végzés teljesítését megelőzően értesítette. A Kincstár a hatósági átutalás és átutalási végzés összegét a végrehajtás felfüggesztése iránti kérelem elbírálásáig zárolja.
 
-(13)[^38] A Kincstár devizafizetési megbízások befogadásakor és teljesítésekor az általa közzétett hirdetményben, illetve a kapcsolódó szerződésekben meghatározottak szerint jár el.
+(13)[^41] A Kincstár devizafizetési megbízások befogadásakor és teljesítésekor az általa közzétett hirdetményben, illetve a kapcsolódó szerződésekben meghatározottak szerint jár el.
 
-[^36]: A 23. § (2) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^37]: A 23. § (6) bekezdése az 5/2010. (IX. 8.) NGM rendelet 6. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
-[^38]: A 23. § (13) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^39]: A 23. § (2) bekezdése a 23/2011. (VI. 30.) NGM rendelet 1. §-ával megállapított szöveg.
+[^40]: A 23. § (6) bekezdése az 5/2010. (IX. 8.) NGM rendelet 6. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^41]: A 23. § (13) bekezdése az 5/2010. (IX. 8.) NGM rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.

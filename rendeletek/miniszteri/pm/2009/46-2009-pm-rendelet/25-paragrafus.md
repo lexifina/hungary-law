@@ -6,6 +6,10 @@
 
 (3) A feladatfinanszírozási körbe tartozó és eltérő megállapodás hiányában az Ámr. 137–154. §-ának hatálya alá tartozó, pályázat útján nyújtott támogatások esetében a Kincstár az előírásoknak megfelelően benyújtott fizetési megbízást a szükséges fedezet rendelkezésre állása esetén a kifizetés kezdeményezését követő 10 munkanapon belül teljesíti. A hiánypótlások időtartamával a teljesítési határidő meghosszabbodhat.
 
+(3a)[^44] A Kincstár az Áht. 13/A. § (5)–(7) bekezdésének hatálya alá tartozó átutalási megbízások terheléseit a megbízó számláján értéknapon, jóváírandó tételeinek indítását az állami adóhatóság adatszolgáltatásának napján teljesíti.
+
 (4) A Kincstár a jogszabályi előírások alapján a kincstári körbe tartozók által benyújtott – a felhasználható előirányzat-felhasználási keret összegét befolyásoló, az előirányzatokat, valamint azok teljesítési adatait módosító és a kötelezettségvállalásokra vonatkozó adatokat tartalmazó – bizonylatokat a nyilvántartásában olyan módon köteles átvezetni, hogy a számlatulajdonos legkésőbb a benyújtást követő második munkanapon már annak figyelembevételével rendelkezhessen a számlája felett.
 
 (5) A Kincstár a benyújtott fizetési megbízásokat – a 23. § (3)–(4) bekezdésben foglalt kivétellel – érkezteti és személyes benyújtás esetén az ügyfél kérésére az átvételt – a benyújtó által előzetesen elkészített átvételi elismervényen – igazolja.
+
+[^44]: A 25. § (3a) bekezdését a 23/2011. (VI. 30.) NGM rendelet 4. §-a iktatta be.

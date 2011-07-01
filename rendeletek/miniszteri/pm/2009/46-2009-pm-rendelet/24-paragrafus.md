@@ -1,3 +1,10 @@
-24. § (1) Az Ámr. 151. §-ának (2) bekezdése szerinti kedvezményezettekre vonatkozó köztartozás-vizsgálathoz az előirányzatok terhére benyújtott forint átutalási megbízások közlemény rovatának első sorában a Kincstár által kiadott tájékoztatóban meghatározott jelölést kell alkalmazni.
+## Köztartozások kezelése[^42]
 
-(2) Az (1) bekezdés szerinti megbízás csak papíron vagy elektronikus formában, csatolt fájlként (floppys file-szerkezet) nyújtható be, csoportos megbízásként nem.
+24. §[^43] (1) Az Áht. 13/A. § (5)–(6) bekezdése szerint a Kincstár által végzett köztartozás-vizsgálathoz a 4. § (1) bekezdés d), g)–h) és q) pontjai, valamint a 8. § (1) bekezdése szerinti számla terhére benyújtott átutalási megbízás közlemény rovatában nyilatkozni kell arról, hogy a kifizetésre kerülő összeg az Áht. 13/A. § (5) bekezdésének hatálya alá tartozó támogatásnak (e § alkalmazásában a továbbiakban: támogatási célú kifizetés) vagy egyéb kifizetésnek minősül. Támogatási célú kifizetés esetén az átutalási megbízás közlemény rovatában a nyilatkozat mellett a támogatás kedvezményezettjének adóazonosító számát is fel kell tüntetni, az adóazonosító számmal nem rendelkező határon túli támogatottak kivételével.
+
+(2) Az (1) bekezdés szerinti nyilatkozatot, továbbá támogatási célú kifizetés esetén az adóazonosító szám közlését a Kincstár által kiadott tájékoztatóban meghatározott jelölés alkalmazásával kell megtenni. Nyilatkozat hiányában, vagy támogatási célú kifizetésnél adóazonosító számot nem tartalmazó nyilatkozat esetén – az adóazonosító számmal nem rendelkező határon túli támogatottak kivételével – a Kincstár az átutalási megbízás teljesítését visszautasítja.
+
+(3) Az (1) bekezdésben meghatározott számlák terhére olyan átutalási megbízás, amely az Áht. 13/A. § (5) bekezdésének hatálya alá tartozó támogatás kifizetésére irányul, csoportos fizetési megbízásként nem nyújtható be.
+
+[^42]: A 24. §-t megelőző alcímet a 23/2011. (VI. 30.) NGM rendelet 2. §-a iktatta be.
+[^43]: A 24. § a 23/2011. (VI. 30.) NGM rendelet 3. §-ával megállapított szöveg.

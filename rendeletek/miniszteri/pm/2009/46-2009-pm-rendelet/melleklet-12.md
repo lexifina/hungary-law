@@ -66,6 +66,6 @@
 
 | Magyar Államkincstár Megyei Igazgatósága |
 
-12. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^109]
+12. számú melléklet a 46/2009. (XII. 30.) PM rendelethez[^118]
 
-[^109]: A 12. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
+[^118]: A 12. számú mellékletet az 5/2010. (IX. 8.) NGM rendelet 18. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést 2010. augusztus 15. napjától kell alkalmazni.
