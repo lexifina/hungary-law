@@ -134,6 +134,6 @@
 
 ## zhf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező
 
-2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^33]
+2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^34]
 
-[^33]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
+[^34]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
