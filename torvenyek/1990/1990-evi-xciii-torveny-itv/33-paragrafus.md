@@ -108,4 +108,6 @@ történik a kiállítása;
 
 36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
 
-36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás.
+36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
+
+37. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás.

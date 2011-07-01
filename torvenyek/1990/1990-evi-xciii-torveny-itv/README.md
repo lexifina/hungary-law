@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2011-01-27 | 2010. évi CLIII. törvény | 1990-93-00-00.100 |
 | 2011-05-01 | 2010. évi LXXXIII. törvény | 1990-93-00-00.101 |
 | 2011-06-18 | 2010. évi CXXVII. törvény | 1990-93-00-00.102 |
+| 2011-07-01 | 2011. évi LXXXI. törvény | 1990-93-00-00.103 |
