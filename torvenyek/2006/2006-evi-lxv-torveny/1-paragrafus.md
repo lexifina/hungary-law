@@ -14,7 +14,7 @@ c) A közalapítvány pályázat kiírása nélkül évente a vagyona 5%-ának m
 
 d)
 
-e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles. A közalapítvány gazdálkodásának törvényességét és célszerűségét – a helyi önkormányzat és a kisebbségi önkormányzat képviselő-testülete által alapított közalapítvány kivételével – az Állami Számvevőszék ellenőrzi.
+e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
 
 f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
