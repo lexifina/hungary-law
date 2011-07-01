@@ -1,6 +1,6 @@
 A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 76. § (3) bekezdése alapján – figyelemmel a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvényben, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben, valamint a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendeletben foglaltakra – egyes költségvetési szervek alapító okiratát az alábbiak szerint módosítom:
 
-1. A Zrínyi Miklós Nemzetvédelmi Egyetem alapításáról szóló 14/2000. (HK 9.) HM határozat 12. pontjának a) alpontja a „842191 Katonai diplomáciai tevékenység” szövegrésszel egészül ki.
+1.[^1]
 
 2. A Honvédelmi Minisztérium Fejlesztési és Logisztikai Ügynökség alapításáról szóló 120/2006. (HK 23.) HM határozat 12. pontja a „842193 Külföldön lévő magyar hadisírok feltárása, rendezése” és a „842194 Nonproliferáció, leszerelés, fegyverzetellenőrzés” szövegrészekkel egészül ki.
 
@@ -95,3 +95,5 @@ Budapest, 2010. április 14.
 Dr. Szekeres Imre s. k.,
 
 honvédelmi miniszter
+
+[^1]: Az 1. pontot a Hivatalos Értestő 2011. évi 39. számában megjelent, a Zrínyi Miklós Nemzetvédelmi Egyetem alapító okirata (a módosításokkal egységes szerkezetben) 19. pontja hatályon kívül helyezte.
