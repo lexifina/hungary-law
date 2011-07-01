@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-107-00-00
 | --- | --- | --- |
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-107-00-00.7 |
 | 2011-01-01 | 2010. évi CXXVI. törvény | 2004-107-00-00.8 |
+| 2011-07-01 | 2011. évi LXVI. törvény | 2004-107-00-00.9 |
