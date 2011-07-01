@@ -3594,7 +3594,7 @@ Engedélyezése
 
 |
 
-450 000
+580 000
 
 |
 
@@ -3610,7 +3610,7 @@ Klinikai vizsgálat engedélyének módosítása
 
 |
 
-90 000
+110 000
 
 |
 

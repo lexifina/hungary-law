@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-95-00-00.10 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 2005-95-00-00.11 |
+| 2011-07-01 | 2011. évi LXXXI. törvény | 2005-95-00-00.12 |

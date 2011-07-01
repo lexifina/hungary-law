@@ -74,6 +74,6 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 (8) A (7) bekezdés alatti termékek gyógyszerré történő átminősítésének feltételeit külön jogszabály állapítja meg.
 
-(9) A 2011. március 31-én már forgalomban lévő, növényi összetevőt is tartalmazó gyógyszernek nem minősülő gyógyhatású anyagok és készítmények gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
+(9) A 2011. március 31. napján már forgalomban lévő olyan gyógyszernek nem minősülő gyógyhatású anyagok és készítmények, amelyek valamennyi sajátosságukat figyelembe véve a hagyományos növényi gyógyszerek kategóriájába sorolhatók, gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
 
 (10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/B. § szerinti díj kezelésére, nyilvántartására és megosztására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
