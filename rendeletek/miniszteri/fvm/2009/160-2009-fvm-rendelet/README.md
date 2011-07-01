@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-160-20-
 | 2010-02-26 | 2009-160-20-82.3 | 15/2010. (II. 25.) FVM rendelet |
 | 2010-08-31 | 2009-160-20-82.4 | 13/2010. (VIII. 30.) VM rendelet |
 | 2011-04-30 | 2009-160-20-82.5 | 35/2011. (IV. 29.) VM rendelet |
+| 2011-07-01 | 2009-160-20-82.6 | 57/2011. (VI. 20.) VM rendelet |
