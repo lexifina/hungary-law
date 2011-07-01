@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a betegszállításról szóló 19/1998. (VI. 3.) NM rendelet módosításáról szóló 15/2011. (IV. 27.) NEFMI rendelet 8. § (2) bekezdésében a „2. §, a” és az „ , a (3)” szövegrész.
+## 18. §[^5]
 
 ## 3. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 12. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
 (5) Ez a rendelet 2015. január 2-án hatályát veszti.
+
+[^5]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
