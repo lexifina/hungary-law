@@ -82,7 +82,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (21)[^27] A *,++ 16M 7490, 7491 és 7492 HBCs-k – a határnapon belüli ismételt felvételre vonatkozó szabálytól eltérően –
 
-a) kúraszerű ellátásként, a 92249 Intravénás Immunglobulin kezelés (kezelési napban) OENO esetén, egy ellátási alkalommal egyszer számolhatóak el, figyelembe véve a felső határnapot,
+a)[^28] kúraszerű ellátásként, a 92249 Intravénás Immunglobulin kezelés (kezelési napban) OENO, valamint a 92257 Kombinált (infúziós és subcután) immunglobulin kezelés (28 nap kezelési ciklusra) OENO egy 28 napos kezelési ciklusra egyszer számolható el, figyelembe véve a felső határnapot,
 
 b) kúraszerű ellátásként, a 92256 Subcután Immunglobulin kezelés (28 napos kezelési ciklusra) OENO esetén, egy ellátási alkalommal maximum három 28 napos kezelési ciklusként – a tényleges kezelési időszaknak és a felső határnapnak megfelelően – számolhatóak el,
 
@@ -114,3 +114,4 @@ c) kórházi ellátás kiegészítő HBCs-jeként, a kórházi ellátás időtar
 [^25]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^26]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
 [^27]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be.
+[^28]: Az 1. § (21) bekezdés a) pontja a 36/2011. (VI. 27.) NEFMI rendelet 1. §-ával megállapított szöveg.

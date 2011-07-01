@@ -1,3 +1,3 @@
-## 9. §[^57] A 12. számú melléklet tartalmazza a fogászati szolgáltatások kódszámát, pontszámát, amely a társadalombiztosítási finanszírozás alapjául szolgál.
+## 9. §[^59] A 12. számú melléklet tartalmazza a fogászati szolgáltatások kódszámát, pontszámát, amely a társadalombiztosítási finanszírozás alapjául szolgál.
 
-[^57]: A 9. § a 14/1997. (VI. 20.) NM rendelet 3. §-ával megállapított szöveg.
+[^59]: A 9. § a 14/1997. (VI. 20.) NM rendelet 3. §-ával megállapított szöveg.
