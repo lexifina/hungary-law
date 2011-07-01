@@ -18,4 +18,4 @@ b) a Közalapítvány saját költségei, kiadásai.
 
 (3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
 
-(4) A Közalapítvány gazdálkodását az Állami Számvevőszék ellenőrzi.
+(4)

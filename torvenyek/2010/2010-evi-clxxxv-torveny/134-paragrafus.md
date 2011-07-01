@@ -20,6 +20,6 @@
 
 (10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdés szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
 
-(11) A Hatóság és a Médiatanács gazdálkodását az Állami Számvevőszék ellenőrzi.
+(11)
 
 (12) A (2) bekezdés tekintetében kötelezettségvállalásnak minősül minden olyan, a Hatóság, illetve az Alap belső utasításának megfelelően megtett jognyilatkozat, amely alapján a (2) bekezdés szerinti külön törvényben foglalt egységes költségvetés terhére fizetési kötelezettség keletkezik.

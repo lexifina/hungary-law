@@ -32,4 +32,4 @@ c) az Állami Számvevőszék elnöke által – a Számvevőszék vezető áll�
 
 (13) A 109/2010. (X. 28.) OGY határozatban rögzített irányelvek alapján a Médiatanács határozza meg az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel vehetik igénybe a közszolgálati médiaszolgáltatók.
 
-(14) A közszolgálati médiaszolgáltatók gazdálkodását az Állami Számvevőszék ellenőrzi.
+(14)
