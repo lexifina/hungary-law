@@ -38,7 +38,7 @@
 
 | Nőgyógyászat | Nőgyógyászati műtétek nem malignus folyamatokban | 56850; 56860; 56540; 56550; 56560; 56511; 56710; 56721; 56722. |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^38]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^40]
 
 Várólista jelentés az Országos Egészségbiztosítási Pénztár részére
 
@@ -46,13 +46,13 @@ A jelentés adattartalma a következő:
 
 | Intézmény kódja | Intézmény telephelye | Beavatkozás- típus | Listára kerülés dátuma [éééé/hh/nn] | Napi sorszám | Azonnali (akut) beavatkozás (A) /Halasztható beavatkozás (H) | Esemény* | Esemény dátuma [ééééhhnn]** |
 
-| * Események: |
+| * Események: |
 
 | Az adott hónap során ellátott betegek | Ellátást a beteg megkapta a jelentő intézményben normál rend szerint | NOR |
 
 | Ellátást a beteg megkapta a jelentő intézményben, de valamilyen szakmai ok miatt a listához képest előrehozva | ELO |
 
-| Az adott hónap során nem ellátott betegek ** Események dátuma: | Halasztás szakmai okokból (ideiglenes alkalmatlanság) | HSZ |
+| Az adott hónap során nem ellátott betegek ** Események dátuma: | Halasztás szakmai okokból (ideiglenes alkalmatlanság) | HSZ |
 
 | Halasztás kapacitáshiány miatt | HKH |
 
@@ -70,15 +70,15 @@ Betegfogadási listáról szóló jelentés az Országos Egészségbiztosítási
 
 A jelentés adattartalma a következő:
 
-| Intézmény kódja | Intézmény telephelye | Szakrendelés (járó) | Listára kerülés dátuma [éééé/hh/nn] | Napi sorszám | Azonnali (akut) beavatkozás (A) /Halasztható beavatkozás (H) | Esemény* | Esemény dátuma [ééééhhnn]** |
+| Intézmény kódja | Intézmény telephelye | Szakrendelés (járó) | Listára kerülés dátuma [éééé/hh/nn] | Napi sorszám | Azonnali (akut) beavatkozás (A) /Halasztható beavatkozás (H) /Keresőképtelenség miatti beavatkozás (K) | Esemény* | Esemény dátuma [ééééhhnn]** |
 
-| * Események: |
+| * Események: |
 
 | Az adott hónap során ellátott betegek | Ellátást a beteg megkapta a jelentő intézményben normál rend szerint | NOR |
 
-| Ellátást a beteg megkapta a jelentő intézményben, de valamilyen szakmai ok miatt a listához képest előrehozva | ELO |
+| Ellátást a beteg megkapta a jelentő intézményben, de valamilyen szakmai ok vagy a keresőképtelenség miatti soron kívüliség miatt a listához képest előrehozva | ELO |
 
-| Az adott hónap során nem ellátott betegek ** Esemény dátuma: | Halasztás szakmai okokból (ideiglenes alkalmatlanság) | HSZ |
+| Az adott hónap során nem ellátott betegek | Halasztás szakmai okokból (ideiglenes alkalmatlanság) | HSZ |
 
 | Halasztás kapacitáshiány miatt | HKH |
 
@@ -88,6 +88,8 @@ A jelentés adattartalma a következő:
 
 | Egyéb okból aktualitását vesztette | EOA |
 
-| Nincs esemény (várakozás) Csak igénybevett ellátás estén kitöltendő. | NES |
+| Nincs esemény (várakozás) | NES |
 
-[^38]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § d) pontja, a 351/2010. (XII. 30.) Korm. rendelet 165. §-a szerint módosított szöveg.
+| ** Esemény dátuma: | Csak igénybevett ellátás estén kitöltendő. |  |
+
+[^40]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése, a 225/2010. (VIII. 12.) Korm. rendelet 7. § d) pontja, a 351/2010. (XII. 30.) Korm. rendelet 165. §-a, a 106/2011. (VI. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.

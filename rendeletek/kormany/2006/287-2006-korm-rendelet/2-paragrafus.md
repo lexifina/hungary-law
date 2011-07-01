@@ -10,7 +10,10 @@ d) vérsejtképző őssejt: csontvelő,
 
 e)[^3] betegfogadási lista: az Ebtv. 5/B. §-ának m) pontja szerinti lista,
 
-f)[^4] azonnali ellátást igénylő eset: az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának i) pontja szerinti sürgős szükség.
+f)[^4] azonnali ellátást igénylő eset: az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának i) pontja szerinti sürgős szükség,
+
+g)[^5] keresőképtelenség miatti soron kívüli eset: az Ebtv. 20. § (4) bekezdése szerinti ellátás.
 
 [^3]: A 2. § e) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 69/2008. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § f) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2. § g) pontját a 106/2011. (VI. 30.) Korm. rendelet 8. §-a iktatta be.
