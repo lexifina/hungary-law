@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-6-00-00
 | 2010-01-22 | 2010. évi VI. törvény | 2010-6-00-00.0 (közlönyállapot) |
 | 2010-01-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-6-00-00.1 |
 | 2010-01-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-6-00-00.2 |
+| 2011-07-01 | 2011. évi LXXVIII. törvény | 2010-6-00-00.3 |
