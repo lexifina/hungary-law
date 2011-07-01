@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | 2010-04-01 | 1997-284-20-22.15 | 336/2009. (XII. 29.) Korm. rendelet |
 | 2011-01-01 | 1997-284-20-22.16 | 366/2010. (XII. 30.) Korm. rendelet |
 | 2011-05-01 | 1997-284-20-22.17 | 73/2011. (IV. 29.) Korm. rendelet |
+| 2011-07-01 | 1997-284-20-22.18 | 366/2010. (XII. 30.) Korm. rendelet |
