@@ -1,9 +1,1 @@
 9. § Hatályát veszti a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodás (ADN) szövegének módosításáról szóló Jegyzőkönyv kihirdetéséről, valamint az ADN-hez csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2010. évi VI. törvény 3–8. §-a és 1–2. számú melléklete.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
