@@ -34,11 +34,11 @@ p) fióktelep esetében – ha a magyar jogszabályok által támasztott követe
 
 q) a feladatkörében eljáró országgyűlési biztossal,
 
-r) a kártörténetre vonatkozó adatra és a bonus-malus besorolásra nézve a 109/A. § (2) bekezdésében szabályozott esetekben a biztosítóval,
+r)
 
 s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
 
-szemben, ha az a)–j), n), r) és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p) és q) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p) és q) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 

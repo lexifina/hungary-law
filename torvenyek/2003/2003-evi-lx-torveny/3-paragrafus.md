@@ -230,7 +230,7 @@ c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt �
 
 88. kárképviselő: a Gfbt.-ben meghatározott fogalom;
 
-89. kártörténetre vonatkozó adat: a gépjármű üzemben tartója által a biztosított jármű vagy járművek vonatkozásában az adott biztosítóval fennállt kötelező gépjármű-felelősségbiztosítási szerződéses jogviszony megszűnését közvetlenül megelőző biztosítási időszak alatt okozott és a biztosító által elismert, vagy a vele szemben jogerősen megítélt kártérítés alapjául szolgáló káresetek száma és időpontja, ezen és bármely előző biztosítási időszak alatt okozott káresetek alapján első alkalommal teljesített kárkifizetések dátuma (ideértve a biztosító részteljesítését is), a kifizetett kárösszeg külön jogszabályban meghatározott határidőn belüli visszafizetésének ténye és dátuma, illetve a kármentességre vonatkozó nyilatkozat, továbbá az üzemben tartó által okozott azon káresetek száma és időpontja, amelyeket a biztosító még nem ismert el, illetve a biztosítót azokkal kapcsolatos kártérítésre jogerős ítélet még nem kötelezi;
+89.
 
 90. különleges célú gazdasági egység: a viszontbiztosítókról szóló 2007. évi CLIX. törvényben (a továbbiakban: Vbit.) meghatározott fogalom;
 
