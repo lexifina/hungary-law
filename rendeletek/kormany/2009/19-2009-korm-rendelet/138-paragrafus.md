@@ -2,7 +2,7 @@
 
 ## A megfelelési programra vonatkozó szabályok
 
-138. §[^227] (1) A rendszerüzemeltetők által kidolgozott megfelelési programot a rendszerüzemeltető legalább négyévenként aktualizálja, és a megfelelési programmal érintett időszakot megelőző év szeptember 30-ig jóváhagyásra benyújtja a Hivatalnak.
+138. §[^230] (1) A rendszerüzemeltetők által kidolgozott megfelelési programot a rendszerüzemeltető legalább négyévenként aktualizálja, és a megfelelési programmal érintett időszakot megelőző év szeptember 30-ig jóváhagyásra benyújtja a Hivatalnak.
 
 (2) A jóváhagyott megfelelési programot, valamint a Hivatal jóváhagyó határozatát a rendszerüzemeltető a honlapján közzéteszi.
 
@@ -46,4 +46,4 @@
 
 19. a megfelelési program összeállításáért felelős, a rendszerüzemeltetőnél található szervezeti egység kijelölése.
 
-[^227]: A Vhr. 138. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^230]: A Vhr. 138. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.

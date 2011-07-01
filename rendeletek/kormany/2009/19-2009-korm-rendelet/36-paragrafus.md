@@ -2,7 +2,7 @@
 
 ## Szervezett földgázpiac
 
-36. §[^70] (1) A szervezett földgázpiac működtetésére vonatkozó engedélyt kérelmezőnek rendelkeznie kell:
+36. §[^72] (1)[^73] A szervezett földgázpiaci engedélyesnek rendelkeznie kell:
 
 a) a tevékenység folytatásához szükséges személyi, tárgyi és biztonsági feltételekkel, a biztonságos működéshez szükséges feltételekkel,
 
@@ -14,16 +14,8 @@ d) a földgázszállítóval egyeztetett, annak informatikai platformjához tör
 
 (2) A szervezett földgázpiac működtetésére vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének X. fejezetében meghatározott iratokat kell benyújtani.
 
-(3) A szervezett földgázpiaci tevékenység fióktelep formájában történő végzése esetén a működési engedély kiadását a Hivatal a GET 114. § (7) bekezdésében meghatározottakon túlmenően akkor is megtagadhatja, ha
+(3)[^74] A GET 114. § (13) bekezdése szerinti fióktelep működésére vonatkozó kérelmet az anyavállalat nyújtja be.
 
-a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Hivatal és a kérelmező székhelye szerinti felügyeleti hatóság között,
-
-b) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
-
-c) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, hozzájáruló nyilatkozatát vagy tudomásulvételét,
-
-d) a kérelmező nem teljesíti a szétválasztásra vonatkozó GET-ben előírt szabályokat,
-
-e) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.
-
-[^70]: A Vhr. 36. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^72]: A Vhr. 36. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^73]: A Vhr. 36. § (1) bekezdés nyitó szövegrésze a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^74]: A Vhr. 36. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 28. §-ával megállapított szöveg.

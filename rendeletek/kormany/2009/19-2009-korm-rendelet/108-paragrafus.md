@@ -1,4 +1,4 @@
-108. §[^183] (1) A földgázszállító a saját rendelkezésű egyensúlyozó eszközeit:
+108. §[^186] (1) A földgázszállító a saját rendelkezésű egyensúlyozó eszközeit:
 
 a) kereskedőtől nyilvános pályázat útján,
 
@@ -16,4 +16,4 @@ szerezheti be.
 
 (4) A földgázszállító a kiegyensúlyozási pótdíjat átláthatóan, az egyensúlyi eltérésekhez hozzárendelve köteles nyilvántartani.
 
-[^183]: A Vhr. 108. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^186]: A Vhr. 108. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

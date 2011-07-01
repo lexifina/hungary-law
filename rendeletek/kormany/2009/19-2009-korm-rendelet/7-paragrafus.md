@@ -1,4 +1,4 @@
-7. §[^27] (1) A kérelmezőnek rendelkeznie kell:
+7. §[^28] (1) A kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgázelosztási tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -40,4 +40,4 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (4) A földgázelosztó a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^27]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^28]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

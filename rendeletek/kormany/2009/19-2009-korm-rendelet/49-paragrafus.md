@@ -1,4 +1,4 @@
-49. §[^84] (1) A GET 55. § (1) bekezdés a) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára a Hivatal átlátható értékesítési kötelezettség keretében nyilvános földgáz-aukció megtartását írhatja elő.
+49. §[^93] (1) A GET 55. § (1) bekezdés a) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára a Hivatal átlátható értékesítési kötelezettség keretében nyilvános földgáz-aukció megtartását írhatja elő.
 
 (2) A Hivatal földgáz-aukciót előíró határozatában rendelkezik az értékesítendő földgáz mennyiségéről, az aukción felajánlásra kerülő termékek köréről, az aukció gyakoriságáról és megtartásának határidejéről, valamint kötelezi az engedélyest, hogy jóváhagyás céljából a Hivatal számára nyújtsa be az aukció lebonyolítására vonatkozó szabályzatát.
 
@@ -10,4 +10,4 @@
 
 (6) A földgáz-aukción felajánlandó mennyiséget a Hivatal úgy határozza meg, hogy az a kötelezett engedélyes egyéb kereskedelmi szerződéseinek teljesítését ne veszélyeztesse.
 
-[^84]: A Vhr. 49. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^93]: A Vhr. 49. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

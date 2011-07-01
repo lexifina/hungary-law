@@ -1,3 +1,3 @@
-84. §[^147] A rendszerhasználó köteles a szerződéses biztosíték (banki letét, bankgarancia, vagy egyéb biztosíték) hatályosságát a rendszerüzemeltető GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésében foglalt határidőig fenntartani. A szerződéses biztosíték meglétének ellenőrzésére a rendszerhasználó köteles.
+84. §[^150] A rendszerhasználó köteles a szerződéses biztosíték (banki letét, bankgarancia, vagy egyéb biztosíték) hatályosságát a rendszerüzemeltető GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésében foglalt határidőig fenntartani. A szerződéses biztosíték meglétének ellenőrzésére a rendszerhasználó köteles.
 
-[^147]: A Vhr. 84. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^150]: A Vhr. 84. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

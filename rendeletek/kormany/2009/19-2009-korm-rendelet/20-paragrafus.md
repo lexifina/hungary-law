@@ -2,7 +2,7 @@
 
 ## Kereskedelem
 
-20. §[^45] (1) A földgáz-kereskedelmi működési engedélyt kérelmezőnek rendelkeznie kell:
+20. §[^46] (1) A földgáz-kereskedelmi működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 1 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgáz-kereskedelmi tevékenységet, a hozzá kapcsolódó költségeket, a pénzforgalmat,
 
@@ -24,4 +24,4 @@ a) a felhasználók hozzáférhessenek a saját adataikhoz, valamint a közérde
 
 b) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^45]: A Vhr. 20. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^46]: A Vhr. 20. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

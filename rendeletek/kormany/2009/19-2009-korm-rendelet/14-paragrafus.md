@@ -1,4 +1,4 @@
-14. §[^39] (1) A telephelyi szolgáltatónak rendelkeznie kell:
+14. §[^40] (1) A telephelyi szolgáltatónak rendelkeznie kell:
 
 a) a telephelyi vezeték üzemeltetési jogával,
 
@@ -28,4 +28,4 @@ f) kapacitásfejlesztésnél történő eljárásokra,
 
 g) a földgáz rendszerek közötti átadásánál követendő normál és rendkívüli üzemmeneti eljárásokra.
 
-[^39]: A Vhr. 14. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^40]: A Vhr. 14. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-92. §[^159] (1) Az a külföldi vagy belföldi rendszerhasználó, aki szállítórendszer szabad kapacitását a Magyar Köztársaság területén történő átszállításra veszi igénybe, a kapacitás lekötésekor az ÜKSZ-ben meghatározott módon igazolnia kell az átszállításra vonatkozó jogosultságát és az átszállítandó mennyiségre kapacitáslekötési szerződést kell kötnie.
+92. §[^162] (1) Az a külföldi vagy belföldi rendszerhasználó, aki szállítórendszer szabad kapacitását a Magyar Köztársaság területén történő átszállításra veszi igénybe, a kapacitás lekötésekor az ÜKSZ-ben meghatározott módon igazolnia kell az átszállításra vonatkozó jogosultságát és az átszállítandó mennyiségre kapacitáslekötési szerződést kell kötnie.
 
 (2) Az átszállításra lekötött, de fel nem használt kapacitásra a GET 72. §-a rendelkezéseit kell alkalmazni.
 
@@ -14,4 +14,4 @@ c) a Hivatallal egyeztetett tarifaképzési elvet és képletet,
 
 d) a jogszabályokból és az ÜKSZ-ből eredő kötelezettségeket.
 
-[^159]: A Vhr. 92. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^162]: A Vhr. 92. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

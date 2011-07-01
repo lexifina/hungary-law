@@ -2,7 +2,7 @@
 
 ## Földgáztárolás
 
-17. §[^42] (1) A földgáztárolási működési engedélyt kérelmező az általa üzemeltetni kívánt földgáztárolók összességére köteles benyújtani az engedély kérelmet, beleértve a saját tulajdonú és az üzemeltetési szerződés alapján működtetett földgáztároló részeket is.
+17. §[^43] (1) A földgáztárolási működési engedélyt kérelmező az általa üzemeltetni kívánt földgáztárolók összességére köteles benyújtani az engedély kérelmet, beleértve a saját tulajdonú és az üzemeltetési szerződés alapján működtetett földgáztároló részeket is.
 
 (2) A kérelmező jegyzett tőkéje nem lehet kevesebb 500 millió forintnál.
 
@@ -42,4 +42,4 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (6) A földgáztároló az (5) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^42]: A Vhr. 17. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^43]: A Vhr. 17. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

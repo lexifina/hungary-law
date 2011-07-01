@@ -1,4 +1,4 @@
-57. §[^109] (1) A szociálisan rászoruló fogyasztó azon utolsó számla fizetési határidejének lejártáig kérheti részletfizetési kedvezmény, illetve fizetési haladék alkalmazását, amely számla a GET 65. § (5) bekezdése szerinti tilalom hiányában a földgázellátásból történő kikapcsolást megalapozná. A számlában erre a szociálisan rászoruló fogyasztó figyelmét fel kell hívni. A földgázkereskedő a fogyasztó fizetési kedvezményre vonatkozó kérelmét 15 napon belül érdemben köteles megválaszolni. A válaszadást megelőzően az előre fizető mérő felszerelésére vonatkozó értesítés nem küldhető ki.
+57. §[^108] (1)[^109] A szociálisan rászoruló fogyasztó legkésőbb a második fizetési felszólításban megjelölt fizetési határidőig kérheti részletfizetési kedvezmény, illetve fizetési haladék alkalmazását. A fizetési felszólításokban erre a szociálisan rászoruló fogyasztó figyelmét fel kell hívni. A földgázkereskedő a szociálisan rászoruló fogyasztó fizetési kedvezményre vonatkozó kérelmét 15 napon belül érdemben köteles megválaszolni. A kérelem elbírálásáig a szociálisan rászoruló fogyasztó nem kapcsolható ki.
 
 (2) Részletfizetési kedvezmény és fizetési haladék csak olyan szociálisan rászoruló fogyasztót illet meg, aki vállalja, hogy a részletfizetés, fizetési haladék igénybevételének időtartama alatt elfogyasztott földgáz ellenértékét, a tartozás részösszegeit, illetve a tartozás halasztott összegét határidőben kiegyenlíti. Részletfizetési kedvezmény, illetve fizetési haladék 12 naptári hónapon belül egy alkalommal illeti meg a szociálisan rászoruló fogyasztót.
 
@@ -22,5 +22,6 @@ c) az előző év azonos időszakának 3 havi fogyasztásának ellenértékét m
 
 (9) Ha a szociálisan rászoruló fogyasztó részletfizetési kedvezményre vagy fizetési haladékra vonatkozó kérelmét a földgázkereskedő elutasítja, vagy a szociálisan rászoruló fogyasztó a részletfizetési kedvezmény vagy fizetési haladék feltételeit nem teljesíti, a földgázkereskedő kezdeményezésére a földgázelosztó az előre fizető mérő felszereléséről a szociálisan rászoruló fogyasztót értesíti.
 
-[^109]: A Vhr. 57. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^108]: A Vhr. 57. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^109]: A Vhr. 57. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^110]: A Vhr. 57. § (4) bekezdés nyitó szövegrésze a 116/2010. (IV. 15.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.

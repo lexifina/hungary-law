@@ -1,11 +1,15 @@
-96. §[^167] (1) A rendszerüzemeltető évente az igénybejelentések alapján köteles elvégezni a rendszer technikai állapotának számításos ellenőrzését. Az ellenőrzés során figyelembe kell venni, hogy a nyilvántartott szerződéses és nyilvántartásba vételt kezdeményező felhasználók ellátása legalább –12 °C-ig fenntartható legyen.
+96. §[^170] (1) A rendszerhasználó – azon rendszerüzemeltetők részére, amelyek rendszerére az általa ellátott felhasználók csatlakoznak – tájékoztató jelleggel minden évben legkésőbb június 30-ig megadja a felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
 
-(2) A rendszerhasználó kizárólag tájékoztató jelleggel – későbbi kötelezettség nélkül – minden igénybejelentési időszakban megadja az adott pillanatban ellátási körébe tartozó felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
+(2) A rendszerüzemeltető évente az igénybejelentések alapján köteles elvégezni a rendszer technikai rendelkezésre állásának számításos ellenőrzését. Az ellenőrzés során figyelembe kell venni, hogy a nyilvántartott szerződéses és nyilvántartásba vételt kezdeményező felhasználók ellátása legalább –12 °C-ig fenntartható legyen.
 
-(3) A rendszerüzemeltető köteles minden második év augusztus 31-ig a rendszer kapacitásainak ellenőrzését a rendszerirányító koordinációjában elvégezni. A rendszerirányító a lefolytatott ellenőrzésről 30 napon belül köteles jelentést adni a Hivatalnak.
+(3) A rendszerüzemeltető minden év augusztus 31-ig
 
-(4) A (3) bekezdés szerinti jelentésnek tartalmaznia kell a szállító- és elosztóvezetékek igényfelmérését, annak indokolását és az elvégzett érzékenységi vizsgálatokat, a javasolt fejlesztéseket és azok érintettjeit, a becsült fejlesztési költségeket, kiemelt figyelemmel a szigetüzemben működő rendszerekre.
+a) elvégzi a GET 82. § (1) bekezdés szerinti kapacitás-felülvizsgálatot, és
 
-(5) A Hivatal eljárása során megvizsgálja különösen a fejlesztési költségeket, a tarifarendszerbe illeszthetőséget és előzetes hozzájárulást ad ki a fejlesztésekhez. Az előzetes hozzájárulás nem mentesíti az engedélyest a működési engedélyének a fejlesztések átvezetésével történő módosításától.
+b) a fejlesztési javaslatát a szállítási rendszerirányítónak megküldi.
 
-[^167]: A Vhr. 96. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+(4) A fejlesztési javaslatnak tartalmaznia kell a kapacitásigény indokolását, az elvégzett érzékenységi vizsgálatokat, a javasolt fejlesztéseket és azok hatásait, valamint a becsült fejlesztési költségeket kiemelt figyelemmel a szigetüzemben működő rendszerekre.
+
+(5) A szállítási rendszerirányító a GET 82. § (2) bekezdés szerinti összehangolt kapacitás-felülvizsgálat eredményét és a 10 éves fejlesztési tervet minden év december 31-ig küldi meg a Hivatalnak.
+
+[^170]: A Vhr. 96. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.

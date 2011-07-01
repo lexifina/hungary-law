@@ -1,4 +1,4 @@
-70. §[^130] (1) A szigetüzemre csatlakozó felhasználót tájékoztatni kell a szigetüzem sajátosságairól, különös tekintettel a felhasználói készülékek beszerzésére és beállításaira, továbbá az esetleges földgáz-minőségváltozásból eredő készülék-átállítási költségekre.
+70. §[^132] (1) A szigetüzemre csatlakozó felhasználót tájékoztatni kell a szigetüzem sajátosságairól, különös tekintettel a felhasználói készülékek beszerzésére és beállításaira, továbbá az esetleges földgáz-minőségváltozásból eredő készülék-átállítási költségekre.
 
 (2) A földgázszállító teljes szigetüzem esetén az öt éves várható termelési és fogyasztási adatok alapján köteles a termelésnek a fogyasztás szintje alá történő csökkenését megelőzően legalább két gázévvel – a Hivatal jóváhagyásával – a teljes szigetüzem részleges szigetüzemmé történő átalakítását megkezdeni.
 
@@ -6,4 +6,4 @@
 
 (4) A szigetüzemben működő földgázelosztó köteles üzletszabályzatában nyilvánossá tenni az adott szigetüzemben alkalmazott minőség-elszámolási rendet.
 
-[^130]: A Vhr. 70. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^132]: A Vhr. 70. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
