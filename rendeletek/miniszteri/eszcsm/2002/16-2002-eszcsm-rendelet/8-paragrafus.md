@@ -1,6 +1,6 @@
 8. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^5]
+(2)[^7]
 
 Melléklet a 16/2002. (XII. 12.) ESZCSM rendelethez
 
@@ -96,4 +96,4 @@ Megfigyelő-ébredő helyiségben:
 
 – kötszerek, fecskendők, tűk, a műtéthez és az ápoláshoz szükséges egyéb anyagok.
 
-[^5]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 97. pontja hatályon kívül helyezte.
+[^7]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 97. pontja hatályon kívül helyezte.

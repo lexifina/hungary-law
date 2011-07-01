@@ -2,7 +2,7 @@
 
 ## Egynapos sebészeti ellátás
 
-2. § (1) Egynapos sebészeti ellátás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) 9. számú mellékletében felsorolt beavatkozások végezhetők előre tervezetten, feltéve, hogy a beteg 24 óránál kevesebb időt tartózkodik a beavatkozást végző egészségügyi intézményben.
+2. § (1)[^1] Egynapos sebészeti ellátás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) 9. számú mellékletében felsorolt beavatkozások végezhetők, feltéve, hogy a beteg 24 óránál kevesebb időt tartózkodik a beavatkozást végző egészségügyi intézményben.
 
 (2) Az egynapos sebészeti ellátás keretében műtét akkor végezhető, ha a beteg:
 
@@ -23,3 +23,5 @@ dc) tartózkodási helyén telefon biztosított,
 dd) hazaszállításakor és a tartózkodási helyén a műtétet követő éjszakán részére a felügyelet, valamint szükség esetén a megfelelő egészségügyi ellátáshoz jutás lehetősége biztosított,
 
 de) hozzájárul a műtét egynapos sebészeti ellátás formájában történő elvégzéséhez.
+
+[^1]: A 2. § (1) bekezdése a 36/2011. (VI. 27.) NEFMI rendelet 8. §-a szerint módosított szöveg.

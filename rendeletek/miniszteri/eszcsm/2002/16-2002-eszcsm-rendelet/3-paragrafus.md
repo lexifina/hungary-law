@@ -1,10 +1,10 @@
-3. § (1) Egynapos sebészeti ellátás – fekvőbeteg-ellátási intézményen kívül – járóbeteg-szakellátás keretében olyan
+3. § (1)[^2] Egynapos sebészeti ellátás – fekvőbeteg-ellátási intézményen kívül – járóbeteg-szakellátás keretében olyan
 
 a) szakorvosi rendelőintézeti szakrendelésen, vagy
 
 b) egyéb szakrendelésen
 
-## végezhető, amely a (2) bekezdésben foglalt feltételeknek megfelel.
+## végezhető, amely a (2) bekezdésben foglalt feltételeknek megfelel, amennyiben azt az R. 9. számú melléklete engedi.
 
 (2) Az (1) bekezdés szerinti járóbeteg-szakellátást nyújtó szolgáltató biztosítja:
 
@@ -16,7 +16,7 @@ c) az operált beteg részére az intézményben tartózkodás idejére a műté
 
 d) a műtét közben esetleg kialakuló szövődmények ellátásához szükséges személyi és tárgyi feltételeket;
 
-e)[^1] a műtétet követően azzal összefüggő szövődmény fellépése esetén a beteg ellátását
+e)[^3] a műtétet követően azzal összefüggő szövődmény fellépése esetén a beteg ellátását
 
 ea) a beavatkozás szakmai besorolása szerinti aktív fekvőbeteg háttérrel rendelkezés esetén saját intézményében, vagy
 
@@ -26,4 +26,5 @@ f) a műtét során eltávolított anyag szövettani vizsgálatának lehetőség
 
 g) a beteg részére zárójelentést, amellyel szükség esetén a keresőképtelen állományba való felvételének indokoltságát igazolhatja.
 
-[^1]: A 3. § (2) bekezdésének e) pontja a 10/2008. (III. 18.) EüM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés záró szövegrésze a 36/2011. (VI. 27.) NEFMI rendelet 7. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdésének e) pontja a 10/2008. (III. 18.) EüM rendelet 1. §-ával megállapított szöveg.
