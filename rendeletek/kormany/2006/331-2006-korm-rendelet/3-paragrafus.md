@@ -32,10 +32,10 @@ l)[^12] megállapítja az óvodáztatási támogatásra való jogosultságot,
 
 m)[^13] ellátja a törvényben vagy kormányrendeletben hatáskörébe utalt egyéb gyermekvédelmi és gyámügyi feladatokat.
 
-(2)[^14] A mellékletben kijelölt települési önkormányzat jegyzője dönt a gyermekjóléti szolgáltatás és a gyermekek napközbeni ellátása működésének engedélyezéséről. A jegyző ellenőrzi a gyermekjóléti szolgáltatás és a gyermekek napközbeni ellátásának működését és ennek keretében szükség esetén a Gyvt. 100/A. §-a szerinti gyermekvédelmi igazgatási bírságot szab ki vagy a Gyvt. 100/B. §-ában foglalt intézkedést tesz.
+(2)[^14]
 
 [^10]: A 3. § (1) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^11]: A 3. § (1) bekezdés új k) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be, egyidejűleg az eredeti k) pont megjelölését m) pontra változtatta, szövege a 237/2010. (IX. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^12]: A 3. § (1) bekezdés l) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^13]: A 3. § (1) bekezdés eredeti k) pontjának megjelölését m) pontra változtatta a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése.
-[^14]: A 3. § (2) bekezdés második mondatát a 173/2009. (VIII. 29.) Korm. rendelet 47. § (2) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell. A 3. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 54. §-a hatályon kívül helyezte. [Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.]
+[^14]: A 3. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 54. §-a hatályon kívül helyezte.
