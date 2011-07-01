@@ -1,125 +1,93 @@
-## I. Az egyetemes szolgáltató által az I. árkategória esetén alkalmazandó díjak
+## I. Az egyetemes szolgáltató által az I. árkategória esetében alkalmazandó díjak
 
-## I.1 Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
-
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
-
-|  | Ft | Ft/MJ |
-
-| <20 m3/h gázmérővel rendelkezők | 12000 | 2,819 |
-
-## I.2 Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+## I.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 | Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
 
 |  | Ft | Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkezők | 12000 | 2,859 |
+| <20 m3/h gázmérővel rendelkezők | 12000 | 2,893 |
 
-## I.3 A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
-
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
-
-|  | Ft | Ft/MJ |
-
-| <20 m3/h gázmérővel rendelkezők | 12000 | 2,808 |
-
-## I.4 A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## I.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
 | Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
 
 |  | Ft | Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkezők | 12000 | 2,948 |
+| <20 m3/h gázmérővel rendelkezők | 12000 | 2,933 |
 
-## II. Az egyetemes szolgáltató által a II. árkategória esetén alkalmazandó díjak
+## I.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-## II.1 Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Teljesítmény- díjak (éves) | Gázdíjak Ft/MJ |
+|  | Ft | Ft/MJ |
 
-|  |  |  | Ft | Ft/m3/h | Ft/MJ/h |  |
+| <20 m3/h gázmérővel rendelkezők | 12000 | 2,882 |
 
-| I.1 | 100 m3/h-nál nem nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+## I.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-|  | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  |  | 3,254 |
+| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
 
-|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  |  | 2,972 |
+|  | Ft | Ft/MJ |
 
-|  | B) | >20 m3/h gázmérővel rendelkezők |  | 19068 |  | 2,401 |
+| <20 m3/h gázmérővel rendelkezők | 12000 | 3,022 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  |  | 3,092 |
+## II. Az egyetemes szolgáltató által a II. árkategória esetében alkalmazandó díjak
 
-| I.2 | 100 m3/h-nál nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+## II.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-|  | A) | 3131-17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,112 |
+| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
 
-|  | B) | >17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,407 |
+| Ft | Ft/m3/h |
 
-## II.2 Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+| I.1 | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  | 3,328 |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Teljesítmény- díjak (éves) | Gázdíjak Ft/MJ |
+|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  | 3,046 |
 
-|  |  |  | Ft | Ft/m3/h | Ft/MJ/h |  |
+|  | B) | ≥20 m3/h gázmérővel rendelkezők |  | 19068 | 2,475 |
 
-| I.1 | 100 m3/h-nál nem nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+|  | C) | Gázmérővel nem rendelkezők |  |  | 3,166 |
 
-|  | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  |  | 3,216 |
+## II.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
-|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  |  | 3,014 |
+| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
 
-|  | B) | >20 m3/h gázmérővel rendelkezők |  | 19068 |  | 2,406 |
+| Ft | Ft/m3/h |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  |  | 3,138 |
+| I.1 | A1) | < 20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  | 3,290 |
 
-| I.2 | 100 m3/h-nál nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  | 3,088 |
 
-|  | A) | 3131-17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,251 |
+|  | B) | ≥20 m3/h gázmérővel rendelkezők |  | 19068 | 2,480 |
 
-|  | B) | >17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,419 |
+|  | C) | Gázmérővel nem rendelkezők |  |  | 3,212 |
 
-## II.3 A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## II.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Teljesítmény- díjak (éves) | Gázdíjak Ft/MJ |
+| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
 
-|  |  |  | Ft | Ft/m3/h | Ft/MJ/h |  |
+| Ft | Ft/m3/h |
 
-| I.1 | 100 m3/h-nál nem nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+| I.1 | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  | 3,351 |
 
-|  | A1) | <20 m3/h gázmérővel rendelkezők kivéve fogyasztói közösségek | 12000 |  |  | 3,277 |
+|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  | 3,036 |
 
-|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  |  | 2,962 |
+|  | B) | ≥20 m3/h gázmérővel rendelkezők |  | 19068 | 2,594 |
 
-|  | B) | >20 m3/h gázmérővel rendelkezők |  | 19068 |  | 2,520 |
+|  | C) | Gázmérővel nem rendelkezők |  |  | 3,154 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  |  | 3,080 |
+## II.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság elosztói működési terü-letén alkalmazandó díjak:
 
-| I.2 | 100 m3/h-nál nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
+| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
 
-|  | A) | 3131-17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,362 |
+| Ft | Ft/m3/h |
 
-|  | B) | >17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,349 |
+| I.1 | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  | 3,477 |
 
-## II.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  | 3,181 |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Teljesítmény- díjak (éves) | Gázdíjak Ft/MJ |
+|  | B) | ≥20 m3/h gázmérővel rendelkezők |  | 19068 | 2,587 |
 
-|  |  |  | Ft | Ft/m3/h | Ft/MJ/h |  |
-
-| I.1 | 100 m3/h-nál nem nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
-
-|  | A1) | <20 m3/h gázmérővel rendelkezők, kivéve fogyasztói közösségek | 12000 |  |  | 3,403 |
-
-|  | A2) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 12000 |  |  | 3,107 |
-
-|  | B) | >20 m3/h gázmérővel rendelkezők |  | 19068 |  | 2,513 |
-
-|  | C) | Gázmérővel nem rendelkezők |  |  |  | 3,192 |
-
-| I.2 | 100 m3/h-nál nagyobb mérővel rendelkező felhasználók |  |  |  |  |  |
-
-|  | A) | 3131-17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,357 |
-
-|  | B) | >17100 MJ/h teljesítménylekötés |  |  | 1000 | 2,340 |
+|  | C) | Gázmérővel nem rendelkezők |  |  | 3,266 |
 
 4. melléklet a 28/2009. (VI. 25.) KHEM rendelethez

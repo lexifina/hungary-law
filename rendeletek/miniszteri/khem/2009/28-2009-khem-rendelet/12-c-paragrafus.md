@@ -1,5 +1,5 @@
-12/C. §[^13] (1) A felhasználó elszámolási időszakonként egyszer jogosult a szolgáltató felé korábban megadott – a részszámlák kiállításának alapjául szolgáló – éves várható fogyasztási mennyiséget módosítani.
+12/C. §[^31] (1) A felhasználó elszámolási időszakonként egyszer jogosult a szolgáltató felé korábban megadott – a részszámlák kiállításának alapjául szolgáló – éves várható fogyasztási mennyiséget módosítani.
 
 (2) A szolgáltató (1) bekezdés szerinti módosítás esetén jogosult a földgázelosztótól legkorábban a módosítást követő harmadik hónaptól a gázmérő berendezés rendkívüli leolvasását (a továbbiakban: rendkívüli leolvasás) igényelni. Ha a rendkívüli leolvasás eredményeként nyilvánvalóvá válik, hogy a felhasználó által módosított éves várható fogyasztási mennyiség legalább 20%-kal alacsonyabb a rendkívüli leolvasás adatai alapján várható éves fogyasztásnál, a rendkívüli leolvasás időpontját követő első számla kiállításától kezdődően a várható éves fogyasztási mennyiséget a rendkívüli leolvasás adatainak megfelelően módosítani kell. A szolgáltató ebben az esetben jogosult a rendkívüli leolvasás költségeit a felhasználónak kiszámlázni, amelyet a felhasználó köteles a szolgáltatónak megfizetni.
 
-[^13]: A 12/C. §-t a 39/2010. (XII. 31.) NFM rendelet 4. §-a iktatta be.
+[^31]: A 12/C. §-t a 39/2010. (XII. 31.) NFM rendelet 4. §-a iktatta be.

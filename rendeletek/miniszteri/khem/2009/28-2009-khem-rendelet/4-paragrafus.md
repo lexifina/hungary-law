@@ -1,4 +1,4 @@
-## 3/A. §[^9] A szolgáltatók által alkalmazandó díjakat – elosztói működési területenkénti bontásban – az éves fogyasztott mennyiség alapján I. és II. árkategóriában a 3. melléklet tartalmazza.
+## 3/A. §[^16] A szolgáltatók által alkalmazandó díjakat – elosztói működési területenkénti bontásban – az éves fogyasztott mennyiség alapján I. és II. árkategóriában a 3. melléklet tartalmazza.
 
 4. § (1) A felhasználó által fizetendő mennyiségarányos díj összegét – a 12. §-ban foglaltak kivételével –
 
@@ -6,7 +6,7 @@ a) a szolgáltatott (átvett) földgáz köbméterben mért és gáztechnikai no
 
 b) a mérési időszakra a (3) bekezdés szerint meghatározott fűtőértéknek, valamint
 
-c) az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljesítménye és a szerződött (lekötött) teljesítmény szerinti díjkategóriához tartozó – megállapított 3. melléklet szerinti gázdíjnak
+c)[^17] az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljesítménye szerinti díjkategóriához tartozó – megállapított 3. melléklet szerinti gázdíjnak
 
 ## a szorzataként kell meghatározni.
 
@@ -16,4 +16,5 @@ c) az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljes
 
 (4) Üzemi állapotról gáztechnikai normálállapotra történő átszámításnál a 4. mellékletben meghatározott hitelesítési előírásokban foglaltak az irányadóak.
 
-[^9]: A 3/A. §-t a 39/2010. (XII. 31.) NFM rendelet 3. §-a iktatta be, szövege a 12/2011. (IV. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3/A. §-t a 39/2010. (XII. 31.) NFM rendelet 3. §-a iktatta be, szövege a 12/2011. (IV. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdés c) pontja a 32/2011. (VI. 30.) NFM rendelet 3. §-a szerint módosított szöveg.

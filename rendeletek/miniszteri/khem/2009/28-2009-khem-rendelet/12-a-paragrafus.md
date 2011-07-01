@@ -1,4 +1,4 @@
-12/A. §[^11] (1) Az I. árkategória díjszabása a 20 m3/h alatti gázmérővel rendelkező felhasználók vételezési helye esetében alkalmazandó.
+12/A. §[^29] (1) Az I. árkategória díjszabása a 20 m3/h alatti gázmérővel rendelkező felhasználók vételezési helye esetében alkalmazandó.
 
 (2) Az (1) bekezdés nem alkalmazható azon felhasználók vonatkozásában, ahol a közös gázmérővel rendelkező lakóépületen belül egynél több műszakilag megosztott önálló lakás van.
 
@@ -10,4 +10,4 @@
 
 (6) A (3)–(4) bekezdés szerinti mennyiséget szolgáltatás szüneteltetése vagy szerződésszegés miatti kikapcsolás időtartamával arányosan csökkenteni kell.
 
-[^11]: A 12/A. §-t a 39/2010. (XII. 31.) NFM rendelet 4. §-a iktatta be.
+[^29]: A 12/A. §-t a 39/2010. (XII. 31.) NFM rendelet 4. §-a iktatta be.

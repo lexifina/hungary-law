@@ -42,6 +42,8 @@
 
 ## A gázszolgáltató megnevezése:
 
+## A területi földgázelosztó megnevezése:
+
 ## Ügyfélazonosító száma vagy a hivatkozási szám:
 
 ## A gázmérő gyári száma:
@@ -54,7 +56,7 @@
 
 ## a) a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát,
 
-## b) a szolgáltatásba újonnan bekapcsolt felhasználási hely esetén a szerződés másolatát.
+## b) a szolgáltatásba újonnan bekapcsolt felhasználási hely esetében a szerződés másolatát.
 
 ## 4. Fogyasztói közösség képviselőjére vonatkozó adatok
 
@@ -80,40 +82,42 @@
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^40]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^62]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
-A kedvezményre való jogosultságot megállapító szerv megnevezése:
+1. A kedvezményre való jogosultságot megállapító szerv megnevezése:
 
-A kedvezményre való jogosultságot megállapító határozat száma:
+2. A kedvezményre való jogosultságot megállapító határozat száma:
 
-Jogosult
+3. A jogosult
 
-neve:
+3.1. neve:
 
-lakcíme (fogyasztási hely):
+3.2. lakcíme (fogyasztási hely):
 
-A jogosultság kezdő időpontja:
+4. A jogosultság kezdő időpontja:
 
-A jogosultság végső időpontja:
+5. A jogosultság végső időpontja:
 
-Adat jellege (új/ módosító/törlő/jogosulatlan):
+6. Adat jellege (új/módosító/törlő/jogosulatlan):
 
-Szolgáltató kódja:
+7. Szolgáltató kódja:
 
-Település neve:
+8. Területi földgázelosztó:
 
-A szolgáltatónál szereplő azonosító szám (ügyfél azonosító, fogyasztási hely azonosító, szerződésszám, hivatkozási szám, mérő gyári száma):
+9. Település neve:
 
-Jogosultság szempontjából figyelembe vett gyerekek száma:
+10. A szolgáltatónál szereplő azonosító szám (ügyfél azonosító, fogyasztási hely azonosító, szerződésszám, hivatkozási szám, mérő gyári száma):
 
-Gyerekek után járó kedvezmény felső határa:
+11. Jogosultság szempontjából figyelembe vett gyerekek száma:
 
-16/C. § (1) bekezdés c) pont ca) alpontja esetén MJ
+12. Gyerekek után járó kedvezmény felső határa:
 
-16/C. § (1) bekezdés c) pont cb) alpontja esetén Ft
+12.1. A 16/C. § (1) bekezdés c) pont ca) alpontja esetén (MJ):
 
-Dátum
+12.2. A 16/C. § (1) bekezdés c) pont cb) alpontja esetén (Ft):
 
-[^40]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be.
+13. Dátum.
+
+[^62]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.
