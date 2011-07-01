@@ -1,16 +1,6 @@
 ## 8. A kifizetési kérelem benyújtása
 
-15. § (1) A kifizetési kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül 2011. október 1. és október 31. között, ezt követően évente
-
-a) január 1. és január 31.,
-
-b) április 1. és április 30.,
-
-c) július 1. és július 31., valamint
-
-d) október 1. és október 31.
-
-között lehet benyújtani az MVH-hoz.
+15. § (1)[^1] A kifizetési kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül lehet benyújtani az MVH-hoz.
 
 (2) A kifizetési kérelem
 
@@ -43,3 +33,5 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 d) a turisztikai szakmai szervezeti tagság igazolását.
 
 (4) A kifizetési kérelemhez benyújtandó dokumentumokat elektronikus űrlapon, szkennelés útján előállított formában kell mellékelni a kifizetési kérelemhez.
+
+[^1]: A 15. § (1) bekezdése az 57/2011. (VI. 20.) VM rendelet 15. §-ával megállapított szöveg.
