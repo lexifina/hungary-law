@@ -1,5 +1,0 @@
-22. § (1) A Nemzeti Fejlesztési Ügynökséget, illetve a forráskezelő szervezetet mint megkeresőt terheli az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 161. § (2) bekezdése szerinti végrehajtási költségminimum előlegezése.
-
-(2) Amennyiben az adók módjára történő behajtás eredménytelen, erről az adóhatóság értesíti a Nemzeti Fejlesztési Ügynökséget, illetve a forráskezelő szervezetet. A Nemzeti Fejlesztési Ügynökség, illetve a forráskezelő szervezet az adók módjára történő eredménytelen behajtásról való adóhatósági értesítés kézhezvételét követően minden további intézkedést köteles megtenni az esetleges további biztosítékok érvényesítése érdekében. Amennyiben ez az eljárás nem vezet eredményre, a forráskezelő szervezettel, illetve a közvetítővel szemben a Nemzeti Fejlesztési Ügynökség, illetve a forráskezelő szervezet felszámolási eljárás elrendelését kezdeményezi.
-
-(3) A Nemzeti Fejlesztési Ügynökség, illetve a forráskezelő szervezet a már elindult csőd-, felszámolási, végelszámolási, az ismeretlen székhelyű cég megszüntetésére irányuló vagy végrehajtási eljárásokba köteles bekapcsolódni.

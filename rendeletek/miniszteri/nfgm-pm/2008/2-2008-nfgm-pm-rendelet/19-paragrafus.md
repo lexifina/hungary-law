@@ -1,3 +1,0 @@
-19. § (1) A forráskezelő szervezet a szabálytalansági vizsgálat elindításáról két munkanapon belül írásban értesíti a Nemzeti Fejlesztési Ügynökséget. A forráskezelő szervezetnél elindított szabálytalansági vizsgálat lefolytatásának jogát a Nemzeti Fejlesztési Ügynökség annak a vele történt közlését követő 3 munkanapon belül magához vonhatja. Ebben az esetben a Nemzeti Fejlesztési Ügynökség döntéséről írásban értesíti a forráskezelő szervezet vezetőjét, és egyúttal kéri a rendelkezésre álló dokumentumok megküldését.
-
-(2) A forráskezelő szervezet szabálytalanságfelelőse a rendelkezésre álló dokumentumokat – másolat megtartása mellett – az (1) bekezdés szerinti megkereséstől számított 5 munkanapon belül megküldi a Nemzeti Fejlesztési Ügynökségnek.
