@@ -82,6 +82,6 @@
 
 | Átvétel időpontja: ____ év __hó __ nap __ perc | ....................................................... továbbszállítást elrendelő orvos aláírása és bélyegzője |
 
-3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^48]
+3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^49]
 
-[^48]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja szerint módosított szöveg.
+[^49]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja szerint módosított szöveg.
