@@ -30,11 +30,11 @@ b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, töb
 
 (8) A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni, a támogatásra irányuló kérelem benyújtásakor:
 
-a) a 164/1995. (XII. 27.) Korm. rendelet 2. § a), b), c) pontjában meghatározott támogatásokra vonatkozóan a súlyos mozgáskorlátozottságot megállapító, a lakhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzője, illetve a fővárosi és megyei kormányhivatal által hozott jogerős határozattal,
+a)[^65] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerinti iratokkal,
 
-b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott,
+b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
-c) az a) és b) pont szerinti igazolások hiányában a lakóhely szerint illetékes rehabilitációs szakrendelés orvosának szakvéleményével arról, hogy a magánszemély a 164/1995. (XII. 27.) Korm. rendelet 1. számú mellékletében meghatározottak alapján súlyos mozgáskorlátozott.
+c)[^66]
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -66,3 +66,5 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 [^63]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^64]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^65]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^66]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.

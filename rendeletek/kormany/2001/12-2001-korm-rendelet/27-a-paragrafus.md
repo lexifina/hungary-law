@@ -1,4 +1,4 @@
-27/A. §[^192] (1) A központi költségvetés bérlakásállomány növelését szolgáló Állami Bérlakás Program előirányzatából, a szakképzett munkaerő mobilitásának elősegítése érdekében, költségelven történő bérbeadás céljából pályázat útján vissza nem térítendő támogatást igényelhet új lakóépület építésére, használt lakás vásárlására, illetve e lakások korszerűsítésére, bővítésére, felújítására, valamint önkormányzati tulajdonú nem lakáscélú ingatlan lakáscélra történő átalakítására az a települési önkormányzat, amelynek a közigazgatási területén 2011. január 1-je és 2013. december 31-e között legalább 100 újonnan létesített munkahely létrehozásával járó beruházás kezdődik vagy kezdődött meg.
+27/A. §[^194] (1) A központi költségvetés bérlakásállomány növelését szolgáló Állami Bérlakás Program előirányzatából, a szakképzett munkaerő mobilitásának elősegítése érdekében, költségelven történő bérbeadás céljából pályázat útján vissza nem térítendő támogatást igényelhet új lakóépület építésére, használt lakás vásárlására, illetve e lakások korszerűsítésére, bővítésére, felújítására, valamint önkormányzati tulajdonú nem lakáscélú ingatlan lakáscélra történő átalakítására az a települési önkormányzat, amelynek a közigazgatási területén 2011. január 1-je és 2013. december 31-e között legalább 100 újonnan létesített munkahely létrehozásával járó beruházás kezdődik vagy kezdődött meg.
 
 (2) Az (1) bekezdésben meghatározott jogcímekre támogatást a települési önkormányzat csak a közigazgatási területén lévő, illetve felépítendő ingatlanra igényelhet.
 
@@ -20,4 +20,4 @@
 
 (11) A pályázat részletes feltételeit, valamint az elbírálása során alkalmazandó, a nyertes pályázók kiválasztását elősegítő szempontrendszert a pályázati útmutató tartalmazza.
 
-[^192]: A 27/A. §-t a 74/2011. (V. 2.) Korm. rendelet 5. §-a iktatta be.
+[^194]: A 27/A. §-t a 74/2011. (V. 2.) Korm. rendelet 5. §-a iktatta be.
