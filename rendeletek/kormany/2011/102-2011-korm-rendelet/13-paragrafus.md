@@ -1,0 +1,23 @@
+## 7. Záró rendelkezések
+
+13. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+(2) E rendelet hatálybalépését követően szerzési és átalakítási támogatás csak az e rendelet szerinti jogosultsági feltételekkel rendelkező személynek adható. Az ezt megelőzően hozott, jogosultsági feltételek fennállását megállapító határozatokra tekintettel szerzési és átalakítási támogatás nem adható.
+
+(3) A lakóhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzője, valamint a hivatal
+
+a) az e rendelet hatálybalépésekor előtte folyamatban lévő, szerzési és átalakítási támogatásra való jogosultság megállapítása iránti eljárást megszünteti,
+
+b) a 2011. év folyamán hozott, szerzési, illetve átalakítási támogatásra való jogosultságot megállapító olyan határozatát, amely alapján még nem került sor utalvány kibocsátására, valamint az R. 11/A. § (1) bekezdése szerinti határozatát visszavonja,
+
+és ezzel egyidejűleg az ügyfelet tájékoztatja arról, hogy a kérelmét hova nyújthatja be, és ahhoz milyen dokumentumokat kell csatolnia, egyidejűleg a már benyújtott dokumentumokat visszaküldi.
+
+(4) E rendelet hatálybalépését követően a lejárt és a hatálybalépésig fel nem használt utalványokra új jogosult nem jelölhető ki. A már kiadott utalványok az érvényességük lejártáig, de legkésőbb 2011. december 31-éig használhatók fel.
+
+(5) 2011. évben
+
+a) a szerzési, illetve átalakítási támogatás iránti kérelem benyújtásának határideje 2011. szeptember 15-e,
+
+b) a hivatal a jogosultságokról – az általa létrehozott bizottság véleményének kikérésével és a keretszámnak a figyelembevételével – 2011. október 15-éig dönt.
+
+(6) A 2. § f) pont fc) alpontja, a 7. § (3) bekezdés a) pont ac) alpontja, valamint a 7. § (3) bekezdés d) pont dd) alpontja alkalmazásában a szakértői szerv jogelődjének az Országos Rehabilitációs és Szociális Szakértői Intézet minősül.

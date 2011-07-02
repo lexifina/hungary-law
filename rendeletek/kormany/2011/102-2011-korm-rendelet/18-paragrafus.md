@@ -1,0 +1,1 @@
+18. § A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény végrehajtásáról szóló 67/2008. (III. 29.) Korm. rendelet 4. § k) pontjában a „164/1995. (XII. 27.) Korm. rendelet 15. §-a” szövegrész helyébe a „kormányrendelet” szöveg lép.
