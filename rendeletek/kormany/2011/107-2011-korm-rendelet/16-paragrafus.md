@@ -6,8 +6,6 @@
 
 (3) A 4. § (3) bekezdésében az ellenőrző szervezet részére a bejelentés vizsgálatára rendelkezésre álló határidő a bejelentés benyújtását követő 45 nap.
 
-(4) Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) 64. § (3) bekezdése helyébe a következő rendelkezés lép:
+(4)–(5)[^1]
 
-## „(3) A miniszter – a (4)–(5) bekezdésben foglalt kivétellel – ellátja a sportigazgatási szerv feladatait.”
-
-(5) Az R. 64. §-a a következő (5) bekezdéssel egészül ki:
+[^1]: A 16. § (4)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

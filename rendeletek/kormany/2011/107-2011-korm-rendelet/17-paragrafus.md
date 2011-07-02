@@ -1,5 +1,3 @@
-## „(5) A sportról szóló 2004. évi I. törvény 51. § (2) bekezdés g) pontja szerinti látvány-csapatsportok támogatásával összefüggő közigazgatási hatósági és szolgáltatási feladatok tekintetében a sportigazgatási szerv feladatait a Nemzeti Sport Intézet látja el.”
-
 17. § (1) A 2. § (2) bekezdés alapján nyújtott támogatások csekély összegű támogatásnak minősülnek, amelyeket kizárólag a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L sorozat 379/5 2006. 12. 28.) (a továbbiakban: 1998/2006/EK bizottsági rendelet) szabályai alapján lehet nyújtani.
 
 (2) Csekély összegű támogatás nem nyújtható nehéz helyzetben lévő vállalkozások részére.
