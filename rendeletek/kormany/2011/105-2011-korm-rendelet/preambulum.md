@@ -1,1 +1,0 @@
-A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés j), o) és u) pontjában, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés s) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
