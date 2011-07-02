@@ -1,3 +1,0 @@
-61. § A Gyftv. 20. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.”

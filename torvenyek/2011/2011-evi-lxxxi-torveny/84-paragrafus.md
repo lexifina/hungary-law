@@ -1,15 +1,3 @@
 ## Egyéb, az egészségüggyel összefüggő törvények módosítása
 
-84. § (1) Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.) 2. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Az egészségügyi államigazgatási szerv felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében]
-
-„a) az ország egész területén – a honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek, a Magyar Honvédség katonai szervezetei és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit) tevékenységének kivételével – közegészségügyi ellenőrzést végez;”
-
-(2) Az Ehi. 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek, továbbá a Magyar Honvédség katonai szervezetei közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.”
-
-(3) Az Ehi. 2. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.”
+84. §

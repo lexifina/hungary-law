@@ -1,7 +1,0 @@
-55. § (1) A Gyftv. 13/A. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről a gyógyszerészeti államigazgatási szerv a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza. A nyilvántartásba vétel a bejelentésben meghatározott időtartamra, ennek hiányában határozatlan időre szól. A nyilvántartásból a 12. § (4) bekezdése szerint megjelölt időtartam elteltével, ennek hiányában az adatokban beállt változás bejelentését követően az adatok törlésre kerülnek.”
-
-(2) A Gyftv. 13/A. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) A gyógyszerészeti államigazgatási szerv az ismertető személy részére a nyilvántartásba vétellel egyidejűleg a bejelentésben megjelölt időtartamra, ennek hiányában határozatlan időre érvényes ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, fényképét, a nyilvántartásba vételi számát, az érvényesség idejét, és az ismertetési tevékenységet folytató nevét, akivel az ismertető személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.”
