@@ -1,5 +1,3 @@
-## 16. § Hatályát veszíti
+16. §[^14]
 
-a) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló 59/2007. (XII. 23.) IRM rendelet,
-
-b) az egységes nyomozóhatósági és ügyészségi bűnügyi statisztika adatlapjairól, a kitöltési kódszótárakról és a kitöltési szabályzatról szóló 1/2009. (I. 10.) IRM tájékoztató.
+[^14]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
