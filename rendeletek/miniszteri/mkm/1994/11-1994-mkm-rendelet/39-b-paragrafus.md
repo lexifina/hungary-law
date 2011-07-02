@@ -1,4 +1,4 @@
-39/B. §[^185] (1) A közoktatási törvény 86. §-ának (5) bekezdésében szabályozott kiegészítő kisebbségi oktatást a Nemzeti, etnikai kisebbségi iskolai oktatás irányelvének a nyelvoktató kisebbségi oktatás követelményei szerint kell megszervezni.
+39/B. §[^186] (1) A közoktatási törvény 86. §-ának (5) bekezdésében szabályozott kiegészítő kisebbségi oktatást a Nemzeti, etnikai kisebbségi iskolai oktatás irányelvének a nyelvoktató kisebbségi oktatás követelményei szerint kell megszervezni.
 
 (2) A kiegészítő kisebbségi oktatásban való részvétel céljából létesített vendégtanulói jogviszony lehet
 
@@ -14,9 +14,9 @@ b) kizárólagosan a kiegészítő kisebbségi oktatásban való részvétel cé
 
 a) az adott évfolyam bizonyítványát kiállító iskola ezt a tényt – záradék formájában – rávezeti az iskolai törzslapra és a bizonyítványba,
 
-b)[^186] engedélyezni kell, hogy nemzeti, etnikai kisebbségi nyelvből és népismeretből – abban az iskolában, amely részt vesz a kisebbségi nevelésben-oktatásban – érettségi vizsgát tegyen.
+b)[^187] engedélyezni kell, hogy nemzeti, etnikai kisebbségi nyelvből és népismeretből – abban az iskolában, amely részt vesz a kisebbségi nevelésben-oktatásban – érettségi vizsgát tegyen.
 
 (6) A kiegészítő kisebbségi oktatás megszervezhető tanórán kívüli foglalkozásként is.
 
-[^185]: A 39/B. §-t a 8/2000. (V. 24.) OM rendelet 25. §-a iktatta be.
-[^186]: A 39/B. § (5) bekezdésének b) pontja a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^186]: A 39/B. §-t a 8/2000. (V. 24.) OM rendelet 25. §-a iktatta be.
+[^187]: A 39/B. § (5) bekezdésének b) pontja a 41/2007. (XII. 22.) OKM rendelet 9. § (3) bekezdésének a) pontja szerint módosított szöveg.

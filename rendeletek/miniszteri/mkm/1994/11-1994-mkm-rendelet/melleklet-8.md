@@ -338,7 +338,7 @@
 
 ## 7. Ha az eszközöket, felszereléseket létszám figyelembevételével kell beszerezni, az adott eszközből, felszerelésből annyi szükséges, hogy minden egyidejűleg jelen lévő gyermek, munkát végző felnőtt igényét egyidejűleg teljesíteni lehessen. Amennyiben az eszközöket, felszereléseket létszám szerint kell beszerezni, az adott eszközből, felszerelésből a tényleges, érdekelt létszámnak megfelelően kell az előírt mennyiséget beszerezni.
 
-## 8.[^311] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 8.[^326] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 9. A gyermekek részére kialakított helyiség akkor megfelelő, ha – rendeltetésétől függően – alapterülete lehetővé teszi legalább egy óvodai csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt szakmai és tartalmi követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, munkavédelmi követelményeknek.
 
@@ -742,7 +742,7 @@
 
 ## 7. Az eltérő pedagógiai elveket tartalmazó pedagógiai program az eszköz- és felszerelési jegyzéktől eltérően határozhatja meg a nevelő- és oktatómunka eszköz és felszerelési feltételeit.
 
-## 8.[^312] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 8.[^327] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 9. A tanulók részére kialakított helyiség akkor megfelelő, ha – rendeltetésétől függően – alapterülete lehetővé teszi egy iskolai osztály, osztálybontás esetén a meghatározott csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt szakmai és tartalmi követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, munkavédelmi követelményeknek.
 
@@ -984,7 +984,7 @@
 
 ## 10. Ahol a melléklet a mennyiségi mutatónál a ,,kollégiumonkénti'' megjelölést alkalmazza, azon a kollégiumot kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, illetőleg, hogy hány épülete van, ebben az esetben a helyiség vagy a székhelyen vagy a telephelyen alakítható ki, annak figyelembevételével, hogy az érintettek részére elérhető legyen. Amennyiben a melléklet a ,,székhelyen és telephelyen'' megjelölést alkalmazza, azon érteni kell a kollégium székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetőleg a telephelyen hány épület van. Abban az esetben, ha az ,,épületenként'' megjelölést alkalmazza a melléklet, azon minden épületet érteni kell, függetlenül attól, hogy a székhelyen vagy a telephelyen található.
 
-## 11.[^313] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 11.[^328] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## ALAPFOKÚ MŰVÉSZOKTATÁSI INTÉZMÉNYEK
 
@@ -1632,11 +1632,11 @@
 
 ## 11. Az eltérő pedagógiai elveket tartalmazó pedagógiai program az eszköz- és felszerelési jegyzéktől eltérően határozhatja meg a nevelő- és oktatómunka eszköz és felszerelési feltételeit.
 
-## 12.[^314] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
+## 12.[^329] Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására jogosult szakértő véleményét kell beszerezni.
 
 ## 13. Ahol a melléklet a mennyiségi mutatónál az ,,iskolánkénti'' megjelölést alkalmazza, azon az iskolát kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, illetőleg, hogy hány épülete van. Amennyiben a melléklet a ,,székhelyen és telephelyen'' megjelölést alkalmazza, azon érteni kell az iskola székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetőleg a telephelyen hány épület van. Abban az esetben, ha az ,,épületenként'' megjelölést alkalmazza a melléklet, azon minden épületet érteni kell, függetlenül attól, hogy a székhelyen vagy a telephelyen található.
 
-8. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^315]
+8. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^330]
 
 A középfokú iskolákba történő jelentkezés rendje és a felvételi eljárás szabályai
 
@@ -1660,11 +1660,11 @@ A középfokú iskolai felvételi tájékoztató
 
 1.3.4. a többcélú közoktatási intézmény az általános iskolai feladatok mellett a gimnáziumi, a szakiskolai, a szakközépiskolai feladatok közül bármelyiket ellátja, akkor azok a tanulók, akik a többcélú intézmény keretében fejezték be az általános iskolai tanulmányaikat, a pedagógiai programban meghatározott feltételek szerint folytathatják tanulmányaikat a megfelelő iskolatípus szerinti oktatásban.
 
-1.4. A középfokú iskola a tanulmányi területek belső kódját és az adott terület fő jellemzőit az Oktatási és Kulturális Minisztérium által a minisztérium honlapján szeptember 30-áig közzétett közleményben foglaltak szerint állapítja meg, és október 15-éig elektronikus formában megküldi a hivatalnak.
+1.4.[^331] A középfokú iskola a tanulmányi területek belső kódját és az adott terület fő jellemzőit az oktatásért felelős miniszter által vezetett minisztérium részéről a minisztérium honlapján szeptember 30-áig közzétett közleményben foglaltak szerint állapítja meg, és október 15-éig elektronikus formában megküldi a Hivatalnak.
 
 A felvételi kérelem benyújtása
 
-2.1.[^316] A középfokú iskolai felvételi kérelmet a hivatal által elkészített és a hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok nyolc napon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
+2.1.[^332] A középfokú iskolai felvételi kérelmet a Hivatal által elkészített és a Hivatal honlapján közzétett jelentkezési lapon kell benyújtani. A jelentkezési lap másolható. A felvételi kérelem nem utasítható el azon az alapon, hogy nem a közzétett jelentkezési lapon nyújtották be. Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola a felvételi eljáráshoz szükséges adatok nyolc napon belüli pótlására felszólítja a kérelem benyújtóját. Ha az iskola – a közoktatásról szóló törvény 81. §-a (1) bekezdésének a) pontja szerint – vallási, illetve világnézeti tekintetben elkötelezett intézményként működik, külön lapon kérheti a jelentkező nyilatkozatát a tekintetben, hogy elfogadja-e az adott vallást, illetve világnézetet.
 
 2.2. A jelentkező több jelentkezési lapot állíthat ki. Minden jelentkezési lapon egy iskola tüntethető fel. Egy jelentkezési lapon az iskola több tanulmányi területe is megjelölhető. A jelentkezési lapokon a tanulmányi terület 1.4. pont szerint meghatározott belső kódját minden esetben fel kell tüntetni.
 
@@ -1694,7 +1694,7 @@ A felvételi kérelem benyújtása
 
 2.14. Az általános iskola a tanulók által kiállított
 
-2.14.1. jelentkezési lapokat a középfokú iskoláknak, a tanulói adatlap egy példányát pedig a hivatal által működtetett felvételi központnak (továbbiakban Felvételi Központ) küldi meg.
+2.14.1.[^333] jelentkezési lapokat a középfokú iskoláknak, a tanulói adatlap egy példányát pedig a Hivatal által működtetett felvételi központnak (továbbiakban Felvételi Központ) küldi meg.
 
 2.14.2. A tanulói adatlap második példányát borítékba zárja, és a tanuló végleges döntéséig megőrzi oly módon, hogy ahhoz – az e rendeletben meghatározott javítási lehetőségen kívül – ne lehessen hozzáférni.
 
@@ -1712,13 +1712,13 @@ A felvételi eljárás eredményének nyilvánosságra hozatala az iskolában, a
 
 3.3. A felvételi eljárás költségei a szülőre, tanulóra nem háríthatók át.
 
-3.4. Ha az iskola a benyújtott felvételi kérelmek, illetve a felvételi eljárás eredményeképpen megállapítja, hogy a meghirdetett tanulmányi területen nem tudja elindítani az oktatást, köteles erről három munkanapon belül értesíteni a jelentkezőket, a fenntartót és a hivatalt.
+3.4.[^334] Ha az iskola a benyújtott felvételi kérelmek, illetve a felvételi eljárás eredményeképpen megállapítja, hogy a meghirdetett tanulmányi területen nem tudja elindítani az oktatást, köteles erről három munkanapon belül értesíteni a jelentkezőket, a fenntartót és a Hivatalt.
 
 3.5. A felvételi eljárásnak e mellékletben nem szabályozott kérdéseire a rendelet 9. számú mellékletében foglaltakat kell alkalmazni.
 
 A szóbeli meghallgatás
 
-4.1.[^317] Ha a középfokú iskola a 17/A. § (1) bekezdésében és a (3) bekezdés c) pontjában meghatározott esetben szóbeli meghallgatás keretében szóbeli vizsgát szervez, a szóbeli vizsgának az iskola pedagógiai programjában meghatározott követelményekre épülő témaköreit és kérdéseit, továbbá a szóbeli vizsga értékelésének a szempontjait az iskola felvételi tájékoztatójában nyilvánosságra kell hozni.
+4.1.[^335] Ha a középfokú iskola a 17/A. § (1) bekezdésében és a (3) bekezdés c) pontjában meghatározott esetben szóbeli meghallgatás keretében szóbeli vizsgát szervez, a szóbeli vizsgának az iskola pedagógiai programjában meghatározott követelményekre épülő témaköreit és kérdéseit, továbbá a szóbeli vizsga értékelésének a szempontjait az iskola felvételi tájékoztatójában nyilvánosságra kell hozni.
 
 4.2. A jelentkező szóbeli meghallgatása az általános felvételi eljárás időszakában, az egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsga után tartható meg. A szóbeli meghallgatásra a középfokú iskola legalább két napot köteles kijelölni.
 
@@ -1728,25 +1728,16 @@ A szóbeli meghallgatás
 
 4.5. Ha a helyi önkormányzat által fenntartott iskola az általános felvételi eljárás keretében felvételi meghallgatást kíván szervezni, ennek időpontjáról értesíti a fenntartó önkormányzat jegyzőjét, főjegyzőjét.
 
-4.6.[^318] Ha a helyi önkormányzat által fenntartott iskolák által a felvételi meghallgatásra kitűzött időpontok azonos időre esnének, a kormányhivatal az érdekelt iskolák igazgatóival egyeztetve meghatározza a felvételi meghallgatások időpontját oly módon, hogy azok különböző napokra essenek. Ha az iskolák száma miatt ez nem lehetséges, akkor azonos napon eltérő időpontok is kitűzhetők. A felvételi meghallgatás időpontja nem eshet a tanév rendjéről szóló rendeletben meghatározott tanulmányi versenyek fordulójának időpontjaira.
+4.6.[^336] Ha a helyi önkormányzat által fenntartott iskolák által a felvételi meghallgatásra kitűzött időpontok azonos időre esnének, a kormányhivatal az érdekelt iskolák igazgatóival egyeztetve meghatározza a felvételi meghallgatások időpontját oly módon, hogy azok különböző napokra essenek. Ha az iskolák száma miatt ez nem lehetséges, akkor azonos napon eltérő időpontok is kitűzhetők. A felvételi meghallgatás időpontja nem eshet a tanév rendjéről szóló rendeletben meghatározott tanulmányi versenyek fordulójának időpontjaira.
 
-Az írásbeli vizsga
-
-5.1. A középfokú felvételi eljárásban csak központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsga tartható. Az iskola azt a szándékát, hogy részt kíván venni a központilag szervezett vizsgán, továbbá a feladatlap igénylését a tanév rendjében meghatározottak szerint közli a hivatallal.
-
-5.2. A tanuló a központi, egységes követelmények szerint szervezett írásbeli vizsgára való jelentkezését a Hivatal által kiadott lapon december 10-éig küldheti meg közvetlenül valamely általa választott, vizsgát szervező intézménybe.
-
-A 9. évfolyamra történő jelentkezés esetén mindkét tárgyból külön-külön meg kell jelölni azt is, hogy a tanuló az általános tanterv alapján folyó felkészítést nyújtó, illetve a tehetséggondozó középfokú iskola írásbeli felvételijén kíván-e részt venni, vagy akár mindkét típusú írásbelire jelentkezik-e.
-
-5.3. A központilag szervezett írásbeli vizsga csak a hivatal által megküldött feladatlapokkal történhet, és a javítást a hivatal által megküldött javítókulcs alapján kell elvégezni. A feladatlapokat és a megoldási kulcsokat legkésőbb a vizsga napját követő napon a hivatal a honlapján közzéteszi.
-
-5.4. A felvételi eljárás eredményének a megállapításánál a központilag szervezett írásbeli vizsgán elérhető eredmény a felvételi eljárás egészében megszerezhető összesített eredmény, összpontszám ötven százalékánál nem lehet kevesebb.
-
-[^311]: A 7. számú melléklet Óvoda cím VII. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^312]: A 7. számú melléklet Iskola cím V. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^313]: A 7. számú melléklet Kollégium cím IV. alcím 11. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^314]: A 7. számú melléklet Alapfokú művészetoktatási intézmények cím IV. alcím 12. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^315]: A 8. számú mellékletet a 13/2003. (V. 23.) OM rendelet 4. §-a iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 7. §-ával megállapított szöveg.
-[^316]: A 8. számú melléklet 2.1. pontja a 6/2011. (III. 8.) NEFMI rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^317]: A 8. számú melléklet 4.1. pontja a 11/2010. (X. 6.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^318]: A 8. számú melléklet 4.6. pontja a 34/2011. (VI. 24.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^326]: A 7. számú melléklet Óvoda cím VII. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^327]: A 7. számú melléklet Iskola cím V. alcím 8. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^328]: A 7. számú melléklet Kollégium cím IV. alcím 11. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^329]: A 7. számú melléklet Alapfokú művészetoktatási intézmények cím IV. alcím 12. pontja a 35/2009. (XI. 18.) OKM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^330]: A 8. számú mellékletet a 13/2003. (V. 23.) OM rendelet 4. §-a iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 7. §-ával megállapított szöveg.
+[^331]: A 8. számú melléklet 1.4. pontja a 34/2011. (VI. 24.) NEFMI rendelet 8. § c)–d) pontja szerint módosított szöveg.
+[^332]: A 8. számú melléklet 2.1. pontja a 6/2011. (III. 8.) NEFMI rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. A 2.1. pont a 34/2011. (VI. 24.) NEFMI rendelet 8. § e) pontja szerint módosított szöveg.
+[^333]: A 8. számú melléklet 2.14.1. pontja a 34/2011. (VI. 24.) NEFMI rendelet 8. § e) pontja szerint módosított szöveg.
+[^334]: A 8. számú melléklet 3.4. pontja a 34/2011. (VI. 24.) NEFMI rendelet 8. § f) pontja szerint módosított szöveg.
+[^335]: A 8. számú melléklet 4.1. pontja a 11/2010. (X. 6.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^336]: A 8. számú melléklet 4.6. pontja a 34/2011. (VI. 24.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-17/A. §[^77] (1)[^78] Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt, a felvételi kérelmekről a következő szempontok mérlegelésével dönthet:
+17/A. §[^78] (1)[^79] Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt, a felvételi kérelmekről a következő szempontok mérlegelésével dönthet:
 
 a) kizárólag a tanulmányi eredmények alapján, vagy
 
@@ -6,7 +6,7 @@ b) a tanulmányi eredmények és a központilag kiadott egységes, kompetenciaal
 
 c) a tanulmányi eredmények, a központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsga és a szóbeli meghallgatás eredménye alapján.
 
-(2)[^79] Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt,
+(2)[^80] Ha a középfokú iskola a kilencedik évfolyamnál alacsonyabb évfolyamra hirdet felvételt,
 
 a) a központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsgán, vagy
 
@@ -32,7 +32,7 @@ b) a hat évfolyamos gimnáziumba,
 
 c) az általános tanterv alapján folyó felkészítést nyújtó középfokú iskola 9. évfolyamára,
 
-d)[^80] a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a továbbiakban: tehetséggondozó) középiskola kilencedik évfolyamára
+d)[^81] a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a továbbiakban: tehetséggondozó) középiskola kilencedik évfolyamára
 
 ## jelentkeznek.
 
@@ -42,7 +42,7 @@ d)[^80] a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a to
 
 (7) Szakképző évfolyamra történő felvételi, átvételi kérelmek elbírálásánál – a (3) bekezdésben meghatározottak mellett – figyelembe kell venni az iskolai előképzettség, a szakmai előképzettség meglétét, a pályaalkalmassági, a szakmai alkalmassági, az egészségügyi követelményeknek való megfelelést.
 
-(8) A központilag szervezett írásbeli vizsgához a feladatlapokat a vizsgák típusa és az évfolyamok szerint külön-külön megszervezett bizottságok készítik el. A feladatlap-készítő bizottságok tagjait az Oktatási Hivatal (a továbbiakban: Hivatal), elnökét az oktatási és kulturális miniszter kéri fel. A feladatlap-készítő bizottság az elnök irányításával működik. Az elnök felelős a feladatlapok, javítási, értékelési útmutatók szakszerű elkészítéséért, tartalmi és formai megfelelőségéért.
+(8)[^82] A központilag szervezett írásbeli vizsgához a feladatlapokat a vizsgák típusa és az évfolyamok szerint külön-külön megszervezett bizottságok készítik el. A feladatlap-készítő bizottságok tagjait az Oktatási Hivatal (a továbbiakban: Hivatal), elnökét az oktatásért felelős miniszter kéri fel. A feladatlap-készítő bizottság az elnök irányításával működik. Az elnök felelős a feladatlapok, javítási, értékelési útmutatók szakszerű elkészítéséért, tartalmi és formai megfelelőségéért.
 
 (9) Amennyiben a középfokú iskola úgy dönt, hogy valamely tanulmányi területen felvételi eljárásában a jelentkezők számára előírja a központilag szervezett írásbeli vizsgát, köteles mindkét tárgyból meghirdetni és megszervezni azt.
 
@@ -52,7 +52,8 @@ A (4) bekezdés c) és d) pontja szerinti írásbeli vizsgák eredményeinek egy
 
 (11) A központilag kiadott egységes, kompetenciaalapú feladatlapokkal megszervezett írásbeli vizsgát szervező középfokú intézmény vezetője köteles a tanév rendjéről szóló rendeletben meghatározott írásbeli vizsga tartama alatt a Hivatal által működtetett ADAFOR rendszert figyelemmel kísérni az intézményben.
 
-[^77]: A 17/A. §-t a 16/2008. (IV. 30.) OKM rendelet 1. §-a iktatta be.
-[^78]: A 17/A. § (1) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^79]: A 17/A. § (2) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^80]: A 17/A. § (4) bekezdés d) pontja a 11/2010. (X. 6.) NEFMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^78]: A 17/A. §-t a 16/2008. (IV. 30.) OKM rendelet 1. §-a iktatta be.
+[^79]: A 17/A. § (1) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^80]: A 17/A. § (2) bekezdése a 11/2010. (X. 6.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^81]: A 17/A. § (4) bekezdés d) pontja a 11/2010. (X. 6.) NEFMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^82]: A 17/A. § (8) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.

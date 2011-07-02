@@ -16,15 +16,15 @@ c) az iskolai tanulmányi versenyek programjáról.
 
 (5) A szakmai munkaközösség véleményét — szakterületét érintően — be kell szerezni
 
-a)[^128] a nevelési, illetőleg a pedagógiai program elfogadásához,
+a)[^129] a nevelési, illetőleg a pedagógiai program elfogadásához,
 
 b) az óvodai nevelést segítő eszközök, a taneszközök, tankönyvek, segédkönyvek és tanulmányi segédletek kiválasztásához,
 
 c) a felvételi követelmények meghatározásához,
 
-d)[^129] a szintvizsga részeinek és feladatainak meghatározásához.
+d)[^130] a szintvizsga részeinek és feladatainak meghatározásához.
 
 (6) Az intézmények közötti munkaközösség jogkörét, működésének rendjét, vezetőjének kiválasztását az érdekeltek közötti megállapodás határozza meg.
 
-[^128]: A 30. § (5) bekezdésének a) pontja a 16/1998. (IV. 8.) MKM rendelet 31. §-a (4) bekezdésének h) pontja szerint módosított szöveg.
-[^129]: A 30. § (5) bekezdésének d) pontja a 41/2007. (XII. 22.) OKM rendelet 3. §-ával megállapított szöveg.
+[^129]: A 30. § (5) bekezdésének a) pontja a 16/1998. (IV. 8.) MKM rendelet 31. §-a (4) bekezdésének h) pontja szerint módosított szöveg.
+[^130]: A 30. § (5) bekezdésének d) pontja a 41/2007. (XII. 22.) OKM rendelet 3. §-ával megállapított szöveg.

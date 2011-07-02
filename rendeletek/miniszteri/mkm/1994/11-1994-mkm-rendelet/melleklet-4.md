@@ -74,6 +74,6 @@
 
 ## 5. Az iskolai (kollégiumi) könyvtárban könyvtáros asszisztens az lehet, aki középiskolai végzettséggel és legalább középfokú könyvtárosi szakképesítéssel rendelkezik. A könyvtáros asszisztens a könyvtáros tanár irányításával közreműködik az állomány nyilvántartásba vételével, a raktári rend fenntartásával, az állomány megóvásával, a dokumentumok könyvtári szerelésével, adatbevitelével kapcsolatos feladatok ellátásában, továbbá elláthat minden olyan feladatot, amely megfelel a szakmai végzettségének.
 
-4. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^276]
+4. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^290]
 
-[^276]: A 4. számú melléklet a 8/2000. (V. 24.) OM rendelet 27. §-a (1) bekezdésének a)–e) pontja és (2) bekezdésének a)–b) pontja, illetve (3)–(4) bekezdése szerint kiegészített szöveg.
+[^290]: A 4. számú melléklet a 8/2000. (V. 24.) OM rendelet 27. §-a (1) bekezdésének a)–e) pontja és (2) bekezdésének a)–b) pontja, illetve (3)–(4) bekezdése szerint kiegészített szöveg.

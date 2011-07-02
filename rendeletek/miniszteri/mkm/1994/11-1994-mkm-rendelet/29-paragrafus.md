@@ -1,6 +1,6 @@
 ## A nevelőtestület
 
-29. § (1)[^125] Nevelőtestületi értekezletet kell összehívni az óvodavezető, az iskolaigazgató, a kollégiumigazgató, illetve -vezető, továbbá, ha a nevelőtestület egyharmada kéri. Ha az óvodaszék, iskolaszék, kollégiumi szék, az iskolai, szülői szervezet, közösség, iskolai, kollégiumi diákönkormányzat kezdeményezi a nevelőtestület összehívását, a kezdeményezés elfogadásáról a nevelőtestület dönt.
+29. § (1)[^126] Nevelőtestületi értekezletet kell összehívni az óvodavezető, az iskolaigazgató, a kollégiumigazgató, illetve -vezető, továbbá, ha a nevelőtestület egyharmada kéri. Ha az óvodaszék, iskolaszék, kollégiumi szék, az iskolai, szülői szervezet, közösség, iskolai, kollégiumi diákönkormányzat kezdeményezi a nevelőtestület összehívását, a kezdeményezés elfogadásáról a nevelőtestület dönt.
 
 (2) A nevelőtestület meghatározza működésének és döntéshozatalának rendjét.
 
@@ -14,14 +14,14 @@ c) az iskolai felvételi követelmények meghatározásához,
 
 d) külön jogszabályban meghatározott ügyekben.
 
-(4)[^126] A nevelőtestület az intézményi minőségirányítási program következő rendelkezéseiről hoz döntést:
+(4)[^127] A nevelőtestület az intézményi minőségirányítási program következő rendelkezéseiről hoz döntést:
 
 a) az intézményben vezetői feladatokat ellátók és a pedagógus-munkakörben foglalkoztatottak teljesítményértékelésének szempontjai, valamint az értékelés rendje,
 
 b) a teljes körű intézményi önértékelés periódusa, módszerei.
 
-(5)[^127] Az intézményi minőségirányítási programot a nevelőtestület által történő elfogadását követően terjesztheti a közoktatási intézmény vezetője az alkalmazotti értekezlet elé.
+(5)[^128] Az intézményi minőségirányítási programot a nevelőtestület által történő elfogadását követően terjesztheti a közoktatási intézmény vezetője az alkalmazotti értekezlet elé.
 
-[^125]: A 29. § (1) bekezdése a 16/1998. (IV. 8.) MKM rendelet 31. §-a (4) bekezdésének g) pontja szerint módosított szöveg.
-[^126]: A 29. § (4) bekezdését a 32/2008. (XI. 24.) OKM rendelet 8. §-a iktatta be.
-[^127]: A 29. § (5) bekezdését a 32/2008. (XI. 24.) OKM rendelet 8. §-a iktatta be.
+[^126]: A 29. § (1) bekezdése a 16/1998. (IV. 8.) MKM rendelet 31. §-a (4) bekezdésének g) pontja szerint módosított szöveg.
+[^127]: A 29. § (4) bekezdését a 32/2008. (XI. 24.) OKM rendelet 8. §-a iktatta be.
+[^128]: A 29. § (5) bekezdését a 32/2008. (XI. 24.) OKM rendelet 8. §-a iktatta be.
