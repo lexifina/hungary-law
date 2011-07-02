@@ -1,6 +1,6 @@
 ## Eljárási szabályok
 
-7. § (1) Az e rendeletben meghatározott támogatások pályázati eljárás alapján nyújthatók. A pályázatot a tervezett közfoglalkoztatás helye szerint illetékes munkaügyi központhoz kell benyújtani.
+7. § (1)[^3] Az e rendeletben meghatározott támogatások a 7/A. §-ban meghatározott kivételekkel pályázati eljárás alapján nyújthatók. A pályázatot a tervezett közfoglalkoztatás helye szerint illetékes munkaügyi központhoz kell benyújtani.
 
 (2) A pályázati kiírásnak tartalmaznia kell
 
@@ -53,3 +53,5 @@ g) a támogatással érintett személy álláskeresőként eltöltött idejét.
 a) a 3–5. §-ban meghatározott támogatás esetén a kirendeltség,
 
 b) a 6. §-ban meghatározott támogatás esetén a foglalkoztatás hely szerint illetékes munkaügyi központ
+
+[^3]: A 7. § (1) bekezdése a 101/2011. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

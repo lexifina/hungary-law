@@ -8,6 +8,10 @@ b) jogszabályban előírt közfeladat ellátása esetén vagy a helyi önkormá
 
 2–12 hónap időtartamra szóló, határozott idejű munkaviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatását vállalja. A foglalkoztatás történhet az önkormányzat által fenntartott intézménnyel, önkormányzati részesedéssel működő nonprofit gazdasági társasággal, vagy egyház által fenntartott intézménnyel létesített munkaviszony alapján is.
 
+(1a)[^2] (1a) Az (1) bekezdésben meghatározott feltételek mellett támogatás nyújtható továbbá az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott vagy erre a célra az állam, az önkormányzat által létrehozott gazdálkodó szervezetek részére.
+
 (2) A támogatás mértéke a munkavállaló munkabére és az ahhoz kapcsolódó – a járulékkedvezmények igénybevételével csökkentett – járulékok mértékének 70–100 százalékáig terjedhet. Ezen túlmenően a támogatás nyújtható a munkavállaló foglalkoztatásából eredő, a 3. § (3) bekezdésében meghatározott közvetlen költséghez, amelynek mértéke nem haladhatja meg a munkabérhez és az ahhoz kapcsolódó járulékokhoz nyújtott támogatás 20 százalékát.
 
 (3) Az (1)–(2) bekezdésben foglaltakon túlmenően az önkormányzat által szervezett hosszabb időtartamú közfoglalkoztatás támogatására a 3. § (4)–(5) bekezdésében foglaltakat is alkalmazni kell.
+
+[^2]: A 4. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 2. §-a iktatta be.

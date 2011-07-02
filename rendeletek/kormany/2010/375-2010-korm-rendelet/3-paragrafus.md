@@ -8,6 +8,8 @@ b) jogszabályban előírt közfeladat ellátása esetén vagy a helyi önkormá
 
 a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvényben meghatározott bérpótló juttatásra jogosult személy 2–4 hónap időtartamra szóló, határozott idejű munkaviszony keretében, napi négy órás munkaidőben történő foglalkoztatását vállalja. A foglalkoztatás történhet az önkormányzat által fenntartott intézménnyel, önkormányzati részesedéssel működő nonprofit gazdasági társasággal, vagy egyház által fenntartott intézménnyel létesített munkaviszony alapján is.
 
+(1a)[^1] Az (1) bekezdésben meghatározott feltételek mellett támogatás nyújtható továbbá az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott vagy erre a célra az állam, az önkormányzat által létrehozott gazdálkodó szervezetek részére.
+
 (2) Támogatás a foglalkoztatásból eredő munkabér, továbbá – a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 8/A. § (1) bekezdésében foglalt járulékkedvezmény igénybevételével csökkentett – járulékai legfeljebb 95 százalékának mértékéig nyújtható. Ezen túlmenően a (3) bekezdésben foglalt közvetlen költségek összege, de legfeljebb munkavállalónként havonta a munkabérhez és járulékaihoz nyújtott támogatási összeg 5 százalékának megfelelő támogatás állapítható meg. Több munkavállaló foglalkoztatása után megállapított közvetlen költség összevontan is felhasználható.
 
 (3) A foglalkoztatásból eredő közvetlen költségként a munkaruha és egyéni védőeszköz költségei, a munkába járással kapcsolatos utazási költségtérítésről szóló jogszabály szerint a munkaadót terhelő utazási költségek, a munkásszállítás költségei, a kirendeltséggel történő előzetes egyeztetés szerint a munkavégzéshez nélkülözhetetlen munkaeszközök költsége számolható el.
@@ -15,3 +17,5 @@ a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi 
 (4) Munkabérként legfeljebb a kötelező legkisebb munkabér, illetve garantált bérminimum vehető figyelembe.
 
 (5) Ez a támogatás a START kártyához kapcsolódó járulékkedvezménnyel, valamint az egyszerűsített foglalkoztatáshoz kapcsolódó közteherkedvezménnyel egyidejűleg nem vehető igénybe.
+
+[^1]: A 3. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
