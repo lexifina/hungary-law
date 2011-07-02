@@ -1,1 +1,0 @@
-## „(8) Az egészségügyi szolgáltató gondoskodik arról, hogy az Ebtv. 18. § (9)–(10) bekezdése szerinti lehetőségről szóló tájékoztató az ellátást igénybe vevők számára jól látható helyen kifüggesztésre kerüljön.”

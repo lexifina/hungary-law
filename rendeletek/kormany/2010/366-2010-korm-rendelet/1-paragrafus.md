@@ -1,5 +1,0 @@
-1. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Vhr.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) E rendelet hatálya kiterjed a biztosítottakra, az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerveire (a továbbiakban: egészségbiztosítási szakigazgatási szerv), továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó szolgáltatókra, valamint a biztosított foglalkoztatójára, és annak kifizetőhelyére.”
-
-(2) A Vhr. 1. § (4)–(8) bekezdése helyébe a következő rendelkezések lépnek:
