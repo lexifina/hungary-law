@@ -1,3 +1,3 @@
-## 2. §[^2]
+3. §[^4]
 
-[^2]: A 2. § a 31. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba.
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
