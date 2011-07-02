@@ -1,3 +1,5 @@
-## 18. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére nyújtandó támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet módosításáról szóló 91/2009. (VII. 28.) FVM rendelet.
+## 17-18. §[^2]
 
 1. melléklet a 33/2011. (IV. 28.) VM rendelethez
+
+[^2]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
