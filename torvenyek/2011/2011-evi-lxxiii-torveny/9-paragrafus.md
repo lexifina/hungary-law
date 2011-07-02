@@ -1,3 +1,0 @@
-9. § A Kpt. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 4. § (1) bekezdés c) és d) pontjában meghatározott ponthatárok között – a szabálysértés és a közigazgatási bírsággal sújtandó szabályszegés tárgyi súlyát és gyakoriságát figyelembe véve – a pontrendszer hatálya alá tartozó szabálysértéseket és közigazgatási bírsággal sújtandó szabályszegéseket, az azokhoz rendelt pontok számát, valamint a pontrendszer alkalmazásának részletes szabályait.”
