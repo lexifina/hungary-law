@@ -1,1 +1,0 @@
-## „(10) A gyámhivatal a gyermeket ellátó nevelőszülőt vagy gyermekotthont a gyermek kötelező gondozásba történő kihelyezésének tényéről és időpontjáról az örökbe fogadni szándékozó személy személyazonosító adatainak közlése nélkül értesíti.”
