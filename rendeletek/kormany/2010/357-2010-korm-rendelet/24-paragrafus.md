@@ -1,1 +1,0 @@
-## „h) működési támogatás: a szolgáltatás működési, fenntartási költségeihez – különösen az alkalmazottak személyi juttatásaihoz, a működtetés dologi költségeihez és az ezekhez kapcsolódó közterhekhez, valamint a finanszírozási szerződésben meghatározott felhalmozási kiadásokhoz – adott állami támogatás;”
