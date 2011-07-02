@@ -1,5 +1,1 @@
-62. § (1) A biztosító a szerződés megkötésével és megszűnésével, továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos 2010. január 1. és április 31. között keletkezett adatok tekintetében 2010. október 31-ig köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
-
-(2) A 2011. január 1-jén megújuló szerződések esetében – amennyiben azok még nem szerepelnek a nyilvántartásban – a biztosító a szerződés megújítását (biztosítási időszak kezdő napját) követő 90 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
-
-(3) A 2010. év végére évfordulóra történő biztosítóváltás okán felmondott szerződések esetében – amennyiben azok még nem szerepelnek a nyilvántartásban – a biztosító a szerződés felmondását követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
+62. §
