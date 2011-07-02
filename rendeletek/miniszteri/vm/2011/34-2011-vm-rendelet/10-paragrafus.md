@@ -2,7 +2,7 @@
 
 10. § (1) Ez a rendelet 2011. július 1-jén lép hatályba, e rendelet előírásait a rendelet hatályba lépését követően indult és megismételt eljárásokban kell alkalmazni.
 
-(2) Hatályát veszti a halkeltető állomás üzemeltetésének engedélyezéséről és működésének szabályozásáról szóló 41/1994. (VI. 28.) FM rendelet.
+(2)[^1]
 
 Melléklet a 34/2011. (IV. 28.) VM rendelethez
 
@@ -45,3 +45,5 @@ P.H.
 ............................................................
 
 (kiállító sajátkezű aláírása)
+
+[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
