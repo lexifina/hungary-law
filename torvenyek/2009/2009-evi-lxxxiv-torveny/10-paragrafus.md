@@ -1,3 +1,0 @@
-10. § Az Fbtv. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A mezőőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a mezőgazdasági igazgatási szerv által kiadott hatósági szolgálati igazolvány igazolja. A hatósági szolgálati igazolvány tartalmazza a mezőőr arcfényképét, nevét, fegyvertartási engedélyének számát, működési területét, a munkáltató szerv megnevezését és címét. A mezőőr hatósági szolgálati igazolványának kiadására, nyilvántartásba vételére és nyilvánosságára a 15/B–15/C. § rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv a mezőőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.”

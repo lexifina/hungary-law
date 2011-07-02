@@ -1,3 +1,0 @@
-16. § A Kftv. 5. §-a helyébe a következő rendelkezés lép:
-
-„5. § A felügyelő az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles felügyelői minőségét szóban közölni, magát hatósági szolgálati igazolvánnyal vagy egyedi azonosító számmal ellátott felügyelői jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a felügyelő arcfényképét, nevét, a munkáltató szerv megnevezését és címét, továbbá a felügyelői jelvény sorszámát.”

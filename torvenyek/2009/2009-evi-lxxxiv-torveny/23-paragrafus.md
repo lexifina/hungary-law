@@ -1,5 +1,0 @@
-23. § A Kftv. 22. §-a helyébe a következő rendelkezés lép:
-
-„22. § (1) A felügyelő a vagyonvédelmi feladatainak ellátása során – a képviselő-testület rendelkezésére – az önkormányzat tulajdonában, használatában lévő vagyont (épületet, építményt, járművet vagy más dolgot) véd, őriz, illetve közbiztonsági szempontból ellenőriz.
-
-(2) A felügyelő az (1) bekezdésben meghatározott feladatainak ellátása során az önkormányzat tulajdonában, használatában lévő területet, épületet vagy építményt lezárhatja, az oda illetéktelenül belépni kívánó személyt igazoltathatja, belépését megakadályozhatja, valamint az illetéktelenül ott tartózkodókat igazoltathatja és eltávolíthatja.”
