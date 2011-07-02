@@ -1,3 +1,5 @@
-## 17. § Hatályát veszti a motorhajtóanyagok minőségi követelményeiről szóló 20/2008. (VIII. 22.) KHEM rendelet.
+## 17. §[^3]
 
 1. melléklet a 30/2011. (VI. 28.) NFM rendelethez
+
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
