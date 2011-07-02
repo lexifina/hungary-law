@@ -1,1 +1,0 @@
-## „(5) Az átviteli rendszerirányító ajánlati felhívása során az ajánlattételi határidő lejáratát, valamint a pályázat eredményhirdetésének időpontját a felhívással érintett időszak kezdő időpontjának figyelembevételével határozza meg.”
