@@ -6,7 +6,7 @@
 
 (3) A közjegyző az ellentmondásról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy az értesítés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon a peres eljárás illetékét rója le és
 
-a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő.
+a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő,
 
 b)
 
