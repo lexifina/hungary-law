@@ -6,8 +6,9 @@
 
 (3) E rendelet rendelkezéseit a hatálybalépése után indult és megismételt eljárásokban kell alkalmazni. Az e rendelet hatálybalépését megelőzően beszedett és fel nem használt bírság összege ezen rendelet rendelkezései szerint használható fel.
 
-(4) Hatályát veszti a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló 113/2007. (XII. 29.) GKM rendelet.
+(4)[^4]
 
-(5)[^4]
+(5)[^5]
 
-[^4]: A 4. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
