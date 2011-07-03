@@ -8,9 +8,27 @@
 
 (4) A szakmai tevékenységért felelős személy vagy az általa kijelölt személy köteles ellenőrizni a vendég megfelelő lovas tudását (gyakorlottságát), továbbá köteles az ennek megfelelő vérmérsékletű lovat, jármódot és tempót megválasztani.
 
-(5)[^17] A lovas terápia szolgáltatás nyújtásakor jelen kell lennie a szakmai tevékenységért felelős személynek vagy az általa kijelölt személynek, valamint a fogyatékosság típusának megfelelő végzettséggel és szakképzettséggel rendelkező gyógypedagógusnak (terapeutának). A gyógypedagógusnak legalább a felsőoktatásban megszerzett alapképzéssel, vagy valamely EGT-államban szerzett, ezzel egyenértékű szakképzettséggel kell rendelkeznie.
+(5)[^19] A lovas terápia szolgáltatás nyújtásakor jelen kell lennie a szakmai tevékenységért felelős személynek vagy az általa kijelölt személynek, valamint a fogyatékosság típusának megfelelő végzettséggel és szakképzettséggel rendelkező gyógypedagógusnak (terapeutának). A gyógypedagógusnak legalább a felsőoktatásban megszerzett alapképzéssel, vagy valamely EGT-államban szerzett, ezzel egyenértékű szakképzettséggel kell rendelkeznie.
 
-(6)[^18] A szakmai tevékenységért felelős személy által kijelölt személynek államilag elismert képzésben megszerzett, vagy valamely EGT-államban szerzett lovastúra-vezető képesítéssel kell rendelkeznie.
+(6)[^20] A szakmai tevékenységért felelős személy által kijelölt személynek
 
-[^17]: A 11. § (5) bekezdésében előírt gyógypedagógus (terapeuta) képesítés megszerzését a 26/2009. (X. 16.) ÖM rendelet 22. § (2) bekezdése alapján 2012. január 20-ig kell igazolni. Eddig az időpontig az e követelményeket nem teljesítő szolgáltatóval szemben a képesítés hiánya miatt a 7. § (1) bekezdés a) pontjában előírt jogkövetkezmény nem alkalmazható.
-[^18]: A 11. § (6) bekezdésében előírt lovastúra-vezető képesítés megszerzését a 26/2009. (X. 16.) ÖM rendelet 22. § (2) bekezdése alapján 2012. január 20-ig kell igazolni. Eddig az időpontig az e követelményeket nem teljesítő szolgáltatóval szemben a képesítés hiánya miatt a 7. § (1) bekezdés a) pontjában előírt jogkövetkezmény nem alkalmazható.
+a) középfokú lovastúra-vezetői,
+
+b) lovas-kultúra oktató felsőfokú szakirányú továbbképzést igazoló,
+
+c) lovas sportágban szerzett
+
+ca) alapfokú sportoktatói,
+
+cb) középfokú sportedzői,
+
+cc) felsőfokú szakedzői vagy okleveles szakedzői
+
+képesítések közül legalább egy képesítéssel, vagy
+
+d) lovas sportágban nemzetközi sportszövetség által akkreditált edzőképzésben szerzett végzettséggel
+
+kell rendelkeznie.
+
+[^19]: A 11. § (5) bekezdésében előírt gyógypedagógus (terapeuta) képesítés megszerzését a 26/2009. (X. 16.) ÖM rendelet 22. § (2) bekezdése alapján 2012. január 20-ig kell igazolni. Eddig az időpontig az e követelményeket nem teljesítő szolgáltatóval szemben a képesítés hiánya miatt a 7. § (1) bekezdés a) pontjában előírt jogkövetkezmény nem alkalmazható.
+[^20]: A 11. § (6) bekezdése a 24/2011. (VI. 30.) NGM rendelet 2. §-ával megállapított szöveg.
