@@ -30,7 +30,7 @@ b) az Építési Normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható 
 
 (7) Nem igényelhető támogatás
 
-a) motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök tárolását, javítását, forgalmazását érintő beruházásokhoz,
+a)[^1] motorral hajtott szárazföldi, légi, vízi, közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
 b) a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben meghatározott vontató, nyerges vontató, tehergépkocsi, gépkocsi, valamint gépjármű fogalomkörébe tartozó eszköz beszerzéséhez,
 
@@ -62,7 +62,7 @@ i) NACE REV. 2. 7731 szakágazat szerinti mezőgazdasági gépkölcsönzés,
 
 j) NACE REV. 2. 03.2 alágazat szerinti halgazdálkodás,
 
-k) NACE REV. 2. 11. alágazat szerinti italgyártás,
+k)[^2] NACE REV. 2. 11. 02 és 2. 11.03 alágazat szerinti italgyártás,
 
 l) NACE REV. 2. 49 ágazat szerinti szárazföldi, csővezetékes szállítás,
 
@@ -81,3 +81,6 @@ r) NACE REV. 2. 01 ágazat szerinti minden növénytermesztés, állattenyészt�
 (9) Nem igényelhető olyan fejlesztéshez támogatás, amely az Európai Közösséget létrehozó Szerződés I. mellékletében szereplő termékek előállítására, elsődleges feldolgozására vagy turisztikai tevékenységre irányul, valamint amely az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. melléklet C. pontjában meghatározott ágazatokba tartozó tevékenységhez kapcsolódik.
 
 (10) Az ügyfél egy támogatási kérelmében legfeljebb három tevékenységet jelölhet meg a támogatható tevékenységei közül.
+
+[^1]: A 2. § (7) bekezdés a) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (8) bekezdés k) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
