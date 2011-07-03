@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-62-20-1
 | 2010-03-17 | 2009-62-20-1U.3 | 6/2010. (III. 12.) IRM rendelet |
 | 2011-07-01 | 2009-62-20-1U.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-07-02 | 2009-62-20-1U.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-07-03 | 2009-62-20-1U.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
