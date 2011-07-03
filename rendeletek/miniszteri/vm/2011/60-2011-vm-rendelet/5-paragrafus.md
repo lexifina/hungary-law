@@ -1,0 +1,1 @@
+## „(2) A termeltetőként történő bejegyzés iránti kérelmet az MgSzH-hoz az 1. számú melléklet szerinti adattartalmú, az MgSzH által rendszeresített, az MgSzH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon lehet benyújtani.”

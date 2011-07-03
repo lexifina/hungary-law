@@ -1,0 +1,1 @@
+## „g) nehéz helyzetben lévő vállalkozás: az európai versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ban meghatározottak szerinti vállalkozás.”
