@@ -1,3 +1,5 @@
-## „(1a) Az (1) bekezdésben meghatározott hirdetmény évente legfeljebb egyszer tehető közzé. E rendelkezést nem kell alkalmazni, ha a Kormány által a szociális földprogram tekintetében kiemelt településsé nyilvánított település önkormányzata kéri a hirdetmény közzétételét.”
+## 1–5. §[^2]
 
 6. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
