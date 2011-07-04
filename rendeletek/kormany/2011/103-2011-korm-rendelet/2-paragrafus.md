@@ -1,0 +1,3 @@
+2. § (1) A vizsgálat lefolytatását és annak alapján a jelentés elkészítését a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) a Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI), a Magyar Állami Földtani Intézet (a továbbiakban: MÁFI) és a Vízügyi és Környezetvédelmi Központi Igazgatóság (a továbbiakban: VKKI) bevonásával, valamint az 1. mellékletben megjelölt közigazgatási szerv közreműködésével végzi.
+
+(2) Az MBFH a vizsgálatot zárt területen arra a területre és térrészre végzi el, amelyen a rendelkezésére álló földtani adatokat és vállalkozói kezdeményezéseket figyelembe véve az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.

@@ -1,0 +1,3 @@
+7. § (1) A jelentés elkészítésében való közreműködés az 1. mellékletben felsorolt közigazgatási szervek részéről, a (2) bekezdésben foglalt kivétellel, ingyenesen történik.
+
+(2) Az MBFH a jelentés elkészítésében való közreműködésért a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek 160 000 forint költségtérítést fizet. A fizetési kötelezettséget a 6. § (6) bekezdésében meghatározott határidő lejártát követő 15 napon belül, a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott előirányzat-felhasználási számlára, átutalási megbízással kell teljesíteni.
