@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-310-20-
 | 2010-07-04 | 2008-310-20-22.7 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2011-01-01 | 2008-310-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-01-15 | 2008-310-20-22.9 | 306/2010. (XII. 23.) Korm. rendelet |
+| 2011-07-04 | 2008-310-20-22.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
