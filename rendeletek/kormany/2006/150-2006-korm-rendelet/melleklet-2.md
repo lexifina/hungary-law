@@ -6,7 +6,7 @@
 
 | 1. | szennyvíztisztító telep | Budapest, XXI. ker. (hrsz. 210005- 210020) | vízjogi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (KTVF) | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: OKTVF) |
 
-| 2. |  |  | építési engedély a központi épületre | Fővárosi Kormányhivatal | építésügyért felelős miniszter |
+| 2. |  |  | általános építésügyi hatósági engedély a központi épületre | Fővárosi Kormányhivatal | építésügyért felelős miniszter |
 
 | 3. | külső szállítási infrastruktúra | Budapest, XXI. ker. (hrsz. 209973, 209990, 209996, 210011) | építési engedély | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -22,7 +22,7 @@
 
 | 9. | folyó alatti átvezetés | Budapest, XI-XXI. ker. összes folyó alatti átvezetése | vízjogi engedély | Közép-Duna-völgyi KTVF | OKTVF |
 
-| 10. | komposztáló telep | Budapest XVIII. ker. (hrsz. 140018) | építési engedély | Fővárosi Kormányhivatal | építésügyért felelős miniszter |
+| 10. | komposztáló telep | Budapest XVIII. ker. (hrsz. 140018) | általános építésügyi hatósági engedély | Fővárosi Kormányhivatal | építésügyért felelős miniszter |
 
 ## B) Zalaegerszeg és térsége szennyvízelvezetés és kezelés
 
@@ -92,7 +92,7 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-2. Építési engedély (kivéve útügyi beruházások)
+2. Általános építésügyi hatósági engedély (kivéve útügyi beruházások)
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
@@ -100,37 +100,37 @@
 
 | Közlekedés |  |  |
 
-| - közút | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| – közút | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| - vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| – vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| - légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| – légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 | Földtan | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| Bányászat | területileg illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Rendészet |  |  |
 
-| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
+| – rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr- főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
 | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvéd Vezérkar főnöke | Honvédelemért felelős miniszter |
+| Honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
 
 | Földművelésügy |  |  |
 
-| - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
+| – termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban Budapest Főváros Kormányhivatala földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| – talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | erdőgazdálkodásért felelős miniszter |
+| – erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -178,4 +178,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
