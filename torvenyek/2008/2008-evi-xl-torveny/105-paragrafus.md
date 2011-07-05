@@ -1,16 +1,18 @@
-105. § (1) Az együttműködő földgázrendszer használatért a rendszerhasználók és a felhasználók a földgáz rendszerhasználati díjak megállapításáról szóló rendeletben meghatározottak szerint
+105. § (1) Az együttműködő földgázrendszer használatért a földgáz rendszerhasználati díjak megállapításáról szóló rendeletben meghatározottak szerint
 
 a) szállítási rendszerüzemeltetési díjat,
 
 b) földgázelosztási díjat,
 
-c) földgáztárolási díjat
+c) földgáztárolási díjat, és
 
-(a továbbiakban együtt: rendszerhasználati díjak) kötelesek fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
+d) rendszerirányítási díjat
+
+(a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
 (2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
 
-(3) A 105. § (1) bekezdés a) és c) pontjai szerinti díjak országosan egységes mértékűek, azokat és alkalmazásuk egyedi szabályait a Hivatal gázévenként, határozatban állapítja meg. A 105. § (1) bekezdés b) pontja szerinti díj mértékét és alkalmazásának egyedi szabályait a Hivatal gázévenként, a földgáz rendszerhasználati díjak megállapításáról szóló jogszabályban meghatározott módon, földgázelosztónként határozatban állapítja meg. A Hivatal a határozatát az abban megállapított rendszerhasználati díjak és áralkalmazási feltételek hatálybalépése előtt 30 nappal a honlapján teszi közzé.
+(3) A 105. § (1) bekezdés a) és c)–d) pontjai szerinti díjak országosan egységes mértékűek, azokat és alkalmazásuk egyedi szabályait a Hivatal gázévenként, határozatban állapítja meg. A 105. § (1) bekezdés b) pontja szerinti díj mértékét és alkalmazásának egyedi szabályait a Hivatal gázévenként, a földgáz rendszerhasználati díjak megállapításáról szóló jogszabályban meghatározott módon, földgázelosztónként határozatban állapítja meg. A Hivatal a határozatát az abban megállapított rendszerhasználati díjak és áralkalmazási feltételek hatálybalépése előtt 30 nappal a honlapján teszi közzé.
 
 (4) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető egyéb szolgáltatások díjainak meg kell felelniük az átláthatóság, a nyilvánosság, és az arányosság elvének, valamint azokat objektív módon, megkülönböztetés nélkül kell alkalmazni. Nem sérti a megkülönböztetés-mentesség elvét az, ha az egyetemes szolgáltatásra jogosult felhasználók az önálló érdekérvényesítő képesség terén fennálló, a többi felhasználóhoz képest hátrányosabb helyzetének ellensúlyozása érdekében a rendszerhasználati díjak az egyetemes szolgáltatásra jogosult felhasználók részére differenciáltan kerülnek meghatározásra.
 

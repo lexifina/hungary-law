@@ -1,0 +1,1 @@
+140/C. § A 140/B. § (1) bekezdés szerinti díjmegállapításig a rendszerhasználati díjakat, a díjak meghatározására és szabályozására vonatkozó keretszabályokat, valamint a díjak alkalmazásának általános szabályait a miniszter rendeletben állapíthatja meg.

@@ -44,7 +44,7 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 
 (9) A földgázszállító köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak és a földgáztermelőnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
 
-(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, rendszerhasználók, valamint a rendszerirányító és a Hivatal számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
+(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, rendszerhasználók, valamint a rendszerirányító és a Hivatal, továbbá a miniszter számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
 
 (11) Az adatszolgáltatásra vonatkozó részletszabályokat külön jogszabály, és az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
@@ -55,3 +55,5 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 (14) A szállítási, a tárolási és az elosztói rendszerüzemeltető az információ közreadására vonatkozó jogi kötelezettség sérelme nélkül köteles megőrizni azoknak a gazdasági szempontból érzékeny információknak a titkosságát, amelyekhez üzleti tevékenysége során hozzájut, továbbá megakadályozni, hogy a saját tevékenységével kapcsolatos – üzleti szempontból előnyös – információ megkülönböztető módon kerüljön nyilvánosságra.
 
 (15) Az engedélyesek külön jogszabályban meghatározott informatikai rendszert működtetnek az együttműködés biztosítása érdekében.
+
+(16) A Hivatal köteles a miniszter számára külön jogszabályban meghatározott adatokat szolgáltatni.
