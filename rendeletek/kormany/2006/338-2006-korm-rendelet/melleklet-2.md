@@ -1,6 +1,6 @@
 ## A fővárosi, a megyei és a körzeti földhivatalok illetékességi területe, valamint a kirendeltségek működési területe
 
-## 1. BUDAPEST FŐVÁROS KORMÁNYHIVATALÁNAK FÖLDHIVATALA[^70]
+## 1. BUDAPEST FŐVÁROS KORMÁNYHIVATALÁNAK FÖLDHIVATALA[^69]
 
 ## (székhelye: Budapest)
 
@@ -36,7 +36,7 @@
 
 ## Budapest XXIII. kerület
 
-## 1/2.[^71] Budapesti 2. számú Körzeti Földhivatal (székhelye: Budapest, XIV. ker.)
+## 1/2.[^70] Budapesti 2. számú Körzeti Földhivatal (székhelye: Budapest, XIV. ker.)
 
 ## Budapest IV. kerület
 
@@ -54,9 +54,9 @@
 
 ## Budapest XVI. kerület
 
-## 1/3.[^72]
+## 1/3.[^71]
 
-## 2. BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^73]
+## 2. BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^72]
 
 ## (székhelye: Pécs)
 
@@ -672,7 +672,7 @@
 
 ## Zók
 
-## 3. BÁCS-KISKUN MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^74]
+## 3. BÁCS-KISKUN MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^73]
 
 ## (székhelye: Kecskemét)
 
@@ -930,7 +930,7 @@
 
 ## Tass
 
-## 4. BÉKÉS MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^75]
+## 4. BÉKÉS MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^74]
 
 ## (székhelye: Békéscsaba)
 
@@ -1100,7 +1100,7 @@
 
 ## Zsadány
 
-## 5. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^76]
+## 5. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^75]
 
 ## (székhelye: Miskolc)
 
@@ -1836,7 +1836,7 @@
 
 ## Tiszaújváros
 
-## 6. CSONGRÁD MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^77]
+## 6. CSONGRÁD MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^76]
 
 ## (székhelye: Szeged)
 
@@ -1924,7 +1924,7 @@
 
 ## Zsombó
 
-## 6/4.[^78] Mórahalmi Körzeti Földhivatal
+## 6/4.[^77] Mórahalmi Körzeti Földhivatal
 
 ## Ásotthalom
 
@@ -1972,7 +1972,7 @@
 
 ## Tömörkény
 
-## 7. FEJÉR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^79]
+## 7. FEJÉR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^78]
 
 ## (székhelye: Székesfehérvár)
 
@@ -2202,7 +2202,7 @@
 
 ## Zichyújfalu
 
-## 8. GYŐR-MOSON-SOPRON MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^80]
+## 8. GYŐR-MOSON-SOPRON MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^79]
 
 ## (székhelye: Győr)
 
@@ -2454,7 +2454,7 @@
 
 ## Vitnyéd
 
-## 8/5.[^81] Mosonmagyaróvári Körzeti Földhivatal
+## 8/5.[^80] Mosonmagyaróvári Körzeti Földhivatal
 
 ## Ásványráró
 
@@ -2584,7 +2584,7 @@
 
 ## Zsira
 
-## 9. HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^82]
+## 9. HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^81]
 
 ## (székhelye: Debrecen)
 
@@ -2762,7 +2762,7 @@
 
 ## Tetétlen
 
-## 10. HEVES MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^83]
+## 10. HEVES MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^82]
 
 ## (székhelye: Eger)
 
@@ -3018,7 +3018,7 @@
 
 ## Zaránk
 
-## 11. JÁSZ-NAGYKUN-SZOLNOK MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^84]
+## 11. JÁSZ-NAGYKUN-SZOLNOK MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^83]
 
 ## (székhelye: Szolnok)
 
@@ -3184,7 +3184,7 @@
 
 ## Törökszentmiklós
 
-## 11/7.[^85] Karcagi Körzeti Földhivatal
+## 11/7.[^84] Karcagi Körzeti Földhivatal
 
 ## Berekfürdő
 
@@ -3192,7 +3192,7 @@
 
 ## Kunmadaras
 
-## 12. KOMÁROM-ESZTERGOM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^86]
+## 12. KOMÁROM-ESZTERGOM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^85]
 
 ## (székhelye: Esztergom)
 
@@ -3358,7 +3358,7 @@
 
 ## Vértesszőlős
 
-## 13. NÓGRÁD MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^87]
+## 13. NÓGRÁD MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^86]
 
 ## (székhelye: Salgótarján)
 
@@ -3632,7 +3632,7 @@
 
 ## Zabar
 
-## 14. PEST MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^88]
+## 14. PEST MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^87]
 
 ## (székhelye: Budapest)
 
@@ -4034,7 +4034,7 @@
 
 ## Göd
 
-## 15. SOMOGY MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^89]
+## 15. SOMOGY MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^88]
 
 ## (székhelye: Kaposvár)
 
@@ -4540,7 +4540,7 @@
 
 ## Zics
 
-## 16. SZABOLCS-SZATMÁR-BEREG MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^90]
+## 16. SZABOLCS-SZATMÁR-BEREG MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^89]
 
 ## (székhelye: Nyíregyháza)
 
@@ -5014,7 +5014,7 @@
 
 ## Vásárosnamény
 
-## 17. TOLNA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^91]
+## 17. TOLNA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^90]
 
 ## (székhelye: Szekszárd)
 
@@ -5246,7 +5246,7 @@
 
 ## Varsád
 
-## 18. VAS MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^92]
+## 18. VAS MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^91]
 
 ## (székhelye: Szombathely)
 
@@ -5692,7 +5692,7 @@
 
 ## Vasvár
 
-## 19. VESZPRÉM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^93]
+## 19. VESZPRÉM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^92]
 
 ## (székhelye: Veszprém)
 
@@ -6140,7 +6140,7 @@
 
 ## Zirc
 
-## 20. ZALA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^94]
+## 20. ZALA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA[^93]
 
 ## (székhelye: Zalaegerszeg)
 
@@ -6620,7 +6620,7 @@
 
 ## Zalatárnok
 
-## 20/6.[^95] Zalaszentgróti Körzeti Földhivatal
+## 20/6.[^94] Zalaszentgróti Körzeti Földhivatal
 
 ## Almásháza
 
@@ -6674,32 +6674,32 @@
 
 2. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^96]
+338/2006. (XII. 23.) Korm. rendelethez[^95]
 
-[^70]: Az 1. melléklet 1. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^71]: Az 1. melléklet 1. pont 1/2 alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^72]: Az 1. melléklet 1. pont 1/3 alpontját a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^73]: Az 1. melléklet 2. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^74]: Az 1. melléklet 3. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^75]: Az 1. melléklet 4. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^76]: Az 1. melléklet 5. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^77]: Az 1. melléklet 6. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^78]: Az 1. melléklet 6. pont 6/4. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^79]: Az 1. melléklet 7. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^80]: Az 1. melléklet 8. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^81]: Az 1. melléklet 8. pont 8/5. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével maegállapított szöveg.
-[^82]: Az 1. melléklet 9. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^83]: Az 1. melléklet 10. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^84]: Az 1. melléklet 11. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^85]: Az 1. melléklet 11. pont 11/7. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^86]: Az 1. melléklet 12. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^87]: Az 1. melléklet 13. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^88]: Az 1. melléklet 14. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^89]: Az 1. melléklet 15. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^90]: Az 1. melléklet 16. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^91]: Az 1. melléklet 17. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^92]: Az 1. melléklet 18. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^93]: Az 1. melléklet 19. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^94]: Az 1. melléklet 20. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^95]: Az 1. melléklet 20. pont 20/6. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdével megállapított szöveg.
-[^96]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^69]: Az 1. melléklet 1. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^70]: Az 1. melléklet 1. pont 1/2 alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^71]: Az 1. melléklet 1. pont 1/3 alpontját a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^72]: Az 1. melléklet 2. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^73]: Az 1. melléklet 3. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^74]: Az 1. melléklet 4. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^75]: Az 1. melléklet 5. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^76]: Az 1. melléklet 6. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^77]: Az 1. melléklet 6. pont 6/4. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^78]: Az 1. melléklet 7. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^79]: Az 1. melléklet 8. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^80]: Az 1. melléklet 8. pont 8/5. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével maegállapított szöveg.
+[^81]: Az 1. melléklet 9. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^82]: Az 1. melléklet 10. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^83]: Az 1. melléklet 11. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^84]: Az 1. melléklet 11. pont 11/7. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^85]: Az 1. melléklet 12. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^86]: Az 1. melléklet 13. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^87]: Az 1. melléklet 14. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^88]: Az 1. melléklet 15. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^89]: Az 1. melléklet 16. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^90]: Az 1. melléklet 17. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^91]: Az 1. melléklet 18. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^92]: Az 1. melléklet 19. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^93]: Az 1. melléklet 20. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^94]: Az 1. melléklet 20. pont 20/6. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdével megállapított szöveg.
+[^95]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

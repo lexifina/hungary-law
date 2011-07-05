@@ -1,4 +1,4 @@
-## II/A. Fejezet[^53]
+## II/A. Fejezet[^52]
 
 ## TELEKALAKÍTÁSI ELJÁRÁS
 
@@ -54,9 +54,9 @@ f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (6) Az egyesített telekalakítási eljárás megindítására irányuló kérelemnek, az (5) bekezdésben foglaltakon túl meg kell felelnie az ingatlan-nyilvántartásról szóló törvény szerinti előírásoknak.
 
-(7)[^54] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, és a földhivatalok honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. mellékletben felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében. Amennyiben a telekalakítási eljárás megindításakor a kérelmező rendelkezik hatályos, záradékolt változási vázrajzzal, úgy a 3. melléklet 1. pont 1.1–1.6. alpontjaiban foglalt munkarészek ismételt benyújtása nem szükséges.
+(7)[^53] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, és a földhivatalok honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. mellékletben felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében. Amennyiben a telekalakítási eljárás megindításakor a kérelmező rendelkezik hatályos, záradékolt változási vázrajzzal, úgy a 3. melléklet 1. pont 1.1–1.6. alpontjaiban foglalt munkarészek ismételt benyújtása nem szükséges.
 
-(8)[^55] Telekalakítási dokumentációt
+(8)[^54] Telekalakítási dokumentációt
 
 a) építészeti-műszaki tervezési szakterületen geodéziai tervezési jogosultsággal és ingatlanrendező földmérő minősítéssel rendelkező földmérő, vagy
 
@@ -64,9 +64,9 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 készíthet.
 
-(9)[^56] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét – felelős tervezőként – a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
+(9)[^55] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét – felelős tervezőként – a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
 
-[^53]: A II/A. Fejezetet (17/A-17/C. §-t) a 246/2009. (XI. 3.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
-[^54]: A 17/A. § (7) bekezdése a 129/2010. (IV. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^55]: A 17/A. § (8) bekezdése a 129/2010. (IV. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^56]: A 17/A. § (9) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^52]: A II/A. Fejezetet (17/A-17/C. §-t) a 246/2009. (XI. 3.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^53]: A 17/A. § (7) bekezdése a 129/2010. (IV. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^54]: A 17/A. § (8) bekezdése a 129/2010. (IV. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^55]: A 17/A. § (9) bekezdését a 129/2010. (IV. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
