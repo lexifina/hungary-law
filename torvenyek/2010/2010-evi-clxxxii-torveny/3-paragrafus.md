@@ -10,17 +10,17 @@ ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapít
 
 ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
 
-b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, tömegtájékoztatási (nyomtatott és elektronikus sajtó), egyházi, szociális, felzárkózást és szociális integrációt elősegítő és egészségügyi szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is), valamint önkormányzat
+b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, egyházi, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
 
-ba) alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
+ba) az alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
 
-bb) az Európai Unióhoz történő csatlakozással kapcsolatos felkészítő, tájékoztató, ismertető, oktatási, képzési, továbbképzési tevékenység ellátására;
+bb) az európai uniós tagsággal és az Európai Unió által biztosított támogatások felhasználásával kapcsolatos továbbképzési tevékenység ellátására;
 
-c) települési önkormányzat, azok társulása, szövetsége
+c) önkormányzat, azok társulása, szövetsége
 
 ca) az Európai Unió által is támogatott határmenti program céljára;
 
-cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési – kiemelten kulturális és sport – kapcsolatok kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
+cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési kapcsolatok – különösen a kulturális- és sportkapcsolatok – kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Európai Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
 
 d) a vállalkozás, ezen belül különösen mikro-, kis- és középvállalkozás
 

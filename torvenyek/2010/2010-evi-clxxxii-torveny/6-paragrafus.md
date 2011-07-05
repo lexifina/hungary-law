@@ -10,9 +10,9 @@
 
 a) magyarországi, vagy határon túli politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
 
-b) a MÁÉRT munkájában részt vevő személy, illetve annak közeli hozzátartozója;
+b) a MÁÉRT munkájában részt vevő – nem magyar közigazgatási szerv által delegált –személy, illetve annak közeli hozzátartozója;
 
-c) az Alap kezelő szervezetének vezetője, továbbá az a személy, aki a kezelő szervezetével munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+c) az Alap kezelő szervezetének vezetője, igazgatóságának tagja, felügyelő bizottságának tagja, továbbá az a személy, aki a kezelő szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más, a Polgári törvénykönyvről szóló törvény szerinti szerződéses jogviszonyban áll;
 
 d) a Bizottság tagja vagy annak közeli hozzátartozója;
 

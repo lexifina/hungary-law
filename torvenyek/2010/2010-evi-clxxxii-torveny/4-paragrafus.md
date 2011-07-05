@@ -18,7 +18,7 @@ c) egyéb bevételek.
 
 a) a (2) bekezdés a) pontja szerinti befizetések, adományok előző naptári évi összegével azonos rendszeres támogatás, amely nem lehet kevesebb, mint amennyi az Alap 1 milliárd forint összegre való kiegészítéséhez szükséges,
 
-b) eseti céltámogatás
+b) eseti támogatás
 
 illeti meg az Alapot.
 

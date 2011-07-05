@@ -6,13 +6,11 @@
 
 a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
 
-b) magyarországi vagy szomszédos államban lévő önkormányzat,
+b) társadalmi szervezet, alapítvány, jogi személyiséggel rendelkező önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
 
-c) más állam területén működő szervezet, intézmény, továbbá
+c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis- és középvállalkozás, valamint
 
-d) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis-, és középvállalkozás, valamint
-
-e) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+d) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
 
 (3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
 
