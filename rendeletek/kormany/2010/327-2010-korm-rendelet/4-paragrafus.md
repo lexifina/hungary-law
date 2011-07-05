@@ -36,4 +36,6 @@ n) az elvégzett feladatairól közvetlenül jelent az MgSzH-nak.
 
 (4) Az MgSzH az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében az MVH által átruházott, illetve együttműködőként ellátott feladatok ellátása érdekében megállapodást köthet a megyei kormányhivatallal, amelyben rendelkezni kell ezeknek a feladatoknak az ellátásához a pénzeszközátadás, a szakmai teljesítés és az elszámolás rendjéről.
 
-(5) A megyei kormányhivatal mezőgazdasági szakigazgatási szerve által hatósági tevékenysége ellátása során kiszabott bírság teljes összegét, illetve megállapított igazgatási szolgáltatási díj 20%-ának megfelelő összeget az MgSzH részére a szakmai feladatok ellátása érdekében befizeti.
+(5)[^1] A megyei kormányhivatal mezőgazdasági szakigazgatási szervéhez hatósági tevékenységének ellátásával összefüggésben – a központi költségvetés bevételét képező bírságok kivételével – befolyt bírság teljes összegét, illetve befolyt igazgatási szolgáltatási díj 20%-ának megfelelő összeget az MgSzH részére a szakmai feladatok ellátása érdekében befizeti.
+
+[^1]: A 4. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 12. Záró rendelkezések
 
-30. §[^4] (1) Ez a rendelet 2011. január 1-jén lép hatályba, ezzel egyidejűleg hatályát veszti
+30. §[^6] (1) Ez a rendelet 2011. január 1-jén lép hatályba, ezzel egyidejűleg hatályát veszti
 
 a) a Mezőgazdasági Szakigazgatási Hivatal létrehozásáról és működéséről szóló 274/2006. (XII. 23.) Korm. rendelet,
 
@@ -54,4 +54,4 @@ s) a Zala Megyei Mezőgazdasági Szakigazgatási Hivatal általános jogutódja 
 
 (5) 2011. január 31-ig fejezetek közötti előirányzat átcsoportosítást kell végrehajtani a megyei kormányhivatalok mezőgazdasági szakigazgatási szerveihez telepített növénytermesztési, tenyésztési, borászati hatósági feladatok ellátásához kapcsolódó kiadások és bevételek rendezése érdekében az intézményi előirányzatok között.
 
-[^4]: [A 31–32. §-nak a 82/2011. (V. 18.) Korm. rendelet 64. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „31. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni. 32. § Ez a rendelet a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének és b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének való megfelelést szolgálja.”.]
+[^6]: [A 31–32. §-nak a 82/2011. (V. 18.) Korm. rendelet 64. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „31. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni. 32. § Ez a rendelet a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének és b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének való megfelelést szolgálja.”.]
