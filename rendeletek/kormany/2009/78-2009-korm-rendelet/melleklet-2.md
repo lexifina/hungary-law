@@ -28,7 +28,7 @@
 
 | 5. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
-| 5.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja” |
+| 5.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 2. számú melléklet a 78/2009. (IV. 8.) Korm. rendelethez[^2]
 
@@ -122,48 +122,6 @@
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-3. Építésügyi hatósági engedély (kivéve útügyi beruházások)
+3.
 
-| Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-| 1. környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| 2. közlekedés |  |  |
-
-| 2.1. közút | Illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
-
-| 2.2. vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
-
-| 2.3. légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
-
-| 3. földtan | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-| 4. bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-| 5. rendészet (rendőrség) |  |  |
-
-| a) gyorsforgalmi utak esetébe | a) Országos Rendőr-főkapitányság | a) rendészetért felelős miniszter |
-
-| b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
-
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
-
-| 8. földművelésügy |  |  |
-
-| 8.1. termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
-
-| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
-
-| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
-
-| 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
-
-| 10. egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
-
-| 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
-
-| 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal „ |
-
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 240. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 240. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
