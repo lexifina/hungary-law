@@ -13,3 +13,7 @@
 (7) A (3)–(6) bekezdésben meghatározott jogviszonyok alatt a szerv működtetésével kapcsolatos jogviszonyok, így vagyoni jogok és kötelezettségek, az átvett feladathoz tartozó ingó és ingatlan eszköz- és infrastruktúra-állomány (kivéve a megállapodás alapján továbbra is központi hivatalok kezelésében lévő infrastruktúra, így különösen az informatikai hálózat), a kormánytisztviselői, illetve munkajogviszonyban foglalkoztatottak feletti munkáltató jogok gyakorlása és kötelezettségek teljesítése, valamint kormányzati szolgálati és munkajogviszonyuk is értendő.
 
 (8) A feladatellátáshoz kapcsolódó vagyoni jogok, ingó és ingatlan állomány – ha kormányrendelet eltérően nem rendelkezik – térítésmentesen kerül átadásra a jogutód részére.
+
+(9)[^30] Az állami tulajdonban lévő és az e § szerinti jogutódlás körébe tartozó közcélú vízgazdálkodási létesítmények térítésmentesen a létesítmény helye szerint illetékes környezetvédelmi és vízügyi igazgatóság vagyonkezelésébe kerülnek.
+
+[^30]: A 29. § (9) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 14. § (3) bekezdése iktatta be.
