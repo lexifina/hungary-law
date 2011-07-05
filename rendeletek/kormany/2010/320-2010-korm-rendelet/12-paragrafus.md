@@ -28,9 +28,9 @@ k) a villamosmű kivételével a megújuló energiahordozót előállító vagy 
 
 l) a helyhez kötött motorbenzin-tároló tartályokra, a motorbenzint szállító tartálykocsikra, valamint a pisztolygáz gőzvisszavezető rendszerekre vonatkozó, jogszabályban előírt követelmények betartásának ellenőrzésével kapcsolatos hatósági eljárásokban,
 
-m) a gázcsatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos engedélyezési feladatok tekintetében,
+m)[^2] a gázcsatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos engedélyezési feladatok tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti eljárásokban.
 
-n) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti eljárásokban, a szolgáltatás felügyeletét ellátó hatóságként.
+n)[^3]
 
 (3) A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
 
@@ -55,3 +55,6 @@ i) az iparügyekért felelős miniszter kormányzati feladatkörébe tartozó te
 ## kapcsolatos eljárásokban.
 
 (4) A Kormány a (3) bekezdés d) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
+
+[^2]: A 12. § (2) bekezdés m) pontja a 111/2011. (VII. 4.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^3]: A 12. § (2) bekezdés n) pontját a 111/2011. (VII. 4.) Korm. rendelet 19. § (4) bekezdése hatályon kívül helyezte.
