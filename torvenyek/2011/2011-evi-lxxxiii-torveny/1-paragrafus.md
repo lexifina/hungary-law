@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Dán Királyság között, a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Budapesten, 2011. április 27. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
