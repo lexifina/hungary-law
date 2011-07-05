@@ -1,12 +1,12 @@
-## Kiemelt hatáskörrel rendelkező munkaügyi központok és illetékességi területük
+## 1. Kiemelt hatáskörrel rendelkező munkaügyi központok és illetékességi területük
 
-## 1. Fővárosi Munkaügyi Központ (Budapest)
+## 1. Budapest Főváros Kormányhivatala Munkaügyi Központ (Budapest)
 
 ## Budapest
 
-## Pest Megye
+## Pest megye
 
-## 2. Baranya Megyei Munkaügyi Központ (Pécs)
+## 2. Baranya Megyei Kormányhivatal Munkaügyi Központja (Pécs)
 
 ## Baranya megye
 
@@ -14,7 +14,7 @@
 
 ## Tolna megye
 
-## 3. Békés Megyei Munkaügyi Központ (Békéscsaba)
+## 3. Békés Megyei Kormányhivatal Munkaügyi Központja (Békéscsaba)
 
 ## Bács-Kiskun megye
 
@@ -22,7 +22,7 @@
 
 ## Csongrád megye
 
-## 4. Borsod-Abaúj-Zemplén Megyei Munkaügyi Központ (Miskolc)
+## 4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal Munkaügyi Központja (Miskolc)
 
 ## Borsod-Abaúj-Zemplén megye
 
@@ -30,7 +30,7 @@
 
 ## Nógrád megye
 
-## 5. Fejér Megyei Munkaügyi Központ (Székesfehérvár)
+## 5. Fejér Megyei Kormányhivatal Munkaügyi Központja (Székesfehérvár)
 
 ## Fejér megye
 
@@ -38,7 +38,7 @@
 
 ## Veszprém megye
 
-## 6. Szabolcs-Szatmár-Bereg Megyei Munkaügyi Központ (Nyíregyháza)
+## 6. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
 
 ## Jász-Nagykun-Szolnok megye
 
@@ -46,15 +46,15 @@
 
 ## Szabolcs-Szatmár-Bereg megye
 
-## 7. Vas Megyei Munkaügyi Központ (Szombathely)
+## 7. Vas Megyei Kormányhivatal Munkaügyi Központja (Szombathely)
 
 ## Vas megye
 
 ## Zala megye
 
-## Győr-Moson-Sopron megye
+## Győr-Moson-Sopron megye.
 
-2. melléklet a Nemzeti Foglalkoztatási Szolgálatról szóló 315/2010. (XII. 27.) Korm. rendelethez[^7]
+2. melléklet a Nemzeti Foglalkoztatási Szolgálatról szóló 315/2010. (XII. 27.) Korm. rendelethez[^17]
 
 A regionális fejlesztési és képzési bizottság tevékenységével összefüggő e rendeletben meghatározott feladatokat ellátó, illetékességgel rendelkező munkaügyi központok
 
@@ -72,4 +72,4 @@ A regionális fejlesztési és képzési bizottság tevékenységével összefü
 
 7. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
 
-[^7]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 292. §-a iktatta be.
+[^17]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 292. §-a iktatta be.

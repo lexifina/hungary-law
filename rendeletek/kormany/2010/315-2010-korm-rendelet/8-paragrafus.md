@@ -6,4 +6,6 @@ b) rehabilitációs munkacsoportot működtet, részt vesz a megváltozott munka
 
 c) közreműködik a megváltozott munkaképességű személyek részére foglalkozási rehabilitációs szolgáltatások nyújtásában.
 
-(2) A kirendeltség és szolgáltató központ vezetője főosztályvezető-helyettes besorolású kormánytisztviselő.
+(2)[^12]
+
+[^12]: A 8. § (2) bekezdését 111/2011. (VII. 4.) Korm. rendelet 16. § (9) bekezdése hatályon kívül helyezte.

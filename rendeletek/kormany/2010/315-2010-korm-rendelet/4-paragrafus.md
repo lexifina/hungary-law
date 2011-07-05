@@ -68,7 +68,9 @@ s) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 t) munkaügyi kutatásokat kezdeményez és végez, valamint
 
-u) koordinálja a munkaügyi központok EU-támogatással megvalósuló tevékenységeit.
+u) koordinálja a munkaügyi központok EU-támogatással megvalósuló tevékenységeit,
+
+v)[^4] koordinálja a munkaügyi központok foglalkoztatási rehabilitációval, továbbá a megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal ellátja a szociális partnerek munkaügyi érdekegyeztetésben való részvételéhez szükséges felkészülése támogatásával kapcsolatos feladatokat.
 
@@ -83,3 +85,4 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 d) egyéb szervezetekkel.
 
 [^3]: A 4. § (1) bekezdés p) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § (1) bekezdés v) pontját a 111/2011. (VII. 4.) Korm. rendelet 16. § (1) bekezdése iktatta be.

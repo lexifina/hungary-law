@@ -32,15 +32,15 @@ l) ellátja a munkaügyi tanács titkársági feladatait, valamint
 
 m) ellátja a felnőttképzési intézmények nyilvántartásba vételével és ellenőrzésével kapcsolatos feladatokat,
 
-n)[^4] illetékességi területén ellátja a regionális fejlesztési és képzési bizottság működésével, a hatáskörébe tartozó döntések, javaslatok, állásfoglalások előkészítésével és a végrehajtással, valamint működtetési költségeinek felhasználásával kapcsolatos feladatokat.
+n)[^6] illetékességi területén ellátja a regionális fejlesztési és képzési bizottság működésével, a hatáskörébe tartozó döntések, javaslatok, állásfoglalások előkészítésével és a végrehajtással, valamint működtetési költségeinek felhasználásával kapcsolatos feladatokat.
 
-(2)[^5] A hatósági szerződések megkötése tekintetében a szakigazgatási szerv vezetője szerződéskötési képességgel rendelkezik.
+(2)[^7] A hatósági szerződések megkötése tekintetében a szakigazgatási szerv vezetője szerződéskötési képességgel rendelkezik.
 
 (3) A munkaügyi központ megyei (fővárosi) szervezete
 
 a) feladatainak ellátása érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi kisebbségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel. Ennek keretében adatszolgáltatási feladatokat teljesít a fővárosi és megyei kormányhivatal, valamint az egyes szakigazgatási szervek felé – ideértve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján történő megtérítési igények érvényesítéséhez szükséges, havi rendszerességgel esedékes adatszolgáltatást is,
 
-b)[^6]
+b)[^8]
 
 c) elkészíti a munkaügyi központ belső szakmai szabályzatait, valamint
 
@@ -58,6 +58,6 @@ c) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 (5) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a munkaügyi központ megyei (fővárosi) szervezetét jelöli ki.
 
-[^4]: A 6. § (1) bekezdés n) pontját a 351/2010. (XII. 30.) Korm. rendelet 291. § (2) bekezdése iktatta be.
-[^5]: [A 351/2010. (XII. 30.) Korm. rendelet 291. § (3) bekezdésével elrendelt módosítás, amely szerint a 6. § (2) bekezdése e) ponttal egészül ki, nem vezethető át.]
-[^6]: A 6. § (3) bekezdés b) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 6. § (1) bekezdés n) pontját a 351/2010. (XII. 30.) Korm. rendelet 291. § (2) bekezdése iktatta be.
+[^7]: [A 351/2010. (XII. 30.) Korm. rendelet 291. § (3) bekezdésével elrendelt módosítás, amely szerint a 6. § (2) bekezdése e) ponttal egészül ki, nem vezethető át.]
+[^8]: A 6. § (3) bekezdés b) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
