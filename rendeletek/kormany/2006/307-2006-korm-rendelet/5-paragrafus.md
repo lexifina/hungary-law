@@ -1,5 +1,3 @@
-## 4/B. §[^15] A Kt. szerinti közoktatási feladatkörében eljáró oktatási hivatal feladatainak ellátására a Kormány a Hivatalt, valamint e rendelet 41–41/D. §-ában és külön jogszabályban foglaltak szerint a közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatalt jelöli ki.
-
 ## A Hivatal közoktatással és szakképzéssel kapcsolatos feladatai[^16]
 
 5. § (1)[^17] A Hivatal
@@ -32,7 +30,6 @@ d)[^22] szabálysértési hatóságként jár el [az egyes szabálysértésekrő
 
 (4)[^24] A Hivatal – a Kt. 72. §-ának (2) bekezdése alapján – gondoskodik a bizonyítványnyomtatvány kiállításának alapjául szolgáló nyomtatványok engedélyezésének előkészítéséről és a bizonyítványok előállításáról.
 
-[^15]: A 4/B. §-t a 325/2010. (XII. 27.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^16]: Az 5. §-t megelőző alcím a 325/2010. (XII. 27.) Korm. rendelet 9. § d) pontjával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^17]: Az 5. § (1) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^18]: Az 5. § (1) bekezdés c) pontja a 4/2010. (I. 14.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.

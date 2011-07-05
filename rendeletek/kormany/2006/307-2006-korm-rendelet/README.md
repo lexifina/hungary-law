@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-307-20-
 | 2010-01-15 | 2006-307-20-22.12 | 4/2010. (I. 14.) Korm. rendelet |
 | 2010-05-25 | 2006-307-20-22.13 | 111/2010. (IV. 9.) Korm. rendelet |
 | 2011-01-01 | 2006-307-20-22.14 | 325/2010. (XII. 27.) Korm. rendelet |
+| 2011-07-05 | 2006-307-20-22.15 | 111/2011. (VII. 4.) Korm. rendelet |

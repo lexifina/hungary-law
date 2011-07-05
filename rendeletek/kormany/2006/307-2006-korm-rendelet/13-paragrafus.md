@@ -6,7 +6,7 @@ b) az egyedi érettségi vizsgatárgyak akkreditációjáról;
 
 c)[^44] a közoktatási szakértői engedély kiadásáról, a közoktatási szakértői tevékenységtől, illetve a vizsgáztatási tevékenységtől való eltiltásról;
 
-d)[^45] a szakmai vizsga megszervezésére vonatkozó engedély kiadásáról;
+d)[^45]
 
 e)–g)[^46]
 
@@ -31,7 +31,7 @@ b) a szakképzést folytató intézményekben, illetve a felsőoktatási intézm
 [^42]: A 13. § (1) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^43]: A 13. § (1) bekezdés a) pontja a 325/2010. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^44]: A 13. § (1) bekezdés c) pontja a 4/2010. (I. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^45]: A 13. § (1) bekezdés d) pontja a 325/2010. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^45]: A 13. § (1) bekezdés d) pontját a 111/2011. (VII. 4.) Korm. rendelet 7. § (7) bekezdése hatályon kívül helyezte.
 [^46]: A 13. § (1) bekezdés e)–g) pontját a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^47]: A 13. § (1) bekezdés h) pontját a 4/2010. (I. 14.) Korm. rendelet 7. § (4) bekezdése iktatta be.
 [^48]: A 13. § (2) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
