@@ -1,3 +1,5 @@
+## 10. §[^3] A NÁK koordinálja a fővárosi és megyei kormányhivatalok peres ügyeinek intézését.
+
 ## 11. § A NÁK további szakmai feladat- és hatáskörében
 
 a) közreműködik a fővárosi és megyei kormányhivatalok feladatkörét, szervezetét és működését érintő jogszabályok, utasítások, intézkedések előkészítésében, illetve véleményezésében,
@@ -11,3 +13,5 @@ d) gyűjti és elemzi a fővárosi és megyei kormányhivatalok és az általuk 
 e) részt vesz az államigazgatási feladat és hatáskörök feladatkataszterének elkészítésében,
 
 f) felkérésre közreműködhet a miniszter hatáskörébe tartozó szakmai irányítási feladatok ellátásában.
+
+[^3]: A 10. § a 111/2011. (VII. 4.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
