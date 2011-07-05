@@ -12,7 +12,7 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (3) A munkavédelmi felügyelőségek gyakorolják az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. Ellátják továbbá mindazon hatósági ellenőrzési feladatokat, amelyeket külön jogszabály nevesítve feladat- és hatáskörükbe utal.
 
-(4) Munkavédelmi bírság kiszabására első fokon annak a munkavédelmi felügyelőségnek vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(4)[^5] A munkavédelmi bírság kiszabására első fokon annak a munkavédelmi és munkaügyi szakigazgatási szerv vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
 (5) A munkavédelmi felügyelő elsőfokú munkavédelmi hatósági jogkörében ellátja az Mvt. 84. §-ában meghatározott munkavédelmi hatósági feladatokat.
 
@@ -20,8 +20,11 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (7) Munkavédelmi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül
 
-a) a munkavédelmi felügyelő és a munkavédelmi felügyelőség vezetője eljárása tekintetében az OMMF;
+a)[^6] a munkavédelmi felügyelő és a munkavédelmi és munkaügyi szakigazgatási szerv eljárása vonatkozásában az OMMF;
 
 b) az OMMF eljárása vonatkozásában a miniszter.
 
 (8) Munkavédelmi hatósági ügyben az OMMF eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+
+[^5]: A 8. § (4) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^6]: A 8. § (7) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.

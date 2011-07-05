@@ -4,8 +4,11 @@
 
 (3) A fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervét az igazgató, a munkavédelmi felügyelőséget és a munkaügyi felügyelőséget az igazgatóhelyettesek vezetik.
 
-(4) A munkavédelmi felügyelőségek vezetői szakmailag önállóan vezetik a felügyelőségeket, és munkavédelmi bírságot szabnak ki.
+(4)[^3] Az igazgató az igazgatóhelyettesek közreműködésével irányítja a munkavédelmi felügyelőséget és a munkaügyi felügyelőséget, és – amennyiben törvény eltérően nem rendelkezik – ellátja a munkavédelmi hatóság és munkaügyi hatóság hatósági feladatait.
 
-(5) A munkaügyi felügyelőségek vezetői szakmailag önállóan vezetik a felügyelőségeket, és munkaügyi bírságot szabnak ki.
+(5)[^4] Az igazgató-helyetteseket az igazgató az OMMF elnökének egyetértésével nevezi ki. Az igazgató-helyettesek főosztályvezető-helyettes besorolású kormánytisztviselők.
 
 (6) A munkavédelmi felügyelőségek és a munkaügyi felügyelőségek keretében a hatósági feladatok ellátására munkavédelmi felügyelők és munkaügyi felügyelők működnek.
+
+[^3]: A 3. § (4) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^4]: A 3. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
