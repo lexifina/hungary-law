@@ -24,7 +24,7 @@ e) a Nemzeti Fejlesztési és Gazdasági Minisztérium egyes fejezeti kezelésű
 
 (5) E rendelet 6. §-át nem kell alkalmazni az állami kezességvállalással biztosított lakáscélú kölcsönökre.
 
-(6)[^2] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitelnyújtónál felvett kölcsönnel történő kiváltására, ha
+(6)[^2] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel történő kiváltására, ha
 
 a) ezáltal a hiteltartozás összege nem növekszik, és
 
@@ -37,5 +37,5 @@ bb) forinthitel, ha az eredeti hitel forinthitel.
 (7)[^3] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
 
 [^1]: Az 1. § (3) bekezdés a) pontja a 152/2010. (IV. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (6) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (6) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 110/2011. (VII. 4.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be.
