@@ -10,7 +10,7 @@ c) speciális hazai frekvenciagazdálkodási követelmények és sávhasználati
 
 (3) A rendeletben alkalmazott rövidítések értelmezését az 1. függelék, a hivatkozott dokumentumok jegyzékét a 2. függelék tartalmazza.
 
-(4)[^3] Az 1. és 2. mellékletben hivatkozott ERC- és ECC-határozatokon kívül – a 2010-2025 MHz sávval összefüggő határozati pontok vonatkozó részeiben nem teljesülő ERC/DEC/(99)25 Határozat kivételével – a frekvenciasávok felhasználási szabályai tekintetében az alábbiak is teljesülnek:
+(4)[^3] Az 1. és 2. mellékletben hivatkozott ERC- és ECC-határozatokon kívül – a 2010-2025 MHz sávval összefüggő határozati pontok vonatkozó részeiben nem teljesülő ECC/DEC/(06)01 Határozat kivételével – a frekvenciasávok felhasználási szabályai tekintetében az alábbiak is teljesülnek:
 
 a) ECC/DEC/(03)03: az ECC 2003. október 17-i határozata a „Határozat a repülőgépes földfelszíni távközlő rendszerre vonatkozó Schiever Terv kezeléséről” című (97)08 ERC-határozat visszavonásáról;
 
@@ -22,6 +22,6 @@ d)[^4] ECC/DEC/(08)02: az ECC 2008. március 14-i határozata az ERC/DEC/(97)06,
 
 e)[^5] ECC/DEC/(08)04: az ECC 2008. március 14-i határozata az ERC/DEC/(01)04, ERC/DEC/(01)09, ERC/DEC/(01)13, ERC/DEC/(01)15 és az ERC/DEC(01)18 Határozat visszavonásáról.
 
-[^3]: Az 5. § (4) bekezdésének bevezető szövegrésze a 94/2007. (XI. 23.) GKM rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § (4) bekezdésének bevezető szövegrésze a 94/2007. (XI. 23.) GKM rendelet 2. §-ával megállapított, a 34/2011. (VII. 4.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
 [^4]: Az 5. § (4) bekezdésének d) pontját a 28/2008. (X. 21.) KHEM rendelet 1. §-a iktatta be.
 [^5]: Az 5. § (4) bekezdésének e) pontját a 28/2008. (X. 21.) KHEM rendelet 1. §-a iktatta be.
