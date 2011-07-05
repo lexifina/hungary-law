@@ -22,13 +22,18 @@ c)[^5] az a) és b) pontba nem tartozó, külön jogszabályban építésügyi v
 
 (6) A vizsgaszervező köteles az építésügyi vizsgára való felkészítésről gondoskodni.
 
-(7) A miniszter gondoskodik az építésügyi vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, az írásbeli és szóbeli vizsgakérdések összeállításáról és azok közzétételéről.
+(7)[^7] A miniszter
 
-(8)[^7] A (2) bekezdés c) pont szerinti személy az éves vizsgaterv szerint – a miniszter által vezetett minisztérium honlapján – meghirdetett építésügyi vizsgára jelentkezhet.
+a) gondoskodik az építésügyi vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az írásbeli és szóbeli vizsgakérdések összeállításáról és azok közzétételéről, a felkészítő és a vizsga díjának meghatározásáról, valamint
+
+b) gondoskodik a vizsgáztatást végző személyek díjának meghatározásáról.
+
+(8)[^8] A (2) bekezdés c) pont szerinti személy az éves vizsgaterv szerint – a miniszter által vezetett minisztérium honlapján – meghirdetett építésügyi vizsgára jelentkezhet.
 
 [^2]: A 2. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés a) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 4. pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés b) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés c) pontját a 311/2009. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
 [^6]: A 2. § (5) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 2. § (8) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 10. §-a iktatta be.
+[^7]: A 2. § (7) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^8]: A 2. § (8) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 10. §-a iktatta be.
