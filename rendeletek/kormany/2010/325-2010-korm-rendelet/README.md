@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-325-20-
 | --- | --- | --- |
 | 2011-01-01 | 2010-325-20-22.1 | 325/2010. (XII. 27.) Korm. rendelet |
 | 2011-01-02 | 2010-325-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-07-05 | 2010-325-20-22.3 | 111/2011. (VII. 4.) Korm. rendelet |
