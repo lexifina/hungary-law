@@ -8,7 +8,7 @@
 
 (5) Gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelése során a biztosított Ebtv. 29. §-ának (2) bekezdése szerinti nyilatkozatát – külön jogszabályban foglaltak figyelembevételével – a vény hátoldalára kell feljegyezni, amit a biztosított aláírásával igazol.
 
-(6)[^206] A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatványt, illetőleg az Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya) az érvényes jogviszonnyal rendelkező biztosított az ország területén bármely egészségbiztosítási szakigazgatási szervnél, illetve az OEP-nél igényelheti.
+(6)[^206] A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatványt, illetve az Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya) az érvényes jogviszonnyal rendelkező biztosított részére az egészségbiztosítási szakigazgatási szerv vagy az OEP bocsátja ki.
 
 (7)[^207] Az EU-Kártya hatálya:
 
@@ -42,7 +42,7 @@ d) a köztisztviselők tartós külszolgálatáról szóló 104/2003. (VII. 18.)
 [^203]: A Vhr. 12/A. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (4) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
 [^204]: A Vhr. 12/A. §-ának (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
 [^205]: A Vhr. 12/A. §-ának (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 7. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129. §-a,a 366/2010. (XII. 30.) Korm. rendelet 14. § 18. pontja szerint módosított szöveg.
-[^206]: A Vhr. 12/A. §-ának (6) bekezdése a 360/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129–130. §-a, a 139/2010. (IV. 28.) Korm. rendelet 1. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 19. pontja szerint módosított szöveg.
+[^206]: A Vhr. 12/A. § (6) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
 [^207]: A Vhr. 12/A. §-ának új (7) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7)–(14) bekezdésének számozását (8)–(15) bekezdésre változtatta. A Vhr. 12/A. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^208]: A Vhr. 12/A. § (7) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 336/2009. (XII. 29.) Korm. rendelet 19. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^209]: A Vhr. 12/A. § (7) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
