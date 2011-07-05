@@ -10,7 +10,7 @@
 
 4. Adaptív rendszer: olyan rádiótávközlő rendszer, amely a csatorna minőségének megfelelően változtatja rádiótechnikai jellemzőit.
 
-4/A.[^39] Aktív orvosi implantátum: minden olyan aktív beültethető eszköz rádiós része, amely sebészeti vagy más orvosi beavatkozással az emberi testbe vagy annak egy természetes testnyílásába részlegesen vagy teljesen bevezetésre kerül, és az a beavatkozás után a helyén marad.
+4/A.[^17] Aktív orvosi implantátum: minden olyan aktív beültethető eszköz rádiós része, amely sebészeti vagy más orvosi beavatkozással az emberi testbe vagy annak egy természetes testnyílásába részlegesen vagy teljesen bevezetésre kerül, és az a beavatkozás után a helyén marad.
 
 5. Állandóhelyű állomás: az állandóhelyű szolgálat állomása.
 
@@ -20,7 +20,7 @@
 
 Az állomásokat a szerint a szolgálat szerint osztályozzák, amelyben állandóan vagy időszakosan részt vesznek.
 
-7/A.[^40] Általános többpont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiórendszer, amelyben a felhasználói állomások mindegyike kapcsolódik ugyanahhoz az állomáshoz (központi állomás), és a rendszerben vannak olyan felhasználói állomások, amelyek között közvetlen rádiókapcsolat is lehetséges.
+7/A.[^18] Általános többpont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiórendszer, amelyben a felhasználói állomások mindegyike kapcsolódik ugyanahhoz az állomáshoz (központi állomás), és a rendszerben vannak olyan felhasználói állomások, amelyek között közvetlen rádiókapcsolat is lehetséges.
 
 8. Amatőrállomás: az amatőrszolgálat állomása.
 
@@ -38,7 +38,7 @@ Az állomásokat a szerint a szolgálat szerint osztályozzák, amelyben álland
 
 15. Biztonsági szolgálat: minden olyan rádiótávközlési szolgálat, amelyet állandóan vagy időszakosan az emberi élet védelme és a javak megóvása érdekében üzemeltetnek.
 
-16.[^41] Egyeztetett világidő (UTC): az ITU-R TF.460-6 Ajánlásban meghatározott, másodpercen (SI) alapuló időskála.
+16.[^19] Egyeztetett világidő (UTC): az ITU-R TF.460-6 Ajánlásban meghatározott, másodpercen (SI) alapuló időskála.
 
 Az RR-hez kapcsolódó gyakorlati alkalmazások nagy részében az UTC idő azonos a korábban GMT-ben kifejezett, a kezdő délkörre (0 hosszúsági fok) vonatkoztatott közepes napidővel.
 
@@ -52,7 +52,7 @@ Amikor az FNFT egy nemzetközi lábjegyzetében egy sáv azzal a megjegyzéssel 
 
 20. Felhasználó: lásd Frekvenciafelhasználó.
 
-20/A.[^42] Felhasználói állomás: a rádiórendszer olyan állomása, amely elektronikus hírközlő végberendezéssel üzemel.
+20/A.[^20] Felhasználói állomás: a rádiórendszer olyan állomása, amely elektronikus hírközlő végberendezéssel üzemel.
 
 21. Felosztás (egy frekvenciasávé): egy meghatározott frekvenciasávnak az RR Frekvenciasávok Felosztási Táblázatába, illetve az FNFT-be való beírása abból a célból, hogy azt egy vagy több földfelszíni rádiótávközlési szolgálat vagy űrtávközlési szolgálat, illetve a rádiócsillagászati szolgálat meghatározott feltételek mellett használja. A fogalom a kérdéses frekvenciasávra is vonatkozik.
 
@@ -78,6 +78,8 @@ Ellenkező utalás hiányában, minden állomás földfelszíni állomás.
 
 29. Frekvenciafelhasználó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy más szervezet, illetve természetes személy, amely, illetve aki rádiótávközlési célból rádiójeleket állít elő, vagy rádiójeleket kisugároz, vagy rádióberendezést üzemben tart.
 
+29/A.[^21] GSM-rendszer: elektronikus hírközlő hálózat, amely megfelel a GSM nemzeti szabványoknak, különösen az MSZ EN 301 502-nek és az MSZ EN 301 511-nek.
+
 30. Hajóállomás: a tengeri mozgószolgálat nem állandó jelleggel kikötött hajó fedélzetén elhelyezett mozgóállomása, a mentőjármű állomás kivételével.
 
 31. Hajó földi állomás: a műholdas tengeri mozgószolgálat hajó fedélzetén elhelyezett mozgó földi állomása.
@@ -88,7 +90,7 @@ E szolgálatból kizártak a nyilvános levelezés jellegű közlemények.
 
 33. Hajóvészadó: a hajó olyan adóállomása, amely kizárólag vészfrekvencián, vészjelzési, sürgősségi vagy biztonsági célokra használható.
 
-33/A.[^43] Hallókészülék: rendszerint egy vagy több rádióadót, valamint egy vagy több rádióvevőt magában foglaló rádiótávközlő rendszer, amely lehetővé teszi a halláskárosodásban szenvedő személyek számára, hogy növeljék hallóképességüket.
+33/A.[^22] Hallókészülék: rendszerint egy vagy több rádióadót, valamint egy vagy több rádióvevőt magában foglaló rádiótávközlő rendszer, amely lehetővé teszi a halláskárosodásban szenvedő személyek számára, hogy növeljék hallóképességüket.
 
 34. Helyettesítő felosztás: amikor az FNFT egy nemzetközi lábjegyzetében egy sáv azzal a megjegyzéssel szerepel, hogy azt egy Körzetnél kisebb földrajzi övezetben vagy egy adott országban valamely szolgálat számára „osztották fel”, akkor az „helyettesítő” felosztás, vagyis olyan felosztás, amely a kérdéses földrajzi övezetben vagy országban a táblázatban megjelölt felosztás helyébe lép.
 
@@ -104,17 +106,17 @@ E szolgálatból kizártak a nyilvános levelezés jellegű közlemények.
 
 40. Igazgatás: minden olyan kormányszerv vagy szolgálat, amely a Nemzetközi Távközlési Egyesület Alapokmányában, a Nemzetközi Távközlési Egyesület Egyezményében és az Igazgatási Szabályzatokban vállalt kötelezettségek teljesítése érdekében teendő intézkedésekért felelős.
 
-40/A.[^44] Intelligens közlekedési rendszerek (ITS): a közúti közlekedési rendszerben alkalmazott rendszerek és szolgáltatások, amelyek információs és kommunikációs technológiákra épülnek, beleértve a közúti közlekedési rendszerek által alkalmazott feldolgozást, vezérlést, helymeghatározást, kommunikációt és elektronikát.
+40/A.[^23] Intelligens közlekedési rendszerek (ITS): a közúti közlekedési rendszerben alkalmazott rendszerek és szolgáltatások, amelyek információs és kommunikációs technológiákra épülnek, beleértve a közúti közlekedési rendszerek által alkalmazott feldolgozást, vezérlést, helymeghatározást, kommunikációt és elektronikát.
 
 41. Ipari, tudományos és orvosi (ISM) célú felhasználás (a rádiófrekvenciás energiáé): olyan készülékek vagy berendezések működtetését jelenti, melyeket ipari, tudományos, orvosi, háztartási vagy hasonló célra, a rádiófrekvenciás energia kis térben való előállítására és hasznosítására hoztak létre, ide nem értve a távközlés területén történő alkalmazásokat.
 
 42. Járulékos felosztás: amikor az FNFT egy nemzetközi lábjegyzetében egy sáv azzal a megjegyzéssel szerepel, hogy azt egy Körzetnél kisebb földrajzi övezetben vagy egy adott országban valamely szolgálat számára „is felosztották”, akkor az „járulékos” felosztás, vagyis olyan felosztás, amely a kérdéses földrajzi övezetben vagy országban a táblázatban megjelölt szolgálat(ok)on felül szerepel.
 
-43.[^45]
+43.[^24]
 
-43/A.[^46] Keskenysávú rádiórendszer: legfeljebb 25 kHz csatorna-sávszélességű rádiórendszer.
+43/A.[^25] Keskenysávú rádiórendszer: legfeljebb 25 kHz csatorna-sávszélességű rádiórendszer.
 
-43/B.[^47] Kiegészítő földfelszíni komponens (CGC): a műholdas mozgószolgálati rendszer szerves része, amely – a mozgó földi állomásokkal összeköttetést megvalósító – helyhez kötött földi telepítésű állomásokból áll annak érdekében, hogy javuljon a műholdas mozgószolgálati rendszer elérhetősége azokban a – rendszer műholdjának, illetve műholdjainak fedési körzetében található – földrajzi térségekben, ahol az egy vagy több űrállomással való összeköttetés nem biztosítható a szükséges minőségben.
+43/B.[^26] Kiegészítő földfelszíni komponens (CGC): a műholdas mozgószolgálati rendszer szerves része, amely – a mozgó földi állomásokkal összeköttetést megvalósító – helyhez kötött földi telepítésű állomásokból áll annak érdekében, hogy javuljon a műholdas mozgószolgálati rendszer elérhetősége azokban a – rendszer műholdjának, illetve műholdjainak fedési körzetében található – földrajzi térségekben, ahol az egy vagy több űrállomással való összeköttetés nem biztosítható a szükséges minőségben.
 
 44. Kijelölés (egy rádiófrekvenciáé vagy egy rádiófrekvenciás csatornáé): egy igazgatás, illetve frekvenciagazdálkodó hatóság valamely rádióállomás számára kiadott engedélye, amely meghatározott rádiófrekvencia vagy rádiófrekvenciás csatorna meghatározott feltételek mellett történő felhasználására vonatkozik.
 
@@ -134,13 +136,13 @@ Ez a fogalommeghatározás az FNFT nemzetközi lábjegyzeteire vonatkozik.
 
 Ez a meghatározás nem foglalja magában az amatőrállomásokat.
 
-50.[^48] Kis hatótávolságú eszköz (SRD): olyan kis távolság áthidalására szolgáló kis teljesítményű rádióadó, amellyel egy- vagy kétirányú információátvitel valósítható meg, és amely kis valószínűséggel okoz zavarást más rádióberendezésnek.
+50.[^27] Kis hatótávolságú eszköz (SRD): olyan kis távolság áthidalására szolgáló kis teljesítményű rádióadó, amellyel egy- vagy kétirányú információátvitel valósítható meg, és amely kis valószínűséggel okoz zavarást más rádióberendezésnek.
 
-50/A.[^49] Kis hatótávolságú gépjárműradar: olyan rádióberendezés, amely gépjárművekre kifejlesztett radarfunkciót lát el az összeütközések hatásainak csökkentése érdekében, továbbá közlekedésbiztonsági alkalmazások számára.
+50/A.[^28] Kis hatótávolságú gépjárműradar: olyan rádióberendezés, amely gépjárművekre kifejlesztett radarfunkciót lát el az összeütközések hatásainak csökkentése érdekében, továbbá közlekedésbiztonsági alkalmazások számára.
 
 51. Kisugárzott egyenértékű izotrop teljesítmény (e.i.r.p.): az antennára juttatott teljesítmény és az adott irányban az izotrop antennára vonatkoztatott nyereség (izotrop vagy abszolút nyereség) szorzata.
 
-51/A.[^50] Központi állomás: pont-többpont és általános többpont rendszerek olyan állomása, amely ezen rendszerek valamennyi felhasználói állomásával közvetlen vagy átjátszóállomás közvetítésével létrehozott rádiókapcsolatban van. Amennyiben a rendszer az alaphálózathoz vagy más rendszerhez csatlakozik, a csatlakozás ezen állomás közvetítésével történik.
+51/A.[^29] Központi állomás: pont-többpont és általános többpont rendszerek olyan állomása, amely ezen rendszerek valamennyi felhasználói állomásával közvetlen vagy átjátszóállomás közvetítésével létrehozott rádiókapcsolatban van. Amennyiben a rendszer az alaphálózathoz vagy más rendszerhez csatlakozik, a csatlakozás ezen állomás közvetítésével történik.
 
 52. Központi földi állomás: a műholdas állandóhelyű szolgálat vagy a műholdas mozgószolgálat keretében működő olyan nagykapacitású, nagy antennaméretű földi állomás, amely geostacionárius és nemgeostacionárius műholdakhoz az információátvitelt biztosítja.
 
@@ -160,11 +162,13 @@ Bizonyos esetekben a légiforgalmi állomás például hajó fedélzetén vagy t
 
 59. Légijármű földi állomás: a műholdas légiforgalmi mozgószolgálat légijármű fedélzetén elhelyezett mozgó földi állomása.
 
-59/A.[^51] Légijárműveken hozzáférhető mobilhírközlési szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás bocsát a légiutasok rendelkezésére nyilvános elektronikus hírközlő hálózatok repülés közben, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül történő igénybevételére.
+59/A.[^30] Légijárműveken hozzáférhető mobilhírközlési szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás bocsát a légiutasok rendelkezésére nyilvános elektronikus hírközlő hálózatok repülés közben, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül történő igénybevételére.
 
 60. Légi mozgószolgálat: lásd Légiforgalmi mozgószolgálat.
 
 61. Légi rádiónavigáció szolgálat: lásd Légiforgalmi rádiónavigáció szolgálat.
+
+61/A.[^31] LTE-rendszer: elektronikus hírközlő hálózat, amely megfelel az ETSI által kiadott LTE-szabványoknak, különösen az EN 301 908-1-nek, az EN 301 908-13-nak, az EN 301 908-14-nek és az EN 301 908-11-nek.
 
 62. Markeradó: a légiforgalmi rádiónavigáció szolgálatban alkalmazott olyan adóállomás, amely függőleges nyalábot sugároz abból a célból, hogy a légijárművek részére helyzetjelölést adjon.
 
@@ -172,11 +176,11 @@ Bizonyos esetekben a légiforgalmi állomás például hajó fedélzetén vagy t
 
 64. Mentőjármű állomás: a tengeri mozgószolgálat vagy a légiforgalmi mozgószolgálat mozgóállomása, amely kizárólag a szerencsétlenségek túlélőinek szükségleteit szolgálja, és amelyet mentőcsónakon, mentőtutajon vagy bármely egyéb mentőeszközön helyeznek el.
 
-64/A.[^52] Mérőóra-leolvasó rendszer: olyan rendszer, amely rádiótávközlő eszközök használatával lehetővé teszi a távoli állapotellenőrzést, mérést és üzemeltetési utasítások küldését.
+64/A.[^32] Mérőóra-leolvasó rendszer: olyan rendszer, amely rádiótávközlő eszközök használatával lehetővé teszi a távoli állapotellenőrzést, mérést és üzemeltetési utasítások küldését.
 
 65. Meteorológiai segédszolgálat: meteorológiai, valamint hidrológiai megfigyelésekre és kutatásokra használt rádiótávközlési szolgálat.
 
-65/A.[^53] Modellirányító alkalmazás: járműmodellek (elsősorban kicsinyített járműutánzatok) levegőben, földön, vízfelszínen vagy víz alatt végzett mozgásának irányítására használt rádióalkalmazás.
+65/A.[^33] Modellirányító alkalmazás: járműmodellek (elsősorban kicsinyített járműutánzatok) levegőben, földön, vízfelszínen vagy víz alatt végzett mozgásának irányítására használt rádióalkalmazás.
 
 66. Modulációs összeköttetés: adott helyen elhelyezett földi állomásról egy űrállomás irányába mutató – vagy fordított irányú – rádió-összeköttetés, amely a műholdas állandóhelyű szolgálattól eltérő űrtávközlési szolgálat számára továbbít információt. Az adott hely lehet egy meghatározott állandó pont vagy meghatározott területeken belül bármely állandó pont.
 
@@ -306,7 +310,7 @@ A rendszer hatékony működését a jelzés- és forgalmi rendszerének a felha
 
 110. Nyilvános levelezés: minden olyan távközlés, amelyet a hivataloknak és állomásoknak – annak a ténynek a következtében, hogy a közönség rendelkezésére állnak – továbbítás végett el kell fogadniuk.
 
-110/A.[^54] Nyomon követésre és tárgyak felkutatására szolgáló rendszer: olyan rendszer, amely lehetővé teszi az áruknak azok visszaszerzését eredményező nyomon követését és felkutatását, és amely általában egy, a védendő árucikkre helyezett rádióadót, valamint egy rádióvevőt tartalmaz, továbbá magában foglalhat egy riasztót is.
+110/A.[^34] Nyomon követésre és tárgyak felkutatására szolgáló rendszer: olyan rendszer, amely lehetővé teszi az áruknak azok visszaszerzését eredményező nyomon követését és felkutatását, és amely általában egy, a védendő árucikkre helyezett rádióadót, valamint egy rádióvevőt tartalmaz, továbbá magában foglalhat egy riasztót is.
 
 111. (OR) légiforgalmi mozgószolgálat: elsődlegesen a nemzeti és nemzetközi polgári légiútvonalakon kívüli összeköttetések – beleértve a repülés koordinálásával kapcsolatosakat is – biztosítására szolgáló légiforgalmi mozgószolgálat.
 
@@ -318,9 +322,9 @@ A rendszer hatékony működését a jelzés- és forgalmi rendszerének a felha
 
 115. Pont-pont összeköttetés: az állandóhelyű szolgálat keretében egymással kizárólagos rádiótávközlési kapcsolatban lévő adó- és vevőállomás közötti átvitel.
 
-116.[^55] Pont-többpont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiórendszer, amelyben a felhasználói állomások mindegyike ugyanahhoz az állomáshoz (központi állomás) közvetlenül vagy átjátszóállomás közvetítésével kapcsolódik, és a felhasználói állomások között közvetlen rádiókapcsolat nincs.
+116.[^35] Pont-többpont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiórendszer, amelyben a felhasználói állomások mindegyike ugyanahhoz az állomáshoz (központi állomás) közvetlenül vagy átjátszóállomás közvetítésével kapcsolódik, és a felhasználói állomások között közvetlen rádiókapcsolat nincs.
 
-117.[^56] Professzionális/Magán mozgórádió (PMR) rendszer: az engedélyes által saját célra használt, esetleg részben más felhasználó(k)nak átengedett, zárt felhasználói csoport forgalmának lebonyolítására szolgáló diszpécsercélú mozgórádió rendszer.
+117.[^36] Professzionális/Magán mozgórádió (PMR) rendszer: az engedélyes által saját célra használt, esetleg részben más felhasználó(k)nak átengedett, zárt felhasználói csoport forgalmának lebonyolítására szolgáló diszpécsercélú mozgórádió rendszer.
 
 118. Radar: olyan rádiómeghatározó rendszer, amely a referenciajeleknek a meghatározandó helyről visszaverődő vagy visszatovábbított rádiójelekkel való összehasonlításán alapul.
 
@@ -340,7 +344,7 @@ A rendszer hatékony működését a jelzés- és forgalmi rendszerének a felha
 
 126. Rádiócsillagászati szolgálat: rádiócsillagászattal foglalkozó szolgálat.
 
-126/A.[^57] Rádiófrekvenciás azonosító (RFID) eszköz: többek között árucikkek rádiórendszer használatával történő nyomon követésére és azonosítására szolgáló eszköz, amely egyrészről az árucikkekre rögzített passzív eszközökből (címkék), másrészről a címkék aktiválására és a róluk történő adatgyűjtésre szolgáló adóvevő egységekből (olvasók) áll.
+126/A.[^37] Rádiófrekvenciás azonosító (RFID) eszköz: többek között árucikkek rádiórendszer használatával történő nyomon követésére és azonosítására szolgáló eszköz, amely egyrészről az árucikkekre rögzített passzív eszközökből (címkék), másrészről a címkék aktiválására és a róluk történő adatgyűjtésre szolgáló adóvevő egységekből (olvasók) áll.
 
 127. Rádiófrekvenciás tartomány: rádióhullámok frekvenciatartománya.
 
@@ -364,7 +368,7 @@ A rendszer hatékony működését a jelzés- és forgalmi rendszerének a felha
 
 137. Rádiómeghatározás: valamely tárgy helyének, sebességének és/vagy más jellemzőinek meghatározása, illetve az ezekre vonatkozó adatok megszerzése a rádióhullámok terjedési sajátságainak segítségével.
 
-137/A.[^58] Rádiómeghatározó alkalmazás: a rádiómeghatározó szolgálat rádióalkalmazása.
+137/A.[^38] Rádiómeghatározó alkalmazás: a rádiómeghatározó szolgálat rádióalkalmazása.
 
 138. Rádiómeghatározó állomás: a rádiómeghatározó szolgálat állomása.
 
@@ -476,9 +480,9 @@ tengeri rádiónavigáció szolgálat,
 
 149. (R) légi mozgószolgálat: lásd (R) légiforgalmi mozgószolgálat.
 
-149/A.[^59] Szélesebb sávú rádiórendszer: legalább 25 kHz csatorna-sávszélességet használó rádiórendszer.
+149/A.[^39] Szélesebb sávú rádiórendszer: legalább 25 kHz csatorna-sávszélességet használó rádiórendszer.
 
-149/B.[^60] Szélessávú vezetéknélküli hozzáférési (BWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és az állomások közötti távközlés szélessávú átviteli sebességgel történik.
+149/B.[^40] Szélessávú vezetéknélküli hozzáférési (BWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és az állomások közötti távközlés szélessávú átviteli sebességgel történik.
 
 150. Személyhívó rendszer: rádiótávközlési rendszer, amely meghatározott címzett üzenetek közvetítését teszi lehetővé, változó helyű felhasználók számára.
 
@@ -486,11 +490,11 @@ tengeri rádiónavigáció szolgálat,
 
 152. Szerencsétlenségek helyét jelző rádióbója állomás: a mozgószolgálat olyan állomása, amelynek adásai megkönnyítik a kutatási és mentési műveleteket.
 
-152/A.[^61] Szociális segélykérő: olyan hordozható berendezéssel ellátott, megbízható rádiótávközlő rendszer és hálózat, amely lehetővé teszi, hogy egy korlátozott hozzáférésű területen vészhelyzetben lévő személy egyszerű beavatkozással segélyhívást indítson.
+152/A.[^41] Szociális segélykérő: olyan hordozható berendezéssel ellátott, megbízható rádiótávközlő rendszer és hálózat, amely lehetővé teszi, hogy egy korlátozott hozzáférésű területen vészhelyzetben lévő személy egyszerű beavatkozással segélyhívást indítson.
 
 153. Társadalmi (polgári) önvédelmi szervezet: az egyesülési jogról szóló 1989. évi II. törvénynek a társadalmi szervezetekre és egyesületekre vonatkozó rendelkezései alapján működő, a lakosság élet- és vagyonvédelmének biztosítása érdekében létesült szervezet, amelynek tevékenysége az önkormányzatokról szóló 1990. évi LXV. törvény 8. §-a értelmében települési önkormányzati hatáskörbe tartozik.
 
-153/A.[^62] Tartályszintmérő radar: egy valamilyen anyag tárolására szolgáló tartályban lévő anyag szintjének meghatározására használt speciális rádiómeghatározó alkalmazás, amelyet fémből vagy vasbetonból készült tartályba vagy azzal összemérhető rádiófrekvenciás csillapító tulajdonsággal rendelkező anyagból készült hasonló létesítménybe telepítenek.
+153/A.[^42] Tartályszintmérő radar: egy valamilyen anyag tárolására szolgáló tartályban lévő anyag szintjének meghatározására használt speciális rádiómeghatározó alkalmazás, amelyet fémből vagy vasbetonból készült tartályba vagy azzal összemérhető rádiófrekvenciás csillapító tulajdonsággal rendelkező anyagból készült hasonló létesítménybe telepítenek.
 
 154. Távirányító berendezés: távirányításra szolgáló rádióberendezés, amely különböző szerkezetek folyamatos, egyirányú vezérlését teszi lehetővé.
 
@@ -512,7 +516,9 @@ A Magyar Köztársaság területén a tengeri mozgószolgálat RR szerinti érv�
 
 Egy több műholdas összeköttetés egy felszálló összeköttetésből, egy vagy több műholdak közötti összeköttetésből és egy leszálló összeköttetésből áll.
 
-161/A.[^63] Ultraszéles sávú (UWB) technológiát használó berendezések: beépített összetevőként vagy kiegészítőként olyan, kis hatótávolságú rádiótávközlő technológiát alkalmazó, 50 MHz-nél szélesebb frekvenciatartományra kiterjedő rádiófrekvenciás energiát szándékosan előállító és sugárzó berendezések, amelyek frekvenciatartománya átfedésbe kerülhet több, a rádiótávközlési szolgálatok részére felosztott frekvenciasávval.
+161/A.[^43] Ultraszéles sávú (UWB) technológiát használó berendezések: beépített összetevőként vagy kiegészítőként olyan, kis hatótávolságú rádiótávközlő technológiát alkalmazó, 50 MHz-nél szélesebb frekvenciatartományra kiterjedő rádiófrekvenciás energiát szándékosan előállító és sugárzó berendezések, amelyek frekvenciatartománya átfedésbe kerülhet több, a rádiótávközlési szolgálatok részére felosztott frekvenciasávval.
+
+161/B.[^44] UMTS-rendszer: elektronikus hírközlő hálózat, amely megfelel az UMTS nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-2-nek, az MSZ EN 301 908-3-nak és az MSZ EN 301 908-11-nek.
 
 162. Űrállomás: olyan tárgyon elhelyezett állomás, amely a Föld légkörének központi részén kívül helyezkedik el, azon kívülre szánták, vagy oda került.
 
@@ -528,36 +534,42 @@ Ezeket a tevékenységeket általában az a szolgálat látja el, amelynek keret
 
 167. Változó telephelyű állomás: olyan állomás, amely helyváltoztatásra alkalmas, de csak telepített helyzetben üzemelhet.
 
-168.[^64] Végfelhasználói állomás: olyan felhasználói állomás, amely az elektronikus átvitel végpontját képezi.
+168.[^45] Végfelhasználói állomás: olyan felhasználói állomás, amely az elektronikus átvitel végpontját képezi.
 
-168/A.[^65] Vezetéknélküli hozzáférési rendszer: szélessávú rádiórendszer, amely tekintet nélkül a hálózat topológiájára, vezetéknélküli hozzáférést biztosít nyilvános és magáncélú alkalmazások számára.
+168/A.[^46] Vezetéknélküli hozzáférési rendszer: szélessávú rádiórendszer, amely tekintet nélkül a hálózat topológiájára, vezetéknélküli hozzáférést biztosít nyilvános és magáncélú alkalmazások számára.
+
+168/B.[^47] WiMAX-rendszer: az állandóhelyű szolgálatban olyan pont-többpont rádiórendszer, valamint a mozgószolgálatban olyan mobil rádiórendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek. A 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban az ETSI által kiadott WiMAX-szabványoknak, ezen belül különösen az EN 301 908-1-nek, az EN 301 908-21-nek és az EN 301 908-22-nek megfelelő elektronikus hírközlő hálózat is WiMAX-rendszernek minősül.
 
 169. Zsinórnélküli telefon: elektronikus hírközlő hálózat azon földi mozgószolgálati része, amelynek bázisállomásai közvetlenül csatlakoznak elektronikus hírközlő hálózathoz.
 
-[^39]: A 14. § 4/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^40]: A 14. § 7/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^41]: A 14. § 16. pontja az 59/2006. (III. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^42]: A 14. § 20/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^43]: A 14. § 33/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^44]: A 14. § 40/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^45]: A 14. § 43. pontját a 182/2009. (IX. 10.) Korm. rendelet 385. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^46]: A 14. § új 43/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti 43/A. pont számozását 43/B. pontra változtatva.
-[^47]: A 14. § 43/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be, számozását 43/B. pontra változtatta a 254/2008. (X. 18.) Korm. rendelet 4. § (2) bekezdése. A 43/B. pont a 264/2009. (XI. 27.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^48]: A 14. § 50. pontja a 295/2007. (XI. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^49]: A 14. § 50/A. pontját a 167/2005. (VIII. 24.) Korm. rendelet 2. §-a iktatta a szövegbe.
-[^50]: A 14. § 51/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^51]: A 14. § 59/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^52]: A 14. § 64/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (5) bekezdése iktatta be.
-[^53]: A 14. § 65/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (5) bekezdése iktatta be.
-[^54]: A 14. § 110/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (6) bekezdése iktatta be.
-[^55]: A 14. § 116. pontja a 264/2009. (XI. 27.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^56]: A 14. § 117. pontja az 59/2006. (III. 21.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^57]: A 14. § 126/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^58]: A 14. § 137/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (7) bekezdése iktatta be.
-[^59]: A 14. § 149/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^60]: A 14. § 149/B. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^61]: A 14. § 152/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (7) bekezdése iktatta be.
-[^62]: A 14. § 153/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (8) bekezdése iktatta be.
-[^63]: A 14. § 161/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 264/2009. (XI. 27.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^64]: A 14. § 168. pontja a 254/2008. (X. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^65]: A 14. § 168/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^17]: A 14. § 4/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^18]: A 14. § 7/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^19]: A 14. § 16. pontja az 59/2006. (III. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^20]: A 14. § 20/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^21]: A 14. § 29/A. pontját a 109/2011. (VII. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^22]: A 14. § 33/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^23]: A 14. § 40/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^24]: A 14. § 43. pontját a 182/2009. (IX. 10.) Korm. rendelet 385. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 14. § új 43/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti 43/A. pont számozását 43/B. pontra változtatva.
+[^26]: A 14. § 43/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be, számozását 43/B. pontra változtatta a 254/2008. (X. 18.) Korm. rendelet 4. § (2) bekezdése. A 43/B. pont a 264/2009. (XI. 27.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^27]: A 14. § 50. pontja a 295/2007. (XI. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^28]: A 14. § 50/A. pontját a 167/2005. (VIII. 24.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^29]: A 14. § 51/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^30]: A 14. § 59/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^31]: A 14. § 61/A. pontját a 109/2011. (VII. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban az LTE- és a WiMAX-rendszerre vonatkozó szabályok 2011. augusztus 1-jén lépnek hatályba.
+[^32]: A 14. § 64/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^33]: A 14. § 65/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^34]: A 14. § 110/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^35]: A 14. § 116. pontja a 264/2009. (XI. 27.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^36]: A 14. § 117. pontja az 59/2006. (III. 21.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^37]: A 14. § 126/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^38]: A 14. § 137/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^39]: A 14. § 149/A. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^40]: A 14. § 149/B. pontját a 254/2008. (X. 18.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^41]: A 14. § 152/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (7) bekezdése iktatta be.
+[^42]: A 14. § 153/A. pontját a 264/2009. (XI. 27.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^43]: A 14. § 161/A. pontját a 295/2007. (XI. 9.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 264/2009. (XI. 27.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^44]: A 14. § 161/B. pontját a 109/2011. (VII. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^45]: A 14. § 168. pontja a 254/2008. (X. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^46]: A 14. § 168/A. pontját az 59/2006. (III. 21.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^47]: A 14. § 168/B. pontját a 109/2011. (VII. 4.) Korm. rendelet 2. § (4) bekezdése iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban az LTE- és a WiMAX-rendszerre vonatkozó szabályok 2011. augusztus 1-jén lépnek hatályba.

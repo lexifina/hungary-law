@@ -48,10 +48,6 @@
 
 |  | Második generációs zsinórnélküli telefon |
 
-| DCS 1800 | Digital Communication System 1800 |
-
-|  | 1800 MHz-es sávú digitális távközlő rendszer |
-
 | DECT | Digital European Cordless Telecommunications |
 
 |  | Digitális európai zsinórnélküli távközlés |
@@ -96,15 +92,15 @@
 
 | EGK | Európai Gazdasági Közösség |
 
-| EGSM | Extended GSM |
-
-|  | Kiterjesztett GSM-sáv |
-
 | e.i.r.p. | Equivalent Isotropically Radiated Power |
 
 |  | Kisugárzott egyenértékű izotrop teljesítmény |
 
 | EK | Európai Közösség |
+
+| EN | European Standard |
+
+|  | Európai Szabvány |
 
 | ENSZ | Egyesült Nemzetek Szervezete |
 
@@ -228,6 +224,10 @@
 
 |  | Nagy távolságú léginavigációs rendszer |
 
+| LTE | Long Term Evolution |
+
+|  | Hosszú távú fejlődés |
+
 | MBS | Mobile Broadband System |
 
 |  | Szélessávú mozgó rendszer |
@@ -243,6 +243,8 @@
 | MSI | Maritime Safety Information |
 
 |  | Tengeri biztonsági közlemények |
+
+| MSZ | Magyar Szabvány |
 
 | MVDS | Multipoint Video Distribution System |
 
@@ -478,8 +480,8 @@
 
 |  | Rádiótávközlési Világértekezlet, Genf, 1997 |
 
-2. melléklet a 346/2004. (XII. 22.) Korm. rendelethez[^67]
+2. melléklet a 346/2004. (XII. 22.) Korm. rendelethez[^49]
 
 FREKVENCIASÁVOK NEMZETI FELOSZTÁSI TÁBLÁZATA
 
-[^67]: A 2. melléklet az 59/2006. (III. 21.) Korm. rendelet 7. § (2) bekezdése, a 295/2007. (XI. 9.) Korm. rendelet 5. § (2) bekezdése, a 254/2008. (X. 18.) Korm. rendelet 5. § (2) bekezdése, a 264/2009. (XI. 27.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 2. melléklet az 59/2006. (III. 21.) Korm. rendelet 7. § (2) bekezdése, a 295/2007. (XI. 9.) Korm. rendelet 5. § (2) bekezdése, a 254/2008. (X. 18.) Korm. rendelet 5. § (2) bekezdése, a 264/2009. (XI. 27.) Korm. rendelet 5. § (2) bekezdése, a 109/2011. (VII. 4.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
