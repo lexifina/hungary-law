@@ -1,9 +1,1 @@
 38. § E törvény 11. §-a a radioaktív hulladékok és a kiégett fűtőelemek szállításának felügyeletéről és ellenőrzéséről szóló, 2006. november 20-i 2006/117/Euratom tanácsi irányelv 17. cikk (3) bekezdésének való megfelelést szolgálja.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
