@@ -4,9 +4,9 @@
 
 (3) A gazdálkodó szervezet hozzájárulásával a földhivatal birtokba adja a termőföldet akkor is, ha a birtokbaadás egyéb feltételei fennállnak, de a jogosult az elismert tartozását nem fizette meg, vagy részletfizetésben sem állapodott meg.
 
-(4)[^63] Ha a birtokbaadást a feltételeinek teljesülésétől számított 60 napon belül a földhivatal elvégezni nem tudja, a termőföldet az illetékes földrendező bizottság az árverési jegyzőkönyv és térképvázlat alapján — erre irányuló kérelemre ideiglenes jelleggel — a jogosult használatába adja (előzetes használat). Ha az érintett földrészleten többen szereztek tulajdonjogot, a földrendező bizottság az eljárásáról azokat a tulajdonosokat is értesíti, akik az előzetes használatot nem kérték.
+(4)[^64] Ha a birtokbaadást a feltételeinek teljesülésétől számított 60 napon belül a földhivatal elvégezni nem tudja, a termőföldet az illetékes földrendező bizottság az árverési jegyzőkönyv és térképvázlat alapján — erre irányuló kérelemre ideiglenes jelleggel — a jogosult használatába adja (előzetes használat). Ha az érintett földrészleten többen szereztek tulajdonjogot, a földrendező bizottság az eljárásáról azokat a tulajdonosokat is értesíti, akik az előzetes használatot nem kérték.
 
-(5)[^64] Az előzetes használatba adott termőföld területnagysága és határvonala a végleges kitűzés és birtokbaadás során módosulhat.
+(5)[^65] Az előzetes használatba adott termőföld területnagysága és határvonala a végleges kitűzés és birtokbaadás során módosulhat.
 
-[^63]: A Vhr. 52.§-ának (4) bekezdését a 163/1993. (XI.30.) Korm. rendelet 10.§-a iktatta a szövegbe.
-[^64]: A Vhr. 52.§-ának (5) bekezdését a 163/1993. (XI.30.) Korm. rendelet 10.§-a iktatta a szövegbe.
+[^64]: A Vhr. 52.§-ának (4) bekezdését a 163/1993. (XI.30.) Korm. rendelet 10.§-a iktatta a szövegbe.
+[^65]: A Vhr. 52.§-ának (5) bekezdését a 163/1993. (XI.30.) Korm. rendelet 10.§-a iktatta a szövegbe.

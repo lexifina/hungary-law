@@ -1,1 +1,3 @@
-9. § A kárpótlási jegy forgalmazására az egyes értékpapírok nyilvános forgalombahozataláról és forgalmazásáról, valamint az értékpapírtőzsdéről szóló 1990. évi VI. törvény (a továbbiakban: Épt.) IV. részét, a bennfentes kereskedelem korlátozására pedig az Épt. VI. részét és 84. §-át kell alkalmazni.
+9. §[^6]
+
+[^6]: A Vhr. 9. §-át a 111/2011. (VII. 4.) Korm. rendelet 1. § (6) bekezdése hatályon kívül helyezte.
