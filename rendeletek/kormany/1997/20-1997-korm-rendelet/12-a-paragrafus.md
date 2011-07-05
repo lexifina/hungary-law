@@ -12,7 +12,7 @@ c) a bölcsődét, a fogyatékosok ápoló, gondozó otthonát, a fogyatékosok 
 
 d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 96. § (5) bekezdése szerinti közös igazgatású intézményeket, ha az adott intézményben nevelési-oktatási intézményegység, illetve nevelési tanácsadó működik [az a)–d) pont alattiak a továbbiakban együtt: közoktatási intézmény].
 
-(3)[^37] Ha a közoktatási intézmény nem helyi önkormányzati fenntartásban működik, a jegyző, főjegyző a közoktatási intézmény működési engedélyének, illetve – ha arra nincs szükség – a nyilvántartásba vétellel kapcsolatos határozatának jogerősítő záradékkal ellátott példányát – a jogerőre emelkedést követő nyolc napon belül – az Oktatási Hivatal által meghatározott formában és módon megküldi a KIR részére, mellékelve hozzá:
+(3)[^37] Ha a közoktatási intézmény nem helyi önkormányzati fenntartásban működik, a kormányhivatal a közoktatási intézmény működési engedélyének, illetve – ha arra nincs szükség – a nyilvántartásba vétellel kapcsolatos határozatának jogerősítő záradékkal ellátott példányát – a jogerőre emelkedést követő nyolc napon belül – az Oktatási Hivatal által meghatározott formában és módon megküldi a KIR részére, mellékelve hozzá:
 
 a) a fenntartónak a közoktatási szolgáltató tevékenység folytatására jogosító okiratát, ha a fenntartó e tevékenységet nem jogszabály felhatalmazása alapján látja el,
 
@@ -38,7 +38,7 @@ e)[^38] a közoktatási intézmény egységes szerkezetű alapító okiratát.
 
 [^35]: A 12/A. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 8. §-a iktatta a szövegbe.
 [^36]: A 12/A. §-t a 196/1999. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^37]: A 12/A. § (3) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. A 12/A. § (3) bekezdés nyitó szövegrészében a 351/2010. (XII. 30.) Korm. rendelet 38. § (6) bekezdése alapján az „a jegyző, főjegyző” szövegrész helyébe az „a kormányhivatal” szöveg lép. [Utóbbi módosító rendelet 299. § (5) bekezdése alapján 2011. július 1-jén lép hatályba.]
+[^37]: A 12/A. § (3) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése, a 111/2011. (VII. 4.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg.
 [^38]: A 12/A. § (3) bekezdés e) pontját a 150/2010. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
 [^39]: A 12/A. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
 [^40]: A 12/A. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

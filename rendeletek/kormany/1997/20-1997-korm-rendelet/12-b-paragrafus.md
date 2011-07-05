@@ -18,7 +18,7 @@ a) költségvetési szerv esetén a megszüntető okiratot, valamint a törzskö
 
 b) nem költségvetési szerv esetén a jogerősítő záradékkal ellátott megszüntető határozatot.
 
-(5)[^43] A közoktatási intézmény megszűnését a (4) bekezdés a) pontjában meghatározott esetben az Igazgatóság, a (4) bekezdés b) pontjában meghatározott esetben a jegyző, főjegyző – a megszűnést követő nyolc napon belül – jelenti be, egyúttal az Oktatási Hivatal által meghatározott módon és formában közli a megszűnés módját, idejét, illetve a jogutód közoktatási intézmény nevét, székhelyét, valamint a fenntartó nevét.
+(5)[^43] A közoktatási intézmény megszűnését a (4) bekezdés a) pontjában meghatározott esetben a Magyar Államkincstár, a (4) bekezdés b) pontjában meghatározott esetben a közoktatási intézmény székhelye szerinti kormányhivatal – a megszűnést követő öt munkanapon belül – jelenti be, egyúttal az Oktatási Hivatal által meghatározott módon és formában közli a megszűnés módját, idejét, illetve a jogutód közoktatási intézmény nevét, székhelyét, valamint a fenntartó nevét.
 
 (6)[^44] Változás esetén az Oktatási Hivatal írásban közérdekű és közérdekből nyilvános adatokat kérhet a fenntartótól vagy a jogutód közoktatási intézmény vezetőjétől. A megkeresést az Oktatási Hivatal által meghatározott módon és formában nyolc napon belül kell teljesíteni.
 
@@ -37,6 +37,6 @@ b) a fenntartó a közoktatási intézmény működtetését egy nevelési évig
 (11) Az Oktatási Hivatal a közoktatási intézménytörzs adatai alapján összeállítja a közoktatási intézmények hivatalos jegyzékét, és azt évente egyszer a KIR honlapján közzéteszi.
 
 [^42]: A 12/B. §-t a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (8) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^43]: A 12/B. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. [A 12/B. § (5) bekezdésének a 351/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdésével megállapított, a 299. § (5) bekezdése alapján 2011. július 1-jétől hatályos szövege: „(5) A közoktatási intézmény megszűnését a (4) bekezdés a) pontjában meghatározott esetben a Magyar Államkincstár, a (4) bekezdés b) pontjában meghatározott esetben a közoktatási intézmény székhelye szerinti kormányhivatal – a megszűnést követő öt munkanapon belül – jelenti be, egyúttal az Oktatási Hivatal által meghatározott módon és formában közli a megszűnés módját, idejét, illetve a jogutód közoktatási intézmény nevét, székhelyét, valamint a fenntartó nevét.”.]
+[^43]: A 12/B. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^44]: A 12/B. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^45]: A 12/B. § (10) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

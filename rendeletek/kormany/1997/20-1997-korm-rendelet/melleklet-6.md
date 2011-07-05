@@ -16,6 +16,6 @@
 
 ## A 2. b) pont szerinti sorszám nem adható ki, ha a 11-gyel való osztás maradéka egyenlő tízzel.
 
-6. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^137]
+6. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^134]
 
-[^137]: A 6. számú mellékletet a 70/2006. (III. 28.) Korm. rendelet 9. § (5) bekezdése iktatta be. E módosító rendelet 10. § (2) bekezdése alapján az Iroda 2006. május 2-ától biztosítja interneten keresztül a hozzáférést a 6. számú mellékletben meghatározott adattartalmú adatbázishoz.
+[^134]: A 6. számú mellékletet a 70/2006. (III. 28.) Korm. rendelet 9. § (5) bekezdése iktatta be. E módosító rendelet 10. § (2) bekezdése alapján az Iroda 2006. május 2-ától biztosítja interneten keresztül a hozzáférést a 6. számú mellékletben meghatározott adattartalmú adatbázishoz.

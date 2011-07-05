@@ -16,7 +16,7 @@ d) a közoktatási diák- és pedagógus igazolványok adatait,
 
 e) a középiskolai felvételi, a kétszintű érettségi és a tankönyvrendeléssel kapcsolatos adatokat,
 
-h)[^26] a főjegyző, jegyző által szolgáltatott adatokat,
+h)[^26] a főjegyző, jegyző és a kormányhivatal által szolgáltatott adatokat,
 
 i) az állami vizsgák alapján kiadott bizonyítványok adatait.
 
@@ -45,7 +45,7 @@ c)[^28] elektronikus úton.
 [^23]: A 11. § (1) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 5. §-ával megállapított, a 229/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^24]: A 11. § (2) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^25]: A 11. § (2) bekezdés a) pontja a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^26]: [A 11. § (2) bekezdés h) pontjának a 351/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdésével megállapított, a 299. § (5) bekezdése alapján 2011. július 1-jétől hatályos szövege: „h) a főjegyző, jegyző és a kormányhivatal által szolgáltatott adatokat,”.]
+[^26]: A 11. § (2) bekezdés h) pontja a 111/2011. (VII. 4.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^27]: A 11. § (3) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^28]: A 11. § (6) bekezdés c) pontja a 229/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^29]: A 11. § (7) bekezdését a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés c) pontja hatályon kívül helyezte.
