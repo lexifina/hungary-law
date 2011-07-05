@@ -14,7 +14,7 @@ e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti első fokú el
 
 – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a kulturális örökségvédelmi szakigazgatási szervet szakhatóságként jelöli ki.
 
-(2)[^4] A Kormány védett természeti területen található erdő esetén
+(2)[^5] A Kormány védett természeti területen található erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -64,7 +64,7 @@ ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes k
 
 (4) A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló első fokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-(5)[^5] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^6] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló eljárásban,
 
@@ -106,5 +106,5 @@ g) cserjék kivágásának engedélyezése iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-[^4]: [A 32. § (2) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (1) bekezdése alapján. E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
-[^5]: [A 32. § (5) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése alapján. E módosító rendelet 68. § alapján 2011. szeptember 15-én lép hatályba.]
+[^5]: [A 32. § (2) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (1) bekezdése alapján. E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
+[^6]: [A 32. § (5) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése alapján. E módosító rendelet 68. § alapján 2011. szeptember 15-én lép hatályba.]

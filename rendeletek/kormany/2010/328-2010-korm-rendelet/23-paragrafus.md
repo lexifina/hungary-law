@@ -1,1 +1,3 @@
-## 22. § A területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény 14. § (1) bekezdés e) pontjában foglaltak tekintetében a Kormány mezőgazdasági és vidékfejlesztési támogatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+## 22. §[^4]
+
+[^4]: A 22. §-t a 111/2011. (VII. 4.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
