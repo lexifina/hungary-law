@@ -14,15 +14,15 @@ f) a központi fűtésről és melegvíz-szolgáltatásról,
 
 g) a behozott kőolaj és kőolajtermékek biztonsági készletezéséről,
 
-h)[^278] a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználásáról,
+h)[^279] a bioüzemanyagok és más megújuló üzemanyagok közlekedési célú felhasználásáról,
 
-i)[^279] a megújuló energiaforrások hő- és villamosenergia-termelési céllal történő felhasználásáról,
+i)[^280] a megújuló energiaforrások hő- és villamosenergia-termelési céllal történő felhasználásáról,
 
-j)[^280] az energiahatékonyság és energiatakarékosság fokozása érdekében teendő lépésekről
+j)[^281] az energiahatékonyság és energiatakarékosság fokozása érdekében teendő lépésekről
 
 szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(2)[^281] A miniszter az energiapolitikáért való felelőssége körében – ezzel összefüggésben az energiastratégiával és klíma-politikával, az energiahatékonysággal és energiatakarékossággal, a fenntartható fejlődés feltételeinek megteremtésével, valamint a fenntartható energiagazdálkodással kapcsolatos feladatok ellátása során –
+(2)[^282] A miniszter az energiapolitikáért való felelőssége körében – ezzel összefüggésben az energiastratégiával és klíma-politikával, az energiahatékonysággal és energiatakarékossággal, a fenntartható fejlődés feltételeinek megteremtésével, valamint a fenntartható energiagazdálkodással kapcsolatos feladatok ellátása során –
 
 a) az EU kibocsátás kereskedelmi rendszerének vonatkozásában ellátja az üvegházhatású gázok európai kibocsátási egységeinek kiosztására, elszámolására, az emisszió-kereskedelmi rendszer működtetésére vonatkozó feladatokat, és gondoskodik azok végrehajtásáról,
 
@@ -52,7 +52,7 @@ a) Egyezségi Megállapodás az E.ON AG, az E.ON Ruhrgas International Gmbh, az 
 
 b) Szerződés elővásárlási jog alapításáról az E.ON AG, az E.ON Ruhrgas International Gmbh, az E.On Földgáz Trade Zrt., a Magyar Köztársaság és a Magyar Nemzeti Vagyonkezelő Zrt. között.
 
-[^278]: A 89. § (1) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^279]: A 89. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^280]: A 89. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^281]: A 89. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^279]: A 89. § (1) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^280]: A 89. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^281]: A 89. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^282]: A 89. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 29. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

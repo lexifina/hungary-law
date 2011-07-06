@@ -112,9 +112,9 @@ ga) összehangolja a szabálysértési hatóságok tevékenységét,
 
 gb) ellátja a hatáskörbe utalt szabálysértési méltányossági ügyeket,
 
-h)[^130] működteti a Duna Palota Kulturális Nonprofit Kft.-t,
+h)[^130] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
 
-i) működteti az Országos Bűnmegelőzési Bizottságot.
+i)[^131]
 
 [^116]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^117]: A 40. § (1) bekezdés c) pontja a 293/2010. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
@@ -131,3 +131,4 @@ i) működteti az Országos Bűnmegelőzési Bizottságot.
 [^128]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^129]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^130]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^131]: A 40. § (6) bekezdés i) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (4) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
