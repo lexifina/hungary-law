@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-145-20-
 | --- | --- | --- |
 | 2009-10-01 | 1999-145-20-22.10 | 145/1999. (X. 1.) Korm. rendelet |
 | 2011-01-01 | 1999-145-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2011-07-06 | 1999-145-20-22.12 | 94/2011. (VI. 28.) Korm. rendelet |
