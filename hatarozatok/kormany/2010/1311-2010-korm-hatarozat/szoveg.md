@@ -10,7 +10,7 @@
 
 6. Hatályát veszti a 2010. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1221/2009. (XII. 28.) Korm. határozat.
 
-Melléklet az 1311/2010. (XII. 27.) Korm. határozathoz
+Melléklet az 1311/2010. (XII. 27.) Korm. határozathoz[^2]
 
 A 2011. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -80,7 +80,7 @@ A 2011. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 31. | B237/11 | Affiliáció érdekében végrehajtott felkészítési rendezvények 2011 | MH ÖHP | Olaszország, Magyarország (Várpalota, Debrecen, Táborfalva, Újdörögd, Győr, Budapest) | I–IV. n. é. | 200 |
 
-| 32. | B239/11 | NCSA 3 NSB (DCM) 2011 híradó gyakorlat | MH ÖHP | Lengyelország | I–II. n. é. | 20 |
+| 32. | B239/11 | NCSA 3 NSB DCM-E 2011 híradó és informatikai gyakorlat | MH ÖHP | NATO- és EU- tagállamok | I–IV. n. é. | 50 |
 
 | 33. | C131/11 | NOBLE/BOLD ASPECT 2011 légierő gyakorlat | MH ÖHP | NATO európai tagállam | I–IV. n. é. | 50 |
 
@@ -222,6 +222,8 @@ A 2011. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 48. | Z256/11 | OSZTRÁK–MAGYAR instruktori felkészítések 2011 | ZMNE | Ausztria | I–IV. n. é. | 20 |
 
+| 49. | C254/11 | magyar–svéd közös repülő kiképzés 2011 | MH ÖHP | Magyar- ország | III–IV. n. é. | 150 |
+
 3. A magyar fegyveres erők részvétele nélkül tervezett, külföldi fegyveres erők
 
 esetleges átvonulásával járó NATO-gyakorlatok és kiképzések
@@ -269,3 +271,5 @@ esetleges átvonulásával járó NATO-gyakorlatok és kiképzések
 | 8. | EUSEC DR CONGO misszió keretében történő áthaladások | 2011. I–IV. n. é. | egyidejűleg legfeljebb 100 fő |
 
 | 9. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2011. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
+
+[^2]: A melléklet az 1229/2011. (VII. 5.) Korm. határozat 1–2. pontja szerint módosított szöveg.
