@@ -2,6 +2,6 @@
 
 ## 10. Módosuló jogszabályok
 
-17. §[^1]
+17. §[^8]
 
-[^1]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

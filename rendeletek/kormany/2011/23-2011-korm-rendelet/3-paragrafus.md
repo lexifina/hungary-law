@@ -12,7 +12,7 @@ a) a higiénés és egészségvédelmi, az ivóvíz minőségi, a települési s
 
 b) a meglévő építmény tekintetében az általános érvényű kötelező építésügyi előírásoknak, a helyi építési szabályzatnak és a szabályozási terveknek való megfelelés kérdésében az általános építésügyi hatóság, a sajátos építményfajta szerinti építésügyi hatóság vagy a műemlékeket engedélyező építésügyi hatóság, kivéve, ha ugyanerre a rendeltetésre vonatkozóan az engedély iránti kérelem benyújtását megelőző hat hónapon belül használatbavételi vagy fennmaradási engedélyt adott ki,
 
-c) a környezetvédelemmel, a hulladékkezeléssel, valamint a zaj- és rezgésvédelemmel összefüggő szakkérdésekben első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség,
+c)[^4]
 
 d) a jogszabályban előírt tűzvédelmi követelmények érvényesítésével kapcsolatos szakkérdésben a tűzvédelmi hatóság,
 
@@ -21,3 +21,5 @@ e) a tevékenység közbiztonságra gyakorolt hatásával, a személy- és vagyo
 (5) Amennyiben az engedély és a működési engedély iránti kérelmet a kérelmező egyszerre nyújtja be, a szakhatóságok az ellenőrzést mind az engedély, mind a működési engedély feltételei vonatkozásában egyszerre folytatják le.
 
 (6) A bejelentésköteles kereskedelmi tevékenység bejelentésével egyidejűleg benyújtott engedély iránti kérelem esetében a hatósági ellenőrzéseket mind az engedély, mind a bejelentett kereskedelmi tevékenység feltételei vonatkozásában egyszerre, az engedély kiadását megelőzően kell lefolytatni. A bejelentést követő harminc napon belül nincs szükség újabb hatósági ellenőrzések lefolytatására.
+
+[^4]: A 3. § (4) bekezdés c) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.

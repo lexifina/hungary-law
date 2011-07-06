@@ -2,7 +2,7 @@
 
 a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározott tömegtartózkodásra szolgáló építményben, építményen, tömegtartózkodásra szolgáló helyiséget tartalmazó építményben, építményen, vagy tömegtartózkodásra szolgáló helyiségben (a továbbiakban együtt: építmény) tartanak;
 
-b) az a) pontban foglaltak kivételével a szabadban tartanak és a résztvevők létszáma az 1000 főt meghaladja (a továbbiakban: szabadtéri rendezvény).
+b)[^1] az a) pontban foglaltak kivételével a szabadban tartanak és a rendezvény időtartama alatt várhatóan lesz olyan időpont, amelyen a résztvevők létszáma az 1000 főt meghaladja (a továbbiakban: szabadtéri rendezvény).
 
 (2) A rendeletet nem kell alkalmazni
 
@@ -15,3 +15,5 @@ c) a törvényesen elismert egyházak és vallásfelekezetek által szervezett v
 d) a családi eseményekkel kapcsolatos rendezvényekre és
 
 e) a közoktatási intézményekben az intézmény által szervezett rendezvényekre.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 94/2011. (VI. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
