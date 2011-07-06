@@ -20,9 +20,9 @@ ha) a helyiségben, az önálló rendeltetési egységben, az építményben, a 
 
 hb) a tűzvédelmi helyzetre kiható és a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolását megváltoztató tevékenységet nem engedélyeztették a tűzvédelmi hatósággal, szakhatósággal vagy az engedélyezettől kedvezőtlenül eltérnek,
 
-i)[^3] a létesítmény, az építmény, a helyiség vagy a szabadtér területén tűzvédelmi használati szabályok betartását ellenőrzi,
+i)[^3] a létesítmény, az építmény, a helyiség vagy a szabadtér területén tűzvédelmi használati szabályok betartását ellenőrzi.
 
-j)[^4] az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 20. § (1) bekezdés a)–g) pontjában meghatározott szabálysértés esetében eljáró hatóság.
+j)[^4]
 
 (2) A Kormány az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF) jelöli ki első fokú tűzvédelmi hatóságként a következő ügycsoportokban:
 
@@ -51,4 +51,4 @@ b) a polgári repülőterek beépített tűzjelző, tűzoltó berendezések lét
 [^1]: Az 1. § (1) bekezdés g) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdés h) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
 [^3]: Az 1. § (1) bekezdés i) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
-[^4]: Az 1. § (1) bekezdés j) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés j) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be, a 94/2011. (VI. 28.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, ez utóbbi módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
