@@ -20,46 +20,40 @@
 
 A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, illetőleg egyéb állami szervek:
 
-– Önkormányzati és Területfejlesztési Minisztérium;
+a) Belügyminisztérium;
 
-– Egészségügyi Minisztérium;
+b) Honvédelmi Minisztérium;
 
-– Szociális és Munkaügyi Minisztérium;
+c) Közigazgatási és Igazságügyi Minisztérium;
 
-– Földművelésügyi és Vidékfejlesztési Minisztérium;
+d) Külügyminisztérium;
 
-– Gazdasági és Közlekedési Minisztérium;
+e) Nemzeti Erőforrás Minisztérium;
 
-– Honvédelmi Minisztérium;
+f) Nemzeti Fejlesztési Minisztérium
 
-– Igazságügyi és Rendészeti Minisztérium;
+g) Nemzetgazdasági Minisztérium;
 
-– Külügyminisztérium;
+h) Vidékfejlesztési Minisztérium;
 
-– Oktatási és Kulturális Minisztérium;
+i) Büntetés-végrehajtás Országos Parancsnoksága;
 
-– Pénzügyminisztérium;
+j) Egészségügyi Engedélyezési és Közigazgatási Hivatal;
 
-– Büntetés-végrehajtás Országos Parancsnoksága;
+k) Magyar Kereskedelmi és Engedélyezési Hivatal;
 
-– Egészségügyi, Szociális és Családügyi Minisztérium Engedélyezési és Közigazgatási Hivatala;
+l) Központi Statisztikai Hivatal;
 
-– Gazdasági és Közlekedési Minisztérium Engedélyezési és Közoktatási Hivatala;
+m) Nemzeti Bűnmegelőzési Tanács;
 
-– Központi Statisztikai Hivatal;
+n) Országos Egészségbiztosítási Pénztár;
 
-– Országos Bűnmegelőzési Bizottság;
+o) Országos Mentőszolgálat Főigazgatósága;
 
-– Országos Bűnmegelőzési Központ;
+p) Országos Tisztifőorvosi Hivatal;
 
-– Országos Egészségbiztosítási Pénztár;
+q) Országos Rendőr-főkapitányság;
 
-– Országos Mentőszolgálat Főigazgatósága;
+r) Nemzeti Adó- és Vámhivatal Központi Hivatala.
 
-– Országos Tisztifőorvosi Hivatal;
-
-– Országos-Rendőr-főkapitányság;
-
-– Vám- és Pénzügyőrség Országos Parancsnoksága.
-
-[^7]: A 2. számú melléklet a 12/2005. (I. 26.) Korm. rendelet 6. § (3) bekezdés a) pontjának ac) alpontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 51. pontja és 3. § 19. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 176. pontja és 7. §-ának 14. pontja szerint módosított szöveg.
+[^7]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
