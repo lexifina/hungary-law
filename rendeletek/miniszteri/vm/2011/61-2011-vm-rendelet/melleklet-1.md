@@ -1,4 +1,4 @@
-## 3. § Hatályát veszti a Földművelésügyi és Vidékfejlesztési Minisztériumban, valamint a földművelésügyi és vidékfejlesztési miniszter irányítása, illetve felügyelete alá tartozó szerveknél a fontos és bizalmas munkakörökről és a nemzetbiztonsági ellenőrzés szintjének megállapításáról szóló 172/2008. (XII. 31.) FVM rendelet és a környezetvédelmi és vízügyi miniszter irányítása, illetve felügyelete alá tartozó szervek fontos és bizalmas munkaköreinek megállapításáról és a nemzetbiztonsági ellenőrzés szintjéről szóló 5/2007. (II. 23.) KvVM rendelet.
+## 3. §[^2]
 
 1. melléklet a 61/2011. (VI. 30.) VM rendelethez
 
@@ -57,3 +57,5 @@ A Vidékfejlesztési Minisztérium, valamint a vidékfejlesztési miniszter irá
 | Az I-III. pont alá tartozó szerveknél meghatározott további fontos és bizalmas munkakörök és nemzetbiztonsági ellenőrzésük szintje |
 
 | 22. | azok az 1–21. pontban fel nem sorolt további olyan munkakört betöltő személyek, akiknek a munkaköri leírásukban szereplő feladataik ellátásához a minősített adat védelméről szóló 2009. évi CLV. törvényben meghatározott „Bizalmas” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk, az adat minősítési szintjétől függően. | A, B, C |
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
