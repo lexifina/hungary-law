@@ -4,4 +4,6 @@ A Kormány az Alkotmány 40/C. § (1) bekezdésében meghatározott engedélyez�
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az Európai Uniónak a szomáliai biztonsági erők kiképzésére irányuló missziójához („EUTM Somalia”) történő magyar katonai hozzájárulásról szóló 1100/2010. (IV. 28.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
