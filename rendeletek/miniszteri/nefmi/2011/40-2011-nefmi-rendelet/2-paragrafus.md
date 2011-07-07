@@ -1,3 +1,0 @@
-## 1. § Az állami sportcélú támogatások felhasználásáról és elosztásáról szóló 4/2011. (II. 28.) NEFMI rendelet (a továbbiakban: R.) 2. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) „Az olimpiai mozgalommal összefüggő, valamint egyéb, a sport stratégiai fejlesztését szolgáló feladatok támogatására” és a „Sport társadalmi, civil és non-profit szervezetek” jogcím-csoport „Felkészítést végző sportszakemberek támogatása” jogcímhez tartozó előirányzatból nyújtott támogatások tekintetében – figyelemmel a 35. §-ban foglaltakra – a támogatások felhasználásáról való döntésre jogosult személy a Magyar Olimpiai Bizottság elnöke (a továbbiakban: MOB elnöke).”
