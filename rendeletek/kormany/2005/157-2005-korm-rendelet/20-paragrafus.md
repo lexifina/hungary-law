@@ -1,1 +1,3 @@
-20. § Azok a távhőszolgáltatók, amelyeknél az általános közüzemi szerződés alapján ellátott díjfizetők száma 1000 vagy annál több, a rendelet hatálybalépésétől számított 120 napon belül elektronikus információs rendszert (a továbbiakban: honlapot) kötelesek létrehozni, illetve működtetni. Az egy adott évre vonatkozó információkat a távhőszolgáltató legalább az adott évet követő második év végéig köteles honlapján hozzáférhető módon megőrizni. A távhőszolgáltató ügyfélszolgálatán hozzáférhetővé kell tenni az általa működtetett honlapon található információkat.
+20. §[^33]
+
+[^33]: A Vhr. 20. §-át a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.

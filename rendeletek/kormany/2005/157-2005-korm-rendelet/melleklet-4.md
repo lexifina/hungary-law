@@ -2,7 +2,7 @@
 
 ## Általános rendelkezések
 
-## 1. A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait, valamint a fűtéshez és a használati melegvíz készítéshez felhasznált hőmennyiség külön történő meghatározásának módját és feltételeit.
+## 1.[^42] A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait.
 
 ## 2.1. E szabályzat alkalmazásában:
 
@@ -34,9 +34,7 @@
 
 ## 2.1.4.2. épületrészenkénti mérés szerinti távhőszolgáltatás esetén a felhasználói vezeték-hálózaton elhelyezett hiteles hőmennyiségmérő felhasználó felőli oldala;
 
-## 2.1.5. használati melegvíz: távhővel felmelegített közműves ivóvíz;
-
-## 2.1.6. költségmegosztó: az elszámolási hőmennyiségmérő által mért hőmennyiségnek a díjfizetők közötti megosztására, a Tszt. 43. § (4) bekezdésében foglalt esetben a felhasználók közötti megosztására szolgáló mérőműszer vagy eszköz;
+## 2.1.5–2.1.6.[^43]
 
 ## 2.1.7. fűtési időszak: az év szeptember 15. napja és a következő év május 15. napja közötti időszak;
 
@@ -224,47 +222,19 @@
 
 ## 18.6. A 18.1–18.3. és 18.5. pontokban foglalt kötelezettség akkor terheli a távhőszolgáltatót, ha a felhasználó tulajdonában lévő felhasználói berendezés ezt lehetővé teszi, vagy a felhasználó a tulajdonában lévő felhasználói berendezés szükséges műszaki átalakítását biztosítja.
 
-## 18.7.[^26] A távhőszolgáltató köteles világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
+## 18.7.[^44] A távhőszolgáltató köteles világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
 
 ## 18.7.1. a távhő tényleges, aktuális értékesítési árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
 
 ## 18.7.2. a fogyasztó aktuális energiafogyasztásának és az előző év ugyanezen időszakában mért fogyasztásának az összehasonlítását.
 
-## 18.8.[^27] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
+## 18.8.[^45] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
 
 ## 19.1. Hőközponti mérés esetén a távhőszolgáltató a szolgáltatás díját a közüzemi szerződés rendelkezéseinek megfelelően a felhasználó vagy a díjfizetők részére számlázza.
 
-## 19.2. Abban az esetben, ha a felhasználó épületrészenkénti díjszétosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által megadott és meghatározott díjszétosztási arányoknak megfelelően végrehajtani. A díjszétosztási arányok megállapítása céljára a 19.4. pontban foglaltak szerint fűtési és költségmegosztó melegvíz mennyiségmérők is alkalmazhatók.
+## 19.2.[^46] Abban az esetben, ha a felhasználó épületrészenkénti díjmegosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által az e rendelet 17/A–17/H. §-a alapján meghatározott, és a távhőszolgáltató részére megadott díjmegosztási arányoknak megfelelően végrehajtani.
 
-## 19.3. Ha az épületben felhasznált fűtési hőmennyiség és díjának épületrészenkénti, illetőleg lakásonkénti megosztása fűtési költségmegosztók alapján történik, a különböző fekvésű és elhelyezkedésű épületrészek hőveszteség-különbségeiből adódó többletköltség mérséklése érdekében a felhasználó döntése alapján korrekciós tényezőt lehet alkalmazni. A felhasználó, illetőleg a tulajdonosok közössége dönthet úgy is, hogy az épületben elfogyasztott fűtési hőmennyiség és díjának egy meghatározott része légtérfogat arányosan, a fennmaradó része a költségmegosztók kiértékelése alapján kerüljön az épületrészek (lakások) között megosztásra.
-
-## 19.4. A fűtésre és a használati melegvíz készítéséhez felhasznált hőmennyiség és annak díja épületrészenkénti (lakásonkénti) megosztása céljára szolgáló költségmegosztók alkalmazásának együttes, a felhasználó által biztosított feltételei a következők:
-
-## 19.4.1. fűtési költségmegosztó ott alkalmazható, ahol
-
-## 19.4.1.1. költségmegosztásban résztvevő épületrészekben a fűtőtestek hőleadása szabályozható,
-
-## 19.4.1.2. egy épületen belül azonos gyártmányú, azonos típusú, egységes értékelési rendszerű fűtési költségmegosztót szereltek fel,
-
-## 19.4.1.3. a költségmegosztók felszerelése a műszaki előírásoknak megfelelően történt,
-
-## 19.4.1.4. a költségmegosztókat a felszerelést követően illetéktelen beavatkozás, leszerelés megakadályozása céljából zárjeggyel (plombával) látták el,
-
-## 19.4.1.5. a költségmegosztók leolvasása, továbbá működőképességének és a zárjegy sértetlenségének ellenőrzése meghatározott rendszerességgel, de legalább évente egy alkalommal megtörténik;
-
-## 19.4.2. költségmegosztó melegvíz mennyiségmérő ott alkalmazható, ahol
-
-## 19.4.2.1. költségmegosztóként használt melegvíz-mennyiségmérőket a költségmegosztásban résztvevő épületrészek melegvíz kifolyó-csapjait megelőző vezetékszakaszába beszerelték,
-
-## 19.4.2.2. a költségmegosztók beszerelése a műszaki előírásoknak megfelelően történt,
-
-## 19.4.2.3. a költségmegosztókat azonosító számmal és a felszerelését követően illetéktelen beavatkozás, leszerelés megakadályozása céljából zárjeggyel (plombával) láttak el,
-
-## 19.4.2.4. a költségmegosztók leolvasása, továbbá működőképességének és a zárjegy sértetlenségének ellenőrzése meghatározott rendszerességgel, de legalább évente egy alkalommal megtörténik.
-
-## 19.5. A költségmegosztók fenntartása, adatainak leolvasása és azok alapján a díjszétosztási arányok meghatározása a felhasználó feladata.
-
-## 19.6. A felhasználó képviselője a költségmegosztók adatainak kiértékeléséről és annak eredményéről – az eredmény-számítást is tartalmazó – kimutatást köteles a díjfizető részére átadni. Az adatok leolvasását és a díjszétosztási arányok megállapítását a távhőszolgáltató – erre vonatkozó megállapodás esetén – külön díjazás ellenében átvállalhatja.
+## 19.3–19.6.[^47]
 
 ## 20.1. Épületrészenkénti mérés esetén a távhőszolgáltató az épületrész távhőellátásának díját az egyes felhasználóknak, valamint a díjfizetőknek számlázza.
 
@@ -310,7 +280,7 @@
 
 ## 26.3.7. jelen rendelet 4. mellékletében meghatározott információkat, (az egyes táblázatokat a 4. mellékletben meghatározott módon).
 
-## 26.3.8.[^28] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
+## 26.3.8.[^48] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
 
 ## 26.4. A felhasználók, illetve díjfizetők részére kiállított számlán fel kell tüntetni a távhőszolgáltató honlapjának elérhetőségi adatait, továbbá annak a hőközpontnak a honlapon szereplő azonosító adatait, melynél lehetőség van a felhasználó által igényelt távhő teljesítmény befolyásolására.
 
@@ -324,229 +294,13 @@
 
 4. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-Gazdálkodásra vonatkozó gazdasági és műszaki információk[^29]
-
-I. táblázat
-
-Az előző két üzleti évben távhőszolgáltatással kapcsolatban elért, az eredmény-kimutatásban szereplő árbevételre és egyéb bevételekre vonatkozó információk (a felhasználóhoz legközelebb eső felhasználási mérő alapján):
-
-| Sor- szám | Megnevezés | Mértékegy- ség | ... év | ... év |
-
-| 1. | A fűtési időszak átlaghőmérséklete | °C |  |  |
-
-| 2. | Lakossági felhasználók számára értékesített fűtési célú hő | GJ |  |  |
-
-| 3. | Lakossági felhasználók számára értékesített használati melegvíz felmelegítésére felhasznált hő | GJ |  |  |
-
-| 5. | Egyéb felhasználók számára értékesített hő | GJ |  |  |
-
-| 6. | Értékesített villamos energia mennyisége | MWh |  |  |
-
-| 7. | Lakossági felhasználók legalacsonyabb éves fűtési hőfogyasztással rendelkező tizedének átlagos éves fajlagos fogyasztása | MJ/légm3 |  |  |
-
-| 8. | Lakossági felhasználók legmagasabb éves fűtési hőfogyasztással rendelkező tizedének átlagos éves fajlagos fogyasztása | MJ/légm3 |  |  |
-
-| 9. | Lakossági felhasználók számára kiszámlázott fűtési célú hő értékesítéséből származó fűtési alapdíj | ezer Ft |  |  |
-
-| 10. | Lakossági felhasználók számára kiszámlázott használati melegvíz alapdíj | ezer Ft |  |  |
-
-| 11. | Lakossági felhasználóktól származó, fűtési célra értékesített hő mennyiségétől függő árbevétel | ezer Ft |  |  |
-
-| 12. | Lakossági felhasználóktól, használati melegvíz értékesítésből származó, az értékesített hő mennyiségétől függő árbevétel, víz és csatornadíj nélkül | ezer Ft |  |  |
-
-| 13. | Egyéb felhasználóktól, hő értékesítésből származó, az értékesített hő mennyiségétől független árbevétel | ezer Ft |  |  |
-
-| 14. | Egyéb felhasználóktól, hő értékesítésből származó, az értékesített hő mennyiségétől függő árbevétel | ezer Ft |  |  |
-
-| 15. | Villamosenergia-értékesítésből származó árbevétel | ezer Ft |  |  |
-
-| 16. | A távhőszolgáltató nevén nyilvántartott, vízmérőn mért víz- és csatornadíjból származó árbevétel | ezer Ft |  |  |
-
-| 17. | Központi költségvetésből származó állami támogatások | ezer Ft |  |  |
-
-| 18. | Helyi önkormányzattól kapott támogatások | ezer Ft |  |  |
-
-| 19. | Egyéb támogatások | ezer Ft |  |  |
-
-| 20. | Egyéb árbevétel és egyéb bevétel | ezer Ft |  |  |
-
-| 21. | Árbevétel és egyéb bevétel összesen | ezer Ft |  |  |
-
-____________
-
-1 Megjegyzés: az I–XI. jelű táblázatok honlapon történő közzététele kötelező, a VII–XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőségét.
-
-II. táblázat
-
-Az előző két üzleti évben biztosított távhőszolgáltatás költségeire vonatkozó információk:
-
-| Sorszám |  | Mértékegység | ... év | ... év |
-
-| 1. | Felhasznált energia mennyisége összesen: | GJ |  |  |
-
-| 1.1. | Saját tulajdonú berendezésekkel kapcsoltan termelt hő | GJ |  |  |
-
-| 1.2. | Saját kazánokból származó hő | GJ |  |  |
-
-| 1.3. | Egyéb forrásból származó saját termelésű hő (pl. geotermikus alapú) | GJ |  |  |
-
-| 1.4. | Távhőszolgáltató által előállított hő mennyisége összesen | GJ |  |  |
-
-| 1.5. | Távhőszolgáltató által vásárolt hő mennyisége összesen | GJ |  |  |
-
-| 1.6. | Távhőszolgáltató által hőtermelésre felhasznált összes energiahordozó mennyisége | GJ |  |  |
-
-| 1.6.1. | Felhasznált földgáz mennyisége | GJ |  |  |
-
-| 1.6.2. | Felhasznált szénhidrogén mennyisége | GJ |  |  |
-
-| 1.6.3. | Felhasznált megújuló energiaforrások mennyisége | GJ |  |  |
-
-| 1.6.4. | Felhasznált egyéb energia mennyisége | GJ |  |  |
-
-| 2. | Saját termelésű hő előállításának hőtermelésre eső költsége összesen: | ezer Ft |  |  |
-
-| 2.1. | Felhasznált gáz teljesítmény díja | ezer Ft |  |  |
-
-| 2.2. | Felhasznált gáz gázdíja | ezer Ft |  |  |
-
-| 2.3. | Nem földgáztüzelés esetén a felhasznált energiahordozó összes költsége | ezer Ft |  |  |
-
-| 2.4. | Saját termelésű hő előállításának egyéb elszámolt költsége | ezer Ft |  |  |
-
-| 2.5. | Saját termelésű hő előállításának költsége összesen | ezer Ft |  |  |
-
-| 3. | Vásárolt hő költsége összesen: | ezer Ft |  |  |
-
-| 3.1. | Vásárolt hő teljesítménydíja | ezer Ft |  |  |
-
-| 3.2. | Vásárolt hő energiadíja | ezer Ft |  |  |
-
-| 4. | Hálózat üzemeltetés energia költsége összesen: | ezer Ft |  |  |
-
-| 4.1. | Hálózat üzemeltetéshez felhasznált villamos energia költsége | ezer Ft |  |  |
-
-| 5. | A távhőszolgáltatás energián kívüli költségei összesen: | ezer Ft |  |  |
-
-| 5.1. | Értékcsökkenés | ezer Ft |  |  |
-
-| 5.2. | Bérek és járulékai | ezer Ft |  |  |
-
-| 5.3. | Távhőszolgáltatást terhelő nem felosztott költségek | ezer Ft |  |  |
-
-| 5.4. | Távhőszolgáltatást terhelő pénzügyi költségek | ezer Ft |  |  |
-
-| 5.5. | Egyéb költségek | ezer Ft |  |  |
-
-III. táblázat
-
-Az előző két üzleti évi teljesítmény gazdálkodásra vonatkozó információk:
-
-|  | Mértékegység | ... év | ... év |
-
-| Lekötött földgáz teljesítmény | mn3/h |  |  |
-
-| Az adott évben maximálisan igénybe vett földgáz teljesítmény | mn3/h |  |  |
-
-| Maximális távhőteljesítmény igény | MW |  |  |
-
-IV. táblázat
-
-Önkormányzati tulajdonban levő távhőszolgáltatók esetén az előző két üzleti évben támogatott jogi személyek neve és a támogatás összege:
-
-| Szervezet neve | Mértékegység | ... év | ... év |
-
-|  | ezer Ft |  |  |
-
-|  | ezer Ft |  |  |
-
-|  | ezer Ft |  |  |
-
-V. táblázat
-
-Az előző két üzleti évben aktivált, a szolgáltató tulajdonában lévő beruházásokra vonatkozó információk:
-
-|  | Mértékegység | ... év | ... év |
-
-| Távhőtermelő létesítmények beruházásainak aktivált értéke | ezer Ft |  |  |
-
-| Felhasználói hőközpontok beruházásainak aktivált értéke | ezer Ft |  |  |
-
-| Szolgáltatói hőközpontok beruházásainak aktivált értéke | ezer Ft |  |  |
-
-| Termelői hőközpont beruházások aktivált értéke | ezer Ft |  |  |
-
-| Aktivált beruházások keretében beszerzett hőközpontok száma | db |  |  |
-
-| Távvezeték beruházások aktivált értéke | ezer Ft |  |  |
-
-| Egyéb beruházások aktivált értéke | ezer Ft |  |  |
-
-| Beruházások aktivált értéke összesen | ezer Ft |  |  |
-
-VI. táblázat
-
-Az előző üzleti év végére vonatkozó információk:
-
-|  | Mértékegység | .... év |
-
-| A távhőszolgáltatási tevékenységhez kapcsolódó foglalkoztatott létszám | fő |  |
-
-| Az általános közüzemi szerződés keretében ellátott lakossági díjfizetők száma | db |  |
-
-| Ebből a költségosztás alapján elszámoló lakossági díjfizetők száma | db |  |
-
-| Az ellátott nem lakossági felhasználók száma | db |  |
-
-| Az üzemeltetett távhővezetékek hossza | km |  |
-
-| Felhasználói hőközponttal nem rendelkező épületek száma | db |  |
-
-| Felhasználói hőközponttal nem rendelkező épületekben levő lakossági díjfizetők száma | db |  |
-
-VII. táblázat
-
-Távhőszolgáltató érdekeltségei más társaságokban:
-
-| Cégnév | Fő tevékenység | Tulajdoni arány | Előző évi árbevétel |
-
-VIII. táblázat
-
-Az előző év végén hőközpontokban lekötött teljesítmény és költsége:
-
-|  | Elszámolási mérés helyét jelentő hőközpontok azonosító jele | Hőközponti mérés alapján elszámolt díjfizetők száma (db) | Egycsöves átfolyós fűtési rendszerű díjfizetők száma (db) | Lekötött teljesítmény (MW) | Fűtött légtérfogat (m3) | Éves alapdíj (ezer Ft) |
-
-| Összesen | – |  |  |  |  |  |
-
-IX. táblázat
-
-Az előző év végén az elszámolási mérések helyét jelentő hőközpontokban lekötött teljesítmény és költsége:
-
-|  | Hőközpont egyéni azonosító jele | Hőközponti mérés alapján elszámolt díjfizetők száma | Egycsöves átfolyós fűtési rendszerű díjfizetők száma | Lekötött teljesítmény (MW)* | Fűtött légtérfogat (m3)* | Éves alapdíj (ezer Ft) |
-
-| Összesen | – |  |  |  |  |  |
-
-* Erre vonatkozó szerződés esetén.
-
-X. táblázat
-
-Az előző évben az elszámolási mérések helyét jelentő hőközpontokban elszámolt fogyasztás:
-
-|  | Hőközpont egyéni azonosító jele | Teljes elszámolt hő felhasználás (GJ) | Elszámolt fűtési célú hő felhasználás (GJ) | Fűtéshez felhasznált 1 légköbméter átlagos hőmennyiség (MJ/légköbmé- ter/év) | Fűtési költségosztó (vagy mérő) alapján elszámolt díjfizetők száma (db) | Melegvíz költségosztó (vagy mérő) alapján elszámolt díjfizetők száma (db) |
-
-| Összesen | – |  |  |  |  |  |
-
-XI. táblázat
-
-Az előző évben az elszámolási mérések helyét jelentő hőközpontokban elszámolt fogyasztás költsége:
-
-|  | Hőközpont egyéni azonosító jele | Fűtési napok száma (db)* | Felhasználó által igényelt épület hőmérséklet | Díjfizetők fogyasztás mértéke alapján fizetett teljes költsége (ezer Ft) | Egy díjfizető átlagos, fogyasztás mértékétől függő költsége (ezer Ft) | Egy díjfizető átlagos állandó költsége (ezer Ft) |
-
-| Összesen | – | – | – |  |  |  |
-
-* Felhasználó igénye szerint, vagy általános szabályok szerint meghatározott külső hőmérséklet alapján végzett fűtési szolgáltatás napjainak száma.
-
-[^26]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^27]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
-[^28]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^29]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
+Gazdálkodásra vonatkozó gazdasági és műszaki információk[^49]
+
+[^42]: A Vhr. 3. számú melléklet 1. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^43]: A Vhr. 3. számú melléklet 2.1.5.–2.1.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^44]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^45]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
+[^46]: A Vhr. 3. számú melléklet 19.2. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^47]: A Vhr. 3. számú melléklet 19.3.–19.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^48]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.

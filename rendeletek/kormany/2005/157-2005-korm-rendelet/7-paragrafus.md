@@ -40,13 +40,14 @@ f) a szükséges környezet- és természetvédelmi előírásokat,
 
 g) a felhasználói korlátozási sorrend készítésére vonatkozó követelményt,
 
-h) az üzletszabályzat jóváhagyására vonatkozó határozatot,
+h)[^11]
 
 i) egyéb – jogszabályban meghatározott – követelményeket.
 
-(4)[^11] Ha a kérelmező a kérelemhez az egy hónapnál nem régebbi cégkivonatát nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet.
+(4)[^12] Ha a kérelmező a kérelemhez az egy hónapnál nem régebbi cégkivonatát nem csatolja, a Hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet.
 
 [^8]: A Vhr. 7. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A Vhr. 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A Vhr. 7. § (3) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A Vhr. 7. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A Vhr. 7. § (3) bekezdés h) pontját a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^12]: A Vhr. 7. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
