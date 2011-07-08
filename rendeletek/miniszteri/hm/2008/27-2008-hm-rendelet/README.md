@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-1
 | --- | --- | --- |
 | 2009-06-07 | 2008-27-20-15.2 | 27/2008. (XII. 31.) HM rendelet |
 | 2010-05-08 | 2008-27-20-15.3 | 7/2010. (IV. 23.) HM rendelet |
+| 2011-07-08 | 2008-27-20-15.4 | 5/2011. (VI. 30.) HM rendelet |

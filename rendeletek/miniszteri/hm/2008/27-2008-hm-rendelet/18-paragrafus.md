@@ -1,3 +1,3 @@
-## 17. § E rendelet hatálybalépésével egyidejűleg a katonák illetményéről és illetményjellegű juttatásairól, valamint a közalkalmazottak jutalmazásáról szóló 3/2002. (I. 25.) HM rendelet 99. §-a a következő (4) bekezdéssel egészül ki:
+## 17. §[^8] E rendeletnek a honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet módosításáról szóló 5/2011. (VI. 30.) HM rendelet által módosított mellékletében meghatározott vezetői pótlékokat 2011. január 1-jétől kezdődően kell alkalmazni.
 
-## „(4) Az (1) bekezdés nem alkalmazható a kinevezett vezető közalkalmazottra.”
+[^8]: A második 17. §-t az 5/2011. (VI. 30.) HM rendelet 2. §-a iktatta be.

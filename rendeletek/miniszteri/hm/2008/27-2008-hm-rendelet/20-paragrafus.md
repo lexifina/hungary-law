@@ -18,67 +18,69 @@
 
 (6) A kegyeleti gondoskodás e rendeletben meghatározott egyéb formái és feladatai az (1) bekezdésben meghatározott minősítés esetén nem alkalmazhatók.”
 
-Melléklet a 27/2008. (XII. 31.) HM rendelethez[^7]
+Melléklet a 27/2008. (XII. 31.) HM rendelethez[^9]
 
-A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
+A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
-| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a8 |
+| Munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék %-a |
 
-| A | B | C | D | E | F | G | H | I | J |
+| A | B | C | D | E | F | G | H | I | J |  |
 
-| 1. Vezetői munkakörök: |
-
-| Pályáztatásra kötelezett: |
-
-| a) Magasabb vezető beosztás: |
-
-| főigazgató |  |  |  |  |  |  |  | * | * | * |  |
-
-| főigazgató-helyettes, vezérigazgató-helyettes |  |  |  |  |  |  | * | * | * | * |  |
-
-| főosztályvezető |  |  |  |  |  | * | * | * | * | * |  |
-
-| igazgató (főig. h.) |  |  |  |  |  |  |  | * | * | * |  |
-
-| intézetvezető |  |  |  |  |  | * | * | * |  |  |  |
-
-| gazdasági igazgató |  |  |  |  |  | * | * | * | * |  |  |
-
-| igazgató (önálló honvédelmi szervezet első számú vezetője) |  |  |  |  |  |  |  | * | * | * |  |
-
-| igazgató-helyettes (önálló honvédelmi szervezet első számú vezetőjének helyettese) |  |  |  |  |  | * | * | * | * |  |  |
-
-| Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
-
-| katolikus tábori püspök |  |  |  |  |  |  |  |  |  |  |  |
-
-| b) Vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Megbízott vezetők |  |  |  |  |  |  |  |  |  |  |  |
 
 | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
-| igazgató |  |  |  |  |  |  |  | * | * | * |  |
+| a) Magasabb vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
 
-| igazgató (szervezeti egység „beosztott” vezetője) |  |  |  |  |  |  |  | * | * | * |  |
+| főigazgató |  |  |  |  |  |  |  | * | * | * | 300 |
 
-| Igazgató-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| főigazgató-helyettes, vezérigazgató-helyettes |  |  |  |  |  |  | * | * | * | * | 250 |
 
-| igazgató-helyettes (szervezeti egység „beosztott” vezetőjének helyettese) |  |  |  |  |  | * | * | * | * | * |  |
+| főosztályvezető |  |  |  |  |  | * | * | * | * | * | 200 |
 
-| gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * |  |  |
+| igazgató (főig. h.) |  |  |  |  |  |  |  | * | * | * | 200 |
 
-| főosztályvezető-helyettes |  |  |  |  |  | * | * | * |  |  |  |
+| intézetvezető |  |  |  |  |  | * | * | * |  |  | 200 |
 
-| osztályvezető |  |  |  |  |  | * | * | * | * |  |  |
+| gazdasági igazgató |  |  |  |  |  | * | * | * | * |  | 200 |
+
+| igazgató (önálló honvédelmi |  |  |  |  |  |  |  | * | * | * | 250 |
+
+| szervezet első számú vezetője) |  |  |  |  |  |  |  |  |  |  |  |
+
+| igazgató-helyettes (önálló honvédelmi szervezet első számú vezetőjének helyettese) |  |  |  |  |  | * | * | * | * |  | 150 |
+
+| Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
+
+| katolikus tábori püspök |  |  |  |  |  | * | * | * | * | * | 300 |
+
+| b) Vezető beosztás: |  |  |  |  |  |  |  |  |  |  |  |
+
+| Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
+
+| igazgató |  |  |  |  |  |  |  | * | * | * | 150 |
+
+| igazgató (szervezeti egység „beosztott” vezetője) |  |  |  |  |  |  |  | * | * | * | 150 |
+
+| igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 100 |
+
+| igazgató-helyettes (szervezeti egység „beosztott” vezetőjének helyettese) |  |  |  |  |  | * | * | * | * | * | 100 |
+
+| gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * |  | 100 |
+
+| főosztályvezető-helyettes |  |  |  |  |  | * | * | * |  |  | 150 |
+
+| osztályvezető |  |  |  |  |  | * | * | * | * |  | 150 |
 
 | számítástechnikai szervizvezető |  |  |  |  | * | * | * | * |  |  | 150 |
 
 | számítástechnikai műszakvezető |  |  |  |  | * | * | * | * |  |  | 150 |
 
-| üzemvezető |  |  |  |  | * | * | * | * |  |  |  |
+| üzemvezető |  |  |  |  | * | * | * | * |  |  | 150 |
 
-| (fő)művezető |  |  |  |  | * | * | * | * | * |  |  |
+| (fő)művezető |  |  |  |  | * | * | * | * | * |  | 150 |
 
-| 2. Csoportvezető: |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Csoportvezetők |  |  |  |  |  |  |  |  |  |  |  |
 
 | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -110,7 +112,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | energetikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 3. Ügyintézők: |  |  |  |  |  |  |  |  |  |  |  |
+| 3. Ügyintézők |  |  |  |  |  |  |  |  |  |  |  |
 
 | Pályáztatásra kötelezett: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -142,7 +144,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | szervező |  |  | * | * | * | * | * | * |  |  |  |
 
-| 4. Ügyviteli: |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Ügyviteli: |  |  |  |  |  |  |  |  |  |  |  |
 
 | Pályáztatás alól mentesített: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -186,7 +188,7 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | tájékoztató |  |  | * | * |  |  |  |  |  |  |  |
 
-| 5. Fizikai |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Fizikai |  |  |  |  |  |  |  |  |  |  |  |
 
 | anyagbeszerző |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -242,6 +244,4 @@ A közalkalmazotti munkakörök megnevezése, fizetési osztályokba sorolása �
 
 | takarító | * |  |  |  |  |  |  |  |  |  |  |
 
-8 Kizárólag a vezetői és a magasabb vezetői megbízások tekintetében kerül feltüntetésre.
-
-[^7]: A Melléklet a 7/2010. (IV. 23.) HM rendelet 5. § és 6. § (3) bekezdése szerint módosított szöveg.
+[^9]: A Melléklet az 5/2011. (VI. 30.) HM rendelet 3. §-ával megállapított szöveg.
