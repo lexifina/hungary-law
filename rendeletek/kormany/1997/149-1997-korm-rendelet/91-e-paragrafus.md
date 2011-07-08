@@ -1,6 +1,6 @@
-## Eredménytelen védelembe vétel[^416]
+## Eredménytelen védelembe vétel[^417]
 
-91/E. §[^417] (1) A védelembe vétel eredménytelensége miatt a gyámhivatal értesítéséről a jegyző
+91/E. §[^418] (1) A védelembe vétel eredménytelensége miatt a gyámhivatal értesítéséről a jegyző
 
 a) ha az intézkedés megtételének szükségessége a védelembe vétel felülvizsgálata során merül fel, a védelembe vétel felülvizsgálatának eredményéről szóló határozatban [90. § (5) bek. f) pont],
 
@@ -8,7 +8,7 @@ b) az a) pont alá nem tartozó esetben külön végzésben
 
 dönt.
 
-(2)[^418] Az (1) bekezdés szerinti döntés jogerőre emelkedésétől számított nyolc napon belül – a védelembe vétel fenntartása mellett – a jegyző döntését közli a gyámhivatallal és egyidejűleg az ügyben keletkezett iratokat átteszi a gyámhivatalhoz.
+(2)[^419] Az (1) bekezdés szerinti döntés jogerőre emelkedésétől számított nyolc napon belül – a védelembe vétel fenntartása mellett – a jegyző döntését közli a gyámhivatallal és egyidejűleg az ügyben keletkezett iratokat átteszi a gyámhivatalhoz.
 
 (3) Az eredménytelen védelembe vételről szóló jegyzői döntés alapján a gyámhivatal a hivatalból indított eljárása során megteszi a hatáskörébe tartozó intézkedéseket, így különösen
 
@@ -20,11 +20,11 @@ c) megvizsgálja a családbafogadás lehetőségét, az átmeneti nevelésbe vé
 
 (4) Ha a gyámhivatal eljárása során azt állapítja meg, hogy a gyermek veszélyeztetettsége nem teszi szükségessé a hatáskörébe tartozó intézkedések megtételét, az előtte való eljárást megszünteti, egyúttal az ügyben keletkezett iratokat átteszi a jegyzőhöz.
 
-(5)[^419] A gyámhivatal az eredménytelen védelembe vételről szóló jegyzői döntés közlésétől számított két hónapon belül hozza meg döntését.
+(5)[^420] A gyámhivatal az eredménytelen védelembe vételről szóló jegyzői döntés közlésétől számított két hónapon belül hozza meg döntését.
 
 (6) A gyámhivatal döntésének jogerőre emelkedéséig a gyermek védelembe vétele fennáll.
 
-[^416]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
-[^417]: A 91/E. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult védelembe vételi eljárásokban és a védelembe vételnek a 2009. szeptember 1. napját követően történő felülvizsgálatakor kell alkalmazni.
-[^418]: A 91/E. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
-[^419]: A 91/E. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 21. pontja szerint módosított szöveg.
+[^417]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^418]: A 91/E. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult védelembe vételi eljárásokban és a védelembe vételnek a 2009. szeptember 1. napját követően történő felülvizsgálatakor kell alkalmazni.
+[^419]: A 91/E. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+[^420]: A 91/E. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 21. pontja szerint módosított szöveg.

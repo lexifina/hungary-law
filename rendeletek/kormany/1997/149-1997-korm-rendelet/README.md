@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2010-09-16 | 1997-149-20-22.27 | 237/2010. (IX. 13.) Korm. rendelet |
 | 2010-09-30 | 1997-149-20-22.28 | 315/2005. (XII. 25.) Korm. rendelet |
 | 2011-01-01 | 1997-149-20-22.29 | 360/2010. (XII. 30.) Korm. rendelet |
+| 2011-07-08 | 1997-149-20-22.30 | 113/2011. (VII. 7.) Korm. rendelet |

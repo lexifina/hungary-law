@@ -6,7 +6,7 @@
 
 ## Intézkedések a hagyatéki eljárás megindítása előtt
 
-156. § (1)[^659] Ha a gyermek, a gondnokság alatt álló – ide nem értve a cselekvőképességet korlátozó gondnokság alá helyezett azon személyt, akinek a bíróság az ingó és ingatlanvagyonnal, valamint az örökösödési ügyekkel kapcsolatos jognyilatkozatot nem korlátozta – az ismeretlen helyen levő, az ügyeinek vitelében akadályozott személy, a méhmagzat ingó vagyonra vonatkozó öröklési érdeke veszélyeztetve van, a gyámhivatal az ingóságot leltároztatja és kezdeményezi a hagyatéki eljárás lefolytatását.
+156. § (1)[^664] Ha a gyermek, a gondnokság alatt álló – ide nem értve a cselekvőképességet korlátozó gondnokság alá helyezett azon személyt, akinek a bíróság az ingó és ingatlanvagyonnal, valamint az örökösödési ügyekkel kapcsolatos jognyilatkozatot nem korlátozta – az ismeretlen helyen levő, az ügyeinek vitelében akadályozott személy, a méhmagzat ingó vagyonra vonatkozó öröklési érdeke veszélyeztetve van, a gyámhivatal az ingóságot leltároztatja és kezdeményezi a hagyatéki eljárás lefolytatását.
 
 (2) A gyámhivatal a hagyatéki leltár alapján
 
@@ -18,4 +18,4 @@ c) elbírálja az örökségnek a törvényes képviselő által bejelentett vis
 
 (3) A gyámhivatal biztosítási intézkedést kezdeményezhet a hagyaték helye szerint illetékes jegyzőnél, a hagyaték, illetve a hagyatékhoz tartozó vagyontárgyak megóvása érdekében.
 
-[^659]: A 156. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^664]: A 156. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 17. §-ával megállapított szöveg.

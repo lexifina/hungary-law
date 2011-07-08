@@ -2,11 +2,11 @@
 
 ## 125. § Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
-a)[^569] az utógondozói ellátást biztosító nevelőszülő, gyermekotthon, utógondozói otthon vagy lakhatást nyújtó külső férőhely megnevezését,
+a)[^574] az utógondozói ellátást biztosító nevelőszülő, gyermekotthon, utógondozói otthon vagy lakhatást nyújtó külső férőhely megnevezését,
 
-b)[^570] az utógondozói ellátás jogcímét és kezdő időpontját,
+b)[^575] az utógondozói ellátás jogcímét és kezdő időpontját,
 
-c)[^571] a fiatal felnőtt számára meghatározott magatartási szabályokat, így különösen:
+c)[^576] a fiatal felnőtt számára meghatározott magatartási szabályokat, így különösen:
 
 ca) a munkaügyi központtal való együttműködést, ha nappali tagozaton tanulmányokat nem folytat és munkaképes,
 
@@ -16,16 +16,16 @@ cc) a gyermekotthon, utógondozói otthon házirendjének betartására való fe
 
 cd) a lakhatást nyújtó külső férőhelyen a férőhely működtetőjével kötött megállapodásban foglaltak betartására való felhívást,
 
-ce)[^572] az utógondozóval való együttműködési kötelezettségre történő felhívást.
+ce)[^577] az utógondozóval való együttműködési kötelezettségre történő felhívást.
 
 d) a fiatal felnőttnek az utógondozói ellátás igénybevétele elmulasztásából származó jogkövetkezményekre való figyelmeztetését,
 
 e) az utógondozói ellátásban részesülő felhívását arra, hogy a jogosultság feltételeinek megváltozását vagy megszűnését a gyámhivatalnak 15 napon belül jelentse be,
 
-f)[^573] az utógondozás elrendelését.
+f)[^578] az utógondozás elrendelését.
 
-[^569]: A 125. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^570]: Az 125. § b) pontja a 224/1998. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^571]: A 125. § c) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^572]: A 125. § c) pontjának ce) alpontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (1) bekezdése iktatta be.
-[^573]: A 125. § f) pontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (2) bekezdése iktatta be.
+[^574]: A 125. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^575]: Az 125. § b) pontja a 224/1998. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^576]: A 125. § c) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^577]: A 125. § c) pontjának ce) alpontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^578]: A 125. § f) pontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^732]
+10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^737]
 
 ## Tartalmi követelmények a helyi önkormányzatok számára, a Gyvt. 96. §-ának (6) bekezdésében előírt átfogó értékelés elkészítéséhez
 
@@ -14,7 +14,7 @@ I. A települési önkormányzat által készítendő átfogó értékelés tart
 
 – gyermekétkeztetés megoldásának módjai, kedvezményben részesülőkre vonatkozó statisztikai adatok.
 
-3.[^733] Az önkormányzat által biztosított személyes gondoskodást nyújtó ellátások bemutatása:
+3.[^738] Az önkormányzat által biztosított személyes gondoskodást nyújtó ellátások bemutatása:
 
 – gyermekjóléti szolgáltatás biztosításának módja, működésének tapasztalata (alapellátásban részesülők száma, gyermekek veszélyeztetettségének okai, válsághelyzetben levő várandós anyák gondozása, családjából kiemelt gyermek szüleinek gondozása, jelzőrendszer tagjaival való együttműködés tapasztalatai),
 
@@ -48,5 +48,5 @@ II. A megyei (fővárosi) önkormányzat által készítendő átfogó értékel
 
 5. Jövőre vonatkozó célok, javaslatok, elképzelések (milyen típusú intézmények kialakítására, átalakítására, fejlesztésére lenne szükség a gyermekek szükségletei alapján, milyen területeken tervezik bevonni a civil szervezeteket a szakellátás feladatainak ellátásába).
 
-[^732]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.
-[^733]: A 10. számú melléklet I/3. pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^737]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.
+[^738]: A 10. számú melléklet I/3. pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.

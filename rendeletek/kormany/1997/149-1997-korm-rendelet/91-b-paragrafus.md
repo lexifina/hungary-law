@@ -34,9 +34,9 @@ lc) a családi pótlék természetbeni formában történő nyújtásának megsz
 
 (3) A családi pótlék természetbeni formában történő nyújtásáról szóló határozat elleni fellebbezést elbíráló határozatban rendelkezni kell a családi pótlék természetbeni formában történő nyújtásának új kezdő és befejező időpontjáról.
 
-(4)[^397] A jegyző a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatóságával, egyidejűleg – ha a települési önkormányzat nem rendelkezik még családtámogatási folyószámlával – megküldi a családi pótlékot folyósító regionális igazgatóság részére a családtámogatási folyószámla megnyitásához szükséges számla törzsadat bejelentő nyomtatványt és a jegyző aláírási címpéldányát.
+(4)[^397] A jegyző a családi pótlék természetbeni formában történő nyújtásáról szóló, jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító területi szervével, egyidejűleg – ha a települési önkormányzat nem rendelkezik még családtámogatási folyószámlával – megküldi a családi pótlékot folyósító területi szerv részére a családtámogatási folyószámla megnyitásához szükséges számla törzsadat bejelentő nyomtatványt és a jegyző aláírási címpéldányát.
 
-(5)[^398] A családi pótlék természetbeni formában történő nyújtása során a jegyző és a Magyar Államkincstárnak a családi pótlékot folyósító regionális igazgatósága között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
+(5)[^398] A családi pótlék természetbeni formában történő nyújtása során a jegyző és a Magyar Államkincstárnak a családi pótlékot folyósító területi szerve között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
 
 (6)[^399] A jegyző az átutalást követően legkésőbb nyolc napon belül gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gondnok felé történő kifizetéséről.
 
@@ -58,7 +58,7 @@ d) a gyermek szabadideje hasznos eltöltésére.
 [^394]: A 91/B. § (1) bekezdés i) pontját a 237/2010. (IX. 13.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
 [^395]: A 91/B. § (1) bekezdés j) pontja a 237/2010. (IX. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^396]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^397]: A 91/B. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § g) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
-[^398]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^397]: A 91/B. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § g) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^398]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^399]: A 91/B. § (6) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
 [^400]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
