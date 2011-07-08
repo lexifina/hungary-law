@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-23-20-2
 | --- | --- | --- |
 | 2009-10-01 | 1991-23-20-22.7 | 23/1991. (II. 9.) Korm. rendelet |
 | 2011-01-01 | 1991-23-20-22.8 | 332/2010. (XII. 27.) Korm. rendelet |
+| 2011-07-08 | 1991-23-20-22.9 | 182/2009. (IX. 10.) Korm. rendelet |
