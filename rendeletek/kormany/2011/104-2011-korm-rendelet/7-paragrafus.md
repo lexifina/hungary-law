@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti a Vhr. 3. melléklet 19.3–19.6., 2.1.5. és 2.1.6. pontja.
+## 1–6. §[^2]
+
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
