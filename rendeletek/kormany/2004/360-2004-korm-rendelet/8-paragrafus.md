@@ -1,6 +1,6 @@
-8. § (1) Az irányító hatóság pénzügyi és számviteli feladatait közreműködő szervezetre ruházhatja át a végső felelősség megtartása mellett.
+8. §[^35] (1) Az irányító hatóság pénzügyi feladatait közreműködő szervezetre ruházhatja át a végső felelősség megtartása mellett.
 
-(2) Az átruházott feladatokat ellátó közreműködő szervezet – az átruházás szabályai szerint – részt vehet az operatív programok, valamint az EQUAL program terhére meghirdetett pályázatok keretében megítélt támogatások pénzügyi lebonyolításában, továbbá e tevékenysége keretében elláthatja az alábbi pénzügyi és számviteli feladatokat:
+(2) Az átruházott feladatokat ellátó közreműködő szervezet – az átruházás szabályai szerint – részt vehet az operatív programok, valamint az EQUAL program terhére meghirdetett pályázatok keretében megítélt támogatások pénzügyi lebonyolításában, továbbá e tevékenysége keretében elláthatja az alábbi pénzügyi feladatokat:
 
 a) a benyújtott elszámolások, számlák vagy egyéb gazdasági eseményt hitelesen dokumentáló bizonylatok vizsgálata annak alátámasztására, hogy azok megfelelnek a szerződéses feltételeknek, a költségek elszámolhatóak, megfelelnek a hazai és közösségi előírásoknak;
 
@@ -12,7 +12,7 @@ d) a támogatás – a kedvezményezettet illető – igazolt összegének átut
 
 e) az irányító hatósággal, illetve az irányító hatóság által kijelölt szervezettel a helyszíni ellenőrzések végzése a projekt pályáztatásának és pénzügyi lebonyolításának megvalósítására vonatkozóan;
 
-f) az irányító hatóság felelősségi körébe tartozó operatív program, valamint EQUAL program számviteli nyilvántartásainak vezetése e rendelet 36–39. §-ai szerint;
+f)[^36]
 
 g) a saját szervezetére vonatkozó, irányító hatóság által jóváhagyott finanszírozási és ellenőrzési szabályzatok elkészítése;
 
@@ -24,6 +24,7 @@ j) rendelkezés arról, hogy a folyamatba épített helyszíni ellenőrzést ell
 
 k) a kedvezményezett által elkövetett szerződésszegésből és visszafizetési kötelezettséggel nyújtott támogatásokból eredő követelések kezelése;
 
-l)[^34] a kifizető hatóság felé küldendő hitelesítési jelentés összeállítása.
+l) a kifizető hatóság felé küldendő hitelesítési jelentés összeállítása.
 
-[^34]: A 8. § (2) bekezdésének l) pontját a 403/2007. (XII. 27.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^35]: A 8. § a 113/2011. (VII. 7.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^36]: A 8. § (2) bekezdés f) pontját a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.

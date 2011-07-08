@@ -8,6 +8,6 @@
 
 (5) A forint lebonyolítási (bank)számlákon év végével csak a kifizetésekre átutalt saját erő maradhat, ezért a (bank)számla fölött rendelkezőknek legkésőbb a december havi utolsó előtti banki munkanapon gondoskodniuk kell a lebonyolítási (bank)számlán rendelkezésre álló támogatásnak a forrásszámlákra történő visszavezetéséről.
 
-(6)[^67] A lebonyolítási (bank)számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
+(6)[^71] A lebonyolítási (bank)számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
 
-[^67]: A 29. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 16. §-a iktatta be.
+[^71]: A 29. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 16. §-a iktatta be.

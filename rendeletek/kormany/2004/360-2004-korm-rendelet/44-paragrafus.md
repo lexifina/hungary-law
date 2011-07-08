@@ -1,6 +1,6 @@
-## 43/D. §[^101] Ha a szabálytalanság megállapításához más hatóság előzetes döntése szükséges, szabálytalansági eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság jogerős határozat nem hozott. A felfüggesztés időtartama az elintézési határidőbe nem számít be. A Nemzeti Fejlesztési Ügynökség a szabálytalansági eljárás felfüggesztésének elrendelésével egyidejűleg dönthet a kifizetések felfüggesztésének elrendeléséről. A kifizetések felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
+## 43/D. §[^96] Ha a szabálytalanság megállapításához más hatóság előzetes döntése szükséges, szabálytalansági eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság jogerős határozat nem hozott. A felfüggesztés időtartama az elintézési határidőbe nem számít be. A Nemzeti Fejlesztési Ügynökség a szabálytalansági eljárás felfüggesztésének elrendelésével egyidejűleg dönthet a kifizetések felfüggesztésének elrendeléséről. A kifizetések felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
 
-44. §[^102] (1) A szabálytalansági vizsgálat eredményéről – szabálytalanság megállapításának hiányában is – a vizsgálat vezetője szabálytalanság-vizsgálati jegyzőkönyvet készít.
+44. §[^97] (1) A szabálytalansági vizsgálat eredményéről – szabálytalanság megállapításának hiányában is – a vizsgálat vezetője szabálytalanság-vizsgálati jegyzőkönyvet készít.
 
 (2) A szabálytalanság-vizsgálati jegyzőkönyvnek tartalmaznia kell:
 
@@ -38,5 +38,5 @@ a) annak megállapításával, hogy nem történt szabálytalanság, és a szab�
 
 b) szabálytalanság megtörténtét megállapító és intézkedést elrendelő döntéssel.
 
-[^101]: A 43/D. §-t a 209/2007. (VIII. 7.) Korm. rendelet 13. §-a iktatta be.
-[^102]: A 44. § a 202/2006. (X. 5.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^96]: A 43/D. §-t a 209/2007. (VIII. 7.) Korm. rendelet 13. §-a iktatta be.
+[^97]: A 44. § a 202/2006. (X. 5.) Korm. rendelet 25. §-ával megállapított szöveg.

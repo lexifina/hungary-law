@@ -18,15 +18,16 @@ f) gondoskodik a Kohéziós Alap közreműködő szervezet felelősségi köréb
 
 g) évente egyszer projektenként összeállítja az irányító hatóság által benyújtott kifizetési ütemezések alapján a tárgyévre és a következő évre vonatkozó kifizetési előrejelzéseket és legkésőbb a tárgyév április 30-ig benyújtja az Európai Bizottság felé;
 
-h)[^35] gondoskodik az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően, valamint a felelősségi körébe tartozó pénzügyi folyamatokkal kapcsolatban az irányító hatóság, illetve a Kohéziós Alap közreműködő szervezet rendszeres tájékoztatásáról;
+h)[^37] gondoskodik az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően, valamint a felelősségi körébe tartozó pénzügyi folyamatokkal kapcsolatban az irányító hatóság, illetve a Kohéziós Alap közreműködő szervezet rendszeres tájékoztatásáról;
 
-i) vezeti a Kohéziós Alap számviteli nyilvántartásait e rendelet 36–39. §-ai szerint, elvégzi a kifizető hatóság és a Kohéziós Alap közreműködő szervezetek közötti számviteli egyeztetéseket;
+i)[^38]
 
 j) elkészíti az évközi és éves adatszolgáltatásokat;
 
 k) a kiadások megfelelő igazolása érdekében a pénzügyi lebonyolítás tekintetében a teljes rendszert ellenőrzi;
 
-l)[^36] együttműködik a forrásgazdával a likviditáskezelési rendszer működtetésében.
+l)[^39] együttműködik a forrásgazdával a likviditáskezelési rendszer működtetésében.
 
-[^35]: A 9. § h) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^36]: A 9. § l) pontját a 202/2006. (X. 5.) Korm. rendelet 6. §-a iktatta be.
+[^37]: A 9. § h) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 9. § i) pontját a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^39]: A 9. § l) pontját a 202/2006. (X. 5.) Korm. rendelet 6. §-a iktatta be.

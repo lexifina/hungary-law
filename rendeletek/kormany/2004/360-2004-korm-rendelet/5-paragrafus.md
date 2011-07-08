@@ -20,16 +20,17 @@ e) gondoskodik az irányító hatóság felelősségi körébe tartozó operatí
 
 f)[^24] gondoskodik az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően;
 
-g) vezeti a kifizető hatóság strukturális alapokra vonatkozó számviteli nyilvántartásait e rendelet 36–39. §-ai szerint;
+g)[^25]
 
-h)[^25]
+h)[^26]
 
 i) a kiadások megfelelő igazolása érdekében a pénzügyi lebonyolítás tekintetében a teljes rendszert ellenőrzi;
 
-j)[^26] együttműködik a forrásgazdával a likviditáskezelési rendszer működtetésében.
+j)[^27] együttműködik a forrásgazdával a likviditáskezelési rendszer működtetésében.
 
 [^22]: Az 5. § b) pontja a 281/2006. (XII. 23.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.
 [^23]: Az 5. § c) pontja a 281/2006. (XII. 23.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.
 [^24]: Az 5. § f) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^25]: Az 5. § h) pontját a 359/2008. (XII. 31.) Korm. rendelet 34. § (8) bekezdése hatályon kívül helyezte.
-[^26]: Az 5. § j) pontját a 202/2006. (X. 5.) Korm. rendelet 4. §-a iktatta be.
+[^25]: Az 5. § g) pontját a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^26]: Az 5. § h) pontját a 359/2008. (XII. 31.) Korm. rendelet 34. § (8) bekezdése hatályon kívül helyezte.
+[^27]: Az 5. § j) pontját a 202/2006. (X. 5.) Korm. rendelet 4. §-a iktatta be.

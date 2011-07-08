@@ -10,11 +10,11 @@ c) a felelősségi körébe tartozó adott operatív programra, valamint az EQUA
 
 d) a felelősségi körébe tartozó, e rendelet 2. § (1) bekezdés 8. pontban meghatározott forráslehívás biztosítása a fejezeti kezelésű előirányzat-felhasználási keretszámláról a vonatkozó intézkedés lebonyolítási (bank)számlájára, a kedvezményezett támogatásra jogosult költségei megtérítése, illetve kifizetés lebonyolítása, illetve előleg biztosítása céljából;
 
-e)[^27] pénzügyi irányítási és ellenőrzési rendszer működtetése, különös tekintettel az elszámolható költségek folyamatos ellenőrzésére, a számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok ellenőrzésére, a teljesítésigazolásra, valamint a kifizetés engedélyezése előtti ellenőrzésekre;
+e)[^28] pénzügyi irányítási és ellenőrzési rendszer működtetése, különös tekintettel az elszámolható költségek folyamatos ellenőrzésére, a számlák vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatok ellenőrzésére, a teljesítésigazolásra, valamint a kifizetés engedélyezése előtti ellenőrzésekre;
 
-f)[^28]
+f)[^29]
 
-g)[^29] a kifizető hatóság által közzétett útmutatóban meghatározott formai és tartalmi követelményeknek megfelelő hitelesítési jelentés kiállítása, valamint benyújtása a kifizető hatóság részére, amennyiben a hitelesítési jelentést a közreműködő szervezet állítja ki, a hitelesítési jelentés ellenjegyzése, valamint benyújtása a kifizető hatóság részére;
+g)[^30] a kifizető hatóság által közzétett útmutatóban meghatározott formai és tartalmi követelményeknek megfelelő hitelesítési jelentés kiállítása, valamint benyújtása a kifizető hatóság részére, amennyiben a hitelesítési jelentést a közreműködő szervezet állítja ki, a hitelesítési jelentés ellenjegyzése, valamint benyújtása a kifizető hatóság részére;
 
 h) a közösségi hozzájárulások jogosulatlan vagy szabálytalan felhasználásból eredő összegének átutalása a kifizető hatóság által meghatározott fizetési határidőre a vonatkozó fejezeti kezelésű előirányzat-felhasználási keretszámláról a kifizető hatóság vonatkozó forint (bank)számlájára, valamint a program irányítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciók végrehajtása;
 
@@ -24,17 +24,17 @@ j) a tárgyévre és a következő évre vonatkozó kifizetési előrejelzések 
 
 k) a tárgyévre és az azt követő évre vonatkozó aktualizált kötelezettségvállalási és kifizetési előrejelzés összeállítása és benyújtása a forrásgazda részére évente egy alkalommal, a költségvetési tervezés ütemezésével összhangban;
 
-l)[^30] gondoskodik az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően;
+l)[^31] gondoskodik az e rendeletben leírt feladatok ellátásához az EMIR napi használatáról a Monitoring rendeletbe foglalt rendelkezéseknek megfelelően;
 
 m) az adatok folyamatos rögzítése és jóváhagyása a mindennapi tevékenység során az EMIR rendszerben operatív program, operatív programon belül finanszírozó alap(ok), intézkedések és projektek (szerződések), illetve az EQUAL program esetében intézkedések és projektek (szerződések) szintjén, valamint ebből a rendszerből nyert jelentések, illetve adatszolgáltatás az irányító hatóság és a kifizető hatóság közötti együttműködési megállapodásban rögzített határidőre történő eljuttatása a kifizető hatóság részére;
 
-n)[^31] együttműködés a forrásgazdával a likviditáskezelési rendszer működtetésében;
+n)[^32] együttműködés a forrásgazdával a likviditáskezelési rendszer működtetésében;
 
-o)[^32] a 2. § (1) bekezdés 22. pont szerinti útmutatóban meghatározott rendben gondoskodás a forráslehívás kapcsolódó dokumentumainak a forrásgazdához történő továbbításáról.
+o)[^33] a 2. § (1) bekezdés 22. pont szerinti útmutatóban meghatározott rendben gondoskodás a forráslehívás kapcsolódó dokumentumainak a forrásgazdához történő továbbításáról.
 
 (2) Az irányító hatóság nem ruházhatja át, ezért saját hatáskörében köteles ellátni az alábbi feladatokat:
 
-a)[^33]
+a)[^34]
 
 b) a felelősségi körébe tartozó e rendelet 2. § (1) bekezdés 8. pontban meghatározott forráslehívás biztosítása, illetve az operatív programra, a KTK technikai segítségnyújtásra és az EQUAL programra vonatkozó központi költségvetési fejezeti kezelésű előirányzat-felhasználási keretszámla feletti rendelkezés;
 
@@ -42,10 +42,10 @@ c) az operatív program, valamint Közösségi Kezdeményezés szintű monitorin
 
 d) a szabálytalansági jelentés kifizető hatóság részére történő megküldése a 48. §-ban foglaltak szerint.
 
-[^27]: A 7. § (1) bekezdésének e) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^28]: A 7. § (1) bekezdésének f) pontját a 281/2006. (XII. 23.) Korm. rendelet 66. § (3) bekezdése hatályon kívül helyezte.
-[^29]: A 7. § (1) bekezdésének g) pontja a 403/2007. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^30]: A 7. § (1) bekezdésének l) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^31]: A 7. § (1) bekezdésének n) pontját a 202/2006. (X. 5.) Korm. rendelet 5. §-a iktatta be.
-[^32]: A 7. § (1) bekezdésének o) pontját a 202/2006. (X. 5.) Korm. rendelet 5. §-a iktatta be.
-[^33]: A 7. § (2) bekezdésének a) pontját a 281/2006. (XII. 23.) Korm. rendelet 66. § (4) bekezdése hatályon kívül helyezte.
+[^28]: A 7. § (1) bekezdésének e) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^29]: A 7. § (1) bekezdésének f) pontját a 281/2006. (XII. 23.) Korm. rendelet 66. § (3) bekezdése hatályon kívül helyezte.
+[^30]: A 7. § (1) bekezdésének g) pontja a 403/2007. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^31]: A 7. § (1) bekezdésének l) pontja a 202/2006. (X. 5.) Korm. rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^32]: A 7. § (1) bekezdésének n) pontját a 202/2006. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+[^33]: A 7. § (1) bekezdésének o) pontját a 202/2006. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+[^34]: A 7. § (2) bekezdésének a) pontját a 281/2006. (XII. 23.) Korm. rendelet 66. § (4) bekezdése hatályon kívül helyezte.
