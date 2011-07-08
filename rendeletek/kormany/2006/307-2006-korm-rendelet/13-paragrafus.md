@@ -26,7 +26,7 @@ b) a szakképzést folytató intézményekben, illetve a felsőoktatási intézm
 
 (6)[^53]
 
-(7) A Hivatal közoktatási értékelési és vizsgaközpontként indokolt esetben kezdeményezi a Magyar Államkincstár Területi Igazgatóságánál a nem helyi önkormányzati intézményfenntartó részére megállapított normatív költségvetési támogatás felülvizsgálatát, folyósításának felfüggesztését, kezdeményezéséről értesítést küld a székhely szerint illetékes jegyző, főjegyző részére.
+(7)[^54] A Hivatal közoktatási értékelési és vizsgaközpontként indokolt esetben kezdeményezi a Magyar Államkincstár területi szervénél a nem helyi önkormányzati intézményfenntartó részére megállapított normatív költségvetési támogatás felülvizsgálatát, folyósításának felfüggesztését, kezdeményezéséről értesítést küld a székhely szerint illetékes jegyző, főjegyző részére.
 
 [^42]: A 13. § (1) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^43]: A 13. § (1) bekezdés a) pontja a 325/2010. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
@@ -40,3 +40,4 @@ b) a szakképzést folytató intézményekben, illetve a felsőoktatási intézm
 [^51]: A 13. § (4) bekezdése a 4/2010. (I. 14.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
 [^52]: A 13. § (5) bekezdését a 325/2010. (XII. 27.) Korm. rendelet 10. § (2) bekezdés h) pontja hatályon kívül helyezte. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^53]: A 13. § (6) bekezdését a 372/2007. (XII. 23.) Korm. rendelet 32. § e) pontja hatályon kívül helyezte.
+[^54]: A 13. § (7) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 37. §-a szerint módosított szöveg.
