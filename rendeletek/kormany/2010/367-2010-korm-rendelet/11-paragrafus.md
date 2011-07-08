@@ -6,15 +6,13 @@
 
 11. § (1) Az Alapból kizárólag a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) szerint támogatás igénybevételére jogosult jogalanyok az ott meghatározott célokra kaphatnak támogatást.
 
-(2) Az Alapból támogatás nyújtható
+(2)[^6] Az Alapból támogatás nyújtható
 
-a) nyílt pályázat,
+a) nyilvános pályázat vagy
 
-b) egységes elvek alapján meghatározott támogatási döntés vagy
+b) egyedi kérelem
 
-c) egyedi kérelem
-
-alapján.
+## alapján.
 
 (3) Az Alap terhére nyújtott támogatás formái:
 
@@ -23,3 +21,5 @@ a) vissza nem térítendő támogatás,
 b) részben vagy egészben visszatérítendő támogatás.
 
 (4) A részben vagy egészben visszatérítendő támogatás visszatérítendő részét az Alap előirányzat-felhasználási keretszámlájára kamatmentesen kell visszafizetni.
+
+[^6]: A 11. § (2) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
