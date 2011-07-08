@@ -4,6 +4,8 @@
 
 (2) A Főigazgatóság irányítását az államháztartásért felelős miniszter (a továbbiakban: miniszter) látja el.
 
-(3) A Főigazgatóság önállóan működő központi közhatalmi költségvetési szerv.
+(3)[^1] A Főigazgatóság önállóan működő központi költségvetési szerv.
 
 (4) A Főigazgatóság székhelye Budapest.
+
+[^1]: Az 1. § (3) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 47. §-ával megállapított szöveg.

@@ -6,6 +6,8 @@
 
 (3) A főigazgatót feladatai ellátásában főigazgató-helyettes segíti, akit a főigazgató nevez ki és ment fel.
 
-(4) A Főigazgatóság alkalmazottai köztisztviselők, felettük a munkáltatói jogokat a főigazgató gyakorolja.
+(4)[^2] A Főigazgatóság alkalmazottai kormánytisztviselők, felettük a munkáltatói jogokat a főigazgató gyakorolja.
 
 (5) A Főigazgatóságon igazgatóságok működnek.
+
+[^2]: A 2. § (4) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 54. §-a szerint módosított szöveg.

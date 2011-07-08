@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-210-20-
 | 2010-07-01 | 2010-210-20-22.1 | 210/2010. (VI. 30.) Korm. rendelet |
 | 2010-07-03 | 2010-210-20-22.2 | 213/2010. (VII. 2.) Korm. rendelet |
 | 2011-01-01 | 2010-210-20-22.3 | 289/2010. (XII. 21.) Korm. rendelet |
+| 2011-07-08 | 2010-210-20-22.4 | 113/2011. (VII. 7.) Korm. rendelet |

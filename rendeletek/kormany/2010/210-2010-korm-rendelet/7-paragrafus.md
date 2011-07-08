@@ -1,14 +1,12 @@
-## 6. § A Főigazgatóság az európai uniós és a nemzetközi támogatásokkal kapcsolatos ellenőrzési tevékenységét a vonatkozó uniós és nemzeti jogszabályok, valamint a nemzetközi ellenőrzési standardok szerint elkészített, a Főigazgatóság főigazgatója által jóváhagyott ellenőrzési kézikönyv szerint végzi.
-
 7. § (1) A Főigazgatóság ellenőrei megbízólevél alapján végzik ellenőrzéseiket.
 
 (2) A Főigazgatóság ellenőrei az alábbiakra jogosultak:
 
 a) az ellenőrzött szervezet helyiségeibe belépni, figyelemmel az ellenőrzött szervezet biztonsági előírásaira, munkarendjére;
 
-b)[^1] az ellenőrzött szervezetnél az ellenőrzés tárgyához kapcsolódó minősített adatot, üzleti vagy egyéb titkot tartalmazó iratokba és más dokumentumokba, az elektronikus adathordozón tárolt adatokba betekinteni a külön jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával, azokról másolatot, kivonatot, illetve tanúsítványt készíttetni;
+b)[^6] az ellenőrzött szervezetnél az ellenőrzés tárgyához kapcsolódó minősített adatot, üzleti vagy egyéb titkot tartalmazó iratokba és más dokumentumokba, az elektronikus adathordozón tárolt adatokba betekinteni a külön jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával, azokról másolatot, kivonatot, illetve tanúsítványt készíttetni;
 
-c)[^2] az ellenőrzött szervezet vezetőjétől és az ellenőrzéssel érintett kérdésben eljáró alkalmazottjától írásban vagy szóban információt kérni;
+c)[^7] az ellenőrzött szervezet vezetőjétől és az ellenőrzéssel érintett kérdésben eljáró alkalmazottjától írásban vagy szóban információt kérni;
 
 d) az ellenőrzött szervezet működésével és gazdálkodásával összefüggő kérdésekben információt kérni más szervektől;
 
@@ -36,5 +34,5 @@ i) a többes nyilatkozat, amely több személynek külön-külön vagy együttes
 
 (4) A másolatot, a kivonatot és a tanúsítványt az ellenőrzött szervezet vezetője vagy az általa megbízott személy hitelesíti. A hitelesítő az okiratban foglaltak valódiságát a hitelesítés időpontjának feltüntetése mellett aláírásával igazolja.
 
-[^1]: A 7. § (2) bekezdés b) pontja a 213/2010. (VII. 2.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 7. § (2) bekezdés c) pontja a 213/2010. (VII. 2.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 7. § (2) bekezdés b) pontja a 213/2010. (VII. 2.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 7. § (2) bekezdés c) pontja a 213/2010. (VII. 2.) Korm. rendelet 4. §-a szerint módosított szöveg.

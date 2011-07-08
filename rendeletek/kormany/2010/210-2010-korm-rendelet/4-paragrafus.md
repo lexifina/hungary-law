@@ -1,3 +1,5 @@
+## 3/A. §[^3] Az államháztartásról szóló 1992. évi XXXVIII. törvény 122. §-ának (3) bekezdésében meghatározott szervként a Kormány a Főigazgatóságot jelöli ki.
+
 ## A Főigazgatóság ellenőrzési hatósági feladatai
 
 4. § (1) A Főigazgatóság ellátja az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló, 2006. július 11-i 1083/2006/EK tanácsi rendeletben, valamint az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 2006. július 17-i 1085/2006/EK tanácsi rendelet végrehajtásáról szóló, 2007. június 12-i 718/2007/EK bizottsági rendeletben meghatározott – külön kormányrendeletben részletezett – ellenőrzési hatósági feladatokat a 2007–2013 közötti programozási időszak tekintetében.
@@ -15,3 +17,5 @@ d) a „Szolidaritás és a migrációs áramlások igazgatása” általános p
 meghatározott ellenőrzési hatósági feladatokat.
 
 (3) Az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK (2002. június 25.) Rendelet 53b cikkének (3) bekezdésében, valamint az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK Rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2342/2002/EK Rendelet 42a cikkében foglaltak teljesítése érdekében a Főigazgatóság minden év február 15-ig – az Európai Bizottság módszertani iránymutatásainak megfelelően – összegzi a rendelkezésére álló ellenőrzési jelentéseket, véleményeket, igazolásokat és nyilatkozatokat. A feladat végrehajtása érdekében az államháztartásért felelős miniszter megküldi a Főigazgatóság részére az egyéb jogszabályok alapján számára megküldött jelentéseket, véleményeket, igazolásokat, és nyilatkozatokat, melyek a Főigazgatóságnak nem állnak rendelkezésére.
+
+[^3]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be.
