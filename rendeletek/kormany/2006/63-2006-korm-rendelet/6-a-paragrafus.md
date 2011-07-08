@@ -14,7 +14,7 @@ c) 43/A. §-a (5) bekezdésének alkalmazásában a fellebbezési eljárásra il
 
 a)[^18] 10. §-a (7) bekezdésének alkalmazásában állami adóhatóság a NAV illetékes megyei (fővárosi) adóigazgatósága,
 
-b)[^19] 10. §-a (8) és (9) bekezdésének alkalmazásában kincstár a Magyar Államkincstár Közép-Magyarországi Regionális Igazgatósága,
+b)[^19] 10. §-a (8) és (9) bekezdésének alkalmazásában kincstár a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága,
 
 c)[^20] 19. § (3) bekezdésének, 33. § (1) bekezdés f) és g) pontjának, 35. § (3) bekezdésének, 36. § (2) bekezdés a)–c) pontjának, 37/C. § (6) bekezdésének, valamint (8) bekezdés a) pontjának alkalmazásában állami foglalkoztatási szerv a megyei munkaügyi központ,
 
@@ -33,7 +33,7 @@ h) 55. §-a (7) bekezdésének alkalmazásában ingatlanügyi hatóság az ingat
 [^16]: A 6/A. §-t a 326/2006. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^17]: A 6/A. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^18]: A 6/A. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 110. § (2) bekezdésével megállapított szöveg.
-[^19]: A 6/A. § (3) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
+[^19]: A 6/A. § (3) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 113/2011. (VII. 7.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^20]: A 6/A. § (3) bekezdés c) pontja a 358/2010. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^21]: A 6/A. § (3) bekezdésének d) pontját a 213/2007. (VIII. 7.) Korm. rendelet 16. § (6) bekezdésének c) pontja hatályon kívül helyezte.
 [^22]: A 6/A. § (3) bekezdésének e) pontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aa) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
