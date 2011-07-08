@@ -1,6 +1,6 @@
-42. § (1)[^61] A projektgazda évente egyszer, az FMI által meghatározott beszámolási időszakra nézve kibővített projekt-előrehaladási jelentést készít, amelynek tartalma és elkészítésének menete a 41. §-ban meghatározottakon túl kiegészül az FMI által a projekt előrehaladása szempontjából fontosnak ítélt horizontális kérdésekkel. A kibővített projekt-előrehaladási jelentés benyújtásának határideje legkésőbb az adott beszámolási időszakot követő 30. nap.
+42. § (1)[^62] A projektgazda évente egyszer, az FMI által meghatározott beszámolási időszakra nézve kibővített projekt-előrehaladási jelentést készít, amelynek tartalma és elkészítésének menete a 41. §-ban meghatározottakon túl kiegészül az FMI által a projekt előrehaladása szempontjából fontosnak ítélt horizontális kérdésekkel. A kibővített projekt-előrehaladási jelentés benyújtásának határideje legkésőbb az adott beszámolási időszakot követő 30. nap.
 
-(2)[^62] Az (1) bekezdés szerinti évente készített kibővített projekt-előrehaladási jelentés tartalmazza
+(2)[^63] Az (1) bekezdés szerinti évente készített kibővített projekt-előrehaladási jelentés tartalmazza
 
 a) a projekt pénzügyi előrehaladásának összesített adatait a jelentési időszakra vonatkozóan, valamint a jelentés készítésének időpontjáig kumuláltan is,
 
@@ -14,5 +14,5 @@ e) a projekt jellegétől függően a kapcsolódó horizontális kérdések rés
 
 f) a projekt lebonyolítását befolyásoló – az újonnan fölmerült és a korábban már azonosított – kockázatokat és a kezelésükre tervezett intézkedések leírását.
 
-[^61]: A 42. § (1) bekezdése a 155/2010. (V. 4.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^62]: A 42. § (2) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^62]: A 42. § (1) bekezdése a 155/2010. (V. 4.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^63]: A 42. § (2) bekezdés nyitó szövegrésze a 155/2010. (V. 4.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

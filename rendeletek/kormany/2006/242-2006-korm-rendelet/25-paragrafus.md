@@ -4,13 +4,13 @@
 
 ## A támogatási megállapodás és a végrehajtási szerződés megkötése
 
-25. § (1)[^28] Az adományozó által megküldött támogatási ajánlatot a Nemzeti Kapcsolattartó megküldi a pályázónak, és megszabja az ajánlat elfogadásának határidejét. A határidőt úgy kell meghatározni, hogy egyrészt a pályázónak elegendő idő álljon rendelkezésre a támogatási ajánlat megfontolására, másrészt úgy, hogy az adományozó által a Magyar Köztársaság számára előírt válaszadási határidő tartható legyen.
+25. § (1)[^29] Az adományozó által megküldött támogatási ajánlatot a Nemzeti Kapcsolattartó megküldi a pályázónak, és megszabja az ajánlat elfogadásának határidejét. A határidőt úgy kell meghatározni, hogy egyrészt a pályázónak elegendő idő álljon rendelkezésre a támogatási ajánlat megfontolására, másrészt úgy, hogy az adományozó által a Magyar Köztársaság számára előírt válaszadási határidő tartható legyen.
 
 (2) Amennyiben a pályázó a megadott határidőn belül nem válaszol, a támogatási ajánlat semmisnek tekintendő.
 
-(3)[^29] A pályázó által adott pozitív válasz esetén a Nemzeti Kapcsolattartó kezdeményezi a Norvég Külügyminisztériumnál, illetve az EGT Finanszírozási Mechanizmus Bizottságnál a támogatási megállapodás megkötését. A támogatási megállapodás megkötését követően a Végrehajtó Ügynökség előkészíti a végrehajtási szerződést a pályázati kiírás, a benyújtott pályázat, a támogatási ajánlat és a pályázó további szakmai információi alapján.
+(3)[^30] A pályázó által adott pozitív válasz esetén a Nemzeti Kapcsolattartó kezdeményezi a Norvég Külügyminisztériumnál, illetve az EGT Finanszírozási Mechanizmus Bizottságnál a támogatási megállapodás megkötését. A támogatási megállapodás megkötését követően a Végrehajtó Ügynökség előkészíti a végrehajtási szerződést a pályázati kiírás, a benyújtott pályázat, a támogatási ajánlat és a pályázó további szakmai információi alapján.
 
 (4) A támogatási megállapodást egyrészről a Norvég Külügyminisztérium, illetve az EGT Finanszírozási Mechanizmus Bizottság, másrészről a Magyar Köztársaság képviseletében a Nemzeti Kapcsolattartó írja alá.
 
-[^28]: A 25. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^29]: A 25. § (3) bekezdése a 265/2007. (X. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^29]: A 25. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^30]: A 25. § (3) bekezdése a 265/2007. (X. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 155/2010. (V. 4.) Korm. rendelet 57. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

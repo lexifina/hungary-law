@@ -10,9 +10,9 @@ a) a helyiségek átalakításának költségei,
 
 b) a kizárólag a fogyatékkal élő munkavállalók segítésével foglalkozó személyek alkalmazáshoz kapcsolódó költségek,
 
-c)[^145] a fogyatékkal élő munkavállalók által használt berendezések átalakításának vagy beszerzésének, vagy a szoftverek beszerzésének és érvényesítésének költségei – beleértve az átalakított vagy segítség nyújtására alkalmas technológiai felszerelések költségeit is – amelyek azokon a költségeken felül jelentkeznek, amelyek akkor merülnének fel, ha a projektgazda, illetőleg a végső kedvezményezett nem fogyatékkal élő munkavállalókat foglalkoztatna,
+c)[^148] a fogyatékkal élő munkavállalók által használt berendezések átalakításának vagy beszerzésének, vagy a szoftverek beszerzésének és érvényesítésének költségei – beleértve az átalakított vagy segítség nyújtására alkalmas technológiai felszerelések költségeit is – amelyek azokon a költségeken felül jelentkeznek, amelyek akkor merülnének fel, ha a projektgazda, illetőleg a végső kedvezményezett nem fogyatékkal élő munkavállalókat foglalkoztatna,
 
-d)[^146] amennyiben a projektgazda, illetőleg a végső kedvezményezett védett munkahelyeket biztosít, az érintett létesítmény létrehozásának, üzembe helyezésének vagy kibővítésének költségei, továbbá minden, a fogyatékkal élő munkavállalók alkalmazásából közvetlenül eredő adminisztrációs és szállítási költség.
+d)[^149] amennyiben a projektgazda, illetőleg a végső kedvezményezett védett munkahelyeket biztosít, az érintett létesítmény létrehozásának, üzembe helyezésének vagy kibővítésének költségei, továbbá minden, a fogyatékkal élő munkavállalók alkalmazásából közvetlenül eredő adminisztrációs és szállítási költség.
 
-[^145]: A 92/P. § (3) bekezdés c) pontja a 155/2010. (V. 4.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
-[^146]: A 92/P. § (3) bekezdés d) pontja a 155/2010. (V. 4.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^148]: A 92/P. § (3) bekezdés c) pontja a 155/2010. (V. 4.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^149]: A 92/P. § (3) bekezdés d) pontja a 155/2010. (V. 4.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

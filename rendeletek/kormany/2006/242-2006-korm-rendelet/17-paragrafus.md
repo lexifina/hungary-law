@@ -1,5 +1,5 @@
-## 14–16. §[^21]
+## 14–16. §[^22]
 
 ## A pályázatok elbírálása
 
-[^21]: A 14–16. §-t a 265/2007. (X. 10.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 14–16. §-t a 265/2007. (X. 10.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
