@@ -22,17 +22,17 @@
 
 9. monitoring: a források, az eredmények és a teljesítmények mindenre kiterjedő és rendszeres vizsgálata, amely a központi költségvetésből, nemzetközi segélyből vagy támogatásból, illetve az Európai Unió által nyújtott támogatásokkal végrehajtandó programok eredményes, tervszerű és hatékony megvalósítása érdekében történik. A monitoring kiterjed annak vizsgálatára is, hogy a programok megvalósítása megfelelt-e azoknak a célkitűzéseknek, amelyek a támogatás elnyerését lehetővé tették;
 
-10. nemzeti alap a nemzetközi megállapodásokban előírt nemzeti alap feladatoknak ellátása Pénzügyminisztérium Nemzeti Programengedélyező Iroda szervezeti keretei közt történik.
+10.[^3] nemzeti alap a nemzetközi megállapodásokban előírt nemzeti alap feladatoknak ellátása Pénzügyminisztérium Nemzeti Programengedélyező Iroda szervezeti keretei közt történik.
 
-11.[^3] végrehajtó szervezet: Phare programok esetén az ESZA Társadalmi Szolgáltató Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
+11.[^4] végrehajtó szervezet: Phare programok esetén az ESZA Társadalmi Szolgáltató Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
 
-12.[^4]
+12.[^5]
 
 13. pénzügyi megállapodások: a Phare Pénzügyi Megállapodások, az Átmeneti Támogatás Nemzeti Programjainak finanszírozásáról szóló bizottsági határozatok, a SAPARD Többéves Pénzügyi Megállapodás, valamint a SAPARD Éves Pénzügyi Megállapodások együttes elnevezése;
 
 14. finanszírozási szerződés: Phare és az Átmeneti Támogatás esetében a Nemzeti Programengedélyező és a Programengedélyező között létrejött, a programok szakmai és pénzügyi megvalósítására vonatkozó kétoldalú írásbeli kötelezettségvállalás;
 
-15. Együttműködési megállapodás: SAPARD esetén a Magyar Államkincstár (a továbbiakban: Kincstár), a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM), a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), valamint a Nemzeti Programengedélyező között létrejött, a programok szakmai és pénzügyi megvalósítására vonatkozó többoldalú írásbeli kötelezettségvállalás;
+15.[^6] Együttműködési megállapodás: SAPARD esetén a Kincstár, a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM), a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), valamint a Nemzeti Programengedélyező között létrejött, a programok szakmai és pénzügyi megvalósítására vonatkozó többoldalú írásbeli kötelezettségvállalás;
 
 16. támogatási szerződés: az egyes végrehajtó szervezeteknek, SAPARD esetében az MVH-nak a végső kedvezményezettel kötött szerződése;
 
@@ -42,9 +42,9 @@
 
 19. ellenőrzés tűrési kötelezettség: betekintés és hozzáférés biztosítása a nyilvántartási, adatszolgáltatási és működési rendszerbe, lehetővé téve azt, hogy az arra felhatalmazott, ellenőrök a támogatás felhasználására vonatkozó valamennyi információt megszerezhessék, és azok valódiságáról meggyőződhessenek;
 
-20.[^5] ellenőr: az Európai Bizottság és az Európai Számvevőszék által megbízott természetes személy, valamint a PM Nemzeti Programengedélyező Iroda, az MVH és a végrehajtó szervezetek vagy azok szakmai felügyeletét ellátó szervek, illetve az Állami Számvevőszék (a továbbiakban: ÁSZ) vagy az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) által megbízott olyan természetes személy, aki a vonatkozó ellenőrzési jogszabályokban rögzített feltételeknek megfelel;
+20.[^7] ellenőr: az Európai Bizottság és az Európai Számvevőszék által megbízott természetes személy, valamint a Kincstár, az MVH és a végrehajtó szervezetek vagy azok szakmai felügyeletét ellátó szervek, illetve az Állami Számvevőszék (a továbbiakban: ÁSZ) vagy az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) által megbízott olyan természetes személy, aki a vonatkozó ellenőrzési jogszabályokban rögzített feltételeknek megfelel;
 
-21. Államháztartási Belső Pénzügyi Ellenőrzési Tárcaközi Bizottság (a továbbiakban: ÁBPE Tárcaközi Bizottság): a Phare és Átmeneti Támogatás felhasználása ellenőrzési rendszerének kialakításával összefüggő koordinációs és konzultatív feladatokat ellátó tárcaközi bizottság;
+21.[^8] Államháztartási Belső Kontroll Tárcaközi Bizottság (a továbbiakban: ÁBK Tárcaközi Bizottság): a Phare és Átmeneti Támogatás felhasználása ellenőrzési rendszerének kialakításával összefüggő koordinációs és konzultatív feladatokat ellátó tárcaközi bizottság;
 
 22. ,,négy szem elve'': minden végrehajtási és pénzügyi tranzakció engedélyezését megelőzően az adott feladatot ellátó személy munkáját egy másik személy teljeskörűen felülvizsgálja, beleértve az ellenőrzési listák és a kitöltési útmutatók alkalmazását is;
 
@@ -54,18 +54,23 @@
 
 25. projekt: Phare és az Átmeneti Támogatás esetében tartalmilag és formailag részletesen kidolgozott, megfelelő pénzügyi háttérrel és végrehajtási ütemezéssel rendelkező fejlesztési elképzelés, SAPARD esetében a végső kedvezményezettek által a Program keretében elvégzett bármilyen tevékenység;
 
-26. Tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében a Pénzügyminisztérium (a továbbiakban: PM) által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
+26.[^9] Tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében a Nemzetgazdasági Minisztérium (a továbbiakban: NGM) által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
 
 27. végső kedvezményezett: Phare és az Átmeneti Támogatás esetében olyan jogi személy, jogi személyiség nélküli gazdasági társaság, amely a projekt hasznosítója, és a projekt megvalósításának fizikai, műszaki vonatkozásaival foglalkozik. SAPARD esetében az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, amely a projektek végrehajtásáért felelős;
 
-28.[^6] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
+28.[^10] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
 
 29. PERSEUS: az Európai Bizottság Phare és Átmeneti Támogatás programjai esetén alkalmazott, pénzügyi folyamatokat rögzítő nyilvántartási rendszere.
 
-30. Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet: ezt a szerepet a KEHI tölti be a Kormányzati Ellenőrzési Hivatalról szóló 70/2004. (IV. 15.) Korm. rendeletben foglaltaknak megfelelően.
+30.[^11] Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet: ezt a szerepet az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) tölti be az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 3. § b) pontjába foglaltaknak megfelelően.
 
 [^2]: A 2. § 8. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^3]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 12. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^5]: A 2. § 20. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (8) bekezdése szerint módosított szöveg.
-[^6]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.
+[^3]: A 2. § 10. pontjának a 113/2011. (VII. 7.) Korm. rendelet 18. §-ával elrendelt módosítása, amely szerint a „Pénzügyminisztérium, Nemzeti Programengedélyező Iroda” szövegrésze helyébe a „Magyar Államkincstár (a továbbiakban: Kincstár)” szöveg lép, nem vezethető át.
+[^4]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 12. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^6]: A 2. § 15. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^7]: A 2. § 20. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (8) bekezdése, a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^8]: A 2. § 21. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^9]: A 2. § 26. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^10]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.
+[^11]: A 2. § 30. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.

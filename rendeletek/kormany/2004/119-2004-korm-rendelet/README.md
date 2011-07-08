@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-119-20-
 | 2010-06-30 | 2004-119-20-22.6 | 164/2010. (V. 11.) Korm. rendelet |
 | 2010-07-01 | 2004-119-20-22.7 | 210/2010. (VI. 30.) Korm. rendelet |
 | 2011-01-01 | 2004-119-20-22.8 | 370/2010. (XII. 31.) Korm. rendelet |
+| 2011-07-08 | 2004-119-20-22.9 | 113/2011. (VII. 7.) Korm. rendelet |

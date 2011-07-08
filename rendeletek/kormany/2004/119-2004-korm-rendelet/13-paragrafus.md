@@ -18,10 +18,12 @@ h) szakmai teljesítés igazolása, kivéve a KPSZE mint végrehajtó szervezet 
 
 i) a kifizetések szabályszerűségének biztosítása,
 
-j) az Európai Unió támogatásainak jogosulatlan vagy szabálytalan utalásából, felhasználásából, vagy fel nem használásából eredő összegek PM Nemzeti Programengedélyező Iroda részére történő visszautalásának biztosítása, a tervezési körirattal, illetve a mindenkori költségvetési törvény előírásaival összhangban,
+j)[^21] az Európai Unió támogatásainak jogosulatlan vagy szabálytalan utalásából, felhasználásából, vagy fel nem használásából eredő összegek Kincstár részére történő visszautalásának biztosítása, a tervezési körirattal, illetve a mindenkori költségvetési törvény előírásaival összhangban,
 
 k) megfelelő nyilvántartási, jelentési és adatszolgáltatási rendszer működtetése a szakmai lebonyolítás minden szintjén, valamint az ezekre épülő jelentések és adatszolgáltatás biztosítása a Nemzeti Programengedélyező, a PM Nemzeti Programengedélyező Iroda és az Európai Bizottság felé,
 
 l) a hazai társfinanszírozással kapcsolatos adatszolgáltatás biztosítása, mely tartalmazza a pénzügyi megállapodások részletes pénzügyi (költségvetési) adatait tartalmazó mellékleteiben szereplő hazai társfinanszírozás valamennyi keret- és kifizetési adatát,
 
 m) a kiterjesztett decentralizációra történő áttérés és ennek megfelelő működés szakmai feltételeinek és dokumentációs hátterének biztosítása.
+
+[^21]: A 13. § j) pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.

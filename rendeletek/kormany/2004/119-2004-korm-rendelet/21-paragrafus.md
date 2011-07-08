@@ -1,7 +1,7 @@
-## 20. §[^11] Az igazoló szerv tevékenységét a SAPARD Többéves Pénzügyi Megállapodást kihirdető 117/2001. (VI. 30.) Korm. rendelet szabályozza. Az igazoló szerv feladatait az Európai Mezőgazdasági Garancia Alapból finanszírozott programok és intézkedések igazoló szerve látja el.
+## 20. §[^25] Az igazoló szerv tevékenységét a SAPARD Többéves Pénzügyi Megállapodást kihirdető 117/2001. (VI. 30.) Korm. rendelet szabályozza. Az igazoló szerv feladatait az Európai Mezőgazdasági Garancia Alapból finanszírozott programok és intézkedések igazoló szerve látja el.
 
 ## III. Fejezet
 
 ## PROGRAMOK ELŐKÉSZÍTÉSE ÉS KÖLTSÉGVETÉSI TERVEZÉS
 
-[^11]: A 20. § a 404/2007. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^25]: A 20. § a 404/2007. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.

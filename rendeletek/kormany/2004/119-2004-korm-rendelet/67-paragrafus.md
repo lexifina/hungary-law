@@ -1,3 +1,3 @@
-67–68. §[^39]
+67–68. §[^74]
 
-[^39]: A 67–68. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 705. pontja hatályon kívül helyezte.
+[^74]: A 67–68. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 705. pontja hatályon kívül helyezte.
