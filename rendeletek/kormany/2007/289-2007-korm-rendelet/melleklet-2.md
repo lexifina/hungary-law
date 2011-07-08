@@ -98,11 +98,11 @@
 
 ## 5. Nyilatkozat
 
-## Tudomásul veszem, hogy a Magyar Államkincstár illetékes Regionális Igazgatósága, illetőleg az állami adóhatóság – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 55/D. §-ában foglaltak alapján – a támogatásra való jogosultság fennállásának ellenőrzésére jogosult.
+## Tudomásul veszem, hogy a Magyar Államkincstár illetékes területi szerve, illetőleg az állami adóhatóság – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 55/D. §-ában foglaltak alapján – a támogatásra való jogosultság fennállásának ellenőrzésére jogosult.
 
 ## Tudomásul veszem, hogy az ellenőrzés során az Igazgatósággal köteles vagyok együttműködni, adatszolgáltatási, illetve megjelenési kötelezettségemnek eleget tenni, továbbá hogy a jogosultság kezdetétől számított két évig köteles vagyok megőrizni a kérelmemben foglaltakat megalapozó iratokat.
 
-## Tudomásul veszem, hogy a szolgáltatási szerződés megszűnését a megszűnést követő 15 napon belül köteles vagyok a Magyar Államkincstár támogatást megállapító Regionális Igazgatóságának bejelenteni.
+## Tudomásul veszem, hogy a szolgáltatási szerződés megszűnését a megszűnést követő 15 napon belül köteles vagyok a Magyar Államkincstár támogatást megállapító területi szervének bejelenteni.
 
 ## Tudomásul veszem, hogy a jogosulatlanul igénybe vett támogatást kamattal növelten vagyok köteles egy összegben visszafizetni.
 
@@ -150,7 +150,7 @@
 
 ## Az egy fogyasztási egységre jutó jövedelmet úgy kell kiszámítani, hogy a háztartás összjövedelmét osztani kell a háztartás tagjai fogyasztási egységének együttes összegével.
 
-## Ha Ön úgy ítéli meg, hogy jogosult a támogatásra, akkor azt az igénylőlap kitöltésével és aláírásával legkésőbb 2010. február 28-áig igényelheti. Az igénylőlaphoz hozzáférhet a Magyar Államkincstár Regionális Igazgatóságai ügyfélfogadásra nyitva álló helyiségeiben, illetőleg letöltheti a www.szmm.gov.hu és a www.allamkincstar.gov.hu honlapokról.
+## Ha Ön úgy ítéli meg, hogy jogosult a támogatásra, akkor azt az igénylőlap kitöltésével és aláírásával legkésőbb 2010. február 28-áig igényelheti. Az igénylőlaphoz hozzáférhet a Magyar Államkincstár területi szervei ügyfélfogadásra nyitva álló helyiségeiben, illetőleg letöltheti a www.szmm.gov.hu és a www.allamkincstar.gov.hu honlapokról.
 
 ## A jövedelem összegét az igénylőlapon forintban kell feltüntetni.
 

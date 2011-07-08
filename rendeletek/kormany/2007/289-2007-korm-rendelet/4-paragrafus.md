@@ -1,4 +1,4 @@
-4. § (1)[^24] A támogatásra való jogosultságot – a fogyasztó kérelmére, a kérelem benyújtásának időpontjában fennálló tények alapján – a Magyar Államkincstárnak a fogyasztó lakóhelye, tartózkodási helye szerint illetékes Regionális Igazgatósága állapítja meg.
+4. § (1)[^24] A támogatásra való jogosultságot – a fogyasztó kérelmére, a kérelem benyújtásának időpontjában fennálló tények alapján – a Magyar Államkincstárnak a fogyasztó lakóhelye, tartózkodási helye szerint illetékes területi szerve állapítja meg.
 
 (2) A háztartásban élő személyek meghatározásánál a személyiadat- és lakcímnyilvántartás adatai az irányadóak.
 
@@ -32,7 +32,7 @@ b) az egyes – lépcsőház, emelet, ajtó megjelöléssel vagy más alkalmas m
 
 (8)[^27]
 
-[^24]: A 4. § (1) bekezdése a 142/2008. (V. 16.) Korm. rendelet 7. § (3) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 586. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 4. § (1) bekezdése a 142/2008. (V. 16.) Korm. rendelet 7. § (3) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 586. §-a, a 113/2011. (VII. 7.) Korm. rendelet 39. §-a szerint módosított szöveg.
 [^25]: A 4. § (3) bekezdése a 290/2009. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (3) bekezdése alapján a 2009. december 31-éig felhasznált hőmennyiségre tekintettel a 2009. december 31-éig hatályos rendelkezések alapján járó távhődíj-juttatás érvényesítésére és elszámolására a 2009. december 31-én hatályos rendelkezéseket kell alkalmazni.
 [^26]: A 4. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 585. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 4. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 586. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
