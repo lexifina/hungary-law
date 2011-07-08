@@ -1,6 +1,6 @@
-## A KKB működése. A KKB elnökének és tagjainak a KKB működésével kapcsolatos feladatai[^25]
+## A KKB működése. A KKB elnökének és tagjainak a KKB működésével kapcsolatos feladatai[^26]
 
-6/A. §[^26] (1) A KKB – tagjai kétharmadának szavazatával – maga határozza meg ügyrendjét.
+6/A. §[^27] (1) A KKB – tagjai kétharmadának szavazatával – maga határozza meg ügyrendjét.
 
 (2) A KKB szükség szerint, de évente legalább két alkalommal tart ülést.
 
@@ -16,7 +16,7 @@ c) figyelemmel kíséri
 
 ca) a KKB határozatainak és az érintett szervek, szervezetek együttműködésének megvalósulását,
 
-cb)[^27] a Magyar Köztársaság katasztrófa-veszélyeztetettségére, a katasztrófák hatásai elleni védekezésre vonatkozó nemzeti stratégia előkészítését, a kapcsolódó költségvetések tervezését,
+cb)[^28] a Magyar Köztársaság katasztrófa-veszélyeztetettségére, a katasztrófák hatásai elleni védekezésre vonatkozó nemzeti stratégia előkészítését, a kapcsolódó költségvetések tervezését,
 
 cc) az országos katasztrófavédelmi információs rendszer létrehozásáról, a KKB Kommunikációs és Információs Központjának kiépítéséről és működtetéséről szóló javaslatok megvalósulását,
 
@@ -52,6 +52,6 @@ i) intézkednek az adott minisztériumban létrehozott védekezési munkabizotts
 
 j) biztosítják a védekezési munkabizottságok működésének feltételeit, és meghatározzák működésük helyét.
 
-[^25]: A 6/A. §-t megelőző alcímet a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
-[^26]: A 6/A. §-t a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
-[^27]: A 6/A § c) pont cb) alpontja a 122/2010. (IV. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^26]: A 6/A. §-t megelőző alcímet a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
+[^27]: A 6/A. §-t a 95/2009. (IV. 24.) Korm. rendelet 6. §-a iktatta be.
+[^28]: A 6/A § c) pont cb) alpontja a 122/2010. (IV. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.

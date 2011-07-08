@@ -6,7 +6,7 @@ a) elvégzi a várható katasztrófaveszélyekre vonatkozó vizsgálatokat, és 
 
 b) ellenőrzi és értékeli a települési és munkahelyi polgári védelmi szervezetek felkészültségét, és erről tájékoztatja a helyi védelmi bizottság elnökét,
 
-c)[^46] az illetékes hadkiegészítő parancsnoksággal együttműködve határozattal kijelöli illetékességi területén a védekezéshez szükséges nemzetgazdasági technikai eszközöket, objektumokat és igénybevételre tervezett szolgáltatásokat,
+c)[^47] az illetékes hadkiegészítő parancsnoksággal együttműködve határozattal kijelöli illetékességi területén a védekezéshez szükséges nemzetgazdasági technikai eszközöket, objektumokat és igénybevételre tervezett szolgáltatásokat,
 
 d) gondoskodik a rendelkezésre álló és hatáskörébe tartozó riasztó- és tájékoztató eszközök működőképességének fenntartásáról és a működtetéséhez szükséges személyi és technikai feltételek biztosításáról.
 
@@ -46,4 +46,4 @@ f) irányítja a humanitárius segélyek elosztását,
 
 g) ellenőrzi a helyreállítási feladatok végrehajtását.
 
-[^46]: A 14. § (1) bekezdésének c) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^47]: A 14. § (1) bekezdésének c) pontja a 95/2009. (IV. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.

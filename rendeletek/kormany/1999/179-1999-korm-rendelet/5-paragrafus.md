@@ -1,6 +1,6 @@
-5. § (1)[^17] A KKB döntés-előkészítő szerveként a szakmai feladatok ellátását védekezési munkabizottság koordinálja.
+5. § (1)[^18] A KKB döntés-előkészítő szerveként a szakmai feladatok ellátását védekezési munkabizottság koordinálja.
 
-(2)[^18] Az a miniszter, akinek az adott katasztrófatípus kezelése az első helyi felelősségébe tartozik, védekezési munkabizottságot hoz létre és működtet – különösen – a következő esetekben:
+(2)[^19] Az a miniszter, akinek az adott katasztrófatípus kezelése az első helyi felelősségébe tartozik, védekezési munkabizottságot hoz létre és működtet – különösen – a következő esetekben:
 
 a) az ár- és belvizek elleni védekezés irányítására, a vízügyi infrastruktúrát ért károk felszámolására a vízgazdálkodásért,
 
@@ -8,7 +8,7 @@ b) a rendkívüli időjárási helyzetben történő védekezés irányításár
 
 c) a veszélyhelyzeti szintet elérő környezetkárosodás – felszíni, a felszín alatti vizek és a földtani közeg szennyeződése, légszennyezettség, veszélyes hulladékok – felszámolásának irányítására a környezetvédelemért,
 
-d)[^19]
+d)[^20]
 
 e) a földrengés következményeinek felszámolására a katasztrófák elleni védekezésért,
 
@@ -34,9 +34,9 @@ n) a kormányzati, közigazgatási informatikai rendszerek zavarai, leállása v
 
 (3) Szükség esetén a KKB további védekezési munkabizottság felállítását is elrendelheti.
 
-(4)[^20] A Nukleárisbaleset-elhárítási Védekezési Munkabizottság a nukleáris veszélyhelyzet kockázatainak kezelésére, a nukleárisbaleset-elhárításra létrehozott, a katasztrófák elleni védekezésért felelős miniszter által működtetett, az OAH főigazgatója által vezetett védekezési munkabizottság.
+(4)[^21] A Nukleárisbaleset-elhárítási Védekezési Munkabizottság a nukleáris veszélyhelyzet kockázatainak kezelésére, a nukleárisbaleset-elhárításra létrehozott, a katasztrófák elleni védekezésért felelős miniszter által működtetett, az OAH főigazgatója által vezetett védekezési munkabizottság.
 
-[^17]: Az 5. § (1) bekezdése a 165/2010. (V. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (2) bekezdése a 95/2009. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^19]: Az 5. § (2) bekezdés d) pontját a 165/2010. (V. 11.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^20]: Az 5. § (4) bekezdését a 165/2010. (V. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^18]: Az 5. § (1) bekezdése a 165/2010. (V. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (2) bekezdése a 95/2009. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: Az 5. § (2) bekezdés d) pontját a 165/2010. (V. 11.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^21]: Az 5. § (4) bekezdését a 165/2010. (V. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
