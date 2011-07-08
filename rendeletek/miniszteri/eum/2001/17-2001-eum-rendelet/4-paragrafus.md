@@ -2,7 +2,7 @@
 
 a) a készletek
 
-aa) beszerzését,
+aa)[^6] – ide nem értve az oltóanyagok – beszerzését,
 
 ab) szakszerű tárolását és karbantartását,
 
@@ -21,3 +21,5 @@ b) a tartalékból a kórházi egységek, orvosi segélyhelyek készleteinek ös
 c) az anyagok, eszközök használatba történő kiadását és visszavételét;
 
 d) a külföldre irányuló vagy onnan érkező egészségügyi segélyszállítmányokkal kapcsolatos ügyintézést.
+
+[^6]: A 4. § a) pont aa) alpontja a 43/2011. (VII. 7.) NEFMI rendelet 2. §-ával megállapított szöveg.
