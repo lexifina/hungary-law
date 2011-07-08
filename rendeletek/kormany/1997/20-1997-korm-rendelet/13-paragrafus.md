@@ -50,7 +50,7 @@ e) a közoktatásról szóló törvény 82. §-a (6) bekezdésében meghatározo
 
 [^70]: A 12/I. §-t a 229/2007. (VIII. 31.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés d) pontja.
 [^71]: A 13. § és az előtte lévő alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a normatív állami hozzájárulás és támogatás 2004. szeptember 15-i igénylésekor minden fenntartó köteles csatolni az inkasszó benyújtásához szükséges nyilatkozatot, továbbá az aláírási címpéldányt.
-[^72]: A 13. § (1) bekezdése a 80/2005. (IV. 28.) Korm. rendelet 1. §-ával megállapított, valamint a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének i) pontja szerint módosított szöveg.
+[^72]: A 13. § (1) bekezdése a 80/2005. (IV. 28.) Korm. rendelet 1. §-ával megállapított, valamint a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének i) pontja szerint módosított szöveg. [A 113/2011. (VII. 7.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint a „a Magyar Államkincstár Területi Igazgatóságánál (a továbbiakban: Igazgatóság)” szövegrész helyébe az „Igazgatóságnál” szöveg lép, nem vezethető át.]
 [^73]: A 13. § (4) bekezdése a 70/2006. (III. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, valamint a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének j) pontja szerint módosított szöveg.
 [^74]: A 13. § (5) bekezdése a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
 [^75]: A 13. § (6) bekezdése a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja szerint módosított szöveg.

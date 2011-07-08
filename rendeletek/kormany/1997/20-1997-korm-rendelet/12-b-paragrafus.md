@@ -37,6 +37,6 @@ b) a fenntartó a közoktatási intézmény működtetését egy nevelési évig
 (11) Az Oktatási Hivatal a közoktatási intézménytörzs adatai alapján összeállítja a közoktatási intézmények hivatalos jegyzékét, és azt évente egyszer a KIR honlapján közzéteszi.
 
 [^42]: A 12/B. §-t a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (8) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^43]: A 12/B. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^43]: A 12/B. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. [A 113/2011. (VII. 7.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint „az Igazgatóság” szövegrész helyébe az „a Magyar Államkincstár fenntartó székhelye szerint illetékes területi szerve (a továbbiakban: Igazgatóság)” szöveg lép, nem vezethető át.]
 [^44]: A 12/B. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^45]: A 12/B. § (10) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
