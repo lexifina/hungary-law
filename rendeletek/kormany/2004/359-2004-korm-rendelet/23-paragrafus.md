@@ -1,4 +1,4 @@
-## 22. §[^41]
+## 22. §[^38]
 
 ## II. Fejezet
 
@@ -12,4 +12,4 @@
 
 (2) A külföldi székhelyű kifizető hatóságnak küldendő kifizetési előrejelzés adattartalmát és gyakoriságát az Egyetértési Nyilatkozat rögzíti.
 
-[^41]: A 22. §-t a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^38]: A 22. §-t a 243/2006. (XII. 5.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
