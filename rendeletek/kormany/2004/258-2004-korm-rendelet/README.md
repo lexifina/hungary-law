@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-258-20-
 | 2009-01-01 | 2004-258-20-22.4 | 258/2004. (IX. 16.) Korm. rendelet |
 | 2010-09-01 | 2004-258-20-22.5 | 318/2008. (XII. 23.) Korm. rendelet |
 | 2011-01-01 | 2004-258-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2011-07-08 | 2004-258-20-22.7 | 318/2008. (XII. 23.) Korm. rendelet |
