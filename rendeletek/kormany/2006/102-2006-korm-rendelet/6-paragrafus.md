@@ -6,11 +6,11 @@ b) vizsgálja a végrehajtás eredményeit, különös tekintettel az egyes prog
 
 c) jelentést hallgat meg a SAPARD Monitoring Bizottság munkájáról;
 
-d)[^8] megvizsgálja a döntésre javasolt azon projekteket, amelyek végrehajtásában a tervezés során előre nem látható körülmények mutatkoznak, és dönt a módosító intézkedések szükségességéről;
+d)[^9] megvizsgálja a döntésre javasolt azon projekteket, amelyek végrehajtásában a tervezés során előre nem látható körülmények mutatkoznak, és dönt a módosító intézkedések szükségességéről;
 
 e) javaslatot tesz a PHARE program, valamint az Átmeneti Támogatás megvonására és azonos pénzügyi megállapodáson belül történő átcsoportosítására.
 
-(2)[^9]
+(2)[^10]
 
 (3) A SAPARD Monitoring Bizottság
 
@@ -30,5 +30,5 @@ g) megtárgyalja és jóváhagyja a Program módosítására vonatkozó javaslat
 
 h) javasolhatja az Európai Bizottságnak – az irányító hatóságon keresztül – a Program olyan módosítását vagy felülvizsgálatát, amely lehetővé teszi a kitűzött célok elérését vagy a támogatás irányításának javítását.
 
-[^8]: A 6. § (1) bekezdésének d) pontja a 94/2007. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^9]: A 6. § (2) bekezdését a 94/2007. (V. 3.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 6. § (1) bekezdésének d) pontja a 94/2007. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdését a 94/2007. (V. 3.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.

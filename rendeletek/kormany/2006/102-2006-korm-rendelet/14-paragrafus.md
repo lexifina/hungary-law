@@ -8,7 +8,7 @@ c) értékeli az Indikatív Programban megfogalmazott célkitűzések és intéz
 
 d) felülvizsgálja azon intézkedéseket, melyek megvalósítása során a tervezés idején előre nem látható körülmények merültek fel, és dönt a korrekciós intézkedések szükségességéről.
 
-(2)[^16] A SAMB Titkárságának feladatait az NFÜ látja el, titkárát a SAMB elnöke jelöli ki.
+(2)[^17] A SAMB Titkárságának feladatait az NFÜ látja el, titkárát a SAMB elnöke jelöli ki.
 
 (3) A SAMB Titkársága
 
@@ -20,4 +20,4 @@ c) tájékoztató anyagokat készít a SAMB, illetve tagjai kezdeményezése ala
 
 d) a SAMB elnöke által meghatározott egyéb feladatokat hajt végre.
 
-[^16]: A 14. § (2) bekezdése a 94/2007. (V. 3.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 14. § (2) bekezdése a 94/2007. (V. 3.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.

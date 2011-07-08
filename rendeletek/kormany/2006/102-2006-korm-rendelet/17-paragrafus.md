@@ -16,15 +16,15 @@ e) szakmai monitoring tevékenységének keretében nyomon követi a központi k
 
 f) előkészíti a projektek hatékonyabb végrehajtását biztosító rendelkezéseket;
 
-g)[^20] biztosítja a végrehajtó szervezetek által az MVB számára készített jelentések határidőre történő kidolgozását, minőség-ellenőrzését, a tartalmi elemek helytállóságát;
+g)[^21] biztosítja a végrehajtó szervezetek által az MVB számára készített jelentések határidőre történő kidolgozását, minőség-ellenőrzését, a tartalmi elemek helytállóságát;
 
 h) a tervektől való eltérés esetén az (1) bekezdésben szereplő szervezet vezetését, a strukturális alapok és Kohéziós Alap esetében az Irányító Hatóság vezetőjét is azonnal tájékoztatja; a végrehajtó szervezet, valamint SAPARD esetén a Mezőgazdasági és Vidékfejlesztési Hivatal számára a projektek vagy programok végrehajtása tekintetében korrekciós intézkedéseket dolgoz ki és kezdeményez;
 
-i)[^21] szükség esetén tájékoztatja az (1) bekezdésben szereplő szervezet intézkedésre jogosultját, valamint az NFÜ-t, strukturális alapok esetében az OP Monitoring Bizottságot is.
+i)[^22] szükség esetén tájékoztatja az (1) bekezdésben szereplő szervezet intézkedésre jogosultját, valamint az NFÜ-t, strukturális alapok esetében az OP Monitoring Bizottságot is.
 
 (3) A monitoring egység, illetve felelős személy működése során az illetékes monitoring bizottságok által elfogadott módszerek szerint jár el, jelentéseit a monitoring bizottságok előírásainak megfelelően készíti el, amelytől eltérni csak indokolt esetben lehet.
 
 (4) A strukturális alapok és a Kohéziós Alap esetében a 25. §-ban meghatározott jogszabályok irányadóak.
 
-[^20]: A 17. § (2) bekezdésének g) pontja a 94/2007. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^21]: A 17. § (2) bekezdésének i) pontja a 94/2007. (V. 3.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^21]: A 17. § (2) bekezdésének g) pontja a 94/2007. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^22]: A 17. § (2) bekezdésének i) pontja a 94/2007. (V. 3.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.

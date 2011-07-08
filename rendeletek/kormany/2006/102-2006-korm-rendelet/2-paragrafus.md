@@ -24,7 +24,7 @@ k) Monitoring Vegyes Bizottság (MVB): az Európai Unió és a magyar szakértő
 
 l) nemzetközi segély, támogatás: nemzetközi megállapodás alapján a Magyar Köztársaságnak juttatott pénzügyi támogatás;
 
-m)[^1] Nemzeti Kapcsolattartó: a PHARE és az Átmeneti Támogatás esetén a Nemzeti Koordinátor, a Schengen Alap esetén a felelős hatóság által kijelölt személy, az EGT és Norvég Finanszírozási Mechanizmus esetén a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ);
+m)[^2] Nemzeti Kapcsolattartó: a PHARE és az Átmeneti Támogatás esetén a Nemzeti Koordinátor, a Schengen Alap esetén a felelős hatóság által kijelölt személy, az EGT és Norvég Finanszírozási Mechanizmus esetén a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ);
 
 n) nemzeti támogatás: a Magyar Köztársaság költségvetéséből finanszírozott, bármilyen formában nyújtott fejlesztési célú támogatás, kivéve a Kutatás-fejlesztési és Innovációs Alapból részben vagy egészben megvalósuló támogatásokat;
 
@@ -42,7 +42,7 @@ t) programok és projektek végrehajtásáért felelős szervezeti egységek: a 
 
 u) projekt: olyan gazdaságilag oszthatatlan munkafázisok sora, amely pontos technikai funkciót lát el, és világosan meghatározott célokkal rendelkezik.
 
-v)[^2]
+v)[^3]
 
 (2) A 2. § (1) bekezdésében nem szereplő fogalommeghatározások, úgy mint
 
@@ -58,5 +58,5 @@ e) az INTERREG Közösségi Kezdeményezés az INTERREG III. Közösségi Kezdem
 
 f) a közreműködő szervezet a Kohéziós Alap vonatkozásában a 3/2004. (IV. 21.) TNM–GKM együttes rendelet és a 2/2004. (IV. 21.) TNM–KvVM együttes rendelet szerint értelmezendők az 1/2004. (I. 5.) Korm. rendelet és az azt módosító 53/2005. (III. 26.) Korm. rendelet szerinti feladatkörrel.
 
-[^1]: A 2. § (1) bekezdésének m) pontja a 94/2007. (V. 3.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdésének v) pontját a 94/2007. (V. 3.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdésének m) pontja a 94/2007. (V. 3.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdésének v) pontját a 94/2007. (V. 3.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
