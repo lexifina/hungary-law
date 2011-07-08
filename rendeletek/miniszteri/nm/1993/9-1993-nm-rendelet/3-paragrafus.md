@@ -16,7 +16,7 @@ b)[^36]
 
 (5)[^37] Nem számolhatók el teljesítményként az adott rendelésen a havi összesített rendelési időt meghaladóan végzett tevékenységek abban az esetben, ha a rendelésen nyújtott – a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejéről szóló 17. számú melléklet szerint, illetve az ott meghatározottak hiányában legalább 2 perc ellátási idő alapján számított – összesített havi ellátási idő meghaladja a tárgyhavi rendelési időt.
 
-(6)[^38] Az (5) bekezdésben foglaltakat nem kell alkalmazni a beteg közvetlen jelenlétét nem igénylő tevékenységek végzése, a csoportos tevékenységek végzése, továbbá kizárólag laboratóriumi mintavételi eszköz biztosítása esetén.
+(6)[^38] Az (5) bekezdésben foglaltakat nem kell alkalmazni a beteg közvetlen jelenlétét nem igénylő tevékenységek végzése, a csoportos tevékenységek végzése, a kizárólag laboratóriumi mintavételi eszköz biztosítása, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli ellátások végzése esetén.
 
 [^30]: A 2. § a 62/2007. (XII. 29.) EüM rendelet 1. §-ával megállapított szöveg.
 [^31]: A 3. § eredeti szövegének jelölését (1) bekezdésre változtatta a 7/1999. (IV. 7.) EüM rendelet 2. §-a. Második mondatát a 3/2004. (I. 15.) ESZCSM rendelet 3. § (1) bekezdése iktatta be 2004. február 1-jével, hatályon kívül helyezte e módosító rendelet 5. § (2) bekezdése 2004. április 1-jével azzal, hogy a 2004. februári és márciusi teljesítmények elszámolása a 2004. március 31-én hatályos szabályok szerint történik.
@@ -26,4 +26,4 @@ b)[^36]
 [^35]: A 3. § (4) bekezdését a 26/2005. (VII. 13.) EüM rendelet 1. §-a iktatta a szövegbe.
 [^36]: A 3. § (4) bekezdésének b) pontját a 49/2006. (XII. 28.) EüM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
 [^37]: A 3. § (5) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^38]: A 3. § (6) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 35/2010. (V. 14.) EüM rendelet 2. §-ával megállapított szöveg.
+[^38]: A 3. § (6) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 44/2011. (VII. 7.) NEFMI rendelet 1. §-ával megállapított szöveg.
