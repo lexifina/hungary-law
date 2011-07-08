@@ -1,8 +1,9 @@
-## 3. § Az apákat megillető munkaidő-kedvezménnyel összefüggő költségek megtérítésének forrása a központi költségvetés XXII. Pénzügyminisztérium fejezete.
+## 3. §[^5] Az apákat megillető munkaidő-kedvezménnyel összefüggő költségek megtérítésének forrása a központi költségvetés.
 
-4. §[^5] (1)[^6] A munkáltató az apát megillető és részére kifizetett távolléti díj és annak közterhei megtérítését az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon évente 4 alkalommal – március 31-éig, június 30-áig, szeptember 30-áig, valamint december 31-éig – kérelmezheti. Az Igazgatóság a benyújtási határidőt követő tizenöt napon belül gondoskodik a kimutatott összeg átutalásáról.
+4. §[^6] (1)[^7] A munkáltató az apát megillető és részére kifizetett távolléti díj és annak közterhei megtérítését az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon évente 4 alkalommal – március 31-éig, június 30-áig, szeptember 30-áig, valamint december 31-éig – kérelmezheti. Az Igazgatóság a benyújtási határidőt követő tizenöt napon belül gondoskodik a kimutatott összeg átutalásáról.
 
 (2) A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról rendelkező 223/1998. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 4/B. §-ának (4) bekezdése szerinti családtámogatási kifizetőhely az R. 27/A. §-a szerinti elszámolásban mutatja ki a tárgyhónapban számfejtett és kifizetett munkaidő kedvezményre járó távolléti díj összegét és annak közterheit.
 
-[^5]: A 4. § a 394/2007. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^6]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 287. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (37) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^5]: A 3. § a 113/2011. (VII. 7.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^6]: A 4. § a 394/2007. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^7]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 287. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (37) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
