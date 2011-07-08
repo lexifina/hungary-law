@@ -1,0 +1,1 @@
+## 43. § Az egyes 2009. évi decentralizált önkormányzati fejlesztési és területfejlesztési célú, valamint egyes 2009. évi központi előirányzatok felhasználásának részletes szabályairól szóló 85/2009. (IV. 10.) Korm. rendelet 4. § (6) bekezdésében a „regionális igazgatóságán” szövegrész helyébe a „területi szervén” szöveg lép.

@@ -1,0 +1,1 @@
+## 54. § Az R2. 2. § (4) bekezdésében a „köztisztviselők” szövegrész helyébe a „kormánytisztviselők” szöveg, a 15. § (3) bekezdésében a „köztisztviselői” szövegrész helyébe a „kormánytisztviselői” szöveg lép.

@@ -1,0 +1,1 @@
+## 25. § Az R. 2. § (1) bekezdés ab) pontjában a „Pénzügyminisztérium” szövegrész helyébe a „Kincstár” szöveg, a 2. § (1) bekezdés ag) pontjában a „Pénzügyminisztériumnak” szövegrész helyébe „Nemzetgazdasági Minisztériumnak” szöveg lép.

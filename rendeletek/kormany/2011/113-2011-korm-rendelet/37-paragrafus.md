@@ -1,0 +1,3 @@
+## 36. § Hatályát veszti az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus végrehajtási rendjéről szóló 242/2006. (XII. 5.) Korm. rendelet a 63. § (2) bekezdésében a „Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím” szövegrész, a 64. § (4) bekezdésében a „Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím” szövegrész, valamint a 64/A. § (4) bekezdésében a „Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím” szövegrész.
+
+## 25. Az Oktatási Hivatalról szóló 307/2006. (XII. 23.) Korm. rendelet módosítása

@@ -1,0 +1,3 @@
+## 14. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 18. § (13) bekezdésében a „regionális igazgatósága” szövegrész helyébe a „területi szerve” szöveg, 18. § (15) bekezdésében a „regionális igazgatósága” szövegrész helyébe a „területi szerve” szöveg, 20. § (8) bekezdés második mondatában a „regionális igazgatósága” szövegrész helyébe a „területi szerve” szöveg, 21. § (11) bekezdésében a „regionális igazgatóságához” szövegrész helyébe a „területi szervéhez” szöveg lép.
+
+## 14. A gyermek születése esetén az apát megillető munkaidő-kedvezménnyel összefüggő költségek megtérítéséről szóló 305/2002. (XII. 27.) Korm. rendelet módosítása

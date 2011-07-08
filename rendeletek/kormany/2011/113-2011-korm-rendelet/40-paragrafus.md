@@ -1,0 +1,3 @@
+## 39. § A lakossági vezetékes gázfogyasztás és távhőfelhasználás szociális támogatásáról szóló 289/2007. (X. 31.) Korm. rendelet 2. § (9) bekezdésében a „Regionális Igazgatóságánál” szövegrész helyébe a „területi szervénél” szöveg, 4. § (1) bekezdésében a „Regionális Igazgatósága” szövegrész helyébe a „területi szerve” szöveg, 1. számú mellékletében a „Regionális Igazgatósága” szövegrész helyébe a „területi szerve” szöveg, a „Regionális Igazgatóságának” szövegrész helyébe a „területi szervének” szöveg, a „Regionális Igazgatóságai” szövegrész helyébe a „területi szervei” szöveg lép.
+
+## 28. Az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet módosítása

@@ -1,0 +1,1 @@
+## 35. § Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus végrehajtási rendjéről szóló 242/2006. (XII. 5.) Korm. rendelet 3. § (1) bekezdésének 12. pontjában a „Pénzügyminisztérium Nemzeti Programengedélyező Iroda” szövegrész helyébe a „Magyar Államkincstár” szöveg lép.
