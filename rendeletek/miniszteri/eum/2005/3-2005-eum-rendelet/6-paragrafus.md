@@ -1,4 +1,4 @@
-## 5. §[^22] A szakfelügyelet keretében – szükség szerint, de legalább kétévente – az e rendeletben foglaltak teljesülését is vizsgálni kell.
+## 5. §[^23] A szakfelügyelet keretében – szükség szerint, de legalább kétévente – az e rendeletben foglaltak teljesülését is vizsgálni kell.
 
 ## Felelős személy
 
@@ -14,12 +14,12 @@ c) a 7–11. §-okban meghatározott követelményeknek az OVSZ területi szerv�
 
 (3) A felelős személyt a (2) bekezdésben meghatározott követelményeknek megfelelő személy helyettesítheti.
 
-(4)[^23] Az OVSZ területi szerve értesíti az OTH-t a (3) bekezdésben említett személy nevéről a felelősségi körébe tartozó konkrét feladatokkal együtt.
+(4)[^24] Az OVSZ területi szerve értesíti az OTH-t a (3) bekezdésben említett személy nevéről a felelősségi körébe tartozó konkrét feladatokkal együtt.
 
-(5)[^24] Amennyiben a felelős személy személyében változás áll be, az OVSZ területi szerve haladéktalanul értesíti az OTH-t az új felelős személy nevéről és arról, hogy mikor kezdte meg e tevékenység végzését.
+(5)[^25] Amennyiben a felelős személy személyében változás áll be, az OVSZ területi szerve haladéktalanul értesíti az OTH-t az új felelős személy nevéről és arról, hogy mikor kezdte meg e tevékenység végzését.
 
 (6) A 4. § (2) bekezdés szerinti egészségügyi szolgáltató vérgyűjtést végző szervezeti egységének vezetője felelős a szervezeti egység által végzett vérgyűjtésért.
 
-[^22]: Az 5. § a 10/2011. (III. 30.) NEFMI rendelet 50. § (2) bekezdésével megállapított szöveg.
-[^23]: A 6. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
-[^24]: A 6. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
+[^23]: Az 5. § a 10/2011. (III. 30.) NEFMI rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.
+[^25]: A 6. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 50. § (3) bekezdése szerint módosított szöveg.

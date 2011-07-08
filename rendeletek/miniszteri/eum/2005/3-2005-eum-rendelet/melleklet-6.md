@@ -18,7 +18,7 @@
 
 ## További vizsgálatokra is szükség lehet speciális komponensek vagy donorok esetén, illetve epidemiológiai helyzetekben.
 
-6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez
+6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^55]
 
 A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmények
 
@@ -134,7 +134,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Trombocita-tartalom | A trombocita-tartalom ingadozása véradásonként olyan határok között megengedett, amelyek összhangban vannak az érvényesített feldolgozási és tárolási feltételekkel |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Trombocita koncentrátum, aferezisből, fehérvérsejt-mentes (egyedi) | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
@@ -142,7 +142,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Fehérvérsejt-tartalom | Kevesebb, mint 1×106 egységenként |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Trombocita koncentrátum, poolozott | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
@@ -150,7 +150,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Fehérvérsejt-tartalom | Kevesebb, mint 0,2×109 egy egységenként (trombocita-dús plazma módszer) Kevesebb, mint 0,05×109 egy egységenként (buffy coat módszer) |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Trombocita koncentrátum, poolozott, fehérvérsejt-mentes | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
@@ -158,7 +158,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Fehérvérsejt-tartalom | Kevesebb, mint 1×106 egységenként |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Trombocita koncentrátum, egy egységes, egyedi | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
@@ -166,7 +166,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Fehérvérsejt-tartalom | Kevesebb, mint 0,2×109 egyedi egységenként (trombocita-dús plazma módszer) Kevesebb, mint 0,05×109 egyedi egységenként (határréteg-módszer) |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Trombocita koncentrátum, egy egységes, egyedi, fehérvérsejt-mentes | Térfogat | Olyan tárolási tulajdonságokra érvényes, amelyek a termék pH határértékein belül tartásához szükségesek |
 
@@ -174,7 +174,7 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Fehérvérsejt-tartalom | Kevesebb, mint 1×106 egységenként |
 
-| pH | 6,4–7,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
+| pH | Legalább 6,4 a felhasználhatósági időtartam lejáratakor, 22 °C-ra korrigálva |
 
 | Friss fagyasztott plazma | Térfogat | Névleges térfogat ±10% |
 
@@ -195,3 +195,5 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 | Granulocita koncentrátum, aferezisből (egyedi) | Térfogat | Kevesebb, mint 500 ml |
 
 | Granulocita-tartalom | Több, mint 1×1010 granulocita egységenként |
+
+[^55]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a szerint módosított szöveg.
