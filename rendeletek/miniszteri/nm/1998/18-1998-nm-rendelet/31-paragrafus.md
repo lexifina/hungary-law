@@ -6,6 +6,6 @@
 
 (3) Nosocomialis megbetegedés előfordulását követően az egészségügyi szolgáltató érintett részlegének dolgozóinál szűrővizsgálatot kell végezni. Azt az egészségügyi dolgozót, aki nosocomialis járványt okozó kórokozót hordoz (ürít), a betegellátástól (vizsgálat, ápolás, gyógykezelés) el kell tiltani.
 
-(4)[^105] A HIV-pozitív, valamint a fertőzőképes krónikus hepatitis B és hepatitis C vírushordozó egészségügyi dolgozó nem tölthet be olyan munkakört, melyben expozícióra hajlamosító invazív beavatkozásokat végeznek. A fokozott expozíciós kockázattal járó beavatkozásokat és a korlátozás megszüntetésének feltételeit a 2. számú melléklet tartalmazza.
+(4)[^106] A HIV-pozitív, valamint a fertőzőképes krónikus hepatitis B és hepatitis C vírushordozó egészségügyi dolgozó nem tölthet be olyan munkakört, melyben expozícióra hajlamosító invazív beavatkozásokat végeznek. A fokozott expozíciós kockázattal járó beavatkozásokat és a korlátozás megszüntetésének feltételeit a 2. számú melléklet tartalmazza.
 
-[^105]: A 31. § (4) bekezdésének utolsó mondata a 9/2002. (III. 12.) EüM rendelet 3. §-ával megállapított szöveg.
+[^106]: A 31. § (4) bekezdésének utolsó mondata a 9/2002. (III. 12.) EüM rendelet 3. §-ával megállapított szöveg.

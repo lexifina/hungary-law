@@ -44,13 +44,13 @@ f) súlyos oltási szövődmény vagy oltási baleset előfordulásakor helyszí
 
 (4) Az Országos Tisztifőorvosi Hivatal
 
-a)[^74] meghatározza az állami egészségügyi tartalékban szereplő oltóanyagok milyenségét és mennyiségét, és ezek tekintetében javaslatot tesz az egészségügyért felelős miniszternek a szükséges költségvetési források mértéke tekintetében,
+a)[^74] meghatározza az állami egészségügyi tartalék kezelőjénél tárolandó oltóanyagok típusát és mennyiségét, gondoskodik az ehhez szükséges költségvetési források tervezéséről és az oltóanyagok beszerzéséről,
 
-b) felügyeli és engedélyezi az állami egészségügyi tartalék keretében tárolt oltóanyagok kiadását,
+b)[^75] felügyeli az állami egészségügyi tartalék kezelőjénél az oltóanyagok szakszerű tárolását, rendelkezik azok cseréjéről, illetve kiadásáról,
 
 c) az OEK-kel együttműködve figyelemmel kíséri a hazai védőoltási tevékenységet, közreműködik a hazai éves oltóanyagterv elkészítésében és az új védőoltások bevezetésére vonatkozó javaslat előkészítésében.
 
-(5)[^75] Az országos tisztifőorvos járványveszély esetén úgy rendelkezhet, hogy a járványveszélyt kiváltó betegség elleni védőoltásban az 5. § (1) bekezdése szerinti személyek részesülhetnek.
+(5)[^76] Az országos tisztifőorvos járványveszély esetén úgy rendelkezhet, hogy a járványveszélyt kiváltó betegség elleni védőoltásban az 5. § (1) bekezdése szerinti személyek részesülhetnek.
 
 [^65]: A 16. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
 [^66]: A 16. § (1) bekezdésének a) pontja a 30/2009. (X. 14.) EüM rendelet 11. § (3) bekezdésének f) pontja szerint módosított szöveg. E módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
@@ -61,5 +61,6 @@ c) az OEK-kel együttműködve figyelemmel kíséri a hazai védőoltási tevék
 [^71]: A 16. § (2) bekezdés d) pontja a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés g) pont gb) alpontja szerint módosított szöveg.
 [^72]: A 16. § (3) bekezdésének d) pontja a 33/2006. (VIII. 23.) EüM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^73]: A 16. § (3) bekezdés e) pontja a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés g) pont gc) alpontja szerint módosított szöveg.
-[^74]: A 16. § (4) bekezdésének a) pontja a 13/2008. (IV. 8.) EüM rendelet 4. §-ával megállapított, valamint a 30/2009. (X. 14.) EüM rendelet 11. § (2) bekezdésének d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
-[^75]: A 16. § (5) bekezdését a 39/2009. (XI. 19.) EüM rendelet 1. §-a iktatta be.
+[^74]: A 16. § (4) bekezdés a) pontja a 43/2011. (VII. 7.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^75]: A 16. § (4) bekezdés b) pontja a 43/2011. (VII. 7.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^76]: A 16. § (5) bekezdését a 39/2009. (XI. 19.) EüM rendelet 1. §-a iktatta be.

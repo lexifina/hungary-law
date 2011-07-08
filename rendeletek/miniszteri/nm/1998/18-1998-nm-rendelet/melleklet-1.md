@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^143]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^144]
 
 Be- és kijelentésre kötelezett betegségek felsorolása
 
@@ -4252,4 +4252,4 @@ BNO10: B00.1
 
 6. Teendők a betegség előfordulásakor:
 
-[^143]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a, a 10/2011. (III. 30.) NEFMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^144]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a, a 10/2011. (III. 30.) NEFMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
