@@ -1,6 +1,6 @@
 81. § (1) A miniszter a foglalkoztatáspolitikáért való felelőssége körében
 
-a)[^243] előkészíti különösen – a mezőgazdasági foglalkoztatás tekintetében a vidékfejlesztési miniszter együttműködésével – a munkaviszonnyal, a közalkalmazotti jogviszonnyal, a bérpolitika kialakításával, a munkáltató fizetésképtelensége esetén igénybe vehető bérgarancia-támogatással, a foglalkoztatás elősegítésével – ide nem értve a foglalkoztatási rehabilitációt – és az álláskeresők támogatásával, a munkaügyi kapcsolatokkal, a külföldiek magyarországi foglalkoztatásának engedélyezésével, a munkaügyi ellenőrzéssel és az egészséget nem veszélyeztető és biztonságos munkavégzés szabályaival kapcsolatos jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
+a)[^244] előkészíti különösen – a mezőgazdasági foglalkoztatás tekintetében a vidékfejlesztési miniszter együttműködésével – a munkaviszonnyal, a közalkalmazotti jogviszonnyal, a bérpolitika kialakításával, a munkáltató fizetésképtelensége esetén igénybe vehető bérgarancia-támogatással, a foglalkoztatás elősegítésével – ide nem értve a foglalkoztatási rehabilitációt – és az álláskeresők támogatásával, a munkaügyi kapcsolatokkal, a külföldiek magyarországi foglalkoztatásának engedélyezésével, a munkaügyi ellenőrzéssel és az egészséget nem veszélyeztető és biztonságos munkavégzés szabályaival kapcsolatos jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
 b) kidolgozza a Kormány foglalkoztatás-politikai, valamit az érintett miniszterekkel együttműködve az életszínvonal-politikai és térségi kohéziós politikai koncepcióját, és érvényesíti azokat egyéb kormányzati koncepciók és programok kialakításánál,
 
@@ -8,13 +8,13 @@ c) ellátja a foglalkoztatáspolitika koordinációjával kapcsolatos feladatoka
 
 d) meghatározza a foglalkoztatáspolitika – ide nem értve a foglalkoztatási rehabilitációt – és az álláskeresők ellátásának eszközrendszerét, elemzi és ellenőrzi annak működését,
 
-e)[^244] programokat dolgoz ki a munkaerőpiacon hátrányos helyzetben lévők foglalkoztatására, valamint a foglalkoztatási válsághelyzetekből adódó kedvezőtlen munkaerőpiaci hatások csökkentésére,
+e)[^245] programokat dolgoz ki a munkaerőpiacon hátrányos helyzetben lévők foglalkoztatására, valamint a foglalkoztatási válsághelyzetekből adódó kedvezőtlen munkaerőpiaci hatások csökkentésére,
 
 f) a nemzeti erőforrás miniszterrel együttműködve javaslatokat dolgoz ki az atipikus foglalkoztatás bővítésére,
 
 g) meghatározza a Nemzeti Foglalkoztatási Szolgálat szakmai felügyeleti rendszerét, a jogszabályok keretei között rendelkezik a Munkaerőpiaci Alap felett, a szakképzési alaprész tekintetében a nemzeti erőforrás miniszterrel együttműködve,
 
-h)[^245]
+h)[^246]
 
 i) meghatározza a munkaerőpiaci szolgáltatások szabályait és irányítja a munka-, pálya-, álláskeresési, foglalkoztatási tanácsadással kapcsolatos feladatokat,
 
@@ -28,13 +28,13 @@ m) kidolgozza a kormányzati bérpolitikára vonatkozó javaslatokat,
 
 n) koordinálja a versenyszféra keresetalakulásának befolyásolását célzó, érdekegyeztetéssel kapcsolatos kormányzati teendőket és a költségvetési intézményi szféra bérpolitikáját,
 
-o)[^246] kidolgozza az érdekegyeztető tárgyalásokon a versenyszféra keresetalakulására és a kötelező legkisebb munkabér meghatározására vonatkozó kormányzati tárgyalási pozíciókat,
+o)[^247] kidolgozza az érdekegyeztető tárgyalásokon a versenyszféra keresetalakulására és a kötelező legkisebb munkabér meghatározására vonatkozó kormányzati tárgyalási pozíciókat,
 
 p) előterjeszti a Kormánynak – az érdekelt miniszterekkel együttműködve – a költségvetési intézményi szféra illetményrendszereinek összehangolt alakítására vonatkozó javaslatokat,
 
 q) értékeli a szektorok, ágazatok, szakmák kereseti viszonyait,
 
-r)[^247] irányítja – a nemzeti erőforrás miniszterrel együttműködve – a munkavédelem országos programjának végrehajtását,
+r)[^248] irányítja – a nemzeti erőforrás miniszterrel együttműködve – a munkavédelem országos programjának végrehajtását,
 
 s) az érintett szervekkel együttműködve meghatározza az egészséget nem veszélyeztető és biztonságos munkavégzést biztosító szabályokat, ideértve a munkahelyek, a munkaeszközök, az egyéni védőeszközök, a munkakörülményi tényezők és a munkaalkalmasság követelményeit,
 
@@ -110,16 +110,16 @@ i) gondoskodik a civil szektort érintő minisztériumi szintű elképzelések �
 
 j) elősegíti a civil szektor szervezeteinek részvételét a közfeladatok ellátásában,
 
-k)[^248] részt vesz a közigazgatási és igazságügyi miniszternek a Nemzeti Civil Alapprogrammal kapcsolatos kormányzati feladatai összehangolásában,
+k)[^249] részt vesz a közigazgatási és igazságügyi miniszternek a Nemzeti Civil Alapprogrammal kapcsolatos kormányzati feladatai összehangolásában,
 
-l)[^249]
+l)[^250]
 
 m) működteti az Országos Érdekegyeztető Tanácsot, az Országos Közszolgálati Érdekegyeztető Tanácsot, a Közalkalmazottak Országos Munkaügyi Tanácsát, a Foglalkoztatáspolitikai és Munkaügyi Érdekegyeztető Tanácsot.
 
-[^243]: A 81. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^244]: A 81. § (1) bekezdés e) pontja a 90/2011. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^245]: A 81. § (1) bekezdés h) pontját a 90/2011. (VI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^246]: A 81. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^247]: A 81. § (1) bekezdés r) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^248]: A 81. § (3) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés d) pontja, 41. § (35) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^249]: A 81. § (3) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (35) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^244]: A 81. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^245]: A 81. § (1) bekezdés e) pontja a 90/2011. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^246]: A 81. § (1) bekezdés h) pontját a 90/2011. (VI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^247]: A 81. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^248]: A 81. § (1) bekezdés r) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^249]: A 81. § (3) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés d) pontja, 41. § (35) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^250]: A 81. § (3) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (35) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2011-06-17 | 2010-212-20-22.11 | 90/2011. (VI. 14.) Korm. rendelet |
 | 2011-07-01 | 2010-212-20-22.12 | 90/2011. (VI. 14.) Korm. rendelet |
 | 2011-07-06 | 2010-212-20-22.13 | 94/2011. (VI. 28.) Korm. rendelet |
+| 2011-07-08 | 2010-212-20-22.14 | 113/2011. (VII. 7.) Korm. rendelet |
