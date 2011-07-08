@@ -2,9 +2,9 @@
 
 7. § (1) A TEKI, CÉDE, LEKI és TEUT előirányzatok terhére támogatás csak nyílt pályázati rendszerben ítélhető meg.
 
-(2)[^23] A befogadott pályázatok – pályázati útmutató részét képező előirányzatonként kialakított értékelési szempontrendszer alapján történő – értékelését a Tanács elnöke által felállított szakértői bizottság végzi.
+(2)[^24] A befogadott pályázatok – pályázati útmutató részét képező előirányzatonként kialakított értékelési szempontrendszer alapján történő – értékelését a Tanács elnöke által felállított szakértői bizottság végzi.
 
-(3)[^24] A szakértői bizottság e bekezdés a)–c) pontjai szerint előkészített javaslata alapján a Tanács dönt. A döntés
+(3)[^25] A szakértői bizottság e bekezdés a)–c) pontjai szerint előkészített javaslata alapján a Tanács dönt. A döntés
 
 a) elutasító, amennyiben
 
@@ -12,7 +12,7 @@ aa) a pályázat nem felelt meg a jogszabályban vagy a jogszabály alapján a p
 
 ab) a pályázat értékelésében szereplő pontszám nem érte el az egy pályázatra adható legmagasabb pontszám 60%-át, vagy
 
-ac)[^25] a rendelkezésre álló keret lekötésre került, vagy
+ac)[^26] a rendelkezésre álló keret lekötésre került, vagy
 
 ad) a szakértői bizottság támogatási döntést előkészítő javaslatában indoklás mellett elutasításra javasolta;
 
@@ -62,7 +62,7 @@ A Tanács a pályázati értékelőrendszerének kialakítása és a pályázato
 
 (12) Az óvodai nevelési, valamint az általános iskolai oktatási és nevelési feladatokat ellátó intézmények felújítására, fejlesztésére benyújtott pályázatok elbírálásánál az értékelőrendszer összeállítása során biztosítani kell a fejlesztés hatékony fenntarthatóságával és működtetésével, valamint az ellátási feszültség kezelésével (férőhelyhiány) kapcsolatos szempont szerinti értékelést.
 
-(13)[^26] A Tanács a pályázatok elbírálásától számított 10 munkanapon belül tájékoztatja a kedvezményezettet, illetve 5 munkanapon belül közzéteszi saját honlapján a pályázatok elbírálása tárgyában hozott döntéseit – az NFM által jóváhagyott közzétételi adatlapon –, továbbá kezdeményezi az NFM-nél azok honlapon történő közzétételét. Az NFM honlapján történő közzététel minősül hivatalos közzétételnek, amely térítésmentes. A Tanács a döntési adatokkal együtt megküldi a tartaléklistás pályázatok adatait is mind az első, mind a második forduló esetén az NFM részére. Az NFM a TEKI, CÉDE, LEKI és TEUT előirányzatok terhére hozott támogatási és tartaléklistás döntésekről az BM-et tájékoztatja. A közzététel minimális tartalma:
+(13)[^27] A Tanács a pályázatok elbírálásától számított 10 munkanapon belül tájékoztatja a kedvezményezettet, illetve 5 munkanapon belül közzéteszi saját honlapján a pályázatok elbírálása tárgyában hozott döntéseit – az NFM által jóváhagyott közzétételi adatlapon –, továbbá kezdeményezi az NFM-nél azok honlapon történő közzétételét. Az NFM honlapján történő közzététel minősül hivatalos közzétételnek, amely térítésmentes. A Tanács a döntési adatokkal együtt megküldi a tartaléklistás pályázatok adatait is mind az első, mind a második forduló esetén az NFM részére. Az NFM a TEKI, CÉDE, LEKI és TEUT előirányzatok terhére hozott támogatási és tartaléklistás döntésekről az BM-et tájékoztatja. A közzététel minimális tartalma:
 
 a) a pályázati felhívás tárgya, a támogatást biztosító előirányzatok megnevezése, a döntéshozó megnevezése, a döntés ideje;
 
@@ -74,15 +74,15 @@ b) a nyertes pályázatokra vonatkozó adatok: kedvezményezett megnevezése, sz
 
 (16) Az Igazgatóság az MR-be átadja az Ámr. 8/b. számú melléklete szerinti, döntéshozó által kitöltött adatlap adatait. Az Igazgatóság rögzíti az 1. § (1) bekezdés a) pontjában meghatározott előirányzatok vonatkozásában a (19) bekezdésben meghatározott döntési adatlap adatait.
 
-(17)[^27] A pályázati rendszerrel, az elbírálással és a pályázati célok megvalósulásával kapcsolatban az NFM és BM tájékoztatást kérhet a Tanácstól, valamint a Kincstártól, a tájékoztatás megadására legalább 8 munkanapot kell biztosítani.
+(17)[^28] A pályázati rendszerrel, az elbírálással és a pályázati célok megvalósulásával kapcsolatban az NFM és BM tájékoztatást kérhet a Tanácstól, valamint a Kincstártól, a tájékoztatás megadására legalább 8 munkanapot kell biztosítani.
 
 (18) A korábbi évek előirányzatai terhére hozott döntésekhez kapcsolódó lemondásból, visszavonásból, továbbá közbeszerzés miatti összköltségcsökkenésből eredő összegről a Tanács új támogató döntést nem hozhat.
 
-(19)[^28] A Kincstár az 1. § (1) bekezdés a) pontjában meghatározott előirányzatok vonatkozásában előkészíti a döntési, illetve az elszámoló adatlap, a lemondó nyilatkozat, továbbá a támogatási szerződés, a kedvezményezett azonosító- vagy alapadatainak változására vonatkozó formanyomtatvány mintáját, amelyet jóváhagyás céljából megküld az NFM és BM részére. A Kincstár az NFM és BM által jóváhagyott adatlap és támogatási szerződés mintát legkésőbb tárgyév április 30-áig megküldi a Tanács részére.
+(19)[^29] A Kincstár az 1. § (1) bekezdés a) pontjában meghatározott előirányzatok vonatkozásában előkészíti a döntési, illetve az elszámoló adatlap, a lemondó nyilatkozat, továbbá a támogatási szerződés, a kedvezményezett azonosító- vagy alapadatainak változására vonatkozó formanyomtatvány mintáját, amelyet jóváhagyás céljából megküld az NFM és BM részére. A Kincstár az NFM és BM által jóváhagyott adatlap és támogatási szerződés mintát legkésőbb tárgyév április 30-áig megküldi a Tanács részére.
 
-[^23]: A 7. § (2) bekezdése a 112/2009. (V. 27.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^24]: A 7. § (3) bekezdésének bevezető szövegrésze a 112/2009. (V. 27.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^25]: A 7. § (3) bekezdésének ac) alpontja a 112/2009. (V. 27.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^26]: A 7. § (13) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
-[^27]: A 7. § (17) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
-[^28]: A 7. § (19) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdése a 112/2009. (V. 27.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^25]: A 7. § (3) bekezdésének bevezető szövegrésze a 112/2009. (V. 27.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^26]: A 7. § (3) bekezdésének ac) alpontja a 112/2009. (V. 27.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^27]: A 7. § (13) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^28]: A 7. § (17) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^29]: A 7. § (19) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.

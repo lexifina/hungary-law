@@ -34,6 +34,6 @@ f) helyi önkormányzatok alapfeladatainak ellátásához kapcsolódó egészsé
 
 (4) A rendelkezésre álló keret legalább 60%-a az (1) bekezdés b) pontjában meghatározott célokra fordítandó, kivéve, amennyiben ezen célokra benyújtott és befogadott támogatási igények nem érik el ezen keretösszeget.
 
-(5)[^52] Az (1) bekezdés ac) alpont szerinti alcélra megítélt támogatások ellenőrzése esetén az ellenőrzésről kiállított ellenőrzési jegyzőkönyv egy másolati példányát az Igazgatóság tájékoztatásul megküldi az NFM miniszter által kinevezett szakértő részére.
+(5)[^53] Az (1) bekezdés ac) alpont szerinti alcélra megítélt támogatások ellenőrzése esetén az ellenőrzésről kiállított ellenőrzési jegyzőkönyv egy másolati példányát az Igazgatóság tájékoztatásul megküldi az NFM miniszter által kinevezett szakértő részére.
 
-[^52]: A 23. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^53]: A 23. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.

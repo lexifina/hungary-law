@@ -18,9 +18,9 @@ c) a kedvezményezett a támogatási szerződésben, illetve a 15. § szerint m�
 
 (5) A kamatot a támogatás igénybevételétől a visszafizetés napjáig kell felszámítani a 21. § (3) bekezdése szerint.
 
-(6)[^47] A visszavont támogatást és kamatait a visszavonó döntésről szóló értesítés kézhezvételétől számított 20 munkanapon belül a támogatási szerződésben meghatározott számlaszámra kell befizetni, a támogatási szerződés számának feltüntetésével.
+(6)[^48] A visszavont támogatást és kamatait a visszavonó döntésről szóló értesítés kézhezvételétől számított 20 munkanapon belül a támogatási szerződésben meghatározott számlaszámra kell befizetni, a támogatási szerződés számának feltüntetésével.
 
-(7)[^48] Abban az esetben, ha a támogatás és kamata befizetésére a (6) bekezdésben meghatározott időpontnál később kerül sor, az eltelt időszakra késedelmi kamatot kell fizetni, melynek mértéke a jegybanki alapkamat kétszerese.
+(7)[^49] Abban az esetben, ha a támogatás és kamata befizetésére a (6) bekezdésben meghatározott időpontnál később kerül sor, az eltelt időszakra késedelmi kamatot kell fizetni, melynek mértéke a jegybanki alapkamat kétszerese.
 
 (8) Amennyiben a (2) vagy (4) bekezdésben foglaltak szerinti visszavonásból adódó visszafizetési kötelezettség egy összegben történő teljesítése a kedvezményezett gazdálkodását súlyosan veszélyeztetné, a kedvezményezett a (6) bekezdésben foglalt határidőn belül a Tanácshoz benyújtott kezdeményezése esetén lehetőség van a kötelezettség részletekben történő teljesítésére. A részletfizetési kezdeményezés elfogadásáról, valamint a törlesztés időbeli ütemezéséről a Tanács saját hatáskörében eljárva dönt.
 
@@ -32,5 +32,5 @@ c) a kedvezményezett a támogatási szerződésben, illetve a 15. § szerint m�
 
 (12) Az e rendelet által meghatározott visszatérítési vagy visszafizetési kötelezettség méltányossági okokból történő mérséklésére vagy elengedésére nincs lehetőség.
 
-[^47]: A 20. § (6) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^48]: A 20. § (7) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^48]: A 20. § (6) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 20. § (7) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.

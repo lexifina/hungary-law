@@ -6,7 +6,7 @@
 
 (2) E rendelet alapján támogatási döntést csekély összegű (de minimis) rendelet hatálya alá tartozó támogatások tekintetében 2009. december 31-ig lehet hozni.
 
-(2a)[^73] E rendeletnek az egyes fejlesztési tárgyú kormányrendeletek módosításáról szóló 370/2010. (XII. 31.) Korm. rendelettel (a továbbiakban: Korm. rendelet) megállapított 28. § (3) bekezdését a Korm. rendelet hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.
+(2a)[^74] E rendeletnek az egyes fejlesztési tárgyú kormányrendeletek módosításáról szóló 370/2010. (XII. 31.) Korm. rendelettel (a továbbiakban: Korm. rendelet) megállapított 28. § (3) bekezdését a Korm. rendelet hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.
 
 (3) E rendelet
 
@@ -16,4 +16,4 @@ b) az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdéséne
 
 (4) A 23. § (1) bekezdés f) pontja, a 24. § (2) bekezdésének g) pontja és 25. § (2) bekezdésének g) pontja alapján nem nyújtható az Európai Közösséget létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó támogatás.
 
-[^73]: A 33. § (2a) bekezdését a 370/2010. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^74]: A 33. § (2a) bekezdését a 370/2010. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
