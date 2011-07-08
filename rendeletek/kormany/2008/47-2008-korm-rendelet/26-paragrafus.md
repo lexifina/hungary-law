@@ -1,4 +1,4 @@
-## 25. §[^27]
+## 25. §[^30]
 
 ## V. Fejezet
 
@@ -12,4 +12,4 @@
 
 (4) A 18. § (2) bekezdés g) pontja alapján nem nyújtható az Európai Közösséget létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó támogatás.
 
-[^27]: A 25. §-t a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^30]: A 25. §-t a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.

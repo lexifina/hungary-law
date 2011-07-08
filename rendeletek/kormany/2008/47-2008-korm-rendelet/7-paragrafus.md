@@ -20,9 +20,9 @@ A 18. § (2) bekezdés d) pontja szerinti cél esetében a megítélhető támog
 
 (7) A támogatás csak abban az esetben igényelhető az ÁFA összegét is tartalmazó fejlesztési összköltség alapján, ha a kedvezményezettnek a támogatásból megvalósított cél kapcsán ÁFA-levonási joga nincs.
 
-(8)[^14] Ha jogszabályváltozás vagy hatósági intézkedés miatt a támogatással folyamatban lévő beruházás műszaki tartalmának megváltoztatása szükséges, úgy indokolt esetben a kedvezményezett kérheti a beruházás műszaki tartalmának módosítását. A kérelmek engedélyezéséről a támogatási döntést hozó szerv dönt. E döntéseiről a támogatási döntést hozó szerv a döntést követő 8 munkanapon belül írásban tájékoztatja a minisztert.
+(8)[^16] Ha jogszabályváltozás vagy hatósági intézkedés miatt a támogatással folyamatban lévő beruházás műszaki tartalmának megváltoztatása szükséges, úgy indokolt esetben a kedvezményezett kérheti a beruházás műszaki tartalmának módosítását. A kérelmek engedélyezéséről a támogatási döntést hozó szerv dönt. E döntéseiről a támogatási döntést hozó szerv a döntést követő 8 munkanapon belül írásban tájékoztatja a minisztert.
 
-(9)[^15] A (8) bekezdés szerinti műszaki tartalom módosítására irányuló kérelemben az önkormányzat, társulás
+(9)[^17] A (8) bekezdés szerinti műszaki tartalom módosítására irányuló kérelemben az önkormányzat, társulás
 
 a) ismerteti a beruházás műszaki tartalmának megváltoztatását előidéző okokat és körülményeket,
 
@@ -32,8 +32,8 @@ c) a hatósági intézkedést alátámasztó dokumentumot, és
 
 d) szükség esetén az illetékes hatóság engedélyének hiteles másolatát.
 
-(10)[^16] A beruházás műszaki tartalmának változtatásából származó többletköltség miatt a kedvezményezettet a beruházás elfogadott összköltségéhez képest további támogatás nem illeti meg.
+(10)[^18] A beruházás műszaki tartalmának változtatásából származó többletköltség miatt a kedvezményezettet a beruházás elfogadott összköltségéhez képest további támogatás nem illeti meg.
 
-[^14]: A 7. § (8) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.
-[^15]: A 7. § (9) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.
-[^16]: A 7. § (10) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.
+[^16]: A 7. § (8) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.
+[^17]: A 7. § (9) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.
+[^18]: A 7. § (10) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell; alkalmazására lásd még e módosító rendelet 18. § (4) bekezdés a) pontját.

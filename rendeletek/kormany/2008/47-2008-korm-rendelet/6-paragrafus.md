@@ -1,12 +1,12 @@
 ## Pályázati díj
 
-6. § (1)[^12] Pályázati díjként a támogatási igény 1%-át, de minimum 10 000 Ft-ot, maximum 250 000 Ft-ot kell befizetni a Tanács pályázati felhívásában megjelölt, a Kincstár által vezetett számlájára. A díjakról elkülönített nyilvántartást kell vezetni. A díjak a pályázati rendszer működtetésével összefüggő kiadások fedezésére használhatók fel, felhasználásukról az Áht. 13/A. § (2) bekezdése, továbbá 1. § (10) bekezdése szerint el kell számolni. Az elszámolás módját az 1. § (10) bekezdésében meghatározott külön jogszabály tartalmazza.
+6. § (1)[^14] Pályázati díjként a támogatási igény 1%-át, de minimum 10 000 Ft-ot, maximum 250 000 Ft-ot kell befizetni a Tanács pályázati felhívásában megjelölt, a Kincstár által vezetett számlájára. A díjakról elkülönített nyilvántartást kell vezetni. A díjak a pályázati rendszer működtetésével összefüggő kiadások fedezésére használhatók fel, felhasználásukról az Áht. 13/A. § (2) bekezdése, továbbá 1. § (10) bekezdése szerint el kell számolni. Az elszámolás módját az 1. § (10) bekezdésében meghatározott külön jogszabály tartalmazza.
 
 (2) Mentesülnek a pályázati díj befizetése alól
 
 a) a HÖF CÉDE előirányzat pincék, természetes partfalak és földcsuszamlások megelőző jellegű veszélyelhárítása alcélra, továbbá
 
-b)[^13]
+b)[^15]
 
 c) a 311/2007. (XI. 17.) Korm. rendelet 2. melléklete szerinti leghátrányosabb helyzetben lévő kistérségből pályázó önkormányzatok.
 
@@ -26,5 +26,5 @@ Amennyiben a pályázat visszavonásáról szóló tájékoztatást a pályázó
 
 (5) A Tanács a forráshiány miatt támogatásban nem részesített pályázatok esetén a döntést követő legkésőbb 10 munkanapon belül vagy a tartaléklistáról forráshiány miatt támogatásban nem részesített pályázatok esetén a tárgyév végéig intézkedik a befizetett pályázati díjaknak a pályázók részére történő visszautalásáról.
 
-[^12]: A 6. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 41. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^13]: A 6. § (2) bekezdés b) pontját a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^14]: A 6. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 41. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^15]: A 6. § (2) bekezdés b) pontját a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.

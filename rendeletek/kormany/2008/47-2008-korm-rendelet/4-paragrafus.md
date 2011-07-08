@@ -20,7 +20,7 @@ b) a TEUT előirányzat legalább 25%-át, kivéve a Közép-magyarországi rég
 
 (7) A HÖF CÉDE és LEKI előirányzatok esetében, amennyiben a pályázat a településen vagy a társulásban közoktatással összefüggő feladatot érint, a pályázónak a pályázathoz csatolnia kell a közoktatásról szóló 1993. évi LXXIX. törvény 85. § (4) bekezdése alapján elkészítendő, a gyermekek, tanulók esélyegyenlőségét szolgáló intézkedéseket leíró települési, illetve társulási közoktatási esélyegyenlőségi tervet.
 
-(8) A HÖF TEKI, HÖF CÉDE és LEKI előirányzatok esetében a települési önkormányzat, a megyei önkormányzat (a továbbiakban együttesen: önkormányzat), az önkormányzati társulás és a többcélú kistérségi társulás (a továbbiakban együttesen: társulás), a TEUT előirányzat esetében a települési önkormányzat jogosult pályázat benyújtására. A pályázó a Kincstár – az önkormányzat székhelye vagy a társulás székhelye szerint területileg illetékes – regionális igazgatóságán (a továbbiakban: Igazgatóság) keresztül egy eredeti és a pályázati felhívásban meghatározott másolati példányszámban pályázatot nyújthat be a pályázati felhívásban foglaltaknak megfelelően a Tanácshoz. A másolati példányszámot úgy kell meghatározni, hogy a pályázatból egy-egy példány a pályázati rendszer lebonyolításában közreműködő szervezetek részére rendelkezésre álljon.
+(8)[^13] A HÖF TEKI, HÖF CÉDE és LEKI előirányzatok esetében a települési önkormányzat, a megyei önkormányzat (a továbbiakban együttesen: önkormányzat), az önkormányzati társulás és a többcélú kistérségi társulás (a továbbiakban együttesen: társulás), a TEUT előirányzat esetében a települési önkormányzat jogosult pályázat benyújtására. A pályázó a Kincstár – az önkormányzat székhelye vagy a társulás székhelye szerint területileg illetékes – területi szervén (a továbbiakban: Igazgatóság) keresztül egy eredeti és a pályázati felhívásban meghatározott másolati példányszámban pályázatot nyújthat be a pályázati felhívásban foglaltaknak megfelelően a Tanácshoz. A másolati példányszámot úgy kell meghatározni, hogy a pályázatból egy-egy példány a pályázati rendszer lebonyolításában közreműködő szervezetek részére rendelkezésre álljon.
 
 (9) A pályázatokat tárgyév május 15-éig lehet benyújtani.
 
@@ -43,3 +43,5 @@ c) a (10) bekezdés szerinti hiánypótlásnak a kedvezményezett nem vagy nem m
 (15) A Tanács a pályázati rendszer működtetését az illetékes regionális fejlesztési ügynökségen (a továbbiakban: ügynökség) keresztül látja el.
 
 (16) A pályázat befogadásáról, illetve minden, a pályázókat érintő tanácsi döntésről a pályázót az ügynökség írásban tájékoztatja. A pályázat befogadása nem kötelezi a Tanácsot a pályázat támogatására.
+
+[^13]: A 4. § (8) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 41. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A támogatás folyósítása
 
-11. § (1)[^20] A miniszter az 1. § (7) bekezdése szerinti feladatok ellátása érdekében megállapodást köt a Kincstárral.
+11. § (1)[^22] A miniszter az 1. § (7) bekezdése szerinti feladatok ellátása érdekében megállapodást köt a Kincstárral.
 
 (2) A támogatás saját és más forrásokkal arányosan a teljesítést igazoló számla vagy a fejlesztési célú pénzeszköz átadásáról szóló megállapodás alapján a Tanács döntéséről szóló adatlapnak megfelelő támogatási szerződésben rögzítettek szerint vehető igénybe.
 
@@ -26,11 +26,12 @@ f) a támogatás lehívására és folyósításra csak a fejlesztés befejezés
 
 (7) Amennyiben a Tanács azt állapítja meg, hogy nem a kedvezményezett hibájából ered a támogatásfolyósítási határidő be nem tartása, úgy írásban értesíti az Igazgatóságot a támogatás – (3) bekezdéssel összhangban lévő – folyósításának engedélyezéséről és annak határidejéről. A meghosszabbított határidő nem lehet későbbi a folyósításra nyitva álló határidőt követő 2 hónapnál, de legfeljebb a 12. § (1) bekezdésében rögzített határidőkig lehet a támogatást folyósítani. Az írásbeli engedély alapján az Igazgatóság gondoskodik a támogatás folyósításáról.
 
-(8)[^21] A HÖF CÉDE, HÖF TEKI, LEKI és TEUT előirányzatok esetében támogatási előleg adható a megítélt támogatás legfeljebb 40%-a mértékéig. Az igénybe vett előleg felhasználása számla, fejlesztési célú pénzeszköz átadására létrejött megállapodás alapján igazolható, amennyiben azok pénzügyi teljesítése megtörtént. A további támogatás igénybevétele az előleg felhasználásával történő elszámolást (az előleg felhasználására vonatkozó számla, illetve a fejlesztési célú pénzeszköz átadására létrejött megállapodás előleghez kapcsolódó részének pénzügyi teljesítését) követően a (2) bekezdés szerint vehető igénybe.
+(8)[^23] A HÖF CÉDE, HÖF TEKI, LEKI és TEUT előirányzatok esetében támogatási előleg adható a megítélt támogatás legfeljebb 40%-a mértékéig. Az igénybe vett előleg felhasználása számla, fejlesztési célú pénzeszköz átadására létrejött megállapodás alapján igazolható, amennyiben azok pénzügyi teljesítése megtörtént. A további támogatás igénybevétele az előleg felhasználásával történő elszámolást (az előleg felhasználására vonatkozó számla, illetve a fejlesztési célú pénzeszköz átadására létrejött megállapodás előleghez kapcsolódó részének pénzügyi teljesítését) követően a (2) bekezdés szerint vehető igénybe.
 
 (9) A Kincstár a támogatási szerződésben foglalt feladatok ellátásáért, a ténylegesen igénybe vett támogatás összege után 0,45%-os folyósítási jutalékot számít fel, amelyről a Kincstár – amennyiben az adott hónapban volt folyósítás – havonta számlát bocsát ki a kedvezményezett részére. A folyósítási jutalék összegét a számla alapján a kedvezményezett – a számla keltétől számított 15 munkanapon belül – átutalással teljesíti a támogatási szerződésben meghatározottak szerint.
 
-(10) A Kincstár adatot szolgáltat az (1) bekezdésben rögzített megállapodás alapján a miniszter és a Tanács felé a folyósításokról havi, féléves, valamint éves rendszerességgel, megyei és regionális bontásban.
+(10)[^24] A Kincstár adatot szolgáltat az (1) bekezdésben rögzített megállapodás alapján a miniszter és a Tanács felé a folyósításokról havi, féléves, valamint éves rendszerességgel, megyei bontásban.
 
-[^20]: A 11. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 41. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^21]: A 11. § (8) bekezdése a 112/2009. (V. 27.) Korm. rendelet 7. § (8) bekezdésével megállapított szöveg.
+[^22]: A 11. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 41. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^23]: A 11. § (8) bekezdése a 112/2009. (V. 27.) Korm. rendelet 7. § (8) bekezdésével megállapított szöveg.
+[^24]: A 11. § (10) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 42. §-a szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 (4) A támogatási szerződések módosításának – amelynek előkészítése és aláírása során a (3) bekezdés szerint jár el az Igazgatóság – előkészítése a Tanács támogatási döntés módosításáról szóló döntése alapján az Igazgatóság feladata. A támogatási szerződések és azok módosításainak adatait az Igazgatóság nyilvántartja.
 
-(5)[^19] Amennyiben a támogatási szerződések módosítása a támogatott azonosító vagy alapadatainak (pl. cím, fizetési számlaszám változás) változására vonatkozik, úgy az erről szóló tájékoztató alapján, a Tanács döntése nélkül az Igazgatóság előkészíti a támogatási szerződés módosítását.
+(5)[^21] Amennyiben a támogatási szerződések módosítása a támogatott azonosító vagy alapadatainak (pl. cím, fizetési számlaszám változás) változására vonatkozik, úgy az erről szóló tájékoztató alapján, a Tanács döntése nélkül az Igazgatóság előkészíti a támogatási szerződés módosítását.
 
 (6) Amennyiben a fejlesztés a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: közbeszerzési törvény) hatálya alá tartozik, a támogatási szerződésben ki kell kötni, hogy a támogatás igénylése csak a közbeszerzési eljárás lefolytatását, a közbeszerzési és tervpályázati hirdetmények, a bírálati összegezések és az éves statisztikai összegezések mintáiról szóló 2/2006. (I. 13.) IM rendelet szerinti, a közbeszerzés eredményéről szóló tájékoztató és a létrejött szerződések Igazgatósághoz történő benyújtását követően kezdeményezhető. Az Igazgatóság a közbeszerzés lefolytatásáról a dokumentumok másolatának megküldésével tájékoztatja a Tanácsot.
 
@@ -64,4 +64,4 @@ h) az előleggel a kedvezményezett nem számol el a támogatási szerződésben
 
 (12) Az e rendeletben meghatározott előirányzatokból megvalósult beruházások vagy felújítások esetén a támogatás kedvezményezettje a támogatási szerződésben foglaltaknak megfelelően köteles gondoskodni arról, hogy a megvalósult fejlesztés átadását követően azon jól látható és olvasható, központi helyen a támogatási szerződésben meghatározott tartalmi és formai követelményeknek megfelelő, állandó tájékoztatást szolgáló tábla kerüljön elhelyezésre a befejezést követő 5. év végéig.
 
-[^19]: A 10. § (5) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^21]: A 10. § (5) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 52. §-a szerint módosított szöveg.

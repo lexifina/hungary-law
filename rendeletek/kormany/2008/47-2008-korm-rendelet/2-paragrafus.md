@@ -8,7 +8,7 @@
 
 3. felújítás: a számviteli törvény 3. § (4) bekezdés 8. pontjában meghatározott tevékenység,
 
-4.[^11]
+4.[^12]
 
 5. humán-infrastruktúra fejlesztés: az oktatás (alap- és középfokú oktatás), a művelődés, az egészségügy, a szociális ellátás (szociális és családügy), valamint a sport területén megvalósuló fejlesztés,
 
@@ -42,4 +42,4 @@ c) az Étv. 2. § 11. és 20. pontjában meghatározott helyi építési szabál
 
 17. többcélú kistérségi társulás: a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján létrejött önkormányzati társulás.
 
-[^11]: A 2. § 4. pontját a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^12]: A 2. § 4. pontját a 33/2009. (II. 20.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
