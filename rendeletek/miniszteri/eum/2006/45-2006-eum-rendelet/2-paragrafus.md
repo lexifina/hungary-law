@@ -10,7 +10,12 @@ a) egyéb ellátás szükségességének felmerülte, vagy
 
 b) időleges állapotváltozás
 
+## miatt az ellátás várólista- vagy betegfogadási lista sorrend szerinti nyújtásának eredményessége várhatóan lényegesen eltérne a sorrendtől való eltérés esetében elérhető eredményességtől, és mindez nem jár a várólista- vagy betegfogadási lista sorrend megváltoztatásával érintett további betegek számára a várható eredményesség számottevő csökkenésével. Az adott ellátásra vonatkozóan a várható eredmény megítélésének részletes orvos-szakmai szabályait a várólista protokoll tartalmazza.
+
+(4)[^5] A biztosított akkor jogosult az Ebtv. 20. § (1) bekezdés b) pontjában meghatározott – és annak részeként kezdeményezett további – ellátásoknak az Ebtv. 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli igénybevételére, ha a jogosultsági ellenőrzés eredménye alapján táppénz, baleseti táppénz igénybevételére jogosult, és ugyanazon betegségéből adódóan folyamatosan legalább 15 napja keresőképtelen, valamint a keresőképtelen állományba vevő orvos vagy a felülvéleményező főorvos a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 3/A. § (10a) bekezdése szerinti beutalót kiállította.
+
 [^1]: Az 1. § a 4/2010. (II. 9.) EüM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 4/2010. (II. 9.) EüM rendelet 2. § a)–b) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdése a 4/2010. (II. 9.) EüM rendelet 2. § b)–c) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés bevezető és záró szövegrésze a 4/2010. (II. 9.) EüM rendelet 2. § b) és d) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdését a 44/2011. (VII. 7.) NEFMI rendelet 2. §-a iktatta be.
