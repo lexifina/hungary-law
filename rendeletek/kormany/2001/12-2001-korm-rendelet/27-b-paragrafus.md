@@ -1,4 +1,4 @@
-27/B. §[^195] (1) A központi költségvetés bérlakásállomány növelését szolgáló Állami Bérlakás Program előirányzatából, a települések népességmegtartó képességének növelése érdekében,
+27/B. §[^196] (1) A központi költségvetés bérlakásállomány növelését szolgáló Állami Bérlakás Program előirányzatából, a települések népességmegtartó képességének növelése érdekében,
 
 a) szociális elhelyezés alapján történő bérbeadás céljából, vagy
 
@@ -26,4 +26,4 @@ pályázat útján vissza nem térítendő támogatást igényelhet használt la
 
 (11) A pályázat részletes feltételeit, valamint az elbírálása során alkalmazandó, a nyertes pályázók kiválasztását elősegítő szempontrendszert a pályázati útmutató tartalmazza.
 
-[^195]: A 27/B. §-t a 74/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^196]: A 27/B. §-t a 74/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
