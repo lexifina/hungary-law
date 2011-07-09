@@ -38,7 +38,9 @@ s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági 
 
 t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/EK tanácsi rendelet, a 2201/2003/EK tanácsi rendelet és a 4/2009/EK tanácsi rendelet alapján,
 
-u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás.
+u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás,
+
+v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 

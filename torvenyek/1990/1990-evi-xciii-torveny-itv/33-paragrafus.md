@@ -34,7 +34,7 @@ cb) a házassági anyakönyvből a házastárs részére,
 
 cc) a halotti anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
 
-d) a tartásdíj külföldön való behajtása tárgyában New Yorkban 1957. június 20-án kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 53. törvényerejű rendelet alapján folyó eljárás céljára;
+d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,
 
 e) a szülők házassági anyakönyvi kivonatának a gyermek születésének anyakönyvezéséhez;
 
