@@ -1,0 +1,1 @@
+23. § Ha a kérelemmel érintett személy teljes hatályú apai elismerő nyilatkozatának beszerzése nem járt sikerrel és a kérelmező fenntartja a származás megállapítására vonatkozó határozat hozatalára irányuló kérelmét, a központi hatóság megkeresi a gyámhatóságot a származás megállapítása iránti per indításához szükséges hozzájárulás megadása és eseti gondnok kirendelése iránt.

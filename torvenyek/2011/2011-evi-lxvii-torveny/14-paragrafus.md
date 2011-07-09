@@ -1,0 +1,1 @@
+14. § Ha a kérelemnek, illetve a kérelem alapján a különleges intézkedés megtétele iránti megkeresésnek a megkeresett állam központi hatósága (a továbbiakban e fejezetben: megkeresett külföldi központi hatóság) részére történő továbbításának a Rendelet, a hágai egyezmény vagy a viszonossági nyilatkozat alapján nincs helye, a központi hatóság erről a kérelmezőt tájékoztatja.
