@@ -1,1 +1,0 @@
-## 41. § A decentralizált helyi önkormányzati fejlesztési támogatási programok előirányzatai, valamint a vis maior tartalék felhasználásának részletes szabályairól szóló 47/2008. (III. 5.) Korm. rendelet 4. § (8) bekezdésében a „regionális igazgatóságán” szövegrész helyébe a „területi szervén” szöveg lép.

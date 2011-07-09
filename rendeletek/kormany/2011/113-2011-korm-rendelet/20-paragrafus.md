@@ -1,3 +1,0 @@
-## 19. § Hatályát veszti a Rendelet 9. § (2) bekezdése, 15. § (1) bekezdés f) pontja, a 26. § (3) és (4) bekezdése, a 30. § g) pontja, a 32. § (3) bekezdésében az „és nettó kamatának” szövegrész, az 54. § (3) bekezdésében az „és az EDIS Bizottság” szövegrész, valamint a 41. §–45. §-ok.
-
-## 16. A megyei (fővárosi) közigazgatási hivataloknak a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatairól, a megalakulással és átalakulással kapcsolatos eljárás rendjéről, továbbá az egyeztető fórumok létrejöttének és működésének szabályairól szóló 258/2004. (IX. 16.) Korm. rendelet módosítása
