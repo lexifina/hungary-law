@@ -1,4 +1,4 @@
-53. § A kérelemben a félnek meg kell jelölnie
+53. § A kérelemben a félnek – a határon átnyúló tartási ügyben a központi hatóságnak a támogatás biztosítása iránti megkeresésben – meg kell jelölnie
 
 a) a kért támogatást,
 

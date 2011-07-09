@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2010-06-02 | 2010. évi XXXVIII. törvény | 2003-80-00-00.14 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2003-80-00-00.15 |
 | 2011-06-18 | 2010. évi CXXVII. törvény | 2003-80-00-00.16 |
+| 2011-07-09 | 2011. évi LXVII. törvény | 2003-80-00-00.17 |

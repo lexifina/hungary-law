@@ -4,7 +4,11 @@
 
 (2) Ha a fél képviseletét pártfogó ügyvédként jogi segítő nem vállalja, és ez – a határidőkre tekintettel – a jogainak sérelmével járhat, a fél az eljárási határidő elmulasztása esetén erre hivatkozással a perben igazolási kérelmet terjeszthet elő, a jogi segítségnyújtó szolgálat pedig részére – kérelmére – pártfogó ügyvédként jogi segítőt, ügyvédet vagy ügyvédi irodát rendelhet ki. A jogi segítségnyújtó szolgálat a kirendelésről a végzés egy kiadmányának egyidejű megküldésével, illetve amennyiben az eljáró bíróságról és a per ügyszámáról csak később szerez tudomást, a tudomásszerzést követően haladéktalanul megküldött végzéssel értesíti az eljáró bíróságot.
 
-(3) Amennyiben az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, a jogi segítségnyújtó szolgálat a fél kérelmére vagy hozzájárulásával, a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki.
+(3) A jogi segítségnyújtó szolgálat a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
+
+a) a fél kérelmére vagy hozzájárulásával, ha az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, vagy
+
+b) ha a támogatás nyújtására a külföldi fél határon átnyúló tartási ügyben történő jogi képviseletének biztosítása iránti központi hatósági megkeresés alapján kerül sor.
 
 (4) A jogi segítő
 
