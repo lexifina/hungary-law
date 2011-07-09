@@ -1,3 +1,0 @@
-## 2. § Az R. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az OVSZ területi szerve által véradásra behívott donornak a véradás során az utazással összefüggésben keletkezett indokolt és igazolt költségeit a vérgyűjtést végző megtéríti. A költségtérítés mértéke megegyezik a donornak az OVSZ által működtetett országos véradó nyilvántartó rendszerben szereplő, a donor által előzetesen írásban megadott értesítési címe, illetve ennek hiányában lakcíme és az ahhoz legközelebb eső vérellátó közötti, az adott távon a közösségi közlekedésben irányadó, a donor által igénybe vehető, a személyszállítási utazási kedvezményekről szóló jogszabályban meghatározott kedvezmény összegével csökkentett legolcsóbb díjtételű menetjegy árával.”
