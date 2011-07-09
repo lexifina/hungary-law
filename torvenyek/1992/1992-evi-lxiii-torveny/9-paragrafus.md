@@ -14,6 +14,6 @@ b) a harmadik ország és a Magyar Köztársaság között az érintetteknek a 1
 
 c) a harmadik országbeli adatkezelő vagy adatfeldolgozó az adatkezelés vagy adatfeldolgozás szabályainak ismertetésével igazolja, hogy az adatkezelés vagy adatfeldolgozás során megfelelő szinten biztosítja a személyes adatok védelmét, az érintettek jogait és azok érvényesítését, különösen, ha az adatkezelést vagy az adatfeldolgozást az Európai Unió Bizottsága külön törvényben meghatározott jogi aktusának megfelelően végzi.
 
-(3) Személyes adatok nemzetközi jogsegélyegyezmény végrehajtása érdekében, az egyezményben meghatározott célból és tartalommal továbbíthatók harmadik országba.
+(3) Személyes adatok a nemzetközi jogsegélyről, valamint a kettős adóztatás elkerüléséről szóló nemzetközi szerződés végrehajtása érdekében, a nemzetközi szerződésben meghatározott célból, feltételekkel és adatkörben – a (2) bekezdésben meghatározott feltételek hiányában is – továbbíthatók harmadik országba.
 
 (4) Az EGT-államokba irányuló adattovábbítást úgy kell tekinteni, mintha a Magyar Köztársaság területén belüli adattovábbításra kerülne sor.
