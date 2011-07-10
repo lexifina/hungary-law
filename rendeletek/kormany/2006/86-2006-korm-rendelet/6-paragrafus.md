@@ -6,7 +6,7 @@ a)[^10] a hallgatói hitelrendszer finanszírozása érdekében bevont források
 
 b) a hallgatók egységes kockázatközösségének törlesztés nem teljesítését fedező kockázati prémium,
 
-c) a hallgatói hitelrendszer működési költségét fedező prémium.
+c)[^11] a hallgatói hitelrendszer működési költségét és egyéb, bevételekkel nem ellentételezett ráfordításait fedező prémium.
 
 (2) A kamatszámítás módját a Diákhitel Központ az üzletszabályzatában határozza meg.
 
@@ -14,7 +14,7 @@ c) a hallgatói hitelrendszer működési költségét fedező prémium.
 
 (4) A Diákhitel Központ a hallgatói hitel kamatának megállapításakor figyelembe veendő kockázati prémium változását minden év május 31-éig aktuáriussal felülvizsgáltatja. Az aktuárius által megállapított kockázati prémium mértéket a Diákhitel Központ a hallgatói hitel soron következő két félévi kamatának meghatározásakor figyelembe veszi.
 
-(5) A Diákhitel Központ a működési költséget fedező prémium mértékét a Társaság könyvvizsgálatát végző könyvvizsgálóval – az éves beszámoló könyvvizsgálatával egyidejűleg – évente felülvizsgáltatni köteles. A felülvizsgálat eredményét a Diákhitel Központ a következő félévek hallgatói hitel kamatának megállapításához figyelembe veheti, azonban a működési kamatelem mértékét a 27. § (2) bekezdésben foglaltaknál alacsonyabban nem állapíthatja meg.
+(5)[^12] A Diákhitel Központ a működési költséget fedező prémium mértékét a Társaság könyvvizsgálatát végző könyvvizsgálóval – az éves beszámoló könyvvizsgálatával egyidejűleg – évente felülvizsgáltatni köteles. A felülvizsgálat eredményét a Diákhitel Központ a következő félévek hallgatói hitel kamatának megállapításához figyelembe veheti.
 
 (6) A Diákhitel Központ a (4)–(5) bekezdésben foglalt felülvizsgálatok eredményeként a hallgatói hitel kamatát a jövőre nézve megváltoztathatja, azonban a kamatmértéken belül a kockázati prémium és a működési költséget fedező prémium együttes összegét 4,5%-nál magasabbra nem növelheti.
 
@@ -23,3 +23,5 @@ c) a hallgatói hitelrendszer működési költségét fedező prémium.
 (8) A tárgyévben meg nem fizetett kamat tőkésítésére évente december 31-ei értéknappal kerül sor. A tőkésítésre kerülő kamatösszeg számítása napi kamatszámítással történik. A napi kamat az adott napon fennálló, a befizetésekkel módosított tőketartozás állományra számított egy napra vetített kamat összegével azonos.
 
 [^10]: A 6. § (1) bekezdés a) pontja a 149/2009. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdés c) pontja a 114/2011. (VII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 6. § (5) bekezdése a 114/2011. (VII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
