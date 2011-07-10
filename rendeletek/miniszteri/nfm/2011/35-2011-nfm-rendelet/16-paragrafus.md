@@ -1,0 +1,21 @@
+16. § (1) A pályázatok értékelését és a támogatási döntések előkészítését a Támogató által kijelölt szakértői bizottság végzi. A szakértői bizottság legalább 3, legfeljebb 5 szavazati joggal rendelkező tagból, valamint tanácskozási joggal rendelkező tagokból áll. A szakértői bizottság a munkáját a maga által meghatározott ügyrend alapján végzi. A szakértői bizottság tagjai e minőségükben nem utasíthatók, és e tevékenységük ellátásáért külön díjazás nem illeti meg őket. A formailag és tartalmilag értékelt javaslatokról a szakértői bizottság döntési javaslatot és tartaléklistát készít. A szakértői bizottság javaslata alapján a források odaítéléséről a Támogató legkésőbb a pályázat befogadását követő 45 napon belül dönt.
+
+(2) A Támogató a támogatott program alapadatait – a kedvezményezett nevét, a támogatott fejlesztés megnevezését, a fejlesztés megvalósulásának helyszínét, a fejlesztés összköltségét, a támogatás összegét – a döntéssel egyidejűleg a kormányzati portálon közzéteszi.
+
+(3) A tartaléklista a befogadott, támogatásra javasolt, azonban forráshiány miatt támogatást nem nyert pályázatokat tartalmazza értékelés szerint rangsorolva.
+
+(4) A Támogató a tartaléklistán szereplő pályázatok tárgyévi előirányzat terhére történő támogatásáról 2011. december 31-ig hoz döntést.
+
+(5) A döntésről szóló értesítés kézhezvételét követő 45 napon belül a Támogató szerződést köt a kedvezményezettel.
+
+(6) A támogatási szerződés mintáját a Kincstár készíti elő és jóváhagyás céljából megküldi a Támogató részére. A támogatási szerződés és módosításainak előkészítését, a támogatások folyósítását, valamint a felhasználás nyomon követésével, ellenőrzésével, a támogatási szerződések nem teljesítéséből adódó visszavont támogatásokkal kapcsolatos követeléskezelési feladatokat a Kincstár látja el.
+
+(7) Amennyiben a kedvezményezett támogatási szerződésben rögzített azonosító adataiban változás lép fel, azt köteles a Támogató részére igazolható módon bejelenteni a Kincstár honlapján elérhető, a 2. melléklet szerinti adatváltozás-bejelentő formanyomtatvány segítségével. Ezen adatváltozások átvezetése a támogatási szerződés módosítását nem igényli.
+
+(8) A kedvezményezett az azonosító adataiban bekövetkezett változásról a (7) bekezdés szerinti a formanyomtatvány két eredeti, kitöltött és aláírt példányának, és a változást igazoló, a módosítás szükségességét alátámasztó dokumentumoknak igazolható módon, a Kincstár részére történő megküldésével tájékoztatja a Támogatót. Ha a kedvezményezett bankszámlaszáma változik, az adatváltozás bejelentéséhez mellékletként csatolni kell az új bankszámlára vonatkozó, pénzforgalmi szolgáltató számára adott, a bank által leigazolt (záradékolt) beszedési megbízás benyújtására szóló felhatalmazó levelet is. A Kincstár a bejelentett adatváltozást ellenőrzi, majd a hiánytalanul beérkezett formanyomtatvány egy eredeti példányát mellékletekkel együtt írásban, igazolható módon továbbítja a Támogató felé. A kedvezményezett által megküldött adatváltozás bejelentő lapot és annak mellékleteit a Támogató és a Kincstár a támogatási szerződéssel együtt, ahhoz csatolva kezeli.
+
+(9) A megítélt támogatási összeg csak a támogatási szerződés hatálybalépését követően folyósítható az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 124. § (6) bekezdés a) pontja szerint. A támogatás a támogatási szerződésben rögzített ütemezésben az elszámolható költségekről szóló bizonylatok alapján, a pénzügyi teljesítést követően, utólagosan vehető igénybe. A kedvezményezett a projekt időtartama alatt felmerült, elszámolható költségekről szóló bizonylatait a Kincstárhoz nyújtja be. A támogatás folyósítását a kedvezményezettnek a projekt befejezését követő 60. napig, de legkésőbb a tárgyévet követő év május 31-ig kezdeményeznie kell. A kedvezményezett által benyújtott bizonylatok alapján a pénzügyi teljesítésnek a tárgyévet követő év június 30-ig meg kell történnie.
+
+(10) A támogatott projekt megvalósítását a kedvezményezettnek legkésőbb a tárgyévet követő év május 31-ig be kell fejeznie.
+
+(11) A kedvezményezett a megítélt támogatás legfeljebb 50%-áig támogatási előlegben részesülhet az Ámr. 150. § (8) bekezdésében meghatározott szabályok alkalmazása mellett.

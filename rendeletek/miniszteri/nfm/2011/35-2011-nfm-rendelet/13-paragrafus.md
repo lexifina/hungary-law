@@ -1,0 +1,3 @@
+13. § (1) Támogatásban az a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint mikro vállalkozásnak minősülő pályázó részesülhet, amelynek beruházása a területfejlesztési szempontból kedvezményezett, komplex programmal segítendő leghátrányosabb helyzetű kistérségben fekvő, vidékies besorolású településen valósul meg, melyben az állandó népesség száma 2010. január 1-jén nem haladta meg az 5000 főt, vagy népsűrűsége 100 fő/km2-nél kevesebb volt.
+
+(2) Nem részesülhet támogatásban az a pályázó, aki a pályázatában bemutatott projekt megvalósítására az e rendelet alapján meghozott támogatói döntés időpontjáig az államháztartás alrendszereiből támogatást nyert.

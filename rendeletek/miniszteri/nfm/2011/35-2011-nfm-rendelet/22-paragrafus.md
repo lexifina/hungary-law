@@ -1,0 +1,3 @@
+22. § (1) A támogatást igénylő vagy a kedvezményezett a pályázat benyújtásának időpontjától a támogatási jogviszony időtartama alatt a Támogató felé írásban kifogást nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatási szerződés megkötésére, a támogatás folyósítására és visszakövetelésére vonatkozó eljárás jogszabálysértő, vagy a pályázati felhívásba és a támogatási szerződésbe ütközik.
+
+(2) A kifogás elbírálása során a 11. § (2)–(7) bekezdésében foglaltak szerint kell eljárni azzal, hogy ahol a 11. § (5) és (7) bekezdése Lebonyolítót említ, ott Kincstárt kell érteni.
