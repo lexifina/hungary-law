@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 42. §-ában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörben eljárva a következőket rendeli el:
