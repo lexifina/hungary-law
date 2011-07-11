@@ -1,1 +1,0 @@
-## „(5) A Diákhitel Központ a működési költséget fedező prémium mértékét a Társaság könyvvizsgálatát végző könyvvizsgálóval – az éves beszámoló könyvvizsgálatával egyidejűleg – évente felülvizsgáltatni köteles. A felülvizsgálat eredményét a Diákhitel Központ a következő félévek hallgatói hitel kamatának megállapításához figyelembe veheti.”
