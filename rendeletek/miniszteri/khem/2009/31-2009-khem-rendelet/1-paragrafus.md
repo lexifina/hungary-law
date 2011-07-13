@@ -4,7 +4,7 @@
 
 a) a földgázszállítás, rendszerirányítás, földgázelosztás és földgáztárolás (a továbbiakban együtt: rendszerhasználat) legmagasabb hatósági árainak (a továbbiakban: rendszerhasználati díjak) megállapítására, a rendszerhasználati díjak alkalmazási feltételeire, valamint a kapcsolódó fizetési feltételekre,
 
-b) a földgázszállítási, a rendszerirányítási, a földgázelosztási és a földgáztárolási működési engedélyesekre (a továbbiakban: szállítói, rendszerirányítói, elosztói vagy tárolói engedélyes) és a rendszerhasználókra,
+b)[^1] a földgázszállítási tevékenységet végző, a rendszerirányítási tevékenységet végző, a földgázelosztási és a földgáztárolási működési engedélyesekre (a továbbiakban: szállítói, rendszerirányítói, elosztói vagy tárolói engedélyes) és a rendszerhasználókra,
 
 c) a Magyar Energia Hivatalra (a továbbiakban: Hivatal)
 
@@ -25,3 +25,5 @@ e) – a 3. § (3) bekezdése kivételével – az egyetemes szolgáltatásra jo
 f) az a)–e) pontok alá nem tartozó, egyéb jogcímeken szedett díjakra (például a rendszerirányításhoz nem tartozó, de a hozzá kapcsolódó adatszolgáltatás díja),
 
 g) azon gázkereskedelmi ügyletekre, amelyek a szállító, az elosztó vagy a tároló kapacitásainak tényleges igénybevételével, lekötésével nem járnak.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 36/2011. (VII. 12.) NFM rendelet 1. §-ával megállapított szöveg.

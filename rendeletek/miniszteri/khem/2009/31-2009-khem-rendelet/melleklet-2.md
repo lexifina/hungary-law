@@ -22,6 +22,6 @@
 
 ## Az ebédlő az átalánydíj-fizetés szempontjából fél szobának minősül.
 
-2. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^61]
+2. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^71]
 
-[^61]: A 2. melléklet a 18/2010. (XII. 3.) NFM rendelet 12. § (1) bekezdésével megállapított, e módosító rendelet 11. §-a szerint módosított szöveg.
+[^71]: A 2. melléklet a 36/2011. (VII. 12.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
