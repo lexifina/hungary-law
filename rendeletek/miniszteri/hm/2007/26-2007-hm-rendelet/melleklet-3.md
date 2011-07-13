@@ -70,6 +70,6 @@
 
 | 4. extrém | 2,42 |
 
-3. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^111]
+3. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^119]
 
-[^111]: A 3. számú melléklet az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés w)–x) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^119]: A 3. számú melléklet az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés w)–x) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
