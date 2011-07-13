@@ -1,0 +1,1 @@
+386/B. § A jelen fejezet szerinti kiemelt jelentőségű pereknél az elsőfokú bíróság köteles erre irányuló kérelem hiányában is elrendelni az ügyek soron kívüli intézését. Az elsőfokú bíróság által elrendelt soronkívüliség az eljárás minden szakaszára, a rendes és rendkívüli perorvoslatokra is kiterjed.

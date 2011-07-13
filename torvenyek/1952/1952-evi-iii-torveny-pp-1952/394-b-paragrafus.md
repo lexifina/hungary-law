@@ -1,8 +1,8 @@
-## HATODIK RÉSZ
+## HETEDIK RÉSZ
 
 ## ELEKTRONIKUS KOMMUNIKÁCIÓ A POLGÁRI PERBEN
 
-## XXVII. Fejezet
+## XXVIII. Fejezet
 
 394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2012. május 31. és 2013. március 31. napja között a következő rendelkezéseket kell alkalmazni:
 

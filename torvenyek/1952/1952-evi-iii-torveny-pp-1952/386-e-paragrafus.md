@@ -1,0 +1,1 @@
+386/E. § A bíróság a kiemelt jelentőségű perek elbírálása érdekében szükség szerint egymást követő tárgyalási napokra is tűzhet tárgyalást, amennyiben a per körülményei ezt lehetővé és indokolttá teszik.

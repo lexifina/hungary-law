@@ -1,0 +1,1 @@
+386/D. § A bíróság a 177. § szerint elrendelt szakértői bizonyítás során, a szakvélemény elkészítésére legfeljebb 30 napos, különösen bonyolult ügyekben legfeljebb 60 napos határidőt engedhet. A határidő különösen indokolt esetben egyszer és legfeljebb az eredetileg meghatározott napok számával meghosszabbítható, kizárólag a szakértő indokolt kérelmére.

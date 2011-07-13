@@ -8,7 +8,7 @@ b) azt a tanút, aki a vallomástételt, illetve a közreműködést, továbbá 
 
 c) azt a szakértőt, aki a véleménynyilvánítással alapos ok nélkül késlekedik, illetve a véleménynyilvánításának várható késedelméről a részére nyitva álló határidő lejártát megelőzően a bíróságot nem értesíti,
 
-az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújthatja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is.
+az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújtja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is. A tanú, illetve szakértő elővezetését el kell rendelni, ha a tanú, illetve a szakértő a szabályszerű idézés (kirendelés) ellenére ismételten nem jelent meg, és elmaradását alapos okkal előzetesen ki nem mentette vagy engedély nélkül eltávozott.
 
 (2) Az eljáró bíróság annak a szakértőnek a munkadíját, aki a véleménynyilvánítással alapos ok nélkül késlekedik és a véleménynyilvánításra nyitva álló határidő alatt a határidő meghosszabbítását nem kéri (104. §), illetve a meghosszabbított határidő alatt sem nyilvánít véleményt, a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti.
 

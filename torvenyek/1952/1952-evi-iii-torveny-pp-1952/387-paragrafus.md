@@ -1,8 +1,8 @@
-## ÖTÖDIK RÉSZ
+## HATODIK RÉSZ
 
 ## KISÉRTÉKŰ PEREK
 
-## XXVI. Fejezet
+## XXVII. Fejezet
 
 ## Az általános szabályok alkalmazása
 
