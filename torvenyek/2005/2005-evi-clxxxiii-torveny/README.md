@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2010-12-01 | 2010. évi XCV. törvény | 2005-183-00-00.19 |
 | 2010-12-31 | 2010. évi CLXXII. törvény | 2005-183-00-00.20 |
 | 2011-01-01 | 2010. évi CLXXII. törvény | 2005-183-00-00.21 |
+| 2011-07-13 | 2011. évi XCI. törvény | 2005-183-00-00.22 |

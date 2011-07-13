@@ -23,3 +23,5 @@
 (11) A 2009. december 3-át megelőzően megkötött vasúti személyszállítási közszolgáltatási szerződések az azokban rögzített határidő leteltéig hatályban maradnak azzal, hogy módosításuk során az 1370/2007/EK rendelet rendelkezéseit figyelembe kell venni.
 
 (12) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő vasúti járműveken, továbbá a pályaudvar, a vasútállomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig meg kell teremteni.
+
+(13) Amennyiben a 32/A. § szerinti biztonsági szervezet feladatait a vasúti társaság a biztonságirányítási rendszerben látja el, a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány módosítása iránti kérelmét 2012. január 31-éig nyújtja be a közlekedési hatóságnak. A vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kizárólag erre irányuló módosítása kapcsán fizetendő igazgatási szolgáltatási díj a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kiadása hatósági díjának 40%-a.

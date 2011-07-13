@@ -94,6 +94,8 @@ rendeletben állapítsa meg.
 
 30. a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat
 
+31. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat
+
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti szakértői tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjakat rendeletben állapítsa meg.
