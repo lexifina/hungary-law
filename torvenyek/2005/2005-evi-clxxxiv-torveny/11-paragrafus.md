@@ -2,15 +2,15 @@
 
 11. § (1) A helyszín biztosításáról és a (7) bekezdés szerinti változatlanul hagyásáról
 
-a) légiközlekedési baleset esetében a rendőrség, repülőesemény esetében a légijármű parancsnoka, akadályoztatása esetén a légijármű személyzete, illetve a légijármű üzemben tartója,
+a) légiközlekedési baleset esetében a rendőrség, súlyos repülőesemény és repülőesemény esetében a légijármű parancsnoka, akadályoztatása esetén a légijármű személyzete, illetve a légijármű üzemben tartója,
 
-b) súlyos víziközlekedési baleset esetében az úszólétesítmény vezetője, akadályoztatása esetén a személyzet, illetve a baleset helyszínére érkezését követően a rendőrség,
+b) víziközlekedési baleset esetében az úszólétesítmény vezetője, akadályoztatása esetén a személyzet, illetve a baleset helyszínére érkezését követően a rendőrség,
 
-c) súlyos vasúti baleset esetében a rendőrség
+c) súlyos vasúti baleset és vasúti baleset esetében a rendőrség
 
 gondoskodik.
 
-(2) A közlekedésbiztonsági szerv baleseti ügyeleti szolgálata a tudomására jutott közlekedési balesettel, repülőeseménnyel vagy váratlan eseménnyel kapcsolatban – a helyszínen már megtett intézkedések figyelembevételével, amennyiben ez szükséges – kezdeményezi a helyszín biztosítását.
+(2) A közlekedésbiztonsági szerv baleseti ügyeleti szolgálata a tudomására jutott közlekedési balesettel vagy egyéb közlekedési eseménnyel kapcsolatban – a helyszínen már megtett intézkedések figyelembevételével, amennyiben ez szükséges – kezdeményezi a helyszín biztosítását.
 
 (3) A helyszín biztosítását – ha ebben sérülése nem akadályozza – az illetékes szervek helyszínre érkezéséig
 
@@ -22,9 +22,9 @@ c) az úszólétesítmény vezetője vagy tisztje
 
 látja el.
 
-(4) Súlyos víziközlekedési baleset esetében, ha az a hajóút teljes vagy részleges elzárását okozza, vagy súlyos víziközlekedési balesettel érintett úszólétesítményt az elsüllyedés veszélye fenyegeti, haladéktalan intézkedésként a hajóút felszabadítását meg kell kezdeni olyan mértékben, hogy a hajóútban a víziközlekedés rendje mielőbb helyreállhasson, illetve az úszólétesítményt megfelelő módon biztonságba kell helyezni.
+(4) Víziközlekedési baleset esetében, ha az a hajóút teljes vagy részleges elzárását okozza, vagy a víziközlekedési balesettel érintett úszólétesítményt az elsüllyedés veszélye fenyegeti, haladéktalan intézkedésként a hajóút felszabadítását meg kell kezdeni olyan mértékben, hogy a hajóútban a víziközlekedés rendje mielőbb helyreállhasson, illetve az úszólétesítményt megfelelő módon biztonságba kell helyezni.
 
-(5) A légiközlekedési baleset, a súlyos repülőesemény, a repülőesemény, illetve a súlyos vasúti közlekedési baleset helyszínének megbontására halaszthatatlan eljárási cselekménytől, illetve külön jogszabályban meghatározott kivételtől eltekintve a vizsgálóbizottság vezetőjének hozzájárulása szükséges.
+(5) A szakmai vizsgálat tárgyává tett közlekedési baleset és egyéb közlekedési esemény helyszínének megbontásához – a személyek életének, testi épségének védelme vagy katasztrófahelyzet felszámolása érdekében tett intézkedésektől, valamint halaszthatatlan eljárási cselekménytől eltekintve – a vizsgálóbizottság vezetőjének hozzájárulása szükséges.
 
 (6) A légiközlekedési baleset és a súlyos repülőesemény helyszínét a vizsgálóbizottság vezetőjének megérkezéséig a rendőrséggel kötött megállapodásban meghatározott időtartamig, de legalább a rendőrség helyszínre érkezésétől számított négy óra időtartamig a rendőrség biztosítja.
 

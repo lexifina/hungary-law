@@ -4,7 +4,7 @@ a) súlyos vasúti balesetek, a vasúti balesetek és váratlan vasúti esemény
 
 b) a légiközlekedési balesetek, a repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait,
 
-c) a súlyos víziközlekedési balesetek és a rendkívüli hajózási események vizsgálatának részletes szabályait,
+c) a víziközlekedési balesetek és a víziközlekedési események vizsgálatának részletes szabályait,
 
 d) az üzembentartói vizsgálat szabályait
 

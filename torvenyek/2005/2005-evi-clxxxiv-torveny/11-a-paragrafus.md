@@ -12,4 +12,4 @@
 
 (7) Az érintett üzemben tartó (üzemeltető) felelős vezetője a közlekedésbiztonsági szerv kérésére gondoskodik a közlekedési tevékenységgel kapcsolatos dokumentumok, okmányok összegyűjtéséről és elismervény ellenében azoknak a nyomokat rögzítő bizottság rendelkezésére bocsátásáról.
 
-(8) Amennyiben nemzetközi szerződés alapján más állam meghatalmazott képviselője a vizsgálatban jogosult részt venni, számára lehetőség szerint biztosítani kell a helyszín eredeti állapotban történő megtekintését. A meghatalmazott képviselők helyszínre történő érkezése nem késleltetheti a helyszíni szemle megkezdését és lefolytatását.
+(8) A meghatalmazott képviselők helyszínre történő érkezése nem késleltetheti a helyszíni szemle megkezdését és lefolytatását.

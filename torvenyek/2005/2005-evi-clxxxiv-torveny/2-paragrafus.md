@@ -2,17 +2,17 @@
 
 2. § E törvény alkalmazásában:
 
-a) közlekedési baleset: a légiközlekedési baleset, a súlyos vasúti baleset és a súlyos víziközlekedési baleset;
+a) közlekedési baleset: a légiközlekedési baleset, a súlyos vasúti baleset és a nagyon súlyos víziközlekedési baleset;
 
-b) egyéb közlekedési esemény: a repülőesemény és a légiközlekedési rendellenesség, a vasúti baleset, a váratlan vasúti esemény és a rendkívüli hajózási esemény;
+b) egyéb közlekedési esemény: a súlyos repülőesemény, a repülőesemény, a légiközlekedési rendellenesség, a vasúti baleset, a váratlan vasúti esemény, a súlyos víziközlekedési baleset és a víziközlekedési esemény;
 
 c) halálos baleset: olyan baleset, amelynek következtében a balesetet szenvedő személy halálos sérülést szenved;
 
 d) halálos sérülés: olyan súlyos sérülés, amelyet valaki baleset során szenved el, és amelynek következtében a balesetet követő 30 napon belül elhalálozik;
 
-e) súlyos sérülés: olyan sérülés, amelyet valaki baleset során szenved el, és amely
+e) súlyos sérülés: olyan sérülés, amelyet valaki légiközlekedési baleset kivételével baleset során szenved el, és amely
 
-ea) a sérüléstől számított hét napon belül 48 órát meghaladó kórházi ápolást tesz szükségessé, vagy
+ea) vasúti közlekedés esetén – az öngyilkossági kísérletet elkövető személy kivételével – a sérüléstől számított hét napon belül 24 órát meghaladó kórházi ápolást tesz szükségessé, vagy
 
 eb) csonttörést okoz, kivéve az ujj-, lábujj- és orrtörést, vagy
 
@@ -24,65 +24,53 @@ ee) másod- vagy harmadfokú égési sérüléseket, vagy a testfelület több m
 
 ef) annak következménye, hogy a sérült bizonyítottan fertőző anyagoknak vagy káros sugárzásnak volt kitéve;
 
-f) légiközlekedési baleset: a repülés tartama alatt bekövetkezett olyan esemény, amelynek során
+eg) víziközlekedés esetén a sérüléstől számított hét napon belül 72 órát meghaladó kórházi ápolást tesz szükségessé, vagy tengeri baleset esetén ennek megfelelő időtartamú munkaképtelenséget okoz;
 
-fa) valaki meghal, halálos vagy súlyos sérülést szenved
+f) légiközlekedési baleset: az EU-rendelet 2. cikkének 1. pontjában megfogalmazott baleset;
 
-faa) a légijármű fedélzetén tartózkodva, vagy
+g) súlyos repülőesemény: az EU-rendelet 2. cikkének 16. pontjában megfogalmazott súlyos repülőesemény;
 
-fab) a légijármű bármely részével való közvetlen érintkezés következtében, beleértve a légijárműről levált alkatrészeket, a légijárművön szállított vagy arra függesztett fegyverzetet és egyéb függesztményt is, vagy
-
-fac) annak következtében, hogy a sugárhajtómű kiáramló gázsugarának közvetlenül volt kitéve,
-
-kivéve, ha a sérülései természetes okoknak tulajdoníthatók, vagy azokat maga vagy más személy okozza, vagy ha olyan jogellenesen utazó személy sérüléséről van szó, aki az utasok és a személyzet számára rendesen hozzáférhető területeken kívül rejtőzködik, vagy
-
-fb) a légijármű olyan károsodást, vagy szerkezeti hibát szenved, amely
-
-fba) a légijármű szerkezeti szilárdságát, teljesítményét vagy repülési jellemzőit hátrányosan befolyásolja, és
-
-fbb) rendes körülmények között a károsodott alkotórész nagyjavítását vagy cseréjét igényelné,
-
-kivéve a hajtóműhiba vagy -károsodás esetét, amikor a károsodás csak a hajtóműre, annak burkolatára, vagy tartozékaira korlátozódik, illetve, ha a károsodás kizárólag a légcsavarokra, a szárnyvégekre, antennákra, kerekek gumiabroncsaira, a fékekre, áramvonalazó burkolatra vagy a légijármű borításán történt kisebb horpadásokra és szúrt lyukakra korlátozódik, vagy
-
-fc) a légijármű eltűnt vagy teljesen hozzáférhetetlen;
-
-g) súlyos repülőesemény: olyan repülőesemény, amelynek körülményei arra utalnak, hogy az f) pont szerinti baleset bekövetkezésének közvetlen veszélye állt fenn;
-
-h) repülőesemény: a légijármű üzemeltetésével kapcsolatos, a repülés tartama alatt bekövetkezett, balesetnek nem minősülő esemény, amely az üzemeltetés biztonságát hátrányosan befolyásolja vagy befolyásolhatja;
+h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott repülőesemény;
 
 i) légiközlekedési rendellenesség: olyan – nem a repülés tartama alatt bekövetkezett – működési zavar, hiba, hiányosság vagy más szabálytalan körülmény, amely a repülésbiztonságot befolyásolhatja vagy befolyásolhatta, de amely nem okozott balesetet vagy súlyos repülőeseményt;
 
 j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 500 millió forintos) károsodásával jár, valamint más vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 
-k) vasúti baleset: a vasutat – a helyi vasút kivételével – mint személyszállításra és árutovábbításra szolgáló kötöttpályás közlekedési rendszert és annak tartozékait, a vasúti pályát és annak tartozékait, az üzemi létesítményeket és a vasúti járműveket érintő, a vasúti közlekedés során bekövetkező
+k) vasúti baleset: a vasutat érintő, a vasúti közlekedés során bekövetkező, káros következményekkel járó nem szándékos esemény vagy események láncolata, amelynek kategóriái:
 
-ka) személyi sérüléssel,
+ka) ütközés,
 
-kb) jelentős anyagi kárral,
+kb) kisiklás,
 
-kc) a környezet jelentős szennyezésével,
+kc) baleset vasúti átjáróban,
 
-kd) a vasúti közlekedés biztonságának veszélyeztetésével, vagy
+kd) mozgó jármű okozta személyi sérülés,
 
-ke) a vasúti rendszer üzemeltetésének jelentős megzavarásával járó
+ke) tűzeset,
 
-esemény (pl. ütközés, kisiklás, baleset vasúti átjáróban, mozgó jármű okozta személyi sérülés, tűzeset);
+kf) egyéb vasúti baleset;
 
 l) váratlan vasúti esemény: a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan esemény, amely a vonatok üzemeltetését és az üzemeltetés biztonságát károsan érinti;
 
-m) súlyos víziközlekedési baleset: a víziközlekedési tevékenység folytatása során bekövetkezett ütközés, tűzeset vagy más esemény, amely hajó műveletképtelenné válásával, úszólétesítmény stabilitásának vagy úszóképességének részleges vagy teljes elvesztésével jár, és együtt jár:
+m) víziközlekedési baleset: a víziközlekedési tevékenység folytatása során bekövetkezett olyan esemény, amely során
 
-ma) a hajóút teljes, illetve részleges elzárásával,
+ma) halál vagy súlyos személyi sérülés történik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
 
-mb) az úszólétesítmény eltűnésével,
+mb) személy úszólétesítményről eltűnik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
 
-mc) halálos baleset vagy halálos sérülés bekövetkezésével,
+mc) az úszólétesítmény ténylegesen vagy feltételezhetően eltűnik, vagy az úszólétesítményen tartózkodók az úszólétesítmény elhagyására kényszerülnek,
 
-md) a víziút műtárgyainak, illetve a víziutat keresztező műtárgyak úszólétesítménnyel történő megrongálásával, azok üzemképességének részleges vagy teljes elvesztésével;
+md) az úszólétesítményben anyagi kár keletkezik,
 
-n) rendkívüli hajózási esemény: a súlyos víziközlekedési baleseten kívül minden olyan esemény, amely a víziközlekedés biztonságát érinti;
+me) az úszólétesítmény megfeneklik, üzemképtelenné vagy ütközés részesévé válik,
 
-o) vizsgálóbizottság: a baleset vizsgálatára kijelölt bizottság vagy szakmai kivizsgáló;
+mf) olyan anyagi kár keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, vagy
+
+mg) olyan környezetszennyezés keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható;
+
+n) víziközlekedési esemény: víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, az úszólétesítményt vagy bármely személy életét veszélyeztető, továbbá az úszólétesítményt, a víziút műtárgyát, vagy a környezetet súlyos kár bekövetkezésével fenyegető esemény;
+
+o) vizsgálóbizottság: a közlekedési baleset vagy egyéb közlekedési esemény vizsgálatára kijelölt bizottság vagy szakmai kivizsgáló;
 
 p) repülés tartama:
 
@@ -96,6 +84,28 @@ pd) lábról induló repülés esetén akkor kezdődik, amikor a légijármű ve
 
 pe) vezető nélküli repülésre alkalmas légijármű esetén az irányítórendszer repültetés szándékával történő üzembe helyezésétől annak a tervezett feladat teljesítését követő szándékos üzemen kívül helyezéséig;
 
-q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a közlekedési balesetek és egyéb közlekedési események megelőzése céljából tett javaslat;
+q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a súlyos víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
 
 r) üzemben tartó: a jármű, illetve az infrastruktúra működését szervező, fenntartó természetes vagy jogi személy, honvédelmi légijármű esetében a légijármű üzemeltetéséért felelős szervezet közvetlen szolgálati elöljárója. E törvény alkalmazásában az üzemben tartóra vonatkozó rendelkezéseket kell alkalmazni azon személy tekintetében is, akinek tevékenysége üzemben tartói engedélyhez nem kötött, illetve üzemben tartói engedélyének érvényessége lejárt, jogsértő módon vagy engedély nélkül folytatta tevékenységét.
+
+s) adatrögzítő: az úszólétesítményeken vagy vasúti járműveken lévő vagy az infrastruktúrához kapcsolódó minden olyan berendezés, amely kiolvasás után információt szolgáltathat a bekövetkezett közlekedési balesetről vagy egyéb közlekedési eseményről;
+
+t) súlyos víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő víziközlekedési baleset, így különösen a tűz, robbanás, ütközés, zátonyra futás, műtárggyal ütközés, időjárás okozta súlyos károsodás, jég okozta kár, az úszólétesítmény testének repedése, az úszólétesítmény testének feltételezett károsodása, amelynek eredményeként
+
+ta) főgép működésképtelenné válik, a lakótér jelentősen megrongálódik, vagy az úszólétesítmény szerkezete súlyosan károsodik (különösen az úszólétesítmény testének víz alatti része beszakad), és ez az úszólétesítményt üzemképtelenné teszi,
+
+tb) környezetszennyezés történik,
+
+tc) olyan meghibásodás keletkezik, amely parti segítséget vagy vontatást tesz szükségessé;
+
+u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amelynek során
+
+ua) legalább egy személy életét veszti,
+
+ub) az úszólétesítmény eltűnik vagy megsemmisül,
+
+uc) jelentős környezetszennyezés következik be,
+
+ud) a hajóút teljesen vagy a víziközlekedést akadályozó módon részlegesen elzáródik,
+
+ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik.

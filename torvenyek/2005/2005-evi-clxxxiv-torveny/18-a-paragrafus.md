@@ -1,1 +1,1 @@
-18/A. § Az állami légijárművel bekövetkezett légiközlekedési baleset vagy repülőesemény tekintetében a közlekedésbiztonsági szerv a nemzetbiztonsági és a honvédelmi érdekekre figyelemmel ad tájékoztatást a sajtó részére.
+18/A. § Az állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény, repülőesemény vagy légiközlekedési rendellenesség tekintetében a közlekedésbiztonsági szerv a nemzetbiztonsági és a honvédelmi érdekekre figyelemmel ad tájékoztatást a sajtó részére.

@@ -2,33 +2,45 @@
 
 10. § (1) Aki közlekedési balesetet észlel, köteles azt haladéktalanul a rendőrségnek bejelenteni. A rendőrség haladéktalanul értesíti azokat a szerveket, amelyek feladatkörébe tartozik a közlekedési baleset következtében veszélybe került személyek részére segítség nyújtása, az élet- és vagyonbiztonság védelme, a közlekedési baleset szakmai vizsgálata.
 
-(2) A közlekedési balesetben részt vevő jármű személyzete, a járművek üzemeltetői, illetve üzemben tartói, az érintett közlekedési infrastruktúra üzemeltetői, továbbá a közlekedési baleset kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett közlekedési balesetet vagy az egyéb közlekedési eseményt a külön jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar légijárművel külföldön bekövetkezett légiközlekedési balesetre, repülőeseményre vagy légiközlekedési rendellenességre, illetve az úszólétesítményt külföldön ért balesetre.
+(2) A vasúti vagy víziközlekedési balesetben vagy eseményben részt vevő jármű személyzete, a járművek üzemben tartói, az érintett közlekedési infrastruktúra üzemben tartói, továbbá a vasúti és víziközlekedési baleset vagy esemény kivizsgálását végző más hatóságok haladéktalanul kötelesek jelenteni a közlekedésbiztonsági szervnek a bekövetkezett vasúti és víziközlekedési balesetet vagy eseményt az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal. A bejelentési kötelezettség kiterjed a magyar úszólétesítményt külföldön ért balesetre is.
 
 (3) A szakmai vizsgálat kizárólag hivatalból indul meg. A bejelentés nem minősül kérelemnek. A bejelentő – abban az esetben is, ha hatóság a bejelentő – az eljárás egyéb résztvevőjének minősül.
 
 (4) Amennyiben
 
-a) a légijármű vagy a repülőtér üzemben tartója,
+a) a légi jármű üzemeltetője vagy üzemben tartója,
 
-b) légiforgalmi szolgálatot, illetve a földi kiszolgálással kapcsolatos feladatot ellátó személy,
+b) a repülőtér üzemben tartója,
 
-c) a légijármű személyzete,
+c) a kivizsgálást végző más hatóság,
 
-d) a légijármű vagy annak bármely felszerelése vagy alkatrésze tervezésével, gyártásával, karbantartásával vagy módosításával foglalkozó személy,
+d) a légiforgalmi szolgálatot, vagy a földi kiszolgálással kapcsolatos feladatot ellátó személy,
 
-e) a légijármű vagy annak bármely felszerelése vagy alkatrésze karbantartási célú átvizsgálásáról vagy üzembe helyezéséről szóló igazolást aláíró személy,
+e) a légi jármű személyzete,
 
-f) a légi navigációs berendezések telepítésével, módosításával, karbantartásával, javításával, nagyjavításával, repülési próbájával vagy ellenőrzésével kapcsolatos feladatot ellátó személy
+f) a légi jármű vagy annak bármely felszerelése vagy alkatrésze tervezésével, gyártásával, karbantartásával vagy módosításával foglalkozó személy,
 
-a feladata ellátása során a légiközlekedési balesetről, repülőeseményről, illetve légiközlekedési rendellenességről szerez tudomást, köteles azt haladéktalanul jelenteni a közlekedésbiztonsági szervnek.
+g) a légi jármű vagy annak bármely felszerelése, vagy alkatrésze karbantartási célú átvizsgálásáról vagy üzembe helyezéséről szóló igazolást aláíró személy,
 
-(5) A (4) bekezdés szerinti jelentési kötelezettség alá eső légiközlekedési rendellenességek tájékoztató jellegű felsorolását külön jogszabály állapítja meg. A bejelentőt munkáltatója részéről – bejelentése miatt – nem érheti hátrány.
+h) a légi navigációs berendezések telepítésével, módosításával, karbantartásával, javításával, nagyjavításával, repülési próbájával vagy ellenőrzésével kapcsolatos feladatot ellátó személy
 
-(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és a Magyar Köztársaság Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
+a feladata ellátása során repülőeseményről vagy légiközlekedési rendellenességről szerez tudomást, köteles azt repülőesemény esetében haladéktalanul, légiközlekedési rendellenesség esetében 24 órán belül bejelenteni.
+
+(4a) A (4) bekezdésben meghatározott bejelentési kötelezettség kiterjed a magyar légijárművel külföldön bekövetkezett repülőeseményre és légiközlekedési rendellenességre is.
+
+(4b) A (2) és a (4) bekezdés szerinti, a légiközlekedési balesetről, súlyos repülőeseményről, repülőeseményről vagy légiközlekedési rendellenességről szóló bejelentést személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján kell megtenni, a 22. § (1) bekezdés b) és d) pontja, és (2) bekezdése alapján kiadott jogszabályban meghatározott adattartalommal.
+
+(4c) A (4) és a (4a) bekezdésben meghatározott bejelentési kötelezettség nem terjed ki az állami légijárművel bekövetkezett légiközlekedési rendellenességre.
+
+(5) A légiközlekedésben előforduló jelentési kötelezettség alá eső események tájékoztató jellegű felsorolását a 22. § (1) bekezdés b) és d) pontjában és a (2) bekezdésében foglalt felhatalmazás alapján kiadott jogszabály állapítja meg.
+
+(5a) A bejelentőt – bejelentése miatt – munkáltatója részéről nem érheti hátrány.
+
+(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és a Magyar Köztársaság Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
 
 (7) Amennyiben a közlekedési baleset, illetve a vasúti baleset szomszédos állam területét érinti, a közlekedésbiztonsági szerv haladéktalanul értesíti a rendőrség területileg illetékes szervét.
 
-(8) A vizsgálóbizottság legalább két tagból áll. A bizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálatvezetőt. A bizottság munkájában való részvételre a közlekedésbiztonsági szerv köztisztviselőin kívül más, a szakmai vizsgálat lefolytatására – külön jogszabályban meghatározott – szakértelemmel rendelkező személy is igénybe vehető. A vizsgálat vezetője a közlekedésbiztonsági szerv köztisztviselője. Nem súlyos repülőesemény légiközlekedési rendellenesség vagy váratlan vasúti esemény esetén a vizsgálatra a közlekedésbiztonsági szerv köztisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
+(8) A vizsgálóbizottság legalább két tagból áll. A bizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálatvezetőt. A bizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a–c) pontjában kapott felhatalmazás alapján kiadott rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető. A vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
 
 (9) A közlekedésbiztonsági szerv vezetője a bejelentést követően haladéktalanul írásban kijelöli a vizsgálóbizottság tagjait, és ezzel megindítja a szakmai vizsgálatot. A vizsgálóbizottság a kijelölést követően haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következmény alapján kell minősíteni.
 

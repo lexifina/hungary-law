@@ -4,45 +4,45 @@
 
 a) kivizsgálja
 
-aa) a belföldön bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket,
+aa) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK-rendelet) II. melléklete hatálya alá nem tartozó polgári és állami légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
 
-ab) a súlyos víziközlekedési baleseteket,
+ab) a lajstromozásra kötelezett úszólétesítményekkel bekövetkezett nagyon súlyos víziközlekedési baleseteket és a lajstromozásra nem kötelezett úszólétesítményekkel bekövetkezett halált okozó nagyon súlyos víziközlekedési baleseteket,
 
 ac) a súlyos vasúti baleseteket,
 
-ad) az 1. § (2) bekezdésében meghatározott légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
+ad) az 1. § (2) bekezdésben meghatározott, az EK-rendelet II. melléklete hatálya alá nem tartozó polgári és állami légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
 
-b) kivizsgálhatja azokat az egyéb közlekedési eseményeket, amelyek megítélése szerint
+b) kivizsgálhatja azokat az EK-rendelet II. melléklete hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, és az egyéb közlekedési eseményeket, amelyek megítélése szerint
 
 ba) más körülmények között közlekedési balesethez vezethettek volna,
 
-bb) a közlekedési rendszer egésze szempontjából jelentősséggel bíró eseménysorozat részét képezik,
+bb) a közlekedési rendszer egésze szempontjából jelentőséggel bíró eseménysorozat részét képezik,
 
 bc) a közlekedésbiztonságra európai közösségi szinten gyakorolnak hatást,
 
-bd) a vizsgálatot az infrastruktúra üzemeltetői, a közlekedési társaságok, a biztonsági hatóságok, továbbá nemzetközi együttműködés keretében az Európai Unió más tagállamának balesetvizsgáló szervezetei kérik;
+bd) a biztonsággal kapcsolatos tanulságokkal szolgálhatnak;
 
-c) a közlekedési baleset és az egyéb közlekedési esemény súlyosságának és jellegének megfelelő formában zárójelentést készít;
+c) kivizsgálhatja azokat az a) pontban meg nem határozott eseteket is, amelyekkel kapcsolatban a vizsgálatot az infrastruktúra üzemeltetői, a közlekedési társaságok, a biztonsági hatóságok, továbbá nemzetközi együttműködés keretében az Európai Unió más tagállamának balesetvizsgáló szervezetei kérik;
 
-d) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében
+d) figyelembe véve a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a súlyos víziközlekedési baleset és víziközlekedési esemény esetén a közlekedésbiztonsági szerv előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a súlyos víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
 
-da) javaslatot tesz a jogszabály előkészítőjének, valamint
+e) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében javaslatot tesz a jogszabály előkészítőjének;
 
-db) biztonsági ajánlást tesz
+f) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében biztonsági ajánlást tesz
 
-dba) a közlekedési társaságoknak,
+fa) a közlekedési társaságnak,
 
-dbb) a közlekedési infrastruktúra üzemeltetőinek,
+fb) a közlekedési infrastruktúra üzemeltetőinek, a járművet üzemeltetőnek, állami légijármű esetében az üzemeltetésért felelős állományilletékes parancsnoknak (a továbbiakban együtt: üzemeltető),
 
-dbc) a járművek üzemeltetőinek, állami légijárművek esetében az üzemeltetésért felelős állományilletékes parancsnoknak (a továbbiakban együtt: üzemeltető),
+fc) állami légijármű esetén a légi jármű üzemben tartójának, továbbá a katonai állami légijármű esetén a honvédelemért felelős miniszternek,
 
-dbd) állami légijárművek esetében a légijárművek üzemben tartójának,
+fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak;
 
-dbe) más hatóságoknak;
+g) a légiközlekedési balesetek, súlyos repülőesemények, repülőesemények és légiközlekedési rendellenességek nyilvántartására, értékelésére, feldolgozására adatbázist hoz létre és működtet;
 
-e) a légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek nyilvántartására, értékelésére, feldolgozására adatbázist hoz létre;
+h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel – a műszaki és tudományos fejlődéssel összhangban lévő – közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából, az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal értesíti az Európai Bizottságot a víziközlekedési balesetekről és a rendkívüli víziközlekedési eseményekről;
 
-f) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, továbbá a nemzetközi szervezetekkel közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások megvalósításának figyelemmel kísérésére szolgáló közös elvek megfogalmazása és azoknak a műszaki és tudományos fejlődéshez való hozzáigazítása céljából.
+i) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkozó adatokat a Bizottság által létrehozott, az Európai Tengeri Balesetek Információs Platformja (EMCIP) elnevezésű európai elektronikus adatbázisban tárolja.
 
 (2) A közlekedésbiztonsági szerv az (1) bekezdés e) pontjában megjelölt adatbázisban tartja nyilván a légiközlekedési balesetre, a súlyos repülőeseményre és a légiközlekedési rendellenességre vonatkozó bejelentések alapján indított szakmai vizsgálat során az e törvénnyel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a külön jogszabályban meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, valamint az 1321/2007/EK bizottsági rendeletben és az 1330/2007/EK bizottsági rendeletben meghatározott célokra használhatók fel.
 
