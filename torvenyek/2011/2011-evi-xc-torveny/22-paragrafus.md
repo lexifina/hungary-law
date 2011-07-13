@@ -1,0 +1,3 @@
+22. § A Har. törvény a következő 34/E. §-sal egészül ki:
+
+„34/E. § (1) Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamban, a miniszter egyedi döntése alapján, beruházási kiadások is teljesíthetők, különös tekintettel európai uniós támogatással megvalósuló beruházásokra és derogációs kötelezettség teljesítésére. A reorganizációs tervben a miniszter egyedi döntése alapján engedélyezett beruházások szerepelhetnek.”

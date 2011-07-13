@@ -1,0 +1,3 @@
+5. § A Har. törvény 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adósságrendezés megindításának időpontjában a helyi önkormányzat ingatlanán és egyéb vagyontárgyain fennálló zálogjog, valamint szerződésen alapuló elidegenítési és terhelési tilalom, visszavásárlási és vételi jog megszűnik. Az óvadék tárgyából az adósságrendezési eljárás megindításától számított 30 napon belül lehet kielégítést szerezni. A szükséges ingatlan-nyilvántartási eljárást a polgármester kezdeményezi. A zálogjog megszűnése nem érinti a zálogjoggal biztosított követelés kielégítési rangsorban [31. § (1) bek. b) pont] elfoglalt helyét.”
