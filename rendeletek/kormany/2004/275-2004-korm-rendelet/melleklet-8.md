@@ -22,6 +22,8 @@
 
 | HUBN21094 | Bujáki Hényeli-erdő és Alsó-rét |
 
+| HUBN22096 | Tiszaújvárosi ártéri erdők |
+
 | Duna-Ipoly Nemzeti Park Igazgatóság |
 
 | HUDI20009 | Budai-hegység bővítése |
@@ -31,6 +33,8 @@
 | HUDI20051 | Turjánvidék bővítése |
 
 | HUDI21056 | Jászkarajenői puszták |
+
+| HUDI20023 | Gödöllői-dombság bővítése |
 
 | Fertő-Hanság Nemzeti Park Igazgatóság |
 
@@ -56,6 +60,8 @@
 
 | HUHN21165 | Penészleki gyepek |
 
+| HUHN20001 | Felső-Tisza bővítése |
+
 | Körös-Maros Nemzeti Park Igazgatóság |
 
 | HUKM20001 | Hódmezővásárhely környéki és csanádi-háti puszták bővítése |
@@ -79,6 +85,10 @@
 | HUKN20023 | Tázlár-kiskunhalasi homokbuckák bővítése |
 
 | HUKN30002 | Gátéri Fehér-tó bővítése |
+
+| HUKN20014 | Hajósi-homokpuszta bővítése |
+
+| HUKN22037 | Kékhegyi Lőtér |
 
 8. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^68]
 
