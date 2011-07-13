@@ -5,13 +5,3 @@
 (3) Ha a külpolitikáért felelős miniszter állásfoglalása alapján a mentesség megállapítható, a mentességet élvező személy nem hallgatható ki, illetőleg polgári jogi igénye nem bírálható el.
 
 (4) Az 553. § (1) bekezdésében meghatározott mentességet élvező személy a büntetőeljárásban védőként és szakértőként nem járhat el, illetve hatósági tanúként nem vehető igénybe.
-
-## HATODIK RÉSZ
-
-## XXIX. Fejezet
-
-## KÜLÖNLEGES ELJÁRÁSOK
-
-I. CÍM
-
-ÁLTALÁNOS SZABÁLYOK

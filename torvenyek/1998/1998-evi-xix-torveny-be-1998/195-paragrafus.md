@@ -1,6 +1,6 @@
-195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság határozata rendelkezést tartalmaz – ha e törvény kivételt nem tesz –, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
+195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről, kényszerintézkedés elrendeléséről (VIII. Fejezet) további vagyoni jogok vagy érdekek korlátozásáról, valamint vagyoni jellegű kötelezettségek megállapításáról hozott határozata közvetlen rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
 
-(2) Nincs helye panasznak a más szakértőt kirendelő és a gyanúsított vagy a védő által szakvélemény elkészítésére felkért személy szakértőként való bevonását engedélyező határozat ellen [111–112. §].
+(2) A feljelentő nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
 
 (3) A panasznak – ha e törvény kivételt nem tesz – nincs halasztó hatálya. Kivételesen indokolt esetben a határozatot hozó, illetőleg a panaszt elbíráló a határozat végrehajtását a panasz elbírálásáig felfüggesztheti.
 

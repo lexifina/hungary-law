@@ -1,9 +1,11 @@
 ## Eljárás a külföldön tartózkodó terhelt távollétében
 
-532. § (1) Ha a terhelt külföldön tartózkodik, és kiadatásának, vagy az európai elfogató parancs alapján történő átadásának nincs helye, illetőleg kiadatását vagy az európai elfogató parancs alapján történő átadását megtagadták, és a büntetőeljárás átadására sem került sor, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
+532. § (1) Ha a terhelt külföldön ismert helyen tartózkodik, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
 
-(2) Ha a bírósági eljárásban állapítják meg, hogy a külföldön tartózkodó vádlott kiadatásának vagy az európai elfogató parancs alapján történő átadásának nincs helye, illetőleg kiadatását vagy az európai elfogató parancs alapján történő átadását megtagadták, és a bíróság a büntetőeljárás felajánlását nem tartja indokoltnak, felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
+(2) Ha a bírósági eljárásban állapítják meg, hogy a vádlott külföldön ismert helyen tartózkodik, a bíróság felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
 
-(3) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a külföldön tartózkodó vádlott kiadatásának vagy az európai elfogató parancs alapján történő átadásának nincs helye, illetőleg a kiadatását vagy az európai elfogató parancs alapján történő átadását megtagadták, és a bíróság a büntetőeljárás átadását nem tartja indokoltnak, a bíróság az ügyész felhívása nélkül folytatja a tárgyalást.
+(3) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik a bíróság az ügyész felhívása nélkül folytatja a tárgyalást.
 
-(4) Ha az eljárást a külföldön tartózkodó terhelttel szemben folytatják, illetve, ha a terhelt hazatért, az 527–531. § rendelkezéseit értelemszerűen kell alkalmazni.
+(4) Külföldön ismert helyen tartózkodó terhelttel szemben elfogató parancs kibocsátásának nincs helye, ha a vádiratban az ügyész szabadságvesztés büntetés kiszabására nem tett indítványt.
+
+(5) Ha az eljárást a külföldön tartózkodó terhelttel szemben folytatják, illetve, ha a terhelt hazatért, az 527–531. § rendelkezéseit értelemszerűen kell alkalmazni.

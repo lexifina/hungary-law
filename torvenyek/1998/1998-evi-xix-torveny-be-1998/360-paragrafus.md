@@ -12,7 +12,11 @@ d) ha a másodfokú bíróság a fellebbezés folytán a fellebbezéssel nem ér
 
 e) ha az eljárást a 373. § (1) bekezdésének I. pontja alapján meg kell szüntetni,
 
-f) ha az első fokú bíróság az ítéletét a 373. § (1) bekezdésének II–IV. pontjában meghatározott eljárási szabálysértéssel hozta meg.
+f) ha az első fokú bíróság az ítéletét a 373. § (1) bekezdésének II–IV. pontjában meghatározott eljárási szabálysértéssel hozta meg,
+
+g) ha az elsőfokú bíróság a büntetőeljárást a 267. § alapján szüntette meg;
+
+h) ha a másodfokú bíróság az elsőfokú határozatot kizárólag a 379. § alapján bírája felül.
 
 (2) A tanács elnöke tanácsülésre tartozó ügyben nyilvános ülést, illetőleg tárgyalást tűzhet ki.
 

@@ -6,4 +6,4 @@
 
 (3) Ha az ügyész nyomoz, a nyomozás határidejét az ügyészség vezetője legfeljebb a nyomozás elrendelésétől számított egy év elteltéig, azt követően a (2) bekezdésben meghatározott határidőig a felettes ügyészség vezetője, illetve a legfőbb ügyész hosszabbíthatja meg.
 
-(4) A nyomozás határidejének meghosszabbításáról rendelkező határozat ellen nincs helye panasznak.
+(4)

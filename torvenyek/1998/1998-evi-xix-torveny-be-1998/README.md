@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2011-01-07 | 1998. évi XIX. törvény | 1998-19-00-00.45 |
 | 2011-03-01 | 2010. évi CLXXXIII. törvény | 1998-19-00-00.46 |
 | 2011-07-01 | 2011. évi LXIII. törvény | 1998-19-00-00.47 |
+| 2011-07-13 | 2011. évi LXXXIX. törvény | 1998-19-00-00.48 |

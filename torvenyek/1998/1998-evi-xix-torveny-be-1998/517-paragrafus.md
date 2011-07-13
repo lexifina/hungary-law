@@ -1,8 +1,8 @@
 ## A bíróság elé állítás feltételei
 
-517. § (1) Az ügyész a terheltet a bűncselekmény elkövetésétől számított harminc napon belül bíróság elé állíthatja, ha
+517. § (1) Az ügyész a terheltet a gyanúsítottként történő kihallgatásától számított harminc napon belül bíróság elé állíthatja, ha
 
-a) a bűncselekményre a törvény nyolc évi szabadságvesztésnél nem súlyosabb büntetést rendel,
+a) a bűncselekményre a törvény nyolcévi szabadságvesztésnél nem súlyosabb büntetést rendel,
 
 b) az ügy megítélése egyszerű,
 

@@ -57,13 +57,3 @@ a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetért
 b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
 
 c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
-
-rendeletben megállapítsa.
-
-(5) Felhatalmazást kap
-
-a) a nyomozó hatóság országos parancsnoka (vezetője), hogy a legfőbb ügyésszel együttesen a nyomozással kapcsolatban utasításban,
-
-b) a legfőbb ügyész, hogy a büntetőeljárással összefüggő ügyészi feladatok ellátása során utasításban,
-
-c) az Országos Igazságszolgáltatási Tanács, hogy a bírósági eljárással kapcsolatban szabályzatban,

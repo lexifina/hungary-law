@@ -4,7 +4,7 @@
 
 (3) Ha a bíróság a tárgyalásra utalásra nem lát alapot, a vádlottat a büntetéskiszabási körülményekre is kihallgatja.
 
-(4) A vádlott kihallgatásának befejezése után az ügyész, ezt követően a védő felszólalhat.
+(4) A vádlott kihallgatásának befejezése után – amennyiben jelen van – az ügyész, ezt követően a védő felszólalhat.
 
 (5) A bíróság a vádlott bűnösségét a beismerő vallomására és a nyomozás irataira alapítja.
 

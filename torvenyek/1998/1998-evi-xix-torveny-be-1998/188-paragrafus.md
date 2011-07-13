@@ -18,7 +18,7 @@ g) nemzetközi büntető bíróság a joghatóságába tartozó ügyben a magyar
 
 h) a kábítószer-élvező gyanúsított önként alávetette magát a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételnek, és az a büntethetőség megszűnését eredményezheti, feltéve hogy további nyomozási cselekmény elvégzése nem szükséges.
 
-(2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja. A nyomozás folytatását elrendelő határozat ellen nincs helye panasznak.
+(2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja.
 
 (3) Az ügyész legfeljebb egyéves határidőt állapíthat meg
 

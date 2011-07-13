@@ -6,6 +6,6 @@
 
 (4) Ha az ügyész a kizárási okot nem maga jelentette be, a bejelentés elintézéséig az ügyben eljárhat, de – a 31. § (1) bekezdésének d) pontjában szabályozott kizárási ok kivételével – a feljelentést nem utasíthatja el, a nyomozást nem szüntetheti meg, kényszerintézkedést nem alkalmazhat, vádat nem emelhet, és a vádat nem képviselheti.
 
-(5) A megyei főügyészség területén lévő helyi ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz.
+(5) A megyei főügyészség területén lévő helyi ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Amennyiben a helyi ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránt bejelentett kérelem egyúttal a főügyészt is érinti, úgy a kizárásról a legfőbb ügyész határoz.
 
 (6) A külön törvény szerinti közvetítői eljárás során előterjesztett, a közvetítő kizárását megtagadó határozat elleni panaszról az ügyész az (1)–(5) bekezdés értelemszerű alkalmazásával határoz.

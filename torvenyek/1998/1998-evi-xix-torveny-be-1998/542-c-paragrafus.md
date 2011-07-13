@@ -1,6 +1,6 @@
 ## A másodfokú bírósági eljárás
 
-542/C. § (1) A bűnösség megállapítása, az 542/A. § (5) bekezdés szerint megállapított, a váddal egyező tényállás, minősítés, valamint a vádirat keretei között meghatározott büntetés, illetőleg intézkedés neme, mértéke, tartama miatt nincs helye fellebbezésnek.
+542/C. § (1) A bűnösség megállapítása, az 542/A. § (5) bekezdés szerint megállapított, a váddal egyező tényállás, minősítés, a vádirat keretei között meghatározott büntetés, illetve intézkedés neme, valamint – az 537. §-ban meghatározott személy elleni vádemelés esetén – mértéke, tartama miatt nincs helye fellebbezésnek.
 
 (2) A fellebbezésben az (1) bekezdés korlátai között lehet új tényt állítani és új bizonyítékra hivatkozni.
 

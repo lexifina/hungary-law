@@ -1,3 +1,3 @@
-## Ügyész eljárása
+## A tárgyalásról lemondás együttműködő terhelt esetén
 
-537. § Az ügyész az ügy körülményeinek, így különösen a terhelt személye és az elkövetett bűncselekmény figyelembevételével a vádiratban indítványozhatja az ügy nyilvános ülésen való elbírálását, ha az ügyész és a terhelt írásban megállapodott a vádról, amely tartalmazza a terhelt által beismert bűncselekmény leírását, a Btk. szerinti minősítését, az ügyész és a terhelt nyilatkozatát arra vonatkozóan, hogy milyen nemű, mértékű, tartamú büntetést, illetőleg intézkedést vesz tudomásul.
+537. § Azzal szemben, aki a bűncselekményt bűnszervezetben (Btk. 137. § 8. pont) követte el, és a nyomozás során az ügy, illetve más büntetőügy bizonyításához hozzájárulva, az ügyésszel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, de a nyomozás megszüntetésére bármely okból nem került sor, a tárgyalásról lemondás alapján folytatott eljárásban a büntetést a Btk. 85/A. §-ának, illetve a Btk. 87/C. §-ának az alapulvételével kell kiszabni. Ha a bűncselekményre a törvény nyolc évi szabadságvesztésnél súlyosabb büntetést rendel, a büntetést e büntetési tételkeret között kell kiszabni.

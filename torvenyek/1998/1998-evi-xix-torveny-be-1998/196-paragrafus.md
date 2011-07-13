@@ -1,4 +1,4 @@
-196. § (1) Akit az ügyész vagy a nyomozó hatóság intézkedése vagy intézkedésének elmulasztása érint, az a tudomásszerzéstől számított nyolc napon belül panasszal élhet.
+196. § (1) Akinek az ügyész vagy a nyomozó hatóság intézkedése vagy intézkedésének elmulasztása a jogait vagy érdekeit közvetlenül sérti, az a tudomásszerzéstől számított nyolc napon belül panasszal élhet.
 
 (2) Ha e törvény az ügyész vagy a nyomozó hatóság részére intézkedés megtételére határidőt állapított meg, az intézkedés elmulasztása miatt akkor lehet panasszal élni, ha a határidő eredménytelenül eltelt.
 
