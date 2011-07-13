@@ -26,35 +26,9 @@
 
 4. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-44. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) a 32. §-t követően a következő alcímmel és 32/A. §-sal egészül ki:
+44. §
 
-„BIZTONSÁGI SZERVEZET
-
-32/A. § (1) A vasúti közlekedés biztonsága érdekében a vasúti társaság vezetője közvetlen irányításában biztonsági szervezetet tart fenn. A vasúti társaság a biztonsági szervezet működtetésére más vasúti társasággal szerződést köthet. A biztonsági szervezettel rendelkező vasúti társaságok a biztonsági szervezetük feladatainak hatékony ellátása érdekében együttműködési szerződést köthetnek.
-
-(2) Az országos vasúti pályahálózatot működtető vasúti társaság a biztonsági szervezetet maga működteti.
-
-(3) A vasúti társaság a biztonsági szervezet feladatait a biztonságirányítási rendszerben látja el. Vasútbiztonsági tanúsítvány és vasútbiztonsági engedély megszerzésére nem kötelezett vasúti társaság esetében a biztonsági szervezet feladatait a vasútüzem-vezető is elláthatja.
-
-(4) Amennyiben a biztonsági szervezet a biztonságirányítási rendszer részét képezi,
-
-a) azt pályahálózat működtető vasúti társaság és integrált vasút társaság esetében a vasútbiztonsági engedélyben,
-
-b) egyéb esetben a vasútbiztonsági tanúsítványban
-
-hagyja jóvá a közlekedési hatóság.
-
-(5) Amennyiben a biztonsági szervezet a biztonságirányítási rendszer létrehozására nem kötelezett vasúti társaságban működik, a vasúti társaság e tevékenységére vonatkozó belső szabályzatát a közlekedési hatóság hagyja jóvá.
-
-(6) A közlekedési hatóság – a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja a közlekedésbiztonsági szervet a kiadott és visszavont vasútbiztonsági engedélyekről és vasútbiztonsági tanúsítványokról, valamint a jóváhagyott szabályzatokról.
-
-(7) A biztonsági szervezet gondoskodik a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események haladéktalan bejelentéséről, valamint a szükséges intézkedések meghozataláról, továbbá – a biztonságirányítási rendszerben foglalt kötelezettségekkel összhangban – az üzembentartói vizsgálat lefolytatására eseményvizsgáló szolgálatot tart fenn.
-
-(8) A biztonsági szervezettel kapcsolatos részletes szabályokat a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események vizsgálatának részletes szabályairól szóló jogszabály állapítja meg.”
-
-45. § A Vtv. 40. § (1) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(1) A helyi vasúti pálya – ide nem értve a sífelvonó által használt vasúti pályát – az önkormányzat vagy olyan szervezet tulajdonában állhat, amelyben az önkormányzat közvetve vagy közvetlenül legalább többségi irányítást biztosító befolyással rendelkezik.”
+45. §
 
 46. § A Vtv. 87. §-a a következő (13) bekezdéssel egészül ki:
 
@@ -72,47 +46,9 @@ hagyja jóvá a közlekedési hatóság.
 
 5. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-49. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 9/B. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+49. §
 
-„(2) Az önkormányzat a törzsvagyonának részét képező közutak és műtárgyaik működtetése céljából önkormányzati intézményt, vagy saját többségi befolyásával (Ptk. 685/B. §) e célra gazdálkodó szervezetet működtethet, a feladatot a többségi tulajdonában álló gazdasági társaságra ruházhatja, vagy a működtetést koncesszióba adhatja.”
-
-50. § A Kkt. 20. § (1) bekezdése a következő l) ponttal egészül ki:
-
-[Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban]
-
-„l) a magyarországi illetőségű személynek vagy szervezetnek a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára”
-
-[vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.]
-
-51. § A Kkt. a következő alcímmel és 25/B. §-sal egészül ki:
-
-„A külföldi rendszámmal ellátott járművek belföldi üzemeltetésére, használatára vonatkozó sajátos szabályok
-
-25/B. § (1) A közúti forgalomban a 25/A. §-ban meghatározott jármű a közlekedési igazgatási hatóság által kiadott magyar hatósági engedéllyel és jelzéssel vehet részt, amennyiben:
-
-a) az üzemben tartója e törvény rendelkezései szerint belföldi üzembentartónak minősül vagy
-
-b) vezetője Magyarország területén lakóhellyel rendelkezik.
-
-(2) Az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni, ha
-
-a) az üzemben tartó olyan nem természetes személy, amely rendszeres tevékenységét a külföldön bejegyzett székhelye vagy telephelye szerinti országban végzi,
-
-b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazgatási hatóságnál már kezdeményezte.
-
-(3) A (2) bekezdés b) pontja alkalmazása során forgalomba helyezés kezdeményezésének minősül a jármű származás ellenőrzési nyilvántartásba vétele is.
-
-(4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető
-
-a) szokásos tartózkodási helye nem Magyarország területén van,
-
-b) a járművet harminc napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
-
-c) a járművet Magyarország területén kívüli rendszeres munkavégzés érdekében használja.
-
-(5) A (2) és (4) bekezdésekben meghatározott feltételek fennállását az ellenőrzés során a jármű üzemben tartója, valamint a jármű vezetője közokirattal vagy teljes bizonyító erejű magánokirattal köteles igazolni.
-
-(6) Az ellenőrző hatóság az (1) bekezdésben meghatározottak megsértéséről a jármű hatósági engedélyében feltüntetett, a jármű tulajdonosára és az üzemben tartójára vonatkozó adatok, valamint a jármű azonosító- és műszaki adatainak továbbításával értesíti az állami adóhatóságot is.”
+50–51. §
 
 52. § A Kkt. 48. § (3) bekezdés a) pontja a következő 31. alponttal egészül ki:
 
