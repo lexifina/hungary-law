@@ -1,0 +1,1 @@
+34. § Hatályát veszti a Kbvt. 3. § (3) bekezdésében a „– a bírságból származó bevételek kivételével –” szövegrész, 19. § (4) bekezdésében és 19. § (5) bekezdésében a „harmadik államnak vagy” szövegrész, 20. § (2)–(3) bekezdése, 20. § (4) bekezdése, valamint 23. § (1) bekezdés a) pontja.
