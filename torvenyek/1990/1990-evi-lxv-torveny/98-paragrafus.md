@@ -14,7 +14,7 @@ d)
 
 e) a törvényességi ellenőrzés során szerzett tapasztalatai alapján az önkormányzat gazdálkodását érintő vizsgálat lefolytatását kezdeményezheti az Állami Számvevőszéknél;
 
-f) összehívja a képviselő-testület ülését, ha a 12. § (1) bekezdése szerint tett indítványnak a polgármester tizenöt napon belül nem tesz eleget;
+f) összehívja – és a levezető elnök megválasztásáig vezeti – a képviselő-testület ülését, ha a 12. § (1) bekezdése szerint tett indítványnak a polgármester az indítvány benyújtásától számított tizenöt napon belül nem tesz eleget.
 
 g) a feladat- és hatáskörébe tartozó ügyben az önkormányzat kérésére szakmai segítséget nyújt.
 

@@ -22,4 +22,4 @@ c) rövid lejáratú kötelezettség: az egy évet meg nem haladó lejáratra ka
 
 d) likvid hitel: az éven belül felvett és visszafizetett, a közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez felvett hitel.
 
-(4) A likvid hitel nem esik az e §-ban foglaltak szerinti korlátozás alá.
+(4) A (2) bekezdést nem kell alkalmazni a helyi önkormányzat által felvenni tervezett likvid hitel tekintetében, valamint a helyi önkormányzat adósságrendezési eljárása keretében megkötni tervezett egyezség során, ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg.

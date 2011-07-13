@@ -2,7 +2,7 @@
 
 (2) Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában, illetőleg a helyben szokásos — a szervezeti és működési szabályzatban meghatározott — módon ki kell hirdetni.
 
-(3) Az önkormányzati rendeletet a polgármester és a jegyző írja alá. Kihirdetéséről a jegyző gondoskodik.
+(3) Az önkormányzati rendeletet a polgármester és a jegyző, ha pedig a képviselő-testület ülését a 12. § (2) bekezdése szerinti esetben a levezető elnök vezeti, a levezető elnök és a jegyző írja alá. Az önkormányzati rendelet kihirdetéséről a jegyző gondoskodik.
 
 (4) Ha az önkormányzati rendelet kihirdetett szövege eltér az önkormányzati rendelet aláírt szövegétől, a polgármester vagy a jegyző kezdeményezi az eltérés helyesbítését. Az önkormányzati rendelet a hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon helyesbíthető. Az eltérés megállapítása esetén a helyesbítés megjelentetéséről a jegyző az önkormányzati rendelet kihirdetésével azonos módon gondoskodik.
 

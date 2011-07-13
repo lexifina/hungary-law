@@ -2,7 +2,7 @@
 
 12. § (1) A képviselő-testület szükség szerint, a szervezeti és működési szabályzatban meghatározott számú, de évente legalább hat ülést tart. Az ülést össze kell hívni a települési képviselők egynegyedének vagy a képviselő-testület bizottságának az indítványára.
 
-(2) A képviselő-testület elnöke a polgármester, aki összehívja és vezeti a képviselő-testület ülését.
+(2) A képviselő-testület elnöke a polgármester, aki összehívja és vezeti a képviselő-testület ülését. Ha a képviselő-testület ülését a 98. § (2) bekezdés f) pontja alapján a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv hívja össze, az ülés levezetésére a képviselő-testület által a tagjai sorából egyszerű többséggel megválasztott levezető elnök köteles.
 
 (3) A képviselő-testület ülése nyilvános.
 
