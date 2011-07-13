@@ -1,6 +1,6 @@
 ## A büntetés kiszabása tárgyalásról lemondás esetén
 
-87/C. § A tárgyalásról lemondás (Be. XXVI. Fejezet) esetén a szabadságvesztés mértéke
+87/C. § Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §) a szabadságvesztés mértéke
 
 a) az öt évet meghaladó, de nyolc évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a három évet,
 

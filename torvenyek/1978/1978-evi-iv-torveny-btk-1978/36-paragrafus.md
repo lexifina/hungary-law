@@ -1,8 +1,8 @@
 ## Tevékeny megbánás
 
-36. § (1) Nem büntethető, aki a személy elleni (XII. fejezet I. és III. cím), közlekedési (XIII. fejezet) vagy vagyon elleni (XVIII. fejezet) vétség vagy három évi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
+36. § (1) Nem büntethető, aki a személy elleni (XII. fejezet I. és III. cím), közlekedési (XIII. fejezet) vagy vagyon elleni (XVIII. fejezet) vétség vagy háromévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. Az elkövető nem büntethető a Be. 221/A. §-a (1) bekezdésének második mondata szerinti halmazatban lévő bűncselekmény miatt sem.
 
-(2) A büntetés korlátlanul enyhíthető, ha az elkövető az (1) bekezdésben meghatározott bűncselekmények esetében az öt évi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
+(2) A büntetés korlátlanul enyhíthető, ha az elkövető az (1) bekezdésben meghatározott bűncselekmények esetében az ötévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. A büntetés korlátlanul enyhíthető a Be. 221/A. §-a (1) bekezdésének második mondata szerinti halmazatban lévő bűncselekmény esetében is.
 
 (3) Az (1)–(2) bekezdés alkalmazásának nincs helye, ha az elkövető
 
