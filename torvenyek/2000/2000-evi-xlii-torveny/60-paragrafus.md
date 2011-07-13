@@ -22,8 +22,8 @@ j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett
 
 k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére
 
-vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti azzal, hogy a bíráság kiszabása csak az 58. § (8) bekezdésében foglaltak mérlegelésével mellőzhető. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
+vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
 
-(2) A bírság összege legfeljebb a külön jogszabályban megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
+(2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
 
 (3) A beszedett bírság összege a hajózási hatóságot illeti meg.

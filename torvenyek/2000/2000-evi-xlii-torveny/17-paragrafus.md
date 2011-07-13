@@ -18,6 +18,6 @@ d) osztályozásra kötelezett úszólétesítmény esetén, érvényes osztály
 
 (3) Az úszólétesítmény üzemképes, ha rendeltetésének, továbbá az engedélyezett hajózási zónára, illetőleg hajózási körzetre vonatkozó – külön jogszabályban megállapított – műszaki, biztonsági és környezetvédelmi követelményeknek megfelel.
 
-(4) A nyilvántartásba vételre kötelezett úszólétesítmény üzemképességét a hajózási hatóság – külön jogszabályban meghatározott – hajóokmányban tanúsítja.
+(4) A nyilvántartásba vételre kötelezett úszólétesítmény üzemképességét a hajózási hatóság – – hajóokmányban tanúsítja.
 
 (5) Ha jogszabály eltérően nem rendelkezik, nemzetközi szerződésben előírt hajóokmányt csak a hajózási hatóság adhat ki.

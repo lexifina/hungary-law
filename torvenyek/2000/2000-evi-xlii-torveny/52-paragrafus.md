@@ -24,7 +24,7 @@ h) a részvény bevonásának és megsemmisítésének időpontját.
 
 (5) A hajózási engedély kiadásának és visszavonásának feltételeiről külön jogszabály rendelkezik.
 
-(6) Hajózási engedély annak a magyarországi székhelyű jogi személynek vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek adható, amelynek vezetője vagy hajózási üzemeltetési vezetője (a továbbiakban együtt: vezető) a hajózási hatóság részére igazolja személyes megbízhatóságát.
+(6) Hajózási engedély annak a magyarországi székhelyű jogi személynek vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek adható, amelynek vezetője vagy hajózási üzemeltetési vezetője (a továbbiakban együtt: vezető) a hajózási hatóság részére igazolja személyes megbízhatóságát és szakmai alkalmasságát.
 
 (7) A személyes megbízhatóság követelményének nem felel meg az a vezető,
 

@@ -32,7 +32,7 @@ rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
-a) a hajózási tevékenység engedélyezése rendjének,
+a) a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
 
 b) az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
 
@@ -42,7 +42,7 @@ d) az úszólétesítmény üzemeltetésével összefüggő – a törvényben n
 
 e) a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
 
-f) a víziközlekedés ágazati információs rendjének, a folyami információs szolgáltatások működtetési és fejlesztési feladatai – beleértve a külföldi folyami információs szolgálatokkal folytatott adatcserét – részletes szakmai és működtetési szabályainak, valamint a folyami információs szolgáltatások eszközeinek és szoftvereinek típusjóváhagyási rendjének,
+f) a folyami információs szolgáltatások szakmai és működtetési szabályainak,
 
 g) az úszólétesítmények és szállítótartályok felügyeletének,
 

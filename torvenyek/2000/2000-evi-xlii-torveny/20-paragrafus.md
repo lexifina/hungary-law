@@ -1,1 +1,1 @@
-20. § A külön jogszabályban meghatározott kedvtelési célú kishajót, csónakot és motoros vízi sporteszközt kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
+20. § A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott kedvtelési célú vízijárművet kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.

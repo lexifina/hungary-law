@@ -14,7 +14,7 @@ révkalauzt kell igénybe venni.
 
 (3) A révkalauzok nyilvántartásába a hajózási hatóság azt a személyt jegyezheti be, aki
 
-a) az úszólétesítmény (kötelék) vezetésére – külön jogszabályban – meghatározott képesítéssel rendelkezik,
+a) az úszólétesítmény (kötelék) vezetésére meghatározott képesítéssel rendelkezik,
 
 b) a víziút adott szakaszára vonalvizsgát tett, és a vizsga letételét követően az adott szakaszon hajó vezetőjeként legalább 12 havi hajózási gyakorlatot szerzett,
 

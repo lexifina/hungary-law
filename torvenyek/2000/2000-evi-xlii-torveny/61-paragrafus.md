@@ -2,18 +2,10 @@
 
 ## VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
-61. § (1) Ha a Magyar Köztársaság területén a hajózási tevékenység folytatása alatt
+61. § (1) A víziközlekedési baleset és a víziközlekedési esemény szakmai vizsgálata a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározottak szerint történik.
 
-a) úszólétesítményt az üzemképességet érintő, vagy a hajóút teljes, illetve részleges elzárását eredményező baleset ér,
+(2)
 
-b) úszólétesítmény eltűnik,
-
-c) a víziközlekedés szabályainak megsértése miatt súlyos – 8 napon túl gyógyuló – testi sérülés vagy halál következik be
-
-(a továbbiakban együtt: víziközlekedési baleset), azt ki kell vizsgálni.
-
-(2) Vizsgálni kell azokat a víziközlekedési balesetet nem okozó eseteket is, amelyek a víziközlekedés biztonságát veszélyeztették (a továbbiakban: rendkívüli hajózási események).
-
-(3) Az (1) és a (2) bekezdésben említett szakmai vizsgálat célja a víziközlekedési baleset, illetve a rendkívüli hajózási esemény okának és körülményeinek megállapítása, és a hasonló esetek megelőzése érdekében szükséges intézkedések megtétele.
+(3) A vizsgálat célja az (1) bekezdésben hivatkozott törvényben meghatározott víziközlekedési baleset vagy víziközlekedési esemény okának és körülményeinek megállapítása, és a hasonló esetek megelőzése érdekében szükséges intézkedések megtétele.
 
 (4) A szakmai vizsgálat a munkabaleset kivizsgálására, továbbá a havaria és a környezeti káreset vizsgálatára vonatkozó rendelkezéseket nem érinti.

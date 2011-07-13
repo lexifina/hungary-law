@@ -12,7 +12,7 @@ d) nemzetközi kapcsolatokban a hajózással összefüggő nemzeti érdekek és 
 
 e) a víziközlekedés ágazati irányításához szükséges adatgyűjtés elrendelése;
 
-f) a hajózási, víziúti és kikötői operatív információs rendszer – beleértve a folyami információs szolgáltatásokat – kiépítése, fejlesztése és működtetése, a külön jogszabályban megállapított információs alapszolgáltatásoknak a felhasználóknak való térítésmentes rendelkezésre bocsátása;
+f) a hajózási, víziúti és kikötői operatív információs rendszer – beleértve a folyami információs szolgáltatásokat – kiépítése, fejlesztése és működtetése, a a folyami információs szolgáltatásokról szóló kormányrendeletben megállapított információs alapszolgáltatásoknak a felhasználóknak való térítésmentes rendelkezésre bocsátása;
 
 g) a hajózás – nemzetközi követelményeknek megfelelő – rendjének meghatározása;
 

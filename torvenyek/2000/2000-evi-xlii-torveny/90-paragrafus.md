@@ -13,3 +13,5 @@ e) az Európai Parlament és a Tanács 2000/34/EK irányelve (2000. június 22.)
 f) az Európai Parlament és a Tanács 2005/44/EK irányelve (2005. szeptember 7.) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról, 3. cikk f) pontja, 9. cikk;
 
 g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
+
+h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.

@@ -8,7 +8,11 @@
 
 2. belvízi, illetőleg tengeri hajó: rendeltetésének megfelelő, nyilvántartásba vett, és építése, berendezése és felszerelése alapján belvízi, illetőleg tengeri közlekedésre alkalmas vízijármű;
 
-3. csónak: az emberi erővel hajtott – hajónak, kompnak, vízi sporteszköznek nem minősülő – felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket. Csónak továbbá az a szélerővel vagy gépi berendezéssel hajtott – hajónak, kompnak, vízi sporteszköznek nem minősülő – vízijármű is, amelynek hossza a 6,2 métert, névleges vitorlafelülete a 10 m2-t, illetőleg motorteljesítménye a 4 kW-ot nem éri el. Nem minősül csónaknak az építése, berendezése és felszerelése alapján elsődlegesen nem hajózási tevékenység folytatására alkalmas – külön jogszabályban meghatározott – úszóeszköz;
+3. csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő
+
+a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
+
+b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 6,2 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 4 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 
 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 
@@ -16,7 +20,7 @@
 
 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;
 
-7. gyorsjáratú hajó: a hordszárnyas és a légpárnás hajó;
+7. gyorsjáratú hajó: az a hajó – a kishajók kivételével – amely a 40 km/h-t meghaladó holtvízi sebességgel való közlekedésre alkalmas, és ezt a hajóbizonyítványába bejegyezték;
 
 8. hajó: építésénél, berendezésénél és felszerelésénél fogva a vízen való közlekedésre alkalmas vízijármű;
 
@@ -28,7 +32,7 @@
 
 12. hajózási létesítmény: a víziközlekedés biztonságát és zavartalanságát elősegítő vagy az úszólétesítmények kikötésére, veszteglésére szolgáló, a vízen, illetőleg a parton lévő hajózási célokat szolgáló létesítmény;
 
-13. hajózási tevékenység: a vízen történő személyszállítás és árufuvarozás, más úszólétesítmény vízen vontatással, tolással vagy mellévett alakzatban való továbbítása, továbbá úszólétesítménynek a vízen egyéb célból (pl. halászat, kutatás, vendéglátás, munkavégzés) való működtetése, ide nem értve a kedvtelési célú hajózást;
+13. hajózási tevékenység: a vízen történő személyszállítás és árufuvarozás, más úszólétesítmény vízen vontatással, tolással vagy mellévett alakzatban való továbbítása, továbbá úszólétesítmény vízen történő nem kedvtelési célú működtetése;
 
 14. hajózási zóna: belvízen az időjárás és a hullámzás függvényében meghatározott vízterület;
 
@@ -38,11 +42,13 @@
 
 17. havaria: az úszólétesítményt ért vagy az úszólétesítmény által okozott baleset;
 
-18. kedvtelési célú hajózás: nem gazdasági célból folytatott hajózási tevékenység (pl. vízi turizmus, sportcélú hajózás);
+18. kedvtelési célú hajózás: vízijármű nem gazdasági célú, szabadidő eltöltését szolgáló használata;
 
 19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó kivételével;
 
-20. kikötő: az úszólétesítmények kikötésére kijelölt, vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére. Zárt öbölben vagy medencében – ha az öböl, illetve medence teljes területén, a befogadóba torkollásig a kikötőhöz tartozik – a hajóutat a kikötőhöz tartozó vízterületnek kell tekinteni;
+20. kikötő: az úszólétesítmények kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
+
+20a. kikötői tevékenység: olyan víziközlekedéssel kapcsolatos tevékenység, amely során személyek ki- és beszállása, áru ki-, be- és átrakása, tárolása és kezelése történik;
 
 21. kishajó: az a belvízi hajó, amelynek a hajótesten mért hossza a 20 métert nem éri el, valamint az a tengeri hajó, amelynek a hajótesten mért hossza a 24 métert nem éri el;
 
@@ -66,7 +72,7 @@
 
 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
 
-32. révhajó, révcsónak: csak személyeket szállító, a vízen történő közútpótló átkelésre szolgáló komp;
+32. révhajó, révcsónak: csak személyeket szállító, a komp;
 
 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
 
@@ -80,9 +86,11 @@
 
 38. úszólétesítmény: víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés;
 
-39. úszómű: helyváltoztatásra általában nem szolgáló, önálló meghajtással nem rendelkező, vízen munkát nem végző úszólétesítmény;
+39. úszómű: helyváltoztatásra nem szolgáló, önálló meghajtással nem rendelkező, vízen munkát nem végző úszólétesítmény;
 
 40. üzemben tartó: az úszólétesítmény, illetve kikötő tulajdonosa, valamint aki az úszólétesítmény, illetve kikötő szerződés alapján vagy más jogcímen való üzemben tartására jogosult;
+
+40a. versenyhajó: versenyszerű sporttevékenység folytatására felszerelt és használt kishajó;
 
 41. veszteglőhely: úszólétesítmények rendeltetésszerű üzemeltetés közbeni, átmeneti tartózkodására kijelölt vízterület és csatlakozó partszakasz;
 
@@ -90,9 +98,9 @@
 
 43. víziközlekedés: vízen úszólétesítménnyel végzett helyváltoztatás. A víziközlekedési tevékenység része továbbá az úszólétesítmények kiszolgálásával kapcsolatos létesítmények (pl. kikötő) működtetése is;
 
-44. vízi sporteszköz: vízen való közlekedésre alkalmas, rendeltetésszerű használata esetén úszóképes és kormányozható, kedvtelési rendeltetésű, hajónak, kompnak, csónaknak nem minősülő vízijármű;
+44. vízi sporteszköz: vízen való közlekedésre alkalmas, rendeltetésszerű használata esetén úszóképes és kormányozható, kedvtelési rendeltetésű hajónak, csónaknak nem minősülő vízijármű;
 
-45. víziút: a víziközlekedés pályája, a folyók, csatornák és tavak – külön jogszabályban víziúttá nyilvánított – szakasza vagy része;
+45. víziút: a víziközlekedés pályája, a folyók, csatornák és tavak – miniszter rendeletében víziúttá nyilvánított – szakasza vagy része;
 
 46. víziút fenntartója: a víziúttá nyilvánított hajózható vizek tulajdonosa, illetve kezelője;
 

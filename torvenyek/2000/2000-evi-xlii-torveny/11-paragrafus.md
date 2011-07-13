@@ -18,7 +18,7 @@ f) elő- vagy visszavásárlási jog és vételi jog,
 
 g) végrehajtási jog.
 
-(4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat külön jogszabály állapítja meg.
+(4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat az úszólétesítmények lajstromozásáról szóló jogszabály állapítja meg.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
@@ -26,6 +26,6 @@ g) végrehajtási jog.
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 
-(8) A lajstromba vételről a hajózási hatóság külön jogszabályban megállapított okmányt állít ki.
+(8) A lajstromba vételről a hajózási hatóság az úszólétesítmények lajstromozásáról szóló jogszabályban meghatározott okmányt állít ki. A lajstromozási okmányt vagy más – a hajózási hatóság által kiállított – olyan okmányt, amely a lajstromozás tényét tanúsítja, az úszólétesítményen kell tartani.
 
-(9) A lajstromozási okmányt az úszólétesítményen kell tartani.
+(9)

@@ -14,7 +14,7 @@ a) a nyilvántartásba vételre nem kötelezett úszólétesítményekkel végze
 
 b) a központi költségvetési szervek jogszabályban előírt feladatainak saját eszközökkel való ellátásához,
 
-c) természetes személy vagy sportegyesület kizárólag kedvtelési célból folytatott hajózási tevékenységéhez, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
+c) vízijármű kedvtelési célú használatához, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
 
 d) úszómű szálláshelyként vagy kikötő, hajózási létesítmény elemeként történő üzemeltetéséhez, kivéve a gazdasági célból történő üzemeltetést,
 
