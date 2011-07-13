@@ -24,7 +24,7 @@ k) a polgári légijármű, illetve a légiközlekedéssel kapcsolatos eszköz t
 
 l) a légialkalmassági bizonyítvány kötelező tartalmi elemeit, valamint az üzemben tartónak a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatait,
 
-m)
+m) a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó segélynyújtásról szóló nemzeti vészhelyzeti tervre és a légitársasági segélynyújtási tervre vonatkozó szabályokat,
 
 n) a légvédelmi készenléti gyakorlórepülések végrehajtásának általános szabályait,
 
@@ -48,7 +48,7 @@ w) a kötelező felelősségbiztosítás szabályait,
 
 x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikke szerinti elosztási eljárás szabályait,
 
-y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, valamint
+y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
 
 z) a lajstromozásra nem kötelezett légijárművekkel kapcsolatos feladatokat, amelyeket nem közigazgatási feladat ellátására létrehozott szervezet lát el, továbbá az azokkal kapcsolatos eljárási szabályokat.
 

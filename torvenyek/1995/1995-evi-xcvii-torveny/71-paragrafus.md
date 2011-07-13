@@ -44,7 +44,7 @@ h) a légvédelmi készenléti repülések kivételével az állami légijármű
 
 12. légiközlekedéssel összefüggő tevékenység:
 
-a) a légijármű, annak részei, berendezései és alkatrészei, valamint a légiközlekedéssel kapcsolatos eszköz gyártása, karbantartása, javítása,
+a) a légijármű, légijármű komponens, valamint a légiközlekedéssel kapcsolatos eszköz gyártása, valamint karbantartása,
 
 b) a légijármű bérbeadása,
 
@@ -89,3 +89,7 @@ f) a légijármű földi kiszolgálása;
 28. légvédelmi készenléti repülés: a légvédelmi készenléti szolgálatot ellátó állami légijárművek valós és gyakorló repülése;
 
 29. légi cél: azon légijármű, amely vonatkozásában a légvédelmi készenléti szolgálat számára elfogási feladat került meghatározásra.
+
+30. légijármű komponens: a légijármű hajtóműve (beleértve a segédhajtóművet is), légcsavarja, alkatrésze vagy berendezése,
+
+31. karbantartás: légijármű, légijármű komponens vagy légiközlekedéssel kapcsolatos eszköz nagyjavítása, kisjavítása, ellenőrző vizsgálata, alkatrészpótlása, átalakítása, hibaelhárítása, vagy ezek kombinációja, kivéve a légijármű repülés előtti ellenőrzését.

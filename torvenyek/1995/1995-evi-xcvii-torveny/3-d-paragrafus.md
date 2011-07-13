@@ -2,7 +2,7 @@
 
 a) légijármű lajstromba vétele,
 
-b) légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
+b) légijármű és légijármű komponens karbantartó szervezetek jóváhagyása,
 
 c) légijármű üzemben tartási engedély kiadása és módosítása,
 

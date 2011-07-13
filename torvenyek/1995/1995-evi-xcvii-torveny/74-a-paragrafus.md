@@ -24,7 +24,9 @@ k) a Bizottsági 255/2010/EU rendelete (2010. március 25.) a légiforgalomáram
 
 l) a Bizottság 285/2010/EU rendelete (2010. április 6.) a légifuvarozókra és légi járművek üzemben tartóira vonatkozó biztosítási követelményekről szóló 785/2004/EK európai parlamenti és tanácsi rendelet módosításáról;
 
-m) a Bizottság 691/2010/EU rendelete (2010. július 29.) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének megállapításáról, valamint a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló 2096/2005/EK rendelet módosításáról, 12. cikk.
+m) a Bizottság 691/2010/EU rendelete (2010. július 29.) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének megállapításáról, valamint a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló 2096/2005/EK rendelet módosításáról, 12. cikk;
+
+n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

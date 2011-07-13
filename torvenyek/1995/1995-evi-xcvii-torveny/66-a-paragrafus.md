@@ -24,7 +24,7 @@ vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírs�
 
 (2) A bírságolással kapcsolatos eljárást:
 
-a) a légiközlekedési hatóság, állami célú légiközlekedés tekintetében a katonai légügyi hatóság,
+a) a légiközlekedési hatóság,
 
 b) az (1) bekezdés g) pontjába tartozó esetekben – amennyiben az eljárás a rendőrségnél indult – a rendőrség
 

@@ -62,7 +62,7 @@ b) a miniszter a 19. § (1) és (3) bekezdésében meghatározott esetekben, hog
 
 c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a szabályait,
 
-d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait,
+d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait,
 
 e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 
@@ -100,6 +100,6 @@ u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben a M
 
 v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
 
-w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait
+w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait.
 
 rendeletben állapítsa meg,
