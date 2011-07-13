@@ -6,6 +6,6 @@
 
 (4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezi, a végzés ellen fellebbezésnek helye nincs.
 
-(5) A bíróság az eljárást befejező végzéssel egyidejűleg a pénzügyi gondnokot a tisztsége alól felmenti, és megállapítja díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnoknak és a helyi önkormányzatokért felelős miniszternek (a továbbiakban: miniszter) van fellebbezési joga.
+(5) A bíróság az eljárást befejező végzéssel egyidejűleg a pénzügyi gondnokot e tisztsége alól felmenti, és megállapítja díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter fellebbezhet.
 
 (6) Az adósságrendezési eljárás befejezését a bíróság a Cégközlönyben közzéteszi.

@@ -36,12 +36,24 @@ Az alapvető lakossági szolgáltatások
 
 16. A személyes gondoskodás keretébe tartozó szociális alapszolgáltatási és gyermekjóléti alapellátások (az étkeztetés, a házi segítségnyújtás, a családsegítés, a gyermekjóléti szolgáltatás, gyermekek napközbeni ellátása, gyermekek átmeneti gondozása) (1993. évi III. törvény, 1997. évi XXXI. törvény).
 
-17. A személyes gondoskodás keretébe tartozó szociális és gyermekvédelmi szakellátás: ápolást, gondozást nyújtó intézmények, rehabilitációs intézmények, nappali ellátást nyújtó intézmények, átmeneti ellátást nyújtó intézmények által ellátott feladatok, otthont nyújtó ellátás, területi gyermekvédelmi szakszolgáltatás, utógondozói ellátás (1993. évi III. törvény, 1997. évi XXXI. törvény).
+17. A személyes gondoskodás keretébe tartozó szociális és gyermekvédelmi szakellátás: ápolást, gondozást nyújtó intézmények, rehabilitációs intézmények, nappali ellátást nyújtói intézmények, átmeneti ellátást nyújtó intézmények által ellátott feladatok, otthont nyújtó ellátás, területi gyermekvédelmi szakszolgáltatás, utógondozói ellátás (1993. évi III. törvény, 1997. évi XXXI. törvény).
 
 18. A helyi önkormányzat feladat- és hatáskörébe tartozó szakosított ellátások megszervezése (1993. évi III. törvény).
 
-19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások (lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, kiegészítő gyermekvédelmi támogatás, rendkívüli gyermekvédelmi támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
+19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások, a helyi döntésen alapuló ellátások kivételével (időskorúak járadéka, bérpótló juttatás, rendszeres szociális segély, lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, kiegészítő gyermekvédelmi támogatás, rendkívüli gyermekvédelmi támogatás, óvodáztatási támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
 
 20. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (1990. évi LXV. törvény).
 
 21. A jövedelempótló támogatásban részesülők számára közhasznú (közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez kapcsolódó) foglalkoztatás szervezése (1991. évi IV. törvény, 1993. évi III. törvény).
+
+22. A kulturális javak gyűjtése, őrzése, tudományos feldolgozása és bemutatása, a régészeti örökség védelme megyei múzeumi szervezet fenntartásával (1997. évi CXL. törvény).
+
+23. A települési és a megyei könyvtári ellátás biztosítása (1997. évi CXL. törvény).
+
+24. A megyei (fővárosi) önkormányzatnál a megye települési (a fővárosi kerületek) önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
+
+25. A megyei (fővárosi) közlevéltár működtetése (1995. évi LXVI. törvény).
+
+26. A megváltozott munkaképességűeket foglalkoztató közhasznú gazdálkodó szervezettel érvényben lévő szerződésből eredő kötelezettségek (1991. évi IV. törvény).
+
+27. Megyei önkormányzat esetében minden olyan feladat, amelyhez az Országgyűlés normatív állami hozzájárulást, felhasználási kötöttséggel járó állami támogatást állapít meg.

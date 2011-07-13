@@ -1,4 +1,4 @@
-22. § (1) Amennyiben a reorganizációs programot és egyezségi javaslatot az adósságrendezési bizottság nem készíti el, vagy azt az adósságrendezés megindításának időpontjától számított 150 napon belül a képviselő-testület nem fogadja el, a pénzügyi gondnok erről a hitelezőket értesíti.
+22. § (1) Amennyiben a reorganizációs programot és egyezségi javaslatot az adósságrendezési bizottság nem készíti el, vagy azt az adósságrendezés megindításának időpontjától számított 180 napon belül a képviselő-testület nem fogadja el, a pénzügyi gondnok erről a hitelezőket értesíti.
 
 (2) A hitelezők a pénzügyi gondnok értesítését követő 30 napon belül a helyi önkormányzat tartozásainak rendezésére vonatkozóan hitelezői egyezségi tervet (terveket) készíthetnek. Erről a szándékukról az értesítést követő 8 napon belül a pénzügyi gondnokot tájékoztatniuk kell.
 

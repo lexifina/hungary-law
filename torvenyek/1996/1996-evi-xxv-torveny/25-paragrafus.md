@@ -16,4 +16,4 @@ e) a vitatott hitelezői igényekre vonatkozó kimutatást és a szükséges ira
 
 (4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját.
 
-(5) Amennyiben az adósságrendezés megindításának időpontjától számított 210 napon belül nem jön létre egyezség, úgy ezt a pénzügyi gondnok 3 napon belül bejelenti a bírósághoz.
+(5) Amennyiben az adósságrendezés megindításának időpontjától számított 240 napon belül nem jön létre egyezség, úgy ezt a pénzügyi gondnok 3 napon belül bejelenti a bírósághoz.

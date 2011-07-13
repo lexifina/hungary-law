@@ -4,6 +4,16 @@
 
 35. § (1) E törvény a kihirdetését követő 60. napon lép hatályba.
 
-(2) A törvény végrehajtásával kapcsolatos eljárás szabályait a Kormány rendeletben állapítja meg.
+(2) Felhatalmazást kap a Kormány, hogy
+
+a) a pénzügyi gondnokok névjegyzékére, a pénzügyi gondnok kijelölésére és tevékenységére vonatkozó szabályokat,
+
+b) a pénzügyi gondnok díjának folyósításával és elszámolásával összefüggő szabályokat,
+
+c) a helyi önkormányzat adósságrendezésére irányuló hitelfelvételhez nyújtandó visszterhes kamattámogatás és a helyi önkormányzatok adósságrendezési eljárás alatti egyéb támogatásának feltételeire, a támogatás döntési rendszerére, felhasználására, folyósítására és az azzal való elszámolásra vonatkozó szabályokat és
+
+d) a törvény végrehajtásával kapcsolatos egyéb eljárási szabályokat
+
+rendeletben állapítsa meg.
 
 (3)

@@ -1,1 +1,5 @@
-37. §
+37. § (1) Az e törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő egyes törvények módosításáról szóló 2011. évi XC. törvénnyel (a továbbiakban: mód. törvény) megállapított rendelkezéseit a mód. törvény hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban kell alkalmazni, minden olyan helyi önkormányzat esetében, amelynek a 2011. évi költségvetési főösszege az 1 milliárd forintot meghaladja és a mód. törvény hatálybalépésekor a bíróság a pénzügyi gondnok 29. § (6) bekezdése szerinti jelentését végzésével még nem hagyta jóvá.
+
+(2) Ha a válságköltségvetés elfogadására az e törvénynek a mód. törvénnyel megállapított 19. § (4) bekezdésében meghatározott, vagy a reorganizációs program és egyezségi javaslat elfogadására a 22. § (1) bekezdésében meghatározott, illetve az egyezség létrejöttére a 25. § (5) bekezdésében meghatározott határidőből a mód. törvény hatálybalépésekor 15 napnál kevesebb van hátra, az eredeti határidő a mód. törvény hatálybalépésétől számított 15. napon jár le.
+
+(3) A mód. törvény hatálybalépését követően a képviselő-testület a már elfogadott válságköltségvetését, elfogadott reorganizációs programját és egyezségi javaslatot – a (2) bekezdésben foglaltak figyelembe vételével – módosíthatja.

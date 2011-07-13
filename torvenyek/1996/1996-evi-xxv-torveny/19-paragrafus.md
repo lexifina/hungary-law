@@ -4,4 +4,4 @@
 
 (3) Az adósságrendezés megindítása időpontjától kezdődően a válságköltségvetési rendelet elfogadásáig – a 13. § (1) bekezdésében írt rendelkezése megtartása mellett – a helyi önkormányzat korábbi rendeleteinek megfelelően kell a feladatokat ellátni. A hatósági feladatok, valamint az alapvető lakossági szolgáltatások folyamatos ellátásával összefüggően ebben az időtartamban keletkezett, ki nem egyenlített tartozásokat a válságköltségvetésben kiadásként kell figyelembe venni.
 
-(4) Ha a képviselő-testület a válságköltségvetési rendeletet az adósságrendezés megindításának időpontját követő 60 napon belül nem fogadja el, a pénzügyi gondnok köteles ezt a tényt a bíróságnak bejelenteni, amely az adósságrendezési eljárás az e törvény IV. fejezetében foglaltak szerinti folytatását rendeli el.
+(4) Ha a képviselő-testület a válságköltségvetési rendeletet az adósságrendezés megindításának időpontját követő 90 napon belül nem fogadja el, a pénzügyi gondnok köteles ezt a tényt a bíróságnak bejelenteni, amely az adósságrendezési eljárás az e törvény IV. fejezetében foglaltak szerinti folytatását rendeli el.
