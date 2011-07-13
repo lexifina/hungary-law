@@ -64,7 +64,9 @@ a) a Kormány, hogy
 
 29. az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló szabályokat,
 
-30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét
+30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét,
+
+31. a reklámtábláknak, a reklámhordozóknak és egyéb reklám célú berendezéseknek a közutak melletti elhelyezésére vonatkozó részletes szabályokat
 
 b) a miniszter, hogy
 
