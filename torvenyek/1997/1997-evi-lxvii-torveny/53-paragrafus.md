@@ -14,8 +14,10 @@ e) alkalmatlan
 
 értékelést kaphat.
 
-(3) A bíróság elnöke az értékelés eredményét írásban indokolni köteles, s azt a bírónak, valamint – a legfelsőbb bírósági bíró kivételével – a bíró beosztása szerint illetékes fellebbviteli bíróság kollégiumvezetőjének meg kell küldenie.
+(3) Amennyiben a Be. XXVIII/A. fejezete, vagy a Pp. XXVI. fejezete szerinti ügyet tárgyaló bíró az ezen ügyekre meghatározott törvényi határidőt mulaszt, úgy e körülményt az értékelésnél figyelembe kell venni és az értékelés eredményeként „alkalmas” értékelésnél magasabb minősítést nem kaphat.
 
-(4) Ha a bíró az értékelés eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap, az értékelő az értékelésben megállapítja a tapasztalt hiányosságokat, rendellenességeket és megjelöli a kívánt változtatás fő szempontjait, amelyeket a következő vizsgálat alkalmával meg kell vizsgálni. A következő vizsgálatot 2 éven belül el kell végezni. A 12. § (6) bekezdése szerint ismét határozott időre kinevezett bíró vizsgálatát a határozott idő leteltét megelőzően kell elvégezni.
+(4) A bíróság elnöke az értékelés eredményét írásban indokolni köteles, s azt a bírónak, valamint – a legfelsőbb bírósági bíró kivételével – a bíró beosztása szerint illetékes fellebbviteli bíróság kollégiumvezetőjének meg kell küldenie.
 
-(5) A bíró a következő vizsgálatkor alkalmatlan minősítést kap abban az esetben is, ha az értékelése e vizsgálat alkalmával sem éri el legalább az alkalmas értékelést.
+(5) Ha a bíró az értékelés eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap, az értékelő az értékelésben megállapítja a tapasztalt hiányosságokat, rendellenességeket és megjelöli a kívánt változtatás fő szempontjait, amelyeket a következő vizsgálat alkalmával meg kell vizsgálni. A következő vizsgálatot 2 éven belül el kell végezni. A 12. § (6) bekezdése szerint ismét határozott időre kinevezett bíró vizsgálatát a határozott idő leteltét megelőzően kell elvégezni.
+
+(6) A bíró a következő vizsgálatkor alkalmatlan minősítést kap abban az esetben is, ha az értékelése e vizsgálat alkalmával sem éri el legalább az alkalmas értékelést.
