@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-68-20-8
 | --- | --- | --- |
 | 2008-05-16 | 2007-68-20-82.3 | 68/2007. (VII. 26.) FVM–EüM–SZMM együttes rendelet |
 | 2010-07-01 | 2007-68-20-82.4 | 57/2010. (V. 7.) FVM rendelet |
+| 2011-07-14 | 2007-68-20-82.5 | 57/2010. (V. 7.) FVM rendelet |
