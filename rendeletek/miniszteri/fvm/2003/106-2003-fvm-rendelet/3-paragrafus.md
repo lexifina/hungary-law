@@ -1,3 +1,3 @@
-## 2. §[^1] A növényfajták Nemzeti Fajtajegyzékre vételéhez szükséges állami elismerésért, illetve növényfajta-oltalmi eljárás céljából elvégzett DUS és gazdasági értékvizsgálatért, az elismeréshez kapcsolódó adminisztrációért, illetve a DUS vizsgálati eredmény átvételével és egyéb kérelemmel kapcsolatos feladatok ellátásáért az eljáró hatóság az e rendelet mellékletében meghatározott díjak felszámítására jogosult.
+## 2/A. §[^2] A zöldségnövény fajok tájfajtáinak és házikerti fajtáinak elismeréséről, valamint vetőmagvaik előállítási és forgalomba hozatali feltételeiről szóló jogszabályban meghatározott zöldség tájfajták és házikerti fajták Nemzeti Fajtajegyzékbe való felvétele iránti eljárás díjmentes.
 
-[^1]: A 2. § a 122/2005. (XII. 26.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2/A. §-t a 65/2011. (VII. 11.) VM rendelet 22. §-a iktatta be.

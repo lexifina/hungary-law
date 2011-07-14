@@ -2,9 +2,9 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba azzal, hogy rendelkezéseit a hatálybalépéskor már folyamatban lévő eljárásokban a hatálybalépést követően végzett vizsgálatokra, minősítésekre is alkalmazni kell.
 
-(2)[^6]
+(2)[^7]
 
-Melléklet a 106/2003. (IX. 16.) FVM rendelethez[^7]
+Melléklet a 106/2003. (IX. 16.) FVM rendelethez[^8]
 
 A növényfajták állami elismeréséhez és oltalmazásához kapcsolódó eljárás és vizsgálatok igazgatási, szolgáltatási díjai fajtánként
 
@@ -98,5 +98,5 @@ A növényfajták állami elismeréséhez és oltalmazásához kapcsolódó elj�
 
 3.5.3. egyéb szántóföldi növényfaj esetében 5 000 Ft
 
-[^6]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 264. pontja hatályon kívül helyezte.
-[^7]: A melléklet a 122/2005. (XII. 26.) FVM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 264. pontja hatályon kívül helyezte.
+[^8]: A melléklet a 122/2005. (XII. 26.) FVM rendelet 4. §-ával megállapított szöveg.
