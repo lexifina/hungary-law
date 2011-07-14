@@ -239,31 +239,3 @@
 | MINDÖSSZESEN: | 94 |
 
 3. melléklet a 311/2007. (XI. 17.) Korm. rendelethez
-
-Átmenetileg kedvezményezett kistérségek
-
-listája (11)
-
-| Megye | Kistérség |
-
-| Bács-Kiskun | Bajai |
-
-| Győr-Moson-Sopron | Csornai |
-
-|  | Téti |
-
-| Hajdú-Bihar | Hajdúszoboszló |
-
-| Komárom-Esztergom | Oroszlányi |
-
-| Nógrád | Balassagyarmat |
-
-|  | Rétság |
-
-| Somogy | Balatonföldvári |
-
-|  | Fonyódi |
-
-| Vas | Celldömölki |
-
-| Veszprém | Tapolcai |
