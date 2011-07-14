@@ -1,1 +1,0 @@
-A természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján a Kormány – az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a következőket rendeli el:
