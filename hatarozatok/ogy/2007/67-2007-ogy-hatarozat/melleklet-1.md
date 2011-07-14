@@ -140,7 +140,9 @@
 
 ## 6. A hátrányos helyzetű kistérségeken belül azokat a legalacsonyabb komplex mutatóval rendelkező kistérségeket, amelyekben az ország lakónépességének 15%-a él, leghátrányosabb helyzetű kistérségeknek kell minősíteni.
 
-## 7. Azokra a legalacsonyabb komplex mutatóval rendelkező leghátrányosabb helyzetű kistérségekre, amelyekben az ország lakónépességének 10%-a él, felzárkóztatásuk érdekében alapvetően európai uniós forrásokra építve komplex programot kell kidolgozni, és annak megvalósítását kiemelten szükséges támogatni.
+## 6a.[^2] A leghátrányosabb helyzetű kistérségnek minősíthető az a súlyos természeti vagy civilizációs katasztrófával sújtott térség, amelyben a károk felszámolása, a helyi társadalmi-gazdasági élet normál működésének beindítása tartós, több éves fejlesztést igényel, ahol a térség fejlődési lehetőségeit a katasztrófa több évre súlyosan korlátozza. A súlyos természeti vagy civilizációs katasztrófával sújtott települések a súlyos természeti vagy civilizációs katasztrófával sújtott kistérségekkel azonos elbírálásban részesülnek. A természeti vagy civilizációs katasztrófával sújtott térségek, települések meghatározásának szempontjait a 4. számú melléklet tartalmazza.
+
+## 7.[^3] Azokra a legalacsonyabb komplex mutatóval rendelkező leghátrányosabb helyzetű kistérségekre, amelyekben az ország lakónépességének 10%-a él, felzárkóztatásuk érdekében alapvetően európai uniós forrásokra építve komplex programot kell kidolgozni, és annak megvalósítását kiemelten szükséges támogatni. A 6a. pontban meghatározott súlyos természeti vagy civilizációs katasztrófával sújtott térségekre külön komplex programot kell kidolgozni.
 
 ## 8. Azokban a régiókban ahol az 5. pont szerint meghatározott hátrányos helyzetű kistérségek lakónépessége nem éri el a régió lakónépességének 30%-át, a régión belüli kohézió erősítése érdekében a regionális fejlesztési tanácsok a 2. és a 3. pont szerint meghatározott komplex mutató figyelembevételével regionális szempontból hátrányos helyzetű kistérségeket jelölhetnek ki. A regionális szempontból hátrányos helyzetű kistérségek kijelölésénél a regionális fejlesztési tanács a komplex mutató alapján besorolt kistérségek közül a besorolási rangsorban soron következő és a régió területén lévő kistérségeket veheti figyelembe. A régió területén lévő hátrányos helyzetű és a regionális szempontból hátrányos helyzetű kistérségek együttes lakónépessége nem haladhatja meg a régió lakónépességének 30%-át. A regionális szempontból hátrányos helyzetű kistérségek lakónépességét a III. fejezet 2. pontjában meghatározott tisztán hazai decentralizált források felosztásánál nem kell figyelembe venni.
 
@@ -163,3 +165,6 @@
 ## 4. A tisztán hazai decentralizált források felosztásánál, valamint a kistérségek és a települések területfejlesztési szempontú besorolásánál alkalmazott mutatókról és a számítás módszeréről tájékoztató kiadványt kell készíteni, és azt a regionális fejlesztési tanácsok, valamint a területfejlesztésben érintett egyéb szervezetek és intézmények rendelkezésére kell bocsátani.
 
 1. számú melléklet a 67/2007. (VI. 28.) OGY határozathoz
+
+[^2]: A IV. fejezet 6a. pontját az 56/2011. (VI. 29.) OGY határozat 1. pontja iktatta be.
+[^3]: A IV. fejezet 7. pontja az 56/2011. (VI. 29.) OGY határozat 2. pontjával megállapított szöveg.
