@@ -1,1 +1,0 @@
-## „y) fizikai áramlással ellentétes irányú (Backhaul) kapacitás: a földgáz olyan nem fizikai szállítását lehetővé tevő kapacitás, amely segítségével a fizikai áramlással ellentétes irányú szállítási feladatot a rendszerüzemeltető a fizikai áramlás irányú szállítási feladatból történő nettósítással teljesít.”
