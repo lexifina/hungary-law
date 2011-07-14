@@ -1,8 +1,8 @@
-5. § (1)[^3] Az ellenőrzést a Szolgálattal közszolgálati jogviszonyban álló zöldség-gyümölcs minőségellenőr (a továbbiakban: ellenőr) végzi, aki szakirányú képzettséggel rendelkezik, rendszeres továbbképzésben részesül, továbbá a zöldség és gyümölcs ellenőrzéséhez szükséges érvényes hatósági igazolvánnyal rendelkezik. Az ellenőr jogosult az ellenőrzési intézkedések megtételére, szankcionálásra, a külön jogszabály szerinti minőségvédelmi bírság kiszabására. Az ellenőr a Szolgálat illetékességi területén kívül is jogosult vizsgálatok végzésére. Az ellenőrök cím- és telefonjegyzékét a minisztérium közleményben teszi közzé.
+5. § (1)[^4] Az ellenőrzést a Szolgálattal közszolgálati jogviszonyban álló zöldség-gyümölcs minőségellenőr (a továbbiakban: ellenőr) végzi, aki szakirányú képzettséggel rendelkezik, rendszeres továbbképzésben részesül, továbbá a zöldség és gyümölcs ellenőrzéséhez szükséges érvényes hatósági igazolvánnyal rendelkezik. Az ellenőr jogosult az ellenőrzési intézkedések megtételére, szankcionálásra, a külön jogszabály szerinti minőségvédelmi bírság kiszabására. Az ellenőr a Szolgálat illetékességi területén kívül is jogosult vizsgálatok végzésére. Az ellenőrök cím- és telefonjegyzékét a minisztérium közleményben teszi közzé.
 
-(2)[^4] A Koordinációs Központ szakmai koordináló, operatív feladatokat lát el. A Koordinációs Központ vezetője főosztályvezetői besorolású, és feladatait közvetlenül a Központi Szolgálat vezetőjének irányításával látja el. A Koordinációs Központ:
+(2)[^5] A Koordinációs Központ szakmai koordináló, operatív feladatokat lát el. A Koordinációs Központ vezetője főosztályvezetői besorolású, és feladatait közvetlenül a Központi Szolgálat vezetőjének irányításával látja el. A Koordinációs Központ:
 
-a)[^5] meghatározza az ellenőrzési feladatokat, összehangolja és ellenőrzi az ellenőrök tevékenységét a feladatok egységes ellátása céljából, ennek keretében a Koordinációs Központ vezetője a Szolgálatnál dolgozó ellenőrök felé közvetlen intézkedésre jogosult,
+a)[^6] meghatározza az ellenőrzési feladatokat, összehangolja és ellenőrzi az ellenőrök tevékenységét a feladatok egységes ellátása céljából, ennek keretében a Koordinációs Központ vezetője a Szolgálatnál dolgozó ellenőrök felé közvetlen intézkedésre jogosult,
 
 b) vezetője elbírálja az ellenőr elsőfokú határozata elleni fellebbezést,
 
@@ -46,9 +46,9 @@ u) kapcsolatot tart a vámhatóságokkal, igény esetén megszervezi az ellenőr
 
 v) kidolgozza a minőségügyi rendszerek alkalmazásának kockázat csökkentésre ható értékelési szempontjait, irányítja a felülvizsgálatot, és az eredményeket alkalmazza az ellenőrzések gyakoriságának meghatározásánál,
 
-w)[^6] javaslatot tesz a befolyt bírságok fejlesztési célú felhasználására.
+w)[^7] javaslatot tesz a befolyt bírságok fejlesztési célú felhasználására.
 
-(3)[^7] A földművelésügyi és vidékfejlesztési miniszter a minisztérium ellenőrzést felügyelő részlegén keresztül irányítja a zöldség és gyümölcs ellenőrzést, továbbá ellátja annak szakmai felügyeletét, melynek keretében:
+(3)[^8] A földművelésügyi és vidékfejlesztési miniszter a minisztérium ellenőrzést felügyelő részlegén keresztül irányítja a zöldség és gyümölcs ellenőrzést, továbbá ellátja annak szakmai felügyeletét, melynek keretében:
 
 a) érvényesíti a Koordinációs Központ irányításával a zöldség-gyümölcs ágazat stratégiai koncepcióit,
 
@@ -68,8 +68,8 @@ h) érvényesíti az ellenőrök 1. számú melléklet szerinti arcképes hatós
 
 i) a Koordinációs Központ javaslata alapján a 2. számú melléklet feltételeinek megfelelő vizsgálóhelyeket kijelöli.
 
-[^3]: Az 5. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (2) bekezdésének felvezető szövege a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (2) bekezdésének a) pontja a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (2) bekezdésének w) pontját a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
-[^7]: Az 5. § (3) bekezdésének felvezető szövege a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (4) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (2) bekezdésének felvezető szövege a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (2) bekezdésének a) pontja a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdésének w) pontját a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
+[^8]: Az 5. § (3) bekezdésének felvezető szövege a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (4) bekezdésével megállapított szöveg.
