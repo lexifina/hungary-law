@@ -1,3 +1,0 @@
-19. § A Har. törvény a következő 34/B. §-sal egészül ki:
-
-„34/B. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 96. § (1) bekezdésében a költségvetési szervek átalakítására, megszüntetésére vonatkozó döntés (átalakító-, megszüntető okirat) kihirdetésére, közzétételére előírt, az átalakítás, megszüntetés kérelmezett napját megelőző, az Áht. 96. § (1) bekezdésében rögzített határidő mellőzhető.”

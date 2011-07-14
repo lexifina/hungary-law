@@ -1,3 +1,0 @@
-10. § A Har. törvény 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § A reorganizációs programot, az egyezségi javaslatot azok elkészítését – kamattámogatás igénylése esetén az erről szóló miniszteri döntést – követően a pénzügyi gondnok a polgármester által 8 napon belüli időpontra összehívott képviselő-testületi ülés elé terjeszti elfogadásra. Ha a képviselő-testület a reorganizációs programot és az egyezségi javaslatot nem fogadja el, az adósságrendezési bizottság átdolgozza azokat.”

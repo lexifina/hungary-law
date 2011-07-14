@@ -1,7 +1,0 @@
-17. § A Har. törvény 34. §-a helyébe a következő rendelkezés lép:
-
-„34. § (1) Ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg (reorganizációs hitel), úgy a központi költségvetés az esedékes kamattörlesztésre, annak egy részére a reorganizációs hitel teljes futamidejére vagy annak egy részére a miniszter döntése alapján kamatmentes visszatérítendő támogatást nyújthat, legfeljebb az e törvény végrehajtási rendeletében meghatározott referenciakamat +2%-os mértékéig. Erre az esetre a helyi önkormányzat adósságot keletkeztető éves kötelezettségvállalásának mértékét korlátozó törvényi rendelkezés [Ötv. 88. § (2) bek.] nem vonatkozik.
-
-(2) A helyi önkormányzat a reorganizációs hitel teljes visszafizetését követően köteles az állam részére az igénybe vett kamattámogatást – a miniszterrel történt megállapodás szerint – visszatéríteni.
-
-(3) A reorganizációs hitel forint, euró vagy svájci frank devizanemekben nyújtható, amelyek árfolyama a költségvetési törvényben rögzített devizaárfolyam alapján kerül megállapításra. A reorganizációs hitel euróban vagy svájci frankban annak a helyi önkormányzatnak nyújtható, amelynek a korábban felvett hitele vagy az általa kibocsátott kötvény is euróban vagy svájci frankban van nyilvántartva. A forinttól eltérő reorganizációs hitel devizaneme arányaiban is meg kell, hogy egyezzen a korábbi hitel vagy kötvény devizanem arányával.”
