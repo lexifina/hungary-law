@@ -1,3 +1,0 @@
-11. § A Be. az alábbi 222/A. §-sal egészül ki:
-
-„222/A. § Különös méltánylást érdemlő esetben a vádemelés ötévi szabadságvesztéssel nem súlyosabban büntetendő bűncselekmény miatt is elhalasztható. Ez esetben a vádelhalasztás tartama a törvényben meghatározott büntetési tétellel azonos.”
