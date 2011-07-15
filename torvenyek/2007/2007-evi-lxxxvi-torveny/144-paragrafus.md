@@ -1,6 +1,6 @@
-144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben keletkezett hálózatfejlesztési költségek fedezetéül külön jogszabályban meghatározott csatlakozási díj fizetendő.
+144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit és alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjak mértékét és alkalmazásának egyedi szabályait a Hivatal határozatban állapítja meg.
 
-(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének nemzetgazdasági szintű érvényesülését, valamint vegye figyelembe azokat az előnyöket, amelyhez a hálózatba kezdetben vagy utólag bekapcsolt termelők és felhasználók, valamint a hálózati engedélyesek a bekapcsolódásból eredően jutnak. A csatlakozási díj nem haladhatja meg a hálózati engedélyes által a csatlakozás érdekében közvetlenül hálózati beruházásra fordított összeg nagyságát.
+(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a hálózati engedélyes által a csatlakozás érdekében közvetlenül hálózati beruházásra fordított összeg nagyságát.
 
 (3) A csatlakozási díjból származó bevételt a hálózathoz történő csatlakozáshoz szükséges beruházásokra kell fordítani.
 
