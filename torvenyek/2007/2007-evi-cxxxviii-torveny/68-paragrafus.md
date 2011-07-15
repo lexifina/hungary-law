@@ -54,4 +54,4 @@ b) a 6. § d)–k) pontjaiban meghatározott eszközre vonatkozik.
 
 (8) Ha a befektetési vállalkozás portfóliókezelési tevékenysége keretében az ügyfél számára vezetett számlán feltételes kötelezettségvállalással járó nyitott pozíciót tart nyilván vagy ilyen pozíciót eredményező ügylet végrehajtását vállalta, az ügyfél (2) bekezdés szerinti rendelkezésétől függetlenül, legkésőbb a veszteséget eredményező ügylet végrehajtásának napját követő kereskedési napon tájékoztatja az ügyfelet, ha az ügyfél által realizált veszteség meghalad egy, a befektetési vállalkozás és az ügyfél között létrejött szerződésben meghatározott határértéket.
 
-(9) A befektetési vállalkozás tájékoztatja az ügyfelet arról, hogy a (6) bekezdés a) pontjának alkalmazása érdekében jogában áll kérelemmel fordulni a befektetési vállalkozáshoz.
+(9) A befektetési vállalkozás tájékoztatja az ügyfelet arról, hogy a (6) bekezdés b) pontjának alkalmazása érdekében jogában áll kérelemmel fordulni a befektetési vállalkozáshoz.

@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2011-01-01 | 2010. évi CLIX. törvény | 2007-138-00-00.15 |
 | 2011-03-12 | 2011. évi XIII. törvény | 2007-138-00-00.16 |
 | 2011-07-01 | 2010. évi CLVIII. törvény | 2007-138-00-00.17 |
+| 2011-07-15 | 2011. évi XCVI. törvény | 2007-138-00-00.18 |

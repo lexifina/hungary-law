@@ -6,21 +6,23 @@
 
 a) a megbízás tárgyát képező pénzügyi eszköz árát (nettó ár),
 
-b) a megbízás tárgyát képező pénzügyi eszköz tulajdonságait,
+b) a megbízás költségét,
 
-c) a megbízás költségét,
+c) a megbízás végrehajtásának időigényét,
 
-d) a megbízás végrehajtásának időigényét,
+d) a megbízás végrehajthatóságának és teljesítésének valószínűségét, és
 
-e) a megbízás végrehajthatóságának és teljesítésének valószínűségét,
+e) a megbízás nagyságrendjét.
 
-f) a megbízás nagyságrendjét,
+(2a) A (2) bekezdésben felsorolt tényezők fontosságának meghatározásánál a befektetési vállalkozás a következő szempontokat vizsgálja:
 
-g) a megbízás természetét,
+a) a megbízás tárgyát képező pénzügyi eszköz tulajdonságait,
 
-h) az ügyfél 47–49. § szerinti minősítését, és
+b) a megbízás természetét,
 
-i) azon szabályozott piac, multilaterális kereskedési rendszer, rendszeres internalizáló, árjegyző vagy egyéb más, a likviditás biztosítására létrejött személy vagy szervezet, illetve ezekhez hasonló funkciót ellátó harmadik országbeli személy vagy szervezet (a továbbiakban: végrehajtási helyszín) tulajdonságait, amelyekhez a megbízás továbbítható.
+c) az ügyfél 47–49. § szerinti minősítését, és
+
+d) azon szabályozott piac, multilaterális kereskedési rendszer, rendszeres internalizáló, árjegyző vagy egyéb más, a likviditás biztosítására létrejött személy vagy szervezet, illetve ezekhez hasonló funkciót ellátó harmadik országbeli személy vagy szervezet (a továbbiakban: végrehajtási helyszín) tulajdonságait, amelyekhez a megbízás továbbítható.
 
 (3) Ha a befektetési vállalkozás lakossági ügyfél megbízását hajtja végre, akkor minden, az ügyfelet terhelő költséget figyelembe vesz az (1) bekezdésben meghatározott, az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapításakor.
 

@@ -224,7 +224,7 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 
-79. multilaterális kereskedési rendszer: harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát szerződést eredményező, megkülönböztetésmentes módon összehozó kereskedési rendszer,
+79. multilaterális kereskedési rendszer: olyan kereskedési rendszer, amely harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát hozza össze megkülönböztetésmentes módon, szerződést eredményezve,
 
 80. értékpapír: a Tpt.-ben meghatározott fogalom,
 

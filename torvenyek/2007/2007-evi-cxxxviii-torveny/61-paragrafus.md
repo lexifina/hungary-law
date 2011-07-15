@@ -2,7 +2,7 @@
 
 ## A SZERZŐDÉS TELJESÍTÉSE ÉS A MEGBÍZÁS VÉGREHAJTÁSA
 
-61. § (1) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében az ügyféllel kötött szerződés teljesítése, illetve az ügyfél megbízásának végrehajtása során mindenkor a jogszabályokban foglaltaknak, a szakma szabályainak megfelelően és az ügyfél érdekeivel összhangban jár el.
+61. § (1) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében az ügyféllel kötött szerződés teljesítése, illetve az ügyfél megbízásának végrehajtása során mindenkor a jogszabályokban foglaltaknak, a szakma szabályainak megfelelően, tisztességes és hatékony módon, az ügyfél érdekeivel összhangban jár el.
 
 (2) Az (1) bekezdésben foglaltaknak megfelelően a befektetési vállalkozás nem kérhet és nem fogadhat el olyan anyagi vagy nem anyagi természetű juttatást, előnyt, amelyet
 

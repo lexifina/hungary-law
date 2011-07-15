@@ -1,4 +1,4 @@
-17. § (1) A befektetési vállalkozás a szervezetén belül az egyes szervezeti egységeket és az ezek működésére és eljárására vonatkozó szabályzatokat úgy alakítja ki, hogy a létrejövő szervezeti felépítés és annak működése – összhangban a befektetési vállalkozás méretével, tevékenységének jellegével és összetettségével –
+17. § (1) A befektetési vállalkozás a szervezetén belül az egyes szervezeti egységeket és az ezek működésére és eljárására vonatkozó szabályzatokat úgy alakítja ki, hogy biztosítsa szervezeti egységeinek és szervezeti megoldásainak megfelelőségét és hatékonyságát, beleértve a hiányosságok kezelésére vonatkozó intézkedéseket, valamint hogy a létrejövő szervezeti felépítés és annak működése – összhangban a befektetési vállalkozás méretével, tevékenységének jellegével és összetettségével –
 
 a) lehetővé tegye az 5. §-ban foglalt tevékenységek és feladatok független végzését, illetőleg ellátását, ideértve az ehhez szükséges hatáskörök világos és következetes elkülönítését,
 

@@ -2,7 +2,7 @@
 
 a) az ügyfél által adott megbízás lehetséges végrehajtási helyszíneinek jegyzékét – figyelemmel a (3) bekezdésben foglaltakra – minden egyes pénzügyi eszköz vonatkozásában,
 
-b) azon feltételeket, amelyek – a 62. § (2) bekezdésében foglaltakkal összhangban – befolyásolják a megbízás végrehajtási helyszínének megválasztását és az eljárást, amelyben a befektetési vállalkozás a feltételek mentén a döntését meghozza,
+b) azon feltételeket, amelyek – a 62. § (2) és (2a) bekezdésében foglaltakkal összhangban – befolyásolják a megbízás végrehajtási helyszínének megválasztását és az eljárást, amelyben a befektetési vállalkozás a feltételek mentén a döntését meghozza,
 
 c) az arra való figyelmeztetést, hogy az ügyfélnek a 62. § (6) bekezdése szerinti határozott utasítása megakadályozhatja a befektetési vállalkozást a megbízás ügyfél számára legkedvezőbb módon történő végrehajtásában,
 
