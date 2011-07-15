@@ -1,6 +1,6 @@
-## Munkahelyi segítő személy foglalkoztatásával kapcsolatos költségekhez nyújtott támogatás[^19]
+## Munkahelyi segítő személy foglalkoztatásával kapcsolatos költségekhez nyújtott támogatás[^20]
 
-## 3/A. §[^20] A munkahelyi segítő személy foglalkoztatásával kapcsolatos költségekhez nem nyújtható támogatás, ha a munkavállaló a megváltozott munkaképességű személy
+## 3/A. §[^21] A munkahelyi segítő személy foglalkoztatásával kapcsolatos költségekhez nem nyújtható támogatás, ha a munkavállaló a megváltozott munkaképességű személy
 
 a) munkakörébe tartozó érdemi feladatot lát el, ide nem értve a munkába állást követő, illetőleg új feladat ellátását megelőző betanító képzést,
 
@@ -10,5 +10,5 @@ c) munkáját ellenőrzi vagy irányítja,
 
 d) részére nyújtandó segítő szolgáltatáshoz kapcsolódó tevékenységet folytat.
 
-[^19]: A 3/A. §-t megelőző alcímet a 21/2008. (XII. 31.) SZMM rendelet 3. §-a iktatta be.
-[^20]: A 3/A. §-t a 21/2008. (XII. 31.) SZMM rendelet 3. §-a iktatta be. E módosító rendelet 8. § (5) bekezdése alapján a 2009. január 1-jét megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
+[^20]: A 3/A. §-t megelőző alcímet a 21/2008. (XII. 31.) SZMM rendelet 3. §-a iktatta be.
+[^21]: A 3/A. §-t a 21/2008. (XII. 31.) SZMM rendelet 3. §-a iktatta be. E módosító rendelet 8. § (5) bekezdése alapján a 2009. január 1-jét megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.

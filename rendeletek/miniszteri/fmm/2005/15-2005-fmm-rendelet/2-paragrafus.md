@@ -20,7 +20,7 @@ bc) a munkáltatói járulék, valamint
 
 bd) a tételes egészségügyi hozzájárulás
 
-## vehető figyelembe.
+vehető figyelembe.
 
 (2) Alapbérként a munkavállalónak a munkaszerződésben meghatározott személyi alapbére (órabére, heti bére, havi bére, éves bére) vehető figyelembe.
 
