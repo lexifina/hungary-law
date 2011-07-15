@@ -1,6 +1,6 @@
-6. §[^29] (1) A megváltozott munkaképességű új munkavállaló alkalmazása esetén foglalkoztatásához akkor állapítható meg támogatás, ha a munkáltató
+6. §[^30] (1) A megváltozott munkaképességű új munkavállaló alkalmazása esetén foglalkoztatásához akkor állapítható meg támogatás, ha a munkáltató
 
-a)[^30] a foglalkoztatást legalább 12 hónapi időtartamban, olyan munkakörben vállalja, amelynek ellátására a munkavállaló az NRSZH, az ORSZI vagy az OOSZI szakvéleménye, szakhatósági állásfoglalása szerinti egészségi állapota, továbbá gyakorlata, képzettsége és megmaradt képességei alapján alkalmas, és
+a)[^31] a foglalkoztatást legalább 12 hónapi időtartamban, olyan munkakörben vállalja, amelynek ellátására a munkavállaló az NRSZH, az ORSZI vagy az OOSZI szakvéleménye, szakhatósági állásfoglalása szerinti egészségi állapota, továbbá gyakorlata, képzettsége és megmaradt képességei alapján alkalmas, és
 
 b) kötelezettséget vállal arra, hogy a munkaviszonyt a támogatás folyósításának időtartama alatt a munkáltató működésével összefüggő okból nem szünteti meg, és
 
@@ -14,5 +14,5 @@ d) a kérelem benyújtását közvetlenül megelőző 12 hónapban foglalkoztato
 
 (4) E § alkalmazásában új munkavállaló alkalmazásának kell tekinteni, ha a munkáltató a támogatási kérelemben megjelölt megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben korábban nem részesült támogatásban. Nem minősül új munkavállaló alkalmazásának, ha a munkáltató olyan megváltozott munkaképességű dolgozó után igényel támogatást, akit a támogatásra jogosító mértékű egészségkárosodásának megállapítását megelőzően legalább 12 hónapig folyamatosan foglalkoztatott.
 
-[^29]: A 6. § a 357/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. A 6. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^30]: A 6. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 6. § a 357/2008. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani. A 6. §-t megelőző alcímet e módosító rendelet 12. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^31]: A 6. § (1) bekezdés a) pontja a 332/2010. (XII. 27.) Korm. rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
