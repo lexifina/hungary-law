@@ -12,4 +12,4 @@ b) az elszámolások, a beszámolóban szereplő adatok jogszerűségének, szab
 
 (3) A törvényi előírásoknak megfelelő, a vállalkozó vagyoni, pénzügyi helyzetéről, működésének eredményéről megbízható és valós összképet adó beszámoló készítőinek, illetve felülvizsgálóinak az ilyen tevékenységre jogosító – jogszabályi feltételeken alapuló – engedéllyel kell rendelkezniük.
 
-(4) A könyvvizsgálói tevékenységet végző könyvvizsgálóval, továbbá a könyvvizsgálói képesítéssel szembeni követelményeket külön törvények szabályozzák.
+(4) A könyvvizsgálói tevékenységet végző könyvvizsgálóval, továbbá a könyvvizsgálói szakképesítéssel szembeni követelményeket külön törvények szabályozzák.
