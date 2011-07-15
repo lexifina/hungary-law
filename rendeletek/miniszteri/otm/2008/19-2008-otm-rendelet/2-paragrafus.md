@@ -1,8 +1,8 @@
 ## 1. § A katasztrófavédelmi szerveknél és a hivatásos önkormányzati tűzoltóságoknál rendszeresített hivatásos szolgálati beosztásokat e rendelet melléklete tartalmazza.
 
-2. §[^1] A rendelet a kihirdetését követő napon lép hatályba.
+2. §[^2] A rendelet a kihirdetését követő napon lép hatályba.
 
-Melléklet a 19/2008. (III. 28.) ÖTM rendelethez[^2]
+Melléklet a 19/2008. (III. 28.) ÖTM rendelethez[^3]
 
 KATASZTRÓFAVÉDELEM (polgári védelem, hivatásos állami tűzoltóság)
 
@@ -12,51 +12,51 @@ Vezetői munkakörök
 
 | 1. | Szerv | Vezető szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
 
-| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követel- mények |
+| 2. | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmé- nyek |
 
-| 3. | Központi | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV | pszichológiai alkalmasság |
+| 3. | Központi | a Hszt. 245/H. § (2) bek. szerinti illetményre jogosult | Főigazgató | tábornok | egyetem | szakirányú felsőfokú | RSZV + RVK + RMVK vagy RIASZTSZ + RMVK | pszichológiai alkalmasság |
 
-| 4. | Főigazgató- helyettes |  |  |  |  |  |
+| 4. |  |  | Főigazgató- helyettes |  |  |  |  |
 
-| 5. | főosztályvezetői illetményre jogosult | Polgári védelmi főfelügyelő |  |  |  |  |  |
+| 5. |  | főosztály- vezetői illetményre jogosult | Polgári védelmi főfelügyelő |  |  |  |  |  |
 
-| 6. | Tűzoltósági főfelügyelő |  |  |  |  |  |
+| 6. |  |  | Tűzoltósági főfelügyelő |  |  |  |  |  |
 
-| 7. | Hivatalvezető |  |  |  |  |  |
+| 7. |  |  | Hivatal- vezető |  |  |  |  |  |
 
-| 8. | Igazgató (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola |  |  |  |
+| 8. |  |  | Igazgató (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola |  |  |  |
 
-| 9. | Főosztályvezető |  |  |  |
+| 9. |  |  | Főosztály- vezető |  |  |  |  |  |
 
-| 10. | főosztályvezető- helyettesi illetményre jogosult | Főosztályvezető- helyettes (Tűzoltósági és Polgári Védelmi Főfelügyelőség) |  |  |  |  |  |
+| 10. |  | főosztály- vezető-helyettesi illetményre jogosult | Főosztály- vezető- helyettes (Tűzoltósági és Polgári Védelmi Főfelügye- lőség) |  |  |  | RSZV + RVK vagy RIASZTSZ |  |
 
-| 11. | Igazgató-helyettes (OKF Gazdasági Ellátó Központ) |  |  |  |  |  |
+| 11. |  |  | Igazgató- helyettes (OKF Gazdasági Ellátó Központ) |  |  |  |  |
 
-| 12. | Főosztályvezető- helyettes | alezredes |  |  |  |  |
+| 12. |  |  | Főosztály- vezető- helyettes | alezredes |  |  |  |  |
 
-| 13. | osztályvezetői illetményre jogosult | Osztályvezető |  |  |  |  |  |
+| 13. |  | Osztály- vezetői illetményre jogosult | Osztály- vezető |  |  |  |  |  |
 
-| 14. |  | Titkárságvezető |  |  |  |  |  |
+| 14. |  |  | Titkárság- vezető |  |  |  |  |  |
 
-| 15. | Területi | főosztályvezetői illetményre jogosult | Igazgató (fővárosi polgári védelmi) | ezredes | egyetem vagy főiskola |  | RSZV |  |
+| 15. | Területi | főosztály- vezetői illetményre jogosult | Igazgató (fővárosi polgári védelmi) | ezredes | egyetem vagy főiskola |  | RSZV + RVK + RMVK vagy RIASZTSZ + RMVK |  |
 
-| 16. |  | Igazgató |  |  |  |  |  |
+| 16. |  |  | Igazgató |  |  |  |  |
 
-| 17. | főosztályvezető- helyettesi illetményre jogosult | Igazgató-helyettes |  |  |  |  |  |
+| 17. |  | Főosztály- vezető- helyettesi illetményre jogosult | Igazgató- helyettes |  |  |  | RSZV + RVK vagy RIASZTSZ |  |
 
-| 18. | osztályvezetői illetményre jogosult | Polgári védelmi felügyelő | alezredes |  |  |  |  |
+| 18. |  | Osztály- vezetői illetményre jogosult | Polgári védelmi felügyelő | alezredes |  |  |  |  |
 
-| 19. | Tűzoltósági felügyelő |  |  |  |  |
+| 19. |  |  | Tűzoltósági felügyelő |  |  |  |  |  |
 
-| 20. | Osztályvezető |  |  |  |  |
+| 20. |  |  | Osztály- vezető |  |  |  |  |  |
 
-| 21. |  | Karmester |  |  |  |  |  |
+| 21. |  |  | Karmester |  |  |  |  |  |
 
-| 22. |  | Szakcsoportve- zető (KOK) |  |  |  |  |  |
+| 22. |  |  | Szakcsoport- vezető (KOK) |  |  |  |  |  |
 
-| 23. | Helyi | osztályvezetői illetményre jogosult | Tűzoltó- parancsnok (Országház) |
+| 23. | Helyi | Osztály- vezetői illetményre jogosult | Tűzoltó- parancsnok (Országház) |  |  |  |  |  |
 
-| 24. | Kirendeltség- vezető (polgári védelmi) |  |  |  |  |  |
+| 24. |  |  | Kirendelt- ség-vezető (polgári védelmi)” |  |  |  |  |  |
 
 I. Besorolási osztály
 
@@ -382,5 +382,11 @@ Megjegyzés: a **-gal jelzett tiszthelyettesi beosztásoknál a szakirányú kö
 
 RSZV: rendészeti szakvizsga
 
-[^1]: A 2. § a 118/2008. (V. 8.) Korm. rendelet 42. §-ának 1. pontja szerint módosított szöveg.
-[^2]: A melléklet a 13/2010. (IV. 30.) ÖM rendelet 1. §-ával megállapított, a 16/2010. BM rendelet. 5. §-a szerint módosított szöveg.
+RVK: rendészeti vezetővé képző tanfolyam
+
+RMVK: rendészeti mestervezetővé képző tanfolyam
+
+RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
+
+[^2]: A 2. § a 118/2008. (V. 8.) Korm. rendelet 42. §-ának 1. pontja szerint módosított szöveg.
+[^3]: A melléklet a 13/2010. (IV. 30.) ÖM rendelet 1. §-ával megállapított, a 16/2010. BM rendelet 5. §-a, a 21/2011. (VII. 13.) BM rendelet 32. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 29. § (1) bekezdését.
