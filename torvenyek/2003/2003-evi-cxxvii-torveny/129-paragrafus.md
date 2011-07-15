@@ -43,3 +43,7 @@ o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított e
 p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
 
 r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;
+
+s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképesítést, szakmai végzettséget és szakmai gyakorlatot;
+
+t) a bioüzemanyag kísérleti előállítást végző üzemben történő előállítása engedélyezésének feltételeit, valamint a bioüzemanyag-adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás részletes szabályait;
