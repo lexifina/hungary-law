@@ -1,0 +1,3 @@
+25. § (1) Az RVKI igazgatója által felkért rendészeti vezetőképzésben közreműködő oktatót, a vizsgáztató bizottság elnökét, tagjait és jegyzőjét vizsgáztatási díj illeti meg.
+
+(2) Az előadók óradíja a mindenkori kormánytisztviselői illetményalap társadalombiztosítási járulékkal növelt összegének 15%-a, a trénerek óradíja a mindenkori kormánytisztviselői illetményalap társadalombiztosítási járulékkal növelt összegének 30%-a. A vizsgabizottság elnökének és tagjainak a vizsgáztatásért járó díja a mindenkori kormánytisztviselői illetményalap társadalombiztosítási járulékkal növelt összegének 7%-a, illetve 5%-a. A jegyző díja a mindenkori kormánytisztviselői illetményalap társadalombiztosítási járulékkal növelt összegének 2%-a.
