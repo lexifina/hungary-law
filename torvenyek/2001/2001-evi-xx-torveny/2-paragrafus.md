@@ -8,7 +8,7 @@ a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és 
 
 b) a nemzetgazdasági szempontból kiemelt állami és önkormányzati fejlesztések, beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások, illetve az ezek bővítéséhez szükséges fejlesztési hitel- és tőkefinanszírozásában;
 
-c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások –, valamint a mezőgazdasági őstermelők és családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
+c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
 
 d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 

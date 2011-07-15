@@ -22,11 +22,11 @@ Corvinus Támogatásközvetítő Zrt.
 
 Magyar Turizmus Zrt.
 
+Kincsem Nemzeti Lóverseny és Lovas Stratégia Kft.
+
 Mezőhegyesi Állami Ménes Kft.
 
-Agrárgazdasági Vagyonkezelő Kft.
-
-Nemzeti Lóverseny Kft.
+Bábolna Nemzeti Ménesbirtok Kft.
 
 Magyar Lóversenyfogadást Szervező Kft.
 

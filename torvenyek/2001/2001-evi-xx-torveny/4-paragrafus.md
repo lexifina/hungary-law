@@ -20,7 +20,19 @@ finanszírozására
 
 nyújthat hitelt, illetőleg kölcsönt.
 
-(3) Az MFB Zrt. csak a (2) bekezdésben meghatározott hitelre, illetőleg kölcsönre, továbbá támogatáshoz kapcsolódóan vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget.
+(3) Az MFB Zrt. csak
+
+a) a (2) bekezdésben meghatározott hitelhez, illetőleg kölcsönhöz,
+
+b) támogatáshoz,
+
+c) ajánlattételhez,
+
+d) szolgáltatás nyújtásához,
+
+e) vállalkozási szerződéshez
+
+kapcsolódóan vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget.
 
 (4) Az MFB Zrt. kizárólag akkor nyújthat hitelt, illetőleg kölcsönt, valamint csak akkor vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget, ha annak visszafizetése, megtérülése az ügyletre vonatkozó üzleti, pénzügyi tervek alapján, illetőleg a rendelkezésre álló fedezetekre tekintettel biztosított. Ha mindez a 2. § b), k) és m) pontjában megjelölt feladatok teljesíthetőségét akadályozza, akkor ezen feladatok teljesítésének kell elsőbbséget biztosítani.
 
