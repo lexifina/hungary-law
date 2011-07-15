@@ -1,0 +1,3 @@
+274. § (1) A törvény az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított 17. § (3) bekezdés g) pontjának és 18. § (2) bekezdésének rendelkezései azokban az esetekben is alkalmazhatók, amelyekben a mezőgazdasági tevékenységét megszüntető, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személy adóalany a gazdaságát a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére 2010. január 1-jén vagy azt követő időpontban adja át.
+
+(2) Abban az esetben, ha az (1) bekezdés alkalmazása egyúttal önellenőrzést is igényel, az önellenőrzés pótlékmentesen végezhető el.
