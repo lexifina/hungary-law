@@ -1,0 +1,5 @@
+45. § (1) E törvény 28. §-a és 30. §-a a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról szóló 2010. november 24-i 2010/76/EU európai parlamenti és tanácsi irányelv I. melléklet 1. pontjának való megfelelést szolgálja.
+
+(2) E törvény 30. §-a a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv, és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2004/39/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdés 15. pontjának, 19. cikk (1) bekezdésének és 21. cikk (1) bekezdésének való megfelelést szolgálja.
+
+(3) E törvény 30. §-a a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló 2006/73/EK bizottsági irányelv 5. cikk (5) bekezdésének, 41. és 44. cikkének való megfelelést szolgálja.

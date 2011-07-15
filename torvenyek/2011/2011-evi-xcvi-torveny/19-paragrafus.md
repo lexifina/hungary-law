@@ -1,0 +1,3 @@
+19. § Az Szja tv. a következő 84/R. §-sal egészül ki:
+
+„84/R. § A 28. § (20)–(22) bekezdéseinek rendelkezéseit nem kell alkalmazni arra a jövedelemre, amelyre az adózó legkésőbb 2012. december 31-ig a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 82. §-a szerinti szabályokat alkalmazza.”

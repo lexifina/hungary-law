@@ -1,0 +1,1 @@
+15. § Hatályát veszti az Itv. 8. §-ának (1) bekezdésében a „ , valamint az önálló orvosi tevékenység működtetési jogának folytatását” szövegrész, 12. §-ának (5) bekezdésében a „folytatása és” szövegrész, 13. §-ának (7) bekezdésében a „folytatása és” szövegrész és 17/A. §-ában az „öröklési és” szövegrész.
