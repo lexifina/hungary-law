@@ -7,5 +7,3 @@
 (4) E törvény 16. § (8) és (15) bekezdése 2011. szeptember 2-án hatályát veszti.
 
 (5) E törvény 84. §-a 2011. december 31-én hatályát veszti.
-
-## Melléklet a 2010. évi CLIII. törvényhez
