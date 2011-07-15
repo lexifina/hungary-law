@@ -22,7 +22,7 @@ f) az önálló orvosi tevékenység működtetési jogának megszerzése;
 
 g) az értékpapír öröklési szerződéssel való megszerzése;
 
-h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére.
+h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére, ha a belföldi ingatlanvagyonnal rendelkező társaság olyan gazdálkodó szervezet, amelynek a cégjegyzékben feltüntetett (ennek hiányában a létesítő okiratában megjelölt) főtevékenysége épületépítési projekt szervezése, lakó- és nem lakó épület építése, saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele.
 
 (3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 

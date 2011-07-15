@@ -1,6 +1,6 @@
 ## Az öröklési illeték tárgya
 
-8. § (1) Az öröklési illeték tárgya: az örökség – ideértve a haszonélvezeti jog megváltását, valamint az önálló orvosi tevékenység működtetési jogának folytatását is –, a hagyomány, a meghagyás alapján történő vagyonszerzés, a kötelesrész szerzése, továbbá a halál esetére szóló ajándékozás.
+8. § (1) Az öröklési illeték tárgya: az örökség – ideértve a haszonélvezeti jog megváltását is –, a hagyomány, a meghagyás alapján történő vagyonszerzés, a kötelesrész szerzése, továbbá a halál esetére szóló ajándékozás.
 
 (2) Az örökhagyó rendelkezése folytán a hagyatékból harmadik személynek juttatott vagyontárgyat mint az örökhagyóról közvetlenül a harmadik személyre átszállott hagyományt kell illeték alá vonni. Az ilyen vagyontárgy értékét az örökség (hagyomány) illetékének alapjául szolgáló értékéből le kell vonni.
 

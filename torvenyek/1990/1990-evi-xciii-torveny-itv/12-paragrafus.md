@@ -188,6 +188,6 @@ III. Minden más megajándékozott terhére
 
 (4) Gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának öröklése és ajándékozása esetén az illeték mértéke a gépjármű és pótkocsi visszterhes vagyonátruházási illetékének (24. §) kétszerese.
 
-(5) Az önálló orvosi tevékenység működtetési jogának folytatása és ajándékozása esetén az illeték mértéke a 13. § (7) bekezdésében meghatározott illetékalap 10%-a.
+(5) Az önálló orvosi tevékenység működtetési jogának ajándékozása esetén az illeték mértéke a 13. § (7) bekezdésében meghatározott illetékalap 10%-a.
 
 (6) Abban az esetben, ha az általános mértékű öröklési vagy ajándékozási illeték alá eső vagyontárgyak között termőföld is van, akkor a termőföld után egyébként fizetendő illeték megállapítása során az általános mérték alá tartozó összes vagyont kedvezmény nélkül terhelő illetékből olyan arányt kell figyelembe venni, mint amilyen arányt az általános mértékű illeték alá tartozó összes vagyon értékében a termőföld értéke képez.
