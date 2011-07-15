@@ -20,4 +20,4 @@ Kifizetést teljesítőnek minősül az ajánlattevő, a Kbt. szerinti alvállal
 
 (8) Amennyiben az alvállalkozó a kifizetést teljesítővel szemben fennálló követelését faktorálja (engedményezi), a kifizetést teljesítő abban az esetben fizethet a faktornak (engedményesnek), ha a kifizetés előtt a faktor (engedményes) vagy az alvállalkozó rendelkezésre bocsátja az alvállalkozóra vonatkozó együttes adóigazolást, vagy az alvállalkozó szerepel a köztartozásmentes adózói adatbázisban, ellenkező esetben a kifizetést teljesítő egyetemleges felelőssége és visszatartási kötelezettsége fennáll.
 
-(9)
+(9) E § rendelkezéseit nem kell alkalmazni abban az esetben, ha az adóigazoláson feltüntetett tartozás 2008. szeptember 30-át követően keletkezett.

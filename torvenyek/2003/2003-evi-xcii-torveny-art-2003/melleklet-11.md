@@ -105,9 +105,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 20. az Osztrák Köztársaság esetében: Versicherungssteuer, Feuerschutzsteuer;
 
 21. a Portugál Köztársaság esetében: imposto de selo sobre os prémios de seguros;
-
-22. Románia esetében: -;
-
-23. a Spanyol Királyság esetében: impuesto sobre las primas de seguros;
-
-24. a Svéd Királyság esetében: -;
