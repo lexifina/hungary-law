@@ -1,3 +1,3 @@
-## 22. § A növényfajták állami elismerésének és vizsgálatának díjtételeiről szóló 106/2003. (IX. 16.) FVM rendelet a következő 2/A. §-sal egészül ki:
+## 22. §[^1]
 
-## „2/A. § A zöldségnövény fajok tájfajtáinak és házikerti fajtáinak elismeréséről, valamint vetőmagvaik előállítási és forgalomba hozatali feltételeiről szóló jogszabályban meghatározott zöldség tájfajták és házikerti fajták Nemzeti Fajtajegyzékbe való felvétele iránti eljárás díjmentes.”
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
