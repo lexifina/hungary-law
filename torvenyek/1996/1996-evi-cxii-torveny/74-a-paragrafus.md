@@ -1,4 +1,4 @@
-74/A. § (1) Az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a hitelintézetnek
+74/A. § (1) Az alapvető kölcsöntőke, vegyes tulajdonságú befizetett jegyzett tőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a hitelintézetnek
 
 a) meg kell határoznia a felmondás, visszaváltás vagy visszavásárlás okát,
 

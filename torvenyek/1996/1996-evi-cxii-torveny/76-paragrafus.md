@@ -22,7 +22,7 @@ b) nem lehet kevesebb a 9. §-ban – az engedélyezés feltételeként – elő
 
 (4)
 
-(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 19. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
+(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
 
 (6)–(9)
 

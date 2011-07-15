@@ -38,7 +38,7 @@ p) kiegészítő alárendelt kölcsöntőkéjének a szerződésben rögzített 
 
 q) külön jogszabály alapján készített hitelbiztosítéki érték-megállapítási szabályzatához, mely figyelembe veszi a hitelbiztosítéki érték megállapításának módszertani elveiről szóló külön jogszabályban foglaltakat;
 
-r) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez, visszavásárlásához;
+r) alapvető kölcsöntőkéje, vegyes tulajdonságú befizetett jegyzett tőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez, visszavásárlásához;
 
 s) belső minősítésen alapuló módszerrel történő kockázattal súlyozott kitettség érték számításához;
 

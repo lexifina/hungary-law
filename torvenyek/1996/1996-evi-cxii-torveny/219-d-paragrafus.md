@@ -4,7 +4,7 @@
 
 219/D. § (1) A közvetítővel, a közvetítői alvállalkozóval – e tevékenységi körében – munkaviszonyban, megbízási viszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban – a (3) bekezdésben meghatározott eltéréssel – csak olyan természetes személy lehet, aki
 
-a) szakirányú felsőfokú iskolai végzettséggel [68. § (3) bekezdés], vagy
+a) szakirányú felsőfokú iskolai végzettséggel, vagy
 
 b) középiskolai végzettséggel és
 

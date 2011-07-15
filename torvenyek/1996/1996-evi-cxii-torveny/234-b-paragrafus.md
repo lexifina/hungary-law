@@ -4,7 +4,7 @@ a) hatálybalépésekor pénzváltás közvetítésére többes kiemelt közvet�
 
 b) 44. §-ával megállapított 68. §-ban foglalt követelménynek a hatálybalépésekor már megválasztott, kinevezett ügyvezető, vezető állású személy legkésőbb 2014. január 1-től köteles megfelelni;
 
-c) 45. §-ával megállapított 69/B–69/E §-ban foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a hitelintézetek legkésőbb 2011. május 31-től kötelesek megfelelni;
+c) 45. §-ával megállapított 69/B–69/E §-ban foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a hitelintézetek legkésőbb 2011. augusztus 31-től kötelesek megfelelni;
 
 d) 50. §-ával megállapított 79. § (1)–(3) bekezdését 2011. december 31-éig nem kell alkalmazni a 2010. december 31-én már fennálló, hitelintézettel, befektetési vállalkozással és hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozással szembeni, szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező, legfeljebb egyéves lejáratú kitettségre;
 
