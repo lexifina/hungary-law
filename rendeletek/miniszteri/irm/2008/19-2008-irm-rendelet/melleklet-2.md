@@ -6,113 +6,19 @@
 
 ## Vezetői munkakörök
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési és egyéb követelmények |
+|  |  |  |  | Képesítési és egyéb követelmények |
 
-| Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követel- mények |
+| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-|  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | országos rendőrfőkapitány | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+|  |  | országos rendőr- főkapitány | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
 
-|  | bűnügyi főigazgató (országos rendőrfőkapitány-helyettes) |
+|  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továb- biakban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | bűnügyi főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
 
-|  |  | rendészeti főigazgató (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |
+|  |  | rendészeti főigazgató (országos rendőr- főkapitány- helyettes |  |  |  |  |  |
 
-|  |  | gazdasági főigazgató (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |
+|  |  | gazdasági főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
 
-|  |  | KŐE parancsnoka (országos rendőrfőkapitány- helyettes) |  |  |  |  |  |  |
-
-| Központi | főosztályvezetői illetményre jogosult | kiemelt főtanácsadó (főkapitányi biztos) |  |  |  |  |  |
-
-|  | szolgálatvezető (ORFK személyügyi, ellenőrzési) |  |  |  |  |  |
-
-|  | hivatalvezető (ORFK) |  |  |  |  |  |
-
-|  |  | főosztályvezető | ezredes | egyetem vagy főiskola |  |  |  |
-
-|  |  | igazgató |  |  |  |  |  |
-
-|  |  | parancsnok-helyettes (KŐE főosztályvezető) |  |  |  |  |  |
-
-|  |  | parancsnok-helyettes (KŐE gazdasági igazgató) |  |  |  |  |  |
-
-|  |  | szolgálatvezető (KŐE humánigazgatási) |  |  |  |  |  |
-
-|  |  | hivatalvezető (KŐE) |  |  |  |  |  |
-
-|  | főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes | alezredes | RIASZTSZ vagy RSZVI+ RVK |
-
-|  | főosztályvezető- helyettes (KÖE) |  |
-
-|  |  | szolgálatvezető (ellenőrzési KÖE) |  |  |  |  |  |
-
-|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |
-
-|  | titkárságvezető |  |  |  |  |  |
-
-|  | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |  | RMVK vagy RSZVI + RVK + RMVK |  |
-
-|  | igazgató (NNI, RRI) |  |  |  |  |
-
-|  | parancsnok (KR) |  |  |  |  |
-
-|  | bűnügyi rendőrfőkapitány- helyettes (BRFK) |  |  |  |  |
-
-|  |  | rendészeti rendőrfőkapitány- helyettes (BRFK) |  |  |  |  |  |
-
-|  | igazgató (ORFK GF GEI) | ezredes | egyetem vagy főiskola |  |  |  |
-
-|  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, NNI, KR) |  | RIASZTSZ vagy RSZVI + RVK |  |
-
-|  | hivatalvezető (BRFK) |  |  |  |  |  |
-
-|  | bűnügyi igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |  |
-
-|  |  | rendészeti igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |  |
-
-| Területi |  | rendészeti parancsnok-helyettes (KR) |  |  |  |  |  |
-
-|  |  | parancsnok-helyettes (KR) |  |  |  |  |  |
-
-|  |  | igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |  |  |  |  |  |
-
-|  |  | szolgálat-parancsnok (KR tűzszerész) |  |  |  |  |  |
-
-|  |  | Igazgató |  |  |  |  |  |
-
-|  |  | támogató igazgató (parancsnok-helyettes KR) |  |  |  |  |  |
-
-|  |  | zászlóalj-parancsnok (BRFK) |  |  |  |  |  |
-
-|  |  | parancsnok (ÁFSZ, LRP) |  |  |  |  |  |
-
-|  |  | igazgatóhelyettes (OKI) | alezredes |  |  |
-
-|  |  | szolgálatvezető |  |  |  |  |  |
-
-|  |  | hivatalvezető |  |  |  |  |  |
-
-|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
-
-|  | szolgálat-parancsnok (KR pénzkísérő) |  |  |  |  |  |
-
-|  |  | parancsnok-helyettes (LRP) |  |  |  |  |  |
-
-|  |  | szakcsoportvezető (OKI) |  |  |  |  |  |
-
-|  | főosztályvezetői illetményre jogosult | kapitányságvezető (kiemelt) | ezredes | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK |
-
-|  |  | kapitányságvezető | alezredes |  |  |  |
-
-|  | főosztályvezető- helyettesi illetményre jogosult | kapitányságvezető- helyettes (kiemelt) |  |  |  |
-
-| Helyi |  | határrendészeti kirendeltségvezető |  |  |  |  |
-
-|  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |  |  |
-
-|  | hivatalvezető (kiemelt) |  |  |  | RIASZTSZ vagy RSZVI + RVK |  |
-
-|  |  | őrsparancsnok (osztály jogállású) |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  | ” |
+|  |  | KŐE parancsnoka (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
 
 ## I. Besorolási osztály
 
@@ -548,9 +454,9 @@
 
 ## Egyéb rövidítések:
 
-| RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak |  | RVK: rendészeti vezetővé képző |
+| RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak |  | RVK: rendészeti vezetővé képző tanfolyam |
 
-| RSZVI: rendészeti szakvizsga |  | RMVK: rendészeti mestervezetővé képző |
+| RSZVI: rendészeti szakvizsga |  | RMVK: rendészeti mestervezetővé képző tanfolyam |
 
 | ÁFSZ: Állami Futárszolgálat |  | LRP: Légirendészeti Parancsnokság |
 
@@ -606,11 +512,11 @@
 
 ## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak
 
-## RMVK: rendészeti mestervezetővé képző
+## RMVK: rendészeti mestervezetővé képző tanfolyam
 
 ## RSZVI: rendészeti szakvizsga
 
-## RVK: rendészeti vezetővé képző
+## RVK: rendészeti vezetővé képző tanfolyam
 
 ## I/B. A Terrorelhárítási Központnál rendszeresített hivatásos szolgálati beosztások, munkakörök, az ahhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
 
@@ -700,9 +606,9 @@
 
 ## RSZVI: rendészeti szakvizsga
 
-## RVK: rendészeti vezetővé képző
+## RVK: rendészeti vezetővé képző tanfolyam
 
-## RMVK: rendészeti mestervezetővé képző
+## RMVK: rendészeti mestervezetővé képző tanfolyam
 
 ## II.
 
