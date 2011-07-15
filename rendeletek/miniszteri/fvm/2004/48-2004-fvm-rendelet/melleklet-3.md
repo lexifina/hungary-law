@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^127]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^129]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1570,26 +1570,4 @@ Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fo
 
 Megjegyzés: Az anyarozs szklerócium, üszögcsomó, illetve üszögös mag mennyiségét a teljes mintából kell meghatározni. Minden fajnál: Avena spp. (Vadzab); Cuscuta spp. (Aranka fajok): 0 db/minta.
 
-| Faj | Szaporítási fok | Csírázóképesség % legalább | Tisztaság % legalább | Idegen mag db/minta legfeljebb | Nedvesség- tartalom % legfeljebb | Egyéb követelmények |
-
-| Összes | Ebből káros gyom |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 |
-
-| Csicseri borsó (Cicer arietinum) | SE-E I–II. fok | 70 | 99,0 | 2 10 | X | 14,0 |  |
-
-| Lencse (Lens culinaris) | SE-E I–II. fok | 80 | 98 | 20 40 | 0 20 | 14,0 | 2 mm-nél nagyobb eltérést mutató magvak mennyisége maximum 10% |
-
-| Szegletes lednek (Lathyrus sativus) | SE-E I–II. fok | 85 | 99,0 | 10 20 | X | 14,0 |  |
-
-Megjegyzés: A lencse magvait élő zsizsikre is meg kell vizsgálni. A vizsgálatot a teljes laboratóriumi mintából kell elvégezni. Élő zsizsiket a fémzárolt tétel nem tartalmazhat.
-
-| Lencsében káros gyom: | Convolvulus arvensis (Szulák) |
-
-|  | Lathyrus tuberosus (Mogyorós lednek) |
-
-|  | Vicia sativa var. platysperma (Lencsebükköny) |
-
-Datura stramonium (Csattanó maszlag)
-
-[^127]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^129]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.

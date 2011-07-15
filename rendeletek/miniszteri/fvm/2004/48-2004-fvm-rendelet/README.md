@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2010-01-02 | 2004-48-20-82.9 | 183/2009. (XII. 30.) FVM rendelet |
 | 2011-01-14 | 2004-48-20-82.10 | 20/2008. (II. 21.) FVM rendelet |
 | 2011-03-05 | 2004-48-20-82.11 | 16/2011. (III. 2.) VM rendelet |
+| 2011-07-15 | 2004-48-20-82.12 | 69/2011. (VII. 14.) VM rendelet |

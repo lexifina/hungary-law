@@ -1,0 +1,3 @@
+## 50/A. §[^92] A 2 kilogrammot meghaladó tömegű, harmadik országból származó vetőmagtételek nyomon követhetősége érdekében a beszállítónak a vetőmagtétel beérkezését követően haladéktalanul írásban tájékoztatnia kell az MgSzH-t a vetőmagtétel beszállításának tényéről és az 50. §-ban felsorolt, a vetőmagtételre vonatkozó adatokról. Az MgSzH a bejelentéstől számított egy éven belül hatósági mintát vehet a fajtatisztaság utólagos szúrópróbaszerű ellenőrzéséhez.
+
+[^92]: Az 50/A. §-t a 20/2008. (II. 21.) FVM rendelet 1. §-a iktatta be, szövege a 16/2011. (III. 2.) VM rendelet 25. §-ával megállapított szöveg.
