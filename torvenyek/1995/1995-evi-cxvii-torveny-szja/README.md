@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2011-04-02 | 2011. évi XXXI. törvény | 1995-117-00-00.86 |
 | 2011-06-18 | 2011. évi LXIV. törvény | 1995-117-00-00.87 |
 | 2011-07-01 | 2011. évi LXXXII. törvény | 1995-117-00-00.88 |
+| 2011-07-15 | 2011. évi XCVI. törvény | 1995-117-00-00.89 |

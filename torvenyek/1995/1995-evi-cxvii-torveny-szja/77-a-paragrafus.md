@@ -26,7 +26,9 @@ e) a névre szóló részvényt átváltoztatható kötvény átalakításával 
 
 f) a kárpótlási jegyet az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgy, részvény, üzletrész megvásárlására használja fel; ilyenkor a kárpótlási jegy felhasználásával megszerzett eszköz megszerzésére fordított érték meghatározásánál az eredeti jogosult magánszemélynél vagy – ha a kárpótlási jegy a hagyaték tárgyát képezte – örökösénél a kárpótlási jegy kamattal növelt értékét, míg más magánszemélynél a kárpótlási jegy megszerzésére fordított értéket is figyelembe kell venni;
 
-g) részvényét, üzletrészét házastársi közös vagyon (vagyonközösség) megosztása révén, adásvételi szerződésen kívüli jogcímen szerezte; az így megszerzett részvény, üzletrész megszerzésre fordított értékeként azt az értéket lehet figyelembe venni, amelyet a házastárs megszerzésre fordított értékként figyelembe vehetett volna (üzletrész esetében a megszerzett üzletrész névértékének a megosztást megelőző üzletrész névértékéhez viszonyított arányával számított részt).
+g) részvényét, üzletrészét házastársi közös vagyon (vagyonközösség) megosztása révén, adásvételi szerződésen kívüli jogcímen szerezte; az így megszerzett részvény, üzletrész megszerzésre fordított értékeként azt az értéket lehet figyelembe venni, amelyet a házastárs megszerzésre fordított értékként figyelembe vehetett volna (üzletrész esetében a megszerzett üzletrész névértékének a megosztást megelőző üzletrész névértékéhez viszonyított arányával számított részt);
+
+h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 
