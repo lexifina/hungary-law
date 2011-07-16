@@ -1,7 +1,6 @@
-## „RVK: rendészeti vezetővé képző tanfolyam
+## 30–32. §[^2]
 
-## RMVK: rendészeti mestervezetővé képző tanfolyam
+1. melléklet a 21/2011. (VII. 13.) BM rendelethez[^3]
 
-## RIASZTSZ: rendészeti irányultságú akkreditált szakirányú továbbképzési szak”
-
-1. melléklet a 21/2011. (VII. 13.) BM rendelethez
+[^2]: A 30–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
