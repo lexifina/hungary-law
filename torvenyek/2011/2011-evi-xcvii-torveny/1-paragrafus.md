@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közötti Szabadkereskedelmi Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
