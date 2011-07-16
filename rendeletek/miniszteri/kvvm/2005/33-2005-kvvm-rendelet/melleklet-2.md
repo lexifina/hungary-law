@@ -12,15 +12,15 @@
 
 | 2. |  | A szolgáltatási tevékenység bejelentése az alábbi jogszabályokban meghatározott esetekben: | 75 000 |
 
-|  |  | – a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló 94/2002. (V. 5.) Korm. rendelet 9. § (1) bekezdés |  |
+|  |  | – a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló 94/2002. (V. 5.) Korm. rendelet 9. § (1) bekezdés |  |
 
-|  |  | – az elektromos és elektronikai berendezések hulladékainak visszavételéről szóló 264/2004. (IX. 23.) Korm. rendelet 11. § (1) bekezdés |  |
+|  |  | – az elektromos és elektronikai berendezések hulladékainak visszavételéről szóló 264/2004. (IX. 23.) Korm. rendelet 11. § (1) bekezdés |  |
 
-|  |  | – a hulladékká vált gépjárművekről szóló 267/2004. (IX. 23.) Korm. rendelet 9/A. § |  |
+|  |  | – a hulladékká vált gépjárművekről szóló 267/2004. (IX. 23.) Korm. rendelet 9/A. § |  |
 
-|  |  | – az elemek és akkumulátorok hulladékainak visszavételéről szóló 181/2008. (VII. 8.) Korm. rendelet 8/B. § |  |
+|  |  | – az elemek és akkumulátorok hulladékainak visszavételéről szóló 181/2008. (VII. 8.) Korm. rendelet 8/B. § |  |
 
-|  |  | – a betétdíj alkalmazásának szabályairól szóló 209/2005. (X. 5.) Korm. rendelet 6/B. § |  |
+|  |  | – a betétdíj alkalmazásának szabályairól szóló 209/2005. (X. 5.) Korm. rendelet 6/B. § |  |
 
 | 3. |  | Hulladék begyűjtésének engedélyezése [Hgt. 15. § (3) bekezdés] | 72 000 |
 
@@ -526,7 +526,7 @@
 
 | 1. |  | Mezőgazdaság, erdőgazdálkodás, halászat az 1.1. pont kivételével | 650 000 |
 
-|  | 1.1. |  | Erdőterület igénybevétele – nem termőföldként való további hasznosítás esetén 30 ha-tól, – termőföldként való további hasznosítás esetén 50 ha-tól | 800 000 |
+|  | 1.1. |  | Erdőterület igénybevétele – nem termőföldként való további hasznosítás esetén 30 ha-tól, – termőföldként való további hasznosítás esetén 50 ha-tól | 800 000 |
 
 | 2. |  | Bányászat | 1 350 000 |
 
@@ -716,11 +716,11 @@
 
 |  | 14.1. |  | Országos közúthálózati kategóriába sorolható út, ha | 1 200 000 |
 
-|  |  | – 50 ha-nál nagyobb erdőtömböt szel át, vagy |
+|  |  | – 50 ha-nál nagyobb erdőtömböt szel át, vagy |
 
-|  |  | – védett természeti területen halad át, vagy |
+|  |  | – védett természeti területen halad át, vagy |
 
-|  |  | – gyógyhelyen a tervezett átlagos napi forgalom 1800 egységjármű vagy annál több |
+|  |  | – gyógyhelyen a tervezett átlagos napi forgalom 1800 egységjármű vagy annál több |
 
 |  |  | Vasúti pályaudvar |
 
@@ -766,11 +766,11 @@
 
 | 20.5. |  | Területi vízrendezés beépítésre nem szánt területen | 750 000 |
 
-|  |  | – síkvidéken 500 ha-tól, |
+|  |  | – síkvidéken 500 ha-tól, |
 
-|  |  | – dombvidéken 300 ha-tól, |
+|  |  | – dombvidéken 300 ha-tól, |
 
-|  |  | – vízbázis védőövezetén, település külterületén lévő védett természeti területen méretmegkötés nélkül |
+|  |  | – vízbázis védőövezetén, település külterületén lévő védett természeti területen méretmegkötés nélkül |
 
 |  |  | Halastó vagy tórendszer 30 ha-tól; vízbázis védőövezetén, védett természeti területen vagy annak védőövezetén méretmegkötés nélkül | 650 000 |
 
@@ -883,6 +883,20 @@
 | 13. | Hőtermelő létesítmények létesítési és vezetékjog engedélyezési eljárása [a távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet 1. számú melléklet] | 14 000 |
 
 | 14. | Az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet szerinti eljárások | 6 000 |
+
+| 15. | Környezeti hatások jelentőségének vizsgálata |  |
+
+| 15.1. | Ha az 1–14. pontban meghatározott szakhatósági eljárás során a környezeti hatások jelentőségének vizsgálatára is sor kerül, az igazgatási szolgáltatási díj mértéke az 1–14. pontban meghatározott igazgatási szolgáltatási díj megfizetése mellett | 133 000 |
+
+| 15.2. | Új gyógyszergyártási engedély kiadására vagy a meglévő gyógyszergyártási engedély új gyógyszergyártási tevékenységgel történő bővítésére irányuló módosító eljárásban, a tevékenység következtében jelentős környezeti hatások vizsgálata [az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet 25/A. § szerinti eljárás] | 133 000 |
+
+| 15.3. | A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 1. számú melléklet 4. pontja szerinti eljárásban a környezeti hatások jelentőségének vizsgálata | 133 000 |
+
+| 15.4. | Előzetes szakhatósági állásfoglalás esetén |  |
+
+| 15.4.1. | Ha az előzetes szakhatósági állásfoglalás során a környezeti hatások jelentőségének vizsgálata mellett valamennyi szakkérdés vizsgálatára is sor kerül az 1–14. pontban meghatározott igazgatási szolgáltatási díj megfizetése mellett | 133 000 |
+
+| 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
 2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^18]
 
