@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-139-20-
 | --- | --- | --- |
 | 2009-05-04 | 2007-139-20-82.5 | 139/2007. (XI. 28.) FVM rendelet |
 | 2010-03-14 | 2007-139-20-82.6 | 19/2010. (III. 11.) FVM rendelet |
+| 2011-07-17 | 2007-139-20-82.7 | 68/2011. (VII. 14.) VM rendelet |

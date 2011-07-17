@@ -2,34 +2,33 @@
 
 5. § (1) E jogcím alapján az az igénylő jogosult támogatásra, aki/amely biztosítja a kíméletes állatmozgatás és szállítás feltételeit.
 
-(2) A támogatás mértéke baromfifajonként és állategységenként:
+(2)[^34] A támogatás mértéke:
 
-| BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás mértéke (Ft/ÁE) |
+a) növendék csirke (vágócsirke) esetén 633,00 Ft állategységenként,
 
-| 0124101220 | növendék csirke (vágócsirke) | 633 |
+b) szabadtartásos csirke és gyöngyös esetén 854,45 Ft állategységenként,
 
-| 0124101220 0124105022 | szabadtartásos csirke és gyöngyös | 854,45 |
+c) házityúk esetén 120,00 Ft állategységenként,
 
-| 0124101200 0124101310 | házi tyúk | 120 |
+d) pecsenyeliba esetén 3 750,60 Ft állategységenként,
 
-| 0124102212 | pecsenyeliba | 3 750,60 |
+e) növendék liba esetén 16 740,38 Ft állategységenként,
 
-| 0124102220 | növendék liba 3 hónapos és idősebb | 16 740,38 |
+f) fiatal liba esetén 3 551,10 Ft állategységenként,
 
-| 0124102222 | fiatal liba 9 héttől 9 hónapig vágásra | 3 551,10 |
+g) hízott liba esetén 3 712,51 Ft állategységenként,
 
-| 0124102223 | hízott liba | 3 712,51 |
+h) pecsenyekacsa esetén 1 301,04 Ft állategységenként,
 
-| 0124104212 | pecsenyekacsa, legfeljebb 2 hónapos intenzív tartásban | 1 301,04 |
+i) növendék kacsa esetén 4 242,02 Ft állategységenként,
 
-| 0124104210 | növendék kacsa, 3 hónapnál fiatalabb | 4 242,02 |
+j) hízott kacsa esetén 5 908,97 Ft állategységenként,
 
-| 0124104222 | hízott kacsa | 5 908,97 |
-
-| 0124103220 | növendék pulyka 3 hónapos és idősebb | 2 324 |
+k) növendék pulyka esetén 2 324,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a törött végtagú állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^30] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^35] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^30]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^34]: Az 5. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 13. §-ával megállapított szöveg.
+[^35]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

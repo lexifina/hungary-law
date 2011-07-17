@@ -2,39 +2,41 @@
 
 6. § (1) E jogcím alapján az az igénylő jogosult támogatásra, aki/amely kizárólag állati fehérje mentes takarmányt használ, különös tekintettel a halliszt mellőzésére.
 
-(2) A támogatás mértéke baromfifajonként és állategységenként:
+(2)[^36] A támogatás mértéke:
 
-| BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás mértéke (Ft/ÁE) |
+a) növendék csirke (vágócsirke) esetén 8 520,00 Ft állategységenként,
 
-| 0124101220 | növendék csirke (vágócsirke) | 8 520 |
+b) szabadtartásos csirke és gyöngyös esetén 12 207,00 Ft állategységenként,
 
-| 0124101220 0124105022 | szabadtartásos csirke és gyöngyös | 12 207 |
+c) házityúk esetén 2 088,00 Ft állategységenként,
 
-| 0124101200 0124101310 | házi tyúk | 2 088 |
+d) pecsenyeliba esetén 11 992,80 Ft állategységenként,
 
-| 0124102212 | pecsenyeliba | 11 992,80 |
+e) növendék liba esetén 22 841,28 Ft állategységenként,
 
-| 0124102220 | növendék liba 3 hónapos és idősebb | 22 841,28 |
+f) fiatal liba esetén 15 275,40 Ft állategységenként,
 
-| 0124102222 | fiatal liba 9 héttől 9 hónapig vágásra | 15 275,40 |
+g) hízott liba esetén 18 802,80 Ft állategységenként,
 
-| 0124102223 | hízott liba | 18 802,80 |
+h) pecsenyekacsa esetén 11 230,75 Ft állategységenként,
 
-| 0124104212 | pecsenyekacsa, legfeljebb 2 hónapos intenzív tartásban | 11 230,75 |
+i) növendék kacsa esetén 18 330,60 Ft állategységenként,
 
-| 0124104210 | növendék kacsa, 3 hónapnál fiatalabb | 18 330,60 |
+j) hízott kacsa esetén 27 352,10 Ft állategységenként,
 
-| 0124104222 | hízott kacsa | 27 352,10 |
+k) növendék pulyka esetén 18 970,00 Ft állategységenként.
 
-| 0124103220 | növendék pulyka 3 hónapos és idősebb | 18 970 |
+(3)[^37] Az igénylő által használt baromfi nevelő-, házityúknál tojó-I, pulyka utónevelésnél nevelő, valamint befejező táp állati fehérje eredetű anyagok a laborvizsgálati kimutatási határértéket nem érhetik el. Az igénylő köteles a baromfiállományok nevelési ideje alatt – a letelepítés/átminősítés és a vágás közötti időszakban – egy alkalommal ilyen irányú vizsgálatot végeztetni akkreditált laboratóriumban, az állatállományt felügyelő, kezelő állatorvos által célzottan vett takarmány mintából. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról.
 
-(3)[^31] Az igénylő által használt baromfi nevelő-, házityúknál tojó-I, pulyka utónevelésnél befejező táp állati fehérje eredetű anyagok a laborvizsgálati kimutatási határértéket nem érhetik el. Az igénylő köteles a baromfiállományok nevelési ideje alatt (a letelepítés/átminősítés és a vágás közötti időszakban) egy alkalommal ilyen irányú vizsgálatot végeztetni akkreditált laboratóriumban, az állatállományt felügyelő, kezelő állatorvos által célzottan vett takarmány mintából. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról.
-
-(4)[^32] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
+(4)[^38] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
 
 a) az akkreditált laboratórium vonatkozó igazolását, és
 
 b) a takarmányellátó nyilatkozatát az előállított takarmány állati fehérje, illetve halliszt mentességéről.
 
-[^31]: A 6. § (3) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
-[^32]: A 6. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+(5)[^39] Amennyiben az állomány egy része vagy egésze a (3) bekezdés szerinti takarmányvizsgálatot megelőzően – amely időpont a takarmányvizsgálati jegyzőkönyv adattartalmától függően a takarmány gyártási ideje, a mintavétel időpontja, a takarmányvizsgálat időpontja vagy a jegyzőkönyv kiállításának időpontja lehet – vágásra kerül, úgy a támogatás alapját képező állategység kiszámítása során a letelepített vagy átminősített állatlétszámból le kell vonni levágott állatok számát.
+
+[^36]: A 6. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^37]: A 6. § (3) bekezdése a 68/2011. (VII. 14.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^38]: A 6. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^39]: A 6. § (5) bekezdését a 68/2011. (VII. 14.) VM rendelet 14. § (2) bekezdése iktatta be.
