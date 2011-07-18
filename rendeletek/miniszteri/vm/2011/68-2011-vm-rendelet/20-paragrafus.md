@@ -1,3 +1,0 @@
-## 19. § A Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet 21. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A kifizetési kérelem esetén a támogatási kérelem benyújtási időszak első napján hatályos építési normagyűjteményt kell figyelembe venni. Ha az építési normagyűjtemény nem tartalmazza az adott építési tételt, akkor első olyan a támogatási kérelem benyújtására nyitva álló időszakot követően hatályos építési normagyűjteményt kell figyelembe venni, amelyben az építési tétel szerepelt.”
