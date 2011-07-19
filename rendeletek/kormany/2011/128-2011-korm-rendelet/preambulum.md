@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 15. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében a következőket rendeli el:
