@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-160-20-
 | 2010-04-29 | 2003-160-20-22.7 | 130/2010. (IV. 21.) Korm. rendelet |
 | 2011-01-01 | 2003-160-20-22.8 | 130/2010. (IV. 21.) Korm. rendelet |
 | 2011-03-31 | 2003-160-20-22.9 | 130/2010. (IV. 21.) Korm. rendelet |
+| 2011-07-19 | 2003-160-20-22.10 | 2011: CLXXV. törvény |

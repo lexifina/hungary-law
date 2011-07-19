@@ -1,10 +1,10 @@
-## 13/A. §[^76] A miniszter gondoskodik az Alapprogram testületei, kezelő szerve tevékenységének, valamint a támogatások felhasználásának nyomon követéséről.
+## 13/A. §[^77] A miniszter gondoskodik az Alapprogram testületei, kezelő szerve tevékenységének, valamint a támogatások felhasználásának nyomon követéséről.
 
 ## Záró rendelkezés
 
 14. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-Melléklet a 160/2003. (X. 7.) Korm. rendelethez[^77]
+Melléklet a 160/2003. (X. 7.) Korm. rendelethez[^78]
 
 NYILATKOZAT
 
@@ -148,5 +148,5 @@ ___________
 
 5 Amennyiben ezt a nyilatkozatot a civil szervezet megtagadja, nem jogosult a civil jelöltállítási rendszerben való részvételre!
 
-[^76]: A 13/A. §-t a 321/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 130/2010. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^77]: A melléklet a 18/2005. (II. 10.) Korm. rendelet 9. §-a és 10. §-a (2) bekezdésének l)–m) pontja, a 21/2008. (II. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^77]: A 13/A. §-t a 321/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 130/2010. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^78]: A melléklet a 18/2005. (II. 10.) Korm. rendelet 9. §-a és 10. §-a (2) bekezdésének l)–m) pontja, a 21/2008. (II. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
