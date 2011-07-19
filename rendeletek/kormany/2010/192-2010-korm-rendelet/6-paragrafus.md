@@ -1,8 +1,11 @@
-6. § (1)[^3] A 4. § szerint hivatali lakás használatára jogosult állami vezető részére, amennyiben a hivatali lakásra nem tart igényt, továbbá a kormánymegbízott részére – kérelmére – lakásfenntartási térítést kell fizetni.
+6. §[^4] (1) Ha a munkáltató az igényjogosult állami vezető részére a 4. § (2) bekezdésben meghatározott feltételeknek megfelelő hivatali lakást nem tud biztosítani, az igényjogosult állami vezető részére lakásfenntartási térítést kell fizetni.
 
-(2) A lakásfenntartási térítés iránti kérelmet a közigazgatási és igazságügyi miniszternél kell írásban előterjeszteni, aki gondoskodik az igényjogosultság feltételeinek ellenőrzéséről.
+(2) A kormánymegbízott részére – kérelmére – lakásfenntartási térítést lehet megállapítani, ha Budapesten vagy közvetlen vonzáskörzetében, vagy az általa vezetett fővárosi és megyei kormányhivatal székhelye szerinti városi vagy közvetlen vonzáskörzeti településen – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve – lakástulajdonnal nem rendelkezik.
 
-(3)[^4] A lakásfenntartási térítés havi összege a budapesti (vonzáskörzeti) lakásmegoldással, kormánymegbízott esetében a budapesti (vonzáskörzeti) vagy a fővárosi és megyei kormányhivatal székhelye szerinti városi (vonzáskörzeti) lakásmegoldással összefüggésben felmerült, számlával igazolt lakbérnek megfelelő összeg, legfeljebb azonban a köztisztviselői illetményalap hatszorosa. A lakásfenntartási térítés egy összegben, havonta utólag, a tárgyhót követő hónap 15. napjáig esedékes.
+(3) A lakásfenntartási térítés igénybevételét – az e célra rendszeresített formanyomtatványon benyújtott kérelem és a bérleti szerződés alapján – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter engedélyezi.
 
-[^3]: A 6. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
-[^4]: A 6. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.
+(4) A lakásfenntartási térítés havi összege a budapesti (vonzáskörzeti) lakásmegoldással, kormánymegbízott esetében a budapesti (vonzáskörzeti) vagy az általa vezetett fővárosi és megyei kormányhivatal székhelye szerinti városi (vonzáskörzeti) lakásmegoldással összefüggésben felmerült, számlával igazolt lakbérnek megfelelő összeg, legfeljebb azonban a köztisztviselői illetményalap hatszorosa. A lakásfenntartási térítés egy összegben, havonta utólag, a tárgyhót követő hónap 15. napjáig esedékes.
+
+(5) A lakásfenntartási térítés e rendeletben foglaltak szerinti biztosításáról a munkáltató gondoskodik.
+
+[^4]: A 6. § a 124/2011. (VII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
