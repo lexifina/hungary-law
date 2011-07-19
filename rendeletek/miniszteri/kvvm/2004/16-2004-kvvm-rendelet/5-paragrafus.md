@@ -26,121 +26,224 @@ k) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a mű
 
 l) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a műszaki fejlődéshez való hozzáigazítás céljából, az ólom, a kadmium és a higany alkalmazásaira vonatkozó mentességek tekintetében történő módosításáról szóló, 2009. június 10-i 2009/443/EK bizottsági határozatának és
 
-m) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a kadmium alkalmazásainak egyikére vonatkozó mentesség tekintetében történő módosításáról szóló, 2010. február 25-i 2010/122/EU bizottsági határozatának
+m) a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a kadmium alkalmazásainak egyikére vonatkozó mentesség tekintetében történő módosításáról szóló, 2010. február 25-i 2010/122/EU bizottsági határozatának;
+
+n)[^9] a 2002/95/EK európai parlamenti és tanácsi irányelv mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifenilek és a polibrómozott difenil-éterek alkalmazásaira vonatkozó mentességek tekintetében történő módosításáról szóló 2010. szeptember 24-i 2010/571/EU bizottsági határozatnak
 
 való megfelelést szolgálja.
 
-Melléklet a 16/2004. (X. 8.) KvVM rendelethez[^9]
+Melléklet a 16/2004. (X. 8.) KvVM rendelethez[^10]
 
-Az ólom, a higany, a kadmium, a hat vegyértékű króm, a polibrómozott bifenilek (PBB-k)
+|  | A | B | C | D |
 
-és a polibrómozott difenil-éterek (PBDE-k) alkalmazása
+| 1. | I. Higanytartalomra vonatkozó mentességek |
 
-|  | Veszélyes anyag | Elektromos berendezés | Legnagyobb megengedett mennyiség |
+| 2. | a) Egy végükön fejelt (kompakt) fénycsövekben használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| I. | Higany |  |  |
+| 3. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 1. | Kompakt fluoreszcens lámpák (fénycsövek) | 5 mg |
+| 4. | Általános világítási célra szolgáló fénycső | P < 30 W | 5 mg | 2011. december 31-ig |
 
-| 2. a) | Általános célra használt fénycsövek | Halofoszfát fénycsövek | 10 mg |
+| 3,5 mg | 2012. december 31-ig |
 
-| 2. b) | Normál élettartamú trifoszfát fénycsövek | 5 mg |
+| 2,5 mg | 2013. január 1-től |
 
-| 2. c) | Hosszú élettartamú trifoszfát fénycsövek | 8 mg |
+| 5. | 30 W ≤ P < 50 W | 5 mg | 2011. december 31-ig |
 
-| 3. | Speciális fénycsövek | nincs határérték |
+| 3,5 mg | 2012. január 1-től |
 
-| 4. | Egyéb lámpák | nincs határérték |
+| 6. | 50 W ≤ P < 150 W | 5 mg | mentesség ideje nincs korlátozva |
 
-| 5. |  |  |
+| 7. | 150 W ≤ P | 15 mg | mentesség ideje nincs korlátozva |
 
-| II. | Ólom |  |  |
+| 8. | Általános világítási célra szolgáló, kör alakú vagy szögletes strukturális formájú, legfeljebb 17 mm csőátmérőjű fénycső | - | Nincs korlátozás | 2011. december 31-ig |
 
-| 1. | Katódsugárcsövek üvege | nincs határérték |
+| 7 mg | 2012. január 1-től |
 
-| 2. | Elektronikai alkatrészek üvege | nincs határérték |
+| 9. | Különleges rendeltetésű fénycső esetén | - | 5 mg | mentesség ideje nincs korlátozva |
 
-| 3. | Fénycsövek üvege | nincs határérték |
+| 10. | b) Két végén fejelt, általános világítási célra szolgáló fénycsövekben használt higany (fénycsövenként): |
 
-| 4. | Acél ötvözőelemeként | 0,35 tömeg% |
+| 11. | Típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 5 | Alumínium ötvözőelemeként | 0,4 tömeg% |
+| 12. | Normál élettartamú fénycső háromsávos fényporral, 9 mm alatti csőátmérővel (pl. T2) | Ø < 9 mm | 5 mg | 2011. december 31-ig |
 
-| 6. | Réz ötvözőelemeként | 4 tömeg% |
+| 4 mg | 2012. január 1-től |
 
-| 7. | A magas olvadáspontú forraszanyagokban lévő ólom (legalább 85% ólomtartalommal) | nincs határérték |
+| 13. | Normál élettartamú fénycső háromsávos fényporral (pl. T5) | 9 mm < Ø ≤17 mm | 5 mg | 2011. december 31-ig |
 
-| 8. | A szerverekben, az adattároló rendszerekben, a tárolási és elrendezési rendszerekben, a hálózati infrastruktúra kapcsoló, jelző és adatátviteli berendezéseiben, valamint a távközlési hálózatok hálózatkezelése során használt forrasztóanyagokban lévő ólom | nincs határérték |
+| 3 mg | 2012. január 1-től |
 
-| 9. | Az elektronikai termékekben használt kerámiákban pl. piezoelektromos eszközök | nincs határérték |
+| 14. | Normál élettartamú fénycső háromsávos fényporral (pl. T8) | 17 mm < Ø ≤28 mm | 5 mg | 2011. december 31-ig |
 
-| 10. | Az ólom-bronz csapágycsészékben és -bélésekben | nincs határérték |
+| 3,5 mg | 2012. január 1-től |
 
-| 11. | Rugalmas tűs csatlakozó rendszerekben használt ólom | nincs határérték |
+| 15. | Normál élettartamú fénycső háromsávos fényporral (pl. T12) | 28 mm < Ø | 5 mg | 2012. december 31-ig |
 
-| 12. | A hővezető modulok tömítőgyűrűjén bevonóanyagként használt ólom | nincs határérték |
+| 3,5 mg | 2013. január 1-től |
 
-| 13. | Az optikai üvegben és fényszűrőben lévő ólom | nincs határérték |
+| 16. | Hosszú (legalább 25 000 óra) élettartamú fénycső háromsávos fényporral | - | 8 mg | 2011. december 31-ig |
 
-| 14. | Kettőnél több elemből álló, a mikroprocesszor kivezetései és tokja között kapcsolatot biztosító forrasztóanyagban lévő ólom, ha az ólomtartalom 80 és 85 tömegszázalék között van | nincs határérték |
+| 5 mg | 2012. január 1-től |
 
-| 15. | Flip Chip integrált áramkörökben a félvezető süllyesztéke és hordozója között működőképes elektronikus kapcsolatot megvalósító forrasztóanyagban lévő ólom | nincs határérték |
+| 17. | c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként): |
 
-| 16. | Az olyan vonalizzókban található ólom, amelyek csöve szilikát bevonatú | nincs határérték |
+| 18. | típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 17. | Ólom-halogenid a nagynyomású kisülő lámpák (HID) sugárzó anyagaként professzionális reprográfiai alkalmazásokra | nincs határérték |
+| 19. | Egyenes halofoszfát fénycsövek (pl. T10 és T12) | 28 mm < Ø | 10 mg | 2012. április 13-ig |
 
-| 18. | Ólom a fluoreszkáló porban aktivátorként a kisülő lámpákban a BSP (BaSi2O5:Pb) foszforokat tartalmazó szoláriumcsövekként való felhasználás esetén, valamint SMS [(Sr,Ba)2MgSi2O7:Pb] foszforokat tartalmazó speciális lámpákban diazo-nyomtatásos reprográfiás, illetve litográfiai felhasználásra, valamint rovarcsapda lámpában, fotokémiai és gyógyászati alkalmazás esetén | 1 tömeg% |
+| 20. | Nem egyenes halofoszfát fénycsövek | Bármely Ø | 15 mg | 2016. április 13-ig |
 
-| 19. | Ólom és PbBiSn-Hg, valamint PbInSn-Hg kombinációja speciális összetételű anyagokban fő foncsorozóként, illetve ólom és PbSn-Hg kombinációja kompakt energiatakarékos lámpákban (ESL) kiegészítő foncsorozóként | nincs határérték |
+| 21. | Nem egyenes fénycsövek háromsávos fényporral, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < Ø | nincs korlátozás | 2011. december 31-ig |
 
-| 20. | Ólom-oxid a folyadékkristály-kijelzőkben (LCD) használt lapos fluoreszkáló lámpák felső és alsó rétegének kötéséhez használt üvegben | nincs határérték |
+| 15 mg | 2012. január 1-től |
 
-| 21. | Ólom és kadmium a zománc boroszilikát üvegre való felviteléhez használt nyomdafestékekben. | nincs határérték |
+| 22. | Egyéb általános világítási célra szolgáló, vagy különleges rendeltetésű lámpák (pl. indukciós lámpák) | - | nincs korlátozás | 2011. december 31-ig |
 
-| 22. |  |  |
+| 15 mg | 2012. január 1-től |
 
-| 23. | Ólom a csatlakozók kivételével a NiFe vezetőkoszorúval rendelkező 0,65 mm vagy kisebb osztóközű, finom osztású (fine-pitch) komponensek felületén, és ólom a csatlakozók kivételével a réz vezetőkoszorúval rendelkező 0,65 mm vagy kisebb osztóközű, finom osztású (fine-pitch) komponensek felületén. | nincs határérték |
+| 23. | d) Különleges rendeltetésű hidegkatódos fénycsövekben és külső elektródás fénycsövekben (CCFL és EEFL) használt higany, amelynek megengedett mennyisége (fénycsövenként/lámpánként): |
 
-| 24. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom. | nincs határérték |
+| 24. | Típus | L Lámpahossz mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 25. | Ólomoxid a plazma képmegjelenítőkben (PDP) és felületvezető elektronkibocsátó kijelzőkben (SED) használt szerkezeti elemekben; nevezetesen az első és hátsó üveg dielektromos rétegben, az adatelektródában, a fekete sávban, a címezhető elektródában, a határoló bordákban, lezáró frittben és frittgyűrűben, valamint nyomópasztákban. | nincs határérték |
+| 25. | Rövid | L ≤500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 26. | Ólomoxid a Black Light Blue (BLB) lámpák üveg védőburkolatában. | nincs határérték |
+| 3,5 mg | 2012. január 1-től |
 
-| 27. | Nagyteljesítményű (több órán keresztül 125 dB SPL és a feletti hangteljesítményszinten működő) hangszórókban használt átalakítóknál forrasztóanyagként alkalmazott ólomötvözetek. | nincs határérték |
+| 26. | Közepes hosszúságú | > 500 mm L ≤ 1 500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 28. | A kristályüveg termékek címkézéséről szóló 75/1999. (XII. 21.) GM rendelet hatálya alá tartozó kristályüvegekben található ólom. | nincs határérték |
+| 5 mg | 2012. január 1-től |
 
-| 29. | A (pl. folyadékkristályos kijelzőkben, illetőleg dísz- vagy ipari világításként használt) higanymentes lapos fluoreszkáló lámpák forrasztóanyagában levő ólom. | nincs határérték |
+| 27. | Hosszú > 1 500 mm | > 1 500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 30. | Az argon- és kripton-lézercsövek tokjának összeállításánál használatos lezáró frittben levő ólom-oxid. | nincs határérték |
+| 13 mg | 2012. január 1-től |
 
-| 31. | A transzformátorokban alkalmazott, 100 mm-es vagy annál kisebb átmérőjű vékony vörösréz vezetékek forrasztásához használt forrasztóanyagban lévő ólom. | nincs határérték |
+| 28. | Egyéb kisnyomású kisülőlámpák | - | nincs korlátozás | 2011. december 31-ig |
 
-| 32. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom. | nincs határérték |
+| 15 mg | 2012. január 1-től |
 
-| 33. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatában lévő ólom. | nincs határérték |
+| 29. | e) Általános világítási célra szolgáló, javított színvisszaadási mutatójú (Ra > 60), nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| III. | Kadmium |  |  |
+| 30. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 1. | A villamos érintkezőkben és a kadmiumbevonatokban lévő kadmium és vegyülékei, kivéve az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet alapján tiltott alkalmazásokat | nincs határérték |
+| 31. |  | P ≤ 155 W | nincs korlátozás | 2011. december 31-ig |
 
-| 2. | Az optikai üvegben és fényszűrőben lévő kadmium | nincs határérték |
+| 30 mg | 2012. január 1-től |
 
-| 3. | A 100 dB (A) és annál nagyobb hangnyomású, nagy teljesítményű hangszórókban használt transzduktorokban, közvetlenül a tekercsen található áramvezető anyagok elektromos, illetve mechanikus forrasztóanyagaként használt kadmium alapú ötvözetek. | nincs határérték |
+| 32. |  | 155 W < P ≤ 405 W | nincs korlátozás | 2011. december 31-ig |
 
-| 4. | A II–VI típusú félvezető anyagból készülő, szilárdtest-világítási vagy -kijelző rendszerekben használt színátalakító LED-ekben lévő kadmium 2014. július 1-jéig. | a fénykibocsátó terület egy mm2-ére eső kadmium- mennyiség 10 μg |
+| 40 mg | 2012. január 1-től |
 
-| 5. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid. | nincs határérték |
+| 33. |  | P > 405 W | nincs korlátozás | 2011. december 31-ig |
 
-| IV. | Hat vegyértékű króm |  |  |
+| 40 mg | 2012. január 1-től |
 
-| 1. | Abszorpciós hűtőgépek hűtőrendszerében alkalmazott szénacél korrózióvédelmére. | nincs határérték |
+| 34. | f) Egyéb általános világítási célra szolgáló nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| 2. | Az elektromos és elektronikai berendezések hulladékainak visszavételéről szóló külön jogszabály IT és távközlési berendezéskategóriába tartozó berendezésekben, a korrózió elleni védelemre és az elektromágneses interferencia elleni védelemre szolgáló, festetlen fémlemezek és kapcsok korróziót megelőző bevonataiban található hatvegyértékű króm. 2007. július 1-jéig engedélyezett mentesítés. | nincs határérték |
+| 35. |  | P ≤ 155 W | nincs korlátozás | 2011. december 31-ig |
 
-| V. |  |  |  |
+| 25 mg | 2012. január 1-től |
+
+| 36. |  | 155 W < P ≤ 405 W | nincs korlátozás | 2011. december 31-ig |
+
+| 30 mg | 2012. január 1-től |
+
+| 37. |  | P > 405 W | nincs korlátozás | 2011. december 31-ig |
+
+| 40 mg | 2012. január 1-től |
+
+| 38. | Nagynyomású higany(gőz)lámpákban (HPMV) használt higany | - | nincs korlátozás | 2015. április 13-ig |
+
+| 39. | Fémhalogén (MH) lámpákban használt higany | - | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 40. | Az e mellékletben külön nem említett, különleges rendeltetésű egyéb kisülőlámpákban használt higany | - | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 41. | II. Ólom és ólomvegyület-tartalomra vonatkozó mentességek |
+
+| 42. | Típus | Maximális megengedett koncentráció m/m tömegszázalék | A mentesség határideje |
+
+| 43. | Katódsugárcsövek üvegében használt ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 44. | Fénycsövek üvegében használt ólom | ≤ 0,2 m/m % | mentesség ideje nincs korlátozva |
+
+| 45. | Ólom a megmunkálásra szánt acél ötvözőelemeként, illetve galvanizált acélban | ≤ 0,35 m/m % | mentesség ideje nincs korlátozva |
+
+| 46. | Ólom az alumínium ötvözőelemeként | ≤ 0,4 m/m % | mentesség ideje nincs korlátozva |
+
+| 47. | Rézötvözet | ≤ 4 m/m % | mentesség ideje nincs korlátozva |
+
+| 48. | Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz olyan ólomötvözetek, amelyek legalább 85 tömegszázalékban tartalmaznak ólmot) |  | mentesség ideje nincs korlátozva |
+
+| 49. | A szerverekben, az adattároló rendszerekben, a tárolási és elrendezési rendszerekben, a hálózati infrastruktúra kapcsoló, jelző és adatátviteli berendezéseiben, és a távközlési hálózatok hálózatkezelése során használt forrasztóanyagokban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 50. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 51. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 52. | 125 V AC vagy 250 V DC alatti névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | 2013. január 1-jén lejár, ezt követően a 2013. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 53. | Ólom a fűtő, szellőztető, légkondicionáló és hűtő alkalmazásokban használt, hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 54. | C-press rugalmas tűs csatlakozórendszerekben használt ólom | nincs korlátozás | A 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 55. | Nem C-press rugalmas tűs csatlakozórendszerekben használt ólom | nincs korlátozás | 2013. január 1-ig, ezt követően a 2013. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 56. | A hővezető modulok tömítőgyűrűjén bevonóanyagként használt ólom | nincs korlátozás | A 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 57. | Optikai alkalmazásokban használt fehér üvegekben lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 58. | Reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmium és ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 59. | Kettőnél több elemből álló, a mikroprocesszor kivezetései és tokja között kapcsolatot biztosító forrasztóanyagban lévő ólom, ha az ólomtartalom 80 és 85 tömegszázalék között van | nincs korlátozás | a 2011. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 60. | Flip Chip integrált áramkörökben a félvezető süllyesztéke és hordozója között működőképes elektronikus kapcsolatot lehetővé tevő ólomtartalmú forraszanyag | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 61. | Az olyan vonalizzókban található ólom, amelyek csöve szilikát bevonatú | nincs korlátozás | 2013. szeptember 1-ig |
+
+| 62. | Ólom-halogenid a nagynyomású kisülő lámpák (HID) sugárzó anyagaként professzionális reprográfiai alkalmazásokra | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 63. | Ólom a szoláriumcsövek fényporában, mint például a BSP (BaSi2O5 :Pb) fényporokban, aktivátorként | ≤ 1 m/m % | mentesség ideje nincs korlátozva |
+
+| 64. | Ólom és kadmium a zománc üvegre, például boroszilikát üvegre vagy nátronüvegre való felviteléhez használt nyomdafestékekben | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 65. | Ólom a csatlakozók kivételével a 0,65 mm vagy kisebb osztóközű, finom osztású (fine-pitch) komponensek felületén | nincs korlátozás | A 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
+
+| 66. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 67. | Ólom-oxid a felületvezető elektronkibocsátó kijelzőkben (SED) használt szerkezeti elemekben, nevezetesen a lezáró frittben és a frittgyűrűben | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 68. | A 69/493/EGK tanácsi irányelv ( 1 ) I. mellékletében (1., 2., 3. és 4. kategória) meghatározott, kristályüvegben található ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 69. | A 100 dB (A) és annál nagyobb hangnyomású, nagy teljesítményű hangszórókban használt transzduktorokban, közvetlenül a tekercsen található áramvezető anyagok elektromos, illetve mechanikus forrasztóanyagaként használt, kadmium alapú ötvözetek | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 70. | A (pl. folyadékkristályos kijelzőkben, illetőleg dísz- vagy ipari világításként használt) higanymentes lapos fluoreszkáló lámpák forrasztóanyagában levő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 71. | Az argon- és kripton-lézercsövek ablak szerelvényeiben használatos lezáró frittben levő ólom-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 72. | A transzformátorokban alkalmazott, 100 μm-es vagy annál kisebb átmérőjű vékony vörösréz vezetékek forrasztásához használt forrasztóanyagban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 73. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 74. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 75. | III. Kadmium és kadmiumvegyülettartalomra vonatkozó mentességek |
+
+| 76. | Egyszer használatos, szemcsés töltetű hőkioldókban lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 77. | A villamos érintkezőkben lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 78. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 79. | A szilárdtest-világítási vagy -kijelző rendszerekben használt színátalakító LED-ekben lévő kadmium | a fénykibocsátó terület egy négyzetmilliméterére eső kadmium-mennyiség < 10 μg | 2014. július 1-ig |
+
+| 80. | Reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmium és ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 81. | Ólom és kadmium a zománc üvegre, például boroszilikát üvegre vagy nátronüvegre való felviteléhez használt nyomdafestékekben | nincs korlátozás | mentesség ideje nincs korlátozva |
+
+| 82. | IV. Krómtartalomra vonatkozó mentességek |
+
+| 83. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
 [^8]: Az 5. § a 45/2010. (XII. 23.) VM rendelet 1. §-ával megállapított szöveg.
-[^9]: A melléklet a 31/2006. (VI. 28.) KvVM rendelet 2. §-ával megállapított, az 1/2007. (I. 18.) KvVM rendelet 2. §-a, a 28/2008. (XII. 10.) KvVM rendelet 6. §-a, a 17/2009. (X. 22.) KvVM rendelet 2. §-a, továbbá a 3. § (2)–(5) bekezdése, a 45/2010. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^9]: Az 5. § n) pontját a 63/2011. (VII. 11.) VM rendelet 1. §-a iktatta be.
+[^10]: A Melléklet a 63/2011. (VII. 11.) VM rendelet 2. §-ával megállapított szöveg.
