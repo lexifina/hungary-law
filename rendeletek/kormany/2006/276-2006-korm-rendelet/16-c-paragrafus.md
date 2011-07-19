@@ -18,7 +18,7 @@ i) a közigazgatási informatika koordinációját támogató informatikai rends
 
 j) a helyi és területi informatikai szolgáltatások összehangolásában, a helyi és a területi államigazgatási szervek közszolgáltatási folyamatok egyszerűsítésével kapcsolatos tevékenységek koordinálásában,
 
-k)[^25]
+k)[^25] a kiemelt biztonsági védelmet igénylő informatikai eszközök beszerzésében és üzemeltetésében.
 
 (2)[^26] A KEKKH részt vesz
 
@@ -58,7 +58,7 @@ c)[^31] a központi elektronikus szolgáltató rendszer által kezelt adatok tek
 [^22]: A 16/C. § (1) bekezdés a) pontja a 278/2008. (XI. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: A 16/C. § (1) bekezdés d) pontját a 278/2008. (XI. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte.
 [^24]: A 16/C. § (1) bekezdés f)–g) pontját a 278/2008. (XI. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte.
-[^25]: A 16/C. § (1) bekezdés k) pontját a 278/2008. (XI. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^25]: A 16/C. § (1) bekezdés k) pontját a 278/2008. (XI. 28.) Korm. rendelet 4. § (4) bekezdése hatályon kívül helyezte, újonnan a 124/2011. (VII. 18.) Korm. rendelet 7. §-a iktatta be.
 [^26]: A 16/C. § (2) bekezdése a 278/2008. (XI. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^27]: A 16/C. § (3) bekezdése a 78/2010. (III. 25.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
 [^28]: A 16/C. § (4) bekezdését a 278/2008. (XI. 28.) Korm. rendelet 3. § (4) bekezdése iktatta be.
