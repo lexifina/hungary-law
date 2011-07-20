@@ -1,3 +1,0 @@
-## 6. § Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 2. § (1) bekezdés d) pontjában az „ , az állami vezető, a minisztérium kabinetfőnöke, a kormánybiztos, a törvény alapján állami vezetői juttatásra jogosult személy” szövegrész helyébe az „és jogszabály alapján állami vezetői juttatásként egészségügyi ellátásra jogosult személy” szöveg lép.
-
-## 3. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és hatásköréről szóló 276/2006. (XII. 23.) Korm. rendelet módosítása
