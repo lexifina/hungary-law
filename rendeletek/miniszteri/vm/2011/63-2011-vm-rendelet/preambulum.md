@@ -1,1 +1,0 @@
-A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés j) pontjának ja) alpontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § k) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
