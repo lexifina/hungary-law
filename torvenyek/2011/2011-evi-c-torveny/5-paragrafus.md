@@ -1,1 +1,0 @@
-5. § A lelkiismereti és vallásszabadság jogával összefüggésben az állami hatóságok adatokat nem gyűjthetnek és nyilvántartást nem vezethetnek. A népszámlálás során nem kötelező jelleggel, azonosításra alkalmatlan módon kérhető adat a vallási hovatartozásról.

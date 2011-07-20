@@ -1,1 +1,0 @@
-17. § A miniszter a benyújtó egyház kérelmének Országgyűlés elé terjesztését megelőzően, külön jogszabályban meghatározott feltételek alapján szakértőt rendelhet ki a törvényben foglalt vallási tevékenységgel kapcsolatos feltételek fennállása megállapításának tisztázására. Nem kérhető fel szakértőként egyház vagy egyházi jogi személy ügyintéző és képviseleti szervének tagja.

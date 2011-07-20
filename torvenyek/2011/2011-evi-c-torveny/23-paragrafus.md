@@ -1,1 +1,0 @@
-23. § Az egyházak, különösen az egyházi szertartások és az egyházkormányzat zavartalan működése, illetve a templomok, temetők és más szent helyek fokozott szabálysértési és büntetőjogi védelemben részesülnek.

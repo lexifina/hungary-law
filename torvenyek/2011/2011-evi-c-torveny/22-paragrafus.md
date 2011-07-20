@@ -1,1 +1,0 @@
-22. § Az állam lehetőséget biztosít az egyházaknak – külön jogszabályban meghatározott eljárás keretein belül – hogy részt vegyenek a jogalkotás kapcsán a jogszabálytervezetek és jogalkotási koncepciók véleményezésében.
