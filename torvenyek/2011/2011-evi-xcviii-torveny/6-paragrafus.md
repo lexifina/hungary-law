@@ -7,11 +7,3 @@ b) 8. § (2) bekezdésében a „feltéve, ha a választópolgároknak több min
 c) 8. § (10) bekezdése, valamint
 
 d) 9. § (5) bekezdésében az „– a 8. § (10) bekezdésében foglaltak kivételével –” szövegrész.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
