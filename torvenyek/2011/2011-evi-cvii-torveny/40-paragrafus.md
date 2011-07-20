@@ -1,0 +1,3 @@
+40. § Az Eht. 139. §-a helyébe a következő rendelkezés lép:
+
+„139. § A szolgáltató általános szerződési feltételeiben a 130–131. §-okban és az Elnök által rendeletben meghatározott módon köteles meghatározni az előfizetői szolgáltatásokra vonatkozó minőségi célértékeket. A szolgáltató köteles a minőségi célértékek teljesítésére vonatkozó információkat rendszeresen közzétenni a jogszabályban meghatározott tartalommal, formában és módon, hogy az előfizetők – beleértve a fogyatékos személyeket is – átfogó, áttekinthető, összehasonlítható, megbízható, felhasználóbarát, naprakész információhoz juthassanak.”
