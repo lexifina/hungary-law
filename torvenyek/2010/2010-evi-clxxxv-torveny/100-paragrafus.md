@@ -6,7 +6,7 @@
 
 (3) Az Alap gondoskodik a közszolgálati médiavagyon, valamint a közszolgálati médiaszolgáltatók és az Alap tulajdonába került, a közszolgálati médiavagyon körébe nem tartozó, a szerzői jogi törvény hatálya alá tartozó műveket és más teljesítményeket tartalmazó fizikai hordozók (a továbbiakban együtt: Archívum) tárolásáról, megőrzéséről és felhasználásáról. Az Archívum országos gyűjtőkörű közgyűjteménynek minősül.
 
-(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap elnöke a Médiatanács egyetértésével, szabályzatban állapítja meg.
+(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap vezérigazgatója a Médiatanács egyetértésével, szabályzatban állapítja meg.
 
 (5) Az Alap az Archívumban található műveket a szerzői jogról szóló törvényben foglaltak, valamint a szerzői jogi és szomszédos jogi jogosultakkal kötött megállapodás szerint használhatja fel.
 
@@ -18,4 +18,4 @@
 
 (9) A közszolgálati médiavagyonba tartozó művek esetleges – az Alapon kívüli – szerzői jogi jogosultjait is megfelelő díjazás illeti meg. Vita esetén a díj összegét a bíróság állapítja meg.
 
-(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) és (4) bekezdésében foglaltakat nem kell alkalmazni.
+(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni.
