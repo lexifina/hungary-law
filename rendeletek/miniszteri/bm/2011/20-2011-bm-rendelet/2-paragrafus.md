@@ -1,0 +1,1 @@
+## 1. § A tűzoltóságok legkisebb erő- és eszközállományáról, a Riasztási és Segítségnyújtási Tervről, a működési területről, valamint a tűzoltóságok vonulásaival kapcsolatos költségek megtérítéséről szóló 32/2009. (XI. 30.) ÖM rendelet (a továbbiakban: R.) 5. melléklete az 1. melléklet szerint módosul.
