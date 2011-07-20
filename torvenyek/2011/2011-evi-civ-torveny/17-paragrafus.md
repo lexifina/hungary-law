@@ -1,0 +1,7 @@
+17. § Az Stv. 72/A. §-a helyébe a következő rendelkezés lép:
+
+„72/A. § (1) A szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet e tevékenységi körében névre szóló belépőjegyet és bérletet – ha a szervező sportszervezet, akkor klubkártyát is – állíthat ki és értékesíthet. A belépőjegyen, bérleten, valamint klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét, valamint lakcímét az azokat kibocsátó szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet vagy sportszervezet a belépőjegy, a bérlet, illetve a klubkártya érvényességének lejáratát követő 3 munkanapig nyilvántartja.
+
+(2) Az (1) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az abban szereplő személyes adat csak a sportrendezvény helyszínén vagy a sportrendezvény helyszínének megközelítése, illetve az onnan való távozás során elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényről való eltiltás során használható fel.
+
+(3) Az (1) bekezdésben meghatározott határidőn belül a (2) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség, illetve a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.”

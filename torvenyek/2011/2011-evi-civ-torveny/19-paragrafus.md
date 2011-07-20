@@ -1,0 +1,13 @@
+19. § (1) Az Stv. 74. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szervező – rendező alkalmazása esetén a rendező – képviselője a normál és fokozott biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén, a beléptetésre váró szurkolók által elfoglalt közterületen és a nézők részére kijelölt parkolókban – a résztvevők személyi és vagyonbiztonsága érdekében jogosult, a labdarúgás sportág tekintetében a fokozott, valamint valamennyi kiemelt biztonsági kockázatú sportrendezvény ideje alatt köteles a résztvevőket a rendőrség által meghatározott helyszínekre, a rendőrség által meghatározott számban elhelyezett, a résztvevők egyedi azonosítását lehetővé tevő minőségű felvételt biztosító kamerával megfigyelni és a felvételt rögzíteni.
+
+(2) A kamerával való megfigyelésről, a kamerák elhelyezkedéséről és a rögzített adatok kezeléséről a nézőt a sportlétesítményen kívül és annak területén jól látható hirdetményen, a belépőjegyen, bérleten, illetve a klubkártyán piktogramok felhasználásával, valamint magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is tájékoztatni kell.
+
+(3) A szabálysértési, valamint a büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából a sportrendezvény befejezését követően a szervező köteles a rendőrség által a sportrendezvény befejezését követő 72 órán belül megtehető felszólításban megjelölt ideig megőrizni a sportesemény biztosítása során rögzített felvételeket. A rendőrség a szervezőt vagy a rendezőt a felvételeknek a felszólítást követő legfeljebb 30 napig történő tárolására szólíthatja fel. Amennyiben a felszólításra nem kerül sor, a szervező vagy a rendező a rögzített adatokat a rögzítést követő 72 óra elteltével megsemmisíti.”
+
+(2) Az Stv. 74. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1) bekezdés szerint rögzített felvételekből a jogszabályban meghatározott nemzetbiztonsági, bűnüldözési, szabálysértési, illetve igazságszolgáltatási feladatai ellátása céljából a nemzetbiztonsági szolgálat, a rendőrség, a szabálysértési hatóság, az ügyészség és a bíróság, valamint az érintett személy igényelhet adatot.
+
+(6) A kamerával felvett adatokat a sportrendezvény területén erre a célra létesített helyiségben a szervező, a rendező, illetve a rendező szerv képviselője egyidejűleg és folyamatosan figyelemmel kíséri. A rendőrség, illetve a nemzetbiztonsági szolgálat e feladattal megbízott képviselője ennek során jelen lehet.”

@@ -1,0 +1,5 @@
+12. § Az Stv. 69. §-a helyébe a következő rendelkezés lép:
+
+„69. § (1) A szervező a sportlétesítmény beléptetőpontjainál jól látható hirdetményben köteles meghatározni a sportrendezvényen történő részvétel feltételeit és a magatartási szabályokat, amelyeket – általános szerződési feltételekként összefoglalva – a belépőjegyen, bérleten is fel kell tüntetni.
+
+(2) Ha a sportrendezvény elmaradt, illetve a nézők kizárásával vagy a nézőszám korlátozásával került megrendezésre, a belépőjegy ellenértékét három munkanapon belül vissza kell téríteni. Ha a sportrendezvény megszakadt, a megismételt sportrendezvényre a belépőjegy érvényes.”
