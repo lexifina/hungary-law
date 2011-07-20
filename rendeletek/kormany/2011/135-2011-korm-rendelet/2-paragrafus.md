@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó)–Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
