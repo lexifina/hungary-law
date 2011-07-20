@@ -34,7 +34,7 @@ c) az egyetemes postai szolgáltatások költségszámítására vonatkozó elve
 
 d) a hírközlési hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott – a személyes adatokat nem érintő – adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a hírközlési hatóság adatkezelésére, nyilvántartás-vezetésére vonatkozó szabályokat;
 
-e) a számviteli nyilvántartások 34. § (2) bekezdés szerinti elkülönített vezetésének részletes szabályait;
+e) a számviteli nyilvántartások elkülönített vezetésének, és a számviteli elkülönítési rendszer ellenőrzésének részletes szabályait;
 
 f) a védelmi feladatokban részt vevő postai szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 
