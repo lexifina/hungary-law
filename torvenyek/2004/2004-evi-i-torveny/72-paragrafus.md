@@ -1,4 +1,4 @@
-72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat, a kiemelt biztonsági kockázatú sportrendezvény esetében beléptető rendszert alkalmaz. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
+72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
 
 (2) Beléptető rendszer alkalmazása esetén a szervező
 
