@@ -3736,7 +3736,7 @@ Pest megye
 
 hivatásos önkormányzati és önkéntes tűzoltóságainak és az FTP elsődleges működési körzete.
 
-XI. KOMÁROM-ESZTERGOM MEGYE
+XI. KOMÁROM-ESZTERGOM MEGYE[^9]
 
 Önkéntes tűzoltóság:
 
@@ -3750,29 +3750,9 @@ Bana
 
 Bábolna
 
-Önkéntes tűzoltóság:
-
-2. BAJNA
-
-Elsődleges működési körzet:
-
-Bajna
-
-Epöl
-
-Gyermely
-
-Szomor
-
-Nagysáp
-
-Máriahalom
-
-Úny
-
 Hivatásos önkormányzati tűzoltóság:
 
-3. ESZTERGOM
+2. ESZTERGOM
 
 Elsődleges működési körzet:
 
@@ -3790,6 +3770,8 @@ Kesztölc
 
 Leányvár
 
+Máriahalom
+
 Piliscsév
 
 Pilismarót
@@ -3800,9 +3782,11 @@ Pilisjászfalu (Pest megye)
 
 Tinnye (Pest megye)
 
+Úny
+
 Önkéntes tűzoltóság:
 
-4. KISBÉR
+3. KISBÉR
 
 Elsődleges működési körzet:
 
@@ -3838,7 +3822,7 @@ Vérteskethely
 
 Hivatásos önkormányzati tűzoltóság:
 
-5. KOMÁROM
+4. KOMÁROM
 
 Elsődleges működési körzet:
 
@@ -3856,7 +3840,7 @@ Neszmély
 
 Önkéntes tűzoltóság:
 
-6. NAGYIGMÁND
+5. NAGYIGMÁND
 
 Elsődleges működési körzet:
 
@@ -3876,17 +3860,23 @@ Tárkány
 
 Hivatásos önkormányzati tűzoltóság:
 
-7. NYERGESÚJFALU
+6. NYERGESÚJFALU
 
 Elsődleges működési körzet:
 
 Annavölgy
 
+Bajna
+
 Bajót
+
+Epöl
 
 Lábatlan
 
 Mogyorósbánya
+
+Nagysáp
 
 Nyergesújfalu
 
@@ -3902,7 +3892,7 @@ Tokodaltáró
 
 Önkéntes tűzoltóság:
 
-8. OROSZLÁNY
+7. OROSZLÁNY
 
 Elsődleges működési körzet:
 
@@ -3916,13 +3906,15 @@ Oroszlány
 
 Hivatásos önkormányzati tűzoltóság:
 
-9. TATABÁNYA
+8. TATABÁNYA
 
 Elsődleges működési körzet:
 
 Baj
 
 Dunaszentmiklós
+
+Gyermely
 
 Héreg
 
@@ -3933,6 +3925,8 @@ Környe
 Szárliget
 
 Szomód
+
+Szomor
 
 Tardos
 
@@ -5423,3 +5417,27 @@ Fényeslitke
 Gégény
 
 Gyulaháza
+
+Jéke
+
+Kékcse
+
+Kisvárda
+
+Lövőpetri
+
+Mezőladány
+
+Nyírkarász
+
+Nyírlövő
+
+Nyírtass
+
+Pap
+
+Pátroha
+
+Rétközberencs
+
+[^9]: Az 5. melléklet XI. pontja a 20/2011. (VII. 5.) BM rendelet 1. §-ával megállapított szöveg.
