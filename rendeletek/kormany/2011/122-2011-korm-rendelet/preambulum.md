@@ -1,0 +1,1 @@
+Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (1) bekezdés b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
