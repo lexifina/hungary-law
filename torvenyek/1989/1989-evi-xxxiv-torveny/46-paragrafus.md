@@ -8,7 +8,7 @@
 
 ## Időközi választás
 
-46. § (1) Az egyéni választókerületben, ha a választás második fordulója is érvénytelen, illetőleg, ha egyéni választókerületi képviselői megbízatás megszűnt, időközi választást kell tartani.
+46. § (1) Az egyéni választókerületben, ha a választás második fordulója eredménytelen, vagy ha egyéni választókerületi képviselői megbízatás megszűnt, időközi választást kell tartani.
 
 (2)
 

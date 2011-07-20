@@ -1,6 +1,6 @@
 8. § (1) A területi választókerületben a pártok listáinak jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — a szavazólapon szereplő sorrendben jutnak mandátumhoz, feltéve, ha a választópolgároknak több mint a fele szavazott. A választópolgár egy listára szavazhat.
 
-(2) Ha a területi választókerületben az első választási forduló érvénytelen, mert azon a választópolgároknak több mint a fele nem vett részt, a második választási fordulóban mindazon pártlisták indíthatók, amelyek az első fordulóban indultak. A pártlisták jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — jutnak mandátumhoz feltéve, ha a választópolgároknak több mint az egynegyede szavazott.
+(2) Ha a területi választókerületben az első választási forduló érvénytelen, mert azon a választópolgároknak több mint a fele nem vett részt, a második választási fordulóban mindazon pártlisták indíthatók, amelyek az első fordulóban indultak. A pártlisták jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — jutnak mandátumhoz.
 
 (3) Ha az (1)—(2) bekezdés szerinti számítást követően a területi választókerületben betöltetlen mandátum maradna, akkor az a lista is mandátumot szerez, amely az egy mandátum megszerzéséhez szükségesnél egyébként kevesebb, de annak kétharmadánál több szavazatot kapott. Több ilyen lista közül a mandátumot az szerzi meg, amely sorrendben a legtöbb szavazatot kapta. Ha a számítás elvégzése után üres mandátum marad, akkor ezzel a mandátummal az országos listán megszerezhető mandátumok száma növekszik.
 
@@ -22,4 +22,4 @@ bb) A ba) pont szerinti határt eltérő listakapcsolásnak vagy közös listán
 
 (9) Ha a területi választókerületben a választáson egyetlen pártlistát sem indítottak, a területi választókerületre eső mandátumok felkerülnek az országos listára, és a töredékszavazatok alapján kerülnek kiosztásra.
 
-(10) Ha a területi választókerületben a második választási forduló érvénytelen volt, mert a választópolgárok egynegyede sem szavazott, akkor az első választási fordulóban leadott szavazatokat töredékszavazatnak kell tekinteni, és a betöltetlen területi választókerületi mandátumok az országos listán kerülnek kiosztásra.
+(10)

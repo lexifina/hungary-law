@@ -12,15 +12,11 @@ a) Érvényes első választási forduló
 
 b) Érvénytelen első választási forduló
 
-Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele, vagy ennél kevesebb választópolgár szavazott.
+Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele vagy ennél kevesebb választópolgár szavazott.
 
 c) Érvényes második választási forduló
 
-Az érvénytelen vagy az eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második forduló akkor érvényes, ha a szavazáson részt vett a választópolgároknak több mint az egynegyede.
-
-d) Érvénytelen második választási forduló
-
-Érvénytelen vagy eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második választási forduló érvénytelen, ha a szavazáson nem vett részt a választópolgároknak több mint az egynegyede.
+Az érvénytelen vagy az eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második forduló érvényes.
 
 2. Eredményes és eredménytelen választási forduló:
 
@@ -34,13 +30,13 @@ Eredménytelen az az első érvényes választási forduló [1/a) pont], amelyen
 
 c) Eredményes második választási forduló
 
-Eredményes az az érvényes [1/a) pont] vagy az érvénytelen [1/b) pont] első választási fordulót követő második érvényes választási forduló, amelyen a jelöltek eltérő számú szavazatot kaptak.
+Eredményes az az érvényes [1/a) pont] vagy az érvénytelen [1/b) pont] első választási fordulót követő második választási forduló, amelyen a jelöltek eltérő számú szavazatot kaptak.
 
 d) Eredménytelen második választási forduló
 
-Eredménytelen az az érvényes [1/c) pont] második választási forduló, amelyen a jelöltek azonos számú szavazatot kaptak.
+Eredménytelen az a második választási forduló, amelyen a jelöltek azonos számú szavazatot kaptak.
 
-Egyéni választókerületben országgyűlési képviselő az a jelölt lesz, aki az érvényes választási fordulóban megkapta a 2/a) pont vagy 2/c) pont szerinti szavazatszámot.
+Egyéni választókerületben országgyűlési képviselő az a jelölt lesz, aki az első érvényes választási fordulóban megkapta a 2/a) pont szerinti szavazatszámot, vagy a második választási fordulóban a 2/c) pontban foglaltakra figyelemmel a legtöbb érvényes szavazatot kapta.
 
 II. Területi választókerület
 
@@ -52,15 +48,11 @@ a) Érvényes választási forduló
 
 b) Érvénytelen választási forduló
 
-Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele, vagy annál kevesebb választópolgár szavazott.
+Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele vagy annál kevesebb választópolgár szavazott.
 
 c) Érvényes második választási forduló
 
-Érvényes az az első érvénytelen fordulót [1/b) pont] követő második választási forduló, amelyen a választásra jogosultaknak több mint az egynegyede szavazott.
-
-d) Érvénytelen második választási forduló
-
-Érvénytelen az első érvénytelen választási fordulót [1/b) pont] követő második forduló, amelyen a választójogosultak egynegyede vagy ennél kevesebb szavazott.
+Érvényes az érvénytelen első fordulót [1/b) pont] követő második választási forduló.
 
 2. A területi listás választási eredmény kiszámításának előfeltételei:
 
