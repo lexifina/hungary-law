@@ -1,0 +1,5 @@
+21. § (1) Az egyházak hitéleti célú bevételeit és azok felhasználását állami szerv nem ellenőrizheti. Hitéleti célú bevételnek minősül a személyi jövedelemadó meghatározott részének egyház számára történő felajánlása, annak költségvetési kiegészítése, illetve az ennek esetleg helyébe lépő juttatás, valamint az ingatlanjáradék és annak kiegészítése is.
+
+(2) Az egyház és a belső egyházi jogi személy a meghatározott nem hitéleti célra adott állami támogatásból származó bevételét és annak felhasználását a számvitelről és az államháztartásról szóló törvény rendelkezései, valamint a könyvvezetéshez kapcsolódó egyéb jogszabályok szerint tartja nyilván.
+
+(3) Az egyházaknak nem hitéleti, de meghatározott célra adott állami támogatás felhasználásának törvényességi szempontok szerinti ellenőrzését az Állami Számvevőszék végzi, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból az állam részvételével juttatott támogatások felhasználásának ellenőrzését jogszabály határozza meg.
