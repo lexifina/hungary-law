@@ -578,9 +578,11 @@
 
 |  |  | 55 | 524 | 02 | 0010 | 55 | 02 | Szakképesítés-elágazás: Vegyipari méréstechnológus |  |
 
-| 89. | 187 | 33 | 582 | 01 | 1000 | 00 | 00 | Ács, állványozó | Építészet szakmacsoport |
+| 98. | 198. | 31 | 582 | 07 |  |  |  | Bádogos | Építészet |
 
-|  |  | 33 | 582 | 01 | 0100 | 21 | 01 | Részszakképesítés: Állványozó |  |
+|  |  | 31 | 582 | 07 | 0010 | 31 | 01 | Szakképesítés-elágazás: Épület- és építmény bádogos |  |
+
+|  |  | 31 | 582 | 07 | 0010 | 31 | 02 | Szakképesítés-elágazás: Ipari szigetelő-bádogos |  |
 
 | 90. | 188. | 33 | 582 | 02 | 0000 | 00 | 00 | Belsőépítési szerkezet- és burkolatszerelő | Építészet szakmacsoport |
 
@@ -1116,7 +1118,9 @@
 
 | 184. | 353. | 51 | 213 | 01 | 1000 | 00 | 00 | Fényképész és fotótermék-kereskedő | Egyéb szolgáltatások szakmacsoport |
 
-| 185. | 354. | 33 | 815 | 01 | 1000 | 00 | 00 | Fodrász | Egyéb szolgáltatások szakmacsoport |
+| 185. | 354. | 33 | 815 | 01 | 1000 | 00 | 00 | Fodrász | Egyéb szolgáltatások |
+
+|  |  | 33 | 815 | 01 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Parókakészítő |  |
 
 | 186. | 355. | 54 | 725 | 01 | 0000 | 00 | 00 | Grafológus | Egyéb szolgáltatások szakmacsoport |
 
@@ -1191,6 +1195,10 @@
 |  |  | 31 | 814 | 01 | 0100 | 31 | 01 | Részszakképesítés: Takarítógép-kezelő |  |
 
 | 198. | 381. | 31 | 543 | 09 | 0000 | 00 | 00 | Üvegcsiszoló | Egyéb szolgáltatások szakmacsoport |
+
+| 199. | 425. | 55 | 810 | 02 | 0000 | 00 | 00 | Fogyasztóvédelmi szakasszisztens | Egyéb szolgáltatások |
+
+| 200. | 426. | 31 | 521 | 28 | 0000 | 00 | 00 | Járműipari fémalkatrész-gyártó | Gépészet |
 
 2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^3]
 
@@ -3884,38 +3892,4 @@ Részt vesz az ünnepek előkészítésében, lebonyolításában, életkortól 
 
 Tulajdonságprofil:
 
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-C A napközbeni ellátás intézményei
-
-B A beszoktatás módszerei
-
-C Az ellátással kapcsolatos elvárások és realitások
-
-C A kölcsönös információátadás jelentősége és szabályai
-
-B Az anya-gyermek kapcsolat jelentősége
-
-C Az egyéni szükségletek kielégítésének lehetőségei csoportkörülmények között
-
-C A gyógyászati segédeszközök és karbantartásuk
-
-C A helyes napirend kialakítása
-
-C Az egészséges táplálkozás alapjai
-
-C A játékfejlődés szakaszai
-
-C A kisgyermekkori mondókák, énekek, mesék fejlődést segítő szerepe
-
-C Az ünnepek, hagyományok, szokások jelentősége
-
-C Az eltérő fejlődésre mutató jelek
-
-D A bölcsődei korai fejlesztés módszerei
-
-B A kisgyermek környezetében elvárt higiénés követelmények
-
-[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
