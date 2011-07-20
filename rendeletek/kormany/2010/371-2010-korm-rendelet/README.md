@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-371-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-12-31 | 2010-371-20-22.1 | 371/2010. (XII. 31.) Korm. rendelet |
+| 2011-07-20 | 2010-371-20-22.2 | 157/2015. (VI. 25.) Korm. rendelet |
