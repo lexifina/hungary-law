@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Szeged–Makó–Csanádpalota (H) és Nădlac–Arad (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
