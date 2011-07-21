@@ -1,28 +1,14 @@
 2. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
-Melléklet a 90/2007. (XI. 17.) GKM rendelethez[^2]
+Melléklet a 90/2007. (XI. 17.) GKM rendelethez[^3]
 
 | A szerv vagy intézmény és a munkakör megnevezése | A nemzetbiztonsági ellenőrzés szintje |
 
 | I. |  |
 
-| II. | SZELLEMI TULAJDON NEMZETI HIVATALA |
-
-|  | 1. | Gazdasági főigazgató (gazdasági vezető) | C |
-
-|  | 2. | Titokvédelmi felügyelő | C |
-
-|  | 3. | Szabadalmi Főosztály vezetője | B |
-
-|  | 4. | Iparjogvédelmi Ügyviteli Főosztály vezetője | B |
-
-|  | 5. | Jogi és Nemzetközi Főosztály vezetője | B |
-
-|  | 6. | Jogi és Nemzetközi Főosztály EU tagállamként való működéssel kapcsolatos feladatok ellátására kijelölt köztisztviselője | B |
-
-|  | 7. | Titkos ügykezelő | B |
+| II. |  |
 
 | III. |  |
 
@@ -64,5 +50,5 @@ Melléklet a 90/2007. (XI. 17.) GKM rendelethez[^2]
 
 |  | Külszolgálatra jelölt személy | C |
 
-[^1]: A 2. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
-[^2]: A melléklet a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének b) pontja, a 23/2008. (XI. 18.) NFGM rendelet 2. § (2) bekezdése, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése, a 27/2010. (XII. 28.) KIM rendelet 14. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^3]: A melléklet a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének b) pontja, a 23/2008. (XI. 18.) NFGM rendelet 2. § (2) bekezdése, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése, a 27/2010. (XII. 28.) KIM rendelet 14. §-a, a 21/2011. (VII. 13.) KIM rendelet 3. § g) pontja szerint módosított szöveg.
