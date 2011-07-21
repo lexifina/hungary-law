@@ -1,3 +1,5 @@
+## tanúsítja.
+
 4. §[^9] (1) A jogi szakvizsgára az igazságügyért felelős miniszternél kell jelentkezni.
 
 (2) A jelentkezésben a jelöltnek fel kell tüntetnie

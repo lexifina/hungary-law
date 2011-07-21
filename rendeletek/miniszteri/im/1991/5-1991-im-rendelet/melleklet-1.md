@@ -1,6 +1,7 @@
-## 17/A. §[^33] E rendeletnek a 37/2010. (V. 14.) IRM rendelettel módosított 4. § (3a) bekezdését és 5. § (3) bekezdését a 2010. július 1-jét követően benyújtott jogi szakvizsgára (részvizsgára) bocsátás iránti kérelemmel érintett ügyekben kell alkalmazni.
+## 17/B. §[^34] E rendeletnek a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet módosításáról szóló 22/2011. (VII. 20.) KIM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a 2. § (2) bekezdés c) pontja szerinti, a Módr. hatálybalépését[^35] megelőzően megkezdett ösztöndíjas szakmai gyakorlatokra is alkalmazni kell.
 
-1. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^34]
+1. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^36]
 
-[^33]: A 17/A. §-t a 37/2010. (V. 14.) IRM rendelet 2. § (4) bekezdése iktatta be.
-[^34]: Az 1. számú melléklet a 14/2000. (VIII. 29.) IM rendelet 4. §-ának (2) bekezdésével, illetve 1. számú mellékletével megállapított szöveg.
+[^34]: A 17/B. §-t a 22/2011. (VII. 20.) KIM rendelet 4. §-a iktatta be.
+[^35]: A hatálybalépés időpontja 2011. július 21.
+[^36]: Az 1. számú melléklet a 14/2000. (VIII. 29.) IM rendelet 4. §-ának (2) bekezdésével, illetve 1. számú mellékletével megállapított szöveg.

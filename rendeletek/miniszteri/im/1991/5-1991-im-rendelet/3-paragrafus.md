@@ -1,21 +1,17 @@
-## 3. §[^4] A joggyakorlat tartamára vonatkozó adatokat
+## 3. §[^8] A joggyakorlat tartamára vonatkozó adatokat
 
-a)[^5] a bírósági fogalmazó esetében a Legfelsőbb Bíróság, az ítélőtábla, illetve a megyei (fővárosi) bíróság elnöke,
+a) a bírósági fogalmazó esetében a Legfelsőbb Bíróság, az ítélőtábla, illetve a megyei (fővárosi) bíróság elnöke,
 
-b)[^6] ügyészségi fogalmazó esetében a legfőbb ügyész, a fellebbviteli főügyész, illetve a megyei (fővárosi) főügyész,
+b) ügyészségi fogalmazó esetében a legfőbb ügyész, a fellebbviteli főügyész, illetve a megyei (fővárosi) főügyész,
 
 c) ügyvédjelölt esetében az illetékes megyei ügyvédi kamara,
 
 d) közjegyzőjelölt esetében az illetékes területi közjegyzői kamara,
 
-e)[^7] jogi végzettséggel rendelkező önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és önálló bírósági végrehajtó-jelölt esetében a Magyar Bírósági Végrehajtói Kamara,
+e) jogi végzettséggel rendelkező önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és önálló bírósági végrehajtó-jelölt esetében a Magyar Bírósági Végrehajtói Kamara,
 
-f)[^8] jogi előadó és más jogi munkakörben foglalkoztatott jogász esetében az őt foglalkoztató szerv vezetője,
+f) jogi előadó és más jogi munkakörben foglalkoztatott jogász esetében az őt foglalkoztató szerv vezetője,
 
-tanúsítja.
+g) a 2. § (2) bekezdés c) pontja szerinti ösztöndíjas esetében a Nemzeti Közigazgatási Intézet
 
-[^4]: A 3. § a 19/1994. (XII. 15.) IM rendelet 2.§-ával megállapított szöveg.
-[^5]: A 3. § a) pontja a 7/2003. (IV. 11.) IM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § b) pontja a 7/2003. (IV. 11.) IM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § új e) pontját a 7/2003. (IV. 11.) IM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti e) pont jelölését f) pontra változtatta.
-[^8]: A 3. § eredeti e) pontjának jelölését a 7/2003. (IV. 11.) IM rendelet 1. §-ának (2) bekezdése f) pontra változtatta.
+[^8]: A 3. § a 22/2011. (VII. 20.) KIM rendelet 3. §-ával megállapított szöveg.
