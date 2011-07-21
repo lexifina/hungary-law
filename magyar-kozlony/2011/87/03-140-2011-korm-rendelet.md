@@ -1,0 +1,348 @@
+# A Kormány 140/2011. (VII. 21.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 87. szám, 2011. július 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/65b89b8fad20ce0cabed3d9c531ab7628b8a0f1a/dokumentumok/b8f2cf197d639204df7ec07ce03eef9ada86d921/letoltes)
+
+---
+
+A Kormány 140/2011. (VII. 21.) Korm. rendelete
+egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról
+A Kormány
+a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés p) pontjában, valamint a gyermekek
+védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés w) pontjában,
+a 2. alcím tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés d) és
+q) pontjában,
+a 3. alcím tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés
+i) pontjában,
+a 4. alcím tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés j) pontjában,
+az 5. alcím tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés d) és
+f) pontjában,
+a 6. alcím tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés g) pontjában,
+a gyermekek védelméről és a gyámügyi igazgatásról 1997. évi XXXI. törvény 162. § (1) bekezdés s) pontjában, valamint az
+államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés c) pontjában,
+a 7. alcím tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (1) bekezdés f) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következőket rendeli el:
+1. A támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló
+191/2008. (VII. 30.) Korm. rendelet módosítása
+1. § (1) A támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet
+(a továbbiakban: Tkr.) 1. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„a) fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés m) pontja,
+illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 5. § s) pontja szerinti személy
+vagy szervezet;”
+(2) A Tkr. 1. § (2) bekezdés b) pontja a következő bf) és bg) alponttal egészül ki:
+(E rendelet alkalmazásában szolgáltatás:)
+„bf) az utcai szociális munka,
+bg) a családok átmeneti otthona által működtetett krízisközpont (a továbbiakban: krízisközpont);”
+2. § A Tkr. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A működési támogatás alapjául szolgáló ellátási területet úgy kell meghatározni, hogy az igazodjon a terület
+ellátási igényeihez. Alacsonyküszöbű ellátás esetén a működési támogatás alapjául szolgáló ellátási területhez tartozó
+települések állandó lakosainak száma összesen nem lehet kevesebb 30 000 főnél.”
+3. § A Tkr. a következő 3/A. §-sal és az azt megelőző alcímmel egészül ki:
+„A krízisközpontok működési támogatása
+3/A. § (1) A krízisközpont működési támogatása a családok átmeneti otthonának feladataihoz képest nyújtott
+többletszolgáltatások támogatásával történik.
+
+(2) A krízisközpont működési támogatása minden szolgáltató esetén megegyezik. Ha a krízisközpont félutas házat is
+működtet, a félutas ház működtetésére további – szolgáltatónként azonos összegű – támogatás nyújtható.
+(3) A krízisközpont működési támogatása a krízisközpontként működő családok átmeneti otthonában ellátott
+személyek után igénybe vehető normatív állami hozzájárulásra való jogosultságot nem érinti.”
+4. §
+A Tkr. 4. § (5) bekezdése a következő j) ponttal egészül ki:
+(A pályázati kiírás tartalmazza különösen)
+„j) krízisközpont esetén a támogatás alapjául szolgáló szolgáltatások felsorolását.”
+5. §
+(1) A Tkr. 5. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Egy fenntartó egy megyében csak egy krízisközpont támogatására nyújthat be pályázatot. A fenntartó
+krízisközpont támogatására nem nyújthat be pályázatot, ha ugyanabban a megyében egy általa fenntartott másik
+krízisközpont támogatására már rendelkezik finanszírozási szerződéssel. A pályázat benyújtásának feltétele, hogy
+a krízisközpontot működtető családok átmeneti otthona legalább egy éve jogerős működési engedéllyel
+rendelkezzen.”
+(2) A Tkr. 5. § (5) bekezdése a következő f)–h) ponttal egészül ki:
+(A pályázathoz csatolni kell)
+„f) utcai szociális munka esetén az ellátási terület jellemzőiről – a hajléktalan személyek előfordulásáról,
+a szolgáltatások elhelyezkedéséről, a terület környezeti jellemzőiről – készített szociális térképet és
+a diszpécserszolgálattal kötött, jogszabályban meghatározott együttműködési megállapodás másolatát,
+g) krízisközpont mellett működtetett félutas ház esetén a félutas ház elhelyezésére szolgáló ingatlan tulajdoni
+lapjának másolatát, továbbá – ha a tulajdoni lap másolata a használati jogcímet nem igazolja – a használati jogcímet
+bizonyító egyéb okirat másolatát,
+h) a pályázónak a közpénzekből nyújtott támogatások átláthatóságáról szóló törvény alapján benyújtandó
+nyilatkozatát, és – a nyilatkozat tartalmától függően – közzétételi kérelmét.”
+6. §
+A Tkr. 6. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) Külön bizottságot kell létrehozni
+a) a támogató szolgáltatással,
+b) a pszichiátriai betegek részére nyújtott közösségi alapellátással,
+c) a szenvedélybetegek részére nyújtott közösségi alapellátással és az alacsonyküszöbű ellátással,
+d) a jelzőrendszeres házi segítségnyújtással,
+e) az utcai szociális munkával,
+f) a krízisközpontokkal
+kapcsolatos feladatok ellátására.
+(3) A bizottság
+a) elnökét és egy további tagját a miniszter jelöli ki a minisztérium kormánytisztviselői közül,
+b) egy tagját a Hivatal jelöli ki,
+c) egy tagját a Nemzeti Család- és Szociálpolitikai Intézet jelöli ki,
+d) egy tagját az Országos Szociálpolitikai Tanács kéri fel,
+e) egy tagját támogató szolgáltatás esetén az Országos Fogyatékosügyi Tanács kéri fel,
+f) egy tagját utcai szociális munka esetén a Hajléktalanokért Közalapítvány kéri fel,
+g) egy tagját utcai szociális munka esetén a Fővárosi Önkormányzat kéri fel,
+h) egy tagját krízisközpont esetén a Magyar Családsegítő és Gyermekjóléti Szolgálatok Országos Egyesülete kéri fel.”
+7. §
+(1) A Tkr. 10. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A finanszírozási szerződés megkötésének feltétele az alábbi iratok benyújtása:)
+„a) a pályázó és – ha a szolgáltató jogi személy – a szolgáltató nyilatkozata arról, hogy nincs köztartozása;”
+(2) A Tkr. 10. § (6) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A finanszírozási szerződés tartalmazza különösen)
+„d) a szolgáltatás megnevezését, krízisközpont esetén a szolgáltatás tartalmát,”
+
+8. § (1) A Tkr. 15. § (1) bekezdés b) és k) pontja helyébe a következő rendelkezések lépnek, egyidejűleg a bekezdés a következő
+l) és m) ponttal egészül ki:
+(A Hivatal a finanszírozási szerződést – a miniszter egyetértésével – 60 napos felmondási idővel felmondhatja, ha)
+„b) a szolgáltató a szolgáltatás nyújtását nem kezdi meg, vagy azzal felhagy,”
+„k) a szolgáltató a szolgáltatást – krízisközpont kivételével – nem nyújtja a finanszírozási szerződésben rögzített
+ellátási terület egészén,
+l) a szolgáltató krízisközpont esetén nem nyújtja a szerződésben vállalt valamennyi szolgáltatást, vagy
+m) a fenntartó vagy a szolgáltató a finanszírozási szerződésben meghatározott valamely kötelezettségét az
+a)–l) pontban foglaltakon túl, súlyosan vagy ismételten megszegi.”
+(2) A Tkr. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Hivatal a finanszírozási szerződést – a miniszter egyetértésével – azonnali hatállyal felmondja, ha a fenntartó
+a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerződés megkötéséhez benyújtott iratokban
+szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós
+adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra, illetve a finanszírozási szerződés
+nem került volna megkötésre.”
+9. § (1) A Tkr. 16. § (8) bekezdése a következő e) ponttal egészül ki:
+(A működési támogatás folyósítását a folyósító igazgatóság felfüggeszti, ha)
+„e) a szolgáltató a szolgáltatást nem nyújtja, a szolgáltatás nyújtásának folytatásáig.”
+(2) A Tkr. 16. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) A felfüggesztés miatt nem folyósított működési támogatást – ha a szerződést a Hivatal időközben nem mondta
+fel, vagy a felfüggesztett működési támogatást a folyósító igazgatóság köztartozás fejében nem utalta át az
+adóhatóságnak – a felfüggesztés okának megszűnését követő harminc napon belül kell folyósítani.”
+10. § A Tkr. 17. §-a helyébe a következő rendelkezés lép:
+„17. § (1) A fenntartó évente, a tárgyévet követő év február 28-ig, a finanszírozási szerződés évközi megszűnése esetén
+a megszűnéstől számított 30 napon belül elszámolást nyújt be a Hivatalhoz a tárgyévben igénybe vett működési
+támogatásról. Az elszámolást a Hivatal elektronikus pályázatkezelő rendszere útján kell elkészíteni, majd
+a kinyomtatott és aláírt elszámolást kell a Hivatalhoz benyújtani.
+(2) Az elszámolást a Hivatal megvizsgálja, és a fenntartót szükség esetén – egy alkalommal, legfeljebb 8 napos
+határidővel – hiánypótlásra hívja fel.
+(3) Az elszámolások elfogadásáról a Hivatal a beérkezést követő 30 napon belül dönt. A döntésről 5 napon belül
+értesíteni kell a fenntartót, valamint elektronikus levélben – az elszámoló adatlapok másolatának egyidejű
+megküldésével – a folyósító és az ellenőrző igazgatóságot. A Hivatal az elszámolást elutasítja, ha abból a feladatellátás
+vagy a feladatmutatók teljesítése nem állapítható meg.”
+11. § (1) A Tkr. 19. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Ha krízisközpont esetén nem nyújtják a finanszírozási szerződésben meghatározott valamennyi szolgáltatást,
+a tárgyévi működési támogatás időarányos részét vissza kell fizetni.”
+(2) A Tkr. 19. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A működési támogatás teljes összegét vissza kell fizetni, ha a fenntartó)
+„b) a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerződés megkötéséhez benyújtott iratokban
+szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós
+adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra, illetve a finanszírozási szerződés
+nem került volna megkötésre.”
+12. § A Tkr. 20. § (1) bekezdés első mondata helyébe a következő rendelkezés lép:
+„A fenntartó a visszafizetendő működési támogatás összege után – a (2) bekezdés szerinti kivétellel – a folyósítás
+időpontjától a visszafizetés időpontjáig – részletfizetési kedvezmény vagy részletekben történő levonás
+engedélyezése esetén az engedélyezés napjáig – terjedő időre kamatot fizet.”
+
+13. §
+A Tkr. a következő 23. §-sal egészül ki:
+„23. § Az utcai szociális munka és a krízisközpontok esetében az első finanszírozási időszak 2012. január 1-jétől
+2014. december 31-éig tart.”
+14. §
+A Tkr.
+a)
+1. § (4) bekezdésében a „közösségi ellátások és a jelzőrendszeres házi segítségnyújtás” szövegrész helyébe
+a „közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, az utcai szociális munka és a krízisközpont” szöveg,
+b)
+3. §-át megelőző alcímben, 3. § (1) bekezdésében az „alacsonyküszöbű ellátás” szövegrész helyébe az
+„alacsonyküszöbű ellátás és az utcai szociális munka” szöveg,
+c)
+3. § (3) bekezdésében, 4. § (5) bekezdés e) pontjában az „alacsonyküszöbű ellátás” szövegrész helyébe az
+„alacsonyküszöbű ellátás és utcai szociális munka” szöveg,
+d)
+4. § (4) bekezdésében a „területekre” szövegrész helyébe a „területekre, illetve kapacitásbővítésre” szöveg,
+e)
+5. § (1) bekezdésében a „fenntartója” szövegrész helyébe a „fenntartója, ideértve a nem közhasznú vagy
+kiemelkedően közhasznú társadalmi szervezetet, alapítványt és közalapítványt is,” szöveg,
+f)
+5. § (2) bekezdésében a „Pályázatot” szövegrész helyébe „Pályázatot – a 8. § (4) bekezdés és a 9. § (3) bekezdés
+szerinti esetek kivételével –” szöveg,
+g)
+5. § (3) bekezdésében az „Egy fenntartó” szövegrész helyébe a „Krízisközpont kivételével egy fenntartó” szöveg,
+az „A fenntartó” szövegrész helyébe a „Krízisközpont kivételével a fenntartó” szöveg,
+h)
+5. § (5) bekezdés b) pontjában a „– másolatát” szövegrész helyébe a „– másolatát a 8. § (4) bekezdés és
+a 9. § (3) bekezdés szerinti esetek kivételével” szöveg,
+i)
+6. § (6) bekezdésében a „közszolgálati” szövegrész helyébe a „kormánytisztviselői” szöveg,
+j)
+6. § (7) bekezdésében a „bizottság legalább három tagjának” szövegrész helyébe a „bizottsági tagok
+többségének” szöveg,
+k)
+8. § (1) bekezdésében a „területek ellátása” szövegrész helyébe a „területek ellátása, illetve a kapacitásbővítés”
+szöveg,
+l)
+9. § (1) bekezdésében a „területek ellátása” szövegrész helyébe a „területek ellátása, illetve kapacitásbővítés”
+szöveg,
+m) 10. § (2) bekezdés m) pontjában a „pénzforgalmi szolgáltatók igazolása arról, hogy a fenntartótól befogadták
+a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendeletben” szövegrész helyébe a „pénzforgalmi
+szolgáltatók, illetve kincstári számlavezetés esetén a Magyar Államkincstár igazolása arról, hogy a fenntartótól
+befogadták a jogszabályban” szöveg,
+n)
+10. § (6) bekezdés l) pontjában az „ideértve” szövegrész helyébe a „krízisközpont kivételével ideértve” szöveg,
+o)
+12. § (4) bekezdésében az „az FSZH-nál” szövegrész helyébe az „a Hivatalnál” szöveg,
+p)
+15. § (1) bekezdés h) pontjában a „folyósító igazgatóság” szövegrész helyébe a „Hivatal” szöveg,
+q)
+16. § (2) bekezdésében a „folyósítja” szövegrész helyébe az „(a továbbiakban együtt: folyósító igazgatóság)
+folyósítja” szöveg,
+r)
+16. § (3) bekezdésében a „haladéktalanul” szövegrész helyébe az „elektronikus levélben haladéktalanul” szöveg,
+s)
+16. § (5) bekezdés b) pontjában az „és az alacsonyküszöbű ellátás tárgyévi működési támogatását” szövegrész
+helyébe a „ , valamint az alacsonyküszöbű ellátás, az utcai szociális munka és a krízisközpont tárgyévi működési
+támogatását” szöveg,
+t)
+16. § (5) bekezdésében a „ , valamint a tárgyévi teljesítménytámogatás és az alacsonyküszöbű ellátás” szövegrész
+helyébe az „és a tárgyévi teljesítménytámogatás első részletét, valamint az alacsonyküszöbű ellátás, az utcai
+szociális munka és a krízisközpont” szöveg,
+u)
+18. § (3) bekezdésében a „szolgáltató működésének” szövegrész helyébe a „krízisközpont kivételével a szolgáltató
+működésének” szöveg,
+v)
+19. § (3) bekezdésében az „alacsonyküszöbű ellátás” szövegrész helyébe az „alacsonyküszöbű ellátás, illetve utcai
+szociális munka” szöveg,
+w)
+21. § (3) bekezdésében a „kötelezettnek a visszafizetési határidő lejárta előtt” szövegrész helyébe a „kötelezett”
+szöveg
+lép.
+
+15. § Hatályát veszti a Tkr.
+a) 4. § (2) bekezdés b) pontjában a „ , meghatározott ellátási területre kiírt” szövegrész,
+b) 10. § (2) bekezdés b), n) és q) pontja,
+c) 11. § (2) bekezdésében az „ , ismételt kiadása” szövegrész,
+d) 22. § (2)–(4) bekezdése.
+2. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló
+149/1997. (IX. 10.) Korm. rendelet módosítása
+16. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet
+(a továbbiakban: Gyer.) a következő 169/A. §-sal és azt megelőzően a következő alcímmel egészül ki:
+„Eljárás a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok
+elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló 4/2009/EK
+rendelet, a gyermektartás és a családi tartások egyéb formáinak behajtásáról szóló, 2007. november 23-i
+hágai egyezmény, továbbá a tartási ügyekre vonatkozóan az igazságügyért felelős miniszter által
+közzétett viszonossági nyilatkozat alapján előterjesztett kérelmek ügyében
+169/A. § (1) A gyámhivatal közreműködik a tartásdíjat megállapító és a tartásdíj megfizetésére kötelező határozat
+meghozatalára irányuló kérelmek, a tartásdíj felemelésére vonatkozó kérelmek és a tartásdíj leszállítására vagy
+megszüntetésére vonatkozó kérelmek ügyében a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó
+jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló
+4/2009/EK rendelet, a gyermektartás és a családi tartások egyéb formáinak behajtásáról szóló, 2007. november 23-i
+hágai egyezmény, továbbá a tartási ügyekre vonatkozóan az igazságügyért felelős miniszter által közzétett
+viszonossági nyilatkozat alapján kijelölt Központi Hatóság (e § alkalmazásában a továbbiakban: központi hatóság)
+megkeresésére.
+(2) A gyámhivatal közreműködése a központi hatóság magyar nyelvű megkeresése és iratanyaga alapján – a határon
+átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló 2011. évi LXVII. törvény 20. § (3) és
+(4) bekezdése szerinti módon – a kérelemmel érintett személy meghallgatásával és az erről magyar nyelven felvett
+jegyzőkönyv központi hatóságnak való megküldésével lezárul, kivéve, ha a kérelmező nyilatkozata alapján
+a kérelemmel érintett személy ismételt meghallgatása szükséges. A felvett jegyzőkönyv alapján további eljárásra és
+tájékoztatás adására a gyámhivatal nem jogosult.
+(3) Ha a gyámhivatalnak – a központi hatóság által továbbított, származás megállapítására vonatkozó határozat
+hozatalára irányuló kérelem alapján – nem sikerül teljes hatályú apai elismerő nyilatkozatot felvennie, erről
+haladéktalanul értesíti a központi hatóságot.
+(4) Ha a központi hatóság arról tájékoztatja a gyámhivatalt, hogy a kérelmező fenntartja a származás megállapítására
+vonatkozó határozat hozatalára irányuló kérelmét, a gyámhivatal a gyermek képviseletére eseti gondnokot rendel,
+és intézkedik a származás megállapítása iránti per indításához szükséges hozzájárulás megadása iránt.
+(5) A gyámhivatal a (4) bekezdés szerinti intézkedéseiről haladéktalanul tájékoztatja a központi hatóságot.”
+17. § A Gyer. a 170. §-t megelőzően a következő alcímmel egészül ki:
+„Eljárás a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt
+egyezmény alapján előterjesztett kérelmek ügyében”
+18. § A Gyer. 170. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen
+tartásdíjigény érvényesítése iránti eljárás indul, és a külföldön lakó vagy tartózkodó személy olyan államnak a polgára,
+illetve lakóhelye vagy tartózkodási helye olyan államban van, amellyel a tartásdíj külföldön való behajtása tárgyában
+New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény kerül alkalmazásra, a kérelmet a miniszterhez, mint
+kijelölt átvevő hatósághoz (a továbbiakban: átvevő hatóság) kell benyújtani.”
+19. § A Gyer. a következő 173. §-sal egészül ki:
+„173. § (1) E rendeletnek az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló
+140/2011. (VII. 21.) Korm. rendelettel (a továbbiakban: R.) megállapított 169/A. §-át és 170. §-át az R. hatálybalépését
+követően a központi hatóságtól érkező megkeresések intézése során kell alkalmazni.
+
+(2) Az R. hatálybalépését megelőzően a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június
+hó 20. napján kelt egyezmény alapján benyújtott tartásdíj-kérelmek ügyében az R. hatálybalépését megelőző napon
+hatályos rendelkezések szerint kell eljárni.”
+20. § Hatályát veszti a Gyer. 170. § (4) bekezdése.
+3. A gyermekjóléti és gyermekvédelmi szolgáltatótevékenység engedélyezéséről, valamint
+a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló 259/2002. (XII. 18.) Korm. rendelet
+módosítása
+21. § A gyermekjóléti és gyermekvédelmi szolgáltatótevékenység engedélyezéséről, valamint a gyermekjóléti és
+gyermekvédelmi vállalkozói engedélyről szóló 259/2002. (XII. 18.) Korm. rendelet (a továbbiakban: Gymr.) 4. §-a
+a következő (11) bekezdéssel egészül ki:
+„(11) A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – valamennyi
+szolgáltató tevékenység engedélyezése esetén szakértőként véleményezi. A működést engedélyező szerv a határidőt
+– a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb
+tizenöt nappal meghosszabbíthatja.”
+22. § A Gymr. 8. § (4) bekezdése a következő g) ponttal egészül ki:
+(A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni
+azzal, hogy)
+„g) a szakmai program véleményezésére a módszertani intézményt akkor kell szakértőként kirendelni, ha a módosítás
+új szolgáltató tevékenység engedélyeztetésére irányul.”
+23. § A Gymr.
+a) 2. § b) pontjában az „ellátást nyújtják” szövegrész helyébe az „ellátást nyújtják, a félutas ház kivételével” szöveg,
+b) 3. § (3) bekezdésében az „az intézményre” szövegrész helyébe az „a szolgáltatóra (intézményre)” szöveg
+lép.
+4. A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények ágazati azonosítójáról
+és országos nyilvántartásáról szóló 226/2006. (XI. 20.) Korm. rendelet módosítása
+24. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények ágazati azonosítójáról és országos
+nyilvántartásáról szóló 226/2006. (XI. 20.) Korm. rendelet 11. § (2) bekezdésében a „jelzőrendszeres házi
+segítségnyújtás” szövegrész helyébe a „jelzőrendszeres házi segítségnyújtás, utcai szociális munka” szöveg lép.
+5. A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság
+szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet módosítása
+25. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és
+illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Gyár.) 9. § i) pontja helyébe a következő
+rendelkezés lép:
+(A városi gyámhivatal a szülői felügyeleti joggal, illetve a gyermektartásdíjjal kapcsolatban)
+„i) eljár a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény
+alapján a külföldön lakó vagy tartózkodó személy tartásdíj iránti igényével kapcsolatos ügyben, továbbá – a tartással
+kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról,
+valamint az e területen folytatott együttműködésről szóló 4/2009/EK rendelet, a gyermektartás és a családi tartások
+egyéb formáinak behajtásáról szóló, 2007. november 23-i hágai egyezmény és a tartási ügyekre vonatkozóan az
+igazságügyért felelős miniszter által közzétett viszonossági nyilatkozat alapján a Magyar Köztársaság vonatkozásában
+kijelölt Központi Hatóság megkeresésére – közreműködik a tartásdíjat megállapító és a tartásdíj megfizetésére
+kötelező határozat meghozatalára irányuló kérelmek, a tartásdíj felemelésére vonatkozó kérelmek és a tartásdíj
+leszállítására vagy megszüntetésére vonatkozó kérelmek ügyében,”
+
+26. § A Gyár. 16. §-a helyébe a következő rendelkezés lép:
+„16. § (1) A szociális és gyámhivatal a Nemzeti Család- és Szociálpolitikai Intézet, illetve az Országos Gyermekvédelmi
+Szakértői Névjegyzékbe felvett szakértők véleményének kikérésével kijelöli a Gyvt. 96. § (7) bekezdése szerinti
+gyermekjóléti alapellátást, illetve gyermekvédelmi szakellátást nyújtó intézmények közül a szakmai módszertani
+feladatokat ellátó intézményeket.
+(2) A Kormány a Gyvt. 96. § (8a) bekezdése szerinti módszertani feladatokat ellátó szervként országos illetékességgel
+a Nemzeti Család- és Szociálpolitikai Intézetet jelöli ki.”
+27. § A Gyár. a következő 26. §-sal egészül ki:
+„26. § (1) E rendeletnek az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló
+140/2011. (VII. 21.) Korm. rendelettel (a továbbiakban: R.) megállapított 9. § i) pontját az R. hatálybalépését követően
+a központi hatóságtól érkező megkeresések intézése során kell alkalmazni.
+(2) Az R. hatálybalépését megelőzően a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június
+hó 20. napján kelt egyezmény alapján benyújtott tartásdíj-kérelmek ügyében az R. hatálybalépését megelőző napon
+hatályos rendelkezések szerint kell eljárni.”
+6. Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók
+normatív állami támogatásáról szóló 213/2009. (IX. 29.) Korm. rendelet módosítása
+28. § Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami
+támogatásáról szóló 213/2009. (IX. 29.) Korm. rendelet (a továbbiakban: Nr.) a következő 17. §-sal egészül ki:
+„17. § Az utcai szociális munka után 2011. évre járó normatíva elszámolására, valamint a 2009–2011. évre járó
+normatíva ellenőrzésére e rendelet 2011. december 31-én hatályos rendelkezéseit kell alkalmazni.”
+29. § (1) Hatályát veszti az Nr. 7. §-a.
+(2) Hatályát veszti az Nr.
+a) 2. § (6) bekezdése,
+b) 10. § (2) bekezdés a) pontja,
+c) mellékletének 2. pont 2.2. alpontjában az „utcai szociális munka,” szövegrész.
+7. A szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló
+321/2009. (XII. 29.) Korm. rendelet módosítása
+30. § A szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló 321/2009. (XII. 29.)
+Korm. rendelet 4. § (2) bekezdés a) pont ae) alpontjában és 11. § (8) bekezdés d) pontjában a „közösségi ellátást vagy
+jelzőrendszeres házi segítségnyújtást” szövegrész helyébe a „közösségi ellátást, jelzőrendszeres házi segítségnyújtást
+vagy utcai szociális munkát” szöveg lép.
+8. Záró rendelkezések
+31. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó,
+valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény hatálybalépésével egyidejűleg lép hatályba.
+(2) E rendelet 24. és 28. §-a, valamint 29. § (2) bekezdése 2012. január 1-jén lép hatályba.
+(3) Ez a rendelet 2012. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

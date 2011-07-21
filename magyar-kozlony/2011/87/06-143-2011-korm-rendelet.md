@@ -1,0 +1,190 @@
+# A Kormány 143/2011. (VII. 21.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 87. szám, 2011. július 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/65b89b8fad20ce0cabed3d9c531ab7628b8a0f1a/dokumentumok/b8f2cf197d639204df7ec07ce03eef9ada86d921/letoltes)
+
+---
+
+A Kormány 143/2011. (VII. 21.) Korm. rendelete
+az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében és az Alkotmány 35. § (1) bekezdés
+a) és c) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet (a továbbiakban: Rendelet) 2. §
+(1)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az Ösztöndíjprogram működtetése
+a) a Nemzeti Erőforrás Minisztérium (a továbbiakban: NEFMI),
+b) 1. § (2) bekezdés a)–c) pont tekintetében a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM),
+feladata. Az Ösztöndíjprogram lebonyolítása a Wekerle Sándor Alapkezelő bevonásával történik (a továbbiakban:
+pályáztató szerv). A pályáztató szervet az Ösztöndíjprogram lebonyolításával kapcsolatban az Ösztöndíjprogram
+működtetésére rendelkezésre álló forrásból a részére lebonyolítás céljából átadott előirányzat legfeljebb 5%-áig
+lebonyolítási költség illeti meg.
+(2) Az 1. § (2) bekezdés a)–d) pontja szerinti Ösztöndíjprogram forrása a Magyar Köztársaság éves költségvetéséről
+szóló törvény Nemzeti Erőforrás Minisztérium és a Közigazgatási és Igazságügyi Minisztérium fejezetében
+meghatározott előirányzat, továbbá a Munkaerőpiaci Alap képzési alaprésze. A közigazgatási és igazságügyi miniszter
+dönt az esélyegyenlőségi ösztöndíjak összegéről, valamint a rendelkezésre álló forrásnak az Ösztöndíjprogram
+alprogramjai közötti megosztásáról, illetve az Út a tudományhoz alprogramban a nemzeti erőforrás miniszter dönt az
+elnyerhető támogatás és az igényelhető ösztöndíj maximumáról.
+(3) Az Ösztöndíjprogram pályázatai évente többször is meghirdethetőek. Az Út a tudományhoz alprogramra
+vonatkozó pályázati felhívást az esélyegyenlőségi ösztöndíjakra vonatkozó felhívások megjelentetésétől eltérő
+időpontban kell meghirdetni. A pályáztató szerv az Ösztöndíjprogram pályázati felhívásait honlapján és legalább egy
+országos napilapban közzéteszi.”
+
+(2) A Rendelet 2. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az Út a tudományhoz alprogram pályázata iránt érdeklődő közoktatási intézmények részére a pályáztató szerv
+a pályázat benyújtását segítő felkészítő napot szervez a pályázati felhívásban meghatározottak szerint. A felkészítő
+nap pontos időpontja, helyszíne, a jelentkezés módja a pályázati felhívásban kerül ismertetésre.”
+2. § (1) A Rendelet 4. § (4) bekezdése helyébe a következő rendelkezés lép egyidejűleg a § a következő (4a)–(4b) bekezdéssel
+egészül ki:
+„(4) Az Út a tudományhoz alprogramban a Magyar Köztársaság területén működő közoktatási intézmény pályázhat
+a keretei között működő – tagintézménnyel rendelkező közoktatási intézmény esetén székhelyintézményenként,
+illetve tagintézményenként – legfeljebb két kutatócsoport által megvalósítandó kutatási programmal. Amennyiben
+a pályázó közoktatási intézmény több kutatási programmal pályázik, a pályázat szakmai indoklása mellett
+alátámasztott módon köteles bemutatni az egyes kutatási témák feldolgozásának lehatárolását. Egy kutatócsoport
+csak egy kutatási program megvalósításában vehet részt, továbbá egy kutatási programot az alprogram keretei között
+csak egy kutatócsoport valósíthat meg.
+(4a) A közoktatási intézmény a pályázatot kutatási programonként külön nyújtja be a pályáztató szervhez a pályázati
+felhívásban rögzített határidőig. Tagintézmény a székhelyen működő közoktatási intézményen keresztül nyújthat be
+– kutatási programonként külön – pályázatot. A közoktatási intézmény köteles a tagintézménye által benyújtott
+pályázatokat a pályáztató szervhez továbbítani. A határidő jogvesztő, a határidőn túl benyújtott pályázatokat
+a pályáztató szerv további bírálat nélkül elutasítja.
+(4b) Az Út a tudományhoz alprogramban az a közoktatási intézmény pályázhat:
+a) amelynek képviselője részt vett a 2. § (5) bekezdésben meghatározott felkészítő napon, és
+b) amely a kutatási program megvalósításában együttműködik kutatással foglalkozó szervezetekkel, így különösen
+kutatóintézetekkel, felsőoktatási intézményekkel.”
+3. § A Rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Egyazon tanévben egy személy összesen legfeljebb öt tanuló tekintetében vállalhat mentori szerepet a teljes
+Ösztöndíjprogramban. Az esélyegyenlőségi ösztöndíjak esetében a mentorként pályázó személy egyazon tanévben
+a fenti számot meghaladó számú, de legfeljebb nyolc tanuló mentorálását vállalhatja, ha az általa mentorálandó
+valamennyi pályázó tanuló közoktatási intézménye a településen az egyetlen közoktatási intézmény, és a közoktatási
+intézményben a halmozottan hátrányos helyzetű tanulók aránya eléri a 80%-ot. Az a személy, aki az Út a tudományhoz
+alprogramban mentorként vesz részt, az esélyegyenlőségi alprogramokban mentori tevékenységet nem láthat el.
+Egyazon tanévben egy személy mentorként egy kutatócsoportban vehet részt.”
+4. § (1) A Rendelet 6. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az esélyegyenlőségi ösztöndíjak valamennyi alprogramjába az újonnan belépő ösztöndíjas tanulók legalább
+felének – a Magyarország Kormánya és az Országos Roma Önkormányzat között 2011. május 20-án megkötött
+Keretmegállapodás 3. pontjában 2015-ig vállalt feltételek teljesüléséig – roma származásúnak kell lennie. Ha
+e követelmény a pályázati kiírásokban foglalt feltételeknek megfelelő pályázatok csekély száma miatt nem
+teljesíthető, a fennmaradó keret terhére nem roma származású pályázók is részesülhetnek támogatásban.”
+(2) A Rendelet 6. § (3) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(Az Út a tudományhoz alprogramban a pályázatok elbírálásakor előnyben részesülnek azok a kutatócsoportok:)
+„h) amelyek tevékenysége hozzájárul ahhoz, hogy a kutatócsoportban részt vevő tanulók műszaki kompetenciái
+fejlődjenek, illetve a kutatási téma feldolgozása során a részt vevő tanulók műszaki kompetenciáinak
+gyakorlatorientált fejlesztése valósul meg,”
+(3) A Rendelet 6. §-a a következő (6a) bekezdéssel egészül ki:
+„(6a) A közoktatási intézménynek az esélyegyenlőségi ösztöndíjak esetében, ha a tanuló, illetve törvényes képviselője
+a pályázati űrlapon a roma származásáról nyilatkozott, a helyi, (annak hiányában) a területi cigány kisebbségi
+önkormányzat vagy az Országos Roma Önkormányzat ajánlásának egy eredeti példányát szükséges benyújtania.”
+(4) A Rendelet 6. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A közoktatási intézménynek a pályázatához mellékelnie kell az Út a tudományhoz alprogram esetében a 4. §
+(4b) bekezdésben meghatározott kutatással foglalkozó szervezetekkel, így különösen kutatóintézetekkel,
+felsőoktatási intézményekkel történő együttműködés feltételeit rögzítő megállapodás egy eredeti példányát.”
+
+5. §
+A Rendelet 7. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A közoktatási intézménnyel alkalmazásban álló mentor az e § (1) és (2) bekezdésében meghatározott feladatait
+a közoktatásról szóló 1993. évi LXXIX. törvény 1. számú mellékletének Harmadik rész II. 6. és 9. pontjaiban
+meghatározott munkaköri feladatain felül látja el.”
+6. §
+A Rendelet 8. §-a helyébe a következő rendelkezés lép:
+„8. § Az Ösztöndíjprogram keretében az 1. § (2) bekezdés a)–c) pontjaiban meghatározott alprogramok
+vonatkozásában benyújtott pályázatról a közigazgatási és igazságügyi miniszter, az 1. § (2) bekezdés d) pontjában
+meghatározott alprogram vonatkozásában benyújtott pályázatról a nemzeti erőforrás miniszter dönt. Az Út
+a tudományhoz alprogram esetében a nemzeti erőforrás miniszter dönthet úgy is, hogy – tekintettel az adott
+pályáztatási időszakban rendelkezésre álló forrásra, valamint az egyes kutatási programok szakmai tartalma és
+minősége alapján – a közoktatási intézmény által benyújtott kutatási programok közül csak egyes kutatási
+programokat támogat.”
+7. §
+A Rendelet 9. § (2) bekezdése helyébe a következő rendelkezés lép, a § egyidejűleg a következő (2a) bekezdéssel
+egészül ki:
+„(2) A mentor ösztöndíjának a pályázati felhívásban meghatározott részére – a (3) bekezdésben foglaltakat kivéve –
+akkor válik jogosulttá, ha
+a) az Út a középiskolába ösztöndíj esetében az általa mentorált
+aa) 7. évfolyamos tanuló felsőbb évfolyamba lép és előző tanév végi tanulmányi átlagát megtartotta, vagy azon
+javított, vagy
+ab) 8. évfolyamos tanuló középiskolába vagy szakiskolába nyer felvételt és előző tanév végi tanulmányi átlagát
+megtartotta, vagy azon javított;
+b) az Út az érettségihez ösztöndíj esetében az általa mentorált tanuló
+ba) felsőbb évfolyamba lép és előző tanév végi tanulmányi átlagát megtartotta, vagy azon javított, vagy
+bb) amennyiben az utolsó évfolyamos tanuló sikeres érettségi vizsgát tesz és előző tanév végi tanulmányi átlagát
+megtartotta, vagy azon javított;
+c) az Út a szakmához ösztöndíj esetében az általa mentorált tanuló
+ca) a felzárkóztató oktatást sikeresen befejezi, vagy felsőbb évfolyamba lép és az előző tanév végi tanulmányi átlagát
+megtartotta, vagy azon javított, vagy
+cb) sikeres szakmai vizsgát tesz és az előző tanév végi tanulmányi átlagát megtartotta.
+(2a) A mentor ösztöndíjának a pályázati felhívásban meghatározott részére – a (2) bekezdésben foglaltakon túl – akkor
+válik jogosulttá, ha a 7. § (1) bekezdése szerinti mentori vállalásokat maradéktalanul teljesítette.”
+8. §
+A Rendelet 9. § (3) bekezdése helyébe következő rendelkezés lép:
+„(3) A mentor az ösztöndíjának a (2) bekezdésben meghatározott részére nem válik jogosulttá, ha az általa mentorált
+tanuló javító- és osztályozó vizsgát tesz függetlenül attól, hogy a javító- vagy osztályozó vizsga sikeres-e.”
+9. §
+(1) A Rendelet 10. §- a következő (4a) bekezdéssel egészül ki:
+„(4a) Az Út a tudományhoz alprogramban támogatást nyert közoktatási intézmény képviselője köteles részt venni
+a pályáztató szerv által szervezett szakmai találkozókon.”
+(2) A Rendelet 10. § (5) bekezdés helyébe a következő rendelkezés lép:
+„(5) Az Út a tudományhoz alprogramban a támogatás felhasználásáról a közoktatási intézmény – a támogatási
+szerződésben meghatározott határidőig – szakmai beszámolót és pénzügyi elszámolást készít, és nyújt be a pályáztató
+szervnek a 4. § (5) bekezdésében meghatározott ellenőrzött adatrögzítési felületen keresztül, valamint egy
+példányban postai úton. A szakmai beszámoló kötelezően benyújtandó részét képezi a pályáztató szerv által
+szervezett szakmai találkozón, szakmai műhelykonferenciákon való részvételt igazoló dokumentum. Az (1) bekezdés
+b) pontjában meghatározott esetben a mentor az ösztöndíjas időszak végén – az ösztöndíjszerződésben rögzített
+határidőig – a kutatási program megvalósulásáról szakmai beszámolót készít, és nyújt be a közoktatási intézménynek,
+amelyet az a saját beszámolója részeként egy példányban postai úton továbbít a pályáztató szervnek.”
+(3) A Rendelet 10. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A pályáztató szerv az (5) bekezdésben meghatározott szakmai beszámoló benyújtásának határidejét megelőzően
+helyszíni ellenőrzés keretében ellenőrzi a közoktatási intézményben az Út a tudományhoz alprogram pályázat szakmai
+
+és pénzügyi feltételeinek való megfelelést, továbbá segítséget nyújt a közoktatási intézmény részére a helyes
+szakmai-pénzügyi gyakorlat kialakításához. A pályáztató szerv e feladat ellátásba harmadik személyt, más szervezetet
+bevonhat.”
+10. § (1) A Rendelet a következő 11/A. §-sal egészül ki:
+„11/A. § (1) A hátrányos helyzetű tanulók iskolai előmenetelének biztosítása érdekében a pályáztató szerv Iskola-háló
+programot szervez, amelynek célja, hogy olyan innovatív elemeket és eszközöket támogasson, amelyek
+alkalmazásával a nevelési-oktatási intézmény alkalmassá válik az iskolai lemorzsolódás csökkentésére, továbbá
+elősegíti a halmozottan hátrányos helyzetű tanulók sikeres iskolai és későbbi munkaerő-piaci eredményességét
+a minőségi és motiváló pedagógiai munka feltételeinek támogatásával.
+(2) Az Iskola-háló program keretén belül ösztöndíj nyújtható.
+(3) A pályáztató szerv az Iskola-háló program pályázati felhívásait honlapján közzéteszi.
+(4) Az Iskola-háló program működtetése a KIM feladata.
+(5) Az Iskola-háló program forrása a Magyar Köztársaság éves költségvetéséről szóló törvény Közigazgatási és
+Igazságügyi Minisztérium fejezetében meghatározott előirányzat.”
+11. § (1) A Rendelet 12. § 7. pont a)–c) pontja helyébe a következő rendelkezés lép:
+(7. Személyes adat:)
+„a) a tanuló adatai: családi és utóneve(i), születési helye és ideje, anyja születési családi és utóneve(i), lakó- vagy
+tartózkodási helye, állampolgársága, adóazonosító jele, oktatási azonosítója, a 3. § (1)–(4) bekezdésében, valamint
+a 6. § (1) bekezdésének a)–e) pontjában meghatározott adatok, továbbá a származásra vonatkozó adatok,
+amennyiben arról a tanuló a tanulói adatlapon, önkéntes alapon a 6. § (7) bekezdés szerint nyilatkozott és az
+adatkezeléshez írásban hozzájárult;
+b) a törvényes képviselő adatai: családi és utóneve(i), valamint legmagasabb iskolai végzettsége, amennyiben
+a pályázatot a tanuló hátrányos helyzetére hivatkozva nyújtják be;
+c) a mentor adatai: családi és utóneve(i), születési helye és ideje, anyja születési családi és utóneve(i), lakóhelye,
+állampolgársága, adóazonosító jele, oktatási azonosítója, végzettsége, munkahelye, elérhetősége (különösen e-mail).
+A munkahelyre vonatkozó adatok, amennyiben azok nem feltételei a mentori tevékenység ellátásának, csak
+személyazonosításra alkalmatlan módon, statisztikai célra használhatóak fel.”
+(2) A Rendelet 12. §-a a következő 11. ponttal egészül ki:
+„11. Továbbfutó ösztöndíjas mentor: az Útravaló Ösztöndíjprogram keretében az előző tanévben támogatásban
+részesült tanuló mentora, aki a közoktatási intézmény záróbeszámolója szerint a tanévben az Útravaló ösztöndíjra
+jogosult volt, és akinek az ösztöndíjas tanulója az előző tanévben ugyanazon alprogramban folytatni kívánja
+ösztöndíjas jogviszonyát, és a folytatás szándékáról az előző tanévi közoktatási intézményi záróbeszámoló keretében
+megfelelő formában nyilatkozott.”
+12. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
+(2) Az e rendelet 1. §-ával megállapított a Rendelet 2. § (1) bekezdés b) pontja, valamint a 9. § 2011. szeptember 1-jén lép
+hatályba.
+13. § A Rendelet
+a) 1. § (1) bekezdés c) pontjában az „[a továbbiakban az a)–c) pontok együtt: esélyegyenlőségi ösztöndíjak]”
+szövegrész helyébe az „[az a)–c) pontok együtt: ÚTRAVALÓ-MACIKA esélyegyenlőségi ösztöndíjak, továbbiakban
+esélyegyenlőségi ösztöndíjak]” szöveg,
+b) a 3. § (5) bekezdés a) pontjában az „a szociálpedagógus,” szövegrész helyébe az „a szociálpedagógus,
+gyógypedagógus,” szöveg
+lép.
+14. § A Rendelet 3. § (5) bekezdés a) és a b) pont ba) alpontjában a „ , valamint a működő tanoda tanára” szövegrész hatályát
+veszti.
+
+15. § (1) E rendeletet a hatálybalépését követően meghirdetett pályázatokra és a hatálybalépését követően létrejött
+ösztöndíjas jogviszonyokra kell alkalmazni.
+(2) A 2011/2012. tanévben a továbbfutó ösztöndíjas mentorokra is a 2011/2012. tanévre kiírt pályázati feltételek
+vonatkoznak.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
