@@ -2,7 +2,7 @@
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 34/1996. (XII. 21.) PM rendelethez[^1]
+Melléklet a 34/1996. (XII. 21.) PM rendelethez[^2]
 
 A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjének megállapítása
 
@@ -46,17 +46,17 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 2. | Az Adó- és Pénzügyi Ellenőrzési Hivatalnál (a továbbiakban: APEH) |  |
 
-| 2.1. | a) az elnökhelyettesek, gazdasági vezető | C |
+| 2.1. | a) az elnökhelyettesek, gazdasági vezető | C |
 
-|  | b) a Központi Hivatal főosztályvezetői, kivéve a c) pontban felsorolt vezetőket | B |
+|  | b) a Központi Hivatal főosztályvezetői, kivéve a c) pontban felsorolt vezetőket | B |
 
-|  | c) a Központi Hivatal Biztonsági, Felszámolási és Végrehajtási, Hatósági, Kizárólagos Illetékességi Ügyek, Ellenőrzési, Felülellenőrzési, Jogi és Koordinációs, Szerencsejáték Felügyeleti főosztályainak főosztályvezetői | C |
+|  | c) a Központi Hivatal Biztonsági, Felszámolási és Végrehajtási, Hatósági, Kizárólagos Illetékességi Ügyek, Ellenőrzési, Felülellenőrzési, Jogi és Koordinációs, Szerencsejáték Felügyeleti főosztályainak főosztályvezetői | C |
 
 | 2.2. | az APEH Kizárólagos Illetékességi Ügyek főosztályának valamennyi alkalmazottja | C |
 
-| 2.3. | a) az APEH Biztonsági főosztály Adatvédelmi és Adatbiztonsági osztályának osztályvezetője | C |
+| 2.3. | a) az APEH Biztonsági főosztály Adatvédelmi és Adatbiztonsági osztályának osztályvezetője | C |
 
-|  | b) az APEH Biztonsági főosztályának további osztályvezetői | B |
+|  | b) az APEH Biztonsági főosztályának további osztályvezetői | B |
 
 | 2.4. | a Központi iratkezelés vezetői megbízású köztisztviselője | C |
 
@@ -66,43 +66,43 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 2.7. | a Szerencsejáték Felügyeleti Főosztály köztisztviselői közül: |  |
 
-|  | a) a főosztályvezető-helyettes, a területi kirendeltségek vezetői | C |
+|  | a) a főosztályvezető-helyettes, a területi kirendeltségek vezetői | C |
 
-|  | b) főosztályvezető és főosztályvezető-helyettes titkárságának alkalmazottai | B |
+|  | b) főosztályvezető és főosztályvezető-helyettes titkárságának alkalmazottai | B |
 
-|  | c) az összesített adatállományhoz hozzáférési jogosultsággal rendelkező alkalmazottak | C |
+|  | c) az összesített adatállományhoz hozzáférési jogosultsággal rendelkező alkalmazottak | C |
 
-| 2.8. | a) a Kiemelt Adózók Igazgatósága valamennyi vezetője | C |
+| 2.8. | a) a Kiemelt Adózók Igazgatósága valamennyi vezetője | C |
 
-|  | b) a Kiemelt Adózók Igazgatósága Kizárólagos Illetékességi Szakigazgatóság szakigazgatója közvetlen munkatársai, az Általános Főosztály valamennyi alkalmazottja, továbbá az Általános Főosztály kizárólagos illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülő fejlesztői, programozói, rendszergazdai, operátori, system-manager-i jogosultsággal rendelkező valamennyi APEH informatikai alkalmazott | C |
+|  | b) a Kiemelt Adózók Igazgatósága Kizárólagos Illetékességi Szakigazgatóság szakigazgatója közvetlen munkatársai, az Általános Főosztály valamennyi alkalmazottja, továbbá az Általános Főosztály kizárólagos illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülő fejlesztői, programozói, rendszergazdai, operátori, system-manager-i jogosultsággal rendelkező valamennyi APEH informatikai alkalmazott | C |
 
-|  | c) a Kiemelt Adózók Igazgatósága valamennyi további alkalmazottja | A |
+|  | c) a Kiemelt Adózók Igazgatósága valamennyi további alkalmazottja | A |
 
-| 2.9. | a) a Számítástechnikai és Adóelszámolási Intézet igazgatója | C |
+| 2.9. | a) a Számítástechnikai és Adóelszámolási Intézet igazgatója | C |
 
-|  | b) a Számítástechnikai és Adóelszámolási Intézet informatikai szakterületének valamennyi vezetője | C |
+|  | b) a Számítástechnikai és Adóelszámolási Intézet informatikai szakterületének valamennyi vezetője | C |
 
-|  | c) az APEH Kiemelt Adózók Igazgatóságának hatáskörébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülő valamennyi informatikai alkalmazott | C |
+|  | c) az APEH Kiemelt Adózók Igazgatóságának hatáskörébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülő valamennyi informatikai alkalmazott | C |
 
-|  | d) az APEH éles üzemű országos adatállományait tervező, programozó és rendszerfelügyeleti tevékenységet végző valamennyi informatikai alkalmazott | B |
+|  | d) az APEH éles üzemű országos adatállományait tervező, programozó és rendszerfelügyeleti tevékenységet végző valamennyi informatikai alkalmazott | B |
 
-|  | e) az APEH országos adatátviteli hálózatát tervező, felügyelő és üzemeltető valamennyi informatikai alkalmazott | B |
+|  | e) az APEH országos adatátviteli hálózatát tervező, felügyelő és üzemeltető valamennyi informatikai alkalmazott | B |
 
-| 2.10. | a) az APEH területi szerveinek igazgatói, szakigazgatói | C |
+| 2.10. | a) az APEH területi szerveinek igazgatói, szakigazgatói | C |
 
-|  | b) az Oktatási Intézet igazgatója | B |
+|  | b) az Oktatási Intézet igazgatója | B |
 
-|  | c) az APEH területi szerveinek szakigazgató-helyettesei | B |
+|  | c) az APEH területi szerveinek szakigazgató-helyettesei | B |
 
-|  | d) az Oktatási Intézet igazgatóhelyettese | A |
+|  | d) az Oktatási Intézet igazgatóhelyettese | A |
 
 | 2.11. | a TÜK szabályzat alapján minősített adatot kezelő köztisztviselők közül: |  |
 
-|  | a) a TÜK iroda ügyintézői | B |
+|  | a) a TÜK iroda ügyintézői | B |
 
-|  | b) államtitoknak minősített adat kezelésével foglalkozó titkárnők, titkos ügykezelők, ügyintézők | B |
+|  | b) államtitoknak minősített adat kezelésével foglalkozó titkárnők, titkos ügykezelők, ügyintézők | B |
 
-|  | c) államtitoknak minősített adat feldolgozásával, felhasználásával foglalkozó köztisztviselők | B |
+|  | c) államtitoknak minősített adat feldolgozásával, felhasználásával foglalkozó köztisztviselők | B |
 
 | 3. | A Vám- és Pénzügyőrségnél (a továbbiakban: VP) |  |
 
@@ -152,11 +152,11 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 3.23. | a VP Jövedéki Kapcsolattartó és Kockázatelemzési Központ azon munkatársai, akik folyószámla felügyeletet és ellenőrzést látnak el | C |
 
-| 3.24. | a) a VPOP Informatikai Üzemeltetési Központja (VPIÜK) igazgatója, igazgatóhelyettese | C |
+| 3.24. | a) a VPOP Informatikai Üzemeltetési Központja (VPIÜK) igazgatója, igazgatóhelyettese | C |
 
-|  | b) a VP hatáskörébe tartozó adózók adatait tartalmazó adatállományokkal, folyószámla adatokkal kapcsolatba kerülő valamennyi informatikai alkalmazott | C |
+|  | b) a VP hatáskörébe tartozó adózók adatait tartalmazó adatállományokkal, folyószámla adatokkal kapcsolatba kerülő valamennyi informatikai alkalmazott | C |
 
-|  | c) a VP országos adatátviteli hálózatának kapcsolatait tervező, felügyelő, üzemeltető VPIÜK hálózatfelügyeleti csoport alkalmazottai | B |
+|  | c) a VP országos adatátviteli hálózatának kapcsolatait tervező, felügyelő, üzemeltető VPIÜK hálózatfelügyeleti csoport alkalmazottai | B |
 
 | 4. | A Magyar Államkincstárnál (a továbbiakban: Kincstár) |  |
 
@@ -182,40 +182,16 @@ A fontos és bizalmas munkakörök és a nemzetbiztonsági ellenőrzés szintjé
 
 | 4.11. | a biztonsági és adatvédelmi feladatokat ellátó köztisztviselők | B |
 
-| 5. | A Kormányzati Ellenőrzési Hivatalnál |  |
-
-| 5.1. | az elnökhelyettesek | C |
-
-| 5.2. | az elnök, elnökhelyettesek titkárságainak érdemi ügyintézői feladatot ellátó köztisztviselői és titkárnői | C |
-
-| 5.3. | a főosztályvezetők, főosztályvezető-helyettesek, önálló osztályvezetők, osztályvezetők | C |
-
-| 5.4. | a titokvédelmi felügyelő | C |
-
-| 5.5. | a TÜK kezelők | C |
-
-| 5.6. | a titkárnők | C |
-
-| 5.7. | a vizsgálatvezető revizorok | C |
-
-| 5.8. | a belső ellenőrök | C |
-
-| 5.9. | a humánpolitikai referensek | C |
-
-| 5.10. | az informatikai referensek, informatikai előadók | C |
-
-| 5.11. | érdemi munkakört betöltő ügyintézők, referensek | B |
-
-| 5.12. | az 5.1–5.11. pont alá nem tartozó köztisztviselők, munkavállalók | A |
+| 5. |  |  |
 
 | 6. | Az 1–5. pontokban meghatározottakon túl azok, akiknek |  |
 
-|  | a) feladataik ellátásához az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdésének a) pontjaiban meghatározott külföldi minősítéssel és jelöléssel ellátott, továbbá az 5/B. § (7) bekezdése alapján nemzetközi szerződésben meghatározott államtitkokká minősített adatokat kell megismerniük, kezelniük | C |
+|  | a) feladataik ellátásához az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdésének a) pontjaiban meghatározott külföldi minősítéssel és jelöléssel ellátott, továbbá az 5/B. § (7) bekezdése alapján nemzetközi szerződésben meghatározott államtitkokká minősített adatokat kell megismerniük, kezelniük | C |
 
-|  | b) feladataik ellátásához az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdése b)–d) pontjaiban meghatározott külföldi minősítéssel és jelöléssel ellátott, továbbá az 5/B. § (7) bekezdése alapján nemzetközi szerződésben meghatározott szolgálati titokká minősített adatokat kell megismerniük, kezelniük | B |
+|  | b) feladataik ellátásához az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdése b)–d) pontjaiban meghatározott külföldi minősítéssel és jelöléssel ellátott, továbbá az 5/B. § (7) bekezdése alapján nemzetközi szerződésben meghatározott szolgálati titokká minősített adatokat kell megismerniük, kezelniük | B |
 
-|  | c) feladataik ellátásához a b) pontban meghatározott minősítési szintet el nem érő, törvény, illetve nemzetközi szerződés alapján védelmet igénylő adatot kell megismerniük | A |
+|  | c) feladataik ellátásához a b) pontban meghatározott minősítési szintet el nem érő, törvény, illetve nemzetközi szerződés alapján védelmet igénylő adatot kell megismerniük | A |
 
 | 7. | Az 1–6. pontokban felsorolt munkakörökön túl fontos és bizalmas munkakörnek minősülnek azok a munkakörök, melyeket a pénzügyminiszter írásban, egyedi jelleggel, a polgári nemzetbiztonsági szolgálatokat irányító miniszter egyetértését előzetesen írásban kikérve annak minősít. | Egyez- tetéstől függ |
 
-[^1]: A melléklet a 22/2007. (X. 10.) PM rendelet 1. §-ával megállapított, a 3/2011. (I. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A melléklet a 22/2007. (X. 10.) PM rendelet 1. §-ával megállapított, a 3/2011. (I. 28.) NGM rendelet 1. §-a, a 21/2011. (VII. 13.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
