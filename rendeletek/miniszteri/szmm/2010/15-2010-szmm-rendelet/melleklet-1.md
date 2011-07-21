@@ -56,13 +56,13 @@ Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 
 | 23b |  | A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóságnál az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat nyugdíjügyeiben első fokon eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők | C |
 
-| 24 | Egyenlő Bánásmód Hatóság | Főosztályvezetők | B |
+| 24 |  |  |  |
 
-| 25 | A Szociális és Munkaügyi Minisztérium, az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, a Foglalkoztatási és Szociális Hivatal, a regionális munkaügyi központok, az Országos Nyugdíjbiztosítási Főigazgatóság, az Egyenlő Bánásmód Hatóság | a 2–24. sorban fel nem sorolt személy, akinek munkaköri leírása szerint a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) 9. § (1) bekezdésében szereplő, vagy a 9. § (2) bekezdése szerinti nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Szigorúan titkos!” minősítési jelölésű adatot szükséges megismernie | C |
+| 25 | A Szociális és Munkaügyi Minisztérium, az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, a Foglalkoztatási és Szociális Hivatal, a regionális munkaügyi központok, az Országos Nyugdíjbiztosítási Főigazgatóság | a 2–24. sorban fel nem sorolt személy, akinek munkaköri leírása szerint a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) 9. § (1) bekezdésében szereplő, vagy a 9. § (2) bekezdése szerinti nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Szigorúan titkos!” minősítési jelölésű adatot szükséges megismernie | C |
 
 | 26 | a 2–24. sorban fel nem sorolt személy, akinek munkaköri leírása szerint a Mavtv. 9. § (1) bekezdésében szereplő, vagy a 9. § (2) bekezdése szerinti nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Titkos!” minősítési jelölésű adatot szükséges megismernie | B |
 
 | 27 | az a személy, akinek a munkaköri leírása szerint a 25. és a 26 sorban meghatározott minősítési szintet el nem érő nemzetközi kötelezettségvállalás alapján védelmet igénylő adatot szükséges feldolgoznia, felhasználnia | A |
 
 [^2]: A 4. § a (2) bekezdés alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 18/2011. (V. 6.) NEFMI rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 18/2011. (V. 6.) NEFMI rendelet 1. §-a, a 21/2011. (VII. 13.) KIM rendelet 3. § k) pontja szerint módosított szöveg.
