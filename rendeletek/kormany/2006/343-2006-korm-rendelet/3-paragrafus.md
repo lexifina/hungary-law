@@ -14,9 +14,9 @@ jelöli ki.
 
 (4) Ha a (3) bekezdés szerinti hatóság kijelölésére nem kerül sor, akkor az első és másodfokú építésfelügyeleti hatósági ügyekben az (1) bekezdés szerinti feladatokat ellátó építésfelügyeleti hatóság jár el.
 
-(5)[^22] Az Építésügyi Hivatal tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője a miniszter.
+(5)[^22] Az Építésügyi Hivatal tekintetében a Khtv. 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője a miniszter.
 
 [^19]: A 3. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (3)–(4) bekezdését.
 [^20]: A 3. § (1) bekezdés a) pontja a 329/2010. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével magállapított szöveg.
 [^21]: A 3. § (2) bekezdése a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének b) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^22]: A 3. § (5) bekezdését a 329/2010. (XII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^22]: A 3. § (5) bekezdését a 329/2010. (XII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 115/2011. (VII. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
