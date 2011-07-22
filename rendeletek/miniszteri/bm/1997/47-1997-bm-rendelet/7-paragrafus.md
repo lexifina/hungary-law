@@ -12,8 +12,10 @@ b) vasúti szállítás esetén a területileg illetékes beavatkozó egységek 
 
 köteles a szállítás biztonságáról gondoskodni.
 
-(2) A rendőrség a meghatározott veszélyességet elérő (ADR szerinti A1 és A2 érték 3000-szeres vagy 1000 TBq meghaladó összaktivitású radionuklidok) radioaktív anyagok szállítási útvonalát meghatározhatja.
+(2)[^14] A rendőrség a meghatározott veszélyességet elérő (ADR szerinti A1 és A2 érték 3000-szeres vagy 1000 TBq meghaladó összaktivitású radionuklidok) radioaktív anyagok szállítási útvonalát meghatározhatja. A rendőrség a szállítási útvonal meghatározásáról szóló döntést – az engedélyessel történő közléssel egyidejűleg – közli az Országos Katasztrófavédelmi Főigazgatóság Főügyeletével.
 
 (3) A nukleáris anyagok szállításakor a közvetlen őrzési, védelmi feladatokat fegyveres őrség látja el. Az őrség az induláskor és minden megállás alkalmával köteles ellenőrizni a zárak és a pecsétek sértetlenségét.
 
 (4) A nukleáris és radioaktív anyagok szállítása esetén a rendőrség ellenőrzi, hogy a radioaktív, illetve nukleáris anyagot szállító jármű megfelel-e a nemzetközi egyezményekben, jogszabályokban előírt követelményeknek.
+
+[^14]: A 7. § (2) bekezdése a 23/2011. (VII. 21.) BM rendelet 1. §-ával megállapított szöveg.
