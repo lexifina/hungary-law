@@ -1,10 +1,10 @@
-## Támogató hatósági feladatok[^19]
+## Támogató hatósági feladatok[^22]
 
-16/A. §[^20] (1)[^21] A támogató hatóság a nyomtatványt és annak mellékleteit a beérkezést követő öt napon belül továbbítja a döntő hatósághoz.
+16/A. §[^23] (1)[^24] A támogató hatóság a nyomtatványt és annak mellékleteit a beérkezést követő öt napon belül továbbítja a döntő hatósághoz.
 
-(2)[^22] Az áldozatot a döntő hatóság megkeresése alapján az a támogató hatóság hallgatja meg, amely a kérelmet továbbította. Más személy meghallgatása esetén, valamint abban az esetben, ha az áldozat a kérelmét közvetlenül a döntő hatósághoz nyújtotta be, a meghallgatást a meghallgatni kívánt személy választása szerinti támogató hatóság folytatja le. A meghallgatásról jegyzőkönyv készül, amit a meghallgatást követő öt napon belül meg kell küldeni a döntő hatóságnak.
+(2)[^25] Az áldozatot a döntő hatóság megkeresése alapján az a támogató hatóság hallgatja meg, amely a kérelmet továbbította. Más személy meghallgatása esetén, valamint abban az esetben, ha az áldozat a kérelmét közvetlenül a döntő hatósághoz nyújtotta be, a meghallgatást a meghallgatni kívánt személy választása szerinti támogató hatóság folytatja le. A meghallgatásról jegyzőkönyv készül, amit a meghallgatást követő öt napon belül meg kell küldeni a döntő hatóságnak.
 
-[^19]: A 16/A. §-t megelőző alcímet a 48/2009. (IX. 28.) IRM rendelet 9. § (5) bekezdése iktatta be.
-[^20]: A 16/A. §-t a 48/2009. (IX. 28.) IRM rendelet 9. § (5) bekezdése iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^21]: A 16/A. § (1) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^22]: A 16/A. § (2) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^22]: A 16/A. §-t megelőző alcímet a 48/2009. (IX. 28.) IRM rendelet 9. § (5) bekezdése iktatta be.
+[^23]: A 16/A. §-t a 48/2009. (IX. 28.) IRM rendelet 9. § (5) bekezdése iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 16/A. § (1) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^25]: A 16/A. § (2) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (7) bekezdése szerint módosított szöveg.

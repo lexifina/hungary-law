@@ -1,4 +1,4 @@
-| Kérelem-nyomtatvány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény szerinti azonnali pénzügyi segély és/vagy állami kárenyhítés iránti kérelem előterjesztéséhez | A hivatal érkeztető bélyegzője |
+| Kérelem-nyomtatvány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény szerinti azonnali pénzügyi segély és/vagy állami kárenyhítés iránti kérelem előterjesztéséhez | A fővárosi és megyei kormányhivatal érkeztető bélyegzője |
 
 ## A) RÉSZ
 
@@ -60,7 +60,7 @@
 
 ## Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak.
 
-## A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat az Igazságügyi Hivatal Áldozatsegítő Szolgálata kezelje.
+## A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat a fővárosi és megyei kormányhivatal igazságügyi szolgálata és a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata kezelje.
 
 ## Kelt: ...................................., ......... év ............................. hó ................ nap.
 
@@ -212,6 +212,6 @@
 
 ## kérelmező aláírása
 
-2. melléklet az 1/2006. (I. 6.) IM rendelethez[^34]
+2. melléklet az 1/2006. (I. 6.) IM rendelethez[^41]
 
-[^34]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
