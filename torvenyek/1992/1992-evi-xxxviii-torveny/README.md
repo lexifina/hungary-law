@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-38-00-00
 | 2011-06-18 | 2011. évi LXIV. törvény | 1992-38-00-00.117 |
 | 2011-06-25 | 2011. évi LXIX. törvény | 1992-38-00-00.118 |
 | 2011-07-01 | 2010. évi CLIII. törvény | 1992-38-00-00.119 |
+| 2011-07-22 | 2011. évi XCIII. törvény | 1992-38-00-00.120 |
