@@ -54,7 +54,9 @@ p) a beszállító jogszerű védjegyhasználatának kereskedő általi korláto
 
 q) a terméknek – az árukészletnek a kereskedő tevékenységének beszüntetése vagy profilváltás miatt történő legfeljebb tizenöt napos és a mezőgazdasági igazgatási szervnek előzetesen bejelentett kiárusítása, valamint nem teljes értékű termék kiárusítása esetének kivételével – a beszállító által számlázott átadási ára, illetve a kereskedő általi saját előállítás esetén önköltségi ára alatt történő forgalmazása a kereskedő által a végső fogyasztó felé;
 
-r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével.
+r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével;
+
+s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére.
 
 (2a) A kereskedő által a beszállító hozzájárulásával a végső fogyasztónak nyújtott árengedmény fogyasztó irányába történő nyújtásának végső időpontjától számított harminc napon belül a kereskedőnek a nyújtott árengedményről és az azzal érintett termékmennyiségről el kell számolnia a beszállító felé.
 
