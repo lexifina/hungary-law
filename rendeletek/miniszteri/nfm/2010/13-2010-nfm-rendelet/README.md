@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-13-20-2
 | --- | --- | --- |
 | 2010-11-01 | 2010-13-20-2W.1 | 13/2010. (X. 5.) NFM rendelet |
 | 2010-11-02 | 2010-13-20-2W.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-07-22 | 2010-13-20-2W.3 | 37/2011. (VII. 19.) NFM rendelet |
