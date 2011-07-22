@@ -15,11 +15,3 @@ e) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban Mvt.
 f) a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/D. §-a,
 
 g) a szakképzésről szóló 1993. évi LXXVI. törvény 8. § (2) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
