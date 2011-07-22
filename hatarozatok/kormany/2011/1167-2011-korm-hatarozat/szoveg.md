@@ -1,14 +1,8 @@
 A Kormány a magyar filmipar intézményi feltételrendszere megújításának, versenyképessége fejlesztésének, átlátható filmtámogatási rendszer kialakításának és értékhordozó új magyar filmek készítésének igényét szem előtt tartva szükségesnek ítéli, hogy a magyar filmgyártás és filmforgalmazás állami feladatainak ellátása érdekében kizárólagos állami tulajdonban lévő új gazdasági társaság kerüljön megalapításra és működtetésre, melynek megvalósítása érdekében a Kormány felhívja
 
-1. a nemzeti fejlesztési minisztert, hogy az állami vagyonról szóló 2007. évi CVI. törvény 29. § (3) bekezdése alapján a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) útján gondoskodjon kizárólagos állami tulajdonú zártkörű részvénytársaság formájában működő gazdasági társaság megalapításáról. A társaság felügyelő bizottságában lehetővé kell tenni a kultúráért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter és a nemzeti filmipar megújításáért felelős kormánybiztos által delegált tagok részvételét.
+1.[^1] a nemzeti fejlesztési minisztert, hogy az állami vagyonról szóló 2007. évi CVI. törvény 29. § (3) bekezdése alapján a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) útján gondoskodjon kizárólagos állami tulajdonú nonprofit zártkörű részvénytársaság formájában működő gazdasági társaság megalapításáról.
 
 Felelős: nemzeti fejlesztési miniszter
-
-nemzeti erőforrás miniszter
-
-közigazgatási és igazságügyi miniszter
-
-nemzeti filmipar megújításáért felelős kormánybiztos
 
 Határidő: azonnal
 
@@ -56,9 +50,11 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2. pontban írt feltételek teljesülését követően azonnal
 
+5/A.[^2] Az 1. pont alapján létrehozott társaság, azaz a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt., valamint a kultúráért felelős miniszter által vezetett minisztérium a mozgóképről szóló 2004. évi II. törvény szerinti támogató szervezetként, az Európai Bizottság által az N 202/2008. számú határozatával jóváhagyott támogatási program keretében nyújt állami támogatást mozgóképszakmai célokra.
+
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-Melléklet az 1167/2011. (V. 26.) Korm. határozathoz[^1]
+Melléklet az 1167/2011. (V. 26.) Korm. határozathoz[^3]
 
 XVII. Nemzeti Fejlesztési Minisztérium
 
@@ -140,4 +136,6 @@ Költségvetési év: 2011.
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
 
-[^1]: A melléklet az 1201/2011. (VI. 21.) Korm. határozattal megállapított szöveg.
+[^1]: Az 1. pont az 1254/2011. (VII. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5/A. pontot az 1254/2011. (VII. 21.) Korm. határozat 2. pontja iktatta be.
+[^3]: A melléklet az 1201/2011. (VI. 21.) Korm. határozattal megállapított szöveg.
