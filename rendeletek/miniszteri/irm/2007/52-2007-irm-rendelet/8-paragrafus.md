@@ -12,9 +12,9 @@ a) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény ha
 
 b) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról;
 
-c)[^4] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
+c)[^5] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
 
-d)[^5] az Európai Parlament és a Tanács 439/2010/EK (2010. május 19.) rendelete az Európai Menekültügyi Támogatási Hivatal létrehozásáról.
+d)[^6] az Európai parlament és a Tanács 439/2010/EU (2010. május 19.) rendelete az Európai Menekültügyi Támogatási hivatal létrehozásáról 19. cikk.
 
 Melléklet az 52/2007. (XII. 11.) IRM rendelethez
 
@@ -56,5 +56,5 @@ A befogadó állomás házirendje
 
 18. A befogadó állomáson elhelyezett, valamint a látogató az általa a befogadó állomásnak okozott kárt köteles megtéríteni.
 
-[^4]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
-[^5]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be.
+[^5]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be, szövege a 23/2011. (VII. 21.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.

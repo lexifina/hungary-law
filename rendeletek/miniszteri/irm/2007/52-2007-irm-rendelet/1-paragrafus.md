@@ -22,10 +22,13 @@ i) együttműködik az elismerését kérő, valamint a menekült, az oltalmazot
 
 j) együttműködik a menekültügyben érintett állami szervekkel és társadalmi szervezetekkel, továbbá a hazai és nemzetközi menekültügyi és migrációs szervezetekkel;
 
-k)[^1] a 767/2008/EK európai parlamenti és tanácsi rendelet 21. és 22. cikkében meghatározottak szerint hozzáfér a Vízuminformációs Rendszer létrehozásáról (VIS) szóló, 2004. június 8-i 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz.
+k)[^1] a 767/2008/EK európai parlamenti és tanácsi rendelet 21. és 22. cikkében meghatározottak szerint hozzáfér a Vízuminformációs Rendszer létrehozásáról (VIS) szóló, 2004. június 8-i 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz;
+
+l)[^2] nemzeti kapcsolattartó pontként ellátja az Európai Menekültügyi Támogatási Hivatallal való kapcsolattartás terén a menekültügyi támogató csoportokra vonatkozó feladatokat.
 
 (3) A Hivatal a személyi állományának menekültügyi hatósági, ellátási, valamint integrációs feladatokat ellátó tagjai számára – a tevékenységükhöz szükséges ismeretek megszerzése, illetve tevékenységük szakmai színvonalának növelése érdekében – rendszeres képzést nyújt.
 
 (4) A Hivatal a (3) bekezdés szerinti képzés keretében biztosítja, hogy a személyi állomány menekültügyi hatósági, ellátási, valamint integrációs feladatokat ellátó tagjai hozzájussanak a különleges bánásmódot igénylő elismerését kérő, menekült, oltalmazott és menedékes sajátos szükségleteihez igazodó speciális ismeretekhez.
 
 [^1]: Az 1. § (2) bekezdés k) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (2) bekezdés l) pontját a 23/2011. (VII. 21.) BM rendelet 4. § (1) bekezdése iktatta be.
