@@ -86,11 +86,13 @@ z/3. [^73] „Környezetvédelmi övezet (zóna)” (53/e. ábra); a jelzőtábl
 
 (13) [^82] Az (1) bekezdés n)–p), t) és u) pontjában említett jelzőtáblánál mozgáskorlátozott személy (illetőleg az őt szállító jármű vezetője), a betegszállító gépjármű a tilalom ellenére behajthat, ha úti célja a jelzőtáblával megjelölt úton van vagy csak ezen az úton közelíthető meg. A járművel ilyen esetben legfeljebb 20 km/óra sebességgel szabad közlekedni.
 
-(14) [^83] Ha az (1) bekezdés n) pontjában említett jelzőtábla alatt „Kivéve engedéllyel”, „Kivéve taxi”, vagy „Kivéve ..... (tömegközlekedési vállalat)” feliratú kiegészítő tábla van, az útra engedéllyel rendelkező vagy a kiegészítő táblán feltüntetett járművel, továbbá kerékpárral és állati erővel vont járművel szabad behajtani. Az engedélyt az út kezelője adja ki, a korlátozással érintett területen lakó, ott telephellyel rendelkező, vagy oda (onnan) áruszállítást végző természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság részére. A (12) bekezdésben meghatározott behajtási tilalom alól az út kezelője felmentést adhat.
+(13a) [^83] Az (1) bekezdés o) pontjában, r) pont 43. ábrájában, s) és t) pontjában, továbbá a (2) bekezdésben meghatározott jelzőtáblánál a mezőgazdasági vontató, a lassú jármű, a mezőgazdasági erőgép vagy e járműből és pótkocsiból (vontatmányból) álló járműszerelvény vezetője – mezőgazdasági tevékenység végzése érdekében – a tilalom ellenére behajthat, ha a munkavégzés helyének megközelítése érdekében ez elkerülhetetlen vagy egyéb útvonal választása 50%-ot meghaladó mértékű útvonal-hosszabbodást jelent, amennyiben a behajtás a személy- és vagyonbiztonságot nem veszélyezteti és a forgalmat lényegesen nem akadályozza.
 
-(15) [^84] Ha az (1) bekezdés a), b), n) és z) pontjában említett jelzőtábla alatt az 59/a. ábra szerinti kiegészítő táblán autóbuszt és/vagy kerékpárt mutató ábra van, a jelzőtáblával jelzett tilalom a menetrend szerint közlekedő autóbuszra és/vagy kerékpárra nem vonatkozik.
+(14) [^84] Ha az (1) bekezdés n) pontjában említett jelzőtábla alatt „Kivéve engedéllyel”, „Kivéve taxi”, vagy „Kivéve ..... (tömegközlekedési vállalat)” feliratú kiegészítő tábla van, az útra engedéllyel rendelkező vagy a kiegészítő táblán feltüntetett járművel, továbbá kerékpárral és állati erővel vont járművel szabad behajtani. Az engedélyt az út kezelője adja ki, a korlátozással érintett területen lakó, ott telephellyel rendelkező, vagy oda (onnan) áruszállítást végző természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság részére. A (12) bekezdésben meghatározott behajtási tilalom alól az út kezelője felmentést adhat.
 
-(16) [^85] Ha a „Korlátozott forgalmú övezet” jelzőtáblát (53/c. ábra) a „Lakott terület kezdete” (131–131/c. ábra) jelzőtáblával együtt helyezték el, a tilalom hatálya a teljes lakott területre kiterjed.
+(15) [^85] Ha az (1) bekezdés a), b), n) és z) pontjában említett jelzőtábla alatt az 59/a. ábra szerinti kiegészítő táblán autóbuszt és/vagy kerékpárt mutató ábra van, a jelzőtáblával jelzett tilalom a menetrend szerint közlekedő autóbuszra és/vagy kerékpárra nem vonatkozik.
+
+(16) [^86] Ha a „Korlátozott forgalmú övezet” jelzőtáblát (53/c. ábra) a „Lakott terület kezdete” (131–131/c. ábra) jelzőtáblával együtt helyezték el, a tilalom hatálya a teljes lakott területre kiterjed.
 
 [^58]: A 14. § (1) bekezdése d) pontjának 30. ábráját a 151/1995. (XII. 12.) Korm. rendelet 1. §-ának (1) bekezdése állapította meg, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^59]: A 14. § (1) bekezdés e) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 6. § (1) bekezdése szerint módosított szöveg.
@@ -117,6 +119,7 @@ z/3. [^73] „Környezetvédelmi övezet (zóna)” (53/e. ábra); a jelzőtábl
 [^80]: A 14. § (11) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta a szövegbe.
 [^81]: A 14. § (12) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
 [^82]: A 14. § (13) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta be, szövegét újonnan az 59/2004. (III. 31.) Korm. rendelet 1. §-a állapította meg.
-[^83]: A 14. § (14) bekezdését a 4/1988. (VI. 30.) KM–BM e. r. 3. § (3) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
-[^84]: A 14. § (15) bekezdését a 28/2001. (II. 15.) Korm. rendelet 4. §-a iktatta a szövegbe.
-[^85]: A 14. § (16) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^83]: A 14. § (13a) bekezdését a 137/2011. (VII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 14. § (14) bekezdését a 4/1988. (VI. 30.) KM–BM e. r. 3. § (3) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
+[^85]: A 14. § (15) bekezdését a 28/2001. (II. 15.) Korm. rendelet 4. §-a iktatta a szövegbe.
+[^86]: A 14. § (16) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 6. § (9) bekezdése iktatta be.

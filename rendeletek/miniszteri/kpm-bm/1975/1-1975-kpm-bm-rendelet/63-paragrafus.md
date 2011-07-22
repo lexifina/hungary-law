@@ -1,12 +1,12 @@
 ## Az utak igénybevételével kapcsolatos egyéb szabályok
 
-63. § (1)[^346] Aki a közutat vagy a közúti jelzést megrongálta, beszennyezte vagy a közútra a közlekedés biztonságát, zavartalanságát hátrányosan befolyásoló tárgyat juttatott, köteles a keletkező veszély elhárításáról gondoskodni, illetőleg ameddig az nem lehetséges, a veszélyről a közlekedés többi résztvevőjét tájékoztatni.
+63. § (1)[^344] Aki a közutat vagy a közúti jelzést megrongálta, beszennyezte vagy a közútra a közlekedés biztonságát, zavartalanságát hátrányosan befolyásoló tárgyat juttatott, köteles a keletkező veszély elhárításáról gondoskodni, illetőleg ameddig az nem lehetséges, a veszélyről a közlekedés többi résztvevőjét tájékoztatni.
 
-(2)[^347] Földútról szilárd burkolatú útra való ráhajtás előtt a járműről a rátapadt sarat – amely a szilárd burkolatú utat beszennyezheti – el kell távolítani .
+(2)[^345] Földútról szilárd burkolatú útra való ráhajtás előtt a járműről a rátapadt sarat – amely a szilárd burkolatú utat beszennyezheti – el kell távolítani .
 
 (3) Tilos az úton olyan tárgyat csúsztatni, illetőleg vontatni, amely ezáltal az utat megrongálhatja.
 
-(4)[^348] A közúti forgalom ellenőrzése során
+(4)[^346] A közúti forgalom ellenőrzése során
 
 a) a közúti forgalom ellenőrzését végző berendezést;
 
@@ -14,9 +14,9 @@ b) azt a járművet, amelyben a közúti forgalom ellenőrzését végző berend
 
 a közúton úgy kell elhelyezni, hogy a gyalogos és jármű forgalmat indokolatlan mértékben ne akadályozza.
 
-(5)[^349] A (4) bekezdés b) pontjában meghatározott jármű a járműforgalom elől elzárt területen, továbbá a közútnak azon a részén is elhelyezhető, ahol a járművek megállása vagy várakozása tilos.
+(5)[^347] A (4) bekezdés b) pontjában meghatározott jármű a járműforgalom elől elzárt területen, továbbá a közútnak azon a részén is elhelyezhető, ahol a járművek megállása vagy várakozása tilos.
 
-[^346]: A 63. § (1) bekezdése a 4/1988. (VI. 30.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.
-[^347]: A 63. § (2) bekezdése a 4/1988. (VI. 30.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.
-[^348]: A 63. § (4) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 26. §-a iktatta be.
-[^349]: A 63. § (5) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 26. §-a iktatta be.
+[^344]: A 63. § (1) bekezdése a 4/1988. (VI. 30.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.
+[^345]: A 63. § (2) bekezdése a 4/1988. (VI. 30.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.
+[^346]: A 63. § (4) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 26. §-a iktatta be.
+[^347]: A 63. § (5) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 26. §-a iktatta be.

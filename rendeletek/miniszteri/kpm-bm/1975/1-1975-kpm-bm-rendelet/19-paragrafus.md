@@ -26,15 +26,15 @@ c) a teljes sorompót kiegészítő berendezés [(4) bek.] hang- vagy fényjelz�
 
 a) a fénysorompón sem a piros, sem a fehér fény nem világít;
 
-b)[^156] a félsorompó rúdja nyitott vagy félig nyitott állapotban van és a fénysorompón sem a piros, sem a fehér fény nem világít;
+b)[^157] a félsorompó rúdja nyitott vagy félig nyitott állapotban van és a fénysorompón sem a piros, sem a fehér fény nem világít;
 
 c) a sorompórudak eltérő állásban vagy félig nyitott helyzetben vannak.
 
-(8)[^157] A továbbhaladást – a 39. § (1) bekezdésében foglaltak megtartása mellett – engedélyezi
+(8)[^158] A továbbhaladást – a 39. § (1) bekezdésében foglaltak megtartása mellett – engedélyezi
 
 a) a fénysorompó villogó fehér fényjelzése,
 
 b) a teljes sorompó rúdjainak nyitott helyzete, feltéve hogy sorompót kiegészítő hang- vagy fényjelző berendezés jelzést nem ad.
 
-[^156]: A 19. § (7) bekezdésének b) pontja a 2/1984. (I. 29.) KM-BM együttes rendelet 11. §-ának (1) bekezdésével megállapított szöveg.
-[^157]: A 19. § (8) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 11. §-ának (2) bekezdése iktatta be a rendeletbe.
+[^157]: A 19. § (7) bekezdésének b) pontja a 2/1984. (I. 29.) KM-BM együttes rendelet 11. §-ának (1) bekezdésével megállapított szöveg.
+[^158]: A 19. § (8) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 11. §-ának (2) bekezdése iktatta be a rendeletbe.
