@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A Nyugdíjbiztosítási Ellenőrző Testület három tagjára az OÉT munkáltatói oldala együttesen, három tagjára az OÉT munkavállalói oldala együttesen, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.
+(3) A Nyugdíjbiztosítási Ellenőrző Testület három-három tagjára a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.
 
 (4) A Testület tagjait az Országgyűlés elnöke kéri és menti fel. A megbízatás a felkérés elfogadásával keletkezik, és három évre szól. A tagok egy alkalommal ismételten felkérhetők.
 

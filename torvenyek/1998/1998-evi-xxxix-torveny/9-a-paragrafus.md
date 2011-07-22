@@ -14,4 +14,4 @@ c) vizsgálatot, illetve ellenőrzést kezdeményezhet az alapok kezelésével �
 
 (5) A Testület a feladatával összefüggésben tudomására jutott adatok, információk tekintetében az adatvédelmi törvényben foglalt rendelkezésekre figyelemmel jár el.
 
-(6) A Testület tevékenységéről évente tájékoztatást ad az Országos Érdekegyeztető Tanácsnak (a továbbiakban: OÉT), beszámol az Országgyűlés illetékes bizottságának.
+(6) A Testület tevékenységéről évente tájékoztatást adhat, valamint kérés esetén köteles adni a Nemzeti Gazdasági és Társadalmi Tanácsnak, beszámol az Országgyűlés illetékes bizottságának.

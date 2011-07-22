@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-39-00-00
 | 2010-05-29 | 2010. évi XLIII. törvény | 1998-39-00-00.16 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1998-39-00-00.17 |
 | 2011-07-01 | 2011. évi LXVI. törvény | 1998-39-00-00.18 |
+| 2011-07-22 | 2011. évi XCIII. törvény | 1998-39-00-00.19 |
