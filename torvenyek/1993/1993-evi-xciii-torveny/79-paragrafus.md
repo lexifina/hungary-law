@@ -4,7 +4,7 @@ a) előzetesen véleményezi a 11. §-ban megjelölt jogszabályok és egyéb el
 
 b) részt vesz a munkavédelem országos programjának, annak végrehajtását szolgáló éves intézkedési és ütemterveknek a kialakításában, értékelésében és felülvizsgálatában;
 
-c) tárgyal és állást foglal, illetve ajánlást alakít ki a tárgyaló csoportok által előterjesztett, továbbá az Országos Érdekegyeztető Tanács által hozzá utalt munkavédelmi kérdésekről;
+c) tárgyal és állást foglal, illetve ajánlást alakít ki a tárgyaló csoportok által előterjesztett, munkavédelmi kérdésekről;
 
 d) ajánlásokat alakít ki a munkavédelemre vonatkozó szabályokban rögzítetteket meghaladó munkavédelmi követelményekről;
 
