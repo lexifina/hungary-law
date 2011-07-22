@@ -8,6 +8,10 @@ c) a termékpályák működését,
 
 érintő részletes szabályokat – a Közös Agrárpolitika szabályozásával összhangban – rendeletben állapítsa meg.
 
+d) – a Gazdasági Versenyhivatal elnöke véleményének kikérésével – a kiterjesztett piacfejlesztési intézkedést, annak időtartamát, ezen piacfejlesztési intézkedés hatálya alá tartozó, szakmaközi szervezethez nem tartozó piaci szereplők körét,
+
+e) a piacfejlesztési hozzájárulás mértékét, a kedvezmények, mentességek körét, a fizetési kötelezettség teljesítésének időpontját.
+
 (2)
 
 (3) Felhatalmazást kap a Kormány, hogy
