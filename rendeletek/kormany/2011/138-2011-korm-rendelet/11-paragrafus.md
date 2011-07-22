@@ -1,0 +1,1 @@
+11. § Az R2. 3. § c) pontjában és 4. § c) pontjában a „képviselőjének adatai” szövegrész helyébe a „képviselőjének neve” szöveg, továbbá 3. § f) pontjában a „jogügylet” szövegrész helyébe a „tulajdonjog változás” szöveg lép.
