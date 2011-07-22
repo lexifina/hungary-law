@@ -1,1 +1,0 @@
-Az Országos Érdekegyeztető Tanácsról szóló 2009. évi LXXIII. törvény (a továbbiakban: OÉTtv.) 16. § (6) bekezdésében kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § l) pontjában meghatározott feladatkörömben eljárva az alábbiakat rendelem el:
