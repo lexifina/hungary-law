@@ -36,7 +36,7 @@ i) a Magyar Katolikus Egyház képviseletében 2 fő, akik közül az egyik szem
 
 j) a Magyarországi Református Egyház, a Magyarországi Evangélikus Egyház, a Magyarországi Zsidó Hitközségek Szövetsége, valamint az Evangéliumi Szabadegyházak Szövetsége képviseletében 1-1 fő;
 
-k) az Országos Érdekegyeztető Tanács munkaadói és munkavállalói oldalainak képviseletében 1-1 fő;
+k)[^1] a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek 1-1 képviselője;
 
 l) a Magyar Tudományos Akadémia képviseletében 1 fő.
 
@@ -82,6 +82,7 @@ c) a 6. pontban szereplő Országos Cigány Önkormányzat elnökét a Tanács t
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
-16.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+16.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^1]: A 4. pont k) alpontja az 1239/2011. (VII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
