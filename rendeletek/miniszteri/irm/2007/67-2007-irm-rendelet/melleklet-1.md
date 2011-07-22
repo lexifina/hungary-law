@@ -738,73 +738,73 @@
 
 2.3. Kecskeméti Rendőrkapitányság
 
-2.3.1. Ágasegyháza
+2.3.1. Ballószög
 
-2.3.2. Ballószög
+2.3.2. Felsőlajos
 
-2.3.3. Felsőlajos
+2.3.3. Fülöpháza
 
-2.3.4. Fülöpháza
+2.3.4. Helvécia
 
-2.3.5. Helvécia
+2.3.5. Jakabszállás
 
-2.3.6. Jakabszállás
+2.3.6. Kecskemét
 
-2.3.7. Kecskemét
+2.3.7. Kerekegyháza
 
-2.3.8. Kerekegyháza
+2.3.8. Kunbaracs
 
-2.3.9. Kunbaracs
+2.3.9. Ladánybene
 
-2.3.10. Ladánybene
+2.3.10. Lajosmizse
 
-2.3.11. Lajosmizse
+2.3.11. Lakitelek
 
-2.3.12. Lakitelek
+2.3.12. Nyárlőrinc
 
-2.3.13. Nyárlőrinc
+2.3.13. Szentkirály
 
-2.3.14. Orgovány
+2.3.14. Tiszakécske
 
-2.3.15. Szentkirály
+2.3.15. Tiszaug
 
-2.3.16. Tiszakécske
-
-2.3.17. Tiszaug
-
-2.3.18. Városföld
+2.3.16. Városföld
 
 2.4. Kiskőrösi Rendőrkapitányság
 
 2.4.1. Akasztó
 
-2.4.2. Bócsa
+2.4.2. Ágasegyháza
 
-2.4.3. Császártöltés
+2.4.3. Bócsa
 
-2.4.4. Csengőd
+2.4.4. Császártöltés
 
-2.4.5. Fülöpszállás
+2.4.5. Csengőd
 
-2.4.6. Imrehegy
+2.4.6. Fülöpszállás
 
-2.4.7. Izsák
+2.4.7. Imrehegy
 
-2.4.8. Kaskantyú
+2.4.8. Izsák
 
-2.4.9. Kecel
+2.4.9. Kaskantyú
 
-2.4.10. Kiskőrös
+2.4.10. Kecel
 
-2.4.11. Páhi
+2.4.11. Kiskőrös
 
-2.4.12. Soltszentimre
+2.4.12. Orgovány
 
-2.4.13. Soltvadkert
+2.4.13. Páhi
 
-2.4.14. Tabdi
+2.4.14. Soltszentimre
 
-2.4.15. Tázlár
+2.4.15. Soltvadkert
+
+2.4.16. Tabdi
+
+2.4.17. Tázlár
 
 2.5. Kiskunfélegyházi Rendőrkapitányság
 
@@ -7418,4 +7418,4 @@
 
 21.1.4. Ferihegy–2/B terminál légi határátkelőhely
 
-[^5]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított szöveg. Az 1. melléklet 8.4.22/A. és 20.1.33/A. pontját a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése iktatta be.
+[^5]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a szerint módosított szöveg.
