@@ -22,7 +22,7 @@ a) a gyermekgondozási segélyben, gyermekgondozási díjban részesülő szemé
 
 b) a gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.
 
-(3) A MAT meghatározhatja a képzési támogatásban részesíthetők további körét.
+(3)
 
 (4) Képzési támogatásként
 

@@ -32,7 +32,7 @@ a) szolidaritási alaprészt az álláskeresési járadék, az álláskeresési 
 
 b)
 
-c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, a MAT működtetésére, a munkaügyi tanácsok működéséhez való hozzájárulásra, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 
 d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás finanszírozására;
 
