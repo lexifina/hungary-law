@@ -1,0 +1,1 @@
+## 5. § A Rendőrség Szolgálati Szabályzatáról szóló 62/2007. (XII. 23.) IRM rendelet 46. § (2) bekezdésében az „Igazságügyi Hivatal Pártfogó Felügyelői Szolgálatát” szövegrész helyébe a „fővárosi és megyei kormányhivatal igazságügyi szolgálatát” szöveg lép.
