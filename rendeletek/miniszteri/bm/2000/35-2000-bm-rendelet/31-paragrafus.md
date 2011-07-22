@@ -18,9 +18,9 @@ c) a közúti járművek vezetésétől történő eltiltás lejáratának a nap
 
 d)[^103] ha a járművezetőt egészségi, pályaalkalmassági szempontból alkalmatlannak minősítették, az alkalmatlanság megállapításának a napjától az alkalmas minősítésű igazolás közlekedés igazgatási hatóság előtti bemutatásáig, továbbá ha a soron kívül elrendelt vagy kezdeményezett egészségi, illetve rendkívüli pályaalkalmassági vizsgálaton a járművezető önhibájából nem jelent meg, illetve, ha az időszakos egészségi alkalmassági vizsgálat során az egészségügyi hatóság alkalmatlannak minősítette. Nem kell elrendelni a vezetési jogosultság szünetelését, ha az alkalmas minősítésű igazolást az ügyfél a közlekedési igazgatási hatóság határozatának meghozatal előtt önként bemutatja,
 
-e) a vizsga érvénytelenítését elrendelő határozat jogerőre emelkedésének napjától az érvényes vizsgaigazolás közlekedési igazgatási hatóság előtti bemutatásáig, ha a járművezetői vizsgát a közlekedési hatóság külön jogszabály alapján érvénytelenítette,
+e) a vizsga érvénytelenítését elrendelő határozat jogerőre emelkedésének napjától az érvényes vizsgaigazolás közlekedési igazgatási hatóság előtti bemutatásáig, ha a járművezetői vizsgát a közlekedési hatóság külön jogszabály alapján érvénytelenítette.
 
-f)[^104] a vezetői engedély helyszíni elvételének, a szabálysértési eljárás megindításának napjától az eljárás jogerős befejezéséig, de legfeljebb három hónapra, ha az Szr. 42. § (1) bekezdés a) pontjában meghatározott ittas vezetés szabálysértése elkövetésének gyanúja miatt a járművezető ellen eljárás indult.
+f)[^104]
 
 (4) A vezetési jogosultság szünetelésének elrendelésére okot adó körülményről az eljáró hatóság értesíti az engedély jogosítottjának lakóhelye (tartózkodási helye) szerint illetékes közlekedési igazgatási hatóságot:
 
@@ -30,7 +30,7 @@ b) a (3) bekezdés a) és e) pontja esetén a jogerős határozat;
 
 c) a (3) bekezdés d) pontja esetén az alkalmatlanság megállapításáról szóló értesítés;
 
-d)[^105] a (3) bekezdés f) pontja esetén a szabálysértési eljárás megindításáról szóló értesítés;
+d)[^105]
 
 e)[^106] a 27. § (1) bekezdés d) pontja esetén a rendőri intézkedésről szóló jelentés, feljelentés megküldésével.
 
@@ -57,8 +57,8 @@ e)[^106] a 27. § (1) bekezdés d) pontja esetén a rendőri intézkedésről sz
 [^101]: A 31. § (3) bekezdésének a) pontja a 16/2005. (IV. 4.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^102]: A 31. § (3) bekezdésének b) pontja a 63/2005. (XII. 22.) BM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^103]: A 31. § (3) bekezdésének d) pontja a 41/2009. (IX. 15.) IRM rendelet 26. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni; 55. § (3) bekezdése alapján a módosítás nem érinti a 2009. október 1. napja előtt kiadott vezetői engedélyek érvényességét.
-[^104]: A 31. § (3) bekezdésének f) pontját a 2/2008. (I. 12.) IRM rendelet 2. § (1) bekezdése iktatta be.
-[^105]: A 31. § (4) bekezdésének új d) pontját a 2/2008. (I. 12.) IRM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti d) pont megjelölését e) pontra változtatva.
+[^104]: A 31. § (3) bekezdésének f) pontját a 2/2008. (I. 12.) IRM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 22/2011. (VII. 19.) BM rendelet 5. § (2) bekezdés c) pontja.
+[^105]: A 31. § (4) bekezdésének új d) pontját a 2/2008. (I. 12.) IRM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti d) pont megjelölését e) pontra változtatva. A 31. § (4) bekezdés d) pontját a 22/2011. (VII. 19.) BM rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^106]: A 31. § (4) bekezdése eredeti d) pontjának megjelölését e) pontra változtatta a 2/2008. (I. 12.) IRM rendelet 2. § (2) bekezdése.
 [^107]: A 31. § (5) bekezdése a 13/2010. (XII. 28.) BM rendelet 2. § (4) bekezdése szerint módosított szöveg.
 [^108]: A 31. § (7) bekezdése a 41/2009. (IX. 15.) IRM rendelet 24. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni; 55. § (3) bekezdése alapján a módosítás nem érinti a 2009. október 1. napja előtt kiadott vezetői engedélyek érvényességét.
