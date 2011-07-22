@@ -1,6 +1,6 @@
 ## Intézkedés közveszélyokozással való fenyegetés esetén
 
-81. § (1)[^7] Ha a közveszélyokozással összefüggő bejelentés, fenyegetés közvetlenül a rendőri szervhez érkezik, a lehető legrövidebb időn belül értesíteni kell a fenyegetett létesítmény vezetőjét, és egyeztetni kell a foganatosítandó intézkedéseket. A közveszélyokozással való fenyegetéssel kapcsolatos intézkedést az illetékes megyei (fővárosi) rendőr-főkapitányság, rendőrkapitányság teszi meg. A bejelentés valóságtartalmának ellenőrzése, a veszélyhelyzet kizárása a fenyegetett létesítmény használóira nem hárítható át.
+81. § (1)[^9] Ha a közveszélyokozással összefüggő bejelentés, fenyegetés közvetlenül a rendőri szervhez érkezik, a lehető legrövidebb időn belül értesíteni kell a fenyegetett létesítmény vezetőjét, és egyeztetni kell a foganatosítandó intézkedéseket. A közveszélyokozással való fenyegetéssel kapcsolatos intézkedést az illetékes megyei (fővárosi) rendőr-főkapitányság, rendőrkapitányság teszi meg. A bejelentés valóságtartalmának ellenőrzése, a veszélyhelyzet kizárása a fenyegetett létesítmény használóira nem hárítható át.
 
 (2) Közveszélyokozással való fenyegetés helyszínén az előzetes felderítő tevékenységre a megyei bombakutató csoportot, Budapesten a Készenléti rendőrség bombakutató csoportját kell kirendelni.
 
@@ -10,4 +10,4 @@
 
 (5) A Köztársasági Őrezred által őrzött létesítmények és biztosított rendezvényeket ért fenyegetés esetén a fenyegetéssel kapcsolatos intézkedéseket a Köztársasági Őrezred parancsnoka rendeli el.
 
-[^7]: A 81. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 65. pontja szerint módosított szöveg.
+[^9]: A 81. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 65. pontja szerint módosított szöveg.

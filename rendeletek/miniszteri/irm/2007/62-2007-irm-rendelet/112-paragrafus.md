@@ -2,7 +2,7 @@
 
 112. § (1) A rendőr a nyomtatott sajtó, a rádió és a televízió megkeresése alapján a feladatkörébe tartozó szolgálati ügyekről, egyes bűncselekményekről csak engedéllyel nyilatkozhat, amelyet az országos rendőrfőkapitány és a rendőrfőkapitányok, azok helyettesei, a velük azonos hatáskörű, illetve az általuk felhatalmazott vezetők adhatnak meg.
 
-(2)[^10] Kivételes esetben – bűncselekmény, közlekedési baleset, vagy más rendkívüli esemény helyszínén – a rendőr tényközlő nyilatkozatot tehet, úgy hogy azzal minősített adat védelmére vonatkozó követelményeket és személyhez fűződő jogokat nem sérthet, felelősség kérdésében nem foglalhat állást. Nyilatkozatáról utólag az engedélyezésre jogosultnak jelentést tesz.
+(2)[^12] Kivételes esetben – bűncselekmény, közlekedési baleset, vagy más rendkívüli esemény helyszínén – a rendőr tényközlő nyilatkozatot tehet, úgy hogy azzal minősített adat védelmére vonatkozó követelményeket és személyhez fűződő jogokat nem sérthet, felelősség kérdésében nem foglalhat állást. Nyilatkozatáról utólag az engedélyezésre jogosultnak jelentést tesz.
 
 (3) A Rendőrség személyügyi kérdéseiről, országos jelentőségű, rendkívüli vagy váratlan eseményekről, az ORFK hatáskörébe tartozó bűncselekményekről, a tények közlésén kívül, csak az országos rendőrfőkapitány vagy helyettesei hozzájárulásával lehet nyilatkozni.
 
@@ -10,7 +10,7 @@
 
 (5) A rendőr a Rendőrség képviselőjeként, szakértőjeként a sajtóban, a rádió és televízió műsoraiban, filmekben csak az országos rendőrfőkapitány, illetve helyettesei előzetes hozzájárulásával szerepelhet. A rendőri állásra utalás nélkül tartott tudományos, kulturális előadások megtartásához, ilyen irányú egyéb közszerepléshez (beleértve a rádióban és televízióban történő szereplést is) engedély nem kell.
 
-(6)[^11] A Rendőrség lapjaiban a minősített adat védelmére vonatkozó szabályok betartásával a rendőr engedély nélkül nyilatkozhat és publikálhat.
+(6)[^13] A Rendőrség lapjaiban a minősített adat védelmére vonatkozó szabályok betartásával a rendőr engedély nélkül nyilatkozhat és publikálhat.
 
 (7) A rendőrségi adatok felhasználásával készített szakirodalmi, valamint valóságos rendőrségi ügyeket feldolgozó irodalmi alkotást a rendőr előzetes engedéllyel jelentetheti meg. Az ilyen műveken a szerző nevén kívül rendfokozatát fel lehet tüntetni.
 
@@ -20,5 +20,5 @@
 
 (10) A rendőr szabad idejében részt vehet a gyülekezési törvény hatálya alá tartozó, jogszerűen tartott rendezvényen. Ilyen esetben egyenruhát nem viselhet. Szolgálati vagy más jogszerűen tartott lőfegyverét nem tarthatja magánál.
 
-[^10]: A 112. § (2) bekezdése a 35/2010. (V. 12.) IRM rendelet 5. §-a szerint módosított szöveg.
-[^11]: A 112. § (6) bekezdése a 35/2010. (V. 12.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^12]: A 112. § (2) bekezdése a 35/2010. (V. 12.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 112. § (6) bekezdése a 35/2010. (V. 12.) IRM rendelet 5. §-a szerint módosított szöveg.
