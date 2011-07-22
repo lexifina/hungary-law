@@ -1,1 +1,0 @@
-2. § Az OÉT az országos szakszervezeti, illetve munkáltatói szövetségek (a továbbiakban: munkavállalói, illetve munkáltatói oldal) és a kormány közötti makroszintű konzultációk és tárgyalások folyamatosan működő, legátfogóbb, országos, háromoldalú (tripartit) érdekegyeztető fóruma.
