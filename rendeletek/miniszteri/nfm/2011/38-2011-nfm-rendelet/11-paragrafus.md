@@ -1,0 +1,3 @@
+## 10. § Ha a 8. §-ban rögzített kifizetések az európai uniós támogatás terhére elszámolhatóvá válnak, a teljesített kifizetésekre jutó bevételeket azokra a költségvetési előirányzatokra kell teljesíteni, amelyekről a kifizetések teljesültek.
+
+## 3. Az előirányzatokból nyújtható támogatás
