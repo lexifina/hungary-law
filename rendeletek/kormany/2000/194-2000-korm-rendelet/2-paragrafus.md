@@ -1,40 +1,45 @@
 ## 1. §[^1] E rendelet hatálya valamennyi olyan múzeumra, közérdekű muzeális gyűjteményre és kiállítóhelyre (a továbbiakban együtt: muzeális intézmény) kiterjed, amelyik a kultúráért felelős miniszter (a továbbiakban: miniszter) által kiadott működési engedéllyel rendelkezik.
 
-2. §[^2] (1) Díjtalanul látogathatják a muzeális intézményeket az alábbi személyek:
+2. §[^2] (1)[^3] Díjtalanul látogathatja a muzeális intézmények állandó és időszaki kiállításait az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára (a továbbiakban: EGT-állampolgár), amennyiben:
 
-a) a kiskorúak 6. életévük betöltéséig;
+a) 6. életévét be nem töltött kiskorú,
 
-b) a fogyatékossággal élők, valamint kísérőik (jogosultanként legfeljebb egy fő);
+b) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontja szerinti fogyatékos személy (a továbbiakban: fogyatékos személy),
 
-c) a miniszter által kiadott szakmai belépővel rendelkezők;
+c) fogyatékos személyt kísér (legfeljebb 1 fő),
 
-d) a nemzetközi szerződések alapján erre feljogosítottak.
+d) a miniszter által kiadott szakmai belépővel rendelkezik,
 
-(2) Díjtalan a belépés az Európai Gazdasági Térség állampolgárai számára:
+e) legalább 400 fős taglétszámmal rendelkező, országos hatáskörű közgyűjteményi szakmai szervezet tagja,
 
-a) amennyiben 70. életévüket betöltötték;
+f) közoktatásban dolgozó pedagógus,
 
-b) amennyiben közoktatásban dolgozó pedagógusok, illetve felsőoktatásban foglalkoztatott oktatók;
+g) a 70. életévét betöltötte.
 
-c) amennyiben az adott ország jogszabályainak megfelelően bejegyzett, működési engedéllyel rendelkező, illetve akkreditált közgyűjteményekben vagy közművelődési intézményekben szakmai munkakörökben foglalkoztatott dolgozók;
+(2)[^4] Díjtalanul látogathatja a muzeális intézmények állandó kiállításait az EGT-állampolgár minden hónap egyik hétvégéjének a muzeális intézmény által meghatározott napján, amennyiben:
 
-d) az állami fenntartású muzeális intézmények állandó kiállításaira, amennyiben 26. életévüket még nem töltötték be, és előzetes bejelentés alapján, szervezett oktatás keretében, csoportosan érkeznek.
+a) a 26. életévét még nem töltötte be,
 
-(3) Díjtalan továbbá a belépés:
+b) 18 év alatti személyt kísér, és annak a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti közeli hozzátartozója (legfeljebb 2 fő).
 
-a) minden hónap egyik hétvégéjének a muzeális intézmény által meghatározott napján a 26 év alatti személyek, továbbá a 18 év alatti személyeket kísérő, legfeljebb két közeli hozzátartozó [Ptk. 685. § b) pont] számára;
+(3)[^5] A muzeális intézmények állandó és időszaki kiállításait 50%-os kedvezményes belépődíj fizetésével látogathatja az EGT-állampolgár:
 
-b) valamennyi látogató számára a Magyar Köztársaság nemzeti ünnepein (március 15., augusztus 20., október 23.).
+a) a 6. életévének betöltésétől 26. életévének betöltéséig,
 
-(4) 50%-os kedvezményes belépődíjat fizetnek az Európai Gazdasági Térség állampolgárai az (1)–(3) bekezdésben foglalt esetek kivételével:
+b) 62 év felett,
 
-a) 6. életévük betöltésétől 26. életévük betöltéséig;
+c) amennyiben legalább két, 18 év alatti személyt kísér, és azok – Ptk. 685. § b) pontja szerinti – közeli hozzátartozója (legfeljebb 2 fő), a (2) bekezdés b) pontjában foglalt eset kivételével.
 
-b) amennyiben 62 és 70 év közötti életkorúak.
+(4)[^6] A Magyar Köztársaság állami ünnepéről szóló 1991. évi VIII. törvény 1. §-ában meghatározott nemzeti ünnepeken, állampolgárságra való tekintet nélkül a muzeális intézmények kiállításai díjtalanul látogathatók.
 
 (5) A miniszter – a muzeális intézmény kérésére – az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. §-a szerinti kiállítási garanciával megvalósuló, legfeljebb egy évig tartó időszaki kiállítások esetében a kedvezmények, illetve kedvezményezettek körét az (1)–(4) bekezdésben foglaltaknál szűkebb körben állapíthatja meg.
 
-(6) A muzeális intézmény fenntartója egyes kiállítások látogatóinak, illetve a látogatók meghatározott körének az (1)–(4) bekezdésben foglaltakon túl további kedvezményeket is adhat. Így különösen a helyi nevelési-oktatási intézményekbe járó tanulóknak és gyermekeknek, valamint pedagógusaiknak a muzeális intézmény és a nevelési-oktatási intézmény között – a kulturális örökség megismertetésének a nevelési, illetve pedagógiai programba történő beépítése céljából – létrejött megállapodás alapján.
+(6)[^7] A muzeális intézmény vezetője egyes kiállítások látogatóinak, illetve a látogatók meghatározott körének az (1)–(4) bekezdésben foglaltakon túl további kedvezményeket is adhat. Így különösen a helyi nevelési-oktatási intézményekbe járó tanulóknak és gyermekeknek, valamint pedagógusaiknak a muzeális intézmény és a nevelési-oktatási intézmény között – a kulturális örökség megismertetésének a nevelési, illetve pedagógiai programba történő beépítése céljából – létrejött megállapodás alapján.
 
 [^1]: Az 1. § a 281/2007. (X. 25.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
 [^2]: A 2. § a 281/2007. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § (4) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (6) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
