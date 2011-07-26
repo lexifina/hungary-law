@@ -1,6 +1,6 @@
 ## Ellátmánypótlék
 
-26. §[^11] (1) A kihelyezett a 2. § 12. pontjában meghatározott személyek után jogosult ellátmánypótlékra. Az ellátmánypótlék a kihelyezett külszolgálatának idejére, az arra jogosító személy tényleges kiutazásától végleges hazautazásának napjáig – az utazási napokat is beleértve – jár. A töredékhavi ellátmánypótlék kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
+26. §[^13] (1) A kihelyezett a 2. § 12. pontjában meghatározott személyek után jogosult ellátmánypótlékra. Az ellátmánypótlék a kihelyezett külszolgálatának idejére, az arra jogosító személy tényleges kiutazásától végleges hazautazásának napjáig – az utazási napokat is beleértve – jár. A töredékhavi ellátmánypótlék kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
 (2) Az ellátmánypótlék összege
 
@@ -42,9 +42,9 @@ b) az ellátmánypótlékra jogosító személynek a fogadó államtól való t�
 
 (10) Az (1) bekezdésben nem említett családtagoknak az állomáshelyen való tartózkodását a kihelyezett köteles írásban bejelenteni a képviselet-vezetőnek.
 
-(11) A külügyminiszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban különpótlékot állapíthat meg.[^12]
+(11) A külügyminiszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban különpótlékot állapíthat meg.[^14]
 
 (12) Az iskolarendszerszerű oktatás keretében végzett középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.
 
-[^11]: A 26. § a 254/2010. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^12]: Lásd a 7/2009. (V. 6.) KüM utasítást, a 8/2011. (IV. 8.) KüM utasítást, a 14/2011. (V. 6.) KüM utasítást, a 16/2011. (V. 27.) KüM utasítást.
+[^13]: A 26. § a 254/2010. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^14]: Lásd a 7/2009. (V. 6.) KüM utasítást, a 8/2011. (IV. 8.) KüM utasítást, a 14/2011. (V. 6.) KüM utasítást, a 16/2011. (V. 27.) KüM utasítást.

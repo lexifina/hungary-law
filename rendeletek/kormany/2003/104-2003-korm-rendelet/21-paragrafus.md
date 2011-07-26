@@ -8,7 +8,7 @@ a) rangját és munkakörét, munkaköri kulcsszámát (1. számú melléklet);
 
 b) állomáshelyét;
 
-c)[^7] a kihelyezés (áthelyezés) időpontjában érvényes alapellátmányának összegét, az arra utaló pontos jogszabályi helyét, ellátmánya szorzószámát, az ellátmánypótlékokra való jogosultságát;
+c)[^9] a kihelyezés (áthelyezés) időpontjában érvényes alapellátmányának összegét, az arra utaló pontos jogszabályi helyét, ellátmánya szorzószámát, az ellátmánypótlékokra való jogosultságát;
 
 d) köztisztviselő külszolgálathoz fűződő besorolását, illetményét;
 
@@ -30,4 +30,4 @@ i) kötelezettségeit és jogosultságait, a külszolgálat ellátásával kapcs
 
 (6) A kihelyező okirathoz csatolni kell a kihelyezett részletes munkaköri leírását. A munkaköri leírás tartalmazza a helyettesítés rendjét is.
 
-[^7]: A 21. § (2) bekezdés c) pontja a 254/2010. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 21. § (2) bekezdés c) pontja a 254/2010. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.

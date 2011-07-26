@@ -2,7 +2,7 @@
 
 ## Iskoláztatási költség
 
-36. §[^18] (1) A kihelyező közigazgatási szerv az e §-ban foglaltak szerint biztosítja, hogy a kihelyezett ellátmánypótlékra jogosító gyermeke a kihelyezés ideje alatt az állomáshelyen az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő és elsősorban térítésmentesen igénybe vehető, vagy átlagos költségszintű oktatási intézményben előkészítő, alap- és középfokú tanulmányokat folytathasson.
+36. §[^20] (1) A kihelyező közigazgatási szerv az e §-ban foglaltak szerint biztosítja, hogy a kihelyezett ellátmánypótlékra jogosító gyermeke a kihelyezés ideje alatt az állomáshelyen az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő és elsősorban térítésmentesen igénybe vehető, vagy átlagos költségszintű oktatási intézményben előkészítő, alap- és középfokú tanulmányokat folytathasson.
 
 (2) A kihelyező közigazgatási szerv hivatali szervezetének vezetője meghatározza és szükség szerinti rendszerességgel felülvizsgálja az állomáshelyen rendelkezésre álló azon – az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő, átlagos költségszintű, világnyelven, illetve az általános gyakorlat szerint Magyarországon eredménnyel hasznosítható nyelve(ke)n képzést folytató – oktatási intézmény(ek) körét, amelyek tandíjára – a kihelyező közigazgatási szerv a külképviselet nevére, címére szóló számla vagy számlát helyettesítő bizonylat ellenében – térítést biztosít (tandíj térítés).
 
@@ -12,4 +12,4 @@
 
 (5) A kihelyezett sajátos nevelésű igényű gyermeke különleges gondozás keretében történő pedagógiai, gyógypedagógiai és konduktív pedagógiai ellátásának költségeit a (2) és (3) bekezdésben foglaltak szerint téríti a kihelyező közigazgatási szerv.
 
-[^18]: A 36. § a 254/2010. (XI. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^20]: A 36. § a 254/2010. (XI. 8.) Korm. rendelet 10. §-ával megállapított szöveg.

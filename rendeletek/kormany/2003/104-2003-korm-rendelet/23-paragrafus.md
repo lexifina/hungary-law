@@ -2,6 +2,6 @@
 
 23. § (1) A kihelyezettet a külszolgálat során ellátandó feladatkörének megfelelően az 1. számú mellékletben meghatározott külképviseleti munkaköri kulcsszámba kell besorolni. Összevont munkakörök esetén a magasabb szorzószámú munkaköri kulcsszám az irányadó.
 
-(2)[^8] Az alapellátmány összegét a külügyminiszter a közigazgatási és igazságügyi miniszter, valamint az érintett szakminiszterek egyetértésével állapítja meg.
+(2)[^10] Az alapellátmány összegét a külügyminiszter a közigazgatási és igazságügyi miniszter, valamint az érintett szakminiszterek egyetértésével állapítja meg.
 
-[^8]: A 23. § (2) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 23. § (2) bekezdése a 254/2010. (XI. 8.) Korm. rendelet 4. §-ával megállapított szöveg.

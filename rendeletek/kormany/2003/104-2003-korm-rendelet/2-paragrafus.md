@@ -20,7 +20,7 @@ e) kulturális intézet;
 
 4. kihelyezett: kihelyező okirattal tartós külszolgálatot ellátó köztisztviselő és ügykezelő;
 
-5.[^1] diplomata: az a diplomáciai ranggal rendelkező köztisztviselő, aki a külügyminiszter vagy az európai ügyekért felelős tárca nélküli miniszter hatáskörébe tartozó feladatokat belföldön a Külügyminisztériumban vagy az Európai Ügyek Hivatalában, illetve külföldön a Magyar Köztársaság külképviselete munkatársaként végzi;
+5.[^2] diplomata: az a diplomáciai ranggal rendelkező köztisztviselő, aki a külügyminiszter vagy az európai ügyekért felelős tárca nélküli miniszter hatáskörébe tartozó feladatokat belföldön a Külügyminisztériumban vagy az Európai Ügyek Hivatalában, illetve külföldön a Magyar Köztársaság külképviselete munkatársaként végzi;
 
 6. szakdiplomata: az a köztisztviselő, akit központi közigazgatási szerv egy ágazati szakmai feladatnak a Magyar Köztársaság külképviseletén történő ellátására, meghatározott időre helyez át a Külügyminisztériumba;
 
@@ -34,7 +34,7 @@ e) kulturális intézet;
 
 11. szolgálati érdek: a külügyminiszter, illetve a szakmai irányítást ellátó központi közigazgatási szerv vezetőjének feladat- és hatásköréről szóló kormányrendeletekben megállapított feladatok végrehajtásával kapcsolatos érdek;
 
-12.[^2] ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa (a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke);
+12.[^3] ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa (a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke);
 
-[^1]: A 2. § 5. pontja a 356/2004. (XII. 23.) Korm. rendelet 4. § (2) bekezdésének b) pontjával megállapított szöveg.
-[^2]: A 2. § 12. pontja a 254/2010. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 5. pontja a 356/2004. (XII. 23.) Korm. rendelet 4. § (2) bekezdésének b) pontjával megállapított szöveg.
+[^3]: A 2. § 12. pontja a 254/2010. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
