@@ -1,6 +1,6 @@
-## Az országos kisebbségi önkormányzatok költségvetési szerveire vonatkozó különleges szabályok[^107]
+## Az országos kisebbségi önkormányzatok költségvetési szerveire vonatkozó különleges szabályok[^108]
 
-32/A. §[^108] (1) Az országos kisebbségi önkormányzati költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő évre vonatkozó éves ellenőrzési tervét megküldi az országos kisebbségi önkormányzati hivatal vezetőjének minden év november 15-ig.
+32/A. §[^109] (1) Az országos kisebbségi önkormányzati költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő évre vonatkozó éves ellenőrzési tervét megküldi az országos kisebbségi önkormányzati hivatal vezetőjének minden év november 15-ig.
 
 (2) Az országos kisebbségi önkormányzati hivatal belső ellenőrzési vezetője kidolgozza, és az országos kisebbségi önkormányzati hivatal vezetője az országos kisebbségi önkormányzat elnökének minden év december 15-ig megküldi a következő évre vonatkozó éves ellenőrzési tervét, valamint a felügyelete alá tartozó országos kisebbségi önkormányzati költségvetési szervek éves ellenőrzési tervei alapján összeállított összefoglaló éves ellenőrzési tervet.
 
@@ -14,5 +14,5 @@
 
 (7) Az országos kisebbségi önkormányzati hivatal vezetője köteles a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint a felügyelete alá tartozó országos kisebbségi önkormányzati költségvetési szervek éves ellenőrzési jelentései alapján készített éves összefoglaló ellenőrzési jelentést – amelyben értékelést ad a felügyelete alatt működő belső ellenőrzési rendszerekről is – megküldeni az országos kisebbségi önkormányzat elnökének a tárgyévet követő év május 31-ig.
 
-[^107]: A 32/A. §-t megelőző alcímet a 376/2007. (XII. 23.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^108]: A 32/A. §-t a 376/2007. (XII. 23.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^108]: A 32/A. §-t megelőző alcímet a 376/2007. (XII. 23.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^109]: A 32/A. §-t a 376/2007. (XII. 23.) Korm. rendelet 20. § (2) bekezdése iktatta be.

@@ -1,8 +1,8 @@
-## 20. §[^67]
+## 20. §[^68]
 
-21. § (1)[^68] A belső ellenőrzési vezető – összhangban a stratégiai ellenőrzési tervvel – összeállítja a tárgyévet követő évre vonatkozó éves ellenőrzési tervet.
+21. § (1)[^69] A belső ellenőrzési vezető – összhangban a stratégiai ellenőrzési tervvel – összeállítja a tárgyévet követő évre vonatkozó éves ellenőrzési tervet.
 
-(2)[^69] Az éves ellenőrzési tervnek kockázatelemzés alapján felállított prioritásokon és a belső ellenőrzés rendelkezésére álló erőforrásokon kell alapulnia.
+(2)[^70] Az éves ellenőrzési tervnek kockázatelemzés alapján felállított prioritásokon és a belső ellenőrzés rendelkezésére álló erőforrásokon kell alapulnia.
 
 (3) Az éves ellenőrzési terv tartalmazza:
 
@@ -28,6 +28,6 @@ h) az ellenőrzött szerv, illetve szervezeti egységek megnevezését.
 
 (6) Soron kívüli ellenőrzést a költségvetési szerv vezetőjének javaslatára, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni.
 
-[^67]: A 20. §-t a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (3) bekezdése hatályon kívül helyezte.
-[^68]: A 21. § (1) bekezdése a 162/2005. (VIII. 16.) Korm. rendelet 7. §-ával megállapított és a 180/2009. (IX. 4.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
-[^69]: A 21. § (2) bekezdése a 162/2005. (VIII. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 20. §-t a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (3) bekezdése hatályon kívül helyezte.
+[^69]: A 21. § (1) bekezdése a 162/2005. (VIII. 16.) Korm. rendelet 7. §-ával megállapított és a 180/2009. (IX. 4.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
+[^70]: A 21. § (2) bekezdése a 162/2005. (VIII. 16.) Korm. rendelet 7. §-ával megállapított szöveg.

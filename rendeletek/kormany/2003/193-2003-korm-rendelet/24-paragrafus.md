@@ -10,17 +10,17 @@ b) az ellenőr nevét, beosztását, szolgálati igazolványának, illetve – a
 
 c) az ellenőrzött szerv, illetve szervezeti egység megnevezését,
 
-d)[^73]
+d)[^74]
 
 e) az ellenőrzés tárgyát,
 
 f) az ellenőrzésre vonatkozó jogszabályi vagy egyéb felhatalmazásra történő hivatkozást,
 
-g)[^74] a megbízólevél érvényességi idejét,
+g)[^75] a megbízólevél érvényességi idejét,
 
 h) a kiállítás keltét,
 
 i) a kiállításra jogosult aláírását, bélyegzőlenyomatát.
 
-[^73]: A 24. § (2) bekezdés d) pontját a 180/2009. (IX. 4.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.
-[^74]: A 24. § (2) bekezdés g) pontjában a 180/2009. (IX. 4.) Korm. rendelet 17. § (12) bekezdése szerinti módosítást („érvényességének” szövegrész helyébe „hatályának” szöveg lép) nem lehet átvezetni.
+[^74]: A 24. § (2) bekezdés d) pontját a 180/2009. (IX. 4.) Korm. rendelet 16. § (3) bekezdése hatályon kívül helyezte.
+[^75]: A 24. § (2) bekezdés g) pontjában a 180/2009. (IX. 4.) Korm. rendelet 17. § (12) bekezdése szerinti módosítást („érvényességének” szövegrész helyébe „hatályának” szöveg lép) nem lehet átvezetni.

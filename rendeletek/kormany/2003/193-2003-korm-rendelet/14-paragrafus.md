@@ -26,7 +26,7 @@ l) az ellenőrzés során készített iratokat és iratmásolatokat az ellenőrz
 
 (2) Az ellenőrzés megállapításainak bizonyítására felhasználható különösen:
 
-a)[^58] az eredeti okirat, amely a gazdasági esemény elsődleges okirata (bizonylata);
+a)[^59] az eredeti okirat, amely a gazdasági esemény elsődleges okirata (bizonylata);
 
 b) a másolat, amely az eredeti okirat szöveghű, hitelesített másolata. Hitelesítésnél a ,,másolat'' szó feltüntetése mellett utalni kell arra, hogy a másolat az eredeti okirattal mindenben megegyezik;
 
@@ -34,7 +34,7 @@ c) a kivonat, amely az eredeti okirat meghatározott részének, részeinek szö
 
 d) a tanúsítvány, amely több eredeti okiratnak az ellenőr által meghatározott szövegrészét és számszaki adatait tartalmazza. Hitelesítésnél a ,,tanúsítvány'' szó feltüntetése mellett meg kell jelölni, hogy mely okiratok alapján készült;
 
-e)[^59] a közös jegyzőkönyv, amely olyan tényállás igazolására szolgál, amelyről nincs egyéb okirat, de amelynek valódiságát az ellenőr és az ellenőrzött szerv, illetve szervezeti egység illetékes vezetője (alkalmazottja) közösen megállapítja, és e tényt aláírásával igazolja;
+e)[^60] a közös jegyzőkönyv, amely olyan tényállás igazolására szolgál, amelyről nincs egyéb okirat, de amelynek valódiságát az ellenőr és az ellenőrzött szerv, illetve szervezeti egység illetékes vezetője (alkalmazottja) közösen megállapítja, és e tényt aláírásával igazolja;
 
 f) fénykép, videófelvétel vagy más kép-, hang- és adatrögzítő eszköz, amely alkalmazható az ellenőr által szemrevételezett helyzet, állapot hiteles igazolására. A fényképet és az egyéb módon rögzített információkat az ellenőrzött szerv, illetve szervezeti egységnek a rögzítésnél jelen lévő alkalmazottja jegyzőkönyvben hitelesíti a rögzítés időpontjának, helyének és tárgyának megjelölésével;
 
@@ -46,5 +46,5 @@ i) a többes nyilatkozat, amely több személynek külön-külön vagy együttes
 
 (3) A másolatot, a kivonatot és a tanúsítványt az ellenőrzött szerv, illetve szervezeti egység vezetője vagy az általa megbízott személy hitelesíti. A hitelesítő az okiratban foglaltak valódiságát a hitelesítés időpontjának feltüntetése mellett aláírásával igazolja.
 
-[^58]: A 14. § (2) bekezdésének a) pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (4) bekezdése szerint módosított szöveg.
-[^59]: A 14. § (2) bekezdésének e) pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (4) bekezdése szerint módosított szöveg.
+[^59]: A 14. § (2) bekezdésének a) pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (4) bekezdése szerint módosított szöveg.
+[^60]: A 14. § (2) bekezdésének e) pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (4) bekezdése szerint módosított szöveg.

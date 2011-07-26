@@ -1,6 +1,6 @@
 ## Az ellenőrzési program
 
-23. § (1)[^72] A belső ellenőrzési vezető – a 24. § (1) bekezdésében foglaltak figyelembevételével – minden egyes ellenőrzés lefolytatásához megbízólevél aláírásával kijelöli a vizsgálatvezetőt és az ellenőrzéseket lefolytató belső ellenőröket, akik elkészítik az ellenőrzési programot, figyelembe véve
+23. § (1)[^73] A belső ellenőrzési vezető – a 24. § (1) bekezdésében foglaltak figyelembevételével – minden egyes ellenőrzés lefolytatásához megbízólevél aláírásával kijelöli a vizsgálatvezetőt és az ellenőrzéseket lefolytató belső ellenőröket, akik elkészítik az ellenőrzési programot, figyelembe véve
 
 a) az ellenőrzött szerv, illetve szervezeti egység működéséről, gazdálkodásáról rendelkezésre álló információkat;
 
@@ -50,4 +50,4 @@ m) a jóváhagyásra jogosult aláírását, bélyegzőlenyomatát.
 
 (5) A belső ellenőrzési vezető felügyeli az ellenőrzési program végrehajtását.
 
-[^72]: A 23. § (1) bekezdésének felvezető szövege a 67/2007. (IV. 11.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezést a 2007. április 19. napját követően megkezdett ellenőrzések során kell alkalmazni.
+[^73]: A 23. § (1) bekezdésének felvezető szövege a 67/2007. (IV. 11.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezést a 2007. április 19. napját követően megkezdett ellenőrzések során kell alkalmazni.

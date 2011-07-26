@@ -1,6 +1,6 @@
-## Az ellenőrzés megszakítása, felfüggesztése[^76]
+## Az ellenőrzés megszakítása, felfüggesztése[^77]
 
-26/B. §[^77] (1) Az ellenőrzést a belső ellenőrzési vezető megszakíthatja, ha
+26/B. §[^78] (1) Az ellenőrzést a belső ellenőrzési vezető megszakíthatja, ha
 
 a) soron kívüli ellenőrzést kell lefolytatni, vagy
 
@@ -24,5 +24,5 @@ d) az ellenőrzött szerv, illetve szervezeti egység jogsértő magatartása
 
 (5) Az ellenőrzés folytatásáról a belső ellenőrzési vezető írásban értesíti az ellenőrzött szerv, illetve szervezeti egység vezetőjét.
 
-[^76]: A 26/B. §-t megelőző alcímet a 67/2007. (IV. 11.) Korm. rendelet 11. §-a iktatta be.
-[^77]: A 26/B. §-t a 67/2007. (IV. 11.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezést a 2007. április 19. napját követően megkezdett ellenőrzések során kell alkalmazni.
+[^77]: A 26/B. §-t megelőző alcímet a 67/2007. (IV. 11.) Korm. rendelet 11. §-a iktatta be.
+[^78]: A 26/B. §-t a 67/2007. (IV. 11.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezést a 2007. április 19. napját követően megkezdett ellenőrzések során kell alkalmazni.
