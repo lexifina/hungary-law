@@ -1,1 +1,0 @@
-## soron kell megjeleníteni.
