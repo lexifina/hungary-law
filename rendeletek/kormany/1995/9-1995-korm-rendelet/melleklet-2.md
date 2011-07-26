@@ -52,7 +52,7 @@
 
 ## 4.[^19] Építésügyi igazgatási feladatok
 
-## Építésügyi hatósági ügyek döntésre való szakmai előkészítése kiemelt munkakörben:
+## Építésügyi igazgatási (hatósági) kiemelt munkakörben:
 
 ## Az I. besorolási osztályban:
 
@@ -210,7 +210,7 @@
 
 ## középiskolai végzettség és szociális ügyintéző vagy középiskolai végzettség és az OKJ szerint: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens szakképesítés.
 
-## 19. Településfejlesztési és -rendezési, valamint településüzemeltetési feladatok
+## 19.[^22] Településfejlesztési és -rendezési, valamint településüzemeltetési feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -224,7 +224,7 @@
 
 ## Főépítészi munkakörben:
 
-## építészmérnöki egyetemi végzettség.
+## építész mesterképzési szakon szerzett okleveles építészmérnök, vagy azzal egyenértékű szakképzettség, és – a megyei jogú városi, fővárosi, valamint fővárosi kerületi főépítészi munkakör kivételével – településmérnöki mesterképzési szakon szerzett okleveles településmérnök, vagy azzal egyenértékű szakképzettség.
 
 ## 20. Természetvédelmi igazgatási feladatok
 
@@ -296,7 +296,7 @@
 
 ## középiskolai végzettség és közgazdasági szakképzettség vagy középiskolai végzettség és az OKJ szerint: pénzügyi-számviteli szakképesítés, gazdasági elemző és szakstatisztikus ügyintéző, banki ügyintéző szakképesítés.
 
-## 3.[^22] Belső ellenőrzési feladatok
+## 3.[^23] Belső ellenőrzési feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -352,11 +352,12 @@
 
 ## egyetemi vagy főiskolai szintű közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség és nyelvvizsga.
 
-2. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^23]
+2. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^24]
 
 [^18]: OKJ = 7/1993. (XII. 30.) MüM rendelet az Országos Képzési Jegyzékről.
-[^19]: Az 1. számú melléklet I. pontjának 4. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet I. pontjának 4. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
 [^20]: Az 1. számú melléklet I. 5. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
 [^21]: Az 1. számú melléklet I. részének 17. pontja a 256/2009. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 1. számú melléklete II. fejezetének 3. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (6) bekezdésével megállapított szöveg.
-[^23]: A 2. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^22]: Az. 1. számú melléklet I. pont 19. alpontja a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^23]: Az 1. számú melléklete II. fejezetének 3. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (6) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
