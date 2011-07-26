@@ -1,6 +1,6 @@
-## [A Kjt. 40. §-ának (12) bekezdéséhez és 85. § (3) bekezdésének ce) pontjához][^53]
+## [A Kjt. 40. §-ának (12) bekezdéséhez és 85. § (3) bekezdésének ce) pontjához][^51]
 
-## 8. §[^54]
+## 8. §[^52]
 
 (1) A Kt. 40. §-ának (11) bekezdésében szabályozott minőségirányítási programban a teljesítményértékelési szempontok mellett meg kell állapítani az egyes szempontok értékelésekor adható maximális pontszámokat is az alábbiak szerint:
 
@@ -26,5 +26,5 @@ d) harminc százalék alatt alkalmatlan
 
 (3) Minden olyan esetben, amikor jogszabály a munka értékelése tekintetében, illetőleg valamely jogkövetkezmény – ideértve a munkaügyi jogvita kezdeményezésének lehetőségét is – alkalmazásakor minősítést említ, azon a közoktatási intézményekben foglalkoztatottaknál a teljesítményértékelést, illetőleg annak eredményét kell érteni.
 
-[^53]: A 8. §-t megelőző jogszabályi hivatkozást a 323/2008. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^54]: A 8. §-t hatályon kívül helyezte a 156/2001. (IX. 12.) Korm. rendelet 9. § (3) bekezdése, újonnan a 323/2008. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^51]: A 8. §-t megelőző jogszabályi hivatkozást a 323/2008. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^52]: A 8. §-t hatályon kívül helyezte a 156/2001. (IX. 12.) Korm. rendelet 9. § (3) bekezdése, újonnan a 323/2008. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
