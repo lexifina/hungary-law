@@ -1,0 +1,9 @@
+# 130/2011. (VII. 18.) Korm. rendelet
+
+a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-130-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-07-26 | 2011-130-20-22.1 | 130/2011. (VII. 18.) Korm. rendelet |
