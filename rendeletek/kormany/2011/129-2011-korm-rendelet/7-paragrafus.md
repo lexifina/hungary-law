@@ -1,0 +1,1 @@
+## 6. § E rendelet szabályait a hatálybalépését követően megkötött, a 2012–2014. éveket érintő – a 3. § szerinti – kötelezettségvállalásokra, illetve kihirdetett kormányrendeletekre, miniszteri rendeletekre kell alkalmazni.
