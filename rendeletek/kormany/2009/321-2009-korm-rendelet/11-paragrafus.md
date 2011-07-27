@@ -28,7 +28,7 @@ b) a szociális szolgáltatónak, intézménynek,
 
 c) másolatban az igazgatóságnak,
 
-d)[^27] támogató szolgáltatást, közösségi ellátást vagy jelzőrendszeres házi segítségnyújtást nyújtó szociális szolgáltató, intézmény esetén másolatban a Hivatalnak.
+d)[^27] támogató szolgáltatást, közösségi ellátást, jelzőrendszeres házi segítségnyújtást vagy utcai szociális munkát nyújtó szociális szolgáltató, intézmény esetén másolatban a Hivatalnak.
 
 e)[^28]
 
@@ -38,5 +38,5 @@ e)[^28]
 [^24]: A 11. § (4) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^25]: A 11. § (6) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^26]: A 11. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^27]: A 11. § (8) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 35. § e) pontja szerint módosított szöveg.
+[^27]: A 11. § (8) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 35. § e) pontja, a 140/2011. (VII. 21.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^28]: A 11. § (8) bekezdés e) pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés e) pontja hatályon kívül helyezte.
