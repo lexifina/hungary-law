@@ -20,7 +20,7 @@ g) a nem állami és egyházi fenntartók által igénybe vehető normatív áll
 
 i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 
-j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az adatközlés módjára és idejére vonatkozó szabályokat, továbbá az országos jelentési rendszert működtető szerv vagy szervek kijelölését,
+j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
 
 k) a 3. § (3) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 
@@ -32,7 +32,7 @@ n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
 o) a szociális intézmények, szolgáltatók országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését;
 
-p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás és a közösségi ellátások finanszírozásának rendjére vonatkozó részletes szabályokat;
+p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 
 q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 
@@ -44,7 +44,9 @@ t) az energiafelhasználási támogatás mértékére, a támogatásra való jog
 
 u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
 
-v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét.
+v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
+
+w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 

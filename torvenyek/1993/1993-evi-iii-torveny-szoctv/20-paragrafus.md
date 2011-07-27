@@ -10,7 +10,7 @@ c) a kérelmező állampolgársága, bevándorolt, letelepedett vagy menekült, 
 
 d) a kérelmező cselekvőképességére vonatkozó adat,
 
-e) a kérelmező törvényes képviselője, továbbá a kérelmező megnevezett hozzátartozója természetes személyazonosító adatai, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
+e) a kérelmező törvényes képviselője, továbbá a kérelmező megnevezett hozzátartozója neve, születési neve, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
 
 f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének időpontja,
 
@@ -36,7 +36,7 @@ a) a (2) és (4) bekezdés szerinti adattartalmú nyilvántartást családsegít
 
 b) családsegítés esetén a (2) bekezdés g) pontja szerinti adatokat,
 
-c) étkeztetés, családsegítés, idősek nappali ellátása, szenvedélybetegek nappali ellátása, pszichiátriai betegek nappali ellátása esetén a (2) bekezdés h) pontja szerinti adatokat.
+c) étkeztetés, családsegítés, közösségi ellátások, idősek nappali ellátása, szenvedélybetegek nappali ellátása, pszichiátriai betegek nappali ellátása esetén a (2) bekezdés h) pontja szerinti adatokat.
 
 (6) Nappali melegedő, éjjeli menedékhely esetén kizárólag a (2) bekezdés a) pontja és a (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
 

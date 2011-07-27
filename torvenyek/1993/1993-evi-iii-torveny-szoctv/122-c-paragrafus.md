@@ -1,4 +1,4 @@
-122/C. § (1) Ha a szerződéssel érintett szolgáltatás ellenértéke nem éri el a közbeszerzési értékhatárt, az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint egy országos napilapban közzé kell tenni.
+122/C. § (1) Szerződéses szolgáltatások esetén az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint egy országos napilapban közzé kell tenni.
 
 (2) A pályázatot elbíráló bizottság tagjai
 

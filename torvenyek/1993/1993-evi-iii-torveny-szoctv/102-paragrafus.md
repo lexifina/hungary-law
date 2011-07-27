@@ -1,4 +1,4 @@
-102. § (1) Egyházi és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/D. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
+102. § (1) Egyházi és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/C. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
 
 (2) Ápolást, gondozást nyújtó intézmény és ápoló, gondozó célú lakóotthon esetén a fenntartó a megállapodást akkor mondhatja fel, ha az ellátott a házirendet súlyosan megsérti.
 

@@ -38,4 +38,6 @@ d) a személyi térítési díj megállapítására, fizetésére vonatkozó sza
 
 e) egyszeri hozzájárulás megfizetésének kötelezettsége esetén a hozzájárulás összegét, továbbá az annak beszámítására, teljes vagy részleges visszafizetésére vonatkozó szabályokat,
 
-f) az ellátás megszüntetésének módjait.
+f) az ellátás megszüntetésének módjait,
+
+g) az igénybevevő természetes személyazonosító adatait.

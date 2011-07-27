@@ -1,4 +1,4 @@
-122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés – függetlenül a közbeszerzés vagy a pályáztatás alkalmazásától – tartalmazza
+122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés tartalmazza
 
 a) a szolgáltató nevét, székhelyét és adószámát,
 
