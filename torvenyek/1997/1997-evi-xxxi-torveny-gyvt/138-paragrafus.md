@@ -1,6 +1,6 @@
 138. § (1) A jegyző az ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait,
+a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait és a gyermek társadalombiztosítási azonosító jelét,
 
 b) a 4. § (1) bekezdésének b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
 

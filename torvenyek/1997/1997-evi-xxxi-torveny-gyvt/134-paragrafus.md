@@ -26,6 +26,6 @@ a) a gyermekvédelmi és gyámügyi igazgatási eljárás során az eljárása a
 
 b) a gyámsággal és a gondnoksággal kapcsolatos ügyekben, valamint a kiskorúak vagyoni ügyeiben – vagyoni érdekei védelmében – a gyámság, gondnokság alatt álló, illetve a kiskorú személy valamennyi ingatlanára vonatkozóan a tulajdoni lapon szereplő adatokról adatszolgáltatást kérhet az ingatlanügyi hatóságtól.
 
-(6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, közoktatási és felsőoktatási intézmény, igazságszolgáltatási és ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
+(6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, közoktatási és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
 
 (7) Az e törvény alapján elrendelt adatkezelésre és az adatok védelmére egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései az irányadóak.

@@ -14,13 +14,33 @@
 
 (7) A fenntartó kezdeményezi a gyámhivatalnál a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó működési engedéllyel rendelkező gyermekjóléti szolgálatok és lakásotthonok közül a módszertani feladatokat ellátó intézmény kijelölését, azzal, hogy ellátási típusonként a megyében egy, a fővárosban két módszertani intézet működhet. A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(8) A miniszter – pályázat útján, a fenntartó egyetértésével
+(8) A miniszter pályázat útján, a fenntartó egyetértésével
 
-a) a gyermekek napközbeni ellátását biztosító intézmények, illetve a gyermekotthonok közül regionális módszertani feladatokat ellátó intézményt,
+a) a bölcsődék, illetve a gyermekotthonok közül regionális módszertani feladatokat ellátó intézményt,
 
-b) az átmeneti gondozást biztosító otthonok, a nevelőszülői hálózatok, a speciális gyermekotthonok, a területi gyermekvédelmi szakszolgálatok, illetve a gyermekjóléti és gyermekvédelmi innovatív szolgáltatást alaptevékenységként végző, jogi személyiséggel és működési engedéllyel rendelkező szervezetek közül országos hatáskörrel módszertani feladatokat ellátó intézményt
+b) a családok átmeneti otthona, a nevelőszülői hálózatok, a területi gyermekvédelmi szakszolgálatok közül országos hatáskörrel módszertani feladatokat ellátó intézményt
 
 jelöl ki. A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
+
+(8a) A Kormány által kijelölt szerv látja el országos hatáskörrel
+
+a) a családi napközi szolgáltatással,
+
+b) a házi gyermekfelügyelet szolgáltatással,
+
+c) a családi gyermekfelügyelet szolgáltatással,
+
+d) a 41. § (4) bekezdése szerinti ellátásokkal,
+
+e) a helyettes szülői ellátással,
+
+f) a gyermekek átmeneti otthonával,
+
+g) a különleges gyermekotthoni ellátással,
+
+h) a speciális gyermekotthoni ellátással
+
+kapcsolatos módszertani feladatokat.
 
 (9) A kijelölt módszertani intézmény feladatkörében
 

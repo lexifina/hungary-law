@@ -12,7 +12,7 @@ d) a gyámhivatal vagy gyámhivatalok kijelölését, szervezetét, a gyámható
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
-f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 
 g) a személyes adatok kezelésére vonatkozó részletes eljárási szabályokat,
 
@@ -30,7 +30,7 @@ m) a települési önkormányzat jegyzőjének hatáskörébe utalt pénzbeli é
 
 n) a gyámhatóságként eljáró települési önkormányzat jegyzőjének illetékességére vonatkozó szabályokat,
 
-o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az adatközlés módjára és idejére vonatkozó szabályokat, továbbá az országos jelentési rendszert működtető szerv vagy szervek kijelölését,
+o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 
 p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
 
@@ -42,11 +42,15 @@ s) a nem állami és egyházi fenntartók által igénybe vehető normatív áll
 
 t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 
-u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait.
+u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
+
+v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
+
+w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és a személyek szakmai feladatait, működésük feltételeit,
+a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait,
 
 b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait,
 
