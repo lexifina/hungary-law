@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1978-4-00-00
 | 2011-03-09 | 2011. évi II. törvény | 1978-4-00-00.89 |
 | 2011-05-07 | 2011. évi LXIII. törvény | 1978-4-00-00.90 |
 | 2011-07-13 | 2011. évi LXXXIX. törvény | 1978-4-00-00.91 |
+| 2011-07-27 | 2011. évi CXII. törvény | 1978-4-00-00.92 |
