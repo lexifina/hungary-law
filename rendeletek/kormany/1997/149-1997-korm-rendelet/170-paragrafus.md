@@ -1,18 +1,12 @@
-## 169. § Ha magyar állampolgár vagy Magyarországon lakó, illetve tartózkodó személy kíván külföldi állampolgár vagy külföldön lakó, illetve tartózkodó személlyel szemben tartásdíj fizetése iránt igényt érvényesíteni, a gyámhatóság tájékoztatja, hogy kérelmével a lakóhelye szerint illetékes elsőfokú bírósághoz kell fordulnia.
+## Eljárás a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény alapján előterjesztett kérelmek ügyében[^712]
 
-170. §[^710] (1) Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, a kérelmet
-
-a) ha az az Amerikai Egyesült Államokból érkezik, az igazságügyért felelős miniszterhez, mint viszonosság alapján eljáró átvevő hatósághoz,
-
-b) az a) pont alá nem tartozó esetekben a miniszterhez, mint kijelölt átvevő hatósághoz [az a)–b) pontban foglalt hatóságok a továbbiakban együtt: átvevő hatóság]
-
-## kell benyújtani.
+170. §[^713] (1)[^714] Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, és a külföldön lakó vagy tartózkodó személy olyan államnak a polgára, illetve lakóhelye vagy tartózkodási helye olyan államban van, amellyel a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény kerül alkalmazásra, a kérelmet a miniszterhez, mint kijelölt átvevő hatósághoz (a továbbiakban: átvevő hatóság) kell benyújtani.
 
 (2) Az átvevő hatóság a kérelmet továbbítja az elsőfokú gyámhatósághoz.
 
 (3) Az átvevő hatóság megkeresése alapján az eljárás lefolytatására az a gyámhatóság illetékes, amelynek a területén van annak a személynek a lakóhelye, ennek hiányában tartózkodási helye, aki ellen az igényt érvényesíteni kívánják.
 
-(4) Ha a külföldön lakó vagy tartózkodó személy olyan államnak a polgára, illetve lakóhelye vagy tartózkodási helye olyan államban van, amely csatlakozott a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezményhez és a gyermektartási kötelezettség tárgyában hozott határozatok elismeréséről és végrehajtásáról szóló, Hágában, 1958. április 15-én aláírt egyezményhez, a gyámhatóság eljárása során mindkét egyezményt alkalmazza, továbbá eljár kétoldalú nemzetközi egyezmény és viszonosság alapján is.
+(4)[^715]
 
 (5) A jegyző a külföldön lakó vagy tartózkodó személy tartásdíj iránti igényének érvényesítésével kapcsolatos ügyben a belföldi adós meghallgatásáról soron kívül intézkedik.
 
@@ -24,4 +18,7 @@ b) az a) pont alá nem tartozó esetekben a miniszterhez, mint kijelölt átvev�
 
 (9) A gyámhatóság a tartásdíj iránti igény érvényesítése ügyében folytatott eljárási cselekményeiről jelentést tesz a miniszternek.
 
-[^710]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^712]: A 170. §-t megelőző alcímet a 140/2011. (VII. 21.) Korm. rendelet 17. §-a iktatta be.
+[^713]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^714]: A 170. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^715]: A 170. § (4) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 20. §-a hatályon kívül helyezte.
