@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2010-12-31 | 2010. évi CLXXXI. törvény | 1997-78-00-00.37 |
 | 2011-01-01 | 2010. évi CXVI. törvény | 1997-78-00-00.38 |
 | 2011-03-30 | 2010. évi CXVI. törvény | 1997-78-00-00.39 |
+| 2011-07-27 | 2011. évi CVI. törvény | 1997-78-00-00.40 |
