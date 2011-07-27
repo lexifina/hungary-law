@@ -2,9 +2,9 @@
 
 a) a tárgyévet megelőző évben benyújtott kérelem esetén tárgyév január 16-áig,
 
-b)[^10] tárgyévben benyújtott kérelem esetén a kérelem megérkezését követő naptól számított harminc napon belül,
+b)[^11] tárgyévben benyújtott kérelem esetén a kérelem megérkezését követő naptól számított harminc napon belül,
 
-c)[^11] az igénylési határidő elmulasztása esetén a kérelem megérkezését követő naptól számított két hónapon belül
+c)[^12] az igénylési határidő elmulasztása esetén a kérelem megérkezését követő naptól számított két hónapon belül
 
 határoz.
 
@@ -28,5 +28,5 @@ g) a normatíva elszámolásának határidejét és módját,
 
 h) a normatíva felhasználásáról való elszámolás és ellenőrzés rendjéről, a köztartozás esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
 
-[^10]: A 4. § (1) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^11]: A 4. § (1) bekezdés c) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés c) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.

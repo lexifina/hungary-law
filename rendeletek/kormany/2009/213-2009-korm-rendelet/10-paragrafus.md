@@ -4,7 +4,7 @@
 
 (2) Jogtalan igénybevételnek minősül
 
-a) az utcai szociális munka után igénybe vehető normatíva arányos része, ha az igazolt munkaórák száma nem éri el az ezret, illetve törtévi működés esetén annak időarányos részét,
+a)[^29] az utcai szociális munka után igénybe vehető normatíva arányos része, ha az igazolt munkaórák száma nem éri el az ezret, illetve törtévi működés esetén annak időarányos részét,
 
 b) a falugondnoki, tanyagondnoki szolgáltatás után igénybe vehető normatíva arányos része, ha az igazolt munkaórák száma nem éri el a kétezret, illetve törtévi működés esetén annak időarányos részét,
 
@@ -33,3 +33,5 @@ c) a jogtalan igénybevételt az igazgatóság ellenőrzés során állapítja m
 (7) Új fenntartó esetén az igénybevételi kamat mértéke az (5)–(6) bekezdésben meghatározott kamatmértéknek a tárgyévi finanszírozás időtartamának figyelembevételével számított időarányos része. Megszűnt fenntartó esetén az igénybevételi kamat mértéke a jegybanki alapkamat kétszeresének a tárgyévi finanszírozás időtartamának figyelembevételével számított időarányos része, ha a visszafizetési kötelezettség az elszámolás során keletkezik, vagy a jogtalan igénybevételt az igazgatóság ellenőrzés során állapítja meg.
 
 (8) Ha a jogtalanul igénybe vett normatíva összege nem haladja meg az ötszázezer forintot, az igénybevételi kamat mértéke az (5)–(7) bekezdésben meghatározott kamatmérték ötven százaléka.
+
+[^29]: [A 10. § (2) bekezdés a) pontját a 140/2011. (VII. 21.) Korm. rendelet 29. § (2) bekezdés b) pontja hatályon kívül helyezte. E módosító rendelet 31. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.]

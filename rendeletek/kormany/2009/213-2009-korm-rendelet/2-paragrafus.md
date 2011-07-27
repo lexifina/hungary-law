@@ -14,16 +14,17 @@ nyújthatja be. Az adatlap és az elektronikus formanyomtatvány adattartalmát 
 
 (5) Ha a fenntartó év közben új szolgáltatóra vagy szolgáltatásra kap jogerős működési engedélyt, illetve valamely szolgáltatójának vagy szolgáltatásának működési engedélyét év közben visszavonják, e szolgáltatók, illetve szolgáltatások után a normatíva időarányosan illeti meg, amennyiben az igénybevétel egyéb feltételeinek megfelel.
 
-(6) A költségvetési törvény alkalmazása során utcai szociális munka esetén egy szolgálatnak egy jogerős működési engedéllyel rendelkező szolgáltató minősül. Telephellyel rendelkező szolgáltató esetén külön szolgálatnak az az ellátást nyújtó székhely, illetve telephely minősül, amelynek működési engedélyében az utcai szociális munka szerepel.
+(6)[^5] A költségvetési törvény alkalmazása során utcai szociális munka esetén egy szolgálatnak egy jogerős működési engedéllyel rendelkező szolgáltató minősül. Telephellyel rendelkező szolgáltató esetén külön szolgálatnak az az ellátást nyújtó székhely, illetve telephely minősül, amelynek működési engedélyében az utcai szociális munka szerepel.
 
-(7)[^5] Az e rendelet szerinti eljárásokban a fenntartó számára hiánypótlásra nyitva álló határidő a felhívás közlését követő nyolc nap.
+(7)[^6] Az e rendelet szerinti eljárásokban a fenntartó számára hiánypótlásra nyitva álló határidő a felhívás közlését követő nyolc nap.
 
-(8)[^6] Ha a fenntartó a normatíva iránti kérelmet – ide értve a kérelem 5. § (1) bekezdés szerinti módosítását, a pótigényt és a lemondást –, illetve az elszámolást hibásan nyújtja be, az igazgatóság a felhívás közlését követő nyolc napos határidővel nyilatkozattételre hívja fel.
+(8)[^7] Ha a fenntartó a normatíva iránti kérelmet – ide értve a kérelem 5. § (1) bekezdés szerinti módosítását, a pótigényt és a lemondást –, illetve az elszámolást hibásan nyújtja be, az igazgatóság a felhívás közlését követő nyolc napos határidővel nyilatkozattételre hívja fel.
 
 (9) Ha jogszabály másként nem rendelkezik, az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó és a szolgáltató köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.
 
 [^2]: A 2. § (2) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdés záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^5]: A 2. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § d) pontja szerint módosított szöveg.
-[^6]: A 2. § (8) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § e) pontja szerint módosított szöveg.
+[^5]: [A 2. § (6) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 29. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 31. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^6]: A 2. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § d) pontja szerint módosított szöveg.
+[^7]: A 2. § (8) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § e) pontja szerint módosított szöveg.
