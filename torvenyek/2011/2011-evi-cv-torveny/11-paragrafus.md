@@ -1,0 +1,3 @@
+11. § Az Mt. 136. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A munkavállaló munkaviszonya megszűnésekor, ha a munkáltatónál eltöltött idővel arányos szabadságot nem kapta meg, azt pénzben kell megváltani. A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a munkavállaló a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani. Egyéb esetben a szabadságot pénzben megváltani nem lehet; ettől érvényesen eltérni nem lehet.”
