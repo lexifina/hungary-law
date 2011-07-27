@@ -1,0 +1,1 @@
+Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megteremtése és a munkaképes lakosság munkához juttatása, az álláskeresők foglalkoztatásának elősegítése érdekében az alábbi törvényt alkotja:
