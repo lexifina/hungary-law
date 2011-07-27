@@ -1,6 +1,6 @@
 ## 11. § A városi gyámhivatal a vagyonkezeléssel kapcsolatban
 
-a)[^19] dönt a gyermekek és gondnokoltak készpénzvagyonának gyámi fenntartásos betétben vagy fizetési számlán történő elhelyezéséről, illetve az elhelyezett pénz felhasználásáról, államilag garantált értékpapírba, biztosítási kötvénybe történő befektetéséről, letétben kezeléséről, valamint egyéb tárgyak letétbe helyezéséről,
+a)[^20] dönt a gyermekek és gondnokoltak készpénzvagyonának gyámi fenntartásos betétben vagy fizetési számlán történő elhelyezéséről, illetve az elhelyezett pénz felhasználásáról, államilag garantált értékpapírba, biztosítási kötvénybe történő befektetéséről, letétben kezeléséről, valamint egyéb tárgyak letétbe helyezéséről,
 
 b) dönt a gyám, a gondnok vagyon- és bérlakás kezeléséhez kapcsolódó jognyilatkozata érvényességéhez szükséges jóváhagyásról,
 
@@ -12,4 +12,4 @@ e) közreműködik a gyermekek, gondnokoltak ingó és ingatlan vagyonával és 
 
 f) közreműködik a hagyatéki eljárásban.
 
-[^19]: A 11. § a) pontja a 314/2009. (XII. 28.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^20]: A 11. § a) pontja a 314/2009. (XII. 28.) Korm. rendelet 42. §-a szerint módosított szöveg.
