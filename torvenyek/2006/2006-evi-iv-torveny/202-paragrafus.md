@@ -2,7 +2,7 @@
 
 202. § (1) A részvénytársaság igazgatósága vagy – (2) bekezdés szerinti – megbízottja a részvényesről, ideértve az ideiglenes részvény tulajdonosát is, részvénykönyvet vezet, amelyben nyilvántartja a részvényes, illetve a részvényesi meghatalmazott (a továbbiakban együtt: részvényes) – közös tulajdonban álló részvény esetén a közös képviselő – nevét (cégét) és lakóhelyét (székhelyét), részvénysorozatonként a részvényes részvényeinek, ideiglenes részvényeinek darabszámát (tulajdoni részesedésének mértékét), valamint egyéb, törvényben és a részvénytársaság alapszabályában meghatározott adatokat. A részvénykönyv törölt adatainak megállapíthatónak kell maradniuk.
 
-(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak vagy pénzügyi intézménynek adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
+(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak, pénzügyi intézménynek, ügyvédnek vagy könyvvizsgálónak (ide nem értve a számviteli törvény szerinti kötelező könyvvizsgálat esetén a választott könyvvizsgálót), valamint közjegyzőnek, jogtanácsosnak adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
 
 (3) A részvény átruházása a részvénytársasággal szemben akkor hatályos és a részvényes a részvénytársasággal szemben részvényesi jogait csak akkor gyakorolhatja, ha a részvényest a részvénykönyvbe bejegyezték.
 
