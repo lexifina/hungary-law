@@ -15,3 +15,5 @@
 (3) A közjegyző folytatja le a hatáskörébe utalt hagyatéki eljárást és egyéb nemperes eljárásokat.
 
 (4) A közjegyző a jogszabály által meghatározott hatáskörében az állam igazságszolgáltató tevékenysége részeként jogszolgáltató hatósági tevékenységet végez.
+
+(5) A közjegyző a gazdasági társaságokról szóló törvény szerinti részvénykönyvvezetést is végezhet.
