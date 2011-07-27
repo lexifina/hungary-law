@@ -5,13 +5,3 @@
 ## (6) Az (5) bekezdésben meghatározott egyedi felmentés megadható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is, ha azok határidőben való ellátása a rendelkezésre álló erőforrások mellett más módon nem lehetséges. Az egyedi felmentés határozott időre adható meg. Az egyedi felmentés megadását megelőzően a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a tervezett egyedi felmentés indokáról, tartalmáról és időtartamáról a Kormányt tájékoztatja.”
 
 (2) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 224/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) E § alkalmazásában a nemzeti adatvagyon körébe tartozó állami nyilvántartás az a nyilvántartás, amelyben adat feldolgozását törvény alapján – a törvényben meghatározott egyedi felmentés esetét kivéve – kizárólag állami szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet végezheti, függetlenül attól, hogy az adatfeldolgozást ténylegesen ilyen szerv vagy szervezet látja-e el.”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

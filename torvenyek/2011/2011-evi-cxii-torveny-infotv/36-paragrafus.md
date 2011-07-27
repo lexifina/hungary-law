@@ -1,1 +1,0 @@
-36. § A 37. §-ban meghatározott közzétételi listákban szereplő adatok közzététele nem érinti az adott szervnek a közérdekű vagy közérdekből nyilvános adatok közzétételével kapcsolatos, más jogszabályban meghatározott kötelezettségeit.
