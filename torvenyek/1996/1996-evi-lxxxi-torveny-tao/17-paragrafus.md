@@ -8,7 +8,7 @@
 
 (4) A mezőgazdasági ágazatba sorolt adózó az elhatárolt veszteséget az adóévet megelőző két adóévben befizetett adójának önellenőrzéssel való módosításával is rendezheti oly módon, hogy a megelőző két adóév adózás előtti eredményét csökkenti az elhatárolt veszteség összegével. Ha ezzel nem él, vagy ha a veszteségének csak egy részét rendezi a megelőző két adóév terhére, a fennmaradó részre az (1)–(3) bekezdés rendelkezései alkalmazhatók.
 
-(5)
+(5) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság az (1) bekezdés rendelkezéseit nem alkalmazhatja.
 
 (6) Ha a privatizációs lízingszerződés időtartama alatt az adózónál vagyonvesztés történik vagy a törlesztés meghiúsul és az állam nevében szerződő azonnali hatállyal nem mondja fel a szerződést, a vagyonvesztés vagy a törlesztés meghiúsulása évében az adózó az (1)–(2) bekezdésben foglalt veszteségelhatárolást nem alkalmazhatja.
 

@@ -164,6 +164,12 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 30. pályakezdő: a munkavállaló a középfokú nevelési-oktatási vagy a felsőoktatási intézménnyel nappali képzés keretében fennálló jogviszonya megszűnését, illetve a tanulói jogviszonya tankötelezettség címén való megszűnését követő egy naptári éven belül létesített első munkaviszonyában, illetve első munkavégzésre irányuló egyéb jogviszonyában;
 
+30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
+
+30/b. szabályozott ingatlanbefektetési projekttársaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott projekttársaság;
+
+30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
+
 31.
 
 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
@@ -174,7 +180,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 32. szoftverfejlesztő: egyetemi vagy főiskolai oklevéllel rendelkező, szoftvereket, adatállományokat, adatbázisokat, szakértői rendszereket, robottechnikát és döntési modelleket kutató, tervező vagy fejlesztő magánszemély, aki az említett tevékenységek érdekében, a számítógép operációs rendszerének ismeretében programokat, rutinokat ír, tesztel, vizsgál;
 
-32/a. társaság: a gazdasági társaság, az egyesülés, a szövetkezet, továbbá a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
+32/a. társaság: a gazdasági társaság (ideértve a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, a szövetkezet, továbbá a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
 
 a) az Európai Unión kívüli állammal a jövedelem- és vagyonadók tárgyában kötött, hatályos nemzetközi szerződés szerint nem bír belföldi illetőséggel az Európai Unión kívüli államban, valamint
 

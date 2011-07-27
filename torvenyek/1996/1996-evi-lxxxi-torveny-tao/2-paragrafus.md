@@ -4,7 +4,7 @@
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
-a) a gazdasági társaság (ideértve a nonprofit gazdasági társaságot is), az egyesülés és az európai részvénytársaság (ideértve az európai holding részvénytársaságot is) és az európai szövetkezet,
+a) a gazdasági társaság (ideértve a nonprofit gazdasági társaságot, a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, az európai részvénytársaság (ideértve az európai holding részvénytársaságot is) és az európai szövetkezet,
 
 b) a szövetkezet,
 
