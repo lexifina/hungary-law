@@ -1,14 +1,6 @@
 ## A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-24. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban : Kjt.) a következő 25/E. §-sal egészül ki:
-
-„25/E. § Ha a költségvetési szerv úgy szűnik meg, hogy az alapító szerv döntése alapján a többcélú intézmény valamely szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja az e törvény hatálya alá tartozó más munkáltató számára kerül átadásra, a költségvetési szerv
-
-a) átadásra kerülő szervezeti egységében foglalkoztatott személy közalkalmazotti jogviszonyára a 26. §-t,
-
-b) átadásra nem kerülő foglalkoztatottja esetében a 25. § (1) bekezdés c) pontját
-
-kell alkalmazni.”
+24. § (1)
 
 (2) A Kjt. 80. §-a helyébe a következő rendelkezés lép:
 
