@@ -16,6 +16,6 @@
 
 ## 8. a kérelem elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-2. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^148]
+2. számú melléklet a 259/2002. (XII. 18.) Korm. rendelethez[^150]
 
-[^148]: A 2. számú mellékletet a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának be) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 15. §-a iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^150]: A 2. számú mellékletet a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának be) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 15. §-a iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.

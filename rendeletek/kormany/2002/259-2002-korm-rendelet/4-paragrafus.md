@@ -126,6 +126,8 @@ szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harm
 
 (10)[^60] Családi gyermekfelügyelet engedélyezése esetén ki kell kérni a kistérségi népegészségügyi intézet – a szolgáltató székhelye, telephelye szerint illetékes – vezető védőnőjének (a továbbiakban: védőnő) véleményét. A védőnő – a megkereséstől számított tizenöt napon belül – helyszíni vizsgálat alapján azt véleményezi, hogy a családi gyermekfelügyelet körülményei alkalmasak-e a 2–4 éves gyermekek ellátására.
 
+(11)[^61] A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – valamennyi szolgáltató tevékenység engedélyezése esetén szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+
 [^23]: A 4. § (1) bekezdésének a) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
 [^24]: A 4. § (1) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
 [^25]: A 4. § (1) bekezdésének d) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -164,3 +166,4 @@ szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harm
 [^58]: A 4. § (9) bekezdés c) pont ca) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^59]: A 4. § (9) bekezdés c) pont cd) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 7. pontja szerint módosított szöveg.
 [^60]: A 4. § (10) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés g) pontja, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^61]: A 4. § (11) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 21. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## A működési engedély visszavonása
 
-10. §[^103] (1) A működést engedélyező szerv a működési engedélyt visszavonja
+10. §[^105] (1) A működést engedélyező szerv a működési engedélyt visszavonja
 
 a) a fenntartó – jogszabályoknak és az ellátási szerződésben foglaltaknak megfelelő – kérelmére,
 
@@ -34,4 +34,4 @@ b) a fenntartó egyéni vállalkozó cselekvőképességet kizáró vagy korlát
 
 c) ha a fenntartó egyéni vállalkozó egyéni céget alapított, vagy átruházással megszerezte az egyéni cég vagyoni betétjét, és határidőben benyújtott kérelmére a fenntartóváltozást engedélyezik.
 
-[^103]: A 10. § a 320/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (5)–(7) bekezdését.
+[^105]: A 10. § a 320/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (5)–(7) bekezdését.

@@ -4,7 +4,7 @@
 
 a) székhely: a központi ügyintézés helye, függetlenül attól, hogy a székhelyen ellátást nyújtanak-e;
 
-b)[^2] telephely: a bölcsőde, a hetes bölcsőde, a családi napközi, a Gyvt. 41. §-ának (4) bekezdése szerinti ellátások, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon, az utógondozó otthon esetén az a székhelytől különböző, a szolgáltató (intézmény) használatában lévő hely, ahol az ellátást nyújtják;
+b)[^2] telephely: a bölcsőde, a hetes bölcsőde, a családi napközi, a Gyvt. 41. §-ának (4) bekezdése szerinti ellátások, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon, az utógondozó otthon esetén az a székhelytől különböző, a szolgáltató (intézmény) használatában lévő hely, ahol az ellátást nyújtják, a félutas ház kivételével;
 
 c) a szolgáltató tevékenység típusai:
 
@@ -47,7 +47,7 @@ i)[^9] ellátási kötelezettséget teljesítő állami fenntartó: a központi 
 j)[^10] működtető: az a személy vagy szervezet, amely a fenntartó által biztosított működési feltételek között a helyettes szülői hálózatot, a nevelőszülői hálózatot, illetve a külső férőhelyen biztosított utógondozói ellátást szervezi.
 
 [^1]: Az 1. §-t a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 2. § b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ba) alpontja szerint módosított szöveg.
+[^2]: A 2. § b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ba) alpontja, a 140/2011. (VII. 21.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § d) pontjának da) alpontja a 376/2004. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 24. §-ának (2) bekezdése alapján a működés engedélyezésére és ellenőrzésére vonatkozó rendelkezéseket a 2005. január 1. napját követően indult ügyekben kell alkalmazni. További alkalmazási rendelkezések tekintetében lásd e módosító rendelet 24. §-ának (5)–(7) bekezdését.
 [^4]: A 2. § d) pont db) alpontja a 320/2009. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
 [^5]: A 2. § e) pontja a 320/2009. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
