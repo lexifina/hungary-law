@@ -1,45 +1,139 @@
-## Foglalkoztatási és Szociális Adatbázis
+## Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv az Szt.-ben meghatározott aktív korúak ellátására jogosult személyekről a munkaerő-piaci helyzetük javítása, a jegyző, valamint állami foglalkoztatási szerv ezzel összefüggő feladatai eredményes ellátásának elősegítése, a jogosultsági és folyósítási feltételek fennállásának megállapítása és ellenőrzése céljából elkülönített elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
+57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint bérpótló juttatásra jogosult személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
-(1a) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(2) Az adatbázis tartalmazza az aktív korúak ellátására jogosult személyek tekintetében
+(3) Az adatbázis tartalmazza
 
-a) a jegyző által az Szt. 19. §-ának (3) bekezdésében foglaltak szerint átadott, ott meghatározott adatokat,
+1. a bérpótló juttatásra jogosult személyek tekintetében
 
-b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. §-ának (4)–(5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
+a) az alábbi adatokat:
 
-c) a munkaerő-piaci helyzetükkel összefüggő, következő adatokat:
+aa) a jogosult természetes személyazonosító adatai,
 
-ca) munkaerő-piaci képzésben történő részvétel,
+ab) a jogosult állampolgársága, illetőleg bevándorolt, letelepedett vagy menekült státusza,
 
-cb) közfoglalkoztatás keretében történő foglalkoztatás,
+ac) a jogosult belföldi lakó-, illetőleg tartózkodási helye,
 
-cc)–cd)
+ad) az ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok,
 
-ce) munkaerő-piaci programban történő részvétel,
+ae) a jogosult Társadalombiztosítási Azonosító Jele (TAJ szám),
 
-cf) bértámogatással létesített munkaviszony keretében történő foglalkoztatás,
+af) a bérpótló juttatásra jogosult személy iskolai végzettsége, szakképesítése,
 
-cg) munkaviszony – támogatás nélkül történő – létesítése,
+b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4)–(5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
 
-ch) állami foglalkoztatási szerv szolgáltatásainak igénybevétele,
+c) a munkaerőpiaci helyzetükkel összefüggő, következő adatokat:
 
-ci) alkalmi foglalkoztatásban történő részvétel,
+ca) munkaerőpiaci képzésben történő részvétel,
 
-cj)
+cb) munkaerőpiaci programban történő részvétel,
+
+cc) bértámogatással létesített munkaviszony keretében történő foglalkoztatás,
+
+cd) közfoglalkoztatásban való részvétel,
+
+ce) munkaviszony – támogatás nélkül történő – létesítése,
+
+cf) állami foglalkoztatási szerv szolgáltatásainak igénybevétele,
+
+cg) egyszerűsített foglalkoztatásban történő részvétel,
 
 d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat:
 
 da) a nyilvántartásba vétel időpontja,
 
-db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka.
+db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka;
 
-(3) Az állami foglalkoztatási szerv haladéktalanul törli a munkaügyi hatóság által megküldött, azon személyekre vonatkozó adatokat, akik az adatbázisban nem szerepelnek.
+2. a közfoglalkoztatottak tekintetében
 
-(4) Az állami foglalkoztatási szerv a települési önkormányzat jegyzőjének – az (5) bekezdésben foglaltak figyelembevételével – az adatbázis adataihoz való hozzáférést folyamatos elektronikus adatkapcsolat keretében biztosítja.
+a) a közfoglalkoztatottra vonatkozó adatok körében
 
-(5) A települési önkormányzat jegyzője az aktív korúak ellátására való jogosultság feltételeinek megállapítása érdekében ellenőrizheti, hogy az ellátás iránti kérelmet benyújtó ügyfél szerepel-e az adatbázisban. Az állami foglalkoztatási szerv a települési önkormányzat jegyzője számára az aktív korúak ellátása folyósítási feltételei fennállásának megállapítása céljából az adatbázisban lévő adatok közül csak azon személy adataihoz teszi lehetővé a hozzáférést, akinek az ellátásra való jogosultságát a jegyző állapította meg.
+aa) az adatbázisba való felvétel időpontját,
 
-(6) Az (1) bekezdés szerinti adatok statisztikai célra felhasználhatóak és statisztikai célú felhasználásra, személyazonosításra alkalmatlan módon átadhatóak.
+ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét,
+
+ac) legmagasabb iskolai végzettségét, szakképzettségét,
+
+ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört,
+
+ae) eddig betöltött munkaköreit,
+
+af) a munkaügyi központtal történő együttműködésére vonatkozó adatokat,
+
+ag) a (4) bekezdés alapján megállapított prioritási szintjét,
+
+b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében
+
+ba) a közfoglalkoztatás jellegét, azaz hogy
+
+1. tényleges közfoglalkoztatott-e
+
+2. képzésben vesz-e részt
+
+3. bérpótló juttatásban részesül-e,
+
+bb) a közfoglalkoztatási jogviszony időtartamát,
+
+bc) a napi munkaidő mértékét (4, 6 vagy 8 óra),
+
+bd) a közfoglalkoztatási bér összegét,
+
+be) a közfoglalkoztatási jogviszonyban betöltött munkakört,
+
+bf) a közfoglalkoztató megnevezését és adószámát;
+
+3. a közfoglalkoztatásra vonatkozó adatok tekintetében
+
+a) a munkát felajánló, a munkát szervező és a közreműködő közfoglalkoztató nevét, cégjegyzékszámát, az adószám első nyolc jegyét (törzsszámát), elérhetőségét,
+
+b) a munka jellegét, statisztikai kódját (FEOR kód), leírását,
+
+c) a munkavégzés helyét,
+
+d) az igényelt közfoglalkoztatotti létszámot,
+
+e) a munkavégzés időtartamát,
+
+f) a napi munkaidő mértékét,
+
+g) a munka elvégzéséhez, a közfoglalkoztatás tervezéséhez szükséges infrastruktúrára vonatkozó adatokat (munkaeszköz, szállítóeszköz, elhelyezés),
+
+h) az egy napon foglalkoztatható személyek legkisebb és legnagyobb számát,
+
+i) a közreműködő szerv azonosítóját, megnevezését, elérhetőségét,
+
+j) a kifizető szerv azonosítóját, megnevezését, elérhetőségét.
+
+(4) A (3) bekezdés 2. pont ag) alpontja szerinti prioritási szint körében vizsgálandó szempontok:
+
+1. Hátrányos helyzetű munkavállaló, aki
+
+a) az előző 6 hónapban nem állt munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy
+
+b) nem szerzett középfokú végzettséget vagy szakképesítést (ISCED 3), vagy
+
+c) 50 éven felüli személy, vagy
+
+d) egy vagy több eltartottal egyedül élő felnőtt, vagy
+
+e) valamely tagállam olyan ágazatában vagy szakmájában dolgozik, amelyben 25%-kal nagyobb a nemi egyensúlyhiány, mint e tagállam valamennyi gazdasági ágazatára jellemző átlagos egyensúlyhiány, és ezen alulreprezentált nemi csoportba tartozik, vagy
+
+f) egy tagállam etnikai kisebbségéhez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
+
+2. Súlyosan hátrányos helyzetű munkavállaló, aki legalább 24 hónapja munkanélküli;
+
+3. Fogyatékkal élő munkavállaló, aki
+
+a) a nemzeti jog szerint fogyatékosnak elismert, vagy
+
+b) elismerten fizikai, elmebeli vagy pszichológiai károsodásban szenved.
+
+(5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
+
+(6) A (3) bekezdés 1. pont a) alpont szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban.
+
+(7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
+
+(8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
