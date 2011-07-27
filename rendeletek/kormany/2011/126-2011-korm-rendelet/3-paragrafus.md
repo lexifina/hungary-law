@@ -1,3 +1,0 @@
-## 2. § A közigazgatási szakvizsgáról szóló 35/1998. (II. 27.) Korm. rendelet (a továbbiakban: R2.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A közigazgatási szakvizsga tananyaga, írásbeli részének vizsgakérdései és szóbeli részének vizsgatételei a vizsgakövetelményeken alapulnak. A közigazgatási szakvizsga kötelező és választható tárgyának tananyagát az OKV elnöksége hagyja jóvá. A tananyagot a Nemzeti Közigazgatási Intézet (a továbbiakban: NKI) – különösen a jogszabályi változásokra tekintettel – rendszeresen, de legalább évente felülvizsgálja, és szükség esetén aktualizálja.”
