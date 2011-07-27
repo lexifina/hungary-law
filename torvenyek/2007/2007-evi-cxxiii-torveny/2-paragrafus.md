@@ -30,4 +30,6 @@ m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfás
 
 n) építésügyi korlátozások felszámolása;
 
-o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése.
+o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
+
+p) munkahelyteremtő beruházás megvalósítása.
