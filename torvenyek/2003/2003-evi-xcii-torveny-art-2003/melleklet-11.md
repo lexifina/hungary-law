@@ -103,5 +103,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 19. az Olasz Köztársaság esetében: imposte sulle assicurazioni private ed i contratti vitalizi di cui alla legge 1967.10.29. no 1216;
 
 20. az Osztrák Köztársaság esetében: Versicherungssteuer, Feuerschutzsteuer;
-
-21. a Portugál Köztársaság esetében: imposto de selo sobre os prémios de seguros;

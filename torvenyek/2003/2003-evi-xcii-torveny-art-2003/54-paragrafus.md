@@ -24,7 +24,9 @@ c) azon adózók nevét, elnevezését és adószámát (csoport azonosító sz�
 
 d) az általa nyilvántartott adószámmal (csoport azonosító számmal) rendelkező, valamint a c) pont hatálya alá tartozó azon adózók nevét, elnevezését, adószámát, csoport azonosító számát (adószámát, csoport azonosító számát a törlésre utalással), amely adózókkal szemben az állami adóhatóság végrehajtási eljárást folytat, a végrehajtási eljárás megindításától annak befejezéséig a végrehajtás felfüggesztése vagy szünetelése időtartama kivételével;
 
-e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a 1893/2006/EK rendelet szerint bejelentett és nyilvántartott tevékenységi köreit.
+e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a 1893/2006/EK rendelet szerint bejelentett és nyilvántartott tevékenységi köreit;
+
+f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési elővállalkozás nevét, adószámát, az ilyenként való nyilvántartásba vétel dátumát, és a nyilvántartásból való törlés dátumát, valamint ezen társaságok projekttársaságainak nevét és adószámát.
 
 (6) Az állami adóhatóság honlapján közzéteszi az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózók – kivéve a Magyar Honvédséget és rendvédelmi szerveket, a nemzetbiztonsági szolgálatokat – az adóhatóság nyilvántartásában szereplő alkalmazottainak létszámát.
 

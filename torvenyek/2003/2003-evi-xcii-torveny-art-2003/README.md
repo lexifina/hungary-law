@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2011-06-25 | 2011. évi LXIX. törvény | 2003-92-00-00.75 |
 | 2011-07-01 | 2011. évi LXIII. törvény | 2003-92-00-00.76 |
 | 2011-07-15 | 2011. évi XCVI. törvény | 2003-92-00-00.77 |
+| 2011-07-27 | 2011. évi CII. törvény | 2003-92-00-00.78 |
