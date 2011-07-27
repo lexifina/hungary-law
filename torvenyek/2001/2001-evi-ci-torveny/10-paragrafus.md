@@ -46,7 +46,7 @@ c) a felnőttképzési tevékenységét nem a képzési programnak megfelelően 
 
 d) a 9. § (2) bekezdésében foglalt kötelezettségeinek nyolc napon belül nem tesz eleget.
 
-(7) Az állami foglalkoztatási szerv a külön jogszabályban meghatározott esetekben a felnőttképzést folytató intézmény tevékenységét felfüggeszti, illetve az intézményt a nyilvántartásból törli.
+(7) Az állami foglalkoztatási szerv a jogszabályban meghatározott esetekben a felnőttképzést folytató intézményt a nyilvántartásból törli.
 
 (8) Az állami foglalkoztatási szerv az (1) bekezdés bh) alpontjában meghatározott ellenőrzési tevékenységét a gyakorlati foglalkozás helye szerint illetékes területi gazdasági kamara – külön jogszabályban meghatározottak szerint történő – bevonásával látja el.
 

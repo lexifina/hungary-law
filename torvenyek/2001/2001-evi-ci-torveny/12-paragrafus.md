@@ -18,7 +18,7 @@
 
 (7) Amennyiben a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtása keretében történő felnőttképzési tevékenységét akkreditáltatni kívánja, az akkreditáció iránti kérelmében a valamely EGT-állam által elismert minősítési rendszer igazolása esetén kizárólag azoknak a követelményeknek való megfelelést szükséges igazolnia, amelyeket az adott állam követelményei nem tartalmaznak.
 
-(8) A FAT a közoktatási feladatot ellátó – más jogszabályban meghatározott – szakképző intézmény intézményakkreditációs kérelme esetén egyszerűsített eljárást folytat le.
+(8)
 
 (9) A FAT a közoktatási feladatot ellátó – más jogszabályban meghatározott – közoktatási intézmény intézményakkreditációs kérelme esetén egyszerűsített eljárást folytat le. Az egyszerűsített intézményakkreditációs eljárás alapjául szolgáló egyéb esetek körét és az eljárás részletes szabályait kormányrendelet határozza meg.
 

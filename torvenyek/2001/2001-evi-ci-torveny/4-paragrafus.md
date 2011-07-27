@@ -28,9 +28,7 @@ e) az Európai Gazdasági Térségről szóló megállapodásban részes államo
 
 f) az e törvény szerinti felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
-g) a 20/A. § (1) és (2) bekezdéseiben foglaltak figyelembevételével azon informatikai végzettséggel vagy a megfelelő informatikai kompetenciákkal rendelkezők körét, akik mentesülnek a digitális írástudás elsajátítására irányuló képzési részek alól,
-
-h) a felnőttképzésben résztvevők adatai elektronikus nyilvántartásának részletes szabályait,
+g)–h)
 
 i)
 

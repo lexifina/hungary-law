@@ -2,21 +2,7 @@
 
 a) a felnőttképzésben részt vevő, illetve a felnőttképzéshez kapcsolódó szolgáltatást igénybe vevő felnőttre,
 
-b) a (2) bekezdésben meghatározott tevékenységükkel kapcsolatosan
-
-ba) a közoktatási intézményekre,
-
-bb) a felsőoktatási intézményekre,
-
-bc) a felnőttképzést folytató költségvetési szervekre,
-
-bd) a központi képzőhelyekre,
-
-be) a közhasznú társaságokra, egyesületekre, köztestületekre, alapítványokra, közalapítványokra,
-
-bf) az egyéb jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni cégekre, egyéni vállalkozókra, valamint ezek felnőttképzési tevékenység folytatására létrehozott társulásaira, továbbá
-
-bg) a Magyar Köztársaság területén felnőttképzési tevékenységet folytató 3/C. § (1)–(3) bekezdés szerinti külföldi szolgáltatókra.
+b) a (2) bekezdésben meghatározott felnőttképzési tevékenységet folytató jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni cégekre, egyéni vállalkozókra.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység
 

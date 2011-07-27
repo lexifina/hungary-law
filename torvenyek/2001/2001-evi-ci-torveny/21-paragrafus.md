@@ -22,7 +22,7 @@ a) a támogatás teljes időtartama alatt biztosítja, hogy a FAT által kiáll�
 
 b) a külön jogszabályban előírt statisztikai adatszolgáltatási kötelezettségét teljesítette,
 
-c) a 28/A. (1) bekezdése szerinti adatszolgáltatását teljesítette.
+c)
 
 (4) A (3) bekezdés a) pontjában meghatározott feltétel a 29. § 13. pontjában meghatározott belső képzések támogatása esetében nem alkalmazható.
 
