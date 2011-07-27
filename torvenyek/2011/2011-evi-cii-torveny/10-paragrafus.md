@@ -1,0 +1,3 @@
+10. § (1) A szabályozott ingatlanbefektetési társaság az ingatlanportfolióját legalább negyedévente, az üzleti év adott negyedévének utolsó napjára vonatkozóan köteles piaci értéken értékelni.
+
+(2) A szabályozott ingatlanbefektetési társaság az ingatlanok (1) bekezdés szerinti piaci értéke és könyv szerinti értéke közötti különbözetét könyvviteli nyilvántartásában az alkalmazott számviteli politikája szerint, de legalább negyedévente elszámolja. Az elszámolás során köteles alkalmazni a számviteli törvény 57. § (3) bekezdésében, valamint 58. és 59. §-ában meghatározott, a piaci értékelésre és az értékhelyesbítésre vonatkozó előírásokat.

@@ -1,0 +1,5 @@
+15. § (1) A szabályozott ingatlanbefektetési elővállalkozás a 3. § (4) bekezdés szerinti nyilvántartásba vételének napjával, valamint a szabályozott ingatlanbefektetési társaság a 3. § (1) bekezdése szerinti nyilvántartásba vételének, valamint e nyilvántartásból való törlésének napjával, mint mérleg fordulónappal köteles a számviteli törvény szerinti közbenső mérleget készíteni.
+
+(2) Köteles a számviteli törvény szerinti közbenső mérleget készíteni a szabályozott ingatlanbefektetési elővállalkozás és társaság belföldi projekttársasága azzal az időponttal, mint mérleg fordulónappal, amely időponttól megfelel az e törvény szerinti, a projekttársaságra előírt feltételeknek.
+
+(3) Amennyiben a szabályozott ingatlanbefektetési elővállalkozás és társaság vagy azok belföldi projekttársasága már nem felel meg az e törvény szerinti feltételeknek és kikerül e törvény hatálya alól, a törvény hatálya alóli kikerülés napjával mint mérleg fordulónappal köteles a számviteli törvény szerinti közbenső mérleget készíteni.
