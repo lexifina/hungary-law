@@ -2,4 +2,4 @@
 
 (2) Sürgős esetet – így különösen: a közös tulajdonban álló épületrészek, épületberendezések, vagyontárgyak állékonyságát, biztonságát közvetlenül veszélyeztető helyzet kialakulását – kivéve az írásbeli meghívót legkésőbb a közgyűlés időpontja előtt nyolc nappal meg kell küldeni.
 
-(3) A tulajdonostárs által írásban meghatalmazott általános képviselőt a közgyűlésre minden esetben meg kell hívni. Az általános, illetőleg az eseti meghatalmazásra egyebekben a Ptk. 222–223. §-aiban foglaltak az irányadók.
+(3) A tulajdonostárs által írásban meghatalmazott általános képviselőt a közgyűlésre minden esetben meg kell hívni. Az általános és az eseti meghatalmazásra egyebekben a Ptk. rendelkezései az irányadók.

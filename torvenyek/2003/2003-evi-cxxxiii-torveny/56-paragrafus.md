@@ -32,7 +32,7 @@ A karbantartás lehet:
 
 2.3.2. részleges felújítás: az épület legalább egy főszerkezetére kiterjedő, teljes felújításnak nem minősülő, de abba belátható időn belül beilleszthető általános javítási munkák elvégzése,
 
-2.3.3. korszerűsítés: a központi fűtő- és melegvíz-szolgáltató berendezésnek az energiaracionalizálással, illetőleg a levegőtisztaság-védelemmel összefüggő átalakítása vagy kicserélése.
+2.3.3. korszerűsítés: meglévő épület, épületrész, épületberendezés rendeltetésszerű és biztonságos használatra alkalmasságát javító, használati értékét, teljesítőképességét, üzembiztonságát növelő építési-szerelési munka. Korszerűsítésnek kell tekinteni a megújuló energiaforrások (napenergia, szél, geotermikus energia stb.) alkalmazására, a központi fűtő- és melegvíz-ellátó berendezésnek az energiaracionalizálással, a levegőtisztaság-védelemmel összefüggő átalakítására vagy cseréjére vonatkozó, továbbá az épület energiahatékonyságát szolgáló épületszerkezeteken végzett építési-szerelési munkát is.
 
 3. Rendes gazdálkodás körét meghaladó kiadások: az állagvédelmet meghaladó, a fenntartás (az üzemeltetés, a karbantartás és a felújítás) körébe nem tartozó olyan munkálattal összefüggő kiadások, amelyek az alapító okirat szerint közös tulajdonban lévő épület, épületrész bővítésével, átalakításával vagy közös tulajdonba kerülő új épület, épületrész, illetőleg épületberendezés létesítésével járnak.
 

@@ -1,4 +1,4 @@
-19. § (1) A közösség a 18. § (1) és (3) bekezdésében említett közgyűlési határozatot az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbséggel állapítja meg. A szervezeti-működési szabályzat előírhatja, hogy a határozat érvényességéhez a közvetlenül érintett szomszédos tulajdonostársak tulajdoni hányad szerinti legalább kétharmadának igenlő szavazata is szükséges.
+19. § (1) A közösség a 18. § (3) bekezdésében említett közgyűlési határozatot az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbséggel állapítja meg. A szervezeti-működési szabályzat előírhatja, hogy a határozat érvényességéhez a közvetlenül érintett szomszédos tulajdonostársak tulajdoni hányad szerinti legalább kétharmadának igenlő szavazata is szükséges.
 
 (2) A közös képviselő vagy az intézőbizottság elnöke felhívására a határozati javaslatról a tulajdonostársak – a szervezeti-működési szabályzatban meghatározott részletes szabályoknak megfelelően – írásban is szavazhatnak.
 
