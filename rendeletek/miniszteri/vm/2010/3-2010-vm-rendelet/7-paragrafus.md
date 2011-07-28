@@ -27,3 +27,7 @@ Melléklet a 3/2010. (VII. 5.) VM rendelethez
 10. Szállítmányonként 5 tonna feletti húsra, halászati-, húsipari termékek, baromfihús, vadhús, nyúlhús, tenyésztett vadhús, tej és tejtermék, tojás;
 
 11. Szállítmányonként 20 tonna feletti 10. ponttól eltérő valamennyi a feldolgozatlan és feldolgozott élelmiszerek szállítmány, az elsődleges termelésből származó nem állati alaptermék, illetve az élelmiszerként történő forgalmazási és feldolgozási céllal beszállított élő állat.
+
+12.[^1] Ionizáló sugárzással kezelt élelmiszerek.
+
+[^1]: A melléklet 12. pontját a 67/2011. (VII. 13.) VM rendelet 10. §-a iktatta be.
