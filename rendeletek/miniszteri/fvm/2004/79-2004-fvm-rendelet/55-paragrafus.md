@@ -4,16 +4,8 @@
 
 (2) Vadászvizsgára tizenhét éves kortól lehet jelentkezni a vadász lakóhelye szerinti területi vadászkamaránál.
 
-(3) Nem kell vadászvizsgát tenni annak, aki
-
-a) erdészeti, mezőgazdasági, közép- vagy felsőfokú szakoktatási intézményben a vadászat-vadgazdálkodás tananyagát tartalmazó tantárgyból eredményes vizsgát tett – ami a fegyverismeretre és használatra vonatkozó elméleti és gyakorlati ismeretekre is kiterjedt –, és ezt az oktatási intézmény hiteles okiratban igazolja;
-
-b) felsőfokú vadgazdálkodási szakirányú végzettséget szerzett;
-
-c) vadgazdálkodási technikusi oklevelet szerzett;
-
-d) vadász-vadtenyésztő szakmunkás képesítéssel rendelkezik.
-
-Az a)–d) pontokban felsorolt szakképesítések a fegyverismeretre és -használatra vonatkozó vizsgarész letétele alól is mentesítenek.
+(3)[^76]
 
 (4) Vadászvizsgát kizárólag magyar nyelven lehet tenni.
+
+[^76]: A Vhr. 55. § (3) bekezdését a 67/2011. (VII. 13.) VM rendelet 11. § (2) bekezdés c) pontja hatályon kívül helyezte 2011. július 28. napjával.

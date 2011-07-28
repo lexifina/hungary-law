@@ -1,6 +1,6 @@
 ## A VADÁSZATI HATÓSÁG OKMÁNYAI ÉS JELVÉNYE
 
-## I.[^156]
+## I.[^157]
 
 ## I.
 
@@ -52,4 +52,4 @@
 
 A VADÁSZATI HATÓSÁGI ELJÁRÁSBAN FIZETENDŐ IGAZGATÁSI-SZOLGÁLTATÁSI DÍJ
 
-[^156]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított szöveg. E módosító rendelet 47. § (3) bekezdése alapján a 2010. február 10. napját követően a minisztérium által korábban kiadott vadászati hatósági igazolványok 2010. december 31-én hatályukat vesztik.
+[^157]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított szöveg. E módosító rendelet 47. § (3) bekezdése alapján a 2010. február 10. napját követően a minisztérium által korábban kiadott vadászati hatósági igazolványok 2010. december 31-én hatályukat vesztik.
