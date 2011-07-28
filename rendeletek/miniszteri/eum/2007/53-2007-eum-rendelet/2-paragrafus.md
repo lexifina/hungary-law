@@ -6,7 +6,7 @@ b)[^2] gyógyszertörzs: az a) pont szerinti gyógyszerek befogadásáról szól
 
 c) TTT (Társadalombiztosítási Támogatási Termék) kód: a gyógyszerek társadalombiztosítási támogatásba történő befogadáskor az OEP által adott, a konkrét gyógyszer azonosítását szolgáló 9 számjegyből álló kód;
 
-d) napi terápiás költség (NTK): a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet 2. §-ának u) pontja szerinti fogalom;
+d)[^3] napi terápiás költség (NTK): a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: R.) 2. § u) pontja szerinti fogalom;
 
 e) térítési díj: a társadalombiztosítási támogatás összegével csökkentett fogyasztói ár;
 
@@ -19,3 +19,4 @@ h) integrált informatikai rendszer: olyan számítógépes program, amely az eg
 i) nyilvántartási szám: az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) vagy az Európai Unió Bizottsága által a gyógyszer forgalomba hozatalra engedélyezése során adott azonosító szám.
 
 [^2]: A 2. § b) pontja a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. § d) pontja a 47/2011. (VII. 27.) NEFMI rendelet 9. §-ával megállapított szöveg.
