@@ -1,12 +1,12 @@
 ## 1. Általános rendelkezések
 
-1. § (1) A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: költségvetési törvény) 5. melléklet 14. Önkormányzati feladatellátást szolgáló fejlesztések előirányzatból
+1. § (1)[^1] A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: költségvetési törvény) 5. melléklet 14. Önkormányzati feladatellátást szolgáló fejlesztések előirányzatból
 
-a) a társult formában működtetett, kötelező önkormányzati feladatot ellátó intézmények fejlesztésének, felújításának támogatására 4 350 millió forint, továbbá
+a) a társult formában működtetett, kötelező önkormányzati feladatot ellátó intézmények fejlesztésének, felújításának támogatására 3 150 millió forint, továbbá
 
-b) iskolai és utánpótlás sport infrastruktúra-fejlesztésének, felújításának támogatására 1 150 millió forint
+b) iskolai és utánpótlás sport infrastruktúra-fejlesztésének, felújításának támogatására 2 350 millió forint
 
-használható fel.
+## használható fel.
 
 (2) Az (1) bekezdés a) pontja alapján az alábbi feladatokat ellátó intézmények infrastrukturális fejlesztése, felújítása támogatható:
 
@@ -39,3 +39,5 @@ a) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, ille
 b) az a) pontba nem tartozó településeken megvalósuló infrastrukturális fejlesztések esetén a fejlesztéshez szükséges összeg 80%-a.
 
 (10) Az eszközbeszerzésre igényelt támogatás nem haladhatja meg az igényelt támogatási összeg 10%-át.
+
+[^1]: Az 1. § (1) bekezdése a 25/2011. (VII. 27.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.

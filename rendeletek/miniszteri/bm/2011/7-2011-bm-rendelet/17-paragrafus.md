@@ -1,7 +1,9 @@
-## 16. § A támogatással létrehozott ingatlanvagyon a beruházás megvalósításától számított 10 évig nem idegeníthető el, kivéve, ha az elidegenítést műszaki vagy szakmai okok teszik szükségessé, és az abból származó ellenértéket a kedvezményezett a támogatási cél szerinti további feladatokra fordítja. A támogatással létrehozott vagyon kérelemre csak a miniszter jóváhagyásával idegeníthető el. A kedvezményezettnek a 4. § (1) bekezdés e) pontja szerinti 5 éves rendeltetésszerű hasznosítást biztosítani kell.
+## 16/A. §[^6] A támogatásból megvalósuló fejlesztéssel érintett feladatellátási hely intézményfenntartói jogának átadását egyedi kérelem alapján a miniszter engedélyezheti azzal a feltétellel, hogy a fenntartónak a támogatási célnak megfelelő, a beruházás megvalósítását követő 5 éves rendeltetésszerű használatot biztosítania kell.
 
 ## 7. A támogatás felhasználásának ellenőrzése
 
 17. § (1) A támogatás felhasználását – beleértve a vállalt célok megvalósítását – a miniszter és a jogszabályban erre feljogosított szervek ellenőrizhetik.
 
 (2) A kedvezményezett köteles az ellenőrzésre feljogosított szervek megkeresésére az ellenőrzés lefolytatásához szükséges tájékoztatást megadni, a kért dokumentumokat rendelkezésre bocsátani, a helyszíni ellenőrzést lehetővé tenni, mely során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény hatósági ellenőrzésre vonatkozó szabályait kell alkalmazni.
+
+[^6]: A 16/A. §-t a 25/2011. (VII. 27.) BM rendelet 4. § (5) bekezdése iktatta be.

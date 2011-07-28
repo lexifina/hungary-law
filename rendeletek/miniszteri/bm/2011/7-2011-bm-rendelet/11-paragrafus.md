@@ -12,4 +12,6 @@ b) a fennmaradó támogatási összeg folyósítása a beruházás kivitelezőj�
 
 (4) Ha a benyújtott kivitelezői szerződésben a beruházás összköltsége a támogatási szerződésben szereplő beruházási összköltséghez képest alacsonyabb, a kifizethető támogatási összeget – figyelembe véve a már folyósított előleget is – a beruházási összköltség csökkenésével arányosan csökkenteni kell.
 
-(5) A támogatást a minisztérium utalványozása alapján a Magyar Államkincstár folyósítja.
+(5)[^5] A támogatást a miniszter utalványozása alapján a Magyar Államkincstár folyósítja.
+
+[^5]: A 11. § (5) bekezdése a 25/2011. (VII. 27.) BM rendelet 4. § (4) bekezdése szerint módosított szöveg.
