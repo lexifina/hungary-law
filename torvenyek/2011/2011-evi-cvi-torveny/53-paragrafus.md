@@ -1,3 +1,3 @@
 ## Záró rendelkezések
 
-53. §
+### 53. §

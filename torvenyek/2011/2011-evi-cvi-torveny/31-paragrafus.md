@@ -1,3 +1,3 @@
 ## A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-31–33. §
+### 31. §
