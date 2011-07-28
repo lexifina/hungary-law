@@ -1,5 +1,7 @@
-13. § (1) Üdülőszövetkezet esetében a szövetkezet tulajdonában álló üdülőépületben a tagot – évenként, az alapszabályban meghatározott időtartamra – egy üdülőegység időleges használatának joga illeti meg.
+13. § (1) Az alapszabály
 
-(2) A tag halála esetén az időleges üdülőhasználati jogra az öröklés szabályait kell alkalmazni.
+a) meghatározza a tag vagy a nem tag tulajdonában vagy használatában lévő lakás használatának, hasznosításának szabályait a lakásszövetkezet rendeltetésének megfelelően;
 
-(3) Az örökös, a megajándékozott és a vevő tagfelvételi kérelme nem utasítható el, ha a kérelmező az e törvényben és az üdülőszövetkezet alapszabályában előírt feltételeknek megfelel.
+b) ha lakóépület esetén a lakásszövetkezet vagy a tag, továbbá a nem tag tulajdonos tulajdonában álló nem lakás céljára szolgáló helyiségben a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó, vagy szexuális vagy erotikus szolgáltatásra irányuló tevékenységet kívánnak folytatni, valamint, ha szexuális terméket és segédeszközt kívánnak árusítani vagy forgalmazni, a lakóépület rendeltetésének megfelelően megtilthatja a nem lakás céljára szolgáló helyiség használatát és hasznosítását vagy meghatározhatja használatának és hasznosításának szabályait.
+
+(2) Az alapszabályban a lakás egészének vagy egy részének a nem lakás céljára történő használatára, hasznosítására, továbbá a nem lakás céljára szolgáló helyiségben folytatható tevékenység feltételeire megállapított szabályok – amelyek nem lehetnek e törvény rendelkezéseivel ellentétesek vagy annál szigorúbbak – a használat jogcímétől függetlenül a mindenkori használó részére is kötelezőek.

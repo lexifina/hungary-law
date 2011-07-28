@@ -8,4 +8,4 @@
 
 (5) A tag halála, illetőleg a nem természetes személy tag megszűnése esetén a használati jog tekintetében jogutódlásnak van helye.
 
-(6) Nyugdíjasházi szövetkezet esetében a lakások a szövetkezet tulajdonában állnak, a tagot a lakás állandó használatának joga illeti meg.
+(6)

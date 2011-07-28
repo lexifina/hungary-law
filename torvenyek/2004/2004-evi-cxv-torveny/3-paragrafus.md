@@ -2,9 +2,9 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-## Alakuló közgyűlés
+## A lakásszövetkezet alapítása, alakuló közgyűlés
 
-3. § (1) A lakásszövetkezet alapítását legalább tíz alapító tag esetén, az alapító tagok részvételével tartott alakuló közgyűlés határozza el. Az alakuló közgyűlést bármely alapító tag, illetőleg az építtető hívhatja össze.
+3. § (1) A lakásszövetkezet alapítását legalább hét alapító tag esetén, valamennyi alapító tag részvételével tartott alakuló közgyűlés határozza el. Az alakuló közgyűlést bármely alapító tag vagy az építtető hívhatja össze.
 
 (2) Az alakuló közgyűlés:
 

@@ -10,4 +10,4 @@
 
 (5) A lakásszövetkezet tevékenységét a saját részére, tagjai, továbbá a nem tag tulajdonosok részére végzi, amellyel kapcsolatban nyereségszerzésre nem törekszik.
 
-(6) A lakásszövetkezet a tevékenységének ellátása céljából – e törvény rendelkezéseinek figyelembevételével – vállalkozási tevékenységet is folytathat. A lakásszövetkezetnek az általa üzletszerűen végzett társasházkezelői, illetőleg ingatlankezelői tevékenység esetén, a társasházakról szóló külön törvény erre vonatkozó rendelkezéseit megfelelően alkalmaznia kell.
+(6) A lakásszövetkezet a tevékenységének ellátása céljából – e törvény rendelkezéseinek figyelembevételével – vállalkozási tevékenységet is folytathat. A lakásszövetkezet által üzletszerűen végzett társasház-kezelői és ingatlankezelői tevékenységre a társasházakról szóló törvény erre vonatkozó rendelkezéseit megfelelően alkalmazni kell.

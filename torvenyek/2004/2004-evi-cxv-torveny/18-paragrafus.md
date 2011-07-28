@@ -2,9 +2,9 @@
 
 (2) A közgyűlésen lakásonként (használati egységenként) csak egy-egy szavazatot lehet figyelembe venni. Ha a lakás (használati egység) több tag tulajdonában (használatában) áll, az alapszabály határozza meg a lakáson (használati egységen) belüli ellentétes szavazatok figyelembevételének módját.
 
-(3) A lakásszövetkezet tagját a közgyűlésen írásbeli meghatalmazás alapján lehet képviselni. A képviseletre vonatkozó részletes szabályokat az alapszabályban kell meghatározni; a meghatalmazásra egyebekben a Ptk. 222–223. §-aiban foglaltak az irányadók.
+(3) A lakásszövetkezet tagját a közgyűlésen írásbeli meghatalmazás alapján lehet képviselni. A képviseletre vonatkozó részletes szabályokat az alapszabályban kell meghatározni; a meghatalmazásra egyebekben a Ptk. rendelkezései az irányadók.
 
-(4) Az időleges üdülőhasználat jogával rendelkező minden természetes személy tagot – a használat joga mértékétől függetlenül – a közgyűlésen egy-egy szavazat illet meg. A nem természetes személy tag minden olyan üdülőegység után, amelynek egész évi használatára jogot szerzett, a gazdálkodást érintő kérdésekben további egy-egy szavazattal rendelkezik.
+(4)
 
 (5) A közgyűlésről jegyzőkönyvet kell felvenni, amelynek tartalmaznia kell különösen:
 

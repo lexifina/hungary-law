@@ -24,7 +24,7 @@
 
 1.3.2. részleges felújítás: az épület legalább egy főszerkezetére kiterjedő, teljes felújításnak nem minősülő, de abba belátható időn belül beilleszthető általános javítási munkák elvégzése,
 
-1.3.3. korszerűsítés: a központi fűtő és melegvíz-szolgáltató berendezésnek az energiaracionalizálással, illetőleg a levegőtisztaság-védelemmel összefüggő átalakítása vagy kicserélése;
+1.3.3. korszerűsítés: meglévő épület, épületrész, épületberendezés rendeltetésszerű és biztonságos használatra alkalmasságát javító, használati értékét, teljesítőképességét, üzembiztonságát növelő építési-szerelési munka. Korszerűsítésnek kell tekinteni a megújuló energiaforrások (napenergia, szél, geotermikus energia stb.) alkalmazására, a központi fűtő és melegvíz-ellátó berendezésnek az energiaracionalizálással, a levegőtisztaság-védelemmel összefüggő átalakítására vagy cseréjére vonatkozó, továbbá az épület energiahatékonyságát szolgáló épületszerkezeteken végzett építési-szerelési munkát is.
 
 2. Nem tag tulajdonos: aki a lakásszövetkezetbe nem lépett be, aki a lakásszövetkezetből kilépett, illetőleg abból kizárták.
 
@@ -36,4 +36,8 @@
 
 6. A lakásszövetkezet vállalkozási tevékenysége: a lakásszövetkezetnek az 5. pontban meghatározott tevékenysége körébe nem tartozó minden más olyan tevékenysége, amelynek adózott eredményét felhasználhatja az építés és a fenntartás feladatainak ellátására.
 
-(2) A számvitelről szóló 2000. évi C. törvény alkalmazása során a lakásszövetkezet küldöttgyűlésének döntését a közgyűlés döntésével azonos módon kell figyelembe venni.
+7. Eredménytelen írásbeli szavazás: a lakásonként (használati egységenként) számított érvényes szavazatok összessége nem éri el a tagok több mint a felének, vagy a törvényben, az alapszabályban vagy a közgyűlés által meghatározott minősített szavazatarány szerint számított többségének azonos írásbeli szavazatát.
+
+8. Beszámoló: a számviteli szabályok szerint elkészített beszámoló.
+
+(2) A számvitelről szóló törvény alkalmazása során a lakásszövetkezet küldöttgyűlésének döntését a közgyűlés döntésével azonos módon kell figyelembe venni.

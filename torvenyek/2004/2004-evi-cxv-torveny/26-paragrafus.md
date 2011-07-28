@@ -6,7 +6,7 @@ a) a lakásszövetkezet szerveinek működésével és a gazdálkodással kapcso
 
 b) a lakásszövetkezet tisztségviselőitől, alkalmazottaitól és a lakásszövetkezeti tagoktól, illetőleg a nem tag tulajdonosoktól felvilágosítást kérhet; a tisztségviselők és az alkalmazottak az iratok bemutatására és a felvilágosítás megadására vonatkozó kérés teljesítését nem tagadhatják meg;
 
-c) az igazgatóságot felhívhatja, hogy a jogszabályoknak, az alapszabálynak, illetőleg a közgyűlés (részközgyűlés, küldöttgyűlés) határozataiban foglaltaknak megfelelően járjon el;
+c) az igazgatóságot felhívhatja, hogy a jogszabályoknak, az alapszabálynak, más belső szabályzatának vagy a közgyűlés (részközgyűlés, küldöttgyűlés) határozataiban foglaltaknak megfelelően járjon el;
 
 d) indítványozhatja az igazgatóság egészének vagy egyes tagjainak a felmentését, felelősségre vonását, továbbá a közgyűlés összehívását;
 
