@@ -16,7 +16,7 @@ c) Társulás
 
 a) az óvodai feladatot ellátó intézményben legalább 3 csoport,
 
-b)[^4] az általános iskolai feladatot ellátó intézményben legalább 8 osztály
+b)[^5] az általános iskolai feladatot ellátó intézményben legalább 8 osztály
 
 ## működjön.
 
@@ -38,4 +38,4 @@ a) az R1 melléklete alapján a társadalmi-gazdasági és infrastrukturális sz
 
 b) az a) ponthoz nem tartozó településeken megvalósuló fejlesztések esetében szükséges összeg 80%-a.
 
-[^4]: Az 5. § (3) bekezdésének b) pontja a 14/2009. (III. 12.) ÖM rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdésének b) pontja a 14/2009. (III. 12.) ÖM rendelet 1. §-a szerint módosított szöveg.
