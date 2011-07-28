@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2011-01-01 | 2004-32-20-0M.32 | 30/2010. (XII. 30.) NEFMI rendelet |
 | 2011-03-31 | 2004-32-20-0M.33 | 53/2006. (XII. 28.) EüM rendelet |
 | 2011-04-01 | 2004-32-20-0M.34 | 36/2010. (V. 14.) EüM rendelet |
+| 2011-07-28 | 2004-32-20-0M.35 | 47/2011. (VII. 27.) NEFMI rendelet |
