@@ -8,8 +8,8 @@
 
 (2) E rendelet rendelkezéseit az e rendelet hatálybalépését követően indított eljárások esetén kell alkalmazni.
 
-(3)[^1]
+(3)[^2]
 
 (4) Azon előirányzatokra, amelyeknek korábbi évekről áthúzódó maradványa van, de a 2011. évben nincs eredeti előirányzata, a (3) bekezdésben meghatározott rendeletek rendelkezéseit továbbra is alkalmazni kell.
 
-[^1]: A 91. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 91. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

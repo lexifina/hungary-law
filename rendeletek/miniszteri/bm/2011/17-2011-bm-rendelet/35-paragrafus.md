@@ -4,4 +4,6 @@
 
 35. § (1) Az előirányzat a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény alapján meghatározott és az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendeletben megnevezett területrendezési szakterületi feladatok finanszírozására szolgál.
 
-(2) Az előirányzat felhasználására, kezelésére a területrendezési előirányzat felhasználásának részletes szabályairól szóló 12/2010. (IV. 7.) NFGM rendeletben meghatározott módon kerül sor.
+(2)[^1] Az előirányzat felhasználására, kezelésére a területrendezési feladatok előirányzat 2011. évi felhasználásának szabályairól szóló miniszteri rendeletben meghatározott módon kerül sor.
+
+[^1]: A 35. § (2) bekezdése a 26/2011. (VII. 27.) BM rendelet 11. §-ával megállapított szöveg.
