@@ -1,3 +1,0 @@
-9. § Az Lszt. 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § Ha a lakások a tagok tulajdonában állnak, az épülethez tartozó földrészlet, az épületszerkezetek, az épület közös használatra szolgáló területei és helyiségei, a központi berendezések, a házfelügyelői (gondnoki) lakás, továbbá a lakásszövetkezet célját szolgáló más építmények (iroda, műhely, raktár stb.) és vagyontárgyak a lakásszövetkezet tulajdonában állnak. A lakásszövetkezet célját nem szolgáló építmény – különösen a gépkocsitároló – a tag vagy a nem tag tulajdonos tulajdonában is állhat.”
