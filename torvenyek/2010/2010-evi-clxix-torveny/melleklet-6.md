@@ -40,7 +40,7 @@ A helyi önkormányzat önállósága és működőképessége megőrzése érde
 
 2.1.3. a költségvetési rendeletében nem tervez működési célú hiányt,
 
-2.1.4. a kötelezettségvállalás a tárgyévben vagy a tárgyévet megelőző évben meghaladja az Ötv. 88. § (2) bekezdése szerinti éves kötelezettségvállalás felső határát,
+2.1.4. tárgyévben adósságot keletkeztető kötelezettségvállalásról döntött annak ellenére, hogy tárgyévben korábbi kötelezettségvállalásai alapján az Ötv. 88. § (2) bekezdés szerinti kötelezettségvállalás felső határát meghaladta,
 
 2.1.5. kötelező könyvvizsgálat esetén a tárgyévet megelőző évi zárszámadást a könyvvizsgáló elutasító záradékkal látta el.
 

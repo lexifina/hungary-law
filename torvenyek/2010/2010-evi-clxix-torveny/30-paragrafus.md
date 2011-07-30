@@ -4,7 +4,7 @@
 
 (2) Az 5. § (1) bekezdése szerinti előirányzat fejezetekre, címekre, alcímekre, jogcím-csoportokra, jogcímekre, előirányzat-csoportokra, kiemelt előirányzatokra – felmérés alapján – történő átcsoportosítására az államháztartásért felelős miniszter kap felhatalmazást.
 
-(3) Az Országgyűlés felhatalmazza az agrárpolitikáért felelős minisztert, hogy az államháztartásért felelős miniszter előzetes egyetértésével a Vidékfejlesztési Minisztérium fejezet 20. cím, 3. Agrár célelőirányzatok alcím, a 20. cím, 5. Nemzeti támogatások alcím, 3–8. jogcím-csoport, a 20. cím, 7. Árfolyamkockázat és egyéb, EU által nem térített kiadások alcím, valamint a 20. cím, 13. EU tagságból eredő feladatok alcím között és az alcímeken belül átcsoportosítást hajtson végre.
+(3) Az Országgyűlés felhatalmazza az agrárpolitikáért felelős minisztert, hogy az államháztartásért felelős miniszter előzetes egyetértésével a XII. Vidékfejlesztési Minisztérium fejezet 20. cím, 3. Agrár célelőirányzatok alcím, a 20. cím, 5. Nemzeti támogatások alcím, 3–8. jogcím-csoport, a 20. cím, 7. Árfolyamkockázat és egyéb, EU által nem térített kiadások alcím, 20. cím, 11. Vidékfejlesztési és halászati programok alcím, valamint a 20. cím, 13. EU tagságból eredő feladatok alcím között és az alcímeken belül átcsoportosítást hajtson végre.
 
 (4) Az Országgyűlés felhatalmazza a honvédelemért felelős minisztert, hogy az államháztartásért felelős miniszter előzetes egyetértésével a védelmi tevékenység, a NATO felé vállalt haderő-fejlesztési célkitűzések, valamint az előre nem tervezett nemzetközi feladatok végrehajtása céljából a Honvédelmi Minisztérium fejezet címei, alcímei között – beleértve címen belül a kiemelt előirányzatokat is – indokolt esetben átcsoportosítást hajtson végre.
 

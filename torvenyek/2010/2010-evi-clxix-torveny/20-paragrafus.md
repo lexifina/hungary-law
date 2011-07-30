@@ -4,8 +4,8 @@
 
 a) bevételi főösszegét 1 370 936,7 millió forintban,
 
-b) kiadási főösszegét 1 459 613,9 millió forintban,
+b) kiadási főösszegét 1 458 559,9 millió forintban,
 
-c) hiányát 88 677,2 millió forintban állapítja meg.
+c) hiányát 87 623,2 millió forintban állapítja meg.
 
 (2) Az (1) bekezdésben megállapított bevételi és kiadási főösszegek részletezését, valamint az egészségbiztosítási költségvetési szervek saját bevétellel nem fedezett kiadásaihoz nyújtott támogatást az 1. melléklet tartalmazza.

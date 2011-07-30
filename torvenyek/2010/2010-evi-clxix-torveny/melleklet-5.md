@@ -216,7 +216,7 @@ Igényelhetik a helyi önkormányzatok az általuk fenntartott intézményekben 
 
 – a beilleszkedési, tanulási, magatartási nehézséggel küzdő (BTM) gyermekek, tanulók óvodai nevelésével, illetve iskolai nevelésével és oktatásával kapcsolatos feladatok ellátásának támogatásához.
 
-Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy az a) és b) pontokban meghatározott támogatások esetében az esélyegyenlőséget szolgáló intézkedések és az integrációs rendszerben részt vevő intézményekben dolgozó pedagógusok támogatásáról szóló 5/2010. (I. 29.) OKM rendelet 7–18. §-ai alapján a 2010. évben támogatásban részesülő fenntartók részére a 2010/2011-es nevelési év, tanév feladatainak ellátásához szükséges kiegészítő támogatások folyósításának eljárási rendjét 2011. január 15-éig rendeletben állapítsa meg.
+Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy az a) és b) pontokban meghatározott támogatások igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait rendeletben állapítsa meg.
 
 Felhatalmazást kap az oktatásért felelős miniszter, hogy a c) és d) pontban meghatározott támogatások igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait – az államháztartásért felelős miniszter, valamint a helyi önkormányzatokért felelős miniszter egyetértésével – 2011. február 15-éig rendeletben állapítsa meg.
 

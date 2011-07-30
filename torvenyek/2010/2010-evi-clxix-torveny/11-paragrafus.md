@@ -10,4 +10,4 @@
 
 (5) Ha az államháztartásért felelős miniszter, valamint a fejlesztéspolitikáért felelős miniszter irányítása alá tartozó, az (1) bekezdésben felsorolt költségvetési szervek a befizetési kötelezettségüknek nem tesznek eleget, a hiányzó összegre fejezeti tartalékot kell képezni, és a befizetést legkésőbb 2011. december 20-áig teljesíteni kell.
 
-(6) A Pénzügyi Szervezetek Állami Felügyelete 4732,5 millió forintot köteles befizetni a központi költségvetés javára 2011. évben, első alkalommal 2011. február 20. napjáig 1025 millió forintot, majd a fennmaradó összeget egyenlő részletekben a tárgynegyedévet követő második hónap 20. napjáig.
+(6) A Pénzügyi Szervezetek Állami Felügyelete 7 232,5 millió forintot köteles befizetni a központi költségvetés javára 2011. évben, első alkalommal 2011. február 20. napjáig 1 025 millió forintot, május 20. napjáig 1 235,8 millió forintot, majd a fennmaradó összeget egyenlő részletekben a tárgynegyedévet követő második hónap 20. napjáig.

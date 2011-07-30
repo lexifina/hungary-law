@@ -1,6 +1,6 @@
 50. § (1) Az Agrár-Vállalkozási Hitelgarancia Alapítvány (a továbbiakban e §-ban: Alapítvány) által vállalt készfizető kezesség mögött – külön jogszabályban meghatározott feltételek mellett – a (2)–(7) bekezdések szerint a Magyar Állam visszavonhatatlan viszontgaranciája áll fenn.
 
-(2) Az (1) bekezdés szerinti viszontgarancia mértéke az Alapítvány által vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 70%-a.
+(2) Az (1) bekezdés szerinti viszontgarancia mértéke az Alapítvány által vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 85%-a.
 
 (3) Az (1) bekezdésben vállalt állami viszontgarancia a mezőgazdasági tőkepótló hitelekre és az 1999. január 1-je után vállalt készfizető kezességek érvényesítésére vonatkozik.
 

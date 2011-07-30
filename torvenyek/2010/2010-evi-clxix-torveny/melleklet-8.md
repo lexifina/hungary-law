@@ -54,7 +54,7 @@ II. EGYES SZOCIÁLIS FELADATOK TÁMOGATÁSA
 
 1. Egyes jövedelempótló támogatások kiegészítése
 
-ELŐIRÁNYZAT: 88 541,5 millió forint
+ELŐIRÁNYZAT: 113 141,5 millió forint
 
 A támogatás
 

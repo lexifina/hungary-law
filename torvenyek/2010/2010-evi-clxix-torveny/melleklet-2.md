@@ -4,7 +4,7 @@
 
 |
 
-Millió forintban
+millió forintban
 
 |
 
@@ -12,9 +12,7 @@ A központi alrendszer mérlege
 
 |
 
-2011. évi
-
-előirányzat
+2011. évi előirányzat
 
 |
 
@@ -22,7 +20,7 @@ Bevétel
 
 |
 
-13 151 248,0
+12 970 820,9
 
 |
 
@@ -32,7 +30,7 @@ Központi költségvetés
 
 |
 
-8 280 916,7
+8 110 577,5
 
 |
 
@@ -44,7 +42,7 @@ Gazdálkodó szervezetek befizetései
 
 |
 
-1 282 594,1
+1 182 594,1
 
 |
 
@@ -58,7 +56,7 @@ Társasági adó
 
 |
 
-372 020,9
+288 020,9
 
 |
 
@@ -114,7 +112,7 @@ Egyszerűsített vállakozói adó
 
 |
 
-196 100,0
+180 100,0
 
 |
 
@@ -224,7 +222,7 @@ Fogyasztáshoz kapcsolt adók
 
 |
 
-3 471 421,2
+3 402 397,0
 
 |
 
@@ -238,7 +236,7 @@ Fogyasztáshoz kapcsolt adók
 
 |
 
-2 557 988,3
+2 488 964,1
 
 |
 
@@ -278,7 +276,7 @@ Lakosság befizetései
 
 |
 
-1 452 773,1
+1 446 173,1
 
 |
 
@@ -320,7 +318,7 @@ Illeték befizetések
 
 |
 
-88 496,1
+81 896,1
 
 |
 
@@ -370,7 +368,7 @@ Költségvetési szervek bevételei
 
 |
 
-Szakmai fejezeti kezelésű előirányzatok bevételei
+Szakmai fejezeti kezelésű előirányzatok saját bevételei
 
 |
 
@@ -386,7 +384,7 @@ Befizetés az államháztartás alrendszereiből
 
 |
 
-28 631,6
+32 828,7
 
 |
 
@@ -400,7 +398,7 @@ Központi költségvetési szervektől származó befizetések
 
 |
 
-28 631,6
+32 828,7
 
 |
 
@@ -448,7 +446,7 @@ Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel
 
 |
 
-94 540,4
+95 628,3
 
 |
 
@@ -498,7 +496,7 @@ Elkülönített állami pénzalapok
 
 |
 
-424 748,5
+415 748,5
 
 |
 
@@ -602,7 +600,7 @@ Kutatási és Technológiai Innovációs Alap
 
 |
 
-45 977,9
+36 977,9
 
 |
 
@@ -636,7 +634,7 @@ Társadalombiztosítás pénzügyi alapjai
 
 |
 
-4 445 582,8
+4 444 494,9
 
 |
 
@@ -648,7 +646,7 @@ Nyugdíjbiztosítási Alap
 
 |
 
-3 074 646,1
+3 073 558,2
 
 |
 
@@ -662,7 +660,7 @@ Munkáltatói és biztosítotti járulék
 
 |
 
-2 560 055,3
+2 553 479,2
 
 |
 
@@ -676,7 +674,7 @@ Egyéb járulékok és hozzájárulások
 
 |
 
-32 835,8
+39 411,9
 
 |
 
@@ -732,7 +730,7 @@ Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel
 
 |
 
-434 281,5
+433 193,6
 
 |
 
@@ -786,7 +784,7 @@ Munkáltatói és biztosítotti járulék
 
 |
 
-597 072,4
+616 198,6
 
 |
 
@@ -800,7 +798,7 @@ Egyéb járulékok és hozzájárulások
 
 |
 
-40 433,2
+21 307,0
 
 |
 
@@ -852,6 +850,34 @@ Központi költségvetési támogatások, térítések
 
 |
 
+Központi költségvetésből járulék címen átvett pénzeszköz
+
+|
+
+636 970,0
+
+|
+
+|
+
+|
+
+|
+
+Központi költségvetési térítés
+
+|
+
+5 400,0
+
+|
+
+|
+
+|
+
+|
+
 TB költségvetési szervek bevételei
 
 |
@@ -878,7 +904,7 @@ Kiadás
 
 |
 
-13 838 618,3
+14 155 070,1
 
 |
 
@@ -888,7 +914,7 @@ Központi költségvetés
 
 |
 
-8 894 211,2
+9 248 669,3
 
 |
 
@@ -1002,7 +1028,7 @@ Költségvetési szervek és fejezeti kezelésű előirányzatok
 
 |
 
-4 246 234,5
+4 082 516,6
 
 |
 
@@ -1016,7 +1042,7 @@ Költségvetési szervek kiadásai
 
 |
 
-1 971 580,1
+1 849 403,4
 
 |
 
@@ -1030,7 +1056,7 @@ Szakmai fejezeti kezelésű előirányzatok kiadásai
 
 |
 
-2 274 654,4
+2 233 113,2
 
 |
 
@@ -1042,7 +1068,7 @@ Az államháztartás alrendszereinek támogatása
 
 |
 
-1 881 802,8
+1 897 402,8
 
 |
 
@@ -1056,7 +1082,7 @@ Elkülönített állami pénzalapok támogatása
 
 |
 
-95 763,1
+86 763,1
 
 |
 
@@ -1084,7 +1110,7 @@ Helyi önkormányzatok támogatása
 
 |
 
-1 148 657,1
+1 173 257,1
 
 |
 
@@ -1096,7 +1122,7 @@ Kamatkiadások
 
 |
 
-1 052 245,7
+1 067 245,7
 
 |
 
@@ -1144,7 +1170,7 @@ Egyéb kiadások
 
 |
 
-32 739,8
+32 239,8
 
 |
 
@@ -1220,7 +1246,7 @@ Hozzájárulás az EU költségvetéséhez
 
 |
 
-106 354,5
+594 430,5
 
 |
 
@@ -1230,7 +1256,7 @@ Elkülönített állami pénzalapok
 
 |
 
-410 147,1
+374 282,7
 
 |
 
@@ -1254,7 +1280,7 @@ Munkaerőpiaci Alap
 
 |
 
-337 238,1
+311 975,2
 
 |
 
@@ -1310,7 +1336,7 @@ Egyéb kiadások
 
 |
 
-137 656,8
+112 393,9
 
 |
 
@@ -1334,7 +1360,7 @@ Kutatási és Technológiai Innovációs Alap
 
 |
 
-45 977,9
+36 977,9
 
 |
 
@@ -1358,7 +1384,7 @@ Nemzeti Kulturális Alap
 
 |
 
-8 807,8
+7 206,3
 
 |
 
@@ -1368,7 +1394,7 @@ Társadalombiztosítás pénzügyi alapjai
 
 |
 
-4 534 260,0
+4 532 118,1
 
 |
 
@@ -1380,7 +1406,7 @@ Nyugdíjbiztosítási Alap
 
 |
 
-3 074 646,1
+3 073 558,2
 
 |
 
@@ -1408,7 +1434,7 @@ TB költségvetési szervek kiadásai
 
 |
 
-12 738,7
+11 650,8
 
 |
 
@@ -1434,7 +1460,7 @@ Egészségbiztosítási Alap
 
 |
 
-1 459 613,9
+1 458 559,9
 
 |
 
@@ -1532,7 +1558,7 @@ EA egyéb természetbeni ellátásai
 
 |
 
-15 358,3
+30 358,3
 
 |
 
@@ -1546,7 +1572,7 @@ TB költségvetési szervek kiadásai
 
 |
 
-10 964,1
+9 910,1
 
 |
 
@@ -1560,17 +1586,7 @@ Egyéb kiadások
 
 |
 
-42 337,3
-
-|
-
-|
-
-|
-
-|
-
-|
+27 337,3
 
 |
 
@@ -1586,7 +1602,7 @@ Központi költségvetés
 
 |
 
-–613 294,5
+–1 138 091,8
 
 |
 
@@ -1596,7 +1612,7 @@ Elkülönített állami pénzalapok
 
 |
 
-14 601,4
+41 465,8
 
 |
 
@@ -1606,7 +1622,7 @@ Társadalombiztosítási alapok
 
 |
 
-–88 677,2
+–87 623,2
 
 |
 
@@ -1630,7 +1646,7 @@ Egészségbiztosítási Alap
 
 |
 
-–88 677,2
+–87 623,2
 
 |
 
@@ -1638,4 +1654,4 @@ Központi alrendszer összesen:
 
 |
 
-–687 370,3
+–1 184 249,2

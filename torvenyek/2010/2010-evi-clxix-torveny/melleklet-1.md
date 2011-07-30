@@ -1,6 +1,8 @@
 1. melléklet a 2010. évi CLXIX. törvényhez
 
-Millió forintban
+|
+
+millió forintban
 
 |
 
@@ -114,7 +116,11 @@ Bevétel
 
 |
 
-Támogatás*
+Támogatás
+
+|
+
+|
 
 |
 
@@ -442,7 +448,7 @@ Kárpát-medencei Magyar Képviselők Fóruma működése
 
 |
 
-Magyar Nemzeti Kisebbségek Európai Érdekképviseletéért
+Magyar Nemzeti Kisebbségek Európai Érdekképviseletéért Alapítvány támogatása
 
 |
 
@@ -453,14 +459,6 @@ Magyar Nemzeti Kisebbségek Európai Érdekképviseletéért
 |
 
 52,0
-
-|
-
-|
-
-|
-
-Alapítvány támogatása
 
 |
 
@@ -689,10 +687,6 @@ Felújítás
 |
 
 144,6
-
-|
-
-|
 
 |
 
@@ -2052,7 +2046,7 @@ Működési költségvetés
 
 |
 
-Személyi juttatás
+Személyi juttatások
 
 |
 
@@ -2452,6 +2446,8 @@ VIII. fejezet összesen:
 
 |
 
+|
+
 IX. HELYI ÖNKORMÁNYZATOK TÁMOGATÁSAI ÉS ÁTENGEDETT SZEMÉLYI JÖVEDELEMADÓJA
 
 |
@@ -2698,7 +2694,7 @@ Központosított előirányzatok
 
 |
 
-Helyi önkormányzatok kiegészító támogatása
+Helyi önkormányzatok kiegészítő támogatása
 
 |
 
@@ -2730,9 +2726,17 @@ Helyi önkormányzatok kiegészító támogatása
 
 |
 
-3 A tartósan fizetésképtelen helyzetbe került helyi önkormányzatok adósságrendezésére irányuló hitelfelvétel visszterhes kamattámogatása,
+|
 
-a pénzügyi gondnok díja 100,0
+3
+
+|
+
+A tartósan fizetésképtelen helyzetbe került helyi önkormányzatok adósságrendezésére irányuló hitelfelvétel visszterhes kamattámogatása, a pénzügyi gondnok díja
+
+|
+
+100,0
 
 |
 
@@ -2780,7 +2784,7 @@ Egyes szociális feladatok támogatása
 
 |
 
-88 904,8
+113 504,8
 
 |
 
@@ -2840,7 +2844,7 @@ Vis maior támogatás
 
 |
 
-Budapest 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal építésének támogatása
+Budapest 4-es – Budapest Kelenföldi pályaudvar-Bosnyák tér közötti – metróvonal építésének támogatása
 
 |
 
@@ -2854,7 +2858,7 @@ IX. fejezet összesen:
 
 |
 
-1 148 657,1
+1 173 257,1
 
 |
 
@@ -2876,7 +2880,7 @@ Közigazgatási és Igazságügyi Minisztérium igazgatása
 
 |
 
-9 473,3
+8 726,0
 
 |
 
@@ -2934,7 +2938,7 @@ Dologi kiadások
 
 |
 
-1 635,4
+888,1
 
 |
 
@@ -3100,7 +3104,7 @@ Egyenlő Bánásmód Hatóság
 
 |
 
-187,4
+168,6
 
 |
 
@@ -3130,7 +3134,7 @@ Személyi juttatások
 
 |
 
-111,8
+109,3
 
 |
 
@@ -3144,7 +3148,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-30,1
+29,4
 
 |
 
@@ -3158,31 +3162,7 @@ Dologi kiadások
 
 |
 
-47,4
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-1,1
+32,9
 
 |
 
@@ -3190,7 +3170,7 @@ Intézményi beruházási kiadások
 
 |
 
-Kormányzati Személyügyi, Szolgáltató és Közigazgatási Képzési Központ
+Nemzeti Közigazgatási Intézet
 
 |
 
@@ -3198,7 +3178,7 @@ Kormányzati Személyügyi, Szolgáltató és Közigazgatási Képzési Központ
 
 |
 
-965,0
+868,5
 
 |
 
@@ -3256,7 +3236,7 @@ Dologi kiadások
 
 |
 
-514,8
+418,3
 
 |
 
@@ -3296,7 +3276,7 @@ Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal
 
 |
 
-19 012,9
+17 111,6
 
 |
 
@@ -3354,7 +3334,7 @@ Dologi kiadások
 
 |
 
-23 650,8
+21 749,5
 
 |
 
@@ -3422,7 +3402,7 @@ Igazságügyi Szakértői és Kutató Intézetek
 
 |
 
-1 443,7
+1 299,3
 
 |
 
@@ -3452,7 +3432,7 @@ Személyi juttatások
 
 |
 
-1 344,3
+1 230,6
 
 |
 
@@ -3466,7 +3446,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-370,6
+339,9
 
 |
 
@@ -3586,7 +3566,7 @@ Fővárosi, megyei kormányhivatalok
 
 |
 
-88 420,0
+79 578,0
 
 |
 
@@ -3644,7 +3624,7 @@ Dologi kiadások
 
 |
 
-24 789,2
+15 947,2
 
 |
 
@@ -3718,7 +3698,7 @@ Kölcsönök
 
 |
 
-ECOSTAT Gazdaság- és Társadalomkutató Intézet
+Egyéb kutatóintézetek
 
 |
 
@@ -3726,7 +3706,7 @@ ECOSTAT Gazdaság- és Társadalomkutató Intézet
 
 |
 
-327,1
+294,4
 
 |
 
@@ -3750,7 +3730,7 @@ Személyi juttatások
 
 |
 
-230,5
+206,6
 
 |
 
@@ -3764,7 +3744,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-62,6
+53,8
 
 |
 
@@ -3794,7 +3774,7 @@ Balassi Intézet
 
 |
 
-4 121,4
+3 709,3
 
 |
 
@@ -3852,7 +3832,7 @@ Dologi kiadások
 
 |
 
-1 303,6
+1 243,6
 
 |
 
@@ -3866,7 +3846,7 @@ Ellátottak pénzbeli juttatásai
 
 |
 
-492,9
+220,0
 
 |
 
@@ -3880,7 +3860,7 @@ Egyéb működési célú kiadások
 
 |
 
-171,0
+151,0
 
 |
 
@@ -3904,7 +3884,7 @@ Intézményi beruházási kiadások
 
 |
 
-117,2
+58,0
 
 |
 
@@ -3920,7 +3900,7 @@ Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata
 
 |
 
-680,2
+612,2
 
 |
 
@@ -3944,7 +3924,7 @@ Személyi juttatások
 
 |
 
-453,7
+403,7
 
 |
 
@@ -3958,7 +3938,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-114,7
+101,2
 
 |
 
@@ -3972,7 +3952,7 @@ Dologi kiadások
 
 |
 
-107,8
+103,3
 
 |
 
@@ -4012,7 +3992,7 @@ Regionális képző központok
 
 |
 
-2 905,6
+2 615,1
 
 |
 
@@ -4042,7 +4022,7 @@ Személyi juttatások
 
 |
 
-1 595,3
+1 575,3
 
 |
 
@@ -4056,7 +4036,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-429,4
+424,0
 
 |
 
@@ -4070,7 +4050,7 @@ Dologi kiadások
 
 |
 
-2 715,7
+2 480,9
 
 |
 
@@ -4094,7 +4074,7 @@ Intézményi beruházási kiadások
 
 |
 
-147,0
+116,7
 
 |
 
@@ -4124,7 +4104,7 @@ Wekerle Sándor Alapkezelő
 
 |
 
-864,6
+778,1
 
 |
 
@@ -4154,7 +4134,7 @@ Személyi juttatások
 
 |
 
-988,9
+920,8
 
 |
 
@@ -4168,7 +4148,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-294,2
+275,8
 
 |
 
@@ -4236,7 +4216,7 @@ Közgyűjteményi Ellátó Szervezet
 
 |
 
-239,3
+209,8
 
 |
 
@@ -4266,7 +4246,7 @@ Személyi juttatások
 
 |
 
-137,6
+114,4
 
 |
 
@@ -4294,7 +4274,7 @@ Dologi kiadások
 
 |
 
-223,0
+216,7
 
 |
 
@@ -4354,7 +4334,7 @@ Központilag kezelt fejezeti feladatok
 
 |
 
-330,4
+137,8
 
 |
 
@@ -4378,7 +4358,7 @@ Személyi juttatások
 
 |
 
-251,0
+111,0
 
 |
 
@@ -4392,21 +4372,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-64,4
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-15,0
+26,8
 
 |
 
@@ -4424,7 +4390,7 @@ Nemzeti és kiemelt ünnepek, egyéb rendezvények, események támogatása
 
 |
 
-1 000,0
+950,0
 
 |
 
@@ -4476,7 +4442,7 @@ Dologi kiadások
 
 |
 
-936,5
+886,5
 
 |
 
@@ -4494,7 +4460,7 @@ Lakossági tájékoztatáshoz kapcsolódó kiadások
 
 |
 
-730,0
+650,0
 
 |
 
@@ -4518,7 +4484,7 @@ Személyi juttatások
 
 |
 
-100,0
+37,0
 
 |
 
@@ -4532,7 +4498,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-27,0
+10,0
 
 |
 
@@ -4564,7 +4530,7 @@ Dologi kiadások
 
 |
 
-500,0
+228,6
 
 |
 
@@ -4616,7 +4582,7 @@ Dologi kiadások
 
 |
 
-334,9
+63,5
 
 |
 
@@ -4626,7 +4592,7 @@ Dologi kiadások
 
 |
 
-Lengyel–Magyar Együttműködés 2011
+Lengyel-Magyar Együttműködés 2011
 
 |
 
@@ -4673,76 +4639,6 @@ Munkaadókat terhelő járulékok
 |
 
 8,0
-
-|
-
-|
-
-13
-
-|
-
-Személyügyi és továbbképzési feladatok támogatása
-
-|
-
-|
-
-|
-
-20,0
-
-|
-
-|
-
-1
-
-|
-
-Működési költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Személyi juttatások
-
-|
-
-8,0
-
-|
-
-|
-
-2
-
-|
-
-Munkaadókat terhelő járulékok
-
-|
-
-2,0
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-10,0
 
 |
 
@@ -4800,7 +4696,7 @@ Kormányzati igazgatással kapcsolatos feladatok támogatása
 
 |
 
-312,2
+61,1
 
 |
 
@@ -4824,7 +4720,7 @@ Személyi juttatások
 
 |
 
-111,5
+46,5
 
 |
 
@@ -4838,21 +4734,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-30,1
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-170,6
+14,6
 
 |
 
@@ -4936,13 +4818,13 @@ Központi informatikai feladatok
 
 |
 
-66,6
+54,6
 
 |
 
 |
 
-66,6
+54,6
 
 |
 
@@ -4956,13 +4838,13 @@ Nemzetközi kötelezettségek teljesítése
 
 |
 
-16,9
+13,9
 
 |
 
 |
 
-16,9
+13,9
 
 |
 
@@ -4976,13 +4858,13 @@ Központi e-közigazgatási feladatok
 
 |
 
-100,0
+82,0
 
 |
 
 |
 
-100,0
+82,0
 
 |
 
@@ -4996,13 +4878,13 @@ Uniós projektek támogatása
 
 |
 
-77,0
+63,1
 
 |
 
 |
 
-77,0
+63,1
 
 |
 
@@ -5130,13 +5012,13 @@ Európai területi együttműködési csoportosulások működésének támogat�
 
 |
 
-250,0
+205,0
 
 |
 
 |
 
-250,0
+205,0
 
 |
 
@@ -5150,13 +5032,13 @@ Határon Átnyúló Kezdeményezések Közép-európai Segítő Szolgálata (CES
 
 |
 
-50,0
+41,0
 
 |
 
 |
 
-50,0
+41,0
 
 |
 
@@ -5170,13 +5052,13 @@ Millenáris Nonprofit Kft. programjainak támogatása
 
 |
 
-500,0
+410,0
 
 |
 
 |
 
-500,0
+410,0
 
 |
 
@@ -5246,13 +5128,13 @@ Emberi Jogok Magyar Központja Közalapítvány
 
 |
 
-10,0
+8,2
 
 |
 
 |
 
-10,0
+8,2
 
 |
 
@@ -5286,13 +5168,13 @@ Magyarországi Cigányokért Közalapítvány
 
 |
 
-389,8
+117,0
 
 |
 
 |
 
-389,8
+117,0
 
 |
 
@@ -5310,7 +5192,7 @@ Nemzeti Civil Alapprogram
 
 |
 
-3 640,0
+2 837,1
 
 |
 
@@ -5334,7 +5216,7 @@ Dologi kiadások
 
 |
 
-291,2
+227,0
 
 |
 
@@ -5348,7 +5230,7 @@ Egyéb működési célú kiadások
 
 |
 
-3 348,8
+2 610,1
 
 |
 
@@ -5362,13 +5244,13 @@ Rádió C
 
 |
 
-35,0
+28,7
 
 |
 
 |
 
-35,0
+28,7
 
 |
 
@@ -5588,7 +5470,7 @@ Nemzetpolitikai tevékenység támogatása
 
 |
 
-2 607,1
+2 047,8
 
 |
 
@@ -5654,7 +5536,7 @@ Egyéb működési célú kiadások
 
 |
 
-1 861,0
+1 301,7
 
 |
 
@@ -5688,17 +5570,17 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-A magyar–magyar kapcsolattartás és az együttműködést szolgáló intézmények támogatása
+A magyar-magyar kapcsolattartás és az együttműködést szolgáló intézmények támogatása
 
 |
 
-259,4
+212,7
 
 |
 
 |
 
-259,4
+212,7
 
 |
 
@@ -5738,7 +5620,7 @@ Egyházi célú központi költségvetési hozzájárulások
 
 |
 
-Egyházi kulturális tevékenységek támogatása (közgyűjtemények, közművelődési intézmények, kulturális programok)
+Egyházi kulturális tevékenységek támogatása (közgyűjtemények, közművelődési intézmények, kulturális programok
 
 |
 
@@ -5934,13 +5816,13 @@ Egyházi alapintézmény-működés, Szja rendelkezés és kiegészítése
 
 |
 
-10 700,0
+10 506,0
 
 |
 
 |
 
-10 700,0
+10 506,0
 
 |
 
@@ -6136,13 +6018,13 @@ Egyházi épített örökség védelme és egyéb beruházások
 
 |
 
-1 350,0
+1 544,0
 
 |
 
 |
 
-1 350,0
+1 544,0
 
 |
 
@@ -6818,7 +6700,7 @@ A társadalmi felzárkózás aktív szociálpolitikai eszközei
 
 |
 
-615,9
+505,0
 
 |
 
@@ -6870,7 +6752,7 @@ Egyéb működési célú kiadások
 
 |
 
-482,4
+371,5
 
 |
 
@@ -6888,7 +6770,7 @@ Roma Integráció Évtizede Program végrehajtása
 
 |
 
-95,0
+77,9
 
 |
 
@@ -6954,7 +6836,7 @@ Egyéb működési célú kiadások
 
 |
 
-64,8
+47,7
 
 |
 
@@ -6968,13 +6850,13 @@ Roma Oktatási Programok
 
 |
 
-30,8
+25,3
 
 |
 
 |
 
-30,8
+25,3
 
 |
 
@@ -6992,7 +6874,7 @@ Roma Oktatási Programok
 
 |
 
-15,5
+12,7
 
 |
 
@@ -7016,7 +6898,7 @@ Személyi juttatások
 
 |
 
-12,2
+10,0
 
 |
 
@@ -7030,7 +6912,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-3,3
+2,7
 
 |
 
@@ -7048,7 +6930,7 @@ Társadalmi felzárkózást elősegítő stratégiai tervezés és kutatás vala
 
 |
 
-125,9
+103,2
 
 |
 
@@ -7100,7 +6982,7 @@ Dologi kiadások
 
 |
 
-44,8
+22,1
 
 |
 
@@ -7114,13 +6996,13 @@ Roma telepeken élők lakhatási és szociális integrációs programja
 
 |
 
-500,0
+410,0
 
 |
 
 |
 
-500,0
+410,0
 
 |
 
@@ -7208,7 +7090,7 @@ Leghátrányosabb helyzetű kistérségek programjának koordinációja
 
 |
 
-200,0
+164,0
 
 |
 
@@ -7260,7 +7142,7 @@ Dologi kiadások
 
 |
 
-136,5
+100,5
 
 |
 
@@ -7284,13 +7166,13 @@ Fejezeti általános tartalék
 
 |
 
-200,0
+100,0
 
 |
 
 |
 
-200,0
+100,0
 
 |
 
@@ -7300,15 +7182,15 @@ Fejezeti általános tartalék
 
 |
 
-243 911,0
+228 110,6
 
 |
 
-54 429, 7
+54 429,7
 
 |
 
-189 481,3
+173 680,9
 
 |
 
@@ -7334,7 +7216,7 @@ Kormányzati Ellenőrzési Hivatal
 
 |
 
-874,9
+787,4
 
 |
 
@@ -7392,7 +7274,7 @@ Dologi kiadások
 
 |
 
-191,0
+103,5
 
 |
 
@@ -7426,7 +7308,7 @@ Intézményi beruházási kiadások
 
 |
 
-877,9
+790,4
 
 |
 
@@ -7434,7 +7316,7 @@ Intézményi beruházási kiadások
 
 |
 
-874,9
+787,4
 
 |
 
@@ -7546,7 +7428,7 @@ X. fejezet összesen:
 
 |
 
-292 184,2
+276 296,3
 
 |
 
@@ -7554,7 +7436,7 @@ X. fejezet összesen:
 
 |
 
-190 356,2
+174 468,3
 
 |
 
@@ -7576,7 +7458,7 @@ Miniszterelnökség
 
 |
 
-2 146,0
+2 038,7
 
 |
 
@@ -7628,7 +7510,7 @@ Dologi kiadások
 
 |
 
-997,3
+890,0
 
 |
 
@@ -7654,7 +7536,7 @@ Kormányfői protokoll
 
 |
 
-650,0
+614,1
 
 |
 
@@ -7678,7 +7560,7 @@ Személyi juttatások
 
 |
 
-150,0
+126,9
 
 |
 
@@ -7692,7 +7574,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-42,7
+34,3
 
 |
 
@@ -7706,7 +7588,7 @@ Dologi kiadások
 
 |
 
-457,3
+452,9
 
 |
 
@@ -7720,13 +7602,13 @@ Uniós elnökséggel kapcsolatos kiemelt feladatok
 
 |
 
-400,0
+100,0
 
 |
 
 |
 
-400,0
+100,0
 
 |
 
@@ -7756,13 +7638,13 @@ Fejezeti tartalék
 
 |
 
-3 416,0
+2 972,8
 
 |
 
 |
 
-3 416,0
+2 972,8
 
 |
 
@@ -7784,13 +7666,13 @@ XI. fejezet összesen:
 
 |
 
-93 416,0
+92 972,8
 
 |
 
 |
 
-3 416,0
+2 972,8
 
 |
 
@@ -7812,7 +7694,7 @@ Vidékfejlesztési Minisztérium igazgatása
 
 |
 
-5 991,2
+5 691,6
 
 |
 
@@ -7870,7 +7752,7 @@ Dologi kiadások
 
 |
 
-981,4
+681,8
 
 |
 
@@ -7926,6 +7808,8 @@ Kölcsönök
 
 |
 
+|
+
 5,0
 
 |
@@ -7952,7 +7836,7 @@ Mezőgazdasági Szakigazgatási Hivatal
 
 |
 
-5 510,9
+4 056,7
 
 |
 
@@ -7996,7 +7880,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-2 044,3
+1 290,1
 
 |
 
@@ -8010,7 +7894,7 @@ Dologi kiadások
 
 |
 
-4 433,2
+3 733,2
 
 |
 
@@ -8028,7 +7912,7 @@ Magyar Élelmiszer-biztonsági Hivatal
 
 |
 
-136,3
+115,1
 
 |
 
@@ -8080,7 +7964,7 @@ Dologi kiadások
 
 |
 
-46,0
+31,8
 
 |
 
@@ -8104,7 +7988,7 @@ Intézményi beruházási kiadások
 
 |
 
-9,8
+2,8
 
 |
 
@@ -8186,7 +8070,7 @@ Dologi kiadások
 
 |
 
-293,5
+241,7
 
 |
 
@@ -8244,7 +8128,7 @@ Dologi kiadások
 
 |
 
-324,3
+272,5
 
 |
 
@@ -8276,7 +8160,7 @@ Mezőgazdasági és Vidékfejlesztési Hivatal
 
 |
 
-9 604,1
+8 208,6
 
 |
 
@@ -8306,7 +8190,7 @@ Személyi juttatások
 
 |
 
-4 322,0
+4 085,8
 
 |
 
@@ -8320,7 +8204,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 188,4
+1 124,6
 
 |
 
@@ -8334,7 +8218,7 @@ Dologi kiadások
 
 |
 
-1 497,1
+1 391,6
 
 |
 
@@ -8348,7 +8232,7 @@ Egyéb működési célú kiadások
 
 |
 
-2 468,7
+1 608,7
 
 |
 
@@ -8372,7 +8256,7 @@ Intézményi beruházási kiadások
 
 |
 
-177,9
+47,9
 
 |
 
@@ -8388,7 +8272,7 @@ Mezőgazdasági középfokú szakoktatás és szaktanácsadás intézményei
 
 |
 
-4 041,0
+3 722,2
 
 |
 
@@ -8446,7 +8330,7 @@ Dologi kiadások
 
 |
 
-1 718,3
+1 399,5
 
 |
 
@@ -8478,7 +8362,7 @@ Közművelődési intézmények
 
 |
 
-488,1
+403,3
 
 |
 
@@ -8536,7 +8420,7 @@ Dologi kiadások
 
 |
 
-197,2
+112,4
 
 |
 
@@ -8552,7 +8436,7 @@ Agrárkutató intézetek
 
 |
 
-1 818,1
+1 384,9
 
 |
 
@@ -8582,7 +8466,7 @@ Személyi juttatások
 
 |
 
-2 030,3
+1 918,9
 
 |
 
@@ -8596,7 +8480,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-590,9
+556,3
 
 |
 
@@ -8610,7 +8494,7 @@ Dologi kiadások
 
 |
 
-867,3
+580,1
 
 |
 
@@ -8642,7 +8526,7 @@ Agrármarketing-Centrum
 
 |
 
-167,3
+151,0
 
 |
 
@@ -8700,7 +8584,7 @@ Dologi kiadások
 
 |
 
-29,0
+12,7
 
 |
 
@@ -8716,7 +8600,7 @@ Génmegőrzési Intézmények
 
 |
 
-326,7
+284,2
 
 |
 
@@ -8760,7 +8644,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-63,7
+42,4
 
 |
 
@@ -8774,7 +8658,7 @@ Dologi kiadások
 
 |
 
-138,8
+117,6
 
 |
 
@@ -8790,7 +8674,7 @@ Országos Meteorológiai Szolgálat
 
 |
 
-685,6
+316,3
 
 |
 
@@ -8820,7 +8704,7 @@ Személyi juttatások
 
 |
 
-835,7
+825,7
 
 |
 
@@ -8834,7 +8718,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-245,9
+243,2
 
 |
 
@@ -8848,7 +8732,7 @@ Dologi kiadások
 
 |
 
-641,6
+285,0
 
 |
 
@@ -8940,7 +8824,7 @@ Vízügyi és Környezetvédelmi Központi Igazgatóság
 
 |
 
-788,7
+659,0
 
 |
 
@@ -8970,7 +8854,7 @@ Személyi juttatások
 
 |
 
-358,3
+299,4
 
 |
 
@@ -8984,7 +8868,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-91,7
+76,6
 
 |
 
@@ -8998,7 +8882,7 @@ Dologi kiadások
 
 |
 
-418,8
+363,1
 
 |
 
@@ -9014,7 +8898,7 @@ Nemzeti park igazgatóságok
 
 |
 
-3 000,7
+1 662,2
 
 |
 
@@ -9044,7 +8928,7 @@ Személyi juttatások
 
 |
 
-2 421,4
+2 272,3
 
 |
 
@@ -9058,7 +8942,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-680,1
+589,4
 
 |
 
@@ -9072,7 +8956,7 @@ Dologi kiadások
 
 |
 
-2 317,1
+1 606,5
 
 |
 
@@ -9096,7 +8980,7 @@ Intézményi beruházási kiadások
 
 |
 
-581,8
+380,3
 
 |
 
@@ -9110,7 +8994,7 @@ Felújítás
 
 |
 
-279,6
+93,0
 
 |
 
@@ -9126,7 +9010,7 @@ Környezetvédelmi, természetvédelmi és vízügyi hatósági szervek
 
 |
 
-5 086,8
+3 197,5
 
 |
 
@@ -9156,7 +9040,7 @@ Személyi juttatások
 
 |
 
-5 155,3
+4 819,0
 
 |
 
@@ -9170,7 +9054,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 435,8
+1 313,1
 
 |
 
@@ -9184,7 +9068,7 @@ Dologi kiadások
 
 |
 
-2 090,6
+698,2
 
 |
 
@@ -9208,7 +9092,7 @@ Intézményi beruházási kiadások
 
 |
 
-238,6
+200,7
 
 |
 
@@ -9224,7 +9108,7 @@ Környezetvédelmi és vízügyi igazgatóságok
 
 |
 
-11 142,6
+9 145,5
 
 |
 
@@ -9254,7 +9138,7 @@ Személyi juttatások
 
 |
 
-8 776,1
+7 684,8
 
 |
 
@@ -9268,7 +9152,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-2 340,2
+2 049,0
 
 |
 
@@ -9282,7 +9166,7 @@ Dologi kiadások
 
 |
 
-2 791,2
+2 176,6
 
 |
 
@@ -9322,7 +9206,7 @@ Nemzeti Földalapkezelő Szervezet
 
 |
 
-1 300,0
+1 092,7
 
 |
 
@@ -9346,7 +9230,7 @@ Személyi juttatások
 
 |
 
-748,0
+712,0
 
 |
 
@@ -9360,7 +9244,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-202,0
+192,3
 
 |
 
@@ -9374,7 +9258,7 @@ Dologi kiadások
 
 |
 
-300,0
+138,4
 
 |
 
@@ -9430,13 +9314,13 @@ Regionális viziközmű rendszerek állami kötelezettségei és a pályázati f
 
 |
 
-50,0
+20,0
 
 |
 
 |
 
-50,0
+20,0
 
 |
 
@@ -9460,13 +9344,13 @@ Vízkárelhárítási művek fejlesztése és állagmegóvása
 
 |
 
-500,0
+220,0
 
 |
 
 |
 
-500,0
+220,0
 
 |
 
@@ -9480,13 +9364,13 @@ Balatoni regionális víziközmű-hálózat fejlesztése
 
 |
 
-50,0
+20,0
 
 |
 
 |
 
-50,0
+20,0
 
 |
 
@@ -9500,13 +9384,13 @@ EU Víz Keretirányelv végrehajtásának feladatai
 
 |
 
-100,0
+45,0
 
 |
 
 |
 
-100,0
+45,0
 
 |
 
@@ -9520,13 +9404,13 @@ Ivóvíz-minőség javító program
 
 |
 
-200,0
+90,0
 
 |
 
 |
 
-200,0
+90,0
 
 |
 
@@ -9554,7 +9438,7 @@ Vízkárelhárítási művek fenntartása
 
 |
 
-922,0
+875,9
 
 |
 
@@ -9606,7 +9490,7 @@ Dologi kiadások
 
 |
 
-665,6
+619,5
 
 |
 
@@ -9690,13 +9574,13 @@ Vizitársulatok kezelésében és üzemeltetésében lévő vizilétesítmények
 
 |
 
-4 600,0
+3 910,0
 
 |
 
 |
 
-4 600,0
+3 910,0
 
 |
 
@@ -9714,7 +9598,7 @@ Balaton intézkedési terv és nagy tavaink védelme program
 
 |
 
-20,0
+16,0
 
 |
 
@@ -9752,21 +9636,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-6,0
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-3,5
+5,5
 
 |
 
@@ -9850,13 +9720,13 @@ Vízügyi feladatok támogatása
 
 |
 
-348,0
+295,8
 
 |
 
 |
 
-348,0
+295,8
 
 |
 
@@ -10116,7 +9986,7 @@ Országos Környezeti Kármentesítési Program
 
 |
 
-139,7
+111,8
 
 |
 
@@ -10192,7 +10062,7 @@ Intézményi beruházási kiadások
 
 |
 
-82,3
+54,4
 
 |
 
@@ -10206,13 +10076,13 @@ Intézményi beruházási kiadások
 
 |
 
-201,6
+146,6
 
 |
 
 |
 
-201,6
+146,6
 
 |
 
@@ -10226,13 +10096,13 @@ Az illegális hulladék-elhelyezés felszámolásának feladatai
 
 |
 
-50,0
+45,0
 
 |
 
 |
 
-50,0
+45,0
 
 |
 
@@ -10250,7 +10120,7 @@ Vízgazdálkodási pályázatok előkészítése és támogatása
 
 |
 
-98,1
+68,1
 
 |
 
@@ -10274,7 +10144,7 @@ Személyi juttatások
 
 |
 
-72,4
+48,8
 
 |
 
@@ -10288,7 +10158,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-20,4
+14,0
 
 |
 
@@ -10424,7 +10294,7 @@ Agrárkutatás, tanüzemek, szakképzés támogatása
 
 |
 
-400,0
+320,0
 
 |
 
@@ -10476,7 +10346,7 @@ Dologi kiadások
 
 |
 
-173,5
+93,5
 
 |
 
@@ -10490,13 +10360,13 @@ Magán és egyéb jogi személyek kártérítése
 
 |
 
-14,9
+11,9
 
 |
 
 |
 
-14,9
+11,9
 
 |
 
@@ -10510,13 +10380,13 @@ Határon átnyúló vidékfejlesztési feladatok támogatása
 
 |
 
-44,4
+22,2
 
 |
 
 |
 
-44,4
+22,2
 
 |
 
@@ -10534,7 +10404,7 @@ Tanyafejlesztési Program
 
 |
 
-1 000,0
+845,0
 
 |
 
@@ -10586,7 +10456,7 @@ Dologi kiadások
 
 |
 
-936,5
+781,5
 
 |
 
@@ -10600,13 +10470,13 @@ Dologi kiadások
 
 |
 
-197,8
+98,9
 
 |
 
 |
 
-197,8
+98,9
 
 |
 
@@ -10720,7 +10590,7 @@ Osztatlan földtulajdon kimérésének költségei
 
 |
 
-250,0
+237,5
 
 |
 
@@ -10744,7 +10614,7 @@ Személyi juttatások
 
 |
 
-125,0
+118,7
 
 |
 
@@ -10758,7 +10628,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-34,0
+32,3
 
 |
 
@@ -10772,7 +10642,7 @@ Dologi kiadások
 
 |
 
-91,0
+86,5
 
 |
 
@@ -10790,7 +10660,7 @@ Intézményi feladatok támogatása
 
 |
 
-773,6
+473,6
 
 |
 
@@ -10814,7 +10684,7 @@ Személyi juttatások
 
 |
 
-342,7
+282,7
 
 |
 
@@ -10828,7 +10698,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-74,1
+61,5
 
 |
 
@@ -10842,7 +10712,7 @@ Dologi kiadások
 
 |
 
-296,8
+119,4
 
 |
 
@@ -10866,7 +10736,7 @@ Intézményi beruházási kiadások
 
 |
 
-60,0
+10,0
 
 |
 
@@ -10880,13 +10750,13 @@ Magyar Agrárkamara állami feladatainak támogatása
 
 |
 
-56,7
+45,4
 
 |
 
 |
 
-56,7
+45,4
 
 |
 
@@ -10900,13 +10770,13 @@ Magyar Agrárkamara állami feladatainak támogatása
 
 |
 
-12,0
+11,4
 
 |
 
 |
 
-12,0
+11,4
 
 |
 
@@ -10920,13 +10790,13 @@ Növényorvosi Kamara állami feladatainak támogatása
 
 |
 
-6,4
+6,1
 
 |
 
 |
 
-6,4
+6,1
 
 |
 
@@ -10944,7 +10814,7 @@ Növényorvosi Kamara állami feladatainak támogatása
 
 |
 
-400,0
+250,0
 
 |
 
@@ -10988,20 +10858,6 @@ Munkaadókat terhelő járulékok
 
 |
 
-3
-
-|
-
-Dologi kiadások
-
-|
-
-150,0
-
-|
-
-|
-
 20
 
 |
@@ -11010,13 +10866,13 @@ Hegyközségek Nemzeti Tanácsa
 
 |
 
-224,0
+179,2
 
 |
 
 |
 
-224,0
+179,2
 
 |
 
@@ -11048,13 +10904,13 @@ Nemzetközi Szervezetek tagsági díjai
 
 |
 
-348,0
+244,2
 
 |
 
 |
 
-348,0
+244,2
 
 |
 
@@ -11228,13 +11084,13 @@ Nemzeti támogatások
 
 |
 
-750,0
+700,0
 
 |
 
 |
 
-750,0
+700,0
 
 |
 
@@ -11248,13 +11104,13 @@ Vadgazdálkodás támogatása
 
 |
 
-10,0
+8,0
 
 |
 
 |
 
-10,0
+8,0
 
 |
 
@@ -11278,13 +11134,13 @@ Erdőfelújítás
 
 |
 
-323,8
+259,0
 
 |
 
 |
 
-323,8
+259,0
 
 |
 
@@ -11298,13 +11154,13 @@ Erdőtelepítés, erdőszerkezet-átalakítás, fásítás
 
 |
 
-315,5
+252,4
 
 |
 
 |
 
-315,5
+252,4
 
 |
 
@@ -11318,13 +11174,13 @@ Fenntartható erdőgazdálkodás támogatása
 
 |
 
-280,0
+198,9
 
 |
 
 |
 
-280,0
+198,9
 
 |
 
@@ -11342,7 +11198,7 @@ Fejlesztési típusú támogatások
 
 |
 
-130,0
+104,0
 
 |
 
@@ -11390,7 +11246,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-85,0
+59,0
 
 |
 
@@ -11408,7 +11264,7 @@ Folyó kiadások és jövedelem-támogatások
 
 |
 
-55 314,5
+49 383,2
 
 |
 
@@ -11446,7 +11302,7 @@ Egyéb működési célú kiadások
 
 |
 
-55 250,7
+49 319,4
 
 |
 
@@ -12048,7 +11904,7 @@ Fejezeti általános tartalék
 
 |
 
-360 596,2
+341 931,2
 
 |
 
@@ -12056,7 +11912,7 @@ Fejezeti általános tartalék
 
 |
 
-189 672,7
+171 007,7
 
 |
 
@@ -12518,7 +12374,7 @@ XII. fejezet összesen:
 
 |
 
-360 596,2
+341 931,2
 
 |
 
@@ -12526,7 +12382,7 @@ XII. fejezet összesen:
 
 |
 
-189 672,7
+171 007,7
 
 |
 
@@ -12558,7 +12414,7 @@ Honvédelmi Minisztérium igazgatása
 
 |
 
-5 202,6
+4 903,1
 
 |
 
@@ -12588,7 +12444,7 @@ Személyi juttatások
 
 |
 
-3 544,0
+3 487,9
 
 |
 
@@ -12602,7 +12458,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-915,8
+905,0
 
 |
 
@@ -12616,7 +12472,7 @@ Dologi kiadások
 
 |
 
-735,7
+503,1
 
 |
 
@@ -12648,7 +12504,7 @@ Egyéb HM szervezetek
 
 |
 
-12 618,6
+11 453,0
 
 |
 
@@ -12678,7 +12534,7 @@ Személyi juttatások
 
 |
 
-4 478,3
+4 396,8
 
 |
 
@@ -12692,7 +12548,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 076,2
+1 059,8
 
 |
 
@@ -12706,7 +12562,7 @@ Dologi kiadások
 
 |
 
-6 836,3
+5 768,6
 
 |
 
@@ -12756,7 +12612,7 @@ HM Fegyverzeti és Hadbiztosi Hivatal
 
 |
 
-96 818,8
+80 678,3
 
 |
 
@@ -12786,7 +12642,7 @@ Személyi juttatások
 
 |
 
-5 331,2
+4 600,5
 
 |
 
@@ -12800,7 +12656,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 206,8
+1 017,6
 
 |
 
@@ -12814,7 +12670,7 @@ Dologi kiadások
 
 |
 
-81 400,5
+71 864,3
 
 |
 
@@ -12852,7 +12708,7 @@ Intézményi beruházási kiadások
 
 |
 
-10 239,6
+4 555,2
 
 |
 
@@ -12910,7 +12766,7 @@ Honvéd Vezérkar közvetlen szervezetei
 
 |
 
-21 679,8
+20 910,8
 
 |
 
@@ -12940,7 +12796,7 @@ Személyi juttatások
 
 |
 
-14 485,9
+14 184,2
 
 |
 
@@ -12954,7 +12810,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-3 430,4
+3 375,5
 
 |
 
@@ -12968,7 +12824,7 @@ Dologi kiadások
 
 |
 
-4 025,5
+3 613,1
 
 |
 
@@ -13000,7 +12856,7 @@ MH ÖHP és alárendelt szervezetei
 
 |
 
-80 910,4
+77 563,1
 
 |
 
@@ -13030,7 +12886,7 @@ Személyi juttatások
 
 |
 
-57 149,8
+55 065,0
 
 |
 
@@ -13044,7 +12900,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-12 666,2
+12 403,7
 
 |
 
@@ -13058,7 +12914,7 @@ Dologi kiadások
 
 |
 
-11 628,2
+10 628,2
 
 |
 
@@ -13122,7 +12978,7 @@ Katonai Felderítő Hivatal
 
 |
 
-9 492,1
+8 925,8
 
 |
 
@@ -13152,7 +13008,7 @@ Személyi juttatások
 
 |
 
-5 194,1
+5 094,4
 
 |
 
@@ -13166,7 +13022,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 233,2
+1 222,2
 
 |
 
@@ -13180,7 +13036,7 @@ Dologi kiadások
 
 |
 
-3 037,1
+2 581,5
 
 |
 
@@ -13236,7 +13092,7 @@ Katonai Biztonsági Hivatal
 
 |
 
-2 771,7
+2 645,0
 
 |
 
@@ -13266,7 +13122,7 @@ Személyi juttatások
 
 |
 
-1 976,1
+1 934,3
 
 |
 
@@ -13280,7 +13136,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-487,1
+446,4
 
 |
 
@@ -13294,7 +13150,7 @@ Dologi kiadások
 
 |
 
-294,5
+250,3
 
 |
 
@@ -13348,7 +13204,7 @@ Zrínyi Miklós Nemzetvédelmi Egyetem
 
 |
 
-3 524,3
+3 360,0
 
 |
 
@@ -13378,7 +13234,7 @@ Személyi juttatások
 
 |
 
-2 705,6
+2 651,6
 
 |
 
@@ -13392,7 +13248,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-588,4
+579,8
 
 |
 
@@ -13406,7 +13262,7 @@ Dologi kiadások
 
 |
 
-1 124,2
+1 022,5
 
 |
 
@@ -13436,7 +13292,7 @@ Katonai Ügyészségek
 
 |
 
-1 197,5
+1 178,1
 
 |
 
@@ -13466,7 +13322,7 @@ Személyi juttatások
 
 |
 
-882,3
+877,2
 
 |
 
@@ -13480,7 +13336,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-227,2
+225,8
 
 |
 
@@ -13494,7 +13350,7 @@ Dologi kiadások
 
 |
 
-86,0
+73,1
 
 |
 
@@ -13524,7 +13380,7 @@ Honvédkórház – Állami Egészségügyi Központ
 
 |
 
-3 455,4
+3 055,4
 
 |
 
@@ -13582,7 +13438,7 @@ Dologi kiadások
 
 |
 
-4 442,3
+4 042,3
 
 |
 
@@ -13986,13 +13842,13 @@ Nonprofit korlátolt felelősségű társaságok támogatása
 
 |
 
-5 330,0
+3 704,0
 
 |
 
 |
 
-5 330,0
+3 704,0
 
 |
 
@@ -14026,13 +13882,13 @@ Hozzájárulás a NATO Biztonsági Beruházási Programjához
 
 |
 
-3 637,2
+2 910,2
 
 |
 
 |
 
-3 637,2
+2 910,2
 
 |
 
@@ -14162,13 +14018,13 @@ Hozzájárulás a NATO költségvetéséhez
 
 |
 
-4 420,2
+3 537,2
 
 |
 
 |
 
-4 420,2
+3 537,2
 
 |
 
@@ -14182,13 +14038,13 @@ Hozzájárulás az EU védelmi célú közös finanszírozású védelmi alapjai
 
 |
 
-450,0
+360,0
 
 |
 
 |
 
-450,0
+360,0
 
 |
 
@@ -14238,7 +14094,7 @@ XIII. fejezet összesen:
 
 |
 
-275 185,6
+248 861,0
 
 |
 
@@ -14246,7 +14102,7 @@ XIII. fejezet összesen:
 
 |
 
-255 179,1
+228 854,5
 
 |
 
@@ -14268,7 +14124,7 @@ Belügyminisztérium igazgatása
 
 |
 
-3 361,7
+3 188,1
 
 |
 
@@ -14326,7 +14182,7 @@ Dologi kiadások
 
 |
 
-577,7
+404,1
 
 |
 
@@ -14380,7 +14236,7 @@ Rendvédelmi Szervek Védelmi Szolgálata
 
 |
 
-3 845,5
+3 545,5
 
 |
 
@@ -14404,7 +14260,7 @@ Személyi juttatások
 
 |
 
-2 541,5
+2 305,3
 
 |
 
@@ -14418,7 +14274,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-664,3
+600,5
 
 |
 
@@ -14486,7 +14342,7 @@ Terrorelhárítási Központ
 
 |
 
-12 764,0
+10 342,9
 
 |
 
@@ -14516,7 +14372,7 @@ Személyi juttatások
 
 |
 
-5 540,9
+4 815,6
 
 |
 
@@ -14530,7 +14386,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 511,6
+1 315,8
 
 |
 
@@ -14568,21 +14424,7 @@ Intézményi beruházási kiadások
 
 |
 
-3 344,0
-
-|
-
-|
-
-2
-
-|
-
-Felújítás
-
-|
-
-590,5
+2 434,5
 
 |
 
@@ -14598,7 +14440,7 @@ Büntetés-végrehajtás
 
 |
 
-41 012,5
+38 512,5
 
 |
 
@@ -14656,7 +14498,7 @@ Dologi kiadások
 
 |
 
-14 735,9
+12 235,9
 
 |
 
@@ -14742,7 +14584,7 @@ BM Rendészeti Vezetőképző és Kutatóintézet
 
 |
 
-393,5
+373,5
 
 |
 
@@ -14794,45 +14636,7 @@ Dologi kiadások
 
 |
 
-106,2
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-12,0
-
-|
-
-|
-
-2
-
-|
-
-Felújítás
-
-|
-
-4,8
+103,0
 
 |
 
@@ -14848,7 +14652,7 @@ Rendőrség
 
 |
 
-222 723,1
+202 723,1
 
 |
 
@@ -14878,7 +14682,7 @@ Személyi juttatások
 
 |
 
-146 096,4
+145 146,4
 
 |
 
@@ -14892,7 +14696,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-37 681,3
+37 424,8
 
 |
 
@@ -14906,7 +14710,7 @@ Dologi kiadások
 
 |
 
-40 127,2
+25 045,4
 
 |
 
@@ -14917,20 +14721,6 @@ Dologi kiadások
 |
 
 Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-3 711,7
 
 |
 
@@ -14960,7 +14750,7 @@ Alkotmányvédelmi Hivatal
 
 |
 
-7 364,3
+7 014,3
 
 |
 
@@ -14990,7 +14780,7 @@ Személyi juttatások
 
 |
 
-5 084,1
+4 808,5
 
 |
 
@@ -15004,7 +14794,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 384,1
+1 309,7
 
 |
 
@@ -15206,7 +14996,7 @@ Szervezett Bűnözés Elleni Koordinációs Központ
 
 |
 
-206,4
+196,1
 
 |
 
@@ -15282,7 +15072,7 @@ Intézményi beruházási kiadások
 
 |
 
-29,9
+19,6
 
 |
 
@@ -15298,7 +15088,7 @@ Rendőrtiszti Főiskola
 
 |
 
-1 137,8
+1 077,8
 
 |
 
@@ -15356,7 +15146,7 @@ Dologi kiadások
 
 |
 
-306,3
+246,3
 
 |
 
@@ -15386,7 +15176,7 @@ Országos Katasztrófavédelmi Főigazgatóság
 
 |
 
-10 917,3
+10 377,3
 
 |
 
@@ -15482,7 +15272,7 @@ Intézményi beruházási kiadások
 
 |
 
-898,2
+358,2
 
 |
 
@@ -15512,7 +15302,7 @@ Bevándorlási és Állampolgársági Hivatal
 
 |
 
-6 334,9
+6 184,9
 
 |
 
@@ -15570,7 +15360,7 @@ Dologi kiadások
 
 |
 
-2 646,2
+2 496,2
 
 |
 
@@ -15638,7 +15428,7 @@ Nemzetközi Oktatási és Polgári Válságkezelési Központ
 
 |
 
-688,9
+653,9
 
 |
 
@@ -15696,7 +15486,7 @@ Dologi kiadások
 
 |
 
-526,8
+491,8
 
 |
 
@@ -15944,13 +15734,13 @@ Informatikai rendszerekkel összefüggő kiadások
 
 |
 
-347,1
+247,1
 
 |
 
 |
 
-347,1
+247,1
 
 |
 
@@ -16012,26 +15802,6 @@ Nemzetközi fizetési kötelezettség
 
 |
 
-25
-
-|
-
-Közbiztonsági feladatterv támogatása
-
-|
-
-1 115,6
-
-|
-
-|
-
-1 115,6
-
-|
-
-|
-
 26
 
 |
@@ -16056,7 +15826,7 @@ Területrendezési és építésügyi háttérintézményi feladatok
 
 |
 
-Unios forrásból megvalósuló projektekkel kapcsolatos kiadások
+Uniós forrásból megvalósuló projektekkel kapcsolatos kiadások
 
 |
 
@@ -16500,79 +16270,13 @@ Rendőrség informatikai fejlesztési feladatainak támogatása
 
 |
 
-|
-
-|
-
-2 600,0
+650,0
 
 |
 
 |
 
-1
-
-|
-
-Működési költségvetés
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-110,8
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-2 489,2
-
-|
-
-|
-
-42
-
-|
-
-NBSZ tevékenységével összefüggő fejlesztési feladatok támogatása
-
-|
-
-2 300,0
-
-|
-
-|
-
-2 300,0
+650,0
 
 |
 
@@ -16586,13 +16290,13 @@ Az árvíz során megrongálódott közintézmények helyreállítása
 
 |
 
-3 000,0
+62,5
 
 |
 
 |
 
-3 000,0
+62,5
 
 |
 
@@ -16792,7 +16496,7 @@ Magyar Tűzoltó Szövetség támogatása
 
 |
 
-Létesítményi és Önkéntes Tűzoltóságok Országos Szövetségének támogatása
+Létesítményi és Önkéntes Tűzoltóságok Országos szövetségének támogatása
 
 |
 
@@ -17570,7 +17274,7 @@ Fejezeti tartalék
 
 |
 
-361 670,0
+326 706,9
 
 |
 
@@ -17578,7 +17282,7 @@ Fejezeti tartalék
 
 |
 
-342 888,6
+307 925,5
 
 |
 
@@ -17612,7 +17316,7 @@ XIV. fejezet összesen:
 
 |
 
-361 670,0
+326 706,9
 
 |
 
@@ -17620,7 +17324,7 @@ XIV. fejezet összesen:
 
 |
 
-342 888,6
+307 925,5
 
 |
 
@@ -17642,7 +17346,7 @@ Nemzetgazdasági Minisztérium igazgatása
 
 |
 
-7 236,5
+6 874,7
 
 |
 
@@ -17700,7 +17404,7 @@ Dologi kiadások
 
 |
 
-1 089,2
+727,4
 
 |
 
@@ -17876,7 +17580,7 @@ Magyar Kereskedelmi Engedélyezési Hivatal
 
 |
 
-546,1
+491,5
 
 |
 
@@ -17934,7 +17638,7 @@ Dologi kiadások
 
 |
 
-2 219,0
+2 164,4
 
 |
 
@@ -18002,7 +17706,7 @@ Foglalkoztatási Hivatal
 
 |
 
-2 719,4
+2 517,4
 
 |
 
@@ -18032,7 +17736,7 @@ Személyi juttatások
 
 |
 
-1 267,4
+1 232,4
 
 |
 
@@ -18046,7 +17750,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-331,5
+322,1
 
 |
 
@@ -18060,7 +17764,7 @@ Dologi kiadások
 
 |
 
-1 191,9
+1 069,3
 
 |
 
@@ -18084,7 +17788,7 @@ Intézményi beruházási kiadások
 
 |
 
-60,9
+25,9
 
 |
 
@@ -18114,7 +17818,7 @@ Magyar Államkincstár
 
 |
 
-19 168,8
+17 251,8
 
 |
 
@@ -18172,7 +17876,7 @@ Dologi kiadások
 
 |
 
-6 548,2
+4 631,2
 
 |
 
@@ -18240,7 +17944,7 @@ Országos Munkavédelmi és Munkaügyi Főfelügyelőség
 
 |
 
-1 502,6
+1 402,3
 
 |
 
@@ -18298,7 +18002,7 @@ Dologi kiadások
 
 |
 
-498,1
+465,0
 
 |
 
@@ -18336,7 +18040,7 @@ Intézményi beruházási kiadások
 
 |
 
-151,2
+84,0
 
 |
 
@@ -18370,7 +18074,7 @@ Nemzeti Szakképzési és Felnőttképzési Intézet
 
 |
 
-2 146,1
+1 931,5
 
 |
 
@@ -18428,7 +18132,7 @@ Dologi kiadások
 
 |
 
-1 744,8
+1 530,2
 
 |
 
@@ -18586,7 +18290,7 @@ Európai Támogatásokat Auditáló Főigazgatóság
 
 |
 
-453,1
+427,8
 
 |
 
@@ -18610,7 +18314,7 @@ Személyi juttatások
 
 |
 
-333,4
+315,1
 
 |
 
@@ -18624,7 +18328,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-93,9
+88,9
 
 |
 
@@ -18638,7 +18342,7 @@ Dologi kiadások
 
 |
 
-25,8
+23,8
 
 |
 
@@ -18654,7 +18358,7 @@ Nemzeti Külgazdasági Hivatal
 
 |
 
-2 307,0
+2 222,0
 
 |
 
@@ -18706,7 +18410,7 @@ Dologi kiadások
 
 |
 
-989,0
+904,0
 
 |
 
@@ -18718,13 +18422,13 @@ A nők munkaerőpiaci helyzetének javításáért felelős miniszteri biztos
 
 |
 
-50,0
+40,0
 
 |
 
 |
 
-50,0
+40,0
 
 |
 
@@ -18930,13 +18634,13 @@ Közigazgatási fejlesztési feladatok
 
 |
 
-20,3
+10,3
 
 |
 
 |
 
-20,3
+10,3
 
 |
 
@@ -18954,7 +18658,7 @@ Közigazgatási fejlesztési feladatok
 
 |
 
-35,0
+26,5
 
 |
 
@@ -19006,7 +18710,7 @@ Dologi kiadások
 
 |
 
-31,3
+22,8
 
 |
 
@@ -19024,7 +18728,7 @@ Lakbértámogatás
 
 |
 
-17,1
+14,0
 
 |
 
@@ -19062,7 +18766,7 @@ Egyéb működési célú kiadások
 
 |
 
-13,1
+10,0
 
 |
 
@@ -19080,7 +18784,7 @@ Egyéb működési célú kiadások
 
 |
 
-3 500,0
+1 650,0
 
 |
 
@@ -19142,7 +18846,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-3 400,0
+1 550,0
 
 |
 
@@ -19160,7 +18864,7 @@ Nemzetközi befektetéseket támogató célelőirányzat
 
 |
 
-1 800,0
+1 220,0
 
 |
 
@@ -19184,7 +18888,7 @@ Dologi kiadások
 
 |
 
-1 750,0
+1 170,0
 
 |
 
@@ -19292,13 +18996,13 @@ Fogyasztóvédelmi társadalmi szervezetek támogatása
 
 |
 
-154,1
+140,4
 
 |
 
 |
 
-154,1
+140,4
 
 |
 
@@ -19336,7 +19040,7 @@ OÉT tagszervezetek szakmai programjainak támogatása
 
 |
 
-906,4
+743,2
 
 |
 
@@ -19374,7 +19078,7 @@ Egyéb működési célú kiadások
 
 |
 
-863,0
+699,8
 
 |
 
@@ -19416,7 +19120,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-147,5
+120,9
 
 |
 
@@ -19468,7 +19172,7 @@ Dologi kiadások
 
 |
 
-129,6
+103,0
 
 |
 
@@ -19482,13 +19186,13 @@ Nemzetközi szabványosítási és akkreditálási feladatok
 
 |
 
-100,0
+92,0
 
 |
 
 |
 
-100,0
+92,0
 
 |
 
@@ -19512,13 +19216,13 @@ Az ágazat védelmi felkészítésének állami feladatai a honvédelmi törvén
 
 |
 
-18,5
+15,2
 
 |
 
 |
 
-18,5
+15,2
 
 |
 
@@ -19532,13 +19236,13 @@ Nemzetközi tagdíjak, nemzetközi kapcsolattal összefüggő feladatok
 
 |
 
-2 207,3
+2 188,2
 
 |
 
 |
 
-2 207,3
+2 188,2
 
 |
 
@@ -19552,13 +19256,13 @@ Katasztrófavédelmi, polgári védelmi és nukleárisbaleset-elhárítási ága
 
 |
 
-24,5
+20,1
 
 |
 
 |
 
-24,5
+20,1
 
 |
 
@@ -19576,7 +19280,7 @@ NATO tagságból adódó ágazati feladatok
 
 |
 
-29,9
+24,5
 
 |
 
@@ -19628,7 +19332,7 @@ Dologi kiadások
 
 |
 
-26,9
+21,5
 
 |
 
@@ -19642,13 +19346,13 @@ Dologi kiadások
 
 |
 
-350,0
+261,9
 
 |
 
 |
 
-350,0
+261,9
 
 |
 
@@ -19788,7 +19492,7 @@ Országos Foglalkoztatási Közalapítvány támogatása
 
 |
 
-719,0
+589,6
 
 |
 
@@ -19812,7 +19516,7 @@ Egyéb működési célú kiadások
 
 |
 
-698,9
+569,5
 
 |
 
@@ -19870,13 +19574,13 @@ Magán és egyéb jogi személyek kártérítése
 
 |
 
-90,0
+70,0
 
 |
 
 |
 
-90,0
+70,0
 
 |
 
@@ -19920,13 +19624,13 @@ Fejezeti általános tartalék
 
 |
 
-45,3
+37,1
 
 |
 
 |
 
-45,3
+37,1
 
 |
 
@@ -19940,13 +19644,13 @@ Előkészítő feladatok a Tobin-adó bevezetésére
 
 |
 
-10,0
+8,0
 
 |
 
 |
 
-10,0
+8,0
 
 |
 
@@ -19956,7 +19660,7 @@ Előkészítő feladatok a Tobin-adó bevezetésére
 
 |
 
-75 325,4
+69 411,8
 
 |
 
@@ -19964,7 +19668,7 @@ Előkészítő feladatok a Tobin-adó bevezetésére
 
 |
 
-61 934,2
+56 020,6
 
 |
 
@@ -20050,7 +19754,7 @@ XV. fejezet összesen:
 
 |
 
-139 339,4
+133 425,8
 
 |
 
@@ -20058,7 +19762,9 @@ XV. fejezet összesen:
 
 |
 
-61 934,2
+56 020,6
+
+|
 
 |
 
@@ -20078,7 +19784,7 @@ Nemzeti Adó- és Vámhivatal igazgatása
 
 |
 
-125 497,2
+112 947,4
 
 |
 
@@ -20136,7 +19842,7 @@ Dologi kiadások
 
 |
 
-33 491,9
+20 942,1
 
 |
 
@@ -20188,7 +19894,7 @@ Felújítás
 
 |
 
-560,5
+560,0
 
 |
 
@@ -20232,7 +19938,7 @@ Bűnügyi Főigazgatóság
 
 |
 
-5 678,4
+5 110,6
 
 |
 
@@ -20284,7 +19990,7 @@ Dologi kiadások
 
 |
 
-1 027,4
+459,6
 
 |
 
@@ -20300,7 +20006,7 @@ Képzési, Egészségügyi és Kulturális Intézet
 
 |
 
-1 408,2
+1 267,4
 
 |
 
@@ -20358,7 +20064,7 @@ Dologi kiadások
 
 |
 
-604,5
+463,7
 
 |
 
@@ -20368,7 +20074,7 @@ Dologi kiadások
 
 |
 
-135 204,5
+121 946,1
 
 |
 
@@ -20376,7 +20082,7 @@ Dologi kiadások
 
 |
 
-132 583,8
+119 325,4
 
 |
 
@@ -20410,7 +20116,7 @@ XVI. fejezet összesen:
 
 |
 
-135 204,5
+121 946,1
 
 |
 
@@ -20418,7 +20124,9 @@ XVI. fejezet összesen:
 
 |
 
-132 583,8
+119 325,4
+
+|
 
 |
 
@@ -20438,7 +20146,7 @@ Nemzeti Fejlesztési Minisztérium igazgatása
 
 |
 
-5 155,0
+4 897,2
 
 |
 
@@ -20496,7 +20204,7 @@ Dologi kiadások
 
 |
 
-842,7
+584,9
 
 |
 
@@ -20716,7 +20424,7 @@ Országos Atomenergia Hivatal
 
 |
 
-17,2
+0,3
 
 |
 
@@ -20774,7 +20482,7 @@ Dologi kiadások
 
 |
 
-1 112,3
+1 095,4
 
 |
 
@@ -21546,7 +21254,7 @@ Központi Szolgáltatási Főigazgatóság
 
 |
 
-12 972,9
+12 069,5
 
 |
 
@@ -21642,7 +21350,7 @@ Intézményi beruházási kiadások
 
 |
 
-2 398,5
+1 495,1
 
 |
 
@@ -21672,7 +21380,7 @@ Közreműködő Szervezetek
 
 |
 
-648,2
+627,1
 
 |
 
@@ -21725,30 +21433,6 @@ Dologi kiadások
 |
 
 50,2
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-21,1
 
 |
 
@@ -21988,13 +21672,13 @@ Kikötők fejlesztése
 
 |
 
-50,0
+40,0
 
 |
 
 |
 
-50,0
+40,0
 
 |
 
@@ -22092,13 +21776,13 @@ Uránércbánya hosszú távú környezeti kárelhárítás
 
 |
 
-704,7
+480,0
 
 |
 
 |
 
-704,7
+480,0
 
 |
 
@@ -22112,13 +21796,13 @@ Belvízi hajózási alapprogram
 
 |
 
-0,4
+0,1
 
 |
 
 |
 
-0,4
+0,1
 
 |
 
@@ -22152,13 +21836,13 @@ Magán és egyéb jogi személyek kártérítése
 
 |
 
-180,0
+146,2
 
 |
 
 |
 
-180,0
+146,2
 
 |
 
@@ -22248,13 +21932,13 @@ Magyar film támogatása
 
 |
 
-2 000,0
+1 625,0
 
 |
 
 |
 
-2 000,0
+1 625,0
 
 |
 
@@ -22442,7 +22126,7 @@ Turisztikai célelőirányzat
 
 |
 
-13 548,1
+10 931,5
 
 |
 
@@ -22480,7 +22164,7 @@ Egyéb működési célú kiadások
 
 |
 
-13 411,2
+10 794,6
 
 |
 
@@ -22521,26 +22205,6 @@ Infokommunkációs ágazati szabályozási feladatok
 |
 
 47,0
-
-|
-
-|
-
-44
-
-|
-
-Digitális átállás
-
-|
-
-3 150,0
-
-|
-
-|
-
-3 150,0
 
 |
 
@@ -22718,7 +22382,7 @@ Kormányzati informatikai rendszerek és a közháló alapszolgáltatásainak bi
 
 |
 
-8 250,0
+6 900,0
 
 |
 
@@ -22742,7 +22406,7 @@ Dologi kiadások
 
 |
 
-6 450,0
+5 400,0
 
 |
 
@@ -22766,7 +22430,7 @@ Intézményi beruházási kiadások
 
 |
 
-1 800,0
+1 500,0
 
 |
 
@@ -22800,13 +22464,13 @@ Kormányzati informatikai rendszerek konszolidációja
 
 |
 
-1 050,0
+840,0
 
 |
 
 |
 
-1 050,0
+840,0
 
 |
 
@@ -22834,7 +22498,7 @@ Infrastruktúra ágazati szabályozási és szakképzési feladatok
 
 |
 
-182,1
+148,0
 
 |
 
@@ -22858,7 +22522,7 @@ Dologi kiadások
 
 |
 
-107,1
+73,0
 
 |
 
@@ -22920,7 +22584,7 @@ Gyorsforgalmi úthálózat fejlesztése
 
 |
 
-40 543,1
+30 761,1
 
 |
 
@@ -22950,7 +22614,7 @@ Dologi kiadások
 
 |
 
-61 265,1
+59 915,1
 
 |
 
@@ -22988,7 +22652,7 @@ Intézményi beruházási kiadások
 
 |
 
-800,0
+310,0
 
 |
 
@@ -23002,7 +22666,7 @@ Felújítás
 
 |
 
-12 866,0
+6 924,0
 
 |
 
@@ -23016,7 +22680,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-4 800,0
+2 800,0
 
 |
 
@@ -23112,13 +22776,13 @@ RO-LA gördülő országút
 
 |
 
-650,0
+550,0
 
 |
 
 |
 
-650,0
+550,0
 
 |
 
@@ -23156,7 +22820,7 @@ A közösségi közlekedés összehangolása, akadálymentesítés
 
 |
 
-1 128,4
+916,8
 
 |
 
@@ -23194,7 +22858,7 @@ Egyéb működési célú kiadások
 
 |
 
-1 020,9
+824,3
 
 |
 
@@ -23218,7 +22882,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-20,0
+5,0
 
 |
 
@@ -23236,7 +22900,7 @@ Energia Központ Nonprofit Kft. támogatása
 
 |
 
-179,6
+145,9
 
 |
 
@@ -23274,7 +22938,7 @@ Egyéb működési célú kiadások
 
 |
 
-176,6
+142,9
 
 |
 
@@ -23288,13 +22952,13 @@ Az ágazat védelmi felkészítésének állami feladatai a honvédelmi törvén
 
 |
 
-6,0
+4,9
 
 |
 
 |
 
-6,0
+4,9
 
 |
 
@@ -23308,13 +22972,13 @@ Katasztrófavédelmi, polgári védelmi és nukleárisbaleset-elhárítási ága
 
 |
 
-2,3
+1,9
 
 |
 
 |
 
-2,3
+1,9
 
 |
 
@@ -23328,13 +22992,13 @@ NATO tagságból adódó ágazati feladatok
 
 |
 
-4,1
+3,3
 
 |
 
 |
 
-4,1
+3,3
 
 |
 
@@ -23348,13 +23012,13 @@ Nemzetközi tagdíjak, nemzetközi kapcsolattal összefüggő feladatok
 
 |
 
-201,0
+163,3
 
 |
 
 |
 
-201,0
+163,3
 
 |
 
@@ -23368,59 +23032,9 @@ Nemzeti Éghajlatváltozási Stratégia végrehajtása
 
 |
 
-|
+12,1
 
 |
-
-14,9
-
-|
-
-|
-
-1
-
-|
-
-Működési költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Személyi juttatások
-
-|
-
-2,2
-
-|
-
-|
-
-2
-
-|
-
-Munkaadókat terhelő járulékok
-
-|
-
-0,6
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
 
 |
 
@@ -23438,13 +23052,13 @@ Közlekedési zajvédelem
 
 |
 
-200,0
+162,5
 
 |
 
 |
 
-200,0
+162,5
 
 |
 
@@ -23572,7 +23186,7 @@ Gazdaságfejlesztést szolgáló célelőirányzat
 
 |
 
-4 738,8
+3 538,8
 
 |
 
@@ -23610,7 +23224,7 @@ Egyéb működési célú kiadások
 
 |
 
-4 211,1
+3 011,1
 
 |
 
@@ -23650,7 +23264,7 @@ Fejezeti általános tartalék
 
 |
 
-362 457,5
+341 846,2
 
 |
 
@@ -23658,7 +23272,7 @@ Fejezeti általános tartalék
 
 |
 
-268 838,4
+248 227,1
 
 |
 
@@ -23780,7 +23394,7 @@ Kutatási és Technológiai Innovációs Alap
 
 |
 
-23 179,0
+14 179,0
 
 |
 
@@ -23814,7 +23428,7 @@ XVII. fejezet összesen:
 
 |
 
-603 839,3
+574 228,0
 
 |
 
@@ -23822,7 +23436,9 @@ XVII. fejezet összesen:
 
 |
 
-268 838,4
+248 227,1
+
+|
 
 |
 
@@ -23842,7 +23458,7 @@ Külügyminisztérium központi igazgatása
 
 |
 
-6 892,9
+6 548,3
 
 |
 
@@ -23872,7 +23488,7 @@ Személyi juttatások
 
 |
 
-4 005,2
+3 935,2
 
 |
 
@@ -23886,7 +23502,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 078,7
+1 048,7
 
 |
 
@@ -23900,7 +23516,7 @@ Dologi kiadások
 
 |
 
-1 871,0
+1 626,4
 
 |
 
@@ -23972,7 +23588,7 @@ Külképviseletek igazgatása
 
 |
 
-37 616,5
+33 031,1
 
 |
 
@@ -24002,7 +23618,7 @@ Személyi juttatások
 
 |
 
-22 159,0
+19 521,2
 
 |
 
@@ -24016,7 +23632,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-5 982,1
+5 269,9
 
 |
 
@@ -24030,7 +23646,7 @@ Dologi kiadások
 
 |
 
-15 539,5
+14 504,1
 
 |
 
@@ -24060,7 +23676,7 @@ Intézményi beruházási kiadások
 
 |
 
-660,3
+460,3
 
 |
 
@@ -24192,7 +23808,7 @@ Információs Hivatal
 
 |
 
-8 248,1
+7 423,3
 
 |
 
@@ -24250,7 +23866,7 @@ Dologi kiadások
 
 |
 
-3 403,0
+2 578,2
 
 |
 
@@ -24378,13 +23994,13 @@ Európai uniós befizetések
 
 |
 
-4 666,2
+3 111,2
 
 |
 
 |
 
-4 666,2
+3 111,2
 
 |
 
@@ -24412,7 +24028,7 @@ Európai uniós befizetések
 
 |
 
-286,2
+236,2
 
 |
 
@@ -24464,7 +24080,7 @@ Dologi kiadások
 
 |
 
-251,2
+201,2
 
 |
 
@@ -24604,7 +24220,7 @@ Nemzetközi Fejlesztési Együttműködés
 
 |
 
-292,4
+92,6
 
 |
 
@@ -24628,7 +24244,7 @@ Dologi kiadások
 
 |
 
-145,0
+60,0
 
 |
 
@@ -24642,31 +24258,7 @@ Egyéb működési célú kiadások
 
 |
 
-87,4
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-60,0
+32,6
 
 |
 
@@ -24880,7 +24472,7 @@ Külföldi magyar emlékek megőrzése
 
 |
 
-Finn–Magyar ifjúsági csereprogramok
+Finn-Magyar ifjúsági csereprogramok
 
 |
 
@@ -24956,7 +24548,7 @@ XVIII. fejezet összesen:
 
 |
 
-88 814,5
+81 254,9
 
 |
 
@@ -24964,7 +24556,9 @@ XVIII. fejezet összesen:
 
 |
 
-81 027,7
+73 468,1
+
+|
 
 |
 
@@ -24984,7 +24578,7 @@ Nemzeti Fejlesztési Ügynökség
 
 |
 
-2 046,8
+1 842,1
 
 |
 
@@ -25042,7 +24636,7 @@ Dologi kiadások
 
 |
 
-1 141,6
+936,9
 
 |
 
@@ -25126,7 +24720,7 @@ Kohéziós Alap támogatásból megvalósuló projektek
 
 |
 
-Kohéziós Alap támogatásából megvalósuló közlekedési projektek
+Kohéziós Alap támogatásából megvalósuló közlekedési
 
 |
 
@@ -27658,7 +27252,7 @@ EU támogatások felhasználásához szükséges technikai segítségnyújtás
 
 |
 
-448,1
+384,6
 
 |
 
@@ -27682,7 +27276,7 @@ Dologi kiadások
 
 |
 
-300,2
+236,7
 
 |
 
@@ -27738,7 +27332,7 @@ Közreműködői intézményrendszer támogatása
 
 |
 
-1 550,0
+1 250,0
 
 |
 
@@ -27762,7 +27356,7 @@ Dologi kiadások
 
 |
 
-1 114,1
+814,1
 
 |
 
@@ -27790,13 +27384,13 @@ KEOP derogációs projektek kamattámogatása
 
 |
 
-135,9
+111,4
 
 |
 
 |
 
-135,9
+111,4
 
 |
 
@@ -27832,13 +27426,13 @@ Magán és egyéb jogi személyek kártérítése
 
 |
 
-49,0
+40,2
 
 |
 
 |
 
-49,0
+40,2
 
 |
 
@@ -27868,7 +27462,7 @@ XIX. fejezet összesen:
 
 |
 
-1 195 844,0
+1 195 242,5
 
 |
 
@@ -27876,7 +27470,9 @@ XIX. fejezet összesen:
 
 |
 
-183 126,6
+182 525,1
+
+|
 
 |
 
@@ -27896,7 +27492,7 @@ Nemzeti Erőforrás Minisztérium igazgatása
 
 |
 
-7 624,0
+7 244,0
 
 |
 
@@ -27954,7 +27550,7 @@ Dologi kiadások
 
 |
 
-1 081,5
+701,5
 
 |
 
@@ -28008,7 +27604,7 @@ Intézményi beruházási kiadások
 
 |
 
-2 005,8
+1 938,1
 
 |
 
@@ -28066,7 +27662,7 @@ Dologi kiadások
 
 |
 
-650,0
+582,3
 
 |
 
@@ -28126,7 +27722,7 @@ Egyéb kulturális intézmények
 
 |
 
-2 654,4
+2 360,6
 
 |
 
@@ -28156,7 +27752,7 @@ Személyi juttatások
 
 |
 
-2 357,8
+2 266,0
 
 |
 
@@ -28170,7 +27766,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-628,8
+609,1
 
 |
 
@@ -28184,7 +27780,7 @@ Dologi kiadások
 
 |
 
-1 595,0
+1 467,5
 
 |
 
@@ -28228,21 +27824,7 @@ Intézményi beruházási kiadások
 
 |
 
-145,9
-
-|
-
-|
-
-2
-
-|
-
-Felújítás
-
-|
-
-14,6
+105,7
 
 |
 
@@ -28290,7 +27872,7 @@ Egyetemek, főiskolák
 
 |
 
-189 282,5
+170 418,3
 
 |
 
@@ -28320,7 +27902,7 @@ Személyi juttatások
 
 |
 
-167 283,0
+163 561,3
 
 |
 
@@ -28334,7 +27916,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-48 777,0
+47 826,5
 
 |
 
@@ -28348,7 +27930,7 @@ Dologi kiadások
 
 |
 
-156 384,3
+145 410,0
 
 |
 
@@ -28376,7 +27958,7 @@ Egyéb működési célú kiadások
 
 |
 
-3 348,8
+3 347,8
 
 |
 
@@ -28406,7 +27988,7 @@ Intézményi beruházási kiadások
 
 |
 
-26 904,8
+23 743,7
 
 |
 
@@ -28420,7 +28002,7 @@ Felújítás
 
 |
 
-12 290,2
+12 234,6
 
 |
 
@@ -28468,7 +28050,7 @@ Egyéb oktatási intézmények
 
 |
 
-2 424,9
+2 258,6
 
 |
 
@@ -28498,7 +28080,7 @@ Személyi juttatások
 
 |
 
-1 777,1
+1 684,9
 
 |
 
@@ -28512,7 +28094,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-479,9
+457,4
 
 |
 
@@ -28526,7 +28108,7 @@ Dologi kiadások
 
 |
 
-1 703,7
+1 655,5
 
 |
 
@@ -28564,7 +28146,7 @@ Felújítás
 
 |
 
-73,4
+70,0
 
 |
 
@@ -28580,7 +28162,7 @@ Egészségügyi Engedélyezési és Közigazgatási Hivatal
 
 |
 
-8 085,6
+5 621,3
 
 |
 
@@ -28652,7 +28234,7 @@ Egyéb működési célú kiadások
 
 |
 
-7 906,9
+5 442,6
 
 |
 
@@ -28692,7 +28274,7 @@ Gyermek- és ifjúságvédelem intézetei
 
 |
 
-3 588,7
+3 467,8
 
 |
 
@@ -28750,7 +28332,7 @@ Dologi kiadások
 
 |
 
-954,1
+833,2
 
 |
 
@@ -28810,7 +28392,7 @@ Gyógyító-megelőző ellátás országos szakintézetei
 
 |
 
-1 552,6
+1 152,9
 
 |
 
@@ -28840,7 +28422,7 @@ Személyi juttatások
 
 |
 
-13 602,6
+13 407,1
 
 |
 
@@ -28854,7 +28436,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-3 632,6
+3 576,7
 
 |
 
@@ -28868,7 +28450,7 @@ Dologi kiadások
 
 |
 
-24 874,7
+24 791,8
 
 |
 
@@ -28882,7 +28464,7 @@ Egyéb működési célú kiadások
 
 |
 
-8,8
+8,1
 
 |
 
@@ -28912,7 +28494,7 @@ Intézményi beruházási kiadások
 
 |
 
-2 381,4
+2 348,7
 
 |
 
@@ -28926,7 +28508,7 @@ Felújítás
 
 |
 
-707,8
+675,8
 
 |
 
@@ -28974,7 +28556,7 @@ Közgyűjtemények
 
 |
 
-10 428,6
+9 219,8
 
 |
 
@@ -28990,7 +28572,7 @@ Működési költségvetés
 
 |
 
-8569, 5
+8 569,5
 
 |
 
@@ -29004,7 +28586,7 @@ Személyi juttatások
 
 |
 
-7870,4
+7 405,2
 
 |
 
@@ -29018,7 +28600,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-2205,5
+2 066,1
 
 |
 
@@ -29032,7 +28614,7 @@ Dologi kiadások
 
 |
 
-8227,7
+7 696,9
 
 |
 
@@ -29046,7 +28628,7 @@ Egyéb működési célú kiadások
 
 |
 
-43,9
+38,6
 
 |
 
@@ -29076,7 +28658,7 @@ Intézményi beruházási kiadások
 
 |
 
-2898,0
+2 841,9
 
 |
 
@@ -29090,7 +28672,7 @@ Felújítás
 
 |
 
-35,0
+23,0
 
 |
 
@@ -29120,7 +28702,7 @@ Művészeti intézmények
 
 |
 
-6 248,1
+5 278,8
 
 |
 
@@ -29150,7 +28732,7 @@ Személyi juttatások
 
 |
 
-4 932,7
+4 464,7
 
 |
 
@@ -29164,7 +28746,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 204,9
+1 073,2
 
 |
 
@@ -29178,7 +28760,7 @@ Dologi kiadások
 
 |
 
-1 954,5
+1 629,9
 
 |
 
@@ -29222,7 +28804,7 @@ Intézményi beruházási kiadások
 
 |
 
-443,4
+398,4
 
 |
 
@@ -29436,7 +29018,7 @@ Országos Mentőszolgálat
 
 |
 
-269,0
+169,0
 
 |
 
@@ -29508,7 +29090,7 @@ Egyéb működési célú kiadások
 
 |
 
-320,8
+220,8
 
 |
 
@@ -29516,7 +29098,7 @@ Egyéb működési célú kiadások
 
 |
 
-Országos Rehabilitációs és Szociális Szakértői Intézet
+Nemzeti Rehabilitációs és Szociális Hivatal
 
 |
 
@@ -29524,7 +29106,7 @@ Országos Rehabilitációs és Szociális Szakértői Intézet
 
 |
 
-2 452,8
+2 370,1
 
 |
 
@@ -29582,7 +29164,7 @@ Dologi kiadások
 
 |
 
-694,6
+611,9
 
 |
 
@@ -29622,7 +29204,7 @@ Országos Tisztifőorvosi Hivatal és intézményei
 
 |
 
-5 442,5
+4 973,0
 
 |
 
@@ -29652,7 +29234,7 @@ Személyi juttatások
 
 |
 
-4 560,0
+4 468,6
 
 |
 
@@ -29666,7 +29248,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 254,2
+1 173,9
 
 |
 
@@ -29680,7 +29262,7 @@ Dologi kiadások
 
 |
 
-1 687,8
+1 561,1
 
 |
 
@@ -29694,7 +29276,7 @@ Egyéb működési célú kiadások
 
 |
 
-296,6
+286,8
 
 |
 
@@ -29718,7 +29300,7 @@ Intézményi beruházási kiadások
 
 |
 
-228,5
+73,7
 
 |
 
@@ -29732,7 +29314,7 @@ Felújítás
 
 |
 
-29,4
+22,9
 
 |
 
@@ -29748,7 +29330,7 @@ Országos Vérellátó Szolgálat
 
 |
 
-1 910,9
+1 760,9
 
 |
 
@@ -29806,7 +29388,7 @@ Dologi kiadások
 
 |
 
-7 215,0
+7 065,0
 
 |
 
@@ -29964,7 +29546,7 @@ Intézményi beruházási kiadások
 
 |
 
-Szociálpolitikai és Munkaügyi Intézet
+Nemzeti Család- és Szociálpolitikai Intézet
 
 |
 
@@ -29972,7 +29554,7 @@ Szociálpolitikai és Munkaügyi Intézet
 
 |
 
-852,7
+824,0
 
 |
 
@@ -30030,7 +29612,7 @@ Dologi kiadások
 
 |
 
-185,5
+156,8
 
 |
 
@@ -30117,26 +29699,6 @@ Budapesti Műszaki és Gazdaságtudományi Egyetem rekonstrukció
 |
 
 20,0
-
-|
-
-|
-
-23
-
-|
-
-ELTE ÁJK Egyetem tér rekonstrukciója
-
-|
-
-200,0
-
-|
-
-|
-
-200,0
 
 |
 
@@ -30260,13 +29822,13 @@ Közoktatási célú humánszolgáltatás és kiegészítő támogatás
 
 |
 
-91 538,1
+103 638,1
 
 |
 
 |
 
-91 538,1
+103 638,1
 
 |
 
@@ -30482,26 +30044,6 @@ Felsőoktatási feladatok támogatása
 
 |
 
-4
-
-|
-
-Felsőoktatási oktatói-kutatói ösztöndíjak
-
-|
-
-20,0
-
-|
-
-|
-
-20,0
-
-|
-
-|
-
 26
 
 |
@@ -30584,7 +30126,7 @@ Felsőoktatási információs rendszerek működtetése EISZ-koordináció
 
 |
 
-335,6
+295,0
 
 |
 
@@ -30608,7 +30150,7 @@ Személyi juttatások
 
 |
 
-47,3
+16,0
 
 |
 
@@ -30622,7 +30164,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-12,7
+3,4
 
 |
 
@@ -30650,83 +30192,13 @@ Szakkollégiumi Kiválósági Központok
 
 |
 
-30,0
+24,6
 
 |
 
 |
 
-30,0
-
-|
-
-|
-
-35
-
-|
-
-Felsőoktatási szakkollégiumok támogatása
-
-|
-
-|
-
-|
-
-69,0
-
-|
-
-|
-
-1
-
-|
-
-Működési költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Személyi juttatások
-
-|
-
-11,0
-
-|
-
-|
-
-2
-
-|
-
-Munkaadókat terhelő járulékok
-
-|
-
-5,4
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-52,6
+24,6
 
 |
 
@@ -30760,13 +30232,13 @@ Magyar Felsőoktatási Akkreditációs Bizottság támogatása
 
 |
 
-186,9
+126,9
 
 |
 
 |
 
-186,9
+126,9
 
 |
 
@@ -30780,33 +30252,13 @@ Felsőoktatási és Tudományos Tanács támogatása
 
 |
 
-70,0
+50,0
 
 |
 
 |
 
-70,0
-
-|
-
-|
-
-46
-
-|
-
-Egyéb felsőoktatási feladatok támogatása
-
-|
-
-61,8
-
-|
-
-|
-
-61,8
+50,0
 
 |
 
@@ -30820,13 +30272,13 @@ Lakitelek Népfőiskola támogatása
 
 |
 
-330,0
+270,6
 
 |
 
 |
 
-330,0
+270,6
 
 |
 
@@ -30924,7 +30376,7 @@ Közoktatás hatékonyságát javító mérés, értékelés
 
 |
 
-646,0
+586,0
 
 |
 
@@ -30976,7 +30428,7 @@ Dologi kiadások
 
 |
 
-192,0
+132,0
 
 |
 
@@ -30994,7 +30446,7 @@ Gyógypedagógiai és nemzetiségi tankönyvellátás, sajátos nevelési igény
 
 |
 
-89,0
+67,0
 
 |
 
@@ -31018,7 +30470,7 @@ Személyi juttatások
 
 |
 
-40,0
+37,7
 
 |
 
@@ -31032,7 +30484,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-10,8
+10,2
 
 |
 
@@ -31046,7 +30498,7 @@ Dologi kiadások
 
 |
 
-28,2
+14,1
 
 |
 
@@ -31060,7 +30512,7 @@ Egyéb működési célú kiadások
 
 |
 
-10,0
+5,0
 
 |
 
@@ -31078,7 +30530,7 @@ Közoktatás speciális feladatainak támogatása
 
 |
 
-282,8
+207,8
 
 |
 
@@ -31102,7 +30554,7 @@ Személyi juttatások
 
 |
 
-150,0
+116,6
 
 |
 
@@ -31116,7 +30568,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-40,5
+26,2
 
 |
 
@@ -31130,7 +30582,7 @@ Dologi kiadások
 
 |
 
-20,0
+15,0
 
 |
 
@@ -31144,7 +30596,7 @@ Egyéb működési célú kiadások
 
 |
 
-72,3
+50,0
 
 |
 
@@ -31180,7 +30632,7 @@ Nemzetiségi oktatási programok
 
 |
 
-47,0
+32,0
 
 |
 
@@ -31232,7 +30684,7 @@ Dologi kiadások
 
 |
 
-21,6
+6,6
 
 |
 
@@ -31250,7 +30702,7 @@ Nemzeti Tehetség Program
 
 |
 
-1 048,2
+876,3
 
 |
 
@@ -31302,7 +30754,7 @@ Dologi kiadások
 
 |
 
-667,2
+495,3
 
 |
 
@@ -31320,7 +30772,7 @@ Közoktatási Információs Rendszer (KIR) fejlesztése
 
 |
 
-80,0
+66,0
 
 |
 
@@ -31372,7 +30824,7 @@ Dologi kiadások
 
 |
 
-29,2
+15,2
 
 |
 
@@ -31390,7 +30842,7 @@ A közoktatásban tanulók határon túli kapcsolatainak támogatása
 
 |
 
-300,0
+140,0
 
 |
 
@@ -31442,21 +30894,7 @@ Dologi kiadások
 
 |
 
-73,0
-
-|
-
-|
-
-5
-
-|
-
-Egyéb működési célú kiadások
-
-|
-
-100,0
+13,0
 
 |
 
@@ -31466,17 +30904,17 @@ Egyéb működési célú kiadások
 
 |
 
-Kisiskolák újraindítása
+Kisiskolák támogatása
 
 |
 
-346,0
+300,0
 
 |
 
 |
 
-346,0
+300,0
 
 |
 
@@ -31726,7 +31164,7 @@ Határon túli kulturális feladatok támogatása
 
 |
 
-100,0
+80,0
 
 |
 
@@ -31806,7 +31244,7 @@ Egyéb működési célú kiadások
 
 |
 
-38,0
+18,0
 
 |
 
@@ -32604,7 +32042,7 @@ Felsőoktatási kutatási program
 
 |
 
-95,1
+5,1
 
 |
 
@@ -32628,7 +32066,7 @@ Személyi juttatások
 
 |
 
-61,5
+4,0
 
 |
 
@@ -32642,21 +32080,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-16,6
-
-|
-
-|
-
-3
-
-|
-
-Dologi kiadások
-
-|
-
-17,0
+1,1
 
 |
 
@@ -32684,7 +32108,7 @@ Filmszakmai támogatások
 
 |
 
-175,0
+131,5
 
 |
 
@@ -32750,7 +32174,7 @@ Egyéb működési célú kiadások
 
 |
 
-68,3
+24,8
 
 |
 
@@ -32768,7 +32192,7 @@ Magyar Nemzeti Digitális Archívum létrehozása
 
 |
 
-230,0
+180,0
 
 |
 
@@ -32792,7 +32216,7 @@ Személyi juttatások
 
 |
 
-99,6
+87,8
 
 |
 
@@ -32806,7 +32230,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-26,9
+23,7
 
 |
 
@@ -32820,7 +32244,7 @@ Dologi kiadások
 
 |
 
-63,5
+28,5
 
 |
 
@@ -32858,13 +32282,13 @@ Az Ópusztaszeri Nemzeti Történeti Emlékpark támogatása
 
 |
 
-300,0
+246,0
 
 |
 
 |
 
-300,0
+246,0
 
 |
 
@@ -32878,13 +32302,13 @@ Filmek gyártásának támogatása
 
 |
 
-800,0
+656,0
 
 |
 
 |
 
-800,0
+656,0
 
 |
 
@@ -32922,7 +32346,7 @@ Közgyűjteményi szakmai feladatok – közgyűjtemények nemzeti értékmentő
 
 |
 
-321,7
+221,7
 
 |
 
@@ -32988,7 +32412,7 @@ Egyéb működési célú kiadások
 
 |
 
-286,6
+186,6
 
 |
 
@@ -33006,7 +32430,7 @@ Közművelődési szakmai feladatok
 
 |
 
-326,6
+229,6
 
 |
 
@@ -33072,7 +32496,7 @@ Egyéb működési célú kiadások
 
 |
 
-291,1
+194,1
 
 |
 
@@ -33090,7 +32514,7 @@ Kulturális örökségvédelmi szakmai feladatok
 
 |
 
-34,0
+29,2
 
 |
 
@@ -33156,7 +32580,7 @@ Egyéb működési célú kiadások
 
 |
 
-30,3
+25,5
 
 |
 
@@ -33170,13 +32594,13 @@ PANKKK – Program a Nemzeti Kortárs Könnyűzenei Kultúráért
 
 |
 
-104,0
+21,0
 
 |
 
 |
 
-104,0
+21,0
 
 |
 
@@ -33204,7 +32628,7 @@ Művészeti tevékenységek és egyéb fejezeti feladatok támogatása
 
 |
 
-682,7
+482,7
 
 |
 
@@ -33270,7 +32694,7 @@ Egyéb működési célú kiadások
 
 |
 
-491,9
+291,9
 
 |
 
@@ -33312,7 +32736,7 @@ Előadóművészeti törvény végrehajtásából adódó feladatok
 
 |
 
-1 604,0
+1 204,0
 
 |
 
@@ -33378,7 +32802,7 @@ Egyéb működési célú kiadások
 
 |
 
-1 427,1
+1 027,1
 
 |
 
@@ -33646,13 +33070,13 @@ Zánkai Gyermek és Ifjúsági Centrum Nonprofit Kft.
 
 |
 
-350,0
+287,0
 
 |
 
 |
 
-350,0
+287,0
 
 |
 
@@ -34050,7 +33474,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-Magyarországon kisérő nélküli külföldi kiskorúak ellátása
+Magyarországon kísérő nélküli külföldi kiskorúak ellátása
 
 |
 
@@ -34530,7 +33954,7 @@ Mozgáskorlátozottak szerzési és átalakítási támogatása
 
 |
 
-1 600,0
+700,0
 
 |
 
@@ -34568,7 +33992,7 @@ Egyéb működési célú kiadások
 
 |
 
-1 539,5
+639,5
 
 |
 
@@ -34830,7 +34254,7 @@ Egyházi szociális intézményi normatíva kiegészítése
 
 |
 
-6 000,0
+13 400,0
 
 |
 
@@ -34868,7 +34292,7 @@ Egyéb működési célú kiadások
 
 |
 
-5 993,0
+13 393,0
 
 |
 
@@ -35458,7 +34882,7 @@ Egészségügyi ellátási és fejlesztési feladatok
 
 |
 
-638,5
+380,3
 
 |
 
@@ -35482,7 +34906,7 @@ Személyi juttatások
 
 |
 
-254,3
+155,8
 
 |
 
@@ -35496,7 +34920,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-70,2
+43,5
 
 |
 
@@ -35510,7 +34934,7 @@ Dologi kiadások
 
 |
 
-269,9
+169,9
 
 |
 
@@ -35524,31 +34948,7 @@ Egyéb működési célú kiadások
 
 |
 
-20,1
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-24,0
+11,1
 
 |
 
@@ -35624,7 +35024,7 @@ Határon túli magyarok egészségügyi ellátásának támogatása
 
 |
 
-35,0
+5,0
 
 |
 
@@ -35668,20 +35068,6 @@ Munkaadókat terhelő járulékok
 
 |
 
-5
-
-|
-
-Egyéb működési célú kiadások
-
-|
-
-30,0
-
-|
-
-|
-
 16
 
 |
@@ -35690,13 +35076,13 @@ Mentőgépjármű és eszközbeszerzés
 
 |
 
-1 750,0
+727,4
 
 |
 
 |
 
-1 750,0
+727,4
 
 |
 
@@ -35734,7 +35120,7 @@ Országos Vérellátó Szolgálat fejlesztési feladatainak és egyéb fejezeti 
 
 |
 
-420,0
+196,4
 
 |
 
@@ -35758,7 +35144,7 @@ Dologi kiadások
 
 |
 
-195,0
+46,4
 
 |
 
@@ -35782,7 +35168,7 @@ Intézményi beruházási kiadások
 
 |
 
-225,0
+150,0
 
 |
 
@@ -35810,7 +35196,7 @@ Utánpótlás-nevelési feladatok
 
 |
 
-1 646,9
+1 620,8
 
 |
 
@@ -35876,7 +35262,7 @@ Egyéb működési célú kiadások
 
 |
 
-1 079,9
+1 053,8
 
 |
 
@@ -35900,9 +35286,21 @@ Versenysport támogatása
 
 |
 
-5 Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő
+|
 
-feladatainak támogatása 2 200,0
+5
+
+|
+
+Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása
+
+|
+
+|
+
+|
+
+2 200,0
 
 |
 
@@ -36348,13 +35746,13 @@ Sportteljesítmények elismerése, megbecsülése
 
 |
 
-24,0
+14,0
 
 |
 
 |
 
-24,0
+14,0
 
 |
 
@@ -36368,13 +35766,13 @@ Szabadidősport támogatása
 
 |
 
-441,4
+401,4
 
 |
 
 |
 
-441,4
+401,4
 
 |
 
@@ -36504,7 +35902,17 @@ Az MLSZ sportlétesítmények biztonságtechnikai fejlesztésével összefüggő
 
 |
 
-Állami, önkormányzati és egyéb sportlétesítmények fejlesztése és fenntartása
+Sportlétesítmények fejlesztése és fenntartása
+
+|
+
+|
+
+2
+
+|
+
+Állami, önkormányzati és egyéb sportlétesítmények fejlesztése és fenntartása (2011. évi feladatfinanszírozás)
 
 |
 
@@ -36512,7 +35920,7 @@ Az MLSZ sportlétesítmények biztonságtechnikai fejlesztésével összefüggő
 
 |
 
-6 371,3
+1 621,0
 
 |
 
@@ -36588,7 +35996,7 @@ Egyéb intézményi felhalmozási kiadások
 
 |
 
-6 250,0
+1 499,7
 
 |
 
@@ -36652,13 +36060,13 @@ Felsőoktatási felújítási programok
 
 |
 
-70,0
+50,0
 
 |
 
 |
 
-70,0
+50,0
 
 |
 
@@ -36692,13 +36100,13 @@ Egészségügyi intézmények felújítása
 
 |
 
-322,8
+250,0
 
 |
 
 |
 
-322,8
+250,0
 
 |
 
@@ -36732,13 +36140,13 @@ A szentgotthárdi barokk templom belső restaurációja
 
 |
 
-100,0
+82,0
 
 |
 
 |
 
-100,0
+82,0
 
 |
 
@@ -36752,13 +36160,13 @@ Ceglédi Református Gyülekezeti Ház felújítása
 
 |
 
-40,0
+32,8
 
 |
 
 |
 
-40,0
+32,8
 
 |
 
@@ -36779,26 +36187,6 @@ Alapítványok, közalapítványok által ellátott feladatok és általuk fennt
 |
 
 Oktatási alapítványok, közalapítványok
-
-|
-
-|
-
-1
-
-|
-
-Oktatásért Közalapítvány
-
-|
-
-62,7
-
-|
-
-|
-
-62,7
 
 |
 
@@ -36832,13 +36220,13 @@ Nemzetközi Pető András Közalapítvány
 
 |
 
-153,1
+131,5
 
 |
 
 |
 
-153,1
+131,5
 
 |
 
@@ -36852,13 +36240,13 @@ Magyary Zoltán Felsőoktatási Közalapítvány
 
 |
 
-25,0
+10,0
 
 |
 
 |
 
-25,0
+10,0
 
 |
 
@@ -37004,26 +36392,6 @@ András Alapítvány
 
 |
 
-13
-
-|
-
-A Határon Túli Magyar Oktatásért Apáczai Közalapítvány
-
-|
-
-30,0
-
-|
-
-|
-
-30,0
-
-|
-
-|
-
 14
 
 |
@@ -37092,13 +36460,13 @@ Határon túli magyar felsőoktatási intézmények támogatása
 
 |
 
-250,0
+220,0
 
 |
 
 |
 
-250,0
+220,0
 
 |
 
@@ -37109,8 +36477,6 @@ Határon túli magyar felsőoktatási intézmények támogatása
 |
 
 Kulturális alapítványok, közalapítványok
-
-|
 
 |
 
@@ -37184,13 +36550,13 @@ Az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézet
 
 |
 
-59,0
+53,0
 
 |
 
 |
 
-59,0
+53,0
 
 |
 
@@ -37204,13 +36570,13 @@ Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány
 
 |
 
-190,0
+171,0
 
 |
 
 |
 
-190,0
+171,0
 
 |
 
@@ -37224,13 +36590,13 @@ Közép- és Kelet-Európai Történelem és Társadalom Kutatásáért Közalap
 
 |
 
-218,0
+196,0
 
 |
 
 |
 
-218,0
+196,0
 
 |
 
@@ -37244,13 +36610,13 @@ Egyéb kulturális alapítványok, közalapítványok támogatása
 
 |
 
-506,5
+476,5
 
 |
 
 |
 
-506,5
+476,5
 
 |
 
@@ -37264,13 +36630,13 @@ Anna Lindh Alapítvány
 
 |
 
-5,5
+3,5
 
 |
 
 |
 
-5,5
+3,5
 
 |
 
@@ -37284,13 +36650,13 @@ Trianon Múzeum Alapítvány (Várpalotai Trianon Múzeum)
 
 |
 
-50,0
+45,0
 
 |
 
 |
 
-50,0
+45,0
 
 |
 
@@ -37770,13 +37136,13 @@ Közhasznú és gazdasági társaságok által ellátott kulturális feladatok t
 
 |
 
-8 184,3
+7 297,6
 
 |
 
 |
 
-8 184,3
+7 297,6
 
 |
 
@@ -37834,7 +37200,7 @@ Oktatási társadalmi civil és non-profit szervezetek, testületek, egyesülete
 
 |
 
-143,4
+90,5
 
 |
 
@@ -37858,7 +37224,7 @@ Személyi juttatások
 
 |
 
-40,0
+13,9
 
 |
 
@@ -37872,7 +37238,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-10,8
+1,1
 
 |
 
@@ -37886,7 +37252,7 @@ Dologi kiadások
 
 |
 
-5,0
+2,9
 
 |
 
@@ -37900,7 +37266,7 @@ Egyéb működési célú kiadások
 
 |
 
-87,6
+72,6
 
 |
 
@@ -37944,13 +37310,13 @@ Kulturális társadalmi, civil és non-profit szervezetek, szövetségek, testü
 
 |
 
-717,9
+637,9
 
 |
 
 |
 
-717,9
+637,9
 
 |
 
@@ -37974,13 +37340,13 @@ Magyar Vöröskereszt támogatása
 
 |
 
-150,0
+100,0
 
 |
 
 |
 
-150,0
+100,0
 
 |
 
@@ -37994,13 +37360,13 @@ Magyar Rákellenes Liga támogatása
 
 |
 
-30,0
+10,0
 
 |
 
 |
 
-30,0
+10,0
 
 |
 
@@ -38706,7 +38072,7 @@ Hozzájárulás a lakossági energiaköltségekhez
 
 |
 
-30 000,0
+28 957,3
 
 |
 
@@ -38714,7 +38080,7 @@ Hozzájárulás a lakossági energiaköltségekhez
 
 |
 
-26 500,0
+25 457,3
 
 |
 
@@ -39044,13 +38410,13 @@ Kulturális ágazati és intézményi felügyeleti feladatok támogatása
 
 |
 
-120,0
+60,0
 
 |
 
 |
 
-120,0
+60,0
 
 |
 
@@ -39090,7 +38456,7 @@ Fejezeti felügyeleti feladatok támogatása
 
 |
 
-73,7
+68,2
 
 |
 
@@ -39156,7 +38522,7 @@ Egyéb működési célú kiadások
 
 |
 
-54,0
+48,5
 
 |
 
@@ -39166,7 +38532,7 @@ Egyéb működési célú kiadások
 
 |
 
-916 837,4
+898 302,2
 
 |
 
@@ -39174,7 +38540,7 @@ Egyéb működési célú kiadások
 
 |
 
-549 981,3
+531 446,1
 
 |
 
@@ -39514,7 +38880,7 @@ XX. fejezet összesen:
 
 |
 
-1 545 126,4
+1 526 591,2
 
 |
 
@@ -39522,7 +38888,9 @@ XX. fejezet összesen:
 
 |
 
-549 981,3
+531 446,1
+
+|
 
 |
 
@@ -39638,6 +39006,8 @@ XXX. fejezet összesen:
 
 |
 
+|
+
 XXXI. KÖZPONTI STATISZTIKAI HIVATAL
 
 |
@@ -39654,7 +39024,7 @@ Központi Statisztikai Hivatal
 
 |
 
-9 242,1
+8 297,6
 
 |
 
@@ -39684,7 +39054,7 @@ Személyi juttatások
 
 |
 
-5 715,7
+5 632,2
 
 |
 
@@ -39698,7 +39068,7 @@ Munkaadókat terhelő járulékok
 
 |
 
-1 454,8
+1 432,2
 
 |
 
@@ -39712,7 +39082,7 @@ Dologi kiadások
 
 |
 
-2 347,1
+1 688,7
 
 |
 
@@ -39756,7 +39126,7 @@ Intézményi beruházási kiadások
 
 |
 
-550,0
+370,0
 
 |
 
@@ -40108,31 +39478,11 @@ Nemzetközi tagdíjak
 
 |
 
-6
-
-|
-
-Fenntarthatósági Főosztály létrehozására
-
-|
-
-10,0
-
-|
-
-|
-
-10,0
-
-|
-
-|
-
 XXXI. fejezet összesen:
 
 |
 
-24 883,6
+23 929,1
 
 |
 
@@ -40140,7 +39490,9 @@ XXXI. fejezet összesen:
 
 |
 
-23 872,2
+22 917,7
+
+|
 
 |
 
@@ -42724,9 +42076,9 @@ XXXIII. fejezet összesen:
 
 |
 
-XLI. A KÖZPONTI KÖLTSÉGVETÉS KAMATELSZÁMOLÁSAI, TŐKEVISSZATÉRÜLÉSEI,
+|
 
-AZ ADÓSSÁG- ÉS KÖVETELÉS-KEZELÉS KÖLTSÉGEI
+XLI. A KÖZPONTI KÖLTSÉGVETÉS KAMATELSZÁMOLÁSAI, TŐKEVISSZATÉRÜLÉSEI, AZ ADÓSSÁG- ÉS KÖVETELÉS-KEZELÉS KÖLTSÉGEI
 
 |
 
@@ -42834,7 +42186,7 @@ MÁV-tól és a GySEV-től 2002-ben átvállalt hitelek kamatelszámolásai
 
 |
 
-ÁAK Rt.-től 2002-ben átvállalt devizahitelek kamatelszámolásai
+ÁAK Rt-től 2002-ben átvállalt devizahitelek kamatelszámolásai
 
 |
 
@@ -42918,7 +42270,7 @@ Devizakötvények kamatelszámolásai
 
 |
 
-179 222,7
+194 222,7
 
 |
 
@@ -43382,11 +42734,13 @@ XLI. fejezet összesen:
 
 |
 
-1 064 416,7
+1 079 416,7
 
 |
 
 59 535,3
+
+|
 
 |
 
@@ -43414,7 +42768,7 @@ Társasági adó
 
 |
 
-372 020,9
+288 020,9
 
 |
 
@@ -43478,7 +42832,7 @@ Egyszerűsített vállalkozói adó
 
 |
 
-196 100,0
+180 100,0
 
 |
 
@@ -43640,7 +42994,7 @@ Fogyasztáshoz kapcsolt adók
 
 |
 
-2 557 988,3
+2 488 964,1
 
 |
 
@@ -43728,7 +43082,7 @@ Lakossági illetékek
 
 |
 
-88 496,1
+81 896,1
 
 |
 
@@ -43818,7 +43172,7 @@ Központi költségvetési szervek
 
 |
 
-30 328,7
+32 828,7
 
 |
 
@@ -43832,7 +43186,7 @@ Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel
 
 |
 
-94 540,4
+95 628,3
 
 |
 
@@ -44096,7 +43450,7 @@ Honvédelmi-, katasztrófavédelmi- és gazdasági felkészülés központi kiad
 
 |
 
-497,0
+207,0
 
 |
 
@@ -44110,7 +43464,7 @@ Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztos�
 
 |
 
-1 045,0
+835,0
 
 |
 
@@ -44662,7 +44016,7 @@ Várgondnokság Nonprofit Kft. tartozás-elengedése
 
 |
 
-Várpalota és Régiója Környezetvédelmi Rehabilitácíós Programra létrehozott céltársulás 2011. évi kölcsöntörlesztésének részleges elengedése
+Várpalota és Régiója Környezetvédelmi Rehabilitácíós Programra létrehozott céltársulás 2011. évi kölcsöntörlesztésének elengedése
 
 |
 
@@ -44676,11 +44030,13 @@ XLII. fejezet összesen:
 
 |
 
-1 194 958,5
+1 194 458,5
 
 |
 
-6 324 138,8
+6 152 102,5
+
+|
 
 |
 
@@ -44936,7 +44292,7 @@ Ingatlan-beruházások
 
 |
 
-5 000,0
+4 000,0
 
 |
 
@@ -44960,7 +44316,7 @@ Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 
 |
 
-14 374,0
+10 374,0
 
 |
 
@@ -45390,7 +44746,7 @@ Fejezeti tartalék
 
 |
 
-6 980,0
+1 980,0
 
 |
 
@@ -45414,11 +44770,13 @@ XLIII. fejezet összesen:
 
 |
 
-590 430,5
+580 430,5
 
 |
 
 34 649,4
+
+|
 
 |
 
@@ -45476,7 +44834,7 @@ Termőföld értékesítésből származó bevételek
 
 |
 
-Egyéb ingatlanok értékestíéséből származó bevételek
+Egyéb ingatlanok értékesítéséből származó bevételek
 
 |
 
@@ -45550,7 +44908,7 @@ Termőföld vásárlás
 
 |
 
-950,0
+450,0
 
 |
 
@@ -45702,11 +45060,13 @@ XLIV. fejezet összesen:
 
 |
 
-14 500,0
+14 000,0
 
 |
 
 8 850,0
+
+|
 
 |
 
@@ -45732,7 +45092,7 @@ Foglalkoztatási és képzési támogatások
 
 |
 
-40 519,8
+28 256,9
 
 |
 
@@ -45824,7 +45184,7 @@ Szakképzési és felnőttképzési célú kifizetések
 
 |
 
-33 091,1
+30 391,1
 
 |
 
@@ -45896,19 +45256,7 @@ Európai Globalizációs Alkalmazkodási Alap elő- és társfinanszírozása
 
 |
 
-850,0
-
-|
-
-13
-
-|
-
-Egyenlegtartási és kockázatkezelési keret
-
-|
-
-10 000,0
+550,0
 
 |
 
@@ -46054,6 +45402,42 @@ Európai Globalizációs Alkalmazkodási Alaptól befolyó bevétel
 
 |
 
+1–37. cím összesen:
+
+|
+
+311 975,2
+
+|
+
+337 238,1
+
+|
+
+50
+
+|
+
+A Munkaerőpiaci Alap függő, átfutó és hitellel kapcsolatos tételei
+
+|
+
+|
+
+2
+
+|
+
+Betétállomány változása
+
+|
+
+25 262,9
+
+|
+
+|
+
 LXIII. fejezet összesen:
 
 |
@@ -46063,6 +45447,8 @@ LXIII. fejezet összesen:
 |
 
 337 238,1
+
+|
 
 |
 
@@ -46386,7 +45772,7 @@ Egyéb bevételek
 
 |
 
-LXVI. fejezet összesen:
+1–11. cím összesen:
 
 |
 
@@ -46395,6 +45781,46 @@ LXVI. fejezet összesen:
 |
 
 31 329,9
+
+|
+
+|
+
+50
+
+|
+
+A Központi Nukleáris Alap függő, átfutó és hitellel kapcsolatos tételei
+
+|
+
+|
+
+1
+
+|
+
+Betétállomány változása
+
+|
+
+14 601,4
+
+|
+
+|
+
+LXVI. fejezet összesen:
+
+|
+
+31 329,9
+
+|
+
+31 329,9
+
+|
 
 |
 
@@ -46410,7 +45836,7 @@ Nemzeti és egyetemes értékek létrehozásának, megőrzésének, terjesztés�
 
 |
 
-3 025,3
+2 317,0
 
 |
 
@@ -46422,7 +45848,7 @@ Nemzeti és egyetemes értékek létrehozásának, megőrzésének, terjesztés�
 
 |
 
-1 784,1
+1 455,9
 
 |
 
@@ -46434,7 +45860,7 @@ Nemzetközi fesztiválok, rendezvények és azokon való részvétel támogatás
 
 |
 
-1 845,4
+1 824,4
 
 |
 
@@ -46446,7 +45872,7 @@ Művészeti alkotások új irányzatai, új kulturális kezdeményezések támog
 
 |
 
-229,7
+105,7
 
 |
 
@@ -46458,7 +45884,7 @@ Kultúrával kapcsolatos tudományos kutatások támogatása
 
 |
 
-19,4
+15,4
 
 |
 
@@ -46470,7 +45896,7 @@ Kultúrával kapcsolatos tudományos kutatások támogatása
 
 |
 
-314,2
+250,2
 
 |
 
@@ -46482,7 +45908,7 @@ Kultúrateremtő-, közvetítő, valamint egyéni és közösségi tevékenység
 
 |
 
-677,6
+325,6
 
 |
 
@@ -46552,6 +45978,42 @@ Játékadó NKA-t megillető része
 
 |
 
+1–24. cím összesen:
+
+|
+
+7 206,3
+
+|
+
+8 807,8
+
+|
+
+50
+
+|
+
+NKA függő és átfutó tételei
+
+|
+
+|
+
+1
+
+|
+
+Betétállomány változása
+
+|
+
+1 601,5
+
+|
+
+|
+
 LXVII. fejezet összesen:
 
 |
@@ -46561,6 +46023,8 @@ LXVII. fejezet összesen:
 |
 
 8 807,8
+
+|
 
 |
 
@@ -46622,7 +46086,11 @@ LXVIII. fejezet összesen:
 
 |
 
+|
+
 LXIX. KUTATÁSI ÉS TECHNOLÓGIAI INNOVÁCIÓS ALAP
+
+|
 
 |
 
@@ -46634,7 +46102,7 @@ Hazai innováció támogatása
 
 |
 
-37 054,5
+28 054,5
 
 |
 
@@ -46710,6 +46178,8 @@ Alapkezelőnek átadott pénzeszköz
 
 |
 
+|
+
 19
 
 |
@@ -46734,7 +46204,7 @@ Költségvetési támogatás
 
 |
 
-23 179,0
+14 179,0
 
 |
 
@@ -46770,11 +46240,13 @@ LXIX. fejezet összesen:
 
 |
 
-45 977,9
+36 977,9
 
 |
 
-45 977,9
+36 977,9
+
+|
 
 |
 
@@ -47044,7 +46516,7 @@ Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel
 
 |
 
-434 281,5
+433 193,6
 
 |
 
@@ -47254,7 +46726,9 @@ Ellátások fedezetére szolgáló vagyongazdálkodás
 
 |
 
-3 072 786,1
+3 071 698,2
+
+|
 
 |
 
@@ -47280,7 +46754,7 @@ Központi hivatali szerv
 
 |
 
-5 287,0
+4 199,1
 
 |
 
@@ -47338,7 +46812,7 @@ Dologi kiadások
 
 |
 
-4 346,8
+3 258,9
 
 |
 
@@ -47462,7 +46936,7 @@ Dologi kiadások
 
 |
 
-12 738,7
+11 650,8
 
 |
 
@@ -47470,7 +46944,7 @@ Dologi kiadások
 
 |
 
-10 878,7
+9 790,8
 
 |
 
@@ -47480,15 +46954,17 @@ LXXI. fejezet összesen:
 
 |
 
-3 074 646,1
+3 073 558,2
 
 |
 
-3 074 646,1
+3 073 558,2
 
 |
 
-10 878,7
+9 790,8
+
+|
 
 |
 
@@ -48646,6 +48122,8 @@ Ellátások fedezetére szolgáló vagyongazdálkodás
 
 |
 
+|
+
 5
 
 |
@@ -48668,7 +48146,7 @@ Központi hivatali szerv
 
 |
 
-10 539,5
+9 485,5
 
 |
 
@@ -48726,7 +48204,7 @@ Dologi kiadások
 
 |
 
-3 566,8
+2 716,6
 
 |
 
@@ -48740,31 +48218,7 @@ Egyéb működési célú kiadások
 
 |
 
-225,0
-
-|
-
-|
-
-2
-
-|
-
-Felhalmozási költségvetés
-
-|
-
-|
-
-1
-
-|
-
-Intézményi beruházási kiadások
-
-|
-
-153,8
+175,0
 
 |
 
@@ -48774,7 +48228,7 @@ Intézményi beruházási kiadások
 
 |
 
-10 964,1
+9 910,1
 
 |
 
@@ -48782,7 +48236,7 @@ Intézményi beruházási kiadások
 
 |
 
-10 539,5
+9 485,5
 
 |
 
@@ -48792,7 +48246,7 @@ LXXII. fejezet összesen:
 
 |
 
-1 459 613,9
+1 458 559,9
 
 |
 
@@ -48800,37 +48254,37 @@ LXXII. fejezet összesen:
 
 |
 
-10 539,5
+9 485,5
 
 |
 
 |
 
-KIADÁSI FŐÖSSZEG:
+K I A D Á S I F Ő Ö S S Z E G :
 
 |
 
 |
 
-14 337 194,3
+14 155 070,1
 
 |
 
 |
 
-BEVÉTELI FŐÖSSZEG:
+B E V É T E L I F Ő Ö S S Z E G :
 
 |
 
 |
 
-13 152 945,1
+12 970 820,9
 
 |
 
 |
 
-A FŐÖSSZEGEK EGYENLEGE:
+A FŐÖSSZEGEK EGYENLEGE :
 
 |
 
@@ -48840,4 +48294,18 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
-* A támogatás az intézményi és fejezeti kezelésű előirányzatok tekintetében értelmezhető.
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
