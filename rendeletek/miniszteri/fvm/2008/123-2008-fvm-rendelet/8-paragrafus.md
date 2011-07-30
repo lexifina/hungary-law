@@ -1,11 +1,11 @@
 ## A borászati melléktermékek kivonására vonatkozó kötelezettség megszegése esetén alkalmazandó jogkövetkezmények
 
-8. § (1)[^7]
+## 8. §[^10] Aki a borászati melléktermék kivonási kötelezettsége teljesítésével kapcsolatban
 
-(2)[^8] Aki a borászati melléktermék kivonási kötelezettségének nem tett eleget, az a következő borpiaci évben nem részesülhet a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) 103o–103p., valamint 103r–103y. cikkében meghatározott támogatásokból.
+a) a szőlőtörköly kivonására vonatkozó kötelezettségének nem tesz eleget, vagy
 
-(3)[^9] Amennyiben borászati hatóság vagy a vámhatóság az ellenőrzése során megállapítja, hogy a kötelezett nem teljesíti a borászati melléktermékek kivonására vonatkozó kötelezettségét, az ellenőrzésről készült jegyzőkönyvet 15 napon belül megküldi az MVH részére. Az MVH a jegyzőkönyv alapján a kötelezettet kizárja a következő borpiaci év vonatkozásában a (2) bekezdésben meghatározott támogatásokból. Az MVH a határozatot közli a Mezőgazdasági Szakigazgatási Hivatal Központ Borminősítési Igazgatóságával (a továbbiakban: borászati hatóság) is.
+b) a kivont borászati melléktermék alkoholtartalma nem éri el a 3. § (4) bekezdésében meghatározott mértéket,
 
-[^7]: A 8. § (1) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^8]: A 8. § (2) bekezdése a 3/2010. (I. 26.) FVM rendelet 4. §-ával megállapított szöveg.
-[^9]: A 8. § (3) bekezdése a 3/2010. (I. 26.) FVM rendelet 4. §-ával megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (26) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+az a következő borpiaci évben nem részesülhet a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) 103o–103p., valamint 103r–103y. cikkében meghatározott támogatásokból.
+
+[^10]: A 8. § a 72/2011. (VII. 29.) VM rendelet 7. §-ával megállapított szöveg.
