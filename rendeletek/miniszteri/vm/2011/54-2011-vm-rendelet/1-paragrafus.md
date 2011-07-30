@@ -28,8 +28,10 @@
 
 13. LEADER terv: a HVS azon része, amely az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmaz;
 
-14. munkaszervezet: a LEADER HACS által létrehozott, jogi személyiségű, ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
+14.[^1] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
 
 15. új HACS: a címvisszavonással érintett LEADER HACS területén az IH felhívására vidékfejlesztési céllal szerveződő helyi közösség, amely az e rendelet szerinti előírások alapján szerveződik meg, és az IH-hoz benyújtja LEADER HACS-ként való elismerési kérelmét;
 
 16. üzleti szféra: a gazdálkodó szervezetek – az állami vagy önkormányzati vállalatok és azon gazdálkodó szervezetek kivételével, melyekben az állam vagy az önkormányzat Ptk. 685/B. §-ában meghatározott meghatározó befolyással rendelkezik –, ha nem állnak csődeljárás, felszámolási eljárás, végelszámolás alatt, vagy nincs 90 napnál hosszabb ideje esedékessé vált köztartozásuk.
+
+[^1]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
