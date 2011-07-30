@@ -8,7 +8,7 @@ b) a kérelmező valótlan vagy félrevezető adatokat közöl;
 
 c) sűrített szőlőmust és finomított szőlőmust-sűrítmény egyidejű alkalmazására került sor egy tartályon belül;
 
-d)[^11] a sűrített szőlőmustra vagy a finomított szőlőmust-sűrítményre vonatkozó, a borászati hatóság által kiállított minősítési bizonyítvány a művelet napját megelőző 60 napnál régebbi; vagy a borászati év augusztus 1-jét megelőzően adták ki;
+d)[^15] a sűrített szőlőmustra vagy a finomított szőlőmust-sűrítményre vonatkozó, a borászati hatóság által kiállított minősítési bizonyítvány a művelet napját megelőző 60 napnál régebbi; vagy a borászati év augusztus 1-jét megelőzően adták ki;
 
 e) a természetes alkoholtartalom-növelés nem az e rendelet 6. §-a szerinti előzetes bejelentésben meghatározottak szerint történt;
 
@@ -22,7 +22,7 @@ i) a javított bor összes alkoholtartalma meghaladja a tanácsi rendelet V. Mel
 
 j) megállapításra kerül, hogy a művelet végrehajtása során nem tartották be a vonatkozó közösségi és hazai jogszabályok egyéb előírásait;
 
-k)[^12] a pincekönyv „Termék előállítás” részének a művelet elvégzésére vonatkozó (borászati termék, adalékanyag) másolata olvashatatlan, valamint a különböző borászati eljárások nem eseményszerűen követik egymást;
+k)[^16] a pincekönyv „Termék előállítás” részének a művelet elvégzésére vonatkozó (borászati termék, adalékanyag) másolata olvashatatlan, valamint a különböző borászati eljárások nem eseményszerűen követik egymást;
 
 l) a pincekönyv III. rész 6. pontja (kiegészítő és adalékanyagok nyilvántartása) sűrített sűrítményre vonatkozó részének másolata olvashatatlan, valamint a kiegészítő és adalékanyagok nyilvántartása nem a felhasználásnak megfelelően lett vezetve;
 
@@ -36,5 +36,5 @@ p) eltérő tárolótartály jelű tartályokban végrehajtott műveletekkel ér
 
 q) a szőlőmust, részben erjedt szőlőmust, még erjedésben levő újbor nem magyarországi eredetű.
 
-[^11]: A 10. § (2) bekezdésének d) pontja a 101/2009. (VII. 30.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
-[^12]: A 10. § (2) bekezdésének k) pontja a 101/2009. (VII. 30.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^15]: A 10. § (2) bekezdésének d) pontja a 101/2009. (VII. 30.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^16]: A 10. § (2) bekezdésének k) pontja a 101/2009. (VII. 30.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.

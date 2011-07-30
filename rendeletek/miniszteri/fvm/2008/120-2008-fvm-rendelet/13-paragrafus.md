@@ -6,7 +6,7 @@ a) a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290
 
 b) a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 29-i 555/2008/EK bizottsági rendelet 32–34. cikke.
 
-Melléklet a 120/2008. (IX. 11.) FVM rendelethez[^18]
+Melléklet a 120/2008. (IX. 11.) FVM rendelethez[^22]
 
 A kísérő okmányok és a számlák összesítője
 
@@ -38,4 +38,4 @@ A kísérő okmányok és a számlák összesítője
 
 | n |  |  |  |  |  |  |
 
-[^18]: A melléklet a 101/2009. (VII. 30.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján rendelkezéseit a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^22]: A melléklet a 101/2009. (VII. 30.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján rendelkezéseit a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.

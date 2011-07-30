@@ -8,6 +8,6 @@ b) finomított szőlőmust-sűrítmény felhasználása esetén 2,206 euró/tér
 
 (2) A támogatási összeg meghatározásakor a forintra történő átszámítást a kérelmező által az adott borpiaci évben elvégzett első alkoholtartalom-növelési művelet hónapjának első napján érvényes, az Európai Központi Bank által jegyzett forint/euró átváltási árfolyam alapján kell elvégezni.
 
-(3)[^2] Az e rendelet alapján támogatásra fordítható keretösszeg a 2010/2011. borpiaci évben 500 000 eurónak megfelelő forintösszeg. Amennyiben a 2010/2011. borpiaci év vonatkozásában benyújtott kérelmek alapján az összesített támogatási igény a keretösszeget meghaladja, úgy a keretösszegen felüli, jogos támogatási igényt tartalmazó támogatási kérelmek kapcsán a kifizetésre 2011. október 16. után kerül sor a 2011/2012. borpiaci évre meghatározott keretösszeg terhére.
+(3)[^3] E rendelet alapján támogatásra fordítható keretösszeg a 2011/2012. borpiaci évben 500 000 eurónak megfelelő forintösszeg.
 
-[^2]: A 4. § (3) bekezdését a 101/2009. (VII. 30.) FVM rendelet 2. §-a iktatta be, szövege a 6/2010. (VII. 22.) VM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 4. § (3) bekezdését a 101/2009. (VII. 30.) FVM rendelet 2. §-a iktatta be, szövege a 72/2011. (VII. 29.) VM rendelet 1. §-ával megállapított szöveg.

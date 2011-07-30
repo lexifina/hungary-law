@@ -20,6 +20,6 @@ h) részben erjedt szőlőmust: a tanácsi rendelet IV. számú mellékletének 
 
 i) javított bor: olyan szőlőmust, részben erjedt szőlőmust, illetve még erjedésben levő újbor, amelyen természetes alkoholtartalom-növelési műveletet hajtottak végre, és amelyben az alkoholos erjedés folyamata lezajlott, de a fejtés még nem történt meg;
 
-j)[^1] kérelmező: az a természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, aki vagy amely a bor előállítója és a jövedéki adóról és jövedéki termékek forgalmazásának különös szabályairól szóló törvényben meghatározott egyszerűsített adóraktári engedéllyel vagy bor adóraktári engedéllyel rendelkezik.
+j)[^2] kérelmező: az a természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, aki vagy amely a bor előállítója és a jövedéki adóról és jövedéki termékek forgalmazásának különös szabályairól szóló törvényben meghatározott egyszerűsített adóraktári engedéllyel vagy bor adóraktári engedéllyel rendelkezik.
 
-[^1]: A 2. § j) pontja a 101/2009. (VII. 30.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^2]: A 2. § j) pontja a 101/2009. (VII. 30.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 2. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
