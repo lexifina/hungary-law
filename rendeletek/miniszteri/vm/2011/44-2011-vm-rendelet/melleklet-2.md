@@ -10,33 +10,31 @@
 
 |  | 3. | Igen |  | 10 pont |
 
-|  | 4. | Az ügyfél induló vállalkozás |  | 5 pont |
+|  | 4. | Nem |  | 5 pont |
 
-|  | 5. | Már működő vállalkozás, de még turisztikai tevékenységet nem folytat |  | 0 pont |
+|  | 5. | 2. Az ügyfél a fejlesztéséhez az üzemeltetési időszak alatt helyi vagy regionális turisztikai látványosságok, hagyományos tevékenységek bemutatását kapcsolja, máshol vagy más tulajdonában álló értékek közül legalább egyet programként tervez bemutatni, vagy hagyományos tevékenységek bemutatását kapcsolja, amelyet megjelenít a fejleszteni kívánt szolgáltatásához kapcsolódó marketing anyagokban | Programterv vagy együttműködési megállapodás (az MVH által rendszeresített formanyomtatványon) |  |
 
-|  | 6. | 2. Az ügyfél a fejlesztéséhez az üzemeltetési időszak alatt helyi vagy regionális turisztikai látványosságok, hagyományos tevékenységek bemutatását kapcsolja, máshol vagy más tulajdonában álló értékek közül legalább egyet programként tervez bemutatni, vagy hagyományos tevékenységek bemutatását kapcsolja, amelyet megjelenít a fejleszteni kívánt szolgáltatásához kapcsolódó marketing anyagokban | Programterv vagy együttműködési megállapodás (az MVH által rendszeresített formanyomtatványon) |  |
+|  | 6. | Rendelkezik Programtervvel és releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 15 pont |
 
-|  | 7. | Rendelkezik Programtervvel és releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 15 pont |
+|  | 7. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 10 pont |
 
-|  | 8. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 10 pont |
+|  | 8. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással |  | 5 pont |
 
-|  | 9. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással |  | 5 pont |
+|  | 9. | Nem rendelkezik sem Programtervvel, sem együttműködési megállapodással |  | 0 pont |
 
-|  | 10. | Nem rendelkezik sem Programtervvel, sem együttműködési megállapodással |  | 0 pont |
+|  | 10. | 3. Az ügyfél tagja valamely országos jelentőségű turisztikai szervezetnek, vagy olyan országos szervezetnek, amely szorosan kapcsolódik a tervezett fejlesztendő tevékenységhez | Támogatási kérelem és a turisztikai szervezet által kiállított igazolás |  |
 
-|  | 11. | 3. Az ügyfél tagja valamely országos jelentőségű turisztikai szervezetnek, vagy olyan országos szervezetnek, amely szorosan kapcsolódik a tervezett fejlesztendő tevékenységhez | Támogatási kérelem és a turisztikai szervezet által kiállított igazolás |  |
+|  | 11. | – Igen |  | 10 pont |
 
-|  | 12. | – Igen |  | 10 pont |
+|  | 12. | – Nem |  | 0 pont |
 
-|  | 13. | – Nem |  | 0 pont |
+|  | 13. | 4. Az ügyfél tagja valamely helyi Turisztikai Desztináció Menedzsment (TDM) szervezetnek: | Helyi TDM igazolása |  |
 
-|  | 14. | 4. Az ügyfél tagja valamely helyi Turisztikai Desztináció Menedzsment (TDM) szervezetnek: | Helyi TDM igazolása |  |
+|  | 14. | – Igen |  | 5 pont |
 
-|  | 15. | – Igen |  | 5 pont |
+|  | 15. | – Nem |  | 0 pont |
 
-|  | 16. | – Nem |  | 0 pont |
-
-|  | 17. | Összesen legfeljebb: | 40 pont |
+|  | 16. | Összesen legfeljebb: |  | 40 pont |
 
 ## II. Horizontális szempontok
 
@@ -44,25 +42,25 @@
 
 |  | 1. | Értékelési szempont megnevezése | Értékelés alapját képező dokumentumok | Értékeléshez rendelhető pontszám |
 
-|  | 2. | 1. A kérelem benyújtását megelőző 12 hónap átlag létszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására (Igényelt támogatás összege/új munkahelyek száma): | Pénzügyi terv |  |
+|  | 2. | 1. A kérelem benyújtását megelőző naptári év átlag létszámához képest a foglalkoztatottak számának bővítése a fejlesztés hatására (Igényelt támogatás összege/új munkahelyek száma): | Pénzügyi terv |  |
 
-|  | 3. | – 1 000 000-7 000 000 Ft/új munkahely |  | 16 pont |
+|  | 3. | – 1 000 000–7 000 000 Ft/új munkahely |  | 16 pont |
 
-|  | 4. | – 7 000 001-14 000 000 Ft/új munkahely |  | 13 pont |
+|  | 4. | – 7 000 001–14 000 000 Ft/új munkahely |  | 13 pont |
 
-|  | 5. | – 14 000 001-21 000 000 Ft/új munkahely |  | 10 pont |
+|  | 5. | – 14 000 001–21 000 000 Ft/új munkahely |  | 10 pont |
 
-|  | 6. | – 21 000 001-28 000 000 Ft/új munkahely |  | 7 pont |
+|  | 6. | – 21 000 001–28 000 000 Ft/új munkahely |  | 7 pont |
 
-|  | 7. | – 28 000 001-35 000 000 Ft/új munkahely |  | 5 pont |
+|  | 7. | – 28 000 001–35 000 000 Ft/új munkahely |  | 5 pont |
 
-|  | 8. | Munkahelyet tart meg (üzemeltetési időszak utolsó évének átlag foglalkoztatotti létszáma nem kisebb, mint a benyújtást megelőző 12 hónap átlaglétszáma) – működő turisztikai szolgáltatás esetében |  | 4 pont |
+|  | 8. | Munkahelyet tart meg (üzemeltetési időszak utolsó évének átlag foglalkoztatotti létszáma nem kisebb, mint a benyújtást megelőző naptári év átlaglétszáma) – működő turisztikai szolgáltatás esetében |  | 4 pont |
 
 |  | 9. | 2. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti START, START EXTRA, START PLUSZ kártyával rendelkező, vagy csökkent munkaképességű személyt foglalkoztat, és a fejlesztés befejezését követően az üzemeltetési kötelezettség végéig foglalkoztatja: | Ügyfél nyilatkozata |  |
 
 |  | 10. | – Legalább 2, a fenti kritériumoknak megfelelő munkavállalót foglalkoztat (beleértve az önfoglalkoztatást) |  | 10 pont |
 
-|  | 11. | – 1, a fenti kritérumoknak megfelelő munkavállalót foglalkoztat |  | 5 pont |
+|  | 11. | – 1, a fenti kritériumoknak megfelelő munkavállalót foglalkoztat |  | 5 pont |
 
 |  | 12. | – Nem foglalkoztat a fenti kritériumoknak megfelelő munkavállalót |  | 0 pont |
 
@@ -76,9 +74,9 @@
 
 |  | 17. | – 1000 fő alatti |  | 8 pont |
 
-|  |  | – 1000-2000 fő közötti |  | 5 pont |
+|  |  | – 1000–2000 fő közötti |  | 5 pont |
 
-|  |  | – 2001-3000 fő közötti |  | 3 pont |
+|  |  | – 2001–3000 fő közötti |  | 3 pont |
 
 |  |  | – 3000 fő feletti |  | 0 pont |
 
@@ -108,7 +106,7 @@
 
 |  | 30. | Egy célterületre irányul |  | 0 pont |
 
-|  | 31. | Összesen legfeljebb: | 60 pont |
+|  | 31. | Összesen legfeljebb: |  | 60 pont |
 
 ## III. Pénzügyi szempontok
 
@@ -118,21 +116,21 @@
 
 |  | 1 | Értékelési szempont megnevezése | Pénzügyi terv alapján végzett értékelés | Értékeléshez rendelhető maximális pontszám |
 
-|  | 2 | Kérelmező értékelése a bázis évre vonatkozóan | Ha a bázisévben* a felhalmozási kiadások aránya az összes kiadáshoz képest 3,01% feletti, akkor 3 pont, ha 3% és 2,01 % között van, akkor 2 pont, ha 2% és 1,01% között van, akkor 1 pont, míg ha 1% alatti, akkor 0 pont. | 3 pont |
+|  | 2 | Kérelmező értékelése a bázis évre vonatkozóan | Ha a bázisévben* a felhalmozási kiadások aránya az összes kiadáshoz képest 3,01% feletti, akkor 3 pont, ha 3% és 2,01% között van, akkor 2 pont, ha 2% és 1,01% között van, akkor 1 pont, míg ha 1% alatti, akkor 0 pont. | 3 pont |
 
 |  | 3 | Ha bázisévben a saját bevételek aránya az összes bevételhez képest 13,01% feletti, akkor 3 pont, ha 13% és 9,01% között van, akkor 2 pont, ha 9% és 5,01% között van, akkor 1 pont, míg ha 5% alatti, akkor 0 pont. | 3 pont |
 
 |  | 4 | Pénzügyi stabilitás (működési bevételek fedezik-e a működési kiadások 50%-át) Ha igen akkor 3 pont, ha nem akkor 0 pont. | 3 pont |
 
-|  | 5 | Kérelmező értékelése a beruházás befejezését követő első évre vonatkozóan | Ha a támogatási kérelem benyújtását követő 4. évben a felhalmozási kiadások aránya az összes kiadáshoz képest 3,01% feletti, akkor 3 pont, ha 3% és 2,01 % között van, akkor 2 pont, ha 2% és 1,01% között van, akkor 1 pont, míg ha 1% alatti, akkor 0 pont. | 2 pont |
+|  | 5 | Kérelmező értékelése a beruházás befejezését követő első évre vonatkozóan | Ha a támogatási kérelem benyújtását követő 4. évben a felhalmozási kiadások aránya az összes kiadáshoz képest 2,01% feletti, akkor 2 pont, ha 2% és 1,01% között van, akkor 1 pont, míg ha 1% alatti, akkor 0 pont. | 2 pont |
 
-|  | 6 | Ha a támogatási kérelem benyújtását követő 4. évben a saját bevételek aránya az összes bevételhez képest 13,01% feletti, akkor 3 pont, ha 13% és 9,01 %- között van, akkor 2 pont, ha 9% és 5,01% között van, akkor 1 pont, míg ha 5% alatti, akkor 0 pont. | 2 pont |
+|  | 6 | Ha a támogatási kérelem benyújtását követő 4. évben a saját bevételek aránya az összes bevételhez képest 9,01% feletti, akkor 2 pont, ha 9% és 5,01% között van, akkor 1 pont, míg ha 5% alatti, akkor 0 pont. | 2 pont |
 
-|  | 7 | Pénzügyi stabilitás (működési bevételek fedezik-e a működési kiadások 50%-át) Ha igen akkor 3 pont, ha nem akkor 0 pont. | 2 pont |
+|  | 7 | Pénzügyi stabilitás (működési bevételek fedezik-e a működési kiadások 50%-át) Ha igen akkor 2 pont, ha nem akkor 0 pont. | 2 pont |
 
 |  | 8 | Üzemeltetési vizsgálat | Amennyiben a személyi jellegű kifizetések a bázisévhez képest a támogatási kérelem benyújtását követő 4. évre nőnek, akkor 2 százalékpontonkénti növekedésre 1 pont adható, de maximum 5 pont. | 5 pont |
 
-|  | 9 | Összesen legfeljebb: | 20 pont |
+|  | 9 | Összesen legfeljebb: |  | 20 pont |
 
 ## B) Természetes személy esetében
 
