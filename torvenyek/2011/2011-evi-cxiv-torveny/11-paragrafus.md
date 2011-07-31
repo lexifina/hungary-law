@@ -1,1 +1,0 @@
-11. § A Kvtv. 8. melléklet II. egyes szociális feladatok támogatása cím 1. Egyes jövedelempótló támogatások kiegészítése pont előirányzatában a „88 541,5 millió forint” szövegrész helyébe „113 141,5 millió forint” szöveg lép.

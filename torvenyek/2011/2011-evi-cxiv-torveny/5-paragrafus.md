@@ -1,3 +1,0 @@
-5. § A Kvtv. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az Országgyűlés felhatalmazza az agrárpolitikáért felelős minisztert, hogy az államháztartásért felelős miniszter előzetes egyetértésével a XII. Vidékfejlesztési Minisztérium fejezet 20. cím, 3. Agrár célelőirányzatok alcím, a 20. cím, 5. Nemzeti támogatások alcím, 3–8. jogcím-csoport, a 20. cím, 7. Árfolyamkockázat és egyéb, EU által nem térített kiadások alcím, 20. cím, 11. Vidékfejlesztési és halászati programok alcím, valamint a 20. cím, 13. EU tagságból eredő feladatok alcím között és az alcímeken belül átcsoportosítást hajtson végre.”
