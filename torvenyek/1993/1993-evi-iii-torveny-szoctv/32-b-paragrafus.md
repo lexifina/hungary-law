@@ -10,7 +10,7 @@ c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövede
 
 (2) Az (1) bekezdésben megjelölt reá irányadó nyugdíjkorhatár alatt a Tny.-ben szabályozott nyugdíjkorhatárt kell érteni.
 
-(3) A jegyző időskorúak járadékában részesíti a 3. § (3) bekezdésének b) pontjában meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
+(3) A jegyző időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 
 (4) Nem állapítható meg az időskorúak járadéka, illetve a folyósítást meg kell szüntetni, ha a személy
 
@@ -18,4 +18,4 @@ a) előzetes letartóztatásban van, elzárás, illetőleg szabadságvesztés b�
 
 b) 3 hónapot meghaladó időtartamban külföldön tartózkodik.
 
-c) a 3. § (3) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
+c) a 3. § (3) vagy (4) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
