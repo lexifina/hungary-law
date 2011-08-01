@@ -8,6 +8,7 @@ tekintetében jogosult szakmai vizsga megszervezésére.
 
 (2) A Nemzeti Szakképzési és Felnőttképzési Intézet vizsgaszervezési jogosultsága kiterjed az R. 2006. március 31-én hatályos azon szakképesítéseinek – korábbi szabályok szerint megkezdett képzéseket követő – szakmai vizsgáira is, amelyek az e rendelet 4. számú mellékletében szerepelnek.
 
-(3) A Nemzeti Szakképzési és Felnőttképzési Intézet az (1) bekezdés b) pontja szerinti szakképesítések tekintetében 2011. július 31-éig jogosult szakmai vizsga megszervezésére.
+(3)[^2]
 
 [^1]: A 2. § a 22/2011. (V. 12.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdését a 22/2011. (V. 12.) NEFMI rendelet 7. §-a hatályon kívül helyezte.
