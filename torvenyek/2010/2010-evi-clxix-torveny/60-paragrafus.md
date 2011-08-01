@@ -2,7 +2,7 @@
 
 a) 66. §-ának (1) bekezdése szerinti, a közalkalmazotti fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat a 2011. évre a 12. melléklet tartalmazza;
 
-b) 66/A. §-ának (2) bekezdése szerinti vezetői illetményalap a 2011. évben 120 000 forint;
+b)
 
 c) 69. §-ában foglalt illetménypótlék számítási alapja a 2011. évben 20 000 forint.
 
