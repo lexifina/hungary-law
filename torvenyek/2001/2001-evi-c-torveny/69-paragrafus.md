@@ -10,4 +10,6 @@ c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.
 
 d) az Európai Parlament és a Tanács 2005/36/EK irányelve a szakmai képesítések elismeréséről, 1–20. cikk és 50–55. cikk, 57–64. cikk,
 
-e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont.
+e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont,
+
+f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont.

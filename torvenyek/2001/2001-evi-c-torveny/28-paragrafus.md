@@ -4,13 +4,15 @@
 
 (1) Tagállamnak minősül a Magyar Köztársaság kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
-(2) A tagállam állampolgárával azonos megítélés alá esik
+(2) A tagállam állampolgárával azonos megítélés alá esik:
 
 a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező családtagja,
 
-b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, valamint
+b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 
-c) a bevándorolt, illetve letelepedett jogállású személy is.
+c) a bevándorolt, illetve letelepedett jogállású személy, valamint
+
+d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár.
 
 (3) Szabályozott szakmának minősül az olyan szakmai tevékenység vagy szakmai tevékenységek csoportja, amelynek a megkezdését, folytatását vagy meghatározott módon történő folytatását jogszabály, közvetlenül vagy közvetve, meghatározott szakmai képesítés birtoklásához köti, továbbá, amelyet külön jogszabály szabályozott szakmának minősít. A szakma meghatározott módon történő gyakorlásának minősül különösen az, ha jogszabály meghatározott szakmai cím használatát meghatározott képesítés birtoklásához köti.
 
