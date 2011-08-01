@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2010-04-01 | 2009. évi CLII. törvény | 1996-75-00-00.32 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1996-75-00-00.33 |
 | 2011-07-22 | 2011. évi XCIII. törvény | 1996-75-00-00.34 |
+| 2011-08-01 | 2011. évi CV. törvény | 1996-75-00-00.35 |

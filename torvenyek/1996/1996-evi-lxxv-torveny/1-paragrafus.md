@@ -1,6 +1,6 @@
 1. § (1) E törvény hatálya kiterjed
 
-a) arra a természetes és jogi személyre, valamint jogi személynek nem minősülő gazdasági társaságra, aki a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony, továbbá külföldit vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
+a) arra a természetes és jogi személyre, valamint jogi személynek nem minősülő gazdasági társaságra, aki a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok – ideértve az egyszerűsített foglalkoztatásról szóló törvényben meghatározott munkaviszonyt is – alapján foglalkoztat,
 
 b) a Munka Törvénykönyve Harmadik része XI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönvevőre
 
@@ -18,7 +18,7 @@ b) a külföldi munkáltató munkavállalójának a Munka Törvénykönyve 106/A
 
 a) a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben szabályozott vállalkozási szerződés (389–415. §), valamint megbízási szerződés (474–487. §) alapján végzett munka, továbbá
 
-b) a gazdasági társaságokról szóló 1997. évi CXLIV. törvényben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
+b) a gazdasági társaságokról szóló törvényben szabályozott közkereseti társaság és betéti társaság tagjának személyes közreműködése, valamint a korlátolt felelősségű társaság tagjának mellékszolgáltatásként nyújtott személyes közreműködése,
 
 c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 

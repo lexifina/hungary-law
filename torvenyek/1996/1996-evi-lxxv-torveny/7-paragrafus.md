@@ -1,8 +1,8 @@
 7. § (1) Munkaügyi bírság akkor szabható ki, ha a foglalkoztató
 
-a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint b), c), d), f), i), k), l), m) és n) pontjában foglalt rendelkezéseket egy,
+a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint a b), c) d), f), i), k), l), m) és n) pontjában foglalt rendelkezéseket egy,
 
-b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint e), g), h), j), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
+b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint az e), g), h) j), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
 
 munkavállaló vonatkozásában megsérti.
 
@@ -46,7 +46,7 @@ terjedhet.
 
 (7) A munkaügyi bírság összegének megállapításánál figyelembe kell venni különösen a jogszabály megsértésével okozott jogellenes állapot időtartamát, az okozott hátrány nagyságát, a megsértett jogszabályi előírások számát és hatását, valamint az érintett munkavállalók számát.
 
-(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények – a 6. § (1) bekezdésének a) és g) pontját kivéve – alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
+(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények – a 6. § (1) bekezdés f) pontját kivéve – alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
 
 (9) Ha egy ellenőrzés során megállapított szabálytalanság a jelen törvényben meghatározott jogszabály és egyéb rendelkezés, illetve a szabálysértési jogszabály előírásait is megsérti, a munkaügyi felügyelő
 

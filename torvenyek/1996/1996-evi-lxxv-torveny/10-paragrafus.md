@@ -22,4 +22,8 @@ j) az Európai Parlament és a Tanács 2002. március 11-i 2002/14/EK irányelve
 
 k) az Európai Parlament és a Tanács 2002. március 11-i 2002/15/EK irányelve a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről a Munka Törvénykönyve, valamint a közúti közlekedésről szóló 1988. évi I. törvény irányadó rendelkezéseivel együtt;
 
-l) az Európai Parlament és a Tanács 2003. november 4-i 2003/88/EK irányelve a munkaidő-szervezés egyes szempontjairól, a Munka Törvénykönyve irányadó rendelkezéseivel együtt.
+l) az Európai Parlament és a Tanács 2003. november 4-i 2003/88/EK irányelve a munkaidő-szervezés egyes szempontjairól, a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
+
+m) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv szerinti illegális foglalkoztatás tilalmának, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény irányadó rendelkezéseivel együtt,
+
+n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek.

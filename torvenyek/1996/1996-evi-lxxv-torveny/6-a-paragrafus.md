@@ -1,23 +1,19 @@
-6/A. § (1) A felügyelő a 6. § (1) bekezdésének f) pontjától és a 7. §-ban foglaltaktól eltérően köteles javaslatot tenni munkaügyi bírság kiszabására, valamint a munkaügyi bírság kiszabása kötelező, ha a foglalkoztató a 3. § (1) bekezdésében meghatározott rendelkezések közül
+6/A. § (1) A felügyelő köteles javaslatot tenni munkaügyi bírság kiszabására, valamint a munkaügyi bírság kiszabása nem mellőzhető, ha a foglalkoztató
 
-a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségével összefüggésben követett el jogsértést [Munka Törvénykönyve 76. §-ának (2) bekezdése, valamint 75/A. §-a],
+a) a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is) vonatkozó rendelkezéseket megsértette,
 
-b) a munkaviszony létesítésével összefüggésben nem tett eleget a külön jogszabályban foglalt bejelentési kötelezettségének [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont],
+b) a foglalkoztatásra irányuló jogviszony létesítésével összefüggésben nem tett eleget az államháztartási törvényben foglalt bejelentési kötelezettségének,
 
-c) nem tett eleget a munkaidő-nyilvántartás vezetésére vonatkozó kötelezettségének [Munka Törvénykönyve 140/A. § (1) bekezdés a) pont], illetve kettős nyilvántartást vezetett,
+c) a jogszabályban vagy kollektív szerződésben megállapított munkabér összegére és a kifizetés határidejére vonatkozó rendelkezéseket megsértette, ide nem értve a felszámolási eljárás alatt álló foglalkoztatót, vagy
 
-d) nem tartotta be a nők, a fiatal munkavállalók és a megváltozott munkaképességűek foglalkoztatására vonatkozó sajátos szabályokat,
+d) hatósági nyilvántartásba vétel hiányában folytat munkaerő-kölcsönzésre irányuló tevékenységet.
 
-e) a munka- és pihenőidőre vonatkozó szabályokat a munkaügyi ellenőrzéssel érintett telephelyen foglalkoztatott munkavállalók legalább húsz százaléka vonatkozásában megsértette,
+(2) Nem szabható ki munkaügyi bírság, ha
 
-f) hatósági nyilvántartásba vétel hiányában folytat munkaerő-kölcsönzésre irányuló tevékenységet,
+a) a foglalkoztató a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettségét a munkaügyi ellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette,
 
-g) a jogszabályban vagy kollektív szerződésben – ideértve a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződést is – megállapított munkabér összegére, valamint a munkabér védelmére vonatkozó rendelkezéseket a munkaügyi ellenőrzéssel érintett telephelyen foglalkoztatott munkavállalók legalább húsz százaléka vonatkozásában megsértette, ide nem értve a felszámolási eljárás alatt álló foglalkoztatót,
+b) a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettséget külön jogszabály szerint a foglalkoztató helyett más teljesíti, és a foglalkoztató a bejelentés határidőben történő teljesítéséhez szükséges adatokat a munkaügyi ellenőrzés megkezdéséig teljes körűen átadta, vagy
 
-h) a munkavállalók gazdasági és társadalmi érdekei védelme céljából szakszervezet szervezését biztosító alapjogait megsértette, vagy a választott szakszervezeti tisztséget betöltő munkavállalónak, az üzemi és a közalkalmazotti tanács tagjának vagy a munkavédelmi képviselőnek a munkajogi védelme tekintetében a Munka Törvénykönyve 28. §-ának (1) bekezdésében meghatározott munkáltatói kötelezettséget elmulasztotta.
+c) a foglalkoztató a munkavállaló részére ki nem fizetett a jogszabályban vagy kollektív szerződésben megállapított munkabért az eljárás során kitűzött határidőn belül kifizeti.
 
-(2) Az (1) bekezdés b) pontjában foglaltaktól eltérően nem szabható ki bírság, ha
-
-a) a foglalkoztató a munkaviszony létesítésének bejelentésére vonatkozó bejelentési kötelezettségét a munkaügyi ellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette, vagy
-
-b) a bejelentési kötelezettséget külön jogszabály szerint a foglalkoztató helyett más teljesíti, és a foglalkoztató a bejelentés határidőben történő teljesítéséhez szükséges adatokat teljeskörűen átadta.
+(3) Az (1) bekezdésben, a 7. §-ban, vagy a közigazgatási hatósági eljárás általános szabályairól szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben foglalt esetben sem szabható ki munkaügyi bírság első ízben, ha a foglalkoztató természetes személy vagy a hatósági ellenőrzés megkezdésekor a kis- és középvállalkozásokról szóló törvény szerint kis- vagy középvállalkozásnak minősült. E szabály alkalmazásában, ha a foglalkoztató több telephellyel vagy munkahellyel rendelkezik, akkor bármelyik telephelyén, munkahelyén elkövetett, illetve ezeken egy eljárásban feltárt szabálytalanság minősül első ízben elkövetett jogsértésnek.
