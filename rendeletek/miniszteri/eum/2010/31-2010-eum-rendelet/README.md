@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-31-20-0
 | 2010-07-01 | 2010-31-20-0B.1 | 31/2010. (V. 13.) EüM rendelet |
 | 2010-10-02 | 2010-31-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-10-03 | 2010-31-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-08-01 | 2010-31-20-0B.4 | 47/2011. (VII. 27.) NEFMI rendelet |

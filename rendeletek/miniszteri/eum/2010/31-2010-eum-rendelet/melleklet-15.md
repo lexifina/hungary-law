@@ -45,13 +45,3 @@ Osteoporosis máshova osztályozott betegségekben (M82.0, M82.1, M82.8)
 2.7.2. testtömeg 10%-nál nagyobb arányú elvesztése
 
 2.7.3. osteoporosisra pozitív családi anamnézis
-
-2.7.4. spondilitis ankylopoetica
-
-2.7.5. Crohn-betegség gyógyszeres kezelése
-
-2.7.6. elhúzódó, vagy tartós immobilitással járó állapotok
-
-2.7.7. kezeletlen korai (45 éves kor előtt kezdődő) menopausa
-
-2.7.8. dohányzás

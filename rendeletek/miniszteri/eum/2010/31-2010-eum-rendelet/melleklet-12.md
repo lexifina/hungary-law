@@ -1,4 +1,4 @@
-12. melléklet a 31/2010. (V. 13.) EüM rendelethez
+12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^4]
 
 ## A juvenilis idiopathias arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -42,6 +42,8 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 
 2.3.6. vörösvérsejt-süllyedés (mm/h)
 
+3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
+
 4. A juvenilis idiopathias arthritis gyógyszeres kezelési algoritmusa
 
 4.1. Nem polyarticularis formák (alcsoportok): analgetikum, NSAID, lokális és szisztémás szteroid, bázisterápia (szulfaszalazin, methotrexat, azathioprin, cyclosporinA)* a betegség alcsoportjától és aktivitásától függően (alapellátás + mindhárom szint).
@@ -61,6 +63,8 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 4.2.3.2. ritka (nagyon enyhe) esetben szulfaszalazinnal (SSZ) is indíthatunk*.
 
 4.2.4. Betegségmódosító terápia hatástalanság esetén biológiai terápia (2. és 3. reumatológiai szint: biológiai terápiás centrumok) – TNF gátló (etanercept vagy adalimumab).
+
+4.2.5. TNF gátló hatástalanság esetén szelektív immunszuppresszáns terápia (abatacept) (2. és 3. reumatológiai szint: biológiai terápiás centrumok)
 
 * Törzskönyvi indikációkra különös figyelmet kell fordítani.
 
@@ -246,8 +250,12 @@ A 16 éves kor előtt kezdődő, legalább 6 hete fennálló, legalább 1 ízül
 
 | 18 | H02AB09 | hidrokortizon | Szteroid | Szteroid gyógyszerek |
 
+| 19 | L04AA24 | abatacept | BRMD | Szelektív immunszuppresszánsok |
+
 10. Rövidítések:
 
 ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
+
+[^4]: A 12. számú melléklet a 47/2011. (VII. 27.) NEFMI rendelet 11. § (1) bekezdése szerint módosított szöveg.
