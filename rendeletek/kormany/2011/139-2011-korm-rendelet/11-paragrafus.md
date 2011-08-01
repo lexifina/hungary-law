@@ -1,0 +1,1 @@
+## „(8) Ha a fekvőbeteg-ellátást nyújtó szolgáltató kérésére a beteg részére egészségügyi szolgáltatást más szolgáltató nyújt, ennek költségeit a szolgáltatók egymás között számolják el. Az elszámolás során legfeljebb az adott szolgáltatásnak az OEP által alkalmazott aktuális finanszírozási paraméterei és a 6. § (2) bekezdése szerinti forintértékek vehetők figyelembe.”

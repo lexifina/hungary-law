@@ -1,0 +1,3 @@
+## 5. § A Kr. 14. §-a a következő (9) bekezdéssel egészül ki:
+
+## „(9) Ha a (8) bekezdés szerinti esetben az OALI-val közalkalmazotti jogviszonyban álló orvos 60 napot meghaladó keresőképtelen állományban van, terhességi-gyermekágyi segélyt, gyermekgondozási díjat vagy gyermekgondozási segélyt vesz igénybe, és a helyettesítését az OALI-val szerződéses jogviszonyban álló másik háziorvos látja el, a finanszírozás a 10. § (1) bekezdésében meghatározott díjazás számítás szerinti átlagos havi díj 100 százalékával történik, ha a körzet lakosságszáma az 1200 főt eléri, alacsonyabb lakosságszám esetén a díjazás arányosan csökken.”
