@@ -1,1 +1,0 @@
-## 1. § A rendelet hatálya a vendéglátás és közétkeztetés keretében történő élelmiszer-előállító és -forgalmazó tevékenységet folytató gazdálkodó szervezetekre [Polgári Törvénykönyv 685. § c) pont], természetes és jogi személyekre, továbbá a jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban: vendéglátó, közétkeztető) terjed ki.
