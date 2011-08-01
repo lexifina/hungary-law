@@ -32,7 +32,13 @@ d) jogszabályban vagy kollektív szerződésben – ideértve a miniszter álta
 
 e) a munkaidő-nyilvántartás hiánya vagy kettős munkaidő-nyilvántartás vezetése [Munka Törvénykönyve 140/A. § (1) bekezdés a) pont],
 
-f) külföldi Magyarországon engedélyhez kötött foglalkoztatása esetén az engedély megkérésére vonatkozó munkáltatói kötelezettség elmulasztása,
+f) a harmadik országbeli állampolgár
+
+fa) munkavállalási engedély, vagy
+
+fb) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) szerinti, keresőtevékenység folytatására jogosító engedély (ideértve a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított EU Kék Kártyát is)
+
+nélkül történő foglalkoztatása,
 
 g) a munkaerő-kölcsönzésre vonatkozó, a Munka Törvénykönyve 193/D. §-a (1) bekezdésének a nyilvántartásba vétellel kapcsolatos szabályainak megsértése, valamint
 
@@ -42,15 +48,15 @@ miatt a hatáskörében eljáró illetékes hatóság, illetőleg a bíróság a
 
 (6) A támogatásra való jogosultságot kizárja, ha a támogatás igénylőjét
 
-a) a munkaügyi hatóság munkaügyi bírsággal sújtotta, vagy az (5) bekezdés f) pontjában meghatározott jogsértés elkövetése miatt a központi költségvetésbe történő befizetésre kötelezte, vagy
+a) a munkaügyi hatóság munkaügyi bírsággal sújtotta, vagy a munkaügyi ellenőrzésről szóló törvény szerint a központi költségvetésbe történő befizetésre kötelezte,
 
-b) az állami adóhatóság az (5) bekezdés a) pontjában meghatározott jogsértés elkövetése miatt az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtotta, vagy
+b) az állami adóhatóság az (5) bekezdés a) pontjában meghatározott jogsértés elkövetése miatt az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtotta,
 
-c) az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóság az (5) bekezdés h) pontjában meghatározott jogsértés elkövetése miatt az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény alapján bírsággal sújtotta,
+c) az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóság az (5) bekezdés h) pontjában meghatározott jogsértés elkövetése miatt az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény alapján bírsággal sújtotta, vagy
 
-és
+d) az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti, keresőtevékenység folytatására jogosító engedély hiánya miatt közrendvédelmi bírsággal sújtotta,
 
-d) – amennyiben az a)–c) pontokban meghatározott közigazgatási határozat bírósági felülvizsgálata iránt keresetet indítottak – bíróság a keresetet érdemben elutasította.
+feltéve, hogy az a)–d) pontokban meghatározott közigazgatási határozat jogerős, vagy ha annak bírósági felülvizsgálata iránt keresetet indítottak, a bíróság a keresetet érdemben elutasította.
 
 (7) Az (5)–(6) bekezdésben foglaltaktól eltérően támogatás nyújtható, ha
 
