@@ -2,7 +2,7 @@
 
 19. § (1) A Rehabilitációs Párbeszéd Bizottság (a továbbiakban: RPB) a különböző ágazatokban foglalkoztatott megváltozott munkaképességű dolgozókat képviselő szakszervezetek és a megváltozott munkaképességűeket foglalkoztató munkáltatók érdekképviseletei közötti – a munkaügyi kapcsolatok és a munkaviszony, valamint a foglalkoztatás kérdéseiben folytatott – kétoldalú szociális párbeszéd fóruma.
 
-(2) Az RPB-re az ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, a 14–18. § kivételével. Ettől eltérően, az RPB-ben a 14. § (1) bekezdés a) pontja szerint megállapodások köthetők.
+(2) Az RPB-re az ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, a 12. § (2) bekezdése és a 14–18. § kivételével. Ettől eltérően, az RPB-ben a 14. § (1) bekezdés a) pontja szerint megállapodások köthetők.
 
 (3) A (2) bekezdésben foglaltakon túlmenően, az RPB-ben való részvétel és a jogosultságok szempontjából ágazati adatok helyett a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók adatait kell figyelembe venni. Megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónak minősülnek:
 

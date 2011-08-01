@@ -4,7 +4,7 @@
 
 1. szociális párbeszéd: a szociális partnerek közötti kétoldalú kommunikáció, amely magában foglalja a rendszeres információcserét, a konzultációt, a kollektív tárgyalást, megállapodások létrehozását, közös szakpolitikák kidolgozását és megvalósítását;
 
-2. szociális párbeszéd bizottság: kétoldalú – munkáltatói és munkavállalói érdekképviseletek részvételével az e törvény által előírt módon létrejött – fórum, amely lehet ágazati, alágazati, szakágazati, szakmai, illetve a munkavállalók meghatározott csoportjait érintő bizottság; e törvény alkalmazásában magasabb szintű ÁPB-nek minősül a kevesebb számjegyű TEÁOR-kóddal jelölt ágazatban létrejött ÁPB;
+2. szociális párbeszéd bizottság: kétoldalú – munkáltatói és munkavállalói érdekképviseletek részvételével az e törvény által előírt módon létrejött – fórum, amely működhet egy vagy több nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra, szakmára, illetve a munkavállalók meghatározott csoportjaira kiterjedően; e törvény alkalmazásában magasabb szintű ÁPB-nek minősül a nemzetgazdasági ágban, illetve a kevesebb számjegyű TEÁOR-kóddal jelölt ágazatban létrejött ÁPB;
 
 3. megállapodás: az ÁPB tagjai által elfogadott – különösen – állásfoglalás, ajánlás vagy cselekvési program, amely létrejöhet tárgyalás és konzultáció eredményeként is;
 
@@ -26,11 +26,13 @@ d) kollektív szerződés kötéséhez (kollektív tárgyalás);
 
 8. TEÁOR-kód: a tevékenységek egységes ágazati osztályozási rendszere szerinti kód, amely a vállalkozás (munkáltató) cégbírósági bejegyzésében főtevékenységként szerepel;
 
-9. a) ágazat: két számjegyű TEÁOR-kóddal,
+9. a) nemzetgazdasági ág: egy betűs TEÁOR-kóddal,
 
-b) alágazat: három számjegyű TEÁOR-kóddal,
+b) ágazat: két számjegyű TEÁOR-kóddal,
 
-c) szakágazat: négy számjegyű TEÁOR-kóddal
+c) alágazat: három számjegyű TEÁOR-kóddal,
+
+d) szakágazat: négy számjegyű TEÁOR-kóddal
 
 jelzett tevékenységi terület; magasabbnak a kevesebb számjeggyel jelzett szintet kell tekinteni;
 

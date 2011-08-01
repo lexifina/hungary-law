@@ -32,6 +32,6 @@ b) érdekképviseleti szövetség létrehozatala
 
 esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a jogutódlás, illetve az érdekképviseleti szövetség létrejötte időpontját közvetlenül megelőzően legalább két évig megszakítás nélkül folytatta.
 
-(5) A (4) bekezdésben szereplő feltételnek való megfelelés hiányában akkor lehet az érdekképviselet az ÁPB tagja, ha a 21. § (1) bekezdés a) pontja szerinti határozat alapján e feltételnek megfelelő valamennyi, az ÁPB létrehozatalában részt vevő, illetve az ÁPB-ben tag ágazati érdekképviselet hozzájárul ÁPB-tagságához.
+(5)
 
 (6) Az ágazati szintű szociális párbeszédben való részvétel feltételeinek elérése érdekében a munkavállalók, illetőleg a munkáltatók érdekképviseletei egymással koalícióra léphetnek.

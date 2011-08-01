@@ -6,11 +6,11 @@
 
 (4) Az ÁPB létrehozásáról szóló megállapodásnak tartalmaznia kell:
 
-a) az erre irányuló nyilatkozatot,
+a) az ÁPB létrehozására irányuló nyilatkozatot,
 
 b) az ÁPB munkáltatói, illetve munkavállalói oldalain részt vevő érdekképviseletek felsorolását, nevük, székhelyük, valamint a képviseletükre jogosult személy megjelölésével,
 
-c) a 13. § (1) bekezdésének megfelelően az ÁPB működésének rendjét, továbbá
+c) nyilatkozatot arról, hogy az ÁPB-t létrehozó szervezetek döntési rendjüket maguk alakítják ki a 13. § (1) bekezdésének megfelelően vagy kérik az ÁRMB erre vonatkozó, 21. § (2) bekezdésében szereplő eljárását, továbbá
 
 d) a szervezetek képviselőinek aláírását.
 
@@ -20,6 +20,10 @@ a) a megállapodás egy-egy eredeti példányát a miniszternek és – a 21. §
 
 b) az ÁPB-ben való, 6–8. § szerinti részvétel és – erre vonatkozó megállapodás hiányában – a 12. § (1) bekezdésében foglalt jogosultságok megállapításához szükséges érdekképviseleti adatokat – a 21. § (1) bekezdés a) pontjában foglalt eljárás lefolytatását kezdeményező kérelem benyújtásával egyidejűleg – az ÁRMB-nek.
 
-(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjában haladéktalanul nyilvánosságra kell hozni.
+(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjában haladéktalanul nyilvánosságra kell hozni. Ha a megállapodást az érdekképviseletek hatvan napon belül nem küldik meg a miniszternek és az ÁRMB-nek, akkor azt semmisnek kell tekinteni.
 
-(7) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata jogerőre emelkedésének napján jön létre.
+(7) Az ÁPB létrehozásáról szóló megállapodás semmis, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
+
+(8) Az (1)–(6) bekezdésben foglaltakat kell alkalmazni akkor is, ha egy már létrejött ÁPB tevékenységi területét valamely további nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra kiterjeszti.
+
+(9) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata jogerőre emelkedésének napján jön létre.

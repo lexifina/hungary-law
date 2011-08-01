@@ -20,8 +20,8 @@ c) a 22. §-ban szabályozott eljárás alapján javaslatot tesz a miniszternek 
 
 (3) Az ÁPBT tagjai az ÁPB-k munkavállalói, illetve munkáltatói oldala által delegált ágazatonkénti egy-egy képviselő, valamint a miniszter képviselői. Az ÁPB-k oldalai maguk alakítják ki az oldalt alkotó személyek delegálásának és visszahívásának rendjét.
 
-(4) Ha az ágazatban több szinten működik ÁPB, a (3) bekezdésben foglalt jogosultság a legmagasabb szinten működő ÁPB-t illeti meg. Ha az ágazatban ágazati szintű ÁPB helyett több al- vagy szakágazati szintű ÁPB működik, akkor az alágazati szintű ÁPB-k, ha alágazati szintű ÁPB sem működik, a szakágazati szintű ÁPB-k közösen jelölik a képviselőt.
+(4) Ha a nemzetgazdasági ágban több szinten működik ÁPB, a (3) bekezdésben foglalt jogosultság a legmagasabb szinten működő ÁPB-t illeti meg. Ha egy szinten több ÁPB működik, akkor ezek az ÁPB-k közösen jelölik a képviselőt.
 
-(5) Amennyiben az ágazatban több szinten működött ÁPB, és a (2) bekezdésben foglalt jogosultsággal rendelkező ÁPB megszűnt, az általa delegált képviselő ÁPBT tagsága megszűnik, és a (3)–(4) bekezdés megfelelő alkalmazásával új képviselő delegálására kerül sor.
+(5) A (4) bekezdésben foglalt esetben, ha a legmagasabb szinten működő ÁPB megszűnt, az általa delegált képviselő ÁPBT tagsága megszűnik, és a (3)–(4) bekezdés megfelelő alkalmazásával új képviselő delegálására kerül sor.
 
 (6) Az ÁPBT titkársági teendőinek ellátásáról a miniszter gondoskodik.

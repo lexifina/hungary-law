@@ -26,4 +26,4 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (10) A 13. § (1) bekezdésének c) pontja, valamint (2) bekezdése a kollektív szerződés ÁPB-ben történő megkötése esetén nem alkalmazható.
 
-(11) A kollektív szerződés – eltérő megállapodás hiányában – a megkötését követő tizenötödik napon lép hatályba. A munkáltatói érdekképviselet köteles elősegíteni, hogy a kollektív szerződést a tagjai által foglalkoztatott munkavállalók megismerjék.
+(11) A kollektív szerződés – eltérő megállapodás hiányában – a megkötését követő tizenöt nap eltelte után következő hónap első napján lép hatályba. A munkáltatói érdekképviselet köteles elősegíteni, hogy a kollektív szerződést a tagjai által foglalkoztatott munkavállalók megismerjék.
