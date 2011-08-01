@@ -1,5 +1,0 @@
-## 2. § Az R. 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § (1) A Közösségi irányelv A.1. mellékletében meghatározott, a rendelet hatálybalépését követően elhelyezett felszerelésnek meg kell felelnie – a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-i 391/2009/EK európai parlamenti és tanácsi rendeletben meghatározott szabályok és eljárások alkalmazásához – a Közösségi irányelv A.1. mellékletében megjelölt nemzetközi dokumentumokban meghatározott követelményeknek.
-
-## (2) A felszerelésnek a nemzetközi egyezményekben és az IMO határozataiban és körözvényeiben előírt követelményeknek való megfelelősége csak a vonatkozó nemzetközi vizsgálati követelmények és a Közösségi irányelv A.1. mellékletében meghatározott, a B) mellékletben megadott megfelelőség-tanúsítási eljárások alapján bizonyítható. Azoknak a Közösségi irányelv A.1. mellékletében meghatározott felszereléseknek az esetében, amelyek megfelelősége mind az IEI, mind az ETSI által előírt vizsgálati eljárások alapján bizonyítható, bármelyik választható, és a gyártó vagy képviselője meghatározhatja, hogy melyik eljárást kell alkalmazni.”
