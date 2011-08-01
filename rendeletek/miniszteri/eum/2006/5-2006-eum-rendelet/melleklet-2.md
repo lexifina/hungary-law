@@ -2,803 +2,1194 @@
 
 ## I. SZEMÉLYI FELTÉTELEK
 
-## I/A) Mentési tevékenység végzésére a II/B) pontban foglaltak szerint az alábbi szakképesítéssel rendelkező személyek jogosultak:
-
 ## 1. Mentőgépkocsi-vezetőként az foglalkoztatható, aki
 
-## a) a megkülönböztető jelzésekkel ellátott gépjármű vezetéséhez jogszabályban előírt követelményeknek eleget tesz, és
+## 1.1. a megkülönböztető jelzésekkel ellátott gépjármű vezetéséhez jogszabályban előírt követelményeknek eleget tesz,
 
-## b) legalább kétéves gépjárművezetői gyakorlattal rendelkezik, és
+## 1.2. legalább kétéves gépjárművezetői gyakorlattal rendelkezik,
 
-## c) elméleti és gyakorlati képzésben részesül:
+## 1.3. az alábbi ismeretekkel és készségekkel rendelkezik:
 
-## életjelenségek vizsgálata,
+## 1.3.1. A mentőellátás szervezése Magyarországon.
 
-## légútbiztosítás (eszköz nélkül),
+## 1.3.2. Mentőegység típusok; A mentőgépjárművek felszerelése.
 
-## lélegeztetés (eszköz nélkül, illetve ballonnal),
+## 1.3.3. A beteg állapotának felmérése, ABCDE szemlélet alkalmazása, riasztó tünetek felismerése.
 
-## újraélesztés egyedül, illetve másik segélynyújtóval,
+## 1.3.4. A keringésmegállás felismerése, az újraélesztés elméleti alapjai.
 
-## vérzéscsillapítás, végtagrögzítés, kötözés,
+## 1.3.5. Az eszméletlenség fogalma, felismerése, veszélyei.
 
-## betegmozgatás, kimentés, pozicionálás, bukósisak eltávolítás,
+## 1.3.6. A vitális funkciók fogalma, vizsgálata.
 
-## pulzus és vérnyomásmérés ismeretekből, és
+## 1.3.7. A leggyakoribb életveszélyes mérgezések.
 
-## d) a c) pontban foglalt ismeretekből sikeres vizsgát tesz, és
+## 1.3.8. A sokk és ájulás fogalma, felismerése.
 
-## e) a mentőszervezet által évenként szervezett szintentartó-, illetve továbbképzést elvégzi, s a megszerzett ismeretekből sikeres vizsgát tesz.
+## 1.3.9. Életveszélyes belgyógyászati betegségek felismerése.
 
-## 2. Mentőápolóként az foglalkoztatható, aki
+## 1.3.10. A legfontosabb heveny ideg- és elmegyógyászati betegségek felismerése.
 
-## a) a jogszabályban meghatározott mentőápolói szakképesítéssel (OKJ 52501201), vagy
+## 1.3.11. A szülés megindulásának felismerése.
 
-## b) az a) pont szerinti szakképesítés hiányában minimumvizsgával rendelkezik, és a munkakörben foglalkoztatás kezdetétől számított 3 éven belül a munkakörre előírt szakképesítést megszerzi,
+## 1.3.12. A tömeges baleset, katasztrófa [a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 3. § e) pontja], veszélyhelyzet [a polgári védelemről szóló 1996. évi XXXVII. törvény 2. § (2) bekezdése] fogalma.
 
-## c) és a külön jogszabályban előírt továbbképzési követelményeknek eleget tesz.
+## 1.3.13. Eljárás tömeges kárhelyen.
 
-## A minimumvizsgához szükséges képzés tematikája a következő:
+## 1.3.14. A segélykocsi kérésének indikációi.
 
-## A mentőellátás szervezése Magyarországon. Mentőegység típusok 2 óra
+## 1.3.15. Munkavédelmi, tűzvédelmi, baleset-megelőzési ismeretek.
 
-## A vitális funkciók fogalma, vizsgálata. A keringésmegállás diagnosztikája 2 óra
+## 1.3.16. Jogi és etikai kérdések.
 
-## Az újraélesztés elmélete 2 óra
+## 1.3.17. Légútbiztosítás, lélegeztetés.
 
-## Légútbiztosítás, lélegeztetés 2 óra
+## 1.3.18. Újraélesztés egy és két segélynyújtóval, eszköz nélkül és eszközzel, félautomata defibrillátor alkalmazásával.
 
-## Mellkaskompressziók kivitelezése 2 óra
+## 1.3.19. Vérnyomásmérés, pulzusszámolás, pulzoximetria, vércukorszint mérés.
 
-## Újraélesztés egy segélynyújtóval 2 óra
+## 1.3.20. Eszméletlen beteg ellátása.
 
-## Újraélesztés két segélynyújtóval 2 óra
+## 1.3.21. Kimentés (Rautek-féle műfogás), betegmozgatás, fektetési módok.
 
-## Riasztó tünetek felismerése 2 óra
+## 1.3.22. Vérzések, vérzéscsillapítás, kötözés.
 
-## Az eszméletlenség fogalma, felismerése, veszélye, teendők eszméletlen beteggel 4 óra
+## 1.3.23. Csontok és ízületek sérülései, rögzítések szakszerű alkalmazása, bukósisak levétele.
 
-## Kimentés (Rautek-féle műfogás), KED-mellény alkalmazás, betegmozgatás, fektetési módok 4 óra
+## 1.3.24. Koponya-agyi és gerincsérülések felismerése és ellátása.
 
-## Vérzések, vérzéscsillapítás, kötözés 6 óra
+## 1.3.25. Hasi és mellkasi sérülések felismerése és ellátása.
 
-## Vérnyomásmérés és pulzusszámolás 1 óra
+## 1.3.26. Termikus traumák és ellátásuk.
 
-## Csontok és ízületek sérülései, rögzítési módok 6 óra
+## 1.3.27. Tömeges baleset ellátása.
 
-## Koponya-agyi és gerincsérülések felismerése és ellátása 2 óra
+## 1.3.28. Mentéstechnikai alapismeretek.
 
-## Hasi és mellkasi sérülések és ellátása 2 óra
+## 1.3.29. Szülésvezetés.
 
-## Thermikus traumák és ellátásuk 2 óra
+## 1.4. a mentőszervezet által évenként szervezett szintentartó-, illetve továbbképző tanfolyamot elvégzi és a megszerzett ismeretekből sikeres vizsgát tesz.
 
-## A shock és az ájulás fogalma, felismerése 2 óra
+## 2. Mentőhelikopter pilótaként az foglalkoztatható, aki a hatályos légügyi előírás szerint az adott légijármű kategóriára és típusra meghatározott légijármű-vezetői képesítéssel és érvényes szakszolgálati engedéllyel rendelkezik, valamint szakszolgálati engedélyében a mentőpilóta jogosítás szerepel.
 
-## Életveszélyes belgyógyászati betegségek felismerése 4 óra
+## 3. Oktató mentőhelikopter pilótaként az foglalkoztatható, aki a hatályos légügyi előírás szerint az adott légijármű kategóriára és típusra meghatározott oktató légijármű-vezetői képesítéssel, érvényes szakszolgálati engedéllyel, mentőpilóta jogosítással rendelkezik, és a megbízás kezdete előtti hat hónapban legalább harminc primer légimentő feladatot teljesített beosztott mentőpilótaként.
 
-## A leggyakoribb életveszélyes mérgezések 2 óra
+## 4. Sürgősségi mentőhajó-vezetőként az foglalkoztatható, aki
 
-## Szülésvezetés 4 óra
+## 4.1. az adott hajótípushoz szükséges hivatásos hajóvezetői képesítéssel és vízterület ismerettel rendelkezik,
 
-## A legfontosabb heveny ideg- és elmegyógyászati betegségek felismerése 2 óra
+## 4.2. az adott hajókategóriában legalább kétéves vízijárművezetői gyakorlattal rendelkezik,
 
-## Tömeges baleset fogalma, ellátása 2 óra
+## 4.3. elméleti és gyakorlati képzésben részesül az alábbi tárgyakban és ezekből sikeres vizsgát tesz:
 
-## A mentőgépjárművek felszerelése 6 óra
+## – életjelenségek vizsgálata,
 
-## Jogi, etikai kérdések 4 óra
+## – légútbiztosítás eszköz nélkül,
 
-## Munkavédelem 2 óra
+## – lélegeztetés eszköz nélkül, illetve ballonnal,
 
-## Konzultáció, ismétlés, az ellátási algoritmusok gyakorlása 9 óra
+## – újraélesztés egyedül, illetve másik segélynyújtóval, félautomata defibrillátorral,
 
-## Mentőgépkocsin elsősorban, kiemelt mentőgépkocsin, esetkocsin, rohamkocsin, speciális rohamkocsin, valamint légi mentőjárművön kizárólag szakképzett mentőápoló foglalkoztatható.
+## – vérzéscsillapítás, végtagrögzítés, kötözés,
 
-## 3. Gyermek intenzív terápiás szakápolóként az foglalkoztatható, aki OKJ 6193210121041 számú képesítéssel rendelkezik, és legalább kétéves gyermek intenzív terápiás gyakorlattal rendelkezik.
+## – betegmozgatás, kimentés, pozícionálás, bukósisak eltávolítás,
 
-## 4. Mentőtisztként az foglalkoztatható, aki
+## – pulzus és vérnyomásmérés ismeretek, és
 
-## a) az egészségügyi felsőoktatás főiskolai szintű alapképzésében mentőtiszti szakképzettséget szerzett,
+## 4.4. a mentőszervezet által évenként szervezett szintentartó-, illetve továbbképzést elvégzi, és a megszerzett ismeretekből sikeres vizsgát tesz.
 
-## b) VI. éves orvostanhallgató, és az OMSZ által szervezett oxyológiai tanfolyamot elvégezte, sikeres tanfolyamzáró vizsgát tett, és az előírt gyakorlatokat teljesítette.
+## 5. Mentő-technikusként az foglalkoztatható, aki:
 
-## 5. Mentőorvosként esetkocsin az foglalkoztatható, aki
+## 5.1. a megkülönböztető jelzésekkel ellátott gépjármű vezetéséhez jogszabályban előírt követelményeknek eleget tesz,
 
-## a) szakorvosjelöltként legalább a törzsképzési időt letöltötte, vagy
+## 5.2. legalább kétéves gépjárművezetői gyakorlattal rendelkezik,
 
-## b) törzsképzési idejét töltő rezidens, ha VI. éves orvostanhallgatóként legalább 300 órát dolgozott mentőtiszti beosztásban,
+## 5.3. a jogszabályban meghatározott mentőszakápolói, mentőápolói szakképesítéssel rendelkezik, vagy
 
-## c) törzsképzési idejét töltő rezidens, ha a sürgősségi féléves gyakorlati időt letöltötte és az oxyológiai tanfolyamon előírt gyakorlatokat teljesítette,
+## 5.4. a jogszabályban meghatározott ápoló, felnőtt aneszteziológiai és intenzív szakápoló, klinikai szakápoló, intenzív betegellátó szakápoló, egészségügyi szakasszisztens, aneszteziológiai szakasszisztens vagy sürgősségi szakápoló szakképesítéssel rendelkezik, és a mentési tevékenységet végző szervezet által akkreditált tanfolyamot elvégezte,
 
-## d) e melléklet 6. pontja szerinti végzettséggel rendelkezik.
+## 5.5. a mentőszervezet által évenként szervezett szintentartó-, illetve továbbképző tanfolyamot elvégzi, és a megszerzett ismeretekből sikeres vizsgát tesz.
 
-## 6.[^19] Rohamkocsira az osztható be, aki
+## 6. Mentőápoló
 
-## a) oxyológus, vagy
+## 6.1. Mentőápolóként az foglalkoztatható, aki
 
-## b) sürgősségi vagy oxyológia és sürgősségi orvostani, vagy
+## 6.1.1. a jogszabályban meghatározott mentőszakápolói, mentőápolói szakképesítéssel rendelkezik, vagy
 
-## c) aneszteziológia és intenzív terápiás szakorvos, vagy
+## 6.1.2. a jogszabályban meghatározott ápoló, felnőtt aneszteziológiai és intenzív szakápoló, klinikai szakápoló, intenzív betegellátó szakápoló, egészségügyi szakasszisztens, aneszteziológiai szakasszisztens vagy sürgősségi szakápoló szakképesítéssel rendelkezik, és a mentési tevékenységet végző szervezet által akkreditált tanfolyamot elvégezte,
 
-## d) legalább 5 éves mentőgyakorlattal rendelkező, az OMSZ-nál részmunkaidőben foglalkoztatott szakorvos, vagy
+## 6.1.3. a 6.1.1. és 6.1.2. pont szerinti szakképesítés hiányában – a munkavégzés megkezdésétől számítva legfeljebb 3 évig –, amennyiben az 1.3.1–1.3.29. pont szerinti ismeretekkel és készségekkel rendelkezik és a mentőszervezet által évenként szervezett szintentartó-, illetve továbbképző tanfolyamot elvégzi, és a megszerzett ismeretekből sikeres vizsgát tesz.
 
-## e) aki oxyológus, sürgősségi vagy oxyológia és sürgősségi orvostani szakorvosjelöltként a 2 éves törzsképzési időt teljesítette és szakmai felettese (az OMSZ régió szakmai vezetője, orvosigazgatója) igazolja, hogy az alapvetően szükséges diagnosztikai, eszközhasználati, reanimációs, gyógyszerelési, illetve szervezési készségek birtokában van.
+## 6.2. Mentőgépkocsin lehetőség szerint, kiemelt mentőgépkocsin, esetkocsin, rohamkocsin, speciális rohamkocsin, valamint légi és sürgősségi vízi mentőjárművön kizárólag szakképzett mentőápoló foglalkoztatható.
 
-## 7. Oxyológus szakorvosként az foglalkoztatható, aki oxyológiából szakorvosi bizonyítványt szerzett.
+## 6.3. Neonatológiai mentő-, rohamkocsin az a gyermek aneszteziológiai és intenzív szakápoló foglalkoztatható, aki gyermek aneszteziológiai és intenzív szakápolói képesítéssel és legalább kétéves gyermek intenzív terápiás gyakorlattal rendelkezik.
 
-## 8.[^20] Speciális rohamkocsin (MICU) orvosként az foglalkoztatható, aki
+## 7. Mentőtisztként az foglalkoztatható, aki:
 
-## a) oxyológiai, vagy
+## 7.1. az egészségügyi felsőoktatás alapképzésében vagy azzal egyenértékű képzésben mentőtiszti szakképzettséget szerzett,
 
-## b) sürgősségi vagy oxyológia és sürgősségi orvostan, vagy
+## 7.2. VI. éves orvostanhallgató, és az OMSZ által szervezett oxiológiai tanfolyamot elvégezte, sikeres tanfolyamzáró vizsgát tett, és az előírt gyakorlatokat teljesítette.
 
-## c) aneszteziológiai és intenzív terápiás szakvizsgával rendelkezik.
+## 8. Mentőorvosként esetkocsin az foglalkoztatható, aki:
 
-## 9. Neonatológiai rohamkocsin az az orvos foglalkoztatható, aki neonatológiai szakorvosi képesítést szerzett, vagy az a gyermekgyógyász szakorvos, aki koraszülötteket ellátó osztályon végzett legalább két éves gyakorlattal rendelkezik.
+## 8.1. törzsképzési idejét töltő rezidens, ha VI. éves orvostanhallgatóként legalább 720 órát dolgozott mentőtiszti beosztásban,
 
-## 10. Gyermekmentő-rohamkocsin olyan orvos foglalkoztatható, aki
+## 8.2. törzsképzési idejét töltő rezidens, ha a sürgősségi féléves gyakorlati időt letöltötte és az oxiológiai tanfolyamon előírt gyakorlatokat teljesítette,
 
-## a) legalább fél évig teljes munkaidőben gyermekintenzív osztályon dolgozott, vagy
+## 8.3. a 9. pont szerinti végzettséggel rendelkezik.
 
-## b) gyermekgyógyász, vagy
+## 9. Rohamkocsira orvosként az osztható be, aki:
 
-## c) aneszteziológia- és intenzív terápiás, vagy
+## 9.1. oxiológus szakorvos, vagy,
 
-## d) sürgősségi orvostani, vagy
+## 9.2. sürgősségi vagy oxiológia és sürgősségi orvostani szakorvos, vagy
 
-## e) oxyológus szakképesítéssel rendelkezik,
+## 9.3. aneszteziológia és intenzív terápiás szakorvos, vagy
 
-## f) az az orvos, aki a b)–e) pont szerinti szakképesítés valamelyikének megszerzésére készül, továbbá gyermekgyógyászati, intenzív terápiás és oxyológiai gyakorlattal is rendelkezik.
+## 9.4. legalább 5 éves mentőgyakorlattal rendelkező, az OMSZ-nál részmunkaidőben foglalkoztatott szakorvos, vagy
 
-## 11. Légi mentőjárművön olyan orvos, mentőtiszt, ápoló foglalkoztatható, aki megfelel e melléklet szerinti személyi feltételeknek és kiképzést kapott a légi járművön történő munkavégzésre is. A kiképzés tematikája a következő:
+## 9.5. oxiológus, sürgősségi, vagy oxiológia és sürgősségi orvostani vagy aneszteziológiai és intenzív terápiás szakorvosjelöltként a 2 éves törzsképzési időt teljesítette és szakmai felettese (a mentési tevékenységet végző szervezet szakmai vezetője) igazolja, hogy az alapvetően szükséges diagnosztikai, eszközhasználati, reanimációs, gyógyszerelési, illetve szervezési készségek birtokában van.
 
-## A repülés élettani hatásai. Hang, vibráció, gyorsulás, légnyomás változásai, oxigén-tensió változásai, psychés terhelés, Jet-lag szindróma, kinetózis. 2 óra
+## 10. Oxiológus szakorvosként az foglalkoztatható, aki oxiológiából, illetve oxiológia és sürgősségi orvostanból szakorvosi bizonyítványt szerzett.
 
-## Légimentés, betegszállítás, célja, indikációi, kontraindikációi. Mentőhelikopterrel, mentőrepülőgéppel végrehajtható egyéb feladatok. Betegátadással kapcsolatos egységes módszerek. 2 óra
+## 11. Speciális rohamkocsin orvosként az foglalkoztatható, aki oxiológiai vagy sürgősségi vagy oxiológia és sürgősségi orvostani, vagy aneszteziológiai és intenzív terápiás szakvizsgával rendelkezik.
 
-## A mentőhelikopterek felszerelése. Mentéstechnikai eszközök alkalmazása a fedélzeten. 2 óra
+## 12. Neonatológiai rohamkocsin az az orvos foglalkoztatható, aki neonatológus szakorvos vagy legalább két évig teljes munkaidőben, önálló ügyeleti szolgálatban is, neonatológiai intenzív osztályon dolgozott és neonatológiai szakorvosi képzésben vesz részt vagy gyermekgyógyász szakorvos vagy a gyermekgyógyász szakorvosi képzésben legalább már három évet eltöltött, és elméleti-gyakorlati képzést kapott a neonatológiai feladatok oxiológiai specialitásairól, és ezt az adott neonatológiai központ szakmai vezetője igazolja.
 
-## Tűzbiztonsági ismeretek. Munkavédelmi előírások. 2 óra
+## 13. Gyermekmentő-rohamkocsin és gyermek-mentőorvosi gépkocsin olyan orvos foglalkoztatható, aki legalább fél évig teljes munkaidőben gyermekintenzív osztályon dolgozott és gyermekgyógyász, vagy aneszteziológia és intenzív terápiás, vagy sürgősségi orvostani, vagy oxiológus, illetve oxiológia és sürgősségi orvostani szakképesítéssel rendelkezik, illetve az az orvos, aki ezen szakképesítési képzés valamelyikében részt vesz, elméleti-gyakorlati képzést kapott a gyermeksürgősségi ismeretekből, és kellő gyakorlatát az OMSZ által kijelölt szakmai vezetője igazolja.
 
-## Általános repülési ismeretek, repülési szabályok. 3 óra
+## 14. Légi mentőjárművön a mentőegység vezetője orvos, a vízi mentőjárművön a mentőegység vezetője orvos vagy mentőtiszt.
 
-## Vészhelyzetek fajtái, követendő eljárások, kényszerleszállás. 1 óra
+## 14.1. Légi és vízi mentőjárművön orvosként az foglalkoztatható, aki:
 
-## Gyakorlati foglalkozás. 2 óra
+## 14.1.1. oxiológus szakorvos, vagy
 
-## Mentőpilótaként az foglalkoztatható, aki a hatályos légügyi előírás szerint meghatározott légijármű vezetői képesítéssel rendelkezik.
+## 14.1.2. sürgősségi szakorvos, vagy
 
-## 12.[^21] Mentőorvosi gépkocsin az a szakorvos foglalkoztatható, aki
+## 14.1.3. oxiológia és sürgősségi orvostani szakorvos, vagy
 
-## a) oxyológus, vagy
+## 14.1.4. aneszteziológia és intenzív terápiás szakorvos, vagy
 
-## b) sürgősségi vagy oxyológia és sürgősségi orvostani, vagy
+## 14.1.5. a munkavégzés megkezdése előtti nyolc évben legalább 5 éves, az OMSZ-nál szerzett mentőgyakorlattal rendelkező orvos, vagy
 
-## c) aneszteziológia és intenzív terápiás szakorvos.
+## 14.1.6. oxiológus, sürgősségi vagy oxiológia és sürgősségi orvostani vagy aneszteziológiai és intenzív terápiás szakorvosjelöltként a 2 éves törzsképzési időt teljesítette és
 
-## 13.[^22] Mentő-motorkerékpáron az foglalkoztatható, aki a megkülönböztetett jelzéssel ellátott, mentésre alkalmas műszaki paraméterekkel rendelkező motorkerékpár vezetésére érvényes jogosítvánnyal rendelkezik, és
+## 14.1.7. légi jármű esetén: kiképzést kapott a légi járművön történő speciális munkavégzésre is, azaz a hatályos rendelet által leírt tematikának megfelelő helikopteres sürgősségi mentőszolgálati tevékenységre (HEMS) jogosító tanfolyamon vett részt, melynek évenkénti megújítása szükséges;
 
-## a) az egészségügyi felsőoktatás főiskolai szintű alapképzésében mentőtiszti szakképzettséget szerzett, vagy
+## 14.1.8. vízi jármű esetén: úszástudásáról tanúbizonyságot tett az EMESE tanfolyam fizikai felmérő tesztje alapján, és kiképzést kapott a vízi járművön történő speciális munkavégzésre is, azaz a sürgősségi mentőhajó-szolgálati tevékenységre (EMESE) jogosító tanfolyamon vett részt, melynek évenkénti megújítása szükséges.
 
-## b) oxyológus, vagy
+## 15. Mentőorvosi gépkocsin az az orvos foglalkoztatható, aki
 
-## c) sürgősségi vagy oxyológia és sürgősségi orvostani, vagy
+## 15.1. oxiológus szakorvos, vagy
 
-## d) aneszteziológia és intenzív terápiás szakorvos, vagy
+## 15.2. sürgősségi vagy oxiológia és sürgősségi orvostani szakorvos, vagy
 
-## e) legalább 5 éves mentőgyakorlattal rendelkező, az OMSZ-nál részmunkaidőben foglalkoztatott szakorvos, vagy
+## 15.3. aneszteziológia és intenzív terápiás szakorvos, vagy
 
-## f) aki oxyológus, sürgősségi vagy oxyológia és sürgősségi orvostani, vagy aneszteziológiai és intenzív terápiás szakorvosjelöltként a 2 éves törzsképzési időt teljesítette és szakmai felettese (az OMSZ régió szakmai vezetője, orvosigazgatója) igazolja, hogy az alapvetően szükséges diagnosztikai, eszközhasználati, reanimációs, gyógyszerelési, illetve szervezési készségek birtokában van,
+## 15.4. legalább 5 éves mentőgyakorlattal rendelkező, az OMSZ-nál részmunkaidőben foglalkoztatott szakorvos, vagy
 
-## g) törzsképzési idejét töltő rezidens, ha VI. éves orvostanhallgatóként legalább 300 órát dolgozott mentőtiszti beosztásban és a féléves sürgősségi blokkot teljesítette.
+## 15.5. oxiológus, sürgősségi, vagy oxiológia és sürgősségi orvostani vagy aneszteziológiai és intenzív terápiás szakorvosjelöltként a 2 éves törzsképzési időt teljesítette és szakmai felettese (a mentési tevékenységet végző szervezet szakmai vezetője) igazolja, hogy az alapvetően szükséges diagnosztikai, eszközhasználati, reanimációs, gyógyszerelési, illetve szervezési készségek birtokában van.
 
-## I/B) A mentési tevékenységet végző szervezet szakmai vezetője oxyológus szakorvosi szakképesítéssel rendelkező orvos, illetve koraszülött- és újszülött mentés esetén neonatológus szakorvos lehet.
+## 16. Mentőtiszti gépkocsin az a mentőtiszt foglalkoztatható, aki a 7.1. pontban foglaltaknak megfelel.
+
+## 17. Mentő-motorkerékpáron a 7.1., 8.1., 9.
+
+## és 10. pontban meghatározott olyan személy foglalkoztatható, aki a megkülönböztetett jelzéssel ellátott, mentésre alkalmas műszaki paraméterekkel rendelkező motorkerékpár vezetésére érvényes jogosítvánnyal rendelkezik.
+
+## 18. Mentő-mopeden az a személy foglalkoztatható, aki legalább a jogszabályban meghatározott mentőápolói szakképesítéssel rendelkezik, továbbá speciális 40 órás képzésben részesült és abból vizsgát tett, és a jármű vezetéséhez szükséges érvényes engedéllyel rendelkezik.
+
+## 19. Szolgálatvezető főorvosként az a személy foglalkoztatható, aki a 10. pontban foglalt feltételeknek megfelel, és legalább 3 éves szakorvosi kivonuló gyakorlattal rendelkezik.
+
+## 20. Mentésvezetőként az a személy foglalkoztatható, aki:
+
+## 20.1. a 7. 1. pont szerinti végzettségű mentőtiszt vagy
+
+## 20.2. az 5.3. vagy 6.1.1. pont szerinti végzettségű mentőápoló
+
+## és legalább 3 év kivonuló és mentésirányítói gyakorlattal rendelkezik.
+
+## 21. Mentésirányítóként az a személy foglalkoztatható, aki:
+
+## 21.1. a 7.1. pont szerinti végzettségű mentőtiszt vagy
+
+## 21.2. az 5.3. vagy 6.1.1. pont szerinti végzettségű mentőápoló.
+
+## 22. A mentési tevékenységet végző szervezet szakmai vezetője oxiológus szakorvosi szakképesítéssel rendelkező orvos, illetve koraszülött- és újszülött mentés esetén neonatológus szakorvos lehet.
 
 ## II. TÁRGYI FELTÉTELEK
 
-## II/A) Mentőállomás
+## II/A. Mentőállomás
 
-## A mentés rendszerébe funkcionálisan integrált közvetlen betegellátásra nem szolgáló objektum, amely
+## 1. Mentőállomás feltételei:
 
-## – elhelyezésében és kialakításában biztosítja a személyzet haladéktalan riaszthatóságát és a mentőegység késedelem nélküli kivonulását;
+## a) elhelyezésében és kialakításában biztosítja a személyzet haladéktalan riaszthatóságát és a mentőegység késedelem nélküli kivonulását;
 
-## – megfelelő hírközlő eszközökkel (telefon, URH rádió) ellátott;
+## b) a mentőfeladatok fel-, illetve átvételére és a mentőegységekhez továbbítására megfelelő hírközlő eszközökkel (telefon és rádió kapcsolat) ellátott;
 
-## – alkalmas a következőkre:
+## c) alkalmas a következőkre:
 
-## = a mentőfeladatok fel-, illetve átvételére és a mentőegységekhez továbbítására,
+## ca) a szolgálatban lévő szakszemélyzet – a vonatkozó építészeti, közegészségügyi, munka- és tűzvédelmi normák szerinti – elhelyezésére,
 
-## = a szolgálatban lévő szakszemélyzet – a vonatkozó építészeti, közegészségügyi, munka- és tűzvédelmi normák szerinti – elhelyezésére,
+## cb) a mentőjárművek és egészségügyi felszerelésük készenlétben tartására, tárolására, takarítására és fertőtlenítésére;
 
-## = a mentőjárművek és egészségügyi felszerelésük készenlétben tartására, tárolására, takarítására és fertőtlenítésére.
+## d) közvetlen betegellátásra nem szolgál.
 
-## II/B)[^23] Mentőjárművek
+## 2. Légimentő bázis feltételei:
 
-## Általános mentést, koraszülött mentést és koraszülött szállítást, őrzött betegszállítást, illetve mozgóőrségi tevékenységet végző közúti mentőjármű a működési engedély kiadásakor a gyártás évétől számítva 6 évesnél idősebb nem lehet, és legfeljebb a gyártás évétől számított 10 évig üzemeltethető. Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsi(ka)t kell biztosítani. A mentőjárművek lehetnek a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – azok használatában.
+## a) elhelyezésében és kialakításában biztosítja a személyzet haladéktalan riaszthatóságát és a légi mentőegység késedelem nélküli kivonulását;
+
+## b) az OMSZ rendszerébe integrált, a mentőfeladatok fel-, illetve átvételére és a mentőegységekhez továbbítására megfelelő hírközlő eszközökkel ellátott;
+
+## c) alkalmas a következőkre:
+
+## ca) a szolgálatban lévő szakszemélyzet – a vonatkozó építészeti, közegészségügyi, munka- és tűzvédelmi normák szerinti – elhelyezésére,
+
+## cb) a légimentőjármű és egészségügyi felszerelése készenlétben tartására, tárolására, takarítására és fertőtlenítésére,
+
+## cc) a légimentő jármű tankolására, üzemeltetéshez szükséges ellenőrzésére;
+
+## d) közvetlen betegellátásra nem szolgál.
+
+## 3. Vízimentő bázis feltételei:
+
+## a) elhelyezésében és kialakításában biztosítja a személyzet haladéktalan riaszthatóságát és a vízi mentőegység késedelem nélküli kivonulását, vízről, illetve szárazföldről is jól megközelíthető;
+
+## b) az OMSZ rendszerébe integrált, a mentőfeladatok fel-, illetve átvételére és a mentőegységekhez továbbítására megfelelő hírközlő eszközökkel ellátott;
+
+## c) alkalmas a következőkre:
+
+## ca) a szolgálatban lévő szakszemélyzet – a vonatkozó építészeti, közegészségügyi, munka- és tűzvédelmi normák szerinti – elhelyezésére,
+
+## cb) a vízimentőjármű és egészségügyi felszerelése, valamint a speciális vízi mentéshez szükséges eszközök készenlétben tartására, tárolására, takarítására és fertőtlenítésére,
+
+## cc) a vízimentő jármű tankolására, egyszerű karbantartására,
+
+## cd) légi mentőjármű, mentőhelikopter és szárazföldi mentőgépjármű fogadására, betegátadás céljára;
+
+## d) közvetlen betegellátásra nem szolgál.
+
+## II/B. Mentőjárművek
+
+## A mentőjármű a működési engedély kiadásakor a forgalomba helyezés évétől számítva 13 évesnél idősebb nem lehet.
+
+## Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsit vagy gépkocsikat kell biztosítani.
 
 ## A Magyar Honvédség és a Rendőrség által üzemeltetett mentőjárművek üzemeltetési idejét a hatósági vizsgálatok, illetve a mentőjárművek tényleges műszaki állapota alapján az üzemeltető határozza meg.
 
-## 1. Mentőgépkocsi: mentőápolóval és mentőgépkocsi-vezetővel kivonuló, egészségügyi alapfelszereléssel, az OMSZ rádióhálózatában üzemelő rádióval/rádiótelefonnal, megkülönböztető jelzéssel, valamint legalább egy fekvőbeteg szállítására beépített hordágytartóval ellátott, megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal felszerelt gépkocsi.
+## 1. Mentőgépkocsi feltételei:
 
-## A mentőgépkocsi betegterének minimális méretei:
+## – mentőápoló és mentőgépkocsi-vezető,
 
-## hosszúság: 2400 mm
+## – egészségügyi alapfelszerelés,
 
-## szélesség: 1300 mm
+## – rádió vagy rádiótelefon,
 
-## magasság: 1400 mm
+## – megkülönböztető jelzés,
+
+## – legalább egy fekvőbeteg szállítására beépített hordágytartóval ellátott, megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal felszerelt gépkocsi, amely megfelel a B típusú közúti mentőjárműre [MSZ EN 1789:2007 szabvány] vonatkozó előírásoknak.
 
 ## 1.1. Egészségügyi minimum felszerelés:
 
-## 1.1.1. Beteghordozó eszközök
+## 1.1.1. Beteghordozó eszközök:
 
-## – Hordágy
+## – Hordágy,
 
-## – Hordszék
+## – Hordszék.
 
-## 1.1.2. Rögzítők, a sebellátás eszközei
+## 1.1.2. Rögzítők, a sebellátás eszközei:
 
-## – Vacuummatrac (legalább 80 cm széles) az ehhez szükséges leszívópumpával
+## – Legalább 80 cm széles vákummatrac az ehhez szükséges leszívópumpával,
 
-## – Rögzítősínek (pl. pneumatikus sín, vacuumsín, cramer sín)
+## – Rögzítősínek: pneumatikus sín, vákumsín, Cramer sín, egyéb,
 
-## – Nyakrögzítő készlet
+## – Nyakrögzítő készlet,
 
-## – Steril és nem steril kötszerek
+## – Steril és nem steril kötszerek,
 
-## – Izolációs takaró
+## – Izolációs takaró.
 
-## 1.1.3. Diagnosztikus és betegellenőrző eszközök
+## 1.1.3. Diagnosztikus és betegellenőrző eszközök:
 
-## – Vérnyomásmérő és phonendoscop
+## – Vérnyomásmérő és fonendoszkóp,
 
-## – Lázmérő
+## – Lázmérő.
 
-## 1.1.4. Légútbiztosítás, lélegeztetés eszközei
+## 1.1.4. Légútbiztosítás, lélegeztetés eszközei:
 
-## – Oxigénpalack (min. 7 l) reduktorral
+## – Legalább 7 l oxigénpalack reduktorral,
 
-## – Oxigén orrszonda vagy arcmaszk
+## – Oxigén orrszonda vagy arcmaszk,
 
-## – Lélegeztető ballon és maszk, oxigénvezeték a lélegeztető ballonhoz
+## – Lélegeztető ballon és maszk, oxigénvezeték a lélegeztető ballonhoz,
 
-## – Leszívópumpa (taposó vagy egyéb hordozható szívó)
+## – Leszívópumpa (taposó vagy egyéb hordozható szívó),
 
-## – Leszívó katheterek
+## – Leszívó katéterek,
 
-## – Száj-garat tubus
+## – Száj-garat tubus.
 
-## 1.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei
+## 1.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
-## – Egyszerhasználatos fecskendők és tűk
+## – Egyszer használatos fecskendők, tűk, perifériás vénás kanülök,
 
-## – Infúziós szerelék, percutan kanülök
+## – Infúziós szerelék,
 
-## – Kézi műszerek (olló, csipesz, érfogó)
+## – Kézi műszerek: olló, csipesz, érfogó,
 
-## – Szülészeti csomag (nyákszívó, köldökcsat, bébi izolációs takaró)
+## – Szülészeti csomag: nyákszívó, köldökcsat, bébi izolációs takaró,
 
-## – Steril és nem steril lepedők, takarók
+## – Steril és nem steril lepedők, takarók,
 
-## – Kéz- és bőrfertőtlenítő-szer
+## – Kéz- és bőrfertőtlenítő-szer,
 
-## – Védőkesztyűk, orr-száj maszkok, műanyag védőszemüveg
+## – Védőkesztyűk, orr-száj maszkok, műanyag védőszemüveg,
 
-## – Hulladékgyűjtő (veszélyes hulladéknak)
+## – Hulladékgyűjtő veszélyes hulladéknak,
 
-## – Ágytál, hánytál, vizeletgyűjtő
+## – Ágytál, hánytál, vizeletgyűjtő,
 
-## – Hullatakaró
+## – Hullatakaró.
 
-## 1.1.6. Gyógyszerek:
+## 1.1.6. Egyéb kiegészítő felszerelés:
 
-## a) Injekciók
+## – Ampullatartó, zseblámpa.
 
-## – Nem kábító fájdalomcsillapító
+## 1.1.7. Életmentő eszközöket és gyógyszereket tartalmazó táska:
 
-## – Simaizom görcsoldó
+## – Steril és nem steril kötszerek,
 
-## – Atropin
+## – Izolációs takaró,
 
-## b) Infúzió
+## – Vérnyomásmérő és fonendoszkóp,
 
-## – Ringer laktát
+## – Lázmérő,
 
-## c) Orálisan adható készítmények:
+## – Lélegeztető ballon és maszk, oxigénvezeték a lélegeztető ballonhoz,
 
-## – Adsorbens és hashajtó (carbo activatus)
+## – Leszívópumpa (taposó vagy egyéb hordozható szívó),
 
-## – Natrium hydrocarbonicum
+## – Leszívó katéterek,
 
-## – Nem kábító fájdalomcsillapító
+## – Száj-garat tubus,
 
-## – Rövid hatástartamú vérnyomáscsökkentő (ACE gátló)
+## – Egyszer használatos fecskendők, tűk, perifériás vénás kanülök,
 
-## – Sublingualis vagy buccalis nitroglycerin és nifedipin
+## – Infúziós szerelék,
 
-## – Beta-2 izgató spray
+## – Kézi műszerek (olló, csipesz, érfogó),
 
-## 1.1.7. Egyéb kiegészítő felszerelés
+## – Kéz- és bőrfertőtlenítő-szer,
 
-## – Ampullatartó, zseblámpa
+## – Injekciók: nem kábító fájdalomcsillapító, simaizom görcsoldó, atropin hatóanyag,
 
-## 2. Kiemelt mentőgépkocsi: szakképzett, ezen felül további 40 órás speciális képzésben részesült mentőápolóval és mentőgépkocsivezetővel kivonuló mentőegység, egészségügyi többletfelszereléssel ellátott mentőgépkocsi.
+## – Infúzió: izotóniás elektrolit oldat,
+
+## – Szájon át adható készítmények: méreganyagokat megkötő szerek (orvosi szén), acetilszalicilsav tartalmú véralvadás gátló szer, rövid hatástartamú ACE-gátló hatóanyagot tartalmazó vérnyomáscsökkentő, nyelv alá vagy száj nyálkahártyára adható nitroglicerin, béta–2 receptor izgató spray,
+
+## – Végbélen át adható készítmények: diazepam hatóanyag tartalmú központi idegrendszeri görcsoldó, lázcsillapító kúp, ampullatartó.
+
+## 1.1.8. Egyéb többletfelszerelés:
+
+## – Félautomata defibrillátor,
+
+## – Vércukorszint meghatározó készülék tesztcsíkkal.
+
+## 2. Kiemelt mentőgépkocsi feltételei:
+
+## – 40 órás speciális képzésben részesült szakképzett mentőápoló és mentőgépkocsi-vezető,
+
+## – egészségügyi többletfelszereléssel ellátott mentő-gépkocsi.
 
 ## 2.1. Egészségügyi többletfelszerelés:
 
-## 2.1.1. Rögzítők, a sebellátás eszközei
+## 2.1.1. Rögzítők, a sebellátás eszközei:
 
-## – Lapáthordágy
+## – Lapáthordágy vagy gerinchordágy,
 
-## – Gyermek gerincágy
-
-## – Gyermek méretű végtagrögzítő sínkészlet
-
-## – Speciális égési kötszer
+## – Speciális égési kötszer.
 
 ## 2.1.2. Diagnosztikus és betegellenőrző eszközök
 
-## – Pulzoximéter
+## 2.1.3. Légútbiztosítás, lélegeztetés eszköze:
 
-## – Vércukor meghatározó készülék tesztcsíkkal
+## – 1,5/2 literes oxigénpalack, reduktorral.
 
-## 2.1.3. Légútbiztosítás, lélegeztetés eszközei
+## 2.1.4. Keringés-támogatás:
 
-## – Laringeális maszk
+## – Félautomata defibrillátor.
 
-## – 1,5/2 literes oxigénpalack, reduktorral
+## 2.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
-## – Gyermek maszksorozat
+## – Gyomorszonda.
 
-## – Gyógyszerporlasztó (gyermek, felnőtt)
+## 2.1.6. Sürgősségi táska tartalma az életmentő táska tartalmán felül:
 
-## 2.1.4. Keringés támogatás
+## – pulzoximéter,
 
-## – Félautomata defibrillátor
+## – vércukorszint meghatározó készülék tesztcsíkkal,
 
-## 2.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei
+## – laringeális maszk,
 
-## – Nitralginpalack reduktorral és önadagaló szelepes inhalátorral
+## – gyógyszerporlasztó: gyermek, felnőtt,
 
-## – Gyomorszonda
+## – intraosszeális kanülálás eszközei,
 
-## – Intraosszeális tű
+## – 20%-os cukoroldat,
 
-## 2.1.6. Gyógyszerek
+## – glucagon,
 
-## – 40%-os glukóz
+## – adrenalin hatóanyag tartalmú, szimpatikus idegrendszert izgató hatású szerek,
 
-## – Sympathomimeticum (adrenalin, dopamin)
+## – Béta-2 receptor izgató oldat,
 
-## – Béta-2 izgató (oldat)
+## – végbélen át adható szteroid hatású szer.
 
-## – Rektális diazepam
+## 2.1.7. Bébi táska:
 
-## – Rektális szteroid
+## – gyermek méretű lélegeztető ballon maszksorozattal, rezervoárral.
 
-## 3. Esetkocsi: mentőtiszttel vagy mentőorvossal kivonuló, egészségügyi többletfelszereléssel ellátott mentőgépkocsi.
+## 3. Esetkocsi feltételei:
 
-## Az esetkocsi betegterének minimális méretei:
+## – mentőtiszt vagy mentőorvos,
 
-## hosszúság: 2800 mm
+## – egészségügyi többletfelszereléssel ellátott mentőjármű, amely megfelel a C típusú közúti mentőjárműre [MSZ EN 1789:2007 szabvány] vonatkozó előírásoknak.
 
-## szélesség: 1500 mm
+## 3.1. Egészségügyi többletfelszerelése a 2. pontban, a kiemelt mentőgépkocsira meghatározott felszerelésen felül:
 
-## magasság: 1800 mm
+## 3.1.1. Diagnosztikus és betegellenőrző eszközök:
 
-## 3.1. Egészségügyi többletfelszerelés:
+## – EKG írószerkezettel, amely lehet a defibrillátor részegysége is,
 
-## 3.1.1. Diagnosztikus és betegellenőrző eszközök
+## – reflex-kalapács, pupilla-lámpa.
 
-## – EKG (graph – lehet a defibrillátor részegysége is)
+## 3.1.2. Légútbiztosítás, lélegeztetés eszközei:
 
-## – Vércukor meghatározó készülék tesztcsíkkal
+## – hordozható lélegeztetőgép,
 
-## – Pulzoximéter (lehet defibrillátor részegysége is)
+## – kapnográf,
 
-## 3.1.2. Légútbiztosítás, lélegeztetés eszközei
+## – intubációs felszerelés: laringoszkóp, tubusok – teljes sorozat – összekötővel,
 
-## – Intubatios felszerelés (laryngoscop, tubusok összekötővel)
+## – PEEP szelep, bordástömlő,
 
-## – Magill-fogó
+## – Magill-fogó,
 
-## 3.1.3. Keringéstámogatás
+## – motoros szívó.
 
-## – Defibrillátor-monitor (aszinkron üzemmódú) hiányában defibrillátor és EKG (graph)
+## 3.1.3. Keringéstámogatás:
 
-## – Bébi táska (bébi ballon, bébi laryngoscop, tubusok);
+## – Legalább aszinkron üzemmódú defibrillátor-monitor, ennek hiányában defibrillátor és EKG,
 
-## 3.1.4. Betegellátás, ápolás, fertőzés elleni védelem eszközei
+## – Transztorakális pacemaker, lehet defibrillátor részegysége is,
 
-## – Gyomormosó felszerelés
+## – Bébi táska: csecsemő- és gyermek ballon, laringoszkóp, tubus sorozat,
 
-## – Nitralginpalack, reduktorral és önadagoló szelepes inhalátorral
+## – Intraosszeális kanülálás eszközei,
 
-## – Szike
+## – Perfúzor, hosszabbító csővel, infúziós csap, 50 ml-es fecskendő.
 
-## 3.1.5. Gyógyszerek, infúziók
+## 3.1.4. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
-## – Izotóniás konyhasóoldat infúzió
+## – Gyomormosó felszerelés,
 
-## – Izotóniás anelektrolit (dextróz)-infúzió
+## – Egyszer használatos mellkascsövező szett,
 
-## – Kolloid plazmapótszer; hypertoniás-hyperonkotikus oldat
+## – Szike, csipesz, olló.
 
-## – Major analgeticum
+## 3.1.5. Gyógyszerek, infúziók:
 
-## – Opiátantagonista
+## – Kábító fájdalomcsillapító (morfin származék),
 
-## – További sympathomimeticumok (dobutamin)
+## – Kábító fájdalomcsillapító ellenszere (naloxon),
 
-## – Sedativumok
+## – Ketamin,
 
-## – Diureticum
+## – Nem kábító hatású fájdalomcsillapító,
 
-## – Antiarrhythmicumok (adenosin, amiodaron, procainamid)
+## – dobutamin, dopamin hatóanyag tartalmú szimpatikus idegrendszert izgató hatású szerek,
 
-## – Corticosteroid
+## – Nyugtatók,
 
-## – Antihistaminok
+## – Vízhajtók,
 
-## – Glucosum 40%
+## – Szívritmuszavarok gyógyszerei: adenosin, amiodaron, verpamil, lidocain, béta-blokkoló,
 
-## – Natrium-hydrogencarbonat injectio vagy infusio
+## – Infúzióban adható nitroglicerin,
 
-## – Antihypertensivum
+## – Szteroid hatású gyógyszerek,
 
-## – Bronchospasmolyticum
+## – Antihisztamin,
 
-## – Uterotonicum
+## – Nátrium-hidrogénkarbonát,
 
-## – Véralvadás-csökkentők (aspirin, clopidogrel, heparin)
+## – Vérnyomás csökkentő szerek,
 
-## 4. Rohamkocsi: az I/A) 6. pontban meghatározott rohamkocsira beosztható orvossal kivonuló, többletfelszereléssel ellátott esetkocsi.
+## – Hörgtágítók,
 
-## A betegtérben a hordágyat úgy kell elhelyezni, hogy a beteg mindkét oldalról és a fejrész felől is hozzáférhető legyen (ergonómiai tér: minimum 450 mm).
+## – Görcsgátló szerek,
+
+## – Szorongás-, feszültségoldó szerek,
+
+## – Nagydózisú atropin (min. 100 mg),
+
+## – Méhizomzat összehúzódást serkentő szerek,
+
+## – Véralvadásgátló szerek: Na-heparin és clopidogrel,
+
+## – Hányás és hányinger csillapító szerek,
+
+## – Végbélen át adható láz- és fájdalomcsillapító,
+
+## – Calcium, magnesium,
+
+## – 5%-os cukor infúzió,
+
+## – Plazma pótszer, hipertóniás-hiperonkotikus plazmaexpander.
+
+## 3.1.6. Gyomormosó táska:
+
+## – Bois szonda (vastag és vékony),
+
+## – Összekötő (átlátszó),
+
+## – Hosszabbító cső,
+
+## – Tölcsér,
+
+## – Adagoló edény,
+
+## – Méreganyagokat megkötő szer (orvosi szén),
+
+## – Hashajtó: magnézium szulfát.
+
+## 4. Rohamkocsi feltételei:
+
+## – az I. 9. pontban meghatározott rohamkocsira beosztható orvos,
+
+## – egészségügyi többletfelszereléssel ellátott esetkocsi.
 
 ## 4.1. Rohamkocsi egészségügyi többletfelszerelése:
 
-## 4.1.1. Diagnosztikus és betegellenőrző eszközök, keringés támogatás
+## 4.1.1. Diagnosztikus és betegellenőrző eszközök, keringés-támogatás:
 
-## – Szinkron és aszinkron üzemmódban használható defibrillátor, őrző monitorral (az esetkocsi defibrillátora helyett)
+## – Szinkron és aszinkron üzemmódban használható defibrillátor, őrző monitorral (az esetkocsi defibrillátora helyett),
 
-## – Kapnográf
+## – Maghőmérséklet mérésére alkalmas hőmérő (timpanikus vagy a monitor részeként),
 
-## – Pacemaker (transthoracalis és endocavitalis stimulálás lehetőségével – lehet a defibrillátor részegysége is)
+## – Kapnográf,
 
-## 4.1.2. Légútbiztosítás, lélegeztetés eszközei
+## – Pacemaker (endocavitális stimulálás lehetőségével – lehet a defibrillátor részegysége is).
 
-## – Respirátor
+## 4.1.2. Légútbiztosítás, lélegeztetés eszközei:
 
-## 4.1.3. Betegellátás, ápolás, fertőzés elleni védelem eszközei
+## – Hordozható lélegeztetőgép (speciális lélegeztetési módokkal).
 
-## – Centralis vénapunctióhoz szükséges eszközök,
+## 4.1.3. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
-## – Mellkasdrén
+## – Centrális vénabiztosításhoz szükséges eszközök,
 
-## – Kissebészeti tálca
+## – Kissebészeti tálca.
 
-## 4.1.4. Gyógyszerek
+## 4.1.4. Gyógyszerek:
 
-## – Többlet analgetikum, szedatívum, narcoticum
+## – Elaltató szerek,
 
-## – Thrombolyticum
+## – Trombolitikum.
 
-## 5. Speciális rohamkocsi (MICU–Mobil Intensive Care Unit): intenzív őrzést és ellátást igénylő betegek gyógyító intézetek közötti diagnosztikus vagy definitív ellátás céljából történő szállításra alkalmas rohamkocsi, az I/A) 8. pontban meghatározott személyi feltételekkel.
+## 5. Speciális rohamkocsi feltételei:
 
-## 5.1. A MICU többletfelszerelése:
+## – az I. 11. pontban meghatározott személyi feltételek,
 
-## 5.1.1. Diagnosztikus és betegellenőrző eszközök, keringéstámogatás
+## – intenzív őrzést és ellátást igénylő betegek gyógyító intézetek közötti diagnosztikus vagy definitív ellátás céljából történő szállítására alkalmas rohamkocsi.
 
-## – Vérnyomás invazív monitorizálására is alkalmas, többfunkciós monitor
+## 5.1. A speciális rohamkocsi többletfelszerelése a rohamkocsihoz képest:
 
-## – Fecskendős pumpa (legalább 3 db)
+## 5.1.1. Diagnosztikus és betegellenőrző eszközök, keringéstámogatás:
 
-## – Volumetrikus pumpa (legalább 1 db)
+## – vérnyomás invazív monitorizálására is alkalmas, többfunkciós monitor,
 
-## – Kapnográf
+## – legalább 3 db perfúzor,
 
-## 5.1.2. Légútbiztosítás, lélegeztetés eszközei
+## – legalább 1 db volumetrikus pumpa.
 
-## – Transzport respirátor
+## 5.1.2. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
-## 5.1.3. Betegellátás, ápolás, fertőzés elleni védelem eszközei
+## – Invazív beavatkozásokhoz szükséges felszerelések: artéria punkció.
 
-## – Invazív beavatkozásokhoz szükséges felszerelések (artéria punkció, invazív pacemaker, mellkasi drenázs)
+## 5.1.3. Gyógyszerek:
 
-## – Helyszíni narkózis eszközei
+## – Többlet altatószer, izomrelaxáns, inotróp és vazoaktív szerek.
 
-## 5.1.4. Gyógyszerek
+## 6. Neonatológiai mentőgépkocsi feltételei:
 
-## – többlet analgetikum, szedatívum, narkotikum, inotrop és vazoaktív szerek
+## – az I. 6.3. pont szerinti gyermek intenzív terápiás szakápoló és mentőgépkocsi-vezető,
 
-## 6. Neonatológiai mentőgépkocsi: a I/A) 3. pontban meghatározott gyermek intenzív terápiás szakápolóval és mentőgépkocsi-vezetővel kivonuló, rádiótelefonnal és megkülönböztető jelzéssel felszerelt, valamint legalább egy inkubátor szállítására beépített hordágytartóval ellátott mentőgépkocsi, amely az alábbiak szerint felszerelt
+## – egészségügyi alapfelszerelés,
+
+## – az OMSZ rádióhálózatában üzemelő rádió vagy rádiótelefon,
+
+## – megkülönböztető jelzés,
+
+## – legalább egy fekvőbeteg szállítására beépített hordágytartóval ellátott, megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal felszerelt gépkocsi, amely megfelel a B típusú közúti mentőjárműre [MSZ EN 1789:2007 szabvány] vonatkozó előírásoknak.
 
 ## 6.1. A neonatológiai mentőgépkocsi felszerelése:
 
-## – Bútorzat
+## – Hűtő,
 
-## – Hűtő
+## – Intenzív szállító inkubátor,
 
-## – Intenzív szállító inkubátor
+## – Hidraulikus rezgéscsillapítóval ellátott hordtálca,
 
-## – Hidraulikus rezgéscsillapítóval ellátott hordtálca
+## – Kétkörös – sűrített levegő és oxigén – gázellátó rendszer palackokkal,
 
-## – Kétkörös – sűrített levegő és oxigén – gázellátó rendszer palackokkal
+## – Álló helyzetben történő fűtésre is alkalmas fűtő radiátor,
 
-## – Álló helyzetben történő fűtésre is alkalmas fűtő radiátor
+## – Tartalék áramforrás,
 
-## – Tartalék áramforrás
+## – Belső-külső áramfelvételi lehetőség álló helyzetben,
 
-## – Belső – külső áramfelvételi lehetőség álló helyzetben
+## – Klímaberendezés,
 
-## – Klímaberendezés
+## – Megkülönböztető jelzések,
 
-## – Megkülönböztető jelzések
+## – Kommunikációs eszközök: mobiltelefon és URH,
 
-## – Kommunikációs eszközök (mobiltelefon és URH)
+## – Újszülött reanimációs felszerelés,
 
-## – Újszülött reanimációs felszerelés
+## – Artéria és véna umbilikálisz kanüláló szett,
 
-## – Artéria és vena umbilicalis kanüláló szett
-
-## – Gyógyszerek
+## – Gyógyszerek.
 
 ## 6.2. Az intenzív szállító inkubátor és tartozékai:
 
-## – Respirátor és légzőkörök
+## – Lélegeztetőgép és légzőkörök,
 
-## – Szívó
+## – Szívó,
 
-## – Többfunkciós betegőrző monitor (EKG, vérnyomásmérés, SatO2, NIBP, hőmérséklet, szenzorok, elektródák)
+## – Többfunkciós betegőrző monitor: EKG, vérnyomásmérés, SatO2, NIBP, hőmérséklet, szenzorok, elektródák,
 
-## – Infúziós pumpa
+## – Infúziós pumpa,
 
-## – Vércukormérő
+## – Vércukorszint mérő,
 
-## – Oxigén palack, sűrített levegő palack
+## – Oxigén palack, sűrített levegő palack,
 
-## – Vákuum matrac
+## – Vákummatrac.
 
 ## 6.3. Újszülött reanimációs felszerelés:
 
-## – Fonendoszkóp
+## – Fonendoszkóp,
 
-## – Öntelődő ballon rezervoárral, PEEP szeleppel
+## – Öntelődő ballon rezervoárral, PEEP szeleppel,
 
-## – Maszksorozat (koraszülött – újszülött 6 kg-ig)
+## – Maszksorozat (koraszülött – újszülött 6 kg-ig),
 
-## – Oropharingeális tubussorozat (Mayo pipa)
+## – Száj-garat tubussorozat (Mayo pipa),
 
-## – Újszülött laringoszkóp (00, 0,1-es lapocokkal)
+## – Újszülött laringoszkóp (00, 0, 1-es lapocokkal),
 
-## – Magill-fogó, tubusvezető
+## – Magill-fogó, tubusvezető,
 
-## – Endotracheális tubussorozat (2,0–4,5 ID mm)
+## – Endotraheális tubussorozat (2,0–4,5 mm ID),
 
-## – Szívószondák (4–12 Fr)
+## – Szívókatéterek (4–12 Fr),
 
-## – Meconium adapter
+## – Mekónium adapter,
 
-## – Mellkasi draináló szett
+## – Mellkasi drenáló szett,
 
-## – Gyomorszonda
+## – Gyomorszonda,
 
-## – Hólyagkatéterező szonda
+## – Hólyag katéter,
 
-## – Egyszerhasználatos tűk, branülék, perifériás kanülök, fecskendők
+## – Egyszer használatos tűk, perifériás kanülök, fecskendők,
 
-## – Infúziós szerelékek
+## – Infúziós szerelékek,
 
-## – Köldökkanülök
+## – Köldök kanülök,
 
-## – Köldökkanüláló szett
+## – Köldök kanüláló szett,
 
-## – Bőrfertőtlenítő
+## – Bőrfertőtlenítő,
 
-## – Steril kesztyű, vizsgáló kesztyű
+## – Steril kesztyű, vizsgáló kesztyű,
 
-## – Olló
+## – Olló.
 
-## 6.4. Az arteria és vena umbilicalis kanüláló szett:
+## 6.4. Az artéria és véna umbilikálisz kanüláló szett:
 
-## – Kanülök (3,5 és 5 Ch méretben)
+## – Kanülök (3,5 és 5 Ch méretben),
 
-## – Csipeszek (4 db szokványos méretű, illetve 2 db finom csipesz, anatómiai és sebészi)
+## – Csipeszek (4 db szokványos méretű, illetve 2 db finom csipesz, anatómiai és sebészi),
 
-## – Gombos szonda
+## – Gombos szonda,
 
-## – Sebészi tűfogó
+## – Sebészi tűfogó,
 
-## – Ollók (egy finom, egy szokványos méretű)
+## – Ollók (egy finom, egy szokványos méretű),
 
-## – Érlefogók (2 db kisméretű)
+## – Érlefogók (2 db kisméretű),
 
-## – Egyszerhasználatos varrótűk (fel nem szívódó sebészi varrófonallal egybeszerelve a kanül rögzítéséhez)
+## – Egyszer használatos varrótűk (fel nem szívódó sebészi varrófonallal egybeszerelve a kanül rögzítéséhez),
 
-## – Kötszerek, törlők
+## – Kötszerek, törlők.
 
 ## 6.5. Gyógyszerek és infúziók az alábbi feladatok ellátásához:
 
-## – Felületaktív anyag (Surfactant)
+## – Felületaktív anyag (surfactant),
 
-## – Keringés támogatás (dopamin, dobutamin)
+## – Keringés támogatás (dopamin, dobutamin),
 
-## – Fájdalomcsillapítás (morfin származékok)
+## – Fájdalomcsillapítás (morfin származékok),
 
-## – Szedálás (midazolam)
+## – Szedatív hatású szer (midazolam),
 
-## – Görcsoldás (fenobarbital)
+## – Görcsgátló hatású szer (fenobarbital),
 
-## – Izomlazítás (curare származékok)
+## – Izomlazítás (kuráre származékok),
 
-## – Elektrolit, glukoz és folyadékpótlásra infúziók
+## – Elektrolit-, glukóz- és folyadékpótlásra infúziók,
 
-## – Sav-bázis egyensúly biztosítása (natrium-hydrocarbonat)
+## – Sav-bázis egyensúly biztosítása (nátrium-hidrogenkarbonát),
 
-## – Desztillált víz, fiziológiás só
+## – Prosztaglandin (alprostadil),
 
-## – Kötszerek, törlők, tapaszok
+## – Desztillált víz, fiziológiás só,
 
-## 7. Neonatológiai rohamkocsi: az I/A) 9. pontja szerinti személyi feltétellel kivonuló neonatológiai mentőgépkocsi.
+## – Kötszerek, törlők, tapaszok.
 
-## 8. Gyermekmentő-rohamkocsi: többletfelszereléssel ellátott, gyermekellátásra alkalmas esetkocsi, az I/A) 10. pontban meghatározott személyi feltétellel.
+## 6.6. Felnőttellátás eszközei
+
+## – Rögzítőeszközök (pl. háromszögletű kendő, nyakrögzítő készlet),
+
+## – Steril és nem steril kötszerek,
+
+## – Vérnyomásmérő és fonendoszkóp,
+
+## – Oxigén orrszonda vagy arcmaszk,
+
+## – Felnőtt lélegeztető ballon és maszk rezervoárral, oxigénvezeték a lélegeztető ballonhoz,
+
+## – Leszívó katéterek,
+
+## – Száj-garat tubus,
+
+## – Hullatakaró,
+
+## – Nem kábító fájdalomcsillapító,
+
+## – Simaizom görcsoldó,
+
+## – Acetilszalicilsav tartalmú véralvadás gátló szer,
+
+## – Rövid hatástartamú ACE-gátló hatóanyagot tartalmazó vérnyomáscsökkentő,
+
+## – Nyelv alá vagy szájnyálkahártyára adható nitroglicerin,
+
+## – Béta-2 receptor agonista aeroszol,
+
+## – az 1.1.7. pont szerinti életmentő eszközöket és gyógyszereket tartalmazó táska.
+
+## 7. Neonatológiai rohamkocsi feltételei:
+
+## – az I. 12. pont szerinti személyi feltétel,
+
+## – neonatológiai mentőgépkocsi.
+
+## 7.1. Felnőttellátás plusz felszerelése:
+
+## – Vízhajtó,
+
+## – Szívritmuszavarok gyógyszerei: adenosin, amiodaron, béta-blokkoló,
+
+## – Infúzióban adható nitroglicerin,
+
+## – Szteroid hatású gyógyszerek,
+
+## – Antihisztamin,
+
+## – Vérnyomáscsökkentő szerek,
+
+## – Hörgtágítók,
+
+## – Görcsgátló szerek,
+
+## – Szorongás-, feszültségoldó szerek,
+
+## – Méhizomzat összehúzódását serkentő szerek,
+
+## – Véralvadás gátló szerek: Na-heparin, clopidogrel.
+
+## 8. Gyermekmentő-rohamkocsi feltételei:
+
+## – az I. 13. pontban meghatározott személyi feltétel,
+
+## – többletfelszereléssel ellátott, gyermekellátásra alkalmas esetkocsi.
 
 ## 8.1. Gyermekmentő-rohamkocsi többletfelszerelése:
 
-## – Csecsemők, gyermekek és felnőttek lélegeztetésére alkalmas transport respirátor, kis- és nagyméretű steril légzőkörrel
+## – Csecsemők, gyermekek és felnőttek lélegeztetésére alkalmas hordozható lélegeztetőgép, kis- és nagyméretű steril légzőkörrel,
 
-## – Pulzus, vérnyomás, saturáció, légzésszám, kilégzésvégi szén-dioxid folyamatos monitorozására alkalmas monitor gyermekekre illeszthető érzékelőkkel több méretben (defibrillátor részegysége is lehet)
+## – Pulzus, vérnyomás, szaturáció, légzésszám, kilégzésvégi szén-dioxid folyamatos monitorozására alkalmas monitor, gyermekbeteg ellátására alkalmas érzékelőkkel, minden méretben (defibrillátor részegysége is lehet),
 
-## – EKG-defibrillátor gyermeklapáttal, külső és belső gyermek pacemakerrel
+## – EKG-defibrillátor gyermeklapáttal, külső és belső gyermek pacemakerrel,
 
-## – Párásító és gyógyszerporlasztó
+## – Csecsemők és gyermekek lélegeztetésére alkalmas hordozható lélegeztetőgép,
 
-## – Gyermek gerincágy, gyermek vákuummatrac
+## – Ultrahangos párásító és gyógyszerporlasztó,
 
-## – Gyermek biztonsági autóülés
+## – Gyermek gerincágy, gyermek vákuummatrac,
 
-## – Infúziós és volumetrikus pumpa (vagy cseppszámláló)
+## – Csecsemők és gyermekek biztonságos szállításához szükséges eszköz,
 
-## – Speciális, steril égési kötszer (water jel)
+## – Perfúzor és volumetrikus pumpa vagy cseppszámláló,
 
-## – Mellkasdraináló szett több méretben
+## – Kézi leszívó,
 
-## – Intraosseális tű
+## – Egyszer használatos eszközök minden méretben: leszívó katéter, gyomorszonda, perifériás vénás kanül, endotraheális tubus, laringeális maszk, mellkas drén,
 
-## – Kézi leszívó
+## – Laringoszkóp lapoc, minden csecsemő és gyermek méretben,
 
-## – Egyszerhasználatos eszközök minden méretben
+## – Lélegeztető arcmaszkok, száj-garat tubusok,
 
-## – Laryngoscop lapoc, maszkok, pipák minden méretben
+## – Öntelődő ballonok minden méretben,
 
-## – Fülbe helyezhető hőmérő
+## – Fülbe helyezhető hőmérő,
 
-## – Melegítő takaró
+## – Melegítő takaró.
 
 ## 8.2. Többletgyógyszerek
 
-## A gyermekmentő-rohamkocsi többletgyógyszerei az illetékes szakmai vezető főorvos meghatározása alapján.
+## – Rövid és hosszú hatástartamú nem depolarizáló izomlazító,
 
-## 9. Légi mentőjárművek (mentőhelikopter és mentőrepülőgép): a legalább esetkocsi szintű földi mentőjárművekre meghatározott, a szakkíséret igényének megfelelő egészségügyi személyzettel (neonatológiai szállítás esetén neonatológiai szakszemélyzettel) és felszereléssel (kivéve nitrogénoxidul és oxigén 50-50 százalékos keverékét tartalmazó palack és inhalátor), a légiközlekedéssel kapcsolatos jogszabályoknak megfelelő szervezeti háttérrel, pilótával (pilótákkal) és műszaki személyzettel, valamint a légiközlekedésről szóló hatályos jogszabályi rendelkezésekben előírt, a légijármű használatára és a légiközlekedésben való részvételre vonatkozó feltételekkel rendelkező légijármű.
+## – Nalbuphin,
 
-## 10. Mentőorvosi gépkocsi: legalább esetkocsi szintű egészségügyi felszereléssel (kivéve hordágy, nitrogénoxidul és oxigén 50-50 százalékos keverékét tartalmazó palack és inhalátor) és többletfelszereléssel, valamint az I/A) 12. pontban meghatározott személyi feltételekkel kivonuló mentőgépjármű.
+## – Racem epinefrin aeroszolos bevitelhez,
 
-## 10.1. Mentőorvosi gépkocsi többletfelszerelése
+## – Vénás barbiturát származék,
 
-## 10.1.1. Diagnosztikus és betegellenőrző eszközök, keringéstámogatás
+## – Clonazepam hatóanyagú injekció,
 
-## – Maghőmérseklet mérésére alkalmas hőmérő (tympanicus, vagy a monitor részeként)
+## – Flumazenil hatóanyagú injekció,
 
-## – Kapnográf (monitor részeként)
+## – Noradrenalin hatóanyagú injekció
 
-## – Infúziós vagy volumetrikus pumpa
+## – H2 receptor gátló injekció,
 
-## 10.1.2. Légútbiztosítás, lélegeztetés eszközei
+## – Hemokultúrás mintavételi üvegek,
 
-## – Transzport respirátor
+## – Ceftriaxon hatóanyagú injekció.
 
-## – Oxigén reservoir a lélegeztető ballonhoz
+## 9. Gyermek-mentőorvosi gépkocsi feltételei:
 
-## 10.1.3. Gyógyszerek
+## – az I. 13. pontban meghatározott személyi feltételek,
 
-## – Többlet analgetikus, szedatívum, narkotikum
+## – a gyermekmentő-rohamkocsi felszereléssel – ide nem értve a hordágyat – ellátott mentőgépjármű.
 
-## – Többlet infúzió tömeges balesetek felszámolásához
+## 10. Mentőhelikopter, mentőrepülőgép feltételei:
 
-## 10.1.4. Egyéni védőfelszerelés
+## – érvényes légialkalmassági bizonyítvánnyal rendelkező légijármű,
 
-## – Sisak
+## – üzemeltetője üzemben tartási engedélyében az egészségügyi mentőrepülés (HEMS) szerepel,
 
-## – Kesztyű
+## – legalább rohamkocsi szintű egészségügyi felszerelés, kivéve:
 
-## 11. Mentő-motorkerékpár: megkülönböztetett jelzéssel ellátott, mentésre alkalmas műszaki paraméterekkel és esetkocsi szintű egészségügyi felszereléssel (kivéve hordágy, nitrogénoxidul és oxigén 50-50 százalékos keverékét tartalmazó palack és inhalátor, gyomormosó felszerelés), valamint az I/A) 13. pontja szerinti személyi feltétellel kivonuló mentőjármű.
+## = több, mint 7 liter összes térfogatú oxigénpalack
 
-2. számú melléklet az 5/2006. (II. 7.) EüM rendelethez
+## = ülőkocsi
+
+## = vákummatrac (helyette lapáthordágy használható)
+
+## = mellkascsövező szett (helyette mellkasi detenzionálás eszközei használhatók)
+
+## = reflexkalapács
+
+## = égési kötszer
+
+## = Sangstaken-Blakemore szonda
+
+## = rektális szteroid
+
+## = aktív szén.
+
+## 11. Mentő-moped feltételei:
+
+## – az I. 18. pont szerinti személyi feltétel,
+
+## – megkülönböztető jelzés nélküli,
+
+## – kiemelt mentőgépkocsi (KIM) szintű egészségügyi felszereléssel (kivéve hordágy, lapáthordágy, hordszék, rögzítő sínek, vákummatrac, oxigénpalack, lepedők, takarók, ágytál, hánytál, vizeletgyűjtő kacsa) felszerelt.
+
+## 12. Mentő-motorkerékpár feltételei:
+
+## – megkülönböztetett jelzéssel ellátott,
+
+## – mentésre alkalmas műszaki paraméterek és esetkocsi szintű egészségügyi felszerelés (kivéve hordágy, lapáthordágy, ülőkocsi, vákummatrac, oxigénpalack, gyomormosó felszerelés, rögzítő).
+
+## 13. Mentőorvosi gépkocsi feltételei:
+
+## – az I. 15. pont szerinti személyi feltételek,
+
+## – mentőápolói képesítésű mentőgépkocsi-vezető,
+
+## – legalább rohamkocsi szintű egészségügyi felszerelés (kivéve hordágy, ülőkocsi) és többletfelszerelés.
+
+## 13.1. Mentőorvosi gépkocsi többletfelszerelése:
+
+## 13.1.1. Többlet infúzió tömeges balesetek felszámolásához.
+
+## 13.1.2. Egyéni védőfelszerelés:
+
+## – Sisak,
+
+## – Kesztyű.
+
+## 14. Mentőtiszti gépkocsi feltételei:
+
+## – az I. 16. pont szerinti személyi feltételek,
+
+## – mentőápolói képesítésű mentőgépkocsi-vezető,
+
+## – legalább esetkocsi szintű egészségügyi felszerelés (kivéve hordágy, ülőkocsi) és többletfelszerelés.
+
+## 15. Tömeges Baleseti Egység feltételei:
+
+## – legalább 5 fő ellátására alkalmas fektetősátor, és
+
+## – legalább 50 fő ellátására elegendő gyógyszer és kötszer szállítására alkalmas, informatikai és kommunikációs támogatással rendelkező mobil kárhelyparancsnoki munkahely.
+
+## 16. Sürgősségi mentőhajó feltételei:
+
+## – merev alj,
+
+## – rugalmas oldalfal,
+
+## – legalább 9 m hosszúságú, fűthető kabin,
+
+## – legalább két hajtóműves motoroshajó, mely motorokkal legalább 60 km/h sebességgel képes haladni, továbbá amelynek típus specifikációiban, vagy hajólevelében és/vagy a hatóság által kiállított üzemeltetési engedélyében a „mentőhajó” jogosítás szerepel.
+
+## 16.1. A sürgősségi mentőhajó befogadóképessége a Hajózási Hatóság által előírt kötelező személyzeten kívül legalább 5 fő.
+
+## 16.2. A sürgősségi mentőhajónak rendelkeznie kell olyan navigációs berendezésekkel, melyek képessé teszik szélsőséges időjárási és látási viszonyok közötti közlekedésre is.
+
+## 16.3. A sürgősségi mentőhajó utasterében minimum egy, speciálisan a vízimentéshez kialakított hordágynak kell lennie.
+
+## 16.4. A sürgősségi mentőhajó orvosi felszerelése megegyezik a 3. pont szerinti esetkocsi felszerelésével, kiegészítve a vízből mentéshez szükséges speciális eszközökkel: speciális vízi hordágy (aquaboard), mentőheveder (rescue belt), speciális vízi kiemelő eszköz (Personnel Retrieval Strap), és a személyzet egyéni védőfelszerelései (kihűlés elleni védőeszköz, fejvédő, automata mentőmellény, egyéb).
+
+## 17. Transzplantációs mentő-gépkocsi feltételei:
+
+## – megkülönböztető jelzés,
+
+## – alapvető életmentő felszerelés,
+
+## – az Eütv. 94. § (5) bekezdés a) és b) pontja szerinti mentéshez a tevékenységet végző orvos, illetve munkacsoport szállítására, valamint az életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő szerv sürgős szállítására alkalmas gépjármű.
+
+2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^30]
 
 ## Rendezvények egészségügyi biztosításának formái, szintjei és módja
 
-1. Gyalogőrség
+1. Rendezvénybiztosítás:
 
-1.1. Az az egészségügyi ellátási forma, amelynél mentőgépjármű igénybevétele nélkül történik a rendezvény részvevőinek egészségügyi biztosítása.
+1.1. A rendezvénybiztosítás az 1. melléklet II/B. pontja szerinti mentőegységekkel – a transzplantációs mentőgépkocsi kivételével – és oxiológiai ambulanciával látható el.
 
-1.2. Az egészségügyi ellátás gyalogőrséggel csak épületben vagy kis területre korlátozott szabadtéren szervezett rendezvényen biztosítható, amennyiben a rendezvényen résztvevők száma 500–1000 fő között van, kivéve a 2.6.1. alpont szerinti esetet. Ezen létszám feletti résztvevő esetén mozgóőrség biztosítása szükséges.
+1.2. Az oxiológiai ambulancia a rendezvényen egészségügyi ellátásra szoruló, legalább 5 személy vizsgálatára és megfigyelésére alkalmas, szükség esetén halottak elkülönítésére szolgáló egészségügyi ellátó egység, ahol a folyamatos ivóvíz- és áramellátás, világítás, valamint vezetékes vagy vezeték nélküli hírközlő eszközök biztosítottak.
 
-1.3. Az ellátást mentőápoló, mentőtiszt, (mentő)orvos, oxyológus szakorvos, vagy ezek közül több személy együttesen végzi.
+1.2.1. Az oxiológiai ambulancia személyi és tárgyi feltételei:
 
-1.4. A rendezvény helyszínén biztosítani kell betegvizsgálatra alkalmas (állandó vagy ideiglenes) helyiséget fektetési lehetőséggel. Gondoskodni kell vezetékes vagy vezeték nélküli hírközlő eszközről, továbbá a szakelsősegély biztosításához szükséges felszerelésről, amelynek összetételét az OMSZ szakmai útmutatóban határozza meg.
+1.2.1.1. Személyi feltétel:
 
-2. Mozgóőrség
+– vezetője: oxiológus vagy oxiológus és sürgősségi orvostan szakorvos,
 
-2.1. Az az egészségügyi ellátási forma, amelynél a mentési készenlét végzése e rendelet szerint meghatározott tárgyi és személyi feltételekkel, továbbá meghatározott helyszínen és ideig történik. Mentési készenlét alatt értendő a várható oxyológiai ellátás helyszínén az orvosi, a mentőtiszti, illetve a mentőápolói szintű ellátás biztosítása.
+– személyi állománya : legalább 2 fő orvos vagy mentőtiszt, 2 fő mentőápoló.
 
-2.2. Mozgóőrséget mentési tevékenységet végző szervezet láthat el.
+1.2.1.2. Tárgyi feltételek:
 
-2.3. A mozgóőrségen a 2.4. pont a)–h) alpontjaiban felsorolt mentőgépjárművek közül a várható oxyológiai ellátás szintjének megfelelőt kell biztosítani, figyelembe véve a 2.6. pontban foglaltakat.
+Megegyezik a legalább 5 fő ellátásához szükséges mértékben kibővített gyógyszer- és kötszerkészletű rohamkocsi felszereléssel, a hordágy, hordszék, lapáthordágy, gyermek gerincágy (board), gyermek méretű végtagrögzítő sínkészlet, vakuummatrac kivételével, valamint többletfelszereléssel.
 
-2.4. A mozgóőrség által végzett egészségügyi biztosítás ellátható:
+1.2.1.2.1. Többletfelszerelés:
 
-a) mentőgépkocsival,
+– legalább 2 db vizsgálóágy,
 
-b) kiemelt mentőgépkocsival,
+– legalább 2 db vizsgálólámpa,
 
-c) esetkocsival,
+– legalább 3 db fektetőágy,
 
-d) rohamkocsival,
+– legalább további 4 db, minimum 7 l oxigénpalack,
 
-e) gyermekmentő-rohamkocsival,
+– legalább 4 db pulzoximéter,
 
-f) légi mentőjárművel,
+– szinkron és aszinkron üzemmódban használható defibrillátor, őrző monitorral legalább további 1db.
 
-g) mentőorvosi gépkocsival,
+1.3. A rendezvénybiztosítást végző szolgáltató az 1.5. és 1.6. pontban foglaltak betartásán túl a rendezvénybiztosítás ellátására további mentőjárműveket is bevonhat.
 
-h) mentő-motorkerékpárral, illetve
+1.4. A rendezvénybiztosítás vezetője rádió-, illetve telefonkapcsolatot tart a területileg illetékes OMSZ Irányító Csoporttal.
 
-i) oxyológiai ambulanciával.
+1.5. A rendezvény szervezője a helyszín biztosításában résztvevőkkel történő folyamatos kapcsolattartás érdekében – a szervezők közül – felelős vezetőt jelöl ki.
 
-Az oxyológiai ambulancia:
+1.6. A rendezvény biztosításának szintjei:
 
-ia) a rendezvényen egészségügyi ellátásra szoruló személyek vizsgálatára és megfigyelésére alkalmas, szükség esetén a halott(ak) elkülönítését szolgáló helyiség(ek)ből áll,
+1.6.1. Kisebb létszámú, 1000 fő alatti rendezvény esetén rendezvénybiztosítás akkor szükséges, ha a rendezvényt kifejezetten betegek vagy időskorúak számára szervezik, illetve jogszabály az esemény, sportesemény jellegére tekintettel azt kötelezően előírja.
 
-ib) a felszereltsége az oxyológiai ellátáshoz szükséges eszközöket és műszereket tartalmazza, ideértve a higiénés feltételek biztosítását is,
+1.6.2. 1000–5000 fő részvétele esetén legalább egy esetkocsi szükséges, vízi, vízen történő sport rendezvény esetén sürgősségi mentőhajó szükséges.
 
-ic) vezetője oxyológus szakorvos vagy gyakorlott mentőorvos, személyi állománya orvos(ok)ból, mentőtiszt(ek)ből, mentőápolókból és kisegítő személyzetből áll.
+1.6.3. 5001–10 000 fő részvétele esetén legalább egy esetkocsi és egy mentőgépkocsi szükséges.
 
-2.5. A mozgóőrség vezető orvosa URH-, illetve telefonkapcsolatot tart a területileg illetékes Irányító Csoporttal.
+1.6.4. 10 001–50 000 fő részvétele esetén legalább egy rohamkocsi, egy esetkocsi és egy mentőgépkocsi szükséges.
 
-2.6. A mozgóőrség egészségügyi biztosításának szintjei:
+1.6.5. 50 001–200 000 fő közötti létszámú rendezvény esetén, minden megkezdett 50 000 főnként további egy-egy eset- és egy-egy mentőgépkocsi, valamint 100 000 főnként további egy rohamkocsi szükséges.
 
-2.6.1. Kisebb létszámú (1000 fő alatti) rendezvény esetén mozgóőrség akkor szükséges, ha a rendezvényt kifejezetten betegek vagy időskorúak számára szervezik, illetve külön jogszabály a (sport)esemény jellegére tekintettel azt kötelezően előírja.
+1.6.6. 200 000 fő feletti létszám esetén minden megkezdett 100 000 főnként további egy-egy roham- és egy-egy esetkocsi, valamint két mentőgépkocsi szükséges. Ebben az esetben az egyik rohamkocsi mentőorvosi gépkocsival helyettesíthető.
 
-2.6.2. 1001–5000 fő részvétele esetén legalább egy esetkocsi szükséges.
+1.6.7. 50 000 főt meghaladó rendezvény esetén oxiológiai ambulancia biztosítása szükséges.
 
-2.6.3. 5001–10 000 fő részvétele esetén legalább egy esetkocsi és egy mentőgépkocsi szükséges.
+1.6.8. Szabadtéri autómotorsport-rendezvény esetén – a fokozott veszélyforrásra figyelemmel – egy mentőhelikopter is szükséges, ha a rendezvény nagy területen zajlik, mentőgépkocsival nehezen bejárható és a pálya legtávolabbi pontja 10 percen belül, illetve az ellátó egészségügyi intézmény 20 percen belül földi mentőjárművel nem érhető el.
 
-2.6.4. 10 001–50 000 fő részvétele esetén legalább egy rohamkocsi, egy esetkocsi és egy mentőgépkocsi szükséges.
+1.6.9. 1000 fő feletti rendezvény biztosítása csak olyan mentőegységgel látható el, ahol a személyzet minden tagja 6 havi átlagban legalább havi 24 óra kivonuló szolgálatot teljesít, OMSZ által irányított mentőegység tagjaként.
 
-2.6.5.[^24] 50 000–200 000 fő közötti létszámú rendezvény esetén, minden megkezdett 50 000 főnként további egy-egy eset- és egy-egy mentőgépkocsi, valamint 100 000 főnként további egy rohamkocsi szükséges.
+2. Gyalogőrség
 
-2.6.6.[^25] 200 000 feletti létszám esetén minden megkezdett 100 000 főnként további egy-egy roham- és egy-egy esetkocsi, valamint két mentőgépkocsi szükséges. Ebben az esetben az egyik rohamkocsi mentőorvosi gépkocsival helyettesíthető.
+2.1. Az egészségügyi ellátás gyalogőrséggel csak épületben vagy kis területre korlátozott szabadtéren szervezett rendezvényen biztosítható, amennyiben a rendezvényen résztvevők száma 1001 főnél kevesebb. Ezen létszám felett az 1. pontban foglaltak szerinti rendezvénybiztosítás szükséges.
 
-2.6.7. 50 000 főt meghaladó rendezvény esetén oxyológiai ambulancia biztosítása szükséges.
+2.2. Az ellátást szakképzett mentőápoló, mentőtiszt, orvos, mentőorvos, vagy ezek közül több személy együttesen végzi.
 
-2.6.8.[^26]
+2.3. A rendezvény helyszínén biztosítani kell betegvizsgálatra alkalmas állandó vagy ideiglenes helyiséget fektetési lehetőséggel.
 
-2.6.9. Szabadtéri autómotorsport-rendezvény esetén – a fokozott veszélyforrásra figyelemmel – egy mentőhelikopter is szükséges, ha a rendezvény nagy területen zajlik, mentőgépkocsival nehezen bejárható és a pálya legtávolabbi pontja 10 percen belül, illetve az ellátó egészségügyi intézmény 20 percen belül földi mentőjárművel nem érhető el.
+Gondoskodni kell vezetékes vagy vezeték nélküli hírközlő eszközről, továbbá a szakelsősegély biztosításához szükséges felszerelésről.
 
-2.6.10.[^27] A rendezvény szervezője a helyszín biztosításában résztvevőkkel történő folyamatos kapcsolattartás érdekében – a szervezők közül – felelős vezetőt jelöl ki.
+2.4. A gyalogőrségi szakelsősegély kötelező felszerelése:
 
-3.[^28] Rendezvényen ellátott beteg elszállítása
+2.4.1. Gyalogőrségi mentőtáska:
 
-Amennyiben az 1–2. pontban foglaltak szerint ellátott beteg egészségi állapotának megfelelő ellátásra alkalmas, legközelebbi egészségügyi intézménybe szállítása válik szükségessé, akkor erről a rendezvény egészségügyi biztosítását végző szervezetnek kell gondoskodnia. Ennek hiányában, vagy ha a tervezett oxyológiai ellátás a rendezvényen elégtelennek bizonyul, az OMSZ igazolt többletköltségét az egészségügyi biztosítást végző szervezet köteles az OMSZ számára megtéríteni.
+A felszereléseket a gyalogőrséget ellátó személy a beavatkozási jogkörétől függően használhatja.
 
-[^19]: Az 1. számú melléklet I. része I/A. pontjának 6. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^20]: Az 1. számú melléklet I. része I/A. pontjának 8. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^21]: Az 1. számú melléklet I. része I/A. pontjának 12. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 1. számú melléklet I. része I/A. pontjának 13. alpontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^23]: Az 1. számú melléklet II. része II/B. pontjának bevezető szövegrésze a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 56. § (5) bekezdése szerint módosított szöveg.
-[^24]: A 2. számú melléklet 2.6.5. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^25]: A 2. számú melléklet 2.6.6. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^26]: A 2. számú melléklet 2.6.8. pontját a 42/2006. (XI. 30.) EüM rendelet 3. §-a hatályon kívül helyezte.
-[^27]: A 2. számú melléklet 2.6.10. pontja a 42/2006. (XI. 30.) EüM rendelet 2. §-ával megállapított szöveg.
-[^28]: A 2. számú melléklet 3. pontja a 61/2007. (XII. 29.) EüM rendelet 7. § (1) bekezdésével megállapított szöveg.
+2.4.1.1. A rögzítés és a sebellátás eszközei:
+
+2.4.1.1.1. Steril kötszerek: 5-5 db
+
+– 6x6 lap
+
+– 1/2 x 80 lap
+
+– 1/4 x 80 lap
+
+– gyorskötöző pólya.
+
+2.4.1.1.2. Nem steril kötszerek:
+
+– 5, 10, 15-ös pólya 5-5 db.
+
+2.4.1.1.3. Kéz- és bőrfertőtlenítő-szer.
+
+2.4.1.1.4. Háromszögletű kendő 2 db.
+
+2.4.1.2. Diagnosztikus és betegellenőrző eszközök:
+
+2.4.1.2.1. Vérnyomásmérő és fonendoszkóp,
+
+2.4.1.2.2. Lázmérő,
+
+2.4.1.2.3. Vércukorszint meghatározó készülék tesztcsíkkal,
+
+2.4.1.2.4. Reflex-kalapács,
+
+2.4.1.2.5. Pupilla-lámpa.
+
+2.4.1.3. Légútbiztosítás, lélegeztetés eszközei:
+
+2.4.1.3.1. Lélegeztető ballon és maszk,
+
+2.4.1.3.2. Leszívópumpa: taposó vagy egyéb hordozható szívó,
+
+2.4.1.3.3. Leszívó katéterek,
+
+2.4.1.3.4. Száj-garat tubus,
+
+2.4.1.3.5. Magill-fogó.
+
+2.4.1.4. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
+
+2.4.1.4.1. Egyszer használatos fecskendők, tűk, perifériás vénás kanülök,
+
+2.4.1.4.2. Infúziós szerelék,
+
+2.4.1.4.3. Kézi műszerek: olló, csipesz, érfogó, szike,
+
+2.4.1.4.4. Védőkesztyűk, orr-száj maszkok, műanyag védőszemüveg,
+
+2.4.1.4.5. Hulladékgyűjtő veszélyes hulladéknak,
+
+2.4.1.4.6. Hullatakaró.
+
+2.4.1.5. Gyógyszerek:
+
+2.4.1.5.1. Injekciók:
+
+– Nem kábító fájdalomcsillapító,
+
+– Simaizom görcsoldó,
+
+– 20%-os glukóz,
+
+– Inzulin antagonista: glucagon,
+
+– Szimpatikus idegrendszeri izgatók: adrenalin,
+
+– Kábító fájdalomcsillapító: morfin származék,
+
+– Kábító hatású fájdalomcsillapító elleni szer,
+
+– Ketamin,
+
+– Nyugtató,
+
+– Vízhajtó,
+
+– Infúzióban adható nitroglicerin,
+
+– Szteroid hatású gyógyszerek,
+
+– Antihisztamin,
+
+– Vérnyomás csökkentő szerek,
+
+– Hörgtágító szerek,
+
+– Görcsgátló szerek,
+
+– Szorongás-, feszültségoldó szerek,
+
+– Hányás, hányinger csillapító szerek.
+
+2.4.1.5.2. Infúzió:
+
+– Izotóniás elektrolit oldat.
+
+2.4.1.5.3. Szájon át adható készítmények:
+
+– Méreganyagokat megkötő szerek: orvosi szén,
+
+– Véralvadás gátló szerek: acetilszalicilsav,
+
+– Rövid hatástartamú vérnyomáscsökkentő: ACE-gátló,
+
+– Nyelv alá vagy szájnyálkahártyára adható nitroglicerin,
+
+– Beta-2 receptor izgató spray.
+
+2.4.1.5.4. Rektálisan adható készítmények:
+
+– központi idegrendszeri görcsoldók: diazepam,
+
+– lázcsillapító kúp,
+
+– rektális szteroid.
+
+2.4.1.6. Egyéb kiegészítő felszerelés:
+
+– Ampullatartó, zseblámpa.
+
+2.4.1.7. Dokumentáció:
+
+– esetlap.
+
+[^30]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított szöveg.

@@ -1,19 +1,23 @@
-4. § (1) Amennyiben az Eütv. 94. §-ának (2) bekezdésében foglalt esetekben a mentést nem orvos kezdeményezi, a bejelentőnek közölnie kell
+4. §[^16] (1) Az Eütv. 94. § (2) és (3) bekezdésében foglalt esetekben az Irányító Csoport munkatársa a segélyhívás fogadásakor a bejelentőtől megkérdezi:
 
-a) a nevét és a bejelentéskor használt telefonszámát,
+a) a mentést indokoló esemény jellegét és helyét, a betegek számát és az észlelt tüneteket,
 
-b) a mentést indokoló esemény jellegét és helyét, a betegek számát és az észlelt tüneteket,
+b) a bejelentő nevét és – amennyiben a bejelentő telefonszáma az Irányító Csoport készülékén nem azonosítható – a bejelentéskor használt telefonszámát,
 
-c) a mentésirányítás által kért további információt.
+c) a mentésirányítás által szükségesnek tartott további információt.
 
-(2) Az Irányító Csoport a bejelentés alapján dönt
+(2) A mentésirányítást ellátó személy a bejelentés tartalma, és az összes körülmény értékelése alapján dönt a mentés szükségességéről és intézkedik
 
-a) a mentés szükségességéről és ennek alapján – a rendelkezésre álló mentőkapacitás függvényében – a sürgősségi igény meghatározásával a megfelelő szintű mentőegység(ek), illetve az adott típusú feladatra szakosodott ellátó szervezet riasztásáról,
+a) a rendelkezésre álló mentőkapacitás függvényében, a sürgősségi igény meghatározásával a megfelelő szintű mentőegység, illetve mentőegységek riasztásáról,
 
-b) egyéb szolgálatok – ideértve a háziorvosi vagy orvosi ügyeleti szolgálat, tűzoltóság, rendőrség – riasztásáról,
+b) szükség esetén az adott típusú feladatra szakosodott ellátó szervezet riasztásáról,
 
-c) a bejelentés elutasításáról, amennyiben egyértelműen megállapítható, hogy nem szükséges a beteg sürgősségi ellátása.
+c) egyéb szolgálatok – ideértve a háziorvosi vagy orvosi ügyeleti szolgálatot, tűzoltóságot, rendőrséget – riasztásáról.
 
-(3)[^7]
+(3) A mentésirányítást ellátó személy a bejelentés alapján tett (2) bekezdés szerinti intézkedéséről a bejelentőt tájékoztatja.
 
-[^7]: A 4. § (3) bekezdését a 61/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+(4) Amennyiben biztonsággal megállapítható, hogy nem szükséges a beteg mentése, a mentésirányítást ellátó személy a bejelentőt tájékoztatja az egyéb egészségügyi szolgáltató elérhetőségéről és ellátási rendjéről.
+
+(5) Az Irányító Csoport munkatársa valamennyi intézkedését köteles dokumentálni.
+
+[^16]: A 4. § a 37/2011. (VI. 28.) NEFMI rendelet 4. §-ával megállapított szöveg.

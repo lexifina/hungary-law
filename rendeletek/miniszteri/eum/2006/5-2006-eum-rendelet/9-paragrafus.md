@@ -1,6 +1,8 @@
-9. § (1) A mentőellátással kapcsolatosan a mentőegység vezetője esetlapon dokumentálja:
+9. §[^18] (1) A mentőellátással kapcsolatosan a mentőegység vezetője a (2) bekezdés szerinti tartalommal esetlapot köteles kitölteni.
 
-a) a bejelentés, a helyszínre érkezés időpontját,
+(2) Az (1) bekezdés szerinti esetlap tartalmazza:
+
+a) a bejelentés, indulás, helyszínre érkezés időpontját,
 
 b) a helyszínen szerzett információk alapján az esemény közvetlen előzményeit,
 
@@ -10,25 +12,34 @@ d) a beteg állapotát és vizsgálatának eredményeit,
 
 e) a beteg helyszíni és szállítás közbeni ellátását, állapotváltozását,
 
-f) a beteg átadási állapotát, átadásának helyét és idejét.
+f) a beteg átadási állapotát, valamint
 
-(2)[^11] A mentőellátást végző mentőegység ápolója a mentés, valamint a mentés körébe tartozó feladatok (azonnali, illetve sürgős mentőápolói felügyeletet igénylő szállítás, őrzött betegszállítás, illetve továbbszállítás) esetén a 3. számú melléklet szerinti adattartalmú mentési menetlevélen dokumentálja a következőket:
+g) a beteg átadásának helyét és idejét.
+
+(3) A mentőellátást végző mentőegység ápolója (ennek hiányában gépkocsivezetője) a mentés, valamint a mentés körébe tartozó feladatokat a (4) bekezdés szerinti mentési adatlapon és menetlevélen rögzíti.
+
+(4) A mentési adatlap és menetlevél tartalmazza:
 
 a) a bejelentő által közölt feltalálási helyet,
 
-b) a bejelentés, az állomáshelyről történő kivonulás, a helyszínre érkezés, a helyszínről való indulás, az átadási helyre érkezés, az átvétel, valamint az állomáshelyre visszaérkezés időpontját óra/perc megadással,
+b) a bejelentés, az állomáshelyről történő kivonulás, a helyszínre érkezés, a helyszínről való indulás, az átadási helyre érkezés, az átvétel, valamint az állomáshelyre visszaérkezés időpontját az óra és a perc megadásával,
 
 c) az állomáshelyről történő kivonuláskor, a helyszínre érkezéskor, a helyszínről való induláskor, az átadási helyre érkezéskor, valamint az állomáshelyre visszaérkezéskor a mentőgépjármű kilométeróra állását,
 
-d) a beteg nevét, születési dátumát, TAJ számát vagy az egészségügyi ellátásra jogosító dokumentum azonosító számát, lakcímét (tartózkodási helyét), anyja nevét,
+d) a beteg nevét, születési dátumát, társadalombiztosítási azonosító jelét vagy az egészségügyi ellátásra jogosító dokumentum azonosító számát, lakcímét, illetve tartózkodási helyét, anyja születési nevét,
 
-e) a mentőgépjármű rendszámát, a mentőegység tagjainak (orvos/mentőtiszt, ápoló, gépkocsivezető), a mentőegységgel kivonuló betanuló mentődolgozó, illetve szakmai gyakorlaton lévő egészségügyi dolgozó, valamint a beteg kísérőjének nevét,
+e) a mentőgépjármű rendszámát,
 
-f)[^12] a beteget átvevő egészségügyi intézmény nevét és az ÁNTSZ OTH által megállapított egyedi azonosítóját, valamint az átvevő orvos nevét és pecsétszámát,
+f) a mentőegység tagjainak, a mentőegységgel kivonuló betanuló mentődolgozó, illetve szakmai gyakorlaton lévő egészségügyi dolgozó, valamint a beteg kísérőjének nevét,
 
-g) a beteg továbbszállítása esetén a továbbszállítást elrendelő orvos nevét, pecsétszámát, valamint a továbbszállítás okát.
+g) a beteget átvevő egészségügyi intézmény nevét és egyedi azonosítóját,
 
-(3) Az (1)–(2) bekezdés szerinti dokumentáció kezelésére, megőrzésére az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésére vonatkozó külön jogszabályokban foglaltak az irányadóak.
+h) az átvevő orvos nevét és pecsétszámát,
 
-[^11]: A 9. § (2) bekezdésének bevezető szövegrésze a 61/2007. (XII. 29.) EüM rendelet 4. §-ával megállapított szöveg.
-[^12]: A 9. § (2) bekezdés f) pontja a 10/2011. (III. 30.) NEFMI rendelet 56. § (2) bekezdése szerint módosított szöveg.
+i) a beteg továbbszállítása esetén a továbbszállítást elrendelő orvos nevét, pecsétszámát, valamint
+
+j) a továbbszállítás okát.
+
+(5) A (2) bekezdés szerinti esetlap és a (4) bekezdés szerinti mentési adatlap és menetlevél az egészségügyi dokumentáció részét képezi.
+
+[^18]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.

@@ -1,7 +1,13 @@
-11. §[^14] (1)[^15] Rendezvény egészségügyi biztosítását végző alternatív mentő szervezet ezen tevékenysége megkezdése előtt legalább 8 nappal korábban köteles írásban értesíteni az ÁNTSZ OTH-t és az OMSZ illetékes regionális szervezetét, megjelölve az egészségügyi biztosítást ellátó egység rendezvény alatti elérhetőségét.
+11. §[^22] (1) Rendezvénybiztosítást az ÁNTSZ OTH által kiadott működési engedéllyel rendelkező szervezet láthat el.
 
-(2)[^16] Rendezvény egészségügyi biztosítási tevékenység szabálytalan végzése esetén az ellenőrzést végző hatóság értesíti az ÁNTSZ OTH-t az engedély korlátozása érdekében, illetve ismételt súlyos szabálytalanság esetén a működési engedély visszavonását kezdeményezi.
+(2) Rendezvény egészségügyi biztosítását végző mentőszervezet ezen tevékenysége megkezdése előtt legalább 3 munkanappal korábban írásban értesíti a tevékenység végzési helye szerint illetékes egészségügyi államigazgatási szervet és az OMSZ illetékes mentőszervezetét, megjelölve a rendezvény biztosítását ellátó egység vagy egységek rendezvény alatti elérhetőségét. Amennyiben a rendezvény egészségügyi biztosításában jogszabály mentőhelikopter készenlétét is kötelezővé teszi, a rendezvény egészségügyi biztosítását végző szervezet a Magyar Légimentő Nonprofit Kft.-t is köteles értesíteni és a rendezvény alatti elérhetőségéről tájékoztatni.
 
-[^14]: A 11. § a 61/2007. (XII. 29.) EüM rendelet 6. §-ával megállapított szöveg.
-[^15]: A 11. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^16]: A 11. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 56. § (4) bekezdése szerint módosított szöveg.
+(3) A (2) bekezdésben foglalt bejelentési kötelezettség elmulasztása, valamint a rendezvény biztosítása során történő egyéb szabálytalanság esetén a rendezvény egészségügyi biztosítását végző szervezetnek működési engedélyt kiadó hatóság az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendeletben foglaltak szerint jár el.
+
+(4) Az állami rendezvények egészségügyi biztosítását, valamint a nemzeti ünnepek, valamint a kiemelkedő fontosságú rendezvények előkészítésének és lebonyolításának rendjéről szóló kormányhatározat szerinti rendezvények egészségügyi biztosítását az OMSZ látja el.
+
+(5) A rendezvény megfelelő egészségügyi biztosításáért a rendezvény szervezője és a rendezvény egészségügyi biztosítását végző szervezet egyetemlegesen felelős. Amennyiben a rendezvénybiztosítás során ellátott beteg egészségi állapotának megfelelő ellátásra alkalmas legközelebbi egészségügyi intézménybe szállítása válik szükségessé, akkor erről a rendezvény egészségügyi biztosítását végző szervezetnek – ide nem értve a gyalogőrséget – kell gondoskodnia. Ennek hiányában, vagy ha a tervezett oxiológiai ellátás a rendezvényen elégtelennek bizonyul, az OMSZ igazolt többletköltségét a rendezvény szervezője és a rendezvény egészségügyi biztosítását végző szervezet köteles az OMSZ számára megtéríteni. Ez alól kivételt képez a katasztrófa helyzet.
+
+(6) A rendezvénybiztosítás részletes feltételeit a 2. melléklet tartalmazza.
+
+[^22]: A 11. § a 37/2011. (VI. 28.) NEFMI rendelet 8. §-ával megállapított szöveg.

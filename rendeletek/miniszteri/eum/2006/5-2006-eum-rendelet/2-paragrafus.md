@@ -1,18 +1,18 @@
-## 1. § E rendelet hatálya a Magyar Köztársaság területén mentést végző magánszemélyre, jogi személyre és jogi személyiséggel nem rendelkező gazdasági társaságra terjed ki.
+## 1/A. §[^1] A mentés személyi és tárgyi feltételeit az 1. melléklet tartalmazza.
 
 ## 2. § E rendelet alkalmazásában
 
-a) mentés: az Eütv. 94. §-ának (1) és (4) bekezdésében foglalt tevékenység;
+a)[^2] mentés: az Eütv. 94. §-ának (1), (4) és (5) bekezdésében foglalt tevékenység;
 
-b)[^1] mentési tevékenységet végző szervezet: az Országos Mentőszolgálat (a továbbiakban: OMSZ) és e jogszabály szerint mentési tevékenység végzésére jogosult más jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy magánszemély, ha megfelel a mellékletek szerinti személyi és tárgyi feltételeknek, és rendelkezik az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal (a továbbiakban: ÁNTSZ OTH) által – külön jogszabály szerint – kiadott működési engedéllyel (a továbbiakban: működési engedély);
+b)[^3] mentési tevékenységet végző szervezet: az Országos Mentőszolgálat (a továbbiakban: OMSZ) és e jogszabály szerint mentési tevékenység végzésére jogosult más jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy magánszemély, ha megfelel az 1. melléklet szerinti személyi és tárgyi feltételeknek, és rendelkezik az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal (a továbbiakban: ÁNTSZ OTH) által – külön jogszabály szerint – kiadott működési engedéllyel (a továbbiakban: működési engedély);
 
-c) mentési tevékenységet végző személy: a b) pont szerinti mentési tevékenységet végző szervezet(ek) keretében a mentésre szoruló beteg, illetve sérült (a továbbiakban: beteg) feltalálási helyén vagy szállítás közbeni sürgősségi ellátásában részt vevő, az 1. számú melléklet szerinti képesítéssel rendelkező személy;
+c)[^4] mentési tevékenységet végző személy: a b) pont szerinti mentési tevékenységet végző szervezet(ek) keretében a mentésre szoruló beteg, illetve sérült (a továbbiakban: beteg) feltalálási helyén vagy szállítás közbeni sürgősségi ellátásában részt vevő, az 1. melléklet szerinti képesítéssel rendelkező személy;
 
-d)[^2] mentési készenlétet igénylő őrzött szállítás: az a szállítás, amelynek során – orvosi elrendelés alapján – a beteget orvosi, mentőtiszti vagy mentőápolói, illetve neonatológiai szállítás esetén neonatológiai szakorvosi, illetve gyermek intenzív terápiás szakápolói felügyelet mellett gyógyintézetből gyógyintézetbe szállítják;
+d)[^5] mentési készenlétet igénylő őrzött szállítás: az a szállítás, amelynek során – orvosi elrendelés alapján – a beteget orvosi, mentőtiszti vagy mentőápolói, illetve neonatológiai szállítás esetén neonatológiai szakorvosi, illetve gyermek intenzív terápiás szakápolói felügyelet mellett gyógyintézetből gyógyintézetbe szállítják;
 
 e) mentésirányítást ellátó személy: az Irányító Csoport azon tagja, aki a 104-es, illetve más segélyhívó-számon érkező és egyéb mentést kezdeményező bejelentések fogadását, értékelését végzi, továbbá a mentési feladatok végrehajtására a mentőegységeknek utasításokat ad;
 
-f) mozgóőrség: mentési készenlét a rendezvények, mentési tevékenységet igénylő egyéb események egészségügyi ellátásának biztosítására a 2. számú mellékletben meghatározott személyi, tárgyi feltételeknek megfelelően;
+f)[^6] mentési készenlét: a várható oxiológiai ellátás helyszínén az orvosi, a mentőtiszti, illetve a mentőápolói szintű ellátás biztosítása;
 
 g) Irányító Csoport: segélyhívások fogadását, a sürgősségi igény meghatározását és a mentőegységek közvetlen irányítását végző OMSZ szervezeti egység;
 
@@ -20,8 +20,15 @@ h) Irányító Központ: az OMSZ keretében működő azon szervezeti egység, a
 
 i) alternatív mentő szervezet: az OMSZ-on kívül és a Kormány által alapított közalapítvánnyal szerződést kötött szervezet(ek)en kívül mentési tevékenység végzésére működési engedéllyel rendelkező egészségügyi szolgáltató;
 
-j)[^3] mentőszállítás: az a mentőfeladat, amely során a beteget orvos megrendelésére legalább mentőápolói felügyelettel – azonnal, illetve legfeljebb 2 órán belül – feltalálási helyéről egészségügyi intézménybe szállítják.
+j)[^7] mentőszállítás: az a mentőfeladat, amely során a beteget orvos megrendelésére legalább mentőápolói felügyelettel – azonnal, illetve legfeljebb 2 órán belül – feltalálási helyéről egészségügyi intézménybe szállítják;
 
-[^1]: A 2. § b) pontja a 10/2011. (III. 30.) NEFMI rendelet 56. § (1) bekezdése szerint módosított szöveg.
-[^2]: A 2. § d) pontja a 61/2007. (XII. 29.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § j) pontját a 61/2007. (XII. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+k)[^8] gyalogőrség: a rendezvény egészségügyi biztosításának azon formája, amelynél a rendezvény résztvevőinek egészségügyi biztosítása mentőgépjármű igénybevétele nélkül történik.
+
+[^1]: Az 1/A. §-t a 37/2011. (VI. 28.) NEFMI rendelet 1. §-a iktatta be.
+[^2]: A 2. § a) pontja a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § b) pontja a 10/2011. (III. 30.) NEFMI rendelet 56. § (1) bekezdése, a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § c) pontja a 37/2011. (VI. 28.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § d) pontja a 61/2007. (XII. 29.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § f) pontja a 37/2011. (VI. 28.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § j) pontját a 61/2007. (XII. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § k) pontját a 37/2011. (VI. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.

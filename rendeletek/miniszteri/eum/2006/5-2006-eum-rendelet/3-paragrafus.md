@@ -1,4 +1,4 @@
-3. § (1)[^4] A mentés a sürgősség igénye szerint lehet
+3. § (1)[^9] A mentés a sürgősség igénye szerint lehet
 
 a) azonnali,
 
@@ -8,7 +8,7 @@ c) a mentési készenlétet igénylő őrzött szállítás esetén 2 órán tú
 
 ## mentési feladat.
 
-(2) A mentés az alkalmazott mentőegység típusa szerint lehet
+(2)[^10] A mentés az alkalmazott mentőegység típusa szerint lehet
 
 a) mentőgépkocsival,
 
@@ -18,7 +18,7 @@ c) esetkocsival,
 
 d) rohamkocsival,
 
-e) speciális rohamkocsival (Mobil Intensiv Care Unit – MICU),
+e) speciális rohamkocsival (Mobile Intensive Care Unit – MICU),
 
 f) neonatológiai mentőgépkocsival,
 
@@ -30,9 +30,19 @@ i) légi mentőjárművel,
 
 j) mentőorvosi gépkocsival,
 
-k) helyszínen történő mentési feladat ellátására alkalmas motorkerékpárral (a továbbiakban: mentő-motorkerékpár)
+k) mentőtiszti gépkocsival,
 
-## végrehajtandó mentési feladat.
+l) gyermek-mentőorvosi gépkocsival,
+
+m) helyszínen történő mentési feladat ellátására alkalmas motorkerékpárral, illetve -mopeddel (a továbbiakban: mentő-motorkerékpár, illetve mentő-moped),
+
+n) helyszínen történő mentési feladat ellátására, valamint a szárazföldi átadási pontig történő szállításra alkalmas sürgősségi mentőhajóval,
+
+o) transzplantációs mentő-gépkocsival,
+
+p) Tömeges Baleseti Egységgel
+
+végrehajtandó mentési feladat.
 
 (3) A mentés a végzett tevékenység típusa szerint lehet
 
@@ -42,14 +52,22 @@ b) koraszülött mentés és koraszülött szállítás,
 
 c) mozgóőrség,
 
-d) őrzött betegszállítás,
+d)[^11] mentési készenlétet igénylő őrzött betegszállítás,
 
-e)[^5] mentőszállítás,
+e)[^12] mentőszállítás,
 
-f)[^6] rendezvény egészségügyi biztosítása.
+f)[^13] rendezvény egészségügyi biztosítása,
+
+g)[^14] szervátültetéssel kapcsolatos mentési feladat.
 
 (4) Neonatológiai mentés vagy betegszállítás során intenzív szállító inkubátorban történő szállítást igényel minden koraszülött, újszülött, valamint az egészségügyi dolgozó által megállapított életveszélyben lévő 6 kg-ot, illetve 60 cm-t meg nem haladó csecsemő.
 
-[^4]: A 3. § (1) bekezdése a 61/2007. (XII. 29.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdésének e) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^6]: A 3. § (3) bekezdésének f) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
+(5)[^15] A mentőjármű általános mentést, koraszülött mentést és koraszülött szállítást, mentési készenlétet igénylő őrzött betegszállítást, mozgóőrségi, rendezvénybiztosítási, továbbá transzplantációhoz kapcsolódó tevékenységet végző közúti mentőjármű, amely lehet a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – annak használatában. A mentőjárműre vonatkozó részletes feltételeket az 1. melléklet határozza meg.
+
+[^9]: A 3. § (1) bekezdése a 61/2007. (XII. 29.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (2) bekezdése a 37/2011. (VI. 28.) NEFMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (3) bekezdés d) pontja a 37/2011. (VI. 28.) NEFMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (3) bekezdésének e) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 3. § (3) bekezdésének f) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A 3. § (3) bekezdés g) pontját a 37/2011. (VI. 28.) NEFMI rendelet 3. § (3) bekezdése iktatta be.
+[^15]: A 3. § (5) bekezdését a 37/2011. (VI. 28.) NEFMI rendelet 3. § (4) bekezdése iktatta be.
