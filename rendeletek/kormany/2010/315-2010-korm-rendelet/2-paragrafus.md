@@ -8,10 +8,12 @@
 
 (4) A miniszter
 
-a) kezdeményezi a foglalkoztatáshoz kapcsolódó központi munkaerőpiaci programok kidolgozását és – a Munkaerőpiaci Alap Irányító Testülete (a továbbiakban: MAT) jogkörére is figyelemmel – dönt a központi programok indításáról, valamint figyelemmel kíséri azok végrehajtását,
+a)[^1] kezdeményezi a foglalkoztatáshoz kapcsolódó központi munkaerőpiaci programok kidolgozását és dönt a központi programok indításáról, valamint figyelemmel kíséri azok végrehajtását,
 
 b) a Foglalkoztatási Hivatal feladataival összefüggésben követelményeket határoz meg a számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
 c) irányítja a Munkaerőpiaci Alap (a továbbiakban: MpA) felhasználásával kapcsolatos tervezési, beszámolási és számviteli feladatok végrehajtását, valamint
 
 d) figyelemmel kíséri az MpA foglalkoztatási alaprésze decentralizált keretének a munkaügyi központok által történő felhasználását, valamint a kormányzati foglalkoztatáspolitika érvényesítését.
+
+[^1]: A 2. § (4) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.

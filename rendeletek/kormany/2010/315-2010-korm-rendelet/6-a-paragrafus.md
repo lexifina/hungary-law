@@ -1,4 +1,4 @@
-## 6/A. §[^9] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ együttműködik az általa irányított kirendeltségek illetékességi területe szerinti, nem kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központtal
+## 6/A. §[^13] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ együttműködik az általa irányított kirendeltségek illetékességi területe szerinti, nem kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központtal
 
 a) a kirendeltségek határozata ellen benyújtott fellebbezések elbírálásával,
 
@@ -16,4 +16,4 @@ g) a munkaerőpiaci képzésekkel összefüggő feladatok ellátásával
 
 kapcsolatos ügyekben.
 
-[^9]: A 6/A. §-t a 111/2011. (VII. 4.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^13]: A 6/A. §-t a 111/2011. (VII. 4.) Korm. rendelet 16. § (3) bekezdése iktatta be.
