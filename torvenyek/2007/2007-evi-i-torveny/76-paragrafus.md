@@ -1,6 +1,6 @@
 76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
 
-a) a születési és házassági nevet, a személyi azonosítót és a regisztrációs igazoláson szereplő lakcímet,
+a) a születési és házassági nevet, a személyi azonosítót és a regisztrációs igazoláson szereplő lakcímet, korábbi szokásos tartózkodási hely szerinti országát,
 
 b) a regisztráció időpontját, illetve a tartózkodási kártya kiadása iránti kérelem benyújtásának időpontját,
 
@@ -10,7 +10,7 @@ d) a regisztrációt, illetve a tartózkodási jogot igazoló okmány számát, 
 
 e) a regisztrációt, illetve a tartózkodási jogot igazoló okmány visszavonásának tényét, okát, időpontját,
 
-f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját,
+f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját, a következő szokásos tartózkodási hely szerinti országát
 
 g) a regisztrációt, illetve a tartózkodási jogot igazoló okmány cseréjének, pótlásának, az okmány elvesztésének, megsemmisülésének, a talált okmány visszaadásának tényét,
 

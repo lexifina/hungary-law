@@ -12,4 +12,4 @@ c) a kitoloncolási őrizet törvényességének bírósági felülvizsgálata �
 
 (4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel –, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
 
-(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét külön jogszabályban meghatározott honlapon kell közzétenni.
+(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét jogszabályban meghatározott honlapon kell közzétenni. A közzététel napján a határozatot közöltnek kell tekinteni.

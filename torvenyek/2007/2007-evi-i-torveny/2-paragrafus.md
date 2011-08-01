@@ -18,7 +18,11 @@ bf) a magyar állampolgár vagy házastársa felmenője,
 
 bg) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy,
 
-bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi;
+bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi,
+
+bi) az EGT-állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
+
+bj) a magyar állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
 
 c) keresőtevékenységet folytat:
 
