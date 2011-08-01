@@ -1,0 +1,5 @@
+5. § (1) A vendéglátó által előállított, a végső fogyasztónak szánt ételek összetételére, csomagolására vonatkozó adatoknak az előállítás helyén, a minőség-ellenőrzés céljára is alkalmas módon, termékenkénti anyaghányad-nyilvántartásként rendelkezésre kell állniuk. Az anyaghányad nyilvántartásnak a 1. mellékletben felsorolt adatokat kell tartalmaznia.
+
+(2) Az anyaghányad nyilvántartásban bekövetkező bármely változást haladéktalanul át kell vezetni. Amennyiben egy adott étel előállítását megszüntetik, az arról vezetett anyaghányad-nyilvántartást a megszüntetéstől számított 90 napig meg kell őrizni.
+
+(3) A vendéglátó-ipari termékek összetevőire vonatkozó információkról – beleértve az élelmiszerek jelöléséről szóló 19/2004. (II. 26.) FVM–ESZCSM–GKM együttes rendelet 4. melléklete szerinti allergén összetevőket, valamint az egyéb jogszabályok alapján kötelezően alkalmazandó, élelmiszer-összetevőkre vonatkozó kiegészítő információkat is – a végső fogyasztót, annak kérésére a vendéglátónak tájékoztatnia kell.

@@ -1,0 +1,1 @@
+## 7. § Az ivóvíz önellenőrző mikrobiológiai vizsgálatát a vízszennyeződés vagy annak gyanúja esetén az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló külön jogszabály szerint soron kívül el kell végezni.
