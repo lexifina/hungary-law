@@ -1,4 +1,4 @@
-59. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaidőről és a pihenőidőről szóló rendelkezései közül (Harmadik rész, VI. fejezet) a 117/A. § (1) bekezdése, a 117/B. § (2) bekezdése, a (3) bekezdésének b) pontja és a (4) bekezdése, a 131. §-a, valamint a 132. § (4)–(6) bekezdése nem alkalmazható.
+59. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaidőről és a pihenőidőről szóló rendelkezései közül (Harmadik rész, VI. fejezet) a 117/A. § (1) bekezdése, a 117/B. § (2) bekezdése, a (3) bekezdésének b) pontja és a (4) bekezdése, a 117/C. §-a, a 131. §-a, valamint a 132. § (4)–(6) bekezdése nem alkalmazható.
 
 (2)
 

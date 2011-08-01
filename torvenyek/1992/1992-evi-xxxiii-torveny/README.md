@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2011-05-31 | 11/2011. (III. 9.) AB határozat | 1992-33-00-00.73 |
 | 2011-06-01 | 1992. évi XXXIII. törvény | 1992-33-00-00.74 |
 | 2011-07-27 | 2011. évi CVI. törvény | 1992-33-00-00.75 |
+| 2011-08-01 | 2011. évi CV. törvény | 1992-33-00-00.76 |
