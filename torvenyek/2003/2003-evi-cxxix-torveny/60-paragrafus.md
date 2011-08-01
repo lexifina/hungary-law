@@ -14,7 +14,11 @@ e) egy évnél régebben lejárt adó-, vámfizetési vagy társadalombiztosít�
 
 f) korábbi – három évnél nem régebben lezárult – közbeszerzési eljárásban hamis adatot szolgáltatott és ezért az eljárásból kizárták, illetőleg a hamis adat szolgáltatását jogerősen megállapították, a jogerősen megállapított időtartam végéig;
 
-g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15. §-a (5) bekezdésének a) pontjában meghatározott, két évnél nem régebben meghozott, jogerős és végrehajtható közigazgatási, illetőleg bírósági határozatban megállapított és munkaügyi bírsággal vagy az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtott jogszabálysértést követett el;
+g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.)
+
+ga) 15. §-a (5) bekezdés a) pontjában meghatározott, két évnél nem régebben jogerőssé vált közigazgatási vagy bírósági határozatban megállapított és munkaügyi bírsággal vagy az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtott jogszabálysértést követett el, vagy
+
+gb) 15. §-a (5) bekezdés f) pont fb) alpontjában meghatározott, két évnél nem régebben jogerőssé vált közigazgatási vagy bírósági határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel, vagy a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el;
 
 h) a büntető törvénykönyv szerinti bűnszervezetben részvétel – ideértve bűncselekmény bűnszervezetben történő elkövetését is –, vesztegetés, vesztegetés nemzetközi kapcsolatokban, az európai közösségek pénzügyi érdekeinek megsértése, illetve pénzmosás bűncselekményt, vagy személyes joga szerinti hasonló bűncselekményt követett el, feltéve, hogy a bűncselekmény elkövetése jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült;
 

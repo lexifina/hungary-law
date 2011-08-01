@@ -18,4 +18,6 @@ g) az Európai Parlament és a Tanács 2007/66/EK irányelve (2007. december 11.
 
 h) a Bizottság 213/2008/EK rendelete (2007. november 28.) a közös közbeszerzési szószedetről (CPV) szóló 2195/2002/EK európai parlamenti és tanácsi rendelet módosításáról és a közbeszerzési eljárásokról szóló 2004/17/EK és 2004/18/EK európai parlamenti és tanácsi irányelvnek a CPV felülvizsgálata tekintetében történő módosításáról;
 
-i) – a törvény végrehajtására a 404. § (1) bekezdésének n) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel, valamint az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvénnyel együtt – az Európai Parlament és a Tanács 2009/33/EK irányelve a tiszta és energiahatékony közúti járművek használatának előmozdításáról.
+i) – a törvény végrehajtására a 404. § (1) bekezdésének n) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel, valamint az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvénnyel együtt – az Európai Parlament és a Tanács 2009/33/EK irányelve a tiszta és energiahatékony közúti járművek használatának előmozdításáról;
+
+j) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv 7. cikk (1) bekezdés b) pontja.

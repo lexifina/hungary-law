@@ -303,19 +303,3 @@ ex 8702: harci járművek
 ex 8703: roncsszállító kocsik
 
 ex 8709: motorkerékpárok
-
-ex 8714: pótkocsik
-
-89. árucsoport:
-
-Hajó, csónak és más úszó szerkezet
-
-kivéve:
-
-ex 8901 A: hadihajók
-
-90. árucsoport:
-
-Optikai, fényképészeti, mozgófényképészeti, mérő-, ellenőrző, precíziós, orvosi és sebészeti műszerek és készülékek; ezek alkatrészei és tartozékai
-
-kivéve:
