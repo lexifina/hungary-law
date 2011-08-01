@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-113-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-113-00-00.2 |
+| 2011-08-01 | 2011. évi CV. törvény | 2006-113-00-00.3 |
