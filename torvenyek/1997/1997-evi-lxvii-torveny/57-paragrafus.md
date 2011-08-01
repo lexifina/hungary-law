@@ -36,7 +36,9 @@ k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmu
 
 l) ha a bíró a 38/B. §-ban meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra 15 munkanapon belül nem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye,
 
-m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton az 54. § (3) bekezdése szerint nem vesz részt.
+m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton az 54. § (3) bekezdése szerint nem vesz részt,
+
+n) ha állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé nevezik ki.
 
 (3) A bíró felmenthető, ha rokkantsági (baleseti rokkantsági) nyugdíjra válik jogosulttá.
 

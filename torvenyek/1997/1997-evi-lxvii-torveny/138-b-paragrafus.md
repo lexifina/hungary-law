@@ -1,0 +1,1 @@
+138/B. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) 41. §-ával megállapított 12. § (5a) bekezdését a részmunkaidőben történő foglalkoztatásnak a Módtv. hatálybalépését követően ledolgozott időtartama tekintetében kell alkalmazni.

@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-67-00-00
 | 2011-06-28 | 2011. évi LXXII. törvény | 1997-67-00-00.39 |
 | 2011-07-13 | 2011. évi LXXXIX. törvény | 1997-67-00-00.40 |
 | 2011-07-27 | 2011. évi CV. törvény | 1997-67-00-00.41 |
+| 2011-08-01 | 2011. évi CV. törvény | 1997-67-00-00.42 |
