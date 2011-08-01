@@ -40,6 +40,8 @@ s) Zala Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatás
 
 (2) A szakigazgatási szerv illetékessége – a Budapest Főváros Kormányhivatala Egészségbiztosítási Pénztári Szakigazgatási Szervének illetékessége kivételével – megegyezik a megyei kormányhivatal illetékességével. A Budapest Főváros Kormányhivatala Egészségbiztosítási Pénztári Szakigazgatási Szervének illetékessége Budapest főváros és Pest megye területére terjed ki.
 
-(3) Az egészségbiztosítási pénztári szakigazgatási szerv a 4. § (2) bekezdés a) pont ae)–af) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
+(3)[^1] Az egészségbiztosítási pénztári szakigazgatási szerv a 4. § (2) bekezdés a) pont ae) alpont 1. pontjában és af) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
 
 (4) Az egészségbiztosítási pénztári szakigazgatási szervek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az OEP főigazgatója.
+
+[^1]: A 3. § (3) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 24. § (3) bekezdés a) pontja szerint módosított szöveg.

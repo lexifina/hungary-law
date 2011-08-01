@@ -88,4 +88,11 @@ ag) jelzi az OEP, mint szakmai irányító szerv felé az aa)–af) pontban fels
 
 ah) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat az OEP szakmai irányítása alatt,
 
+ai)[^2] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
+
 b) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal.
+
+(3)[^3] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
+
+[^2]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^3]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.
