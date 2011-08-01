@@ -20,7 +20,7 @@ a) a koncesszióról (az állami monopóliumok hasznosításáról),
 
 b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
 
-c) az állami tulajdonban lévő termőföldekről, mező-, erdőgazdasági művelés alatt álló belterületi földekről, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területekről.
+c) a Nemzeti Földalapról.
 
 (4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
