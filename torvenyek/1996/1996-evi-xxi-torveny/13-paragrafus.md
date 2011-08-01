@@ -1,4 +1,4 @@
-13. § (1) A megyei területfejlesztési tanács feladatainak ellátásában együttműködik a települési önkormányzatokkal, a megye fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, az érdekelt társadalmi és szakmai szervezetekkel, valamint a megyei munkaügyi tanáccsal.
+13. § (1) A megyei területfejlesztési tanács feladatainak ellátásában együttműködik a települési önkormányzatokkal, a megye fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, az érdekelt társadalmi és szakmai szervezetekkel, valamint.
 
 (2) A megyei területfejlesztési tanács a megye területén összehangolja a kormányzat, a kistérségi fejlesztési tanácsok, az önkormányzatok és a gazdasági szervezetek fejlesztési elképzeléseit. Ennek keretében:
 
