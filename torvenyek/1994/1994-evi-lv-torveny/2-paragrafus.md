@@ -4,4 +4,6 @@
 
 (3) A tulajdonos kérelmére, illetőleg az ingatlanügyi hatóság megkeresésére az építésügyi hatóság igazolja, hogy a mező-, erdőgazdasági művelés alatt álló belterületi föld kialakított építési teleknek vagy építési területnek minősül-e.
 
-(4)–(6)
+(4) E törvény rendelkezéseit a Nemzeti Földalapba tartozó földrészleteket érintően csak akkor kell alkalmazni, ha a Nemzeti Földalapról szóló törvény eltérő szabályokat nem állapít meg.
+
+(5)–(6)

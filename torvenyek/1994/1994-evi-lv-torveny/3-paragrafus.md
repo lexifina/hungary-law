@@ -28,7 +28,7 @@ i) a családi gazdálkodó: a családi gazdaságot a mezőgazdasági igazgatási
 
 4. legalább 3 év óta a bejelentett állandó lakhelye a családi gazdaság központjaként megjelölt településen van;
 
-j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
+j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
 
 k) mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, halászat, haltenyésztés, szaporító anyag termesztés, vadgazdálkodás, erdőgazdálkodás, vegyes gazdálkodás;
 

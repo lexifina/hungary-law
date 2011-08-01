@@ -1,4 +1,4 @@
-21. § (1) A termőföldre és tanyára az alábbi sorrendben előhaszonbérleti jog illeti meg:
+21. § (1) A termőföld és tanya haszonbérbe adása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben előhaszonbérleti jog illeti meg:
 
 a) a volt haszonbérlőt, illetve ha a volt haszonbérlő a tulajdonos hozzájárulásával ültetvényt telepített vagy halastavat létesített, az általa kijelölt személyt feltéve, hogy a haszonbérlet nem a tulajdonos azonnali hatályú felmondása következtében szűnt meg;
 
@@ -25,3 +25,5 @@ b) az állattartó telepet és halastavat a haszonbérletre vonatkozó ajánlat 
 (5) Az (1) bekezdés szerinti előhaszonbérleti jog nem áll fenn közeli hozzátartozók [Ptk. 685. § b) pont] közötti haszonbérleti szerződés esetében, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld haszonbérlete esetén, valamint olyan külterületi földrészlet haszonbérbe adása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
 
 (6) Az (1)–(2) bekezdés szerinti sorrend az előhaszonbérletre jogosultak egymás közötti viszonyában is irányadó.
+
+(7) E § szerinti volt haszonbérlőnek az a magánszemély vagy jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet minősül, aki a haszonbérleti ajánlat tárgyát képező termőföldet vagy tanyát a haszonbérleti ajánlat közlését megelőző egy éven belül – több ilyen személy esetén aki utolsóként – haszonbérelte.

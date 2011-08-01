@@ -18,12 +18,14 @@ a) a családi gazdálkodó;
 
 b) nyilvántartási számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó.
 
-(3) Az (1) bekezdés szerinti elővásárlási jog nem áll fenn a közeli hozzátartozók [Ptk. 685. § b) pont] és a tulajdonostársak közötti adásvétel esetén, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld eladása esetén, valamint olyan külterületi földrészlet eladása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
+(3) Az (1) bekezdés szerinti elővásárlási jog nem áll fenn a közeli hozzátartozók [Ptk. 685. § b) pont] közötti adásvétel esetén, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld eladása esetén, valamint olyan külterületi földrészlet eladása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
+
+(3a) Az (1) bekezdés b)–e) pontja szerinti elővásárlási jog nem áll fenn a tulajdonostársak közötti adásvétel esetén.
 
 (4) Az (1)–(2) bekezdés szerinti sorrend az elővásárlásra jogosultak egymás közötti viszonyában is irányadó.
 
 (5) Az (1) bekezdés b) és e) pontja alapján az elővásárlási jogot akkor lehet gyakorolni, ha a haszonbérleti jogviszony (felesbérlet, részesművelés) legalább három éve fennáll.
 
-(6) Termőföld vagy tanya eladása (haszonbérbe adása) esetén, amennyiben e törvény, valamint a Ptk. alapján törvényes elővásárlási (előhaszonbérleti) jog áll fenn, a termőföld, tanya tulajdonosának az ingatlanra vonatkozó vételi (haszonbérleti) ajánlatot hirdetményi úton kell az elővásárlásra (előhaszonbérletre) jogosulttal közölnie. A Nemzeti Földalapba tartozó termőföldek tekintetében a törvény elővásárlási (előhaszonbérleti) jogra vonatkozó rendelkezéseit a külön jogszabályban foglalt eltérésekkel kell alkalmazni. A hirdetményi úton történő közléssel összefüggő igazgatási jellegű szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
+(6) Termőföld vagy tanya eladása (haszonbérbe adása) esetén, amennyiben e törvény, valamint a Ptk. alapján törvényes elővásárlási (előhaszonbérleti) jog áll fenn, a termőföld, tanya tulajdonosának az ingatlanra vonatkozó vételi (haszonbérleti) ajánlatot hirdetményi úton kell az elővásárlásra (előhaszonbérletre) jogosulttal közölnie. A Nemzeti Földalapba tartozó termőföldek tekintetében a törvény elővásárlási jogra vonatkozó rendelkezéseit a külön jogszabályban foglalt eltérésekkel kell alkalmazni. A hirdetményi úton történő közléssel összefüggő igazgatási jellegű szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
 
 (7) A mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld értékesítése esetén a mezőgazdasági termelőtevékenységet folytató vásárló tulajdonjogának ingatlan-nyilvántartási bejegyzése iránti kérelméhez mellékelni kell a támogatás elnyerését igazoló okiratot is.
