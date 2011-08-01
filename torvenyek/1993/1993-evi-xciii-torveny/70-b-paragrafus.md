@@ -6,7 +6,7 @@
 
 (4) A munkáltató köteles a testületbe döntésre jogosult vezető állású munkavállalót (Mt. 188. §), továbbá munkáltatói munkavédelmi feladatokat részben vagy egészben ellátó személyt (intézkedésre jogosult munkairányítót, illetve a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban lévő munkavédelmi szakembert) kijelölni. A munkáltató számára rendszeres munkavédelmi szolgáltatást nyújtó szakemberek meghívottként vesznek részt a testület munkájában.
 
-(5) A testület rendes és póttagjainak megbízatása négy évre szól.
+(5) A testület rendes és póttagjainak megbízatása öt évre szól.
 
 (6) A testület elnöki tisztét a munkavállalók, illetve a munkáltatók képviselői felváltva gyakorolják. A testület rendes és póttagjainak számában, a tagok megbízatásának megszűnése, valamint a visszahívás feltételeiben, elnöklési és működési rendjében, ügyrendjében, egyéb, a testület tevékenységével összefüggő eljárási kérdésekben a munkavállalók képviselői és a munkáltató állapodnak meg. A testület működésének feltételeit a munkáltató biztosítja.
 

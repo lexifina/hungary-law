@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-93-00-00
 | 2010-04-01 | 2009. évi CLII. törvény | 1993-93-00-00.24 |
 | 2011-01-01 | 2010. évi CLII. törvény | 1993-93-00-00.25 |
 | 2011-07-22 | 2011. évi XCIII. törvény | 1993-93-00-00.26 |
+| 2011-08-01 | 2011. évi CV. törvény | 1993-93-00-00.27 |
