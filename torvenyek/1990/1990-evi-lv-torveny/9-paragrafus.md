@@ -16,4 +16,4 @@ d) a Közbeszerzések Tanácsa tagja;
 
 e)
 
-f) az Érdekegyeztető Tanács munkavállalói, illetve munkaadói oldalának képviselője.
+f)
