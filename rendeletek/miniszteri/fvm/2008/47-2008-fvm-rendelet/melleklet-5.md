@@ -1,30 +1,4 @@
-## A vágópont meghatározása
-
-## A vágópont:
-
-## 1. Olyan létesítmény, ahol az alábbiakban felsorolt állatfajokból a hozzájuk rendelt kapacitás mértékéig vágási tevékenységet folytatnak az állatfajok vágásának időbeni elkülönítése mellett:
-
-## a) sertés, juh, kecske naponta 15 db,
-
-## b) szarvasmarha naponta 4 db,
-
-## c) ezek bármilyen kombinációja nem lehet több, mint naponta 2,5 állategység.
-
-## 2. Vállalja, hogy időszakosan vagy kis mennyiségben az 50 km-es körzeten belülről származó kistermelő által vágásra szánt, az 1. pontban felsorolt állatfajokat is levág.
-
-## 3. Olyan engedélyezett vágóhídként nyilvántartott létesítmény, amely a Mezőgazdasági Szakigazgatási Hivatal (MgSzH) által engedélyezett, az alábbiakban felsorolt könnyítések figyelembevételével megfelel a 853/2004/EK rendeletben (a továbbiakban: Rendelet) foglalt előírásoknak:
-
-## a) a Rendelet III. melléklete I. szakasza II. fejezetének (1) bekezdés a) pontjával összhangban kisméretű, kevés állatot vágó vágóhidak esetében elegendő lehet a fedett karám, melyek kialakításánál figyelembe kell venni a vonatkozó járványtani és állatvédelmi szempontokat. Az ante mortem vizsgálatot a vágóhelytől 50 km-es körzeten belül elhelyezkedő gazdaságban elvégezheti az állatorvos;
-
-## b) a Rendelet III. melléklet, I. szakasz II. fejezet (2) bekezdés a) pontjával és III. fejezet 3. pontjával összhangban ugyanazon üzemrész időbeli elkülönítéssel használata engedélyezhető, ha az bizonyítottan és igazoltan a tevékenységek között takarítva és fertőtlenítve volt;
-
-## c) a Rendelet III. melléklete I. szakasza II. fejezetének 3. pontjával összhangban kisebb helyeken elegendő annyi kés, eszköz csírátlanítása, sterilizálása egyetlen műveletben, ami biztosítja, hogy a vágási műveletek során elegendő tiszta eszköz áll rendelkezésre;
-
-## d) a Rendelet III. melléklete I. szakasza VII. fejezetének 3. pontjával összhangban elegendő egy kisebb hűtőhelyiséget biztosítani, és nem szükséges minden húst lehűteni, ha máshol ez biztosítható, pl. kistermelői előállítás, kereskedelmi helyen történő élelmiszer-előállítás.
-
-## 4. Az 1–3. pontokban foglaltak egyidejű teljesülése esetén minősül egy létesítmény vágópontnak és e pontokat az MgSzH köteles az engedélyezési eljárás során figyelembe venni.
-
-5. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^30]
+5. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^31]
 
 A 3. § (1) bekezdés a) pontja szerinti célterület esetében támogatható termékek
 
@@ -1820,4 +1794,4 @@ A 3. § (1) bekezdés a) pontja szerinti célterület esetében támogatható te
 
 | 23099099 | Más állati takarmány (kiv. kutya, macskaeledel, hal és tengeri emlős részeit tartalmazó oldat, kukoricakeményítő-gyártás hulladéka, kilúgozott répaszelet, hozzáadott melasszal, valamint amelynek kolinklorid-tartalma min. 49%) |
 
-[^30]: Az 5. számú melléklet a 20/2009. (III. 6.) FVM rendelet 6. §-a, a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^31]: Az 5. számú melléklet a 20/2009. (III. 6.) FVM rendelet 6. §-a, a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
