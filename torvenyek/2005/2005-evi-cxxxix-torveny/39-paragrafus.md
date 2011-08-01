@@ -12,7 +12,9 @@ b) az a) pont hatálya alá nem tartozó a Magyar Köztársaság területén él
 
 c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 
-d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait.
+d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait,
+
+e) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt.
 
 (2) Aki nem tartozik az (1) bekezdésben meghatározottak hatálya alá, tanulmányait kizárólag költségtérítéses formában folytathatja.
 
