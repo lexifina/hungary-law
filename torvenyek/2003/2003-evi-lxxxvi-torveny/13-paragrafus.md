@@ -24,7 +24,7 @@ j) javaslatot tesz az adott régióban egyes szakképesítéseknek a hiány-szak
 
 k) ellátja a külön jogszabályban meghatározott feladatokat.
 
-(3) A bizottság az OÉT-ben képviselettel rendelkező országos munkaadói, munkavállalói szövetségek, illetve azok szervezetei, a területi gazdasági kamarák, az oktatásért felelős miniszter, a szakképzésért és felnőttképzésért felelős miniszter, az állami foglalkoztatási szerv, a regionális fejlesztési tanács, a regionális munkaügyi tanács, a közoktatási feladatkörében eljáró oktatási hivatal (régiónként egy-egy), valamint a szakképzést folytató intézmények fenntartói (három) képviselőiből áll.
+(3) A bizottság az OÉT-ben képviselettel rendelkező országos munkaadói, munkavállalói szövetségek, illetve azok szervezetei, a területi gazdasági kamarák, az oktatásért felelős miniszter, a szakképzésért és felnőttképzésért felelős miniszter, az állami foglalkoztatási szerv, a regionális fejlesztési tanács, , a közoktatási feladatkörében eljáró oktatási hivatal (régiónként egy-egy), valamint a szakképzést folytató intézmények fenntartói (három) képviselőiből áll.
 
 (4) A bizottság elnökét és – a gazdasági kamarák közös javaslata alapján – társelnökét a tagok közül, valamint tagjait a szakképzésért és felnőttképzésért felelős miniszter kéri fel hároméves időtartamra.
 
