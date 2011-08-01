@@ -6,4 +6,4 @@ b) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbizto
 
 c) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
 
-d) a közhasznú munkavégzés, a közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
+d) a közfoglalkoztatás keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
