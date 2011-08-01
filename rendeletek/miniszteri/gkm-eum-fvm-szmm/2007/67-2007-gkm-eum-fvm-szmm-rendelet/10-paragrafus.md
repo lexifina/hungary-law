@@ -1,3 +1,0 @@
-10. § (1) A vendéglátás keretében történő csoportos étkeztetésre vonatkozó energia-tápanyagbeviteli, illetve élelmiszer-nyersanyag felhasználási ajánlásokat – a korcsoportonként megadott napi energia- és tápanyagbevitel ajánlott értékeit, valamint az egésznapos étkeztetéshez, a napi háromszori étkeztetéshez, és a csak ebéd szolgáltatáshoz megadott (1 főre 10 élelmezési napra vonatkozóan) – a melléklet „A”, „B”, „C” és „D” táblázata tartalmazza.
-
-(2) A hivatásos és a szerződéses állományú katonák – e rendelettől eltérő – energia- és tápanyagbeviteli, illetve élelmiszer-felhasználási szabályait külön jogszabály állapítja meg.
