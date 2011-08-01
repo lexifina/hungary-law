@@ -44,11 +44,15 @@
 
 | 19. | Termesztett gomba értékesítése | 100 kg |  |
 
-## * Tej és tejtermék esetében napi maximális mennyiség.
+| 20. | A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 67. § (2) bekezdés b) pontja szerinti bérfőzött, illetve a 67/A. § (4) bekezdés b) pontja szerinti magánfőzésből származó párlat értékesítése |  | 2 hl tiszta szesznek megfelelő párlat |
 
-## ** Az adott termékre vagy alaptermékre vonatkozó napi, heti vagy havi maximális mennyiség betartásával.
+| 21. | Egyéb élelmiszer értékesítése | 50 kg |  |
 
-## *** Élősúlyban.
+## * Tej és tejtermék esetében napi maximális mennyiség.
+
+## ** Az adott termékre vagy alaptermékre vonatkozó napi, heti vagy havi maximális mennyiség betartásával.
+
+## *** Élősúlyban.
 
 ## B. rész
 
