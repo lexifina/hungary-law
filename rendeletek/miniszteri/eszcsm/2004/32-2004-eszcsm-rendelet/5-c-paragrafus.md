@@ -38,4 +38,4 @@ c) megjelöli a tervezett finanszírozási kezdőnapot.
 
 [^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^38]: Az 5/C. § (3) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
-[^39]: Az 5/C. § (5) bekezdés d) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
+[^39]: Az 5/C. § (5) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
