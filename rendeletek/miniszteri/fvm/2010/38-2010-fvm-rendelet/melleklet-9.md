@@ -22,7 +22,7 @@
 
 | 10 | Tojás |
 
-9. melléklet a 38/2010. (IV. 15.) FVM rendelethez
+9. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^17]
 
 ## A tenyésztési programra vonatkozó meg nem felelés kiértékelésének alapelvei
 
@@ -46,36 +46,26 @@
 
 2. Az adott gondatlan meg nem felelés jogkövetkezményét az 1. pontban foglalt táblázat szerinti besorolásának megfelelően az egyes előírásokra vonatkozóan az alábbi kombinációk alkalmazásával kell meghatározni.
 
-|  | A | B | C |
+|  |  | A | B | C |
 
-| 1 | Súlyosság | Tartósság | A kifizetés csökkentésének mértéke |
+|  | 1. | Súlyosság | Tartósság | A kifizetés csökkentésének mértéke |
 
-| 2 | – | 1 | 5% |
+|  | 2. | 1 | 1 | 5% |
 
-| 3 | 1 | – |  |
+|  | 3. | 1 | 3 | 10% |
 
-| 4 | 1 | 1 |  |
+|  | 4. | 3 | 1 |
 
-| 5 | – | 3 | 10% |
+|  | 5. | 3 | 3 |
 
-| 6 | 3 | – |  |
+|  | 6. | 1 | 5 |
 
-| 7 | 1 | 3 |  |
+|  | 7. | 5 | 1 |
 
-| 8 | 3 | 1 |  |
+|  | 8. | 3 | 5 | 50% |
 
-| 9 | – | 5 | 25% |
+|  | 9. | 5 | 3 |
 
-| 10 | 5 | – |  |
+|  | 10. | 5 | 5 | 100% |
 
-| 11 | 3 | 3 |  |
-
-| 12 | 1 | 5 |  |
-
-| 13 | 5 | 1 |  |
-
-| 14 | 3 | 5 | 50% |
-
-| 15 | 5 | 3 |  |
-
-| 16 | 5 | 5 | 100% |
+[^17]: A 9. melléklet a 74/2011. (VII. 29.) VM rendelet 9. §-a szerint módosított szöveg.

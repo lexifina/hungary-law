@@ -1,4 +1,4 @@
-## 13/A. §[^1] E rendelettel szabályozott támogatás esetén lehetséges a természetes személyek közötti eljárásbeli jogutódlás a támogatási döntés jogerőre emelkedése előtt.
+## 13/A. §[^4] E rendelettel szabályozott támogatás esetén lehetséges a természetes személyek közötti eljárásbeli jogutódlás a támogatási döntés jogerőre emelkedése előtt.
 
 ## 8. Kötelezettségátadásra vonatkozó szabályok
 
@@ -12,4 +12,7 @@
 
 (5) Ha a támogatásra jogosult a kötelezettségét átadja, akkor az aktuális állatállományon felül vállalt állatállomány-szaporulat támogatási jogosultsága megszűnik.
 
-[^1]: A 13/A. §-t a 21/2010. (X. 12.) VM rendelet 1. §-a iktatta be.
+(6)[^5] Kiesett, de még nem pótolt egyedekre vagy állományokra vonatkozó kötelezettséget átadni nem lehet.
+
+[^4]: A 13/A. §-t a 21/2010. (X. 12.) VM rendelet 1. §-a iktatta be.
+[^5]: A 14. § (6) bekezdését a 74/2011. (VII. 29.) VM rendelet 4. §-a iktatta be.

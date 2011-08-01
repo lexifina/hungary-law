@@ -94,4 +94,6 @@ lb) magyar lúd célprogram.
 
 (4) Ha az adott fajtán belüli nőivarú, törzskönyvezett nukleusz minősítésű állomány létszáma a kifizetési kérelmek alapján, az adott évben meghaladja a 2. mellékletben foglalt táblázat C oszlopában meghatározott létszámot, akkor az adott évben valamennyi nukleusz minősítésű egyed a fajtafenntartó minősítéshez kapcsolódó egyedenkénti támogatási összegre jogosult.
 
-(5) A (3) bekezdésben meghatározott fajtánkénti nőivarú állatlétszám nagyságának ellenőrzését – a tenyésztőszervezetek tenyésztési adatbázisainak felhasználásával – a tenyésztési hatóság központi szerve végzi, és a törzskönyvezett védett őshonos és veszélyeztetett mezőgazdasági állatfajtáknak az adott év január 1-jei fajtánkénti nőivarú állatlétszámának adatairól az adott év február 1-jéig – a támogatási időszak első évében június 15-ig – adatot szolgáltat a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) számára.
+(5)[^2] A (3) bekezdésben meghatározott fajtánkénti nőivarú állatlétszám nagyságának ellenőrzését – a tenyésztőszervezetek tenyésztési adatbázisainak felhasználásával – a tenyésztési hatóság végzi, és a törzskönyvezett védett őshonos és veszélyeztetett mezőgazdasági állatfajtáknak az adott év január 1-jei fajtánkénti nőivarú állatlétszámának adatairól az adott év február 1-jéig – 2010. évben június 15-ig – adatot szolgáltat a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) számára.
+
+[^2]: A 3. § (5) bekezdése a 74/2011. (VII. 29.) VM rendelet 2. §-ával megállapított szöveg.

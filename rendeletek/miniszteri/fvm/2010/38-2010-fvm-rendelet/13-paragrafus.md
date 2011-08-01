@@ -13,3 +13,7 @@
 (6) Az (5) bekezdésben foglaltaknak megfelelően bekövetkező állománynöveléssel érintett állatlétszám tekintetében a kötelezettségvállalás csak a támogatási időszak hátralévő időtartamára vonatkozik.
 
 (7) A kötelezettség átvállalásából, valamint a vásárlásból származó állománynövekedés nem vehető figyelembe a vállalt állatállomány-szaporulat teljesítéseként.
+
+(8)[^3] Azokra az egyedekre, baromfi esetén állományokra vonatkozóan, amelyekkel az állományt már csökkentették további kifizetést nem lehet igényelni.
+
+[^3]: A 13. § (8) bekezdését a 74/2011. (VII. 29.) VM rendelet 3. §-a iktatta be.

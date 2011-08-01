@@ -36,7 +36,7 @@
 
 16. tartási hely: a védett őshonos és veszélyeztetett mezőgazdasági állatfajták egyedeinek a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] 2. § 15. pontja szerinti tartási helye;
 
-17. támogatási időszak: 2010. január 1-jétől 2014. december 31-ig tartó időszak;
+17.[^1] támogatási időszak: a támogatási kérelem benyújtása évének január 1-étől számított 5 naptári év;
 
 18. támogatásra jogosult: az a kérelmező, aki a támogatási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik;
 
@@ -49,3 +49,5 @@
 22. törzskönyvezés: az állattenyésztésről szóló 1993. évi CXIV. törvény 3. § 27. pontjában meghatározott fogalom.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] szerint kell értelmezni.
+
+[^1]: A 2. § (1) bekezdés 17. pontja a 74/2011. (VII. 29.) VM rendelet 1. §-ával megállapított szöveg.

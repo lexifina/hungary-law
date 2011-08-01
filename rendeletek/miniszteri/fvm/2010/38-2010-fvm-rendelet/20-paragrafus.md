@@ -6,8 +6,10 @@
 
 (3) Az Irányító Hatóság közleményben teszi közzé célprogramonként azt a minimális pontszámot, amelytől támogatás nyújtható.
 
-(4) Az 5. melléklet szerint a célprogramba bevonni kívánt egyedek szempontja esetében többletpont az alapján kerül megállapításra, hogy az állattartó a tenyészeteiben 2010. január 1-jén tartott célprogrammal azonos állatfajta állatlétszámához viszonyítva mekkora állatlétszámot kíván az adott célprogramba bevinni.
+(4)[^12] Az 5. melléklet szerint a célprogramba bevonni kívánt egyedek szempontja esetében többletpont az alapján kerül megállapításra, hogy az állattartó a tenyészeteiben a támogatási kérelem benyújtásának évében január 1-jén tartott célprogrammal azonos állatfajta állatlétszámához viszonyítva mekkora állatlétszámot kíván az adott célprogramba bevinni.
 
 (5) Az 5. melléklet szerint a célprogramba bevonni kívánt nukleusz minősítésű egyedek szempontja esetében a többletpont az alapján kerül megállapításra, hogy – a 4. § (2) bekezdésben meghatározott igazolás alapján – az induló állatlétszám hány százaléka tartozik a támogatási kérelem évében nukleusz minősítésű egyedek közé.
 
 (6) A támogatási kérelemhez az (5) bekezdés szerinti többletpont beszámításához mellékelni kell a 4. § (2) bekezdésben meghatározott igazolást.
+
+[^12]: A 20. § (4) bekezdése a 74/2011. (VII. 29.) VM rendelet 7. §-ával megállapított szöveg.
