@@ -2,4 +2,6 @@
 
 (2) A Gyftv. 36. § (7) bekezdése szerinti, e rendeletben meghatározott engedménynek és az annak megállapításához figyelembe vett kutatási és fejlesztési ráfordítások összegének a Gyftv. 36. § (4) bekezdése szerinti befizetési kötelezettségre jutó arányos részét – saját ráfordítások és konszolidációba bevont érintett vállalkozás ráfordításai bontásban – a befizetésre kötelezett forgalomba hozatali engedély jogosultja a Gyftv. 37. § (4) bekezdésében meghatározott módon az állami adóhatóság felé benyújtott bevallásban szerepelteti. A kutatási és fejlesztési ráfordításoknál fel kell tüntetni, hogy azok melyik évben megkezdett üzleti évre vonatkoznak.
 
-(3) A Gyftv. 36. § (7) bekezdése szerinti, e rendeletben meghatározott engedménynek és az annak megállapításához figyelembe vett kutatási és fejlesztési ráfordítások összegének a Gyftv. 42. § (1)–(6) bekezdése szerinti befizetési kötelezettségre jutó arányos részét – saját ráfordítások és konszolidációba bevont érintett vállalkozás ráfordításai bontásban – a befizetésre kötelezett forgalomba hozatali engedély jogosultja a Gyftv. 42. § (8) bekezdésében meghatározott módon az állami adóhatóság felé benyújtott bevallásban szerepelteti. A kutatási és fejlesztési ráfordításoknál fel kell tüntetni, hogy azok melyik évben megkezdett üzleti évre vonatkoznak.
+(3)[^4]
+
+[^4]: A 3. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
