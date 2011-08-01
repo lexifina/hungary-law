@@ -1,8 +1,8 @@
-## 10–11. §[^10]
+## 10–11. §[^11]
 
 ## Az Európai Unió jogának való megfelelés
 
-## 12. §[^11] Ez a rendelet
+## 12. §[^12] Ez a rendelet
 
 1. a rádióberendezésekről és a távközlő végberendezésekről, valamint a megfelelőségük kölcsönös elismeréséről szóló 1999. március 9-i 1999/5/EK európai parlamenti és tanácsi irányelv 3. cikk (2) bekezdésének, 4. cikk (1) bekezdésének, 5. cikk (1) bekezdésének és 18. cikk (1)–(2) bekezdésének;
 
@@ -92,5 +92,5 @@
 
 való megfelelést szolgálja.
 
-[^10]: A 10–11. §-t a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 15. pontja hatályon kívül helyezte.
-[^11]: A 12. § a 34/2011. (VII. 4.) NFM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 10–11. §-t a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 15. pontja hatályon kívül helyezte.
+[^12]: A 12. § a 34/2011. (VII. 4.) NFM rendelet 1. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-8. § (1)[^9] E rendelet alkalmazásában:
+8. § (1)[^10] E rendelet alkalmazásában:
 
 1. állandóhelyű vezetéknélküli hozzáférési (FWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és amelyben a felhasználói állomások csak állandó telephelyűek lehetnek;
 
@@ -64,4 +64,4 @@ c) újabb rádióberendezésekkel létesített rádióállomások részére nem 
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat a Korm. rendelet szerint kell értelmezni.
 
-[^9]: A 8. § (1) bekezdése a 10/2009. (XI. 27.) MeHVM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 8. § (1) bekezdése a 10/2009. (XI. 27.) MeHVM rendelet 2. §-ával megállapított szöveg.
