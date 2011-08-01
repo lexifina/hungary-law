@@ -1,14 +1,16 @@
 10. § (1) Az európai üzemi tanács a közösségi szinten működő vállalkozások vagy vállalkozáscsoportok munkavállalóinak képviselőiből áll.
 
-(2) Az európai üzemi tanács legalább három és legfeljebb harminc tagból áll. Minden tagállamból, amelyben a közösségi szinten működő vállalkozásnak vagy vállalkozáscsoportnak telephelye vagy vállalkozása működik, egy munkavállalói képviselőt kell küldeni az európai üzemi tanácsba. Az európai üzemi tanács tagjának jelölésével egyidejűleg gondoskodni kell póttag jelöléséről is.
+(2) Az európai üzemi tanács tagjait az adott tagállamban alkalmazott munkavállalók számával arányosan kell meghatározni úgy, hogy az európai üzemi tanácsban minden tagállam számára az összes tagállamban alkalmazott munkavállalók számának minden tíz százaléka után egy helyet kell biztosítani. Az európai üzemi tanács tagjának jelölésével egyidejűleg gondoskodni kell póttag jelöléséről is.
 
-(3) Az (1) bekezdésben foglaltak figyelembevételével, azokból a tagállamokból, amelyekben a közösségi szinten működő vállalkozás vagy vállalkozáscsoport által foglalkoztatott munkavállalói létszám
+(3) Ha az adott tagállamban a közösségi szinten működő vállalkozás vagy vállalkozáscsoport által foglalkoztatott munkavállalói létszám
 
-a) legalább huszonöt százalékát foglalkoztatják, további kettő;
+a) legalább huszonöt, de kevesebb mint ötven százalékát foglalkoztatják, további egy,
 
-b) legalább ötven százalékát foglalkoztatják, további négy;
+b) legalább ötven százalékát, de kevesebb mint hetvenöt százalékát foglalkoztatják, további két,
 
-c) legalább hetvenöt százalékát foglalkoztatják, további hat munkavállalói képviselő küldhető az európai üzemi tanácsba.
+c) legalább hetvenöt százalékát foglalkoztatják, további három,
+
+munkavállalói képviselő küldhető a különleges tárgyaló testületbe a (2) bekezdés alapján meghatározható létszámon felül.
 
 (4) A közösségi szinten működő vállalkozás vagy vállalkozáscsoport belföldön lévő telephelyeinél vagy vállalkozásainál foglalkoztatott munkavállalók képviseletében az európai üzemi tanács tagjait
 

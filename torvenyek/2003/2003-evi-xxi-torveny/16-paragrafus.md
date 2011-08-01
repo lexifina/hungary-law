@@ -2,9 +2,15 @@
 
 (2) A központi vezetés és az európai üzemi tanács a jóhiszeműség és tisztesség követelményeinek megfelelően, együttműködve teljesíti feladatát a munkavállalók, valamint a közösségi szinten működő vállalkozás vagy vállalkozáscsoport kölcsönös érdekeinek figyelembevételével. Ez vonatkozik a központi vezetés és a munkavállalók képviselői között a munkavállalók tájékoztatására és a velük való konzultációra vonatkozó eljárásra is.
 
-(3) Az európai üzemi tanács hatásköre az (5) bekezdésben, valamint a 17. § (1) bekezdésében foglalt azon ügyekre terjed ki, amelyek a közösségi szinten működő vállalkozás, illetve vállalkozáscsoport egészét, vagy a különböző tagállamokban található legalább két telephelyét, illetve vállalkozását érintik.
+(3) A munkavállalók tájékoztatásának és a velük való konzultációnak a megvitatott téma függvényében a megfelelő vezetési és képviseleti szinten kell történnie. Az európai üzemi tanács hatásköre, tevékenységi köre, valamint a munkavállalók e törvény hatálya alá tartozó tájékoztatása és a velük való konzultáció kizárólag a transznacionális kérdésekre terjedhet ki.
 
-(4) Az 1. § (3) bekezdésének b)–d) pontjában foglalt közösségi szinten működő vállalkozás, illetve vállalkozáscsoport esetén az európai üzemi tanács hatásköre az (5) bekezdésben, valamint a 17. § (1) bekezdésében foglalt azon ügyekre terjed ki, amelyek a közösségi szinten működő vállalkozás, illetve vállalkozáscsoport egészét, vagy legalább két, különböző tagállamban található telephelyüket, illetve vállalkozásukat érintik.
+(4) Transznacionálisnak tekintendő minden olyan kérdés, amely
+
+a) a közösségi szinten működő vállalkozás vagy közösségi szinten működő vállalkozáscsoport egészét, vagy
+
+b) a közösségi szinten működő vállalkozás vagy közösségi szinten működő vállalkozáscsoport két különböző tagállamban található legalább két telephelyét vagy vállalkozáscsoportjához tartozó vállalkozását
+
+érinti. Transznacionálisnak tekinthető az a kérdés is, amely az érintett tagországok számától függetlenül a közösségi munkavállalókra gyakorolt lehetséges hatása szempontjából jelentős, illetve amely a tevékenységek tagállamok közötti átruházásával jár. Valamely kérdés transznacionális jellegének meghatározásakor figyelemmel kell lenni a kérdés lehetséges hatásaira, és a kérdés által érintett vezetési és képviseleti szintre.
 
 (5) A közösségi szinten működő vállalkozás vagy vállalkozáscsoport gazdasági helyzetéről és annak várható alakulásáról történő tájékoztatás és konzultáció tárgykörébe tartoznak különösen
 
@@ -14,7 +20,7 @@ b) az üzleti tevékenység, a termelés (szolgáltatás), valamint az értékes
 
 c) a foglalkoztatási helyzet és annak várható alakulása;
 
-d) a befektetések, illetve a befektetési programok;
+d) a befektetések, illetve a befektetési programok helyzete és annak várható fejlődési iránya;
 
 e) a szervezetet érintő lényeges változások;
 
@@ -24,6 +30,6 @@ g) vállalkozások, telephelyek vagy a működés szempontjából lényeges üze
 
 h) vállalkozások vagy telephelyek összevonása vagy szétválása;
 
-i) vállalkozások, telephelyek vagy a működés szempontjából lényeges üzem-, illetve üzletrészek tevékenységének csökkentése vagy megszüntetése;
+i) vállalkozások, telephelyek vagy a működés szempontjából lényeges üzem-, illetve üzletrészek tevékenységének csökkentése, leépítése, bezárása vagy megszüntetése;
 
 j) a csoportos létszámcsökkentés.

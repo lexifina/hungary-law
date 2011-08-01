@@ -1,0 +1,1 @@
+21/A. § A konzultációnak lehetővé kell tennie a munkavállalók képviselői számára, hogy tárgyalhassanak a központi vezetéssel, valamint írásban, indoklással ellátott választ kaphassanak bármely általuk kibocsátott véleményre és észrevételre.
