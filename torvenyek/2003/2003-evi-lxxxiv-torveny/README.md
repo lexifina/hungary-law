@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-84-00-00.11 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 2003-84-00-00.12 |
 | 2011-07-01 | 2011. évi LXXXI. törvény | 2003-84-00-00.13 |
+| 2011-08-01 | 2007. évi LXXII. törvény | 2003-84-00-00.14 |
