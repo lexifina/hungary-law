@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2011-01-01 | 2010. évi CLVIII. törvény | 1997-155-00-00.28 |
 | 2011-04-21 | 2011. évi XLI. törvény | 1997-155-00-00.29 |
 | 2011-07-01 | 2010. évi CLVIII. törvény | 1997-155-00-00.30 |
+| 2011-08-01 | 2011. évi CV. törvény | 1997-155-00-00.31 |

@@ -6,7 +6,7 @@ a) e törvény II. fejezetének végrehajtására, valamint a megjelenésükben 
 
 b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 
-c) az ingatlanok időben megosztott használati jogának megszerzésére irányuló szerződésekre, valamint az ezzel összefüggő reklámra,
+c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
 
 d) az üzleten kívül fogyasztóval kötött szerződésekre,
 
