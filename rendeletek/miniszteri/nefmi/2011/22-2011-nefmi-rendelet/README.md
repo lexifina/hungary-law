@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-22-20-2
 | --- | --- | --- |
 | 2011-05-13 | 2011-22-20-2V.1 | 22/2011. (V. 12.) NEFMI rendelet |
 | 2011-05-14 | 2011-22-20-2V.2 | 2010: CXXX. törvény |
+| 2011-08-01 | 2011-22-20-2V.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
