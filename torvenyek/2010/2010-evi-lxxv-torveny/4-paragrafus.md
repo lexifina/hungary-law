@@ -18,7 +18,7 @@ g) a munkaidőre vonatkozó szabályai közül a 117/A. §-át,
 
 h) a vasárnap történő munkavégzésre vonatkozó 124. § (1) bekezdését,
 
-i) a szabadság kiadására vonatkozó 134. §-át,
+i)
 
 j) a foglalkoztatási kötelezettségnek a munkavállaló más munkáltatónál történő munkavégzéssel való teljesítésére vonatkozó 150. §-át,
 
@@ -32,7 +32,9 @@ n) a munkaerő-kölcsönzésre vonatkozó XI. fejezetét, valamint
 
 o) a közigazgatási szerveknél foglalkoztatott munkavállalókra vonatkozó eltérő rendelkezésekről szóló XII. fejezetét.
 
-(3) Alkalmi munkára létesített egyszerűsített foglalkoztatás esetén a (2) bekezdésben foglaltakon túlmenően
+(3) Egyszerűsített foglalkoztatás esetén nem kell alkalmazni az Mt-nek a szabadság kiadására vonatkozó 134. §-át.
+
+(4) Alkalmi munkára létesített egyszerűsített foglalkoztatás esetén a (2) bekezdésben foglaltakon túlmenően
 
 a) nem kell alkalmazni az Mt. betegszabadságra, egyéb munkaidő-kedvezményekre vonatkozó 137–140. §-át,
 
@@ -40,4 +42,6 @@ b) a munkaidő-beosztás az Mt. 119. §-ától eltérően az egybefüggő munkav
 
 c) a munkáltató munkaidőkeret hiányában is elrendelhet az Mt. 120. §-a szerint egyenlőtlen munkaidő-beosztást,
 
-d) nem kell alkalmazni az Mt. 97–99. §-ában rögzített, a munkaviszony megszűnése esetén a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására vonatkozó előírásokat.
+d) nem kell alkalmazni az Mt. 97-99. §-ában rögzített, a munkaviszony megszűnése esetén a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására vonatkozó előírásokat,
+
+e) amennyiben a felek írásban kötöttek munkaszerződést, nem kell alkalmazni az Mt. 140/A. §-ában foglalt munkaidő-nyilvántartásra, valamint az Mt. 160. §-ában foglalt munkabérről szóló írásbeli elszámolásról szóló rendelkezéseket.

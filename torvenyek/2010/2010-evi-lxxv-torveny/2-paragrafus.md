@@ -1,6 +1,6 @@
 2. § E törvény alkalmazásában:
 
-1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati ágazatba tartozó olyan munkavégzés, amely az előállított áru vagy a nyújtott szolgáltatás természete miatt – a munkaszervezés körülményeitől függetlenül – évszakhoz, az év adott valamely időszakához vagy időpontjához kötődik, illetve a megtermelt mezőgazdasági termékeknek a munkáltató saját gazdasága területén történő anyagmozgatása, csomagolása, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
+1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével – feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
 
 2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
 
@@ -18,4 +18,6 @@ létesített, határozott időre szóló munkaviszony,
 
 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
 
-6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+
+7. idénymunka: az Mt. 117. § (1) bekezdés j) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
