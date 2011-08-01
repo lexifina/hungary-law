@@ -2,7 +2,7 @@
 
 (2)
 
-(3) Az állami foglalkoztatási szerv irányításában a munkaadók, a munkavállalók, valamint — a helyi szervek tekintetében — a helyi önkormányzatok is közreműködnek.
+(3)
 
 (4) Az állami foglalkoztatási szerv tevékenységét humánszolgáltatásként, a munkanélküliség lélektani és társadalmi összefüggéseinek figyelembevételével végzi.
 

@@ -12,7 +12,7 @@ b) figyelemmel kíséri a helyi foglalkoztatási viszonyok alakulását,
 
 c) döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai következményeit,
 
-d) részt vesz a helyi foglalkoztatási érdekegyeztetésben,
+d)
 
 e) az állami foglalkoztatási szerv működési feltételeihez és fejlesztéséhez támogatást nyújt.
 

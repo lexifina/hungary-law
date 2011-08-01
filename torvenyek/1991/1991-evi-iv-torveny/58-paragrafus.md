@@ -48,7 +48,7 @@ e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével 
 
 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
 
-f)
+f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 
 g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 
@@ -112,9 +112,11 @@ e)
 
 f)
 
-g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerő-piaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért, valamint a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
+g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerőpiaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
 
 szabályait.
+
+(8a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait.
 
 (9) A 39. § (3) bekezdés a) pontja szerinti kiegészítő segélyre az 1999. évben munkanélküli járadékban részesülők a járadék folyósításával megegyező időtartamra, de legfeljebb 1999. december 31-ig jogosultak. A kiegészítő segély egy napra járó összege 33 forint. A kiegészítő segélyt a munkanélküli járadékkal együtt – a segély megállapítására irányuló külön határozat nélkül – kell kifizetni. A kiegészítő segélyt a személyi jövedelemadóról szóló, 1998. évi LXV. törvénnyel módosított 1995. évi CXVII. törvény 1. számú mellékletének 1.3. pontjában meghatározott állami szociális rendszer keretében nyújtott szociális segélynek kell tekinteni.
 
