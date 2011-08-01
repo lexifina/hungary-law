@@ -6,7 +6,7 @@ b) az arcképmás;
 
 c) az úti okmány azonosító adatai;
 
-d) a tartózkodás célja és tervezett időtartama;
+d) a tartózkodás célja és tervezett időtartama, a korábbi szokásos tartózkodási hely szerinti országa.
 
 e) a beutazásához és tartózkodásához szükséges feltételeket igazoló okiratokban szereplő adatok;
 
@@ -14,7 +14,7 @@ f) a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem 
 
 g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
 
-h) az első beutazás és az utolsó kiutazás időpontja;
+h) az első beutazás és az utolsó kiutazás időpontja, a következő szokásos tartózkodási hely szerinti országa.
 
 i) a szálláshely címe;
 

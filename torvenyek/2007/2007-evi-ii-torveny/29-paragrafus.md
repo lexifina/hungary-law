@@ -8,7 +8,9 @@ c) azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól
 
 d) azt a harmadik országbeli állampolgárt, aki a Magyar Köztársaság területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
 
-e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik.
+e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a rendvédelmi és nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
+
+f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
 
@@ -16,7 +18,9 @@ a) az (1) bekezdés a) pontjában foglalt esetben három év, amely alkalmankén
 
 b) az (1) bekezdés b) és d) pontjaiban foglalt esetekben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
 
-c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható.
+c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
+
+d) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig.
 
 (3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
 

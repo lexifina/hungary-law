@@ -6,7 +6,7 @@ b) a beutazási és tartózkodási tilalom időtartamát,
 
 c) annak az államnak a megnevezését, ahová a kiutasítás végrehajtása történik,
 
-d) az Európai Unió tagállamainak területéről történő önkéntes távozás teljesítésének határnapját,
+d) az Európai Unió tagállamainak – e törvényben meghatározott esetben az ország – területéről történő önkéntes távozás teljesítésének határnapját,
 
 e) figyelmeztetést arra, hogy ha a harmadik országbeli állampolgár a kiutasításnak önként nem tesz eleget, az idegenrendészeti hatóság kitoloncolja, és
 
@@ -16,4 +16,4 @@ f) az arcképmás készítésének, valamint az ujjnyomat rögzítésének tűr�
 
 (3)
 
-(4) A jogerős kiutasítást, valamint a beutazási és tartózkodási tilalom időtartamát az útlevélbe be kell jegyezni. A bejegyzéstől el lehet tekinteni, amennyiben a külföldi önkéntes hazatérési program keretében hagyja el az országot.
+(4) A jogerős kiutasítást, valamint a beutazási és tartózkodási tilalom időtartamát az útlevélbe be kell jegyezni. A bejegyzéstől el kell tekinteni, amennyiben a harmadik országbeli állampolgár az Európai Unió más tagállama által kiadott érvényes tartózkodási engedéllyel rendelkezik. A bejegyzéstől el lehet tekinteni, amennyiben a külföldi vállalja az ország önkéntes elhagyását vagy önkéntes hazatérési program keretében hagyja el az országot.

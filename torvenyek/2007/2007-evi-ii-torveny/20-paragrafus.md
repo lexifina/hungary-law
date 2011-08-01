@@ -1,6 +1,6 @@
 20. § (1) Keresőtevékenység folytatása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, akinek tartózkodási célja, hogy
 
-a) jogszabályban meghatározott foglalkoztatási jogviszonya alapján, ellenérték fejében, más részére és vele alá-fölérendeltségi kapcsolatban munkát végezzen;
+a) a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen;
 
 b) jogszabály szerint önállóan, ellenérték fejében végezhető tevékenységet folytasson;
 
@@ -12,13 +12,11 @@ a) szezonális munkavállalási vízummal, vagy
 
 b) humanitárius célból kiadott tartózkodási engedéllyel rendelkezik, továbbá az, aki
 
-c) keresőtevékenység folytatása céljából,
+c) keresőtevékenység folytatása céljából, családegyesítés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, vagy
 
-d) családegyesítés céljából,
+d) EU Kék Kártyával
 
-e) tanulmányi célból kiadott
-
-tartózkodási engedéllyel rendelkezik.
+rendelkezik.
 
 (3) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
 

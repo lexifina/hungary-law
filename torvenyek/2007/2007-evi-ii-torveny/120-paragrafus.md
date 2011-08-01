@@ -32,7 +32,11 @@ n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísér�
 
 o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
 
-p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv.
+p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv;
+
+q) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről
+
+r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról.
 
 (2) E törvény
 
@@ -43,5 +47,7 @@ b) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
 
 d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
+
+e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

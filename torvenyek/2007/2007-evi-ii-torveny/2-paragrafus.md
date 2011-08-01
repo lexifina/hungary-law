@@ -28,10 +28,20 @@ i) visszafogadási egyezmény: személyeknek az államhatáron történő átad�
 
 j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 
-k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely a harmadik országbeli állampolgárt foglalkoztatja;
+k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/C. § b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 
 l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 
 m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
 
-n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet.
+n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet;
+
+o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
+
+p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
+
+q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés, amely a munkaszerződésben vagy a kötelező érvényű állásajánlatban meghatározott szakma vagy ágazat szempontjából szükséges felsőfokú végzettséghez kapcsolódó szakképzettséggel egyenértékű;
+
+r) EU Kék Kártya: olyan engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban foglalt feltételek szerinti munkavállalásra jogosítja;
+
+s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek – a nemi vagy egyéb alapú megkülönböztetésből származó feltételeket is beleértve –, amelyek feltűnően aránytalanul eltérnek a legálisan foglalkoztatott munkavállalók foglalkoztatási feltételeitől, amely eltérés különösen a munkavállalók egészségét és biztonságát érinti, és sérti az emberi méltóságot.

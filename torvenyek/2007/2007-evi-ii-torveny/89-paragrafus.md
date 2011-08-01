@@ -12,4 +12,4 @@ c) az őrizet meghosszabbítása tárgyában hozott bírósági határozatot.
 
 (4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel – a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
 
-(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni.
+(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni. A 43. § (1) bekezdés a)–b) pontja alapján önálló beutazási és tartózkodási tilalmat elrendelő határozatot a közzététel napján közöltnek kell tekinteni.

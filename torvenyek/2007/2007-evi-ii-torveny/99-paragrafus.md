@@ -12,7 +12,7 @@ e) az engedélyek kiadása iránti kérelem elutasításának vagy visszavonás�
 
 f) a kiadott (meghosszabbított) engedélyek száma, sorozatszáma, érvényességi ideje;
 
-g) az első beutazás és a végleges kiutazás időpontja;
+g) az első beutazás és a végleges kiutazás időpontja, korábbi szokásos tartózkodási hely szerinti országát, a következő szokásos tartózkodási hely szerinti országa.
 
 h) a lakcím;
 

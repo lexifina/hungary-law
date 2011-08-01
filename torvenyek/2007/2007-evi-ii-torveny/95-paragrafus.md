@@ -8,7 +8,7 @@ b) az arcképmás;
 
 c) az úti okmány azonosító adatai;
 
-d) a beutazás célja és a tartózkodás tervezett időtartama;
+d) a beutazás célja és a tartózkodás tervezett időtartama, korábbi szokásos tartózkodási hely szerinti országa;
 
 e) a beutazásához és tartózkodásához szükséges feltételeket igazoló okiratokban szereplő adatok;
 
@@ -16,7 +16,7 @@ f) a vízum kiadása vagy meghosszabbítása iránti kérelem elutasításának,
 
 g) a kiadott (meghosszabbított) vízum száma, érvényességi ideje, valamint a területi érvényességére vonatkozó adat;
 
-h) a be- és kiutazás ideje, a határátlépés helye;
+h) a be- és kiutazás ideje, a határátlépés helye, következő szokásos tartózkodási hely szerinti országa;
 
 i) a szálláshely címe.
 

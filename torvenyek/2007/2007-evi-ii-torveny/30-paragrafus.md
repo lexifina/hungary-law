@@ -20,7 +20,9 @@ h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendé
 
 i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
-j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
+j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
+
+k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően a Magyar Köztársaság területére visszatért a munkanélküliség időtartamára.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
 
@@ -30,7 +32,9 @@ b) az (1) bekezdés d) pontjában foglalt esetben a szülő tartózkodásának i
 
 c) az (1) bekezdés e) pontjában foglalt esetben egy hónap, amely nem hosszabbítható meg;
 
-d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható.
+d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható;
+
+e) az (1) bekezdés k) pontjában foglalt esetben három hónap, amely nem hosszabbítható meg.
 
 (3) Az (1) bekezdés a) pont alapján ideiglenes tartózkodásra jogosító igazolással ellátott harmadik országbeli állampolgár keresőtevékenységet akkor folytathat, ha keresőtevékenység folytatására jogosító tartózkodási engedély birtokában keresőtevékenység folytatására jogosító tartózkodási engedély iránti kérelmet nyújtott be.
 

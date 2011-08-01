@@ -20,9 +20,11 @@ bd) letelepedési engedéllyel,
 
 be) ideiglenes letelepedési engedéllyel,
 
-bf) nemzeti letelepedési engedéllyel vagy
+bf) nemzeti letelepedési engedéllyel,
 
-bg) EK letelepedési engedéllyel;
+bg) EK letelepedési engedéllyel, vagy
+
+bh) EU Kék Kártyával;
 
 c) rendelkezik a vissza- vagy továbbutazáshoz szükséges engedéllyel;
 

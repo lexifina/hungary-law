@@ -6,7 +6,7 @@ a) az idegenrendészeti eljárás során, valamint a szálláshely, illetve a la
 
 b) a vízumkiadó hatóságok idegenrendészeti feladatát, hatáskörét és illetékességét, a vízumeljárás részletes szabályait, a vízummentes beutazásra és tartózkodásra jogosító okmányok körét, valamint a vízumok kötelező formáját;
 
-c) a tartózkodási engedély, az ideiglenes tartózkodásra jogosító igazolás, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély és az EK letelepedési engedély kiállításának feltételeit és az okmányok formáját;
+c) a tartózkodási engedély, az ideiglenes tartózkodásra jogosító igazolás, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, az EK letelepedési engedély és az EU Kék Kártya kiállításának feltételeit és az okmányok formáját;
 
 d) az érvényes úti okmányok körét;
 
