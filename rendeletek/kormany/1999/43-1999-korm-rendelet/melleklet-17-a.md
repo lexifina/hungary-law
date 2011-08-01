@@ -1,4 +1,4 @@
-17/A. melléklet a 43/1999. (III. 3.) Korm. rendelethez[^432]
+17/A. melléklet a 43/1999. (III. 3.) Korm. rendelethez[^451]
 
 ## A tételes elszámolású gyógyszerek jelentésének adattartalma
 
@@ -48,4 +48,4 @@ Dátum: ............ év .......................... hó ....... nap
 
 szolgáltató
 
-[^432]: A 17/A. mellékletet a 364/2007. (XII. 23.) Korm. rendelet 16. § (18) bekezdése iktatta be, szövege a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének j) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^451]: A 17/A. mellékletet a 364/2007. (XII. 23.) Korm. rendelet 16. § (18) bekezdése iktatta be, szövege a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének j) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.

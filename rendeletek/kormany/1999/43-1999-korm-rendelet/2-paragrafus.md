@@ -32,6 +32,8 @@ n)[^14] szolgáltatásvolumen: önálló elszámolási tételként elszámolhat�
 
 o)[^15] teljesítményvolumen: önálló elszámolási tételként elszámolható, külön jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége.
 
+p)[^16] feladatváltozás: egészségügyi államigazgatási szerv döntése vagy egészségügyi ellátási szerződés, illetve megállapodás alapján az érintett egészségügyi szolgáltatók ellátási területének, vagy a finanszírozási szerződésben lekötött kapacitás mértékének és szakmai összetételének megfelelő szakellátási feladataiknak a változása.
+
 [^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § c) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
@@ -46,3 +48,4 @@ o)[^15] teljesítményvolumen: önálló elszámolási tételként elszámolhat�
 [^13]: A 2. § m) pontját a 193/2008. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 2. § n) pontját az 58/2009. (III. 18.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 2. § o) pontját az 58/2009. (III. 18.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 2. § p) pontját a 139/2011. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
