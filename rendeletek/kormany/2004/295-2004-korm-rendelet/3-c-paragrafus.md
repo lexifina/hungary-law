@@ -1,3 +1,3 @@
-## 3/B. §[^23] A Kormány a Hivatalt jelöli ki a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként az Eütv. 234. §-a és 234/A. §-a szerinti szakértői tevékenység tekintetében.
+## 3/B. §[^26] A Kormány a Hivatalt jelöli ki a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként az Eütv. 234. §-a és 234/A. §-a szerinti szakértői tevékenység tekintetében.
 
-[^23]: A 3/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 382. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 3/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 382. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
