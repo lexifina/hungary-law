@@ -26,4 +26,4 @@ f) gyógytestnevelő munkakörhöz gyógytestnevelő tanár végzettség és sza
 
 (7)[^1] A pedagógiai szakszolgálat feladatait ellátó intézményekben foglalkoztatottak létszámát az 1. számú melléklet tartalmazza.
 
-[^1]: A 2. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^1]: A 2. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

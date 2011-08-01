@@ -22,4 +22,4 @@ e) a kijelölt nevelési-oktatási intézmény vezetője kezdeményezte, ha a gy
 
 (5) A jegyző az eljárása megindításáról értesíti a szakértői és rehabilitációs bizottságot. A jegyző határozata egy példányát megküldi a szülőnek, az érintett nevelési-oktatási intézménynek, a szakértői és rehabilitációs bizottságnak.
 
-[^21]: A 33. § (2) bekezdés d) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^21]: A 33. § (2) bekezdés d) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

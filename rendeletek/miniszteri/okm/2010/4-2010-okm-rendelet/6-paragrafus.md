@@ -4,4 +4,4 @@
 
 (3) Ha a közoktatási intézmény több, különböző pedagógiai szakszolgálat feladatait látja el, az ügyiratokból ki kell derülnie, melyik feladatkörében jár el, a kötelezően foglalkoztatottak létszámát, valamint a kötelező (minimális) eszközöket, felszereléseket pedig pedagógiai szakszolgálatonként kell meghatározni. A szolgáltatás egészséges és biztonságos feltételeinek megtartása mellett a kötelező (minimális) eszközök, felszerelések több szakszolgálat megszervezésénél is figyelembe vehetők, a helyiségek a különböző szakszolgálati feladatok ellátására közösen is használhatóak. Többcélú közoktatási intézmény esetén minden egyes szakszolgálati feladat, több feladat ellátására létrehozott egységes pedagógiai szakszolgálatot ellátó intézményegység esetén az intézményegység tekintetében biztosítani kell az állandó saját alkalmazotti létszámot.
 
-[^2]: A 6. § (1) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^2]: A 6. § (1) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

@@ -23,6 +23,6 @@ b)[^5] halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdem
 (7)[^6] A tanulási képességet vizsgáló szakértői és rehabilitációs bizottság eljárását kezdeményező kérelem-nyomtatvány tartalmazza az Oktatási Hivatal megkeresését szakszolgálati-esélyegyenlőségi szakértő biztosítására abban az esetben, ha a gyermek, tanuló halmozottan hátrányos helyzetű. A megkeresést a szülő kérésére törölni kell.
 
 [^3]: A 10. § (3) bekezdés a) pontja a 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^4]: A 10. § (3) bekezdés c) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
-[^5]: A 10. § (4) bekezdés b) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
-[^6]: A 10. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^4]: A 10. § (3) bekezdés c) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
+[^5]: A 10. § (4) bekezdés b) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
+[^6]: A 10. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

@@ -6,4 +6,4 @@
 
 (4)[^16] Ha a szakértői és rehabilitációs bizottság szakértői véleménye szerint a gyermek, tanuló a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzd, az érintett gyermek, tanuló második hivatalból történő felülvizsgálatát az Oktatási Hivatal felkérésére a közoktatásról szóló törvény 101. §-a szerinti szakértőkből álló bizottság vagy a Szakmai Szolgáltató Intézmény végzi el.
 
-[^16]: A 18. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^16]: A 18. § (4) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

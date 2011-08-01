@@ -12,4 +12,4 @@
 
 (7)[^15] Ha a szakértői és rehabilitációs eljárásban szakszolgálati-esélyegyenlőségi szakértő vesz részt, a szakértő részt vehet a (5)–(6) bekezdés alapján szervezett megfigyelésen, illetve a szülővel történő egyeztetésen.
 
-[^15]: A 17. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^15]: A 17. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
