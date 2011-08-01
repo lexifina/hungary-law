@@ -8,4 +8,4 @@ ba) – az egészségügyért felelős miniszterrel egyetértésben – a magasa
 
 bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatványok tartalmát;
 
-c) a Kormány arra, hogy a 2. § c) és d) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg.
+c) a Kormány arra, hogy a 2. § c)–e) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg.
