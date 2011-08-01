@@ -52,7 +52,7 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 
 (10)[^53] Az OTH az átcsoportosítás tárgyában hozott döntéséhez véleményt kér a szakmai kollégiumtól, amennyiben az átcsoportosítással új szakma jönne létre.
 
-(11)[^54] Ha a Tv. 7. § (3) bekezdése szerinti átcsoportosítás a 12. § (1) bekezdése szerinti fejlesztés megvalósításához kapcsolódik, az OTH – az átcsoportosítás feltételeinek fennállása esetén – az átcsoportosításhoz előzetesen hozzájárul. Az előzetes hozzájárulásban – a kérelem alapján – meg kell határozni az átcsoportosítás végrehajtásának időpontját, valamint – ha szükséges – az egészségügyi szolgáltató módosítandó ellátási területét. Ebben az esetben a Tv. 7. § (7) bekezdésében foglaltakat azzal kell alkalmazni, hogy az OTH az előzetes hozzájárulásában foglaltakat is figyelembe véve dönt az átcsoportosítás engedélyezéséről.
+(11)[^54] Ha a Tv. 7. § (1)–(4) bekezdése szerinti átcsoportosítás a 12. § (1) bekezdése szerinti fejlesztés megvalósításához kapcsolódik, az OTH – az átcsoportosítás feltételeinek fennállása esetén – az átcsoportosításhoz előzetesen hozzájárul. Az előzetes hozzájárulásban – a kérelem alapján – meg kell határozni az átcsoportosítás végrehajtásának időpontját, valamint – ha szükséges – az egészségügyi szolgáltató módosítandó ellátási területét. Ebben az esetben a Tv. 7. § (7) bekezdésében foglaltakat azzal kell alkalmazni, hogy az OTH az előzetes hozzájárulásában foglaltakat is figyelembe véve dönt az átcsoportosítás engedélyezéséről.
 
 (12) Nem minősül a Tv. 7. §-a szerinti átcsoportosításnak, ha a 12–13. § szerinti, kapacitáscsökkentést is tartalmazó döntés egyébként átcsoportosítással jár.
 
@@ -70,5 +70,5 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 [^51]: A 8. § (9) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^52]: A 8. § (9a) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
 [^53]: A 8. § (10) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 9. pontja, a 73/2011. (IV. 29.) Korm. rendelet 7. § (5) bekezdése a) pontja szerint módosított szöveg.
-[^54]: A 8. § (11) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^54]: A 8. § (11) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (6) bekezdésével megállapított, a 139/2011. (VII. 21.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^55]: A 8. § (13) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (7) bekezdésével megállapított szöveg.
