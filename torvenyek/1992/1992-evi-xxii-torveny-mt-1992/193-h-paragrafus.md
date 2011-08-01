@@ -10,7 +10,7 @@ c) a munkavégzés jellegében vagy a munkakörben.
 
 (2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a munkavállaló és a kölcsönbeadó lényeges adatait is.
 
-(3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a munkavállalót írásban tájékoztatni
+(3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a kölcsönzött munkavállalót írásban tájékoztatni
 
 a) a munkavégzés helyéről,
 
@@ -34,13 +34,13 @@ j) arról, hogy a kölcsönbeadó kollektív szerződés hatálya alá tartozik-
 
 (4) A (3) bekezdés c), d), f) és h) pontjában, valamint a 76/A. § (1) bekezdésének b)–c) pontjában előírt tájékoztatás jogszabály, illetve a kölcsönbeadóra kiterjedő hatályú kollektív szerződés rendelkezésére történő hivatkozással is megadható.
 
-(5) A kölcsönbeadó megnevezésének, lényeges adatainak, továbbá a (3) bekezdésben meghatározott feltételek változásáról a kölcsönbeadó legkésőbb a változás hatálybalépését követő egy hónapon belül köteles írásban tájékoztatni a munkavállalót. Ettől eltérően a munkaviszonyra vonatkozó szabály módosítása esetén a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+(5) A kölcsönbeadó megnevezésének, lényeges adatainak, továbbá a (3) bekezdésben meghatározott feltételek változásáról a kölcsönbeadó legkésőbb a változás hatálybalépését követő egy hónapon belül köteles írásban tájékoztatni a kölcsönzött munkavállalót. Ettől eltérően a munkaviszonyra vonatkozó szabály módosítása esetén a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-(6) A (3) bekezdésben meghatározott kötelezettségen túlmenően, a kölcsönbeadó köteles – legkésőbb a munkavégzés tényleges megkezdése előtt – írásban tájékoztatni a munkavállalót az alábbiakról:
+(6) A (3) bekezdésben meghatározott kötelezettségen túlmenően, a kölcsönbeadó köteles – legkésőbb a munkavégzés tényleges megkezdése előtt – írásban tájékoztatni a kölcsönzött munkavállalót az alábbiakról:
 
 a) a kölcsönvevő neve, székhelye, telephelye, cégjegyzék száma, vagy ha ez utóbbi adat helyett jogszabály más nyilvántartási formát ír elő, ennek a száma;
 
-b) a kölcsönvevőnél mely szerv vagy személy gyakorolja a munkavállaló vonatkozásában a munkáltatói jogkört;
+b) a kölcsönvevőnél mely szerv vagy személy gyakorolja a kölcsönzött munkavállalót vonatkozásában a munkáltatói jogkört;
 
 c) a munkába járás, szállás és étkezés feltételei;
 
@@ -76,6 +76,6 @@ meghaladja.
 
 (12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
 
-(13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
+(13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a kölcsönzött munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
 
 (14) A (9)–(11) bekezdésben foglaltaktól érvényesen eltérni nem lehet.

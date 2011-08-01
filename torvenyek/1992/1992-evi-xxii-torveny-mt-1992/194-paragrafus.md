@@ -1,13 +1,7 @@
-## NEGYEDIK RÉSZ
+## XII/A. Fejezet
 
-## A MUNKAÜGYI VITA
+## AZ ISKOLASZÖVETKEZET ÉS TAGJA KÖZÖTT FENNÁLLÓ MUNKAVISZONY SAJÁTOS SZABÁLYAI
 
-## I. Fejezet
+194. § (1) A szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: szövetkezeti törvény) 55. § (1) bekezdés e) pontjában foglaltak érdekében az iskolaszövetkezet és nappali tagozatos tanuló, hallgató tagja egymással munkaviszonyt létesíthet abból a célból is, hogy az iskolaszövetkezet által harmadik személy részére nyújtott szolgáltatás teljesítése érdekében a tag a harmadik személynél munkát végezzen. Ez a munkavégzés a szövetkezeti törvény szerinti személyes közreműködésnek minősül.
 
-## Kollektív munkaügyi vita
-
-194. § (1) A munkáltató és az üzemi tanács, illetőleg a munkáltató (a munkáltatói érdekképviseleti szervezet) és a szakszervezet között felmerült, jogvitának nem minősülő munkaviszonnyal összefüggő vitában (kollektív munkaügyi vita) az érintett felek között egyeztető tárgyalásnak van helye.
-
-(2) Az egyeztetés a tárgyalást kezdeményező fél írásba foglalt álláspontjának a másik fél részére történő átadásával indul.
-
-(3) Az egyeztetés időtartama alatt, de legfeljebb hét napig a vita alapjául szolgáló intézkedést végrehajtani nem lehet, továbbá a feleknek tartózkodni kell minden olyan cselekedettől, ami a megállapodást veszélyeztetheti.
+(2) Az (1) bekezdésben foglalt munkaviszony tekintetében e törvény szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.

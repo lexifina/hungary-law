@@ -1,6 +1,6 @@
 147. § (1) Rendkívüli munkavégzés esetén a munkavállalót rendes munkabérén felül a (2)–(4) bekezdés szerint ellenérték illeti meg.
 
-(2) A munkaidő-beosztás szerinti napi munkaidőt meghaladóan, illetve a munkaidőkereten felül végzett munka esetén a pótlék mértéke ötven százalék. Munkaviszonyra vonatkozó szabály vagy a felek megállapodása előírhatja, hogy ellenértékként – pótlék helyett – szabadidő jár, ami nem lehet kevesebb a végzett munka időtartamánál.
+(2) A munkaidő-beosztás szerinti napi munkaidőt meghaladóan, illetve a munkaidőkereten felül végzett munka esetén a pótlék mértéke ötven százalék. A munkáltató előírhatja, hogy ellenértékként – pótlék helyett – szabadidő jár, ami nem lehet kevesebb a végzett munka időtartamánál.
 
 (3) A munkaidő-beosztás szerinti pihenőnapon (pihenőidőben) végzett munka esetén a pótlék mértéke száz százalék. A pótlék mértéke ötven százalék, ha a munkavállaló másik pihenőnapot (pihenőidőt) kap.
 

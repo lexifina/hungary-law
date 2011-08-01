@@ -5,3 +5,5 @@
 (3) A vezetővel szemben a rendkívüli felmondás joga a 96. § (4) bekezdésében foglaltak szerint – legfeljebb azonban az ennek alapjául szolgáló ok bekövetkeztétől számított három éven belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig – gyakorolható.
 
 (4) Ha a munkáltató a vezető munkaviszonyát csőd- vagy felszámolási eljárás során szünteti meg, a munkaviszony megszüntetésekor járó díjazás szabályait azzal az eltéréssel kell alkalmazni, hogy a munkáltató legfeljebb hat havi átlagkeresetet köteles előre megfizetni. A vezető részére ezt meghaladóan járó díjazás a csőd- vagy felszámolási eljárás megszűnésekor, illetőleg a felszámolási zárómérleg, vagy a záró egyszerűsített mérleg jóváhagyása után válik esedékessé.
+
+(5) A (2) bekezdéstől eltérően a munkáltató köteles a vezető terhessége kezdetétől a szülési szabadsága végéig terjedő időszak alatt a rendes felmondását az általános szabályok szerint megindokolni.

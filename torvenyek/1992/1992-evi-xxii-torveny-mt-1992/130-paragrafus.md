@@ -8,7 +8,7 @@ a) a keresőképtelenséget okozó betegség tartamára;
 
 b) a szülési szabadság tartamára;
 
-c) a gyermek gondozása vagy ápolása miatt kapott fizetés nélküli szabadság [138. § (5) bekezdés] első évére;
+c) a gyermek gondozása vagy ápolása miatt kapott fizetés nélküli szabadság [138. § (5) bekezdés] első hat hónapjára;
 
 d) a harminc napot meg nem haladó fizetés nélküli szabadság tartamára;
 

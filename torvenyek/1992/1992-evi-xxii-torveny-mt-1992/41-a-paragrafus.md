@@ -1,4 +1,4 @@
-41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek a foglalkoztatáspolitikáért felelős miniszternek (a továbbiakban: miniszter) a megkötést követő 30 napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást teljesíteni (a továbbiakban együtt: bejelentési kötelezettség).
+41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek a miniszternek a megkötést követő harminc napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást elektronikus úton teljesíteni (a továbbiakban együtt: bejelentési kötelezettség) a Kormány hivatalos tájékoztató honlapján és a kormányzati portálon közzétett elektronikus adatlapon.
 
 (2) Az (1) bekezdésben foglaltak szerint a felek kötelesek továbbá bejelenteni a kollektív szerződés
 

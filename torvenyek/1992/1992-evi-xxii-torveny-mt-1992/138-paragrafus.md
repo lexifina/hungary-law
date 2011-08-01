@@ -22,4 +22,12 @@ b) a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyó
 
 c) a gyermek tizenkettedik életéve betöltéséig a gyermek betegsége esetén, az otthoni ápolás érdekében.
 
+(5a) Ha a munkavállaló az (5) bekezdés szerinti fizetés nélküli szabadságát meg kívánja szakítani, a megszakítási szándékát előzetesen közölnie kell a munkáltatóval. A munkáltató, ha a munkavállaló a fizetés nélkül szabadság kezdetétől számított
+
+a) hat hónap letelte előtt kíván munkába állni, a bejelentést követő legfeljebb harminc nap,
+
+b) hat hónap elteltével vagy azt követően kíván munkába állni, a bejelentést követő legfeljebb hatvan nap
+
+elteltével köteles foglalkoztatási kötelezettségének eleget tenni.
+
 (6) A nőnek a szoptatás első hat hónapjában naponta kétszer egy óra, ezt követően a kilencedik hónap végéig egy óra munkaidőkedvezmény jár. Ikrek esetében a munkaidőkedvezmény az ikrek számának megfelelő mértékben jár.

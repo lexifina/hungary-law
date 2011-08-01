@@ -1,4 +1,8 @@
-193/D. § (1) Kölcsönbeadó csak az a belföldi székhelyű, a tagok korlátolt felelőségével működő gazdasági társaság, vagy – a vele tagsági viszonyban nem álló munkavállaló vonatkozásában – szövetkezet lehet, amelyik megfelel az e törvényben, illetve az egyéb jogszabályban foglalt feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette.
+193/D. § (1) Kölcsönbeadó lehet
+
+a) az az EGT-államban székhellyel rendelkező vállalkozás, amely a rá irányadó jog szerint munkaerő-kölcsönzést folytathat, vagy
+
+b) az a belföldi székhelyű, a tagok korlátolt felelősségével működő gazdasági társaság vagy – a vele tagsági viszonyban nem álló munkavállaló vonatkozásában – szövetkezet, amelyik megfelel az e törvényben, illetve az egyéb jogszabályban foglalt feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette.
 
 (2) Tilos munkavállaló kölcsönzése:
 
@@ -15,3 +19,5 @@ c) ha a kölcsönvevőnél a munkavállaló munkaviszonya – a munkáltató mű
 (5) A kölcsönvevő a munkavállalót más munkáltatónál történő munkavégzésre nem kötelezheti.
 
 (6) Az (1)–(5) bekezdés rendelkezéseitől érvényesen eltérni nem lehet.
+
+(7) E § alkalmazásában EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes, Magyar Köztársaságon kívüli más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés és a szolgáltatásnyújtás tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.

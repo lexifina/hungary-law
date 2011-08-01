@@ -1,4 +1,4 @@
-198. § (1) Az egyeztetés során (194—195. §) létrejött megállapodás, illetve a döntőbíró döntése (196—197. §) kollektív szerződéses megállapodásnak minősül.
+198. § (1) Az egyeztetés során (194/G–195. §) létrejött megállapodás, illetve a döntőbíró döntése (196—197. §) kollektív szerződéses megállapodásnak minősül.
 
 (2) Az egyeztetés, valamint a döntőbíráskodás során — a felekkel egyetértésben — szakértőt, illetve tanút lehet igénybe venni.
 

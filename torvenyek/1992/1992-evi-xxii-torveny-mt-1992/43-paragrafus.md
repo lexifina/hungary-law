@@ -6,7 +6,7 @@
 
 (3) A munkáltató önálló telephelyén (részlegénél) csak akkor kell üzemi tanácsot, illetve üzemi megbízottat választani, ha a 65. §-ban meghatározott üzemi tanácsi jogosítványokkal kapcsolatos munkáltatói jogok az önálló telephely (részleg) vezetőjét részben vagy egészben megilletik.
 
-(4) Az üzemi tanácsot, illetve az üzemi megbízottat három évre választják.
+(4) Az üzemi tanácsot, illetve az üzemi megbízottat öt évre választják.
 
 (5) Az újonnan létrejövő munkáltatónál három hónapon belül kell az üzemi tanácsot, illetőleg az üzemi megbízottat megválasztani.
 

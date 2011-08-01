@@ -8,11 +8,11 @@
 
 a) kivételesen fontos gazdasági érdek, illetve a működési körét közvetlenül és súlyosan érintő ok esetén a szabadságot legkésőbb az esedékesség évét követő év március 31-ig, kollektív szerződés rendelkezése esetén az esedékesség évét követő év június 30-ig,
 
-b) a munkavállaló betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül
+b) a munkavállaló betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül, ha az akadályoztatás időtartama egybefüggően a 183 napot elérte vagy meghaladta, akkor az akadályoztatás megszűnésétől számított 183 napon belül
 
 adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen eltérni nem lehet.
 
-(4) A szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni.
+(4) A szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – ebben az esetben is megilleti a munkavállalót naptári évenként legalább egyszer legalább tizennégy összefüggő naptári nap távollétet biztosító szabadság.
 
 (5) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt egy hónappal közölni kell. Az időpontot a munkáltató csak rendkívül indokolt esetben változtathatja meg és a munkavállalónak ezzel összefüggésben felmerült kárát, illetve költségeit köteles megtéríteni.
 
@@ -22,7 +22,7 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 (8) A (7) bekezdés első mondatában foglaltaktól eltérni csak akkor lehet, ha az a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt – különösen baleset, elemi csapás vagy súlyos kár, továbbá az életet, egészséget, testi épséget fenyegető közvetlen és súlyos veszély megelőzése, illetőleg elhárítása érdekében – szükséges.
 
-(9) A (3) bekezdés a) pontja, illetve a (6) bekezdés alkalmazásakor kivételesen fontos gazdasági érdeken a rendes szabadság kiadásával kapcsolatos, munkaszervezéstől független olyan körülményt kell érteni, melynek felmerülése esetén a rendes szabadságnak az esedékesség évében teljes mértékben történő kiadása a munkáltató gazdálkodását meghatározó módon hátrányosan befolyásolná.
+(9) A (3) bekezdés a) pontja, a (4) bekezdés, illetve a (6) bekezdés alkalmazásakor kivételesen fontos gazdasági érdeken a rendes szabadság kiadásával kapcsolatos, munkaszervezéstől független olyan körülményt kell érteni, amelynek felmerülése esetén a rendes szabadságnak az esedékesség évében teljes mértékben történő kiadása a munkáltató gazdálkodását meghatározó módon hátrányosan befolyásolná.
 
 (10) A rendes szabadság esedékesség évében nem teljes mértékben történő kiadása esetén a munkáltató nem hivatkozhat a működési körét közvetlenül és súlyosan érintő ok, illetve a kivételesen fontos gazdasági érdek fennállására, ha az esedékesség évéből még fennmaradó időtartamban a rendes szabadságot – a (8) bekezdés szerinti, működési körét érintő ok következményei orvoslása mellett, illetve a (9) bekezdés szerinti gazdasági érdeke sérelme nélkül – kiadhatta volna.
 
