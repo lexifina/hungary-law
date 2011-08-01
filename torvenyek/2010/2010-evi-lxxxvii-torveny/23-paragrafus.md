@@ -1,3 +1,3 @@
 23. § (1) A Nemzeti Földalap vagyoni körébe tartozó földrészlet tekintetében a művelési ág megváltoztatást, más célú hasznosítást vagy a rendes gazdálkodás körét meghaladó beruházást végrehajtani kizárólag az NFA előzetes hozzájárulásával lehet.
 
-(2) A Nemzeti Földalapba tartozó védett természeti területek és értékek, erdők tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
+(2) A Nemzeti Földalapba tartozó védett természeti területek és a Natura 2000 területek vagyonkezelésbe adására, tulajdonjogának bármely jogcímen történő átruházására csak a természetvédelemért felelős miniszter egyetértése esetén kerülhet sor. A Nemzeti Földalapba tartozó erdők tulajdonjogának bármely jogcímen történő átruházására csak e vagyoni körre vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.

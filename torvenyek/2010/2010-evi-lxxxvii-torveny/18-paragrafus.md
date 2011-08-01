@@ -8,7 +8,9 @@ c) nyilvános pályázat útján történő vagyonkezelésbe adással,
 
 d) cserével
 
-hasznosítja [az a)–d) pontok a továbbiakban együtt: hasznosítás].
+hasznosítja.
+
+(1a) A termőföldről szóló törvény szerinti termőföld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
 (2) Az eladás, a haszonbérbe adás, és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni, valamint előnyben kell részesíteni az élethivatásszerűen mezőgazdasági tevékenységet folytató személyeket.
 

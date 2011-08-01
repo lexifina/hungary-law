@@ -12,4 +12,4 @@ d) állami vagyon hasznosítására irányuló korábbi – három évnél nem r
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
-(4) Az állami vagyon hasznosítására irányuló szerződést írásba kell foglalni.
+(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni.

@@ -6,7 +6,7 @@ b) javaslatot tesz a miniszternek az NFA elnökhelyettesének kinevezésére és
 
 c) az NFA alkalmazottai felett, valamint – a kinevezés és a felmentés kivételével – az NFA elnökhelyettesei felett gyakorolja a munkáltatói jogokat;
 
-d) a 8. § (1) bekezdés d)–f) pontjaiban foglaltak kivételével dönt – a Tanács javaslatának figyelembevételével – a Nemzeti Földalapba tartózó földrészletek hasznosításával kapcsolatos kérdésekben;
+d) a 8. § (1) bekezdés d)–f) és h) pontjaiban foglaltak kivételével dönt – a Tanács javaslatának figyelembevételével – a Nemzeti Földalapba tartózó földrészletek hasznosításával kapcsolatos kérdésekben;
 
 e) a d) pontban foglaltak kivételével dönt az NFA-t érintő kötelezettség-vállalásról;
 
@@ -18,9 +18,9 @@ h) kapcsolatot tart az ellenőrző bizottsággal;
 
 i) felelős a Tanács döntéseinek végrehajtásáért;
 
-j) felelős a Nemzeti Földalapba tartozó vagyonelemek naprakész nyilvántartásáért;
+j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvántartásáért;
 
-k) felelős a Nemzeti Földalapba tartozó vagyonelemek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
+k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
 
 l) meghatározza a rábízott földvagyon számviteli politikáját.
 

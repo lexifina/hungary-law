@@ -1,6 +1,6 @@
 ## A Nemzeti Földalapba tartozó földrészletek és azok hasznosítása
 
-15. § (1) A Nemzeti Földalap vagyoni körébe tartozik minden állami tulajdonú termőföld, mező-, erdőgazdasági művelés alatt álló belterületi föld, és a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett terület (a továbbiakban együtt: földrészlet).
+15. § (1)
 
 (2) A Nemzeti Földalapba tartozó földrészleteket a (3) bekezdésben foglalt földbirtok-politikai irányelvek szerint kell hasznosítani.
 

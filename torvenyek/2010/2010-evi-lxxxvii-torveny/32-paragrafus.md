@@ -10,4 +10,6 @@ c) a Nemzeti Földalapba tartozó földrészleteknek szociális földprogram meg
 
 d) a rábízott földvagyon és az ahhoz kapcsolódó bevételek és kiadások elszámolásának a szabályait, továbbá a rábízott földvagyon könyvvezetése és a beszámoló készítésének sajátosságait.
 
+e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
+
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az ellenőrző bizottság működési rendjének, valamint működési költségei megtérítésének a szabályait.

@@ -10,7 +10,7 @@ a) országgyűlési, európai parlamenti vagy helyi, kisebbségi önkormányzati
 
 b) a Nemzeti Földalap Ellenőrző Bizottságának (a továbbiakban: ellenőrző bizottság) tagja;
 
-c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó vagyonelemet érintően szerződéses viszonyban áll.
+c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
 (4) Az NFA elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
