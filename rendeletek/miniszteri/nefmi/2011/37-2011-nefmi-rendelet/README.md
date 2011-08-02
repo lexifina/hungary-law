@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2011-06-30 | 2011-37-20-2V.1 | 37/2011. (VI. 28.) NEFMI rendelet |
 | 2011-07-01 | 2011-37-20-2V.2 | 2010: CXXX. törvény |
 | 2011-08-01 | 2011-37-20-2V.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-08-02 | 2011-37-20-2V.4 | 2010: CXXX. törvény |

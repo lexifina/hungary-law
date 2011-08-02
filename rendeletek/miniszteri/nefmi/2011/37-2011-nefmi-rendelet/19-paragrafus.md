@@ -1,4 +1,4 @@
-## 18. §[^5]
+## 18. §[^8]
 
 ## 3. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rendelet 2015. január 2-án hatályát veszti.
 
-[^5]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
