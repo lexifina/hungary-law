@@ -1,1 +1,0 @@
-5. § A Tft. 3. §-ának j) pontjában a „nagyszülője;” szövegrész helyébe a „nagyszülője, testvére;”, a Tft. 21. §-ának (1) bekezdésében az „A termőföldre és tanyára az alábbi sorrendben” szövegrész helyébe az „A termőföld és tanya haszonbérbe adása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben” szöveg lép.
