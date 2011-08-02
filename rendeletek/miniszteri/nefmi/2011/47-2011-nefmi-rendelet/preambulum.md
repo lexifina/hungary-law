@@ -1,9 +1,0 @@
-A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (3) bekezdés c) pontjában kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
-
-a 9–10. § tekintetében a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (2) bekezdés i) pontjában kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
-
-a 11. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6) bekezdés a) pontjában kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva,
-
-a 12. § tekintetében a sportról szóló 2004. évi I. törvény 79. § (6) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § k) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –
-
-a következőket rendelem el:
