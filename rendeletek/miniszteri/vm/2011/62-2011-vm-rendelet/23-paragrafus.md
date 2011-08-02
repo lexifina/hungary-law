@@ -6,4 +6,6 @@
 
 (3) A 10. § 2013. augusztus 1-jén lép hatályba.
 
-(4) A kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 1. mellékletének A részében szereplő táblázat e rendelet 6. melléklete szerint módosul.
+(4)[^2]
+
+[^2]: A 23. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-2
 | 2011-07-02 | 2011-62-20-2Y.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-07-03 | 2011-62-20-2Y.3 | 2010: CXXX. törvény |
 | 2011-08-01 | 2011-62-20-2Y.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-08-02 | 2011-62-20-2Y.5 | 2010: CXXX. törvény |
