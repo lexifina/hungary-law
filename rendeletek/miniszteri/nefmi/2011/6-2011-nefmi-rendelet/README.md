@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-6-20-2V
 | --- | --- | --- |
 | 2011-03-09 | 2011-6-20-2V.1 | 6/2011. (III. 8.) NEFMI rendelet |
 | 2011-03-10 | 2011-6-20-2V.2 | 2010: CXXX. törvény |
+| 2011-08-02 | 2011-6-20-2V.3 | 2010: CXXX. törvény |
