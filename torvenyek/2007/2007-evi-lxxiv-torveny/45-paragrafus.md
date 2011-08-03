@@ -2,7 +2,7 @@
 
 45. § (1) A digitális átállás költségeit az elkülönített források felhasználásával kell fedezni. Ezek
 
-a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Mttv.-ben meghatározott forrása,
+a) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap Mttv.-ben meghatározott forrása,
 
 b) az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjának külön jogszabályban meghatározott mértéke,
 
@@ -18,6 +18,8 @@ a) digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhe
 
 b) a digitális műsorterjesztés vételére alkalmas készülékkel nem rendelkezők rászorultsági alapú, célhoz kötött támogatása a külön jogszabályban meghatározottak szerint; vagy
 
-c) egyéb, az 1014/2007. (III. 13.) Korm. határozat mellékletében (Digitális Átállás Stratégia) meghatározott célra.
+c) a digitális átállással kapcsolatos állami kommunikáció az (1) bekezdés a) pontjában meghatározott forrásból, pályázat útján; vagy
+
+d) egyéb, az 1014/2007. (III. 13.) Korm. határozat mellékletében (Digitális Átállás Stratégia) meghatározott célra.
 
 (3) A digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhez kapcsolódó jogosultságok pályáztatási költségeit a Műsorszolgáltatás támogató és Vagyonkezelő Alapból kell fedezni.

@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-74-00-00
 | 2010-08-11 | 2010. évi LXXXII. törvény | 2007-74-00-00.3 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 2007-74-00-00.4 |
 | 2011-01-01 | 2010. évi CLXXXV. törvény | 2007-74-00-00.5 |
+| 2011-08-03 | 2011. évi CVII. törvény | 2007-74-00-00.6 |

@@ -2,7 +2,7 @@
 
 a) a pályázati felhívásra nem érkezik pályázati ajánlat,
 
-b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, műsorterjesztési, műsorszolgáltatási iparági – körülmények, feltételek lényegesen megváltoznak,
+b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, műsorterjesztési, médiaszolgáltatási iparági – körülmények, feltételek lényegesen megváltoznak,
 
 c) az Elnök mérlegelése szerinti médiapolitikai szempontok, illetve az e törvényben vagy a pályázati kiírási dokumentációban rögzített alapelvek, célok a pályázati eljárás lefolytatásával nem biztosíthatóak, ideértve azt az esetet, ha az e törvény 43/A. § (1) bekezdése alapján a pályáztatást a digitális átállás üteme nem teszi lehetővé, vagy
 

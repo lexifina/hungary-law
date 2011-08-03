@@ -6,6 +6,14 @@
 
 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik;
 
+2/a. Digitális földfelszíni műsorterjesztés: olyan műsorterjesztés, amely magában foglalja
+
+a) a médiaszolgáltató által előállított egymással szinkronban lévő kép, valamennyi hang és adat jelek összességéből álló digitális rádió-, illetve audiovizuális médiaszolgáltatási jelnek a fizikai kapcsolódási ponton történő átvételét és eljuttatását a multiplex szolgáltatás rendszeréhez;
+
+b) a médiaszolgáltatási jelekből egyetlen szabványos digitális jelfolyam előállítását (multiplex szolgáltatás), és e jelfolyam eljuttatását a műsorszóró adókhoz (műsorszétosztás),
+
+c) e jelfolyam műsorszóró adók adott antennarendszereinek kimenő pontjáról a rádióengedélyekben foglalt paraméterekkel történő kisugárzását, amely kisugárzott jelnek olyan szintűnek és minőségűnek kell lennie, hogy az elektronikus hírközlésre vonatkozó szabályban rögzített vagy egyéb módon vállalt minőségi paraméterek szerinti elméleti lefedettséget biztosítsa.
+
 3. Digitális műsorszórás: olyan műsorszórás, amely során a televízió és rádió műsorjeleket valamely digitális műsorszórási szabvány szerint multiplexekbe rendezve továbbítják az előfizetőhöz, vagy felhasználóhoz;
 
 4. Digitális műsorszóró hálózat vagy műsorszóró adó: az elektronikus hírközlő berendezések és elektronikus hírközlési építmények összessége, amely digitális műsorszórásra a frekvenciasávok nemzeti felosztását megállapító jogszabályban műsorszórásra felosztott frekvenciákat használja;
@@ -24,9 +32,9 @@
 
 12. Feltételes hozzáférési rendszer üzemeltető: feltételes hozzáférési rendszert üzemeltető digitális műsorterjesztő, médiaszolgáltató vagy más személy, jogi személyiséggel nem rendelkező szervezet;
 
-13. Forgalomba hozatal: analóg televízió-vevőkészülék vagy digitális televízió-készülék visszterhes vagy ingyenes, első ízben történő belföldi rendelkezésre bocsátása, kereskedelmi értékesítése, beleértve a bérbeadást is;
+13. Forgalomba hozatal: a terméknek a közösségi piacon első alkalommal történő forgalmazása;
 
-14. Gyártó: az a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontja szerinti gazdálkodó szervezet, amely felel az analóg televízió-vevőkészülék vagy digitális televíziókészülék vagy ezzel összefüggő elektronikus hírközlő berendezés tervezéséért, gyártásáért, csomagolásáért, jelöléséért és forgalomba hozataláért, függetlenül attól, hogy ezeket a feladatokat saját maga vagy megbízásából más végzi. Ha a gyártó székhelye nem Magyarország területén van, a készülék importálója, belföldi forgalomba hozója tekintendő gyártónak;
+14. Gyártó: az a természetes vagy jogi személy, aki a terméket gyártja, vagy aki saját nevében vagy védjegye alatt a terméket tervezteti, gyártatja vagy forgalmazza;
 
 15. Helyi műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzetében éves átlagban legfeljebb százezer lakos vagy egy településen belül legfeljebb ötszázezer lakos él;
 
@@ -64,7 +72,7 @@
 
 32. Médiaszolgáltató: a 31. pont szerinti médiaszolgáltatást nyújtó;
 
-33. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is;
+33. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve audiovizuális műsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat (egyidejűleg több frekvenciát használó, több adóval működő hálózat) vagy műsorszóró adó (ugyanazon frekvenciát egyidejűleg, azonos módon használó egy vagy több adó) segítségével végzett műsorterjesztés is;
 
 34. Műsorterjesztés: a 2. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek;
 

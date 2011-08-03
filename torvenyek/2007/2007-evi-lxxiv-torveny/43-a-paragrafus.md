@@ -1,6 +1,6 @@
 ## A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás
 
-43/A. § (1) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultságokat a digitális átállás által lehetővé tett ütemben kell pályáztatni.
+43/A. § (1)
 
 (2) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárásokban (a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni az alábbi (43/A–43/K. §-ban foglalt) eltérésekkel.
 
