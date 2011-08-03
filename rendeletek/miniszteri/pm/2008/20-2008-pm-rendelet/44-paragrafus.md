@@ -1,3 +1,0 @@
-44. § (1) Az első fokú orvos szakértői bizottság által megállapított egészségkárosodás mértéke ellen a hivatásos állomány tagja az Elsőfokú FÜV Bizottság elnöke útján, az első fokú döntésben meghatározott fellebbezési időn belül, az ott megjelölt másodfokú orvos szakértői bizottsághoz fellebbezhet.
-
-(2) Az (1) bekezdés szerinti fellebbezés esetén a másodfokú jogerős döntés beérkezéséig a FÜV eljárást szüneteltetni kell, ha az alkalmasság e nélkül nem bírálható el. A hivatásos állomány tagja részére – ha azt egészségi állapota indokolja – erre az időszakra egészségügyi szabadságot kell engedélyezni.

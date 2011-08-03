@@ -1,1 +1,0 @@
-## Szolgálati lőfegyver ideiglenes bevonása
