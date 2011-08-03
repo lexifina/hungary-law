@@ -6,4 +6,4 @@
 
 a) módosítsa az Országos Atomenergia Bizottság feladatáról, hatásköréről, valamint az Országos Atomenergia Hivatal feladat- és hatásköréről, bírságolási jogköréről szóló 87/1997. (V. 28.) Korm. rendeletet;
 
-b) rendeletben szabályozza az egyezmény végrehajtásához szükséges eljárási és hatásköri szabályokat.
+b)

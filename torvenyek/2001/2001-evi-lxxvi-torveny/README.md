@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-76-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2001-11-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-76-00-00.1 |
+| 2011-08-03 | 2011. évi LXXXVII. törvény | 2001-76-00-00.2 |
