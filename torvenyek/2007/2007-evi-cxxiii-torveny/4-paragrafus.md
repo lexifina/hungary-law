@@ -26,7 +26,7 @@ eb) az ingatlan 50 MW vagy annál nagyobb teljesítményű távhőtermelő léte
 
 ec) nukleáris létesítmény, radioaktív hulladéktároló építéséhez, bővítéséhez szükséges,
 
-ed) a biztonsági övezetben elrendelt tilalom vagy korlátozás az ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza, továbbá ha az atomenergia alkalmazását szolgáló, a biztonsági övezetben telepítendő létesítmény biztonságos használata ezt szükségessé teszi;
+ed) a nukleáris létesítmény, radioaktívhulladék-tároló biztonsági övezetébe tartozó ingatlan tulajdonjogának megszerzése érdekében szükséges.
 
 f) energiaellátás céljából, ha
 
