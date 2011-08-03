@@ -2,11 +2,13 @@
 
 a) megfelel az e törvényben meghatározott feltételeknek, és
 
-b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett.
+b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és iskolai végzettségre vonatkozó követelményeket.
 
-(2) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
+(2) A fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
 
-(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal
+(3) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
+
+(4) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenötödik napon a hatósági szolgálati igazolványt határozattal
 
 a) visszavonja, ha
 
@@ -14,10 +16,12 @@ aa) a fegyveres biztonsági őr foglalkoztatási jogviszonya megszűnt,
 
 ab) a hatósági szolgálati igazolvány kiadásának feltételei megszűntek,
 
-ac) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
+ac) – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – a fegyveres biztonsági őr nem teljesíti a fizikai állóképességi követelményeket, vagy
+
+ad) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
 
 b) bevonja, ha a fegyveres biztonsági őrt a szolgálatellátás alól ideiglenesen felfüggesztették.
 
-(4) Ha a (3) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, a rendőrség a hatósági szolgálati igazolványt a jogosultnak visszaadja.
+(5) Ha a (4) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, a rendőrség a hatósági szolgálati igazolványt a jogosultnak visszaadja.
 
-(5) A rendőrség a hatósági szolgálati igazolvány visszavonásának vagy bevonásának a tényéről a kötelezettet vagy a fegyveres biztonsági őrséget működtető szervezetet haladéktalanul tájékoztatja.
+(6) A rendőrség a hatósági szolgálati igazolvány visszavonásának vagy bevonásának tényéről a kötelezettet vagy a fegyveres biztonsági őrséget működtető szervezetet haladéktalanul tájékoztatja.
