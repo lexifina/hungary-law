@@ -6,4 +6,4 @@ a) eljár a postai szolgáltatások bejelentésével, engedélyezésével, a jog
 
 b)
 
-(2) A hírközlési hatóságra, valamint annak az (1) bekezdésben felsorolt eljárásaira az elektronikus hírközlésről szóló 2003. évi C. törvény 9–10., 14–33., 35–53., 64. és 68., 69. §-ának, továbbá a 70. § (1), (2) és (4)–(9) bekezdésének, valamint 74. és 75. §-ának rendelkezéseit – az e törvényben foglalt eltérésekkel – kell megfelelően alkalmazni.
+(2) A hírközlési hatóságra, valamint annak az (1) bekezdésben felsorolt eljárásaira az elektronikus hírközlésről szóló 2003. évi C. törvény 10. §-ában, 14–49. § (1)–(5), és 49. § (7)–(11) bekezdéseiben, 51–54/A. §-aiban, valamint 57–61. §-aiban foglaltakat kell megfelelően alkalmazni.

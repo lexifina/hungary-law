@@ -30,7 +30,7 @@
 
 12. Igénybevevő: a feladó és a címzett, továbbá a postai készpénzátutalási tevékenység, a postai pénzforgalmi közvetítő tevékenység, illetve a postautalvány-szolgáltatás igénybevevője.
 
-13. Integrált posta: olyan postai szolgáltatás, amely a postai küldeménynek a feladó által is nyomon követhető kezelése és – a címzett ellenkező rendelkezése hiányában – személyes kézbesítése mellett kiegészül az igénybevevő választása esetén és választása szerint a következő postai különszolgáltatások legalább egyikével: a küldeménynek a feladó által megjelölt helyen történő felvétele; garantált kézbesítési idejű szolgáltatás; a címzett megváltoztatása esetén a küldemény új címre történő kézbesítése; a kézbesítés igazolása; személyre szabott szolgáltatás.
+13. Integrált posta: olyan postai szolgáltatás, amely a postai küldeménynek a feladó által is nyomon követhető kezelése és személyes kézbesítése mellett kiegészül az igénybe vevő választása esetén és választása szerint a következő postai különszolgáltatások legalább egyikével: a küldeménynek a feladó által megjelölt helyen történő felvétele; garantált kézbesítési idejű szolgáltatás; a címzett megváltoztatása esetén a küldemény új címre történő kézbesítése; a kézbesítés igazolása; személyre szabott szolgáltatás.
 
 14. Könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban elismeri és kézbesítését a címzett, illetve az egyéb jogosult átvevő aláírásával vagy más módon okirattal kimutatja.
 
@@ -103,3 +103,5 @@ b) címzett részére érkezett postai küldeményeket a címzettől kapott megh
 37. Veszélyeztetettségi időszak: a minősített időszak kihirdetését közvetlenül megelőző – annak várható bekövetkezését feltételező – állapot (helyzet), amely a kialakult veszélyeztetettségi körülmények alapján hátrányos hatást gyakorol az ország biztonságára, stabilitására, alkotmányos rendjére, a rend- és közbiztonságra, a lakosság élet- és vagyonbiztonságára, a természetes és épített környezetre, és ami miatt rendkívüli kormányzati intézkedések megtétele, gazdasági, pénzügyi erőforrások tervszerű megteremtése szükséges.
 
 38. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti fizetési rendszer működtetőjének nem minősülő szervezet.
+
+39. Nyomon követhető kezelés: a postai szolgáltató a postai küldemény egyedi azonosító jelzése alapján internetes honlapján lekérdezhető információként küldeményenként tájékoztatást ad a küldemény felvételének helyéről és dátumáról, a kézbesítésének dátumáról, az átvevő státuszáról, illetve sikertelen kézbesítési kísérlet esetén a küldemény további kezeléséről.

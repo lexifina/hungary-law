@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-101-00-00
 | 2011-01-01 | 2010. évi CLXXXV. törvény | 2003-101-00-00.16 |
 | 2011-04-30 | 2010. évi CLIX. törvény | 2003-101-00-00.17 |
 | 2011-07-20 | 2011. évi CVII. törvény | 2003-101-00-00.18 |
+| 2011-08-03 | 2011. évi CVII. törvény | 2003-101-00-00.19 |
