@@ -1,13 +1,23 @@
-## Őrzés és védelem
+## Nukleáris védettség
 
-30. § (1) Egyes nukleáris létesítmények, nukleáris anyagok, radioaktív anyagot előállító berendezések, továbbá radioaktív hulladék feldolgozására, átmeneti tárolására vagy végleges elhelyezésére szolgáló létesítmények őrzését az engedélyesnek – külön jogszabályban foglaltak szerint – fegyveres biztonsági őrséggel kell biztosítania.
+30. § (1) A nukleáris védettség biztosítja
 
-(2) A külön jogszabályban meghatározott – az (1) bekezdés szerinti – létesítmények és berendezések védelmével kapcsolatban a nemzetbiztonsági szolgálatok a feladataikat külön törvényi felhatalmazással látják el.
+a) a nukleáris és más radioaktív anyagok jogtalan eltulajdonításának, a Btk. szerinti visszaélés radioaktív anyaggal (264. §), a szabotázs, valamint a nukleáris vagy más radioaktív anyaggal való közveszélyokozás, környezetkárosítás elkövetésének megelőzését;
 
-(3) A rendőrség a feladatai ellátása során, a külön jogszabályban meghatározottak szerint ellenőrzi a közbiztonságra, a belső rendre vonatkozó rendelkezések megtartását, különösen a nukleáris létesítményeket, a radioaktív és nukleáris anyag, készítmény felhasználását, használatát, nyilvántartását, ezeknek a Magyar Köztársaság területén, valamint az országhatárokon át történő szállítását, őrzését, a védőberendezéseket, továbbá a radioaktív anyag és hulladék végleges elhelyezését és az ezekre vonatkozó nyilvántartásokat.
+b) a fenyegetettség mindenkori szintje alapján a fizikai védelmet a használatban lévő, tárolás vagy szállítás alatt álló nukleáris és más radioaktív anyagok jogtalan eltulajdonítása, valamint a szabotázs ellen;
 
-(4)
+c) a nukleáris vagy más radioaktív anyaggal elkövetett közveszélyokozás, környezetkárosítás, valamint a radioaktív anyaggal való visszaélés felismerését;
 
-(5) A rendőrség külön jogszabályban meghatározottak szerint engedélyt ad ki a friss és kiégett nukleáris üzemanyagnak a Magyar Köztársaság területén, valamint az országhatárokon át történő szállítására.
+d) gyors és átfogó intézkedések életbe léptetését a hiányzó vagy jogtalanul eltulajdonított nukleáris és más radioaktív anyag helyének meghatározására, és amennyiben lehetséges, visszaszerzésére; valamint
 
-(6) A rendőrség nukleáris veszélyhelyzet bekövetkezése, illetve szükség szerint rendkívüli esemény esetén ellátja a hatáskörébe utalt rendvédelmi feladatokat.
+e) a szabotázs, továbbá a nukleáris vagy más radioaktív anyaggal elkövetett közveszélyokozás, környezetkárosítás következményeinek enyhítését vagy minimalizálását.
+
+(2) Az (1) bekezdés a) pontban foglaltak érdekében az atomenergia-felügyeleti szerv és a rendőrség hatékony felügyeleti rendszert alakítanak ki és azt az alábbi eszközrendszer alkalmazásával folyamatosan működtetik:
+
+a) nyilvántartásba vételi, valamint engedélyezési eljárások során megvizsgálják, hogy a nukleáris vagy más radioaktív anyagot birtokló szervezet által megvalósítandó tevékenységek, a nyilvántartási, biztosítéki és fizikai védelmi intézkedések alkalmasak a követelmények teljesítésére, a felügyeleti tevékenység hatékony megvalósítására és támogatják a hatósági helyszíni ellenőrzések céljainak teljesülését;
+
+b) adatszolgáltatás előírásával és a beérkezett jelentések feldolgozásával a hatóságok folyamatos felügyeletet biztosítanak és értékelést végeznek a nukleáris és más radioaktív anyagok, valamint az azokkal kapcsolatos tevékenységek tekintetében;
+
+c) helyszíni ellenőrzéseken hitelesítik az adatszolgáltatás során szerzett információkat, ellenőrzik a nyilvántartási, biztosítéki és fizikai védelmi rendszerek alkalmazását és működtetését, az előírt intézkedések tényleges és hatékony végrehajtását; valamint
+
+d) érvényt szereznek a jogszabályi követelményeknek, ezek be nem tartását szankcionálják.

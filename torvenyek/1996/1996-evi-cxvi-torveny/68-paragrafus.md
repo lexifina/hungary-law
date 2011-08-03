@@ -1,16 +1,18 @@
-68. § (1) Felhatalmazást kap az OAH felügyeletét ellátó miniszter, hogy a törvényben érintett miniszterekkel egyetértésben rendeletben állapítsa meg:
+68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
 
-a) a nukleáris anyagok – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – nyilvántartása és ellenőrzése szabályait;
+a) a nukleáris anyagok nyilvántartásának és ellenőrzésének – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 
-b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait;
+b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 
-c) a radioaktív anyagok csomagolása engedélyezésének eljárásrendjét és ellenőrzésének szabályait;
+c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 
-d) a nukleáris és radioaktív anyagok nyilvántartásával összefüggő igazgatási szolgáltatások igénybevételéért, továbbá az atomenergia-felügyeleti szerv hatósági tevékenységéért, ezen belül a nukleáris biztonsági hatósági tevékenységért fizetendő díjakat;
+d) a nukleáris és más radioaktív anyagok nyilvántartásával összefüggő igazgatási szolgáltatások igénybevételéért, továbbá az atomenergia-felügyeleti szerv hatósági tevékenységéért, ezen belül a nukleáris biztonsági hatósági tevékenységért fizetendő díjakat az adópolitikáért felelős miniszterrel egyetértésben;
 
 e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
 
-f) a Központi Nukleáris Pénzügyi Alap működésének szabályzatát és eljárásrendjét.
+f) a Központi Nukleáris Pénzügyi Alap működésének szabályait és eljárásrendjét a katasztrófák elleni védekezésért, az energiapolitikáért, a környezetvédelemért, az egészségügyért, a rendészetért, az államháztartásért, valamint az állami vagyon felügyeletéért felelős miniszterrel egyetértésben;
+
+g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben állapítsa meg:
 
@@ -64,13 +66,13 @@ b) a vizek és a víztartó képződmények radioaktív és hőszennyezés ellen
 
 a) a rendészetért felelős miniszter, hogy a közbiztonság és a belső rend védelme érdekében az atomenergia alkalmazásával összefüggő rendőrségi feladatokat, a hatósági engedélyek kiadásához szükséges szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében foglalkoztatott munkavállalókra vonatkozó speciális biztonsági követelményeket és azok tartós fennállásának ellenőrzési rendjét,
 
-b) a rendészetért felelős miniszter, hogy a nukleáris anyagok és létesítmények tekintetében az őrzés és védelem ellátásának speciális módját,
+b)
 
 c) a katasztrófák elleni védekezésért felelős miniszter, hogy tűzbiztonság fokozása érdekében a tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeit és azok érvényesítésének módját a hatóságok tevékenysége során
 
-az atomenergia-felügyeleti szervet irányító miniszterrel egyetértésben, rendeletben állapítsa meg.
+az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet irányító miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetőleg nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet irányító miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
 
 (9) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a radioaktív hulladék elhelyezésére szolgáló bányatérségek, valamint egyéb föld alatti térségek kiválasztásával, üzemeltetésével kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 
@@ -82,4 +84,4 @@ b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háború
 
 (11) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
-(12) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 11/A. § (5) bekezdése szerinti, az atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.
+(12) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 21/B. § szerinti, az atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.

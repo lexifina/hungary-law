@@ -2,7 +2,7 @@
 
 67. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-a) az atomenergia-felügyeleti szerv vagy szervek kijelölését, valamint az atomenergiával kapcsolatos kormányzati feladatok koordinációjáért felelős szerv kijelölését, feladatait, szervezetét és működését,
+a) az atomenergia-felügyeleti szerv nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatkörét, egyes európai uniós kötelezettségek teljesítésének alanyát, az atomenergia biztonságos alkalmazásával összefüggő kormányzati, hatósági és nukleárisbaleset-elhárítási intézkedések tudományos megalapozásának biztosítása érdekében az atomenergia-felügyeleti szerv munkáját segítő tudományos tanácsadó testület tagjainak kijelölését, visszahívását, szervezetét és működését;
 
 b) azoknak a radioaktív anyagoknak, valamint ionizáló sugárzást létrehozó berendezéseknek a körét, amelyek alkalmazása – az általuk létrehozható ionizáló sugárzás jellege és mértéke folytán – az emberi életre és egészségre, az emberi környezetre nem minősülnek veszélyesnek, és ezért nem tartoznak az atomenergiáról szóló törvény hatálya alá;
 
@@ -14,29 +14,29 @@ da) a biztonsági jelentések tartalmát,
 
 db) a telepítésre, létesítésre, bővítésre, üzembe helyezésre, üzemeltetésre, átalakításra, üzemen kívül helyezésre, megszüntetésre vonatkozó nukleáris biztonsági követelményeket,
 
-dc) a nukleáris berendezés tervezésére, gyártására, szerelésére (beépítésére), külföldről történő behozatalára, üzembe helyezésére, üzemeltetésére, átalakítására (javítására), üzemen kívül helyezésére, valamint leszerelésére vonatkozó nukleáris biztonsági követelményeket,
+dc) a nukleáris rendszerek és rendszerelemek tervezésére, gyártására, beszerzésére, szerelésére, üzembe helyezésére és leszerelésére, valamint a nukleáris létesítmények üzemeltetésének időszaka alatt történő átalakításokra vonatkozó nukleáris biztonsági követelményeket;
 
-dd) a tervezést, létesítést, építést, gyártást, üzembe helyezést, üzemeltetést és leszerelést végző szervezetek minőségbiztosítási rendszerével szemben támasztott követelményeket,
+dd) a tervezést, létesítést, építést, gyártást, üzembe helyezést, üzemeltetést és leszerelést végző szervezetek irányítási rendszerével szemben támasztott követelményeket,
 
 de) a munkavállalók foglalkoztatási előírásait,
 
 df) a nukleáris biztonsági és műszaki sugárvédelmi hatósági tevékenység szabályait,
 
-dg) a létesítményekkel összefüggő építmények építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit;
+dg) a nukleáris létesítményekkel összefüggő építmények építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit;
 
-e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
+e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a nukleáris veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
 
-f) a radioaktív hulladék és a kiégett üzemanyag végleges elhelyezésére, valamint a nukleáris létesítmények leszerelésére kijelölt szerv létrehozását és tevékenységének pénzügyi forrását;
+f) a 40. §-ban meghatározott feladatok elvégzésére kijelölt szerv tevékenységét és annak pénzügyi forrásait;
 
 g) az atomkárfelelősségre vonatkozó biztosítási vagy más pénzügyi garanciák jellegét, feltételeit és összegét;
 
-h) az atomenergia alkalmazása körében kötelezően alkalmazandó szabványokat;
+h)
 
-i) a törvény 15. §-ában írt bírság mértékét, valamint a kirótt bírságokból befolyt összeg felhasználásának módját;
+i) a 15. §-ban meghatározott bírság mértékét, a bírság kiszabásának szempontjait;
 
-j) a törvény 34. §-a szerinti biztonsági övezettel, kártalanítással és a 35. §-a szerinti kisajátítással kapcsolatos előírásokat;
+j) a 34. § szerinti biztonsági övezettel kapcsolatos előírásokat;
 
-k) a talált, illetve lefoglalt radioaktív vagy nukleáris anyag elhelyezése és kezelése rendjét;
+k) a talált, elveszett vagy lefoglalt nukleáris vagy más radioaktív anyagokkal kapcsolatos intézkedéseket;
 
 l) a nukleáris exportnak és importnak a nemzetközi ellenőrzési rendszerekkel összhangban lévő szabályait;
 
@@ -44,4 +44,12 @@ m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenő
 
 n) a speciális érvényesítési eljárások rendjét.
 
-o) a radioaktív hulladékok tárolója és a kiégett üzemanyag átmeneti és végleges tárolója, illetve ezen létesítmények létesítését szolgáló telephely-kiválasztási kutatások környezetében lévő települések lakosságának rendszeres tájékoztatása érdekében létrejött önkormányzati ellenőrzési és információs társulások, továbbá az itt létrejövő területfejlesztési önkormányzati társulások, valamint a társulásokat alkotó települési önkormányzatok Központi Nukleáris Pénzügyi Alapból származó támogatásainak mértékét, felhasználásának ellenőrzését és az elszámolás rendjét, figyelemmel a 10. § (4) bekezdésében foglaltakra.
+o) a 10/A. § alapján létrejött ellenőrzési és információs célú önkormányzati társulások és tagjaik Központi Nukleáris Pénzügyi Alapból származó támogatásainak mértékét, felhasználásának ellenőrzését és az elszámolás rendjét, figyelemmel a 62. § (1) bekezdésében foglaltakra;
+
+p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
+
+q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolatos naprakész elemzéseket elvégző és a tervezési alapfenyegetettséget meghatározó testület kijelölését, tevékenységét, szervezetét és működését;
+
+r) az atomenergia alkalmazása körében a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;
+
+s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait.

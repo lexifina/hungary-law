@@ -1,9 +1,7 @@
-19/A. § (1) A nukleáris létesítmények az atomenergia-felügyeleti szervnek felügyeleti díjat kötelesek fizetni.
+## Az atomenergia alkalmazása körében eljáró független műszaki szakértő
 
-(2) A felügyeleti díj éves mértéke:
+19/A. § (1) Atomenergia alkalmazása körében független műszaki szakértői tevékenységet az végezhet, aki e tevékenység végzésére a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) által kiadott engedéllyel rendelkezik. Ha jogszabály atomenergia alkalmazása körében szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki a kamara által kiadott engedéllyel rendelkezik.
 
-a) atomerőmű és kutatóreaktor esetén a névleges hőteljesítmény (MWth) és a számítási alap szorzata, a számítási alap 246 350 Ft/MWth/év;
+(2) Szakértőként kizárólag független és pártatlan személy járhat el, akit a követelményeknek való megfelelésről szóló döntés, a vélemény és a megállapítás közlésekor annak tartalmához személyes érdek nem fűz, kizárólag szakmai szempontjai vezetik, és munkájáért járó díja szakvéleménye tartalmától nem függ.
 
-b) az atomerőművi kiégett üzemanyag átmeneti tárolója esetén az előző év végén tárolt kiégett kazetták darabszáma és a számítási alap szorzata, a számítási alap 75 000 Ft/db.
-
-(3) A nukleáris létesítmények az éves felügyeleti díj arányos részét negyedévente kötelesek megfizetni, legkésőbb a tárgynegyedév ötödik napjáig.
+(3) Az energiapolitikáért felelős miniszter az általa kiadott rendeletben határozza meg, hogy a szakértői tevékenységgel kapcsolatos mely eljárásokért és milyen összegű igazgatási szolgáltatási díjat kell fizetni.

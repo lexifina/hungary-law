@@ -2,62 +2,88 @@
 
 2. § E törvény alkalmazásában:
 
-a) atomenergia alkalmazása:
+1. atomenergia alkalmazása:
 
-aa) a radioaktív anyaggal, illetőleg nukleáris anyaggal kapcsolatos tevékenység
+a) a nukleáris vagy más radioaktív anyaggal kapcsolatos tevékenység,
 
-ab) az ionizáló sugárzást létrehozó, valamint az aa) pont szerinti alkalmazást szolgáló létesítményekkel, berendezésekkel összefüggő tevékenység;
+b) az ionizáló sugárzást létrehozó, valamint az a) pont szerinti alkalmazást szolgáló létesítményekkel, berendezésekkel összefüggő tevékenység;
 
-b) atomenergia alkalmazója: aki az a) pontban meghatározott tevékenységet végez;
+2. atomenergia alkalmazója: aki az 1. pontban meghatározott tevékenységet végez;
 
-c) radioaktív anyag: a természetben előforduló vagy mesterségesen előállított bármely anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki, valamint az ilyen anyagot tartalmazó készítmény;
+3. radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki;
 
-d) nukleáris anyag: a radioaktív anyagok közül mindazok, amelyek önfenntartó nukleáris láncreakcióra képesek, vagy képessé tehetők, továbbá ezek vegyületei, vagy az elemet, illetőleg vegyületét tartalmazó anyag, különösen az urán, a tórium, a plutónium és bármilyen anyag, amely az előbbiek közül egyet vagy többet tartalmaz, a bányászat, illetőleg az ércfeldolgozás körébe tartozó ércek és érchulladékok kivételével;
+4. nukleáris anyag: az a radioaktív anyag, amely önfenntartó nukleáris láncreakcióra képes vagy képessé tehető, különösen az urán, a tórium, a plutónium és bármilyen anyag, amely az előbbiek közül egyet vagy többet gazdaságosan kinyerhető koncentrációban tartalmaz, a bányászat és az ércfeldolgozás körébe tartozó ércek és érchulladékok kivételével;
 
-e) ionizáló sugárzás: a közvetlenül vagy közvetve ionizáló részecskékből, illetve ionizálásra képes fotonokból álló sugárzás;
+5. ionizáló sugárzás: a közvetlenül vagy közvetve ionizáló részecskékből, illetve ionizálásra képes fotonokból álló sugárzás;
 
-f) nukleáris láncreakció: az atommaghasadások olyan sorozata, amelyet a hasadási folyamat során felszabaduló neutronok tartanak fenn;
+6. nukleáris láncreakció: az atommaghasadások olyan sorozata, amelyet a hasadási folyamat során felszabaduló neutronok tartanak fenn;
 
-g) nukleáris létesítmény:
+7. nukleáris létesítmény:
 
-a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss és kiégett fűtőelem tárolására szolgáló létesítmény; és
+a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss és kiégett üzemanyag tárolására szolgáló létesítmény,
 
-b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcsolódó, ugyanazon a telephelyen található, a radioaktív hulladék tárolására szolgáló létesítmények, amennyiben külön létesítménynek minősülnek.
+b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcsolódó, ugyanazon a telephelyen található, radioaktív hulladék tárolására szolgáló létesítmények, amennyiben külön létesítménynek minősülnek;
 
-h) nukleáris rendszer, berendezés: a nukleáris létesítményeknek a nukleáris biztonságra hatással lévő rendszerei, berendezései;
+8. rendszer: rendszerelemekből álló, adott funkció teljesítésére szolgáló egység;
 
-i) atomreaktor: olyan berendezés, amely szabályozott nukleáris láncreakció megvalósítására alkalmas;
+9. rendszerelem: a rendszer szerelési egységként is elhatárolható komponense, részegysége vagy önállóan kezelhető készüléke, egy adott funkció megvalósításában önálló részfunkciót ellátó elem, így különösen berendezés, műszer, csővezeték, építmény, épületszerkezet;
 
-j) ionizáló sugárzást létrehozó berendezés: olyan berendezés, amely külső energia vagy radioaktív anyag felhasználásával ionizáló sugárzás keltésére és kibocsátására alkalmas;
+10. nukleáris rendszer, rendszerelem: nukleáris létesítményeknek a nukleáris biztonság szempontjából fontos rendszerei, rendszerelemei;
 
-k) nukleáris üzemanyag: atomreaktor üzemanyaga, amely nukleáris anyagot tartalmaz;
+11. atomreaktor: olyan berendezés, amely szabályozott nukleáris láncreakció megvalósítására alkalmas;
 
-l) kiégett üzemanyag: atomreaktorban hasznosított nukleáris üzemanyag, amely – az atomreaktoron kívüli – újrahasznosíthatósága miatt nem minősül hulladéknak;
+12. ionizáló sugárzást létrehozó berendezés: olyan berendezés, amely külső energia vagy radioaktív anyag felhasználásával ionizáló sugárzás keltésére és kibocsátására alkalmas;
 
-m) radioaktív hulladék: további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként;
+13. nukleáris üzemanyag: atomreaktor üzemanyaga, amely nukleáris anyagot tartalmaz;
 
-n) radioaktív hulladéktároló: a radioaktív hulladék végleges elhelyezésére szolgáló létesítmény;
+14. kiégett üzemanyag: az atomreaktorban hasznosított, besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely – az atomreaktoron kívüli – újrahasznosíthatósága miatt nem minősül hulladéknak;
 
-o) radioaktív hulladék átmeneti tárolója: a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
+15. radioaktív hulladék: további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként;
 
-p) atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamos energiát termel;
+16. radioaktívhulladék-tároló: a radioaktív hulladék végleges elhelyezésére szolgáló létesítmény;
 
-q) atomfűtőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával hőt szolgáltat;
+17. radioaktív hulladék átmeneti tárolója: a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
 
-r) rendkívüli esemény: az atomenergia alkalmazását szolgáló létesítményben, berendezésben vagy radioaktív (nukleáris) anyaggal végzett tevékenység során – bármilyen okból – bekövetkező olyan esemény, amely a biztonságot kedvezőtlenül befolyásolhatja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezi vagy eredményezheti;
+18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamos energiát termel;
 
-s) nukleáris veszélyhelyzet: rendkívüli esemény következtében előálló állapot, amelyben a lakosságot érintő következmények elhárítása vagy enyhítése érdekében intézkedésekre van vagy lehet szükség;
+19. atomfűtőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával hőt szolgáltat;
 
-t) engedélyes: az atomenergia alkalmazói közül, aki hatósági engedéllyel engedélyköteles tevékenységet folytat;
+20. rendkívüli esemény: az atomenergia alkalmazását szolgáló létesítményben, berendezésben, vagy radioaktív (nukleáris) anyaggal végzett tevékenység során – bármilyen okból – bekövetkező olyan esemény, amely a biztonságot kedvezőtlenül befolyásolhatja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezi vagy eredményezheti;
 
-u) atomkár: az emberélet elvesztése, a személyek testi épségében és egészségében keletkezett minden kár, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a károk csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, illetőleg oda küldött nukleáris anyag révén a létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
+21. nukleáris veszélyhelyzet: rendkívüli esemény következtében előálló állapot, amelyben a lakosságot érintő következmények elhárítása vagy enyhítése érdekében intézkedésekre van vagy lehet szükség;
 
-v) nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
+22. engedélyes: az atomenergia alkalmazói közül, aki hatósági engedéllyel engedélyköteles tevékenységet folytat;
 
-x) SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
+23. atomkár: az emberélet elvesztése, a személyek testi épségében és egészségében keletkezett minden kár, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a károk csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, vagy oda küldött nukleáris anyag révén a nukleáris létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
 
-y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
+24. nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
 
-z) ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának a kizárása, a környezet elemeitől történő elszigeteléssel.
+25. SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
 
-zs) nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme.
+26. ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
+
+27. nukleárisüzemanyag-ciklus: a nukleáris üzemanyag élettartamának valamennyi szakasza, beleértve a gyártást, hasznosítást, átmeneti tárolást, és a nukleárisüzemanyag-ciklus lezárását;
+
+28. nukleárisüzemanyag-ciklus lezárása: a kiégett üzemanyag hazai vagy külföldi radioaktívhulladék-tárolóban való végleges elhelyezése feldolgozás nélkül, vagy a kiégett üzemanyag előzetes feldolgozása és az ennek során keletkezett radioaktív hulladékok végleges elhelyezése hazai vagy külföldi radioaktívhulladék-tárolóban, beleértve a nukleárisüzemanyag-ciklus lezárására vonatkozó döntést műszaki szempontból megalapozó tevékenységet;
+
+29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
+
+30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
+
+31. fenyegetettség: az állam által elvégzett naprakész elemzésben feltárt, az atomenergia békés célú felhasználóit fenyegető veszély, cselekmény;
+
+32. tervezési alapfenyegetettség: a fenyegetettségnek az állam által meghatározott olyan szintje, amely ellen a hatékony fizikai védelmet az atomenergia alkalmazója biztosítja;
+
+33. fizikai védelem: azon belső szabályozás, technikai eszköztár és élőerős elhárítás összessége, amely a nukleáris védettség részeként a nukleáris létesítményekkel, valamint nukleáris és más radioaktív anyagokkal szemben elkövetendő jogtalan eltulajdonítás és szabotázs elrettentésére, észlelésére, késleltetésére és elhárítására irányul;
+
+34. fizikai védelmi terv: a fizikai védelmi rendszer működését, az elrettentés, észlelés, késleltetés és elhárítás fizikai védelmi funkciók konkrét megvalósulását leíró terv;
+
+35. szabotázs: nukleáris vagy más radioaktív anyag nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a radiológiai következmények szempontjából jelentős rendszer, rendszerelem ellen irányuló tevékenységgel szándékosan elkövetett – a Btk. szerinti – közveszélyokozás (259. §), közérdekű üzem működésének megzavarása (260. §) vagy kísérletének, előkészületének, szándékos környezetkárosítás (280. §) vagy kísérletének rendkívüli esemény bekövetkezését célzó elkövetése;
+
+36. nukleáris vagy más radioaktív anyaggal elkövetett közveszélyokozás, környezetkárosítás: nukleáris vagy más radioaktív anyaggal elkövetett – a Btk. szerinti – szándékos közveszélyokozás (259. §) vagy kísérlete, előkészülete, továbbá szándékos környezetkárosítás (280. §) vagy kísérlete;
+
+37. nukleáris vagy más radioaktív anyag jogtalan eltulajdonítása: nukleáris vagy más radioaktív anyag a Btk. szerinti ellopása (316. §) vagy elrablása (321. §);
+
+38. ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának kizárása, a környezet elemeitől történő elszigeteléssel;
+
+39. radiológiai következmények szempontjából jelentős rendszer és rendszerelem: azon, nukleáris anyag vagy más radioaktív anyag alkalmazásával, feldolgozásával és tárolásával összefüggő rendszerek és rendszerelemek, amelyek rongálása rendkívüli esemény bekövetkezésével jár vagy járhat.

@@ -1,6 +1,6 @@
 ## A radioaktív és nukleáris anyagok nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályai
 
-16. § (1) Az atomenergia-felügyeleti szerv a 17. § (2) bekezdés f) és g) pontjának megfelelően a radioaktív anyagokról – és ezen belül elkülönítetten a nukleáris anyagokról – központi nyilvántartást vezet, amely tartalmazza a radioaktív anyagok helyét, fizikai és kémiai tulajdonságait, valamint az atomenergia alkalmazóját és a velük kapcsolatos tevékenységeket. A központi nyilvántartás adatai statisztikai célokra is felhasználhatók.
+16. § (1) Az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 20. és 21. pontjának megfelelően a radioaktív anyagokról – és ezen belül elkülönítetten a nukleáris anyagokról – központi nyilvántartást vezet, amely tartalmazza a radioaktív anyagok helyét, fizikai és kémiai tulajdonságait, valamint az atomenergia alkalmazóját és a velük kapcsolatos tevékenységeket. A központi nyilvántartás adatai statisztikai célokra is felhasználhatók.
 
 (2) Az atomenergia alkalmazója a birtokában lévő radioaktív anyagok helyéről, fizikai, kémiai tulajdonságairól és a velük kapcsolatos tevékenységekről helyi nyilvántartást vezet, kezeli a helyi nyilvántartás adatait, beleértve a (4) bekezdés szerinti személyes adatokat is, és adatokat szolgáltat a központi nyilvántartás számára. A nyilvántartást az atomenergia alkalmazója az adatszolgáltatási kötelezettségének megszűnését követő öt évig köteles megőrizni.
 
@@ -28,7 +28,7 @@ g) a létesítményi biztosítéki felügyelő neve és elérhetősége.
 
 (7) A rendőrség, a nemzetbiztonsági szolgálatok és az egészségügyi államigazgatási szerv jogszabályban előírt feladatai ellátásához – térítésmentesen – adatokat, beleértve a (4) bekezdésben meghatározott adatokat is, igényelhet a központi nyilvántartásból.
 
-(8) A radioaktív anyagok – és ezen belül elkülönítetten a nukleáris anyagok – nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás részletes szabályait külön jogszabályok állapítják meg.
+(8) A radioaktív anyagok – és ezen belül elkülönítetten a nukleáris anyagok – nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás részletes szabályait jogszabály állapítja meg.
 
 (9) Nagy aktivitású zárt sugárforrást felhasználó munkahelyen sugárvédelmi megbízott csak büntetlen előéletű, és olyan személy lehet, aki nem áll sugárvédelmi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 

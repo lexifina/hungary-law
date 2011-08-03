@@ -1,9 +1,5 @@
-15. § (1) Az engedély, valamint a kockázat elfogadható mértékét figyelembe vevő biztonsági szabályzatok előírásainak megtartását, illetőleg az atomenergia alkalmazásának biztonságosságát az engedélyező hatóság köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
+15. § (1) Az engedély, valamint a nukleáris biztonsági szabályzatok előírásainak megtartását, és az atomenergia alkalmazásának biztonságosságát az atomenergia-felügyeleti szerv köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
 
-(2) Az engedélyekről és az ellenőrzések eredményeiről a hatóság nyilvántartást vezet.
+(2) Az atomenergia-felügyeleti szerv az e törvény vagy az e törvény végrehajtására kiadott jogszabály megsértése, valamint az e törvény vagy az e törvény végrehajtására kiadott jogszabály alapján kiadott határozatában foglaltak betartásának elmulasztása esetén az engedélyest, továbbá a 17. § (2) bekezdés 20–22. pontja szerinti, az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben adatszolgáltatásra kötelezettet bírság megfizetésére kötelezi.
 
-(3) Az atomenergia-felügyeleti szerv jogszabály, biztonsági szabályzat megsértése, kötelezően alkalmazandó szabvány vagy az előzőek alapján kiadott egyedi hatósági engedélyben foglaltak betartásának elmulasztása esetén az engedélyest bírság megfizetésére kötelezheti.
-
-(4) A bírság mértékéről és a kiszabott bírságokból befolyt összeg felhasználásáról külön jogszabály rendelkezik.
-
-(5) Nem szabható ki bírság a mulasztásnak vagy kötelezettségszegésnek a hatóság tudomására jutásától számított 6 hónapon, illetőleg attól a naptól számított 2 éven túl, amely napon a kötelezettnek eleget kellett volna tennie az e törvényben megállapított kötelezettségének.
+(3) Nem szabható ki bírság a mulasztásnak vagy kötelezettségszegésnek a hatóság tudomására jutásától számított egy éven, valamint attól a naptól számított öt éven túl, amely napon a kötelezettnek eleget kellett volna tennie az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban megállapított kötelezettségének.

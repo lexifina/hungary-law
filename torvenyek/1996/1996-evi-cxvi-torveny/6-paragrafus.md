@@ -6,6 +6,6 @@
 
 6. § (1) Az atomenergia biztonságos alkalmazásának irányítása és felügyelete a Kormány feladata.
 
-(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az az atomenergia-felügyeleti szerv, valamint az érintett miniszterek útján gondoskodik. Munkájukat a Kormány által létrehozott, az atomenergiával kapcsolatos kormányzati feladatok koordinációjáért felelős szerv hangolja össze.
+(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. § (1) bekezdésében, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek útján gondoskodik.
 
 (3)

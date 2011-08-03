@@ -1,6 +1,6 @@
 ## Az egészségügyért felelős miniszter hatásköre az egészségügyért felelős miniszter által szabályozott engedélyezési eljárásban
 
-20. § (1) Az egészségügyért felelős miniszter külön jogszabályban meghatározott szerv útján látja el a 26. § (2) bekezdésében foglaltak kivételével:
+20. § (1) Az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el a 26. § (2) bekezdésében foglaltak kivételével:
 
 a) a radioaktív anyagok tulajdonjoga megszerzésének, előállításának, termelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezését és ellenőrzését;
 
@@ -8,7 +8,7 @@ b) az a) pont alatt felsorolt tevékenységeket szolgáló, nem nukleáris léte
 
 c) az ionizáló sugárzást létrehozó létesítmény, berendezés tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének, létesítésének, előállításának, üzemeltetésének, átalakításának és megszüntetésének engedélyezését és ellenőrzését;
 
-d) a radioaktív hulladéktároló telepítésének, létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, lezárásának engedélyezését és ellenőrzését;
+d) a radioaktívhulladék-tároló telepítésének, létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, lezárásának engedélyezését és ellenőrzését;
 
 e) az atomenergia alkalmazását szolgáló létesítményben működő sugárvédelmi szolgálat szervezetének és működésének felügyeletét;
 

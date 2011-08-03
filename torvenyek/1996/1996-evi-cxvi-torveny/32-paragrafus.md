@@ -1,1 +1,5 @@
-32. § Talált, illetve lefoglalt radioaktív vagy nukleáris anyag elhelyezéséről a Kormány által kijelölt szerv gondoskodik.
+32. § (1) Aki tudomást szerez arról – beleértve az atomenergia alkalmazóját is – hogy nukleáris vagy más radioaktív anyag, ionizáló sugárzást létrehozó berendezés annak birtoklására fel nem jogosított személy birtokába került vagy kerülhet, vagy egyéb rendellenességet észlel, köteles azt a rendőrségnek haladéktalanul bejelenteni, amely értesíti az atomenergia felügyeleti szervet, a nemzetbiztonsági szolgálatokat, valamint az Országos Sugáregészségügyi Készenléti Szolgálatot.
+
+(2) A hiányzó nukleáris és más radioaktív anyag lehetséges helyének az engedélyes telephelyén való felkutatására és felügyelet alá helyezésére az engedélyes tervet dolgoz ki, és gondoskodik a terv végrehajtásához szükséges eszközökről.
+
+(3) A hiányzó vagy ellopott nukleáris és más radioaktív anyag felkutatására és hatósági felügyelet alá történő visszahelyezésére, a szabotázs, valamint a nukleáris vagy más radioaktív anyaggal elkövetett közveszélyokozás, környezetkárosítás következményeinek enyhítésére a külön jogszabályban meghatározott szervek hatékony együttműködését biztosító, az országos nukleáris és balesetelhárítási intézkedési tervbe illeszkedő veszélyhelyzet-kezelési terveket kell kidolgozni.

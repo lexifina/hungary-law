@@ -2,6 +2,6 @@
 
 ## A Központi Nukleáris Pénzügyi Alap
 
-62. § (1) A Központi Nukleáris Pénzügyi Alap (a továbbiakban: Alap) a radioaktív hulladékok végleges elhelyezésére, valamint a kiégett üzemanyag átmeneti és végleges elhelyezésére szolgáló tárolók létesítését és üzemeltetését, illetve a nukleáris létesítmények leszerelésének (lebontásának) finanszírozását biztosító és kizárólag ezt a célt szolgáló, az államháztartásról szóló 1992. évi XXXVIII. törvény szerinti elkülönített állami pénzalap.
+62. § (1) A Központi Nukleáris Pénzügyi Alap a radioaktív hulladékok végleges elhelyezésének, a kiégett üzemanyagok átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmények leszerelésének finanszírozását biztosító, az államháztartásról szóló törvény szerint elkülönített állami pénzalap. A Központi Nukleáris Pénzügyi Alap terhére kizárólag a 10/A. § (8) bekezdésében és a jelen bekezdésben meghatározott célokra lehet kifizetést teljesíteni.
 
-(2) Az Alappal a atomenergia-felügyeleti szervet felügyelő miniszter rendelkezik. Az Alap kezelője az atomenergia-felügyeleti szerv.
+(2) A Központi Nukleáris Pénzügyi Alap kezelője az atomenergia-felügyeleti szerv, amelynek az Alap kezelésével kapcsolatos feladatokat ellátó szervezeti egysége elkülönül a hatósági tevékenységet végző szervezeti egységeitől.
