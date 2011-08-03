@@ -1,4 +1,4 @@
-343. § (1) Ha a médiatartalom-szolgáltató vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
+343. § (1) Ha a médiaszolgáltató, a sajtótermék szerkesztősége vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
 
 (2) Az I–XIV. fejezet rendelkezéseit a sajtó-helyreigazítási eljárásokban az e fejezetben foglalt eltérésekkel kell alkalmazni. A sajtó-helyreigazításra irányuló keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
 
