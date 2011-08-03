@@ -4,7 +4,7 @@
 
 2. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
-3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós műsorszolgáltatáséhoz hasonlítható.
+3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
 
 4. Lekérhető médiaszolgáltatás: olyan médiaszolgáltatás, amelyben a médiaszolgáltató által összeállított műsorkínálat alapján a felhasználó egyéni kérés alapján, az általa kiválasztott időpontban tekintheti, illetve hallgathatja meg a műsorszámokat.
 
@@ -18,11 +18,11 @@
 
 9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
-10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve félrevezetheti a közönséget.
+10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
 11. Reklám: olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 
-12. Támogatás: olyan hozzájárulás, amelyet valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
+12. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
 II. CÍM
 
