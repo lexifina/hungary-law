@@ -12,7 +12,7 @@ cb) a közszolgálati és közösségi médiaszolgáltatásban közzétett rekl�
 
 cc) a hallási fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
 
-cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok (37. §, 41–42. §, 45–47. §)
+cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok,
 
 ce) a lineáris médiaszolgáltató tulajdonosi szerkezetére és a tulajdonosi összefonódásra vonatkozó szabályok (43. §),
 
@@ -21,6 +21,8 @@ cf) az erőszakos vagy a nyugalom megzavarására alkalmas tartalmakra vonatkoz�
 cg) a reklámra és a televíziós vásárlásra vonatkozó egyes rendelkezések (34–35. §),
 
 ch) a médiaszolgáltatások és műsorszámok támogatására vonatkozó szabályok (26–29. §),
+
+ci) a 175. § (12) bekezdésében meghatározott adatszolgáltatási kötelezettségek,
 
 d) ellátja a szolgáltatás megkezdésének elmaradása esetén a médiaszolgáltatási jogosultság megszűnésével, megszüntetésével kapcsolatos feladatokat,
 

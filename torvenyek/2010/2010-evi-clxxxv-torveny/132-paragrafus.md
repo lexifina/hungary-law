@@ -1,18 +1,18 @@
 ## A Médiatanács feladatai
 
-132. § A Médiatanács a 181–182. §-okkal összhangban:
+132. § A Médiatanács a 182–184. §-okkal összhangban:
 
 a) ellenőrzi és biztosítja a sajtószabadság érvényesülését e törvény és az Smtv. keretei között,
 
 b) ellátja az állami tulajdonban lévő, médiaszolgáltatás céljára biztosított korlátos erőforrásokat használó médiaszolgáltatási jogosultságok pályáztatásának és a pályázat elbírálásának feladatát,
 
-c) ellátja a törvényben előírt felügyeleti és ellenőrzési feladatokat,
+c) ellátja a törvényben előírt felügyeleti és ellenőrzési feladatokat – a műsor vagy műsorszám rögzítése vagy a médiaszolgáltató által rögzített műsor vizsgálata, továbbá hatósági megkeresés útján,
 
-d) műsorfigyelő és -elemző szolgálatot működtet,
+d) a Hivatalon keresztül műsorfigyelő és -elemző szolgálatot működtet,
 
 e) véleményt nyilvánít a médiával és a hírközléssel kapcsolatos jogszabályok tervezetéről,
 
-f) rendszeresen ellenőrzi a vele kötött hatósági szerződések megtartását,
+f) rendszeresen ellenőrzi a vele kötött hatósági szerződések megtartását;
 
 g) állásfoglalásokat, javaslatokat dolgoz ki a magyar médiaszolgáltatási rendszer fejlesztésének elvi kérdéseire vonatkozóan,
 

@@ -8,9 +8,9 @@
 
 a) ha a hálózatba kapcsolódó körzeti vagy helyi médiaszolgáltató saját médiaszolgáltatása nem éri el naponta a négy órát,
 
-b) ha a médiaszolgáltatók médiaszolgáltatási díjtartozással rendelkeznek a Médiatanács felé,
+b) ha a médiaszolgáltatók bármelyike médiaszolgáltatási díjtartozással rendelkeznek a Médiatanács felé,
 
-c) ha a médiaszolgáltató vagy a médiaszolgáltatók bármelyike a hálózatba kapcsolódás következtében nem felelne meg a 71. §-ban foglaltaknak,
+c) ha a médiaszolgáltatók bármelyike a hálózatba kapcsolódás következtében nem felelne meg a 71. §-ban foglaltaknak,
 
 d) ha a hálózatos médiaszolgáltató és a hálózatba kapcsolódó médiaszolgáltató vételkörzete több mint húsz százalékban fedi egymást,
 

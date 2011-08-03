@@ -12,9 +12,9 @@ c) a pályázati díjat határidőben nem fizették meg,
 
 d) a pályázati ajánlat formailag nem felel meg a pályázati felhívásban meghatározott feltételeknek,
 
-e) nem, vagy nem megfelelően tartalmazza az 56. § a), da), db), de), e) pontban felsorolt adatokat.
+e) nem vagy nem megfelelően tartalmazza az 56. §-ban felsoroltakat.
 
-(3) Az alaki érvényességi feltételek körében hiánypótlásnak kizárólag az 56. § b), c), dc), df)–dn), f)–j) pontok tekintetében van helye.
+(3) Az 57. § (2) bekezdésben foglalt alaki érvényességi feltételek körében hiánypótlásnak kizárólag az 56. § b), c), dc), df)–dm), f)–i) pontok tekintetében van helye.
 
 (4) A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a pályázó rendelkezésére. Amennyiben a pályázó a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
 

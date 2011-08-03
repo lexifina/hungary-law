@@ -1,6 +1,6 @@
 ## A médiapiaci koncentráció megelőzésére és a jelentős befolyásoló erővel rendelkező médiaszolgáltatók meghatározására irányuló eljárások szabályai
 
-70. § (1) A Médiatanács a médiapiaci koncentráció megelőzésére és a JBE médiaszolgáltatók meghatározására irányuló eljárások lefolytatása érdekében a koncentráció fokának megítélése szempontjából jelentős (a továbbiakban: releváns) piaci tényeket és körülményeket – így különösen médiaszolgáltató előző naptári évi átlagos közönségarányát – a Ket. szerinti hatósági ellenőrzési eljárásban a (2)–(12) bekezdés szerinti eltérésekkel vizsgálja.
+70. § (1) A Médiatanács a médiapiaci koncentráció megelőzésére és a JBE médiaszolgáltatók meghatározására irányuló eljárások lefolytatása érdekében a koncentráció fokának megítélése szempontjából jelentős (a továbbiakban: releváns) piaci tényeket és körülményeket – így különösen médiaszolgáltató előző naptári évi átlagos közönségarányát – a Ket. szerinti hatósági ellenőrzési eljárásban a (2)–(6) bekezdés szerinti eltérésekkel vizsgálja.
 
 (2) A Médiatanács a hatósági ellenőrzési eljárásban a releváns tények és körülmények tisztázása érdekében a médiaszolgáltatókat végzéssel adatszolgáltatásra kötelezheti. A végzés ellen önálló jogorvoslatnak helye nincs, az a hatósági ellenőrzést esetlegesen követő, a médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárásban hozott érdemi döntés elleni jogorvoslatban támadható.
 

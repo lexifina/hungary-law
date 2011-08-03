@@ -6,7 +6,7 @@ a) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtato
 
 b) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
 
-c) az Smtv. 13–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
+c) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
 
 d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében.
 

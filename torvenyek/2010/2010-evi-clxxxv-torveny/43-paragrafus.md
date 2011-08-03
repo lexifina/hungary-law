@@ -6,7 +6,7 @@
 
 a) a bíró, az ügyész,
 
-b) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. és az Állami Számvevőszék vezető beosztású tisztségviselője, a számvevő, a Gazdasági Versenytanács tagja,
+b) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. vezető beosztású tisztségviselője, az Állami Számvevőszék elnöke, alelnöke, főtitkára, vezető beosztású munkavállalója, számvevője, valamint a Gazdasági Versenytanács tagja,
 
 c) a Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Hatósággal munkavégzésre irányuló jogviszonyban álló személy,
 
@@ -23,3 +23,5 @@ c) olyan vállalkozás, amelyben a magyar államnak befolyásoló részesedése 
 d) olyan vállalkozás, amelyben az (1)–(2) bekezdésben felsoroltak bármelyike közvetlen vagy közvetett tulajdoni részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, vagy az egyébként tulajdonszerzési korlátozás alá eső személy, szervezet.
 
 (4) Nem lehet jogosult az önkormányzat területét legalább húsz százalékban lefedő vételkörzetű helyi lineáris médiaszolgáltatásra az a vállalkozás, amelynek igazgatóságában, ügyvezetésében vagy felügyelő bizottságában, és azon alapítvány vagy közalapítvány, amelynek kuratóriumában a helyi képviselőtestület tagja, alkalmazottja, a polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes vagy ezek közeli hozzátartozója vesz részt.
+
+(5) A (3) bekezdés d) pontja tekintetében az a vállalkozás, amelyben a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester valamint a megyei közgyűlés elnöke és alelnöke közeli hozzátartozója közvetlen vagy közvetett befolyásoló részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, abban az esetben nem lehet lineáris médiaszolgáltatásra jogosult, amennyiben az adott médiaszolgáltatás vételkörzete az érintett önkormányzat területét legalább húsz százalékban lefedi.

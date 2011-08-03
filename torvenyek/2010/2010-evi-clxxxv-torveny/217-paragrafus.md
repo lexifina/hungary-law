@@ -1,1 +1,1 @@
-217. § A lineáris médiaszolgáltatások közönségarányának mérésére szolgáló módszertant, szakmai kritériumokat, valamint az eredmények Hatóság általi auditálásának rendjét 2011. június 30-ig ki kell dolgozni, illetve szükség esetén ezen időpontig gondoskodni kell a 69. § (3) bekezdés alapján megköthető szerződés előkészítéséről.
+### 217. §

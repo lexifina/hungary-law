@@ -49,3 +49,7 @@ b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság veze
 c) nem szerezhet részesedést olyan gazdasági társaságban,
 
 amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként hozott döntése érintette.
+
+(9) Tekintettel a (8) bekezdés szerinti működési szektort érintő elhelyezkedési tilalomra, az Elnök, illetve az elnökhelyettes megbízatásának megszűnésével egyidejűleg a megelőző 12 havi, a Hatóságtól származó nettó – azaz személyi jövedelemadóval csökkentett – jövedelmének megfelelő mértékű kártalanításra jogosult. A kártalanítást a Hatóság költségvetése terhére kell megfizetni. Az ily módon megállapított kárátalány a károk megtérülése körében adómentes. Ugyanezt a szabályt kell alkalmazni a Médiatanács elnöke és tagjai megbízatásának megszűnésekor érvényesülő, 129. § (9) bekezdésben foglalt tilalommal összefüggésben is.
+
+(10) Amennyiben az elnökhelyettes megbízatása a (4) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői megbízás visszavonása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.

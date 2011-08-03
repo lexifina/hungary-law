@@ -6,7 +6,9 @@ a) a részben vagy egészben a Magyar Köztársaság területén telepített vag
 
 b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
 
-c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére.
+c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
+
+d) a kiadványokra.
 
 (3) A törvény hatálya a törvényben szabályozott esetekben kiterjed a (2) bekezdésben foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
 

@@ -21,3 +21,5 @@ be) 2015. évtől teljes egészében
 magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
 
 c) A feliratozással, illetve jelnyelvi tolmácsolással megkezdett műsorszámot – a műsorszám egységét nem sértve – a médiaszolgáltató köteles annak teljes időtartama alatt feliratozni, illetve jelnyelvi tolmácsolással ellátni.
+
+d) A feliratozott műsorszámok előtt a médiaszolgáltatásban jelezni kell, hogy az érintett műsorszám az említett formában is elérhető a médiaszolgáltatáshoz kapcsolódó teletext szolgáltatáson. A műsorszámok szövege feliratozott változatának pontosnak kell lennie, a képernyő történéseivel szinkronban kell állnia.

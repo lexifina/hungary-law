@@ -1,6 +1,6 @@
 ## Bejelentő
 
-145. § (1) A Hatóság e törvényben meghatározott feladat- és hatáskörével kapcsolatban a médiaigazgatásra vonatkozó szabály megsértésére hivatkozással bárki a Hatósághoz címzett bejelentéssel élhet, aki a bejelentés tárgyában nem minősül vagy a jogszabályok alapján nem minősülne ügyfélnek (a továbbiakban: bejelentő).
+145. § (1) A Hatóság e törvényben meghatározott feladat- és hatáskörével kapcsolatban a médiaigazgatásra vonatkozó szabály megsértésére hivatkozással bárki a Hatósághoz címzett bejelentéssel élhet, aki a bejelentés tárgyában nem minősül ügyfélnek (a továbbiakban: bejelentő).
 
 (2) A bejelentésben meg kell jelölni a bejelentő adatait, a Hatóság eljárására okot adó körülményt, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján a médiaigazgatásra vonatkozó szabály megsértése valószínűsíthető, valamint a bejelentést megalapozó tényeket.
 
@@ -10,4 +10,4 @@
 
 (5) A bejelentő kérheti adatainak a 153. § (2) bekezdés szerinti zárt kezelését.
 
-(6) Amennyiben a bejelentés tartalma szerint kérelemnek és a bejelentő ügyfélnek minősül, abban az esetben a Hatóság e tényről és hatósági eljárás megindításával kapcsolatos jogairól külön tájékoztatja a bejelentőt, ezen kívül egyéb eljárási cselekményt nem tesz.
+(6)

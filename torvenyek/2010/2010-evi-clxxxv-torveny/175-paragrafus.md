@@ -14,7 +14,7 @@
 
 (7) A (2)–(4) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
 
-(8) Amennyiben az adatszolgáltatásra kötelezett a (2)–(4) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legalább ötvenezer forint, de legfeljebb ötvenmillió forint. E határozat ellen a 163–165. §-ban meghatározott jogorvoslatnak van helye.
+(8) Amennyiben az adatszolgáltatásra kötelezett a (2)–(4) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legfeljebb ötvenmillió forint. E határozat ellen a 163–165. §-ban meghatározott jogorvoslatnak van helye.
 
 (9) A bírság összegének meghatározása során a Hatóság köteles mérlegelni és egymáshoz viszonyítani az ügy összes körülményeit, a jogsértő árbevételét, az adatszolgáltatás nem teljesítésével okozott hátrányok súlyát, illetve azzal okozott következményeket.
 
@@ -22,4 +22,4 @@
 
 (11) Az (1)–(4) bekezdés szerinti adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
 
-(12) A médiaszolgáltatónak a műsorára vonatkozó hiteles dokumentációt – ideértve a teljes médiaszolgáltatás kimenőjelének teljes rögzítését – a közzétételt, lekérhető médiaszolgáltatás esetén az elérhetővé tétel utolsó napját követő hatvan napig meg kell őriznie, illetve felkérésre térítésmentesen haladéktalanul át kell adnia a Hatóságnak. A médiaszolgáltatással kapcsolatosan megindított eljárás, illetve jogvita esetén a dokumentációt az eljárás jogerős befejezését követő egy évig kell megőrizni.
+(12) A médiaszolgáltatónak a műsorára vonatkozó hiteles dokumentációt – ideértve a teljes médiaszolgáltatás kimenőjelének teljes rögzítését – a közzétételt, lekérhető médiaszolgáltatás esetén az elérhetővé tétel utolsó napját követő hatvan napig meg kell őriznie, illetve felkérésre térítésmentesen haladéktalanul át kell adnia a Hivatalnak. A médiaszolgáltatással kapcsolatosan megindított eljárás, illetve jogvita esetén a dokumentációt az eljárás jogerős befejezését követő egy évig kell megőrizni.

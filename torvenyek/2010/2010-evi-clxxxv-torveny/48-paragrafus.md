@@ -18,14 +18,16 @@ b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, v
 
 (5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 38. § (1) bekezdésben megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye.
 
-(6) A Médiatanács az (5) bekezdés szerinti bejelentés hiányában, vagy ha nincs helye a megújításnak, tíz hónappal a jogosultság lejárta előtt köteles a nyilvános pályázati felhívást közzétenni.
+(6)
 
 (7) Nem lehet megújítani a jogosultságot, ha a jogosult
 
-a) a szerződést vagy az e törvényben foglalt rendelkezéseket ismételten vagy súlyosan megszegte, vagy
+a) a szerződést vagy az e törvényben foglalt rendelkezéseket ismételten vagy súlyosan megszegte,
 
-b) a kérelem benyújtásakor, illetve annak elbírálásakor médiaszolgáltatatási díjtartozással rendelkezik.
+b) a szerződés megsértése miatt korábban a rádiózásról és televíziózásról szóló 1996. évi I. törvény 112. § (1) bekezdés b) pontja szerinti szankcióban részesült, vagy
 
-(8) A Médiatanács a III. Fejezet rendelkezéseinek megfelelő alkalmazására és e médiaszolgáltatási lehetőségek természetéből fakadó egyedi sajátosságokra tekintettel meghatározza a kisközösségi médiaszolgáltatási lehetőségek pályáztatásának elveit, és azokat a honlapján közzéteszi.
+c) a kérelem benyújtásakor médiaszolgáltatási díjtartozással rendelkezik.
+
+(8) A Médiatanács a III. Fejezet rendelkezéseinek megfelelő alkalmazására és e médiaszolgáltatási lehetőségek természetéből fakadó egyedi sajátosságokra tekintettel meghatározza a kisközösségi médiaszolgáltatási lehetőségek pályáztatásának elveit, és azokat a honlapján közzéteszi. Kisközösségi médiaszolgáltatási lehetőség nem pályáztatható és nem üzemeltethető kereskedelmi jelleggel.
 
 (9) A Médiatanács felkérésére a Hivatal összeállítja a médiaszolgáltatási lehetőségek jegyzékét.

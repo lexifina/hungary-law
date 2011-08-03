@@ -6,7 +6,7 @@ b) a közszolgálati médiaszolgáltatókat megszüntetni, egyesíteni, szétvá
 
 c) a közszolgálati médiaszolgáltatóktól vagyont elvonni,
 
-d) a tartalomszolgáltatási terv elfogadásán túl a közszolgálati médiaszolgáltató műsorszerkezetét, továbbá műsorainak, szolgáltatásainak, illetve műsorszámainak tartalmát meghatározni,
+d) a közszolgálati médiaszolgáltató műsorszerkezetét, továbbá műsorainak, szolgáltatásainak, illetve műsorszámainak tartalmát meghatározni,
 
 e) közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
 

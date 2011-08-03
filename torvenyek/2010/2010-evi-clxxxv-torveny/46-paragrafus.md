@@ -16,7 +16,7 @@ ad) képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt
 
 ae) cégjegyzékszámát, illetve nyilvántartási számát,
 
-b) a bejelentett sajtótermék címét és a nemzeti könyvtár által kiadott nemzetközi azonosítószámát, vagy az arról szóló igazolását, hogy azonosító számot nem kell kapnia,
+b) a bejelentett sajtótermék címét
 
 c) ha az alapító és a kiadó eltérő személy vagy vállalkozás, mindkettő a) pontban megjelölt adatait.
 
@@ -50,9 +50,7 @@ d) bíróság jogerős határozata elrendelte a sajtótermék címe által elkö
 
 a) a kiadó nevét, székhelyét és a kiadásért felelős személy nevét,
 
-b) a sokszorosító szerv megnevezését, továbbá a sokszorosításért felelős személy nevét,
-
-c) a sokszorosítás helyét, idejét és a megrendelés sorszámát,
+b)–c)
 
 d) a szerkesztésért felelős személy nevét.
 

@@ -1,4 +1,4 @@
-137. § (1) A közszolgálati célú műsorszámok, valamint a közösségi médiaszolgáltatók támogatását nyilvános pályázat útján kell biztosítani.
+137. § (1) A közszolgálati célú műsorszámok, a közösségi médiaszolgáltatók, az elsőként filmszínházban bemutatásra szánt filmalkotások – ide nem értve a törvény 136. § (8) bekezdésében meghatározott módon támogatott filmalkotásokat – és a kortárs zeneművek támogatását nyilvános pályázat útján kell biztosítani.
 
 (2) Az Alap által kidolgozott általános pályázati feltételeket a Médiatanács hagyja jóvá.
 

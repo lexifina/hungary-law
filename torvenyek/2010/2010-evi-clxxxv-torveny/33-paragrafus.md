@@ -22,7 +22,7 @@ c) nemzeti ünnepek hivatalos eseményeiről tudósít,
 
 d) vallási, illetve egyházi tartalmú, ide nem értve a filmalkotásokat.
 
-(4) A lineáris médiaszolgáltatásban közzétett reklám, televíziós vásárlás, valamint a reklám és a televíziós vásárlás közzétételét akusztikus módon jelző figyelemfelhívás átlagos vagy a néző és hallgató által érzékelt hangereje nem lehet nagyobb, mint a környező műsorszámoké.
+(4) A lineáris médiaszolgáltatásban közzétett reklám, televíziós vásárlás és a műsorelőzetes, valamint a reklám és a televíziós vásárlás és a műsorelőzetes közzétételét akusztikus módon jelző figyelemfelhívás átlagos vagy a néző és hallgató által érzékelt hangereje nem lehet nagyobb, mint a környező műsorszámoké.
 
 (5) Virtuális reklám lineáris audiovizuális médiaszolgáltatásban csak úgy tehető közzé, ha közzétételére a médiaszolgáltató az érintett műsorszámot közvetlenül megelőzően, illetve közvetlenül a műsorszámot követően is – optikai vagy akusztikus módon – felhívja a figyelmet. E kötelezettség nem terjed ki azon műsorszámokra, amelyeket nem maga a médiaszolgáltató vagy tulajdonosának befolyásoló részesedése mellett működő más médiaszolgáltató vagy műsorkészítő vállalkozás készített vagy rendelt meg.
 

@@ -96,4 +96,4 @@ f) a médiaszolgáltató ismételt súlyos jogsértése miatt a 185–187. §-ba
 
 (10) Az adatváltozás késedelmes teljesítése, vagy elmulasztása miatt a Hivatal a 187. § (3) ba) vagy bb) pont szerinti bírsággal sújthatja a médiaszolgáltatót.
 
-(11) A médiaszolgáltatók hálózatba kapcsolódásának, illetve vételkörzet-bővítésének feltétele a Médiatanács e törvény 64. §-ban foglaltak megfelelő alkalmazásával meghozott hatósági határozatában foglalt engedélye.
+(11) A médiaszolgáltatók hálózatba kapcsolódásának feltétele a Médiatanács e törvény 64. §-ban foglaltak megfelelő alkalmazásával meghozott hatósági határozatában foglalt engedélye.

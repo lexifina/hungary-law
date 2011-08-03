@@ -12,11 +12,11 @@
 
 (2) Azt a műsorszámot, amely korhatárra tekintet nélkül megtekinthető vagy meghallgatható, az I. kategóriába kell sorolni.
 
-(3) Azt a műsorszámot, amely hat éven aluli nézőben félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a II. kategóriába kell sorolni. Az ilyen műsorszám minősítése: hat éven aluliak számára nem ajánlott.
+(3) Azt a műsorszámot, amely hat éven aluliakban félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a II. kategóriába kell sorolni. Az ilyen műsorszám minősítése: hat éven aluliak számára nem ajánlott.
 
-(4) Azt a műsorszámot, amely tizenkét éven aluli nézőben félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a III. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenkét éven aluliak számára nem ajánlott.
+(4) Azt a műsorszámot, amely tizenkét éven aluliakban félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a III. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenkét éven aluliak számára nem ajánlott.
 
-(5) Azt a műsorszámot, amely alkalmas a tizenhat éven aluliak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy közvetlen módon utal erőszakra, illetve szexualitásra, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus, a IV. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenhat éven aluliak számára nem ajánlott.
+(5) Azt a műsorszámot, amely alkalmas a tizenhat éven aluliak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy erőszakra, illetve szexualitásra utal, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus, a IV. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenhat éven aluliak számára nem ajánlott.
 
 (6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, az V. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
 

@@ -10,4 +10,4 @@ c) a Médiatanács mérlegelése szerinti médiapolitikai szempontok, illetve az
 
 d) a Médiatanács a benyújtott pályázati ajánlatok és a rendelkezésre álló információk alapján megállapítja, hogy egyetlen pályázó pályázati ajánlata sem felel meg az e törvényben foglalt céloknak és alapelveknek, illetve bármely pályázó nyertessé nyilvánítása veszélyeztetné a frekvenciakészlettel, mint állami tulajdonnal való felelős, rendeltetésszerű, hatékony gazdálkodást.
 
-(2) A Médiatanács az (1) bekezdés szerinti döntését a pályázókkal öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+(2) A Médiatanács az (1) bekezdés szerinti döntését a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.

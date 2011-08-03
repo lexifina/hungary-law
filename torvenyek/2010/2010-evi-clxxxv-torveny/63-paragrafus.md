@@ -4,7 +4,7 @@
 
 (2) Amennyiben az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt, vagy a hatósági szerződés megkötését akadályozza, az (1) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Médiatanács az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
 
-(3) Helyi médiaszolgáltatásra vonatkozó pályázat esetén, ha egyetlen pályázó felel meg a törvényes, illetve pályázati követelményeknek, a Médiatanács megköti a hatósági szerződést.
+(3)
 
 (4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
 
@@ -20,8 +20,10 @@
 
 (10) Amennyiben a médiaszolgáltató a médiaszolgáltatási díj bármely részének megfizetésével késedelembe esik, vagy a díjfizetést elmulasztja, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést tizenöt napos határidővel felmondani.
 
-(11) A hatósági szerződésben meg kell határozni a szerződésszegés következményeit, továbbá a szolgáltatás legfeljebb harminc napig terjedő felfüggesztésének feltételeit.
+(11) A hatósági szerződésben meg kell határozni a szerződésszegés következményeit.
 
 (12) A médiaszolgáltató a pályázati ajánlatában vállalt időtartamban és műsoridőben a műsoridő-beosztás szerint, saját megkülönböztető azonosítási jelét használva, a vállalt műsorstruktúrának megfelelő műsor sugárzására jogosult és köteles, az általa üzemben tartott saját hálózaton, berendezésekkel, eszközökkel vagy hírközlési szolgáltató (műsorszóró) szolgáltatás közreműködésével. A médiaszolgáltató saját eszközökkel történő műsorszóró, szétosztó tevékenységére a távközlési szolgáltatási engedély nem szükséges, de ez nem érinti a jogszabályokban meghatározott egyéb engedélyek beszerzésére vonatkozó kötelezettséget.
 
 (13) A 49. § (8) bekezdés szerinti eredeti igénylő a pályázat nyertesétől az adatszolgáltatással és tervezéssel kapcsolatban felmerült indokolt költségeinek megtérítésére tarthat igényt.
+
+(14) A médiaszolgáltató köteles öt napon belül a Médiatanácsnak bejelentenie, ha a médiaszolgáltató tulajdonosi szerkezetében vagy a hatósági szerződésben szereplő adataiban változás következik be.

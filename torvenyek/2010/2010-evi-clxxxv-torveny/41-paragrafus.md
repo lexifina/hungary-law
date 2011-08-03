@@ -28,7 +28,9 @@ g) a kiegészítő médiaszolgáltatásokról,
 
 h) a nyomtatott sajtótermékekről,
 
-i) az internetes sajtótermékekről és hírportálokról.
+i) az internetes sajtótermékekről és hírportálokról,
+
+j) a közszolgálati médiaszolgáltatók által nyújtott lineáris és lekérhető médiaszolgáltatásokról, illetve kiegészítő médiaszolgáltatásokról.
 
 (5) Ha a médiaszolgáltató lineáris és lekérhető szolgáltatást is nyújt, illetve ha a sajtóterméket kiadó nyomtatott és internetes sajtóterméket is megjelentet, köteles médiaszolgáltatásait, illetve sajtótermékeit külön-külön bejelenteni.
 

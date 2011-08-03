@@ -4,7 +4,7 @@
 
 ### 203. §
 
-1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
+1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket, állóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
 
 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
 
@@ -14,7 +14,7 @@ a) olyan közvetlen és közvetett tulajdon egy vállalkozásban, amely összess
 
 b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapszabály), vagy elsőbbségi részvény alapján, a döntéshozó, vagy a felügyelő szervek tagjai kinevezése (elmozdítása) útján, vagy egyéb módon jelentős befolyást tesz lehetővé.
 
-4. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve félrevezetheti a közönséget.
+4. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
 5. Dokumentumfilm: olyan nem fikciós filmalkotás, amelynek célja a valóság dokumentálása. Dokumentumfilmnek számít például a természet-, ismeretterjesztő és oktatófilm, a történelmi dokumentumfilm, a portréfilm és a riportfilm.
 
@@ -62,7 +62,7 @@ d) amely az Európai Unió és valamely Európán kívüli állam között létr
 
 20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
-21. Képújság: lineáris audiovizuális médiaszolgáltatás műsoridejének megkezdése előtt, illetve befejezése után, vagy a műsor folyamának megszakításával közzétett olyan szöveg, állókép, mozgókép, hang, számítógépes grafika, amely valamely információt tartalmaz, és a műsor részének vagy önálló műsorszámnak nem minősül.
+21. Képújság: lineáris audiovizuális médiaszolgáltatásban közzétett olyan műsorszám, amely elsősorban szöveges információközlésre szolgál, illetőleg emellett állóképet, mozgóképet, hangot, vagy számítógépes grafikát is tartalmazhat.
 
 22. Kiadvány:
 
@@ -104,7 +104,7 @@ d) információk megtalálását elősegítő segédeszközöket biztosít az ig
 
 31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
 
-32. Közszolgálati médiaszolgáltató: a közszolgálati médiaszolgáltatás céljainak megvalósítására törvénnyel létrehozott médiaszolgáltató.
+32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdálkodó szervezet által létrehozott médiaszolgáltató.
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltatók, jogelődeik, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a szerzői jogi védelem alatt álló jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltatók valamelyikét vagy a törvény hatálybalépését követően a Médiaszolgáltatás-támogató és Vagyonkezelő Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan a közszolgálati médiaszolgáltatók e törvény hatálybalépését követően szereznek jogot.
 
@@ -136,7 +136,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
 
-39. Médiaigazgatásra vonatkozó szabály: e törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, illetve ezek végrehajtása tárgyában kibocsátott jogszabály, médiaigazgatásra vonatkozó, közvetlenül alkalmazandó európai uniós aktus, a Médiatanács és a Hivatal által megkötött hatósági szerződés, illetve a Médiatanács és a Hivatal hatósági határozata.
+39. Médiaigazgatásra vonatkozó szabály: e törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, illetve ezek végrehajtása tárgyában kibocsátott jogszabály, médiaigazgatásra vonatkozó, közvetlenül alkalmazandó európai uniós aktus, műsorszolgáltatási szerződés, a Médiatanács és a Hivatal által megkötött hatósági szerződés, illetve a Médiatanács és a Hivatal hatósági határozata.
 
 40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
@@ -152,7 +152,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 46. Műsoridő: a médiaszolgáltatásban – valamely meghatározott időszak folyamán – folyamatosan közzétett műsorszámok együttes időtartama.
 
-47. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, mely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
+47. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek, állóképek sorozata, mely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
 
 48. Műsorszámokat kiegészítő termékek: egy műsorszám tartalmához közvetlenül kapcsolódó, a médiaszolgáltató által forgalmazott áru vagy szolgáltatás, amely a műsorszám teljesebb élvezetéhez nyújt segítséget, például a nézői vagy hallgatói interaktivitás elősegítésével.
 
@@ -184,7 +184,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 62. Tagállam: az Európai Gazdasági Térség tagállama.
 
-63. Támogatás: olyan hozzájárulás, amelyet valamely – audiovizuális médiaszolgáltatás nyújtásával vagy műsor- és filmalkotások készítésével nem foglalkozó – vállalkozás nyújt valamely médiaszolgáltató vagy műsorszám finanszírozására azzal a céllal, hogy népszerűsítse nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
+63. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt valamely médiaszolgáltató vagy műsorszám finanszírozására azzal a céllal, hogy népszerűsítse nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
 64. Társadalmi célú reklám: politikai reklámnak nem minősülő, üzleti érdekeltséget nem tartalmazó, reklámcélokat nem szolgáló, ellenérték fejében vagy anélkül közzétett felhívás vagy közérdekű üzenet, amely valamely közérdekű cél elérése érdekében kíván hatást gyakorolni a médiaszolgáltatás nézőjére vagy hallgatójára.
 
@@ -198,7 +198,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 69. Választási kampányidőszak: a választási eljárásról szóló törvényben meghatározott, a választási kampány lefolytatására rendelkezésre álló időszak.
 
-70. Vállalkozás: az e törvény hatálya alá tartozó tevékenységet végző természetes személy, gazdasági társaság, vagy más jogi személy.
+70. Vállalkozás: természetes személy, egyéni vállalkozó, gazdasági társaság, más jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság.
 
 71. Vételkörzet:
 

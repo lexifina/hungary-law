@@ -34,7 +34,7 @@ m) a Médiatanács döntése szerinti egyéb feltételeket.
 
 a) a benyújtott pályázatokra vonatkozó ajánlati kötöttséget és annak időtartamát,
 
-b) a közszolgálati műsorszámok meghatározott arányát,
+b) a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámok meghatározott arányát,
 
 c) a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok arányát,
 

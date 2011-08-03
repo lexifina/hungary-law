@@ -6,9 +6,9 @@
 
 (3) A Közszolgálati Testület tagjait legalább harminc nappal a korábbi tagok mandátumának lejártát megelőzően delegálni kell.
 
-(4) A Közszolgálati Testület titkársági feladatait a Közalapítvány irodája látja el.
+(4) A Közszolgálati Testület titkársági feladatait a Közalapítvány irodája látja el, költségei – beleértve az elnök és a tagok tiszteletdíját – a Közalapítványt terhelik.
 
-(5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül utazási költségeik megtérítésére tarthatnak igényt.
+(5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok– a 118. § (1) bekezdés e) pontjának kivételével – értelemszerűen irányadók.
 
 (6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltatók felett.
 

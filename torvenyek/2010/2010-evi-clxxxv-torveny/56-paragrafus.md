@@ -6,7 +6,7 @@ a) a pályázó adatait:
 
 aa) nevét,
 
-ab) székhelyét,
+ab) lakcímét vagy székhelyét,
 
 ac) cégjegyzékszámát, illetve nyilvántartási számát,
 
@@ -38,7 +38,7 @@ di) vételkörzet-bővítés, illetve hálózatba kapcsolódás esetén ennek t�
 
 dj) a tervezett műsorszerkezetet,
 
-dk) a közszolgálati műsorszámok, illetve a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok közlésére szánt napi, heti, havi minimális műsoridőt,
+dk) a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámok, illetve a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok közlésére szánt napi, heti, havi minimális műsoridőt,
 
 dl) a napi rendszeres híradásra szánt minimális műsoridőt,
 

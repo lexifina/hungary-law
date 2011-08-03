@@ -4,13 +4,13 @@
 
 (2) Az Alap eszközei kizárólag a törvényben meghatározott célokra használhatók fel.
 
-(3) Az Alap pénzügyi forrásai: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (9) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások, a vagyonhasznosításból, illetve a kereskedelmi tevékenységből származó bevételek, a kamatbevételek továbbá az önkéntes befizetések.
+(3) Az Alap pénzügyi forrásai: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (8) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások, a vagyonhasznosításból, illetve a vállalkozási tevékenységből származó bevételek, a kamatbevételek, továbbá az önkéntes befizetések.
 
-(4) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét e törvény 4. számú melléklete határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig fizeti meg az Alap pénzforgalmi számlájára.
+(4) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét e törvény 4. számú melléklete határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig fizeti meg az Alap pénzforgalmi számlájára. Az Alap a Médiatanács hozzájárulásával jogosult a közszolgálati hozzájárulásból származó bevételeinek engedményezésére.
 
 (5) A Magyar Állam képviseletében eljárva az audiovizuális politikáért felelős miniszter legfeljebb hét évre szóló szerződést köthet az Alappal a közszolgálati hozzájárulás megfizetéséről. A szerződés megkötéséhez nem szükséges az államháztartásról szóló törvényben előírt, külön országgyűlési felhatalmazás.
 
-(6) Az Alap jogi személy, kezelője a Médiatanács.
+(6) Az Alap jogi személy, gazdálkodó szervezet, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
 
 (7) Az Alap köteles a Kincstárban pénzforgalmi számlát vezetni.
 
@@ -18,9 +18,9 @@
 
 (9) Az Alapba történő önkéntes befizetés közérdekű kötelezettségvállalásnak minősül. Amennyiben az Alapba történő önkéntes befizetés a Hatósággal vagy a Médiatanáccsal kötött hatósági szerződésben foglalt vállaláson vagy a Média- és Hírközlési Biztossal kötött megállapodáson alapul, az önkéntes befizetést az e megállapodásokban foglaltaknak megfelelően kell felhasználni.
 
-(10) Az Alap támogatáspolitikáját, éves tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve éves tervben nem szereplő felhasználásához, illetve az ezek terhére történő, a támogatáspolitikában, illetve éves tervben nem szereplő kötelezettségvállaláshoz, valamint az Alap finanszírozási körén kívülre történő, a Médiatanács által meghatározott összeghatárt meghaladó kifizetéshez a Médiatanács előzetes jóváhagyása szükséges.
+(10) Az Alap támogatáspolitikáját, üzleti tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve üzleti tervben nem szereplő felhasználásához, illetve az ezek terhére történő kötelezettségvállaláshoz a Médiatanács által meghatározott összeghatárt meghaladó kifizetéshez a Médiatanács előzetes jóváhagyása szükséges.
 
-(11) Az Alap vezérigazgatója feletti teljes munkáltatói jogkört – ideértve a kinevezést, a munkabér és juttatások megállapítását, továbbá a munkáltatói felmondást is – a Médiatanács elnöke gyakorolja.
+(11) Az Alap képviseletére a vezérigazgató jogosult. Az Alap vezérigazgatója feletti teljes munkáltatói jogkört – ideértve a kinevezést, a munkabér és juttatások megállapítását, továbbá a munkáltatói felmondást is – a Médiatanács elnöke gyakorolja.
 
 (12) Az Alap vezérigazgató-helyetteseinek kinevezésére és a munkáltatói felmondásra a vezérigazgató tesz javaslatot a Médiatanács elnökének, aki dönt a kinevezésről, a munkabérről és juttatásokról, továbbá a munkáltatói felmondásról. Egyebekben a vezérigazgató gyakorolja a vezérigazgató-helyettesek feletti munkáltatói jogkört.
 
@@ -30,8 +30,8 @@
 
 (15) Az Alap éves költségvetését – a 134. § (2) bekezdés szerinti önálló törvény mellékleteként – az Országgyűlés hagyja jóvá.
 
-(16) Az Alap kezelésének részletes szabályait a Médiatanács határozza meg és az audiovizuális politikáért felelős miniszter által vezetett minisztérium internetes honlapján, továbbá a Hatóság honlapján közzéteszi.
+(16) Az Alap kezelésének részletes szabályait a Médiatanács határozza meg.
 
-(17) Az Alap részére a 109/2010. (X. 28.) OGY határozat alapján átadott, valamint az Alap által egyéb jogcímen szerzett vagyon tulajdonosi jogainak és kötelezettségeinek – Alap által történő – gyakorlása, az átadott, illetve az egyéb jogcímen szerzett vagyon hasznosítása, a vagyonnal történő gazdálkodás nem tartozik az állami vagyonról szóló törvény hatálya alá.
+(17) A 109/2010. (X. 28.) OGY határozat alapján a Magyar Állam tulajdonába adott vagyon vonatkozásában a tulajdonosi jogok és kötelezettségek összességét (vagyonkezelői jogokat) az Alap gyakorolja. Az Alap vagyonkezelésébe adott, valamint az Alap által gazdálkodása során egyéb jogcímen szerzett vagyon tulajdonosi jogainak és kötelezettségeinek Alap által történő gyakorlása, a vagyon hasznosítása, megterhelése a vagyonnal történő gazdálkodás nem tartozik az állami vagyonról szóló törvény hatálya alá. Az Alap vagyonkezelésében és tulajdonában álló vagyonnal való gazdálkodás részletes szabályait a Médiatanács határozza meg.
 
 (18) Az Alap személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
