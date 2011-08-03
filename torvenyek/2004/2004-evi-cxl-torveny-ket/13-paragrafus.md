@@ -20,7 +20,7 @@ f) a közbeszerzésekkel kapcsolatos jogorvoslati eljárásban,
 
 g) az atomenergia alkalmazási körébe tartozó ügyekben,
 
-g) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a médiaigazgatással, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával kapcsolatos eljárásban
+g) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a média- és hírközlési igazgatással, az elektronikus hírközlési szolgáltatások, tevékenységek, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával, ellenőrzésével kapcsolatos eljárásban,
 
 h) a veszélyes létesítményekkel kapcsolatos eljárásban, valamint
 
