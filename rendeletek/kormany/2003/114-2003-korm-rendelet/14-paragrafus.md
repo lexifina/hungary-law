@@ -1,1 +1,0 @@
-## 13. § Az OAH tájékoztatást ad a közvéleménynek az atomenergia alkalmazásának biztonságáról és saját tevékenységéről, fontosabb döntéseiről és azok megalapozásáról, az alkalmazott biztonsági követelményekről.

@@ -1,1 +1,0 @@
-## 18. § A bírság összegének megállapításánál figyelemmel kell lenni az eset összes körülményére, ezen belül különösen arra, hogy a szabályszegés vagy mulasztás folytán bekövetkezett-e rendkívüli esemény, nukleáris veszélyhelyzet vagy atomkár, továbbá milyen súlyú a biztonsági követelmények megszegése, vagy ismételt szabályszegés történt-e.

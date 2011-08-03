@@ -1,1 +1,0 @@
-A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-ának a) és i) pontjában kapott felhatalmazás alapján, figyelemmel az 1972. évi 9. törvényerejű rendeletben foglalt kötelezettségekre, az alábbiakat rendeli el:
