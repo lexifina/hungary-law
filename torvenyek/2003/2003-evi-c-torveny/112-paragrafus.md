@@ -4,8 +4,6 @@
 
 ## Az internet-elérés elterjedését elősegítő különös szabályok
 
-112. § (1) Internet szolgáltatás helyhez kötött telefonhálózaton keresztüli elérésével kapcsolatos valamely piacon jelentős piaci erővel rendelkező szolgáltató (a jelen § alkalmazásában: kötelezett szolgáltató) köteles költségalapú díj ellenében internet híváskezdeményezés forgalmi szolgáltatás és átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás nyújtására referenciaajánlatában ajánlatot tenni.
+112. § (1) Amennyiben valamely érintett nagykereskedelmi piacon a Hatóság határozata alapján jelentős piaci erővel rendelkezőnek minősülő szolgáltató a helyi hozzáférési hálózati eszközei teljes egészét vagy jelentős részét más tulajdonában lévő, önálló jogi személyre kívánja átruházni, vagy ha önálló gazdasági egységet kíván létrehozni abból a célból, hogy valamennyi kiskereskedelmi szolgáltató részére – saját kiskereskedelmi részlegeit is beleértve – teljes mértékben egyenértékű hozzáférési termékeket biztosítson, köteles a tervezett ügylet megvalósulását legalább 90 nappal megelőzően, erről tájékoztatni a Hatóságot.
 
-(2) Az (1) bekezdés szerinti átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást a kötelezett szolgáltató csak ott és addig az időpontig köteles biztosítani, ahol és ameddig műszaki okból az adott előfizető számára a kötelezett szolgáltató szélessávú szolgáltatás nyújtására nem képes.
-
-(3) Az internet híváskezdeményezés és átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás díjának megállapításakor a kötelezett szolgáltató ezen szolgáltatásoknak a helyhez kötött telefonhálózaton megvalósuló híváskezdeményezés forgalmi szolgáltatástól eltérő jellegére (az internet híváskezdeményezés forgalmi szolgáltatás esetében különösen a hosszabb tartásidőre) tekintettel a költségszámítás szabályait a megfelelő eltérésekkel és kiegészítésekkel köteles alkalmazni.
+(2) A szolgáltató szintén köteles tájékoztatni a Hatóságot az (1) bekezdésben foglalt ügylet meg nem valósulásáról, valamint a szétválás folyamatának végeredményéről.

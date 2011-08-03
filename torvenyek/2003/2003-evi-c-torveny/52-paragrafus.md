@@ -1,7 +1,25 @@
-## Piacmeghatározás, jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségek előírása
+## Nyilvántartások vezetése
 
-52. § (1) Az Elnök azonosítja az érintett piacokat; elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, és amennyiben azokon a verseny nem kellően hatékony, azonosítja az érintett piacokon a jelentős piaci erővel rendelkező szolgáltatót, illetve szolgáltatókat; valamint a jelentős piaci erővel rendelkező szolgáltatóra, illetve szolgáltatókra a XI–XIV. fejezetben foglalt kötelezettségek közül a piacelemzés alapján feltárt versenyt korlátozó akadályok által indokolt, azokkal arányos, legalább egy kötelezettséget ír elő, vagy a jelentős piaci erővel rendelkező szolgáltatóra korábban, az e bekezdés szerinti piacelemzés első elvégzését megelőzően jogszabályban, illetve azt követően a Hatóság határozatában megállapított legalább egy kötelezettséget fenntart, illetve módosítja azt.
+52. § (1) A Hatóság hatósági feladatainak ellátása során hatósági nyilvántartásokat vezet.
 
-(2) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. Az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén az Elnök a 33. § (3)–(5) bekezdése szerint bírságot szab ki.
+(2) A Hatóság nyilvántartást vezet különösen:
 
-(3) Az Elnök a piacmeghatározást és a piacelemzést a miniszter által rendeletben kihirdetett alapelvek alapján, a versenyjog vonatkozó szabályai szerint végzi el.
+a) az elektronikus hírközlési szolgáltatókról és az általuk nyújtott szolgáltatásokról;
+
+b) az elektronikus hírközlési tevékenység elektronikus hírközlő hálózaton történő végzéséhez vagy a szolgáltatás nyújtásához szükséges interfész bejelentésekről;
+
+c) az egyetemes hírközlési szolgáltatók ellenőrzéséhez szükséges adatokról;
+
+d) az elektronikus hírközlési építmények több szolgáltató által megvalósuló közös eszközhasználatáról;
+
+e) az Elnök rendeletében meghatározott egyedi engedélyekről;
+
+f) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
+
+g) a nem azonosítható hívószámokról;
+
+h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról.
+
+(3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
+
+(4) A Hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.

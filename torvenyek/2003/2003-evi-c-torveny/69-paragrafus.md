@@ -1,25 +1,13 @@
-## Egyedi engedélyek
+## Hírközlési ágazati vizsgálat
 
-69. § (1) Rádiófrekvenciák használati jogát – jogszabályban meghatározott esetekben – a Hatóság döntése (frekvenciakijelölés, valamint rádióengedély) alapján lehet megszerezni. A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt, valamint árverés, illetve pályázat esetén frekvenciahasználati jogosultságot a Hatóság, a nem polgári célú frekvenciakijelölést, illetve rádióengedélyt a KFGH adja ki. A KFGH eljárásaira – amennyiben jogszabály másként nem rendelkezik – az e törvényben meghatározott szabályokat kell alkalmazni.
+69. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, és az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a hírközlési piacok valamelyikén a verseny torzul vagy korlátozódik, – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
 
-(2) A frekvenciahasználati joggal kapcsolatos hatósági eljárásban a Hatóság nyílt, objektív, átlátható és hátrányos megkülönböztetéstől mentes szabályok alapján határoz a frekvenciahasználati jog kiadásáról. A frekvenciahasználati joggal, illetve jogosultsággal kapcsolatos hatósági eljárások részletes szabályairól külön jogszabály rendelkezik.
+(2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
 
-(3) A frekvenciahasználati joggal kapcsolatos hatósági eljárás határideje 42 nap. Pályázat vagy árverés útján megszerezhető jogosultságok esetén a határidő legfeljebb nyolc hónappal meghosszabbítható.
+(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
 
-(4) Az e törvényben szabályozott frekvenciagazdálkodási hatósági eljárás az ügy eldöntéséhez szükséges műszaki vizsgálatok és a nemzetközi koordináció befejeződéséig felfüggeszthető.
+(4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy a vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
 
-(5) A Hatóság a rádiófrekvenciás spektrum hatékony és megfelelő használata, a káros zavarok elkerülése érdekében, illetőleg külön jogszabályban meghatározott közegészségügyi szempontok alapján a frekvenciahasználatot korlátozhatja vagy megtagadhatja.
+(5) A Gazdasági Versenyhivatal az Elnök (4) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Hatóságot tájékoztatja.
 
-(6) A közszolgálati médiaszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati médiaszolgáltató kérelme elsőbbséget élvez.
-
-(7) A frekvenciagazdálkodó hatóságnak a frekvenciahasználatra irányuló kérelmet el kell utasítania, ha
-
-a) a kérelem teljesítése műszaki, illetőleg frekvenciagazdálkodási okból nem lehetséges;
-
-b) a frekvencia használata a meglévő vagy tervezett frekvenciafelhasználásokban káros rádiófrekvenciás zavart okozna;
-
-c) a kérelmezőnek lejárt határidejű frekvenciadíj-fizetési kötelezettsége van a Hatósággal szemben.
-
-(8) A frekvenciahasználati jog jogosítottjának kérelmére a frekvenciahasználati jogot vissza kell vonni. A visszavonás egyéb feltételeit a miniszter rendeletben állapítja meg.
-
-(9) A műsorszórásra felosztott frekvenciák frekvenciahasználati jogosultságával, kijelölésével és rádióengedélyével kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
+(6) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Hatóság saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.

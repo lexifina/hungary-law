@@ -1,9 +1,9 @@
-## Fellebbezés, a határozat bírósági felülvizsgálata
+## Ideiglenes intézkedés
 
-37. § (1) A Hivatal által a Hatóság nevében hozott elsőfokú határozat ellen az Elnökhöz lehet fellebbezni, ide nem értve a 30. § (5) és a 152. § (1) bekezdése szerinti döntést.
+37. § (1) A Hatóság hatósági eljárás keretében az élet, az egészség, a testi épség és a környezet, a közbiztonság védelme vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető, továbbá más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében ideiglenes intézkedésként a szolgáltatás nyújtását, rádiófrekvenciák és azonosítók használatát, valamint elektronikus hírközlési berendezés forgalmazását megtilthatja a tevékenység folytatásához használt eszközt, vagy berendezést lepecsételheti.
 
-(2) Akinek jogát vagy jogos érdekét az Elnök által a jelen fejezet szerinti ügyben másodfokon hozott határozat sérti, keresettel kérheti a bíróságtól annak felülvizsgálatát.
+(2) Az ideiglenes intézkedést a Hatóság visszavonja, ha az elrendelés oka megszűnt, egyéb esetben az ideiglenes intézkedés hatálya az alapeljárás jogerős befejezéséig tart, de legfeljebb kilencven napig maradhat hatályban. Abban az esetben, ha a végrehajtási eljárások nem zárultak le, ez további legfeljebb kilencven nappal meghosszabbítható.
 
-(3) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya. A végrehajtás felfüggesztéséről a bíróság kérelemre, illetve hivatalból végzéssel határoz.
+(3) Az ideiglenes intézkedésről szóló végzés ellen önálló fellebbezésnek van helye.
 
-(4) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát, vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Bíróságtól annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 46–47. §-okban és a 48. § (3), (4) és (7) bekezdéseiben foglaltak megfelelően irányadók.
+(4) Az élet, az egészség, a testi épség és a környezet, a közbiztonság vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető veszély elhárítása érdekében, valamint a rádiófrekvencia jogszerűtlen, engedély nélküli használatának megállapítása kapcsán hozott határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.

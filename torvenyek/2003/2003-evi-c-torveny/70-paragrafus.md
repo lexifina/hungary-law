@@ -1,7 +1,7 @@
-70. § (1) Az azonosítókkal való gazdálkodás során biztosítani kell a szolgáltatások zavarmentes, egyértelmű elérhetőségét, a piaci szereplők esélyegyenlőségét, az azonosítók hatékony, a felhasználók és a szolgáltatók érdekeit érvényesítő felhasználását.
+## Piaci erőre tekintet nélkül előírható kötelezettségekkel kapcsolatos eljárások
 
-(2) A felosztott azonosítók résztartományai kizárólagos használati jogának egy későbbi időpontban történő megszerzését (lekötési engedély), a lekötött azonosítók meghatározott résztartományonkénti vagy egyedi azonosítónkénti használatát (kijelölési engedély) a Hatóság engedélyezi.
+70. § (1) Az Elnök a jelentős piaci erővel nem rendelkező szolgáltatókra kizárólag a XI. fejezetben meghatározott kötelezettségeket róhatja ki.
 
-(3) A Hatóság határozatát a szolgáltatások megvalósításának erőforrás- és időszükségletére figyelemmel hozza meg.
+(2) Amennyiben az eljárás hivatalból indul, az (1) bekezdés szerinti kötelezettség előírására, módosítására, hatályban tartására, hatályon kívül helyezésére a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettségek megállapítására irányadó eljárás szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy érintett piac helyett a kötelezettséggel érintett hálózati elemek és kapcsolódó eszközök, jelentős piaci erővel rendelkező szolgáltató helyett kötelezett szolgáltató kerülnek meghatározásra.
 
-(4) Az azonosító használatot a Hatóság ellenőrzi. Az engedélyezési és ellenőrzési eljárás szabályait külön jogszabály határozza meg.
+(3) Amennyiben az eljárás kérelemre indul, a jogvitás eljárás szabályait kell megfelelően alkalmazni, azzal, hogy az Elnök a jogvitás eljárásban résztvevő szolgáltatóval szemben jogosult hivatalból eljárást indítani annak érdekében, hogy a XI. fejezet szerinti kötelezettségek a kötelezett szolgáltatót valamennyi szolgáltatóval szemben terheljék.

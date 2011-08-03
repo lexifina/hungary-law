@@ -1,13 +1,19 @@
-59. § (1) Az Elnök a kötelezett szolgáltató által jóváhagyásra benyújtott referenciaajánlat-tervezetet megvizsgálja, hogy az megfelel-e az elektronikus hírközlésre vonatkozó szabályokban foglaltaknak.
+59. § (1) Az eljáró tanács bármelyik fél kérelmére tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
 
-(2) Ha az Elnök megállapítja, hogy a hozzá benyújtott referenciaajánlat-tervezet hiányos, és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabályoknak, illetve ahhoz nem csatolták az előírt adatokat, határozatában megállapítja a referenciaajánlat tartalmát.
+(2) A tárgyalásra szabályszerűen idézettek, értesítettek távolmaradása a tárgyalás megtartását és az ügy elintézését nem gátolja. Távolmaradását azonban az idézett, értesített alapos okkal előzetesen kimentheti, ez esetben az eljáró tanács a tárgyalást elhalaszthatja.
 
-(3) Kétség esetén a szolgáltatót terheli annak bizonyítása, hogy a referenciaajánlat-tervezetben foglaltak megfelelnek az elektronikus hírközlésre vonatkozó szabályoknak.
+(3) A tárgyalás elmulasztása miatt igazolásnak nincs helye. Az eljáró tanács azonban, ha a meg nem jelentek valamelyikének meghallgatását szükségesnek tartja, erre tekintettel – új tárgyalási határnap kitűzésével – a tárgyalást elhalaszthatja.
 
-(4)–(6)
+(4) E törvény eltérő rendelkezése hiányában a kérelemben foglaltak tény- és jogalapját a kérelmező köteles hitelt érdemlően bizonyítani.
 
-(7) Az Elnök a jóváhagyás tárgyában született határozatot közzéteszi, a referenciaajánlatot internetes oldalán közzéteszi. Az Elnök a jóváhagyás tárgyában hozott határozatában rendelkezik a referenciaajánlat vagy annak egyes részei hatálybalépésének időpontjáról. Az Elnök által jóváhagyott referenciaajánlatot az érintett szolgáltató köteles 5 napon belül internetes oldalán nyilvánosságra hozni.
+(5) Az eljáró tanács az ellenérdekű ügyfelet adatszolgáltatásra, nyilatkozattételre kötelezheti.
 
-(8) Az Elnök indokolt esetben jogosult a jóváhagyott referenciaajánlat módosítását hivatalból előírni.
+(6) Az eljáró tanács a folyamatban lévő ügyben kérelemre vagy hivatalból ideiglenes intézkedéseket tehet, amennyiben megállapítható, hogy e törvény szabályainak, különösen alapelveinek megszegése miatt az ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következik be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket.
 
-(9)
+(7) Ideiglenes intézkedésként az eljáró tanács megtilthatja a tevékenység gyakorlását, meghatározhatja a tevékenység gyakorlásának feltételeit, továbbá kötelezettséget határozhat meg.
+
+(8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést az eljáró tanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
+
+(9) Amennyiben az eljáró tanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+
+(10) Az ideiglenes intézkedés elutasítása tárgyában az eljáró tanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.

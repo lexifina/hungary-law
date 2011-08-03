@@ -22,13 +22,13 @@ h) a díjfizetéssel és a díjtartozással összefüggő adatok;
 
 i) tartozás hátrahagyása esetén az előfizetői szerződés felmondásának eseményei;
 
-j) távbeszélő szolgáltatás esetén az előfizetők és felhasználók részéről igénybe vehető egyéb, nem elektronikus hírközlési szolgáltatásra, különösen annak számlázására vonatkozó adatok;
+j) telefon szolgáltatás esetén az előfizetők és felhasználók részéről igénybe vehető egyéb, nem elektronikus hírközlési szolgáltatásra, különösen annak számlázására vonatkozó adatok;
 
 k) az előfizetői szolgáltatás igénybevételéhez jogellenesen alkalmazott – így különösen a tulajdonosa által letiltott – előfizetői végberendezések használatára, illetve annak kísérletére vonatkozóan a szolgáltató elektronikus hírközlő hálózatában keletkező adatok.
 
 (3) A (2) bekezdés szerinti adatok a (2) bekezdésben meghatározott céllal, a keletkezésétől az előfizetői szerződésből az adattal összefüggésben eredő igények 143. § (2) bekezdése szerinti elévüléséig kezelhetők.
 
-(4) Az elektronikus hírközlési szolgáltató saját üzletszerzés céljából – az előfizető kifejezett előzetes hozzájárulásával – kezelheti a (2) bekezdés szerinti adatokat. Az elektronikus hírközlési szolgáltató köteles biztosítani, hogy az előfizető a hozzájárulását bármikor visszavonhassa.
+(4) Az elektronikus hírközlési szolgáltató értéknövelt szolgáltatások nyújtása, vagy saját üzletszerzés céljából – az előfizető vagy a felhasználó kifejezett előzetes hozzájárulásával az ilyen szolgáltatások nyújtásához, illetve értékesítéséhez szükséges mértékig és ideig – feldolgozhatja a (2) bekezdés szerinti adatokat. Az elektronikus hírközlési szolgáltató köteles biztosítani, hogy az előfizető és a felhasználó a hozzájárulását bármikor visszavonhassa.
 
 (5) Külön törvény ilyen előírása esetén az elektronikus hírközlési szolgáltató az előfizetőkre és felhasználókra vonatkozó, a külön törvény előírása szerinti személyes adatokat csak e külön törvény előírása szerinti célból és ideig kezelheti, az e törvény szerinti célhoz kötött adatkezeléseket a jelen törvényben a célhoz kapcsolódóan előírt kezelési határidőn belül meg kell szüntetnie.
 

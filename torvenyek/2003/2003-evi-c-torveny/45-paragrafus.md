@@ -1,37 +1,11 @@
-## Az Elnök döntései
+## Az Elnök döntése elleni jogorvoslat
 
-45. § (1) Az Elnök a döntésében
+45. § (1) Az Elnök elsőfokú hatósági határozata ellen nincs helye fellebbezésnek. Az Elnök elsőfokú határozatának felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól az Elnök elleni kereset indításával.
 
-a) elutasítja az alaptalan kérelmet;
+(2) Az Elnök elsőfokú határozatának felülvizsgálata iránti kereset alapján indult bírósági eljárásra a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó előírásait az e törvény szerinti eltérésekkel kell alkalmazni.
 
-b) megállapítja a jogsértés megtörténtét;
+(3) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
 
-c) kötelezi a jogsértés okozóját a jogszabálynak megfelelő magatartás tanúsítására;
+(4) Az Elnök a keresetlevelet – az ügy irataival és nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a bíróságnak.
 
-d) meghatározza az érintett piacokat és a jelentős piaci erővel rendelkező szolgáltatót, valamint e törvény keretei között legalább egy kötelezettséget ír elő számára;
-
-e) jelentős piaci erővel nem rendelkező szolgáltató számára e törvény keretei között kötelezettségeket írhat elő;
-
-f) jóváhagyja a referenciaajánlatot, megállapítja annak tartalmát, módosítja a korábban elfogadott referenciaajánlat tartalmát, illetve előírhatja a referenciaajánlat módosítását;
-
-g) jóváhagyja a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyéb kötelezettség teljesítését;
-
-h) e törvényben meghatározott keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmaz;
-
-i) a jogsértőt kötelezheti az igazgatási szolgáltatási díj és az eljárással kapcsolatban felmerült költségek viselésére;
-
-j) jogszabályba ütközés megállapítása esetén kötelezettséget írhat elő;
-
-k) elektronikus hírközlésre vonatkozó szabály alapján fennálló szerződéskötési kötelezettség fennállása esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában megállapíthatja a szerződés tartalmát;
-
-l) ideiglenes intézkedést rendelhet el;
-
-m) a 49. § (4)–(6) bekezdéseiben meghatározott esetekben hatáskör hiányában megszünteti az eljárást.
-
-(2) A hálózati szolgáltatások ellenértékével kapcsolatos jogvita esetén az Elnök az (1) bekezdésben foglaltak mellett megtilthatja az ellenérték további alkalmazását, egyidejűleg megállapíthatja a jogszerű árat és kötelezheti a szolgáltatót a jogszerű ár alkalmazására.
-
-(3) Ha az Elnök az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező hatóságnak, így különösen a versenyhatóságnak, illetve a fogyasztóvédelmi hatóságnak.
-
-(4) Az Elnök az (1) és (2) bekezdésben szereplő jogkövetkezmények közül többet is alkalmazhat.
-
-(5) A határozatot a feleknek és egyéb érdekelteknek kézbesíteni kell, és közzé kell tenni.
+(5) Az Elnök hatósági döntései tekintetében felügyeleti eljárásnak nincs helye.

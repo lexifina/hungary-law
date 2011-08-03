@@ -1,7 +1,5 @@
-32. § (1) A Hatóság a tényállás tisztázása érdekében, kivételes esetben az ügyfél eredeti iratait, adathordozóit és az eljárás egyéb tárgyi bizonyítási eszközeit lefoglalhatja vagy zár alá veheti, ha súlyos jogsértés gyanúja merül fel, és az irat, illetve az adathordozó tartalmának meghamisításától vagy megsemmisítésétől megalapozottan lehet tartani.
+## Kérelem
 
-(2) Nem lehet lefoglalni az ügyfél birtokában, őrizetében lévő iratot, adathordozót vagy egyéb bizonyítási eszközt, ha a rajta lévő jelből vagy más körülményből minden bizonyítás nélkül kétségtelenül megállapítható, hogy az nem az ügyfél tulajdona, illetőleg olyan adatokat tartalmaz, amelyek a lefoglalás alapjául szolgáló üggyel nem hozhatók összefüggésbe.
+32. § (1) Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – kizárólagos elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani.
 
-(3) A Hatóság a lefoglalásról, illetve a zár alá vételről végzést hoz, amely ellen az ügyfél a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek helye nincs.
-
-(4) A lefoglalást, illetve a zár alá vételt haladéktalanul meg kell szüntetni, ha arra az eljárás érdekében már nincs szükség.
+(2) Amennyiben a fogyasztó kérelmét nem űrlapon nyújtja be a Hatóság nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő felhívás mellett – felhívhatja a kérelem megfelelő űrlapon történő benyújtására. E felhívás nem teljesítése esetén a Hatóság az eljárást megszüntetheti, kivéve, ha az űrlap kitölthető és letölthető változata a hiánypótlás teljesítésére meghatározott határidőn belül nem volt közzétéve.

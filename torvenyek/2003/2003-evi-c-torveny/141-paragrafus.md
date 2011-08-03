@@ -17,3 +17,5 @@ f) a hiba okát;
 g) a hiba elhárításának módját és időpontját (év, hónap, nap, óra), eredményét (eredménytelenségét és annak okát);
 
 h) az előfizető értesítésének módját és időpontját.
+
+(3) A szolgáltató a saját érdekkörébe tartozó hiba elhárítását díjfizetéshez nem kötheti, vagy egyéb, az előfizető közreműködését igénylő feltételt nem támaszthat.

@@ -1,7 +1,13 @@
-## Elektronikus dokumentumok és okiratok
+## Bejelentő
 
-25. § (1) A Hatóság a döntését az elektronikus aláírásról szóló 2001. évi XXXV. törvény szerinti elektronikus dokumentumba foglalhatja, valamint eljárása során köteles elektronikus dokumentumokat elfogadni.
+25. § (1) A Hatóság e törvényben meghatározott feladat- és hatáskörével kapcsolatban az elektronikus hírközlésre vonatkozó szabály megsértésére hivatkozással, illetve a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettség megállapítására vagy felülvizsgálatára okot adó jelentős körülmény esetén bárki a Hatósághoz címzett bejelentéssel élhet, aki a bejelentés tárgyában nem minősül vagy a jogszabályok alapján nem minősülne ügyfélnek (a továbbiakban: bejelentő).
 
-(2) A Hatóság a döntését elektronikus dokumentumként köteles kézbesíteni, amennyiben a szolgáltató elektronikus levélcímét bejelentette, ekkor a kézbesítés időpontjának azt az időpontot kell tekinteni, amikor az elektronikus dokumentum a címzett részére hozzáférhetővé válik, és a kézbesítés sikerességéről a Hatósághoz visszajelzés érkezik.
+(2) A bejelentésben meg kell jelölni a bejelentő nevét és címét, a Hatóság eljárására okot adó körülményt, illetve azt a tevékenységet vagy magatartást, amelynek alapján az elektronikus hírközlésre vonatkozó szabály megsértése valószínűsíthető, valamint a bejelentést megalapozó tényeket.
 
-(3) A Hatóság előírhatja, hogy az elektronikus hírközlési tevékenységet végző köteles az egyes eljárási cselekményeket, adatszolgáltatást elektronikus úton teljesíteni.
+(3) A Hatóság a bejelentés alapján mérlegelése szerint hivatalból eljárást indíthat. Amennyiben a Hatóság a bejelentés alapján nem indít eljárást, arról – indokolási kötelezettség nélkül – tájékoztatja a bejelentőt.
+
+(4) A bejelentés alapján megindított hatósági eljárási jogviszonynak a bejelentő nem válik alanyává, a bejelentő a bejelentése alapján hivatalból indított hatósági eljárásban hozott hatósági döntéssel szemben jogorvoslati jogosultsággal nem rendelkezik.
+
+(5) A bejelentő kérheti adatainak zárt kezelését.
+
+(6) Amennyiben a bejelentés tartalma szerint kérelemnek és a bejelentő ügyfélnek minősül, abban az esetben a Hatóság e tényről és hatósági eljárás megindításával kapcsolatos jogairól külön tájékoztatja a bejelentőt.

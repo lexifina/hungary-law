@@ -8,7 +8,7 @@ b) az érintett piacokon fennálló verseny elemzésével,
 
 c) a jelentős piaci erővel rendelkező szolgáltatók azonosításával és a rájuk vonatkozó kötelezettségek előírásával,
 
-d) árprés vizsgálatára vonatkozó módszertan kidolgozásával, valamint árprés vizsgálatával
+d)
 
 kapcsolatos eljárásokban.
 

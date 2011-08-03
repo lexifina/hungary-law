@@ -4,4 +4,4 @@
 
 ## A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-23. § A Hatóság a piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban az e törvényben foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével, figyelemmel a 44. § (6) bekezdésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit e törvényben foglalt eltérésekkel alkalmazza.

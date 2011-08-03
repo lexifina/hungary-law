@@ -4,7 +4,7 @@
 
 (3) A szolgáltató a továbbított közlések tartalmát csak olyan mértékben ismerheti meg és tárolhatja, amely a szolgáltatás nyújtásához műszakilag elengedhetetlenül szükséges.
 
-(4) Elektronikus hírközlő hálózat igénybevételével elektronikus hírközlő végberendezésen csak a felhasználó, illetve előfizető világos és teljes körű tájékoztatását követő hozzájárulása alapján lehet információt tárolni, vagy az ott tárolt információhoz hozzáférni.
+(4) Egy előfizetőnek vagy felhasználónak elektronikus hírközlő végberendezésén csak az érintett felhasználó vagy előfizető világos és teljes körű – az adatkezelés céljára is kiterjedő – tájékoztatását követő hozzájárulása alapján lehet adatot tárolni, vagy az ott tárolt adathoz hozzáférni.
 
 (5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok külön törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 

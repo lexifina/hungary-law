@@ -1,19 +1,51 @@
-## Eljárás jogvitában
+49. § (1) A Hatóság a jogkövetkezményt, valamint annak mértékét – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértő által a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
 
-49. § (1) Az a szolgáltató, akinek egy másik szolgáltató elektronikus hírközlésre vonatkozó szabályban, vagy az alapján kötött szerződésben meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét megsértette (a továbbiakban: jogvita), választása szerint
+(2) Az (1) bekezdésben foglalt mérlegelési szempontok alkalmazása nélkül, amennyiben a jogsértés csekély súlyú és ismételtség nem állapítható meg, a Hatóság – a jogsértés tényének megállapítása és figyelmeztetés mellett – megfelelő határidő tűzésével felhívhatja a jogsértőt a jogsértő magatartás megszüntetésére, a jövőbeni jogsértésektől való tartózkodásra, valamint a jogszerű magatartás tanúsítására, és meghatározhatja annak feltételeit.
 
-a) bírósághoz,
+(3) Amennyiben a (2) bekezdés szerinti felhívás az ügy összes körülményeire tekintettel nem alkalmazható vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Hatóság – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, illetve az elektronikus hírközlésre vonatkozó szabályban foglaltak érvényesítése keretében kötelezettséget állapíthat meg, további jogkövetkezményeket alkalmazhat vagy hatósági szerződést köthet a jogsértővel.
 
-b) a hatósághoz, vagy
+(4) A Hatóság bírságot szabhat ki a jogsértővel szemben, melynek a felső határa
 
-c) a felek közötti választottbírósági szerződés hatálya alatt a Hírközlési Állandó Választottbírósághoz fordulhat.
+a) elektronikus hírközlésre vonatkozó szabályban, a szolgáltató bejelentésében vagy az általános szerződési feltételekben foglaltaktól való jogszabályba ütköző eltérés, illetve bejelentési kötelezettség elmulasztása esetén a jogsértő árbevételének 0,25%-a;
 
-(2) A bíróság, illetve a Hírközlési Állandó Választottbíróság haladéktalanul értesíti a hatóságot az (1) bekezdés szerinti jogvitás eljárás megindítása iránti kérelemről (keresetlevélről).
+b) a szabálytalanul forgalomba hozott, forgalmazott elektronikus hírközlő berendezés minden darabja után a nettó beszerzési érték ötszöröse;
 
-(3) A Hatóság eljáró tanácsa (a továbbiakban: eljáró tanács) kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértésével kapcsolatos jogvitákban.
+c) szabálytalan vagy jogszerűtlen, engedély nélküli rádiófrekvencia-, illetve azonosítóhasználat esetén a jogsértő árbevételének 1%-a;
 
-(4) Amennyiben az (1) bekezdés a) pontja szerinti bírósági vagy a b) pontja szerinti hatósági eljárás folyamatban van, vagy érdemi határozattal lezárult, a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt más alapeljárás – a (6) bekezdésben meghatározott eljárás kivételével – nem indítható.
+d) a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a;
 
-(5) Amennyiben ugyanazon felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt egyidejűleg mind a bíróságnál, mind pedig a hatóságnál eljárást indítanak, a bíróság értesítése vagy bármely fél indokolt kérelme alapján a hatóság az eljárást hatáskör hiányában megszünteti.
+e) egyéb, az a)–d) pontban nem szereplő piacszabályozási ügyekben, elektronikus hírközlésre vonatkozó szabály megsértése esetén a jogsértő árbevételének 0,1%-a;
 
-(6) Amennyiben a felek között választottbírósági szerződés van hatályban, vagy ha az eljáró tanács eljárását kezdeményező kérelem Hatósághoz való benyújtásától számított 15 napon belül ilyen szerződést kötnek, a Hatóság eljárását – a felek kérelmére vagy hivatalból – megszünteti.
+f) a Nemzetbiztonsági Szakszolgálattal kapcsolatos – e törvényben meghatározott – kötelezettségek megsértése esetén a jogsértő szolgáltató árbevételének 0,5%-a;
+
+g) árbevételi adatok vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, de legfeljebb százmillió forint.
+
+(5) Ismételt jogsértés esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, és az egyedi ügy sajátosságaihoz mérten.
+
+(6) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
+
+(7) A Hatóság
+
+a) kötelezheti a jogsértőt a határozatban foglalt közleménynek vagy a határozatnak a jogsértő internetes honlapjának nyitóoldalán vagy sajtótermékben történő közzétételére a határozatban meghatározott módon és ideig;
+
+b) a jogsértő költségén a jogszabálysértést megállapító határozatát vagy a határozatban foglalt közleményt országos napilapban is nyilvánosságra hozhatja, különösen, ha ez súlyos érdeksérelem megelőzését, illetve csökkentését szolgálja;
+
+c) a kötelezettségek súlyos és ismétlődő megsértése esetén 10–90 napig terjedő időtartamra felfüggesztheti az elektronikus hírközlési szolgáltatás nyújtására vonatkozó jogosultságot, illetve a rádiófrekvenciák és azonosítók használatára vonatkozó engedélyeket;
+
+d) kiemelten súlyos és ismételt jogsértés esetén megtilthatja az elektronikus hírközlési tevékenység végzését, visszavonhatja a rádiófrekvenciák és azonosítók használatára vonatkozó engedélyeket;
+
+e) elrendelheti a frekvenciahasználati jog kényszerértékesítését vagy haszonbérbe adását;
+
+f) elrendelheti a piacelemzést követően kiszabott kötelezettségek tekintetében a versenyt jelentős mértékben hátráltató szolgáltatás vagy szolgáltatáscsomag nyújtásának beszüntetését vagy késleltetését;
+
+g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról a Hatóság értesítést küld, a 3 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozás esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) a Hatóság visszavonja;
+
+h) egyéb, jogszabályban meghatározott szankciót alkalmazhat.
+
+(8) A (4)–(7) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
+
+(9) A bírság ismételt jogsértés esetén ismételten is kiszabható.
+
+(10) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
+
+(11) E § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó – a határozat meghozatalának időpontjához képest – előző üzleti évi nettó árbevételét kell érteni.

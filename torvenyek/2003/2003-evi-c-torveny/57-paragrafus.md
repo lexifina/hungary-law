@@ -1,15 +1,13 @@
-57. § (1) A piacelemzést az érintett piacokon az Elnök rendszeresen, de legalább az előző piacelemzési és kötelezettség előírásával kapcsolatos eljárás befejezését követő két éven belül ismételten elvégzi.
+## Eljárás jogvitában
 
-(2) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut a Hatóság tudomására, az Elnök a piacelemzést haladéktalanul lefolytatja az adott érintett piacon, illetve piacokon.
+57. § (1) Az a szolgáltató vagy egyéb vállalkozás, akinek egy másik szolgáltató elektronikus hírközlésre vonatkozó szabályban, az ez alapján kötött szerződésben, vagy e törvény szerinti hálózati szerződésben meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét megsértette (a továbbiakban: jogvita), a Hatósághoz fordulhat.
 
-(3) Amennyiben a lefolytatott piacelemzés eredménye alapján
+(2) A Hatóság az (1) bekezdésben meghatározott ügyekben tanácsban jár el.
 
-a) új érintett piac vagy piacok meghatározása, vagy
+(3) A Hatóság eljáró tanácsának (a továbbiakban: eljáró tanács) elnöke és két tagja van.
 
-b) valamely piac vagy piacok érintett piacként való meghatározásának megszüntetése, vagy
+(4) Az eljáró tanács elnöke az Elnök, vagy – a Szervezeti és Működési Szabályzatban szabályozott módon – az Elnökhelyettes.
 
-c) jelentős piaci erővel rendelkező szolgáltató azonosítása vagy ilyen szolgáltatóként való azonosítás megszüntetése, vagy
+(5) Az eljáró tanács két tagját az Elnök jelöli ki a Hatóság vezető beosztású alkalmazottai közül.
 
-d) jelentős piaci erővel rendelkező szolgáltatóra kötelezettség előírása, módosítása vagy megszüntetése
-
-válik szükségessé, az Elnök a 36. § és az 52. § szerinti eljárásokat lefolytatva haladéktalanul határozatot hoz.
+(6) Az eljáró tanács eljárására vonatkozó – e törvényben nem szabályozott – rendelkezéseket a Szervezeti és Működési Szabályzat tartalmazza.

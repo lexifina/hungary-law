@@ -1,115 +1,79 @@
 ## Felhatalmazás
 
-182. § (1) Felhatalmazást kap a Kormány arra, hogy a frekvenciagazdálkodással kapcsolatban rendelettel állapítsa meg:
+182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
-a) a frekvenciasávok nemzeti felosztását;
-
-b) a frekvenciahasználati jogosultság megszerzésére kiírt árverés és pályázat szabályait;
-
-c) a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság szervezetét és működését, irányítását, feladatait és finanszírozását, a nem polgári célú frekvenciagazdálkodás rendjére vonatkozó részletes szabályokat, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezeteket.
-
-(2) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában
-
-a) a Hatóság feladat- és hatáskörét, valamint eljárásainak részletes szabályait;
+a) az elektronikus hírközlés-politikát, a rádióspektrum-politikát és információs társadalompolitikát, és e politikák végrehajtásához szükséges intézkedéseket;
 
 b) az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 
-c) az ANFT-t és az azonosítókkal való gazdálkodás rendjére vonatkozó részletes szabályokat;
+c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
 
-d) a számhordozhatóság szabályait;
+d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 
-e) a közvetítőválasztás szabályait;
+e) az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit,
 
-f) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
+f) az e törvény szerinti hírközlési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
-g) az elektronikus hírközlési szolgáltatás minőségének a fogyasztók védelmével összefüggő követelményeit;
+(2) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg:
 
-h) a referenciaajánlatokra, a hálózati szerződésekre, valamint azok megkötésére vonatkozó részletes szabályokat;
+a) a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait,
 
-i) az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megbízottját terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket, a forgalmi és számlázási adatok kezelését, az azonosító-kijelzés és a hívásátirányítás feltételeit;
+b) az egyetemes szolgáltatással kapcsolatos díjcsomagokra vonatkozó szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
 
-j) az Egyetemes Elektronikus Hírközlési Támogatási Kassza létrehozására, működésére, forrásaira, felügyeletére, felhasználására és megszüntetésére vonatkozó részletes szabályokat;
+c) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 
-k) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
+d) piacmeghatározás, piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók kijelölése és a rájuk vonatkozó kötelezettségek előírása során alkalmazandó alapelveket;
 
-l) a digitális rádió- és televízió-műsorok elérése érdekében a Hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
+e) az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
 
-m) a távirat-szolgáltatás ellátásának részletes szabályait;
+f) az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatkozó eljárás és az egyetemes elektronikus hírközlési szolgáltatóval folytatott szerződéskötési eljárás részletes feltételeit és szabályait;
 
-n) az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit.
+(3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 
-(3) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg a frekvenciagazdálkodással kapcsolatban:
+1. a nemzeti frekvenciafelosztást;
 
-a) a polgári és a közös célú frekvenciasávok felhasználási szabályait;
+2. a frekvenciahasználati jogosultság megszerzésére kiírt árverés és pályázat szabályait,
 
-b) a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszterrel egyetértésben;
+3. a frekvenciasávok felhasználási szabályait;
 
-c) a rádiófrekvenciák használati joga átruházásának elveit és részletes feltételeit;
+4. a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit;
 
-d) az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására és kiadásának megtagadására vonatkozó részletes szabályokat, a frekvenciahasználati jog gyakorlásának feltételeit és a frekvenciahasználati engedélyben (frekvenciakijelölésben, rádióengedélyben illetőleg frekvenciahasználati jogosultságban) foglalható feltételek részletes szabályait, valamint a frekvenciahasználati jog érvényességének idejét;
+5. frekvenciahasználati jogosultság, illetve jog átruházásának és haszonbérbe adásának elveit és részletes feltételeit;
 
-e)
+6. az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására és kiadásának megtagadására vonatkozó részletes szabályokat, a frekvenciahasználati jog gyakorlásának feltételeit és a frekvenciahasználati engedélyben (frekvenciakijelölésben, rádióengedélyben illetőleg frekvenciahasználati jogosultságban) foglalható feltételek részletes szabályait, valamint a frekvenciahasználati jog érvényességének idejét a polgári célú frekvenciagazdálkodás területén;
 
-f) idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
+7. idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
 
-g) a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
+8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőségigazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
 
-h) a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
+9. a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
 
-i) az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét;
+10. az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét;
 
-j) a nem polgári célú frekvenciát használó rádióberendezésekre vonatkozó, a 80. § (1) bekezdésében és az annak alapján alkotott jogszabályokban foglalt megfelelőségigazolás és az alapvető követelmények alkalmazásának módját, illetve az attól való eltéréseket;
+11. a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalmazásának feltételeit, e törvény 79. § (1) bekezdésében és az annak alapján alkotott miniszteri rendeletben foglalt rendelkezések alkalmazásának módját, illetve az attól való eltéréseket;
 
-k) a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén.
+12. a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén;
 
-(4) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában:
+13. a nem polgári célú frekvenciagazdálkodás rendjére vonatkozó részletes szabályokat, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezeteket;
 
-a) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendszert;
+14. az ANFT-t és az azonosítókkal való gazdálkodás rendjére vonatkozó részletes szabályokat;
 
-b)
+15. az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeit, valamint az emelt díjas szolgáltatások nyújtásának feltételeit;
 
-c)
+16. a számhordozhatóság szabályait és a számhordozhatóság megvalósíthatósága érdekében működő központi-referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
 
-d)
+17. a közvetítőválasztás szabályait;
 
-e) a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait;
+18. az interfészek műszaki leírásának tartalmi követelményeit és az azokhoz való hozzáférés előírását;
 
-f) a hálózati szolgáltatások költségszámítására vonatkozó részletes szabályokat;
+19. a távirat-szolgáltatás ellátásának részletes szabályait;
 
-g) a számhordozhatóság megvalósíthatósága érdekében működő központi referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
+20. az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megbízottját terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket, a forgalmi és számlázási adatok kezelését, az azonosítókijelzés és a hívásátirányítás feltételeit;
 
-h) az egyetemes szolgáltatással kapcsolatos díjcsomagokra vonatkozó szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
+21. a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok műszaki feltételeit és rendelkezésére bocsátásának módját;
 
-i)
+22. a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőségtanúsítványok kölcsönös elismerésének feltételeit az iparügyekért felelős miniszter véleményezését követően;
 
-j) település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
+23. az építésügyért és, a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét, illetve keresztezését a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszter véleményezését követően;
 
-k) a Hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a Hatóság adatkezelésére, a nyilvántartás vezetésére vonatkozó szabályokat;
-
-l) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
-
-m) az interfészek műszaki leírásának tartalmi követelményeit és az azokhoz való hozzáférés előírását;
-
-n) a számviteli nyilvántartások elkülönített vezetésének részletes szabályait;
-
-o) piacmeghatározás, piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók kijelölése és a rájuk vonatkozó kötelezettségek előírása során alkalmazandó alapelveket,
-
-p) az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
-
-q) a bérelt vonali szolgáltatások minimális készletére vonatkozó szabályokat;
-
-r) az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatkozó eljárás és az egyetemes elektronikus hírközlési szolgáltatóval folytatott szerződéskötési eljárás részletes feltételeit és szabályait;
-
-s) az előfizetői szerződésekre, azok megkötésére vonatkozó részletes szabályokat;
-
-t) a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok rendelkezésére bocsátásának módját.
-
-(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszter egyetértésével kiadott rendeletben állapítsa meg.
-
-(6)
-
-(7) Felhatalmazást kap a miniszter, hogy – az építésügyért és, a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszterrel egyetértésben – az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét, illetve keresztezését rendeletben állapítsa meg.
-
-(8) Felhatalmazást kap a miniszter, hogy – a szociál- és családpolitikáért felelős miniszterrel egyetértésben – meghatározott társadalmi csoporthoz tartozó előfizetők részére az egyetemes elektronikus hírközlési szolgáltatás igénybevételéhez nyújtható támogatásra vonatkozó szabályokat rendeletben állapítsa meg.
-
-(9) Felhatalmazást kap a Kormány, hogy az e törvény szerinti hírközlési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+24. előfizetői szerződések, azok létrejötte, módosítása, megszűnése, szolgáltatások korlátozásának feltételeit, az egyedi előfizetői szerződések és a szolgáltatók általános szerződési feltételei részletes szabályait, ideértve a tudakozószolgálatokkal és telefonkönyvekkel, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat.

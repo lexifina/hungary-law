@@ -1,17 +1,5 @@
-48. § (1) Az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt az a személy, aki a 26. § (1) bekezdése alapján az ügy elbírálásában sem járhatna el.
+## Jogkövetkezmények
 
-(2) A bíróság a keresetlevelet 8 napon belül kézbesíti, és egyidejűleg
+48. § (1) A Hatóság az elektronikus hírközlésre vonatkozó szabály, valamint az általános szerződési feltételekben foglaltak megsértőjével (a továbbiakban: jogsértő) szemben jogkövetkezményt alkalmazhat a jelen alcímben meghatározottak szerint.
 
-a) írásban közli az Elnök nyilatkozatát a felperessel;
-
-b) határidő tűzésével felhívja nyilatkozattételre és tájékoztatja a beavatkozás lehetőségéről a jogorvoslati eljárásban szerepelt azon érdekelteket, akikre nézve az Elnök határozata rendelkezést tartalmaz.
-
-(3) Ha a tárgyalás tartását a felek nem kérték, a bíróság a pert tárgyaláson kívül bírálja el.
-
-(4) A bírósági eljárást soron kívül kell lefolytatni.
-
-(5) A bíróság az Elnök határozatát megváltoztathatja és megteheti a 45. § (1) bekezdésének a)–h) és a (2) bekezdés a)–b) pontja szerinti intézkedéseket.
-
-(6) Az Elnök közzéteszi a bíróság határozatát, tiszteletben tartva az érdekelteknek a személyes adatok védelméhez fűződő jogait.
-
-(7) A bíróság elektronikus hírközlési ügyben hozott határozat felülvizsgálata iránti kereset alapján indult eljárásában az ügyben első fokon eljáró bíróság határozata ellen a határozat közlésétől számított 8 napon belül lehet fellebbezni.
+(2) A jogkövetkezmény alkalmazása során a Hatóság az egyenlő elbánás elvét követve a fokozatosság és az arányosság elvére tekintettel jár el; a jogsértés súlyához, illetve ismétlődéséhez igazodóan alkalmazza a fokozatosság elvét, valamint az eset összes körülményéhez és a jogkövetkezmény által elérni kívánt célhoz képest arányos jogkövetkezményt alkalmaz, figyelembe véve, hogy a kiszabott bírság alkalmas legyen a jogsértést elkövető vagy más személy további jogsértéstől való visszatartására.

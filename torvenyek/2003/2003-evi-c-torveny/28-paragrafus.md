@@ -1,9 +1,7 @@
-28. § (1) Az elektronikus hírközlésre vonatkozó szabályba ütköző magatartás észlelése, illetve a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettség megállapítására vagy felülvizsgálatára okot adó jelentős körülmény esetén, akinek jogát vagy jogos érdekét az ügy érinti, továbbá az, akit elektronikus hírközlésre vonatkozó szabályban meghatározott jogaival összefüggésben sérelem ért, vagy ennek közvetlen veszélye áll fenn, valamint fogyasztói érdekek képviseletét ellátó társadalmi szervezet a Hatósághoz címzett bejelentéssel élhet (a továbbiakban: bejelentő).
+## Elektronikus kapcsolattartás
 
-(2) A bejelentőt nem illetik meg az ügyfél jogai, és nem terhelik annak kötelezettségei. A bejelentésben meg kell jelölni a bejelentő adatait, a Hatóság eljárására okot adó körülményt, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján az elektronikus hírközlésre vonatkozó szabály megsértése valószínűsíthető, valamint az (1) bekezdésben foglalt feltételek fennállását valószínűsítő körülményeket.
+28. § (1) A Hatóság e törvényben meghatározott hatásköreiben és eljárásokban a Hatóság Elnöke rendeletében meghatározhatja azon eljárások körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás.
 
-(3) A Hatóság a bejelentés alapján mérlegelése szerint hivatalból eljárást indíthat. Amennyiben a Hatóság hivatalból eljárást indít, erről tájékoztatja a bejelentőt. Amennyiben a Hatóság a bejelentés alapján eljárást nem indít, erről szóló határozatát megküldi a bejelentőnek. Az eljárás megindításának megtagadásáról szóló határozat ellen fellebbezésnek van helye.
+(2) A kizárólag szolgáltatókat érintő eljárásokban elektronikus kapcsolattartás kizárólagosan írható elő.
 
-(4) A bejelentő kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy az eljárás bejelentés alapján hivatalból indult. Ebben az esetben a bejelentésbe való betekintést a Hatóság kizárja.
-
-(5) Az eljárást lezáró érdemi határozatot a Hatóság a bejelentőnek megküldi.
+(3) Felhasználókat és fogyasztókat érintő eljárásokban elektronikus kapcsolattartás kizárólagosan nem írható elő.

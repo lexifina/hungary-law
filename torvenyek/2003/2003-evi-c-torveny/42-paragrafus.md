@@ -1,21 +1,9 @@
-42. § (1) Az Elnök az eljárását hivatalból indítja meg, amennyiben a bejelentésnek helyt ad, eljárását a (2) bekezdés szerint kezdeményezik, valamint az eljárására okot adó tényt maga észleli.
+42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2) Az Elnök az eljárást köteles hivatalból megindítani, amennyiben
+(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a Fővárosi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
 
-a) a miniszter,
+(3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
 
-b) a versenyhatóság elnöke,
+(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban a Hatóság e törvényben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
 
-c) a fogyasztóvédelmi hatóság főigazgatója,
-
-d) az adatvédelmi biztos,
-
-e) a Médiatanács,
-
-f) az Európai Bizottság
-
-hatáskörével összefüggésben az elektronikus hírközlésre vonatkozó szabály megsértéséről, illetőleg jelentős piaci erővel rendelkező szolgáltatóként történő azonosítás, vagy jelentős piaci erővel rendelkező szolgáltatók számára megállapított kötelezettségek felülvizsgálatának szükségességéről szerez tudomást, és az eljárás megindítását kéri.
-
-(3) Ha az Elnök a jogosult által a 40. § (1) bekezdés szerinti határidőn belül megindított eljárás során az addig vizsgáltakon túli jogsértésről szerez tudomást, a határozat meghozatala előtt ezek vonatkozásában is eljárhat hivatalból. Az újonnan tudomásra jutott jogsértésre vonatkozó tényeket írásban vagy a tárgyaláson a felek és az érdekeltek tudomására kell hozni, és azokkal kapcsolatban is lehetőséget kell adni álláspontjuk kifejtésére.
-
-(4) Az Elnök az eljárás megindításának hatáskörét – a Szervezeti és Működési Szabályzatban meghatározott szabályok szerint – az elnökhelyettesre, vagy a Hatóság alkalmazottjára delegálhatja.
+(5) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, és nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.

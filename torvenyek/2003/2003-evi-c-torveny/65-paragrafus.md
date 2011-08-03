@@ -1,29 +1,17 @@
-## Egyeztetés az Európai Bizottsággal és a tagállami elektronikus hírközlési szabályozó hatóságokkal
+65. § (1) A piacelemzést az érintett piacokon az Elnök rendszeresen, de legalább az előző piacelemzési és kötelezettség előírásával kapcsolatos eljárás befejezését követő három éven belül ismételten elvégzi. Ez az időszak azonban legfeljebb három további évvel meghosszabbítható, amennyiben a Hatóság a javasolt meghosszabbításról szóló, indokolással ellátott értesítést küld a Bizottságnak, és ezzel kapcsolatban a Bizottság az értesítéstől számított egy hónapon belül nem emel kifogást.
 
-65. § (1) Az érdekeltekkel történő egyeztetés lefolytatását követően az Elnök
+(2) Az Elnök a Bizottságnak korábban be nem jelentett érintett piacok esetében a piacelemzést a Bizottság által az érintett termékpiacokról és szolgáltatási piacokról kiadott ajánlás felülvizsgálatának elfogadásától számított két éven belül folytatja le.
 
-a) az érintett piacok meghatározására,
+(3) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut a Hatóság tudomására, az Elnök a piacelemzést haladéktalanul lefolytatja az adott érintett piacon vagy piacokon.
 
-b) a jelentős piaci erővel rendelkező szolgáltatók azonosítására és a kötelezettségek előírására, módosítására, hatályban tartására vagy hatályon kívül helyezésére,
+(4) Amennyiben a lefolytatott piacelemzés eredménye alapján
 
-c) a jelentős piaci erővel nem rendelkező szolgáltató számára kötelezettség előírására vagy hatályon kívül helyezésére
+a) új érintett piac vagy piacok meghatározása,
 
-vonatkozó határozatának tervezetét részletes indokolással együtt megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak, amennyiben a tervezett határozat a tagállamok közötti kereskedelemre hatással lehet.
+b) valamely piac vagy piacok érintett piacként való meghatározásának megszüntetése,
 
-(2) Amennyiben az Európai Bizottság vagy egy tagállami elektronikus hírközlési szabályozó hatóság a Hatóság határozatának tervezetére annak kézhezvételétől számított 30 napon belül észrevételt tesz, a Hatóság a határozatot ezen észrevételek figyelembevételével adja ki, illetve hozza meg.
+c) jelentős piaci erővel rendelkező szolgáltató azonosítása vagy ilyen szolgáltatóként való azonosítás megszüntetése, vagy
 
-(3) Amennyiben az Európai Bizottság kifogást emel az Elnök által megküldött olyan határozattervezettel szemben, amely
+d) jelentős piaci erővel rendelkező szolgáltatóra kötelezettség előírása, módosítása vagy megszüntetése
 
-a) az Európai Bizottság által meghatározott piacoktól eltérő piacokat határoz meg, illetve érintett piac meghatározást alkalmaz, vagy
-
-b) jelentős piaci erővel rendelkező szolgáltatókénti kijelölésre vagy kijelölés megszüntetésére vonatkozik, és
-
-c) ez a tagállamok közötti kereskedelemre hatással lehet,
-
-mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a közösségi jognak való megfelelése erősen kétséges, az Elnök az Európai Bizottság kifogásának kézhezvételétől számított 60 napig nem közölheti határozatként a kifogással érintett határozattervezetet.
-
-(4) Amennyiben az Európai Bizottság – a (3) bekezdésben meghatározott határidőn belül – részletesen indokolt döntésében a határozattervezet visszavonására, illetve szövegszerű javaslat megtétele mellett annak módosítására kötelezi az Elnököt, az köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
-
-(5) Amennyiben az Európai Bizottság határozatában nem hagyja jóvá az Elnök 56. § szerinti határozatának tervezetét, az Elnök az Európai Bizottság határozatában foglaltak szerint jár el. Az Európai Bizottság jóváhagyása esetén az Elnök az 56. § szerinti határozatát az Európai Bizottság részére megküldött határozattervezet szerinti tartalommal hozza meg.
-
-(6) Kivételesen sürgős esetekben, a verseny és a fogyasztói érdekek védelme érdekében az Elnök ideiglenes határozatot hozhat az (1) bekezdés szerinti ügyekben. Az ideiglenes határozat azonnal végrehajtható. Ebben az esetben az Elnök az ideiglenes határozatot, annak részletes indokolásával együtt haladéktalanul megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak. Az Elnök az ideiglenes határozat fenntartásáról a (2)–(5) bekezdés szerinti észrevételek, kifogás, illetve határozat alapján az észrevételek, illetve kifogás megérkezését követő naptól számított tizenöt napon belül határozatban dönt.
+válik szükségessé, az Elnök a 40. § és a 62. § szerinti eljárásokat lefolytatva soron kívül határozatot hoz.

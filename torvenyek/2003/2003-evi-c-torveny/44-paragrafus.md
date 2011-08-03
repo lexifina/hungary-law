@@ -1,11 +1,13 @@
-## Ügyintézési határidő
+## A Hivatal döntése elleni jogorvoslat
 
-44. § (1) Az Elnök – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított negyvenöt napon belül köteles határozatot hozni.
+44. § (1) A Hivatal által hozott elsőfokú hatósági döntése ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
 
-(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő hetven nap.
+(2) A Hivatal elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
 
-(3) A határidő indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbítható; erről az eredeti határidő lejárta előtt a feleket értesíteni kell.
+(3) Az Elnök által a Hivatal elsőfokú határozata elleni fellebbezés során másodfokon hozott határozat felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti kereset indításával – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól.
 
-(4) Az 52–55. § szerinti, piacmeghatározással, piacelemzéssel és a jelentős piaci erejű szolgáltatók számára előírható kötelezettségek előírásával kapcsolatos eljárásokra kizárólag az 57. § (1) bekezdése szerinti határidő vonatkozik.
+(4) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
 
-(5)
+(5) A bírósági felülvizsgálati eljárásra a Fővárosi Bíróság kizárólagosan illetékes.
+
+(6) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Bíróságtól annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.

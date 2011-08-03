@@ -1,15 +1,9 @@
-41. § (1) Amennyiben az eljárás kérelemre indul, a kérelemben meg kell jelölni
+## Hatósági szerződés
 
-a) a kérelmező nevét, székhelyét (lakóhelyét);
+41. § (1) E törvényben meghatározott esetekben a Hatóság, hatáskörébe tartozó ügyben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – a Ket.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel – hatósági szerződést köthet.
 
-b) az eljárás lehetséges érdekeltjeinek a kérelmező által ismert nevét és székhelyét (lakóhelyét);
+(2) A hatósági szerződésben az ügyfél olyan kötelezettségeket is vállalhat, amelyek tekintetében a Hatóság nem rendelkezik hatósági hatáskörrel, vagy amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Ez esetben a hatósági szerződésben az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze jogerős és végrehajtható hatósági határozatnak minősül.
 
-c) az ügy tárgyát, az érintett elektronikus hírközlésre vonatkozó szabály pontos megjelölését;
+(3) A hatósági szerződés megkötésének nem érvényességi feltétele a szerződéssel jogában, jogos érdekében érintett harmadik személyek hozzájárulása azon szerződési feltételek tekintetében, amelyek teljesítésére jogszabály alapján hatósági határozattal kötelezhető lenne a szerződő fél.
 
-d) azt, hogy mikor történt az eljárásra okot adó esemény, illetőleg az mikor jutott a kérelmező tudomására;
-
-e) azt, hogy a kérelmező az Elnök milyen intézkedését kéri és ennek indokait.
-
-(2) A kérelemhez csatolni kell a kérelmező rendelkezésére álló, az ügy elbírálása szempontjából lényeges bizonyítékokat és egyéb dokumentumokat, valamint az igazgatási szolgáltatási díj megfizetésének igazolását.
-
-(3)–(4)
+(4) Amennyiben a hatósági eljárás folyamatában az ügyfél, az ügy hatósági szerződéssel történő lezárását kezdeményezi, akkor az ügyintézési határidőbe nem számít be a hatósági szerződéskötés időtartama a szerződés megkötéséig, illetve a hatósági szerződéskötés sikertelenségének az ügyfél vagy a Hatóság általi megállapításáig.

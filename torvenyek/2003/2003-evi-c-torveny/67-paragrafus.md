@@ -1,15 +1,19 @@
-## Piacfelügyelet
+## Referenciaajánlat elfogadása
 
-67. § (1) A Hatóság az elektronikus hírközlési piac zavartalan, eredményes működésének, az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, valamint e törvény egyéb céljai megvalósítása érdekében hatósági jogkörében hatósági felügyeleti ellenőrzés keretében piacfelügyeleti tevékenységet végez.
+67. § (1) Az Elnök határozata vagy jogszabály alapján referenciaajánlat közzétételére kötelezett szolgáltató (a 67–68. § alkalmazásában: kötelezett szolgáltató) köteles az e törvényben, az Elnök határozatában vagy a referenciaajánlatokra, a hálózati szerződésekre, valamint azok megkötésére vonatkozó részletes szabályokról szóló jogszabályban meghatározott tartalommal összeállított referenciaajánlat-tervezetét jóváhagyásra az Elnökhöz benyújtani.
 
-(2) A Hatóság piacfelügyeleti tevékenysége során figyelemmel kíséri az elektronikus hírközlési piac működését, az arra vonatkozó jogszabályokban, a Hatóság határozatában, valamint az előfizetői szerződésben foglaltak megtartását és arról elemzést készít.
+(2) Az Elnökhöz benyújtott referenciaajánlat-tervezethez csatolni kell:
 
-(3) A Hatóság a jelentős piaci erővel rendelkező szolgáltatók által a hálózati szolgáltatások, illetve ráépülő előfizetői szolgáltatások tekintetében alkalmazott árakat az árprés szempontjából a piacfelügyeleti tevékenysége keretében folyamatosan figyelemmel kíséri.
+a) a kötelezett szolgáltató hálózatára és egyéb működési feltételeire vonatkozó, valamint minden egyéb olyan adatot és dokumentumot, amelyek az Elnök számára szükségesek annak megállapításához, hogy a referenciaajánlat-tervezetben foglaltak, így különösen az abban alkalmazott árak megfelelnek-e az elektronikus hírközlésre vonatkozó szabályoknak,
 
-(4) A Hatóság e tevékenysége során más jogszabályban erre feljogosított szervezet, illetve személy közreműködését is igénybe veheti.
+b) az összekapcsolásról, hozzáférésről szóló mintaszerződést,
 
-(5) A Hatóság az előző év ellenőrzési tapasztalatainak figyelembevételével éves piacfelügyeleti tervet készít a tárgyévet megelőző év december 1-jéig, és azt 15 napon belül az internetes oldalán közzéteszi. A piacfelügyeleti tervet az Elnök hagyja jóvá. A terv az első félév tapasztalatai alapján a félév végén felülvizsgálható, és amennyiben szükséges, az Elnök jóváhagyásával módosítható. A módosított piacfelügyeleti tervet a Hatóság a módosítás jóváhagyásától számított 15 napon belül internetes oldalán közzéteszi.
+c) a szerződéskötés kezdeményezésére, a szükséges adatközlésre vonatkozóan a kötelezett szolgáltató által kialakított adatlapot,
 
-(6) A Hatóság beszámolót készít a piacfelügyeleti tervben foglaltak teljesítéséről, a piacfelügyeleti tevékenység eredményeiről, a (2) bekezdés szerinti elemzés megállapításairól, valamint az ennek alapján általa javasolt jogszabály-módosításokról, és ezt 15 napon belül közzéteszi.
+d) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(7) A Hatóság hivatalból vagy kérelemre a piacfelügyeleti és ellenőrzési terven kívül is folytat piacfelügyeleti tevékenységet.
+(3) A (2) bekezdés a) és d) pontja szerint csatolt adatok és dokumentumok nem képezik a referenciaajánlat részét.
+
+(4) A referenciaajánlat-tervezet benyújtásának határidejét az Elnök állapítja meg.
+
+(5) Amennyiben a szolgáltató számviteli szétválasztási kimutatás készítésére köteles, a referenciaajánlat-tervezetet – az Elnök eltérő rendelkezése hiányában – az Elnök által jóváhagyott számviteli szétválasztási kimutatás alapján kell elkészíteni.

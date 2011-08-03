@@ -14,7 +14,7 @@ d) a visszaélések megakadályozására;
 
 e) a segélyszolgálatok elérésére;
 
-f) a fogyatékkal élő személyek általi használatra.
+f) a fogyatékos személyek általi használatra.
 
 (4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését a miniszter rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
 

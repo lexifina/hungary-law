@@ -23,3 +23,5 @@ c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése v
 (8) Az előfizetői panasz intézésére irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg az Fgytv. 17/A. §-ában és 17/C. §-ában foglaltakkal összhangban.
 
 (9) Az előfizető kérésére a szolgáltatónak az adatkezelési szabályok figyelembevételével biztosítania kell, hogy az előfizető a kezelt adatok törléséig díjmentesen megismerhesse a fizetendő díj számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
+
+(10) A több mint százezer előfizetővel rendelkező szolgáltató köteles az ügyfélszolgálatra érkező hívások esetén, a hívás megkezdésétől számított legfeljebb száznyolcvan másodpercen belül ügyintéző bejelentkezését biztosítani.

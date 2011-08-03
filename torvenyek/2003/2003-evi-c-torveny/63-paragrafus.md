@@ -1,17 +1,9 @@
-## Eljárás árprés vizsgálata során
+63. § (1) Az Elnök az azonosított jelentős piaci erővel rendelkező szolgáltatóra az azon a piacon, amelyen a szolgáltató jelentős piaci erővel rendelkezik, a piacelemzés által feltárt, versenyt korlátozó akadályok által indokolt, azokkal arányos mértékű kötelezettséget vagy kötelezettségeket ír elő a XI–XIV. fejezetben meghatározott kötelezettségfajták közül, vagy hatályában fenntartja, illetve módosítja a jelentős piaci erővel rendelkező szolgáltatóra korábban megállapított kötelezettséget.
 
-63. § (1) Az Elnök az árprés vizsgálatára vonatkozóan kérelemre, hivatalból, illetve a 42. § (2) bekezdésének a)–c) pontjaiban felsorolt személyek kezdeményezésére jár el.
+(2) Az Európai Bizottság határozatában megállapított, a Magyar Köztársaság földrajzi területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a kötelezettségek előírását, hatályban tartását, módosítását vagy hatályon kívül helyezését az Európai Gazdasági Térség érintett tagállamának elektronikus hírközlési szabályozó hatóságával együttműködve végzi el.
 
-(2) A Hatóság a végzésében elrendelt adatszolgáltatás során bekért adatok felhasználásával megvizsgálja, hogy a szolgáltató által a hálózati szolgáltatásért kért ellenérték következtében árprés alakulhat-e ki.
+(3) Amennyiben valamely jelentős piaci erejű szolgáltató esetében jogutódlás következik be, a szolgáltató kérelmére az Elnök hatósági szerződés keretében rendezheti, hogy a jogutód szolgáltatót vagy szolgáltatókat a jogelőd szolgáltatókat terhelő kötelezettségek közül melyik milyen tartalommal terheli.
 
-(3) Amennyiben az Elnök árprés fennállását állapítja meg, az Elnök megvizsgálja, hogy a hálózati szolgáltatás ellenértéke a szolgáltatás nyújtásával összefüggésben felmerülő költségek mértékéhez igazodik-e. E körülmény fennálltát a szolgáltatónak kell bizonyítania.
+(4) Amennyiben az Elnök megszünteti egy szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását, határozatában az ilyen szolgáltatót a jelentős piaci erővel rendelkező szolgáltatóként való azonosítására tekintettel terhelő valamennyi kötelezettség alkalmazását megszünteti.
 
-(4) Amennyiben az árprés fennállása ellenére a hálózati szolgáltatás ellenértéke a hálózati szolgáltatás nyújtásával összefüggésben felmerülő költségekhez igazodik, úgy az Elnök az ügyet átteszi a versenyhatósághoz annak megállapítása érdekében, hogy a ráépülő előfizetői szolgáltatás árának meghatározása megvalósítja-e a tisztességtelen piaci magatartásról és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 21. §-ának sérelmét. A versenyhatóság eljárásában az Elnök együttműködik.
-
-(5) Amennyiben az Elnök tudomására jutott új körülmény alapján a 116. § (1) bekezdés szerinti hálózati szolgáltatás ellenértékéről nem állapítható meg, hogy igazodik a hálózati szolgáltatás nyújtásával összefüggésben felmerülő költségek mértékéhez, úgy az Elnök határozatában
-
-a) megállapítja a hálózati szolgáltatás és a ráépülő előfizetői szolgáltatás ára közötti különbség kötelező legkisebb mértékét, és a szolgáltatót a hálózati szolgáltatás árának megfelelő csökkentésére kötelezi, illetve
-
-b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tizenöt napon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
-
-c) e törvényben, illetve külön jogszabályban megállapított keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmazhat.
+(5) Az Elnök a jelentős piaci erővel rendelkező szolgáltatót terhelő kötelezettség módosításáról vagy megszüntetéséről rendelkező határozatában a módosításra, illetve megszüntetésre kerülő kötelezettséget a határozatban foglalt átmeneti ideig hatályban tarthatja. A kötelezettség módosítása esetén az Elnök rendelkezik a módosított kötelezettség hatályba lépése időpontjáról.

@@ -33,3 +33,11 @@ k) előre fizetett anonim hívókártyás mobil rádiótelefon szolgáltatás es
 (5) Az (1) bekezdés alapján adatmegőrzésre kötelezett elektronikus hírközlési szolgáltató az adatmegőrzés feladatával kizárólag abban az esetben bízhat meg adatfeldolgozóként más vállalkozást, illetve a megőrzött adatokat kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza az (1)–(2) bekezdés szerinti adatkérésekre vonatkozó hazai titokvédelmi, minősítettadat-védelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket. Az elektronikus hírközlési szolgáltató a megőrzött adatokat nem tárolhatja olyan ország területén, illetve az adatmegőrzés feladatával nem bízhat meg olyan országbeli adatfeldolgozót, amely ország az Európai Gazdasági Térségnek nem tagállama.
 
 (6) E § alkalmazásában kommunikáció valamely elektronikus hírközlési szolgáltatás révén megvalósított információcsere vagy információtovábbítás véges számú felek között, amely magában foglalja a sikertelen hívásokat. E § alkalmazásában a kommunikáció nem foglalja magában az elektronikus hírközlő hálózaton keresztül műsorterjesztési szolgáltatás részeként a nyilvánosságnak továbbított információt, kivéve, ha az információ az azt átvevő, azonosítható előfizetőhöz vagy felhasználóhoz kapcsolható.
+
+(7) Az adatkérésre külön törvény szerint jogosult szervezetek évente statisztikát kötelesek készíteni és az Európai Bizottság részére eljuttatni. A statisztikának a következőket kell tartalmaznia:
+
+a) azokat az eseteket, amelyekben a szolgáltató e § alapján az illetékes hatóságok számára adatot szolgáltatott,
+
+b) e § szerinti adatok megőrzése időpontját és azon időpont között eltelt időt, amikor az illetékes hatóság az adatok továbbítását kérte,
+
+c) azokat az esetek, amelyekben a szolgáltató az adatok iránti kérelmeket nem tudta teljesíteni.

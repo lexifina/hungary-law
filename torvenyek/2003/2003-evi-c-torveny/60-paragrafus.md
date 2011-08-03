@@ -1,13 +1,5 @@
-60. § (1) A referenciaajánlat kérelemre történő módosításával kapcsolatos eljárásra a referenciaajánlat jóváhagyásával kapcsolatos eljárás szabályait kell alkalmazni az e § szerinti eltérésekkel.
+60. § (1) Az eljáró tanács jogvitás eljárásban jogosult az elektronikus hírközlésre vonatkozó szabály alapján fennálló szerződéskötési kötelezettség esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában – 58. § (2) bekezdésben foglaltaknak megfelelő kérelem esetén – a szerződés létrehozására, módosítására, és a szerződés tartalmának megállapítására.
 
-(2) A referenciaajánlat közzétételére kötelezett szolgáltató a referenciaajánlat módosítására irányuló kérelemben köteles meghatározni a referenciaajánlat
+(2) Amennyiben az e törvény szerint az elektronikus hírközlési szolgáltatás ellenértékére kiterjedően is indítható jogvitás eljárás, az eljáró tanács megtilthatja az ellenérték további alkalmazását, egyidejűleg e törvény keretei között megállapíthatja a jogszerű árat és kötelezheti az elektronikus hírközlési szolgáltatót a jogszerű ár alkalmazására.
 
-a) módosításának indokát,
-
-b) módosuló részeit és a módosítás tartalmát.
-
-(3) A referenciaajánlat módosításának jóváhagyására irányuló kérelemhez csatolni kell a referenciaajánlat módosuló részeivel kapcsolatos adatokat és dokumentumokat, valamint a referenciaajánlatnak a módosításokkal egységes szerkezetbe foglalt változatát.
-
-(4) Nem kell alkalmazni a referenciaajánlat szolgáltató általi módosítására vonatkozó szabályokat az 59. § (8) bekezdése szerinti eljárás során.
-
-(5) Az eredeti referenciaajánlat alapján kötött szerződések módosítására vonatkozó eljárásokat csak a referenciaajánlat módosításának hatálybalépését követően lehet megkezdeni. A módosított referenciaajánlatban meghatározott árakat a felek a referenciaajánlat módosításának hatálybalépésétől kötelesek alkalmazni.
+(3) A referenciaajánlattal, illetve a kötelezett szolgáltató és a jogosult szolgáltató között referenciaajánlat alapján vagy azon kívül hozzáférés, illetve összekapcsolás tárgyában kötendő szerződéssel kapcsolatos jogvitákban az eljáró tanács külön jogszabályban meghatározott eltérésekkel jár el.
