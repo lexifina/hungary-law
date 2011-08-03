@@ -1,0 +1,1 @@
+## 8. § E rendelet 1. § (1) bekezdés f) és g) pontja, valamint (2) bekezdése a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló, 2009. június 25-i 2009/71/EURATOM irányelv 9. cikk (1) és (3) bekezdésének való megfelelést szolgálja.
