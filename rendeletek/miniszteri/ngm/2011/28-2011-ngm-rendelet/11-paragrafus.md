@@ -1,0 +1,9 @@
+## 5. A Központ működésével kapcsolatos feladatok
+
+11. § (1) A miniszter gondoskodik a Központ szakmai tevékenységének irányításáról, melynek keretében a Központ rendelkezésére bocsátja az „ÁBPE-továbbképzés I.”, az „ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére” és az „ÁBPE-továbbképzés II.” képzési programját.
+
+(2) A miniszter nyilvános pályázat keretében kiválasztja az oktatási tevékenység ellátására a Központ által felkérhető oktatókat és gondoskodik azok képzéséről. Az oktatók képzése vizsgával zárul, a képzés sikeres elvégzéséről a miniszter oklevelet állít ki. A Központ oktatója csak olyan természetes személy lehet, aki rendelkezik miniszter által aláírt oklevéllel.
+
+(3) A (2) bekezdésben meghatározott oklevéllel rendelkező oktatók minden évben részt vesznek az „ÁBPE-továbbképzés I.”, az „ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére” és az „ÁBPE-továbbképzés II.” témakörben szervezett oktatói továbbképzésen.
+
+(4) A (2) bekezdésben meghatározott oklevél megszerzésével az oktatók mentesülnek a számukra az Áht. 121/D. § (9) bekezdésében, illetve az Áht. 121/E. § (1)–(2) bekezdéseiben meghatározott továbbképzési kötelezettség alól.
