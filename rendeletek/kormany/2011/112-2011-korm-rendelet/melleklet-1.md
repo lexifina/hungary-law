@@ -1,4 +1,4 @@
-## 9. § Hatályát veszti az Országos Atomenergia Hivatal feladatáról, hatásköréről és bírságolási jogköréről, valamint az Atomenergia Koordinációs Tanács tevékenységéről szóló 114/2003. (VII. 29.) Korm. rendelet.
+## 9. §[^1]
 
 1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez
 
@@ -43,3 +43,5 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 | 6.3. | A radioaktív anyagok 14/1997. (IX. 3.) KHVM rendelet szerinti szállításának balesetelhárítási intézkedési terve. | A terv katasztrófa- és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében. | balesetelhárítási és intézkedési terv jóváhagyása | Országos Katasztrófavédelmi Főigazgatóság területi szervei |
 
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
