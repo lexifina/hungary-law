@@ -20,7 +20,7 @@
 
 ## 2. Az 1. pontban megengedett eltéréseket nem befolyásolhatják az alkoholtartalom meghatározására használt vizsgálati módszerek megengedett eltérései.
 
-3. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^28]
+3. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^32]
 
 ## A Magyar Élelmiszerkönyv 1-2-94/35 számú előírása az élelmiszerekben használható édesítőszerekről
 
@@ -832,4 +832,4 @@ B rész
 
 (2) A maximális felhasználási szintek szabad imidben vannak kifejezve.
 
-[^28]: A 3. melléklet a 65/2010. (V. 12.) FVM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 3. melléklet a 65/2010. (V. 12.) FVM rendelet 3. § (2) bekezdése szerint módosított szöveg.

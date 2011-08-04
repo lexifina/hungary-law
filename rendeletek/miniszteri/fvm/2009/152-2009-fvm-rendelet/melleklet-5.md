@@ -680,6 +680,6 @@
 
 | Ízesített gyümölcsborok, ízesített alma- és körtebor, gyümölcslikőrbor |  |
 
-5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^30]
+5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^34]
 
-[^30]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^34]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
