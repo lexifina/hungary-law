@@ -1,7 +1,0 @@
-## 2. Az országos közlekedési hálózat finanszírozási célokat szolgáló fejezeti kezelésű előirányzatokkal összefüggő feladatok ellátásáról
-
-2. § (1) Az állami tulajdonba tartozó országos közúthálózat továbbá az országos közlekedési hálózat fejlesztésének finanszírozási céljait szolgáló, e rendelet hatálya alá tartozó fejezeti kezelésű előirányzatok kezelésével, működtetésével, valamint felhasználásával kapcsolatos, e rendeletben meghatározott feladatokat a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 32. § (4) bekezdésében foglaltak szerint a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK) látja el.
-
-(2) Az e rendelet hatálya alá tartozó fejezeti kezelésű előirányzatok kezeléséhez és működtetéséhez kapcsolódó költségek mértéke nem lehet több, mint az 1. § a)–e) pontjában meghatározott fejezeti kezelésű előirányzatok kiadási előirányzatának 5%-a. Az e rendelet hatálya alá tartozó fejezeti kezelésű előirányzatok terhére visszterhesen támogatás (kölcsön) nem nyújtható, előleg nem folyósítható, továbbá a fejezeti kezelésű előirányzatokat megillető követelésről lemondani csak törvényben meghatározott esetben lehet.
-
-(3) Az országos közutak vagyonkezelőjeként a KKK működteti az országos közúthálózat – kivéve a koncessziós szerződés keretében vagy magántőke bevonásával megvalósult és megvalósuló országos közutak – vagyonnyilvántartását a 3. §-ban és az 5. §-ban meghatározott gazdasági társaságok közreműködésével.

@@ -1,3 +1,0 @@
-13. § (1) A túlsúlydíj beszedésére kijelölt gazdálkodó szervezet feladatait a KKK-val, mint az Útpénztár kezelőjével, működtetőjével a 8. § (3) bekezdésében foglaltak teljesülése érdekében kötött írásbeli megállapodásban rögzítettek szerint látja el.
-
-(2) A túlsúlydíj beszedésére kijelölt gazdálkodó szervezet a túlsúlydíjból származó és szétosztásra nem kerülő bevételeket köteles negyedévente a tárgynegyedévet követő hónap 20. napjáig a KKK mint az Útpénztár kezelője, működtetője 10032000–01465488–00000000 számú számlájára befizetni. A KKK az így befolyt összeget haladéktalanul megfizeti a 8. § (1) bekezdésében megjelölt számla javára.
