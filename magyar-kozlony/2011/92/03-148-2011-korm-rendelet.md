@@ -1,0 +1,133 @@
+# A Kormány 148/2011. (VIII. 4.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 92. szám, 2011. augusztus 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3a900397149c2dc7d1582f857957aefdbcfec0ed/dokumentumok/a8e8ca6fcf419aa19336b05d5ff28b208d6f2441/letoltes)
+
+---
+
+A Kormány 148/2011. (VIII. 4.) Korm. rendelete
+a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek
+kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet és az Állami Népegészségügyi
+és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról,
+valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló
+323/2010. (XII. 27.) Korm. rendelet módosításáról
+A Kormány
+a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdésének b) és k) pontjában,
+a 10. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §
+(1) bekezdés a) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és
+üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet (a továbbiakban: R.) 2. § h) pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában)
+„h) rendkívüli helyzet: olyan, átlagosan négyévenként egynél többször nem várható esemény vagy események
+kombinációja, amelyek az adott helyen károsan hatnak ki a fürdővíz minőségére;”
+2. § Az R. 6. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Ha a fürdővízprofil a vízminőség hosszabb távú romlási trendjét vagy cianobaktériumok, illetve makroalgák
+elszaporodási tendenciáját mutatja, a megyei tisztifőorvos – szükség szerint – megteszi az alábbi intézkedéseket:
+a) meghatározza a felmerülő egészségkockázatot és az elfogadhatóságot,
+b) feltárja és megszünteti az okokat, valamint
+c) tájékoztatja a nyilvánosságot.
+Az eljárás során a megyei tisztifőorvos a helyi viszonyok megismerése érdekében a jegyzőt szakértőként igénybe
+veheti.”
+3. § Az R. 8. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Az (1) bekezdésben felsorolt vízszennyező anyagok jelenlétének észlelése esetén a kistérségi népegészségügyi
+intézet az ezt rögzítő jegyzőkönyv kézhezvételét követően azonnal megteszi a megfelelő intézkedéseket, beleértve
+a jegyző és a nyilvánosság tájékoztatását.”
+4. § Az R. 10. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A fürdővízminőség-értékelés alapján a „kifogásolt” osztályba tartozó fürdővíz esetében – ideértve az ideiglenesen
+„kifogásolt” minőségűnek osztályozott fürdővizeket is –, az ilyen osztályozást követő első fürdési idénytől kezdődően
+a kistérségi népegészségügyi intézet az alábbi intézkedéseket teszi:
+a) a fürdőzés tilalmát rendeli el, melyről tájékoztatja a fürdőhely üzemeltetőjét és kötelezi arra, hogy
+aa) egyértelmű és egyszerű figyelmeztető jelzéssel felhívja a nyilvánosság figyelmét a nem megfelelő vízminőségre,
+ab) tájékoztassa a nyilvánosságot a szennyezés okairól és az intézkedések megtételének elrendeléséről,
+b) a helyi viszonyok megismerése érdekében a jegyző szükség szerinti szakértőként történő igénybevételével
+megállapítja a „kifogásolt” minőségi állapotra vezető okokat, valamint megteszi a szennyezés okainak megelőzését,
+csökkentését, vagy megszüntetését célzó, hatáskörébe tartozó intézkedéseket.
+(2) Az (1) bekezdésben felsorolt intézkedéseket azonnal meg kell tenni, amennyiben a kistérségi népegészségügyi
+intézet olyan rendkívüli eseményről szerez tudomást, amely a fürdőzők egészségét, illetve a fürdővizek minőségét
+ténylegesen vagy várhatóan veszélyezteti.”
+5. § (1) Az R. 11. § (7) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
+„Minden fürdővízre vonatkozóan évente, amint az információ rendelkezésre áll, és a fürdési idény teljes időtartama
+alatt, a fürdővizek 300 méteres körzetén belül, a fürdőzők számára jól megközelíthető és látható módon,
+
+engedélyezett fürdővíz esetében a kistérségi népegészségügyi intézet, kijelölt fürdőhely esetében az üzemeltető
+hozzáférhetővé teszi:”
+(2) Az R. 11. § (9)–(11) bekezdése helyébe a következő rendelkezés lép:
+„(9) A megyei népegészségügyi szakigazgatási szerv a megfelelő helyi médiában, valamint a honlapján – indokolt
+esetben több nyelven is – minden évben, amint az rendelkezésre áll, közzéteszi az illetékességi területét érintően:
+a) a nyilvántartott fürdővizek listáját,
+b) minden egyes fürdővíz elmúlt három évre vonatkozó osztályozását és fürdővíz-profilját, ideértve az utolsó
+osztályozást követően végzett minőségellenőrzés eredményeit,
+c) a „kifogásolt” osztályba sorolt fürdővizek esetén a szennyezés okainak megszüntetésére és a fürdőzők szennyezés
+expozíciójának megakadályozására, valamint a szennyezés elhárítására tett – a 10. § (1) bekezdésében foglalt –
+intézkedéseket,
+d) rövid távú szennyezésnek kitett fürdővizek esetén általános tájékoztatást:
+da) azokról a körülményekről, amelyek feltehetőleg rövid távú szennyezéshez vezetnek,
+db) a szennyezés előfordulásának valószínűségéről és valószínűsíthető időtartamáról,
+dc) a szennyezés okairól,
+dd) a szennyezés okainak elhárítására és a fürdőzők expozíciójának megakadályozására tett intézkedésekről.
+(10) A megyei népegészségügyi szakigazgatási szerv a (9) bekezdés b)–d) pontjaiban foglalt információt amint az
+rendelkezésre áll, de legkésőbb minden év december 15-éig teszi közzé.
+(11) Az OTH a nyilvántartott fürdővizek és kijelölt fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek
+listáját minden fürdési idény kezdete előtt, amint az rendelkezésre áll, de legkésőbb június 15-ig a honlapján
+közzéteszi.”
+(3) Az R. 11. §-a a következő (12) bekezdéssel egészül ki:
+„(12) A kistérségi népegészségügyi intézet adatszolgáltatása alapján a megyei népegészségügyi szakigazgatási szerv
+és az OTH a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
+a) az emelkedett cianobaktérium-burjánzással összefüggő egészségügyi kockázatról és a cianobaktériumra különösen
+érzékeny személyek magatartására vonatkozó ajánlásokról,
+b) a makroalgák elszaporodásának tendenciájáról és az ezzel összefüggő egészségügyi kockázatról.”
+6. §
+Az R. a következő 11/A. §-sal egészül ki:
+„11/A. § (1) A kistérségi népegészségügyi intézet a nyilvánosság számára lehetőséget biztosít az e rendelet
+végrehajtásában való részvételre – különösen a fürdővizek listájának megállapítására, felülvizsgálatára és frissítésére
+vonatkozóan – javaslatok, észrevételek és panaszok megtétele útján. A kistérségi népegészségügyi intézet a
+nyilvánosság észrevételeinek, javaslatainak fogadását minden elérhetőségén keresztül – beleértve a személyes
+konzultáció lehetőségét is – biztosítja.
+(2) A kistérségi népegészségügyi intézet e rendelet végrehajtásakor köteles a nyilvánosságtól megszerzett információt
+megfelelően figyelembe venni.
+(3) A kistérségi népegészségügyi intézet a honlapján és a helyi médiában tájékoztatja a nyilvánosságot arról, hogy az e
+rendelet végrehajtásában milyen módon vehet részt.
+(4) A kistérségi népegészségügyi intézet minden szezont követően legkésőbb október 15-éig jelenti a megyei
+népegészségügyi szakigazgatási szervnek a nyilvánosság bevonásával és tájékoztatásával kapcsolatos tapasztalatokat
+és a megtett intézkedéseket.
+(5) A megyei népegészségügyi szakigazgatási szerv minden év november 15-éig összesített jelentést küld az OTH-ba a
+kistérségi népegészségügyi intézetek és a saját, a nyilvánosság tájékoztatásával és bevonásával kapcsolatos
+tapasztalatairól és intézkedéseiről.”
+7. §
+Az R. 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A fürdővizek minőségét érintő határon átnyúló hatások tekintetében az érintett tagállamokkal, illetve az Európai
+Unió tagjai közé nem tartozó érintett szomszédos államokkal történő együttműködés során a két- és többoldalú
+vízügyi keretegyezmények jelentik a megfelelő információcsere és az ilyen hatások ellenőrzése érdekében szükséges
+együttes fellépés keretrendszerét.”
+
+8. § Az R. 14. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+„(2a) A rövid távú szennyezések e rendeletben előírt kezelése érdekében az Országos Meteorológiai Szolgálat
+gondoskodik az ilyen szennyezésnek kitett vizeket érintő jelentősebb csapadékesemények lehetőség szerinti
+előjelzéséről és a legalább 15 mm-es csapadékesemények bekövetkezésének visszaigazolásáról. Az Országos
+Meteorológiai Szolgálat az előrejelzést és az utólagos tájékoztatást a kistérségi népegészségügyi intézetnek küldi
+meg. A rövid távú szennyezési veszélynek kitett fürdővizek listájáról az Országos Meteorológiai Szolgálatot az OTH
+tájékoztatja.
+(2b) A kistérségi népegészségügyi intézet intézkedik arról, hogy a rövid távú szennyezésnek kitett fürdőhelyek
+üzemeltetőihez eljusson az Országos Meteorológiai Szolgálat előrejelzése annak érdekében, hogy az üzemeltetők a
+fürdőzők tájékoztatására irányuló kötelezettségüknek eleget tehessenek.”
+9. § Az R. 2. § e) pont ea) és eb) alpontjában, 3. § (1)–(3) bekezdésében, 4. § (1) bekezdésében, 5. § (1), (3) és
+(6) bekezdésében, 7. § (2) bekezdésében, 8. § (3) és (6) bekezdésében, 9. § (1), (5) és (7) bekezdésében, 10. § (3),
+(5) bekezdésében, (6) bekezdés c) pontjában és (8) bekezdésében, 11. § (3) és (5) bekezdésében és 7. melléklet
+7. pontjában a „kistérségi” szövegrész helyébe a „kistérségi népegészségügyi” szöveg lép.
+10. § Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról,
+valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet 23. §
+(3) bekezdésében az „a fürdővízprofil megállapítására irányuló eljárásban” szövegrész helyébe az „a fürdővízprofil
+megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott
+eljárásban” szöveg lép.
+11. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+12. § Ez a rendelet a fürdővizek minőségéről és a 76/160/EGK irányelv hatályon kívül helyezéséről szóló 2006. február 15-i
+2006/7/EK európai parlamenti és tanácsi irányelv 2. cikk 9. pontjának, 5. cikk (4) bekezdésének, 7. cikkének, 8. cikk
+(1) és (2) bekezdésének, 9. cikk (1) és (2) bekezdésének, 10. cikkének, 11. cikkének, 12. cikk (2) és (3) bekezdésének való
+megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
