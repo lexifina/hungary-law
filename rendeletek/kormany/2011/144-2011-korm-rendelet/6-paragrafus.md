@@ -1,0 +1,1 @@
+## 5. § A nukleáris kettős felhasználású termékek nukleáris fegyverrel rendelkező országba történő kivitelének engedélyezésére irányuló eljárásban a szakhatósági hozzájárulás megadásához az OAH a 4. § c) pontjában leírt feltételek teljesülését vizsgálja.
