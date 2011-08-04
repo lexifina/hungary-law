@@ -36,4 +36,4 @@ c) legalább félévente a bérek, keresetek alakulásáról és a bérkifizeté
 
 d) legalább félévente a munkáltatónál távmunkát végző munkavállalók számáról és munkakörük megnevezéséről.
 
-(5)
+(5) Amennyiben a munkáltató saját magával szemben csődeljárás, vagy felszámolási eljárás lefolytatását kéri, úgy erről az üzemi tanácsot – legkésőbb a kérelem benyújtásával egyidejűleg – csak tájékoztatni kell.

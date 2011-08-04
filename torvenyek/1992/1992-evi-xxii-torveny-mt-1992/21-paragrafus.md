@@ -4,7 +4,7 @@
 
 (3) A véleményezéssel kapcsolatos eljárásra a 66. § irányadó azzal, hogy a tizenöt napos határidőt a tervezetnek a munkáltatónál képviselettel rendelkező szakszervezet képviselőjéhez való érkezésétől kell számítani.
 
-(4)
+(4) Amennyiben a munkáltató saját magával szemben csődeljárás, vagy felszámolási eljárás lefolytatását kéri, úgy erről a szakszervezetet – legkésőbb a kérelem benyújtásával egyidejűleg – csak tájékoztatni kell.
 
 (5) E törvény alkalmazásában a munkáltatónál képviselettel rendelkező szakszervezetnek azt a szakszervezetet kell tekinteni, amelyik alapszabálya szerint a munkáltatónál képviseletére jogosult szervet működtet, illetőleg tisztségviselővel rendelkezik.
 
