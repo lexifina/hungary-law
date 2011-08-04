@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: Tv.) 5. számú mellékletének 12. pontjában foglalt felhatalmazás alapján az „art” mozi-hálózat fejlesztését szolgáló előirányzat felhasználására vonatkozó részletes szabályok megállapítása céljából a következőket rendelem el:
