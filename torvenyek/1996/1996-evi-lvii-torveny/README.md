@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 1996-57-00-00.27 |
 | 2011-01-02 | 2010. évi CLXXXV. törvény | 1996-57-00-00.28 |
 | 2011-06-18 | 2011. évi LXIV. törvény | 1996-57-00-00.29 |
+| 2011-08-04 | 2011. évi CXV. törvény | 1996-57-00-00.30 |

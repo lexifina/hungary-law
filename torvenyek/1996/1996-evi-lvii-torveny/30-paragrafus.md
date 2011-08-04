@@ -13,3 +13,5 @@ c) az összefonódásnak a szállítókra, az üzletfelekre és a fogyasztókra 
 (4) Az engedély előzetes feltételhez kötése esetén az engedély a feltétel teljesülésével válik hatályossá. Az utólagos feltételhez kötött engedély megadásától hatályos, azonban a feltétel nem teljesülése esetében hatályát veszíti.
 
 (5) Az összefonódáshoz adott engedély kiterjed mindazokra a versenykorlátozásokra, amelyek az összefonódás megvalósításához szükségesek.
+
+(6) A 28. § (4) bekezdése szerinti összefonódás esetén az engedély iránti kérelem elbírálásakor mérlegelni kell az irányítási jogoknak a 29/A. § (1), illetve (2) bekezdése szerinti gyakorlásából eredően a versenyre gyakorolt hatásokat is. Határozatában a Gazdasági Versenyhivatal megállapítja azt is, hogy az irányításszerző irányítási jogainak gyakorlása megfelelt-e a 29/A. §-ban és az esetleges irányításkorlátozó előírásban foglaltaknak.
