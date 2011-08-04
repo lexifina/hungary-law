@@ -1,0 +1,13 @@
+70. § (1) A 68. § (2) bekezdése szerinti gazdálkodó szervezet felszámolásának elrendelése esetén az állami felszámolónak az adós vagyonát a 68. § (1) bekezdése szerinti tevékenység, illetve az annak folytatásához fűződő közérdek érvényesítésének figyelembe vételével kell kezelnie. Az adós vagyonának értékesítésekor meg kell kísérelnie az ingatlan- és ingó vagyont, az ezek hasznosításával összefüggő immateriális javakat működő üzemként, a forgalomban elérhető legmagasabb áron értékesíteni.
+
+(2) Amennyiben az eljárás céljának [68. § (2) bekezdés] elérése érdekében szükséges, a felszámoló az adós vagyonát nem nyilvánosan értékesíti. A felszámoló maga választja meg a nem nyilvános értékesítés módját (különösen zártkörű pályázat, közvetlen tárgyalás). A felszámoló a nem nyilvános értékesítésről szóló döntéséről és a nem nyilvános értékesítés módjáról előzetesen nem köteles tájékoztatást nyújtani a hitelezőknek, de a döntésének indokait, továbbá az egyes ajánlatokat köteles írásban rögzíteni közjegyző bevonásával.
+
+(3) Amennyiben a felszámoló az adós vagyonát nem nyilvánosan értékesíti, a felszámoló köteles az értékesítendő vagyon, illetve vagyonrész vonatkozásában előzetesen legalább három független értékbecslő szakértőtől származó értékbecslést beszerezni. A vételár nem lehet alacsonyabb, mint az értékbecslésekben foglalt összegek számtani átlaga.
+
+(4) A nem nyilvános értékesítés eredményeként megkötött szerződésben foglalt vételárat, továbbá az értékesített vagyonrész leírását a felszámoló a szerződés megkötését követő 5 munkanapon belül a Cégközlönyben és honlapján közzéteszi.
+
+(5) A felszámoló nem nyilvános értékesítésről és az értékesítés módjáról hozott döntése ellen kifogás nem terjeszthető elő. Ez a rendelkezés nem érinti a 49. § (5) bekezdésében foglalt keresetindítási jogot azzal, hogy a keresetindítási határidő a (4) bekezdés szerinti közzétételtől számítandó.
+
+(6) Nem nyilvános értékesítés esetén a 49. § (1) és (2) bekezdése, a 49/A. § és a 49/B. § nem alkalmazandó.
+
+(7) A felszámoló az elővásárlásra jogosulttal előzetesen közli, hogy az elővásárlási joggal érintett vagyonrész nem nyilvánosan kerül értékesítésre. A felszámoló a nem nyilvános értékesítésen kapott ajánlatot köteles közölni az elővásárlásra jogosulttal. Az elővásárlásra jogosult elővásárlási jogának gyakorlásáról haladéktalanul köteles dönteni és döntéséről a felszámolót tájékoztatni. Az elővásárlásra jogosult a vagyonrész (dologösszesség) egészére vonatkozó ajánlat tartalmát csak teljes egészében fogadhatja el.
