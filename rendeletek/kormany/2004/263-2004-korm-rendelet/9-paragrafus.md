@@ -1,3 +1,0 @@
-## 8. §[^11] A nukleáris export, nukleáris import, valamint a nukleáris és nukleáris kettős felhasználású termékeknek Magyarország területéről az Európai Unió más tagállamaiba, illetve a nukleáris termékeknek az Európai Unió más tagállamaiból Magyarország területére történő szállításának megtörténtét követő nyolc napon belül a magyarországi szerződő félnek e tényről a termék megnevezése, mennyisége, a tervezett felhasználás helye, valamint a szállítás dátuma feltüntetésével írásban tájékoztatnia kell az OAH-t.
-
-[^11]: A 8. § a 289/2010. (XII. 21.) Korm. rendelet 3. § (60) bekezdése szerint módosított szöveg. E módosító törvény 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
