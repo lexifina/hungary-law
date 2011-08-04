@@ -118,7 +118,7 @@
 
 (59) A magánszemélyek közműfejlesztési támogatásáról szóló 262/2004. (IX. 23.) Korm. rendelet 6. § (4) bekezdésében a „15 munkanapon” szövegrész helyébe a „húsz napon” szöveg, 6. § (8) bekezdésében a „3 munkanapon” szövegrész helyébe az „öt napon” szöveg lép.
 
-(60) A nukleáris és nukleáris kettős felhasználású termékek nemzetközi forgalmának szabályozásáról szóló 263/2004. (IX. 23.) Korm. rendelet 8. §-ában az „5 munkanapon” szövegrész helyébe a „nyolc napon” szöveg lép.
+(60)[^2]
 
 (61) A természet védelmét szolgáló egyes támogatásokra, valamint kártalanításra vonatkozó részletes szabályokról szóló 276/2004. (X. 8.) Korm. rendelet 8. § (4) bekezdésében a „bejelentéstől számított 22 munkanapon” szövegrész helyébe a „bejelentést követő naptól számított harminc napon” szöveg, 9. § (1) bekezdésében a „22 munkanapon” szövegrész helyébe a „harminc napon” szöveg lép.
 
@@ -305,3 +305,5 @@
 (152) Az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 8. § (1) bekezdésében a „3 munkanappal” szövegrész helyébe az „öt nappal” szöveg, 10. § (2) bekezdésében a „10 munkanapon” szövegrész helyébe a „tizenöt napon” szöveg, 10. § (3) bekezdésében a „8 munkanapon” szövegrész helyébe a „tíz napon” szöveg, 10. § (4) bekezdésében az „5 munkanapon” szövegrész helyébe a „nyolc napon” szöveg, 11. § (1) bekezdésében a „15 munkanapon” szövegrész helyébe a „húsz napon” szöveg, 11. § (2) bekezdésében a „8 munkanapon” szövegrész helyébe a „tíz napon” szöveg lép.
 
 (153) A kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő kivételes építésügyi szabályokról szóló 227/2010. (VIII. 13.) Korm. rendelet 3. § (1) bekezdésében a „beérkezésétől számított három munkanapon” szövegrész helyébe a „beérkezését követő naptól számított öt napon” szöveg, 4. §-ában a „negyvenöt munkanappal” szövegrész helyébe a „két hónappal” szöveg, 7. §-ában a „beérkezésétől számított öt munkanapon” szövegrész helyébe a „beérkezését követő naptól számított nyolc napon” szöveg, 9. § (1) bekezdésében a „huszonkét munkanap” szövegrész helyébe a „harminc nap” szöveg, 9. § (2) bekezdés a) pontjában a „tizenegy munkanap” szövegrész helyébe a „tizenöt nap” szöveg, 9. § (2) bekezdés b) pontjában a „tizenegy munkanap” szövegrész helyébe a „tizenöt nap” szöveg, 16. §-ában az „öt munkanapon” szövegrész helyébe a „nyolc napon” szöveg, 17. § (1) bekezdés c) pontjában a „tíz munkanapon” szövegrész helyébe a „tizenöt napon” szöveg lép.
+
+[^2]: A 3. § (60) bekezdését a 144/2011. (VII. 27.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
