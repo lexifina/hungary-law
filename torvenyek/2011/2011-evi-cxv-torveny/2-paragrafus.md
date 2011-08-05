@@ -1,3 +1,0 @@
-2. § A Cstv. 20. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 10. § (2) bekezdése szerinti határidő elmulasztása esetén a hitelező az egyezségkötésben nem vehet részt, az egyezség hatálya nem terjed ki rá. A bejelentési határidő elmulasztása miatt nyilvántartásba nem vett hitelezői igény jogosultja az adós ellen követelését nem érvényesítheti, azonban a más által kezdeményezett felszámolási eljárásban a még el nem évült követelését bejelentheti. Ebben az esetben a 35. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 35. § (2) bekezdés b) pontja szerinti késedelmi kamatot, késedelmi pótlékot, továbbá a pótlék és bírság jellegű követelést a felszámolási eljárásban sem lehet érvényesíteni.”
