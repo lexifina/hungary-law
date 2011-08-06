@@ -1,4 +1,4 @@
-## 5. § A gépjármű-üzemanyagok közül legalább az MSZ EN 228 szabvány szerinti 95-ös és 98-as oktánszámú motorbenzin, valamint az MSZ EN 590 szabvány szerinti dízelgázolaj egységárát az üzemanyagtöltő állomás területén vagy más arra alkalmas helyen (oszlopon vagy táblán) is fel kell tüntetni, olyan magasságban és méretben, hogy az a közlekedési útvonalról jól olvasható legyen.
+## 5. §[^8] A gépjármű-üzemanyagok közül legalább az MSZ EN 228 szabvány szerinti 95-ös oktánszámú motorbenzin, valamint az MSZ EN 590 szabvány szerinti dízelgázolaj egységárát az üzemanyagtöltő állomás területén vagy más arra alkalmas helyen (oszlopon vagy táblán) is fel kell tüntetni, olyan magasságban és méretben, hogy az a közlekedési útvonalról jól olvasható legyen.
 
 6. § (1) A szolgáltatásnak a vállalkozás által előre meghatározott díjáról, vagy – ha a szolgáltatás díja előre nem határozható meg – a szolgáltatás díja kiszámításának módjáról
 
@@ -8,6 +8,7 @@ b) egyéb esetben a szolgáltatás megrendelésekor a fogyasztó számára hozz�
 
 ## kell tájékoztatást adni.
 
-(2)[^8] Ha a vállalkozás valamely termék forgalmazásával közvetlen összefüggésben nyújtott szolgáltatásáért külön díjat számít fel (így különösen a felszolgálási, szállítási, kiszállási díjat), a külön díjat a termék árának feltüntetésére vonatkozó szabályok szerint, az érintett termék árával együtt (ugyanazon árkiíráson vagy árjegyzéken) kell feltüntetni.
+(2)[^9] Ha a vállalkozás valamely termék forgalmazásával közvetlen összefüggésben nyújtott szolgáltatásáért külön díjat számít fel (így különösen a felszolgálási, szállítási, kiszállási díjat), a külön díjat a termék árának feltüntetésére vonatkozó szabályok szerint, az érintett termék árával együtt (ugyanazon árkiíráson vagy árjegyzéken) kell feltüntetni.
 
-[^8]: A 6. § (2) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 7. §-a szerint módosított szöveg.
+[^8]: Az 5. § a 29/2011. (VIII. 3.) NGM rendelet 23. § c) pontja szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 7. §-a szerint módosított szöveg.
