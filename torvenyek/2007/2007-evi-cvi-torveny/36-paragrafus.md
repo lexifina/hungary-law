@@ -10,7 +10,7 @@ c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alap
 
 d) többcélú kistérségi társulás javára feladatai ellátásának elősegítése érdekében,
 
-e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
+e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 
 f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
 
