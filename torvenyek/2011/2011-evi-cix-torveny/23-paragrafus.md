@@ -1,0 +1,1 @@
+23. § Az elnököt feladatai ellátásában – a határon túli magyar ügyekben, illetőleg a nemzetközi ügyekben – két, a közgyűlés által három évre a rendes tagok közül választott alelnök segíti. Az alelnökök egy alkalommal újraválaszthatók.

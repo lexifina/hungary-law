@@ -1,0 +1,7 @@
+# 2011. évi CIX. törvény a Magyar Művészeti Akadémiáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-109-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2011-08-10 | 2011. évi CIX. törvény | 2011-109-00-00.0 (közlönyállapot) |
