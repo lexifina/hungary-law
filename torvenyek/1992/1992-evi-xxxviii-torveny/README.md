@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-38-00-00
 | 2011-07-01 | 2010. évi CLIII. törvény | 1992-38-00-00.119 |
 | 2011-07-22 | 2011. évi XCIII. törvény | 1992-38-00-00.120 |
 | 2011-08-01 | 2011. évi CXII. törvény | 1992-38-00-00.121 |
+| 2011-08-10 | 2011. évi CIX. törvény | 1992-38-00-00.122 |

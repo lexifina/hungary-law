@@ -68,7 +68,7 @@ b) elektronikus pénz kibocsátására.
 
 a) a központi költségvetés, a központi költségvetési szervek, a társadalombiztosítás pénzügyi alapjai, a társadalombiztosítás központi hivatali szervei és ezek igazgatási szervei (ez utóbbiak együtt a továbbiakban: társadalombiztosítási költségvetési szervek), a rendelkezésükbe utalt előirányzatok, az elkülönített állami pénzalapok,
 
-b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági formában működtetett szervei.
+b) a Magyar Tudományos Akadémia, valamint a Magyar Művészeti Akadémia, mint köztestület nem gazdasági társasági formában működtetett szervei.
 
 (5) A kincstár az államháztartásért felelős miniszter rendeletében meghatározott határnapig beérkező fizetési megbízást teljesíti az esedékességi időpontban. A fizetési megbízásnak a határnapon túli beérkezéséből fakadó késedelmes teljesítésének következményei a megbízót terhelik. A kincstár a jogszabályi előírásoknak nem megfelelő megbízások és rendelkezések teljesítését a megbízás, rendelkezés kezdeményezőjének értesítése mellett visszautasítja.
 

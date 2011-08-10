@@ -60,7 +60,7 @@ g) helyi kisebbségi önkormányzati költségvetési szerv irányító szervén
 
 h) országos kisebbségi önkormányzati költségvetési szerv irányító szervének vezetője: az országos kisebbségi önkormányzat közgyűlésének elnöke,
 
-i) Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi szintjébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Országgyűlési Biztosok Hivatala, az Állami Számvevőszék, a Bíróságok, a Magyar Köztársaság Ügyészsége, a Gazdasági Versenyhivatal és a Magyar Tudományos Akadémia fejezetekhez tartozó költségvetési szervek kivételével,
+i) Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi szintjébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Országgyűlési Biztosok Hivatala, az Állami Számvevőszék, a Bíróságok, a Magyar Köztársaság Ügyészsége, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia fejezetekhez tartozó költségvetési szervek kivételével,
 
 j) Kormány irányítása alá tartozó fejezet: a központi költségvetés fejezete az i) pontban nevesített fejezetek kivételével,
 
