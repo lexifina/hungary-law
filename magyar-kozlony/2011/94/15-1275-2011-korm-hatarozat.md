@@ -1,0 +1,61 @@
+# A Kormány 1275/2011. (VIII. 10.) Korm. határozata
+
+Magyar Közlöny 2011. évi 94. szám, 2011. augusztus 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/da96443fa1d6f836b7298788a090093a6509c7b1/dokumentumok/0a595f6df060f48d895a6d61e14574c97a5d726c/letoltes)
+
+---
+
+A Kormány 1275/2011. (VIII. 10.) Korm. határozata
+a Svájci–Magyar Együttműködési Program 9. prioritási területén belül projektek beazonosításáról
+1. A Kormány
+a) a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács
+és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló
+Keretmegállapodás kihirdetéséről szóló 348/2007. (XII. 20.) Korm. rendelet 2. melléklet 2.1 pontja alapján a
+következő projekteket azonosítja be:
+A projektek címe Projekt Végrehajtó Projektek forrása
+Projektek tervezett
+támogatási összege
+Projektek tervezett
+összköltsége
+A Bíróságok ellátása
+biztonságot növelő
+berendezésekkel és
+informatikai
+alkalmazásokkal
+Országos
+Igazságszolgáltatási
+Tanács Hivatala
+Svájci–Magyar
+Együttműködési
+Program
+10 000 000 CHF 11 765 000 CHF
+Energiahatékonyság
+fejlesztése a
+Bevándorlási és
+Állampolgársági Hivatal,
+a Bács-Kiskun Megyei
+Rendőr-főkapitányság,
+a Budapesti
+Rendőr-főkapitányság,
+a Győr-Moson-Sopron
+Megyei
+Rendőr-főkapitányság,
+a Szabolcs-Szatmár-Bereg
+Megyei
+Rendőr-főkapitányság,
+valamint a Vas Megyei
+Rendőr-főkapitányság
+épületeiben
+Belügyminisztérium
+A projektek beazonosítása nem eredményezi a Projekt Megállapodás és a Végrehajtási Megállapodás
+megkötésének kötelezettségét;
+b) elrendeli, hogy az a) pontban beazonosított projektek vonatkozásában készüljön meghívásos pályázati kiírás.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: e határozat közzétételétől számított 75. nap
+2. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a Svájci–Magyar Együttműködési Program végrehajtási
+rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet szerinti, a magyar és a svájci fél által lefolytatott értékelést követően,
+ha a pályázatot mindkét fél támogatásra javasolja, a Nemzeti Koordinációs Egység útján gondoskodjon a Projekt
+Megállapodás és a Végrehajtási Megállapodás megkötéséről.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: a végleges svájci döntés meghozatalát követő 3 hónap
+Orbán Viktor s. k.,
+miniszterelnök
