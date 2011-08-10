@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-113-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1998-113-20-22.10 | 113/1998. (VI. 10.) Korm. rendelet |
+| 2011-08-10 | 1998-113-20-22.11 | 118/2011. (VII. 11.) Korm. rendelet |

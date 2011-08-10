@@ -42,6 +42,6 @@
 
 ## …………………………
 
-5. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^55]
+5. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^56]
 
-[^55]: Az 5. számú mellékletet a 173/1999. (XII. 6.) Korm. rendelet 10. §-ának (2) bekezdése, illetve 4. számú melléklete iktatta a szövegbe.
+[^56]: Az 5. számú mellékletet a 173/1999. (XII. 6.) Korm. rendelet 10. §-ának (2) bekezdése, illetve 4. számú melléklete iktatta a szövegbe.
