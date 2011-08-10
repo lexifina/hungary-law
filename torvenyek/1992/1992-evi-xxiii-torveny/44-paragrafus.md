@@ -1,4 +1,4 @@
-44. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Közbeszerzések Tanácsánál és az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+44. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzések Tanácsánál és az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
 (2)–(4)
 
