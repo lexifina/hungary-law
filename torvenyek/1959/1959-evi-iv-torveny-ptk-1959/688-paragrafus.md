@@ -167,5 +167,3 @@ a lakásbérletről szóló 35/1956. (XI. 30.) MT rendelet 13. §-ának (2)–(4
 az egyesületek feletti felügyelet és ellenőrzés szabályozásáról szóló 3/1957. (I. 20.) Korm. rendelet;
 
 a lakásbérletről szóló 35/1956. (IX. 30.) MT rendelet végrehajtása tárgyában kibocsátott 15/1957. (III. 7.) Korm. rendelet 31. §-a;
-
-az új szövetkezeti törvény megalkotásáról szóló 1.088/1956. (IX. 4.) Mt. h.;
