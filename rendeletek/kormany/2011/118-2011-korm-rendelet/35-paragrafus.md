@@ -1,0 +1,13 @@
+## VI. Fejezet
+
+## ESEMÉNYEK KIVIZSGÁLÁSA, TAPASZTALATOK FELHASZNÁLÁSA A BIZTONSÁG NÖVELÉSÉRE
+
+35. § (1) Az engedélyes a jelentésköteles eseménynek a nukleáris biztonsági hatósághoz történő bejelentésével egyidejűleg megkezdi az esemény kivizsgálását. A vizsgálat eredményeként az engedélyes megállapítja az esemény bekövetkezésének okait – köztük az alapvető okot – és következményeit, továbbá intézkedik az esemény megismétlődésének megakadályozása, ahhoz hasonló események bekövetkezésének megelőzése érdekében.
+
+(2) Az engedélyes az (1) bekezdés szerinti vizsgálatáról és annak eredményéről jelentést küld a nukleáris biztonsági hatóságnak.
+
+(3) A nukleáris biztonsági hatóság az engedélyes jelentése alapján az eseményt elemzi és értékeli.
+
+(4) A nukleáris biztonsági hatóság jogosult bekapcsolódni az engedélyes eseménykivizsgálási tevékenységébe, vagy független kivizsgálást hajthat végre. A nukleáris biztonsági hatóság mindkét esetben igénybe veheti független szakértő közreműködését.
+
+(5) Az engedélyesnél és más nukleáris létesítményben bekövetkezett esemény miatt vagy meghatározott üzemeltetési tapasztalat alapján a nukleáris biztonsági hatóság szükség esetén intézkedéseket kezdeményez, – figyelembe véve a (2) bekezdés szerinti jelentést, valamint a (3) és (4) bekezdés szerinti tevékenységén alapuló megállapításait – a nukleáris biztonság biztosítása, az élet, a testi épség, az egészség-, a környezet- és a vagyonvédelem érdekében és intézkedések végrehajtását írhatja elő.
