@@ -1,0 +1,1 @@
+## „s) az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretének és arányának betartása az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Kormány egyetértésével haladhatja meg az elismerhető közkiadás 15%-át.”
