@@ -28,21 +28,25 @@ ca) a (20) bekezdés szerinti esetben, továbbá ha a kérelmet hozzá nyújtott
 
 cb) a ca) alpontban nem említett esetben hozzátartozói nyugellátás esetén a Nyugdíjfolyósító Igazgatóság igazgatója engedélyezhet,
 
-cc) a ca)–cb) alpontban nem említett esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság vezetője engedélyezhet;
+cc) a ca)–cb) alpontban nem említett esetben a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság vezetőjének javaslatára a fővárosi és megyei kormányhivatalt vezető kormánymegbízott engedélyezhet;
 
 d) egyszeri segélyt
 
 da) a (20) bekezdés szerinti esetben, továbbá ha a kérelmet hozzá nyújtották be, az ONYF főigazgatója engedélyezhet,
 
-db) a da) alpontban nem említett esetben a Nyugdíjfolyósító Igazgatóság igazgatója vagy a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság vezetője engedélyezhet attól függően, hogy a kérelmet melyiküknél nyújtották be.
+db) a da) alpontban nem említett esetben a Nyugdíjfolyósító Igazgatóság igazgatója engedélyezhet vagy a kérelmező lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság vezetőjének javaslatára a fővárosi és megyei kormányhivatalt vezető kormánymegbízott engedélyezhet attól függően, hogy a kérelmet mely szervnél nyújtották be.
 
 (1e)[^155] Az (1d) bekezdés b) pontja szerinti ügyekben a Nyugdíjfolyósító Igazgatóság igazgatója és a nyugdíjbiztosítási igazgatóság vezetője – ha a kérelmet hozzá nyújtották be – közreműködő hatóságként jár el azzal, hogy a kivételes nyugellátás megállapítása iránti kérelmet – a kérelem megérkezését követő naptól számított tizenöt munkanapon belül – akkor is elutasítja, ha a kivételes nyugellátás megállapításának jogszabályi feltételei nem állnak fenn.
 
-(1f)[^156] A Nyugdíjfolyósító Igazgatóság igazgatója és a nyugdíjbiztosítási igazgatóság vezetője a továbbtanuló árva árvaellátásának kivételes meghosszabbítása, valamint a kivételes nyugellátás-emelés és az egyszeri segély engedélyezése iránti ügyben – ha a kérelmet hozzá nyújtották be –
+(1f)[^156] Amennyiben a kérelmet hozzá nyújtották be,
 
-a) a kérelmet megküldi az ONYF főigazgatójának, ha megállapítja, hogy a kérelmező nem felel meg az általa engedélyezhető árvaellátás-meghosszabbítás, nyugellátás-emelés, illetve egyszeri segély feltételeinek, de a (20) bekezdés szerinti feltételek fennállnak,
+a) a Nyugdíjfolyósító Igazgatóság igazgatója dönt a továbbtanuló árva árvaellátásának kivételes meghosszabbítása, valamint a kivételes nyugellátás-emelés és az egyszeri segély engedélyezése iránti ügyekben,
 
-b) az a) pontban nem említett esetben a kérelemről dönt.
+b) a nyugdíjbiztosítási igazgatóság vezetője dönt a továbbtanuló árva árvaellátásának kivételes meghosszabbítása iránti ügyekben,
+
+c) a fővárosi és megyei kormányhivatalt vezető kormánymegbízott dönt a kivételes nyugellátás-emelés és az egyszeri segély engedélyezése iránti ügyekben,
+
+d) az a)–c) pontban felsorolt személyek a kérelmet megküldik az ONYF főigazgatójának, ha megállapítják, hogy a kérelmező nem felel meg az általuk engedélyezhető árvaellátás-meghosszabbítás, nyugellátás-emelés, illetve egyszeri segély feltételeinek, de a (20) bekezdés szerinti feltételek fennállnak.
 
 (1g)[^157] Ha az ONYF főigazgatójának vagy a Nyugdíjfolyósító Igazgatóság igazgatójának hatáskörébe tartozó ügyekben – a különös méltánylást érdemlő körülmények fennállásának megítélése érdekében – helyszíni szemlét kell tartani, a helyszíni szemlét az eljáró hatóság megkeresésre a nyugdíjbiztosítási igazgatóság – a megkereséstől számított tizenöt munkanapon belül – folytatja le, és annak eredményéről három munkanapon belül értesíti a megkereső hatóságot.
 
@@ -121,9 +125,9 @@ b) a (17) bekezdésben meghatározott feltétel hiányában, illetőleg a (19) b
 [^151]: A 72/B. § (1a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^152]: A 72/B. § (1b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^153]: A 72/B. § (1c) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^154]: A 72/B. § (1d) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^154]: A 72/B. § (1d) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 152/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^155]: A 72/B. § (1e) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^156]: A 72/B. § (1f) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^156]: A 72/B. § (1f) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 152/2011. (VIII. 10.) Korm. rendelet 1. § (2) beekzdésével megállapított szöveg.
 [^157]: A 72/B. § (1g) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^158]: A 72/B. § (2) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének f) pontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^159]: A 72/B. § (3) bekezdésének első és második mondatát a 145/2002. (VI. 29.) Korm. rendelet 2. §-ának (2) bekezdése hatályon kívül helyezte.

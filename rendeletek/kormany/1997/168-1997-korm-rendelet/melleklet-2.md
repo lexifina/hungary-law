@@ -1,4 +1,4 @@
-2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^308]
+2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^310]
 
 A keresetek beszámításához alkalmazandó valorizációs szorzószámok
 
@@ -128,4 +128,4 @@ A keresetek beszámításához alkalmazandó valorizációs szorzószámok
 
 | 61. | 2009. | 1,069 |
 
-[^308]: A 2. számú melléklet a 40/2011. (III. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^310]: A 2. számú melléklet a 40/2011. (III. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
