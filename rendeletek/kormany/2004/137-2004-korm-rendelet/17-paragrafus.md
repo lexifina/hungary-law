@@ -10,6 +10,6 @@
 
 a) nyilatkozatban megtilthatja a díjazásban vagy megvételben nem részesült pályaművének nyilvánosságra hozatalát, illetve
 
-b) a kiírásban meghatározottaknak megfelelően nyilatkozik, hogy a 14. § (4) bekezdés[^24] j) pontjában megfogalmazott követelmények szerint a tervezési feladat további feldolgozására vállalkozik-e, és ehhez a külön jogszabály szerinti jogosultsággal rendelkezik-e.
+b) a kiírásban meghatározottaknak megfelelően nyilatkozik, hogy a 14. § (4) bekezdés[^25] j) pontjában megfogalmazott követelmények szerint a tervezési feladat további feldolgozására vállalkozik-e, és ehhez a külön jogszabály szerinti jogosultsággal rendelkezik-e.
 
-[^24]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.
+[^25]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.

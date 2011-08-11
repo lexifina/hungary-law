@@ -6,7 +6,7 @@
 
 (3) Nem indulhat pályázóként
 
-a) az a személy vagy szervezet, akit a tervpályázati eljárás előkészítésébe vagy más szakaszába bevontak;[^16]
+a) az a személy vagy szervezet, akit a tervpályázati eljárás előkészítésébe vagy más szakaszába bevontak;[^17]
 
 b) aki a bíráló bizottság:
 
@@ -24,4 +24,4 @@ b) az a gazdálkodó szervezet, amellyel a bíráló bizottság bármely meghird
 
 c) az a gazdálkodó szervezet vagy természetes személy, aki szakmai tevékenysége körében – öt évnél nem régebben meghozott jogerős ítéletben megállapított – jogszabálysértést követett el.
 
-[^16]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.
+[^17]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.

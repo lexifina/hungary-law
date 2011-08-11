@@ -8,10 +8,10 @@
 
 (4) A pályaművek díjazására és megvételére előirányzott összeg arányosan csökkenthető, ha a tervpályázatot a bíráló bizottság a hasznosíthatóság szempontjából csökkent értékűnek minősíti, illetve ha a meghívásos tervpályázatra egy vagy több meghívott a pályaművét nem nyújtotta be.
 
-(5)[^31]
+(5)[^32]
 
 (6) A bíráló bizottság résztvevőit – végzett munkájukkal arányosan – a tervpályázat előkészítésében és a bírálati munka során kifejtett tevékenységükért díjazásban kell részesíteni. A bíráló bizottság díjazására felhasználható keret nem haladhatja meg a tervpályázat pénzügyi fedezete (3) bekezdésben felsorolt költségekkel csökkentett összegének 25%-át.
 
 (7) Eltérő megállapodás hiányában a tervpályázat elnöke (társelnöke) a bizottsági tag díjazásának 140%-ára, szakmai titkára 130%-ára, jogi szakértője a bizottsági taggal egyenlő díjazásra, szakértője a bizottsági tag díjazásának 60–80%-a közötti díjazásra jogosult.
 
-[^31]: A 21. § (5) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^32]: A 21. § (5) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének a) pontja hatályon kívül helyezte.

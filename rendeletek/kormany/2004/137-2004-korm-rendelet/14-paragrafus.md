@@ -12,13 +12,13 @@ a) a tervezési feladat részletes leírását, a tervpályázat szempontjából
 
 b) a tervpályázat kidolgozásához felhasználható – ki nem adott, de tanulmányozható – anyagok megtekintésének helyét és módját;
 
-c)[^17] a tervpályázat kidolgozása során figyelembe veendő lényeges adatokat, (településtörténet, településszerkezet, terület- és településrendezési vonatkozások, növényzet, terepadottságok, talajviszonyok, területfelhasználás, műemléki és régészeti védettség, közlekedés, közintézmény ellátottság, egyéb adatok);
+c)[^18] a tervpályázat kidolgozása során figyelembe veendő lényeges adatokat, (településtörténet, településszerkezet, terület- és településrendezési vonatkozások, növényzet, terepadottságok, talajviszonyok, területfelhasználás, műemléki és régészeti védettség, közlekedés, közintézmény ellátottság, egyéb adatok);
 
 d) az objektív összehasonlítást megkönnyítő, a pályázó által szolgáltatandó adatok kérdőlapját;
 
 e) a szabadalmi bejelentés alatt álló munkarészek megjelölésének módját;
 
-f)[^18] a pályaművek elbírálásának a tervpályázat tárgya szerinti sajátos szakmai szempontjait, az építészeti műszaki tervnek az építészeti minőséggel, szakmai igényességgel és szakszerűséggel kapcsolatos követelményeit, ezen belül különösen:
+f)[^19] a pályaművek elbírálásának a tervpályázat tárgya szerinti sajátos szakmai szempontjait, az építészeti műszaki tervnek az építészeti minőséggel, szakmai igényességgel és szakszerűséggel kapcsolatos követelményeit, ezen belül különösen:
 
 fa) a telepítés (a környezetbe és a tájba illeszkedés, a beépítés),
 
@@ -66,7 +66,7 @@ h) a tervpályázatra vonatkozó kérdések feltevésének, valamint a válaszok
 
 i) meghívásos tervpályázat esetén a meghívott pályázók nevét;
 
-j) a tervezési szolgáltatás megrendeléséhez szükséges kiírói feltételeket és követelményeket (tervezési díj, határidők);[^19]
+j) a tervezési szolgáltatás megrendeléséhez szükséges kiírói feltételeket és követelményeket (tervezési díj, határidők);[^20]
 
 k) a tervpályázati kiírás részletes programjának és mellékleteinek tartalomjegyzékét;
 
@@ -78,6 +78,6 @@ l) a tervpályázati eljárásra vonatkozó jogszabályok megnevezését.
 
 (7) A dokumentációt a tervpályázati eljárás meghirdetésének napjáig el kell készíteni.
 
-[^17]: A 14. § (2) bekezdésének c) pontja a 207/2008. (VIII. 27.) Korm. rendelet 29. § (9) bekezdésének a) pontja szerint módosított szöveg.
-[^18]: A 14. § (2) bekezdésének f) pontja a 207/2008. (VIII. 27.) Korm. rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
-[^19]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.
+[^18]: A 14. § (2) bekezdésének c) pontja a 207/2008. (VIII. 27.) Korm. rendelet 29. § (9) bekezdésének a) pontja szerint módosított szöveg.
+[^19]: A 14. § (2) bekezdésének f) pontja a 207/2008. (VIII. 27.) Korm. rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
+[^20]: A Magyar Közlöny 2004. évi 77. számában megjelent helyesbítésnek megfelelő szöveg.

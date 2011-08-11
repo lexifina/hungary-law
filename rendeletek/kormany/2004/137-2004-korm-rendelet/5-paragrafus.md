@@ -12,6 +12,6 @@
 
 (6) A kiíró meghívásos tervpályázatra közvetlenül is felkérhet pályázókat.
 
-(7)[^2]
+(7)[^3]
 
-[^2]: Az 5. § (7) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^3]: Az 5. § (7) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 29. § (4) bekezdésének a) pontja hatályon kívül helyezte.
