@@ -1,0 +1,296 @@
+# A Kormány 158/2011. (VIII. 11.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 95. szám, 2011. augusztus 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/268d85db31c8aea7999ed9811b82111bc36b85c7/dokumentumok/a6407b4e19b69239da2faefd8f6fc533d5debc68/letoltes)
+
+---
+
+A Kormány 158/2011. (VIII. 11.) Korm. rendelete
+a Honvédelmi Minisztérium egyes hatósági és szakhatósági hatásköreit kijelölő kormányrendeletek
+módosításáról
+A Kormány
+a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+az 1. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés g) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 2. §, 10. § és 28. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+l) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 3. § tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(2) bekezdésében meghatározott feladatkörében eljárva,
+a 12. § tekintetében az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 357. § (1) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+
+a 17. § tekintetében a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 19. § tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 5. pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 27. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés l) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 29. § tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés
+a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 3. számú
+melléklet 13. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal
+vezetője” szöveg lép.
+2. § A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági
+engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 3. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A Kormány a honvédelmi és katonai célú építményekkel kapcsolatos építésügyi hatósági jogkör gyakorlójaként,
+országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) másodfokon a honvédelemért felelős minisztert
+(a továbbiakban együtt: katonai építésügyi hatóság) jelöli ki.”
+3. § (1) A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet
+(a továbbiakban: R1.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány a veszélyes katonai objektum felügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) másodfokon a honvédelemért felelős minisztert
+(a továbbiakban együtt: veszélyes katonai objektum felügyeleti hatóság) jelöli ki.”
+(2) Az R1. 4. melléklet 2.3. pont b) alpontjában a „veszélyes katonai objektum felügyeleti hatóság” szövegrész helyébe
+a „veszélyes katonai objektum” szöveg lép.
+4. § A budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége
+szennyvízelvezetési és kezelési projekt és a Veszprém és térsége szennyvízelvezetési és kezelési projekt
+megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+150/2006. (VII. 21.) Korm. rendelet 2. számú melléklet „1. Vízjogi engedély”, „2. Általános építésügyi hatósági engedély
+(kivéve útügyi beruházások)”, valamint „3. Útügyi építési engedély” alcím „Honvédelem” sorában a „Honvéd Vezérkar
+főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+5. § Az észak-balatoni hulladékgazdálkodási projekt és a Szabolcs-Szatmár-Bereg megyei hulladékgazdálkodási projekt
+megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+151/2006. (VII. 21.) Korm. rendelet 2. számú melléklet „2. Építési engedély (kivéve útügyi beruházások)”, „3. Útügyi
+építési engedély”, valamint „4. Vízjogi engedély” alcím „Honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész
+helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+6. § Az M3 autópálya Nyíregyháza–Vásárosnamény közötti szakasz megvalósításához szükséges egyes közigazgatási
+hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 152/2006. (VII. 21.) Korm. rendelet 2. számú melléklet
+„1. Útügyi építési engedély” és „2. Vízjogi engedély” alcím „Honvédelem” sorában a „Honvéd Vezérkar főnöke”
+szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+7. § A Bátaapátiban létesülő kis és közepes aktivitású radioaktív hulladéktároló projektjéhez kapcsolódó egyes
+közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 257/2006. (XII. 15.) Korm. rendelet
+2. melléklet „2. Radioaktív hulladéktároló létesítési és üzemeltetési engedély” alcím „honvédelem” sorában a „Honvéd
+Vezérkar Főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+
+8. § (1) A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: R2.) 8/B. § (7) bekezdése
+helyébe a következő rendelkezés lép:
+„(7) A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak
+kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért
+felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, a Magyar
+Köztársaság légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges
+fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – az első fokú hatósági
+eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban pedig
+a honvédelemért felelős minisztert szakhatóságként jelöli ki.”
+(2) Az R2. 8/D. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Kormány a vasúti építmény engedélyezésére irányuló eljárásban,)
+„b) ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett vasúti építményre
+vonatkozik, – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai
+a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e – az első fokú hatósági
+eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban pedig
+a honvédelemért felelős minisztert,”
+(szakhatóságként jelöli ki.)
+(3) Az R2.
+a) 3. melléklet 6. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági
+Hivatal vezetője”, a „honvédelmi miniszter” szövegrész helyébe a „honvédelemért felelős miniszter”;
+b) 5. melléklet 5. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági
+Hivatal vezetője”, a „honvédelmi miniszter” szövegrész helyébe a „honvédelemért felelős miniszter”
+szöveg lép.
+9. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 2. melléklet 8. pontjában,
+3. melléklet 10. pontjában és 3. melléklet 2. táblázat 10. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+10. § Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm.
+rendelet 3/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány a nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi és
+építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) másodfokon a honvédelemért felelős minisztert
+jelöli ki.”
+11. § A budapesti 4-es metróvonal Kelenföldi pályaudvar–Bosnyák tér közötti szakasza megvalósításával összefüggő
+közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 89/2007. (IV. 26.) Korm. rendelet
+2. melléklet „1. Vasúthatósági engedélyek”, „2. Metróállomások építésügyi hatósági engedélyei”, „3. Felszín feletti
+építmények általános építésügyi hatósági engedélyei”, valamint „4. Felszíni rendezési munkák útügyi építési
+engedélyei” alcím „Honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi
+Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+12. § A korkedvezmény-biztosítási járulék megfizetése alól történő mentesítés eljárási szabályairól szóló 342/2007. (XII. 19.)
+Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Kormány a Magyar Honvédség polgári alkalmazottainak munkakörei esetében a Tv. XXVII. fejezete szerinti
+hatósági jogkör gyakorlójaként a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét jelöli ki. E hatóság eljárására
+a 4–5. §-ban, valamint a 8. § (1)–(2) és (4) bekezdésében foglaltakat nem kell alkalmazni.”
+13. § A „Pécs 2010 – Európa Kulturális Fővárosa” program fejlesztési kulcsprojektjeihez kapcsolódó beruházások
+megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 74/2008.
+(IV. 3.) Korm. rendelet 2. számú melléklet „1. Építési engedély (kivéve útügyi beruházások)”, „2. Útügyi építési
+engedély”, valamint „3. Vízjogi engedély” alcím „Honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész
+helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+
+14. §
+Az M4 autópálya/autóút és a 4. számú főút fejlesztéseihez kapcsolódó beruházások megvalósításával összefüggő
+közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 91/2008. (IV. 23.) Korm. rendelet
+2. számú melléklet „1. Útügyi építési engedély” alcím „Honvédelem” sorában, valamint a „2. Vízjogi engedély” alcím
+„Honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal
+vezetője” szöveg lép.
+15. §
+A Budapest Ferihegy Nemzetközi Repülőtér rövid távú fejlesztése projekthez tartozó egyes közigazgatási hatósági
+ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 153/2008. (VI. 6.) Korm. rendelet 2. melléklet „1. Építésügyi
+hatósági engedélyezési eljárások”, valamint „3. Vízjogi engedélyezési eljárás” alcím „Honvédelem” sorában, továbbá
+a „2. Létesítési engedélyezési eljárás” alcím „-honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+16. §
+A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek
+kiemelt jelentőségű üggyé nyilvánításáról szóló 192/2008. (VII. 30.) Korm. rendelet 2. számú melléklet 8. pontjában
+a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+17. §
+A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 230/2008. (IX. 12.) Korm. rendelet 3. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány a Magyar Honvédség és a katonai nemzetbiztonsági szolgálatok vonatkozásában a munkabiztonsági
+hatósági jogkör gyakorlójaként, országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) másodfokon a honvédelemért felelős minisztert
+jelöli ki.”
+18. §
+Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi-csatorna és Szőkedencs község déli
+közigazgatási határa által lehatárolt területen megvalósuló nagyberuházással összefüggő közigazgatási hatósági
+ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 248/2008. (X. 14.) Korm. rendelet 2. számú melléklet
+8. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője”
+szöveg lép.
+19. §
+(1) Az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről
+szóló 310/2008. (XII. 20.) Korm. rendelet (a továbbiakban: R3.) 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A Kormány a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása,
+valamint felügyelete alá tartozó szervezetek elhelyezését szolgáló létesítmények, eszközök, berendezések
+tekintetében az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos hatósági jogkörben, országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét (a továbbiakban: HM HH),
+b) másodfokon a honvédelemért felelős minisztert
+jelöli ki.”
+(2) Az R3. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos
+tevékenységekről szóló kormányrendelet alapján kiadott, kritikus alkalmazási területeken történő felhasználásra
+vonatkozó engedéllyel rendelkezőknek a halonról évente, a tárgyévet követő év március 31-éig adatot kell
+szolgáltatniuk a Főigazgatóság, illetve a HM HH részére.”
+20. §
+A Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági
+közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet 1. melléklet
+6. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője”
+szöveg lép.
+21. §
+A „Duna projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé
+nyilvánításáról szóló 77/2009. (IV. 8.) Korm. rendelet 2. számú melléklet „1. Vízügyi hatósági engedély”,
+„2. Környezetvédelmi engedély”, valamint „3. Építésügyi hatósági engedély (kivéve útügyi beruházások)” alcím
+„7. honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági
+Hivatal vezetője” szöveg lép.
+
+22. § A „Ráckevei (Soroksári) – Duna-ág (RSD) vízgazdálkodásának, vízminőségének javítása” tárgyú projekt
+megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+78/2009. (IV. 8.) Korm. rendelet 2. számú melléklet „1. Vízügyi hatósági engedély”, valamint „2. Környezetvédelmi
+engedély” alcím „7. honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi
+Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+23. § A „Tisza hullámtér projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé
+nyilvánításáról szóló 79/2009. (IV. 8.) Korm. rendelet 2. számú melléklet „1. Vízügyi hatósági engedély” és
+„2. Környezetvédelmi engedély” alcím „7. honvédelem” sorában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+24. § A „Kis-Balaton Vízvédelmi Rendszer II. ütem megvalósítása” tárgyú projekt megvalósításával összefüggő közigazgatási
+hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 80/2009. (IV. 8.) Korm. rendelet 2. számú melléklet
+„1. Vízügyi hatósági engedély” alcím 7. pontjában, „2. Építésügyi hatósági engedély (kivéve útügyi beruházások)”
+alcím 7. pontjában, valamint „3. Útügyi építési engedély” alcím 8. pontjában a „Honvéd Vezérkar főnöke” szövegrész
+helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+25. § Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet
+5. melléklet 17. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági
+Hivatal vezetője” szöveg lép.
+26. § Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és
+a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet 19. § (5) bekezdésében, 20. §
+(3) bekezdésében, valamint 21. § (5) bekezdésében a „Honvédelmi Minisztérium Központi Ellenőrzési és Hatósági
+Hivatala” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+27. § A honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló 195/2009. (IX. 15.)
+Korm. rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány az e rendelet hatálya alá tartozó építmények tekintetében az építőipari kivitelezési tevékenységgel
+kapcsolatos építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) másodfokon a honvédelemért felelős minisztert
+(a továbbiakban együtt: katonai építésfelügyeleti hatóság) jelöli ki.”
+28. § (1) A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: R4.)
+7. § (4) bekezdés d)–e) pontja helyébe a következő rendelkezések lépnek:
+(A Kormány a működési engedéllyel kapcsolatos eljárásban szakhatóságként jelöli ki)
+„d) olyan üzlet esetében, amelyben „A” és „B” tűzveszélyességi osztályba tartozó vegyi árut és anyagot, pirotechnikai
+terméket, tüzelő- és „C” tűzveszélyességi osztályú építőanyagot, járművet vagy üzemanyagot forgalmaznak
+da) a működtetni kívánt üzlet működésének engedélyezése esetén – a db) alpontban foglalt kivétellel – az első- és
+másodfokú hatósági eljárásban közreműködő tűzvédelmi szakhatóságokat,
+db) az ingatlan-nyilvántartás szerint a Honvédelmi Minisztérium vagyonkezelésében álló földrészleten
+(a továbbiakban: honvédelmi és katonai célú ingatlan) működtetni kívánt üzlet esetében tűzvédelmi szakhatóságként
+az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági
+eljárásban pedig a honvédelemért felelős minisztert, valamint
+e) ha arra az építményre, amelyben az üzletet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem
+benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki
+– a településrendezési és általános építésügyi követelményeknek való megfelelés kérdésében –
+ea) az üzlet működésének engedélyezése esetén – az eb) alpontban foglalt kivétellel – az első fokú eljárásban
+az építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
+eb) a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében építésügyi szakhatóságként az első
+fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban
+pedig a honvédelemért felelős minisztert, továbbá”
+
+(2) Az R4. 7. § (4) bekezdése a következő f) ponttal egészül ki:
+(A Kormány a működési engedéllyel kapcsolatos eljárásban szakhatóságként jelöli ki)
+„f) a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében a honvédelmi ágazati munkavédelmi és
+munkabiztonsági követelményeknek való megfelelés kérdésében munkabiztonsági szakhatóságként az első fokú
+hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban
+a honvédelemért felelős minisztert.”
+29. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről és a tűzvédelmi hatósági tevékenység részletes szabályairól
+szóló 261/2009. (XI. 26.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) A Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása, valamint
+felügyelete alá tartozó szervezetek elhelyezését szolgáló létesítmények tekintetében, az 1. § (1) bekezdése, valamint
+az 1. § (2) bekezdés b) és g) pontja vonatkozásában országos illetékességgel tűzvédelmi hatóságként
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetője,
+b) másodfokon a honvédelemért felelős miniszter
+jár el.
+(2) A Kormány a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása,
+valamint felügyelete alá tartozó szervezetek elhelyezését szolgáló létesítmények tekintetében – a tűzvédelmi
+előírások érvényesülése kérdésében a beruházási és felújítási munkálatokkal kapcsolatos tervek engedélyeztetése,
+a használatbavételi, valamint az üzemeltetés-engedélyezési eljárások során – tűzvédelmi szakhatóságként, országos
+illetékességgel
+a) az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
+b) a másodfokú hatósági eljárásban a honvédelemért felelős minisztert
+jelöli ki.”
+30. § A Vát és Porpác települések közigazgatási területén megvalósuló repülőtér-fejlesztéssel összefüggő közigazgatási
+hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 351/2009. (XII. 30.) Korm. rendelet 2. melléklet
+7. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője”
+szöveg lép.
+31. § A Pannonia Ethanol Zrt. bioetanol-előállító üzem projekt Dunaföldvár város közigazgatási területén megvalósuló
+nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+15/2010. (II. 5.) Korm. rendelet 2. melléklet 13. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+32. § A DUNA-ETANOL Zrt. Bioetanol-Biogáz-Kiserőmű projekt Dunaalmás község közigazgatási területén megvalósuló
+nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+60/2010. (III. 18.) Korm. rendelet 2. melléklet 13. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+33. § Az EM-Bioetanol Kft. Bioetanol-Biogáz-Kiserőmű projekt Kaba város közigazgatási területén megvalósuló
+nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló
+61/2010. (III. 18.) Korm. rendelet 2. melléklet 13. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+34. § A magyar–horvát összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez
+kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé
+nyilvánításáról szóló 173/2010. (V. 13.) Korm. rendelet 2. melléklet „2. Bányahatósági engedély” alcím 9. pontjában
+a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+35. § A Nabucco Gas Pipeline International GmbH. által megvalósítandó, a Nabucco gázvezeték magyarországi szakaszának
+kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházással összefüggő közigazgatási hatósági
+ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 174/2010. (V. 13.) Korm. rendelet 2. melléklet „1. Bányahatósági
+
+engedély” és „6. Villamos vezetékjogi engedély” alcím 7. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+36. §
+A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló
+320/2010. (XII. 27.) Korm. rendelet 3. melléklet 3. pontjában és 5. melléklet 10. pontjában a „Honvéd Vezérkar főnöke”
+szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+37. §
+Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról,
+valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet
+a) 23. § (1) bekezdés d) pontjában és 23. § (2) bekezdés d) pontjában a „Honvéd Vezérkar főnökét” szövegrész helyébe
+a „Honvédelmi Minisztérium Hatósági Hivatal vezetőjét”;
+b) 4. melléklet V. fejezet 7. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium
+Hatósági Hivatal vezetője”
+szöveg lép.
+38. §
+A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.)
+Korm. rendelet 33. § (1) bekezdésében a „Honvédelmi Minisztérium hatósági feladatokért felelős hivatala” szövegrész
+helyébe a „Honvédelmi Minisztérium Hatósági Hivatal” szöveg lép.
+39. §
+Az AUDI HUNGÁRIA MOTOR KFT. Győr közigazgatási területén megvalósuló nagyberuházásával összefüggő
+közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 16/2011. (II. 24.) Korm. rendelet
+2. melléklet 8. pontjában a „Honvédelmi Minisztérium Honvéd Vezérkar Főnöke” szövegrész helyébe a „Honvédelmi
+Minisztérium Hatósági Hivatal vezetője” szöveg lép.
+40. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
