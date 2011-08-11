@@ -1,8 +1,10 @@
-## 1. az államháztartásról szóló 1992. évi XXXVIII. törvény 38. § (1) bekezdésében biztosított jogkörében elrendeli a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet XI. Miniszterelnökség fejezet 3. Rendkívüli kormányzati intézkedések cím terhére 11 111,0 millió forint átcsoportosítását az 1. melléklet szerint.
+## 1.[^1] az államháztartásról szóló 1992. évi XXXVIII. törvény 38. § (1) bekezdésében biztosított jogkörében elrendeli a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet XI. Miniszterelnökség fejezet 3. Rendkívüli kormányzati intézkedések cím terhére 11 111,0 millió forint átcsoportosítását az 1. melléklet szerint, elszámolási a fel nem használt rész tekintetében visszafizetési kötelezettséggel.
 
-## Felelős: nemzetgazdasági miniszter
+## Felelős: nemzetgazdasági miniszter, a fejezet irányítását ellátó szervek vezetői
 
-## Határidő: azonnal
+## Határidő: az átcsoportosításra: azonnal
+
+## az elszámolásra és a visszafizetési kötelezettség teljesítésére: 2011. szeptember 30.
 
 ## 2. jóváhagyja, hogy az MFB Magyar Fejlesztési Bank Zrt. biztonságos működése és a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvényben foglaltak megvalósítása érdekében a határozat 1. pontjában biztosított 10 000,0 millió forint tőkejuttatásból 2500,0 millió forint a jegyzett tőkét növelje, 7500,0 millió forint pedig tőketartalékba kerüljön.
 
@@ -10,7 +12,7 @@
 
 ## 3. Ez a határozat a közzététele napján lép hatályba.
 
-1. melléklet az 1181/2011. (V. 31.) Korm. határozathoz
+1. melléklet az 1181/2011. (V. 31.) Korm. határozathoz[^2]
 
 XI. Miniszterelnökség
 
@@ -26,7 +28,7 @@ a Kormány hatáskörében
 
 Költségvetési év: 2011.
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
@@ -106,17 +108,17 @@ Költségvetési év: 2011.
 
 |  |  |  | 23 |  |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
-| 250078 |  |  |  | 1 |  |  |  |  |  |  | Utánpótlás-nevelési feladatok |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 250,0 |  |  |
-
 | 025155 |  |  |  | 4 |  |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 30,0 |  |  |
+
+| 297446 |  |  |  | 5 |  |  |  |  |  |  | Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 250,0 |  |  |
 
 | 219833 |  |  |  | 23 |  |  |  |  |  |  | Szabadidősport támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -124,7 +126,7 @@ Költségvetési év: 2011.
 
 |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 14,0 |  |  |
 
-| Az előirányzat-módosítás érvényessége:  a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | TÁMOGATÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
@@ -132,7 +134,7 @@ Költségvetési év: 2011.
 
 |  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 15 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 15 |  |  |  |  |  |  | Fejezeti kezelésű előriányzatok |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  | 3 |  |  |  |  |  |  | Államháztartáson kívüli szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -172,26 +174,29 @@ Költségvetési év: 2011.
 
 |  |  |  | 23 |  |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |
 
-| 250078 |  |  |  | 1 |  |  |  |  |  |  | Utánpótlás-nevelési feladatok |  |  |  |  |  |  |  |  | 250,0 |  |  |
-
 | 025155 |  |  |  | 4 |  |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  | 30,0 |  |  |
+
+| 297446 |  |  |  | 5 |  |  |  |  |  |  | Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása |  |  |  |  |  |  |  |  | 250,0 |  |  |
 
 | 219833 |  |  |  | 23 |  |  |  |  |  |  | Szabadidősport támogatása |  |  |  |  |  |  |  |  | 14,0 |  |  |
 
-| Az előirányzat-módosítás érvényessége:  a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az adatlap 5 példányban töltendő ki | Atámogatás folyósítása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
+| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 
-| Fejezet | 1 példány | időarányos |  |  |  |  |  |
+| Fejezet | 1 példány | időarányos |  |  |  |  |  |
 
-| Állami Számvevőszék | 1 példány | teljesítményarányos |  |  |  |  |  |
+| Állami Számvevőszék | 1 példány | teljesítményarányos |  |  |  |  |  |
 
-| Magyar Államkincstár | 1 példány | egyéb: azonnal | 11 111,0 |  | 11 111,0 |  |  |
+| Magyar Államkincstár | 1 példány | egyéb: azonnal | 11 111,0 |  | 11 111,0 |  |  |
 
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: Az 1. pont az 1282/2011. (VIII. 10.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1282/2011. (VIII. 10.) Korm. határozat 4. pontjával megállapított szöveg.
