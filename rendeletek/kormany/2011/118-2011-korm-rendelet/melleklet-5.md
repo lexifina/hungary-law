@@ -1543,3 +1543,9 @@ A szilárdsági elemzés
 5.2.2.4400. A biztonság szempontjából fontos rendszerek, rendszerelemek tervezésénél figyelembe vett összes terhelés kombinációját azok előfordulási gyakoriságával együtt kell figyelembe venni.
 
 5.2.2.4500. A szilárdsági elemzés során a vizsgált rendszerek, rendszerelemek szerkezeti anyagai tulajdonságainak öregedési folyamatok miatt bekövetkező változását figyelembe kell venni. Ahol ez szükséges, vizsgálni kell, hogy a kapott eredmények mennyire érzékenyek a kiválasztott elemzési módszerre.
+
+A tervezési adatok és modellek
+
+5.2.2.4600. Az elemzésekhez használt adatok helyességét igazolni kell megalapozott valós adatokkal való összehasonlítással, kísérletek eredményeinek felhasználásával vagy egyéb módon, és ezt az extrapolált adatok esetén is be kell mutatni. Ahol az adatok alkalmazásában bizonytalanság mutatkozik, ott a bizonytalanságot a biztonság irányába ható megfelelő konzervativizmussal kell kiküszöbölni. Jól megalapozott alátámasztás hiányában a rendelkezésre álló adatokból nem szabad extrapolálni. A kezdeti és peremfeltételeket konzervatív módon kell meghatározni.
+
+5.2.2.4700. Modelleket kell alkalmazni a tervezés támogatására, megfelelőségének igazolására és a kutatóreaktor biztonságát érintő, a normál üzem, a várható üzemi események és a tervezési üzemzavarok során fellépő körülmények leírására. Ezeknek a modelleknek elismert tudományos értelmezésen kell alapulniuk, és a szükséges feltételezések vagy alkalmazott közelítések igazolhatóan a biztonság irányába kell mutatniuk.
