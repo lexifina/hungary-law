@@ -1,5 +1,3 @@
-## 1. §[^1] Felszámoló az a 2. § (1) bekezdése szerinti gazdasági társaság lehet, amely a felszámolók névjegyzékében szerepel.
-
 2. §[^2] (1) A felszámolók névjegyzékébe – nyilvános pályázat alapján – a Cstv. 27/C. §-ában és az e rendeletben foglalt feltételeknek megfelelő
 
 a) magyarországi székhelyű korlátolt felelősségű társaság vagy kizárólag névre szóló részvényekkel rendelkező részvénytársaság, vagy
@@ -34,7 +32,6 @@ lehet. A felszámoló gazdasági társaságnak a vagyoni biztosíték meglétét
 
 (5)[^4] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló gazdasági társaság legalább két-két közgazdászt, jogi szakvizsgát tett jogászt, valamint a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. Az említettek közül legalább egy-egy főnek (kivéve a könyvvizsgálót) munkaviszonyban vagy személyes közreműködésre is kötelezettséggel is járó tagsági jogviszonyban kell állnia a felszámoló gazdasági társasággal. E feltételek teljesítését a Cstv.-ben és a Melléklet b) pontjában meghatározott okiratokkal kell igazolni.
 
-[^1]: Az 1. § a 275/2009. (XII. 3.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^2]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 275/2009. (XII. 3.) Korm. rendelet 6. § (6) bekezdése alapján a 2. § (3) bekezdése szerinti vagyoni biztosíték teljesítését legkésőbb 2010. október 1-jéig kell igazolni.
 [^4]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) és (5) bekezdése szerint módosított szöveg.
