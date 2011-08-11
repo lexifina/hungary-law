@@ -50,6 +50,6 @@
 
 3. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^96]
+338/2006. (XII. 23.) Korm. rendelethez[^97]
 
-[^96]: A 3. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 129/2010. (IV. 21.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^97]: A 3. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 129/2010. (IV. 21.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

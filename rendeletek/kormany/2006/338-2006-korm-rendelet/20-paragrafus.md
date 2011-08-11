@@ -1,10 +1,10 @@
-## 19. §[^64]
+## 19. §[^65]
 
 ## Záró rendelkezések
 
 20. § (1) Ez a rendelet 2007. január 1-jén lép hatályba; a már folyamatban lévő eljárásokat az azok indulásakor hatályos rendelkezések szerint kell befejezni.
 
-(2)[^65] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
+(2)[^66] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
 
 a) 1. §-a által módosított 2. § (3), (4) és (5) bekezdését,
 
@@ -22,8 +22,8 @@ f) 8. §-a által módosított 2. mellékletét,
 
 g) 9. §-a által módosított 3. és 4. mellékletét
 
-az Mr. hatálybalépését[^66] követően indult ügyekben kell alkalmazni.
+az Mr. hatálybalépését[^67] követően indult ügyekben kell alkalmazni.
 
-[^64]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte.
-[^65]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
-[^66]: A hatálybalépés időpontja: 2010. május 1.
+[^65]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte.
+[^66]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
+[^67]: A hatálybalépés időpontja: 2010. május 1.
