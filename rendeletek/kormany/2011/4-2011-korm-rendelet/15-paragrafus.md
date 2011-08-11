@@ -6,7 +6,7 @@ a) az operatív programok tervezésének koordinációja, az operatív program s
 
 b) javaslattétel az operatív program módosítására, beleértve a pénzügyi tábla prioritástengelyek közti módosítását, a Kormány által jóváhagyott operatív programok, valamint azok módosításának benyújtása az Európai Bizottsághoz,
 
-c) az akciótervek és módosításuk elkészítése,
+c)[^4] az akciótervek és módosításuk elkészítése, valamint a Kormány 3. § d) pontja és a fejlesztéspolitikáért felelős miniszter 5. § h) pontja szerinti döntésének megfelelő tartalmú, egységes szerkezetű akciótervnek az NFÜ honlapján való közzététele,
 
 d) forrás biztosítása az operatív programok fejezeti kezelésű előirányzat-felhasználási keretszámláin, illetve a lebonyolítási számlákon, a jogosulatlan vagy szabálytalan felhasználásból eredő összegek visszautalása az igazoló hatóság vonatkozó pénzforgalmi számláira,
 
@@ -36,6 +36,11 @@ p) javaslattétel a fejlesztéspolitikáért felelős miniszternek a közreműk�
 
 q) szerződés megkötése a közreműködő szervezettel, teljesítményalapú finanszírozás biztosítása a közreműködő szervezet szolgáltatásaiért, a finanszírozás éves felülvizsgálata és indokolt esetben korrekciója,
 
-r) pályázati kiírások elkészítése és megjelentetése.
+r) pályázati kiírások elkészítése és megjelentetése,
+
+s)[^5] az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretének és arányának betartása az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Kormány egyetértésével haladhatja meg az elismerhető közkiadás 15%-át.
 
 (2) Az (1) bekezdés q) pontjában meghatározott feladat elvégzéséhez az irányítási jogokat gyakorló miniszter jóváhagyása szükséges.
+
+[^4]: A 15. § (1) bekezdés c) pontja a 153/2011. (VIII. 10.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 15. § (1) bekezdés s) pontját a 153/2011. (VIII. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be.
