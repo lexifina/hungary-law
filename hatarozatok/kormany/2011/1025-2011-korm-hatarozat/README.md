@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1025-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-02-11 | 2011-1025-30-22.1 | 1025/2011. (II. 11.) Korm. határozat |
+| 2011-08-11 | 2011-1025-30-22.2 | 1282/2011. (VIII. 10.) Korm. határozat |
