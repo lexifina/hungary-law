@@ -18,4 +18,6 @@ b) a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátol
 
 c) egyes területfejlesztési, illetve fejlesztéspolitikai háttérintézményi feladatok ellátásának támogatása;
 
-d) a regionális fejlesztési tanácsok Új Széchenyi Tervhez kapcsolódó egységes kommunikációjának finanszírozása.
+d)[^2] a Széchenyi Programiroda Nonprofit Kft. Új Széchenyi Tervhez kapcsolódó egységes kommunikációjának finanszírozása.
+
+[^2]: A 2. § d) pontja a 41/2011. (VIII. 9.) NFM rendelet 34. §-ával megállapított szöveg. E módosító rendelet 32. §-a alapján a 2011. január 1-jét követően létrejött hitelszerződések kapcsán folyamatban lévő ügyekre is alkalmazni kell.
