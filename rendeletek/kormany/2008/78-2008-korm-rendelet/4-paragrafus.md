@@ -1,15 +1,15 @@
 ## A fürdőhely kijelölése
 
-4. § (1)[^8] A vízparti terület tulajdonosának kérelmére a kistérségi intézet fürdőhely kijelölési eljárást folytat le, melynek keretében dönt az üzemeltetni kívánt fürdőhely kijelöléséről és a 3. § (1) bekezdésének b)–d) pontjaiban foglaltakról. A kérelmet a fürdőhely üzemeltetésének tervezett megindítása előtt legalább 30 nappal kell benyújtani a kistérségi intézetnek.
+4. § (1)[^11] A vízparti terület tulajdonosának kérelmére a kistérségi népegészségügyi intézet fürdőhely kijelölési eljárást folytat le, melynek keretében dönt az üzemeltetni kívánt fürdőhely kijelöléséről és a 3. § (1) bekezdésének b)–d) pontjaiban foglaltakról. A kérelmet a fürdőhely üzemeltetésének tervezett megindítása előtt legalább 30 nappal kell benyújtani a kistérségi népegészségügyi intézetnek.
 
 (2) A fürdőhely kijelölésének nem szükséges feltétele a napi átlagban legalább 100 fő fürdőzőszám várható teljesülése bármely fürdésre kedvező időszakban.
 
-(3)[^9]
+(3)[^12]
 
-(4)[^10] A kijelölés folyóvízen a fürdési idény végéig, állóvízen visszavonásig hatályos.
+(4)[^13] A kijelölés folyóvízen a fürdési idény végéig, állóvízen visszavonásig hatályos.
 
 (5) A tartós fürdési tilalom elrendeléséhez a 3. § (2)–(3) bekezdésében foglaltak megfelelően irányadók.
 
-[^8]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 618. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: A 4. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^10]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 618. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^13]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

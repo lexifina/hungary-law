@@ -1,6 +1,6 @@
 ## Fürdővízminőség értékelése és a fürdővizek osztályozása
 
-9. § (1) A 7–8. § szerint elvégzett fürdővíz vizsgálatok eredményeit a kistérségi intézet minden fürdővízre, minden fürdési idényt követően értékeli
+9. § (1)[^25] A 7–8. § szerint elvégzett fürdővíz vizsgálatok eredményeit a kistérségi népegészségügyi intézet minden fürdővízre, minden fürdési idényt követően értékeli
 
 a) a 2. mellékletben részletezett eljárással,
 
@@ -16,7 +16,7 @@ a) a fürdővizet újonnan azonosították, vagy
 
 b) olyan változások következtek be, amelyek valószínűsíthetően befolyásolják a fürdővíz 2. melléklet szerinti osztályba sorolását, ez esetben az értékelést csak a változásokat követően vett mintákra vonatkozó fürdővíz-minőségi adatsorokból kell elvégezni.
 
-(5) A fürdővizeket minőségüknek megfelelően – az (1)–(4) bekezdések szerinti értékelés eredményeként – a kistérségi intézet az alábbi osztályokba sorolja be:
+(5)[^26] A fürdővizeket minőségüknek megfelelően – az (1)–(4) bekezdések szerinti értékelés eredményeként – a kistérségi népegészségügyi intézet az alábbi osztályokba sorolja be:
 
 a) kifogásolt,
 
@@ -28,7 +28,7 @@ d) kiváló.
 
 (6) Ha a 8. § (2) bekezdésében előírtak alapján nem merült fel az emelkedett cianobaktérium burjánzással összefüggő egészségügyi kockázat, a fürdővíz ebből a szempontból kiváló minősítést kap. Egyéb esetben a kockázat értékelésének alapját az 1. melléklet 3. paraméter értékeinek a táblázatban megadott határértékekhez viszonyított nagysága képezi.
 
-(7) A kistérségi intézet a vízminőségi értékelés alapján
+(7)[^27] A kistérségi népegészségügyi intézet a vízminőségi értékelés alapján
 
 a) a fürdővizeket hivatalból, illetve a kijelölt fürdőhelyeket az üzemeltető kérelmére feloszthatja, vagy
 
@@ -37,3 +37,7 @@ b) az egymással szomszédos, összefüggő fürdővizeket hivatalból, illetve 
 ba) az (5) bekezdés szerinti értékelésük az azt megelőző 4 évben azonos eredményre vezetett, és
 
 bb) a fürdővízprofiljuk közös kockázati tényezőket vagy azok közös hiányát mutatja.
+
+[^25]: A 9. § (1) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^26]: A 9. § (5) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^27]: A 9. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.

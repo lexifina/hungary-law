@@ -12,15 +12,15 @@ d) védőterület: a fürdőhely területét övező, a víz minőségének meg�
 
 e) fürdési idény:
 
-ea) a kistérségi intézet határozatában megállapított, az év azon két napja közötti legalább 8 hétig tartó egybefüggő időszak, amikor napi átlagban legalább 100 fő fürdőzőre lehet számítani, vagy
+ea)[^2] a kistérségi népegészségügyi intézet határozatában megállapított, az év azon két napja közötti legalább 8 hétig tartó egybefüggő időszak, amikor napi átlagban legalább 100 fő fürdőzőre lehet számítani, vagy
 
-eb) üzemeltetett fürdőhely esetében az átlagos napi fürdőzőszámra tekintet nélkül a fürdőhely üzemeltetője által kérelmezett és a kistérségi intézet határozatában megállapított időszak;
+eb)[^3] üzemeltetett fürdőhely esetében az átlagos napi fürdőzőszámra tekintet nélkül a fürdőhely üzemeltetője által kérelmezett és a kistérségi népegészségügyi intézet határozatában megállapított időszak;
 
 f) szennyezés: az 1. melléklet „A” oszlopában meghatározott mikrobiológiai szennyező anyag vagy más olyan élőlény vagy hulladék jelenléte, amely kihat a fürdővizek minőségére és veszélyezteti a fürdőzők egészségét;
 
 g) rövid távú szennyezés: az 1. melléklet „A” oszlopában meghatározott mikrobiológiai szennyezés, amelynek egyértelműen azonosítható okai vannak és amely a fürdővíz minőségét a szennyezés bekövetkeztétől számított legfeljebb 72 óránál tovább nem befolyásolja, valamint amelynek az előrejelzésére és kezelésére a 2. mellékletben meghatározott eljárások vonatkoznak;
 
-h) rendkívüli helyzet: olyan ritkán előforduló esemény vagy események kombinációja, amelyek az adott helyen károsan hatnak ki a fürdővíz minőségére;
+h)[^4] rendkívüli helyzet: olyan, átlagosan négyévenként egynél többször nem várható esemény vagy események kombinációja, amelyek az adott helyen károsan hatnak ki a fürdővíz minőségére;
 
 i) fürdővízprofil: a fürdővíz olyan jellemzése, amely a fürdővízzel kapcsolatos egészségkárosító hatást előidézhető szennyezési forrásokra és szennyezési okokra, valamint ezek értékelésére terjed ki;
 
@@ -35,3 +35,6 @@ m) makrofiton: magasabbrendű vízinövények;
 n) fitoplankton: vízben lebegő alacsonyrendű növényi szervezetek összessége.
 
 [^1]: A 2. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 213. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § e) pont ea) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 2. § e) pont eb) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^4]: A 2. § h) pontja a 148/2011. (VIII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
