@@ -28,7 +28,7 @@ e) – a természetes vizek minőségének védelme érdekében a vizek állapot
 
 f) a vízi út 50 méteres körzetében és a kikötő, átkelőhely, hajózási létesítmény környezetében található kijelölendő fürdőhely esetén – a biztonságos hajózás feltételei érvényesíthetősége megállapításának kérdésében –, első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi Vasúti és Hajózási Hivatalát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját szakhatóságként jelöli ki. A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
 
-(3) A Kormány a fürdővízprofil megállapítására irányuló eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+(3)[^24] A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
 (4) A Kormány a gyógyhellyé nyilvánítással kapcsolatos eljárásban,
 
@@ -68,6 +68,7 @@ d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
 ## első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-(9)[^24] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+(9)[^25] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-[^24]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^24]: A 23. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^25]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
