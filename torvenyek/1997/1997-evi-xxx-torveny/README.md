@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-30-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-30-00-00.21 |
 | 2010-03-01 | 2009. évi CL. törvény | 1997-30-00-00.22 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 1997-30-00-00.23 |
+| 2011-08-12 | 2011. évi LXXV. törvény | 1997-30-00-00.24 |
