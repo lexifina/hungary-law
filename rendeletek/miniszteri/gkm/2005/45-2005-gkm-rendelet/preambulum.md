@@ -1,1 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 48. §-a (3) bekezdésének f) pontjában, valamint a 29/A. §-ának (3) bekezdésében kapott felhatalmazás alapján – a belügyminiszterrel és a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

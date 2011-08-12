@@ -1,1 +1,0 @@
-## használhatja fel.
