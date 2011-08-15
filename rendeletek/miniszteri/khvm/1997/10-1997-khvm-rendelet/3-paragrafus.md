@@ -120,5 +120,8 @@ meghatározása.
 
 (10) A védekezési szervezetek személyi beosztásaiban bekövetkezett változásokat folyamatosan át kell vezetni.
 
+(11)[^3] A védekezési tervek elkészítésére, továbbá módosítására kizárólag a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületen szakértői jogosultsággal rendelkező személy vehető igénybe.
+
 [^1]: A 3. § (7) bekezdésének bevezető mondata az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének a) pontja alapján a rendelkezést hatósági ügyekben a már megindult eljárásokra is alkalmazni kell.
 [^2]: Az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (4) bekezdése alapján ahol e rendelet VIZIG-et említ azon a KÖVIZIG-et kell érteni.
+[^3]: A 3. § (11) bekezdését a 80/2011. (VIII. 3.) VM rendelet 2. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 a) a védelmi szakaszra beosztottak a szakasz-védelemvezető,
 
-b)[^5] a szakasz-védelemvezető és helyettese az illetékes KÖVIZIG vezetőjének (a továbbiakban: vízügyi igazgató),
+b)[^6] a szakasz-védelemvezető és helyettese az illetékes KÖVIZIG vezetőjének (a továbbiakban: vízügyi igazgató),
 
 c) a KÖVIZIG működési területét III. fokú és azt meghaladó készültség esetén a vízügyi igazgató és helyettese az R. 3. § (3) bekezdés szerinti Országos Műszaki Irányító Törzs (a továbbiakban: Törzs) vezetőjének
 
@@ -40,7 +40,7 @@ igényelheti.
 
 (7) A KÖVIZIG-ek védekezési készletének legalább 80%-át a védelmi szakaszokra kell elosztani, és azokat a védelmi szakasz raktáraiban, a fennmaradó részt központi raktárban kell tárolni.
 
-(8)[^6] A védekezési készlet országos tartalékát a kijelölt KÖVIZIG tárolja és karbantartja.
+(8)[^7] A védekezési készlet országos tartalékát a kijelölt KÖVIZIG tárolja és karbantartja.
 
-[^5]: A 7. § (1) bekezdésének b) pontja az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének b) pontja alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^6]: A 7. § (8) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés e) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § (1) bekezdésének b) pontja az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének b) pontja alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^7]: A 7. § (8) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés e) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
