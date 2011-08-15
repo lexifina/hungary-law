@@ -1,5 +1,3 @@
-## 2. § A vízügyi hatóság az 1. mellékletben meghatározott földrészletek tározóba történő sorolásáról a VTT tv. 4. §-ában meghatározott beruházó (a továbbiakban: beruházó) kérelmére tározónként egy határozattal dönt. Ha a beruházó a kérelemhez, a tározó területével érintett földrészletek egy hónapnál nem régebbi tulajdoni lapjának hiteles másolatát nem csatolja, a vízügyi hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlannyilvántartást vezető szervet. A kérelmet a beruházó e rendelet hatálybalépését követő 90 napon belül köteles benyújtani.
+## 2. §[^1]
 
-3. § (1) A VTT tv. 8. § (1) bekezdése szerinti egyszeri térítés megfizetése érdekében a beruházó intézkedik a vízügyi hatóság e tárgyban meghozott határozatának jogerőre emelkedését követő 60 napon belül a határozatban szereplő egyszeri térítésnek egy összegben, a jogosult nevére és címére vagy az általa megnevezett hitelintézet számlaszámára történő kifizetéséről.
-
-(2) Ha a jogosult személye bizonytalan, lakóhelye vagy székhelye ismeretlen, az egyszeri térítés teljesítése tekintetében a Polgári Törvénykönyv bírósági letétbe helyezésre vonatkozó rendelkezései az irányadók.
+[^1]: A 2. §-t a 80/2011. (VIII. 3.) VM rendelet 12. § c) pontja hatályon kívül helyezte.
