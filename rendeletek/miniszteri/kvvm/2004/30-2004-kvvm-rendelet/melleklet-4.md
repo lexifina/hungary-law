@@ -1,4 +1,4 @@
-4. melléklet a 30/2004. (XII. 30.) KvVM rendelethez[^61]
+4. melléklet a 30/2004. (XII. 30.) KvVM rendelethez[^62]
 
 Jelentős és tartósan emelkedő szennyezettségi tendenciák azonosítása és megfordítási pontjának meghatározása
 
@@ -28,4 +28,4 @@ B) Megfordítási pont meghatározásának szempontjai
 
 5. A romló tendencia megfordulását monitoring eredményekkel bizonyítani kell.
 
-[^61]: A 4. számú mellékletet a 33/2008. (XII. 31.) KvVM rendelet 14. § (2) bekezdése iktatta be.
+[^62]: A 4. számú mellékletet a 33/2008. (XII. 31.) KvVM rendelet 14. § (2) bekezdése iktatta be.

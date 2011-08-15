@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-30-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-03 | 2004-30-20-0N.4 | 30/2004. (XII. 30.) KvVM rendelet |
+| 2011-08-15 | 2004-30-20-0N.5 | 80/2011. (VIII. 3.) VM rendelet |

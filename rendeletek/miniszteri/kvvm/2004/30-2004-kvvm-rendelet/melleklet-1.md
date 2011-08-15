@@ -92,12 +92,12 @@ de) a víztest utánpótlódási területeinek területhasználatai, tekintettel
 
 df) a da)–de) pontok szerinti tevékenységeknek a felszín alatti víz mennyiségi és minőségi állapotára gyakorolt hatása;
 
-e)[^50] a pontszerű szennyezőforrásokból és szennyezett területekről elszivárgó szennyezőanyagok által érintett felszín alatti térrészre (szennyeződési csóva) vonatkozó adatok;
+e)[^51] a pontszerű szennyezőforrásokból és szennyezett területekről elszivárgó szennyezőanyagok által érintett felszín alatti térrészre (szennyeződési csóva) vonatkozó adatok;
 
-f)[^51] a hasznosítható felszín alatti vízkészlet és a vízkivételek területi eloszlása, viszonya, megkülönböztetve az engedélyezett közvetlen- és a becsült közvetett vízkivételeket és a felszín alatti vízdúsítást.
+f)[^52] a hasznosítható felszín alatti vízkészlet és a vízkivételek területi eloszlása, viszonya, megkülönböztetve az engedélyezett közvetlen- és a becsült közvetett vízkivételeket és a felszín alatti vízdúsítást.
 
-3.[^52] Az első, illetve a további jellemzés során meg kell határozni a víztest vagy víztest csoport koncepcionális modelljét, ami leírja mindazokat a természetes tényezőket és emberi hatásokat, mindezek folyamatait és összefüggéseit, amelyek hatással vannak a víztest, illetve víztest csoport állapotának értékelésére.
+3.[^53] Az első, illetve a további jellemzés során meg kell határozni a víztest vagy víztest csoport koncepcionális modelljét, ami leírja mindazokat a természetes tényezőket és emberi hatásokat, mindezek folyamatait és összefüggéseit, amelyek hatással vannak a víztest, illetve víztest csoport állapotának értékelésére.
 
-[^50]: Az 1. számú melléklet 2. pont új e) pontját a 33/2008. (XII. 31.) KvVM rendelet 12. § (1) bekezdése iktatta be, egyidejűleg az eredeti e) pont megjelölését f) pontra változtatta.
-[^51]: Az 1. számú melléklet 2. pont eredeti e) pontjának megjelölését f) pontra változtatta a 33/2008. (XII. 31.) KvVM rendelet 12. § (1) bekezdése.
-[^52]: Az 1. számú melléklet 3. pontját a 33/2008. (XII. 31.) KvVM rendelet 12. § (2) bekezdése iktatta be.
+[^51]: Az 1. számú melléklet 2. pont új e) pontját a 33/2008. (XII. 31.) KvVM rendelet 12. § (1) bekezdése iktatta be, egyidejűleg az eredeti e) pont megjelölését f) pontra változtatta.
+[^52]: Az 1. számú melléklet 2. pont eredeti e) pontjának megjelölését f) pontra változtatta a 33/2008. (XII. 31.) KvVM rendelet 12. § (1) bekezdése.
+[^53]: Az 1. számú melléklet 3. pontját a 33/2008. (XII. 31.) KvVM rendelet 12. § (2) bekezdése iktatta be.
