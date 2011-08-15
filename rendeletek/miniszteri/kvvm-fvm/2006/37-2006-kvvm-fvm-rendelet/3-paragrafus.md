@@ -1,4 +1,4 @@
-## 2. § A földrészletek tározókba történő sorolására, az egyszeri térítésre, az igénybevételre és a kártalanítára vonatkozóan a Vásárhelyi-terv I. ütemében megvalósuló Cigánd-Tiszakarádi és Tiszaroffi árvízi tározók területével érintett földrészletek jegyzékéről, valamint az egyszeri térítés, az igénybevétel és a kártalanítás részletes szabályairól szóló 4/2005. (II. 22.) KvVM–FVM együttes rendelet (a továbbiakban: R.) rendelkezéseit kell alkalmazni azzal, hogy az R. 2 § (1) bekezdése szerinti kérelmet a beruházó e rendelet hatálybalépését követő 90 napon belül köteles benyújtani.
+## 2. §[^1]
 
 3. § E rendelet a kihirdetését követő 8. napon lép hatályba.
 
@@ -41,3 +41,5 @@ Kunhegyes
 Tiszagyenda
 
 016, 017, 018/2, 018/3, 018/4, 018/5, 018/7, 018/8, 018/9, 018/10, 019/1, 019/2, 022/2, 022/3, 022/4, 022/6, 022/7, 023, 027, 028, 031, 033/1, 033/2, 034, 035, 036/1, 036/2, 038, 042, 045, 048, 049, 050, 052, 055, 056, 057, 058, 059, 060, 062, 063, 066, 067, 068/1, 068/2, 069, 070, 076, 077, 078, 079, 080, 081, 082/4, 082/9, 082/10, 082/11, 082/12, 082/13, 082/32, 082/33, 089, 090, 091, 092, 093, 0108, 0116, 0117/1, 0117/2, 0118, 0119, 0120, 0121/1, 0121/2, 0122, 0123/5, 0123/6, 0123/7, 0123/8.
+
+[^1]: A 2. §-t a 80/2011. (VIII. 3.) VM rendelet 12. § b) pontja hatályon kívül helyezte.
