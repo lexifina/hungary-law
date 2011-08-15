@@ -5,3 +5,7 @@
 (2) A meder geometriai jellemzőit a tervező a hidrológiai-hidraulikai számítások, a talajmechanikai szakvélemény alapján a kezelő által előírt mederfenntartási, üzemeltetési szempontoknak megfelelően határozza meg.
 
 (3) Rendezett vízfolyás rézsűit, védtöltéseit és egyéb földműveit biológiai védelemmel vagy burkolattal kell védeni.
+
+(4)[^7] Vízfolyások kiépítettségének meghatározásánál tavak, tározók árvízcsúcs-csökkentő hatását csak akkor szabad figyelembevenni, ha azok folyamatos működtetése biztosított, vagy megszüntetésük esetén a pótló beavatkozások a vízjogi engedélyben meghatározásra kerültek.
+
+[^7]: Az 55. § (4) bekezdését a 80/2011. (VIII. 3.) VM rendelet 9. §-a iktatta be.

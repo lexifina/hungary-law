@@ -6,4 +6,6 @@
 
 (4) A fenékleürítőn és az üzemi vízkivételi műtárgyon a felvízi oldalon két egyenértékű elzárást kell létesíteni.
 
-(5) A fenékleürítő keresztmetszetét a tározó alatti meder vízszállító képessége, a tározótérfogat és a felvízi földrézsű állékonyságának függvényében meghatározott leürítési idő alapján kell meghatározni.
+(5)[^8]
+
+[^8]: A 84. § (5) bekezdését a 80/2011. (VIII. 3.) VM rendelet 11. §-a hatályon kívül helyezte.
