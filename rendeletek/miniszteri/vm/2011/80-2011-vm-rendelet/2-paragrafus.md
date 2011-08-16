@@ -1,3 +1,0 @@
-## 1. § A vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az (1) bekezdésben meghatározottakon kívül a kérelemhez mellékelni kell a tervezett védőidommal, védőterülettel érintett ingatlanok tulajdoni lapjának másolatát, a helyszínrajzot, valamint az érintett ingatlanokat ábrázoló ingatlan-nyilvántartási térkép másolatát. Ha az ügyfél a kérelemhez a tárgyi adatokat nem mellékeli, akkor a hatóság a kérelem elbírálása érdekében, adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető ingatlanügyi hatósághoz.”
