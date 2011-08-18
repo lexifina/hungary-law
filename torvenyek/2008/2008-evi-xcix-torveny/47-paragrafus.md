@@ -6,18 +6,24 @@ a) jelölje ki az előadó-művészeti államigazgatási szervet,
 
 b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
+(2) Felhatalmazást kap a miniszter, hogy
 
-a) a nyilvántartásba vétellel, besorolással és az igazolás kiállításával, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárás részletes szabályait,
+a) a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra vonatkozó szabályokat,
 
-b) az I. és a II. kategóriába sorolandó zenekarok és énekkarok tevékenysége ellátásához szükséges tárgyi feltételeket, a fizető nézőszám alsó határát,
+b) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek a 11. § és a 12. § alapján megállapított körét,
 
-c) a szakmai próbajátéknak, illetve próbaéneklésnek a részletes szabályait,
+c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben kiadott,
 
-d) az e törvény szerinti beszámoló formai és tartalmi követelményeit, a benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
+d) a fizető nézőszám alsó határát,
 
-e) az államháztartásért felelős miniszterrel egyetértésben, az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban, a 15. § (5) bekezdés szerint elszámolható költségek körét, valamint
+e) a szakmai próbajátékra, illetve próbaéneklésre vonatkozó részletes szabályokat,
 
-f) az adópolitikáért felelős miniszterrel egyetértésben a 6. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
+f) a pályázati eljáráshoz kapcsolódó minőségbiztosítási szempontrendszert,
 
-(3) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben évente, a költségvetési törvény kihirdetésétől számított 60 napon belül rendeletben határozza meg az I. kategóriába sorolt zenekarokat és énekkarokat megillető központi költségvetési támogatás elosztásának és folyósításának részletes eljárási szabályait.
+g) a 24. § (3) bekezdése szerinti forrásból nyújtott támogatás – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – elszámolható költségeinek körét, a beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben kiadott,
+
+h) a kiemelt előadó-művészeti szervezetnek nem minősülő előadó-művészeti szervezet számára a 24. § (4) bekezdés c) pontja szerinti forrásból nyújtott támogatás elosztásának, igénylésének, döntési rendszerének, folyósításának és felhasználására vonatkozó ellenőrzésének szabályait az államháztartásért felelős miniszterrel egyetértésben kiadott
+
+rendeletben határozza meg.
+
+(3)

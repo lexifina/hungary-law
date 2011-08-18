@@ -1,13 +1,23 @@
 ## Átmeneti rendelkezések
 
-46. § (1) Az e törvény IV. fejezete alapján nyújtható központi költségvetési támogatások első alkalommal 2010-ben vehetők igénybe.
+46. § (1) E törvénynek az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvénnyel (a továbbiakban: módosító törvény) megállapított
 
-(2) E törvény hatálybalépésétől számított kilencven napon belül kezdeményezhető a törvény hatálybalépésekor már létező előadó-művészeti szervezetek nyilvántartásba vétele és besorolása.
+a) 4. § e)–f) pontját 2012. március 31-ét követően,
 
-(3) A hatálybalépés évében az évi előadásszámként a besorolás évét megelőző két év átlagát kell venni.
+b) 5/B. § (1) bekezdésének d) pontját és (2) bekezdését 2012. május 1-jét követően,
 
-(4) Az előadó-művészeti szervezetek besorolásakor a 10. § (6) bekezdés b) pontjában és a 11. § (2) bekezdés e) pontjában foglalt előírásokat csak a törvény hatálybalépését követő új vezetői megbízások esetében kell figyelembe venni.
+c) 8. § (2) bekezdését a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépésnek a napján és az azt követően indult, illetve megismételt nyilvántartásba vételi eljárásokra,
 
-(5) A munkáltató vezetője munkakörének betöltésére vonatkozó szabályokat a törvény hatálybalépését követő új vezetői megbízások esetében kell alkalmazni.
+d) 16–20. §-át és 24. §-át a 2013. január 1-jétől igénybe vehető támogatások tekintetében,
 
-(6) A 28. § (1) bekezdésben meghatározott ötéves időtartam számítása az első határozott idejű jogviszonytól kezdődik. Ha az ötéves időtartam a törvény hatálybalépéséig már eltelt, akkor a határozott idejű jogviszonynak az Mt. 79. § (6) bekezdése szerinti határozatlan idejű jogviszonnyá történő átalakulása 2010. január 1-jén következik be.
+e) 47. § (2) bekezdésének b) és f) pontját 2012. március 31-ét követően
+
+kell alkalmazni. A 2012. december 31-éig igénybe vett támogatással az e törvénynek a támogatás igénybevétele napján hatályos szabályai szerint kell elszámolni.
+
+(2) 2018. január 1-jéig olyan színház, balett- és táncegyüttes is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés b) pontjában vagy a 11. § (3) bekezdés b) pontjában meghatározott feltételek nem állnak fenn.
+
+(3) A 20. § (2) bekezdését a kiemelt előadó-művészeti szervezetnek minősített szimfonikus zenekarok esetében 2014. január 1-jétől kell alkalmazni.
+
+(4) E törvénynek a módosító törvénnyel megállapított 39. § (5) és (6) bekezdését a módosító törvény hatálybalépésének napján és az azt követően kiírt pályázatokra kell alkalmazni.
+
+(5) Az Előadó-művészeti Tanács tagjainak jogviszonya a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15. napon megszűnik. Az Előadó-művészeti Tanács a módosító törvény hatálybalépésekor folyamatban lévő ügyeiben az érintett bizottság jár el. A miniszter a bizottság tagjait a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15 napon belül kéri fel.

@@ -6,7 +6,7 @@
 
 (4) A beszámoló központi költségvetési támogatásra vonatkozó, valamint külön jogszabályban meghatározott adatait az előadó-művészeti államigazgatási szerv a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi.
 
-(5) Az előadó-művészeti államigazgatási szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az EMT tagjainak.
+(5) Az előadó-művészeti államigazgatási szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az érintett bizottság tagjainak.
 
 (6) A beszámoló formai és tartalmi követelményeit, a benyújtásával és elfogadásával kapcsolatos részletes szabályokat a miniszter rendeletben határozza meg.
 

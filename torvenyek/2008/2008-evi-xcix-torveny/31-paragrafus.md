@@ -6,17 +6,17 @@
 
 a) színművész és bábszínész esetében legalább 80 előadás,
 
-b) magántáncos esetében legalább 50 előadás,
+b) magántáncos esetében legalább 40 előadás,
 
-c) magánénekes esetében legalább 50 előadás,
+c) magánénekes esetében legalább 40 előadás,
 
 d) artistaművész esetében legalább 100 előadás,
 
-e) segédszínész esetében legalább 160 előadás,
+e) segédszínész esetében legalább 120 előadás,
 
 f) csoportos szereplő esetében évadonként 160 előadás.
 
-(4) A felek a munkaszerződésben a (3) bekezdésben foglaltaknál 25%-kal magasabb vagy alacsonyabb évadonkénti előadásszámban is megállapodhatnak.
+(4) A felek a munkaszerződésben a (3) bekezdés a)–c) pontjában foglaltaknál 40%-kal, a d)–f) pontjában foglaltaknál 25%-kal magasabb vagy alacsonyabb évadonkénti előadásszámban is megállapodhatnak.
 
 (5) A munkahelyen elrendelt munkavégzés idejének számítása szempontjából előadás esetében az előadás tényleges időtartamát kell figyelembe venni, beleértve az előadás és az azt megszakító szünetek, valamint az előadáshoz kapcsolódó előkészítő és befejező feladatok ellátásához szükséges időtartam összességét. A közönség előtt zajló főpróbát egy előadásnak kell számítani.
 

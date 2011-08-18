@@ -1,51 +1,27 @@
-5. § (1) Az Előadó-művészeti Tanács (a továbbiakban: EMT) a miniszter javaslattevő, véleményező és döntés-előkészítő feladatot ellátó testülete.
+5. § (1) A Nemzeti Előadó-művészeti Érdekegyeztető Tanács (a továbbiakban: NEÉT) az e törvény által szabályozott jogviszonyokat érintő szakmai, szakmapolitikai és támogatási kérdések érdekegyeztetési fóruma.
 
-(2) Az EMT feladata különösen:
+(2) A NEÉT 24 tagú. A tagok megbízatásának időtartama 4 év, amely legfeljebb egyszer újabb 4 évre meghosszabbítható.
 
-a) a miniszter felkérésére vagy saját kezdeményezésére javaslatot tesz az előadó-művészeti tevékenységet érintő szabályozási kérdésekben,
+(3) A NEÉT tagjai:
 
-b) figyelemmel kíséri az előadó-művészeti terület helyzetét és lehetőségeit, különös tekintettel az előadó-művészeti szervezetek támogatási rendszerére, és ha szükséges, javaslatot tesz a felülvizsgálatra,
+a) a nyilvántartásba vett előadó-művészeti szervezetek által delegált 11 fő, amelyből 4 főt a színházművészet, 2 főt a báb- és cirkuszművészet, 1 főt a független színházművészet, 2 főt a táncművészet, 2 főt a zeneművészet területéről kell jelölni,
 
-c) az előző költségvetési év teljesítési adatainak ismeretében véleményt nyilvánít a központi költségvetési támogatás keretösszege felosztásának arányait illetően,
+b) a nyilvántartásba vett előadó-művészeti szakmai érdek-képviseleti szervezetek által delegált 3 fő,
 
-d) az előadó-művészeti szervezet munkáltató vezetője munkakörének betöltésére kiírt pályázati eljárás során – az érintett szakmai kollégium javaslata alapján – tagokat delegál a szakmai bizottságba,
+c) a megyei önkormányzatok által delegált 1 fő, a megyei jogú városi önkormányzatok által delegált 2 fő, a fővárosi önkormányzat által delegált 1 fő, az országos kisebbségi önkormányzatok által delegált 1 fő,
 
-e) a miniszter felkérésére előzetesen véleményt nyilvánít a 4. § d) pontja szerinti szerződés megkötéséről,
+d) az előadó-művészeti felsőoktatási intézmények által delegált 3 fő, valamint
 
-f) szakmai vélemény kialakításával segíti a minisztert a 4. § e) pontjában foglaltakra vonatkozó álláspontjának kialakítása előtt,
+e) az országosan reprezentatív művészeti szakszervezetek által delegált 2 fő.
 
-g) kezdeményezheti a miniszternél meghívásos pályázat kiírását az adott évadban kiemelkedő művészeti teljesítményt nyújtó előadó-művészeti szervezetek támogatására,
+(4) A NEÉT ülésein állandó meghívottként vesz részt a miniszter, továbbá tanácskozási joggal részt vehetnek a határon túli magyar előadó-művészeti szervezetek képviselői és az 5/A. § szerinti bizottságok 1-1 képviselője.
 
-h) figyelemmel kíséri és értékeli javaslatainak megvalósulását, valamint
+(5) Ha a (3) bekezdés szerint több szervezet együttesen jogosult delegálásra, azt a személyt kell delegáltnak tekinteni, akit az együttes delegálásra jogosult szervezetek többsége jelölt (többségi jelölés). Ha nincs ilyen jelölt, vagy egyenlő számú jelölés esetén a delegált személyét sorsolással kell meghatározni.
 
-i) tevékenységéről évente beszámolót készít.
+(6) A NEÉT ülését a miniszter szükség szerint, de évente legalább egy alkalommal hívja össze. A NEÉT ülését a miniszter a kezdeményezéstől számított 15 napon belüli időpontra köteles összehívni, ha legalább nyolc tag az ok és a napirend közlésével azt írásban kezdeményezi. A NEÉT működtetése során biztosítani kell az e törvényben meghatározott jogosítványok gyakorlásának lehetőségét.
 
-(3) Az EMT 22 tagú. A tagok megbízatásának időtartama három év, amelynél rövidebb időszakot a küldő szervezetek határozhatnak meg.
+(7) A NEÉT üléseinek jegyzőkönyvei, továbbá a NEÉT állásfoglalásai, javaslatai nyilvánosak.
 
-(4) Az EMT tagjai:
+(8) A NEÉT tagjai e tevékenységükért díjazásban nem részesülnek.
 
-a) az érintett előadó-művészeti ágak jelentős számú tagsággal rendelkező művészeti szakmai szervezetei és a nyilvántartásba vett előadó-művészeti szervezetek javaslatai alapján a miniszter által felkért elismert művészek és művészeti szakemberek olyan módon, hogy a független előadó-művészeti szervezetek képviselete is biztosítva legyen (színházművészet 5, táncművészet 3, zeneművészet 3) összesen 11 fő,
-
-b) az előadó-művészeti felsőoktatási intézmények képviseletében 3 fő,
-
-c) az országosan reprezentatív művészeti szakszervezetek által delegált 1-1, összesen 2 fő,
-
-d) az előadó-művészeti szervezetet fenntartók országos érdekképviseleti szervezetei által delegált összesen 2 fő, a fővárosi önkormányzat által delegált 1 fő, az országos kisebbségi önkormányzatok által delegált 1 fő,
-
-e) az államháztartásért felelős miniszter képviseletében 1 fő,
-
-f) a miniszter képviseletében 1 fő.
-
-(5) Az EMT ülésein tanácskozási joggal részt vehetnek a határon túli magyar előadó-művészeti szervezetek delegáltjai.
-
-(6) Az EMT három állandó szakmai kollégiumot hoz létre a színház-, a tánc-, illetve a zeneművészet területét érintő, különösen a (2) bekezdésben felsorolt kérdések vizsgálatára, állásfoglalások és javaslatok kialakítására.
-
-(7) Az EMT – a miniszter jóváhagyásával – maga állapítja meg működésének rendjét (ügyrendjét).
-
-(8) Az EMT állásfoglalásai, javaslatai nyilvánosak.
-
-(9) Az EMT tagjai díjazásban nem részesülnek, a működéshez szükséges forrást az előadó-művészeti államigazgatási szerv költségvetésében kell biztosítani.
-
-3. CÍM
-
-Az előadó-művészeti államigazgatási szerv
+(9) A NEÉT a miniszter jóváhagyásával maga állapítja meg ügyrendjét. A miniszter a jóváhagyást indokolással, jogszabálysértésre hivatkozva tagadhatja meg.

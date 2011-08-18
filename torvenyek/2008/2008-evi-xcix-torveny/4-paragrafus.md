@@ -8,10 +8,12 @@ c) a létesítő okirat alapján gyakorolja a központi költségvetési szervk�
 
 d) legfeljebb öt évre szóló, többször megújítható közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, állami vagy önkormányzati fenntartóval nem rendelkező előadó-művészeti szervezettel,
 
-e) a döntéshozatalra jogosultat tájékoztatja szakmai véleményéről az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I. kategóriába sorolt zenekarok és énekkarok alaptevékenységét érintő jelentős szakmai változással, átalakításával, más szervezettel történő összevonásával, jogutód nélküli megszüntetésével kapcsolatban, valamint
+e) meghatározza a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körét,
 
-f) működteti az Előadó-művészeti Tanácsot.
+f) a döntéshozatalra jogosultat tájékoztatja szakmai véleményéről a kiemelt előadó-művészeti szervezet alaptevékenységét érintő jelentős szakmai változással, átalakításával, más szervezettel történő összevonásával, jogutód nélküli megszüntetésével kapcsolatban, valamint
+
+g) működteti a Nemzeti Előadó-művészeti Érdekegyeztető Tanácsot, a Színházművészeti Bizottságot, a Zeneművészeti Bizottságot és a Táncművészeti Bizottságot.
 
 2. CÍM
 
-Az Előadó-művészeti Tanács
+A Nemzeti Előadó-művészeti Érdekegyeztető Tanács

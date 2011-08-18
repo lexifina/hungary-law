@@ -6,11 +6,11 @@
 
 (4) A szakmai munka folytonossága érdekében a pályázatot a munkáltatói jogkör gyakorlója legalább hat hónappal a határozott idejű jogviszony megszűnése előtt hirdeti meg. A pályázat benyújtásának határideje a közzétételtől számított harminc nap.
 
-(5) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott tartalmi (az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival, a foglalkoztatással stb. kapcsolatos) követelményeket. A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció vagy személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
+(5) A pályázati felhívásnak tartalmaznia kell a vezetői munkakör betöltésének feltételeit, a javadalmazást, a munkaviszony kezdő és befejező időpontját, a munkába lépés napját, az előadó-művészeti szervezet éves költségvetésének tervezett fő előirányzatait, valamint a fenntartó által meghatározott, így különösen az előadó-művészeti szervezet művészi arculatával, művészeti vezetésének módjával, teljesítménymutatóival, a foglalkoztatással kapcsolatos, továbbá a nemzeti és a kiemelt előadó-művészeti szervezetek esetében a 17. § (3) és (4) bekezdésében foglaltakkal összefüggő további tartalmi követelményeket. A pályázati kiíráshoz kapcsolódóan pályázati dokumentáció vagy személyes konzultáció lehetőségének biztosításával megfelelő tájékoztatást kell nyújtani a pályázó számára a szervezetről, beleértve annak aktuális gazdasági helyzetét is.
 
-(6) A munkáltatói jogkör gyakorlója a pályázati felhívás elkészítésében való közreműködésre és a pályázatok véleményezésére szakmai bizottságot kér fel, melynek tagjai:
+(6) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel, melynek tagjai:
 
-a) az Előadó-művészeti Tanács érintett szakmai kollégiuma négy,
+a) az érintett bizottság négy,
 
 b) a miniszter egy,
 
@@ -18,13 +18,15 @@ c) az előadó-művészeti szervezet közalkalmazotti tanácsának egy,
 
 d) a reprezentatív szakszervezet egy, továbbá
 
-e) a munkáltatói jogkör gyakorlójának két képviselője.
+e) a munkáltatói jogkör gyakorlójának két
+
+képviselője.
 
 (7) A szakmai bizottság a pályázatokat értékeli és támogatott pályázatnak azt minősíti, amely a pályázatok véleményezésén jelenlevő bizottsági tagok többségének támogató szavazatát megkapta. A szakmai bizottság több pályázatot is minősíthet támogatottnak. A szakmai bizottság üléséről, és a szavazás eredményéről írásbeli jegyzőkönyv készül, amelynek a pályázatok értékelésére és a szavazás eredményére vonatkozó részét ismertetni kell a döntéshozóval, és a helyben szokásos módon közzé kell tenni. A szakmai bizottság képviselői ismertetik javaslatukat a fenntartónak a pályázatokat elbíráló szakbizottsági ülésén is. A szakmai bizottság tagjai közreműködésükért díjazásban nem részesülnek, de igazolt költségeik megtérítésére jogosultak.
 
 (8) A pályázatokat a benyújtási határidőt követő harminc napon belül kell elbírálni.
 
-(9) A munkakör betöltéséről – a szakmai bizottság véleményének mérlegelése alapján – a munkáltatói jogkör gyakorlója tizenöt napon belül dönt. A nemzeti és etnikai kisebbségi előadó-művészeti szervezet esetében a munkáltató – ha nem kisebbségi önkormányzat – az érintett kisebbségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni.
+(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzeti és etnikai kisebbségi előadó-művészeti szervezet esetében a munkáltató – ha nem kisebbségi önkormányzat – az érintett kisebbségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A nyilvántartásba vett előadó-művészeti szervezet a sikeres pályázat egy példányát a döntést követő 15 napon belül az előadó-művészeti államigazgatási szerv részére megküldi.
 
 (10) Ha a pályázat eredménytelen, úgy legkésőbb az eredménytelenségről szóló döntéstől számított harminc napon belül újra ki kell írni a pályázatot.
 
