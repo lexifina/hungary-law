@@ -1,0 +1,257 @@
+# A Kormány 162/2011. (VIII. 18.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 96. szám, 2011. augusztus 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8167998c0dbf689716d76450e153d6e49756d5c8/dokumentumok/0f6b2fbfefb77e46b08900968dcca2a444d9d1ce/letoltes)
+
+---
+
+A Kormány 162/2011. (VIII. 18.) Korm. rendelete
+a sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet
+és a rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló
+16/1999. (II. 5.) Korm. rendelet módosításáról
+A Kormány
+a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bc), bj) és bk) alpontjában és
+a 14. § tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés f) pontjában
+kapott felhatalmazás alapján
+az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+1. § A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdése
+helyébe a következő rendelkezés lép:
+„(2) A rendeletet nem kell alkalmazni a kézilabda mérkőzések kivételével az (1) bekezdés a) és b) pontjában
+meghatározott sportrendezvények esetében a női bajnokság mérkőzéseire, továbbá az (1) bekezdés szerinti
+sportágak esetében – a felnőtt labdarúgó és felnőtt kézilabda válogatott utáni első utánpótlás korosztály
+válogatottjainak mérkőzései kivételével – a korosztályos mérkőzésekre, valamint a tartalékcsapatok mérkőzéseire.”
+2. § Az R. 2. §-a helyébe a következő rendelkezés lép:
+„2. § (1) A Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság)
+javaslata alapján az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – a közigazgatási hatósági eljárás
+
+általános szabályai szerint – dönt az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági
+kockázat szerinti minősítéséről.
+(2) A Minősítő Bizottságba
+a) az Stv. 68/A. § (1) bekezdésében meghatározott szervek – az ORFK kivételével – egy-egy tagot;
+b) az 1. § (1) bekezdés a) pontjában meghatározott sportágak országos sportági szakszövetségei egy-egy tagot;
+c) az ORFK hat tagot
+delegál.
+(3) A Minősítő Bizottság elnökét az országos rendőrfőkapitány jelöli ki.
+(4) A Minősítő Bizottság javaslatát a jelenlevő tagjai szavazatának egyszerű többségével hozza, szavazategyenlőség
+esetén az elnök szavazata dönt.
+(5) A Minősítő Bizottság működésének részletes szabályait az általa egyszerű szótöbbséggel elfogadott – országos
+rendőrfőkapitány által jóváhagyott – ügyrend határozza meg.
+(6) A Minősítő Bizottság a sportrendezvény biztonsági kockázat szerinti minősítésére legkésőbb a mérkőzés
+megrendezése előtt 18 nappal tesz javaslatot.
+(7) Ha a mérkőzés megrendezési időpontja, vagy résztvevői a Minősítő Bizottság ülésének időpontjában még nem
+ismertek, a javaslatot legkésőbb a mérkőzés előtt 10 nappal kell megtenni.
+(8) A sportrendezvény biztonsági kockázat szerinti minősítésére vonatkozó döntést legkésőbb a mérkőzés
+megrendezését megelőző 15 nappal, a (7) bekezdésben meghatározott esetben 5 nappal korábban kell meghozni.
+(9) Az ORFK a (8) bekezdés szerinti döntést közli az 1. § (1) bekezdésében meghatározott sportág országos
+szakszövetségével és a sportrendezvény szervezőjével.
+(10) Ha a mérkőzés biztonsági kockázat szerinti minősítése a mérkőzést megelőző 15 napon belül nem ismert, úgy
+a szervező az Stv. 68/A. § (3) bekezdésében foglalt felkérést azzal a kikötéssel kezdeményezi, hogy a rendőrség térítés
+ellenébenvégzett közreműködésérecsakakkorkerülsor,haamérkőzéstfokozottbiztonságikockázatúnakminősítik.”
+3. § Az R. 3. §-a helyébe a következő rendelkezés lép:
+„3. § A MinősítőBizottságotazelnök– azérintett sportágakversenyrendszereineklegkorábbielsőversenyétmegelőző
+18 nappal korábban – hívja össze. Az érintett sportágak versenynaptáraikat az ORFK részére 20 nappal
+a versenyrendszer megkezdése előtt kötelesek megküldeni. A Minősítő Bizottság az első összehívásakor
+a sportszövetségek képviselőinek előterjesztése alapján határozza meg a minősítések menetrendjét.”
+4. § Az R. a következő 4. §-sal egészül ki:
+„4. § (1) Ha a sportrendezvény biztonsági kockázatát érintően bizonyítékokkal alátámasztott új körülmény merül fel,
+az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvényt szervező vagy a Minősítő Bizottság tagja
+a sportrendezvény időpontja előtt legfeljebb 10 nappal korábban írásban kezdeményezheti a sportrendezvény
+ismételt minősítését.
+(2) Az (1) bekezdésbenmeghatározott esetben a Minősítő Bizottság elnökea kérelmet megvizsgálja,és haladéktalanul
+javaslatot tesz a sportrendezvény ismételt minősítésére.
+(3) Az (1) bekezdésbenmeghatározott esetbenaz ORFK a döntését legalábba mérkőzéstmegelőző5 nappalkorábban
+hozza meg.”
+5. § Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) A rendelet hatálya alá tartozó sportrendezvényt csak sportszervezet, szakszövetség vagy sportági szövetség
+szervezhet.
+(2) Az 1. § (1) bekezdés c) pontjában foglalt sportrendezvények rendezését megelőzően, valamint a normál biztonsági
+kockázatúnak minősített sportrendezvény esetén a szervező a sportrendezvény helye szerint illetékes
+rendőrkapitányságnál írásban kezdeményezheti a sportrendezvény térítés ellenében történő rendőri biztosítását.
+(3) Rendőri biztosítás esetén, a szolgáltatás díjára – a (8) bekezdésben foglaltak kivételével – a felek megállapodása
+az irányadó, amely azonban nem lehet kevesebb a szolgáltatás önköltségénél. A szerződésnek a rendőrök
+igénybevételének időtartamát, a rendőrök feladatait tartalmaznia kell, amely nem lehet ellentétes a rendőrségre
+vonatkozó jogszabályokkal.
+(4) A rendőrség részéről a szolgáltatás teljesítésében közreműködő személy tevékenysége szolgálati,
+kormánytisztviselőivagy közalkalmazottijogviszonybanvégzett tevékenységnek minősül, intézkedési kötelezettsége
+és jogosultsága a jogszabályban meghatározott feltételek bekövetkezése esetén terheli, illetőleg illeti meg.
+
+(5) A rendőri biztosításrakötött szerződésbenfoglalt díjazásellenébena biztosításbana rendőrség hivatásosszolgálati
+állományú tagja önkéntesen, szabadideje terhére részt vehet. Ebben az esetben a munkavégzés nem minősül
+túlszolgálatnak, illetőleg túlmunkának.
+(6) Ha a szervező a (2) bekezdése szerinti biztosítás ellenértékét vagy a 9. § (3) bekezdésében meghatározott
+költségeket 30 napon belül nem téríti meg, azt a rendőrség a sportszövetségtől igényelheti, ha a sportrendezvény
+szervezője sportszervezet. A sportszövetség a kifizetést a sportszervezet részére adható juttatások terhére
+– az igénylést követő 30 napon belül – teljesíti.
+(7) A 15. § (4a) bekezdésében meghatározott esetben a sportrendezvényen a rendőrség által végzett biztosításért
+ellenérték nem számolható fel.
+(8) Az Stv. 68/A. § (3) bekezdése alapján a fokozott biztonsági kockázatú sportrendezvények biztosításában való
+rendőrségi közreműködés ellenértéke a rendőrség igazolt önköltségi kiadása.
+(9) A sportrendezvény rendőrségi közreműködéssel történő biztosítása esetén az általános, illetve speciális
+képzettséggel rendelkező egyes rendőrök által teljesített feladatok, valamint a szolgálati állatok igénybevételének
+1 óra időtartamra vonatkozó önköltségi díját és a gépjárművek kiállásának költségeit az ORFK évente január 15-ig
+meghatározza, amelyről tájékoztatja az (1) bekezdésben meghatározott szervezeteket. A kiállás, az igénybevétel és
+a feladat-végrehajtás költségei együttesen képezik a szolgáltatás önköltségi díját.
+(10) A rendőrség a sportrendezvény megkezdése előtt jogosult a szerződéskötés időpontjában még nem ismert új
+körülményre tekintettel a szerződésben meghatározottnál nagyobb rendőri létszám készenlétének biztosítására,
+feltéve, hogy az a sportrendezvénybiztonságoslebonyolításaérdekébenszükségesés a szerződésmódosításáranincs
+mód. Az így keletkezett igazolt többletköltségeket a szervező a rendőrség részére megtéríti.”
+6. § (1) Az R. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A szervező a sportrendezvények biztosítása érdekében köteles rendező szervet vagy rendezőt (a továbbiakban:
+rendező) megbízni, és annak személyét az országos sportági szakszövetségnek a versenyrendszer megkezdését
+megelőzően legalább 15 nappal korábban írásban bejelenteni. A megbízott rendező személyében történt változásról
+azországossportágiszakszövetségetésarendőrségetasportrendezvénytmegelőzőenlegalább3 nappaltájékoztatni
+kell. A szervező a bejelentés során megfelelő módon igazolja, hogy a megbízott rendező a sportrendezvény
+megrendezéséhez szükséges személyi- és tárgyi feltételekkel rendelkezik. Rendező hiányában a sportrendezvény
+nézők részvételével nem tartható meg.”
+(2) Az R. 6. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az Stv. 68/A. § (4a) bekezdés b) pontjában meghatározott esetben a vendég sportszervezet utazó szurkolóinak
+létszámával arányban kell állnia a sportszervezet által biztosított utazó rendezői létszámnak. A 100 főt elérő
+vendégszurkolói csoport esetén a rendezői létszámnak legalább 10 fősnek kell lennie. A 100 főt el nem érő
+vendégszurkolói létszám esetén az előbbivel arányos rendezői létszámot kell biztosítani. Minden további 100 fő
+szurkolónként további 5 fő rendezővel emelkedik a rendezői létszám.”
+7. § (1) Az R. 8. § (3) és (4) bekezdés helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdés szerinti írásbeli tájékoztatásban foglaltak változásáról a sportrendezvény szervezője legkésőbb
+a sportrendezvényt megelőző ötödik napon köteles tájékoztatást adni.
+(4) A (2) bekezdés szerinti írásbeli tájékoztatáson kívül a szervező az (1) bekezdés szerinti rendőri szervnek megküldi
+a versenynaptárt az abban meghatározott első sportrendezvény időpontját megelőző 20 nappal, és az abban foglalt
+időpontok változásáról értesítést küld 3 nappal a sportrendezvényt megelőzően. A versenynaptárban nevesített
+kiemelt biztonsági kockázatú sportrendezvény időpontját annak megrendezését megelőző 8 napon belül csak abban
+az esetben lehetséges módosítani, ha ahhoz az (1) bekezdésben meghatározott rendőri szerv előzetesen, írásban
+hozzájárult.”
+(2) Az R. 8. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az (1) és (4) bekezdésben meghatározott tájékoztatást a rendezvény helye szerinti rendőrkapitányság,
+a fővárosban a Budapesti Rendőr-főkapitányság a beérkezés napján írásban továbbítja a Minősítő Bizottság részére.”
+8. § Az R. 9. § (1) bekezdése a következő i)–o) ponttal egészül ki:
+[A sportrendezvény biztonsági tervének tartalmaznia kell:]
+„i) a rendezvény környezetében található közlekedési csomópontok vázlatrajzát;
+j) a rendezésben közreműködők elhelyezésének és alkalmazásának tervét a mérkőzés idejére, valamint a mérkőzést
+megelőző és az azt követő időtartamra vonatkozóan;
+
+k) a kiemelt biztonsági kockázatúnak minősített labdarúgó mérkőzés esetén a vendégcsapat szurkolóinak kísérését
+végrehajtó a rendezésben közreműködők elhelyezésének és alkalmazásának tervét a j) pontban foglalt időtartamra,
+valamint az utazásra vonatkozóan;
+l) a kiemelt biztonsági kockázatúnak minősített labdarúgó mérkőzésekre utazó sportszervezet vagy annak biztonsági
+felelősével folytatott egyeztetés eredményét, valamint a rendezésben közreműködők igénybevételének módját,
+a vendégrendezők felhatalmazását és feladatai ellátásának rendjét;
+m) a sportrendezvény megszakítására, felfüggesztésére és befejezetté nyilvánítására vonatkozó sportszakmai
+eljárásokat;
+n) a média-akkreditáció módját és működési területük pontos meghatározását;
+o) az Stv. 23. § (1) bekezdés d) pontja szerinti biztonsági szabályzatnak való megfelelésre vonatkozó adatokat.”
+9. § Az R. a következő 13/A. §-sal egészül ki:
+„13/A. § (1) Négyéves biztonságtechnikai fejlesztési tervet és ahhoz kapcsolódó költségtervet (a továbbiakban:
+fejlesztésiterv) kellkészíteniazonsportlétesítménytulajdonosának,amely a labdarúgássportáglegmagasabbbajnoki
+osztályában, a második legmagasabb bajnoki osztályában szervezett mérkőzések, a nemzetközi kupamérkőzések és
+a nemzeti válogatott mérkőzéseinek helyszínéül szolgál. Az üzemeltető a tulajdonossal kötött megállapodás alapján
+a fejlesztési tervet elkészítheti.
+(2) Az Stv. 63. § (3a) bekezdésében meghatározott fejlesztési tervnek tartalmaznia kell:
+a) a terv elkészítésének időpontjában a sportlétesítmény fennálló műszaki állapotának bemutatását,
+b) a különböző biztonsági minősítési szintű sportrendezvények biztonságos lebonyolítása esetén a biztonságos
+működés feltételrendszerét,
+c) a nemzetközi és hazai biztonsági előírásoknak és szabályzatoknak való megfelelés értékelését,
+d) a fejlesztések szükségességének, ütemezésének, megvalósíthatóságának és várható költségigényének tervét.
+(3) A fejlesztési tervet az (1) bekezdésben meghatározott sportlétesítmény tulajdonosa vagy üzemeltetője megküldi
+az országos sportági szakszövetségnek, amely véleményezés céljából továbbítja az Stv. 63. § (3) bekezdésében
+meghatározott szerveknek.
+(4) A kézhezvételtől számított 30 napon belül az Stv. 63. § (3) bekezdésében meghatározott szervek írásban
+nyilatkoznak a fejlesztési tervben foglaltak elfogadásával kapcsolatban.
+(5) Ha fejlesztési tervben foglaltakkal az Stv. 63. § (3) bekezdésében meghatározott szerv nem ért egyet, úgy indokolt
+véleményének megküldésével felhívja a fejlesztési terv elkészítőjét annak módosítására.”
+10. § Az R. 15. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Amennyiben a sportrendezvény kiemelt vagy fokozott biztonsági kockázatú minősítést kapott, de
+a sportrendezvényen néző nem lehet jelen, a sportrendezvény sportlétesítményen belüli biztosításában a rendőrség
+nem vesz részt.”
+11. § Az R. a következő 18/A. §-sal egészül ki:
+„18/A. § Az Stv. 23. § (1) bekezdés d) pontjában meghatározott, a sportrendezvény biztonságos lebonyolításával
+kapcsolatos előírásokat tartalmazó szabályzat – a sportági jellemzőkre figyelemmel – tartalmazza különösen:
+a) a nemzetközi szervezetek által meghatározott biztonsági szabályok végrehajtására vonatkozó előírásokat,
+b) a sportrendezvényre történő beléptetés és a távozás során, valamint a sportrendezvény ideje alatt követendő
+alapvető biztonsági előírások meghatározását,
+c) a sportlétesítményben kialakult rendkívüli eseményekkel kapcsolatos intézkedések végrehajtásának szabályait,
+d) a szervezők, rendezők és a sportrendezvények lebonyolításában egyéb közreműködők biztonsági kérdésekkel
+összefüggő képzésének, tájékoztatásának módját,
+e) a szervezők, rendezők biztonsági kérdésekkel kapcsolatos kötelezettségeit,
+f) a szurkolók elkülönítésére vonatkozó biztonsági terv elkészítésének szakmai szempontjait,
+g) a biztonsági kockázatok csökkentésére és a jogellenes cselekmények megelőzésére vonatkozó szakmai
+iránymutatásokat,
+h) a rendőrséggel és egyéb hatóságokkal, szervezetekkel való kapcsolattartásra és együttműködésre vonatkozó
+előírásokat.”
+
+12. § Az R. a következő 19/A. §-sal egészül ki:
+„19/A. § (1) Az Stv. 68. § (11) bekezdésében meghatározott közigazgatási bírság kiszabására
+a) a biztonságtechnikai ellenőrzéssel kapcsolatos tájékoztatási és egyéb kötelezettségek elmaradása;
+b) a sportrendezvény lebonyolítása során a biztonsági tervben foglaltak nem szabályszerű végrehajtása;
+c) a sportrendezvény lebonyolításával kapcsolatos bejelentési kötelezettségek elmaradása és a szükséges
+dokumentációk benyújtásának hiánya;
+d) az eltiltással kapcsolatos tájékoztatási kötelezettség elmulasztása;
+e) a személy- és vagyonbiztonság biztosítása érdekében a rendőrség által meghatározott kötelezettségek
+elmulasztása;
+f) a rendezői létszámmal és jogosultságokkal kapcsolatos hiányosságok megállapítása;
+g) a sportrendezvények biztonsági kockázat szerinti minősítésének kezdeményezésével és a kiemelt vagy fokozott
+biztonsági kockázatú sportrendezvény kapcsán a jogszabályokban előírt feladatok végrehajtásával kapcsolatos
+mulasztás
+esetén kerülhet sor.
+(2) Az (1) bekezdés szerinti bírságolással kapcsolatos
+a) első fokú eljárás lefolytatására a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság,
+b) másodfokú eljárás lefolytatására az Országos Rendőr-főkapitányság
+rendelkezik hatáskörrel.
+(3) Az Stv. 68. § (11) bekezdése alapján kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől
+számított 30 napon belül az ORFK Magyar Államkincstárnálvezetett 10023002-01451715-00000000 számú számlájára
+kell befizetni.”
+13. § Az R. 20. §-a helyébe a következő rendelkezés lép:
+„20. § (1) Ha a sportrendezvényről eltávolítandó személy visszatartásának az Stv. 71. § (3) bekezdésében
+meghatározott feltételei fennállnak, a rendező a személyazonosság igazolásának megtagadását követően
+haladéktalanul értesíti a rendőrséget, majd a személyazonosságát nem igazoló személyt tájékoztatja, hogy
+a visszatartás a személyazonosság igazolásig, illetve a rendőrség megérkezéséig, de legfeljebb három órát tarthat.
+(2) A rendező a visszatartott személy részére a visszatartás megkezdését követően haladéktalanul igazolást köteles
+átadni, amely tartalmazza:
+a) a rendőrség értesítésének pontos időpontját,
+b) az eltávolítás alapjául szolgáló cselekmény rövid leírását,
+c) annak megjelölését, hogy az eltávolítandó személy a sportlétesítmény mely részéből, szektorából került
+eltávolításra,
+d) az eltávolításban, visszatartásban és kísérésben részt vevő rendezők nevét és az Stv. 70. § (3) bekezdésében
+meghatározott azonosító számát, a szervező képviselőjének nevét és elérhetőségét,
+e) arra vonatkozó rendezői nyilatkozatot, hogy az eltávolítandó személyen testi sérülés látható-e,
+f) a visszatartás megszüntetésének időpontját.
+(3) A (2) bekezdésben meghatározott igazolást az intézkedésben részt vevő valamennyi rendező aláírja. Az igazolás
+másodpéldányát a rendező a szervező részére átadja.
+(4) A személyazonosságát nem igazoló személy a vele szemben foganatosított visszatartás ideje alatt a szervező
+képviselőjénél panaszt tehet, aki a rendőrség megérkezésig köteles azt kivizsgálni, arról jegyzőkönyvet felvenni.
+A panaszról a rendőrséget a jegyzőkönyv egy példányának átadásával tájékoztatni kell.
+(5) A (4) bekezdésben meghatározott jegyzőkönyvnek tartalmaznia kell:
+a) a sérelmesnek tartott rendezői intézkedés leírását,
+b) a szervező képviselőjének nevét, a jegyzőkönyv rögzítésének időpontját,
+c) a szervező által a panaszosnak nyújtott tájékoztatás tartalmát,
+d) a szervező által elrendelt intézkedés leírását.
+(6) A visszatartás a rendező, vagy a szervező képviselőjének rendelkezése alapján bármikor megszüntethető.
+(7) A rendező, illetve a szervező a rendőrség értesítését követő harmadik óra lejártakor köteles a visszatartott személy
+szabad távozását biztosítani.”
+
+14. § Az R. 21. §-a a következő (2) bekezdéssel egészül ki:
+„(2) E rendeletnek a sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet és a rendőrség ellenérték
+fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet módosításáról szóló
+162/2011. (VIII. 18.) Korm. rendelettel megállapított 13/A. §-ában meghatározott négyéves biztonságtechnikai
+fejlesztési tervet és ahhoz kapcsolódó költségtervet 2012. március 1-ig el kell készíteni.”
+15. § A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet 1. §-a
+a következő f) ponttal egészül ki:
+[A rendőrség – mint közhatalmi jogosítványokkal is kötelezettségekkel felruházott fegyveres rendvédelmi
+szerv – jogszabályban meghatározott feladatai kivételével – az államháztartásról szóló 1992. évi XXXVIII. törvény
+96. §-ában foglaltakra figyelemmel – kizárólag az alábbi szolgáltatások nyújtására, írásban szerződhet:]
+„f) a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételek alapján
+sportrendezvények biztosítása.”
+16. § (1) Ez a rendelet 2011. szeptember 1-jén lép hatályba.
+(2) Az R. 6. § (2) bekezdésben a „rendező szerv, rendező” szövegrész helyébe a „versenyrendszer és a sportesemény
+szervezője, valamint a rendező” szöveg, 9. § (1) bekezdésének b) pontjában a „belépőjegyek számát” szövegrész
+helyébe a „belépőjegyek szektoronkénti számát” szöveg, a 9. § (1) bekezdés e) pontjában a „tárgyak körét, valamint”
+szövegrész helyébe a „tárgyak körét, a tárgyak őrzésének helyét és az őrzés módját” szöveg, a 10. §-ában
+a „bejelentéshez a 9. §” szövegrész helyébe a „bejelentéséhez a rendezvény helyszínének leírását és vázlatrajzát,
+továbbá a sportrendezvény környezetében található közlekedési csomópontok vázlatrajzát, valamint a 9. §” szöveg,
+a 12. §-ában a „részvételének megszervezésében” szövegrész helyébe a „részvételének és elkülönítésének
+megszervezésében” szöveg, a 13. § (1) bekezdésben a „a legalább 45 nappal” szövegrész helyébe „a legalább
+30 nappal” szöveg, a 13. § (2) bekezdés f) pontjában a „meglétére.” szövegrész helyébe a „meglétére, és azok
+előírásoknakmegfelelő tartalmára.” szöveg, a 13. § (3) bekezdés a) pontjában a „táblák meglétére” szövegrész helyébe
+a „táblák és jelzések meglétére” szöveg, a 13. § (3) bekezdés h) pontjában a „folyosókon a nézők” szövegrész helyébe
+a „folyosókon, a kijáratoknál és a menekülési útvonalakon a nézők” szöveg lép.
+17. § Hatályát veszti az R. 16. §-a és a 18. § b) pontja.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V. A Kormány tagjainak rendeletei
