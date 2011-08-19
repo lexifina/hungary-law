@@ -16,9 +16,9 @@ e) Kémcső, kémcsőfogó, kémcsőállvány
 
 f) Pipetta, kétjelű, osztott
 
-g)[^76] Szeszfokoló (60–100 fok mérési tartományú)
+g)[^80] Szeszfokoló (60–100 fok mérési tartományú)
 
-h)[^77] Hőmérő (belsőskálás 0,1 c beosztású és helyiséghőmérséklet ellenőrzésére alkalmas)
+h)[^81] Hőmérő (belsőskálás 0,1 c beosztású és helyiséghőmérséklet ellenőrzésére alkalmas)
 
 i) Tárgylemez
 
@@ -32,7 +32,7 @@ m) Lepárló csésze
 
 n) Bunsen égő, vagy ennek megfelelő erősségű lángot biztosító eszköz
 
-2.[^78] Mérés eszközei – hitelesített mérlegek
+2.[^82] Mérés eszközei – hitelesített mérlegek
 
 a) méréstartomány: 0–15 kg, leolvasási pontosság: 10 g
 
@@ -56,11 +56,11 @@ e) Üveggyöngy
 
 a) Aszeptikus fülke-manipulátor vagy lamináris boksz
 
-b)[^79] Hőlégsterilizátor (eszközsterilezéshez)
+b)[^83] Hőlégsterilizátor (eszközsterilezéshez)
 
 c) Porfirizátor
 
-d)[^80] egyszerhasználatos steril gumikesztyű
+d)[^84] egyszerhasználatos steril gumikesztyű
 
 5. Oldatok, illetve folyékony gyógyszerformák készítésének eszközei
 
@@ -74,7 +74,7 @@ d) Üvegbotok
 
 e) Üvegtölcsérek, állvánnyal
 
-f)[^81] Főzőedény
+f)[^85] Főzőedény
 
 6. Kenőcsök, emulziók, szuszpenziók készítésének eszközei
 
@@ -94,7 +94,7 @@ b) Hüvelyhenger, illetve hüvelykúp kiöntő forma
 
 c) Buzsi gép
 
-d)[^82] kúprúdosztó tábla (citdivid)
+d)[^86] kúprúdosztó tábla (citdivid)
 
 8. Porok készítésének eszközei
 
@@ -106,9 +106,9 @@ c) Porosztó kártyák
 
 d) Szitasorozat
 
-e)[^83]
+e)[^87]
 
-9.[^84]
+9.[^88]
 
 10. Egyebek
 
@@ -118,12 +118,12 @@ b) Gyógyszertár bélyegző
 
 c) Annuláló bélyegző
 
-[^76]: Az 1. számú melléklet 1. pont g) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^77]: Az 1. számú melléklet 1. pont h) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^78]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^79]: Az 1. számú melléklet 4. pont b) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^80]: Az 1. számú melléklet 4. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
-[^81]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^82]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
-[^83]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^84]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^80]: Az 1. számú melléklet 1. pont g) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^81]: Az 1. számú melléklet 1. pont h) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^82]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^83]: Az 1. számú melléklet 4. pont b) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^84]: Az 1. számú melléklet 4. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
+[^85]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^86]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
+[^87]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^88]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.

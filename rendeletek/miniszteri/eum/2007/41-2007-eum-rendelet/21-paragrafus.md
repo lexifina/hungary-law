@@ -1,3 +1,3 @@
-21. §[^53]
+21. §[^55]
 
-[^53]: A 21. §-t a 31/2010. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^55]: A 21. §-t a 31/2010. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése hatályon kívül helyezte.

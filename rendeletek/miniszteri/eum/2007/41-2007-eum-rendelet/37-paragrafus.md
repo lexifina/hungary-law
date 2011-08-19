@@ -6,11 +6,12 @@
 
 (3) Az e rendelet hatálybalépését megelőző napon érvényes működési engedéllyel rendelkező intézeti és fiókgyógyszertáraknak az e rendelet szerinti feltételeknek 2007. december 1-jéig kell megfelelniük.
 
-(4) Az e rendelet 23. § (4) bekezdésében meghatározott módszertani leveleket az OGYI a honlapján e rendelet kihirdetését követő 30 napon belül közzéteszi.
+(4)[^76]
 
-(5)[^73]
+(5)[^77]
 
-(6)[^74]
+(6)[^78]
 
-[^73]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
-[^74]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^76]: A 37. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a hatályon kívül helyezte.
+[^77]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
+[^78]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
