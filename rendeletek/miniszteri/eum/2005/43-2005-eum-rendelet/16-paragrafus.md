@@ -8,8 +8,8 @@
 
 (4) Lejárt ellenőrzött szer esetében a selejtezési jegyzőkönyvet kiadási bizonylatként kell felhasználni, és a 4. számú melléklet szerinti nyilvántartó lapon a kiadás dátumánál a selejtezés időpontját kell feltüntetni.
 
-(5)[^37] A gyógyszertár az év első negyedévében a leselejtezett ellenőrzött szereket megküldi az EEKH megrendelő kíséretében a gyógyszer-nagykereskedőnek. A nyomtatványon megjegyzésként feltüntetendő a „selejt” jelzés. Egyebekben a gyógyszertár a 11. § (4) bekezdésnek megfelelően jár el.
+(5)[^47] A gyógyszertár az év első negyedévében a leselejtezett ellenőrzött szereket megküldi az EEKH megrendelő kíséretében a gyógyszer-nagykereskedőnek. Az EEKH megrendelőn megjegyzésként feltüntetendő a „selejt” jelzés. Egyebekben a gyógyszertár a 11. § (4) bekezdésnek megfelelően jár el.
 
 (6) A gyógyszer-nagykereskedő, az R. 22. § (5) bekezdés szerint a leselejtezett ellenőrzött szert a gyógyszertáraktól átveszi és gondoskodik annak ártalmatlanításáról.
 
-[^37]: A 16. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^47]: A 16. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § g) pontja szerint módosított szöveg.

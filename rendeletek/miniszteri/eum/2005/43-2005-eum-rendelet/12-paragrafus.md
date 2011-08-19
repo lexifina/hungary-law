@@ -14,6 +14,6 @@
 
 (6) A nyilvántartási lapokat minden naptári év végén le kell zárni. A bevétel és a kiadás között egyenleget kell vonni. A nyilvántartási lapon mutatkozó zárókészletet a következő naptári évben mint nyitókészletet kell a nyilvántartási lap „bevétel” részében feltüntetni.
 
-(7)[^35] A gyógyszertárban minden vényt, amelyre ellenőrzött szert adtak ki, vissza kell tartani és a visszatartott vények másolatának sorszámozott és összefűzött példányával együtt 5 évig meg kell őrizni. A vények sorszámozását minden naptári évben újra kell kezdeni.
+(7)[^45] A gyógyszertárban minden vényt, amelyre ellenőrzött szert adtak ki, vissza kell tartani és a visszatartott vények másolatának sorszámozott és összefűzött példányával együtt 5 évig meg kell őrizni. A vények sorszámozását minden naptári évben újra kell kezdeni.
 
-[^35]: A 12. § (7) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^45]: A 12. § (7) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése szerint módosított szöveg.

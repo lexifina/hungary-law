@@ -10,7 +10,7 @@
 
 (4) Ellenőrzött szerek rendelésénél az orvos a vényen
 
-a) a készítmény hatáserősségét arab számmal és betűvel, latin nyelven,
+a)[^12] a készítmény hatáserősségét arab számmal és kézírással történő rendelés esetén betűvel,
 
 b) a rendelt – adagolási egységben (például: tabletta, ampulla, tapasz) kifejezett – adagot római számmal és betűvel, latin nyelven
 
@@ -22,8 +22,13 @@ b) a rendelt – adagolási egységben (például: tabletta, ampulla, tapasz) ki
 
 (7) Az ellenőrzött szernek minősülő, forgalomba hozatalra engedélyezett gyógyszerek esetében az adagolás tekintetében a jóváhagyott alkalmazási előírás az irányadó. Az abban foglalt adagolási utasítástól eltérni – így különösen az adagolás gyakorisága, valamint az egyszeri bevitt adag mennyisége vonatkozásában – abban az esetben lehet, ha az orvos a vény mindkét példányán felkiáltójellel, aláírásával és bélyegzőjének olvasható lenyomatával külön megerősíti ezen szándékát.
 
-(8) Ha az orvos magisztrális készítmény felírásakor az ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetőleg napi adagnál nagyobb mennyiségben rendeli, az ellenőrzött szer adagolására vonatkozó adatokat a vény mindkét példányán felkiáltójellel megjelöli aláírásával és bélyegzőjének jól olvasható lenyomatával külön megerősíti.
+(8)[^13] Ha az orvos magisztrális készítmény felírásakor az ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetőleg napi adagnál nagyobb mennyiségben rendeli, az ellenőrzött szer adagolására vonatkozó adatokat a vény mindkét példányán felkiáltójellel megjelöli aláírásával és bélyegzőjének jól olvasható lenyomatával külön megerősíti.
 
-(9)[^10] Megrendelőlappal rendelhetnek ellenőrzött szert a járó- és fekvőbeteg szakellátást nyújtó egészségügyi szolgáltatók, valamint az orvosi ügyeletek.
+(9)[^14] Megrendelőlappal rendelhetnek ellenőrzött szert a járó- és fekvőbeteg szakellátást nyújtó egészségügyi szolgáltatók, valamint az orvosi ügyeletek.
 
-[^10]: A 3. § (9) bekezdése a 44/2008. (XI. 28.) EüM rendelet 3. §-ával megállapított szöveg.
+(10)[^15] A rendelt mennyiséget úgy kell meghatározni, hogy az adagolási egységre számítva megegyezzen valamelyik forgalomba hozatalra engedélyezett csomagolási egységben lévő adagok számával vagy a legkisebb csomagolási egységben lévő adagoknak egész számú többszöröse legyen.
+
+[^12]: A 3. § (4) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 24. § c) pontja szerint módosított szöveg.
+[^14]: A 3. § (9) bekezdése a 44/2008. (XI. 28.) EüM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 3. § (10) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 19. § (2) bekezdése iktatta be.

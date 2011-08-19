@@ -4,7 +4,7 @@
 
 a) egészségügyi szolgáltató: az egészségügyről szóló 1997. évi CLIV. törvény 3. § f) pontja szerinti szolgáltató;
 
-b)[^1] gyógyszertár: a közforgalmú, intézeti és fiókgyógyszertári formában működő egészségügyi szolgáltató és kiskereskedelmi tevékenységet végző egészségügyi intézmény;
+b)[^1] gyógyszertár: a közforgalmú, intézeti formában működő egészségügyi szolgáltató és kiskereskedelmi tevékenységet végző egészségügyi intézmény;
 
 c) háziorvos, házi gyermekorvos (a továbbiakban: háziorvos): az egészségügyről szóló 1972. évi II. törvény végrehajtásáról szóló 16/1972. (IV. 29.) MT rendelet 13/A. §-a szerinti az az orvos, aki kizárólag jogosult a 6. § (1) bekezdése szerinti ellenőrzött szert rendelni. Amennyiben a beteg nem rendelkezik Társadalombiztosítási Azonosító Jelet igazoló okmánnyal, az a háziorvos, akinek ellátási területén a beteg tartózkodási helye van;
 
@@ -22,17 +22,18 @@ i) gyógyszer: külön jogszabályok szerinti magisztrális és forgalomba hozat
 
 j)–k)[^4]
 
-l) külföld: a Magyar Köztársaság államhatárán kívüli terület;
+l)[^5] külföld: a Magyarország államhatárán kívüli terület;
 
-m)[^5] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti nyomtatvány;
+m)[^6] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti nyomtatvány;
 
 n) visszavétel: ellenőrzött szer visszaszolgáltatása a gyógyszertárba;
 
-o)[^6]
+o)[^7]
 
-[^1]: Az 1. § b) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § b) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (1) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 25. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § f) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § g) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § j)–k) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
-[^5]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 1. § o) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^5]: Az 1. § l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 24. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. § o) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.

@@ -8,6 +8,6 @@
 
 (4) A törött, kiszóródott ellenőrzött anyagot össze kell gyűjteni és tárolását a 16. § (1) bekezdés szerint kell biztosítani.
 
-(5)[^36] Ha a közforgalmú gyógyszertár szakmai ellenőrzésekor valamely ellenőrzött szer készletében az 14. §-ban meghatározott hiányon felüli hiány mutatkozik, a megyei tisztifőgyógyszerész jegyzőkönyvet vesz fel és haladéktalanul értesíti a kábítószer rendészetet. Amennyiben a rendészeti ellenőrzést végző hatóság tár fel hiányosságokat, a jegyzőkönyv elkészítésével egyidejűleg értesíti a megyei tisztifőgyógyszerészt.
+(5)[^46] Ha a közforgalmú gyógyszertár szakmai ellenőrzésekor valamely ellenőrzött szer készletében az 14. §-ban meghatározott hiányon felüli hiány mutatkozik, a megyei tisztifőgyógyszerész jegyzőkönyvet vesz fel és haladéktalanul értesíti a kábítószer rendészetet. Amennyiben a rendészeti ellenőrzést végző hatóság tár fel hiányosságokat, a jegyzőkönyv elkészítésével egyidejűleg értesíti a megyei tisztifőgyógyszerészt.
 
-[^36]: A 15. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^46]: A 15. § (5) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés d) és e) pontja szerint módosított szöveg.

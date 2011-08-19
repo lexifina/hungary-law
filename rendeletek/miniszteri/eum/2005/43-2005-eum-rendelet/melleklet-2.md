@@ -42,6 +42,6 @@
 
 ## P. H.
 
-2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^46]
+2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^56]
 
-[^46]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja szerint módosított szöveg.
+[^56]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja szerint módosított szöveg.

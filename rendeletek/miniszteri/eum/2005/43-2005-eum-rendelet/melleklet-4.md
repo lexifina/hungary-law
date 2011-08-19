@@ -1,167 +1,67 @@
-## Igazolás az ellenőrzött szereket tartalmazó gyógyszerkészítmények birtoklására
+## Igazolás a kábítószereket vagy pszichotróp anyagokat tartalmazó gyógyszerek birtoklására
 
-## az ilyen készítményekkel végzett kezelés alatt álló utazók számára
+## az ilyen készítményekkel kezelt utazók számára
 
-## Igazolás az ellenőrzött szereket tartalmazó gyógyszerkészítmények birtoklására az ilyen készítményekkel végzett kezelés alatt álló utazók számára*
+## Certificate for the carrying by travellers under treatment of medical preparations containing
 
-## (1)
+## narcotic drugs and/or psychotrop substances
 
-## (Ország) (Helység) (Dátum)
+| Ország (Country) | Város (Town) | Dátum (Date) |
 
-## A) Vényt kiállító orvos adatai:
+## A. Vényt kiállító orvos (Prescribing doctor)
 
-## (2)
+| Név (Name) | Utónév (First name) | Telefon (Tel) |
 
-## (Vezetéknév) (Utónév) (Telefonszám)
+## Cím (Address)
 
-## (3)
+## Kiadva az orvos által (Where issued by a doctor):
 
-## (Cím)
+## Orvos bélyegzője (Doctor’s stamp) Aláírás (Doctors’s signature)
 
-## Ha az orvos állítja ki:
+## B. Beteg (Patient)
 
-## (4)
+## Név (Name) Utónév (First name) Útlevél vagy személyi igazolvány száma
 
-## (Orvos bélyegzője) (Orvos aláírása)
+## (No of passport or other identity document)
 
-## B) Beteg adatai:
+## Születési hely (Place of birth) Születési idő (Date of birth)
 
-## (5) (6)
+## Nemzetiség (Nationality) Nem (Sex)
 
-## (Vezetéknév) (Utónév) (Útlevél vagy egyéb igazolvány száma)
+## Cím (Address)
 
-## (7) (8)
+## Az utazás időtartama (Number of travel days) Az utazás végcélja (célország)
 
-## (Születési hely) (Születés ideje)
+## (Country of destination)
 
-## (9) (10)
+## C. Gyógyszer (Prescribed drug)
 
-## (Állampolgárság) (Nem)
+## Készítmény neve (Trade name or special preparation) Adagolási forma - darabszám (Dosage form - number
 
-## (11)
+## of units)
 
-## (Lakcím)
+## Hatóanyag nemzetközi megnevezése A hatóanyag koncentrációja
 
-## (12) (13)
+## (International name of the active substance) (Concentration of the active substance)
 
-## (Utazás időtartama napokban megadva) (Igazolás érvényességi ideje ...-tól ...-ig – max. 30 nap)
+## Használati utasítás (Instruction for use) A hatóanyag teljes mennyisége
 
-## C) Felírt gyógyszer:
+## (Total quantity of the active substance)
 
-## (14) (15)
+## A rendelés időtartama – legfeljebb 90 nap
 
-## (Kereskedelmi elnevezés vagy speciális készítmény) (Előírt adagolás)
+## (Duration of prescription in days – maximum 90 days)
 
-## (16) (17)
+## Megjegyzés (Remarks)
 
-## (A hatóanyag nemzetközi megnevezése) (Hatóanyag-koncentráció)
+## D. Nyilvántartásba vételt végző hatóság (Registring authority)
 
-## (18) (19)
+## Név (Name)
 
-## (Használati utasítás) (Hatóanyag teljes mennyisége)
+## Cím (Address) Telefon (Tel)
 
-## (20)
+## Nyilvántartásba vételi szám (Registration number)
 
-## (A vény érvényességi ideje – max. 30 nap)
-
-## (21)
-
-## (Célország, azaz az utazás végcélja, egyéb megjegyzések)
-
-## D) A kiállító / hitelesítő hatóság: (Nem megfelelőt kérjük áthúzni!)**
-
-## (22)
-
-## (Megnevezés)
-
-## (23)
-
-## (Cím) (Telefonszám)
-
-## (24)
-
-## (Hatóság bélyegzője) (Hatóság aláírása)
-
-## ______________
-
-## * Gyógykezelés céljára használt kábítószerekre, illetve pszichotrop anyagokra előírt úti igazolás a Tanács 1999. május 20-i 1999/435/EK határozat (ún. Schengeni) Végrehajtási Egyezmény 75. cikke alapján.
-
-## ** 72 órát meghaladó külföldi tartózkodás esetén töltendő ki!
-
-## Certification to carry drugs/or psychotropic substances for treatment purpose – Schengen
-
-## Implementing Convention – Article 75
-
-## Certificat pour le transport de stupéfiants et/ou de substances psychotropes a des fins
-
-## thérapeutiques – Article 75 de la Conventior d’application de l’Accord de Schengen
-
-## (1) country, town, date pays, delivré a, date
-
-## A) Prescribing doctor Médecin prescripteur
-
-## (2) name, first name, phone nom, prénom, téléphone
-
-## (3) address adresse
-
-## (4) in cases of issuing by doctor: stamp, signature of doctor
-
-## en cas de délivrance par un médecin: cachet, signature du médecin
-
-## B) Patient Patient
-
-## (5) name, first name nom, prénom
-
-## (6) no. of passport or other identification document
-
-## numéro du passeport ou du document d’identité
-
-## (7) place of birth lieu de naissance
-
-## (8) date of birth date de naissance
-
-## (9) nationality nationalité
-
-## (10) sex sexe
-
-## (11) address adresse
-
-## (12) duration of travel in days durée du voyage en jours
-
-## (13) validity of authorisation from/to – max. 30 days
-
-## durée de validité de l’autorisation du/au – max. 30 jours
-
-## C) Prescribed drug Médicament prescrit
-
-## (14) trade name or special preparation nom commercial ou préparation spéciale
-
-## (15) dosage form forme pharmaceutique
-
-## (16) international name of active substance dénomination internationale de la substance active
-
-## (17) concentration of active substance concentration de la substance active
-
-## (18) instructions for use mode d’emploi
-
-## (19) total quantity of active substance quantité totale de la substance active
-
-## (20) duration of prescription in days – max. 30 days durée de la prescription, en jours – max. 30 jours
-
-## (21) country of destination, le pays de destination (remarks remarques)
-
-## D) Issuing/accrediting authority (deleate where not applicable)
-
-## Autorité qui délivre/authentifie (biffer ce qui ne convient pas)
-
-## (22) expression désignation
-
-## (23) address, phone adresse, téléphone
-
-## (24) stamp, signature of authority sceau, signature de l’autorité
-
-## ___________
-
-## ** Should be filled in if foreign staying exceeds 72 hours. Devrait étre rempli si rester étranger dépasse 72 heures.
+## Hatósági bélyegző (Authority stamp) Aláírás (Authority’s signature)
 
 4. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
