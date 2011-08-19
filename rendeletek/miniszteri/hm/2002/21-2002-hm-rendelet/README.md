@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-21-20-1
 | --- | --- | --- |
 | 2010-01-01 | 2002-21-20-15.6 | 21/2002. (IV. 10.) HM rendelet |
 | 2010-05-15 | 2002-21-20-15.7 | 12/2010. (V. 12.) HM rendelet |
+| 2011-08-19 | 2002-21-20-15.8 | 7/2011. (VIII. 18.) HM rendelet |

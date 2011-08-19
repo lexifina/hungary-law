@@ -4,12 +4,12 @@
 
 (3) A honvédelmi miniszter vagy a Honvéd Vezérkar főnöke által a személyi állomány részére a szolgálat érdekében elrendelt kötelező egészségügyi szűrővizsgálatra történő utazásokat szolgálati kiküldetésnek kell tekinteni, és az ezzel kapcsolatos költségeket a vonatkozó jogszabályok szerint kell elszámolni.
 
-(4)[^10] Nem minősül szolgálati kiküldetésnek a honvédelmi szervezet állomáshelyének csapatmozgás során, kötelékben történő elhagyása, illetve ha a szolgálati feladatokat – a feladat (munka) természetéből eredően – szokásosan az állomáshelyén kívül kell végezni, továbbá az e rendelet IV. fejezete szerinti egyéb utazás. E rendelet alkalmazásában csapatmozgásnak kell tekinteni a személyi állomány olyan, kiképzéssel, harckészültséggel vagy katasztrófaelhárítással kapcsolatos, kötelékben (raj, szakasz, század stb., illetve ezeknek megfelelő szervezeti egységben) történő utaztatását, amelynek lebonyolítása során a térítésmentes szállításról, a szálláshelyről és a természetbeni élelmezési ellátásról a honvédelmi szervezet – vagy a honvédség megbízása szerint más szervezet – intézményesen gondoskodik.
+(4)[^12] Nem minősül szolgálati kiküldetésnek a honvédelmi szervezet állomáshelyének csapatmozgás során, kötelékben történő elhagyása, illetve ha a szolgálati feladatokat – a feladat (munka) természetéből eredően – szokásosan az állomáshelyén kívül kell végezni, továbbá az e rendelet IV. fejezete szerinti egyéb utazás. E rendelet alkalmazásában csapatmozgásnak kell tekinteni a személyi állomány olyan, kiképzéssel, harckészültséggel vagy katasztrófaelhárítással kapcsolatos, kötelékben (raj, szakasz, század stb., illetve ezeknek megfelelő szervezeti egységben) történő utaztatását, amelynek lebonyolítása során a térítésmentes szállításról, a szálláshelyről és a természetbeni élelmezési ellátásról a honvédelmi szervezet – vagy a honvédség megbízása szerint más szervezet – intézményesen gondoskodik.
 
-(5)[^11]
+(5)[^13]
 
-(6)[^12] A szolgálatteljesítés helye és a lakóhely, illetve a tartózkodási hely közötti rendszeres (napi, heti vagy havi) helyközi utazás nem minősül szolgálati kiküldetésnek.
+(6)[^14] A szolgálatteljesítés helye és a lakóhely, illetve a tartózkodási hely közötti rendszeres (napi, heti vagy havi) helyközi utazás nem minősül szolgálati kiküldetésnek.
 
-[^10]: A 3. § (4) bekezdésének második mondatát a 18/2005. (V. 5.) HM rendelet 3. §-a iktatta a szövegbe.
-[^11]: A 3. § új (5) bekezdését a 46/2005. (XII. 22.) HM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 3. § (5) bekezdését a 12/2010. (V. 12.) HM rendelet 9. § c) pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd még az utóbbi módosító rendelet 10. § (2) bekezdését.
-[^12]: A 3. § eredeti (5) bekezdésének számozását a 46/2005. (XII. 22.) HM rendelet 2. §-a (6) bekezdésre változtatta.
+[^12]: A 3. § (4) bekezdésének második mondatát a 18/2005. (V. 5.) HM rendelet 3. §-a iktatta a szövegbe.
+[^13]: A 3. § új (5) bekezdését a 46/2005. (XII. 22.) HM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 3. § (5) bekezdését a 12/2010. (V. 12.) HM rendelet 9. § c) pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd még az utóbbi módosító rendelet 10. § (2) bekezdését.
+[^14]: A 3. § eredeti (5) bekezdésének számozását a 46/2005. (XII. 22.) HM rendelet 2. §-a (6) bekezdésre változtatta.

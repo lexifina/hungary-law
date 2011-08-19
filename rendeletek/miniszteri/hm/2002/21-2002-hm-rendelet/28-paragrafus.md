@@ -1,8 +1,8 @@
 ## A szolgálatteljesítés helyére (munkába) járással kapcsolatos helyközi utazási költségtérítés
 
-28. §[^45] (1) A honvédelmi szervezet állományába tartozó hivatásos és tartalékos katona munkába járással kapcsolatos utazási költségeit – e jogszabály eltérő rendelkezése hiányában – a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) és e rendelet szabályai szerint kell megállapítani és folyósítani. A külföldi szolgálatra, tanulmányok folytatására vezényeltek (kirendeltek) napi munkába járási és hazautazási költségtérítéseit a Magyar Honvédség külföldi szolgálatot teljesítő és külföldi tanulmányokat folytató személyi állománya devizaellátmányáról és egyes ellátmányon kívüli pénzbeli járandóságairól szóló 26/2007. (VI. 20.) HM rendelet szerint kell megtéríteni.
+28. §[^48] (1) A honvédelmi szervezet állományába tartozó hivatásos és tartalékos katona munkába járással kapcsolatos utazási költségeit – e jogszabály eltérő rendelkezése hiányában – a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) és e rendelet szabályai szerint kell megállapítani és folyósítani. A külföldi szolgálatra, tanulmányok folytatására vezényeltek (kirendeltek) napi munkába járási és hazautazási költségtérítéseit a Magyar Honvédség külföldi szolgálatot teljesítő és külföldi tanulmányokat folytató személyi állománya devizaellátmányáról és egyes ellátmányon kívüli pénzbeli járandóságairól szóló 26/2007. (VI. 20.) HM rendelet szerint kell megtéríteni.
 
-(2) E fejezet rendelkezéseit az alapkiképzésre és felkészítésre behívott tartalékos katona esetében is alkalmazni kell.
+(2)[^49] E fejezet rendelkezéseit az alapkiképzésre és felkészítésre behívott műveleti tartalékos katona esetében is alkalmazni kell.
 
 (3) A hivatásos és tartalékos katona, továbbá a közalkalmazott részére – eltérő rendelkezés hiányában – a Korm. rendelet 3. § (2) és (3) bekezdése szerinti költségtérítések mértékét a napi munkába járás és hazautazás esetén 86%-os mértékben kell megállapítani. A munkába járási költségtérítésre jogosult hivatásos- és tartalékos katona esetében – a hazautazással kapcsolatos költségtérítésnek – a Korm. rendelet 3. § (3) bekezdésében meghatározott felső korlátját nem kell alkalmazni.
 
@@ -18,4 +18,8 @@
 
 (9) Az állományilletékes parancsnok kérelemre, parancsban engedélyezi a munkába járási költségek megtérítését, ideértve az átutazás céljából helyi közösségi közlekedéssel megvalósuló munkába járási költségek megtérítését is.
 
-[^45]: A 28. § a 12/2010. (V. 12.) HM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd még a módosító rendelet 10. § (2) bekezdését.
+(10)[^50] Ha a személyi állomány – a 29. § (1) bekezdés hatálya alá nem tartozó – tagja albérleti- (lízing-) díj hozzájárulásban részesül, a 28. § (5) bekezdése alapján hazautazás címén munkába járási költségtérítésben nem részesülhet.
+
+[^48]: A 28. § a 12/2010. (V. 12.) HM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2010. május havi munkába járással kapcsolatos kifizetésekre kell alkalmazni. Alkalmazására lásd még a módosító rendelet 10. § (2) bekezdését.
+[^49]: A 28. § (2) bekezdése a 7/2011. (VIII. 18.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^50]: A 28. § (10) bekezdését a 7/2011. (VIII. 18.) HM rendelet 7. § (2) bekezdése iktatta be.
