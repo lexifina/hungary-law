@@ -1,4 +1,4 @@
-## 37/A. §[^50] Az OGYI a hatósági ellenőrzés keretében jogosult a mellékhatás figyeléssel kapcsolatos kötelezettségekkel összefüggésben helyszíni ellenőrzést tartani és a forgalomba hozatali engedély jogosultjának, vagy az engedély jogosultja által a mellékhatás-figyeléssel kapcsolatos feladatok ellátására alkalmazott személynek a nyilvántartásait és dokumentumait, továbbá a jogosult telephelyeit ellenőrizni.
+## 37/A. §[^112] A GYEMSZI a hatósági ellenőrzés keretében jogosult a mellékhatás figyeléssel kapcsolatos kötelezettségekkel összefüggésben helyszíni ellenőrzést tartani és a forgalomba hozatali engedély jogosultjának, vagy az engedély jogosultja által a mellékhatás-figyeléssel kapcsolatos feladatok ellátására alkalmazott személynek a nyilvántartásait és dokumentumait, továbbá a jogosult telephelyeit ellenőrizni.
 
 ## A mellékhatás-figyelésért felelős személy
 
@@ -8,8 +8,10 @@ a) összegyűjti és feldolgozza a tudomására hozott mellékhatásokról, ille
 
 b) elkészíti az e rendeletben meghatározott jelentéseket,
 
-c) kapcsolatot tart és együttműködik az OGYI-val, valamint megkeresésre tájékoztatja az OGYI-t a gyógyszer előny/kockázat arány értékeléséhez szükséges kiegészítő adatokról, továbbá adatot szolgáltat az eladott mennyiségre vagy a felírt gyógyszerek számára vonatkozóan is,
+c)[^113] kapcsolatot tart és együttműködik a GYEMSZI-vel, valamint megkeresésre tájékoztatja a GYEMSZI-t a gyógyszer előny/kockázat arány értékeléséhez szükséges kiegészítő adatokról, továbbá adatot szolgáltat az eladott mennyiségre vagy a felírt gyógyszerek számára vonatkozóan is,
 
-d) gondoskodik arról, hogy minden olyan információ, amely a gyógyszer előny/kockázat arány értékelése szempontjából fontos lehet – ideértve a forgalomba hozatali engedély kiadását követő biztonsági vizsgálatokból származó eredményeket is –, az OGYI-hoz eljusson.
+d)[^114] gondoskodik arról, hogy minden olyan információ, amely a gyógyszer előny/kockázat arány értékelése szempontjából fontos lehet – ideértve a forgalomba hozatali engedély kiadását követő biztonsági vizsgálatokból származó eredményeket is –, a GYEMSZI-hez eljusson.
 
-[^50]: A 37/A. §-t a 20/2010. (IV. 29.) EüM rendelet 1. § (18) bekezdése iktatta be.
+[^112]: A 37/A. §-t a 20/2010. (IV. 29.) EüM rendelet 1. § (18) bekezdése iktatta be, szövege a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^113]: Az 38. § c) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) és e) pontja szerint módosított szöveg.
+[^114]: A 38. § d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés h) pontja szerint módosított szöveg.

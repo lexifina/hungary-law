@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kérelemnek az – 1. számú mellékletben foglaltak alapján – tartalmaznia kell:
 
-a)[^11] a kérelmező számlázási és levelezési címét;
+a)[^12] a kérelmező számlázási és levelezési címét;
 
 b) a gyógyszer nevét;
 
@@ -50,8 +50,9 @@ t) amennyiben a gyógyszerrel kapcsolatosan a Magyar Köztársaságon kívül fo
 
 (3) A k) pont szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az 1. számú melléklettel összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítani. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az 1. számú melléklettel összhangban.
 
-(4) A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli az OGYI-val.
+(4)[^13] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
 
-[^11]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.

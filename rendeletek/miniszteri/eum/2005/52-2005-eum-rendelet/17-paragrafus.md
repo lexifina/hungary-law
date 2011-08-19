@@ -2,7 +2,7 @@
 
 17. § (1) Az alkalmazási előírás a forgalomba hozatali engedély része, amely a 2. számú melléklet szerinti adatokat tartalmazza.
 
-(2)[^26]
+(2)[^46]
 
 (3) Az (1) bekezdéstől eltérően a generikus gyógyszer alkalmazási előírása nem tartalmazhatja a referencia gyógyszer alkalmazási előírásának a 4.1. és 4.2. pontjai szerinti azon javallatait és adagolás formáit, amelyeket szabadalom véd.
 
@@ -14,4 +14,4 @@ b) további részletes előírásokat az ilyen módon felhasználandó készítm
 
 c) azt a felhasználhatósági időtartamot – ha ez a követelmény alkalmazható –, amelyen belül bármely köztitermék (pl. az eluátum) vagy a felhasználásra kész gyógyszer megfelel a követelményeknek.
 
-[^26]: A 17. § (2) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § d) pontja hatályon kívül helyezte.
+[^46]: A 17. § (2) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § d) pontja hatályon kívül helyezte.
