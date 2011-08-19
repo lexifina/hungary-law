@@ -24,6 +24,9 @@ g) a honvédelmi szervezet haditechnikai eszközökkel és anyagokkal, továbbá
 
 h) a nemzetközi feladatok költségvetési javaslatának és éves költségvetésének összeállítása, valamint elszámolása;
 
-i) az állami vagyonnal történő gazdálkodás.
+i) az állami vagyonnal történő gazdálkodás;
+
+j)[^2] az MH katonai szervezetei, továbbá az önállóan működő, a kijelölt önállóan működő és gazdálkodó honvédelmi szervezetek kincstári előirányzat-felhasználási keret forgalmának kezelése, bonyolítása.
 
 [^1]: A 2. § (4) bekezdés a) pontja a 282/2010. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be.
