@@ -10,6 +10,6 @@ c) 3. számú melléklete a Magyar Köztársaság katonai nemzetbiztonsági szol
 
 d) 4. számú melléklete a katonai ügyészségek, valamint a katonai tanácsokkal rendelkező bíróságok, hivatásos tábornoki, tiszti, zászlósi, tiszthelyettesi állományának beosztási kategóriába történő részletes besorolását, valamint ezen beosztásokban elérhető rendfokozatokat,
 
-e)[^2] 5. számú melléklete a Honvédelmi Minisztérium Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) hivatásos tábornoki, hivatásos és szerződéses tiszti és tiszthelyettesi, szerződéses legénységi állományának részletes beosztási kategóriába történő besorolását, valamint e beosztásokban általános és speciális előmeneteli rendben rendszeresített rendfokozatokat
+e)[^3] 5. számú melléklete a Honvédelmi Minisztérium Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) hivatásos tábornoki, hivatásos és szerződéses tiszti és tiszthelyettesi, szerződéses legénységi állományának részletes beosztási kategóriába történő besorolását, valamint e beosztásokban általános és speciális előmeneteli rendben rendszeresített rendfokozatokat
 
-[^2]: A 6. § e) pontját a 26/2008. (XII. 20.) HM rendelet 2. §-a iktatta be.
+[^3]: A 6. § e) pontját a 26/2008. (XII. 20.) HM rendelet 2. §-a iktatta be.

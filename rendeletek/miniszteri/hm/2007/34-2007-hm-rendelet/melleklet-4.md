@@ -50,6 +50,6 @@
 
 | VII. | főtörzsőrmester | biztonsági tiszthelyettes | ügykezelő, kezelő, távírász, beszerző tiszthelyettes, gépjárművezető, forrásgépkezelő; beosztott tiszthelyettes |
 
-4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^7]
+4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^8]
 
-[^7]: A 4. számú melléklet az 1/2010. (I. 14.) HM rendelet 4. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^8]: A 4. számú melléklet az 1/2010. (I. 14.) HM rendelet 4. § (2) bekezdés e) pontja szerint módosított szöveg.

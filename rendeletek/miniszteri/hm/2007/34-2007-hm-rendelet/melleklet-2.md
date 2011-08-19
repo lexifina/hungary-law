@@ -100,6 +100,6 @@
 
 | I. | honvéd | próbaidőt töltő szerződéses katona |
 
-2. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^5]
+2. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^6]
 
-[^5]: A 2. számú melléklet a 26/2008. (XII. 20.) HM rendelet 4. §-a, valamint 7. § (3) bekezdés f)–i) pontja, az 1/2010. (I. 14.) HM rendelet 2. §-a és 4. § (2) bekezdés c)–d) pontja szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 26/2008. (XII. 20.) HM rendelet 4. §-a, valamint 7. § (3) bekezdés f)–i) pontja, az 1/2010. (I. 14.) HM rendelet 2. §-a és 4. § (2) bekezdés c)–d) pontja szerint módosított szöveg.

@@ -40,6 +40,6 @@
 
 | szakaszvezető |  |  | harckocsivezető; harcjárművezető; gépkocsivezető; szerelő; anyagkezelő | legénységi beosztások |
 
-3. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^6]
+3. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^7]
 
-[^6]: A 3. számú melléklet a 26/2008. (XII. 20.) HM rendelet 5. §-a, valamint 7. § (3) bekezdés j)–k) pontja, az 1/2010. (I. 14.) HM rendelet 3. §-a, a 4/2011. (VI. 7.) HM rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 3. számú melléklet a 26/2008. (XII. 20.) HM rendelet 5. §-a, valamint 7. § (3) bekezdés j)–k) pontja, az 1/2010. (I. 14.) HM rendelet 3. §-a, a 4/2011. (VI. 7.) HM rendelet 19. §-a szerint módosított szöveg.
