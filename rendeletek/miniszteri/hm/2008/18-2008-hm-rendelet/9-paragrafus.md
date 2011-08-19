@@ -22,4 +22,6 @@ g) a külföldi katonai táborokban, amennyiben az egynemzetiségű (magyar) tá
 
 a) a honvédségi tűzoltó alegység az MH létesítmény védelme érdekében részt vesz a tűz oltásában,
 
-b) a honvédelmi szervezet (MH létesítmény) vezető szolgálata haladéktalanul jelentést tesz az MH ügyeleti rendszerén keresztül a Magyar Honvédség Központi Ügyeletének, valamint a HM KEHH-nek.
+b)[^8] a honvédelmi szervezet (MH létesítmény) vezető szolgálata haladéktalanul jelentést tesz az MH ügyeleti rendszerén keresztül a Magyar Honvédség Központi Ügyeletének, valamint a HM HH-nak.
+
+[^8]: A 9. § (3) bekezdés b) pontja a 7/2011. (VIII. 18.) HM rendelet 17. §-a szerint módosított szöveg.

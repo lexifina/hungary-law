@@ -6,4 +6,6 @@
 
 a) meggyőződik a honvédségi tűzoltó alegység, illetve az önkormányzati tűzoltóság riasztásának megtörténtéről, szükség esetén végrehajtja azt, továbbá intézkedik a tűzoltóságnak és a mentőknek az MH létesítménybe történő beléptetésére,
 
-b) a melléklet szerinti „Jelentés tűzesetről” című nyomtatványon az elöljáró ügyeleti szolgálaton keresztül haladéktalanul tájékoztatja a Honvédelmi Minisztérium Központi Ellenőrzési és Hatósági Hivatalt (a továbbiakban: HM KEHH) a tűzeset bekövetkezéséről és annak körülményeiről.
+b)[^1] a melléklet szerinti „Jelentés tűzesetről” című nyomtatványon az elöljáró ügyeleti szolgálaton keresztül haladéktalanul tájékoztatja a Honvédelmi Minisztérium Hatósági Hivatalt (a továbbiakban: HM HH) a tűzeset bekövetkezéséről és annak körülményeiről.
+
+[^1]: A 3. § (2) bekezdés b) pontja a 7/2011. (VIII. 18.) HM rendelet 17. §-a szerint módosított szöveg.
