@@ -8,12 +8,12 @@
 
 (2) Az előmenetelt az általános beosztások és a speciális beosztások két elkülönülő rendszerében, de együttesen kell biztosítani, a két előmeneteli rendszer között folyamatos átjárási lehetőséggel.
 
-(3)[^71] Előmenetel az általános beosztások esetén a viselt rendfokozatnál eggyel magasabb rendfokozattal rendszeresített beosztásba, speciális beosztások esetén a beosztásban elérhetőnél magasabb rendfokozatú beosztásba történő kinevezés.
+(3)[^72] Előmenetel az általános beosztások esetén a viselt rendfokozatnál eggyel magasabb rendfokozattal rendszeresített beosztásba, speciális beosztások esetén a beosztásban elérhetőnél magasabb rendfokozatú beosztásba történő kinevezés.
 
-(4)[^72] A speciális beosztást betöltők esetében a rendszeresített rendfokozaton – kizárólag az előmenetel szempontjából – az állomány tagjának viselt rendfokozatát kell érteni, függetlenül a beosztásban elérhető legmagasabb rendfokozattól és az illetménybesorolástól.
+(4)[^73] A speciális beosztást betöltők esetében a rendszeresített rendfokozaton – kizárólag az előmenetel szempontjából – az állomány tagjának viselt rendfokozatát kell érteni, függetlenül a beosztásban elérhető legmagasabb rendfokozattól és az illetménybesorolástól.
 
-(5)[^73] A beosztásba helyezés előfeltétele a beosztáshoz rendszeresített végzettségi követelményeknek történő megfelelés. A speciális beosztások esetében az elérhető legmagasabb rendfokozat szempontjából meghatározott iskolai végzettségi követelményeknek, valamint a viselt rendfokozat szerint előírt szakképesítési követelményeknek való megfelelést kell vizsgálni.
+(5)[^74] A beosztásba helyezés előfeltétele a beosztáshoz rendszeresített végzettségi követelményeknek történő megfelelés. A speciális beosztások esetében az elérhető legmagasabb rendfokozat szempontjából meghatározott iskolai végzettségi követelményeknek, valamint a viselt rendfokozat szerint előírt szakképesítési követelményeknek való megfelelést kell vizsgálni.
 
-[^71]: A 92. § (3) bekezdése a 4/2006. (II. 7.) HM rendelet 24. §-ával megállapított szöveg.
-[^72]: A 92. § (4) bekezdése a 17/2009. (XII. 3.) HM rendelet 5. §-ával megállapított szöveg.
-[^73]: A 92. § (5) bekezdését az 1/2008. (I. 30.) HM rendelet 5. §-a iktatta be.
+[^72]: A 92. § (3) bekezdése a 4/2006. (II. 7.) HM rendelet 24. §-ával megállapított szöveg.
+[^73]: A 92. § (4) bekezdése a 17/2009. (XII. 3.) HM rendelet 5. §-ával megállapított szöveg.
+[^74]: A 92. § (5) bekezdését az 1/2008. (I. 30.) HM rendelet 5. §-a iktatta be.

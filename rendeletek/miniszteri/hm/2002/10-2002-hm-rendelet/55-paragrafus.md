@@ -2,8 +2,8 @@
 
 (2) A Hjt. 52. §-ának (3) bekezdése alapján elrendelt vezénylés időtartama az egy évet nem haladhatja meg.
 
-(3)[^54] Az állomány Hjt. 48. § (1) bekezdés b), e), f) és l) pontja alapján rendelkezési állományban lévő tagja a szolgálat érdekében meghatározott feladat ellátására egy évig vezényelhető.
+(3)[^55] Az állomány Hjt. 48. § (1) bekezdés b), e), f) és l) pontja alapján rendelkezési állományban lévő tagja a szolgálat érdekében meghatározott feladat ellátására egy évig vezényelhető.
 
 (4) Az egy évet meghaladó időtartamú külföldi szolgálat esetén – a Hjt. 46. §-ának (1) bekezdésében foglaltak kivételével – az állomány tagját rendelkezési állományba kell helyezni.
 
-[^54]: Az 55. § (3) bekezdése az 1/2008. (I. 30.) HM rendelet 3. §-ával megállapított szöveg.
+[^55]: Az 55. § (3) bekezdése az 1/2008. (I. 30.) HM rendelet 3. §-ával megállapított szöveg.

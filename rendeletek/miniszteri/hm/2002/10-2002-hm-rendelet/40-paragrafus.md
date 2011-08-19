@@ -6,7 +6,7 @@ a) a Honvédség által tartott egészségügyi, pszichikai, fizikai alkalmassá
 
 b) a Honvédségnél előírt egyenruha és felszerelési tárgyak beszerzése és tartása,
 
-c)[^39] a minősített adat védelmére, az egyenruha viselésére, az állomány tagjára vonatkozó szabályok betartása.
+c)[^40] a minősített adat védelmére, az egyenruha viselésére, az állomány tagjára vonatkozó szabályok betartása.
 
 (2) A vezényeltet a polgári szervhez történt vezénylésének tartama alatt – szolgálati viszonyából eredően – a Honvédségtől az alábbi jogosultságok illetik meg:
 
@@ -40,11 +40,11 @@ g) az egészségügyi szabadság tartamára távolléti díj,
 
 h) a Hjt. 120. §-a szerinti jubileumi jutalom.
 
-i)[^40]
+i)[^41]
 
 (4) A (3) bekezdésben meghatározott illetmény, juttatások és térítések, valamint ezek közterhei – eltérő megállapodás hiányában – a polgári szervet terhelik.
 
 (5) A (2) bekezdés a) pontja szerinti beiskolázáshoz az állomány tagját minősíteni kell.
 
-[^39]: A 40. § (1) bekezdés c) pontja a 11/2010. (V. 12.) HM rendelet 1. §-a szerint módosított szöveg.
-[^40]: A 40. § (3) bekezdés i) pontját a 4/2011. (VI. 7.) HM rendelet 16. §-a hatályon kívül helyezte.
+[^40]: A 40. § (1) bekezdés c) pontja a 11/2010. (V. 12.) HM rendelet 1. §-a szerint módosított szöveg.
+[^41]: A 40. § (3) bekezdés i) pontját a 4/2011. (VI. 7.) HM rendelet 16. §-a hatályon kívül helyezte.

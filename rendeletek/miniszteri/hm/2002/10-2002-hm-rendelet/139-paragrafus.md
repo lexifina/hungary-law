@@ -1,3 +1,5 @@
+## 138/B. §[^179]
+
 ## A személyügyi nyilvántartás iratai és a személyi anyaggyűjtők megőrzésének rendje
 
 139. § (1) A személyügyi igazgatási feladatok végrehajtása során keletkezett iratokat és okmányokat a vonatkozó szabályok szerint kell minősíteni és kezelni. A személyügyi nyilvántartásból kikerülő anyagokat az ügyviteli előírásoknak megfelelően meg kell semmisíteni.
@@ -23,3 +25,5 @@ cd) állami díjasok, illetve Kossuth- vagy Széchenyi-díjasok,
 ce) akadémikusok, illetve a tudományok doktori fokozatával rendelkezők,
 
 cf) olimpiai vagy világbajnoki címet szereztek.
+
+[^179]: A 138/B. §-t és az azt megelőző alcímet a 17/2009. (XII. 3.) HM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 7/2011. (VIII. 18.) HM rendelet 2. §-a.

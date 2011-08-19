@@ -1,4 +1,4 @@
-## 30. §[^35] Áthelyezés, kinevezés és megbízás elrendelésére az a parancsnok jogosult, aki az áthelyezésre, kinevezésre és megbízásra tervezett beosztásban rendszeresített rendfokozathoz – speciális előmeneteli rend esetén a beosztásban elérhető legmagasabb rendfokozathoz – meghatározott munkáltatói jogkört gyakorolja.
+## 30. §[^36] Áthelyezés, kinevezés és megbízás elrendelésére az a parancsnok jogosult, aki az áthelyezésre, kinevezésre és megbízásra tervezett beosztásban rendszeresített rendfokozathoz – speciális előmeneteli rend esetén a beosztásban elérhető legmagasabb rendfokozathoz – meghatározott munkáltatói jogkört gyakorolja.
 
 31. § (1) Ha az állomány tagjának vezénylését a más szerv vezetője kezdeményezi, akkor a kezdeményezést a munkáltatói jogkört gyakorló elöljáróhoz kell megküldeni.
 
@@ -8,4 +8,4 @@
 
 (4) A Hjt. 46. §-a (3) bekezdésének i)–k) pontjaiban meghatározott, valamint a polgári oktatási és a polgári egészségügyi intézményekhez (a továbbiakban együtt: polgári szerv) vezényeltekre vonatkozó eltérő szabályokat e rendelet tartalmazza.
 
-[^35]: A 30. §-t az 1/2008. (I. 30.) HM rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 17/2009. (XII. 3.) HM rendelet 1. §-a iktatta be.
+[^36]: A 30. §-t az 1/2008. (I. 30.) HM rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 17/2009. (XII. 3.) HM rendelet 1. §-a iktatta be.

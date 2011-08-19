@@ -10,7 +10,7 @@
 
 (3) A szolgálati viszony megszüntetését a személyi állományra vonatkozó írásbeli parancsban kell megállapítani, amely tartalmazza különösen:
 
-a)[^66] az érintett személy nevét, rendfokozatát, beosztását, alkalmazotti azonosítószámát, anyja nevét,
+a)[^67] az érintett személy nevét, rendfokozatát, beosztását, alkalmazotti azonosítószámát, anyja nevét,
 
 b) a szolgálati viszony megszüntetésének jogcímét, időpontját,
 
@@ -22,9 +22,9 @@ e) a szolgálati kötelezettség teljesítése alóli mentesítésre vonatkozó 
 
 f) a tényleges szolgálatban eltöltött idő tartamát jogcímenként, a kedvezményes számításra jogosító időtartamok feltüntetésével,
 
-g)[^67] a nyugdíjjogosultság megállapításáról szóló, az illetékes társadalombiztosítási szerv által hozott határozat számát,
+g)[^68] a nyugdíjjogosultság megállapításáról szóló, az illetékes társadalombiztosítási szerv által hozott határozat számát,
 
-h)[^68] a nyugállományba helyezést, más közszolgálati jogviszonyba történő áthelyezést,
+h)[^69] a nyugállományba helyezést, más közszolgálati jogviszonyba történő áthelyezést,
 
 i) a kapott lakhatási támogatásra való jogosultságra illetve a jogosultság megszűnésére, valamint a megtérítési kötelezettségre vonatkozó tájékoztatást,
 
@@ -32,9 +32,9 @@ j) a jogorvoslati lehetőségre vonatkozó tájékoztatást.
 
 (4) A szolgálati viszony megszűnésére vonatkozó parancsot legkésőbb az utolsó munkában töltött napon a Hjt. 7. §-ának (3) bekezdésében foglaltak szerint az állomány tagjával közölni kell.
 
-(5)[^69] Az állomány tagjának nyugállományba helyezését a miniszter által kijelölt szerv határozata alapján kell megállapítani.
+(5)[^70] Az állomány tagjának nyugállományba helyezését a miniszter által kijelölt szerv határozata alapján kell megállapítani.
 
-[^66]: A 86. § (3) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^67]: A 86. § (3) bekezdésének g) pontja a 4/2006. (II. 7.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^68]: A 86. § (3) bekezdésének h) pontja a 4/2006. (II. 7.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^69]: A 86. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^67]: A 86. § (3) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^68]: A 86. § (3) bekezdésének g) pontja a 4/2006. (II. 7.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^69]: A 86. § (3) bekezdésének h) pontja a 4/2006. (II. 7.) HM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^70]: A 86. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet 23. § (3) bekezdésével megállapított szöveg.

@@ -8,8 +8,8 @@
 
 (4) A szolgálati viszony akkor hosszabbítható meg, ha az állomány tagja a szolgálat ellátására egészségileg, fizikailag és pszichikailag alkalmas.
 
-(5)[^61] A (4) bekezdésben meghatározott alkalmasságot a korhatáron túli szolgálat kezdeményezése előtt legfeljebb hat hónappal, az elrendelést követően évente kell megállapítani.
+(5)[^62] A (4) bekezdésben meghatározott alkalmasságot a korhatáron túli szolgálat kezdeményezése előtt legfeljebb hat hónappal, az elrendelést követően évente kell megállapítani.
 
 (6) A szolgálati viszony meghosszabbítását személyi javaslati lapon kell kezdeményezni, melyhez csatolni kell az erről szóló személyi beszélgetés jegyzőkönyvét, az állomány tagjának kérelmét, az egészségügyi, fizikai és pszichikai vizsgálat ellenőrzéséről szóló igazoló lapot és három hónapnál nem régebbi minősítést.
 
-[^61]: A 68. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet 20. §-ával megállapított szöveg.
+[^62]: A 68. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet 20. §-ával megállapított szöveg.

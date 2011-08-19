@@ -1,6 +1,6 @@
-## A szervezési időszak eltérő személyügyi eljárásai[^139]
+## A szervezési időszak eltérő személyügyi eljárásai[^140]
 
-123/A. §[^140] (1) A szervezési időszak a miniszter külön rendelkezésében meghatározott időtartam.
+123/A. §[^141] (1) A szervezési időszak a miniszter külön rendelkezésében meghatározott időtartam.
 
 (2) A személyügyi eljárások megkezdése előtt az illetékes személyügyi szerv köteles végrehajtani:
 
@@ -24,10 +24,10 @@ b) középszintű irányító szerv szinten,
 
 c) a Honvédség központi személyügyi szerve szintjén az MH egészére vonatkozóan.
 
-(7)[^141] Ha az adott szinten az érintett beosztásba nem helyezhető, eggyel magasabb szintre kell irányítani.
+(7)[^142] Ha az adott szinten az érintett beosztásba nem helyezhető, eggyel magasabb szintre kell irányítani.
 
 (8) Beosztásba helyezéseknél az előmenetel szabályai szerint kell eljárni.
 
-[^139]: A 123/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be.
-[^140]: A 123/A. §-t a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^141]: A 123/A. § (7) bekezdése a 4/2011. (VI. 7.) HM rendelet 16. §-a szerint módosított szöveg.
+[^140]: A 123/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be.
+[^141]: A 123/A. §-t a 4/2006. (II. 7.) HM rendelet 46. §-a iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^142]: A 123/A. § (7) bekezdése a 4/2011. (VI. 7.) HM rendelet 16. §-a szerint módosított szöveg.

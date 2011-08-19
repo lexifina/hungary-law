@@ -22,6 +22,6 @@ c) a vezényelt a beosztásával járó kötelezettségeit bizonyítottan nem te
 
 (4) A vezénylést az elrendelésre jogosult elöljáró parancsával kell megszüntetni.
 
-(5)[^41] A vezénylés megszüntetése esetén – kivéve az (1) bekezdés b) pontja és a (2) bekezdés c) pontja alapján történő megszüntetést – az állomány tagját a viselt rendfokozatának megfelelő szintű szolgálati beosztásba kell helyezni. Betölthető szolgálati beosztás hiányában a Hjt. 48. §-a (1) bekezdésének j) pontja szerint rendelkezési állományba, vagy ha arra jogosultságot szerzett, szolgálati nyugállományba lehet helyezni.
+(5)[^42] A vezénylés megszüntetése esetén – kivéve az (1) bekezdés b) pontja és a (2) bekezdés c) pontja alapján történő megszüntetést – az állomány tagját a viselt rendfokozatának megfelelő szintű szolgálati beosztásba kell helyezni. Betölthető szolgálati beosztás hiányában a Hjt. 48. §-a (1) bekezdésének j) pontja szerint rendelkezési állományba, vagy ha arra jogosultságot szerzett, szolgálati nyugállományba lehet helyezni.
 
-[^41]: A 42. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet – a Magyar Közlöny 2006. évi 34. számában megjelent helyesítésnek megfelelő – 14. §-ával megállapított szöveg.
+[^42]: A 42. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet – a Magyar Közlöny 2006. évi 34. számában megjelent helyesítésnek megfelelő – 14. §-ával megállapított szöveg.
