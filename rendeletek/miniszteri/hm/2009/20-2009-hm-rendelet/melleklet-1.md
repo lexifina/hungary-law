@@ -1,3 +1,3 @@
-1. számú melléklet a 20/2009. (XII. 29.) HM rendelethez[^4]
+1. számú melléklet a 20/2009. (XII. 29.) HM rendelethez[^7]
 
-[^4]: Az 1. számú mellékletet a 10. § (3) bekezdése hatályon kívül helyezte.
+[^7]: Az 1. számú mellékletet a 10. § (3) bekezdése hatályon kívül helyezte.

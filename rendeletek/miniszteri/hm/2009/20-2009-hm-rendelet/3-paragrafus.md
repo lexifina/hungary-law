@@ -14,8 +14,11 @@ d) a teljes hónapban tartós vagy ideiglenes külföldi szolgálatot teljesít,
 
 e) a teljes hónapban a külön jogszabályban meghatározott II. és III. számú élelmezési norma szerint térítésmentes természetbeni ellátást, vagy ehelyett a külön jogszabály alapján a norma pénzértékének megfelelő összegben élelmiszer-utalványt kap, továbbá
 
-f) az a szerződéses, illetve tényleges szolgálatteljesítésre behívott önkéntes tartalékos katona, aki a napi egyszeri természetben, térítésmentesen biztosított ebéd lehetőségét választotta, valamint
+f)[^2] az a szerződéses, illetve tényleges szolgálatteljesítésre behívott önkéntes tartalékos katona, aki a napi egyszeri természetben, térítésmentesen biztosított ebéd lehetőségét választotta.
 
-g) az a szerződéses, illetve a tényleges szolgálatteljesítésre behívott önkéntes tartalékos katona, aki étkezéstérítésre kötelezett.
+g)[^3]
 
 (4) A (2) bekezdés szerinti értékű étkezési utalványra jogosult az is, akinek a jogviszonya hónap közben kezdődik, illetve szűnik meg, valamint az, aki csak a hónap egy részében tartozik a (3) bekezdés a)–b) pontjainak hatálya alá.
+
+[^2]: A 3. § (3) bekezdés f) pontja a 7/2011. (VIII. 18.) HM rendelet 19. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdés g) pontját a 7/2011. (VIII. 18.) HM rendelet 20. §-a hatályon kívül helyezte.
