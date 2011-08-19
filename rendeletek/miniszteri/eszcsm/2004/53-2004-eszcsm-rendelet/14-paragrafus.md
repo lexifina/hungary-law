@@ -1,6 +1,6 @@
-## 13. §[^29] Párhuzamos importtal csak olyan gyógyszerkészítmény hozható be, amely – vagy ezen gyógyszerkészítménynek a jelen rendeletben meghatározott feltételeknek megfelelő változata – rendelkezik Magyarországon hatályos forgalomba hozatali engedéllyel, valamint meghatalmazott személy által kiállított felszabadítási bizonylattal.
+## 13. §[^37]
 
-14. § (1) Amennyiben a párhuzamos importtal behozni kívánt gyógyszerkészítményt vagy gyógyszeranyagot a párhuzamos importőrnek át kell csomagol(tat)nia annak érdekében, hogy a gyógyszerkészítmény kiszerelése, címkeszövege és betegtájékoztatója a Magyarországon hatályos forgalomba hozatali engedélynek megfeleljen, akkor
+14. § (1)[^38] Amennyiben a párhuzamos importtal behozni kívánt gyógyszert vagy gyógyszeranyagot a párhuzamos importőrnek át kell csomagol(tat)nia annak érdekében, hogy a gyógyszer kiszerelése, címkeszövege és betegtájékoztatója a Magyarországon hatályos forgalomba hozatali engedélynek megfeleljen, akkor
 
 a) ha az átcsomagolást maga végzi, a külön jogszabályban meghatározott gyógyszergyártási engedéllyel kell rendelkeznie;
 
@@ -10,4 +10,5 @@ c) ha az átcsomagolás EGT tagállamban történik, akkor az átcsomagolótól 
 
 (2) Átcsomagolás Magyarországon kívül csak az EGT tagállamában végezhető.
 
-[^29]: A 13. § a 42/2005. (IX. 27.) EüM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 13. §-t a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^38]: A 14. § (1) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés e) pontja szerint módosított szöveg.

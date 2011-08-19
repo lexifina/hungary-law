@@ -1,19 +1,19 @@
-8. §[^23] (1) A nagykereskedelmi tevékenységen belül a gyógyszerminősítés és a minősítéssel összefüggő valamennyi feladat – beleértve a beérkezett gyógyszerek felszabadítását is –, továbbá a raktározás és a forgalomból való kivonás műveletei kizárólag meghatalmazott személy felügyelete mellett, az ő felelősségével végezhetőek.
+8. §[^30] (1) A nagykereskedelmi tevékenységen belül a gyógyszerminősítés (ideértve a beérkezett gyógyszerek felszabadítását is), továbbá a tárolás és a forgalomból való kivonás a minőségbiztosítás érdekében meghatalmazott személy felügyelete mellett történik.
 
-(2) A gyógyszer-nagykereskedelmi engedély jogosultjánál működő meghatalmazott személy
+(2) A minőségbiztosítás érdekében meghatalmazott személy
 
 a) jelen van minden gyógyszerszállítmány érkezésekor;
 
-b) személyesen végzi el vagy személyesen felügyeli a forgalomba hozatalra engedélyezett gyógyszereknek a 2. számú melléklet szerinti
+b) személyesen végzi el vagy felügyeli a forgalomba hozatalra engedélyezett gyógyszereknek a 2. számú melléklet szerinti
 
 ba) organoleptikus vizsgálatát,
 
 bb) beérkezéskor történő felszabadítását,
 
-bc) szükség esetén végzendő, a sérült csomagolási egységek elkülönítésével kapcsolatos tevékenységeket;
+bc) a sérült csomagolási egységek elkülönítésével kapcsolatos tevékenységeket;
 
-c) személyesen felügyeli a gyógyszeranyagok tájékoztató vizsgálatát;
+c) felügyeli a gyógyszeranyagok tájékoztató vizsgálatát;
 
-d) személyesen felelős a GyT 17. §-a szerinti, a nagykereskedelmi engedély jogosultjára vonatkozó kötelezettség teljesítéséért.
+d) felelős a GyT. 17. §-a szerinti, a nagykereskedőre vonatkozó kötelezettség teljesítéséért.
 
-[^23]: A 8. § a 10/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított szöveg.
+[^30]: A 8. § a 41/2011. (VII. 5.) NEFMI rendelet 10. §-ával megállapított szöveg.

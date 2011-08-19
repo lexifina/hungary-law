@@ -1,30 +1,51 @@
-2. § (1)[^2] A GyT 11. §-ában meghatározott gyógyszer-nagykereskedelmi tevékenység (a továbbiakban: nagykereskedelmi tevékenység) magába foglalja az 1. számú mellékletben megnevezett gyógyszerek beszerzését, behozatalát, minőségbiztosítását, minőségértékelését, tárolását, készletezését, megrendelőhöz való eljuttatását, ideértve a külföldre történő kivitelét is, forgalomból történő kivonásának végrehajtását, nyilvántartását, továbbá a gyógyszerrel kapcsolatos – külön jogszabályban meghatározott – adatszolgáltatást és a forgalmazó részére történő információadást.
+2. § (1)[^3] A GyT 11. §-ában meghatározott gyógyszer-nagykereskedelmi tevékenység (a továbbiakban: nagykereskedelmi tevékenység) magába foglalja az 1. számú mellékletben megnevezett gyógyszerek beszerzését, behozatalát, minőségbiztosítását, minőségértékelését, tárolását, készletezését, megrendelőhöz való eljuttatását, ideértve a külföldre történő kivitelét is, forgalomból történő kivonásának végrehajtását, nyilvántartását, továbbá a gyógyszerrel kapcsolatos – külön jogszabályban meghatározott – adatszolgáltatást és a forgalmazó részére történő információadást.
 
 (2) E rendelet alkalmazásában
 
-a)[^3] a beérkezett gyógyszer felszabadítása: az a tevékenység, amely során a gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet meghatalmazott személye által kibocsátott minőségi bizonylat vagy párhuzamos import esetén felszabadítási bizonylat alapján a gyógyszer nagykereskedelmi engedély birtokosának minőségbiztosításért felelős személye értékelte és megállapította, hogy a termék az előírt gyógyszerminőségnek megfelel és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy valamely tagállam hatáskörrel és illetékességgel rendelkező hatósága által kiadott forgalomba hozatali engedélynek megfelel;
+a)[^4] felszabadítás: a beérkezett gyógyszer nagykereskedelmi felszabadítása, azaz az a tevékenység, amely során a gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási – gyógyszeranyag esetén minőségi – bizonylat alapján a gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosítás érdekében meghatalmazott személye értékelte és megállapította, hogy a termék
+
+aa) az előírt minőségnek és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy
+
+ab) valamely tagállam hatáskörrel és illetékességgel rendelkező hatósága által kiadott forgalomba hozatali engedélynek
+
+megfelel;
 
 b) karantén: a beérkezett, felszabadításra még nem került gyógyszernek a többitől elkülönített tárolása, amely fizikai elválasztást, megkülönböztető jelzéssel, dokumentációval vagy más – megkülönböztetésre alkalmas – módon elkülönítetten végzett tárolást jelent;
 
 c) raktározás: a gyógyszerek szakmai előírásoknak megfelelő eltartása és kezelése azok beérkezésétől a kiadásig;
 
-d) minőségi bizonylat: a gyógyszer – megfelelő alakisággal (aláírás, bélyegző, keltezés) kiállított – minőségtanúsító igazolása, amely hitelesen tanusítja, hogy a gyógyszer milyen gyógyszerminőségi követelménynek (gyógyszerkönyv vagy más egyértelműen azonosítható előirat) felel meg, és számszerűen tartalmazza legalább a mennyiségi vizsgálatok (hatóanyag-tartalom, nedvességtartalom stb.) eredményét;
+d)[^5] minőségi bizonylat: a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy aláírásával, bélyegzőjének lenyomatával és keltezéssel ellátott igazolása arról, hogy a gyógyszeranyag milyen gyógyszerminőségi követelménynek (gyógyszerkönyv vagy más egyértelműen azonosítható előirat) felel meg, és amely számszerűen tartalmazza legalább a mennyiségi vizsgálatok eredményét;
 
-e) helyes gyártási gyakorlat (GMP): a gyógyszergyártásnak a nagykereskedelmi tevékenység (a gyógyszerek raktározása, kiszállítása stb.) folytatása során is irányadó, külön jogszabályban meghatározott nemzetközi szabályrendszere;
+e)[^6] helyes gyártási gyakorlat (GMP): a gyógyszergyártás során irányadó, az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló 44/2005. (X. 19.) EüM rendelet 2. § (2) bekezdésében meghatározott nemzetközi szabályrendszer;
 
-f) párhuzamos import (parallel import): Magyarországon forgalomba hozatalra engedélyezett emberi felhasználásra kerülő gyógyszernek, vagy annak a jelen jogszabályban meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása az EGT olyan tagállamából, ahol a gyógyszerkészítmény szintén rendelkezik forgalomba hozatali engedéllyel;
+f)[^7] párhuzamos import (parallel import): a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszernek, vagy annak az e rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása az EGT olyan tagállamából, ahol a gyógyszer szintén rendelkezik forgalomba hozatali engedéllyel;
 
-g) párhuzamos kereskedelem (parallel trade): olyan gyógyszerkészítmény párhuzamos importja, amelynek forgalomba hozatali engedélye az Európai Közösségek központi eljárásával került kiadásra (a párhuzamos import és a párhuzamos kereskedelem a továbbiakban együtt: párhuzamos import);
+g)[^8]
 
-h) párhuzamos importőr: olyan, a párhuzamos importtal kiváltani kívánt, hazai forgalomba hozatali engedéllyel rendelkező gyógyszer forgalomba hozatali engedélyének jogosultjától, vagy általa megbízott importőrtől független, gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet, amely erre a tevékenységre e rendelet szerint engedéllyel rendelkezik;
+h)[^9] párhuzamos importőr: párhuzamos import engedéllyel rendelkező, a párhuzamos importtal behozni kívánt, Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszer forgalomba hozatali engedélyének jogosultjától, vagy az általa megbízott importőrtől független, gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet, amely a párhuzamos import engedéllyel rendelkező gyógyszert importálja;
 
-i) származási tagállam: az EGT azon tagállama, ahonnan a gyógyszer Magyarországra párhuzamos import révén behozatalra kerül;
+i)[^10]
 
-j) párhuzamos import engedély: az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) által a párhuzamos importtal behozni kívánt gyógyszerre vonatkozóan a párhuzamos import tevékenység folytatására kiadott egyedi engedély;
+j)[^11] párhuzamos import engedély: a GYEMSZI által a párhuzamos importtal behozni kívánt gyógyszer behozatalára kiadott egyedi engedély;
 
-k) átcsomagolás: gyógyszerkészítménnyel végzett minden olyan művelet, amely az elsődleges csomagolást megtartva eredeti kiszerelésének, címkeszövegének vagy betegtájékoztatójának megváltoztatását jelenti abból a célból, hogy azok megfeleljenek a Magyarországon hatályos forgalomba hozatali engedélynek;
+k)[^12] átcsomagolás: minden olyan művelet, amely a gyógyszer elsődleges csomagolását megtartva az eredeti kiszerelés, címkeszöveg vagy betegtájékoztató megváltoztatását eredményezi abból a célból, hogy azok megfeleljenek a Magyarországon hatályos forgalomba hozatali engedélynek;
 
-l) felszabadítási bizonylat: az EGT tagállamában a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy „Qualified Person” (a továbbiakban: meghatalmazott személy) igazolása arról, hogy a gyógyszerkészítmény a forgalmazási engedélyben előírt gyógyszerminőségnek megfelel.
+l)[^13] felszabadítási bizonylat: a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy aláírásával, bélyegzőjének lenyomatával és keltezéssel ellátott igazolása arról, hogy a gyógyszer a forgalomba hozatali engedélyben előírt gyógyszerminőségnek megfelel;
 
-[^2]: A 2. § (1) bekezdése a 10/2009. (IV. 10.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdésének a) pontja a 10/2009. (IV. 10.) EüM rendelet 1. § (2) bekezdésével megállapított, valamint a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+m)[^14] helyes nagykereskedelmi gyakorlat (GDP): a nagykereskedelmi tevékenység folytatása során irányadó nemzetközi szabályrendszer;
+
+n)[^15] párhuzamos importtevékenység: gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által, adott gyógyszer behozatala céljából kiadott párhuzamos import engedély birtokában végzett tevékenység.
+
+[^3]: A 2. § (1) bekezdése a 10/2009. (IV. 10.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdés g) pontját a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (2) bekezdés h) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § (2) bekezdés i) pontját a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (2) bekezdés j) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^12]: A 2. § (2) bekezdés k) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^13]: A 2. § (2) bekezdés l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^14]: A 2. § (2) bekezdés m) pontját a 41/2011. (VII. 5.) NEFMI rendelet 4. § (5) bekezdése iktatta be.
+[^15]: A 2. § (2) bekezdés n) pontját a 41/2011. (VII. 5.) NEFMI rendelet 4. § (5) bekezdése iktatta be.

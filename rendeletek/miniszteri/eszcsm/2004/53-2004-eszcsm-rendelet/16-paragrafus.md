@@ -1,49 +1,37 @@
-## 16. §[^33] A párhuzamos import engedély kiadása iránti kérelmet az OGYI-hoz kell benyújtani. A kérelemnek tartalmaznia kell:
+## 16. §[^42] A párhuzamos importengedély iránti kérelmet a GYEMSZI-hez kell benyújtani. a kérelemnek tartalmaznia kell
 
-a)[^34]
+a) a párhuzamos importtal behozni kívánt gyógyszer adatait:
 
-b) azt, hogy a kérelem párhuzamos import engedélyezésére irányul;
+aa) a származási tagállam megnevezését,
 
-c) a párhuzamos importtal behozni kívánt gyógyszer adatait:
+ab) a párhuzamos importtal behozni kívánt gyógyszer megnevezését, forgalomba hozatali engedélyének számát a származási tagállamban,
 
-ca) a származási tagállam megnevezését,
+ac) a párhuzamos importtal behozni kívánt gyógyszer gyártójának nevét (cégnevét), székhelye címét a származási tagállamban,
 
-cb) a párhuzamos importtal behozni kívánt gyógyszer megnevezését, forgalomba hozatali engedélyének számát a származási tagállamban,
+ad) a párhuzamos importtal behozni kívánt gyógyszer forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét a származási tagállamban (ha az az előzőtől különbözik);
 
-cc) a párhuzamos importtal behozni kívánt gyógyszer gyártójának nevét (cégnevét), székhelye címét a származási tagállamban,
+b) a párhuzamos import engedély által érintett, Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszer adatait:
 
-cd) a párhuzamos importtal behozni kívánt gyógyszer forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét a származási tagállamban (ha az előzőtől különbözik);
+ba) megnevezését, nyilvántartási számát,
 
-d) párhuzamos importtal kiváltandó gyógyszer esetében a Magyarországon forgalomba hozatali engedéllyel rendelkező, a párhuzamos importtal kiváltandó gyógyszer adatait:
+bb) gyártójának nevét (cégnevét), székhelye címét,
 
-da)[^35] megnevezését, nyilvántartási számát,
+bc) Magyarországra érvényes forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét (ha az az előzőtől különbözik);
 
-db) gyártójának nevét (cégnevét), székhelye címét,
+c) a párhuzamos importtal behozni kívánt gyógyszer betegtájékoztatóját és címkeszövegét a származási tagállamban és azok hiteles magyar nyelvű fordítását;
 
-dc) forgalomba hozatali engedélye jogosultjának nevét (cégnevét), székhelye címét (amennyiben az előzőtől különbözik);
+d) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű betegtájékoztatójának tervezetét;
 
-e) a párhuzamos importtal behozni kívánt gyógyszer betegtájékoztatóját és címkeszövegét a származási tagállamban és azok hiteles magyar nyelvű fordítását;
+e) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű címkeszövegének tervezetét;
 
-f) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű betegtájékoztatójának tervezetét;
+f) ha a párhuzamos importtal behozni kívánt gyógyszer átcsomagolásra kerül, – a 14. §-ban foglaltaknak megfelelően – a párhuzamos importőr gyártási engedélyének számát és
 
-g) a párhuzamos importtal behozni kívánt gyógyszer magyar nyelvű címkeszövegének tervezetét;
+fa) – Magyarországon történő átcsomagolás esetén – a Magyarországon átcsomagolást végző megbízott gyártási engedélyének számát és a párhuzamos importőr és megbízottja között az átcsomagolásra kötött szerződés másolatát, vagy
 
-h) amennyiben a párhuzamos importtal behozni kívánt gyógyszer átcsomagolásra kerül, úgy – a 14. §-ban foglaltaknak megfelelően –
+fb) – külföldön történő átcsomagolás esetén – a 14. § (1) bekezdés c) pontja szerinti bizonylatot;
 
-ha) a párhuzamos importőr gyártási engedélyének számát, vagy
+g) a párhuzamos importtal behozni kívánt gyógyszer minden hatáserősségéből a legkisebb csomagolási egység egy mintáját;
 
-hb) a Magyarországon átcsomagolást végző megbízott gyártási engedélyének számát és a párhuzamos importőr és megbízottja között az átcsomagolásra kötött szerződés másolatát, vagy
+h) arra irányuló nyilatkozatot, hogy a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos minőségi hibajelentési, mellékhatás-bejelentési és a származási országban kiadott forgalomba hozatali engedély módosításra vonatkozó bejelentési kötelezettségeknek eleget tesz.
 
-hc) külföldön történő átcsomagolás esetén a 14. § (1) bekezdésének c) pontja szerinti bizonylatot;
-
-i) a párhuzamos importtal behozni szánt gyógyszer minden hatáserősségéből a legkisebb csomagolási egység egy mintáját;
-
-j)[^36] arra vonatkozó nyilatkozatot, hogy a párhuzamosan importált készítményre vonatkozó – külön jogszabályban előírt – minőségi hibajelentési, mellékhatás-bejelentési és a származási országban tett forgalomba hozatali engedély módosítási bejelentési kötelezettségeknek eleget tesz.
-
-k)[^37]
-
-[^33]: A 16. § bevezető szövegrésze a 38/2009. (XI. 6.) EüM rendelet 5. § (3) bekezdése szerint módosított szöveg.
-[^34]: A 16. § a) pontját a 38/2009. (XI. 6.) EüM rendelet 5. § (3) bekezdése hatályon kívül helyezte.
-[^35]: A 16. § da) alpontja a 10/2009. (IV. 10.) EüM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^36]: A 16. § j) pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^37]: A 16. § k) pontját a 42/2005. (IX. 27.) EüM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 16. § a 41/2011. (VII. 5.) NEFMI rendelet 13. §-ával megállapított szöveg.

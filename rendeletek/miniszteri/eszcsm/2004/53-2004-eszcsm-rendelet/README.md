@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-53-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-11-07 | 2004-53-20-0M.7 | 53/2004. (VI. 2.) ESZCSM rendelet |
+| 2011-08-19 | 2004-53-20-0M.8 | 41/2011. (VII. 5.) NEFMI rendelet |
