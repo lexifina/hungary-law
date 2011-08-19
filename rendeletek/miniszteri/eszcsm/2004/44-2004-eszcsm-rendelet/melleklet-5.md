@@ -6,33 +6,33 @@
 
 ## I. Adatok:
 
-## 1. A gyógyszer neve:
+## 1. A gyógyszer neve:
 
-## 2. Hatóanyaga:
+## 2. Hatóanyaga:
 
-## 3. Hatáserőssége:
+## 3. Hatáserőssége:
 
-## 4. Gyógyszerformája:
+## 4. Gyógyszerformája:
 
-## 5. Gyártója:
+## 5. Gyártója:
 
-## 6. Az igényelt gyógyszer mennyisége:
+## 6. Az igényelt gyógyszer mennyisége:
 
-## 7. Napi adagja: a gyógyszeres kezelés várható időtartama: ..... /hét/hónap (maximum 12 hónap).
+## 7. Napi adagja: a gyógyszeres kezelés várható időtartama: ..... /hét/hónap (maximum 12 hónap).
 
-## II. Kérem az Országos Gyógyszerészeti Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
+## II. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
 
 ## forgalomba hozatali engedéllyel rendelkezik ........................................................................................ tagállamban ................................................................................................ indikációban*
 
 ## forgalomba hozatali engedéllyel nem rendelkezik, ez esetben kérem a megrendelés engedélyezését*
 
-## III. Kérem az Országos Gyógyszerészeti Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
+## III. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
 ## engedélyezze*/véleményezze.*
 
 ## Ehhez az alábbi adatokat terjesztem elő:
 
-## A beteg neve Életkor: ............ év
+## A beteg neve Életkor: ............ év
 
 ## TAJ száma:
 
@@ -46,9 +46,9 @@
 
 ## Az igényelt gyógyszerrel a beteg korábban kezelésben részesült*/nem részesült*
 
-## a fekvőbeteg-gyógyintézetben) .....................................................
+## a fekvőbeteg-gyógyintézetben) .....................................................
 
-## osztályon ..................... adagban ............................................. ideig
+## osztályon ..................... adagban ............................................. ideig
 
 ## Az igénylő orvos neve:
 
@@ -56,7 +56,7 @@
 
 ## Kijelentem, hogy az igényelt gyógyszert, annak hatását, javallatait és ellenjavallatait, alkalmazásának módját, káros mellékhatásait és ezek elkerülésének módját ismerem. Az igényelt gyógyszert más rendelkezésre álló készítménnyel nem tudom helyettesíteni, és a beteg megfelelő kezelését csak ezzel tudom biztosítani. Az igényelt gyógyszer alkalmazásáért a felelősséget vállalom. Tudomásul veszem, hogy az igényelt gyógyszer hatósági ellenőrzésre nem kerül. A gyógyszer alkalmazásáról az alkalmazási előiratban és az idegen nyelvű betegtájékoztatóban foglaltaknak megfelelően a beteget tájékoztattam.
 
-## Keltezés: ..............................................................
+## Keltezés: ..............................................................
 
 ## .............................................
 
@@ -66,8 +66,8 @@
 
 ## _________
 
-## * A nem kívánt rész törlendő.
+## * A nem kívánt rész törlendő.
 
-5. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^89]
+5. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^98]
 
-[^89]: Az 5. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított szöveg, e rendelet 24. § – 67/2004. (VII. 29.) ESZCSM rendelet 1. § (2) bekezdésével módosított – (2) bekezdése alapján a rendelkezés 2004. augusztus 1. napján lép hatályba.
+[^98]: Az 5. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés g)–i) pontja szerint módosított szöveg.
