@@ -50,6 +50,6 @@
 
 | 20. | – | – | I. évfolyam | 1,00 |
 
-4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^120]
+4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^122]
 
-[^120]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.
+[^122]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.

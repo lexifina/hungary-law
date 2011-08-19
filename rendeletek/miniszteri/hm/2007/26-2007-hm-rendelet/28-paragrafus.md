@@ -2,7 +2,7 @@
 
 ## Gépjárműhasználat
 
-28. §[^53] (1) Az engedélyező elöljáró – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – a kiküldött részére:
+28. §[^54] (1) Az engedélyező elöljáró – a hazai gépjárműhasználatra vonatkozó szabályok figyelembevételével – a kiküldött részére:
 
 a) a feladat jellegétől függően szolgálati gépjármű használatát engedélyezheti, amelyet az illetékes logisztikai ellátó szerv biztosít;
 
@@ -18,4 +18,4 @@ b) a saját tulajdonú gépkocsi szolgálati célú igénybevételét engedélye
 
 (6) Az (1) és (5) bekezdés szerinti gépjárműhasználat és a (4) bekezdés szerinti gépjárműbérlés engedélyezésének és elszámolásának szabályait külön miniszteri rendelet – a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében MK KFH főigazgatói intézkedés – tartalmazza.
 
-[^53]: A 28. § az 1/2011. (III. 8.) HM rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^54]: A 28. § az 1/2011. (III. 8.) HM rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

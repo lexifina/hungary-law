@@ -18,7 +18,7 @@ a) házastárs után
 
 aa) amennyiben a külföldi tartózkodás ideje alatt nem rendelkezik jövedelemmel (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat), a kiküldött devizaellátmányának 25%-a,
 
-ab) ha a külföldi tartózkodás ideje alatt szerzett havi nettó jövedelme (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat) nem haladja meg az állomáshelyre az 5. számú mellékletben meghatározott alapellátmány összegét, a kiküldött devizaellátmányának 12,5%-a;
+ab)[^26] ha a külföldi tartózkodás ideje alatt szerzett havi nettó jövedelme (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat) nem haladja meg az állomáshelyre meghatározott alapellátmány összegét, a kiküldött devizaellátmányának 12,5%-a;
 
 b) gyermek után – a c) pontban foglaltak kivételével – az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány
 
@@ -40,3 +40,4 @@ cb) 20%-a a gyermek 12. életévének betöltését követően.
 [^23]: A 7. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^24]: A 7. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^25]: A 7. § (4) bekezdése a 4/2011. (VI. 7.) HM rendelet 11. §-ával megállapított szöveg.
+[^26]: A 7. § (4) bekezdés a) pont ab) alpontja a 7/2011. (VIII. 18.) HM rendelet 13. §-a szerint módosított szöveg.

@@ -8,9 +8,9 @@ c) a kiküldött családtagi pótlékra jogosító hozzátartozóinak nevét, an
 
 d) a devizaellátmány és a családtagi pótlék megállapított összegét.
 
-(2)[^56] A kiküldött családtagi pótlékra jogosító hozzátartozóinak az (1) bekezdés c) pontja szerinti adatait – függetlenül a hozzátartozók külföldi állomáshelyre történő tényleges kitelepülésének konkrét időpontjától – abban az esetben kell feltüntetni a besorolási határozatban (parancsban), ha a családtagi pótlékra való jogosultság feltételeinek fennállását a kiküldött az előírt igazolások benyújtásával igazolta.
+(2)[^57] A kiküldött családtagi pótlékra jogosító hozzátartozóinak az (1) bekezdés c) pontja szerinti adatait – függetlenül a hozzátartozók külföldi állomáshelyre történő tényleges kitelepülésének konkrét időpontjától – abban az esetben kell feltüntetni a besorolási határozatban (parancsban), ha a családtagi pótlékra való jogosultság feltételeinek fennállását a kiküldött az előírt igazolások benyújtásával igazolta.
 
-(3)[^57] A besorolási határozat (parancs) tervezetének pénzügyi járandóságokra vonatkozó szövegrészét a HM KPH-val előzetesen véleményeztetni (ellenjegyeztetni) kell.
+(3)[^58] A besorolási határozat (parancs) tervezetének pénzügyi járandóságokra vonatkozó szövegrészét a HM KPH-val előzetesen véleményeztetni (ellenjegyeztetni) kell.
 
-[^56]: A 32. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 12. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^57]: A 32. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^57]: A 32. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 12. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^58]: A 32. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
