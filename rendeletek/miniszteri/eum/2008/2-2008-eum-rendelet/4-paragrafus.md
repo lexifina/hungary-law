@@ -1,56 +1,51 @@
-## 4. § Gyógyszertárban – a kézigyógyszertár kivételével – a 3. §-ban meghatározott gyógyszereken túl csak az alábbi termékek tarthatók és forgalmazhatók:
+## 4. §[^11] Gyógyszertárban – a 3. §-ban foglaltakon túl – az alábbi termékek is forgalmazhatók:
 
-a) az OGYI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek;
+1. a GYEMSZI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek,
 
-b)[^1] a Magyar Köztársaság területén gyártott vagy forgalmazott és alkalmazott, az orvostechnikai eszközökről szóló EüM rendelet és az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet szerinti követelményeknek megfelelő
+2. az orvostechnikai eszközökről szóló rendelet szerinti követelményeknek megfelelő orvostechnikai eszközök, valamint az in vitro diagnosztikai eszközökről szóló rendelet szerinti követelményeknek megfelelő in vitro diagnosztikai eszközök a 3. § (5) bekezdésében meghatározott diagnosztikumok kivételével,
 
-ba) sorozatgyártású gyógyászati segédeszközök – külön jogszabályban meghatározott szakképesítés hiányában,
+3. a sorozatgyártású gyógyászati segédeszközök,
 
-bb) a ba) pontban nem szereplő gyógyászati segédeszközök is – a külön jogszabályban meghatározott szakképesítés birtokában,
+4. beteg- és csecsemőápolási, valamint szájápolási cikkek,
 
-bc) sebészeti varróanyagok, kötszerek,
+5. csecsemő- és gyermektápláláshoz szükséges eszközök, csecsemők és kisgyermekek számára készült, feldolgozott gabonaalapú élelmiszerek, bébiételek,
 
-bd) orvosi kéziműszerek, eszközök,
+6. szoptatási kellékek,
 
-be) in vitro diagnosztikumok a radioaktív diagnosztikumok és a 3. § (5) bekezdésében meghatározott diagnosztikumok kivételével;
+7. orvosi, laboratóriumi vizsgálatokhoz szükséges vegyszerek, vegyszeroldatok,
 
-c) az illetékes egészségügyi hatóság által engedélyezett, illetve oda bejelentett
+8. gyógyszernek nem minősülő gyógyhatású anyagok és készítmények,
 
-ca) beteg- és csecsemőápolási cikkek,
+9. fertőtlenítőszerek,
 
-cb) egészségügyi felhasználás céljára alkalmasnak minősített – minőségi tanúsítvánnyal rendelkező – termékek,
+10. palackozott ivóvíz,
 
-cc) orvosi, laboratóriumi vizsgálatokhoz szükséges vegyszerek, vegyszeroldatok,
+11. gyógyvizek,
 
-cd) gyógyszernek nem minősülő gyógyhatású anyagok és készítmények,
+12. gyógynövényteák,
 
-ce) fertőtlenítőszerek,
+13. a Gyógyszerkönyvben szereplő növényi drogok,
 
-cf) a betegségek megelőzésére, az egészségügyi kultúra fejlesztésére alkalmas, a személyes beteg-gyógyszerész kapcsolatot erősítő termékek;
+14. az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet hatálya alá tartozó termékek,
 
-d) gyógy- és ásványvizek;
+15. anyatej-helyettesítő, anyatej-kiegészítő tápszerek,
 
-e) palackozott ivóvíz;
+16. vitamin és ásványi anyag tartalmú, valamint felsőlégúti tünetek esetén ajánlott gyógycukorka,
 
-f) teák, gyógyteák;
+17. intim higiénés termékek,
 
-g) külön jogszabályban meghatározottak szerinti engedéllyel forgalomba hozatalra engedélyezett állatgyógyászati készítmények és premixek;
+18. magas vitamintartalmú zöldség- és gyümölcslevek,
 
-h) rovarcsípés megelőzésére és kezelésére szolgáló, forgalomba hozatali engedéllyel rendelkező külsőleges készítmények;
+19. külön jogszabályban meghatározottak szerinti engedéllyel forgalomba hozatalra engedélyezett állatgyógyászati készítmények és premixek,
 
-i) a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről és közegészségügyi ellenőrzéséről szóló 40/2001. (XI. 23.) EüM rendelet 1. számú mellékletében felsorolt kozmetikai főcsoportba tartozó készítmények;
+20. emberen élősködő rovarok irtására, rovarcsípés megelőzésére és kezelésére szolgáló, forgalomba hozatali engedéllyel rendelkező külsőleges készítmények,
 
-j) az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet hatálya alá tartozó termékek;
+21. a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről és közegészségügyi ellenőrzéséről szóló 40/2001. (XI. 23.) EüM rendelet 1. számú mellékletében felsorolt készítmények a parfümök, toalettvizek, kölnik, a hajkezelő és hajápoló termékek főcsoportban a színezők, festékek, világosítók, hullámosítók, kiegyenesítők, fixálók, tartós hullámhoz használandó termékek, fodrászati termékek (lotion, lakk, brillantin) kivételével,
 
-k)[^2] nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák, az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH), illetve a Nemzeti Egészségvédelmi Intézet által egészségügyi témájúnak minősített kiadványok;
+22. kontaktlencse tárolásához és tisztításához szükséges oldatok, folyadékok, edények,
 
-l) közegészségügyi vizsgálati tartályok;
+23. nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák,
 
-m) tápszerek;
+24. közegészségügyi vizsgálati tartályok.
 
-n) kontaktlencse tárolásához és tisztításához szükséges oldatok, folyadékok, edények;
-
-o) olvasó- és tartalékszemüvegek, napszemüvegek.
-
-[^1]: A 4. § b) pontja a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének a) pontja szerint módosított szöveg.
-[^2]: A 4. § k) pontja a 10/2011. (III. 30.) NEFMI rendelet 63. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 4. § a 41/2011. (VII. 5.) NEFMI rendelet 32. §-ával megállapított szöveg.
