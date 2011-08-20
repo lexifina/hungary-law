@@ -1,1 +1,0 @@
-## „(10) A rendelt mennyiséget úgy kell meghatározni, hogy az adagolási egységre számítva megegyezzen valamelyik forgalomba hozatalra engedélyezett csomagolási egységben lévő adagok számával vagy a legkisebb csomagolási egységben lévő adagoknak egész számú többszöröse legyen.”

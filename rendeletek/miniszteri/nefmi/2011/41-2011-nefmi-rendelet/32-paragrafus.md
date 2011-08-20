@@ -1,1 +1,0 @@
-## „(4) Kézigyógyszertárban az (1) bekezdés a) pontja és a 4. § 1. pontja szerinti, továbbá az (1) bekezdés e) pontja szerinti gyógyszerek felhasználásra kész kiszerelésben, valamint az (1) bekezdés g) pontja szerinti tápszerek forgalmazhatók.”
