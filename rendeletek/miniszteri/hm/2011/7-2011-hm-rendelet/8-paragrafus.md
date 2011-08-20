@@ -1,1 +1,0 @@
-## „(10) Ha a személyi állomány – a 29. § (1) bekezdés hatálya alá nem tartozó – tagja albérleti- (lízing-) díj hozzájárulásban részesül, a 28. § (5) bekezdése alapján hazautazás címén munkába járási költségtérítésben nem részesülhet.”
