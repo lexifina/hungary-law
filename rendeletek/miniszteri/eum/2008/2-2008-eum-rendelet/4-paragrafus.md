@@ -28,7 +28,7 @@
 
 14. az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet hatálya alá tartozó termékek,
 
-15. anyatej-helyettesítő, anyatej-kiegészítő tápszerek,
+15.[^12] anyatej-helyettesítő, anyatej-kiegészítő tápszerek, valamint a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. (V. 9.) ESZCSM rendelet 2. § (2) bekezdés c) pontja szerinti tápszerek,
 
 16. vitamin és ásványi anyag tartalmú, valamint felsőlégúti tünetek esetén ajánlott gyógycukorka,
 
@@ -49,3 +49,4 @@
 24. közegészségügyi vizsgálati tartályok.
 
 [^11]: A 4. § a 41/2011. (VII. 5.) NEFMI rendelet 32. §-ával megállapított szöveg.
+[^12]: A 4. § 15. pontja a 48/2011. (VII. 27.) NEFMI rendelet 5. §-ával megállapított szöveg.
