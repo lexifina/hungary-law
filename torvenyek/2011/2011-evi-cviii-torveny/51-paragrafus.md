@@ -1,0 +1,5 @@
+51. § (1) Az ajánlatkérő több szakaszból álló eljárásban a dokumentáció tekintetében az 50. § (1) bekezdés szerinti adatokat a részvételi felhívásban csak akkor köteles megadni, ha a dokumentációt már a részvételi szakaszban rendelkezésre bocsátja.
+
+(2) Ha az ajánlatkérő a dokumentációt az eljárás részvételi szakaszában még nem bocsátotta rendelkezésre, az ajánlattételi felhívás megküldésével egyidejűleg küldi meg az ajánlattételre felhívott gazdasági szereplőknek a dokumentációt vagy az ajánlattételi felhívásban megjelöli azt az elérési lehetőséget, amelyen a dokumentációt teljes terjedelmében közvetlenül elektronikus úton hozzáférhetővé tette.
+
+(3) Ha a dokumentáció vagy ismertető nem az ajánlatkérőnél található vagy más okból indokolt, a (2) bekezdésben foglaltaktól eltérően az ajánlatkérő az ajánlattételi felhívásban megadja a dokumentáció, illetve ismertető átvételének határidejét, annak beszerzési helyét és pénzügyi feltételeit. Ebben az esetben az 50. § (3) bekezdés is alkalmazandó.

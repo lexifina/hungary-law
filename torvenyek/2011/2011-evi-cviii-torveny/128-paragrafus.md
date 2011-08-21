@@ -1,0 +1,13 @@
+## A szerződés teljesítése
+
+128. § (1) A közbeszerzési szerződést a közbeszerzési eljárás alapján nyertes ajánlattevőként szerződő félnek, illetve közösen ajánlatot tevőknek, vagy – ha az ajánlatkérő gazdálkodó szervezet létrehozásának kötelezettségét előírta vagy azt lehetővé tette [27. §] – a nyertes ajánlattevő (ajánlattevők) kizárólagos részesedésével létrehozott gazdálkodó szervezetnek (a továbbiakban: projekttársaság) kell teljesítenie.
+
+(2) Az ajánlattevőként szerződő fél teljesítésében az ajánlatban megjelölt alvállalkozó működhet közre, valamint – a (3) bekezdés szerinti kivétellel – köteles közreműködni az olyan alvállalkozó és szakember, amely a közbeszerzési eljárásban részt vett az ajánlattevő alkalmasságának igazolásában. Az ajánlattevő köteles az ajánlatkérőnek bejelenteni, ha olyan alvállalkozót kíván bevonni a teljesítésbe, amelyet az ajánlatában nem nevezett meg és a bejelentéssel együtt nyilatkoznia kell arról is, hogy az általa igénybe venni kívánt alvállalkozó nem áll az 56. § – valamint, ha a megelőző közbeszerzési eljárásban azt ajánlatkérő előírta, az 57. § – szerinti kizáró okok hatálya alatt.
+
+(3) Az olyan alvállalkozó vagy szakember (a továbbiakban e bekezdésben: alvállalkozó) helyett, aki vagy amely a közbeszerzési eljárásban részt vett az ajánlattevő alkalmasságának igazolásában, csak az ajánlatkérő hozzájárulásával és abban az esetben vehet részt a teljesítésben más alvállalkozó, ha a szerződéskötést követően – a szerződéskötéskor előre nem látható ok következtében – beállott lényeges körülmény, vagy az alvállalkozó bizonyítható hibás teljesítése miatt a szerződés vagy annak egy része nem lenne teljesíthető a megjelölt alvállalkozóval, és ha az ajánlattevő az új alvállalkozóval együtt is megfelel azoknak az alkalmassági követelményeknek, melyeknek az ajánlattevőként szerződő fél a közbeszerzési eljárásban az adott alvállalkozóval együtt felelt meg.
+
+(4) Az alvállalkozó személye nem módosítható olyan esetben, amennyiben egy meghatározott alvállalkozó igénybevétele az érintett szolgáltatás sajátos tulajdonságait figyelembe véve a közbeszerzési eljárásban az ajánlatok értékelésekor [63. § (4) bekezdése] meghatározó körülménynek minősült.
+
+(5) Az (1)–(2) bekezdések szerinti teljesítési kötelezettséget teljesítheti az ajánlattevőként szerződő fél vagy a nem természetes személy alvállalkozó jogutódja, ha ezek valamelyike, mint gazdasági társaság átalakul vagy a szervezet jogutódlással megszűnik.
+
+(6) A teljesítésben részt vevő alvállalkozók nem vehetnek igénybe saját teljesítésük huszonöt százalékát meghaladó mértékben alvállalkozót.

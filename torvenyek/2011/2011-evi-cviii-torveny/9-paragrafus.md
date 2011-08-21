@@ -1,0 +1,55 @@
+## Kivételek
+
+9. § (1) E törvényt nem kell alkalmazni:
+
+a) a minősített adatot, valamint az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre – az uniós értékhatárt elérő értékű beszerzések esetén abban az esetben, ha az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott –, amely megrendelésére az e törvény felhatalmazása alapján megalkotott külön jogszabály szerint kell eljárni;
+
+b) a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, szolgáltatások vagy építési beruházások megrendelésére, amelyek megrendelésére az e törvény felhatalmazása alapján megalkotott külön jogszabály szerint kell eljárni, valamint ha az ilyen tárgyú beszerzés az ország alapvető biztonsági érdekének védelme érdekében – összhangban az Európai Unió Működéséről szóló szerződés 346. cikkével – az e törvény felhatalmazása alapján megalkotott külön jogszabály alkalmazása alól is kivételt képez;
+
+c) nemzetközi szerződés vagy nemzetközi megállapodás alapján meghatározott külön eljárás szerint történő beszerzésre, ha a szerződés vagy a megállapodás csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására vonatkozik, ideértve hadműveleti területre kihelyezésre (áthelyezésre), visszahelyezésre kerülő egységek esetében a kihelyezés (áthelyezés), visszahelyezés megvalósításával összefüggő beszerzéseket is;
+
+d) nemzetközi szerződésben meghatározott külön eljárás alapján történő beszerzésre, ha az Európai Unión kívüli állammal kötött szerződés projekt közös megvalósításával vagy hasznosításával összefüggő beszerzésre vonatkozik;
+
+e) nemzetközi szervezet által meghatározott külön eljárás alapján történő beszerzésre;
+
+f) olyan beszerzésre, amelynek kizárólagos rendeltetése az, hogy lehetővé tegye az ajánlatkérő számára egy vagy több nyilvános elektronikus hírközlési szolgáltatás nyújtását, illetve nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy igénybevételét;
+
+g) a központi beszerző szervezet által közbeszerzési eljárás útján beszerzett áru, szolgáltatás vagy építési beruházás megrendelésére azon szervezetek részéről, amelyek javára a központi beszerző szervezet közbeszerzési szerződést kötött;
+
+h) a 6. § (1) bekezdés a)–f) pontja szerinti ajánlatkérők által odaítélt építési koncesszióra és szolgáltatási koncesszióra, amennyiben a koncesszió célja az ajánlatkérőnek a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása és a 20. § vagy a 121. § (2) bekezdése értelmében e törvény XIV. Fejezete lenne alkalmazandó;
+
+i) ha a szolgáltatási koncesszió a koncessziós törvény hatálya alá tartozik, azzal, hogy a koncessziós törvény szerinti eljárásról az ajánlatkérőnek a Közbeszerzési Hatóságot haladéktalanul írásban tájékoztatnia kell;
+
+j) ha a szolgáltatási koncesszió az autóbusszal végzett menetrend szerinti személyszállításról vagy villamossal végzett helyi közforgalmú vasúti szolgáltatás esetén a vasúti közlekedésről szóló törvények hatálya alá tartozik, azzal, hogy az e törvények szerinti eljárásról az ajánlatkérőnek a Közbeszerzési Hatóságot haladéktalanul írásban tájékoztatnia kell;
+
+k) azokra a megállapodásokra, amelyeket
+
+ka) a 6. § (1) bekezdés a)–d) pontja szerinti ajánlatkérő és az egyedüli tulajdonában lévő gazdálkodó szervezet köt egymással, amely felett az ajánlatkérő – tekintettel a közfeladat, illetve a közszolgáltatás ellátásával vagy ellátásának megszervezésével összefüggő feladatára – az ügyvezetési jellegű feladatok ellátását illetően teljes körű ellenőrzési jogokkal rendelkezik és képes a gazdálkodó szervezet stratégiai céljainak és fontos döntéseinek alapvető befolyásolására, feltéve hogy a szerződéskötést követően a gazdálkodó szervezet adott üzleti évben elért nettó árbevételének legalább 80%-a az egyedüli tag (részvényes) ajánlatkérővel kötendő szerződések teljesítéséből származik,
+
+kb) a 6. § (1) bekezdés a)–d) pontja szerinti ajánlatkérő és olyan gazdálkodó szervezet köt egymással, amelynek részvényei vagy üzletrészei kizárólag ezen ajánlatkérő és más a 6. § (1) bekezdés a)–d) pontja szerinti ajánlatkérő(k) tulajdonában vannak, amely felett az ajánlatkérők – tekintettel a közfeladat, illetve a közszolgáltatás ellátásával vagy ellátásának megszervezésével összefüggő feladatára – az ügyvezetési jellegű feladatok ellátását illetően teljes körű ellenőrzési jogokkal közösen rendelkeznek és képesek a gazdálkodó szervezet stratégiai céljainak és fontos döntéseinek alapvető befolyásolására, feltéve, hogy a szerződéskötést követően a gazdálkodó szervezet adott üzleti évben elért nettó árbevételének legalább 80%-a a tag ajánlatkérőkkel kötendő szerződések teljesítéséből származik;
+
+l) a közoktatásról szóló 1993. évi LXXIX. törvény alapján a helyi önkormányzat kötelező közoktatási feladatának nem állami intézményfenntartó útján történő ellátására, valamint a közoktatási intézmény intézményfenntartói jogának nem állami intézményfenntartónak történő átadására.
+
+(2) Az (1) bekezdés k) pontjában foglaltak irányadóak akkor is, ha az (1) bekezdés k) pontja szerinti gazdálkodó szervezet tulajdonosa az állam; ebben az esetben az (1) bekezdés k) pont szerinti további feltételeknek a tulajdonosi jogokat gyakorló jogalany (miniszter vagy más központi államigazgatási szervet vezető személy esetén az általa vezetett szerv), mint ajánlatkérő vonatkozásában kell fennállniuk.
+
+(3) Az (1) bekezdés k) pontja szerinti szerződések – ha törvény eltérően nem rendelkezik – határozott időre, legfeljebb öt évre köthetők. Az (1) bekezdés k) pontja alkalmazásában a szerződések teljesítéséből származik az azok alapján, harmadik személyek részére teljesített közszolgáltatás ellenértéke is, tekintet nélkül arra, hogy az ellenértéket az ajánlatkérő vagy a közszolgáltatást igénybe vevő személy fizeti meg.
+
+(4) Az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételeknek a szerződés teljes időtartama alatt fenn kell állniuk. Amennyiben az (1) bekezdés ka) és a kb) pontjaiban rögzített feltételek már nem állnak fenn, ajánlatkérő a szerződést olyan határidővel jogosult és köteles felmondani, hogy a közfeladat ellátásáról (közbeszerzési eljárás lefolytatásáról) gondoskodni tudjon.
+
+(5) E törvény szerinti eljárást – ha a közbeszerzés tárgya szolgáltatás megrendelés – nem kell alkalmazni a következő esetekben:
+
+a) meglévő építmény vagy egyéb ingatlan vétele vagy ingatlanra vonatkozó egyéb jognak a megszerzése; kivéve az ilyen szerződéssel összefüggő pénzügyi szolgáltatásra irányuló (bármilyen formában, illetve tartalommal megkötött) szerződést;
+
+b) a 3. melléklet 6. csoportjába tartozó pénzügyi szolgáltatás, amely értékpapírok vagy egyéb pénzügyi eszközök kibocsátása, eladása, vétele vagy átruházása által valósul meg, vagy amely a monetáris, az árfolyam- vagy a tartalékkezelési politika, vagy a központi kormányzat adósságkezelési politikájának megvalósítása érdekében pénz- vagy tőkeszerzésre irányul, továbbá a jegybanki tevékenység;
+
+c) műsorszám (műsoranyag) médiaszolgáltató vagy a Médiaszolgáltatás-támogató és Vagyonkezelő Alap általi vétele, fejlesztése, előállítása vagy közös előállítása, valamint a műsoridőre vonatkozó szerződés;
+
+d) választottbírósági, közvetítői, békéltetési tevékenység;
+
+e) munkaszerződés, közszolgálati, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya;
+
+f) kutatási és fejlesztési szolgáltatás; kivéve, ha annak eredményét kizárólag az ajánlatkérő hasznosítja tevékenységi körében, és az ellenszolgáltatást teljes mértékben az ajánlatkérő teljesíti;
+
+g) ha a szolgáltatást a 6. § (1) bekezdés a)–c) pontjaiban meghatározott ajánlatkérők valamelyike vagy általuk létrehozott társulás jogszabály alapján fennálló kizárólagos jog alapján nyújtja;
+
+h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását.
