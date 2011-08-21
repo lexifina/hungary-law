@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-129-00-00
 | 2011-04-15 | 2011. évi XXIX. törvény | 2003-129-00-00.48 |
 | 2011-06-25 | 2011. évi LXXI. törvény | 2003-129-00-00.49 |
 | 2011-08-01 | 2011. évi CV. törvény | 2003-129-00-00.50 |
+| 2011-08-21 | 2011. évi CVIII. törvény | 2003-129-00-00.51 |

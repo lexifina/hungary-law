@@ -4,7 +4,7 @@
 
 a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
 
-b) a védelem terén az ország alapvető biztonsági érdekeit érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, illetőleg szolgáltatások megrendelésére, összhangban az Európai Közösséget létrehozó szerződés 296. cikkével;
+b) a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, szolgáltatások vagy építési beruházások megrendelésére, amelyek megrendelésére az e törvény alapján kiadott külön jogszabály szerint kell eljárni, valamint ha az ilyen tárgyú beszerzés az ország alapvető biztonsági érdekének védelme érdekében – összhangban az Európai Unió Működéséről szóló szerződés 346. cikkével – az e törvény alapján kiadott külön jogszabály alkalmazása alól is kivételt képez;
 
 c) nemzetközi szerződésben, illetőleg nemzetközi egyetértési vagy együttműködési megállapodásban meghatározott külön eljárás alapján történő beszerzésre, ha a szerződés, illetőleg a megállapodás csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására vonatkozik, ideértve hadműveleti területre kihelyezésre (áthelyezésre) kerülő egységek esetében a kihelyezés (áthelyezés) megvalósításával összefüggő beszerzéseket is;
 

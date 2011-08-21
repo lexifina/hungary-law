@@ -18,7 +18,7 @@ g) a gyógyszerek és a gyógyászati segédeszközök közbeszerzésének – e
 
 h) a minősített adatot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
 
-i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokat;
+i) a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, szolgáltatások megrendelésére, valamint építési beruházásokra vonatkozó sajátos szabályokat;
 
 j) a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályokat;
 

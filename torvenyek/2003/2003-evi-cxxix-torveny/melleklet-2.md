@@ -299,7 +299,3 @@ kivéve:
 ex 8701: traktorok
 
 ex 8702: harci járművek
-
-ex 8703: roncsszállító kocsik
-
-ex 8709: motorkerékpárok
