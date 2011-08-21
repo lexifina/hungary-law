@@ -28,6 +28,8 @@ I/A.
 
 – fényképe
 
+– önéletrajza
+
 I/B.
 
 – eltartott gyermeke(i)
