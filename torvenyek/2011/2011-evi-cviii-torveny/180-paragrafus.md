@@ -10,6 +10,4 @@
 
 (3)–(6)
 
-(7) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 3. számú melléklet I/A. pontja a következő francia bekezdéssel egészül ki:
-
-„– önéletrajza”
+(7)
