@@ -1,0 +1,154 @@
+# A Kormány 166/2011. (VIII. 24.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 98. szám, 2011. augusztus 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b0bec344d6254f9843c26ff91efc01828590c32e/dokumentumok/0463f94e3b32a3e20100037c8ed27d7e85cba71f/letoltes)
+
+---
+
+A Kormány 166/2011. (VIII. 24.) Korm. rendelete
+a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia,
+valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló
+389/2007. (XII. 23.) Korm. rendelet módosításáról
+A Kormánya villamosenergiárólszóló2007. évi LXXXVI. törvény 170. § (1) bekezdés7., 24–26. és 29. pontjábankapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan
+termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet
+(a továbbiakban: R.) 1. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A rendelet alkalmazási köre kiterjed továbbá a kötelező átvételi rendszerben értékesített, kapcsoltan termelt
+villamosenergiaeredetigazolására,elszámolására,ellenőrzésére,valaminta jogosulatlanértékesítésesetébentörténő
+visszatérítésre.”
+(2) Az R. 9. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Ha a Hivatal ellenőrzése során megállapítja a megfelelő eredetigazolás hiányát, vagy azt, hogy az adott éves termelési
+időszakban,vagyazezenidőszakvége ótaelteltidőszakban,vagyadottidőpontbanazÉrtékesítő,vagyazáltalae rendelet
+hatálya alatt értékesített villamos energia (vagy annak egy része) nem felelt meg a jogszabályi feltételeknek, akkor
+határozatában]
+„b) a (2)–(3) bekezdésben foglaltakra – kapcsoltan termelt villamos energia esetében kizárólag az értékesítés
+időpontjában hatályos jogszabályokra – figyelemmel megállapítja a Befogadó részére fizetendő visszatérítés pontos
+összegét, valamint a visszatérítés időbeli ütemezését a teljesítésre (részteljesítésre) nyitva álló határidő
+megállapításával,”
+(3) Az R. 11/B. §-a helyébe a következő rendelkezés lép:
+„11/B. § (1) A Hivatal ellenőrzi, hogy a kapcsoltan termelt villamos energia kötelező átvétele, az eredetigazolás
+kiállítása, valamint a kapcsoltan termelt villamos energia elszámolása megfelel-e a jogszabályban foglalt
+követelményeknek.
+(2) A kötelező átvétel mérlegkörében 2011. július 1-jét megelőzően értékesített, kapcsoltan termelt villamos energia
+elszámolására az értékesítés időpontjában hatályos rendelkezések alapján kerül sor.”
+(4) Az R. 3. számú melléklete az 1. melléklet szerint módosul.
+(5) Az R. 4. számú melléklete a 2. melléklet szerint módosul.
+(6) Az R. 9. számú melléklete a 3. melléklet szerint módosul.
+2. § Az R.
+a) 1. § (5) bekezdésében a „szélerőműparkban” szövegrész helyébe a „szélerőműparkban (a továbbiakban együtt:
+szélerőmű)” szöveg,
+b) 6. § (4) bekezdés a) pontjában a „megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos
+energia esetén az erőműegység 15 éves, kapcsoltan termelt villamos energia esetén az erőműegység 10 éves”
+szövegrész helyébe az „az erőműegység 15 éves” szöveg,
+c) 7. § (7a) bekezdésében a „ , hulladékból nyert energiával termelt villamos energia termelője és földgáztüzelésű
+erőmű” szövegrész helyébe a „vagy hulladékból nyert energiával termelt villamos energia termelője” szöveg,
+d) 8. § (3) bekezdésében a „nem kíván a kötelező átvételi rendszerben értékesíteni” szövegrész helyébe „nem
+értékesít a kötelező átvételi rendszerben” szöveg,
+e) 9. § (3) bekezdésében a „villamosenergia-értékesítés során a” szövegrész helyébe a „villamosenergia-értékesítés
+során a kötelező átvétel keretében történő,” szöveg,
+f) 8. számú melléklet 2. pontjában a „389/2007. (XII. 23.) Korm. rendelet 4–5. §-ának” szövegrész helyébe a „4. §”
+szöveg,
+g) 8. számú melléklet 2. pontjában a „mellékletének” szövegrész helyébe a „melléklet” szöveg lép.
+3. § Hatályát veszti az R.
+1. 1. § (1) bekezdés c) pontja,
+2. 1. § (4) bekezdése,
+3. 2. § (1) bekezdés a) pontjában a „ , valamint a kapcsoltan termelt villamos energia” szövegrész,
+
+4. 2. § (1) bekezdés e) pontjában a „ , valamint a kapcsoltan termelt villamos energia” szövegrész,
+5. 2. § (1) bekezdés k) pontja,
+6. 2. § (1) bekezdés n) pontjában az „ , és a telephely teljes villamosenergia-fogyasztásában nem kell figyelembe
+venni a kapcsoltan termelt hő felhasználókhoz történő elszállítására jutó villamosenergia-fogyasztást”
+szövegrész,
+7. 3. § (3) bekezdésében az „és 2.”, valamint az „és 6.” szövegrész,
+8. 3. § (4) bekezdése,
+9. 3. § (17) bekezdésében az „és kereskedőkre való szétosztása” szövegrész,
+10. 3. § (18) bekezdésében az „és hőtermelésre” szövegrész,
+11. 5. §-a és az azt megelőző alcíme,
+12. 6. § (1) bekezdésében az „ , a kapcsoltan termelt villamos energiát” szövegrész,
+13. 6. § (4) bekezdés b) pontjában a „megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos
+energia esetén” szövegrész,
+14. 6. § (12) és (13) bekezdése,
+15. 7. § (9) bekezdés b) pontja,
+16. 9. § (2) bekezdés a) pontjában a „ , továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. §
+(1)–(2) és (4) bekezdés alapján alkalmazott árak és 5. § (3) bekezdése alapján alkalmazott árak” szövegrész,
+17. 9. § (2) bekezdés b) pontjában a „ , továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. §
+(3) és (6) bekezdése alapján alkalmazott árak” szövegrész,
+18. 9. § (5) bekezdés a) pontjában a „ , továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. §
+(1)–(2) és (4) bekezdés alapján alkalmazott árak és az 5. § (3) bekezdése alapján alkalmazott árak” szövegrész,
+19. 9. § (5) bekezdés b) pontjában a „ , továbbá kapcsoltan termelt villamos energia esetén az általa kapott, az 5. §
+(3) és (6) bekezdése alapján alkalmazott árak” szövegrész,
+20. 9/A. § (1) bekezdés g) pontjában a „– különösen a villamos energiára, földgázellátásra, távhőszolgáltatásra és
+bányászatra vonatkozó ágazati vagy környezetvédelmi –” szövegrész,
+21. 11. § (1) bekezdésében az „és az 1. § (4) bekezdés a)–b) pontja” szövegrész,
+22. 11. § (5)–(9) bekezdése,
+23. 11. § (11) és (14) bekezdése,
+24. 2. számú melléklete,
+25. 4. számú melléklet II. pont 1. alpontjában az „– a 4. pont szerinti eltéréssel –” szövegrész,
+26. 6. számú melléklete,
+27. 8. számú melléklet 2. pontjában a „vagy 2.” szövegrész.
+4. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 166/2011. (VIII. 24.) Korm. rendelethez
+Az R. 3. számú melléklet 1. pontja helyébe a következő rendelkezés lép:
+„1. A napszakok időtartamának meghatározása során alkalmazott erőműegység-csoportosítás.
+A B
+1 Erőműegység
+csoport száma
+Érintett elosztási terület
+2 1. E.ON Dél-dunántúli Áramhálózati Zrt.,
+ÉMÁSZ Hálózati Kft.
+3 2. E.ON Észak-dunántúli Áramhálózati Zrt.,
+EDF DÉMÁSZ Hálózati Elosztó Kft.
+4 3. ELMŰ Hálózati Elosztó Kft.,
+E.ON Tiszántúli Áramhálózati Zrt.
+”
+
+2. melléklet a 166/2011. (VIII. 24.) Korm. rendelethez
+1. Az R. 4. számú melléklet I. pont 1–3. alpontja helyébe a következő rendelkezések lépnek:
+„1. A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban
+végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott
+villamosenergia-mennyiségenalapulószámla,a Befogadó és a VET 13. § (1) bekezdése szerint az átvételi kötelezettség
+alá eső villamos energia átvételére kötelezett viszonylatában a külön jogszabály szerint meghatározott menetrend
+szerinti villamosenergia-mennyiségen alapuló számla, továbbá a szabályozási pótdíj és a módosítási pótdíj esetében
+számviteli bizonylat alapján történnek.
+2. A jogosult köteles számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett
+a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően
+kézhez vehesse.
+3. A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli
+bizonylat kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A számlára, számviteli
+bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.”
+2. Az R. 4. számú melléklet II. pont 7. alpontja helyébe a következő rendelkezés lép:
+„7. Az Értékesítő a havi számlát telephelyenként, telephelyen belül erőműegységenként, az erőműegységen belül
+termelési eljárásonként megbontva köteles kiállítani.”
+3. Az R. 4. számú melléklet II. pontja a következő 9. és 10. alponttal egészül ki:
+„9. A Befogadó az Értékesítő részére havonta egy számviteli bizonylatot állít ki a szabályozási pótdíjról és egyet
+a módosítási pótdíjról.
+10. Ha a számviteli bizonylat vonatkozásában az Értékesítő az esedékesség napjáig az ellenértéket nem fizeti meg,
+akkor a Befogadó a nem vitatott ellenértéket és az I. Általános szabályok 4. pontja szerinti – számviteli bizonylat
+esedékességének napjától a beszámítás napjáig terjedő időszakra meghatározott – késedelmi kamatot az 1. pont
+szerinti, következő számla értékébe beszámítja.”
+3. melléklet a 166/2011. (VIII. 24.) Korm. rendelethez
+1. Az R. 9. számú melléklet 1. pontja helyébe a következő rendelkezés lép:
+„1.
+1.1. Értékesítő neve, címe.
+1.2. Erőműegység megnevezése, telephelye.
+1.3. Időszak (év, hónap).
+1.4. Berendezés jellege (szélerőmű, vízerőmű, gázmotor, gázturbina, gőzturbina stb.).
+1.5. Üzembe helyezés időpontja (év, hónap, nap).
+1.6. Névleges teljesítőképesség:
+1.6.1. hő (MW),
+1.6.2. villamos energia (MW).
+1.7. Névleges energetikai hatásfok (%).
+1.8. A legutolsó eredetigazolás dátuma, a kiállító szervezet megnevezése.”
+2. Az R. 9. számú melléklet 4. pontja helyébe a következő rendelkezés lép:
+„4.
+4.1. A kötelező átvételi rendszerben megújuló energiaforrásból termelt villamosenergia-értékesítés mennyisége
+(MWh) és árbevétele (forint), napszakonként és összesen.
+4.2. A kötelező átvételi rendszerben hulladékból nyert energiával termelt villamosenergia-értékesítés mennyisége
+(MWh) és árbevétele (forint), napszakonként és összesen.
+4.3. A kötelező átvételi rendszeren kívüli villamosenergia-értékesítés mennyisége (MWh) és árbevétele (forint),
+napszakonként és összesen.
+4.4. Hőenergia értékesítés mennyisége (GJ) és árbevétele (forint).
+4.5. Vásárolt villamos energia (MWh).
+4.6. Elért energetikai hatásfok (%).”
