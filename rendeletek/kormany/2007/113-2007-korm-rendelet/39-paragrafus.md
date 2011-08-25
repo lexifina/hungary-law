@@ -24,11 +24,11 @@ i)[^56] az EGT-állampolgár vagy családtag a tartózkodásra jogosító okmán
 
 (3) Érvénytelen a regisztrációs igazolás és a tartózkodási kártya, ha jogosultja részére állandó tartózkodási jogot igazoló okmány kerül kiállításra.
 
-(4)[^57] Az okmányt kiállító hatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e) és f) pontjában meghatározott esetek kivételével – visszavonja. A visszavonásról az érvénytelenséget megállapító határozatban rendelkezik.
+(4)[^57] Az okmányt kiállító hatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e), f) és i) pontjában meghatározott esetek kivételével – visszavonja. A visszavonásról az érvénytelenséget megállapító határozatban rendelkezik.
 
 (5) Az okmányt visszavonó regionális igazgatóság gondoskodik az okmány érvénytelenítéséről, valamint a visszavonás tényének, okának és időpontjának a Tv. 75. § (1) bekezdésében meghatározott megfelelő résznyilvántartásba történő bejegyzéséről, továbbá a (2) bekezdés a)–c) pontjában meghatározott esetekben az új okmány kiadásáról.
 
 [^54]: A 39. § (2) bekezdés g) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^55]: A 39. § (2) bekezdés h) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^56]: A 39. § (2) bekezdés i) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^57]: A 39. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^57]: A 39. § (4) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
