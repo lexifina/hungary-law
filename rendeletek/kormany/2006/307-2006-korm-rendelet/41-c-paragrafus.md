@@ -1,4 +1,4 @@
-41/C. §[^75] (1)[^76] A Kormány a fővárosi és megyei kormányhivatalt jelöli ki a közoktatási feladatkörében eljáró oktatási hivatalként a Kt.-ben meghatározott, alábbi első fokú hatósági döntéseinek meghozatalához
+41/C. §[^77] (1)[^78] A Kormány a fővárosi és megyei kormányhivatalt jelöli ki a közoktatási feladatkörében eljáró oktatási hivatalként a Kt.-ben meghatározott, alábbi első fokú hatósági döntéseinek meghozatalához
 
 a) az óvodai felvétel, a tanulói jogviszony, a kollégiumi tagsági viszony létrejöttének egyenlő bánásmód követelményeinek megsértése miatti, Kt. 95/C. § (1) bekezdése szerinti megállapítása;
 
@@ -20,11 +20,11 @@ b) a szomszédos államokban élő magyar pedagógusok és oktatók pedagógus- 
 
 c) a nyugdíjas pedagógusok pedagógus igazolványával kapcsolatos jogszabályban meghatározott feladatokat.
 
-(3)[^77] A fővárosi és megyei kormányhivatal másodfokú döntést hoz – a fővárosi és megyei kormányhivatal által működtetett érettségi vizsgabizottság kivételével – az érettségi vizsga vizsgabizottságának, és a szakmai vizsga vizsgabizottságának döntése, intézkedése vagy intézkedésének elmulasztása ellen benyújtott törvényességi kérelem tárgyában a Kt. 84. § (5) bekezdésében, a szakmai vizsga esetén az Szt. 14. § (6) bekezdésében meghatározott eljárás keretében.
+(3)[^79] A fővárosi és megyei kormányhivatal másodfokú döntést hoz – a fővárosi és megyei kormányhivatal által működtetett érettségi vizsgabizottság kivételével – az érettségi vizsga vizsgabizottságának, és a szakmai vizsga vizsgabizottságának döntése, intézkedése vagy intézkedésének elmulasztása ellen benyújtott törvényességi kérelem tárgyában a Kt. 84. § (5) bekezdésében, a szakmai vizsga esetén az Szt. 14. § (6) bekezdésében meghatározott eljárás keretében.
 
-(4)[^78] A Hivatal és jogelődje mellett működött érettségi vizsgabizottságok érettségi vizsgaszabályzatban meghatározott iratainak kezelésében vizsgabizottságot működtető intézményként a fővárosi és megyei kormányhivatal jár el.
+(4)[^80] A Hivatal és jogelődje mellett működött érettségi vizsgabizottságok érettségi vizsgaszabályzatban meghatározott iratainak kezelésében vizsgabizottságot működtető intézményként a fővárosi és megyei kormányhivatal jár el.
 
-[^75]: A 41/C. §-t a 325/2010. (XII. 27.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
-[^76]: A 41/C. § (1) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^77]: Alkalmazására lásd a 325/2010. (XII. 27.) Korm. rendelet 11. §-át.
-[^78]: A 41/C. § (4) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^77]: A 41/C. §-t a 325/2010. (XII. 27.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^78]: A 41/C. § (1) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^79]: Alkalmazására lásd a 325/2010. (XII. 27.) Korm. rendelet 11. §-át.
+[^80]: A 41/C. § (4) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 7. § (5) bekezdése iktatta be.

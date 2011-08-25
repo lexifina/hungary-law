@@ -1,6 +1,6 @@
-12. § (1)[^39] A Hivatal tevékenysége során együttműködik a közoktatási intézményekkel, a szakmai szervezetekkel, a fenntartókkal, a felsőoktatási intézményekkel, az országos kisebbségi önkormányzatokkal, és segítséget nyújt tevékenységükhöz.
+12. § (1)[^41] A Hivatal tevékenysége során együttműködik a közoktatási intézményekkel, a szakmai szervezetekkel, a fenntartókkal, a felsőoktatási intézményekkel, az országos kisebbségi önkormányzatokkal, és segítséget nyújt tevékenységükhöz.
 
-(2)[^40] A Hivatal pedagógiai szolgáltató tevékenységét közvetve, az általa meghatározott szolgáltató szervezet útján látja el. E szolgáltató feladatok különösen
+(2)[^42] A Hivatal pedagógiai szolgáltató tevékenységét közvetve, az általa meghatározott szolgáltató szervezet útján látja el. E szolgáltató feladatok különösen
 
 a) mérés, értékelés szervezése;
 
@@ -10,8 +10,8 @@ c) képzés és továbbképzés szervezése a szakértői és vizsgáztatási te
 
 d) kiadványok készítése és megjelentetése.
 
-(3)[^41] A Hivatal szakmai és módszertani segítséget nyújt a közoktatást érintő törvényességi ellenőrzés feladataiban.
+(3)[^43] A Hivatal szakmai és módszertani segítséget nyújt a közoktatást érintő törvényességi ellenőrzés feladataiban.
 
-[^39]: A 12. § (1) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^40]: A 12. § (2) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^41]: A 12. § (3) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^41]: A 12. § (1) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^42]: A 12. § (2) bekezdés bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^43]: A 12. § (3) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 3. pontja szerint módosított szöveg.
