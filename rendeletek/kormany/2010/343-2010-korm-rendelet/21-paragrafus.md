@@ -8,4 +8,6 @@
 
 ## „b) a bioüzemanyag használatából eredő üvegházhatású gázkibocsátás elkerülés mértéke legalább 50%.”
 
-(2) A 2. § a következő (5) bekezdéssel egészül ki:
+(2)[^39]
+
+[^39]: A 21. § (2) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 15. § (4) bekezdése alapján nem lép hatályba.

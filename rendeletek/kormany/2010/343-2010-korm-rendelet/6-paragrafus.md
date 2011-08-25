@@ -2,7 +2,7 @@
 
 6. § (1) Az üzemanyag-forgalmazó által előállított, beszerzett, raktározott, szállított, forgalmazott tiszta vagy üzemanyagba bekevert bioüzemanyagok mennyiségének igazolásához szükséges okmányok:
 
-a) a bioüzemanyag alapanyagának fajtájáról, és bioetanol esetében a biomassza Európai Unióban történő termeléséről a bioüzemanyag, illetve a bioüzemanyag-tartalmú üzemanyag gyártójának nyilatkozata,
+a)[^19] a bioüzemanyag alapanyagának fajtájáról, és az E85 előállításához felhasznált bioetanol esetében a biomassza Európai Unióban történő termeléséről a bioüzemanyag, illetve a bioüzemanyag-tartalmú üzemanyag gyártójának nyilatkozata,
 
 b) a bioüzemanyag, illetve a bioüzemanyag-tartalmú üzemanyag gyártója által kiállított fenntarthatósági igazolás,
 
@@ -17,3 +17,8 @@ c) az üzemanyag gyártmánylapja, az üzemanyag minőségi bizonyítványa, vag
 (5) Ha a motorbenzin előállítója a motorbenzinbe bioetanolt, bio-ETBE-t, bio-TAEE-t kever, nyilvántartásaiban, bizonylatain és jelentésében ezek mennyiségét összevontan, bioetanol-egyenértékben is megadhatja. A bioetanol-egyenérték meghatározásához a bio-ETBE literben meghatározott mennyiségének 47%-a, a bio-TAEE literben meghatározott mennyiségének 40%-a vehető figyelembe.
 
 (6) A vámhatóság az üzemanyag-forgalmazók által a Büat. 6. § (2) bekezdése alapján tett jelentésekből készített összesített adatokról tájékoztatja az energiapolitikáért felelős minisztert.
+
+(7)[^20] A kiskereskedelmi üzemanyag-forgalmazó minden év január 15-ig köteles a tárgyév január 1-én fennálló állapotnak megfelelően az e célra rendszeresített formanyomtatványon adatot szolgáltatni a közlekedési hatóság részére az általa üzemeltetett töltőállomások számáról, valamint azon töltőállomások számáról, amelyeken E85-öt, illetve olyan üzemanyagot forgalmaz, amelynek a bioüzemanyag-részaránya meghaladja a 10 térfogatszázalékot.
+
+[^19]: A 6. § (1) bekezdés a) pontja a 167/2011. (VIII. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: A 6. § (7) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.

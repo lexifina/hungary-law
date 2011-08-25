@@ -18,7 +18,7 @@ g) a kiállított fenntarthatósági igazolások adatait.
 
 (2) Az üzemanyag-forgalmazó nyilvántartást vezet a Büat. 6. § (2) bekezdése szerinti jelentés alapjául szolgáló, a 4. mellékletben meghatározott adatokról.
 
-(3) A megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/28/EK irányelv) 18. cikkének (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel a (2) bekezdésben foglaltaknak.
+(3)[^21] A 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel az (1)–(2) bekezdésben foglaltaknak.
 
 (4) A nyilvántartás adatait számításokkal, bizonylatokkal és hitelesített mérőeszközök alkalmazásával nyert adatokkal kell igazolni, az alábbiak szerint:
 
@@ -36,4 +36,7 @@ f) a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével 
 
 g) a kiállított fenntarthatósági igazolások másolatával.
 
-(5) A (4) bekezdés szerinti dokumentumokat öt évig kell megőrizni.
+(5)[^22] A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.
+
+[^21]: A 7. § (3) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (5) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

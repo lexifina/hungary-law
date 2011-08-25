@@ -14,23 +14,33 @@
 
 4. a telephelyek címét,
 
-5. biomassza feldolgozó esetében
+5.[^23] biomassza feldolgozó esetében:
 
 a) az alkalmazott technológia szöveges leírását,
 
-b) a végtermék, a melléktermék és a hulladék KN-kódját, valamint
+b) a végtermék, a melléktermék és a hulladék KN-kódját,
 
 c) az alapanyag, az egyéb felhasznált anyag, a végtermék, a melléktermék, a hulladék közötti számszerű összefüggést leíró technológiai együtthatókat,
 
-6. a biomassza és köztes termékek KN-kódját,
+d) a biomassza és köztes termékek KN-kódját,
 
-7. a köztes terméket vagy a bioüzemanyagot előállító üzem maximális éves kapacitását végtermék szerinti bontásban,
+e) a köztes terméket vagy a bioüzemanyagot előállító üzem maximális éves kapacitását végtermék szerinti bontásban,
 
-8. a gyártáshoz kapcsolódóan annak meghatározását, hogy a kibocsátási komponensek meghatározása alapértelmezett vagy tényleges érték alapján történik-e,
+f) a gyártáshoz kapcsolódóan annak meghatározását, hogy a kibocsátási komponensek meghatározása alapértelmezett vagy tényleges érték alapján történik-e,
 
-9. alapértékek alkalmazása esetén azok értéket,
+g) alapértékek alkalmazása esetén azok értékét,
 
-10. tényleges érték alkalmazása esetén – biomassza feldolgozó esetében – a gyártáshoz kapcsolódó kibocsátási komponensek értékeit.
+h) tényleges érték alkalmazása esetén a gyártáshoz kapcsolódó kibocsátási komponensek értékeit,
+
+6.[^24] a kérelmező nyilatkozatát a 7. § (1) és (2) bekezdésében előírt nyilvántartás vezetésének módjáról, elektronikus nyilvántartás esetében az adatvesztés, utólagos adatmódosítás megakadályozására tett intézkedésekről.
+
+7.[^25]
+
+8.[^26]
+
+9.[^27]
+
+10.[^28]
 
 (4) A (2) bekezdés szerinti nyomtatványnak lehetővé kell tennie, hogy a kérelmező nyilatkozzon arról, hozzájárul-e a személyes adatainak a BÜHG nyilvántartásban történő kezeléséhez, valamint nevének a (9) bekezdés szerinti közzétételéhez.
 
@@ -43,3 +53,10 @@ c) az alapanyag, az egyéb felhasznált anyag, a végtermék, a melléktermék, 
 (8) Ha a (7) bekezdés szerinti nyilvántartási idő lejártát megelőző 15 napon belül a nyilvántartott kéri, a mezőgazdasági igazgatási szerv a nyilvántartásba vételt egy évvel meghosszabbítja, ha a nyilvántartott továbbra is megfelel a nyilvántartásba vétel feltételeinek.
 
 (9) A mezőgazdasági igazgatási szerv honlapján közzéteszi a BÜHG nyilvántartásba vett személy regisztrációs számát, valamint – ha ehhez a nyilvántartásba vett személy a (2) bekezdés szerinti formanyomtatványon hozzájárult – annak nevét.
+
+[^23]: A 8. § (3) bekezdés 5. pontja a 167/2011. (VIII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^24]: A 8. § (3) bekezdés 6. pontja a 167/2011. (VIII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 8. § (3) bekezdés 7. pontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
+[^26]: A 8. § (3) bekezdés 8. pontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
+[^27]: A 8. § (3) bekezdés 9. pontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
+[^28]: A 8. § (3) bekezdés 10. pontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.

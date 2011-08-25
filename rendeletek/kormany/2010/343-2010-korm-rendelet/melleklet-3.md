@@ -30,7 +30,7 @@
 
 ## II. Nem termesztett biomassza esetén a biomassza igazolás tartalmazza a következő adatokat:
 
-## 1. az igazolás kiállítójának adatai, regisztrációs száma;
+## 1.[^42] az igazolás kiállítójának adatai, a használt sütőolaj kivételével az igazolás kiállítójának regisztrációs száma;
 
 ## 2. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetén regisztrációs száma;
 
@@ -38,10 +38,14 @@
 
 ## 4. a biomassza mennyisége tonnában két tizedes jegyig kifejezve;
 
-## 5. nyilatkozat arról, hogy a szállításra vonatkozó kibocsátási komponens megállapítása alapértelmezett, vagy tényleges értéken történt;
+## 5.[^43]
 
-## 6. ha a szállításra vonatkozó kibocsátási komponens megállapítása nem alapértelmezett értéken történik, akkor az egy tonna terményre vetített, begyűjtés, beszállítás, előzetes tisztítás, szűrés, szárítás során keletkező ÜHG kibocsátás mértéke;
+## 6.[^44]
 
 ## 7. a biomassza forrására, a begyűjtés helyére vonatkozó adatok.
 
 3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
+
+[^42]: A 2. melléklet II. pont 1. alpontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^43]: A 2. melléklet II. pont. 5. alpontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
+[^44]: A 2. melléklet II. pont. 6. alpontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
