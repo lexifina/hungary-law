@@ -1,6 +1,6 @@
-## A biometrikus adatkezelés szabályai[^210]
+## A biometrikus adatkezelés szabályai[^225]
 
-181/B. §[^211] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+181/B. §[^226] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
 (2) A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, a Magyar Köztársaság területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
 
@@ -36,5 +36,5 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (10) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-[^210]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^211]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^225]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^226]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.

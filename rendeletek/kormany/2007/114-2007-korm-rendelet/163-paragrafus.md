@@ -4,6 +4,6 @@
 
 (2) Az eljárásban a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség.
 
-(3)[^195] A meghatalmazott, illetve – a kérelmező beleegyezésével – az Egyesült Nemzetek Menekültügyi Főbiztossága budapesti Regionális Képviseletének (a továbbiakban: Képviselet) képviselője jelen lehet a kérelmező meghallgatásán. A meghallgatás időpontjáról a regionális igazgatóság a meghallgatás napját megelőző legalább öt nappal értesíti a meghatalmazottat és a Képviseletet.
+(3)[^210] A meghatalmazott, illetve – a kérelmező beleegyezésével – az Egyesült Nemzetek Menekültügyi Főbiztossága budapesti Regionális Képviseletének (a továbbiakban: Képviselet) képviselője jelen lehet a kérelmező meghallgatásán. A meghallgatás időpontjáról a regionális igazgatóság a meghallgatás napját megelőző legalább öt nappal értesíti a meghatalmazottat és a Képviseletet.
 
-[^195]: A 163. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
+[^210]: A 163. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.

@@ -10,14 +10,18 @@ c) a Tv. 30. § (1) bekezdés d) pontjában meghatározott esetben a szülő mag
 
 d) a Tv. 30. § (1) bekezdés e) pontjában meghatározott esetben az emberkereskedelem áldozatává vált harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság,
 
-e)[^108] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
+e)[^116] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
 
 f) a Tv. 30. § (1) bekezdés g) pontjában meghatározott esetben az úti okmányt visszatartó, illetve visszavonó regionális igazgatóság,
 
-g) a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság
+g)[^117] a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság vagy a Rendőrség,
+
+h)[^118] a Tv. 30. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
 
 ## hatáskörébe tartozik.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási vízumot, tartózkodási engedélyt vagy ideiglenes letelepedési engedélyt kap.
 
-[^108]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^116]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^117]: A 89. § (1) bekezdés g) pontja a 168/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^118]: A 89. § (1) bekezdés h) pontját a 168/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
