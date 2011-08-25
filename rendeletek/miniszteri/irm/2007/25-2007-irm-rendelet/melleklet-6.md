@@ -1,48 +1,50 @@
-## 7M04619_0
+## Tartózkodási jogot igazoló okmány pótlása iránti kérelem
 
-|  | BEVÁNDORLÁSI ÉS ÁLLAMPOLGÁRSÁGI HIVATAL |  |
+| A hatóság tölti ki! |  |  | Gépi ügyszám: _________ |  |
 
-| Tartózkodási jogot igazoló okmány pótlása iránti kérelem |
+| Kérelmet átvevő hatóság (kód és név): |  |  |  |
 
-| Hatóság tölti ki! |  |  | Gépi ügyszám: |  |
+| ______ | _______________ |  |  |  |
 
-| Kérelmet átvevő hatóság (kód és név): |
+|  | _______________ |  |  |  |
 
-|  |  |  |  | Arcfénykép |
+| Kérelem átvételének dátuma: |  |  |  |
 
-| Kérelem átvételének dátuma: |
+|  | ____ év __ hónap __ nap |  | Arcfénykép |  |
 
-|  |  |  | év | hónap | nap |
+| Az okmány átvételének helye: ⬜ A kérelmező az okmányt a kiállító hatóságnál veszi át. ⬜ A kérelmező az okmány postai úton történő megküldését kéri. |  |  |  |
 
-| Kérjük olvashatóan, nyomtatott, latin betűkkel kitölteni! | [Kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
+| Kérjük olvashatóan, nyomtatott, latin betűkkel kitölteni! | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
 
-| I. A kérelmező adatai |  |
+| I. A kérelmező adatai |
 
-| 1. Családi neve: |  |  |
+| 1. Családi neve: | ______________________________ |
 
-| 2. Utóneve(i): |  |  |
+| 2. Utóneve(i): | ______________________________ |
 
-| 3. Születési ideje: |  |  | év | hónap | nap |
+| 3. Születési ideje: | ____ év __ hónap __ nap |
 
-| 4. Személyazonosító igazolványának száma: |  |  |
+| 4. Személyazonosító igazolványának száma: | ____________________ |
 
-| Úti okmány száma: |  |  |
+| Úti okmány száma: | ____________________ |
 
 | 5. Az elveszett, eltulajdonított, megsemmisült vagy megrongálódott tartózkodási jogot igazoló okmány száma: |
 
+|  | ____________________ |
+
 | 6. Lakóhelyének pontos címe: |  |
 
-| Irányítószám: ______ |  |
+| Irányítószám: ____ |  |
 
-| Település: _____________________________________ | Kerület: ____ |
+| Település: _________________________ | Kerület: __ |
 
-| Közterület neve: ________________________________ |  |
+| Közterület neve: ____________________ |  |
 
-| Közterület jellege (út, utca, tér stb.): ________________ |  |
+| Közterület jellege (út, utca, tér stb.): ______________ |
 
-| Házszám/Helyrajzi szám: _________________________ |  |
+| Házszám/Helyrajzi szám: ____________________ |  |
 
-| Épület: ______ | Lépcsőház: ______ | Emelet: ______ | Ajtó: ______ |
+| Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
 | 7. Bejelentem, hogy a tartózkodási jogot igazoló okmányom |
 
@@ -54,48 +56,34 @@
 
 | ⬜ Megrongálódott. |
 
-## 7M04619_1
+## 1M26354_1
 
 | Az esemény részletes leírása |
 
-|  | Kelt: |  |  |
+| Kelt: ................................................. |
 
-|  | (a kérelmező aláírása) |
+|  | ......................................................................... (a kérelmező aláírása) |
 
 | A hatóság tölti ki! |
 
-| A __________________ számú megrongálódott tartózkodási jogot igazoló okmányt bevontam. |
+| A _________ számú megrongálódott tartózkodási jogot igazoló okmányt bevontam. |
 
-|  | Kelt: |  |
+| Kelt: .......................................... |
 
 | P. H. |
 
-|  | (az ügyintéző aláírása) |
+|  | ......................................................................... (az ügyintéző aláírása) |
 
-| A __________________ számú megrongálódott tartózkodási jogot igazoló okmányt átvettem. |
+| Az okmány cseréjét engedélyezem. Kelt:……………………………………….. PH ………………………………………… aláírás |
 
-|  | Kelt: |  |
+|  | ......................................................................... (az ügyintéző aláírása) |
 
-|  | (az ügyintéző aláírása) |
+| A _________ számú tartózkodási engedélyt átvettem/átadtam. |
 
-| TUDNIVALÓK |
+| Kelt: .......................................... |
 
-| - A kérelmet a bejelentett lakóhely szerint illetékes regionális igazgatóságnál kell előterjeszteni. |
+| ........................................................................ ……………………………………… (a kérelmező aláírása) átadó ügyintéző aláírás, pecsét |
 
-| A kérelemhez mellékelni kell: |
+6. melléklet a 25/2007. (V. 31.) IRM rendelethez[^41]
 
-| - 1 db arcfényképet, |
-
-| - a megrongálódott tartózkodási jogot igazoló okmányt. |
-
-| - Az érvényes úti okmányt vagy személyazonosító igazolványt a kérelem benyújtásakor be kell mutatni. |
-
-| - Az eljárásért a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. |
-
-| - Ha az elveszettnek hitt okmányt az új okmány kiadása előtt megtalálják, azt a jogosultjának a regionális igazgatóság visszaadja. |
-
-| Az illetékbélyeg helye: |
-
-6. melléklet a 25/2007. (V. 31.) IRM rendelethez[^31]
-
-[^31]: A 6. melléklet a 12/2010. (XII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^41]: A 6. melléklet a 12/2010. (XII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.

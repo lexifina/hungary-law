@@ -1,7 +1,3 @@
-## 7M04661_0
-
-|  | BEVÁNDORLÁSI ÉS ÁLLAMPOLGÁRSÁGI HIVATAL |  |
-
 ## Tartózkodási engedély kérelem hivatalos célból
 
 | Kérelmet átvevő hatóság: | Gépi ügyszám: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
@@ -22,9 +18,11 @@
 
 | ⬜ Tartózkodási engedély meghosszabbítása |  |  |  |
 
-| Tartózkodási engedély száma és érvényessége: |  | A kérelmező (törvényes képviselő) aláírása. Az aláírásnak a kereten belül kell maradnia! |  |
+| Tartózkodási engedély száma és érvényessége: |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |  |
 
 | H ⬜⬜⬜⬜⬜⬜⬜⬜ ......... év ........ hó ........ nap |  |  |  |
+
+| Az okmány átvételének helye: ⬜ A kérelmező az okmányt a kiállító hatóságnál veszi át. ⬜ A kérelmező az okmány postai úton történő megküldését kéri. |
 
 | 1. A kérelmező személyes adatai |
 
@@ -40,7 +38,7 @@
 
 | utolsó állandó külföldi lakóhelye: |
 
-| szakképzettsége*: | iskolai végzettsége*:⬜ alapfokú ⬜ középfokú ⬜ felsőfokú | Mo.-ra érkezést megelőző foglalkozás*: |
+| szakképzettsége: | iskolai végzettsége: ⬜ alapfokú ⬜ középfokú ⬜ felsőfokú | Magyarországra érkezést megelőző foglalkozás: |
 
 | 2. A kérelmező útlevelének adatai |
 
@@ -80,11 +78,11 @@
 
 | 8. Kérelmező által eltartott Magyarországon tartózkodó házastársa, gyermeke, szülője |
 
-| név/rokonsági fok: | születési hely, idő: | állampolgárság: | tartózkodása jogcíme:⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély |
+| név/rokonsági fok: | születési hely, idő: | állampolgárság: | tartózkodása jogcíme: ⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély ⬜ EU Kék Kártya |
 
-| név/rokonsági fok | születési hely, idő: | állampolgárság: | tartózkodása jogcíme:⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély |
+| név/rokonsági fok | születési hely, idő: | állampolgárság: | tartózkodása jogcíme: ⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély ⬜ EU Kék Kártya |
 
-| név/rokonsági fok: | születési hely, idő: | állampolgárság: | tartózkodása jogcíme:⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély |
+| név/rokonsági fok: | születési hely, idő: | állampolgárság: | tartózkodása jogcíme: ⬜ vízum ⬜ tartózkodási engedély ⬜ ideiglenes letelepedési engedély ⬜ EK letelepedési engedély ⬜ egyéb | ⬜ tartózkodási vízum ⬜ letelepedési engedély ⬜ nemzeti letelepedési engedély ⬜ bevándorlási engedély ⬜ EU Kék Kártya |
 
 | 9. Egyéb adatok |
 
@@ -102,17 +100,23 @@
 
 | Amennyiben a fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? ⬜ igen ⬜ nem |
 
+| Magyarországra érkezését megelőző állandó vagy szokásos tartózkodási helye: Ország: Település: Közterület neve: |
+
+| Amennyiben a tartózkodási jogosultsága megszűnik, melyik országba utazik tovább? Ország: |
+
 | Kijelentem, hogy az előzőekben leírt adatok a valóságnak megfelelnek. Tudomásul veszem, hogy valótlan adatok közlése a kérelem elutasítását vonja maga után. |
 
 | Kelt: ...................................................... | ..................................................... aláírás |
 
 | Illetékbélyeg helye: |
 
-## 7M04661_2
-
 | A hatóság tölti ki! |
 
-| A kérelem teljesítése esetén A kérelmező magyarországi tartózkodását ........................................................... célból ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ napig engedélyezem. |
+| A kérelem teljesítése esetén |
+
+| A kérelmező magyarországi tartózkodását ........................................................... célból |
+
+| ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ napig engedélyezem. |
 
 | Kelt: ........................................................................ | ...................................................... (aláírás, pecsét) |  |
 
@@ -124,51 +128,53 @@
 
 | Hosszabbítás esetén a visszavont tartózkodási engedély száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
-| A kérelem elutasítása esetén Elutasító határozat száma: ........................................... Az elutasítás kelte: ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ nap Az elutasítás indoka (röviden): |
+| A kérelem elutasítása esetén |
 
-## TÁJÉKOZTATÓ
+| Elutasító határozat száma: ........................................... |
 
-## A tartózkodási engedély iránti kérelmet legkésőbb a tartózkodási jogosultság lejártát megelőzően 30 nappal a szálláshely szerint illetékes regionális igazgatóságnál az okiratok egyidejű csatolásával, személyesen lehet előterjeszteni. A kérelemhez csatolni kell egy darab arcfényképet. A kérelem benyújtásakor az érvényes úti okmányt be kell mutatni. Az útlevélnek az engedélyezett tartózkodási jogosultság lejártakor még legalább 3 hónapig érvényesnek kell lennie.
+| Az elutasítás kelte: ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ nap |
 
-## A kérelemhez csatolandó mellékletek:
+| Az elutasítás indoka (röviden): |
 
-## • a tartózkodás célját igazoló okirat
+| TÁJÉKOZTATÓ |
 
-## • a fogadó intézmény igazolása a kérelmező foglalkoztatásáról, képzéséről, továbbképzéséről
+| A tartózkodási engedély iránti kérelmet legkésőbb a tartózkodási jogosultság lejártát megelőzően 30 nappal a szálláshely szerint illetékes regionális igazgatóságnál az okiratok egyidejű csatolásával, személyesen lehet előterjeszteni. A kérelemhez csatolni kell egy darab arcfényképet. A kérelem benyújtásakor az érvényes úti okmányt be kell mutatni. Az útlevélnek az engedélyezett tartózkodási jogosultság lejártakor még legalább 3 hónapig érvényesnek kell lennie. |
 
-## • a lakhatás jogcímét igazoló okirat
+| A kérelemhez csatolandó mellékletek: |
 
-## • tulajdonában álló ingatlan esetén tulajdoni lap
+| - a tartózkodás célját igazoló okirat |
 
-## • lakásbérleti szerződés
+| = a fogadó intézmény igazolása a kérelmező foglalkoztatásáról, képzéséről, továbbképzéséről |
 
-## • szívességi lakáshasználatról szóló okirat
+| - a lakhatás jogcímét igazoló okirat |
 
-## • egyéb okirat
+| = tulajdonában álló ingatlan esetén hiteles tulajdonilap-másolat |
 
-## • a megélhetést igazoló okirat
+| = lakásbérleti szerződés |
 
-## • a fogadó/küldő intézmény rendszeres jövedelem (ösztöndíj) folyósításáról szóló igazolása
+| = szívességi lakáshasználatról szóló okirat |
 
-## • banki igazolás
+| = egyéb okirat |
 
-## • egyéb okirat
+| - a megélhetést igazoló okirat |
 
-## • teljes körű egészségügyi ellátásra való jogosultságot igazoló okirat
+| = a fogadó/küldő intézmény rendszeres jövedelem (ösztöndíj) folyósításáról szóló igazolása |
 
-## Az eljárás során az idegenrendészeti hatóság a tényállás tisztázása érdekében további okiratok benyújtására is
+| = banki igazolás |
 
-## felhívhatja!
+| = egyéb okirat |
 
-## Ha a tartózkodási engedély meghosszabbítása iránti kérelem benyújtásakor a tartózkodási engedély kiadásának alapjául szolgáló feltételek nem változtak meg, az ezt igazoló okiratot ismételten nem kell csatolnia.
+| - teljes körű egészségbiztosítást igazoló okirat |
 
-## Az eljáró idegenrendészeti hatóságtól kérheti, hogy az más hatóságtól szerezze be az Ön által megjelölt adatra vonatkozó igazolást. A kérelemnek ez a része a személyes adatai tekintetében adat kezeléséhez, illetve továbbításához való hozzájárulásnak minősül. Ha a szükséges adatokat az eljáró idegenrendészeti hatóság szerzi be, az ehhez szükséges illeték vagy igazgatási szolgáltatási díj fizetési kötelezettségét az idegenrendészeti hatóságnál kell teljesítenie.
+| Az eljárás során az idegenrendészeti hatóság a tényállás tisztázása érdekében további okiratok benyújtására is felhívhatja! |
+
+| Ha a tartózkodási engedély meghosszabbítása iránti kérelem benyújtásakor a tartózkodási engedély kiadásának alapjául szolgáló feltételek nem változtak meg, az ezt igazoló okiratot ismételten nem kell csatolnia. |
+
+| Az eljáró idegenrendészeti hatóságtól kérheti, hogy az más hatóságtól szerezze be az Ön által megjelölt adatra vonatkozó igazolást. A kérelemnek ez a része a személyes adatai tekintetében adat kezeléséhez, illetve továbbításához való hozzájárulásnak minősül. Ha a szükséges adatokat az eljáró idegenrendészeti hatóság szerzi be, az ehhez szükséges illeték vagy igazgatási szolgáltatási díj fizetési kötelezettségét az idegenrendészeti hatóságnál kell teljesítenie. |
 
 ## „A” BETÉTLAP
 
 ## A kérelmező útlevelében szereplő, vele együtt utazó kiskorú gyermek adatai
-
-## 7M04661_3
 
 | Kérelmet átvevő hatóság: | Gépi ügyszám: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
@@ -184,11 +190,11 @@
 
 | Tartózkodási vízum száma és érvényessége: |  |  |  |
 
-| H ⬜⬜⬜⬜⬜⬜⬜⬜ ......... év ........ hó ........ nap |  |  |
+| H ⬜⬜⬜⬜⬜⬜⬜⬜ ......... év ........ hó ........ nap |  |  |  |
 
-| ⬜ Tartózkodási engedély meghosszabbítása |  |  |
+| ⬜ Tartózkodási engedély meghosszabbítása |  |  |  |
 
-| Tartózkodási engedély száma és érvényessége: |  | A kérelmező (törvényes képviselő) aláírása. Az aláírásnak a kereten belül kell maradnia! |  |
+| Tartózkodási engedély száma és érvényessége: |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |  |
 
 | H ⬜⬜⬜⬜⬜⬜⬜⬜ ......... év ........ hó ........ nap |  |  |  |
 
@@ -212,22 +218,36 @@
 
 | 3. Egyéb adatok |
 
-| Tudomása szerint a gyermek szenved-e gyógykezelésre szoruló HIV/AIDS, továbbá tbc, hepatitis B, luesz, lepra, hastífusz fertőző betegségekben, illetve hordozza-e szervezetében a HIV, a hepatitis B, valamint a hastífusz vagy paratífusz kórokozóit? ⬜ igen ⬜ nem Amennyiben a gyermek fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? ⬜ igen ⬜ nem |
+| Tudomása szerint a gyermek szenved-e gyógykezelésre szoruló HIV/AIDS, továbbá tbc, hepatitis B, luesz, lepra, hastífusz fertőző betegségekben, illetve hordozza-e szervezetében a HIV, a hepatitis B, valamint a hastífusz vagy paratífusz kórokozóit? ⬜ igen ⬜ nem |
 
-## A hatóság tölti ki!
+| Amennyiben a gyermek fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? ⬜ igen ⬜ nem |
 
-## 7M04661_6
+| A hatóság tölti ki! |
 
-| A kérelem teljesítése esetén A kérelmező magyarországi tartózkodását ........................................................... célból ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ napig engedélyezem. |
+| A kérelem teljesítése esetén |
+
+| A kérelmező magyarországi tartózkodását ........................................................... célból |
+
+| ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ napig engedélyezem. |
 
 | Kelt: ........................................................................ | ...................................................... (aláírás, pecsét) |  |
 
-| Kiadott tartózkodási engedély száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜ A tartózkodási engedélyt átvettem. |
+| Kiadott tartózkodási engedély száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+
+| A tartózkodási engedélyt átvettem. |
 
 | Kelt: ........................................................................ | ...................................................... (a kérelmező aláírása) |  |
 
 | Hosszabbítás esetén a visszavont tartózkodási engedély száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
-| A kérelem elutasítása esetén Elutasító határozat száma: ........................................... Az elutasítás kelte: ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ nap Az elutasítás indoka (röviden): |
+| A kérelem elutasítása esetén |
 
-16. melléklet a 25/2007. (V. 31.) IRM rendelethez
+| Elutasító határozat száma: ........................................... |
+
+| Az elutasítás kelte: ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ nap |
+
+| Az elutasítás indoka (röviden): |
+
+16. melléklet a 25/2007. (V. 31.) IRM rendelethez[^50]
+
+[^50]: A 16. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (12) bekezdésével megállapított szöveg.
