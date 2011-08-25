@@ -38,7 +38,7 @@ h) 1 tagját a felsőfokú szociális alapvégzettséget nyújtó képzőhelyek
 
 a) a regionális szociálpolitikai tanácsok egy-egy képviselője,
 
-b) az Országos Érdekegyeztető Tanács munkáltatói és munkavállalói oldalának egy-egy képviselője,
+b)[^1] a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek egy-egy képviselője,
 
 c) az Országos Fogyatékosügyi Tanács képviselője,
 
@@ -63,3 +63,5 @@ j) a napirendi pontban érintett más minisztérium és országos hatáskörű s
 a) az ellátások, illetve az ellátásokat igénybevevő társadalmi csoportok szerint differenciált, továbbá képzéssel, kutatással, módszertani feladatokkal foglalkozó szakmai kollégiumokat hoz létre,
 
 b) eseti bizottságokat hozhat létre.
+
+[^1]: A 3. § (3) bekezdés b) pontja a 168/2011. (VIII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
