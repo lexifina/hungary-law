@@ -1,0 +1,3 @@
+## 3. § Az R1. 22/B. §-a helyébe a következő rendelkezés lép:
+
+## „22/B. § A tartózkodási, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány kiadása, meghosszabbítása, a tartózkodási, bevándorlási, letelepedési, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány pótlása, valamint cseréje iránti kérelem formanyomtatványán a bekeretezett aláírás minta rovatot a kérelmező saját kezűleg írja alá. Ha a cselekvőképes kérelmező írásképtelen, ezen tényt az eljáró hatóság a bekeretezett aláírás minta rovatban vízszintes vonal elhelyezésével jelzi. A cselekvőképtelen vagy korlátozottan cselekvőképes kérelmező írásképtelensége esetén a bekeretezett aláírás minta rovatot a törvényes képviselő írja alá.”
