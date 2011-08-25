@@ -1,36 +1,36 @@
 ## Hatályba léptető rendelkezések
 
-61. §[^323] (1)[^324] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+61. §[^324] (1)[^325] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^325]
+(2)[^326]
 
-(3)–(4)[^326]
+(3)–(4)[^327]
 
-(5)[^327]
+(5)[^328]
 
-(6)[^328]
+(6)[^329]
 
-(7)[^329]
+(7)[^330]
 
-(8)[^330]
+(8)[^331]
 
-(9)[^331]
+(9)[^332]
 
-(10)[^332] A 2002–2005-ben szervezett vizsgaidőszakokban teljesítette idegen nyelvből az érettségi vizsgát az, aki – egynyelvű vagy kétnyelvű – legalább középfokú, „C” típusú, államilag elismert nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkezik. Ebben az esetben a vizsgázó tudását 2004-ig jeles (5) osztályzattal; 2005-ben emelt szintű jeles (5) (100%) osztályzattal kell minősíteni. A felsőoktatási felvételi eljárás során a jelentkezési feltételként meghatározott emelt szintű idegen nyelvi érettségi vizsga teljesítését nem helyettesíti az e bekezdés szerint a nyelvvizsga-bizonyítvány alapján kiadott érettségi bizonyítvány. Az a tanuló, akinek a felsőoktatási továbbtanulásnál feltétel az idegen nyelvi emelt szintű érettségi vizsga letétele, és aki korábban államilag elismert nyelvvizsga-bizonyítvány alapján teljesítette az előrehozott emelt szintű idegen nyelvi érettségit, még tanulói jogviszonya alatt jelentkezhet ugyanabból a nyelvből emelt szintű idegen nyelvi érettségi vizsgára.
+(10)[^333] A 2002–2005-ben szervezett vizsgaidőszakokban teljesítette idegen nyelvből az érettségi vizsgát az, aki – egynyelvű vagy kétnyelvű – legalább középfokú, „C” típusú, államilag elismert nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkezik. Ebben az esetben a vizsgázó tudását 2004-ig jeles (5) osztályzattal; 2005-ben emelt szintű jeles (5) (100%) osztályzattal kell minősíteni. A felsőoktatási felvételi eljárás során a jelentkezési feltételként meghatározott emelt szintű idegen nyelvi érettségi vizsga teljesítését nem helyettesíti az e bekezdés szerint a nyelvvizsga-bizonyítvány alapján kiadott érettségi bizonyítvány. Az a tanuló, akinek a felsőoktatási továbbtanulásnál feltétel az idegen nyelvi emelt szintű érettségi vizsga letétele, és aki korábban államilag elismert nyelvvizsga-bizonyítvány alapján teljesítette az előrehozott emelt szintű idegen nyelvi érettségit, még tanulói jogviszonya alatt jelentkezhet ugyanabból a nyelvből emelt szintű idegen nyelvi érettségi vizsgára.
 
-(11)[^333]
+(11)[^334]
 
-(12)–(14)[^334]
+(12)–(14)[^335]
 
-[^323]: A 61. § a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (3) és (4) bekezdése, a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^324]: A 61. § (1) bekezdésének második mondatát a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^325]: A 61. § (2) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 338/2004. (XII. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be. A 61. § (2) bekezdését ismételten hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
-[^326]: A 61. § (3)–(4) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^327]: A 61. § (5) bekezdését a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 233/2004. (VIII. 6.) Korm. rendelet 41. §-ának (2) bekezdése iktatta be. A 61. § (5) bekezdését ismételten hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
-[^328]: A 61. § (6) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^329]: A 61. § (7) bekezdését a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (4) bekezdése hatályon kívül helyezte.
-[^330]: A 61. § (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^331]: A 61. § (9) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 28. § (2) bekezdése iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
-[^332]: A 61. § (10) bekezdése a 338/2004. (XII. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^333]: A 61. § (11) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^334]: A 61. § (12)–(14) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 41. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^324]: A 61. § a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (3) és (4) bekezdése, a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^325]: A 61. § (1) bekezdésének második mondatát a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^326]: A 61. § (2) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 338/2004. (XII. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be. A 61. § (2) bekezdését ismételten hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^327]: A 61. § (3)–(4) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^328]: A 61. § (5) bekezdését a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 233/2004. (VIII. 6.) Korm. rendelet 41. §-ának (2) bekezdése iktatta be. A 61. § (5) bekezdését ismételten hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^329]: A 61. § (6) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^330]: A 61. § (7) bekezdését a 16/2000. (II. 11.) Korm. rendelet 20. §-ának (4) bekezdése hatályon kívül helyezte.
+[^331]: A 61. § (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^332]: A 61. § (9) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 28. § (2) bekezdése iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
+[^333]: A 61. § (10) bekezdése a 338/2004. (XII. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^334]: A 61. § (11) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^335]: A 61. § (12)–(14) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 41. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
