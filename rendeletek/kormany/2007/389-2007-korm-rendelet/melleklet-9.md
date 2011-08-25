@@ -2,31 +2,27 @@
 
 ## A kötelező átvétel alá eső villamos energia Értékesítőjének adatszolgáltatási kötelezettsége
 
-1.
+1.[^104]
 
-Értékesítő neve, címe
+1.1. Értékesítő neve, címe.
 
-Erőműegység megnevezése, telephelye
+1.2. Erőműegység megnevezése, telephelye.
 
-Időszak (év, hónap)
+1.3. Időszak (év, hónap).
 
-Berendezés jellege (szélerőmű, vízerőmű, kondenzációs, kapcsolt erőmű, gázmotor, gázturbina, gőzturbina stb.)
+1.4. Berendezés jellege (szélerőmű, vízerőmű, gázmotor, gázturbina, gőzturbina stb.).
 
-Üzembe helyezés időpontja (év, hónap, nap)
+1.5. Üzembe helyezés időpontja (év, hónap, nap).
 
-Névleges teljesítőképesség
+1.6. Névleges teljesítőképesség:
 
-– hő (MW)
+1.6.1. hő (MW),
 
-– villamos energia (MW)
+1.6.2. villamos energia (MW).
 
-Névleges teljesítőképesség
+1.7. Névleges energetikai hatásfok (%).
 
-– villamos energia (MW)
-
-Névleges energetikai hatásfok%
-
-A legutolsó eredetigazolás dátuma, a kiállító szervezet megnevezése
+1.8. A legutolsó eredetigazolás dátuma, a kiállító szervezet megnevezése.
 
 2. Felhasznált tüzelőanyag összesen (MJ), tüzelőanyag típusonként részletezve
 
@@ -48,38 +44,19 @@ Kiadott hő (melegített víz, gőz) (MJ) értékesítési célok szerint
 
 Kiadott hő (MWh)
 
-4.
+4.[^105]
 
-Értékesített villamos energia zónaidőnként és összesen (MWh)
+4.1. A kötelező átvételi rendszerben megújuló energiaforrásból termelt villamosenergia-értékesítés mennyisége (MWh) és árbevétele (forint), napszakonként és összesen.
 
-ebből:
+4.2. A kötelező átvételi rendszerben hulladékból nyert energiával termelt villamosenergia-értékesítés mennyisége (MWh) és árbevétele (forint), napszakonként és összesen.
 
-– Átvételi kötelezettség keretében
+4.3. A kötelező átvételi rendszeren kívüli villamosenergia-értékesítés mennyisége (MWh) és árbevétele (forint), napszakonként és összesen.
 
-– megújuló energiaforrásból termelt
+4.4. Hőenergia értékesítés mennyisége (GJ) és árbevétele (forint).
 
-– hulladékból nyert energiával termelt
+4.5. Vásárolt villamos energia (MWh).
 
-– kapcsoltan termelt összesen
+4.6. Elért energetikai hatásfok (%).
 
-ebből
-
-– távhőszolgáltatási célú hőenergiával kapcsoltan termelt
-
-– külön kezelt intézmény ellátására értékesített hőenergiával kapcsoltan termelt
-
-– nem külön kezelt intézmény ellátására értékesített és nem távhőszolgáltatási célú hőenergiával kapcsoltan termelt
-
-– egyéb módon értékesített
-
-Villamos energia értékesítésből elért árbevétel az előzőek szerinti bontásban
-
-Hőenergia értékesítés mennyisége (GJ) és árbevétele
-
-Vásárolt villamos energia (MWh)
-
-Elért energetikai hatásfok (%)
-
-Kiadott villamos energia/kiadott hő (σ) (MWh/MWh)
-
-Elsődleges energiaforrás megtakarítás mértékére vonatkozó, a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabály szerinti számítás.
+[^104]: A 9. számú melléklet 1. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^105]: A 9. számú melléklet 4. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.

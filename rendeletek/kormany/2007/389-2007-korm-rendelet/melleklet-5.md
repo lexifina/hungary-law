@@ -2,11 +2,11 @@
 
 ## I. Általános szabályok
 
-## 1. A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, a Befogadó és a kereskedők viszonylatában a külön jogszabály szerint meghatározott menetrend szerinti villamosenergia-mennyiségen alapuló számla alapján történnek.
+## 1.[^94] A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, a Befogadó és a VET 13. § (1) bekezdése szerint az átvételi kötelezettség alá eső villamos energia átvételére kötelezett viszonylatában a külön jogszabály szerint meghatározott menetrend szerinti villamosenergia-mennyiségen alapuló számla, továbbá a szabályozási pótdíj és a módosítási pótdíj esetében számviteli bizonylat alapján történnek.
 
-## 2.[^89] A jogosult köteles számláját a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
+## 2.[^95] A jogosult köteles számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
 
-## 3. A fizetési kötelezettségekkel kapcsolatos számlákra vonatkozó kifogásokat a számla kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A számlára vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
+## 3.[^96] A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli bizonylat kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A számlára, számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.
 
 ## 4. A fizetési kötelezettségek késedelmes teljesítése esetén a késedelmesen teljesítő fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a jegybanki alapkamattal megegyező mértékű késedelmi kamatot köteles fizetni a másik fél részére.
 
@@ -16,17 +16,21 @@
 
 ## A villamos energia Befogadója és az Értékesítő között érvényesülő árak alkalmazási feltételei
 
-## 1. Az Értékesítő – a 4. pont szerinti eltéréssel – havonta egy számlát (havi számla) állít ki a Befogadó részére.
+## 1.[^97] Az Értékesítő havonta egy számlát (havi számla) állít ki a Befogadó részére.
 
 ## 2. A havi számla a 3. § (10) és (12) bekezdésében meghatározott, a tárgyhó utolsó napján 24:00 óráig gyűjtött elszámolási villamosenergia-mennyiségek díjának összegét tartalmazza.
 
 ## 3. A havi számlát az Értékesítő a tárgyhónapot követő hónap nyolcadik munkanapjától nyújthatja be a Befogadó részére.
 
-## 4–6.[^90]
+## 4–6.[^98]
 
-## 7.[^91] Az Értékesítő a havi számla tekintetében köteles telephelyenként, a telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként (például ellennyomású kapcsolt, gázmotoros kapcsolt) külön számlát kiállítani.
+## 7.[^99] Az Értékesítő a havi számlát telephelyenként, telephelyen belül erőműegységenként, az erőműegységen belül termelési eljárásonként megbontva köteles kiállítani.
 
 ## 8. Hóközi árváltozás esetén az Értékesítőnek az árváltozással érintett időszakoknak megfelelően megbontva kell a számlát kiállítania.
+
+## 9.[^100] A Befogadó az Értékesítő részére havonta egy számviteli bizonylatot állít ki a szabályozási pótdíjról és egyet a módosítási pótdíjról.
+
+## 10.[^101] Ha a számviteli bizonylat vonatkozásában az Értékesítő az esedékesség napjáig az ellenértéket nem fizeti meg, akkor a Befogadó a nem vitatott ellenértéket és az I. Általános szabályok 4. pontja szerinti – számviteli bizonylat esedékességének napjától a beszámítás napjáig terjedő időszakra meghatározott – késedelmi kamatot az 1. pont szerinti, következő számla értékébe beszámítja.
 
 5. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez
 
@@ -38,6 +42,11 @@
 
 3. E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan, a tárgyévet megelőző évben havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
 
-[^89]: A 4. számú melléklet I. fejezet 2. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^90]: A 4. számú melléklet II. fejezet 4–6. pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^91]: A 4. számú melléklet II. fejezet 7. pontja a 270/2010. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^94]: A 4. számú melléklet I. pont 1. alpontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^95]: A 4. számú melléklet I. pont 2. alpontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^96]: A 4. számú melléklet I. pont 3. alpontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^97]: A 4. számú melléklet II. pont 1. alpontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 25. pontja szerint módosított szöveg.
+[^98]: A 4. számú melléklet II. fejezet 4–6. pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^99]: A 4. számú melléklet II. pont 7. alpontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdése szerint módosított szöveg.
+[^100]: A 4. számú melléklet II. pont 9. alpontját a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^101]: A 4. számú melléklet II. pont 10. alpontját a 166/2011. (VIII. 24.) Korm. rendelet 1. § (5) bekezdése iktatta be.

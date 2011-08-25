@@ -1,16 +1,18 @@
-3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^87]
+3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^92]
 
 ## A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartam
 
-1. A kötelező átvételi rendszer keretében értékesítő erőműegységek számára érvényes zónaidők az alábbi csoportosítás szerint kerülnek meghatározásra:
+1. A napszakok időtartamának meghatározása során alkalmazott erőműegység-csoportosítás.
 
-| Erőműegység csoport | Érintett elosztási terület |
+|  | A | B |
 
-| 1. | E.ON Dél-dunántúli Áramszolgáltató Zrt., ÉMÁSZ DSO Elosztóhálózati Szolgáltató Kft. |
+| 1 | Erőműegység csoport száma | Érintett elosztási terület |
 
-| 2. | E.ON Észak-dunántúli Áramszolgáltató Zrt., DÉMÁSZ Hálózati Elosztó Kft. |
+| 2 | 1. | E.ON Dél-dunántúli Áramhálózati Zrt., ÉMÁSZ Hálózati Kft. |
 
-| 3. | ELMŰ DSO Elosztóhálózati Szolgáltató Kft., E.ON Tiszántúli Áramszolgáltató Zrt. |
+| 3 | 2. | E.ON Észak-dunántúli Áramhálózati Zrt., EDF DÉMÁSZ Hálózati Elosztó Kft. |
+
+| 4 | 3. | ELMŰ Hálózati Elosztó Kft., E.ON Tiszántúli Áramhálózati Zrt. |
 
 2. Az 1. és 2. számú melléklet szerinti árak alkalmazása szempontjából az egyes napszakok (zónaidők) időtartamát munkanapokon
 
@@ -76,4 +78,4 @@ c)
 
 | Mélyvölgyidőszak | 02:30–07:00 | 03:30–08:00 |
 
-[^87]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^92]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a, a 166/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.

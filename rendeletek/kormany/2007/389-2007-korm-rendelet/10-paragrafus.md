@@ -16,11 +16,11 @@
 
 (6) Az e rendelet alapján meghatározott árakat az e rendelet hatálybalépése után termelt villamos energiára kell alkalmazni.
 
-(7)[^75]
+(7)[^79]
 
 (8) E § (7) bekezdése továbbá (9)–(10) bekezdése 2008. január 3-án hatályát veszti.
 
-(9)–(10)[^76]
+(9)–(10)[^80]
 
-[^75]: A 10. § (7) bekezdése e rendelet 10. § (8) bekezdése alapján hatályát vesztette.
-[^76]: A 10. § (9)–(10) bekezdése e rendelet 10. § (8) bekezdése alapján hatályát vesztette.
+[^79]: A 10. § (7) bekezdése e rendelet 10. § (8) bekezdése alapján hatályát vesztette.
+[^80]: A 10. § (9)–(10) bekezdése e rendelet 10. § (8) bekezdése alapján hatályát vesztette.
