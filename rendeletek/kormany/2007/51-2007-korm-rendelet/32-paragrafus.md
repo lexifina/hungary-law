@@ -1,4 +1,4 @@
-## 31. §[^42]
+## 31. §[^43]
 
 ## A hallgatói juttatásokhoz nyújtott normatív hozzájárulásnál figyelembe vehető hallgatói kör és a figyelembe vehető hallgatói létszám megállapításának rendje
 
@@ -26,4 +26,4 @@ d) a ténylegesen kifizetendő összeget kell figyelembe venni a külföldi hall
 
 (3) Az egyes normatívák év közbeni változása esetén a jogosulti létszámok megállapítása a képzési időszakok (tanulmányi félévek) rendjét követik.
 
-[^42]: A 31. §-t és az azt megelőző alcímet a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bg) alpontja hatályon kívül helyezte.
+[^43]: A 31. §-t és az azt megelőző alcímet a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bg) alpontja hatályon kívül helyezte.
