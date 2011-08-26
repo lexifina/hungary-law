@@ -26,7 +26,7 @@ eljárás.
 
 (4) Az integrált építésügyi hatósági eljárás esetén – az (5) bekezdésben foglalt kivétellel – az 1. mellékletben kijelölt építésügyi hatóság látja el a közreműködő hatóság feladatait.
 
-(5) Honvédelmi és katonai célú építmények
+(5)[^11] Honvédelmi és katonai célú építmények
 
 a) műtárgy építési vagy létesítési, illetve használatbavételi engedélyezési eljárása
 
@@ -58,4 +58,6 @@ d) vízi létesítmény elvi vízjogi, vízjogi létesítési vagy üzemeltetés
 
 e) műemlék elvi építési, építési vagy használatbavételi engedélyezési eljárása
 
-folytatható le integrált építésügyi eljárásban, amely esetében a közreműködő hatóság a Honvédelmi Minisztérium Központi Ellenőrzési és Hatósági Hivatala.
+folytatható le integrált építésügyi eljárásban, amely esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője.
+
+[^11]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
