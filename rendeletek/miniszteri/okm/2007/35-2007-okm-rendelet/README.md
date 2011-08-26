@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-35-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-07-15 | 2007-35-20-1W.4 | 35/2007. (XI. 13.) OKM rendelet |
+| 2011-08-26 | 2007-35-20-1W.5 | 50/2011. (VIII. 18.) Korm. rendelet |

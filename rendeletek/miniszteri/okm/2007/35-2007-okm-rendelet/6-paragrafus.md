@@ -10,7 +10,9 @@ c) a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulg
 
 d)[^4] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 279/2009/EK bizottsági rendelet (2009. április 6.).
 
-Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^5]
+e)[^5] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló 213/2011/EU bizottsági rendelet (2011. március 3.).
+
+Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^6]
 
 I. Szabályozott szakma gyakorlására jogosító képzések
 
@@ -163,6 +165,28 @@ amely képzés legalább tizennégy év időtartamú oktatást és szakképzést
 – gyermekgondozó (Erzieher),
 
 amely képzések tizenhárom év időtartamú oktatást és szakképzést jelentenek, beleértve ötéves szakosított iskolai szakképzést, amelyet záróvizsga követ.
+
+– gyermek- és ifjúsági szakápoló (Sonderausbildung in der Kinder- und Jugendlichenpflege),
+
+– pszichiátriai szakápoló (Sonderausbildung in der psychiatrischen Gesundheits- und Krankenpflege),
+
+– intenzív szakápoló (Sonderausbildung in der Intensivpflege),
+
+– intenzív gyermekszakápoló (Sonderausbildung in der Kinderintensivpflege),
+
+– aneszteziológiai szakápoló (Sonderausbildung in der Anästhesiepflege),
+
+– vesepótló kezelésekkel foglalkozó szakápoló (Sonderausbildung in der Pflege bei Nierenersatztherapie),
+
+– műtős szakápoló (Sonderausbildung in der Pflege im Operationsbereich),
+
+– kórház-higiéniai szakértő (Sonderausbildung in der Krankenhaushygiene),
+
+– az egészségügyi ellátáshoz és betegápoláshoz kapcsolódó oktatási feladatok szakértője (Sonderausbildung für Lehraufgaben in der Gesundheits- und Krankenpflege),
+
+– az egészségügyi ellátás és betegápolás igazgatási feladatainak szakértője (Sonderausbildung für Führungsaufgaben in der Gesundheits- und Krankenpflege).
+
+Az oktatás és képzés teljes időtartama legalább tizenhárom és fél év és tizennégy év között van, beleértve egy legalább tízéves általános oktatást, egy további hároméves alapképzést az egészségügyi ellátási és ápolási felsőfokú közszolgálatban, illetve egy hat–tizenkét hónapos szakirányú képzést egy szakterületet, tanári vagy igazgatási tevékenységet illetően.
 
 Szlovákiában:
 
@@ -1029,4 +1053,5 @@ E képzések teljes hossza legalább tizenhárom év: kilenc év kötelező okta
 [^2]: A 6. §-t megelőző alcím a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 6. § a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 6. § d) pontját a 26/2009. (VI. 30.) OKM rendelet 1. §-a iktatta be.
-[^5]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, valamint a 26/2009. (VI. 30.) OKM rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a rendelkezést a 2009. július 15. napján folyamatban lévő ügyekre is alkalmazni kell.
+[^5]: A 6. § e) pontját az 50/2011. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, a 26/2009. (VI. 30.) OKM rendelet 2. §-a, az 50/2011. (VIII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
