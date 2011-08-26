@@ -92,7 +92,7 @@
 
 | 8 | Határrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 9 | Honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 9 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 10 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -182,4 +182,4 @@
 
 | 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal” |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) korm. rendelet 280. §-ával megállapított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) korm. rendelet 280. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 34. §-a szerint módosított szöveg.
