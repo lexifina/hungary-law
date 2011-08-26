@@ -38,10 +38,12 @@ d) az irányításhoz, a helyzet értékeléséhez és a döntések előkészít
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b) a veszélyes katonai objektum felügyeleti hatóság környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^26] a veszélyes katonai objektum környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 2.4. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
 3. Formai követelmények
 
 A belső védelmi terv a biztonsági jelentés vagy biztonsági elemzés részét képezi, így elkészítésénél az ott meghatározott formai követelmények irányadóak.
+
+[^26]: A 4. melléklet 2.3. pont b) alpontja a 158/2011. (VIII. 11.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
