@@ -96,7 +96,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. földművelésügy |  |  |
 
@@ -140,7 +140,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. földművelésügy |  |  |
 
@@ -190,7 +190,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 8. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 9. földművelésügy |  |  |
 
@@ -208,4 +208,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 13. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal „ |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 242. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 24. §-a szerint módosított szöveg.
