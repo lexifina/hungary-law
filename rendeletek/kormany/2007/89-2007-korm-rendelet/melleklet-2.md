@@ -24,7 +24,7 @@
 
 | Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvéd Vezérkar főnöke | a honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
 | Egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -52,7 +52,7 @@
 
 | Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvéd Vezérkar főnöke | a honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
 | Egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -94,7 +94,7 @@
 
 | Kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-| Honvédelem | Honvéd Vezérkar főnöke | a honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
 | Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Önkormányzatának főjegyzője | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
@@ -130,10 +130,10 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Honvédelem | Honvéd Vezérkar főnöke | a honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
 | Környezetvédelem, természetvédelem, vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | Kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.
