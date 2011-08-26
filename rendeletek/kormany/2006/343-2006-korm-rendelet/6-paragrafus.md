@@ -1,6 +1,6 @@
 ## Építésügyi vizsga
 
-6. §[^38] (1) Az építésügyi és az építésfelügyeleti hatóságnál foglalkoztatott köztisztviselőnek az építésügyi vizsgát a köztisztviselői kinevezést megelőzően vagy a kinevezést követő egy éven belül kell teljesítenie.
+6. §[^39] (1) Az építésügyi és az építésfelügyeleti hatóságnál foglalkoztatott köztisztviselőnek az építésügyi vizsgát a köztisztviselői kinevezést megelőzően vagy a kinevezést követő egy éven belül kell teljesítenie.
 
 (2) Az építésügyi vizsga letételére előírt határidőbe – igazolás alapján – nem számít bele
 
@@ -24,4 +24,4 @@ c) építésügyi igazgatási területen legalább 10 év közszolgálati jogvis
 
 (5) Az építésügyi és építésfelügyeleti hatóságnál vezetői megbízást, vezetői kinevezést – a 4. § (3) bekezdésében meghatározottak kivételével – csak az kaphat, aki eredményes építésügyi vizsgát tett vagy annak letétele alól mentesült.
 
-[^38]: A 6. § a 177/2010. (V. 13.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^39]: A 6. § a 177/2010. (V. 13.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
