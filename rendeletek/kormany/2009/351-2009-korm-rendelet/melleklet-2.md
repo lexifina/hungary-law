@@ -72,7 +72,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6. | tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. | honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. | katasztrófavédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 16. | településrendezési előírásokkal való összhang | Vas Megyei Kormányhivatal | építésügyért felelős miniszter |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 30. §-a szerint módosított szöveg.
