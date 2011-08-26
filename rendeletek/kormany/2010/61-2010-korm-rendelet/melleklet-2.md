@@ -82,7 +82,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 12. | tűzvédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 14. | katasztrófavédelem | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -102,4 +102,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
