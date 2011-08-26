@@ -12,17 +12,17 @@ e) a tűz- vagy robbanásveszélyes munkahelyen azt a munkavállalót, aki a mun
 
 f) a jogszabályok keretei között megállapítja a tűzvédelmi kötelezettségeket,
 
-g)[^1] a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatásával, illetve a raktározás, termelés kapacitásának 15%-kal történő növelésével járó tűzvédelmi helyzetre kiható változást ellenőrzi,
+g)[^2] a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatásával, illetve a raktározás, termelés kapacitásának 15%-kal történő növelésével járó tűzvédelmi helyzetre kiható változást ellenőrzi,
 
-h)[^2] az üzemeltetést, a tevékenységet a tűzvédelmi követelmények érvényesítéséig megtiltja, ha
+h)[^3] az üzemeltetést, a tevékenységet a tűzvédelmi követelmények érvényesítéséig megtiltja, ha
 
 ha) a helyiségben, az önálló rendeltetési egységben, az építményben, a szabadtéren a megengedett maximális befogadóképességet meghaladják, vagy azt az arra kötelezettek a Tűzvédelmi Szabályzatban nem állapították meg, vagy a kiürítési feltételeket nem biztosítják,
 
 hb) a tűzvédelmi helyzetre kiható és a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolását megváltoztató tevékenységet nem engedélyeztették a tűzvédelmi hatósággal, szakhatósággal vagy az engedélyezettől kedvezőtlenül eltérnek,
 
-i)[^3] a létesítmény, az építmény, a helyiség vagy a szabadtér területén tűzvédelmi használati szabályok betartását ellenőrzi.
+i)[^4] a létesítmény, az építmény, a helyiség vagy a szabadtér területén tűzvédelmi használati szabályok betartását ellenőrzi.
 
-j)[^4]
+j)[^5]
 
 (2) A Kormány az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF) jelöli ki első fokú tűzvédelmi hatóságként a következő ügycsoportokban:
 
@@ -48,7 +48,7 @@ a) a Budapest Ferihegy Nemzetközi Repülőtér tűzvédelmi ügyeiben, valamint
 
 b) a polgári repülőterek beépített tűzjelző, tűzoltó berendezések létesítési, átalakítási, bővítési és használatbavételi ügyeiben.
 
-[^1]: Az 1. § (1) bekezdés g) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
-[^2]: Az 1. § (1) bekezdés h) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
-[^3]: Az 1. § (1) bekezdés i) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
-[^4]: Az 1. § (1) bekezdés j) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be, a 94/2011. (VI. 28.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, ez utóbbi módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^2]: Az 1. § (1) bekezdés g) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
+[^3]: Az 1. § (1) bekezdés h) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés i) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be.
+[^5]: Az 1. § (1) bekezdés j) pontját a 23/2011. (III. 8.) Korm. rendelet 17. §-a iktatta be, a 94/2011. (VI. 28.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, ez utóbbi módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
