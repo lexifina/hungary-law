@@ -1,0 +1,1 @@
+## 25. § Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet 5. melléklet 17. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
