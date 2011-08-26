@@ -1,6 +1,6 @@
-3. § (1)[^3] A Kormány a katonai építésügyi hatósági jogkör gyakorlójaként, országos illetékességgel
+3. § (1)[^3] A Kormány a honvédelmi és katonai célú építményekkel kapcsolatos építésügyi hatósági jogkör gyakorlójaként, országos illetékességgel
 
-a) első fokon a Honvédelmi Minisztérium Központi Ellenőrzési és Hatósági Hivatal vezetőjét,
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
 
 b) másodfokon a honvédelemért felelős minisztert
 
@@ -8,4 +8,4 @@ b) másodfokon a honvédelemért felelős minisztert
 
 (2) A katonai építésügyi hatóság hatósági jogkörének gyakorlása során csak a jogszabályoknak van alárendelve, a hatósági ügyekben hozandó döntésében nem utasítható.
 
-[^3]: A 3. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^3]: A 3. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
