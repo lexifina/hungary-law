@@ -10,10 +10,10 @@ c) ügyeleti
 
 ## időből állhat.
 
-(2)[^35] A közforgalmú és fiókgyógyszertár szolgálati rendjét – ideértve a készenlét és ügyelet formáját és időtartamát is – a létesítés feltételeire is tekintettel a gyógyszertár működtetőjének javaslata alapján az ÁNTSZ a gyógyszertár működési engedélyében határozza meg. Az ÁNTSZ a szolgálati rend megállapítása során figyelembe veszi az adott településen vagy településrészen működő egészségügyi szolgáltatók – ideértve a gyógyszertárakat is – szolgálati rendjét is. A nyitvatartási idő lehet osztott vagy osztatlan.
+(2)[^37] A közforgalmú és fiókgyógyszertár szolgálati rendjét – ideértve a készenlét és ügyelet formáját és időtartamát is – a létesítés feltételeire is tekintettel a gyógyszertár működtetőjének javaslata alapján az ÁNTSZ a gyógyszertár működési engedélyében határozza meg. Az ÁNTSZ a szolgálati rend megállapítása során figyelembe veszi az adott településen vagy településrészen működő egészségügyi szolgáltatók – ideértve a gyógyszertárakat is – szolgálati rendjét is. A nyitvatartási idő lehet osztott vagy osztatlan.
 
 (3) Az intézeti gyógyszertár szolgálati rendje – a 23. § (2) bekezdés a) pontjának aa) és ab) alpontja szerinti alapfeladatainak ellátása tekintetében – azonos a fekvőbeteg- gyógyintézet működési rendjével. A 23. § (2) bekezdés a) pontjának ac) alpontja szerinti alapfeladat ellátását végző egység szolgálati rendjére e rendelet 14–15. §-ában foglaltakat is alkalmazni kell.
 
 (4) A kézigyógyszertár szolgálati ideje a kézigyógyszertár tartására jogosult háziorvos rendelőjében tartott rendelési és ügyeleti idővel egyezik meg.
 
-[^35]: A 14. § (2) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^37]: A 14. § (2) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 8. §-ával megállapított szöveg.

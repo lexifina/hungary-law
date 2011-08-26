@@ -6,12 +6,13 @@
 
 (3) Az e rendelet hatálybalépését megelőző napon érvényes működési engedéllyel rendelkező intézeti és fiókgyógyszertáraknak az e rendelet szerinti feltételeknek 2007. december 1-jéig kell megfelelniük.
 
-(4)[^76]
+(4)[^80]
 
-(5)[^77]
+(5)[^81] A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet és a gyógyszertárban forgalmazható, valamint kötelezően készletben tartandó termékekről szóló 2/2008. (I. 8.) EüM rendelet módosításáról szóló 48/2011. (VII. 27.) NEFMI rendelet hatálybalépését[^82] megelőző napon érvényes működési engedéllyel rendelkező közforgalmú, intézeti és fiókgyógyszertáraknak a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet és a gyógyszertárban forgalmazható, valamint kötelezően készletben tartandó termékekről szóló 2/2008. (I. 8.) EüM rendelet módosításáról szóló 48/2011. (VII. 27.) NEFMI rendelet 1. §-ával megállapított 13/A. §-ban foglalt feltételeknek 2013. szeptember 1-jétől kell megfelelniük.
 
-(6)[^78]
+(6)[^83]
 
-[^76]: A 37. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a hatályon kívül helyezte.
-[^77]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
-[^78]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^80]: A 37. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a hatályon kívül helyezte.
+[^81]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette, újonnan a 48/2011. (VII. 27.) NEFMI rendelet 2. §-a iktatta be.
+[^82]: A hatálybalépés időpontja 2011. augusztus 20.
+[^83]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
