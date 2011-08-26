@@ -112,7 +112,7 @@
 
 | 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. földművelésügy |  |  |
 
@@ -154,7 +154,7 @@
 
 | 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. földművelésügy |  |  |
 
@@ -172,4 +172,4 @@
 
 | 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 23. §-a szerint módosított szöveg.
