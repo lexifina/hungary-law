@@ -1,0 +1,1 @@
+A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 207. § (2) bekezdés d) és e) pontjaiban kapott felhatalmazás alapján, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény egyes rendelkezéseinek végrehajtásáról szóló 71/2006. (IV. 3.) Korm. rendelet 32/A. § (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
