@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-36-00-00
 | --- | --- | --- |
 | 2008-01-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-36-00-00.2 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2007-36-00-00.3 |
+| 2011-08-26 | 2010. évi CXLVII. törvény | 2007-36-00-00.4 |
