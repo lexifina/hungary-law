@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-16-20-2
 | --- | --- | --- |
 | 2011-02-25 | 2011-16-20-22.1 | 16/2011. (II. 24.) Korm. rendelet |
 | 2011-05-03 | 2011-16-20-22.2 | 76/2011. (V. 2.) Korm. rendelet |
+| 2011-08-26 | 2011-16-20-22.3 | 158/2011. (VIII. 11.) Korm. rendelet |

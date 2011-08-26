@@ -48,7 +48,7 @@
 
 | 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 16/2011. (II. 24.) Korm. rendelethez
+2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^4]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -78,7 +78,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7. | tűzvédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | honvédelem | Honvédelmi Minisztérium Honvéd Vezérkar Főnöke | honvédelemért felelős miniszter |
+| 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 9. | katasztrófavédelem | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -101,3 +101,5 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 15. | élelmiszer-egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
 | 16. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+
+[^4]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a szerint módosított szöveg.
