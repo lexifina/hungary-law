@@ -52,7 +52,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7 | Honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény-és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
@@ -148,7 +148,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7 | Honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
@@ -190,4 +190,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a szerint módosított szöveg.
