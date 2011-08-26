@@ -60,7 +60,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7. | tűzvédelem | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 9. | katasztrófavédelem | Országos Katasztrófavédelmi Főigazgatóság | katasztrófavédelemért felelős miniszter |
 
@@ -82,4 +82,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Bács-Kiskun Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított szöveg.
+[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 16. §-a szerint módosított szöveg.
