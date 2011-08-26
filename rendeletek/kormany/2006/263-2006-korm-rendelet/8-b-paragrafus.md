@@ -62,7 +62,7 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 ## szakhatóságként jelöli ki.
 
-(7)[^99] A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, a Magyar Köztársaság légterének védelmét ellátó szolgálatok tevékenységét, vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – a honvédelemért felelős minisztert szakhatóságként jelöli ki.
+(7)[^99] A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, a Magyar Köztársaság légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban pedig a honvédelemért felelős minisztert szakhatóságként jelöli ki.
 
 (8)[^100] A Kormány a leszállóhely létesítésére és megszüntetésére irányuló eljárásban
 
@@ -83,5 +83,5 @@ b) – annak elbírálása kérdésében, hogy a tevékenység a természet véd
 [^96]: A 8/B. § (2) bekezdés i) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés k) pontja szerint módosított szöveg.
 [^97]: A 8/B. § (5) bekezdés a) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) és h) pontja szerint módosított szöveg.
 [^98]: A 8/B. § (6) bekezdés a) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^99]: A 8/B. § (7) bekezdését a 84/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése, újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 43. §-át.
+[^99]: A 8/B. § (7) bekezdését újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, szövege a 158/2011. (VIII. 11.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^100]: A 8/B. § (8) bekezdését a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 43. §-át.

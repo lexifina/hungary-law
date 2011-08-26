@@ -18,7 +18,7 @@
 
 | 5. | Az eljárás a bányászati vagy gázipari létesítmények biztonsági övezetében történő építést, a bányatelken, a bányatelekkel nem rendelkező felhagyott bányával, meddőhányóval, célkitermelő hellyel, bányászati tevékenységgel érintett egyéb területen, illetve a 300 m2 -nél nagyobb alapterületű, bányászati módszerekkel kialakított föld alatti térségekkel érintett területen történő építést, nyilvántartott ásványi nyersanyag lelőhelyen, bányatelken történő építést érint, illetve az építés során ásványi nyersanyagot termelnek ki. | Annak elbírálása kérdésében, hogy a) a bányászati vagy gázipari létesítmények biztonsági övezetében történő építés, b) a bányatelken, a bányatelekkel nem rendelkező felhagyott bányával, meddőhányóval, célkitermelő hellyel, bányászati tevékenységgel érintett egyéb területen ill. a 300 m2 -nél nagyobb alapterületű, bányászati módszerekkel kialakított föld alatti térségekkel érintett területen való építés, a kérelemben foglaltak szerint vagy további feltételek mellett műszaki biztonsági szempontból engedélyezhetőek-e. Továbbá az építés során kitermelt ásványi nyersanyag használatának, értékesítésének, hasznosításának feltételei, a fizetendő bányajáradék mértéke meghatározása, az építmény építésföldtani megalapozottságának megítélése kérdésében. A földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, felszínmozgás veszélyeztetésének vizsgálata. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 6. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvéd Vezérkar főnöke | honvédelmi miniszter |
+| 6. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 7. | Gyorsforgalmi út esetén. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | az illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -30,6 +30,6 @@
 
 | 11. | Minden esetben. | A településrendezési eszközökkel való megfelelőség vizsgálata. | építésügyi hatóság | fővárosi és megyei kormányhivatal |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^134]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^135]
 
-[^134]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^135]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.

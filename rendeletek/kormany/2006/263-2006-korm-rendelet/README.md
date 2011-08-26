@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2010-05-15 | 2006-263-20-22.21 | 168/2010. (V. 11.) Korm. rendelet |
 | 2011-01-01 | 2006-263-20-22.22 | 326/2010. (XII. 27.) Korm. rendelet |
 | 2011-07-05 | 2006-263-20-22.23 | 362/2008. (XII. 31.) Korm. rendelet |
+| 2011-08-26 | 2006-263-20-22.24 | 362/2008. (XII. 31.) Korm. rendelet |
