@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-362-20-
 | --- | --- | --- |
 | 2009-10-01 | 2008-362-20-22.4 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2011-01-01 | 2008-362-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2011-08-26 | 2008-362-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
