@@ -1,4 +1,4 @@
-## 23–24. §[^8]
+## 23–24. §[^9]
 
 ## 7. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2012. július 2-án hatályát veszti.
 
-[^8]: A 23–24. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
+[^9]: A 23–24. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.

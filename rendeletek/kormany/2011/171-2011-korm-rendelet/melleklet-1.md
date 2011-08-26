@@ -1,4 +1,4 @@
-## 28. §[^12]
+## 28. §[^13]
 
 1. melléklet a 171/2011. (VIII. 24.) Korm. rendelethez
 
@@ -48,4 +48,4 @@ a munkaerő-kölcsönző nyilvántartásba vételéhez
 
 ”
 
-[^12]: A 28. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
+[^13]: A 28. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
