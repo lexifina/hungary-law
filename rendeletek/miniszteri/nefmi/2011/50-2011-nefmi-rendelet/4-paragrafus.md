@@ -1,0 +1,45 @@
+## 3. § Az Európai Közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő egyes egészségügyi oklevelek, bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 4/2008. (I. 16.) EüM rendelet (a továbbiakban: egészségügyi rendelet) 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+
+## a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 21. cikk (1)–(3) bekezdése, 23. cikke, 27. cikk (1) és (2) bekezdése, 33. cikke, 37. cikke, 43. cikke, 45. cikk (3) bekezdése, V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2., 5.6.2. pontja, valamint az irányelvnek az azt módosító, a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló, 2006. november 20-i 2006/100/EK tanácsi irányelv melléklete V. fejezetének
+
+## aa) b) pontjával megállapított 33a. cikke,
+
+## ab) c) pontjával módosított 37. cikk (1) bekezdése,
+
+## ac) d) pontjával megállapított 43a. cikke,
+
+## ad) f)–m) pontjával módosított 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3. pontja,
+
+## ae) o)–p) pontjával módosított 5.5.2., 5.6.2. pontja,
+
+## b) az irányelv V. melléklet 5. pontja az alábbiak szerint:
+
+## ba) az 5.1.1. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.) és a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.),
+
+## bb) az 5.1.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2007/C 165/06 EK bizottsági közlemény (2007. július 19.),
+
+## bc) az 5.1.3. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.), helyesbítve az Európai Unió Hivatalos Lapjában (HL L sorozat 93., 2008. április 4.),
+
+## bd) az 5.1.4. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2007/C 165/06 EK bizottsági közlemény (2007. július 19.),
+
+## be) az 5.2.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+
+## bf) az 5.3.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), helyesbítve az Európai Unió Hivatalos Lapjában (HL L sorozat 93., 2008. április 4.),
+
+## bg) az 5.3.3. pont tekintetében a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.) és a 2007/C 165/07 EK bizottsági közlemény (2007. július 19.),
+
+## bh) az 5.5.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+
+## bi) az 5.6.1. pont tekintetében a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+
+## bj) az 5.6.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.) és a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.),
+
+## c) az irányelv V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.6.2 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) szerint,
+
+## d) az irányelv V. melléklet 5.1.1 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) és a 2010/C 337/02 EK bizottsági közlemény (2010. december 14. ) szerint,
+
+## e) az irányelv II. melléklete és V. melléklet 5.1.3. pontja a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló, 2011. március 3-i 213/2011/EU bizottsági rendelet szerint,
+
+## f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja.”
