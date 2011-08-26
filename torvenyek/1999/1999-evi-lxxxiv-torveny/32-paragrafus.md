@@ -14,4 +14,24 @@ d) az adatszolgáltatás alanyának nevét.
 
 (4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet az adatvédelmi biztos, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
 
-(5) A 2007. évi CXII. törvénnyel kihirdetett, a Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött Szerződés (Prümi Szerződés) alapján történő adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára nézve a Prümi Szerződés 39. Cikkét kell alkalmazni.
+(5) Az e törvény 27/A. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
+
+a) az automatizált keresést kezdeményező együttműködő tagállami szerv megnevezését,
+
+b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében meghatározott szerv megnevezését,
+
+c) az automatizált keresést végrehajtó, erre felhatalmazott személy azonosítására alkalmas megjelölést,
+
+d) az automatizált keresés célját,
+
+e) az automatizált keresés időpontját,
+
+f) az automatizált kereséssel érintett adatokat,
+
+g) az automatizált keresés eredményét.
+
+(6) Az (5) bekezdés alapján vezetett adattovábbítási nyilvántartást az adattovábbítástól számított két évig meg kell őrizni.
+
+(7) Az (5) bekezdésben szereplő adatokat az adatvédelmi biztos kérésére haladéktalanul közölni kell.
+
+(8) Az adatvédelmi biztos az ellenőrzések eredményét további ellenőrzés céljából 18 hónapig megőrzi, amit ezen időtartam lejárta után haladéktalanul töröl.

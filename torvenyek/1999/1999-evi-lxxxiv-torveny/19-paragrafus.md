@@ -20,7 +20,7 @@ g) a vámhatóság a vámigazgatási eljáráshoz a 9. §-ban és a 9/A. § (1) 
 
 h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e), f) pontjaiban, a 9. § (2) bekezdés a), b), d) és e) pontjaiban, valamint a 9. § (4) bekezdésében megjelölt adatokat;
 
-i) a nemzetközi szerződésben vagy nemzetközi kötelezettségvállalásban megnevezett szervezet az abban megjelölt adatokat;
+i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 
 j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
 

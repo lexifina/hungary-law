@@ -1,6 +1,6 @@
 ## VI. Fejezet
 
-## ÁTMENETI, ZÁRÓ ÉS FELHATALMAZÓ RENDELKEZÉSEK
+## ÁTMENETI, ZÁRÓ, FELHATALMAZÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 35. § (1) E törvény a (2)–(3) bekezdésben foglaltak kivételével 2000. január 1-jén lép hatályba.
 

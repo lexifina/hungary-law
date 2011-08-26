@@ -27,3 +27,5 @@
 12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó nyilvántartás.
 
 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
+
+14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
