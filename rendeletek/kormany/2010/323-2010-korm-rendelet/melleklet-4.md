@@ -790,7 +790,7 @@
 
 ## g) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye vonatkozásában: a Hajdú-Bihar Megyei Népegészségügyi Szakigazgatási Szerv.
 
-4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez
+4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^37]
 
 A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban közreműködő szakhatóságok
 
@@ -854,6 +854,8 @@ V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó
 
 | 6. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. | Az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett létesítmény megvalósítására irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 7. | Az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett létesítmény megvalósítására irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+
+[^37]: A 4. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
