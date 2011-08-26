@@ -228,7 +228,7 @@
 
 ## d) Az ab), illetve c) pont szerinti – az adott tagállam illetékes hatósága által kibocsátott – igazolás tanúsítja, hogy birtokosa az előírt szülésznői képesítés megszerzését tanúsító okirat megszerzését követően, kórházban vagy egy erre engedéllyel rendelkező egészségügyi intézményben, az ab), illetve c) pontban meghatározott időtartamban gyakorolta a szülésznői tevékenységek teljes körét.
 
-5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
+5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^6]
 
 A Magyarországon kiállított gyógyszerész oklevelek és az azokkal egyenértékű, feltétel nélkül elismerésre kerülő oklevelek
 
@@ -338,4 +338,4 @@ i) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állam
 
 k) Amennyiben az adott gyógyszerészi tevékenység végzéséhez az A) pont szerinti oklevél megszerzése mellett a külön jogszabály szakmai gyakorlat követelményét írja elő, a szakmai gyakorlathoz kötött gyógyszerészi tevékenység megkezdésének feltételeként előírt gyakorlat igazolásaként el kell fogadni a tagállami állampolgár származási vagy küldő tagállamának illetékes hatósága által kiadott olyan igazolást, amely tanúsítja, hogy a tagállami állampolgár a gyógyszerészi tevékenységet a külön jogszabályban előírttal azonos ideig gyakorolta a származási vagy küldő tagállamban.
 
-[^5]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § d) pontja szerint módosított szöveg.
+[^6]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § d) pontja szerint módosított szöveg.

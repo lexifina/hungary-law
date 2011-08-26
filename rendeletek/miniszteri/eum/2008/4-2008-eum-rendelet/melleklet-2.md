@@ -46,7 +46,7 @@
 
 | Norvégia | Vitnemål for fullført grad candidata/candidatus medicinae, röv.: cand.med. (Candidata/candidatus medicinae, röv.: cand.med. fokozat megszerzést tanúsító oklevél) | Medisinsk universitetsfakultet (Egyetem orvostudományi kara) | Bekreftelse på praktisk tjeneste som lege utstedt av kompetens offentlig myndighet (Az illetékes hatóság által kiállított, gyakorlat elvégzését tanúsító oklevél) |
 
-| Ausztria | 1. Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heilkunde (bzw. Doctor medicinae universae, Dr.med.univ.) (Általános orvosi (ill. a Doctor medicinae universae, Dr. med. univ.) tudományos fokozat odaítéléséről szóló oklevél) 2. Diplom über die spezifische Ausbildung zum Arzt für Allgemeinmedizin bzw. Facharztdiplom (Általános orvosi szakképesítést igazoló oklevél, ill. szakorvosi oklevél) | 1. Medizinische Fakultät einer Universität (Egyetemi Orvostudományi Kar) 2. Österreichische Ärztekammer (Osztrák Orvosi Kamara) |  |
+| Ausztria | Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heilkunde (bzw. Doctor medicinae universae, Dr.med.univ.) [Általános orvosi (ill. a Doctor medicinae universae, Dr. med. univ.) tudományos fokozat odaítéléséről szóló oklevél] | Medizinische Fakultät einer Universität (Egyetemi Orvostudományi Kar) |  |
 
 | Lengyelország | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem „lekarza” (Egyetemi orvostudományi kar elvégzését igazoló oklevél „orvos” címmel) | 1. Akademia Medyczna (Orvostudományi Akadémia), 2. Uniwersytet Medyczny (Orvostudományi Egyetem), 3. Collegium Medicum Uniwersytetu Jagiellońskiego (A Jagello Egyetem orvostudományi kara (Collegium Medicum)) | Lekarski Egzamin Państwowy (Orvosi államvizsga) |
 
@@ -2120,6 +2120,134 @@
 
 | Egyesült Királyság | Trauma and orthopaedic surgery |  |
 
+|  | Orvosi genetika A képzés legrövidebb időtartama: 4 év |
+
+|  | Belgium | - |  |
+
+|  | Bulgária | Медицинска генетика |  |
+
+|  | Cseh Köztársaság | Lékařská genetika |  |
+
+|  | Dánia | Klinisk genetik |  |
+
+|  | Németország | Humangenetik |  |
+
+|  | Észtország | Meditsiinigeneetika |  |
+
+|  | Görögország | - |  |
+
+|  | Spanyolország | - |  |
+
+|  | Franciaország | Génétique médicale |  |
+
+|  | Írország | Clinical genetics |  |
+
+|  | Izland | - |  |
+
+|  | Olaszország | Genetica medica |  |
+
+|  | Ciprus | - |  |
+
+|  | Lettország | Medicīnas ģenētika |  |
+
+|  | Liechtenstein | - |  |
+
+|  | Litvánia | Genetika |  |
+
+|  | Luxemburg | Médecine génétique |  |
+
+|  | Magyarország | Klinikai genetika |  |
+
+|  | Málta | - |  |
+
+|  | Hollandia | Klinische genetica |  |
+
+|  | Norvégia | - |  |
+
+|  | Ausztria | Medizinische Genetik |  |
+
+|  | Lengyelország | Genetyka kliniczna |  |
+
+|  | Portugália | Genética médica |  |
+
+|  | Románia | Genetica medicala |  |
+
+|  | Szlovénia | Klinična genetika |  |
+
+|  | Szlovákia | Lekárska genetica |  |
+
+|  | Finnország | Perinnöllisyyslääketiede/ Medicinsk genetik |  |
+
+|  | Svédország | - |  |
+
+|  | Svájc | - |  |
+
+|  | Egyesült Királyság | Clinical genetics |  |
+
+|  | Orvosi onkológia A képzés legrövidebb időtartama: 5 év |
+
+|  | Belgium | - |  |
+
+|  | Bulgária | Медицинска онкология |  |
+
+|  | Cseh Köztársaság | Klinická onkologie |  |
+
+|  | Dánia | - |  |
+
+|  | Németország | - |  |
+
+|  | Észtország | - |  |
+
+|  | Görögország | Παθολογική Ογκολογία |  |
+
+|  | Spanyolország | - |  |
+
+|  | Franciaország | Oncologie |  |
+
+|  | Írország | Medical oncology |  |
+
+|  | Izland | - |  |
+
+|  | Olaszország | Oncologia medica |  |
+
+|  | Ciprus | Ακτινοθεραπευτική Ογκολογία |  |
+
+|  | Lettország | Onkoloģija ķīmijterapija |  |
+
+|  | Liechtenstein | - |  |
+
+|  | Litvánia | Chemoterapinė onkologija |  |
+
+|  | Luxemburg | Oncologie médicale |  |
+
+|  | Magyarország | Klinikai onkológia |  |
+
+|  | Málta | - |  |
+
+|  | Hollandia | - |  |
+
+|  | Norvégia | - |  |
+
+|  | Ausztria | - |  |
+
+|  | Lengyelország | Onkologia kliniczna |  |
+
+|  | Portugália | Oncologia médica |  |
+
+|  | Románia | Oncologie medicala |  |
+
+|  | Szlovénia | Internistična onkologija |  |
+
+|  | Szlovákia | Klinická onkológia |  |
+
+|  | Finnország | - |  |
+
+|  | Svédország | - |  |
+
+|  | Svájc | - |  |
+
+|  | Egyesült Királyság | Medical oncology |  |
+
 | Patológia A képzés legrövidebb időtartama: 4 év |
 
 | Belgium | Anatomie pathologique / Pathologische anatomie |  |
@@ -3162,6 +3290,6 @@
 
 ## A fenti igazolást ugyanolyan hatályúnak kell tekinteni, mint a külön jogszabályban meghatározott, a háziorvosi szakképzettség megszerzését tanúsító okiratot.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^2]
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^3]
 
-[^2]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.

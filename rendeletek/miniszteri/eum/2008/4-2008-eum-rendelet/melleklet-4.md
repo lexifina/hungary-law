@@ -386,6 +386,6 @@
 
 ## r) Feltétel nélkül elismerésre kerül az orvosi oklevél azon tagállami állampolgár esetében, akinek orvosi oklevelét Romániában állították ki és akinek a képzése 2003. október 1-jén vagy azt megelőzően kezdődött, amennyiben Románia illetékes hatósága által kiadott igazolás tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen, jogszerűen és főtevékenységként gyakorolta Románia területén a fogorvosi tevékenységet és az adott tagállami állampolgár ugyanolyan feltételek mellett jogosult a szóban forgó tevékenység folytatására, mint az A) pontban Romániára vonatkozóan említett oklevéllel rendelkezők. A hároméves gyakorlat követelménye nem vonatkozik arra a tagállami állampolgárra, aki legalább három tanulmányi évet sikeresen befejezett, ha az illetékes hatóság igazolja, ez a tanulmány egyenértékű az európai közösségi jog által meghatározott minimális képzési követelmények szerinti fogorvosi képzéssel.
 
-4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^4]
+4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
 
-[^4]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja szerint módosított szöveg.
+[^5]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja szerint módosított szöveg.
