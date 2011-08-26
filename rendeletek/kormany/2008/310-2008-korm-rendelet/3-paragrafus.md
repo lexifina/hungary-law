@@ -8,13 +8,19 @@
 
 (4) Az országos katasztrófavédelmi főigazgatóság (a továbbiakban: főigazgatóság) főigazgatója jár el a fluortartalmú üvegházhatású gázokkal kapcsolatos címkézésre, forgalomba hozatalra, valamint a telepítést, karbantartást, szervizelést, szivárgásellenőrzést végző gazdálkodó szervezetekre vonatkozó rendelkezések esetében, amennyiben az érintett alkalmazás tűzoltó-technikai termék vagy oltóanyag.
 
-(5)[^3] A Honvédelmi Minisztérium Központi Ellenőrzési és Hatósági Hivatal (a továbbiakban: HM KEHH) jár el az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatban a magyar honvédség létesítményei tekintetében.
+(5)[^3] A Kormány a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása, valamint felügyelete alá tartozó szervezetek elhelyezését szolgáló létesítmények, eszközök, berendezések tekintetében az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos hatósági jogkörben, országos illetékességgel
+
+a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét (a továbbiakban: HM HH),
+
+b) másodfokon a honvédelemért felelős minisztert
+
+jelöli ki.
 
 (6)[^4] A közlekedési hatóság a gépjárműfenntartói tevékenység ellenőrzési feladatainak végzése során megvizsgálja, hogy a járműklíma és szállítmányhűtés szektorokban tevékenykedő gépjárműszerviz rendelkezik-e erre feljogosító képesítéssel, és hiányosság, jogszabálysértés esetén haladéktalanul értesíti a területileg illetékes felügyelőséget.
 
 (7)[^5] A környezetvédelemért felelős miniszter jár el az 1005/2009/EK európai parlamenti és tanácsi rendelet 18. és 26. cikkében meghatározott feladatok esetében.
 
 [^2]: A 3. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 225. §-a szerint módosított szöveg.
-[^3]: A 3. § (5) bekezdése a 105/2009. (V. 14.) Korm. rendelet 4. § (6) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (5) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 225. §-a szerint módosított szöveg.
 [^5]: A 3. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 654. § (1) bekezdésével megállapított, a 34/2010. (II. 24.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
