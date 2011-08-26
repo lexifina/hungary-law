@@ -72,7 +72,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | Földművelésügy: |  |  |
 
@@ -112,7 +112,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Honvédelem: |  |  |
 
-| - honvédelem | Honvéd Vezérkar Főnöke | honvédelemért felelős miniszter |
+| - honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | - az állami repülés biztonsága | Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter |
 
@@ -148,7 +148,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
 
-| Honvédelem | Honvéd Vezérkar Főnöke | honvédelemért felelős miniszter |
+| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | Földművelésügy: |  |  |
 
@@ -200,4 +200,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a szerint módosított szöveg.
