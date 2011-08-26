@@ -76,7 +76,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 12. | tűzvédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | honvédelem | Honvéd Vezérkar főnöke | honvédelemért felelős miniszter |
+| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 14. | katasztrófavédelem | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -96,4 +96,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 272. §-ával megállapított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 272. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 31. §-a szerint módosított szöveg.
