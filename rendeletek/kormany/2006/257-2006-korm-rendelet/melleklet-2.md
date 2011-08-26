@@ -50,7 +50,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonság Igazgatóság [OAH NBI] | Országos Atomenergia Hivatal főigazgatója |
 
-| honvédelem | Honvéd Vezérkar Főnöke | honvédelemért felelős miniszter |
+| honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | földművelésügy: |  |  |
 
@@ -80,4 +80,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a szerint módosított szöveg.
