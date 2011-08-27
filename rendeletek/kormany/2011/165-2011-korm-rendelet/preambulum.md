@@ -1,1 +1,0 @@
-A Kormány a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés h) pontjában, valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdés 7., 18. pontjában és (5) bekezdés a) és b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következő rendeletet alkotja:
