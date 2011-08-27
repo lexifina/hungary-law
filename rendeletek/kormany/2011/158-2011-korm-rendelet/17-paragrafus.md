@@ -1,1 +1,0 @@
-## 16. § A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 192/2008. (VII. 30.) Korm. rendelet 2. számú melléklet 8. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.

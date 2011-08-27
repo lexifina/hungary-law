@@ -1,1 +1,0 @@
-## 30. § A Vát és Porpác települések közigazgatási területén megvalósuló repülőtér-fejlesztéssel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 351/2009. (XII. 30.) Korm. rendelet 2. melléklet 7. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.

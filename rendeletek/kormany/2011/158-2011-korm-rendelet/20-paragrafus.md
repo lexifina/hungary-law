@@ -1,1 +1,0 @@
-## „(1) Az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet alapján kiadott, kritikus alkalmazási területeken történő felhasználásra vonatkozó engedéllyel rendelkezőknek a halonról évente, a tárgyévet követő év március 31-éig adatot kell szolgáltatniuk a Főigazgatóság, illetve a HM HH részére.”

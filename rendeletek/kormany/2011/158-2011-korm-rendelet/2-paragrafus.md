@@ -1,1 +1,0 @@
-## 1. § Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 3. számú melléklet 13. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.

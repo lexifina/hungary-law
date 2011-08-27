@@ -1,1 +1,0 @@
-## „f) a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet esetében a honvédelmi ágazati munkavédelmi és munkabiztonsági követelményeknek való megfelelés kérdésében munkabiztonsági szakhatóságként az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban a honvédelemért felelős minisztert.”

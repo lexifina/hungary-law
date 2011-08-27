@@ -1,1 +1,0 @@
-## 9. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 2. melléklet 8. pontjában, 3. melléklet 10. pontjában és 3. melléklet 2. táblázat 10. pontjában a „Honvéd Vezérkar főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szöveg lép.
