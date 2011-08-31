@@ -1,0 +1,349 @@
+# A Kormány 175/2011. (VIII. 31.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 100. szám, 2011. augusztus 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/313cdf9292c89c28cf98448d40cc811de9fe411e/dokumentumok/c73ceb82ab854f9e67816d33334ba645b1d8449d/letoltes)
+
+---
+
+A Kormány 175/2011. (VIII. 31.) Korm. rendelete
+a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(2) bekezdésében meghatározott feladatkörében eljárva, valamint a közúti közlekedésről szóló 1988. évi I. törvény 48. §
+(3) bekezdés a) pont 7. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott
+feladatkörében eljárva a következőket rendeli el:
+1. §
+A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: R.) 3/A. § (3) bekezdése
+helyébe a következő rendelkezés lép:
+„(3) A megyei és fővárosi közlekedési felügyelőségek által első fokon hozott döntés elleni fellebbezést a Nemzeti
+Közlekedési Hatóság Központja bírálja el.”
+2. §
+Az R. 4. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A Kormány közlekedési hatóságként)
+„c) az (5) bekezdés és 4/A. § (1) bekezdés szerinti ügyekben első fokon a megyei (fővárosi) közlekedési felügyelőséget”
+(jelöli ki.)
+3. §
+(1) Az R. 4. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(Közlekedési hatóságként első fokon az Útügyi, Vasúti és Hajózási Hivatal jár el:)
+„h) vasúti átjáró – az ideiglenesen létesített vasúti átjáró kivételével – létesítésének, áthelyezésének és
+megszüntetésének, valamint a létesítés és az áthelyezés során a vasúti átjáró biztosítási módjának és forgalmi
+rendjének engedélyezése,”
+(során.)
+(2) Az R. 4. § (2) bekezdése a következő j) és k) ponttal egészül ki:
+(Közlekedési hatóságként első fokon az Útügyi, Vasúti és Hajózási Hivatal jár el:)
+„j) a közúti biztonsági auditori képzés és továbbképzés engedélyezése, az engedéllyel rendelkező szervezetek
+nyilvántartásának vezetése, a közúti biztonsági auditori képzési tanterv jóváhagyása, a képzési engedéllyel rendelkező
+szervezetek ellenőrzése,
+k) az országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek hídjai, valamint a harminc
+méter szabadnyílást meghaladó hidak kiviteli tervének jóváhagyása”
+(során.)
+4. §
+Az R. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Közlekedési hatóságként első fokon a Közúti Gépjármű-közlekedési Hivatal jár el:
+1. az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény 13. § (1)–(2) bekezdése
+szerinti engedélyekkel, valamint a nemzetközi közúti áruszállítási engedélyekkel, a nemzetközi szerződések szerint
+engedélyköteles személyszállítási tevékenységet végző autóbuszok járati engedélyeivel és a Közlekedési Miniszterek
+Európai Konferenciája (CEMT) által létrehozott közlekedési engedélyekkel kapcsolatos hatáskörök gyakorlása,
+2. a közúti járművek – ideértve a trolibuszokat is – típusbizonyítványaival, általános forgalomba helyezési, illetve
+sorozat forgalomba helyezési és átalakítási engedélyével, az egyedi és kis sorozatú gyártás útján létrehozott járművek
+elő zetes összeépítési engedélyével és a megfelelőségi nyilatkozat alapján történő forgalomba helyezéssel, továbbá
+a jármű megváltoztatására vonatkozó alkalmazási engedéllyel kapcsolatos hatáskörök gyakorlása,
+3. a gyorsan romló élelmiszerek nemzetközi közúti szállításáról szóló Egyezmény (ATP) hatálya alá tartozó
+szállítóeszközök időszakos ATP alkalmassági szemléjének elvégzése, az azonosító jelzés hitelesítése, annak
+használatának szabályozása, az alkalmassági bizonyítványának kiadása és a külföldi vizsgálati eredmények honosítása,
+4. a nem közúti mozgógépekbe építendő belső égésű motorok típusjóváhagyásával kapcsolatos feladatok ellátása,
+5. a közúti jármű sorozatszerű átalakítását végző gépjárműfenntartó szervezet feljogosítása az átalakítással érintett
+szerkezeti elemek átvizsgálására,
+6. a közúti járműalkatrészek, járműtartozékok és járműtulajdonságok jóváhagyásával, egyes pótalkatrészek és
+tartozékok minősítő vizsgálatával és a jóváhagyási jellel kapcsolatos hatáskörök gyakorlása,
+7. a túlméretes és a megengedett össztömeget, illetve tengelyterhelést meghaladó járművek forgalomba
+helyezésének, valamint tehergépkocsival második pótkocsi vontatásának engedélyezésével kapcsolatos hatáskörök
+gyakorlása,
+
+8. a rugózatlan kerékfelfüggesztés, nem fúvott gumiabroncs, valamint az 50 km/h sebességnél gyorsabban haladni
+nem képes gépjárműben csak külső erővel működő kormányberendezés esetében az eltérés engedélyezésével
+kapcsolatos hatáskörök gyakorlása,
+9. a kísérleti jármű, pótkocsi vontatószerkezet általi kormányozhatósága, valamint az 50 km/h sebességnél
+gyorsabban haladni képes gépjárműben csak külső erővel működő kormányberendezés esetében az eltérés
+engedélyezésével kapcsolatos hatáskörök gyakorlása,
+10. a muzeális jellegű járművek karbantartásához az előírt követelményeket nem teljesítő festék- és fényező termékek
+forgalomba hozatalának engedélyezésével kapcsolatos hatáskörök gyakorlása,
+11. a közúti közlekedésről szóló törvény szerinti típusvizsgálati tevékenység engedélyezésével kapcsolatos
+hatáskörök gyakorlása, a típusvizsgáló tanúsító szervezettel a hatósági szerződés megkötése, valamint a típusvizsgáló
+tanúsító szervezet tevékenységének ellenőrzése, és azok tekintetében a szolgáltatási tevékenység megkezdésének és
+folytatásának
+általános
+szabályairól
+ szóló
+törvény
+szerinti
+szolgáltatás
+felügyelete,
+közúti
+járművek
+típusjóváhagyásával kapcsolatos jogszabályok megsértőivel szemben bírság kiszabása,
+12. a típusvizsgáló tanúsító szervezetnek, valamint az autóbusz-fenntartónak az emelt sebességhatárú autóbuszok
+vizsgálatára vonatkozó feljogosítása, és az ehhez kapcsolódó nyilvántartás és műszaki adatbázis kezelése,
+13. a műszaki vizsgabiztosi tevékenységet végző személy képzése, továbbképzése, tevékenységének engedélyezése,
+engedélyéről nyilvántartás vezetése és az ahhoz kapcsolódó hatáskörök gyakorlása,
+14. a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált
+megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló,
+2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendeletben, valamint az új személygépkocsik
+nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és
+bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendeletben meghatározott, az új
+személygépkocsik üzemanyag-fogyasztási és kibocsátási adatainak nyilvántartása és közzététele, a CO2 kibocsátás
+nyomon követési adatainak összegyűjtése és az Európai Bizottság (a továbbiakban: Bizottság) részére történő
+továbbítása, továbbá az üzemanyag-töltőállomásokra vonatkozóan a bejelentett adatok gyűjtése és a tagállami
+bejelentési feladatok ellátása,
+15. a veszélyes áru szállítási biztonsági tanácsadók hatósági nyilvántartásának vezetése,
+16. a közúti járművezetők képzésének és utánképzésének engedélyezésével, a közúti közlekedési szakemberek
+képzésének és továbbképzésének engedélyezésével és vizsgáztatásával (vizsgakötelezettség alóli mentesítésével),
+a vizsgabiztosi, szakoktatói és iskolavezetői tevékenység engedélyezésével kapcsolatos hatáskörök gyakorlása,
+ideértve a közúti járművezetők és a közúti közlekedési szakemberek képzésének, továbbképzésének, utánképzésének,
+vizsgáztatásának, valamint a vizsgabiztosi, a szakoktatói és az iskolavezetői tevékenység szakfelügyeletét; továbbá
+a vizsgabiztosi, a szakoktatói és az iskolavezetői névjegyzék vezetése, az engedélyezett képző szervek nyilvántartása,
+tansegédletek meghatározása,
+17. a közúti járművezetők elő zetes, időszakos és rendkívüli pályaalkalmassági vizsgálata, valamint a vizsgálat
+lefolytatásába jogszabály alapján bevont szervezet tevékenységének irányítása és ellenőrzése,
+18. a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK
+tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK parlamenti és tanácsi rendeletben
+meghatározott feladatok ellátása,
+19. a nehéz tehergépkocsik közlekedésének korlátozásáról szóló rendelet szerint a korlátozás alóli felmentésre
+vonatkozó engedélykérelmekkel kapcsolatos, a Hatóság hatáskörébe tartozó feladatok ellátása,
+20. a közúti árufuvarozási tevékenység keretében végzett radioaktív anyag továbbításának engedélyezésével
+kapcsolatos hatáskörök gyakorlása,
+21. a közúti járművezetők és közúti közlekedési szakemberek képzésében alkalmazható tansegédletek
+engedélyezése és tanúsítvánnyal való ellátása, valamint az e-learning rendszerű oktatásban alkalmazott rendszerek és
+az e-learning tananyagok engedélyezése,
+22. a tachográf gyártók hazai képviselőjének elismerése,
+23. a közlekedési hatóság nevében közúti ellenőrzést végző személy képzése, névjegyzékbe vétele és az ahhoz
+kapcsolódó hatáskörök gyakorlása,
+24. a közlekedési hatósági tevékenységhez kapcsolódó országos nyilvántartások, informatikai rendszerek
+működtetése és fejlesztése,
+25. a gépjármű fenntartó szervezetekről nyilvántartás vezetése,
+26. a trolibuszok tekintetében a közúti járművekre vonatkozóan az (5) bekezdés 1. és 8. pontjaiban meghatározott
+feladatkörök ellátása
+során.”
+
+5. § Az R. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Közlekedési hatóságként első fokon a területileg illetékes megyei (fővárosi) közlekedési felügyelőség jár el:
+1. a közúti közlekedésről szóló törvény szerinti vizsgáló állomási tevékenység engedélyezésével kapcsolatos
+hatáskörök gyakorlása, a vizsgáló állomással a hatósági szerződés megkötése, valamint a vizsgáló állomások
+tevékenységének ellenőrzése, a vizsgáló állomás és a járműfenntartó szervezet tekintetében a szolgáltatási
+tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban:
+Szolg.tv.) szerinti szolgáltatás felügyelete,
+2. járműbontókkal közreműködői megállapodások megkötése, a tevékenységük ellenőrzése,
+3. az úthasználati díj ellenőrzése,
+4. a közúti szállítást végző járművek személyzetének vezetési és pihenőidejének ellenőrzése,
+5. a veszélyes árut közúton szállító járművek közlekedésének ellenőrzése,
+6. a nehéz tehergépkocsik közlekedésének korlátozásáról szóló rendeletben meghatározott szabályok betartásának
+ellenőrzése,
+7. a nemzetközi kombinált áruszállítás során a fuvarokmány meglétének, tartalmának és érvényességének
+ellenőrzése,
+8. a közúti járművek közlekedésbiztonsági ellenőrzése, a közúti járművek összeépítése, egyedi átalakítása, valamint
+a forgalomba helyezésének engedélyezése, forgalomba helyezés előtti és időszakos vizsgálata,
+9. a közúti ellenőrzés keretében a közúti járműveknél a veszélyes áruk szállításához előírt különleges feltételek
+ellenőrzése (ADR),
+10. a közúti ellenőrzés keretében a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzése,
+11. a közúti közlekedési szolgáltatási tevékenységhez és meghatározott járművek üzemeltetéséhez kapcsolódó
+bejelentési, engedélyezési, nyilvántartási és ellenőrzési feladatok ellátása, a közúti járművek üzemeltetése
+szabályszerűségének, valamint a jármű üzemeltetésére vonatkozó előírások megtartásának ellenőrzése közúton,
+ideértve az adott tevékenységhez előírt okmányok, engedélyek, jelzések, felszerelések ellenőrzését,
+12. a radioaktív anyagok szállításának és fuvarozásának hatósági ellenőrzése,
+13. a gépkocsik által kibocsátott kipufogógázok szennyezőanyag-tartalmának közúti ellenőrzése,
+14. a gépkocsik környezetvédelmi alkalmasságának és plakettjének közúti forgalomban való ellenőrzése, a plakett
+eltávolítása,
+15. a gépkocsik környezetvédelmi jellemzői ellenőrzése,
+16. a Magyar Köztársaság tekintetében a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról,
+a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon
+kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint
+a tachográfokra vonatkozó közösségi rendeletben az ellenőrzéshez szükséges tachográfkártyákkal
+(a gépjárművezetői kártya, az ellenőri kártya, a műhelykártya és az üzemben tartói kártya) kapcsolatos feladatok
+ellátása,
+17. a digitális tachográf beépítését, üzembe helyezését, aktiválását, illesztését, ellenőrzését vagy javítását végző
+műhely gépjárműfenntartó tevékenységére vonatkozó bejelentések fogadása, a tevékenység ellenőrzése,
+18. a digitális tachográf kártyák kiadása, érvénytelenítése, cseréje, pótlása, visszavonása,
+19. a közúti járművezetők vizsgáztatása, a vizsgakötelezettség alóli mentesítése, továbbá a képzés, utánképzés
+a szakoktatók és iskolavezetők tevékenységének ellenőrzése,
+20. a megyei (fővárosi) közlekedési felügyelőségek által végzett ellenőrzésekhez kapcsolódó bírságolási feladatok
+ellátása
+során.”
+6. § Az R. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az (5) bekezdés 1., 3–16. és 19. pontjában, továbbá a 4/A. §-ban meghatározott feladatokkal összefüggésben
+az NKH Közúti Gépjármű-közlekedési Hivatala jogosult országos illetékességgel hatósági ellenőrzést végezni, valamint
+a megyei (fővárosi) közlekedési felügyelőségek ellenőrzési tevékenységével kapcsolatos koordinációs feladatokat
+ellátni, valamennyi országos ellenőrzési tervet összeállítani.”
+7. § Az R. 4. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A Kormány a közlekedési igazgatási hatóságnak az erre a célra rendszeresített, zárt közúti halottszállító jármű
+forgalmi engedélyének a kiadására irányuló közigazgatási hatósági eljárásában – a jármű rakodóterében szállítható
+
+halottak forgalmi engedélybe bejegyezhető számának meghatározása kérdésében – első fokú szakhatóságként
+az illetékes megyei (fővárosi) közlekedési felügyelőséget, másodfokú szakhatóságként a Központot
+jelöli ki.”
+8. §
+Az R. 4. § (12) bekezdése helyébe a következő rendelkezés lép:
+„(12) A Szolg.tv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként e kormányrendeletben szabályozott
+hatáskörökhöz igazodóan a közlekedési hatóság jár el a következő szolgáltatási tevékenységek tekintetében:
+a) a közúti járművezetők vizsgáztatása és a közúti közlekedési szakemberek tanfolyami képzése, továbbképzése,
+utánképzése és vizsgáztatása, az e képzésekkel és vizsgáztatásokkal összefüggő iskolavezetői, szakoktatói és
+vizsgabiztosi tevékenység,
+b) a Kkt. 16/A. §-a szerinti szakértői tevékenység, ha kormányrendelet eltérően nem rendelkezik,
+c) a Kkt. 24/A. § (2) bekezdése szerint engedélyezett vizsgáló állomás tevékenysége,
+d) a Kkt. 24/A. § (6) bekezdése szerint engedélyezett műszaki vizsgabiztosi tevékenység, valamint
+e) a veszélyes áru szállítási biztonsági tanácsadói tevékenység.”
+9. §
+Az R. 4. §-a a következő (14) bekezdéssel egészül ki:
+„(14) A Közúti Gépjármű-közlekedési Hivatal hatáskörébe tartozó eljárásokban az ügyfél a kérelmet a területileg
+illetékes megyei (fővárosi) közlekedési felügyelőségnél is benyújthatja.”
+10. §
+Az R. 4/A. §-a helyébe a következő rendelkezés lép:
+„4/A. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33/A. § (1) bekezdése szerinti
+engedélyező hatóságként a Kormány a 4. § (1) bekezdés a) és c) pontjában meghatározott közlekedési hatóságot jelöli
+ki.
+(2) Az (1) bekezdés szerinti ügyekben első fokon a megyei és fővárosi közlekedési felügyelőségek, másodfokon
+a Központ jár el.”
+11. §
+(1) Az R. 5. § (5) bekezdés 25. pontja helyébe a következő rendelkezés lép:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„25. az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK
+európai parlamenti és tanácsi rendelet („keretrendelet”) 4. cikke rendelkezésének megfelelően kijelölt nemzeti
+felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt
+feladatok végrehajtásáról, valamint a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló
+1794/2006/EK rendelet módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet 1. cikk 8. pontjában
+meghatározott konzultáció lefolytatásáról;”
+(2) Az R. 5. § (5) bekezdése a következő 51. ponttal egészül ki:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„51. a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási
+tervek ellenőrzése.”
+12. §
+(1) Az R. 5. § (12) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A szakhatósági állásfoglalást)
+„c) nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök
+(ellenőrzött szállító), valamint az ismert feladó és fedélzeti ellátmány meghatalmazott beszállítója minősítésére és
+jóváhagyására irányuló eljárásban harminc napon,”
+(belül kell kiadni.)
+(2) Az R. 5. § (12) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A szakhatósági állásfoglalást)
+„e) a 300/2008/EK európai parlamenti és tanácsi rendelet 18. cikk a) pontjában említett információkat tartalmazó,
+a
+közös
+légiközlekedés-védelmi
+alapkövetelmények
+végrehajtásához
+szükséges
+részletes
+intézkedések
+meghatározásáról szóló 774/2010/EU bizottsági határozat 12. számú függeléke hatálya alá eső légiközlekedés védelmi
+berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló
+eljárásában húsz napon”
+(belül kell kiadni.)
+
+13. §
+Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A vasúti közlekedés biztonságával összefüggő munkakört betöltő vasúti munkavállalók vizsgáztatását, valamint
+ezek oktatóinak vizsgáztatását végző vizsgabiztosokat a Hatóság elnöke nevezi ki.”
+14. §
+Az R. 8. § (1) bekezdés h) és i) pontja helyébe a következő rendelkezés lép:
+(A hatóság elnöke:)
+„h) a közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére és
+vizsgáztatására vonatkozó jogszabályokban meghatározott képzési, továbbképzési, utánképzési, vizsgáztatási,
+képesítési követelményrendszer figyelembevételével meghatározza
+ha) a tanterveket, a tantárgyakat, tantervi óraszámokat,
+hb) az elméleti és gyakorlati vizsgakövetelményeket, vizsgafeladatokat, vizsgahelyszíneket és vizsgaútvonalakat,
+hc) alkalmazható tansegédleteket,
+hd) a képzések, továbbképzések, vizsgák lebonyolításának, ellenőrzésének, szakfelügyeletének rendjét, ügyvitelét és
+módszereit,
+he) az e-learning rendszerű oktatásban alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszerek
+minősítésének és tanúsításának módját a Közlekedési Szakértői Testület szakmai állásfoglalására figyelemmel,
+hf) az e-learning tananyagok minősítésének és tanúsításának módját a Közlekedési Szakértői Testület szakmai
+állásfoglalására figyelemmel,
+hg) az e-learning rendszerű oktatásban való részvétel dokumentálásának módját, különös tekintettel
+az adatrögzítésre, az archiválásra és az adattartalomra,
+hh) a képzés, továbbképzés, vizsgáztatás tárgyi feltételeinek alkalmazására vonatkozó technológiai és műszaki
+követelményeket,
+hi) az egyes tantárgyak hallgatása, vagy vizsgatárgyak teljesítése alóli mentesítések alapjául szolgáló képesítések,
+végzettségek körét,
+hj) az elméleti és gyakorlati vizsgáztatás ellenőrzéséhez szükséges adatok körét és tartalmát, ezek közlekedési
+hatóság részére történő továbbításának rendjét,
+i) meghatározza a közlekedési felügyelőség eljárásaira vonatkozó követelményeket és módszereket, továbbá
+szakmailag felügyeli azok végrehajtását.”
+15. §
+(1) Az R. 8/C. § (4)–(5) bekezdései helyébe a következő rendelkezések lépnek:
+„(4) A Kormány a repülőterek, légitársaságok, földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi
+szolgálatok légiközlekedés védelmi tisztje kijelölésének és visszavonásának jóváhagyására irányuló eljárásban –
+a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata
+tekintetében – az Alkotmányvédelmi Hivatalt szakhatóságként jelöli ki.
+(5) A Kormány a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott
+ügynök (ellenőrzött szállító), valamint az ismert szállító és a fedélzeti ellátmány meghatalmazott beszállítója
+minősítésére és jóváhagyására irányuló eljárásban – a védelmi tisztként kijelölni tervezett személy beosztás betöltése
+során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – első fokú eljárásban
+az Alkotmányvédelmi Hivatalt szakhatóságként jelöli ki.”
+(2) Az R. 8/C. §-a a következő (9)–(10) bekezdéssel egészül ki:
+„(9) A Kormány a 185/2010/EU bizottsági rendelet melléklet 1.3.1.4. pontjával összhangban a szigorított védelmi
+területre történő belépés során egyes személyek, vagy csoportok részére a tiltott tárgyak bevitelének tilalma alóli
+felmentés megadására irányuló eljárásban abban az esetben, ha a bevinni szándékozott tiltott tárgy a 185/2010/EU
+bizottsági rendelet melléklet 4-C függelék a) és b) pontjába tartozik:
+a) – a tiltott tárgyak bevitele és biztonságos őrzése, tárolása feltételeinek való megfelelés, valamint annak elbírálása
+kérdésében, hogy a tiltott tárgy, annak beviteli céljára figyelemmel, kockázatot jelent-e a légiközlekedés biztonságára
+vagy a közbiztonságra – a repülőtér fekvése szerint illetékes rend őr-főkapitányságot, Budapesten és Pest megyében
+a Repülőtéri Rendőr Igazgatóságot,
+b) – a bevitel és a szigorított védelmi területen történő munkavégzés során kialakuló biztonsági kockázat szintjének
+vizsgálata kérdésében – az Alkotmányvédelmi Hivatal területileg illetékes kirendeltségét
+szakhatóságként jelöli ki.
+
+(10) A Kormány a légiforgalmi szolgálat védelmi programjának jóváhagyására irányuló első fokú eljárásban – annak
+elbírálása kérdésében, hogy a védelmi terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e
+– az Alkotmányvédelmi Hivatalt és a Terrorelhárító Központot szakhatóságként jelöli ki.”
+16. §
+(1) Az R. 8/B. § (1) bekezdés b) pontjában, valamint 8/C. § (7) bekezdés b) pontjában az „a Nemzetbiztonsági Hivatalt”
+szövegrész helyébe az „az Alkotmányvédelmi Hivatalt” szöveg lép.
+(2) A veszélyes áru szállítási biztonsági tanácsadó kinevezéséről és képesítéséről szóló 2/2002. (I. 11.) Korm. rendelet 3. §
+(4)–(6) bekezdéseiben a „Kiemelt Ügyek Igazgatósága” szövegrész helyébe a „Közúti Gépjármű-közlekedési Hivatal”
+szöveg lép.
+(3) Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet
+5. melléklet 13. pont a) alpontjában a „Nemzeti Közlekedési Hatóság Központja Útügyi, Vasúti és Hajózási Hivatala”
+szövegrész helyébe a „Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala” szöveg, a „Nemzeti
+Közlekedési Hatóság” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Központja” szöveg lép.
+17. §
+Az R. 10. § (2) bekezdése a következő i)–l) pontokkal egészül ki:
+(Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:)
+„i) a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált
+megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló,
+2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet,
+j) az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti
+nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet,
+k) a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv
+hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet,
+l) a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 1794/2006/EK rendelet
+módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet.”
+18. §
+A 2011. január 1. napját megelőzően meghozott – 30 méter szabadnyílást meghaladó –műtárgy építési engedélyétől
+ való eltérés engedélyezése, az engedély érvényességi idő meghosszabbítása, illetve engedély átruházása az Útügyi,
+Vasúti és Hajózási Hivatal hatáskörébe tartozik.
+19. §
+Ez a rendelet a kihirdetését követő napon lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban
+és megismételt eljárásokban is alkalmazni kell.
+20. §
+Hatályát veszti:
+a)
+az R. 1. melléklete, és
+b)
+a vizsgáló állomás engedélyezésének részletes eljárási szabályairól és a vizsgáló állomással kötendő hatósági
+szerződés tartalmáról szóló 302/2009. (XII. 22.) Korm. rendelet 1. § (3) bekezdés d) pontja.
+21. §
+Ez a rendelet
+a)
+a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált
+megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról
+ szóló, 2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet,
+b)
+az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet
+szerinti nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet,
+c)
+a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv
+hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet,
+valamint
+d)
+a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 1794/2006/EK rendelet
+módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet
+végrehajtását szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
