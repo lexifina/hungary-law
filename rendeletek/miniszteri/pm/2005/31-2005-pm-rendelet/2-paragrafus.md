@@ -1,4 +1,4 @@
-2. §[^3] (1) A Pftv. 3. §-ának (2) bekezdése, és a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosításáról szóló 2005. évi LXXIII. törvény (a továbbiakban: Pftvmód.) 10. §-ának (2) bekezdése szerint START-kártya kiváltására jogosult személy a START-kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesz a következőkről:
+2. §[^4] (1) A Pftv. 3. §-ának (2) bekezdése, és a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosításáról szóló 2005. évi LXXIII. törvény (a továbbiakban: Pftvmód.) 10. §-ának (2) bekezdése szerint START-kártya kiváltására jogosult személy a START-kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesz a következőkről:
 
 a) befejezte vagy megszakította-e tanulmányait;
 
@@ -48,9 +48,9 @@ d) a (4) bekezdés f) pontjával összefüggésben az öregségi nyugdíjjogosul
 
 ## igazolja.
 
-(6)[^4]
+(6)[^5]
 
-(7)[^5] A Pftv. 6. §-a (1) bekezdésének a) pontjában meghatározott személyek a START EXTRA kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesznek a következőkről:
+(7)[^6] A Pftv. 6. §-a (1) bekezdésének a) pontjában meghatározott személyek a START EXTRA kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesznek a következőkről:
 
 a) foglalkoztatási jogviszonyban áll-e;
 
@@ -68,6 +68,6 @@ f) az igénylő hozzájárul ahhoz, hogy a Strukturális Alapok szabályainak me
 
 (9) A (2) bekezdés szerinti oklevél, az (5) bekezdésben említett határozat vagy igazolás, továbbá a (8) bekezdésben előírt igazolás másolati példánya az igénylő nyilatkozatának mellékletét képezi.
 
-[^3]: A 2. § a 14/2007. (VI. 29.) PM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (6) bekezdését a 34/2007. (XII. 29.) PM rendelet 18. § (3) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § (7) bekezdésének bevezető szövegrésze a 36/2008. (XII. 31.) PM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § a 14/2007. (VI. 29.) PM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (6) bekezdését a 34/2007. (XII. 29.) PM rendelet 18. § (3) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § (7) bekezdésének bevezető szövegrésze a 36/2008. (XII. 31.) PM rendelet 1. §-ával megállapított szöveg.

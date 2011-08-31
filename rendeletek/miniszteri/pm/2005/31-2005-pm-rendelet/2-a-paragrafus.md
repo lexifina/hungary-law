@@ -1,4 +1,4 @@
-2/A. §[^6] (1) A Pftv 6. §-a (1) bekezdésének b) pontjában meghatározott személy a kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesz a következőkről:
+2/A. §[^7] (1) A Pftv 6. §-a (1) bekezdésének b) pontjában meghatározott személy a kártya igénylésekor az állami adóhatóság által e célra rendszeresített nyomtatvány kitöltésével nyilatkozatot tesz a következőkről:
 
 a) foglalkoztatási jogviszonyban áll-e;
 
@@ -14,4 +14,4 @@ f) amennyiben a START EXTRA kártya kiváltásra jogosult személy a kártya ér
 
 (2) A START EXTRA kártyát igénylő személy az (1) bekezdés b) pontjában meghatározott feltételt az állami foglalkoztatási szerv által kiállított igazolással, az (1) bekezdés c) pontjában meghatározott feltételt a települési önkormányzat jegyzője által kiállított igazolással igazolja.
 
-[^6]: A 2/A. §-t a 36/2008. (XII. 31.) PM rendelet 2. §-a iktatta be.
+[^7]: A 2/A. §-t a 36/2008. (XII. 31.) PM rendelet 2. §-a iktatta be.
