@@ -1,1 +1,0 @@
-## 2. § Az 1. §-ban meghatározott adatszolgáltatási kötelezettségek teljesítésének határideje az a)–b) pont esetén a nem teljesítés, illetve a kényszerintézkedés bekövetkeztének napja, a c)–h) pontok alapján a tárgynapot követő nap 10.00 óra.
