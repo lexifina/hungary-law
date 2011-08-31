@@ -1,0 +1,5 @@
+3. § (1) Az adatszolgáltató az e rendeletben előírt rendszeres adatszolgáltatási kötelezettségét a Felügyelet által meghatározott elektronikus formában, minősített vagy fokozott biztonságú elektronikus aláírással ellátva teljesíti.
+
+(2) A Felügyelet az (1) bekezdés szerinti kötelezettséget akkor tekinti teljesítettnek, ha az megfelel a 2. melléklet I. rész 4. pontjában foglalt feltételeknek.
+
+(3) Az iratokat és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a rendszeres adatszolgáltatás esedékessége naptári évének utolsó napjától számított öt évig kell megőrizni.
