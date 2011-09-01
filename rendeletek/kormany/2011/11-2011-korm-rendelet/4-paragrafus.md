@@ -61,3 +61,7 @@ ia) a megbízott nevét (megnevezését), lakcímét (székhelyét, telephelyét
 ib) a megbízás kezdő és lejárati időpontját,
 
 ic) a megbízási szerződés szerinti ellenértéket.
+
+j)[^2] a földrészletekhez kapcsolódó egyéb vagyoni értékű jog megnevezését, annak jogosultját, a jog tartalmára vonatkozó lényeges információkat.
+
+[^2]: A 4. § j) pontját a 161/2011. (VIII. 18.) Korm. rendelet 25. §-a iktatta be.
