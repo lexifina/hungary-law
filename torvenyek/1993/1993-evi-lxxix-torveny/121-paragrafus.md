@@ -72,9 +72,9 @@ munkarendje szerint folyó oktatás. Más sajátos munkarend szerint folyik az o
 
 29. sajátos nevelési igényű gyermek, tanuló: az a gyermek, tanuló, aki a szakértői és rehabilitációs bizottság szakvéleménye alapján
 
-a) testi, érzékszervi, értelmi, beszédfogyatékos, autista, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető tartós és súlyos rendellenességével küzd,
+a) testi, érzékszervi, értelmi, beszédfogyatékos, autista, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos rendellenességével küzd,
 
-b) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra vissza nem vezethető tartós és súlyos rendellenességével küzd.
+b) a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzd.
 
 30. óraadó tanár: az a pedagógus, akit polgári jogviszony keretében a munkakörre előírt kötelező óra kevesebb mint negyven százalékára alkalmaztak;
 

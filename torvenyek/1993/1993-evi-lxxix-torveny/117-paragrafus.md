@@ -4,9 +4,9 @@
 
 a) tizenöt–huszonöt százaléka a 115. § (1) bekezdésének a)–b) pontjában meghatározott esetben;
 
-b) öt-tizenöt százaléka a 115. § (1) bekezdésének c) pontjában meghatározott esetben, tizennyolc éven aluli tanulóknál;
+b) öt–húsz százaléka a 115. § (1) bekezdés c) pontjában meghatározott esetben, tizennyolc éven aluli tanulóknál;
 
-c) tizenöt-harmincöt százaléka a 115. § (1) bekezdésének c) pontjában meghatározott esetben, tizennyolc éven felüli, de huszonkettő éven aluli tanulóknál;
+c) tizenöt–negyven százaléka a 115. § (1) bekezdés c) pontjában meghatározott esetben, tizennyolc éven felüli, de huszonkettő éven aluli tanulóknál;
 
 d) húsz–negyven százaléka a 115. § (1) bekezdésének d) pontjában meghatározott esetben;
 
