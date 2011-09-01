@@ -10,7 +10,7 @@
 
 ## ,,A1'' alkategória, – a 125 cm3 hengerűrtartalmat és a 11 kW-os teljesítményt meg nem haladó hajtómotorral ellátott motorkerékpár
 
-## ,,B'' kategória[^418]
+## ,,B'' kategória[^419]
 
 ## a) A 3500 kg-ot meg nem haladó megengedett legnagyobb össztömegű gépkocsi, amelyben a vezetőülésen kívül legfeljebb nyolc állandó ülőhely van.
 
@@ -34,7 +34,7 @@
 
 ## – az autóbusz, amelyben a vezetőülésen kívül legfeljebb 16 állandó ülőhely van, valamint az ilyen autóbuszból és könnyű pótkocsiból álló járműszerelvény
 
-## ,,E'' kategória[^419]
+## ,,E'' kategória[^420]
 
 ## – gépkocsiból és nehéz pótkocsiból álló járműszerelvény (csak kombinált kategóriaként adható ki),
 
@@ -102,8 +102,8 @@
 
 ## A mellékletben szereplő közúti járművek fogalmára a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet rendelkezései vonatkoznak.
 
-2. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^420]
+2. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^421]
 
-[^418]: Az 1. számú melléklete nemzetközi kategóriák cím alatt a ,,B'' kategória a 27/2003. (VII. 4.) BM rendelet 58. §-ának (1) bekezdésével megállapított szöveg.
-[^419]: Az 1. számú melléklete nemzetközi kategóriák cím alatt az ,,E'' kategória a 27/2003. (VII. 4.) BM rendelet 58. §-ának (2) bekezdésével megállapított szöveg.
-[^420]: A 2. számú melléklet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^419]: Az 1. számú melléklete nemzetközi kategóriák cím alatt a ,,B'' kategória a 27/2003. (VII. 4.) BM rendelet 58. §-ának (1) bekezdésével megállapított szöveg.
+[^420]: Az 1. számú melléklete nemzetközi kategóriák cím alatt az ,,E'' kategória a 27/2003. (VII. 4.) BM rendelet 58. §-ának (2) bekezdésével megállapított szöveg.
+[^421]: A 2. számú melléklet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.

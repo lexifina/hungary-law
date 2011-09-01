@@ -102,7 +102,7 @@
 
 ## Sorszám
 
-## C.[^425]
+## C.[^426]
 
 ## A kártya formátumú, a vezetői engedélyekről szóló 91/439/EGK irányelv módosításáról szóló, a Tanács 96/47/EK irányelvének figyelembevételével kiadásra kerülő vezetői engedély tartalmi elemei és formai követelményei
 
@@ -172,4 +172,4 @@
 
 5. számú melléklet a 35/2000. (XI. 30.) BM rendelethez
 
-[^425]: A 4. számú melléklet C. pontját a 34/2004. (VI. 28.) BM rendelet 62. §-ának (2) bekezdése iktatta be, szövegét újonnan a 16/2005. (IV. 4.) BM rendelet 9. §-a állapította meg.
+[^426]: A 4. számú melléklet C. pontját a 34/2004. (VI. 28.) BM rendelet 62. §-ának (2) bekezdése iktatta be, szövegét újonnan a 16/2005. (IV. 4.) BM rendelet 9. §-a állapította meg.

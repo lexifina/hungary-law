@@ -14,13 +14,13 @@
 
 ## 6. 21. életév a ,,D'', ,,D1'' , ,,D+E'', ,,D1+E'' kategóriába (al-, kombinált kategóriába) tartozó gépjármű vezetésére.
 
-## 7. 21. életév az ,,A'' kategóriába tartozó, teljesítmény korlátozás nélküli motorkerékpár vezetésére. A vezetési jogosultság 18. életév betöltésétől bejegyezhető, ha a gépjárművezető legalább két éve rendelkezik ,,A'' korlátozott kategóriára vagy ,,A1'' alkategóriára jogosító érvényes engedéllyel.[^421]
+## 7. 21. életév az ,,A'' kategóriába tartozó, teljesítmény korlátozás nélküli motorkerékpár vezetésére. A vezetési jogosultság 18. életév betöltésétől bejegyezhető, ha a gépjárművezető legalább két éve rendelkezik ,,A'' korlátozott kategóriára vagy ,,A1'' alkategóriára jogosító érvényes engedéllyel.[^422]
 
-## 8.[^422] ,,D'' kategóriába vagy a ,,D1'' alkategóriába tartozó gépjármű vezetésére jogosító engedély, kizárólag a Magyar Honvédség kezelésében lévő autóbuszok belföldön történő vezetésére való korlátozással, a 18. életév betöltésétől is kiadható, amennyiben a járművezető a ,,D1'' alkategória megszerzése esetén már ,,B'' kategóriára érvényes bejegyzéssel, továbbá ,,D'' kategória megszerzése esetén ,,B'' és ,,C'' kategóriára érvényes bejegyzésekkel rendelkezik. A vezetői engedélybe bejegyzett korlátozást a 21. életév betöltése után kérelemre a vezetői engedély cseréjével törölni kell.
+## 8.[^423] ,,D'' kategóriába vagy a ,,D1'' alkategóriába tartozó gépjármű vezetésére jogosító engedély, kizárólag a Magyar Honvédség kezelésében lévő autóbuszok belföldön történő vezetésére való korlátozással, a 18. életév betöltésétől is kiadható, amennyiben a járművezető a ,,D1'' alkategória megszerzése esetén már ,,B'' kategóriára érvényes bejegyzéssel, továbbá ,,D'' kategória megszerzése esetén ,,B'' és ,,C'' kategóriára érvényes bejegyzésekkel rendelkezik. A vezetői engedélybe bejegyzett korlátozást a 21. életév betöltése után kérelemre a vezetői engedély cseréjével törölni kell.
 
 ## II. Jártassági feltételek
 
-## 1.[^423] Teljesítménykorlátozás nélküli ,,A'' kategóriába tartozó gépjármű vezetésére jogosító bejegyzést annak a személynek lehet érvényesíteni,
+## 1.[^424] Teljesítménykorlátozás nélküli ,,A'' kategóriába tartozó gépjármű vezetésére jogosító bejegyzést annak a személynek lehet érvényesíteni,
 
 ## a) aki legalább két éve rendelkezik ,,A korlátozott'' kategóriába vagy ,,A1'' alkategóriába tartozó gépjárműre érvényesített bejegyzéssel, valamint annak,
 
@@ -40,11 +40,11 @@
 
 ## 4.4. A ,,D'' kategóriával megszerzett ,,E'' kombinált kategória érvényes a ,,B'' kategóriához és a ,,D1'' alkategóriához.
 
-## 4.5.[^424] A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
+## 4.5.[^425] A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
 4. számú melléklet a 35/2000. (XI. 30.) BM rendelethez
 
-[^421]: A Magyar Közlöny 2000. évi 131. számában közzétett helyesbítésnek megfelelő szöveg.
-[^422]: A 3. számú melléklet I. részének 8. pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 13. pontja szerint módosított szöveg.
-[^423]: A 3. számú melléklet II. fejezetének 1. pontja a 11/2004. (IV. 21.) BM rendelet 1. §-ával megállapított szöveg.
-[^424]: A 3. számú melléklet II. fejezetének 4.5. pontját a 27/2003. (VII. 4.) BM rendelet 58. §-ának (4) bekezdése iktatta a szövegbe.
+[^422]: A Magyar Közlöny 2000. évi 131. számában közzétett helyesbítésnek megfelelő szöveg.
+[^423]: A 3. számú melléklet I. részének 8. pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 13. pontja szerint módosított szöveg.
+[^424]: A 3. számú melléklet II. fejezetének 1. pontja a 11/2004. (IV. 21.) BM rendelet 1. §-ával megállapított szöveg.
+[^425]: A 3. számú melléklet II. fejezetének 4.5. pontját a 27/2003. (VII. 4.) BM rendelet 58. §-ának (4) bekezdése iktatta a szövegbe.

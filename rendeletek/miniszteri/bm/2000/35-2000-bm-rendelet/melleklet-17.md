@@ -312,7 +312,7 @@
 
 ## b) a forgalmi engedély vagy törzskönyv illetékének megfizetését tanúsító igazolást.
 
-## 9.[^448] A rövid szöveges üzenet fogadására szolgáló elérhetőség, telefonszám vagy elektronikus levélcím bejegyzése esetén:
+## 9.[^449] A rövid szöveges üzenet fogadására szolgáló elérhetőség, telefonszám vagy elektronikus levélcím bejegyzése esetén:
 
 ## a) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást,
 
@@ -332,7 +332,7 @@
 
 ## f) az A/7. pontban meghatározott esetben a mezőgazdasági és vidékfejlesztési támogatási szerv által külön jogszabály alapján megállapított regisztrációs számot, valamint a kötelező gépjármű-felelősségbiztosítás megkötésének igazolását,
 
-## g)[^449] az A/1. pontban meghatározott forgalmi engedély cseréje esetén az érvényesítő címke rendszámtáblán történő elhelyezése céljából a jármű hátsó rendszámtábláját.
+## g)[^450] az A/1. pontban meghatározott forgalmi engedély cseréje esetén az érvényesítő címke rendszámtáblán történő elhelyezése céljából a jármű hátsó rendszámtábláját.
 
 ## VI. A vezetői engedélyekkel kapcsolatos ügyintézés során szükséges okmányok
 
@@ -378,8 +378,8 @@
 
 ## d) az új, kezdő vezetői engedély kiadása, új kategória megszerzése, illetve külföldi hatóság által kiállított vezetői engedély honosítása esetén az e rendeletben meghatározott tanfolyammentes gyakorlati, illetve elméleti vizsgakötelezettség teljesítésének igazolására a sikeres vizsga tényét tanúsító, a közlekedési hatóság által kiállított vizsgalapot, illetve vizsgaigazolást.
 
-17. melléklet a 35/2000. (XI. 30.) BM rendelethez[^450]
+17. melléklet a 35/2000. (XI. 30.) BM rendelethez[^451]
 
-[^448]: A 16. számú melléklet V. fejezet A) pont 9. alpontját a 76/2009. (XII. 28.) IRM rendelet 6. § (1) bekezdése iktatta be.
-[^449]: A 16. számú melléklet V. fejezet B) pont g) alpontját a 76/2009. (XII. 28.) IRM rendelet 6. § (2) bekezdése iktatta be.
-[^450]: A 17. számú mellékletet az 57/2003. (XII. 27.) BM rendelet 14. §-a iktatta be, szövege a 6/2009. (III. 31.) IRM rendelet 40. § (5) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^449]: A 16. számú melléklet V. fejezet A) pont 9. alpontját a 76/2009. (XII. 28.) IRM rendelet 6. § (1) bekezdése iktatta be.
+[^450]: A 16. számú melléklet V. fejezet B) pont g) alpontját a 76/2009. (XII. 28.) IRM rendelet 6. § (2) bekezdése iktatta be.
+[^451]: A 17. számú mellékletet az 57/2003. (XII. 27.) BM rendelet 14. §-a iktatta be, szövege a 6/2009. (III. 31.) IRM rendelet 40. § (5) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.

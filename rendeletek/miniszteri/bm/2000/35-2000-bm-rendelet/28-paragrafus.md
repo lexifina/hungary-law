@@ -6,6 +6,6 @@ b) a nyilvántartás szerint a vezetői engedély kiadására nem került sor, v
 
 c) az okmányban javítás, törlés vagy más illetéktelen beavatkozás jelei észlelhetőek, illetve a vezetői engedély anyaga, kivitele a valóditól eltér.
 
-(2)[^97]
+(2)[^98]
 
-[^97]: A 28. § (2) bekezdését a 16/2005. (IV. 4.) BM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^98]: A 28. § (2) bekezdését a 16/2005. (IV. 4.) BM rendelet 12. § (1) bekezdése hatályon kívül helyezte.

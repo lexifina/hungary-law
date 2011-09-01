@@ -24,9 +24,9 @@
 
 ## 12. A különleges rendszámtáblák B és C típusainak – kivéve a 7. és 8. pontok – karakterei között nincs kötőjel.
 
-## 13.[^434] A négykerekű segédmotoros kerékpárra kiadott S, vagy R kezdő betűjelű „E” típusú rendszámtábla összesen 4 betűjelet és 2 számjegyet tartalmaz, alapszíne fehér, a karakterei és a keret színe fekete.
+## 13.[^435] A négykerekű segédmotoros kerékpárra kiadott S, vagy R kezdő betűjelű „E” típusú rendszámtábla összesen 4 betűjelet és 2 számjegyet tartalmaz, alapszíne fehér, a karakterei és a keret színe fekete.
 
-10. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^435]
+10. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^436]
 
-[^434]: A 9. számú melléklet 13. pontját a 6/2009. (III. 31.) IRM rendelet 40. § (1) bekezdése iktatta be. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
-[^435]: A 10. számú melléklet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (5) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^435]: A 9. számú melléklet 13. pontját a 6/2009. (III. 31.) IRM rendelet 40. § (1) bekezdése iktatta be. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^436]: A 10. számú melléklet a 34/2004. (VI. 28.) BM rendelet 62. §-ának (5) bekezdésével megállapított szöveg, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.

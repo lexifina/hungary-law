@@ -1,6 +1,6 @@
 ## 13. § A járművezetésre jogosító okmány kiadásának életkori és jártassági feltételeit a 3. számú melléklet tartalmazza.
 
-14. §[^30] (1) Vezetői engedélyt – a (3) és (4) bekezdésben foglaltak kivételével – az előírt feltételek teljesülése mellett is csak olyan kérelmezőnek lehet kiadni, akinek a szokásos tartózkodási helye Magyarország területén van, valamint nem magyar állampolgár esetén az engedély kiadását megelőző hat hónapban Magyarországon tartózkodott. Ha a kérelmező külföldi hatóság által kiállított vezetői engedéllyel rendelkezik, a közlekedési igazgatási hatóság a 16–19. § alapján jár el.
+14. §[^31] (1) Vezetői engedélyt – a (3) és (4) bekezdésben foglaltak kivételével – az előírt feltételek teljesülése mellett is csak olyan kérelmezőnek lehet kiadni, akinek a szokásos tartózkodási helye Magyarország területén van, valamint nem magyar állampolgár esetén az engedély kiadását megelőző hat hónapban Magyarországon tartózkodott. Ha a kérelmező külföldi hatóság által kiállított vezetői engedéllyel rendelkezik, a közlekedési igazgatási hatóság a 16–19. § alapján jár el.
 
 (2) Az (1) bekezdésben meghatározott magyarországi tartózkodást igazoló adatokat a közlekedési igazgatási hatóság szerzi be a polgárok személyi adatainak és lakcímének nyilvántartásából. A személyi adat – és lakcímnyilvántartás hatálya alá nem tartozó harmadik országbeli állampolgár esetében az ügyfélnek kell bemutatnia az idegenrendészeti hatóság által kiállított tartózkodási jogot igazoló okmányt.
 
@@ -10,4 +10,4 @@
 
 (5) A külföldön megszerzett vezetői engedély honosítására vonatkozó szabályokat kell alkalmazni, ha a kérelmező Magyarországon szerez olyan járműfajta vezetésére való jogosultságot, amellyel korábban nem rendelkezett.
 
-[^30]: A 14. § a 6/2009. (III. 31.) IRM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^31]: A 14. § a 6/2009. (III. 31.) IRM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.

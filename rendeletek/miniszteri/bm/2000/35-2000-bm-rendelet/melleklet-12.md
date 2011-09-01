@@ -138,7 +138,7 @@
 
 ## I. Új jármű forgalomba helyezése előtt;
 
-## a)[^439] A járműimportőr:
+## a)[^440] A járműimportőr:
 
 ## Az importőrnek – a Hivatal Központi Okmányirodája által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHéM rendelet 4. § (2) bekezdésében meghatározott műbizonylattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
@@ -188,4 +188,4 @@
 
 12. számú melléklet a 35/2000. (XI. 30.) BM rendelethez
 
-[^439]: A 11. számú melléklet II. része I. pontjának a) alpontja a 8/2007. (III. 6.) IRM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^440]: A 11. számú melléklet II. része I. pontjának a) alpontja a 8/2007. (III. 6.) IRM rendelet 3. § (1) bekezdése szerint módosított szöveg.

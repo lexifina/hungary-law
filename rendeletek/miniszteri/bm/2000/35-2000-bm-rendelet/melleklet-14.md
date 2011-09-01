@@ -54,7 +54,7 @@
 
 ## a jármű tulajdonosának (üzembentartójának) személyi adatait (név, születési hely és idő, anyja nevét, lakóhelyét vagy tartózkodási helyét/székhelyét, telephelyét).
 
-## B.[^442]
+## B.[^443]
 
 ## Az 1999. január 1-jétől bevezetett forgalmi engedély tartalmi elemei
 
@@ -198,7 +198,7 @@
 
 ## 3: nyeregterhelés
 
-## C.[^443]
+## C.[^444]
 
 ## A járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK irányelv figyelembevételével kiadásra kerülő forgalmi engedély tartalmi elemei
 
@@ -228,7 +228,7 @@
 
 ## C.1.2 – utónév
 
-## C.1.3 – címe[^444]
+## C.1.3 – címe[^445]
 
 ## C.4 – utalás arra a tényre, hogy a forgalmi engedély jogosítottja: a) tulajdonosa, b) nem a jármű tulajdonosa, c) a forgalmi engedélyben nincs a jármű tulajdonosaként azonosítva
 
@@ -322,9 +322,9 @@
 
 ## – A harmonizált közösségi kódok magyarázata
 
-14. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^445]
+14. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^446]
 
-[^442]: A 13. számú melléklet B része a 27/2003. (VII. 4.) BM rendelet 58. §-ának (11) bekezdésével megállapított szöveg.
-[^443]: A 13. számú melléklet C. pontját a 34/2004. (VI. 28.) BM rendelet 62. §-ának (7) bekezdése iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
-[^444]: Cím: A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény hatálya alá tartozó természetes személyek esetében a lakóhely, illetve ennek hiányában a tartózkodási hely. A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény hatálya alá tartozó természetes személyek esetében lakóhely és tartózkodási hely hiányában a szálláshely. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény alapján a jogi személy vagy jogi személyiséggel nem rendelkező szervezet székhelyének (telephelyének) címe, valamint az egyéni vállalkozó esetében kérelmére székhelyének (telephelyének) címe.
-[^445]: A 14. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
+[^443]: A 13. számú melléklet B része a 27/2003. (VII. 4.) BM rendelet 58. §-ának (11) bekezdésével megállapított szöveg.
+[^444]: A 13. számú melléklet C. pontját a 34/2004. (VI. 28.) BM rendelet 62. §-ának (7) bekezdése iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^445]: Cím: A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény hatálya alá tartozó természetes személyek esetében a lakóhely, illetve ennek hiányában a tartózkodási hely. A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény hatálya alá tartozó természetes személyek esetében lakóhely és tartózkodási hely hiányában a szálláshely. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény alapján a jogi személy vagy jogi személyiséggel nem rendelkező szervezet székhelyének (telephelyének) címe, valamint az egyéni vállalkozó esetében kérelmére székhelyének (telephelyének) címe.
+[^446]: A 14. számú mellékletet a 34/2004. (VI. 28.) BM rendelet 63. §-ának (1) bekezdése hatályon kívül helyezte.
