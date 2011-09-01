@@ -1,0 +1,3 @@
+10. § (1) Ha a vállalkozás nem bocsátotta a fogyasztó rendelkezésére az 5. melléklet szerinti formanyomtatványt a 7. § (1) bekezdés c) pontjában foglaltaknak megfelelően, a fogyasztó a 9. § (1) bekezdésében meghatározott naptól számított egy év és tizennégy napon belül indokolás nélkül elállhat a szerződéstől.
+
+(2) Ha a vállalkozás a 9. § (1) bekezdésében meghatározott naptól számított egy éven belül a fogyasztó rendelkezésére bocsátja az 5. melléklet szerinti formanyomtatványt a 7. § (1) bekezdés c) pontjában foglaltaknak megfelelően, a fogyasztó e naptól számított tizennégy napon belül indokolás nélkül elállhat a szerződéstől.

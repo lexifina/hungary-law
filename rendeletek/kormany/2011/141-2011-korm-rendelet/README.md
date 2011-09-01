@@ -1,0 +1,9 @@
+# 141/2011. (VII. 21.) Korm. rendelet
+
+a szállás időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre vonatkozó szerződésekről, valamint a tartós szálláshasználati szolgáltatási tevékenységről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-141-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-09-01 | 2011-141-20-22.1 | 141/2011. (VII. 21.) Korm. rendelet |
