@@ -32,7 +32,7 @@ k) a nyilvános közzétételhez való hozzájáruló nyilatkozatot,
 
 l) a 14. § szerinti támogatások esetében a nyújtott támogatás támogatástartalmát, a támogatás intenzitását és a támogatásra vonatkozó támogatási kategóriát.
 
-(4)[^20] A támogatási szerződéshez csatolni kell
+(4)[^26] A támogatási szerződéshez csatolni kell
 
 a) a támogatás felhasználására vonatkozó költségvetési tervet,
 
@@ -46,4 +46,10 @@ e) a támogatás kedvezményezettjének a számlavezető pénzforgalmi szolgált
 
 f) a kedvezményezett harminc napnál nem régebbi hatósági igazolását a szervezet létezéséről, hatályos adatairól.
 
-[^20]: A 22. § (4) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+(5)[^27] Ha a kedvezményezett lakóhelye vagy székhelye szerinti országban a (4) bekezdés e) pontjában meghatározottak alkalmazására nincs lehetőség, akkor a beszedési megbízásra vonatkozó felhatalmazó levél helyett más, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 119. § (2) bekezdése szerinti biztosítékra vonatkozó dokumentum csatolása szükséges.
+
+(6)[^28] Ha a kedvezményezett lakóhelye vagy székhelye szerinti országban a (4) bekezdés e) pontjában meghatározottak alkalmazására nincs lehetőség, a hétszázötvenezer forint értékhatárt meg nem haladó összegű támogatások esetén az (5) bekezdésben foglaltak alkalmazásától el lehet tekinteni.
+
+[^26]: A 22. § (4) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^27]: A 22. § (5) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 22. § (6) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 4. §-a iktatta be.

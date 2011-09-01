@@ -2,10 +2,12 @@
 
 ## 7. A nem pályázati úton elnyerhető támogatások
 
-26. § (1) A nem nyilvános pályázat útján elnyerhető támogatásrész terhére a Bizottság az Alapkezelő igazgatóságának döntés-előkészítése alapján döntést hoz a jogosult személyek és szervezetek pályázati rendszeren kívüli támogatásban részesítéséről.
+26. § (1)[^30] A nem nyilvános pályázat útján elnyerhető támogatásrész terhére a Bizottság az Alapkezelő vezérigazgatójának döntés-előkészítése alapján döntést hoz a jogosult személyek és szervezetek pályázati rendszeren kívüli támogatásban részesítéséről.
 
 (2) Az Alapkezelő az (1) bekezdés szerinti döntés-előkészítése során meghívhatja véleményezésre az Alap támogatási céljai vonatkozásában feladat- és hatáskörrel rendelkező minisztérium képviselőjét.
 
 (3) Az Alapkezelő intézkedik a döntések végrehajtásáról.
 
 (4) A (2) bekezdésben meghatározott döntés alapján folyósított támogatások esetében a 15–18. §, valamint a 22–25. § rendelkezéseit kell alkalmazni.
+
+[^30]: A 26. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés g) pontja szerint módosított szöveg.

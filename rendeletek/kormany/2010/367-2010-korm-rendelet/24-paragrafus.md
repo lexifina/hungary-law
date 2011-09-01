@@ -2,6 +2,8 @@
 
 (2) Ha a támogatás célja teljesült, annak fel nem használt részét a kedvezményezett köteles az Alap számlájára haladéktalanul visszautalni.
 
-(3) A céltól, illetve szerződésben rögzítettektől eltérően felhasznált támogatást a kedvezményezett köteles – felelősségéhez, illetve a szerződésszegés súlyához mérten – részben vagy egészben visszafizetni (értékét megtéríteni). Az így visszatérített összeg további felhasználásáról – az Alapkezelő igazgatóságának javaslata alapján – a Bizottság dönt.
+(3)[^29] A céltól, illetve szerződésben rögzítettektől eltérően felhasznált támogatást a kedvezményezett köteles – felelősségéhez, illetve a szerződésszegés súlyához mérten – részben vagy egészben visszafizetni (értékét megtéríteni). Az így visszatérített összeg további felhasználásáról – az Alapkezelő vezérigazgatójának javaslata alapján – a Bizottság dönt.
 
 (4) A kedvezményezett a céltól, illetve szerződésben rögzítettektől eltérően felhasznált támogatást a szerződés felbontásának napjától érvényes jegybanki alapkamat kétszeresének alapulvételével számított kamattal növelve köteles visszafizetni.
+
+[^29]: A 24. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés f) pontja szerint módosított szöveg.

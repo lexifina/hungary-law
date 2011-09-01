@@ -12,4 +12,6 @@
 
 (5) Az Alap terhére vállalt kötelezettségekről az Alapkezelő naprakész nyilvántartást vezet. A nyilvántartásból a Bizottság döntéséhez és a Kollégium döntés-előkészítéséhez az Alapkezelő adatot szolgáltat. A Kollégium tagjainak nyújtott költségtérítések adatai közérdekből nyilvános adatok.
 
-(6) Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő igazgatósága gyakorolja.
+(6)[^31] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
+
+[^31]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
