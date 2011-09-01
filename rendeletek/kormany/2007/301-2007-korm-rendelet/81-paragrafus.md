@@ -1,4 +1,4 @@
-## 80. §[^81]
+## 80. §[^82]
 
 ## VII. Fejezet
 
@@ -6,22 +6,22 @@
 
 ## Az előzetes vizsgálati eljárás
 
-81. § (1)[^82] A Tv. 48. § (1) bekezdése alapján a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezet alkalmazásában a továbbiakban: kérelmező) befogadó állomáson kell elhelyezni, kivéve, ha a kérelmező
+81. § (1)[^83] A Tv. 48. § (1) bekezdése alapján a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezet alkalmazásában a továbbiakban: kérelmező) befogadó állomáson kell elhelyezni, kivéve, ha a kérelmező
 
 a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, vagy
 
 b) jogszerűen tartózkodik a Magyar Köztársaság területén és nem kéri befogadó állomáson történő elhelyezését.
 
-(2)[^83] A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezésére intézkedik.
+(2)[^84] A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezésére intézkedik.
 
 (3) A kérelmezőt a kijelölt szálláshelyen történő elhelyezés alkalmával tájékoztatni kell a szálláshelyen előírt magatartási szabályokról, valamint e szabályok megszegésének következményeiről.
 
-(4)[^84] Amennyiben az elismerését kérő idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, az intézkedés végrehajtásának helye a menekültügyi eljárás alatt kizárólag a menekültügyi hatóság előzetes hozzájárulásával változtatható meg.
+(4)[^85] Amennyiben az elismerését kérő idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, az intézkedés végrehajtásának helye a menekültügyi eljárás alatt kizárólag a menekültügyi hatóság előzetes hozzájárulásával változtatható meg.
 
-(5)[^85] Amennyiben az elismerését kérő személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés hatálya alatt áll, a kényszerintézkedés, az intézkedés vagy a büntetés megszűnéséről, vagy a végrehajtás helyének megváltozásáról az idegenrendészeti hatóság tudomásszerzését követően haladéktalanul tájékoztatja a menekültügyi hatóságot.
+(5)[^86] Amennyiben az elismerését kérő személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés hatálya alatt áll, a kényszerintézkedés, az intézkedés vagy a büntetés megszűnéséről, vagy a végrehajtás helyének megváltozásáról az idegenrendészeti hatóság tudomásszerzését követően haladéktalanul tájékoztatja a menekültügyi hatóságot.
 
-[^81]: A 80. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^82]: A 81. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg.
-[^83]: A 81. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 116. § (2) bekezdésével megállapított szöveg.
-[^84]: A 81. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 116. § (3) bekezdésée iktatta be.
-[^85]: A 81. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 116. § (3) bekezdésée iktatta be.
+[^82]: A 80. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^83]: A 81. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg.
+[^84]: A 81. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 116. § (2) bekezdésével megállapított szöveg.
+[^85]: A 81. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 116. § (3) bekezdésée iktatta be.
+[^86]: A 81. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 116. § (3) bekezdésée iktatta be.

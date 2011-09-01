@@ -1,4 +1,4 @@
-## 111–116. §[^101]
+## 111–116. §[^102]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -30,7 +30,7 @@ a) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény ha
 
 b) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról;
 
-c)[^102] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet.
+c)[^103] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet.
 
 (3) E rendelet a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
@@ -38,5 +38,5 @@ a) a Tanács 407/2002/EK rendelete (2002. február 28.) a Dublini Egyezmény hat
 
 b) a Bizottság 1560/2003/EK rendelete (2003. szeptember 2.) egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról.
 
-[^101]: A 111–116. § és a 111. §-t megelőző alcím e rendelet 109. § (2) bekezdése alapján hatályát vesztette.
-[^102]: A 117. § (2) bekezdés c) pontját a 290/2010. (XII. 21.) Korm. rendelet 123. §-a iktatta be.
+[^102]: A 111–116. § és a 111. §-t megelőző alcím e rendelet 109. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 117. § (2) bekezdés c) pontját a 290/2010. (XII. 21.) Korm. rendelet 123. §-a iktatta be.

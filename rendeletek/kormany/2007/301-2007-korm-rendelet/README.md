@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2011-04-01 | 2007-301-20-22.8 | 290/2010. (XII. 21.) Korm. rendelet |
 | 2011-05-01 | 2007-301-20-22.9 | 290/2010. (XII. 21.) Korm. rendelet |
 | 2011-05-20 | 2007-301-20-22.10 | 290/2010. (XII. 21.) Korm. rendelet |
+| 2011-09-01 | 2007-301-20-22.11 | 171/2011. (VIII. 24.) Korm. rendelet |
