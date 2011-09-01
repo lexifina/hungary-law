@@ -1,11 +1,29 @@
-2. §[^2] (1) Az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági kockázat szerinti minősítéséről az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – a közigazgatási hatósági eljárás általános szabályai szerint – dönt az Stv. 68/A. § (1) bekezdésében meghatározott konzultáció, illetve egyeztetés lefolytatását követően.
+2. §[^3] (1) A Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) javaslata alapján az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – a közigazgatási hatósági eljárás általános szabályai szerint – dönt az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági kockázat szerinti minősítéséről.
 
-(2)[^3] Az (1) bekezdés szerinti döntést – a (3) bekezdésben meghatározott kivétellel – legkésőbb az érintett sportágak versenyrendszereinek legkorábbi első versenyét megelőző tizenöt nappal – az érintett sportágak versenynaptárai figyelembevételével – kell meghozni.
+(2) A Minősítő Bizottságba
 
-(3)[^4] Az (1) bekezdés szerinti döntést a nemzetközi vagy nemzeti kupa mérkőzés, illetve a bajnokság lebonyolítási rendszerében alkalmazott, a versenynaptár összeállításakor még figyelembe nem vehető helyosztó mérkőzések (rájátszás) esetén a mérkőzést megelőző tizenöt nappal – ha a sorsolás és a mérkőzés között kevesebb mint tizenöt nap van, a mérkőzést megelőző öt nappal – kell meghozni.
+a) az Stv. 68/A. § (1) bekezdésében meghatározott szervek – az ORFK kivételével – egy-egy tagot;
 
-(4) Az ORFK az (1) bekezdés szerinti döntést közli az 1. § (1) bekezdés a) pontjában meghatározott sportág szakszövetségével, és az érintett sportág versenyrendszerében az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvény szervezőjével.
+b) az 1. § (1) bekezdés a) pontjában meghatározott sportágak országos sportági szakszövetségei egy-egy tagot;
 
-[^2]: A 2. § a 247/2009. (XI. 10.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (51) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (51) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+c) az ORFK hat tagot
+
+delegál.
+
+(3) A Minősítő Bizottság elnökét az országos rendőrfőkapitány jelöli ki.
+
+(4) A Minősítő Bizottság javaslatát a jelenlevő tagjai szavazatának egyszerű többségével hozza, szavazategyenlőség esetén az elnök szavazata dönt.
+
+(5) A Minősítő Bizottság működésének részletes szabályait az általa egyszerű szótöbbséggel elfogadott – országos rendőrfőkapitány által jóváhagyott – ügyrend határozza meg.
+
+(6) A Minősítő Bizottság a sportrendezvény biztonsági kockázat szerinti minősítésére legkésőbb a mérkőzés megrendezése előtt 18 nappal tesz javaslatot.
+
+(7) Ha a mérkőzés megrendezési időpontja, vagy résztvevői a Minősítő Bizottság ülésének időpontjában még nem ismertek, a javaslatot legkésőbb a mérkőzés előtt 10 nappal kell megtenni.
+
+(8) A sportrendezvény biztonsági kockázat szerinti minősítésére vonatkozó döntést legkésőbb a mérkőzés megrendezését megelőző 15 nappal, a (7) bekezdésben meghatározott esetben 5 nappal korábban kell meghozni.
+
+(9) Az ORFK a (8) bekezdés szerinti döntést közli az 1. § (1) bekezdésében meghatározott sportág országos szakszövetségével és a sportrendezvény szervezőjével.
+
+(10) Ha a mérkőzés biztonsági kockázat szerinti minősítése a mérkőzést megelőző 15 napon belül nem ismert, úgy a szervező az Stv. 68/A. § (3) bekezdésében foglalt felkérést azzal a kikötéssel kezdeményezi, hogy a rendőrség térítés ellenében végzett közreműködésére csak akkor kerül sor, ha a mérkőzést fokozott biztonsági kockázatúnak minősítik.
+
+[^3]: A 2. § a 162/2011. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
