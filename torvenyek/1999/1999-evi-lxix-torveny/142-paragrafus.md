@@ -12,7 +12,7 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 a) lőfegyvert vagy robbanóanyagot, illetőleg az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
 
-b) a rendező szerv, illetőleg a rendőrség biztonságra vonatkozó felhívásának, rendelkezésének nem tesz eleget,
+b) a rendező szerv vagy a rendőrség biztonságra vonatkozó felhívásának, különösen a helyszín elhagyására vonatkozó rendelkezésének nem tesz eleget,
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 

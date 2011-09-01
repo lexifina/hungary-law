@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-69-00-00
 | 2011-01-01 | 2010. évi CXXII. törvény | 1999-69-00-00.38 |
 | 2011-05-21 | 2011. évi L. törvény | 1999-69-00-00.39 |
 | 2011-07-01 | 2011. évi LXXIII. törvény | 1999-69-00-00.40 |
+| 2011-09-01 | 2011. évi CXII. törvény | 1999-69-00-00.41 |
