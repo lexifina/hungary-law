@@ -6,6 +6,8 @@ b) tagjainak – külső foglalkoztatóként – az Szt. szerint intézményi fo
 
 c) – a külön jogszabályokban foglalt feltételek teljesítése mellett – tagjai számára egyéb, az Sztv. 8. §-a (1) bekezdésének a) pontjában meghatározott célok elérését elősegítő szolgáltatásokat nyújt.
 
-(2) A szociális szövetkezet az (1) bekezdés a) pontjában foglalt tevékenysége során – külön jogszabályban meghatározottak szerint – közreműködhet közmunka, közhasznú, valamint közcélú munka biztosításában is.
+(2)[^1]
 
 (3) Működési engedélyhez kötött tevékenységet szociális szövetkezet csak abban az esetben végezhet, ha rendelkezik működési engedéllyel.
+
+[^1]: A 2. § (2) bekezdését a 171/2011. (VIII. 24.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
