@@ -1,9 +1,1 @@
 13. § E törvény a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 8–10. cikke szerinti bejelentése az Európai Bizottság részére az irányelv 10. cikk (4) bekezdése szerint történik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
