@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-133-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 2005-133-00-00.9 |
 | 2011-01-01 | 2010. évi CLXXX. törvény | 2005-133-00-00.10 |
 | 2011-07-01 | 2011. évi LXXIII. törvény | 2005-133-00-00.11 |
+| 2011-09-01 | 2011. évi CIV. törvény | 2005-133-00-00.12 |
