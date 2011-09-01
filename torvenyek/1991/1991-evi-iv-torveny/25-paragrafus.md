@@ -4,7 +4,7 @@
 
 a) álláskereső,
 
-b) az álláskeresővé válását megelőző négy éven belül legalább háromszázhatvanöt nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
+b) az álláskeresővé válását megelőző öt éven belül legalább 360 nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
 
 c) rokkantsági, baleseti rokkantsági nyugdíjra nem jogosult, továbbá táppénzben nem részesül,
 

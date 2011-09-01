@@ -32,7 +32,7 @@ aa) keresetkiegészítés vagy keresetpótló juttatás, valamint
 
 ab) a képzéssel kapcsolatos költségek megtérítése;
 
-b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a bérpótló juttatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése
+b) az (1) bekezdés c)–d) pontjában meghatározott személy, valamint a foglalkoztatást helyettesítő támogatásra jogosult álláskereső részére az általános iskolai végzettség megszerzéséhez, vagy a szakképzés megkezdéséhez, a külön jogszabályban meghatározott bemeneti kompetenciák megszerzéséhez szükséges képzésben történő részvételhez a képzéssel kapcsolatos költségek megtérítése
 
 adható.
 

@@ -14,4 +14,4 @@
 
 (7) Az (5) bekezdésben meghatározott méltányosság szempontjából a 21. § (6) bekezdésében foglaltakat kell figyelembe venni.
 
-(8) A járadék és segély visszakövetelése esetén késedelmi pótlék nem számítható fel.
+(8) Az álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint az álláskeresési segély visszakövetelése esetén késedelmi pótlék nem számítható fel.

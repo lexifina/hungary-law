@@ -6,7 +6,7 @@
 
 (2) A munkaadó létszámának megállapításakor figyelmen kívül kell hagyni
 
-a) a közhasznú munkavégzés, közcélú munkavégzés vagy közmunka keretében foglalkoztatott munkavállalót,
+a) közfoglalkoztatási jogviszonyban, valamint a közfoglalkoztatás támogatásáról szóló kormányrendelet szerint támogatott munkaviszonyban foglalkoztatott személyeket,
 
 b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 

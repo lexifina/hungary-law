@@ -1,51 +1,33 @@
-## Álláskeresési segély
+## Nyugdíj előtti álláskeresési segély
 
-30. § (1) Az álláskereső kérelmére álláskeresési segélyt kell megállapítani, ha rendelkezik a 25. § (1) bekezdésének c)–d) pontjában, továbbá (2)–(5) bekezdésében meghatározott feltételekkel, és
+30. § (1) Az álláskereső kérelmére nyugdíj előtti álláskeresési segélyt (a továbbiakban: álláskeresési segély) kell megállapítani, ha
 
-a) az álláskeresési járadékot részére legalább 180 nap időtartamra állapították meg, és annak folyósítását a 28. § (1) bekezdésének h) pontjában meghatározott ok miatt szüntették meg, és a kérelmét az álláskeresési járadék folyósításának megszüntetésétől számított 30 napon belül benyújtotta, vagy
+a) rendelkezik a 25. § (1) bekezdésének c)–d) pontjában, meghatározott feltételekkel, és
 
-b) álláskeresővé válását megelőző négy éven belül legalább 200 nap jogosultsági idővel rendelkezik, és álláskeresési járadékra nem jogosult, vagy
+b) a kérelem benyújtásának időpontjában a reá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és 90 napon át álláskeresési járadékban részesült, és az álláskeresési járadék folyósítása időtartamát kimerítette, és
 
-c) a kérelem benyújtásának időpontjában a reá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és legalább 140 napon át álláskeresési járadékban részesült, és az álláskeresési járadék folyósítása időtartamát kimerítette.
+c) az álláskeresési járadék folyósításának kimerítését követően három éven belül betöltötte a b) pontjában meghatározott életkort, és
 
-(2) Az (1) bekezdés c) pontjában meghatározott esetben az álláskeresési segélyre való jogosultság további feltétele, hogy az álláskereső
+d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel.
 
-a) az álláskeresési járadék folyósításának kimerítését követően három éven belül betöltötte az (1) bekezdés c) pontjában meghatározott életkort, és
+(2) Az álláskeresési segély összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 40 százaléka. Ha a 26. § (1)–(3) bekezdése szerinti járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összege a járadékalappal megegyező összeg.
 
-b) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel.
+(3) Az álláskeresési segély az álláskereső öregségi, rokkantsági, baleseti rokkantsági nyugdíj jogosultságának megszerzéséig terjedő időtartamra folyósítható.
 
-(3) Az álláskeresési segély összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 40 százaléka. Ha a 26. § (1)–(3) bekezdése szerinti járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összege a járadékalappal megegyező összeg.
+(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtását követő nap. Töredék hónap esetén az egy napra járó álláskeresési segély összege a (2) bekezdésben meghatározott összeg harmincad része.
 
-(4) Az álláskeresési segély
+(5) Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (1) bekezdésének a)–c) pontjában, e) pontjában vagy g) pontjában meghatározott feltételek fennállása esetén.
 
-a) az (1) bekezdés a) pontjában meghatározott esetben 90 nap, amennyiben az álláskereső a kérelem benyújtásának időpontjában az 50. életévét betöltötte, 180 nap,
+(6) Az álláskeresési segély folyósítására a 28. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-b) az (1) bekezdés b) pontjában meghatározott esetben 90 nap,
+(7) Szüneteltetni kell az álláskeresési segély folyósítását
 
-c) az (1) bekezdés c) pontjában meghatározott esetben az álláskereső öregségi, rokkantsági, baleseti rokkantsági nyugdíj jogosultságának megszerzéséig terjedő
+a) a 29. § (1) bekezdésében meghatározott esetben,
 
-időtartamra folyósítható.
+b) a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 
-(5) Ha a (4) bekezdés a)–b) pontja alapján megállapított álláskeresési segély folyósítása a (8) bekezdésben, valamint a 28. § (1) bekezdésének a)–b) pontjában, továbbá e)–f) pontjában meghatározott okból, a folyósítási idő kimerítését megelőzően megszüntetésre kerül, ismételt álláskeresővé válás esetén az álláskeresési segélyt a folyósítási időtartamból még hátralévő időtartamra folyósítani kell, feltéve, hogy az álláskereső álláskeresési járadékra nem jogosult. A folyósítási időtartam kimerítését követően az álláskeresési segély megállapítását megalapozó jogosultsági idő időtartama az e törvény alapján járó ellátásokra való jogosultság szempontjából nem vehető figyelembe.
+c) 90 napra, ha az álláskereső a 36. § (1) bekezdésében meghatározott bejelentési kötelezettséget elmulasztotta,
 
-(6) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtását követő nap. Töredék hónap esetén az egy napra járó álláskeresési segély összege a (3) bekezdésben meghatározott összeg harmincad része.
+d) ha az álláskereső az álláskeresési segély folyósításának szünetelése alatt folytatott keresőtevékenység eredményeként álláskeresési járadékra szerzett jogosultságot.
 
-(7) Meg kell szüntetni az álláskeresési segély folyósítását
-
-a) a 28. § (1) bekezdésének a)–c) pontjában, valamint e)–g) pontjában meghatározott feltételek fennállása esetén, továbbá
-
-b) ha az álláskereső az álláskeresési segély folyósítási időtartamát kimerítette.
-
-(8) A (7) bekezdésben foglaltakon kívül az (1) bekezdés a)–b) pontjában meghatározott esetben meg kell szüntetni az álláskeresési segély folyósítását, ha az álláskereső kereső tevékenységet folytat, kivéve az alkalmi foglalkoztatásnak minősülő munkaviszonyt.
-
-(9) Az álláskeresési segély folyósítására a 28. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(10) Szüneteltetni kell az álláskeresési segély folyósítását a 29. § (1) bekezdésében meghatározott esetben.
-
-(11) Az (1) bekezdés c) pontja alapján megállapított álláskeresési segély folyósítását a (8) bekezdésben foglaltakon kívül szüneteltetni kell
-
-a) a kereső tevékenység időtartamára, függetlenül az időtartam mértékétől,
-
-b) 90 napra, ha az álláskereső a 36. § (1) bekezdésében meghatározott bejelentési kötelezettséget elmulasztotta, továbbá
-
-c) ha az álláskereső az álláskeresési segély folyósításának szünetelése alatt folytatott kereső tevékenység eredményeként álláskeresési járadékra szerzett jogosultságot. Ez utóbbi esetben az álláskeresési járadék folyósítási idejének kimerítését követően az álláskeresési segélyt kell tovább folyósítani.
+(8) A (7) bekezdés d) pontjában meghatározott esetben az álláskeresési járadék folyósítási idejének kimerítését követően az álláskeresési segélyt kell tovább folyósítani.

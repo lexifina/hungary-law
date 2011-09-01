@@ -1,12 +1,12 @@
 ## Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint bérpótló juttatásra jogosult személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
+57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
 (2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (3) Az adatbázis tartalmazza
 
-1. a bérpótló juttatásra jogosult személyek tekintetében
+1. a foglalkoztatást helyettesítő támogatásra jogosult személyek tekintetében
 
 a) az alábbi adatokat:
 
@@ -20,7 +20,7 @@ ad) az ellátás megállapítására, megváltoztatására és megszüntetésér
 
 ae) a jogosult Társadalombiztosítási Azonosító Jele (TAJ szám),
 
-af) a bérpótló juttatásra jogosult személy iskolai végzettsége, szakképesítése,
+af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettsége, szakképesítése,
 
 b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4)–(5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
 
@@ -72,7 +72,7 @@ ba) a közfoglalkoztatás jellegét, azaz hogy
 
 2. képzésben vesz-e részt
 
-3. bérpótló juttatásban részesül-e,
+3. foglakoztatást helyettesítő támogatásban részesül-e,
 
 bb) a közfoglalkoztatási jogviszony időtartamát,
 
