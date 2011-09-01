@@ -1,1 +1,1 @@
-### 55. §
+55. § E törvény nem érinti a hatálybalépését megelőzően közfoglalkoztatásra létesített munkaviszony fennállását. Az e törvény hatálybalépését megelőzően közfoglalkoztatás céljából létrejött munkaviszonyokra a 2011. augusztus 31-én hatályos szabályok vonatkoznak.
