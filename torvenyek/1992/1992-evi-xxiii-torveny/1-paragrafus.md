@@ -8,7 +8,7 @@
 
 (3) Az Alkotmánybíróság Hivatalának vezetője, valamint az Országgyűlés Hivatalának vezetői a közigazgatási államtitkárral, az Országgyűlés Hivatalának helyettes vezetői, valamint az Alkotmánybíróság Hivatalának helyettes vezetője a helyettes államtitkárral azonos illetményben, illetőleg juttatásban részesülnek.
 
-(4) A 10. §, a 10/B–10/C. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban, közigazgatási versenyvizsgán vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
+(4) A 10. §, a 10/B–10/C. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
 
 (5) A 17/A. § (5)–(6) bekezdésének hatálya kiterjed azon munkáltatókra és a velük munkaviszonyban álló munkavállalókra, amelyek esetében a munkaviszony létesítésre a 17/A. § (3) bekezdése alapján kerül sor.
 

@@ -1,6 +1,6 @@
 80. § (1) A Kormány rendeletben határozza meg
 
-a) a képesítésre, képzésre, közigazgatási felsővezetői képzésre, továbbképzésre, közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, a közigazgatási vezetőképzésre,
+a) a képesítésre, képzésre, közigazgatási felsővezetői képzésre, továbbképzésre, közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint az alapvizsgák alóli mentesítésre, a közigazgatási vezetőképzésre,
 
 b) a közszolgálati nyilvántartásra,
 
@@ -18,7 +18,7 @@ h) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e
 
 i) a közigazgatási szakmai gyakorlatra,
 
-j) a közigazgatási versenyvizsga rendjére, szervezésére, lebonyolítására, teljesítésére, költségeire, a vizsgakövetelmények szintjére, tárgyköreire és megállapításának rendjére, valamint a közigazgatási versenyvizsga vizsgaszabályzatára,
+j)
 
 k) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra,
 

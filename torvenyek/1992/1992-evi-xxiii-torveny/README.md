@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-23-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 1992-23-00-00.89 |
 | 2011-08-10 | 2011. évi CIX. törvény | 1992-23-00-00.90 |
 | 2011-08-21 | 2011. évi CVIII. törvény | 1992-23-00-00.91 |
+| 2011-09-01 | 2011. évi XXX. törvény | 1992-23-00-00.92 |

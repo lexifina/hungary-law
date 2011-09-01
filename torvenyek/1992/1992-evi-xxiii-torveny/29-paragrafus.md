@@ -1,6 +1,6 @@
 29. § (1) A nem pályakezdő köztisztviselőt kinevezésekor, áthelyezésekor a 23. § rendelkezésének megfelelően kell besorolni.
 
-(2)
+(2) Az (1) bekezdés szerint kinevezett, áthelyezett köztisztviselő a közigazgatási alapvizsgát a 25. § (3) bekezdésében meghatározott idő alatt köteles teljesíteni; ha e kötelezettségének nem tesz eleget, közszolgálati jogviszonya megszűnik.
 
 (3) Ha a nem pályakezdő köztisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a 25. § (4) bekezdését megfelelően alkalmazni kell.
 
