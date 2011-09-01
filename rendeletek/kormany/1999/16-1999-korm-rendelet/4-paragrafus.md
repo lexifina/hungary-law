@@ -4,6 +4,6 @@
 
 (3) A szolgáltatást szabadidejében végző a (2) bekezdés szerinti megállapodásban meghatározott díjazásra jogosult.
 
-(4)[^3]
+(4)[^4]
 
-[^3]: A 4. § (4) bekezdését a 67/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § (4) bekezdését a 67/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
