@@ -1,17 +1,12 @@
-## Az önkormányzat, egyház, civil szervezet által szervezett hosszabb időtartamú közfoglalkoztatás támogatása
+## Hosszabb időtartamú közfoglalkoztatás támogatása[^4]
 
-4. § (1) Támogatás nyújtható
+4. §[^5] (1) Támogatás nyújtható a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személy és a kirendeltség által kiközvetített álláskereső 2–12 hónap időtartamra szóló, közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.
 
-a) a helyi és a kisebbségi önkormányzat, valamint azok jogi személyiséggel rendelkező társulása részére, ha a megyei (fővárosi) kormányhivatal munkaügyi szakigazgatási szervének kirendeltsége (a továbbiakban: kirendeltség) által kiközvetített álláskereső a lakosságot (kisebbségi közösséget) vagy a települést érintő közfeladat vagy az önkormányzat által önként vállalt, a lakosságot (kisebbségi közösséget) vagy települést érintő feladat ellátása vagy közhasznú tevékenység folytatása érdekében,
+(2) A közfoglalkoztatott személyében beállt változás esetén az (1) bekezdés szerinti támogatás 1 hónap közfoglalkoztatási jogviszony létesítésére is nyújtható.
 
-b) jogszabályban előírt közfeladat ellátása esetén vagy a helyi önkormányzattal kötött együttműködési megállapodás alapján az egyház, valamint a civil szervezet részére, ha
+(3) A támogatás mértéke a közfoglalkoztatási bér és az ahhoz kapcsolódó járulékai mértékének 70–100 százalékáig terjedhet. Amennyiben a közfoglalkoztató a Pftv. 8/A. § (1) bekezdése alapján járulékkedvezményt vett igénybe, a támogatás alapja a járulék kedvezménnyel csökkentett összege. Ezen túlmenően a támogatás nyújtható a ténylegesen foglalkoztatottak után a 3. § (4) bekezdésében meghatározott közvetlen költséghez, amelynek mértéke nem haladhatja meg a közfoglalkoztatási bérhez és az ahhoz kapcsolódó járulékokhoz nyújtott támogatás 20 százalékát.
 
-2–12 hónap időtartamra szóló, határozott idejű munkaviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatását vállalja. A foglalkoztatás történhet az önkormányzat által fenntartott intézménnyel, önkormányzati részesedéssel működő nonprofit gazdasági társasággal, vagy egyház által fenntartott intézménnyel létesített munkaviszony alapján is.
+(4) A hosszabb időtartamú közfoglalkoztatás támogatása esetén a 3. § (5) és (6) bekezdésében foglaltakat is alkalmazni kell.
 
-(1a)[^2] (1a) Az (1) bekezdésben meghatározott feltételek mellett támogatás nyújtható továbbá az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott vagy erre a célra az állam, az önkormányzat által létrehozott gazdálkodó szervezetek részére.
-
-(2) A támogatás mértéke a munkavállaló munkabére és az ahhoz kapcsolódó – a járulékkedvezmények igénybevételével csökkentett – járulékok mértékének 70–100 százalékáig terjedhet. Ezen túlmenően a támogatás nyújtható a munkavállaló foglalkoztatásából eredő, a 3. § (3) bekezdésében meghatározott közvetlen költséghez, amelynek mértéke nem haladhatja meg a munkabérhez és az ahhoz kapcsolódó járulékokhoz nyújtott támogatás 20 százalékát.
-
-(3) Az (1)–(2) bekezdésben foglaltakon túlmenően az önkormányzat által szervezett hosszabb időtartamú közfoglalkoztatás támogatására a 3. § (4)–(5) bekezdésében foglaltakat is alkalmazni kell.
-
-[^2]: A 4. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^5]: A 4. § a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.

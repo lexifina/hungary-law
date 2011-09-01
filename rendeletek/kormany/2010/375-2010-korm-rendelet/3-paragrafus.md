@@ -1,21 +1,16 @@
-## Önkormányzat, egyház, civil szervezet által szervezett rövid időtartamú közfoglalkoztatás támogatása
+## Rövid időtartamú közfoglalkoztatás támogatása[^2]
 
-3. § (1) Támogatás nyújtható
+3. §[^3] (1) Támogatás nyújtható a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személy 1–4 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 4 órás munkaidőben történő foglalkoztatására.
 
-a) a helyi és a kisebbségi önkormányzat, valamint azok jogi személyiséggel rendelkező társulása részére, ha a lakosságot (kisebbségi közösséget) vagy a települést érintő közfeladat vagy a helyi, illetve kisebbségi önkormányzat által önként vállalt, a lakosságot (kisebbségi közösséget) vagy települést érintő feladat ellátása vagy közhasznú tevékenység folytatása érdekében,
+(2) Támogatás a közfoglalkoztatási bér, a közfoglalkoztatási garantált bér, teljesítménybér (a továbbiakban együtt: közfoglalkoztatási bér) és az ahhoz kapcsolódó járulékok legfeljebb 95 százalékának mértékéig nyújtható. Amennyiben a közfoglalkoztató a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 8/A. § (1) bekezdése alapján járulékkedvezményt vett igénybe, a támogatás alapja a járulék kedvezménnyel csökkentett összege.
 
-b) jogszabályban előírt közfeladat ellátása esetén vagy a helyi önkormányzattal kötött együttműködési megállapodás alapján az egyházi jogi személy (a továbbiakban: egyház), valamint a civil szervezet részére, ha
+(3) Támogatás állapítható meg továbbá a (4) bekezdésben foglalt közvetlen költségekhez, melynek mértéke legfeljebb a ténylegesen foglalkoztatottak után a közfoglalkoztatási bérhez és járulékaihoz nyújtott támogatási összeg 5 százaléka.
 
-a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvényben meghatározott bérpótló juttatásra jogosult személy 2–4 hónap időtartamra szóló, határozott idejű munkaviszony keretében, napi négy órás munkaidőben történő foglalkoztatását vállalja. A foglalkoztatás történhet az önkormányzat által fenntartott intézménnyel, önkormányzati részesedéssel működő nonprofit gazdasági társasággal, vagy egyház által fenntartott intézménnyel létesített munkaviszony alapján is.
+(4) A foglalkoztatásból eredő közvetlen költségként a foglalkozás-egészségügyi vizsgálat térítési díja, a munka- és védőruházat és egyéni védőeszköz költsége, a munkába járással kapcsolatos utazási költségtérítésről szóló jogszabály szerint a munkaadót terhelő utazási költség, a munkásszállítás költsége, a megyei (fővárosi) kormányhivatal munkaügyi szakigazgatási szervének kirendeltségével (a továbbiakban: kirendeltség) történő előzetes egyeztetés szerint a munkavégzéshez nélkülözhetetlen munkaeszközök költsége számolható el.
 
-(1a)[^1] Az (1) bekezdésben meghatározott feltételek mellett támogatás nyújtható továbbá az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott vagy erre a célra az állam, az önkormányzat által létrehozott gazdálkodó szervezetek részére.
+(5) Több közfoglalkoztatott foglalkoztatása után megállapított közvetlen költség összevontan is felhasználható.
 
-(2) Támogatás a foglalkoztatásból eredő munkabér, továbbá – a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 8/A. § (1) bekezdésében foglalt járulékkedvezmény igénybevételével csökkentett – járulékai legfeljebb 95 százalékának mértékéig nyújtható. Ezen túlmenően a (3) bekezdésben foglalt közvetlen költségek összege, de legfeljebb munkavállalónként havonta a munkabérhez és járulékaihoz nyújtott támogatási összeg 5 százalékának megfelelő támogatás állapítható meg. Több munkavállaló foglalkoztatása után megállapított közvetlen költség összevontan is felhasználható.
+(6) A támogatás az egyszerűsített foglalkoztatáshoz kapcsolódó közteherkedvezménnyel egyidejűleg nem vehető igénybe.
 
-(3) A foglalkoztatásból eredő közvetlen költségként a munkaruha és egyéni védőeszköz költségei, a munkába járással kapcsolatos utazási költségtérítésről szóló jogszabály szerint a munkaadót terhelő utazási költségek, a munkásszállítás költségei, a kirendeltséggel történő előzetes egyeztetés szerint a munkavégzéshez nélkülözhetetlen munkaeszközök költsége számolható el.
-
-(4) Munkabérként legfeljebb a kötelező legkisebb munkabér, illetve garantált bérminimum vehető figyelembe.
-
-(5) Ez a támogatás a START kártyához kapcsolódó járulékkedvezménnyel, valamint az egyszerűsített foglalkoztatáshoz kapcsolódó közteherkedvezménnyel egyidejűleg nem vehető igénybe.
-
-[^1]: A 3. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 3. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: A 3. § a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
