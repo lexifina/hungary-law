@@ -1,1 +1,1 @@
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak – az egyrészről az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közötti szabadkereskedelmi megállapodásnak az Európai Unió nevében történő aláírásáról és ideiglenes alkalmazásáról szóló 2011/265/EU tanácsi határozatban foglaltak szerinti – a 15.10. cikk (5) bekezdésében meghatározott időponttól kezdődően történő ideiglenes alkalmazását.
+4. §
