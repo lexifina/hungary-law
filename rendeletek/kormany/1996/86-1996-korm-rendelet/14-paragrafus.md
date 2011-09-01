@@ -1,52 +1,73 @@
-## Az Európai Unió jogának való megfelelés[^44]
+## Az Európai Unió jogának való megfelelés[^46]
 
-14. §[^45] (1) E rendelet 1. számú mellékletének I. része a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+14. §[^47] (1) E rendelet 1. számú mellékletének I. része
 
-a) a Tanács 1683/95/EK rendelete (1995. május 29.) a vízumok egységes formátumának meghatározásáról, valamint az azt módosító 334/2002/EK tanácsi rendelet (a vízumbélyeg vonatkozásában);
+a) (a vízumbélyeg vonatkozásában) a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendelet, valamint az azt módosító 2002. február 18-i 334/2002/EK tanácsi rendelet és a 2008. július 24-i 856/2008/EK tanácsi rendelet,
 
-b) a Tanács 333/2002/EK rendelete (2002. február 18.) az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról (a vízum elhelyezésére szolgáló különlap vonatkozásában);
+b) (a vízum elhelyezésére szolgáló különlap vonatkozásában) az érintett tagállam által el nem ismert úti okmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i 333/2002/EK tanácsi rendelet,
 
-c) a Tanács 1030/2002/EK rendelete (2002. június 13.) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról (a tartózkodási engedély – kivéve a II/6. és a III/1.4. pontban foglalt tartózkodási engedély – vonatkozásában).
+c) (a tartózkodási engedély vonatkozásában) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet és az azt módosító 380/2008/EK tanácsi rendelet,
 
-(2) E rendelet 1. számú mellékletének II. része a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+d) (a vízumbélyeg vonatkozásában) a C(2010) 319 számú bizottsági határozat,
 
-a) a Tanács 684/92/EGK rendelete (1992. március 16.) az autóbusszal végzett nemzetközi személyszállítás közös szabályairól, valamint az azt módosító 11/98/EK tanácsi rendelet (az autóbusszal végzett nemzetközi személyszállítási engedély vonatkozásában);
+e) (a vízum elhelyezésére szolgáló különlap vonatkozásában) a C(2002) 3012 számú bizottsági határozat,
 
-b) a Tanács 881/92/EGK rendelete (1992. március 26.) a tagállamok területére vagy területéről történő, illetve a tagállamok területén áthaladó, Közösségen belüli közúti árufuvarozási piacra való bejutásról (a nemzetközi közúti árufuvarozási engedély vonatkozásában);
+f) (a tartózkodási engedély vonatkozásában) a C(2002) 3069 számú bizottsági határozat,
 
-c) az Európai Parlament és a Tanács 484/2002/EK rendelete (2002. március 1.) a 881/92/EGK és a 3118/93/EGK tanácsi rendeletnek a járművezetői igazolvány létrehozása érdekében történő módosításáról (járművezetői igazolvány – közösségi engedéllyel történő közúti árufuvarozáshoz – vonatkozásában);
+g) (a tartózkodási engedély vonatkozásában) a C(2009) 3770 számú bizottsági határozat
 
-d) a Tanács 2252/2004/EK rendelete (2004. december 13.) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában);
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
-e) a Bizottság 2004/388/EK határozata (2004. április 15.) a robbanóanyagok Közösségen belüli szállítási okmányáról (a robbanóanyagok Közösségen belüli szállítási okmánya vonatkozásában);
+(2) E rendelet 1. számú mellékletének II. része
 
-f) az Európai Parlament és a Tanács 2241/2004/EK határozata (2004. december 15.) a képesítések és a szakmai alkalmasság átláthatóságának egységes közösségi keretéről (Europass) (az Europass felsőoktatási oklevélmelléklet vonatkozásában);
+a) (a vasúti járművezetői engedély, a kiegészítő tanúsítvány és a kiegészítő tanúsítvány hitelesített másolata vonatkozásában) a mozdonyvezetői engedélyeknek, a kiegészítő tanúsítványoknak, a kiegészítő tanúsítványok hitelesített másolatának, valamint a mozdonyvezetői engedély kérelmezésére szolgáló formanyomtatványnak a 2007/59/EK európai parlamenti és tanácsi irányelv szerinti közösségi mintájáról szóló, 2009. december 3-i 2010/36/EU bizottsági rendelet,
 
-g) a Bizottság C(2005) 409 határozata (2005. február 28.) a tagállamok által kiállított útlevelekben és úti okmányokban alkalmazott biztonsági jellemzők és biometrika szabványaira vonatkozó műszaki előírások megállapításáról (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában);
+b) (a nemzetközi közúti árufuvarozási engedély vonatkozásában) a tagállamok területére vagy területéről történő, illetve a tagállamok területén áthaladó, Közösségen belüli közúti árufuvarozási piacra való bejutásról szóló, 1992. március 26-i 881/92/EGK tanácsi rendelet,
 
-h) a Bizottság B(2006) 2909 határozata (2006. június 28.) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírások műszaki leírásainak megállapításáról (a magánútlevél vonatkozásában);
+c) (a járművezetői igazolvány – közösségi engedéllyel történő közúti árufuvarozáshoz – vonatkozásában) a 881/92/EGK és a 3118/93/EGK tanácsi rendeletnek a járművezetői igazolvány létrehozása érdekében történő módosításáról szóló, 2002. március 1-i 484/2002/EK európai parlamenti és tanácsi rendelet,
 
-i) a tagállamok kormányainak a Tanács keretében ülésező képviselői által elfogadott 96/409/KKBP határozat (1996. június 25.) egy ideiglenes úti okmány létrehozásáról (az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok vonatkozásában);
+d) (a magánútlevél vonatkozásában) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírások műszaki leírásainak megállapításáról szóló, 2006. június 28-i B(2006) 2909 bizottsági határozat,
 
-j) a Végrehajtó Bizottság SCH/Com-ex(98)57 határozata (1998. december 16.) a meghívólevél, a kötelezettségvállaló nyilatkozat és a szállás igazolására szolgáló harmonizált formanyomtatvány bevezetéséről (a meghívólevél – magyarországi beutazáshoz és tartózkodáshoz – vonatkozásában);
+e) (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában)
 
-k) az 1981. június 23-i Tanács keretében ülésező tagállami kormányképviselőknek az egységes formátumú útlevél bevezetéséről szóló állásfoglalása, valamint annak 1982. június 30-i, 1986. július 14-i, 1995. július 10-i és 2004. június 8-i módosításai (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában);
+ea) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet és
 
-l) a Tanács 2000/C 310/01 számú állásfoglalása (2000. október 17.) az útlevelek és egyéb úti okmányok biztonsági jeleiről (a hat hónapnál hosszabb érvényességi idejű, rövid lejáratú útlevelek, valamint az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok és a személyazonosító igazolvány vonatkozásában);
+eb) a tagállamok által kiállított útlevelekben és úti okmányokban alkalmazott biztonsági jellemzők és biometrika szabványaira vonatkozó műszaki előírások megállapításáról szóló, 2005. február 28-i C(2005) 409 bizottsági határozat,
 
-m) a Bizottság 93/216/EGK ajánlása (1993. február 25.) az európai fegyvertartási engedélyről (az európai lőfegyvertartási engedély vonatkozásában);
+f) (a robbanóanyagok Közösségen belüli szállítási okmánya vonatkozásában) a robbanóanyagok Közösségen belüli szállítási okmányáról szóló, 2004. április 15-i 2004/388/EK bizottsági határozat,
 
-n) a Tanács 98/376/EK ajánlása (1998. június 4.) a mozgásában korlátozott személy parkolási igazolványáról (a mozgásában korlátozott személy parkolási igazolványa vonatkozásában).
+g) (az Europass felsőoktatási oklevélmelléklet vonatkozásában) a képesítések és a szakmai alkalmasság átláthatóságának egységes közösségi keretéről szóló, 2004. december 15-i 2241/2004/EK európai parlamenti és tanácsi határozat,
 
-(3) E rendelet 1. számú mellékletének II. része a következő uniós jogi aktusoknak való megfelelést szolgálja:
+h) (az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok vonatkozásában) az egy ideiglenes úti okmány létrehozásáról szóló, 1996. június 25-i 96/409/KKBP tanácsi határozat, valamint
 
-a) a Tanács 91/439/EGK irányelve (1991. július 29.) a vezetői engedélyekről, valamint az azt módosító 94/72/EK, 96/47/EK, 97/26/EK tanácsi, 2000/56/EK bizottsági és 2003/59/EK európai parlamenti és tanácsi irányelvek (a vezetői engedély, az ideiglenes vezetői engedély és a nemzetközi gépjármű-vezetői engedély vonatkozásában);
+i) (a meghívólevél – magyarországi beutazáshoz és tartózkodáshoz – vonatkozásában) a meghívólevél, a kötelezettségvállaló nyilatkozat és a szállás igazolására szolgáló harmonizált formanyomtatvány bevezetéséről szóló, 1998. december 16-i SCH/Com-ex(98)57 végrehajtó bizottsági határozat
 
-b) a Tanács 91/477/EGK irányelve (1991. június 18.) a fegyverek megszerzésének és tartásának ellenőrzéséről (az európai lőfegyvertartási engedély vonatkozásában);
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
-c) a Tanács 1999/37/EK irányelve (1999. április 29.) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról (a gépjármű forgalmi engedély vonatkozásában);
+(3) E rendelet 1. számú mellékletének II. része
 
-d) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről (az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára [EGT-állampolgár] számára kiadott tartózkodási engedély, regisztrációs igazolás, az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagjának tartózkodási kártyája, valamint az EGT-állampolgár és családtagja részére kiadott állandó tartózkodási kártya vonatkozásában).
+a) (az európai lőfegyvertartási engedély vonatkozásában) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
 
-[^44]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
-[^45]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
+b) (a vezetői engedély vonatkozásában) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelvnek,
+
+c) (a gépjárművezetői képesítési igazolvány vonatkozásában) az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről, valamint a 3820/85/EGK tanácsi rendelet és a 61/439/EGK, illetve a 76/914/EGK tanácsi irányelv módosításáról szóló, 2003. július 15-ei 2003/59/EK európai parlamenti és tanácsi irányelvnek,
+
+d) (a gépjármű forgalmi engedély vonatkozásában) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelvnek, valamint
+
+e)[^48] (az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára [EGT-állampolgár] számára kiadott tartózkodási engedély, regisztrációs igazolás, az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagjának tartózkodási kártyája, valamint az EGT-állampolgár és családtagja részére kiadott állandó tartózkodási kártya vonatkozásában) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek
+
+## való megfelelést szolgálja.
+
+(4) E rendelet 1. számú mellékletének II. része
+
+a) (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában) az egységes formátumú útlevél bevezetéséről szóló, 1981. június 23-i tanácsi állásfoglalással,
+
+b) (a hat hónapnál hosszabb érvényességi idejű, rövid lejáratú útlevelek, valamint az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok és a személyazonosító igazolvány vonatkozásában) az útlevelek és egyéb úti okmányok biztonsági jeleiről szóló, 2000. október 17-i 2000/C 310/01 tanácsi állásfoglalással,
+
+c) (az európai lőfegyvertartási engedély vonatkozásában) az európai fegyvertartási engedélyről szóló, 1993. február 25-i 93/216/EGK bizottsági ajánlással, valamint
+
+d) (a mozgásában korlátozott személy parkolási igazolványa vonatkozásában) a mozgásában korlátozott személy parkolási igazolványáról szóló, 1998. június 4-i 98/376/EK tanácsi ajánlással
+
+[^46]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
+[^47]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2011. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^48]: [A 14. § (3) bekezdés f) pontjának a 145/2011. (VII. 27.) Korm. rendelet 11. §-ával beiktatott, a 14. § (2) bekezdése alapján 2013. január 19-étől hatályos szövege szövege: „f) (a vezetői engedély vonatkozásában) a vezetői engedélyekről szóló, 2006. december 20-i 2006/126/EK európai parlamenti és tanácsi irányelvnek”.]
