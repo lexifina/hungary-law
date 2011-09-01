@@ -4,6 +4,6 @@
 
 (2) Az OHÜ felett a szakmai felügyeletet, valamint a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja.
 
-(3) Az OHÜ kizárólagosan jogosult a termékdíjköteles termékekből képződött hulladékok hulladékkezelési rendszerében közvetítői feladatkör ellátására.
+(3)
 
-(4) A (3) bekezdéstől eltérően a veszélyes hulladéknak minősülő csomagolási hulladékokkal kapcsolatos közvetítői feladatok ellátására az OHÜ nem jogosult.
+(4)

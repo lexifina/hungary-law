@@ -10,6 +10,6 @@
 
 (5) Az a kötelezett, aki 2012. január 1-jét megelőzően már kötelezett volt, és e törvény szerint egyéni hulladékkezelést teljesít vagy termékdíjátalány-fizetést választhat, a 10. § (1) bekezdésétől eltérően e bejelentését 2012. április 20-ig teheti meg. Ezt a szabályt értelemszerűen alkalmazni kell a következő adóévekben is.
 
-(6) E törvény hatálybalépése előtt kiadott mentességi engedélyek érvényüket vesztik.
+(6) A 2012. január 1. előtt kiadott mentességi engedélyek 2012. január 1-jén érvényüket vesztik.
 
-(7) E törvény hatálybalépése előtt megkötött termékdíj-fizetési kötelezettség szerződéses átvállalása esetén, ha a mentességgel rendelkező koordináló szervezet nem teljesíti a mentességi engedélyben foglalt kötelezettségét, az eredeti kötelezett a befizetési kötelezettség időpontjában érvényes jegybanki alapkamat kétszeresével növelt mértékben köteles a termékdíjat 2012. február 15-ig befizetni. A fizetendő termékdíjból levonható a mentesség engedély érvényességi idejéig hasznosított hulladékmennyiség alapján meghatározott összeg.
+(7) A 2012. január 1. előtt megkötött termékdíj-fizetési kötelezettség szerződéses átvállalása esetén, ha a mentességgel rendelkező koordináló szervezet nem teljesíti a mentességi engedélyben foglalt kötelezettségét, az eredeti kötelezett a befizetési kötelezettség időpontjában érvényes jegybanki alapkamat kétszeresével növelt mértékben köteles a termékdíjat 2012. február 15-ig befizetni. A fizetendő termékdíjból levonható a mentességi engedély érvényességi idejéig hasznosított hulladékmennyiség alapján meghatározott összeg.
