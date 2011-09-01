@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2011-04-15 | 2009-152-20-82.11 | 26/2011. (IV. 7.) VM rendelet |
 | 2011-05-31 | 2009-152-20-82.12 | 26/2011. (IV. 7.) VM rendelet |
 | 2011-08-04 | 2009-152-20-82.13 | 77/2011. (VIII. 3.) VM rendelet |
+| 2011-09-01 | 2009-152-20-82.14 | 77/2011. (VIII. 3.) VM rendelet |
