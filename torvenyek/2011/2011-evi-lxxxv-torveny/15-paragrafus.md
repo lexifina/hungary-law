@@ -1,0 +1,15 @@
+## 13. Termékdíjátalány
+
+15. § (1) E törvény II. Fejezete szerinti termékdíj-fizetési kötelezettség teljesítését e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A csekély és kis mennyiségű csomagolást forgalomba hozó vagy saját célú felhasználó kötelezett, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
+
+(3) A csekély mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 12 000 Ft/év, a kis mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 60 000 Ft/év.
+
+(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz milliót meghaladó, azonban legfeljebb évi ötven millió forintos árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év. A tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
+
+(5) A kötelezett a termékdíjátalány-fizetési kötelezettségre vonatkozó választását nem változtathatja meg a tárgyéven belül.
+
+(6) A (5) bekezdéstől eltérően nem minősül a termékdíjátalány-fizetési kötelezettség választás megváltoztatásának, ha a kötelezett kibocsátása a 2. § 6. pontjában meghatározott mennyiségi határokat túllépi, de a 2. § 16. pontjában írt mennyiségi határt nem haladja meg, és ennek tényét a változás-bejelentésre előírt szabályok szerint bejelenti. A határidő elmulasztása jogvesztő.
+
+(7) Ha a termékdíjátalány-fizetést választó kötelezett a 2. § 16. pontban előírt kibocsátási mennyiségi határt túllépte, vagy a 2. § 6. pont szerinti mennyiségi határt túllépte és azt a (6) bekezdés szerint nem jelentette be, termékdíjátalány-fizetésre már nem jogosult. A túllépés időpontját követően termékdíj-fizetési kötelezettségének az általános szabályok szerint tesz eleget.
