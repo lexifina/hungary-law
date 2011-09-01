@@ -46,4 +46,4 @@ ca) vízgazdálkodási térség,
 
 cb) építmények által igénybe vett térség.
 
-(3) A kiemelt térségek területrendezési terve a (2) bekezdésben megjelöltektől eltérő, egyedileg meghatározott területfelhasználási kategóriát is kijelölhet a térség elsődleges funkciójának, illetve a kiemelés okának megfelelően.
+(3) A kiemelt térségek területrendezési terve a (2) bekezdésben megjelöltektől eltérő, egyedileg meghatározott területfelhasználási kategóriákat is kijelölhet a térség elsődleges funkciójának, illetve a kiemelés okának megfelelően, valamint a kiemelt térségek terve a térségi területfelhasználási kategóriákra a törvénytől eltérő előírást is megállapíthat.

@@ -24,7 +24,7 @@ c) a vegyes területfelhasználású térséget legalább 85%-ban mezőgazdaság
 
 d) a városias települési térség bármely települési területfelhasználási egységbe sorolható;
 
-e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület és vegyes terület területfelhasználási egység kivételével bármely települési területfelhasználási egységbe sorolható;
+e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület kivételével bármelyik területfelhasználási egységbe sorolható,
 
 f) a vízgazdálkodási térséget legalább 90%-ban vízgazdálkodási terület területfelhasználási egységbe kell sorolni, a fennmaradó részen beépítésre szánt terület nem jelölhető ki;
 

@@ -10,7 +10,7 @@ M0:
 
 |
 
-Budaörs – Budakeszi – Remeteszőlős – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN-T hálózat része)
+Budaörs – Budakeszi – Remeteszőlős térsége – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN- T hálózat része)
 
 |
 
