@@ -1,3 +1,5 @@
+## 6. §[^9]
+
 7. § (1) A vagyonkezelésbe adás iránti kérelemnek tartalmaznia kell:
 
 a) a hirdetményben szereplő, az önkormányzat által igényelt földrészletek helyrajzi számát;
@@ -22,13 +24,9 @@ j) a földrészlet vagyonkezelésbe adásának kérelmezett időtartamát.
 
 (2) Az (1) bekezdés c) pontjában foglalt jövedelem megállapításánál a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott jövedelemszámítást kell alkalmazni.
 
-(3) A tulajdonba adás iránti kérelemnek tartalmaznia kell:
+(3)[^10]
 
-a) az (1) bekezdés a)–i) pontjában foglaltakat;
-
-b) az arra vonatkozó nyilatkozatot, hogy nem áll fenn a 4. § (3) bekezdés a) pontjában, és a 6. § (2) bekezdés b) pontjában meghatározott körülmény.
-
-(4) A vagyonkezelésbe és a tulajdonba adás iránti kérelemhez csatolni kell:
+(4)[^11] A vagyonkezelésbe adás iránti kérelemhez csatolni kell:
 
 a) a 4. § (1) bekezdése szerinti önkormányzati rendeletet;
 
@@ -42,10 +40,9 @@ a) a termőföld védelméről szóló törvény szerinti más célra nem haszno
 
 b) a (4) bekezdés c) pont szerinti területfelhasználási egységet nem módosítja;
 
-(6) Tulajdonba adás iránti kérelem esetén kötelezettséget vállaló nyilatkozatot kell csatolni a kérelemhez arról, hogy az önkormányzat a földrészletet öt évig
+(6)[^12]
 
-a) nem idegeníti el,
-
-b) a termőföld védelméről szóló törvény szerinti más célra nem hasznosítja, és
-
-c) a (4) bekezdés c) pont szerinti területfelhasználási egységet nem módosítja.
+[^9]: A 6. §-t a 161/2011. (VIII. 18.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^11]: A 7. § (4) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^12]: A 7. § (6) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
