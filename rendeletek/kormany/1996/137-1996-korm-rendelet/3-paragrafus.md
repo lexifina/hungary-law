@@ -1,14 +1,12 @@
 ## 2. § Ez a rendelet 1996. szeptember 1. napján lép hatályba.
 
-3. §[^1] (1) Az óvodáknak e rendelet mellékletének – az Óvodai nevelés országos alapprogramjának kiadásáról szóló 137/1996. (VIII. 28.) Korm. rendelet módosításáról szóló 221/2010. (VII. 30.) Korm. rendelettel – módosított II. GYERMEKKÉP, ÓVODAKÉP cím Gyermekkép alcím 2. pontjában, valamint a II. GYERMEKKÉP, ÓVODAKÉP cím Óvodakép alcím 6. pontjában foglaltakra tekintettel felülvizsgált, és szükség szerint módosított nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-
-(2) E § 2011. szeptember 1-jén hatályát veszti.
+3. §[^2]
 
 Melléklet a 137/1996. (VIII. 28.) Korm. rendelethez
 
 Az Óvodai nevelés országos alapprogramja
 
-I.[^2]
+I.[^3]
 
 BEVEZETŐ
 
@@ -36,13 +34,13 @@ II.
 
 GYERMEKKÉP, ÓVODAKÉP
 
-Gyermekkép[^3]
+Gyermekkép[^4]
 
 1. Az Alapprogram az emberi személyiségből indul ki, abból a tényből, hogy az ember egyedi, mással nem helyettesíthető individuum és szociális lény egyszerre.
 
-2.[^4] Az Alapprogram gyermekkép megrajzolásában az eltérő pedagógiai és pszichológiai irányzatok közös vonásait veszi alapul. Ezek szerint: a gyermek fejlődő személyiség, fejlődését genetikai adottságok, az érés sajátos törvényszerűségei, a spontán és tervszerűen alkalmazott környezeti hatások együttesen határozzák meg. E tényezők együttes hatásának következtében a gyermeknek sajátos, életkoronként (életkori szakaszonként) és egyénenként változó testi és lelki szükségletei vannak. A személyiség szabad kibontakoztatásában a gyermeket körülvevő személyi és tárgyi környezet szerepe meghatározó. Az óvodai nevelés gyermekközpontú, befogadó, ennek megfelelően a gyermeki személyiség kibontakoztatására törekszik, biztosítva minden gyermek számára az egyenlő hozzáférést. Nem ad helyet az előítéletek kibontakozásának sem társadalmi, sem nemi, sem egyéb értelemben.
+2.[^5] Az Alapprogram gyermekkép megrajzolásában az eltérő pedagógiai és pszichológiai irányzatok közös vonásait veszi alapul. Ezek szerint: a gyermek fejlődő személyiség, fejlődését genetikai adottságok, az érés sajátos törvényszerűségei, a spontán és tervszerűen alkalmazott környezeti hatások együttesen határozzák meg. E tényezők együttes hatásának következtében a gyermeknek sajátos, életkoronként (életkori szakaszonként) és egyénenként változó testi és lelki szükségletei vannak. A személyiség szabad kibontakoztatásában a gyermeket körülvevő személyi és tárgyi környezet szerepe meghatározó. Az óvodai nevelés gyermekközpontú, befogadó, ennek megfelelően a gyermeki személyiség kibontakoztatására törekszik, biztosítva minden gyermek számára az egyenlő hozzáférést. Nem ad helyet az előítéletek kibontakozásának sem társadalmi, sem nemi, sem egyéb értelemben.
 
-Óvodakép[^5]
+Óvodakép[^6]
 
 1. Az óvoda a közoktatási rendszer szakmailag önálló nevelési intézménye, a családi nevelés kiegészítője, a gyermek harmadik életévétől az iskolába lépésig. Biztosítja az óvodáskorú gyermek fejlődésének és nevelésének optimális feltételeit. Az óvoda funkciói: óvó-védő, szociális, nevelő-személyiségfejlesztő funkció. Az óvoda közvetetten segíti az iskolai közösségbe történő beilleszkedéshez szükséges gyermeki személyiségvonások fejlődését. Az óvoda pedagógiai tevékenységrendszere és tárgyi környezete segíti a gyermek környezettudatos magatartásának kialakulását.
 
@@ -60,7 +58,7 @@ c) az óvodai nevelésben alkalmazott pedagógiai intézkedéseknek a gyermek sz
 
 5. A nemzeti, etnikai kisebbséghez tartozó gyermekek óvodai nevelésében biztosítani kell az önazonosság megőrzését, ápolását, erősítését, átörökítését, nyelvi nevelését, a multikulturális nevelésen alapuló integráció lehetőségét.
 
-6.[^6] A hazájukat elhagyni kényszerülő családok (a továbbiakban: migráns) gyermekeinek óvodai nevelésében biztosítani kell az önazonosság megőrzését, ápolását, erősítését, társadalmi integrálását, az emberi jogok és alapvető szabadságok védelmét.
+6.[^7] A hazájukat elhagyni kényszerülő családok (a továbbiakban: migráns) gyermekeinek óvodai nevelésében biztosítani kell az önazonosság megőrzését, ápolását, erősítését, társadalmi integrálását, az emberi jogok és alapvető szabadságok védelmét.
 
 III.
 
@@ -74,9 +72,9 @@ Az óvodai nevelés feladata az óvodáskorú gyermek testi és lelki szükségl
 
 – az érzelmi nevelés és a szocializáció biztosítása,
 
-–[^7] az anyanyelvi-, értelmi fejlesztés és nevelés megvalósítása.
+–[^8] az anyanyelvi-, értelmi fejlesztés és nevelés megvalósítása.
 
-Az egészséges életmód alakítása[^8]
+Az egészséges életmód alakítása[^9]
 
 Az egészséges életmódra nevelés, az egészséges életvitel igényének alakítása ebben az életkorban kiemelt jelentőségű. Az óvodai nevelés feladata a gyermek testi fejlődésének elősegítése. Ezen belül:
 
@@ -96,7 +94,7 @@ Az egészséges életmódra nevelés, az egészséges életvitel igényének ala
 
 – megfelelő szakemberek bevonásával – a szülővel, az óvodapedagógussal együttműködve – speciális gondozó, prevenciós és korrekciós testi, lelki nevelési feladatok ellátása.
 
-Az érzelmi nevelés és a szocializáció biztosítása[^9]
+Az érzelmi nevelés és a szocializáció biztosítása[^10]
 
 1. Az óvodáskorú gyermek egyik jellemző sajátossága a magatartás érzelmi vezéreltsége. A személyiségen belül az érzelmek dominálnak, ezért elengedhetetlen, hogy a gyereket az óvodában érzelmi biztonság, otthonosság, derűs, kiegyensúlyozott, szeretetteli légkör vegye körül. Mindezért szükséges, hogy
 
@@ -116,7 +114,7 @@ Az érzelmi nevelés és a szocializáció biztosítása[^9]
 
 5. A nehezen szocializálható, lassabban fejlődő, alacsonyabb fejlettségi szinten álló, érzékszervi, értelmi vagy mozgássérült, hátrányos helyzetű, halmozottan hátrányos helyzetű, az elhanyagolt, valamint a kiemelkedő képességű gyermekek nevelése speciális ismereteket, sajátos törődést igényel, szükség esetén megfelelő szakemberek (pszichológus, logopédus gyógypedagógus, konduktor stb.) közreműködésével.
 
-Az anyanyelvi, az értelmi fejlesztés és nevelés megvalósítása[^10]
+Az anyanyelvi, az értelmi fejlesztés és nevelés megvalósítása[^11]
 
 1. Az anyanyelvi nevelés valamennyi tevékenységi forma keretében megvalósítandó feladat. Az anyanyelv fejlesztése és a kommunikáció különböző formáinak alakítása – beszélő környezettel, helyes mintaadással és szabályközvetítéssel (a javítgatás elkerülésével) – az óvodai nevelőtevékenység egészében jelen van. Az anyanyelv ismeretére, megbecsülésére, szeretetére nevelés közben a gyermek természetes beszéd és kommunikációs kedvének fenntartására, ösztönzésére, a gyermek meghallgatására, a gyermeki kérdések támogatására és a válaszok igénylésére szükséges figyelmet fordítani.
 
@@ -128,7 +126,7 @@ IV.
 
 AZ ÓVODAI ÉLET MEGSZERVEZÉSÉNEK ELVEI
 
-Személyi feltételek[^11]
+Személyi feltételek[^12]
 
 1. Az óvodában a nevelőmunka kulcs-szereplője az óvodapedagógus. Jelenléte a nevelés egész időtartamában fontos feltétele az óvodai nevelésnek. Az óvodapedagógus elfogadó, segítő, támogató attitűdje modellt, mintát jelent a gyermek számára.
 
@@ -138,11 +136,11 @@ Személyi feltételek[^11]
 
 4. A migráns gyermekeket is nevelő óvodában dolgozóknak feladatuk lehetőséget teremteni ahhoz, hogy a gyermekek megismerhessék egymás kultúráját, anyanyelvét.
 
-Tárgyi feltételek[^12]
+Tárgyi feltételek[^13]
 
 Az óvodának rendelkeznie kell a helyi nevelési program megvalósításához szükséges tárgyi feltételekkel. Az óvoda épületét, udvarát, kertjét, berendezését oly módon kell kialakítani, hogy szolgálja a gyermekek biztonságát, kényelmét, megfeleljen testméreteiknek, biztosítsa egészségük megőrzését, fejlődését. Tegye lehetővé mozgás- és játékigényük kielégítését, és a gyermekeket harmóniát árasztó színekkel, formákkal, anyagokkal vegye körül. A tárgyi felszereléseket, amelyeket a gyermekek használnak, számukra hozzáférhető módon és a gyermekek biztonságára figyelemmel kell elhelyezni. Az óvoda egyidejűleg biztosítson megfelelő munkakörnyezetet az óvodai munkatársaknak, teremtsen lehetőséget a szülők fogadására.
 
-Az óvodai élet megszervezése[^13]
+Az óvodai élet megszervezése[^14]
 
 A gyermek egészséges fejlődéséhez, fejlesztéséhez a napirend és a hetirend biztosítja a feltételeket a megfelelő időtartamú párhuzamosan végezhető, differenciált tevékenységek tervezésével, szervezésével. A napirend igazodik a különböző tevékenységekhez és a gyermek egyéni szükségleteihez, valamint tekintettel van a helyi szokásokra, igényekre. A rendszeresség és az ismétlődések érzelmi biztonságot teremtenek a gyermeknek.
 
@@ -150,11 +148,11 @@ A jó napirendet folyamatosság és rugalmasság jellemzi. Fontos a tevékenysé
 
 2. Az óvodai élet szervezésében a gondozásnak is kiemelt szerepe van. Az óvodapedagógus a gondozás folyamatában is nevel, építi kapcsolatait a gyermekekkel, egyúttal segíti önállóságuk fejlődését együttműködve a gondozást végző többi munkatárssal.
 
-3.[^14] Az óvodai nevelés tervezését, valamint a gyermekek megismerését és fejlesztését, a fejlődésük nyomon követését különböző kötelező dokumentumok, továbbá az óvodapedagógusok által készített – nem kötelező – feljegyzések, dokumentumok is szolgálják. Az óvodai nevelés csak a fenntartó által jóváhagyott helyi nevelési program alapján történhet és a gyermek neveléséhez szükséges a teljes óvodai életet magába foglaló tevékenységek keretében szervezhető meg.
+3.[^15] Az óvodai nevelés tervezését, valamint a gyermekek megismerését és fejlesztését, a fejlődésük nyomon követését különböző kötelező dokumentumok, továbbá az óvodapedagógusok által készített – nem kötelező – feljegyzések, dokumentumok is szolgálják. Az óvodai nevelés csak a fenntartó által jóváhagyott helyi nevelési program alapján történhet és a gyermek neveléséhez szükséges a teljes óvodai életet magába foglaló tevékenységek keretében szervezhető meg.
 
 A teljes óvodai életet magában foglaló foglalkozások mindegyikét óvodapedagógus tartja.
 
-Az óvoda kapcsolatai[^15]
+Az óvoda kapcsolatai[^16]
 
 Az óvodai nevelés a családi neveléssel együtt, azt kiegészítve szolgálja a gyermek fejlődését. Ennek alapvető feltétele a családdal való együttműködés. Az együttműködés formái változatosak, a személyes kapcsolattól a különböző rendezvényekig magukban foglalják azokat a lehetőségeket, amelyeket az óvoda, illetve a család teremt meg. Az óvodapedagógus figyelembe veszi a családok sajátosságait, szokásait, az együttműködés során érvényesíti az intervenciós gyakorlatot, azaz a segítségnyújtás családhoz illesztett megoldásait.
 
@@ -168,7 +166,7 @@ AZ ÓVODAI ÉLET TEVÉKENYSÉGI FORMÁI
 
 ÉS AZ ÓVODAPEDAGÓGUS FELADATAI
 
-Játék[^16]
+Játék[^17]
 
 1. A játék a kisgyermekkor legfontosabb és legfejlesztőbb tevékenysége, s így az óvodai nevelés leghatékonyabb eszköze. A játék – szabad-képzettársításokat követő szabad játékfolyamat – a kisgyerek elemi pszichikus szükséglete, melynek mindennap visszatérő módon, hosszantartóan és lehetőleg zavartalanul ki kell elégülnie. A kisgyermek a külvilágból és saját belső világából származó tagolatlan benyomásait játékában tagolja. Így válik a játék kiemelt jelentőségű tájékozódó, a pszichikumot, a kreativitást fejlesztő és erősítő, élményt adó tevékenységgé.
 
@@ -180,7 +178,7 @@ Játék[^16]
 
 5. A játék kiemelt jelentőségének az óvoda napirendjében, időbeosztásában is meg kell mutatkoznia.
 
-Vers, mese[^17]
+Vers, mese[^18]
 
 1. Az érzelmi biztonság megadásának s az anyanyelvi nevelésnek egyaránt fontos eszközei a többnyire játékos mozgásokkal is összekapcsolt mondókák, dúdolók, versek. Ezek ritmusukkal, a mozdulatok és szavak egységével a gyermeknek érzéki-érzelmi élményeket adnak.
 
@@ -196,7 +194,7 @@ Vers, mese[^17]
 
 7. Az óvodában a népi, a klasszikus és a kortárs irodalmi műveknek egyaránt helye van.
 
-Ének, zene, énekes játék[^18]
+Ének, zene, énekes játék[^19]
 
 1. Az óvodában a környezet hangjainak megfigyelése, az ölbeli játékok, a népi gyermekdalok, az éneklés, az énekes játékok, a zenélés örömet nyújtanak a gyermeknek, egyben felkeltik zenei érdeklődését, formálják zenei ízlését, esztétikai fogékonyságát. Az élményt nyújtó közös ének-zenei tevékenységek során a gyermek felfedezi a dallam, a ritmus, a mozgás szépségét, a közös éneklés örömét. A népdalok éneklése, a gyermek néptáncok és népi játékok, a hagyományok megismerését, továbbélését segítik. Az óvodai ének-zenei nevelés feladatainak eredményes megvalósítása megalapozza, elősegíti a zenei anyanyelv kialakulását.
 
@@ -206,7 +204,7 @@ Vers, mese[^17]
 
 4. A felnőtt minta spontán utánzásával az éneklés, zenélés részévé válik a gyermek mindennapi tevékenységének.
 
-Rajzolás, mintázás, kézi munka[^19]
+Rajzolás, mintázás, kézi munka[^20]
 
 1. A rajzolás, festés, mintázás, építés, képalakítás, a kézi munka az ábrázolás különböző fajtái, a műalkotásokkal, a népművészeti elemekkel, az esztétikus tárgyi környezettel való ismerkedés is fontos eszköze a gyermeki személyiség fejlesztésének. A gyermeki alkotás a belső képek gazdagítására épül.
 
@@ -216,7 +214,7 @@ Rajzolás, mintázás, kézi munka[^19]
 
 4. Az óvodapedagógus feladata megismertetni a gyermekeket az eszközök használatával, a különböző anyagokkal, a rajzolás, mintázás és kézi munka különböző technikai alapelemeivel és eljárásaival.
 
-Mozgás[^20]
+Mozgás[^21]
 
 1. A torna, a mozgásos játékok fejlesztik a gyermekek természetes mozgását (járás, futás, ugrás, támasz, függés, egyensúlyozás, dobás), és testi képességeit mint az erő, ügyesség, gyorsaság, állóképesség, társra figyelés. Hozzájárulnak a harmonikus, összerendezett, fegyelmezett nagy és kismozgások kialakulásához.
 
@@ -226,7 +224,7 @@ Mozgás[^20]
 
 4. A tornának, játékos mozgásoknak, az egészséges életmódot erősítő egyéb tevékenységeknek teremben és szabad levegőn, eszközökkel és eszközök nélkül, spontán vagy szervezett formában az óvodai nevelés minden napján – az egyéni szükségleteket és képességeket figyelembe véve – minden gyermek számára lehetőséget kell biztosítani.
 
-A külső világ tevékeny megismerése[^21]
+A külső világ tevékeny megismerése[^22]
 
 A gyermek aktivitása és érdeklődése során tapasztalatokat szerez a szűkebb és tágabb természeti-emberi-tárgyi környezet formai, mennyiségi, téri viszonyairól. A valóság felfedezése során pozitív érzelmi viszonya alakul a természethez, az emberi alkotásokhoz, tanulja azok védelmét, az értékek megőrzését.
 
@@ -236,7 +234,7 @@ A gyermek aktivitása és érdeklődése során tapasztalatokat szerez a szűkeb
 
 4. Az óvodapedagógus feladata, hogy tegye lehetővé a gyermek számára a környezet tevékeny megismerését. Biztosítson elegendő alkalmat, időt, helyet, eszközöket a spontán és szervezett tapasztalat- és ismeretszerzésre, a környezetkultúrára és a biztonságos életvitel szokásainak alakítására. Segítse elő a gyermek önálló véleményalkotását, döntési képességeinek fejlődését, a kortárs kapcsolatokban és a környezet alakításában.
 
-Munka jellegű tevékenységek[^22]
+Munka jellegű tevékenységek[^23]
 
 1. A személyiségfejlesztés fontos eszköze a játékkal és a cselekvő tapasztalással sok vonatkozásban azonosságot mutató, azzal egybeeső munka és munka jellegű játékos tevékenység (az önkiszolgálás, segítés az óvodapedagógusnak és más felnőtteknek, a csoporttársakkal együtt, értük, később önálló tevékenységként végzett alkalmi megbízások teljesítése, az elvállalt naposi vagy egyéb munka, a környezet-, a növény- és állatgondozás stb.).
 
@@ -250,7 +248,7 @@ Munka jellegű tevékenységek[^22]
 
 3. A gyermeki munka az óvodapedagógustól tudatos pedagógiai szervezést, a gyermekkel való együttműködést és folyamatos konkrét, reális, vagyis a gyermeknek saját magához mérten fejlesztő értékelést igényel.
 
-A tevékenységekben megvalósuló tanulás[^23]
+A tevékenységekben megvalósuló tanulás[^24]
 
 1. Az óvodában a tanulás folyamatos, jelentős részben utánzásos, spontán tevékenység, amely a teljes személyiség fejlődését, fejlesztését támogatja. Nem szűkül le az ismeretszerzésre, az egész óvodai nap folyamán adódó helyzetekben, természetes és szimulált környezetben, kirándulásokon, az óvodapedagógus által kezdeményezett tevékenységi formákban, szervezeti és időkeretekben valósul meg.
 
@@ -274,7 +272,7 @@ A tevékenységekben megvalósuló tanulás[^23]
 
 5. Az óvodapedagógus a tanulás irányítása során, személyre szabott, pozitív értékeléssel segíti a gyermek személyiségének kibontakozását.
 
-VI.[^24]
+VI.[^25]
 
 A FEJLŐDÉS JELLEMZŐI AZ ÓVODÁSKOR VÉGÉRE
 
@@ -310,27 +308,27 @@ c) Az óvodáskor végére a gyermekek szociálisan is éretté válnak az iskol
 
 5. A különleges gondozásra jogosult gyermekek iskolaérettségi kritériumai tükrözik a befogadó intézmény elvárásait az iskolába kerülő gyermekekkel szemben.
 
-[^1]: A 3. §-t a 221/2010. (VII. 30.) Korm. rendelet 3. §-a iktatta be. A 3. § a (2) bekezdés alapján hatályát veszti 2011. szeptember 1. napjával.
-[^2]: A melléklet I. fejezete a 255/2009. (XI. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^3]: A melléklet II. fejezet „Gyermekkép” alcíméhez tartozó szöveg a 255/2009. (XI. 20.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^4]: A melléklet II. cím Gyermekkép alcím 2. pontja a 221/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A melléklet II. fejezet „Óvodakép” alcíméhez tartozó szöveg a 255/2009. (XI. 20.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^6]: A melléklet II. cím Óvodakép alcím 6. pontja a 221/2010. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A melléklet III. fejezet „Az óvodai nevelés általános feladatai” alcímet követő harmadik franciabekezdés a 255/2009. (XI. 20.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^8]: A melléklet III. fejezet „Az egészséges életmód alakítása” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^9]: A melléklet III. fejezet „Az érzelmi nevelés és a szocializáció biztosítása” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^10]: A melléklet III. fejezet negyedik alcíme és az azt követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^11]: A melléklet IV. fejezet „Személyi feltételek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^12]: A melléklet IV. fejezet „Tárgyi feltételek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^13]: A melléklet IV. fejezet „Az óvodai élet megszervezése” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^14]: A melléklet IV. cím Az óvodai élet megszervezése alcím 3. pontja a 170/2010. (V. 12.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^15]: A melléklet IV. fejezet „Az óvoda kapcsolatai” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^16]: A melléklet V. fejezet „Játék” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^17]: A melléklet V. fejezet „Vers, mese” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^18]: A melléklet V. fejezet „Ének, zene, énekes játék” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^19]: A melléklet V. fejezet „Rajzolás, mintázás, kézi munka” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^20]: A melléklet V. fejezet „Mozgás” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^21]: A melléklet V. fejezet „A külső világ tevékeny megismerése” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^22]: A melléklet V. fejezet „Munka jellegű tevékenységek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^23]: A melléklet V. fejezet nyolcadik alcíme és az azt követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
-[^24]: A melléklet VI. fejezete a 255/2009. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^2]: A 3. §-t a 221/2010. (VII. 30.) Korm. rendelet 3. §-a iktatta be, ugyanezen § (2) bekezdése hatályon kívül helyezte.
+[^3]: A melléklet I. fejezete a 255/2009. (XI. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^4]: A melléklet II. fejezet „Gyermekkép” alcíméhez tartozó szöveg a 255/2009. (XI. 20.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^5]: A melléklet II. cím Gyermekkép alcím 2. pontja a 221/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A melléklet II. fejezet „Óvodakép” alcíméhez tartozó szöveg a 255/2009. (XI. 20.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^7]: A melléklet II. cím Óvodakép alcím 6. pontja a 221/2010. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A melléklet III. fejezet „Az óvodai nevelés általános feladatai” alcímet követő harmadik franciabekezdés a 255/2009. (XI. 20.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^9]: A melléklet III. fejezet „Az egészséges életmód alakítása” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^10]: A melléklet III. fejezet „Az érzelmi nevelés és a szocializáció biztosítása” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^11]: A melléklet III. fejezet negyedik alcíme és az azt követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^12]: A melléklet IV. fejezet „Személyi feltételek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^13]: A melléklet IV. fejezet „Tárgyi feltételek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^14]: A melléklet IV. fejezet „Az óvodai élet megszervezése” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^15]: A melléklet IV. cím Az óvodai élet megszervezése alcím 3. pontja a 170/2010. (V. 12.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^16]: A melléklet IV. fejezet „Az óvoda kapcsolatai” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^17]: A melléklet V. fejezet „Játék” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^18]: A melléklet V. fejezet „Vers, mese” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^19]: A melléklet V. fejezet „Ének, zene, énekes játék” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^20]: A melléklet V. fejezet „Rajzolás, mintázás, kézi munka” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^21]: A melléklet V. fejezet „Mozgás” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^22]: A melléklet V. fejezet „A külső világ tevékeny megismerése” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^23]: A melléklet V. fejezet „Munka jellegű tevékenységek” alcímet követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^24]: A melléklet V. fejezet nyolcadik alcíme és az azt követő szöveg a 255/2009. (XI. 20.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
+[^25]: A melléklet VI. fejezete a 255/2009. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján az óvodáknak a 255/2009. (XI. 20.) Korm. rendeletben foglaltaknak megfelelően felülvizsgált nevelési programjukat először a 2010/2011. óvodai nevelési évben kell alkalmazniuk.
