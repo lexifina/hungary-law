@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2011-07-01 | 2011. évi LXXXI. törvény | 2003-84-00-00.13 |
 | 2011-08-01 | 2007. évi LXXII. törvény | 2003-84-00-00.14 |
 | 2011-08-02 | 2007. évi LXXII. törvény | 2003-84-00-00.15 |
+| 2011-09-01 | 2011. évi LXXXI. törvény | 2003-84-00-00.16 |

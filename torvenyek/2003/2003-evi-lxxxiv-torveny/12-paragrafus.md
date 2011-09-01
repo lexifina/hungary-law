@@ -26,7 +26,7 @@ c) a 13. § (2) bekezdése alapján vállalt többletmunka keretében
 
 láthat el.
 
-(6) Rendes munkaidő terhére egészségügyi ügyelet akkor rendelhető el, ha ebben a felek előzetesen írásban megállapodtak. Ha az ügyelet rendes munkaidőben történő ellátása az alkalmazott egészségügyi dolgozó alapbérét, illetményét érinti, erre a megállapodásban ki kell térni.
+(6) Egészségügyi ügyelet a rendes munkaidő terhére is elrendelhető, ha ebben a felek előzetesen írásban megállapodtak. Ebben az esetben az alkalmazott egészségügyi dolgozó rendes munkaidő teljesítésére vonatkozó kötelezettségét egészségügyi ügyelet ellátásával is teljesítheti. Ha az egészségügyi ügyelet része a rendes munkaidőnek, az alkalmazott egészségügyi dolgozó alapbérére, illetményére a megállapodásban ki kell térni. Eltérő megállapodás hiányában az alkalmazott egészségügyi dolgozót a rendes munkaidőnek minősített egészségügyi ügyelet minden órájára – ha a 13/A. § alapján megállapított ügyeleti díj mértéke annál kevesebb – illetményének vagy személyi alapbérének egy órára eső összege illeti meg.
 
 (7) Amennyiben az alkalmazott egészségügyi dolgozó jogviszonya kizárólag ügyeleti feladatok ellátására irányul, az ügyeleti feladatok ellátására e jogviszonyban kizárólag készenléti jellegű munkakörben kerülhet sor.
 
@@ -35,3 +35,5 @@ láthat el.
 (9) A készenlét az egészségügyi dolgozónak az egészségügyi szolgáltató napi munkarendje szerinti munkaidő befejezésétől a következő napi munkarend szerinti munkaidő kezdetéig az egészségügyi dolgozó által megjelölt és a munkavégzés helyére figyelemmel reálisan elérhető helyen és időben való rendelkezésre állása.
 
 (10) A (9) bekezdés szerinti készenlét havonta legfeljebb tíz alkalommal rendelhető el. Munkaidőkeret alkalmazása esetén a készenlét havi mértékét a munkaidőkeret átlagában kell figyelembe venni.
+
+(11) A heti pihenőnap vagy munkaszüneti nap, amelyen az egészségügyi dolgozó egészségügyi ügyeletet látott el – a 13/A. § (1) bekezdés b) vagy c) pontja alapján irányadó ügyeleti díjon túl – elsősorban azonos tartamú pihenőidővel kompenzálandó. Ha a munkáltató objektív munkaszervezési okokból kiesett heti pihenőnap helyett másik pihenőnapot kiadni nem tud, az e napot is érintő egészségügyi ügyelet díjazására a 13/A. § (1) bekezdés d) pontja irányadó.
