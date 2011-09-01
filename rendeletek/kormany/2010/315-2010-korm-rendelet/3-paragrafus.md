@@ -6,9 +6,9 @@
 
 (3) A Hivatal székhelye Budapest.
 
-(4)[^2] A miniszter irányítási jogkörében kinevezi és felmenti a Hivatal főigazgató-helyetteseit.
+(4)[^4] A miniszter irányítási jogkörében kinevezi és felmenti a Hivatal főigazgató-helyetteseit.
 
-(5)[^3] A Hivatal főigazgató-helyettesei felett a munkáltatói jogokat – a kinevezés és felmentés kivételével – a Hivatal főigazgatója gyakorolja. A Hivatal főigazgatója gyakorolja a munkáltatói jogokat a Hivatal kormánytisztviselői, kormányzati ügykezelői és munkavállalói felett.
+(5)[^5] A Hivatal főigazgató-helyettesei felett a munkáltatói jogokat – a kinevezés és felmentés kivételével – a Hivatal főigazgatója gyakorolja. A Hivatal főigazgatója gyakorolja a munkáltatói jogokat a Hivatal kormánytisztviselői, kormányzati ügykezelői és munkavállalói felett.
 
-[^2]: A 3. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 291. § (1) bekezdése iktatta be.
-[^3]: A 3. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 291. § (1) bekezdése iktatta be.
+[^4]: A 3. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 291. § (1) bekezdése iktatta be.
+[^5]: A 3. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 291. § (1) bekezdése iktatta be.

@@ -54,7 +54,7 @@
 
 ## Győr-Moson-Sopron megye.
 
-2. melléklet a Nemzeti Foglalkoztatási Szolgálatról szóló 315/2010. (XII. 27.) Korm. rendelethez[^21]
+2. melléklet a Nemzeti Foglalkoztatási Szolgálatról szóló 315/2010. (XII. 27.) Korm. rendelethez[^25]
 
 A regionális fejlesztési és képzési bizottság tevékenységével összefüggő e rendeletben meghatározott feladatokat ellátó, illetékességgel rendelkező munkaügyi központok
 
@@ -72,4 +72,4 @@ A regionális fejlesztési és képzési bizottság tevékenységével összefü
 
 7. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
 
-[^21]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 292. §-a iktatta be.
+[^25]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 292. §-a iktatta be.
