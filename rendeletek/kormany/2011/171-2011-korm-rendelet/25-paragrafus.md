@@ -1,4 +1,8 @@
-## 23–24. §[^9]
+## 24. § Az R2. a következő 9/A. §-sal egészül ki:
+
+## „9/A. § (1) Ha az e rendelet szabályai szerint, 2011. szeptember 1-jét megelőzően megállapított támogatás folyósítása alatt a támogatással érintett munkaviszony megszűnik, és a foglalkoztató a támogatás még fennmaradó időtartamára, a támogatással érintett álláshelyre közfoglalkoztatási jogviszonyt létesít, a támogatáshoz kapcsolódó közvetlen költség mértékének megállapításánál a támogatásra vonatkozó hatósági szerződésben meghatározott mértéket és munkabért kell figyelembe venni.
+
+## (2) A 7/B. § (2) bekezdése rendelkezéseit a közfoglalkoztatással összefüggésben egyes kormányrendeletek módosításáról szóló 171/2011. (VIII. 24.) Korm. rendelet (a továbbiakban: Kr.) hatálybalépése előtt megindított és a Kr.-rel megállapított 7/B. § alapján közfoglalkoztatási mintaprogrammá nyilvánított programok tekintetében is alkalmazni kell.”
 
 ## 7. Záró rendelkezések
 
@@ -9,5 +13,3 @@
 (3) A 27. § (4) bekezdése 2012. július 1-jén lép hatályba.
 
 (4) Ez a rendelet 2012. július 2-án hatályát veszti.
-
-[^9]: A 23–24. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.

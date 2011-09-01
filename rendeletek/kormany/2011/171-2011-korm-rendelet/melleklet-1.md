@@ -1,4 +1,10 @@
-## 28. §[^13]
+## 28. § Az R3. 18. § (5) bekezdésének az R1. 6. § (1) bekezdés c)–d) pontját módosító rendelkezése a következő szöveggel lép hatályba:
+
+## [A munkaügyi központ megyei (fővárosi) szervezete]
+
+## „c) dönt az MpA foglalkoztatási alaprészének decentralizált kerete felhasználásáról,
+
+## d) ellátja az MpA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkahelyteremtéssel kapcsolatos feladatokat,”
 
 1. melléklet a 171/2011. (VIII. 24.) Korm. rendelethez
 
@@ -47,5 +53,3 @@ a munkaerő-kölcsönző nyilvántartásba vételéhez
 | ...................................................................... a kérelmező cégszerű aláírása |
 
 ”
-
-[^13]: A 28. § a 25. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba.
