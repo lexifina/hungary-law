@@ -2,4 +2,6 @@
 
 (2) A 17. § 2011. augusztus 1-jén lép hatályba.
 
-(3) A 18. § 2012. január 1-jén lép hatályba.
+(3)[^3] A 18. § 2011. október 1-jén lép hatályba.
+
+[^3]: A 25. § (3) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 26. § (7) bekezdése szerint módosított szöveg.

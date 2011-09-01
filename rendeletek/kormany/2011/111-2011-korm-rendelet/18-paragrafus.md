@@ -14,7 +14,7 @@
 
 ## „(2a) A munkaügyi központ élén igazgató áll.”
 
-(5) Az R7. 6. §-a helyébe a következő rendelkezés lép:
+(5)[^2] Az R7. 6. §-a helyébe a következő rendelkezés lép:
 
 ## „6. § (1) A munkaügyi központ megyei (fővárosi) szervezete
 
@@ -22,9 +22,9 @@
 
 ## b) ellátja az MpA pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
 
-## c) dönt az MpA foglalkoztatási alaprészének és a közfoglalkoztatási támogatások előirányzat decentralizált kerete felhasználásáról,
+## c) dönt az MpA foglalkoztatási alaprészének decentralizált kerete felhasználásáról,
 
-## d) ellátja az MpA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkahelyteremtés, valamint a közfoglalkoztatási támogatások előirányzat központi keretéből finanszírozott támogatásokkal kapcsolatos feladatokat,
+## d) ellátja az MpA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkahelyteremtéssel kapcsolatos feladatokat,
 
 ## e) működteti az álláskeresők támogatási rendszerét, és gondoskodik a támogatási és szolgáltatási rendszer szakmai működtetéséről,
 
@@ -75,3 +75,5 @@
 ## (2) A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ kirendeltségeinek általános és egyetemes jogutóda azon, e rendelet szerinti hatáskörrel rendelkező munkaügyi központ, amely munkaügyi központ szervezetének a kirendeltség e rendelet szerint a részét képezi.”
 
 (7) Az R7. 1. melléklete helyébe a 10. melléklet lép.
+
+[^2]: A 18. § (5) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 28. §-a szerint módosított szöveg.
