@@ -1,4 +1,4 @@
-## Adatlap a bérpótló juttatás címén igénybe vehető támogatás igényléséhez
+## Adatlap a foglalkoztatást helyettesítő támogatás címén igénybe vehető támogatás igényléséhez
 
 ## Tárgyhónap: .................. év ..................................... hónap
 
@@ -8,13 +8,13 @@
 
 | 3. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:…………………………………………. |
 
-| 4. A tárgyhónapban az Szt. 35. § (1) bekezdése szerinti bérpótló juttatásban részesülők száma: | ........................ fő |
+| 4. A tárgyhónapban az Szt. 35. § (1) bekezdése szerinti foglalkoztatást helyettesítő támogatásban részesülők száma: | ........................ fő |
 
-| 5. A tárgyhónapban bérpótló juttatás címén történt kifizetés: | ........................ Ft |
+| 5. A tárgyhónapban foglalkoztatást helyettesítő támogatás címén történt kifizetés: | ........................ Ft |
 
 | 6. A tárgyhavi kifizetések után járó térítés [az 5. pont szerinti összeg 80%-a]: | ........................ Ft |
 
-| 7. A bérpótló juttatás kifizetéséhez igényelt előleg összege: |  |
+| 7. A foglalkoztatást helyettesítő támogatás kifizetéséhez igényelt előleg összege: |  |
 
 | a) a tárgyhónapra járó térítés [a 6. pont szerinti összeg]: | ........................ Ft |
 

@@ -1,4 +1,4 @@
-## Adatlap a hajléktalan személyek részére kifizetett bérpótló juttatás címén igénybe vehető támogatás igényléséhez
+## Adatlap a hajléktalan személyek részére kifizetett foglalkoztatást helyettesítő támogatás címén igénybe vehető támogatás igényléséhez
 
 ## Tárgyhónap: .................. év ..................................... hónap
 
@@ -6,13 +6,13 @@
 
 | 2. KSH kódja [2 számjegyű megyekód + 5 számjegyű településazonosító]:…………………………………………………. |
 
-| 3. A tárgyhónapban az Szt. 35. § (1) bekezdése szerinti bérpótló juttatásban részesülők száma: | ........................ fő |
+| 3. A tárgyhónapban az Szt. 35. § (1) bekezdése szerinti foglalkoztatást helyettesítő támogatásban részesülők száma: | ........................ fő |
 
-| 4. A tárgyhónapban bérpótló juttatás címén történt kifizetés: | ........................ Ft |
+| 4. A tárgyhónapban foglalkoztatást helyettesítő támogatás címén történt kifizetés: | ........................ Ft |
 
 | 5. A tárgyhavi kifizetések után járó térítés [a 4. pont szerinti összeg 100%-a]: | ........................ Ft |
 
-| 6. A bérpótló juttatás kifizetéséhez igényelt előleg összege: |  |
+| 6. A foglalkoztatást helyettesítő támogatás kifizetéséhez igényelt előleg összege: |  |
 
 | a) a tárgyhónapra járó térítés [az 5. pont szerinti összeg]: | ........................ Ft |
 
@@ -26,6 +26,6 @@
 
 | ........................................................ a fővárosi főjegyző aláírása | ........................................................ a főpolgármester aláírása |
 
-11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^35]
+11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^37]
 
-[^35]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja.
+[^37]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja.

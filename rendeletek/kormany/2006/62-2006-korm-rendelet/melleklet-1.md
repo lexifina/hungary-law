@@ -1,3 +1,5 @@
+## 8/B. §[^29] Az Szt.-nek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 29. §-ával megállapított 140/G. §-a szerint a 2011. szeptember 1-jét megelőzően bérpótló juttatás kifizetéséhez igényelt előleggel a 7. és 10. számú melléklet szerinti adatlapokon kell elszámolni.
+
 1. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez
 
 ## Adatlap a kifizetett időskorúak járadéka címén igénybe vehető támogatás igényléséhez
@@ -99,3 +101,5 @@ P. H.
 …................…… …...............……
 
 a jegyző aláírása a polgármester aláírása
+
+[^29]: A 8/B. §-t a 171/2011. (VIII. 24.) Korm. rendelet 6. §-a iktatta be.
