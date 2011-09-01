@@ -1,13 +1,13 @@
+## 8. §[^8]
+
 ## 7. Országos mérés, értékelés, szakmai ellenőrzés elrendelése
 
-9. § (1) A közoktatásról szóló törvény 99. § (4)–(5) bekezdése alapján a 2010/2011. tanévben országos mérés, értékelés keretében kell megvizsgálni az anyanyelvi és a matematikai alapkészségek fejlődését a negyedik, a hatodik, a nyolcadik és a tizedik évfolyamon valamennyi tanulóra kiterjedően.
-
-(2) A közoktatásról szóló törvény 95. § (1) bekezdés p) pontja alapján a 2010/2011. tanévben országos mérés, értékelés keretében kell elvégezni a kisebbségi nyelvismeret alapozó mérését a kétnyelvű és anyanyelvű nemzetiségi iskolák negyedik évfolyamán. A hatodik, nyolcadik és tizedik évfolyamon a matematikai alapkészségek vizsgálatához szükséges mérőeszközt az adott kisebbség nyelvén is rendelkezésre kell bocsátani azokban az iskolákban, ahol a matematika tantárgyat az adott kisebbség nyelvén oktatják.
-
-(3) Az (1)–(2) bekezdésben meghatározott méréseket, értékeléseket a Hivatal szervezi meg az Országos szakértői névjegyzékben szereplő szakértők bevonásával 2011. május 25-én. A mérés napja tanítási napnak minősül, melyet az érintett tanulók a mérésben való részvétellel teljesítenek. További kötelező tanórai foglalkozás számukra nem szervezhető. A méréshez szükséges adatokat az érintett nevelési-oktatási intézmények a Hivatal részére 2010. november 26-ig küldik meg, a Hivatal által meghatározott módon.
+9. § (1)–(3)[^9]
 
 (4) A Hivatal 2012. február 28-ig országos, intézményi és fenntartói szintű elemzéseket készít, majd megküldi az intézményi szintű elemzéseket az intézmények vezetőinek, az intézményi és a fenntartói szintű elemzéseket a fenntartóknak, az országos elemzést pedig az OKM-nek. Az OKM az országos elemzést – tájékoztatás céljából – megküldi a Közoktatás-politikai Tanácsnak és az Országos Köznevelési Tanácsnak, továbbá azt 2012. május 31-ig a honlapján nyilvánosságra hozza.
 
-(5) A tanuló eltérő ütemű fejlődéséből, fejlesztési szükségleteiből fakadó egyéni hátrányok csökkentése, továbbá az alapkészségek sikeres megalapozása és kibontakoztatása érdekében az általános iskolák 2010. október 15-ig felmérik azon első évfolyamos tanulóik körét, akiknél az óvodai jelzések vagy a tanév kezdete óta szerzett tapasztalatok alapján az alapkészségek fejlesztését hangsúlyosabban kell a későbbiekben támogatni, és ezért az osztálytanító indokoltnak látja az azt elősegítő pedagógiai tevékenység megalapozásához a Diagnosztikus fejlődésvizsgáló rendszer alkalmazását. Az igazgatók 2010. október 31-ig – a Hivatal által közzétett formanyomtatvány alkalmazásával – jelentik a Hivatal regionális igazgatóságainak az érintett tanulók létszámát. Az e bekezdésben meghatározott vizsgálatokat az iskoláknak a kiválasztott tanulókkal 2010. december 10-ig kell elvégezniük.
+(5)–(6)[^10]
 
-(6) 2011. március 1. és május 31. között szakmai ellenőrzés keretében kell elvégezni a kisebbségi nyelv és népismeret oktatásának vizsgálatát a nemzetiségi nyelvoktató iskolákban. A szakmai ellenőrzést a Hivatal szervezi meg az Országos szakértői névjegyzéken szereplő szakértők bevonásával.
+[^8]: A 8. §-t a 30/2011. (VI. 7.) NEFMI rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 9. § (1)–(3) bekezdését a 30/2011. (VI. 7.) NEFMI rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 9. § (5)–(6) bekezdését a 30/2011. (VI. 7.) NEFMI rendelet 15. § (1) bekezdése hatályon kívül helyezte.

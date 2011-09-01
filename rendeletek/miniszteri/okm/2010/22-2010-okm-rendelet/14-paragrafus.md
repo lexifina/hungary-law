@@ -4,10 +4,10 @@
 
 ## db) amennyiben az eredeti érettségi bizonyítvány, szakképesítő bizonyítvány szerepel a Hivatal, illetőleg a Nemzeti Szakképzési és Felnőttképzési Intézet által vezetett központi nyilvántartásban, az eredeti bizonyítvány megsemmisítéséről, érvénytelenné nyilvánításáról és a másodlat kiadásáról a központi nyilvántartás vezetőjét értesíteni kell.”
 
-14. §[^5] (1) Az esélyegyenlőséget szolgáló intézkedések és az integrációs rendszerben részt vevő intézményekben dolgozó pedagógusok támogatásáról szóló 5/2010. (I. 29.) OKM rendelet (a továbbiakban: miniszteri rendelet) 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+14. §[^14] (1) Az esélyegyenlőséget szolgáló intézkedések és az integrációs rendszerben részt vevő intézményekben dolgozó pedagógusok támogatásáról szóló 5/2010. (I. 29.) OKM rendelet (a továbbiakban: miniszteri rendelet) 15. § (3) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(3) A nem állami, nem helyi önkormányzati intézményfenntartó részére megítélt támogatást a finanszírozási adatok ismeretében a Kincstár a költségvetési törvény XX. fejezet, 11. cím, 2. alcím, 3. jogcímcsoport „Közoktatási humánszolgáltatás és kiegészítő támogatás” előirányzat terhére a 2010. szeptember havi normatíva-kiutalással együtt folyósítja.”
 
 (2) A miniszteri rendelet 24. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: A 14. §-t a 16. § (1) bekezdése hatályon kívül helyezte 2011. szeptember 2. napjával.
+[^14]: A 14. §-t a 16. § (1) bekezdése hatályon kívül helyezte 2011. szeptember 2. napjával.
