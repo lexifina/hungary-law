@@ -2,9 +2,9 @@
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdősítésre alkalmas terület övezetében, valamint a kiemelt térségek területrendezési tervére vonatkozó törvények hatálya alá tartozó település közigazgatási határától számított 200 m-nél közelebbi területen a beépítésre szánt területek kivételes kijelölése az állami főépítész térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdőtelepítésre alkalmas terület övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a területcsere az állami főépítésznek a területrendezési hatósági eljárás során kiadott térségi területfelhasználási engedélye alapján történik.
 
-(4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a tervezett hálózat vagy építmény nem felel meg az elfogadott országos területrendezési terv előírásainak.
+(4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
 (5) A térségi területfelhasználási engedélykérelmet két hónapon belül kell elbírálni. A (3) bekezdés szerinti eljárás esetében az ügyintézési határidő harminc nap.
 

@@ -42,7 +42,7 @@ s) az állami főépítész vagy főépítészek kijelölését,
 
 t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
-u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
+u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
 v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
 

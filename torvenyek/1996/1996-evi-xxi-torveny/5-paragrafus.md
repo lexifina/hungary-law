@@ -50,4 +50,6 @@ p) mezőgazdasági vidékfejlesztés térségei (rurális térségek): azok a t�
 
 r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 
-s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja.
+s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
+
+t) területcsere: olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.
