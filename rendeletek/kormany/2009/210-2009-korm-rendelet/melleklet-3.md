@@ -108,7 +108,7 @@
 
 4. állatgyógyászati készítmények és hatóanyagaik;
 
-5. fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységek felügyeletéről szóló kormányrendelet szerinti játékos pirotechnikai termékek, valamint a kis és a közepes tűzijáték termékek kivételével, az ott meghatározott feltételekkel;
+5.[^29] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
 
 6. növényvédő szerek és hatóanyagaik;
 
@@ -117,3 +117,4 @@
 8. „A” és „B” tűzveszélyességi osztályba sorolt anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
 
 [^28]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^29]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
