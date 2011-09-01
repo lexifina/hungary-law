@@ -1,8 +1,0 @@
-21/A. §[^76] (1)[^77] A játékos pirotechnikai, illetve a kis és a közepes tűzijáték termékek (a közepes tűzijáték termékek esetében a bombák, a „tűzijáték bombák mozsarakban” és a római gyertya kivételével) forgalmazásához – december 28. és 31. közötti időszakban – a tárolás átmeneti tárolóhelyre (építmény, konténer) is engedélyezhető, feltéve, hogy őrzésükről megfelelően gondoskodnak. Az eladásra szolgáló helyen – üzlethelyiség kivételével – lehetőség szerint mintadarabok, hatóanyag nélküli termékek, illetve termékismertetők legyenek. A forgalmazó köteles a vásárlókat a térítésmentes visszavétel lehetőségéről (hely, időpont és elérhetőség feltüntetésével) jól látható helyen írásban tájékoztatni.
-
-(2) A felhasználáshoz és forgalmazáshoz kapcsolódó ideiglenes tárolás megfelelően kialakított átmeneti tárolóhelyen, legfeljebb hat hónapra engedélyezhető. Az ideiglenes tárolási engedély egy alkalommal további három hónapra meghosszabbítható.
-
-(3) A 3. számú melléklet szerint kialakított átmeneti tárolóhelyen összesen legfeljebb 20 kg nettó hatóanyag-tartalmú pirotechnikai termék a felhasználás megkezdését megelőző 3 napon belül külön engedély nélkül tárolható. A felhasználási engedély kérelemben az átmeneti tároló pontos helyét (település, utca, házszám vagy helyrajzi szám) fel kell tüntetni.
-
-[^76]: A 21/A. §-t a 245/2005. (XI. 8.) Korm. rendelet 15. §-a iktatta be.
-[^77]: A 21/A. § (1) bekezdése a 263/2009. (XI. 26.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján a rendelkezést a 2009. december 4. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
