@@ -4,6 +4,6 @@
 
 | 2. | A vasúti átjáró előtti megállásra vonatkozó rendelkezések | 39. § (3) bekezdés b), c), e), h) pont | 100 000 |
 
-11/D. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^15]
+11/D. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^16]
 
-[^15]: A 11/D. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^16]: A 11/D. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
