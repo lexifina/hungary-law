@@ -1,3 +1,0 @@
-## 1. § A START-kártya felhasználásának, a járulékkedvezmény érvényesítésének, továbbá elszámolásának részletes szabályairól szóló 31/2005. (IX. 29.) PM rendelet (a továbbiakban: R.) 2. számú mellékletének 5. pontja helyébe a következő rendelkezés lép:
-
-## „5. Az adatszolgáltatás határideje a tárgyhónapról az Art. 31. § (2) bekezdése szerinti bevallás benyújtására előírt hónapot követő második hónap utolsó napja. Tárgyhónap alatt minden esetben a foglalkoztató havi bevallása és abban teljesített adatszolgáltatása kezdő és záró időpontja közötti időtartamot kell érteni. Az adatszolgáltatásokat az állami adóhatóság elektronikus úton teljesíti.”
