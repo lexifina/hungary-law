@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2011-03-29 | 2003-38-20-0M.15 | 9/2011. (III. 21.) NEFMI rendelet |
 | 2011-06-17 | 2003-38-20-0M.16 | 31/2011. (VI. 16.) NEFMI rendelet |
 | 2011-07-01 | 2003-38-20-0M.17 | 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet |
+| 2011-09-01 | 2003-38-20-0M.18 | 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet |
