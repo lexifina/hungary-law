@@ -38,7 +38,7 @@ o) a nem művelt, vagy méretük és kialakításuk miatt gazdaságosan nem műv
 
 p) a birtoknagyság alkalmassá tétele az európai uniós támogatások lehívhatóságához;
 
-q) szociális földprogram támogatása;
+q) szociális földprogram és közfoglalkoztatási program támogatása;
 
 r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 

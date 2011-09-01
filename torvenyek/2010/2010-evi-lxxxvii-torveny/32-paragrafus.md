@@ -12,4 +12,6 @@ d) a rábízott földvagyon és az ahhoz kapcsolódó bevételek és kiadások e
 
 e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
 
+f) a Nemzeti Földalapba tartozó földrészletek közfoglalkoztatási program megvalósítása céljából az önkormányzatok számára történő vagyonkezelésbe adásának szabályait;
+
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az ellenőrző bizottság működési rendjének, valamint működési költségei megtérítésének a szabályait.
