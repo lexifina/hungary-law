@@ -40,6 +40,6 @@
 
 ## intézményvezető
 
-7. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^187]
+7. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^189]
 
-[^187]: A 7. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ak) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^189]: A 7. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ak) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

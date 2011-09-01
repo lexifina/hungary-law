@@ -262,7 +262,7 @@
 
 ## 5.2.7.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
 
-## 5.2.7.5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a bérpótló juttatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+## 5.2.7.5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
 ## 5.2.7.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
@@ -316,7 +316,7 @@
 
 ## 5.3.7. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^185]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^187]
 
 ## KÉRELEM
 
@@ -452,7 +452,7 @@ Nem jogosult ápolási díjra a hozzátartozó ha:
 
 – rendszeres pénzellátásban részesül és annak összege meghaladja az ápolási díj összegét, ide nem értve azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységből adódó biztosítási jogviszony alapján – keresőképtelenné válás esetén – folyósítanak, továbbá azt a saját jogú nyugdíjat, amelyet az ápolási díjban részesülő személy az Szt. 42. § (4) bekezdése alapján kap.
 
-Rendszeres pénzellátásnak minősül: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a rokkantsági nyugdíj, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a baleseti rokkantsági nyugdíj, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, az átmeneti járadék, a rendszeres szociális járadék, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a bérpótló juttatás, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, valamint a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendelet alapján külföldi szerv által folyósított egyéb azonos típusú ellátás.
+Rendszeres pénzellátásnak minősül: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a rokkantsági nyugdíj, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a baleseti rokkantsági nyugdíj, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, az átmeneti járadék, a rendszeres szociális járadék, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, valamint a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendelet alapján külföldi szerv által folyósított egyéb azonos típusú ellátás.
 
 Fokozott ápolást igényel az a súlyosan fogyatékos személy, aki mások segítsége nélkül önállóan nem képes:
 
@@ -472,4 +472,4 @@ A kérelem 2. c) pontját abban az esetben kell kitölteni, ha az ápolt személ
 
 A kérelemhez minden esetben mellékelni kell a háziorvos igazolását.
 
-[^185]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^187]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.

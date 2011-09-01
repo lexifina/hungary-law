@@ -1,6 +1,6 @@
-## 62. §[^181]
+## 62. §[^183]
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^182]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^184]
 
 ## Vagyonnyilatkozat
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^181]: A 62. § – amely e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett volna hatályba – a 83/2006. (IV. 7.) Korm. rendelet 2. §-a alapján nem lép hatályba.
-[^182]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^183]: A 62. § – amely e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett volna hatályba – a 83/2006. (IV. 7.) Korm. rendelet 2. §-a alapján nem lép hatályba.
+[^184]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

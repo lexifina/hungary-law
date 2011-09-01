@@ -102,7 +102,7 @@
 
 ## Keresőtevékenységből származó jövedelemnek minősül minden olyan bevétel, amely munkavégzésből származik - például: munkabér, megbízási díj, vállalkozásból származó jövedelem.
 
-## Egyéb jövedelmek között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi központ vagy az önkormányzat által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, bérpótló juttatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
+## Egyéb jövedelmek között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi központ vagy az önkormányzat által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, foglalkoztatást helyettesítő támogatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
 
 ## Ha a jövedelemből munkavállalói járulékot, személyi jövedelemadót, egészségbiztosítási és nyugdíjjárulékot, magán-nyugdíjpénztári tagdíjat fizetnek, akkor jövedelemnek e befizetésekkel csökkentett összegét kell a kérelemben szerepeltetni.
 
@@ -118,6 +118,6 @@
 
 ## A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^184]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^186]
 
-[^184]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^186]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.

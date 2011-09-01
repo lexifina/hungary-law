@@ -1,4 +1,4 @@
-## 19. §[^75]
+## 19. §[^77]
 
 ## Lakásfenntartási támogatás
 
@@ -6,15 +6,15 @@
 
 a) a lakásban tartózkodásának jogcíméről,
 
-b)[^76] a kérelmezővel közös háztartásban élők számáról,
+b)[^78] a kérelmezővel közös háztartásban élők számáról,
 
-c)[^77] annak a lakásnak a nagyságáról, amelyre tekintettel a támogatást igényli, és
+c)[^79] annak a lakásnak a nagyságáról, amelyre tekintettel a támogatást igényli, és
 
-d)[^78] arról, hogy háztartásában előrefizetős gáz- vagy áramfogyasztást mérő készülék (a továbbiakban: készülék) került felszerelésre.
+d)[^80] arról, hogy háztartásában előrefizetős gáz- vagy áramfogyasztást mérő készülék (a továbbiakban: készülék) került felszerelésre.
 
 (2) A lakásfenntartási támogatás megállapításához
 
-a)[^79] a háztartás tagjainak jövedelmére vonatkozó, az önkormányzat rendeletében meghatározott jövedelemnyilatkozat, jövedelemigazolás, továbbá
+a)[^81] a háztartás tagjainak jövedelmére vonatkozó, az önkormányzat rendeletében meghatározott jövedelemnyilatkozat, jövedelemigazolás, valamint az 1. számú melléklet szerinti vagyonnyilatkozat, továbbá
 
 b) a lakás nagyságának hitelt érdemlő módon történő igazolása
 
@@ -22,8 +22,8 @@ b) a lakás nagyságának hitelt érdemlő módon történő igazolása
 
 (3) Az Szt. 38. § (1) bekezdésének b) pontjában szabályozott lakásfenntartási támogatás megállapítása iránt kérelmet nem kell benyújtani.
 
-[^75]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
-[^76]: A 20. § (1) bekezdés b) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés b) pont bb) alpontja szerint módosított szöveg.
-[^77]: A 20. § (1) bekezdés c) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont be) alpontja szerint módosított szöveg.
-[^78]: A 20. § (1) bekezdés d) pontját a 341/2008. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
-[^79]: A 20. § (2) bekezdés a) pontjának „jövedelemigazolás,” szövegrésze helyébe „jövedelemigazolás, valamint az 1. számú melléklet szerinti vagyonnyilatkozat, ” szöveg lép a 358/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése alapján. [E módosító rendelet 19. § (4) bekezdése alapján 2011. szeptember 1-jén lép hatályba.]
+[^77]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^78]: A 20. § (1) bekezdés b) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés b) pont bb) alpontja szerint módosított szöveg.
+[^79]: A 20. § (1) bekezdés c) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont be) alpontja szerint módosított szöveg.
+[^80]: A 20. § (1) bekezdés d) pontját a 341/2008. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
+[^81]: A 20. § (2) bekezdés a) pontja a 358/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.

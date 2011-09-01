@@ -20,7 +20,7 @@
 
 ## háziorvos aláírása
 
-11. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^191]
+11. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^193]
 
 ## Szakhatósági megkeresés ......... kormányhivatal egészségbiztosítási szakigazgatási szerve részére
 
@@ -54,4 +54,4 @@ foglalt jogosultsági feltételek fennállására hivatkozással kérte. (A megf
 
 II. A szakhatósági megkeresést benyújtó jegyző adatai
 
-[^191]: A 11. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 12. § (5) bekezdésének h) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^193]: A 11. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 12. § (5) bekezdésének h) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés d) pontja szerint módosított szöveg.

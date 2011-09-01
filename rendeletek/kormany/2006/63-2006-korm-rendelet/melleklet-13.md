@@ -1,4 +1,4 @@
-13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^194]
+13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^196]
 
 A közgyógyellátási igazolvány tartalmi elemei
 
@@ -40,4 +40,4 @@ A kártya sorszáma
 
 A jogosult aláírása
 
-[^194]: A 13. számú melléklet e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^196]: A 13. számú melléklet e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.

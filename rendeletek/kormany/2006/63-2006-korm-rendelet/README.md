@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2010-05-01 | 2006-63-20-22.20 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2011-01-01 | 2006-63-20-22.21 | 358/2010. (XII. 30.) Korm. rendelet |
 | 2011-07-08 | 2006-63-20-22.22 | 395/2007. (XII. 27.) Korm. rendelet |
+| 2011-09-01 | 2006-63-20-22.23 | 358/2010. (XII. 30.) Korm. rendelet |

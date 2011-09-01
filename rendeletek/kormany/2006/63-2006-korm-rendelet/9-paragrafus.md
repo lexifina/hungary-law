@@ -8,13 +8,13 @@
 
 (5)[^34]
 
-(6)[^35] Az új lakcím szerint illetékes jegyző a havi rendszeres szociális ellátást és a bérpótló juttatást az Szt. szerinti összegben, illetőleg az önkormányzat rendeletében meghatározott összegben folyósítja.
+(6)[^35] Az új lakcím szerint illetékes jegyző a havi rendszeres szociális ellátást és a foglalkoztatást helyettesítő támogatást az Szt. szerinti összegben, illetőleg az önkormányzat rendeletében meghatározott összegben folyósítja.
 
-(7)[^36] A havi rendszeres szociális ellátásra, a bérpótló juttatásra és a lakásfenntartási támogatásra jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs vagy élettárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben veheti fel a halál hónapját követő hónap utolsó napjáig.
+(7)[^36] A havi rendszeres szociális ellátásra, a foglalkoztatást helyettesítő támogatásra és a lakásfenntartási támogatásra jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs vagy élettárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben veheti fel a halál hónapját követő hónap utolsó napjáig.
 
 [^31]: A 9. § a 341/2008. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^32]: A 9. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^33]: A 9. § (4) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^34]: A 9. § (5) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont aa) alpontja hatályon kívül helyezte. E módosító rendelet 13. § (3) bekezdése alapján azon aktív korú ellátására jogosult személy esetében, akinek az Szt. 2009. december 31-én hatályos 37/E. § (1) bekezdése alapján 2009. december 31-én ellátást folyósítanak, a továbbfolyósítás lejártáig a 63/2006. (III. 27.) Korm. rendelet 2009. december 31-én hatályos 9. § (5) bekezdését megfelelően alkalmazni kell.
-[^35]: A 9. § (6) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^36]: A 9. § (7) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^35]: A 9. § (6) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 2. pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^36]: A 9. § (7) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 7. pontja, a 171/2011. (VIII. 24.) Korm rendelet 26. § (3) bekezdés d) pontja szerint módosított szöveg.
