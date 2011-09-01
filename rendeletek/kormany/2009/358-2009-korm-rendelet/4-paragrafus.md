@@ -2,7 +2,7 @@
 
 (2) A Program keretében, e rendeletben meghatározott támogatás nyújtásával kapcsolatos mérlegelésre, a támogatások visszakövetelésére, a munkaügyi központnak a támogatások odaítélésével, és visszakövetelésével kapcsolatos eljárására megfelelően alkalmazni kell a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény, valamint a végrehajtására kiadott jogszabály a Munkaerőpiaci Alap foglalkoztatási alaprészéből nyújtott támogatásokra vonatkozó szabályait.
 
-(3)[^7] Az e rendelet által szabályozott támogatások nyújtása során az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait alkalmazni kell.
+(3)[^8] Az e rendelet által szabályozott támogatások nyújtása során az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait alkalmazni kell.
 
 (4) A Program keretében támogatás a – Nemzeti Fejlesztési Ügynökség, a Minisztérium, mint a Munkaerőpiaci Alap kezelője és a munkaügyi központok között létrejött – támogatási szerződésekkel összhangban nyújthatók.
 
@@ -12,4 +12,4 @@
 
 (7) A Programok keretében meghatározott csoportos személyszállítás támogatásával kapcsolatos ügyekben a munkaügyi központ munkaadó székhelye szerint illetékes kirendeltsége jár el.
 
-[^7]: A 4. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
