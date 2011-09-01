@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-115-20-
 | --- | --- | --- |
 | 2011-07-22 | 2011-115-20-22.1 | 115/2011. (VII. 7.) Korm. rendelet |
 | 2011-07-23 | 2011-115-20-22.2 | 2010: CXXX. törvény |
+| 2011-09-01 | 2011-115-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
