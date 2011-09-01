@@ -1,0 +1,3 @@
+40. § (1) A típus megfelelőségéről szóló tanúsítvány műszaki dokumentációjával rendelkező kérelmező tájékoztatja a bejelentett szervezetet az engedélyezett pirotechnikai termék minden olyan módosításáról, amely az e rendelet által megállapított alapvető biztonsági követelményeknek vagy a termék használatára előírt feltételeknek való megfelelőséget befolyásolhatja.
+
+(2) Ha az engedélyezett pirotechnikai termék (1) bekezdés szerinti módosítása kielégíti az e rendelet által megállapított alapvető biztonsági követelményeket, a bejelentett szervezet a típus megfelelőségéről szóló eredeti tanúsítvány kiegészítésével – a 45–47. §-ban foglalt eljárás mellőzésével – engedélyezi a módosítást.

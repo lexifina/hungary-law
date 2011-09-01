@@ -1,0 +1,3 @@
+43. § (1) A gyártó a gyártási eljárás során biztosítja a gyártott terméknek a típus megfelelőségéről szóló tanúsítványban leírt típussal való azonosságát, és az e rendelet által megállapított alapvető biztonsági követelményeknek való megfelelését.
+
+(2) A gyártó vagy ha a gyártó az Európai Gazdasági Térségben nem letelepedett, a terméket forgalomba hozó személy a termék utolsó gyártásának időpontjától számított legalább tíz évig megőrzi az EK megfelelőségi nyilatkozat egy másolatát, valamint ha a gyártó nem letelepedett az Európai Unióban vagy valamely EGT-államban, akkor a műszaki dokumentáció másolatát is.
