@@ -4,7 +4,9 @@ a) versenyszabályzat,
 
 b) igazolási (nyilvántartási) és átigazolási szabályzat,
 
-c) sportfegyelmi szabályzat.
+c) sportfegyelmi szabályzat,
+
+d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat.
 
 (2) Amennyiben a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, úgy a versenyszabályzatban külön rendelkeznie kell a hivatásos vagy a vegyes bajnokságban részt vevő sportszervezetekkel, illetve sportolókkal szemben támasztott követelményekről.
 

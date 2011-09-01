@@ -10,7 +10,7 @@ ba) a doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályo
 
 bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
 
-bc) a sportrendezvények biztonságára vonatkozó részletes szabályokat,
+bc) a sportrendezvények biztonságára és a Minősítő Bizottság működésére vonatkozó részletes szabályokat,
 
 bd) az olimpiai központokra vonatkozó részletes szabályokat,
 
@@ -22,7 +22,11 @@ bg) a sportorvoslás szabályaira és a sportegészségügyi hálózatra vonatko
 
 bh) az állami sportinformációs rendszerre vonatkozó részletes szabályokat és
 
-bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat.
+bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
+
+bj) a biztonságtechnikai fejlesztésre kötelezettek körét, és
+
+bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

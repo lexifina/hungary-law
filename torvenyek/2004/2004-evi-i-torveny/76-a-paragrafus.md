@@ -1,0 +1,59 @@
+## A sportrendészeti nyilvántartás
+
+76/A. § (1) A rendőrség a sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek e törvény alapján nyilvántartott személyes adatait a sportrendezvények biztonságának védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, mások jogainak védelme, a jegyértékesítés, valamint a sportrendezvényre történő belépés megtagadásának megállapítása céljából kezeli.
+
+(2) A sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek nyilvántartása (a továbbiakban: sportrendészeti nyilvántartás) a hatálya alá tartozó személyek következő adatait tartalmazza:
+
+a) a családi és utónév,
+
+b) a születési hely és idő, valamint
+
+c) az anyja születési családi és utóneve.
+
+(3) A kitiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+
+a) a kitiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+
+b) az elkövetett szabálysértést,
+
+c) a kitiltás időtartamát, továbbá
+
+d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre a kitiltás hatálya kiterjed.
+
+(4) Az eltiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+
+a) az eltiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+
+b) az eltiltó szervezet megnevezését,
+
+c) az eltiltás időtartamát, továbbá
+
+d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre az eltiltás hatálya kiterjed.
+
+(5) A rendőrség a sportrendészeti nyilvántartás adatait az eltiltás, valamint a kitiltás időtartamáig kezeli. Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
+
+(6) A sportrendészeti nyilvántartásból a rendőrség
+
+a) a közrend és a közbiztonság védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére a (2)–(4) bekezdésben foglalt,
+
+b) a rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek a (3) bekezdés a) és d) pontjában, valamint az (4) bekezdés a) és d) pontjában meghatározott
+
+adatokat továbbítja.
+
+(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a központi szabálysértési nyilvántartás adatait adja át.
+
+(8) A sportrendészeti nyilvántartás számára adatot szolgáltató szervező, valamint a (6) bekezdés b) pontjában meghatározott adatigénylésre jogosultak technikai és szervezési intézkedésekkel, ellenőrzési rendszer kialakításával gondoskodnak az adatokhoz történő jogosulatlan hozzáférés, valamint az adatok jogosulatlan megváltoztatása és nyilvánosságra hozatala elleni védelemről.
+
+(9) A szervező gondoskodik a továbbított adatok helyességéről, időszerűségéről, valamint utólag köteles értesíteni a rendőrséget a később felfedett adathibáról és a helyes adatról.
+
+(10) A rendőrség az adatszolgáltatásokról adattovábbítási nyilvántartást vezet, amely tartalmazza
+
+a) az adatigénylő megnevezését, székhelyének, telephelyének címét, továbbá az adatigénylő szerv nevében eljáró személy nevét vagy egyedi azonosítóját,
+
+b) a továbbított adatok körének megnevezését és az adattovábbítás időpontját,
+
+c) az adatszolgáltatás célját és jogalapját, valamint
+
+d) az adatszolgáltatás alanyának nevét.
+
+(11) A rendőrség az adattovábbítási nyilvántartásba bejegyzett adatot az adatszolgáltatástól számított öt évig kezeli.

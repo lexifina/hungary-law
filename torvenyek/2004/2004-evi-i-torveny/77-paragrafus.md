@@ -6,7 +6,7 @@
 
 77. § E törvény alkalmazásában:
 
-a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a sportközalapítványra, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
+a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
 
 b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 
@@ -40,4 +40,6 @@ p) sportszakember: az a természetes személy, aki a KSH elnökének a foglalkoz
 
 q) versenyrendszer: a sportág nemzetközi szövetsége és a hazai szakszövetség, illetve országos sportági szövetség – kivéve a szabadidősport szövetség – által meghatározott szabályok szerint szervezett fizikai vagy szellemi sportteljesítményt mérő erőpróba. A bajnokság versenyrendszernek minősül. A versenyrendszer hivatásos, amatőr és vegyes (nyílt) rendszerű lehet,
 
-r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is.
+r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is;
+
+s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolgáló építmény és terület.
