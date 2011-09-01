@@ -22,7 +22,7 @@ bc) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó utazási k�
 
 bd) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó csoportos személyszállítás támogatása;
 
-c) önfoglalkoztatás támogatása;
+c)[^9] vállalkozóvá válás támogatása;
 
 d) munkaerőpiaci szolgáltatások igénybevételével kapcsolatos támogatások:
 
@@ -37,3 +37,5 @@ dd) hozzájárulás a szolgáltatás időtartama alatt igénybe vett gyermekfel�
 de) hozzájárulás a szolgáltatás időtartama alatt a hozzátartozó ápolásával, gondozásával felmerült költségekhez;
 
 e) a foglalkozás-egészségügyi és munkaköri alkalmassági vizsgálatok költségének megtérítése.
+
+[^9]: A 3. § c) pontja a 168/2011. (VIII. 24.) Korm. rendelet 21. § (5) bekezdésével megállapított szöveg.
