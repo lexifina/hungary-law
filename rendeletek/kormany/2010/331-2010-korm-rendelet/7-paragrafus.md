@@ -16,7 +16,7 @@ f) a rendszeres szociális járadék, átmeneti járadék,
 
 g) a fogyatékossági támogatás,
 
-h) a bérpótló juttatás, a rendszeres szociális segély,
+h)[^2] a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély,
 
 i) a magasabb összegű családi pótlék,
 
@@ -65,3 +65,5 @@ b) az Európai Gazdasági Térségről szóló megállapodásban részes más á
 c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
+
+[^2]: A 7. § (1) bekezdés h) pontja a 171/2011. (VIII. 24.) Korm. rendelet 26. § (6) bekezdése szerint módosított szöveg.
