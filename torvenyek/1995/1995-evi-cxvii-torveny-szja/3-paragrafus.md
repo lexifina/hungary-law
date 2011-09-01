@@ -150,7 +150,7 @@ c) vetőmagbértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás
 
 21. Bér:
 
-a) a munkaviszonyból származó jövedelem (kivéve a munkáltató által fizetett adóköteles biztosítási díjat, valamint a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
+a) a munkaviszonyból, közfoglalkoztatási jogviszonyból származó jövedelem (kivéve a munkáltató által fizetett adóköteles biztosítási díjat, valamint a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
 
 b) az adóköteles társadalombiztosítási ellátás;
 

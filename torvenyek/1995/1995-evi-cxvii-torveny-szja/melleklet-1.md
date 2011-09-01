@@ -406,6 +406,8 @@ sporteseményre szóló belépőjegy, bérlet;
 
 8. 39. a kifizető által biztosított védőoltás.
 
+8.40. a közfoglalkoztatási rendszerben a közfoglalkoztatottnak a külön törvényben meghatározott természetbeni ellátások.
+
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
 9.1. Utalvány, készpénz-helyettesítő fizetési eszköz e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e melléklet szerinti nem pénzben adott juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, és egyebekben a juttatás körülményei megfelelnek az adómentességre vonatkozó rendelkezésben foglalt feltételeknek.
