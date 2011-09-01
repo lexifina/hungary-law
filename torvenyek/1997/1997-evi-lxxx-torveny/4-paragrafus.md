@@ -12,7 +12,7 @@ a) Foglalkoztató:
 
 3. társas vállalkozó esetén a társas vállalkozás;
 
-4. az álláskeresési járadékban, álláskeresési segélyben, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti munkanélküli segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő biztosítottnak minősülő személy esetén az ellátást folyósító szerv;
+4. az álláskeresési járadékban, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv,
 
 5. a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv;
 
