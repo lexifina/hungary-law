@@ -1,6 +1,6 @@
 ## szakhatóságként jelöli ki.
 
-8/C. §[^101] (1) A Kormány a környezetvédelmi szempontból korlátozott légtér hajtóművel felszerelt légijárművel, valamint hőlégballonnal történő igénybevételének előzetes hatósági engedélyezési eljárásában
+8/C. §[^115] (1) A Kormány a környezetvédelmi szempontból korlátozott légtér hajtóművel felszerelt légijárművel, valamint hőlégballonnal történő igénybevételének előzetes hatósági engedélyezési eljárásában
 
 a) térképezés céljából történő repülés,
 
@@ -22,23 +22,23 @@ a) értékeli az engedélyezés tárgyát képező tevékenységnek a védett é
 
 b) a természeti értékek veszélyeztetésének elkerülése, valamint a veszélyeztetés mértékének csökkentése érdekében – a repülési szabályok figyelembevételével – a repülési útvonalra, a repülési magasságra, illetve a repülés időtartamára vonatkozóan feltételeket határozhat meg.
 
-(3)[^102] A Kormány a légijármű rendszeres használatára nem nyilvános fel- és leszállóhely létesítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+(3)[^116] A Kormány a légijármű rendszeres használatára nem nyilvános fel- és leszállóhely létesítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(4)[^103] A Kormány a repülőterek, légitársaságok, földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok légiközlekedés-védelmi tisztje kijelölésének jóváhagyására irányuló eljárásban – a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – a Nemzetbiztonsági Hivatalt szakhatóságként jelöli ki.
+(4)[^117] A Kormány a repülőterek, légitársaságok, földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok légiközlekedés védelmi tisztje kijelölésének és visszavonásának jóváhagyására irányuló eljárásban – a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – az Alkotmányvédelmi Hivatalt szakhatóságként jelöli ki.
 
-(5)[^104] A Kormány a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert és listás feladó minősítésére és jóváhagyására irányuló eljárásban – a kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – első fokú eljárásban a Nemzetbiztonsági Hivatalt szakhatóságként jelöli ki.
+(5)[^118] A Kormány a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert szállító és a fedélzeti ellátmány meghatalmazott beszállítója minősítésére és jóváhagyására irányuló eljárásban – a védelmi tisztként kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében – első fokú eljárásban az Alkotmányvédelmi Hivatalt szakhatóságként jelöli ki.
 
-(6)[^105] A Kormány a repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv jóváhagyására irányuló eljárásban – annak elbírálása kérdésében, hogy a repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e – első fokú eljárásban a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
+(6)[^119] A Kormány a repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv jóváhagyására irányuló eljárásban – annak elbírálása kérdésében, hogy a repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e – első fokú eljárásban a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
 
-(7)[^106] A Kormány a légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásban
+(7)[^120] A Kormány a légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásban
 
 a) a légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek megfelelőségének kérdésében első fokú eljárásban a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot,
 
-b) a lehetséges biztonsági kockázati szintjének kérdésében első fokú eljárásban a Nemzetbiztonsági Hivatalt
+b)[^121] a lehetséges biztonsági kockázati szintjének kérdésében első fokú eljárásban az Alkotmányvédelmi Hivatalt
 
 szakhatóságként jelöli ki.
 
-(8)[^107] A Kormány a jogellenes cselekmények megelőzését és felszámolását szolgáló Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban annak elbírálása kérdésében, hogy
+(8)[^122] A Kormány a jogellenes cselekmények megelőzését és felszámolását szolgáló Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban annak elbírálása kérdésében, hogy
 
 a) a Légiközlekedés Védelmi és Kényszerhelyzeti Terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e, első fokú eljárásban a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot,
 
@@ -46,10 +46,23 @@ b) a Légiközlekedés Védelmi és Kényszerhelyzeti Tervben foglaltak megfelel
 
 szakhatóságként jelöli ki.
 
-[^101]: A 8/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^102]: A 8/C. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^103]: A 8/C. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^104]: A 8/C. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be, szövege a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
-[^105]: A 8/C. § (6) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
-[^106]: A 8/C. § (7) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
-[^107]: A 8/C. § (8) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+(9)[^123] A Kormány a 185/2010/EU bizottsági rendelet melléklet 1.3.1.4. pontjával összhangban a szigorított védelmi területre történő belépés során egyes személyek, vagy csoportok részére a tiltott tárgyak bevitelének tilalma alóli felmentés megadására irányuló eljárásban abban az esetben, ha a bevinni szándékozott tiltott tárgy a 185/2010/EU bizottsági rendelet melléklet 4-C függelék a) és b) pontjába tartozik:
+
+a) – a tiltott tárgyak bevitele és biztonságos őrzése, tárolása feltételeinek való megfelelés, valamint annak elbírálása kérdésében, hogy a tiltott tárgy, annak beviteli céljára figyelemmel, kockázatot jelent-e a légiközlekedés biztonságára vagy a közbiztonságra – a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot,
+
+b) – a bevitel és a szigorított védelmi területen történő munkavégzés során kialakuló biztonsági kockázat szintjének vizsgálata kérdésében – az Alkotmányvédelmi Hivatal területileg illetékes kirendeltségét
+
+## szakhatóságként jelöli ki.
+
+(10)[^124] A Kormány a légiforgalmi szolgálat védelmi programjának jóváhagyására irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a védelmi terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e – az Alkotmányvédelmi Hivatalt és a Terrorelhárító Központot szakhatóságként jelöli ki.
+
+[^115]: A 8/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^116]: A 8/C. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^117]: A 8/C. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be, szövege a 175/2011. (VIII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^118]: A 8/C. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (6) bekezdése iktatta be, szövege a 175/2011. (VIII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^119]: A 8/C. § (6) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+[^120]: A 8/C. § (7) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+[^121]: A 8/C. § (7) bekezdés b) pontja a 175/2011. (VIII. 31.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^122]: A 8/C. § (8) bekezdését a 169/2010. (V. 11.) Korm. rendelet 49. § (2) bekezdése iktatta be.
+[^123]: A 8/C. § (9) bekezdését a 175/2011. (VIII. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^124]: A 8/C. § (10) bekezdését a 175/2011. (VIII. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.

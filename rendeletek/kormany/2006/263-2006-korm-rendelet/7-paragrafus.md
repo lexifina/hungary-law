@@ -1,8 +1,8 @@
-## 6/B. §[^71] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
+## 6/B. §[^85] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
 
 ## A hajózási hatóságok kijelölése
 
-7. §[^72] (1) Hajózási hatóságként a Kormány
+7. §[^86] (1) Hajózási hatóságként a Kormány
 
 a) a (2)–(3) bekezdés szerinti ügyekben a Hatóságot,
 
@@ -124,5 +124,5 @@ b) a révkalauzi tevékenység, valamint
 
 c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési és vizsgáztatási tevékenységek.
 
-[^71]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^72]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^85]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^86]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
