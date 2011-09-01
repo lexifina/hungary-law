@@ -20,7 +20,7 @@ b) az a személy, aki a gyermekgondozási segély (a továbbiakban: gyes), a gye
 
 c) a tartósan álláskereső;
 
-d) a bérpótló juttatásra jogosult álláskereső;
+d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
 
@@ -46,7 +46,7 @@ d) a bérpótló juttatásra jogosult álláskereső;
 
 10. öregségi nyugdíjra jogosult személy: az Flt. 58. §-a (5) bekezdésének i) pontjában meghatározott személy;
 
-11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és bérpótló juttatásban részesül.
+11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és foglalkoztatást helyettesítő támogatásban részesül.
 
 (3) Az álláskeresőként történő nyilvántartásnak a (2) bekezdés 9. pontjában meghatározott időtartamába a külön jogszabályban meghatározott rendszeres szociális segélyben részesülő személy esetében be kell számítani azt az időtartamot is, amely alatt a rendszeres szociális segélyben részesülő személy a települési önkormányzat által kijelölt szervvel együttműködött.
 

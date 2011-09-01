@@ -6,7 +6,7 @@
 
 a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
 
-b) a bérpótló juttatásra jogosult álláskereső.
+b) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső.
 
 (2) A munkaadót az (1) bekezdésben meghatározott személy foglalkoztatásának időtartamára a START EXTRA kártya érvényességi idején belül illeti meg a 7. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
 
