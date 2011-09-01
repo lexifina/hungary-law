@@ -6,7 +6,7 @@
 
 a) a jogosult nevét, lakóhelyét és tartózkodási helyét,
 
-b) a jogosult TAJ számát,
+b) a jogosult Társadalombiztosítási Azonosító Jelét,
 
 c) a közgyógyellátásra való jogosultság kezdő és befejező időpontját,
 

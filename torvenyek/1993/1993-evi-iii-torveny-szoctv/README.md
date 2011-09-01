@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2011-07-01 | 2011. évi LXXXI. törvény | 1993-3-00-00.66 |
 | 2011-07-27 | 2011. évi CVI. törvény | 1993-3-00-00.67 |
 | 2011-08-01 | 2011. évi CV. törvény | 1993-3-00-00.68 |
+| 2011-09-01 | 2011. évi CVI. törvény | 1993-3-00-00.69 |

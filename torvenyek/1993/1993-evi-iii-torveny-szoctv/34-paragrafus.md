@@ -26,7 +26,7 @@ c) aki keresőtevékenységet folytat, kivéve, ha a keresőtevékenység alapj�
 
 d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten jogerősen megállapította, vagy
 
-e) akinek a 36. § (2) bekezdése alapján a bérpótló juttatásra, vagy a 37/B. § (2) bekezdése alapján a rendszeres szociális segélyre való jogosultságát meg kell szüntetni.
+e) akinek a 36. § (2) bekezdése alapján a foglalkoztatást helyettesítő támogatásra, vagy a 37/B. § (2) bekezdése alapján a rendszeres szociális segélyre való jogosultságát meg kell szüntetni.
 
 (3) Az aktív korú személy részére az aktív korúak ellátására való jogosultság a megszüntetéstől számított harminchat hónapon belül – ide nem értve a (2) bekezdés b), d) és e) pontja szerinti megszüntetési eseteket – az előzetes együttműködési kötelezettség teljesítése nélkül ismételten megállapítható, amennyiben a jogosultsági feltételek egyébként fennállnak.
 

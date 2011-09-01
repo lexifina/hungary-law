@@ -1,0 +1,1 @@
+140/E. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 38. § (1a)–(3) bekezdését, valamint (6) és (9) bekezdését a lakásfenntartási támogatás megállapítása iránt 2011. augusztus 31-ét követően indult eljárásokban kell alkalmazni.

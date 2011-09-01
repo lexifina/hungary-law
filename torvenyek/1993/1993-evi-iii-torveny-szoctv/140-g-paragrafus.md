@@ -1,0 +1,1 @@
+140/G. § Azt az aktív korúak ellátására jogosult személyt, akinek 2011. augusztus 31-én bérpótló jogosultsága áll fenn, 2011. szeptember 1-jétől foglalkoztatást helyettesítő támogatásra jogosultnak kell tekinteni.

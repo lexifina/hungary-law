@@ -46,4 +46,4 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
-(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a bérpótló juttatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
+(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.

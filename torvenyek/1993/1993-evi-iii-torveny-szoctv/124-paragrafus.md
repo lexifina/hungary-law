@@ -1,4 +1,4 @@
-124. § (1) A bérpótló juttatás folyósított összegének 80%-át, a rendszeres szociális segély folyósított összegének 90%-át, a hajléktalan személy részére folyósított bérpótló juttatás és rendszeres szociális segély teljes összegét a központi költségvetés megtéríti.
+124. § (1) A foglalkoztatást helyettesítő támogatás folyósított összegének 80%-át, a rendszeres szociális segély folyósított összegének 90%-át, a hajléktalan személy részére folyósított foglalkoztatást helyettesítő támogatás és rendszeres szociális segély teljes összegét a központi költségvetés megtéríti.
 
 (2)
 

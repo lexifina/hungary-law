@@ -8,7 +8,7 @@ a) a települési önkormányzat jegyzője az e törvényben meghatározott felt
 
 aa) időskorúak járadékát,
 
-ab) bérpótló juttatást,
+ab) foglalkoztatást helyettesítő támogatást,
 
 ac) rendszeres szociális segélyt,
 
@@ -30,7 +30,7 @@ bd) temetési segélyt
 
 a) az időskorúak járadékára, a rendszeres szociális segélyre és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
 
-b) a bérpótló juttatásra való jogosultság feltételeinek fennállását évente
+b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
@@ -42,7 +42,7 @@ b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege e
 
 kell folyósítani.
 
-(6) A havi rendszeres szociális ellátás összegét, valamint a bérpótló juttatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
+(6) A havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
 
 (7) Tartós jövedelemváltozásnak kell tekinteni
 
@@ -70,14 +70,14 @@ b) csökkent, akkor az új összeget az ellátásra való jogosultság feltétel
 
 kell folyósítani.
 
-(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a bérpótló juttatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
+(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a foglalkoztatást helyettesítő támogatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
 
-(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek a bérpótló juttatásra jogosult személy közfoglalkoztatásban való részvétele.
+(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek a foglalkoztatást helyettesítő támogatásra jogosult személy közfoglalkoztatásban való részvétele.
 
 (12) A jövedelemszámításnál
 
 a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszeres szociális ellátásnak az összegét, amelynek összegére vagy jogosultsági feltételeinek fennállására a felülvizsgálat vonatkozik,
 
-b) a bérpótló juttatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a bérpótló juttatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet
+b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet
 
 figyelmen kívül kell hagyni.
