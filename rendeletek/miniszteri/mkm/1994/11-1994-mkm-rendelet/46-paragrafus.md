@@ -1,3 +1,3 @@
-## 45. §[^253]
+## 45. §[^255]
 
-[^253]: A 45. §-t a 2/1995. ( III. 22.) MKM rendelet 3. §-a hatályon kívül helyezte.
+[^255]: A 45. §-t a 2/1995. ( III. 22.) MKM rendelet 3. §-a hatályon kívül helyezte.
