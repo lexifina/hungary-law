@@ -10,7 +10,7 @@
 
 ## Ittas vezetés
 
-42. §[^56] (1) Aki
+42. §[^54] (1) Aki
 
 a) vasúti vagy légi járművet, gépi meghajtású vízi járművet, úszó munkagépet úgy vezet, hogy szervezetében szeszes ital fogyasztásából származó alkohol van, vagy
 
@@ -24,4 +24,4 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 (4) Az (1) bekezdésben meghatározott közúti közlekedési szabálysértés esetében – szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^56]: A 42. § a 99/2011. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^54]: A 42. § a 99/2011. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

@@ -10,9 +10,9 @@ b) közúton jelzőőrt állít,
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^67] Az (1) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
+(2)[^65] Az (1) bekezdésben meghatározott szabálysértés miatt a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
 
-(3)[^68] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(3)[^66] Az (1) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^67]: A 49. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 7. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^68]: A 49. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 10. §-a iktatta be.
+[^65]: A 49. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 7. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^66]: A 49. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 10. §-a iktatta be.

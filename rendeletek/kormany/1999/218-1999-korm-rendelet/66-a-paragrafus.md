@@ -4,8 +4,8 @@
 
 ## Szmogriadó szabályainak mozgó légszennyező forrásokkal való megsértése
 
-66/A. §[^94] (1) Aki szmogriadó elrendelése esetén vagy annak megelőzése érdekében bevezetett, a mozgó légszennyező forrás használatára vonatkozó forgalomkorlátozásokat vagy intézkedéseket megsérti, százezer forintig terjedő pénzbírsággal sújtható.
+66/A. §[^92] (1) Aki szmogriadó elrendelése esetén vagy annak megelőzése érdekében bevezetett, a mozgó légszennyező forrás használatára vonatkozó forgalomkorlátozásokat vagy intézkedéseket megsérti, százezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség helyszíni bírságot szabhat ki.
 
-[^94]: A 66/A. §-t és az azt megelőző alcímet a 16/2009. (I. 30.) Korm. rendelet 2. §-a iktatta be.
+[^92]: A 66/A. §-t és az azt megelőző alcímet a 16/2009. (I. 30.) Korm. rendelet 2. §-a iktatta be.

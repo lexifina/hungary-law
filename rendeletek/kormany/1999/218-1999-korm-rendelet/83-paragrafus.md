@@ -4,6 +4,6 @@
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^115] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
+(2)[^113] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-[^115]: A 83. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^113]: A 83. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

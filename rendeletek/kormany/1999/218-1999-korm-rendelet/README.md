@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-218-20-
 | 2011-04-23 | 1999-218-20-22.42 | 67/2011. (IV. 22.) Korm. rendelet |
 | 2011-05-21 | 1999-218-20-22.43 | 2011: L. törvény |
 | 2011-07-01 | 1999-218-20-22.44 | 99/2011. (VI. 29.) Korm. rendelet |
+| 2011-09-01 | 1999-218-20-22.45 | 117/2003. (VII. 30.) Korm. rendelet |

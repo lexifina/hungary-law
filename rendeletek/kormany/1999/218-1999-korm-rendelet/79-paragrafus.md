@@ -8,8 +8,8 @@ hatvanezer forintig terjedő pénzbírsággal sújtható.
 
 százezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^110] Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
+(3)[^108] Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
 
 (4) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő helyszíni bírságot szabhat ki.
 
-[^110]: A 79. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b), e) és i) pontja szerint módosított szöveg.
+[^108]: A 79. § (3) bekezdése a 267/2007. (X. 15.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b), e) és i) pontja szerint módosított szöveg.

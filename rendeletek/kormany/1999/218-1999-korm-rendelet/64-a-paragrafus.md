@@ -1,8 +1,8 @@
 ## A megkülönböztető jelzést adó készülék felszerelésével
 
-## és használatával kapcsolatos szabálysértés[^91]
+## és használatával kapcsolatos szabálysértés[^89]
 
-64/A. §[^92] (1) Aki a megkülönböztető fényjelzést vagy a hangjelzést adó készüléket
+64/A. §[^90] (1) Aki a megkülönböztető fényjelzést vagy a hangjelzést adó készüléket
 
 a) gépjárműre jogosulatlanul felszerel (felhelyez),
 
@@ -16,8 +16,8 @@ b) közterületen lévő gépjárműben engedély nélkül birtokol,
 
 (4) Az (1) és a (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-(5)[^93] Az (1) és (2) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(5)[^91] Az (1) és (2) bekezdésben meghatározott szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^91]: A 64/A. §-t megelőző alcímet a 226/2000. (XII. 19.) Korm. rendelet 1. §-a iktatta a szövegbe.
-[^92]: A 64/A. §-t a 226/2000. (XII. 19.) Korm. rendelet 1. §-a iktatta a szövegbe.
-[^93]: A 64/A. § (5) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 16. §-a iktatta be.
+[^89]: A 64/A. §-t megelőző alcímet a 226/2000. (XII. 19.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^90]: A 64/A. §-t a 226/2000. (XII. 19.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^91]: A 64/A. § (5) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 16. §-a iktatta be.

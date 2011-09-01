@@ -1,6 +1,6 @@
 ## Magán-munkaközvetítés szabályainak megsértése
 
-96. § (1)[^131] Az a magán-munkaközvetítő, aki
+96. § (1)[^129] Az a magán-munkaközvetítő, aki
 
 a) a jogszabályban meghatározott feltételek hiányában magán-munkaközvetítői tevékenységet folytat,
 
@@ -14,7 +14,7 @@ e) jogszabálysértő feltételeket tartalmazó munkaerőigényt elégít ki,
 
 ## hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^132] Az (1) bekezdésben meghatározott szabálysértés miatti eljárás a munkaügyi felügyelőség hatáskörébe is tartozik.
+(2)[^130] Az (1) bekezdésben meghatározott szabálysértés miatti eljárás a munkaügyi felügyelőség hatáskörébe is tartozik.
 
-[^131]: A 96. § eredeti szövege a 118/2001. (VI. 30.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg, jelölését a 81/2002. (IV. 13.) Korm. rendelet 1. §-a (1) bekezdésre változtatta.
-[^132]: A 96. § (2) bekezdését a 81/2002. (IV. 13.) Korm. rendelet 1. §-a iktatta a szövegbe, egyidejűleg az eredeti szöveg jelölését (1) bekezdésre változtatva. A 96. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.
+[^129]: A 96. § eredeti szövege a 118/2001. (VI. 30.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg, jelölését a 81/2002. (IV. 13.) Korm. rendelet 1. §-a (1) bekezdésre változtatta.
+[^130]: A 96. § (2) bekezdését a 81/2002. (IV. 13.) Korm. rendelet 1. §-a iktatta a szövegbe, egyidejűleg az eredeti szöveg jelölését (1) bekezdésre változtatva. A 96. § (2) bekezdése a 351/2010. (XII, 30.) Korm. rendelet 64. § g) pontja szerint módosított szöveg.
