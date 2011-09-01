@@ -118,8 +118,6 @@ IBS Nemzetközi Üzleti Főiskola, Budapest
 
 Kodolányi János Főiskola, Székesfehérvár
 
-Kölcsey Ferenc Református Tanítóképző Főiskola, Debrecen
-
 Modern Üzleti Tudományok Főiskolája, Tatabánya
 
 Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest

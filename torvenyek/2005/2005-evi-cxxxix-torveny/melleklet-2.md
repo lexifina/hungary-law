@@ -215,3 +215,5 @@ ar) a képzés során megszerzett, illetve a más tanulmányokból elismert kred
 b) a kiadott oklevél, bizonyítvány adatai,
 
 ba) az igazolt szakképzettség, szakképesítés megnevezése,
+
+bb) az oklevél, bizonyítvány kelte, aláíróinak neve,
