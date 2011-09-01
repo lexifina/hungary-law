@@ -28,6 +28,6 @@
 
 ## 3. Az ex KN 0307 60 00 Éti csiga (Helix pomatia), valamint a természet védelméről szóló 1996. évi LIII. törvény által védetté nyilvánított barlangi képződmények kivitele.
 
-3. számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^13]
+3. számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^14]
 
-[^13]: A 3. számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése és 6. § (2) bekezdésének c)–d) pontja, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 3. számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése és 6. § (2) bekezdésének c)–d) pontja, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a, a 173/2011. (VIII. 24.) Korm. rendelet 114. § (2) bekezdése szerint módosított szöveg.

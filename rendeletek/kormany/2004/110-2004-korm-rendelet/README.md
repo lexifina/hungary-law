@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-110-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2004-110-20-22.6 | 110/2004. (IV. 28.) Korm. rendelet |
+| 2011-09-01 | 2004-110-20-22.7 | 96/2007. (V. 3.) Korm. rendelet |

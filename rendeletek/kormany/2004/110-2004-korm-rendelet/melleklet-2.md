@@ -1,4 +1,4 @@
-2. a) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^10]
+2. a) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^11]
 
 ## Áruk, amelyeknek nem EU tagországokba a Magyar Köztársaság területéről, kereskedelmi forgalomban történő kiviteléhez (ideértve a reexportot is) engedély szükséges
 
@@ -20,7 +20,7 @@
 
 | 3604 | Tűzijátékok, jelzőrakéták, esőrakéták, ködjelzők és más pirotechnikai termékek: |
 
-| ex 3604 10 00 | – Tűzijátékok, kivéve: játékos pirotechnikai termékek |
+| ex 3604 10 00 | – Tűzijátékok, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek |
 
 | KN szám | Árumegnevezés |
 
@@ -94,7 +94,7 @@
 
 | 9306 90 90 | – – Más |
 
-2. b) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^11]
+2. b) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^12]
 
 ## Áruk, amelyeknek a nem EU tagországokból a Magyar Köztársaság területére,
 
@@ -118,7 +118,7 @@
 
 | 3604 | Tűzijátékok, jelzőrakéták, esőrakéták, ködjelzők és más pirotechnikai termékek: |
 
-| ex 3604 10 00 | – Tűzijátékok, kivéve: játékos pirotechnikai termékek |
+| ex 3604 10 00 | – Tűzijátékok, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek |
 
 | ex 3604 90 00 | – Más, kivéve: játékos pirotechnikai termékek, csillagszórók |
 
@@ -200,8 +200,8 @@
 
 ## 5.
 
-2. c) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^12]
+2. c) számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^13]
 
-[^10]: A 2. a) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A 2. b) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A 2. c) számú melléklet a Magyar Közlöny 2004. évi 67. és 71. számában megjelent helyesbítésnek megfelelő; 3. pontja a 283/2004. (X. 20.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg. A 2. c) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése és 6. § (2) bekezdésének b) pontja, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 38. pontja, a 182/2009. (IX. 10.) Korm. rendelet 346–347. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 2. a) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a, a 173/2011. (VIII. 24.) Korm. rendelet 114. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 2. b) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 347. §-a, a 173/2011. (VIII. 24.) Korm. rendelet 114. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. c) számú melléklet a Magyar Közlöny 2004. évi 67. és 71. számában megjelent helyesbítésnek megfelelő; 3. pontja a 283/2004. (X. 20.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg. A 2. c) számú melléklet a 96/2007. (V. 3.) Korm. rendelet 5. § (1) bekezdése és 6. § (2) bekezdésének b) pontja, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 38. pontja, a 182/2009. (IX. 10.) Korm. rendelet 346–347. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -106,7 +106,7 @@
 
 | 3604 | Tűzijátékok, jelzőrakéták, esőrakéták, ködjelzők és más pirotechnikai termékek: |
 
-| ex 3604 10 00 | – Tűzijátékok, kivéve: játékos pirotechnikai termékek |
+| ex 3604 10 00 | – Tűzijátékok, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek |
 
 | ex 3604 90 00 | – Más, kivéve: játékos pirotechnikai termékek, csillagszórók |
 
@@ -200,7 +200,7 @@
 
 ## 1 Reexport: az EGT-n kívüli országból behozott nem közösségi áru újrakivitele valamely EGT-n kívüli országba.
 
-4. számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^14]
+4. számú melléklet a 110/2004. (IV. 28.) Korm. rendelethez[^15]
 
 Németország esetében a Magyar Köztársaság Európai Unióhoz történő Csatlakozásáról szóló Szerződés X. Melléklete 1. pontjának (13) bekezdésében foglaltak szerint, a vonatkozó magyar–német kétoldalú megállapodás alapján, a 6. § a) pontjának hatálya alá tartozó ágazatok:
 
@@ -212,4 +212,4 @@ Németország esetében a Magyar Köztársaság Európai Unióhoz történő Csa
 
 | Egyéb szolgáltatások | 74.87 Kizárólag a belső dekorátorok által nyújtott szolgáltatások |
 
-[^14]: A 4. számú mellékletet a 96/2007. (V. 3.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit a 2007. július 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: A 4. számú mellékletet a 96/2007. (V. 3.) Korm. rendelet 5. § (2) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit a 2007. július 1. napján folyamatban lévő ügyekben is alkalmazni kell.
