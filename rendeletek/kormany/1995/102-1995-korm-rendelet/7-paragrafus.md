@@ -1,3 +1,5 @@
+## jogosult a keresőképtelenség felülvizsgálatát kezdeményezni az OEP-nél.
+
 7. §[^16] (1)[^17] A keresőképtelenség és a keresőképesség elbírálását az ellenőrző főorvos ellenőrzi. Ellenőrző tevékenységet elláthat az OEP erre kijelölt főorvosa.
 
 (2)[^18] Az (1) bekezdés szerinti ellenőrző főorvos tevékenysége kiterjed az OEP-hez beérkezett keresőképtelenségi adatok célzott ellenőrzésére is. Ezen tevékenység során az ellenőrző főorvos igénybe veheti szakmai véleményezés és konzultáció céljából az OEP-pel a 2. § (1) bekezdés e) pontja szerinti felülvéleményező főorvos közreműködését.
