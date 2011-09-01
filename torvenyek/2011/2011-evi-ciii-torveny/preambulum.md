@@ -1,0 +1,1 @@
+Az Országgyűlés a népegészségügyileg nem hasznos élelmiszerek fogyasztásának visszaszorítása és az egészséges táplálkozás előmozdítása, valamint az egészségügyi szolgáltatások, különösen a népegészségügyi célú programok finanszírozásának javítása érdekében a népegészségügyi termékadó fizetésének a kötelezettségéről a következő törvényt alkotja:
