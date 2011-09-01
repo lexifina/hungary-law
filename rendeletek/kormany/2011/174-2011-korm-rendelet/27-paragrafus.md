@@ -1,0 +1,1 @@
+## 26. § A közigazgatási alapvizsga tekintetében a közigazgatási alapvizsgára való felkészülés szabályait (16. §) megfelelően alkalmazandóak az ügykezelői alapvizsgára való felkészülés tekintetében is, azzal, hogy a vizsgázók az NKI honlapján férnek hozzá a tananyagokhoz.
