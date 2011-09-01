@@ -20,7 +20,9 @@ i) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekre,
 
 j) a nehéz tehergépkocsik közlekedésének korlátozására,
 
-k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”)
+k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”),
+
+l) a magyarországi illetőségű személynek vagy szervezetnek a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -28,7 +30,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
