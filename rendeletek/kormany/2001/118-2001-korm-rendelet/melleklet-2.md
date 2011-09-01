@@ -50,7 +50,7 @@
 
 ## d) a 7/1993. (XII. 30.) MüM rendelet mellékleteként kiadott Országos Képzési Jegyzékben meghatározott munkaerő-piaci ügyintéző és munkaerő-piaci menedzser szakképesítés.
 
-2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^34]
+2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^45]
 
 ## A magán-munkaközvetítői tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -64,4 +64,4 @@
 
 5. A magán-munkaközvetítői tevékenység folytatásának helye(i), az irodahelyiség(ek) címe, telefonszáma, felszereltsége (telefon, telefax, számítógép, egyéb).
 
-[^34]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

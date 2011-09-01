@@ -12,12 +12,12 @@ e) olyan személyi adatokat rögzíteni, nyilvántartásba venni, felhasználni,
 
 (2) Nem minősül hátrányos megkülönböztetésnek a munka jellegéből vagy természetéből egyértelműen következő megkülönböztetés.
 
-(3)[^25] A magán-munkaközvetítő a tevékenységéért a munkát keresővel szemben díjat, költséget nem számolhat fel.
+(3)[^28] A magán-munkaközvetítő a tevékenységéért a munkát keresővel szemben díjat, költséget nem számolhat fel.
 
-(4)[^26] Nem folytatható magán-munkaközvetítői tevékenység arra a munkavállalásra, amely nemzetközi szerződés hatálya alá tartozik, és amellyel kapcsolatos munkaközvetítői tevékenységre a nemzetközi szerződés alapján állami szerv jogosult.
+(4)[^29] Nem folytatható magán-munkaközvetítői tevékenység arra a munkavállalásra, amely nemzetközi szerződés hatálya alá tartozik, és amellyel kapcsolatos munkaközvetítői tevékenységre a nemzetközi szerződés alapján állami szerv jogosult.
 
-(5)[^27] Külföldre irányuló magán-munkaközvetítői tevékenység folytatása során be kell tartani annak az országnak – a magán-munkaközvetítői tevékenység folytatására vonatkozó – jogszabályait, amelyben történő munkavállalás elősegítésére a magán-munkaközvetítői tevékenység irányul.
+(5)[^30] Külföldre irányuló magán-munkaközvetítői tevékenység folytatása során be kell tartani annak az országnak – a magán-munkaközvetítői tevékenység folytatására vonatkozó – jogszabályait, amelyben történő munkavállalás elősegítésére a magán-munkaközvetítői tevékenység irányul.
 
-[^25]: A 10. § (3) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (1) bekezdése iktatta be, e módosító rendelet 4. §-ának (2) bekezdése alapján az e bekezdésben foglaltakat az olyan magán-munkaközvetítői tevékenységre vonatkozó megállapodás tekintetében kell alkalmazni, amelyet 2003. május 9. napját követően kötöttek.
-[^26]: A 10. § (4) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (2) bekezdése iktatta a szövegbe.
-[^27]: A 10. § (5) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.
+[^28]: A 10. § (3) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (1) bekezdése iktatta be, e módosító rendelet 4. §-ának (2) bekezdése alapján az e bekezdésben foglaltakat az olyan magán-munkaközvetítői tevékenységre vonatkozó megállapodás tekintetében kell alkalmazni, amelyet 2003. május 9. napját követően kötöttek.
+[^29]: A 10. § (4) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (2) bekezdése iktatta a szövegbe.
+[^30]: A 10. § (5) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.

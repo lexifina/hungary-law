@@ -1,8 +1,8 @@
 ## Vagyoni biztosíték
 
-6. § (1)[^10] A magán-munkaközvetítői tevékenység és a kölcsönzési tevékenység vagyoni biztosíték letétbe helyezése esetén folytatható.
+6. § (1)[^13] A magán-munkaközvetítői tevékenység és a kölcsönzési tevékenység vagyoni biztosíték letétbe helyezése esetén folytatható.
 
-(2)[^11] A vagyoni biztosíték mértéke
+(2)[^14] A vagyoni biztosíték mértéke
 
 a) magán-munkaközvetítői tevékenység folytatása esetén, amennyiben a közvetítés
 
@@ -12,7 +12,7 @@ ab) az Európai Gazdasági Térségről szóló megállapodásban nem részes á
 
 b) kölcsönzési tevékenység folytatása esetén kétmillió forint.
 
-(3)[^12] A vagyoni biztosíték a kérelmező vagy a bejelentő által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézménynél) lekötött és elkülönítetten kezelt pénzbeli letét.
+(3)[^15] A vagyoni biztosíték a kérelmező vagy a bejelentő által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézménynél) lekötött és elkülönítetten kezelt pénzbeli letét.
 
 (4) Vagyoni biztosítékként csak olyan letéti szerződés vehető figyelembe, amely az alábbi rendelkezéseket tartalmazza:
 
@@ -24,6 +24,6 @@ c) a letét bármilyen okból való megszűnése esetén a kifizetés összegér
 
 (5) Ha a magán-munkaközvetítő munkaerő-kölcsönzést is végez, a biztosítékok összegét külön kell letétbe helyezni. Az egyes tevékenységekhez kapcsolódó kártérítési igények kielégítése tekintetében kifizetés a kölcsönzés, illetve a magán-munkaközvetítés érdekében elhelyezett letét mértékéig, tevékenységenként külön-külön kell teljesíteni.
 
-[^10]: A 6. § (1) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^11]: A 6. § (2) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
-[^12]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § (1) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^15]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

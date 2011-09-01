@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | --- | --- | --- |
 | 2009-12-19 | 2001-118-20-22.5 | 118/2001. (VI. 30.) Korm. rendelet |
 | 2011-01-01 | 2001-118-20-22.6 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2011-09-01 | 2001-118-20-22.7 | 171/2011. (VIII. 24.) Korm. rendelet |
