@@ -6,4 +6,4 @@
 
 (3) A vád kiterjesztése esetén a bíróság a tárgyalást legalább nyolc napra a vádlott és a védő együttes indítványára elnapolja, vagy hivatalból elnapolhatja; illetőleg azt az ügyet, amelyre a vádat kiterjesztették, elkülöníti.
 
-(4) Az ügyet át kell tenni, ha a módosított vád elbírálása a bíróság hatáskörét meghaladja, – a 17. § (5), illetve (6) bekezdésére figyelemmel – más bíróság kizárólagos illetékességébe, valamint ha fiatalkorúak elleni, illetőleg katonai büntetőeljárás hatálya alá tartozik.
+(4) Az ügyet át kell tenni, ha a módosított vád elbírálása a bíróság hatáskörét meghaladja, – a 17. § (5), illetve (6) bekezdésére figyelemmel – más bíróság kizárólagos illetékességébe, valamint ha katonai büntetőeljárás hatálya alá tartozik.
