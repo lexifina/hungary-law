@@ -1,31 +1,45 @@
-## Kiemelt térségi övezetek
+12. § A térségi övezetek a következők:
 
-12. § A kiemelt térségi övezetek a következők:
+a) magterület övezete,
 
-a) zöldövezet,
+b) ökológiai folyosó övezete,
 
-b) az országos és térségi ökológiai hálózat, ezen belül
+c) puffer terület övezete,
 
-ba) védett természeti területek,
+d) kiváló termőhelyi adottságú szántóterület övezete,
 
-bb) védett természeti területek védőövezete,
+e) kiváló termőhelyi adottságú erdőterület övezete,
 
-bc) természeti területek,
+f) erdőtelepítésre alkalmas terület övezete,
 
-bd) ökológiai zöldfolyosó,
+g) országos komplex tájrehabilitációt igénylő terület övezete,
 
-c) térségi tájrehabilitációt igénylő területek,
+h) térségi komplex tájrehabilitációt igénylő terület övezete,
 
-d) kertgazdasági területek,
+i) országos jelentőségű tájképvédelmi terület övezete,
 
-e) tájképvédelmi területek,
+j) térségi jelentőségű tájképvédelmi terület övezete,
 
-f) vizek védelme érdekében védendő területek,
+k) világörökség és világörökség-várományos terület övezete,
 
-g) komplex környezeti rehabilitációt igénylő területek,
+l) történeti települési terület övezete,
 
-h) térségi hulladékkezelő létesítmények kijelöléséhez vizsgálat alá vonható területek,
+m) kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezete,
 
-i) kiváló termőhelyi adottságú szántóterületek,
+n) felszíni vizek vízminőség-védelmi vízgyűjtő területének övezete,
 
-j) honvédelmi és katasztrófavédelmi területek.
+o) ásványi nyersanyag-gazdálkodási terület övezete,
+
+p) rendszeresen belvízjárta terület övezete,
+
+q) nagyvízi meder övezete,
+
+r) földtani veszélyforrás területének övezete,
+
+s) vízeróziónak kitett terület övezete,
+
+t) széleróziónak kitett terület övezete,
+
+u) kiemelt fontosságú meglévő honvédelmi terület övezete,
+
+v) honvédelmi terület övezete.

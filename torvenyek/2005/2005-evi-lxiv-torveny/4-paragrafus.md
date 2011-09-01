@@ -1,23 +1,25 @@
-## A Budapesti Agglomeráció térségi területfelhasználási kategóriái
-
 4. § A Budapesti Agglomeráció térségi területfelhasználási kategóriái a következők:
 
-a) települési térség, ezen belül:
+a) legalább 5 hektár területű térségek:
 
-aa) városias települési térség,
+aa) erdőgazdálkodási térség,
 
-ab) városias települési térség részét képező nagy kiterjedésű zöldterület,
+ab) nagy kiterjedésű zöldterületi települési térség,
 
-ac) hagyományosan vidéki települési térség,
+ac) magas zöldfelületi arányú települési térség,
 
-ad) magas zöldfelületi arányú települési térség,
+b) legalább 10 hektár területű térségek:
 
-b) erdőgazdálkodási térség,
+ba) mezőgazdasági térség,
 
-c) mezőgazdasági térség,
+bb) különleges rendeltetésű térség,
 
-d) zöldövezet részét képező mezőgazdasági térség,
+c) területi korlát nélküli térség:
 
-e) műszaki infrastruktúra-hálózatok és egyedi építmények elhelyezésére szolgáló terület,
+ca) városias települési térség,
 
-f) egyéb rendeltetésű terület.
+cb) hagyományosan vidéki települési térség,
+
+cc) építmények által igénybe vett térség,
+
+cd) vízgazdálkodási térség.

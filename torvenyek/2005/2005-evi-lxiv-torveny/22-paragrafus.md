@@ -1,0 +1,9 @@
+22. § (1) E törvénynek a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény módosításáról szóló 2011. évi LXXXVIII. törvénnyel (a továbbiakban: BATrTMód.) megállapított 1/A. §-ában, 3. § (1) bekezdésében, 4–10. §-ában, 12–15. §-ában, 1/2. számú mellékletében, 1/3. számú mellékletében, 2. számú mellékletében, valamint 3. számú mellékletében foglalt rendelkezéseit a BATrTMód. hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(2) A BATrTMód. hatálybalépése előtt elfogadott településrendezési eszközöket
+
+a) a főváros esetében a BATrTMód. hatálybalépését követő egy éven belül, a fővárosi kerületek esetében további két éven belül,
+
+b) az e törvény hatálya alá tartozó, az a) pontba nem tartozó települések esetében a BATrTMód. hatálybalépését követő három éven belül
+
+összhangba kell hozni e törvénnyel.

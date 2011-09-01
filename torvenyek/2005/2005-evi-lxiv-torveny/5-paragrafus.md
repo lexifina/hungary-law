@@ -1,21 +1,29 @@
-## Települési térség
+5. § (1) Települési térségek a városias települési térség, a hagyományosan vidéki települési térség, a nagy kiterjedésű zöldterületi települési térség, valamint a magas zöldfelületi arányú települési térség.
 
-5. § (1) Települési térség nem beépített területe abban az esetben minősíthető át beépítésre szánt területté, ha a településszerkezeti tervben, a helyi építési szabályzatban, vagy szabályozási tervben a beépítésre szánt, és már jellemzően beépített területeken, vagy a már korábban kijelölt területek hasznosításával az adott területfelhasználás számára már nincs lehetőség.
-
-(2) A település szerkezeti tervében beépítésre tervezett lakó-, vegyes, gazdasági és üdülőterület akkor vehető igénybe, ha
+(2) Városias települési térségben és a hagyományosan vidéki települési térségben új lakóterület, vegyes terület, gazdasági terület, illetve üdülőterület abban az esetben jelölhető ki, ha
 
 a) a tervezett területfelhasználás jól illeszthető a település meglevő szerkezetéhez,
 
-b) nem sért táj- és természetvédelmi, környezetvédelmi, valamint kulturális örökségvédelmi érdeket, és
+b) táj- és természetvédelmi, környezetvédelmi, erdővédelmi, valamint kulturális örökségvédelmi és árvízvédelmi szempontok alapján nem sért társadalmi érdeket, és
 
-c) a tervezett funkció ellátásához szükséges műszaki (közmű, közúti és tömegközlekedési) infrastruktúra egyidejűleg létrehozható.
+c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra kapacitás azt lehetővé teszi vagy a terület igénybevételével párhuzamosan kiépül.
 
-(3) Új beépítésre szánt terület a település közigazgatási határához 200 m-nél közelebb nem jelölhető ki, kivéve, ha a külön jogszabályban meghatározott területi (környezeti, társadalmi és gazdasági) hatásvizsgálat az ettől való eltérést indokolja.
+(3) Városias települési térségben és hagyományosan vidéki települési térségben új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítésznek a területrendezési hatósági eljárás során kiadott területfelhasználási engedélye alapján jelölhető ki.
 
-(4) A települési térség hullámtéri területe beépítésre szánt területté akkor minősíthető, ha az árvízvédelem jogszabályban előírt mértékű biztosítása következtében a terület hullámtéri jellege megszűnik.
+(4) Városias települési térségben és hagyományosan vidéki települési térségben új lakóterületet, illetve vegyes területet csak a települési területhez kapcsolódóan lehet kijelölni.
 
-(5) A városias települési térség részét képező nagy kiterjedésű zöldterület az 5 hektárnál nagyobb összefüggő olyan városi és települési jelentőségű zöldterület, valamint zöldfelület jellegű intézményterület, amely megkülönböztetett védelmet és szabályozást igényel, és amely a települések szerkezetének meghatározó jelentőségű eleme.
+(5) Városias települési térségben és hagyományosan vidéki települési térségben 5 hektárt meghaladó kiterjedésű, illetve legalább 300 lakás elhelyezésére alkalmas új lakóterület vagy vegyes terület kijelölésére ott van lehetőség, ahol annak a meglévő, vagy kiépítendő kötöttpályás közösségi közlekedés megállóhelytől a közforgalom számára szabályosan használható közúton mért távolsága nem haladja meg az 5 km-t.
 
-(6) A magas zöldfelületi arányú települési térségbe – elsősorban rekreációs funkcióval rendelkező – összességében alacsony beépítettségű területek tartoznak.
+(6) Városias települési térségben és a hagyományosan vidéki települési térségben új beépítésre szánt területen a lakóterület, illetve vegyes terület növelésével egyidejűleg a területnövekmény legkevesebb 5%-ának megfelelő kiterjedésű, legalább 50%-ában a beépítésre szánt területtel kapcsolatban lévő zöldterületet kell kijelölni.
 
-(7) A magas zöldfelületi arányú települési térség legfeljebb 30%-án beépítésre szánt településközponti vegyes, üdülő- és különleges terület, legalább 70%-án pedig beépítésre nem szánt közlekedési és közműterület, zöldterület, erdőterület, mezőgazdasági és vízgazdálkodási terület alakítható ki.
+(7) A nagy kiterjedésű zöldterületi települési térségben csak zöldterület, továbbá – a beépítésre szánt és beépítésre nem szánt különleges terület területfelhasználási egység köréből – sportolási célú terület, valamint temetőterület jelölhető ki.
+
+(8) A magas zöldfelületi arányú települési térségnek
+
+a) legfeljebb 30%-án beépítésre szánt üdülőterület, illetve – a beépítésre szánt különleges terület területfelhasználási egység köréből – oktatási, egészségügyi és sport célú terület,
+
+b) legalább 70%-án beépítésre nem szánt terület
+
+alakítható ki.
+
+(9) A 7000 m2 nettó eladótérnél nagyobb új kereskedelmi, szolgáltató rendeltetésű építmény ott helyezhető el, ahol az építmény bejárata 300 méternél nem hosszabb gyalogos közlekedéssel megközelíthető a meglévő, vagy a tervezett funkció megvalósításával együtt kiépítendő jelentős közösségi közlekedési csomóponti megállóhelytől számítva.

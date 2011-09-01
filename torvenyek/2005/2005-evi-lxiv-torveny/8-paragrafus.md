@@ -1,5 +1,3 @@
-## Zöldövezet részét képező mezőgazdasági térség
+8. § (1) A különleges rendeltetésű térség teljes területén a településrendezési eszköz készítése során beépítésre nem szánt különleges vagy más beépítésre nem szánt területfelhasználási egység jelölhető ki.
 
-8. § (1) A zöldövezet részét képező mezőgazdasági térség a zöldövezetnek az erdőgazdálkodási térségen és a zöldterületen kívüli területe.
-
-(2) A zöldövezet részét képező mezőgazdasági térség legalább 95%-át beépítésre nem szánt terület kategóriába kell sorolni. Legfeljebb 5%-án bármely települési területfelhasználási egység kialakítható.
+(2) A 10 hektárt meghaladó sportolási célú területet beépítésre nem szánt különleges terület területfelhasználási egységbe kell sorolni.

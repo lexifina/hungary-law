@@ -1,3 +1,1 @@
-## Országos és térségi ökológiai hálózat
-
-14. § Az „országos és térségi ökológiai hálózat” részét képező védett természeti területek övezetébe az országos és a helyi jelentőségű védett természeti területek tartoznak. Az övezetben a kialakult hagyományos beépítési módot megváltoztatni nem szabad.
+14. § A térségi komplex tájrehabilitációt igénylő terület övezet területén az érintett települések településszerkezeti tervének készítése és módosítása során a térségi összefüggéseket, környezetvédelmi, és tájvédelmi szempontokat is figyelembe vevő tájrendezési tervet kell készíteni.
