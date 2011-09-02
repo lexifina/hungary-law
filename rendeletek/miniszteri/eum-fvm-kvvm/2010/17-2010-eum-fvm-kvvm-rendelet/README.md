@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-17-20-0
 | 2010-04-25 | 2010-17-20-0B.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-09-01 | 2010-17-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-07-02 | 2010-17-20-0B.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-09-02 | 2010-17-20-0B.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

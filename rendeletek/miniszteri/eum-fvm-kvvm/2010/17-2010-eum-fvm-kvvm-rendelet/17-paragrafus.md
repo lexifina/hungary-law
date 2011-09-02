@@ -1,4 +1,4 @@
-17. § (1)[^3]
+17. § (1)[^4]
 
 (2) Az e rendelet kihirdetését követő 9. napon hatályát veszti az 1–15. §, a 16. § b)–d) pontja, az (1) bekezdés és a 2–4. melléklet.
 
@@ -8,4 +8,4 @@
 
 (5) 2011. szeptember 2-án hatályát veszti az 1. melléklet 2., 3., 4., 5., 10. és 14. pontja.
 
-[^3]: A 17. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^4]: A 17. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
