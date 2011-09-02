@@ -1,0 +1,1 @@
+A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 206. § (5) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

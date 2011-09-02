@@ -1,0 +1,5 @@
+1. § (1) A Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) szakhatósági eljárásáért fizetendő igazgatási szolgáltatási díjat a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 171. § (6) bekezdése szerinti esetben a Gazdasági Versenyhivatal részére a Magyar Államkincstárnál vezetett 10032000-01037571-00000000 számú pénzforgalmi számlájára kell befizetni.
+
+(2) A Gazdasági Versenyhivatal a Médiatanács szakhatósági eljárásáért fizetendő, az (1) bekezdésben szereplő díjat a szakhatósági állásfoglalás kézhezvételét követő hónap 15-éig a Médiatanács Magyar Államkincstárnál vezetett 10032000-00295141-00000017 számú pénzforgalmi számlájára utalja át. Az átutalási megbízás közlemény rovatában az ügyfél nevét és az ügyszámot kötelező feltüntetni.
+
+(3) Az (1) bekezdésben szereplő átutalási megbízás közlemény rovatában fel kell tüntetni az „Mttv 171/6 díj” szöveget, az ügyfél nevét és annak az összefonódásnak az azonosításához szükséges adatokat, amelyre az eljárás iránti kérelem irányul.
