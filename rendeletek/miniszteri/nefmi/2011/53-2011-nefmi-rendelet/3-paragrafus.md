@@ -1,0 +1,9 @@
+3. § (1) Műemlékké nyilvánítom a Bakonyszentlászló (Győr-Moson-Sopron megye), 096/1, 0187/7, 0191 és 0193/1 helyrajzi számú ingatlanokat, a 0196 helyrajzi számú ingatlan vasúti nyomvonal két oldalán húzódó 50-50m széles sávját, valamint a Bakonyszentkirály (Veszprém megye), 044, 047, 049 helyrajzi számú ingatlanokat, a 043 és 053/1 helyrajzi számú ingatlanok vasúti nyomvonal két oldalán húzódó 50-50 méter széles sávját, a Porva (Veszprém megye), 0106 helyrajzi számú ingatlant, a Csesznek (Veszprém megye), 079/1 és 079/6 helyrajzi számú ingatlanokat, a Nagyesztergár (Veszprém megye), 0159 helyrajzi számú ingatlant, a Zirc (Veszprém megye), 0217 helyrajzi számú ingatlant, az Olaszfalu (Veszprém megye), 0242/8 helyrajzi számú ingatlant, az Eplény (Veszprém megye), 010/7 helyrajzi számú ingatlant, a 092/6, 0141, 0178 és 0179 helyrajzi számú ingatlanok vasúti nyomvonal két oldalán húzódó 50-50 méter széles sávját, továbbá a Veszprém (Veszprém megye), 01064/2 és 01055 helyrajzi számú ingatlanokat a rajtuk található vasúti pályával, épületekkel, millenniumi emlékművel, alagutakkal, hidakkal, támfalakkal, omlásvédőkkel és egyéb műszaki létesítményekkel együtt.
+
+(2) Műemléki környezetnek a Zirc (Veszprém megye), 3/12, 200/7 és 029 helyrajzi számú ingatlanokat, valamint a Veszprém (Veszprém megye), 01064/1, 01064/3, 01142, 01143, 0138, 0311, 2048/1 és 2129/4 helyrajzi számú ingatlanokat jelölöm ki.
+
+(3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket I. kategóriába sorolom.
+
+(4) A védetté nyilvánítás célja az 1895–1897 között épült magas-bakonyi vasútvonal építészeti, technikatörténeti és iparművészeti értékeinek, továbbá táji szerepének megőrzése.
+
+(5) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.

@@ -1,0 +1,9 @@
+# 53/2011. (VIII. 25.) NEFMI rendelet
+
+egyes ingatlanok műemlékké nyilvánításáról, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-53-20-2V
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-09-02 | 2011-53-20-2V.1 | 53/2011. (VIII. 25.) NEFMI rendelet |
