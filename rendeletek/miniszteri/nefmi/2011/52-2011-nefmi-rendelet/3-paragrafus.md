@@ -1,0 +1,1 @@
+## „d) a múzeumban a gyűjtőkörébe tartozó szakáganként muzeológus, továbbá műtárgyvédelmi munkatárs és múzeumi közművelődési szakember munkakört létesítenek, amelyet külön jogszabályban meghatározott képesítéssel rendelkező szakember tölt be,”
