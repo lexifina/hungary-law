@@ -1,0 +1,29 @@
+## 3. § Az R. 27. §-a helyébe a következő rendelkezés lép:
+
+## „27. § (1) A támogatás célja:
+
+## a) az akvakultúra termelési kapacitás növelése új halgazdaságok építésével;
+
+## b) a termelésben már meglévő halgazdaságok korszerűsítése vagy bővítése;
+
+## c) a biztonságos halhústermelés termelési alapjainak és feltételrendszerének biztosítása;
+
+## d) a környezetvédelmi szempontokat figyelembe véve a termelékenység és a hatékonyság növelése az akvakultúrában, elsősorban a technikai és technológiai színvonal javításán keresztül;
+
+## e) halkeltetők építése, felújítása, illetve modernizálása, a haltermelés során a környezeti terhelés csökkentése;
+
+## f) a halászati telephelyeken történő közvetlen értékesítési lehetőségek kiszélesítése;
+
+## g) az akvakultúra ágazatban dolgozók munka- és biztonsági körülményeinek, valamint jövedelmi helyzetének javítása, továbbá a munkahelyek megőrzése.
+
+## (2) A támogatás (1) bekezdésben meghatározott célkitűzései a HOP 2. tengelyének alábbi alintézkedéseit valósítják meg:
+
+## a) 1. alintézkedés: termelési kapacitás növelése új halgazdaságok építésével;
+
+## b) 2. alintézkedés: a termelésben meglévő gazdaságok korszerűsítése vagy bővítése;
+
+## c) 3. alintézkedés: halkeltetők építése, bővítése, korszerűsítése;
+
+## d) 4. alintézkedés: telephelyen megvalósuló szociális- és munkakörülményeket javító beruházások;
+
+## e) 5. alintézkedés: a telephelyeken történő közvetlen értékesítés lehetőségeinek kiszélesítése.”
