@@ -1,13 +1,11 @@
 23. § (1)
 
-(2) Hatályát veszti a Ktv.
+(2)
 
-a) 1. § (4) bekezdésében a „, közigazgatási versenyvizsgán” szövegrész,
-
-b) 10/C. §-a,
+a)–b)
 
 c)–d)
 
-e) 80. § (1) bekezdés j) pontja.
+e)
 
 (3)
