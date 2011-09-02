@@ -1,0 +1,1037 @@
+# A Kormány 1304/2011. (IX. 2.) Korm. határozata
+
+Magyar Közlöny 2011. évi 102. szám, 2011. szeptember 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/37f40272766b0ce8f8a8b85c6f7ffca7cd039275/dokumentumok/e2b4df2628e246dcd2b5a76ceee5e90c0653014e/letoltes)
+
+---
+
+A Kormány 1304/2011. (IX. 2.) Korm. határozata
+a Magyary Program Egyszerűsítési Programjának elfogadásáról
+1. A Kormány a Magyary Zoltán Közigazgatás-fejlesztési Program intézkedési tervének 15. pontja alapján a lakossági
+ügyfelekre háruló adminisztratív terhek csökkentése, továbbá a jogszabályok nyelvezetének közérthetőbbé tétele
+érdekében Egyszerűsítési Programot fogad el azzal, hogy
+a)
+ az Egyszerűsítési Program az 1. mellékletben foglalt eljárásokra terjed ki,
+b)
+ az Egyszerűsítési Programot úgy kell meg valósítani, hogy az állampolgárok számára érzékelhető módon váljanak
+egyszerűbbé az 1. mellékletben felsorolt eljárások oly módon, hogy a közigazgatásban foglalkoztatottak
+leterheltsége nem növekedhet.
+Határidő:
+a program zárására 2013. április 30.
+Felelős:
+valamennyi miniszter
+2. A Kormány felhívja a minisztereket, hogy a 1. mellékletben megjelölt és a felelősségükbe tartozó eljárások
+tekintetében
+a)
+ vizsgálják felül, majd annak alapján egyszerűsítsék a felelősségi körükbe tartozó eljárásokat a 2. melléklet szerinti
+egységes folyamategyszerűsítési módszertan és az ezt megalapozó képzés alapján, az adott ügyben eljáró
+szervek képviselőinek legfeljebb az Egyszerűsítési Program végrehajtásának idejére felállított szakértői
+munkacsoportok keretei között történő bevonásával;
+b)
+ a felülvizsgálatot és egyszerűsítést a mérlegelést nem igénylő eljárásokkal kezdjék;
+c)
+ készítsenek ütem- és intézkedési tervet az egyszerűsítés végrehajtására;
+
+d) tegyenek javaslatot a Kormánynak az eljárások egyszerűsítéséhez szükséges jogszabályok módosítására azzal,
+hogy a módosítás során törekedjenek a közérthető szövegezésre.
+Határidő: c) pont tekintetében a pályázat benyújtása
+d) pont tekintetében az 1. melléklet szerint
+Felelős: valamennyi miniszter
+3. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy
+a) hangolja össze a minisztériumok tevékenységeit az Egyszerűsítési Program végrehajtása során;
+b) félévente tájékoztassa a Kormányt az Egyszerűsítési Program végrehajtásának állásáról;
+c) biztosítsa az egyes ügyek felülvizsgálatának eredményeként születő módosító javaslatoknak a közigazgatási
+hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (Ket.) felülvizsgálatának
+eredményével és a vállalkozói adminisztratív terhek csökkentésére irányuló program tartalmával és
+célkitűzéseivel való összhangját; továbbá
+d) a nemzeti fejlesztési miniszterrel és a belügyminiszterrel együttműködve biztosítsa az Egyszerűsítési Program
+összhangját a Nemzeti Egységes Kártyarendszer (NEK) keretében kialakuló koncepciókkal.
+Határidő: folyamatosan 2013. április 30-ig
+Felelős: a)–c) pontok tekintetében közigazgatási és igazságügyi miniszter
+d) pont tekintetében közigazgatási és igazságügyi miniszter a nemzeti fejlesztési miniszter és
+a belügyminiszter bevonásával
+4. A Kormány felhívja a közigazgatási és igazságügyi minisztert annak figyelemmel kísérésére, hogy az 1. mellékletben
+szereplő eljárások újraszabályozása megfelel-e az Egyszerűsítési Program szempontrendszerének.
+Határidő: folyamatos
+Felelős: közigazgatási és igazságügyi miniszter
+5. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy legalább két jogszabályra kísérleti jelleggel készítse
+el azok közérthető megfogalmazású szövegváltozatát és vonja le a szélesebb körben történő hasznosíthatóságra
+irányuló tapasztalatokat.
+Határidő: 2012. június 30.
+Felelős: közigazgatási és igazságügyi miniszter
+6. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy – az érintett miniszterekkel együttműködve –
+tegyen javaslatot az Egyszerűsítési Programból fakadó szervezetfejlesztési programra.
+Határidő: 2012. június 30.
+Felelős: közigazgatási és igazságügyi miniszter
+7. Ez a határozat a közzétételét követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet az 1304/2011. (IX. 2.) Korm. határozathoz
+Az egyszerűsítendő ügyek megnevezése, főfelelőse és ütemezése
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+I. Család, gyermek
+1. Teljes hatályú apai elismerő nyilatkozat
+jegyzőkönyvbe foglalása (születés előtt,
+megszületett gyermek esetén)
+KIM 2012. március 15. x
+2. Gyámrendelés NEFMI 2012. december 31.
+3. Gyermekek családba fogadása NEFMI 2012. december 31.
+4. Gyermekek tartós nevelésbe vétele NEFMI 2012. december 31.
+5. Gyermekek átmeneti nevelésbe vétele NEFMI 2012. december 31.
+6. Rendszeres gyermekvédelmi kedvezmény
+megállapítása és folyósítása
+NEFMI 2012. december 31.
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+7. Kiegészítő gyermekvédelmi támogatás
+megállapítása és folyósítása
+NEFMI 2012. december 31.
+8. Rendkívüli gyermekvédelmi támogatás
+megállapítása és folyósítása
+NEFMI 2012. december 31.
+9. Ingyenes gyermekétkeztetés
+megállapítása
+NEFMI 2012. december 31.
+10. 50%-os gyermekétkeztetés megállapítása
+és folyósítása
+NEFMI 2012. december 31.
+11. Óvodáztatási támogatás megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+12. Iskolakezdési támogatás NGM 2012. március 15.
+13. Anyasági támogatás folyósítása NEFMI 2012. március 15. x
+14. Terhességi-gyermekágyi segély igény
+benyújtása, elbírálása
+NEFMI 2012. március 15. x
+15. Gyermekgondozási díj igény benyújtása,
+elbírálása (GYED)
+NEFMI 2012. március 15. x
+16. Gyermekgondozási segély folyósítása
+(GYES)
+NEFMI 2012. március 15. x
+17. Családi pótlék folyósítása NEFMI 2012. március 15. x
+18. Gyermeknevelési támogatás (GYET)
+folyósítása
+NEFMI 2012. március 15. x
+19. START számla (Babakötvény) nyitása
+a Magyar Államkincstár állampénztári
+irodáinál, hitelintézetnél, befektetési
+szolgáltatónál
+NGM 2012. március 15. x
+20. Az örökbefogadás előtti eljárás NEFMI 2012. december 31.
+21. Az örökbefogadás engedélyezése iránti
+eljárás
+NEFMI 2012. december 31.
+22. Örökbefogadás joghatásaival kapcsolatos
+eljárások
+KIM 2012. március 15.
+23. Magyar állampolgárságú gyermek
+örökbefogadása külföldi állampolgár által
+NEFMI 2012. december 31.
+24. Külföldi állampolgárságú gyermek
+magyarországi örökbe fogadása
+NEFMI 2012. december 31.
+25. Gyermekjóléti alapellátások
+igénybevétele-
+– gyermekjóléti szolgáltatás,
+– gyermekek napközbeni ellátása
+(bölcsőde, családi napközi, családi
+gyermekfelügyelet, házi
+gyermekfelügyelet),
+– gyermekek átmeneti gondozása
+(családok átmeneti otthona, gyermekek
+átmeneti otthona)
+NEFMI 2012. december 31.
+26. Kismama bérlet kiállításához szükséges
+igazolás kiállítása
+NEFMI 2012. március 15. x
+27. Utógondozói ellátás elrendelése NEFMI 2012. március 15.
+28. Gondnokrendelés NEFMI 2012. december 31.
+Munkavállalás, munkanélküli ellátás
+29. Álláskeresőként történő nyilvántartásba
+vétel
+NGM 2012. március 15.
+30. Keresetpótló támogatás folyósítása NGM 2012. március 15.
+31. Álláskeresési járadék folyósítása NGM 2012. március 15.
+32. Álláskeresési segély folyósítása NGM 2012. március 15.
+33. START kártya kiállítása NGM 2012. március 15. x
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+34. START PLUSZ kártya igénylés NGM 2012. március 15. x
+35. START EXTRA kártya igénylés NGM 2012. március 15. x
+36. Egyéni munkavállalási engedély kiállítása;
+meghosszabbítása
+NGM 2012. március 15. x
+37. Szezonális munkavállalási engedély
+kiállítása
+NGM 2012. március 15. x
+38. Harmadik országbeli állampolgár
+foglalkoztatására vonatkozó egyéni
+munkavállalási engedély kiállítása;
+meghosszabbítása
+NGM 2012. március 15.
+Szociális ellátások
+39. Szociális alapszolgáltatások
+igénybevétele: családsegítés, falu- és
+tanyagondnoki szolgáltatás, étkeztetés,
+házi segítségnyújtás, jelzőrendszeres házi
+segítségnyújtás, támogató szolgáltatás,
+közösségi ellátások, utcai szociális munka,
+nappali ellátás
+NEFMI 2012. december 31.
+40. Időskorúak járadékának megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+41. Lakásfenntartási támogatás megállapítása
+és folyósítása
+NEFMI 2012. december 31.
+42. Rendszeres szociális segély megállapítása
+és folyósítása
+NEFMI 2012. december 31.
+43. Rendszeres szociális járadék
+megállapítása és folyósítása
+NEFMI 2012. december 31.
+44. Átmeneti járadék megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+45. Rokkantsági járadék megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+46. Bányász dolgozók egészségkárosodási
+járadékának megállapítása és folyósítása
+NEFMI 2012. december 31.
+47. Fogyatékossági támogatás megállapítása
+és folyósítása
+NEFMI 2012. december 31.
+48. Vakok személyi járadéka megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+49. Átmeneti segély folyósítása NEFMI 2012. december 31.
+50. Temetési segély folyósítása NEFMI 2012. december 31.
+51. Köztemetés NEFMI 2012. december 31.
+52. Adósságkezelési szolgáltatás NEFMI 2012. december 31.
+53. Nagycsaládos gázár kedvezmény NFM 2012. december 31.
+54. Igazolás kiállítása tartósan beteg, illetőleg
+súlyosan fogyatékos gyermekről (családi
+pótlékhoz)
+NEFMI 2012. március 15.
+55. Csökkent munkaképesség és
+egészségkárosodás megállapítása
+NEFMI 2012. március 15.
+56. Bentlakásos szociális intézményi ellátás
+igénybevétele
+NEFMI 2012. december 31.
+57. Foglalkoztatást helyettesítő támogatás
+folyósítása
+NEFMI 2012. december 31.
+58. Közgyógyellátás megállapítása és
+folyósítása
+NEFMI 2012. december 31.
+Adózás
+59. Személyi jövedelemadó bevallás NGM 2012. március 15. x
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+60. Helyi adófizetési kötelezettségek
+teljesítése (építményadó, kommunális
+adó és ingatlan adó)
+NGM 2012. augusztus 31.
+61. Adóigazolás kiadása NGM 2012. március 15. x
+62. Együttes adóigazolás kiadása NGM 2012. március 15. x
+63. Jövedelemigazolás kiadása biztosítási
+jogviszony megszűnésekor
+NGM 2012. március 15. x
+64. Bérek kifizetését havonta tanúsító
+igazolás kiállítása
+NGM 2012. március 15.
+65. Illetőségigazolás kiadása NGM 2012. március 15. x
+66. Adó-, vám-, illeték- és
+a társadalombiztosítási kötelezettség
+teljesítéséről szóló igazolás kiadása
+NGM 2012. március 15. x
+67. Adó- és értékbizonyítvány kiállítása iránt
+kezdeményezett eljárás
+NGM 2012. március 15. x
+68. A nyilvántartott adatokban bekövetkezett
+változások jogszabályi előíráson alapuló,
+kötelező bejelentése
+NGM 2012. március 15. x
+69. Adóbevallás másolatának kiállítása NGM 2012. március 15. x
+70. Méltányossági eljárás NGM 2012. március 15.
+71. Fizetési könnyítési eljárás (fizetési
+halasztás és részletfizetés engedélyezése)
+NGM 2012. március 15.
+72. Az ingatlan vagyoni értékű jog
+átruházásából származó jövedelem után
+fizetendő személyi jövedelemadó
+kötelezettségekre irányuló fizetési
+kedvezményi kérelem
+NGM 2012. március 15.
+73. Ingatlanok forgalmi értékadatainak
+adatszolgáltatása
+NGM 2012. március 15. x
+74. Visszterhes vagyonátruházási illeték NGM 2012. március 15. x
+75. Ajándékozási illeték NGM 2012. március 15. x
+76. Öröklési illeték NGM 2012. március 15. x
+77. Mezőgazdasági őstermelő magánszemély
+adózása
+NGM 2012. március 15. x
+78. Mezőgazdasági őstermelői igazolvány
+kiállítása
+VM 2012. március 15. x
+79. Járulékfizetés NGM 2012. március 15.
+Mezőgazdasági ügyek
+80. Az Európai Mezőgazdasági Garancia Alap
+(EMGA) és a nemzeti költségvetésből
+„társfinanszírozott”, termőterület,
+állatlétszám, kvóta, illetve a termelt
+mennyiség alapján igényelhető
+támogatások szabályozásával kapcsolatos
+ügyek
+VM 2012. március 15.
+81. Az Európai Mezőgazdasági
+Vidékfejlesztési Alapból (EMVA)
+finanszírozott támogatásokkal
+kapcsolatos ügyek
+VM 2012. március 15.
+82. A KAP bel- és külpiaci támogatási
+intézkedéseinek végrehajtásával, valamint
+az intervenciós rendszer működtetésével
+kapcsolatos ügyek
+VM 2012. március 15.
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+83. A növényi- és állati termékek nemzeti
+hatáskörben elrendelt
+piacszabályozásához kapcsolódó
+támogatási intézkedések végrehajtásához
+szükséges feladatok
+VM 2012. március 15.
+84. A közvetlen támogatásokhoz szükséges
+Integrált Igazgatási és Ellenőrzési
+Rendszer (IIER) működtetésével, ezen
+belül gazda- és ügyfélregiszter, valamint
+a Mezőgazdasági Parcella Azonosító
+Rendszer (MePAR) kezelésével összefüggő
+feladatok
+VM 2012. március 15.
+Közoktatás, felsőoktatás
+85. Óvodai ellátás NEFMI 2012. augusztus 31.
+86. Nyelvvizsga bizonyítvány kiállítása NEFMI 2012. augusztus 31. x
+87. Külföldi oklevelek, bizonyítványok
+elismerése/ honosítása
+NEFMI 2012. augusztus 31. x
+88. Hazai bizonyítványokról, oklevelekről és
+hazai szakmai gyakorlatról szóló hatósági
+bizonyítvány kiállítása
+NEFMI 2012. augusztus 31. x
+89. Az európai uniós jog hatálya alá tartozó,
+külföldi képesítést tanúsító okirat
+elismerése
+NEFMI 2012. augusztus 31. x
+90. Felvételi eljárás általános iskolába;
+középiskolába; felsőoktatási intézménybe
+NEFMI 2012. december 31.
+91. Határon túli pedagóguskedvezmény
+bejegyzése
+KIM 2012. augusztus 31.
+92. Határon túli magyar diákok
+diákkedvezményének bejegyzése
+KIM 2012. augusztus 31.
+93. Oktatói kedvezmény bejegyzése NEFMI 2012. augusztus 31.
+94. Diákhitel folyósítása; lemondása; célzott
+kamattámogatás folyósítása
+NGM 2012. augusztus 31.
+95. Diákhitel törlesztőrészlet mérséklése;
+törlesztési kötelezettség szüneteltetése
+NGM 2012. augusztus 31.
+96. Diákigazolvány kiállítása (közoktatásban
+tanulóknak; felsőoktatási hallgatóknak)
+NEFMI 2012. augusztus 31.
+97. Országos oktatási szakértői névjegyzékre
+történő kérelem/pályázat benyújtása
+(jelentkezés, módosítás, kiegészítés,
+adatmódosítás, továbbképzés
+bejelentése)
+NEFMI 2012. augusztus 31.
+98. Országos oktatási vizsgaelnöki
+névjegyzékre történő kérelem/pályázat
+benyújtása (jelentkezés, módosítás,
+kiegészítés, adatmódosítás, továbbképzés
+bejelentése)
+NEFMI 2012. augusztus 31.
+99. Érettségi vizsgabizottság döntése elleni
+törvényességi kérelem
+NEFMI 2012. december 31.
+100. Tanulói ösztöndíj pályáztatása NEFMI 2012. augusztus 31.
+101. Iskoláztatási támogatás folyósításának
+felfüggesztése
+NEFMI 2012. december 31.
+Ingatlannal kapcsolatos ügyek
+102. Telekalakítási, egyesített telekalakítási
+eljárás
+VM 2012. augusztus 31.
+
+Szám
+Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+103.
+Hatósági, bírósági megkeresésen, illetve
+határozaton alapuló
+ingatlan-nyilvántartási eljárások
+VM
+2012. augusztus 31.
+104.
+Ingatlan-nyilvántartási adatváltozás
+átvezetése
+VM
+2012. augusztus 31.
+105.
+Földhasználati nyilvántartási adatváltozás
+átvezetése
+VM
+2012. augusztus 31.
+106.
+Elvi építési engedély kiállítása
+BM
+2012. augusztus 31.
+107.
+Építési engedély kiállítása
+BM
+2012. augusztus 31.
+108.
+Bontási engedély kiadása
+BM
+2012. augusztus 31.
+109.
+Fennmaradási engedély kiállítása
+BM
+2012. augusztus 31.
+110.
+Használatba vételi engedély kiállítása
+BM
+2012. augusztus 31.
+111.
+Fakivágási kérelem
+VM
+2012. augusztus 31.
+112.
+Lakás előtakarékossági számla nyitása
+NGM
+2012. augusztus 31.
+113.
+Kérelem lakásszerzési kedvezmény
+érvényesítésének engedélyezésére
+NGM
+2012. augusztus 31.
+114.
+Otthonteremtési támogatás
+megállapítása és folyósítása
+NEFMI, NGM
+2012. december 31.
+115.
+Vízfelhasználók éves nyilatkozata
+a vízfogyasztásról
+VM
+2012. augusztus 31.
+x
+116.
+Gázmérő átírási eljárás szabályozása
+NFM
+2012. augusztus 31.
+117.
+Villanymérő átírási eljárás szabályozása
+NFM
+2012. augusztus 31.
+118.
+Vízmérő csere eljárásának szabályozása
+VM
+2012. augusztus 31.
+119.
+Gázkazán cseréjével összefüggő eljárás
+szabályozása
+NGM, NFM
+2012. augusztus 31.
+120.
+Lakástámogatással kapcsolatos állami
+igény átjegyzése
+NGM
+2012. augusztus 31.
+121.
+Régészeti feltárással kapcsolatos hatósági
+eljárások
+NEFMI
+2012. augusztus 31.
+122.
+Örökségvédelmi hatósági eljárások
+NEFMI
+2012. augusztus 31.
+123.
+Előzetes vizsgálati eljárás vagy elő zetes
+konzultáció
+VM
+2012. augusztus 31.
+124.
+Környezeti hatásvizsgálati eljárás
+VM
+2012. augusztus 31.
+125.
+Egységes környezethasználati
+engedélyezési eljárás
+VM
+2012. augusztus 31.
+126.
+Összevont környezetvédelmi eljárás
+VM
+2012. augusztus 31.
+127.
+Összekapcsolt környezetvédelmi eljárás
+VM
+2012. augusztus 31.
+128.
+Kisajátítási eljárás
+KIM
+2012. augusztus 31.
+Közúti közlekedéssel kapcsolatos ügyek
+129.
+Gépjármű forgalomba helyezése
+(kiemelten a személygépkocsik
+magánimportja esetén lefolytatott
+forgalomba helyezési, illetve
+járműhonosítási eljárás)
+NFM
+2012. augusztus 31.
+x
+130.
+Gépjármű forgalomból történő kivonása
+NFM
+2012. augusztus 31.
+x
+131.
+Jármű származásellenőrzése
+BM
+2012. augusztus 31.
+132.
+Forgalomba helyezés előtti és időszakos
+vizsgálat
+NFM
+2012. augusztus 31.
+133.
+Jármű hatósági engedélyének (forgalmi
+engedély) kiadása, pótlása és cseréje
+NFM
+2012. augusztus 31.
+x
+134.
+Forgalmi engedély bevonása
+NFM
+2012. augusztus 31.
+x
+135.
+Jármű hatósági jelzésének
+(rendszámtábla) kiadása, pótlása és
+cseréje
+NFM
+2012. augusztus 31.
+x
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+136. Járművel kapcsolatos kötelező
+felelősségbiztosítás hatósági ellenőrzése
+NFM 2012. augusztus 31.
+137. Jármű műszaki adatainak változása NFM 2012. augusztus 31. x
+138. Jármű tulajdonosának, üzembetartójának
+személyében vagy adataiban
+bekövetkezett változás átvezetése
+NFM 2012. augusztus 31. x
+139. Kereskedelmi forgalomba kerülő új
+járművek forgalomba helyezése
+NFM 2012. augusztus 31. x
+140. Törzskönyv kiállítása, pótlása, adataiban
+beállt változás nyilvántartásba vétele
+NFM 2012. augusztus 31.
+141. Indítási napló kiadása, pótlása és
+hitelesítése
+NFM 2012. augusztus 31.
+142. Vezetői engedély kiadása, cseréje, pótlása,
+visszavonása
+NFM 2012. augusztus 31. x
+143. Új kategória megszerzésének bejegyzése
+a vezetői engedélybe
+NFM 2012. augusztus 31. x
+144. Ideiglenes vezetői engedély kiállítása,
+cseréje, pótlása
+NFM 2012. augusztus 31. x
+145. Nemzetközi gépjármű vezetői engedély
+kiállítása, cseréje, pótlása
+NFM 2012. augusztus 31. x
+146. Külföldi hatóság által kiállított vezetői
+engedély cseréje, honosítása
+NFM 2012. augusztus 31. x
+Okmányok, hatósági igazolások
+147. Anyakönyvi esemény anyakönyvbe
+történő bejegyzése
+KIM 2012. augusztus 31. x
+148. Magyar állampolgárok külföldön történt
+anyakönyvi eseményeinek hazai
+anyakönyvezésére irányuló eljárások
+KIM, BM 2012. augusztus 31.
+149. Anyakönyvből történő hatósági
+bizonyítvány kiállítása
+KIM 2012. augusztus 31.
+150. Hatósági erkölcsi bizonyítvány
+kérvényezése és kiállítása
+BM 2012. augusztus 31. x
+151. Adattovábbítási kérelem alapján kiállított
+hatósági bizonyítvány kérvényezése és
+kiállítása
+BM 2012. augusztus 31.
+152. Személyazonosító igazolvány kiadása,
+cseréje, pótlása
+KIM 2012. augusztus 31. x
+153. Személyazonosítót és lakcímet igazoló
+hatósági igazolvány kiadása (állandó
+lakhely, tartózkodási hely), cseréje,
+pótlása
+KIM 2012. augusztus 31. x
+154. A Magyar Köztársaság területének
+a külföldi letelepedés szándékával történő
+elhagyásának bejelentése
+KIM 2012. augusztus 31.
+155. A három hónapon túli külföldi
+tartózkodás bejelentése
+KIM 2012. augusztus 31.
+156. A három hónapon túli külföldi
+tartózkodásból való visszatérés
+bejelentése
+KIM 2012. augusztus 31.
+157. Adóazonosító jelet igazoló hatósági
+igazolvány (adókártya) kiadása
+NGM 2012. augusztus 31. x
+158. Magánútlevél kiállítása (1 évig, 5 évig,
+10 évig), kiállítása iránti kérelem
+elutasítása, visszavonása
+BM 2012. augusztus 31. x
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+159. Második magánútlevél kiállítása (1 évig,
+2 évig), kiállítása iránti kérelem
+elutasítása, visszavonása
+BM 2012. augusztus 31. x
+160. Határátlépési igazolvány kiállítása BM 2012. december 31.
+161. Adatszolgáltatatási kérelem úti okmány
+kiadásáról, cseréjéről, visszavonásáról,
+érvényességének, elvesztésének,
+eltulajdonításának, megsemmisülésének,
+találásának, megkerülésének tényéről,
+továbbá arról, hogy az érintett személy
+rendelkezik-e érvényes úti okmánnyal,
+az úti okmány birtokosának családi és
+utónevéről (ideértve a születési családi és
+utónevet is), az érintett arcképmásáról és
+saját kezű aláírásáról
+BM 2012. augusztus 31. x
+162. Ideiglenes útlevél kiállítása, leadása BM 2012. augusztus 31. x
+163. Diplomata útlevél kiállítása BM 2012. augusztus 31.
+164. Külügyi szolgálati útlevél kiállítása BM 2012. augusztus 31.
+165. Szolgálati útlevél kiállítása, kiállítása iránti
+kérelem elutasítása, visszavonása
+BM 2012. augusztus 31.
+166. Hajós szolgálati útlevél kiállítása, kiállítása
+iránti kérelem elutasítása, visszavonása
+BM 2012. augusztus 31.
+167. Külföldre utazási korlátozás bejegyzése,
+törlése
+BM 2012. augusztus 31.
+168. A mozgásában korlátozott személy
+parkolási igazolványának kiadása,
+meghosszabbítása, visszavonása, cseréje,
+pótlása, nyilvántartása
+NFM 2012. augusztus 31.
+Nyugdíjjal kapcsolatos ügyek
+169. Szolgálati idő elismerési kérelem NEFMI 2012. augusztus 31.
+170. Öregségi típusú nyugdíjak iránti igény
+bejelentése, elbírálása, folyósítása
+NEFMI 2012. augusztus 31.
+171. Szülői nyugdíj iránti igény bejelentése,
+elbírálása, folyósítása
+NEFMI 2012. augusztus 31.
+172. Özvegyi nyugdíj igény bejelentése,
+elbírálása, megállapítása, folyósítása
+NEFMI 2012. augusztus 31.
+173. Árvaellátás iránti igény bejelentése,
+elbírálása, folyósítása
+NEFMI 2012. augusztus 31.
+174. Igénybejelentés kivándorolt illetőleg
+külföldön élő vagy tartózkodó személyek
+részére nyugdíj elbírálásához
+NEFMI 2012. augusztus 31.
+175. Rehabilitációs járadék iránti igény
+bejelentése, elbírálása, folyósítása
+NEFMI 2012. december 31.
+176. Rokkantsági nyugdíj iránti igény
+bejelentése, elbírálása, folyósítása
+NEFMI 2012. augusztus 31.
+177. Kérelem a saját jogú nyugellátás
+összegének 0,5 százalékos emeléséhez
+NEFMI 2012. augusztus 31.
+178. Igénybejelentés baleseti hozzátartozói
+ellátások elbírálásához
+NEFMI 2012. augusztus 31.
+179. Igénybejelentés az egyes tartós
+szabadságkorlátozást elszenvedettek
+részére (saját jogon)
+NEFMI 2012. augusztus 31.
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+180. Igénybejelentés az egyes tartós
+időtartamú szabadságkorlátozást
+elszenvedettek részére túlélő
+házastársként járó juttatáshoz
+NEFMI 2012. augusztus 31.
+181. Kérelem-adatlap nyugellátás
+méltányossági alapon történő
+megállapításához; emeléséhez „
+NEFMI 2012. augusztus 31.
+182. Egyszeri segély folyósítása
+(nyugellátásban részesülő személy
+részére)
+NEFMI 2012. augusztus 31.
+183. Fizetéskönnyítési, tartozásmérséklési,
+tartozás elengedési kérelem
+(A nyugdíjbiztosítási igazgatási szerv
+visszafizetésre, megtérítésre vonatkozó
+határozatában előírt fizetési feltételek
+könnyítésére irányuló kérelem)
+NEFMI 2012. augusztus 31.
+184. Adatkérés a nyugdíjbiztosítás által
+nyilvántartott adatokról
+NEFMI 2012. augusztus 31.
+185. Kérelem hatósági bizonyítvány kiadására NEFMI 2012. augusztus 31.
+186. Kérelem a Csődtv. 53. § (2), a Ctv. 112. §
+(2) bekezdése, illetve a Ctv. 1. számú
+mellékletének V. pont 1/e. alpontja
+szerinti igazolás kiadásához
+NEFMI 2012. augusztus 31.
+187. Nyilatkozat az elhalálozás hónapjára
+megillető ellátás kifizetéséhez
+NEFMI 2012. augusztus 31.
+188. Nyilatkozat a jogosult ellátásának belföldi
+hitelintézet átutalási betétszámlájára
+(bankszámlájára), vagy EGT tagállam
+területén élők által megjelölt valamely
+tagállamban vezetett átutalási
+betétszámlára történő utalására
+NEFMI 2012. augusztus 31.
+189. Adatokban bekövetkezett változások
+bejelentése
+NEFMI 2012. augusztus 31.
+190. Állapotrosszabbodás bejelentése NEFMI 2012. augusztus 31.
+Házassági ügyek
+191. Házassági és bejegyzett élettársi
+kapcsolat anyakönyvezése
+KIM 2012. december 31. x
+192. Nem magyar állampolgár házasságkötése
+és bejegyzett élettársi kapcsolatának
+létesítése Magyarországon
+KIM 2012. december 31.
+193. Tanúsítvány kiállítása magyar
+állampolgár, Magyarországon élő
+menekült és hontalan személy külföldön
+történő házasságkötéséhez, bejegyzett
+élettársi kapcsolata létesítéséhez
+KIM 2012. december 31.
+194. Kiskorú házasságkötésének
+engedélyezése
+NEFMI 2012. december 31.
+195. Házasságkötés és bejegyzett élettársi
+kapcsolat létesítésének engedélyezése
+hivatali helyiségen kívül
+KIM 2012. december 31.
+196. Házassági névviselési forma módosítása KIM 2012. december 31.
+197. Születési és házassági név
+megváltoztatása
+KIM 2012. december 31.
+Egészségbiztosítási ellátások
+198. Táppénz igény benyújtás, elbírálása NEFMI 2012. március 15.
+
+Szám Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+199. Gyermekápolási táppénz igény
+benyújtása,elbírálása
+NEFMI 2012. március 15.
+200. Baleseti táppénz igény benyújtása,
+elbírálása
+NEFMI 2012. március 15.
+201. Üzemi balesethez kapcsolódó jogosultság
+érvényesítése
+NEFMI 2012. március 15.
+202. Igazolás kiállítása egészségügyi
+szolgáltatásra való jogosultságról
+NEFMI 2012. december 31.
+203. Egészségbiztosítási ellátásra jogosult
+személyek bejelentése
+NEFMI 2012. december 31.
+204. Engedélyezett külföldi gyógykezelés NEFMI 2012. december 31.
+205. Magyarországon forgalombahozatali
+engedéllyel nem rendelkező
+készítmények árához nyújtott
+egészségbiztosítási támogatás
+NEFMI 2012. december 31.
+206. Rehabilitációs ellátások /szanatóriumi
+ellátás
+NEFMI 2012. december 31.
+207. Otthoni szakápolás, hospice NEFMI 2012. december 31.
+208. Természetbeni ellátások méltányossági
+alapú támogatása
+NEFMI 2012. december 31.
+209. Méltányosságból adható egyszeri segély
+igénylése, elbírálása
+NEFMI 2012. december 31.
+210. Tartozásigazolás magánszemélyeknek
+tb-befizetésekről
+NGM 2012. december 31.
+211. Utazási költségtérítés egészségügyi
+ellátás igénybevétele kapcsán
+NEFMI 2012. december 31.
+212. Sajátos nevelési igényű gyerek utazási
+költségtérítésének igénylése, elbírálása
+NEFMI 2012. december 31.
+213. Korai fejlesztést és gondozást, a fejlesztő
+felkészítést nyújtó intézmény
+igénybevételével kapcsolatban felmerült
+utazási költség megtérítéséhez
+kapcsolódó eljárás és a jogosultsági
+szabály
+NEFMI 2012. december 31.
+Halálozás, öröklés
+214. Haláleset anyakönyvezése KIM 2012. december 31. x
+215. Társadalombiztosítási ellátás
+hagyatékként való kiutalása
+NGM 2012. december 31.
+Állampolgárság, bevándorlás
+216. Állampolgárság igazolása hivatalos
+megkeresésre
+KIM, BM 2012. december 31.
+217. Tartózkodási engedély kiállítása BM 2012. december 31.
+218. Nemzeti letelepedési engedély kiállítása BM 2012. december 31.
+219. Egyszerűsített honosítás, visszahonosítás KIM 2012. december 31.
+220. Honosítási, visszahonosítási kérelem KIM, BM 2012. december 31.
+221. Honosításhoz, visszahonosításhoz
+kapcsolt névmódosítási kérelem
+KIM, BM 2012. december 31.
+222. Magyar állampolgárság megszerzésére
+irányuló nyilatkozat
+KIM, BM 2012. december 31.
+223. Magyar állampolgárság visszaszerzésére
+irányuló nyilatkozat
+KIM, BM 2012. december 31.
+224. Lemondás magyar állampolgárságról KIM, BM 2012. december 31.
+225. Állampolgársági bizonyítvány iránti
+kérelem
+KIM, BM 2012. december 31.
+
+Szám
+Ügy neve
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztéséért felelős
+minisztérium
+Ügyet szabályozó
+jogszabály Kormány elé
+terjesztésének határideje
+Elsőbbséget elvező
+ügyek (mérlegelést
+nem igényelnek)
+226.
+Magyar igazolvány / Magyar
+hozzátartozói igazolvány kiállítása;
+adatváltozásának átvezetése; pótlása,
+visszavonása
+KIM
+2012. december 31.
+227.
+Pótfüzet kiállítása, cseréje, a magyar
+igazolvánnyal és magyar hozzátartozói
+igazolvánnyal igénybe vehető
+kedvezmények igénybevételére
+KIM
+2012. december 31.
+Horizontális téma (több eljárásban
+jogszabály által előírt kötelező elem)
+228.
+Aláírási címpéldány
+KIM
+2012. március 15.
+2. melléklet az 1304/2011. (IX. 2.) Korm. határozathoz
+A felülvizsgálat és az egyszerűsítés módszertani alapkövetelményei
+A felülvizsgálat során bemutatandó, illetve mérlegelendő szempontok a következők:
+Cél: bemutatni az ügy folyamatával és kapcsolódásaival kapcsolatos legfontosabb (friss) információkat annak
+érdekében, hogy az egyszerűsítési folyamatban részt vevő valamennyi szereplő számára minden, az egyszerűsítés
+technikájának/technikáinak meghatározásához szükséges információ rendelkezésre álljon.
+Tartalmi elemei:
+1. Ügyre vonatkozó alapinformációk (ügy célja, célcsoportja, ügyszámok bemutatása, ügyet érintő joganyag)
+2. Az ügy kapcsolata más hatóságoknál indított ügyekkel (ügy szükségessége más ügyekhez, dokumentációs feltételek)
+3. Ügyintézés folyamatleírása (ügyön belüli eljárási lépések, ügy folyamatábrája, hiánypótlások, fellebbezések, határidők,
+átfutási idők)
+4. Jogosultság, bírálat
+5. Kommunikáció az ügyféllel (elő zetes tájékoztatás, időpontfoglalás, ügyindítás módja, aktuális tájékoztatás)
+6. Eljárási költség (illeték, illetékmentesség, gyorsított eljárás)
+7. Egyéb fontos információk
+A felülvizsgálat ezen tartalmi elemei elhagyhatók, ha az előterjesztés elfogadásakor a felülvizsgálat folyamatban van
+vagy már lezárásra került.
+Az eljárások egyszerűsítését úgy kell meg valósítani, hogy az alább felsorolt kimenetek közül
+– az a)-tól a c) pontokban szereplők közül egyet, vagy
+– a d)-től a h) pontokban szereplők közül legalább kettőt kell teljesítenie, továbbá
+– az a) pont kivételével minden más eljárásnál a j) pontban foglaltat végre kell hajtania és az i) pontban foglaltat
+a logikailag összetartozó ügyek esetében kell végrehajtania:
+a)
+az ügy megszüntetése;
+b)
+az ügy összevonása más üggyel;
+c)
+ügyintézési idő csökkentése;
+d)
+ügyfél-hivatal közötti kommunikáció fejlesztése, ügyfélbarát tájékoztatás kiterjesztése;
+e)
+az ügy folyamatának átszervezése;
+f)
+az ügy elintézésében részt vevő szereplők számának csökkentése;
+g)
+az ügy elektronizáltságának növelése;
+h)
+az ügy dokumentációs és információs igényének csökkentése;
+i)
+kézikönyv készítése a folyamatban részt vevő ügyintézőknek;
+j)
+az ügyfelek számára rövid és közérthető ügyleírás készítése és nyilvánossá tétele.
+
+A vizsgálati eredmények alapján javaslatot kell tenni az egyszerűsítésre.
+Cél: javaslat megfogalmazása az ügy egyszerűsítésének módjára, ütemezésére, erőforrásigényére, kapcsolódásaira.
+Tartalmi elemei:
+–
+Ügyre vonatkozó alapinformációk (adminisztratív költsége, lakossági irritációs foka, ügy megszüntethetősége,
+ügy összevonhatósága, jogszabályi háttér fragmentáltsága)
+–
+Érintett
+intézményi
+szereplők
+és
+feladataik
+(intézmények
+számának
+csökkentése,
+intézmények
+feladatmegosztása, ügyindítás lehetséges csatornái, intézményrendszer átalakítása)
+–
+Ügyintézés folyamata (eljárási lépések száma, átfutási idő, ügyintézési alkalmak száma, ügyintézés hatósági
+automatizálása)
+–
+Jogosultsági, bírálati szempontok
+–
+Kommunikáció az ügyféllel (elő zetes tájékoztatás, időpontkérés, ügyindítás, proaktív tájékoztatás)
+–
+Ügy elektronizáltsága (elektronizálhatósági irányok)
+–
+Ügy információs, dokumentációs igénye (ügyintézéshez szükséges dokumentumok, nyomtatványok
+információigénye)
+–
+Ügy egyszerűsítésének javaslatai (folyamategyszerűsítési javaslatok, szakpolitikai javaslatok, költségek –
+megtakarítások, intézkedési terv, egyszerűsítés hatása a lakossági adminisztratív terhekre, kapcsolódó
+koncepciók, optimalizált folyamatábra)
