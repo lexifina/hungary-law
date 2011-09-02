@@ -1,3 +1,3 @@
 ## Egyéb, az egészségüggyel összefüggő törvények módosítása
 
-84. §
+84–88. §
