@@ -1,3 +1,0 @@
-## 1. § A termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló 16/2002. (II. 18.) Korm. rendelet (a továbbiakban: Er.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az ajánlat közlése – a 2. § (1a) bekezdése szerinti eltéréssel – az ingatlan fekvése szerint illetékes települési önkormányzat (a fővárosban a fővárosi kerületi önkormányzat) polgármesteri hivatala, illetve a körjegyzőség székhelyén a körjegyzőség (a továbbiakban együtt: polgármesteri hivatal) hirdetőtáblájára való kifüggesztéssel, a körjegyzőséghez tartozó többi településen pedig a helyben szokásos módon történik.”

@@ -1,1 +1,0 @@
-## „(4) A hirdetmény közzétételét megelőzően a vagyonkezelésbe adásra kijelölt földrészletek forgalmi értékbecslését az NFA köteles elvégeztetni. Értékbecslést a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendeletben meghatározott szakértő, illetve gazdálkodó szervezet végezhet.”

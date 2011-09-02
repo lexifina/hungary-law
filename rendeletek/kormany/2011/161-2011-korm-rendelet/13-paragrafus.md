@@ -1,3 +1,0 @@
-## „(4) Ha a pályázati kiírás másként nem rendelkezik, a pályázatokat a bizottság által átadott értékelési jegyzőkönyv kézhezvételét követő naptól számított tizenöt napon belül kell elbírálni. Az elbírálási határidőt az NFA elnöke, illetve az Nfatv. 8. § (1) bekezdés d) vagy a h) pontjában meghatározott esetben a Tanács, vagy a Tanács az MNV Zrt.-vel közösen egy alkalommal legfeljebb tizenöt nappal meghosszabbíthatja, melyről a pályázókat az NFA értesíti. A pályázati kiírás szerinti elbírálási határidő – annak meghosszabbítása esetén – sem haladhatja meg a pályázatok benyújtási határidejének lejártától számított kilencven napot.”
-
-13. § (1) A Hr. 27. §-át megelőző alcím helyébe a következő alcím lép:
