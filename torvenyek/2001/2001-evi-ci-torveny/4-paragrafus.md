@@ -10,7 +10,9 @@
 
 a) a felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációjának, illetve a külföldi szolgáltatók akkreditációja tekintetében az átjárhatóság és a kölcsönös elismerés biztosításának;
 
-b) a felnőttképzési normatív támogatások igénybevételének és a IV. rész szerint támogatott képzést folytató intézménynek az állami támogatással kapcsolatos kötelezettségeinek
+b) a felnőttképzési normatív támogatások igénybevételének és a IV. rész szerint támogatott képzést folytató intézménynek az állami támogatással kapcsolatos kötelezettségeinek;
+
+c) az intézmény-, vagy programakkreditációs tanúsítvány adataiban bekövetkezett változás bejelentésének elmulasztása miatt fizetendő bírság mértékét, valamint a bírságfizetési kötelezettség részletes
 
 szabályait.
 
