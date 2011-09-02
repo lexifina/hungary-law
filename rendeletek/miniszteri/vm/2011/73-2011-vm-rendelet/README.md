@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-73-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-07-30 | 2011-73-20-2Y.1 | 73/2011. (VII. 29.) VM rendelet |
+| 2011-09-02 | 2011-73-20-2Y.2 | 85/2011. (IX. 1.) VM rendelet |

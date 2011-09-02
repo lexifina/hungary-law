@@ -68,16 +68,16 @@ Helyrajzi szám
 
 Károsodás becsült mértéke (százalékban)
 
-3. Kérelem adatai:
+3.[^8] Kérelem adatai:
 
 Támogatásra javasolt területnagyság
 
 A kérelemben feltüntetett károsodott terület csökkentése esetén a javasolt csökkentés, illetve az esetleges elutasítás érdemi indokolása
-
-Javasolt összeg
 
 Támogatási kérelem benyújtásának időpontja
 
 4. Keltezés
 
 5. Cégszerű aláírás
+
+[^8]: A 2. melléklet 3. pontja a 85/2011. (IX. 1.) VM rendelet 20. §-a szerint módosított szöveg.
