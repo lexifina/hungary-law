@@ -1,9 +1,0 @@
-23. § Az Szt. 94/G. §-a helyébe a következő rendelkezés lép:
-
-„94/G. § (1) Az Eütv. 188. § d) pontjában meghatározott betegeket ellátó valamennyi bentlakásos intézményben az Eütv. szerinti veszélyeztető vagy közvetlen veszélyeztető magatartás tanúsítása esetén a pszichiátriai betegek jogaira vonatkozó rendelkezések figyelembevétele mellett az Eütv. 192. §-át kell alkalmazni az e § szerinti eltérésekkel.
-
-(2) Az Eütv. 192. §-a alkalmazása során az Eütv. szerinti kezelőorvos feladatait az intézmény orvosa látja el, valamint a korlátozó módszerek, eljárások (a továbbiakban együtt: korlátozó intézkedés) alkalmazását a külön jogszabályban meghatározott írásos formában kell dokumentálni. Az intézmény orvosának elérhetősége hiányában az intézményvezető által műszakonként kijelölt, a korlátozó intézkedés alkalmazására döntési joggal rendelkező ápoló jogosult az intézkedés elrendelésére, ebben az esetben az intézmény orvosát és az intézmény vezetőjét a korlátozó intézkedés alkalmazásáról haladéktalanul tájékoztatni kell.
-
-(3) Az intézmény orvosa a korlátozó intézkedés alkalmazásáról tájékoztatja az intézmény vezetőjét. Az intézményvezető feladata az intézkedéshez szükséges feltételek, illetve szükség esetén a többi ellátott védelmének biztosítása. A korlátozásról az intézményvezető negyvennyolc órán belül köteles tájékoztatni a törvényes képviselőt és az ellátottjogi képviselőt.
-
-(4) A korlátozó intézkedés alkalmazása ellen az ellátást igénybe vevő vagy törvényes képviselője panasszal élhet az intézmény fenntartójánál. A panasz kivizsgálásához és a döntéshez a fenntartó szakértőként pszichiáter szakorvost vesz igénybe.”
