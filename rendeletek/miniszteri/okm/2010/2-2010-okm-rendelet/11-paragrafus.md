@@ -1,6 +1,6 @@
 ## A működési engedély kiadása, módosítása, visszavonása
 
-11. § (1) A működési engedély iránti kérelmet a fenntartó nyújtja be az oktatási és kulturális miniszter (a továbbiakban: miniszter) által rendszeresített formanyomtatványon. A formanyomtatvány adattartalmát jelen rendelet melléklete tartalmazza.
+11. § (1)[^16] A működési engedély iránti kérelmet a fenntartó nyújtja be az kultúráért felelős miniszter (a továbbiakban: miniszter) által rendszeresített formanyomtatványon. A formanyomtatvány adattartalmát jelen rendelet melléklete tartalmazza.
 
 (2) A kérelemhez csatolni kell
 
@@ -16,7 +16,7 @@ e) ha a fenntartó társadalmi szervezet, alapítvány vagy közalapítvány, a 
 
 f) az d) és e) pont szerinti fenntartó esetén az adóhatóság igazolását arról, hogy nincs lejárt köztartozása,
 
-g) a kérelem alapjául szolgáló kulturális javak használati jogcímét igazoló dokumentumot (pl. letéti, kölcsönzési szerződés), illetve a tulajdonos nyilatkozatát arról, hogy a kulturális javak saját tulajdonát képezik, továbbá per-, teher- és igénymentesek, és a muzeális intézmény létesítéséhez hozzájárul,
+g)[^17] a kérelem alapjául szolgáló kulturális javak használati jogcímét igazoló dokumentumot (pl. letéti, kölcsönzési szerződés), valamint a tulajdonos nyilatkozatát arról, hogy a kulturális javak saját tulajdonát képezik, továbbá per-, teher- és igénymentesek, és a muzeális intézmény létesítéséhez hozzájárul,
 
 h) a muzeális intézményt befogadó ingatlan használati jogcímét igazoló dokumentumot,
 
@@ -25,3 +25,6 @@ i) a fenntartó nyilatkozatát, amelyben vállalja, hogy a muzeális intézmény
 j) a fenntartó nyilatkozatát arra vonatkozóan, hogy a kulturális javak nyilvántartásba vételét a külön jogszabályban meghatározott szakképesítéssel rendelkező személy végezte, valamint a szakmai munkakört külön jogszabályban meghatározott szakképesítéssel rendelkező személy tölti be.
 
 (3) Ha a kérelmező a (2) bekezdés a)–b), valamint d)–f) pontjaiban foglalt iratokat nem mellékeli, a miniszter adatszolgáltatási kérelemmel fordul a fenti adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+
+[^16]: A 11. § (1) bekezdése az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^17]: A 11. § (2) bekezdés g) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.

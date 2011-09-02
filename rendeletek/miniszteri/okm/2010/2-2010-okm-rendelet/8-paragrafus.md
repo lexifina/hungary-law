@@ -10,6 +10,8 @@ d) a múzeum hetente legalább két napon négyórás időtartamban kutatószolg
 
 e) a múzeumban a gyűjtőkörébe tartozó szakáganként egy vagy több, de összesen legalább tíz muzeológus, valamint több restaurátor – természettudományi gyűjtemény esetén preparátor –, továbbá több múzeumi közművelődési szakember, valamint múzeumi könyvtáros-adattáros, múzeumi informatikus, és több múzeumi gyűjtemény- és raktárkezelő munkakört létesítenek, amelyet külön jogszabályban meghatározott képesítéssel rendelkező szakember tölt be,
 
-f) az arra jogosult a kérelem alapjául szolgáló kulturális javakat alapleltárba, illetve külön nyilvántartásba vette,
+f)[^13] az arra jogosult a kérelem alapjául szolgáló kulturális javakat alapleltárba vagy külön nyilvántartásba vette,
 
 g) a megyei múzeumi szervezethez több muzeális intézmény tartozik.
+
+[^13]: A 8. § f) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
