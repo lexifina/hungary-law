@@ -1,10 +1,10 @@
 ## Ültetvényleltár
 
-## Ültetvény helye (helyrajzi szám):
+## Ültetvény helye (helység, helyrajzi szám):
 
-## Sortávolság:  . méter
+## Sortávolság: . méter
 
-## Tőtávolság:   méter
+## Tőtávolság: méter
 
 ## Művelésmód:
 
@@ -26,8 +26,8 @@
 
 | Összesen: |  |  |
 
-## * A tőkehelyek számát minden tevékenység esetén ki kell tölteni!
+## * A tőkehelyek számát minden tevékenység esetén ki kell tölteni!
 
-7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^51]
+7. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^62]
 
-[^51]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, a 13/2011. (II. 18.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^62]: A 7. számú mellékletet a 134/2009. (X. 14.) FVM rendelet 15. § (4) bekezdése iktatta be, a 13/2011. (II. 18.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.

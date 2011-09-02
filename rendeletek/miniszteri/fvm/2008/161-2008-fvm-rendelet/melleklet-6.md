@@ -1,3 +1,3 @@
-6. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^50]
+6. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^61]
 
-[^50]: A 6. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^61]: A 6. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (4) bekezdésével megállapított, a 85/2011. (IX. 1.) VM rendelet 17. § (6) bekezdése szerint módosított szöveg.

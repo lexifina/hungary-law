@@ -1,31 +1,31 @@
 ## Támogatási kérelem benyújtása
 
-10. §[^27] (1) A már befejezett tevékenységre vonatkozó támogatási kérelmeket egy eredeti példányban postai úton az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához (a továbbiakban: MVH PKI) kell benyújtani.
+10. §[^37] (1) A tevékenység végrehajtását követően a támogatási kérelmet egy eredeti példányban postai úton az MVH részére kell benyújtani.
 
-(2) A támogatási kérelmeket 2011. február 21. és 2011. május 31. közötti időszakban lehet benyújtani, a benyújtás időpontjának a kérelem postára adásának napja minősül.
+(2) A támogatási kérelmeket az adott borpiaci évben az Egyéni terv szerint befejezett tevékenységre vonatkozóan április 1. és június 15. közötti időszakban lehet benyújtani, a benyújtás időpontjának a támogatási kérelem postára adásának napja minősül.
 
-(3) A kérelmeket az MVH Központ honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti formanyomtatványon kell benyújtani.
+(3) Támogatási kérelmet kizárólag az nyújthat be, aki (amely) az MVH által jóváhagyott Egyéni tervvel rendelkezik.
 
-(4) A támogatási kérelemhez csatolni kell:
+(4) A támogatási kérelem az alábbi adatokat tartalmazza:
 
-a) a kérelmezett területre vonatkozó Egyéni tervet,
+a) a kérelmező azonosításához szükséges adatok (regisztrációs szám, név, cím, kapcsolattartási információk);
 
-b) valamennyi földtulajdonosnak a 4. számú melléklet szerinti, vagy azzal megegyező adattartalmú, 2008. június 30-a után kelt nyilatkozatát arra vonatkozóan, hogy a szerkezetátalakításhoz hozzájárul,
+b) az Egyéni tervnek helyt adó vagy részben helyt adó határozat iktatószáma.
 
-c) haszonélvezeti, özvegyi, vagy végrehajtási joggal terhelt terület esetében valamennyi haszonélvezeti, özvegyi joggal rendelkező személy, vagy végrehajtási jog jogosultjának a 4. számú melléklet szerinti, vagy azzal megegyező adattartalmú, 2008. június 30-a után kelt nyilatkozatát arra vonatkozóan, hogy a szerkezetátalakításhoz hozzájárul,
+(5) A támogatási kérelemhez csatolni kell:
 
-d) a 2. § a)–b) pontjai szerinti tevékenységek esetén a telepítési engedély másolatát,
+a) az ültetvény támrendszeréről készített vázrajzot,
 
-e) a 2. § c) pontja szerinti tevékenység esetén – amennyiben a tőkepótlás mértéke meghaladja a 25%-ot – a telepítési engedély másolatát,
+b) az ültetvényleltárt a 6. számú melléklet szerint,
 
-f) az ültetvénynek a tevékenység végrehajtását követő állapotra vonatkozó támrendszeréről készített vázrajzot,
+c) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó származási igazolás másolatát.
 
-g) a 2. § c) pontja szerinti tevékenység esetén az ültetvényről a szerkezetátalakítás végrehajtását megelőző állapotra vonatkozó, a HEGYIR-ből kiadott szőlő ültetvénykataszteri kivonatot,
+(6) A támrendszerről készített vázrajzban fel kell tüntetni az oszlopok és karók méretét, távolságát, a huzalok átmérőjét és talajtól mért távolságukat, valamint a végoszlop rögzítés módját.
 
-h) a tevékenységek végrehajtását követő állapotra vonatkozó ültetvényleltárt a 6. számú melléklet szerint,
+(7) A támogatási kérelmeket az MVH által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti formanyomtatványon kell benyújtani.
 
-i) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó származási igazolás másolatát,
+(8) Az eljárás az ügyfél kérelmére nem függeszthető fel, továbbá a hiánypótlás teljesítésére rendelkezésre álló határidő nem hosszabbítható meg.
 
-j) a 2. § c) pontja szerinti tevékenység esetén, amennyiben a tőkepótlás végrehajtása bujtással történik, az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága által kiadott talajtani igazolást a talaj filoxéra ellenállóságáról.
+(9) A 7. § (7) bekezdése szerinti végrehajtás esetén az első borpiaci évre benyújtott támogatási kérelemhez nem kell mellékelni az (5) bekezdés a) pontjában meghatározott dokumentumot.
 
-[^27]: A 10. § a 13/2011. (II. 18.) VM rendelet 6. §-ával megállapított szöveg.
+[^37]: A 10. § a 85/2011. (IX. 1.) VM rendelet 9. §-ával megállapított szöveg.

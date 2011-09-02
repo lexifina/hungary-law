@@ -22,6 +22,6 @@
 
 |  | ...................................... (sz. ig. sz.) |  | ...................................... (sz. ig. sz.) |
 
-5. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^49]
+5. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^60]
 
-[^49]: Az 5. számú mellékletet a 13/2011. (II. 18.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^60]: Az 5. számú mellékletet a 13/2011. (II. 18.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
