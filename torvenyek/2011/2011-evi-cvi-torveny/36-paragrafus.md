@@ -1,5 +1,1 @@
-36. § A Tbj. 5. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alapján biztosított)
-
-„a) a munkaviszonyban (ideértve az országgyűlési képviselőt is), közalkalmazotti, illetőleg közszolgálati jogviszonyban, ügyészségi szolgálati jogviszonyban, bírósági jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, hivatásos nevelőszülői jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, közfoglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona (a továbbiakban: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,”
+### 36. §

@@ -1,9 +1,1 @@
-44. § (1) Az NFA tv. 22. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram és a közfoglalkoztatási program megvalósítása céljából az önkormányzat számára ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
-
-(2) A vagyonkezelésbe, illetve temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdőművelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott jogerős határozat.”
-
-(2) Az NFA tv. 22. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A földrészlet közfoglalkoztatási program megvalósítása céljából akkor adható az önkormányzat részére vagyonkezelésbe, ha arra a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó törvények módosításáról szóló törvényben meghatározott, közfoglalkoztatási jogviszony alapján ellátható feladat érdekében van szükség.”
+### 44. §
