@@ -26,6 +26,8 @@ bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edz�
 
 bj) a biztonságtechnikai fejlesztésre kötelezettek körét, és
 
+bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét.
+
 bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
