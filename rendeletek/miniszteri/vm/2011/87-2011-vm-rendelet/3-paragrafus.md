@@ -1,0 +1,1 @@
+## „(9) Ugyanarra a területre egy alaptámogatás vehető igénybe, kivéve a (4) bekezdés a) pontjában meghatározott alaptámogatást, amely a (4) bekezdés b) pontjában meghatározott alaptámogatások egyikével együtt is igénybe vehető.”
