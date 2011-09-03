@@ -1,3 +1,0 @@
-## 6. § Az R. a következő 40. §-sal egészül ki:
-
-## „40. § E rendeletnek az Európai Halászati Alap társfinanszírozásában megvalósuló Halászati Operatív Program 2. prioritási tengelye szerinti beruházási támogatások feltételeiről szóló 50/2011. (VI. 6.) VM rendelet módosításáról szóló 86/2011. (IX. 1.) VM rendelettel (a továbbiakban: 1. módosító rendelet) megállapított 10. § (8) bekezdését, 16. § (4)–(6) bekezdését, 27. § (1) bekezdését és (2) bekezdés a)–c) pontját, 30. § (1) bekezdését, 33. § (1) bekezdését és (2) bekezdés a)–b) pontját az 1. módosító rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
