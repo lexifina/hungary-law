@@ -6,7 +6,7 @@ a) tíz fokos és ez alatti lejtésű terület: 100 eurónak megfelelő forintö
 
 b) tíz fok feletti lejtésű terület: 200 eurónak megfelelő forintösszeg/hektár.
 
-(2) Az erdőpotenciál helyreállításához kapcsolódó első kiviteli és a pótlási támogatás mértékét az egyes támogatási csoportokban az 1. számú melléklet tartalmazza.
+(2)[^5] Az erdészeti potenciál helyreállításához kapcsolódó első kiviteli vagy pótlási támogatás mértékét az egyes támogatási csoportokban az 1. számú melléklet tartalmazza.
 
 (3) Amennyiben az állomány felújítása tőrevágással vagy sarjaztatással biztosítható, és ezen felújítási mód alkalmazását az erdészeti hatóság engedélyezi, az erdészeti potenciál helyreállítási támogatás mértéke támogatási csoporttól és lejtéstől függetlenül 200 eurónak megfelelő forintösszeg hektáronként.
 
@@ -31,3 +31,5 @@ c) rőzsefonat, talajfogó gát: 1 eurónak megfelelő forintösszeg/méter.
 a) a (7) bekezdésben meghatározott minimális mértéket nem éri el, a támogatás elutasításra kerül;
 
 b) a (8) bekezdésben meghatározott értéket meghaladja, a maximális összeg kerül megállapításra.
+
+[^5]: A 4. § (2) bekezdése a 87/2011. (IX. 2.) VM rendelet 3. §-ával megállapított szöveg.

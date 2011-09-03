@@ -2,13 +2,13 @@
 
 5. § (1) A támogatás igénybevételére a kérelmező akkor jogosult, ha:
 
-a) az erdészeti hatóság által az erdő tv. alapján nyilvántartásba vett erdőgazdálkodó;
+a)[^6] az erdészeti hatóság által az Evt. alapján nyilvántartásba vett erdőgazdálkodó;
 
-b) rendelkezik az adott területre vonatkozóan az erdészeti hatóság által jóváhagyott üzemtervvel;
+b)[^7] a folyamatos erdősítés esetét kivéve, rendelkezik az adott területre vonatkozó erdőterv határozattal;
 
 c) a támogatási kérelem benyújtását megelőző két naptári évben a Nemzeti Vidékfejlesztési Terv alapján, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott erdészeti, erdőgazdálkodási tevékenységgel kapcsolatos támogatás igénybevétele esetén nem került kizárásra a támogatási feltételek szándékosan történő megszegése miatt;
 
-d) a potenciál helyreállítási célprogram keretében a kérelmezett területre korábban másik természeti katasztrófa káreseménye miatt, e rendelet alapján legfeljebb egy alkalommal kapott támogatást;
+d)[^8]
 
 e) tűzkár esetén, amennyiben az erdőtűz nem
 
@@ -18,16 +18,39 @@ eb) a területen gondatlanul végrehajtott erdőművelési vagy fahasználati te
 
 (2) A támogatás igénybevételére a kérelmező nem jogosult a kérelmezett területre vonatkozóan, ha a természeti katasztrófa következtében keletkezett felújítási kötelezettség teljesítéséhez, az érintett erdőrészletre csekély összegű (de minimis) támogatást kapott, kivéve a 3. § (4) bekezdésének a) pontjában meghatározott alaptámogatást.
 
-(3) Támogatás olyan a 3. § (2) bekezdésében meghatározott területeken adható egész erdőrészletre vagy azok természetben lehatárolt – a terepen jól látható – részére, ahol 2007. január 1-je után bekövetkezett természeti katasztrófa következtében
+(3)[^9] Támogatás olyan a 3. § (2) bekezdésében meghatározott területeken adható egész erdőrészletre vagy területhatár állandósítással elkülönített rész-erdőrészletre, ahol természeti katasztrófa következtében
 
-a) felújítási kötelezettség, vagy
+a) felújítási kötelezettség keletkezett,
 
-b) folyamatos erdősítésben 50 százalékot meghaladó mértékű mennyiségi kár keletkezett.
+b) a folyamatos erdősítésben a felújítási kötelezettség alá vont terület tekintetében a mennyiségi kár eléri az 50%-ot, vagy
 
-(4) A legkisebb egybefüggő támogatható terület nagysága 0,5 hektár.
+c) a folyamatos erdősítésben bekövetkezett tőrevágással és sarjaztatással helyreállítható minőségi kár eléri az 50%-ot.
 
-(5) A támogatási döntésről szóló határozat kézhezvételéig a kérelmező a támogatott erdészeti potenciál helyreállítási tevékenységeket csak saját felelősségére, kizárólag az erdészeti hatóság felújítási kötelezettséget előíró vagy módosító határozatának jogerőre emelkedése után kezdheti meg.
+(4)[^10] A legkisebb támogatható terület nagysága olyan egybefüggő 0,5 hektár, amely
 
-(6) E rendelet alapján a 2007. esztendőben természeti katasztrófa következtében erdőkárt szenvedett erdők 2007 őszén és 2008 tavaszán saját felelősségre megtörtént felújítása esetében is nyújtható be támogatási kérelem.
+a) egy erdőrészleten belül, vagy
 
-(7) Természeti katasztrófa által sújtott ugyanazon erdőterületre e rendelet alapján egy típusú természeti katasztrófa káreseménye után csak egyszer vehető igénybe támogatás.
+b) szomszédos erdőrészleteket érintően
+
+helyezkedik el.
+
+(5)[^11] A támogatási határozat közléséig a kérelmező a támogatott erdészeti potenciál helyreállítási tevékenységeket csak saját felelősségére, kizárólag az erdészeti hatóság felújítási kötelezettséget előíró vagy módosító határozatának jogerőre emelkedése után kezdheti meg.
+
+(6)[^12]
+
+(7)[^13] Természeti katasztrófa által sújtott ugyanazon erdőterületre e rendelet alapján egy adott természeti katasztrófa káreseménye után csak egyszer vehető igénybe támogatás.
+
+(8)[^14] A (3) bekezdés a) pontja szerinti esetben az első kiviteli támogatás igénybevételére az ügyfél nem jogosult arra a területre vonatkozóan, ahol a felújítási célállományba tartozó, a fő-és elegy fafajok együttes, a felújítási célállomány elegyarányának megfelelő elosztású újulata eléri 2. számú melléklet szerinti minimális csemeteszámot.
+
+(9)[^15] Amennyiben az ügyfél a támogatást rész-erdőrészlet területén kívánja igénybe venni, úgy köteles a támogatott terület határainak állandósítását elvégezni. Amennyiben a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, úgy a terület töréspontjain EP felirattal ellátott szabványosított erdészeti határjeleket kell elhelyezni.
+
+[^6]: Az 5. § (1) bekezdés a) pontja a 87/2011. (IX. 2.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés b) pontja a 87/2011. (IX. 2.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés d) pontját a 87/2011. (IX. 2.) VM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (3) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (4) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (5) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (6) bekezdését a 87/2011. (IX. 2.) VM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^13]: Az 5. § (7) bekezdése a 87/2011. (IX. 2.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (8) bekezdését a 87/2011. (IX. 2.) VM rendelet 4. § (4) bekezdése iktatta be.
+[^15]: Az 5. § (9) bekezdését a 87/2011. (IX. 2.) VM rendelet 4. § (4) bekezdése iktatta be.

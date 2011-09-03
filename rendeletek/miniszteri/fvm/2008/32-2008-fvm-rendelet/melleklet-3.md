@@ -4,76 +4,80 @@
 
 | Minimális csemeteszám (db/ha) | 8000 | 8000 | 4500 | 4500 | 600 | 8000 |
 
-3. számú melléklet a 32/2008. (III. 27.) FVM rendelethez
+3. számú melléklet a 32/2008. (III. 27.) FVM rendelethez[^30]
 
-Támogatási kérelmek részletes pontozási rendszere
+|  | A | B | C |
 
-| Értékelési szempont megnevezése | Pontszám |
+| 1. | Értékelési szempont megnevezése | Az értékeléshez rendelhető pontszám |
 
-| Horizontális szempontok |
+| 2. | Horizontális szempontok |  |
 
-| Erdőgazdálkodó teljes erdőgazdálkodási tevékenységének területe | 20,0 hektár alatti | 10 |
+| 3. | Erdőgazdálkodó teljes erdőgazdálkodási tevékenységének területe | 20,0 hektár alatti | 10 |
 
-| 20,1–100,0 hektár között | 8 |
+| 4. | 20,1–100,0 hektár között | 8 |
 
-| 100,1 hektár felett | 0 |
+| 5. | 100,1 hektár felett | 0 |
 
-| Összefüggő károsodott terület | 5,0 hektár alatt | 0 |
+| 6. | Összefüggő károsodott terület | 5,0 hektár alatt | 0 |
 
-| 5,1–20,0 hektár között | 5 |
+| 7. | 5,1–20,0 hektár között | 5 |
 
-| 20,1–100,0 hektár között | 8 |
+| 8. | 20,1–100,0 hektár között | 8 |
 
-| 100,1 hektár felett | 10 |
+| 9. | 100,1 hektár felett | 10 |
 
-| Kedvezményezett kistérség [a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet szerint] | A kedvezményezett kistérségben elhelyezkedő település határában tervezett helyreállítás | 4 |
+| 10. | Kedvezményezett kistérség [a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet szerint] | A kedvezményezett kistérségben elhelyezkedő település határában tervezett helyreállítás | 5 |
 
-| Egyéb területen elhelyezkedő település határában tervezett helyreállítás | 0 |
+| 11. | Egyéb területen elhelyezkedő település határában tervezett helyreállítás | 0 |
 
-| Horizontális szempontok összesen | 25 |
+| 12. | Horizontális szempontok összesen: | 25 |
 
-| Szakmai szempontok |
+| 13. | Szakmai szempontok |  |
 
-| Őshonosság vizsgálata | Legalább 70%-ban őshonos fafajokból álló állomány kerül létrehozásra | 12 |
+| 14. | Őshonosság vizsgálata | Legalább 70%-ban őshonos fafajokból álló állomány kerül létrehozásra | 13 |
 
-| Legalább 50%-ban őshonos fafajokból álló állomány kerül létrehozásra | 7 |
+| 15. | Legalább 50%-ban őshonos fafajokból álló állomány kerül létrehozásra | 7 |
 
-| Egyéb állomány | 0 |
+| 16. | Egyéb állomány | 0 |
 
-| Elsődleges rendeltetés | Védelmi elsődleges rendeltetés | 12 |
+| 17. | Elsődleges rendeltetés | Védelmi | 12 |
 
-| Oktatási, közjóléti elsődleges rendeltetés | 7 |
+| 18. | Közjóléti | 7 |
 
-| Gazdasági elsődleges rendeltetés | 0 |
+| 19. | Gazdasági | 0 |
 
-| Másodlagos eróziós károk kockázata | 10 fok feletti lejtésű terület | 10 |
+| 20. | Másodlagos eróziós károk kockázata | 10 fok feletti lejtésű terület | 10 |
 
-| 10 fok és ez alatti lejtésű terület | 0 |
+| 21. | 10 fok és ez alatti lejtésű terület | 0 |
 
-| Kérelemben szereplő károsodott terület | 100 hektár felett | 10 |
+| 22. | Kérelemben szereplő károsodott terület | 100 hektár felett | 10 |
 
-| 10–100 hektár | 5 |
+| 23. | 10–100 hektár között | 5 |
 
-| 10 hektár alatt | 0 |
+| 24. | 10 hektár alatt | 0 |
 
-| Erdőrészlet elhelyezkedése | Belterület | 5 |
+| 25. | Erdőrészlet elhelyezkedése | Belterület | 5 |
 
-| Külterület | 0 |
+| 26. | Külterület | 0 |
 
-| Elegyesség | Elegyes állomány (Létrehozandó célállomány 30% elegyfafajok alkotják) | 5 |
+| 27. | Elegyesség | Elegyes állomány (Létrehozandó célállomány 30% elegyfafajok alkotják) | 5 |
 
-| Nem elegyes | 0 |
+| 28. | Nem elegyes | 0 |
 
-| Szakmai szempontok összesen | 55 |
+| 29. | Szakmai szempontok összesen: | 55 |
 
-| Egyéb szempontok | Sérülékeny vízbázisú terület MePAR lehatárolás szerint | 5 |
+| 30. | Egyéb szempontok |  |
 
-| Natura 2000 terület MePAR lehatárolás szerint | 5 |
+| 31. | Sérülékeny vízbázisú terület MePAR lehatárolás szerint | 5 |
 
-| Balaton, Fertő- vagy a Velencei-tó vízgyűjtő területe [a települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtőterületek kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet 2. sz. mellékletében meghatározott település határában tervezett intézkedés] | 5 |
+| 32. | Natura 2000 terület MePAR lehatárolás szerint | 5 |
 
-| Kiemelt üdülőkörzet területe (a Balaton Kiemelt Üdülőkörzet Területrendezési Tervé- nek elfogadásáról és a Balatoni Területren- dezési Szabályzat megállapításáról szóló 2000. évi CXII. tv. 1. és 2. sz. mellékletében meghatározott település határában tervezett intézkedés) | 5 |
+| 33. | Balaton, Fertő- vagy a Velencei-tó vízgyűjtő területe [a települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtőterületek kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet 2. sz. mellékletében meghatározott település határában tervezett intézkedés] | 5 |
 
-| Egyéb szempontok összesen | 20 |
+| 34. | Kiemelt üdülőkörzet területe (a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. tv. 1. és 2. sz. mellékletében meghatározott település határában tervezett intézkedés) | 5 |
 
-| Szempontok összesen: | 100 |
+| 35. | Egyéb szempontok összesen: | 20 |
+
+| 36. | Szempontok összesen: | 100 |
+
+[^30]: A 3. számú melléklet a 87/2011. (IX. 2.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
