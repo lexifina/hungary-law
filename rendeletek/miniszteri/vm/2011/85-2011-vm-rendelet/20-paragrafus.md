@@ -1,1 +1,0 @@
-## „(7) A miniszter a megfelelő támogatási összegeket a Folyó kiadások és jövedelem-támogatások jogcímcsoport terhére biztosítja a 1003200-00287560-00000017 számú MVH Agrártámogatások lebonyolítási számlán keresztül. Az MVH 2011. szeptember 30-áig, de legkésőbb a forrás rendelkezésre állásától számított 15 napon belül intézkedik a támogatás kifizetéséről.”
