@@ -2,7 +2,13 @@
 
 25. § (1) Az egyes támogatások szerinti kötelezettségekhez kapcsolódó jogkövetkezményeket a támogatás részletes feltételeit megállapító jogszabály határozza meg. Az előírt, illetve vállalt kötelezettség nem teljesítése esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(2) Ha az elszámolható kiadások teljesülésének mértéke az utolsó kifizetési kérelem alapján sem éri el a 90%-ot, az utolsó kifizetési kérelem elutasításra kerül, és a már kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+(2)[^11] Amennyiben az utolsó kifizetési kérelem alapján a 19. § (4) bekezdésében foglalt előírásnak az ügyfél nem felel meg, de a támogatási határozattal jóváhagyott elszámolható kiadások összegének legalább 75%-át teljesíti, a kifizetési határozattal jóváhagyott támogatás kumulált összegét 20%-kal csökkenteni kell. Ha kifizetési kérelem alapján eljárás van folyamatban, úgy az annak során, a kapcsolódó ellenőrzések alapján jóváhagyható támogatás összegét is figyelembe kell venni a kumulált összeg megállapításánál.
+
+(2a)[^12] Ha az ügyfél az utolsó kifizetési kérelem alapján sem éri el a támogatási határozattal jóváhagyott elszámolható kiadások összegének legalább 75%-át,
+
+a) úgy az MVH a kérelmet határozattal elutasítja, amennyiben kifizetési kérelem alapján eljárás van folyamatban, és
+
+b) külön határozatban az MVH a támogatási határozatát visszavonja, ezzel egyidejűleg a kifizetett támogatás vonatkozásában az intézkedésben való jogosulatlan részvételről döntést hoz.
 
 (3) Beruházási támogatás esetén a feltételek teljesítésének hiányában az MVH a kifizetési kérelemnek a nem megfelelés által érintett részét elutasítja.
 
@@ -23,3 +29,6 @@ b) a jogerős támogatási határozatban megállapított támogatás 2%-ával cs
 (9) Ha a hatósági ellenőrzés során megállapítást nyer, hogy az ügyfél a beruházási kötelezettségének nem az MVH részére másolatban benyújtott építési engedély, illetve a tervdokumentáció szerint tett eleget, a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
 (10) Ha az ügyfél a támogatási kérelemben vállalt – a pontozási szempontok közt feltüntetett – munkavállalói létszámnál kevesebbet foglalkoztat az üzemeltetési kötelezettség időtartama alatt, akkor köteles a támogatási összegből – hiányzó munkavállalónként évente – a kifizetett támogatási összeg 1%-át, de legalább 250 000 forintot visszafizetni, ha a támogatási kérelemben szereplő munkavállalóilétszám-vállalás szinten tartásra vagy bővítésre irányul.
+
+[^11]: A 25. § (2) bekezdése a 88/2011. (IX. 2.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 25. § (2a) bekezdését a 88/2011. (IX. 2.) VM rendelet 3. § (2) bekezdése iktatta be.

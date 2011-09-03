@@ -1,4 +1,4 @@
-## 26/A. §[^8] E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosításáról szóló 48/2010. (XII. 31.) VM rendelettel megállapított rendelkezéseit kizárólag azon ügyekben kell alkalmazni, amelyekben az ügyfelekkel az elsőfokú támogatási határozatot 2010. november 30-át követően közölték.
+## 26/B. §[^14] E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 88/2011. (IX. 2.) VM rendelettel (a továbbiakban: 88/2011. (IX. 2.) VM rendelet) megállapított 25. § (2) és (2a) bekezdését a 88/2011. (IX. 2.) VM rendelet hatálybalépésekor[^15] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -102,4 +102,5 @@ Melléklet a 144/2009. (XI. 6.) FVM rendelethez
 
 |  | 74.87.16.5 | Környezetvédelmi szakmai tervezés, szakértés | 6% | 6 000 000 |
 
-[^8]: A 26/A. §-t a 48/2010. (XII. 31.) VM rendelet 4. §-a iktatta be.
+[^14]: A 26/B. §-t a 88/2011. (IX. 2.) VM rendelet 4. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2011. szeptember 3.

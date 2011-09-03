@@ -10,8 +10,8 @@ b) gépberuházás esetén olyan gépre, technológiai berendezésre, amely szer
 
 (4) A támogatással érintett ingatlannak a támogatási kérelem benyújtásakor per- és igénymentesnek kell lennie. Ettől eltérően a támogatással érintett ingatlant az ügyfél nevére szóló elővásárlási jog, az önkormányzatot megillető visszavásárlási jog, a banki jelzálogjoghoz kapcsolódó vételi jog terhelheti.
 
-(5)[^6] A támogatott műveletet legkésőbb 2011. december 31-ig meg kell valósítani.
+(5)[^9] A támogatott műveletet legkésőbb 2011. december 31-ig meg kell valósítani.
 
 (6) Ha az ügyfél úgy dönt, hogy nem valósítja meg a beruházást, köteles ezt a jogerős támogatási határozat kézhezvételét követő negyvenöt munkanapon belül teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában az MVH részére bejelenteni, és a támogatás egészéről lemondani.
 
-[^6]: A 15. § (5) bekezdése a 48/2010. (XII. 31.) VM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 15. § (5) bekezdése a 48/2010. (XII. 31.) VM rendelet 3. §-ával megállapított szöveg.
