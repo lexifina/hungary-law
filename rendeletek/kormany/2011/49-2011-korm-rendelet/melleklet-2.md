@@ -106,7 +106,7 @@
 
 | 51. Vajdasági Magyar Pedagógusok Egyesülete | anyanyelvápolás, pedagógus továbbképzés, gyermek táborok és tanulmányi vetélkedők | 4 000 000 | X. fejezet 15.4.1. Határon túli magyarok oktatási programjainak támogatása |
 
-| 52. Bácskossuthfalvi Református Egyházközség, Napsugár Óvoda | működési költségekhez való hozzájárulás, bérek és járulékok | 2 000 000 | X. fejezet 15.4.2 Nemzetpolitikai tevékenység támogatása |
+| 52. Bácskossuthfalvi Református Egyházközség | A Napsugár Református Óvoda működési költségeinek támogatása, bérek és járulékok | 2 000 000 | X. fejezet 15.4.3 Nemzet- politikai tevékenység támogatása |
 
 | 53. Felőri Református Egyházközség | Felőri Szórványkollégium: az építkezés befejezéséhez | 20 000 000 | X. fejezet 15.4.2 Kedvezménytörvény alapján járó oktatási-nevelési támogatás, valamint a szórványoktatás és a csángó magyarok támogatása |
 
@@ -174,7 +174,7 @@
 
 | 85. Muravidéki Magyar Önkormányzati Nemzeti Közösség | Lendvai Információs iroda működési költségének támogatása | 6 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
-| 86. NIKE Sportegyesület | Sport programok támogatása határon túli magyar fiatalok számára | 10 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+| 86. NIKÉ Sportegyesület Magyar Sportakadémia | Sport programok támogatása határon túli magyar fiatalok számára | 10 000 000 | X. fejezet 15.25.1. Fejezeti általános tartalék |
 
 | 87. Pannónia Alapítvány | A Pannon RTV technikai felszerelése és működési költségei | 25 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
@@ -182,7 +182,7 @@
 
 | 89. Pro Civis Polgári Társulás | működési költségek, szaklapkiadás és programfinanszírozás | 20 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
-| 90. Református Diakónia Koordinációs Központ | szociális tevékenység | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
+| 90. Kárpátaljai Református Egyház | Diakónia Koordinációs Központ működési költségeinek támogatása | 2 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
 | 91. Szekeres László Alapítvány | Folyóirat- és lapkiadás támogatása | 25 000 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
