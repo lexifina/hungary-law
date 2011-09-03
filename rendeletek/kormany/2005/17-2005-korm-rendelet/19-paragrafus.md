@@ -1,9 +1,3 @@
-## A kibocsátó, az adatkezelő és a kiadó intézmény
+## Az adatkezelő és a kiadó intézmény által vezetett nyilvántartás[^72]
 
-## által vezetett nyilvántartás
-
-## 19. § A kibocsátó nyilvántartást vezet, amely tartalmazza
-
-a) a diákigazolványok sorszámát,
-
-b) a diákigazolványon lévő adatokat (a fényképet és az aláírást kivéve).
+[^72]: A 19. §-t megelőző alcím a 180/2011. (IX. 2.) Korm. rendelet 19. §-ával megállapított szöveg.

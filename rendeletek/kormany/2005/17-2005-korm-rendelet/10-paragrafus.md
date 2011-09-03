@@ -1,11 +1,18 @@
-10. § (1) Az igényelt állandó diákigazolvány kiadásáig a tanuló, illetve hallgató kérésére ideiglenes diákigazolványt kell kiadni. Az ideiglenes diákigazolvány igazolja a 2. § (1) bekezdésében foglaltakat.
+10. § (1)[^32] Az igényelt állandó diákigazolvány kiadásáig a tanuló, hallgató kérésére ideiglenes diákigazolványt kell kiadni. Az ideiglenes diákigazolvány igazolja a 2. § (1) bekezdésében foglaltakat.
 
-(2) Az ideiglenes diákigazolvány kiadásának feltétele, hogy a tanuló, illetve hallgató az állandó diákigazolványt igényelje.
+(2)[^33] Az ideiglenes diákigazolvány kiadásának feltétele, hogy a tanuló, hallgató az állandó diákigazolványt igényelje.
 
-(3) A kiadó intézmény a diákigazolványra jogosult tanulónak, illetve hallgatónak állandó diákigazolvány igénylése nélkül is ideiglenes diákigazolványt ad ki,
+(3)[^34] A kiadó intézmény a diákigazolványra jogosult tanulónak, hallgatónak állandó diákigazolvány igénylése nélkül is ideiglenes diákigazolványt ad ki,
 
-a) ha az állandó diákigazolvány nem tartalmazza az oktatás, illetve a gyakorlati képzés tényleges helyszínét (ebben az esetben a helyszínt a személyi lapon kell feltüntetni),
+a)[^35] ha az állandó diákigazolvány nem tartalmazza az oktatás, a gyakorlati képzés tényleges helyszínét (ebben az esetben a helyszínt a személyi lapon kell feltüntetni),
 
-b) az 1. § (1) bekezdésének a)–b) pontjában meghatározott intézmény nem magyar állampolgárságú tanulójának, illetve hallgatójának, ha 12 hónapnál rövidebb időtartamra szóló ösztöndíjjal folytatja tanulmányait,
+b)[^36] az 1. § (1) bekezdésének a)–b) pontjában meghatározott intézmény nem magyar állampolgárságú tanulójának, hallgatójának, ha 12 hónapnál rövidebb időtartamra szóló ösztöndíjjal folytatja tanulmányait,
 
-c) – a 23. § (2) bekezdésében foglaltak mellett – annak a tanulónak, illetve hallgatónak, aki tanulói, illetve hallgatói jogviszonyának megszűnését követően, de a diákigazolvány érvényességi idejének lejárata előtt elveszíti diákigazolványát, vagy diákigazolványa a jogosultságok igazolására alkalmatlanná válik. Ebben az esetben a személyi lapon az intézmény és a tagozat rovatot a tanuló, illetve hallgató előző állandó diákigazolványa alapján kell kitölteni.
+c)[^37] – a 23. § (2) bekezdésében foglaltak mellett – annak a tanulónak, hallgatónak, aki tanulói, hallgatói jogviszonyának megszűnését követően, de a diákigazolvány érvényességi idejének lejárata előtt elveszíti diákigazolványát, vagy diákigazolványa a jogosultságok igazolására alkalmatlanná válik. Ebben az esetben a személyi lapon az intézmény és a munkarend rovatot a tanuló, hallgató előző állandó diákigazolványa alapján kell kitölteni.
+
+[^32]: A 10. § (1) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 10. § (2) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^34]: A 10. § (3) bekezdés nyitó szövegrésze a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 10. § (3) bekezdés a) pontja a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 10. § (3) bekezdés b) pontja a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^37]: A 10. § (3) bekezdés c) pontja a 180/2011. (IX. 2.) Korm. rendelet 25. § (1) bekezdés b) pontja és 25. § (7) bekezdés a) pontja szerint módosított szöveg.

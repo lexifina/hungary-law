@@ -1,24 +1,32 @@
-## 5. § A diákigazolvány kibocsátója az oktatási miniszter (a továbbiakban: kibocsátó). A kibocsátó gondoskodik a diákigazolvány kiadására jogosult intézmények (a továbbiakban: kiadó intézmény) listájának az adatkezelő rendelkezésére bocsátásáról.
+## 5. §[^21]
 
-6. § (1)[^4] A diákigazolvány adatait az Oktatási Hivatal kezeli.
+6. §[^22] (1) A diákigazolvány igénylésével összefüggő adatokat az adatkezelő kezeli.
 
-(2)[^5] Az Oktatási Hivatal feladata:
+(2) Az adatkezelő feladata:
 
-a) a kiadó intézmények nyilvántartásának vezetése,
+a) a diákigazolvány kiadására jogosult intézmények (a továbbiakban: kiadó intézmény), adatfeldolgozók és a gyártó számára a diákigazolvány igénylések nyomon követésére alkalmas nyilvántartás biztosítása, az egyes munkafolyamatok felügyelete,
 
-b) a kiadott diákigazolványokról a 20. § (1) bekezdésében meghatározott nyilvántartás vezetése,
+b) a kiadó intézmények által megküldött diákigazolvány igények gyártóhoz történő továbbítása,
 
-c) a diákigazolvány, az érvényesítő matrica és az egyéb nyomtatványok kiadó intézményhez határidőben történő eljuttatásának biztosítása,
+c) a kiadott diákigazolványok érvényességéről, érvénytelenségéről nyilvántartás vezetése,
 
-d) a diákigazolványon szereplő személyes adatok kezelése,
+d) a diákigazolvány, az érvényesítő matrica és az egyéb nyomtatványok kiadó intézményhez határidőben történő eljuttatásának biztosítása,
 
-e) a diákigazolvány igazgatási szolgáltatási díjának kezelése és nyilvántartása,
+e) a diákigazolványon szereplő személyes adatok kezelése,
 
-f) a diákigazolvánnyal kapcsolatos tájékoztatás biztosítása,
+f) a diákigazolvány igazgatási szolgáltatási díjának kezelése és nyilvántartása,
 
-g) a diákigazolványhoz kapcsolódó kedvezmények nyújtóinak a diákigazolványok érvényességére vonatkozó tájékoztatás,
+g) a diákigazolvánnyal kapcsolatos tájékoztatás biztosítása,
 
-h) a fenti feladatok ellátásához szükséges fejlesztések megvalósítása, különösen az ezekhez kapcsolódó elektronikus rendszerek kialakítása.
+h) a diákigazolványhoz kapcsolódó kedvezmények nyújtóinak a diákigazolványok érvényességére vonatkozó tájékoztatás,
 
-[^4]: A 6. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
-[^5]: A 6. § (2) bekezdésének bevezető szövegrésze a 372/2007. (XII. 23.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
+i) a diákigazolvány érvényességével vagy érvénytelenségével kapcsolatos hatósági ügyekben eljárni,
+
+j) panaszügyek kivizsgálása, intézkedés,
+
+k) a fenti feladatok ellátásához szükséges fejlesztések megvalósítása, különösen az ezekhez kapcsolódó elektronikus rendszerek kialakítása.
+
+l) az a)–k) pontba tartozó hatósági feladatok és szolgáltatások folyamatainak minőségfejlesztése, minőségbiztosítása.
+
+[^21]: Az 5. §-t a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: A 6. § a 180/2011. (IX. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

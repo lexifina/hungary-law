@@ -1,21 +1,32 @@
-## 7. § Az adatkezelő a 6. § (2) bekezdésében előírt feladatai ellátása érdekében adatfeldolgozót vehet igénybe. Az adatfeldolgozó a diákigazolványok fizikai előállításával és egyéb feladatokkal megbízott jogi személy, melynek feladata az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése az adatkezelő előírásai alapján.
-
 8. § (1) A kiadó intézmények:
 
-a) A közoktatási diákigazolvány kiadása a közoktatásról szóló törvény 20. §-a (1) bekezdésének b)–f) pontjában meghatározott oktatási intézmény, a közoktatásról szóló törvény 30. § (6) bekezdésében meghatározott képzési kötelezettség esetén a szakértői és rehabilitációs bizottság, illetve az országos szakértői és rehabilitációs tevékenységet ellátó szerv feladata.
+a)[^24] A közoktatási diákigazolvány esetében a közoktatásról szóló törvény szerinti iskolai feladatot ellátó intézmény.
 
 b) A felsőoktatási diákigazolvány kiadása a felsőoktatásról szóló törvény 1. számú mellékletében szereplő intézmény feladata.
 
-c) A nem magyar intézményben tanuló magyar állampolgárságú tanuló, illetve hallgató diákigazolványát a kibocsátó, az 1. § (1) bekezdésének d) pontjában meghatározott jogosultak diákigazolványát a fogadó intézmény adja ki.
+c)[^25] A nem magyar oktatási intézményben tanuló magyar állampolgárságú tanuló, hallgató diákigazolványát az adatkezelő, az 1. § (1) bekezdésének d) pontjában meghatározott jogosultak diákigazolványát a fogadó intézmény adja ki.
+
+(1a)[^26] A hallgatónak – figyelemmel a (2) bekezdésben foglaltakra – egyidejűleg egy érvényes állandó diákigazolványa lehet.
 
 (2) Több felsőoktatási intézménnyel való egyidejű jogviszony esetén a hallgató diákigazolványát az az intézmény adja ki, amellyel elsőként létesített jogviszonyt. A hallgató azonban saját költségén kérheti új diákigazolvány kiállítását, amelyen azon intézmény kerül feltüntetésre, amellyel későbbi időpontban került hallgatói jogviszonyba.
 
-(3) A kiadó intézmény:
+(2a)[^27] A tanulónak egyidejűleg egy érvényes állandó diákigazolványa lehet. Többes tanulói jogviszony esetén a diákigazolványt az az iskola adja ki, ahol a tanuló a tankötelezettségét teljesíti. Ennek hiányában a kiadó intézmények sorrendjét az oktatás munkarendje (nappali, esti, levelező, sajátos) határozza meg.
 
-a) a kiadott diákigazolványokról a 21. §-ban foglaltak szerint nyilvántartást vezet,
+(2b)[^28] Új diákigazolvány akkor igényelhető, ha az előző diákigazolvány érvényét vesztette. Érvényét veszti a diákigazolvány, ha az elveszett, megsemmisült, megrongálódott vagy lejárt az érvényességi ideje vagy a diákigazolványon szereplő adatokban változás következett be.
 
-b) a diákigazolványokat és az érvényesítő matricát biztonságosan, elzárva tárolja,
+(3)[^29] A kiadó intézmény:
 
-c) részt vesz a diákigazolványok igénylésében,
+a) a kiadott és bevont diákigazolványokról, a kiadott érvényesítő matricákról az Oktatási Hivatal által meghatározott módon adatot közöl a diákigazolvány igénylésének egyes folyamataival kapcsolatban,
 
-d) érvényesíti és bevonja a diákigazolványokat.
+b) az át nem adott diákigazolványokat és a fel nem használt érvényesítő matricát biztonságosan, elzárva tárolja,
+
+c) részt vesz a diákigazolványok igénylésében, átadásában, az igazgatási szolgáltatási díjának kezelésében,
+
+d) érvényesíti a használatban lévő, és bevonja az érvénytelen diákigazolványokat.
+
+[^24]: A 8. § (1) bekezdés a) pontja a 180/2011. (IX. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^25]: A 8. § (1) bekezdés c) pontja a 180/2011. (IX. 2.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^26]: A 8. § (1a) bekezdését a 180/2011. (IX. 2.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^27]: A 8. § (2a) bekezdését a 180/2011. (IX. 2.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^28]: A 8. § (2b) bekezdését a 180/2011. (IX. 2.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^29]: A 8. § (3) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.

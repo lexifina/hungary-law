@@ -1,6 +1,6 @@
 ## A diákigazolvány díja
 
-22. § (1) A diákigazolványért a tanuló, illetve hallgató igazgatási szolgáltatási díjat fizet az állandó diákigazolvány megrendelésekor az e rendeletben előírt módon. A díj tartalmazza az általános forgalmi adót. Az e rendelet hatálybalépését követően igényelt
+22. § (1)[^81] A diákigazolványért a tanuló, hallgató igazgatási szolgáltatási díjat fizet az állandó diákigazolvány megrendelésekor az e rendeletben előírt módon. Az e rendelet hatálybalépését követően igényelt
 
 a) állandó közoktatási diákigazolvány díja 550 forint,
 
@@ -10,14 +10,21 @@ b) állandó felsőoktatási diákigazolvány díja 1600 forint.
 
 (3) A térítési díj az állandó közoktatási diákigazolvány esetében 360 forint, az állandó felsőoktatási diákigazolvány esetében 1360 forint, amely az adatfeldolgozó bevételét képezi.
 
-(4) Az állandó diákigazolvány térítési díját az adatfeldolgozó által elküldött, a kiadó intézmény által írásban elismert diákigazolványok után kiállított számla alapján történő utalással fizeti meg az adatkezelő az adatfeldolgozó részére.
+(4)[^82] Az állandó diákigazolvány térítési díját az adatkezelő a legyártott és a kiadó intézmény által elismert és kifizetett diákigazolványok után, a gyártó által kiállított számla alapján történő utalással fizeti meg a (3) bekezdés szerint a gyártó részére.
 
-(5) Az állandó diákigazolvány eljárási díjából diákigazolványonként 70 forint a kiadó intézmény bevétele, amelyet az adatkezelő átutalással fizet meg a kiadó intézmény részére a diákigazolvány kiadó intézménybe történő kiszállítását követő 60 napon belül, a fennmaradó rész az adatkezelő bevételét képezi.
+(5)[^83] Az állandó diákigazolvány eljárási díjából diákigazolványonként 70 forint a kiadó intézmény bevétele, amelyet az adatkezelő a 13. § (1) és a 13/B bekezdésben meghatározott esetben átutalással fizet meg a kiadó intézmény részére, az adatkezelő tájékoztatása alapján kiállított számla beérkezését követő 60 napon belül. A fennmaradó rész az adatkezelő bevételét képezi. Egyéb esetben az adatkezelő a kiadó intézmény által egyszerre elektronikusan továbbított e-igénylések adatkezelőhöz érkezését követő 10 napon belül a diákigazolványok eljárási díjainak 70 forinttal csökkentett részéről összesített számlát állít ki, és küldi meg a kiadó intézmény részére, melyet a kiadó intézmény 10 napon belül köteles kiegyenlíteni. Az adatkezelő a diákigazolványok előállítását a számla kiadó intézmény általi kiegyenlítését követően kezdi meg.
 
-(6) Az ideiglenes műanyag kártya díja azonos az állandó közoktatási diákigazolvány térítési díjával, míg a személyi lap díja az állandó közoktatási diákigazolvány térítési díjának 25%-ával. A jelen bekezdésben meghatározott díjak az adatfeldolgozó bevételét képezik, amelyet a kiadó intézmény fizet meg átutalással az adatfeldolgozó részére.
+(6)[^84] Az ideiglenes műanyag kártya díja azonos az állandó közoktatási diákigazolvány térítési díjával, míg a személyi lap díja az állandó közoktatási diákigazolvány térítési díjának 25%-ával. A jelen bekezdésben meghatározott díjak a gyártó bevételét képezik, amelyet a kiadó intézmény fizet meg átutalással az adatfeldolgozó részére.
 
-(7) A tanuló, illetve hallgató az ideiglenes műanyag kártya igénylése esetén a (6) bekezdésben meghatározott díj 75%-át, a személyi lap esetén a (6) bekezdésben meghatározott díj 100%-át köteles megfizetni a kiadó intézmény részére.
+(7)[^85] A tanuló, hallgató az ideiglenes műanyag kártya igénylése esetén a (6) bekezdésben meghatározott díj 75%-át, a személyi lap esetén a (6) bekezdésben meghatározott díj 100%-át köteles megfizetni a kiadó intézmény részére.
 
 (8) A jelen §-ban szabályozott díjakat az a szervezet kezeli, amelynek bevételét a díj képezi.
 
-(9) A jelen §-ban szabályozott díjak az igénylés elutasítása, illetve visszavonása esetén nem kerülnek visszafizetésre a tanuló, illetve hallgató részére. A jelen §-ban szabályozott díjak tekintetében egyebekben az illetékekről szóló 1990. évi XCIII. törvény 28. §-ának (3) bekezdését, 31. §-ának (7) bekezdését, valamint 86. §-át megfelelően alkalmazni kell.
+(9)[^86] A jelen §-ban szabályozott díjak az igénylés elutasítása, visszavonása esetén nem kerülnek visszafizetésre a tanuló, hallgató részére. A jelen §-ban szabályozott díjak tekintetében egyebekben az illetékekről szóló 1990. évi XCIII. törvény 28. §-ának (3) bekezdését, 31. §-ának (7) bekezdését, valamint 86. §-át megfelelően alkalmazni kell.
+
+[^81]: A 22. § (1) bekezdés nyitó szövegrésze a 180/2011. (IX. 2.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^82]: A 22. § (4) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^83]: A 22. § (5) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^84]: A 22. § (6) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 25. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^85]: A 22. § (7) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^86]: A 22. § (9) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés a) pontja szerint módosított szöveg.
