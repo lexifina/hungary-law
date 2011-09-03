@@ -1,0 +1,13 @@
+## 4. Képzés
+
+4. § (1) A közúti járművezetők képzését a tevékenység végzésére engedéllyel rendelkező szakoktató végezheti, valamint a közúti közlekedési szakemberek képzésében, továbbképzésében oktatóként az adott szakterületre vonatkozó jogszabályban meghatározott képesítéssel rendelkező személy vehet részt.
+
+(2) A szakoktató és az iskolavezető a tevékenységét abban az esetben folytathatja, ha évente továbbképzésen vesz részt és sikeres vizsgát tesz.
+
+(3) Az elméleti képzés tanteremben vagy zárt rendszerű elektronikus távoktatással végezhető.
+
+(4) Képzésre az vehető fel, aki a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben (a továbbiakban: képzési rendelet) meghatározott feltételeknek megfelel.
+
+(5) A (4) bekezdésben foglaltakon túlmenően a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló tanfolyamra az vehető fel, aki a Kt. szerinti alapfokú iskolai végzettséget megszerezte. Az alapfokú iskolai végzettség meglétét a képzési rendeletben meghatározott módon kell igazolni.
+
+(6) Az engedéllyel rendelkező, névjegyzékben szereplő szakoktatók részére a közlekedési hatóság igazolványt állít ki.

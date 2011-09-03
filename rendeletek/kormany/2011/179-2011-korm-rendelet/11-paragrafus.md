@@ -1,0 +1,1 @@
+## 10. § Az e rendelet hatálybalépése előtt kiadott képzési engedély alapján – a képzési rendeletben foglaltak szerint – az ország egész területén végezhető gyakorlati, valamint tantermi elméleti oktatás.
