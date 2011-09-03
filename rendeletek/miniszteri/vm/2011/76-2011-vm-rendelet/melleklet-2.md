@@ -36,7 +36,7 @@
 
 | 5 | Tervadatok értékelése II. – A vállalkozás 1 főre jutó árbevételének a vizsgálata | Ha a vállalkozás 1 főre jutó árbevételének az ELÁBÉ és a közvetített szolgáltatások értékével csökkentett része a támogatási kérelem benyújtását követő 5. évre nézve a bázis évhez képest: | 4 pont |
 
-|  |  | – ha több mint 5%-kal bővül, 1 pont, |  |
+|  |  | – ha kevesebb mint 5%-kal bővül, 1 pont, |  |
 
 |  |  | – ha 5% és 10% közötti értékkel bővül, 2 pont, |  |
 

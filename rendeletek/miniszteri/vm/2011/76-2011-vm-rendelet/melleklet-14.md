@@ -203,39 +203,3 @@
 Értékelési szempontok
 
 I. Szakmai szempontok
-
-|  |  | A | B | C |
-
-|  | 1. | Értékelési szempont megnevezése | Értékelés alapját képező dokumentumok | Értékeléshez rendelhető pontszám |
-
-|  | 2. | 1. A fejlesztés kapcsolódik az ügyfél által működtetett már meglévő turisztikai szolgáltatáshoz | Támogatási kérelem |  |
-
-|  | 3. | Igen |  | 10 pont |
-
-|  | 4. | Nem |  | 5 pont |
-
-|  | 5. | 2. Az ügyfél a fejlesztéséhez az üzemeltetési időszak alatt helyi vagy regionális turisztikai látványosságok, hagyományos tevékenységek bemutatását kapcsolja, máshol vagy más tulajdonában álló értékek közül legalább egyet programként tervez bemutatni, vagy hagyományos tevékenységek bemutatását kapcsolja, amelyet megjelenít a fejleszteni kívánt szolgáltatásához kapcsolódó marketing anyagokban | Programterv vagy együttműködési megállapodás (az MVH által rendszeresített formanyomtatványon) |  |
-
-|  | 6. | Rendelkezik Programtervvel és releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 15 pont |
-
-|  | 7. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással, és legalább 4 különböző fél eltérő értékeit mutatja be |  | 10 pont |
-
-|  | 8. | Rendelkezik Programtervvel vagy releváns együttműködési megállapodással |  | 5 pont |
-
-|  | 9. | Nem rendelkezik sem Programtervvel, sem együttműködési megállapodással |  | 0 pont |
-
-|  | 10. | 3. Az ügyfél tagja valamely országos jelentőségű turisztikai szervezetnek, vagy olyan országos szervezetnek, amely szorosan kapcsolódik a tervezett fejlesztendő tevékenységhez | Támogatási kérelem és a turisztikai szervezet által kiállított igazolás |  |
-
-|  | 11. | – Igen |  | 10 pont |
-
-|  | 12. | – Nem |  | 0 pont |
-
-|  | 13. | 4. Az ügyfél tagja valamely helyi Turisztikai Desztináció Menedzsment (TDM) szervezetnek: | Helyi TDM igazolása |  |
-
-|  | 14. | – Igen |  | 5 pont |
-
-|  | 15. | – Nem |  | 0 pont |
-
-|  | 16. | Összesen legfeljebb: |  | 40 pont |
-
-II. Horizontális szempontok

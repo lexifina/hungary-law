@@ -48,7 +48,7 @@
 
 23. önálló tevékenységet végző magánszemély: a mezőgazdasági őstermelő, és a művészeti tevékenységet folytató magánszemélyek egyes költségeiről szóló rendeletben felsorolt tevékenységet végző, művészeti tevékenységet folytató magánszemély;
 
-24. pályázati felhívás: az e rendelet alapján igénybe vehető támogatások feltételeit tartalmazó, legkésőbb a benyújtási időszak első napját megelőző 60. napon, külön IH közleményben közzétett pályázati felhívás, amely tartalmazza a LEADER HACS által az illetékességi területéről benyújtott projektjavaslatokra vonatkozó, a HBB döntésének alapjául szolgáló illeszkedési kritériumokat, valamint a támogatás igénybevételének részletes feltételeit szabályozó célterület katalógust;
+24.[^1] pályázati felhívás: e rendelet alapján igénybe vehető támogatások feltételeit tartalmazó, legkésőbb a benyújtási időszak első napját megelőző 60. napon, külön IH közleményben közzétett pályázati felhívás, amely tartalmazza a LEADER HACS által az illetékességi területéről benyújtott projektjavaslatokra vonatkozó, a HBB vagy LEADER HACS címmel rendelkező ügyfél esetében az IH döntésének alapjául szolgáló illeszkedési kritériumokat, valamint a támogatás igénybevételének részletes feltételeit szabályozó célterület katalógust;
 
 25. projekt: a 2. § (1) bekezdésében meghatározott jogcímek és a pályázati felhívásban meghatározott feltételek alapján megvalósításra kerülő fejlesztés, beruházás, vagy tevékenység, amely a LEADER HACS által kialakított célterületekben foglalt fejlesztési célok megvalósulásához járul hozzá;
 
@@ -62,6 +62,11 @@
 
 30. vidéki térség: azoknak a 12. melléklet szerinti 10 000 főnél kevesebb lakosú vagy a 120 fő/km2-nél alacsonyabb népsűrűségű településeknek a köre, valamint azok a 13. melléklet szerinti települések tanyás jellegű külterületei és részönkormányzatai (a budapesti agglomerációhoz tartozó települések kivételével), amelyek megfelelnek az ÚMVP IV. tengely LEADER jogcímben foglaltaknak;
 
-31. vonalas létesítmény: eső- és szennyvízelvezető, eső- és szennyvízgyűjtő, csatorna és árok, külső telekommunikációs hálózat, beleértve a csatlakozási pontot is.
+31. vonalas létesítmény: eső- és szennyvízelvezető, eső- és szennyvízgyűjtő, csatorna és árok, külső telekommunikációs hálózat, beleértve a csatlakozási pontot is;
+
+32.[^2] IH eljárás: LEADER HACS címmel rendelkező ügyfél esetében az ügyfél által benyújtott projektjavaslatok HVS-hez való illeszkedésének vizsgálata érdekében lefolytatott eljárás;
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), valamint az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés 24. pontja a 88/2011. (IX. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 32. pontját a 88/2011. (IX. 2.) VM rendelet 5. § (2) bekezdése iktatta be.

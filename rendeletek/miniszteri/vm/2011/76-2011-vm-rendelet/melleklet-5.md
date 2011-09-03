@@ -60,7 +60,7 @@
 
 ## cq) EMAS minőségirányítási rendszer bevezetése és tanúsíttatása;
 
-## d) tradicionális eszközbeszerzés: a hagyományos népi kultúra, szellemi örökség ápolásának bemutatásának érdekében a megismertetni kívánt időszakban készült, hagyományos, újonnan kereskedelmi forgalomban nem kapható gépek, eszközök, tárgyak.;
+## d)[^11] tradicionális eszközbeszerzés: hagyományos, újonnan kereskedelmi forgalomban nem kapható gép, eszköz, tárgy beszerzése, amely a hagyományos népi kultúra, szellemi és tárgyi örökség ápolásának, bemutatásának céljából korhű formai jellegeket hordozóan és funkcionalitással készült;
 
 ## e) a fejleszteni kívánt tevékenységhez kötődő eszközök beszerzése;
 
@@ -89,3 +89,5 @@
 ## j) arculati elemek (ÚMVP, EU és HACS logó).
 
 5. melléklet a 76/2011. (VII. 29.) VM rendelethez
+
+[^11]: A 4. melléklet d) pontja a 88/2011. (IX. 2.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

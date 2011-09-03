@@ -56,15 +56,15 @@ g) természetes személy ügyfél esetében a lakcímet igazoló hatósági igaz
 
 h) az értékeléshez a pályázati felhívásban meghatározott egyéb igazolásokat, nyilatkozatokat, dokumentumokat;
 
-i) a LEADER HACS HBB-je által kiállított, a pályázat HVS-hez való illeszkedését tanúsító nyilatkozatot;
+i)[^5] a LEADER HACS HBB-je – vagy LEADER HACS címmel rendelkező ügyfél esetében az IH – által kiállított, a pályázat HVS-hez való illeszkedését tanúsító nyilatkozatot;
 
 j) a LEADER HACS által a vonatkozó célterületben előírt csatolandó mellékleteket;
 
 k) vállalkozási alapú fejlesztés vonatkozásában mikro- kis- és középvállalkozás esetén nyilatkozat arról, hogy a megvalósítás helye szerint illetékes LEADER HACS területén a pályázati felhívás megjelenését legalább 3 hónappal – amennyiben az illetékes LEADER HACS a vonatkozó célterületben erről eltérően nem rendelkezik – megelőzően székhellyel, telephellyel vagy fiókteleppel rendelkezett.
 
-(9) A (8) bekezdés i) pontja szerinti tanúsító nyilatkozatot a HBB a pályázati felhívásban meghatározott eljárás alapján állítja ki a HVS illeszkedésről.
+(9)[^6] A (8) bekezdés i) pontja szerinti tanúsító nyilatkozatot a HBB – vagy LEADER HACS címmel rendelkező ügyfél esetében az IH – a pályázati felhívásban meghatározott eljárás alapján állítja ki a HVS illeszkedésről.
 
-(10) Az IH a HBB eljárás során alkalmazandó formanyomtatványokat IH közleményben a saját honlapján teszi közzé.
+(10)[^7] Az IH a HBB eljárás során, valamint LEADER HACS ügyfél esetén az IH eljárás során alkalmazandó formanyomtatványokat IH közleményben a saját honlapján teszi közzé.
 
 (11) Létesítő okirattal nem szükséges igazolni a közhasznú tevékenység ellátását
 
@@ -83,3 +83,7 @@ f) nonprofit szervezet
 vonatkozásában.
 
 (12) A pénzügyi terv az 1. melléklet szerinti pénzügyi pontozási szempontok alapján kerül értékelésre.
+
+[^5]: A 20. § (8) bekezdés i) pontja a 88/2011. (IX. 2.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: A 20. § (9) bekezdése a 88/2011. (IX. 2.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^7]: A 20. § (10) bekezdése a 88/2011. (IX. 2.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
