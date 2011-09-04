@@ -1,5 +1,0 @@
-## 9. § Az R2. a következő 25/A. §-sal egészül ki:
-
-## „25/A. § E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 88/2011. (IX. 2.) VM rendelettel (a továbbiakban: 88/2011. (IX. 2.) VM rendelet) megállapított 1. § (1) bekezdés 24. és 32. pontját, 3. § (3) és (4) bekezdését, 20. § (8) bekezdés i) pontját, (9) és (10) bekezdését, továbbá az 1. melléklet „Pénzügyi pontozási szempontok” „Természetes személy, mikro-, kis- és középvállalkozás esetében” című táblázat 5. sor „B” oszlopát, a 4. melléklet d) pontját és az 5. melléklet d) pontját a 88/2011. (IX. 2.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
-10. § Ez a rendelet a kihirdetését követő napon lép hatályba és a hatálybalépését követő napon hatályát veszti.

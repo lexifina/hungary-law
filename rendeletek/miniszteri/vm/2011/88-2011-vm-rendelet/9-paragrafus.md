@@ -1,1 +1,0 @@
-## „d) tradicionális eszközbeszerzés: hagyományos, újonnan kereskedelmi forgalomban nem kapható gép, eszköz, tárgy beszerzése, amely a hagyományos népi kultúra, szellemi és tárgyi örökség ápolásának, bemutatásának céljából korhű formai jellegeket hordozóan és funkcionalitással készült;”
