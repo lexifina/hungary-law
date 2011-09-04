@@ -1,5 +1,0 @@
-10. § (1) A támogatás felhasználását a minisztérium, valamint a külön jogszabályokban, a pályázati felhívásban, továbbá a támogatási szerződésben meghatározott szervek ellenőrizhetik. A kedvezményezett köteles minden, az ellenőrzéshez szükséges felvilágosítást és egyéb segítséget megadni.
-
-(2) A normatív, továbbá a XX. OKM fejezet 11. cím 39. alcím 1., 4., 5., 6. és 8. jogcímcsoportjáról nyújtott támogatások kivételével a megkötött támogatások számának minimum 5%-át érintően, de minden 100,0 millió forint feletti kötelezettségvállalás esetében a támogató helyszíni ellenőrzéssel is tájékozódik a támogatás felhasználásáról.
-
-(3) A támogató a beszámoltatás során köteles ellenőrizni, hogy a támogatás felhasználása során a kedvezményezett a közbeszerzésekről szóló 2003. évi CXXIX. törvény előírásait betartotta-e. Az ennek megállapításához szükséges dokumentumokat a kedvezményezett a közbeszerzési eljárás befejezését követően köteles a támogató részére benyújtani. A kedvezményezett számára e kötelezettséget a benyújtandó dokumentumok körének és a benyújtás határidejének meghatározásával a támogatási szerződésben kell előírni.
