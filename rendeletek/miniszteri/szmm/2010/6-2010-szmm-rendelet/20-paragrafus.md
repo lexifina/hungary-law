@@ -1,7 +1,0 @@
-20. § (1) A kötelezettségvállaló vagy az általa felhatalmazott szervezet vagy személy a beszámolót szakmai és pénzügyi szempontból ellenőrzi. A megítélt támogatás felhasználása során a kedvezményezett a támogatási szerződés mellékletét képező költségterv egyes költségvetési fősorain rögzített összegtől lefelé – a különbözetről szóló lemondó nyilatkozat egyidejű csatolásával – korlátlan mértékben eltérhet.
-
-(2) Amennyiben a támogatási szerződés lehetővé teszi, a kedvezményezett írásbeli indokolási kötelezettsége mellett a költségterv fősorain rögzített összegek a támogatás főösszegén belül túlléphetők, azonban a húsz százalékot meghaladó eltérés elfogadására csak szerződésmódosítás keretében kerülhet sor. A kedvezményezett a támogatási szerződés módosítását legkésőbb a támogatási szerződésben rögzített, hiánypótlás keretében sem túlléphető időpontig kezdeményezheti.
-
-(3) A kötelezettségvállaló a beszámoló, részbeszámoló elfogadásáról, illetve az esetleges visszafizetési kötelezettségről a támogatási szerződésben rögzített határidőn belül írásban értesíti a kedvezményezettet.
-
-(4) A (rész)beszámoló benyújtási határidejének mulasztása esetén a kötelezettségvállaló írásban, határidő tűzésével felszólítja a kedvezményezettet kötelezettsége teljesítésére, amelynek mulasztása esetén a kötelezettségvállaló jogosult a szerződéstől elállni és a már folyósított támogatás összegét az elállásra vonatkozó szabályok szerint visszakövetelni.
