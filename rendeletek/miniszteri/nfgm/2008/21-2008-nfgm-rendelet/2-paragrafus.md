@@ -14,10 +14,12 @@ b) Pro Architectura-Díj a kiemelkedő építészeti alkotás (épület, épüle
 
 c) Kós Károly-Díj a helyi építészeti örökség védelme és az építészeti hagyományok őrzése területén kimagasló eredményt elért személyek és közösségek elismeréséül, Kós Károly születésnapja alkalmából – december 16-án –, évente 3 db díj természetes személy és 3 db díj közösség részére;
 
-d) Lechner Lajos-Díj az építésügyi igazgatásban – ideértve a településrendezést is – legalább tíz éve dolgozó köztisztviselő részére kimagasló szakmai tevékenység elismeréséül, a Köztisztviselők Napja alkalmából (július 1.) –, évente 6 db;
+d)[^1] Lechner Lajos-Díj az építésügyi igazgatásban – ideértve a településrendezést is – legalább tíz éve dolgozó köztisztviselő részére kimagasló szakmai tevékenység elismeréséül, az építészeti világnap alkalmából, minden év október első hétfőjén, évente 6 db;
 
 e) Palóczi Antal-Díj a településrendezés területén legalább 10 éven át végzett kimagasló – tervezői, oktatói, kutatói, főépítészi – tevékenység elismeréséül természetes személynek, illetőleg tervezőcsoportnak, az építészeti világnap alkalmából – október első hétfőjén –, évente 2 db.
 
 (6) A minisztérium feladat- és hatáskörébe tartozó területen eredményes, példamutató tevékenységet végzett személy szakmai elismerése céljából Miniszteri Elismerés adományozható a március 15-ei, az október 23-ai nemzeti ünnep, és a Köztisztviselők Napja (július 1.) alkalmából. Az elismerést évente 120 személy kaphatja meg.
 
 (7) Az elismerések leírását az 1. melléklet tartalmazza.
+
+[^1]: A 2. § (5) bekezdés d) pontja a 24/2011. (VII. 21.) BM rendelet 9. §-a szerint módosított szöveg.
