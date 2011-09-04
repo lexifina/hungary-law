@@ -1,3 +1,0 @@
-## „(8) A (3) bekezdés a) pontja szerinti esetben az első kiviteli támogatás igénybevételére az ügyfél nem jogosult arra a területre vonatkozóan, ahol a felújítási célállományba tartozó, a fő-és elegy fafajok együttes, a felújítási célállomány elegyarányának megfelelő elosztású újulata eléri 2. számú melléklet szerinti minimális csemeteszámot.
-
-## (9) Amennyiben az ügyfél a támogatást rész-erdőrészlet területén kívánja igénybe venni, úgy köteles a támogatott terület határainak állandósítását elvégezni. Amennyiben a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, úgy a terület töréspontjain EP felirattal ellátott szabványosított erdészeti határjeleket kell elhelyezni.”

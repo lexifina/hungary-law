@@ -1,1 +1,0 @@
-## „(3) A kérelmező a támogatási kérelem benyújtására nyitva álló időszakonként az ugyanazon erdészeti igazgatóság illetékessége alá tartozó területen károsodott valamennyi területre vonatkozólag csak egy támogatási kérelmet nyújthat be.”
