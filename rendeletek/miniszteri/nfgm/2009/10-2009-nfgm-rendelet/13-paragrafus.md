@@ -2,6 +2,8 @@
 
 13. § (1) A támogatási szerződést a támogatási döntésről szóló értesítés kézhezvételét követő 90 napon belül meg kell kötni. Amennyiben a szerződés megkötésére a kedvezményezett mulasztásából e határidőn belül nem kerül sor, a támogatási döntés érvényét veszti.
 
+(1a)[^11] A szakmai kamarai feladatokhoz, valamint hatósági végrehajtáshoz támogatás nyújtása utólagos elszámolás melletti előfinanszírozás (előleg vagy egyösszegű kifizetés) formájában történhet.
+
 (2) A támogatást nyújtó elállhat a szerződéstől, ha
 
 a) az Ámr. 87. § (4) bekezdésében meghatározott feltételek közül legalább egy bekövetkezik,
@@ -42,7 +44,7 @@ c) a támogatási döntéshozó kezdeményezése miatt
 
 (6) A támogatások folyósítására kizárólag a támogatási szerződés megkötését követően kerülhet sor.
 
-(7)[^6] A támogatás folyósítását megelőzően a pályázatkezelőnek – pályázaton kívüli támogatás esetén a támogatási igény elbírálásával a minisztérium gazdálkodási feladatokat ellátó szervének – vizsgálnia kell, hogy a kedvezményezett nem esik-e csődeljárás, felszámolási eljárás, végelszámolás, illetve önkormányzati adósságrendezési eljárás alá, munkaügyi kapcsolatai az Áht. előírásai szerint rendezettek-e, a Kincstártól és az adóhatóságtól kapott információk alapján nincs-e köztartozása. Ha törvény eltérően nem rendelkezik, a támogatás folyósításának felfüggesztését kell elrendelni csődeljárás esetén a csődegyezség megszületéséig, felszámolási és végelszámolási eljárás megindítása, illetve köztartozásról történő tudomásszerzés esetén.
+(7)[^12] A támogatás folyósítását megelőzően a pályázatkezelőnek – pályázaton kívüli támogatás esetén a támogatási igény elbírálásával a minisztérium gazdálkodási feladatokat ellátó szervének – vizsgálnia kell, hogy a kedvezményezett nem esik-e csődeljárás, felszámolási eljárás, végelszámolás, illetve önkormányzati adósságrendezési eljárás alá, munkaügyi kapcsolatai az Áht. előírásai szerint rendezettek-e, a Kincstártól és az adóhatóságtól kapott információk alapján nincs-e köztartozása. Ha törvény eltérően nem rendelkezik, a támogatás folyósításának felfüggesztését kell elrendelni csődeljárás esetén a csődegyezség megszületéséig, felszámolási és végelszámolási eljárás megindítása, illetve köztartozásról történő tudomásszerzés esetén.
 
 (8) A minisztérium
 
@@ -50,4 +52,5 @@ a) ellátja az ÉC bevételek és kiadások teljesülésének analitikus nyilvá
 
 b) minden hónapot követő 15. napig adatot szolgáltat a pályázatkezelőnek az ÉC bevételének és a kifizetések pénzügyi forgalmáról, a kötelezettségvállalásra rendelkezésre álló forrás összegéről.
 
-[^6]: A 13. § (7) bekezdése a 20/2009. (VIII. 14.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
+[^11]: A 13. § (1a) bekezdését a 24/2011. (VII. 21.) BM rendelet 8. § (3) bekezdése iktatta be. E módosító rendelet 7. § (2) bekezdése alapján a 2011. szeptember 4-ét követően kezdeményezett első fokú eljárásokban és bejelentésekben kell alkalmazni.
+[^12]: A 13. § (7) bekezdése a 20/2009. (VIII. 14.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
