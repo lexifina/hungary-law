@@ -1,3 +1,5 @@
 ## 16. § E rendelet 2008. szeptember 1-jén lép hatályba.
 
-17. § A testületi tagok számának a 2. § (2) bekezdése szerinti megemeléséről első ízben a rendelet hatálybalépését követő harminc napon belül lehet dönteni.
+17. §[^30]
+
+[^30]: A 17. §-t a 182/2011. (IX. 2.) Korm. rendelet 10. § (1) bekezdés d) pontja hatályon kívül helyezte.
