@@ -1,4 +1,4 @@
-8/D. §[^85] (1) Jogszabály eltérő rendelkezése hiányában a viszontgarancia-vállalásból származó beváltás esetén a jogosult – az e rendelet 3. számú melléklet szerinti igénylőlap felhasználásával – érvényesítheti az állami kötelezettségvállalásból eredő jogait az állami adóhatóságnál.
+8/D. §[^88] (1) Jogszabály eltérő rendelkezése hiányában a viszontgarancia-vállalásból származó beváltás esetén a jogosult – az e rendelet 3. számú melléklet szerinti igénylőlap felhasználásával – érvényesítheti az állami kötelezettségvállalásból eredő jogait az állami adóhatóságnál.
 
 (2) A viszontgarancia érvényesítésének feltétele, hogy a jogosult az általa megkötött kezesség- vagy garanciavállalási szerződésből eredő fizetési kötelezettségének jogszerűen eleget tett.
 
@@ -14,4 +14,4 @@
 
 (8) Az állami viszontgaranciák beváltásánál, valamint az állami viszontgarancia-érvényesítésből keletkezett, az állami viszontgarancia jogosultja által behajtott, de a központi költségvetésbe be nem fizetett követelés behajtásánál az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény szerint jár el.
 
-[^85]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.
+[^88]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.

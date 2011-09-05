@@ -16,10 +16,13 @@ f) türelmi idő hosszabbítás: az eredeti kölcsönszerződésben foglalt tür
 
 g) részletfizetés engedélyezése: lejárt tartozás részletekben történő kiegyenlítésének engedélyezése az aktuális fizetési kötelezettség teljesítése mellett,
 
-h) törlesztőrészlet fixálás: a törlesztő-részlet meghatározott időre történő rögzítése.
+h) törlesztőrészlet fixálás: a törlesztő-részlet meghatározott időre történő rögzítése,
+
+i)[^57] rögzített törlesztési árfolyam: a kölcsönszerződésnek a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvényben meghatározott gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés miatti módosítása.
 
 (3) A (2) bekezdés b)–h) pontjaiban foglalt fizetési könnyítésre akkor kerülhet sor, ha az eredeti kölcsönszerződések megkötése 2008. szeptember 30-át megelőzően történt.
 
 (4) A (1) bekezdés szerinti lakáscélú, kamattámogatásban részesülő kölcsön-szerződések esetében ügyleti kamatként legfeljebb a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: lakástámogatási rendelet) 2009. június 15-én hatályos 12. § (1) bekezdésének g) pontja alapján számított kamatot, illetve a 13. § (3) bekezdésében meghatározott kamattámogatással csökkentett (2) bekezdés szerinti ügyleti kamatot lehet figyelembe venni. Nem kamattámogatott kölcsön esetén az ügyleti kamat a kölcsönszerződésben foglalt, az adós részére meghatározott kamat.
 
 [^56]: A 6/A. §-t a 118/2009. (VI. 4.) Korm. rendelet 1. §-a iktatta be.
+[^57]: A 6/A. § (2) bekezdés i) pontját a 181/2011. (IX. 2.) Korm. rendelet 1. §-a iktatta be.
