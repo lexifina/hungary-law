@@ -2,7 +2,7 @@
 
 ## 1. Az előirányzat célja, kedvezményezettjei
 
-2. §[^1] (1) Az előirányzatból
+2. §[^2] (1) Az előirányzatból
 
 a) központi költségvetési szerv,
 
@@ -18,10 +18,12 @@ a) a kedvezményezett közfeladat-ellátásának módszereit, működését éri
 
 b) a kedvezményezett megszüntetésével összefüggő kiadások teljesítésére, és
 
-c) az (1) bekezdésben meghatározott szervezetek 2010. december 31-ig felhalmozott tartozásállományának és annak kamatainak rendezésére, csökkentésére, illetve megvásárlására
+c)[^3] az (1) bekezdésben foglalt szervezetek 2010. december 31-ig keletkezett tartozásállományának és annak kamatai, továbbá az (1) bekezdés c) és d) pontjában foglalt szervezetek 2010. december 31-ig keletkezett szerződéses kötelezettségvállalásai (a továbbiakban együtt: tartozásállomány) rendezésére, csökkentésére
 
 nyújtható.
 
-(3) A (2) c) pontban meghatározott esetben a támogatás nyújtásának nem feltétele, hogy a támogatást a tartozásállománnyal rendelkező szervezet kapja. Támogatás nyújtható azon szervezetek számára is, amelyek a tartozásállománnyal rendelkező szervezet tartozásállományának rendezését, csökkentését vagy megvásárlását részben vagy egészben vállalják. A támogatást ebben az esetben a kedvezményezettnek elkülönítetten kell kezelnie, és csak a tartozásállománnyal érintett szervezet korábbi tartozásállományának rendezésére, csökkentésére vagy megvásárlására fordíthatja.
+(3)[^4] A (2) bekezdés c) pontjában foglaltak alapján támogatás nyújtható azon kedvezményezett számára is, amely egy másik, tartozásállománnyal rendelkező (1) bekezdés szerinti szervezet tartozásállományának rendezését, csökkentését részben vagy egészben vállalja. A támogatást ebben az esetben a kedvezményezettnek elkülönítetten kell kezelnie, nyilvántartania, és azt kizárólag a (2) bekezdés c) pontjában, valamint a támogatási szerződésben foglalt célokra fordíthatja.
 
-[^1]: A 2. § a 93/2011. (VI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 93/2011. (VI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdés c) pontja a 184/2011. (IX. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdése a 184/2011. (IX. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
