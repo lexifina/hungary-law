@@ -32,7 +32,7 @@ ci) a számlatételének darabszámát, és
 
 d) a gazdasági aktáját vezető hegybíró nevét és elérhetőségét.
 
-(2) A támogatási kérelmet 2010. október 16. és 2011. március 31. között lehet benyújtani.
+(2)[^1]
 
 (3) Az agrárpolitikáért felelős miniszter a forráskimerülésről közleményt ad ki.
 
@@ -51,3 +51,5 @@ d) ha a gép használatbavétele, forgalomba helyezése, üzemeltetése engedél
 e) ha a gép használatba vétele nem saját tulajdonú, vagy más személy jogával terhelt ingatlanon valósul meg, az azt igazoló teljes bizonyító erejű okiratot a 3. melléklet szerint, amely alapján a kérelmező jogosult a műveletet megvalósítani, és az ingatlant az üzemeltetési kötelezettsége lejártáig használni; és
 
 f) idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói vagy tolmácsigazolvánnyal rendelkező személy által készített magyar nyelvű fordítást.
+
+[^1]: A 8. § (2) bekezdését a 83/2011. (VIII. 31.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
