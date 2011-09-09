@@ -1,32 +1,35 @@
-## 11. §[^27] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^35]
 
-1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^28]
+## Az egyszeri berepülési engedély iránti kérelem kötelező adattartalma
 
-## Az egyszeri berepülési engedély iránti kérelem adattartalma
+1. Nemzetiség / Nationality
 
-1. Nemzetiség / Nationality.
+2. A légijármű a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény 3. cikke szerinti polgári vagy állami jellegének megjelölése / Mark with a tick the civil or the state aspect of the aircraft according to article 3 of the Convention about the international civil aviation which was signed 7th December 1944, Chicago
 
-2. Lajstromjel és a légijármű típusa (ICAO útmutató alapján) / Registration and type of the aircraft (ICAO aircraft designator should be used).
+3. Lajstromjel és a légijármű típusa (ICAO kód szerint) / Registration and type of the aircraft (ICAO aircraft designator should be used)
 
-3. Hívójel(ek) / Radio call sign(s).
+4. Hívójel(ek) / Radio call sign(s)
 
-4. Indulási repülőtér és a számított fékkioldási idő (EOBT, világidőben, ICAO kód szerinti meghatározás) / Departure aerodrome and EOBT (UTC, ICAO aerodrome designator should be added).
+5. Indulási repülőtér és a számított fékoldási idő (ICAO kód szerinti meghatározás, számított fékoldási idő egyeztetett világidőben) / Departure aerodrome and EOBT (ICAO aerodrome designator should be used, EOBT in UTC)
 
-5. Dátum, időpont és a Budapest Repüléstájékoztató Körzetbe (FIR) történő belépési pont (világidőben) / Date, time and point of entry into Budapest FIR (UTC).
+6. A Budapest Repüléstájékoztató Körzetbe (FIR) történő belépés dátuma, időpontja (egyeztetett világidőben) és pontja / Date, time (UTC) and point of entry into Budapest FIR
 
-6. A Budapest Repüléstájékoztató Körzetben tervezett repülés útvonala / Route of flight within Budapest FIR.
+7. A Budapest Repüléstájékoztató Körzetben tervezett repülés útvonala / Planned route of flight within Budapest FIR
 
-7. Célrepülőtér (ICAO kód szerint) és a számított érkezési idő (ETA) (világidőben) / Destination aerodrome and ETA (UTC) (ICAO aerodrome designator should be added).
+8. Célrepülőtér (ICAO kód szerint) és a számított érkezési idő (ETA) (egyeztetett világidőben) / Destination aerodrome (ICAO aerodrome designator should be used) and ETA (UTC)
 
-8. A magyar repülőtérről történő indulás dátuma és időpontja (világidőben) / Date and time of departure from a Hungarian aerodrome (UTC).
+9. A magyar repülőtérről történő indulás dátuma és időpontja (egyeztetett világidőben) / Date and time of departure from the Hungarian aerodrome (UTC)
 
-9. A Budapest Repüléstájékoztató Körzetből történő kilépés dátuma, ideje és helye (világidőben) / Date, time and exit point from Budapest FIR (UTC).
+10. A Budapest Repüléstájékoztató Körzetből történő kilépés dátuma, időpontja (egyeztetett világidőben) és helye / Date, time (UTC) and exit point from Budapest FIR
 
-10. A repülés célja (veszélyes áruk esetén IATA kód szerint) / Purpose of the flight (Use IATA classification system if dangerous goods).
+11. A repülés célja / Purpose of the flight
 
-11. Megjegyzés / Remarks.
+12. Fegyver, lőszer, robbanóanyag vagy egyéb veszélyes anyag szállítása (veszélyes áruk esetén IATA kód szerint) / Transport of gun, ammunition, explosive material or dangerous goods (use IATA classification system if dangerous goods)
 
-12. A kérelmező aláírása / Signature of the applicant.
+13. A légijárművön található rádiótechnikai zavaró vagy felderítő, valamint optikai vagy földtani leképező berendezések megjelölése. Ezeknek az eszközöknek a Magyar Köztársaság területén történő használati szándéka / Electronic warfare and surveillance devices and optical or geographical photographic equipment on board. The purpose of the use of this devices within the Hungarian territory
 
-[^27]: A 11. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1295. pontja szerint módosított szöveg.
-[^28]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+14. Megjegyzés / Remarks
+
+15. A kérelmező aláírása / Signature of the applicant
+
+[^35]: Az 1. számú melléklet a 177/2011. (IX. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
