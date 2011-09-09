@@ -128,13 +128,17 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 50.[^47] a nemzeti légiközlekedés védelmi programok és a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) alapján nemzeti légiközlekedés-védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait, valamint a 2010/774/EU bizottsági határozat melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
 
-51.[^48] a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervek ellenőrzése.
+51.[^48] a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervek ellenőrzése,
 
-(6)[^49] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+52.[^49] a polgári célú légiközlekedés területén a repülésbiztonsági szervezet engedélyezése, felügyelete,
 
-(7)[^50] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő két hónap.
+53.[^50] független felügyeleti hatóságként gondoskodik a kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről szóló miniszteri rendeletben meghatározott hatósági feladatok végrehajtásáról.
 
-(8)[^51] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
+(6)[^51] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+
+(7)[^52] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő két hónap.
+
+(8)[^53] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
 
 a) légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
 
@@ -146,31 +150,31 @@ d) a 2042/2003/EK rendelet IV. melléklet 147. rész A. szakasz A. és B. alrés
 
 e) légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 
-f)[^52] a 300/2008/EK rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
+f)[^54] a 300/2008/EK rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
 
-g)[^53] a légiközlekedés védelmi események kivizsgálása,
+g)[^55] a légiközlekedés védelmi események kivizsgálása,
 
 h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
 
 i) repülőtér zajgátló védőövezetének kijelölése.
 
-(9)[^54] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+(9)[^56] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
-(10)[^55] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
+(10)[^57] Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.
 
-(11)[^56] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság tizenöt napon belül bocsátja ki a hiánypótlási felhívást.
+(11)[^58] Ha az (5) bekezdés 23. pontja szerinti eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság tizenöt napon belül bocsátja ki a hiánypótlási felhívást.
 
-(12)[^57] A szakhatósági állásfoglalást
+(12)[^59] A szakhatósági állásfoglalást
 
-a)[^58] repülőtér légiközlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban a szakhatósági állásfoglalást húsz napon,
+a)[^60] repülőtér légiközlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban a szakhatósági állásfoglalást húsz napon,
 
-b)[^59] a légiközlekedés védelmi tiszt és biztonsági vezető kijelölésének jóváhagyására irányuló eljárásban harminc napon,
+b)[^61] a légiközlekedés védelmi tiszt és biztonsági vezető kijelölésének jóváhagyására irányuló eljárásban harminc napon,
 
-c)[^60] nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert feladó és fedélzeti ellátmány meghatalmazott beszállítója minősítésére és jóváhagyására irányuló eljárásban harminc napon,
+c)[^62] nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert feladó és fedélzeti ellátmány meghatalmazott beszállítója minősítésére és jóváhagyására irányuló eljárásban harminc napon,
 
-d)[^61] repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv, valamint a Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban húsz napon,
+d)[^63] repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv, valamint a Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban húsz napon,
 
-e)[^62] a 300/2008/EK európai parlamenti és tanácsi rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 774/2010/EU bizottsági határozat 12. számú függeléke hatálya alá eső légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásában húsz napon
+e)[^64] a 300/2008/EK európai parlamenti és tanácsi rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 774/2010/EU bizottsági határozat 12. számú függeléke hatálya alá eső légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásában húsz napon
 
 belül kell kiadni.
 
@@ -201,17 +205,19 @@ belül kell kiadni.
 [^46]: Az 5. § (5) bekezdés 49. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
 [^47]: Az 5. § (5) bekezdés 50. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
 [^48]: Az 5. § (5) bekezdés 51. pontját a 175/2011. (VIII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^49]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^50]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^51]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^52]: Az 5. § (8) bekezdés f) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
-[^53]: Az 5. § (8) bekezdés g) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
-[^54]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^55]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
-[^56]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^57]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be.
-[^58]: Az 5. § (12) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^59]: Az 5. § (12) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^60]: Az 5. § (12) bekezdés c) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^61]: Az 5. § (12) bekezdés d) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^62]: Az 5. § (12) bekezdés e) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^49]: Az 5. § (5) bekezdés 52. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^50]: Az 5. § (5) bekezdés 53. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^51]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^53]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: Az 5. § (8) bekezdés f) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^55]: Az 5. § (8) bekezdés g) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^56]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^57]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
+[^58]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^59]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be.
+[^60]: Az 5. § (12) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^61]: Az 5. § (12) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^62]: Az 5. § (12) bekezdés c) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^63]: Az 5. § (12) bekezdés d) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^64]: Az 5. § (12) bekezdés e) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
