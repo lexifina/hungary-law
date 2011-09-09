@@ -1,0 +1,197 @@
+# A Kormány 185/2011. (IX. 9.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 104. szám, 2011. szeptember 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8282600dc655ee62740acc69885761897d76fdd6/dokumentumok/505b90e2f4d0ef94f20960747f9bfcfa24d51d44/letoltes)
+
+---
+
+A Kormány 185/2011. (IX. 9.) Korm. rendelete
+egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról
+A Kormány az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdés e) pontjában kapott
+felhatalmazás alapján,
+a 12. és 13. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában
+kapott felhatalmazás alapján,
+a 14. és 15. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés c) pontjában
+kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.)
+Korm. rendelet (a továbbiakban: Kr.) 1. §-a a következő (1b) bekezdéssel egészül ki:
+„(1b) E rendelet alkalmazásában többletkapacitásnak minősül a fekvőbeteg-szakellátást nyújtó egészségügyi
+szolgáltatóknak az előreláthatólag minőségileg magasabb szintű ellátást eredményező szervezeti, illetve funkcionális
+integrációja, amennyiben annak során nem jön létre az (1) és az (1a) bekezdés szerinti többletkapacitás, és az
+integráció megvalósítása – ideértve annak járulékos költségeit is – többletforrás-igénnyel jár.”
+2. §
+A Kr. 2/A. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az ellátási szerződés (4) bekezdés alapján történő megszűnése esetén az egészségügyi közszolgáltatásért felelős
+szerv erről a megszűnéstől számított öt napon belül tájékoztatja az OEP-et.”
+3. §
+A Kr. 8. §-a a következő (14) bekezdéssel egészül ki:
+„(14) Nem minősül az Egészségbiztosítási Alap vonatkozásában többletforrás igénynek a Tv. 7. § (3) bekezdése szerinti,
+rehabilitációs szakmák közötti kapacitás-átcsoportosítás.”
+4. §
+A Kr. a 11. §-át követően a következő 11/A. §-sal és azt megelőző alcímmel egészül ki:
+„A többletkapacitás-befogadási eljárások közös szabályai
+11/A. § Amennyiben a benyújtott pályázat, illetve kérelem olyan többletkapacitás befogadására irányul, amelyre
+vonatkozóan a korábbiakban a 12–15/A. § alapján támogató befogadási döntés született, a pályázat, illetve a kérelem
+csak a pályázó, illetve a kérelmező korábban befogadott kapacitásigényéről történő lemondása esetén támogatható.”
+5. §
+(1) A Kr. 12/C. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 12. § (1) bekezdése szerinti támogatási igény elfogadása esetén az igénnyel összefüggő fejlesztés támogatási
+szerződésében a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő 30 napon
+belül az OEP – erre irányuló kérelem esetén – az egészségügyi szolgáltatóval finanszírozási szerződést köt,
+amennyiben annak jogszabályban meghatározott egyéb feltételei is fennállnak.”
+(2) A Kr. 12/C. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Amennyiben a 12. § (1) bekezdése szerinti támogatási igénnyel összefüggő fejlesztés támogatási szerződésében
+a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő egy éven belül a pályázó
+nem kezdeményezi a finanszírozási szerződés megkötését, vagy annak a pályázatra vonatkozó támogatási
+szerződésben foglaltak szerinti időpontra történő halasztását, az OEP az egészségügyért felelős miniszter
+egyetértésével a pályázó előzetes kapacitásbefogadását törli a nyilvántartásból.”
+6. §
+(1) A Kr. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az OEP az OTH-val a kapacitás-szükséglet befogadására vonatkozóan – a Tv. 4/A. § (3) bekezdés c), d), f) és
+k) pontja, valamint a (4) és (5) bekezdésben meghatározott szempontok szerint – minden év január 31-éig, illetve
+
+az egészségügyért felelős miniszter által meghatározott határidőn belül kiegészítő elemzést készít, és megküldi
+– a Tv. 4. § (2) bekezdése szerinti aktuális elemzéssel együtt – a szakmai prioritásokra vonatkozó javaslatát az
+egészségügyért felelős miniszternek.”
+(2) A Kr. 13. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A beérkezett javaslatok alapján a szakmai prioritásokat – figyelemmel az (5) bekezdésben foglaltakra – az
+egészségügyért felelős miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétett
+közleményben határozza meg a (2) bekezdés szerinti javaslat kézhezvételétől számított 60 napon belül.
+A közleményben meghatározott szakmai prioritások – a (4a) bekezdésben foglaltak figyelembevételével – legfeljebb
+a következő évi prioritásokról szóló közlemény közzétételéig érvényesek.”
+(3) A Kr. 13. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) A (4) bekezdés alapján a Hivatalos Értesítőben közzétett szakmai prioritásokat az egészségügyért felelős
+miniszter – figyelemmel a már megjelent pályázati kiírásra – módosíthatja a Hivatalos Értesítőben közzétett
+közleményével.”
+(4) A Kr. 13. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az OEP a pályázati kiírás vagy kiírások tervezetét a (4) és (5) bekezdés figyelembevételével elkészíti, és azt az
+egészségügyért felelős miniszterhez a szakmai prioritások Hivatalos Értesítőben történő megjelenésétől számított
+20 napon belül jóváhagyásra felterjeszti. A pályázat vagy pályázatok kiírásáról az egészségügyért felelős miniszter
+dönt, a kiírást legalább 20 napos és legfeljebb 40 napos pályázati határidővel engedélyezheti.”
+(5) A Kr. 13. §-a a következő (9) bekezdéssel egészül ki:
+„(9) A (7) bekezdés alapján kiírt pályázatot az OEP az egészségügyért felelős miniszter jóváhagyásával módosíthatja
+a pályázati határidő lejártát megelőzően azzal, hogy a módosított pályázati kiírás pályázati határideje az
+egészségügyért felelős miniszter által meghatározott idővel, de legalább 15 nappal meghosszabbodik, és erről,
+valamint a módosításról a módosítást megelőzően pályázatot benyújtókat értesíteni kell. A módosított pályázati kiírás
+tekintetében a (7) bekezdésben, valamint a 14. és 15. §-ban foglaltakat megfelelően alkalmazni kell.”
+7. § A Kr. 15. § (11) és (12) bekezdése helyébe a következő rendelkezések lépnek:
+„(11) A befogadási javaslat alapján a pályázatról – a TBB befogadási javaslatának felterjesztésétől számított 35 napon
+belül – az egészségügyért felelős miniszter dönt a (9) bekezdés a) és b) pontja alapján, valamint az éves pénzügyi
+kihatások és a rendelkezésre álló források figyelembevételével.
+(12) Az egészségügyért felelős miniszter döntése előtt – a TBB általi felterjesztés kézhezvételét követő 10 napon belül –
+megkéri a befogadáshoz az államháztartásért felelős miniszter hozzájárulását. Az államháztartásért felelős miniszter
+a megküldött befogadási javaslat kézhezvételét követő 15 napon belül értesíti az egészségügyért felelős minisztert
+a befogadáshoz való hozzájárulásáról, illetve annak elutasításáról és az elutasítás indoklásáról. Az egészségügyért
+felelős miniszter döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter előzetesen hozzájárult.”
+8. § (1) A Kr. 15/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti többletkapacitás befogadására vonatkozó, szakmai indoklással ellátott kérelmet az
+egészségügyi szolgáltatók nyújthatják be a TBB részére. A kérelemhez mellékelni kell:
+a) a fenntartó nyilatkozatát a befogadási kérelem támogatásáról,
+b) a szakmai kollégium szakmailag érintett tagozatának véleményét,
+c) az egészségügyi szolgáltatónak működési engedélyt kiadó hatóság nyilatkozatát az ellátás nyújtásához szükséges
+feltételek fennállásáról,
+d) a befogadás szükségességének részletes szakmai indoklását,
+e) a befogadás fenntarthatóságát alátámasztó pénzügyi hatásvizsgálatot, megjelölve a szolgáltatás éves felvállalt
+mennyiségét, és a szükséges teljesítményvolument.”
+(2) A Kr. 15/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A TBB minden év áprilisában és szeptemberében ülésezik, további üléseket szükség szerint tarthat. A TBB az
+üléséig beérkezett hiánytalan kérelmek alapján javaslatot tesz az egészségügyért felelős miniszternek az (1) bekezdés
+szerinti többletkapacitás befogadására.”
+(3) A Kr. 15/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az egészségügyért felelős miniszter a javaslatról annak beérkezésétől számított 35 napon belül, az éves pénzügyi
+kihatások és a rendelkezésre álló források figyelembevételével, a 15. § (12) bekezdésében foglaltak alkalmazásával
+dönt.”
+
+9. §
+A Kr. a 15/A. §-át követően a következő 15/B. §-sal és azt megelőző alcímmel egészül ki:
+„Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása
+15/B. § (1) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a
+(2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4),
+(4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8) és (10)–(12) bekezdését.
+(2) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására vonatkozó pályázatot az egészségügyért felelős
+miniszter kezdeményezésére és jóváhagyása mellett az OEP a kezdeményezéstől számított 25 napon belül a Magyar
+Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétett pályázati felhívással írja ki. A pályázati felhívásra
+pályázatot az integrációban érintett egészségügyi szolgáltatók fenntartói a 14. § (1) bekezdésében foglaltaknak
+megfelelően nyújthatnak be, azzal, hogy a különböző fenntartókhoz tartozó – ugyanazon integrációban érintett –
+egészségügyi szolgáltatók fenntartói csak közösen pályázhatnak.
+(3) A pályázathoz mellékelni kell:
+a) az egészségügyi szolgáltatónak működési engedélyt kiadó hatóság nyilatkozatát arról, hogy az integráció
+megvalósulását követően az ellátás nyújtásához szükséges feltételek fennállnak-e,
+b) a fenntartók vonatkozó döntését és teljesítési garanciavállalását,
+c) az integráció részletes szakmai indoklását,
+d) az integrációt alátámasztó pénzügyi hatásvizsgálatot,
+e) az integráció eredményeként az érintett egészségügyi szolgáltatók által végzett betegellátásban várható minőségi
+változásokat bemutató hatásvizsgálatot,
+f) a pályázati felhívásban szereplő adatlapot és mellékleteit.
+(4) Az OEP a pályázati határidőt követő 15 napon belül küldi meg a 14. § (6) bekezdése szerinti javaslatát a TBB részére.
+(5) Az 1. § (1b) bekezdése szerinti többletkapacitás csak abban az esetben fogadható be, ha a (3) bekezdés e) pontja
+szerinti, a kérelemhez csatolt hatásvizsgálat alapján valószínűsíthető, hogy az integráció az érintett egészségügyi
+szolgáltatók által végzett betegellátás minőségének javulását fogja eredményezni.
+(6) A TBB a befogadásra javasolt pályázatokat, illetve a befogadás szakmai és finanszírozási feltételeit tartalmazó
+javaslatát a pályázati kiírásban meghatározott szempontok alapján, a pályázati határidőt követő 30 napon belül készíti
+el és küldi meg az egészségügyért felelős miniszternek.
+(7) A (6) bekezdés szerinti javaslat az 1. § (1b) bekezdése szerinti többletkapacitás tekintetében tartalmazza
+a) az eljárás tárgyát képező integrációban érintett egészségügyi szolgáltatók megjelölését,
+b) a befogadásra javasolt többletkapacitás megjelölését,
+c) a többletkapacitás-befogadás forrásigényét,
+d) a finanszírozás javasolt kezdési időpontját.
+(8) Az egészségügyért felelős miniszter a (6) bekezdés szerinti javaslatról annak beérkezésétől számított 30 napon
+belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével dönt, a döntésről tájékoztatja
+az államháztartásért felelős minisztert.
+(9) Az (1)–(8) bekezdés alapján befogadott többletkapacitás finanszírozása egy alkalommal egy összegben történik.”
+10. §
+A Kr.
+a)
+1. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1)–(1b) bekezdésben” szöveg,
+b)
+15. § (13) bekezdésében és 15/A. § (6) bekezdésében az „a befogadott többletkapacitásokról közleményt ad ki,
+amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni” szövegrész helyébe
+az „a befogadott többletkapacitásokról a döntésről való tudomásszerzéstől számított 15 napon belül a Magyar
+Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétételre kerülő közleményt ad ki” szöveg,
+c)
+15/A. § (4) bekezdés b) pontjában a „többletkapacitás mértékét” szövegrész helyébe a „többletkapacitás
+megjelölését” szöveg
+lép.
+11. §
+A Kr. 17/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+„(3) A 12/C. §-nak az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 185/2011. (IX. 9.) Korm.
+rendelettel (a továbbiakban: Módr2.) megállapított (6) bekezdését a Módr2. hatálybalépésekor folyamatban lévő
+ügyekben is alkalmazni kell. A 13. §-nak a Módr2. által megállapított (4a) és (9) bekezdését a Módr2. hatálybalépését
+megelőzően közzétett szakmai prioritások, illetve kiírt pályázatok tekintetében is alkalmazni kell. A 15/A. §-nak a
+Módr2. által módosított, illetve megállapított (2)–(6) bekezdését azon kérelmek esetében is alkalmazni kell, amelyeket
+a Módr2. hatálybalépését megelőzően nyújtottak be, de vonatkozásukban a 15/A. § szerinti eljárás még nem indult el.
+
+(4) Azt az előzetesen befogadott többletkapacitást, amely többletkapacitás a Módr2. hatálybalépését megelőzően a
+15/A. § (6) bekezdése szerinti közleményben befogadott kapacitásként közzétételre került, az egészségügyért felelős
+miniszter egyetértésével az OEP törli a 12/C. § (2) bekezdése szerinti nyilvántartásból.”
+12. §
+Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 139/2011. (VII. 21.)
+Korm. rendelet 26. § (2) és (3) bekezdésében az „október” szövegrész helyébe a „november” szöveg lép.
+13. §
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet 56. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 139/2011. (VII. 21.)
+Korm. rendelettel megállapított 31. § (1) bekezdése szerint az OEP a gondozóintézeti gondozás nyújtására érvényes
+finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók részére 2011. november és december hónapra a
+2011. október 31-én hatályos 31. § szerint teljesíti a finanszírozást.”
+14. §
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm.
+rendelet (a továbbiakban: Vhr.) 10/F. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Azon gyógyászati ellátások esetében, amelyek tekintetében az árhoz nyújtott támogatás mértéke az (1) bekezdés
+szerinti rendeletben még nem került megállapításra, a (3) bekezdés szerinti tárgyaláson való részvétel feltétele, hogy
+a szolgáltató rendelkezzen az adott szolgáltatás nyújtására jogosító működési engedéllyel, valamint megfeleljen az
+orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló
+miniszteri rendeletben foglalt követelményeknek, és az alkalmazott számítások egyidejű bemutatásával nyilatkozzon
+arról, hogy az általa tett árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot
+csökkenti, ha a gyógyászati ellátást támogatással nyújtja.”
+15. §
+A Vhr. 10/F. § (4) bekezdésében az „A (3) bekezdés szerinti tárgyaláson” szövegrész helyébe a „Társadalombiztosítási
+támogatással igénybe vehető gyógyászati ellátások esetében a (3) bekezdés szerinti tárgyaláson” szöveg lép.
+16. §
+Ez a rendelet a kihirdetését követő napon lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
