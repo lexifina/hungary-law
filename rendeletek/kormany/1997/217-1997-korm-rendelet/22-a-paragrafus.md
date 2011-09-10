@@ -1,9 +1,9 @@
-22/A. §[^276] (1) A gyógyszer és gyógyászati segédeszköz támogatással történő rendelésre való jogosultság tekintetében – az E. Alap terhére társadalombiztosítási finanszírozásra jogosultakon kívül – nem finanszírozott egészségügyi szolgáltató orvosának minősül a külön jogszabály által előírt feladatkörében egészségügyi szolgáltatást nyújtó, központi költségvetésből normatív hozzájárulásban részesülő külön jogszabály szerinti bentlakásos szociális intézményben foglalkoztatott orvos, amennyiben gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító érvényes szerződéssel rendelkezik.
+22/A. §[^278] (1) A gyógyszer és gyógyászati segédeszköz támogatással történő rendelésre való jogosultság tekintetében – az E. Alap terhére társadalombiztosítási finanszírozásra jogosultakon kívül – nem finanszírozott egészségügyi szolgáltató orvosának minősül a külön jogszabály által előírt feladatkörében egészségügyi szolgáltatást nyújtó, központi költségvetésből normatív hozzájárulásban részesülő külön jogszabály szerinti bentlakásos szociális intézményben foglalkoztatott orvos, amennyiben gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító érvényes szerződéssel rendelkezik.
 
-(2)[^277] Az (1) bekezdésben meghatározott intézményeknek tájékoztatniuk kell az az OEP-et azon orvosok köréről és azonosító adatairól, akiket a jogszabályban előírt egészségügyi feladataik ellátása céljából foglalkoztatnak és az Ebtv. 32. §-ának (1) bekezdése szerinti érvényes szerződés alapján gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosultak.
+(2)[^279] Az (1) bekezdésben meghatározott intézményeknek tájékoztatniuk kell az az OEP-et azon orvosok köréről és azonosító adatairól, akiket a jogszabályban előírt egészségügyi feladataik ellátása céljából foglalkoztatnak és az Ebtv. 32. §-ának (1) bekezdése szerinti érvényes szerződés alapján gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosultak.
 
-(3)[^278] A (2) bekezdés szerinti adatok változásáról a külön jogszabály szerinti bentlakásos szociális intézménynek a változást követő 10. napig tájékoztatni kell az OEP-et.
+(3)[^280] A (2) bekezdés szerinti adatok változásáról a külön jogszabály szerinti bentlakásos szociális intézménynek a változást követő 10. napig tájékoztatni kell az OEP-et.
 
-[^276]: A Vhr. 22/A. §-át a 330/2005. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^277]: A Vhr. 22/A. §-ának (2) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 43. pontja szerint módosított szöveg.
-[^278]: A Vhr. 22/A. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 44. pontja szerint módosított szöveg.
+[^278]: A Vhr. 22/A. §-át a 330/2005. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^279]: A Vhr. 22/A. §-ának (2) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 43. pontja szerint módosított szöveg.
+[^280]: A Vhr. 22/A. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 44. pontja szerint módosított szöveg.
