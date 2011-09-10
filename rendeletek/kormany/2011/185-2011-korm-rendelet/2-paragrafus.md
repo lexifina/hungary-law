@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: Kr.) 1. §-a a következő (1b) bekezdéssel egészül ki:
+
+## „(1b) E rendelet alkalmazásában többletkapacitásnak minősül a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak az előreláthatólag minőségileg magasabb szintű ellátást eredményező szervezeti, illetve funkcionális integrációja, amennyiben annak során nem jön létre az (1) és az (1a) bekezdés szerinti többletkapacitás, és az integráció megvalósítása – ideértve annak járulékos költségeit is – többletforrás-igénnyel jár.”
