@@ -1,18 +1,18 @@
-8/A. §[^56] (1) A Tv. 7. § (1) bekezdése szerinti átcsoportosítás esetén
+8/A. §[^60] (1) A Tv. 7. § (1) bekezdése szerinti átcsoportosítás esetén
 
 a) egy aktív fekvőbeteg-szakellátási ágy helyébe egy krónikus fekvőbeteg-szakellátási ágy,
 
-b)[^57] egy aktív fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 15 járóbeteg-szakellátási szolgáltatási óra,
+b)[^61] egy aktív fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 15 járóbeteg-szakellátási szolgáltatási óra,
 
 c) egy aktív fekvőbeteg-szakellátási ágy, valamint heti egy járóbeteg-szakellátási szolgáltatási óra helyébe egynapos ellátásra az átcsoportosított, adott szakma aktív fekvőbeteg-, illetve járóbeteg-szakellátási kapacitására jutó havi átlagos teljesítmény egyenértékének megfelelő mennyiségű szolgáltatási egység,
 
 d) hét krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy helyébe öt, illetve hat ápolási fekvőbeteg-szakellátási ágy helyébe három, a külön jogszabály szerinti szorzóval finanszírozott intézeti hospice ágy
 
-e)[^58] egy rehabilitációs fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 5 járóbeteg-szakellátási szolgáltatási óra
+e)[^62] egy rehabilitációs fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 5 járóbeteg-szakellátási szolgáltatási óra
 
 állapítható meg, azzal, hogy amennyiben intézeti hospice-re a d) pont szerinti kapacitás-mennyiséget meghaladóan csoportosítanak át, az az ott meghatározottak arányában történhet,
 
-(2)[^59] A Tv. 7. § (1) bekezdése alapján rehabilitációs nappali ellátásra történő átcsoportosítás esetén egy krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy helyébe
+(2)[^63] A Tv. 7. § (1) bekezdése alapján rehabilitációs nappali ellátásra történő átcsoportosítás esetén egy krónikus ellátási, illetve rehabilitációs fekvőbeteg-szakellátási ágy helyébe
 
 a) pszichiátriai rehabilitáció keretében működtetni kívánt nappali kórházi vagy nappali ellátás esetén napi 1,2 beteglétszám,
 
@@ -20,7 +20,7 @@ b) az a) pontban nem említett más rehabilitációs szakma keretében működte
 
 állapítható meg, azzal, hogy amennyiben nappali kórházi vagy nappali ellátásra az a) és b) pont szerinti kapacitásmennyiséget meghaladóan csoportosítanak át, az az ott meghatározottak arányában történhet.
 
-[^56]: A 8/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^57]: A 8/A. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 10. pontja szerint módosított szöveg.
-[^58]: A 8/A. § (1) bekezdés e) pontját a 363/2010. (XII. 30.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^59]: A 8/A. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^60]: A 8/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^61]: A 8/A. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 10. pontja szerint módosított szöveg.
+[^62]: A 8/A. § (1) bekezdés e) pontját a 363/2010. (XII. 30.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^63]: A 8/A. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
