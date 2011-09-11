@@ -1,1 +1,0 @@
-## 12. § Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 139/2011. (VII. 21.) Korm. rendelet 26. § (2) és (3) bekezdésében az „október” szövegrész helyébe a „november” szöveg lép.

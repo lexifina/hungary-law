@@ -1,3 +1,0 @@
-## 13. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 56. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 139/2011. (VII. 21.) Korm. rendelettel megállapított 31. § (1) bekezdése szerint az OEP a gondozóintézeti gondozás nyújtására érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók részére 2011. november és december hónapra a 2011. október 31-én hatályos 31. § szerint teljesíti a finanszírozást.”

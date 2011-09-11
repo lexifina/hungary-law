@@ -1,5 +1,0 @@
-## 11. § A Kr. 17/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-## „(3) A 12/C. §-nak az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 185/2011. (IX. 9.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított (6) bekezdését a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell. A 13. §-nak a Módr2. által megállapított (4a) és (9) bekezdését a Módr2. hatálybalépését megelőzően közzétett szakmai prioritások, illetve kiírt pályázatok tekintetében is alkalmazni kell. A 15/A. §-nak a Módr2. által módosított, illetve megállapított (2)–(6) bekezdését azon kérelmek esetében is alkalmazni kell, amelyeket a Módr2. hatálybalépését megelőzően nyújtottak be, de vonatkozásukban a 15/A. § szerinti eljárás még nem indult el.
-
-## (4) Azt az előzetesen befogadott többletkapacitást, amely többletkapacitás a Módr2. hatálybalépését megelőzően a 15/A. § (6) bekezdése szerinti közleményben befogadott kapacitásként közzétételre került, az egészségügyért felelős miniszter egyetértésével az OEP törli a 12/C. § (2) bekezdése szerinti nyilvántartásból.”

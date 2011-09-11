@@ -1,1 +1,0 @@
-## „(5) Az egészségügyért felelős miniszter a javaslatról annak beérkezésétől számított 35 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével, a 15. § (12) bekezdésében foglaltak alkalmazásával dönt.”
