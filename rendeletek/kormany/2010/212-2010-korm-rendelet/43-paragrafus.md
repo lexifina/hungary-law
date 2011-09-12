@@ -1,6 +1,6 @@
 43. § (1) A miniszter az egészségügyért való felelőssége körében
 
-a)[^139] irányítja az Állami Népegészségügyi és Tisztiorvosi Szolgálatot, az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet,
+a)[^142] irányítja az Állami Népegészségügyi és Tisztiorvosi Szolgálatot, az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet,
 
 b) működteti a Nemzeti Egészségügyi Tanácsot, és
 
@@ -8,4 +8,4 @@ c) törvényességi felügyeletet gyakorol az ágazathoz tartozó szakmai kamar�
 
 (2) A miniszter az egészségbiztosításért való felelőssége körében irányítja az Országos Egészségbiztosítási Pénztárat.
 
-[^139]: A 43. § (1) bekezdés a) pontja az 59/2011. (IV. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^142]: A 43. § (1) bekezdés a) pontja az 59/2011. (IV. 12.) Korm. rendelet 21. §-ával megállapított szöveg.

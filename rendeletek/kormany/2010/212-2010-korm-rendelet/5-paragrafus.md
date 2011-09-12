@@ -1,15 +1,11 @@
-## 5. § A miniszter a kormányzati tevékenység összehangolása körében felel az egységes kormányzati kommunikációért, melynek körében felel:
+## 5. §[^9] A miniszter a kormányzati tevékenység összehangolása körében felel – a kormányszóvivői teendők ellátásának feladatát, valamint a 10. § n) és o) pontjában foglaltakat ide nem értve – az egységes kormányzati kommunikációért, melynek körében
 
-a) kormányzati kommunikáció összehangolásáért, ennek érdekében összehangolja a minisztériumok sajtófőnökeinek, tájékoztatási feladatokat, sajtófigyelést ellátó szervezeti egységeinek a tevékenységét, valamint módszertani iránymutatást nyújt részükre,
+a) kialakítja az országkép-stratégiát, valamint ezzel összefüggésben koordinálja az ország márka képet alakító intézmények tevékenységét;
 
-b) a tömegtájékoztatási eszközök kormányzati tevékenységet érintő publikációi figyelemmel kíséréséért, valamint a válaszadás megszervezéséért,
+b) ellátja a külföldre irányuló kormányzati kommunikációval kapcsolatos koordinációs feladatokat;
 
-c) a kormányprogramnak és az egyes munkaterveknek megfelelően a kormányzati kommunikáció kialakításáért,
+c) kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját;
 
-d) a nemzeti ünnepek, kormányzati programok kommunikációs stratégiájáért, valamint irányítja és felügyeli e stratégia végrehajtását,
+d) felelős a kormányzati honlapok egységes szerkezetének és arculatának kialakításáért, fejlesztéséért, koordinálja ezek tartalmának a kialakítását.
 
-e) a kormányzati honlapok egységes szerkezetének és arculatának kialakításáért, fejlesztéséért, koordinálja a tartalom kialakítását,
-
-f) országkép-stratégia kialakításáért, valamint ezzel összefüggésben koordinálja az ország márka képet alakító intézmények tevékenységét,
-
-g) a külügyminiszterrel együttműködve az Európai Unió soros elnökségéhez kötődő, lakossági kommunikációval kapcsolatos stratégia kialakításáért.
+[^9]: Az 5. § a 186/2011. (IX. 12.) Korm. rendelet 1. §-ával megállapított szöveg.

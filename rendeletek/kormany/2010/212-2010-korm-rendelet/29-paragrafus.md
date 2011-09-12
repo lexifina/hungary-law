@@ -1,6 +1,6 @@
-29. § (1)[^65] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében felelős:
+29. § (1)[^68] A miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért való felelőssége körében felelős:
 
-a)[^66] a gyermekek esélyteremtéséért,
+a)[^69] a gyermekek esélyteremtéséért,
 
 b) a hátrányos térségekben élők társadalmi felzárkózását előmozdító programok kidolgozásáért és részt vesz a megvalósításukban,
 
@@ -20,7 +20,7 @@ c) működteti a „Legyen Jobb a Gyerekeknek” Nemzeti Stratégia végrehajtá
 
 d) felügyeli és koordinálja a társadalmi felzárkózás és gyerekesély-politika koncepciójának, stratégiájának és cselekvési terveinek megvalósítását, és érvényesíti az abban foglaltakat az egyéb kormányzati koncepciók és programok kialakításánál,
 
-e)[^67] előkészíti a jogszabályok és közjogi szervezetszabályozó eszközök tervezeteit, valamint törvény, vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet készít,
+e)[^70] előkészíti a jogszabályok és közjogi szervezetszabályozó eszközök tervezeteit, valamint törvény, vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet készít,
 
 f) a társadalmi felzárkózás érdekében kidolgozza és koordinálja a felelősségi körébe tartozó azon szakpolitikákat, amelyek a foglalkoztatás bővítést célozzák,
 
@@ -42,6 +42,6 @@ n) koordinálja a felelősségi körébe tartozó kormányzati stratégiai kutat
 
 o) a társadalmi felzárkózás vonatkozásában közreműködik a nemzeti erőforrás miniszterrel az oktatási tevékenységet végző közalapítványok alapítói jogainak gyakorlásában.
 
-[^65]: A 29. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (18) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^66]: A 29. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (10) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^67]: A 29. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^68]: A 29. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (18) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^69]: A 29. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (10) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^70]: A 29. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-63. § (1)[^170] A miniszter a sportpolitikáért való felelőssége körében előkészíti különösen a sportról és az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
+63. § (1)[^173] A miniszter a sportpolitikáért való felelőssége körében előkészíti különösen a sportról és az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(2)–(3)[^171]
+(2)–(3)[^174]
 
-[^170]: A 63. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (40) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^171]: A 63. § (2)–(3) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 41. § (24) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^173]: A 63. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (40) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^174]: A 63. § (2)–(3) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 41. § (24) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
