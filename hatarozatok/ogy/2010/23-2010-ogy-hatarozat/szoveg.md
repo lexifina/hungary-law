@@ -386,7 +386,7 @@ Hegedűs Tamás (Jobbik)
 
 Schön Péter (Jobbik)
 
-Rozgonyi Ernő (Jobbik)[^40]
+dr. Lenhardt Balázs (Jobbik)[^40]
 
 Scheiring Gábor (LMP)
 
@@ -910,9 +910,9 @@ Tukacs István (MSZP)
 
 dr. Veres János (MSZP)
 
-dr. Lenhardt Balázs (Jobbik)
+Rozgonyi Ernő (Jobbik)[^109]
 
-Pősze Lajos (független)[^109]
+Pősze Lajos (független)[^110]
 
 Vágó Gábor (LMP)
 
@@ -1017,7 +1017,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^37]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^38]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^39]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^40]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^40]: A 63/2011. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^41]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^42]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^43]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1086,4 +1086,5 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^106]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^107]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
 [^108]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^109]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^109]: A 63/2011. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^110]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.

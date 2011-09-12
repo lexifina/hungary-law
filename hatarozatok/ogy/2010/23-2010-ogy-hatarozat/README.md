@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2011-05-09 | 2010-23-30-41.27 | 27/2011. (V. 12.) OGY határozat |
 | 2011-06-06 | 2010-23-30-41.28 | 35/2011. (VI. 7.) OGY határozat |
 | 2011-09-01 | 2010-23-30-41.29 | 60/2011. (VII. 13.) OGY határozat |
+| 2011-09-12 | 2010-23-30-41.30 | 63/2011. (IX. 14.) OGY határozat |
