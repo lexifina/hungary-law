@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Uniónak a szomáliai biztonsági erők kiképzésére irányuló missziójához („EUTM Somalia”) történő további magyar katonai hozzájárulásról szóló 1227/2011. (VII. 4.) Korm. határozatban foglalt döntésről szóló beszámolót elfogadja.
