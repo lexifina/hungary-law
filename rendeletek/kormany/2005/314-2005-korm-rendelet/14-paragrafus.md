@@ -2,11 +2,11 @@
 
 (2) A felügyelőség a 8. § (1) és 9. § (6) bekezdései szerinti információkat megküldi a Minisztériumnak, amint azok rendelkezésre állnak. A Minisztérium az ezek alapján készített tájékoztatást megküldi a hatásviselő félnek.
 
-(3)[^59] A felügyelőség a kérelmet, a környezeti hatástanulmány két példányát és az (1) bekezdés szerinti fordítást, továbbá a 8. § (5) bekezdésében említett információkat haladéktalanul megküldi a Minisztériumnak, amely azt továbbítja a hatásviselő félnek, és kezdeményezi az ennek alapján tartandó konzultációt. A konzultációba a Minisztérium bevonja a felügyelőséget és szükség szerint az eljárásban kijelölt szakhatóságokat.
+(3)[^62] A felügyelőség a kérelmet, a környezeti hatástanulmány két példányát és az (1) bekezdés szerinti fordítást, továbbá a 8. § (5) bekezdésében említett információkat haladéktalanul megküldi a Minisztériumnak, amely azt továbbítja a hatásviselő félnek, és kezdeményezi az ennek alapján tartandó konzultációt. A konzultációba a Minisztérium bevonja a felügyelőséget és szükség szerint az eljárásban kijelölt szakhatóságokat.
 
 (4) A hatásviselő féllel való konzultáción kapott, valamint a hatásviselő fél nyilvánossága által adott észrevételek mérlegelése alapján a felügyelőség az érintett szakhatóságok bevonásával a környezeti hatástanulmány kiegészítését rendelheti el.
 
-(5)[^60] A felügyelőség a környezeti hatásvizsgálati eljárásban, valamint az egységes környezethasználati engedélyezési eljárásban hozott döntését közli a Minisztériummal, amely azt továbbítja a hatásviselő félnek. Amennyiben az ügyben jogorvoslat folytán további döntések születnek, azokat hasonló módon kell továbbítani.
+(5)[^63] A felügyelőség a környezeti hatásvizsgálati eljárásban, valamint az egységes környezethasználati engedélyezési eljárásban hozott döntését közli a Minisztériummal, amely azt továbbítja a hatásviselő félnek. Amennyiben az ügyben jogorvoslat folytán további döntések születnek, azokat hasonló módon kell továbbítani.
 
-[^59]: A 14. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^60]: A 14. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^62]: A 14. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^63]: A 14. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

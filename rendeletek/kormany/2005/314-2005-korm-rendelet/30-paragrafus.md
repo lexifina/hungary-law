@@ -1,4 +1,6 @@
-## 30. §[^106] Ez a rendelet a Kvt.-vel együtt
+## 29/B. §[^109] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mkr4.) megállapított rendelkezéseit az Mkr4. hatálybalépését[^110] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+
+## 30. §[^111] Ez a rendelet a Kvt.-vel együtt
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelvnek és az azt módosító 97/11/EK tanácsi irányelvnek,
 
@@ -6,4 +8,6 @@ b) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a ny
 
 c) a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló, 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelvnek való megfeleltetést szolgálja.
 
-[^106]: A 30. § a 110/2010. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^109]: A 29/B. §-nak a 82/2011. (V. 18.) Korm. rendelet 19. §-a iktatta be.
+[^110]: A hatálybalépés napja: 2011. szeptember 15.
+[^111]: A 30. § a 110/2010. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.

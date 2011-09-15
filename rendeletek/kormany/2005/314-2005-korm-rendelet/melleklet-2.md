@@ -1,156 +1,172 @@
 ## Környezeti hatásvizsgálat köteles tevékenységek
 
+| A. Sorszám | B. A tevékenység megnevezése | C. Küszöbérték, feltétel |
+
 | Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás |
 
-| 1. | Baromfitelep több mint 85 ezer férőhellyel broilerek vagy 60 ezer férőhellyel tojók számára |
+| 1. | Intenzív állattartó telep | a) baromfitelepnél 85 ezer férőhelytől broilerek számára |
 
-| 2. | Sertéstelep több mint 3 ezer férőhellyel 30 kg feletti hízók vagy 900 férőhellyel kocák számára |
+| b) baromfitelepnél 60 ezer férőhelytől tojók számára |
 
-| 3. | Vadaskert védett természeti területen és erdőterületen |
+| c) sertéstelepnél 3 ezer férőhelytől 30 kg feletti sertéshízók számára |
 
-| 4. | Erdőterület igénybevétele1– nem termőföldként való további hasznosítás esetén 30 ha-tól, – termőföldként való további hasznosítás esetén 50 ha-tól |
+| d) sertéstelepnél 900 férőhelytől sertéskocák számára |
+
+| 2. | Erdőterület igénybevétele | a) nem termőföldként való további hasznosítás esetén 30 ha-tól |
+
+| b) termőföldként való további hasznosítás esetén 50 ha-tól |
+
+| 3. | Vadaskert | védett természeti területen vagy erdőterületen méretmegkötés nélkül |
 
 | Halászat |
 
-| 5. | Haltenyésztés intenzív ketreces vagy medencés haltermelő üzemben országos jelentőségű védett természeti területen |
+| 4. | Haltenyésztés intenzív ketreces vagy medencés haltermelő üzemben | országos jelentőségű védett természeti területen |
 
 | Bányászat |
 
-| 6. | Szénbányászat 100 ezer t/év szén bányászatától, külszíni bányászat esetén 25 ha területtől is; a külszíni bányászat esetén védett természeti területen vagy annak védőövezetén méretmegkötés nélkül |
+| 5. | Szénbányászat | a) 100 ezer t/év szén bányászatától |
 
-| 7. | Tőzegkitermelés 25 ha területtől; védett természeti területen méretmegkötés nélkül |
+| b) külszíni bányászat esetén 25 ha területnagyságtól is |
 
-| 8. | Kőolaj-kitermelés 500 t/nap-tól, földgázkitermelés 500 ezer m3/nap-tól |
+| c) külszíni bányászat esetén védett természeti területen méretmegkötés nélkül |
 
-| 9. | Uránércbányászat 100 ezer t/év uránérc bányászatától |
+| 6. | Tőzegkitermelés | a) 25 ha területnagyságtól |
 
-| 10. | Fémtartalmú ércek bányászata: vasérc esetén 1 millió t/év, nemvas fémek esetén 100 ezer t/év bányászatától; külszíni bányászat esetén 25 ha területtől |
+| b) védett természeti területen méretmegkötés nélkül |
 
-| 11. | Egyéb külszíni bányászat 25 ha területtől; védett természeti területen méretmegkötés nélkül |
+| 7. | Kőolaj-, földgázkitermelés | a) 500 t/nap kitermelésétől kőolaj esetén |
+
+| b) 500 ezer m3/nap kitermelésétől földgáz esetén |
+
+| 8. | Uránércbányászat | 100 ezer t/év uránérc kitermelésétől |
+
+| 9. | Fémtartalmúérc-bányászat | a) vasérc esetén 1 millió t/év kitermeléstől |
+
+| b) nem vas fémek esetén 100 ezer t/év kitermeléstől |
+
+| c) külszíni bányászat esetén 25 ha területnagyságtól is |
+
+| 10. | Egyéb bányászat (kivéve az önállóan létesített ásványfeldolgozó üzemet) | a) 25 ha területnagyságtól külszíni bányászat esetén |
+
+| b) védett természeti területen külszíni bányászat esetén méretmegkötés nélkül |
 
 | Feldolgozóipar |
 
-| 12. | Papír- és kartongyártás 200 t/nap késztermékgyártástól |
+| 11. | Papír- és kartongyártó üzem | 200 t/nap késztermék gyártásától |
 
-| 13. | Papíripari rostos alapanyag előállítása fából és más hasonló szálas nyersanyagból |
+| 12. | Papíripari rostos alapanyag előállítása fából vagy más hasonló szálas nyersanyagból | méretmegkötés nélkül |
 
-| 14. | Szén vagy bitumenpala elgázosítása vagy cseppfolyósítása 500 t/nap szén vagy bitumenpala felhasználástól |
+| 13. | Szén vagy bitumenpala elgázosítása vagy cseppfolyósítása | 500 t/nap szén vagy bitumenpala felhasználásától |
 
-| 15. | Kőolajfinomító, kivéve a kőolajból kizárólag kenőanyagokat előállító üzemeket |
+| 14. | Kőolajfinomító, kivéve a kőolajból kizárólag kenőanyagokat előállító üzemeket | méretmegkötés nélkül |
 
-| 16. | Nukleáris üzemanyagot előállító vagy dúsító létesítmény |
+| 15. | Nukleáris üzemanyagot előállító vagy dúsító létesítmény | méretmegkötés nélkül |
 
-| 17. | Kiégett nukleáris üzemanyagot újrafeldolgozó létesítmény |
+| 16. | Kiégett nukleáris üzemanyagot újrafeldolgozó létesítmény | méretmegkötés nélkül |
 
-| 18. | Kiégett nukleáris üzemanyag átmeneti vagy végleges tároló |
+| 17. | Kiégett nukleáris üzemanyag átmeneti vagy végleges tároló | méretmegkötés nélkül |
 
-| 19. | Radioaktív hulladékot feldolgozó telep |
+| 18. | Radioaktív hulladékot feldolgozó telep | méretmegkötés nélkül |
 
-| 20. | Radioaktív hulladéktároló telep átmeneti vagy végleges tárolásra |
+| 19. | Radioaktív hulladéktároló telep átmeneti vagy végleges tárolásra | méretmegkötés nélkül |
 
-| 21. | Komplex vegyiművek, azaz olyan létesítmények, amelyekben több gyártóegység funkcionálisan összekapcsolva csatlakozik egymáshoz, és amelyekben kémiai átalakítási folyamatokkal ipari méretben történik: |
+| 20. | Komplex vegyiművek, azaz olyan létesítmények, amelyekben több gyártóegység funkcionálisan összekapcsolva csatlakozik egymáshoz, és amelyekben kémiai átalakítási folyamatokkal ipari méretben történik: | méretmegkötés nélkül |
 
-|  | a) szerves vegyi alapanyagok gyártása, vagy |
+| – szerves vegyi alapanyagok gyártása, |
 
-|  | b) szervetlen vegyi alapanyagok gyártása, vagy |
+| – szervetlen vegyi alapanyagok gyártása, |
 
-|  | c) foszfor-, nitrogén- és káliumalapú műtrágya gyártása, vagy |
+| – foszfor-, nitrogén- és káliumalapú műtrágya gyártása, |
 
-|  | d) növény-egészségügyi hatóanyagok és biocidek gyártása, vagy |
+| – növényegészségügyi hatóanyagok és biocidek gyártása, |
 
-|  | e) biológiai vagy kémiai eljárással gyógyszer hatóanyaggyártás, vagy |
+| – biológiai vagy kémiai eljárással gyógyszerhatóanyag-gyártás, vagy |
 
-|  | f) robbanóanyag-gyártás |
+| – robbanóanyag-gyártás |
 
-| 22. | Cementgyártás 500 t/nap termelési kapacitástól |
+| 21. | Cementgyár | 500 t/nap termelési kapacitástól |
 
-| 23. | Azbesztcement termékek gyártása 20 ezer t/év késztermék-előállítástól |
+| 22. | Azbesztcement termékeket gyártó üzem | 20 ezer t/év késztermék előállításától |
 
-| 24. | a) Azbeszt súrlódóanyag előállítása 50 t/év késztermék-előállítástól b) Azbeszttartalmú termékek előállítása 200 t/év azbesztfelhasználástól |
+| 23. | Azbeszt súrlódó anyagot előállító üzem | 50 t/év késztermék előállításától |
 
-| 25. | Közúti gépjármű gyártása (gyártás, összeszerelés, motorgyártás) 10 000 db/év késztermék előállításától |
+| 24. | Azbeszttartalmú termékeket előállító üzem | 200 t/év azbeszt felhasználásától |
 
-| 26. | Kohómű (vas, acél) |
+| 25. | Közútigépjármű-gyártó üzem (gyártás, összeszerelés, motorgyártás) | 10 000 db/év késztermék előállításától |
 
-| 27. | Nemvas fémek előállítása ércből, koncentrátumokból vagy másodlagos nyersanyagokból kohászati, vegyi vagy elektrolitikus eljárásokkal |
+| 26. | Kohómű (vas, acél) | méretmegkötés nélkül |
 
-| Villamosenergia-, gőz-, vízellátás |
+| 27. | Nem vas fémeket ércből, koncentrátumokból vagy másodlagos nyersanyagokból kohászati, vegyi vagy elektrolikus eljárásokkal előállító üzem | méretmegkötés nélkül |
 
-| 28. | Hőerőmű 20 MW villamos teljesítménytől, egyéb égető berendezés 300 MW kimenő hőteljesítménytől |
+| Villamosenergia-, gáz-, gőz-, vízellátás |
 
-| 29. | Vízerőmű országos jelentőségű védett természeti területen |
+| 28. | Hőerőmű, egyéb égető berendezés | a) 20 MW villamos teljesítménytől hőerőműveknél |
 
-| 30. | Szélerőmű telep 10 MW összteljesítménytől országos jelentőségű védett természeti területen |
+| b) 300 MW kimenő hőteljesítménytől egyéb égető-berendezéseknél |
 
-| 31. | Atomerőmű, atomreaktor, valamint atomerőmű, atomreaktor üzemidejének meghosszabbítása, továbbá atomerőmű, atomreaktor felhagyása, azaz a nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktív anyaggal szennyezett alkotórészeinek végleges eltávolítása |
+| 29. | Vízerőmű | országos jelentőségű védett természeti területen méretmegkötés nélkül |
 
-| 32. | Villamos légvezeték 220 kV feszültségtől és 15 km hosszúságtól |
+| 30. | Szélerőmű, szélerőmű park | 10 MW összteljesítménytől országos jelentőségű védett természeti területen |
 
-| 33. | Atomfűtőmű, valamint atomfűtőmű felhagyása, ideértve minden nukleráris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását |
+| 31. | Atomerőmű, atomreaktor, valamint atomerőmű, atomreaktor üzemidejének meghosszabbítása, továbbá atomerőmű, atomreaktor felhagyása, azaz a nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktív anyaggal szennyezett alkotórészeinek végleges eltávolítása | méretmegkötés nélkül |
 
-| 34. | Felszín alatti vizek igénybevétele egy vízkivételi objektumból vagy objektumcsoportból 5 millió m3/év vízkivételtől |
+| 32. | Villamos légvezeték | 220 kV feszültségtől és 15 km hosszúságtól |
 
-| 35. | Felszíni vizet átvezető létesítmény 100 millió m3/év vízszállító kapacitástól (nem tartozik ide az ivóvíz vezetékben történő átvezetése) |
+| 33. | Atomfűtőmű, valamint atomfűtőmű felhagyása, ideértve minden nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását | méretmegkötés nélkül |
+
+| 34. | Felszín alatti vizek igénybevétele egy vízkivételi objektumból vagy objektumcsoportból | 5 millió m3/év vízkivételtől |
+
+| 35. | Felszíni vizek közötti vízátvezetés | 100 millió m3/év vízszállító-kapacitástól |
 
 | Szállítás, raktározás |
 
-| 36. | Országos közforgalmú vasútvonal |
+| 36. | Vasúti pálya | országos törzshálózat részeként (kivéve a kizárólag Budapest vonzáskörzeti vasúti közlekedését szolgáló vasúti pályát) |
 
-| 37. | Gyorsforgalmi út (autópálya, autóút) |
+| 37. | Közutak és közforgalom elől el nem zárt magánutak | a) gyorsforgalmi út (autópálya, autóút) építése csomóponti elemekkel együtt |
 
-| 38. | Négy- vagy több forgalmi sávos út, legalább 10 km hosszan egybefüggő új pályától (ha nem tartozik a 37. pontba) |
+| b) négy- vagy több forgalmi sávos út építése, legalább 10 km hosszan egybefüggő új pályától [amennyiben nem tartozik az a) pontba] |
 
-| 39. | Meglévő út négy- vagy több forgalmi sávúra bővítése a meglévő vagy módosított nyomvonalon, legalább 10 km hosszan egybefüggő új pályától, illetve forgalmi sávtól |
+| c) meglévő út négy- vagy több forgalmi sávúra bővítése a meglévő vagy módosított nyomvonalon, legalább 10 km hosszan egybefüggő beavatkozástól |
 
-| 40. | Gáz-, kőolaj- vagy vegyianyag szállító vezeték 800 mm átmérőtől és 40 km hossztól |
+| 38. | Víziút | 1350 tonnánál nagyobb hordképességű hajók számára |
 
-| 41. | Víziút2 1350 tonnánál nagyobb hordképességű hajók számára |
+| 39. | Kikötő (a kompmóló és a kikötésre szolgáló ponton kivételével) | 1350 tonnánál nagyobb hordképességű hajók számára, ideértve a kikötőn kívüli hajórakodót a parttal összekötött mólóval 1350 tonnánál nagyobb hordképességű hajók be- és kirakodására |
 
-| 42. | Kikötő 1350 tonnánál nagyobb hordképességű hajók számára, ideértve kikötőn kívüli hajórakodót a parttal összekötött mólóval 1350 tonnánál nagyobb hordképességű hajók be- és kirakodására. A kompmóló és a kikötésre szolgáló ponton nem tartozik ide. |
+| 40. | Repülőtér | 2100 m alaphosszúságú futópályától |
 
-| 43. | Repülőtér 2100 m alaphosszúságú futópályától |
+| 41. | Gáz-, kőolaj-, kőolajtermék- vagy vegyianyag-szállító vezeték | 800 mm átmérőtől és 40 km hossztól |
 
-| 44. | Kőolaj, kőolajtermék tárolása 200 ezer t össztároló kapacitástól |
+| 42. | Földgáztároló | 200 000 m3 össztároló-kapacitástól |
 
-| 45. | Földgáz tárolása 200 ezer m3 össztároló kapacitástól |
+| 43. | Kőolaj-, kőolajtermék-tároló | 200 000 t össztároló-kapacitástól |
 
-| 46. | Vegyi termék tárolása 200 ezer t össztároló kapacitástól |
+| 44. | Vegyi termék tárolása | 200 000 t össztároló-kapacitástól |
 
-| 47. | Állandó árvízvédelmi mű létesítése országos jelentőségű védett természeti területen |
+| 45. | Állandó árvízvédelmi mű | országos jelentőségű védett természeti területen |
 
-| Egyéb közösségi szolgáltatás |
+| Szennyvíz-, hulladékkezelés, köztisztasági szolgáltatás |
 
-| 48. | Szennyvíztisztító telep 50 ezer lakosegyenérték3 kapacitástól |
+| 46. | Szennyvíztisztító telep | 50 000 lakosegyenérték-kapacitástól |
 
-| 49. | Nem veszélyes hulladékot égetéssel, kémiai kezeléssel ártalmatlanító létesítmény 100 t/nap kapacitástól |
+| 47. | Nemveszélyeshulladék-lerakó létesítmény | a) napi 200 t hulladék lerakásától |
 
-| 50. | Nem veszélyes hulladék lerakó létesítmény napi 200 t hulladék lerakásától, vagy 500 ezer t teljes befogadó kapacitástól |
+| b) 500 000 t teljes befogadókapacitástól |
 
-| 51. | Veszélyes hulladék ártalmatlanító (lerakás, égetés, kémiai és biológiai kezelés) létesítmény |
+| 48. | Nem veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, kémiai kezeléssel ártalmatlanító létesítmény | 100 t/nap kapacitástól |
 
-| Sport |
-
-| 52. | Sípálya (a kapcsolódó létesítményekkel4 együtt) országos jelentőségű védett természeti területen |
-
-| 53. | 18 vagy több lyukú golfpálya (a kapcsolódó létesítményekkel4 együtt) országos jelentőségű védett természeti területen |
+| 49. | Veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, lerakással, kémiai vagy biológiai kezeléssel ártalmatlanító létesítmény | méretmegkötés nélkül |
 
 | Nómenklatúrába nem besorolt tevékenységek, illetve létesítmények |
 
-| 54. | Kutató vagy oktató atomreaktor, valamint ezek felhagyása, ideértve minden nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását |
+| 50. | Kutató vagy oktató atomreaktor, valamint ezek felhagyása, ideértve minden nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását | méretmegkötés nélkül |
 
-| 55. | Duzzasztómű vagy víztározó, 2 millió m3 duzzasztott, illetve tározott vízmennyiségtől |
+| 51. | Duzzasztómű vagy víztározó | 2 millió m3 duzzasztott, illetve tározott vízmennyiségtől |
 
-| 56. | Vízbesajtolás felszín alatti vízbe 3 millió m3/év víz bejuttatásától |
+| 52. | Vízbesajtolás felszín alatti vízbe | 3 millió m3/év víz bejuttatásától |
 
-| 57. | Halastó vagy tórendszer, ha több mint 30 ha-on fed országos jelentőségű védett természeti területet |
+| 53. | Halastó vagy tórendszer | ha több mint 30 ha-on fed országos jelentőségű védett természeti területet |
 
-## 1 Lásd 1996. évi LIV. törvény 8. §-a (1) bekezdésének a)–b) pontja.
-
-## 2 Lásd 2000. évi XLII. törvény 87. §-ának 44. pontja.
-
-## 3 Lakosegyenérték azt a szerves biológiailag lebontható terhelést jelenti a szennyvízben, amelynek öt napos biokémiai oxigénigénye 60 g/nap.
-
-## 4 Kapcsolódó létesítmény: a tevékenységet elősegítő, kiegészítő, kiszolgáló építmény a telepítési helyen.
+| 54. | Az 1. számú melléklet 1–53. pont B. és C. oszlopában és a 3. számú melléklet 1–127. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–53. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
 
 2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 

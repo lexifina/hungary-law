@@ -1,363 +1,449 @@
 ## A felügyelőség döntésétől függően környezeti hatásvizsgálat köteles tevékenységek
 
+## A felügyelőség előzetes vizsgálatban hozott döntésétől függően környezeti hatásvizsgálatra kötelezett tevékenységek
+
+| A. Sorszám | B. A tevékenység megnevezése | C. Küszöbérték, feltétel |
+
 | Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás |
 
-| 1. | Birtokrendezés 300 ha-tól; védett természeti területen vagy annak védőövezetén 10 ha-tól, ha az nem csak a tulajdonviszonyok és a telkek méretének megváltozásával jár, és a birtokrendezési tervben a 3. melléklet 2., 3., 4., 6., 8., 9., 134., 136., 137., 138., 140. méretmegkötések nélkül értelmezett pontjai közül legalább három megvalósítása szerepel |
+| 1. | Birtokrendezés, ha az nem csak a tulajdonviszonyok és a telkek méretének megváltozásával jár, és a birtokrendezési tervben a 3. számú melléklet 2–4., 6., 8–9., 123–126. méretmegkötések nélkül értelmezett pontjai közül legalább három megvalósítása szerepel | a) 300 ha-tól |
 
-| 2. | Intenzív mezőgazdasági célú földhasználatra való áttérés művelés alól kivettként nyilvántartott területeken 50 ha-tól, vízbázis védőövezetén, védett természeti területen vagy annak védőövezetén 1 ha-tól |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 10 ha-tól |
 
-| 3. | Mezőgazdasági vízrendezés – síkvidéken 500 ha-tól, – dombvidéken 300 ha-tól, – vízbázis védőövezetén, település külterületén lévő védett természeti területen méretmegkötés nélkül |
+| 2. | Intenzív mezőgazdasági célú földhasználatra való áttérés művelés alól kivettként nyilvántartott területeken | a) 50 ha felett |
 
-| 4. | Öntözőtelep 300 ha öntözendő területtől, illetve 0,45 m3/sec vízfelhasználástól; védett természeti területen vagy annak védőövezetén méretmegkötés nélkül |
+| b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
 
-| 5. | Nyílt felszínű öntöző főcsatorna 2 m3/sec vízszállító kapacitástól; védett természeti területen méretmegkötés nélkül |
+| 3. | Mezőgazdasági és egyéb nem belterületi (a TEÁOR szerint nem e kategóriába tartozó) vízrendezés | a) 500 ha-tól síkvidéken |
 
-| 6. | Állattartó telep (ha nem tartozik az 1. mellékletbe) – broilerek számára 100 számosállattól, – tojók számára 200 számosállattól, – sertés hízók számára 500 számosállattól, – sertés kocák számára 150 számosállattól, – egyéb állatok számára hígtrágyás technológia alkalmazása esetén 200 számosállattól; – vízbázis védőövezetén, védett természeti területen vagy annak védőövezetén baromfi esetén 10 számosállattól, egyéb állat esetén 50 számosállattól |
+| b) 300 ha-tól dombvidéken |
 
-| 7. | Erdőterület igénybevétele1– nem termőföldként való további hasznosítás esetén 10 ha-tól, – termőföldként való további hasznosítás esetén 30 ha-tól (ha nem tartozik az 1. mellékletbe) |
+| c) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 8. | Faültetvény telepítése 30 ha-tól |
+| 4. | Öntözőtelep | a) 300 ha öntözendő területtől, illetve 0,45 m3/sec vízfelhasználástól |
+
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
+
+| 5. | Nyílt felszínű öntöző-főcsatorna | a) 2 m3/sec vízszállító kapacitástól |
+
+| b) védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
+
+| 6. | Intenzív állattartó telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) baromfitelepnél 100 számosállattól broilerek számára |
+
+| b) baromfitelepnél 200 számosállattól tojók számára |
+
+| c) sertéstelepnél 500 számosállattól sertéshízók számára |
+
+| d) sertéstelepnél 150 számosállattól sertéskocák számára |
+
+| e) egyéb állatok számára hígtrágyás technológia alkalmazása esetén 200 számosállattól |
+
+| f) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén baromfi esetén 10 számosállattól, egyéb állat esetén 50 számosállattól |
+
+| 7. | Erdőterület igénybevétele (amennyiben nem tartozik az 1. számú mellékletbe) | a) nem termőföldként való további hasznosítás esetén 10 ha-tól |
+
+| b) termőföldként való további hasznosítás esetén 30 ha-tól |
+
+| 8. | Faültetvény természetességi állapotú erdő telepítése | 30 ha-tól |
 
 | Halászat |
 
-| 9. | Haltenyésztés intenzív ketreces vagy medencés haltermelő üzemben (ha nem tartozik az 1. mellékletbe) |
+| 9. | Haltenyésztés intenzív ketreces vagy medencés haltermelő üzemben (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés feltétel nélkül |
 
 | Bányászat |
 
-| 10. | Szénbányászat (ha nem tartozik az 1. mellékletbe), valamint a bányászat felhagyása |
+| 10. | Szénbányászat (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
-| 11. | Önállóan létesített szénosztályozó, előkészítő, brikettgyártó, meddőhányó hasznosító üzem |
+| b) felhagyása |
 
-| 12. | Tőzegkitermelés (ha nem tartozik az 1. mellékletbe) |
+| 11. | Önállóan létesített szénosztályozó, előkészítő, brikettgyártó, meddőhányó-hasznosító üzem | méretmegkötés nélkül |
 
-| 13. | Kőolaj-, földgázkitermelés (ha nem tartozik az 1. mellékletbe), a kutatófúrás csak védett természeti területen és felszín alatti vízbázis hidrogeológiai védőövezetén |
+| 12. | Tőzegkitermelés (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 14. | Önállóan létesített kőolaj és földgáz előkészítő üzem (különösen tisztítás, víztelenítés, kéntelenítés) |
+| 13. | Kőolaj-, földgázkitermelés (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
-| 15. | Uránércbányászat (ha nem tartozik az 1. mellékletbe), valamint a bányászat felhagyása |
+| b) kutatófúrás csak védett természeti területen, Natura 2000 területen, barlang védőövezetén és felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
 
-| 16. | Önállóan létesített uránérc előkészítő, ércdúsító, meddőhányó hasznosító mű |
+| 14. | Önállóan létesített kőolaj- és földgáz-előkészítő üzem (beleértve a tisztítást, víztelenítést, kéntelenítést) | méretmegkötés nélkül |
 
-| 17. | Fémtartalmú ércek bányászata (ha nem tartozik az 1. mellékletbe), valamint a bányászat felhagyása |
+| 15. | Uránércbányászat (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
-| 18. | Önállóan létesített fémérc-előkészítő, -dúsító, -pörkölő, -zsugorító, meddőhányó hasznosító mű |
+| b) felhagyása |
 
-| 19. | Egyéb bányászat (ha nem tartozik az 1. mellékletbe), kivéve az önállóan létesített ásványfeldolgozó üzemet |
+| 16. | Önállóan létesített uránérc-előkészítő, ércdúsító, meddőhányó-hasznosító mű | méretmegkötés nélkül |
+
+| 17. | Fémtartalmúérc-bányászat (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
+
+| b) felhagyása |
+
+| 18. | Önállóan létesített fémérc-előkészítő, -dúsító, -pörkölő, -zsugorító, meddőhányó-hasznosító mű | méretmegkötés nélkül |
+
+| 19. | Egyéb bányászat (amennyiben nem tartozik az 1. számú mellékletbe) kivéve az önállóan létesített ásványfeldolgozó üzemet | méretmegkötés nélkül |
 
 | Feldolgozóipar |
 
-| 20. | Húsfeldolgozás 10 ezer t/év késztermék előállításától |
+| 20. | Húsfeldolgozó üzem | 10 ezer t/év késztermék előállításától |
 
-| 21. | Önállóan létesített vágóhíd 25 t/nap vágott súly kapacitástól |
+| 21. | Vágóhíd (amennyiben nem tartozik a 20. pontba) | 25 t/nap vágottsúly-kapacitástól |
 
-| 22. | Halfeldolgozás 10 ezer t/év késztermék előállításától |
+| 22. | Halfeldolgozó üzem | 10 ezer t/év késztermék előállításától |
 
-| 23. | Gyümölcs-, zöldségfeldolgozás 40 ezer t/év késztermék előállításától |
+| 23. | Gyümölcs-, zöldségfeldolgozó üzem | 40 ezer t/év késztermék előállításától |
 
-| 24. | Növényi, állati olaj gyártása 40 ezer t/év késztermék előállításától |
+| 24. | Növényi-, állatiolaj-gyártó üzem | 40 ezer t/év késztermék előállításától |
 
-| 25. | Tejtermékek gyártása 200 t/nap beérkezett tejmennyiségtől |
+| 25. | Tejtermékgyártó üzem | 200 t/nap beérkezett tejmennyiségtől |
 
-| 26. | Keményítőgyártás 100 t/nap késztermék előállításától |
+| 26. | Keményítőgyártó üzem | 100 t/nap késztermék előállításától |
 
-| 27. | Cukorgyártás 5 ezer t/nap répafeldolgozó kapacitástól |
+| 27. | Cukorgyár | 5 ezer t/nap répafeldolgozó-kapacitástól |
 
-| 28. | Édesség gyártása 10 ezer t/év késztermék előállításától |
+| 28. | Édességgyártó üzem | 10 ezer t/év késztermék előállításától |
 
-| 29. | Sörgyártás 30 millió l/év kapacitástól |
+| 29. | Sörgyár | 30 millió l/év kapacitástól |
 
-| 30. | Malátagyártás 25 ezer t/év késztermék előállításától |
+| 30. | Malátagyártó üzem | 25 ezer t/év késztermék előállításától |
 
-| 31. | Egyéb élelmiszergyártás 40 ezer t/év késztermék előállítástól |
+| 31. | Egyéb élelmiszergyártó üzem | 40 ezer t/év késztermék előállításától |
 
-| 32. | Textilkikészítés (előkezelés, festés, nyomás, vegyi kezelés) 10 t/nap textil kikészítésétől |
+| 32. | Textilkikészítő üzem (előkezelés, festés, nyomás, vegyi kezelés) | 10 t/nap textil kikészítésétől |
 
-| 33. | Nyersbőrcserzés 12 t/nap kikészített bőr előállításától |
+| 33. | Nyersbőrcserző üzem | 12 t/nap kikészített bőr előállításától |
 
-| 34. | Papír-, kartongyártás 20 t/nap késztermék gyártásától (ha nem tartozik az 1. mellékletbe) |
+| 34. | Papír- és kartongyártó üzem | 20 t/nap késztermék gyártásától |
 
-| 35. | Kokszolómű (száraz szénlepárlás) |
+| 35. | Szén vagy bitumenpala elgázosítása vagy cseppfolyósítása (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 36. | Kenőanyag előállítása kőolajból 15 ezer t/év késztermék előállításától |
+| 36. | Kokszolómű (száraz szénlepárlás) | méretmegkötés nélkül |
 
-| 37. | Vegyi anyagok (kivéve a peroxidokat) gyártása 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 37. | Kenőanyag előállítása kőolajból | 15 ezer t/év késztermék előállításától |
 
-| 38. | Peroxidok gyártása 1000 t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 38. | Vegyi anyagot előállító üzem (kivéve a peroxidok és peszticidek gyártását és amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 39. | Műtrágyagyártás 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 39. | Peroxidgyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 1000 t/év késztermék előállításától |
 
-| 40. | Cellulózgyártás |
+| 40. | Műtrágyagyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 41. | Peszticidek gyártása, formálása és kiszerelése 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 41. | Cellulózgyártás | méretmegkötés nélkül |
 
-| 42. | Lakk és festék gyártása 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 42. | Peszticidet és más növényvédő és gyomirtó szereket gyártó, formáló és kiszerelő üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 43. | Gyógyszerkészítmény gyártása 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 43. | Lakk- és festékgyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 44. | Mosó- és tisztítószer gyártás 20 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 44. | Gyógyszerkészítmény-gyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 45. | Robbanóanyag gyártása (ha nem tartozik az 1. mellékletbe) |
+| 45. | Mosó- és tisztítószergyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
-| 46. | Robbanóanyag, lőszer regenerálására, felújítására vagy megsemmisítésére szolgáló létesítmény |
+| 46. | Robbanóanyag-gyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 47. | Szénszálgyártás 20 t/nap késztermék előállításától |
+| 47. | Robbanóanyag, lőszer regenerálására, felújítására vagy megsemmisítésére szolgáló létesítmény | méretmegkötés nélkül |
 
-| 48. | 10%-nál több oldószert tartalmazó gumioldat készítése és felhasználása 5 ezer t/év gumioldattól (ha nem tartozik az 1. mellékletbe) |
+| 48. | Szénszálgyártó üzem | 20 t/nap késztermék előállításától |
 
-| 49. | Gumikeverék-gyártás 20 ezer t/év gumikeverék előállításától |
+| 49. | 10%-nál több oldószert tartalmazó gumioldatot készítő és felhasználó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 5 ezer t/év gumioldattól |
 
-| 50. | Gumikeverék-feldolgozás 20 ezer t/év gumikeverék feldolgozásától |
+| 50. | Gumikeverék-gyártó, -feldolgozó üzem | 20 ezer t/év gumikeverék előállításától vagy feldolgozásától |
 
-| 51. | Üveg- és üvegszálgyártás 20 t/nap olvasztó kapacitástól |
+| 51. | Üveg- és üvegszálgyártó üzem | 20 t/nap olvasztókapacitástól |
 
-| 52. | Kerámiatermék, kerámiacsempe és -lap, égetett agyag építőanyag-gyártás 75 t/nap gyártási kapacitástól, illetve ahol a kemence térfogata a 4 m3-t, és abban az árusűrűség a 300 kg/m3-t meghaladja |
+| 52. | Kerámiatermék-, kerámiacsempe- és -lap-, égetettagyag építőanyag-gyártó üzem | a) 75 t/nap gyártási kapacitástól |
 
-| 53. | Cementgyártás (ha nem tartozik az 1. mellékletbe) |
+| b) ahol a kemence térfogata a 4 m3-t, és abban az árusűrűség a 300 kg/m3-t meghaladja |
 
-| 54. | Azbesztcement termékek gyártása 10 ezer t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 53. | Cementgyár (ha nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 55. | Azbeszt súrlódó anyag gyártás 25 t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 54. | Azbesztcement termékeket gyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 56. | Azbeszt termékek gyártása 100 t/év késztermék előállításától (ha nem tartozik az 1. mellékletbe) |
+| 55. | Azbeszt súrlódó anyagot gyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 57. | Ásványi anyagok olvasztása, beleértve az ásványi szál gyártását is 20 t/nap olvasztó kapacitástól |
+| 56. | Azbeszt termékeket gyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 58. | Vas és acél (elsődleges vagy másodlagos) olvasztása, beleértve a folyamatos öntést 2,5 tonna/óra kapacitástól |
+| 57. | Ásványi anyagokat olvasztó üzem, beleértve az ásványi szál gyártását is | 20 t/nap olvasztókapacitástól |
 
-| 59. | Meleghengermű 20 t/óra nyersacél feldolgozásától |
+| 58. | Vas és acél (elsődleges vagy másodlagos) olvasztására szolgáló üzem, beleértve a folyamatos öntést szolgáló üzemet is | 2,5 tonna/óra kapacitástól |
 
-| 60. | Kovácsolóüzem 50 kJ/kalapács energiafogyasztástól vagy 20 MW hőteljesítmény felvételtől |
+| 59. | Meleghengermű | 20 t/óra nyersacél feldolgozásától |
 
-| 61. | Nemvas fémek olvasztása, ötvözése, visszanyerése, finomítása 2 t/nap kapacitástól |
+| 60. | Kovácsolóüzem | 50 kJ/kalapács energiafogyasztástól vagy 20 MW hőteljesítmény-felvételtől |
 
-| 62. | Vas- és acélöntöde 20 t/nap termelési kapacitástól |
+| 61. | Nem vas fémeket olvasztó, ötvöző, visszanyerő, finomító üzem | 2 t/nap kapacitástól |
 
-| 63. | Bevonatolt termékek gyártása 2 t/óra nyersacél feldolgozó kapacitástól |
+| 62. | Vas- és acélöntöde | 20 t/nap termelési kapacitástól |
 
-| 64. | Alakformázás robbantással |
+| 63. | Bevonatolt termékeket gyártó üzem | 2 t/óra nyersacél feldolgozó-kapacitástól |
 
-| 65. | Fémek és műanyagok felületkezelése elektrolitikus vagy kémiai folyamatokkal 20 ezer m2/év felület kezelésétől, vagy ahol az összes kezelőkád térfogata meghaladja a 30 m3-t |
+| 64. | Alakformázás robbantással | méretmegkötés nélkül |
 
-| 66. | Akkumulátorgyártás |
+| 65. | Fémeket és műanyagokat elektrolitikus vagy kémiai folyamatokkal felületkezelő üzem | a) 20 ezer m2/év felület kezelésétől |
 
-| 67. | Nyomtatott áramkör előállítása automata gépsoron |
+| b) ahol az összes kezelőkád térfogata meghaladja a 30 m3-t |
 
-| 68. | Közúti gépjármű gyártása (gyártás, összeszerelés, motorgyártás) 5000 db/év késztermék előállításától, ha nem tartozik az 1. számú mellékletbe |
+| 66. | Akkumulátorgyár | méretmegkötés nélkül |
 
-| 69. | Hajógyártás (szabadidő-, sporthajó gyártása nem tartozik ide) |
+| 67. | Automata gépsoron nyomtatott áramköröket előállító üzem | méretmegkötés nélkül |
 
-| 70. | Vasúti kötöttpályás jármű gyártása |
+| 68. | Közútigépjármű-gyártó üzem (gyártás, összeszerelés, motorgyártás) | 5000 db/év késztermék előállításától |
 
-| 71. | 5700 kg felszállósúly feletti légijárművek gyártása és nagyjavítása |
+| 69. | Hajógyár (ide nem értve a szabadidő-, sporthajó gyártását) | méretmegkötés nélkül |
+
+| 70. | Vasúti kötöttpályásjármű-gyártó üzem | méretmegkötés nélkül |
+
+| 71. | Légijárműveket gyártó és nagyjavító üzem | 5700 kg felszálló tömegű és a feletti légijárművek gyártása esetén |
 
 | Villamosenergia-, gáz-, gőz-, vízellátás |
 
-| 72. | Vízerőmű 5 MW villamos teljesítménytől; vízbázis védőövezetén, védett természeti területen méretmegkötés nélkül (ha nem tartozik az 1. mellékletbe) |
+| 72. | Hőenergiát termelő létesítmény (gőz és meleg víz előállítása, amennyiben nem tartozik az 1. számú mellékletbe) | 50 MW kimenő teljesítménytől |
 
-| 73. | Geotermikus erőmű 20 MW villamos teljesítménytől; ásvány-, gyógy- és ivóvízbázis védőövezetén, védett természeti területen méretmegkötés nélkül |
+| 73. | Vízerőmű (amennyiben nem tartozik az 1. számú mellékletbe) | a) 5 MW villamos teljesítménytől |
 
-| 74. | Szélerőmű és szélerőmű telep 600 kW villamos teljesítménytől; védett természeti területen 200 kW teljesítménytől (ha nem tartozik az 1. mellékletbe) |
+| b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály alapján a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 75. | Villamos légvezeték 20 kV-tól (ha nem tartozik az 1. mellékletbe) |
+| 74. | Geotermikus energiát kinyerő, hasznosító létesítmény | a) 20 MW teljesítménytől |
 
-| 76. | Föld alatti vezeték település külterületén lévő védett természeti területen 1 km hossztól (az ivóvíz távvezeték és a gáz-, kőolaj-, kőolajtermék-szállító vezeték nem tartozik ide) |
+| b) ásvány-, gyógy- és ivóvízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen méretmegkötés nélkül (kivéve az egy háztartást ellátó létesítményeket) |
 
-| 77. | Földgáz elosztó vezeték 40 bar-ra tervezett üzemi nyomástól (ha nem tartozik a 76. pontba) |
+| 75. | Szélerőmű, szélerőműpark (amennyiben nem tartozik az 1. számú mellékletbe) | a) 600 kW villamos teljesítménytől |
 
-| 78. | Hőenergiát termelő létesítmény (gőz és meleg víz előállítása) 50 MW kimenő teljesítménytől (ha nem tartozik az 1. mellékletbe) |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 200 kW teljesítménytől |
 
-| 79. | Gőz- és melegvíz-elosztó vezeték település külterületén felszín felett vezetve 10 km hossztól; település külterületén lévő védett természeti területen 1 km-től (üzemen belüli vezeték nem tartozik ide) |
+| 76. | Villamos vezeték (amennyiben nem tartozik az 1. számú mellékletbe) | légvezetéknél 20 kV-tól |
 
-| 80. | Felszín alatti vizek igénybevétele, ha egy vízkivételi objektumból vagy objektumcsoportból a napi vízkivétel |
+| 77. | Földgázelosztó vezeték | 40 bar-ra tervezett üzemi nyomástól |
 
-|  | – talajvízből az 1 000 m3-t |
+| 78. | Gőz- és melegvízelosztó vezeték település külterületén felszín felett vezetve (ide nem értve az üzemen belüli vezetéket) | a) 10 km hossztól |
 
-|  | – termál karsztvízből az 500 m3-t |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 1 km hossztól |
 
-|  | – rétegvízből az 5 000 m3-t |
+| 79. | Ivóvíz-távvezeték (amennyiben nem tartozik az 1. számú mellékletbe) | a) védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-|  | – hideg karsztvízből a 2500 m3-t |
+| b) 1 km hossztól belterületen |
 
-|  | – partiszűrésű vízből a 5 000 m3-t |
+| 80. | Felszín alatti vizek igénybevétele egy vízkivételi objektumból vagy objektumcsoportból (amennyiben nem tartozik az 1. számú mellékletbe) | a) 1000 m3/naptól talajvízből |
 
-|  | – termál rétegvízből a 2 000 m3-t |
+| b) 500 m3/naptól termál karsztvízből |
 
-|  | – forrásból a mindenkori forráshozam 33%-át és az 50 m3-t |
+| c) 5000 m3/naptól rétegvízből |
 
-|  | meghaladja (ha nem tartozik az 1. mellékletbe) |
+| d) 2500 m3/naptól hideg karsztvízből |
 
-| 81. | Ivóvíz távvezeték védett természeti területen |
+| e) 5000 m3/naptól partiszűrésű vízből |
 
-| 82. | Felszíni vizek közötti vízátvezetés (ha nem tartozik az 1. mellékletbe), ha az átvezetett víz – a vízadó tó közepes, illetőleg a vízadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 20%-át egy év alatt, vagy – a vízadó vízfolyás2 augusztusi 80%-os vízhozamának (Qaug80%) 20%-át, illetve, ha – a befogadó tó közepes, illetőleg a befogadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 5%-át egy év alatt, vagy az ezeket tápláló vízfolyások Qaug80% vízhozamának 10%-át, vagy – a befogadó vízfolyás Qaug80% vízhozamának 10%-át meghaladja. |
+| f) 2000 m3/naptól termál rétegvízből |
+
+| g) a mindenkori forráshozam 33%-át és a napi 50 m3-t meghaladó esetben forrásból |
+
+| h) vízbázis védőövezetén az a)–g) pontok 10%-át meghaladó esetben (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
+
+| 81. | Felszíni vizek közötti vízátvezetés (amennyiben nem tartozik az 1. számú mellékletbe) | a) ha az átvezetett víz meghaladja a vízadó tó közepes, illetőleg a vízadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 20%-át egy év alatt |
+
+| b) ha az átvezetett víz meghaladja a vízadó vízfolyás augusztusi 80%-os vízhozamának (Qaug80%) 20%-át |
+
+| c) ha az átvezetett víz meghaladja a befogadó tó közepes, illetőleg a befogadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 5%-át egy év alatt, vagy az ezeket tápláló vízfolyások Qaug80% vízhozamának 10%-át |
+
+| d) ha az átvezetett víz meghaladja a befogadó vízfolyás Qaug80% vízhozamának 10%-át |
 
 | Kereskedelem, járműjavítás |
 
-| 83. | Közúti gépjárműjavító telep 50 db egy időben javítható gépjárműtől |
+| 82. | Közútigépjármű-javító telep | 20 db egy időben javítható gépjárműtől |
 
-| 84. | Bevásárlóközpont (több üzletből álló, eltérő profilú kereskedelmi egységeket és egyéb szolgáltatóhelyeket magába foglaló bevásárlóhely) a parkoló területe nélkül számított 10 ezer m2 nettó össz-szintterülettől vagy 300 parkolóhelytől |
+| 83. | Bevásárlóközpont | parkoló területe nélkül számított 10 000 m2 nettó össz-szintterülettől vagy 300 parkolóhelytől |
 
 | Szálláshely-szolgáltatás, vendéglátás |
 
-| 85. | Szálláshely-szolgáltató épület vagy épületegyüttes (a kapcsolódó létesítményekkel3 együtt) mező-, erdő-, vízgazdálkodási célra használt területen 500 szálláshelytől vagy 3 ha területfelhasználástól; település külterületén lévő védett természeti területen 50 szálláshelytől vagy 0,5 ha területfoglalástól4 |
+| 84. | Szálláshely-szolgáltató épület vagy épületegyüttes (a kapcsolódó létesítményekkel együtt) mező-, erdő-, vízgazdálkodási célra használt területen | a) 500 szállásférőhelytől vagy 3 ha területfelhasználástól |
 
-| 86. | Kemping település külterületén lévő védett természeti területen 50 sátor-, illetve lakókocsi, lakóautó helytől |
+| b) 50 szállásférőhelytől vagy 0,5 ha területfoglalástól település külterületén lévő védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+
+| 85. | Kemping | védett természeti területen, Natura 2000 területen, barlang védőövezetén 50 sátor-, illetve lakókocsi, lakóautó helytől |
 
 | Szállítás, raktározás |
 
-| 87. | I. rendű főút (ha nem tartozik az 1. mellékletbe) |
+| 86. | Vasúti pálya (amennyiben nem tartozik az 1. számú mellékletbe) | a) regionális, egyéb, csatlakozó vagy összekötő vasúti pálya |
 
-| 88. | 1. Országos közúthálózati kategóriába sorolható út (ha nem tartozik az 1. mellékletbe vagy a 87. pontba), ha a) 50 ha-nál nagyobb erdőtömböt szel át, b) védett természeti területen halad át, c)  Natura 2000 területen halad át, vagy d) gyógyhelyen a tervezett átlagos napi forgalom 1800 egységjármű vagy annál több 2. Kerékpárút védett természeti területen vagy Natura 2000 területen |
+| b) helyi vasúthálózat elemei (magasvasút, kéregvasút, metró, helyi érdekű vasút, villamos, és különleges pályával rendelkező vasút, kivéve a sífelvonót) |
 
-| 89. | Erdőgazdasági vagy mezőgazdasági út védett természeti területen 1 km hossztól |
+| c) mezőgazdasági, erdőgazdasági, ipari vagy kiránduló (erdei) vasút védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-| 90. | Autóbusz-pályaudvar 24 gépkocsiállástól |
+| 87. | Közutak és közforgalom elől el nem zárt magánutak, kerékpárutak (amennyiben nem tartozik az 1. számú mellékletbe) | a) országos közút építése (amennyiben nem tartozik az 1. mellékletbe) |
 
-| 91. | Kikötő 400 t vagy annál nagyobb hordképességű hajók számára (ha nem tartozik az 1. mellékletbe), kivéve a pontont |
+| b) országos közút fejlesztése 1 km hossztól |
 
-| 92. | Legalább 100 hajó kikötésére alkalmas sport- és kedvtelési célú kikötő, védett természeti területen 20 db vízijárműtől |
+| c) az előző pontokba nem tartozó országos közút, helyi közút, a közforgalom elől el nem zárt magánút és kerékpárút védett területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 93. | Víziút6 400 t vagy annál nagyobb hordképességű hajók számára (ha nem tartozik az 1. mellékletbe) |
+| 88. | Víziút (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
-| 94. | Gáz-, kőolaj-, kőolajtermék-szállító vezeték (ha nem tartozik az 1. mellékletbe) |
+| 89. | Vasúti pályaudvar, állomás | a) személypályaudvar megyei jogú városban és a fővárosban a megállóhelyek kivételével, vagy 120 vonat/nap tervezett forgalom fölött |
 
-| 95. | Földgáztárolás 20 ezer m3 össztároló kapacitástól (ha nem tartozik az 1. mellékletbe); egyéb égethető gázok felszín alatti tárolása 10 ezer m3-től; mindkét esetben védett természeti területen 5 ezer m3-től |
+| b) teherpályaudvar 400 kocsi/nap elegy tervezett feldolgozása fölött |
 
-| 96. | Szén, lignit önálló felszíni tárolása 100 ezer t tárolókapacitástól |
+| c) állomás |
 
-| 97. | Kőolaj, kőolajtermék tárolása 100 ezer t tárolókapacitástól (ha nem tartozik az 1. mellékletbe) |
+| – 50 kocsi/nap helyi kezelésű tervezett teherkocsi forgalom fölött, |
 
-| 98. | Vegyi termék önálló tárolása 30 ezer m3 tárolókapacitástól (ha nem tartozik az 1. mellékletbe) |
+| – veszélyes anyag rakodására alkalmas berendezéssel, |
 
-| 99. | a) Helyi közforgalmú vasút – magasvasút, kéregvasút, metró, helyi érdekű vasút, vagy – közúti vasút (villamos) 1 km pályahossztól; |
+| – kocsimosó berendezéssel |
 
-|  | b) különleges pályával rendelkező vasút (fogaskerekű, sikló, függőpálya), kivéve a sífelvonót |
+| d) határállomás |
 
-| 100. | Mezőgazdasági, erdőgazdasági, ipari vagy kiránduló (erdei) vasút védett természeti területen |
+| 90. | Önállóan létesített intermodális teherátrakó létesítmény | 3 ha területfoglalástól |
 
-| 101. | Vasúti pályaudvar |
+| 91. | Autóbusz-pályaudvar vagy -garázs | 20 (induló és érkező) gépkocsiállástól |
 
-|  | a) személypályaudvar megyei jogú városban és a fővárosban a megállóhelyek kivételével, vagy 120 vonat/nap tervezett forgalom fölött, |
+| 92. | Önállóan létesített felszíni vagy felszín alatti autóparkoló, beleértve a parkolóházat is | a) 300 parkolóhelytől |
 
-|  | b) teherpályaudvar 400 kocsi/nap elegy tervezett feldolgozása fölött, |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 100 parkolóhelytől |
 
-|  | c) állomás – 50 kocsi/nap helyi kezelésű tervezett teherkocsi forgalom fölött, – veszélyes anyag rakodására alkalmas berendezéssel, – kocsimosó berendezéssel, |
+| 93. | Kikötő (amennyiben nem tartozik az 1. számú mellékletbe) a kompmóló és a kikötésre szolgáló ponton kivételével | a) 400 t vagy annál nagyobb hordképességű hajók számára |
 
-|  | d) határállomás |
+| b) 100 kishajó kikötésére alkalmas sport- és kedvtelési célú kikötő |
 
-| 102. | Önállóan létesített felszíni vagy felszín alatti autóparkoló – beleértve a parkolóházat is – 300 parkolóhelytől; védett természeti területen vagy annak védőövezetén 100 parkolóhelytől |
+| c) védett természeti területen és Natura 2000 területen 20 kishajó kikötésére alkalmas sport- és kedvtelési célú kikötő |
 
-| 103. | Önállóan létesített intermodális teherátrakó létesítmény 3 ha területfoglalástól7 |
+| 94. | Repülőtér (amennyiben nem tartozik az 1. számú mellékletbe) | a) szilárd burkolatú futópályával |
 
-| 104. | Nyilvános repülőtér és polgári célú nem nyilvános repülőtér 800 m alaphosszúságú szilárd burkolatú futópályától; védett természeti területen hosszmegkötés és burkolatra való tekintet nélkül (ha nem tartozik az 1. mellékletbe) |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén burkolatra való tekintet nélkül |
+
+| 95. | Gáz-, kőolaj-, kőolajtermék- vagy vegyianyag-szállító vezeték (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
+
+| 96. | Földgáz felszíni és felszín alatti tárolója, egyéb égethető gázok felszín alatti tárolója | a) 20 000 m3 össztároló-kapacitástól földgáz esetén |
+
+| b) 10 000 m3 össztároló-kapacitástól egyéb éghető gázok esetén |
+
+| c) 500 m3 össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+
+| 97. | Szén, lignit önálló felszíni tárolója | a) 100 000 t össztároló-kapacitástól |
+
+| b) külterületen lévő védett természeti területen méretmegkötés nélkül |
+
+| 98. | Kőolaj-, kőolajtermék-tároló telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) 100 000 t össztároló-kapacitástól |
+
+| b) külterületen lévő védett természeti területen méretmegkötés nélkül |
+
+| 99. | Vegyi termék tárolása (amennyiben nem tartozik az 1. számú mellékletbe) | a) 30 000 m3 össztároló-kapacitástól |
+
+| b) külterületen lévő védett természeti területen méretmegkötés nélkül |
 
 | Közigazgatás, védelem |
 
-| 105. | Magyar Honvédség állandó laktanyai elhelyezése ezred, illetve ennél nagyobb szervezet esetén, vagy 3 ha területfoglalástól7; védett természeti területen méretmegkötés nélkül |
+| 100. | Magyar Honvédség lő- és gyakorlótere | a) ezred vagy ennél nagyobb szervezet esetén |
 
-| 106. | Magyar Honvédség lő- és gyakorlótere ezred vagy ennél nagyobb szervezet esetén, vagy 50 ha területfoglalástól7; védett természeti területen méretmegkötés nélkül |
+| b) méretmegkötés nélkül, védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-| 107. | Állami repülések céljára szolgáló repülőtér 800 m alaphosszúságú futópályától; védett természeti területen hosszmegkötés és burkolatra való tekintet nélkül (ha nem tartozik az 1. mellékletbe) |
-
-| 108. | Állandó árvízvédelmi mű létesítése vízbázis védőövezetén, védett természeti területen (ha nem tartozik az 1. mellékletbe) |
+| 101. | Állandó árvízvédelmi mű | vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén és települési belterületen |
 
 | Szennyvíz-, hulladékkezelés, köztisztasági szolgáltatás |
 
-| 109. | a) szennyvíztisztító telep (ha nem tartozik az 1. mellékletbe) aa) 10 ezer lakosegyenérték kapacitástól; ab) méretmegkötés nélkül felszín alatti vízbázis hidrogeológiai védőövezetén, védett természeti területen vagy annak védőövezetén vagy Natura 2000 területen; b) szennyvíz gyűjtőhálózat ba) 2 ezer lakosegyenérték kapacitástól, legalább 2 ezer folyóméter hosszú és legalább 350 mm átmérőjű gerincvezeték megépítése esetén; bb) méretmegkötés nélkül felszín alatti vízbázis hidrogeológiai védőövezetén, védett természeti területen vagy annak védőövezetén vagy Natura 2000 területen; |
+| 102. | Szennyvíztisztító telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) 10 000 lakosegyenérték-kapacitástól |
 
-| 110. | Szennyvíziszap biológiai kezelése 4 ezer t/év kapacitástól |
+| b) 15 ha-tól természetközeli szűrőmezős elszikkasztó rendszer, 50 ha-tól öntözéses szennyvízelhelyezés esetén |
 
-| 111. | Önállóan létesített szennyvíziszap lerakó 100 t/év szárazanyagtól; védett természeti területen vagy annak védőövezetén, felszín alatti vízbázis hidrogeológiai védőövezetén méretmegkötés nélkül |
+| c) felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 112. | Öntözéses szennyvízelhelyező telep 50 ha-tól; védett természeti területen vagy annak védőövezetén, felszín alatti vízbázis hidrogeológiai B védőövezetén méretmegkötés nélkül |
+| 103. | Szennyvízgyűjtő hálózat | a) 2000 lakosegyenérték-kapacitástól |
 
-| 113. | Szűrőmezős elszikkasztó rendszer 15 ha-tól; védett természeti területen vagy annak védőövezetén, felszín alatti vízbázis hidrogeológiai védőövezetén méretmegkötés nélkül |
+| b) felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén 1000 lakosegyenértéktől |
 
-| 114. | Föld alatti vezetékkel történő szennyvíz beinjektálás védett természeti területen vagy annak védőövezetén, vízbázis védőövezetén |
+| 104. | Nemveszélyeshulladék-lerakó létesítmény (amennyiben nem tartozik az 1. számú mellékletbe) | a) napi 10 t hulladék lerakásától |
 
-| 115. | Szennyvízleürítő és ürítő-kezelő telep, 100 m3/nap kapacitástól; védett természeti területen vagy annak védőövezetén, vízbázis védőövezetén méretmegkötés nélkül |
+| b) 25 000 t teljes befogadókapacitástól |
 
-| 116. | Nem veszélyes hulladék ártalmatlanítása – égetéssel 3 t/óra kapacitástól – kémiai kezeléssel 10 t/nap kapacitástól – lerakással napi 10 t hulladék lerakásától vagy 25 000 tonna teljes befogadó kapacitástól (ha nem tartozik az 1. mellékletbe) |
+| c) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 117. | Nem veszélyes hulladék hasznosítása 10 ezer t/év kapacitástól |
+| 105. | Nem veszélyes hulladékot égetéssel, kémiai kezeléssel, biológiai kezeléssel ártalmatlanító létesítmény (amennyiben nem tartozik az 1. számú mellékletbe) | a) 10 t/nap kapacitástól |
 
-| 118. | Fémhulladék gyűjtőhely (beleértve az autóroncstelepeket) fémfeldolgozással vagy újrahasznosításra történő előkészítéssel 5 db/nap gépjárműtől vagy 5 t/nap kapacitástól |
+| b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 119. | Veszélyes hulladék tároló telep 2 ezer t/év kapacitástól |
+| 106. | Nemveszélyeshulladék-hasznosító telep | a) 10 t/nap kapacitástól |
 
-| 120. | Veszélyes hulladék hasznosító 2 ezer t/év kapacitástól |
+|  |  | b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 121. | Állatihulladék-temető9 |
+| 107. | Fémhulladékgyűjtő, -feldolgozó és -újrahasznosító telep (beleértve az autóroncstelepeket) | a) 5 t/nap kapacitástól |
+
+|  |  | b) méretmegkötés nélkül vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+
+| 108. | Veszélyeshulladék-tároló és/vagy -hasznosító telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) önálló telepként méretmegkötés nélkül |
+
+| b) listán nem szereplő, más tevékenység részeként 2 ezer t/év kapacitástól |
+
+| 109. | Állatihulladék-temető | méretmegkötés nélkül |
 
 | Szórakoztatás, kultúra, sport |
 
-| 122. | Stadion, sportcsarnok 10 ezer fő befogadóképességtől |
+| 110. | Stadion, sportcsarnok | a) 1500 fő befogadóképességtől |
 
-| 123. | Állandó vidámpark, vízi vidámpark, szafari park (a kapcsolódó létesítményekkel10 együtt), ha a tervezett befogadóképesség egyidejűleg a 10 ezer főt, vagy a felhasznált terület a 3 ha-t meghaladja; védett természeti területen állandó vidámpark, vízi vidámpark esetén 1000 fő egyidejű befogadóképességtől, szafari park esetén méretmegkötés nélkül |
+| b) vízbázis védőövezetén (amennyiben a tevékenység megkezdését vagy a létesítmény megvalósítását a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló Korm. rendelet nem tiltja), védett természeti területen, Natura 2000 területen, barlang védőövezetén 500 fő befogadóképességtől |
 
-| 124. | Sípálya (a kapcsolódó létesítményekkel10 együtt) védett természeti területen (ha nem tartozik az 1. mellékletbe) |
+| 111. | Szabadidő eltöltésére szolgáló állandó szabadtéri létesítmények | a) 5000 fő egyidejű befogadóképességtől vagy 3 ha területfoglalástól vagy 300 db parkolóhelytől |
 
-| 125. | 18 vagy több lyukú golfpálya (a kapcsolódó létesítményekkel10 együtt) település külterületén lévő védett természeti területen, vízbázis védőövezetén (a minigolf nem tartozik ide) (ha nem tartozik az 1. mellékletbe) |
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 1 ha-tól |
 
-| 126. | Terepmotorozásra, terepautózásra kijelölt állandó pálya |
+| 112. | Sípálya (a kapcsolódó létesítményekkel együtt) | védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+
+| 113. | Golfpálya (a kapcsolódó létesítményekkel együtt, a minigolf kivételével) | a) 18 vagy többlyukú pálya esetén |
+
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén, vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), méretmegkötés nélkül |
+
+| 114. | Motoros járművek állandó versenypályája, terepmotorozásra, terepautózásra kijelölt állandó pálya (ha nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
 | Nómenklatúrába nem besorolt tevékenységek, illetve létesítmények |
 
-| 127. | “A” típusú izotóplaboratórium |
+| 115. | „A” típusú izotóplaboratórium | méretmegkötés nélkül |
 
-| 128. | Mélyfúrás kiépített fúrólétesítménnyel 650 m fúrási mélységtől (ha nem az 1. vagy a 3. mellékletben felsorolt más tevékenység része) vízbázis védőövezetén vagy védett természeti területen |
+| 116. | Mélyfúrás kiépített fúrólétesítménnyel (amennyiben nem a listában felsorolt más tevékenység része) | vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), vagy védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-| 129. | Szabadtéri létesítmény motorok, turbinák és reaktív motorok próbapadon történő vizsgálatához 500 kN tolóerőtől vagy ha a kapacitás egy időben legalább 10 MW |
+| 117. | Szabadtéri létesítmény motorok, turbinák és reaktív motorok próbapadon történő vizsgálatához | a) 500 kN tolóerőtől |
 
-| 130. | Állandó szabadtéri próbapálya motoros járművek részére 3 ha területfoglalástól7; védett természeti területen méretmegkötés nélkül |
+| b) legalább 10 MW egyidejű kapacitás esetén |
 
-| 131. | Ipari, raktározási célú építmények elhelyezésére szolgáló terület kialakítása (műszaki infrastruktúrával való ellátása) más célra használt területen 3 ha-tól; védett természeti területen méretmegkötés nélkül |
+| 118. | Állandó szabadtéri próbapálya motoros járművek részére | méretmegkötés nélkül |
 
-| 132. | Távközlési adó (antennatorony) védett természeti területen |
+| 119. | Ipari, raktározási célú építmények elhelyezésére szolgáló terület kialakítása (műszaki infrastruktúrával való ellátása) más célra használt területen | a) 3 ha-tól |
 
-| 133. | Duzzasztómű vagy víztározó 1 millió m3 duzzasztott, illetve tározott vízmennyiségtől (ha nem tartozik az 1. mellékletbe); vízbázis védőövezetén, védett természeti területen méretmegkötés nélkül |
+| b) védett természeti területen, vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), Natura 2000 területen, barlang védőövezetén 0,5 ha-tól |
 
-| 134. | Vízbesajtolás felszín alatti vízbe (ha nem tartozik az 1. mellékletbe) |
+| 120. | Távközlési adó (antennatorony) | védett természeti területen, Natura 2000 területen |
 
-| 135. | Területi vízrendezés beépítésre nem szánt területen – síkvidéken 500 ha-tól, – dombvidéken 300 ha-tól, – vízbázis védőövezetén, település külterületén lévő védett természeti területen méretmegkötés nélkül |
+| 121. | Duzzasztómű vagy tározó (amennyiben nem tartozik az 1. számú mellékletbe) | a) 1 millió m3 duzzasztott, illetve tározott vízmennyiségtől |
 
-| 136. | Halastó vagy tórendszer 30 ha-tól; vízbázis védőövezetén, védett természeti területen vagy annak védőövezetén méretmegkötés nélkül (ha nem tartozik az 1. mellékletbe) |
+| b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 137. | Állóvíz- és holtágszabályozás 5 ha szabályozandó vízfelülettől vagy 1 km partvonal hossztól; vízbázis védőövezetén, védett természeti területen méretmegkötés nélkül |
+| 122. | Vízbesajtolás felszín alatti vízbe (amennyiben nem tartozik az 1. számú mellékletbe) | termál víztestek esetén méretmegkötés nélkül |
 
-| 138. | Folyószabályozás vagy folyócsatornázás 3 fkm-től; kanyarátvágás esetén vagy vízbázis védőövezetén, védett természeti területen, hosszmegkötés nélkül |
+| 123. | Halastó vagy tórendszer (amennyiben nem tartozik az 1. számú mellékletbe) | a) 30 ha-tól |
 
-| 139. | Vízfolyásrendezés (kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést) 1 km vízfolyáshossztól; vízbázis védőövezetén 50 m vízfolyáshossztól, védett természeti területen méretmegkötés nélkül |
+| b) 5 ha-tól intenzív halastó vagy tórendszer esetében |
 
-| 140. | Egyéb, az 1. mellékletbe vagy a 3. melléklet 1–139. pontjába nem tartozó építmény vagy építmény együttes beépített, vagy beépítésre szánt területen 3 ha területfoglalástól11, vagy 300 parkolóhelytől |
+| c) védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
 
-| 141. | Az 1. mellékletben felsorolt tevékenység, illetve létesítmény, ha azt legfeljebb két évig, kizárólag vagy főként új módszerek vagy termékek kifejlesztésére vagy kipróbálására végzik, illetve hozzák létre |
+| 124. | Állóvíz- és holtágszabályozás | a) 3 ha szabályozandó vízfelülettől vagy 1 km partvonalhossztól |
 
-| 142. | Az 1. melléklet 1–3., 5–31., 33–35., 42–46., 48–57. pontjaiban, valamint a 3. melléklet 3–6., 9–74., 78., 80., 82–86., 90–92., 95–98., 101–107., 109. a), 110–136., 140., 141. pontjaiban felsorolt tevékenység vagy létesítmény 2. § (2) bekezdés ab) pontja szerinti jelentős módosítása, kivéve, ha a módosítás az 1. mellékletben szereplő tevékenység vagy létesítmény megvalósítása |
+| b) vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
 
-| 143. | Az 1. melléklet 32., 36–38., 40., 41., 47. pontjaiban, valamint a 3. melléklet 75–77., 79., 81., 87–89., 93–94., 99., 100., 108. 109. b) pontjaiban felsorolt tevékenység vagy létesítmény 2. § (2) bekezdés ac) pontja szerinti jelentős módosítása, kivéve, ha a módosítás az 1. mellékletben szereplő tevékenység vagy létesítmény megvalósítása |
+| 125. | Folyószabályozás vagy folyócsatornázás | a) 1 fkm-től |
 
-| 144. | A 3. melléklet 1–140. pontjaiban feltüntetett mennyiségi küszöbérték alatti tevékenység bővítése, ha az a bővítés következtében eléri vagy meghaladja a küszöbértéket, és a bővítés egyúttal legalább 25%-os növekedést jelent a tevékenység megvalósítására vonatkozó engedélyben meghatározott nagysághoz képest. |
+| b) kanyar-átvágás esetén vagy vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
 
-## 1 Lásd 1996. évi LIV. törvény 8. §-a (1) bekezdésének a)–b) pontja.
+| 126. | Vízfolyásrendezés (kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést) | a) 1 km vízfolyáshossztól |
 
-## 2 E pont alkalmazásában vízfolyások azok a természetes úton létrejött terepalakulatok, amelyekben az év bármely időszakában meghatározható mennyiségű víz áramlik.
+| b) 50 m vízfolyáshossztól vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
 
-## 3 Kapcsolódó létesítmény: a tevékenységet elősegítő, kiegészítő, kiszolgáló építmény a telepítési helyen..
+| c) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-## 4 Területfoglaláson a tevékenység megvalósításához szükséges telek, vagy telkek teljes és összes területét kell érteni.
+| 127. | Egyéb, az 1–126. pontba nem tartozó építmény vagy építmény együttes beépített vagy beépítésre szánt területen | a) 3 ha területfoglalástól |
 
-## 5 Lásd 19/1994. (V. 31.) KHVM rendelet 1. melléklet.
+| b) 300 parkolóhelytől |
 
-## 6 Lásd 2000. évi XLII. törvény 87. §-ának 44. pontja.
+| c) 50 m-es épületmagasságtól |
 
-## 7 Területfoglaláson a tevékenység megvalósításához szükséges telek, vagy telkek teljes és összes területét kell érteni.
+| d) védett természeti területen, Natura 2000 területen, barlang védőövezetén 1 ha területfoglalástól vagy 50 parkolóhelytől |
 
-## 8 Lakosegyenérték azt a szerves biológiailag lebontható terhelést jelenti a szennyvízben, amelynek öt napos biokémiai oxigénigénye 60 g/nap.
+| 128. | Az 1. számú mellékletben felsorolt tevékenység, illetve létesítmény, ha azt legfeljebb két évig kizárólag vagy főként új módszerek vagy termékek kifejlesztésére vagy kipróbálására végzik, illetve hozzák létre |  |
 
-## 9 Lásd 41/1997. (V. 28.) FM rendelet 5. függelékének 2. 1 pontja.
+| 129. | Az 1. számú melléklet 1–31., 33–35., 38–40., 42–44., 46–53. pontjaiban, valamint a 3. számú melléklet 1–75., 80–85., 89–94., 96–100., 102., 104–127. pontjaiban felsorolt tevékenység vagy létesítmény 2. § (2) bekezdés ab) pontja szerinti jelentős módosítása, kivéve, ha a módosítás az 1. számú melléklet B. és C. oszlopa szerint meghatározott tevékenység vagy létesítmény megvalósítása |  |
 
-## 10 Kapcsolódó létesítmény: a tevékenységet elősegítő, kiegészítő, kiszolgáló építmény a telepítési helyen..
+| 130. | Az 1. számú melléklet 32., 36–37., 41., 45. pontjaiban, valamint a 3. számú melléklet 76–79., 86–88., 95., 101., 103. pontjaiban felsorolt tevékenység vagy létesítmény 2. § (2) bekezdés ac) pontja szerinti jelentős módosítása, kivéve, ha a módosítás az 1. számú melléklet B. és C. oszlopa szerint meghatározott tevékenység vagy létesítmény megvalósítása |  |
 
-## 11 Területfoglaláson a tevékenység megvalósításához szükséges telek, vagy telkek teljes és összes területét kell érteni.
+| 131. | A 3. számú melléklet 1–127. pontjaiban feltüntetett mennyiségi küszöbérték alatti tevékenység bővítése, ha az a bővítés következtében eléri vagy meghaladja a küszöbértéket, kivéve, ha a bővítés az 1. számú melléklet B. és C. oszlopa szerint meghatározott tevékenység vagy létesítmény megvalósítása |  |
 
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
