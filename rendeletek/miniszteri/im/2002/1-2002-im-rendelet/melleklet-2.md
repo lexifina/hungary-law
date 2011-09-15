@@ -316,7 +316,7 @@
 
 ## 2099 Zalaegerszegi Munkaügyi Bíróság
 
-2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^83]
+2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^91]
 
 A bírósági végrehajtók irattári terve
 
@@ -342,4 +342,6 @@ A bírósági végrehajtók irattári terve
 
 | 10 | Azok a végrehajtási ügyek, amelyeknek az iratai között 1900. év előtt keletkezett irat található | 0 | 15 |
 
-[^83]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése szerint módosított szöveg, e módosító rendelet 7. § (4) bekezdése alapján folyamatban lévő ügyekben is alkalmazni kell.
+| 11 | Tartásra kötelezett adatainak beszerzésére irányuló ügy | 5 | 0 |
+
+[^91]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.

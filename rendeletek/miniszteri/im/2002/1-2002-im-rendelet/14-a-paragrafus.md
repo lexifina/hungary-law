@@ -1,6 +1,6 @@
-## A közjegyző által kibocsátott fizetési meghagyás és a fizetési meghagyás alapján kiállított végrehajtási lap továbbítása az önálló bírósági végrehajtó részére[^12]
+## A közjegyző által kibocsátott fizetési meghagyás és a fizetési meghagyás alapján kiállított végrehajtási lap továbbítása az önálló bírósági végrehajtó részére[^15]
 
-14/A. §[^13] (1) Az önálló bírósági végrehajtó részére
+14/A. §[^16] (1) Az önálló bírósági végrehajtó részére
 
 a) a közjegyző által kibocsátott, a fizetési meghagyásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) 16. § (3) bekezdése szerint kézbesítendő fizetési meghagyás,
 
@@ -44,5 +44,5 @@ g) biztosítsa az ügyelosztási programmal végzett műveletek naplózását a 
 
 h) biztosítsa az ügyelosztási programban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni, továbbá a jogosulatlan adatbevitel elleni védelmet.
 
-[^12]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
-[^13]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
+[^15]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
+[^16]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
