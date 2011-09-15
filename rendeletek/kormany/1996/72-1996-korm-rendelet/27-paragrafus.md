@@ -1,77 +1,40 @@
-## 26. §[^95]
+## 26. §[^96]
 
 ## Vegyes és záró rendelkezések
 
-27. § (1)[^96] E rendelet 2–14. §-ában meghatározott vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 2 hónapon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő harminc napon belül adják meg állásfoglalásukat. A hiányosan benyújtott kérelem esetében a felügyelőség az ügyfelet a kérelem beérkezésétől számított tizenöt napon belül hívja fel hiánypótlásra.
+27. § (1)[^97] E rendelet 2–14. §-ában meghatározott vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 2 hónapon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő harminc napon belül adják meg állásfoglalásukat. A hiányosan benyújtott kérelem esetében a felügyelőség az ügyfelet a kérelem beérkezésétől számított tizenöt napon belül hívja fel hiánypótlásra.
 
-(2)[^97] A hivatalból indított eljárásban a vízügyi hatóság az idézésre vonatkozó általános szabályok szerint a székhelyén kívül lakó vagy tartózkodó magánszemélyt a székhelyére is idézheti.
+(2)[^98] A hivatalból indított eljárásban a vízügyi hatóság az idézésre vonatkozó általános szabályok szerint a székhelyén kívül lakó vagy tartózkodó magánszemélyt a székhelyére is idézheti.
 
-(3)[^98] E rendelet 1996. július 1. napján lép hatályba. Rendelkezéseit a (4)–(6) bekezdéseiben foglaltak kivételével a folyamatban levő ügyeknél is alkalmazni kell.
+(3)[^99] E rendelet 1996. július 1. napján lép hatályba. Rendelkezéseit a (4)–(6) bekezdéseiben foglaltak kivételével a folyamatban levő ügyeknél is alkalmazni kell.
 
-(4)[^99]
+(4)[^100] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-(5)[^100]
+(5)[^101] Ez a rendelet
 
-(6)[^101] Az engedély nélkül vagy attól eltérően megvalósított vízilétesítményekkel, vízimunkákkal kapcsolatos, a 15. § (5) bekezdésében meghatározott bírságra vonatkozó rendelkezések csak a rendelet hatálybalépését követően megvalósított létesítmények esetén alkalmazhatóak.
+a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
 
-(7)[^102]
+b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének, valamint
 
-(8)[^103] E rendelet 3. § (12) bekezdésében foglaltakat a hatálybalépését követően indult eljárásokban kell alkalmazni. A folyamatban levő első és másodfokú eljárásokban a jegyző, illetve a felettes szerv jár el.
+c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
 
-(9)[^104]
+## való megfelelést szolgálja.
 
-Melléklet a 72/1996. (V. 22.) Korm. rendelethez[^105]
+(6)[^102] Az engedély nélkül vagy attól eltérően megvalósított vízilétesítményekkel, vízimunkákkal kapcsolatos, a 15. § (5) bekezdésében meghatározott bírságra vonatkozó rendelkezések csak a rendelet hatálybalépését követően megvalósított létesítmények esetén alkalmazhatóak.
 
-A felügyeleti kategóriába sorolás szempontjai
+(7)[^103]
 
-a) Az I. ,,kiemelkedően fontos'' felügyeleti kategóriába tartoznak különösen:
+(8)[^104] E rendelet 3. § (12) bekezdésében foglaltakat a hatálybalépését követően indult eljárásokban kell alkalmazni. A folyamatban levő első és másodfokú eljárásokban a jegyző, illetve a felettes szerv jár el.
 
-– a regionális közüzemi vízellátó, valamint szennyvízelvezető és -tisztító rendszerek (együttesen víziközművek) és az egyéb, vízgazdálkodási szempontból – a 20 000 főt meghaladó lakosságszámú ellátási körzetet érintő, illetve a 2000 m3/nap mértékadó kapacitást meghaladó – jelentős térséget ellátó víziközművek,
+(9)[^105]
 
-– azok a saját célú (üzemi) vízilétesítmények, amelyek az ipar vízigényét elégítik ki és az összes vízfelhasználás – annak jellegétől függetlenül – az 1000 m3/nap, illetve a szennyvízkibocsátás az 500 m3/nap mennyiséget meghaladja,
-
-– a gyógy- és hévízhasználatok, illetve a közfürdők vízilétesítményei, ha az ellátott személyek száma a napi 1000 főt meghaladja, vagy a természetes, illetve a mesterséges medrű vizekben kialakított nyilvános fürdőhely, valamint a szabad mederben kijelölt fürdőhely kivételével a napi vízhasználat 1000 m3/nap feletti,
-
-– a kizárólagos állami tulajdonban lévő vízek vagy vízilétesítmények igénybevételével történő vízszolgáltatás, függetlenül a felhasznált vízmennyiségtől és a vízjogi engedélyben engedélyezett öntözött terület nagyságától,
-
-– az I. rendű árvízvédelmi létesítmények, továbbá az árvíz- és belvízmentesítést szolgáló, az állam kizárólagos tulajdonában lévő egyéb közcélú vízilétesítmények.
-
-b) A II. nagyobb térséget érintő, jelentős kategóriába tartoznak:
-
-– a regionális közüzemi rendszerek és egyéb vízgazdálkodási szempontból jelentős térséget ellátó – az 5000 fő lakosságszámnál nagyobb ellátási körzetet érintő, illetve 500 m3/nap mértékadó kapacitást meghaladó – víziközművek,
-
-– azok a saját célú (üzemi) vízilétesítmények, ahol az összes vízfelhasználás – annak jellegétől függetlenül – az 500–1000 m3/nap, illetve a szennyvízkibocsátás 100–500 m3/nap mennyiségű,
-
-– a gyógy- és hévízhasználatok, illetve a közfürdők vízilétesítményei, ha azok mértékadó befogadóképessége a napi 500 főt meghaladja, vagy ha az ellátott személyek száma napi 500 fő vagy a természetes, illetve a mesterséges medrű vizekben kialakított nyilvános fürdőhely, valamint a szabad mederben kijelölt fürdőhely kivételével a napi vízfelhasználás 500–1000 m3/nap,
-
-– a forgalomképes állami tulajdonban lévő vízről, vagy vízilétesítmény igénybevételével történő vízszolgáltatás esetén, függetlenül a felhasznált vízmennyiségtől és a vízjogi engedélyben engedélyezett öntözött terület nagyságától,
-
-– a II. rendű árvédelmi vonalak, töltések, ha a védvonal legfeljebb két település közigazgatási területét érinti,
-
-– az állam tulajdonában lévő egyéb, az ár- és belvízmentesítést szolgáló vízilétesítmények.
-
-c) A III. ,,helyi jelentőségű'' kategóriába tartoznak:
-
-– azok a víziközművek, közcélú vízilétesítmények – ideértve a vízműveket –, valamint a szennyvízelvezető és -tisztító művek, amelyek ellátási körzete az 5000 fő lakosságszámot vagy mértékadó kapacitása az 500 m3/nap mennyiséget nem éri el,
-
-– a saját célú (üzemi) vízilétesítmények, ahol az összes vízfelhasználás – annak jellegétől függetlenül – az 500 m3/nap mennyiséget, illetve a szennyvízkibocsátás a 100 m3/nap mennyiséget nem haladja meg,
-
-– a II. rendű árvédelmi vonalak, töltések, amelyek egy település közigazgatási területét érintik,
-
-– az önkormányzati tulajdonban lévő egyéb, a helyi vízkárelhárítást, vízrendezést és csapadékvíz elvezetést szolgáló közcélú vízilétesítmények.
-
-d) A IV. ,,kisebb jelentőségű'' kategóriába tartoznak:
-
-– az előbbi kategóriákba be nem sorolható vízilétesítmények és vízhasználatok.
-
-[^95]: A 26. §-t és az azt megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^96]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^97]: A 27. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^98]: A 27. § (3) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének g) pontjával megállapított szöveg.
-[^99]: A 27. § új (4) bekezdését a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. A 27. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^100]: A 27. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja. A 27. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^101]: A 27. § eredeti (5) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (6) bekezdésre változtatta.
-[^102]: A 27. § eredeti (6) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (7) bekezdésre változtatta, hatályon kívül helyezte a 377/2007. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének b) pontja.
-[^103]: A 27. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta a szövegbe.
-[^104]: A 27. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1385. pontja.
-[^105]: A mellékletet a 10/2000. (II. 2.) Korm. rendelet 10. §-a, illetve melléklete iktatta a szövegbe.
+[^96]: A 26. §-t és az azt megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^97]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^98]: A 27. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^99]: A 27. § (3) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének g) pontjával megállapított szöveg.
+[^100]: A 27. § (4) bekezdését újonnan a 82/2011. (V. 18.) Korm. rendelet 5. §-a iktatta be.
+[^101]: A 27. § (5) bekezdését újonnan a 82/2011. (V. 18.) Korm. rendelet 5. §-a iktatta be.
+[^102]: A 27. § eredeti (5) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (6) bekezdésre változtatta.
+[^103]: A 27. § eredeti (6) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (7) bekezdésre változtatta, hatályon kívül helyezte a 377/2007. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének b) pontja.
+[^104]: A 27. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^105]: A 27. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1385. pontja.

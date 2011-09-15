@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2009-10-01 | 1996-72-20-22.19 | 72/1996. (V. 22.) Korm. rendelet |
 | 2010-02-26 | 1996-72-20-22.20 | 23/2010. (II. 11.) Korm. rendelet |
 | 2011-01-01 | 1996-72-20-22.21 | 23/2010. (II. 11.) Korm. rendelet |
+| 2011-09-15 | 1996-72-20-22.22 | 82/2011. (V. 18.) Korm. rendelet |
