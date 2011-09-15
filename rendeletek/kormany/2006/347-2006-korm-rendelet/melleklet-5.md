@@ -24,7 +24,7 @@
 
 |  | *Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el |  |  |  |
 
-5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^114]
+5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^116]
 
 A felügyelőség települési hulladék begyűjtése, üzletszerű szállítása, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában közreműködő szakhatóságok
 
@@ -40,4 +40,4 @@ A felügyelőség települési hulladék begyűjtése, üzletszerű szállítás
 
 |  | * Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el. |  |  |  |  |  |  |
 
-[^114]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
+[^116]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.

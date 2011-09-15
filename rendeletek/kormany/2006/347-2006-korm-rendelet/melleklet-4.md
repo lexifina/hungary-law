@@ -22,7 +22,7 @@
 
 ## Őrségi Nemzeti Park Igazgatóság, Őriszentpéter
 
-## II. A nemzeti park igazgatóságok működési köre[^112]
+## II. A nemzeti park igazgatóságok működési köre[^114]
 
 ## 1. AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
 
@@ -650,7 +650,7 @@
 
 ## települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
 
-4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^113]
+4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^115]
 
-[^112]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^113]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
+[^114]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^115]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
