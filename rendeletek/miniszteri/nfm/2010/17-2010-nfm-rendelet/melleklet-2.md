@@ -196,9 +196,9 @@
 
 | 97. |  |  | 31 | 841 | 01 | 0010 | 31 | 02 | Tehergépkocsi-vezető |  |
 
-| 98. | 23. | 246. | 31 | 525 | 02 | 1000 | 00 | 00 | Járműfényező4 | Közlekedés szakmacsoport |
+| 98. | 23. |  |  |  |  |  |  |  |  |  |
 
-| 99. | 24. | 247. | 31 | 525 | 03 | 1000 | 00 | 00 | Karosszérialakatos4 | Közlekedés szakmacsoport |
+| 99. | 24. |  |  |  |  |  |  |  |  |  |
 
 | 100. | 25. | 248. | 31 | 543 | 05 | 0000 | 00 | 00 | Kishajóépítő, -karbantartó | Közlekedés szakmacsoport |
 
@@ -346,7 +346,29 @@
 
 | 172. | 43. | 330. | 52 | 841 | 02 | 0000 | 00 | 00 | Postai ügyintéző | Kereskedelem- marketing, üzleti adminisztráció szakmacsoport |
 
-2. melléklet a 17/2010. (XI. 25.) NFM rendelethez
+| 173. | 44. |  | 31 | 525 | 05 |  |  |  | Gépjárműkarosszéria-készítő, javító | Közlekedés szakmacsoport |
+
+| 174. |  |  |  |  |  |  |  |  | Szakképesítés-elágazások: |  |
+
+| 175. |  |  | 31 | 525 | 05 | 0010 | 31 | 01 | Járműfényező |  |
+
+| 176. |  |  | 31 | 525 | 05 | 0010 | 31 | 02 | Járműkarosszéria előkészítő, felületbevonó |  |
+
+| 177. |  |  | 31 | 525 | 05 | 0010 | 31 | 03 | Járműkarosszéria készítő, szerelő |  |
+
+| 178. |  |  | 31 | 525 | 05 | 0010 | 31 | 04 | Karosszérialakatos |  |
+
+| 179. | 45. |  | 31 | 525 | 06 | 0000 | 00 | 00 | Gépjármű-mechatronikus | Közlekedés szakmacsoport |
+
+| 180. | 46. |  | 31 | 525 | 07 |  |  |  | Járműgépészeti szerelő, javító, karbantartó | Közlekedés szakmacsoport |
+
+| 181. |  |  |  |  |  |  |  |  | Szakképesítés-elágazások |  |
+
+| 182. |  |  | 31 | 525 | 07 | 0010 | 31 | 01 | Gépjármű-építési, szerelési logisztikus |  |
+
+| 183. |  |  | 31 | 525 | 07 | 0010 | 31 | 02 | Közúti gépjárműépítő, szerelő |  |
+
+2. melléklet a 17/2010. (XI. 25.) NFM rendelethez[^9]
 
 A közlekedésért, az informatikáért és a postaügyért felelős miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményei
 
@@ -7104,130 +7126,4 @@ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
 | 3.1. | Részszakképesítés | Nincs |  |
 
-| 3.2. | Szakképesítés-elágazások |  |  |
-
-|  |  | Azonosítószám: | 54 482 01 0010 54 01 |
-
-|  |  | Megnevezés: | Adatbázistervező |
-
-|  |  | Azonosítószám: | 54 482 01 0010 54 02 |
-
-|  |  | Megnevezés: | Adatelemző |
-
-| 3.3. | Szakképesítés-ráépülés | Nincs |  |
-
-4. Hozzárendelt FEOR szám: 3133
-
-5. Képzés maximális időtartama:
-
-| Szakképesítés megnevezése | Szakképzési évfolyamok száma | Óraszám |
-
-| Adatbázis adminisztrátor | – | 1400 |
-
-II.
-
-EGYÉB ADATOK
-
-SZAKKÉPESÍTÉS-ELÁGAZÁS MEGNEVEZÉSE: Adatbázistervező
-
-1. A képzés megkezdésének szükséges feltételei:
-
-Bemeneti kompetenciák: –
-
-Iskolai előképzettség: érettségi vizsga
-
-Szakmai előképzettség: –
-
-Előírt gyakorlat: –
-
-Elérhető kreditek mennyisége: –
-
-Pályaalkalmassági követelmények: nem szükségesek
-
-Szakmai alkalmassági követelmények: nem szükségesek
-
-2. Elmélet aránya: 50%
-
-3. Gyakorlat aránya: 50%
-
-4. Szakmai alapképzés (iskolai rendszerben): –
-
-Időtartama (évben vagy félévben): –
-
-5. Szintvizsga (iskolai rendszerben): nem szervezhető
-
-Ha szervezhető, mikor: –
-
-6. Egészségügyi alkalmassági vizsgálat: nem szükséges
-
-SZAKKÉPESÍTÉS-ELÁGAZÁS MEGNEVEZÉSE: Adatelemző
-
-1. A képzés megkezdésének szükséges feltételei:
-
-Bemeneti kompetenciák: –
-
-Iskolai előképzettség: érettségi vizsga
-
-Szakmai előképzettség: –
-
-Előírt gyakorlat: –
-
-Elérhető kreditek mennyisége: –
-
-Pályaalkalmassági követelmények: nem szükségesek
-
-Szakmai alkalmassági követelmények: nem szükségesek
-
-2. Elmélet aránya: 50%
-
-3. Gyakorlat aránya: 50%
-
-4. Szakmai alapképzés (iskolai rendszerben): –
-
-Időtartama (évben vagy félévben): –
-
-5. Szintvizsga (iskolai rendszerben): nem szervezhető
-
-Ha szervezhető, mikor: –
-
-6. Egészségügyi alkalmassági vizsgálat: nem szükséges
-
-III.
-
-MUNKATERÜLET
-
-1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
-
-| A munkakör, foglalkozás |
-
-| FEOR száma | FEOR megnevezése |
-
-| 3133 | Adatbázis-felelős |
-
-2. A szakképesítés munkaterületének rövid, jellemző leírása:
-
-Számítógépet kezel, szoftvereket használ
-
-Munkaszervezéssel kapcsolatos tevékenységet végez
-
-Projektet tervez és értékel
-
-Rendszert/alkalmazást tervez és fejleszt
-
-Rendszert tesztel és dokumentál a kialakított eszközkörnyezetben
-
-Programintegrációs feladatot végez
-
-Adatbányászatot végez
-
-Adatbázisokat üzemeltet
-
-Adatkapcsolati feladatot lát el
-
-Adatmentés és archiválás
-
-Adatbázis szoftvert telepít
-
-Adatbázisok tervezése és kialakítása
-
-3. A szakképesítéssel rokon szakképesítések:
+[^9]: A 2. melléklet a 47/2011. (IX. 14.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

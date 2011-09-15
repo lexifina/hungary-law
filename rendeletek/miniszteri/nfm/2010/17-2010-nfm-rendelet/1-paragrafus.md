@@ -7,3 +7,7 @@
 (4) A 4. melléklet tartalmazza az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelettel, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelettel és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelettel kiadott Országos Képzési Jegyzékben szereplő szakképesítések közti megfeleltetést.
 
 (5) Az 5. melléklet tartalmazza a szakmai ismeretek típusaihoz és a szakmai készségek szintjeihez tartozó meghatározásokat.
+
+(6)[^2] A 6. melléklet tartalmazza az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelettel, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelettel, és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelettel kiadott, valamint az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet módosításáról szóló 133/2011. (VII. 18.) Korm. rendelettel módosított Országos Képzési Jegyzékben szereplő szakképesítések közti megfeleltetést.
+
+[^2]: Az 1. § (6) bekezdését a 47/2011. (IX. 14.) NFM rendelet 1. §-a iktatta be.
