@@ -1,5 +1,3 @@
-## 11. §[^10] Az engedély iránti kérelem elbírálása során a légiközlekedési hatóság helyszíni szemlét tart.
-
 ## III. Fejezet
 
 ## ELVI LÉTESÍTÉS ENGEDÉLYEZÉSE
@@ -43,5 +41,3 @@ jb) az építésügyi hatósági eljárásokról és az építésügyi hatóság
 jc) amennyiben a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet szerint tervtanácsi vélemény is szükséges, a tervtanácsi véleményt.
 
 (4) Ha a kérelmező a kérelemhez a (3) bekezdés a) pontja szerinti társasági szerződést, alapító okiratot vagy alapszabályt, valamint cégkivonatot eredeti vagy közjegyző által hitelesített példányát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet.
-
-[^10]: [A 11/A. §-nak a 82/2011. (V. 18.) Korm. rendelet 52. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-én hatályos szövege: „11/A. § (1) A légiközlekedési hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását. (2) A légiközlekedési hatóság – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.”.]
