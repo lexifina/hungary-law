@@ -12,7 +12,9 @@ d) az erdőtalaj 400 m2-t meghaladó beépítése esetén a humuszos termőréte
 
 e) az időleges valamint a rendeltetésszerű használatot akadályozó igénybevétel esetében a terület újraerdősítésre való alkalmassá tétele érdekében tervezett tevékenységek leírását,
 
-f)[^2] érintettség esetén a csereerdősítésre tervezett terület megjelölését és az erdőtelepítési jogosultság igazolását.
+f) érintettség esetén a csereerdősítésre tervezett terület megjelölését és az erdőtelepítési jogosultság igazolását,
+
+g)[^2] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
 
 (2) A kérelemben az Evt. 78. § (1) bekezdésének megfelelően pontosan meg kell határozni a tervezett igénybevétel közérdekkel való összhangját, és alá kell támasztani annak indokoltságát.
 
@@ -20,4 +22,4 @@ f)[^2] érintettség esetén a csereerdősítésre tervezett terület megjelöl�
 
 (4) Az (1)–(3) bekezdésben foglaltakat az Evt. 85. § (2) bekezdése szerinti fennmaradási engedély kérelem esetében is alkalmazni kell.
 
-[^2]: Az 54. § (1) bekezdés g) pontjának a 38/2011. (V. 18.) VM rendelet 5. §-ával beiktatott, a 9. § (1) bekezdése alapján 2011. szeptember 15-étől hatályos szövege: „g) a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.”.]
+[^2]: Az 54. § (1) bekezdés g) pontját a 38/2011. (V. 18.) VM rendelet 5. §-a iktatta be.

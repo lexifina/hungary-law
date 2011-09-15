@@ -8,7 +8,9 @@ b) a tervezett igénybevétel területét föld-, illetve alrészletenként két
 
 c) az igénybevételre tervezett terület beazonosítására alkalmas helyszínrajzot, melynek méretaránya nem lehet kisebb mint 1: 10 000, valamint
 
-d)[^3] érintettség esetén a csereerdősítésre tervezett terület megjelölését.
+d) érintettség esetén a csereerdősítésre tervezett terület megjelölését,
+
+e)[^3] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr. meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
 
 (2) Az erdő igénybevételének erdészeti magánút, vagy épített közelítő nyom építése céljából történő elvi engedélyezésére vonatkozó kérelemhez az (1) bekezdésben foglaltakon felül valamennyi nyomvonal változathoz tartozóan csatolni kell a tervezett út
 
@@ -22,4 +24,4 @@ c) minta-keresztszelvényeit.
 
 (4) Erdő időleges igénybevételének, illetve a rendeltetésszerű használata öt évnél rövidebb időtartamú akadályozásának elvi engedélyezésére vonatkozó kérelemben a kérelmezőnek meg kell adnia az igénybevétel tervezett időtartamát.
 
-[^3]: [Az 57. § (1) bekezdés e) pontjának a 38/2011. (V. 18.) VM rendelet 6. §-ával beiktatott, a 9. § (1) bekezdése alapján 2011. szeptember 15-étől hatályos szövege: „e) a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr. meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.”.]
+[^3]: Az 57. § (1) bekezdés e) pontját a 38/2011. (V. 18.) VM rendelet 6. §-a iktatta be.
