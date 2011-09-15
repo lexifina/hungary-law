@@ -1,4 +1,4 @@
-3. §[^3] (1)[^4] A feleket – ha törvény számukra tárgyi költségmentességet nem biztosít – jövedelmi és vagyoni viszonyaikra tekintet nélkül költségfeljegyzési jog (tárgyi költségfeljegyzési jog) illeti meg a következő perekben:[^5]
+3. §[^3] (1)[^4] A feleket – ha törvény, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy nemzetközi megállapodás számukra tárgyi költségmentességet nem biztosít – jövedelmi és vagyoni viszonyaikra tekintet nélkül költségfeljegyzési jog (tárgyi költségfeljegyzési jog) illeti meg a következő perekben:[^5]
 
 a) az apasági és a származás megállapítása iránti egyéb per;
 
@@ -8,7 +8,7 @@ c)[^6]
 
 d) a gyermek elhelyezésével és átadásával, valamint a kapcsolattartással összefüggő per;
 
-e) a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, továbbá a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti pert is;
+e)[^7] a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti pert, továbbá a határon átnyúló tartási ügyben a tartásra kötelezett adatainak beszerzése iránti eljárást is;
 
 f) a munkaviszonnyal, a közszolgálati és a közalkalmazotti jogviszonnyal, más szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket tárgyi illetékfeljegyzési jog illeti meg;
 
@@ -21,6 +21,7 @@ h) bűncselekménnyel a személy életében, testi épségében vagy egészség�
 (3) A tárgyi költségfeljegyzési jog a vértulajdonság-vizsgálat és a származás megállapításához szükséges más orvosszakértői (élettani) vizsgálat költségének előlegezése alól nem mentesít.
 
 [^3]: A 3. § az 56/2007. (XII. 22.) IRM rendelet 127. § (2) bekezdésével megállapított szöveg. E módosító rendelet 125. § (3) bekezdése alapján a rendelkezést személyes költségmentesség engedélyezése esetén a 2008. február 6. napját követően előterjesztett kérelmek elbírálása során, míg a tárgyi költségmentesség és tárgyi költségfeljegyzési jog esetén a 2008. február 6. napját követően indult ügyekben kell alkalmazni.
-[^4]: A 3. § (1) bekezdés bevezető szövegrésze a 48/2009. (IX. 28.) IRM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 33. § (2) bekezdés c) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.
+[^4]: A 3. § (1) bekezdés nyitó szövegrésze a 48/2009. (IX. 28.) IRM rendelet 5. §-ával megállapított, a 26/2011. (VIII. 31.) KIM rendelet 2. §-a szerint módosított szöveg.
 [^5]: Lásd a 6/2008. (III. 1.) IRM rendelet 5. §-át.
 [^6]: A 3. § (1) bekezdés c) pontját a 48/2009. (IX. 28.) IRM rendelet 34. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 33. § (2) bekezdés c) pontja alapján a rendelkezést a 2009. október 1. napján folyamatban lévő eljárásokban is alkalmazni kell.
+[^7]: A 3. § (1) bekezdés e) pontja a 26/2011. (VIII. 31.) KIM rendelet 1. §-ával megállapított szöveg.

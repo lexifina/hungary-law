@@ -2,7 +2,7 @@
 
 ## és megvonása
 
-8. §[^16] (1) A bíróság a személyes költségmentesség feltételeinek fennállását felülvizsgálja
+8. §[^17] (1) A bíróság a személyes költségmentesség feltételeinek fennállását felülvizsgálja
 
 a) az eljárás jogerős befejezéséig — az engedélyezés időpontjához képest — évente,
 
@@ -20,9 +20,9 @@ b) végrehajtás terhe mellett fizesse meg az állam által előlegezett költs�
 
 c) helyezze letétbe a perköltség-biztosítékot, ha ennek a Pp. 89. §-ában foglalt feltételei fennállnak,
 
-d)[^17]
+d)[^18]
 
 (4) Ha a bíróság a költségmentességet azért vonja meg, mert az engedélyezés feltételei utóbb szűntek meg, a fél a megvonás időpontjától kezdve köteles az esetleg felmerülő illetéket leróni, és a költségeket előlegezni.
 
-[^16]: A 8. § a 17/1995. (VII. 25.) IM rendelet 7. §-ával megállapított szöveg.
-[^17]: A 8. § (3) bekezdésének d) pontját az 56/2007. (XII. 22.) IRM rendelet 126. § (1) bekezdésének e) pontja hatályon kívül helyezte.
+[^17]: A 8. § a 17/1995. (VII. 25.) IM rendelet 7. §-ával megállapított szöveg.
+[^18]: A 8. § (3) bekezdésének d) pontját az 56/2007. (XII. 22.) IRM rendelet 126. § (1) bekezdésének e) pontja hatályon kívül helyezte.

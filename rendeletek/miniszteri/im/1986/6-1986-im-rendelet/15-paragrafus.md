@@ -10,6 +10,6 @@
 
 (5) Ha az eljárás félbeszakadt, szünetel vagy a bíróság a tárgyalást felfüggesztette, a meg nem fizetett illeték és az állam által előlegezett költség megfizetéséről nem kell intézkedni. Ha az eljárás szünetelés folytán megszűnt, a bíróságnak a meg nem fizetett illeték és az állam által előlegezett költség viseléséről külön határozatban rendelkeznie kell.
 
-(6)[^32] A pártfogó ügyvéd díjának előlegezése és megfizetése külön jogszabály rendelkezései szerint történik.
+(6)[^33] A pártfogó ügyvéd díjának előlegezése és megfizetése külön jogszabály rendelkezései szerint történik.
 
-[^32]: A 15. § (6) bekezdését a 17/1995. (VII. 25.) IM rendelet 15. §-ának (2) bekezdése hatályon kívül helyezte, újonnan az 56/2007. (XII. 22.) IRM rendelet 127. § (8) bekezdése iktatta be. Ez utóbbi módosító rendelet 125. § (3) bekezdése alapján a rendelkezést személyes költségmentesség engedélyezése esetén a 2008. január 1. napját követően előterjesztett kérelmek elbírálása során, míg a tárgyi költségmentesség és tárgyi költségfeljegyzési jog esetén a 2008. január 1. napját követően indult ügyekben kell alkalmazni.
+[^33]: A 15. § (6) bekezdését a 17/1995. (VII. 25.) IM rendelet 15. §-ának (2) bekezdése hatályon kívül helyezte, újonnan az 56/2007. (XII. 22.) IRM rendelet 127. § (8) bekezdése iktatta be. Ez utóbbi módosító rendelet 125. § (3) bekezdése alapján a rendelkezést személyes költségmentesség engedélyezése esetén a 2008. január 1. napját követően előterjesztett kérelmek elbírálása során, míg a tárgyi költségmentesség és tárgyi költségfeljegyzési jog esetén a 2008. január 1. napját követően indult ügyekben kell alkalmazni.
