@@ -10,8 +10,8 @@ b)[^26] az alkalmazni kívánt személy nyilatkozatát, amelyben maga is kéri a
 
 c) a Vht. szerinti névjegyzékbe vételi feltételek fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát.
 
-(3)[^27] A kamara elnöksége megvizsgálja a benyújtott iratokat és a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt; a 12. § (3) bekezdésében foglalt kérdésekre meghallgatja a névjegyzékbe veendő személyt, továbbá meghallgatja a kérelmező (munkáltatói jogokat gyakorló) önálló végrehajtót is, ily módon dönt a névjegyzékbe vétel kérdésében.
+(3)[^27] A kamara elnöksége megvizsgálja a benyújtott iratokat és a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt; a 12. § (2) bekezdésében foglalt kérdésekre meghallgatja a névjegyzékbe veendő személyt, továbbá meghallgatja a kérelmező (munkáltatói jogokat gyakorló) önálló végrehajtót is, ily módon dönt a névjegyzékbe vétel kérdésében.
 
 [^25]: A 13. §-t a 2/2011. (II. 3.) KIM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
 [^26]: A 14. § (2) bekezdés b) pontja a 6/2010. (III. 12.) IRM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^27]: A 14. § (3) bekezdése a 6/2010. (III. 12.) IRM rendelet 6. § b) pontja szerint módosított szöveg.
+[^27]: A 14. § (3) bekezdése a 6/2010. (III. 12.) IRM rendelet 6. § b) pontja, a 26/2011. (VIII. 31.) KIM rendelet 6. §-a szerint módosított szöveg.

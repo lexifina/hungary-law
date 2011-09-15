@@ -4,7 +4,7 @@ a) a kinevezési feltételek fennállását igazoló okiratok eredeti példány�
 
 b)[^11] a pályázó személyes adatait és rövid úton történő elérhetőségét (elektronikus levélcím, telefax-szám) is tartalmazó részletes szakmai önéletrajzot,
 
-c)[^12] a pályamunkát (a kamara erre rendszeresített e-mail címére elektronikus formában is megküldve),
+c)[^12] a miniszter által közzétett tartalmi és formai követelményeknek megfelelő pályamunkát (a kamara erre rendszeresített e-mail címére elektronikus formában is megküldve),
 
 d)[^13] az összeférhetetlenségnek a kinevezés esetére vállalt megszüntetésére vonatkozó nyilatkozatot,
 
@@ -22,7 +22,7 @@ b) ha a hatósági bizonyítvány kiadása iránti kérelmét a pályázó a kam
 
 [^10]: A 10. § a 6/2010. (III. 12.) IRM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^11]: A 10. § (1) bekezdés b) pontja a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 10. § (1) bekezdés c) pontja a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 10. § (1) bekezdés c) pontja a 26/2011. (VIII. 31.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^13]: A 10. § (1) bekezdés d) pontját a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdése iktatta be.
 [^14]: A 10. § (1) bekezdés e) pontját a 2/2011. (II. 3.) KIM rendelet 1. § (1) bekezdése iktatta be.
 [^15]: A 10. § (4) bekezdését a 2/2011. (II. 3.) KIM rendelet 1. § (2) bekezdése iktatta be.
