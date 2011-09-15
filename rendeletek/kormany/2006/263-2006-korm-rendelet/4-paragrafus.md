@@ -194,7 +194,9 @@ c) a Kkt. 24/A. § (2) bekezdése szerint engedélyezett vizsgáló állomás te
 
 d) a Kkt. 24/A. § (6) bekezdése szerint engedélyezett műszaki vizsgabiztosi tevékenység, valamint
 
-e) a veszélyes áru szállítási biztonsági tanácsadói tevékenység.
+e) a veszélyes áru szállítási biztonsági tanácsadói
+
+## tevékenység.
 
 (13)[^18] A központi közlekedési közigazgatási bírságnyilvántartás vezetésével kapcsolatos feladatokat elsőfokon a Közúti Gépjármű-közlekedési Hivatal látja el.
 

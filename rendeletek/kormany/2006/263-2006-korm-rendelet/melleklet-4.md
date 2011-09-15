@@ -20,9 +20,31 @@
 
 | 6. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 7. | Gyorsforgalmi út esetén. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | az illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | Gyorsforgalmi út esetén. | Annak elbírálása kérdésében, hogy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 8. | Főút, összekötő út, bekötőút, és állomáshoz vezető út, belterületi gyorsforgalmi út, belterületi elsőrendű főút, belterületi másodrendű főút, gyűjtőút, zajárnyékoló fal, zajárnyékoló töltés, valamint – a nem kizárólag gyalogos vagy kerékpáros forgalom lebonyolítására szolgáló – híd, felüljáró, alagút, aluljáró engedélyezése esetén. |  | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, |
+
+| b) az adott tevékenység megfelel-e az elérhető legjobb technika alapján meghatározott levegőtisztaság-védelmi követelményeknek és előírásoknak, a levegő minőségére vonatkozó előírásoknak, valamint a védelmi övezet kijelölési szabályainak, |
+
+| c) az engedélyezési tervdokumentáció és a létesítmény zajkibocsátása kielégíti-e a környezeti zaj és rezgés elleni védelem követelményeit, |
+
+| d) az adott tevékenység megfelel-e a felszín alatti vizek és ivóvízbázisok állapotának védelme, továbbá a vizek lefolyási viszonyainak vizsgálata követelményeinek, |
+
+| e) az építésnél az építési és a bontási hulladékok kezelése, valamint a hulladékok felhasználása megfelel-e a hulladékgazdálkodási követelményeknek. |
+
+| 8. | Főút, összekötő út, bekötőút és állomáshoz vezető út, belterületi gyorsforgalmi út, belterületi elsőrendű főút, belterületi másodrendű főút, gyűjtőút, közforgalom elől el nem zárt magánút, parkoló, zajárnyékoló fal, zajárnyékoló töltés, valamint – a nem kizárólag gyalogos vagy kerékpáros forgalom lebonyolítására szolgáló – híd, felüljáró, alagút, aluljáró engedélyezése esetén. | Annak elbírálása kérdésében, hogy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+
+| a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, |
+
+| b) az adott tevékenység megfelel-e az elérhető legjobb technika alapján meghatározott levegőtisztaság-védelmi követelményeknek és előírásoknak, a levegő minőségére vonatkozó előírásoknak, valamint a védelmi övezet kijelölési szabályainak, |
+
+| c) az engedélyezési tervdokumentáció és a létesítmény zajkibocsátása kielégíti-e a környezeti zaj és rezgés elleni védelem követelményeit, |
+
+| d) az adott tevékenység megfelel-e a felszín alatti vizek és ivóvízbázisok állapotának védelme, továbbá a vizek lefolyási viszonyainak vizsgálata követelményeinek, |
+
+| e) az építésnél az építési és a bontási hulladékok kezelése, valamint a hulladékok felhasználása megfelel-e a hulladékgazdálkodási követelményeknek, |
+
+| f) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
 
 | 9. | Helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetén. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője,a fővárosban a főjegyző | a Kormány általános hatáskörű területi államigazgatási szerve |
 
@@ -30,6 +52,6 @@
 
 | 11. | Minden esetben. | A településrendezési eszközökkel való megfelelőség vizsgálata. | építésügyi hatóság | fővárosi és megyei kormányhivatal |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^163]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^172]
 
-[^163]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^172]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
