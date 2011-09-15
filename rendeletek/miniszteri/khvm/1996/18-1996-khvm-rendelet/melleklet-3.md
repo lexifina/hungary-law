@@ -354,7 +354,7 @@
 
 ## 7. hidrológiai (egyesített rendszer esetén) hidraulikai és technológiai számítások.
 
-## III/A.[^34] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
+## III/A.[^35] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
 
 ## 1. Műszaki leírás
 
@@ -376,7 +376,7 @@
 
 ## f) jogszabályban meghatározott védőtávolságok, illetve az erre vonatkozó adatok;
 
-## g)[^35] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
+## g)[^36] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
 
 ## 2. Áttekintő helyszínrajz M: 1:5000 vagy 1:1000
 
@@ -756,7 +756,7 @@
 
 ## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^36]
+3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^37]
 
 Szennyezőforrások ismertetése a tervdokumentációban
 
@@ -854,6 +854,6 @@ Annak felderítésével, hogy ezekből nem szivároghat-e szennyezett felszíni 
 
 A műszaki-hidrológiai dokumentációk alapján értékelve a vízzáró képződmények harántolásával okozott veszélyt, különösen állagromlás esetén
 
-[^34]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
-[^35]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
-[^36]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
+[^35]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
+[^36]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
+[^37]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
