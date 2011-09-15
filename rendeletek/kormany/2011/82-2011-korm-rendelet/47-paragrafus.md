@@ -1,0 +1,3 @@
+## 46. § Az Ékr. „Eljárás felfüggesztése” alcíme a következő 14/A. §-sal egészül ki:
+
+## „14/A. § Az építésügyi hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.”

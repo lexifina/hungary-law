@@ -1,0 +1,3 @@
+## 36. § A Bkr. 4/A. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az (1) bekezdés szerinti esetben a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.”
