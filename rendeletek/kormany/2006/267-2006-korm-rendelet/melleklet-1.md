@@ -1,3 +1,5 @@
-1. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^26]
+## való megfelelést szolgálja.
 
-[^26]: Az új mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+1. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^32]
+
+[^32]: Az új mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

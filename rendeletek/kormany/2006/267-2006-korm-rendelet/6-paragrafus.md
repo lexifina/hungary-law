@@ -1,4 +1,4 @@
-6. §[^22] (1) A Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
+6. §[^25] (1) A Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
 
 (2) Az ELGI-nek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
 
@@ -32,7 +32,7 @@ j) kapcsolattartás a hazai és nemzetközi szervezetekkel.
 
 (7) Az ELGI éves kutatási munkaprogramját – az ELGI javaslata alapján – a Hivatal elnöke az ELGI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
 
-6./A §[^23] (1) A Magyar Állami Földtani Intézet (a továbbiakban: MÁFI) önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
+6./A §[^26] (1) A Magyar Állami Földtani Intézet (a továbbiakban: MÁFI) önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
 
 (2) A MÁFI-nek az Áht. szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
 
@@ -64,5 +64,5 @@ i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és 
 
 (7) A MÁFI éves kutatási munkaprogramját – a MÁFI javaslata alapján – a Hivatal elnöke a MÁFI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
 
-[^22]: A 6. § a 351/2010. (XII. 30.) Korm. rendelet 162. §-ával megállapított szöveg.
-[^23]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be.
+[^25]: A 6. § a 351/2010. (XII. 30.) Korm. rendelet 162. §-ával megállapított szöveg.
+[^26]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be.
