@@ -4,7 +4,7 @@
 
 ## 1.1. Általános szabályok
 
-## 1.1.1.[^73] A szállítási forgalmi díjat az egyetemes szolgáltatásra nem jogosult felhasználók által felhasznált, a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf), aag), aai) pontja, valamint a 2. § (1) bekezdés a) pont ac) alpont aca) pontja szerinti átadási-átvételi pontokon mért és a kapcsolódó (elosztó)rendszer üzemeltetője által – az ÜKSZ-ben, illetve a határkeresztező vezetékek esetében a kapcsolódó rendszerüzemeltetővel kötött együttműködési megállapodásban, a szállítóvezeték be- és kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott földgáz hőmennyisége után kell megfizetni a tárgyhót követő hónapban. A földgázszállító rendszerhez kapcsolódó rendszerüzemeltető köteles minden hónap havi allokációja során az egyetemes szolgáltatásra jogosult felhasználókra vonatkozó havi mennyiséget rendszerhasználónként és kiadási pontonként megadni a szállítói engedélyesnek. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ, illetve az Együttműködési Megállapodás tartalmazza. A rendszerhasználó kérésére a szállítói engedélyes köteles a jegyzőkönyvben szereplő fűtőértéket díjmentesen, műbizonylattal alátámasztani.
+## 1.1.1.[^73] A szállítási forgalmi díjat a 2. § (1) bekezdés a) pont aa) alpont aaa), aab), aaf), aag), aai) pontja, valamint a 2. § (1) bekezdés a) pont ac) alpont aca) pontja szerinti átadási-átvételi pontokon mért és a kapcsolódó (elosztó)rendszer üzemeltetője által – az ÜKSZ-ben, illetve a határkeresztező vezetékek esetében a kapcsolódó rendszerüzemeltetővel kötött együttműködési megállapodásban, a szállítóvezeték be- és kilépési pontjaira vonatkozó allokálási szabályok szerint – leosztott földgáz hőmennyisége után kell megfizetni a tárgyhót követő hónapban. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ, illetve az Együttműködési Megállapodás tartalmazza. A rendszerhasználó kérésére a szállítói engedélyes köteles a jegyzőkönyvben szereplő fűtőértéket díjmentesen, műbizonylattal alátámasztani.
 
 ## 1.1.2. A rendszerhasználók által fizetendő szállítási kapacitásdíj összegét
 
@@ -318,7 +318,7 @@
 
 ## 2.6.4.[^93] Ha a szerződés a megszakítást legfeljebb összesen 25 gáznap időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja a 2.3. pontban meghatározott elosztási alapdíj vagy elosztási kapacitásdíj 15%-a.
 
-## 2.6.5.[^94] Ha a szerződés a megszakítást összesen 25 gáznapnál hosszabb időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja az 1.3. pontban meghatározott szállítási kapacitásdíj 10%-a.
+## 2.6.5.[^94] Ha a szerződés a megszakítást összesen 25 gáznapnál hosszabb időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja a 2.3. pontban meghatározott elosztási alapdíj vagy kapacitásdíj 10%-a.
 
 ## 2.7. A napi megszakítható elosztási kapacitás-lekötés szabályai az átadási-átvételi pontokon
 
@@ -394,7 +394,7 @@
 
 4. melléklet a 31/2009. (VI. 25.) KHEM rendelethez
 
-[^73]: A 3. melléklet 1.1.1. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^73]: A 3. számú melléklet 1.1.1. pontja a 46/2011. (IX. 14.) NFM rendelet 4. §-ával megállapított szöveg.
 [^74]: A 3. melléklet 1.1.5. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^75]: A 3. melléklet 1.1.9. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^76]: A 3. melléklet 1.1.17. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
@@ -415,4 +415,4 @@
 [^91]: A 3. melléklet 2.2.3. pontja a 18/2010. (XII. 3.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^92]: A 3. melléklet 2.5.1. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^93]: A 3. melléklet 2.6.4. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^94]: A 3. melléklet 2.6.5. pontja a 36/2011. (VII. 12.) NFM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^94]: A 3. számú melléklet 2.6.5. pontja a 46/2011. (IX. 14.) NFM rendelet 4. §-ával megállapított szöveg.
