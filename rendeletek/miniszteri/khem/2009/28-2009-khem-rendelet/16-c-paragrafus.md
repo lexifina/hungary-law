@@ -1,4 +1,4 @@
-16/C. §[^38] (1) A nagycsaládos kedvezményre való jogosultságot megállapító határozatban rendelkezni kell
+16/C. §[^36] (1) A nagycsaládos kedvezményre való jogosultságot megállapító határozatban rendelkezni kell
 
 a) a jogosultság évéről,
 
@@ -12,4 +12,4 @@ cb) fogyasztói közösség esetén Ft-ban kifejezve.
 
 (2) Automatizált egyedi döntésen a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető.
 
-[^38]: A 16/C. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^36]: A 16/C. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.

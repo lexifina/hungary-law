@@ -18,6 +18,6 @@
 
 ## Az árak szabályozása során, 2011. október 1-jétől alkalmazott referencia időszak: a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendelet módosításáról szóló 22/2011. (V. 20.) NFM rendelet hatálybalépésének napjától számított 30 napos időszak.
 
-3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^56]
+3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^54]
 
-[^56]: A 3. melléklet a 32/2011. (VI. 30.) NFM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^54]: A 3. melléklet a 32/2011. (VI. 30.) NFM rendelet 1. § (5) bekezdésével megállapított szöveg.

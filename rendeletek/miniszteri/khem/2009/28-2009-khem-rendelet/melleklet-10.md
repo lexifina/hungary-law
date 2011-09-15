@@ -4,6 +4,6 @@
 
 | 226,5539 | 278 |
 
-10. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^60]
+10. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^58]
 
-[^60]: A 10. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^58]: A 10. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (6) bekezdésével megállapított szöveg.

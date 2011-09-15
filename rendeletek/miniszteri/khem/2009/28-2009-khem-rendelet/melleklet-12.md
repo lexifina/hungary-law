@@ -82,7 +82,7 @@
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^62]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^60]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
@@ -120,4 +120,4 @@ A kedvezményre jogosultakról szóló értesítés adatai
 
 13. Dátum.
 
-[^62]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^60]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.

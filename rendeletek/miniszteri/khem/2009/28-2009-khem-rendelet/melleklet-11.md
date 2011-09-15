@@ -28,6 +28,6 @@
 
 | A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság: | 830 | 1245 |
 
-11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^61]
+11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^59]
 
-[^61]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 7. §-a, a 32/2011. (VI. 30.) NFM rendelet 1. § (7) bekezdése szerint módosított szöveg.
+[^59]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 7. §-a, a 32/2011. (VI. 30.) NFM rendelet 1. § (7) bekezdése szerint módosított szöveg.

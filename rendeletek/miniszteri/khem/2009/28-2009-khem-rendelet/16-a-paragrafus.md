@@ -1,8 +1,8 @@
-## 16. § A 15. § (1) bekezdése szerinti felhasználó fogyasztási igénybejelentésének elmulasztása esetén fogyasztási igénybejelentésként az előző gáznapra megadott értéket kell tekinteni. Ha az előző gáznapra vonatkozóan sincs érvényes fogyasztási igénybejelentés, a fogyasztási igénybejelentés értékét az elszámolás szempontjából 0-nak (nulla) kell tekinteni.
+## 13–16. §[^32]
 
-## A nagycsaládos kedvezményre vonatkozó rendelkezések[^35]
+## A nagycsaládos kedvezményre vonatkozó rendelkezések[^33]
 
-16/A. §[^36] (1) A nagycsaládos háztartásban élő (a továbbiakban: jogosult) a 16/B. § (1) bekezdése alapján kiadott határozatban megállapított jogosultsági időszakonként és gyermekenként nagycsaládos kedvezményre jogosult
+16/A. §[^34] (1) A nagycsaládos háztartásban élő (a továbbiakban: jogosult) a 16/B. § (1) bekezdése alapján kiadott határozatban megállapított jogosultsági időszakonként és gyermekenként nagycsaládos kedvezményre jogosult
 
 a) az önálló felhasználási hellyel rendelkező nagycsaládos a 12/A. § (4) bekezdése,
 
@@ -16,5 +16,6 @@ b) fogyasztói közösségben vételező nagycsaládos a 10. melléklet
 
 (4) Ha a jogosultnak a vele egy háztartásban élő, családi pótlékra jogosító személyre hivatkozással nagycsaládos kedvezmény került megállapításra, a jogosulttal egy háztartásban élő más személy erre a személyre tekintettel további kedvezményre nem jogosult.
 
-[^35]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
-[^36]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^32]: A 13. §-t megelőző alcímet a 32/2011. (VI. 30.) NFM rendelet 3. §-a, a 13–16. §-t a 46/2011. (IX. 14.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^33]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^34]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
