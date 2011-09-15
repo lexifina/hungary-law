@@ -58,7 +58,7 @@ o) lovaglásra, valamint járműközlekedésre használható út kijelölésére
 
 p) lovas sportverseny rendezésének engedélyezésére irányuló másodfokú eljárásban,
 
-## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
 (3) A (2) bekezdés l) pontja szerinti eljárásban a szakhatóság 5 napon, a (2) bekezdés m) pontja szerinti eljárásban 8 napon belül köteles állásfoglalását megadni.
 
@@ -74,7 +74,7 @@ c) az engedély nélkül, vagy az engedélytől eltérően telepített faállom�
 
 d) az erdőtelepítési-kivitelezési terv jóváhagyása iránti másodfokú eljárásban,
 
-## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
 (6) A Kormány tájképvédelmi rendeltetésű erdő esetén
 
@@ -104,5 +104,5 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
-[^4]: [A 28. § (2) bekezdés záró szövegrészében „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 65. § (1) bekezdése alapján. E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
-[^5]: [A 28. § (5) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 65. § (2) bekezdése alapján. E módosító rendelet 68. § alapján 2011. szeptember 15-én lép hatályba. ]
+[^4]: A 28. § (2) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 28. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (2) bekezdése szerint módosított szöveg.
