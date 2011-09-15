@@ -162,15 +162,7 @@
 
 |  |  | 54 | 582 | 06 | 0010 | 54 | 02 | Szakképesítés-elágazás: Hűtő-klíma technikus |  |
 
-| 22. | 101. | 31 | 582 | 09 |  |  |  | Épületgépészeti csőhálózat- és berendezés-szerelő | Gépészet szakmacsoport |
-
-|  |  | 31 | 582 | 09 | 0010 | 31 | 01 | Szakképesítés-elágazás: Energiahasznosító berendezés szerelője |  |
-
-|  |  | 31 | 582 | 09 | 0010 | 31 | 02 | Szakképesítés-elágazás: Gázfogyasztóberendezés- és csőhálózat-szerelő |  |
-
-|  |  | 31 | 582 | 09 | 0010 | 31 | 03 | Szakképesítés-elágazás: Központifűtés- és csőhálózat-szerelő |  |
-
-|  |  | 31 | 582 | 09 | 0010 | 31 | 04 | Szakképesítés-elágazás: Vízvezeték- és vízkészülék-szerelő |  |
+| 22. |  |  |  |  |  |  |  |  |  |
 
 | 23. | 102. | 31 | 582 | 10 | 1000 | 00 | 00 | Épületlakatos | Gépészet szakmacsoport |
 
@@ -212,7 +204,7 @@
 
 |  |  | 31 | 521 | 07 | 0100 | 31 | 02 | Részszakképesítés: Orvosi műszerész |  |
 
-| 31. | 112. | 52 | 522 | 09 | 0000 | 00 | 00 | Gáz- és tüzeléstechnikai műszerész | Gépészet szakmacsoport |
+| 31. |  |  |  |  |  |  |  |  |  |
 
 | 32. | 113. | 54 | 521 | 01 | 0000 | 00 | 00 | Gépgyártástechnológiai technikus | Gépészet szakmacsoport |
 
@@ -276,7 +268,7 @@
 
 |  |  | 31 | 522 | 02 | 0100 | 31 | 02 | Részszakképesítés: Kisteljesítményű kazán fűtő (max. 2t/h) |  |
 
-| 40. | 121. | 33 | 522 | 02 | 0000 | 00 | 00 | Hűtő- és klímaberendezés-szerelő, karbantartó | Gépészet szakmacsoport |
+| 40. |  |  |  |  |  |  |  |  |  |
 
 | 41. | 122. | 52 | 521 | 01 |  |  |  | Ipari anyagvizsgáló | Gépészet szakmacsoport |
 
@@ -334,11 +326,7 @@
 
 |  |  | 31 | 544 | 03 | 0010 | 31 | 02 | Szakképesítés-elágazás: Külfejtéses bányaművelő |  |
 
-| 48. | 130. | 31 | 522 | 03 | 0000 | 00 | 00 | Légtechnikai rendszerszerelő | Gépészet szakmacsoport |
-
-|  |  | 31 | 522 | 03 | 0100 | 31 | 01 | Részszakképesítés: Kéményszerelő |  |
-
-|  |  | 31 | 522 | 03 | 0100 | 31 | 02 | Részszakképesítés: Légtechnikai hálózat szerelő |  |
+| 48. |  |  |  |  |  |  |  |  |  |
 
 | 49. | 131. | 54 | 521 | 03 |  |  |  | Melegüzemi technikus | Gépészet szakmacsoport |
 
@@ -410,9 +398,7 @@
 
 |  |  | 31 | 521 | 27 | 0100 | 31 | 02 | Részszakképesítés: Hengerész |  |
 
-| 64. | 147. | 33 | 524 | 01 | 1000 | 00 | 00 | Vegyi- és kalorikusgép szerelő és karbantartó | Gépészet szakmacsoport |
-
-|  |  | 33 | 524 | 01 | 0100 | 31 | 01 | Részszakképesítés: Ipari olaj- és gáztüzelő berendezés szerelője, üzembehelyezője |  |
+| 64. |  |  |  |  |  |  |  |  |  |
 
 | 65. | 148. | 54 | 523 | 04 | 1000 | 00 | 00 | Automatikai technikus | Elektrotechnika-elektronika szakmacsoport |
 
@@ -454,9 +440,7 @@
 
 |  |  | 54 | 523 | 02 | 0100 | 52 | 01 | Részszakképesítés: Orvostechnikai elektroműszerész |  |
 
-| 78. | 164. | 31 | 522 | 04 | 0000 | 00 | 00 | Villamoshálózat-szerelő, -üzemeltető | Elektrotechnika-elektronika szakmacsoport |
-
-|  |  | 31 | 522 | 04 | 0100 | 31 | 01 | Részszakképesítés: Villamos-távvezeték építő, szerelő, karbantartó |  |
+| 78. |  |  |  |  |  |  |  |  |  |
 
 | 79. | 165. | 33 | 522 | 04 | 1000 | 00 | 00 | Villanyszerelő | Elektrotechnika-elektronika szakmacsoport |
 
@@ -578,11 +562,7 @@
 
 |  |  | 31 | 582 | 07 | 0010 | 31 | 02 | Szakképesítés-elágazás: Ipari szigetelő-bádogos |  |
 
-| 90. | 188. | 33 | 582 | 02 | 0000 | 00 | 00 | Belsőépítési szerkezet- és burkolatszerelő | Építészet szakmacsoport |
-
-|  |  | 33 | 582 | 02 | 0100 | 31 | 01 | Részszakképesítés: Árnyékolástechnikai szerelő |  |
-
-|  |  | 33 | 582 | 02 | 0100 | 21 | 01 | Részszakképesítés: Szárazépítő |  |
+| 90. |  |  |  |  |  |  |  |  |  |
 
 | 91. | 189. | 31 | 582 | 01 | 0000 | 00 | 00 | Betonelemgyártó | Építészet szakmacsoport |
 
@@ -3838,4 +3818,104 @@ A szint megjelölésével a szakmai készségek:
 
 Személyes kompetenciák:
 
-[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+Türelem
+
+Elhivatottság, elkötelezettség
+
+Kézügyesség
+
+Érzelmi stabilitás, kiegyensúlyozottság
+
+Társas kompetenciák:
+
+Közérthetőség
+
+Empátia
+
+Konfliktusmegoldó készség
+
+Kompromisszumkészség
+
+Kapcsolatteremtő készség
+
+Módszerkompetenciák:
+
+Gyakorlatias feladatértelmezés
+
+Információgyűjtés
+
+Problémamegoldás, hibaelhárítás
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1884-06 A napközbeni gyermekellátás feladatai
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Részt vesz a gondozási hely megismertetésében
+
+Lehetőséget biztosít az adaptációs időszakban a szülő számára a gyermek gondozására, illetve a gondozási feladatokat a gyermek alkalmazkodásához igazodva fokozatosan veszi át a szülőtől
+
+Segíti a gyermeket az új környezetbe való beilleszkedésében
+
+Folyamatosan tájékoztatja a szülőket a gyermek közérzetéről, fejlődéséről
+
+Jelzi a szülőnek a gyermek fejlődésének fontos jeleit, állomásait
+
+Észleli a testi és szellemi fejlődésben való elmaradás tüneteit és jelzéssel él a szülő, illetve az orvos felé
+
+Figyelemmel kíséri a korhoz kötött védőoltások meglétét, hiányukra felhívja a szülő figyelmét
+
+Segíti a gyógyászati segédeszközök használatát és azok karbantartását
+
+Végzi a gondozás folyamatába épített nevelési feladatokat
+
+Gyógypedagógus irányításával végzi a korai fejlesztés, gondozásba épített feladatainak ellátását
+
+Tervezi és szervezi az évszaknak megfelelő napirendet
+
+Törekszik a kornak és fejlettségnek megfelelő, az egészséges fejlődést biztosító napi étkezés biztosítására
+
+Részt vesz az ünnepek előkészítésében, lebonyolításában, életkortól függően bevonja a gyermeket és lehetőségek szerint a családját is
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+C A napközbeni ellátás intézményei
+
+B A beszoktatás módszerei
+
+C Az ellátással kapcsolatos elvárások és realitások
+
+C A kölcsönös információátadás jelentősége és szabályai
+
+B Az anya-gyermek kapcsolat jelentősége
+
+C Az egyéni szükségletek kielégítésének lehetőségei csoportkörülmények között
+
+C A gyógyászati segédeszközök és karbantartásuk
+
+C A helyes napirend kialakítása
+
+C Az egészséges táplálkozás alapjai
+
+C A játékfejlődés szakaszai
+
+C A kisgyermekkori mondókák, énekek, mesék fejlődést segítő szerepe
+
+C Az ünnepek, hagyományok, szokások jelentősége
+
+C Az eltérő fejlődésre mutató jelek
+
+D A bölcsődei korai fejlesztés módszerei
+
+B A kisgyermek környezetében elvárt higiénés követelmények
+
+B A fertőző betegségek megelőzésében alkalmazott eljárások
+
+[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése szerint módosított szöveg.
