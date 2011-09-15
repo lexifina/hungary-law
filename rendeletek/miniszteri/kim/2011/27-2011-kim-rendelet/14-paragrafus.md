@@ -1,0 +1,1 @@
+## 4. A 2011/2012-es nevelési évre, tanévre tekintettel 2011-ben az integrációs rendszerben részt vevő nevelési-oktatási intézményekben, tagintézményekben dolgozó pedagógusok kiegészítő illetményére fordítható támogatás
