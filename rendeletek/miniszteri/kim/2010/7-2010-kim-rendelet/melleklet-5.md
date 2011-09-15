@@ -22,7 +22,7 @@
 
 | 1.03. | Választói névjegyzék, értesítő és ajánlószelvények elkészítése választópolgáronként. Névjegyzék és értesítő megszemélyesítése, nyomtatása, vágása, csomagolása, mely tartalmazza a papír költségét is. | 50 |
 
-| 1.04. | Értesítők, ajánlószelvények kiküldése, a jegyzők egymás közötti értesítése, választópolgáronként. Névjegyzék és NESZA jegyzék továbbvezetése, lakcímváltozások kezelése, igazolások kiadása. | 50 |
+| 1.04. | Értesítők, ajánlószelvények kiküldése, a jegyzők egymás közötti értesítése, választópolgáronként. Névjegyzék és NESZA jegyzék továbbvezetése, lakcímváltozások kezelése, igazolások kiadása választópolgárként. | 50 |
 
 | 1.05. | Választással összefüggő egyéb dologi kiadások szavazókörönként. Helyben készülő nyomtatványok előállítása. | 9 000 |
 
@@ -48,7 +48,7 @@
 
 | 2.02. | Az SZSZB mellett működő jegyzőkönyvvezető 15 000 Ft/fő díja szavazókörönként. Szavazás napján 05 órától 22–24 óráig az SZSZB mellett elvégzendő adminisztratív feladatok. | 15 000 |
 
-| 2.03. | A helyi választási iroda tagjának személyi normatívája 15 000 Ft. Az iroda feladatait a Ve. 35–39. §-ai határozzák meg, feladatuk a választás kitűzésétől a jogerős jegyzőkönyvi eredmény megállapításáig tart. E normatíva a helyi választási iroda alábbi számú tagjai tekintetében vehető figyelembe (a település lakosságszámához, körjegyzőség esetén a körjegyzőség összlakosságszámához viszonyítva): |  |
+| 2.03. | A helyi választási iroda tagjának személyi normatívája 15 000 Ft. Az iroda feladatait a Ve. 35–39. §-ai határozzák meg, feladatuk a választás kitűzésétől a jogerős jegyzőkönyvi eredmény megállapításáig tart. E normatíva a helyi választási iroda alábbi számú tagjai tekintetében vehető figyelembe (a választással érintett választókerület lakosságszámához, körjegyzőség esetén a körjegyzőség összlakosságszámához viszonyítva): |  |
 
 | 2.03.01. | –1 000 lakosig 3 tag | 45 000 |
 
