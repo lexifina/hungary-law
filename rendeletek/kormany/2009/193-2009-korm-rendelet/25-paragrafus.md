@@ -20,8 +20,10 @@ b) a tervezői nyilatkozatot,
 
 c) a külön jogszabályban előírt esetekben a tervtanács szakmai véleményét,
 
-d)[^26] ha a kérelem benyújtásakor már rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását a hozzá tartozó, a szakhatóság által a 6. § (5) bekezdése szerint záradékolt építészeti-műszaki dokumentációval együtt.
+d) ha a kérelem benyújtásakor már rendelkezésre áll, az ügyben érintett szakhatóság előzetes állásfoglalását a hozzá tartozó, a szakhatóság által a 6. § (5) bekezdése szerint záradékolt építészeti-műszaki dokumentációval együtt,
+
+e)[^26] az 5. melléklet 8.9. pontjában foglalt esetben a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.) meghatározott, a környezeti hatások jelentőségének vizsgálatára szolgáló adatlapot.
 
 [^24]: A 25. § (2) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^25]: A 25. § (5) bekezdés a) pontja a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
-[^26]: [A 25. § (5) bekezdés e) pontját a 82/2011 (V. 18.) Korm. rendelet 47. §-a iktatta be, a 68. §-a alapján 2011. szeptember 15-től hatályos szövege: „e) az 5. melléklet 8.9. pontjában foglalt esetben a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.) meghatározott, a környezeti hatások jelentőségének vizsgálatára szolgáló adatlapot. ”.]
+[^26]: A 25. § (5) bekezdés e) pontját a 82/2011 (V. 18.) Korm. rendelet 47. §-a iktatta be.

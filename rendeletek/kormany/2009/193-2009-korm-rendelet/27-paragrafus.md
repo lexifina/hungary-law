@@ -10,11 +10,11 @@
 
 (5) Az építési engedélykérelemhez – a tartalmától függően – mellékelni kell:
 
-a)[^34] a 25. § (5) bekezdés a)–d) pontjában meghatározottakat,
+a)[^34] a 25. § (5) bekezdés a)–e) pontjában meghatározottakat,
 
 b) az építési jogosultság igazolását szolgáló dokumentumokat,
 
-c)[^35] a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.) meghatározott esetekben a környezetvédelmi vagy egységes környezethasználati engedélyt, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen, illetve a Khvkr. 5. § (2) bekezdés d) pont dc) alpontja szerinti határozatot,
+c)[^35] a Khvkr.-ben meghatározott esetekben a környezetvédelmi vagy egységes környezethasználati engedélyt, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen, illetve a Khvkr. 5. § (2) bekezdés d) pont dc) alpontja szerinti határozatot,
 
 d) erdőterület igénybevétele esetén az erdészeti hatóság hozzájárulását, illetve előzetes engedélyét,
 
@@ -38,6 +38,6 @@ g) termőföld esetén a termőföld más célú hasznosításának engedélyez�
 [^31]: A 27. § (1) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
 [^32]: A 27. § (2) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
 [^33]: A 27. § (3) bekezdése a 177/2010. (V. 13.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^34]: A 27. § (5) bekezdés a) pontjának „a)–d) pontjában” szövegrésze helyébe „a)–e) pontjában” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 50. § (1) bekezdése alapján. [E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
-[^35]: A 27. § (5) bekezdés c) pontjának „a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvkr.)” szövegrésze helyébe „a Khvkr.-ben” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 50. § (2) bekezdése alapján. [E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
+[^34]: A 27. § (5) bekezdés a) pontja a 82/2011. (V. 18.) Korm. rendelet 50. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 27. § (5) bekezdés c) pontja a 82/2011. (V. 18.) Korm. rendelet 50. § (2) bekezdése szerint módosított szöveg.
 [^36]: A 27. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
