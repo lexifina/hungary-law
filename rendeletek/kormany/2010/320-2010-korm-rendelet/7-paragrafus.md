@@ -16,7 +16,7 @@ d) a tartós szálláshasználati szolgáltatási tevékenység bejelentésére 
 
 e) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenységgel összefüggő eljárásokban,
 
-f)[^1] a Széchenyi Pihenő Kártya kibocsátásával és felhasználásával összefüggő ellenőrzési eljárásokban.
+f)[^2] a Széchenyi Pihenő Kártya kibocsátásával és felhasználásával összefüggő ellenőrzési eljárásokban.
 
 (4) A Hivatal jár el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: 2007. évi CXXXVI. törvény) 5. § f) pontja szerinti felügyeletet ellátó szerv feladatkörében a 2007. évi CXXXVI. törvény
 
@@ -28,4 +28,4 @@ b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység
 
 (5) A Kormány a (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
 
-[^1]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be.
+[^2]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be.
