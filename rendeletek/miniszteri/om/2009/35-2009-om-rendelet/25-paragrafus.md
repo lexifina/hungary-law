@@ -1,10 +1,10 @@
-## 24. § A választáson használandó nyomtatványok jegyzékét és mintáit e rendelet melléklete állapítja meg.
+## 24/A. §[^6] E rendeletnek a választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 35/2009. (XII. 30.) ÖM rendelet és a helyi önkormányzati képviselők és polgármesterek, valamint a kisebbségi önkormányzati képviselők választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 7/2010. (VII. 21.) KIM rendelet módosításáról szóló 28/2011. (IX. 14.) KIM rendelettel megállapított rendelkezéseit nem kell alkalmazni az egyes választási törvények módosításáról szóló 2011. évi XCVIII. törvény hatálybalépését[^7] megelőzően kitűzött választásokra.
 
 25. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
 (2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a választási eljárásról szóló 1997. évi C. törvénynek az országgyűlési képviselők választásán történő végrehajtásáról szóló 60/2005. (XII. 21.) BM rendelet.
 
-Melléklet a 35/2009. (XII. 30.) ÖM rendelethez[^6]
+Melléklet a 35/2009. (XII. 30.) ÖM rendelethez[^8]
 
 Az országgyűlési képviselők választásán használandó nyomtatványok
 
@@ -778,4 +778,6 @@ Melléklet 13. minta
 
 | A listát állító jelölő szervezet(ek) hivatalos neve: | (közös lista esetén a jelölő szervezetek neve az alábbi sorrendben lesz feltüntetve a szavazólapon) |
 
-[^6]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a, a 8/2010. (VIII. 18.) KIM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 4. §-át.
+[^6]: A 24/A. §-t a 28/2011. (IX. 14.) KIM rendelet 3. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2011. július 20.
+[^8]: A melléklet a 10/2010. (IV. 16.) ÖM rendelet 2. §-a, a 6/2010. (VII. 21.) KIM rendelet 4–5. §-a, a 8/2010. (VIII. 18.) KIM rendelet 1. §-a, a 28/2011. (IX. 14.) KIM rendelet 1. §-a szerint módosított szöveg.
