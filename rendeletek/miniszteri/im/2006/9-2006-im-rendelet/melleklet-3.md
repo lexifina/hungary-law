@@ -86,6 +86,6 @@
 
 | 42. Klinikai toxikológia | általános orvos és a) aneszteziológiai és intenzív terápia szakvizsga vagy b) belgyógyászat szakvizsga vagy c) oxyológia és sürgősségi orvostani szakvizsga vagy d) igazságügyi orvostan szakvizsga |
 
-3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^107]
+3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^105]
 
-[^107]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+[^105]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.

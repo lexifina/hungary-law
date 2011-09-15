@@ -174,6 +174,6 @@
 
 | 38. gumiabroncs gyártása | a) okleveles vegyészmérnök vagy b) vegyészmérnök vagy c) okleveles gépészmérnök vagy d) gépészmérnök vagy e) okleveles vegyész vagy f) okleveles kémia szakos tanár |
 
-6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^110]
+6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^108]
 
-[^110]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.
+[^108]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.
