@@ -1,0 +1,1 @@
+## 4. § Az építésügyi hatósági engedélyezési eljárás – a 31. §-ban és a 34. § (3) bekezdésében foglalt kivétellel – kérelemre indul, amelyhez a 3. számú mellékletben meghatározott tartalmú műszaki dokumentációt kell csatolni az egyes eljárásfajtáknál meghatározottak szerint.

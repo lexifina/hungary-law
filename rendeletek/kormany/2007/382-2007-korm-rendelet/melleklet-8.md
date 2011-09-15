@@ -1,4 +1,4 @@
-8. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^89]
+8. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^92]
 
 ## A megszüntetési (bontási) engedély iránti kérelem adattartalma
 
@@ -24,4 +24,4 @@ d) kivitelezés tervezett befejezési időpontja,
 
 6. Az építési engedély száma, kelte.
 
-[^89]: A 8. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^92]: A 8. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

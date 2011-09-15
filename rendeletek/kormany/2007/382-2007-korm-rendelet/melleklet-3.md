@@ -40,49 +40,49 @@
 
 4. Vezetékjog engedélyezéséhez szükséges dokumentáció
 
-4.1.[^58] Helyszíni szemle lefolytatása esetén az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
+4.1.[^61] Helyszíni szemle lefolytatása esetén az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
 
-4.2.[^59] Helyszíni szemle lefolytatása esetén az arról felvett jegyzőkönyv a jelenléti ívvel és annak mellékletei.
+4.2.[^62] Helyszíni szemle lefolytatása esetén az arról felvett jegyzőkönyv a jelenléti ívvel és annak mellékletei.
 
-4.3.[^60] Helyszíni szemle lefolytatása esetén a megjelent szakhatóságok, az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
+4.3.[^63] Helyszíni szemle lefolytatása esetén a megjelent szakhatóságok, az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
 
 4.4. Az ügyfelek nyilatkozatai, annak hiányában a megkeresésüket hitelt érdemlően igazoló bizonylat (pl. tértivevény).
 
-4.5.[^61] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot, keresztezéseit, egyéb létesítményeket és az érintett ingatlanok határvonalait és helyrajzi számait is feltüntető – az ingatlan-nyilvántartási térképen történő átvezetéshez alkalmas méretarányban, a közigazgatási határokat és megnevezéseket tartalmazó közigazgatási területenként szétválaszthatóan elkészített – nyomvonalrajz 5 példányban, az azonosítást biztosító egyedi rajzszámmal és megnevezéssel ellátva. Amennyiben a hálózat (vezeték) nyomvonala több települést érint, úgy településenként további 1-1 példány nyomvonalrajz szükséges.
+4.5.[^64] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot, keresztezéseit, egyéb létesítményeket és az érintett ingatlanok határvonalait és helyrajzi számait is feltüntető – az ingatlan-nyilvántartási térképen történő átvezetéshez alkalmas méretarányban, a közigazgatási határokat és megnevezéseket tartalmazó közigazgatási területenként szétválaszthatóan elkészített – nyomvonalrajz 5 példányban, az azonosítást biztosító egyedi rajzszámmal és megnevezéssel ellátva. Amennyiben a hálózat (vezeték) nyomvonala több települést érint, úgy településenként további 1-1 példány nyomvonalrajz szükséges.
 
-4.6.[^62] Dokumentáció, amely tartalmazza a hálózat (vezeték) nyomvonala és biztonsági övezete által érintett ingatlanokról a külön jogszabályban[^63] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított, az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, valamint területkimutatást településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
+4.6.[^65] Dokumentáció, amely tartalmazza a hálózat (vezeték) nyomvonala és biztonsági övezete által érintett ingatlanokról a külön jogszabályban[^66] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított, az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, valamint területkimutatást településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
 
 4.7. Előzetes vizsgálatot követően nem jelentős környezeti hatás feltételezése esetén a megállapító határozat, környezeti hatásvizsgálat köteles építmény esetén a jogerős környezetvédelmi engedély hiteles másolata.
 
 5. Termelői, magán- és közvetlen vezeték építési engedélyezéséhez szükséges dokumentáció
 
-5.1.[^64] Helyszíni szemle lefolytatása esetén az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
+5.1.[^67] Helyszíni szemle lefolytatása esetén az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
 
-5.2.[^65] Helyszíni szemle lefolytatása esetén az arról felvett hitelesített jegyzőkönyv a jelenléti ívvel.
+5.2.[^68] Helyszíni szemle lefolytatása esetén az arról felvett hitelesített jegyzőkönyv a jelenléti ívvel.
 
-5.3.[^66] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
+5.3.[^69] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
 
 5.4. Az engedélyesnek az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodása.
 
-5.5.[^67] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot, keresztezéseit, egyéb létesítményeket és az érintett ingatlanok határait és helyrajzi számait is feltüntető – az állami földmérési alaptérképre történő átvezetéshez alkalmas méretarányban, a közigazgatási határokat és megnevezéseket tartalmazó közigazgatási területenként szétválaszthatóan elkészített – nyomvonalrajz 5 példányban, az azonosítást biztosító egyedi rajzszámmal és megnevezéssel ellátva. Amennyiben a vezeték nyomvonala több települést érint, úgy településenként további 1-1 példány nyomvonalrajz szükséges.
+5.5.[^70] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot, keresztezéseit, egyéb létesítményeket és az érintett ingatlanok határait és helyrajzi számait is feltüntető – az állami földmérési alaptérképre történő átvezetéshez alkalmas méretarányban, a közigazgatási határokat és megnevezéseket tartalmazó közigazgatási területenként szétválaszthatóan elkészített – nyomvonalrajz 5 példányban, az azonosítást biztosító egyedi rajzszámmal és megnevezéssel ellátva. Amennyiben a vezeték nyomvonala több települést érint, úgy településenként további 1-1 példány nyomvonalrajz szükséges.
 
-5.6.[^68] Területkimutatás településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
+5.6.[^71] Területkimutatás településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
 
 5.7. Előzetes vizsgálatot követően nem jelentős környezeti hatás feltételezése esetén a megállapító határozat, környezeti hatásvizsgálat köteles építmény esetén a jogerős környezetvédelmi engedély hiteles másolata.
 
-5.8.[^69] Ha az engedélyes külön jogszabály alapján az üzemeltetésében álló meglévő föld feletti hálózat tartószerkezeteire vagy föld alatti hálózat biztonsági övezetében egyéb, saját tulajdonú (üzemeltetésű) nem energiaátviteli célú (jelátviteli, távközlési, távműködtetési stb.) nyomvonalas összeköttetést létesít, építményekre és szerkezetekre egyéb tárgyat (jelzőtáblát, hirdetményt stb.) helyez el, vagy hozzájárul ahhoz, hogy más helyezzen el, a létesítés vagy az elhelyezés műszaki paramétereit tartalmazó nyilatkozat, illetve megállapodás hiteles másolata.
+5.8.[^72] Ha az engedélyes külön jogszabály alapján az üzemeltetésében álló meglévő föld feletti hálózat tartószerkezeteire vagy föld alatti hálózat biztonsági övezetében egyéb, saját tulajdonú (üzemeltetésű) nem energiaátviteli célú (jelátviteli, távközlési, távműködtetési stb.) nyomvonalas összeköttetést létesít, építményekre és szerkezetekre egyéb tárgyat (jelzőtáblát, hirdetményt stb.) helyez el, vagy hozzájárul ahhoz, hogy más helyezzen el, a létesítés vagy az elhelyezés műszaki paramétereit tartalmazó nyilatkozat, illetve megállapodás hiteles másolata.
 
 6. Vezetékjog fennállását megállapító ingatlan-nyilvántartásba történő bejegyzésre alkalmas határozat kiadásához, az egyszerűsített üzemeltetési engedélyezéshez szükséges dokumentáció
 
-6.1.[^70] Bejegyzési dokumentáció, amely tartalmazza a közcélú hálózat nyomvonala és biztonsági övezete által érintett ingatlanokról a külön jogszabályban[^71] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított, és az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, valamint területkimutatást településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
+6.1.[^73] Bejegyzési dokumentáció, amely tartalmazza a közcélú hálózat nyomvonala és biztonsági övezete által érintett ingatlanokról a külön jogszabályban[^74] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított, és az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, valamint területkimutatást településenként 5-5 példányban. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét.
 
 6.2. Vezetékjog fennállását és keletkezésének időpontját, vagy a közcélú hálózat meglétét és létesítésének időpontját igazoló dokumentum.
 
 6.3. A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
 
-6.4.[^72] Ha az engedélyes külön jogszabály alapján az üzemeltetésében álló meglévő föld feletti hálózat tartószerkezeteire vagy föld alatti hálózat biztonsági övezetében egyéb, saját tulajdonú (üzemeltetésű) nem energiaátviteli célú (jelátviteli, távközlési, távműködtetési stb.) nyomvonalas összeköttetést létesít, építményekre és szerkezetekre egyéb tárgyat (jelzőtáblát, hirdetményt stb.) helyez el, vagy hozzájárul ahhoz, hogy más helyezzen el, a létesítés vagy az elhelyezés műszaki paramétereit tartalmazó nyilatkozat, illetve megállapodás hiteles másolata.
+6.4.[^75] Ha az engedélyes külön jogszabály alapján az üzemeltetésében álló meglévő föld feletti hálózat tartószerkezeteire vagy föld alatti hálózat biztonsági övezetében egyéb, saját tulajdonú (üzemeltetésű) nem energiaátviteli célú (jelátviteli, távközlési, távműködtetési stb.) nyomvonalas összeköttetést létesít, építményekre és szerkezetekre egyéb tárgyat (jelzőtáblát, hirdetményt stb.) helyez el, vagy hozzájárul ahhoz, hogy más helyezzen el, a létesítés vagy az elhelyezés műszaki paramétereit tartalmazó nyilatkozat, illetve megállapodás hiteles másolata.
 
-7.[^73] Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés építési engedélyezéséhez szükséges dokumentáció
+7.[^76] Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés építési engedélyezéséhez szükséges dokumentáció
 
 7.1. A termelői engedélyes (vagy a beruházó) megnevezése (neve), székhelye (címe), telefonszáma, aláírása.
 
@@ -90,7 +90,7 @@
 
 7.3. A megközelítés, a közlekedés, a közművek, valamint ezek kapcsolatainak ismertetése (tervei), a terület-előkészítési munkák műszaki tervei (tereprendezési, bontási és földmunkák).
 
-7.4.[^74] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
+7.4.[^77] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
 
 7.5. A tervező nyilatkozata arról, hogy
 
@@ -106,7 +106,7 @@ d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) s
 
 7.7. Ha az engedélyes külön jogszabály alapján az üzemeltetésében álló meglévő föld feletti hálózat tartószerkezeteire vagy föld alatti hálózat biztonsági övezetében egyéb, saját tulajdonú (üzemeltetésű) nem energiaátviteli célú (jelátviteli, távközlési, távműködtetési stb.) nyomvonalas összeköttetést létesít, építményekre és szerkezetekre egyéb tárgyat (jelzőtáblát, hirdetményt stb.) helyez el, vagy hozzájárul ahhoz, hogy más helyezzen el, a létesítés vagy az elhelyezés műszaki paramétereit tartalmazó nyilatkozat, illetve megállapodás hiteles másolata.
 
-8.[^75] Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés használatbavételi engedélyezéséhez szükséges dokumentáció
+8.[^78] Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés használatbavételi engedélyezéséhez szükséges dokumentáció
 
 8.1. A felelős műszaki vezető(k) nyilatkozata arról, hogy
 
@@ -118,13 +118,13 @@ c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban fogla
 
 8.2. Megvalósulási dokumentáció, amely tartalmazza a felelős műszaki vezető(k) eltérést ismertető nyilatkozatát, valamint a megvalósult állapotot tükröző – szakáganként szaktervezők által készített, az ágazati jogszabályokban meghatározott tartalmú – műszaki tervdokumentációt, ha az építési munkát a végrehajtható építési engedélytől, valamint a jóváhagyott dokumentációtól eltérően végezték, de az eltérés nem minősül építési engedélyhez kötött építési munkának.
 
-8.3.[^76]
+8.3.[^79]
 
 8.4. Az esetleges próbaüzem eredményeiről szóló nyilatkozat.
 
-8.5.[^77]
+8.5.[^80]
 
-9.[^78] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez szükséges dokumentáció
+9.[^81] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez szükséges dokumentáció
 
 9.1. A felelős műszaki vezető(k) nyilatkozata arról, hogy
 
@@ -134,13 +134,13 @@ b) az építési tevékenységre vonatkozó szakmai minőségi és biztonsági e
 
 c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban foglalt biztonság-technikai, az egészségvédelmi, a tűzvédelmi, a környezetvédelmi, a kulturális örökségvédelmi, a természetvédelmi és a vízvédelmi előírásokat betartották. Az ezt igazoló dokumentumokat, vizsgálati jegyzőkönyveket a nyilatkozathoz csatolni kell.
 
-9.2. Megvalósulási dokumentáció, ha az építési munkát a végrehajtható építési engedélytől, valamint a jóváhagyott dokumentációtól eltérően végezték, de az eltérés nem minősül építési engedélyhez kötött építési munkának. A megvalósulási dokumentáció megvalósulási térképből és területkimutatásból áll, valamint tartalmazza a felelős műszaki vezető(k) eltérést ismertető nyilatkozatát. Az ingatlan-nyilvántartási átvezetésre alkalmas, a külön jogszabályban[^79] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított megvalósulási térképet a kivitelezéskor hatályos – a hálózat (vezeték) nyomvonala és biztonsági övezete által érintett ingatlanokat ábrázoló – ingatlan-nyilvántartási térkép másolatán kell elkészíteni, amely tartalmazza mind a tervezett, mind a megvalósult állapotot. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét. A megvalósulási térképet és a területkimutatást 1-1 példányban kell elkészíteni.
+9.2. Megvalósulási dokumentáció, ha az építési munkát a végrehajtható építési engedélytől, valamint a jóváhagyott dokumentációtól eltérően végezték, de az eltérés nem minősül építési engedélyhez kötött építési munkának. A megvalósulási dokumentáció megvalósulási térképből és területkimutatásból áll, valamint tartalmazza a felelős műszaki vezető(k) eltérést ismertető nyilatkozatát. Az ingatlan-nyilvántartási átvezetésre alkalmas, a külön jogszabályban[^82] meghatározott szakképesítéssel rendelkező földmérő által készített vagy tanúsított megvalósulási térképet a kivitelezéskor hatályos – a hálózat (vezeték) nyomvonala és biztonsági övezete által érintett ingatlanokat ábrázoló – ingatlan-nyilvántartási térkép másolatán kell elkészíteni, amely tartalmazza mind a tervezett, mind a megvalósult állapotot. A területkimutatás helyrajzi számok szerinti bontásban külön tartalmazza a tartószerkezetek által elfoglalt terület nagyságát, és külön a biztonsági övezet által elfoglalt terület mértékét. A megvalósulási térképet és a területkimutatást 1-1 példányban kell elkészíteni.
 
-9.3.–9.4.[^80]
+9.3.–9.4.[^83]
 
 10. Megszüntetés (bontás) engedélyezéséhez szükséges dokumentáció
 
-10.1. A villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban[^81] meghatározott Megszüntetési terv.
+10.1. A villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban[^84] meghatározott Megszüntetési terv.
 
 10.2. Az engedélyesnek a megszüntetési (bontási) munkák elvégzésére vonatkozó jogosultságának igazolása.
 
@@ -166,7 +166,7 @@ d) az adott tervezésre jogosultsággal rendelkezik.
 
 11.2. Az építmény szakáganként szaktervezők által készített műszaki leírása, rajzai.
 
-11.3.[^82] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
+11.3.[^85] Az érintett közművek, kezelők, üzemeltetők és egyéb érdekeltek nyilatkozatai.
 
 11.4. A tervező nyilatkozata arról, hogy
 
@@ -176,34 +176,34 @@ b) biztosítja az élet, az egészség, a környezet és a kulturális öröksé
 
 c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott (ennek hiányában szükséges annak bizonyítása, hogy az alkalmazott megoldás legalább azonos biztonságú, mint a honosított, harmonizált szabvány szerinti biztonsági szint),
 
-d)[^83] a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
+d)[^86] a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-11.5.[^84] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. vagy 3. számú mellékletében meghatározott tevékenység vagy építmény esetén a Korm. rendelet 5. §-a (2) bekezdésének db) vagy dc) pontja, vagy 10. §-a (2) bekezdésének a) vagy c) pontja szerinti döntés, a Korm. rendelet 24. §-a alapján lefolytatott összevont eljárás esetén az egységes környezethasználati engedély.
+11.5.[^87] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. vagy 3. számú mellékletében meghatározott tevékenység vagy építmény esetén a Korm. rendelet 5. §-a (2) bekezdésének db) vagy dc) pontja, vagy 10. §-a (2) bekezdésének a) vagy c) pontja szerinti döntés, a Korm. rendelet 24. §-a alapján lefolytatott összevont eljárás esetén az egységes környezethasználati engedély.
 
-[^58]: A 3. számú melléklet 4. pont 4.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^59]: A 3. számú melléklet 4. pont 4.2. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^60]: A 3. számú melléklet 4. pont 4.3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^61]: A 3. számú melléklet 4.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^62]: A 3. számú melléklet 4.6. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^63]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
-[^64]: A 3. számú melléklet 5. pont 5.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^65]: A 3. számú melléklet 5. pont 5.2. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^66]: A 3. számú melléklet 5. pont 5.3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^67]: A 3. számú melléklet 5.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^68]: A 3. számú melléklet 5.6. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^69]: A 3. számú melléklet 5.8. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^70]: A 3. számú melléklet 6.1. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^71]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
-[^72]: A 3. számú melléklet 6.4. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^73]: A 3. számú melléklet 7. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^74]: A 3. számú melléklet 7.4. pontja a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^75]: A 3. számú melléklet 8. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^76]: A 3. számú melléklet 8.3. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^77]: A 3. számú melléklet 8.5. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^78]: A 3. számú melléklet 9. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^79]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
-[^80]: A 3. számú melléklet 9.3.–9.4. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^81]: A Villamosmű Műszaki-Biztonsági Követelményei Szabályzat hatályba léptetéséről szóló 8/2001. (III. 30.) GM rendelet.
-[^82]: A 3. számú melléklet 11.3. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^83]: A 3. számú melléklet 11.4. pontjának d) alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
-[^84]: A 3. számú melléklet 11.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^61]: A 3. számú melléklet 4. pont 4.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^62]: A 3. számú melléklet 4. pont 4.2. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^63]: A 3. számú melléklet 4. pont 4.3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^64]: A 3. számú melléklet 4.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^65]: A 3. számú melléklet 4.6. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^66]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
+[^67]: A 3. számú melléklet 5. pont 5.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^68]: A 3. számú melléklet 5. pont 5.2. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^69]: A 3. számú melléklet 5. pont 5.3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 606. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^70]: A 3. számú melléklet 5.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^71]: A 3. számú melléklet 5.6. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^72]: A 3. számú melléklet 5.8. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^73]: A 3. számú melléklet 6.1. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^74]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
+[^75]: A 3. számú melléklet 6.4. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^76]: A 3. számú melléklet 7. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^77]: A 3. számú melléklet 7.4. pontja a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 3. számú melléklet 8. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^79]: A 3. számú melléklet 8.3. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^80]: A 3. számú melléklet 8.5. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^81]: A 3. számú melléklet 9. pontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^82]: A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM-HM együttes rendelet.
+[^83]: A 3. számú melléklet 9.3.–9.4. pontját a 182/2009. (IX. 10.) Korm. rendelet 608. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^84]: A Villamosmű Műszaki-Biztonsági Követelményei Szabályzat hatályba léptetéséről szóló 8/2001. (III. 30.) GM rendelet.
+[^85]: A 3. számú melléklet 11.3. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^86]: A 3. számú melléklet 11.4. pontjának d) alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^87]: A 3. számú melléklet 11.5. alpontja a 239/2008. (IX. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.

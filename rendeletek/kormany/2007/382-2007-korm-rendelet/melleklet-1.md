@@ -1,6 +1,4 @@
-## 40. §[^55] E rendeletben foglalt eljárásokban az eljárási cselekmények 2009. december 28-ig elektronikusan nem gyakorolhatók.
-
-1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^56]
+1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^59]
 
 ## A vezetékjog engedélyezése és az építési engedély iránti kérelem adattartalma
 
@@ -66,5 +64,4 @@ e) átalakító és kapcsoló berendezés típusa.
 
 13. A kérelmező nyilatkozata arról, hogy a hálózat (vezeték) megépítése az érintett ingatlanok rendeltetésszerű használatát lényegesen nem akadályozza.
 
-[^55]: [A 41–42. §-nak a 82/2011. (V. 18.) Korm. rendelet 44. §-ával beiktatott, a 68. § alapján 2011. szeptember 15-étől hatályos szövege: „41. § E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni. 42. § Ez a rendelet a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének, valamint c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének való megfelelést szolgálja.”.]
-[^56]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^59]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
