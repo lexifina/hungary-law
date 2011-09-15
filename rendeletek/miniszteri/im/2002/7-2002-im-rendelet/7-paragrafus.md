@@ -1,5 +1,5 @@
 7. § (1) E rendelet 2003. január 1. napján lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^18]
+(2)[^20]
 
-[^18]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 105. pontja hatályon kívül helyezte.
+[^20]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 105. pontja hatályon kívül helyezte.
