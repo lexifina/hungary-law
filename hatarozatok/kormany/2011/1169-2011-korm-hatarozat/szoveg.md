@@ -2,7 +2,7 @@ A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E.
 
 1. A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (4) bekezdése alapján kezdeményezi az Összefogás a Budapesti Lakástalanokért és Hajléktalan Emberekért Közalapítvány (a továbbiakban: Közalapítvány) megszüntetését, a közfeladat más szervezeti keretek között történő hatékonyabb ellátása érdekében.
 
-2. A Kormány
+2.[^2] A Kormány
 
 a) felhatalmazza a nemzeti erőforrás minisztert, hogy a Közalapítvány társalapítójával egyeztetve, a Kormány mint alapító nevében kérelmezze a Fővárosi Bíróságnál a Közalapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben a Kormány mint állami alapító nevében eljárjon, és az ennek érdekében szükséges intézkedéseket megtegye;
 
@@ -16,7 +16,7 @@ Felelős: nemzeti erőforrás miniszter
 
 közigazgatási és igazságügyi miniszter
 
-Határidő: azonnal
+Határidő: 2012. április 30.
 
 3. A Kormány a Közalapítvány vagyonának számbavételére és a hitelezők kielégítésére – a Közalapítvány vagyona értéke erejéig –, valamint a megszűnő Közalapítvány iratainak jogszabály szerint kötelező őrzésére a Fővárosi Önkormányzatot kéri fel. A Kormány egyetért azzal, hogy a Közalapítvány hitelezők kielégítése után fennmaradt vagyonát – ideértve a vagyoni értékű jogokat is – az állami alapító nevében, a Közalapítvány társalapítójával egyeztetett módon a nemzeti erőforrás miniszter a Fővárosi Önkormányzat támogatására fordítja.
 
@@ -37,3 +37,5 @@ Határidő: a Közalapítvány bírósági törlését követően azonnal
 a) az Összefogás a Budapesti Lakástalanokért és Hajléktalan Emberekért Közalapítvány létrehozásáról és a Nemzetközi Pikler Emmi Közalapítvány Alapító Okiratának módosításáról szóló 1103/2003. (X. 18.) Korm. határozat, továbbá
 
 b) az Összefogás a Budapesti Lakástalanokért és Hajléktalan Emberekért Közalapítvány alapító okiratának módosításáról szóló 1092/2008. (XII. 31.) Korm. határozat.
+
+[^2]: A 2. pont az 1315/2011. (IX. 14.) Korm. határozat 1. pontja szerint módosított szöveg.
