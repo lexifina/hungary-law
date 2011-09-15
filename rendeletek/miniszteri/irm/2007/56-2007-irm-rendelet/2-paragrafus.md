@@ -18,7 +18,7 @@
 
 8.[^3] területi hivatal: a fővárosi, megyei igazságügyi szolgálat;
 
-9.[^4] fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet;
+9.[^4] fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet; ideértve azt a felet is, akinek a határon átnyúló tartási ügyében pártfogó ügyvéd kirendelése érdekében a központi hatóság keresi meg a jogi segítségnyújtó szolgálatot;
 
 10. felperes fél: az a fél, aki olyan perben részesült jogi segítségnyújtásban vagy olyan perben kérte jogi segítségnyújtás engedélyezését, amelyben ő felperes vagy kérelmező;
 
@@ -43,6 +43,6 @@
 [^1]: A 2. § 6. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
 [^2]: A 2. § 7. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
 [^3]: A 2. § 8. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
-[^4]: A 2. § 9. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^4]: A 2. § 9. pontja a 26/2011. (VIII. 31.) KIM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 15. pontja a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 2. § 19. pontját a 48/2009. (IX. 28.) IRM rendelet 11. §-a iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
