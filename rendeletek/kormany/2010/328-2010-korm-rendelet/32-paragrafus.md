@@ -58,7 +58,7 @@ o) lovaglásra, valamint járműközlekedésre használható út kijelölésére
 
 p) lovas sportverseny rendezésének engedélyezésére irányuló eljárásban,
 
-ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
 (3) A (2) bekezdés l) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés m) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
 
@@ -74,7 +74,7 @@ c) az engedély nélkül, vagy az engedélytől eltérően telepített faállom�
 
 d) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban,
 
-ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
 (6) A Kormány tájképvédelmi rendeltetésű erdő esetén
 
@@ -106,5 +106,5 @@ g) cserjék kivágásának engedélyezése iránti eljárásban,
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
 
-[^5]: [A 32. § (2) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (1) bekezdése alapján. E módosító rendelet 68. §-a alapján 2011. szeptember 15-én lép hatályba.]
-[^6]: [A 32. § (5) bekezdés záró szövegrészében a „további feltételek mellett megfelel-e” szövegrész helyébe a „további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e” szöveg lép a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése alapján. E módosító rendelet 68. § alapján 2011. szeptember 15-én lép hatályba.]
+[^5]: A 32. § (2) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
