@@ -1,3 +1,0 @@
-## 16. § A Kr. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A környezeti hatásvizsgálati eljárást a felügyelőség a környezethasználó kérelmére indítja meg. A kérelem mellé csatolni kell – ha történt előzetes vizsgálat vagy előzetes konzultáció, az azt lezáró határozatra vagy az annak során adott véleményre, továbbá a 2/A. §-ban meghatározott esetben a felügyelőség szakhatósági állásfoglalásában vagy a felügyelőség saját hatáskörébe tartozó engedélyezési eljárás során hozott, az eljárás felfüggesztéséről szóló végzésben foglaltakra figyelemmel készített – környezeti hatástanulmányt.”

@@ -1,7 +1,0 @@
-## 27. § Az Nkr. 8/B. § (2) bekezdésének f) pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány a polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények fennmaradásának engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban)
-
-## „f) ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, vagy az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az V. osztályú repülőtér kivételével – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak, a felszín alatti vizek és ivóvízbázisok védelmére vonatkozó szabályoknak a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget,”
-
-## (szakhatóságként jelöli ki.)
