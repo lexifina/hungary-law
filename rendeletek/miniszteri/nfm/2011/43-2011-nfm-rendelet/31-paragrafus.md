@@ -1,0 +1,1 @@
+31. § E rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikk szerinti előzetes bejelentése megtörtént.
