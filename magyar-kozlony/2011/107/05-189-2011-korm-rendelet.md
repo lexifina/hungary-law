@@ -1,0 +1,175 @@
+# A Kormány 189/2011. (IX. 19.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 107. szám, 2011. szeptember 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4502e14559aa7ff9fef9f75c113fe9817929d49c/dokumentumok/f6eea640f14a86bec973c52a4147e4a91b80e01f/letoltes)
+
+---
+
+A Kormány 189/2011. (IX. 19.) Korm. rendelete
+a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló
+102/2011. (VI. 29.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés
+a) és g) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+(a továbbiakban: R.) 2. § g) pontja a következő gc) alponttal egészül ki:
+(E rendelet alkalmazásában
+szállítást végző személy: a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását írásbeli nyilatkozatban
+vállaló, gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkező)
+„gc) a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről
+szóló törvény szerinti önkéntes jogviszonyban végző személy,”
+(amennyiben nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt.)
+2. §
+Az R. 4. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A szerzési támogatással vásárolt személygépkocsi kizárólag a súlyos mozgáskorlátozott személy érdekében
+használható.”
+3. §
+Az R. 7. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A kérelemhez mellékelni kell)
+„c) a szállítást végző személy írásbeli nyilatkozatát, továbbá a 2. § g) pont ga)–gb) alpontja esetén a hozzátartozói
+kapcsolatot, a 2. § g) pont gb) alpontja esetén a közös háztartásban élést igazoló dokumentum fénymásolatát, a 2. §
+g) pont gc) alpontja esetén az önkéntes szerződés fénymásolatát, és”
+4. §
+(1) Az R. 9. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A támogatás felhasználása)
+„a) a 4. § (1) bekezdés a)–b) pontja szerinti esetben a pályáztatási eljárás útján kiválasztott, finanszírozási
+tevékenységgel foglalkozó, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti
+pénzügyi szolgáltatást nyújtó szervezettel (a továbbiakban: finanszírozó szervezet) kötött kölcsönszerződés
+keretében,”
+(történik.)
+(2) Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A támogatás felhasználása során a kölcsönszerződést a súlyos mozgáskorlátozott személlyel kell megkötni, illetve
+az utalványt az ő nevére kell kiállítani (a továbbiakban: szerzési támogatás jogosultja).”
+5. §
+Az R. a következő 9/A. §-sal egészül ki:
+„9/A. § (1) A 9. § (1) bekezdés a) pontja szerinti esetben a finanszírozó szervezet kiválasztása nyilvános pályázat útján
+történik a versenysemlegesség szempontjainak érvényesítésével.
+(2) A pályázati felhívást a miniszter által vezetett minisztérium honlapján kell közzétenni, a közzététel napját kell
+a pályázat meghirdetési időpontjának tekinteni.
+(3) A pályázati felhívásnak tartalmaznia kell
+a) a pályázat tárgyát és célját,
+b) a kiíró megnevezését, székhelyét,
+c) a részletes tájékoztató rendelkezésre bocsátásának helyét, idejét és költségét,
+d) a pályázati ajánlatok benyújtásának helyét és határidejét,
+e) az ajánlati kötöttség időtartamát, illetve az annak esetleges meghosszabbítására vonatkozó előírásokat,
+f) a kiíró azon jogának fenntartását, hogy a pályázatot eredménytelennek nyilvánítsa,
+g) a kiíró azon jogának fenntartását, hogy a nyertes ajánlattevő visszalépése esetén a pályázat soron következő
+helyezettjével szerződést kössön,
+h) a pályázati ajánlat érvényességének feltételeit, és
+i) a gazdasági, pénzügyi, műszaki és szakmai alkalmassági feltételeket.
+
+(4) A részletes tájékoztató a pályázati felhívásban foglalt adatokon kívül tartalmazza a pályázati kiírást és az eljárás
+szabályait, így különösen
+a) a pályázat tárgyával kapcsolatos részletes információkat, az ahhoz kapcsolódó jogokat és kötelezettségeket, így
+a finanszírozott gépjárművek specifikációját, szállításának ütemezését, az ügyfélszolgálati pontokat, az
+ügyfélszolgálat országos lefedettségét,
+b) a pályázat hivatalos nyelvének megjelölését,
+c) a pályázati biztosíték megjelölését, rendelkezésre bocsátásának határidejét és módját,
+d) a pályázati ajánlatok bontási eljárásának helyét, időpontját,
+e) a pályázatok elbírálására jogosult megnevezését,
+f) a pályázat elbírálása során alkalmazandó értékelési szempontokat és a – kiíró döntésétől függő – pontozásos vagy
+egyéb, árkedvezményt is figyelembe vevő értékelési rendszert,
+g) a pályázati ajánlatok elbírálási időpontját vagy határidejét,
+h) az eredményhirdetés módját, helyét és várható idejét, és
+i) az ajánlattevők értesítésének módját és várható határidejét.
+(5) A részletes tájékoztató az ajánlattevőnek csak titoktartási nyilatkozat aláírása után adható ki. A pályázónak
+a részletes tájékoztatóban foglaltakon túl is adható információ, oly módon és tartalommal, amely nem sérti a pályázók
+esélyegyenlőségét, az ajánlatok kezelésére vonatkozó előírásokat és az üzleti titkot.
+(6) A kiíró az ajánlatok benyújtására vonatkozó határidőt (a továbbiakban: ajánlattételi határidő) nem határozhatja
+meg a pályázati felhívás közzétételétől számított tizenöt napnál rövidebb időtartamban.
+(7) A kiíró jogosult a pályázati felhívást az ajánlattételi határidő letelte előtt visszavonni; erről köteles a pályázókat
+értesíteni. A felhívás visszavonása esetén – amennyiben a részletes dokumentációt a pályázó ellenérték fejében kapta
+meg – a kiíró köteles a részletes dokumentáció visszaszolgáltatása ellenében a dokumentáció ellenértékét
+visszafizetni. Az ajánlattevő az ajánlattételi határidő lejártáig módosíthatja vagy visszavonhatja pályázati ajánlatát.
+(8) Érvénytelen az ajánlat, ha nem felel meg a pályázati kiírásban foglaltaknak.
+(9) A pályázati ajánlatok elbírálásáról a miniszter dönt. Az ajánlatok közül – a (4) bekezdés f) pontjában foglaltak
+figyelembevételével – az összességében legkedvezőbb feltételeket kínáló, megalapozott ajánlat mellett kell dönteni.”
+6. §
+Az R. 5. alcíme a következő 11/A–11/B. §-sal egészül ki:
+„11/A. § (1) A 4. § (1) bekezdés a)–b) pontja szerinti esetben a szerzési támogatással érintett személygépkocsi a
+kölcsönszerződés megkötésének napjától számított három éven belül nem idegeníthető el.
+(2) A személygépkocsi forgalomba helyezésére, illetve tulajdonjogának átírására a szerzési támogatás jogosultjának
+lakóhelye szerint illetékes közlekedési igazgatási hatóságnál indított eljárásban meghatalmazottként a finanszírozó
+szervezet jár el, és egyidejűleg kezdeményezi az elidegenítési tilalomnak a járműnyilvántartásba az állam javára
+történő bejegyzését. Az elidegenítési tilalom bejegyzéséről szóló határozatát a közlekedési igazgatási hatóság közli
+a hivatallal, a finanszírozó szervezettel és a szerzési támogatás jogosultjával.
+(3) Ha a szerzési támogatás jogosultja nem adott a (2) bekezdés szerinti eljárás lefolytatásához szükséges
+meghatalmazást, a finanszírozó szervezet erről a tényről értesíti a hivatalt.
+(4) A (3) bekezdés szerinti esetben a szerzési támogatás jogosultjának a szerzési támogatást vissza kell fizetnie.
+A visszafizetést a hivatal határozattal rendeli el. A szerzési támogatás visszafizetésére egyebekben a 12. §-ban
+foglaltakat kell megfelelően alkalmazni.
+11/B. § (1) A (3) bekezdés szerinti esetben, valamint ha a személygépkocsit műszaki állapota miatt a közúti forgalomból
+véglegesen kivonták vagy a személygépkocsit eltulajdonították, az elidegenítési tilalomra vonatkozó bejegyzést
+törölni kell a járműnyilvántartásból.
+(2) Ha az elidegenítési tilalom ideje lejárt és az (1) bekezdés szerinti törlésre nem került sor, az elidegenítési tilalom
+megszűnik. Az elidegenítési tilalom megszűnésekor a törzskönyvet a szerzési támogatás jogosultjának, illetve
+örökösének kérelmére ki kell adni.
+(3) A szerzési támogatás jogosultja, illetve örököse a hivatal előzetes hozzájárulásával az elidegenítési tilalom
+fennállásának ideje alatt a személygépkocsit csak akkor idegenítheti el, ha a szerzési támogatásnak a határozathozatal
+napjától számított időarányos részét a miniszternek visszafizeti. A hivatal az előzetes hozzájárulást megadó
+határozatában rendelkezik a támogatás időarányos részének tizenöt napon belüli visszafizetéséről, az elidegenítési
+tilalom járműnyilvántartásból való törléséről és a törzskönyvnek a szerzési támogatás jogosultja, illetve örököse
+részére történő kiadásáról. A hivatal a határozatot közli a miniszterrel és a finanszírozó szervezettel. A hivatal az
+elidegenítési tilalom törlését akkor kezdeményezi a közlekedési igazgatási hatóságnál, ha a visszafizetés megtörténtét
+
+a miniszter visszaigazolja, vagy a szerzési támogatás jogosultja, illetve örököse hitelt érdemlően igazolja. Ha a szerzési
+támogatás időarányos részének visszafizetése a határozatban megállapított határideig nem történik meg, a hivatal az
+előzetes hozzájárulást visszavonja.
+(4) Ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit
+eltulajdonították, a hivatal az elidegenítési tilalom törlését a szerzési támogatás jogosultjának, illetve örökösének
+kérelmére rendeli el. A kérelemhez mellékelni kell a törlésre okot adó körülmények igazolására szolgáló okiratok
+másolatát; ennek hiányában – a forgalmi korlátozásra vonatkozó okirat esetében – a hivatal adatszolgáltatási
+kérelemmel fordul a közlekedési igazgatási hatósághoz. A hivatal a határozatot közli a közlekedési igazgatási
+hatósággal és a finanszírozó szervezettel, valamint kezdeményezi az elidegenítési tilalom törlését.”
+7. §
+Az R. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A közlekedési kedvezmény jogalap nélküli és rosszhiszemű igénybevétele esetén a jogalap nélküli és rosszhiszemű
+igénybe vevő köteles azt a (3) bekezdés szerinti kamattal megemelt összegben visszafizetni.”
+8. §
+Az R. 13. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) 2011. évben
+a) a szerzési, illetve átalakítási támogatás iránti kérelem benyújtásának határideje 2011. október 15-e,
+b) a hivatal a jogosultságokról – az általa létrehozott bizottság véleményének kikérésével és a keretszámnak
+a figyelembevételével – 2011. november 30-áig dönt.”
+9. §
+Az R. 13. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+módosításáról szóló 189/2011. (IX. 19.) Korm. rendelet hatálybalépéséig benyújtott kérelmek esetében a hivatal
+a kérelmezőt tájékoztatja a jogszabály-változásról, és felhívja a 7. § (3) bekezdés f) pontja szerinti, kölcsönszerződés
+megkötésére vonatkozó nyilatkozat benyújtására a hiánypótlásra vonatkozó szabályok szerint.”
+10. §
+Az R. 14. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az R. szerint megállapított szerzési támogatásokkal kapcsolatos elidegenítési tilalom vonatkozásában az
+R. 2011. július 1-jén hatályos szabályait kell alkalmazni.”
+11. §
+(1) Az R.
+a)
+2. § f) pont fb) alpontjában a „segédmotoros” szövegrész helyébe a „három- vagy négykerekű segédmotoros”
+szöveg,
+b)
+4. § (1) bekezdés nyitó szövegrészében a „támogatás” szövegrész helyébe a „támogatás (a továbbiakban: szerzési
+támogatás)” szöveg,
+c)
+5. § (1) bekezdés nyitó szövegrészében a „támogatás” szövegrész helyébe a „támogatás (a továbbiakban:
+átalakítási támogatás)” szöveg,
+d)
+5. § (2) bekezdésében az „A személygépkocsi” szövegrész helyébe az „Az” szöveg,
+e)
+8. § (5) bekezdés a) pontjában, 10. § (1), (3), (4) és (5) bekezdésében a „lízingszerződés” szövegrész helyébe a
+„kölcsönszerződés” szöveg,
+f)
+10. § (2) bekezdésében a „lízingszerződést pénzügyi lízing keretében,” szövegrész helyébe a „kölcsönszerződést”
+szöveg
+lép.
+(2) Hatályát veszti az R.
+a)
+4. § (2) bekezdés nyitó szövegrészében és 6. § (1) bekezdés nyitó szövegrészében a „személygépkocsi” szövegrész,
+b)
+7. § (3) bekezdés f) pontjában a „vagy a szállítást végző” szövegrész,
+c)
+10. § (6) bekezdése,
+d)
+12. § (3) bekezdésében a „b) pontja” szövegrész.
+12. §
+Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
