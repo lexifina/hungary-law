@@ -10,9 +10,9 @@ a) a szaporítóanyag tételek jelölését, elkülönítését elmulasztja,
 
 b) nyilvántartását nem rendszeresen vagy hiányosan vezeti,
 
-c)[^8] a származás igazolására szolgáló okiratot (a továbbiakban: származási igazolvány) a szaporítóanyag átadásával egyidőben nem állítja ki, vagy nem adja át,
+c)[^11] a származás igazolására szolgáló okiratot (a továbbiakban: származási igazolvány) a szaporítóanyag átadásával egyidőben nem állítja ki, vagy nem adja át,
 
-d)[^9] az általa forgalmazott szaporító alapanyagokról kiállított származási igazolványokat az előírt határidőre nem küldi meg az MgSzH-nak, illetve a növény- és talajvédelmi igazgatóságnak vagy
+d)[^12] az általa forgalmazott szaporító alapanyagokról kiállított származási igazolványokat az előírt határidőre nem küldi meg az MgSzH-nak, illetve a növény- és talajvédelmi igazgatóságnak vagy
 
 e) törzsültetvényt engedély nélkül vág ki, vagy törzsültetvényt engedély nélkül von ki törzsültetvénykénti üzemeltetésből.
 
@@ -38,10 +38,10 @@ c) olyan fajtát szaporít vagy hoz forgalomba, amely sem a Nemzeti Fajtajegyzé
 
 d) nem igazolt származású szaporítóanyagot használ fel, illetve hoz forgalomba,
 
-e)[^10] szaporítóanyagot hamis származási igazolvánnyal hoz forgalomba.
+e)[^13] szaporítóanyagot hamis származási igazolvánnyal hoz forgalomba.
 
 (6) Az (1) bekezdés szerinti jogszabályokban foglaltaknak a (2)–(5) bekezdésben nem nevesített megsértése esetén a minőségvédelmi bírság mértéke legfeljebb 500 000 forintig terjedhet.
 
-[^8]: A 6. § (2) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 386. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: A 6. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 130. § (4) bekezdésével megállapított szöveg.
-[^10]: A 6. § (5) bekezdés e) pontja a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 386. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 6. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 130. § (4) bekezdésével megállapított szöveg.
+[^13]: A 6. § (5) bekezdés e) pontja a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés j) pontja szerint módosított szöveg.

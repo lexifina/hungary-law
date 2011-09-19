@@ -1,5 +1,3 @@
-## esetén.
-
 ## A zöldség szaporítóanyagok előállításával és forgalomba hozatalával, valamint a dísznövény szaporítóanyagok forgalomba hozatalával kapcsolatos jogszabálysértések
 
 5. § (1) A zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendeletben és a dísznövény szaporítóanyagok forgalomba hozataláról szóló 62/2004. (IV. 27.) FVM rendeletben foglaltak megsértése esetén a minőségvédelmi bírság mértékét az e §-ban foglaltakra figyelemmel kell megállapítani.

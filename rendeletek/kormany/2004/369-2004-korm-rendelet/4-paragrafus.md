@@ -10,6 +10,8 @@ a) felbontott csomagolású és emiatt nem azonosítható, illetve ellenőrzött
 
 b) jogszabály által előírt nyilvántartási kötelezettség elmulasztása
 
+c)[^7] a jogszabályban előírt vizsgálati kötelezettség elmulasztása
+
 ## esetén.
 
 (4) A szaporítóanyag származásának és minőségének a feldolgozás vagy a felhasználás helyén történő hiányos dokumentálása, illetve a dokumentálás elmaradása esetén a minőségvédelmi bírság mértéke legfeljebb 350 000 forint.
@@ -34,7 +36,7 @@ d) a Tv. által előírt, termékpálya szerinti igazolt terméktanácsi tagság
 
 a) szántóföldön alkalmatlannak minősített szaporítóanyag vetőmagként történő forgalomba hozatala,
 
-b)[^6]
+b)[^8]
 
 c) hamis, illetve meghamisított minősítő okmányok használata
 
@@ -42,11 +44,12 @@ c) hamis, illetve meghamisított minősítő okmányok használata
 
 (9) A minőségvédelmi bírság mértéke 2 500 000 forintig terjedhet
 
-a)[^7]
+a)[^9]
 
 b) ellenőrző vizsgálaton alkalmatlannak minősített vetőmag forgalomba hozatala, illetve
 
 c) a vetőmag szaporítások terméséhez tartozó bizonylatok meghamisítása
 
-[^6]: A 4. § (8) bekezdés b) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
-[^7]: A 4. § (9) bekezdés a) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^7]: A 4. § (3) bekezdés c) pontját a 147/2011. (VIII. 4.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. § (8) bekezdés b) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^9]: A 4. § (9) bekezdés a) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
