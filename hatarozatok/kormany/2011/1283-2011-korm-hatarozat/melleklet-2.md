@@ -22,6 +22,10 @@
 
 | Mindösszesen | 34 141 234 |
 
-2. melléklet az 1283/2011. (VIII. 10.) Korm. határozathoz
+2. melléklet az 1283/2011. (VIII. 10.) Korm. határozathoz[^1]
 
-A 2010. ÉVI ELŐIRÁNYZAT-MARADVÁNY ÁTCSOPORTOSÍTÁSA
+A 2011. ÉVI ELŐIRÁNYZAT-MARADVÁNY ÁTCSOPORTOSÍTÁSA
+
+| Ezer forintban |
+
+[^1]: A 2. melléklet az 1318/2011. (IX. 19.) Korm. határozat 1. pontjával megállapított szöveg.
