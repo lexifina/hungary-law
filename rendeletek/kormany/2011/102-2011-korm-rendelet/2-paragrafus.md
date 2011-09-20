@@ -38,7 +38,7 @@ f) önálló személygépkocsi használó: az a súlyos mozgáskorlátozott szem
 
 fa) gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
-fb) a 4. § (1) bekezdés c) pontja esetében segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
+fb)[^1] a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
 fc) az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: szakértői szerv) vagy jogelődje megállapította,
 
@@ -50,4 +50,9 @@ ga) vér szerinti, örökbefogadó- és nevelőszülő, házastárs, élettársi
 
 gb) a súlyos mozgáskorlátozott személlyel legalább egy éve közös háztartásban élő vér szerinti, örökbefogadott és nevelt gyermek, vagy testvér,
 
+gc)[^2] a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
+
 amennyiben nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt.
+
+[^1]: A 2. § f) pont fb) alpontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be.

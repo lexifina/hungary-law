@@ -1,4 +1,4 @@
-6. § (1) A személygépkocsi szerzési és átalakítási támogatásra (a továbbiakban együtt: közlekedési kedvezmény) a súlyos mozgáskorlátozott személy jogosult, ha
+6. § (1)[^8] A szerzési és átalakítási támogatásra (a továbbiakban együtt: közlekedési kedvezmény) a súlyos mozgáskorlátozott személy jogosult, ha
 
 a) a kérelem benyújtását megelőző hét éven belül ő maga vagy rá tekintettel más személy nem részesült a kérelem szerinti közlekedési kedvezményben, és
 
@@ -27,3 +27,5 @@ c) 14 éven aluli gyermeket egyedülállóként nevel, vagy
 d) honvédelmi kötelezettség teljesítése során, azzal összefüggésben vált súlyos mozgáskorlátozottá.
 
 (4) A (3) bekezdés alá nem tartozó súlyos mozgáskorlátozott személy csak akkor részesíthető közlekedési kedvezményben, ha valamennyi, a (3) bekezdésnek és a jogszabályi feltételeknek megfelelő kérelem alapján megállapították a jogosultságot, és ez a keretszámot nem merítette ki.
+
+[^8]: A 6. § (1) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.

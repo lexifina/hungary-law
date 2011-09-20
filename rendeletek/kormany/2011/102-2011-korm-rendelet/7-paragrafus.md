@@ -20,7 +20,7 @@ ac) a szakértői szerv vagy jogelődje által az egészségkárosodás minősí
 
 b) a súlyos mozgáskorlátozott vagy a szállítást végző személy érvényes vezetői engedélyének, az 5. § (1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságot tanúsító szakvéleménynek a fénymásolatát, valamint nyilatkozatát arra nézve, hogy nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt, és
 
-c) a szállítást végző személy írásbeli nyilatkozatát, valamint a hozzátartozói kapcsolatot és a 2. § g) pont gb) alpontja esetén a közös háztartásban élést igazoló dokumentum fénymásolatát, és
+c)[^9] a szállítást végző személy írásbeli nyilatkozatát, továbbá a 2. § g) pont ga)–gb) alpontja esetén a hozzátartozói kapcsolatot, a 2. § g) pont gb) alpontja esetén a közös háztartásban élést igazoló dokumentum fénymásolatát, a 2. § g) pont gc) alpontja esetén az önkéntes szerződés fénymásolatát, és
 
 d) a 6. § (3) bekezdés
 
@@ -34,7 +34,7 @@ dd) d) pontja szerinti esetben a szakértői szervnek vagy jogelődjének a hadi
 
 e) a súlyos mozgáskorlátozott és a szállítást végző személy nyilatkozatát arról, hogy a 6. § (1) bekezdés a) pontja és (2) bekezdése szerint nem részesült ő maga vagy más személy rá tekintettel közlekedési kedvezményben, és
 
-f) a 4. § (1) bekezdés a)–b) pontja szerinti esetben a súlyos mozgáskorlátozott vagy a szállítást végző személy nyilatkozatát arról, hogy a 9. § (1) bekezdés a) pontja szerinti szerződés megkötését vállalja.
+f)[^10] a 4. § (1) bekezdés a)–b) pontja szerinti esetben a súlyos mozgáskorlátozott személy nyilatkozatát arról, hogy a 9. § (1) bekezdés a) pontja szerinti szerződés megkötését vállalja.
 
 (4) Az 1. § c)–d) pontja szerinti személynek a közlekedési kedvezmény iránti kérelméhez – a (3) bekezdésben meghatározottakon túl – csatolnia kell
 
@@ -45,3 +45,6 @@ b) a tartózkodás jogcímét igazoló egyéb iratokat,
 c) a rokoni kapcsolatot igazoló irat másolatát, amennyiben hozzátartozóként válik jogosulttá az ellátásra.
 
 (5) Ha a kérelmező az érvényes vezetői engedély fénymásolatát, a tanulói, képzési jogviszony fennállását igazoló dokumentumot, a tartózkodási engedély másolatát vagy a (3) bekezdés a) pont aa) alpontja szerinti dokumentumot nem mellékeli a kérelméhez, a hivatal adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+
+[^9]: A 7. § (3) bekezdés c) pontja a 189/2011. (IX. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 7. § (3) bekezdés f) pontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

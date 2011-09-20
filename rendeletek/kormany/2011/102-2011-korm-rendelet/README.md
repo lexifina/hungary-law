@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | --- | --- | --- |
 | 2011-07-02 | 2011-102-20-22.1 | 102/2011. (VI. 29.) Korm. rendelet |
 | 2011-07-03 | 2011-102-20-22.2 | 2010: CXXX. törvény |
+| 2011-09-20 | 2011-102-20-22.3 | 189/2011. (IX. 19.) Korm. rendelet |

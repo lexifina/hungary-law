@@ -2,7 +2,7 @@
 
 ## 2. Személygépkocsi szerzési támogatás
 
-4. § (1) A személygépkocsi szerzési támogatás
+4. § (1)[^3] A személygépkocsi szerzési támogatás (a továbbiakban: szerzési támogatás)
 
 a) a közúti járművek műszaki megvizsgálásáról szóló rendelet értelmében új járműnek minősülő személygépkocsi, vagy
 
@@ -14,10 +14,16 @@ d) járműnek nem minősülő, sík úton önerejéből 10 km/óra sebességnél
 
 szerzésére felhasználható, a vételár megtérítéséhez nyújtott hozzájárulás.
 
-(2) A személygépkocsi szerzési támogatás mértéke
+(2)[^4] A szerzési támogatás mértéke
 
 a) az (1) bekezdés a) pontja szerinti esetben 900 000 forint,
 
 b) az (1) bekezdés b)–d) pontja szerinti esetben a vételár 60%-a, de legfeljebb 600 000 forint.
 
 (3) Az (1) bekezdés c)–d) pontja szerinti esetben vételárnak a társadalombiztosítási támogatással csökkentett vételár minősül.
+
+(4)[^5] A szerzési támogatással vásárolt személygépkocsi kizárólag a súlyos mozgáskorlátozott személy érdekében használható.
+
+[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 4. § (4) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 2. §-a iktatta be.

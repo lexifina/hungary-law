@@ -14,6 +14,8 @@ c) a hivatal által felkért személy.
 
 (5) A közlekedési kedvezményt megállapító határozatban
 
-a) a 4. § (1) bekezdés a)–b) pontja szerinti esetben rendelkezni kell a lízingszerződés megkötésével kapcsolatos kötelezettségekről,
+a)[^11] a 4. § (1) bekezdés a)–b) pontja szerinti esetben rendelkezni kell a kölcsönszerződés megkötésével kapcsolatos kötelezettségekről,
 
 b) szállítást végző személy esetén fel kell tüntetni a szállítást végző személy természetes személyazonosító adatait.
+
+[^11]: A 8. § (5) bekezdés a) pontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
