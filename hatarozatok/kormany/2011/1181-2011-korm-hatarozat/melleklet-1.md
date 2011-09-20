@@ -4,7 +4,7 @@
 
 ## Határidő: az átcsoportosításra: azonnal
 
-## az elszámolásra és a visszafizetési kötelezettség teljesítésére: 2011. szeptember 30.
+## az elszámolásra és a visszafizetési kötelezettség teljesítésére: 2011. november 30.
 
 ## 2. jóváhagyja, hogy az MFB Magyar Fejlesztési Bank Zrt. biztonságos működése és a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvényben foglaltak megvalósítása érdekében a határozat 1. pontjában biztosított 10 000,0 millió forint tőkejuttatásból 2500,0 millió forint a jegyzett tőkét növelje, 7500,0 millió forint pedig tőketartalékba kerüljön.
 
@@ -198,5 +198,5 @@ Költségvetési év: 2011.
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
 
-[^1]: Az 1. pont az 1282/2011. (VIII. 10.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1282/2011. (VIII. 10.) Korm. határozat 3. pontjával megállapított, az 1318/2011. (IX. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: Az 1. melléklet az 1282/2011. (VIII. 10.) Korm. határozat 4. pontjával megállapított szöveg.
