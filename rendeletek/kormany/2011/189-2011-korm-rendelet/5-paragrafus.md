@@ -1,1 +1,0 @@
-## „(2) A támogatás felhasználása során a kölcsönszerződést a súlyos mozgáskorlátozott személlyel kell megkötni, illetve az utalványt az ő nevére kell kiállítani (a továbbiakban: szerzési támogatás jogosultja).”
