@@ -9,11 +9,3 @@
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az Egyezmény 18. cikke alapján meghatározott formanyomtatványokat és azok változásait rendeletben határozza meg.
 
 (6) E törvény végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
