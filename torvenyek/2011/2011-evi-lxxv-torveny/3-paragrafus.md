@@ -6,7 +6,7 @@ a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja 
 
 b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt,
 
-c) a devizakölcsön végső lejárata 2014. december 31. napját követő időpont,
+c)
 
 d) a fedezetül szolgáló, zálogjoggal terhelt lakóingatlan pénzügyi intézmény által meghatározott forgalmi értéke a fedezetként történő elfogadáskor nem haladta meg a 30 millió forintot,
 

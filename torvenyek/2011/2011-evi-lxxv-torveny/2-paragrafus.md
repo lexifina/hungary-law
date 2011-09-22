@@ -1,10 +1,12 @@
 ## 2. Állami kezességvállalás
 
-2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam
+2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
 
-a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért a rögzített árfolyam alkalmazási időszaka alatt,
+a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést az 1. § (2) bekezdésében meghatározott időszakban a 2. § (3) bekezdés a) pontjában meghatározott okból felmondta,
 
 b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a rögzített árfolyam alkalmazási időszaka záró időpontját követően.
+
+(1a) Ha a gyűjtőszámlahitelhez a 4. § (4a) bekezdése szerinti állami kezességvállalás kapcsolódik, az (1) bekezdés alapján vállalt kezesség kizárólag a 4. § (4a) bekezdés alapján vállalt kezességgel nem fedezett gyűjtőszámlahitelből eredő tartozások tekintetében érvényesíthető.
 
 (2) A kezességvállalásért a gyűjtőszámlahitelt nyújtó pénzügyi intézmény a Magyar Állam részére kezességvállalási díjat fizet. A pénzügyi intézmény a kezességvállalási díjat semmilyen módon nem háríthatja át a hiteladósra. Az Európai Unió állami támogatási szabályainak való megfelelés érdekében a kezességvállalási díj támogatástartalmat nem tartalmaz, mértékét, számításának és megfizetésének módját kormányrendelet határozza meg.
 

@@ -8,13 +8,13 @@ a) a kölcsön nyilvántartási pénzneme euró, svájci frank vagy japán jen,
 
 b) a törlesztési kötelezettséget a hiteladós forintban teljesíti, és
 
-c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog;
+c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
 
 2. fedezeti ingatlan: lakáshitel-szerződésből eredő hiteltartozás biztosítására jelzálogjoggal terhelt lakóingatlan, ha a lakáshitel-szerződésből eredő lejárt tartozás megfizetése tekintetében több mint 90 napos késedelem áll fenn;
 
 3. fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és a hiteladós között létrejött olyan – nem e törvény hatálya alá tartozó – megállapodás, amelynek eredményeként a hiteladóst egy meghatározott időtartamra a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
 
-4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
+4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
 
 5. hiteladós: az a természetes személy, aki pénzügyi intézménnyel devizakölcsönre vonatkozóan kölcsönszerződést kötött és e szerződésből eredően tartozása áll fenn;
 
@@ -50,7 +50,7 @@ d) a hontalan, ha a Tv.-ben foglaltak alapján ilyen jogállásúnak ismerték e
 
 a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
 
-b) záró időpontja a kezdő időponttól számított 36 hónap, de legkésőbb 2014. december 31. napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+b) záró időpontja a kezdő időponttól számított 36 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, de legkésőbb 2014. december 31. napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
 (3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
