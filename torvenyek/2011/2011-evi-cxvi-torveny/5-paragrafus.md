@@ -5,11 +5,3 @@
 (3) Az államháztartásért felelős miniszter az Európai Bizottság határozata meghozatalának időpontját – annak ismertté válását követően haladéktalanul – a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
 (4) Hatályát veszti a Tv. 3. § (1) bekezdés c) pontja.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
