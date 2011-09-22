@@ -1,0 +1,7 @@
+# 2011. évi CXVI. törvény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-116-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2011-09-22 | 2011. évi CXVI. törvény | 2011-116-00-00.0 (közlönyállapot) |
