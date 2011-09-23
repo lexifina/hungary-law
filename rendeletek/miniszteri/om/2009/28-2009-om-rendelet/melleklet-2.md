@@ -1,6 +1,4 @@
-## „
-
-## A települési önkormányzatok fizetési számlaszámai
+## A települési önkormányzatok költségvetési elszámolási számlaszámai
 
 | Baranya megye |
 
@@ -22,7 +20,7 @@
 
 | Siklós | 50600083-30050877-51000002 |
 
-| Szentlőrinc | 50700011-11026802-00000000 |
+| Szentlőrinc | 11731135-15332549-00000000 |
 
 | Szigetvár | 11731094-15332233-00000000 |
 
@@ -46,11 +44,11 @@
 
 | Kerekegyháza | 11732002-15337908-00000000 |
 
+| Kiskőrös | 10701300-48535706-51100005 |
+
 | Kiskunfélegyháza | 11732071-15338284-00000000 |
 
 | Kiskunhalas | 11732064-15338806-00000000 |
-
-| Kiskőrös | 10701300-48535706-51100005 |
 
 | Kiskunmajsa | 11732143-15339010-00000000 |
 
@@ -116,7 +114,7 @@
 
 | Felsőzsolca | 54500112-10030015-00000000 |
 
-| Gönc | 54700013-10011001-00000000 |
+| Gönc | 54600119-10027484-00000000 |
 
 | Kazincbarcika | 11734152-15350057-00000000 |
 
@@ -172,7 +170,7 @@
 
 | Bicske | 11736020-15361497-00000000 |
 
-| Dunaújváros | 10700134-26007409-51100005 |
+| Dunaújváros | 10400463-50526570-56851027 |
 
 | Enying | 11500092-11110000-00000000 |
 
@@ -236,7 +234,7 @@
 
 | Nyíradony | 11738008-15373333-00000000 |
 
-| Polgár | 11738156-15373388-00000000 |
+| Polgár | 61200216-11052733-00000000 |
 
 | Püspökladány | 11738053-15373694-00000000 |
 
@@ -302,7 +300,7 @@
 
 | Dorog | 11740023-15385743-00000000 |
 
-| Esztergom | 12025000-00170092-00100008 |
+| Esztergom | 10403648-49564948-53491029 |
 
 | Kisbér | 12028003-00103265-00100000 |
 
@@ -398,7 +396,7 @@
 
 | Balatonboglár | 12072514-01000463-00100001 |
 
-| Balatonföldvár | 11743040-15396059-00000000 |
+| Balatonföldvár | 14100110-35181549-03000001 |
 
 | Balatonlelle | 11743064-15401005-00000000 |
 
@@ -480,7 +478,7 @@
 
 | Szekszárd | 11746005-15416566-00000000 |
 
-| Tamási | 12070907-00115131-00100001 |
+| Tamási | 11600006-00000000-38269815 |
 
 | Tolna | 12071001-00153542-00100003 |
 
@@ -498,11 +496,11 @@
 
 | Répcelak | 72600115-15001007-00000000 |
 
-| Sárvár | 11747037-15420961-00000000 |
+| Sárvár | 12096004-00103732-00100007 |
 
 | Szentgotthárd | 11747068-15421481-00000000 |
 
-| Szombathely | 11747006-15421137-00000000 |
+| Szombathely | 12094507-00210301-00100008 |
 
 | Vasvár | 11747075-15421900-00000000 |
 
@@ -556,72 +554,94 @@
 
 | Budapest főváros |
 
-| Budapest I. kerület | 12010154-00379543-00100000 |
+| I. ker. | 12010154-00379543-00100000 |
 
-| Budapest II. kerület | 12001008-00201761-00100004 |
+| II. ker. | 12001008-00201761-00100004 |
 
-| Budapest III. kerület | 12001008-00131713-00100007 |
+| III. ker. | 12001008-00131713-00100007 |
 
-| Budapest IV. kerület | 12010422-00208592-00100005 |
+| IV. ker. | 12010422-00208592-00100005 |
 
-| Budapest V. kerület | 11784009-15505006-00000000 |
+| V. ker. | 11784009-15505006-00000000 |
 
-| Budapest VI. kerület | 11784009-15506007-00000000 |
+| VI. ker. | 11784009-15506007-00000000 |
 
-| Budapest VII. kerület | 11784009-15507008-00000000 |
+| VII. ker. | 11784009-15507008-00000000 |
 
-| Budapest VIII. kerület | 14100309-10213949-01000006 |
+| VIII. ker. | 14100309-10213949-01000006 |
 
-| Budapest IX. kerület | 12001008-00170290-00100006 |
+| IX. ker. | 12001008-00170290-00100006 |
 
-| Budapest X. kerület | 11784009-15510000-00000000 |
+| X. ker. | 11784009-15510000-00000000 |
 
-| Budapest XI. kerület | 11784009-15511001-00000000 |
+| XI. ker. | 11784009-15511001-00000000 |
 
-| Budapest XII. kerület | 12001008-00155297-00100006 |
+| XII. ker. | 12001008-00155297-00100006 |
 
-| Budapest XIII. kerület | 11784009-15513003-00000000 |
+| XIII. ker. | 11784009-15513003-00000000 |
 
-| Budapest XIV. kerület | 11784009-15514004-00000000 |
+| XIV. ker. | 11784009-15514004-00000000 |
 
-| Budapest XV. kerület | 11784009-15515005-00000000 |
+| XV. ker. | 11784009-15515005-00000000 |
 
-| Budapest XVI. kerület | 11784009-15516006-00000000 |
+| XVI. ker. | 11784009-15516006-00000000 |
 
-| Budapest XVII. kerület | 11784009-15517007-00000000 |
+| XVII. ker. | 11784009-15517007-00000000 |
 
-| Budapest XVIII. kerület | 10900028-00000002-39950006 |
+| XVIII. ker. | 10900028-00000002-39950006 |
 
-| Budapest XIX. kerület | 11784009-15519009-00000000 |
+| XIX. ker. | 11784009-15519009-00000000 |
 
-| Budapest XX. kerület | 11784009-15520009-00000000 |
+| XX. ker. | 11784009-15520009-00000000 |
 
-| Budapest XXI. kerület | 11784009-15521000-00000000 |
+| XXI. ker. | 11784009-15521000-00000000 |
 
-| Budapest XXII. kerület | 11784009-15522001-00000000 |
+| XXII. ker. | 11784009-15522001-00000000 |
 
-| Budapest XIII. kerület | 11784009-15523002-00000000 |
+| XXIII. ker. | 11784009-15523002-00000000 |
 
-## ”
+2. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^6]
 
-2. melléklet a 28/2009. (X. 29.) ÖM rendelethez
+A megyei kormányhivatalok előirányzat-felhasználási keretszámlaszámai
 
-„
+| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
-A regionális államigazgatási hivatalok fizetési számlaszámai
+| Baranya Megyei Kormányhivatal | 10024003-00299585-00000000 |
 
-| Közép-magyarországi Regionális Államigazgatási Hivatal | 10023002-01450800-00000000 |
+| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| Dél-alföldi Regionális Államigazgatási Hivatal | 10028007-01450862-00000000 |
+| Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
 
-| Közép-dunántúli Regionális Államigazgatási Hivatal | 10029008-01450879-00000000 |
+| Budapest Főváros Kormányhivatala | 10023002-00299592-00000000 |
 
-| Nyugat-dunántúli Regionális Államigazgatási Hivatal | 10033001-01450886-00000000 |
+| Csongrád Megyei Kormányhivatal | 10028007-00299664-00000000 |
 
-| Észak-alföldi regionális Államigazgatási hivatal | 10034002-01450893-00000000 |
+| Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
 
-| Észak-magyarországi Regionális Államigazgatási Hivatal | 10035003-01450903-00000000 |
+| Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| Dél-dunántúli Regionális Államigazgatási Hivatal | 10039007-01450941-00000000 |
+| Hajdú-Bihar Megyei Kormányhivatal | 10034002-00299626-00000000 |
 
-”
+| Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
+
+| Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00299602-00000000 |
+
+| Komárom-Esztergom Megyei Kormányhivatal | 10036004-00299554-00000000 |
+
+| Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
+
+| Pest Megyei Kormányhivatal | 10023002-00299671-00000000 |
+
+| Somogy Megyei Kormányhivatal | 10039007-00299688-00000000 |
+
+| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
+
+| Tolna Megyei Kormányhivatal | 10046003-00299530-00000000 |
+
+| Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
+
+| Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
+
+| Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
+
+[^6]: A 2. melléklet a 31/2011. (IX. 22.) BM rendelet 4. §-ával megállapított szöveg.

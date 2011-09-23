@@ -1,5 +1,5 @@
 7. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^1]
+(2)[^4]
 
-[^1]: A 7. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^4]: A 7. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
