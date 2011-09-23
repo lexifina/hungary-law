@@ -1,3 +1,1 @@
-4. § A Tv. a 12. §-t követően a következő 12/A. §-sal egészül ki:
-
-„12/A. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosításáról szóló 2011. évi CXVI. törvény 1. §-ával megállapított 1. § (1) bekezdés 1. pont c) alpontjában, 1. § (1) bekezdés 4. pontjában, 1. § (2) bekezdés b) pontjában, 2. §-ával megállapított 2. § (1a) bekezdésében, valamint 3. §-ával megállapított 4. § (4a) bekezdésében foglaltakat az e rendelkezések hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésre és devizakölcsön-szerződésre, valamint devizakölcsön-szerződés módosításra is alkalmazni kell.”
+4. §
