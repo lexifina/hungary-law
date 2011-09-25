@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-15-00-00
 | 2010-03-13 | 42/2010. (II. 26.) Korm. rendelet | 2005-15-00-00.19 |
 | 2010-12-31 | 2010. évi CLXXII. törvény | 2005-15-00-00.20 |
 | 2011-01-01 | 362/2010. (XII. 30.) Korm. rendelet | 2005-15-00-00.21 |
+| 2011-09-25 | 194/2011. (IX. 22.) Korm. rendelet | 2005-15-00-00.22 |

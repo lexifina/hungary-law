@@ -26,7 +26,7 @@ bb) amennyiben a jogosulatlanul jóváírt kibocsátási egység-mennyiséget ne
 
 (9) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-(10)
+(10) A második kereskedési időszakot követően nem részesülhet ingyenes kiosztásban az a létesítmény, amely a 2/B. § szerinti adatszolgáltatás során a létesítményre vonatkozó adatokat nem hitelesítette.
 
 [Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
 
