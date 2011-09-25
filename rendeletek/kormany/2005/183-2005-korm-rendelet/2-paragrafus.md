@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya az Üht. 5. § (3) bekezdés szerinti hitelesítési tevékenységet végző személyekre terjed ki.
+## 1. §[^1] A rendelet hatálya az Üht. 5. § (3) bekezdése szerinti, valamint az Üht. 18. §-a szerinti jelentéstételhez szükséges adatszolgáltatással kapcsolatban hitelesítési tevékenységet végző személyekre terjed ki.
 
 ## Alapfogalmak
 
@@ -18,7 +18,7 @@ f) kibocsátási egységkereskedelmi szolgáltató tevékenység: az üvegházha
 
 g)[^7]
 
-[^1]: Az 1. § a 18/2011. (II. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^1]: Az 1. § a 194/2011. (IX. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 18/2011. (II. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^3]: A 2. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 428. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A 2. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 428. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
