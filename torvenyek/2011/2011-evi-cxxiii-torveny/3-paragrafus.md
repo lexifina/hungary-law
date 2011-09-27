@@ -1,0 +1,1 @@
+3. § Az Áfa tv. e törvénnyel hatályon kívül helyezett 186. § (2)–(4) bekezdése, továbbá az általános forgalmi adóról szóló 1992. évi LXXIV. törvény 48. §-a (7) bekezdése az e törvény hatálybalépésekor folyamatban lévő ügyekben és az e törvény hatálybalépését követően indult ügyekben nem alkalmazható.
