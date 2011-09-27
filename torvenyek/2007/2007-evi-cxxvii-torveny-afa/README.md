@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2011-04-12 | 2011. évi XXXV. törvény | 2007-127-00-00.18 |
 | 2011-06-10 | 2011. évi LVII. törvény | 2007-127-00-00.19 |
 | 2011-07-15 | 2011. évi XCVI. törvény | 2007-127-00-00.20 |
+| 2011-09-27 | 2011. évi CXXIII. törvény | 2007-127-00-00.21 |
