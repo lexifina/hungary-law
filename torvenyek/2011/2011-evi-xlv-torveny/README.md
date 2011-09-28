@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-45-00-00
 | --- | --- | --- |
 | 2011-05-13 | 2011. évi XLV. törvény | 2011-45-00-00.0 (közlönyállapot) |
 | 2011-05-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-45-00-00.1 |
+| 2011-09-28 | 35/2011. (XII. 13.) KÜM határozat | 2011-45-00-00.2 |
