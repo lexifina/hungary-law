@@ -1,0 +1,5 @@
+1. § (1) Az élelmiszer-vállalkozó az Országos Élelmezés- és Táplálkozástudományi Intézetnél (a továbbiakban: OÉTI) írásbeli kérelemmel kezdeményezheti, hogy az OÉTI az 1925/2006/EK európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésében a tagállamok számára biztosított lehetőséggel élve az Európai Bizottságnak javasolja valamely élelmiszerekhez adható, vitaminoktól vagy ásványi anyagtól eltérő anyagnak, vagy ilyen egyéb anyagot tartalmazó összetevőnek az 1925/2006/EK európai parlamenti és tanácsi rendelet III. mellékletébe történő felvételét.
+
+(2) Az (1) bekezdés szerinti kérelmet az OÉTI továbbítja az Európai Bizottságnak.
+
+(3) Az OÉTI a honlapján tájékoztatást ad az élelmiszer-vállalkozók számára azon, az Európai Bizottságnak benyújtható kérelmek tartalmi és formai követelményeiről, amelyekkel az 1925/2006/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti, az élelmiszerekhez adható vitaminokat és ásványi anyagokat tartalmazó mellékletek módosítása kezdeményezhető.
