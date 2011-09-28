@@ -1,11 +1,13 @@
 ## A beszerzési eljárás fajtái
 
-9. § (1)[^9] A beszerzési eljárás nyílt, tárgyalásos vagy különleges eljárás lehet. Tárgyalásos és különleges eljárást csak akkor lehet alkalmazni, ha azt e rendelet megengedi.
+9. §[^14] (1) A beszerzési eljárás a Kbt.-ben meghatározott közbeszerzési eljárásokon túl gyorsított és különleges eljárás lehet. A nyílt eljárás alkalmazása kizárt. Hirdetmény közzététele nélküli tárgyalásos és különleges eljárást, valamint versenypárbeszédet csak akkor lehet alkalmazni, ha azt e rendelet megengedi.
 
 (2) A beszerzési eljárásban nem lehet áttérni egyik eljárási fajtáról a másikra.
 
-(3) A nyílt eljárásban az ajánlatkérő a felhívásban és a dokumentációban meghatározott feltételekhez, az ajánlattevő pedig az ajánlatához kötve van. A nyílt eljárásban nem lehet tárgyalni.
+(3) A meghívásos, tárgyalásos eljárásra, egyébként – ha e rendelet másként nem rendelkezik – a 17–53. §-okat kell megfelelően alkalmazni.
 
-(4) A tárgyalásos eljárásra egyébként – ha e rendelet másként nem rendelkezik – a nyílt eljárás szabályait kell megfelelően alkalmazni.
+(4) A 9. számú melléklet szerinti szolgáltatások esetében kizárólag a 16. §, 52/A. § (2) bekezdés és az 53. § (7) bekezdés rendelkezéseit kell alkalmazni.
 
-[^9]: A 9. § (1) bekezdése a 87/2005. (V. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+(5) Ha a beszerzés tárgya olyan összetett szolgáltatás, amely a 8. és 9. számú melléklet szerinti valamely szolgáltatást is magában foglalja, az (1) bekezdés szerint kell eljárni, feltéve, hogy a 9. számú melléklet szerinti szolgáltatás értéke meghaladja a 8. számú melléklet szerinti szolgáltatás értékét.
+
+[^14]: A 9. § a 191/2011. (IX. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) interoperabilitás (együtt alkalmazhatóság): a technikai rendszerek vagy egységek azon képessége, hogy más rendszereknek vagy egységeknek szolgáltatást nyújtsanak, illetve azoktól szolgáltatást fogadjanak;
 
-b) ajánlatkérő: azon szervezet, amely önálló költségvetési fejezettel rendelkezik, így a beszerzési eljárás kezdeményezésére és lefolytatására önállóan jogosult, vagy az önálló fejezettel rendelkező szervezettől megbízást kap a beszerzési eljárás lefolytatására;
+b)[^6] ajánlatkérő: azon szervezet, amely önálló költségvetési fejezettel, címmel, alcímmel rendelkezik, így a beszerzési eljárás kezdeményezésére és lefolytatására önállóan jogosult, vagy az önálló költségvetési fejezettel, címmel, alcímmel rendelkező szervezettől megbízást kap a beszerzési eljárás lefolytatására;
 
 c) ajánlattevő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság vagy személyes joga szerint jogképes szervezet, aki, illetőleg amely a beszerzési eljárásban ajánlatot tesz; ajánlattevőnek minősül a külföldi székhelyű vállalkozás magyarországi fióktelepe is;
 
@@ -20,6 +20,13 @@ h) beszerzési eljárás előkészítése: az adott beszerzési eljárás megkez
 
 i) védelmi célú tartalékok: a külön jogszabályban felsorolt állami készletek;
 
-j) tartalékkezelő: külön jogszabályban megnevezett felelős vezető által erre a célra alapított, illetve külön jogszabály alapján átruházott jogkörrel a feladatot végző költségvetési szerv vagy egyéb gazdálkodó szervezet.
+j) tartalékkezelő: külön jogszabályban megnevezett felelős vezető által erre a célra alapított, illetve külön jogszabály alapján átruházott jogkörrel a feladatot végző költségvetési szerv vagy egyéb gazdálkodó szervezet;
+
+k)[^7] katonai felszerelés: speciálisan katonai célokra tervezett vagy alkalmazott, fegyverként, lőszerként vagy hadianyagként történő felhasználásra szánt eszközök;
+
+l)[^8] katonai célú építési beruházás: a HM és az MH vagyonkezelésében, fenntartásában lévő honvédelmi és katonai célú építményen, építményrészen, építményegyüttesen és ingatlanon, ideértve az ezekhez az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeken megvalósuló, Kbt. szerinti építési beruházást.
 
 [^5]: A 3. §-t a 87/2005. (V. 5.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^6]: A 4. § b) pontja a 191/2011. (IX. 20.) Korm. rendelet 30. § (3) bekezdése szerint módosított szöveg.
+[^7]: A 4. § k) pontját a 191/2011. (IX. 20.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. § l) pontját a 191/2011. (IX. 20.) Korm. rendelet 2. §-a iktatta be.

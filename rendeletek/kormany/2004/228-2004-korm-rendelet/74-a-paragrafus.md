@@ -1,13 +1,19 @@
-## Különleges eljárás
+## 71–74. §[^78]
 
-74/A. §[^16] (1) Az ajánlatkérő különleges eljárást alkalmazhat a fegyveres szervezet alkalmazási képességét befolyásoló, külföldi kormányok, minisztériumok, más állami szervek, egyéb külföldi szervezetek (a továbbiakban együttesen: felajánló szervezet) által előnyös feltételek mellett felajánlott haditechnikai eszközök beszerzésére.
+## Egyedi eljárások[^79]
+
+74/A. §[^80] (1)[^81] Az ajánlatkérő különleges eljárást alkalmazhat a fegyveres szervezet alkalmazási képességét befolyásoló, külföldi kormányok, minisztériumok, más állami szervek, egyéb külföldi szervezetek (a továbbiakban együttesen: felajánló szervezet) által előnyös feltételek mellett felajánlott haditechnikai eszközök beszerzésére, valamint védelmi célú szolgáltatásokra, amennyiben a beszerzés értéke nem éri el a 10. § (1) bekezdésében meghatározott értékhatárokat.
 
 (2) A különleges eljárás akkor alkalmazható, ha a felajánlás nemzetközi megállapodásban, jegyzőkönyvben, egyetértési nyilatkozatban vagy más egyéb hivatalos felajánlás formájában rögzítésre kerül, és a Kormány vagy az illetékes miniszter döntött a felajánlás elfogadásáról.
 
-(3) Különleges eljárás esetén nem alkalmazhatók a rendelet nyílt és tárgyalásos eljárásra (17–74. §) vonatkozó rendelkezései, továbbá nem alkalmazhatóak kizárólagos módon az ellentételezésre (75. §) vonatkozó rendelkezések abban az esetben, ha a felajánlás ellentételezést is tartalmaz.
+(3)[^82] Különleges eljárás esetén kizárólag e § rendelkezéseit kell alkalmazni.
 
 (4) A különleges eljárás hirdetmény közzététele nélkül indul. A szerződéses feltételek kialakítására irányuló tárgyalásokat a hivatalos felajánlásban megjelölt, szerződéskötésre, illetve a rendelet hatálya alá tartozó eszközök leszállítására a felajánló szervezet által felhatalmazott szervezettel kell lefolytatni.
 
 (5) A szerződést a tárgyalások lezárását követően, a végső ajánlat tartalma szerint kell megkötni a felajánló szervezet által felhatalmazott szervezettel.
 
-[^16]: A 74/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 5. §-a iktatta be.
+[^78]: A 71. §-t megelőző alcímet és a 71–74. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^79]: A 74/A. §-t megelőző alcímet a 87/2005. (V. 5.) Korm. rendelet 5. §-a iktatta be, szövege a 191/2011. (IX. 20.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^80]: A 74/A. §-t a 87/2005. (V. 5.) Korm. rendelet 5. §-a iktatta be.
+[^81]: A 74/A. § (1) bekezdése a 191/2011. (IX. 20.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^82]: A 74/A. § (3) bekezdése a 191/2011. (IX. 20.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.

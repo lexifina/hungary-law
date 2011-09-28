@@ -1,33 +1,41 @@
-## Hirdetmény módosítása, visszavonása, a dokumentáció vagy a határidő módosítása
+## Ajánlattételi felhívás (kétszakaszos eljárás)
 
-## 1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszáma:
+## 1. Az ajánlatkérő neve, címe, telefon- és telefaxszámai, e-mail címe:
 
-## 2. a) A beszerzés tárgya:
+## 2. Hivatkozás a közzétett részvételi felhívásra:
 
-## b) A választott eljárás:
+## 3. a * A dokumentációt rendelkezésre bocsátó szervezet neve és címe:
 
-## 3. E hirdetmény célja:
+## b) A dokumentáció megkérésének határideje:
 
-## 4. a) A módosítással (visszavonással) érintett hirdetmény vagy dokumentáció típusa:
+## c) A dokumentáció megvásárlásának feltételei:
 
-## b) Az érintett, illetőleg a dokumentációhoz kapcsolódó hirdetmény közzétételének helye, a közzététel napja:
+## 4. A részvételi felhívásban előírtakkal összhangban – ha szükséges – az ajánlathoz csatolandó azon igazolások, nyilatkozatok, dokumentumok meghatározása, amelyek igazolják, hogy az ajánlattevő, illetőleg alvállalkozója az ajánlattételi szakaszban sem tartozik a kizáró okok hatálya alá:
 
-## 5. Az eredeti ajánlattételi vagy részvételi jelentkezési határidő lejártának napja:
+## 5. a Az ajánlattételi határidő, mely azonos az ajánlatok felbontásának időpontjával:
 
-## 6.* a) A módosítással érintett hirdetmény vagy dokumentáció módosuló pontjai és a módosítás szövege:
+## b) Az ajánlat benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
 
-## b) Az új ajánlattételi vagy részvételi jelentkezési határidő:
+## c) Az ajánlattétel nyelve:
 
-## 7.* A visszavonás ténye:
+## 6. a Az ajánlatok felbontásának helye:
 
-## 8.* a) A határidő hosszabbítás indoka:
+## b) Az ajánlatok felbontásán jelenlétre jogosultak:
 
-## b) Az új ajánlattételi vagy részvételi jelentkezési határidő:
+## 7. Az ajánlati kötöttség időtartama:
 
-## 9. E hirdetmény feladásának és kézhezvételének napja:
+## 8. a Az eredményhirdetés időpontja:
 
-## _______
+## b) A szerződéskötés tervezett időpontja:
 
-## * A 6–8. pontok közül csak azt kell kitölteni, melyet e hirdetmény célja szükségessé tesz.
+## c) A hirdetmény feladásának időpontja:
 
-4. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez
+## d) A tárgyalás időpontja, a tárgyalás lefolytatásának menete, az ajánlatkérő által előírt alapvető szabályok:
+
+## 9. Egyéb információk:
+
+## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges, vagy az adott információkat az ajánlatkérő a részvételi felhívásban nem adta meg.
+
+4. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^104]
+
+[^104]: A 4. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.

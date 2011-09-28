@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-7/A. §[^7] (1) A beszerzési eljárás előkészítése, a részvételi, ajánlati és az ajánlattételi felhívás, valamint a dokumentáció elkészítése során vagy az eljárás más szakaszában az ajánlatkérő nevében nem járhat el, az eljárásba nem vonható be a beszerzés tárgyával kapcsolatos gazdasági tevékenységet végző gazdálkodó szervezet (a továbbiakban: érdekelt gazdálkodó szervezet), továbbá az olyan személy vagy szervezet, aki, illetőleg amely
+7/A. §[^12] (1) A beszerzési eljárás előkészítése, a részvételi, ajánlati és az ajánlattételi felhívás, valamint a dokumentáció elkészítése során vagy az eljárás más szakaszában az ajánlatkérő nevében nem járhat el, az eljárásba nem vonható be a beszerzés tárgyával kapcsolatos gazdasági tevékenységet végző gazdálkodó szervezet (a továbbiakban: érdekelt gazdálkodó szervezet), továbbá az olyan személy vagy szervezet, aki, illetőleg amely
 
 a) az érdekelt gazdálkodó szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
 
@@ -8,7 +8,7 @@ b) az érdekelt gazdálkodó szervezet vezető tisztségviselője vagy felügyel
 
 c) az érdekelt gazdálkodó szervezetben tulajdoni részesedéssel rendelkezik;
 
-d)[^8] az a)–c) pont szerinti személynek a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója.
+d)[^13] az a)–c) pont szerinti személynek a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója.
 
 (2) Nem kell alkalmazni az (1) bekezdést, ha az ajánlatkérő nevében eljáró, illetőleg az eljárásba bevonni kívánt érdekelt gazdálkodó szervezet, illetőleg az eljárásba bevonni kívánt személlyel vagy szervezettel az (1) bekezdés a)–d) pontja szerinti jogviszonyban álló, érdekelt gazdálkodó szervezet írásban nyilatkozik, hogy az eljárásban nem vesz részt ajánlattevőként vagy alvállalkozóként.
 
@@ -22,5 +22,5 @@ d)[^8] az a)–c) pont szerinti személynek a Polgári Törvénykönyvről szól
 
 (7) Az ajánlatkérő nevében eljáró, illetőleg az eljárásba bevonni kívánt személy vagy szervezet írásban köteles nyilatkozni arról, hogy vele szemben nem áll fenn az e § szerinti összeférhetetlenség.
 
-[^7]: A 7/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 2. §-a iktatta be.
-[^8]: A 7/A. § (1) bekezdés d) pontja a 8/2011. (II. 11.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^12]: A 7/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 7/A. § (1) bekezdés d) pontja a 8/2011. (II. 11.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.

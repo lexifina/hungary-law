@@ -1,71 +1,71 @@
-## Nyílt eljárás megindítása
+## Részvételi felhívás
 
-## (ajánlati felhívás)
+## 1. Az ajánlatkérő neve, címe, telefon- és telefaxszámai, e-mail címe:
 
-## 1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+## 2. a A választott eljárás:
 
-## 2. a) A választott eljárás:
+## b) a gyorsított eljárás alkalmazásának indokolása:
 
-## b) A szerződés meghatározása, amire ajánlatot kérnek:
+## c) annak feltüntetése, hogy keretmegállapodásról van-e szó:
 
-## 3. a) A beszerzés tárgya és mennyisége:
+## d) elektronikus árverés alkalmazására kerül-e sor:
+
+## e) A szerződés meghatározása, amire ajánlatot kérnek:
+
+## 3. a A beszerzés tárgya és mennyisége:
 
 ## b) A teljesítés helye:
 
 ## c) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
 
-## d)* A részajánlat tételének szempontja:
+## d) * A részajánlat tételének szempontja:
 
-## 4. A teljesítés határideje, vagy a szerződés időtartama:
+## e) Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
 
-## 5.* a) A dokumentációt rendelkezésre bocsátó szervezet neve és címe:
+## 4. Az ajánlatok elbírálásának szempontja:
 
-## b) A dokumentáció megkérésének határideje:
+## 5. A teljesítés határideje, vagy a szerződés időtartama:
 
-## c) A dokumentáció megvásárlásának feltételei:
+## 6. * A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
 
-## 6. a) Az ajánlattételi határidő, mely azonos az ajánlatok felbontásának időpontjával:
+## 7. a A részvételi jelentkezés határideje:
 
-## b) Az ajánlat benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+## b) A részvételi jelentkezés benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
 
-## c) Az ajánlattétel nyelve:
+## c) A részvételi jelentkezés nyelve:
 
-## 7. Az ajánlatok felbontásának helye:
+## d) A részvételi jelentkezések felbontásának helye:
 
-## 8.* a) Az ajánlati biztosíték összegszerűen meghatározott mértéke:
+## e) A részvételi jelentkezésekkel kapcsolatos eredményhirdetés időpontja:
 
-## b) Az ajánlati biztosíték nyújtásának feltételei:
+## 8. * Az (első) tárgyalás időpontja, lefolytatásának menete, az ajánlatkérő által előírt alapvető szabályok:
 
-## 9. A pénzügyi ellenszolgáltatás teljesítésének feltételei, illetve hivatkozás a vonatkozó előírásokra:
+## 9. A jogi, pénzügyi, gazdasági, műszaki és szakmai alkalmasság elbírálásához szükséges információk, a megkövetelt igazolási mód meghatározásával:
 
-## 10.* A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
-
-## 11. A jogi, pénzügyi, gazdasági, műszaki és szakmai alkalmasság elbírálásához szükséges információk, a megkövetelt igazolási mód meghatározásával:
-
-## a) Az ajánlattevő jogi helyzetét tanúsító okiratok:
+## a) A részvételre jelentkező jogi helyzetét tanúsító okiratok:
 
 ## b) A minimális pénzügyi és gazdasági alkalmassági feltételek meghatározása, az azokat bizonyító igazolási módok megjelölésével:
 
 ## c) A minimális műszaki, szakmai alkalmassági feltételek meghatározása, az azokat bizonyító igazolási módok megjelölésével:
 
-## d) Az ajánlattevő kizárásának, illetőleg teljesítésre alkalmatlanná minősítésének szempontjai:
+## d) A részvételre jelentkező kizárásának, illetőleg teljesítésre alkalmatlanná minősítésének szempontjai:
 
-## 12. a) Az ajánlatok elbírálásának szempontja:
+## 10. * Az 57. § (3)–(5) bekezdésében foglaltak:
 
-## b)** A 15. § (3) bekezdésében foglaltak:
+## 11. * Az ajánlatkérő által már kiválasztottak nevei és címei:
 
-## 13. Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
+## 12. A hirdetmény feladásának időpontja:
 
-## 13. a) Az eredményhirdetés időpontja:
+## 13. a * Keretmegállapodás esetében a keretmegállapodás előírt időtartama:
 
-## b) A szerződéskötés időpontja:
+## b) * Keretmegállapodás esetében a keretmegállapodásban részt vevő gazdasági szereplők létszáma:
 
-## 14. Egyéb információk:
+## 14. A szerződés védett foglalkoztatók számára fenntartott:
 
-## _______
+## 15. Egyéb információk:
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
 
-## ** A 12/b) pontot csak akkor kell kitölteni, ha az összességében legelőnyösebb ajánlatot választják.
+3. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^103]
 
-3. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez
+[^103]: A 3. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
