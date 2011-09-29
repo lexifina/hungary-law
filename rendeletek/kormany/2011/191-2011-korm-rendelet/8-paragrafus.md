@@ -1,1 +1,0 @@
-## „(6) A meghívásos eljárásban, a hirdetmény közzétételével induló tárgyalásos eljárás során, valamint a versenypárbeszéd keretében az ajánlatkérő egyidejűleg és írásban hívja fel a kiválasztott részvételre jelentkezőket ajánlatuk megtételére, illetve a tárgyalásban való részvételre, vagy versenypárbeszéd esetében a párbeszédben való részvételre.”
