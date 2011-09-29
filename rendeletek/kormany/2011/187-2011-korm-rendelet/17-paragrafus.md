@@ -1,0 +1,1 @@
+## 16. § E rendelet hatálybalépésekor folyamatban lévő ügyekben – az e rendelet hatálybalépését megelőző napon hatályos – a nemesfémtárgyak és termékek vizsgálatáról, hitelesítéséről és nemesfémtartalmuk tanúsításáról szóló 145/2004. (IV. 29.) Korm. rendeletet kell alkalmazni.

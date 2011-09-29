@@ -1,0 +1,1 @@
+## 1. § A nemesfém tárgyak készítésére, javítására és árverésére irányuló gazdasági tevékenység a nemesfémvizsgáló- és hitelesítő hatóság (a továbbiakban: hatóság) által kiadott engedély alapján kezdhető meg.
