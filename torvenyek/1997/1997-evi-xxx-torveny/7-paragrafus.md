@@ -1,1 +1,1 @@
-7. § A jelzálog-hitelintézet jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Fogyasztónak nyújtott hitel esetében az előtörlesztésre a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezéseit kell alkalmazni.
+7. § A jelzálog-hitelintézet jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Fogyasztónak nyújtott hitel esetében az előtörlesztésre – törvény eltérő rendelkezése hiányában – a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezéseit kell alkalmazni.
