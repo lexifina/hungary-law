@@ -1,3 +1,0 @@
-## 39. §[^47] A nemesfémtárgyak eladásával is foglalkozó vállalkozás köteles az üzlethelyiségében az e rendelet, valamint az R. 7. §-a szerint lefolytatott egyenértékűségi vizsgálat eredményeként a Hivatal által határozatban megállapított és közzétett nemesfémvizsgáló és hitelesítő szervezetek által alkalmazott, egyenértékűnek elismert fémjeleket jól látható helyen kifüggeszteni.
-
-[^47]: A 39. § a 87/2005. (X. 28.) GKM rendelet 10. §-ával megállapított, a 127/2005. (XII. 29.) GKM rendelet 22. § (3) bekezdése, a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

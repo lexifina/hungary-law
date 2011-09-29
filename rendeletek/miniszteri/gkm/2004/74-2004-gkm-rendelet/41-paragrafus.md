@@ -1,1 +1,0 @@
-## 40. § Az R.-ben és az e rendeletben foglalt szabályok nem érintik a nemesfémek és a nemesfémtárgyak bel- és külföldi forgalmának korlátozására vonatkozó külön jogszabályban megfogalmazott rendelkezéseket.

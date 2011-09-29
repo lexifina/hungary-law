@@ -1,1 +1,0 @@
-## 31. § Az R. 10. §-a és e rendelet 30. § szerinti engedély és az ott meghatározott szabályok megtartása kötelező azokra a készítőkre és exportálókra is, akik az R.-nek megfelelő nemesfémtárgyat kívánnak külföldi kivitelre készíteni, illetve szállítani.

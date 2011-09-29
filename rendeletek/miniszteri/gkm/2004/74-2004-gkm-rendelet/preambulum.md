@@ -1,1 +1,0 @@
-A nemesfémtárgyak és termékek vizsgálatáról, hitelesítéséről és nemesfémtartalmuk tanúsításáról szóló 145/2004. (IV. 29.) Korm. rendelet (a továbbiakban: R.) 13. §-ának (1) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – következőket rendelem el:

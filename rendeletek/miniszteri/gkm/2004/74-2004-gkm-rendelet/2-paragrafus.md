@@ -1,5 +1,0 @@
-## 1. § Az aranytárgy anyagául használt ötvözet aranyon felül pótfémként rendszerint csak ezüstöt, rezet, a fehérarany-ötvözet ezen felül horganyt és nikkelt, az ezüsttárgy anyagául használt ötvözet pedig ezüstön felül rendszerint csak rezet, a platinatárgy anyagául használt ötvözet platinán felül rendszerint csak rezet és palládiumot tartalmazhat. Az MSZ EN 1811:1998 szabvány előírásait kielégítő, pótfémként használt nikkelt úgy kell tekinteni, amely az e rendelet követelményeinek megfelel.
-
-2. § (1) A nemesfémtárgy összeszerelése alkalmával a tárgy használhatóságának biztosítására feltétlenül szükséges szerelvény bármilyen – megfelelő szilárdságú – anyagból készülhet, feltéve, hogy különállása könnyen felismerhető, és a nemesfémtárgytól elválasztható.
-
-(2) Könnyen felismerhető és elválasztható szerelvényt (tű, kapocs, csukló, rugó stb.) tilos a nemesfémtárgyhoz úgy kapcsolni, hogy az a nemesfémtárggyal egyező anyagnak látsszék és az ilyen nem nemesfémből készült szerelvényt tilos aranyozni, ezüstözni vagy platinázni.
