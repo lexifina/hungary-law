@@ -1,1 +1,0 @@
-A Kormány a nemesfémtárgyak és termékek vizsgálatával, hitelesítésével és nemesfémtartalmának tanúsításával kapcsolatos szabályozás megteremtése érdekében, továbbá a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásából eredő jogközelítési kötelezettségeinek teljesítése céljából a következőket rendeli el:
