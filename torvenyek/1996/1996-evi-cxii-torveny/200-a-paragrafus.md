@@ -18,6 +18,6 @@ alapján történik.
 
 (3) A pénzügyi intézmény az (1) bekezdésben foglaltak alapján elvégzett átváltással és számítással összefüggésben külön költséget, díjat vagy jutalékot nem számíthat fel.
 
-(4) E § rendelkezéseit megfelelően kell alkalmazni arra az esetre is, ha a törlesztőrészlet fizetése nem havi rendszerességgel történik, valamint ha a fogyasztó a fennálló teljes tartozását (vagy annak egy részét) elő-, illetve végtörleszti.
+(4) Az (1)–(3) bekezdés rendelkezéseit kell alkalmazni arra az esetre is, ha a törlesztőrészlet fizetése nem havi rendszerességgel történik, valamint ha a fogyasztó fennálló tartozásának egy részét vagy – a 200/B. §-ban meghatározott kivétellel – a teljes összegét előtörleszti.
 
 (5) E § rendelkezéseit nem kell alkalmazni arra az esetre, ha a törlesztőrészlet fizetésére devizában kerül sor.
