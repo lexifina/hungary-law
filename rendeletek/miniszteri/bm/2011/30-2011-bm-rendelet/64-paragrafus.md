@@ -1,0 +1,21 @@
+64. § (1) A határforgalom ellenőrzését végző rendőr a határforgalom ellenőrzése során a határátlépésre jelentkező személytől elkéri úti okmányát, továbbá a személy- és a járműforgalom, valamint a határátlépésre jelentkező személy birtokában lévő tárgy határforgalom-ellenőrzéséhez szükséges egyéb okmányokat.
+
+(2) A határforgalom ellenőrzése során a határátlépésre jelentkező személy birtokában lévő jármű és tárgy átvizsgálásakor a határforgalom ellenőrzését végző rendőr szükség esetén felszólítja az üzemeltetőt vagy a fuvarozót, távollétükben a jármű vezetőjét a jármű utas-, motor-, csomag- és rakterének kinyitására, az ott található tárgyak ki- és berakodására, a csomag felnyitására. A vámzárral és egyéb vámbiztosító eszközzel ellátott raktér esetén az átvizsgálás csak az illetékes vámszervvel együttesen hajtható végre, kivéve, ha a lezárt szállítóeszközzel kapcsolatban bűncselekmény elkövetésének gyanúja merül fel, és a szállítóeszköz kinyitása a hivatalos eljárás lefolytatásához szükséges, feltéve, hogy a késedelem veszélye miatt a vámhatóság intézkedését nem lehet megvárni.
+
+(3) A határforgalom ellenőrzését végző rendőr a határátlépésre jelentkező személy és a birtokában lévő jármű ellenőrzését követően adhat engedélyt a határátlépésre.
+
+(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a határátlépésre jelentkező személy ellenőrzéséhez, valamint az úti okmány, illetve a határátlépésre jelentkező személy birtokában lévő jármű vagy tárgy vizsgálatához a határátlépésre jelentkező személy, az úti okmány, illetve a jármű és a tárgy adatait összevetheti az Rtv. 91/K. § (1) bekezdésében meghatározott nyilvántartások adataival, továbbá az ellenőrzéshez informatikai és más műszaki eszközöket vehet igénybe.
+
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv a határforgalom ellenőrzése során – nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa eltérő rendelkezésének hiányában – az államhatár átlépésére jelentkező személy bejegyzésre alkalmas úti okmányába és ezek mellékleteibe bejegyzi
+
+a) a határátlépés tényét, helyét és időpontját,
+
+b) a beutazás megtagadásának tényét,
+
+c) a határátlépéshez használt gépjármű sérülésére utaló jelzést,
+
+d) – több személy részére kiállított úti okmány használata esetén – a határátlépő személy azonosítását lehetővé tevő jelzést, valamint
+
+e) a más határátlépésre jogosító úti okmány meglétére utaló jelzést.
+
+(6) Amennyiben a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úgy úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és a tanácsi rendelet VIII. melléklete szerinti formanyomtatványt.
