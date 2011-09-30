@@ -1,0 +1,5 @@
+## 3. § A rendelet hatálya alá tartozó, a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló miniszteri rendeletben meghatározott monitorozó programok, vagy a felszín alatti vizek vizsgálatának egyes szabályairól szóló miniszteri rendeletben a víztest monitoring keretében a laboratóriumokban, terepen és online alkalmazott valamennyi elemzési módszert az MSZ EN ISO/IEC–17025 szabványnak vagy azzal egyenértékű más megoldásnak megfelelően hitelesíteni és dokumentálni kell.
+
+4. § (1) A 3. §-ban meghatározott elemzési módszerek esetében biztosítani kell a minimális teljesítménykritériumok alkalmazását, amely szerint a mérési bizonytalanság becsült értéke a környezetminőségi követelmény 50%-a vagy ennél kisebb (k=2), a mennyiségi meghatározás alsó méréshatára pedig a környezetminőségi követelmény 30%-a vagy annál kisebb.
+
+(2) Egy adott paraméterre vonatkozóan, környezetminőségi követelmény hiányában, illetve ha az (1) bekezdésben meghatározott minimális teljesítménykritériumokat teljesítő elemzési módszer nem áll rendelkezésre, a megfigyelést az elérhető legjobb technikának megfelelő módszerrel kell elvégezni.
