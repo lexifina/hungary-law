@@ -8,7 +8,7 @@ c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló
 
 állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
 
-d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervezetének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
+d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
 
 e) az Alapból az Alap működésére fordítható kiadások mértékét
 
