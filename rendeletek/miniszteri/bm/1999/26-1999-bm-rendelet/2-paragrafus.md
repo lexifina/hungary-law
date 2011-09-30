@@ -1,69 +1,61 @@
-## 1. §[^1] A Rendőrség szervei, valamint a Rendvédelmi Szervek Védelmi Szolgálata (a továbbiakban: RSZVSZ) törvényben meghatározott feladataik teljesítése érdekében e rendelet szerint kérhetik a bírói engedélyhez kötött, a titkos információgyűjtésre és a titkos adatszerzésre szolgáló eszközök és módszerek (a továbbiakban együtt: különleges eszközök) alkalmazásának engedélyezését.
+2. §[^2] (1)[^3] A különleges eszközök alkalmazása iránti kérelmet (a továbbiakban: kérelem)
 
-2. §[^2] (1) A különleges eszközök alkalmazása iránti kérelmet (a továbbiakban: kérelem):
+1. az országos rendőrfőkapitány,
 
-a) az országos rendőrfőkapitány;
+2. az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Rendészeti Főigazgatóság főigazgatója,
 
-b) az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Bűnügyi Főigazgatóság főigazgatója;
+3. az ORFK Bűnügyi Főigazgatóság főigazgatója,
 
-c) az ORFK Bűnügyi Főigazgatóság Bűnügyi Főosztály (a továbbiakban: ORFK Bűnügyi Főosztály) főosztályvezetője;
+4. az ORFK Bűnügyi Főigazgatóság Bűnügyi Főosztály (a továbbiakban: ORFK Bűnügyi Főosztály) főosztályvezetője,
 
-d)[^3] a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) igazgatója;
+5. a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) igazgatója,
 
-e)[^4] az NNI igazgatóhelyettesei;
+6. az NNI igazgatóhelyettesei,
 
-f)[^5] az NNI Szervezett Bűnözés Elleni Főosztály főosztályvezetője;
+7. az NNI Szervezett Bűnözés Elleni Főosztály főosztályvezetője,
 
-g)[^6] az NNI Gazdaságvédelmi Főosztály főosztályvezetője;
+8. az NNI Gazdaságvédelmi Főosztály főosztályvezetője,
 
-h)[^7] az NNI Bűnügyi Főosztály főosztályvezetője;
+9. az NNI Bűnügyi Főosztály főosztályvezetője,
 
-i)[^8] az NNI Területi Főosztály vezetője;
+10. az NNI Területi Főosztály vezetője,
 
-j)–k)[^9]
+11. az NNI Tanúvédelmi Szolgálat vezetője,
 
-l)[^10] az NNI Tanúvédelmi Szolgálat vezetője;
+12. a megyei (fővárosi) rendőrfőkapitány,
 
-m)[^11] a megyei (fővárosi) rendőrfőkapitány;
+13. a megyei rendőr-főkapitányság bűnügyi igazgatója, illetve a budapesti rendőrfőkapitány bűnügyi helyettese,
 
-n) a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese;
+14. a Repülőtéri Rendőr Igazgatóság (a továbbiakban: RRI) igazgatója, az RRI igazgatójának bűnügyi helyettese,
 
-o) az RSZVSZ vezetője;
+15. az NVSZ főigazgatója,
 
-p) az RSZVSZ vezetőjének általános helyettese;
+16. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
 
-q) az RSZVSZ vezetőjének műveleti helyettese;
+17. az NVSZ Polgári Titkosszolgálatok Védelmi Szolgálata Igazgatóságának igazgatója,
 
-r)[^12] a Repülőtéri Rendőr Igazgatóság (a továbbiakban: RRI) parancsnoka;
+18. az NVSZ Közigazgatási Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
 
-s)–u)[^13]
+19. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgatóhelyettese,
 
-ü)[^14] az ORFK rendészeti főigazgatója;
+20. a TEK főigazgatója,
 
-x)–v)[^15]
+21. a TEK főigazgató-helyettese,
 
-## terjeszthetik elő.
+22. a TEK Felderítési Igazgatóság igazgatója, valamint
 
-(2)[^16] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
+23. a TEK Felderítési Igazgatóság főosztályvezetői
 
-(3)[^17] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az ORFK jogosult.
+terjeszthetik elő.
 
-(4) A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés a)–e), j), m), o)–q), u)–y) pontjaiban felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
+(2)[^4] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
 
-[^1]: Az 1. § a 38/2004. (VI. 29.) BM rendelet 17. §-ával megállapított, a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
+(3)[^5] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az RRI igazgatója jogosult.
+
+(4)[^6] A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés 1–6., 12., valamint 15–21. pontjában felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
+
 [^2]: A 2. § a 38/2004. (VI. 29.) BM rendelet 17. §-ával megállapított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § (1) bekezdésének d) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdésének e) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdésének f) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^6]: A 2. § (1) bekezdésének g) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdésének h) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdésének i) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdésének j)–k) pontját a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja hatályon kívül helyezte.
-[^10]: A 2. § (1) bekezdésének l) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdésének m) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontja szerint módosított szöveg.
-[^12]: A 2. § (1) bekezdésének r) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontjával megállapított szöveg.
-[^13]: A 2. § (1) bekezdésének s)–u) pontját a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdésének ü) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 17. pontjával megállapított szöveg.
-[^15]: A 2. § (1) bekezdésének x)–v) pontját a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja hatályon kívül helyezte.
-[^16]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
-[^17]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított, a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés b) pontja szerint módosított szöveg.
