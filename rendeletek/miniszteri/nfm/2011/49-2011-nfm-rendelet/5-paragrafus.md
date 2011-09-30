@@ -1,0 +1,3 @@
+## 4. § Az R. 19. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) E rendeletnek a XIX. Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok 2011. évi felhasználásának rendjéről szóló 38/2011. (VII. 20.) NFM rendelet módosításáról szóló 49/2011. (IX. 29.) NFM rendelettel (a továbbiakban: módosító rendelet) megállapított 6. §-át, valamint 7. §-át a Kormány által a módosító rendelet hatálybalépését megelőzően meghozott döntés következtében a módosító rendelet hatálybalépését megelőzően megszüntetésre került, illetve azt követően megszüntetésre kerülő támogatási szerződések esetében is alkalmazni kell.”

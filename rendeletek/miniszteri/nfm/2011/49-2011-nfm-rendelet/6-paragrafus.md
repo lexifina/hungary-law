@@ -1,0 +1,3 @@
+## 5. § Az R. 6. §-ában a „programok, projektek előre nem látható kiadásainak finanszírozására” szövegrész helyébe a „programokkal, projektekkel kapcsolatos támogatási eljárások előre nem látható kiadásainak – ennek keretében a visszaköveteléssel érintett felhasznált támogatás (ideértve a visszakövetelt összeg után fizetendő kamatot is), továbbá a visszaköveteléssel érintett és fel nem használt támogatás után fizetendő kamat, valamint a felhasznált önerő – finanszírozására” szöveg lép.
+
+6. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
