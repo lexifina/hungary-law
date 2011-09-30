@@ -8,6 +8,6 @@
 
 ## a Bátorság Érdemjelet valamennyi öltözeten a bal felső zsebtakaró geometriai középpontjában kell felerősíteni.
 
-3. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^13]
+3. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^16]
 
-[^13]: A 3. számú melléklet utolsó mondatát a 21/1995. (XII. 22.) BM rendelet 4. §-a iktatta a szövegbe.
+[^16]: A 3. számú melléklet utolsó mondatát a 21/1995. (XII. 22.) BM rendelet 4. §-a iktatta a szövegbe.
