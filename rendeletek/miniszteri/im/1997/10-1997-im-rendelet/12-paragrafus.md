@@ -6,8 +6,8 @@
 
 (2) Egy évben ugyanazon személynek több alkalommal is adományozható jutalom.
 
-(3)[^7] A pénzjutalom összege az illetményalap 100%-ánál, a tárgyjutalom értéke az illetményalap 50%-ánál kevesebb nem lehet.
+(3)[^8] A pénzjutalom összege az illetményalap 100%-ánál, a tárgyjutalom értéke az illetményalap 50%-ánál kevesebb nem lehet.
 
 (4) Pénzjutalmat és tárgyjutalmat a 3. §-ban felsorolt vezetők, a rendelkezésükre bocsátott, e célra felhasználható keret erejéig adományozhatnak.
 
-[^7]: A 12. § (3) bekezdése a 28/2002. (XII. 20.) IM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 12. § (3) bekezdése a 28/2002. (XII. 20.) IM rendelet 4. §-ával megállapított szöveg.

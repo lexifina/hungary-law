@@ -1,4 +1,4 @@
-## 5. §[^3] Az állományilletékes parancsnok a szervezetszerű helyettesét nem részesítheti jutalomban. Az elismerésre vonatkozó javaslatot a 4. §-ban meghatározottak szerint az elöljáró parancsnokhoz kell előterjeszteni.
+## 5. §[^4] Az állományilletékes parancsnok a szervezetszerű helyettesét nem részesítheti jutalomban. Az elismerésre vonatkozó javaslatot a 4. §-ban meghatározottak szerint az elöljáró parancsnokhoz kell előterjeszteni.
 
 ## 6. § Elismerések átadására a következő alkalmakkor kerülhet sor:
 
@@ -12,4 +12,4 @@ d) az 50. születésnapon,
 
 e) meghatározott feladat eredményes teljesítésekor.
 
-[^3]: Az 5. § a 28/2002. (XII. 20.) IM rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 5. § a 28/2002. (XII. 20.) IM rendelet 2. §-ával megállapított szöveg.

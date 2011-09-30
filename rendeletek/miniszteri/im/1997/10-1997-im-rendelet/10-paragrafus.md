@@ -1,4 +1,4 @@
-## 9. §[^6]
+## 9. §[^7]
 
 ## III. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) A várakozási idő csökkentését legfeljebb két egymást követő alkalommal lehet elrendelni.
 
-[^6]: A 9. §-t a 28/2002. (XII. 20.) IM rendelet 6. §-a hatályon kívül helyezte.
+[^7]: A 9. §-t a 28/2002. (XII. 20.) IM rendelet 6. §-a hatályon kívül helyezte.

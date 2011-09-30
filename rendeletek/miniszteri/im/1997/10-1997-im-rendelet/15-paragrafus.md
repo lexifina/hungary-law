@@ -8,6 +8,6 @@ b) 30 éves tényleges és eredményes büntetés-végrehajtási hivatásos szol
 
 c) 50. születésnapja, valamint nyugállományba vonulása alkalmából.(2) A nemesfémből készült emléktárgy adományozására az állami és nemzeti ünnepeken, a büntetés-végrehajtási szervezet napján, a születésnapon, illetve a nyugállományba vonulás napján kerül sor.
 
-(3)[^9] Az emléktárgyat az igazságügyi és rendészeti miniszter adományozza.
+(3)[^10] Az emléktárgyat az igazságügyi és rendészeti miniszter adományozza.
 
-[^9]: A 15. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.
+[^10]: A 15. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.

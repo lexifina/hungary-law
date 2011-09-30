@@ -6,8 +6,8 @@
 
 (3) A díjjal az illetményalap négyszeres összegének megfelelő jutalom jár.
 
-(4)[^10] A díjat az igazságügyi és rendészeti miniszter adományozza.
+(4)[^11] A díjat az igazságügyi és rendészeti miniszter adományozza.
 
 (5) A díj adományozását az Igazságügyi Közlönyben közzé kell tenni.
 
-[^10]: A 16. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.
+[^11]: A 16. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.

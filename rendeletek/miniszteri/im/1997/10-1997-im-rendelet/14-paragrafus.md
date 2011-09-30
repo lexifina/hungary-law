@@ -12,6 +12,6 @@ c) az 50. születésnapja vagy a nyugállományba vonulása alkalmából.
 
 (3) A dísztőr vagy díszkard ugyanazon személynek csak egyszer adományozható.
 
-(4)[^8] Dísztőrt, díszkardot az igazságügyi és rendészeti miniszter adományoz.
+(4)[^9] Dísztőrt, díszkardot az igazságügyi és rendészeti miniszter adományoz.
 
-[^8]: A 14. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.
+[^9]: A 14. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 52. pontja szerint módosított szöveg.
