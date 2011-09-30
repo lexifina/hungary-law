@@ -1,1 +1,0 @@
-A Rendőrségről szóló 1994. évi XXXIV. törvény 101. §-a (1) bekezdésének e) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat-és hatásköréről szóló 164/2006 (VII. 28.) Korm. rendelet 3. §-a (5) bekezdésének e) pontja szerinti feladatkörömben eljárva a következőket rendelem el:
