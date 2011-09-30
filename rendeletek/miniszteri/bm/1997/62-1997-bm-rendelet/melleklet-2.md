@@ -4,6 +4,6 @@
 
 ## 2. Katasztrófavédelmi Oktatási Központ
 
-2. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^26]
+2. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^28]
 
-[^26]: A 2. számú mellékletet a 10/2009. (IV. 17.) IRM rendelet 8. § (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^28]: A 2. számú mellékletet a 10/2009. (IV. 17.) IRM rendelet 8. § (5) bekezdésének a) pontja hatályon kívül helyezte.

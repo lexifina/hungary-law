@@ -18,7 +18,7 @@ g) főosztályvezető-helyettes,
 
 h) főszerkesztő.
 
-i)[^16] főszerkesztő-helyettes.
+i)[^17] főszerkesztő-helyettes.
 
 (2) A vezetői beosztások:
 
@@ -32,4 +32,4 @@ d) osztályvezető-helyettes,
 
 (3) A magasabb vezetői, illetve vezetői megbízás feltétele szakirányú egyetemi vagy főiskolai végzettség és legalább ötéves szakmai gyakorlat.
 
-[^16]: A 4. § (1) bekezdésének i) pontját a 15/1999. (VII. 13.) BM rendelet 2. §-a iktatta a szövegbe.
+[^17]: A 4. § (1) bekezdésének i) pontját a 15/1999. (VII. 13.) BM rendelet 2. §-a iktatta a szövegbe.

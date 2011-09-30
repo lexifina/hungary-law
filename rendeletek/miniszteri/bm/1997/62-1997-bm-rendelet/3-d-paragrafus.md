@@ -1,4 +1,4 @@
-3/D. §[^15] (1) Az OKF-nél foglalkoztatott közalkalmazottak esetében a gyakornoki idővel kapcsolatos szakmai követelmények két részből állnak: az általános követelményekből és a munkakörhöz kapcsolódó követelményekből. Az általános követelmények teljesítését minden gyakornok részére elő kell írni. A munkakörhöz kapcsolódó szakmai kötelezettségek megállapításának alapja a kinevezésben meghatározott munkakör, illetőleg az ahhoz kapcsolódó munkaköri leírás.
+3/D. §[^16] (1) Az OKF-nél foglalkoztatott közalkalmazottak esetében a gyakornoki idővel kapcsolatos szakmai követelmények két részből állnak: az általános követelményekből és a munkakörhöz kapcsolódó követelményekből. Az általános követelmények teljesítését minden gyakornok részére elő kell írni. A munkakörhöz kapcsolódó szakmai kötelezettségek megállapításának alapja a kinevezésben meghatározott munkakör, illetőleg az ahhoz kapcsolódó munkaköri leírás.
 
 (2) Az általános követelményeknek biztosítaniuk kell, hogy a gyakornok megismerje
 
@@ -36,4 +36,4 @@ c) a gyakornok által elsajátított gyakorlati, elméleti ismereteket.
 
 (11) A gyakornoki idővel kapcsolatos szakmai kötelezettségek, a gyakornoki idő alatti számonkérés feltételeinek, és a gyakornok szakmai vezetője (segítője) feladatainak részletes szabályait, továbbá a gyakornoki követelmények teljesítésével és a teljesítmény mérésével összefüggő részletes eljárási rendet, valamint a gyakornoki minősítés különös szabályait a munkáltató által megállapított gyakornoki szabályzat tartalmazza.
 
-[^15]: A 3/D. §-t a 3/2008. (I. 11.) ÖTM rendelet 3. §-a iktatta be.
+[^16]: A 3/D. §-t a 3/2008. (I. 11.) ÖTM rendelet 3. §-a iktatta be.

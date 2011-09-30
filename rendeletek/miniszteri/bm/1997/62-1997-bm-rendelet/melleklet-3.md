@@ -14,6 +14,6 @@
 
 ## 7. JOGAR Továbbképző Központ és HOTEL igazgatója
 
-3. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^28]
+3. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^30]
 
-[^28]: A 3. számú melléklet a 15/1999. (VII. 13.) BM rendelet 5. §-ának (1) és (2) bekezdésével, illetve mellékletével megállapított szöveg.
+[^30]: A 3. számú melléklet a 15/1999. (VII. 13.) BM rendelet 5. §-ának (1) és (2) bekezdésével, illetve mellékletével megállapított szöveg.

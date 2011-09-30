@@ -1,6 +1,6 @@
 ## A)
 
-## A közalkalmazottak által betölthető egyes beosztások megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke[^29]
+## A közalkalmazottak által betölthető egyes beosztások megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke[^31]
 
 | Munkakörök, beosztások | Fizetési osztályok | Vezetői pótlék |
 
@@ -496,7 +496,7 @@
 
 ## – Rendőrtiszti Főiskola;
 
-## b)[^30] közgazdasági, pénzügyi, számviteli vezetői beosztásokban, munkakörökben:
+## b)[^32] közgazdasági, pénzügyi, számviteli vezetői beosztásokban, munkakörökben:
 
 ## – közgazdaságtudományi egyetem,
 
@@ -518,8 +518,8 @@
 
 ## [A Kjt. 79/C. §-a (1) bekezdéséhez]
 
-4. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^31]
+4. számú melléklet a 62/1997. (XI. 7.) BM rendelethez[^33]
 
-[^29]: A 3. számú melléklet A) részének címe a 13/2004. (V. 11.) BM rendelet 5. §-ával megállapított szöveg.
-[^30]: A 3. számú melléklet B) rész 4. pontjának b) alpontja az 1/2008. (I. 8.) IRM rendelet 9. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^31]: A 4. számú mellékletet a 4/2001. (II. 6.) BM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 10/2009. (IV. 17.) IRM rendelet 8. § (5) bekezdésének a) pontja. Ez utóbbi módosító rendelet 8. § (3)–(4) bekezdése alapján a munkakör betöltéséhez szükséges képesítési követelmények alól 1992. december 31. napja előtt adott mentesítés mindaddig érvényes, ameddig a közalkalmazottat változatlan munkakörben foglalkoztatják; a 2009. április 25. napja előtt, a képesítési követelmények alól adott felmentés és mentesítés érvényességét a hatályon kívül helyezés nem érinti.
+[^31]: A 3. számú melléklet A) részének címe a 13/2004. (V. 11.) BM rendelet 5. §-ával megállapított szöveg.
+[^32]: A 3. számú melléklet B) rész 4. pontjának b) alpontja az 1/2008. (I. 8.) IRM rendelet 9. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^33]: A 4. számú mellékletet a 4/2001. (II. 6.) BM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 10/2009. (IV. 17.) IRM rendelet 8. § (5) bekezdésének a) pontja. Ez utóbbi módosító rendelet 8. § (3)–(4) bekezdése alapján a munkakör betöltéséhez szükséges képesítési követelmények alól 1992. december 31. napja előtt adott mentesítés mindaddig érvényes, ameddig a közalkalmazottat változatlan munkakörben foglalkoztatják; a 2009. április 25. napja előtt, a képesítési követelmények alól adott felmentés és mentesítés érvényességét a hatályon kívül helyezés nem érinti.

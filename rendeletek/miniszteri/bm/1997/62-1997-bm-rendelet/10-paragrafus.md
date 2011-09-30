@@ -4,6 +4,6 @@
 
 (2) Az 1992. december 31. napja előtt adott mentesítés mindaddig érvényes, ameddig a közalkalmazottat változatlan munkakörben foglalkoztatják.
 
-(3)[^21] A 4. számú mellékletben szereplő képesítési követelménynek nem megfelelő közalkalmazottak az előírások alól 2005. december 31-ig mentesülnek.
+(3)[^23] A 4. számú mellékletben szereplő képesítési követelménynek nem megfelelő közalkalmazottak az előírások alól 2005. december 31-ig mentesülnek.
 
-[^21]: A 10. § (3) bekezdését a 4/2001. (II. 6.) BM rendelet 4. §-a iktatta a szövegbe.
+[^23]: A 10. § (3) bekezdését a 4/2001. (II. 6.) BM rendelet 4. §-a iktatta a szövegbe.

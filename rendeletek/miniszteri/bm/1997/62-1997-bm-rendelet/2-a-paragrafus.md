@@ -1,3 +1,3 @@
-## [A Kjt. 20/B. § (2) bekezdéséhez][^8]
+## [A Kjt. 20/B. § (2) bekezdéséhez][^9]
 
-[^8]: A 2/A. §-t megelőző jogszabályi hivatkozást az 1/2008. (I. 8.) IRM rendelet 6. §-a iktatta be.
+[^9]: A 2/A. §-t megelőző jogszabályi hivatkozást az 1/2008. (I. 8.) IRM rendelet 6. §-a iktatta be.
