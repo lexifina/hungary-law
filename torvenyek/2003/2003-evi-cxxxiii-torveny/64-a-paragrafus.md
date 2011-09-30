@@ -1,1 +1,1 @@
-64/A. § A társasházakról szóló 2003. évi CXXXIII. törvény módosításáról szóló 2010. évi CLXXVII. törvény (a továbbiakban: Módtv.) által megállapított 51/A. § és 51/B. § rendelkezéseit azon közgyűlés elé terjesztett, a 2010. évre vonatkozó, a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített elszámolás és a 2011. évi költségvetési javaslat tekintetében is alkalmazni kell, amely közgyűlésre a meghívó vagy az írásbeli szavazásra történő felhívás a napirendek megjelölésével a Módtv. hatálybalépésének napjáig még nem került megküldésre.
+64/A. §
