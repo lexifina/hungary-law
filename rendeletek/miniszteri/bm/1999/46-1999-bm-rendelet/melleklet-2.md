@@ -1,10 +1,10 @@
 ## Ruházati és Felszerelési Előírás
 
-## 1. Fejezet[^11]
+## 1. Fejezet[^12]
 
 ## 2. Fejezet
 
-## I.[^12]
+## I.[^13]
 
 ## Egyenruhás férfi alapellátási norma
 
@@ -14,9 +14,9 @@
 
 ## -----------------
 
-## 1.[^13] kék nyári szolgálati sapka 1 db/fő
+## 1.[^14] kék nyári szolgálati sapka 1 db/fő
 
-## 2. Kék[^14] téli szolgálati sapka 1 db/fő
+## 2. Kék[^15] téli szolgálati sapka 1 db/fő
 
 ## 3. Kék téli kabát (dzseki) 1 db/fő
 
@@ -90,7 +90,7 @@
 
 ## – Kék emelt derekú nadrág és kék vállpántos szolgálati kabát 1 db/fő
 
-## II.[^15]
+## II.[^16]
 
 ## Egyenruhás női alapellátási norma
 
@@ -176,7 +176,7 @@
 
 ## – Kék emelt derekú nadrág és kék vállpántos szolgálati kabát 1 db/fő
 
-## III.[^16]
+## III.[^17]
 
 ## Kerékbilincselő alapellátási norma
 
@@ -254,7 +254,7 @@
 
 ## A névkitűző viselőjének ,,BODONI ANTIQUA'' betűtípusú, nagy nyomtatott betűvel írott, teljes nevét tartalmazó, 80 X 14 mm méretű lekerekített sarkú, ezüstszínű fémlap. A betűk fekete színűek.
 
-2. számú melléklet a 46/1999. (XII. 8.) BM rendelethez[^17]
+2. számú melléklet a 46/1999. (XII. 8.) BM rendelethez[^18]
 
 ## A közterület-felügyelői jelvény
 
@@ -306,10 +306,10 @@ e) rajzolatként tartalmazza a közterület-felügyelet szimbólumát, valamint 
 
 2. A szolgálati igazolvány ID1 formátumú kártya okmány, amelynek 1. a)–c) pontokban felsorolt adatai központilag, lézergravírozásos technológiával kerülnek felvitelre.
 
-[^11]: Az 1. számú melléklet 1. Fejezetét a 4/2010. (II. 23.) IRM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^12]: Az 1. számú melléklet 2. Fejezet I. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^13]: Az 1. számú melléklet 2. fejezete I. Egyenruhás férfi alapellátási norma alcímének 1. pontja a 67/2004. (XII. 23.) BM rendelet 2. §-a szerint módosított szöveg.
-[^14]: Az 1. számú mellékletben a középkék szövegrész helyébe a kék szövegrész lép a 67/2004. (XII. 23.) BM rendelet 2. §-a alapján.
-[^15]: Az 1. számú melléklet 2. Fejezet II. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^16]: Az 1. számú melléklet 2. Fejezet III. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 2. számú melléklet a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^12]: Az 1. számú melléklet 1. Fejezetét a 4/2010. (II. 23.) IRM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^13]: Az 1. számú melléklet 2. Fejezet I. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^14]: Az 1. számú melléklet 2. fejezete I. Egyenruhás férfi alapellátási norma alcímének 1. pontja a 67/2004. (XII. 23.) BM rendelet 2. §-a szerint módosított szöveg.
+[^15]: Az 1. számú mellékletben a középkék szövegrész helyébe a kék szövegrész lép a 67/2004. (XII. 23.) BM rendelet 2. §-a alapján.
+[^16]: Az 1. számú melléklet 2. Fejezet II. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 1. számú melléklet 2. Fejezet III. pontja a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 2. számú melléklet a 4/2010. (II. 23.) IRM rendelet 14. § (1) bekezdése szerint módosított szöveg.

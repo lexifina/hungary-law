@@ -1,4 +1,4 @@
-4. számú melléklet a 46/1999. (XII. 8.) BM rendelethez[^19]
+4. számú melléklet a 46/1999. (XII. 8.) BM rendelethez[^20]
 
 A közterület-felügyelői igazolvány és jelvény kiadásához szükséges formanyomtatvány tartalmi elemei
 
@@ -28,4 +28,4 @@ A közterület-felügyelői igazolvány és jelvény kiadásához szükséges fo
 
 5. Az adatok hitelességét igazoló közterületfelügyelet-vezető (jegyző, mint a közterület-felügyelő munkáltatója) aláírása
 
-[^19]: A 4. számú melléklet a 4/2010. (II. 23.) IRM rendelet 13. §-ával megállapított szöveg.
+[^20]: A 4. számú melléklet a 4/2010. (II. 23.) IRM rendelet 13. §-ával megállapított szöveg.
