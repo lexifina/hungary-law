@@ -1,0 +1,3 @@
+## 1. § A felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációjának szabályairól szóló 22/2004. (II. 16.) Korm. rendelet (a továbbiakban: R1.) 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az intézmény- és programakkreditáció megadásáról szóló jogerős határozat jogosítottjának helyébe átalakulás, átalakítás vagy más jogutódlással történő megszűnés esetén az ennek tartalmát meghatározó szerződésben, okiratban meghatározott jogutódja léphet, ha az intézmény- és programakkreditáció megadásának alapjául szolgáló jogszabályi feltételek a jogutód vonatkozásában is maradéktalanul teljesülnek.”
