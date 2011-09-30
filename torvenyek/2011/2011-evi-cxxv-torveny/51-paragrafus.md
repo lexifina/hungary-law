@@ -25,11 +25,3 @@ b) 11. § (2) bekezdésében és 18. § (1) bekezdés d) pontjában a „kezelő
 lép.
 
 (10) Nem lép hatályba az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 83. § (30) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

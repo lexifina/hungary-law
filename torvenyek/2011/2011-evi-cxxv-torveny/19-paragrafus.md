@@ -1,6 +1,4 @@
-19. § (1) Az Szjtv. 2. §-ának (1) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban valamint az 1. § (3) bekezdésének b) és d) pontjában meghatározott tevékenység, továbbá az 1. § (3) bekezdésének e) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (a továbbiakban együtt: távszerencsejáték).”
+19. § (1)
 
 (2) Az Szjtv. 2. §-a az alábbi új (2a) bekezdéssel egészül ki:
 

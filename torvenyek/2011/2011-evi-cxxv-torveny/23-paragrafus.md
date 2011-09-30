@@ -10,9 +10,7 @@
 
 „a) a szerencsejáték-szervező az állami adóhatóság ismételt felhívása, illetve hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,”
 
-(3) Az Szjtv. 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az állami adóhatóság a játékkaszinó, az elektronikus kaszinó és a kártyaterem működtetőjével, valamint a távszerencsejátékok közül a kártyajátékok szervezőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.”
+(3)
 
 (4) Az Szjtv. 13. §-a az alábbi új (7) bekezdéssel egészül ki:
 
