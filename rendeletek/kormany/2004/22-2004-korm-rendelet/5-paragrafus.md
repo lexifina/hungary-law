@@ -1,6 +1,6 @@
 5. § (1)[^7] A FAT-nak nem lehet tagja olyan személy, aki tagja a Nemzeti Szakképzési és Felnőttképzési Tanácsnak, illetőleg akivel szemben az Fktv.-ben meghatározott összeférhetetlenségi ok áll fenn.
 
-(2)[^8] A FAT tagjainak névsorát a Szociális és Munkaügyi Minisztérium (a továbbiakban: minisztérium) honlapján vagy hivatalos lapjában közzé kell tenni.
+(2)[^8] A FAT tagjainak névsorát a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján vagy hivatalos lapjában közzé kell tenni.
 
 [^7]: Az 5. § (1) bekezdése a 189/2009. (IX. 10.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
-[^8]: Az 5. § (2) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének a) pontja, valamint a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
+[^8]: Az 5. § (2) bekezdése a 294/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének a) pontja, valamint a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének c) pontja, a 196/2011. (IX. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

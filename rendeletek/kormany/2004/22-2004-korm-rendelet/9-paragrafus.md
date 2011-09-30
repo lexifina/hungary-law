@@ -14,9 +14,9 @@ b) a bizonyítási eljárás lefolytatásának eredményeit a kérelmező intéz
 
 (5)[^13]
 
-(6)[^14] Az intézmény- és programakkreditáció megadásáról szóló jogerős határozat jogosítottjának helyébe jogutódja léphet, ha az intézmény- és programakkreditáció megadásának alapjául szolgáló jogszabályi feltételek a jogutód vonatkozásában is maradéktalanul teljesülnek.
+(6)[^14] Az intézmény- és programakkreditáció megadásáról szóló jogerős határozat jogosítottjának helyébe átalakulás, átalakítás vagy más jogutódlással történő megszűnés esetén az ennek tartalmát meghatározó szerződésben, okiratban meghatározott jogutódja léphet, ha az intézmény- és programakkreditáció megadásának alapjául szolgáló jogszabályi feltételek a jogutód vonatkozásában is maradéktalanul teljesülnek.
 
 [^11]: A 9. § (1) bekezdésének felvezető szövege a 373/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdése, a 189/2009. (IX. 10.) Korm. rendelet 16. § (3) bekezdésének d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
 [^12]: A 9. § (3) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 16. § – a 214/2009. (IX. 30.) Korm. rendelet 4. § (3) bekezdésével beiktatott – (4) bekezdése hatályon kívül helyezte. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
 [^13]: A 9. § (5) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 16. § – a 214/2009. (IX. 30.) Korm. rendelet 4. § (3) bekezdésével beiktatott – (4) bekezdése hatályon kívül helyezte. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően benyújtásra kerülő intézmény- és programakkreditációs kérelmek esetében kell alkalmazni.
-[^14]: A 9. § (6) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 4. §-a iktatta be, szövege a 100/2010. (IV. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 9. § (6) bekezdését a 189/2009. (IX. 10.) Korm. rendelet 4. §-a iktatta be, szövege a 196/2011. (IX. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
