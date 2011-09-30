@@ -1,0 +1,1 @@
+## 10. § A Hpt. 69/C. § (3) bekezdésében és a Bszt. 4. mellékletének 9. pontjában meghatározott korlátnak való megfelelést az intézmény a részvény és egyéb eszközök átadása mellett az azokra vonatkozó lehívási jog biztosításával is teljesítheti.
