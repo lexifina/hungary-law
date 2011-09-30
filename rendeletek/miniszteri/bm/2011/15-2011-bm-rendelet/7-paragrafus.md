@@ -2,7 +2,7 @@
 
 a) nem fejlesztési célú uniós támogatáshoz igényli a szükséges saját forrás kiegészítését,
 
-b) adósságrendezési eljárás alatt áll,
+b)[^5] adósságrendezési eljárás alatt áll, kivéve a 2. § (2) bekezdés a) pont ac) alpontja szerinti esetet,
 
 c) a támogatás alapját képező okiratban – kivéve a 2. § (5) bekezdése szerinti esetet – nem a pályázó a kedvezményezett,
 
@@ -15,3 +15,5 @@ f) a pályázatban foglalt adatok nem egyeznek meg a támogatás alapját képez
 g) a hiánypótlás, valamint a miniszter kérésére megtett kiegészítések, módosítások ellenére az igénylésben szereplő adatok, valamint a becsatolt dokumentumok hiányosak, hibásak,
 
 h) hiánypótlási kötelezettségének határidőre nem tett eleget.
+
+[^5]: A 7. § b) pontja a 33/2011. (IX. 29.) BM rendelet 5. §-ával megállapított szöveg.

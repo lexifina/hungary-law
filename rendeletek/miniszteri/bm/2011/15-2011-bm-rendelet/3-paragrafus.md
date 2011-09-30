@@ -8,7 +8,7 @@ c) a 2. § (2) bekezdés d) pontja szerinti pályázat esetében a 40%-ot.
 
 (2) Ha a pályázat szerinti fejlesztés több támogatható célhoz is kapcsolódik, akkor az EU Önerő Alap támogatás mértékét a pályázó által célonként kidolgozott részletes költségvetés és az (1) bekezdés szerinti támogatási intenzitás alapján kell meghatározni. A célonként kidolgozott részletes költségvetés hiányában az EU Önerő Alap támogatás a legalacsonyabb támogatási intenzitású cél alapján kerül meghatározásra.
 
-(3) A jóváhagyott EU Önerő Alap támogatás összege pályázatonként a 900 millió forintot nem haladhatja meg. Ettől eltérni kizárólag a 2. § (2) bekezdés a) pont ac) alpontja és b) pont bc) alpontja esetében lehet, ha a fejlesztés több település részvételével valósul meg. Ekkor a 900 millió forint településenként legfeljebb 70 millió forinttal megemelhető, de a támogatás nem haladhatja meg az (1) bekezdés a)–b) pontja és az (5) bekezdés szerinti mértéket.
+(3)[^1] A jóváhagyott EU Önerő Alap támogatás összege pályázatonként a 900 millió forintot nem haladhatja meg. Ettől eltérni a 2. § (2) bekezdés a) pont ac) alpontja és b) pont bc) alpontja szerinti támogatás esetén lehet.
 
 (4) Ha a pályázó
 
@@ -18,12 +18,16 @@ b) a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési 
 
 akkor az EU Önerő Alap támogatás mértéke elérheti a pályázó saját forrásának 75%-át.
 
-(5) Ha az ivóvízminőség-javító beruházásokban részt vevő pályázó:
+(5)[^2] Ha az ivóvízminőség-javító beruházásokban részt vevő pályázó
 
-a) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendeletben [a továbbiakban: 240/2006. (XI. 30.) Korm. rendelet] meghatározott társadalmi-gazdasági és infrastrukturális szempontból elmaradott vagy az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott település, vagy a kedvezményezett térségek besorolásáról szóló kormányrendelet 2. mellékletében szereplő „hátrányos helyzetű” kistérségek területén lévő település, akkor az EU Önerő Alap támogatás mértéke elérheti a pályázó saját forrásának 70%-át.
+a) 2011. június 30-ig erre vonatkozóan megvalósítási szakaszra uniós támogatás iránt pályázatot nyújtott be, és a közbeszerzési eljárás folyamatban van vagy befejeződött, akkor az EU Önerő Alap támogatás mértéke a pályázó saját forrásának a 100%-a.
 
-b) A 240/2006. (XI. 30.) Korm. rendeletben meghatározott társadalmi-gazdasági és infrastrukturális szempontból elmaradott és az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott település, vagy a kedvezményezett térségekről szóló kormányrendelet 2. mellékletében szereplő „leghátrányosabb helyzetű” kistérségek területén lévő település, akkor az EU Önerő Alap támogatás mértéke elérheti a pályázó saját forrásának 80%-át.
+b) az a) pontban meghatározott feltételeknek nem felel meg, az EU Önerő Alap támogatás mértéke akkor érheti el a saját forrás 100%-át, ha a fejlesztés megvalósításához szükséges munkaerőt legalább részben közfoglalkoztatási jogviszony keretében veszi igénybe, vagy a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá tartozó építési beruházásai során a Kbt. szerint a résszempontok körében értékelhető, a munkanélküli vagy tartósan munkanélküli rétegek foglalkoztatásának a közbeszerzés során megajánlott mértékét mint értékelési szempontot alkalmazza.
 
-(6) Ha a pályázó a pályázatban csatolt nyilatkozatában vállalja, hogy a fejlesztés megvalósításához szükséges munkaerőt részben vagy egészben a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet szerinti közfoglalkoztatás keretében veszi igénybe, illetve a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) hatálya alá tartozó építési beruházásai során a Kbt. 57. § (4) bekezdés f) pontja szerinti értékelési szempontot alkalmazza, akkor az EU Önerő Alap támogatás maximális mértéke 5 százalékponttal megemelhető.
+(6)[^3] Ha a pályázó a pályázatban csatolt nyilatkozatában vállalja, hogy a fejlesztés megvalósításához szükséges munkaerőt legalább részben közfoglalkoztatási jogviszony keretében veszi igénybe, vagy a Kbt. hatálya alá tartozó építési beruházásai során a Kbt. szerint a részszempontok körében értékelhető, a munkanélküli vagy tartósan munkanélküli rétegek foglalkoztatásának a közbeszerzés során megajánlott mértékét mint értékelési szempontot alkalmazza, akkor az EU Önerő Alap támogatás maximális mértéke 5 százalékponttal megemelkedik, kivéve, ha a támogatás mértéke eléri a pályázó saját forrásának 100%-át.
 
 (7) Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése hatálya alá tartozó korábban megítélt támogatások esetében a támogatás az e rendelet alapján nyújtható önerő támogatással együttesen nem haladhatja meg az Európai Közösséget létrehozó Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló (általános csoportmentességi rendelet) 800/2008/EK bizottsági rendeletben, az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendeletben, illetve az Európai Bizottság határozatában meghatározott legmagasabb támogatási intenzitást vagy legmagasabb támogatási összeget.
+
+[^1]: A 3. § (3) bekezdése a 33/2011. (IX. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (5) bekezdése a 33/2011. (IX. 29.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (6) bekezdése a 33/2011. (IX. 29.) BM rendelet 3. §-ával megállapított szöveg.
