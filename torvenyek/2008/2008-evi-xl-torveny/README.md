@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2011-06-11 | 2011. évi LIX. törvény | 2008-40-00-00.14 |
 | 2011-07-01 | 2011. évi XXIX. törvény | 2008-40-00-00.15 |
 | 2011-07-05 | 2011. évi LXXXVII. törvény | 2008-40-00-00.16 |
+| 2011-10-01 | 2011. évi XXIX. törvény | 2008-40-00-00.17 |

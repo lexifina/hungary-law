@@ -1,4 +1,4 @@
-104. § (1) A csatlakozási díjat a 108. § (1)–(2) bekezdésében meghatározott elvekkel összhangban kell megállapítani.
+104. § (1)
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 

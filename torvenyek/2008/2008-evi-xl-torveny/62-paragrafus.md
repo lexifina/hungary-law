@@ -18,4 +18,6 @@ d) a földgáz határon keresztül történő beszállítása útján
 
 saját fogyasztására földgázt vásárolni.
 
-(3) Ha a felhasználó, külön jogszabályban meghatározott módon földgázkereskedőt – beleértve a termelőt is – kíván váltani, annak lebonyolítását a rendszerüzemeltetők és az érintett földgázkereskedők és termelők térítésmentesen végzik.
+(3) A felhasználási helyet a csatlakozási szerződéssel megszerzett vásárolt kapacitás mindaddig megilleti, amíg a felhasználási hely tulajdonosa arról írásban le nem mond. A vásárolt kapacitás feletti rendelkezés joga a felhasználási hely átruházásával átszáll az új tulajdonosra.
+
+(4) A nyilvántartott kapacitás igénybevételének felhasználói jogát annak tulajdonosa – ha azt nem veszi igénybe – írásba foglalt szerződéssel a felhasználási helyen felhasználónak minősülő személynek átadhatja. Ha a nyilvántartott kapacitás átadását szabályozó jogviszony megszűnik, a kapacitásjog a tulajdonosára visszaszáll.

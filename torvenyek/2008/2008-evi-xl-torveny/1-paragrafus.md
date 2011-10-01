@@ -18,8 +18,8 @@ e) a felhasználók érdekeinek hatékony védelme,
 
 f) a földgáz versenypiacra új szereplőként belépők – beleértve a hazai termelésű földgázforrásokat is – hatékony piaci megjelenésének elősegítése,
 
-g) a vezetékes gázellátásra vonatkozó európai közösségi jog átültetése és végrehajtása a magyar földgázpiacnak az Európai Közösség egységesülő földgázpiacaiba történő integrációjának elősegítése,
+g) a vezetékes gázellátásra vonatkozó európai közösségi jog átültetése és végrehajtása a magyar földgázpiacnak az Európai Unió egységesülő földgázpiacaiba történő integrációjának elősegítése,
 
-h) új hazai és nemzetközi szállító, elosztó és tárolókapacitások létesítésének, fejlesztésének elősegítése, az együttműködő földgázrendszer hatékony és gazdaságos üzemeltetésének biztosítása,
+h) új hazai és nemzetközi szállító, elosztó és földgáztároló kapacitások létesítésének, fejlesztésének elősegítése, az együttműködő földgázrendszer hatékony és gazdaságos üzemeltetésének biztosítása, a hazai földgázforrások hasznosításának elősegítése.
 
 i) a földgázrendszer kapacitásainak kiegyensúlyozott és átlátható működtetési, felosztási, szolgáltatási, valamint fenntarthatósági szabályainak meghatározása.

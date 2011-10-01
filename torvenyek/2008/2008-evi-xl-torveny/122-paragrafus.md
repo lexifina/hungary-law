@@ -6,6 +6,6 @@
 
 (2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) valamint szétválás (különválás, kiválás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Gt. 70. §-ának (1) bekezdésében foglaltak nem alkalmazhatók.
 
-(3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal előzetes jóváhagyását az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyese valamint a telephelyi szolgáltató esetében.
+(3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal hozzájárulását az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyese valamint a telephelyi szolgáltató esetében.
 
-(4) A rendszerüzemeltetői, a rendszerirányítói, és a szervezett földgázpiaci engedélyesek esetében a Gt. 55. §-ának (1) bekezdésében meghatározott uralmi szerződések nem köthetők, az ilyen szerződések semmisek. E bekezdésben meghatározott engedélyesekre a Gt. 64. §-a nem alkalmazható.
+(4) A rendszerüzemeltetői, az egyetemes szolgáltatói, és a szervezett földgázpiaci engedélyesek esetében a Gt. 55. §-ának (1) bekezdésében meghatározott uralmi szerződések nem köthetők, az ilyen szerződések semmisek. E bekezdésben meghatározott engedélyesekre a Gt. 64. §-a nem alkalmazható.

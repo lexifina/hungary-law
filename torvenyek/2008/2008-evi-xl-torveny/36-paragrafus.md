@@ -1,6 +1,6 @@
 36. § (1) Az egyetemes szolgáltatási szerződésnek legalább a következőket kell tartalmaznia:
 
-a) a szerződő felek megnevezése, természetes személy esetén a nevének, a születési helyének és idejének, az anyja nevének, valamint a lakcímének, gazdálkodó szervezet esetén a székhelyének és a cégjegyzékszámának feltüntetésével,
+a) a szerződő felek megnevezése, természetes személy esetén a nevének, a születési helyének és idejének, az anyja nevének, a lakcímének, gazdálkodó szervezet esetén a székhelyének és a cégjegyzékszámának, adószámának feltüntetésével,
 
 b) a szolgáltatás igénybevételének kezdő időpontja,
 
@@ -8,7 +8,7 @@ c) a nyújtott szolgáltatások megnevezése, azoknak a jogszabályban foglalt r
 
 d) a szolgáltatásnak a szerződés megkötésekor érvényes ára,
 
-e) a szolgáltatás díját, valamint a választható fizetési és elszámolási módokat tartalmazó üzletszabályzat, továbbá – ha az üzletszabályzat azt nem tartalmazza – a díjak, fizetési és elszámolási módok közötti váltás lehetőségére, módjára, feltételeire, az igénybe vehető kedvezményekre és az igénybevétel feltételeire vonatkozó aktuális tájékoztatás elérhetősége,
+e) a számlázási és fizetési mód, a leolvasási, az elszámolási és a számlázási időszakok,
 
 f) a szerződés időtartama,
 
@@ -18,7 +18,21 @@ h) a szerződésszegés esetei és jogkövetkezményei, különös tekintettel a
 
 i) a lakossági fogyasztó, illetve egyéb felhasználók panaszai benyújtásának és ügyintézésének lehetőségéről, módjáról és határidejéről való tájékoztatás, valamint a fogyasztóvédelemről szóló törvényben meghatározott, a fogyasztói jogvita egyezségen alapuló rendezésének megkísérlésére, továbbá ennek eredménytelensége esetén az ügy eldöntésére irányuló eljárások kezdeményezésének módja és feltételei, továbbá
 
-j) a külön díj ellenében nyújtott kiegészítő, illetőleg karbantartási szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató ilyet biztosít.
+j) a külön díj ellenében nyújtott kiegészítő, illetőleg karbantartási szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató ilyet biztosít,
+
+k) annak a földgázelosztónak a megnevezése, székhelye, amelynek rendszeréhez a felhasználó közvetve vagy közvetlenül csatlakozik,
+
+l) arra vonatkozó megbízás, hogy a földgázkereskedő a rendszerüzemeltetőkkel a szükséges, szállítási, tárolási, valamint – a felhasználó erre vonatkozó szándéka esetén – az elosztóhálózat-használati szerződéseket megkösse,
+
+m) az egyetemes szolgáltató ügyfélszolgálati irodájának és az adott területre működési engedéllyel rendelkező földgázelosztó ügyfélszolgálati irodájának elérhetősége,
+
+n) a felhasználási hely és a csatlakozási pont megjelölése,
+
+o) a szolgáltatott földgáz minőségi jellemzői,
+
+p) a vásárolt, a nyilvántartott és a lekötött kapacitás mértéke,
+
+q) a szerződött szolgáltatásért fizetendő díj meghatározásának módja.
 
 (2) Az egyetemes szolgáltató köteles az egyetemes szolgáltatási szerződés üzletszabályzatban meghatározott, általa egyoldalúan változtatható feltételeinek várható módosítása esetén, azok hatálybalépése előtt legalább 30 nappal
 

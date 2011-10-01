@@ -1,3 +1,5 @@
-17. § (1) A földgázelosztó a külön jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyeket, valamint azok jellemző és előírt adatait. Ezen adatokat a felhasználási helyen vételező felhasználó vagy az őt ellátó földgázkereskedő kérésére köteles átadni.
+17. § (1) A földgázelosztó a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, a fogyasztási és kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó vagy az általa megnevezett földgázkereskedő kérésére köteles átadni.
 
-(2) A felhasználó személyében történő változás esetén az elosztó köteles a gázmérő állapotáról jegyzőkönyvet készíteni, és ennek másolatát a felhasználót ellátó kereskedő részére megküldeni.
+(2) A felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére a földgázelosztó köteles a felhasználó mérési adatait átadni.
+
+(3) A felhasználó személyében történő változás esetén a földgázelosztó köteles jegyzőkönyvben rögzíteni a fogyasztásmérő berendezés állását és a mérőberendezés, illetve a zárópecsétek (plomba) szemrevételezéssel megállapított állapotát, és ennek egy példányát az új felhasználó, valamint a felhasználót ellátó földgázkereskedő részére megküldeni.

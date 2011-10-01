@@ -42,7 +42,7 @@ l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között
 
 m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 
-n) eljár a földgázkereskedővel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat;
+n) dönt az engedélyesekkel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat;
 
 o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
 
@@ -54,7 +54,7 @@ oc) a földgázkereskedő gazdasági stabilitását, pénzügyi biztosítékaina
 
 od) az engedélyesek szolgáltatási színvonalát, üzemszünet mutatóit;
 
-p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás átalakulását, szétválását, más földgázipari vállalkozással való egyesülését, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan részesedésszerzést, amelynek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást a földgázszállító, a rendszerirányító, illetve azok irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;
+p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás átalakulását, szétválását, más földgázipari vállalkozással való egyesülését, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást szállítási rendszerüzemeltető vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;
 
 q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 

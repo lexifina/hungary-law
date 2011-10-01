@@ -1,4 +1,4 @@
-93. § (1) A földgázszállító rendszeregyensúlyozási feladatai a következők:
+93. § (1) A szállítási rendszerüzemeltető rendszeregyensúlyozási feladatai a következők:
 
 a) a rendszeregyensúly megtervezése,
 

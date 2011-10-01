@@ -1,4 +1,4 @@
-29. § (1) A felhasználók részére földgázt olyan jogi személyiséggel rendelkező gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott és rendelkezik a külön jogszabályban meghatározott pénzügyi biztosítékkal.
+29. § (1)
 
 (2) Földgázkereskedő egyetemes szolgáltatásra jogosult felhasználókat akkor láthat el, ha az erre vonatkozó részletes feltételrendszert az üzletszabályzata tartalmazza.
 
@@ -24,4 +24,4 @@ d) külön jogszabályban meghatározott pihenőnapon.
 
 (5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló rendeletben meghatározott egyéb költségeket is megfizeti, a földgázkereskedő a tudomására jutást követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
 
-(6) Az engedélyes a (3) és az (5) bekezdés szerinti kezdeményezésnek köteles haladéktalanul eleget tenni.
+(6) A földgázelosztó az (5) bekezdés szerinti kezdeményezésnek köteles az azt követő munkanapon eleget tenni.

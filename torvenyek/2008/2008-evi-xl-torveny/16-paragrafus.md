@@ -1,35 +1,41 @@
-16. § (1) A földgázelosztó a felhasználó bekapcsolását, a földgázelosztási szolgáltatás megkezdését, vagy a földgázelosztási szolgáltatás folytatását megtagadhatja, ha:
+16. § (1) A földgázelosztó a felhasználó bekapcsolását, a földgázelosztási szolgáltatás megkezdését megtagadhatja, vagy a földgázelosztási szolgáltatás folytatását felfüggesztheti, ha:
 
 a) a felhasználó a csatlakozóvezetéket, a felhasználói berendezést az életre, a testi épségre, az egészségre vagy a vagyonbiztonságra veszélyes módon használja,
 
 b) a felhasználó a nyomás alatti szállító- és elosztóvezetéket vagy a csatlakozóvezetéket megbontja, továbbá, amennyiben a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
 
-c) a felhasználó a csatlakozási vagy kapacitáslekötési szerződésben megállapított lényeges kötelezettségének a földgázelosztó vagy a földgázkereskedő írásbeli felszólítása ellenére nem tett eleget, különösen, ha
+c) a felhasználó a csatlakozási szerződésben megállapított lényeges kötelezettségének a földgázelosztó írásbeli felszólítása ellenére nem tett eleget, különösen, ha
 
-ca) a nyomásszabályozó vagy a gázmérő működését befolyásolja,
+ca) a nyomásszabályozó vagy a fogyasztásmérő berendezés működését befolyásolja,
 
-cb) a nyomásszabályozó vagy a gázmérő ellenőrzését, illetve a mérő leolvasását a földgázelosztó vagy megbízottja részére nem teszi lehetővé,
+cb) a nyomásszabályozó vagy a fogyasztásmérő berendezés ellenőrzését, illetve a fogyasztásmérő berendezés leolvasását a földgázelosztó vagy megbízottja részére nem teszi lehetővé,
 
 cc) a szerződésben meghatározott felhasználási helyen kívüli területre vezet át földgázt,
 
-cd) a gázmérő nélküli fogyasztás – üzletszabályzatban meghatározott – feltételeit megszegte,
+cd) a fogyasztáskorlátozási –, illetve megszakítható kapacitásra szerződött felhasználó esetén a megszakítási – rendelkezéseknek nem tett eleget,
 
-ce) a fogyasztáskorlátozási – illetve megszakítható felhasználó esetén a megszakítási – rendelkezéseknek nem tett eleget,
+d) a felhasználót ellátó földgázkereskedő a földgázelosztónál – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott esetekben, a földgázelosztó üzletszabályzatban meghatározott módon – kezdeményezi a földgázelosztás felfüggesztését,
 
-d) a felhasználót ellátó földgázkereskedő a földgázelosztónál – a külön jogszabályban meghatározott esetekben, az üzletszabályzatban meghatározott módon – kezdeményezi a földgázelosztás szüneteltetését,
+e) a felhasználó a fogyasztásmérő berendezést szándékosan vagy gondatlanul megrongálja, a fogyasztásmérő berendezésen, vagy annak ki- és belépő pontján, a kerülővezeték elzáróján, vagy a csatlakozóvezeték egyéb pontjain elhelyezett zárópecsétet (plombát) eltávolítja, illetve ezek sérülését, hiányát a földgázelosztónak vagy a földgázkereskedőnek nem jelenti be,
 
-e) a felhasználó a gázmérőt szándékosan vagy gondatlanul megrongálja, a gázmérőn, a gázmérő ki- és belépő pontján, a kerülővezeték elzáróján, vagy a csatlakozóvezeték egyéb pontjain elhelyezett zárópecsétet (plombát) eltávolítja, illetőleg ezek sérülését, hiányát a földgázelosztónak vagy a kereskedőnek nem jelenti be,
+f) a felhasználó nem rendelkezik érvényes kapacitáslekötési szerződéssel, valamint érvényes földgáz-kereskedelmi szerződéssel.
 
-f) ha a rendszerhasználó nem rendelkezik érvényes szerződéssel.
+(2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
-(2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig tagadható meg, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást haladéktalanul, de legkésőbb 2 munkanapon belül biztosítani kell.
+(3) A földgázelosztó a felhasználási helyre való bejutás érdekében az illetékes jegyzőhöz fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
 
-(3) A földgázelosztó a felhasználási helyre való bejutás érdekében az illetékes jegyzőhöz fordulhat, amennyiben a felhasználó megtagadja:
+a) a fogyasztásmérő berendezés leolvasását, ellenőrzését, cseréjét,
 
-a) a gázmérő leolvasását, ellenőrzését,
-
-b) szerződésszegés vagy szabálytalan vételezés esetén a földgázelosztási szolgáltatásból történő kikapcsolást,
+b) szerződésszegés vagy szerződés nélküli vételezés esetén a földgázelosztási szolgáltatásból történő felfüggesztést,
 
 c) a felhasználói berendezés ellenőrzését.
 
-(4)
+(4) A jegyző határozatában
+
+a) a fogyasztásmérő berendezés leolvasásának, ellenőrzésének, cseréjének,
+
+b) a földgázelosztási szolgáltatásból történő felfüggesztéshez szükséges intézkedéseknek, vagy
+
+c) a felhasználói berendezés ellenőrzésének
+
+a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat meg.

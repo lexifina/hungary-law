@@ -2,6 +2,4 @@
 
 a) a külön jogszabályban meghatározott típusú termékcsomagok és árszabások alapján biztosított földgázellátás,
 
-b) az e törvényben és a külön jogszabályban meghatározott szolgáltatási színvonalú ügyfélszolgálat,
-
-c) a védendő fogyasztóknak e törvény és külön jogszabály alapján nyújtott szolgáltatások.
+b)–c)

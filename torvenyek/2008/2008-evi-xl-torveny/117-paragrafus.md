@@ -1,4 +1,4 @@
-117. § (1) A földgázszállító a rendszerirányítói engedélyen kívül e törvényben szabályozott más működési engedéllyel nem rendelkezhet.
+117. § (1) A szállítási rendszerüzemeltető e törvényben szabályozott más működési engedéllyel nem rendelkezhet. A szállítási rendszerüzemeltető részvénytársasági formában működő gazdasági társaság lehet.
 
 (2) A földgázkereskedő az egyetemes szolgáltatási engedélyen kívül más működési engedéllyel nem rendelkezhet.
 

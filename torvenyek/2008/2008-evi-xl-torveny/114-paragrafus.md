@@ -4,9 +4,9 @@
 
 114. § (1) Az e törvény szerinti engedélyköteles tevékenységek a következők:
 
-a) a rendszerirányítás,
+a)
 
-b) a földgázszállítás,
+b) a szállítási rendszerüzemeltetés,
 
 c) a földgázelosztás,
 
@@ -22,7 +22,7 @@ h) a vezetékes PB-gáz szolgáltatás,
 
 i) az egyablakos kapacitásértékesítés.
 
-(2) Az (1) bekezdés b)–i) pontja szerinti tevékenységek határozatlan időre szóló engedély alapján végezhetők, míg az (1) bekezdés a) pontja szerinti tevékenység 10 évre szóló, meghosszabbítható engedély alapján végezhető.
+(2) Az (1) bekezdés szerinti tevékenységek határozatlan időre szóló engedély alapján végezhetők.
 
 (3) Az e törvény szerinti engedélyköteles tevékenység csak működési engedély alapján végezhető.
 
@@ -30,7 +30,7 @@ i) az egyablakos kapacitásértékesítés.
 
 (5) Az engedély kérelmezőjének rendelkeznie kell a külön jogszabályban meghatározott pénzügyi és gazdasági feltételekkel.
 
-(6)
+(6) A szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek. A szállítási rendszerüzemeltetési engedély kiadásának feltétele, hogy a Hivatal a 128. § szerinti eljárásban megállapítsa, hogy a kérelmező megfelel a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek.
 
 (7) A Hivatal a működési engedély kiadását megtagadja, ha
 

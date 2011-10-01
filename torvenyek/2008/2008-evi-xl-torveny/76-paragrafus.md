@@ -2,4 +2,4 @@
 
 (2) A hozzáférés feltételei nem sérthetik az egyenlő bánásmód követelményét, nem adhatnak alapot visszaélésre, nem tartalmazhatnak indokolatlan korlátozásokat, továbbá nem veszélyeztethetik az ellátás biztonságát és minőségét.
 
-(3) A rendszerüzemeltetők az üzemeltetésükben álló szállító- és elosztóvezetékek, valamint a tárolók csatlakozási pontján rendelkezésre álló szabad kapacitásról egymással egyeztetnek, és az egyeztetést követően a kapacitásadatokat közzéteszik.
+(3) A rendszerüzemeltetők kötelesek az üzemeltetésükben álló szállító- és elosztóvezetékek, valamint a földgáztárolók csatlakozási pontján rendelkezésre álló szabad kapacitásról az Üzemi és Kereskedelmi Szabályzatban meghatározott gázforgalmazási feltételek figyelembevételével egymással egyeztetni, és ezt követően az egyeztetett kapacitásadatokat közzétenni.

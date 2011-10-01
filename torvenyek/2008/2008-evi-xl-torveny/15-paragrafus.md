@@ -1,1 +1,1 @@
-15. § A földgázelosztó az együttműködő földgázrendszer fejlesztésének és üzemeltetésének biztosítása érdekében köteles a csatlakozó rendszerüzemeltetőkkel, a telephelyi szolgáltatókkal, a rendszerirányítóval, és a rendszerhasználókkal folyamatosan együttműködni.
+15. § A földgázelosztó az együttműködő földgázrendszer fejlesztésének és üzemeltetésének biztosítása érdekében köteles a csatlakozó rendszerüzemeltetőkkel, a telephelyi szolgáltatókkal,, és a rendszerhasználókkal folyamatosan együttműködni.

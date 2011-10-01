@@ -1,1 +1,1 @@
-101. § Mind a rendszerhasználó, mind a földgázelosztó jogosult a fogyasztásmérő berendezés mérésügyi felülvizsgálatát kezdeményezni. A felülvizsgálatra vonatkozó részletes szabályokat külön jogszabály határozza meg.
+101. § A fogyasztásmérő berendezés mérésügyi felülvizsgálatát a felhasználó, a felhasználót ellátó földgázkereskedő és a földgázelosztó jogosult kezdeményezni.

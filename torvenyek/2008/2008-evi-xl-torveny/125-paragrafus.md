@@ -12,7 +12,7 @@
 
 (3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
 
-(4) Az (1) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4) Az (1)–(1b) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
 
 a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
 
@@ -30,7 +30,7 @@ g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy kül�
 
 (5) A (4) bekezdés a)–c) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 
-(6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
+(6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok megőrzése, kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
 
 a) a jogszabályokban, valamint az Üzemi és Kereskedelmi Szabályzatban foglalt előírásoknak,
 
@@ -40,19 +40,19 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 
 (7) A rendszerüzemeltetők és a telephelyi szolgáltatók nem élhetnek vissza azokkal az üzleti érdeket érintő információkkal, amelyekhez a rendszerhasználóktól az együttműködő földgázrendszerhez való hozzáférés megvalósítása vagy tárgyalása során jutottak, és kötelesek továbbá mindazon üzleti titoknak nem minősülő információkat az összes érdekelt rendelkezésére bocsátani, amelyeket bármelyik érdekelt részére eljuttattak.
 
-(8) A rendszerhasználók kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
+(8) A rendszerhasználók és a rendszerüzemeltetők kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
 
-(9) A földgázszállító köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak és a földgáztermelőnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
+(9) A szállítási rendszerüzemeltető köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak és a földgáztermelőnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
 
-(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, rendszerhasználók, valamint a rendszerirányító és a Hivatal, továbbá a miniszter számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
+(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, rendszerhasználók, valamint a Hivatal, továbbá a miniszter számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
 
 (11) Az adatszolgáltatásra vonatkozó részletszabályokat külön jogszabály, és az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(12) A rendszerirányító tevékenységének ellátásához az engedélyesek kötelesek a feladata ellátásához szükséges operatív jellegű adatokat folyamatosan szolgáltatni. Az adatszolgáltatási kötelezettséget az Üzemi és Kereskedelmi Szabályzat tartalmazza.
+(12) A szállítási rendszerirányító tevékenységének ellátásához az engedélyesek kötelesek a feladata ellátásához szükséges operatív jellegű adatokat folyamatosan szolgáltatni. Az adatszolgáltatási kötelezettséget az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
 (13) A rendszerirányító biztosítja az üzleti titoknak minősülő információk bizalmas kezelését.
 
-(14) A szállítási, a tárolási és az elosztói rendszerüzemeltető az információ közreadására vonatkozó jogi kötelezettség sérelme nélkül köteles megőrizni azoknak a gazdasági szempontból érzékeny információknak a titkosságát, amelyekhez üzleti tevékenysége során hozzájut, továbbá megakadályozni, hogy a saját tevékenységével kapcsolatos – üzleti szempontból előnyös – információ megkülönböztető módon kerüljön nyilvánosságra.
+(14) A szállítási rendszerüzemeltető, a földgáztárolói engedélyes és a földgázelosztó az információ közreadására vonatkozó jogi kötelezettség sérelme nélkül köteles megőrizni azoknak a gazdasági szempontból érzékeny információknak a titkosságát, amelyekhez üzleti tevékenysége során hozzájut, továbbá megakadályozni, hogy a saját tevékenységével kapcsolatos – üzleti szempontból előnyös – információ megkülönböztető módon kerüljön nyilvánosságra.
 
 (15) Az engedélyesek külön jogszabályban meghatározott informatikai rendszert működtetnek az együttműködés biztosítása érdekében.
 

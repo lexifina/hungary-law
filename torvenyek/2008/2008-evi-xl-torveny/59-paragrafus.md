@@ -4,7 +4,7 @@
 
 (3) A Hivatal az 55. § (1) bekezdés b) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára az 58. § (1) bekezdés c) pontja szerinti kötelezettség céljának elérése érdekében megtilthatja
 
-a) az engedélyesnek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) szerinti kapcsolt vállalkozása versenyhelyzetének javítása érdekében a kapcsolt vállalkozás versenytársaival szemben indokolatlanul magas árak alkalmazását,
+a) az engedélyesnek az Sztv. szerinti kapcsolt vállalkozása versenyhelyzetének javítása érdekében a kapcsolt vállalkozás versenytársaival szemben indokolatlanul magas árak alkalmazását,
 
 b) a versenytársak piacra lépését vagy a versenyt akadályozó, nem a versenytársakéhoz viszonyított nagyobb hatékonyságon alapuló, indokolatlanul alacsony árak alkalmazását,
 

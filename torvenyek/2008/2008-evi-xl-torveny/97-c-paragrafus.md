@@ -8,11 +8,11 @@ c) az engedélyesek jogait és kötelezettségeit,
 
 d) a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát.
 
-(2) A földgázellátási válsághelyzet II. fokozata esetén a felszabadított földgáz biztonsági készletekkel a rendszerirányító rendelkezik.
+(2) A földgázellátási válsághelyzet II. fokozata esetén a felszabadított földgáz biztonsági készletekkel a szállítási rendszerirányító rendelkezik.
 
-(3) A földgázellátási válsághelyzet II. fokozata esetén a földgázkereskedők, valamint a felhasználók – az Üzemi és Kereskedelmi Szabályzatban meghatározott eljárás- és elszámolási rend szerint – kötelesek a rendelkezésükre álló földgázmennyiséget a rendszerirányító részére felajánlani.
+(3) A földgázellátási válsághelyzet II. fokozata esetén a földgázkereskedők, valamint a felhasználók – az Üzemi és Kereskedelmi Szabályzatban meghatározott eljárás- és elszámolási rend szerint – kötelesek a rendelkezésükre álló földgázmennyiséget a szállítási rendszerirányító részére felajánlani.
 
-(4) A rendszerirányító a (2)–(3) bekezdés szerint rendelkezésére álló földgázmennyiségekkel történő gazdálkodás során köteles
+(4) A szállítási rendszerirányító a (2)–(3) bekezdés szerint rendelkezésére álló földgázmennyiségekkel történő gazdálkodás során köteles
 
 a) a napi rendszeregyensúlyozás szempontjai mellett a földgázellátás közép- és hosszú távú fenntarthatóságának szempontjait is figyelembe venni,
 
@@ -24,4 +24,4 @@ a) új földgázforrás-beszerzési lehetőségeikről és a potenciális földg
 
 b) az általuk ellátott felhasználóknak a válsághelyzet megszűnését követő 12 hónapban várható ellátásbiztonságáról, különös tekintettel a (3) bekezdés szerinti felajánlási kötelezettségre.
 
-(6) A Hivatal az (5) bekezdés szerinti tájékoztatás keretében kapott adatokról, információkról a (4) bekezdés szerinti feladat ellátása érdekében tájékoztatja a rendszerirányítót, valamint ezzel egyidejűleg a minisztert.
+(6) A Hivatal az (5) bekezdés szerinti tájékoztatás keretében kapott adatokról, információkról a (4) bekezdés szerinti feladat ellátása érdekében tájékoztatja a szállítási rendszerirányítót, valamint ezzel egyidejűleg a minisztert.

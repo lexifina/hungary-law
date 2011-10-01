@@ -12,7 +12,7 @@ d) a célvezeték létesítésére, üzemeltetésére,
 
 e) az infrastruktúrafejlesztésre,
 
-f) az egyablakos kiszolgálású nemzetközi szállítóvezeték üzemeltetésére,
+f) az egyablakos kiszolgálású nemzetközi szállítóvezeték üzemeltetésére, az ilyen vezetéken történő kapacitásértékesítésre,
 
 g) a vezetékes PB-gáz szolgáltatásra,
 
@@ -22,4 +22,4 @@ i) az e törvény szerinti engedélyköteles tevékenységeket végzőkre, az e 
 
 (2) A földgáztermelőre és a földgázrendszer tulajdonosára vonatkozó rendelkezéseket a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) rendelkezéseivel összhangban kell alkalmazni.
 
-(3) Az együttműködő földgázrendszer részét nem képező elszigetelt rendszert alkotó, termelővezetékről ellátott elosztói rendszerre az együttműködő földgázrendszerre vonatkozó szabályokat megfelelően alkalmazni kell.
+(3) Az együttműködő földgázrendszerrel fizikai kapcsolattal nem rendelkező elszigetelt szigetüzemű rendszert alkotó, termelővezetékről ellátott földgázelosztói rendszerre az együttműködő földgázrendszerre vonatkozó szabályokat – beleértve a rendszerüzemeltetés napi gázforgalmazással kapcsolatos feladatait is – megfelelően alkalmazni kell.

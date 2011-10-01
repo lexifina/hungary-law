@@ -12,4 +12,4 @@
 
 (7) A fogyasztói főelzáró karbantartása és javítása az elosztó kötelessége, saját költségén.
 
-(8) Ha a felhasználó új engedélyessel köt gázellátási szerződést – egyéb megállapodás hiányában – a földgázszállító és a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő és adatátviteli berendezést térítésmentesen biztosítani.
+(8) A felhasználó és a szállítási rendszerüzemeltető vagy a földgázelosztó közötti egyéb megállapodás hiányában a szállítási rendszerüzemeltető vagy a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő berendezést és 100 m3/óra vagy azt meghaladó kapacitásigény esetén a fogyasztásmérő berendezést és az adatátviteli berendezést térítésmentesen biztosítani.

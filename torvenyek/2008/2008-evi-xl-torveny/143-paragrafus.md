@@ -14,7 +14,7 @@
 
 (7) A napi földgáz és kapacitás kereskedelemi piachoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerirányítóval, az ügyletek pénzügyi elszámolására az elszámolóházzal szerződést köt. A piaci szereplők közötti adás-vétel az elszámolóház közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján szabványosított ügyletek formájában történik. A napi földgáz és kapacitás kereskedelmi piac működtetésének díját a szállítási rendszerüzemeltetési díj tartalmazza.
 
-(8) A rendszerirányító köteles a napi földgáz és kapacitás kereskedelmi piac működési modelljét, és a piac működési szabályzatát 2008. október 30-ig kidolgozni és a Hivatalhoz jóváhagyásra beterjeszteni.
+(8)
 
 (9) A szállítási rendszerirányító köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a napi földgáz- és kapacitáskereskedelmi piac informatikai, működési feltételeit és szabályzatát.
 

@@ -12,7 +12,7 @@
 
 6. a rendszerhasználati díj felülvizsgálatára irányuló eljárásban kötelezően benyújtandó adatok és dokumentumok körét,
 
-7. a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatáson túli egyéb szolgáltatások körét és annak díjait, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait,
+7.
 
 8. az egyetemes szolgáltatás felmondása, valamint a Get. szerinti közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályait és az áralakítás elveit,
 
