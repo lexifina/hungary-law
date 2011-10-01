@@ -1,12 +1,12 @@
-174. § (1) A Hivatal
+174. § (1) E törvény 116. § (3) bekezdésének az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított d) pontjának hatálybalépést megelőzően épült csatlakozó berendezések jogszerűen fennmaradnak azzal, hogy ezen csatlakozó berendezésekre
 
-a) a 142. § (4) bekezdése szerinti módszertani útmutatót első alkalommal 2008. június 30-ig,
+a) amennyiben az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított d) pontjának hatálybalépését megelőző 90 napon belül épült meg, akkor az üzemeltetési engedélyezési eljárás, és
 
-b) a 142. § (5) bekezdése szerinti módszertani útmutatót első alkalommal 2008. október 31-ig
+b) amennyiben az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított d) pontjának hatálybalépését megelőző 90 napon megelőzően épült meg, akkor
 
-készíti el.
+e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló kormányrendelet szabályait alkalmazni kell.
 
-(2) A rendszerhasználati díjak 2008. évi árszintjét az 5/2005. (I. 21.) GKM rendelet szerint kell meghatározni. A 142. § (7)–(9) bekezdéseiben foglaltakat a rendszerhasználati díjak árszintjének 2008. január 1-jén esedékes módosítását követő első alkalommal kell alkalmazni.
+(2) Az átviteli rendszerirányító az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 25. § (4) bekezdése szerinti hálózatfejlesztési tervet első alkalommal 2011. október 1-jéig nyújtja be jóváhagyásra a Hivatalhoz. A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 25. § (6) bekezdése szerinti értékelését első alkalommal 2012. június 30-ig készíti el.
 
 (3) A villamos energiáról szóló 2001. évi CX. törvény 98. § (1) bekezdése szerinti, a rendszerirányítási díj részeként az átállási költségek térítése céljából beszedett pénzeszköz kezelésére az átviteli rendszerirányító által létrehozott elkülönített számla e törvény hatálybalépésének napjára vonatkozó egyenlegét az átviteli rendszerirányító bevételként számolhatja el. Ezt a bevételt az átviteli rendszerirányítási díj szabályozásánál csökkentő tételként figyelembe kell venni.
 

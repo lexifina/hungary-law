@@ -1,6 +1,6 @@
-## 50 MW, és ezt meghaladó teljesítőképességű erőműre vonatkozó működési engedély
+## 50 MW, és ezt meghaladó névleges teljesítőképességű erőműre vonatkozó működési engedély
 
-83. § (1) A termelő a működési engedély alapján jogosult villamos energiát termelni, felhasználni és értékesíteni.
+83. § (1) A termelői engedélyes a működési engedély alapján jogosult villamos energiát termelni és értékesíteni.
 
 (2) A termelői működési engedély a kérelem alapján a Hivatal által megállapított határozott időtartamra szól, és meghosszabbítható.
 

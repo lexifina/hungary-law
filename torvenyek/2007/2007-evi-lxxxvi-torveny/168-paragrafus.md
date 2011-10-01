@@ -28,6 +28,10 @@ e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el 
 
 e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
 
+f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
+
+g) árszabályozási ciklus indulását megelőzően lefolytatott, rendszerhasználati díjak megállapítására irányuló eljárásban hat hónap, amely egy alkalommal, három hónappal meghosszabbítható.
+
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
@@ -58,7 +62,9 @@ a) rendszerhasználati vagy csatlakozási díjakat állapít meg,
 
 b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 
-c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását.
+c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy
+
+d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki.
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 

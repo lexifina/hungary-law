@@ -1,16 +1,18 @@
-47. § (1) A felhasználók részére villamos energiát jogi személyiséggel rendelkező gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amennyiben erre a Hivataltól engedélyt kapott, és rendelkezik a külön jogszabályban meghatározott pénzügyi biztosítékkal.
+47. § (1) A villamosenergia-kereskedő a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására és orvoslására, valamint a felhasználók tájékoztatása céljából székhelyén vagy üzletszabályzatában meghatározott egyéb helyen köteles biztosítani a felhasználói kapcsolattartás szervezetét és működtetését személyes ügyintézési lehetőséggel, valamint az írásban, telefonon és elektronikus úton történő ügyintézés lehetőségét.
 
-(2) Az egyetemes szolgáltató a lakossági fogyasztói bejelentések intézésére, panaszok kivizsgálására és orvoslására, a lakossági fogyasztók tájékoztatására ügyfélszolgálatot működtet telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben.
+(2) Az (1) bekezdésen túlmenően az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő az e törvényben és a Vhr.-ben meghatározottak szerint ügyfélszolgálatot működtet állandó ügyfélszolgálati irodában vagy ügyfélszolgálati fiókirodában (a továbbiakban együtt: ügyfélszolgálat), és biztosítja a felhasználók részére az írásban, telefonon és elektronikus úton történő ügyintézés lehetőségét. Az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
-(3) Az ügyfélszolgálat működési rendjét, félfogadási idejét az egyetemes szolgáltató úgy köteles megállapítani, illetve működésének feltételeiről oly módon köteles gondoskodni, hogy a lakossági fogyasztók érdekei ne sérüljenek. Ezen kötelezettség keretein belül az egyetemes szolgáltató köteles különösen:
+(3) A felhasználói kapcsolattartás szervezetének és az ügyfélszolgálatnak a működési rendjét, a félfogadási idejét a villamosenergia-kereskedő úgy köteles megállapítani, és a működésének feltételeiről oly módon köteles gondoskodni, hogy az lehetővé tegye a felhasználók jogainak megfelelő érvényesítését. Ezen kötelezettség keretein belül az egyetemes szolgáltatásra jogosultakat ellátó villamosenergia-kereskedő köteles
 
-a) minden ügyfélszolgálati irodáját a hét legalább egy napján este 20 óráig nyitva tartani,
+a) állandó ügyfélszolgálati irodáit a hét legalább egy napján 20 óráig nyitva tartani,
 
-b) elektronikusan és telefonon keresztül is lehetővé tenni a lakossági fogyasztók számára a személyes ügyintézés időpontjának előzetes lefoglalását.
+b) ügyfélszolgálati fiókirodáit a hét legalább egy napján 18 óráig nyitva tartani, és
 
-(4) Az ügyfélszolgálati irodák elhelyezését a tömegközlekedéssel történő elérés és az ellátott lakossági fogyasztók számának szempontjaira figyelemmel kell kialakítani, azzal, hogy a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény mellékletében felsorolt kistérségenként legalább egy ügyfélszolgálati irodát köteles létesíteni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok minimális számát külön jogszabály, az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat külön jogszabály és az üzletszabályzat tartalmazza.
+c) elektronikusan és telefonon keresztül is lehetővé tenni a felhasználók számára a személyes ügyintézés időpontjának előzetes lefoglalását.
 
-(5) Ha a felhasználó hálózathasználati szerződését a kereskedő, illetve egyetemes szolgáltató a 63. § (1) bekezdésének megfelelően megbízottként, vagy bizományosként kezeli, az ügyfélszolgálati irodáiban biztosítja a hálózathasználattal kapcsolatos ügyintézést is.
+(4) Az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő legalább egy ügyfélszolgálatot működtet abban a területfejlesztésről és a területrendezésről szóló törvény szerinti régióban (a továbbiakban: régió), ahol az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 15 000-et. Abban a régióban, amelyben a villamosenergia-kereskedő által ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 45 000-et, a villamosenergia-kereskedő legalább két ügyfélszolgálatot működtet, különböző településeken.
+
+(5) Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő a 63. § (1) bekezdésének megfelelően megbízottként kezeli, az (1) bekezdés szerinti felhasználói kapcsolattartás szervezetén keresztül, valamint a (2) bekezdésben, a (4) bekezdésben és az 50/A. § (2) bekezdésében meghatározott ügyfélszolgálatokon biztosítja a hálózathasználattal kapcsolatos ügyintézést is.
 
 (6) A villamosenergia-kereskedő ellátja az e törvény alapján védendő fogyasztókkal kapcsolatos, külön jogszabályban meghatározott feladatokat.
 

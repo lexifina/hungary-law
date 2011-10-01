@@ -1,0 +1,1 @@
+39/F. § Arra a felhasználóra, aki a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból magánvezetéket egy épületen belül létesít, a 39. §–39/D. § magánvezeték engedélyesére vonatkozó rendelkezései megfelelően irányadóak.

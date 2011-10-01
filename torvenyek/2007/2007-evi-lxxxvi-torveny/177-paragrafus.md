@@ -1,4 +1,4 @@
-177. § (1)
+177. § (1) Ha a felhasználó az átviteli rendszerre 2011. október 1-jét megelőzően csatlakozott, az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 27. § (3b) bekezdés szerinti feszültségszint-korlátozás a csatlakozási pont tekintetében nem alkalmazható.
 
 (2) Amennyiben a lakossági fogyasztó az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 47. § (7) bekezdés a) pontjának hatálybalépésekor fizetési kötelezettsége teljesítésével késedelemben van, kikapcsolására az e törvénynek a fizetési kötelezettség esedékességekor hatályos rendelkezéseit kell alkalmazni.
 

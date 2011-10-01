@@ -4,4 +4,4 @@
 
 (3) Az elosztó hálózati engedélyes köteles a külön jogszabály és az elosztói szabályzat alapján a háztartási méretű kiserőművek méréséről gondoskodni.
 
-(4) A hálózati engedélyes az (1)–(2) bekezdésben meghatározott szabályok szerint köteles gondoskodni az engedélyköteles magánvezetékhez csatlakozó felhasználók méréséről. A magánvezeték engedélyese a felhasználóval együttműködve gondoskodik a mérőhely kialakításáról és a mérés lehetővé tételéről.
+(4) Az elosztó az (1)–(2) bekezdésben meghatározott szabályok szerint köteles gondoskodni a magánvezetékre kapcsolódó felhasználók méréséről. A felhasználó a magánvezeték engedélyesével együttműködve gondoskodik a mérőhely kialakításáról és a mérés lehetővé tételéről, a kapcsolódási ponthoz tartozó kapcsoló és átalakító berendezések valamint a kapcsolódási pont kiépítésének kivételével.

@@ -6,11 +6,11 @@
 
 74. § (1) Az alábbi tevékenységeket a Hivatal által kiadott engedélyek alapján lehet gyakorolni:
 
-a) a 0,5 MW és az ezt meghaladó teljesítőképességű kiserőmű létesítése, villamosenergia-termelése, valamint a villamos energia termelésének szüneteltetése, megszüntetése,
+a) a 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű létesítése, villamosenergia-termelése, valamint a villamos energia termelésének megszüntetése,
 
-b) az 50 MW és az ezt meghaladó teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű külön jogszabályban meghatározott módon történő bővítése, teljesítményének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, megszüntetése,
+b) az 50 MW és az ezt meghaladó névleges teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű külön jogszabályban meghatározott módon történő bővítése, névleges teljesítőképességének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, megszüntetése,
 
-c) a villamos energia átvitele és a villamosenergia-rendszer irányítása (átviteli rendszerirányítás),
+c) az átviteli rendszerirányítás,
 
 d) a villamos energia elosztása,
 
@@ -20,18 +20,10 @@ f) az egyetemes szolgáltatás,
 
 g) a szervezett villamosenergia-piac működtetése,
 
-h) a magánvezeték létesítése, működtetése, a vezeték kapacitásának megváltoztatása, valamint működésének szüneteltetése a (2) bekezdésében szabályozott esetek kivételével,
+h) a 39. § (1) bekezdés b) és c) pontja szerinti magánvezeték létesítése, bővítése és megszüntetése, az egy épületen belül elhelyezkedő magánvezeték létesítése, bővítése és megszüntetése kivételével,
 
 i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével.
 
-(2) Az (1) bekezdés h) pontjában meghatározott tevékenység nem engedélyköteles, ha az egy felhasználási helyen belül lévő teljes magánvezeték:
-
-a) egy épületen belül helyezkedik el, vagy
-
-b) a felhasználó és a vételezők osztatlan közös tulajdonában van, vagy
-
-c) a felhasználó tulajdonában álló magánvezeték a felhasználó vagy a felhasználó tulajdonosának tulajdonában vagy többségi tulajdonában álló ingatlan (ingatlan együttes) ellátására szolgál, vagy
-
-d) 2005. november 25. előtt fogyasztói vezetékként létesült.
+(2)
 
 (3) A távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) szerint engedélyköteles tevékenységre vonatkozó határozatlan időre szóló engedély, valamint az e törvény szerint határozott időre szóló engedélyek egy engedélyben történő kiadása esetén az e törvény szerinti engedély meghosszabbítására irányuló eljárás az engedély Tszt. szerinti tevékenységre vonatkozó részeinek hatályát nem érinti.

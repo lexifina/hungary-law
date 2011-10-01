@@ -10,6 +10,8 @@
 
 4. Biomassza: a mezőgazdaságból, erdőgazdálkodásból és az ehhez kapcsolódó iparágakból származó termékek, hulladékok és maradékanyagok (a növényi és állati eredetűeket is beleértve) biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
 
+4a. Biztonsági övezet: a biztonsági övezetről szóló miniszteri rendeletben a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 172. § e) pontjával összhangban megállapított földrajzi terület, amelyre a tervezett vagy létesült villamosmű, termelői vezeték, magánvezeték, vagy közvetlen vezeték számottevő hatást gyakorol;
+
 5. Csatlakozási pont: a villamosművek, a villamosmű és a felhasználói berendezés, továbbá a villamosmű, a magánvezeték, a termelői vezeték, illetve közvetlen vezeték tulajdoni határa;
 
 6. Csatlakozóberendezés: az átviteli vagy elosztó hálózat részét képező vezetékrendszer – a hozzá tartozó átalakító- és kapcsolóberendezéssel együtt –, amely az átviteli vagy elosztó hálózat leágazási pontját a csatlakozási ponttal köti össze. A fogyasztásmérő berendezés a csatlakozóberendezés tartozéka;
@@ -38,11 +40,11 @@
 
 16. Felhasználási hely: egy vagy több csatlakozási ponton keresztül ellátott, összefüggő terület, ahol a felhasználó a villamos energiát felhasználja;
 
-17. Felhasználó: villamos energiát saját felhasználás céljára közcélú hálózaton vagy e törvény szerint engedélyköteles magánvezetéken keresztül vételező személy;
+17. Felhasználó: aki villamos energiát a saját felhasználási helyén történő felhasználás céljából közcélú hálózatról vagy magánvezetéken keresztül nem továbbadás útján vételez;
 
 18. Felhasználói berendezés: a felhasználó használatában lévő, villamos energiát termelő, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt;
 
-19. Fogyatékkal élő fogyasztó: e törvény alkalmazásában a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, aki, vagy aki után szülője vagy eltartója a családok támogatásáról szóló törvény szerint magasabb összegű családi pótlékban részesül;
+19. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a villamosenergia-szolgáltatásból való kikapcsolás vagy annak megszakadása;
 
 20. Gazdaságilag indokolt hő- vagy hűtési igény: a hő vagy hűtés iránti igényt meg nem haladó mértékű kereslet, amelyet versenypiaci feltételek mellett, kapcsolt hő- és villamosenergia-termelés hiányában, a kapcsolt energiatermeléstől eltérő egyéb energia-előállító folyamaton keresztül elégítenének ki;
 
@@ -63,6 +65,8 @@
 27. Integrált villamosenergia-ipari vállalkozás: vertikálisan, illetőleg horizontálisan integrált villamosenergia-ipari vállalkozás;
 
 27a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat;
+
+27b. Kapcsolódási pont: a magán- és a közvetlen vezeték azon pontja, amelyet a vezetéket üzemeltető és a vételező közötti szerződésben a felek tulajdoni vagy üzemeltetési határként megjelölnek;
 
 28. Kapcsolt bizonyítvány: olyan forgalomképes okirat, amely igazolja a gazdaságilag indokolt hő- vagy hűtési igény kielégítésére szolgáló, nagy hatékonysággal kapcsoltan termelt villamos energia mennyiségét a kapcsoltan termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
 
@@ -86,7 +90,7 @@
 
 37.
 
-38. Közvetlen vezeték: közcélúnak, magán-, illetve termelői vezetéknek nem minősülő, országhatárt nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely természetes személyt, gazdálkodó szervezetet, illetőleg ezek csoportját oly módon köt össze erőművel, hogy a közvetlen vezetéken keresztül ellátott vételező és az erőmű legfeljebb az erőmű hálózati berendezésein keresztül csatlakozik a közcélú hálózathoz;
+38. Közvetlen vezeték: közcélúnak, magán- és termelői vezetéknek nem minősülő, országhatárt nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely közcélú hálózatra csatlakozó erőművet köt össze vételezővel;
 
 39. Közvilágítás: a külön jogszabályban meghatározott területnek a közlekedés-, köz- és vagyonbiztonság érdekében szükséges összefüggő, rendszeres, meghatározott időtartamú, villamos üzemű megvilágítása;
 
@@ -108,7 +112,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 
-44. Magánvezeték: felhasználói berendezés ellátására szolgáló, közcélú hálózat részének, termelői vezetéknek, illetve közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, illetőleg átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetve vagy közvetlenül kapcsolódó felhasználónak, illetőleg felhasználónak nem minősülő természetes személynek, gazdálkodó szervezetnek [Ptk. 685. § c)] (utóbbiak a továbbiakban együtt: vételezők) ellátására szolgál;
+44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 
 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
 
@@ -144,7 +148,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 59. Termelői engedélyes: aki villamos energia termelői működési engedéllyel vagy kiserőművi összevont engedéllyel rendelkezik;
 
-60. Termelői vezeték: közcélú hálózat részének, magánvezetéknek, illetve közvetlen vezetéknek nem minősülő vezeték, hálózati elem, illetőleg átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el;
+60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, és erre felhasználó nem csatlakozik vagy vételező nem kapcsolódik;
 
 61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
 
@@ -157,6 +161,10 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 65. Vertikálisan integrált villamosenergia-ipari vállalkozás: olyan villamosenergia-ipari vállalkozás vagy vállalkozások csoportja, amelynek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a villamosenergia-ipari vállalkozás vagy vállalkozások csoportja az átviteli rendszerirányítási vagy elosztási tevékenységek mellett egyidejűleg a termelési vagy kereskedelmi tevékenységek közül legalább az egyiket végzi, vagy ezek egyikére vonatkozó engedéllyel rendelkezik. A vertikálisan integrált villamosenergia-ipari vállalkozás részének minősül az említett villamosenergia-ipari vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek;
 
 66. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a villamosenergia-ellátásban megkülönböztetett feltételek szerint vehetnek részt;
+
+66a. Vételezési hely: egy vagy több kapcsolódási ponton keresztül ellátott összefüggő terület, ahol a vételező a vásárolt villamos energiát teljes egészében felhasználja;
+
+66b. Vételező: aki felhasználótól magánvezetéken továbbadás útján vagy termelőtől közvetlen vezetéken vásárol villamos energiát kizárólag saját felhasználás céljára, és nem minősül felhasználónak;
 
 67. Villamosenergia-ellátási Szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, a nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére vonatkozó elosztói szabályzat;
 

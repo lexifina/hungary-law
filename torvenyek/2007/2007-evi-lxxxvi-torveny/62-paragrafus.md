@@ -1,6 +1,6 @@
-62. § (1) Az egyetemes szolgáltatásra jogosult felhasználónak az egyetemes szolgáltatóval vagy a kereskedővel kötendő villamosenergia-vásárlási szerződésének legalább a következőket kell tartalmaznia:
+62. § (1) Az egyetemes szolgáltatásra jogosult felhasználónak a villamosenergia-kereskedővel kötendő villamosenergia-vásárlási szerződésének legalább a következőket kell tartalmaznia:
 
-a) a szerződő felek megnevezése, természetes személy esetén a nevének, lakcímének, gazdálkodó szervezet esetén a székhelyének és a cégjegyzékszámának feltüntetésével,
+a) a szerződő felek megnevezése, természetes személy esetén a nevének, lakcímének, jogi személy vagy a Ptk. általános szabályai szerint létrehozott jogalany esetén a székhelyének, cégjegyzékszámának vagy azzal egyenértékű azonosítójának és adószámának feltüntetésével,
 
 b) a szolgáltatás igénybevételének kezdő időpontja,
 
@@ -8,21 +8,31 @@ c) a nyújtott szolgáltatások megnevezése, azoknak a jogszabályban foglalt r
 
 d) a szolgáltatásnak a szerződés megkötésekor érvényes ára,
 
-e) a szolgáltatás díját, valamint a választható fizetési módokat meghatározó üzletszabályzat elérhetősége,
+e) a villamosenergia-kereskedő ügyfélszolgálatának elérhetősége,
 
-f) a szerződés időtartama, a szerződés feltételei, valamint az igénybe vett szolgáltatások, illetőleg a szerződés megszüntetésének, felmondásának feltételei,
+f) a szerződés időtartama, a szerződés feltételei, valamint az igénybe vett szolgáltatások, illetőleg a szerződés meghosszabbításának, megszüntetésének, felmondásának feltételei,
 
-g) a szerződésszegés esetei és jogkövetkezményei,
+g) a szerződésszegés esetei és jogkövetkezményei, különös tekintettel a szolgáltatásból való kikapcsolás részletes feltételeire,
 
 h) a felhasználói, illetve lakossági fogyasztói panasz benyújtásának és ügyintézésének lehetőségéről és módjáról való tájékoztatás, valamint a fogyasztóvédelemről szóló törvényben meghatározott fogyasztói jogvita egyezségen alapuló rendezésének megkísérlésére, továbbá ennek eredménytelensége esetén az ügy eldöntésére irányuló eljárások kezdeményezésének módja és feltételei,
 
-i) a külön díj ellenében nyújtott kiegészítő szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít.
+i) a külön díj ellenében nyújtott kiegészítő szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít,
+
+j) annak a hálózati engedélyesnek a megnevezése, székhelye, amely hálózatához a felhasználó közvetve vagy közvetlenül csatlakozik,
+
+k) a felhasználási hely, valamint elszámolási pont megjelölése,
+
+l) az igénybe venni kívánt, szerződött villamos energia mennyisége vagy a szolgáltatás teljes ellátást biztosító jellege, és
+
+m) az elszámolási és számlázási időszakok, továbbá a számlázás és a számla kiegyenlítésének módja és feltételei.
+
+(1a) Az egyetemes szolgáltatásra nem jogosult felhasználó esetén a villamosenergia-kereskedővel kötendő villamosenergia-vásárlási szerződésnek legalább az (1) bekezdés a), d), f), g), és j)–m) pontja szerinti – lényeges tartalmi elemeknek minősülő – feltételeket kell tartalmaznia.
 
 (2) Az egyetemes szolgáltató és az egyetemes szolgáltatásra jogosult felhasználói vonatkozásában a villamosenergia-kereskedő köteles a villamosenergia-vásárlási szerződés üzletszabályzatban meghatározott, általa egyoldalúan változtatható feltételeinek várható módosítása esetén, azok hatálybalépése előtt legalább 30 nappal
 
-a) a módosítás tartalmát legalább egy országos napilapban és legalább egy helyi lapban is, legalább két alkalommal közzétenni,
+a)
 
-b) a módosítást az ügyfélszolgálati irodákban és a honlapján közzétenni,
+b) a módosítást az ügyfélszolgálati irodákban és a honlapján közzétenni, és
 
 c) az érintett felhasználókat a tervezett módosítás tartalmáról, valamint a szerződés felmondásának lehetőségéről írásban értesíteni.
 
@@ -36,16 +46,8 @@ c) az érintett felhasználókat a tervezett módosítás tartalmáról, valamin
 
 (4c) Amennyiben a villamosenergia-kereskedő az igazolást azért nem adta ki, mert az egyetemes szolgáltatásra jogosult nem lakossági felhasználó kötött szerződése nemfizetésből eredő kikapcsolás miatt szűnt meg, az egyetemes szolgáltató jogosult a villamosenergia-vásárlási szerződés megkötésének feltételeként pénzügyi biztosítékot kérni, amelynek összegét a Vhr. tartalmazza.
 
-(5) A villamosenergia-kereskedő részéről szerződésszegésnek minősül különösen, ha
+(5)–(6)
 
-a) a villamosenergia-szolgáltatást a szerződés szerinti időpontban nem kezdi meg,
-
-b) a villamos energiát nem a villamosenergia-vásárlási szerződésben meghatározott, illetve nem az elvárható módon szolgáltatja,
-
-c) a szolgáltatás minőségi követelményeit megsérti.
-
-(6) A villamosenergia-kereskedő köteles a felhasználók részére kötbért fizetni az (5) bekezdésben meghatározott szerződésszegés esetén.
-
-(7) A felek a villamosenergia-vásárlási szerződés teljesítése során kötelesek egymást minden lényeges körülményről megfelelő időben és módon tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül általa tervezett változtatásokat is.
+(7) A felek a villamosenergia-vásárlási szerződés teljesítése során kötelesek egymást minden lényeges körülményről megfelelő időben és módon tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általa tervezett változtatásokat is.
 
 (8) A villamosenergia-vásárlási szerződésre – amennyiben a jelen törvény és a termékfelelősségre vonatkozó külön törvény eltérő rendelkezést nem tartalmaz – a Ptk. rendelkezései irányadók. A szavatossági igények körében a bizonyítás az engedélyest terheli.

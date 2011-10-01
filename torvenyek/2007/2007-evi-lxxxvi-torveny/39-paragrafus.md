@@ -1,15 +1,15 @@
-39. § (1) A jelen törvényben meghatározott engedély alapján bárki létesíthet magánvezetéket, amennyiben az átviteli vagy elosztó hálózatra való csatlakozásnak a hálózati engedélyesek által történő megvalósítása nagyobb költséggel vagy nehézséggel járna. A nagyobb költség vagy a nehézség fennállásának bizonyítása a kérelmezőt terheli.
+39. § (1) Magánvezetéket a közcélú hálózatra közvetlenül csatlakozó felhasználó létesíthet a felhasználási helyén belül
 
-(2) A magánvezeték üzemeltetője köteles
+a) saját maga villamosenergia-ellátása céljából,
 
-a) az általa üzemeltetett vezetéket biztonságosan, a környezetvédelmi előírások és műszaki követelmények figyelembevételével üzemeltetni, fenntartani,
+b) kapcsolt vállalkozásai villamosenergia-ellátása céljából, vagy
 
-b) a karbantartási, javítási, felújítási munkákat időben elvégezni.
+c) olyan vételezők vagy más felhasználók villamosenergia-ellátása céljából, amelyek tevékenységei vagy termelési folyamatai egymás tevékenységeivel vagy termelési folyamataival műszaki és biztonsági okokból összefüggenek.
 
-(3) A magánvezeték üzemeltetésére vonatkozó részletes szabályokat külön jogszabály határozza meg.
+(2) A magánvezetéken háztartási célra villamos energiát kizárólag az vételezhet, aki a magánvezeték tulajdonosával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
-(4) A magánvezetékhez történő hozzáférés, továbbá a vezetéken keresztül vételező felhasználók, illetve vételezők villamosenergia-ellátásának az üzemeltető által biztosított feltételei nem adhatnak alapot visszaélésre.
+(3) Amennyiben a magánvezetékhez felhasználó vagy vételező kapcsolódik, a magánvezeték engedélyesének a magánvezeték létesítését a hálózati engedélyesnek Vhr.-ben meghatározott feltételek szerint be kell jelentenie.
 
-(5) Az e törvény szerint engedélyköteles magánvezeték üzemeltetője köteles a vezetékhez csatlakozó felhasználók számára méltányos, megkülönböztetéstől mentes díj ellenében hozzáférést biztosítani, továbbá a magánvezetéket villamosenergia-továbbítás céljából a termelők, a kiserőművek üzemeltetői, valamint a felhasználók részére rendelkezésre bocsátani.
+(4) A magánvezeték engedélyese a magánvezetékről ellátott vételezőkkel és felhasználókkal köteles a magánvezeték használatára vonatkozó jogokat és kötelezettségeket tartalmazó szerződést kötni.
 
-(6) A hálózati engedélyes felelőssége az e törvény szerint engedélyköteles magánvezetéken keresztül vételező felhasználókkal szemben a villamos energiának a közcélú hálózat csatlakozási pontjáig történő továbbítására terjed ki. A magánvezeték engedélyese felelős a magánvezeték működtetéséért, a villamos energiának a csatlakozási ponttól a felhasználókhoz történő továbbításáért.
+(5) A magánvezeték engedélyese a magánvezeték üzemeltetésével jogosult más személyt megbízni, akinek a tevékenységéért úgy felel, mintha az üzemeltetést saját maga végezné.

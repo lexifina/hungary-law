@@ -6,9 +6,9 @@
 
 (4) A villamosenergia-ellátási szabályzatokat és azok módosításait a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
 
-(5) Az elosztói szabályzat jóváhagyásakor a Hivatal kikéri az átviteli rendszerirányító véleményét.
+(5)
 
-(6) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés eredménytelensége esetén a villamosenergia-ellátási szabályzatot határozattal hivatalból módosíthatja, ha a szabályzat akadályozza a hatékony versenyt, az árszabályozásra vonatkozó jogszabályi rendelkezések érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé.
+(6) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés eredménytelensége esetén a villamosenergia-ellátási szabályzatot határozattal hivatalból módosíthatja, ha a szabályzat akadályozza a hatékony versenyt, az árszabályozásra vonatkozó rendelkezések érvényesülését, vagy indokolatlan megkülönböztetések alkalmazását teszi lehetővé.
 
 (7) A villamosenergia-ellátási szabályzatokat és azok módosításait a Hivatal jóváhagyó határozatával együtt az elkészítésükért felelős engedélyesek a honlapjukon – mindenkor hatályos egységes szerkezetbe foglalt szöveggel – közzéteszik.
 

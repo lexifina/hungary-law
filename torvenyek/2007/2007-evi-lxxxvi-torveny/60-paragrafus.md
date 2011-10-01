@@ -2,4 +2,4 @@
 
 (2) A hálózati csatlakozási szerződésbe foglalt, a rendszerhasználó által megszerzett jogok a felhasználási hellyel együtt átruházhatók, vagy a hálózati engedélyes által visszavásárolhatók.
 
-(3) A hálózat használati szerződésből eredő igények egy év alatt évülnek el.
+(3) A hálózathasználati szerződésből eredő igények két év alatt évülnek el.

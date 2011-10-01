@@ -1,5 +1,5 @@
-126. § (1) A vezetékjog – a (2) bekezdés szerinti eltéréssel – megszűnik, ha a hálózati engedélyes a 124. § a)–c) pontjaiban meghatározott létesítményeket a vezetékjogi engedélyt megállapító határozat jogerőre emelkedésétől számított két éven belül nem építi meg, vagy az említett létesítményeket véglegesen eltávolítja. A vezetékjog megszűnését az engedélyes az azt követő 30 napon belül köteles bejelenteni a Hatóságnak, ennek hiányában azt a tulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése estén hivatalból a Hatóság határozatban állapítja meg.
+126. § (1) A vezetékjog megszűnését az engedélyes az azt követő 30 napon belül köteles bejelenteni a Hatóságnak, ennek hiányában azt a tulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése esetén hivatalból a Hatóság határozatban állapítja meg.
 
-(2) A Hatóság a vezetékjogi engedély hatályát a hálózati engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott esetben, legfeljebb két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
+(2)
 
 (3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító jogerős határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.

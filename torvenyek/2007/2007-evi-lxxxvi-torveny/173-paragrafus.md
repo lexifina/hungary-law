@@ -3,3 +3,5 @@
 (2) A jogerős egyszerűsített üzemeltetési engedéllyel a Hatóság megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (3) Az egyszerűsített üzemeltetési engedély, illetve a vezetékjog utólagos bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
+
+(4) A hálózati engedélyes a 124. § (2) bekezdés szerinti jogokat érvényesítheti 2011. október 1-jét megelőzően kiadott jogerős vezetékjoga, vagy jogerős üzemeltetési engedélye alapján.

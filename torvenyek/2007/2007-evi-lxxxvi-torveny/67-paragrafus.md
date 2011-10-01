@@ -6,4 +6,4 @@
 
 a) a villamosenergia-rendszer és az átviteli hálózat technikai működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzatot,
 
-b) a villamosenergia-kereskedelemre, a villamos energia határon keresztül történő szállítására, a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzatot.
+b) a villamosenergia-kereskedelemre, az elszámolási-mérési adatok gyűjtésének, feldolgozásának és szolgáltatásának minimális tartalmi elemeire, a villamos energia határon keresztül történő szállítására, a rendszerszintű szolgáltatásokra vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzatot.

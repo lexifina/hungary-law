@@ -32,6 +32,8 @@ f) hálózati csatlakozási, hálózathasználati vagy villamosenergia-vásárl�
 
 g) szerződésszegő vételezés esetén az üzletszabályzatban meghatározott előzetes egyeztetést követően, azzal, hogy lakossági fogyasztó villamosenergia-ellátásból történő kikapcsolására, valamint a tartozását rendező lakossági fogyasztó ellátásba történő ismételt bekapcsolására a kikapcsolás és ismételt bekapcsolás villamosenergia-kereskedő általi kezdeményezésére vonatkozóan a 47. § (7)–(9) bekezdéseinek előírásai az elosztó hálózati engedélyes eljárására megfelelően alkalmazandók, vagy
 
+h) felhasználó a közcélú hálózat használatával egyidejűleg közvetlen vezetékről villamos energiát vételez.
+
 (3) Az elosztó hálózati engedélyesek az elosztó hálózat üzemét az átviteli rendszerirányító utasítása, illetve előzetes hozzájárulása alapján korlátozhatják, szüneteltethetik a villamosenergia-ellátási szabályzatokban meghatározott eljárásrend alapján.
 
 (4) A hálózati engedélyesek kötelesek a hozzáférés előre tervezhető karbantartási, felújítási munkálatok miatti szüneteltetésének kezdő időpontjáról és várható időtartamáról az érintett felhasználókat és engedélyeseket a külön jogszabályban meghatározott módon előzetesen, írásban értesíteni.

@@ -1,0 +1,1 @@
+39/C. § Ha a vételező vagy a felhasználó a közcélú hálózathoz közvetlenül kíván csatlakozni, a magánvezeték engedélyese köteles a közcélú hálózatra csatlakozásig a magánvezetékhez való hozzáférést biztosítani, valamint a közcélú hálózathoz való csatlakozás érdekében a hálózati engedélyessel együttműködni.

@@ -21,3 +21,11 @@ a) a jelek elhelyezésével, mérésekkel, vizsgálatokkal,
 b) a létesítmények elhelyezésével, vagy azok megközelítésével, azokon való munkavégzéssel,
 
 c) az ingatlan használatának akadályozásával vagy korlátozásával okozott kárt az engedélyes az ingatlan tulajdonosának vagy használójának (a továbbiakban együtt: tulajdonos) köteles megtéríteni.
+
+(3) Az építtető az 50 MW vagy ezt meghaladó névleges teljesítményű erőmű és a megújuló energiaforrást hasznosító erőmű termelői vezetékének idegen ingatlanon történő elhelyezése céljából
+
+a) előmunkálati jogot,
+
+b) vezetékjogot
+
+kérhet.

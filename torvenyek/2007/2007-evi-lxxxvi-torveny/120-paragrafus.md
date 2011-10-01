@@ -1,3 +1,3 @@
 ## ÉPÍTÉSI ENGEDÉLYEZÉSI ELJÁRÁSOK SAJÁT INGATLANON
 
-120. § Villamosművet, termelői vezetéket, magánvezetéket és közvetlen vezetéket saját ingatlanon építeni a Hatóság építési engedélye alapján szabad.
+120. § Villamosmű, termelői vezeték, magánvezeték és közvetlen vezeték saját ingatlanon – az e törvény szerinti kivételekkel – a Hatóság építési engedélye alapján építhető.

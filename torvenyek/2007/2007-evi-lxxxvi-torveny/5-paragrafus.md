@@ -11,3 +11,5 @@ c) nem a termelő berendezésre vonatkozó környezetvédelmi, hatékonysági k�
 (3) Az átviteli rendszerirányító a legkisebb költség elvének figyelembevételével bármikor igényelheti bármely üzemeltetésre alkalmas termelő berendezés hálózatra kapcsolását, amennyiben annak indítási és üzemeltetési költségeit vállalja. A költségek vállalása esetén az igény teljesítése nem tagadható meg.
 
 (4) A Hivatal az indokolatlan visszatartás megállapítása esetén a 96. § (1) bekezdés a)–b) pontjaiban meghatározott jogkövetkezményt alkalmazhatja, valamint határozatban meghatározza az erőművi teljesítőképesség felajánlandó mértékét.
+
+(5) A kiserőművek esetén az (1) bekezdésben foglalt felajánlási kötelezettség az üzemi szabályzatban meghatározottak szerint közösen is teljesíthető. A részletes szabályokat a villamosenergia-ellátási szabályzatok tartalmazzák.

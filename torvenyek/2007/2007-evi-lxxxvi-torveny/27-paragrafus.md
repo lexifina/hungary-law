@@ -2,7 +2,15 @@
 
 (2) A hálózati engedélyesek az átviteli és az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra a hálózat műszaki jellemzőire tekintettel megtagadhatják.
 
-(3) A hálózati engedélyesnek az átviteli, illetve elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható. Az átviteli rendszerirányító és az elosztó hálózati engedélyes a műszaki lehetőségek fennállása esetén köteles egy másik csatlakozási pontot felajánlani, ahol a csatlakozás biztosítható.
+(3) A hálózati engedélyesnek az átviteli vagy elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható, és a műszaki lehetőségek fennállása vagy megteremthetősége esetén köteles egy másik csatlakozási pontot kijelölni.
+
+(3a) Az átviteli rendszerirányító nem tagadhatja meg erőmű átviteli hálózathoz való csatlakozását
+
+a) a hálózati kapacitások esetleges jövőbeni korlátaira hivatkozva, vagy
+
+b) az új csatlakozási pont miatt szükséges, csatlakozási pont közelében történő hálózat fejlesztés járulékos költségei miatt.
+
+(3b) Felhasználó az átviteli hálózatra csak 132 kV-nál nagyobb feszültségszinten csatlakozhat.
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 

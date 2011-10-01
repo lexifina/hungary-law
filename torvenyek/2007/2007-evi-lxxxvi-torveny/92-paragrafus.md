@@ -8,7 +8,7 @@
 
 a) kiserőművi összevont engedélyes esetében,
 
-b) magánvezeték létesítése, működtetése, vagy a működtetés szüneteltetése, a vezeték kapacitásának megváltoztatása esetében,
+b) magánvezeték engedélyese esetében vagy
 
 c) közvetlen vezeték engedélyese esetében.
 

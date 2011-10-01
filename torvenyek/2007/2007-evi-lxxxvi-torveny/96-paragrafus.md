@@ -18,7 +18,7 @@ dc) a fióktelep alapítójának az adott tevékenység végzésére vonatkozó 
 
 dd) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával, vagy más jogszabálysértő módon szerezték meg.
 
-(2) A Hivatal a jelen törvény szerint nem engedélyköteles kiserőmű üzemeltetőjével és a nem engedélyköteles magánvezetéken villamos energiát továbbadó felhasználóval szemben a jogszabályban foglalt kötelezettségének megsértése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja, illetőleg a tevékenység végzőjét azonnali hatállyal eltilthatja a tevékenység folytatásától.
+(2) A Hivatal a jelen törvény szerint nem engedélyköteles kiserőmű üzemeltetőjével és a 2011. október 1-je előtt létesített nem engedélyköteles magánvezetéken és a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból egy épületen belül létesített magánvezetéken villamos energiát továbbadó felhasználóval szemben a jogszabályban foglalt kötelezettségének megsértése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja, illetőleg a tevékenység végzőjét azonnali hatállyal eltilthatja a tevékenység folytatásától.
 
 (3) A Hivatal az integrált villamosenergia-ipari vállalkozás e törvény szerint nem engedélyköteles tagjával szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
