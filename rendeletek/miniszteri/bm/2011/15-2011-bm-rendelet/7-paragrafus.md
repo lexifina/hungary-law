@@ -2,7 +2,7 @@
 
 a) nem fejlesztési célú uniós támogatáshoz igényli a szükséges saját forrás kiegészítését,
 
-b)[^5] adósságrendezési eljárás alatt áll, kivéve a 2. § (2) bekezdés a) pont ac) alpontja szerinti esetet,
+b)[^6] adósságrendezési eljárás alatt áll, kivéve a 2. § (2) bekezdés a) pont ac) alpontja szerinti esetet,
 
 c) a támogatás alapját képező okiratban – kivéve a 2. § (5) bekezdése szerinti esetet – nem a pályázó a kedvezményezett,
 
@@ -16,4 +16,4 @@ g) a hiánypótlás, valamint a miniszter kérésére megtett kiegészítések, 
 
 h) hiánypótlási kötelezettségének határidőre nem tett eleget.
 
-[^5]: A 7. § b) pontja a 33/2011. (IX. 29.) BM rendelet 5. §-ával megállapított szöveg.
+[^6]: A 7. § b) pontja a 33/2011. (IX. 29.) BM rendelet 5. §-ával megállapított szöveg.
