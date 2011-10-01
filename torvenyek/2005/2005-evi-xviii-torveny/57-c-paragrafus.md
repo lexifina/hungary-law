@@ -18,7 +18,7 @@ c) a díjtételek megjelölése és mértéke, a figyelembevétel módja,
 
 d) az elvárt nyereség meghatározása,
 
-e) a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyei – az 57. § (2) bekezdés c) pontja szerinti – figyelembevételének módja, és
+e) a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyei – az 57. § (2) bekezdés b) pontja szerinti – figyelembevételének módja, és
 
 f) minden egyéb olyan adat, amely az árképzés, illetve a díjmegállapítás alapjául szolgál.
 

@@ -4,7 +4,7 @@ a) a közüzemi szerződés hatálybalépésétől, a közüzemi szerződés meg
 
 b) az általa kezelt adatok közül azokat, amelyek a tevékenységgel összefüggő adatkezelés céljából szükségesek, átadni azoknak, akik a távhőszolgáltató megbízásából a díjak számlázását és beszedését, a követelések kezelését vagy az ügyfél-tájékoztatást végzik.
 
-(2) Az (1) bekezdés szerinti jogok megilletik azt az engedélyest is, akit a 20. § (4) bekezdés alapján az engedélyező a folyamatos távhőellátásra kijelöl.
+(2) Az (1) bekezdés szerinti jogok megilletik azt az engedélyest is, akit a 20. § (4) bekezdés alapján a Hivatal a folyamatos távhőellátásra kijelöl.
 
 (3) Amennyiben az adatkezelés nem az (1) bekezdés a) pontjában meghatározott célból történt, az adatkezelő a kezelt személyes adatot haladéktalanul törli.
 

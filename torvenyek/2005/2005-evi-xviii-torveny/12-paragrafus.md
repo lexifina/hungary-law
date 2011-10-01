@@ -6,7 +6,7 @@
 
 (2) Az 5 MW vagy annál nagyobb névleges hőteljesítményű távhőtermelő létesítmény létesítése, bővítése, átalakítása, teljesítményének növelése és csökkentése, tüzelőanyagának megváltoztatása (a továbbiakban együtt: létesítés), továbbá megszüntetése engedélyköteles tevékenység.
 
-(3) A távhőtermelő létesítmény távhőtermelésének tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre az engedélyező hatóságtól, az érintett önkormányzat egyidejű értesítésével.
+(3) A távhőtermelő létesítmény távhőtermelésének tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével.
 
 (4) A távhőtermelő tevékenység megszüntetése megtagadható vagy feltételhez köthető, ha az a távhőszolgáltatás biztonságát, vagy az e törvényben meghatározott ellátási kötelezettség teljesítését veszélyezteti.
 

@@ -12,8 +12,14 @@ b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyé
 
 c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
 
-d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat.
+d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, illetve távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő) a jogszabályban és az engedélyes engedélyében foglalt előírások és követelmények megtartását, azok megszegése esetén a kormány rendeletében megállapított összegű bírságot szabhat ki.
+e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
 
-(3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult az engedélyestől, illetve az értékesítőtől eseti és rendszeres információt kérni, e törvényben előírt kötelezettségével és az engedélyhez kötött tevékenységével kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
+f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) a 4. § (3) bekezdés szerinti ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról.
+
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+
+(3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is. A Hivatal ellenőrzési feladatainak teljesítése érdekében éves ellenőrzési tervet készít.
+
+(4) Bírósági felülvizsgálat iránti kérelem esetén a határozat végrehajtása felfüggesztésének nincs helye, ha a Hivatal a távhőszolgáltatási támogatás igénybevételének jogszerűsége tárgyában döntött.

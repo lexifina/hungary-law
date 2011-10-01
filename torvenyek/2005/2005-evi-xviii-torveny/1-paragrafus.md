@@ -20,8 +20,10 @@ d) az erőművek távhőtermelő létesítményeire a földgázellátásról sz�
 
 rendelkezéseivel összhangban kell alkalmazni.
 
-(4) Nem tartozik e törvény hatálya alá
+(4) Nem tartozik – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – e törvény hatálya alá az a termelő, amely a távhőt távhőszolgáltató közbeiktatása nélkül, egyedi szerződés alapján, közvetlenül nem lakossági felhasználónak termeli (a továbbiakban: egyedi szerződés alapján termelő).
 
-a) a saját felhasználási célra hőt termelő létesítmény, valamint az a távhőtermelő tevékenység, amit a termelő, szolgáltató közbeiktatása nélkül, közvetlenül a nem lakossági felhasználónak, egyedi szerződés alapján végez;
+(5) E törvény rendelkezései – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – nem alkalmazhatók
 
-b) a központi költségvetési szervek vagyonkezelésében lévő távhőtermelő és hőszolgáltató létesítmény.
+a) a saját felhasználási célra hőt termelő létesítményre és
+
+b) a központi költségvetési szervek vagyonkezelésében lévő távhőtermelő és hőszolgáltató létesítményre.

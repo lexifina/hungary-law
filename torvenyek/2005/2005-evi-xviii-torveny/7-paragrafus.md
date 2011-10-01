@@ -12,4 +12,4 @@ d) jogosult a távhőszolgáltatótól a c) pont szerinti ellenőrzési feladata
 
 e) határozatában elrendelheti – az 51. § (8) bekezdésében foglalt esetekben – a felhasználási helyre történő bejutást.
 
-(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje két hónap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.
+(2) Az önkormányzat jegyzőjének eljárása során az ügyintézési határidő két hónap. Az önkormányzat jegyzőjének döntése ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének döntését jogosult megváltoztatni.

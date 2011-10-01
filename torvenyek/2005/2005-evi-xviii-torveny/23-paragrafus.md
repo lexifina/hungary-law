@@ -12,4 +12,4 @@ b) az a) pont szerint elhelyezett létesítményeket üzemeltetheti, karbantarth
 
 c) a távhővezeték-hálózat mentén levő, annak épségét közvetlenül veszélyeztető fákat, bokrokat, azok ágait, gyökereit – kártérítési kötelezettség mellett – eltávolíthatja;
 
-d) a távhővezeték-hálózattal – az energiapolitikáért felelős miniszternek (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
+d) a távhővezeték-hálózattal – a miniszternek a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.

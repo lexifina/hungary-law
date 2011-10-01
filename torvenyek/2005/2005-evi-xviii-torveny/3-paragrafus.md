@@ -8,7 +8,7 @@ b) díjfizető: épületrészenkénti díjmegosztás esetén az épületrésznek
 
 c) engedélyes: a távhőtermelő létesítmény létesítésére, távhőtermelésre, valamint a távhőszolgáltatásra engedéllyel rendelkező;
 
-d) engedélyező: hatáskörének megfelelően a Magyar Energia Hivatal, a területileg illetékes települési önkormányzat jegyzője, illetve a fővárosban a fővárosi önkormányzat főjegyzője;
+d)
 
 e) épületrész: e törvény alkalmazásában a távhővel ellátott épületnek, építménynek, ingatlannak funkcionálisan önálló, külön vagy közös tulajdonban lévő része (lakás, üzlethelyiség, lépcsőház stb.);
 
