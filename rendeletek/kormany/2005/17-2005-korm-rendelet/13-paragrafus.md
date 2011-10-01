@@ -1,21 +1,30 @@
-## 12. §[^40] Az adatkezelő biztosítja a diákigazolványok igényléséhez, érvényesítéséhez és adminisztrációjához szükséges nyomtatványok elektronikus formátumban történő elérhetőségét.
+## 12. §[^41] Az adatkezelő biztosítja a diákigazolványok igényléséhez, érvényesítéséhez és adminisztrációjához szükséges nyomtatványok elektronikus formátumban történő elérhetőségét.
 
-13. § (1)[^41] A központi felvételi eljárás keretében felsőoktatási intézménybe jelentkező a diákigazolványt a felvételi jelentkezési lap megfelelő rovatainak hiánytalan kitöltésével igényli az adatkezelőtől. A 22. § (1) bekezdésében meghatározott díj befizetésére szolgáló készpénz-átutalási megbízást az igénylő postai úton kapja meg a felvételi jelentkezését visszaigazoló regisztrációs levéllel együttes küldeményben. Az igénylő a kapott készpénz-átutalási megbízáson, vagy banki átutalással fizeti meg a 22. § (1) bekezdésében meghatározott díjat.
+13. § (1)[^42] A központi felvételi eljárás keretében felsőoktatási intézménybe jelentkező a diákigazolványt a felvételi jelentkezési lap megfelelő rovatainak hiánytalan kitöltésével igényli az adatkezelőtől. A 22. § (1) bekezdésében meghatározott díj befizetésére szolgáló készpénz-átutalási megbízást az igénylő postai úton kapja meg a felvételi jelentkezését visszaigazoló regisztrációs levéllel együttes küldeményben. Az igénylő a kapott készpénz-átutalási megbízáson, vagy banki átutalással fizeti meg a 22. § (1) bekezdésében meghatározott díjat.
 
-(2) A központi felvételi eljárás keretében középfokú oktatási intézménybe jelentkezők a diákigazolványt a kiadó intézményen keresztül igénylik a megszemélyesített igénylőlap megfelelő rovatainak kitöltésével és annak az adatkezelő részére július 5-éig történő elküldésével. A tanuló készpénz-átutalási megbízással július 5-éig fizeti be a 22. § (1) bekezdésében meghatározott díjat.
+(2)[^43] A felsőoktatási intézménybe beiratkozott hallgató a diákigazolvány-igénylést
 
-(3) Általános iskolában tanulók a diákigazolványt a kiadó intézménynél található igénylőlap hiánytalan kitöltésével és annak a kiadó intézmény útján az adatkezelőhöz történő elküldésével igénylik május 15-éig. A tanuló készpénz-átutalási megbízással május 15-éig fizeti be a 22. § (1) bekezdésében meghatározott díjat.
+a) a diákigazolvány igénylőlap név, aláírás, oktatási azonosító és fénykép rovatának kitöltését követően a kiadó intézményhez történő eljuttatásával, és
 
-(4) Az (1)–(3) bekezdésben meghatározott esetek kivételével a diákigazolvány az igénylőlap hiánytalan kitöltésével és annak a kiadó intézmény útján az adatkezelő részére történő elküldésével igényelhető. A tanuló, illetve hallgató készpénz-átutalási megbízással fizeti be a 22. § (1) bekezdésében meghatározott díjat.
+b) a kiadó intézmény tanulmányi rendszerében a diákigazolvány e-igénylés funkció használatával
 
-(5)[^42] Az igénylőlapot a kiadó intézmény, a hallgató, cselekvőképtelen vagy korlátozottan cselekvőképes vagy írni nem tudó hallgató esetében annak törvényes képviselője írja alá.
+## kezdeményezi.
 
-(6)[^43] A diákigazolvány igénylések csak abban az esetben tekinthetők érvényesnek, ha a kiadó intézmény szerepel az adatkezelő által karbantartott intézményi adatbázisban. A kiadó intézményeket tartalmazó adatbázis módosítása az adatkezelő felé tett bejelentéssel lehetséges.
+(3)[^44] A (2) bekezdés szerint kitöltött igénylőlap kiadó intézményhez való eljuttatásáig a hallgató megfizeti a 22. § (1) bekezdésben meghatározott díjat a kiadó intézmény részére, melyről a kiadó intézmény nyugtát állít ki.
 
-(7)–(11)[^44]
+(4)[^45] A kiadó intézmény ellenőrzi a (2) és (3) bekezdésben foglaltak teljesítését – szükség esetén felhívja a hallgatót a hiányok pótlására –, és a hiánytalan igénylés kiadó intézményhez érkezését követő 15 napon belül továbbítja azt az adatkezelő felé.
 
-[^40]: A 12. § a 180/2011. (IX. 2.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^41]: A 13. § (1) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^42]: A 13. § (5) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^43]: A 13. § (6) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^44]: A 13. § (7)–(11) bekezdését a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés b) pontja hatályon kívül helyezte.
+(5)[^46] Az igénylőlapot a kiadó intézmény, a hallgató, cselekvőképtelen vagy korlátozottan cselekvőképes vagy írni nem tudó hallgató esetében annak törvényes képviselője írja alá.
+
+(6)[^47] A diákigazolvány igénylések csak abban az esetben tekinthetők érvényesnek, ha a kiadó intézmény szerepel az adatkezelő által karbantartott intézményi adatbázisban. A kiadó intézményeket tartalmazó adatbázis módosítása az adatkezelő felé tett bejelentéssel lehetséges.
+
+(7)–(11)[^48]
+
+[^41]: A 12. § a 180/2011. (IX. 2.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^42]: A 13. § (1) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^43]: A 13. § (2) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^44]: A 13. § (3) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^45]: A 13. § (4) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^46]: A 13. § (5) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^47]: A 13. § (6) bekezdése a 180/2011. (IX. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^48]: A 13. § (7)–(11) bekezdését a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés b) pontja hatályon kívül helyezte.

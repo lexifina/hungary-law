@@ -1,6 +1,6 @@
-## A nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató diákigazolvány igénylése[^45]
+## A nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató diákigazolvány igénylése[^50]
 
-13/B. §[^46] (1) A nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató a diákigazolványt az adatkezelő által rendelkezésére bocsátott igénylőlap hiánytalan kitöltésével és annak az adatkezelőhöz történő elküldésével igényelhet. A diákigazolvány igényléséhez be kell nyújtani a tanulói, hallgatói jogviszony kezdetét és várható befejezését, az oktatás munkarendjét igazoló dokumentumot, valamint annak hiteles magyar nyelvű fordítását.
+13/B. §[^51] (1) A nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató a diákigazolványt az adatkezelő által rendelkezésére bocsátott igénylőlap hiánytalan kitöltésével és annak az adatkezelőhöz történő elküldésével igényelhet. A diákigazolvány igényléséhez be kell nyújtani a tanulói, hallgatói jogviszony kezdetét és várható befejezését, az oktatás munkarendjét igazoló dokumentumot, valamint annak hiteles magyar nyelvű fordítását.
 
 (2) A Balassi Intézetben képzésben részt vevő személy diákigazolványt a kiadó intézmény által rendelkezésére bocsátott igénylőlap hiánytalan kitöltésével és annak a kiadó intézmény útján az adatkezelőhöz történő elküldésével igényelhet.
 
@@ -10,5 +10,5 @@
 
 (5) Az (1) és (2) bekezdés szerinti tanuló, hallgató által használt igénylőlaphoz tartozó készpénz-átutalási megbízás egyedi azonosítóval rendelkezik, másik igénylőlaphoz akkor használható fel, ha azt igénylő az egyedi azonosító megadásával jelzi az adatkezelőnek a befizetés igazolás másolatának megküldésével együtt.
 
-[^45]: A 13/B. §-t megelőző alcímet a 180/2011. (IX. 2.) Korm. rendelet 13. §-a iktatta be.
-[^46]: A 13/B. §-t a 180/2011. (IX. 2.) Korm. rendelet 13. §-a iktatta be.
+[^50]: A 13/B. §-t megelőző alcímet a 180/2011. (IX. 2.) Korm. rendelet 13. §-a iktatta be.
+[^51]: A 13/B. §-t a 180/2011. (IX. 2.) Korm. rendelet 13. §-a iktatta be.

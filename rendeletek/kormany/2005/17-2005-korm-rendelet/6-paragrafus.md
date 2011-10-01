@@ -1,6 +1,6 @@
-## 5. §[^21]
+## 5. §[^22]
 
-6. §[^22] (1) A diákigazolvány igénylésével összefüggő adatokat az adatkezelő kezeli.
+6. §[^23] (1) A diákigazolvány igénylésével összefüggő adatokat az adatkezelő kezeli.
 
 (2) Az adatkezelő feladata:
 
@@ -28,5 +28,5 @@ k) a fenti feladatok ellátásához szükséges fejlesztések megvalósítása, 
 
 l) az a)–k) pontba tartozó hatósági feladatok és szolgáltatások folyamatainak minőségfejlesztése, minőségbiztosítása.
 
-[^21]: Az 5. §-t a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés b) pontja hatályon kívül helyezte.
-[^22]: A 6. § a 180/2011. (IX. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^22]: Az 5. §-t a 180/2011. (IX. 2.) Korm. rendelet 25. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^23]: A 6. § a 180/2011. (IX. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
