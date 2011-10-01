@@ -1,6 +1,4 @@
-50. § (1) A Bgatv. 15. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A 9. § az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított (3) bekezdését a hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján a hatálybalépését követően megkötésre kerülő támogatási szerződések vonatkozásában is alkalmazni kell.”
+50. § (1)
 
 (2) A Bgatv. 15. §-a a következő (3) bekezdéssel egészül ki:
 

@@ -16,12 +16,6 @@
 
 (8) Hatályát veszti a Szülőföld Alapról szóló 2005. évi II. törvény módosításáról szóló 2006. évi CXXXIV. törvény.
 
-(9) A Bgatv.
+(9)
 
-a) 6. § (3) bekezdésében a „kezelő szervezete” szövegrész helyébe a „kezelő szerve” szöveg,
-
-b) 11. § (2) bekezdésében és 18. § (1) bekezdés d) pontjában a „kezelő szervezetének” szövegrész helyébe a „kezelő szervének” szöveg
-
-lép.
-
-(10) Nem lép hatályba az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 83. § (30) bekezdése.
+(10)
