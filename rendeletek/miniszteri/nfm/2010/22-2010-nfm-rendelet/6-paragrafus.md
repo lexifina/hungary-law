@@ -1,0 +1,3 @@
+6. § (1) A vasúti járművezetői engedély a kiállítását követő 10 évig hatályos. A vasúti járművezető munkaviszonyának megszűnése a vasúti járművezetői engedély hatályát nem érinti.
+
+(2) A közlekedési hatóság a vasúti járművezetői engedély hatályát kérelemre további 10 évre megújítja, ha az engedély kiadásának feltételei továbbra is fennállnak, és a kérelmező igazolja, hogy a KR. szerinti időszakos vizsgával rendelkezik, valamint 6 hónapnál nem régebben időszakos egészségi alkalmassági vizsgálaton vett részt, amely „alkalmas” minősítéssel zárult. A vasúti járművezetői engedély megújítása iránti eljárásra egyebekben az engedély kiadása iránti eljárásra vonatkozó rendelkezéseket megfelelően alkalmazni kell.

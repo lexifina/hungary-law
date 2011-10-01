@@ -1,0 +1,3 @@
+16. § (1) Ha a vasúti járművezető vitatja a vasúti társaságnak a tanúsítvány kiállításával, megújításával, felfüggesztésével vagy visszavonásával kapcsolatos döntését, úgy az intézkedés vele történt közlését követő 30 napon belül egyeztetést kezdeményezhet a vasúti társasággal. Amennyiben az egyeztetés kezdeményezésétől számított 30 napon belül nem vezet eredményre, kérheti a közlekedési hatóságtól a döntés felülvizsgálatát.
+
+(2) Ha az (1) bekezdés szerinti kérelem alapján a közlekedési hatóság megállapítja, hogy a vasúti társaság intézkedése jogszabályt sért, a vasúti társaságot a jogszerű intézkedés megtételére kötelezi.

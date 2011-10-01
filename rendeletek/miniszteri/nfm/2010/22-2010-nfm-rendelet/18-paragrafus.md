@@ -1,0 +1,5 @@
+18. § (1) Ha a vasúti társaság és a vasúti járművezető közötti munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony (a továbbiakban együtt: jogviszony) megszűnik, a vasúti társaság erről a jogviszony megszűnését követő öt napon belül írásban tájékoztatja a hatóságot.
+
+(2) A vasúti társaság a biztonságirányítási rendszerében meghatározott módon folyamatosan ellenőrzi az általa foglalkoztatott vasúti járművezetők alkalmasságát a munkakör betöltésére. Amennyiben az ellenőrzés eredményei alapján kétségessé válik, hogy a vasúti járművezető teljesíti-e a munkakör betöltésének vagy a vasúti járművezetői engedély vagy a tanúsítvány hatályban tartásának feltételeit, a vasúti társaság erről haladéktalanul értesíti a hatóságot.
+
+(3) Ha a vasúti társaság a KR.-ben foglaltak szerint a vasúti járművezetőt soron kívüli időszakos vizsga letételére kötelezi, vagy az ER.-ben foglaltak szerint a vasúti járművezető soron kívüli egészségi alkalmassági vizsgálatát kezdeményezi, ennek megtörténtéig a vasúti járművezető e munkakörben történő foglalkoztatását felfüggeszti.
