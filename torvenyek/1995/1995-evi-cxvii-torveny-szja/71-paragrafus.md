@@ -2,15 +2,7 @@
 
 71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak
 
-a) személyére és közeli hozzátartozói személyére tekintettel
-
-aa) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve –
-
-vagy
-
-ab) a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből
-
-az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
 b) étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
 
@@ -32,27 +24,11 @@ g) az iskolarendszerű képzési költsége munkáltató által történő átv�
 
 (2) Béren kívüli juttatásnak minősül
 
-a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának
-
-aa) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve –
-
-vagy
-
-ab) a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből
-
-az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
 b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formájában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
 
-c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának
-
-ca) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve –
-
-vagy
-
-cb) üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből
-
-az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
 d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezetekről szóló törvényben foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
 
