@@ -32,7 +32,7 @@ na) a Nemzeti Fejlesztési Ügynökséget,
 
 nb) a Strukturális Alapok Programirodát,
 
-nc)[^263] a Környezetvédelmi Fejlesztési Igazgatóságot,
+nc)[^263]
 
 nd)[^264]
 
@@ -54,7 +54,7 @@ of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
 [^260]: A 85. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^261]: A 85. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^262]: A 85. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^263]: A 85. § n) pont nc) alpontja a 4/2011. (I. 28.) Korm. rendelet 125. § (3) bekezdésével megállapított szöveg. E módosító rendelet 122. § (3) bekezdése alapján a 2011. február 9-ét követően meghirdetett felhívások tekintetében kell alkalmazni. A 85. § n) pont nc) alpontját a 86/2011. (V. 31.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte. [Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján 2011. október 1-jén lép hatályba.]
+[^263]: A 85. § n) pont nc) alpontját a 86/2011. (V. 31.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
 [^264]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
 [^265]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^266]: A 85. § o) pont od) alpontja a 86/2011. (V. 31.) Korm. rendelet 11. §-ával megállapított szöveg.

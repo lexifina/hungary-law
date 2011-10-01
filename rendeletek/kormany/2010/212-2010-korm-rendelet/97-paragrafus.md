@@ -32,7 +32,7 @@ e) az egyes állatgyógyászati termékek előállításáról, törzskönyvezé
 
 f) az állati eredetű termékek és melléktermékek kezeléséről
 
-szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+## szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
 (5)[^313] A miniszter a természetvédelemért való felelőssége, valamint az élelmiszerlánc-felügyeletért való felelőssége körében állat-egészségügyi feladatai keretében felel továbbá az állatok védelméért, e körben előkészíti különösen az állatok védelméről és kíméletéről, valamint az ahhoz kapcsolódó hatósági feladatokról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 

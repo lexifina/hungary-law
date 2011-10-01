@@ -44,6 +44,4 @@ s) kisebbségpolitikáért és
 
 t) romák társadalmi integrációjáért
 
-felelős tagja.
-
 [^37]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

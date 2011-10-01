@@ -1,3 +1,5 @@
+## 79. §[^244]
+
 ## 80. § A miniszter az építésgazdaságért, valamint a lakásgazdálkodásért és lakáspolitikáért való felelőssége körében
 
 a)[^245] előkészíti különösen a lakásügyről, a társasházakról, a lakásszövetkezetről, a lakásokról és az állami lakáscélú támogatásokról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
@@ -16,5 +18,6 @@ g) javaslatot tesz az energia- és anyagtakarékos építési hulladékot újrah
 
 h) működteti a Nemzeti Építésgazdaság-fejlesztési Tanácsot.
 
+[^244]: A 79. §-t a 267/2010. (XII. 3.) Korm. rendelet 41. § (34) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^245]: A 80. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (50) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^246]: A 80. § d) pontja a a 267/2010. (XII. 3.) Korm. rendelet 26. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
