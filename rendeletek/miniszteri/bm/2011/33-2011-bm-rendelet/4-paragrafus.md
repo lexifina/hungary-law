@@ -1,3 +1,0 @@
-## 3. § A BM rendelet 3. § (6) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „(6) Ha a pályázó a pályázatban csatolt nyilatkozatában vállalja, hogy a fejlesztés megvalósításához szükséges munkaerőt legalább részben közfoglalkoztatási jogviszony keretében veszi igénybe, vagy a Kbt. hatálya alá tartozó építési beruházásai során a Kbt. szerint a részszempontok körében értékelhető, a munkanélküli vagy tartósan munkanélküli rétegek foglalkoztatásának a közbeszerzés során megajánlott mértékét mint értékelési szempontot alkalmazza, akkor az EU Önerő Alap támogatás maximális mértéke 5 százalékponttal megemelkedik, kivéve, ha a támogatás mértéke eléri a pályázó saját forrásának 100%-át.”
