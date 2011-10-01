@@ -54,11 +54,11 @@ o) ellát egyes munkaerőpiaci programokkal kapcsolatos feladatokat, amelyek ker
 
 oa) központi munkaerőpiaci programot dolgoz ki, javaslatot tesz munkaerőpiaci programok indítására,
 
-ob)[^6] a miniszter által megadott szempontok alapján irányítja, koordinálja a központi munkaerőpiaci programok végrehajtását, továbbá lebonyolítja a jóváhagyott munkaerőpiaci programokat,
+ob)[^8] a miniszter által megadott szempontok alapján irányítja, koordinálja a központi munkaerőpiaci programok végrehajtását, továbbá lebonyolítja a jóváhagyott munkaerőpiaci programokat,
 
-oc)[^7] véleményezi a munkaügyi központ által indítandó programok tervezetét,
+oc)[^9] véleményezi a munkaügyi központ által indítandó programok tervezetét,
 
-p)[^8]
+p)[^10]
 
 q) szervezi, bonyolítja, illetőleg koordinálja az Európai Unió pénzügyi alapjaiból, illetőleg más külföldi alapokból támogatott egyes foglalkoztatási, képzési és informatikai programok megvalósítását,
 
@@ -70,7 +70,7 @@ t) munkaügyi kutatásokat kezdeményez és végez, valamint
 
 u) koordinálja a munkaügyi központok EU-támogatással megvalósuló tevékenységeit,
 
-v)[^9] koordinálja a munkaügyi központok foglalkoztatási rehabilitációval, továbbá a megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+v)[^11] koordinálja a munkaügyi központok foglalkoztatási rehabilitációval, továbbá a megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal ellátja a szociális partnerek munkaügyi érdekegyeztetésben való részvételéhez szükséges felkészülése támogatásával kapcsolatos feladatokat.
 
@@ -84,7 +84,7 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 
 d) egyéb szervezetekkel.
 
-[^6]: A 4. § (1) bekezdés o) pont ob) alpontja a 111/2011. (VII. 4.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (1) bekezdés o) pont oc) alpontja a 111/2011. (VII. 4.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^8]: A 4. § (1) bekezdés p) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
-[^9]: A 4. § (1) bekezdés v) pontját a 111/2011. (VII. 4.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^8]: A 4. § (1) bekezdés o) pont ob) alpontja a 111/2011. (VII. 4.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés o) pont oc) alpontja a 111/2011. (VII. 4.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés p) pontját a 12. § (2) bekezdése hatályon kívül helyezte.
+[^11]: A 4. § (1) bekezdés v) pontját a 111/2011. (VII. 4.) Korm. rendelet 16. § (1) bekezdése iktatta be.

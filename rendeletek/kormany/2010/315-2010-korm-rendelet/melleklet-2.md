@@ -1,58 +1,84 @@
-## 1. Kiemelt hatáskörrel rendelkező munkaügyi központok és illetékességi területük
+## 1. A megyei munkaügyi központok és illetékességi területük
 
-## 1. Budapest Főváros Kormányhivatala Munkaügyi Központ (Budapest)
+## Budapest Főváros Kormányhivatala Munkaügyi Központ
 
-## Budapest
+## székhelye: Budapest
 
-## Pest megye
+## Baranya Megyei Kormányhivatal Munkaügyi Központja
 
-## 2. Baranya Megyei Kormányhivatal Munkaügyi Központja (Pécs)
+## székhelye: Pécs
 
-## Baranya megye
+## Bács-Kiskun Megyei Kormányhivatal Munkaügyi Központja
 
-## Somogy megye
+## székhelye: Kecskemét
 
-## Tolna megye
+## Békés Megyei Kormányhivatal Munkaügyi Központja
 
-## 3. Békés Megyei Kormányhivatal Munkaügyi Központja (Békéscsaba)
+## székhelye: Békéscsaba
 
-## Bács-Kiskun megye
+## Borsod-Abaúj-Zemplén Megyei Kormányhivatal Munkaügyi Központja
 
-## Békés megye
+## székhelye: Miskolc
 
-## Csongrád megye
+## Csongrád Megyei Kormányhivatal Munkaügyi Központja
 
-## 4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal Munkaügyi Központja (Miskolc)
+## székhelye: Szeged
 
-## Borsod-Abaúj-Zemplén megye
+## Fejér Megyei Kormányhivatal Munkaügyi Központja
 
-## Heves megye
+## székhelye: Székesfehérvár
 
-## Nógrád megye
+## Győr-Moson-Sopron Megyei Kormányhivatal Munkaügyi Központja
 
-## 5. Fejér Megyei Kormányhivatal Munkaügyi Központja (Székesfehérvár)
+## székhelye: Győr
 
-## Fejér megye
+## Hajú-Bihar Megyei Kormányhivatal Munkaügyi Központja
 
-## Komárom-Esztergom megye
+## székhelye: Debrecen
 
-## Veszprém megye
+## Heves Megyei Kormányhivatal Munkaügyi Központja
 
-## 6. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
+## székhelye: Eger
 
-## Jász-Nagykun-Szolnok megye
+## Jász-Nagykun-Szolnok Megyei Kormányhivatal Munkaügyi Központja
 
-## Hajdú-Bihar megye
+## székhelye: Szolnok
 
-## Szabolcs-Szatmár-Bereg megye
+## Komárom-Esztergom Megyei Kormányhivatal Munkaügyi Központja
 
-## 7. Vas Megyei Kormányhivatal Munkaügyi Központja (Szombathely)
+## székhelye: Tatabánya
 
-## Vas megye
+## Nógrád Megyei Kormányhivatal Munkaügyi Központja
 
-## Zala megye
+## székhelye: Salgótarján
 
-## Győr-Moson-Sopron megye.
+## Pest Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Budapest
+
+## Somogy Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Kaposvár
+
+## Szabolcs-Szatmár Bereg Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Nyíregyháza
+
+## Tolna Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Szekszárd
+
+## Vas Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Szombathely
+
+## Veszprém Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Veszprém
+
+## Zala Megyei Kormányhivatal Munkaügyi Központja
+
+## székhelye: Zalaegerszeg
 
 2. melléklet a Nemzeti Foglalkoztatási Szolgálatról szóló 315/2010. (XII. 27.) Korm. rendelethez[^25]
 

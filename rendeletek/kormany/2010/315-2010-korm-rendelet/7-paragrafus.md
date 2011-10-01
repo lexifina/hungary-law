@@ -1,4 +1,6 @@
-7. §[^19] (1) A kirendeltség
+## 6/A. §[^16]
+
+7. §[^17] (1) A kirendeltség
 
 a) a külön jogszabályban meghatározott illetékességi területén ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik a munkaügyi központ megyei szervezetének hatáskörébe,
 
@@ -42,4 +44,5 @@ e) ellenőrzi a közfoglalkoztatási munkavégzés közfoglalkoztatási szerződ
 
 (3) A munkaügyi központ és a kirendeltség szervezeti egységei szabad kapacitásuk kihasználása érdekében foglalkoztatáspolitikai és közfoglalkoztatási feladatokat is elláthatnak.
 
-[^19]: A 7. § a 171/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^16]: A 6/A. §-t a 111/2011. (VII. 4.) Korm. rendelet 16. § (3) bekezdése iktatta be, hatályon kívül helyezte a 196/2011. (IX. 29.) Korm. rendelet 7. §-a.
+[^17]: A 7. § a 171/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.

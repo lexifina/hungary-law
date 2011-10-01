@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdéstől eltérően az 1. mellékletben meghatározott kiemelt hatáskörrel rendelkező munkaügyi központok feladat- és hatáskörei és a feladatellátáshoz kapcsolódó jogviszonyok tekintetében az 1. mellékletben megjelölt székhely szerinti megyei (fővárosi) kormányhivatal tekintendő az alapító okiratokban foglaltak szerint regionális munkaügyi központ jogutódjának.
 
-(4)[^21] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ megyei (fővárosi) szervezete a 2011. január 1-je előtt a jogelőd munkaügyi központ által a Munkaerőpiaci Alap rehabilitációs alaprésze terhére megállapított és folyósított támogatásokkal összefüggésben
+(4)[^19] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ megyei (fővárosi) szervezete a 2011. január 1-je előtt a jogelőd munkaügyi központ által a Munkaerőpiaci Alap rehabilitációs alaprésze terhére megállapított és folyósított támogatásokkal összefüggésben
 
 a) ellenőrzi a támogatások jogszerű felhasználását,
 
@@ -18,7 +18,7 @@ d) kiállítja a nyújtott támogatás biztosítékául szolgáló jelzálogjog 
 
 e) ellátja az alaprész terhére megállapított és folyósított támogatásokkal kapcsolatos pénzügyi és számviteli feladatokat.
 
-(5)[^22] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ megyei (fővárosi) szervezetének (4) bekezdés szerinti feladatai tekintetében a szakmai irányítást a nemzeti erőforrás miniszter látja el.
+(5)[^20] A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ megyei (fővárosi) szervezetének (4) bekezdés szerinti feladatai tekintetében a szakmai irányítást a nemzeti erőforrás miniszter látja el.
 
-[^21]: A 10. § (4) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 16. § (6) bekezdése iktatta be.
-[^22]: A 10. § (5) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^19]: A 10. § (4) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^20]: A 10. § (5) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 16. § (6) bekezdése iktatta be.
