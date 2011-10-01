@@ -68,12 +68,9 @@
 
 ## (4) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a munkaügyi központ megyei (fővárosi) szervezetét jelöli ki.”
 
-(6) Az R7. a következő 13. §-sal egészül ki:
-
-## „13. § (1) 2012. január 1-jén az állami foglalkoztatási szervnél folyamatban lévő közigazgatási ügyekben az a szerv jár el, amelynek hatáskörébe a közigazgatási ügy ellátása e rendelet szerint kerül.
-
-## (2) A kiemelt hatáskörrel és illetékességgel rendelkező munkaügyi központ kirendeltségeinek általános és egyetemes jogutóda azon, e rendelet szerinti hatáskörrel rendelkező munkaügyi központ, amely munkaügyi központ szervezetének a kirendeltség e rendelet szerint a részét képezi.”
+(6)[^3]
 
 (7) Az R7. 1. melléklete helyébe a 10. melléklet lép.
 
 [^2]: A 18. § (5) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^3]: A 18. § (6) bekezdése a 196/2011. (IX. 29.) Korm. rendelet 8. §-a alapján nem lép hatályba.
