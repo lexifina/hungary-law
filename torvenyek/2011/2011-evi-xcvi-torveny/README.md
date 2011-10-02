@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-96-00-00
 | 2011-09-02 | 2010. évi CXXX. törvény | 2011-96-00-00.8 |
 | 2011-09-30 | 2011. évi CXXV. törvény | 2011-96-00-00.9 |
 | 2011-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-96-00-00.10 |
+| 2011-10-02 | 2010. évi CXXX. törvény | 2011-96-00-00.11 |
