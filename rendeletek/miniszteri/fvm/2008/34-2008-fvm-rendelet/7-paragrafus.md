@@ -26,9 +26,11 @@ d) önkormányzat ügyfél esetén az érintett önkormányzat képviselő-test�
 
 e) vízgazdálkodási társulat esetén a beruházással érintett tagok adatait is tartalmazó hatályos létesítő okirat hiteles másolata;
 
-f) az öntözési szolgáltatási igények kielégítésére létrehozott gazdasági társaság és szövetkezet ügyfél esetén az alapító okirat hiteles másolata, valamint az öntözővíz szolgáltatásra feljogosító hatósági engedély hiteles másolata.
+f) az öntözési szolgáltatási igények kielégítésére létrehozott gazdasági társaság és szövetkezet ügyfél esetén az alapító okirat hiteles másolata, valamint az öntözővíz szolgáltatásra feljogosító hatósági engedély hiteles másolata;
 
-(3)[^39] A támogatási kérelemhez a 3. § a) pontjában meghatározott célterület (1. célterület) esetén mellékelni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
+g)[^39] pénzügyi terv.
+
+(3)[^40] A támogatási kérelemhez a 3. § a) pontjában meghatározott célterület (1. célterület) esetén mellékelni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
 
 a) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerint engedélyköteles beruházás esetén
 
@@ -38,13 +40,13 @@ ab) meglévő vízilétesítményre kiadott jogerős üzemeltetési engedélyben
 
 b) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerint nem engedélyköteles beruházás esetén az eljáró hatóság nyilatkozatát, mely szerint a fejlesztés nem engedélyköteles.
 
-(4)[^40] A támogatási kérelemhez a 3. § ba) és bb) pontjaiban megjelölt célterületek (2.1. és 2.2. célterületek) esetén csatolni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
+(4)[^41] A támogatási kérelemhez a 3. § ba) és bb) pontjaiban megjelölt célterületek (2.1. és 2.2. célterületek) esetén csatolni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
 
 a) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerint
 
 aa) engedélyköteles beruházás esetén
 
-1.[^41] a jogerős létesítési vízjogi engedélyt vagy ennek hiányában az eljáró hatóság által kiállított hatósági bizonyítványt a vízkészletek rendelkezésre állásáról;
+1.[^42] a jogerős létesítési vízjogi engedélyt vagy ennek hiányában az eljáró hatóság által kiállított hatósági bizonyítványt a vízkészletek rendelkezésre állásáról;
 
 2. meglévő vízilétesítményre kiadott jogerős üzemeltetési engedélyben meghatározott paraméterekre történő felújítás, rekonstrukció esetében a jogerős üzemeltetési vízjogi engedélyt;
 
@@ -56,47 +58,48 @@ ba) talajvédelmi hatósági engedélyhez kötött tevékenység esetén a talaj
 
 bb) talajvédelmi hatósági engedélyhez nem kötött tevékenység esetén a talajvédelmi hatóság nyilatkozatát, mely szerint hatósági engedély nem szükséges.
 
-(5)[^42] A támogatási kérelemhez a 3. § c) pontjaiban megjelölt célterületek (3.1. és 3.2. célterületek) esetén csatolni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
+(5)[^43] A támogatási kérelemhez a 3. § c) pontjaiban megjelölt célterületek (3.1. és 3.2. célterületek) esetén csatolni kell az alábbi okiratok hiteles másolatát, nyilatkozat esetén az eredeti okiratot:
 
 a) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerint
 
 aa) engedélyköteles beruházás esetén
 
-1.[^43] a jogerős létesítési vízjogi engedélyt vagy ennek hiányában az eljáró hatóság által kiállított hatósági bizonyítványt a felesleges vizek befogadásáról
+1.[^44] a jogerős létesítési vízjogi engedélyt vagy ennek hiányában az eljáró hatóság által kiállított hatósági bizonyítványt a felesleges vizek befogadásáról
 
 2. meglévő vízilétesítményre kiadott jogerős üzemeltetési engedélyben meghatározott paraméterekre történő felújítás, rekonstrukció esetében a jogerős üzemeltetési vízjogi engedélyt;
 
 ab) nem engedélyköteles beruházás esetén az eljáró hatóság nyilatkozatát, mely szerint a fejlesztés nem engedélyköteles;
 
-b)[^44] a Tftv. szerint
+b)[^45] a Tftv. szerint
 
 ba) talajvédelmi hatósági engedélyhez kötött tevékenység esetén a talajvédelmi hatóság engedélyét vagy ennek hiányában a talajvédelmi hatóság nyilatkozatát arról, hogy a beruházás engedélyköteles;
 
 bb) talajvédelmi hatósági engedélyhez nem kötött tevékenység esetén a talajvédelmi hatóság nyilatkozatát, mely szerint hatósági engedély nem szükséges;
 
-bc)[^45] az ingatlanügyi hatósági engedélyhez kötött tevékenység esetén az ingatlanügyi hatóság jogerős engedélyét;
+bc)[^46] az ingatlanügyi hatósági engedélyhez kötött tevékenység esetén az ingatlanügyi hatóság jogerős engedélyét;
 
-bd)[^46] ingatlanügyi hatósági engedélyhez nem kötött tevékenység esetén az ingatlanügyi hatóság nyilatkozatát, mely szerint hatósági engedély nem szükséges.
+bd)[^47] ingatlanügyi hatósági engedélyhez nem kötött tevékenység esetén az ingatlanügyi hatóság nyilatkozatát, mely szerint hatósági engedély nem szükséges.
 
 (6) E jogcím tekintetében, egy ügyfél egy támogatási kérelem benyújtási időszakban egy támogatási kérelmet nyújthat be.
 
-(7)[^47] Azonos fizikai területen egy célterületen belül nem támogatható újabb támogatási kérelem 2007–2013 között. Ez alól kivétel a 3. § a) célterület, azzal a feltétellel, hogy a korábban elvégzett fejlesztéstől/felújítástól eltérő beruházást kíván megvalósítani.
+(7)[^48] Azonos fizikai területen egy célterületen belül nem támogatható újabb támogatási kérelem 2007–2013 között. Ez alól kivétel a 3. § a) célterület, azzal a feltétellel, hogy a korábban elvégzett fejlesztéstől/felújítástól eltérő beruházást kíván megvalósítani.
 
-(8)[^48]
+(8)[^49]
 
-(9)[^49] A művelet a támogatási kérelem benyújtását követően az ügyfél saját felelősségére megkezdhető. A Vhr. 25. § (1) bekezdésétől eltérően, amennyiben a támogatási kérelemben felújítással, korszerűsítéssel járó művelet is szerepel, a kérelemben szereplő műveletek a támogatási kérelem befogadását megelőzően nem kezdhetők meg. Engedélyköteles beruházás megvalósítása csak jogerős engedély(ek) birtokában kezdhető meg.
+(9)[^50] A művelet a támogatási kérelem benyújtását követően az ügyfél saját felelősségére megkezdhető. A Vhr. 25. § (1) bekezdésétől eltérően, amennyiben a támogatási kérelemben felújítással, korszerűsítéssel járó művelet is szerepel, a kérelemben szereplő műveletek a támogatási kérelem befogadását megelőzően nem kezdhetők meg. Engedélyköteles beruházás megvalósítása csak jogerős engedély(ek) birtokában kezdhető meg.
 
 [^36]: A 7. § (1) bekezdése az 59/2011. (VI. 29.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^37]: A 7. § (2) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
 [^38]: A 7. § (2) bekezdés c) pontja a 162/2009. (XI. 26.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg, e módosító rendelet 3. § (3) bekezdése alapján a 2009. november 1-je után benyújtott támogatási kérelmekre is alkalmazni kell.
-[^39]: A 7. § (3) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
-[^40]: A 7. § (4) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
-[^41]: A 7. § (4) bekezdés a) pont aa) alpont 1. alpontja a 23/2010. (III. 16.) FVM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^42]: A 7. § (5) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
-[^43]: A 7. § (5) bekezdés a) pont aa) alpont 1. alpontja a 23/2010. (III. 16.) FVM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^44]: A 7. § (5) bekezdés b) pontja az 59/2011. (VI. 29.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^45]: A 7. § (5) bekezdés b) pont bc) alpontját az 59/2011. (VI. 29.) VM rendelet 6. § (3) bekezdése iktatta be.
-[^46]: A 7. § (5) bekezdés b) pont bd) alpontját az 59/2011. (VI. 29.) VM rendelet 6. § (3) bekezdése iktatta be.
-[^47]: A 7. § (7) bekezdése a 77/2008. (VI. 14.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
-[^48]: A 7. § (8) bekezdését a 77/2008. (VI. 14.) FVM rendelet 6. § (7) bekezdése iktatta be, hatályon kívül helyezte az 59/2011. (VI. 29.) VM rendelet 9. § c) pontja.
-[^49]: A 7. § (9) bekezdését a 77/2008. (VI. 14.) FVM rendelet 6. § (7) bekezdése iktatta be.
+[^39]: A 7. § (2) bekezdés g) pontját a 91/2011. (X. 3.) VM rendelet 13. § (1) bekezdése iktatta be.
+[^40]: A 7. § (3) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
+[^41]: A 7. § (4) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
+[^42]: A 7. § (4) bekezdés a) pont aa) alpont 1. alpontja a 23/2010. (III. 16.) FVM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^43]: A 7. § (5) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 6. §-ával megállapított szöveg.
+[^44]: A 7. § (5) bekezdés a) pont aa) alpont 1. alpontja a 23/2010. (III. 16.) FVM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^45]: A 7. § (5) bekezdés b) pontja az 59/2011. (VI. 29.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^46]: A 7. § (5) bekezdés b) pont bc) alpontját az 59/2011. (VI. 29.) VM rendelet 6. § (3) bekezdése iktatta be.
+[^47]: A 7. § (5) bekezdés b) pont bd) alpontját az 59/2011. (VI. 29.) VM rendelet 6. § (3) bekezdése iktatta be.
+[^48]: A 7. § (7) bekezdése a 77/2008. (VI. 14.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^49]: A 7. § (8) bekezdését a 77/2008. (VI. 14.) FVM rendelet 6. § (7) bekezdése iktatta be, hatályon kívül helyezte az 59/2011. (VI. 29.) VM rendelet 9. § c) pontja.
+[^50]: A 7. § (9) bekezdését a 77/2008. (VI. 14.) FVM rendelet 6. § (7) bekezdése iktatta be.

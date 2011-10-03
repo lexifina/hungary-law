@@ -294,7 +294,7 @@
 
 | 6. | Pénzügyi stabilitás | Pénzügyi stabilitás: (költségvetési hozzájárulások fedezik-e a működési költségeket). Amennyiben a támogatási határozat kézhezvételét követő 3. évben a költségvetési hozzájárulások fedezik a működési költségek 100%-át | 1 |
 
-| 7. | Üzemeltetési vizsgálat | A beruházással érintett mű vízgyűjtő területén a belvízzel veszélyeztetett területek aránya a támogatási határozat kézhezvételét követő harmadik évben hány százalékkal csökken. 10 százalékpontonkénti csökkenésre 2 pont adható, de maximum 8 pont | 8 |
+| 7. | Üzemeltetési vizsgálat | A beruházással érintett mű vízgyűjtő területén a belvízzel veszélyeztetett területek aránya a támogatási határozat kézhezvételét követő harmadik évben hány százalékkal csökken. 10 százalékpontonkénti csökkenésre 2 pont adható, de maximum 10 pont | 10 |
 
 | 8. | Összesen: |  | max. 20 |
 
@@ -384,7 +384,7 @@
 
 | 6. | Összesen: |  | max. 20 |
 
-4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^65]
+4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^66]
 
 Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
@@ -500,4 +500,4 @@ Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
 | 56. | részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével). |
 
-[^65]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be, szövege az 59/2011. (VI. 29.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^66]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be, szövege az 59/2011. (VI. 29.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
