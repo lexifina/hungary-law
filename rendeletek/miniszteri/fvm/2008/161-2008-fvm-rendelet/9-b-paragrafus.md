@@ -1,4 +1,4 @@
-9/B. §[^35] (1) A jóváhagyott Egyéni tervet módosítani kizárólag
+9/B. §[^36] (1) A jóváhagyott Egyéni tervet módosítani kizárólag
 
 a) a borvidéki tervben szereplő fajtára vonatkozóan,
 
@@ -12,4 +12,4 @@ esetében lehet.
 
 (3) Az Egyéni terv módosítása során a változás igazolására vonatkozó dokumentumokat csatolni kell.
 
-[^35]: A 9/B. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^36]: A 9/B. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (2) bekezdése iktatta be.

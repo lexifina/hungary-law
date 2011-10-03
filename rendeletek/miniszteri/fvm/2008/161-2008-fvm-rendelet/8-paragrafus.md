@@ -1,6 +1,6 @@
-## Az Egyéni terv benyújtásának feltételei[^30]
+## Az Egyéni terv benyújtásának feltételei[^31]
 
-8. §[^31] (1) Az Egyéni tervet az MVH által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti nyomtatványon kell benyújtani. Az Egyéni terv az alábbi adatokat tartalmazza:
+8. §[^32] (1) Az Egyéni tervet az MVH által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti nyomtatványon kell benyújtani. Az Egyéni terv az alábbi adatokat tartalmazza:
 
 a) a kérelmező azonosításához szükséges adatok (regisztrációs szám, név, cím, kapcsolattartási információk);
 
@@ -22,5 +22,5 @@ b) haszonélvezeti, özvegyi, vagy végrehajtási joggal terhelt terület eseté
 
 (3) A hegybíró az Egyéni terv ellenjegyzésével egyidejűleg az Egyéni tervben megjelölt terület(ek) vonatkozásában elektronikus úton megküldi a Földmérési és Távérzékelési Intézet részére a VINGIS térkép igénylőlap adatait.
 
-[^30]: A 8. §-t megelőző alcím a 85/2011. (IX. 1.) VM rendelet 6. §-ával megállapított szöveg.
-[^31]: A 8. § a 85/2011. (IX. 1.) VM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 8. §-t megelőző alcím a 85/2011. (IX. 1.) VM rendelet 6. §-ával megállapított szöveg.
+[^32]: A 8. § a 85/2011. (IX. 1.) VM rendelet 6. §-ával megállapított szöveg.

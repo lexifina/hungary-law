@@ -6,7 +6,7 @@
 
 (3) Az Egyéni tervben szerepeltetni kell a hegybíró arra vonatkozó nyilatkozatát, hogy az Egyéni terv megfelel a Borvidéki tervben foglaltaknak.
 
-(4) Az Egyéni tervet a tevékenység megkezdése előtt kell benyújtani egy eredeti példányban postai úton az MVH részére. Egyéni tervet benyújtani 2011. október 1. és 2011. december 15. között lehet. A benyújtás időpontjának az Egyéni terv postára adásának napja minősül.
+(4)[^30] Az Egyéni tervet egy eredeti példányban postai úton kell benyújtani az MVH részére. Egyéni tervet benyújtani 2011. október 1. és 2011. december 15. között lehet. A benyújtás időpontjának az Egyéni terv postára adásának napja minősül.
 
 (5) Egyéni tervet kizárólag érvényes telepítési engedély birtokában lehet benyújtani.
 
@@ -17,3 +17,4 @@
 (8) Egy kérelmező kizárólag egy Egyéni tervet nyújthat be.
 
 [^29]: A 7. § a 85/2011. (IX. 1.) VM rendelet 5. §-ával megállapított szöveg.
+[^30]: A 7. § (4) bekezdése a 90/2011. (X. 3.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.

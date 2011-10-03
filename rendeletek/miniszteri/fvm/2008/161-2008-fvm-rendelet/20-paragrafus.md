@@ -1,8 +1,6 @@
-## 19. §[^49]
-
 ## Kérelem elutasítása
 
-## 20. §[^50] Az MVH a támogatási kérelmet elutasítja, ha
+## 20. §[^53] Az MVH a támogatási kérelmet elutasítja, ha
 
 a) a kérelemben megjelölt tevékenység nem felel meg a jóváhagyott Egyéni tervnek,
 
@@ -20,5 +18,4 @@ g) az ültetvény nem minősül az 1. § j) pontja szerinti ültetvénynek,
 
 h) a helyszíni ellenőrzés során megállapítást nyer, hogy a kérelmező használatában álló ültetvény nem a kérelemben megjelölt helyrajzi számú területen található.
 
-[^49]: A 19. §-t a 85/2011. (IX. 1.) VM rendelet 18. § f) pontja hatályon kívül helyezte.
-[^50]: A 20. § a 85/2011. (IX. 1.) VM rendelet 13. §-ával megállapított szöveg.
+[^53]: A 20. § a 85/2011. (IX. 1.) VM rendelet 13. §-ával megállapított szöveg.

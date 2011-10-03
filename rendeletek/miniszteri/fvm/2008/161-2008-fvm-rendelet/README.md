@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-161-20-
 | 2011-01-14 | 2008-161-20-82.3 | 1/2011. (I. 11.) VM rendelet |
 | 2011-02-19 | 2008-161-20-82.4 | 13/2011. (II. 18.) VM rendelet |
 | 2011-09-02 | 2008-161-20-82.5 | 85/2011. (IX. 1.) VM rendelet |
+| 2011-10-03 | 2008-161-20-82.6 | 90/2011. (X. 3.) VM rendelet |
