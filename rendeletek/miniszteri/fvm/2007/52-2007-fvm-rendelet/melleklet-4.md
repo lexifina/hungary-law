@@ -1,3 +1,3 @@
-4. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^44]
+4. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^55]
 
-[^44]: A 4. számú mellékletet a 151/2007. (XII. 18.) FVM rendelet 5. § (2) bekezdése iktatta be, szövege a 96/2008. (VII. 25.) FVM rendelet 8. §-ával megállapított szöveg.
+[^55]: A 4. számú mellékletet a 151/2007. (XII. 18.) FVM rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 91/2011. (X. 3.) VM rendelet 12. § e) pontja.

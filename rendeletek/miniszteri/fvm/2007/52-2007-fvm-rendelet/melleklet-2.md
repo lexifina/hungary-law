@@ -1,3 +1,5 @@
+## 8M06407M_0
+
 | Azonosító kód | SZAKTANÁCSADÓI SZOLGÁLTATÁSI JEGYZÉK | Célterület a rendelet 3. §-a szerint |
 
 |  | Szántóföldi növénytermesztés |  |
@@ -250,6 +252,6 @@
 
 | Vfc2 | Tevékenység diverzifikálás | (1) c) |
 
-2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^43]
+2. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^53]
 
-[^43]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^53]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
