@@ -16,7 +16,7 @@ f) megvalósulás helyére, valamint
 
 g) a célterület adatlap „támogatás vehető igénybe” pontban felsorolt
 
-## vonatkozó feltételek együttes betartása mellett vehető igénybe.
+vonatkozó feltételek együttes betartása mellett vehető igénybe.
 
 (3) Az egyes célterületek keretében megvalósuló tevékenységek vonatkozásában az elszámolható kiadások körét az illetékes LEADER HACS célterület katalógusa határozza meg, azzal, hogy
 
@@ -43,3 +43,5 @@ bc) kisértékű fejlesztésnél maximum öt speciális kiadást, kivéve a műk
 a) a fejlesztés megvalósítási helye szerint illetékes LEADER HACS célterület katalógusában szereplő célterület-specifikus pontozási szempontokat, továbbá
 
 b) amennyiben a pályázathoz pénzügyi tervet és üzleti tervet vagy működtetési és fenntarthatósági tervet is be kell nyújtani, akkor azok értékelési szempontjait
+
+is figyelembe kell venni.

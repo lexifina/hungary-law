@@ -1,5 +1,3 @@
-## is figyelembe kell venni.
-
 ## 3. Célterületek meghirdetése
 
 7. § (1) Az IH a pályázati felhívásban hirdeti meg a LEADER HACS-ok által jóváhagyott célterületeket.
@@ -12,7 +10,7 @@ a) kis értékű fejlesztések támogatására legfeljebb négy célterületet;
 
 b) komplex fejlesztések támogatására legfeljebb két célterületet
 
-## határozhat meg.
+határozhat meg.
 
 (4) A LEADER HACS célterületei vonatkozásában az igénybe vehető támogatás minimum és maximum összeghatárát forintban határozza meg.
 

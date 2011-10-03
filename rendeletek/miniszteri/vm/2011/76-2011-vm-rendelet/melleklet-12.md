@@ -93,3 +93,5 @@
 ## – terjedelmük a tanulmány 15%-át nem haladhatja meg.
 
 12. melléklet a 76/2011. (VII. 29.) VM rendelethez
+
+A LEADER keretében jogosult települések és azok lakosságszáma (fő)

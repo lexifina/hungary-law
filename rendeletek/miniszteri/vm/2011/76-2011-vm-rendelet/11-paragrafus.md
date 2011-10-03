@@ -16,7 +16,7 @@ f) székhellyel vagy telephellyel rendelkező egyházi jogi személy;
 
 g) székhellyel vagy telephellyel rendelkező nonprofit szervezet, amennyiben a fejlesztés, a közhasznú tevékenységektől eltérő feladat ellátását segíti elő.
 
-(2) Az (1) bekezdés c) pontjától eltérően az önálló tevékenységet végző magánszemély természetes személynek nem kell vállalnia, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát.
+(2)[^6] Az (1) bekezdés c) pontjától eltérően az önálló tevékenységet végző magánszemély természetes személynek, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez 2011-től nyújtandó támogatások részletes feltételeiről szóló VM rendeletben meghatározott falusi szálláshelyet üzemeltető természetes személynek nem kell vállalnia, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát.
 
 (3) Nem jogosult támogatásra a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet szerinti alábbi tevékenységekhez kapcsolódó fejlesztés:
 
@@ -59,3 +59,5 @@ b) nem hátrányos helyzetű területen valósítja meg, akkor az összes elszá
 (8) A Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart.
 
 (9) A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás, fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
+
+[^6]: Az 11. § (2) bekezdése a 90/2011. (X. 3.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

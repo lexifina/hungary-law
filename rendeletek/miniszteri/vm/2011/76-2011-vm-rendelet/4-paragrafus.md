@@ -14,7 +14,7 @@ a) a Gépkatalógusban beazonosítható tételek vonatkozásában a Gépkatalóg
 
 b) az Építési Normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható tételek vonatkozásában az ÉNGY
 
-## szerinti referenciaárat.
+szerinti referenciaárat.
 
 (5) A megítélhető támogatási összeg alapját az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: 1998/2006/EK bizottsági rendelet) képezi. Ennek értelmében a 2. § (1) bekezdés b)–f) pontjában meghatározott jogcímek esetén az e rendelet alapján megítélt támogatás az 1998/2006/EK bizottsági rendelet hatálya alá tartozó szervezetek esetében de minimis támogatásnak minősül; a 2. § (1) bekezdés a) pontjában meghatározott jogcím esetén az e rendelet által támogatott célterületek vonatkozásában ügyfelenként három egymást követő pénzügyi évben a megítélt támogatás összege nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget.
 
