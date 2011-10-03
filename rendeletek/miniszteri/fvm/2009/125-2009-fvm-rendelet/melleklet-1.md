@@ -1,3 +1,5 @@
-## 14. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 30. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 15. §[^6] E rendelet alapján támogatási kérelem nem nyújtható be.
 
 1. melléklet a 125/2009. (IX. 29.) FVM rendelethez
+
+[^6]: A 15. §-t a 91/2011. (X. 3.) VM rendelet 14. § (1) bekezdése iktatta be.

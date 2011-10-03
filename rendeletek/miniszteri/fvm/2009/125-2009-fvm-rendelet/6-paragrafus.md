@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^1] A támogatási kérelmet 2011. október 1. és 31. között, ezt követően évente március 1. és 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) az MVH honlapján közzétett formanyomtatványon.
+6. § (1)[^1]
 
 (2) A támogatási kérelem tartalmi elemei legalább az alábbiak:
 
@@ -48,4 +48,4 @@ akkor hiánypótlásnak helye nincs.
 
 (7) A Vhr. 27. § (3) bekezdésében foglaltaktól eltérően a „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” dokumentumok benyújtása esetén többletpont nem adható.
 
-[^1]: A 6. § (1) bekezdése a 18/2010. (IX. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^1]: A 6. § (1) bekezdését a 91/2011. (X. 3.) VM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
