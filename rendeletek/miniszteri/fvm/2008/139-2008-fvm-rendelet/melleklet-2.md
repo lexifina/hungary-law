@@ -1,1185 +1,1251 @@
-| A képzés |
+|  | A | B | C | D |
 
-| kódszáma | megnevezése | időtartama (45 perces tanóra) |
+| 1. | A képzés |
 
-| elmélet | gyakorlat |
+| 2. | kódszáma | megnevezése | időtartama (45 perces tanóra) |
 
-| 1. célterület: Választható képzések |
+| 3. |  |  | elmélet | gyakorlat |
 
-| Szakképesítést nem adó képzések |
+| 4. | 1. célterület: Választható képzések |
 
-| an1 | Kölcsönös megfeleltetés és a Helyes Mezőgazdasági és Környezeti Állapot követelményei | 22 | – |
+| 5. | Szakképesítést nem adó képzések |
 
-|  | A képzés tartalma: |  |  |
+| 6. | an1 | Kölcsönös megfeleltetés és a Helyes Mezőgazdasági és Környezeti Állapot követelményei | 22 | – |
 
-| 1. Kölcsönös megfeleltetés |
+| 7. |  | A képzés tartalma: |  |  |
 
-| – célja, alapelvei; |
+| 8. |  | 1. Kölcsönös megfeleltetés |  |  |
 
-| – jogszabályi háttere; |
+| 9. |  | – célja, alapelvei; |  |  |
 
-| – a követelmények csoportosítása, általános ismertetésük; |
+| 10. |  | – jogszabályi háttere; |  |  |
 
-| – a követelmények ellenőrzése, jogkövetkezmények; |
+| 11. |  | – a követelmények csoportosítása, általános ismertetésük; |  |  |
 
-| – természetvédelmi követelmények; |
+| 12. |  | – a követelmények ellenőrzése, jogkövetkezmények; |  |  |
 
-| – környezetvédelmi követelmények; |
+| 13. |  | – természetvédelmi követelmények; |  |  |
 
-| – állatjelölés és nyilvántartás. |
+| 14. |  | – környezetvédelmi követelmények; |  |  |
 
-| 2. A Helyes Mezőgazdasági és Környezeti Állapot előírásai |
+| 15. |  | – állatjelölés és nyilvántartás. |  |  |
 
-| 2.1. Európai Uniós jogszabályok rendelkezései, illetve az azoknak való megfelelés. |
+| 16. |  | 2. A Helyes Mezőgazdasági és Környezeti Állapot előírásai |  |  |
 
-| 2.2. Előzmények |
+| 17. |  | 2.1. Európai Uniós jogszabályok rendelkezései, illetve az azoknak való megfelelés. |  |  |
 
-| – a korábbi években alkalmazott HMKÁ előírások; |
+| 18. |  | 2.2. Előzmények |  |  |
 
-| – a változtatás szükségessége. |
+| 19. |  | – a korábbi években alkalmazott HMKÁ előírások; |  |  |
 
-| 2.3. Az új, 2008. évtől alkalmazandó HMKÁ előírásokról általában |
+| 20. |  | – a változtatás szükségessége. |  |  |
 
-| – a szabályozásról; |
+| 21. |  | 2.3. Az új, 2008. évtől alkalmazandó HMKÁ előírásokról általában |  |  |
 
-| – kikre és hol vonatkozik. |
+| 22. |  | – a szabályozásról; |  |  |
 
-| 2.4. Az uniós jogszabályban meghatározott 4 témakör és a hazai 8 HMKÁ előírás ismertetése |
+| 23. |  | – kikre és hol vonatkozik. |  |  |
 
-| – talajerózió elleni védelemre vonatkozó előírások; |
+| 24. |  | 2.4. Az uniós jogszabályban meghatározott 4 témakör és a hazai 8 HMKÁ előírás ismertetése |  |  |
 
-| – a talaj szervesanyag tartalmára vonatkozó előírások; |
+| 25. |  | – talajerózió elleni védelemre vonatkozó előírások; |  |  |
 
-| – talaj szerkezetére vonatkozó előírások; |
+| 26. |  | – a talaj szervesanyag tartalmára vonatkozó előírások; |  |  |
 
-| – minimális művelés szintjének megőrzése. |
+| 27. |  | – talaj szerkezetére vonatkozó előírások; |  |  |
 
-| 3. Az agrárszakigazgatás rendszere |
+| 28. |  | – minimális művelés szintjének megőrzése. |  |  |
 
-| an2 | Az agráriumban előállítható vagy keletkező biomassza hasznosítása és elsődleges feldolgozása | 22 | – |
+| 29. |  | 3. A parlagfű elleni védekezés módszerei |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 30. | an2 | Az agráriumban előállítható vagy keletkező biomassza hasznosítása és elsődleges feldolgozása | 22 | – |
 
-| – az energetikai célú biomassza előállításhoz, elsődleges feldolgozáshoz igényelhető támogatások; |
+| 31. |  | A képzés tartalma: |  |  |
 
-| – lágy szárú energianövények termesztése; |
+| 32. |  | – az energetikai célú biomassza előállításhoz, elsődleges feldolgozáshoz igényelhető támogatások; |  |  |
 
-| – fás szárú energianövények termesztése, és annak jogi szabályozása; |
+| 33. |  | – lágy szárú energianövények termesztése; |  |  |
 
-| – a biomassza begyűjtése, felhasználása, feldolgozása (tüzeléstechnika, pelletálás), különös tekintettel a mezőgazdasági és kistérségi alkalmazásokra; |
+| 34. |  | – fás szárú energianövények termesztése, és annak jogi szabályozása; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 35. |  | – a biomassza begyűjtése, felhasználása, feldolgozása (tüzeléstechnika, pelletálás), különös tekintettel a mezőgazdasági és kistérségi alkalmazásokra; |  |  |
 
-| an3 | Aktuális növényvédelmi ismeretek | 15 | 7 |
+| 36. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 37. | an3 | Aktuális növényvédelmi ismeretek | 15 | 7 |
 
-| Elméleti képzés |
+| 38. |  | A képzés tartalma: |  |  |
 
-| – új növényvédő szerek ismertetése; |
+| 39. |  | Elméleti képzés |  |  |
 
-| – új védekezési módszerek egyes károsítók ellen; |
+| 40. |  | – új növényvédő szerek ismertetése; |  |  |
 
-| – a használatból kivont növényvédő szerek és helyettesítési lehetőségeik; |
+| 41. |  | – új védekezési módszerek egyes károsítók ellen; |  |  |
 
-| – a növényvédelem ökonómiája; |
+| 42. |  | – a használatból kivont növényvédő szerek és helyettesítési lehetőségeik; |  |  |
 
-| – növényvédelmi előrejelzési információk, és azok felhasználása; |
+| 43. |  | – a növényvédelem ökonómiája; |  |  |
 
-| – a növényvédelem környezetvédelmi vonatkozásai; |
+| 44. |  | – növényvédelmi előrejelzési információk, és azok felhasználása; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 45. |  | – a növényvédelem környezetvédelmi vonatkozásai; |  |  |
 
-| Gyakorlati képzés |
+| 46. |  | – a parlagfű elleni védekezés módszerei. |  |  |
 
-| – fontosabb kórképek, kárképek, gyomnövények felismerése; |
+| 47. |  | Gyakorlati képzés |  |  |
 
-| – permetezőgépek beállítása; |
+| 48. |  | – fontosabb kórképek, kárképek, gyomnövények felismerése; |  |  |
 
-| – permetlékészítési, kijuttatási számítások. |
+| 49. |  | – permetezőgépek beállítása; |  |  |
 
-| an4 | Kistermelői élelmiszer előállítás, elsődleges feldolgozás és értékesítés szabályai | 22 | – |
+| 50. |  | – permetlékészítési, kijuttatási számítások. |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 51. | an4 | Kistermelői élelmiszer előállítás, elsődleges feldolgozás és értékesítés szabályai | 22 | – |
 
-| – kistermelői élelmiszer-előállítás, elsődleges feldolgozás és értékesítés jogi szabályozása; |
+| 52. |  | A képzés tartalma: |  |  |
 
-| – élelmiszerhigiénia; |
+| 53. |  | – kistermelői élelmiszer-előállítás, elsődleges feldolgozás és értékesítés jogi szabályozása; |  |  |
 
-| – a termékek csomagolása; |
+| 54. |  | – élelmiszerhigiénia; |  |  |
 
-| – a jogszabályban előírt nyilvántartások vezetése; |
+| 55. |  | – a termékek csomagolása; |  |  |
 
-| – a termékek nyomonkövethetősége; |
+| 56. |  | – a jogszabályban előírt nyilvántartások vezetése; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 57. |  | – a termékek nyomonkövethetősége; |  |  |
 
-| an5 | Talaj-tápanyaggazdálkodási terv készítése | 15 | 7 |
+| 58. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 59. | an5 | Talaj-tápanyaggazdálkodási terv készítése | 15 | 7 |
 
-| Elméleti képzés |
+| 60. |  | A képzés tartalma: |  |  |
 
-| – a növények tápanyagfelvétele; |
+| 61. |  | Elméleti képzés |  |  |
 
-| – a talaj tápanyagmérlege és befolyásoló tényezői; |
+| 62. |  | – a növények tápanyagfelvétele; |  |  |
 
-| – a tápanyaggazdálkodás célja, feladatai, ökonómiai vonatkozásai; |
+| 63. |  | – a talaj tápanyagmérlege és befolyásoló tényezői; |  |  |
 
-| – a tápanyaggazdálkodási terv készítésének elve, lépései; |
+| 64. |  | – a tápanyaggazdálkodás célja, feladatai, ökonómiai vonatkozásai; |  |  |
 
-| – a nitrát-direktíva lényege, betartásának módja; |
+| 65. |  | – a tápanyaggazdálkodási terv készítésének elve, lépései; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 66. |  | – a nitrát-direktíva lényege, betartásának módja; |  |  |
 
-| Gyakorlati képzés |
+| 67. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| – tápanyaggazdálkodási terv készítése. |
+| 68. |  | Gyakorlati képzés |  |  |
 
-| an6 | Agrárvállalkozói ismeretek | 22 | – |
+| 69. |  | – tápanyaggazdálkodási terv készítése. |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 70. | an6 | Agrárvállalkozói ismeretek | 22 | – |
 
-| 1. A vállalkozás (kisvállalat) stratégiai tervezése |
+| 71. |  | A képzés tartalma: |  |  |
 
-| – a stratégia kialakításának folyamata; |
+| 72. |  | 1. A vállalkozás (kisvállalat) stratégiai tervezése |  |  |
 
-| – a cég tőkeköltségvetése; |
+| 73. |  | – a stratégia kialakításának folyamata; |  |  |
 
-| – beruházási változatok értékelése, beruházási döntés; |
+| 74. |  | – a cég tőkeköltségvetése; |  |  |
 
-| – a kisvállalkozás életére ható kockázati tényezők, kockázatmenedzselés. |
+| 75. |  | – beruházási változatok értékelése, beruházási döntés; |  |  |
 
-| 2. A vállalkozás működtetése |
+| 76. |  | – a kisvállalkozás életére ható kockázati tényezők, kockázatmenedzselés. |  |  |
 
-| – az üzlet finanszírozása; |
+| 77. |  | – humánerőforrás (szakmai végzettségek) |  |  |
 
-| – költséggazdálkodás, költségelemzés; |
+| 78. |  | 2. A vállalkozás működtetése |  |  |
 
-| – a vállalati hozamok mérése, elemzése; |
+| 79. |  | – az üzlet finanszírozása; |  |  |
 
-| – egyszerűsített mérleg, eredménykimutatás; |
+| 80. |  | – költséggazdálkodás, költségelemzés; |  |  |
 
-| – a nyereség növelésének lehetőségei a mezőgazdasági termelésben; |
+| 81. |  | – a vállalati hozamok mérése, elemzése; |  |  |
 
-| – főbb pénzügyi mutatók képzése. |
+| 82. |  | – egyszerűsített mérleg, eredménykimutatás; |  |  |
 
-| 3. Üzleti terv készítése |
+| 83. |  | – a nyereség növelésének lehetőségei a mezőgazdasági termelésben; |  |  |
 
-| 4. Adózási ismeretek |
+| 84. |  | – főbb pénzügyi mutatók képzése. |  |  |
 
-| 5. Társadalombiztosítás |
+| 85. |  | 3. Üzleti terv készítése |  |  |
 
-| 6. Az agrárszakigazgatás rendszere |
+| 86. |  | 4. Adózási ismeretek |  |  |
 
-| an7 | Ökológiai gazdálkodás | 22 | – |
+| 87. |  | 5. Társadalombiztosítás |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 88. |  | 6. Az agrárszakigazgatás rendszere |  |  |
 
-| – az ökológiai gazdálkodás fogalma, célja, alapelvei; |
+| 89. | an7 | Ökológiai gazdálkodás | 22 | – |
 
-| – az ökológiai növénytermesztés jellemző technológiai elemei; |
+| 90. |  | A képzés tartalma: |  |  |
 
-| – az ökológiai állattenyésztés jellemző technológiai elemei; |
+| 91. |  | – az ökológiai gazdálkodás fogalma, célja, alapelvei; |  |  |
 
-| – az ökológiai kertészet jellemző technológiai elemei; |
+| 92. |  | – az ökológiai növénytermesztés jellemző technológiai elemei; |  |  |
 
-| – átállás az ökológiai gazdálkodásra; |
+| 93. |  | – az ökológiai állattenyésztés jellemző technológiai elemei; |  |  |
 
-| – ökológiai gazdálkodáshoz igénybe vehető támogatások; |
+| 94. |  | – az ökológiai kertészet jellemző technológiai elemei; |  |  |
 
-| – az ökológiai gazdálkodás jogszabályi háttere; |
+| 95. |  | – átállás az ökológiai gazdálkodásra; |  |  |
 
-| – a biotermékek értékesítési lehetőségei; |
+| 96. |  | – ökológiai gazdálkodáshoz igénybe vehető támogatások; |  |  |
 
-| – az ökológiai gazdálkodás ökonómiája; |
+| 97. |  | – az ökológiai gazdálkodás jogszabályi háttere; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 98. |  | – a biotermékek értékesítési lehetőségei; |  |  |
 
-| an8 | Termékértékesítés lehetőségei, termelői csoportok alakítása, helyi termékek értékesítése | 22 | – |
+| 99. |  | – az ökológiai gazdálkodás ökonómiája; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 100. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| – termelői csoportok formái, alakításuk lépései; |
+| 101. | an8 | Termékértékesítés lehetőségei, termelői csoportok alakítása, helyi termékek értékesítése | 22 | – |
 
-| – piacrajutási lehetőségek; |
+| 102. |  | A képzés tartalma: |  |  |
 
-| – a helyi termékek marketingje, értékesítési lehetőségei; |
+| 103. |  | – termelői csoportok formái, alakításuk lépései; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 104. |  | – piacrajutási lehetőségek; |  |  |
 
-| an9 | Alkalmazott számítástechnika, alapfokú számítógép-kezelői ismeretek gazdálkodók számára. Szaktanácsadási szolgáltatások igénybevétele | 8 | 30 |
+| 105. |  | – a helyi termékek marketingje, értékesítési lehetőségei; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 106. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| Elméleti képzés: |
+| 107. | an9 | Alkalmazott számítástechnika, alapfokú számítógép-kezelői ismeretek gazdálkodók számára. Szaktanácsadási szolgáltatások igénybevétele | 8 | 30 |
 
-| – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |
+| 108. |  | A képzés tartalma: |  |  |
 
-| – a Word és az Internet alapszintű ismertetése; |
+| 109. |  | Elméleti képzés: |  |  |
 
-| – a szaktanácsadási szolgáltatások igénybevétele. |
+| 110. |  | – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |  |  |
 
-| Gyakorlati képzés: |
+| 111. |  | – a Word és az Internet alapszintű ismertetése; |  |  |
 
-| – a Word használata; |
+| 112. |  | – a szaktanácsadási szolgáltatások igénybevétele. |  |  |
 
-| – az Internet használata (gazdálkodók számára hasznos honlapokról információszerzés); |
+| 113. |  | Gyakorlati képzés: |  |  |
 
-| – elektronikus levelezés. |
+| 114. |  | – a Word használata; |  |  |
 
-| an10 | Jó Mezőgazdasági Gyakorlat | 15 | 7 |
+| 115. |  | – az Internet használata (gazdálkodók számára hasznos honlapokról információszerzés); |  |  |
 
-|  | A képzés tartalma |  |  |
+| 116. |  | – elektronikus levelezés. |  |  |
 
-| Elméleti képzés: |
+| 117. | an10 | Jó Mezőgazdasági Gyakorlat | 15 | 7 |
 
-| – a mezőgazdaság és környezet viszonya, alkalmazott mezőgazdasági gyakorlatok, EU és hazai szabályozási rendszer, az EMVA tengelyei; |
+| 118. |  | A képzés tartalma |  |  |
 
-| – a Jó Mezőgazdasági Gyakorlat (JMGy) helye a termesztési rendszerekben; |
+| 119. |  | Elméleti képzés: |  |  |
 
-| – a JMGy alkalmazása a növénytermesztésben; |
+| 120. |  | – a mezőgazdaság és környezet viszonya, alkalmazott mezőgazdasági gyakorlatok, EU és hazai szabályozási rendszer, az EMVA tengelyei; |  |  |
 
-| – termőterület kiválasztása, vetésforgó, fajtakiválasztás; |
+| 121. |  | – a Jó Mezőgazdasági Gyakorlat (JMGy) helye a termesztési rendszerekben; |  |  |
 
-| – talajművelés, trágyázás, öntözés; |
+| 122. |  | – a JMGy alkalmazása a növénytermesztésben; |  |  |
 
-| – növényvédelem, hulladékanyagok kezelése; |
+| 123. |  | – termőterület kiválasztása, vetésforgó, fajtakiválasztás; |  |  |
 
-| – betakarítás és betakarítás utáni kezelések; |
+| 124. |  | – talajművelés, trágyázás, öntözés; |  |  |
 
-| – élelmiszer- és takarmánybiztonság, a termékek nyomonkövetése; |
+| 125. |  | – növényvédelem, hulladékanyagok kezelése; |  |  |
 
-| – a JMGy alkalmazása az állattenyésztésben, általános követelmények, telephely, az állomány nyomonkövetése, nyilvántartási rendszerek; |
+| 126. |  | – betakarítás és betakarítás utáni kezelések; |  |  |
 
-| – takarmányozás, takarmánygyártás és tárolás, állatjólét, állatszállítás; |
+| 127. |  | – élelmiszer- és takarmánybiztonság, a termékek nyomonkövetése; |  |  |
 
-| – a JMGy és a mezőgazdasági minőségbiztosítási rendszerek kapcsolata; |
+| 128. |  | – a JMGy alkalmazása az állattenyésztésben, általános követelmények, telephely, az állomány nyomonkövetése, nyilvántartási rendszerek; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 129. |  | – takarmányozás, takarmánygyártás és tárolás, állatjólét, állatszállítás; |  |  |
 
-| Gyakorlati képzés: |
+| 130. |  | – a JMGy és a mezőgazdasági minőségbiztosítási rendszerek kapcsolata; |  |  |
 
-| – helyzetelemzések, gyakorlati kivitelezések. |
+| 131. |  | – a parlagfű elleni védekezés módszerei. |  |  |
 
-| an11 | Az integrált növénytermesztés, gyümölcstermesztés technológiája | 15 | 7 |
+| 132. |  | Gyakorlati képzés: |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 133. |  | – helyzetelemzések, gyakorlati kivitelezések. |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 134. | an11 | Az integrált növénytermesztés, gyümölcstermesztés technológiája | 15 | 7 |
 
-| Elméleti képzés: |
+| 135. |  | A képzés tartalma: |  |  |
 
-| Általános rész: |
+| 136. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| – az integrált gazdálkodás fogalma; |
+| 137. |  | Elméleti képzés: |  |  |
 
-| – az integrált növénytermesztés hazai szabályozása; |
+| 138. |  | Általános rész: |  |  |
 
-| – integrált növénytermesztési célprogramok; |
+| 139. |  | – az integrált gazdálkodás fogalma; |  |  |
 
-| – az integrált növénytermesztés feltételrendszere; |
+| 140. |  | – az integrált növénytermesztés hazai szabályozása; |  |  |
 
-| – az integrált növénytermesztés jelentősebb elemei. |
+| 141. |  | – integrált növénytermesztési célprogramok; |  |  |
 
-| Speciális rész: |
+| 142. |  | – az integrált növénytermesztés feltételrendszere; |  |  |
 
-| – integrált szántóföldi növénytermesztés; |
+| 143. |  | – az integrált növénytermesztés jelentősebb elemei. |  |  |
 
-| – integrált zöldségtermesztés; |
+| 144. |  | Speciális rész: |  |  |
 
-| – integrált gyümölcstermesztés. |
+| 145. |  | – integrált szántóföldi növénytermesztés; |  |  |
 
-| Gyakorlati képzés: |
+| 146. |  | – integrált zöldségtermesztés; |  |  |
 
-| Gazdálkodási naplóban a |
+| 147. |  | – integrált gyümölcstermesztés. |  |  |
 
-| – műveleti lapok kitöltése; |
+| 148. |  | Gyakorlati képzés: |  |  |
 
-| – növényvédelmi előrejelzési adatlap kitöltése; |
+| 149. |  | Gazdálkodási naplóban a |  |  |
 
-| – permetezési napló kitöltése. |
+| 150. |  | – műveleti lapok kitöltése; |  |  |
 
-| an12 | A fás szárú energiaültetvények telepítése és kezelése | 22 | – |
+| 151. |  | – növényvédelmi előrejelzési adatlap kitöltése; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 152. |  | – permetezési napló kitöltése. |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 153. | an12 | A fás szárú energiaültetvények telepítése és kezelése | 22 | – |
 
-| – fás szárú energiaültetvények telepítésére vonatkozó jogszabályok; |
+| 154. |  | A képzés tartalma: |  |  |
 
-| – a fás szárú energianövények termesztéstechnológiája, betakarítása, tárolása; |
+| 155. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |
+| 156. |  | – fás szárú energiaültetvények telepítésére vonatkozó jogszabályok; |  |  |
 
-| an13 | Élelmiszerbiztonsági ismeretek gazdálkodók részére | 22 | – |
+| 157. |  | – a fás szárú energianövények termesztéstechnológiája, betakarítása, tárolása; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 158. |  | – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |  |  |
 
-| – az élelmiszerbiztonság fogalma, jelentősége; |
+| 159. | an13 | Élelmiszerbiztonsági ismeretek gazdálkodók részére | 22 | – |
 
-| – biztosításának lehetőségei a termőföldtől a fogyasztó asztaláig; |
+| 150. |  | A képzés tartalma: |  |  |
 
-| – élelmiszerek minősége, mikrobiológiai minősége, meghatározó tényezői; |
+| 151. |  | – az élelmiszerbiztonság fogalma, jelentősége; |  |  |
 
-| – alap- és adalékanyagok minősége, a késztermék minőségére gyakorolt hatása; |
+| 152. |  | – biztosításának lehetőségei a termőföldtől a fogyasztó asztaláig; |  |  |
 
-| – élelmiszerek biztonságos előállítása, csomagolása, tárolása, szállítása, értékesítése; |
+| 153. |  | – élelmiszerek minősége, mikrobiológiai minősége, meghatározó tényezői; |  |  |
 
-| – nyomon követés biztosítása az egész termékpályán; |
+| 154. |  | – alap- és adalékanyagok minősége, a késztermék minőségére gyakorolt hatása; |  |  |
 
-| – romlást okozó tényezők, élelmiszer-fertőzés, ételmérgezés okai, következményei, megelőzési lehetőségek; |
+| 155. |  | – élelmiszerek biztonságos előállítása, csomagolása, tárolása, szállítása, értékesítése; |  |  |
 
-| – élelmiszer-előállítás higiéniája, személyi higiénia jelentősége, biztosításának lehetőségei az élelmiszer-előállításban, HACCP; |
+| 156. |  | – nyomon követés biztosítása az egész termékpályán; |  |  |
 
-| – génmódosított élelmiszerrel kapcsolatos információk; |
+| 157. |  | – romlást okozó tényezők, élelmiszer-fertőzés, ételmérgezés okai, következményei, megelőzési lehetőségek; |  |  |
 
-| – a kistermelői élelmiszer előállítás és forgalmazás jogi szabályozása; |
+| 158. |  | – élelmiszer-előállítás higiéniája, személyi higiénia jelentősége, biztosításának lehetőségei az élelmiszer-előállításban, HACCP; |  |  |
 
-| – fogyasztóvédelem célja, feladata, jelentősége, biztosításának lehetőségei; |
+| 159. |  | – génmódosított élelmiszerrel kapcsolatos információk; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 160. |  | – a kistermelői élelmiszer előállítás és forgalmazás jogi szabályozása; |  |  |
 
-| an14 | Erdőgazdálkodás | 22 | – |
+| 161. |  | – fogyasztóvédelem célja, feladata, jelentősége, biztosításának lehetőségei; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 162. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| – az erdőgazdálkodás keretrendszerét jelentő jogszabályi környezet ismertetése; |
+| 163. | an14 | Erdőgazdálkodás | 22 | – |
 
-| – az erdő, mint ökoszisztéma; |
+| 164. |  | A képzés tartalma: |  |  |
 
-| – alapfokú dendrológiai ismeretek; |
+| 165. |  | – az erdőgazdálkodás keretrendszerét jelentő jogszabályi környezet ismertetése; |  |  |
 
-| – az erdőgazdálkodás fenntarthatósága; |
+| 166. |  | – az erdő, mint ökoszisztéma; |  |  |
 
-| – erdőgazdálkodói szervezeti formák; |
+| 167. |  | – alapfokú dendrológiai ismeretek; |  |  |
 
-| – erdőgazdálkodó hatósági nyilvántartásba vétele; |
+| 168. |  | – az erdőgazdálkodás fenntarthatósága; |  |  |
 
-| – erdészeti szakszemélyzet alkalmazása; |
+| 169. |  | – erdőgazdálkodói szervezeti formák; |  |  |
 
-| – erdőtervezés; |
+| 170. |  | – erdőgazdálkodó hatósági nyilvántartásba vétele; |  |  |
 
-| – erdőnevelési, fakitermelési módok ismertetése; |
+| 171. |  | – erdészeti szakszemélyzet alkalmazása; |  |  |
 
-| – erdőfelújítás; |
+| 172. |  | – erdőtervezés; |  |  |
 
-| – az erdőgazdálkodási tevékenység hatósági engedélyezése; |
+| 173. |  | – erdőnevelési, fakitermelési módok ismertetése; |  |  |
 
-| – erdőtelepítés; |
+| 174. |  | – erdőfelújítás; |  |  |
 
-| – természetközeli erdőgazdálkodási módszerek ismertetése; |
+| 175. |  | – az erdőgazdálkodási tevékenység hatósági engedélyezése; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 176. |  | – erdőtelepítés; |  |  |
 
-| an15 | Vízgazdálkodás, belvízvédelem, melioráció (gazdákat érintő területe), Víz Keretirányelv fő követelményei | 22 | – |
+| 177. |  | – természetközeli erdőgazdálkodási módszerek ismertetése; |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 178. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| 1. Melioráció, mezőgazdasági vízgazdálkodás természeti tényezői |
+| 179. | an15 | Vízgazdálkodás, belvízvédelem, melioráció (gazdákat érintő területe), Víz Keretirányelv fő követelményei | 22 | – |
 
-| – időjárás-változás, változékonyság Magyarországon; |
+| 180. |  | A képzés tartalma: |  |  |
 
-| – időjárási szélsőségek; |
+| 181. |  | 1. Melioráció, mezőgazdasági vízgazdálkodás természeti tényezői |  |  |
 
-| – a klímaváltozás történelmi vonatkozásai. |
+| 182. |  | – időjárás-változás, változékonyság Magyarországon; |  |  |
 
-| 2. A mezőgazdasági termelés kettős veszélyeztetettsége |
+| 183. |  | – időjárási szélsőségek; |  |  |
 
-| 3. Aszály |
+| 184. |  | – a klímaváltozás történelmi vonatkozásai. |  |  |
 
-| – történelmi aszályos időszakok; |
+| 185. |  | 2. A mezőgazdasági termelés kettős veszélyeztetettsége |  |  |
 
-| – aszálykárok; |
+| 186. |  | 3. Aszály |  |  |
 
-| – az aszály enyhítésének lehetőségei. |
+| 187. |  | – történelmi aszályos időszakok; |  |  |
 
-| 4. Melioráció és az öntözés kapcsolata |
+| 188. |  | – aszálykárok; |  |  |
 
-| – melioráció; |
+| 189. |  | – az aszály enyhítésének lehetőségei. |  |  |
 
-| – a melioráció összetevői; |
+| 190. |  | 4. Melioráció és az öntözés kapcsolata |  |  |
 
-| – hatósági engedélyek; |
+| 191. |  | – melioráció; |  |  |
 
-| – a meliorációs tervek talajvédelmi szempontból történő megítélése; |
+| 192. |  | – a melioráció összetevői; |  |  |
 
-| – a melioráció kivitelezése. |
+| 193. |  | – hatósági engedélyek; |  |  |
 
-| 5. Vízgazdálkodás |
+| 194. |  | – a meliorációs tervek talajvédelmi szempontból történő megítélése; |  |  |
 
-| – víz Keretirányelv hazai végrehajtása; |
+| 195. |  | – a melioráció kivitelezése. |  |  |
 
-| – vízkárelhárítás, belvízvédelem; |
+| 196. |  | 5. Vízgazdálkodás |  |  |
 
-| = belvíz által veszélyeztetett területek; |
+| 197. |  | – víz Keretirányelv hazai végrehajtása; |  |  |
 
-| = erózió által veszélyeztetett területek; |
+| 198. |  | – vízkárelhárítás, belvízvédelem; |  |  |
 
-| = belvízvédekezéssel kapcsolatos főbb teendők; |
+| 199. |  | = belvíz által veszélyeztetett területek; |  |  |
 
-| = belvízvédekezés szervezeti rendje. |
+| 200. |  | = erózió által veszélyeztetett területek; |  |  |
 
-| 6. Agrárstratégiánk |
+| 201. |  | = belvízvédekezéssel kapcsolatos főbb teendők; |  |  |
 
-| 7. Az uniós csatlakozásból adódó lehetőségeink |
+| 202. |  | = belvízvédekezés szervezeti rendje. |  |  |
 
-| 8. Az agrárszakigazgatás rendszere |
+| 203. |  | 6. Agrárstratégiánk |  |  |
 
-| an16 | Közvetlen kifizetések az SPS rendszerben, aktuális földügyi és birtokrendezési kérdések | 22 | – |
+| 204. |  | 7. Az uniós csatlakozásból adódó lehetőségeink |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 205. |  | 8. Az agrárszakigazgatás rendszere |  |  |
 
-| 1. Az SPS rendszer |
+| 206. | an16 | Közvetlen kifizetések az SPS rendszerben, aktuális földügyi és birtokrendezési kérdések | 22 | – |
 
-| 2. Aktuális földügyi és birtokrendezési kérdések |
+| 207. |  | A képzés tartalma: |  |  |
 
-| – a termőföld tulajdonjogának megszerzése; |
+| 208. |  | 1. Az SPS rendszer |  |  |
 
-| – a birtokrendezés eszközei; |
+| 209. |  | 2. Aktuális földügyi és birtokrendezési kérdések |  |  |
 
-| – a termőföld használata és a földhasználati nyilvántartás; |
+| 210. |  | – a termőföld tulajdonjogának megszerzése; |  |  |
 
-| – a termőföldet érintő hasznosítási kötelezettség és a parlagfű-mentesítés; |
+| 211. |  | – a birtokrendezés eszközei; |  |  |
 
-| – a termőföld más célú hasznosítása. |
+| 212. |  | – a termőföld használata és a földhasználati nyilvántartás; |  |  |
 
-| 3. Az agrárszakigazgatás rendszere |
+| 213. |  | – a termőföldet érintő hasznosítási kötelezettség és a parlagfű-mentesítés; |  |  |
 
-| an17 | Vadgazdálkodási ismeretek | 22 | – |
+| 214. |  | – a termőföld más célú hasznosítása. |  |  |
 
-|  | A képzés tartalma: |  |  |
+| 215. |  | 3. Az agrárszakigazgatás rendszere |  |  |
 
-| – a vadgazdálkodás jogszabályi keretei; |
+| 216. | an17 | Vadgazdálkodási ismeretek | 22 | – |
 
-| – vadgazdálkodási célú élőhelyfejlesztés és az ÚMVP kapcsolata; |
+| 217. |  | A képzés tartalma: |  |  |
 
-| – apróvad-gazdálkodási alapismeretek; |
+| 218. |  | – a vadgazdálkodás jogszabályi keretei; |  |  |
 
-| – az agrárszakigazgatás rendszere. |
+| 219. |  | – vadgazdálkodási célú élőhelyfejlesztés és az ÚMVP kapcsolata; |  |  |
 
-| an18 | Borpiaci ismeretek | 15 | 7 |
+| 220. |  | – apróvad-gazdálkodási alapismeretek; |  |  |
 
-|  | A képzés tartalma |  |  |
+| 221. |  | – az agrárszakigazgatás rendszere. |  |  |
 
-| – világpiaci és hazai trendek a borpiac alakulásában |
+| 222. | an18 | Borpiaci ismeretek | 15 | 7 |
 
-| – a szőlő-bor ágazat hazai intézményrendszere |
+| 223. |  | A képzés tartalma |  |  |
 
-| – új borpiaci szabályozás az EU-ban |
+| 224. |  | – világpiaci és hazai trendek a borpiac alakulásában |  |  |
 
-| – szőlő-bor ágazati támogatások |
+| 225. |  | – a szőlő-bor ágazat hazai intézményrendszere |  |  |
 
-| – borkészítés és forgalomba hozatal szabályai |
+| 226. |  | – új borpiaci szabályozás az EU-ban |  |  |
 
-| – szőlő- és bortermelői adatszolgáltatási kötelezettségek |
+| 227. |  | – szőlő-bor ágazati támogatások |  |  |
 
-| – az eredetmegjelölés szabályai, termékleírások |
+| 228. |  | – borkészítés és forgalomba hozatal szabályai |  |  |
 
-| – a kölcsönös megfeleltetés szőlészeti vonatkozásai |
+| 229. |  | – szőlő- és bortermelői adatszolgáltatási kötelezettségek |  |  |
 
-| an19 | Mezőgazdasági szállítás, anyagmozgatás speciális esetei | 14 | – |
+| 230. |  | – az eredetmegjelölés szabályai, termékleírások |  |  |
 
-|  | A képzés tartalma |  |  |
+| 231. |  | – a kölcsönös megfeleltetés szőlészeti vonatkozásai |  |  |
 
-| – a megengedett össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének feltételei |
+| 232. | an19 | Mezőgazdasági szállítás, anyagmozgatás speciális esetei | 16 | 6 |
 
-| – az üzemanyag és mezőgazdasági vegyszer szállítására vonatkozó általános előírások |
+| 233. |  | A képzés tartalma |  |  |
 
-| – a főbb veszélyek |
+| 234. |  | – a megengedett össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének feltételei |  |  |
 
-| – a különböző veszélytípusoknak megfelelő megelőző és biztonsági intézkedések |
+| 235. |  | – az üzemanyag és mezőgazdasági vegyszer szállítására vonatkozó általános előírások |  |  |
 
-| – a járművek és a küldeménydarabok jelölése |
+| 236. |  | – a főbb veszélyek |  |  |
 
-| – a be- és kirakodás, valamint a szállítás során alkalmazandó óvintézkedések |
+| 237. |  | – a különböző veszélytípusoknak megfelelő megelőző és biztonsági intézkedések |  |  |
 
-| – a rendkívüli esemény során alkalmazandó magatartási szabályok, a tűzoltó készülék használata |
+| 238. |  | – a járművek és a küldeménydarabok jelölése |  |  |
 
-| OKJ szerinti szakképesítések |
+| 239. |  | – a be- és kirakodás, valamint a szállítás során alkalmazandó óvintézkedések |  |  |
 
-| ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, amit az FVM VKSZI a képzési projektterv felülvizsgálata során ellenőriz |
+| 240. |  | – a rendkívüli esemény során alkalmazandó magatartási szabályok, a tűzoltó készülék használata |  |  |
 
-| ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |  |
+| 241. | an 20 | Természetközeli gazdálkodás | 22 | – |
 
-| ao3 | 31 521 19 0010 31 03 Elágazás: Kertészeti gép kezelő |
+| 242. |  | A képzés tartalma |  |  |
 
-| ao4 | 31 521 19 0010 31 04 Elágazás: Majorgép-kezelő |
+| 243. |  | 1. Általános ismeretek a természetvédelemről |  |  |
 
-| ao5 | 31 521 19 0010 31 06 Elágazás: Mezőgazdasági erő- és munkagépkezelő |
+| 244. |  | – természetvédelmi alapismeretek; |  |  |
 
-| ao6 | 31 521 19 0010 31 07 Elágazás: Mezőgazdasági rakodógép kezelő |
+| 245. |  | – a mezőgazdaság kulcsszerepe a környezet- és természetvédelemben; |  |  |
 
-| ao7 | 31 521 19 0010 31 09 Elágazás: Növényvédelmi gépkezelő |
+| 246. |  | – a hazai természetvédelem működése; |  |  |
 
-| ao8 | 31 521 19 0010 31 10 Elágazás: Önjáró betakarítógép kezelője |
+| 247. |  | – Nemzeti Parkjaink, gazdálkodás a NP-ok területén; |  |  |
 
-| ao9 | 54 621 04 0100 31 02 Részszakképesítés: Növényvédő és méregraktár-kezelő |
+| 248. |  | – Magyarország védett állatai és növényei; |  |  |
 
-| ao10 | 31 623 01 0100 21 03 Részszakképesítés: Motorfűrész-kezelő |
+| 249. |  | – gyógynövény és gombaismeret. |  |  |
 
-| ao11 | 31 623 01 0100 31 03 Részszakképesítés: Fakitermelő |
+| 250. |  | 2. Környezetkímélő gyepgazdálkodás |  |  |
 
-| ao12 | 31 621 05 0000 Méhész |
+| 251. |  | 3. A vadkár megelőzése, csökkentése a mezőgazdaságban |  |  |
 
-| ao13 | 31 622 01 0010 31 03 Szőlőtermesztő |
+| 252. |  | 4. Környezetvédelmi bevallási kötelezettségek, bevallások készítése |  |  |
 
-| ao14 | 31 521 20 0100 31 01 Állattenyésztési gépüzemeltető, gépkarbantartó |
+| 253. | an 21 | Pályázatírási ismeretek | 22 | – |
 
-| ao15 | 31 521 20 0100 31 04 Növénytermesztési gépüzemeltető, gépkarbantartó |
+| 254. |  | A képzés tartalma: |  |  |
 
-| ao16 | 54 625 01 0100 31 01 Vadász, vadtenyésztő |
+| 255. |  | – EU források, EU alapok |  |  |
 
-| ao17 | 31 621 04 0000 00 00 Lótartó és -tenyésztő |
+| 256. |  | – A projekt fogalma, felépítése, projekt menedzsment |  |  |
 
-| ao18 | 31 621 04 0001 31 01 Belovagló |
+| 257. |  | – Üzleti terv szerepe a pályázatírásban |  |  |
 
-| ao19 | 52 621 01 0100 31 01 Bioállat-tartó és tenyésztő |
+| 258. |  | – Tervezési technikák |  |  |
 
-| ao20 | 52 621 01 0100 31 02 Biomassza-előállító |
+| 259. |  | – Pályázatok formai és tartalmi követelményei |  |  |
 
-| ao21 | 52 621 01 0100 31 03 Bio-növénytermesztő |
+| 260. |  | – Közbenső ellenőrzések |  |  |
 
-| ao22 | 52 621 01 0100 33 01 Ökogazda |
+| 261. |  | – Pályázatírási praktikák |  |  |
 
-| ao23 | 33 521 02 0000 00 00 Élelmiszeripari gépsor- és rendszerüzemeltető |
+| 262. |  | – Pályázatok bírálata, döntéshozatal |  |  |
 
-| ao24 | 33 521 02 0100 31 02 Részszakképesítés: Csomagológép-kezelő |
+| 263. |  | – A sikeres pályázatok megvalósítása, elszámolások, beszámolók |  |  |
 
-| ao25 | 33 521 02 0100 31 04 Részszakképesítés: Élelmiszeripari gépkezelő |
+| 264. | OKJ szerinti szakképesítések |
 
-| ao26 | 33 521 02 0100 31 05 Részszakképesítés: Élelmiszeripari készülék kezelője |
+| 265. | ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, amit a VM VKSZI a képzési projektterv felülvizsgálata során ellenőriz |
 
-| ao27 | 33 521 02 0100 31 06 Részszakképesítés: Növényolaj-gyártógép kezelője |
+| 266. | ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |  |  |
 
-| ao28 | 33 521 02 0100 21 01 Részszakképesítés: Palackozógép-kezelő |
+| 267. | ao3 | 31 521 19 0010 31 03 Elágazás: Kertészeti gép kezelő |  |  |
 
-| ao29 | 33 521 04 0000 00 00 Erdőgazdasági gépkezelő |
+| 268. | ao4 | 31 521 19 0010 31 04 Elágazás: Majorgép-kezelő |  |  |
 
-| ao30 | 33 521 04 0100 31 01 Részszakképesítés: Erdészeti felkészítőgép kezelője |
+| 269. | ao5 | 31 521 19 0010 31 06 Elágazás: Mezőgazdasági erő- és munkagépkezelő |  |  |
 
-| ao31 | 33 521 04 0100 31 02 Részszakképesítés: Erdészeti kötélpálya kezelője |
+| 270. | ao6 | 31 521 19 0010 31 07 Elágazás: Mezőgazdasági rakodógép kezelő |  |  |
 
-| ao32 | 33 521 04 0100 31 03 Részszakképesítés: Erdészeti közelítőgép kezelője |
+| 271. | ao7 | 31 521 19 0010 31 09 Elágazás: Növényvédelmi gépkezelő |  |  |
 
-| ao33 | 33 521 04 0100 31 04 Részszakképesítés: Erdészeti rakodógép kezelője |
+| 272. | ao8 | 31 521 19 0010 31 10 Elágazás: Önjáró betakarítógép kezelője |  |  |
 
-| ao34 | 33 521 04 0100 31 05 Részszakképesítés: Többfunkciós fakitermelőgép kezelője |
+| 273. | ao9 | 54 621 04 0100 31 02 Részszakképesítés: Növényvédő és méregraktár-kezelő |  |  |
 
-| ao35 | 54 525 02 0010 54 01 Elágazás: Erdőgazdasági gépésztechnikus |
+| 274. | ao10 | 31 623 01 0100 21 03 Részszakképesítés: Motorfűrész-kezelő |  |  |
 
-| ao36 | 54 525 02 0010 54 02 Elágazás: Mezőgazdasági gépésztechnikus |
+| 275. | ao11 | 31 623 01 0100 31 03 Részszakképesítés: Fakitermelő |  |  |
 
-| ao37 | 33 215 02 0000 00 00 Virágkötő, -berendező, virágkereskedő |
+| 276. | ao12 | 31 621 05 0000 00 00 Méhész |  |  |
 
-| ao38 | 33 215 02 0000 01 00 Részszakképesítés: Virágbolti eladó |
+| 277. | ao13 | 31 622 01 0010 31 03 Szőlőtermesztő |  |  |
 
-| ao39 | 33 215 02 0100 33 01 Részszakképesítés: Virágdekoratőr |
+| 278. | ao14 | 31 521 20 0010 31 01 Állattenyésztési gépüzemeltető, gépkarbantartó |  |  |
 
-| ao40 | 33 215 02 0100 33 02 Részszakképesítés: Virágkereskedő |
+| 279. | ao15 | 31 521 20 0010 31 04 Növénytermesztési gépüzemeltető, gépkarbantartó |  |  |
 
-| ao41 | 33 215 02 0100 31 02 Részszakképesítés: Virágkötő |
+| 280. | ao16 | 54 625 01 0100 31 01 Vadász, vadtenyésztő |  |  |
 
-| ao42 | 31 521 01 0010 31 01 Elágazás: Erdészeti gépszerelő, gépjavító |
+| 281. | ao17 | 31 621 04 0000 00 00 Lótartó és -tenyésztő |  |  |
 
-| ao43 | 31 521 01 0010 31 02 Elágazás: Kertészeti gépszerelő, gépjavító |
+| 282. | ao18 | 31 621 04 0001 31 01 Belovagló |  |  |
 
-| ao44 | 31 521 01 0010 31 03 Elágazás: Mezőgazdasági gépszerelő, gépjavító |
+| 283. | ao19 | 52 621 01 0100 31 01 Bioállat-tartó és tenyésztő |  |  |
 
-| ao45 | 31 521 01 0001 33 01 Ráépülő szakképesítés: Dieseladagoló-javító |
+| 284. | ao20 | 52 621 01 0100 31 02 Biomasszaelőállító |  |  |
 
-| ao46 | 31 521 01 0001 33 02 Ráépülő szakképesítés: Erő- és munkagépjavító |
+| 285. | ao21 | 52 621 01 0100 31 03 Bionövény-termesztő |  |  |
 
-| ao47 | 31 521 01 0001 33 03 Ráépülő szakképesítés: Hidraulika-javító |
+| 286. | ao22 | 52 621 01 0100 33 01 Ökogazda |  |  |
 
-| ao48 | 31 521 01 0001 33 04 Ráépülő szakképesítés: Járműelektromos szerelő |
+| 287. | ao23 | 33 521 02 0000 00 00 Élelmiszeripari gépsor- és rendszerüzemeltető |  |  |
 
-| ao49 | 54 621 02 0010 54 02 Mezőgazdasági technikus |
+| 288. | ao24 | 33 521 02 0100 31 02 Részszakképesítés: Csomagológép-kezelő |  |  |
 
-| ao50 | 54 621 02 0010 54 03 Vidékfejlesztési technikus |
+| 289. | ao25 | 33 521 02 0100 31 04 Részszakképesítés: Élelmiszeripari gépkezelő |  |  |
 
-| ao51 | 31 621 01 0100 21 01 Részszakképesítés: Állattartó-telepi munkás |
+| 290. | ao26 | 33 521 02 0100 31 05 Részszakképesítés: Élelmiszeripari készülék kezelője |  |  |
 
-| ao52 | 31 621 01 0010 31 03 Elágazás: Haszonállat-gondozó |
+| 291. | ao27 | 33 521 02 0100 31 06 Részszakképesítés: Növényolaj-gyártógép kezelője |  |  |
 
-| ao53 | 31 621 03 0010 31 01 Elágazás: Állattenyésztő (baromfi és kisállat) |
+| 292. | ao28 | 33 521 02 0100 21 01 Részszakképesítés: Palackozógép-kezelő |  |  |
 
-| ao54 | 31 621 03 0010 31 02 Elágazás: Állattenyésztő (juh és kecske) |
+| 293. | ao29 | 33 521 04 0000 00 00 Erdőgazdasági gépkezelő |  |  |
 
-| ao55 | 31 621 03 0010 31 03 Elágazás: Állattenyésztő (sertés) |
+| 294. | ao30 | 33 521 04 0100 31 01 Részszakképesítés: Erdészeti felkészítőgép kezelője |  |  |
 
-| ao56 | 31 621 03 0010 31 04 Elágazás: Állattenyésztő (szarvasmarha) |
+| 295. | ao31 | 33 521 04 0100 31 02 Részszakképesítés: Erdészeti kötélpálya kezelője |  |  |
 
-| ao57 | 54 621 03 0100 33 01 Részszakképesítés: Állatorvosi, állategészségügyi szaksegéd |
+| 296. | ao32 | 33 521 04 0100 31 03 Részszakképesítés: Erdészeti közelítőgép kezelője |  |  |
 
-| ao58 | 54 621 03 0010 54 01 Elágazás: Állategészségügyi technikus |
+| 297. | ao33 | 33 521 04 0100 31 04 Részszakképesítés: Erdészeti rakodógép kezelője |  |  |
 
-| ao59 | 54 621 03 0010 54 02 Elágazás: Állattenyésztő technikus |
+| 298. | ao34 | 33 521 04 0100 31 05 Részszakképesítés: Többfunkciós fakitermelőgép kezelője |  |  |
 
-| ao60 | 33 622 01 0100 21 01 Részszakképesítés: Faiskolai munkás |
+| 299. | ao35 | 54 525 02 0010 54 01 Elágazás: Erdőgazdasági gépésztechnikus |  |  |
 
-| ao61 | 33 622 01 0100 31 01 Részszakképesítés: Faiskolai termesztő |
+| 300. | ao36 | 54 525 02 0010 54 02 Elágazás: Mezőgazdasági gépésztechnikus |  |  |
 
-| ao62 | 33 622 01 0100 31 03 Részszakképesítés: Növényházi dísznövénytermesztő |
+| 301. | ao37 | 33 215 02 0000 00 00 Virágkötő, -berendező, virágkereskedő |  |  |
 
-| ao63 | 33 622 01 0100 31 04 Részszakképesítés: Szabadföldi dísznövénytermesztő |
+| 302. | ao38 | 33 215 02 0100 31 01 Részszakképesítés: Virágbolti eladó |  |  |
 
-| ao64 | 31 623 01 0100 31 01 Részszakképesítés: Erdészeti növényvédő |
+| 303. | ao39 | 33 215 02 0100 33 01 Részszakképesítés: Virágdekoratőr |  |  |
 
-| ao65 | 31 623 01 0100 21 02 Részszakképesítés: Erdőművelő |
+| 304. | ao40 | 33 215 02 0100 33 02 Részszakképesítés: Virágkereskedő |  |  |
 
-| ao66 | 31 623 01 0100 31 02 Részszakképesítés: Erdőőr |
+| 305. | ao41 | 33 215 02 0100 31 02 Részszakképesítés: Virágkötő |  |  |
 
-| ao67 | 54 581 01 0100 51 01 Részszakképesítés: Digitálistérkép-kezelő |
+| 306. | ao42 | 31 521 01 0010 31 01 Elágazás: Erdészeti gépszerelő, gépjavító |  |  |
 
-| ao68 | 54 581 01 0100 51 03 Részszakképesítés: Földügyi számítógépes adatkezelő |
+| 307. | ao43 | 31 521 01 0010 31 02 Elágazás: Kertészeti gépszerelő, gépjavító |  |  |
 
-| ao69 | 54 581 01 0100 52 01 Részszakképesítés: Ingatlan-nyilvántartási ügyintéző |
+| 308. | ao44 | 31 521 01 0010 31 03 Elágazás: Mezőgazdasági gépszerelő, gépjavító |  |  |
 
-| ao70 | 54 581 01 0010 54 01 Elágazás: Földmérő és térinformatikai technikus |
+| 309. | ao45 | 31 521 01 0001 33 01 Ráépülő szakképesítés: Dieseladagoló-javító |  |  |
 
-| ao71 | 54 581 01 0010 54 02 Elágazás: Térképésztechnikus |
+| 310. | ao46 | 31 521 01 0001 33 02 Ráépülő szakképesítés: Erő- és munkagépjavító |  |  |
 
-| ao72 | 54 581 01 0001 54 01 Ráépülő szakképesítés: Földügyi térinformatikai szaktechnikus |
+| 311. | ao47 | 31 521 01 0001 33 03 Ráépülő szakképesítés: Hidraulika-javító |  |  |
 
-| ao73 | 54 581 01 0001 54 02 Ráépülő szakképesítés: Kataszteri szaktechnikus |
+| 312. | ao48 | 31 521 01 0001 33 04 Ráépülő szakképesítés: Járműelektromos szerelő |  |  |
 
-| ao74 | 33 621 02 1000 00 00 Gazda |
+| 313. | ao49 | 54 621 02 0010 54 02 Mezőgazdasági technikus |  |  |
 
-| ao75 | 33 621 02 0100 21 01 Részszakképesítés: Ezüstkalászos gazda |
+| 314. | ao50 | 54 621 02 0010 54 03 Vidékfejlesztési technikus |  |  |
 
-| ao76 | 33 621 02 0100 21 02 Részszakképesítés: Mezőgazdasági munkás |
+| 315. | ao51 | 31 621 01 0100 21 01 Részszakképesítés: Állattartó-telepi munkás |  |  |
 
-| ao77 | 31 624 01 0001 31 01 Ráépülő szakképesítés: Elektromos halászgép kezelője |
+| 316. | ao52 | 31 621 01 0010 31 03 Elágazás: Haszonállat-gondozó |  |  |
 
-| ao78 | 51 621 01 0000 00 00 Hobbiállat-tenyésztő és -forgalmazó |
+| 317. | ao53 | 31 621 03 0010 31 01 Elágazás: Állattenyésztő (baromfi és kisállat) |  |  |
 
-| ao79 | 31 641 01 Inszeminátor |
+| 318. | ao54 | 31 621 03 0010 31 02 Elágazás: Állattenyésztő (juh és kecske) |  |  |
 
-| ao80 | 31 641 01 0010 31 01 Elágazás: Inszeminátor (baromfi és kisállat) |
+| 319. | ao55 | 31 621 03 0010 31 03 Elágazás: Állattenyésztő (sertés) |  |  |
 
-| ao81 | 31 641 01 0010 31 02 Elágazás: Inszeminátor (juh és kecske) |
+| 320. | ao56 | 31 621 03 0010 31 04 Elágazás: Állattenyésztő (szarvasmarha) |  |  |
 
-| ao82 | 31 641 01 0010 31 03 Elágazás: Inszeminátor (ló) |
+| 321. | ao57 | 54 621 03 0100 33 01 Részszakképesítés: Állatorvosi, állategészségügyi szaksegéd |  |  |
 
-| ao83 | 31 641 01 0010 31 04 Elágazás: Inszeminátor (sertés) |
+| 322. | ao58 | 54 621 03 0010 54 01 Elágazás: Állategészségügyi technikus |  |  |
 
-| ao84 | 31 641 01 0010 31 05 Elágazás: Inszeminátor (szarvasmarha) |
+| 323. | ao59 | 54 621 03 0010 54 02 Elágazás: Állattenyésztő technikus |  |  |
 
-| ao85 | 31 622 01 Kertész |
+| 324. | ao60 | 33 622 01 0100 21 01 Részszakképesítés: Faiskolai munkás |  |  |
 
-| ao86 | 31 622 01 0100 21 01 Részszakképesítés: Fűszernövény-termesztő |
+| 325. | ao61 | 33 622 01 0100 31 01 Részszakképesítés: Faiskolai termesztő |  |  |
 
-| ao87 | 31 622 01 0100 21 02 Részszakképesítés: Gombatermesztő |
+| 326. | ao62 | 33 622 01 0100 31 03 Részszakképesítés: Növényházi dísznövénytermesztő |  |  |
 
-| ao88 | 31 622 01 0100 21 03 Részszakképesítés: Gyógynövénytermesztő |
+| 327. | ao63 | 33 622 01 0100 31 04 Részszakképesítés: Szabadföldi dísznövénytermesztő |  |  |
 
-| ao89 | 31 622 01 0100 21 04 Részszakképesítés: Kerti munkás |
+| 328. | ao64 | 31 623 01 0100 31 01 Részszakképesítés: Erdészeti növényvédő |  |  |
 
-| ao90 | 31 622 01 0010 31 02 Elágazás: Gyümölcstermesztő |
+| 329. | ao65 | 31 623 01 0100 21 02 Részszakképesítés: Erdőművelő |  |  |
 
-| ao91 | 31 622 01 0010 31 04 Elágazás: Zöldségtermesztő |
+| 330. | ao66 | 31 623 01 0100 31 02 Részszakképesítés: Erdőőr |  |  |
 
-| ao92 | 31 621 04 0100 31 01 Részszakképesítés: Lóápoló és gondozó |
+| 331. | ao67 | 54 581 01 0100 51 01 Részszakképesítés: Digitálistérkép-kezelő |  |  |
 
-| ao93 | 31 621 05 0100 21 01 Részszakképesítés: Méhészeti munkás |
+| 332. | ao68 | 54 581 01 0100 51 03 Részszakképesítés: Földügyi számítógépes adatkezelő |  |  |
 
-| ao94 | 31 521 19 0010 31 01 Elágazás: Fejő- és tejkezelőgép kezelője |
+| 333. | ao69 | 54 581 01 0100 52 01 Részszakképesítés: Ingatlan-nyilvántartási ügyintéző |  |  |
 
-| ao95 | 31 521 19 0010 31 02 Elágazás: Keltetőgép kezelő |
+| 334. | ao70 | 54 581 01 0010 54 01 Elágazás: Földmérő és térinformatikai technikus |  |  |
 
-| ao96 | 31 521 19 0010 31 05 Elágazás: Meliorációs, kert- és parképítőgép kezelő |
+| 335. | ao71 | 54 581 01 0010 54 02 Elágazás: Térképésztechnikus |  |  |
 
-| ao97 | 31 521 19 0010 31 08 Elágazás: Mezőgazdasági szárítóüzemi gépkezelő |
+| 336. | ao72 | 54 581 01 0001 54 01 Ráépülő szakképesítés: Földügyi térinformatikai szaktechnikus |  |  |
 
-| ao98 | 35 521 20 0010 31 02 Elágazás: Erdészeti gépüzemeltető, gépkarbantartó |
+| 337. | ao73 | 54 581 01 0001 54 02 Ráépülő szakképesítés: Kataszteri szaktechnikus |  |  |
 
-| ao99 | 35 521 20 0010 31 03 Elágazás: Kertészeti gépüzemeltető, gépkarbantartó |
+| 338. | ao74 | 33 621 02 1000 00 00 Gazda |  |  |
 
-| ao100 | 33 521 06 0010 33 01 Elágazás: Mezőgazdasági munkagépjavító kovács |
+| 339. | ao75 | 33 621 02 0100 21 01 Részszakképesítés: Ezüstkalászos gazda |  |  |
 
-| ao101 | 33 521 06 0010 33 02 Elágazás: Patkolókovács |
+| 340. | ao76 | 33 621 02 0100 21 02 Részszakképesítés: Mezőgazdasági munkás |  |  |
 
-| ao102 | 54 621 04 Növénytermesztési, kertészeti és növényvédelmi technikus |
+| 341. | ao77 | 31 624 01 0001 31 01 Ráépülő szakképesítés: Elektromos halászgép kezelője |  |  |
 
-| ao103 | 54 621 04 0100 31 01 Részszakképesítés: Növénytermesztő |
+| 342. | ao78 | 51 621 01 0000 00 00 Hobbiállat-tenyésztő és -forgalmazó |  |  |
 
-| ao104 | 54 621 04 0100 31 03 Részszakképesítés: Vetőmagtermesztő |
+| 343. | ao79 | 52 812 02 0000 00 00 Lovastúra-vezető |  |  |
 
-| ao105 | 54 621 04 0010 54 01 Elágazás: Kertész és növényvédelmi technikus |
+| 344. | ao80 | 31 641 01 0010 31 01 Elágazás: Inszeminátor (baromfi és kisállat) |  |  |
 
-| ao106 | 54 621 04 0010 54 02 Elágazás: Növénytermesztő és növényvédelmi technikus |
+| 345. | ao81 | 31 641 01 0010 31 02 Elágazás: Inszeminátor (juh és kecske) |  |  |
 
-| ao107 | 54 622 01 0000 00 00 Parképítő és -fenntartó technikus |
+| 346. | ao82 | 31 641 01 0010 31 03 Elágazás: Inszeminátor (ló) |  |  |
 
-| ao108 | 54 622 01 0100 33 01 Részszakképesítés: Kertépítő |
+| 347. | ao83 | 31 641 01 0010 31 04 Elágazás: Inszeminátor (sertés) |  |  |
 
-| ao109 | 54 622 01 0100 31 02 Részszakképesítés: Kertfenntartó |
+| 348. | ao84 | 31 641 01 0010 31 05 Elágazás: Inszeminátor (szarvasmarha) |  |  |
 
-| ao110 | 54 622 01 0100 21 01 Részszakképesítés: Parkgondozó |
+| 349. | ao85 | 31 622 01 Kertész |  |  |
 
-| ao111 | 54 622 01 0100 31 03 Részszakképesítés: Temetőkertész |
+| 350. | ao86 | 31 622 01 0100 21 01 Részszakképesítés: Fűszernövénytermesztő |  |  |
 
-| ao112 | 54 625 01 0000 00 00 Vadgazdálkodási technikus |
+| 351. | ao87 | 31 622 01 0100 21 02 Részszakképesítés: Gombatermesztő |  |  |
 
-| ao113 | 33 621 01 0000 00 00 Borász |
+| 352. | ao88 | 31 622 01 0100 21 03 Részszakképesítés: Gyógynövénytermesztő |  |  |
 
-| ao114 | 33 621 01 0100 21 01 Részszakképesítés: Pincemunkás |
+| 353. | ao89 | 31 622 01 0100 21 04 Részszakképesítés: Kerti munkás |  |  |
 
-| ao115 | 33 621 01 0001 33 01 Ráépülő szakképesítés: Sommelier (borpincér) |
+| 354. | ao90 | 31 622 01 0010 31 02 Elágazás: Gyümölcstermesztő |  |  |
 
-| ao116 | 33 621 01 0001 51 01 Ráépülő szakképesítés: Vincellér |
+| 355. | ao91 | 31 622 01 0010 31 04 Elágazás: Zöldségtermesztő |  |  |
 
-| ao117 | 54 541 01 0010 54 01 Elágazás: Bor- és pezsgőgyártó technikus |
+| 356. | ao92 | 31 621 04 0100 31 01 Részszakképesítés: Lóápoló és gondozó |  |  |
 
-| ao118 | 54 541 01 0010 54 05 Elágazás: Élelmiszer-higiénikus |
+| 357. | ao93 | 31 621 05 0100 21 01 Részszakképesítés: Méhészeti munkás |  |  |
 
-| ao119 | 54 541 01 0010 54 06 Elágazás: Erjedés- és üdítőitalipari technikus |
+| 358. | ao94 | 31 521 19 0010 31 01 Elágazás: Fejő- és tejkezelőgép kezelője |  |  |
 
-| ao120 | 54 541 01 0010 54 07 Elágazás: Hús- és baromfiipari technikus |
+| 359. | ao95 | 31 521 19 0010 31 02 Elágazás: Keltetőgép kezelő |  |  |
 
-| ao121 | 54 541 01 0010 54 08 Elágazás: Malom- és keveréktakarmány-ipari technikus |
+| 360. | ao96 | 31 521 19 0010 31 05 Elágazás: Meliorációs, kert- és parképítőgép kezelő |  |  |
 
-| ao122 | 54 541 01 0010 54 09 Elágazás: Sütő- és cukrászipari technikus |
+| 361. | ao97 | 31 521 19 0010 31 08 Elágazás: Mezőgazdasági szárítóüzemi gépkezelő |  |  |
 
-| ao123 | 54 541 01 0010 54 10 Elágazás: Tartósítóipari technikus |
+| 362. | ao98 | 35 521 20 0010 31 02 Elágazás: Erdészeti gépüzemeltető, gépkarbantartó |  |  |
 
-| ao124 | 54 541 01 0010 54 11 Elágazás: Tejipari technikus |
+| 363. | ao99 | 35 521 20 0010 31 03 Elágazás: Kertészeti gépüzemeltető, gépkarbantartó |  |  |
 
-| ao125 | 33 541 02 0100 31 02 Részszakképesítés: Gyümölcspálinka-gyártó |
+| 364. | ao100 | 33 521 06 0010 33 01 Elágazás: Mezőgazdasági munkagépjavító kovács |  |  |
 
-| ao126 | 33 541 02 0100 31 04 Részszakképesítés: Sörgyártó |
+| 365. | ao101 | 33 521 06 0010 33 02 Elágazás: Patkolókovács |  |  |
 
-| ao127 | 33 541 02 0100 33 01 Részszakképesítés: Szesz- és szeszesitalgyártó |
+| 366. | ao102 | 52 621 01 1000 00 00 Agrárkörnyezetgazda |  |  |
 
-| ao128 | 33 541 02 0100 31 05 Részszakképesítés: Szikvízgyártó |
+| 367. | ao103 | 54 621 04 0100 31 01 Részszakképesítés: Növénytermesztő |  |  |
 
-| ao129 | 33 541 02 0100 31 06 Részszakképesítés: Üdítőital- és ásványvízgyártó |
+| 368. | ao104 | 54 621 04 0100 31 03 Részszakképesítés: Vetőmagtermesztő |  |  |
 
-| ao130 | 31 541 01 1000 00 00 Húsipari termékgyártó |
+| 369. | ao105 | 54 621 04 0010 54 01 Elágazás: Kertész és növényvédelmi technikus |  |  |
 
-| ao131 | 31 541 01 0100 21 01 Részszakképesítés: Baromfifeldolgozó |
+| 370. | ao106 | 54 621 04 0010 54 02 Elágazás: Növénytermesztő és növényvédelmi technikus |  |  |
 
-| ao132 | 31 541 01 0100 31 01 Részszakképesítés: Bolti hentes |
+| 371. | ao107 | 54 622 01 0000 00 00 Parképítő és -fenntartó technikus |  |  |
 
-| ao133 | 31 541 01 0100 21 03 Részszakképesítés: Csontozó munkás |
+| 372. | ao108 | 54 622 01 0100 33 01 Részszakképesítés: Kertépítő |  |  |
 
-| ao134 | 31 541 01 0100 21 04 Részszakképesítés: Halfeldolgozó |
+| 373. | ao109 | 54 622 01 0100 31 02 Részszakképesítés: Kertfenntartó |  |  |
 
-| ao135 | 31 541 01 0100 31 02 Részszakképesítés: Szárazáru készítő |
+| 374. | ao110 | 54 622 01 0100 21 01 Részszakképesítés: Parkgondozó |  |  |
 
-| ao136 | 31 541 01 0100 21 05 Részszakképesítés: Vágóhídi munkás |
+| 375. | ao111 | 54 622 01 0100 31 03 Részszakképesítés: Temetőkertész |  |  |
 
-| ao137 | 33 541 03 0000 00 00 Molnár |
+| 376. | ao112 | 54 625 01 0000 00 00 Vadgazdálkodási technikus |  |  |
 
-| ao138 | 33 541 03 0100 31 01 Részszakképesítés: Keveréktakarmány-gyártó |
+| 377. | ao113 | 33 621 01 0000 00 00 Borász |  |  |
 
-| ao139 | 33 541 04 0000 00 00 Pék |
+| 378. | ao114 | 33 621 01 0100 21 01 Részszakképesítés: Pincemunkás |  |  |
 
-| ao140 | 33 541 04 0100 21 01 Részszakképesítés: Gyorspékségi sütő és eladó |
+| 379. | ao115 | 33 621 01 0001 33 01 Ráépülő szakképesítés: Sommelier (borpincér) |  |  |
 
-| ao141 | 33 541 04 0100 21 02 Részszakképesítés: Sütőipari munkás |
+| 380. | ao116 | 33 621 01 0001 51 01 Ráépülő szakképesítés: Vincellér |  |  |
 
-| ao142 | 33 541 04 0100 21 03 Részszakképesítés: Száraztésztagyártó |
+| 381. | ao117 | 54 541 01 0010 54 01 Elágazás: Bor- és pezsgőgyártó technikus |  |  |
 
-| ao143 | 33 541 05 1000 00 00 Pék-cukrász |
+| 382. | ao118 | 54 541 01 0010 54 05 Elágazás: Élelmiszer-higiénikus |  |  |
 
-| ao144 | 33 541 05 0100 21 01 Részszakképesítés: Mézeskalács-készítő |
+| 383. | ao119 | 54 541 01 0010 54 06 Elágazás: Erjedés- és üdítőitalipari technikus |  |  |
 
-| ao145 | 33 541 06 0000 00 00 Tartósítóipari termékgyártó |
+| 384. | ao120 | 54 541 01 0010 54 07 Elágazás: Hús- és baromfiipari technikus |  |  |
 
-| ao146 | 33 541 06 0100 21 01 Részszakképesítés: Gyümölcsfeldolgozó |
+| 385. | ao121 | 54 541 01 0010 54 08 Elágazás: Malom- és keveréktakarmány-ipari technikus |  |  |
 
-| ao147 | 33 541 06 0100 21 02 Részszakképesítés: Hűtőipari munkás |
+| 386. | ao122 | 54 541 01 0010 54 09 Elágazás: Sütő- és cukrászipari technikus |  |  |
 
-| ao148 | 33 541 06 0100 31 01 Részszakképesítés: Konzervgyártó |
+| 387. | ao123 | 54 541 01 0010 54 10 Elágazás: Tartósítóipari technikus |  |  |
 
-| ao149 | 33 541 06 0100 31 02 Részszakképesítés: Növényolajgyártó |
+| 388. | ao124 | 54 541 01 0010 54 11 Elágazás: Tejipari technikus |  |  |
 
-| ao150 | 33 541 06 0100 21 03 Részszakképesítés: Olajütő |
+| 389. | ao125 | 33 541 02 0100 31 02 Részszakképesítés: Gyümölcspálinka-gyártó |  |  |
 
-| ao151 | 33 541 06 0100 21 04 Részszakképesítés: Savanyító |
+| 390. | ao126 | 33 541 02 0100 31 04 Részszakképesítés: Sörgyártó |  |  |
 
-| ao152 | 33 541 06 0100 21 05 Részszakképesítés: Zöldségfeldolgozó |
+| 391. | ao127 | 33 541 02 0100 33 01 Részszakképesítés: Szesz- és szeszesitalgyártó |  |  |
 
-| ao153 | 33 541 07 0100 21 01 Részszakképesítés: Elsődleges tejkezelő |
+| 392. | ao128 | 33 541 02 0100 31 05 Részszakképesítés: Szikvízgyártó |  |  |
 
-| ao154 | 33 541 07 0100 31 01 Részszakképesítés: Friss és tartós tejtermékek gyártója |
+| 393. | ao129 | 33 541 02 0100 31 06 Részszakképesítés: Üdítőital- és ásványvízgyártó |  |  |
 
-| ao155 | 33 541 07 0100 31 02 Részszakképesítés: Sajtkészítő |
+| 394. | ao130 | 31 541 01 1000 00 00 Húsipari termékgyártó |  |  |
 
-| ao156 | 51 541 01 Vágóállat-minősítő |
+| 395. | ao131 | 31 541 01 0100 21 01 Részszakképesítés: Baromfifeldolgozó |  |  |
 
-| ao157 | 51 541 01 0010 51 01 Elágazás: Juhminősítő |
+| 396. | ao132 | 31 541 01 0100 31 01 Részszakképesítés: Bolti hentes |  |  |
 
-| ao158 | 51 541 01 0010 51 02 Elágazás: Sertésminősítő |
+| 397. | ao133 | 31 541 01 0100 21 03 Részszakképesítés: Csontozó munkás |  |  |
 
-| ao159 | 51 541 01 0010 51 03 Elágazás: Szarvasmarhaminősítő |
+| 398. | ao134 | 31 541 01 0100 21 04 Részszakképesítés: Halfeldolgozó |  |  |
 
-| ao160 | 31 623 01 1000 00 00 Erdészeti szakmunkás |
+| 399. | ao135 | 31 541 01 0100 31 02 Részszakképesítés: Szárazáru készítő |  |  |
 
-| ao161 | 31 623 01 0001 33 01 Ráépülő: Lakott-területi fakitermelő |
+| 400. | ao136 | 31 541 01 0100 21 05 Részszakképesítés: Vágóhídi munkás |  |  |
 
-| Hatósági képzések |
+| 401. | ao137 | 33 541 03 0000 00 00 Molnár |  |  |
 
-| h1 | Mezőgazdasági vontatóvezető képzés [a 24/2005. (IV. 21.) GKM rendeletben meghatározott követelmények szerint] |  |
+| 402. | ao138 | 33 541 03 0100 31 01 Részszakképesítés: Keveréktakarmány-gyártó |  |  |
 
-| h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |
+| 403. | ao139 | 33 541 04 0000 00 00 Pék |  |  |
 
-| 2. célterület: Kötelező képzések |
+| 404. | ao140 | 33 541 04 0100 21 01 Részszakképesítés: Gyorspékségi sütő és eladó |  |  |
 
-| Mezőgazdasági üzemek korszerűsítéséhez kapcsolódó képzések |
+| 405. | ao141 | 33 541 04 0100 21 02 Részszakképesítés: Sütőipari munkás |  |  |
 
-| b1 | Beruházások a szántóföldi növénytermesztésben és a kertészetben című képzés a növénytermesztési létesítmények korszerűsítéséhez nyújtandó támogatásokról (terményszárítók) szóló 35/2008. (III. 27.) FVM rendelethez, valamint a kertészet korszerűsítéséhez nyújtandó támogatásról szóló 25/2008. (III. 7.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 406. | ao142 | 33 541 04 0100 21 03 Részszakképesítés: Száraztésztagyártó |  |  |
 
-| A képzés tartalma: |
+| 407. | ao143 | 33 541 05 1000 00 00 Pék-cukrász |  |  |
 
-| Általános rész |
+| 408. | ao144 | 33 541 05 0100 21 01 Részszakképesítés: Mézeskalács-készítő |  |  |
 
-| – a KAP aktuális kérdései; |
+| 409. | ao145 | 33 541 06 0000 00 00 Tartósítóipari termékgyártó |  |  |
 
-| – az SPS rendszer; |
+| 410. | ao146 | 33 541 06 0100 21 01 Részszakképesítés: Gyümölcsfeldolgozó |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 411. | ao147 | 33 541 06 0100 21 02 Részszakképesítés: Hűtőipari munkás |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 412. | ao148 | 33 541 06 0100 31 01 Részszakképesítés: Konzervgyártó |  |  |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 413. | ao149 | 33 541 06 0100 31 02 Részszakképesítés: Növényolajgyártó |  |  |
 
-| Speciális rész |
+| 414. | ao150 | 33 541 06 0100 21 03 Részszakképesítés: Olajütő |  |  |
 
-| – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |
+| 415. | ao151 | 33 541 06 0100 21 04 Részszakképesítés: Savanyító |  |  |
 
-| – terményszárítók üzemeltetése, energiagazdálkodási ismeretek; |
+| 416. | ao152 | 33 541 06 0100 21 05 Részszakképesítés: Zöldségfeldolgozó |  |  |
 
-| – magtisztítás (szabványok); |
+| 417. | ao153 | 33 541 07 0100 21 01 Részszakképesítés: Elsődleges tejkezelő |  |  |
 
-| – magtárolás (szabványok, eljárások a veszteségek csökkentésére stb.); |
+| 418. | ao154 | 33 541 07 0100 31 01 Részszakképesítés: Friss és tartós tejtermékek gyártója |  |  |
 
-| – kapcsolódó jogszabályok. |
+| 419. | ao155 | 33 541 07 0100 31 02 Részszakképesítés: Sajtkészítő |  |  |
 
-| b2 | Beruházások az állattenyésztésben című képzés az állattartó telepek korszerűsítéséhez nyújtandó támogatásról szóló 27/2007. (IV. 17.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 420. | ao156 | 51 541 01 Vágóállat-minősítő |  |  |
 
-| A képzés tartalma: |
+| 421. | ao157 | 51 541 01 0010 51 01 Elágazás: Juhminősítő |  |  |
 
-| Általános rész |
+| 422. | ao158 | 51 541 01 0010 51 02 Elágazás: Sertésminősítő |  |  |
 
-| – a KAP aktuális kérdései; |
+| 423. | ao159 | 51 541 01 0010 51 03 Elágazás: Szarvasmarhaminősítő |  |  |
 
-| – az SPS rendszer; |
+| 424. | ao160 | 31 623 01 1000 00 00 Erdészeti szakmunkás |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 425. | ao161 | 31 623 01 0001 33 01 Ráépülő: Lakott-területi fakitermelő |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 426. | Hatósági képzések |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 427. | h1 | Mezőgazdasági vontatóvezető képzés [a 24/2005. (IV. 21.) GKM rendeletben meghatározott követelmények szerint] |  |  |
 
-| Speciális rész |
+| 428. | h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |  |  |
 
-| – az elnyert összeg felhasználási rendje, jogkövetkezmények, jogorvoslat; |
+| 429. | 2. célterület: Kötelező képzések |
 
-| – az állattartó telepekre vonatkozó fontosabb környezetvédelmi szabályok; |
+| 430. | Mezőgazdasági üzemek korszerűsítéséhez kapcsolódó képzések |
 
-| – állattartó telepi nyilvántartások szabályos vezetése; |
+| 431. | b1 | Beruházások a szántóföldi növénytermesztésben és a kertészetben című képzés a növénytermesztési létesítmények korszerűsítéséhez nyújtandó támogatásokról (terményszárítók) szóló 35/2008. (III. 27.) FVM rendelethez, valamint a kertészet korszerűsítéséhez nyújtandó támogatásról szóló 25/2008. (III. 7.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| – szaktanácsadói szolgáltatások igénybevétele. |
+| 432. |  | A képzés tartalma: |  |  |
 
-| b3 | GAZDANet című képzés a külön jogszabályban meghatározott GAZDANet támogatási jogcímhez kapcsolódóan. | 8 | 30 |
+| 433. |  | Általános rész |  |  |
 
-| A képzés tartalma: |
+| 434. |  | – a KAP aktuális kérdései; |  |  |
 
-| Számítástechnikai alapismeretekkel nem rendelkezők részére |
+| 435. |  | – az SPS rendszer; |  |  |
 
-| – jogcím-specifikus kötelezettségek; |
+| 436. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |
+| 437. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| – a Word alapszintű ismerete, használata; |
+| 438. |  | – a gazdálkodás ökonómiája– gazdaságossági számítások; |  |  |
 
-| – az Internet alapszintű ismerete, használata; |
+| 439. |  | Speciális rész |  |  |
 
-| – elektronikus levelezés; |
+| 440. |  | – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |  |  |
 
-| – a GazdaNet programcsomag használata; |
+| 441. |  | – terményszárítók üzemeltetése, energiagazdálkodási ismeretek; |  |  |
 
-| Számítástechnikai alapismeretekkel rendelkezők részére |
+| 442. |  | – magtisztítás (szabványok); |  |  |
 
-| – jogcím-specifikus kötelezettségek; |
+| 443. |  | – magtárolás (szabványok, eljárások a veszteségek csökkentésére stb.); |  |  |
 
-| – az Internet, a Word és az Excel használata; |
+| 444. |  | – kapcsolódó jogszabályok. |  |  |
 
-| – elektronikus levelezés; |
+| 445. | b2 | Beruházások az állattenyésztésben című képzés az állattartó telepek korszerűsítéséhez nyújtandó támogatásról szóló 27/2007. (IV. 17.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| – a GazdaNet programcsomag használata; |
+| 446. |  | A képzés tartalma: |  |  |
 
-| – FVM hatáskörébe tartozó ügyek elektronikus intézése; |
+| 447. |  | Általános rész |  |  |
 
-| – elektronikus eszközök alkalmazása a mezőgazdaságban; |
+| 448. |  | – a KAP aktuális kérdései; |  |  |
 
-| – automatikus mérőeszközök alkalmazása a mezőgazdaságban; |
+| 449. |  | – az SPS rendszer; |  |  |
 
-| – mezőgazdasági célszoftverek típusai, alkalmazási lehetőségei; |
+| 450. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| – vállalatirányítási rendszerek. |
+| 451. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| b4 | Évelő ültetvények telepítése című képzés a rövid vágásfordulójú fás szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 72/2007. (VII. 27.) FVM rendelethez, az évelő, lágy szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 71/2007. (VII. 27.) FVM rendelethez, a mezőgazdasági energiafelhasználás megújuló energiaforrásból történő előállításához nyújtandó támogatásról szóló 78/2007. (VII. 30.) FVM rendelethez, valamint – a gyümölcs ültetvényekről szóló speciális részt alkalmazva – az ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatásról szóló 75/2007. (VII. 27.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 452. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások; |  |  |
 
-| A képzés tartalma: |
+| 453. |  | Speciális rész |  |  |
 
-| Általános rész |
+| 454. |  | – az elnyert összeg felhasználási rendje, jogkövetkezmények, jogorvoslat; |  |  |
 
-| – a KAP aktuális kérdései; |
+| 455. |  | – az állattartó telepekre vonatkozó fontosabb környezetvédelmi szabályok; |  |  |
 
-| – az SPS rendszer; |
+| 456. |  | – állattartó telepi nyilvántartások szabályos vezetése; |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 457. |  | – szaktanácsadói szolgáltatások igénybevétele. |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 458. | b3 | GAZDANet című képzés a külön jogszabályban meghatározott GAZDANet támogatási jogcímhez kapcsolódóan. | 8 | 30 |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 459. |  | A képzés tartalma: |  |  |
 
-| Speciális rész (biomassza) |
+| 460. |  | Számítástechnikai alapismeretekkel nem rendelkezők részére |  |  |
 
-| – a 71/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+| 461. |  | – jogcím-specifikus kötelezettségek; |  |  |
 
-| – a 72/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+| 462. |  | – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |  |  |
 
-| – a lágy szárú energianövények termesztése; |
+| 463. |  | – a Word alapszintű ismerete, használata; |  |  |
 
-| – a fás szárú energianövények termesztése, kapcsolódó jogszabályok; |
+| 464. |  | – az Internet alapszintű ismerete, használata; |  |  |
 
-| – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |
+| 465. |  | – elektronikus levelezés; |  |  |
 
-| Speciális rész (gyümölcs ültetvények) |
+| 466. |  | – a GazdaNet programcsomag használata; |  |  |
 
-| – a 75/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+| 467. |  | Számítástechnikai alapismeretekkel rendelkezők részére |  |  |
 
-| – az ültetvény ápolása termőrefordulásig (gyakori problémák); |
+| 468. |  | – jogcím-specifikus kötelezettségek; |  |  |
 
-| – az ültetvény fenntartásának környezetvédelmi követelménye; |
+| 469. |  | – az Internet, a Word és az Excel használata; |  |  |
 
-| – az öntözés módjai és gazdaságossága; |
+| 470. |  | – elektronikus levelezés; |  |  |
 
-| – termékértékesítési lehetőségek. |
+| 471. |  | – a GazdaNet programcsomag használata; |  |  |
 
-| b5 | A fiatal mezőgazdasági termelők elindítása című képzés a fiatal mezőgazdasági termelők támogatásáról szóló 67/2007. (VII. 26.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 472. |  | – a VM hatáskörébe tartozó ügyek elektronikus intézése; |  |  |
 
-| A képzés tartalma: |
+| 473. |  | – elektronikus eszközök alkalmazása a mezőgazdaságban; |  |  |
 
-| Általános rész |
+| 474. |  | – automatikus mérőeszközök alkalmazása a mezőgazdaságban; |  |  |
 
-| – a KAP aktuális kérdései; |
+| 475. |  | – mezőgazdasági célszoftverek típusai, alkalmazási lehetőségei; |  |  |
 
-| – az SPS rendszer; |
+| 476. |  | – vállalatirányítási rendszerek. |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 477. | b4 | Évelő ültetvények telepítése című képzés a rövid vágásfordulójú fás szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 72/2007. (VII. 27.) FVM rendelethez, az évelő, lágy szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 71/2007. (VII. 27.) FVM rendelethez, a mezőgazdasági energiafelhasználás megújuló energiaforrásból történő előállításához nyújtandó támogatásról szóló 78/2007. (VII. 30.) FVM rendelethez, valamint – a gyümölcs ültetvényekről szóló speciális részt alkalmazva – az ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatásról szóló 75/2007. (VII. 27.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| – az agrárszakigazgatás rendszere; |
+| 478. |  | A képzés tartalma: |  |  |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 479. |  | Általános rész |  |  |
 
-| Speciális rész |
+| 480. |  | – a KAP aktuális kérdései; |  |  |
 
-| – az elnyert összeg felhasználási rendje, a gazdaság működésével kapcsolatos bizonylatok szabályos vezetése, szankciók, jogorvoslati lehetőségek; |
+| 481. |  | – az SPS rendszer; |  |  |
 
-| – az üzleti terv megvalósulásának nyomonkövetése; |
+| 482. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| – forrásbevonás lehetőségei, hitelfelvétel; |
+| 483. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| – piacrajutási lehetőségek; |
+| 484. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások; |  |  |
 
-| – szaktanácsadási szolgáltatások igénybevétele. |
+| 485. |  | Speciális rész (biomassza) |  |  |
 
-| b6 | Mezőgazdasági termékek értéknövelése című képzés a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatásról szóló 47/2008. (IV. 17.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból nem élelmiszeripari célú kiskapacitású, növényi alapú nyersszesz, nyersolaj előállító üzemek létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 44/2009. (IV. 11.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 486. |  | – a 71/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |  |  |
 
-| A képzés tartalma: |
+| 487. |  | – a 72/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |  |  |
 
-| Általános rész |
+| 488. |  | – a lágy szárú energianövények termesztése; |  |  |
 
-| – a KAP aktuális kérdései; |
+| 489. |  | – a fás szárú energianövények termesztése, kapcsolódó jogszabályok; |  |  |
 
-| – az SPS rendszer; |
+| 490. |  | – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 491. |  | Speciális rész (gyümölcs ültetvények) |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 492. |  | – a 75/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |  |  |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 493. |  | – az ültetvény ápolása termőrefordulásig (gyakori problémák); |  |  |
 
-| Speciális rész |
+| 494. |  | – az ültetvény fenntartásának környezetvédelmi követelménye; |  |  |
 
-| – termelői együttműködések; |
+| 495. |  | – az öntözés módjai és gazdaságossága; |  |  |
 
-| – élelmiszer-biztonsági ismeretek. |
+| 496. |  | – termékértékesítési lehetőségek. |  |  |
 
-| b7 | A szerkezetátalakítás alatt álló félig önellátó gazdaságok támogatása című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
+| 497. | b5 | A fiatal mezőgazdasági termelők elindítása című képzés a fiatal mezőgazdasági termelők támogatásáról szóló 67/2007. (VII. 26.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: |
+| 498. |  | A képzés tartalma: |  |  |
 
-| Általános rész |
+| 499. |  | Általános rész |  |  |
 
-| – a KAP aktuális kérdései; |
+| 500. |  | – a KAP aktuális kérdései; |  |  |
 
-| – az SPS rendszer; |
+| 501. |  | – az SPS rendszer; |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 502. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 503. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+| 504. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások; |  |  |
 
-| Speciális rész |
+| 505. |  | Speciális rész |  |  |
 
-| – az elnyert támogatási összeg felhasználási rendje; |
+| 506. |  | – az elnyert összeg felhasználási rendje, a gazdaság működésével kapcsolatos bizonylatok szabályos vezetése, szankciók, jogorvoslati lehetőségek; |  |  |
 
-| – az üzleti terv megvalósulásának nyomonkövetése; |
+| 507. |  | – az üzleti terv megvalósulásának nyomonkövetése; |  |  |
 
-| – az igénylés módja, szüneteltetése, visszalépés a támogatástól; |
+| 508. |  | – forrásbevonás lehetőségei, hitelfelvétel; |  |  |
 
-| – jogorvoslati lehetőségek (vis maior). |
+| 509. |  | – piacrajutási lehetőségek; |  |  |
 
-| b8 | Agrár-környezetgazdálkodási kifizetések című képzés az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelethez kapcsolódóan. | 14 | – |
+| 510. |  | – szaktanácsadási szolgáltatások igénybevétele. |  |  |
 
-| A képzés tartalma: |
+| 511. | b6 | Mezőgazdasági termékek értéknövelése című képzés a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatásról szóló 47/2008. (IV. 17.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból nem élelmiszeripari célú kiskapacitású, növényi alapú nyersszesz, nyersolaj előállító üzemek létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 44/2009. (IV. 11.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| 1. Általános kérdések, jogszabályok, eljárásrend |
+| 512. |  | A képzés tartalma: |  |  |
 
-| – agrár-környezetgazdálkodás Magyarországon (a korábbi évek tapasztalatai); |
+| 513. |  | Általános rész |  |  |
 
-| – minimum követelmények az AKG-ban; |
+| 514. |  | – a KAP aktuális kérdései; |  |  |
 
-| – az AKG jogszabályi követelményei; |
+| 515. |  | – az SPS rendszer; |  |  |
 
-| – eljárásrendi kérdések (pl. részleges visszavonás, kötelezettségátadás, öröklés); |
+| 516. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| – helyszíni ellenőrzés, jogkövetkezmények. |
+| 517. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| 2. Agrár-környezetgazdálkodási célprogramok |
+| 518. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások; |  |  |
 
-| – szántóföldi célprogramok; |
+| 519. |  | Speciális rész |  |  |
 
-| – ültetvényes gazdálkodás; |
+| 520. |  | – termelői együttműködések; |  |  |
 
-| – gyepgazdálkodás; |
+| 521. |  | – élelmiszer-biztonsági ismeretek. |  |  |
 
-| – vizes élőhelyeken történő gazdálkodás. |
+| 522. | b7 | A szerkezetátalakítás alatt álló félig önellátó gazdaságok támogatása című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
 
-| 3. Talaj tápanyag-gazdálkodás |
+| 523. |  | A képzés tartalma: |  |  |
 
-| 4. Az agrár-környezetgazdálkodáshoz kapcsolódó egyéb kérdések |
+| 524. |  | Általános rész |  |  |
 
-| – a Gazdálkodási Napló vezetése; |
+| 525. |  | – a KAP aktuális kérdései; |  |  |
 
-| – a különböző támogatások együttes felvételének lehetőségei; |
+| 526. |  | – az SPS rendszer; |  |  |
 
-| – az Agrár-környezetgazdálkodási Információs Rendszer (AIR). |
+| 527. |  | – a kölcsönös megfeleltetés; |  |  |
 
-| 5. Az agrárszakigazgatás rendszere |
+| 528. |  | – az agrárszakigazgatás rendszere; |  |  |
 
-| b9 | Erdő-környezetvédelmi kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
+| 529. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások; |  |  |
 
-| A képzés tartalma: |
+| 530. |  | Speciális rész |  |  |
 
-| 1. A természetközeli erdőgazdálkodás feltételrendszere |
+| 531. |  | – az elnyert támogatási összeg felhasználási rendje; |  |  |
 
-| – az erdőgazdálkodás fenntarthatósága; |
+| 532. |  | – az üzleti terv megvalósulásának nyomonkövetése; |  |  |
 
-| – az erdőgazdálkodási szemlélet, gyakorlat változásai; |
+| 533. |  | – az igénylés módja, szüneteltetése, visszalépés a támogatástól; |  |  |
 
-| – jogi szabályozás; |
+| 534. |  | – jogorvoslati lehetőségek (vis maior). |  |  |
 
-| – természetvédelem és erdőgazdálkodás kapcsolata; |
+| 535. | b8 | Agrár-környezetgazdálkodási kifizetések című képzés az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelethez kapcsolódóan. |  |  |
 
-| – speciális erdőgazdálkodás védett területeken. |
+| 536. |  | A képzés tartalma: |  |  |
 
-| 2. Az erdő-környezetvédelmi célprogramok |
+| 537. |  | 1. Általános kérdések, jogszabályok, eljárásrend |  |  |
 
-| – a célprogramok előírásainak részletes ismertetése; |
+| 538. |  | – agrár-környezetgazdálkodás Magyarországon (a korábbi évek tapasztalatai); |  |  |
 
-| – a legkedvezőbb célprogramok kiválasztásának szempontjai; |
+| 539. |  | – minimum követelmények az AKG-ban; |  |  |
 
-| – eljárásrendi kérdések (pl. támogatás igénylése, részleges visszavonás, kötelezettség-átadás, öröklés); |
+| 540. |  | – az AKG jogszabályi követelményei; |  |  |
 
-| – helyszíni ellenőrzés, jogkövetkezmények. |
+| 541. |  | – eljárásrendi kérdések (pl. részleges visszavonás, kötelezettségátadás, öröklés); |  |  |
 
-| 3. Az erdő-környezetvédelmi intézkedés és más támogatási lehetőségek kapcsolata a különböző támogatások együttes igénybevételének lehetőségei |
+| 542. |  | – helyszíni ellenőrzés, jogkövetkezmények. |  |  |
 
-| 4. Az agrárszakigazgatás rendszere |
+| 543. |  | 2. Agrár-környezetgazdálkodási célprogramok |  |  |
 
-| b10 | Natura 2000 kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan, beleértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendeletet. | 14 | – |
+| 544. |  | – szántóföldi célprogramok; |  |  |
 
-| A képzés tartalma: |
+| 545. |  | – ültetvényes gazdálkodás; |  |  |
 
-| 1. Általános ismeretek a természetvédelemről és a Natura 2000 területekről |
+| 546. |  | – gyepgazdálkodás; |  |  |
 
-| – természetvédelmi alapismeretek; |
+| 547. |  | – vizes élőhelyeken történő gazdálkodás. |  |  |
 
-| – a mezőgazdaság kulcsszerepe a környezet- és természetvédelemben; |
+| 548. |  | 3. Talaj tápanyag-gazdálkodás |  |  |
 
-| – a hazai természetvédelem működése; |
+| 549. |  | 4. Az agrár-környezetgazdálkodáshoz kapcsolódó egyéb kérdések |  |  |
 
-| – az EU ökológiai hálózata: a Natura 2000 hálózat bemutatása; |
+| 550. |  | – a Gazdálkodási Napló vezetése; |  |  |
 
-| – jogi szabályozás; |
+| 551. |  | – a különböző támogatások együttes felvételének lehetőségei; |  |  |
 
-| – a Natura 2000 területeken előforduló közösségi és kiemelt közösségi jelentőségű élőhelyek, valamint a növény- és állatfajok bemutatása. |
+| 552. |  | – az Agrár-környezetgazdálkodási Információs Rendszer (AIR). |  |  |
 
-| 2. A Natura 2000 gyepterületeken történő gazdálkodás |
+| 553. |  | 5. Az agrárszakigazgatás rendszere |  |  |
 
-| 3. A Gazdálkodási Napló vezetése |
+| 554. | b8/2 | Agrár-környezetgazdálkodási kifizetések II. [az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet második képzési időszakához kapcsolódóan] | 7 | – |
 
-| 4. Az agrárszakigazgatás rendszere |
+| 555. |  | A képzés tartalma: |  |  |
 
-| b11 | Öntözési, meliorációs és egyéb vízgazdálkodási létesítmény-fejlesztés című képzés az öntözés, melioráció, területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményei fejlesztésének támogatásáról szóló 34/2008. (III. 27.) FVM rendeletben meghatározott 2.1. és 3.1. célterülethez kapcsolódóan. | 14 | – |
+| 556. |  | – a jogcímrendelet változásai, |  |  |
 
-| A képzés tartalma: |
+| 557. |  | – az AKG intézkedés kapcsolata az ÚMVP II. intézkedéscsoportjának egyéb intézkedéseivel, |  |  |
 
-| Általános rész |
+| 558. |  | – az AKG hatásindikátorainak monitoringja, |  |  |
 
-| – a KAP aktuális kérdései; |
+| 559. |  | – a Gazdálkodási Napló kitöltésével kapcsolatos tapasztalatok, |  |  |
 
-| – az SPS rendszer; |
+| 560. |  | – gyakran ismételt kérdések, |  |  |
 
-| – a kölcsönös megfeleltetés; |
+| 561. |  | – a parlagfű elleni védekezés módszerei. |  |  |
 
-| – az agrárszakigazgatás rendszere; |
+| 562. | b9 | Erdő-környezetvédelmi kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
 
-| – a gazdálkodás ökonómiája – gazdaságossági számítások. |
+| 563. |  | A képzés tartalma: |  |  |
 
-| Speciális rész |
+| 564. |  | 1. A természetközeli erdőgazdálkodás feltételrendszere |  |  |
 
-| – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |
+| 565. |  | – az erdőgazdálkodás fenntarthatósága; |  |  |
 
-| – kifizetés igénylés eljárási rendje; |
+| 566. |  | – az erdőgazdálkodási szemlélet, gyakorlat változásai; |  |  |
 
-| – szakszerű üzemeltetés, karbantartás. |
+| 567. |  | – jogi szabályozás; |  |  |
 
-| Szakmai rész |
+| 568. |  | – természetvédelem és erdőgazdálkodás kapcsolata; |  |  |
 
-| Öntözés természeti tényezői |
+| 569. |  | – speciális erdőgazdálkodás védett területeken. |  |  |
 
-| – időjárás-változás, változékonyság Magyarországon; |
+| 570. |  | 2. Az erdő-környezetvédelmi célprogramok |  |  |
 
-| – időjárási szélsőségek; |
+| 571. |  | – a célprogramok előírásainak részletes ismertetése; |  |  |
 
-| – a klímaváltozás történelmi vonatkozásai; |
+| 572. |  | – a legkedvezőbb célprogramok kiválasztásának szempontjai; |  |  |
 
-| A mezőgazdasági termelés kettős veszélyeztetettsége |
+| 573. |  | – eljárásrendi kérdések (pl. támogatás igénylése, részleges visszavonás, kötelezettség-átadás, öröklés); |  |  |
 
-| Aszály |
+| 574. |  | – helyszíni ellenőrzés, jogkövetkezmények. |  |  |
 
-| – történelmi aszályos időszakok; |
+| 575. |  | 3. Az erdő-környezetvédelmi intézkedés és más támogatási lehetőségek kapcsolata a különböző támogatások együttes igénybevételének lehetőségei |  |  |
 
-| – aszálykárok; |
+| 576. |  | 4. Az agrárszakigazgatás rendszere |  |  |
 
-| – az aszály enyhítésének lehetőségei; |
+| 577. | b10 | Natura 2000 kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan, beleértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendeletet. | 14 | – |
 
-| Öntözés |
+| 578. |  | A képzés tartalma: |  |  |
 
-| – öntözésre vízjogilag engedélyezett területek; |
+| 579. |  | 1. Általános ismeretek a természetvédelemről és a Natura 2000 területekről |  |  |
 
-| – öntözött területek; |
+| 580. |  | – természetvédelmi alapismeretek; |  |  |
 
-| – felhasznált vízmennyiség. |
+| 581. |  | – a mezőgazdaság kulcsszerepe a környezet- és természetvédelemben; |  |  |
+
+| 582. |  | – a hazai természetvédelem működése; |  |  |
+
+| 583. |  | – az EU ökológiai hálózata: a Natura 2000 hálózat bemutatása; |  |  |
+
+| 584. |  | – jogi szabályozás; |  |  |
+
+| 585. |  | – a Natura 2000 területeken előforduló közösségi és kiemelt közösségi jelentőségű élőhelyek, valamint a növény- és állatfajok bemutatása. |  |  |
+
+| 586. |  | 2. A Natura 2000 gyepterületeken történő gazdálkodás |  |  |
+
+| 587. |  | 3. A Gazdálkodási Napló vezetése |  |  |
+
+| 588. |  | 4. Az agrárszakigazgatás rendszere |  |  |
+
+| 589. | b11 | Öntözési, meliorációs és egyéb vízgazdálkodási létesítmény-fejlesztés című képzés az öntözés, melioráció, területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményei fejlesztésének támogatásáról szóló 34/2008. (III. 27.) FVM rendeletben meghatározott 2.1. és 3.1. célterülethez kapcsolódóan. | 14 | – |
+
+| 590. |  | A képzés tartalma: |  |  |
+
+| 591. |  | Általános rész |  |  |
+
+| 592. |  | – a KAP aktuális kérdései; |  |  |
+
+| 593. |  | – az SPS rendszer; |  |  |
+
+| 594. |  | – a kölcsönös megfeleltetés; |  |  |
+
+| 595. |  | – az agrárszakigazgatás rendszere; |  |  |
+
+| 596. |  | – a gazdálkodás ökonómiája – gazdaságossági számítások. |  |  |
+
+| 597. |  | Speciális rész |  |  |
+
+| 598. |  | – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |  |  |
+
+| 599. |  | – kifizetés igénylés eljárási rendje; |  |  |
+
+| 600. |  | – szakszerű üzemeltetés, karbantartás. |  |  |
+
+| 601. |  | Szakmai rész |  |  |
+
+| 602. |  | Öntözés természeti tényezői |  |  |
+
+| 603. |  | – időjárás-változás, változékonyság Magyarországon; |  |  |
+
+| 604. |  | – időjárási szélsőségek; |  |  |
+
+| 605. |  | – a klímaváltozás történelmi vonatkozásai; |  |  |
+
+| 606. |  | A mezőgazdasági termelés kettős veszélyeztetettsége |  |  |
+
+| 607. |  | Aszály |  |  |
+
+| 608. |  | – történelmi aszályos időszakok; |  |  |
+
+| 609. |  | – aszálykárok; |  |  |
+
+| 610. |  | – az aszály enyhítésének lehetőségei; |  |  |
+
+| 611. |  | Öntözés |  |  |
+
+| 612. |  | – öntözésre vízjogilag engedélyezett területek; |  |  |
+
+| 613. |  | – öntözött területek; |  |  |
+
+| 614. |  | – felhasznált vízmennyiség. |  |  |
 
 2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez

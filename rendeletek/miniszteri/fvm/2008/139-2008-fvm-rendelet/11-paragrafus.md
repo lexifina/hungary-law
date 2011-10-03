@@ -1,6 +1,6 @@
-## 10/A. §[^43] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági utak fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 125/2009. (IX. 29.) FVM rendelet módosításáról szóló 18/2010. (IX. 30.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 2. § e) és g) pontját, 3. § (1) bekezdés b) pontját, 4. § (1), (5) és (8) bekezdését, 6. § (4) bekezdését, 7. § (5) és (6) bekezdését, valamint a 6. § (14) bekezdésének hatályon kívül helyezését a módosító rendelet hatálybalépésekor[^44] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/B. §[^58] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről 139/2008. (X. 22.) FVM rendelet módosításáról szóló 90/2011. (X. 3.) VM rendelettel [a továbbiakban: 90/2011. (X. 3.) VM rendelet] módosított 7. § (6) és (10) bekezdését, valamint 8. § (3), (4) és (5) bekezdését a 90/2011. (X. 3.) VM rendelet hatálybalépésekor[^59] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^43]: A 10/A. §-t a 18/2010. (IX. 30.) VM rendelet 6. §-a iktatta be.
-[^44]: A hatálybalépés időpontja 2010. október 1.
+[^58]: A 10/B. §-t a 90/2011. (X. 3.) VM rendelet 8. §-a iktatta be.
+[^59]: A hatálybalépés időpontja: 2011. október 3. 13.00 óra.

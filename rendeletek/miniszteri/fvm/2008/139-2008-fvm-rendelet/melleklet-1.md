@@ -1,5 +1,6 @@
-## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 20. cikk a) pont i) alpontjának, valamint 21. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 12. §[^60] Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-1. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^45]
+1. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^61]
 
-[^45]: Az 1. számú melléklet a 6/2010. (II. 2.) FVM rendelet 7. § (1) bekezdésével megállapított, a 18/2010. (IX. 30.) VM rendelet 8. §-a szerint módosított szöveg.
+[^60]: A 12. §-t a 90/2011. (X. 3.) VM rendelet 5. §-a iktatta be.
+[^61]: Az 1. számú melléklet a 90/2011. (X. 3.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.

@@ -1,16 +1,22 @@
 ## Az elszámolható kiadások felső határértéke
 
-| Megnevezés | Szakképesítést nem adó képzés (b1-b11, an1-an19) | OKJ szerinti képzés (ao1-ao161) és 80 órás Növényvédelmi Tanfolyam (h2) | Mezőgazdasági vontatóvezető képzés (h1) |
+## 1M28918_0
 
-| elméleti óra (tartalmazza a szakképesítést nem adó képzések esetén az oktatási segédlet költségeit is) | 1100 Ft/fő/óra | 500 Ft/fő/óra | 800 Ft/fő/óra |
+|  | A | B | C | D |
 
-| gyakorlati óra | 1300 Ft/fő/óra | 600 Ft/fő/óra | 5000 Ft/fő/óra |
+| 1. | Megnevezés | Szakképesítést nem adó képzés (b1–b11, an1–an19) | OKJ szerinti képzés (ao1–ao161) és 80 órás Növényvédelmi Tanfolyam (h2) | Mezőgazdasági vontatóvezető képzés (h1) |
 
-| szervezési költség | 5000 Ft/fő | 5000 Ft/fő | 5000 Ft/fő |
+| 2. | elméleti óra (tartalmazza a szakképesítést nem adó képzések esetén az oktatási segédlet költségeit is) | 1100 Ft/fő/óra | 500 Ft/fő/óra | 800 Ft/fő/óra |
 
-| vizsgaköltség | – | 30 000 Ft/fő | 12 000 Ft/fő |
+| 3. | gyakorlati óra | 1 300 Ft/fő/óra | 600 Ft/fő/óra | 5 000 Ft/fő/óra |
 
-5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^47]
+| 4. | szervezési költség | 5 000 Ft/fő | 5 000 Ft/fő | 5 000 Ft/fő |
+
+| 5. | vizsgaköltség | 18 000 Ft/fő* | 30 000 Ft/fő | 12 000 Ft/fő |
+
+## * Csak az an19 Mezőgazdasági szállítás, anyagmozgatás speciális esetei c. képzésnél számolható el a Nemzeti Közlekedési Hatóság által kibocsátott vizsgaigazolásnak a képzést szolgáltató Képző Szervezet részére történő bemutatása esetén. A Nemzeti Közlekedési Hatóság által a vizsgáról kibocsátott visszaigazolás másolatát a kérelemhez mellékelni kell.
+
+5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^63]
 
 Az egyesített támogatási és kifizetési kérelem adattartalma
 
@@ -42,4 +48,4 @@ Az egyesített támogatási és kifizetési kérelem adattartalma
 
 – az elszámolni kívánt nettó kiadás és az áfakulcs.
 
-[^47]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
+[^63]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
