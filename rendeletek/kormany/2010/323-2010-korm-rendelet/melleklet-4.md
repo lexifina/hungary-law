@@ -804,7 +804,7 @@ I. A radioaktív anyag tárolása, használata, felhasználása, szállítása �
 
 | 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4. | Minden esetben. | Annak elbírálása, hogy az engedélyezett tevékenység esetén biztosíthatók-e a tevékenységre vonatkozó biztonsági, személy- és vagyonvédelmi, őrzéstechnikai követelmények. | Országos Rendőr-főkapitányság | élet- és vagyonbiztonság védelméért felelős miniszter |
+| 4. |  |  |  |  |
 
 II. A radioaktív anyag termelése, előállítása, forgalmazása tekintetében
 
@@ -816,7 +816,7 @@ II. A radioaktív anyag termelése, előállítása, forgalmazása tekintetében
 
 | 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 4. | Minden esetben. | Annak elbírálása, hogy az engedélyezett tevékenység esetén biztosíthatók-e a tevékenységre vonatkozó biztonsági, személy- és vagyonvédelmi, őrzéstechnikai követelmények. | Országos Rendőr-főkapitányság | élet- és vagyonbiztonság védelméért felelős miniszter |
+| 4. |  |  |  |  |
 
 III. A radioaktív anyag termelését, előállítását, tárolását, használatát, felhasználását, átalakítását szolgáló nem nukleáris létesítmény létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése tekintetében
 
@@ -828,7 +828,7 @@ III. A radioaktív anyag termelését, előállítását, tárolását, használ
 
 | 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Katasztrófavédelmi Főigazgatóság | ha nem az OTH jár el első fokon: Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4. | Minden esetben. | Annak elbírálása, hogy az engedélyezett tevékenység esetén biztosíthatók-e a tevékenységre vonatkozó biztonsági, személy- és vagyonvédelmi, őrzéstechnikai követelmények. | Országos Rendőr-főkapitányság | élet- és vagyonbiztonság védelméért felelős miniszter |
+| 4. |  |  |  |  |
 
 IV. Az ionizáló sugárzást létrehozó berendezés előállítására, átalakítására, üzemeltetésére, üzemeltetésének megszüntetésére, valamint a berendezés előállítását, üzemeltetését szolgáló létesítmény létesítésére, üzemeltetésére, átalakítására, megszüntetésére vonatkozó engedélyezési eljárásban
 
@@ -836,7 +836,7 @@ IV. Az ionizáló sugárzást létrehozó berendezés előállítására, átala
 
 | 1. | Minden esetben, kivéve a röntgen- berendezéseket. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 2. | Minden esetben, kivéve az orvosi, állatorvosi és fix telepítésű röntgenberendezéseket. | Annak elbírálása, hogy az engedélyezett tevékenység esetén biztosíthatók-e a tevékenységre vonatkozó biztonsági, személy- és vagyonvédelmi, őrzéstechnikai követelmények. | Országos Rendőr-főkapitányság | élet- és vagyonbiztonság védelméért felelős miniszter |
+| 2. |  |  |  |  |
 
 V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó létesítése, üzemeltetése, átalakítása, megszüntetése, lezárása, és az aktív, valamint a passzív intézményes ellenőrzésre történő áttérés tekintetében.
 
@@ -848,7 +848,7 @@ V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó
 
 | 3. | Minden esetben. | A tárolóban elhelyezendő radiokatív és nukleáris anyagok, nukleáris berendezések, valamint a velük folytatott tevékenységek nyilvántartásával és ellenőrzésével kapcsolatos előírások vizsgálatában, valamint nukleáris balesetelhárítási kérdésekben. | Országos Atomenergia Hivatal |  |
 
-| 4. | Minden esetben. | Annak elbírálása, hogy az engedélyezett tevékenység esetén biztosíthatók-e a tevékenységre vonatkozó biztonsági, személy- és vagyonvédelmi, őrzéstechnikai követelmények. | Országos Rendőr-főkapitányság | élet- és vagyonbiztonság védelméért felelős miniszter |
+| 4. |  |  |  |  |
 
 | 5. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -858,4 +858,4 @@ V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó
 
 | 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^40]: A 4. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^40]: A 4. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 37. § b) pontja, a 190/2011. (IX. 19.) Korm. rendelet 44. §-a szerint módosított szöveg.
