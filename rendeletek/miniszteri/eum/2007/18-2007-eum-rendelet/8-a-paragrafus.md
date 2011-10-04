@@ -1,9 +1,23 @@
-8/A. §[^17] (1) Az a személy, akinek a működési nyilvántartása az Eütv. 112/A. § (3) bekezdése alapján közfeladat ellátására tekintettel került meghosszabbításra, a közfeladat ellátásának megszűnését – az egészségügyi tevékenységvégzés megkezdéséig – bejelenti a Hivatalnak, ha az egészségügyi tevékenységet ezen a jogcímen több, mint három évig szüneteltette.
+8/A. §[^28] (1) A működési nyilvántartás Eütv. 113. § (3) bekezdése szerinti meghosszabbítását a nyilvántartott személy akkor kérheti, ha az egészségügyi tevékenységének végzése az alábbi indokokra tekintettel szünetel:
 
-(2) Ha a működési nyilvántartás tartama alatt az egészségügyi dolgozó közfeladat ellátására tekintettel szünetelteti egészségügyi tevékenységét, a közfeladat-ellátással nem érintett időszak tekintetében az Eütv. 112. § (10) bekezdés b) pontja alapján is kérheti egy alkalommal a működési nyilvántartása meghosszabbítását.
+a) a doktori iskola létesítésének eljárási rendjéről és a doktori fokozat megszerzésének feltételeiről szóló 33/2007. (III. 7.) Korm. rendeletben szabályozott, illetve más, ösztöndíjjal támogatott tudományos munka,
 
-(3) Ha a működési nyilvántartás közfeladat ellátása miatti meghosszabbításának – vagy a (2) bekezdés alkalmazása esetén, a közfeladat ellátása miatti és az Eütv. 112. § (10) bekezdés b) pontja szerinti meghosszabbításnak – az időtartama összesen a 8 évet eléri, az egészségügyi dolgozó ezt követően – a működési nyilvántartása feltételeinek igazolásáig – egészségügyi tevékenységet abban az esetben is csak felügyelet mellett végezhet, ha működési nyilvántartása még nem járt le.
+b) gyermekgondozási segély, gyermekgondozási díj nyilvántartott személy általi igénybe vétele,
 
-(4) Ha az egészségügyi tevékenység gyakorlására felügyelet mellett jogosult személy a működési nyilvántartása feltételeinek fennállását igazolja, a Hivatal határozatban rendelkezik a működési nyilvántartása érvényességének időtartamáról.
+c) balesetből vagy tartós betegségből fakadó keresőképtelenség,
 
-[^17]: A 8/A. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
+d) 10 éven aluli gyermek, illetve tartósan gondozásra szoruló hozzátartozó otthoni ápolása, gondozása, vagy
+
+e) a honvédelemről szóló törvény szerinti
+
+ea) katonai, illetve polgári szolgálat teljesítése, vagy
+
+eb) honvédelmi munkakötelezettség teljesítése.
+
+(2) Ha a működési nyilvántartás tartama alatt az egészségügyi dolgozó az Eütv. 113. § (4) bekezdése szerint közfeladat ellátására tekintettel szünetelteti egészségügyi tevékenységét, a közfeladat-ellátással nem érintett időszak tekintetében az (1) bekezdés alapján is kérheti egy alkalommal a működési nyilvántartása meghosszabbítását.
+
+(3) Az a személy, akinek a működési nyilvántartása közfeladat ellátására tekintettel került meghosszabbításra, a közfeladat ellátásának megszűnését – az egészségügyi tevékenységvégzés megkezdéséig – bejelenti a Hivatalnak, ha az egészségügyi tevékenységet ezen a jogcímen több mint három évig szüneteltette.
+
+(4) A meghosszabbítás iránti kérelmet a szünetelésre okot adó tény, körülmény igazolásával együtt legkésőbb a működési nyilvántartás lejártának napjáig kell benyújtani.
+
+[^28]: A 8/A. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be, szövege az 57/2011. (IX. 29.) NEFMI rendelet 9. §-ával megállapított szöveg.

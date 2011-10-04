@@ -1,10 +1,12 @@
-2. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^31]
+2. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^48]
 
 ## A működési nyilvántartási lap adattartalma
 
 I. Személyi adatok:
 
 1. az egészségügyről szóló törvény (Eütv.) alapján a működési nyilvántartás részét képező személyes adatok
+
+1a.[^49] egészségügyi tevékenység során használt név
 
 2. levelezési cím
 
@@ -62,11 +64,7 @@ III. Egyéb adatok
 
 – a munkavégzésre irányuló jogviszony jellege [az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése]
 
-6. jogszabály által előírt továbbképzés(ek) elvégzésének
-
-– időpontjai (több szakképesítés és/vagy szakirányú szakképesítés esetén mindegyikre vonatkozóan)
-
-– a működési nyilvántartás megújításához szükséges megszerzett pontok száma, fajtája
+6.[^50] az Eütv. szerinti továbbképzési kötelezettség teljesítésének ténye, vagy a továbbképzési kötelezettség alóli mentesülés ténye
 
 7. korlátozott alkalmasság
 
@@ -80,7 +78,7 @@ III. Egyéb adatok
 
 10. az Eütv. szerinti eljárás keretében kiszabott jogerős büntetés ténye és a büntetést kiszabó határozat jogerőre emelkedésének napja
 
-11.[^32]
+11.[^51]
 
 IV. A működési nyilvántartás száma
 
@@ -108,13 +106,13 @@ b) a kiállítás helye és időpontja
 
 c) a kiállító intézmény megnevezése
 
-VIII. Az egészségügy területén a szakértői működéssel kapcsolatos egyes kérdések szabályozásáról szóló 14/1972. (VII. 15.) EüM rendelet alapján kiadott szakértői engedély
+VIII.[^52] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
 
-## – szakterület megnevezése
+– szakterület megnevezése
 
-## – érvényességi ideje
+– érvényességi ideje
 
-## – kiállítás kelte
+– kiállítás kelte
 
 IX. Szakmai felügyelet
 
@@ -136,5 +134,8 @@ X. Kiegészítő gyakorlati továbbképzés kezdete, vége
 
 XI. Megjegyzés
 
-[^31]: A 2. számú melléklet az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
-[^32]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte.
+[^48]: A 2. számú melléklet az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
+[^49]: A 2. számú melléklet I. pont 1a. alpontját az 57/2011. (IX. 29.) NEFMI rendelet 14. § (1) bekezdése iktatta be.
+[^50]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^51]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte.
+[^52]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^33]
+3. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^53]
 
 A kérelem adattartalma
 
@@ -25,6 +25,8 @@ I. Kifejezett kérelem arra vonatkozóan, hogy a Hivatal a kérelemben, valamint
 II. Személyes adatok
 
 1. név
+
+1a. egészségügyi tevékenység során használt név
 
 2. születési név
 
@@ -90,17 +92,11 @@ VII. A kérelmező munkahelye, munkavégzés helyének adatai
 
 5. hatósági engedély alapján történő egészségügyi tevékenységvégzés esetén az engedélyt kiállító szerv megnevezése
 
-VIII. Elméleti továbbképzés adatai
-
-1. helye (a képzést szervező intézmény megjelölése)
-
-2. ideje
-
-3. a képzés során megszerzett pontok mennyisége
+VIII. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
 
 IX. A kérelmező erre vonatkozó kérelme esetén feltüntetendő adatok
 
-1. az egészségügy területén a szakértői működéssel kapcsolatos egyes kérdések szabályozásáról szóló 14/1972. (VII. 15.) EüM rendelet alapján kiadott szakértői engedély ténye
+1. az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély ténye
 
 2. szakterület megnevezése
 
@@ -118,7 +114,7 @@ X. Felügyeleti tevékenységgel kapcsolatos adatok
 
 4. a felügyeletet ellátó személy neve, működési nyilvántartási száma
 
-5. az egészségügyi dolgozó működési nyilvántartását az Eütv. 113. § (4) bekezdése alapján érintő, vagy egészségügyi tevékenységvégzési jogosultságát érintő, külföldi hatóságnál keletkezett egyéb adat [az Eütv. 110. § (16) bekezdés b) pontja szerinti adat]
+5. az egészségügyi dolgozó működési nyilvántartását az Eütv. 113. § (5) bekezdése alapján érintő, vagy egészségügyi tevékenységvégzési jogosultságát érintő, külföldi hatóságnál keletkezett egyéb adat [az Eütv. 110. § (16) bekezdés b) pontja szerinti adat]
 
 6. külföldi munkavégzés helye, időtartama
 
@@ -144,9 +140,9 @@ XV. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a
 
 XVI. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak a Hivatal általi ellenőrzéséhez.
 
-XVII. A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy a Hivatal az Eütv. 112/B. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+XVII. A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy a Hivatal az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
 
-XVIII. Kifejezett kérelem a Hivatalnak az Eütv. 112/B. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+XVIII. Kifejezett kérelem a Hivatalnak az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
 
 XIX. A kérelemhez az alábbi dokumentumokat kell csatolni:
 
@@ -158,13 +154,13 @@ a) szakmai gyakorlat igazolása [csak a 8. § (4) bekezdése szerinti esetben, i
 
 a) szakmai gyakorlat igazolása [csak a 8. § (4) bekezdése szerinti esetben, illetve akkor, ha a kérelmező a 8. § (2) bekezdése alapján az igazolás beszerzését nem kéri],
 
-b) az Eütv. 112/B. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem él a XVIII. pont szerinti kérelemmel].
+b) az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem él a XVIII. pont szerinti kérelemmel].
 
 3. Meghosszabbítási kérelemhez:
 
 a) a meghosszabbítás alapjául szolgáló dokumentumok (például: a közfeladatot ellátó személy munkáltatójának a munkavégzés helyére, időtartamára vonatkozó igazolása),
 
-b) az Eütv. 112/A. § (2) bekezdése szerinti előre nem tervezhető esemény megnevezése és annak igazolására szolgáló dokumentumok.
+b) a 8/A. § (1) bekezdésében meghatározottak igazolására szolgáló dokumentumokat.
 
 4. Nyilvántartásba vételi kérelemhez:
 
@@ -172,6 +168,6 @@ a) nyelvismeretet igazoló dokumentum (ha van ilyen),
 
 b) tudományos fokozat megszerzését igazoló dokumentum (ha van ilyen),
 
-c) az Eütv. 112/B. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem élt a XVIII. pont szerinti kérelemmel].
+c) az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány [ha a kérelmező nem élt a XVIII. pont szerinti kérelemmel].
 
-[^33]: A 3. számú melléklet a 11/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított, az 50/2009. (XII. 30.) EüM rendelet 5. §-a szerint módosított szöveg.
+[^53]: A 3. számú melléklet a 11/2009. (IV. 10.) EüM rendelet 6. §-ával megállapított, az 50/2009. (XII. 30.) EüM rendelet 5. §-a, az 57/2011. (IX. 29.) NEFMI rendelet 14. § (3)–(5) és 15. § d) pontja szerint módosított szöveg.

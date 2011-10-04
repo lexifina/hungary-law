@@ -1,4 +1,4 @@
-1. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^30]
+1. számú melléklet a 18/2007. (IV. 17.) EüM rendelethez[^47]
 
 ## Az alapnyilvántartási lap adattartalma
 
@@ -46,4 +46,4 @@ c) a kiállító intézmény megnevezése
 
 V. Megjegyzések
 
-[^30]: Az 1. számú melléklet az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
+[^47]: Az 1. számú melléklet az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
