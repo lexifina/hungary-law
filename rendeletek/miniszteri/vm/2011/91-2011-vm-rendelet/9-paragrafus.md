@@ -1,5 +1,0 @@
-## 8. § Az R. a következő 10/B. §-sal egészül ki:
-
-## „10/B. § (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 91/2011. (X. 3.) VM rendelettel [a továbbiakban: 91/2011. (X. 3.) VM rendelet] módosított 4. § (1) bekezdését a 2011. október 8-át követően benyújtott támogatási kérelmekkel indított ügyekben kell alkalmazni; 5. § (3) bekezdés a) pontját, 6. § (12) bekezdését, 7. §-át, 7/A. §-át, valamint 5. számú mellékletét a 91/2011. (X. 3.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-## (2) E rendeletnek 91/2011. (X. 3.) VM rendelettel módosított 2. § (1) bekezdés h) pontját, 5. § (3) bekezdés e) pontját és (4) bekezdését, 6. § (9) és (10) bekezdését, valamint 4. számú mellékletét a 2011. október 8-át követően benyújtott támogatási kérelmekkel indított ügyekben nem kell alkalmazni; 5. § (6) bekezdését, valamint 9. § (5) bekezdését a 91/2011. (X. 3.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban sem kell alkalmazni.”

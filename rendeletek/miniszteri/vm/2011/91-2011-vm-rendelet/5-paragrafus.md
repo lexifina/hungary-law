@@ -1,1 +1,0 @@
-## „(12) Az erdőgazdálkodó ügyfél a támogatási kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és a támogatási kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános „de minimis” rendelet hatálya alá tartozó csekély összegű támogatás összegéről.”
