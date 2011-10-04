@@ -26,6 +26,8 @@ c)[^83] az ideiglenes határátkelőhely repülőtéren történő megnyitása e
 
 (7)[^88] A Kormány a megyei rendőr-főkapitányság által a határvízen történő közlekedés engedélyezésével kapcsolatos közigazgatási eljárásban – annak elbírálása érdekében, hogy biztosítottak-e a vámeljárás feltételei – a NAV regionális vám- és pénzügyőri főigazgatóságát szakhatóságként jelöli ki.
 
+(8)[^89] A Kormány a 6. § (3) bekezdés l) pontja szerinti, a fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével kapcsolatos közigazgatási hatósági eljárásban, az 5. mellékletben meghatározott feltételek fennállása esetén és szakkérdésben, az Országos Atomenergia Hivatalt szakhatóságként jelöli ki,
+
 [^78]: A 14/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 9. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^79]: A 14/A. § (1) bekezdés záró szövegrésze a 273/2010. (XII. 9.) Korm. rendelet 124. § (1) bekezdésével megállapított szöveg.
 [^80]: A 14/A. § (1) bekezdés b) pontja a 273/2010. (XII. 9.) Korm. rendelet 124. § (1) bekezdésével megállapított, a 71/2011. (IV. 28.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
@@ -37,3 +39,4 @@ c)[^83] az ideiglenes határátkelőhely repülőtéren történő megnyitása e
 [^86]: A 14/A. § (5) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 29. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (97) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^87]: A 14/A. § (6) bekezdését a 263/2009. (XI. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (97) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^88]: A 14/A. § (7) bekezdését a 71/2011. (IV. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^89]: A 14/A. § (8) bekezdését a 190/2011. (IX. 19.) Korm. rendelet 45. § (1) bekezdése iktatta be.

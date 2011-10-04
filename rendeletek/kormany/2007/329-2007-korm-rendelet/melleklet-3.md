@@ -348,6 +348,6 @@
 
 ## 20.4. Lenti Rendőrkapitányság, Lenti
 
-3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^98]
+3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^99]
 
-[^98]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^99]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
