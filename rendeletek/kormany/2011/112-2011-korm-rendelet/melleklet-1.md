@@ -1,6 +1,6 @@
 ## 9. §[^1]
 
-1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez
+1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^2]
 
 Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
@@ -32,6 +32,8 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
 | 4.4. | A radioaktív hulladékoknak és kiégett fűtőelemeknek a Magyar Köztársaság országhatárán át történő szállításának engedélyezésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | szállítás engedélyezése | Országos Rendőr- főkapitányság |
 
+| 4.5. | Az atomenergia alkalmazása körében a fizikai védelmi rendszer hatósági engedélyezésére irányuló eljárásban. | Annak elbírálása, hogy az atomenergia alkalmazása körében a fizikai védelmi rendszerre vonatkozó rendészeti és személyi szempontú követelmények teljesülnek-e. | a fizikai védelmi rendszer engedélyezése | Országos Rendőr- főkapitányság |
+
 | 5.1. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | a területileg illetékes hivatásos önkormányzati tűzoltóság |
 
 | 5.2. | A nukleáris létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | a) építési (bontási) engedély, b) használatba- vételi engedély | a területileg illetékes hivatásos önkormányzati tűzoltóság |
@@ -45,3 +47,4 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
 [^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a szerint módosított szöveg.
