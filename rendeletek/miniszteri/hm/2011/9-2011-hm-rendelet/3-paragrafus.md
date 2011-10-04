@@ -1,0 +1,1 @@
+## 2. § A HM NEFEH a beérkező értesítést egy munkanapon belül tájékoztatás céljából továbbítja a Magyar Köztársaság Katonai Biztonsági Hivatala, valamint a Magyar Honvédség központi adatfeldolgozó szerve irányába.
