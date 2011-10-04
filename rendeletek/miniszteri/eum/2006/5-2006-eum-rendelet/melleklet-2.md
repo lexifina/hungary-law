@@ -270,7 +270,7 @@
 
 ## II/B. Mentőjárművek
 
-## A mentőjármű a működési engedély kiadásakor a forgalomba helyezés évétől számítva 13 évesnél idősebb nem lehet.
+## A mentőjármű a forgalomba helyezés évétől számítva 13 évesnél idősebb nem lehet.
 
 ## Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsit vagy gépkocsikat kell biztosítani.
 

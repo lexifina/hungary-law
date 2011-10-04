@@ -3,4 +3,4 @@
 1. melléklet az 5/2006. (II. 7.) EüM rendelethez[^29]
 
 [^28]: A 12/B. §-t a 37/2011. (VI. 28.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
-[^29]: Az 1. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (1) bekezdésével megállapított szöveg. [Az 1. melléklet II. Tárgyi feltételek II/B. Mentőjárművek rész nyitó szövegrészében a 37/2011. (VI. 28.) NEFMI rendelet 12. § (2) bekezdése alapján a „13 évesnél” szövegrész helyébe a „10 évesnél” szöveg lép. E módosító rendelet 19. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.]
+[^29]: Az 1. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (1) bekezdésével megállapított, az 57/2011. (IX. 29.) NEFMI rendelet 3. §-a szerint módosított szöveg. [Az 1. melléklet II. Tárgyi feltételek II/B. Mentőjárművek rész nyitó szövegrészében a 37/2011. (VI. 28.) NEFMI rendelet 12. § (2) bekezdése alapján a „13 évesnél” szövegrész helyébe a „10 évesnél” szöveg lép. E módosító rendelet 19. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.]
