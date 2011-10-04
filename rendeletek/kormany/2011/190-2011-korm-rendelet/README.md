@@ -1,0 +1,9 @@
+# 190/2011. (IX. 19.) Korm. rendelet
+
+az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-190-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-10-04 | 2011-190-20-22.1 | 190/2011. (IX. 19.) Korm. rendelet |

@@ -1,0 +1,1 @@
+## 42. § E rendelet 4. melléklete a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv 6. cikk c) pontjának való megfelelést szolgálja.
