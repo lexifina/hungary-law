@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Budai Gyula országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 30. B. 33.981/2010/5. számú megkeresésével érintett ügyben nem függeszti fel.
