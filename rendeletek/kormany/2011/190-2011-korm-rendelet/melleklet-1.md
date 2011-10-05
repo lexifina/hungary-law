@@ -1,3 +1,5 @@
+## 43–45. §[^1]
+
 1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
@@ -99,3 +101,5 @@ Ai – a radioaktív hulladék i. izotópjának aktivitása;
 Di – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező;
 
 Si – a radioaktív hulladék aktivitáskoncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező.
+
+[^1]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
