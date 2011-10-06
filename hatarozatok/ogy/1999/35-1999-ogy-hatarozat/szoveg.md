@@ -1,1 +1,0 @@
-A Magyar Országgyűlés az Európa Tanács megalakulásának 50., a kelet-európai államok felvételének 10. évfordulója, a Miniszteri Bizottság magyar elnöksége alkalmával az Európa Tanácsnak az 1956-os forradalom és szabadságharc ügyéért való kiállásáért a diktatórikus jelképtől megfosztott nemzeti színű zászlót adományoz.
