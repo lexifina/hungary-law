@@ -56,12 +56,14 @@ g) a célprogram 3. év végére legalább 0,2 állategység/ha legeltethető á
 
 h) a gyep felülvetése a célprogram tíz éve alatt egy alkalommal megengedett.
 
-(6) A támogatás mértéke a célprogramba bevitt terület után
+(6)[^134] A támogatás mértéke a célprogramba bevitt terület után
 
 a) az első gazdálkodási évben 238 euró/ha-nak megfelelő forintösszeg;
 
-b) a második gazdálkodási évtől kezdődően:
+b) a második gazdálkodási évtől kezdődően azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
 
-ba) nem Natura 2000 gyepterületen 279 euró/ha-nak megfelelő forintösszeg;
+bb) nem jogosult, 279 euró/ha-nak megfelelő forintösszeg;
 
-bb) Natura 2000 gyepterületen 241 euró/ha-nak megfelelő forintösszeg.
+bc) jogosult, 241 euró/ha-nak megfelelő forintösszeg.
+
+[^134]: A 71. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 22. §-ával megállapított szöveg.

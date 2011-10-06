@@ -1,6 +1,6 @@
 ## Ellenőrzés
 
-45. § (1)[^58] Az évente történő ellenőrzéseket
+45. § (1)[^78] Az évente történő ellenőrzéseket
 
 a) a jogosultsági feltételek és az agrár-környezetgazdálkodási kötelezettségvállalások teljesítésének vonatkozásában az MVH végzi, amelybe külön megállapodás alapján állami szerveket bevon;
 
@@ -26,10 +26,10 @@ c) helyszíni ellenőrzést
 
 (7) Az illetékes ökológiai ellenőrző szervezet köteles évente május 15-ig az MVH részére tájékoztatást küldeni az ökológiai gazdálkodás célprogramokban támogatással érintett földterületek ökológia státuszának megszüntetéséről, valamint visszaminősítéséről.
 
-(8)[^59] A 13. § (2) bekezdés d) pontja szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
+(8)[^79] A 13. § (2) bekezdés d) pontja szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
 
-(9)[^60] A 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
+(9)[^80] A 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
 
-[^58]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
-[^59]: A 45. § (8) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
-[^60]: A 45. § (9) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^78]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
+[^79]: A 45. § (8) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^80]: A 45. § (9) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.

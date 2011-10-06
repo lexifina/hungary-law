@@ -4,10 +4,10 @@
 
 (3) A tervek eredeti példányát a támogatási időszak alatt meg kell őrizni.
 
-(4)[^14] Az első gazdálkodási évre vonatkozó tápanyag-gazdálkodási tervet és földhasználati tervet legkésőbb 2010. május 15-ig kell elkészíteni.
+(4)[^21] Az első gazdálkodási évre vonatkozó tápanyag-gazdálkodási tervet és földhasználati tervet legkésőbb 2010. május 15-ig kell elkészíteni.
 
 (5) A támogatásra jogosult köteles az előző gazdálkodási évre vonatkozó tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmát évente szeptember 1. és november 30. között, elektronikus úton benyújtani a Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH). Az első gazdálkodási évre vonatkozó terv fentiek szerinti adattartalmát 2010. szeptember 1. és november 30. között kell benyújtani.
 
 (6) Az akkreditált talajlaboratórium által megküldött talajvizsgálati eredmények az adott gazdálkodási évet követő tápanyag-gazdálkodási tervek elkészítéséhez szolgálnak alapul.
 
-[^14]: A 15. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 7. §-ával megállapított szöveg.
+[^21]: A 15. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 7. §-ával megállapított szöveg.

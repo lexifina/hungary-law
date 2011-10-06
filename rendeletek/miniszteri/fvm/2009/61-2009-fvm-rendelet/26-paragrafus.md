@@ -1,6 +1,6 @@
 ## A kötelezettségvállalás területére vonatkozó visszavonás szabályai
 
-26. §[^27] (1) A támogatási időszak alatt a támogatásra jogosult az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon kérelmezheti
+26. §[^41] (1) A támogatási időszak alatt a támogatásra jogosult az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon kérelmezheti
 
 a) a teljes kérelem visszavonását,
 
@@ -10,7 +10,15 @@ c) egy adott célprogramba bevitt földterület részleges visszavonását.
 
 (2) Az (1) bekezdés alapján visszavont területre kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül, továbbá a visszavonással érintett terület támogatási jogosultsága megszűnik. A jogosulatlanul igénybe vett támogatás visszafizetése az adott gazdálkodási év támogatási összegéből történő levonással is teljesíthető.
 
-(3) Az (1) bekezdés c) pontja szerinti esetben a visszavont földterület – a vis maior esetek, valamint a 22. § (8) bekezdése alapján megszűnő kötelezettségek kivételével – csak teljes kötelezettségvállalással érintett egybefüggő terület lehet.
+(3)[^42] Az (1) bekezdés c) pontja szerinti esetben a visszavont földterület
+
+a) a vis maior esetek;
+
+b) a 22. § (8) bekezdése alapján megszűnő kötelezettségek;
+
+c) az 57. § (5) bekezdése alapján megszűnő kötelezettségek
+
+kivételével csak teljes kötelezettségvállalással érintett egybefüggő terület lehet.
 
 (4) A teljes kérelem visszavonás, a teljes célprogram visszavonás, valamint a kötelezettségvállalással érintett egybefüggő terület visszavonás iránti kérelmet – a támogatott ügyfél elhalálozása esete kivételével – elektronikus úton kell benyújtani az MVH-hoz. A támogatott elhalálozása esetén a teljes kérelem visszavonás, a teljes célprogram visszavonás, valamint a kötelezettségvállalással érintett egybefüggő terület visszavonás iránti kérelmet postai úton, az MVH által rendszeresített formanyomtatványon lehet benyújtani a támogatásra jogosult székhelye vagy lakhelye szerinti illetékes megyei MVH kirendeltségére. A támogatási időszak folyamán – jogutódlás esete kivételével – a visszavonásra vonatkozó kérelem beadási határidők az alábbiak:
 
@@ -28,8 +36,10 @@ d) a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában: 2013. dec
 
 (7) Ha a támogatásra jogosult az (1) bekezdés szerinti visszavonás iránti kérelmet a helyszíni ellenőrzésről történő értesítés napján, ennek hiányában a helyszíni ellenőrzés első napján, vagy ezt követően nyújtotta be, akkor a visszavonás iránti kérelem csak a következő gazdálkodási évre vonatkozóan fogadható el.
 
-(8) Ha a kötelezettségvállalással érintett egybefüggő terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül.
+(8)[^43] Ha a kötelezettségvállalással érintett egybefüggő terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül és vis maior esetek kivételével a területre vonatkozóan igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
 (9) Az (1) bekezdésben meghatározott kérelem alapján az MVH a területazonosítási kérelemre hozott határozatot módosítja.
 
-[^27]: A 26. § a 35/2010. (XI. 30.) VM rendelet 6. §-ával megállapított szöveg.
+[^41]: A 26. § a 35/2010. (XI. 30.) VM rendelet 6. §-ával megállapított szöveg.
+[^42]: A 26. § (3) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^43]: A 26. § (8) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.

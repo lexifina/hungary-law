@@ -1,6 +1,6 @@
 ## Növényvédelmi minimumkövetelmények
 
-## A.)[^102]
+## A.)[^157]
 
 ## B.) 2011. január 1-jétől minimumkövetelményként figyelembe veendő előírások
 
@@ -8,4 +8,4 @@
 
 18. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
 
-[^102]: A 17. számú melléklet A.) pontja a 79. § (2) bekezdése alapján hatályát vesztette.
+[^157]: A 17. számú melléklet A.) pontja a 79. § (2) bekezdése alapján hatályát vesztette.

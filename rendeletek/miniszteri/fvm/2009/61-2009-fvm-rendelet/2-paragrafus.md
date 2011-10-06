@@ -132,7 +132,7 @@
 
 64. támogatásra jogosult: az az előzetesen támogatásra jogosult, aki a véglegesen jóváhagyott területeket tartalmazó területazonosítási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik;
 
-65. támogatott terület: a véglegesen jóváhagyott területeket tartalmazó területazonosítási kérelemnek helyt adó vagy részben helyt adó határozatban megjelölt terület;
+65.[^4] támogatott terület: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott, EOV koordináták alapján beazonosított kötelezettségvállalással érintett egybefüggő terület;
 
 66. tápanyag-gazdálkodási terv: a talajvizsgálat, valamint adott célprogramok esetében a levélanalízis eredményei alapján számított, szervestrágyával, műtrágyával, vagy egyéb, a növénytáplálás céljából legfeljebb kijuttatandó hatóanyagok évenkénti mennyiségét meghatározó terv;
 
@@ -152,13 +152,21 @@
 
 74. zöldugar: legfeljebb három gazdálkodási évig tartó állandó vagy időszakos zöld növényi borítottság, amelyet legalább három fajból álló magkeverékkel, ebből legalább egy pillangós faj alkalmazásával alakítottak ki;
 
-75. zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a fejlődése vegetatív szakaszában, de legkésőbb virágzáskor teljes tömegében a talajba bedolgozásra kerül a talajtermékenység javításának céljából. Az árvakelés nem minősül zöldtrágya-növénynek;
+75.[^5] zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a talajtermékenység javításának céljából fejlődése vegetatív szakaszában, de legkésőbb az első virágzáskor teljes tömegében a talajba bedolgozásra kerül. Az árvakelés nem minősül zöldtrágya-növénynek;
 
 76. zsombékos: időszakosan vízzel borított területen kialakuló, csomókban fejlődő növényekből álló, magasfüvű, oszlopos gyepes társulások összessége, amelyekre jellemző, hogy a növényzet növekedése révén szembetűnő felszíni egyenlőtlenségek jönnek létre. A növényzet alatt rendszeres a tőzegképződés;
 
-77.[^4] kalászos gabona: árpa, búza, durumbúza, tavaszi búza, kétszeres és egyéb búza, rozs, tritikálé, zab.
+77.[^6] kalászos gabona: árpa, búza, durumbúza, tavaszi búza, kétszeres és egyéb búza, rozs, tritikálé, zab.
+
+78.[^7] támogatásra jogosultság mértéke: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott és a támogatott területtől elkülönülten megjelölt terület nagysága, amely nem haladhatja meg a támogatási kérelemre hozott határozatban előzetesen jóváhagyott terület nagyságát;
+
+79.[^8] silókukorica: silótakarmány készítése céljából betakarított kukorica.
 
 [^1]: A 2. § 41. pontja a 31/2010. (III. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 56. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^3]: A 2. § 58. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: A 2. § 77. pontját a 31/2010. (III. 30.) FVM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 65. pontja a 92/2011. (X. 5.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 75. pontja a 92/2011. (X. 5.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 77. pontját a 31/2010. (III. 30.) FVM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § 78. pontját a 92/2011. (X. 5.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^8]: A 2. § 79. pontját a 92/2011. (X. 5.) VM rendelet 1. § (4) bekezdése iktatta be.

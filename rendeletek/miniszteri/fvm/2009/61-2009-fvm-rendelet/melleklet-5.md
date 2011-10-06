@@ -36,6 +36,6 @@
 
 | meliorációs mérnök F | földmérő és földrendező mérnöki | birtokrendező mérnöki |
 
-5. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^98]
+5. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^153]
 
-[^98]: Az 5. számú melléklet a 167/2009. (XII. 15.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^153]: Az 5. számú melléklet a 167/2009. (XII. 15.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

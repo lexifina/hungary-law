@@ -75,3 +75,5 @@
 | Málna, szeder | I. | Éréskor | a hajtás középső részéről kifejlett összetett levéllemez |
 
 20. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
+
+A tápanyag-gazdálkodási terv kötelezően beküldendő tartalmi elemei

@@ -58,55 +58,53 @@
 
 ## B) Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
 
-| Támo- gatási rendszer | célprog- ram azono- sító | Célprogram megnevezése | Támogatás mértéke euró/ha-nak megfelelő forintösszeg |
+|  | A | B | C | D | E | F |
 
-| horizontális | BA | Extenzív gyepgazdálkodás | Nem Natura 2000 területen | Legeltetés | 108 |
+| 1. | Támogatási rendszer | Célprogram azonosító | Célprogram megnevezése | Támogatás mértéke euró/ha-nak megfelelő forintösszeg |
 
-| Kaszálás | 71 |
+| 2. | horizontális | BA | Extenzív gyepgazdálkodás | Nincs Natura 2000 jogosultság | Legeltetés | 108 |
 
-| Natura 2000 területen | Legeltetés | 77 |
+| 3. | Kaszálás | 71 |
 
-| Kaszálás | 40 |
+| 4. | Natura 2000 Jogosultság esetén | Legeltetés | 77 |
 
-| BB | Ökológiai gyepgazdálkodás | Nem Natura 2000 területen | Legeltetés | 116 |
+| 5 | Kaszálás | 40 |
 
-| Kaszálás | 79 |
+| 6. | BB | Ökológiai gyepgazdálkodás | Nincs Natura 2000 jogosultság | Legeltetés | 116 |
 
-| Natura 2000 területen | Legeltetés | 85 |
+| 7. | Kaszálás | 79 |
 
-| Kaszálás | 48 |
+| 8. | Natura 2000 Jogosultság esetén | Legeltetés | 85 |
 
-| zonális | BC | Gyepgazdálkodási természetvédelmi célú zonális célprogramok |
+| 9. | Kaszálás | 48 |
 
-| BC-1 | Túzok élőhelyfejlesztési előírásokkal | Nem Natura 2000 területen | Legeltetés | 155 |
+| 10. | zonális | BC-1 | Gyepgazdálkodás túzok élőhelyfejlesztési előírásokkal | Nincs Natura 2000 jogosultság | Legeltetés | 155 |
 
-| Kaszálás | 116 |
+| 11. | Kaszálás | 116 |
 
-| Natura 2000 területen | Legeltetés | 117 |
+| 12. | Natura 2000 Jogosultság esetén | Legeltetés | 117 |
 
-| Kaszálás | 78 |
+| 13. | Kaszálás | 78 |
 
-| BC-2 | Élőhelyfejlesztési előírásokkal | Nem Natura 2000 területen | Legeltetés | 139 |
+| 14. | BC-2 | Élőhelyfejlesztési előírásokkal | Nincs Natura 2000 jogosultság | Legeltetés | 139 |
 
-| Kaszálás | 116 |
+| 15. | Kaszálás | 116 |
 
-| Natura 2000 területen | Legeltetés | 101 |
+| 16. | Natura 2000 Jogosultság esetén | Legeltetés | 101 |
 
-| Kaszálás | 78 |
+| 17. | Kaszálás | 78 |
 
-| BD | Szántóterületek gyepgazdálkodássá alakításának célprogramjai |
+| 18. | BD-1 | Környezetvédelmi célú gyeptelepítés | 1. gazdálkodási évben | 238 |
 
-| BD-1 | Környezetvédelmi célú gyeptelepítés | 1. gazdálkodási évben | 238 |
+| 19. | 2. gazdálkodási évtől | Nincs Natura 2000 jogosultság | 279 |
 
-| 2. gazdálkodási évtől | Nem Natura 2000 területen | 279 |
+| 20. | Natura 2000 jogosultság esetén | 241 |
 
-| Natura 2000 területen | 241 |
+| 21. | BD-2 | Természetvédelmi célú gyeptelepítés | 1. gazdálkodási évben | 238 |
 
-| BD-2 | Természetvédelmi célú gyeptelepítés | 1. gazdálkodási évben | 238 |
+| 22. | 2. gazdálkodási évtől | Nincs Natura 2000 jogosultság | 305 |
 
-| 2. gazdálkodási évtől | Nem Natura 2000 területen | 305 |
-
-| Natura 2000 területen | 267 |
+| 23. | Natura 2000 jogosultság esetén | 267 |
 
 ## C) Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csoport:
 
@@ -156,7 +154,7 @@
 
 | DC | Vizes élőhelyek létrehozása és kezelése | 195 |
 
-3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^96]
+3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^151]
 
 ## A támogatási kérelmek részletes pontozási szempontrendszere
 
@@ -338,4 +336,4 @@ III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csop
 
 IV. Vizes élőhely földhasználathoz kapcsolódó agrár-környezetgazdálkodási célprogram csoport
 
-[^96]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^151]: A 3. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

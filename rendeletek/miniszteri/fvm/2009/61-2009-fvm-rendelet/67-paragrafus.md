@@ -34,7 +34,7 @@ ae) pásztoroló vagy szakaszolt legeltetést kell alkalmazni;
 
 af) kaszálás évente egy alkalommal engedélyezett;
 
-ag) őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig a területről le kell hordani;
+ag)[^120] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 b) kaszálás esetén:
 
@@ -42,20 +42,24 @@ ba) a gyepet legalább kétszeri kaszálással kell hasznosítani, amelybe az ő
 
 bb) felülvetés, vegyszeres gyomirtás, műtrágyázás, szervestrágyázás és öntözés tilos;
 
-bc) a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig a területről le kell hordani;
+bc)[^121] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 bd) a gazdálkodási év során kizárólag kaszálás történik.
 
-(5) A támogatás mértéke a célprogramba bevitt terület után:
+(5)[^122] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybe vételére
 
-a) nem Natura 2000 gyepterületen történő:
+a) nem jogosult:
 
 aa) legeltetés esetén 108 euró/ha-nak megfelelő forintösszeg;
 
 ab) kaszálás esetén 71 euró/ha-nak megfelelő forintösszeg;
 
-b) Natura 2000 gyepterületen történő:
+b) jogosult:
 
 ba) legeltetés esetén 77 euró/ha-nak megfelelő forintösszeg;
 
 bb) kaszálás esetén 40 euró/ha-nak megfelelő forintösszeg.
+
+[^120]: A 67. § (4) bekezdés a) pont ag) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^121]: A 67. § (4) bekezdés b) pont bc) alpontja a 92/2011. (X. 5.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^122]: A 67. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.

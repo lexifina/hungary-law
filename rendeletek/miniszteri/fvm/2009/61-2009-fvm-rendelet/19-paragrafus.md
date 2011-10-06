@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben foglalt monitoring adatszolgáltatáson túl a célprogram-előírások gazdasági és környezeti hatásainak vizsgálata érdekében az IH hatásindikátor monitorozó rendszert működtet az intézkedés teljes időtartama alatt.
 
-(3) A hatásindikátor monitorozó rendszer üzemeltetéséről, működéséről, a kiválasztásra kerülő támogatásra jogosultak szempontrendszeréről, a gyűjtendő adatok köréről, valamint a kiértékelés módszertanáról a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján az IH közleményben rendelkezik.
+(3)[^29]
 
 (4) A (2) bekezdés szerinti rendszer keretében a támogatásra jogosultak közül reprezentatív mintasokaság kerül kiválasztásra, különösen az alábbi szempontok figyelembevételével:
 
@@ -30,7 +30,7 @@ cb) szaktanácsadási szolgáltatás igénybevétele szerint;
 
 cc) az iskolai végzettség szerint.
 
-(5)[^22] Az IH a mintasokaság kiválasztási eljárása során hozott határozatát követő 30 napon belül írásban értesíti azon támogatásra jogosultakat, akik a (4) bekezdés alapján a mintasokaságba kiválasztásra kerültek.
+(5)[^30] Az IH a mintasokaság kiválasztási eljárását követően írásban értesíti a kiválasztásra került támogatásra jogosultakat.
 
 (6) Az a támogatásra jogosult, aki a mintasokaságba kiválasztásra került, köteles a támogatási időszak alatt, valamint az azt követő gazdálkodási év során a gazdasági, természetvédelmi, talajvédelmi és vízvédelmi hatások monitorozása érdekében
 
@@ -40,4 +40,5 @@ b) a hatásindikátor monitorozó rendszer működése érdekében meghatározot
 
 (7) E kötelezettségek teljesítésével kapcsolatban a támogatásra jogosultat költség nem terheli. A hatásindikátor monitorozó rendszer működésére és a (6) bekezdésben foglalt vizsgálatok elvégzésének költségeire a monitoringot végző részére az IH az EMVA Technikai Segítségnyújtás intézkedés keretéből nyújt fedezetet.
 
-[^22]: A 19. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 9. §-ával megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^29]: A 19. § (3) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^30]: A 19. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 5. §-ával megállapított szöveg.

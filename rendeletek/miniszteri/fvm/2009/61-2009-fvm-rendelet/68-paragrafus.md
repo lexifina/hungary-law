@@ -34,7 +34,7 @@ bd) pásztoroló vagy szakaszolt legeltetést kell alkalmazni;
 
 be) kaszálás évente egy alkalommal engedélyezett;
 
-bf) őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig a területről le kell hordani;
+bf)[^123] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 c) kaszálás esetén:
 
@@ -42,19 +42,19 @@ ca) a gyepet legalább kétszeri kaszálással kell hasznosítani, amelybe az ő
 
 cb) felülvetés, szervestrágyázás és öntözés tilos;
 
-cc) a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig a területről le kell hordani;
+cc)[^124] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 cd) a gazdálkodási év során kizárólag kaszálás történik.
 
-(5) A támogatás mértéke a célprogramba bevitt terület után:
+(5)[^125] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
 
-a) nem Natura 2000 gyepterületen történő:
+a) nem jogosult:
 
 aa) legeltetés esetén 116 euró/ha-nak megfelelő forintösszeg;
 
 ab) kaszálás esetén 79 euró/ha-nak megfelelő forintösszeg;
 
-b) Natura 2000 gyepterületen történő:
+b) jogosult:
 
 ba) legeltetés esetén 85 euró/ha-nak megfelelő forintösszeg;
 
@@ -63,3 +63,7 @@ bb) kaszálás esetén 48 euró/ha-nak megfelelő forintösszeg.
 (6) A területazonosítási kérelemhez mellékelni kell a 39. § (4) bekezdés szerinti igazolást.
 
 (7) A kifizetési kérelemhez mellékelni kell a 43. § (5) bekezdésében foglalt igazolást.
+
+[^123]: A 68. § (4) bekezdés b) pont bf) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^124]: A 68. § (4) bekezdés c) pont cc) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^125]: A 68. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 19. § (3) bekezdésével megállapított szöveg.

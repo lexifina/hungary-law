@@ -42,7 +42,7 @@ i) a 17. § (2) bekezdésében foglaltakra tekintettel kizárólag környezetkí
 
 j) a növényvédelmi beavatkozásokat dokumentált előrejelzés (növényvédelmi megfigyelés) alapján kell végezni.
 
-(5)[^73] A támogatás mértéke:
+(5)[^103] A támogatás mértéke:
 
 a) szántóföldi zöldségnövények esetén a célprogramba bevitt terület után 196 euró/ha-nak megfelelő forintösszeg;
 
@@ -52,7 +52,7 @@ c) a 13. számú melléklet szerinti ritka szántóföldi zöldségnövények es
 
 d) a 12. számú melléklet szerinti egyéb ritka szántóföldi növény esetén a célprogramba bevitt terület után 258 euró/ha-nak megfelelő forintösszeg.
 
-(6)[^74] A támogatási kérelemhez mellékelni kell a tulajdoni lap harminc napnál nem régebbi hiteles másolatát arról, hogy a célprogramba bevinni kívánt területhez tartozó lakott terület az ingatlan-nyilvántartásban a 2. § 60. pontjában meghatározottak szerint van bejegyezve, és a tulajdoni lapon szereplő ingatlan részben vagy egészben a kérelmező tulajdonában vagy haszonélvezetében van.
+(6)[^104] A támogatási kérelemhez mellékelni kell a tulajdoni lap harminc napnál nem régebbi hiteles másolatát arról, hogy a célprogramba bevinni kívánt területhez tartozó lakott terület az ingatlan-nyilvántartásban a 2. § 60. pontjában meghatározottak szerint van bejegyezve, és a tulajdoni lapon szereplő ingatlan részben vagy egészben a kérelmező tulajdonában vagy haszonélvezetében van.
 
-[^73]: Az 59. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 18. §-ával megállapított szöveg.
-[^74]: Az 59. § (6) bekezdése a 77/2009. (VI. 30.) FVM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^103]: Az 59. § (5) bekezdése a 35/2010. (XI. 30.) VM rendelet 18. §-ával megállapított szöveg.
+[^104]: Az 59. § (6) bekezdése a 77/2009. (VI. 30.) FVM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
