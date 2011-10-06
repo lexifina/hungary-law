@@ -1,1 +1,0 @@
-## 4. § Az Országgyűlés felkéri az igazságügy-minisztert és a pénzügyminisztert, hogy az illetékes állami szervek bevonásával vizsgálják meg: a jelenleg hatályos jogszabályok adnak-e lehetőséget – bármely területen – az úgynevezett olajügyekhez hasonló visszaélésekre. A vizsgálat eredményéről a 2000. évi őszi ülésszak végéig tájékoztassák az Országgyűlést.
