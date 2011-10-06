@@ -1,1 +1,0 @@
-Az Országgyűlés szükségesnek tartja, hogy a Munkaerőpiaci Alap 1997-től a munkaadók, a munkavállalók és a Kormány delegált képviselőiből álló önkormányzati jellegű irányítás alá kerüljön. Ezért felkéri a Kormányt, hogy az ehhez szükséges törvényjavaslatot 1996. augusztus 31-ig terjessze be az Országgyűléshez.
