@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság és Kuwait Állam között a beruházások elősegítéséről és kölcsönös védelméről Kuwaitban, az 1989. évi november hó 8. napján aláírt Megállapodást e határozattal megerősíti.
