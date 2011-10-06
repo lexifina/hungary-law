@@ -1,1 +1,0 @@
-Az Országgyűlés a NATO-nak a 2009. évi afgán választások biztosításában történő közreműködésével kapcsolatos magyar katonai szerepvállalásról szóló kormánydöntésről, valamint a Magyar Honvédségnek az afganisztáni Nemzetközi Biztonsági Közreműködő Erők tevékenységében való közreműködéséről szóló beszámolót elfogadja.
