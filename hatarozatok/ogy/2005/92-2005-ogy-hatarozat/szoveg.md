@@ -1,3 +1,0 @@
-Az Országgyűlés a népszavazásról és a népi kezdeményezésről szóló 1998. évi III. törvény rendelkezései szerint megtárgyalta a „Kívánja-e Ön, hogy az Országgyűlés tűzze napirendre az ápolási díj kérdését, és a megalkotandó új törvényben a súlyos fogyatékos és állandó felügyeletre szoruló személyekre tekintettel az ápolási-gondozási tevékenységet ellátó hozzátartozó által végzett napi 24 órás gondozást, felügyeletet teljes értékű munkavégzésként ismerje el, és ennek megfelelően az ápolási díj összege ne lehessen kevesebb a mindenkori legalacsonyabb munkabér összegénél?” tárgyú népi kezdeményezést, s arról a 2005. december 13-i ülésén a következők szerint döntött:
-
-Az Országgyűlés a népi kezdeményezésben foglaltakkal nem ért egyet.
