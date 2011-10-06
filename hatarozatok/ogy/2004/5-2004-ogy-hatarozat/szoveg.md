@@ -1,1 +1,0 @@
-Az Országgyűlés tudomásul veszi a Kormány által előterjesztett 2002. évről szóló jelentést a gyermekek és az ifjúság helyzetéről, életkörülményeik alakulásáról és az ezzel összefüggésben a 2002. évben megtett kormányzati intézkedésekről.
