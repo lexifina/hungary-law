@@ -1,1 +1,0 @@
-Az Országgyűlés — az állami pénzügyekről szóló 1979. évi II. törvény 11. §-a alapján — felhatalmazza a Magyar Nemzeti Bank elnökét, hogy az 1989. évi állami költségvetés tervezettnél nagyobb hiányát — legfeljebb 33 milliárd forint erejéig — átmenetileg, az 1989. évi állami költségvetés végrehajtásáról szóló törvény jóváhagyásáig, rövid lejáratú hitellel finanszírozza.
