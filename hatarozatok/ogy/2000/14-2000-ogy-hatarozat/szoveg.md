@@ -1,3 +1,0 @@
-A 2000. évben a két- és többoldalú megállapodások alapján tervezett, országgyűlési hozzájárulást igénylő csapatmozgásokról, illetve a hazai gyakorló- és lőterek külföldiek által, térítés ellenében történő igénybevételéről szóló 6/2000. (II. 16.) OGY határozat II. fejezetének 1. pontja helyébe az alábbi szöveg lép:
-
-,,1. a holland 43. gépesített dandár és alárendeltségében egy német műszaki alegység, legfeljebb összesen 2200 fő, teljes felszereléssel és fegyverzettel, 200 lánctalpas és 700 kerekes járművel, a gyakorlat és lövészet végrehajtásához szükséges lőszerrel, az I. félévben (35 nap) Magyarországra érkezzen, és igénybe vegye a Várpalotai Központi Gyakorló- és Lőteret;''
