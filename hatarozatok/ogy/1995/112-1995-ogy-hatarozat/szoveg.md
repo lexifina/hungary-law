@@ -1,5 +1,0 @@
-Az Országgyűlés
-
-1. a Magyar Köztársaságnak az Egyesült Nemzetek Alapokmányából fakadó kötelezettségeire, valamint az Alkotmány 40/C. §-ának (1) bekezdésére tekintettel előzetes hozzájárulását adja ahhoz, hogy a délszláv válság békés rendezését szolgáló megállapodás végrehajtását biztosító IFOR erők egységei Magyarország területén átvonulhassanak, átmenetileg állomásozhassanak, ideértve az állomásozás ideje alatt az IFOR szervezetek felkészítését, valamint az IFOR tevékenységéhez szükséges vezetési és logisztikai feladatok ellátását, továbbá azt is, hogy ennek keretében repülőgépei az ország légterét és kijelölt repülőtereit igénybe vehessék;
-
-2. felhatalmazza a Kormányt, hogy az IFOR erők egységeit magyarországi átvonulásuk, valamint átmeneti állomásozásuk során — a nemzetközi jog által szokásosan nyújtott — mentességben részesítse, valamint, hogy megállapodjon az egyes IFOR-ban résztvevő államok kormányaival az átvonulás, illetve az átmeneti állomásozás részletes feltételeiről és ezek pénzügyi vonatkozásairól.
