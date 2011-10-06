@@ -1,9 +1,0 @@
-1. Az Országgyűlés az 1990. évi gazdaságpolitikai programról szóló tájékoztatót, továbbá a Kormánynak a gazdasági átalakulás érdekében esedékes teendőit tudomásul veszi. Felhatalmazza a Kormányt, hogy a gazdaságpolitikai programban foglaltak alapján a szükséges gazdasági szervező intézkedéseket tegye meg.
-
-2. Az Országgyűlés egyetért azzal, hogy a Kormány a gazdaságpolitikai program teljesítése érdekében széles körű nemzetközi gazdaságdiplomáciai tevékenységet folytasson. Szükségesnek tartja a Nemzetközi Valutaalappal való hitelmegállapodást, a Világbankkal új szerkezetátalakító kölcsönszerződés előkészítését az Európai Gazdasági Közösséggel és az OECD-országokkal a gazdasági együttműködés javításáról, valamint ehhez kapcsolódóan konkrét megállapodások és hitelszerződések előkészítéséről folyó tárgyalásokat. Fontosnak tartja a KGST tagországaival kötendő 1990. évi államközi megállapodások érdekeinek megfelelő létrehozását, az együttműködés piaci feltételeinek kiszélesítését.
-
-3. A Kormány fordítson fokozott figyelmet a társadalmi folyamatok alakulására; vállaljon kezdeményező szerepet a korszerű érdekegyeztetési intézményrendszer — az érdekképviseleti szervezetekkel együttes — kialakításában. Ennek keretében segítse elő az 1990. évi bérmegállapodásokat.
-
-4. Az Országgyűlés felhívja a gazdálkodó szervezeteket, hogy élve a vállalkozások élénkítésére alkalmas lehetőségekkel — a csökkenő, vagy megszűnő állami támogatások mellett is — törekedjenek jövedelemtermelő képességük javítására, költségeik csökkentésére, termelési szerkezetüknek a változó piaci viszonyokhoz való jobb alkalmazkodására. Az infláció elleni küzdelemben a gazdálkodó szervek tanúsítsanak felelős magatartást áraik és béreik alakításában.[^2]
-
-[^2]: Lásd az 1014/1990. (I. 31.) MT határozatot.
