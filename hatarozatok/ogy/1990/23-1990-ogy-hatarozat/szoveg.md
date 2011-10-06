@@ -1,5 +1,0 @@
-1. Az Országgyűlés — egyetértve a népi kezdeményezésben foglaltakkal — maga is aggodalommal szemléli a pornográfia és erőszak kultuszának egyre nagyobb térhódítását. Nem osztja ugyanakkor azt a véleményt, hogy e káros társadalmi jelenségek feltartóztatása szigorúbb büntetőjogi fellépéssel megoldható lenne.
-
-2. Az Országgyűlés álláspontja szerint a Büntető Törvénykönyv e témakörre vonatkozó szabályozása a kor követelményeinek megfelel. Nem nélkülözhető, egyben szükséges is azonban az egyéb jogi szabályozás megteremtése.
-
-3. A kialakult társadalmi helyzet sürgős intézkedések foganatosítását teszi indokolttá, de ennek során nem célszerű a feltétlen tiltás álláspontjára helyezkedni. Felkéri ezért a Kormányt, hogy dolgozzon ki szigorú és ellenőrizhető forgalmazási feltételeket megállapító jogi szabályozást, egyben az ilyen termékek és szolgáltatások forgalmazására vessen ki külön adót. Gondoskodni kell az ebből eredő adóbevétel elkülönített kezeléséről és kizárólag közérdekű célokra történő felhasználásáról.
