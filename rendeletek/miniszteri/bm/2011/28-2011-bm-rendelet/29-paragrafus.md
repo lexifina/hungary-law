@@ -1,0 +1,1 @@
+## 28. § A halon, HCFC, HFC, és a környezeti elemekre, különösen a légkörre káros töltetű tűzoltó készülék a légkörbe nem üríthető ki. A töltési és lefejtési műveletek az oltóanyag visszanyerésére alkalmas, zárt rendszerű eljárás alkalmazásával történik, szükség esetén az ilyen oltóanyag regenerálásával vagy ártalmatlanításával.

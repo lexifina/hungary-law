@@ -1,0 +1,1 @@
+## 309. § Cső-, szellőzővezetékek és kábelek szerkezeti átvezetési, áttörési réseinek, valamint hosszanti hézagai tömítőrendszereinek osztályozási lehetőségeit a 15. melléklet 12. táblázat tartalmazza.

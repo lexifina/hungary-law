@@ -1,0 +1,1 @@
+## 370. § Abban az esetben, ha a nyílászáró szerkezetre magasabb tűzállósági követelmény vonatkozik, mint a válaszfalakra, akkor a válaszfalak tűzállósági határértéke egyezzen meg a benne lévő ajtó tűzállósági határértékével.
