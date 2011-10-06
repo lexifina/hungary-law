@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről Rabatban, 1991. december 12. napján aláírt Megállapodást e határozattal megerősíti.
