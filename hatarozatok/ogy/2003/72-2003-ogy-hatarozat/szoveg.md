@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság Kormányának a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 88. ülésszakán elfogadott, az anyaság védelméről szóló 183. számú Egyezményről és az anyaság védelméről szóló 191. számú Ajánlásról szóló beszámolóját elfogadja.
