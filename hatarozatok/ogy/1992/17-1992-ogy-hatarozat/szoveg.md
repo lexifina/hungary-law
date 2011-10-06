@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság és a Spanyol Királyság között a beruházások elősegítéséről és kölcsönös védelméről Budapesten, az 1989. évi november hó 9. napján aláírt Megállapodást e határozattal megerősíti.
