@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről Oslóban, 1991. április 8-án aláírt Megállapodást e határozattal megerősíti.
