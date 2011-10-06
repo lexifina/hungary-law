@@ -1,3 +1,0 @@
-Az Országgyűlés az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvény rendelkezései szerint megtárgyalta dr. Navracsics Tibor, a Fidesz – Magyar Polgári Szövetség országgyűlési képviselőcsoportjának vezetője és dr. Semjén Zsolt, a Kereszténydemokrata Néppárt országgyűlési képviselőcsoportjának vezetője és 151 országgyűlési képviselő által benyújtott országos népszavazási kezdeményezést, és arról a 2008. április 14-i ülésén a következők szerint döntött:
-
-Az Országgyűlés az „Egyetért-e Ön azzal, hogy törvény tegye kötelezővé a miniszterelnök, a miniszterek, az államtitkárok és az országgyűlési képviselők vagyongyarapodásának évenkénti vizsgálatát?” kérdésben az országos népszavazást nem rendeli el.
