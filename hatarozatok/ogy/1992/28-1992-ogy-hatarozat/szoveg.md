@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Népköztársaság Kormánya és az Indonéz Köztársaság Kormánya között a kettős adóztatatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelemadók területén Dzsakartában, 1989. október 19-én aláírt Egyezményt e határozattal megerősíti.
