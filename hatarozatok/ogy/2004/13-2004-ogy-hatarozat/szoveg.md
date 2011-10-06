@@ -1,1 +1,0 @@
-Az Országgyűlés elfogadja a Kormány által előterjesztett Jelentést a kábítószer-probléma visszaszorítása érdekében készített nemzeti stratégiai program megvalósulásáról, az ellátó intézményrendszer átvizsgálásáról és hatékonyságvizsgálatáról.
