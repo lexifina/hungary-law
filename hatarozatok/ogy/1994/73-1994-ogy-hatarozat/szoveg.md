@@ -1,1 +1,0 @@
-Az Országgyűlés az ,,EXPO '96 Budapest'' nemzetközi szakkiállítás megrendezéséről történő döntésre irányuló népszavazást a népszavazásról és népi kezdeményezésről szóló 1989. évi XVII. törvény 9. §-ának (1) bekezdése alapján nem rendeli el.
