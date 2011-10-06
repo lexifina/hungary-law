@@ -1,1 +1,0 @@
-Az Országgyűlés a Kormány előterjesztésére tudomásul veszi a Nemzetközi Munkaügyi Konferencia 1989. évi 76. ülésszakán elfogadott a ,,független országok őshonos és törzsi népeire vonatkozó 169. számú egyezmény'' című okmány bemutatását.
