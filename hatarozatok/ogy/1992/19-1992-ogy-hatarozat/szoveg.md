@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Népköztársaság Kormánya és az Uruguay Keleti Köztársaság Kormánya között a kettős adóztatás elkerülésére a jövedelem- és vagyonadók területén Montevideoban, az 1988. évi október hó 25. napján aláírt Egyezményt e határozattal megerősíti.
