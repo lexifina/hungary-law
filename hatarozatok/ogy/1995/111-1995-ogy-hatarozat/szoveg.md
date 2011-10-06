@@ -1,1 +1,0 @@
-Az Országgyűlés a magyar energiaszektor privatizációja elleni népi kezdeményezést — a népszavazásról és népi kezdeményezésről szóló 1989. évi XVII. törvény 18. §-ának (3) bekezdése alapján — nem veszi tárgysorozatába.
