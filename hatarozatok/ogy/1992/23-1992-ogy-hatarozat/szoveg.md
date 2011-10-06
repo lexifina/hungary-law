@@ -1,1 +1,0 @@
-Az Országgyűlés a Magyar Köztársaság Kormányának az 1990. évi állami költségvetés végrehajtásával összefüggésben tett állami számvevőszéki javaslatokra vonatkozó intézkedésekről szóló jelentését tudomásul veszi.
