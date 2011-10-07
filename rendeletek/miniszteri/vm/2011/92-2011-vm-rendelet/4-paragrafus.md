@@ -1,3 +1,0 @@
-## 3. § Az R. 7. §-a a következő (9) bekezdéssel egészül ki:
-
-## „(9) Az (5) bekezdéstől eltérően, amennyiben a kötelezettségvállalással érintett egybefüggő területen az 50/2008. (IV. 24.) FVM rendelet 2. § o), valamint p) pontja szerint tájképi elemnek minősülő kunhalom található, annak területére az 50/2008. (IV. 24.) FVM rendelet 1. számú melléklet 9. pontjában foglaltak vonatkoznak. Kifizetés a kötelezettségvállalással érintett egybefüggő területeken található kunhalmok területére is igényelhető, azok területét a kötelezettségvállalással érintett egybefüggő területből visszavonni nem szükséges.”

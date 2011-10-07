@@ -1,1 +1,0 @@
-## „(2) A területazonosítási kérelemben az EOV koordináták megadása akkor is kötelező, ha a támogatási kérelemnek helyt adó, vagy részben helyt adó határozattal előzetesen jóváhagyott terület egybeesik a fizikai blokk támogatható területével.”
