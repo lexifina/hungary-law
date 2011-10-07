@@ -1,0 +1,170 @@
+# A Kormány 203/2011. (X. 7.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 116. szám, 2011. október 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/aacd2ae56de9862fb36c5d27ddb8dc41673bd9d1/dokumentumok/ff54a376272769b6f30e7bb7b1288a8d7b6582ca/letoltes)
+
+---
+
+A Kormány 203/2011. (X. 7.) Korm. rendelete
+a biztosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.)
+96. §-ában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. Értelmező rendelkezések
+1. § E rendelet alkalmazásában
+1. bruttó biztosítási díj: a biztosítás megvásárlójának számlázott díj;
+2. együttbiztosítási társulás: a biztosítók által közvetlenül, alkuszon vagy ügynökön keresztül létrehozott csoport
+– kivéve a biztosításjegyzési piacon létrejött olyan együttbiztosítási megállapodást, amelyben egy adott kockázat egy
+bizonyos részét a vezető biztosító fedezi, a fennmaradó részt pedig az arra felkért társbiztosító –, amely
+a) a kockázatokmeghatározott csoportjáravonatkozóbiztosításiszerződéseknekvalamennyirészt vevő nevébenés
+számlájára történő megkötésében állapodik meg, vagy
+b) a biztosítók egyikét, közös alkuszt vagy közösen e célra létrehozott testületet meghatározott kockázati csoport
+biztosításának nevében és javára való megkötésével és lebonyolításával bíz meg;
+3. együtt-viszontbiztosítási társulás: a biztosítók által közvetlenül, alkuszon vagy ügynökön keresztül létrehozott
+csoport – kivéve a biztosításjegyzési piacon létrejött olyan együttbiztosítási megállapodást, amelyben egy adott
+
+kockázat egy bizonyos részét a vezető biztosító fedezi, a fennmaradó részt pedig az arra felkért társbiztosító –,
+amelynek célja
+a) a kockázatokmeghatározottcsoportjatekintetébenvállaltvalamennyikötelezettségüknekvagy kötelezettségeik
+egy részének kölcsönös viszontbiztosítása, vagy
+b) esetenként az ugyanilyen kockázatcsoport viszontbiztosításának valamennyi résztvevő nevében és javára
+történő elfogadása;
+4. kapcsolt vállalkozás: olyan vállalkozás,
+a) amelyben a megállapodásban részt vevő vállalkozás közvetlenül vagy közvetve
+aa) rendelkezik a szavazati jogok több mint felével,
+ab) jogosult a felügyelő, ellenőrző, vagy irányító szerv, vagy a vállalkozás képviseletére jogosult szerv tagjai
+több mint felének kinevezésére, vagy
+ac) jogosult a vállalkozás ügyeinek irányítására;
+b) amely a megállapodásban részt vevő vállalkozások közül valamelyik tekintetében közvetlenül vagy közvetve az
+a) pontban felsorolt jogokkal vagy hatáskörökkel rendelkezik;
+c) amely tekintetében a b) pontban említett vállalkozás közvetlenül vagy közvetve az a) pontban felsorolt jogokkal
+vagy hatáskörökkel rendelkezik;
+d) amelyben a megállapodásban részt vevő valamely vállalkozás az a), b) vagy c) pontban említett vállalkozások
+egyikével vagy közülük többel, illetve az utóbbi vállalkozások közül kettő vagy több együttesen az a) pontban
+felsorolt jogokkal vagy hatáskörökkel rendelkezik;
+e) amelyben az a) pontban felsorolt jogokkal vagy hatáskörökkel együttesen rendelkeznek
+ea) a megállapodásban részt vevő vállalkozások vagy azoknak az a)–d) pontban említett kapcsolt vállalkozásai,
+vagy
+eb) a megállapodásban részt vevő egy vagy több vállalkozás vagy azoknak az a)–d) pontban említett egy vagy
+több kapcsolt vállalkozása, valamint egy vagy több harmadik fél;
+5. megállapodás: vállalkozások közötti megállapodás és összehangolt magatartás, valamint a Tpvt. 11. § (1) bekezdése
+szerinti szervezeteknek a döntése;
+6. részt vevő vállalkozás: a megállapodásban részt vevő vállalkozás és annak kapcsolt vállalkozásai;
+7. újszerű kockázat:
+a) korábban nem létező kockázat, amely már létező biztosítási termék kiterjesztésének, továbbfejlesztésének vagy
+helyettesítésének nem minősülő új biztosítási termék kidolgozását teszi szükségessé, illetve
+b) kivételes esetben olyan kockázat, amelynek természete olyan jelentős mértékben megváltozott, hogy
+lehetetlenné teszi a biztosításához szükséges biztosításjegyzési kapacitás megállapítását.
+2. Közös összesítések, táblázatok és felmérések mentesülése
+2. § (1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel,
+a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – mentesül a gazdasági versenyt korlátozó
+megállapodásokravonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól a két vagy több, biztosítási tevékenységet
+folytató vállalkozás között létrejött megállapodás, ha annak tárgya
+a) meghatározott múltbéli kockázat biztosítása átlagos költségének kiszámítása (a továbbiakban: összesítés) vagy
+– tőkefelhalmozást magában foglaló biztosítások vonatkozásában – halandósági táblázatok, illetve betegségek,
+balesetek és rokkantság gyakoriságára vonatkozó táblázatok (ez utóbbiak a továbbiakban együtt: táblázatok)
+készítésének céljából szükséges adatok közös összegzése és terjesztése, vagy
+b) felmérések közös készítése az érdekelt vállalkozásokat érintő általános külső körülmények valószínű hatásáról,
+vagy a meghatározott kockázatokra vagy kockázattípusokra vonatkozó jövőbeni biztosítási események
+gyakorisága és mértéke vagy a különböző típusú befektetések jövedelmezősége vonatkozásában
+(a továbbiakban: felmérések), valamint e felmérések eredményeinek terjesztése.
+(2) Az (1) bekezdés szerinti mentesülés feltétele, hogy az összesítések, táblázatok vagy felmérések, illetve azok
+eredményei
+a) az érintett biztosítók vagy biztosítottak egyikét se tegyék azonosíthatóvá;
+b) összegzésük és terjesztésük során kifejezett utalás történjen arra, hogy nem kötelező jellegűek;
+c) ne utaljanak a bruttó biztosítási díj mértékére;
+
+d) méltányos feltételekkel és áron, bármiféle megkülönböztetés nélkül hozzáférhetőek legyenek minden olyan
+biztosító számára – ideértve azokat a biztosítókat is, amelyek nem tevékenykednek azon a földrajzi vagy
+árupiacon, amelyre az összesítések, a táblázatok vagy a felmérések eredményei vonatkoznak –, amely egy
+példányt igényel belőlük; valamint
+e) méltányos feltételekkel és áron, bármiféle megkülönböztetés nélkül hozzáférhetőek legyenek a hozzáférést
+meghatározott feltételek mellett, indokolt okból igénylő fogyasztói szervezetek vagy üzletfelek szervezetei
+számára, kivéve, ha bizalmas kezelésük közbiztonság okokból indokolt.
+(3) Az (1) bekezdés a) pontja szerinti mentesülés feltétele továbbá, hogy az összesítések vagy táblázatok készítéséhez
+szükséges adatok közös összegzése és terjesztése
+a) statisztikailag kezelhető sokaság létrehozásához elegendő számú azonos vagy összehasonlítható kockázatokra
+vonatkozó,több biztosítási évet felölelőmegfigyelési időszak során gyűjtött adatokon alapuljon,amelyek alapján
+különösen a következő számadatok nyerhetőek:
+aa) a biztosítási események száma az említett időszakban,
+ab) a biztosított egyéni kockázatok száma a választott megfigyelési időszak minden egyes biztosítási évében,
+ac) azemlített időszaksoránbekövetkezettbiztosításieseményekretekintettel kifizetett vagy kifizetendőteljes
+összeg,
+ad) a biztosított tőke teljes összege a választott megfigyelési időszak minden egyes biztosítási évében;
+b) a rendelkezésre álló statisztikai adatok biztosításmatematikai szempontból megfelelő részletességű lebontását
+tartalmazza; valamint
+c) nem tartalmazza a biztonsági pótlékokat, tartalékokból származó jövedelmet, igazgatási vagy kereskedelmi
+költségeket, adók vagy járulékok elemeit, és figyelmen kívül hagyja a befektetésekből származó bevételt és az
+előre látható nyereséget.
+3. § A 2. § szerinti mentesülés nem alkalmazható arra a megállapodásra, amelyben a részt vevő vállalkozások a 2. §
+(1) bekezdés a) pontja szerinti összesítések vagy táblázatok, illetve a 2. § (1) bekezdés b) pontja szerinti felmérések
+kizárólagos alkalmazásában egyeznek meg, vagy arra kötelezik magukat vagy más vállalkozásokat.
+3. Meghatározott típusú kockázatok együttbiztosításának mentesülése
+4. § (1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel,
+a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – mentesül a gazdasági versenyt korlátozó
+megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól az a megállapodás, amelyek a biztosítási
+ágazatban működő két vagy több vállalkozás között, meghatározott típusú kockázatok együttbiztosítás vagy
+együtt-viszontbiztosítás formájábantörténő együttes biztosításacéljábóljöttek létre biztosítókból,vagy biztosítókból
+és viszont-biztosítókból álló társulások létrehozására és működtetésére.
+(2) Az (1) bekezdés szerinti megállapodás akkor mentesül, ha
+a) a megállapodásban részt vevő valamennyi vállalkozásnak joga van arra, hogy megfelelő felmondási idővel
+jogkövetkezmények nélkül kiléphessen a társulásból;
+b) a társulás szabályai nem kötelezik a társulásban részt vevő egyik vállalkozást sem arra, hogy a társulás által
+biztosított kockázatok bármelyikét teljes egészében vagy részben a társuláson keresztül biztosítsa vagy
+viszontbiztosítsa, illetve nem korlátozzák a társulásban részt vevő egyik vállalkozást sem abban, hogy a társulás
+által biztosított kockázatok bármelyikét teljes egészében vagy részben a társuláson kívül biztosítsa vagy
+viszontbiztosítsa;
+c) a társulás szabályai nem korlátozzák a társulás vagy a részt vevő vállalkozások arra irányuló tevékenységét, hogy
+meghatározott földrajzi területen előforduló kockázatokat biztosítsanak vagy viszontbiztosítsanak;
+d) a megállapodás nem korlátozza a termelést vagy az értékesítést;
+e) a megállapodás nem osztja fel a piacot vagy az ügyfeleket; valamint
+f) az együtt-viszontbiztosítási társulásban részt vevő vállalkozások nem állapodnak meg a közvetlen biztosításért
+felszámításra kerülő bruttó biztosítási díjakban.
+5. § (1) A kizárólag újszerű kockázatokbiztosítása céljábóllétrehozott együttbiztosítási és együtt-viszontbiztosítási társulások
+a 4. § alapján a társulás első megalakításának időpontjától számított három évig mentesülnek.
+
+(2) Az (1) bekezdés hatálya alá nem tartozó együttbiztosítási és együtt-viszontbiztosítási társulások a 4. § alapján akkor
+mentesülnek, ha a társulásban részt vevő vállalkozások együttes piaci részesedése nem haladja meg
+a) együttbiztosítási társulások esetében bármely érintett piac 20%-át, illetve
+b) együtt-viszontbiztosítási társulások esetében bármely érintett piac 25%-át.
+(3) A piaci részesedés kiszámításakor figyelembe kell venni
+a) a megállapodásban részt vevő vállalkozás piaci részesedését a szóban forgó társuláson belül;
+b) a megállapodásban részt vevő vállalkozás piaci részesedését azon más társuláson belül, amely ugyanazon az
+érintett piacon működik, mint amelyen az a társulás, amelyben az adott vállalkozás részt vesz; valamint
+c) a megállapodásbanrészt vevő vállalkozásnakpiaci társulásokonkívüli részesedését ugyanazon az érintett piacon,
+amelyen a szóban forgó társulás működik.
+(4) A piaci részesedést a biztosítási díjakból származó, előző naptári évi bruttó bevétel alapján kell kiszámítani. Ha
+a biztosítási díjakból származó bruttó bevételre vonatkozó adatok nem állnak rendelkezésre, más megbízható piaci
+információkon – különösen a nyújtott fedezetet vagy a biztosított kockázat értékén – alapuló becslés is felhasználható
+a piaci részesedés megállapításához.
+(5) A piaci részesedést az előző naptári évre vonatkozó adatok alapján kell kiszámítani.
+6. § (1) Ha egy kezdetben kevesebb, mint 20%-os piaci részesedéssel rendelkező, az 5. § (2) bekezdése szerinti
+együttbiztosításitársuláspiacirészesedésekésőbb20% fölé,de legfeljebb25%-ig emelkedik,a4. § szerintimentesülés
+a 20%-os piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni két egymást követő
+naptári évben továbbra is alkalmazható.
+(2) Ha egy kezdetben kevesebb, mint 20%-os piaci részesedéssel rendelkező, az 5. § (2) bekezdése szerinti
+együttbiztosítási társulás piaci részesedése később 25% fölé emelkedik, a 4. § szerinti mentesülés a 25%-os piaci
+részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni egy naptári évig továbbra is
+alkalmazható.
+(3) Az (1) és a (2) bekezdésben foglalt kedvezményeket nem lehet együttesen olyan módon alkalmazni, hogy annak
+időtartama a két naptári évet meghaladja.
+7. § (1) Ha egy kezdetben kevesebb, mint 25%-os piaci részesedéssel rendelkező, az 5. § (2) bekezdése szerinti
+együtt-viszontbiztosítási társulások piaci részesedése később e fölé, de legfeljebb 30%-ig emelkedik, a 4. § szerinti
+mentesülés a 25%-os piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni két
+egymást követő naptári évben továbbra is alkalmazható.
+(2) Ha egy kezdetben kevesebb, mint 25%-os piaci részesedéssel rendelkező, az 5. § (2) bekezdése szerinti
+együtt-viszontbiztosítási társulás piaci részesedése később 30% fölé emelkedik, a 4. § szerinti mentesülés a 30%-os
+piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni egy naptári évig továbbra is
+alkalmazható.
+(3) Az (1) és a (2) bekezdésben foglalt kedvezményeket nem lehet együttesen olyan módon alkalmazni úgy, hogy annak
+időtartama a két naptári évet meghaladja.
+4. Záró rendelkezések
+8. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+(2) A rendelet hatályba lépését megelőzően már hatályba lépett azon megállapodások, amelyek megfelelnek az
+e rendelet hatályba lépését megelőzően hatályos, a biztosítási megállapodások egyes csoportjainak
+a versenykorlátozás tilalma alóli mentesítéséről szóló jogszabályi előírásoknak, az e rendelet hatályba lépését
+követően egy évig továbbra is mentesülnek a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt.
+11. §-ában meghatározott tilalom alól.
+(3) Hatályát veszti a biztosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alól
+való mentesítéséről szóló 18/2004. (II. 13.) Korm. rendelet.
+Orbán Viktor s. k.,
+miniszterelnök
