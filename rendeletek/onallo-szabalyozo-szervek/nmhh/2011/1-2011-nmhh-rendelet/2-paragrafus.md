@@ -20,7 +20,7 @@ i) ha a külföldön engedélyezett CB és amatőr berendezéseket külföldiké
 
 j) a nemzetközi megállapodás alapján Magyarországra szabadon behozható állomások frekvenciahasználata után,
 
-k) azon rádióállomások, hálózatok frekvenciahasználata után, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló miniszteri rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
+k)[^2] azon rádióállomások, hálózatok frekvenciahasználata után, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
 
 l) rendkívüli állapot és szükségállapot, továbbá az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetőleg ezek következményeinek elhárítása érdekében a miniszter által átmenetileg korlátozott vagy szüneteltetett rádiótávközlési szolgálatok frekvenciái után, a korlátozás vagy szüneteltetés mértékéhez igazodóan,
 
@@ -63,3 +63,5 @@ k) a Nautikai Információs Szolgálatnak,
 l) közös frekvenciahasználatú polgárőr szervezeteknek és közgyűjteményi intézményeknek.
 
 (4) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés p) pontja alá.
+
+[^2]: A 2. § (1) bekezdés k) pontja a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.

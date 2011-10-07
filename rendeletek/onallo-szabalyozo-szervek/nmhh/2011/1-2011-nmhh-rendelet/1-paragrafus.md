@@ -6,4 +6,6 @@
 
 (4) A frekvenciadíj a frekvenciakijelölésről, illetőleg a rádióengedélyről szóló határozatban, illetőleg annak módosításával is megállapítható.
 
-(5) A rendelet alkalmazásában a frekvenciadíjak megállapításához szükséges fogalmak jegyzékét a Frekvenciasávok Nemzeti Felosztási Táblázatának megállapításáról szóló kormányrendeletben és a frekvenciasávok felhasználási szabályainak megállapításáról szóló miniszteri rendeletben meghatározottakon túlmenően a 10. számú melléklet tartalmazza.
+(5)[^1] A rendelet alkalmazásában a frekvenciadíjak megállapításához szükséges fogalmak jegyzékét a Frekvenciasávok Nemzeti Felosztási Táblázatának megállapításáról szóló kormányrendeletben és a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendeletben meghatározottakon túlmenően a 10. számú melléklet tartalmazza.
+
+[^1]: Az 1. § (5) bekezdése a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.
