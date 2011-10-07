@@ -1,0 +1,1 @@
+## 23. § A jogosult a frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság megszerzése feltételeinek a jogosultság teljes ideje alatt köteles megfelelni, amennyiben valamely feltételnek való megfelelés megszűnik, a külön jogszabályban meghatározott jogkövetkezmény alkalmazható.
