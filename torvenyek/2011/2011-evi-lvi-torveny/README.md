@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-56-00-00
 | 2011-06-10 | 2011. évi LVI. törvény | 2011-56-00-00.0 (közlönyállapot) |
 | 2011-06-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-56-00-00.1 |
 | 2011-10-07 | 34/2011. (XII. 2.) KüM határozat | 2011-56-00-00.2 |
+| 2011-10-08 | 2010. évi CXXX. törvény | 2011-56-00-00.3 |
