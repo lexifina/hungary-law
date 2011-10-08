@@ -1,10 +1,10 @@
-## 77. §[^239] A miniszter a kereskedelemért, a turizmusért, a vendéglátásért, a fogyasztóvédelemért és a belgazdaságért való felelőssége körében
+## 77. §[^240] A miniszter a kereskedelemért, a turizmusért, a vendéglátásért, a fogyasztóvédelemért és a belgazdaságért való felelőssége körében
 
 a) előkészíti különösen a kereskedelemről, a vásárokról és a piacokról, az üzletek működéséről, a közraktározásról, a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról, a fogyasztóvédelemről, a gazdasági reklámtevékenységről szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
 b) előkészíti a turizmusról, vendéglátásról, az utazásszervező és -közvetítő tevékenységről, az utazási és utazást közvetítő szerződésről, a falusi és agroturizmusról, valamint a gyógytényezők, egészségügyi tényezők vonatkozásában a nemzeti erőforrás miniszterrel együttműködve az egészségturizmusról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-c)[^240] meghatározza a kereskedelem, a turizmus, a vendéglátás, a fogyasztóvédelem és a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját,
+c)[^241] meghatározza a kereskedelem, a turizmus, a vendéglátás, a fogyasztóvédelem és a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját,
 
 d) kidolgozza a fogyasztóvédelmi politika koncepcióját, a fogyasztóvédelemmel, valamint az általános termékbiztonsággal kapcsolatos cselekvési és szakmai programokat és figyelemmel kíséri azok végrehajtását, meghatározza a piacfelügyelet intézményrendszerét, továbbá a közigazgatási és igazságügyi miniszterrel együttműködve ellátja a fogyasztóvédelemmel kapcsolatos közösségi normák jogharmonizációs feladatait,
 
@@ -36,5 +36,5 @@ q) irányítja a Magyar Kereskedelmi Engedélyezési Hivatalt és a Nemzeti Fogy
 
 r) működteti a Fogyasztóvédelmi Tanácsot, a Piacfelügyeleti Tanácsot, a Regionális Idegenforgalmi Bizottságokat és a Nemzeti Turisztikai Bizottságot.
 
-[^239]: A 77. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^240]: A 77. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^240]: A 77. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^241]: A 77. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

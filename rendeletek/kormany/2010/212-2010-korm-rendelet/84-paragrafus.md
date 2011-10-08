@@ -4,7 +4,7 @@
 
 ## 84. § A nemzeti fejlesztési miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a)[^256] fejlesztéspolitikáért,
+a)[^260] fejlesztéspolitikáért,
 
 b) területfejlesztésért,
 
@@ -16,7 +16,7 @@ e) közlekedésért,
 
 f) energiapolitikáért,
 
-g)[^257] bányászati ügyekért,
+g)[^261] bányászati ügyekért,
 
 h) postaügyért,
 
@@ -30,10 +30,10 @@ l) elektronikus hírközlésért,
 
 m) űrkutatásért,
 
-n)[^258] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért
+n)[^262] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért
 
 felelős tagja.
 
-[^256]: A 84. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (36) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^257]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^258]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^260]: A 84. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (36) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^261]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^262]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

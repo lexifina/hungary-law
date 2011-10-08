@@ -88,6 +88,9 @@ a) biztosítja a kormányzati iratkezelés személyi, tárgyi és informatikai f
 
 b) szervezi a kormányügyeletet, biztosítja a Közigazgatási és Igazságügyi Minisztérium ügyeletének munkaidőn túl történő működését.
 
+(10)[^8] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében működteti a társadalmi párbeszéd makroszintű fórumát és gondoskodik a Nemzeti Gazdasági és Társadalmi Tanáccsal összefüggő, törvényben meghatározott feladatok ellátásáról.
+
 [^5]: A 2. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^6]: A 2. § (7) bekezdés záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^7]: A 2. § (8) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^8]: A 2. § (10) bekezdését a 200/2011. (X. 7.) Korm. rendelet 1. §-a iktatta be.

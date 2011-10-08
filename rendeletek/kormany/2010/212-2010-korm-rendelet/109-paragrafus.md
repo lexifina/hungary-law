@@ -22,7 +22,7 @@ j) a környezetre súlyos veszélyt jelentő anyagok és termékek, továbbá te
 
 szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(2)[^326] A miniszter együttműködik a nemzeti fejlesztési miniszterrel a klímavédelemmel kapcsolatos szabályozásban.
+(2)[^330] A miniszter együttműködik a nemzeti fejlesztési miniszterrel a klímavédelemmel kapcsolatos szabályozásban.
 
 (3) A miniszter a környezetvédelemért való felelőssége körében együttműködik az Országos Atomenergiai Hivatal felügyeletét ellátó miniszterrel a környezet radioaktív szennyezése elleni védelemmel kapcsolatos jogszabályok előkészítésében, illetve – felhatalmazás alapján – megalkotásában.
 
@@ -30,13 +30,13 @@ szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányren
 
 a) rendszeresen elemzi és értékeli a környezetvédelem gazdasági szabályozó eszközeit, javaslatot tesz azok továbbfejlesztésére;
 
-b)[^327]
+b)[^331]
 
 c) közreműködik az ásványvagyonnal való gazdálkodás és védelem felügyeletében, valamint az ezzel kapcsolatos jogszabályok előkészítésében, illetve – felhatalmazás alapján – megalkotásában,
 
 d) koordinálja az Európai Unió környezetvédelemmel kapcsolatos jogszabályaiból eredő tagállami feladatok ellátását,
 
-e)[^328] működteti az Országos Környezetvédelmi Tanácsot.
+e)[^332] működteti az Országos Környezetvédelmi Tanácsot.
 
 (5) A miniszter a természetvédelemért való felelőssége körében előkészíti különösen
 
@@ -132,6 +132,6 @@ x) gondoskodik a többoldalú nemzetközi együttműködések vízgazdálkodási
 
 y) gondoskodik a vízgazdálkodási fejlesztések eredményeként megvalósult létesítmények fenntartásáról, a szükséges források biztosításáról.
 
-[^326]: A 109. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (66) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^327]: A 109. § (4) bekezdés b) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (43) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^328]: A 109. § (4) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 34. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^330]: A 109. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (66) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^331]: A 109. § (4) bekezdés b) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (43) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^332]: A 109. § (4) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 34. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

@@ -1,4 +1,4 @@
-19. § (1)[^54] A miniszter igazságügyért való felelőssége körében felel
+19. § (1)[^55] A miniszter igazságügyért való felelőssége körében felel
 
 a) a Magyar Köztársaság által megkötött közjogi, polgári jogi, családjogi és büntetőjogi jogsegélyszerződések végrehajtásáért,
 
@@ -14,4 +14,4 @@ b) gondoskodik az Európa Tanács keretében létrehozott igazságügyi tárgyú
 
 (3) Az Európai Unió keretében megvalósuló igazságügyi együttműködés keretében a miniszter képviseli a Kormányt az Európai Unió Tanácsának igazságügyi együttműködésért felelős formációjában.
 
-[^54]: A 19. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (13) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^55]: A 19. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (13) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
