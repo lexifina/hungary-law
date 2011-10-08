@@ -74,15 +74,31 @@
 
 | 36 | 12. | 373. | 52 | 861 | 06 |  |  |  | Rendőr | Egyéb szolgáltatások |
 
-| 37 |  |  | 52 | 861 | 06 | 0100 | 52 | 01 | Részszakképesítés: Kormányőr |  |
+| 37 |  |  | 52 | 861 | 06 | 0100 | 52 | 03 | Részszakképesítés: Csapatszolgálati járőrtárs |  |
 
-| 38 |  |  | 52 | 861 | 06 | 0100 | 52 | 02 | Részszakképesítés: Objektumőr-kísérő |  |
+| 38 |  |  | 52 | 861 | 06 | 0100 | 52 | 04 | Részszakképesítés: Járőr |  |
 
-| 39 |  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Elágazás: Határrendészeti-rendőr |  |
+| 39 |  |  | 52 | 861 | 06 | 0100 | 52 | 05 | Részszakképesítés: Őr-járőrtárs |  |
 
-| 40 |  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Elágazás: Közrendvédelmi-rendőr |  |
+| 40 |  |  | 52 | 861 | 06 | 0010 | 52 | 03 | Szakképesítés-elágazás: Bűnügyi-rendőr |  |
 
-| 41 |  |  | 52 | 861 | 06 | 0001 | 52 | 01 | Ráépülés: Kutyavezető – rendőr |  |
+| 41 |  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Szakképesítés-elágazás: Határrendészeti-rendőr |  |
+
+| 42 |  |  | 52 | 861 | 06 | 0010 | 52 | 04 | Szakképesítés-elágazás: Közlekedési-rendőr |  |
+
+| 43 |  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Szakképesítés-elágazás: Közrendvédelmi-rendőr |  |
+
+| 44 |  |  | 52 | 861 | 06 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Baleseti helyszínelő |  |
+
+| 45 |  |  | 52 | 861 | 06 | 0001 | 52 | 03 | Szakképesítés-ráépülés: Bűnügyi helyszínelő |  |
+
+| 46 |  |  | 52 | 861 | 06 | 0001 | 52 | 04 | Szakképesítés-ráépülés: Fő határrendész |  |
+
+| 47 |  |  | 52 | 861 | 06 | 0001 | 52 | 05 | Szakképesítés-ráépülés: Körzeti megbízott |  |
+
+| 48 |  |  | 52 | 861 | 06 | 0001 | 52 | 06 | Szakképesítés-ráépülés: Okmányvizsgáló |  |
+
+| 49 |  |  | 52 | 861 | 06 | 0001 | 52 | 07 | Szakképesítés-ráépülés: Rendőr „zászlós” |  |
 
 2. számú melléklet a 15/2008. (VII. 28.) IRM rendelethez[^4]
 
@@ -7885,89 +7901,5 @@ Részt vesz a fogvatartotti körletre kiterjedő biztonsági vizsgálatban
 Megakadályozza a fogvatartás rendjét és a biztonságot veszélyeztető cselekményeket
 
 Végrehajtja az előírt biztonsági intézkedéseket
-
-Kényszerítő eszközt alkalmaz
-
-Mozgást korlátozó eszközöket alkalmaz
-
-Végrehajtja az elrendelt elkülönítést és az ilyen esetben kötelezően előírt feladatokat
-
-Végrehajtja a magánelzárást és az ilyen esetben kötelezően előírt feladatokat
-
-Folyamatos tájékoztatást ad a magánelzárásban lévő fogvatartott magatartásáról
-
-Kezeli a technikai eszközöket
-
-Haladéktalanul jelentést tesz a fogvatartást akadályozó körülményekről
-
-Gondoskodik a rábízott javak megőrzéséről
-
-Elrendeli, végrehajtatja, adminisztrálja a díjazás nélküli munkavégzést
-
-Átvizsgálja a szabad levegőn tartózkodásra kijelölt területet
-
-Biztosítja a fogvatartott szabad levegőn tartózkodását
-
-Végrehajtja a fogvatartottak elkülönítésére és differenciált fogvatartására vonatkozó szabályokat
-
-Kijelölt helyen átveszi, illetve átadja a fogvatartottakat létszám szerint
-
-Munkakezdés előtt végrehajtja a biztonsági ellenőrzést
-
-Meghatározott időnként létszámellenőrzést tart
-
-Előírt időszakokban munkaközi szünetet biztosít
-
-Jelenti a bekövetkezett rendkívüli eseményt és a biztonságot veszélyeztető körülményeket
-
-Kíséri a fogvatartottakat
-
-Kezeli a biztonságra különösen veszélyes anyagokat, munkaeszközöket
-
-Meghatározott esetekben jelentést tesz írásban vagy szóban
-
-Javaslatot tesz a fogvatartott jutalmazására, fegyelmi felelősségre vonására, munkából történő leváltására
-
-Betartja a fogvatartottakkal szemben előírt érintkezési szabályokat
-
-Tulajdonságprofil:
-
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D A büntetőjog fogalma
-
-D A büntetőjog forrásai
-
-D A Büntető Törvénykönyv szerkezete
-
-D A büntetések
-
-D A főbüntetések
-
-D A szabadságvesztés
-
-D A feltételes szabadságra bocsátás
-
-D A mellékbüntetések
-
-D Az intézkedések
-
-D A bűncselekmény, fogalma, fajtái
-
-D A szándékos bűncselekmény megvalósulási szakaszai
-
-D Az alannyá válás feltételei
-
-D A bűnösség, a bűncselekmény elkövetői
-
-D A büntethetőségi akadályok
-
-D A büntetés-végrehajtást kizáró okok
-
-C A szabadságvesztés büntetés végrehajtása, rendje
-
-D Az enyhébb végrehajtási szabályok
 
 [^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a valamint a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése szerint módosított szöveg.
