@@ -291,11 +291,3 @@ ex 8607: vagonok
 87. árucsoport:
 
 Járművek és ezek alkatrészei, a vasúti vagy villamosvasúti sínhez kötött járművek kivételével
-
-kivéve:
-
-8708: tankok és egyéb páncélozott járművek
-
-ex 8701: traktorok
-
-ex 8702: harci járművek

@@ -1,0 +1,1 @@
+403/E. § E törvénynek a közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2011. évi CXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 251. § (2) bekezdését a Módtv. hatálybalépését követően megkezdett közbeszerzési eljárásokra kell alkalmazni.
