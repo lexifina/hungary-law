@@ -10,6 +10,6 @@
 
 (6) A Kollégium elnöke és tagjai a feladatkörük ellátása során okozott kárért a polgári jog általános szabályai szerint felelnek.
 
-[^1]: A 4. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^1]: A 4. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg. [A 4. § (1) bekezdésében a 201/2011. (X. 7.) Korm. rendelet 6. § (4) bekezdésével elrendelt módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át, mivel e módosító rendelet 6. § (2) bekezdése alapján e módosítás 2012. január 1-jén lép hatályba, azonban e módosító rendelet a 6. § (1) bekezdése alapján már hatályát vesztette 2011. október 9. napjával.]
 [^2]: A 4. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A 4. § (4) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.

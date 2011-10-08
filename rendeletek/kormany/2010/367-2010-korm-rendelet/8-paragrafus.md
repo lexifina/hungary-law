@@ -4,7 +4,7 @@
 
 (2) Az Alapkezelő Alappal kapcsolatos feladatellátásához szükséges forrásait az Alap adott költségvetési évben teljesülő bevételének terhére a 30. § (2) bekezdésében foglaltak szerint kell biztosítani.
 
-(3)[^8] Az Alapkezelő ügyvezetői feladatait a vezérigazgató látja el. A vezérigazgatót a Bizottság javaslatára a kormányzati tevékenység összehangolásáért felelős miniszter határozatlan időre nevezi ki. Az Alapkezelő munkatársai felett a munkáltatói jogkört a vezérigazgató gyakorolja.
+(3)[^8] Az Alapkezelő ügyvezetői feladatait a vezérigazgató látja el. A vezérigazgatót a Bizottság javaslatára a kormányzati tevékenység összehangolásáért felelős miniszter határozatlan időre nevezi ki. Az Alapkezelő munkatársai felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
 (4) Az Alapkezelő feladata
 
@@ -35,6 +35,6 @@ l) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Al
 (5) Az Alapkezelőre egyebekben a gazdasági társaságokról szóló 2006. évi IV. törvény rendelkezéseit kell alkalmazni.
 
 [^7]: A 8. § (1) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^8]: A 8. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 8. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 1. §-ával megállapított és a 201/2011. (X. 7.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
 [^9]: A 8. § (4) bekezdés e) pontja a 117/2011. (VII. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^10]: A 8. § (4) bekezdés g) pontja a 117/2011. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
