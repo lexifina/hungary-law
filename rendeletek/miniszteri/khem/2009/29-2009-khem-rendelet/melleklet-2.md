@@ -1,20 +1,20 @@
-## 1. Az elismert fajlagos földgázár meghatározása a negyedévre (Ft/MJ):
+## 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/MJ):
 
-|  | fgFt = a × fgFtA + b × fgFtT | (Ft/MJ) | (1) |
+|  | fgFt = a x fgFtA + b x fgFtT | (Ft/MJ) | (1) |
 
-|  | ha fgFtS < fgFtH akkor fgFtA = 0,4 × fgFtS + 0,6 × fgFtH | (Ft/MJ) | (2) |
+|  | ha fgFtS < fgFtH akkor fgFtA = 0,7 x fgFtS + 0,3 x fgFtH | (Ft/MJ) | (2) |
 
 |  | ha fgFtS > fgFtH akkor fgFtA = fgFtH | (Ft/MJ) | (2) |
 
-|  | fgFtH = erUSD × fgUSDA / 1000 | (Ft/MJ) | (3) |
-
-|  | fgFtS = erEUR × fgEURA | (Ft/MJ) | (4) |
-
 |  | ahol: |  |  |
 
-|  | fgUSDA = 14,426 × (0,5 × fo / 520,928 + 0,5 × go / 935,741) | (USD/GJ) | (5) |
+|  | fgFtH = erUSD x fgUSDA / 1000 | (Ft/MJ) | (3) |
 
-|  | fgEURA = (fgS + sp) | (EUR/MJ) | (6) |
+|  | fgFtS = erEUR x fgEURA | (Ft/MJ) | (4) |
+
+|  | fgUSDA = 14,426 x (0,5 x fo / 520,928 + 0,5 x go / 935,741) | (USD/GJ) | (5) |
+
+|  | fgEURA = (fgs + sp) | (EUR/MJ) | (6) |
 
 ## 2. 2010. január 1-jétől az egyetemes szolgáltatás árában elismerésre kerülő nagykereskedői árrés („n”) gázévenként:
 
