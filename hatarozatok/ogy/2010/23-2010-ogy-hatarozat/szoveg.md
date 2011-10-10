@@ -120,7 +120,7 @@ Szabó Timea (LMP)
 
 Tagok:
 
-dr. Balsai István (Fidesz)[^16]
+dr. Mátrai Márta (Fidesz)[^16]
 
 Berényi László (Fidesz)
 
@@ -420,7 +420,7 @@ Farkas Zoltán (Fidesz)[^47]
 
 Kulcsár József Ferenc (Fidesz)[^48]
 
-dr. Mátrai Márta (Fidesz)[^49]
+Vargha Tamás (Fidesz)[^49]
 
 Tamás Barnabás (Fidesz)[^50]
 
@@ -993,7 +993,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^13]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^14]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^15]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^16]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
+[^16]: A 75/2011. (X. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^17]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^18]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^19]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1026,7 +1026,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^46]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^47]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^48]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^49]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^49]: A 75/2011. (X. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^50]: A 36/2010. (VI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^51]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^52]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
