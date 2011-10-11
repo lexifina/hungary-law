@@ -98,7 +98,7 @@ b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tétele
 
 36. kollektív befektetési forma: az azonos szerződési feltételek mellett, az ügyfelek által átadott eszközök egymástól el nem különített, együttes kezelésével létrehozott és működtetett befektetési forma, amelynek célja, hogy az ügyfelek számára portfóliókezelési szolgáltatást nyújtson, illetőleg tagjaiként az ügyfelek közvetve vegyenek igénybe ilyen szolgáltatást,
 
-37. központi hitelinformációs rendszer: a Hpt.-ben meghatározott rendszer (a továbbiakban: KHR),
+37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 
 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
 
@@ -132,7 +132,7 @@ b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tétele
 
 53. portfóliókezelés: az a tevékenység, amelynek során az ügyfél eszközei előre meghatározott feltételek mellett, az ügyfél által adott megbízás alapján, az ügyfél javára pénzügyi eszközökbe kerülnek befektetésre és kezelésre azzal, hogy az ügyfél a megszerzett pénzügyi eszközből eredő kockázatot és hozamot, azaz a veszteséget és a nyereséget közvetlenül viseli,
 
-54. referenciaadat: a Hpt.-ben meghatározott fogalom,
+54. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
 55. referenciaadat-szolgáltató: a befektetési hitel nyújtására engedéllyel rendelkező, illetőleg értékpapír- kölcsönzést végző befektetési vállalkozás,
 
