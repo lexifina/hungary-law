@@ -80,14 +80,6 @@ a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyúj
 
 b) a külön törvényben meghatározott Központi Hitelinformációs Rendszert kezelő pénzügyi vállalkozás által történő adatkezelés.”
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi CXXII. törvényhez
 
 I. Az azonosító adatok
