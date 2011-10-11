@@ -208,7 +208,7 @@ b) az olyan külföldi intézményben való részvételt tanúsító – bemutat
 
 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
 
-81. központi hitelinformációs rendszer: a Hpt.-ben meghatározott rendszer,
+81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
 
 82. központi szerződő fél: tőzsdei, tőzsdén kívüli tőkepiaci ügylet és törvényben meghatározott szervezett piacon kötött ügylet teljesítéséhez kapcsolódó kötelezettségvállalás végzésére jogosult gazdasági társaság,
 
