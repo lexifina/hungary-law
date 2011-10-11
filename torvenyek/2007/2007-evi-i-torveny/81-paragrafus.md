@@ -5,3 +5,5 @@
 (3) Nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó európai közösségi jogi aktusa alapján az abban meghatározott adatátvételre jogosult szerv részére szolgáltatható adat.
 
 (4) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat. A 75. § (1) bekezdés a)–c) és g) pontjában foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
+
+(5) A Vízuminformációs Rendszerhez a VIS rendelet 15–20. cikke szerinti célokból a külön jogszabályban meghatározott idegenrendészeti hatóságok rendelkeznek hozzáféréssel.
