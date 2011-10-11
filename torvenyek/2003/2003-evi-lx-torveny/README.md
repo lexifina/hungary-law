@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-60-00-00
 | 2010-04-01 | 2009. évi CL. törvény | 2003-60-00-00.25 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 2003-60-00-00.26 |
 | 2011-07-01 | 2011. évi CXII. törvény | 2003-60-00-00.27 |
+| 2011-10-11 | 2011. évi CXXII. törvény | 2003-60-00-00.28 |
