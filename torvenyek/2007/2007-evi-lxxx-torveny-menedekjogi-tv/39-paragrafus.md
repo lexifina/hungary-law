@@ -2,4 +2,4 @@
 
 a) csomagjának, ruházatának, járművének átvizsgálását;
 
-b) arcképmásának, továbbá – a tizennegyedik életévét betöltött külföldi esetében – ujjnyomatának rögzítését.
+b) arcképmásának, továbbá ujjnyomatának rögzítését.
