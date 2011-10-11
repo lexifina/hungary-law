@@ -42,4 +42,4 @@ e) az anyavállalat – az illetékes felügyeleti hatósága hozzájárulásáv
 
 f) a pénzügyi vállalkozás az anyavállalatával összevont felügyelet alatt áll.
 
-(6) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.
+(6) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.

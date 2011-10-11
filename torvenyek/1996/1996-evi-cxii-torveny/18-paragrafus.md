@@ -26,7 +26,7 @@ j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen 
 
 k)
 
-l) a központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot, továbbá
+l) a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot, továbbá
 
 m)
 

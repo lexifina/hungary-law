@@ -32,7 +32,7 @@ n) a kérelmező nyilatkozatát arról, hogy egyéb üzleti tevékenysége nem v
 
 o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 
-p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
+p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 
 q) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
 

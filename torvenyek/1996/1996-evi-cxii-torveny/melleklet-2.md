@@ -20,7 +20,7 @@ c) az elektronikuspénz-kibocsátó intézmény által az elektronikus pénz kib
 
 a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyújtása vagy
 
-b) a KHR-t kezelő pénzügyi vállalkozás által történő adatkezelés.
+b) a külön törvényben meghatározott Központi Hitelinformációs Rendszert kezelő pénzügyi vállalkozás által történő adatkezelés.
 
 5.1 Készpénz-helyettesítő fizetési eszköz:
 
@@ -533,11 +533,3 @@ e) szövetkezeti hitelintézetnél a szövetkezeti tagi hozzájárulást.
 9. Közösségi betét: a társasházak, lakásszövetkezetek, iskolai takarékossági csoportok, építőközösségek betétei.
 
 V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
-
-1. Nyilvántartott: valamennyi olyan természetes személy, illetve vállalkozás, akinek vagy amelynek referenciaadatait a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás kezeli.
-
-2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
-
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
-
-4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.

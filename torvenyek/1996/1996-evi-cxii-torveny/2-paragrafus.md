@@ -32,7 +32,7 @@ e)
 
 f)
 
-g) a 130/A–130/D. §, a 130/H–130/O. §, a 2. számú melléklet V. fejezete és a 3. számú melléklet II. fejezetének 1.1–1.3 pontja kivételével a külön jogszabály alapján létrehozott Diákhitel Központra,
+g) a külön jogszabály alapján létrehozott Diákhitel Központra.
 
 h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
