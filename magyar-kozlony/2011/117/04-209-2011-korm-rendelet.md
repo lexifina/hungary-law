@@ -1,0 +1,218 @@
+# A Kormány 209/2011. (X. 12.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 117. szám, 2011. október 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9c348dc0918924b737f5e61d1647a3b175f2e316/dokumentumok/8494ab4d1b91927955169994e9dd0d93eeb280f2/letoltes)
+
+---
+
+A Kormány 209/2011. (X. 12.) Korm. rendelete
+a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek
+használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének
+csökkenésével kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet és a vizek hasznosítását,
+védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó
+általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet módosításáról
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés n), o) és w) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és
+hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló
+21/2006. (I. 31.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő 14. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„14. árvízi lefolyási sáv: a nagyvízi meder azon része, ahol a legkedvezőbb áramlási viszonyok mellett az árvízi
+vízhozamok levonulnak.”
+2. § Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) A folyószakasz mederkezelőjének az építmény nagyvízi mederben történő elhelyezéséhez való hozzájárulása
+előtt vizsgálnia kell a tervezett építménynek az árvíz és a jég levonulásáragyakorolt hatását. Az építmény kialakításaés
+magassági elhelyezése során a mértékadó árvízszint és az eddig előfordult legmagasabb árvízszint közül
+a magasabbat kell figyelembe venni.
+(2) Építmény nagyvízi mederben történő elhelyezéséhez a folyószakasz mederkezelője akkor járulhat hozzá, ha van az
+igénybe vett területre vonatkozó, kihirdetett nagyvízi mederkezelési terv és annak figyelembevételével az építmény
+megvalósítható. Nagyvízi mederkezelési terv hiányában a folyószakasz mederkezelője akkor járulhat hozzá az
+építmény elhelyezéshez, ha a kérelem:
+a) a folyómeder használatával és a vízfolyás fenntartásával közvetlenül összefüggő megfigyelő, jelző állomás,
+a nagyvízi meder használatával összefüggő vízilétesítmény, valamint kikötői, rév-, kompátkelőhelyi vagy
+vízirendészeti építmény elhelyezésére irányul;
+b) közcélú nyomvonalas építmény vagy vízilétesítmény elhelyezésére irányul, és az építmény, vízilétesítmény az árvízi
+lefolyási viszonyokat nem befolyásolja kedvezőtlenül;
+c) a nagyvízi mederben fekvő települési belterületen történő építmény-elhelyezésre irányul, és a megvalósítandó
+építmény árvíz elleni védelmének biztosítását – ideiglenes védmű kiépítésével – a települési önkormányzat vállalja.
+(3) A nagyvízi meder területe újonnan beépítésre szánt területbe nem sorolható, továbbá a nagyvízi mederben lévő
+üdülőterület lakó-, vegyes vagy gazdasági területfelhasználási egységbe nem sorolható át.
+(4) A nagyvízi meder természeti területként kezelendő oly módon, hogy az árvíz levezetésének elsődlegessége
+biztosított legyen.
+(5) Az árvízi lefolyási sávban, erdőgazdálkodási tevékenység keretében – ideértve a természetvédelmi rendeltetésű
+erdőben folytatott erdőgazdálkodást is – az erdőtelepítés, erdőfelújítás során az árvíz lefolyási irányának megfelelő,
+tág hálózatú faállományt kell létesíteni, valamint az erdőt úgy kell létesíteni és fenntartani, hogy a lombosodás és az
+aljnövényzet az árvíz levezetését ne akadályozza.
+(6) A nagyvízi meder használatának korlátozásáért, valamint a vizek, jég, uszadék és hordalék által ott okozott kárért
+kártalanítás nem jár.
+(7) A nagyvízi mederben fekvő földrészlet használatára vonatkozó, a földrészlet tulajdonosa és használója között
+kötött szerződésben fel kell tüntetni azt a tényt, hogy a földrészlet nagyvízi mederben fekszik.”
+3. § Az R. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A védő erdősáv területének megfelelő rendezésével vagy vízelvezető csatornák létesítésével gondoskodni kell
+arról,hogyavédőerdősávterületénazárvízután avédmű állékonyságátveszélyeztetőpangóvizeknemaradjanak.”
+4. § Az R. a következő 15. §-sal egészül ki:
+„15. § (1) E rendeletnek a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett
+területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével
+
+kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet és a vizek hasznosítását, védelmét és kártételeinek
+elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.)
+Korm. rendelet módosításáról szóló 209/2011. (X. 12.) Korm. rendelettel (a továbbiakban: rendeletmódosítás)
+megállapított rendelkezéseit a rendeletmódosítás hatálybalépésekor folyamatban lévő, építési és létesítési
+tevékenység engedélyezésére irányuló hatósági eljárásokban is alkalmazni kell azzal, hogy a kérelem visszavonása
+esetén a folyamatban lévő eljárásokat meg kell szüntetni.
+(2) E rendeletnek a rendeletmódosítással megállapított rendelkezéseit a használatbavételi, működési és üzemeltetési
+engedélyezési eljárás során akkor kell alkalmazni, ha az engedély alapján megvalósult építmény az árvízi lefolyási
+viszonyokat jelentős mértékben kedvezőtlenül megváltoztatja.
+(3) E rendeletnek a rendeletmódosítással megállapított rendelkezéseit a rendeletmódosítás hatálybalépésekor
+folyamatban lévő településrendezési eszköz készítés és módosítás során is alkalmazni kell.”
+5. § Az R. 9. § (1) bekezdésében az „az 5. § (2)–(3) bekezdésében” szövegrész helyébe az „az 5. §-ban” szöveg lép.
+6. § A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó
+általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet (a továbbiakban: Kr.) 20. § (2) bekezdése helyébe
+a következő rendelkezés lép:
+„(2) A települési szennyvízkezelési programot a következő tartalommal kell elkészíteni:
+a) helyzetértékelés:
+aa) a felszíni és a felszín alatti vizek, valamint a földtani közeg állapota a jogszabály szerinti határértékek
+figyelembevételével,
+ab) az egyes településrészeken alkalmazott szennyvízelvezetési, -tisztítási és egyéb szennyvízkezelési középtávú
+igények, megoldások, továbbá azok környezeti, természeti és társadalmi hatásai,
+ac) a felszín alatti vizek szempontjából fokozottan érzékeny területek vagy a magas talajvízállású területnek minősülő
+településrészek, azok lehatárolása,
+ad) a felszín alatti víz állapota szempontjából érzékeny területeken levő települések besorolásáról szóló miniszteri
+rendelet szerinti fokozottan érzékeny területen lévő településen, vagy a magas talajvízállású területen lévő
+településen a települési szennyvízkezelési programmal érintett tervezési területnek az érzékenységi kategóriába
+történő besorolása;
+b) célkitűzések:
+ba) a települési szennyvízkezelési programot úgy kell készíteni, hogy az összhangban legyen a regionális
+vízgazdálkodási, valamint a környezetvédelmi és vízvédelmi követelményekkel, a településrendezési eszközökkel,
+bb) az egyes településrészek szennyvízelvezetési és -tisztítási megoldására vonatkozóan, megkülönböztetve
+aszennyvízelvezetőművelellátottésaNemzeti TelepülésiSzennyvízelvezetésiés-tisztításiMegvalósításiProgrammal
+összefüggő szennyvízelvezetési agglomerációk lehatárolásáról szóló kormányrendeletnek megfelelő lehatárolás
+alapján ellátni tervezett településrészeket [a települési szennyvízelvezetési agglomeráció(ka)t], valamint az egyedi
+szennyvízkezelésre lehatárolt területeket, megadva az alkalmazni kívánt vízilétesítmények, építmények fajtáit,
+megjelölve azokat a településrészeket is, ahol egyedi szennyvízkezelés nem alkalmazható,
+bc) a szennyvízelvezető művel összegyűjtött szennyvizek tisztítótelepének, a tisztított szennyvizek befogadójának fő
+környezetvédelmi jellemzőire, valamint a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben
+és a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló
+miniszteri rendeletben meghatározott kibocsátási határértékekre, valamint azok teljesítésének feltételeire
+vonatkozóan,
+bd) a települési szennyvízelvezetési agglomerációhoz nem tartozó területek szennyvizeinek ártalmatlanítására
+vonatkozóan, jogszabályban meghatározott követelményeknek való megfelelés tekintetében,
+be) az egyedi szennyvízkezelő létesítményekre vagy az egyéb tervezett szennyvíz-ártalmatlanítási megoldásokra
+vonatkozó helyi környezetvédelmi, természetvédelmi követelményekre, valamint a fő műszaki adatokra és
+szabályokra vonatkozóan;
+c) a célkitűzések eléréséhez alkalmazható megoldási változatok vizsgálata, értékelése, valamint a választott megoldás
+indokolása, a várható környezetvédelmi, természetvédelmi, társadalmi és gazdasági hatásokkal együtt;
+d) a célkitűzések megvalósítását szolgáló feladatok;
+e) programszerű telepítés esetén a feladatok ütemezését és a feladatok megvalósítását szolgáló finanszírozási
+stratégia.”
+
+7. § A Kr. 25. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+„(2) Egyedi szennyvízkezelőlétesítményt bármely területen történő programszerű telepítés, illetve a felszín alatti vizek
+minősége szempontjából fokozottan érzékeny vagy magas talajvízállású területeken történő egyedi telepítés esetén
+akkor lehet létesíteni, ha a települési önkormányzat által elfogadott és a vízügyi hatóság által jóváhagyott települési
+szennyvízkezelési program ezt lehetővé teszi.
+(3) Egyedi szennyvízkezelő berendezést a felszín alatti vizek védelme szempontjából fokozottan érzékeny területek
+közül csak azokon a helyeken lehet létesíteni, ahol
+a) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló
+kormányrendelet a tisztított szennyvíz szikkasztását nem tiltja, és
+b) karsztos területek esetén továbbá akkor, ha a karsztvíztest jó kémiai állapotban van és
+ba) a felszínen vagy 10 méteren belül nem találhatóak mészkő vagy dolomit képződmények, vagy
+bb) mész- és dolomitmárga képződmények előfordulása esetén ezekre a területekre vonatkozóan a települési
+szennyvízkezelési program készítése során végzett vizsgálatok bizonyítják, hogy az elszivárogtatásra kerülő tisztított
+szennyvíz nem éri el a karsztvizet.”
+8. § A Kr. 26. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+„(2) Egyedi szennyvízkezelő létesítményt akkor lehet létesíteni, ha
+a) az megfelel a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és
+létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendeletben meghatározott előírásoknak, és
+b) programszerű telepítés esetében az engedélyezési eljárás során a kérelmező mellékeli a felelős szolgáltató
+üzemeltetésre vonatkozó nyilatkozatát.
+(3) Egyedi szennyvízkezelő létesítményt úgy kell létesíteni, hogy
+a) az egyedi szennyvízkezelő berendezés esetén az elfolyó tisztított szennyvízből,
+b)atisztítómezővelellátottoldómedencéslétesítményeseténatisztító-szűrőmezőután elfolyótisztított szennyvízből
+történő mintavétel műszakilag megoldható legyen.”
+9. § A Kr. 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Egyedi szennyvízkezelő létesítmény üzemeltetése során a tulajdonosnak gondoskodnia kell
+a) egyedi telepítésnél a meghibásodás, bűzképződés, tartós habképződés elhárításáról, valamint az üzemnapló
+rendszeres vezetéséről és a vízügyi hatóságnak történő bemutatásáról,
+b) programszerű telepítésnél a meghibásodás, bűzképződés, tartós habképződés esetén a felelős szolgáltató
+értesítéséről, valamint az üzemnapló rendszeres vezetéséről és a vízügyi hatóságnak, valamint a felelős szolgáltatónak
+történő bemutatásáról.”
+10. § (1) A Kr. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az egyedi szennyvízkezelő létesítmények működtetéséért felelős szolgáltatónak gondoskodnia kell
+a) a működés során, annak üzemnaplóban történő dokumentálásával
+aa) a rendszeres helyszíni szemléről,
+ab) a szükséges karbantartási munkák elvégzéséről,
+ac) az elfolyó tisztított szennyvízből történő mintavételek és analitikai vizsgálatok (1a) bekezdés szerinti gyakorisággal
+történő elvégzéséről, és a vízügyi hatóság részére történő megküldéséről,
+ad) kifogásolhatóan működő létesítmény esetén a hiba kijavításáról és az ismételt mintavételről,
+ae) tartósan kifogásolt működés esetén a vízügyi hatóság értesítéséről;
+b) a 26. § (4) bekezdésben meghatározott monitoring vizsgálatok elvégzéséről és nyilvántartásáról;
+c) a vízügyi hatósággal történő kapcsolattartásról, jogszabályban és az üzemeltetési engedélyben meghatározott
+adatok térítésmentes szolgáltatásáról;
+d) a szervizszolgáltatásról, rendelkezésre állásról; továbbá
+e) a lakossági tájékoztatásról és kapcsolattartásról.”
+(2) A Kr. 28. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Egyedi telepítésnél, ha a kibocsátás meghaladja az 500 m3/év mennyiséget, évente mintavételt és analitikai
+vizsgálatot kell végezni. Programszerű telepítés esetén évente legalább az egyedi szennyvízkezelő létesítmények
+20%-ánál a mintavételt és az analitikai vizsgálatot el kell végezni úgy, hogy valamennyi létesítmény legalább 5 évente
+bekerüljön a mintavételi és analitikai vizsgálati ütemezésbe.”
+
+11. § A Kr. 37. §-a következő (3) bekezdéssel egészül ki:
+„(3) Árvízvédelmi töltések esetén, amennyiben a védképesség számításokkal igazolt, a vízügyi hatóság a vízjogi
+létesítési engedélyezési eljárásban a Vízügyi és Környezetvédelmi Központi Igazgatóság véleménye alapján eltérhet a
+vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó
+műszaki szabályokról szóló miniszteri rendeletben meghatározott koronaszélességtől és rézsűhajlástól.”
+12. § A Kr. 73. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A műemléki védelem alatt álló építmények, létesítmények kivételével, a vizek és vízilétesítmények keresztezésére
+vonatkozó, az 1. mellékletben foglalt követelményeket
+a) a térszín alatti keresztezésnél a nyomvonalas létesítmények átépítése,
+b)atérszínfeletti keresztezésnélanyomvonalaslétesítményekműtárgyainakfelszerkezetcseréveltörténőátépítése
+során is érvényesíteni kell.”
+13. § A Kr. a következő 79. §-sal egészül ki:
+„79. § E rendeletnek a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek
+használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos
+eljárásról szóló 21/2006. (I. 31.) Korm. rendelet és a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló
+tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet
+módosításáról szóló 209/2011. (X. 12.) Korm. rendelettel (a továbbiakban: rendeletmódosítás) megállapított
+rendelkezéseit a rendeletmódosítás hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell
+azzal, hogy a kérelem visszavonása esetén a folyamatban lévő eljárásokat meg kell szüntetni.”
+14. § A Kr. 1. melléklete az 1. melléklet szerint módosul.
+15. § (1) A Kr. 27. § (3) bekezdésében a „berendezés” szövegrész helyébe a „létesítmény” szöveg lép.
+(2) A Kr. 39. §-ábanaz „az integrált folyó- és tógazdálkodásitervbe, ezen belül az általánosszabályozásitervbe” szövegrész
+helyébe az „a vízgyűjtő-gazdálkodási tervbe és intézkedési programjaiba” szöveg lép.
+(3) A Kr. 1. melléklet 2.4 pontjában a „Vízfolyás” szövegrész helyébe az „Egyéb vízfolyás” szöveg lép.
+16. § Hatályát veszti a Kr. 64. § (2) bekezdése.
+17. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
+(2) A 6. § 2012. január 1-jén lép hatályba.
+(3) A 9. §, a 10. § (1) bekezdése és a 15. § (1) bekezdése 2012. július 1-jén lép hatályba.
+(4) Ez a rendelet 2012. július 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 209/2011. (X. 12.) Korm. rendelethez
+1. A Kr. 1. melléklet 2.4.5.1. és 2.4.5.2., valamint 2.4.6. pontja helyébe a következő rendelkezés lép:
+„2.4.5.A hídpillértcsakazátfolyásiszelvényenésahídkörnyezetébenjellemzőpartélekvonalánkívüllehetelhelyezni.
+2.4.6. A híd szerkezeti alsó élmagasságát úgy kell kialakítani, hogy az minden esetben a híd környezetében jellemző
+partél vagy depónia szintjének biztonsági magassággal növelt szintje fölött legyen. Amennyiben a Q1%-os
+valószínűségű árvízszint biztonsági magassággal növelt értéke alapján számított szerkezeti alsó élmagasság a
+jelenlegi partélek vagy depóniák szintje alapján számított értéktől magasabb értékre adódik, akkor a hídszerkezet alsó
+éléta magasabbszinthezkelligazítani.Az előírtbiztonságimagassága 120 m3/s-otmeghaladóQ1%-osvalószínűségű
+árvízi vízhozamú vízfolyásokon legalább 1,0 m, a 80–120 m3/s között vízhozamnál 0,7 m, a 80 m3/s-nél kisebb
+vízhozamoknál pedig 0,5 m. Vasúti híd esetén az előírt biztonsági magasság betartása a mederszelvénynek a híd
+környezetében történő bővítésével is megoldható.”
+
+2. A Kr. 1. melléklete a következő 2.4.7. ponttal egészül ki:
+„2.4.7. A folyók mértékadó árvízszintjeiről szóló miniszteri rendelet hatálya alá nem tartozó vízfolyásoknál az íves alsó
+vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy az legalább 0,3 m-rel a mértékadó vízszint, illetve a híd
+környezetében jellemző partél, depónia szintje felett legyen. A falazathoz érintőlegesen csatlakozó boltozatoknál az
+érintési pont a mértékadó vízszint, illetve a híd környezetében jellemző partél, depónia szintjének megfelelő
+magasságáig süllyeszthető.”
+3. A Kr. 1. melléklet 2.5.1.2. pontja helyébe a következő rendelkezés lép:
+„2.5.1.2. A műtárgyat olyan nyílásmérettel kell tervezni, hogy alkalmas legyen a mértékadó vízhozam átvezetésére és
+lehetővé tegye a karbantartási munkák elvégzését. A 3 m3/s vízszállító-képességet meghaladó belvízcsatornák esetén
+minimum 1,6 m átmérőjű csőátereszt vagy minimum 1,4 m széles, 1,6 m magas méretű műtárgyat kell tervezni. Ha a
+talajadottság miatt burkolat szükséges, vagy a csatlakozó mederszakaszon is van burkolat, vagy a híd meg nem
+engedhető sebességnövekedést okoz, a burkolat hossz- és magassági méreteit is meg kell tervezni.”
+4. A Kr. 1. melléklet 2.5.2.1. és 2.5.2.2. pontja helyébe a következő rendelkezés lép:
+„2.5.2.1. Az áthidaló szerkezet alsó élét úgy kell kialakítani, hogy az a keresztezési szakaszon a jellemző partél felett
+minimum 0,5 m-rel és a mértékadó vízszint felett minimum 1,0 m-rel magasabban legyen.
+2.5.2.2. Íves alsó vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy legalább 0,5 m-rel a mértékadó vízszint
+felett legyen.”
