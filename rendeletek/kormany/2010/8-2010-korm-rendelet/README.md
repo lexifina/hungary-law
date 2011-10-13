@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-8-20-22
 | 2010-09-01 | 2010-8-20-22.3 | 234/2010. (VIII. 31.) Korm. rendelet |
 | 2010-10-08 | 2010-8-20-22.4 | 243/2010. (X. 5.) Korm. rendelet |
 | 2010-12-31 | 2010-8-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-10-13 | 2010-8-20-22.6 | 210/2011. (X. 12.) Korm. rendelet |

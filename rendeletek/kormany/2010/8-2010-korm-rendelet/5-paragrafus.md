@@ -32,7 +32,7 @@ a) a gépbeszerzések,
 
 b) a megelőző munkálatok,
 
-c)[^11] a fejlesztések, a 3. § (10) bekezdésben foglaltak kivételével,
+c)[^12] a fejlesztések, a 3. § (10) bekezdésben foglaltak kivételével,
 
 d) a rovar- és kártevőirtás költségei,
 
@@ -50,4 +50,4 @@ e) a folyó jellegű működési kiadások.
 
 (12) A (10)–(11) bekezdésben foglalt feltétel alól mentesül az önkormányzat, többcélú kistérségi társulás, ha az adott ingatlanra nem köthető biztosítás. Ezt a tényt az önkormányzat, többcélú kistérségi társulás legalább három, országos biztosítótársaság nyilatkozatával igazolja az Igazgatóság felé.
 
-[^11]: Az 5. § (6) bekezdés c) pontja a 243/2010. (X. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 5. § (6) bekezdés c) pontja a 243/2010. (X. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
