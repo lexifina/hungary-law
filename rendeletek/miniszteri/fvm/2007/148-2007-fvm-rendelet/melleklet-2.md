@@ -52,6 +52,10 @@
 
 | 23. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 3000 Ft/vágóhídra értékesített állategység (ÁE)* Legalább egyszer fialt koca után havonta 1500 Ft/egyed, de 2011. évben legfeljebb 2100 millió Ft. A támogatási keret tartalmazza a 2011. év. január, február és március hónapokban a hízósertésre elfogadott szolgáltatások támogatási összegét is. |
 
+| 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 100 Ft/alkalom/egyed |
+
+| 25. | B013 | Nyulak vérzéses betegsége (RHD) elleni vakcinázás | házinyúl | Vakcinázás: 110 Ft/alkalom/egyed |
+
 ## * Állategység:
 
 ## –  A baromfi kivételével az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerint.
@@ -60,7 +64,7 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^21]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^25]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -122,4 +126,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^21]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
