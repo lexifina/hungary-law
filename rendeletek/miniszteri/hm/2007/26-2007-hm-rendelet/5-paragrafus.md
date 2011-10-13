@@ -6,5 +6,8 @@
 
 (3) A kiküldött részére az e rendelet szerint folyósítható bármely költségtérítés elszámolására kizárólag számla vagy számlát helyettesítő bizonylat alapján kerülhet sor.
 
+(4)[^17] Térítésmentes élelmezés hiányában az ideiglenes és tartós külföldi szolgálatok során felmerült étkezési költségeket a kiküldöttnek – a 14. § (2) bekezdése szerinti eset kivételével – a külföldi napidíjából, illetve a devizaellátmányából kell biztosítania.
+
 [^15]: Az 5. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^16]: Az 5. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^17]: Az 5. § (4) bekezdését a 12/2011. (X. 5.) HM rendelet 2. §-a iktatta be.

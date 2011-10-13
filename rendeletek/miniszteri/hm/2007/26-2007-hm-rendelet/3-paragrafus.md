@@ -1,4 +1,4 @@
-## 2. §[^5] A honvédségnél foglalkoztatott köztisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot 1. számú melléklet, és az adott országra irányadó alapellátmányt az 5. számú melléklet alapján kell megállapítani. A köztisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
+## 2. §[^5] A honvédségnél foglalkoztatott köztisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot 1. számú melléklet, és az adott országra irányadó alapellátmányt a 6. § (2) bekezdése figyelembevételével alapján kell megállapítani. A köztisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
 
 ## Értelmező rendelkezések
 
@@ -16,7 +16,7 @@ e) állomáshely: az az ország vagy földrajzilag körülhatárolt terület, ah
 
 f) harmadik ország: a Magyar Köztársaságtól, valamint az állomáshelytől eltérő ország vagy földrajzilag körülhatárolt terület;
 
-g)[^6] kiküldetés: a tartós külföldi szolgálat időtartama alatt, illetve időtartamtól függetlenül a béketámogató műveletben való részvétel során az állomáshely szerinti vagy harmadik országban, illetve a Magyar Köztársaság területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat, illetve szolgálati út;
+g)[^6] kiküldetés: a tartós külföldi szolgálatot teljesítők, illetve időtartamtól függetlenül a béketámogató műveletben résztvevők által az állomáshely szerinti vagy harmadik országban, illetve a Magyar Köztársaság területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat. Az előzőeken túlmenően kiküldetésnek minősül továbbá a tartós külföldi szolgálatot teljesítők által az állomáshely szerinti vagy harmadik országban – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített legfeljebb hat hónap időtartamú külföldi szolgálat is;
 
 h) kiküldő: a külföldi szolgálatra vagy külföldi tanulmányra történő vezénylést, kihelyezést elrendelő személy;
 
@@ -74,8 +74,8 @@ r) katonai megfigyelő: nemzetközi szervezet felkérése alapján és szervezé
 
 s) fogadó fél: a külföldi képzést felajánló (azt esetlegesen pénzügyileg támogató) külföldi – kormányzati vagy egyéb, nem kormányzati – szerv.
 
-[^5]: A 2. § a 9/2010. (V. 4.) HM rendelet 10. § a) pontja szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján 2010. január 1-jétől kell alkalmazni.
-[^6]: A 3. § g) pontja a 13/2008. (VI. 3.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § a 9/2010. (V. 4.) HM rendelet 10. § a) pontja, a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § g) pontja a 12/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
 [^7]: A 3. § i) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított szöveg.
 [^8]: A 3. § i) pont 2. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított szöveg.
 [^9]: A 3. § i) pont 4. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés sz) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

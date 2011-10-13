@@ -184,7 +184,7 @@
 
 | Vatikán | EUR | 836 |
 
-6. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^124]
+6. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^141]
 
 Az ellátmánypótlék havi nettó összege
 
@@ -258,4 +258,4 @@ Az ellátmánypótlék havi nettó összege
 
 | Vietnam | EUR | 68 |
 
-[^124]: A 6. számú mellékletet az 1/2011. (III. 8.) HM rendelet 26. §-a iktatta be. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^141]: A 6. számú mellékletet az 1/2011. (III. 8.) HM rendelet 26. §-a iktatta be. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.

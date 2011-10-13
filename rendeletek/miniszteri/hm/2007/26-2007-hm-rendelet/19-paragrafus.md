@@ -2,14 +2,18 @@
 
 (2) A kiküldött tulajdonát képező ingóságok, berendezési és vagyontárgyak biztosításának díja a kiküldöttet terheli. Amennyiben a lakás, illetve annak berendezési és felszerelési tárgyaira kötött biztosítási szerződésben nem különülnek el a honvédségi és a kiküldött tulajdonát képező vagyontárgyak biztosítási összegei, a biztosítási díj megtérítése során csak a honvédségi tulajdonú tárgyakra eső, arányosan megállapított rész számolható el.
 
-(3)[^40] A lakáshoz kapcsolódó külön szolgáltatások – villany-, gáz-, víz- és csatornadíj, fűtés, hűtés, szemétszállítás – díja, ideértve az esetlegesen fizetendő társasházi közös költséget is, a kiküldöttet terheli. Ha ezen szolgáltatások díjainak egy évre számított együttes összege utólagosan, egy-egy naptári évre vonatkozóan meghaladja a kiküldött devizaellátmánya és családtagi pótléka egy évre számított együttes összegének (a továbbiakban: éves összellátmány) az 5%-át, az ezt meghaladó részt a honvédség a kiküldött kérelmére egyéb költségtérítésként megtéríti. A 3. § i) pontjának 6. alpontja szerinti szervezetek állományában szolgálatot teljesítők esetében az engedélyező elöljáró az előzőektől eltérően havi elszámolást is engedélyezhet. Az előzőekben említett összellátmány megállapítása szempontjából a 13. § alapján járó vezetői devizaellátmány-pótlék és devizaellátmány-kiegészítés összegét figyelmen kívül kell hagyni.
+(3)[^49] A lakáshoz kapcsolódó közüzemi szolgáltatások díja a kiküldöttet terheli. Közüzemi szolgáltatásnak kell tekinteni a továbbiakban a villany-, gáz-, víz- és csatornadíjat, valamint a fűtés, hűtés, szemétszállítás díjait, illetve az esetlegesen fizetendő társasházi közös költséget is.
 
-(4)[^41] Amennyiben a lakbér a külön szolgáltatások alapdíját is magában foglalja, úgy a szolgáltatások díjaként a tényleges összeget kell megállapítani, amely azonban nem haladhatja meg a kiküldött éves – a 3. § i) pontjának 6. alpontja szerinti szervezetek állományában szolgálatot teljesítők esetében a (3) bekezdésben említett engedély megadása esetén havi – összellátmányának 5%-át. Együtt élő házastársak egyazon állomáshelyen történő külföldi szolgálata esetén a devizaellátmányuk és a gyermek(ek) után járó családtagi pótlék együttes összegét kell alapul venni.
+(4)[^50] Amennyiben a lakbér a közüzemi szolgáltatások díját is magában foglalja, úgy a kiküldött a honvédség felé köteles megtéríteni a lakáshoz kapcsolódó közüzemi szolgáltatások tényleges összegét.
 
-(5) A közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének költsége, valamint a szolgáltatások alapdíja a honvédséget terheli.
+(5)[^51] A közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének, esetleges cseréjének költsége a honvédséget terheli.
 
-(6)[^42] A honvédség a kiküldött magán – vezetékes vagy rádió- – telefonkészülékéről bonyolított szolgálati beszélgetéseinek díját – részletes számla alapján – megtéríti. Ezen túlmenően a 3. § i) pontjának 6. alpontja szerinti szervezetek állománya részére a vezetékes telefon bekötésének díja, továbbá a telefonállomás és az internet használat alapdíja is megtéríthető, ha azt – az engedélyező elöljáró döntése alapján – szolgálati érdek indokolja.
+(6)[^52] A honvédség a kiküldött magán – vezetékes vagy rádió- – telefonkészülékéről bonyolított szolgálati beszélgetéseinek díját – részletes számla alapján – megtéríti. Ezen túlmenően a 3. § i) pontjának 6. alpontja szerinti szervezetek állománya részére a vezetékes telefon bekötésének díja, továbbá a telefonállomás és az internet használat alapdíja is megtéríthető, ha azt – az engedélyező elöljáró döntése alapján – szolgálati érdek indokolja.
 
-[^40]: A 19. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^41]: A 19. § (4) bekezdése az 1/2011. (III. 8.) HM rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^42]: A 19. § (6) bekezdése az 1/2011. (III. 8.) HM rendelet 8. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+(7)[^53] Ha a katonadiplomáciai külszolgálat keretében az attasé beosztást betöltő kiküldött részére biztosított lakás (3) bekezdésben szereplő közüzemi szolgáltatási díjainak havi együttes összege meghaladja a kiküldött havi nettó devizaellátmányának 7%-át, az ezt meghaladó rész a honvédséget terheli.
+
+[^49]: A 19. § (3) bekezdése a 12/2011. (X. 5.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^50]: A 19. § (4) bekezdése a 12/2011. (X. 5.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^51]: A 19. § (5) bekezdése a 12/2011. (X. 5.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^52]: A 19. § (6) bekezdése az 1/2011. (III. 8.) HM rendelet 8. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^53]: A 19. § (7) bekezdését a 12/2011. (X. 5.) HM rendelet 5. § (2) bekezdése iktatta be.

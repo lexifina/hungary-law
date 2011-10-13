@@ -1,21 +1,18 @@
-## 22. §[^49] A kiküldött és családtagi pótlékra jogosító hozzátartozója javára – a külföldön eltöltött időre – a HM FHH baleseti halálra és baleseti rokkantságra szóló baleset-biztosítást köt.
+## 22. §[^60] A kiküldött és családtagi pótlékra jogosító hozzátartozója javára – a külföldön eltöltött időre – a HM FHH baleseti halálra és baleseti rokkantságra szóló baleset-biztosítást köt.
 
 ## Iskoláztatási költség
 
-23. § (1) A kiküldöttnek a vele külföldön tartózkodó, családtagi pótlékra jogosító gyermeke után az alap- és középfokú oktatási intézményben felmerülő tandíjköltséget – a költségtérítés mértékének, valamint igénybevétele konkrét feltételeinek (a külszolgálat megkezdését megelőzően lefolytatott személyi beszélgetésen való külön) ismertetését követően – a (2)–(6) bekezdésekben foglaltak szerint kell megtéríteni.
+23. §[^61] (1) A kiküldöttnek a vele külföldön tartózkodó, családtagi pótlékra jogosító gyermeke után az alap- és középfokú oktatási intézményben felmerülő tandíjköltséget a (2)–(5) bekezdésekben foglaltak szerint lehet megtéríteni. Az alapfokú képzést közvetlenül megelőző, legfeljebb egyéves időtartamú úgynevezett iskolai előkészítő tandíját a (2)–(3) bekezdésekben foglaltak figyelembevételével lehet megtéríteni.
 
-(2)[^50] Az oktatási intézmény éves tandíját – eredeti számla vagy az oktatási intézmény által kiállított számlát helyettesítő bizonylat leadása ellenében – az alapellátmány legfeljebb tízszereséig terjedő mértékéig meg kell téríteni.
+(2) Ha az állomáshelyen rendelkezésre áll térítésmentesen igénybe vehető – az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő – angol, német, francia vagy spanyol nyelven képzést folytató oktatási intézmény, akkor a kiküldött részére iskoláztatási költségtérítés nem biztosítható.
 
-(3)[^51] A (2) bekezdésben meghatározott összegen felül csak a HM közigazgatási államtitkár külön engedélye alapján folyósítható további költségtérítés. Az engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára vonatkozik. A költségtérítésre vonatkozó kérelmet – az engedélyező elöljáró véleményével együtt – a HM KPH útján kell a HM közigazgatási államtitkár részére felterjeszteni.
+(3) Amennyiben a (2) bekezdés szerinti feltételek nem teljesülnek, a tandíjköltség honvédség általi átvállalását vagy részbeni megtérítését a honvédelemért felelős miniszter által előzetesen jóváhagyott intézkedésben szabályozott szempontrendszer alapján a HM közigazgatási államtitkára – a 3. § i) pont 6. alpontja szerinti szervezetek állományában szolgálatot teljesítők esetében az engedélyező elöljáró – engedélyezheti. Az engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára vonatkozik. A költségtérítésre vonatkozó kérelmet – a 3. § i) pont 6. alpontja szerinti szervezetek állományában szolgálatot teljesítők kivételével – az engedélyező elöljáró véleményével együtt, a HM KPH útján kell a HM közigazgatási államtitkára részére felterjeszteni.
 
-(4) Az alapfokú képzést közvetlenül megelőző (legfeljebb kétéves időtartamú) ún. iskolai előkészítő tandíját a (2)–(3) bekezdésekben foglaltak figyelembevételével kell megtéríteni.
+(4) Amennyiben a kiküldött fogyatékos gyermekét speciális oktatási intézményben kell taníttatni, annak költségeit a (3) bekezdésben foglaltak figyelembevételével lehet megtéríteni.
 
-(5) Amennyiben a kiküldött fogyatékos gyermekét speciális oktatási intézményben kell taníttatni, annak költségeit a (2)–(4) bekezdésekben foglaltak figyelembevételével kell megtéríteni.
+(5) Az engedélyezett tandíjköltség-térítés összegét gyermekenként kell megállapítani és folyósítani. A tandíjköltség a tanév szerinti éves, vagy féléves tandíjat, a beiratkozás díját és a regisztrációs költséget foglalja magában.
 
-(6) A tandíjköltség-térítés összegét gyermekenként kell megállapítani és folyósítani. A tandíjköltség a tanév szerinti éves (féléves) tandíjat, a beiratkozás díját (regisztrációs költséget) foglalja magában.
+(6) A gyermekek taníttatásával összefüggő egyéb, az (5) bekezdésben nem szereplő költségeket nem lehet a kiküldött részére megtéríteni. Ilyen meg nem téríthető költségek különösen a tanszer, tankönyv, az oktatási intézmény által szervezett kirándulás, szabadidős programok, külön nyelvórák, az iskolabusz költségei, valamint az oktatási intézmény részére történő bármely egyéb befizetés.
 
-(7) A gyermekek taníttatásával összefüggő egyéb, a (6) bekezdésben nem szereplő költségeket (így különösen a tanszer, tankönyv, az oktatási intézmény által szervezett kirándulás, szabadidős programok, külön nyelvórák, az iskolabusz költségeit, valamint az oktatási intézmény részére történő bármely egyéb befizetéseket) nem lehet a kiküldött részére megtéríteni.
-
-[^49]: A 22. § az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^50]: A 23. § (2) bekezdése az 1/2011. (III. 8.) HM rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^51]: A 23. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés d) pontja, a 4/2011. (VI. 7.) HM rendelet 13. § e) és f) pontja szerint módosított szöveg.
+[^60]: A 22. § az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^61]: A 23. § a 12/2011. (X. 5.) HM rendelet 6. §-ával megállapított szöveg.

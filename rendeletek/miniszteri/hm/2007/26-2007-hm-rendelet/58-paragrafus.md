@@ -1,4 +1,4 @@
-58. § (1)[^97] A kiküldött a kiutazási engedély alapján szolgálati, illetőleg saját gépjárművet is igénybe vehet. Saját gépjármű igénybevétele azonban csak a külföldön is érvényes teljeskörű CASCO vagy azzal egyenértékű biztosítással rendelkezők részére engedélyezhető. A gépjárműre vonatkozó teljeskörű biztosítás díja a kiküldöttet terheli.
+58. § (1)[^110] A kiküldött a kiutazási engedély alapján szolgálati, illetőleg saját gépjárművet is igénybe vehet. Saját gépjármű igénybevétele azonban csak a külföldön is érvényes teljeskörű CASCO vagy azzal egyenértékű biztosítással rendelkezők részére engedélyezhető. A gépjárműre vonatkozó teljeskörű biztosítás díja a kiküldöttet terheli.
 
 (2) Szolgálati gépjárművel történő utazás esetén az utazással összefüggésben ténylegesen felmerült szolgálati jellegű, számlával igazolt költségeket (üzemanyag, javítás, parkolás, gépjárműmosatás, autópályadíj) a honvédség megtéríti.
 
@@ -8,7 +8,7 @@ a) a külön jogszabály szerint igazolás nélkül elszámolható üzemanyag fo
 
 b) a külön jogszabály alapján a honvédségben gépjármű használati költségként elszámolható összeg, valamint
 
-c) az esetleg felmerülő parkolás, autópályadíj, gépjárműmosatás költsége fizethető ki azzal, hogy üzemanyagáron – az (5) bekezdésben foglaltak kivételével – az Adó- és Pénzügyi Ellenőrzési Hivatal által a tárgyidőszakra vonatkozóan közzétett üzemanyagárat kell érteni. Az üzemanyag-felhasználás megállapításához a kiutazás előtt meg kell határozni a szolgálati utazás tervezett hosszát.
+c)[^111] az esetleg felmerülő parkolás, autópályadíj, gépjárműmosatás költsége fizethető ki azzal, hogy üzemanyagáron – az (5) bekezdésben foglaltak kivételével – az állami adóhatóság által a tárgyidőszakra vonatkozóan közzétett üzemanyagárat kell érteni. Az üzemanyag-felhasználás megállapításához a kiutazás előtt meg kell határozni a szolgálati utazás tervezett hosszát.
 
 (4) Saját gépjármű igénybevétele esetén a szolgálati utazásnak a magyar országhatáron belül megtett távolsága utáni üzemanyag-felhasználás ellenértékét forintban kell fizetni.
 
@@ -20,4 +20,5 @@ b) amennyiben külföldön üzemanyag-felvétel nem történt, a (3) bekezdés a
 
 (6) Ha az (5) bekezdés a) pontja alapján kifizetett összeg nem éri el a külföldön megtett távolság alapján egyébként járó összeget, a fennmaradó távolságra az üzemanyag felhasználás ellenértékét a (3) bekezdés a) pontja figyelembevételével, forintban kell kifizetni.
 
-[^97]: Az 58. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 18. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^110]: Az 58. § (1) bekezdése az 1/2011. (III. 8.) HM rendelet 18. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^111]: Az 58. § (3) bekezdés c) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
