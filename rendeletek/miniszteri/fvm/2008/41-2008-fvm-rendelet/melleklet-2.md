@@ -28,7 +28,7 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^14]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^17]
 
 ## Támogatási kérelem adattartalma
 
@@ -82,4 +82,4 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen
 
 8. Keltezés, és a Mezőgazdasági Szakigazgatási Hivatal Elnökének aláírása és bélyegzője.
 
-[^14]: A 2. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
