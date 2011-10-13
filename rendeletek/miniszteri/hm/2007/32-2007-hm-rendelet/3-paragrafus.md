@@ -2,4 +2,6 @@
 
 (2) A NATO menetparancs-nyomtatványok hitelesítésére a címeres nagyméretű szám nélküli, illetve az 1. számú címeres nagyméretű körbélyegzőt kell használni, melynek előállításáról, nyilvántartásba vételéről és a kiadmányozó szervek részére a hozzáférhetőség biztosításáról a HM bélyegzőkészítésért felelős szervezete gondoskodik, valamint saját költségvetésében éves szinten tervezi az előállítási költségeket.
 
-(3) A NATO menetparancs-nyomtatványok előállításáról, nyilvántartásba vételéről és a kiadmányozók részére történő átadás-átvételről a HM katonai, vámügyi és határforgalmi feladatokért felelős szervezete gondoskodik. Az előállítási költségeket saját költségvetésben éves szinten a HM beszerzési feladatokért felelős szervezete tervezi.
+(3)[^4] A NATO menetparancs-nyomtatványok előállításáról, nyilvántartásba vételéről és a kiadmányozók részére történő átadás-átvételről a HM protokoll és rendezvényszervezésért felelős szervezete gondoskodik. A kiadmányozásra jogosult szervezetek a NATO menetparancs-nyomtatvány igényüket az esedékesség előtt 90 nappal küldik meg a HM protokoll és rendezvényszervezésért felelős szervezete részére.
+
+[^4]: A 3. § (3) bekezdése a 11/2011. (X. 5.) HM rendelet 2. §-ával megállapított szöveg.

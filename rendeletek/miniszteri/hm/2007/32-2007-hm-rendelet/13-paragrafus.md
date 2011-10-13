@@ -1,6 +1,6 @@
-13. § (1)[^5] A NATO menetparanccsal történő zavartalan határátlépés érdekében a kiadmányozó szervek és a Rendőrség illetékes szervei kötelesek egymással együttműködni és kölcsönösen megfelelő tájékoztatást nyújtani.
+13. § (1)[^17] A NATO menetparanccsal történő zavartalan határátlépés érdekében a kiadmányozó szervek és az általános rendőrségi feladatok ellátására létrehozott szerv kötelesek egymással együttműködni és kölcsönösen megfelelő tájékoztatást nyújtani.
 
-(2)[^6] Az 1. § (2) bekezdés a) pontja esetében a kiadmányozó szerv a tervezett határátlépés előtt legalább 5 nappal értesíti a Rendőrség központi szervének határforgalom ellenőrzéséért felelős szervezeti egységét a NATO menetparanccsal történő határátlépésről.
+(2)[^18] Az 1. § (2) bekezdés a) pontja esetében a kiadmányozó szerv a tervezett határátlépés előtt legalább 5 nappal értesíti az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének határforgalom ellenőrzéséért felelős szervezeti egységét a NATO menetparanccsal történő határátlépésről.
 
 (3) A (2) bekezdés szerinti értesítésnek tartalmaznia kell:
 
@@ -10,11 +10,11 @@ b) a NATO menetparancsban foglalt adatokat;
 
 c) a határátlépéshez igénybe venni kívánt gépjármű(vek) adatait (szám, típus, forgalmi rendszám);
 
-d)[^7] szükség esetén biztonsági intézkedések igénylését a Rendőrségtől.
+d)[^19] szükség esetén biztonsági intézkedések igénylését az általános rendőrségi feladatok ellátására létrehozott szervtől.
 
-(4)[^8] Előzetes értesítés esetén a Rendőrség biztosítja az értesítésben megjelölt személyek és járművek soron kívüli ellenőrzéssel történő határátlépését.
+(4)[^20] Előzetes értesítés esetén az általános rendőrségi feladatok ellátására létrehozott szerv biztosítja az értesítésben megjelölt személyek és járművek soron kívüli ellenőrzéssel történő határátlépését.
 
-[^5]: A 13. § (1) bekezdése a 16/2008. (VI. 25.) HM rendelet 1. §-ának c) pontja szerint módosított szöveg.
-[^6]: A 13. § (2) bekezdése a 16/2008. (VI. 25.) HM rendelet 1. §-ának c) pontja szerint módosított szöveg.
-[^7]: A 13. § (3) bekezdésének d) pontja a 16/2008. (VI. 25.) HM rendelet 1. §-ának d) pontja szerint módosított szöveg.
-[^8]: A 13. § (4) bekezdése a 16/2008. (VI. 25.) HM rendelet 1. §-ának c) pontja szerint módosított szöveg.
+[^17]: A 13. § (1) bekezdése a 11/2011. (X. 5.) HM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 13. § (2) bekezdése a 11/2011. (X. 5.) HM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 13. § (3) bekezdés d) pontja a 11/2011. (X. 5.) HM rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^20]: A 13. § (4) bekezdése a 11/2011. (X. 5.) HM rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.

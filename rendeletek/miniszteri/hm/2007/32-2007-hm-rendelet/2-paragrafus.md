@@ -12,10 +12,13 @@
 
 6. kiadmányozó szervek:
 
-a) a HM felsőszintű rendezvényeinek lebonyolításáért és a nemzeti támogatásért felelős szervezete, amennyiben a határátlépés fegyver, haditechnikai eszközök vagy anyagok nélkül történik,
+a)[^2] a HM protokoll és rendezvényszervezésért felelős szervezete,
 
-b) a HM katonai, vámügyi és határforgalmi feladatokért felelős szervezete, amennyiben a határátlépés fegyverrel, haditechnikai eszközökkel, illetve anyagokkal – ideértve a szolgálati kézi lőfegyvert, az egyéni vegyvédelmi felszerelést és a golyóálló mellényt is – együtt történik,
+b)[^3] az MH Összhaderőnemi Parancsnokság, ha a kiutazást a parancsnoka hagyja jóvá vagy engedélyezi,
 
 c) a honvédelmi miniszter erre irányuló felhatalmazása esetén a tárca külföldi képviseletét ellátó szervezet vezetője vagy a külföldi magyar katonai képviselet vezetője,
 
 d) a HM Honvéd Vezérkar főnöke erre irányuló felhatalmazása esetén a tartósan külföldön állomásozó MH csapat (kontingens) parancsnoka, a csapat (kontingens) állományába tartozó személyek határátlépése esetén.
+
+[^2]: A 2. § 6. pont a) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 6. pont b) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,6 @@
-17. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 29/2000. (X. 13.) HM–BM együttes rendelet, a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 29/2000. (X. 13.) HM–BM együttes rendelet módosításáról szóló 18/2001. (VII. 25.) HM–BM együttes rendelet, valamint a NATO menetparancs alkalmazásáról szóló 29/2000. (X. 13.) HM–BM együttes rendelet módosításáról szóló 8/2004. (IV. 13.) HM–BM együttes rendelet.
+## 17. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 29/2000. (X. 13.) HM–BM együttes rendelet, a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 29/2000. (X. 13.) HM–BM együttes rendelet módosításáról szóló 18/2001. (VII. 25.) HM–BM együttes rendelet, valamint a NATO menetparancs alkalmazásáról szóló 29/2000. (X. 13.) HM–BM együttes rendelet módosításáról szóló 8/2004. (IV. 13.) HM–BM együttes rendelet.
+
+18. §[^24] E rendeletnek a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 32/2007. (VIII. 15.) HM rendelet, valamint a külföldi szolgálatba vezényeltekkel kapcsolatos személyügyi feladatokról és jogállásuk egyes kérdéseiről szóló 26/2002. (IV.12.) HM rendelet módosításáról szóló 11/2011. (X. 5.) HM rendelettel megállapított 2–4. §-át, 10–12. §-át és 16. §-át a folyamatban lévő ügyekben is alkalmazni kell azzal, hogy a megszűnt jogkörű kiadmányozó szerv iratait a HM protokoll és rendezvényszervezésért felelős szervezete, valamint a HM felsőszintű logisztikai gazdálkodó szervezete részére kell átadni.
 
 Melléklet a 32/2007. (VIII. 15.) HM rendelethez
 
@@ -95,3 +97,5 @@ Propositions d’instructions pouvant figurer au dos du formulaire
 8. S’il s’agit déplacement de plusieurs individus, la liste indiquéé au paragraphe 1 du formulaire devra comporter le numéro matricule ou de la carte d’identité, le grade, le nom et l’unité de chacun déux. Cette list poura figurer soit sur le recto ou le verso de l’Ordre de mission, soit sur un document distinct, selon le cas.
 
 9. Tous details ou instructions supplémentaires que la nation d’origine désire inclure devront figurer soit au dos du formulaire, soir sur une feuille séparée.
+
+[^24]: A 18. §-t a 11/2011. (X. 5.) HM rendelet 8. §-a iktatta be.
