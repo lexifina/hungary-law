@@ -1,10 +1,10 @@
 ## Általános rendelkezések
 
-1. §[^1] (1) A rendelet hatálya a Honvédelmi Minisztériumra (a továbbiakban: HM), a Magyar Honvédségre (a továbbiakban: Honvédség), a honvédelmi miniszter alárendeltségébe, közvetlen és fenntartói irányítása alá tartozó szervezetekre, az Állami Egészségügyi Központra, valamint ezen szervezetek személyi állományára terjed ki.
+1. §[^2] (1) A rendelet hatálya a Honvédelmi Minisztériumra (a továbbiakban: HM), a Magyar Honvédségre (a továbbiakban: Honvédség), a honvédelmi miniszter alárendeltségébe, közvetlen és fenntartói irányítása alá tartozó szervezetekre, az Állami Egészségügyi Központra, valamint ezen szervezetek személyi állományára terjed ki.
 
 (2) E rendelet alkalmazásában
 
-a) műveletirányító parancsnokság: a Honvédség szervezeti egysége, melyet a műveleti típushoz igazodóan, a műveletirányítási, koordinálási, ellenőrzési és felügyeleti feladatok ellátására a honvédelmi miniszter jelöl ki;
+a)[^3] műveletirányító parancsnokság: az MH Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP);
 
 b) szakmai szerv: a nemzetközi igény teljesítésére szakképzettség alapján alkalmas állománnyal rendelkező, a HM vagy a Honvédség szervezeti rendszerébe tartozó szervezet; többféle szakképzettségűekből összeállítandó kontingensre irányuló igény esetén a fő feladat szerinti szervezet;
 
@@ -16,4 +16,5 @@ e) tartós külföldi szolgálat: az a külföldi szolgálat vagy tanulmány, me
 
 f) nemzetközi igény: nemzetközi szervezetektől, más államoktól érkező vagy meglevő nemzetközi kötelezettségből eredő, az (1) bekezdésben meghatározott szervezetek állományának közreműködésére irányuló felkérések.
 
-[^1]: Az 1. § a 42/2007. (XII. 23.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 42/2007. (XII. 23.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés a) pontja a 11/2011. (X. 5.) HM rendelet 10. §-ával megállapított szöveg.

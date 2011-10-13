@@ -4,7 +4,7 @@
 
 ## KÜLFÖLDI SZOLGÁLAT UTÁNI SZEMÉLYÜGYI FELADATOK
 
-15. § (1)[^27] A Honvédség központi személyügyi szerve – a 6. §-ban és a (2) bekezdésben foglaltakra figyelemmel – a külföldi szolgálat befejezését követően hivatalból intézkedik a hazai beosztásba helyezésre.
+15. § (1)[^33] A Honvédség központi személyügyi szerve – a 6. §-ban és a (2) bekezdésben foglaltakra figyelemmel – a külföldi szolgálat befejezését követően hivatalból intézkedik a hazai beosztásba helyezésre.
 
 (2) A vezető szakmai szerv parancsnoka a Hjt. 2. § (32) bekezdés b), e), f), h) pontjai szerinti külföldi szolgálatból visszatérő azon személyekkel, akiket a külföldi szolgálatra vezénylés előtt beosztásukból felmentettek, személyi beszélgetést folytat. Ennek során, illetve az érintett hazai és a külföldi állomáshely szerinti állományilletékes parancsnokával együttműködve felméri a külföldön szerzett képzettségét, tájékozódik a szerzett tapasztalatokról és a Honvédség részére hasznosítható ismereteiről.
 
@@ -14,4 +14,4 @@
 
 (5) A rendelkezési állományból külföldi szolgálatra vezényelteket, illetve az egy évnél hosszabb külföldi szolgálatból hazatérőket a viselt rendfokozatuknak megfelelő új beosztásba kell helyezni a Hjt. és az R. áthelyezésre vonatkozó szabályai (Hjt. 51. §, R. 45–50. §) szerint. Az előmenetel vagy a kérelemre alacsonyabb beosztásba helyezés érdekében – a vezénylési hely állományilletékes parancsnokától kapott javaslat és vélemény figyelembevételével – a Honvédség központi személyügyi szerve javaslatot tehet a munkáltatói jogkört gyakorló elöljárónak.
 
-[^27]: A 15. § (1) bekezdése a 42/2007. (XII. 23.) HM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 15. § (1) bekezdése a 42/2007. (XII. 23.) HM rendelet 11. §-ával megállapított szöveg.

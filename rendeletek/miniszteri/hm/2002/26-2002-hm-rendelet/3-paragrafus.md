@@ -16,11 +16,11 @@ a) a Hjt. 2. § (32) bekezdés c) pontja szerinti szolgálatok esetében a műve
 
 b) a Hjt. 2. § (32) bekezdés e), g), pontjai szerinti szolgálatok esetében a HM multilaterális kapcsolattartó szervének vezetője;
 
-c)[^3] a Hjt. 2. § (32) bekezdés b) pontja szerinti külföldi szolgálat – a nemzeti támogató szerv és a katonai nemzetbiztonsági szolgálatok állománya kivételével – és a h) pontja szerinti tanulmányok, oktatás és tudományos tevékenység esetében a Honvédség központi személyügyi szervének vezetője;
+c)[^5] a Hjt. 2. § (32) bekezdés b) pontja szerinti külföldi szolgálat – a nemzeti támogató szerv és a katonai nemzetbiztonsági szolgálatok állománya kivételével – és a h) pontja szerinti tanulmányok, oktatás és tudományos tevékenység esetében a Honvédség központi személyügyi szervének vezetője;
 
-d)[^4] a nemzeti támogatásért felelős szervezeti elem beosztásai esetében a HM felsőszintű nemzeti támogatásáért felelős szervezetének vezetője.
+d)[^6] a nemzeti támogatásért felelős szervezeti elem beosztásai esetében a HM felsőszintű nemzeti támogatásáért felelős szervezetének vezetője.
 
-(4)[^5] A bizottság tagjai a Honvédség központi személyügyi szervének, a HM multilaterális kapcsolattartó szervének, a HM pénzügyi szervének és a betöltendő beosztás tekintetében hatáskörrel rendelkező vezető szakmai szervnek a képviselője.
+(4)[^7] A bizottság tagjai a Honvédség központi személyügyi szervének, a HM multilaterális kapcsolattartó szervének, a HM pénzügyi szervének és a betöltendő beosztás tekintetében hatáskörrel rendelkező vezető szakmai szervnek a képviselője.
 
 (5) Azon pályázókból, akik a feltételeket teljesítették, de helyhiány vagy más objektív ok miatt nem nyerték el a pályázott beosztást, egy, a vezető szakmai szerv által nyilvántartott tartalék állományt kell képezni.
 
@@ -32,6 +32,6 @@ b) Az a) pont szerinti külföldi beosztás betöltésére az R. 20. § (1) beke
 
 (7) A pályázaton meghirdetett beosztás(ok), külföldi tanfolyami férőhelyek betöltésére a pályázatokat elbíráló bizottságok vezetői tesznek javaslatot; a személyi döntésre irányuló javaslatot az R. 29. § (1) bekezdése szerinti elöljáró terjeszti fel a honvédelmi miniszterhez.
 
-[^3]: A 3. § (3) bekezdésének c) pontja a 42/2007. (XII. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (3) bekezdésének d) pontja a 42/2007. (XII. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdése a 42/2007. (XII. 23.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdésének c) pontja a 42/2007. (XII. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (3) bekezdésének d) pontja a 42/2007. (XII. 23.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (4) bekezdése a 42/2007. (XII. 23.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.

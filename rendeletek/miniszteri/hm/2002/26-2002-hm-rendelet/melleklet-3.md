@@ -56,7 +56,7 @@
 
 ## – vám- és devizaszabályok ismertetése.
 
-3. számú melléklet a 26/2002. (IV. 12.) HM rendelethez[^28]
+3. számú melléklet a 26/2002. (IV. 12.) HM rendelethez[^36]
 
 NYILATKOZAT
 
@@ -70,7 +70,7 @@ Nyt. szám: .............................
 
 NYILATKOZAT
 
-a ................................................. külföldi szolgálaton való részvétel vállalásáról[^29]
+a ................................................. külföldi szolgálaton való részvétel vállalásáról[^37]
 
 A külföldi szolgálatba vezényeltekkel kapcsolatos személyügyi feladatokról és jogállásuk egyes kérdéseiről szóló 26/2002. (IV. 12.) HM rendelet 6. §-ának (3) bekezdése alapján kijelentem, hogy az általam ................................. napon átvett, külföldi szolgálatra vonatkozó Tájékoztatóban foglaltakat tudomásul veszem és a külföldi szolgálatot annak megfelelően teljesítem.
 
@@ -88,5 +88,5 @@ Hely: .................................., 20...... év ...................... h�
 
 |  | ........................................................................... aláírás |
 
-[^28]: A 3. számú melléklet a 42/2007. (XII. 23.) HM rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^29]: A missziót irányító adott nemzetközi szervezet, valamint a misszió megnevezésének rövidítése, pl. NATO, SFOR.
+[^36]: A 3. számú melléklet a 42/2007. (XII. 23.) HM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^37]: A missziót irányító adott nemzetközi szervezet, valamint a misszió megnevezésének rövidítése, pl. NATO, SFOR.
