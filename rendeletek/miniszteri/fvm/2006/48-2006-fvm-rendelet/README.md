@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-48-20-8
 | --- | --- | --- |
 | 2009-04-06 | 2006-48-20-82.6 | 48/2006. (VI. 22.) FVM rendelet |
 | 2010-03-14 | 2006-48-20-82.7 | 19/2010. (III. 11.) FVM rendelet |
+| 2011-10-13 | 2006-48-20-82.8 | 93/2011. (X. 12.) VM rendelet |

@@ -1,7 +1,8 @@
 ## 3. § A támogatás mértékét, illetve annak kiszámítási módját e rendelet 1. számú melléklete tartalmazza.
 
-4. § (1)[^5]
+4. § (1)[^8]
 
-(2) A Bizottság 796/2004/EK rendeletének 65–67. cikkeit a tárgyévre vonatkozó SAPS jogszabálynak megfelelően lefolytatott adminisztratív és fizikai ellenőrzések megállapításai alapján kell alkalmazni. A támogatási összeget érintő levonások és kizárások tekintetében a Bizottság 1973/2004/EK rendeletének 138. cikkét nem kell alkalmazni.
+(2)[^9] A 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet 70–72. cikkét a SAPS, valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) tárgyévi igénybevételével kapcsolatos egyes kérdésekről szóló jogszabály rendelkezéseinek megfelelően lefolytatott adminisztratív és fizikai ellenőrzések megállapításai alapján kell alkalmazni.
 
-[^5]: A 4. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának h) pontja hatályon kívül helyezte.
+[^8]: A 4. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának h) pontja hatályon kívül helyezte.
+[^9]: A 4. § (2) bekezdése a 93/2011. (X. 12.) VM rendelet 3. §-ával megállapított szöveg.
