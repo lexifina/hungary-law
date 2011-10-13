@@ -1,0 +1,1 @@
+## „(7) Ha a katonadiplomáciai külszolgálat keretében az attasé beosztást betöltő kiküldött részére biztosított lakás (3) bekezdésben szereplő közüzemi szolgáltatási díjainak havi együttes összege meghaladja a kiküldött havi nettó devizaellátmányának 7%-át, az ezt meghaladó rész a honvédséget terheli.”
