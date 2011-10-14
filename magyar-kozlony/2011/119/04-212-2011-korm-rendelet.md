@@ -1,0 +1,198 @@
+# A Kormány 212/2011. (X. 14.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 119. szám, 2011. október 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b62b47843462efdef771f4efa56d6893ada7b96a/dokumentumok/f6046e07f146a6a859a94689ab54f0509567dc7d/letoltes)
+
+---
+
+A Kormány 212/2011. (X. 14.) Korm. rendelete
+a fővárosi és megyei kormányhivatalok feladat- és hatásköreivel összefüggő egyes
+kormányrendeletek módosításáról
+A Kormány
+a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet módosítása tekintetében a fővárosi és megyei
+kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő
+törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § a) pontjában,
+a mezőgazdasági őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendelet módosítása tekintetében a személyi
+jövedelemadóról szóló 1995. évi CXVII. törvény 80. § e) pontjában,
+a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet
+módosításatekintetébenakötelezőegészségbiztosításellátásairólszóló1997. éviLXXXIII. törvény83.§ (2) bekezdésk)pontjában,
+a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló
+141/2000. (VIII. 9.) Korm. rendelet módosítása tekintetében a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról
+szóló 1998. évi XXVI. törvény 30. § (1) bekezdés b) pontjában,
+a családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001.
+(XII. 30.) Korm. rendelet módosítása tekintetében a termőföldről szóló 1994. évi LV. törvény 90. § (1) bekezdés g) pontjában,
+az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet módosítása tekintetében az épített környezet
+alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés o) pontjában foglalt felhatalmazás alapján, az
+Alkotmány 35. § (1) bekezdésében foglalt feladatkörében, továbbá az Alkotmány 35. § (2) bekezdésében foglalt eredeti jogalkotó
+hatáskörében, az Alkotmány 35. § (1) bekezdés a) és c) pontjában foglalt feladatkörében a következőket rendeli el:
+1. A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet módosítása
+1. § (1) A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet (a továbbiakban: R.1.) 21. §-a
+helyébe a következő rendelkezés lép:
+„21.§ (1) A fővárosiésmegyeikormányhivatalintegráltügyfélszolgálatot(a továbbiakban:kormányablak)működtet.
+(2) Ügyfélkapu létesítése személyes megjelenés útján a fővárosi és megyei kormányhivatalban működő
+kormányablakban is kezdeményezhető.
+(3) A kormányablak lehetőséget biztosít arra, hogy
+az ügyfél az egészségügyi szolgáltatásra jogosultak nyilvántartásában róla nyilvántartott adatokat megismerje,
+az ingatlan-nyilvántartásból az ingatlanok adatait nem hiteles és elektronikusan hitelesített tulajdoni lap másolat
+lekérdezésével, valamint térképmásolat lekérdezésével külön jogszabályban megállapított igazgatási szolgáltatási díj
+megfizetése ellenében megismerje.”
+(2) Az R.1. 22. §-a helyébe a következő rendelkezés lép:
+„22. § (1) A kormányablakban előterjeszthetőek a 2. melléklet 1. pontjában meghatározott kérelmek.
+(2) A kormányablak az (1) bekezdés szerint előterjeszthető kérelmekkel összefüggő ügyekben tájékoztatja az ügyfelet
+az eljárás menetéről, valamint az eljárássalkapcsolatosjogairól és kötelezettségeiről. A kormányablak segítséget nyújt
+az ügyfélnek a kérelem kitöltésében.”
+(3) Az R.1. 23.§-a helyébe a következő rendelkezés lép:
+„23. § (1) A kormányablak a 2. melléklet 2. pontjában meghatározott ügyekben tájékoztatást nyújt az ügyfélnek az
+eljárás menetéről, valamint az eljárással kapcsolatos ügyféli jogokról és kötelezettségekről.
+(2) A kormányhivatal az ügyfelek számára az ügyintézéshez internetes kapcsolati lehetőséget, szakmai és informatikai
+segítséget nyújt az e rendelet 2. mellékletének 3. pontjában meghatározott ügyekben. ”
+(4) Az R.1. 29. §-a következő (10)–(11) bekezdéssel egészül ki:
+„(10) A központi államigazgatási szervek által a szakigazgatási szervvé váló költségvetési szervre vonatkozóan kötött,
+különösen az ingatlanok bérletére, üzemeltetésére vonatkozó olyan szerződés tekintetében, amelynek jogosultja
+
+(a szolgáltatás igénybe vevője) a megszűnő költségvetési szerv, a központi államigazgatási szerv jogutódjának
+– amennyiben a szakigazgatási szervre vonatkozó jogszabály másként nem rendelkezik – a fővárosi és megyei
+kormányhivatal tekintendő.
+(11) A megszűnő költségvetési szerv által a központi államigazgatási szervre, illetve az általa is kezelt alapra
+vonatkozóankötött szerződéstekintetében, amelynekjogosultjaa központiállamigazgatásiszerv vagy az általakezelt
+alap, a megszűnő költségvetési szerv jogutódjának a központi államigazgatási szerv tekintendő, ha a szakigazgatási
+szervre vonatkozó jogszabály másképp nem rendelkezik.”
+(5) Az R.1. 2. melléklete helyébe az 1. melléklet lép.
+2. A mezőgazdasági őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendelet módosítása
+2. § (1) A mezőgazdasági őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendelet (a továbbiakban: R.2.) 5. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az igazolvány elvesztését, megsemmisülését az igazolványt kiadó kerületi hivatalhoz, vagy a kormányablakhoz
+haladéktalanul be kell jelenteni. A talált igazolványt a kerületi hivatalhoz, vagy a kormányablakhoz kell eljuttatni.”
+(2) Az R.2. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az igazolvány adataiban bekövetkezett változásokat tizenöt napon belül be kell jelenteni az igazolványt kiadó
+kerületi hivatalhoz, vagy a kormányablakhoz.”
+3. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló
+217/1997. (XII. 1.) Korm. rendelet módosítása
+3. § (1) A kötelezőegészségbiztosításellátásairólszóló1997. éviLXXXIII. törvényvégrehajtásárólszóló217/1997.(XII. 1.) Korm.
+rendelet (a továbbiakban: R.3.) 31/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A biztosított a méltányossági kérelmet a foglalkoztatójának székhelye szerint illetékes egészségbiztosítási
+szakigazgatási szervhez, vagy a kormányablakhoz nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez
+csatolni kell az orvosi igazolást és javaslatot, valamint az orvosi szakvéleményt a keresőképtelenség várható
+időtartamáról.”
+(2) Az R.3. 31/G. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 31/F. § szerinti segély iránti kérelmet a biztosított a lakóhelye szerint illetékes egészségbiztosítási szakigazgatási
+szervnél, vagy a kormányablaknál nyújthatja be. A kérelemnek tartalmaznia kell a biztosított TAJ-át. A kérelemhez
+csatolni kell a biztosított egészségi állapotára, kezelésére vonatkozó és a kérelemmel összefüggő egészségügyi
+dokumentációt, továbbá a biztosított nyilatkozatát a saját és a vele közös háztartásban élők által – a kérelem
+benyújtását megelőző három hónapban – megszerzett jövedelemről.”
+4. A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás
+folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet módosítása
+4. § A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának
+szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A fogyatékossági támogatás iránti kérelmet a 2. számú melléklet szerinti adattartalmú, a Magyar Államkincstár
+által rendszeresített nyomtatványon vagy elektronikus űrlapon kell előterjeszteni a Magyar Államkincstár kérelmező
+lakóhelye, tartózkodási helye szerint illetékes területi szervénél (a továbbiakban: Igazgatóság) vagy a
+kormányablaknál.”
+5. A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt
+támogatásukról szóló 326/2001. (XII. 30.) Korm. rendelet módosítása
+5. § A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról
+szóló 326/2001. (XII. 30.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A családi gazdaság nyilvántartásba vételét a családi gazdálkodó a gazdálkodó család tagjai közös kérelmének
+benyújtásával a Mezőgazdasági Szakigazgatási Hivatal által az 1. melléklet szerinti adattartalommal rendszeresített és
+
+a Mezőgazdasági Szakigazgatási Hivatal honlapján közzétett formanyomtatványon kérheti a Földművelésügyi
+Igazgatóságtól, vagy a Kormányablaktól.”
+6. Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet módosítása
+6. § Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 29. § (3) bekezdése helyébe a
+következő rendelkezés lép:
+„(3) A (2) bekezdés szerinti adatoknak az építésfelügyeleti hatósághoz, vagy a kormányablakhoz történő
+bejelentésével egyidejűleg az építtető az építés helye szerint illetékes Nemzeti Adó- és Vámhivatalnak bejelenti az
+építési tevékenységre vonatkozó teljes kivitelezési értéket (szerződéses érték), az építés helyszínének címét és
+helyrajzi számát.”
+Záró rendelkezések
+7. § Ez a kormányrendelet 2011. október 15-én lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 212/2011. (X. 14.) Korm. rendelethez
+„2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez
+A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében a 22–23. §-ban meghatározott
+ügykörök
+1. A kormányablakban is előterjeszthetők a következő kérelmek, és megtehetők a következő bejelentések:
+1.1. a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII.
+törvény 17. § (9) bekezdése szerinti kártalanítás,
+1.2. önkormányzati hatáskörbe tartozó szabálysértési ügyekben a határozat végrehajtásának mellőzésére irányuló
+méltányossági kérelem,
+1.3. az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó
+nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem,
+1.4. kivételes nyugellátás-emelés és egyszeri segély iránti kérelem nyomtatvány kiadása, átvétele és továbbítása,
+1.5. a nyugdíjbiztosítási igazgatóságnál nyilvántartott adatokba a társadalombiztosítási nyugellátásról szóló 1997. évi
+LXXXI. törvény 96. § (7) bekezdése alapján történő „betekintési jog” iránti kérelem nyomtatvány kiadása átvétele,
+továbbítása,
+1.6. a nyugdíjbiztosítási adatszolgáltatási kötelezettségek teljesítéséről szóló igazolások kiadása iránt a
+felszámoló/végelszámoló által benyújtott kérelmek átvétele, továbbítása,
+1.7. a nyugdíjfolyósításhoz kapcsolódó bejelentési kötelezettségek (pl.: lakcím-, számlaszám változás, jogosultsági
+nyilatkozatok, folyósításhoz kapcsolódó igazolások kérése) teljesítése, továbbá nyomtatvány kiadása, átvétele,
+1.8. TAJ kártya igénylés befogadása,
+1.9. Európai Egészségbiztosítási kártya igénylés befogadása,
+1.10. a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 22. §-a szerinti utazási költségtérítés
+igénylése,
+1.11. a táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj iránti méltányossági kérelmek előterjesztése,
+1.12. méltányosságból – az Egészségbiztosítási Alap terhére – adható egyszeri segély iránti kérelmek átvétele,
+1.13. egészségügyi kártevőirtó tevékenység engedélyezése,
+1.14. családi gazdaság nyilvántartásba vétele iránti kérelem benyújtása,
+1.15. családi gazdaság nyilvántartásba vételének törlése iránti kérelem benyújtása,
+1.16. őstermelői igazolvány kiadása iránti kérelem benyújtása,
+1.17. őstermelői igazolvány elvesztésének, megsemmisülésének bejelentése,
+
+1.18. őstermelői igazolvány adattartalmában történő változás bejelentése,
+1.19. bejelentés parlagfű fertőzött ingatlanról,
+1.20. fogyasztóvédelmi panaszok, közérdekű bejelentések felvétele,
+1.21. természetes fürdővíz fürdési célú engedélyezése,
+1.22. természetes fürdőhely kijelölési eljárás,
+1.23. gyermektáboroztatás helyének és időpontjának, valamint a táborozásban résztvevők személyének bejelentése,
+1.24. vándortábor útvonalának több népegészségügyi szolgálat területi illetékességét érintő bejelentése,
+1.25. veszélyes anyaggal vagy veszélyes készítménnyel folytatott tevékenység bejelentése,
+1.26. bejelentés megtétele, továbbítása a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes
+eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet alapján a veszélyes
+anyagok és keverékek felhasználásáról, illetve annak változásáról,
+1.27. műemlékre kiterjedő, a Magyar Államot megillető elővásárlási jognyilatkozat iránti kérelmek és mellékleteik
+átvétele, továbbítása,
+1.28. polgári felhasználású ipari robbanóanyagok behozatali, kiviteli és reexport engedélykérelmek előterjesztése,
+1.29. biztonsági papírok kiviteli, behozatali, reexport engedélykérelmének befogadása,
+1.30. utazásszervezői- és közvetítői tevékenységgel kapcsolatos kérelmek befogadása,
+1.31. egyes tűzijátékokra és más polgári célú pirotechnikai eszközökre behozatali, kiviteli és reexport engedélykérelmek
+befogadása,
+1.32. illékony szerves vegyületet tartalmazó egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek
+gyártására és forgalomba hozatalára vonatkozó kérelmek befogadása,
+1.33. gyermekgondozási segély igénylése,
+1.34. anyasági támogatás igénylése,
+1.35. családi pótlék igénylése,
+1.36. gyermeknevelési támogatás igénylése,
+1.37. fogyatékossági támogatás iránti kérelem-nyomtatványok kiadása, kérelmek átvétele, továbbítása, lakcím/
+számlaszám/változás bejelentés, utalásváltozás lakcímről számlaszámra, eljárás megszüntetéshez dokumentumok
+átvétele,
+1.38. építőipari kivitelezési tevékenység megkezdésének és az adatok változásának bejelentése, előzetes bejelentés,
+utólagos bejelentés, bejelentő lapok, és mellékleteik átvétele és továbbítása.
+2. A kormányablak tájékoztatást nyújt az ügyfélnek az eljárás menetéről, valamint az eljárással kapcsolatos ügyféli
+jogokról és kötelezettségekről a következő ügyekben:
+2.1. a Magyar igazolványok, Magyar hozzátartozói igazolványok által biztosított diákkedvezmények bejegyzésére,
+visszavonására irányuló eljárás,
+2.2. a Magyar igazolványok, Magyar hozzátartozói igazolványok által biztosított pedagógus és oktatói kedvezmények
+bejegyzésére, visszavonására irányuló eljárás,
+2.3. a Magyar igazolvány és Magyar hozzátartozói igazolvány kiadásával összefüggő eljárás,
+2.4. gyermekgondozási díj igénylésével kapcsolatos eljárás,
+2.5. terhességi-gyermekágyi segély igénylésével kapcsolatos eljárás,
+2.6. a bemutatott külföldi okiratok elfogadhatóságának elbírálása, amennyiben nem magyar állampolgár kíván
+Magyarországon házasságot kötni, vagy bejegyzett élettársi kapcsolatot létesíteni,
+2.7. Magyarországon élő magyar állampolgár, hontalan, illetőleg a menekültként elismert személy külföldön történő
+házasságkötéséhez, bejegyzett élettársi kapcsolat létesítéséhez szükséges tanúsítvány kiadása.
+3.
+3.1. A kormányablak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény
+169. § (1) bekezdés d) pontja szerint az ügyfelek azonosítását követően egyedi ügyük intézéséhez internetes
+kapcsolati lehetőséget, szakmai és informatikai segítséget nyújt
+a) egyéni vállalkozói tevékenység elektronikus bejelentéséhez,
+b) egyéni vállalkozói tevékenység adatváltozásának elektronikus bejelentéséhez,
+c) egyéni vállalkozói tevékenység szünetelésének és szünetelés utáni újrakezdésének elektronikus bejelentéséhez,
+d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentéséhez.
+
+3.2. A kormányablaktájékoztatástnyújt azegyéni vállalkozástalapítanikívánótermészetesszemélyeknek,ésazegyéni
+vállalkozóknak az egyéni vállalkozás működési szabályairól, képesítéshez kötött gazdasági tevékenység esetén a
+jogszabályokban meghatározott képesítési követelményekről, bejelentéshez vagy hatósági engedélyhez kötött
+gazdasági tevékenység esetén – ide nem értve az önkormányzati rendeletet – a szükséges bejelentésekről, hatósági
+engedélyekről és az engedélyező, továbbá bejelentést fogadó hatóságok elérhetőségéről.
+3.3. A kormányablak betekintési lehetőséget biztosít az Országos Cégnyilvántartási és Céginformációs Rendszer
+cégadatbázisába.”
