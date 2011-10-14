@@ -2,12 +2,13 @@
 
 a) a Dokumentációs Központtal,
 
-b) a külterületen lévő nyomvonalas létesítmények műszaki nyilvántartását vezető szervvel, valamint
+b)[^21]
 
 c) a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal,
 
-d)[^17] az Országos Területrendezési Tervben nem szereplő országos jelentőségű elem beillesztésére irányuló eljárás esetén az AH-val.
+d)[^22]
 
 (2) Az illetékes állami főépítész gondoskodik határozatának a Kormány általános hatáskörű területi államigazgatási szervének internetes honlapján hirdetményben történő megjelenéséről.
 
-[^17]: Az 5. § (1) bekezdés d) pontját a 249/2009. (XI. 13.) Korm. rendelet 5. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^21]: Az. 5. § (1) bekezdés b) pontját a 197/2011. (IX. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^22]: Az 5. § (1) bekezdés d) pontját a 249/2009. (XI. 13.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 197/2011. (IX. 29.) Korm. rendelet 6. §-a.

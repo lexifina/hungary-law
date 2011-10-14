@@ -1,4 +1,4 @@
-## 7. §[^19] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 4. §-ával megállapított 1. § (1) bekezdés e) pontját, 3. § (4) bekezdés d) pont da) alpontját, 4. § (3) bekezdését, valamint 5. § (1) bekezdés d) pontját az Mkr. hatálybalépését követően[^20] indult vagy megismételt eljárásokban kell alkalmazni.
+## 7. §[^24] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 4. §-ával megállapított 1. § (1) bekezdés e) pontját, 3. § (4) bekezdés d) pont da) alpontját, 4. § (3) bekezdését, valamint 5. § (1) bekezdés d) pontját az Mkr. hatálybalépését követően[^25] indult vagy megismételt eljárásokban kell alkalmazni.
 
 1. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez
 
@@ -32,23 +32,25 @@ a) A kérelemben szereplő javaslatok területrendezési szempontú elemzése so
 
 – az érintett települések rendezésére, térbeli fejlődési lehetőségeikre.
 
-b) A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
+b)[^26] A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
 
 – a levegőre (levegőminőség, porszennyezés, zaj- és rezgésszint);
 
-– a talaj minőségére, a víz- és a szélerózióra, valamint a csúszásveszélyre;
+– a talaj minőségére, a víz- és a szélerózióra, valamint a földtani veszélyforrásokra;
 
 – a hulladékgazdálkodás helyzetére;
 
 – a termőföld mennyiségére;
 
-– a földtani és ásványvagyonra;
+– a földtani veszélyforrásra és ásványvagyonra;
 
 – a vízre (árvíz és belvíz, felszíni és felszín alatti vizek mennyisége és minősége);
 
-– az élővilágra (védett természeti területek, biológiailag aktív felületek aránya, ökológiai hálózat szerkezete és működése, biodiverzitás);
+– az élővilágra (védett természeti területek, Natura 2000 területek, biológiailag aktív felületek aránya, ökológiai hálózat szerkezete és működése, biodiverzitás);
 
-– az erdőre (őshonos fafajú és/vagy védelmi rendeltetésű erdőtársulások, azok termőhelyének védelme);
+– az élettelen természeti értékekre (földtani feltárásokra, barlangokra, felszínformákra, forrásokra, víznyelőkre);
+
+– az erdőre (erdők rendeltetése, természetessége, károsító hatások);
 
 – a tájra (tájszerkezet, tájjelleg változása, tájhasználati érték növelő vagy csökkentő hatás);
 
@@ -88,5 +90,6 @@ d) A kérelemben szereplő javaslatok gazdasági szempontú elemzése során viz
 
 e) A kérelem rajzi melléklete(i) a vonatkozó területrendezési terv(ek) hitelesített másolatának, illetőleg a digitális adatbázisának felhasználásával készítendő(k) el.
 
-[^19]: A 7. § a 228/2010. (VIII. 13.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^20]: A hatálybalépés napja: 2010. augusztus 28.
+[^24]: A 7. § a 228/2010. (VIII. 13.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^25]: A hatálybalépés napja: 2010. augusztus 28.
+[^26]: Az 1. számú melléklet II. b) pontja a 197/2011. (IX. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
