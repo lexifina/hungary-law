@@ -1,5 +1,0 @@
-## 16. § A cukorrépa-termelők 2011. évi nemzeti kiegészítő támogatásáról szóló 40/2011. (V. 26.) VM rendelet 3. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(2) A támogatás forrása a Folyó kiadások és jövedelemtámogatások 10032000-01220191-51200002 számú, Vidékfejlesztési Minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámla. E jogcím finanszírozására a 2011. évben legfeljebb 1980 millió forint használható fel, a rendelkezésre álló keret pontos összegét a miniszter 2011. október 15-éig közleményben határozza meg. A keret túligénylése esetén a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) arányos visszaosztást alkalmaz.
-
-## (3) A támogatás mértéke a rendelkezésre álló forrásra tekintettel cukorrépa-tonnánként legfeljebb kilenc euró negyvenkilenc centnek megfelelő forintösszeg. A támogatási összeg forintra történő átszámítása a közös agrárpolitika finanszírozásáról szóló 2005. június 21-i 1290/2005/EK tanácsi rendelet 45. cikk (2) bekezdése szerint az Európai Központi Bank által 2010. október 1-jét megelőzően megállapított utolsó devizaárfolyam alapján történik.”
