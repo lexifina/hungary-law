@@ -1,1 +1,0 @@
-A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
