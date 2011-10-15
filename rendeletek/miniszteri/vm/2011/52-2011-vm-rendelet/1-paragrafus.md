@@ -13,3 +13,7 @@
 (5) A IV. Fejezetben megfogalmazott szabályokat kell alkalmazni a fejezeti kezelésű előirányzatokból pályázati úton nyújtott támogatásokra.
 
 (6) Az V. Fejezetben megfogalmazott szabályokat kell alkalmazni az egyes fejezeti kezelésű előirányzatokból egyedi döntés alapján, társadalmi- és egyéb szervezeteknek, érdekképviseleteknek nyújtott támogatások kezelésével, felhasználásával, elszámolásával, ellenőrzésével kapcsolatosan.
+
+(7)[^2] A géntechnológiával módosított szervezettel szennyezett szaporítóanyag felhasználása miatt kárt szenvedett termelők kártalanítása előirányzat felhasználása során az e rendeletben foglaltakat a géntechnológiával módosított szervezettel szennyezett szaporítóanyag felhasználása miatt kárt szenvedett termelők kártalanítása előirányzat felhasználásáról szóló 95/2011. (X. 14.) VM rendeletben foglalt eltéréssel kell alkalmazni.
+
+[^2]: Az 1. § (7) bekezdését a 95/2011. (X. 14.) VM rendelet 8. § (2) bekezdése iktatta be.
