@@ -208,4 +208,8 @@
 
 | 102. Vermes Miklós Országos Fizikus Tehetségápoló és Kutató Alapítvány | Nemzetközi Fizikaverseny támogatása | 500 000 | X. fejezet 15.4.3 Nemzetpolitikai tevékenység támogatása |
 
+| 103. Közép- és Kelet-Európai Történelem és Társadalom Kutatásért Közalapítvány | működési költségek támogatása | 15 000 000 | X. fejezet 15.2.38 2011-es soros elnökséggel kapcsolatos kiadások finanszírozása |
+
+| 104. Holokauszt Dokumentációs Központ és Emlékgyűjtemény Közalapítvány | kutatási tevékenység támogatása | 50 000 000 | X fejezet 15.3.10 Civil és non-profit szervezetek támogatása |
+
 2. melléklet a 49/2011. (III. 30.) Korm. rendelethez
