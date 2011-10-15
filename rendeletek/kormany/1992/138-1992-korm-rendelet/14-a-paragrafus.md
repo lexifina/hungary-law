@@ -6,7 +6,7 @@
 
 ## 14/A. §[^88]
 
-(1)[^89] A pedagógus-munkakörben foglalkoztatott közalkalmazottat a Kjt. 66. §-ának (2) bekezdése alapján az illetménynövekedés akkor illeti meg, ha a besorolása alapjául szolgáló iskolai végzettsége és szakképzettsége mellett – a kinevezésében feltüntetett – további szakképzettségét a kötelező óra legalább tíz százalékban hasznosítja. Ha a számítás során az egészszámhoz kapcsolódó töredék szám a két tizedet nem haladja meg, lefelé, egyéb esetben – kéthavi tanítási időkeretre vetítve – a kerekítés általános szabályai szerint kell a tíz százalékot megállapítani.
+(1)[^89] A pedagógus-munkakörben foglalkoztatott közalkalmazottat a Kjt. 66. §-ának (2) bekezdése alapján az illetménynövekedés akkor illeti meg, ha a besorolása alapjául szolgáló iskolai végzettsége és szakképzettsége mellett – a kinevezésében feltüntetett – további szakképzettségét a kötelező óra legalább tíz százalékban hasznosítja. Ha a számítás során az egészszámhoz kapcsolódó töredék szám a két tizedet nem haladja meg, lefelé, egyéb esetben a kerekítés általános szabályai szerint kell a tíz százalékot megállapítani.
 
 (2)[^90] A kinevezésben feltüntetett további szakképesítés hasznosításának mértékétől függetlenül illetménynövekedés illeti meg a pedagógust
 
@@ -39,7 +39,7 @@ i) a gyógytestnevelési feladatok ellátásához a testnevelőtanári szakképz
 [^86]: A 14. § második mondatát a 277/1997. ( XII.22.) Korm. rendelet 25. §-ának (1) bekezdése iktatta be.
 [^87]: A 14/A. §-t megelőző jogszabályi hivatkozást a 3/1997. (I. 15.) Korm. rendelet 5. §-a iktatta be, szövege a 17/2010. (II. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^88]: A 14/A. §-t a 3/1997. (I. 15.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^89]: A 14/A. § új (1) bekezdését a 211/2007. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (1)–(2) bekezdés számozását (2)–(3) bekezdésre változtatva.
+[^89]: A 14/A. § új (1) bekezdését a 211/2007. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (1)–(2) bekezdés számozását (2)–(3) bekezdésre változtatva. A 14/A. § (1) bekezdése a 213/2011. (X. 14.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^90]: A 14/A. § eredeti (1) bekezdésének számozását (2) bekezdésre változtatta a 211/2007. (VIII. 7.) Korm. rendelet 5. § (2) bekezdése.
 [^91]: A 14/A. § (1) bekezdésének a) pontja a 277/1997. ( XII.22.) Korm. rendelet 25. §-ának (2) bekezdésével megállapított szöveg.
 [^92]: A 14/A. § (1) bekezdésének g) pontja a 98/2000. (VI. 22.) Korm. rendelet 3. §-ával megállapított szöveg.

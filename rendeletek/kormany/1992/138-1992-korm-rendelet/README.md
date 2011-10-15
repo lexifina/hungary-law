@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-138-20-
 | 2010-02-10 | 1992-138-20-22.35 | 17/2010. (II. 5.) Korm. rendelet |
 | 2010-05-02 | 1992-138-20-22.36 | 150/2010. (IV. 30.) Korm. rendelet |
 | 2011-07-26 | 1992-138-20-22.37 | 125/2011. (VII. 18. ) Korm. rendelet |
+| 2011-10-15 | 1992-138-20-22.38 | 213/2011. (X. 14.) Korm. rendelet |
