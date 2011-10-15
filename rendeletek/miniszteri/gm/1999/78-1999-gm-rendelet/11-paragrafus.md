@@ -1,5 +1,9 @@
-## 11. § Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+## 11. §[^3] Ez a rendelet
 
-a) a Tanács 92/75/EGK a háztartási készülékek energia- és más erőforrás fogyasztásának címkézéssel és szabványos terméktájékoztatóval történő feltüntetéséről szóló irányelvével,
+a) az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek, továbbá
 
-b) a Bizottság 95/13/EK irányelvével, a Tanács 92/75/EGK irányelvének végrehajtásáról, tekintettel a háztartási elektromos szárítógépek villamosenergiafogyasztásának címkén történő jelölésére.
+b) a 92/75/EGK tanácsi irányelvnek a háztartási elektromos szárítógépek energiafogyasztásának címkézése tekintetében való végrehajtásáról szóló, 1995. május 23-i 95/13/EK bizottsági irányelvnek
+
+való megfelelést szolgálja.
+
+[^3]: A 11. § a 40/2011. (X. 14.) NGM rendelet 1. §-ával megállapított szöveg.
