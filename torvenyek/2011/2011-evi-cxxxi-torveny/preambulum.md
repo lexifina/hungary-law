@@ -46,14 +46,6 @@ A bírósági eljárások ésszerű időn belül való befejezésének biztosít
 
 „137/A. § Ha annak a bírónak szűnik meg a szolgálati viszonya, aki a rá irányadó öregségi nyugdíjkorhatárt betöltötte vagy 2012. december 31-ig tölti be, az így megüresedő bírói álláshelyre 2012. január 1-jéig pályázat nem írható ki.”
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi CXXXI. törvényhez
 
 A betöltendő bírói álláshelyek területi megoszlása
