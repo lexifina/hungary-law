@@ -8,7 +8,11 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | I. VESZÉLYESSÉGI OSZTÁLY |
 
-| 02 | Erdőgazdálkodás Kivéve: 02.3 Vadon termő egyéb erdei termék gyűjtése |
+| 02 | Erdőgazdálkodás |
+
+|  | Kivéve: |
+
+|  | 02.3 Vadon termő egyéb erdei termék gyűjtése |
 
 | 05 | Szénbányászat |
 
@@ -30,13 +34,13 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 19 | Kokszgyártás, kőolaj-feldolgozás |
 
-| 20 | Vegyi anyag, -termék gyártása |
+| 20 | Vegyi anyag, termék gyártása |
 
 | 21 | Gyógyszergyártás |
 
 | 22 | Gumi-, műanyag termék gyártása |
 
-| 23 | Nemfém ásványi termék gyártása |
+| 23 | Nem fém ásványi termék gyártása |
 
 | 24 | Fémalapanyag gyártása |
 
@@ -48,7 +52,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 25.5 | Fémalakítás, porkohászat |
 
-| 28 | Gép, gépi berendezés gyártása Kivéve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
+| 28 | Gép, gépi berendezés gyártása Kivlve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
 
 | 30.11 | Hajógyártás |
 
@@ -68,7 +72,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 42 | Egyéb építmény építése |
 
-| 43 | Speciális szaképítés |
+| 43 | Speciális szakképítés |
 
 | 49 | Szárazföldi, csővezetékes szállítás |
 
@@ -114,7 +118,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 29 | Közúti jármű gyártása |
 
-| 30 | Egyéb jármű gyártása Kivéve: 30.11 Hajógyártás 30.2 Vasúti, kötöttpályás jármű gyártása |
+| 30 | Egyéb jármű gyártása Kivéve: 30.11 Hajógyártás 30.2 Vasúti, kötött pályás jármű gyártása |
 
 | 32 | Egyéb feldolgozóipari tevékenység |
 
@@ -158,7 +162,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 95 | Számítógép, személyi-, háztartási cikk javítása |
 
-| 96 | Egyéb személyi szolgáltatás |
+| 96.03 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
 | 97 | Háztartási alkalmazottat foglalkoztató magánháztartás |
 
@@ -176,7 +180,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 56 | Vendéglátás |
 
-| 62 | Információ- technológiai szolgáltatás |
+| 62 | Információ-technológiai szolgáltatás |
 
 | 63 | Információs szolgáltatás |
 
@@ -214,6 +218,8 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 88 | Szociális ellátás bentlakás nélkül |
 
+| 90 | Alkotó-, művészeti, szórakoztató tevékenység |
+
 | 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
 
 | 92 | Szerencsejáték, fogadás |
@@ -222,7 +228,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 94 | Érdekképviselet |
 
-| 96 | Egyéb személyi szolgáltatás |
+| 96 | Egyéb személyi szolgáltatás (kivéve: temetkezés, temetkezést kiegészítő szolgáltatás) |
 
 2. A munkáltatókat a veszélyességi osztályon belül az általuk foglalkoztatott munkavállalók – beleértve a munkaerő-kölcsönzés keretében átengedett munkavállalókat is – állományi létszáma alapján kell csoportosítani:
 
@@ -262,9 +268,9 @@ III/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
 
 III/b) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
 
-III/c) egy fő középfokú munkavédelmi szakképesítésű napi egy órára napi négy órára,
+III/c) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
 
-III/d) egy fő középfokú munkavédelmi szakképesítésű napi egy órára napi négy órára,
+III/d) egy fő középfokú munkavédelmi szakképesítésű napi négy órára,
 
 III/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel.
 
@@ -286,4 +292,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^27]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^27]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése szerint módosított szöveg.

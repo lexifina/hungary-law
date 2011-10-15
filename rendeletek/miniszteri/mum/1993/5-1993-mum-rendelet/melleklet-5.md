@@ -58,4 +58,4 @@
 
 5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^30]
 
-[^30]: A Vhr. 5. számú melléklete a 28/2004. (XII. 20.) FMM rendelet 2. §-ának (2) bekezdésével megállapított és a Magyar Közlöny 2004. évi 205. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 27/2010. (XII. 31.) NGM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^30]: A Vhr. 5. számú melléklete a 41/2011. (X. 14.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
