@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-88-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2004-02-01 | 2003-88-20-0L.1 | 88/2003. (XII. 16.) GKM rendelet |
+| 2011-10-15 | 2003-88-20-0L.2 | 40/2011. (X. 14.) NGM rendelet |
