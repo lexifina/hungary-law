@@ -12,6 +12,8 @@
 
 (6) A miniszter döntését a 2. § (2) bekezdésében meghatározottak, illetve a pályázati felhívásban megjelölt kiemelt támogatási célok (témakörök) figyelembevételével hozza meg. A döntést indokolni kell.
 
-(7) A pályázat eredményéről a pályázatkezelő – a pályázati felhívásban megjelölt határidőben – írásban értesíti a pályázókat. Ezzel egyidejűleg a pályázat eredményét az SZMM a Hivatalos Értesítőben, továbbá a honlapján, a KHEM és az NFGM a hivatalos lapjában és a honlapján, valamint az OMMF a honlapján teszi közzé.
+(7)[^10] A pályázat eredményéről a pályázatkezelő – a pályázati felhívásban megjelölt határidőben – írásban értesíti a pályázókat. Ezzel egyidejűleg a pályázat eredményét a foglalkoztatáspolitikáért felelős miniszter a Magyar Közlönyben, valamint a hivatalos lapjában, továbbá az OMMF a honlapján teszi közzé.
 
 (8) A támogatás nyújtásának feltétele a szerződésnek a miniszteri döntésről szóló értesítés pályázó általi kézhezvételétől számított, legfeljebb 90 munkanapon belüli megkötése. E határidőig a támogatási döntésre az ajánlati kötöttségre vonatkozó rendelkezések az irányadók. Amennyiben a pályázónak felróható okból a szerződés megkötésére e határidő a lejártától számított 15 munkanapon belül nem kerül sor, a támogatási döntés hatályát veszti.
+
+[^10]: A 9. § (7) bekezdése a 41/2011. (X. 14.) NGM rendelet 6. §-ával megállapított szöveg.

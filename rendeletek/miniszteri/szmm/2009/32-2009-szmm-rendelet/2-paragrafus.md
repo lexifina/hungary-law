@@ -1,4 +1,4 @@
-## 1. § E rendelet alkalmazásában pénzbírságnak minősül az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: OMMF), valamint a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) által a hatósági tevékenysége során a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 82. §-a alapján kiszabott bírság (a továbbiakban: pénzbírság).
+## 1. §[^1] E rendelet alkalmazásában pénzbírságnak minősül az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: OMMF), valamint a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) részére befizetett, a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 82. §-a alapján kiszabott bírság (a továbbiakban: pénzbírság).
 
 2. § (1) A befizetett pénzbírságok összegének fele nyilvános pályáztatás útján az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására, valamint fennmaradó része a közcélú állami munkavédelmi információs rendszer (a továbbiakban: MIR) folyamatos működtetésére használható fel.
 
@@ -25,3 +25,5 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 (9) Az 1998/2006/EK bizottsági rendelet 3. cikk 1. pontja szerinti kötelezettséget a támogatást nyújtó köteles teljesíteni.
 
 (10) A támogatás nyújtójának kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy a csekély összegű támogatási jogcímen nyújtott támogatáshoz kapcsolódó minden iratot a támogatás odaítélésétől számított tíz évig meg kell őriznie és a támogatást nyújtó ilyen irányú felhívása esetén köteles azokat bemutatni.
+
+[^1]: Az 1. § a 41/2011. (X. 14.) NGM rendelet 1. §-ával megállapított szöveg.
