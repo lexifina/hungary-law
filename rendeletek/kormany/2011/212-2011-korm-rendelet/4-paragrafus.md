@@ -1,0 +1,3 @@
+## „(1) A 31/F. § szerinti segély iránti kérelmet a biztosított a lakóhelye szerint illetékes egészségbiztosítási szakigazgatási szervnél, vagy a kormányablaknál nyújthatja be. A kérelemnek tartalmaznia kell a biztosított TAJ-át. A kérelemhez csatolni kell a biztosított egészségi állapotára, kezelésére vonatkozó és a kérelemmel összefüggő egészségügyi dokumentációt, továbbá a biztosított nyilatkozatát a saját és a vele közös háztartásban élők által – a kérelem benyújtását megelőző három hónapban – megszerzett jövedelemről.”
+
+## 4. A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet módosítása
