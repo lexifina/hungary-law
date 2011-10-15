@@ -1,4 +1,4 @@
-## 4–7. §[^15]
+## 4–7. §[^17]
 
 ## A pedagógusok fővárosi, megyei állandó helyettesítési rendszere
 
@@ -10,4 +10,4 @@
 
 (4) Az állandó helyettesítési rendszerhez a fővárosi, megyei önkormányzattal kötött megállapodás alapján csatlakozhatnak a nem helyi önkormányzati intézményfenntartók is.
 
-[^15]: A 4–7. §-t a 351/2010. (XII. 30.) Korm. rendelet 37. § a) pontja hatályon kívül helyezte.
+[^17]: A 4–7. §-t a 351/2010. (XII. 30.) Korm. rendelet 37. § a) pontja hatályon kívül helyezte.
