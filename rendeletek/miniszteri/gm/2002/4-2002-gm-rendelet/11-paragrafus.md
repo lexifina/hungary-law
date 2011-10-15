@@ -4,8 +4,12 @@
 
 11. § (1) Ez a rendelet 2003. január 1-jén lép hatályba.
 
-(2) A rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+(2)[^5] Ez a rendelet
 
-a) a Tanács 92/75/EGK, a háztartási készülékek energia- és más erőforrás fogyasztását tartalmazó címkézéssel és szabványos terméktájékoztatással kapcsolatos irányelvével;
+a) az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek, továbbá
 
-b) a Bizottság 98/11/EK, a háztartási fényforrások energia címkézésére vonatkozó irányelvével.
+b) a 92/75/EGK tanácsi irányelvnek a háztartási lámpák energiafogyasztásának címkézése tekintetében történő végrehajtásáról szóló, 1998. január 27-i 98/11/EK bizottsági irányelvnek
+
+való megfelelést szolgálja.
+
+[^5]: A 11. § (2) bekezdése a 40/2011. (X. 14.) NGM rendelet 2. §-ával megállapított szöveg.

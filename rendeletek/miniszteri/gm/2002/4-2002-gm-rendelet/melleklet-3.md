@@ -10,7 +10,7 @@
 
 ## 4. A fényforrások átlagos élettartama (1. számú melléklet, IV. adat). Ez az adat elhagyható, ha a katalógus nem tartalmaz a fényforrások élettartamára vonatkozó más adatot.
 
-3. számú melléklet a 4/2002. (II. 15.) GM rendelethez[^5]
+3. számú melléklet a 4/2002. (II. 15.) GM rendelethez[^6]
 
 Energiahatékonysági osztály besorolás
 
@@ -66,4 +66,4 @@ Az energiahatékonysági osztály besorolás így az alábbi táblázat szerint 
 
 | G | EI ≥ 130% |
 
-[^5]: A 3. számú melléklet a 38/2004. (IV. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. számú melléklet a 38/2004. (IV. 6.) GKM rendelet 2. §-ával megállapított szöveg.
