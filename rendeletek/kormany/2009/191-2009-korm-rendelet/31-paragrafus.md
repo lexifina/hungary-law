@@ -1,4 +1,4 @@
-## 30. §[^85] Az építtetőnek a 29. § hatálya alá nem tartozó, de építésügyi hatósági engedély köteles építési tevékenység esetén a tervezett építőipari kivitelezési tevékenység megkezdését és az építési napló megnyitásának napját a kivitelezés megkezdését követő nyolc napon belül 6. melléklet szerinti tartalommal be kell jelentenie az építésfelügyeleti hatóságnak.
+## 30. §[^86] Az építtetőnek a 29. § hatálya alá nem tartozó, de építésügyi hatósági engedély köteles építési tevékenység esetén a tervezett építőipari kivitelezési tevékenység megkezdését és az építési napló megnyitásának napját a kivitelezés megkezdését követő nyolc napon belül 6. melléklet szerinti tartalommal be kell jelentenie az építésfelügyeleti hatóságnak.
 
 ## VII. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Teljesítésigazolás és műszaki átadás-átvétel
 
-31. §[^86] (1) Teljesítésigazolásra kerül sor az építtető és a fővállalkozó kivitelező, vagy a vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a vállalkozó (alvállalkozó) kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet, építési-szerelési munkát a szerződésben foglaltak és jogszabályban előírtak szerint a kivitelezési dokumentációban meghatározottak szerint maradéktalanul elvégezte és ezt az építtetőnek vagy a vállalkozó kivitelezőnek jelenti.
+31. §[^87] (1) Teljesítésigazolásra kerül sor az építtető és a fővállalkozó kivitelező, vagy a vállalkozó kivitelező és az alvállalkozó kivitelező között létrejött szerződés alapján, ha a vállalkozó (alvállalkozó) kivitelező az általa vállalt szerződés tárgya szerinti építési tevékenységet, építési-szerelési munkát a szerződésben foglaltak és jogszabályban előírtak szerint a kivitelezési dokumentációban meghatározottak szerint maradéktalanul elvégezte és ezt az építtetőnek vagy a vállalkozó kivitelezőnek jelenti.
 
 (2) A vállalkozó kivitelező felelős műszaki vezetője a közös helyszíni bejárás során az építési naplóban, jegyzőkönyvben rögzített mennyiségi és minőségi hibák, hiányosságok kijavítását követően az építési műszaki ellenőrnek, vagy a vállalkozó kivitelező felelős műszaki vezetőjének átadja a szerződésben vállalt és elvégzett tevékenységet tartalmazó teljesítési összesítőt.
 
@@ -24,5 +24,5 @@ c) a felelős műszaki vezető a 13. § (3) bekezdés m) pontja szerint meghatá
 
 részére.
 
-[^85]: A 30. § a 182/2010. (V. 14.) Korm. rendelet 7. § 23. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (119) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^86]: A 31. § a 182/2010. (V. 14.) Korm. rendelet 5. § (31) bekezdésével megállapított szöveg.
+[^86]: A 30. § a 182/2010. (V. 14.) Korm. rendelet 7. § 23. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (119) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^87]: A 31. § a 182/2010. (V. 14.) Korm. rendelet 5. § (31) bekezdésével megállapított szöveg.
