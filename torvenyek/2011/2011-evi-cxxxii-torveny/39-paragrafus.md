@@ -1,1 +1,0 @@
-39. § A minősített adatot tartalmazó tananyaghordozók, dokumentációk, könyvtári segédletek minősítése és megismerése a minősített adat védelmére vonatkozó jogszabályok alapján az Egyetem minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint történhet.

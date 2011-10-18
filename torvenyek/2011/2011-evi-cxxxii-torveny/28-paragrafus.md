@@ -1,1 +1,0 @@
-28. § A hallgató a tanulmányi feladatainak ellátása során köteles tartózkodni a politikai tevékenységtől. Az Egyetemen, annak kollégiumában, valamint a gyakorlat teljesítésének helyén politikai szervezet képviselőjeként vagy megbízottjaként politikai véleményt nem nyilváníthat, más személy politikai véleményét nem befolyásolhatja.
