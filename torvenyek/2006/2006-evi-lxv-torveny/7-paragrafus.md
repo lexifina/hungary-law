@@ -1,1 +1,1 @@
-7–12. §
+7. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított 1. § (6) bekezdését, 2. § (2), (5)–(6) bekezdését, 2/A. §-át, 4. § (4) bekezdését az 1. módosító törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

@@ -1,7 +1,7 @@
-4. § (1) Az állami alapító kérelmére, a 2. § szerint megindított megszüntetési eljárást a kérelem benyújtásától számított 15 napon belül kell lefolytatni.
+4. § (1) Az állami alapító kérelmére az 1. § (4) bekezdése, az 1. § (6) bekezdése, valamint a 2. § (1) bekezdése szerint megindított megszüntetési eljárást a kérelem benyújtásától számított 15 napon belül kell lefolytatni.
 
 (2) A bíróság a kérelem beérkezésétől számított 10 napon belül egy ízben hiánypótlást rendelhet el, ez esetben a bíróság a hiánypótlás bírósághoz érkezésének napjától számított 10 napon belül dönt a kérelemről.
 
 (3) Ha a bíróság az (1)–(2) bekezdésben foglalt döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság vezetője a határidő leteltét követően, legkésőbb a határidőt követő munkanapon intézkedik a megszüntetési kérelem elbírálásáról. Ennek során hiánypótlásra történő felhívásnak nincs helye. Ha a kérelem elbírálására ez alapján sem került sor, a törlés a határidő leteltét követő második munkanapon a törvény erejénél fogva – a kérelemben szereplő adatok szerinti tartalommal – megtörténik.
 
-(4)
+(4) Az állami alapító kérelmére az általa alapított alapítvány (közalapítvány), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) 1. § (4) bekezdése, 1. § (6) bekezdése, valamint 2. § (1) bekezdése szerinti megszüntetése esetén az állami alapító felelőssége a megszűnt alapítvány (közalapítvány) vagyonáról e törvényben foglaltak szerint gondoskodni. A megszüntetési eljárás során az eljáró bíróság a megszüntetésre kerülő alapítvány (közalapítvány) vagyonát kizárólag az alapítvány (közalapítvány) utolsó éves beszámolója, közhasznúsági jelentése, valamint az állami alapító nyilatkozata alapján vizsgálhatja. Az állami alapító áll helyt, ha az általa tett nyilatkozatban foglaltak valótlansága miatt az alapítvány (közalapítvány) hitelezőjét kár éri.

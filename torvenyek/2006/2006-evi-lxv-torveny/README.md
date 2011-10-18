@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-65-00-00
 | 2011-01-01 | 2010. évi CLIII. törvény | 2006-65-00-00.7 |
 | 2011-06-18 | 2011. évi LXIV. törvény | 2006-65-00-00.8 |
 | 2011-07-01 | 2011. évi LXVI. törvény | 2006-65-00-00.9 |
+| 2011-10-18 | 2011. évi CXXXII. törvény | 2006-65-00-00.10 |
