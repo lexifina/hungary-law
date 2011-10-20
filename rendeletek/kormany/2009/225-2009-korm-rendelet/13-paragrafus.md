@@ -1,4 +1,4 @@
-## 12/A. §[^2] A központi ügyfélszolgálat jogszabály által meghatározott feladatai ellátása érdekében a 12. § (2) bekezdésében meghatározotton túl további helyi díjazású tarifával hívható hívószámot határozhat meg.
+## 12/A. §[^3] A központi ügyfélszolgálat jogszabály által meghatározott feladatai ellátása érdekében a 12. § (2) bekezdésében meghatározotton túl további helyi díjazású tarifával hívható hívószámot határozhat meg.
 
 ## Személyes adatok kezelésének módja
 
@@ -20,4 +20,4 @@ c) elektronikus irat vagy űrlap küldését kéri.
 
 (6) A központi rendszer szolgáltatásainak igénybevételéről keletkezett adatok személyazonosításra alkalmatlan módon statisztikai célra felhasználhatók.
 
-[^2]: A 12/A. §-t a 87/2010. (III. 26.) Korm. rendelet 10. §-a iktatta be.
+[^3]: A 12/A. §-t a 87/2010. (III. 26.) Korm. rendelet 10. §-a iktatta be.

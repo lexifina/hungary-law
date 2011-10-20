@@ -12,7 +12,7 @@ a) az eljárás további szakaszában a papír alapon történő kapcsolattartá
 
 b) az űrlap elküldésével egyidejűleg annak egy példányának a saját értesítési tárhelyén – amennyiben saját titkosító kulcsát a kulcstárban elhelyezte –, saját titkosító kulccsal titkosítva és időbélyegzéssel ellátva történő elhelyezését;
 
-c)[^1] a döntésnek nem minősülő dokumentumok, iratok értesítési tárhelyére történő megküldését, vagy elegendő számára a 35. § (1) bekezdés c) pontja szerinti értesítés.
+c)[^2] a döntésnek nem minősülő dokumentumok, iratok értesítési tárhelyére történő megküldését, vagy elegendő számára a 35. § (1) bekezdés c) pontja szerinti értesítés.
 
 (6) Ha az elektronikus közszolgáltatást nyújtó szervezet egy űrlapot papír alapon is hozzáférhetővé, kitölthetővé tesz, ebben az esetben is biztosítani kell az aktualizálást és egyezést a kormányzati portálon közzétett példánnyal. A kormányzati portálon közzétett űrlaptól eltérő, a szervezetnél fellelhető példányokat be kell vonni és meg kell semmisíteni. A papír alapú űrlap minden változatából egy-egy példányt a szervezet irattári szabályzatában foglaltak szerint meg kell őrizni.
 
@@ -20,4 +20,4 @@ c)[^1] a döntésnek nem minősülő dokumentumok, iratok értesítési tárhely
 
 (8) Az általános nyomtatványkitöltő valamennyi az (1) bekezdésben megjelölt követelménynek megfelelő, e rendelet hatálybalépése után elfogadott elektronikus űrlapot kezeli.
 
-[^1]: A 6. § (5) bekezdés c) pontja a 78/2010. (III. 25.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^2]: A 6. § (5) bekezdés c) pontja a 78/2010. (III. 25.) Korm. rendelet 25. §-ával megállapított szöveg.

@@ -16,4 +16,6 @@ f) párbeszédre épülő (on-line) elektronikus kapcsolat: kapcsolattartási m�
 
 g) szervezet: jogi személyiséggel rendelkező és jogi személyiséggel nem rendelkező jogképes szervezet, valamint az egyéni vállalkozás;
 
-h) üzemeltető: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – közszolgáltatási szerződés keretében ellátó, a rendszer, mint egész működőképességét biztosító szervezet.
+h)[^1] üzemeltető: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – ellátó szervezet.
+
+[^1]: A 2. § h) pontja a 215/2011. (X. 19.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
