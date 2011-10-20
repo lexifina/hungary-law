@@ -1,6 +1,6 @@
 ## Nemzeti hálózatbiztonsági központ
 
-8. §[^3] (1) A kormány a magyar kritikus információs infrastruktúrák védelme, valamint a központi rendszeren megvalósuló kommunikáció biztonsága, a vírus- és más támadások káros hatásainak korlátozása érdekében nemzetközi együttműködéssel hálózatbiztonsági központot (a továbbiakban: Központ) működtet.
+8. §[^7] (1) A kormány a magyar kritikus információs infrastruktúrák védelme, valamint a központi rendszeren megvalósuló kommunikáció biztonsága, a vírus- és más támadások káros hatásainak korlátozása érdekében nemzetközi együttműködéssel hálózatbiztonsági központot (a továbbiakban: Központ) működtet.
 
 (2) A Központ nemzetközi hálózatbiztonsági, valamint kritikus információs infrastruktúrák védelmére szakosodott szervezetekben tagsággal rendelkező, akkreditált szervezet, mely védi a központi rendszer szolgáltatásait az interneten keresztül érkező támadások ellen. Ezen feladat körében technikai védelmi, megelőző és felvilágosító tevékenységet végez, továbbá képviseli Magyarországot a nemzetközi hálózatbiztonsági és kritikus információs infrastruktúrák védelmére szakosodott együttműködési fórumokon és szervezetekben. Részt vesz az informatikai és a hálózatbiztonságra, valamint a kritikus információs infrastruktúrák védelmére vonatkozó stratégiák és szabályozások előkészítésében.
 
@@ -22,4 +22,4 @@ d) a Külügyminisztérium által Magyarországon és külképviseleti viszonyla
 
 e) a Magyar Köztársaság nemzetközi kötelezettségei alapján működtetett nemzetközi hálózatok.
 
-[^3]: A 8. § a 41. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^7]: A 8. § a 41. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.

@@ -20,4 +20,6 @@ h) szervezet: valamennyi jogi személyiséggel rendelkező és jogi személyisé
 
 i) titkosító kulcspár: a központi rendszerben végzett azonosításról szóló kormányrendeletben meghatározott információvédelmi eszköz;
 
-j) üzemeltető: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – közszolgáltatási szerződés keretében ellátó, a rendszer, mint egész működőképességét biztosító szervezet.
+j)[^1] üzemeltető: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – ellátó szervezet.
+
+[^1]: A 2. § j) pontja a 215/2011. (X. 19.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.

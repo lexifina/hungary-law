@@ -1378,13 +1378,13 @@
 
 ## Az üzemeltetői biztonsági szabályzat visszavont rendelkezése esetén a hálózatgazdának meg kell határozni a hatályvesztés pontos időpontját, és erről minden érintettet tájékoztatni kell. A visszavont szabályokat archiválni kell, dokumentálva az okokat, a visszavonás kezdeményezőjét és jóváhagyóját, valamint idejét.
 
-## 1. számú függelék
+## 1. számú függelék[^21]
 
 ## A dokumentumban használatos (részben EKG-specifikus) alapfogalmak leírása
 
 | Megnevezés | Leírás |
 
-| Hálózatgazda | A közigazgatási informatikáért felelős miniszter, feladatait az infokommunikációért felelős kormánybiztos látja el. |
+| Hálózatgazda | A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter. |
 
 | Üzemeltető | A hálózatgazdával közszolgáltatási szerződéses viszonyban lévő, a hálózat felügyeletéért és rendelkezésre állásáért felelős szervezet. Külön jogszabály alapján a Kopint-Datorg Zrt. |
 
@@ -1400,7 +1400,7 @@
 
 | VPN | Virtuális magánhálózat (Virtual Private Network). Használatával a kapcsolódó felek lényegében úgy kommunikálhatnak, külön titkosítás nélkül a nyilvános hálózatokon, mintha külön bérelt, fizikailag elválasztott magánhálózatot hoztak volna létre. |
 
-4. melléklet a 223/2009. (X. 14.) Korm. rendelethez
+4. melléklet a 223/2009. (X. 14.) Korm. rendelethez[^22]
 
 A központi elektronikus szolgáltató rendszer által nyújtott közszolgáltatások igénybevételének
 
@@ -1414,23 +1414,23 @@ biztonsági feltételei
 
 A központi elektronikus szolgáltató rendszer (a továbbiakban: KR vagy központi rendszer) feladata többek között az elektronikus közszolgáltatásról szóló 2009. évi LX. törvényben meghatározott, a központi rendszer azonosítási szolgáltatásait igénybe véve megvalósított elektronikus kapcsolattartás lehetővé tétele azáltal, hogy
 
-–  a központi rendszert igénybe vevő természetes és jogi személyek (a továbbiakban: felhasználók) által előkészített, kitöltött elektronikus űrlapokból – a központi rendszer elektronikus űrlap formátumára vonatkozó szabályoknak megfelelő – üzenetet állít elő;
+– a központi rendszert igénybe vevő természetes és jogi személyek (a továbbiakban: felhasználók) által előkészített, kitöltött elektronikus űrlapokból – a központi rendszer elektronikus űrlap formátumára vonatkozó szabályoknak megfelelő – üzenetet állít elő;
 
-–  ellenőrzi az elektronikus űrlap formai követelményeknek való megfelelését;
+– ellenőrzi az elektronikus űrlap formai követelményeknek való megfelelését;
 
-–  a formai követelményeknek megfelelő elektronikus beadványokat érkezteti;
+– a formai követelményeknek megfelelő elektronikus beadványokat érkezteti;
 
-–  az érkeztetés tényét és időpontját bizonyító elektronikus dokumentumot – visszaigazolást – elkészíti és a felhasználó részére kézbesíti;
+– az érkeztetés tényét és időpontját bizonyító elektronikus dokumentumot – visszaigazolást – elkészíti és a felhasználó részére kézbesíti;
 
-–  az érkeztetett elektronikus beadványt kézbesíti a címzett elektronikus közszolgáltatást nyújtó vagy abban részt vevő részére olyan eljárással, hogy a szolgáltató a beküldő személyét a jogszabályban meghatározott módon azonosítani tudja;
+– az érkeztetett elektronikus beadványt kézbesíti a címzett elektronikus közszolgáltatást nyújtó vagy abban részt vevő részére olyan eljárással, hogy a szolgáltató a beküldő személyét a jogszabályban meghatározott módon azonosítani tudja;
 
-–  illetve lehetővé teszi a fordított irányú kommunikációt is, ahol biztosítja annak tanúsítását, hogy a címzett átvette-e a neki szóló küldeményt.
+– illetve lehetővé teszi a fordított irányú kommunikációt is, ahol biztosítja annak tanúsítását, hogy a címzett átvette-e a neki szóló küldeményt.
 
 A szolgáltatás nem terjed ki
 
-–  a felhasználó, illetve harmadik személy tulajdonát képező, a szolgáltatás igénybevételéhez a felhasználó által használt számítástechnikai eszközökre és szolgáltatásokra, beleértve az internetszolgáltatást is;
+– a felhasználó, illetve harmadik személy tulajdonát képező, a szolgáltatás igénybevételéhez a felhasználó által használt számítástechnikai eszközökre és szolgáltatásokra, beleértve az internetszolgáltatást is;
 
-–  az elektronikus ügyintézési folyamat – és ezen keresztül a kitöltött elektronikus űrlapok – tartalmi ellenőrzésére, a tartalmi ellenőrzést, érdemi feldolgozást minden esetben a címzett szervezet végzi el.
+– az elektronikus ügyintézési folyamat – és ezen keresztül a kitöltött elektronikus űrlapok – tartalmi ellenőrzésére, a tartalmi ellenőrzést, érdemi feldolgozást minden esetben a címzett szervezet végzi el.
 
 1.1.1.1. Szolgáltatás személyi hatálya
 
@@ -1442,7 +1442,7 @@ A szolgáltatást magyarországi telephelyről nyújtja a központi rendszer mű
 
 1.1.2. Közzététel
 
-Jelen dokumentum a Magyar Közlönyben kerül az elektronikus közszolgáltatás biztonságáról szóló kormányrendelet mellékleteként kihirdetésre, majd a MeH elektronikus úton hozzáférhetővé teszi a http://www.magyarorszag.hu/segitseg internetes címen.
+Jelen dokumentum a Magyar Közlönyben kerül az elektronikus közszolgáltatás biztonságáról szóló kormányrendelet mellékleteként kihirdetésre, majd a működtető elektronikus úton hozzáférhetővé teszi a http://www.magyarorszag.hu/segitseg internetes címen.
 
 1.1.3. Értelmező rendelkezések
 
@@ -1456,13 +1456,13 @@ A központi rendszer által nyújtott szolgáltatásokért jelen dokumentumban m
 
 1.1.4. Kapcsolódó jogszabályok
 
-–  a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.);
+– a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.);
 
-–  a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.);
+– a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.);
 
-–  Az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény (a továbbiakban: Ekszt.) és végrehajtási rendeletei
+– Az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény (a továbbiakban: Ekszt.) és végrehajtási rendeletei
 
-–  A hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló 2009. évi LII. törvény
+– A hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló 2009. évi LII. törvény
 
 1.2. Szolgáltatásban részt vevő felek és kötelezettségeik
 
@@ -1470,13 +1470,13 @@ A központi rendszer által nyújtott szolgáltatásokért jelen dokumentumban m
 
 A MeH kötelezettséget vállal arra, hogy mindenkor a jelen dokumentumban meghatározott feltételekkel nyújtja szolgáltatását, különösen tekintettel arra, hogy:
 
-–  a rendszer alapszolgáltatásait az ügyfélkapuval rendelkező ügyfelek térítésmentesen vehetik igénybe;
+– a rendszer alapszolgáltatásait az ügyfélkapuval rendelkező ügyfelek térítésmentesen vehetik igénybe;
 
-–  a MeH által felügyelt informatikai rendszerek folyamatos működését és ezáltal a vállalt szolgáltatási szintet a tőle elvárható gondossággal biztosítja;
+– a MeH által felügyelt informatikai rendszerek folyamatos működését és ezáltal a vállalt szolgáltatási szintet a tőle elvárható gondossággal biztosítja;
 
-–  az elektronikus beadványok titkosságát a címzett szervezethez történő beérkezésig biztosítja;
+– az elektronikus beadványok titkosságát a címzett szervezethez történő beérkezésig biztosítja;
 
-–  a MeH az általában elvárható magatartás szerint szabályzatait betartja, illetve a részt vevő felekkel betartatja.
+– a MeH az általában elvárható magatartás szerint szabályzatait betartja, illetve a részt vevő felekkel betartatja.
 
 A MeH az ügyfelekkel való kapcsolattartást központi ügyfélszolgálat (ügyfélvonal) telefonos és internetes és internettelefonos (VoIP) szolgáltatásainak igénybevételével biztosítja.
 
@@ -1510,19 +1510,19 @@ A központi rendszer azonosítást igénylő szolgáltatásait csak ügyfélkapu
 
 Az Ekszt 19. § (2) bekezdés b) pontja alapján a rendszer működtetőjének lehetősége van arra, hogy az elektronikus űrlapok és csatolmányaik biztonságos továbbítását lehetővé tevő alkalmazást az ügyfelek rendelkezésére bocsásson. A MeH az elektronikus közszolgáltatást nyújtó szervezetek számára megküldhető elektronikus űrlapok kitöltésére programot bocsát az ügyfelek rendelkezésére, mely
 
-–  alkalmas a címzett szervezetek által kibocsátott vagy általánosabb célú elektronikus űrlapok kitöltésére,
+– alkalmas a címzett szervezetek által kibocsátott vagy általánosabb célú elektronikus űrlapok kitöltésére,
 
-–  elvégzi az elkészített űrlap elsődleges tartalmi ellenőrzését és előkészítését (titkosítását) az elektronikus elküldéshez. Az űrlapot egyébként ki is lehet nyomtatni és postán el lehet küldeni, ahol ezt törvény nem zárja ki,
+– elvégzi az elkészített űrlap elsődleges tartalmi ellenőrzését és előkészítését (titkosítását) az elektronikus elküldéshez. Az űrlapot egyébként ki is lehet nyomtatni és postán el lehet küldeni, ahol ezt törvény nem zárja ki,
 
-–  biztosítja az elektronikus beadvány továbbítását a központi rendszer és azon keresztül a címzett szervezet felé.
+– biztosítja az elektronikus beadvány továbbítását a központi rendszer és azon keresztül a címzett szervezet felé.
 
-A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^14] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
+A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^23] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
 
 Annak érdekében, hogy a felhasználó a nyomtatványkitöltő program sértetlenségéről és épségéről a telepítést megelőzően meggyőződhessen, a program készítője az általános nyomtatványkitöltő program telepítő csomagját elektronikus aláírással látja el, mely tanúsítja, hogy
 
-–  a program a készítőjétől származik,
+– a program a készítőjétől származik,
 
-–  a program nem módosult a közzététel során.
+– a program nem módosult a közzététel során.
 
 A programot a MeH biztosítja az ügyfelek részére, ugyanakkor a számítógépes szoftverek komplex természetéből adódóan nem garantálja, hogy az átadott szoftver teljesen hibamentesen vagy bárminemű zavar nélkül működik, illetve, hogy minden hardver- és szoftver-konfigurációval kompatibilis. A MeH a szoftverekre vonatkozó általános szavatossági feltételekkel összhangban nem vállal felelősséget a szoftver használatából eredendő esetleges károkért, a használatával kapcsolatos adatvesztésért. Ugyanakkor tömeges, illetve típushibák esetén lehetőségei függvényében biztosítja a javítást a programhoz.
 
@@ -1546,17 +1546,17 @@ A MeH felelőssége ezzel összefüggésben csak az elektronikus űrlapok bizton
 
 Az elektronikus űrlapot a felhasználó tölti ki, az űrlapon rögzített adatok helyességéért és pontosságáért a felhasználó vállalja a felelősséget függetlenül attól, hogy a nyomtatványkitöltő program által nyújtott alábbi lehetőségek közül melyiket használja:
 
-–  az elektronikus űrlapok kitöltését egyedileg a nyomtatványkitöltő alkalmazásban;
+– az elektronikus űrlapok kitöltését egyedileg a nyomtatványkitöltő alkalmazásban;
 
-–  egy megfelelő módon előállított – a címzett szervezet honlapján publikált szintaxisú – XML állományból történő adatbetöltést az elektronikus űrlapra;
+– egy megfelelő módon előállított – a címzett szervezet honlapján publikált szintaxisú – XML állományból történő adatbetöltést az elektronikus űrlapra;
 
-–  egyszerre több importállományból történő adatbetöltést egy-egy elektronikus űrlapra;
+– egyszerre több importállományból történő adatbetöltést egy-egy elektronikus űrlapra;
 
-–  közvetlenül a nyomtatványkitöltő program XML kimeneti állományának előállítására szolgáló más – a felhasználó vagy általa megbízott harmadik személy által fejlesztett – alkalmazással úgy, hogy a kimeneti állomány formai, logikai ellenőrzése történik csak a nyomtatványkitöltő programmal.
+– közvetlenül a nyomtatványkitöltő program XML kimeneti állományának előállítására szolgáló más – a felhasználó vagy általa megbízott harmadik személy által fejlesztett – alkalmazással úgy, hogy a kimeneti állomány formai, logikai ellenőrzése történik csak a nyomtatványkitöltő programmal.
 
-Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^15]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
+Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^24]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
 
-Az elkészített és a MeH által publikált elektronikus űrlapokhoz sok esetben külön letölthető egy útmutató vagy helyzetérzékeny segítő fájl, amely segíti az űrlap kitöltését.
+Az elkészített és a működtető által publikált elektronikus űrlapokhoz sok esetben külön letölthető egy útmutató vagy helyzetérzékeny segítő fájl, amely segíti az űrlap kitöltését.
 
 Egyes esetekben az elektronikus űrlap mellé az adott ügyintézéshez szükséges elektronikus mellékletek is csatolhatók
 
@@ -1564,9 +1564,9 @@ Egyes esetekben az elektronikus űrlap mellé az adott ügyintézéshez szüksé
 
 A 2.2.2. fejezet szerint elkészített kimeneti állományból az elektronikus küldeményt a nyomtatványkitöltő program állítja elő biztosítva, hogy
 
-–  az elektronikus beadvány a központi rendszer által elfogadott formátumú legyen,
+– az elektronikus beadvány a központi rendszer által elfogadott formátumú legyen,
 
-–  az elektronikus beadványban továbbítandó, az elektronikus űrlapon rögzített adatok titkossága biztosított oly módon, hogy az adattartalomhoz csak a címzett szervezet férhessen hozzá.
+– az elektronikus beadványban továbbítandó, az elektronikus űrlapon rögzített adatok titkossága biztosított oly módon, hogy az adattartalomhoz csak a címzett szervezet férhessen hozzá.
 
 Az elektronikus beadvány előállítása a felhasználó kötelessége, amit a nyomtatványkitöltő program erre vonatkozó funkciójával tehet meg. A kezelésre vonatkozó részletes leírást a kormányzati portál tesz közzé.
 
@@ -1592,9 +1592,9 @@ A visszaigazolás birtokában a felhasználó kijelentheti, hogy beadványa a vi
 
 A központi rendszer által kiadott visszaigazolás a felhasználó kérése szerint két formátumban kerülhet továbbításra:
 
-–  az ideiglenes tárhelyre (lásd 2.2.8 fejezet) PDF formátumú visszaigazolást küld a központi rendszer;
+– az ideiglenes tárhelyre (lásd 2.2.8 fejezet) PDF formátumú visszaigazolást küld a központi rendszer;
 
-–  a felhasználó által az ügyfélkapu nyitásakor megadott (módosítható) elektronikus levelezési címre egyszerű formátumú elektronikus levelet küld a központi rendszer.
+– a felhasználó által az ügyfélkapu nyitásakor megadott (módosítható) elektronikus levelezési címre egyszerű formátumú elektronikus levelet küld a központi rendszer.
 
 2.2.5.1. PDF formátumú visszaigazolás
 
@@ -1654,11 +1654,11 @@ Budapest, <dátum>.”
 
 A visszaigazolás tartalmazza:
 
-–  az elektronikus beadványban továbbított fájl nevét, így segítve az ügyfelet, hogy a későbbiekben is azonosítani tudja, hogy mely visszaigazolás mely elektronikus beadványra, illetve az abban foglalt dokumentumra vonatkozik;
+– az elektronikus beadványban továbbított fájl nevét, így segítve az ügyfelet, hogy a későbbiekben is azonosítani tudja, hogy mely visszaigazolás mely elektronikus beadványra, illetve az abban foglalt dokumentumra vonatkozik;
 
-–  az érkeztető számot, mellyel mind a felhasználó, mind a címzett szervezet a későbbiekben hivatkozhat a beadott dokumentumra;
+– az érkeztető számot, mellyel mind a felhasználó, mind a címzett szervezet a későbbiekben hivatkozhat a beadott dokumentumra;
 
-–  a beadás időpontját jelző időbélyegzést, mellyel a felhasználó igazolni képes, hogy a központi rendszer mely időpontban érkeztette az elektronikus beadványát.
+– a beadás időpontját jelző időbélyegzést, mellyel a felhasználó igazolni képes, hogy a központi rendszer mely időpontban érkeztette az elektronikus beadványát.
 
 2.2.5.2. Elektronikus levél, mint visszaigazolás
 
@@ -1694,7 +1694,7 @@ Az elektronikus közszolgáltatásokat ügyfélkapuval igénybe vevő felhaszná
 
 2.3.1. Hozzáférés megszüntetésének szabályai
 
-Tekintettel arra, hogy a jogszabályi előírások szerint a felhasználó felel minden, a felhasználó által nyitott ügyfélkapun keresztül elérhető szolgáltatás helyes használatáért, valamint a hozzáférési jelszó védelméért, a MeH – a jogszabályi előírásoknak megfelelően – lehetővé teszi a felhasználók számára, hogy a jelszó feltételezhető kompromittálódása esetén a hozzáférés megváltoztatását kezdeményezzék.
+Tekintettel arra, hogy a jogszabályi előírások szerint a felhasználó felel minden, a felhasználó által nyitott ügyfélkapun keresztül elérhető szolgáltatás helyes használatáért, valamint a hozzáférési jelszó védelméért, a működtető – a jogszabályi előírásoknak megfelelően – lehetővé teszi a felhasználók számára, hogy a jelszó feltételezhető kompromittálódása esetén a hozzáférés megváltoztatását kezdeményezzék.
 
 2.3.1.1. Elveszett jelszó
 
@@ -1726,13 +1726,13 @@ A jogszabályi előírásoknak megfelelően a felhasználó kötelessége, hogy 
 
 A központi rendszer lehetővé teszi a felhasználó számára, hogy az elektronikus levelezési címét, melyre az értesítéseket a központi rendszer küldi, az ügyfélkapura történő bejelentkezést követően megváltoztassa.
 
-A MeH elhárít minden, a felhasználó által megadott elektronikus levelezési címre történő hibás kézbesítésből származó felelősséget, különösen, ha a kézbesítés
+A működtető elhárít minden, a felhasználó által megadott elektronikus levelezési címre történő hibás kézbesítésből származó felelősséget, különösen, ha a kézbesítés
 
-–  az elektronikus levelezési cím hibás voltából,
+– az elektronikus levelezési cím hibás voltából,
 
-–  az internet működési zavarából vagy
+– az internet működési zavarából vagy
 
-–  az elektronikus levelezési címhez kapcsolódó szolgáltatás üzemavarából fakadóan
+– az elektronikus levelezési címhez kapcsolódó szolgáltatás üzemavarából fakadóan
 
 hiúsult meg.
 
@@ -1742,11 +1742,11 @@ hiúsult meg.
 
 A központi rendszer vállalja, hogy
 
-–  a szolgáltatást 0–24 órás üzemben 99,9% rendelkezésre állással nyújtja. Az üzemzavar esetére a hatósági ügy esetén a Ket 65. § (8) bekezdésében leírtak alapján vagy automatikusan mentesíti az ügyfelet az ebből szármató hátrányok alól vagy kérésére igazolást ad ki az üzemzavar tényéről. Az üzemzavarra vonatkozó információ a www.magyarorszag.hu kezdőlapján felül lenyíló menüben található;
+– a szolgáltatást 0–24 órás üzemben 99,9% rendelkezésre állással nyújtja. Az üzemzavar esetére a hatósági ügy esetén a Ket 65. § (8) bekezdésében leírtak alapján vagy automatikusan mentesíti az ügyfelet az ebből szármató hátrányok alól vagy kérésére igazolást ad ki az üzemzavar tényéről. Az üzemzavarra vonatkozó információ a www.magyarorszag.hu kezdőlapján felül lenyíló menüben található;
 
-–  egy óra alatt legalább 200 ezer dokumentum fogadását, bejelentkezés kezelését biztosítja;
+– egy óra alatt legalább 200 ezer dokumentum fogadását, bejelentkezés kezelését biztosítja;
 
-–  a sikeresen feltöltött beadványokat – ha a nyomtatványkitöltő program sikeresnek minősíti a feltöltést – 1 percen belül érkeztetési számmal és időbélyegzéssel látja el és továbbítja a címzett szervezet tárhelyére, valamint a visszaigazolást a felhasználó ideiglenes tárhelyén elhelyezi, illetve erről az értesítő e-mailt elindítja.
+– a sikeresen feltöltött beadványokat – ha a nyomtatványkitöltő program sikeresnek minősíti a feltöltést – 1 percen belül érkeztetési számmal és időbélyegzéssel látja el és továbbítja a címzett szervezet tárhelyére, valamint a visszaigazolást a felhasználó ideiglenes tárhelyén elhelyezi, illetve erről az értesítő e-mailt elindítja.
 
 3.2. Üzemzavar kezelése
 
@@ -1754,25 +1754,25 @@ A központi rendszer vállalja, hogy
 
 Üzemzavarnak minősül, ha a központi rendszer az ügyfelek folyamatos kiszolgálását 15 percnél hosszabb ideig nem tudja biztosítani, azaz:
 
-–  a nyomtatványkitöltő program aktuális verziójával készített elektronikus beadványt a központi rendszer tömegesen elutasítja;
+– a nyomtatványkitöltő program aktuális verziójával készített elektronikus beadványt a központi rendszer tömegesen elutasítja;
 
-–  a központi rendszer bármely okból nem képes fogadni a beadványokat;
+– a központi rendszer bármely okból nem képes fogadni a beadványokat;
 
-–  a központi rendszer a befogadott beadványokról nem képes a visszaigazolásokat visszaküldeni.
+– a központi rendszer a befogadott beadványokról nem képes a visszaigazolásokat visszaküldeni.
 
 Jelen szabályzat szempontjából nem számít üzemzavarnak:
 
-–  az üzemzavar időtartama nem éri el a 15 percet;
+– az üzemzavar időtartama nem éri el a 15 percet;
 
-–  a címzett szervezet informatikai rendszerének átmeneti vagy tartós működési zavara; ebben az esetben az üzenet befogadásra és visszaigazolásra kerül, csak a szervezet veszi később át;
+– a címzett szervezet informatikai rendszerének átmeneti vagy tartós működési zavara; ebben az esetben az üzenet befogadásra és visszaigazolásra kerül, csak a szervezet veszi később át;
 
-–  a felhasználó által észlelt nem üzemszerű működés, ha ez a felhasználó informatikai rendszerének, illetve az internet vagy az informatikai eszközök működését biztosító környezet átmeneti vagy tartós működési zavarára vezethető vissza, függetlenül attól, hogy ez a felhasználók milyen körét érinti; ebben az esetben a hatósági ügyeknél a Ket. szabályai szerint a helyi szolgáltatótól lehet, illetve kell igazolást kérni a mulasztás kimentéséhez;
+– a felhasználó által észlelt nem üzemszerű működés, ha ez a felhasználó informatikai rendszerének, illetve az internet vagy az informatikai eszközök működését biztosító környezet átmeneti vagy tartós működési zavarára vezethető vissza, függetlenül attól, hogy ez a felhasználók milyen körét érinti; ebben az esetben a hatósági ügyeknél a Ket. szabályai szerint a helyi szolgáltatótól lehet, illetve kell igazolást kérni a mulasztás kimentéséhez;
 
-–  a nyomtatványkitöltő program vagy az elektronikus űrlapok működési hibája, ha a hiba jelentkezésének időpontjában már elérhető a kormányzati portálon vagy a címzett szervezet honlapján a program vagy az elektronikus űrlap újabb verziója, illetve a hiba nem akadályozza az űrlap beküldését.
+– a nyomtatványkitöltő program vagy az elektronikus űrlapok működési hibája, ha a hiba jelentkezésének időpontjában már elérhető a kormányzati portálon vagy a címzett szervezet honlapján a program vagy az elektronikus űrlap újabb verziója, illetve a hiba nem akadályozza az űrlap beküldését.
 
 3.2.2. Tájékoztatás üzemzavarról
 
-Üzemzavar esetén a www.magyarorszag.hu kormányzati portálon információ jelenik meg az üzemzavar kezdő és végidőpontjáról, amit egy hónapon keresztül lehet a honlapon megtalálni. Az érintett csatlakozott szervezeteket a MeH közvetlenül tájékoztatja az üzemzavarról. Ennek megfelelően külön igazolást csak abban az esetben indokolt kérni, ha valamilyen egyedi hiba merült fel, ez azonban csak kivételesen lehet a központi rendszer által igazolható.
+Üzemzavar esetén a www.magyarorszag.hu kormányzati portálon információ jelenik meg az üzemzavar kezdő és végidőpontjáról, amit egy hónapon keresztül lehet a honlapon megtalálni. Az érintett csatlakozott szervezeteket a működtető közvetlenül tájékoztatja az üzemzavarról. Ennek megfelelően külön igazolást csak abban az esetben indokolt kérni, ha valamilyen egyedi hiba merült fel, ez azonban csak kivételesen lehet a központi rendszer által igazolható.
 
 3.2.3. Üzemzavar következményei
 
@@ -1782,19 +1782,19 @@ Abban az esetben, ha az üzemzavar az APEH felé határidőre történő kötele
 
 Minden más esetben
 
-–  a Hatóság saját hatáskörben dönt a határidő megváltoztatásáról, de csak az üzemzavar időtartamával köteles a határidőt módosítani (amennyiben az akadályozza a határidőre történő benyújtást);
+– a Hatóság saját hatáskörben dönt a határidő megváltoztatásáról, de csak az üzemzavar időtartamával köteles a határidőt módosítani (amennyiben az akadályozza a határidőre történő benyújtást);
 
-–  egyedi üzemzavar (dokumentum megsérülése vagy más hibajelenség esetén) a felhasználó kérelmére a MeH igazolást állít ki az üzemzavar tényéről, rögzítve az üzemzavar kezdetének és végének időpontját.
+– egyedi üzemzavar (dokumentum megsérülése vagy más hibajelenség esetén) a felhasználó kérelmére a működtető igazolást állít ki az üzemzavar tényéről, rögzítve az üzemzavar kezdetének és végének időpontját.
 
 A központi rendszer üzemeltetője a központi rendszer rendelkezésre állását, az üzemzavarok időpontját és időtartamát hitelesen dokumentálja.
 
 3.2.4. Üzemzavar kezelése
 
-Az üzemzavar elhárítását a MeH azonnal megkezdi. Abban az esetben, ha az üzemzavar következményeként adatvisszaállítás szükséges, akkor megvizsgálja, hogy
+Az üzemzavar elhárítását a működtető azonnal megkezdi. Abban az esetben, ha az üzemzavar következményeként adatvisszaállítás szükséges, akkor megvizsgálja, hogy
 
-–  az adatvisszaállítás mely időpontra lehetséges, illetve adatvesztés előfordulhatott-e,
+– az adatvisszaállítás mely időpontra lehetséges, illetve adatvesztés előfordulhatott-e,
 
-–  az adatvisszaállítás érinti-e a felhasználói törzsadatokat vagy a benyújtott adatokat.
+– az adatvisszaállítás érinti-e a felhasználói törzsadatokat vagy a benyújtott adatokat.
 
 3.2.4.1. Adatvesztés kezelése
 
@@ -1820,11 +1820,11 @@ A MeH a nyomozás hatékony lefolytatása érdekében a nyomozó hatóság álta
 
 3.3. Panaszkezelés
 
-Az elektronikus közszolgáltatást nyújtó szervezet és a felhasználó közötti vitás ügybe a MeH csak abban az esetben vonható be, ha az információ bizonyíthatóan a központi rendszerbe történt beérkezés és az elektronikus közszolgáltatást nyújtó szervezetnek történt átadás között sérült vagy változott meg. Ez a rendszer működési modelljéből következően a tartalom ismerete nélkül is dokumentálható.
+Az elektronikus közszolgáltatást nyújtó szervezet és a felhasználó közötti vitás ügybe a működtető csak abban az esetben vonható be, ha az információ bizonyíthatóan a központi rendszerbe történt beérkezés és az elektronikus közszolgáltatást nyújtó szervezetnek történt átadás között sérült vagy változott meg. Ez a rendszer működési modelljéből következően a tartalom ismerete nélkül is dokumentálható.
 
 3.3.1. Kapcsolattartás
 
-A MeH a szolgáltatás igénybevétele során felmerülő problémák orvoslására, megválaszolására, reklamációk ügyintézésére központi ügyfélszolgálatot, ügyfélvonalat üzemeltet, melyet a felhasználó telefonon, illetve levélben vagy elektronikus úton kereshet fel.
+A működtető a szolgáltatás igénybevétele során felmerülő problémák orvoslására, megválaszolására, reklamációk ügyintézésére központi ügyfélszolgálatot, ügyfélvonalat üzemeltet, melyet a felhasználó telefonon, illetve levélben vagy elektronikus úton kereshet fel.
 
 Az ügyfélszolgálat adatai:
 
@@ -1852,9 +1852,9 @@ külföldről: +36 1 452 3621
 
 A központi ügyfélszolgálat lehetővé teszi a felhasználó számára, hogy
 
-–  az elektronikus beadványok kezelésével kapcsolatban tájékoztatást, probléma esetén segítséget kérjen;
+– az elektronikus beadványok kezelésével kapcsolatban tájékoztatást, probléma esetén segítséget kérjen;
 
-–  konkrét – hatósági ügyintézéshez kapcsolódó – panasz esetén a felhasználó a címzett hatóság illetékes munkatársának eléréséhez támogatást kapjon.
+– konkrét – hatósági ügyintézéshez kapcsolódó – panasz esetén a felhasználó a címzett hatóság illetékes munkatársának eléréséhez támogatást kapjon.
 
 3.3.2. Panaszok, kifogások intézése
 
@@ -1878,7 +1878,7 @@ A központi rendszer működtetője a felhasználó jogellenes tevékenysége es
 
 4. Biztonsági intézkedések
 
-Jelen fejezet a MeH informatikai biztonsági elkötelezettségét bizonyítja, az ügyfélkapcsolatra vonatkozó biztonsági óvintézkedéseket rögzíti. A központi rendszer részletes biztonsági eljárási szabályait az üzemeltetők nem nyilvános Informatikai Biztonsági Szabályzatai rögzítik.
+Jelen fejezet a működtető informatikai biztonsági elkötelezettségét bizonyítja, az ügyfélkapcsolatra vonatkozó biztonsági óvintézkedéseket rögzíti. A központi rendszer részletes biztonsági eljárási szabályait az üzemeltetők nem nyilvános Informatikai Biztonsági Szabályzatai rögzítik.
 
 4.1. Szervezeti és személyi biztonsági intézkedések
 
@@ -1908,19 +1908,19 @@ A MeH szúrópróbaszerűen egy-egy esemény felülvizsgálatát havonta többsz
 
 Az üzemeltető biztonsági felelőse biztosítja
 
-–  a kockázatok csökkentését célzó védelmi intézkedések kidolgozását, bevezettetését;
+– a kockázatok csökkentését célzó védelmi intézkedések kidolgozását, bevezettetését;
 
-–  a már életbe léptetett eljárásrendekben előírt intézkedések érvényre jutását, betartatását;
+– a már életbe léptetett eljárásrendekben előírt intézkedések érvényre jutását, betartatását;
 
-–  az informatikai rendszerek biztonsági szintjének rendszeres ellenőrzését;
+– az informatikai rendszerek biztonsági szintjének rendszeres ellenőrzését;
 
-–  az üzemeltetői hozzáférési jogok kiadásának és visszavételének kezelését;
+– az üzemeltetői hozzáférési jogok kiadásának és visszavételének kezelését;
 
-–  a központi rendszer napló archiválását, rendszeres átvizsgálását, biztonsági események feltárását.
+– a központi rendszer napló archiválását, rendszeres átvizsgálását, biztonsági események feltárását.
 
 4.1.2.2. Adatvédelmi felelős
 
-A MeH adatvédelmi felelőse látja el az Avtv.-ben rögzített feladatokat, beleértve az ügyfelek személyes adatainak kezelésével kapcsolatos tájékoztatási és ellenőrzési kötelezettségeket is.
+A működtető adatvédelmi felelőse látja el az Avtv.-ben rögzített feladatokat, beleértve az ügyfelek személyes adatainak kezelésével kapcsolatos tájékoztatási és ellenőrzési kötelezettségeket is.
 
 4.1.2.3. Üzemeltetésvezető
 
@@ -1932,15 +1932,15 @@ Az üzemeltetésvezető teljes utasítási joggal rendelkezik üzemeltetés ter�
 
 A rendszergazda feladata központi rendszer egyes alrendszereinek üzemeltetése, beleértve
 
-– az operátor által nem kezelhető incidensek elhárítását;
+– az operátor által nem kezelhető incidensek elhárítását;
 
-– az elkészített adat- és rendszermentések belső szabályok szerinti tárolását, utasításra adatvisszaállítás végrehajtását;
+– az elkészített adat- és rendszermentések belső szabályok szerinti tárolását, utasításra adatvisszaállítás végrehajtását;
 
-– a belső szabályzatokban előírt rendszeres karbantartási tevékenységek végrehajtását;
+– a belső szabályzatokban előírt rendszeres karbantartási tevékenységek végrehajtását;
 
-– a változások élesítését az üzemi környezetben;
+– a változások élesítését az üzemi környezetben;
 
-– az üzemeltetői hozzáférési jogok beállítását az informatikai rendszereken a biztonsági felelős utasításainak maradéktalan betartásával.
+– az üzemeltetői hozzáférési jogok beállítását az informatikai rendszereken a biztonsági felelős utasításainak maradéktalan betartásával.
 
 A rendszergazda köteles tevékenységét a belső szabályzatok előírásai szerint bizonylatolni.
 
@@ -1948,11 +1948,11 @@ A rendszergazda köteles tevékenységét a belső szabályzatok előírásai sz
 
 Az Operátor feladata
 
-–  biztonsági események fogadása, elsőszintű kezelése;
+– biztonsági események fogadása, elsőszintű kezelése;
 
-–  távfelügyeleti rendszeren a központi rendszer működésének folyamatos monitorozása;
+– távfelügyeleti rendszeren a központi rendszer működésének folyamatos monitorozása;
 
-–  mentések végrehajtása.
+– mentések végrehajtása.
 
 A operátor köteles tevékenységét a belső szabályzatok előírásai szerint bizonylatolni.
 
@@ -1962,9 +1962,9 @@ A személyekre vonatkozó biztonsági intézkedések célja a gondatlanságból 
 
 Tekintettel arra, hogy a fontos és bizalmas munkakört betöltők esetében van lehetőség leginkább a visszaélésekre, ezért ezeket a munkaköröket
 
-–  csak erkölcsi bizonyítvánnyal rendelkező, nemzetbiztonsági ellenőrzésen átesett;
+– csak erkölcsi bizonyítvánnyal rendelkező, nemzetbiztonsági ellenőrzésen átesett;
 
-–  megfelelő szakképesítéssel és szakvizsgával, az adott szakterületre előírt gyakorlattal rendelkező
+– megfelelő szakképesítéssel és szakvizsgával, az adott szakterületre előírt gyakorlattal rendelkező
 
 személy töltheti be.
 
@@ -1976,23 +1976,23 @@ Ilyen munkakört betöltő személy által elkövetett visszaélés esetén a Me
 
 A központi rendszer alapvető informatikai eszközeinek telephelyét és a működésükhöz szükséges infrastruktúrát a MeH biztosítja. A kialakított környezet az
 
-–  áramellátás,
+– áramellátás,
 
-–  légkondicionálás,
+– légkondicionálás,
 
-–  tűzmegelőzés és tűzvédelem,
+– tűzmegelőzés és tűzvédelem,
 
-–  villámvédelem,
+– villámvédelem,
 
-–  betörésvédelem, beleértve az élőerős védelmet is,
+– betörésvédelem, beleértve az élőerős védelmet is,
 
 területén a vonatkozó biztonsági előírásoknak maradéktalanul megfelel, a kialakított védelem arányban áll a MeH által kockázatelemzésben azonosított kockázatokkal és biztosítja, hogy:
 
-–  az infrastruktúrát érintő hibák ne veszélyeztessék a vállalt szolgáltatási szintet;
+– az infrastruktúrát érintő hibák ne veszélyeztessék a vállalt szolgáltatási szintet;
 
-–  természetes személyek gondatlanságból vagy szándékosan ne legyenek képesek kárt okozni a központi rendszer működésében, továbbá
+– természetes személyek gondatlanságból vagy szándékosan ne legyenek képesek kárt okozni a központi rendszer működésében, továbbá
 
-–  ne legyen módjuk veszélyeztetni a központi rendszer által feldolgozott adatok titkosságát és sértetlenségét.
+– ne legyen módjuk veszélyeztetni a központi rendszer által feldolgozott adatok titkosságát és sértetlenségét.
 
 4.3. Adatbiztonság
 
@@ -2018,7 +2018,7 @@ A MeH az archivált adatok titkosságát és sértetlenségét belső biztonság
 
 Az elektronikusan tárolt adatok naponta kerülnek mentésre oly módon, hogy az adathordozók egy e célra rendszeresített tárolóhelyen kerülnek elhelyezésre.
 
-A nem elektronikus formában keletkező adatok, iratok a MeH irattári tervében meghatározott módon kerülnek tárolásra.
+A nem elektronikus formában keletkező adatok, iratok a működtető irattári tervében meghatározott módon kerülnek tárolásra.
 
 4.4. Logikai biztonsági intézkedések
 
@@ -2030,7 +2030,7 @@ A központi rendszer szolgáltatásait biztosító informatikai rendszerek ellen
 
 Tekintettel arra, hogy az üzenettovábbító alrendszer által nyújtott szolgáltatás esetében az idő nagy jelentőségű, a központi rendszer minden komponensének belső órája szabványos és hiteles időforráshoz szinkronizált, az időt szolgáltató eszközök a beérkező időadatok egyértelműségét biztosítják.
 
-Az időszinkronizálás jelen szabályzatban meghatározott pontosságánál nagyobb eltérése üzemzavarnak minősül és az eseményt a MeH a 3.2 pont rendelkezései szerint kezeli.
+Az időszinkronizálás jelen szabályzatban meghatározott pontosságánál nagyobb eltérése üzemzavarnak minősül és az eseményt a működtető a 3.2 pont rendelkezései szerint kezeli.
 
 A használt időforrások az UTC-hez képest néhány ezred másodpercet térhetnek el, a rendszer egészének pontossága is jobb, mint az időbélyegzésekben megadott idő.
 
@@ -2058,7 +2058,7 @@ Tekintettel a központi rendszer egyes komponenseinek naplózás tulajdonságair
 
 A központi rendszer minden, a látogatók és ügyfelek által végzett tevékenységet naplóz, beleértve
 
-–  bejelentkezés nélkül elérhető honlapok esetében
+– bejelentkezés nélkül elérhető honlapok esetében
 
 = a látogatás időpontját,
 
@@ -2066,13 +2066,13 @@ A központi rendszer minden, a látogatók és ügyfelek által végzett tevéke
 
 = a böngésző típusát;
 
-–  a felhasználó ügyfélkapus bejelentkezésével végezhető eljárások esetében
+– a felhasználó ügyfélkapus bejelentkezésével végezhető eljárások esetében
 
 = a felhasználó nevét és e-mail címét (amit egyébként az ügyintéző rendszereknek átadott),
 
 = a felhasználó bejelentkezésének és kijelentkezésének időpontját anélkül, hogy az aktivitás természetéről rögzítene további adatokat;
 
-–  az előző naplóállománytól teljesen függetlenül tárolja a továbbított üzenetek naplóbejegyzéseit, s benne
+– az előző naplóállománytól teljesen függetlenül tárolja a továbbított üzenetek naplóbejegyzéseit, s benne
 
 = feladó nevét;
 
@@ -2090,15 +2090,15 @@ A naplóállományok kezelése a 4.3.2.1. pontban rögzített adatkezelési hat�
 
 Az üzemeltetési tevékenységek és a rendszer belső működésének naplózása szintén megtörténik, beleértve
 
-–  rendszermenedzsment tevékenységeket, mint rendszergazdai be-, illetve kijelentkezés, a rendszer vagy komponensének indítása/leállítása, verziófrissítés, adatbázis-menedzsment tevékenységek;
+– rendszermenedzsment tevékenységeket, mint rendszergazdai be-, illetve kijelentkezés, a rendszer vagy komponensének indítása/leállítása, verziófrissítés, adatbázis-menedzsment tevékenységek;
 
-–  az audit alrendszer menedzsmentjével kapcsolatos tevékenységeket, mint a naplózási funkció konfigurációjának módosítása, leállítása, újraindítása stb.;
+– az audit alrendszer menedzsmentjével kapcsolatos tevékenységeket, mint a naplózási funkció konfigurációjának módosítása, leállítása, újraindítása stb.;
 
-–  mentési műveleteket;
+– mentési műveleteket;
 
-–  ügyfélszolgálati tevékenységek, mint ügyfél használati jogának felfüggesztése, újraérvényesítése, ügyfél hozzáférésének törlése stb.;
+– ügyfélszolgálati tevékenységek, mint ügyfél használati jogának felfüggesztése, újraérvényesítése, ügyfél hozzáférésének törlése stb.;
 
-–  a központi rendszer egyes komponenseiben bekövetkező, naplózást igénylő eseményeket/hibákat, mint adatbázis események, operációs rendszer események stb.
+– a központi rendszer egyes komponenseiben bekövetkező, naplózást igénylő eseményeket/hibákat, mint adatbázis események, operációs rendszer események stb.
 
 4.4.5.2. Naplóállomány védelme
 
@@ -2106,5 +2106,7 @@ A központi rendszer naplóállománya védett a jogosulatlan adatmódosítást�
 
 A naplóállományt a gondatlanságból vagy szándékosan elkövetett rongálás ellen biztonsági mentések védik. A MeH minden naplóállomány esetében, beleértve a személyes adatokat tartalmazó naplóbejegyzéseket is, gondoskodik az adatok bizalmas tárolásáról. A naplóállományhoz csak a biztonsági vezető által arra feljogosított személyzet férhet hozzá, szigorúan a hibaelhárításhoz szükséges mértékben. A MeH bűncselekmény gyanúja esetén, hatósági megkeresésre a szükséges adatokat, naplóbejegyzéseket a nyomozó hatóság rendelkezésére bocsátja.
 
-[^14]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
-[^15]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
+[^21]: A 3. melléklet 1. számú függeléke a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^22]: A 4. melléklet a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés h)–j) pontja, 17. § (4) bekezdése és 17. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^23]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
+[^24]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.

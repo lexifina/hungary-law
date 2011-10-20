@@ -1,4 +1,4 @@
-## 34. §[^6]
+## 34. §[^15]
 
 ## A központi elektronikus szolgáltató rendszer biztonsági alapdokumentumai
 
@@ -14,4 +14,4 @@ c) végrehajtási eljárásrendek, melyek részletesen leírják a szabályzatba
 
 (3) A (2) bekezdés szerinti dokumentumokat minden egyes a központi rendszert üzemeltető szervezet, valamint a központi rendszeren keresztül elektronikus közszolgáltatást nyújtó szervezet elkészíti és gondoskodik azok karbantartásáról.
 
-[^6]: A 34. §-t és az azt megelőző alcímet a 346/2010. Korm. rendelet 40. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^15]: A 34. §-t és az azt megelőző alcímet a 346/2010. Korm. rendelet 40. § (1) bekezdés f) pontja hatályon kívül helyezte.
