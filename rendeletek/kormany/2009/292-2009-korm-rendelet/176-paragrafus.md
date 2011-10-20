@@ -1,10 +1,10 @@
 ## A HELYI ÖNKORMÁNYZAT ÉS A HELYI KISEBBSÉGI ÖNKORMÁNYZAT IRÁNYÍTÁSA ALÁ TARTOZÓ KÖLTSÉGVETÉSI SZERVEK SZÁMLÁI
 
-176. § (1)[^257] A helyi önkormányzat, helyi kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv pénzeszközeit a Kincstárnál vagy az önkormányzat által meghatározott hitelintézetnél nyitott pénzforgalmi számlán kezeli. Ezen felül más hitelintézetnél számla nem nyitható.
+176. § (1)[^258] A helyi önkormányzat, helyi kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv pénzeszközeit a Kincstárnál vagy az önkormányzat által meghatározott hitelintézetnél nyitott pénzforgalmi számlán kezeli. Ezen felül más hitelintézetnél számla nem nyitható.
 
 (2) A helyi önkormányzat és a helyi kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv számára pénzforgalmi számla a törzskönyvi nyilvántartásba vétel után nyitható. A pénzforgalmi számla megnyitása, illetve megszüntetése – a költségvetési szerv létesítésének, illetve megszüntetésének időpontja szerinti határnappal – a helyi önkormányzati hivatal feladata. A pénzforgalmi számla megnyitásáról, illetve megszüntetéséről az önkormányzati hivatal öt napon belül köteles tájékoztatni az Igazgatóságot.
 
-(3)[^258] A helyi önkormányzat, helyi kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv – a 174. § (5) bekezdésében meghatározott eset kivételével – a költségvetési elszámolási számláján lévő szabad pénzeszközeit betétként kizárólag a számlavezető hitelintézetnél a költségvetési elszámolási számlához kapcsolódó alszámlán kötheti le.
+(3)[^259] A helyi önkormányzat, helyi kisebbségi önkormányzat irányítása alá tartozó költségvetési szerv – a 174. § (5) bekezdésében meghatározott eset kivételével – a költségvetési elszámolási számláján lévő szabad pénzeszközeit betétként kizárólag a számlavezető hitelintézetnél a költségvetési elszámolási számlához kapcsolódó alszámlán kötheti le.
 
 (4) A költségvetési elszámolási számlával nem rendelkező, önállóan működő költségvetési szerv, valamint az önállóan működő és gazdálkodó önkormányzati költségvetési szerv, amelynek költségvetési elszámolási számláját nem a székhelyén, telephelyén lévő hitelintézet vezeti, a helyi postahivatalnál – külön engedély nélkül – pénzforgalmi betétkönyvet nyithat. A betétkönyv nyitása, illetve megszüntetése az önkormányzati költségvetési szerv feladata.
 
@@ -22,5 +22,5 @@ d) a jogi személyiséggel rendelkező szervezeti egysége pénzeszközeinek kez
 
 (7) Az (1)–(6) bekezdésben foglalt szabályokat kell megfelelően alkalmazni a többcélú kistérségi társulások irányítása alá tartozó költségvetési szervek számlavezetésére is azzal, hogy a többcélú kistérségi társulás önálló munkaszervezete a gazdálkodását a többcélú kistérségi társulás költségvetési elszámolási számláján bonyolítja le.
 
-[^257]: A 176. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^258]: A 176. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^258]: A 176. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^259]: A 176. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 50. §-ával megállapított szöveg.
