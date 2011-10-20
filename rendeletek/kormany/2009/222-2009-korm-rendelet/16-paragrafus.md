@@ -24,6 +24,10 @@ g) az üzemzavar esetén követendő eljárásrendet.
 
 (6) A megállapodás megkötését és a külön jogszabályban rögzített biztonsági, adatbiztonsági követelmények igazolását követően az alkalmazást először a központi rendszer tesztrendszeréhez kell csatlakoztatni, majd az elvégzett sikeres együttműködési, kommunikációs teszteket követően kell a szolgáltatást a központi rendszerben hozzáférhetővé tenni. A tesztelést dokumentálni kell.
 
+(6a)[^8] Az elektronikus fizetési szolgáltatást biztosító alrendszerhez való csatlakozáskor az együttműködési, kommunikációs tesztek akkor minősülnek sikeresnek, ha az elektronikus fizetési szolgáltatást biztosító alrendszer üzemeltetője azt megállapítja.
+
 (7) A működtető jogosult a (2) bekezdés szerinti megállapodásban rögzített korlátozási feltételek bekövetkezésekor, valamint a rendszer biztonsága és működőképessége veszélyeztetésének észlelése esetén a veszélyeztető vagy túlterhelő szolgáltatásokat korlátozni, felfüggeszteni.
 
 (8) Veszélyhelyzet esetén az üzemeltető – a működtető és az érintett egyidejű tájékoztatása mellett – jogosult a (7) bekezdésben rögzített azonnali intézkedésekre.
+
+[^8]: A 16. § (6a) bekezdését a 215/2011. (X. 19.) Korm. rendelet 16. § (4) bekezdése iktatta be.

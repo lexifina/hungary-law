@@ -1,3 +1,3 @@
-## 30. §[^7]
+## 30. §[^13]
 
-[^7]: A 30. §-t a 28. § (5) bekezdése hatályon kívül helyezte.
+[^13]: A 30. §-t a 28. § (5) bekezdése hatályon kívül helyezte.
