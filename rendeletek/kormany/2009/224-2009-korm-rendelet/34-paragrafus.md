@@ -1,4 +1,4 @@
-34. §[^23] (1) A megfelelően kitöltött meghatalmazást igénylő űrlapra válaszként a központi rendszer adatkezelője egy egyedi véletlen jelsorozatot küld a meghatalmazónak, amelyet a meghatalmazó természetes személyazonosító adataival együtt eltárol.
+34. §[^25] (1) A megfelelően kitöltött meghatalmazást igénylő űrlapra válaszként a központi rendszer adatkezelője egy egyedi véletlen jelsorozatot küld a meghatalmazónak, amelyet a meghatalmazó természetes személyazonosító adataival együtt eltárol.
 
 (2) A meghatalmazó akár a központi rendszeren keresztül, akár más úton átadja a jelsorozatot a meghatalmazottnak.
 
@@ -10,4 +10,4 @@
 
 (6) A meghatalmazó a meghatalmazást az erre szolgáló elektronikus űrlap a regisztrációs adatbázis adatkezelőjének történő megküldésével és a meghatalmazási kérelemre kapott véletlen jelsorozat csatolásával bármikor azonnali hatállyal visszavonhatja.
 
-[^23]: A 34. § a 38. § (3) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^25]: A 34. § a 38. § (3) bekezdése alapján 2010. szeptember 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-30. §[^19] (1) Elektronikus regisztráció a hivatali kapu kezelésére felhatalmazott képviselő ügyfélkapuján keresztül végezhető el.
+30. §[^21] (1) Elektronikus regisztráció a hivatali kapu kezelésére felhatalmazott képviselő ügyfélkapuján keresztül végezhető el.
 
 (2) Az elektronikus regisztráció esetén a központi rendszer ellenőrzi a személyi adat- és lakcímnyilvántartásban, hogy a képviseletre jogosultnak kijelölt személy a cégnyilvántartásban is rögzített – név, anyja születési neve – adatpárja csak egy személyt azonosít-e. Amennyiben a vizsgálat negatív eredménnyel zárul, a regisztráció csak személyes megjelenéssel a 29. § (1) bekezdés szerinti regisztrációs szervnél végezhető.
 
@@ -8,4 +8,4 @@
 
 (5) A cégkapu aktiválását követően a vállalkozás képviseletében eljárni jogosultak adatainak kezelésére felhatalmazott képviselő elkészíti a vállalkozás titkosító kulcspárját, és annak nyilvános kulcsát a hivatali kapun keresztül feltölti a központi rendszer kulcstárába. Ezt követően jogosultságot kap a részére biztosított regisztrációs felület kezelésére. A titkosító kulcspár magánkulcsának biztonságos megőrzése a felhatalmazott képviselő feladata.
 
-[^19]: A 30. § a 38. § (2) bekezdése alapján 2009. december 28-án lép hatályba.
+[^21]: A 30. § a 38. § (2) bekezdése alapján 2009. december 28-án lép hatályba.

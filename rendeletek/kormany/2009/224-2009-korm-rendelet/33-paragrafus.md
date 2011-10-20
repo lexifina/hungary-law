@@ -1,4 +1,4 @@
-33. §[^22] (1) A megbízó egy elektronikus űrlap kitöltésével igényel a központi rendszertől egy, a meghatalmazás tényét igazoló tanúsítványt, amelyhez meg kell adnia a felhatalmazás terjedelmét.
+33. §[^24] (1) A megbízó egy elektronikus űrlap kitöltésével igényel a központi rendszertől egy, a meghatalmazás tényét igazoló tanúsítványt, amelyhez meg kell adnia a felhatalmazás terjedelmét.
 
 (2) A felhatalmazás lehet
 
@@ -18,4 +18,4 @@ c) meghatározott időtartamra szóló.
 
 (7) Ha egy meghatalmazás a (2) bekezdés szerinti felhasználhatósága kimerült, a nyilvántartásból haladéktalanul törlésre kerül.
 
-[^22]: A 33. § a 38. § (3) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^24]: A 33. § a 38. § (3) bekezdése alapján 2010. szeptember 1-jén lép hatályba.

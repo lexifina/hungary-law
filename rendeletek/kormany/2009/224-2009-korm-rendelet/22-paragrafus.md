@@ -10,11 +10,11 @@
 
 (5) Az ügyfélkapu feletti rendelkezési joggal együtt az örökös hozzáfér az elhunyt titkosító kulcspárjának – amennyiben ilyen volt – a központi rendszer kulcstárában tárolt nyilvános részéhez. A magán kulccsal a központi rendszer nem rendelkezik.
 
-(6)[^16] Az örökös számára az ügyfélkapu feletti rendelkezés lehetőségének átvételétől számítva a kiürítésre, megszüntetésre rendelkezésre álló idő 22 munkanap. Ezt követően az ügyfélkapu a 20. § (4) bekezdésének megfelelően megszűnik.
+(6)[^17] Az örökös számára az ügyfélkapu feletti rendelkezés lehetőségének átvételétől számítva a kiürítésre, megszüntetésre rendelkezésre álló idő 22 munkanap. Ezt követően az ügyfélkapu a 20. § (4) bekezdésének megfelelően megszűnik.
 
-(7)[^17] Amennyiben az örökösök az elhunyt nyilvántartott elektronikus levélcímére megküldött értesítés elküldésétől számított 25 munkanapon belül nem jelentkeznek, a regisztrációs adatbázis adatkezelője a felhívást az utolsó nyilvántartott lakcímre postán megismétli, és hirdetményt tesz közzé a kormányzati portál hirdetményi felületén az elhunyt nevének és utolsó ismert lakcímének közlésével.
+(7)[^18] Amennyiben az örökösök az elhunyt nyilvántartott elektronikus levélcímére megküldött értesítés elküldésétől számított 25 munkanapon belül nem jelentkeznek, a regisztrációs adatbázis adatkezelője a felhívást az utolsó nyilvántartott lakcímre postán megismétli, és hirdetményt tesz közzé a kormányzati portál hirdetményi felületén az elhunyt nevének és utolsó ismert lakcímének közlésével.
 
 (8) Amennyiben a felhívás ebben az esetben is eredménytelen, úgy a hirdetmény közzétételétől számított 45 munkanap elteltével a regisztrációs adatbázis adatkezelője intézkedik az ügyfélkapu haladéktalan megszüntetéséről.
 
-[^16]: A 22. § (6) bekezdése a 244/2009. (X. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^17]: A 22. § (7) bekezdése a 78/2010. (III. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
+[^17]: A 22. § (6) bekezdése a 244/2009. (X. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 22. § (7) bekezdése a 78/2010. (III. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.

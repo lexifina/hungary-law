@@ -1,6 +1,6 @@
 ## A regisztráció speciális esetei
 
-11. §[^8] (1) Az ügyfélkapuval rendelkező törvényes képviselő – törvényes képviseleti jogosultságának fennállása időtartama alatt – jogosult a korlátozottan cselekvőképes és cselekvőképtelen személy ügyeiben a közigazgatási hatóságokkal való elektronikus kapcsolattartás, más ügyei a központi rendszeren keresztüli elektronikus úton történő intézése, illetve elektronikus közszolgáltatások igénybevétele érdekében az általa képviselt korlátozottan cselekvőképes, illetve cselekvőképtelen személy nevében, azaz az általa képviselt számára speciális ügyfélkapu nyitására, és az a feletti rendelkezésre.
+11. §[^9] (1) Az ügyfélkapuval rendelkező törvényes képviselő – törvényes képviseleti jogosultságának fennállása időtartama alatt – jogosult a korlátozottan cselekvőképes és cselekvőképtelen személy ügyeiben a közigazgatási hatóságokkal való elektronikus kapcsolattartás, más ügyei a központi rendszeren keresztüli elektronikus úton történő intézése, illetve elektronikus közszolgáltatások igénybevétele érdekében az általa képviselt korlátozottan cselekvőképes, illetve cselekvőképtelen személy nevében, azaz az általa képviselt számára speciális ügyfélkapu nyitására, és az a feletti rendelkezésre.
 
 (2) A kapu létesítésekor a regisztrációs szerv meggyőződik a törvényes képviseleti jogosultságról és a képviselt nevén kívül a cselekvőképességnek megfelelő (korlátozottan cselekvőképes – kcs, illetve cselekvőképtelen – csk.) rövidítést feltünteti az e célt szolgáló elkülönített nyilvántartásában.
 
@@ -12,7 +12,7 @@
 
 (6) A speciális ügyfélkapu a képviselt és a képviselőként eljáró a 18. § (3) bekezdése szerinti azonosító adatait is továbbítja. A képviseleti jogosultság terjedelmére vonatkozó információt a speciális ügyfélkapu használóira vonatkozóan a központi rendszer nem tart nyilván, annak ellenőrzése az elektronikus közszolgáltatást nyújtó szervezet feladata.
 
-(7)–(8)[^9]
+(7)–(8)[^10]
 
-[^8]: A 11. § a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
-[^9]: A 11. § (7)–(8) bekezdése a 78/2010. (III. 25.) Korm. rendelet 27. § (3) bekezdése alapján nem lép hatályba.
+[^9]: A 11. § a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
+[^10]: A 11. § (7)–(8) bekezdése a 78/2010. (III. 25.) Korm. rendelet 27. § (3) bekezdése alapján nem lép hatályba.
