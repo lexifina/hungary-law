@@ -4,6 +4,6 @@
 
 | Kistérségek Fejlesztéséért Tudományos Egyesület | Területfejlesztők Víkendjének megrendezése | 1 500 000 | XVII. fejezet 16.7 Területfejlesztéssel és fejlesztéspolitikával összefüggő feladatok |
 
-4. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^3]
+4. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^6]
 
-[^3]: A 4. melléklet a 123/2011. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 4. melléklet a 123/2011. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.

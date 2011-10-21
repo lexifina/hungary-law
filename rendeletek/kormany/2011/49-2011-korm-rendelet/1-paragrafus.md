@@ -1,4 +1,4 @@
-1. § (1) Alapítvány, közalapítvány és társadalmi szervezet (a továbbiakban együtt: szervezet) részére – az államháztartásról szóló 1992. évi XXXVIII. törvény 100/J. § (3) bekezdésében foglalt feltételek hiányában is – egyedi támogatás nyújtható a Magyar Köztársaság költségvetéséről szóló 2010. évi CLXIX. törvény
+1. § (1)[^1] Alapítvány, közalapítvány és társadalmi szervezet (a továbbiakban együtt: szervezet) részére – az államháztartásról szóló 1992. évi XXXVIII. törvény 100/J. § (3) bekezdésében foglalt feltételek hiányában is – egyedi támogatás nyújtható a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: költségvetési törvény) 1. melléklet
 
 a) X. Közigazgatási és Igazságügyi Minisztérium fejezetének az 1. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben,
 
@@ -8,7 +8,9 @@ c) XVII. Nemzeti Fejlesztési Minisztérium fejezetnek a 3. mellékletben megjel
 
 d) XVIII. Külügyminisztérium fejezetnek a 4. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben,
 
-e) XX. Nemzeti Erőforrás Minisztérium fejezetnek az 5. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben.
+e) XX. Nemzeti Erőforrás Minisztérium fejezetnek az 5. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben,
+
+f)[^2] XII. Vidékfejlesztési Minisztérium fejezetnek a 6. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben.
 
 (2) Az (1) bekezdés e) pontja szerinti támogatás a szervezet részére
 
@@ -20,4 +22,8 @@ b) a Nemzeti Erőforrás Minisztérium által finanszírozott modellprogram vég
 
 (3) Az (1) bekezdés e) pontja alapján nem részesülhet támogatásban a szervezet, ha az adott költségvetési évben a központi költségvetésből – a támogatandó cél tekintetében – normatív támogatásban részesül.
 
-(4) Az (1) bekezdés a)–e) pontjai alapján támogatásban részesített szervezet támogatási szerződése megkötésére, annak tartalmára, a támogatás folyósítására, az elszámolási és beszámolási kötelezettségekre, valamint a támogatásra vonatkozó egyéb feltételek tekintetében az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet VII. fejezetének szabályait kell alkalmazni.
+(4)[^3] Az (1) bekezdés a)–f) pontja alapján támogatásban részesített szervezet támogatási szerződése megkötésére, annak tartalmára, a támogatás folyósítására, az elszámolási és beszámolási kötelezettségekre, valamint a támogatásra vonatkozó egyéb feltételek tekintetében az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet VII. fejezetének szabályait kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 221/2011. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés f) pontját a 221/2011. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdése a 221/2011. (X. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
