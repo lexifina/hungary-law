@@ -4,6 +4,6 @@
 
 9. § (1) Ez a rendelet 2004. május 1-jén lép hatályba, rendelkezéseit az ezt követően kötött megállapodásokra kell alkalmazni. A 4. § (2) bekezdésének b) pontja 2005. október 1-jétől alkalmazandó.
 
-(2)–(3)[^1]
+(2)–(3)[^16]
 
-[^1]: A 9. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 753. pontja hatályon kívül helyezte.
+[^16]: A 9. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 753. pontja hatályon kívül helyezte.
