@@ -1,0 +1,3 @@
+## 1. § A kulturális szakemberek szervezett képzési rendszeréről, követelményeiről és a képzés finanszírozásáról szóló 1/2000. (I. 14.) NKÖM rendelet (a továbbiakban: rendelet) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § Az e rendeletben foglaltakat kell alkalmazni a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: kulturális törvény) hatálya alá tartozó intézmények (a továbbiakban: kulturális intézmény) közalkalmazotti vagy munkaviszony alapján, szakmai munkakörben, legalább 6 órában foglalkoztatott közép- és felsőfokú végzettségű szakemberei (a továbbiakban: kulturális szakemberek) szervezett képzésének tervezésére, lebonyolítására, finanszírozására.”
