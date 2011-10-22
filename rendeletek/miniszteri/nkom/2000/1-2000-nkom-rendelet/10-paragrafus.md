@@ -2,18 +2,25 @@
 
 ## A szervezett képzés finanszírozása
 
-10. § (1) A kulturális szakemberek e rendeletben meghatározott szervezett továbbképzése díjköteles tevékenység.
+10. §[^21] (1) A kulturális szakemberek szakmai továbbképzési programjának akkreditációja díjköteles tevékenység.
 
-(2) A 2. § a) pontjában meghatározott szakmai továbbképzési program minősítéséért, nyilvántartásba vételéért, indításának engedélyezéséért az illetékekről szóló 1990. évi XCIII. törvény 67. §-a alapján igazgatási szolgáltatási díjat kell fizetni, amely az általános forgalmi adót is tartalmazza.
+(2) A szakmai továbbképzési program akkreditációja iránti eljárásért, nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
 
-(3)[^21] A továbbképzési programot kimunkáló szervezet (intézmény, egyesület, vállalkozás) a szakmai továbbképzési program minősítő eljárásáért, öt évre szóló engedélyezéséért, nyilvántartásba vételi eljárásáért 30 óra képzési időtartamonként 30 000-30 000 forint, legfeljebb 120 000 forint, az akkreditált program indításának öt évre szóló engedélyezéséért, nyilvántartásba vételi eljárásáért 30 óra képzési időtartamonként 15 000-15 000 forint, legfeljebb 60 000 forint igazgatási szolgáltatási díjat köteles az Oktatási és Kulturális Minisztérium Magyar Államkincstárnál vezetett 10032000-01425190-00000000 számú számlájára megfizetni. Nem kell igazgatási szolgáltatási díjat fizetni az akkreditált program indításának öt évre szóló engedélyezéséért, nyilvántartásba vételi eljárásáért akkor, ha azt a minősítő eljárással egyidejűleg kezdeményezik. Az engedélyezési és nyilvántartásba vételi eljárás nem helyettesíti az Fktv. szerinti nyilvántartási eljárást.
+(3) Az igazgatási szolgáltatási díj összege – szakmai továbbképzési programonként –
 
-(4) A befizetett eljárási díj a kérelem visszavonásával a szakbizottságok határozatának meghozataláig visszaigényelhető. A visszaigényelt eljárási díjat – az adott üggyel összefüggésben keletkezett költségekkel csökkentve – vissza kell fizetni a befizetőnek.
+a) 104 000 forint, amennyiben a képzési idő összóraszáma legalább 30 óra, de nem haladja meg a 60 órát,
 
-(5) A díj megfizetését a kérelem benyújtásakor igazolni kell.
+b) 115 000 forint, amennyiben a képzési idő összóraszáma meghaladja a 60 órát, de nem haladja meg a 90 órát,
 
-(6)[^22] Az igazgatási szolgáltatási díj a minisztérium bevétele, amely az e rendeletben meghatározott szervezett képzés akkreditációs, igazgatási feladatainak ellátására, a személyi (szakértői, titkári) és a tárgyi kiadások fedezetének biztosítására használható fel.
+c) 132 000 forint, amennyiben a képzési idő összóraszáma meghaladja a 90 órát, de nem haladja meg a 120 órát,
+
+d) 144 000 forint, amennyiben a képzési idő összóraszáma meghaladja a 120 órát.
+
+(4) Az igazgatási szolgáltatási díjat a Nemzeti Erőforrás Minisztérium Magyar Államkincstárnál vezetett 10032000-01425190-00000000 számú számlájára kell átutalással megfizetni.
+
+(5) A megfizetett igazgatási szolgáltatási díj nem igényelhető vissza.
+
+(6) Az igazgatási szolgáltatási díj a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) bevétele, amely az akkreditációval kapcsolatos feladatok ellátására használható fel.
 
 [^20]: A 9. §-t és az azt megelőző címet a 25/2007. (IV. 24.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.
-[^21]: A 10. § (3) bekezdése a 25/2007. (IV. 24.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^22]: A 10. § (6) bekezdése a 25/2007. (IV. 24.) OKM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^21]: A 10. § az 56/2011. (IX. 22.) NEFMI rendelet 10. §-ával megállapított szöveg.

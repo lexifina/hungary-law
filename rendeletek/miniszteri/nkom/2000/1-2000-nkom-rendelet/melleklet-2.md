@@ -36,6 +36,6 @@
 
 ## és a gazdasági vezető aláírása
 
-2. számú melléklet az 1/2000. (I. 14.) NKÖM rendelethez[^32]
+2. számú melléklet az 1/2000. (I. 14.) NKÖM rendelethez[^34]
 
-[^32]: A 2. számú mellékletet a 12/2002. (IV. 13.) NKÖM rendelet 8. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti melléklet számozását 3. számú mellékletre változtatva. A 2. számú melléklet a 25/2007. (IV. 24.) OKM rendelet 8. §-ával megállapított szöveg.
+[^34]: A 2. számú mellékletet a 12/2002. (IV. 13.) NKÖM rendelet 8. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti melléklet számozását 3. számú mellékletre változtatva. A 2. számú melléklet a 25/2007. (IV. 24.) OKM rendelet 8. §-ával megállapított szöveg.

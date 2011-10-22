@@ -1,39 +1,53 @@
 ## A szakmai továbbképzés tartalma
 
-6. § (1)[^13] A 2. § a) pontjában meghatározott szakmai továbbképzés programjainak elkészítésére, akkreditációjára a miniszter a Kulturális Közlönyben pályázati felhívást tesz közzé.
+6. §[^14] (1) A szakmai továbbképzési program akkreditálására irányuló kérelemnek (a továbbiakban: kérelem) tartalmaznia kell a szakmai továbbképzési program alábbi követelményeit:
 
-(2)[^14] A szakmai továbbképzési program akkreditációjának engedélyezési feltételeit, eljárási rendjét e rendelet 3. számú melléklete tartalmazza.
+a) a kérelmező adatai (neve, címe, besorolása, a szakmai továbbképzési program egyeztetésére kijelölt személy neve, címe, telefonszáma, e-mail címe),
 
-(3)[^15] A 2. § a) pontjában rögzített szakmai továbbképzési programok fogadása, akkreditációra előkészítése, az akkreditált programok, valamint azok öt évre szóló indítási engedélyének nyilvántartása, a fejlesztési javaslatok megvalósítása a miniszter feladata.
+b) a kérelmezőnek a felnőttképzést folytató intézmények nyilvántartásában szereplő nyilvántartási száma,
 
-(4)[^16] A 2. § a) pontjában meghatározott szakmai továbbképzési programok minősítésére, akkreditációjára, indításának engedélyezésére a miniszter 7-7 fős Muzeológiai, Könyvtári, Közművelődési, Levéltárosi, Műtárgyvédelmi Szakbizottságokat (a továbbiakban: szakbizottságok) bíz meg hétéves időtartamra. Az egyes szakbizottságokba négy tagot a miniszter delegál, további három tagot pedig megegyezés alapján az egyes területek reprezentatív szakmai és érdek-képviseleti szervei. A szakbizottság elnökét a tagok közül a miniszter nevezi ki.
+c) a szakmai továbbképzési program megnevezése, célja, célcsoportja: azoknak a munkaköröknek a megnevezése, amelyekben foglalkoztatottak számára javasolják a részvételt,
 
-(5)[^17] A szakbizottság értékeli az akkreditációra benyújtott szakmai továbbképzési programot, majd véleményezésre megküldi két külső szakértőnek. A szakbizottság minősíti a szakmai továbbképzési programot, ennek eredményeképpen azt jóváhagyja, hiánypótlásra visszaküldi vagy elutasítja. A jóváhagyó határozat alapján kiállított engedély öt évig érvényes. A döntésről a kérelmezőt a miniszter értesíti.
+d) a jelentkezés feltételei,
 
-(6) Az elutasított szakmai továbbképzési program alkotója nyolc napon belül fellebbezést nyújthat be az Országos Kulturális Továbbképzési Akkreditációs Bizottsághoz (a továbbiakban: OKTAB).
+e) a főbb tanulmányi területek és azok arányai,
 
-(7)[^18] Minden egyes akkreditált szakmai továbbképzés indításához a szakbizottságtól engedélyt kell kérni. Az akkreditált szakmai továbbképzés indításához szükséges engedélyezési feltételeket e rendelet 3. számú melléklete tartalmazza. A követelményeknek megfelelő képző szervezet számára a szakbizottságok öt évre engedélyezik az akkreditált szakmai továbbképzések indítását. A minisztérium által megbízott szakfelügyelők ellenőrzik az indítási engedélyben foglalt követelmények létét, folyamatos érvényesülését. Hiányosság, színvonalromlás esetén a szakbizottságok felszólítják a képzés szervezőjét a követelmények betartására, ismétlődés esetén az indítási engedélyt megvonják.
+f) a szakmai és vizsgáztatási követelmények,
 
-(8) Az akkreditált szakmai továbbképzési programra engedéllyel rendelkező szervezet – az engedély időtartama alatt – a tanulmányi kötelezettségek, vizsgakövetelmények teljesítését, a szakmai továbbképzés sikeres befejezését tanúsítvány kiadásával igazolja. A tanúsítvány kötelező adatait a melléklet tartalmazza.
+g) a szakmai továbbképzési program teljes óraszáma, ami minimum 30 óra,
 
-(9)[^19]
+h) a szakmai továbbképzési program tartalmára vonatkozó részletes információk:
 
-(10) A hazai nemzeti, etnikai, kisebbségi szakmai továbbképzési program minősítéséhez a szakbizottságok megkérik az érintett országos kisebbségi önkormányzat szakmai állásfoglalását.
+ha) a szakmai továbbképzési program teljesítése során megszerezhető kompetenciák,
 
-(11) Nem működhet közre az akkreditációs eljárásban, illetve a szakmai továbbképzés indítási engedélyének kiadásával összefüggő eljárásban érdekelt személy, így különösen:
+hb) a szakmai továbbképzési program részletes tematikája és hálóterve,
 
-a) a szakmai továbbképzési program készítője,
+hc) a képzés módszerei és formája,
 
-b) a Ptk. 685. § b) pont alapján a kérelmező közeli hozzátartozója,
+hd) a szakmai továbbképzési program teljesítésének formai és tartalmi követelményei,
 
-c) a szakmai továbbképzés szervezője, annak képviselője,
+he) a kötelező és ajánlott szakirodalom jegyzéke,
 
-d) aki a szakmai továbbképzés szervezőjével munkaviszonyban, illetve közalkalmazotti jogviszonyban áll.
+hf) a teljes program lebonyolításához szükséges tárgyi és személyi feltételek meghatározása, ezen belül az oktatókkal szemben támasztott szakmai követelmények meghatározása is,
 
-[^13]: A 6. § (1) bekezdése a 25/2007. (IV. 24.) OKM rendelet 9. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^14]: A 6. § (2) bekezdése a 12/2002. (IV. 13.) NKÖM rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^15]: A 6. § (3) bekezdése a 25/2007. (IV. 24.) OKM rendelet 9. § (4) bekezdésének e) pontja szerint módosított szöveg.
-[^16]: A 6. § (4) bekezdése a 25/2007. (IV. 24.) OKM rendelet 4. §-ával megállapított szöveg.
-[^17]: A 6. § (5) bekezdés első mondata a 12/2002. (IV. 13.) NKÖM rendelet 4. §-ával megállapított, negyedik mondata a 25/2007. (IV. 24.) OKM rendelet 9. § (4) bekezdésének f) pontja szerint módosított szöveg.
-[^18]: A 6. § (7) bekezdése a 12/2002. (IV. 13.) NKÖM rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^19]: A 6. § (9) bekezdését a 25/2007. (IV. 24.) OKM rendelet 9. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+hg) a szakmai továbbképzési programon elsajátítottak ellenőrzési és értékelési módjának megnevezése, leírása,
+
+i) a szakmai továbbképzési program során indítható csoport létszáma,
+
+j) minőségbiztosítási kötelezettségek: a résztvevők elégedettségére, a képzés megvalósulására, valamint eredményességére vonatkozó információgyűjtés eljárása, a visszajelzések feldolgozásának és hasznosításának módja,
+
+k) a szakmai továbbképzési programon való részvétel egy főre kalkulált alapköltsége,
+
+l) a kérelmező cégszerű aláírása.
+
+(2) A szakmai továbbképzési programon való részvétel óráinak (1) bekezdés g) pontja szerinti meghatározásakor az elméleti, gyakorlati képzésben való részvételhez, a konzultációhoz, beszámoláshoz, a vizsgára való felkészüléshez szükséges összes órát 45 perces tanórák alapján kell figyelembe venni.
+
+(3) A kérelemhez az alábbi dokumentumokat kell mellékelni:
+
+a) az igazgatási szolgáltatási díj megfizetéséről szóló igazolás,
+
+b) amennyiben van, a korábban már akkreditált program felhasználási jogosultságát igazoló dokumentum másolata.
+
+(4) A kérelemhez szükséges adatlapot a miniszter a kormányzati portálon rendszeresíti.
+
+[^14]: A 6. § az 56/2011. (IX. 22.) NEFMI rendelet 5. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-11. §[^23] (1) A kulturális szakemberek képzéséhez a központi költségvetés továbbképzési támogatást nyújt, amelynek fedezetét a kulturális törvény 92. §-ának (2) bekezdése alapján a minisztérium saját költségvetési fejezetén belül biztosítja.
+11. §[^22] (1) A kulturális szakemberek képzéséhez a központi költségvetés továbbképzési támogatást nyújt, amelynek fedezetét a kulturális törvény 92. §-ának (2) bekezdése alapján a minisztérium saját költségvetési fejezetén belül biztosítja.
 
 (2) A továbbképzési támogatást a kulturális intézmény a továbbképzési időszak első évében április 1-jén érvényes, fenntartó által engedélyezett állományi létszáma (a továbbiakban: létszámkeret) alapján igényelheti a fenntartójánál az 1. számú melléklet szerinti igénylőlapon a továbbképzési időszak első évében május 30-ig.
 
@@ -14,4 +14,7 @@
 
 (8) A minisztérium felügyelete alá tartozó kulturális intézmények számára nyújtott továbbképzési támogatást az intézmények éves költségvetése tartalmazza.
 
-[^23]: A 11. § a 25/2007. (IV. 24.) OKM rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 9. § (2) bekezdését.
+(9)[^23] A kulturális szakemberek szervezett képzésébe beszámítanak mindazok a képzési formák is, amelyek az Európai Unió által finanszírozott, és a kulturális szakemberek továbbképzésének fejlesztését segítő pályázatok eredményeként valósulnak meg és a rendelet egyéb feltételeinek megfelelnek.
+
+[^22]: A 11. § a 25/2007. (IV. 24.) OKM rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 9. § (2) bekezdését.
+[^23]: A 11. § (9) bekezdését az 56/2011. (IX. 22.) NEFMI rendelet 11. §-a iktatta be.
