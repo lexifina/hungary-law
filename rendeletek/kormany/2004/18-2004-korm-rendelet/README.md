@@ -1,9 +1,0 @@
-# 18/2004. (II. 13.) Korm. rendelet
-
-a biztosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alól való mentesítéséről
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-18-20-22
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2008-05-16 | 2004-18-20-22.2 | 18/2004. (II. 13.) Korm. rendelet |
