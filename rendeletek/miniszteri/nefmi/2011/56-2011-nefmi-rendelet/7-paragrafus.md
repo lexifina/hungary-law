@@ -1,3 +1,0 @@
-## 6. § A rendelet a következő 6/A. §-sal egészül ki:
-
-## „6/A. § A miniszter kilenc-kilenc fős Muzeológiai, Műtárgyvédelmi, Könyvtári, Közművelődési, Levéltári, Kép-, illetve Hangarchívumi Szakbizottságot (a továbbiakban: szakbizottság) bíz meg. Az egyes szakbizottságokba négy tagot a miniszter hét évre delegál, három tagot megegyezés alapján az egyes területek reprezentatív szakmai és érdek-képviseleti szervei hét évre delegálnak. A szakbizottság további két tagját a miniszter a kulturális szakértők közül esetenként bíz meg. A szakbizottság elnökét a hét évre delegált tagok közül a miniszter nevezi ki.”
