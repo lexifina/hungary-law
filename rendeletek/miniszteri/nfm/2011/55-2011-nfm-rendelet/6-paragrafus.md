@@ -1,0 +1,5 @@
+## 5. § Az R. 10. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(8) A járdán, valamint a gyalog- és kerékpárúton végzett munkával elfoglalt területet, valamint a járdán, továbbá a gyalog- és kerékpárúton lévő – a közlekedés biztonságát veszélyeztető – akadályt el kell keríteni és arra a gyalogosok és kerékpárosok figyelmét veszélyt jelző táblákkal fel kell hívni. Amennyiben a járdát, valamint a gyalog- és kerékpárutat teljes szélességben le kell zárni, a gyalogosok és kerékpárosok közlekedésének céljára az úttest szélén legalább egy gyalogos közlekedésére alkalmas sávot kell kialakítani, vagy a gyalogosok és kerékpárosok biztonságos közlekedését más módon lehetővé kell tenni.
+
+## (9) Az út- vagy közműépítési, fenntartási, köztisztasági, mérési, ellenőrzési vagy más hasonló munkát végző gazdálkodó szervezet köteles gondoskodni arról, hogy az úton vagy annak közvetlen közelében munkát végző dolgozója feltűnő, – fényvisszavető felületet tartalmazó – narancssárga-piros színű védőmellényt viseljen.”
