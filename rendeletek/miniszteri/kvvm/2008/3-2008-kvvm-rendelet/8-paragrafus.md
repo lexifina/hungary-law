@@ -8,6 +8,8 @@
 
 (3) Az e rendelet hatálybalépése előtt létesített védett természeti területen lévő erdő esetében a terület első természetvédelmi kezelési tervének hatálybalépésekor érvényes – a miniszter egyetértésével megállapított – körzeti erdőtervben foglaltak az erdőterv érvényességének végéig természetvédelmi kezelési tervnek tekintendők.
 
+(4)[^1] Az e rendelet hatálybalépése előtt létesített védett természeti területen lévő erdőre vonatkozó, a terület első természetvédelmi kezelési tervének kihirdetésekor hatályos, az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény végrehajtására kiadott erdőtervrendeletben foglalt körzeti erdőtervezési alapelveket és erdőgazdálkodási egyedi szabályokat figyelembe véve kell a természetvédelmi kezelési tervben foglaltakat alkalmazni.
+
 Melléklet a 3/2008. (II. 5.) KvVM rendelethez
 
 A természetvédelmi kezelési terv tartalmi követelményei
@@ -97,3 +99,5 @@ Művelés alól kivett területek kezelése
 A tervezési területen található természeti, táji értékek megőrzésére, fenntartására vonatkozó olyan természetvédelmi kezelési módok, korlátozások és tilalmak tömör, közérthető megfogalmazása, amelyek a tervezési területen található, külön jogszabályban meghatározott kivett művelési ágú területekhez köthetők, illetve az ott végzett tevékenységekre értelmezhetők.
 
 A tervezési területen található beépített, illetve beépítésre szánt területek természeti és táji, településképi, településszerkezeti, zöldfelületi értékeinek megőrzésére, fenntartására vonatkozó olyan természetvédelmi, tájvédelmi kezelési módok, korlátozások és tilalmak is itt kerülnek meghatározásra, amelyek a beépített, beépítésre szánt területekre és az ott végzett tevékenységekre vonatkoznak.
+
+[^1]: A 8. § (4) bekezdését a 96/2011. (X. 17.) VM rendelet 14. §-a iktatta be.
