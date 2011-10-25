@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.) FVM rendelet (a továbbiakban: Tervezési rendelet) 2. számú mellékletében foglalt ütemezés szerint 2011. évre meghatározott erdőtervezési körzetek körzeti erdőtervezésére, valamint a körzeti erdőtervek alapján folytatott erdőgazdálkodásra terjed ki.
+
+(2) A körzeti erdőtervezésnek az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 31. § (1) bekezdésében foglaltak szerinti alapelveit, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodás szabályait erdőtervezési körzetenként az 1–15. mellékletekben foglaltak szerint állapítom meg.
