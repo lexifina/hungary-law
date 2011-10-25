@@ -64,4 +64,6 @@
 
 ## b) A tarvágásra jelölhető faállomány típusok meghatározása, kiemelt figyelemmel az őshonos fafajú erdőkre (hazai nyár, hazai fűz, éger)
 
-4. számú melléklet a 11/2010. (II. 4.) FVM rendelethez
+4–6. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^17]
+
+[^17]: A 4–6. mellékletet a 96/2011. (X. 17.) VM rendelet 15. § (1) bekezdés e) pontja hatályon kívül helyezte.

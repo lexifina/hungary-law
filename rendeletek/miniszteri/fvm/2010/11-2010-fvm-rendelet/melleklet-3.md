@@ -1,4 +1,4 @@
-## A körzeti erdőtervek készítésének 2021. december 31-ig szóló ütemterve
+## A körzeti erdőtervek készítésének 2020. december 31-ig szóló ütemterve
 
 | Erdőtervezés éve | Erdőtervezési körzetek |
 
@@ -20,7 +20,7 @@
 
 | Kab-hegyi |
 
-| Kanizsai |
+| Nagykanizsai |
 
 | Kaszói |
 
@@ -38,7 +38,7 @@
 
 | Gömöri |
 
-| Kelet-Keszthelyi |
+| Keszthelyi-hegység |
 
 | Kemenesi cser |
 
@@ -270,7 +270,7 @@
 
 | Alsó-Hegyközi |
 
-| Bajcsai |
+| Surdi |
 
 | Baktalórántházai |
 
@@ -290,7 +290,7 @@
 
 | Nagybátonyi |
 
-| Nyugat-Keszthelyi |
+| Keszthelyi |
 
 | Nyugat-Zselic |
 

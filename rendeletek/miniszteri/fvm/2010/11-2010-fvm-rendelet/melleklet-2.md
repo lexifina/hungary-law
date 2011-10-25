@@ -2,7 +2,7 @@
 
 ## Erdőtervezési körzet    Helységek és kódjaik
 
-## 01 Fővárosi és Pest Megyei MgSzH Erdészeti Igazgatósága
+## 01 Fővárosi és Pest Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Alsó-Tápió-vidéki
 
@@ -139,6 +139,8 @@
 | Mende | (5638) |
 
 | Monor | (5624) |
+
+| Monorierdő | (5646) |
 
 | Nyáregyháza | (5625) |
 
@@ -282,75 +284,77 @@
 
 | Vértesszőlős | (4555) |
 
+## Gödöllői
+
+| Acsa (5515) |
+
+| Aszód (5516) |
+
+| Csomád (5501) |
+
+| Csömör (5502) |
+
+| Domony (5503) |
+
+| Dunakeszi (5504) |
+
+| Erdőkertes (5505) |
+
+| Fót (5507) |
+
+| Galgagyörk (5517) |
+
+| Galgamácsa (5518) |
+
+| Göd (5901) |
+
+| Gödöllő (5508) |
+
+| Iklad (5519) |
+
+| Kartal (5520) |
+
+| Kerepes (5509) |
+
+| Kistarcsa (5510) |
+
+| Mogyoród (5511) |
+
+| Nagytarcsa (5535) |
+
+| Őrbottyán (5903) |
+
+| Szada (5512) |
+
+| Vácegres (5523) |
+
+| Váckisújfalu (5524) |
+
+| Veresegyház (5514) |
+
+| Verseg (5525) |
+
 ## Gödöllői-dombság
 
-| Acsa | (5515) |
+| Bag (5526) |
 
-| Aszód | (5516) |
+| Dány (5533) |
 
-| Bag | (5526) |
+| Galgahévíz (5527) |
 
-| Csomád | (5501) |
+| Hévízgyörk (5528) |
 
-| Csömör | (5502) |
+| Isaszeg (5534) |
 
-| Dány | (5533) |
+| Pécel (5536) |
 
-| Domony | (5503) |
+| Tura (5529) |
 
-| Dunakeszi | (5504) |
+| Vácszentlászló (5531) |
 
-| Erdőkertes | (5505) |
+| Valkó (5530) |
 
-| Fót | (5507) |
-
-| Galgagyörk | (5517) |
-
-| Galgahévíz | (5527) |
-
-| Galgamácsa | (5518) |
-
-| Göd | (5901) |
-
-| Gödöllő | (5508) |
-
-| Hévízgyörk | (5528) |
-
-| Iklad | (5519) |
-
-| Isaszeg | (5534) |
-
-| Kartal | (5520) |
-
-| Kerepes | (5509) |
-
-| Kistarcsa | (5510) |
-
-| Mogyoród | (5511) |
-
-| Nagytarcsa | (5535) |
-
-| Őrbottyán | (5903) |
-
-| Pécel | (5536) |
-
-| Szada | (5512) |
-
-| Tura | (5529) |
-
-| Vácegres | (5523) |
-
-| Váckisújfalu | (5524) |
-
-| Vácszentlászló | (5531) |
-
-| Valkó | (5530) |
-
-| Veresegyház | (5514) |
-
-| Verseg | (5525) |
-
-| Zsámbok | (5532) |
+| Zsámbok (5532) |
 
 ## Mezőföldi
 
@@ -760,7 +764,7 @@
 
 | Szigetmonostor | (5550) |
 
-## 02 Veszprém Megyei MgSzH Erdészeti Igazgatósága
+## 02 Veszprém Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Bakonyszentlászlói
 
@@ -1014,7 +1018,11 @@
 
 | Bazsi | (8635) |
 
+| Cserszegtomaj | (9408) |
+
 | Gyenesdiás | (9402) |
+
+| Keszthely | (9412) |
 
 | Lesencefalu | (8617) |
 
@@ -1280,7 +1288,7 @@
 
 | Zirc | (8522) |
 
-## 03 Vas Megyei MgSzH Erdészeti Igazgatósága
+## 03 Vas Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Alpokaljai
 
@@ -1605,6 +1613,8 @@
 | Szentgotthárd-Máriaújfalu | (8203) |
 
 | Szentgotthárd-Rábafüzes | (8206) |
+
+| Szentgotthárd-Rábatótfalu | (8208) |
 
 | Vasszentmihály | (8213) |
 
@@ -2100,11 +2110,9 @@
 
 | Szakonyfalu | (8211) |
 
-| Szentgotthárd-Rábatótfalu | (8208) |
+## 04 Zala Megyei Kormányhivatal Erdészeti Igazgatósága
 
-## 04 Zala Megyei MgSzH Erdészeti Igazgatósága
-
-## Bajcsai
+## Surdi
 
 | Belezna | (9218) |
 
@@ -2210,7 +2218,7 @@
 
 | Várfölde | (9177) |
 
-## Kanizsai
+## Nagykanizsai
 
 | Bocska | (9195) |
 
@@ -2260,8 +2268,6 @@
 
 | Alsópáhok | (9407) |
 
-| Cserszegtomaj | (9408) |
-
 | Döbröce | (9419) |
 
 | Felsőpáhok | (9409) |
@@ -2269,8 +2275,6 @@
 | Hévíz | (9410) |
 
 | Karmacs | (9411) |
-
-| Keszthely | (9412) |
 
 | Kisgörbő | (9420) |
 
@@ -2644,7 +2648,7 @@
 
 | Zalavár | (9418) |
 
-## 05 Somogy Megyei MgSzH Erdészeti Igazgatósága
+## 05 Somogy Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Barcsi
 
@@ -3180,7 +3184,7 @@
 
 | Zics | (6091) |
 
-## 06 Baranya Megyei MgSzH Erdészeti Igazgatósága
+## 06 Baranya Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Bátaszék-Bonyhádi
 
@@ -4038,7 +4042,7 @@
 
 | Villánykövesd | (189) |
 
-## 07 Bács-Kiskun Megyei MgSzH Erdészeti Igazgatósága
+## 07 Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Alsó-Duna-menti
 
@@ -4576,7 +4580,7 @@
 
 | Újszentiván | (2051) |
 
-## 08 Hajdú-Bihar Megyei MgSzH Erdészeti Igazgatósága
+## 08 Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Baktalórántházai
 
@@ -5378,7 +5382,7 @@
 
 | Zagyvarékas | (7048) |
 
-## 09 Borsod-Abaúj-Zemplén Megyei MgSzH Erdészeti Igazgatósága
+## 09 Borsod-Abaúj-Zemplén Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Alsó-Hegyközi
 
@@ -6106,7 +6110,7 @@
 
 | Varbóc | (1724) |
 
-## 10 Heves Megyei MgSzH Erdészeti Igazgatósága
+## 10 Heves Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Berceli
 
@@ -6218,8 +6222,6 @@
 
 | Tard | (1844) |
 
-## Gödöllői
-
 ## Gyöngyössolymosi
 
 | Abasár | (4107) |
@@ -6237,6 +6239,8 @@
 | Gyöngyöstarján | (4114) |
 
 | Mátraszentimre | (4110) |
+
+| Pálosvörösmart | (4120) |
 
 | Szűcsi | (4117) |
 
@@ -6295,6 +6299,8 @@
 | Kápolna | (4081) |
 
 | Karácsond | (4079) |
+
+| Kerekharaszt | (4401) |
 
 | Kompolt | (4085) |
 
@@ -6614,7 +6620,7 @@
 
 | Salgótarján-Somoskő | (5038) |
 
-| Salgótarján-Somoskőújfalu | (5039) |
+| Somoskőújfalu | (5039) |
 
 | Salgótarján-Zagyvaróna | (5040) |
 
@@ -6754,4 +6760,6 @@
 
 | Verpelét | (4102) |
 
-2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez
+2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^16]
+
+[^16]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a szerint módosított szöveg.
