@@ -1,3 +1,5 @@
+## 20. §[^19]
+
 ## TÉRKÉPÉSZETI TEVÉKENYSÉG
 
 ## Az erdészeti térképezés célja és általános elvei
@@ -17,3 +19,5 @@ b) a bejelentett munkához az állami alapadatokat kötelező használni,
 c) a földmérési és térképészeti tevékenységet e rendeletben foglaltak alapján kell végezni, figyelemmel a földmérésről és a térképészetről szóló külön jogszabályokban foglalt rendelkezések alkalmazására is.
 
 (3) A térképészeti munkával előállított erdészeti üzemi térkép állam- és szolgálati titkot nem tartalmazhat, széles körű használatát titokvédelmi okok nem korlátozhatják.
+
+[^19]: A 20. §-t a 96/2011. (X. 17.) VM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

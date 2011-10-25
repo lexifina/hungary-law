@@ -1,4 +1,4 @@
-## 59–60. §[^43]
+## 59–60. §[^48]
 
 ## AZ ÉVES ERDŐGAZDÁLKODÁSI MUNKÁK ELLENŐRZÉSE ÉS ÉRTÉKELÉSE
 
@@ -14,4 +14,4 @@
 
 (5) Az erdőfelújítások és az erdőtelepítések műszaki átvételének Adattárban történő átvezetése évenként október 31-éig, a fahasználatok átvételének átvezetése pedig a folyó évet követő január hó 31-éig szükséges.
 
-[^43]: Az 59–60. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyzte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.
+[^48]: Az 59–60. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyzte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.

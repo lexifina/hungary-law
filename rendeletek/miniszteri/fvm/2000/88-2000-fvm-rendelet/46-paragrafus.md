@@ -1,4 +1,4 @@
-## 45. §[^31]
+## 45. §[^36]
 
 ## V.
 
@@ -6,4 +6,4 @@
 
 ## AZ ÜZEMTERV KÉSZÍTÉSÉNEK ÁLTALÁNOS SZABÁLYAI
 
-[^31]: A 45. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.
+[^36]: A 45. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.
