@@ -1,0 +1,1 @@
+43. § Az oktatásért felelős miniszter alap- és mesterképzések képzési és kimeneti követelményeit megállapító rendelete a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az illetékes felügyeletet gyakorló miniszter egyetértésével adható ki.
