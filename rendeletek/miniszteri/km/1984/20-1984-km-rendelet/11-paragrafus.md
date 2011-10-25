@@ -12,6 +12,9 @@ a) a KRESZ-ben, illetve a közúti jelzések szabványaiban nem említett közú
 
 b) egymásnak ellentmondó közúti jelzések (közúti jelzőtábla és jelzőtábla, jelzőtábla és útburkolati jel, fényjelzőkészülék és jelzőtábla vagy útburkolati jel és forgalomirányító fényjelzőkészülék fényjelzése) együttes alkalmazása.
 
-(4)[^43] A (3) bekezdés a) pontjában említett tilalom nem vonatkozik az üzemek megközelítését jelző táblákra, az „Egyéb veszély” közúti jelzőtábla alatt a veszély jellegére utaló, valamint azokra a kiegészítő jelzőtáblákra és közúti jelzésekre, amelyeket a közlekedésért felelős miniszter engedélyez.
+(4)[^36] A (3) bekezdés a) pontjában említett tilalom nem vonatkozik az „Egyéb veszély” közúti jelzőtábla alatt a veszély jellegére utaló, valamint azokra a kiegészítő jelzőtáblákra és közúti jelzésekre, amelyeket a közlekedésért felelős miniszter engedélyez.
 
-[^43]: A 11. § (4) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 4. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+(5)[^37] A közúti közlekedésről szóló 1988. évi I. törvény 20. § (11) bekezdésében meghatározott ellenőrző hatóságok, az ellenőrzés helyén és annak 200 méteres körzetében, az ellenőrzés időtartalmára ideiglenesen, – az autópályák és az autóutak esetében a közút kezelőjével közösen, egyéb esetben önállóan – utasítást adó jelzőtáblákat és előjelző táblákat helyezhet el a forgalom irányítására.
+
+[^36]: A 11. § (4) bekezdése az 55/2011. (X. 24.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: A 11. § (5) bekezdését az 55/2011. (X. 24.) NFM rendelet 7. § (2) bekezdése iktatta be.

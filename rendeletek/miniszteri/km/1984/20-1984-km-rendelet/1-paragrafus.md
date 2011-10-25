@@ -18,25 +18,11 @@ b)[^4] területi közlekedési hatóság: a Nemzeti Közlekedési Hatóság regi
 
 (4)[^5]
 
-(5)[^6] Ahol a rendelet
-
-a) helyi (községi, városi, megyei városi, fővárosi kerületi) tanács végrehajtó bizottságát említi, azon a települési önkormányzat képviselőtestületét,
-
-b) tanácsi közutat említ, azon helyi közutat,
-
-c) közforgalomra megnyitott saját használatú utat említ, azon a közforgalom elől el nem zárt magánutat,
-
-d) kiépített átkelőhelyet vagy gyalogos vasúti átjárót említ, azon vasúti gyalogos-átkelőhelyet,
-
-e) mértékadó járműforgalmat említ, azon mértékadó vasúti átjáró forgalmat,
-
-f) mértékadó gyalogosforgalmat említ, azon mértékadó vasúti gyalogos-átkelőhely forgalmat
-
-kell érteni,
+(5)[^6]
 
 [^1]: Az 1. § (1) és (3) bekezdése a 2/1999. ( I.10.) KHVM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 18/2003. (IV. 9.) GKM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (3) bekezdésének a) pontja a 4/2008. (VI. 3.) KHEM rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (3) bekezdésének b) pontja a 95/2006. (XII. 27.) GKM rendelet 8. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § (4) bekezdését a 2/1999. (I. 18.) KHVM rendelet 10. §-ának (1) bekezdése hatályon kívül helyezte.
-[^6]: Az 1.§ (5) bekezdése a 94/1991. (VII.23.) Korm. rendelet 6.§ (2) bekezdésének a) pontjával, valamint a 2/1999. ( I. 18.) KHVM rendelet 2. §-ával kiegészített szöveg.
+[^6]: Az 1. § (5) bekezdését az 55/2011. (X. 24.) NFM rendelet 10. § a) pontja hatályon kívül helyezte.

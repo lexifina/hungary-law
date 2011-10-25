@@ -1,8 +1,8 @@
-17. §[^56]
+17. §[^51]
 
-Melléklet a 20/1984. (XII. 21.) KM rendelethez:[^57]
+Melléklet a 20/1984. (XII. 21.) KM rendelethez:[^52]
 
-Forgalomszabályozási műszaki szabályzat[^58]
+Forgalomszabályozási műszaki szabályzat[^53]
 
 I. fejezet
 
@@ -10,15 +10,15 @@ Az útburkolat hosszirányú felosztása
 
 1. Az útburkolat hosszirányú felosztása
 
-1.1[^59]
+1.1[^54]
 
-1.2[^60]
+1.2[^55]
 
-1.3[^61]
+1.3[^56]
 
-1.4[^62]
+1.4[^57]
 
-1.5 [^63]
+1.5 [^58]
 
 1.6 Párhuzamos közlekedésre kijelölt úton a forgalmi sávok mellett biztosítható hely a várakozó járművek számára, illetve különleges forgalmi sávokra is.
 
@@ -26,15 +26,15 @@ Az útburkolat hosszirányú felosztása
 
 1.8 Az úttestet – vagy annak egyik oldalát – teljes szélességben párhuzamos közlekedésre kijelölni csak akkor szabad, ha a külső forgalmi sávokon (sávon) a megállást vagy a várakozást legalább időszakosan megtiltották. Kivétel ez alól az olyan osztottpályás út, ahol az egyes úttestek 2 forgalmi sáv szélességűek.
 
-1.9 [^64]
+1.9 [^59]
 
-1.10 [^65]
+1.10 [^60]
 
-1.11 [^66]
+1.11 [^61]
 
 1.12 Az olyan úton, ahol a KRESZ 155. és 156. sz. ábra szerinti útburkolati jellel jelölt várakozóhelyeknél kizárólag a be- és kiállást lehetővé tevő legalább 2 méter széles útburkolat felület áll rendelkezésre, azt leállósávnak kell tekinteni és azt a mellette levő forgalmi sávtól úttest szélét jelző folytonos vonallal kell elválasztani.
 
-1.13.[^67] Villamospályát forgalmi sávnak kijelölni abban az esetben szabad, ha a villamospálya erre alkalmas, és forgalmi sávként való használatát megfelelő jelzésekkel jelezték.
+1.13.[^62] Villamospályát forgalmi sávnak kijelölni abban az esetben szabad, ha a villamospálya erre alkalmas, és forgalmi sávként való használatát megfelelő jelzésekkel jelezték.
 
 II. fejezet
 
@@ -62,9 +62,9 @@ g) lakott területen átvezető – vagy ilyen területet érintő – szakasza 
 
 a) másik úttal való szintbeni kereszteződésében – ha a kanyarodás megengedett – a balra kanyarodó járművek részére minden esetben, a jobbra kanyarodó járművek részére lehetőség szerint külön útfelületet biztosítottak,
 
-b)[^68] kizárólag olyan út keresztezi, amelynek az autóúthoz csatlakozó része legalább 100 méter hosszban szilárd burkolattal van ellátva.
+b)[^63] kizárólag olyan út keresztezi, amelynek az autóúthoz csatlakozó része legalább 100 méter hosszban szilárd burkolattal van ellátva.
 
-2.3–2.14[^69]
+2.3–2.14[^64]
 
 2.15 Autópályán, osztottpályás autóúton az egyes forgalmi sávokra való továbbhaladás megtiltására a KRESZ 9. § (1) bekezdés e) pontban említett fényjelző készüléket lehet alkalmazni.
 
@@ -86,13 +86,13 @@ b)[^68] kizárólag olyan út keresztezi, amelynek az autóúthoz csatlakozó r�
 
 3.5 Ha két főútvonal – azonos szintben – keresztezné egymást, az egyik út főútvonal jellegét az útkereszteződés előtt meg kell szüntetni, a másik főútvonalat pedig az útkereszteződésen át kell vezetni.
 
-3.6–3.14[^70]
+3.6–3.14[^65]
 
 4. Főútvonalnak ki nem jelölt utak
 
 4.1 Főútvonalnak ki nem jelölt, de a környező utaknál nagyobb forgalmú, vagy úthálózati szempontból fontosabb szilárd burkolatú utak forgalmának elsőbbségét az útvonalon levő útkereszteződések külön- külön szabályozásával lehet biztosítani, az „Útkereszteződés alárendelt úttal” és „Elsőbbségadás kötelező” jelzőtáblák alkalmazásával.
 
-4.2–4.3[^71]
+4.2–4.3[^66]
 
 4.4 A 4.1 pontban említett szabályozás nem alkalmazható, ha az útkereszteződés geometriai kialakítása és kiépítettsége, valamint az alkalmazott közúti jelzőtáblák, útburkolati jelek, úttartozékok és környezeti elemek nem elégségesek annak kétséget kizáró közlésére, hogy az útkereszteződésben melyik irányból érkező járműnek van elsőbbsége.
 
@@ -122,79 +122,79 @@ a forgalmi rend úgy is kialakítható, hogy a forgalmi sávon (sávokon) a köz
 
 6.6 A külön e célra létesített várakozóhelyeket és az útnak nem minősülő, de járműforgalmat lebonyolító területet egyirányú forgalmú útnak kijelölni csak nagyon indokolt esetben és akkor szabad, ha az ebből fakadó félreérthetőség kiküszöbölhető. A járművek szembehaladását ilyen helyeken más közúti jelzésekkel (pl. kötelező haladási irányt jelző táblák, útburkolati jelek) lehet megakadályozni.
 
-6.7–6.10[^72]
+6.7–6.10[^67]
 
-6.11.[^73] Egyirányú forgalmú úton a megjelölt iránnyal szembeni haladásra a menetirány szerinti bal oldalon autóbusz-forgalmi sáv vagy kerékpársáv vagy kerékpáros által is használható autóbusz-forgalmi sáv alakítható ki ott, ahol tömegközlekedési vonal kijelölése, a tömegközlekedés előnyben részesítése, a kerékpározási igény vagy a kerékpáros hálózati elemek összekötése feltétlenül szükségessé teszi. A megjelölt iránnyal szemben kijelölt autóbusz-forgalmi sáv vagy kerékpársáv kialakítása esetén az ,,Egyirányú forgalmú út'' tábla (KRESZ 104. ábra) alatt kiegészítő táblát (KRESZ 105/a. ábra) kell elhelyezni, értelemszerűen alkalmazva a kerékpár, vagy a busz, vagy mindkét jelzési képet, a másik végénél pedig a ,,Behajtani tilos'' jelzőtábla (KRESZ 53. ábra) alatt kiegészítő táblát (KRESZ 59/a. ábra) kell elhelyezni a kivételt értelemszerűen mutató jelzési képpel.
+6.11.[^68] Egyirányú forgalmú úton a forgalom irányával szembeni haladásra a járműforgalom menetiránya szerinti bal oldalon autóbusz-forgalmi sáv vagy kerékpáros által is használható autóbusz-forgalmi sáv alakítható ki ott, ahol a tömegközlekedés előnyben részesítése ezt indokolja.
 
-6.12.[^74] A 6.11. pontban említett egyirányú forgalmú utat keresztező úton az útkereszteződésben a ,,Kötelező haladási irány'' jelzőtábla alatt a kivételezett jármű(vek) jelzési képét minden esetben el kell helyezni (KRESZ 18/d. ábra). Amennyiben a csomópontban valamely továbbhaladási irányt (irányokat) tiltó tábla korlátozza, az 59/a. ábra szerinti kiegészítő táblát kell alkalmazni.
+6.12.[^69] Egyirányú forgalmú úton kerékpárral az út forgalmi irányával szembeni haladás kerékpársáv kijelölésével is megengedhető.
 
-7. Körforgalom
+6.13.[^70] Az ellenirányú kerékpáros forgalom számára kerékpársáv akkor jelölhető ki, ha a kerékpársáv mellett legalább 2,75 m széles úttest áll rendelkezésre. Amennyiben az egyirányú utca menetiránya szerinti bal oldalán a járművek várakozása megengedett, a várakozó járműsor melletti biztonságos oldaltávolság is biztosítandó.
 
-7.1. A körforgalom olyan körbejárható egyirányú forgalmú út, amelyhez kettőnél több út csatlakozik.
+6.14.[^71] Ellenirányú kerékpározás kerékpársáv kijelölése nélkül akkor engedhető meg, ha a következő feltételek mindegyike teljesül:
 
-7.2. Körforgalmat úgy kell kialakítani, hogy
+a) az út nincs főútvonalnak kijelölve,
 
-a) az egyirányú forgalmú út által közbezárt terület minden irányból jól látható legyen,
+b) az úton nincsenek felfestéssel forgalmi sávok kijelölve és az út nem alkalmas párhuzamos közlekedésre,
 
-b) a közbezárt területen balesetveszélyt jelentő, illetőleg a járműveknek a körforgalomba való becsatlakozásához szükséges látótávolságot zavaró építmény vagy növényzet ne legyen.
+c) az út bármely pontján az egymással szemben haladó járművek vezetői legalább 70 méterről (30 km/h megengedett sebesség esetében legalább 50 méterről) folyamatosan jól láthatják egymást,
 
-7.3.[^75]
+d) az úton legalább 4,00 m (30 km/h megengedett sebesség esetében 3,75 m) járható szélesség áll rendelkezésre, vagy az úton a mértékadó óraforgalom (MOF) a 200 jármű/óra értéket nem haladja meg, és vannak kitérési lehetőségek.
 
-8. Kerékpárutak, gyalogutak
+6.15.[^72] A 6.11–6.14. pontban foglalt forgalomszabályozás esetében az „Egyirányú forgalmú út” jelzőtábla (KRESZ 104. ábra) alatt kiegészítő táblát (KRESZ 105/a. ábra) kell elhelyezni, értelemszerűen alkalmazva a kerékpár vagy a busz, vagy mindkét jelzési képet, a másik végénél pedig a „Behajtani tilos” jelzőtábla (KRESZ 53. ábra) alatt kiegészítő táblát (KRESZ 59/a. ábra) kell elhelyezni a kivételt értelemszerűen mutató jelzési képpel. Az ilyen utat keresztező utakon az útkereszteződésekben a „Kötelező haladási irány” jelzőtábla alatt a kivételezett jármű(vek) jelzési képét minden esetben el kell helyezni (KRESZ 18/d. ábra). Amennyiben a csomópontban valamely továbbhaladási irányt (irányokat) tiltó tábla korlátozza, az 59/a. ábra szerinti kiegészítő táblát kell alkalmazni.
 
-8.1[^76] Kerékpárútnak az e célra kiépített utat vagy az útnak a gépjárművek közlekedésére szolgáló részétől kiemelt szegéllyel, korláttal, növényzettel, zöldsávval vagy más térelválasztó elemekkel, ezek hiányában legalább 60 cm széles forgalom elől elzárt területtel elválasztott részét lehet kijelölni. A forgalom elől elzárt területtel történt elválasztás esetében minden útkereszteződésnél és gyalogos-átkelőhelynél kiemelt szegélyű szigettel kell biztosítani az elválasztást.
+7.[^73] Körforgalom
 
-8.2–8.3[^77]
+7.1. Lakott területen kívül, első- és másodrendű főutak egymással, vagy gyorsforgalmi út csomóponti ágával kialakított 4 ágú körforgalomhoz további ág létesítése nem engedhető meg.
 
-8.4 Gyalogútnak kiépített, kizárólag a gyalogosok közlekedésére fenntartott önálló utat lehet kijelölni.
+7.2. Lakott területen kívül további útcsatlakozás vagy útkereszteződés a körpálya szélétől számított 100 méteren belül nem létesíthető, kivéve a közút kezelő egyetértésével az alábbiak:
 
-8.5.[^78] Járdát sem gyalogútnak sem kerékpárútnak kijelölni nem szabad. A járdán kijelölt kerékpárutat a széleit jelző folytonos sárga színű útburkolati jellel vagy eltérő színű, illetve anyagú burkolattal kell jelölni.
+a) földút, szervizút keresztezése,
 
-8.6. Gyalog- és kerékpárútnak olyan gyalogutat vagy kerékpárutat szabad kijelölni, amelynek szélessége elegendő a gyalogosok és kerékpárosok egyidejű, biztonságos közlekedésére.
+b) közforgalomra nem megnyitott, közvetlen ingatlan kiszolgálás,
 
-8.7[^79]
+c) közúti üzemmel kapcsolatos létesítmény jobbra kisíves csatlakozása.
 
-8.8.[^80] A gyalogút és a gyalog- és kerékpárút forgalma úgy is szabályozható, hogy
+7.3. Lakott területen kívül legfeljebb 5 ágú körforgalom létesíthető.
 
-– naponta legfeljebb kétszer, esetenként legfeljebb kétórás időszakra, vagy
+7.4. A körpályán 60 m-nél nagyobb sugarú íven való áthaladást a körforgalom geometriai kialakításával, többsávos körforgalom esetében forgalomtechnikai elemekkel meg kell akadályozni.
 
-– éjszakai időtartamra,
+8.[^74] Kerékpárutak, gyalogutak
+
+8.1. Kerékpárútnak az e célra kiépített utat vagy az útnak a gépjárművek közlekedésére szolgáló részétől kiemelt szegéllyel, korláttal, növényzettel, zöldsávval vagy más térelválasztó elemekkel, ezek hiányában legalább 75 cm széles forgalom elől elzárt területtel elválasztott részét lehet kijelölni. A forgalom elől elzárt területtel történt elválasztás esetében minden útkereszteződésnél és gyalogos-átkelőhelynél kiemelt szegélyű szigettel kell biztosítani az elválasztást.
+
+8.2. Gyalog- és kerékpárútnak olyan utat szabad kijelölni, amely megfelel a 8.1. pontban foglaltaknak, és szélessége elegendő a gyalogosok és kerékpárosok egyidejű, biztonságos közlekedésére.
+
+8.3. Gyalog- és kerékpárutat elválasztás nélküli kivitelben (KRESZ 26/g. ábra) ott szabad kijelölni, ahol a csúcsidei kétirányú órás gyalogosforgalom és a csúcsidei kétirányú órás kerékpáros forgalom szorzata nem haladja meg a 20 000-t. Egyéb esetben elválasztott gyalog- és kerékpárút (KRESZ 26/f. ábra) alkalmazandó.
+
+8.4. Elválasztott gyalog- és kerékpárúton a gyalogosok és a kerékpárosok közlekedésére szolgáló felületeket burkolati jelekkel (piktogramok és elválasztó vonal) kell jelezni, eltérő színű vagy eltérő anyagú felülettel vagy szintkülönbséggel kell kialakítani. Ha a gyalogos és kerékpáros forgalom együttes nagysága nem haladja meg a 8.3. pontban foglalt értéket, akkor a piktogramok használata mellett az elválasztás csak felfestéssel is megengedett.
+
+8.5. A gyalogút és a gyalog- és kerékpárút forgalma úgy is szabályozható, hogy
+
+a) naponta legfeljebb kétszer, esetenként legfeljebb kétórás időszakra, vagy
+
+b) éjszakai időtartamra
 
 más járművek az útra behajthassanak.
 
-8.9.[^81]
+9.[^75] Különleges forgalmi sávok
 
-9. Különleges forgalmi sávok
+9.1. Autóbusz-forgalmi sávot olyan úton lehet kijelölni, ahol az úton az autóbusz-forgalmi sáv mellett legalább egy, az autóbuszsáv forgalmával egyező irányú forgalmi sáv van, vagy az ellentétes irányú forgalmi sáv(ok)tól az autóbuszforgalmi sáv kettős záróvonallal el van választva.
 
-9.1[^82] Autóbusz-forgalmi sávot olyan úton lehet kijelölni, ahol az úton az autóbusz-forgalmi sáv mellett legalább egy, az autóbuszsáv forgalmával egyező irányú forgalmi sáv van, vagy az ellentétes irányú forgalmi sáv(ok)tól az autóbusz-forgalmi sáv kettős záróvonallal el van választva.
+9.2. Meglévő forgalmi sáv autóbuszsávnak akkor jelölhető ki, ha csúcsidőben óránként legalább 10 autóbusz áthaladása jellemző, vagy ha csúcsidőben óránként 10-nél kevesebb autóbusz áthaladása jellemző, de az útvonal legszűkebb kapacitású keresztmetszetében a kapacitás a kijelölés következtében nem csökken.
 
-9.2[^83]
+9.3. Autóbusz forgalmi sáv forgalma forgalomirányító fényjelző készülékkel irányított útkereszteződésben önálló fényjelző készülékkel [KRESZ 9. § (6) bekezdése] is irányítható.
 
-9.3[^84]
+9.4. Kapaszkodósávot olyan emelkedőben lévő útszakaszon lehet kijelölni, ahol a kapaszkodósáv mellett az úton legalább egy, a kapaszkodósáv irányával azonos irányú forgalmi sáv van.
 
-9.4 Kapaszkodósávot olyan emelkedőben levő útszakaszon lehet kijelölni, ahol a kapaszkodósáv mellett az úton legalább egy, a kapaszkodósáv irányával azonos irányú forgalmi sáv van.
+9.5. A kapaszkodósávval rendelkező úton lévő útkereszteződéseken a kapaszkodósávot keresztül kell vezetni.
 
-9.5 A kapaszkodósávval rendelkező úton levő útkereszteződéseken a kapaszkodósávot keresztül kell vezetni.
+9.6. Kerékpársávot – mellette lévő forgalmi sáv irányával azonos irányú kerékpáros forgalom számára – olyan lakott területen lévő úton lehet kijelölni, ahol a forgalmi sávok mellett erre a célra legalább 1,25 méter széles burkolt útfelület áll rendelkezésre.
 
-9.6[^85]
+9.7. Nyitott kerékpársávot olyan lakott területen lévő, 50 km/h-nál nem nagyobb megengedett sebességű úton lehet kijelölni, ahol kerékpársáv kijelölése lenne indokolt, de a rendelkezésre álló hely azt nem teszi lehetővé, és ahol a teherforgalom aránya nem számottevő.
 
-9.7[^86]
+9.8. Autóbuszsávban kerékpáros közlekedés akkor engedhető meg, ha az autóbuszsáv szélessége eléri a 4,25 m szélességet vagy a csúcsidei autóbusz forgalom kisebb, mint 30 autóbusz/óra.
 
-9.8[^87]
-
-9.9 Kerékpársávot olyan lakott területen levő úton lehet kijelölni, ahol a forgalmi sávok mellett erre a célra legalább 1 m széles burkolt útfelület áll rendelkezésre.
-
-9.10.[^88]
-
-9.11.[^89]
-
-9.12.[^90] Autóbusz-forgalmi sávot szabad kijelölni ott, ahol a tömegközlekedés
-
-– a 20 autóbusz/csúcsóra/irány nagyságot meghaladja,
-
-– a 20 autóbusz/csúcsóra/irány nagyságnál kisebb, de 12 autóbusz/csúcsóra/irány nagyságnál nagyobb, és a sávot kerékpárosok is használhatják.
-
-III. fejezet[^91]
+III. fejezet[^76]
 
 Lakott területek és csillapított forgalmú övezetek kijelölése, forgalomcsillapítása
 
@@ -224,7 +224,7 @@ a teljes úthálózatra indokolttá kell tennie a csökkentett sebességű halad
 
 10.2.1.2. A korlátozott sebességet indokolt esetben a teljes településre is el szabad rendelni, ha az megfelel a korlátozott sebességű övezetre a 10.2.1.1. b) pontban előírtaknak. Ebben az esetben a településre vonatkozó sebességkorlátozást valamennyi „Lakott terület kezdete” jelzőtáblával együtt elhelyezett „Sebességkorlátozás” jelzőtáblával kell jelezni.
 
-10.2.1.3. Korlátozott sebességű övezetben
+10.2.1.3.[^77] Korlátozott sebességű övezetben, kivéve a gyorsforgalmi utak pihenő helyein
 
 a) – ha az nem a település egészére kiterjesztett korlátozás – csak egyenrangú útkereszteződések vagy – indokolt esetben – körforgalmak lehetnek,
 
@@ -246,6 +246,10 @@ d) nagy forgalmú, illetve nagy áruszállítási vonzattal járó ipari vagy me
 
 10.2.2.2. Lakó-pihenő övezetekben csak egyenrangú útkereszteződések lehetnek, az övezetet tömegközlekedési járat vagy vasúti pálya nem keresztezheti.
 
+10.3.[^78] A Környezetvédelmi övezetre (zónára) vonatkozó közlekedési szabályok hatályát a „Környezetvédelmi övezet (zóna)” jelzőtáblával (KRESZ 53/e. ábra) kell jelezni és a „Környezetvédelmi övezet (zóna) vége” jelzőtáblával (KRESZ 53/f. ábra) kell megszüntetni. Az övezet kijelölését tartalmazó forgalomtechnikai tervet valamennyi érintett közút kezelőjének jóvá kell hagynia.
+
+10.4.[^79] A közút kezelője a „Környezetvédelmi övezet (zóná)”-ba (KRESZ 53/e–53/g. ábra) történő, valamint a KRESZ 14. § (1) bekezdés n)–t) és z/2. pontjában felsorolt behajtási tilalom alól felmentést adhat.
+
 11. Forgalomcsillapítás
 
 11.1. Lakott területek határán, településközpontokban, kijelölt gyalogos-átkelőhelyeknél, gyermekintézmények környezetében, tömegközlekedési eszközök megállóhelyeinél, jelentős keresztirányú gyalogos mozgások környezetében, illetve ahol azt a közlekedésbiztonsági helyzet indokolja, a forgalom csillapítását építési beavatkozással (például sávelhúzással, járdaszigetek építésével) is elő lehet segíteni.
@@ -262,23 +266,23 @@ IV. fejezet
 
 12. Irányonként több forgalmi sávos utak kereszteződései
 
-12.1 [^92]
+12.1 [^80]
 
 12.2 Ha az úttesten levő forgalmi sávok külön útban folytatódnak, az egyes járműfajták behajtása megtiltható egyes irányokba, közvetlenül az útkereszteződés előtt, a forgalmi sávok felett elhelyezett, a járművek behajtását tiltó jelzőtáblákkal (KRESZ 35–52. és 54–55. ábra).
 
-12.3–12.8[^93]
+12.3–12.8[^81]
 
-12.9[^94]
+12.9[^82]
 
-12.10[^95]
+12.10[^83]
 
-12.11[^96] Előretolt kerékpáros felálló helyet (KRESZ 153/a. ábra) csak olyan jelzőlámpás forgalomirányítással szabályozott útkereszteződésben szabad kialakítani, ahol
+12.11[^84] Előretolt kerékpáros felálló helyet (KRESZ 153/a. ábra) csak olyan jelzőlámpás forgalomirányítással szabályozott útkereszteződésben szabad kialakítani, ahol
 
 a) jelentős a balra kanyarodó kerékpáros forgalom,
 
 b) a közúti forgalom nagysága nem teszi lehetővé a kerékpáros számára a biztonságos besorolást a balra kanyarodáshoz,
 
-c) a kerékpárosok az útkereszteződéshez legalább 20 m hosszon kialakított kerékpársávon érkeznek.
+c)[^85] a kerékpárosok az útkereszteződéshez legalább 20 m hosszon kialakított kerékpáros nyomon, kerékpársávon, nyitott kerékpársávon érkeznek.
 
 13. Különböző típusú útvonalak útkereszteződései
 
@@ -286,7 +290,7 @@ Az autópályákon, autóutakon, főútvonalnak kijelölt és ki nem jelölt uta
 
 14. Szembejövő forgalom elsőbbségének szabályozása
 
-14.[^97] Az „Elsőbbség a szembejövő forgalommal szemben” és a „Szembejövő forgalom elsőbbsége” jelzőtáblák csak abban az esetben alkalmazhatók, ha az útszűkület és annak környéke mindkét irányból kellően áttekinthető ahhoz, hogy a járművezető elsőbbségadási kötelezettségének eleget tehessen. Kötelező a táblák elhelyezése, ha az elsőbbségi viszonyok az általános szabályokból egyértelműen nem állapíthatók meg, vagy az elsőbbséget az általános szabályoktól eltérően szükséges szabályozni.
+14.[^86] Az „Elsőbbség a szembejövő forgalommal szemben” és a „Szembejövő forgalom elsőbbsége” jelzőtáblák csak abban az esetben alkalmazhatók, ha az útszűkület és annak környéke mindkét irányból kellően áttekinthető ahhoz, hogy a járművezető elsőbbségadási kötelezettségének eleget tehessen. Kötelező a táblák elhelyezése, ha az elsőbbségi viszonyok az általános szabályokból egyértelműen nem állapíthatók meg, vagy az elsőbbséget az általános szabályoktól eltérően szükséges szabályozni.
 
 15. Egyenrangú utak kereszteződésének szabályozása
 
@@ -300,9 +304,11 @@ Az autópályákon, autóutakon, főútvonalnak kijelölt és ki nem jelölt uta
 
 15.2 Tilos egyenrangú útkereszteződést kialakítani olyan helyeken, ahol a keresztező utak közül bármelyiken kettőnél több, útburkolati jellel jelölt forgalmi sáv van.
 
-15.3–15.5[^98]
+15.3–15.5[^87]
 
-16.[^99] Elsőbbséget szabályozó jelzőtáblák
+15.6.[^88] Egyenrangú útkereszteződés előtt, amennyiben jobbról, az egyirányú utcából gépkocsiforgalom nem várható, de engedélyezett a kerékpáros szembeforgalom, a jobbról várható kerékpárosokra figyelmeztető táblát kell elhelyezni. (KRESZ 88. ábra „Egyenrangú utak kereszteződése”, alatta elhelyezve kiegészítő táblán a kerékpárt mutató ábra mindkét irányból).
+
+16.[^89] Elsőbbséget szabályozó jelzőtáblák
 
 V. fejezet
 
@@ -314,29 +320,29 @@ Forgalomirányító fényjelző készülékek
 
 17.2 Ahol gyalogosforgalom irányítására szolgáló fényjelző készüléket helyeznek el, kijelölt gyalogosátkelő-helyet is kell létesíteni.
 
-17.3-17.5.[^100]
+17.3-17.5.[^90]
 
 17.6. Abban az esetben, ha a kijelölt gyalogos-átkelőhely mellett utat keresztező kerékpárút van, akkor a gyalogos- és kerékpáros-forgalom együttes irányítására szolgáló fényjelző készüléket is lehet alkalmazni.
 
 18.Járműforgalom irányítására szolgáló fényjelző készülékek
 
-18.[^101]
+18.[^91]
 
 19. Kerékpáros forgalom irányítására szolgáló fényjelző készülékek
 
-19.[^102]
+19.[^92]
 
 20. Egyes fényjelző készülékek alkalmazása
 
-20.[^103]
+20.[^93]
 
 21. Veszélyes helyek jelölése
 
-21.[^104]
+21.[^94]
 
 22. Váltakozó irányú forgalom szabályozása
 
-22.[^105]
+22.[^95]
 
 VI. fejezet
 
@@ -402,11 +408,11 @@ l) lakott területen kívül, ha a gyalogosnak 3-nál több sávot kell kereszte
 
 23.7 Lakott területen kívül gyalogos-átkelőhelyet kijelölni csak rendkívül indokolt esetben szabad. A kijelölt gyalogos-átkelőhely térségében 60 km/óra sebességkorlátozást és jelzőtáblával, valamint záróvonallal is jelzett előzési tilalmat kell elrendelni, továbbá kötelező a „Gyalogosátkelés” veszélyt jelző tábla (KRESZ 83. ábra) elhelyezése. A kijelölt gyalogos-átkelőhelyre további útburkolati jelekkel (KRESZ 158/a és 158/b ábrák) is fel kell hívni a figyelmet.
 
-23.8 [^106]
+23.8 [^96]
 
-23.9–23.12[^107]
+23.9–23.12[^97]
 
-23.13 [^108]
+23.13 [^98]
 
 23.14 A kijelölt gyalogos-átkelőhely mindkét végéhez szilárd burkolat] járda vezessen, amely a kijelölt gyalogos-átkelőhelyhez a gyalogosok várakozásra szolgáló szilárd burkolatú felülettel (gyalogos felállóhely) csatlakozzon.
 
@@ -416,7 +422,7 @@ l) lakott területen kívül, ha a gyalogosnak 3-nál több sávot kell kereszte
 
 23.17 Gyalogos-átkelőhelyeket kijelölni csak a 23.14, 23.15 és 23.16 pontokban foglaltak teljesülése esetén szabad.
 
-23.18[^109] Kijelölt gyalogos-átkelőhely végleges megszüntetésénél a kijelölt gyalogos-átkelőhely jelzéseit egyszerre kell eltávolítani, és ezzel egy időben a gyalogosok további átkelését gyalogoskorlát (vagy más hasonló berendezés) elhelyezésével meg kell akadályozni.
+23.18[^99] Kijelölt gyalogos-átkelőhely végleges megszüntetésénél a kijelölt gyalogos-átkelőhely jelzéseit egyszerre kell eltávolítani, és ezzel egy időben a gyalogosok további átkelését gyalogoskorlát (vagy más hasonló berendezés) elhelyezésével meg kell akadályozni.
 
 23.19 A gyalogosok átkelésének megakadályozása érdekében gyalogoskorlátot, vagy más hasonló berendezést kell elhelyezni az olyan középfekvésű villamospálya járdaszigetes megállóhelyénél a járdaszigeten, illetőleg szükség és lehetőség szerint az ahhoz közelebb eső járdán, ahol
 
@@ -426,65 +432,47 @@ b) a járdasziget és a hozzá közelebb eső járda között az úttestet párh
 
 Nem kell korlátot elhelyezni a járdaszigeten, ha az elegendő szélességű ahhoz, hogy azon csúcsforgalmi időszakban se keletkezzék torlódás. Ilyen esetben azonban járdaszigethez legközelebb eső járdán a korlát elhelyezése – ha erre lehetőség van – kötelező.
 
-23.20[^110]
+23.20[^100]
 
 23.21 A 23.4, 23.14, 23.15 és 23.20 pontok alkalmazásakor a járdával egyenértékű a gyalogút, a gyalog- és kerékpárút, illetőleg más, kizárólag a gyalogosok közlekedésére szolgáló létesítmény.
 
-24. Kerékpáros forgalom
+24.[^101] Kerékpáros forgalom
 
-24.1 A kerékpáros forgalom szabályozása során tekintettel kell lenni az út (útszakasz) teljes közúti forgalmán belül a
+24.1. A kerékpáros forgalom szabályozása során tekintettel kell lenni az út (útszakasz) teljes közúti forgalmán belül a
 
-– kerékpáros forgalom nagyságára, s annak a teljes forgalmon belüli részarányára,
+a) kerékpáros forgalom nagyságára, és annak a teljes forgalmon belüli részarányára,
 
-– kerékpáros baleseteire.
+b) kerékpáros baleseteire.
 
-24.2 Kerékpársávot a 9.9 pontban foglaltak megtartásával, a mellette levő forgalmi sáv irányával azonos irányú kerékpáros forgalom számára ott lehet kijelölni, ahol
+24.2. Lakott területen kívül a kerékpárúton (gyalog- és kerékpárúton) a segédmotoros kerékpár közlekedését akkor nem kell megtiltani, ha a kerékpárút szélessége legalább 2 méter, a gyalog- és kerékpárút szélessége pedig legalább 3 méter.
 
-– az út mellett kerékpárút kiépítése lenne indokolt, a kerékpárút elkészültéig, vagy
+24.3. A kerékpárutak elsőbbségét általában a vele azonos irányban haladó út elsőbbségével megegyezően kell szabályozni.
 
-– az általános napi kerékpáros forgalom meghaladja a 400-at és ugyanakkor az összes forgalom egységjárműben kifejezett átlagos napi forgalma eléri a 4000-et, vagy
+24.4. A kiegészítő táblával ellátott „Kerékpárosok” veszélyt jelző táblát (KRESZ 95/c. ábra) el kell helyezni, ahol
 
-– a kerékpáros forgalom biztonsága ezt egyébként indokolja.
+a) a kerékpárút, kerékpársáv véget ér,
 
-24.3 [^111]
-
-24.4–24.5[^112]
-
-24.6 Lakott területen kívül a kerékpárúton (gyalog- és kerékpárúton) a segédmotoros kerékpár közlekedését akkor nem kell megtiltani, ha a kerékpárút szélessége legalább 2 méter, a gyalog- és kerékpárút szélessége pedig legalább 3 méter.
-
-24.7[^113] Ha az út mindkét oldalán kerékpárút van, ezek egyirányúsítását lakott területen belül – a kerékpárosok úttesten való áthaladásának csökkentése érdekében – általában kerülni kell.
-
-24.8[^114]
-
-24.9[^115] A kerékpárutak elsőbbségét általában a vele azonos irányban haladó út elsőbbségével megegyezően kell szabályozni.
-
-24.10[^116]
-
-24.11[^117] A kiegészítő táblával ellátott ,,Kerékpárosok'' veszélyt jelző táblát (KRESZ 95/c ábra) el kell helyezni, ahol
-
-a) a kerékpárút kezdődik, illetve véget ér,
-
-b) az úttest egyik oldala mentén épített kerékpárút az úttestjmásik oldala mentén folytatódik.
+b) az úttest egyik oldala mentén kijelölt kerékpáros létesítmény az út másik oldalán folytatódik (KRESZ 95/c. ábra).
 
 VII. fejezet
 
 Tömegközlekedési járatok megállóhelyei
 
-25. Tömegközlekedési járatok megállóhelyeinek kijelölése
+25.[^102] Tömegközlekedési járatok megállóhelyeinek kijelölése
 
-25.1 A villamosok, a trolibuszok, valamint a menetrend szerint közlekedő autóbuszok megállóhelyét úgy kell elhelyezni, hogy a megállóhelyen álló jármű a többi jármű vezetője elől olyan forgalomirányító fényjelző készüléket és jelzőtáblát (kivéve a megállóhelyet jelző táblát) ne takarjon el, amely nincs megismételve.
+25.1. A villamosok, a trolibuszok, valamint a menetrend szerint közlekedő autóbuszok megállóhelyét úgy kell elhelyezni, hogy a megállóhelyen álló jármű a többi jármű vezetője elől olyan forgalomirányító fényjelző készüléket és jelzőtáblát (kivéve a megállóhelyet jelző táblát) ne takarjon el, amely nincs megismételve.
 
-25.2[^118] Az autóbusz- (trolibusz-) megállóhelyet általában a forgalmi sávokon kívül, autóbusz-öbölben kell kialakítani. Kötelező ez a kialakítás
+25.2. Az autóbusz (trolibusz) megállóhelyet általában a forgalmi sávokon kívül, autóbusz-öbölben kell kialakítani. Kötelező ez a kialakítás
 
-– lakott területen kívül minden főútvonalon,
+a) lakott területen kívül minden főútvonalon,
 
-– olyan út átépítése esetén, amely átlagos napi forgalma a beavatkozás időpontjában a 3000 egységjárművet meghaladja.
+b) olyan út átépítése esetén, amely átlagos napi forgalma a beavatkozás időpontjában a 3000 egységjárművet meghaladja.
 
-25.3 Az „Autóbusz-megállóhely”, a „Trolibusz- megállóhely” és a „Villamos-megállóhely” jelzőtáblát a megállóhelyen megálló tömegközlekedési jármű – kettős megállóhelynél az első megálló jármű – elejével egyvonalban kell elhelyezni. Az elhelyezett jelzőtábla egyúttal a megállóhely helymeghatározását is jelenteni. A tömegközlekedési megállóhely területébe a megálló járművek hosszán felül a be- és kiállásához szükséges terület és az utasok fel- és leszállásához szükséges – járdával nem összefüggő – önálló járdasziget is beleértendő.
+25.3. Az „Autóbusz megállóhely”, a „Trolibusz megállóhely” és a „Villamos megállóhely” jelzőtáblát a megállóhelyen megálló tömegközlekedési jármű – kettős megállóhelynél az első jármű – elejével egyvonalban kell elhelyezni. Az elhelyezett jelzőtábla egyúttal a megállóhely helymeghatározását is jelenti. A tömegközlekedési megállóhely területébe a megálló járművek hosszán felül a be- és kiálláshoz szükséges terület és az utasok fel- és leszállásához szükséges – járdával nem összefüggő – önálló járdasziget is beleértendő.
 
-25.4 Megállóhelyet nem szabad elhelyezni (kijelölni):
+25.4. Megállóhelyet nem szabad elhelyezni (kijelölni):
 
-a) olyan helyen, ahol a forgalmi sávon megálló járművet – be nem látható útkanyarulat, bukkanó vagy más hasonló ok miatt – a többi jármű vezetője lakott területen belül 50 méter, lakott területen kíkvül 100 méter távolságból nem észlelheti,
+a) olyan helyen, ahol a forgalmi sávon megálló járművet – be nem látható útkanyarulat, bukkanó vagy más hasonló ok miatt – a többi jármű vezetője lakott területen belül 50 méter, lakott területen kívül 100 méter távolságból nem észlelheti,
 
 b) autópálya, autóút úttestjén, leállósávján, csomóponti ágain,
 
@@ -492,35 +480,29 @@ c) kijelölt gyalogos-átkelőhelyen, az előtt 15 méteren belül és az után,
 
 d) vasúti átjáróban, a vasúti átjáróhoz vezető úton az átjáró előtt 30 méteren belül, és a vasúti átjáró után, ha a megállóhelyen megálló jármű – kettős megállóhelyen a második megálló jármű – vége és az ahhoz legközelebb eső sínszál között legalább 30 méter nem marad,
 
-e) útkereszteződésben, az előtt 15 méteren belül és az után, ha a megálló jármű – kettős megállóhelynél a második megálló jármű – vége és a keresztező út közelebbi burkolatszéle között legalább 5 méter nem marad, kivéve a KRESZ 40. § (5) bekezdés d) pontjának második fordulatában említett esetet,
+e) útkereszteződésben, az előtt 15 méteren belül és az után, ha a megálló jármű – kettős megállóhelynél a második megálló jármű – vége és a keresztező út közelebbi burkolatszéle között legalább 5 méter nem marad, kivéve a KRESZ 40. § (5) bekezdés d) pont második fordulatában említett esetet,
 
-f) a c) és e) pont alatti tilalom nem vonatkozik a járdaszigettel ellátott villamos-megállóhelyre.
+f) a c) és e) pont alatti tilalom nem vonatkozik a járdaszigettel ellátott villamos megállóhelyre.
 
-25.5 Tilos megállóhelyet kijelölni, ha a megállóhelyből kiinduló járműnek továbbhaladásához egynél több forgalmi sávot kell kereszteznie, kivéve ha ezt részére forgalomirányító jelzőlámpa külön lehetővé teszi.
+25.5. Tilos megállóhelyet kijelölni, ha a megállóhelyből kiinduló járműnek továbbhaladásához egynél több forgalmi sávot kell kereszteznie, kivéve, ha ezt részére forgalomirányító jelzőlámpa külön lehetővé teszi.
 
-25.6 Autóbusz- (trolibusz-) megállóhely autóbusz forgalmi sávon és leállósávon is kijelölhető. Ha az úton kerékpársáv, vagy kapaszkodósáv van, a megállóhelyet azon kívül (autóbusz-öbölben) kell kialakítani.
+25.6. Autóbusz (trolibusz) megállóhely autóbusz forgalmi sávon és leállósávon is kijelölhető. Ha az úton kapaszkodósáv van, a megállóhelyet azon kívül (autóbusz-öbölben) kell kialakítani.
 
-25.7 Középfekvésű villamospályán közlekedő villamos olyan megállóhelyénél, ahol a villamosvágány és az ahhoz közelebb eső járda között az út párhuzamos közlekedésre van kijelölve, járdaszigetet kell létesíteni.
+25.7. Középfekvésű villamospályán közlekedő villamos olyan megállóhelyénél, ahol a villamosvágány és az ahhoz közelebb eső járda között az út párhuzamos közlekedésre van kijelölve, járdaszigetet kell létesíteni.
 
-25.8[^119]
+25.8. A taxiállomás elhelyezésére a 25.1., 25.3., 25.4. és 25.6. pont rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a taxiállomás
 
-25.9[^120]
+a) autóbusz forgalmi sávon,
 
-25.10 Autóbusz-forgalmi sávot akkor indokolt kijelölni, ha a menetrendszerűen közlekedő autóbuszok járatsűrűsége reggel 7 óra és délután 19 óra között átlagosan eléri a 2 percet. Ennek a sávnak a forgalma forgalomirányító fényjelző készülékkel irányított útkereszteződésekben önálló, fényjelző készülékkel [KRESZ 9. § (6)] is irányítható.
+b) párhuzamos közlekedésre kijelölt út forgalmi sávján,
 
-25.11 A taxiállomás elhelyezésére a 25.1, 25.3, 25.4, 25.6 és 25.8 pont rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a taxiállomás
+c) útkereszteződésben jobbra kanyarodó sávon, valamint lassító és gyorsító sávon,
 
-– autóbusz-forgalmi sávon,
+d) útkereszteződéstől és kijelölt gyalogos-átkelőhelytől 5 méter távolságon belül,
 
-– párhuzamos közlekedésre kijelölt út forgalmi sávján,
+e) ahol a KRESZ 40. § (5) bekezdés b) és f) pontja értelmében megállni tilos,
 
-– útkereszteződésben jobbra kanyarodó sávon, illetőleg lassító- és gyorsítósávon,
-
-– útkereszteződéstől és kijelölt gyalogos-átkelőhelytől 5 méter távolságon belül,
-
-– ahol a KRESZ 40. § 5. bekezdés b) és f) pontja értelmében megállni tilos,
-
-– járdán
+f) járdán
 
 nem létesíthető. A taxiállomás területét a KRESZ 158. ábra szerinti útburkolati jellel mindig jelölni kell.
 
@@ -550,7 +532,7 @@ h) vasúti jelzővel függésben nem levő, távolból kezelt teljes sorompó (i
 
 Emelt sebességű vasúti pályán csak – vasúti jelzővel ellenőrzött vonat által vezérelt, vagy vasúti jelzővel függésben lévő – félsorompóval kiegészített fénysorompó alkalmazható.
 
-26.2.[^121] A csökkentett szolgáltatási szintű vasúti pályán, a saját célú vasúti pályahálózat részét képező vasúti pályán, az összekötő vasúti pályán és a csatlakozó vasúti pályán lévő vasúti átjáró
+26.2.[^103] A csökkentett szolgáltatási szintű vasúti pályán, a saját célú vasúti pályahálózat részét képező vasúti pályán, az összekötő vasúti pályán és a csatlakozó vasúti pályán lévő vasúti átjáró
 
 a) helyből kezelt fénysorompóval,
 
@@ -570,17 +552,25 @@ c) a vasúti pálya főútvonalat keresztez,
 
 d) menetrendszerű közforgalmú autóbuszközlekedés van,
 
-e) a mértékadó járműforgalom 150-nél nagyobb,
+e)[^104] a mértékadó vasúti átjáró forgalom 150-nél nagyobb,
 
 f) az egy óra alatt áthaladó közúti járművek – személygépkocsi egységre átszámított – száma naptári évenként legalább 50 esetben eléri vagy meghaladja a 100-at, vagy
 
 g) a rálátás a rálátási háromszögben nem szabad és a szabaddá tétel költsége jelentősen meghaladná a biztosítás költségét. A vasúti átjárón átvezető olyan földút esetében, ahol a csökkentett rálátási háromszögben a rálátás szabad, a biztosítás mellőzhető.Emelt sebességű vasúti pályán minden vasúti átjárót biztosító jelzőberendezéssel kell ellátni.Emelt sebességű vasúti pályán minden vasúti átjárót biztosító jelzőberendezéssel kell ellátni.
 
-26.4.[^122] Vasúti átjárónál, vasúti gyalogos-átkelőhelynél a rálátási háromszögben, illetve a csökkentett rálátási háromszögben a rálátás akkor szabad, ha abban – külön jogszabályban[^123] meghatározott magasságot meghaladó – olyan építmény, terepalakulat, létesítmény, fa, illetve növényzet nincs, amely a vasúti pályára a rálátást akadályozza. A 26.1. pont b), d) és g) alpontjában foglaltak szerint biztosított vasúti átjáróknál – a vasúti átjárót a közút felől biztosító berendezés üzemzavara esetére – a rálátás szempontjából érintett terület kiszámításánál azt a sebességet kell figyelembe venni, amelynek alkalmazását a vasúti átjáróhoz közelítő vonat számára a vasúti biztosítóberendezés az üzemzavar esetén lehetővé teszi.
+26.4.[^105] a) Vasúti átjárónál, vasúti gyalogos-átkelőhelynél a rálátási háromszögben, illetve a csökkentett rálátási háromszögben a rálátás akkor szabad, ha abban az út és vasút szintjétől számított 80 cm magasságot meghaladó építmény, terepalakulat, létesítmény, fa, illetve növényzet nincs, amely a vasúti pályára a rálátást akadályozza.
+
+b) A rálátási háromszögben, az út tengelyének minden pontjáról ellenőrizve a 80 cm-nél magasabb pontszerű, vasúti üzemi akadályok (vasút üzemi berendezések, stb.) nem tekinthetők akadálynak, ha az akadályok együttes hossza által okozott kitakarás a rálátási háromszög vasúti tengelyében mérve oldalanként 10%-ot, vagy egy-egy akadály vasúti tengelyre vetített hossza a 20 m-t nem éri el.
+
+c) A 26.1. pont b), d) és g) alpontjában foglaltak szerint biztosított vasúti átjáróknál – a vasúti átjárót a közút felől biztosító berendezés üzemzavara esetére – a rálátás szempontjából érintett terület kiszámításánál azt a sebességet kell figyelembe venni, amelynek alkalmazását a vasúti átjáróhoz közelítő vonat számára a vasúti biztosítóberendezés az üzemzavar esetében lehetővé teszi.
+
+d) A közlekedési hatóság elrendelheti a vasúti átjáró rálátási háromszögének területén lévő fa, illetve egyéb növényzet kivágását.
+
+e) A közlekedési hatóság a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében – a közút kezelőjének kérelmére – a vasúti átjáró, vasúti gyalogos-átkelőhely, valamint az útkereszteződés beláthatóságát akadályozó fa, illetve egyéb növényzet eltávolítását rendelheti el.
 
 26.5 Út és keskeny nyomtávú vasúti pálya kereszteződését a 26.3 c), d), g) pontjában említett esetben kell biztosítani. Mellőzhető a biztosítás, ha az átjáróban a vasúti járművek megengedett legnagyobb sebessége a 15 km/órát nem haladja meg, és a vasúti járművekre engedélyezett 15 km/óra sebességhez tartozó csökkentett rálátási háromszögben a rálátás szabad.
 
-26.6.[^124] Kerékpárúton, valamint gyalog- és kerékpárúton lévő vasúti átjárót a vele párhuzamosan haladó úttal együtt kell biztosítani. Önálló kerékpárutat normál és széles nyomtávú országos elővárosi és térségi vasúti pályahálózat részét képező vasúti pályán
+26.6.[^106] Kerékpárúton, valamint gyalog- és kerékpárúton lévő vasúti átjárót a vele párhuzamosan haladó úttal együtt kell biztosítani. Önálló kerékpárutat normál és széles nyomtávú országos elővárosi és térségi vasúti pályahálózat részét képező vasúti pályán
 
 – terelő korláttal ellátott vasúti gyalogos-átkelőhelyen, vagy
 
@@ -588,7 +578,7 @@ g) a rálátás a rálátási háromszögben nem szabad és a szabaddá tétel k
 
 26.7 Biztosítatlan vagy újonnan létesített vasúti átjáró biztosítása vagy meglevő biztosítási mód megváltoztatása esetén kivételesen a 26.1 a)–d) pontokban említettektől eltérő biztosítást is kell alkalmazni.
 
-26.8.[^125] Félsorompóval kiegészített fénysorompót kell létesíteni, ahol
+26.8.[^107] Félsorompóval kiegészített fénysorompót kell létesíteni, ahol
 
 a) normál vagy széles nyomtávú, 80 km/óránál nagyobb engedélyezett sebességű két- vagy többvágányú országos, elővárosi és térségi vasúti pályahálózat részét képező vasúti pályát szilárd burkolatú út keresztez,
 
@@ -602,11 +592,11 @@ A félsorompót – emelt sebességű vasúti pályán lévő vasúti átjárób
 
 26.10 Új, távolból kezelt teljes sorompót, valamint vasúti jelzővel függésben nem levő, helyből kezelt, teljes sorompót létesíteni nem szabad. Az olyan vasúti átjáró biztosítására azonban, amelyben a vasúti pálya jelentéktelen vagy időszakos forgalmú utat keresztez, alkalmazható felhívásos sorompó is, illetve a meglevő teljes sorompó időszakos kezelése rendelhető el.
 
-26.11[^126] A vasúti átjárót biztosító jelzőberendezések üzemzavaránál a következő intézkedések szükségesek:
+26.11[^108] A vasúti átjárót biztosító jelzőberendezések üzemzavaránál a következő intézkedések szükségesek:
 
 a) a biztosító jelzőberendezés üzemzavara esetén – amennyiben a vasúti átjárót jelzőőr nem biztosítja – a vasúti átjáróhoz a vasúti jármű – a már nem értesíthető vasúti jármű kivételével – legfeljebb 15 km/óra sebességgel érkezhet;
 
-b)[^127] a sorompó üzemzavara esetében, ha
+b)[^109] a sorompó üzemzavara esetében, ha
 
 ba) az üzemzavart a kereszteződést teljes szélességben lezáró sorompó használhatatlansága okozza, haladéktalanul, de legalább 6 órán belül,
 
@@ -616,9 +606,9 @@ a vasúti pályahálózat működtetője a vasúti átjáró biztonságának vé
 
 c) a területi közlekedési hatóság a jelzőőr állítása helyett legfeljebb 120 óra időtartamra engedélyezheti a vasúti pályát keresztező út lezárását, ha annak átlagos napi forgalma az 500 egységjárművet nem haladja meg, és a forgalom — megfelelő út kijelölésével — más vasúti átjáróba irányítható.
 
-26.12 [^128]
+26.12 [^110]
 
-26.13.[^129] A fénysorompó, továbbá félsorompóval kiegészített fénysorompó üzemzavarát a vasúti pályahálózat működtetőjének meg kell szüntetnie:
+26.13.[^111] A fénysorompó, továbbá félsorompóval kiegészített fénysorompó üzemzavarát a vasúti pályahálózat működtetőjének meg kell szüntetnie:
 
 a) automatika (ideértve az energiaellátást is), fénysorompó-optika meghibásodása esetében 12 órán belül;
 
@@ -662,7 +652,7 @@ e) olyan vasúti átjárónál, ahol a vasúti átjáróhoz vezető útra oldali
 
 27.2 A gyalogosok részére a vasúti átjárónál terelőkorlátos, illetve biztosítással ellátott kiépített átkelőhelyet kell létesíteni, ahol
 
-a) a mértékadó gyalogosforgalom 120-nál nagyobb,
+a)[^112] a mértékadó vasúti gyalogos-átkelőhely forgalom 120-nál nagyobb,
 
 b) felügyelet nélkül rendszeresen gyermekek közlekednek, vagy
 
@@ -672,25 +662,25 @@ c) gyalogosforgalom van és a vasúti átjáróban 1 óra alatt áthaladó köz�
 
 27.4 Gyalogosok részére önálló vasúti gyalogos-átkelőhelyet csak olyan helyen szabad létesíteni, ahol a II. függelék i) pontjában meghatározott rálátás a vasúti pályára szabad. A vasúti gyalogos-átkelőhelynél terelőkorlátot kell létesíteni, illetve rendkívül indokolt esetben az átkelőhelyet biztosítani lehet.
 
-28.[^130] Vasúti átjárók közúti jelzései
+28.[^113] Vasúti átjárók közúti jelzései
 
 29. Vasúti átjárók különleges forgalomszabályozásai
 
-29.1[^131] Biztosítatlan vasúti átjárónál abban az esetben kell megállási kötelezettséggel járó elsőbbségadást előírni, ha csak a csökkentett rálátási háromszög szabad, és ha a vasúti átjárón átvezető úton közlekedhető leghosszabb és legkisebb gyorsulású jármű álló helyzetből induló biztonságos áthaladása lehetséges.
+29.1[^114] Biztosítatlan vasúti átjárónál abban az esetben kell megállási kötelezettséggel járó elsőbbségadást előírni, ha csak a csökkentett rálátási háromszög szabad, és ha a vasúti átjárón átvezető úton közlekedhető leghosszabb és legkisebb gyorsulású jármű álló helyzetből induló biztonságos áthaladása lehetséges.
 
 29.2 A vasúti átjáró előtt a KRESZ 18. §-a (1) bekezdésének o) és p) pontjában foglalt veszélyes helyre figyelmeztető közúti jelzések, továbbá az útburkolaton figyelemfelkeltő elemek helyezhetők el.
 
-29.3 [^132]
+29.3 [^115]
 
-29.4.[^133] Normál és széles nyomtávú országos, elővárosi és térségi vasúti pályahálózat részét képező vasúti pályán lévő, csak fénysorompóval biztosított vasúti átjáró előtt, szilárd burkolatú úton a „Sebességkorlátozás” jelzőtáblát kell elhelyezni, ha
+29.4.[^116] Normál és széles nyomtávú országos, elővárosi és térségi vasúti pályahálózat részét képező vasúti pályán lévő, csak fénysorompóval biztosított vasúti átjáró előtt, lakott területen kívüli szilárd burkolatú úton a „Sebességkorlátozás” jelzőtáblát kell elhelyezni, ha
 
 a) a vasúti pálya 80 km/óránál nagyobb engedélyezett sebességű, vagy
 
 b) az átjáró, a vasúti pálya észlelhetősége, illetve egyéb közlekedésbiztonsági indokok azt szükségessé teszik.
 
-A sebességkorlátozás mértéke lakott területen legfeljebb 30 km/óra, lakott területen kívül legfeljebb 40 km/óra.
+A sebességkorlátozás mértéke legfeljebb 40 km/óra. A sebességkorlátozó táblát az egysávos vasúti átjárót előjelző táblával (KRESZ 102. ábra) egy oszlopon kell kihelyezni.
 
-29.5.[^134] Vasúti átjáró ideiglenes szüneteltetése: vasúti pályán a vasúti közlekedés szüneteltetése idején a vasúti átjáró biztosításának szüneteltetése. A hat hónapot meghaladó szüneteltetés idejére a biztosítást a közúti jelzések eltávolításával meg kell szüntetni, továbbá a vasúti közlekedés lehetőségét mindkét oldalon a vágányra helyezett, közútról is jól látható eszköz – így különösen földkúp, betontömb, betonaljakból kialakított vágánylezárás – alkalmazásával ki kell zárni.
+29.5.[^117] Vasúti átjáró ideiglenes szüneteltetése: vasúti pályán a vasúti közlekedés szüneteltetése idején a vasúti átjáró biztosításának szüneteltetése. A hat hónapot meghaladó szüneteltetés idejére a biztosítást a közúti jelzések eltávolításával meg kell szüntetni, továbbá a vasúti közlekedés lehetőségét mindkét oldalon a vágányra helyezett, közútról is jól látható eszköz – így különösen földkúp, betontömb, betonaljakból kialakított vágánylezárás – alkalmazásával ki kell zárni.
 
 IX. fejezet
 
@@ -698,21 +688,15 @@ Egyedi (helyi) forgalomszabályozás
 
 30. Sebességszabályozás
 
-30.1[^135] Sebességkorlátozást abban az esetben kell elrendelni, ha
+30.1.[^118] Sebességkorlátozást abban az esetben kell elrendelni, ha a forgalmi viszonyok, az út vonalvezetése, az úton levő akadály vagy veszélyhelyzet miatt a KRESZ 26. § (1) bekezdés a) pontjában meghatározott, vagy az út terepadottságainak megfelelő kiépítési jellemzőivel összeegyeztethető sebességgel való haladás kedvező időjárási viszonyok között sem volna biztonságos és az alábbi körülmények egyidejűleg fennállnak:
 
-a) a forgalmi viszonyok, az út vonalvezetése, az úton levő akadály, illetőleg veszélyhelyzet miatt a KRESZ 26. § (1) bekezdés a) pontjában meghatározott, vagy az út terepadottságainak megfelelő kiépítési jellemzőivel összeegyeztethető sebességgel való haladás kedvező időjárási viszonyok között sem volna biztonságos,
+a) a szükséges sebességcsökkentés mértéke jelentős (meghaladja az előbb említett sebességek értékének egyharmadát),
 
-b) a szükséges sebességcsökkentés mértéke jelentős (meghaladja az előbb említett sebességek értékének egyharmadát),
+b) a sebességcsökkentést indokoló körülményeket a járművezetők kellő távolságból nem ismerhetik fel könnyen,
 
-c) a sebességcsökkentést indokoló körülményeket a járművezetők kellő távolságból nem ismerhetik fel könnyen,
+c) továbbá, ha az ezekre a körülményekre utaló veszélyt jelző táblák alkalmazásával sem érhető el a szükséges sebességcsökkentés.
 
-d) továbbá, ha az ezekre a körülményekre utaló veszélyt jelző táblák alkalmazásával sem érhető el a szükséges sebességcsökkentés.
-
-A sebességkorlátozás legalacsonyabb értéke – határátkelőhelyek, komplejárók kivételével – 20 km/óra lehet.
-
-Ha a szükséges sebességkorlátozás és az úton egyébként engedélyezett sebesség közötti különbség a 40 km/óra értéket meghaladja, a sebességkorlátozást legalább két lépcsőben, legalább 20 km/óra, legfeljebb 40 km/óra lépcsőben kell elrendelni.
-
-30.2[^136] Lakott területen 50 km/óra sebességnél nagyobb – de legfeljebb 80 km/óra – sebesség csak főútvonalon és csak abban az esetben engedélyezhető, ha
+30.2.[^119] Lakott területen 50 km/óra sebességnél nagyobb – de legfeljebb 80 km/óra – sebesség abban az esetben engedélyezhető, ha
 
 a) az út műszaki jellemzői a biztonságos haladást a magasabb sebesség mellett is lehetővé teszik,
 
@@ -720,27 +704,27 @@ b) kevés útkereszteződés van, és ezekben az alárendelt utakról érkezők 
 
 c) gyalogosforgalom nincs, illetőleg a gyalogosok közlekedésére járda áll rendelkezésre, a kijelölt gyalogos-átkelőhelyeknél a ,,Kijelölt gyalogos-átkelőhely'' (KRESZ 103. ábra) és a ,,Gyalogos-átkelés'' (KRESZ 83. ábra) jelzőtáblákat mindig elhelyezték, és – ha ott forgalomirányító fényjelzőkészülék nincs – a gyalogos-átkelőhely térségében 60 km/óra sebességkorlátozást rendelnek el.
 
-30.3[^137] A teljes lakott területre vagy annak egy részére (korlátozott sebességű övezet) kiterjedő területi sebességkorlátozás esetén – amennyiben azt helyi körülmények indokolják –, a területen belül helyi, alacsonyabb értékű sebességkorlátozás elrendelhető.
+30.3[^120] A teljes lakott területre vagy annak egy részére (korlátozott sebességű övezet) kiterjedő területi sebességkorlátozás esetén – amennyiben azt helyi körülmények indokolják –, a területen belül helyi, alacsonyabb értékű sebességkorlátozás elrendelhető.
 
-30.4[^138]
+30.4.[^121] A sebességkorlátozás tábla alatt KRESZ 97/a., KRESZ 97/b. kiegészítő jelzőtáblák akkor alkalmazhatók, ha a száraz és nedves burkolat esetében kifejthető biztonságos sebesség értéke jelentősen eltér.
 
 31. Követési távolság
 
-31.1[^139]
+31.1[^122]
 
 31.2 A tehergépkocsikra vonatkozó legkisebb követési távolság elrendelhető olyan útszakaszokon is, ahol a személygépkocsik biztonságos előzését ez a szabályozás elősegíti.
 
-31.3[^140]
+31.3[^123]
 
 32. Előzési tilalom
 
 32.1 Az előzési tilalmat abban az esetben kell elrendelni, ha a korlátozott látótávolság, hosszú emelkedők, vagy különleges forgalmi körülmények miatt az előzési műveletek veszélyesek, és a járművezetők ezeket a veszélyes körülményeket az adottságokból a szükséges figyelemmel és elővigyázatossággal haladva nehezen ismerhetik fel.
 
-32.2[^141]
+32.2[^124]
 
 33. Járművek forgalmának méret és súly szerinti korlátozása
 
-33.1.[^142] Szélesség-, magasság-, hosszúság-, súly- vagy tengelyterhelés-korlátozást abban az esetben kell elrendelni, ha az út kiépítettsége, illetve teherbírása, a híd vagy egyéb műtárgy teherbírása, illetve méretei, vagy az út mellett, illetve felett lévő akadály a meghatározott méretet meghaladó jármű közlekedését nem teszi lehetővé.
+33.1.[^125] Szélesség-, magasság-, hosszúság-, súly- vagy tengelyterhelés-korlátozást abban az esetben kell elrendelni, ha az út kiépítettsége, műszaki állapota, illetve teherbírása, a híd vagy egyéb műtárgy teherbírása, illetve méretei, vagy az út mellett, illetve felett lévő akadály a meghatározott méretet, tömeget meghaladó jármű közlekedését nem teszi lehetővé.
 
 33.2 Az út korlátozott teherbírása esetében tengelyterhelés- korlátozást vagy súlykorlátozást, híd (vagy egyéb műtárgy) korlátozott teherbírása esetében súlykorlátozást vagy legkisebb követési távolságot kell elrendelni.
 
@@ -754,11 +738,11 @@ c) a forgalmi sáv szabad szélessége – hídszerkezet, egyéb műtárgy, elt�
 
 d) az úton (az út vízszintes vonalvezetése miatt) 22 méter hosszú járműszerelvény, illetőleg – az olyan úton, ahol a járműszerelvények közlekedését megtiltották – 12 méter hosszú jármű, vagy 18 méter hosszú csuklós jármű biztonságosan nem fér el.
 
-33.4[^143]
+33.4[^126]
 
 34. Egyes járműfajták behajtásának korlátozása
 
-34.1.[^144] Járművek (egyes járműfajták) behajtásának tilalmát abban az esetben lehet elrendelni, ha azt
+34.1.[^127] Járművek (egyes járműfajták) behajtásának tilalmát abban az esetben lehet elrendelni, ha azt
 
 a) a forgalom biztonsága vagy egységesítése,
 
@@ -772,123 +756,195 @@ A tilalom bevezetése esetén az átmenő forgalom részére megfelelő tehermen
 
 34.2 A járművek méreteinek korlátozása elrendelhető a járművek (egyes járműfajták) behajtásának megtiltásával is.
 
-34.3 A forgalom biztonságának és zavartalanságának érdekében azokon az utakon, amelyeken az átlagos napi forgalom a 6000 egységjárművet meghaladja, a mezőgazdasági vontatók, az állati erővel vont járművek és kerékpárosok közlekedését meg kell tiltani, ha azok úticéljukat a közelben levő más – lényeges útvonalnövekedést (általában 15–25 %) nem jelentő – úton elérhetik. Kötelező a mezőgazdasági vontatók, állati erővel vont járművek és – lehetőség szerint – a kerékpárosok forgalmának megtiltása, vagy kerékpársávok kijelölése olyan útszakaszokon, amelyek forgalmát összehangolt forgalomirányító fényjelző készülék irányítja.
+34.3.[^128] A forgalom biztonságának és zavartalanságának érdekében azokon a lakott területen kívüli utakon, amelyeken az átlagos napi forgalom a 6000 egységjárművet meghaladja, a mezőgazdasági vontatók, az állati erővel vont járművek és kerékpárosok közlekedését meg kell tiltani, ha azok úticéljukat a közelben levő más – lényeges útvonalnövekedést (általában 10–25%) nem jelentő – úton elérhetik.
 
 34.4 Állati erővel vont járművek, mezőgazdasági vontatók és a tehergépkocsik meghatározott körének közlekedése egyes városrészek, illetve területi egységek forgalmának egységesítése vagy más forgalmi és környezetvédelmi okok miatt is megtiltható.
 
-34.5[^145] Ha a 34.1. pontban említett szempontok a behajtási tilalom elrendelését teszik indokolttá, de nem célszerű megtiltani azoknak a járműveknek a forgalmát, amelyek úti célja az érintett úton van, a járművek behajtását a KRESZ 14. §-ának (3), (4) és (11) bekezdésében említett kiegészítő táblák alkalmazásával kell lehetővé tenni. A 34.1. pontban elrendelt korlátozás alól a közút kezelője[^146] eseti behajtási hozzájárulással felmentést adhat.
+34.5.[^129] Ha a 34.1. pontban említett szempontok a behajtási tilalom elrendelését teszik indokolttá, de nem célszerű megtiltani azoknak a járműveknek a forgalmát, amelyek úti célja az érintett úton van, a járművek behajtását a KRESZ 14. § (3), (4) és (11) bekezdésében említett kiegészítő táblák alkalmazásával kell lehetővé tenni. A 34.1. pontban elrendelt korlátozás alól a közút kezelője[^130] eseti behajtási hozzájárulással felmentést adhat a korlátozással érintett területen lakó, ott telephellyel rendelkező, vagy oda (onnan) áruszállítást végző természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság részére.
 
-34.6–34.8[^147]
+34.6–34.8[^131]
 
-35. Megállás, várakozás
+35.[^132] Megállás, várakozás
 
-35.1 Megállási, illetve várakozási tilalmat olyan helyen kell elrendelni, ahol a részben vagy teljes egészében a forgalmi sávon megálló (várakozó jármű) a forgalomban jelentős fennakadást okozna. Megállási vagy várakozási tilalom elrendelésénél figyelmet kell fordítani a tilalom alá eső terület közelében levő várakozási lehetőségekre.
+35.1. Megállási, illetve várakozási tilalmat olyan helyen kell elrendelni, ahol a részben, vagy teljes egészében a úttesten megálló (várakozó) jármű a forgalomban jelentős fennakadást okozna. Megállási vagy várakozási tilalom elrendelésénél figyelmet kell fordítani a tilalom alá eső terület közelében lévő várakozási lehetőségekre. Megállási tilalom hatálya alól sem kiegészítő táblával, sem más módon kivétel nem adható.
 
-35.2[^148] Várakozási tilalom elrendelhető olyan helyen is, ahol az a rakodási tevékenység érdekében szükséges. A rakodóhelyek kijelölésénél törekedni kell arra, hogy a rakodási igények kiszolgálása összevontan egy, a lehetséges legrövidebb rakodóhellyel legyen megoldva. Rakodóhelyet nem szabad kijelölni olyan helyen, ahol jogszabály[^149] előírásából vagy közúti jelzésből következően megállási tilalom van érvényben.
+35.2. Várakozási tilalom elrendelhető olyan helyen is, ahol az a rakodási tevékenység érdekében szükséges. A rakodóhelyek kijelölésénél törekedni kell arra, hogy a rakodási igények kiszolgálása összevontan egy, a lehetséges legrövidebb rakodóhellyel legyen megoldva. Rakodóhelyet nem szabad kijelölni olyan helyen, ahol jogszabály előírásából következően megállási tilalom van érvényben.
 
-35.3 [^150]
+35.3. A várakozási időtartam korlátozható a gyorsforgalmi utak mentén kialakított várakozó (pihenő) helyeken, annak érdekében, hogy azokon a gépjárművek tartós idejű tartózkodása ne akadályozza a rendeltetésszerű használatot.
 
-35.4[^151] Járművek részben vagy teljes terjedelemben járdán történő várakozás szabályozásánál a gyalogos forgalom számára a járda szélességének legalább a felét, de legkevesebb 1,5 méter széles járdafelületet kell biztosítani. Nem engedélyezhető a járművek részben vagy teljes terjedelemben járdán történő várakozása olyan helyeken, ahol a járda teherbírása nem megfelelő, vagy a járdára a járművek rongálódás veszélye nélkül nem tudnának felhajtani. A járművek részben járdán történő várakozását nem lehet ott engedélyezni, ahol az úttesten a várakozás tilos.
+35.4. Járművek részben vagy teljes terjedelemben járdán történő várakozás szabályozásánál a gyalogos forgalom számára a járda szélességének legalább a felét, de legkevesebb 1,5 méter széles járdafelületet kell biztosítani. Nem engedélyezhető a járművek részben vagy teljes terjedelemben járdán történő várakozása olyan helyeken, ahol a járda teherbírása nem megfelelő, vagy a járdára a járművek rongálódás veszélye nélkül nem tudnának felhajtani. A járművek részben járdán történő várakozását nem lehet ott engedélyezni, ahol az úttesten a várakozás tilos. Történelmi vagy topográfiai okok miatt kialakult, korlátozott sebességű szűk utcákban az egyik oldali járdán a várakozás 0,75–1,5 méter széles járdafelület biztosításával is kijelölhető, amennyiben a másik oldali járda teljes szélessége, vagy a járdán a 1,5 méteres járdafelület rendelkezésre áll és az ingatlanok megközelítését a járdán várakozó járművek nem akadályozzák.
 
-35.5 [^152]
+35.5. Ahol a KRESZ 40. § (5) bekezdésében elrendelt tilalmat jelzőtáblával is jelezni kell, a jelzőtábla alatt – ha van útpadka – minden esetben el kell helyezni a járművek útpadkán történő megállásának tilalmára utaló kiegészítő táblát.
 
-35.6 [^153]
+35.6. Ha a megállási, illetve a várakozási tilalom elrendelésének indoka csak bizonyos napokon, illetve napszakokban áll fenn, a tilalmat erre az időszakra kell korlátozni.
 
-35.7 [^154]
+35.7. Ahol a járművek megállását vagy várakozását az útpadkán is meg kell tiltani, ezt a tilalmat a jelzőtáblával együtt elhelyezett kiegészítő táblával (KRESZ 63/a. ábra) kell jelezni, kivéve, ha a megállási tilalmat autóbusz-, trolibusz-megállóhely vagy taxiállomás miatt nem rendelik el, és a KRESZ 158. ábra szerinti útburkolati jelet oda felfestették.
 
-35.8[^155] Ahol a KRESZ 40. §-ának (5) bekezdésében elrendelt tilalmat jelzőtáblával is jelezni kell, a jelzőtábla alatt — ha van útpadka — minden esetben el kell helyezni a járművek útpadkán történő megállásának tilalmára utaló kiegészítő táblát.
+35.8. A várakozási tilalom hatálya alól felmentett járművek meghatározott körét feltüntető kiegészítő tábla a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó szervek első számú vezetői által használt székházainál, az igazságügyi szervek (bíróságok, ügyészségek), a Magyar Honvédség, a rendvédelmi szervek (rendőrség, hivatásos katasztrófavédelmi szervek, a Nemzeti Adó- és Vámhivatal, büntetés-végrehajtási szervezet, hivatásos tűzoltóság) országos, továbbá területi vagy helyi szervei, a diplomáciai testületek, valamint a humán egészségügyi feladatokat ellátó szervezetek (kórházak, orvosi rendelőintézetek, mentőállomások, elsősegélynyújtó helyek) épületeinél, azok homlokzatának hosszában helyezhető el e szervek járműveinek a várakozási tilalom hatálya alóli mentesítése érdekében. A kiegészítő táblán egyértelművé kell tenni, ha a mentesítés kiterjed az ott dolgozók vagy az oda ügyintézésre érkezők személygépkocsijaira.
 
-35.9 Ha a megállási, illetve a várakozási tilalom elrendelésének indoka csak bizonyos napokon, illetve napszakokban áll fenn, a tilalmat erre az időszakra kell korlátozni.
+35.9. A járművek elszállíthatóságára utaló kiegészítő táblát (KRESZ 63/b. ábra) a „Várakozni tilos” jelzőtábla (KRESZ 61. ábra) alá a 35.8. pontban meghatározott helyeken és csupán abban az esetben lehet elhelyezni, ha az intézmény zavartalan ügyfélforgalma érdekében a gépjárműbe történő be- és kiszálláshoz szükséges megállási lehetőséget csak a járművek elszállításával lehet biztosítani.
 
-35.10–35.11[^156]
+35.10. Ahol a rendelkezésre álló várakozóhelyek számához viszonyítva rendszeresen sok jármű kíván várakozni és a várakozások túlnyomó többsége rövid tartamú, a meghatározott időtartamot meghaladó várakozást kell megtiltani. Ez történhet
 
-35.12[^157] Ahol a járművek megállását vagy várakozását az útpadkán is meg kell tiltani, ezt a tilalmat a jelzőtáblával együtt elhelyezett kiegészítő táblával (KRESZ 63/a. ábra) kell jelezni, kivéve, ha a megállási tilalmat autóbusz-, trolibusz-megállóhely vagy taxiállomás miatt nem rendelik el, és a KRESZ 158. ábra szerinti útburkolati jelet oda felfestették.
+a) a KRESZ 15. § (5) bekezdésében említett táblával kiegészített „Várakozni tilos” jelzőtáblával,
 
-35.13 a)[^158] A várakozási tilalom hatálya alól felmentett járművek meghatározott körét feltüntető kiegészítő tábla a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervek első számú vezetői által használt székházainál, az igazságügyi szervek (bíróságok, ügyészségek), a Magyar Honvédség, a rendvédelmi szervek (rendőrség, hivatásos katasztrófavédelmi szervek, vám- és pénzügyőrség, büntetés-végrehajtási szervezet, hivatásos önkormányzati tűzoltóság) országos, továbbá területi vagy helyi szervei, a diplomáciai testületek, valamint a humán egészségügyi feladatokat ellátó szervezetek (kórházak, orvosi rendelőintézetek, mentőállomások, elsősegélynyújtó helyek) épületeinél, azok homlokzatának hosszában helyezhető el e szervek járműveinek a várakozási tilalom hatálya alóli mentesítése érdekében. A kiegészítő táblán egyértelművé kell tenni, ha a mentesítés kiterjed az ott dolgozók vagy az oda ügyintézésre érkezők személygépkocsijaira.
-
-b) A járművek elszállíthatóságára utaló kiegészítő táblát (KRESZ 63/b. ábra) a ,,Várakozni tilos'' jelzőtábla (KRESZ 61. ábra) alá az a) pontban meghatározott helyeken és csupán abban az esetben lehet elhelyezni, ha az intézmény zavartalan ügyfélforgalma érdekében a gépjárműbe történő be- és kiszálláshoz szükséges megállási lehetőséget csak a járművek elszállításával lehet biztosítani.
-
-35.14 Ahol a rendelkezésre álló várakozóhelyek számához viszonyítva rendszeresen sok jármű kíván várakozni és a várakozások túlnyomó többsége rövid tartalmú, a meghatározott időtartamot meghaladó várakozást kell megtiltani. Ez történhet
-
-a) a KRESZ 15. §-ának (5) bekezdésében említett táblával kiegészített „Várakozni tilos” jelzőtáblával,
-
-b) várakozást ellenőrző óra működtetésének elrendelésével (KRESZ 113. ábra),
+b) várakozást ellenőrző óra, vagy jegykiadó automata működtetésének elrendelésével (KRESZ 113. ábra),
 
 c) tárcsa használatának elrendelésével (KRESZ 114. ábra).
 
-35.15 A 35.12 b) pontjában említett esetben a várakozást ellenőrző órát minden várakozóhelyhez el kell helyezni.
+35.11. A 35.10. pont b) alpontjában említett esetben a várakozást ellenőrző órát minden várakozóhelyhez el kell helyezni, jegykiadó automaták elhelyezésénél biztosítani kell, hogy a parkolóhelyek legalább 80%-ától az automata 75 méteres gyaloglással elérhető legyen.
 
-35.16[^159]
+35.12. A „Megállni tilos” jelzőtábla (KRESZ 60. ábra) alá a járművek elszállíthatóságára utaló KRESZ 63/b. ábra szerinti kiegészítő tábla csak annak érdekében helyezhető el, hogy
 
-35.17 [^160] A ,,Megállni tilos'' jelzőtábla (KRESZ 60. ábra) alá a járművek elszállíthatóságára utaló KRESZ 63/b. ábra szerinti kiegészítő tábla csak annak érdekében helyezhető el, hogy
+aa) a fényjelző készülék,
 
-a) a jármű,
+ab) a fénysorompó,
 
-– a fényjelző készülék,
-
-– a fénysorompó,
-
-– az elsőbbségadási kötelezettséget, tilalmat vagy veszélyt jelző tábla
+ac) az elsőbbségadási kötelezettséget, tilalmat vagy veszélyt jelző tábla
 
 észlelését ne akadályozza,
 
 b) a járműforgalmat vonzó intézmény ki- és bejárata, valamint az ahhoz vezető út zavartalanul megközelíthető legyen.
 
-35.18. Korlátozott várakozási övezetnek olyan területet szabad kijelölni,
+35.13. Korlátozott várakozási övezetnek olyan területet szabad kijelölni,
 
-– amelynek teljes úthálózatán, az útterületen rendelkezésre álló várakozóhelyek száma a várakozási igényektől jelentősen elmarad, és az igények kielégítése csak időbeni korlátozással érhető el,
+a) amelynek teljes úthálózatán, az útterületen rendelkezésre álló várakozóhelyek száma a várakozási igényektől jelentősen elmarad, és az igények kielégítése csak időbeni korlátozással érhető el,
 
-– amelynek környezetében a járművek várakozása az úttesten vagy útterületen kívül megoldható,
+b) amelynek környezetében a járművek várakozása az úttesten vagy útterületen kívül már biztosított,
 
-– ahol a kijelölt várakozóhelyek korlátozott idejű igénybevételének elrendeléséhez szükséges feltételek adottak,
+c) ahol a kijelölt várakozóhelyek korlátozott idejű igénybevételének elrendeléséhez szükséges feltételek adottak,
 
-– ahol a mozgáskorlátozottakat szállító gépkocsik részére a helyi igényeknek megfelelő számú várakozóhely kialakítására lehetőség van.
+d) ahol a mozgáskorlátozottakat szállító gépkocsik részére a helyi igényeknek megfelelő számú várakozóhely van.
 
-35.19[^161] Várakozási övezetnek olyan területet szabad kijelölni, amelynek teljes úthálózatán az útterületen rendelkezésre álló várakozóhelyek száma a várakozási igényektől jelentősen elmarad, és az igények kielégítése csak feltételekkel érhető el. A várakozás feltételeit (időszak, időtartam, várakozási díj, díjfizetés módja) kiegészítő táblán kell jelezni.
+A várakozás feltételei (időszak, időtartam) kiegészítő táblán jelezhetők.
 
-35.20[^162] Korlátozott várakozási övezet jelzőtáblákkal (KRESZ 61/a. ábra) együtt a KRESZ 63/c. ábra szerinti kiegészítő táblákat ott kell elhelyezni, ahol a várakozási szabályokat megszegők járművét kerékbilinccsel rögzíthetik.
+35.14. Várakozási övezetnek olyan területet szabad kijelölni, amelynek teljes úthálózatán az útterületen rendelkezésre álló várakozóhelyek száma a várakozási igényektől jelentősen elmarad, és az igények kielégítése csak feltételekkel érhető el. A várakozás feltételeit (időszak, időtartam, várakozási díj, a 35.10. pont szerint a díjfizetés módja) kiegészítő táblán kell jelezni.
+
+A jegykiadó automatákon legalább a következő információkat fel kell tüntetni:
+
+a) a várakozási díj, valamint a pótdíj összege,
+
+b) a díjfizetés időszaka és a megengedett leghosszabb várakozási időtartam,
+
+c) a fizetés módja (készpénz, parkoló kártya, bankkártya, mobiltelefon, stb),
+
+d) a működtető neve és elérhetősége,
+
+e) a díj szedését szabályozó jogszabály megjelölése.
+
+35.15. a) A díjfizetési kötelezettség olyan várakozási területen, olyan időszakra (tervezett időszak) rendelhető el, amelyen az adott időszakban a járművek várakozására alkalmas helyek átlagos foglaltsága (a továbbiakban: telítettség) a 70%-ot meghaladja.
+
+A díjfizetési kötelezettség tervezett időszaka a várakozási szokások befolyásolására, előtte-utána 2 órával kibővíthető.
+
+A telítettség megállapításánál figyelembe kell venni az alábbi szempontokat:
+
+aa) a várakozási díj megfizetésének kötelezettsége a naptári év napjai legalább 50%-án fennáll, és
+
+ab) a legalább 100 darab várakozóhely működik a területen, és
+
+ac) a telítettség legalább 20%-a két óránál rövidebb idejű parkolási igénnyel lép fel.
+
+35.15. b) A várakozási övezetként kijelölt területnek egybefüggőnek, a szabályozásnak egységesnek, a terület határainak egyértelműnek kell lennie. Amennyiben a várakozási területen a közterületeknek nem azonos a tulajdonosa, abban az esetben a tulajdonosok előzetes egymás közötti megállapodását követően lehet csak bevezetni a díjfizetési kötelezettséget. Ebben az esetben a tulajdonosok (az általuk megbízott üzemeltetők) kötelesek bármely – azonos tarifaövezetben levő – parkolóautomatánál váltott parkolójegyet elfogadni.
+
+A telítettség mértékét
+
+ba) új díjfizetési kötelezettség elrendelését, vagy
+
+bb) a díjfizetési kötelezettség 1 óránál hosszabb időbeli kiterjesztését, vagy
+
+bc) a várakozási terület parkolóhelyszámának (jelen jogszabály hatálybalépésének időpontjában meglevő férőhelyszám) 10%-nál nagyobb bővítését
+
+megelőzően kell megállapítani a változás által érintett teljes területen, a következők szerint:
+
+bd) a mérést a tulajdonos önkormányzat megrendelésére megfelelő – a Magyar Mérnöki Kamara által igazolt – jogosultsággal rendelkező szakember bevonásával kell elvégezni,
+
+be) a díjfizetési kötelezettség alá eső teljes területen a közcélra használható várakozóhelyeken, külön felvéve a tiltott módon várakozók számát,
+
+bf) a mérés időpontját a legnagyobb forgalmú évszakban, két egymást követő héten, a tervezett díjfizetési időszaknak megfelelően kell kijelölni,
+
+bg) a mérést a tervezett díjfizetési időszakban legalább óránként kell elvégezni,
+
+bh) a mérés során a közcélú várakozóhelyeken elhelyezett járművek számát a tiltott módon várakozók számával meg kell növelni és a kapott eredményt – mint összes várakozási igényt – kell a rendelkezésre álló várakozóhelyek számához viszonyítani (%).
+
+35.15. c) A mérést és eredményét – időbélyeggel vagy időazonosítóval ellátott fényképfelvételekkel együtt – is dokumentálni kell és 5 évig meg kell őrizni. A díjfizetési kötelezettséggel rendelkező területet határoló területen – amennyiben ott parkolási feszültség jelentkezik – korlátozott várakozási övezet kijelölésével, vagy a díjfizetési övezetben degresszív, progresszív, lépcsős díjrendszer alkalmazásával szükséges szabályozni.
+
+35.16. Korlátozott várakozási, valamint a várakozási övezet jelzőtáblákkal (KRESZ 61/a., illetve KRESZ 112/d. ábra) együtt a KRESZ 63/b., 63/c. ábra szerinti kiegészítő táblákat ott kell elhelyezni, ahol a várakozási szabályokat megszegők járművét elszállíthatják, és/vagy kerékbilinccsel rögzíthetik.
+
+35.17. a) P+R várakozóhely jelölhető ki olyan helyszínen, ahol:
+
+aa) az utazási igények szempontjából meghatározó közösségi közlekedési eszköz reggeli csúcsidei követési ideje
+
+aaa) helyi közforgalmú közlekedés esetében legfeljebb 10 perc,
+
+aab) helyközi közforgalmú közlekedés esetében legfeljebb 30 perc, és
+
+ab) és a várakozóhelyek átlagos távolsága a közösségi közlekedési megállóhelytől legfeljebb 300 méter, vagy a gyaloglás időszükséglete a parkoló bejáratától a meghatározó közösségi közlekedési eszköz megállóhelyéig legfeljebb 5 perc, (a gyaloglás időszükségletét a hétköznap reggeli csúcsidő feltételei között, a szabályosan közlekedő gyalogos esetére kell megállapítani), és
+
+ac) a várakozóhely szilárd burkolattal, víztelenítéssel, valamint közvilágítással rendelkezik, és
+
+ad) a meghatározó közösségi közlekedési eszköz megállóhelyéhez a gyalogosok számára szilárd burkolatú, közvilágítással ellátott gyalogút vagy járda vezet.
+
+35.17. b) A várakozóhely kialakításánál törekedni kell a fásításra (árnyékoló növényzetre), térfigyelő kamerák működtetésére, a közösségi közlekedésre vonatkozó tájékoztatás elhelyezésére. Gondoskodni kell 50 férőhelyenként egy mozgáskorlátozottak részére kijelölt várakozóhelyről, melyet a közösségi közlekedés megállóhelyéhez legközelebb kell elhelyezni. Amennyiben a várakozóhelyet körbekerítették és a be-, illetve kihajtás ellenőrzött módon történik, a többletszolgáltatásért díj szedhető, mely mértékét a P+R várakozási hely kezelője határozza meg.
+
+35.17. c) A P+R parkolóhelyre utaló jelzőtáblák elhelyezésével szükséges a várakozóhelyet és megközelítését jelezni, amelyen célszerű feltüntetni:
+
+ca) a szabad férőhelyek számát,
+
+cb) a következő közösségi közlekedési eszköz indulásáig hátralévő időt, továbbá – amennyiben szükséges –
+
+cc) a nyitva tartás idejét,
+
+cd) a fizetendő díj mértékét.
+
+35.17. d) A P+R parkolóban jól láthatóan, egyértelműen és rendszeresen frissítetten, magyarul, angolul és a szükséges további nyelveken közzé kell tenni a következő információkat:
+
+da) közösségi közlekedési térképet,
+
+db) közösségi közlekedési menetrendet,
+
+dc) a közösségi közlekedési eszközök megállóinak elérését segítő útbaigazító táblákat.
+
+A P+R parkoló működtetésével kapcsolatos információk (férőhely, helyszín, díjfizetés, egyéb szolgáltatások, meghatározó közösségi közlekedési eszköz, annak reggeli csúcsidei követési ideje) gyűjtését és közzétételét annak üzemeltetője végzi.
+
+35.18. A 200 férőhelyet meghaladó parkolási létesítményeknél (P+R, parkolóház, parkológarázs, zárt felszíni parkoló) a szabad parkolóhelyek számát rendszerbe foglalt változtatható jelzésképű jelzőtáblákkal indokolt jelezni.
 
 36. Veszélyes helyek jelölése
 
 36.1 A veszélyt jelző táblákat az úton – vagy annak közvetlen környezetében – fennnálló, illetve lehetséges olyan veszélyekre való figyelemfelhívás céljából kell alkalmazni, amelyeket a járművezető az adottságokból – a szükséges figyelemmel és elővigyázatossággal haladva is – csak nehezen vagy egyáltalán nem tud kellő időben felismerni. A veszélyt jelző táblák elhelyezése földutakon általában mellőzhető.
 
-36.2[^163] A veszélyes útszakasz hosszát kiegészítő táblán (KRESZ 97. ábra) kell jelezni, ha a veszélyes útkanyarulatok száma 3, vagy ennél több: az „Egymás utáni veszélyes útkanyarulatok” (KRESZ 66–67. ábra) jelzőtábla alatt.
+36.2[^133] A veszélyes útszakasz hosszát kiegészítő táblán (KRESZ 97. ábra) kell jelezni, ha a veszélyes útkanyarulatok száma 3, vagy ennél több: az „Egymás utáni veszélyes útkanyarulatok” (KRESZ 66–67. ábra) jelzőtábla alatt.
 
-36.3[^164]
+36.3[^134]
 
 36.4 A veszélyes útkanyarulatokat jelző táblákat (KRESZ 64–67. ábra) elsősorban olyan útkanyarulatok – vagy útszakaszok, amelyeken egymás utáni útkanyarulatok vannak – jelzésére kell alkalmazni, ahol a biztonságos haladáshoz szükséges sebesség a megelőző útszakasz (útkanyarulat) biztonságos – a megengedett legnagyobb sebességet meg nem haladó – haladási sebességéhez képest legalább egyharmaddal csökken.
 
-36.5[^165]
+36.5[^135]
 
-36.6[^166] Az „Útszűkület” jelzőtáblát (KRESZ 70. és 71. ábra) olyan helyek jelzésére kell alkalmazni, ahol
+36.6.[^136] Az „Útszűkület” jelzőtáblát (KRESZ 70. és 71. ábra) olyan helyek jelzésére kell alkalmazni, ahol
 
-– az útburkolat változatlan szélessége mellett a padkán akadály jelenik meg, illetve a padka megszűnik,
+a) az útburkolat változatlan szélessége mellett a padkán a burkolatszéltől számított 50 cm-en belül akadály jelenik meg, illetve a padka megszűnik,
 
-– az út burkolatának szélessége csökken,
+b) az út burkolatának szélessége forgalmi sávonként legalább 50-50 cm-t csökken, vagy az útburkolat teljes szélessége – útkereszteződésen kívül – 6 méter alá csökken,
 
-– a forgalmi sáv(ok) szélessége csökken,
-
-– a szembejövő forgalom elsőbbségét a KRESZ 13. és 14. ábra szerinti jelzőtáblákkal szabályozták.
+c) a szembejövő forgalom elsőbbségét a KRESZ 13. és 14. ábra szerinti jelzőtáblákkal szabályozták.
 
 Az „Útszűkület” jelzőtáblán az útszűkület tényleges alaprajzi vázlatát kell feltüntetni.
 
 36.7 Az „Útszűkület” jelzőtábla forgalmi sávok megszűnésének jelzésére – az ideiglenes forgalomszabályozás esetét kivéve – nem alkalmazható.
 
-36.8[^167] A »Szembejövő forgalom« jelzőtáblát mindig alkalmazni kell, ha
+36.8.[^137] A „Szembejövő forgalom” jelzőtáblát mindig alkalmazni kell, ha
 
-– osztottpályás út – útkereszteződésen kívül – nem osztottpályás útban folytatódik,
+a) osztott pályás út – útkereszteződésen kívül – nem osztott pályás útban folytatódik,
 
-– az útkereszteződésben elsőbbséggel rendelkező osztottpályás út – az útkeresztezdés után – nem osztottpályás útban folytatódik,
+b) az útkereszteződésben elsőbbséggel rendelkező osztott pályás út – az útkereszteződés után – nem osztott pályás útban folytatódik,
 
-– egyirányú forgalmú út kétirányú forgalmú útban folytatódik,
+c) egyirányú forgalmú út kétirányú forgalmú útban, vagy a KRESZ 105/a. kiegészítő táblával jelölt, ellenirányú autóbusz- és/vagy kerékpárforgalommal rendelkező egyirányú útban folytatódik,
 
-– az egyirányú forgalmú úton (pl. ellenirányú autóbusz-forgalmi sáv, ellenirányú kerékpársáv stb. kijelölése miatt) rendszeresen szembejövő járművek forgalmával kell számolni,
+d) az addig egyirányú forgalmú út forgalmi rendjét kétirányúra változtatják, az új forgalmi rend bevezetését követően legalább 3 hónapig,
 
-– az addig egyirányú forgalmú út forgalmi rendjét kétirányúra változtatják, az új forgalmi rend bevezetését követően legalább 3 hónapig,
+e) közúton folyó munkák miatti elkorlátozás során az egyirányú forgalmú úton, úttesten (útpályán, úttestrészen) az elkorlátozással összefüggésben a kétirányú forgalmat ideiglenesen megengedik,
 
-– közúton folyó munkák miatti elkorlátozás során az egyirányú forgalmú úton, úttesten (útpályán, úttestrészen) az elkorlátozással összefüggésben a kétirányú forgalmat idiglenesen megengedik,
-
-– közúton folyó munkák miatti elkorlátozás során az ideiglenesen egyirányúsított út két irányú forgalmú útban folytatódik.
+f) közúton folyó munkák miatti elkorlátozás során az ideiglenesen egyirányúsított út kétirányú forgalmú útban folytatódik.
 
 36.9 A „Bukkanó” jelzőtáblát (KRESZ 75. ábra) az olyan veszélyes hely jelzésére kell alkalmazni, ahol – az útszakasz függőleges vonalvezetése folytán – az előzési látótávolság a tetőponthoz való közeledés közben nem fokozatosan, hanem ugrásszerűen csökken, és az útszakaszon előzési tilalom nincs elrendelve.
 
@@ -912,9 +968,9 @@ Az „Útszűkület” jelzőtáblán az útszűkület tényleges alaprajzi váz
 
 36.15 Az „Útkereszteződés alárendelt úttal” jelzőtábla (KRESZ 89. ábra) – veszélyes útkereszteződések előjelzésére – autóúton és főútvonalon is elhelyezhető.
 
-36.16[^168]
+36.16[^138]
 
-36.17[^169] Az „Egyéb veszély” jelzőtáblát (KRESZ 94. ábra) olyan veszély jelzésére lehet alkalmazni, amely veszély jelzésére önálló veszélyt jelző tábla nincs. A jelzőtábla alatt szöveget vagy jelképet feltüntető kiegészítő táblával utalni kell – lehetőség szerint – a veszély jellegére. Forgalmi rend változás'' feliratú kiegészítő táblát kell az ,,Egyéb veszély'' jelző tábla alatt elhelyezni, ha
+36.17[^139] Az „Egyéb veszély” jelzőtáblát (KRESZ 94. ábra) olyan veszély jelzésére lehet alkalmazni, amely veszély jelzésére önálló veszélyt jelző tábla nincs. A jelzőtábla alatt szöveget vagy jelképet feltüntető kiegészítő táblával utalni kell – lehetőség szerint – a veszély jellegére. Forgalmi rend változás'' feliratú kiegészítő táblát kell az ,,Egyéb veszély'' jelző tábla alatt elhelyezni, ha
 
 – az útkereszteződésben az elsőbbségi viszonyok megváltoztak,
 
@@ -924,11 +980,15 @@ Az „Útszűkület” jelzőtáblán az útszűkület tényleges alaprajzi váz
 
 – gyalogos-átkelőhelyet jelöltek ki.
 
-36.18[^170] A ,,Körforgalom'' veszélyt jelző táblát (KRESZ 95/e. ábra) a körforgalmú csomópont előtt abban az esetben kell elhelyezni, ha a csomópont jellege kellő távolságból (legalább előzési látótávolságon belül) nem ismerhető fel.
+36.18[^140] A ,,Körforgalom'' veszélyt jelző táblát (KRESZ 95/e. ábra) a körforgalmú csomópont előtt abban az esetben kell elhelyezni, ha a csomópont jellege kellő távolságból (legalább előzési látótávolságon belül) nem ismerhető fel.
+
+36.19.[^141] A „Torlódás” (KRESZ 95/f. ábra) jelzőtábla lakott területen kívül akkor helyezhető el, ha az úton rendszeresen forgalmi akadályt okoznak a feltorlódott járművek.
+
+36.20.[^142] Sárga vagy fényvisszaverő sárga hátterű táblákat csak baleseti góchelyeken szabad alkalmazni.
 
 37. Tájékoztatás, útbaigazítás
 
-37.1–37.4 [^171]
+37.1–37.4 [^143]
 
 37.5 A különböző szolgáltatások, kulturális, idegenforgalmi, természetvédelmi és sportolási lehetőségek KRESZ-táblával történő jelzésénél figyelemmel kell lenni arra, hogy a jelzett létesítménynél a várakozási lehetőség biztosított legyen.
 
@@ -938,21 +998,21 @@ Az „Útszűkület” jelzőtáblán az útszűkület tényleges alaprajzi váz
 
 37.8 A jelzőtábla alatt a nyitva tartási időtartam kiegészítő táblán feltüntethető.
 
-38.[^172] Egyes közúti jelzőtáblák alkalmazása
+38.[^144] Egyes közúti jelzőtáblák alkalmazása
 
-39. Egyes útburkolati jelek alkalmazása[^173]
+39. Egyes útburkolati jelek alkalmazása[^145]
 
 X. fejezet
 
 Közúti jelzések elhelyezése
 
-40.[^174] Közúti jelzőtáblák elhelyezése
+40.[^146] Közúti jelzőtáblák elhelyezése
 
-41. Útburkolati jelek létesítése[^175]
+41. Útburkolati jelek létesítése[^147]
 
 Függelékek a forgalomszabályozási műszaki szabályzathoz
 
-I. függelék[^176]
+I. függelék[^148]
 
 Közúti fogalmak
 
@@ -990,9 +1050,17 @@ p) Gyalogos felállóhely: a kijelölt gyalogos-átkelőhely és a hozzá vezet�
 
 r) Összehangolt jelzőlámpás csomópontok: közös időalappal működő a ,,vezérlő-vezérelt'' logikai kapcsolatban lévő forgalomirányító fényjelző készülékkel irányított útkereszteződések (kijelölt gyalogos átkelőhelyek),
 
-s)[^177]
+s)[^149]
 
-t)[^178] Forgalomtechnikai feladatok: az úton a forgalmi rend kialakítása, valamint a forgalom szabályozása közúti jelzésekkel (közúti jelzőtáblákkal, útburkolati jelekkel), jelzőberendezésekkel, valamint egyéb forgalomtechnikai elemek felhasználásával.
+t)[^150] Forgalomtechnikai feladatok: az úton a forgalmi rend kialakítása, valamint a forgalom szabályozása közúti jelzésekkel (közúti jelzőtáblákkal, útburkolati jelekkel), jelzőberendezésekkel, valamint egyéb forgalomtechnikai elemek felhasználásával.
+
+u)[^151] Körforgalom: olyan középszigettel és körpályával rendelkező útkereszteződés, amelynek minden ága „Körforgalom” és „Elsőbbségadás kötelező” jelzőtáblával szabályozott.
+
+v)[^152] Többsávos körforgalom: kiemelt, át nem járható középszigettel, többsávos körpályával és legalább egyik ágán kanyarodósávokkal kialakított körforgalom.
+
+w)[^153] Körpálya: a körforgalom útteste, amely körbezárja a középszigetet.
+
+zs)[^154] Közúti üzemmel kapcsolatos létesítmény: közúti üzemeltetéssel kapcsolatos létesítmény, üzemanyagtöltő állomás.
 
 (A függelékben nem szereplő egyéb fogalmakat a KRESZ tartalmazza.)
 
@@ -1004,29 +1072,17 @@ A rendeletben használt egyes fogalmak meghatározása a következő:
 
 a) Vasúti átjáró: útnak vasúti pályával való szintbeni kereszteződése. Része a vasúti átjárónak az úthoz tartozó járda vasúti pályával való kereszteződése. Nem minősül azonban vasúti átjárónak az útnak közúti vasúti (villamos-) pályával való kereszteződése.
 
-b)[^179] Csökkentett szolgáltatási szintű vasúti pálya: legfeljebb 40 km/óra sebességgel közlekedő vonatokkal járt, folyamatosan nem felügyelt vasúti pálya, amelyen közforgalmú vasúti személyszállítási tevékenységet nem folytatnak.
+b)[^155] Csökkentett szolgáltatási szintű vasúti pálya: legfeljebb 40 km/óra sebességgel közlekedő vonatokkal járt, folyamatosan nem felügyelt vasúti pálya, amelyen közforgalmú vasúti személyszállítási tevékenységet nem folytatnak.
 
-c)[^180]
+c)[^156] Vasúti átjáró áthelyezése: a vasúti pálya vagy az út nyomvonalának módosítása miatt meglévő vasúti átjáró megszüntetése és az eredeti forgalmi funkció ellátására új helyen történő létesítése.
 
-d)[^181] Vasúti gyalogos-átkelőhely: a gyalogosforgalom részére kiépített – vasúti átjáróként nem jelölt – szilárd burkolatú átvezetés a vasúti pályán, amely ha vasúti átjárónál van, annak részét képezi.
+d)[^157] Vasúti gyalogos-átkelőhely: a gyalogosforgalom részére kiépített – vasúti átjáróként nem jelölt – szilárd burkolatú átvezetés a vasúti pályán, amely ha vasúti átjárónál van, annak részét képezi.
 
-e)[^182] Mértékadó vasúti átjáró-forgalom: az a legnagyobb számérték, amelyet a vasúti átjáróban egy óra alatt áthaladó közúti járművek – személygépkocsi egységre átszámított – számának és az ugyanazon idő alatt menetrend szerint áthaladó vonatok számának a szorzata naptári évenként legalább 50 esetben elér vagy meghalad. A közúti járművek számát a következő szorzószámok alkalmazásával kell személygépkocsi egységre átszámítani:
+e)[^158] Mértékadó vasúti átjáró-forgalom: az a legnagyobb számérték, amelyet a vasúti átjáróban egy óra alatt áthaladó közúti járművek – személygépkocsi egységre az érvényes előírások szerint átszámított – számának és az ugyanazon idő alatt menetrend szerint áthaladó vonatok számának a szorzata naptári évenként legalább 50 esetben elér vagy meghalad.
 
-személygépkocsi 1,0
+f)[^159] Mértékadó gyalogos-átkelőhely forgalom: az a legnagyobb számérték, amelyet a vasúti átjáróban egy óra alatt áthaladó gyalogosok számának és az ugyanazon idő alatt menetrend szerint áthaladó vonatok számának a szorzata naptári évenként legalább 50 esetben elér vagy meghalad.
 
-motorkerékpár, segédmotoros kerékpár 0,8
-
-autóbusz 2,5
-
-tehergépkocsi, vontató, mezőgazdasági vontató (pótkocsival vagy anélkül) 2,5
-
-lassú jármű, állati erővel vont jármű 3,0
-
-kerékpár, kézikocsi 0,3
-
-f)[^183] Mértékadó gyalogos-átkelőhely forgalom: az a legnagyobb számérték, amelyet a vasúti átjáróban egy óra alatt áthaladó gyalogosok számának és az ugyanazon idő alatt menetrend szerint áthaladó vonatok számának a szorzata naptári évenként legalább 50 esetben elér vagy meghalad.
-
-g)[^184] Teljes rálátási háromszög: az a háromszög terület, amelyet az úttest felezővonalának és a vasúti pálya tengelyének metszéspontjától
+g)[^160] Teljes rálátási háromszög: az a háromszög terület, amelyet az úttest felezővonalának és a vasúti pálya tengelyének metszéspontjától
 
 az úttesten a vasúti átjáró előtt Lk távolságban, és
 
@@ -1060,7 +1116,7 @@ h) Csökkentett rálátási háromszög: az a háromszög, amelyet az úttest fe
 
 - a vasúti pályán mindkét irányban Lv távolságban levő pontok határoznak meg. Az Lv távolság azonos a teljes rálátási háromszögnél leírt definícióval.
 
-i)[^185] vasúti gyalogos-átkelőhelynél szükséges szabad rálátás.
+i)[^161] vasúti gyalogos-átkelőhelynél szükséges szabad rálátás.
 
 Vasúti gyalogos-átkelőhelynél a rálátás akkor szabad, ha az elsodrási határtól a vasúti pálya mindkét irányban Lv távolságra belátható. Lv távolság (méterben) a vasúti pályára engedélyezett sebesség km/órában megadott számértékének
 
@@ -1098,150 +1154,134 @@ q) Időszakosan üzemelő teljes sorompó: olyan teljes sorompó, amelyet csak m
 
 r) Jelzővel függésben levő sorompó: az a teljes-, fél-, fénysorompó, amelynél csak a sorompó zárt helyzetében állítható „szabad” állásba a vasúti jelző.
 
-s)[^186] Vonat által vezérelt sorompó: az a fény-, ill. fény- és félsorompó, amelynek zárását és nyitását minden irányból – vagy állomások területén levő, illetőleg ahhoz közeli vasúti átjáróknál legalább egyik irányból (pl. a nyíltvonal felől) – a vasúti jármű a vasúti pályába beépített vonatérzékelő elemeken áthaladva vezérli. Jelzővel ellenőrzött vonat által vezérelt sorompó: az a sorompó, ahol a berendezés üzemképes működését vasúti jelző ellenőrzi.
+s)[^162] Vonat által vezérelt sorompó: az a fény-, ill. fény- és félsorompó, amelynek zárását és nyitását minden irányból – vagy állomások területén levő, illetőleg ahhoz közeli vasúti átjáróknál legalább egyik irányból (pl. a nyíltvonal felől) – a vasúti jármű a vasúti pályába beépített vonatérzékelő elemeken áthaladva vezérli. Jelzővel ellenőrzött vonat által vezérelt sorompó: az a sorompó, ahol a berendezés üzemképes működését vasúti jelző ellenőrzi.
 
 t) Menekítősáv: legalább 30 m hosszúságú és egy forgalmi sáv (FMSZ 1.2 pont) szélességű útfelület vasúti átjárón keresztülvezető út másik úthoz történő csatlakozásánál.
 
-u)–v)[^187]
+u)[^163] Számított kapacitás (Ej/óra): megfelelő forgalom * [1 – zárvatartási idő (perc)*csúcsórai vasúti forgalom (vonat/óra)/60], ahol a megfelelő forgalom lakott területen kívül 1400 Ej/óra, lakott területen belül 1500 Ej/óra.
+
+v)[^164]
 
 z) Folyamatos szolgálatot ellátó állomás: ahol a vonatközlekedés idején szolgálatot tartanak.
 
 x) A rendeletben foglalt, a vasúti átjárótól számított különböző távolságok (pl. 30 m, 80 m stb.) mindig a vágánytengelytől értendők. (Több vágány esetén a legközelebb levő vágánytengelytől.)
 
-y)[^188] Előzárási idő:
+y)[^165] Előzárási idő:
 
 A fénysorompó villogó piros fényre váltásától a – vasúti pályára engedélyezett legnagyobb sebességgel közlekedő – vonatnak a vasúti átjáróhoz érkezéséig eltelt idő. A fény-, illetve félsorompóval kiegészített, fénysorompóval biztosított vasúti átjáró előzárási idejének számításánál 1,6 m/sec legkisebb közúti járműsebességet és 10 sec biztonsági többletidőt kell figyelembe venni.
 
-[^56]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 23. §-ának 2. pontja hatályon kívül helyezte.
-[^57]: A melléklet megjelölését a 18/2003. (IV. 9.) GKM rendelet 5. §-a iktatta a szövegbe.
-[^58]: Az FMSZ a 2/1999. (I. 18.) KHVM rendelet 10. §-ának (3) bekezdésével, illetve 1. számú mellékletével módosított szöveg.
-[^59]: Az 1.1. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^60]: A melléklet 1.2 pontját a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^61]: Az 1.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^62]: A melléklet 1.4 pontját a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^63]: Az 1.5. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^64]: Az 1.9. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^65]: Az 1.10. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^66]: Az 1.11. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
-[^67]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 1.13. pontját a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe.
-[^68]: A melléklet 2.2. pontjának b) alpontja a 18/2003. (IV. 9.) GKM rendelet 6. §-ával megállapított szöveg.
-[^69]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 2.3–2.14 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^70]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 3.6–3.14 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^71]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 4.2–4.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^72]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 6.7–6.10 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^73]: A melléklet 6.11. pontját a 18/2003. (IV. 9.) GKM rendelet 9. §-a iktatta szövegbe.
-[^74]: A melléklet 6.12. pontját a 18/2003. (IV. 9.) GKM rendelet 9. §-a iktatta szövegbe.
-[^75]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 7.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^76]: A melléklet 8.1. pontja a 18/2003. (IV. 9.) GKM rendelet 10. §-ával megállapított szöveg.
-[^77]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 8.2–8.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^78]: A 8.5. pont második mondatát hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^79]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 8.7 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^80]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 8.8. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
-[^81]: A 8.9. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^82]: A melléklet 9.1. pontja a 18/2003. (IV. 9.) GKM rendelet 11. §-ával megállapított szöveg.
-[^83]: A 9.2. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^84]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 9.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^85]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 9.6 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^86]: A 9.7. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^87]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 9.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^88]: A 9.10. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^89]: A 9.11. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bb) pontja.
-[^90]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 9.12. pontját a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (3) bekezdése iktatta a szövegbe.
-[^91]: A melléklet III. fejezete a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^92]: A 12.1. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^93]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 12.3–12.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^94]: A 12.9. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^95]: A 12.10. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^96]: A melléklet 12.11 pontját a 18/2003. (IV. 9.) GKM rendelet 13. §-ának (2) bekezdése iktatta a szövegbe.
-[^97]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 14. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (5) bekezdésével megállapított szöveg.
-[^98]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 15.3–15.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^99]: A melléklet 16. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^100]: A melléklet 17.3–17.5. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^101]: A melléklet 18. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^102]: A melléklet 19. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^103]: A melléklet 20. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^104]: A melléklet 21. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^105]: A melléklet 22. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^106]: A 23.8. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^107]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.9–23.12 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^108]: A 23.13. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^109]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.18. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (6) bekezdésével megállapított szöveg.
-[^110]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.20 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^111]: A 24.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^112]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 24.4–24.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^113]: A melléklet 24.7 pontjának utolsó mondatát a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^114]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 24.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^115]: A melléklet 24.9 pontja a 18/2003. (IV. 9.) GKM rendelet 15. §-ának (3) bekezdésével megállapított, valamint a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
-[^116]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 24.10 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^117]: A melléklet 24.11 pontját a 18/2003. (IV. 9.) GKM rendelet 15. §-ának (5) bekezdése iktatta a szövegbe.
-[^118]: A 25.2. pont utolsó két mondatát hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^119]: A 25.8. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^120]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 25.9 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^121]: A melléklet 26.2. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^122]: A melléklet 26.4. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^123]: Lásd a 30/1988. (IV. 21.) MT rendelet 32. § (1) bekezdését.
-[^124]: A melléklet 26.6. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^125]: A melléklet 26.8. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^126]: A 9/1993. (III.31.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
-[^127]: A melléklet 26.11. pontjának b) alpontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^128]: A 9/1993. (III.31.) KHVM rendelet 3.§-a hatályon kivül helyezte.
-[^129]: A melléklet 26.13. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^130]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 28. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^131]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 29.1. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (7) bekezdésével megállapított szöveg.
-[^132]: A 29.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^133]: A melléklet 29.4. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^134]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 29.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^135]: A melléklet 30.1 pontja a 18/2003. (IV. 9.) GKM rendelet 17. §-ának (1) bekezdésével megállapított szöveg.
-[^136]: A melléklet 30.2 pontja a 18/2003. (IV. 9.) GKM rendelet 17. §-ának (2) bekezdésével megállapított szöveg.
-[^137]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 30.3. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (8) bekezdésével megállapított szöveg.
-[^138]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 30.4 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^139]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 31.1 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^140]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 31.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^141]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 32.2 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^142]: A melléklet 33.1. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^143]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 33.4 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^144]: A melléklet 34.1. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^145]: A melléklet 34.5 pontja a 18/2003. (IV. 9.) GKM rendelet 18. §-ának (2) bekezdésével megállapított szöveg.
-[^146]: 1988. évi I. törvény a közúti közlekedésről, 33. § (1) bekezdés, továbbá az 1990. évi LXV. törvény a helyi önkormányzatokról, 63/A. § g) bekezdés.
-[^147]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 34.6–34.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^148]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 35.2. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (9) bekezdésével megállapított szöveg.
-[^149]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 40. §-a.
-[^150]: A 35.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^151]: A melléklet 35.4 pontja a 26/1994. (IX. 23.) KHVM rendelet 1. pontjával megállapított szöveg.
-[^152]: A 35.5. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^153]: A 35.6. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
-[^154]: A melléklet 35. 7 pontját a 26/1994. ( IX. 23.) KHVM rendelet mellékletének 3. pontja hatályon kívül helyezte.
-[^155]: A melléklet 35.8 pontja a 26/1994. (IX. 23.) KHVM rendelet 1. pontjával megállapított szöveg.
-[^156]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 35.10–35.11 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^157]: A melléklet 35.12 pontja a 26/1994. (IX. 23.) KHVM rendelet 1. pontjával megállapított szöveg.
-[^158]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 35.13. pontjának a) alpontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (10) bekezdésével megállapított és a 118/2007. (XII. 29.) GKM rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^159]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 35.16 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^160]: A melléklet 35.17 pontját a 26/1994. (IX. 23.) KHVM rendelet mellékletének 2. pontja iktatta be, szövege a 18/2003. (IV. 9.) GKM rendelet 19. §-ának (1) bekezdésével megállapított szöveg.
-[^161]: A melléklet 35.19 pontját a 18/2003. (IV. 9.) GKM rendelet 19. §-ának (2) bekezdése iktatta a szövegbe.
-[^162]: A melléklet 35.20 pontját a 18/2003. (IV. 9.) GKM rendelet 19. §-ának (2) bekezdése iktatta a szövegbe.
-[^163]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.2 pontjának második mondatát a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^164]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^165]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^166]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.6. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (11) bekezdésével megállapított szöveg.
-[^167]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.8. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (12) bekezdésével megállapított szöveg.
-[^168]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.16 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^169]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.17 pontja a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
-[^170]: A melléklet 36.18 pontját a 18/2003. (IV. 9.) GKM rendelet 20. §-a iktatta a szövegbe.
-[^171]: A melléklet 37.1, 37.2., 37.3. és 37.4. pontját a 40/2001. (XI. 23.) KöViM rendelet 2. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^172]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 38. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^173]: A 39. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének be) pontja.
-[^174]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 40. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
-[^175]: A 41. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének be) pontja.
-[^176]: Az I. Függelék a 2/1999. (I. 18.) KHVM rendelet 10. §-ának (4) bekezdésével, illetve 2. számú mellékletével módosított szöveg.
-[^177]: A melléklet I. függelékének s) pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
-[^178]: Az I. függelék t) pontját, valamint utolsó mondatát a 18/2003. (IV. 9.) GKM rendelet 22. §-a iktatta a szövegbe.
-[^179]: A II. számú függelék b) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése hatályon kívül helyezte, újonnan a 4/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^180]: A II. számú függelék c) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése hatályon kívül helyezte.
-[^181]: A II. számú függelék d) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^182]: A II. számú függelék e) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^183]: A II. számú függelék f) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^184]: Az II. függelék g) pontja a 18/2003. (IV. 9.) GKM rendelet 23. §-ával megállapított szöveg.
-[^185]: A II. számú függelék i) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^186]: A II. számú függelék s) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^187]: A II. számú függelék u)–v) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^188]: A II. számú függelék y) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése iktatta be.
+[^51]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 23. §-ának 2. pontja hatályon kívül helyezte.
+[^52]: A melléklet megjelölését a 18/2003. (IV. 9.) GKM rendelet 5. §-a iktatta a szövegbe.
+[^53]: Az FMSZ a 2/1999. (I. 18.) KHVM rendelet 10. §-ának (3) bekezdésével, illetve 1. számú mellékletével módosított szöveg.
+[^54]: Az 1.1. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^55]: A melléklet 1.2 pontját a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^56]: Az 1.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^57]: A melléklet 1.4 pontját a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^58]: Az 1.5. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^59]: Az 1.9. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^60]: Az 1.10. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^61]: Az 1.11. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének ba) pontja.
+[^62]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 1.13. pontját a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe.
+[^63]: A melléklet 2.2. pontjának b) alpontja a 18/2003. (IV. 9.) GKM rendelet 6. §-ával megállapított szöveg.
+[^64]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 2.3–2.14 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^65]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 3.6–3.14 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^66]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 4.2–4.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^67]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 6.7–6.10 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^68]: A melléklet 6.11. pontját a 18/2003. (IV. 9.) GKM rendelet 9. §-a iktatta be, szövege az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^69]: A melléklet 6.12. pontját a 18/2003. (IV. 9.) GKM rendelet 9. §-a iktatta be, szövege az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^70]: A melléklet 6.13. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^71]: A melléklet 6.14. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^72]: A melléklet 6.15. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^73]: A melléklet 7. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^74]: A melléklet 8. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^75]: A melléklet 9. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^76]: A melléklet III. fejezete a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^77]: A melléklet 10.2.1.3. pont nyitó szövegrésze az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^78]: A melléklet 10.3. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^79]: A melléklet 10.4. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^80]: A 12.1. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^81]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 12.3–12.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^82]: A 12.9. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^83]: A 12.10. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^84]: A melléklet 12.11 pontját a 18/2003. (IV. 9.) GKM rendelet 13. §-ának (2) bekezdése iktatta a szövegbe.
+[^85]: A melléklet 12.11. pont c) alpontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^86]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 14. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (5) bekezdésével megállapított szöveg.
+[^87]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 15.3–15.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^88]: A melléklet 15.6. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^89]: A melléklet 16. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^90]: A melléklet 17.3–17.5. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^91]: A melléklet 18. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^92]: A melléklet 19. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^93]: A melléklet 20. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^94]: A melléklet 21. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^95]: A melléklet 22. pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^96]: A 23.8. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^97]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.9–23.12 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^98]: A 23.13. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^99]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.18. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (6) bekezdésével megállapított szöveg.
+[^100]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 23.20 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^101]: A melléklet 24. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^102]: A melléklet 25. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^103]: A melléklet 26.2. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^104]: A melléklet 26.3. pont e) alpontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^105]: A melléklet 26.4. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^106]: A melléklet 26.6. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^107]: A melléklet 26.8. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^108]: A 9/1993. (III.31.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
+[^109]: A melléklet 26.11. pontjának b) alpontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^110]: A 9/1993. (III.31.) KHVM rendelet 3.§-a hatályon kivül helyezte.
+[^111]: A melléklet 26.13. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^112]: A melléklet 27.2. pont a) alpontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^113]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 28. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^114]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 29.1. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (7) bekezdésével megállapított szöveg.
+[^115]: A 29.3. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének bd) pontja.
+[^116]: A melléklet 29.4. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^117]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 29.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^118]: A melléklet 30.1. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^119]: A melléklet 30.2 pontja a 18/2003. (IV. 9.) GKM rendelet 17. §-ának (2) bekezdésével megállapított, nyitó szövegrésze az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^120]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 30.3. pontja a 84/2004. (VI. 4.) GKM rendelet 1. §-ának (8) bekezdésével megállapított szöveg.
+[^121]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 30.4 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte, újonnan az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^122]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 31.1 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^123]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 31.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^124]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 32.2 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^125]: A melléklet 33.1. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^126]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 33.4 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^127]: A melléklet 34.1. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^128]: A melléklet 34.3. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^129]: A melléklet 34.5. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^130]: 1988. évi I. törvény a közúti közlekedésről, 33. § (1) bekezdés, továbbá az 1990. évi LXV. törvény a helyi önkormányzatokról, 63/A. § g) bekezdés.
+[^131]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 34.6–34.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^132]: A melléklet 35. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^133]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.2 pontjának második mondatát a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^134]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.3 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^135]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.5 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^136]: A melléklet 36.6. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^137]: A melléklet 36.8. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^138]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.16 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^139]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 36.17 pontja a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése szerint módosított szöveg.
+[^140]: A melléklet 36.18 pontját a 18/2003. (IV. 9.) GKM rendelet 20. §-a iktatta a szövegbe.
+[^141]: A melléklet 36.19. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^142]: A melléklet 36.20. pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^143]: A melléklet 37.1, 37.2., 37.3. és 37.4. pontját a 40/2001. (XI. 23.) KöViM rendelet 2. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^144]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 38. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^145]: A 39. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének be) pontja.
+[^146]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 40. pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^147]: A 41. pontot hatályon kívül helyezte a 11/2001. (III. 13.) KöViM rendelet 3. §-a (4) bekezdésének be) pontja.
+[^148]: Az I. Függelék a 2/1999. (I. 18.) KHVM rendelet 10. §-ának (4) bekezdésével, illetve 2. számú mellékletével módosított szöveg.
+[^149]: A melléklet I. függelékének s) pontját a 41/2003. (VI. 20.) GKM rendelet 2. §-ának (1) bekezdése hatályon kívül helyezte.
+[^150]: Az I. függelék t) pontját, valamint utolsó mondatát a 18/2003. (IV. 9.) GKM rendelet 22. §-a iktatta a szövegbe.
+[^151]: A melléklet I. függelék u) pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^152]: A melléklet I. függelék v) pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^153]: A melléklet I. függelék w) pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^154]: A melléklet I. függelék zs) pontját az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^155]: A II. számú függelék b) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése hatályon kívül helyezte, újonnan a 4/2008. (VI. 3.) KHEM rendelet 6. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
+[^156]: A II. számú függelék c) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése hatályon kívül helyezte, újonnan az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^157]: A II. számú függelék d) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^158]: A melléklet II. függelék e) pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^159]: A II. számú függelék f) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^160]: Az II. függelék g) pontja a 18/2003. (IV. 9.) GKM rendelet 23. §-ával megállapított, az 55/2011. (X. 24.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^161]: A II. számú függelék i) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^162]: A II. számú függelék s) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^163]: A II. számú függelék u) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
+[^164]: A II. számú függelék v) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^165]: A II. számú függelék y) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése iktatta be.
