@@ -1,0 +1,1 @@
+4. § A Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 3. §-a hatályát veszti.

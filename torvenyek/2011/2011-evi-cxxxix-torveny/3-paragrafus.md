@@ -1,0 +1,1 @@
+3. § Az Országgyűlés felhatalmazást ad arra, hogy a Magyar Köztársaság a COTIF 42. cikke alapján a szerződéshez tett, a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 3. §-ában foglalt fenntartást visszavonja.

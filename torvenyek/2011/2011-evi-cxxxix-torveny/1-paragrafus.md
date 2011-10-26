@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (a továbbiakban: COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvvel megállapított E, F és G Függelékeinek módosításokkal egységes szerkezetbe foglalt hatályos szövegét (a továbbiakban: módosított Függelékek) e törvénnyel kihirdeti.
