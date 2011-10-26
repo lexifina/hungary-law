@@ -1,3 +1,6 @@
-## 8. § A tankönyvvé nyilvánítás, a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjéről szóló 23/2004. (VIII. 27.) OM rendelet 18. § (2) bekezdésében a „szeptember 30-áig” szövegrész helyébe az „október 1-jéig” szöveg lép.
+## 7–8. §[^2]
 
-1. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez
+1. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^3]
+
+[^2]: A 7–8. §-t az 59/2011. (X. 25.) NEFMI rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. melléklet az 59/2011. (X. 25.) NEFMI rendelet 1. §-a szerint módosított szöveg.

@@ -4,4 +4,6 @@
 
 (3) A nyelvkönyvek ára legfeljebb húsz százalékkal meghaladhatja az 1. mellékletben szereplő, kategóriánként meghatározott árat.
 
-(4) Az 1000 példánynál kisebb példányszámban előállított, kompetencia alapú oktatási program részeként jóváhagyott közoktatási tankönyvek ára legfeljebb tíz százalékkal meghaladhatja az 1. mellékletben szereplő, kategóriánként meghatározott árat.
+(4)[^1]
+
+[^1]: Az 1. § (4) bekezdését az 59/2011. (X. 25.) NEFMI rendelet 3. § (2) bekezdése hatályon kívül helyezte.
