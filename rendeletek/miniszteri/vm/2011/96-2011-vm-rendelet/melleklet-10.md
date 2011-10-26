@@ -102,7 +102,7 @@ Faültetvényekben:
 
 | Növedékfokozó gyérítés | 20 | 80 |
 
-Egyéb erdőkben:
+## Egyéb erdőkben:
 
 | Előhasználati mód | m3/ha |
 
@@ -160,9 +160,9 @@ Egyéb erdőkben:
 
 | Fenyő elegyes – feketefenyvesek | 40–60 | 40–70 | 40–70 | 40–70 |
 
-* 150 m3/ha-nál nagyobb fajlagos fakészletű állományok esetén
+## * 150 m3/ha-nál nagyobb fajlagos fakészletű állományok esetén
 
-** HNY sarjaztatására alkalmatlan területnél, ha a NNY elegyarány 35% feletti
+## ** HNY sarjaztatására alkalmatlan területnél, ha a NNY elegyarány 35% feletti
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 
@@ -174,7 +174,7 @@ Egyéb erdőkben:
 
 | Összesen | 7100 |
 
-* Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 7.5. A véghasználatok és erdőfelújítások tervezési szempontjai
 

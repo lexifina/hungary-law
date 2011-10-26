@@ -178,7 +178,7 @@ c) a töltések melletti keskeny sávban vízügyi szempontból „fejesfa üzem
 
 | Fenyvesek | 50–80 | 60–90 | 50–80 | – | 50–80 |
 
-A külön sorban nem szereplő tuskósarj eredetű faállományok vágásérettségét a szakasz alsó határa közelében kell megállapítani.
+## A külön sorban nem szereplő tuskósarj eredetű faállományok vágásérettségét a szakasz alsó határa közelében kell megállapítani.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

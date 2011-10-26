@@ -154,7 +154,7 @@ Az erdőtervezési körzetre vonatkozó speciális erdőgazdálkodási szabály 
 
 | Lucfenyvesek | 60–80 | 60–80 | 60–80 | 60–80 |
 
-Bükkösök:
+## Bükkösök:
 
 | Fatermési osztály | Vágásérettségi korok (év) |
 
@@ -176,7 +176,7 @@ Bükkösök:
 
 | VI. | 90 | 90 |
 
-Gyertyános-tölgyesek:
+## Gyertyános-tölgyesek:
 
 | Fatermési osztály | Vágásérettségi korok (év) |
 
@@ -198,7 +198,7 @@ Gyertyános-tölgyesek:
 
 | VI. | 90 | 90 |
 
-Mageredetű kocsánytalan tölgyesek:
+## Mageredetű kocsánytalan tölgyesek:
 
 | Fatermési osztály | Vágásérettségi korok (év) |
 

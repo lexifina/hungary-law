@@ -106,7 +106,7 @@ Az erdőtervezési körzetre vonatkozó speciális erdőgazdálkodási szabály 
 
 | Növedékfokozó gyérítés | 25 | 60 |
 
-* A táblázatban kimutatott értékek minden esetben az adott erdőrészletből a nevelővágással érintett terület egy hektárjára vonatkoznak.
+## * A táblázatban kimutatott értékek minden esetben az adott erdőrészletből a nevelővágással érintett terület egy hektárjára vonatkoznak.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 

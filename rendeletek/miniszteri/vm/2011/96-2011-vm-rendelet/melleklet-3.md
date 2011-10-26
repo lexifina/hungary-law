@@ -152,7 +152,7 @@ Az erdőtervezési körzetre vonatkozó speciális erdőgazdálkodási szabály 
 
 | Egyéb fenyő | 20 | 50 | 45 | 75 |
 
-* A táblázat értékeitől az állományok aktuális egészségi és állományszerkezeti állapota alapján indokolt esetben el lehet térni.
+## * A táblázat értékeitől az állományok aktuális egészségi és állományszerkezeti állapota alapján indokolt esetben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 

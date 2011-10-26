@@ -154,7 +154,7 @@ b) a fenyves faállományok alatt található, az erdészeti tájban őshonos lo
 
 | Fenyvesek | 50–80 | 60–90 | – | 50–90 |
 
-A tuskósarj eredetű faállományok vágásérettségét a szakasz alsó határa közelében kell megállapítani.
+## A tuskósarj eredetű faállományok vágásérettségét a szakasz alsó határa közelében kell megállapítani.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

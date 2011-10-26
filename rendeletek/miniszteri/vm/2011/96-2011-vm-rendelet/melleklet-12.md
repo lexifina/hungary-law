@@ -120,7 +120,7 @@ Az erdőtervezési körzetre vonatkozó speciális erdőgazdálkodási szabály 
 
 | Fenyvesek | 60–80 | 60–90 | 60–90 | 70–100 |
 
-A nem védett Natura 2000 területeken – a Natura 2000 további rendeltetés esetén – a gazdasági erdőknél meghatározott vágásérettségi szakaszok az irányadóak.
+## A nem védett Natura 2000 területeken – a Natura 2000 további rendeltetés esetén – a gazdasági erdőknél meghatározott vágásérettségi szakaszok az irányadóak.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

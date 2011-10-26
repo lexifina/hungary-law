@@ -170,7 +170,7 @@ Erdővel borított, védett természeti terület nincs a körzetben.
 
 | Lucfenyvesek | – | – | – | – |
 
-* A kocsánytalan és kocsányos tölgyeseknél a megfelelő gyertyános tölgyeseknél szereplő vágásérettségi szakaszokat kell alkalmazni.
+## * A kocsánytalan és kocsányos tölgyeseknél a megfelelő gyertyános tölgyeseknél szereplő vágásérettségi szakaszokat kell alkalmazni.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

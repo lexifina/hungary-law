@@ -172,7 +172,7 @@ Az erdőtervezési körzetre vonatkozó speciális tervezési szempont nem kerü
 
 | Erdeifenyvesek | 50–60 | 50–80 | 40–70 | 50–80 |
 
-* A gazdasági rendeltetésű, sziki talajon lévő kocsányos tölgy főfafajú erdők esetén a vágásérettségi szakasz alsó határa 70 év.
+## * A gazdasági rendeltetésű, sziki talajon lévő kocsányos tölgy főfafajú erdők esetén a vágásérettségi szakasz alsó határa 70 év.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

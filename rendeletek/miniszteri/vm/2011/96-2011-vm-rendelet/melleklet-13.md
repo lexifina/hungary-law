@@ -120,9 +120,9 @@ Az erdőtervezési körzetre vonatkozó speciális erdőgazdálkodási szabály 
 
 | Nemes nyárasok; nemes fűzesek | 20–40 | 20–40 | 20–40 | 20–40 |
 
-* A nem védett Natura 2000 területeken található nem Natura 2000 elsődleges rendeltetésű erdők esetében a gazdasági erdőknél meghatározott vágásérettségi szakaszok az irányadóak.
+## * A nem védett Natura 2000 területeken található nem Natura 2000 elsődleges rendeltetésű erdők esetében a gazdasági erdőknél meghatározott vágásérettségi szakaszok az irányadóak.
 
-** Amennyiben a gyenge növekedésű (IV–VI fatermési osztályú), tuskósarj eredetű kocsánytalan tölgyesek erdőfelújítása során azonos természetességi állapotú, mageredetű erdővé történő átalakítás a cél, a vágásérettségi szakasz alsó határa 10 évvel csökkenthető.
+## ** Amennyiben a gyenge növekedésű (IV–VI fatermési osztályú), tuskósarj eredetű kocsánytalan tölgyesek erdőfelújítása során azonos természetességi állapotú, mageredetű erdővé történő átalakítás a cél, a vágásérettségi szakasz alsó határa 10 évvel csökkenthető.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

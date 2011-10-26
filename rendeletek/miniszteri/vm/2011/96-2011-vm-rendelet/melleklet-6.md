@@ -142,7 +142,7 @@ Az erdőtervezési körzetre vonatkozó speciális erdőtervezési szempont nem 
 
 | Lucfenyvesek |  | 40–60 | 40–90 | 40–60 | 40–60 |
 
-* A vágásérettségi szakaszoknál, az alsó határ csak a Kelet-Zalai dombság Kanizsai-homokvidék erdészeti tájrészletében, illetve a száradó, legyengült állományoknál kerül megállapításra, általában a szakasz közepétől indul a vágásérettségi kor
+## * A vágásérettségi szakaszoknál, az alsó határ csak a Kelet-Zalai dombság Kanizsai-homokvidék erdészeti tájrészletében, illetve a száradó, legyengült állományoknál kerül megállapításra, általában a szakasz közepétől indul a vágásérettségi kor
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 
