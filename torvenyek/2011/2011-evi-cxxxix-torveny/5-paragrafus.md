@@ -5,11 +5,3 @@
 (3) A fenntartás visszavonásának, illetve az 1–2. § és a 4. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
