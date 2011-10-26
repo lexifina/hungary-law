@@ -1,0 +1,1 @@
+## 1. § A közoktatási tankönyvek legmagasabb fogyasztói áráról szóló 13/2010. (XI. 25.) NEFMI rendelet (a továbbiakban: R.) 1–5. mellékletében a „2011/2012. TANÉV” szövegrész helyébe a „2012/2013. TANÉV” szöveg lép.
