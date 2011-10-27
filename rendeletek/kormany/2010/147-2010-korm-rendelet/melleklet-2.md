@@ -140,7 +140,7 @@
 
 ## 2.3.3 A mederbe pillér nem építhető. A pillér parti sávban történő elhelyezés esetén a mederoldal védelmét a meder kezelőjének előírásai szerint kell megoldani.
 
-## 2.4 Vízfolyás keresztezés
+## 2.4 Egyéb vízfolyás keresztezés
 
 ## 2.4.1 A vízfolyás mértékadó vízmennyiségének átvezetését megfelelő nyílásmérettel és a mederszelvény kellő kialakításával kell biztosítani. Ha a talajadottság miatt burkolat szükséges, vagy a csatlakozó mederszakaszon is van burkolat, vagy a híd a talaj szempontjából meg nem engedhető sebességnövekedést okoz, ennek hossz- és magassági méreteit is meg kell tervezni.
 
@@ -154,23 +154,23 @@
 
 ## 2.4.4 A híd nyílásméretét, a pillérek alakját és elosztását úgy kell megállapítani, hogy a vízáramlás sebessége a műtárgy nélküli lefolyás sebességét 10%-nál nagyobb mértékben, a műtárgy által okozott duzzasztás pedig a mértékadó vízhozamhoz tartozó vízszint felett belterületen, fontos létesítmények térségében, illetve nemzetgazdaságilag kiemelt jelentőségű területen levő műtárgyaknál a 10 cm-t, mezőgazdasági és egyéb területen a 12 cm-t ne haladja meg.
 
-## 2.4.5.1 A 120 m3/s-ot meghaladó 1%-os valószínűségű árvízi vízhozamú vízfolyásokon a műtárgy szerkezeti alsó éle és a mértékadó vízhozam alapján számított vízszint között legalább 1,0 m, a 80–120 m3/s között 0,7 m, a 80 m3/s-nél kisebb vízhozamoknál pedig 0,5 m szabad magasságot kell biztosítani.
+## 2.4.5 A hídpillért csak az átfolyási szelvényen és a híd környezetében jellemző partélek vonalán kívül lehet elhelyezni.
 
-## 2.4.5.2 Zárt szelvényű műtárgynál az 1%-os valószínűségű árvízi vízhozam nyomás alatt is átvezethető, ha uszadék nem várható.
+## 2.4.6 A híd szerkezeti alsó élmagasságát úgy kell kialakítani, hogy az minden esetben a híd környezetében jellemző partél vagy depónia szintjének biztonsági magassággal növelt szintje fölött legyen. Amennyiben a Q1%-os valószínűségű árvízszint biztonsági magassággal növelt értéke alapján számított szerkezeti alsó élmagasság a jelenlegi partélek vagy depóniák szintje alapján számított értéktől magasabb értékre adódik, akkor a hídszerkezet alsó élét a magasabb szinthez kell igazítani. Az előírt biztonsági magasság a 120 m3/s-ot meghaladó Q1%-os valószínűségű árvízi vízhozamú vízfolyásokon legalább 1,0 m, a 80–120 m3/s között vízhozamnál 0,7 m, a 80 m3/s-nél kisebb vízhozamoknál pedig 0,5 m. Vasúti híd esetén az előírt biztonsági magasság betartása a mederszelvénynek a híd környezetében történő bővítésével is megoldható.
 
-## 2.4.6 Vízfolyáson a hídszerkezet legalsó pontjának is legalább a folyók mértékadó árvízszintjeiről szóló jogszabályban meghatározott magassági biztonsággal a mértékadó vízszint felett lennie. Azokon a vízfolyásokon, amelyek nem tartoznak a folyók mértékadó árvízszintjeiről szóló jogszabály hatálya alá, a hídszerkezet legalsó pontjának is legalább 0,3 m-rel kell az adott vízfolyásra engedélyezett maximális vízszint felett lennie.
+## 2.4.7 A folyók mértékadó árvízszintjeiről szóló miniszteri rendelet hatálya alá nem tartozó vízfolyásoknál az íves alsó vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy az legalább 0,3 m-rel a mértékadó vízszint, illetve a híd környezetében jellemző partél, depónia szintje felett legyen. A falazathoz érintőlegesen csatlakozó boltozatoknál az érintési pont a mértékadó vízszint, illetve a híd környezetében jellemző partél, depónia szintjének megfelelő magasságáig süllyeszthető.
 
 ## 2.5 Belvízcsatorna keresztezés
 
 ## 2.5.1.1 Belvízcsatornát keresztező vasút, közút és saját használatú út műtárgyát legalább a csatornaszakaszra engedélyezett, illetve a belvízcsatorna kezelője által megadott vízhozamra kell méretezni a tisztíthatóság (karbantarthatóság) figyelembevételével.
 
-## 2.5.1.2 A mértékadó vízmennyiség átvezetését megfelelő nyílásmérettel és a mederszelvény kellő kialakításával kell biztosítani. Ha a talajadottság miatt burkolat szükséges, vagy a csatlakozó mederszakaszon is van burkolat, vagy a híd a talaj szempontjából meg nem engedhető sebességnövekedést okoz, ennek hossz- és magassági méreteit is meg kell tervezni.
+## 2.5.1.2 A műtárgyat olyan nyílásmérettel kell tervezni, hogy alkalmas legyen a mértékadó vízhozam átvezetésére és lehetővé tegye a karbantartási munkák elvégzését. A 3m3/s vízszállító-képességet meghaladó belvízcsatornák esetén minimum 1,6 m átmérőjű csőátereszt vagy minimum 1,4 m széles, 1,6 m magas méretű műtárgyat kell tervezni. Ha a talajadottság miatt burkolat szükséges, vagy a csatlakozó mederszakaszon is van burkolat, vagy a híd meg nem engedhető sebességnövekedést okoz, a burkolat hossz- és magassági méreteit is meg kell tervezni.
 
 ## 2.5.1.3 A duzzasztás megengedett felső határa 4 cm.
 
-## 2.5.2.1 Az áthidaló szerkezet alsó élét úgy kell kialakítani, hogy a keresztezési szakaszon jellemző partél felett 0,5 m-rel magasabb legyen.
+## 2.5.2.1 Az áthidaló szerkezet alsó élét úgy kell kialakítani, hogy az a keresztezési szakaszon a jellemző partél felett minimum 0,5 m-rel és a mértékadó vízszint felett minimum 1,0 m-rel magasabban legyen.
 
-## 2.5.2.2 Íves alsó vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy legalább 0,30 m-rel a mértékadó vízszint felett legyen. A falazathoz érintőlegesen csatlakozó boltozatoknál az érintési pont a mértékadó vízszint magasságáig süllyeszthető.
+## 2.5.2.2 Íves alsó vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy legalább 0,5 m-rel a mértékadó vízszint felett legyen.
 
 ## 2.5.3 A belvízcsatorna kezelőjének előírása alapján biztosítani kell, hogy a fenntartásnál alkalmazandó úszó fenntartógép akadálymentesen közlekedhessen.
 
@@ -440,6 +440,6 @@
 
 ## 9.3.6 Száraz talajban vezetett ivóvizet szállító nyomóvezeték esetén, ha az előírt távolságok betartása valamilyen ok miatt nem lehetséges, a távolság csökkenthető, de az egyéb vezetéket az érintett szakaszon védőcsőben kell vezetni.
 
-2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^3]
+2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^15]
 
-[^3]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
+[^15]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.

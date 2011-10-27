@@ -1,0 +1,4 @@
+## 79. §[^10] E rendeletnek a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet és a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet módosításáról szóló 209/2011. (X. 12.) Korm. rendelettel (a továbbiakban: rendeletmódosítás) megállapított rendelkezéseit a rendeletmódosítás hatálybalépésekor[^11] folyamatban lévő hatósági eljárásokban is alkalmazni kell azzal, hogy a kérelem visszavonása esetén a folyamatban lévő eljárásokat meg kell szüntetni.
+
+[^10]: A 79. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan a 209/2011. (X. 12.) Korm. rendelet 13. §-a iktatta be.
+[^11]: A hatálybalépés napja: 2011. október 27.

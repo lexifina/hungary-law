@@ -20,6 +20,8 @@ d) szervízszolgáltatásról, rendelkezésre állásról, és
 
 e) lakossági tájékoztatásról és kapcsolattartásról.
 
+(1a)[^5] Egyedi telepítésnél, ha a kibocsátás meghaladja az 500 m3/év mennyiséget, évente mintavételt és analitikai vizsgálatot kell végezni. Programszerű telepítés esetén évente legalább az egyedi szennyvízkezelő létesítmények 20%-ánál a mintavételt és az analitikai vizsgálatot el kell végezni úgy, hogy valamennyi létesítmény legalább 5 évente bekerüljön a mintavételi és analitikai vizsgálati ütemezésbe.
+
 (2) Felelős szolgáltató az lehet, aki
 
 a) képes hiánytalanul ellátni az (1) bekezdésben meghatározott alapfeladatokat, és
@@ -29,3 +31,5 @@ b) rendelkezik szennyvíztechnológus, vagy azzal egyenértékű, illetve magasa
 (3) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet akkor végezhet az (1) bekezdés szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik a (2) bekezdésben meghatározott képzettséggel, és ez a tag, személy részt vesz a tevékenység ellátásában.
 
 (4) A felelős szolgáltató a vízgazdálkodásról szóló törvényben meghatározott közüzemi szerződés alapján szolgáltat.
+
+[^5]: A 28. § (1a) bekezdését a 209/2011. (X. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be.
