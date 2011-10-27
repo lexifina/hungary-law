@@ -78,7 +78,7 @@ A) Bevétel esetén:
 
 4. A faj tudományos neve
 
-5. Eredetkód a bizottsági rendelet IX. melléklete alapján
+5.[^34] Eredetkód a 865/2006/EK bizottsági rendelet IX. melléklete alapján
 
 6. A származási ország kétbetűs ISO kódja
 
@@ -107,3 +107,5 @@ B) Kiadás esetén:
 7. Az Európai Közösség valamely tagállamában történő értékesítés esetén az eladási számla száma és kiállításának dátuma
 
 8. A termékek kaviártartalma százalékban.
+
+[^34]: A 8. számú melléklet A) pont 5. alpontja a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

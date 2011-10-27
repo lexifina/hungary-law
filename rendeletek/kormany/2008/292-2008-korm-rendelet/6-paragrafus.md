@@ -1,6 +1,6 @@
 ## Származási igazolás és eredetigazolás
 
-6. § (1) Az Európai Közösség valamely tagállamból (a továbbiakban: tagállam) vagy tagállamnak nem minősülő országból a Magyar Köztársaság területére behozott bejelentésköteles példány esetén a bejelentést, illetve az egyedi jelölést követően az illetékes felügyelőség vagy a Főfelügyelőség a példányt nyilvántartásba veszi. A nyilvántartásba vett példányhoz a felügyelőség – a (4) bekezdés kivételével – a 2. számú melléklet szerint származási igazolást állít ki a tanácsi és a bizottsági rendeletnek megfelelően kiállított engedélyek, illetve bizonylatok alapján.
+6. § (1)[^10] Az Európai Közösség valamely tagállamból (a továbbiakban: tagállam) vagy tagállamnak nem minősülő országból a Magyar Köztársaság területére behozott bejelentésköteles példány esetén a bejelentést, illetve az egyedi jelölést követően az illetékes felügyelőség vagy a Főfelügyelőség a példányt nyilvántartásba veszi. A nyilvántartásba vett példányhoz a felügyelőség – a (4) bekezdés kivételével – a 2. számú melléklet szerint származási igazolást állít ki a tanácsi rendeletnek és a 865/2006/EK bizottsági rendeletnek megfelelően kiállított engedélyek, illetve bizonylatok alapján.
 
 (2) Valamely tagállamból behozott példány esetében a felügyelőség a származási igazolást az (1) bekezdésben foglalt eseteken kívül akkor is kiállítja, ha a kérelmező – a tanácsi rendelet 8. cikkének (5) bekezdése alapján – a (3) bekezdés szerint hitelt érdemlően igazolja, hogy annak megszerzése az Európai Közösség területén jogszerűen – a vadon élő állat- és növényfajok megőrzésére vonatkozó közösségi jogi aktusokkal összhangban – történt.
 
@@ -16,7 +16,7 @@ d) a példány(ok) egyedi azonosítójának típusát, számát, kódját, ha a 
 
 e) a példány(ok) ivarát és korát, amennyiben ez ismert;
 
-f) a példány(ok)nak a bizottsági rendelet IX. számú melléklet 2. pontja szerinti eredetét az e melléklet szerinti kód megjelölésével;
+f)[^11] a példány(ok)nak a 865/2006/EK bizottsági rendelet IX. számú melléklet 2. pontja szerinti eredetét az e melléklet szerinti kód megjelölésével;
 
 g) a származási ország megjelölését;
 
@@ -24,10 +24,12 @@ h) harmadik országból történő behozatal esetén a jogszerű behozatalt igaz
 
 i) az átadás dátumát, valamint hiteles aláírást.
 
-(4)[^5] A Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség a 3. számú melléklet szerint eredetigazolást állít ki
+(4)[^12] A Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség a 3. számú melléklet szerint eredetigazolást állít ki
 
 a) a 2004. november 22. napját megelőzően az igazgatási hatóság által nyilvántartott példányok esetében, ha tenyésztői bizonylat, származási igazolás, EU-bizonylat, valamint a tanácsi rendelet 4. cikke szerinti importengedély, 5. cikke szerinti exportengedély és re-export bizonylat nem került kiadásra, valamint
 
 b) a lefoglalt, illetve elkobzott példányok esetében.
 
-[^5]: A 6. § (4) bekezdése a 84/2010. (III. 25.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^10]: A 6. § (1) bekezdése a 217/2011. (X. 19.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § (3) bekezdés f) pontja a 217/2011. (X. 19.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^12]: A 6. § (4) bekezdése a 84/2010. (III. 25.) Korm. rendelet 19. §-ával megállapított szöveg.

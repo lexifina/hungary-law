@@ -4,4 +4,6 @@
 
 (2) Emberszabású majmok (gorillák, orángutánok, csimpánzok és gibbonok) élő egyedei kizárólag a külön jogszabály szerint működő állatkertben tarthatók.
 
-(3) A tanácsi rendelet hatálya alá tartozó fókafajok prémjéből készített termékek tartása – a múzeumban történő tartás kivételével – tilos.
+(3)[^18]
+
+[^18]: A 14. § (3) bekezdését a 217/2011. (X. 19.) Korm. rendelet 9. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## Bejelentési kötelezettség
 
-4. § (1)[^4] Akinek a tanácsi rendelet A. mellékletében szereplő gerinces állatfaj példánya, valamint a tanácsi rendelet B. mellékletében szereplő emlős-, madár- és szárazfölditeknős-faj élő példánya (a továbbiakban együtt: bejelentésköteles példány) van a birtokában, köteles annak megszerzését, tartását, az ország területére történő behozatalát és az ország területéről történő kivitelét, elidegenítését, elhullását, megsemmisülését, valamint szaporulatát bejelenteni. A bejelentést
+4. § (1)[^6] Akinek a tanácsi rendelet A. mellékletében szereplő gerinces állatfaj példánya, valamint a tanácsi rendelet B. mellékletében szereplő emlős-, madár- és szárazfölditeknős-faj élő példánya (a továbbiakban együtt: bejelentésköteles példány) van a birtokában, köteles annak megszerzését, tartását, az ország területére történő behozatalát és az ország területéről történő kivitelét, elidegenítését, elhullását, megsemmisülését, valamint szaporulatát bejelenteni. A bejelentést
 
 a) solymászmadár esetén a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséghez,
 
@@ -16,4 +16,4 @@ c) az a)–b) pont alá nem eső faj esetén a tartás helye szerint illetékes 
 
 (4) A tanácsi rendelet hatálya alá tartozó fajok élő példányait úgy kell tartani, hogy azok – ha jogszabály vagy hatósági engedély másként nem rendelkezik – a szabadba ne juthassanak ki. Amennyiben valamely bejelentésköteles példány elszabadul, ennek tényét az igazgatási hatóságnak haladéktalanul be kell jelenteni.
 
-[^4]: A 4. § (1) bekezdése a 84/2010. (III. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 84/2010. (III. 25.) Korm. rendelet 18. §-ával megállapított szöveg.

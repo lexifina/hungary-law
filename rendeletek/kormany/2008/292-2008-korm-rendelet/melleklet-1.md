@@ -1,3 +1,5 @@
+## végrehajtásához szükséges rendelkezéseket állapít meg.
+
 1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez
 
 ## A bejelentési kötelezettség alól kivont fajok
