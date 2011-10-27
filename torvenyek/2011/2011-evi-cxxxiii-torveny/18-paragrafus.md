@@ -1,0 +1,1 @@
+18. § Az Országgyűlés tudomásul veszi, hogy a Magyar Köztársaság 2009. évi költségvetésének végrehajtásáról szóló 2010. évi XCVIII. törvény 17. §-ában és 19. §-ában előírt megtérítési kötelezettségek teljesítése megtörtént.
