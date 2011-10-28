@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Németh Zsolt a Jobbik Magyarországért Mozgalom országgyűlési képviselője mentelmi jogát a Pécsi Városi Bíróság 17. B. 1196/2011. számú megkeresésével érintett ügyben nem függeszti fel.
