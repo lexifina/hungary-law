@@ -1,3 +1,0 @@
-## 2. § Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az igazgatási hatóság állítja ki a tanácsi rendeletben meghatározott engedélyeket és – a (2) bekezdésben foglaltak kivételével – a bizonylatokat, valamint vezeti az Egyezményben és a tanácsi rendeletben meghatározott nyilvántartásokat. E feladatok ellátása során jogosult a tanácsi rendeletben, illetve az e rendeletben meghatározott nyilvántartásokban szereplő példányok adatainak kezelésére. Az igazgatási hatóság ellátja az 1007/2009/EK európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdése szerinti jelentéstételi és a 737/2010/EU bizottsági rendelet 9. cikk (2) bekezdése szerinti értesítési feladatokat.”
