@@ -1,7 +1,0 @@
-4. § (1) Az egyéni vállalkozónak a vállalkozói személyi jövedelemadó alapjába beszámító, postai szolgáltatásából származó bevételeit elkülönítve kell nyilvántartania oly módon, hogy a hírközlési hatóság ellenőrizni tudja a Pt. és a külön jogszabály szerinti előírások betartását, figyelemmel e rendelet 1–2. számú melléklete szerinti bontásra.
-
-(2)[^4] A Számv. tv. 8. §-ának (4) bekezdése alapján egyszeres könyvvitellel alátámasztott, egyszerűsített beszámolót készítő engedélyes postai szolgáltató a postai tevékenységből származó, pénzügyileg rendezett nettó árbevételét és a nem pénzben kiegyenlített értékesítés nettó árbevételét elkülönítve köteles kimutatni oly módon, hogy a hírközlési hatóság részére történő adatszolgáltatási kötelezettségeket szabályozó külön jogszabályban foglaltaknak eleget tudjon tenni, figyelemmel az e rendelet 1–2. számú melléklete szerinti bontásra.
-
-(3) A Számv. tv. 8. §-ának (1)–(3) bekezdése alapján kettős könyvvitellel alátámasztott beszámolót készítő egyetemes, valamint engedélyes postai szolgáltató a postai tevékenységből származó értékesítés nettó árbevételét elkülönítve köteles kimutatni oly módon, hogy a hírközlési hatóság részére történő adatszolgáltatási kötelezettségeket szabályozó külön jogszabályban foglaltaknak eleget tudjon tenni, figyelemmel az e rendelet 1–2. számú melléklete szerinti bontásra.
-
-[^4]: A 4. § (2) bekezdése a 47/2009. (IX. 24.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg.
