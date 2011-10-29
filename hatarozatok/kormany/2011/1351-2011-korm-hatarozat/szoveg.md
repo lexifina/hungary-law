@@ -32,10 +32,12 @@ h) az adott beruházás előkészítéséhez és megvalósításához szüksége
 
 i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az azok végrehajtásához szükséges kormányzati-közigazgatási koordináció szervezését, irányítását.
 
-4. A kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
+4.[^1] A Kormány külön döntése esetén és az abban foglaltak szerint a kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
 
 5. A kormánybiztos tevékenységét a miniszterelnök irányítja. A kormánybiztos a tevékenységéről köteles negyedévente beszámolni a Kormánynak.
 
 6. A kormánybiztos tevékenységét a Közigazgatási és Igazságügyi Minisztériumban működő ötfős titkárság segíti.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1358/2011. (X. 28.) Korm. határozat 1. pontjával megállapított szöveg.
