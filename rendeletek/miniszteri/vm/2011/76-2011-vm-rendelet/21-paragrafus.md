@@ -16,6 +16,6 @@ a) az illetékes LEADER HACS célterület katalógusában szereplő, a fejleszt�
 
 b) rangsorolást követően
 
-a rendelkezésre álló keret alapján az MVH hozza meg a támogatási döntést.
+## a rendelkezésre álló keret alapján az MVH hozza meg a támogatási döntést.
 
 (4) Kis értékű célterületre benyújtott pályázat esetében az MVH hozza meg a támogatási döntést a Törvény 32. § (1) bekezdés b) pontja szerint a pályázatok benyújtási sorrendje, valamint az adott célterületre rendelkezésre álló keret alapján.

@@ -24,7 +24,7 @@ a) 85%-a, ha hátrányos helyzetű területen,
 
 b) 80%-a, ha egyéb területen
 
-készül el a tanulmány.
+## készül el a tanulmány.
 
 (8) A tanulmány elkészítésének határideje a támogatási határozat kézhezvételét követő 12 hónap.
 

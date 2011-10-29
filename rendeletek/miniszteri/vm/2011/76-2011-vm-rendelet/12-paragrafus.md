@@ -8,7 +8,7 @@ a) kizárólag egy adott gazdasági társaság érdekeinek és termékeinek bemu
 
 b) politikai célú
 
-rendezvényekre.
+## rendezvényekre.
 
 (3) A (2) bekezdés a) pontjában foglaltak alól kivételt képez a helyi termékek népszerűsítését szolgáló rendezvény.
 

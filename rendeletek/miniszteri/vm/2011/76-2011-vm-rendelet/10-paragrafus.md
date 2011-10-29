@@ -8,7 +8,7 @@ b) nonprofit szervezet;
 
 c) egyházi jogi személy;
 
-amennyiben a fejlesztés a közhasznú tevékenység ellátását segíti elő és a célterület katalógus is tartalmazza az adott támogatható tevékenységet.
+## amennyiben a fejlesztés a közhasznú tevékenység ellátását segíti elő és a célterület katalógus is tartalmazza az adott támogatható tevékenységet.
 
 (2) Az e jogcím keretében elszámolható kiadásokat a 4. melléklet határozza meg.
 
