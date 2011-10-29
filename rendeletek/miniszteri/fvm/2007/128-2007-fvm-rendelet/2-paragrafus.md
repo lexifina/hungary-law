@@ -8,18 +8,22 @@
 
 2. fizikai blokk: a MePAR rendelet 1. §-ának a) pontjában meghatározott terület;
 
-3.[^1] mezőgazdasági parcella: egy földhasználó olyan összefüggő földterülete, amelyen egy növénycsoportot termeszt;
+3.[^1] mezőgazdasági parcella: a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet 2. cikk (1) bekezdése szerinti terület, adott támogatási jogcím sajátosságait figyelembe véve egy tábla területe;
 
 4. támogatott terület: a kérelemnek helyt adó határozatban megállapított terület;
 
 5. gazdálkodási év: 2007. november 1-jétől 2008. augusztus 31-éig tartó időszak, ezt követően a kérelem benyújtását megelőző év szeptember 1-jén kezdődő és a következő év augusztus 31-éig tartó időszak;
 
-6.[^2] Helyes Mezőgazdasági és Környezeti Állapot fenntartása érdekében alkalmazandó előírások összessége (a továbbiakban: HMKÁ előírásai): az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet 1. számú melléklete szerinti előírások;
+6.[^2]
 
-7. idős, méretes fa: a talajfelszín felett harminc centiméter törzsátmérőt elérő, Magyarországon őshonos fafaj egyede;
+7.[^3]
 
-8.[^3] gazdálkodási napló: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 21. számú melléklete szerinti dokumentum, amelyet a földhasználó a támogatási időszakban, az adott gazdálkodási évben végzett mezőgazdasági tevékenységeiről vezet.
+8.[^4] gazdálkodási napló: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 21. számú melléklete szerinti dokumentum, amelyet a földhasználó a támogatási időszakban, az adott gazdálkodási évben végzett mezőgazdasági tevékenységeiről vezet;
 
-[^1]: A 2. § 3. pontja a 17/2009. (III. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 2. § 6. pontja a 17/2009. (III. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § 8. pontja a 31/2010. (III. 30.) FVM rendelet 27. §-ával megállapított szöveg.
+9.[^5] földhasználati nyilvántartás: a földhasználati nyilvántartás részletes szabályairól szóló kormányrendelet szerinti nyilvántartás.
+
+[^1]: A 2. § 3. pontja a 98/2011. (X. 28.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 6. pontját a 98/2011. (X. 28.) VM rendelet 7. §-a hatályon kívül helyezte.
+[^3]: A 2. § 7. pontját a 98/2011. (X. 28.) VM rendelet 7. §-a hatályon kívül helyezte.
+[^4]: A 2. § 8. pontja a 31/2010. (III. 30.) FVM rendelet 27. §-ával megállapított szöveg.
+[^5]: A 2. § 9. pontját a 98/2011. (X. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
