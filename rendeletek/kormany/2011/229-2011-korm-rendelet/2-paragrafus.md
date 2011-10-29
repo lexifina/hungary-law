@@ -1,0 +1,1 @@
+## 1. § A felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet (a továbbiakban: Rendelet) 1. számú melléklete az 1. melléklet szerint módosul.
