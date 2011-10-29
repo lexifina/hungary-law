@@ -6,9 +6,9 @@
 
 (4) A 23/2007. (IV. 17.) FVM rendelet 13. § (2) bekezdésétől eltérően a kifizetési kérelemhez nem kell mellékelni a blokktérképet.
 
-(5)[^73] A 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramok esetében, az első gazdálkodási év kivételével, a kifizetési kérelem részeként az MVH-hoz be kell nyújtani az ökológiai ellenőrző szervezet által kiállított igazolást arról, hogy a kötelezettségvállalással érintett egybefüggő terület az ökológiai ellenőrző szervezet nyilvántartásában szerepel.
+(5)[^74] A 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramok esetében, az első gazdálkodási év kivételével, a kifizetési kérelem részeként az MVH-hoz be kell nyújtani az ökológiai ellenőrző szervezet által kiállított igazolást arról, hogy a kötelezettségvállalással érintett egybefüggő terület az ökológiai ellenőrző szervezet nyilvántartásában szerepel.
 
-(6)[^74] A kifizetési kérelemhez ritka növényfajták termesztése esetén mellékelni kell a ritka növényfajtáról a 29. § (3) bekezdésében foglaltak alapján kiállított dokumentumot.
+(6)[^75] A kifizetési kérelemhez ritka növényfajták termesztése esetén mellékelni kell a ritka növényfajtáról a 29. § (3) bekezdésében foglaltak alapján kiállított dokumentumot.
 
-[^73]: A 43. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^74]: A 43. § (6) bekezdését a 31/2010. (III. 30.) FVM rendelet 16. § (2) bekezdése iktatta be.
+[^74]: A 43. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^75]: A 43. § (6) bekezdését a 31/2010. (III. 30.) FVM rendelet 16. § (2) bekezdése iktatta be.

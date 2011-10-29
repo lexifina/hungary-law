@@ -28,11 +28,11 @@ c) csak kaszálás megengedett egy alkalommal, a legeltetetés nem;
 
 d) kaszálás csak június 15-e után lehetséges;
 
-e)[^135] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
+e)[^136] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
 
 (5) A célprogram második évétől a terület jellegétől, valamint az adott zónában választható célprogramtól függően a 69. § vagy 70. § szerinti célprogramok előírásait kell betartani.
 
-(6)[^136] A támogatás mértéke a célprogramba bevitt terület után
+(6)[^137] A támogatás mértéke a célprogramba bevitt terület után
 
 a) az első gazdálkodási évben 238 euró/ha-nak megfelelő forintösszeg;
 
@@ -42,5 +42,5 @@ bb) nem jogosult, 305 euró/ha-nak megfelelő forintösszeg;
 
 bc) jogosult, 267 euró/ha-nak megfelelő forintösszeg.
 
-[^135]: A 72. § (4) bekezdés e) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^136]: A 72. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 23. §-ával megállapított szöveg.
+[^136]: A 72. § (4) bekezdés e) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^137]: A 72. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 23. §-ával megállapított szöveg.

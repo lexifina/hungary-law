@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-31. § (1)[^48] A támogatási kérelmeket elektronikus úton kell benyújtani 2009. június 1. és július 25. között.
+31. § (1)[^49] A támogatási kérelmeket elektronikus úton kell benyújtani 2009. június 1. és július 25. között.
 
 (2) Az (1) bekezdés szerinti határidő elmulasztása jogvesztő.
 
@@ -34,7 +34,7 @@ c) támogatás igényléséhez szükséges nyilatkozatok.
 
 (9) A támogatási kérelem benyújtása során:
 
-a)[^49] mellékelni kell a 3. számú melléklet szerinti, a támogatási kérelem pontozásához szükséges dokumentumokat, illetve ahol a rendelet lehetővé teszi, másolat esetén a kérelmező aláírásával hitelesített másolati példányt;
+a)[^50] mellékelni kell a 3. számú melléklet szerinti, a támogatási kérelem pontozásához szükséges dokumentumokat, illetve ahol a rendelet lehetővé teszi, másolat esetén a kérelmező aláírásával hitelesített másolati példányt;
 
 b) a 3. § (1) bekezdés a) pont ab) alpontja szerinti tanyás célprogram esetében mellékelni kell az 59. § (6) bekezdése szerinti dokumentumot;
 
@@ -56,5 +56,5 @@ b) támogatási jogosultságra vonatkozó adatok, különösen a fizikai blokkaz
 
 c) a támogatási kérelem pontozásához szükséges dokumentumok.
 
-[^48]: A 31. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^49]: A 31. § (9) bekezdés a) pontja a 77/2009. (VI. 30.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^49]: A 31. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^50]: A 31. § (9) bekezdés a) pontja a 77/2009. (VI. 30.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

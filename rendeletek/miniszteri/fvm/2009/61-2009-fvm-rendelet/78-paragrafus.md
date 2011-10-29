@@ -36,10 +36,10 @@ g) kaszálás során legalább 10 cm magas tarlót kell hagyni;
 
 h) vadriasztó lánc használata kötelező;
 
-i)[^143] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
+i)[^144] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
 j) zsombékosok kaszálása tilos.
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 195 euró/ha-nak megfelelő forintösszeg.
 
-[^143]: A 78. § (4) bekezdés i) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^144]: A 78. § (4) bekezdés i) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés g) pontja szerint módosított szöveg.

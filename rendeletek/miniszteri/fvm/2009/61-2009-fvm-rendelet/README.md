@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-61-20-8
 | 2011-01-01 | 2009-61-20-82.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-14 | 2009-61-20-82.8 | 1/2011. (I. 11.) VM rendelet |
 | 2011-10-06 | 2009-61-20-82.9 | 92/2011. (X. 5.) VM rendelet |
+| 2011-10-29 | 2009-61-20-82.10 | 98/2011. (X. 28.) VM rendelet |
