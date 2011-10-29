@@ -1,6 +1,6 @@
 ## A ciklusokra bontott, osztott képzés alapképzési szakjainak jegyzéke
 
-|  | a) Képzési terület | b) Képzési ág | c) Alapképzési szakok | d) Szakhoz rendelt kreditek száma |
+|  | a) Képzési terület | b) Képzési ág | c) Alapképzési szakok | d) Szakhoz rendelt kreditek száma |
 
 | 1. | agrár | agrár műszaki | földmérő és földrendező mérnöki* | 180+30 |
 
@@ -48,7 +48,7 @@
 
 | 23. | szlavisztika (pl. orosz, bolgár, cseh, lengyel, horvát/nemzetiségi, szerb/nemzetiségi, szlovák/nemzetiségi, szlovén/nemzetiségi, ukrán/nemzetiségi szakirányok) |
 
-| 24. |  | ókori és keleti filológia | ókori nyelvek és kultúrák (asszíriológia, egyiptológia, klasszika-filológia [latin, ógörög] szakirányok) | 180 |
+| 24. | ókori és keleti filológia | ókori nyelvek és kultúrák (asszíriológia, egyiptológia, klasszika-filológia [latin, ógörög] szakirányok) | 180 |
 
 | 25. | keleti nyelvek és kultúrák (pl. altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög szakirányok) |
 
@@ -60,7 +60,7 @@
 
 | 29. | szabad bölcsészet | szabad bölcsészet (pl. filozófia, esztétika, etika, vallástudomány, filmelmélet és filmtörténet, kommunikáció és médiatudomány, művészettörténet, elméleti nyelvészet szakirányok) | 180 |
 
-| 30. | társadalom-tudomány | politikatudomány | nemzetközi tanulmányok | 180 |
+| 30. | társadalom- tudomány | politikatudomány | nemzetközi tanulmányok | 180 |
 
 | 31. | politológia |
 
@@ -86,27 +86,27 @@
 
 | 42. | programtervező informatikus* | 180 |
 
-| 43. | jogi és igazgatási | igazgatási | bűnügyi igazgatási* (pl. bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányokkal) | 180 |
+| 43. | jogi | igazságügyi | igazságügyi igazgatási | 180 |
 
-| 44. | igazgatásszervező |
+| 44. | munkajogi | munkaügyi és társadalombiztosítási igazgatási |
 
-| 45. | igazságügyi igazgatási |
+| 45. | közigazgatási, rendészeti és katonai | közigazgatási | igazgatásszervező | 180 |
 
-| 46. | munkaügyi és társadalombiztosítási igazgatási |
+| 46. | nemzetközi igazgatási |
 
-| 47. | nemzetközi igazgatási |
+| 47. | rendészeti | bűnügyi igazgatási* (pl. bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányokkal) | 180 |
 
-| 48. | rendészeti igazgatási* (pl. biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti, katasztrófavédelmi, közlekedésrendészeti, közrendvédelmi, vám- és jövedéki igazgatási szakirányokkal) |
+| 48. | rendészeti igazgatási* (pl. biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti, katasztrófavédelmi, közlekedésrendészeti, közrendvédelmi, vám- és jövedéki igazgatási, migrációs szakirányokkal) |
 
-| 49. | nemzet- védelmi és katonai | védelmi | biztonság- és védelempolitikai | 180 |
+| 49. | büntetés-végrehajtási nevelő |
 
-| 50. | büntetés-végrehajtási nevelő |
+| 50. | nemzet- biztonsági | nemzetbiztonsági | 180 |
 
-| 51. | nemzetbiztonsági |
+| 51. | honvédelmi és katonai | biztonság- és védelempolitikai | 180 |
 
 | 52. | védelmi igazgatási |
 
-| 53. | katonai | katonai vezetői | 210 |
+| 53. | katonai vezetői | 210 |
 
 | 54. | katonai gazdálkodási |
 
@@ -274,9 +274,9 @@
 
 | 136. | mozgóképkultúra | mozgóképkultúra és médiaismeret | 180 |
 
-## * A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény alkalmazása szempontjából – külső szakmai gyakorló helyen, intézményben, vagy erre alkalmas szervezetnél teljesítendő, a szak képzési és kimeneti követelményeiben meghatározott, legalább 6 hétig tartó szakmai gyakorlatot előíró képzések közül – gyakorlatigényesnek minősülő alapképzési szak.
+## * A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény alkalmazása szempontjából – külső szakmai gyakorló helyen, intézményben, vagy erre alkalmas szervezetnél teljesítendő, a szak képzési és kimeneti követelményeiben meghatározott, legalább 6 hétig tartó szakmai gyakorlatot előíró képzések közül – gyakorlatigényesnek minősülő alapképzési szak.
 
-## ** Választható szakirányok:
+## ** Választható szakirányok:
 
 ## klasszikus hangszer: furulya, fuvola, oboa, klarinét, szaxofon, fagott, kürt, trombita, harsona, tuba, ütőhangszerek, hegedű, mélyhegedű, gordonka, gordon, hárfa, gitár, lant, cimbalom, csembaló, zongora, orgona, harmonika
 
@@ -288,4 +288,4 @@
 
 2. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^23]
 
-[^23]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

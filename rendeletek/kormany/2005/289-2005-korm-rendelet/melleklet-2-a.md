@@ -1,6 +1,6 @@
 ## A ciklusokra bontott, osztott képzés és az egységes osztatlan képzés mesterképzési szakok jegyzéke1
 
-|  | a) Képzési terület | b) Alapképzés szak | c) Teljes alapképzési szak beszámításával induló mesterképzési szak | d) Egységes, osztatlan képzések | e) A mesterszakhoz rendelt kreditek száma |
+|  | a) Képzési terület | b) Alapképzés szak | c) Teljes alapképzési szak beszámításával induló mesterképzési szak | d) Egységes, osztatlan képzések | e) A mesterszakhoz rendelt kreditek száma |
 
 | 1. | agrár3 |  |  | állatorvosi2 | 300+30 |
 
@@ -96,7 +96,7 @@
 
 | 47. | portugál nyelv, irodalom és kultúra |
 
-| 48. |  |  | román nyelv, irodalom és kultúra |  |  |
+| 48. | román nyelv, irodalom és kultúra |
 
 | 49. | spanyol nyelv, irodalom és kultúra |
 
@@ -178,7 +178,7 @@
 
 | 88. | pszichológia | pszichológia |  | 120 |
 
-| 89. |  | szabad bölcsészet | művészettörténet |  | 120 |
+| 89. | szabad bölcsészet | művészettörténet |  | 120 |
 
 | 90. | filozófia |
 
@@ -216,7 +216,7 @@
 
 | 107. | politológia | politikai szakértő4 |  | 120 |
 
-| 108. |  | politikatudomány4 |  | 120 |
+| 108. | politikatudomány4 |  | 120 |
 
 | 109. | szociális munka | szociális munka4 |  | 120 |
 
@@ -254,27 +254,29 @@
 
 | 126. | orvosi biotechnológia4 |  | 120 |
 
-| 127. | jogi és igazgatási |  |  | jogász | 300 |
+| 127. | jogi |  |  | jogász | 300 |
 
-| 128. | rendészeti igazgatási | rendészeti vezető4 |  | 120 |
+| 128. | munkaügyi és társadalom- biztosítási igazgatási | munkaügyi és társadalom- biztosítási igazgatási |  | 120 |
 
-| 129. | igazgatásszervező | közigazgatási |  | 120 |
+| 129. |  | kriminológia4 |  | 120 |
 
-| 130. | munkaügyi és társadalombiztosítási igazgatási | munkaügyi és társadalombiztosítási igazgatási |  | 120 |
+| 130. | közigazgatási, rendészeti és katonai | igazgatásszervező | közigazgatási4 |  | 120 |
 
 | 131. | nemzetközi igazgatási | európai és nemzetközi igazgatás4 |  | 120 |
 
-| 132. |  | kriminológia4 |  | 120 |
+| 132. | védelmi igazgatási | védelmi igazgatási |  | 120 |
 
-| 133. | nemzet- védelmi és katonai | védelmi igazgatási | védelmi igazgatási |  | 120 |
+| 133. | biztonság- és védelempolitikai | biztonság- és védelempolitikai |  | 120 |
 
-| 134. | biztonság- és védelempolitikai | biztonság- és védelempolitikai |  | 120 |
+| 134. | nemzetbiztonsági | nemzetbiztonsági |  | 120 |
 
-| 135. | nemzetbiztonsági | nemzetbiztonsági |  | 120 |
+| 135. | katonai vezetői | katonai vezetői |  | 90 |
 
-| 136. | katonai vezetői | katonai vezetői |  | 90 |
+| 136. | büntetés- végrehajtási nevelő | büntetés- végrehajtási vezető |  | 120 |
 
-| 137. | büntetés-végrehajtási nevelő | büntetés-végrehajtási vezető |  | 120 |
+| 137. | rendészeti igazgatási | rendészeti vezető4 |  | 120 |
+
+| 137/a. |  | biztonsági szervező4 |  | 120 |
 
 | 138. | gazdaság- tudományok | alkalmazott közgazdaságtan | közgazdasági elemző4 |  | 120 |
 
@@ -352,6 +354,8 @@
 
 | 175. | földtudományi mérnöki |
 
+| 175/a. | olajmérnöki mesterképzési szak (kizárólag angol nyelvű képzés) |  | 120 |
+
 | 176. |  |  | építész2 | 300 |
 
 | 177. | építészmérnöki | építészmérnöki |  | 90 |
@@ -374,7 +378,7 @@
 
 | 186. | gépészeti modellezés4 |
 
-| 187. |  |  | épületgépészeti és eljárástechnikai gépészmérnöki4 |  |  |
+| 187. | épületgépészeti és eljárástechnikai gépészmérnöki4 |
 
 | 188. | közlekedésmérnöki | közlekedésmérnöki |  | 120 |
 
@@ -407,6 +411,8 @@
 | 202. |  |  | gyógyszerész2 | 300 |
 
 | 203. | ápolás és betegellátás (ápoló, dietetikus, gyógytornász, mentőtiszt, szülésznő szakirányokkal) | ápolás4 |  | 90 |
+
+| 203/a. | fizioterápia |  | 90 |
 
 | 204. | egészségügyi gondozás és prevenció (népegészségügyi ellenőr és védőnő szakirányokkal) | népegészségügyi4 |  | 90 |
 
@@ -454,7 +460,7 @@
 
 | 223. | immunológia |  |
 
-| 224. |  |  | biotechnológia4 |  |  |
+| 224. |  | biotechnológia4 |  |
 
 | 225. |  | etológia4 |  | 120 |
 
@@ -491,6 +497,8 @@
 | 241. |  | kognitív tanulmányok4 |  | 120 |
 
 | 242. | m ű v é s z e t | építő- művészet3 | építőművészet | építőművész |  | 120 |
+
+| 242/a. |  | tájépítész és kertművész4 |  | 120 |
 
 | 243. |  |  | építőművész2 | 300 |
 
@@ -556,7 +564,7 @@
 
 | 274. |  |  | filmdramaturg | 300 |
 
-| 275. |  |  |  | filmművészeti menedzser4 |  | 60 |
+| 275. |  | filmművészeti menedzser4 |  | 60 |
 
 | 276. | zene- művészet | előadóművészet (klasszikus hangszer, jazzhangszer, klasszikus ének, jazzének, zenekar- és kórusvezetés, egyházzene, népzene szakirányokkal) | klasszikus hangszerművész (fuvola, oboa, klarinét, fagott, kürt, trombita, harsona, tuba, ütőhangszer, hegedű, mélyhegedű, gordonka, gordon, hárfa, gitár, cimbalom, zongora, zongorakísérő-korrepetitor, orgona, harmonika szakirányokkal) |  | 120 |
 
@@ -616,18 +624,22 @@
 
 | 304. | média menedzser4 |  | 60 |
 
-## 1 A mesterképzési szakokról szóló melléklet nem tartalmazza a tanári mesterszakokat.
+| 305. | művészet |  | kortárs művészetelméleti és kurátori ismeretek |  | 120 |
 
-## – A ciklusokra bontott, osztott képzés alapképzési szakjaira épülően választható tanári mesterszakon szerezhető szakképzettségeket a 3. sz. melléklet tartalmazza a Nemzeti Alaptanterv szerinti műveltségterületi és közismereti, szakmai, illetve művészeti tanári szakképzettségi bontásban. Az egyes képzési területeken, illetve képzési ágakban az alapképzési szakon, illetve annak szakirányain szerezhető szakképzettségek szerint differenciálódnak a tanári szakképzettségek.
+| 306. | művészetközvetítés | mozgóképkultúra és médiaismeret | mozgóképművész |  | 120 |
 
-## – Tanári szakképzettség – a rendeletben meghatározottak szerint – szerezhető mesterfokozat és szakképzettség birtokában vagy a művészeti területen a mesterfokozat és nem tanári szakképzettség megszerzésére irányuló tanulmányokkal párhuzamosan is.
+## 1 A mesterképzési szakokról szóló melléklet nem tartalmazza a tanári mesterszakokat.
 
-## 2 A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény alkalmazása szempontjából – külső szakmai gyakorló helyen, intézményben, vagy erre alkalmas szervezetnél teljesítendő, a szak képzési és kimeneti követelményeiben meghatározott, legalább 6 hétig tartó szakmai gyakorlatot előíró képzések közül – gyakorlatigényesnek minősülő osztatlan mesterképzési szak.
+## – A ciklusokra bontott, osztott képzés alapképzési szakjaira épülően választható tanári mesterszakon szerezhető szakképzettségeket a 3. sz. melléklet tartalmazza a Nemzeti Alaptanterv szerinti műveltségterületi és közismereti, szakmai, illetve művészeti tanári szakképzettségi bontásban. Az egyes képzési területeken, illetve képzési ágakban az alapképzési szakon, illetve annak szakirányain szerezhető szakképzettségek szerint differenciálódnak a tanári szakképzettségek.
 
-## 3 A szakképzés, illetve a művészeti szakképzés területén szerezhető tanári szakképzettségek megjelölése a mesterképzési szakon szerzett szakképzettségnek megfelelően: mérnöktanár, agrármérnök-tanár, egészségügyi-tanár, közgazdásztanár, iparművésztanár, képzőművésztanár, zeneművésztanár, táncművésztanár, színházművészeti tanár, filmművészeti tanár.
+## – Tanári szakképzettség – a rendeletben meghatározottak szerint – szerezhető mesterfokozat és szakképzettség birtokában vagy a művészeti területen a mesterfokozat és nem tanári szakképzettség megszerzésére irányuló tanulmányokkal párhuzamosan is.
 
-## 4 A mesterszak képzési és kimeneti követelményeiről szóló miniszteri rendelet határozza meg azokat a további alapképzési szakokat, amelyre még az adott mesterszak a teljes alapképzési szak beszámításával épül.
+## 2 A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény alkalmazása szempontjából – külső szakmai gyakorló helyen, intézményben, vagy erre alkalmas szervezetnél teljesítendő, a szak képzési és kimeneti követelményeiben meghatározott, legalább 6 hétig tartó szakmai gyakorlatot előíró képzések közül – gyakorlatigényesnek minősülő osztatlan mesterképzési szak.
+
+## 3 A szakképzés, illetve a művészeti szakképzés területén szerezhető tanári szakképzettségek megjelölése a mesterképzési szakon szerzett szakképzettségnek megfelelően: mérnöktanár, agrármérnök-tanár, egészségügyi-tanár, közgazdásztanár, iparművésztanár, képzőművésztanár, zeneművésztanár, táncművésztanár, színházművészeti tanár, filmművészeti tanár.
+
+## 4 A mesterszak képzési és kimeneti követelményeiről szóló miniszteri rendelet határozza meg azokat a további alapképzési szakokat, amelyre még az adott mesterszak a teljes alapképzési szak beszámításával épül.
 
 2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^24]
 
-[^24]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^24]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
