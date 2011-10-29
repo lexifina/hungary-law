@@ -1,4 +1,4 @@
-## 111. § A gyermekotthon nevelési alapdokumentuma a pedagógus munkakörben foglalkoztatott, továbbá a nevelő-gondozó munkát közvetlenül segítő felsőfokú végzettségű munkatársak (a továbbiakban együtt: nevelőtestület) által elfogadott, az intézményben folyó nevelés célját, alapelveit, módszereit tartalmazó szakmai program.
+## 111. §[^241] A gyermekotthon nevelési alapdokumentuma a pedagógus munkakörben foglalkoztatott, továbbá a nevelő-gondozó munkát közvetlenül segítő felsőfokú végzettségű munkatársak (a továbbiakban együtt: nevelőtestület) által elfogadott, a 4/A. § szerinti szakmai program.
 
 112. § (1) A gyermekotthon belső életének rendjét, a gyermek, fiatal felnőtt jogai gyakorlásának és kötelességei teljesítésének szabályait a házirend tartalmazza. A házirendben kell megállapítani különösen
 
@@ -17,3 +17,5 @@ e) az érdekképviseleti fórum véleményezési és egyetértési jogának gyak
 (2) A házirendet az igazgató a nevelőtestület, valamint a gyermekönkormányzat véleményének figyelembevételével és az intézményben működő érdekképviseleti fórum egyetértésével hagyja jóvá.
 
 (3) A házirend egy példányát a gyermekotthonban jól látható helyen ki kell függeszteni.
+
+[^241]: A 111. § az 58/2011. (X. 21.) NEFMI rendelet 6. § c) pontja szerint módosított szöveg.

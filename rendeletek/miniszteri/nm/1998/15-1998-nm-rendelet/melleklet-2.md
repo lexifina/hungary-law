@@ -122,6 +122,6 @@
 
 | Módszertani feladatokat ellátó területi gyermekvédelmi szakszolgálatnál | módszertani szaktanácsadó | 2 fő |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^350]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^359]
 
-[^350]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 7/2008. (VI. 3.) SZMM rendelet 8. §-a, a 31/2009. (XII. 22.) SZMM rendelet 18. § (2) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^359]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 7/2008. (VI. 3.) SZMM rendelet 8. §-a, a 31/2009. (XII. 22.) SZMM rendelet 18. § (2) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés b) pontja, az 58/2011. (X. 21.) NEFMI rendelet 5. §-a és 6. § d)–e) pontja szerint módosított szöveg.

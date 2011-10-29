@@ -10,33 +10,37 @@ c) vezetője legalább ötéves szakmai és kétéves vezetői gyakorlattal rend
 
 d) a módszertani munkára vonatkozó szakmai programmal rendelkezik.
 
-(3) A módszertani intézmény
+(3)[^18] A módszertani intézmény, valamint módszertani feladatai ellátása körében az Intézet
 
-a)[^18] az Intézet irányításával részt vesz a minőségfejlesztési elvek kidolgozásában, és segítséget nyújt azok gyakorlati alkalmazásához;
+a) figyelemmel kíséri az alap- és szakellátásokat érintő tudományos kutatásokat, publikációkat, a modellértékű új kezdeményezéseket, továbbá elősegíti ezek mind szélesebb körű megismerését, gyakorlati alkalmazását,
 
-b) figyelemmel kíséri az alap- és szakellátásokat érintő tudományos kutatásokat, publikációkat, a modellértékű új kezdeményezéseket, továbbá elősegíti ezek mind szélesebb körű megismerését, gyakorlati alkalmazását;
+b) szervezi a gyermekjóléti, gyermekvédelmi területen dolgozók tapasztalatcseréjét és továbbképzését,
 
-c) szervezi a gyermekjóléti, gyermekvédelmi területen dolgozók tapasztalatcseréjét és továbbképzését;
+c) elemzi és értékeli a szolgáltatók működését, valamint javaslatot tesz a hiányzó ellátások megszervezésére, a működés lehetőség szerinti javítására,
 
-d) elemzi és értékeli a szolgáltatók működését, valamint javaslatot tesz a hiányzó ellátások megszervezésére, a működés lehetőség szerinti javítására;
+d) információkat gyűjt az illetékességi területén az ellátórendszer sajátosságairól, problémáiról,
 
-e) információkat gyűjt az illetékességi területén az ellátórendszer sajátosságairól, problémáiról;
+e) szaktanácsadás keretében szakmai módszertani segítséget nyújt a gyermekjóléti, gyermekvédelmi területen dolgozók szakmai problémáinak megoldásához,
 
-f) szaktanácsadás keretében szakmai módszertani segítséget nyújt a gyermekjóléti, gyermekvédelmi területen dolgozók szakmai problémáinak megoldásához;
+f) szervezi az egyetemi, főiskolai képzésben és a szakképzésben részt vevő hallgatók, tanulók terepgyakorlatát.
 
-g)[^19] részt vesz a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium), valamint az Intézet által szervezett szakmai programok lebonyolításában, megszervezésében, valamint az e szervektől származó anyagoknak, információknak a szolgáltatókhoz való eljuttatásában,
+(3a)[^19] A módszertani intézmény a (3) bekezdésben foglaltakon túl
 
-h) szervezi a főiskolai és egyetemi hallgatók terepgyakorlatát.
+a) az Intézet irányításával részt vesz a minőségfejlesztési elvek kidolgozásában, és segítséget nyújt azok gyakorlati alkalmazásához,
 
-(4) A módszertani intézmény a megyei gyámhivatal, valamint a fenntartója felkérésére térítésmentesen, más fenntartó vagy a működést engedélyező jegyző felkérésére eseti megbízás alapján, térítés ellenében részt vesz a szolgáltató ellenőrzésében.
+b) részt vesz a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium), valamint az Intézet által szervezett szakmai programok lebonyolításában, megszervezésében, valamint az e szervektől származó anyagoknak, információknak a szolgáltatókhoz való eljuttatásában.
 
-(5) A módszertani intézmény a módszertani feladatok ellátásába, egyes új módszerek modellkísérletének elvégzésébe állandó vagy eseti jelleggel más szolgáltatót is bevonhat. Az állandó jellegű munkakapcsolathoz a módszertani intézmény fenntartójának hozzájárulása szükséges.
+(4)[^20] A módszertani intézmény a működést engedélyező szerv, valamint a fenntartója felkérésére térítésmentesen, más fenntartó felkérésére eseti megbízás alapján, térítés ellenében részt vesz a szolgáltató ellenőrzésében.
 
-(6)[^20] A módszertani intézmény éves munkatervet, valamint módszertani feladatai ellátásáról szakmai beszámolót készít, melyet minden év február 15-éig megküld a fenntartónak, a Minisztériumnak, az Intézetnek és a megyei gyámhivatalnak.
+(5)[^21] A módszertani intézmény, valamint az Intézet a módszertani feladatok ellátásába, egyes új módszerek modellkísérletének elvégzésébe állandó vagy eseti jelleggel más szolgáltatót is bevonhat. Az állandó jellegű munkakapcsolathoz a módszertani intézmény fenntartójának hozzájárulása szükséges.
+
+(6)[^22] A módszertani intézmény éves munkatervet, valamint módszertani feladatai ellátásáról szakmai beszámolót készít, melyet minden év február 15-éig megküld a fenntartónak, a Minisztériumnak, az Intézetnek és a megyei gyámhivatalnak. Az Intézet éves munkatervet, valamint módszertani feladatainak ellátásáról szakmai beszámolót készít, melyet minden év február 15-éig megküld a Minisztériumnak.
 
 [^15]: A 4. § a 46/2003. (VIII. 8.) ESZCSM rendelet 4. §-ával megállapított szöveg.
 [^16]: A 4. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § b) pontja, a 24/2010. (XII. 30.) NEFMI rendelet 2. §-a szerint módosított szöveg.
 [^17]: A 4. § (2) bekezdés a) pontja a 28/2010. (XII. 30.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
-[^18]: A 4. § (3) bekezdésének a) pontja a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.
-[^19]: A 4. § (3) bekezdésének g) pontja a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése bb) alpontja, a 31/2009. (XII. 22.) SZMM rendelet 21. § c) pontja szerint módosított szöveg.
-[^20]: A 4. § (6) bekezdése a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bc) alpontja szerint módosított szöveg.
+[^18]: A 4. § (3) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § (3a) bekezdését az 58/2011. (X. 21.) NEFMI rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 4. § (4) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^21]: A 4. § (5) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^22]: A 4. § (6) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 1. § (3) bekezdésével megállapított szöveg.

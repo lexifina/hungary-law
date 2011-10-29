@@ -1,8 +1,8 @@
-## 81. §[^172] A különleges vagy speciális ellátásra szoruló gondozott gyermek számára a fejlődéséhez, illetve fejlesztéséhez, a gyógyulásához, rehabilitációjához, terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
+## 81. §[^177] A különleges vagy speciális ellátásra szoruló gondozott gyermek számára a fejlődéséhez, illetve fejlesztéséhez, a gyógyulásához, rehabilitációjához, terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
 
-82. § (1)[^173] A 3 éven felüli gondozott gyermeket személyes szükségleteinek kielégítésére – a (3) bekezdésben meghatározott kivétellel – havonta zsebpénzzel kell ellátni. A zsebpénz havi összege nem lehet kevesebb az öregségi nyugdíj mindenkori legkisebb összegének
+82. § (1)[^178] A 3 éven felüli gondozott gyermeket személyes szükségleteinek kielégítésére – a (3) bekezdésben meghatározott kivétellel – havonta zsebpénzzel kell ellátni. A zsebpénz havi összege nem lehet kevesebb az öregségi nyugdíj mindenkori legkisebb összegének
 
-a)[^174] 5%-ánál a 3–10 éves,
+a)[^179] 5%-ánál a 3–10 éves,
 
 b) 13%-ánál a 10–14 éves,
 
@@ -10,7 +10,7 @@ c) 18%-ánál a 14 év feletti
 
 ## gyermek esetében.
 
-(2)[^175] A zsebpénznek az (1) bekezdésben meghatározott mértéken felüli összegét a gondozott gyermek szorgalma, magatartása figyelembevételével
+(2)[^180] A zsebpénznek az (1) bekezdésben meghatározott mértéken felüli összegét a gondozott gyermek szorgalma, magatartása figyelembevételével
 
 a) gyermekotthonban elhelyezetteknél a nevelő javaslatára az intézmény vezetője,
 
@@ -18,19 +18,19 @@ b) nevelőszülőnél elhelyezettek esetében a nevelőszülő,
 
 ## havonta állapítja meg, és folyósítja.
 
-(3)[^176] A gondozási helyéről önkényesen eltávozott (szökött) gondozott gyermeket a szökés időtartama alatt zsebpénz nem illeti meg.
+(3)[^181] A gondozási helyéről önkényesen eltávozott (szökött) gondozott gyermeket a szökés időtartama alatt zsebpénz nem illeti meg.
 
-(4)[^177] A gondozott gyermek zsebpénzéről nevelője, nevelőszülője a 3. számú mellékletben foglalt zsebpénz-nyilvántartást vezeti.
+(4)[^182] A gondozott gyermek zsebpénzéről nevelője, nevelőszülője a 3. számú mellékletben foglalt zsebpénz-nyilvántartást vezeti.
 
-(5)[^178] A gondozott gyermek a zsebpénze felhasználásáról maga dönt.
+(5)[^183] A gondozott gyermek a zsebpénze felhasználásáról maga dönt.
 
-(6)[^179] A fejlesztő felkészítésben való részvételre kötelezett, valamint a 3–6 éves korú gondozott gyermek részére a zsebpénz nem kerül kifizetésre, de biztosítani kell a személyre szóló felhasználását.
+(6)[^184] A fejlesztő felkészítésben való részvételre kötelezett, valamint a 3–6 éves korú gondozott gyermek részére a zsebpénz nem kerül kifizetésre, de biztosítani kell a személyre szóló felhasználását.
 
-[^172]: A 81. § a 46/2003. (VIII. 8.) ESZCSM rendelet 47. §-ával megállapított szöveg.
-[^173]: A 82. § (1) bekezdése felvezető szövegének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg.
-[^174]: A 82. § (1) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg, e módosító rendelet 98. § (8) bekezdése alapján az a) pontban meghatározott mértékű zsebpénzt a 3–6 éves, gondozott gyermekek számára 2004. január 1-jétől kell biztosítani.
-[^175]: A 82. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (2) bekezdésével megállapított szöveg.
-[^176]: A 82. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
-[^177]: A 82. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 99. § (2) bekezdésének 13. pontja szerint módosított szöveg.
-[^178]: A 82. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése.
-[^179]: A 82. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 48. § (4) bekezdésével megállapított szöveg.
+[^177]: A 81. § a 46/2003. (VIII. 8.) ESZCSM rendelet 47. §-ával megállapított szöveg.
+[^178]: A 82. § (1) bekezdése felvezető szövegének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^179]: A 82. § (1) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított szöveg, e módosító rendelet 98. § (8) bekezdése alapján az a) pontban meghatározott mértékű zsebpénzt a 3–6 éves, gondozott gyermekek számára 2004. január 1-jétől kell biztosítani.
+[^180]: A 82. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (2) bekezdésével megállapított szöveg.
+[^181]: A 82. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
+[^182]: A 82. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 99. § (2) bekezdésének 13. pontja szerint módosított szöveg.
+[^183]: A 82. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése.
+[^184]: A 82. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 48. § (4) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
-## 132. §[^282] Ha a gyám a nevelésbe vett gyermeknek a Minisztérium gyermekotthonában történő elhelyezését tartja indokoltnak, javaslatot tesz a gyámhivatalnak a gyermek gondozási helyének megváltoztatására.
+## 132. §[^290] Ha a gyám a nevelésbe vett gyermeknek a Minisztérium gyermekotthonában történő elhelyezését tartja indokoltnak, javaslatot tesz a gyámhivatalnak a gyermek gondozási helyének megváltoztatására.
 
-133. §[^283] (1) A gyámhivatalnak a gondozási helyet kijelölő, vagy a gondozási hely megváltoztatását elrendelő határozata alapján a gyám gondoskodik a nevelésbe vett gyermeknek a Minisztérium gyermekotthonába történő kíséréséről.
+133. §[^291] (1) A gyámhivatalnak a gondozási helyet kijelölő, vagy a gondozási hely megváltoztatását elrendelő határozata alapján a gyám gondoskodik a nevelésbe vett gyermeknek a Minisztérium gyermekotthonába történő kíséréséről.
 
 (2) A Minisztérium gyermekotthonában elrendelt nevelési felügyelet végrehajtására a 126/A. §-ban foglaltak az irányadóak.
 
-[^282]: A 132. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
-[^283]: A 133. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^290]: A 132. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^291]: A 133. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.

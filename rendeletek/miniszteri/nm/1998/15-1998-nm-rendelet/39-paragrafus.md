@@ -1,6 +1,6 @@
-39. § (1)[^103] A szülőnek (törvényes képviselőnek) a gyermek bölcsődei jelentkezéséhez csatolnia kell a házi gyermekorvos vagy a háziorvos igazolását arról, hogy a gyermek egészségi állapota alapján bölcsődében gondozható.
+39. § (1)[^107] A szülőnek (törvényes képviselőnek) a gyermek bölcsődei jelentkezéséhez csatolnia kell a házi gyermekorvos vagy a háziorvos igazolását arról, hogy a gyermek egészségi állapota alapján bölcsődében gondozható.
 
-(2)[^104] Nem gondozható bölcsődében a fertőző beteg gyermek mindaddig, amíg a házi gyermekorvos vagy a háziorvos igazolása szerint ez az állapota fennáll.
+(2)[^108] Nem gondozható bölcsődében a fertőző beteg gyermek mindaddig, amíg a házi gyermekorvos vagy a háziorvos igazolása szerint ez az állapota fennáll.
 
-[^103]: A 39. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 3. pontja szerint módosított szöveg.
-[^104]: A 39. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 4. pontja szerint módosított szöveg.
+[^107]: A 39. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 3. pontja szerint módosított szöveg.
+[^108]: A 39. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 4. pontja szerint módosított szöveg.

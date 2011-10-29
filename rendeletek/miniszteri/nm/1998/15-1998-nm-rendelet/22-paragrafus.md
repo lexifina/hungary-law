@@ -18,11 +18,11 @@ d) az a)–c) pontban foglaltak alapján sor kerülhessen a védelembe vétel me
 
 (4) Amennyiben a gondozási-nevelési terv megvalósítása a szülő, illetve a gyermek megfelelő együttműködése miatt nem lehetséges, a családgondozó
 
-a)[^64] írásban jelzi ezt a jegyzőnek,
+a)[^67] írásban jelzi ezt a jegyzőnek,
 
 b) felhívja a szülő, illetve a gyermek figyelmét arra, hogy a védelembe vétel sikertelensége esetén a gyermekvédelmi gondoskodás más eszközének alkalmazására kerülhet sor,
 
-c)[^65] javaslatot tesz – lehetőség szerint az általa összehívott esetkonferenciát követően – a jegyzőnek, illetve a gyámhivatalnak a gyermekvédelmi gondoskodás más eszközének alkalmazására.
+c)[^68] javaslatot tesz – lehetőség szerint az általa összehívott esetkonferenciát követően – a jegyzőnek, illetve a gyámhivatalnak a gyermekvédelmi gondoskodás más eszközének alkalmazására.
 
 (5) A családgondozó a védelembe vétel felülvizsgálata során tájékoztatja a jegyzőt a védelembe vétel körében végzett családgondozói tevékenységéről, és megindokolt javaslatot tesz
 
@@ -30,5 +30,5 @@ a) a védelembe vétel fenntartására vagy megszüntetésére,
 
 b) a jegyző vagy a gyámhivatal által teendő intézkedésekre.
 
-[^64]: A 22. § (4) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 19. §-ával megállapított szöveg.
-[^65]: A 22. § (4) bekezdésének c) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 19. §-ával megállapított szöveg.
+[^67]: A 22. § (4) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 19. §-ával megállapított szöveg.
+[^68]: A 22. § (4) bekezdésének c) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 19. §-ával megállapított szöveg.

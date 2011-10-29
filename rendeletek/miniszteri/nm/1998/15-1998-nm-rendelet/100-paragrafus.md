@@ -12,15 +12,15 @@ c) a gondozott gyermek nevelési-oktatási intézményének rendszeres, szüksé
 
 d) tanácsadás keretében a nevelőszülő segítése a gondozott gyermekkel kapcsolatos problémák megoldásában, szükség esetén a nevelőszülő, illetve a gyermek megfelelő szakemberhez történő irányítása, továbbá a szükséges ellátáshoz való hozzájutásuk elősegítése,
 
-e)[^212] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési díjat, ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
+e)[^218] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési díjat, ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
 
-f)[^213] a 89. § szerinti családgondozás.
+f)[^219] a 89. § szerinti családgondozás.
 
-(3)[^214] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/E. §-ának (7) bekezdésében foglaltakat tapasztalja.
+(3)[^220] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/E. §-ának (7) bekezdésében foglaltakat tapasztalja.
 
-(4)[^215] A nevelőszülői hálózatot működtető a nevelőszülők számára biztosítja a rendszeres – félévente legalább 6 órában történő – továbbképzésen való részvétel lehetőségét. A továbbképzést a működtető is szervezheti. A továbbképzés tematikájának a kidolgozásánál figyelemmel kell lenni az Intézet módszertani levelére.
+(4)[^221] A nevelőszülői hálózatot működtető a nevelőszülők számára biztosítja a rendszeres – félévente legalább 6 órában történő – továbbképzésen való részvétel lehetőségét. A továbbképzést a működtető is szervezheti. A továbbképzés tematikájának a kidolgozásánál figyelemmel kell lenni az Intézet módszertani levelére.
 
-[^212]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
-[^213]: A 100. § (2) bekezdésének f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
-[^214]: A 100. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 16. pontja szerint módosított szöveg.
-[^215]: A 100. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 6. pontja és a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.
+[^218]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
+[^219]: A 100. § (2) bekezdésének f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
+[^220]: A 100. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 16. pontja szerint módosított szöveg.
+[^221]: A 100. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 6. pontja és a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bb) alpontja szerint módosított szöveg.

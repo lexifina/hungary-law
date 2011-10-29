@@ -4,8 +4,9 @@
 
 ## A nevelőszülői hálózatot működtető feladatai
 
-94. § (1)[^202] A nevelőszülői hálózat szervezeti és működési rendjét a működtető SZMSZ-e határozza meg. Az SZMSZ mellékleteként szabályozni kell a nevelőszülői, a hivatásos nevelőszülői és a helyettes szülői jogviszony egyes kérdéseiről szóló 261/2002. (XII. 18.) Korm. rendelet 12. §-ában meghatározott költségtérítés feltételeit.
+94. § (1)[^207] A nevelőszülői hálózat szervezeti és működési rendjét a működtető SZMSZ-e határozza meg. Az SZMSZ mellékleteként szabályozni kell a nevelőszülői, a hivatásos nevelőszülői és a helyettes szülői jogviszony egyes kérdéseiről szóló 261/2002. (XII. 18.) Korm. rendelet 12. §-ában meghatározott költségtérítés feltételeit.
 
-(2) A nevelőszülői hálózat nevelési alapdokumentuma a nevelőszülők és nevelőszülői tanácsadók által elfogadott, a nevelőszülői hálózatban folyó nevelés célját, alapelveit, módszereit tartalmazó szakmai program.
+(2)[^208] A nevelőszülői hálózat nevelési alapdokumentuma a nevelőszülők és nevelőszülői tanácsadók által elfogadott, a 4/A. § szerinti szakmai program.
 
-[^202]: A 94. § (1) bekezdésének második mondatát a 46/2003. (VIII. 8.) ESZCSM rendelet 55. §-a iktatta be.
+[^207]: A 94. § (1) bekezdésének második mondatát a 46/2003. (VIII. 8.) ESZCSM rendelet 55. §-a iktatta be.
+[^208]: A 94. § (2) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 6. § b) pontja szerint módosított szöveg.

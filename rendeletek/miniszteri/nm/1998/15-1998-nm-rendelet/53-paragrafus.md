@@ -1,4 +1,4 @@
-53. § (1)[^146] A szolgáltatást nyújtó az átmeneti gondozás megkezdésekor – ha az előre láthatólag egy hónapnál hosszabb időtartamú lesz – a gyermekjóléti szolgáltatást végző családgondozó bevonásával, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve három héten belül elkészíti a gyermekre vonatkozó egyéni gondozási-nevelési tervet. A terv célja a gyermek gondozásával, nevelésével, családjába történő visszajuttatásával kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás kidolgozása.
+53. § (1)[^150] A szolgáltatást nyújtó az átmeneti gondozás megkezdésekor – ha az előre láthatólag egy hónapnál hosszabb időtartamú lesz – a gyermekjóléti szolgáltatást végző családgondozó bevonásával, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve három héten belül elkészíti a gyermekre vonatkozó egyéni gondozási-nevelési tervet. A terv célja a gyermek gondozásával, nevelésével, családjába történő visszajuttatásával kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás kidolgozása.
 
 (2) A terv elkészítésekor figyelemmel kell lenni
 
@@ -12,10 +12,10 @@ d) a gyermekkel és szülőjével (törvényes képviselőjével) folytatott sze
 
 e) egyéb, a gyermek nevelése, gondozása szempontjából jelentős körülményre.
 
-(3)[^147] Az egyéni gondozási-nevelési terv kidolgozásába be kell vonni a terv megvalósításában részt vevő szakembereket, valamint lehetőség szerint a gyermek szülőjét (törvényes képviselőjét).
+(3)[^151] Az egyéni gondozási-nevelési terv kidolgozásába be kell vonni a terv megvalósításában részt vevő szakembereket, valamint lehetőség szerint a gyermek szülőjét (törvényes képviselőjét).
 
-(4)[^148] Az átmeneti gondozást nyújtónak az egyéni gondozási-nevelési terv alapján ellátandó feladataira a 84. § (1) bekezdésének a) és e) pontjai értelemszerűen irányadóak.
+(4)[^152] Az átmeneti gondozást nyújtónak az egyéni gondozási-nevelési terv alapján ellátandó feladataira a 84. § (1) bekezdésének a) és e) pontjai értelemszerűen irányadóak.
 
-[^146]: Az 53. § (1) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^147]: Az 53. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (2) bekezdésével megállapított szöveg.
-[^148]: Az 53. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^150]: Az 53. § (1) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^151]: Az 53. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^152]: Az 53. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 38. § (2) bekezdésével megállapított szöveg.

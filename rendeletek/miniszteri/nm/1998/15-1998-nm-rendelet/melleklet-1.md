@@ -1,4 +1,4 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^349]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^358]
 
 ## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
@@ -126,4 +126,4 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^349]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^358]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.

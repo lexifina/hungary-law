@@ -1,8 +1,8 @@
 ## Országos Gyermekvédelmi Szakértői Bizottság
 
-129/A. §[^278] (1) Az Országos Gyermekvédelmi Szakértői Bizottság (a továbbiakban: országos bizottság) feladata
+129/A. §[^286] (1) Az Országos Gyermekvédelmi Szakértői Bizottság (a továbbiakban: országos bizottság) feladata
 
-a)[^279] szakvéleményt készíteni a nevelésbevételi eljárás, illetve a gondozási hely megváltoztatására irányuló eljárás során, ha a gyermek gondozási helyeként a megyei, fővárosi gyermekvédelmi szakértői bizottság (a továbbiakban: megyei bizottság), illetve a gondozási hely megváltoztatását javasoló szerv vagy személy a gyermek gondozási helyeként a Minisztérium gyermekotthonát javasolja,
+a)[^287] szakvéleményt készíteni a nevelésbevételi eljárás, illetve a gondozási hely megváltoztatására irányuló eljárás során, ha a gyermek gondozási helyeként a megyei, fővárosi gyermekvédelmi szakértői bizottság (a továbbiakban: megyei bizottság), illetve a gondozási hely megváltoztatását javasoló szerv vagy személy a gyermek gondozási helyeként a Minisztérium gyermekotthonát javasolja,
 
 b) felülvizsgálni a megyei bizottságnak a gyermek gondozási helyének meghatározása tárgyában született szakvéleményét, ha azt az érdemi határozat elleni fellebbezési eljárásban kérték,
 
@@ -30,5 +30,5 @@ c) pszichoaktív szerek használata
 
 (8) Az országos bizottság minden év január 31-éig beszámolót készít a miniszter számára az előző évben végzett munkájáról.
 
-[^278]: A 129/A. §-t és alcímét a 46/2003. (VIII. 8.) ESZCSM rendelet 77. §-a iktatta be.
-[^279]: A 129/A. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § i) pontja szerint módosított szöveg.
+[^286]: A 129/A. §-t és alcímét a 46/2003. (VIII. 8.) ESZCSM rendelet 77. §-a iktatta be.
+[^287]: A 129/A. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § i) pontja szerint módosított szöveg.
