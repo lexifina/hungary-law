@@ -1,10 +1,6 @@
 ## Támogatási kérelem benyújtása
 
-7. § (1)[^2] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül
-
-a) 2009. évben október 1. és november 20. között,
-
-b) 2010-től a rendelkezésre álló forrás kimerüléséig minden év október 1. és október 31. között lehet benyújtani.
+7. § (1)[^2] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül a 2011. évben október 1. és november 30. között, ezt követően a rendelkezésre álló forrás kimerüléséig minden év október 1. és október 31. között lehet benyújtani.
 
 (2) A támogatási kérelem az alábbi adatokat tartalmazza:
 
@@ -28,7 +24,7 @@ c) támogatás igényléséhez szükséges nyilatkozatok.
 
 (9)[^6] A támogatási kérelem benyújtására nyitva álló időszak lejárta után a (2) bekezdes b) pontja szerinti adatok vonatkozásában hiánypótlásra nincs lehetőség.
 
-[^2]: A 7. § (1) bekezdése a 139/2009. (X. 22.) FVM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: A 7. § (1) bekezdése a 98/2011. (X. 28.) VM rendelet 10. §-ával megállapított szöveg.
 [^3]: A 7. § új (6) bekezdését a 139/2009. (X. 22.) FVM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(8) bekezdés számozását (7)–(9) bekezdésre változtatva.
 [^4]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 139/2009. (X. 22.) FVM rendelet 15. § (2) bekezdése.
 [^5]: A 7. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 139/2009. (X. 22.) FVM rendelet 15. § (2) bekezdése.
