@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-135-20-
 | 2010-08-31 | 2008-135-20-82.14 | 13/2010. (VIII. 30.) VM rendelet |
 | 2011-04-30 | 2008-135-20-82.15 | 35/2011. (IV. 29.) VM rendelet |
 | 2011-07-01 | 2008-135-20-82.16 | 57/2011. (VI. 20.) VM rendelet |
+| 2011-10-29 | 2008-135-20-82.17 | 35/2011. (IV. 29.) VM rendelet |

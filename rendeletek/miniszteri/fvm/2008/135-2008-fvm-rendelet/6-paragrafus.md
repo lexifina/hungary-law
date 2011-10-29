@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^39] A támogatási kérelmet postai úton 2011-ben november 1. és november 30. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
+6. § (1)[^39] A támogatási kérelmet postai úton 2012-ben február 1. és február 28. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
 
 (2)[^40] A támogatási kérelemnek a következőket kell tartalmaznia:
 
@@ -52,7 +52,7 @@ k) az 1998/2006/EK hatálya alá tartozó szervezetek esetében, az ügyfél ál
 
 (7)[^44] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (6) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^39]: A 6. § (1) bekezdése a 35/2011. (IV. 29.) VM rendelet 1. §-ával megállapított szöveg.
+[^39]: A 6. § (1) bekezdése a 35/2011. (IV. 29.) VM rendelet 1. §-ával megállapított, a 98/2011. (X. 28.) VM rendelet 12. §-a szerint módosított szöveg.
 [^40]: A 6. § (2) bekezdése a 161/2009. (XI. 19.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^41]: A 6. § (3) bekezdését a 161/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
 [^42]: A 6. § (4) bekezdés f) pontját a 161/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
