@@ -48,7 +48,7 @@
 
 ## Az ápolások után a csemeték legfeljebb 20%-ának vezérhajtását takarhatja levágott gyomnövényzet, illetve a csemeték legfeljebb 5%-ának vezérhajtását takarhatják kúszónövények.
 
-4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^10]
+4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^11]
 
 Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
@@ -94,4 +94,4 @@ E-30%: Az adott támogatási egységre jutó adott évi támogatási összeget 3
 
 E-Kizár: Az adott támogatási egység támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni.
 
-[^10]: A 4. melléklet a 19/2010. (IX. 30.) VM rendelet 6. §-ával megállapított szöveg.
+[^11]: A 4. melléklet a 19/2010. (IX. 30.) VM rendelet 6. §-ával megállapított szöveg.
