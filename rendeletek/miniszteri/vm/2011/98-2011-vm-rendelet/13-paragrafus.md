@@ -1,1 +1,0 @@
-## 12. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet 6. § (1) bekezdésében a „2011-ben november 1. és november 30. között” szövegrész helyébe a „2012-ben február 1. és február 28. között” szöveg lép.
