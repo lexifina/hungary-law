@@ -1,3 +1,0 @@
-## „(5) A módszertani intézmény, valamint az Intézet a módszertani feladatok ellátásába, egyes új módszerek modellkísérletének elvégzésébe állandó vagy eseti jelleggel más szolgáltatót is bevonhat. Az állandó jellegű munkakapcsolathoz a módszertani intézmény fenntartójának hozzájárulása szükséges.
-
-## (6) A módszertani intézmény éves munkatervet, valamint módszertani feladatai ellátásáról szakmai beszámolót készít, melyet minden év február 15-éig megküld a fenntartónak, a Minisztériumnak, az Intézetnek és a megyei gyámhivatalnak. Az Intézet éves munkatervet, valamint módszertani feladatainak ellátásáról szakmai beszámolót készít, melyet minden év február 15-éig megküld a Minisztériumnak.”
