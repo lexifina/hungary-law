@@ -12,14 +12,16 @@
 
 | 00021 | „C” Minősítés nélküli | 1,2 |
 
-| 00017 | Központi idegrendszeri sérültek és tartós légzésbénultak rehabilitációs ellátása | 3,8 |
+| 00017 | Súlyos központi idegrendszeri sérültek (súlyos agysérültek, gerincvelősérültek), politraumatizáltak, égésbetegek, szeptikus sebészeti betegek rehabilitációs ellátása | 3,8 |
 
 | 00022 | Pályázati úton befogadott hospice ellátás | 1,7 |
+
+| 00023 | Kómás és gerincvelősérült betegek korai kiemelt rehabilitációs ellátása | 6,6 |
 
 ## * A nappali kórházi ellátás esetében a fekvőbeteg-ellátást nyújtó háttérosztály minősítése szerinti szakmai szorzó alkalmazható.
 
 ## ** A 37. § (4) bekezdésében foglalt rendelkezés szerinti minősítés.
 
-8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^441]
+8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^443]
 
-[^441]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
+[^443]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.

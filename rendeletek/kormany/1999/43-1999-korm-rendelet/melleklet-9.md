@@ -72,6 +72,6 @@
 
 ## A halálozás és az átlagos ápolási idő tekintetében az október 1. és szeptember 30. közötti időszak tekintendő a finanszírozási év adatának.
 
-9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^442]
+9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^444]
 
-[^442]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^444]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.

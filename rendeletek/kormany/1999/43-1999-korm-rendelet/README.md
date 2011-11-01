@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2011-07-01 | 1999-43-20-22.90 | 318/2006. (XII. 23.) Korm. rendelet |
 | 2011-08-01 | 1999-43-20-22.91 | 139/2011. (VII. 21.) Korm. rendelet |
 | 2011-09-10 | 1999-43-20-22.92 | 139/2011. (VII. 21.) Korm. rendelet |
+| 2011-11-01 | 1999-43-20-22.93 | 139/2011. (VII. 21.) Korm. rendelet |

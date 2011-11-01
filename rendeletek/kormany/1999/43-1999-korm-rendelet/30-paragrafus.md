@@ -12,7 +12,7 @@ a)[^276] a fekvőbetegosztályon kezelés alatt álló, valamint a fekvőbeteg-g
 
 b) az olyan személy részére nyújtott ellátás, akit az ellátás napján – a rendelő beutalása alapján – a rendelőt működtető egészségügyi intézmény valamely fekvőbetegosztályára felvettek;
 
-c)[^277] a 29. § e) pontja szerinti gondozó szűrővizsgálatai, valamint az általa gondozottak részére nyújtott szakellátás;
+c)[^277]
 
 d) az olyan személy részére nyújtott ellátás, amelynek költségeit az egészségügyi szolgáltató a beutaló (vizsgálatot kérő) szolgáltatóval közvetlenül elszámolja, vagy amely máshonnan megtérítésre kerül.
 
@@ -40,7 +40,7 @@ d) az olyan személy részére nyújtott ellátás, amelynek költségeit az eg�
 [^274]: A 30. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 10. §-a iktatta a szövegbe, egyidejűleg az eredeti (3)–(11) bekezdés számozását (4)–(12) bekezdésre változtatta. A (3) bekezdés a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg; ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
 [^275]: A 30. § eredeti (3) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (4) bekezdésre változtatta.
 [^276]: A 30. § (4) bekezdésének a) pontja a 41/2007. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^277]: A 30. § (4) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte. [E módosító rendelet – 185/2011. (IX. 9.) Korm. rendelet 12. §-a szerint módosított – 26. § (2) bekezdése alapján 2011. november 1-jén lép hatályba.]
+[^277]: A 30. § (4) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
 [^278]: A 30. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (5) bekezdésre változtatta.
 [^279]: A 30. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (6) bekezdésre változtatta, szövege a 257/2001. (XII. 19.) Korm. rendelet 24. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
 [^280]: A 30. § (6) bekezdése a 21/2000. (III. 3.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg. Az eredeti (6) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (7) bekezdésre változtatta.
