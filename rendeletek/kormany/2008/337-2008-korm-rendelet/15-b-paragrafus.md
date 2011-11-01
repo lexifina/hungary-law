@@ -1,6 +1,6 @@
-## Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása[^131]
+## Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása[^132]
 
-15/B. §[^132] (1) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4), (4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8) és (10)–(12) bekezdését.
+15/B. §[^133] (1) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4), (4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8) és (10)–(12) bekezdését.
 
 (2) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására vonatkozó pályázatot az egészségügyért felelős miniszter kezdeményezésére és jóváhagyása mellett az OEP a kezdeményezéstől számított 25 napon belül a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétett pályázati felhívással írja ki. A pályázati felhívásra pályázatot az integrációban érintett egészségügyi szolgáltatók fenntartói a 14. § (1) bekezdésében foglaltaknak megfelelően nyújthatnak be, azzal, hogy a különböző fenntartókhoz tartozó – ugyanazon integrációban érintett – egészségügyi szolgáltatók fenntartói csak közösen pályázhatnak.
 
@@ -38,5 +38,5 @@ d) a finanszírozás javasolt kezdési időpontját.
 
 (9) Az (1)–(8) bekezdés alapján befogadott többletkapacitás finanszírozása egy alkalommal egy összegben történik.
 
-[^131]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
-[^132]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
+[^132]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
+[^133]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.

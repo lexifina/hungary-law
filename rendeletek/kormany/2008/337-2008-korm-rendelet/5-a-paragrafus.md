@@ -1,6 +1,6 @@
-## Az ellátási terület megállapítása[^34]
+## Az ellátási terület megállapítása[^35]
 
-5/A. §[^35] (1) A Tv. 5/A. § (7) bekezdése szerinti feladatokat az OTH látja el.
+5/A. §[^36] (1) A Tv. 5/A. § (7) bekezdése szerinti feladatokat az OTH látja el.
 
 (2) A Tv. 5/A. § (9) bekezdése alkalmazásában speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatónak minősül
 
@@ -22,5 +22,5 @@ g) azon egészségügyi szolgáltató, amely egy vagy több finanszírozott szak
 
 (4) A (2) bekezdés f) és g) pontja szerinti egészségügyi szolgáltatók körét – a működési engedély és a finanszírozási szerződés alapján – az OTH az OEP bevonásával évente felülvizsgálja, és az egészségügyi szolgáltatók listáját a honlapján közzéteszi.
 
-[^34]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^35]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^35]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^36]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.

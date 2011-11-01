@@ -4,7 +4,7 @@ a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi 
 
 b)[^2] a Tv. alapján 2010. december 31-én lekötött, valamint szüneteltetett járóbeteg-szakellátási kapacitáson felüli járóbeteg-szakellátási kapacitás,
 
-c)[^3]
+c)[^3] a finanszírozási rendszerbe már befogadott, de az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által el nem számolható krónikus súlyozási szorzóval finanszírozott ellátás végzése, valamint az a finanszírozási rendszerbe már befogadott és az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által elszámolható krónikus súlyozási szorzónál magasabb szorzóval finanszírozott ellátás végzése,
 
 d)[^4] a finanszírozási rendszerbe már befogadott, de adott egészségügyi szolgáltatónál az érvényes finanszírozási szerződése alapján nem finanszírozott speciális, magasabb felkészültséget igénylő ellátás végzése (ideértve *HBCS és indexált OENO),
 
@@ -30,9 +30,11 @@ j) a finanszírozási szerződés szerinti sürgősségi ellátási formához k�
 
 (3)[^12] A szakmai minimumfeltételek teljesítéséhez szükséges eszközök beszerzése, cseréje nem minősül az (1) bekezdésben foglaltak szerinti többletkapacitásnak.
 
-(4)[^13] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
+(3a)[^13] Az (1) bekezdés c) pontjában foglaltaktól eltérően nem minősül többletkapacitásnak az egészségügyi szolgáltató érvényes finanszírozási szerződése szerinti krónikus súlyozási szorzónál magasabb szorzóval finanszírozott krónikus rehabilitációs ellátás végzése, amennyiben a magasabb szorzóval finanszírozott ellátás végzésének engedélyezésére a külön jogszabály szerinti minősítési eljárásban, vagy a Tv. szerinti átcsoportosítási eljárásban sor kerülhet.
 
-(5)[^14] Nem szakorvosi óraszám kapacitással
+(4)[^14] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
+
+(5)[^15] Nem szakorvosi óraszám kapacitással
 
 a) felsőfokú (nem orvos) végzettségű személy által irányított járóbeteg-szakellátás,
 
@@ -40,11 +42,11 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 
 ## nyújtható.
 
-(6)[^15] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
+(6)[^16] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés c) pontját a 291/2009. (XII. 18.) Korm. rendelet 16. § (8) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés c) pontját a 291/2009. (XII. 18.) Korm. rendelet 16. § (8) bekezdése hatályon kívül helyezte, újonnan a 227/2011. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés d) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés e) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
 [^6]: Az 1. § (1) bekezdés f) pontja a 360/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapítot, a 363/2010. (XII. 30.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
@@ -54,6 +56,7 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 [^10]: Az 1. § (1b) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 1. §-a iktatta be.
 [^11]: Az 1. § (2) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^12]: Az 1. § (3) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
-[^13]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
-[^14]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
-[^15]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^13]: Az 1. § (3a) bekezdését a 227/2011. (X. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^14]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^15]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
+[^16]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

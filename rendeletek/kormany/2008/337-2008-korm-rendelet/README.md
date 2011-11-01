@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2011-07-01 | 2008-337-20-22.12 | 363/2010. (XII. 30.) Korm. rendelet |
 | 2011-08-01 | 2008-337-20-22.13 | 363/2010. (XII. 30.) Korm. rendelet |
 | 2011-09-10 | 2008-337-20-22.14 | 185/2011. (IX. 9.) Korm. rendelet |
+| 2011-11-01 | 2008-337-20-22.15 | 227/2011. (X. 28.) Korm. rendelet |

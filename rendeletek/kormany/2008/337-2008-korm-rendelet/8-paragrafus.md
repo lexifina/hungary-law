@@ -1,8 +1,8 @@
-## 7. §[^45]
+## 7. §[^46]
 
 ## Az átcsoportosításra vonatkozó szabályok
 
-8. §[^46] (1) A Tv. 7. §-a alapján kezdeményezett átcsoportosítási kérelemhez csatolni kell:
+8. §[^47] (1) A Tv. 7. §-a alapján kezdeményezett átcsoportosítási kérelemhez csatolni kell:
 
 a) a Tv. 7. § (4) bekezdése szerinti esetet kivéve az egészségügyi szolgáltató fenntartójának, valamint az egészségügyi ellátási kötelezettség körében kötött megállapodás vagy egészségügyi ellátási szerződés esetén a feladatot átadó helyi önkormányzatnak az egyetértését igazoló dokumentumot,
 
@@ -14,23 +14,23 @@ d) az egészségügyi szolgáltató nyilatkozatát arról, hogy biztosítani tud
 
 e) az egészségügyi szolgáltató nyilatkozatát arról, hogy az átcsoportosítással létrejövő állapot nem ütközik az egészségügyi szolgáltató pályázatban vállalt kötelezettségeibe, és megfelel a Tv. 4/A. § (3)–(6) bekezdésében meghatározott feltételeknek.
 
-(2)[^47] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív fekvőbeteg-szakellátási kapacitás krónikus fekvőbeteg-szakellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. § és a 2. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó kapacitással nyújtható szolgáltatások szakma szerinti besorolását.
+(2)[^48] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív fekvőbeteg-szakellátási kapacitás krónikus fekvőbeteg-szakellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. § és a 2. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó kapacitással nyújtható szolgáltatások szakma szerinti besorolását.
 
-(3)[^48] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív fekvőbeteg-szakellátási kapacitás vagy járóbeteg-szakellátási kapacitás járóbeteg-szakellátás keretében végezhető egynapos ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek tartalmaznia kell, hogy mely, a külön jogszabály szerinti egynapos beavatkozások elvégzésére fordítják az átcsoportosított kapacitást, továbbá a kérelmezőnek nyilatkoznia kell arról, hogy vállalja az egynapos ellátás végzésére irányadó külön jogszabály szerinti feltételek teljesítését. Az átcsoportosítás engedélyezése során az OTH helyszíni szemlét tart.
+(3)[^49] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív fekvőbeteg-szakellátási kapacitás vagy járóbeteg-szakellátási kapacitás járóbeteg-szakellátás keretében végezhető egynapos ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek tartalmaznia kell, hogy mely, a külön jogszabály szerinti egynapos beavatkozások elvégzésére fordítják az átcsoportosított kapacitást, továbbá a kérelmezőnek nyilatkoznia kell arról, hogy vállalja az egynapos ellátás végzésére irányadó külön jogszabály szerinti feltételek teljesítését. Az átcsoportosítás engedélyezése során az OTH helyszíni szemlét tart.
 
-(4)[^49] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív, illetve rehabilitációs fekvőbeteg-szakellátási kapacitás járóbeteg-szakellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. §, a 2. és a 3. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó szakmákat, valamint a végezni kívánt szakmai programot.
+(4)[^50] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés aktív, illetve rehabilitációs fekvőbeteg-szakellátási kapacitás járóbeteg-szakellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. §, a 2. és a 3. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó szakmákat, valamint a végezni kívánt szakmai programot.
 
-(5)[^50] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés krónikus fekvőbeteg-szakellátási kapacitás rehabilitációs nappali kórházi vagy nappali ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek tartalmaznia kell, hogy mely rehabilitációs szakma, illetve rehabilitációs szakmai program keretében kívánják működtetni a nappali kórházi ellátást vagy nappali ellátást.
+(5)[^51] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés krónikus fekvőbeteg-szakellátási kapacitás rehabilitációs nappali kórházi vagy nappali ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek tartalmaznia kell, hogy mely rehabilitációs szakma, illetve rehabilitációs szakmai program keretében kívánják működtetni a nappali kórházi ellátást vagy nappali ellátást.
 
-(6)[^51] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés krónikus fekvőbeteg-szakellátási kapacitás intézeti hospice ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. § és a 2. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó kapacitás szakma szerinti besorolását.
+(6)[^52] Amennyiben a Tv. 7. § (1) bekezdése szerinti kezdeményezés krónikus fekvőbeteg-szakellátási kapacitás intézeti hospice ellátási kapacitássá történő átcsoportosítására irányul, a kérelemnek a 10. § és a 2. számú melléklet figyelembevételével tartalmaznia kell az átcsoportosítandó kapacitás szakma szerinti besorolását.
 
-(7)[^52] Amennyiben a Tv. 7. § (3) bekezdése szerinti átcsoportosítással új szakma kerül kialakításra, az új szakmára meghatározott ellátási terület figyelembevételével a 10 ezer főre jutó kapacitás nem haladhatja meg az adott szakmára vonatkozó országos átlagot.
+(7)[^53] Amennyiben a Tv. 7. § (3) bekezdése szerinti átcsoportosítással új szakma kerül kialakításra, az új szakmára meghatározott ellátási terület figyelembevételével a 10 ezer főre jutó kapacitás nem haladhatja meg az adott szakmára vonatkozó országos átlagot.
 
-(8)[^53] A Tv. 7. § (3) bekezdése szerinti átcsoportosítás az egészségügyi szolgáltatóra irányadó, külön jogszabály szerinti teljesítményvolumen változása nélkül kezdeményezhető. Ugyanazon szakmára vonatkozóan az egészségügyi szolgáltató újabb átcsoportosítást az előző átcsoportosítástól számított egy éven belül nem kezdeményezhet.
+(8)[^54] A Tv. 7. § (3) bekezdése szerinti átcsoportosítás az egészségügyi szolgáltatóra irányadó, külön jogszabály szerinti teljesítményvolumen változása nélkül kezdeményezhető. Ugyanazon szakmára vonatkozóan az egészségügyi szolgáltató újabb átcsoportosítást az előző átcsoportosítástól számított egy éven belül nem kezdeményezhet.
 
-(9)[^54] A Tv. 7. § (7) bekezdése szerinti eljárás során az OEP a megkereséstől számított harminc napon belül küldi meg a 8/A. § szerint megállapítható kapacitásmennyiséget is tartalmazó véleményét az OTH részére.
+(9)[^55] A Tv. 7. § (7) bekezdése szerinti eljárás során az OEP a megkereséstől számított harminc napon belül küldi meg a 8/A. § szerint megállapítható kapacitásmennyiséget is tartalmazó véleményét az OTH részére.
 
-(9a)[^55] Az OTH nem engedélyezheti a kérelemben foglalt átcsoportosítást, ha
+(9a)[^56] Az OTH nem engedélyezheti a kérelemben foglalt átcsoportosítást, ha
 
 a) az annak következtében létrejövő állapot nem felelne meg a Tv. 4/A. §-ában foglaltaknak,
 
@@ -50,28 +50,28 @@ h) az átcsoportosítás veszélyeztetné az ellátási kötelezettség teljesí
 
 i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 
-(10)[^56] Az OTH az átcsoportosítás tárgyában hozott döntéséhez véleményt kér a szakmai kollégiumtól, amennyiben az átcsoportosítással új szakma jönne létre.
+(10)[^57] Az OTH az átcsoportosítás tárgyában hozott döntéséhez véleményt kér a szakmai kollégiumtól, amennyiben az átcsoportosítással új szakma jönne létre.
 
-(11)[^57] Ha a Tv. 7. § (1)–(4) bekezdése szerinti átcsoportosítás a 12. § (1) bekezdése szerinti fejlesztés megvalósításához kapcsolódik, az OTH – az átcsoportosítás feltételeinek fennállása esetén – az átcsoportosításhoz előzetesen hozzájárul. Az előzetes hozzájárulásban – a kérelem alapján – meg kell határozni az átcsoportosítás végrehajtásának időpontját, valamint – ha szükséges – az egészségügyi szolgáltató módosítandó ellátási területét. Ebben az esetben a Tv. 7. § (7) bekezdésében foglaltakat azzal kell alkalmazni, hogy az OTH az előzetes hozzájárulásában foglaltakat is figyelembe véve dönt az átcsoportosítás engedélyezéséről.
+(11)[^58] Ha a Tv. 7. § (1)–(4) bekezdése szerinti átcsoportosítás a 12. § (1) bekezdése szerinti fejlesztés megvalósításához kapcsolódik, az OTH – az átcsoportosítás feltételeinek fennállása esetén – az átcsoportosításhoz előzetesen hozzájárul. Az előzetes hozzájárulásban – a kérelem alapján – meg kell határozni az átcsoportosítás végrehajtásának időpontját, valamint – ha szükséges – az egészségügyi szolgáltató módosítandó ellátási területét. Ebben az esetben a Tv. 7. § (7) bekezdésében foglaltakat azzal kell alkalmazni, hogy az OTH az előzetes hozzájárulásában foglaltakat is figyelembe véve dönt az átcsoportosítás engedélyezéséről.
 
 (12) Nem minősül a Tv. 7. §-a szerinti átcsoportosításnak, ha a 12–13. § szerinti, kapacitáscsökkentést is tartalmazó döntés egyébként átcsoportosítással jár.
 
-(13)[^58] A Tv. 7. § (4) bekezdésében foglaltakat az egészségügyi szolgáltató telephelyei közötti, a Tv. 7. § (1)–(3) bekezdése szerinti kapacitásátcsoportosítás esetén is alkalmazni kell.
+(13)[^59] A Tv. 7. § (4) bekezdésében foglaltakat az egészségügyi szolgáltató telephelyei közötti, a Tv. 7. § (1)–(3) bekezdése szerinti kapacitásátcsoportosítás esetén is alkalmazni kell.
 
-(14)[^59] Nem minősül az Egészségbiztosítási Alap vonatkozásában többletforrás igénynek a Tv. 7. § (3) bekezdése szerinti, rehabilitációs szakmák közötti kapacitás-átcsoportosítás.
+(14)[^60] Nem minősül az Egészségbiztosítási Alap vonatkozásában többletforrás igénynek a Tv. 7. § (3) bekezdése szerinti, rehabilitációs szakmák közötti kapacitás-átcsoportosítás.
 
-[^45]: A 7. §-t és az azt megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 16. § 5. pontja hatályon kívül helyezte.
-[^46]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^47]: A 8. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
-[^48]: A 8. § (3) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
-[^49]: A 8. § (4) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^50]: A 8. § (5) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^51]: A 8. § (6) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
-[^52]: A 8. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^53]: A 8. § (8) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
-[^54]: A 8. § (9) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^55]: A 8. § (9a) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
-[^56]: A 8. § (10) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 9. pontja, a 73/2011. (IV. 29.) Korm. rendelet 7. § (5) bekezdése a) pontja szerint módosított szöveg.
-[^57]: A 8. § (11) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (6) bekezdésével megállapított, a 139/2011. (VII. 21.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^58]: A 8. § (13) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (7) bekezdésével megállapított szöveg.
-[^59]: A 8. § (14) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 3. §-a iktatta be.
+[^46]: A 7. §-t és az azt megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 16. § 5. pontja hatályon kívül helyezte.
+[^47]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 8. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
+[^49]: A 8. § (3) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
+[^50]: A 8. § (4) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^51]: A 8. § (5) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^52]: A 8. § (6) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
+[^53]: A 8. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^54]: A 8. § (8) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
+[^55]: A 8. § (9) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^56]: A 8. § (9a) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
+[^57]: A 8. § (10) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 9. pontja, a 73/2011. (IV. 29.) Korm. rendelet 7. § (5) bekezdése a) pontja szerint módosított szöveg.
+[^58]: A 8. § (11) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (6) bekezdésével megállapított, a 139/2011. (VII. 21.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^59]: A 8. § (13) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (7) bekezdésével megállapított szöveg.
+[^60]: A 8. § (14) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 3. §-a iktatta be.

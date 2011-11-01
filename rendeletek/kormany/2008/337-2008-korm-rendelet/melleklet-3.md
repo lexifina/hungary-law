@@ -62,6 +62,8 @@
 
 ## PIC – *sze*
 
+## csecsemő- és gyermekgyógyászati intenzívterápia
+
 ## csecsemő- és gyermekkardiológia
 
 ## gyermek-tüdőgyógyászat
@@ -79,6 +81,8 @@
 ## gyermekneurológia
 
 ## gyermek- és ifjúságpszichiátria
+
+## gyermek- és ifjúsági addiktológia
 
 ## fejlődésneurológia
 
@@ -150,13 +154,23 @@
 
 ## gasztroenterológiai rehabilitáció
 
-## gyermekgyógyászati rehabilitáció
+## gyermek rehabilitáció
 
 ## gyermek- és ifjúságpszichiátriai rehabilitáció
+
+## gyermek- és ifjúsági addiktológiai rehabilitáció
 
 ## kardiológiai rehabilitáció
 
 ## mozgásszervi rehabilitáció
+
+## súlyos agysérültek rehabilitációja
+
+## gerincvelősérültek rehabilitációja
+
+## politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja
+
+## súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja gyermekkorban
 
 ## nőgyógyászati rehabilitáció
 
@@ -174,7 +188,7 @@
 
 ## *sze*: külön jogszabály szerinti szakosodott egység.
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^145]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^146]
 
 Finanszírozási szerződéssel leköthető járóbeteg-szakellátási kapacitások
 
@@ -265,6 +279,8 @@ gyermekradiológia
 gyermekneurológia
 
 gyermek- és ifjúságpszichiátria
+
+gyermek- és ifjúsági addiktológia
 
 fejlődésneurológia
 
@@ -376,6 +392,8 @@ egyéb szenvedélybetegségek ellátása (például játékszenvedély)
 
 pszichiátriai rehabilitáció
 
+addiktológiai rehabilitáció
+
 pszichoterápia (szakorvosi képesítéssel)
 
 pszichiátriai gondozás
@@ -403,6 +421,8 @@ belgyógyászati rehabilitáció
 gasztroenterológiai rehabilitáció
 
 nőgyógyászati rehabilitáció
+
+gyermek rehabilitáció
 
 Foglalkozás-orvostan
 
@@ -490,6 +510,8 @@ lézerdiagnosztika
 
 thermographia
 
+szén-dioxid gyógygázfürdő terápia
+
 Fizioterápia
 
 általános fizioterápia-gyógytorna
@@ -546,4 +568,4 @@ egészségbiztosítási orvosszakértés
 
 *sze*: külön jogszabály szerinti szakosodott egység
 
-[^145]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése szerint módosított szöveg.
+[^146]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
