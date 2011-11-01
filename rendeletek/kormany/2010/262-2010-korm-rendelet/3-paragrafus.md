@@ -1,3 +1,5 @@
+## 2. §[^5]
+
 3. § (1)[^6] A természetvédelemért felelős miniszter egyetértése szükséges védett természeti területnek és Natura 2000 területnek minősülő földrészlet (a továbbiakban együtt: védett terület) bármely jogcímen történő átruházására vagy vagyonkezelésbe adására irányuló pályázati felhívás közzétételéhez.
 
 (2) A vízgazdálkodásért felelős miniszter egyetértése szükséges a vízvédelmi terület cseréjéhez, valamint eladására, vagy vagyonkezelésbe adására irányuló pályázati felhívás közzétételéhez.
@@ -6,4 +8,5 @@
 
 (4) A kulturális örökség védelméért felelős miniszter egyetértése szükséges a védetté nyilvánított régészeti lelőhelyre és a régészeti védőövezetre kiterjedő földrészlet cseréjéhez, valamint az eladására vagy vagyonkezelésbe adására irányuló pályázati felhívás közzétételéhez.
 
+[^5]: A 2. §-t a 220/2011. (X. 20.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 13. § (2) bekezdése alapján az ingatlanokat érintő, folyamatban lévő vagy megismételt közigazgatási, bírósági ügyekben is alkalmazni kell.
 [^6]: A 3. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
