@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-40-20-0
 | 2011-03-01 | 2001-40-20-0B.36 | 5/2004. (II. 10.) ESZCSM rendelet |
 | 2011-03-31 | 2001-40-20-0B.37 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2011-06-29 | 2001-40-20-0B.38 | 5/2004. (II. 10.) ESZCSM rendelet |
+| 2011-11-01 | 2001-40-20-0B.39 | 33/2011. (VI. 21.) NEFMI rendelet |

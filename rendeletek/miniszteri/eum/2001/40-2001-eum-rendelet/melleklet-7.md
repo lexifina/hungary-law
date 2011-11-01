@@ -148,6 +148,6 @@
 
 ## 1 Kizárólag a 3 év alatti gyermekek részére készülő, a bőrrel tartósan érintkező terméknél.
 
-7. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^96]
+7. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^98]
 
-[^96]: A 7. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (7) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 3. §-ának (3) bekezdése, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés c)–d) pontja szerint módosított szöveg.
+[^98]: A 7. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (7) bekezdésével megállapított, valamint a 29/2005. (VIII. 2.) EüM rendelet 3. §-ának (3) bekezdése, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés c)–d) pontja szerint módosított szöveg.

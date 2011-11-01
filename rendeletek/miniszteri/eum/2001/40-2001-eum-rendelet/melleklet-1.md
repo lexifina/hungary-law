@@ -1,3 +1,3 @@
-1. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^89]
+1. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^91]
 
-[^89]: Az 1. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 1. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (1) bekezdésével megállapított szöveg.

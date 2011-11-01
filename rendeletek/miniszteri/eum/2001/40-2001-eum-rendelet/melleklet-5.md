@@ -338,6 +338,6 @@
 
 ## 1 A Magyar Élelmiszerkönyv kötelező előírásairól szóló 40/1995. (XI. 16.) FM rendelet.
 
-5. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^94]
+5. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^96]
 
-[^94]: Az 5. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (5) bekezdésével megállapított, valamint a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^96]: Az 5. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (5) bekezdésével megállapított, valamint a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése szerint módosított szöveg.

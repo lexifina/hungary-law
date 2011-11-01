@@ -68,6 +68,10 @@
 
 ## 1 Nem szükséges, ha a koncentráció 0,5% vagy kisebb és csak a kozmetikai termék védelmét szolgálja.
 
-8. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^97]
+8. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^99]
 
-[^97]: A 8. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdésével megállapított szöveg.
+Jelölések a kozmetikai termékeken
+
+Jelölések a kozmetikai termékeken
+
+[^99]: A 8. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (8) bekezdésével megállapított szöveg.
