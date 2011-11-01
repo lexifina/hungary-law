@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés e) pontjában, a 14. § tekintetében a 32. § (1) bekezdés b) pontjában kapott felhatalmazás alapján az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

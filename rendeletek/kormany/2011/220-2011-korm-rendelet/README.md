@@ -1,0 +1,9 @@
+# 220/2011. (X. 20.) Korm. rendelet
+
+a Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-220-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-11-01 | 2011-220-20-22.1 | 220/2011. (X. 20.) Korm. rendelet |

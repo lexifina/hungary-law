@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 3. § (3) bekezdésében meghatározott állami tulajdonban álló vagy állami tulajdonba kerülő ingatlanokra (a továbbiakban: ingatlan) terjed ki.

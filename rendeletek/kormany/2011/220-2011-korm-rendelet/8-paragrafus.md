@@ -1,0 +1,3 @@
+8. § (1) Az NFA és az MNV Zrt. eltérő tartalmú megállapodásának hiányában, a tulajdonosi közös joggyakorlás alá tartozó ingatlannal, valamint a tulajdonosi jogok közös gyakorlásával kapcsolatos – el nem különíthető – bevételek és ráfordítások elszámolása, a pénzügyi jellegű jogosultságok érvényesítése vagy kötelezettségek teljesítése a tulajdonosi közös joggyakorlás tárgyát képező ingatlan részeinek elszámoláskori értéke arányában, ha az érték objektív okokból nem határozható meg, terület-arányosan történik, a vonatkozó hasznosítási szerződés rendelkezéseinek figyelembevételével.
+
+(2) Az NFA és az MNV Zrt. az ingatlanokkal kapcsolatos költségvetési elszámolási- és vagyon-nyilvántartási kötelezettségeket a rájuk bízott vagyonra vonatkozó jogszabályok szerint teljesíti.
