@@ -1,0 +1,1 @@
+Az Országgyűlés fejet hajt Szigetvár lakóinak és védőinek az 1566-os támadás idején a város és hazánk hősies védelmében tanúsított bátor és önfeláldozó magatartása előtt, ezért az alábbi törvényt alkotja:
