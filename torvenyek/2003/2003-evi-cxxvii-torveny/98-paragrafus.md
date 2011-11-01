@@ -18,7 +18,15 @@ c) a bejegyzett kereskedő.
 
 (6) A fizetési kötelezettség halasztására jogosult az adóraktár engedélyese, a bejegyzett kereskedő és az importáló, amennyiben biztosítékot nyújt. A dohánygyártmány adóraktár engedélyese által a 100. § szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékaként figyelembe veendő azzal, hogy az adóraktárába betárolásra kerülő, más tagállamban gyártott dohánygyártmányra általa átvett adójegy utáni fizetési kötelezettségre külön jövedéki biztosítékot kell nyújtani a 24. § (7) bekezdése szerint meghatározott összegben, de figyelembe véve a 19. § (2) bekezdésének a dohánygyártmányokra vonatkozó rendelkezését is. A 24. § (1) bekezdés szerinti bejegyzett kereskedő által a 24. § (7) bekezdése szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékának minősül. Az importáló és az eseti bejegyzett kereskedő a fizetési kötelezettség halasztására abban az esetben jogosult, ha az átvett adójegy értékének megfelelő nagyságú biztosítékot nyújt.
 
-(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyekre a tárgyhónapot követő második hónap 25. napjáig kell teljesíteni.
+(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyek vonatkozásában
+
+a) havonta legfeljebb kétmilliárd forint összeghatárig a tárgyhónapot követő második hónap huszonötödik napjáig,
+
+b) az a) pontban írt összeghatárt meghaladó összegre a tárgyhónapot követő hónap tizenötödik napjáig
+
+kell teljesíteni.
+
+E bekezdés alkalmazása során az adóalany által a tárgyhóban különböző időpontokban átvett adójegyei után fizetendő adóösszeget együttesen kell figyelembe venni úgy, hogy ha az adóalany összesített halasztott fizetési kötelezettsége a tárgyhóban meghaladja a kétmilliárd forintot, akkor a kétmilliárd forintot meghaladó összegre az adóalany halasztott fizetési kötelezettsége már a b) pontban foglaltak szerint alakul.
 
 (8) Az adóraktár engedélyesének és a bejegyzett kereskedőnek havonta el kell számolnia – a külön jogszabály rendelkezései szerint – az átvett adójegy mennyiségével.
 

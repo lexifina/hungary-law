@@ -4,9 +4,9 @@ a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám ala
 
 b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra 124 200 Ft/ezer liter,
 
-c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 97 350 Ft/ ezer liter,
+c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 110 350 Ft/ezer liter,
 
-d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 97 350 Ft/ezer liter,
+d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,
 
 e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4425 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ ezer kg,
 

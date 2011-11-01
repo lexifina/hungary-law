@@ -2,7 +2,7 @@
 
 129. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 
-a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 80 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
+a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 82 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
 
 b)
 
@@ -39,3 +39,11 @@ m) az e törvény 7. § 9. pontja szerinti vámtarifaszámokat és a vámtarifas
 n) a bioetanol és a biodízel utáni adólevonási, adó-visszaigénylési jogosultság igazolásának, elszámolásának részletes szabályait;
 
 o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított eljárásban történő kiszabásának és beszedésének részletes szabályait;
+
+p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
+
+r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;
+
+s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképesítést, szakmai végzettséget és szakmai gyakorlatot;
+
+t) a bioüzemanyag kísérleti előállítást végző üzemben történő előállítása engedélyezésének feltételeit, valamint a bioüzemanyag-adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás részletes szabályait;

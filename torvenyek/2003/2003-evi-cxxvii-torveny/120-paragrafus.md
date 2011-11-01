@@ -1,5 +1,7 @@
 120. § (1) A lefoglalt termékeket, zárjegyet, továbbá a 119. § (2) bekezdésének e)–f) pontjában említett eszközt el kell kobozni, ha a jövedéki ügyben jogerősen jövedéki bírság kerül kiszabásra.
 
+(1a) A 98/A. § (1) vagy (2) bekezdésében foglalt előírások megsértésével szabadforgalomba bocsátott, importált, más tagállamból behozott, értékesített, birtokolt dohánygyártmányt el kell kobozni, ha a kötelezettség megsértése miatt mulasztási bírság kerül kiszabásra.
+
 (2) A felhasználásra, tárolásra és szállításra használt eszközt a (3) bekezdésben foglaltakra tekintet nélkül el kell kobozni, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek.
 
 (3) A felhasználásra, tárolásra és szállításra használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, jövedéki bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – nem engedélyeztek.

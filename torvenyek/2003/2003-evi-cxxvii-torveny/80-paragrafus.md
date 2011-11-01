@@ -2,7 +2,7 @@
 
 80. § (1) Az adó alapja a bor mennyisége, hektoliterben mérve.
 
-(2) Az adó mértéke hektoliterenként a szőlőborra 0 forint, az egyéb borra 9400 forint.
+(2) Az adó mértéke hektoliterenként a szőlőborra 0 forint, az egyéb borra 9870 forint.
 
 (3) Adómentes
 

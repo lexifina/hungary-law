@@ -2,7 +2,7 @@
 
 68. § (1) Adómentes felhasználás az alkoholterméknek a felhasználása
 
-a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), nem értve ide a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
+a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, valamint a külön jogszabály szerint nyilvántartásba vett, gyógyszernek nem minősülő gyógyhatású készítmények (a szájon át fogyasztható alkoholtartalmú termékek esetében 40 ml-t meg nem haladó összes napi fogyasztási dózisnak megfelelő összetételben előállított készítmények), továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), ide nem értve a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
 
 b) a 2209 vámtarifaszám alá tartozó ecet, az élelmiszerek, az 1,2 térfogatszázaléknál nem magasabb alkoholtartalmú italok aromáinak, illetve egyéb, a 1302 19 30, a 2106 90 20 és a 3302 vámtarifaszám alá tartozó aromák vagy – a c) pontban megjelölt csokoládék előállítása céljára – alkoholos gyümölcs gyártásához,
 

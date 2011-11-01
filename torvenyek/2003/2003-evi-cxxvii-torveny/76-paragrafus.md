@@ -10,6 +10,6 @@ b) alkoholfok: a sörszabvány szerinti, 20 °C-on mért alkoholtartalom térfog
 
 (3) Az adó hektoliterre vetítve
 
-a) Balling- (Plató-) fokonként 633 forint,
+a) Balling-(Plató-) fokonként 665 forint,
 
-b) alkoholfokonként 1400 forint.
+b) alkoholfokonként 1470 forint.

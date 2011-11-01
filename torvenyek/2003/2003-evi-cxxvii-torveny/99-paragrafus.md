@@ -16,9 +16,9 @@ kell érteni.
 
 a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
 
-b) a dohánygyártmány egyedi fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm),
+b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
 
-c) az egyedi fogyasztói csomag kiskereskedelmi eladási árát,
+c) a fogyasztói csomag kiskereskedelmi eladási árát,
 
 d) az adójegy sorszámát, valamint
 
