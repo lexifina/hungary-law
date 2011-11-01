@@ -1,0 +1,1 @@
+## 6. § Az ingatlan használatát korlátozó szolgalmi vagy más használati jogot alapító határozat iránti kérelem díja 25 000 Ft. A kérelem elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban történő benyújtása esetén az eljárás díja 0 Ft.

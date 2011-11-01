@@ -1,0 +1,5 @@
+## 1. § A Nemzeti Média- és Hírközlési Hatóság Hivatalának (a továbbiakban: Hivatal), a Nemzeti Média- és Hírközlési Hatóság Elnökének (a továbbiakban: Elnök), a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) e rendeletben meghatározott – az Mttv.-ben, az Eht.-ban és a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvényben (a továbbiakban: Dtv.) szabályozott – egyes eljárásaiért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
+
+2. § (1) Amennyiben az Mttv., az Eht., a Dtv., illetve e rendelet másként nem rendelkezik, a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) kérelemre induló hatósági eljárásaiért díjat kell fizetni. A fizetendő díj összege azonos mértékű az Itv. mindenkor hatályos rendelkezése szerinti, az első fokú közigazgatási hatósági eljárásért fizetendő általános tételű eljárási illeték összegével.
+
+(2) Nem tárgya a közigazgatási hatósági eljárási illetéknek az e rendeletben szabályozott eljárás, ideértve az (1) bekezdésben foglalt és az olyan eljárásokat is, amelyek tekintetében az eljárási díj 0 Ft-ban került megállapításra.

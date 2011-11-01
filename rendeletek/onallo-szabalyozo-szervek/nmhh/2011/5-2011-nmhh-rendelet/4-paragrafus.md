@@ -1,0 +1,1 @@
+## 3. § Az Mttv. 41. § (1) és (2) bekezdésében meghatározott bejelentés-köteles médiaszolgáltatás, illetve sajtótermék nyilvántartása keretében a változás-bejelentésre, valamint a nyilvántartásból való törlésre irányuló eljárás díja 0 Ft.
