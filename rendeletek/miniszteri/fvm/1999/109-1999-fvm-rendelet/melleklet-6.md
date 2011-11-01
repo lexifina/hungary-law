@@ -40,7 +40,7 @@
 
 ## 2.9. az igénylő szabályszerű aláírása.
 
-6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^228]
+6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^232]
 
 1. A tv. alapján elektronikus úton benyújtható kérelem természetes személy kérelmező esetén az alábbi adatokat tartalmazza:
 
@@ -64,4 +64,4 @@
 
 2.5. a kérelem keltének helye és ideje.
 
-[^228]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
+[^232]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

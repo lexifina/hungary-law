@@ -1,6 +1,6 @@
-## 126. §[^220] Ahol e rendelet hatósági határozatot vagy hatósági megkeresést említ, azon a közjegyzőnek a nemperes eljárásban hozott határozatát, valamint a közjegyzőnek a nemperes eljárásban a földhivatalhoz intézett megkeresését, továbbá a bírósági végrehajtónak a bírósági végrehajtásról szóló törvény alapján tett intézkedését és a bírósági végrehajtásról szóló törvény alapján a földhivatalhoz intézett megkeresését is érteni kell.
+## 126. §[^222] Ahol e rendelet hatósági határozatot vagy hatósági megkeresést említ, azon a közjegyzőnek a nemperes eljárásban hozott határozatát, valamint a közjegyzőnek a nemperes eljárásban a földhivatalhoz intézett megkeresését, továbbá a bírósági végrehajtónak a bírósági végrehajtásról szóló törvény alapján tett intézkedését és a bírósági végrehajtásról szóló törvény alapján a földhivatalhoz intézett megkeresését is érteni kell.
 
-## 127. §[^221] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+## 127. §[^223] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
 
 1. 3. §-ával módosított 2. §-t,
 
@@ -136,8 +136,8 @@
 
 44. w) 120. § (1) bekezdését,
 
-44. x) 121. §-át az Mr. hatálybalépését[^222] követően indult ügyekben kell alkalmazni.
+44. x) 121. §-át az Mr. hatálybalépését[^224] követően indult ügyekben kell alkalmazni.
 
-[^220]: A 126. §-t a 48/2010. (IV. 27.) FVM rendelet 90. §-a iktatta be.
-[^221]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
-[^222]: A hatálybalépés időpontja: 2010. május 12.
+[^222]: A 126. §-t a 48/2010. (IV. 27.) FVM rendelet 90. §-a iktatta be.
+[^223]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
+[^224]: A hatálybalépés időpontja: 2010. május 12.

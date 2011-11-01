@@ -1,8 +1,8 @@
 ## 46. § Nádas művelési ágban kell nyilvántartani azt a területet, amelyen ipari, építkezési vagy mezőgazdasági felhasználásra alkalmas nád vagy gyékény terem.
 
-## 44.[^83] Erdő
+## 44.[^85] Erdő
 
-47. §[^84] (1) Erdő művelési ágban kell nyilvántartani – a 48. § (1) bekezdés d) pont da) alpont szerinti szabad rendelkezésű erdő kivételével – azt a területet, amely az Evt. szerint erdőnek minősül.
+47. §[^86] (1) Erdő művelési ágban kell nyilvántartani – a 48. § (1) bekezdés d) pont da) alpont szerinti szabad rendelkezésű erdő kivételével – azt a területet, amely az Evt. szerint erdőnek minősül.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően erdő művelési ágban kell nyilvántartani az Evt.-ben meghatározott erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek közül
 
@@ -16,5 +16,5 @@ d) az erdészeti létesítményhez tartozó területet,
 
 e) a 6 méternél szélesebb nyiladékot és tűzpásztát.
 
-[^83]: A 44. alcím a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.
-[^84]: A 47. § a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.
+[^85]: A 44. alcím a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.
+[^86]: A 47. § a 48/2010. (IV. 27.) FVM rendelet 51. §-ával megállapított szöveg.

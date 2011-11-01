@@ -1,4 +1,4 @@
-62/C. §[^121] (1) A termőföld végleges más célú hasznosításával összefüggő, nem beruházási területre történő művelési ág változás átvezetéséhez szükséges:
+62/C. §[^123] (1) A termőföld végleges más célú hasznosításával összefüggő, nem beruházási területre történő művelési ág változás átvezetéséhez szükséges:
 
 a) a termőföld végleges más célú hasznosításának engedélyezéséről rendelkező jogerős határozat,
 
@@ -16,4 +16,4 @@ c) a tevékenység jogszerű végzését, vagy a létesítmény jogszerű elhely
 
 d) a körzeti földhivatal által hivatalból kiállított hatósági bizonyítvány, mely igazolja, hogy az a) pontban foglalt engedély és a c) pontban foglalt hatósági bizonyítvány szerint a terület végleges más célú hasznosítását megvalósították.
 
-[^121]: A 62/C. §-t a 48/2010. (IV. 27.) FVM rendelet 62. §-a iktatta be.
+[^123]: A 62/C. §-t a 48/2010. (IV. 27.) FVM rendelet 62. §-a iktatta be.

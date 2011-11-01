@@ -1,12 +1,12 @@
 ## 49. § Halastó az a vízi létesítmény, amelyet a vízügyi hatóság engedélyével haltenyésztésre használnak (üzemeltetik), ideértve a teleltető és ivadéknevelő tavakat, valamint ezek tartozékait (pl. védtöltés, táp- és lecsapoló csatorna, a kiszolgáló épületek által elfoglalt területet is).
 
-## 47.[^88] A művelés alól kivett területek
+## 47.[^90] A művelés alól kivett területek
 
-50. § (1)[^89] Művelés alól kivett területként kell nyilvántartani a (2)–(7) bekezdésekben meghatározott területeket.
+50. § (1)[^91] Művelés alól kivett területként kell nyilvántartani a (2)–(7) bekezdésekben meghatározott területeket.
 
 (2) A településekkel kapcsolatban művelés alól kivett területek:
 
-a)[^90] a település belterületén az egy hektárt meg nem haladó beépített és beépítetlen földrészlet, függetlenül attól, hogy azon mező- vagy erdőgazdasági művelést folytatnak,
+a)[^92] a település belterületén az egy hektárt meg nem haladó beépített és beépítetlen földrészlet, függetlenül attól, hogy azon mező- vagy erdőgazdasági művelést folytatnak,
 
 b) a település belterületén az egy hektárt meghaladó földrészleten és a külterületen a földrészleten belül az épületek és építmények által elfoglalt területek, valamint ezekhez tartozó udvarok,
 
@@ -16,7 +16,7 @@ d) a gyógyhelyek, az üdülőhelyek és a gyógyfürdők céljára szolgáló �
 
 e) a sporttelepek és az állandó jellegű táborok.
 
-(3)[^91] A termeléssel és szolgáltatással kapcsolatban művelés alól kivett területek:
+(3)[^93] A termeléssel és szolgáltatással kapcsolatban művelés alól kivett területek:
 
 a) az üzemek telepei, beruházási terület, meddőhányók és egyéb lerakóhelyek,
 
@@ -50,7 +50,7 @@ o) állandó jellegű, bezárt vagy működő hulladéklerakó.
 
 (4) A közlekedéssel és a hírközléssel kapcsolatban művelés alól kivett területek:
 
-a)[^92] az országos közutak, a helyi közutak (utcák, járdák, közterek, egyéb közterületek), a 47. § (1) bekezdésének e) pontja szerinti nem állandó jellegű erdészeti magánút kivételével a magánutak, az utakhoz tartozó műtárgyak és az utak tartozékai által elfoglalt területek, valamint a 3 méternél szélesebb tanyai bejáró utak,
+a)[^94] az országos közutak, a helyi közutak (utcák, járdák, közterek, egyéb közterületek), a 47. § (1) bekezdésének e) pontja szerinti nem állandó jellegű erdészeti magánút kivételével a magánutak, az utakhoz tartozó műtárgyak és az utak tartozékai által elfoglalt területek, valamint a 3 méternél szélesebb tanyai bejáró utak,
 
 b) szőlőben, gyümölcsösben a művelés és a szállítás céljait szolgáló állandó utak, ha azok szélessége a szőlő, illetőleg a gyümölcsös sortávolságát legalább 3 méterrel meghaladja,
 
@@ -62,7 +62,7 @@ e) a kikötők szárazföldi területe,
 
 f) a távközlési építmények működtetéséhez szükséges terület,
 
-g)[^93] a külön jogszabály szerint út, vasút, valamint egyéb műszaki létesítmény tartozékát képező 1 hektárt meg nem haladó erdei fafajokkal fedett terület.
+g)[^95] a külön jogszabály szerint út, vasút, valamint egyéb műszaki létesítmény tartozékát képező 1 hektárt meg nem haladó erdei fafajokkal fedett terület.
 
 (5) A vízgazdálkodással kapcsolatban művelés alól kivett terület:
 
@@ -74,7 +74,7 @@ c) a belvízelvezető csatornák, az állandó jellegű öntözőcsatornák (riz
 
 d) a védtöltések vagy egyéb terep feletti vízszintet tartó gátak (völgyzárógátak), továbbá a védtöltések mindkét oldalán azok a területek, amelyeken vízügyi érdekből mező- vagy erdőgazdasági termelést folytatni nem szabad,
 
-e)[^94] az önálló földrészletként nyilvántartott patakot, csatornát szegélyező erdei fafajokkal fedett 1 ha-t meg nem haladó terület.
+e)[^96] az önálló földrészletként nyilvántartott patakot, csatornát szegélyező erdei fafajokkal fedett 1 ha-t meg nem haladó terület.
 
 (6) A honvédelemmel és a rendészettel kapcsolatban művelés alól kivett területek:
 
@@ -84,16 +84,16 @@ b) azok a területek, amelyeknek gazdasági felhasználását nemzetközi megál
 
 c) azok a területek, amelyeknek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta.
 
-d)[^95] honvédelmi, illetve rendészeti célból feleslegessé nyilvánított olyan terület, amelynek a szükséges környezetvédelmi, vegyvédelmi és tűzszerészeti mentesítése igazolt módon nem történt meg.
+d)[^97] honvédelmi, illetve rendészeti célból feleslegessé nyilvánított olyan terület, amelynek a szükséges környezetvédelmi, vegyvédelmi és tűzszerészeti mentesítése igazolt módon nem történt meg.
 
-(7)[^96] A (6) bekezdésben felsorolt ingatlanok közül a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanokat, „Állami terület I.” a Belügyminisztérium vagyonkezelésében lévő ingatlanokat „Állami terület II.”, az Igazságügyi Minisztérium vagyonkezelésében lévő ingatlanokat „Állami terület III.” megnevezéssel művelés alól kivett területként kell nyilvántartani.
+(7)[^98] A (6) bekezdésben felsorolt ingatlanok közül a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanokat, „Állami terület I.” a Belügyminisztérium vagyonkezelésében lévő ingatlanokat „Állami terület II.”, az Igazságügyi Minisztérium vagyonkezelésében lévő ingatlanokat „Állami terület III.” megnevezéssel művelés alól kivett területként kell nyilvántartani.
 
-[^88]: A 47. alcím a 48/2010. (IV. 27.) FVM rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^89]: Az 50. § (1) bekezdése a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^90]: Az 50. § (2) bekezdésének a) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^91]: Az 50. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 54. § (2) bekezdésével megállapított szöveg.
-[^92]: Az 50. § (4) bekezdésének a) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^93]: Az 50. § (4) bekezdésének g) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^94]: Az 50. § (5) bekezdésének e) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^95]: Az 50. § (6) bekezdés d) pontját a 48/2010. (IV. 27.) FVM rendelet 54. § (3) bekezdése iktatta be.
-[^96]: Az 50. § (7) bekezdése a 117/2005. (XII. 19.) FVM rendelet 21. § (8) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^90]: A 47. alcím a 48/2010. (IV. 27.) FVM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 50. § (1) bekezdése a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^92]: Az 50. § (2) bekezdésének a) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^93]: Az 50. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 54. § (2) bekezdésével megállapított szöveg.
+[^94]: Az 50. § (4) bekezdésének a) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^95]: Az 50. § (4) bekezdésének g) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^96]: Az 50. § (5) bekezdésének e) pontja a 117/2005. (XII. 19.) FVM rendelet 21. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^97]: Az 50. § (6) bekezdés d) pontját a 48/2010. (IV. 27.) FVM rendelet 54. § (3) bekezdése iktatta be.
+[^98]: Az 50. § (7) bekezdése a 117/2005. (XII. 19.) FVM rendelet 21. § (8) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

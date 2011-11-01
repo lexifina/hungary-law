@@ -1,6 +1,6 @@
 ## 36. § A jelzálogjog ranghelyével való rendelkezés jogát a későbbi rangsorban bejegyzett elidegenítési és terhelési tilalom csak abban az esetben szünteti meg, ha a zálogkötelezett az elidegenítési és terhelési tilalom bejegyzésével kapcsolatosan a megelőző jelzálogjogi ranghely tekintetében a ranghellyel rendelkezés jogáról az elidegenítési és terhelési tilalom jogosultja javára külön lemondott.
 
-## 32.[^63] Lemondás a jelzálogjog ranghelyével való rendelkezés jogáról
+## 32.[^65] Lemondás a jelzálogjog ranghelyével való rendelkezés jogáról
 
 37. § (1) A tulajdoni lap III. részén fel lehet jegyezni, hogy a zálogkötelezett valamely meghatározott későbbi zálogjogosult vagy meghatározott más harmadik személy irányában lemondott arról a jogáról, hogy meghatározott zálogjog kitörlése esetén a törölt jelzálogjogi bejegyzés ranghelyével rendelkezhessék, vagy hogy e ranghelyet új jelzálogjog bejegyzésének céljára fenntarthassa.
 
@@ -10,4 +10,4 @@
 
 (4) Ugyanilyen hozzájáruló nyilatkozat alapján megengedett a lemondás ellenére, a lemondással érintett zálogjogi ranghelyen újabb, az eredetinél nem terhesebb zálogjog létesítése. Ez a hozzájárulás csak az abban megengedett terhelésre szól, és azt meghaladóan nem oldja fel a zálogkötelezettet a ranghellyel való rendelkezési jogról és a ranghely fenntartásának jogáról lemondó nyilatkozata alól.
 
-[^63]: A 32. alcím a 48/2010. (IV. 27.) FVM rendelet 39. §-ával megállapított szöveg.
+[^65]: A 32. alcím a 48/2010. (IV. 27.) FVM rendelet 39. §-ával megállapított szöveg.

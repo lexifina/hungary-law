@@ -1,4 +1,4 @@
-## 3.[^16] Vagyonkezelői jog
+## 3.[^18] Vagyonkezelői jog
 
 7. § (1) Vagyonkezelői jogot a Magyar Állam tulajdonában lévő egész ingatlanra, egész tulajdoni illetőségre, ezek eszmei hányadára vagy az ingatlan természetben meghatározott vagy területnagyságban kifejezett részére lehet bejegyezni.
 
@@ -6,4 +6,4 @@
 
 (3) Ha jogszabály így rendelkezik, az állami tulajdonban álló föld, illetőleg a földön lévő állami tulajdonban álló épület vagyonkezelőjeként más-más szerv is bejegyezhető az ingatlan-nyilvántartásba.
 
-[^16]: A 3. alcím a 48/2010. (IV. 27.) FVM rendelet 9. §-ával megállapított szöveg.
+[^18]: A 3. alcím a 48/2010. (IV. 27.) FVM rendelet 9. §-ával megállapított szöveg.

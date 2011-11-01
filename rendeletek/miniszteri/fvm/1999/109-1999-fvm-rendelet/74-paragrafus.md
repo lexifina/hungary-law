@@ -8,7 +8,7 @@ b) a szövetkezeti lakások tulajdonosainak megjelölését,
 
 c) a földrészlet helyrajzi számát,
 
-d)[^147] a szövetkezeti tulajdonba kerülő épületrészek és helyiségek felsorolását római egytől kezdődő számozással,
+d)[^149] a szövetkezeti tulajdonba kerülő épületrészek és helyiségek felsorolását római egytől kezdődő számozással,
 
 e) az egyes tulajdonosok tulajdonába kerülő lakások, illetőleg nem lakás céljára szolgáló más helyiségek meghatározását az alaprajz szerinti arab számozás és az alapterület feltüntetésével.
 
@@ -16,7 +16,7 @@ e) az egyes tulajdonosok tulajdonába kerülő lakások, illetőleg nem lakás c
 
 (4) Szövetkezeti lakás megosztásához az építésügyi hatóság által jóváhagyott vázrajzon kívül a lakásszövetkezeti alapszabály módosítása is szükséges.
 
-(5)[^148] Szövetkezeti házban építés (emeletráépítés, hozzáépítés stb.) útján keletkezett szövetkezeti lakás bejegyzésére irányuló kérelemhez a lakásszövetkezeti alapszabály módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a szövetkezeti ház tulajdoni törzslapján nyilvántartott épületrészekből keletkezett új szövetkezeti lakás nyilvántartásba vételét kérik.
+(5)[^150] Szövetkezeti házban építés (emeletráépítés, hozzáépítés stb.) útján keletkezett szövetkezeti lakás bejegyzésére irányuló kérelemhez a lakásszövetkezeti alapszabály módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a szövetkezeti ház tulajdoni törzslapján nyilvántartott épületrészekből keletkezett új szövetkezeti lakás nyilvántartásba vételét kérik.
 
-[^147]: A 74. § (2) bekezdésének d) pontja a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^148]: A 74. § (5) bekezdésének második mondatát a 117/2005. (XII. 19.) FVM rendelet 32. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^149]: A 74. § (2) bekezdésének d) pontja a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^150]: A 74. § (5) bekezdésének második mondatát a 117/2005. (XII. 19.) FVM rendelet 32. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

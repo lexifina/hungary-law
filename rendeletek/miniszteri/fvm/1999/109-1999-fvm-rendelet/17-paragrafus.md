@@ -1,6 +1,6 @@
-## 16. §[^27] Tartási és életjáradéki jogot az átruházott egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára lehet bejegyezni.
+## 16. §[^29] Tartási és életjáradéki jogot az átruházott egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára lehet bejegyezni.
 
-## 13.[^28] Jelzálogjog
+## 13.[^30] Jelzálogjog
 
 17. § (1) Jelzálogjogot ingatlanra az ingatlant terhelő átruházható jogra, valamint jelzálogjoggal biztosított átruházható követelésre és önálló jelzálogjogra lehet az ingatlan-nyilvántartásba bejegyezni.
 
@@ -10,5 +10,5 @@
 
 (4) Az aljelzálogjog bejegyzésére a jelzálogjog bejegyzésének szabályait kell megfelelően alkalmazni.
 
-[^27]: A 16. § a 48/2010. (IV. 27.) FVM rendelet 18. §-ával megállapított szöveg.
-[^28]: A 13. alcím a 48/2010. (IV. 27.) FVM rendelet 19. §-ával megállapított szöveg.
+[^29]: A 16. § a 48/2010. (IV. 27.) FVM rendelet 18. §-ával megállapított szöveg.
+[^30]: A 13. alcím a 48/2010. (IV. 27.) FVM rendelet 19. §-ával megállapított szöveg.

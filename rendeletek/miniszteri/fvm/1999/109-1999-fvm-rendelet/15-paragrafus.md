@@ -1,4 +1,4 @@
-## 11.[^25] Vételi jog
+## 11.[^27] Vételi jog
 
 15. § (1) Vételi jogot egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára lehet bejegyezni.
 
@@ -10,4 +10,4 @@
 
 (5) Ha a vételi jogot meghatározott időre kötötték ki, a bejegyzésben meg kell jelölni e jog gyakorlásának végső időpontját.
 
-[^25]: A 11. alcím a 48/2010. (IV. 27.) FVM rendelet 17. §-ával megállapított szöveg.
+[^27]: A 11. alcím a 48/2010. (IV. 27.) FVM rendelet 17. §-ával megállapított szöveg.

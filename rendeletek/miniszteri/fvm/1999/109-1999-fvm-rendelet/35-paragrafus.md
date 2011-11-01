@@ -1,6 +1,6 @@
 ## 34. § Ha a jelzálogjog törlését nem az ingatlan tulajdonosa kéri, erről a körzeti földhivatal törlés előtt a tulajdonost nyilatkozattételre meghatározott határidő kitűzésével értesíti. A tulajdonos a körzeti földhivatal által meghatározott idő alatt kérheti új jelzálogjog bejegyzését vagy kérelmének előterjesztésétől számított egy év tartamára a ranghely fenntartásának feljegyzését. Ha a tulajdonos a határidő alatt nem terjeszt elő kérelmet vagy kijelenti, hogy nem él a jogával, a körzeti földhivatal a jelzálogjog törlése tárgyában határoz.
 
-## 30.[^60] Jelzálogjog ranghelyének előzetes biztosítása
+## 30.[^62] Jelzálogjog ranghelyének előzetes biztosítása
 
 35. § (1) A jelzálogjog ranghelyét előzetesen biztosító feljegyzésben meg kell jelölni a terhelés és járulékai legnagyobb összegét, továbbá naptárszerűen fel kell tüntetni az előzetes ranghelybiztosítás hatályosságának kezdő és végső időpontját. A hatályosság időtartamát attól a naptól kell számítani, amely napon a ranghely előzetes biztosítására irányuló kérelem a körzeti földhivatalhoz érkezett.
 
@@ -12,7 +12,7 @@
 
 (5) A jelzálogjog ranghelyének előzetes biztosítására vonatkozó szabályokat megfelelően alkalmazni kell a jelzálogjoggal biztosított követelés vagy jog aljelzálogjoggal való megterhelése esetére is, ha az aljelzálogjog ranghelyének előzetes biztosítását az aljelzálogjoggal terhelendő jelzálogjoggal biztosított követelés vagy jog zálogjogosultja kéri.
 
-(6)[^61] Jelzálogjog ranghelyét előzetesen biztosító feljegyzés ranghelyén önálló zálogjogot is be lehet jegyezni.
+(6)[^63] Jelzálogjog ranghelyét előzetesen biztosító feljegyzés ranghelyén önálló zálogjogot is be lehet jegyezni.
 
-[^60]: A 30. alcím a 48/2010. (IV. 27.) FVM rendelet 37. §-ával megállapított szöveg.
-[^61]: A 35. § (6) bekezdését a 117/2005. (XII. 19.) FVM rendelet 14. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^62]: A 30. alcím a 48/2010. (IV. 27.) FVM rendelet 37. §-ával megállapított szöveg.
+[^63]: A 35. § (6) bekezdését a 117/2005. (XII. 19.) FVM rendelet 14. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

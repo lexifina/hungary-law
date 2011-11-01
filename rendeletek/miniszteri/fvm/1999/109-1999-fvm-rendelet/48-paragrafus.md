@@ -1,6 +1,6 @@
-## 45.[^85] Fásított terület
+## 45.[^87] Fásított terület
 
-48. §[^86] (1) Fásított terület művelési ágban kell nyilvántartani
+48. §[^88] (1) Fásított terület művelési ágban kell nyilvántartani
 
 a) a nem erdei fafajokkal borított területet,
 
@@ -20,5 +20,5 @@ db) facsoport és fasor (fásítások) által elfoglalt területet.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően fásított terület művelési ágban kell nyilvántartani még a hengeres típusú fás szárú energetikai ültetvényt.
 
-[^85]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
-[^86]: A 48. § a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^87]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^88]: A 48. § a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.

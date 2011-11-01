@@ -1,3 +1,3 @@
-## 9.[^22] Közérdekű használati jogok
+## 9.[^24] Közérdekű használati jogok
 
-[^22]: A 9. alcím a 48/2010. (IV. 27.) FVM rendelet 15. §-ával megállapított szöveg.
+[^24]: A 9. alcím a 48/2010. (IV. 27.) FVM rendelet 15. §-ával megállapított szöveg.
