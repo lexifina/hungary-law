@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2011-05-19 | 1993-9-20-3D.73 | 23/2011. (V. 18.) NEFMI rendelet |
 | 2011-07-01 | 1993-9-20-3D.74 | 36/2011. (VI. 27.) NEFMI rendelet |
 | 2011-07-08 | 1993-9-20-3D.75 | 29/2009. (VIII. 14.) EüM rendelet |
+| 2011-11-01 | 1993-9-20-3D.76 | 45/2001. (XII. 22.) EüM rendelet |
