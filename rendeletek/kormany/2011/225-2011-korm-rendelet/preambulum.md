@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében foglalt eredeti jogalkotó hatáskörében, az Alkotmány 40. § (2) bekezdésében foglalt feladatkörében eljárva, valamint a szakképzésről szóló 1993. évi LXXVI. törvény 57. §-ában foglalt felhatalmazás alapján az alábbiakat rendeli el:
