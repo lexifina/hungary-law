@@ -1,0 +1,1 @@
+## „(8a) A (8) bekezdésben foglaltakon túl a rehabilitációs ellátási program szerinti nappali ellátás esetén meg kell határozni és a betegdokumentációban vezetni kell a rehabilitációs ellátási programban megállapított állapotmutatókat is.”
