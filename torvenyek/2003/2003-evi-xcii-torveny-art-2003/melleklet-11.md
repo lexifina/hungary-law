@@ -95,3 +95,9 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 15. a Litván Köztársaság esetében: -;
 
 16. a Luxemburgi Nagyhercegség esetében: impôt sur les assurances, impôt dans l’intérêt du service d’incendie;
+
+17. a Máltai Köztársaság esetében: taxxa fuq dokumenti u trasferimenti;
+
+18. a Németországi Szövetségi Köztársaság esetében: Versicherungssteuer, Feuerschutzsteuer;
+
+19. az Olasz Köztársaság esetében: imposte sulle assicurazioni private ed i contratti vitalizi di cui alla legge 1967.10.29. no 1216;

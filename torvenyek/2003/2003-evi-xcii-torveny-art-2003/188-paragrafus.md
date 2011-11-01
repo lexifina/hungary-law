@@ -1,0 +1,1 @@
+188. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 2. számú melléklete 6. pontját 2012. január 1. napjától és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.

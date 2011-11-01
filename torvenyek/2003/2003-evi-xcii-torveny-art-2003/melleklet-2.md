@@ -180,19 +180,9 @@ havonta, a tárgyhót követő hónap 12. napjáig
 
 teljesíti.
 
-6. Kereskedelmi és játékadó
+6. Az adózó – a játékautomata után fizetendő játékadó és a pénznyerő automata üzemeltetése után fizetendő százalékos mértékű játékadó kivételével – a játékadót a tárgyhót követő hó 20. napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó 20. napjáig vallja be és fizeti meg.
 
-Az adózó – a játékautomata után fizetendő játékadó kivételével – a játékadót
-
-a tárgyhót követő hó 20. napjáig,
-
-a nem folyamatosan szervezett sorsolásos játék esetén
-
-a sorsolás napját követő hó 20. napjáig
-
-vallja be és fizeti meg.
-
-A játékautomata éves adóját az adózó az erre vonatkozó bevallással egyidejűleg fizeti meg.
+A játékautomata éves adóját az adózó az erre vonatkozó bevallással egyidejűleg fizeti meg. A pénznyerő automata üzemeltetése után fizetendő százalékos mértékű játékadót az adózó a tárgynegyedévet követő hónap 20. napjáig vallja be és fizeti meg.
 
 7. Rehabilitációs hozzájárulás
 

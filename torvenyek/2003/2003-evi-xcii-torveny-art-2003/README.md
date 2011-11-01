@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2011-07-15 | 2011. évi XCVI. törvény | 2003-92-00-00.77 |
 | 2011-07-27 | 2011. évi CII. törvény | 2003-92-00-00.78 |
 | 2011-08-01 | 2011. évi CV. törvény | 2003-92-00-00.79 |
+| 2011-11-01 | 2011. évi CXXV. törvény | 2003-92-00-00.80 |
