@@ -46,8 +46,10 @@
 
 22. ENAR nyilvántartás: a szarvasmarhafajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendelet 2. § 5. pontja szerinti nyilvántartás;
 
-23. együttműködő szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében átruházott, valamint egyéb, szakértő szervezetek közreműködésével ellátott feladatokról szóló 48/2007. (VI. 20.) FVM rendelet 5. §-ában kijelölt szervezet;
+23.[^1] együttműködő szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében átruházott, valamint egyéb, szakértő szervezetek közreműködésével ellátott feladatokról szóló 48/2007. (VI. 20.) FVM rendelet 6. §-ában kijelölt szervezet;
 
 24. fiatal tejtermelő: az a 40 évesnél fiatalabb magyar állampolgár, aki e rendelet szerint tejtermelőnek minősül, és/vagy saját TIR tenyészetkóddal rendelkezik, továbbá a nemzeti kvóta terhére történő kvóta igénylésének időpontjában, illetve ezen időpontot megelőző két kvótaévben nem rendelkezett kvótával;
 
 25. TIR: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet szerint szabályozott tartási helyek, a tenyészetek és az ezzel kapcsolatos egyes adatok országos nyilvántartási rendszere.
+
+[^1]: Az 1. § 23. pontja a 82/2011. (VIII. 31.) VM rendelet 2. §-a szerint módosított szöveg.
