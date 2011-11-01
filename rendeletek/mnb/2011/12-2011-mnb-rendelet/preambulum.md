@@ -1,0 +1,1 @@
+A Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.) 60. § (1) bekezdés e) pontjában, valamint a 60. § (2) bekezdés b) és c) pontjában foglalt felhatalmazás alapján, az MNB tv. 4. § (2) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
