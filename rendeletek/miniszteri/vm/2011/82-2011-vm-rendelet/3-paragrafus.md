@@ -1,0 +1,1 @@
+## 2. § A tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 14/2010. (II. 23.) FVM rendelet 1. § 23. pontjában, valamint 2. § (4) bekezdésében az „5. §-ában” szövegrész helyébe a „6. §-ában” szöveg lép.
