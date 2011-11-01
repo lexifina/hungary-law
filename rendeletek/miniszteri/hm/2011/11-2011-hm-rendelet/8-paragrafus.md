@@ -1,3 +1,0 @@
-## 7. § Az R1. 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A külföldi fegyveres erők alakulatainak határátlépésére vonatkozó, diplomáciai vagy egyéb úton megküldött igényeit a HM nemzetközi együttműködésért, vagy az MH műveleti irányításáért felelős szerve soron kívül továbbítja a HM katonai vámügyi és határforgalmi feladatokért felelős szervezetének, amely ezen igényekről – a 13. § (2) bekezdésében megállapított értesítési időre is tekintettel – tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének határforgalom ellenőrzéséért felelős szervezeti egységét.”
