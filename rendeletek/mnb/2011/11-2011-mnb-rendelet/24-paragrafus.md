@@ -1,0 +1,13 @@
+## 23. § A pénzfeldolgozó a Hpt. 19/B. § f) pontjában előírt belső ügyviteli szabályzatot az e rendeletben foglaltak figyelembevételével köteles kidolgozni.
+
+## 11. Záró rendelkezések
+
+24. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő második hónap első napján lép hatályba.
+
+(2) A forintbankjegy valódiság- és forgalomképességi vizsgálatára használt bankjegyvizsgáló géppel szemben támasztott követelmény vonatkozásában a 4. § (1) bekezdése, az automata bankjegykiadó gépen keresztül visszaforgatandó forintbankjegyek vonatkozásában a 4. § (2) és (6) bekezdése, a 4. § (3) bekezdése, valamint az 5. § 2012. január 1-jén lép hatályba.
+
+(3) A 4. § (4) bekezdése és a 6. § 2017. január 1-jén lép hatályba.
+
+(4) A 7. § (3) bekezdése az euro magyarországi bevezetésének napján lép hatályba.
+
+(5) A (4) bekezdésben meghatározott feltétel bekövetkezésének napját – annak ismertté válását követően haladéktalanul – az MNB elnöke a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
