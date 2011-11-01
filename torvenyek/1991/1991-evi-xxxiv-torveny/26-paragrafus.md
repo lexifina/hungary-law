@@ -1,5 +1,7 @@
 26. § (1) Pénznyerő automatának minősül a tétfizetés fejében játék céljára alkalmas mechanikusan vagy elektronikusan vezérelt berendezés, ha nyerés esetén a játékos bármely formában vagyoni értékű nyereményre válhat jogosulttá. Az állami adóhatóság dönt abban a kérdésben, hogy valamely berendezés pénznyerő automatának minősül-e.
 
+(1a) Szerver alapú pénznyerő automatának minősül az a pénznyerő automata, amely az internet mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és melynek játékprogramja a központi szerveren egy zárt, ellenőrzött rendszeren működik, a hozzá csatlakoztatott gépek (műszaki egységek) pedig a játékteremben, játékkaszinóban találhatók.
+
 (2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
 
 a) I. kategóriába tartozó pénznyerő automatának az a berendezés minősül, amely
@@ -89,3 +91,9 @@ d) nem felel meg jogszabályban meghatározott egyéb követelményeknek.
 (20) A játékteremben jackpot rendszer üzemeltethető. Jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták köthetők.
 
 (21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
+
+(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben – az (5) bekezdésben foglalt korlátozás figyelembe vételével – kizárólag szerver alapú pénznyerő automata üzemeltethető.
+
+(23) Az elektronikus kaszinóban szerver alapú pénznyerő automata is üzemeltethető. Az elektronikus kaszinóban üzemeltetett pénznyerő automata ellenőrző készülékét abban az esetben is online kapcsolati módon a szerver alapú pénznyerő automatákat üzemeltető szerverhez kell csatlakoztatni, ha a pénznyerő automata nem minősül szerver alapú pénznyerő automatának.
+
+(24) Szerver alapú pénznyerő automatákat üzemeltető szerver működtetésére – az e törvényben és külön jogszabályban a pénznyerő automata üzemeltetésére előírt feltételek teljesítésén túl – engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amelynek tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozott és egyébként megfelel az e törvényben előírt feltételeknek.
