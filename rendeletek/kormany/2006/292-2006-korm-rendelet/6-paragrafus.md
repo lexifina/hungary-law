@@ -6,6 +6,6 @@
 
 (4) E rendelet hatálybalépését megelőzően az Intézet számára a képzési alaprészből nyújtott támogatásokra vonatkozóan megkötött, lezárásra még nem került támogatási szerződések alapján az OM Alapkezelőt, mint támogatót megillető jogok és kötelezettségek e rendelet hatálybalépésének időpontjától a Szociális és Munkaügyi Minisztériumot illetik meg, illetve terhelik. Az OM Alapkezelő 2007. január 15-éig köteles átadni a Szociális és Munkaügyi Minisztérium számára ezen szerződésekhez kapcsolódó valamennyi dokumentumot.
 
-(5)[^6] A szociális ágazat továbbképzési, alap- és szakvizsga rendszerének működtetésével, fejlesztésével kapcsolatos feladatok tekintetében 2011. január 1-jétől a Nemzeti Család- és Szociálpolitikai Intézet a Nemzeti Szakképzési és Felnőttképzési Intézet jogutódja.
+(5)[^7] A szociális ágazat továbbképzési, alap- és szakvizsga rendszerének működtetésével, fejlesztésével kapcsolatos feladatok tekintetében 2011. január 1-jétől a Nemzeti Család- és Szociálpolitikai Intézet a Nemzeti Szakképzési és Felnőttképzési Intézet jogutódja.
 
-[^6]: A 6. § (5) bekezdését a 355/2010. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^7]: A 6. § (5) bekezdését a 355/2010. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
