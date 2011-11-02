@@ -1,3 +1,0 @@
-## 3. § A Kr. 6/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Finanszírozás szempontjából új kapacitáson nyújtott teljesítmény szerint finanszírozott szolgáltatások működési kiadásainak fedezetére utólagos elszámolással finanszírozási előleg folyósítható. Az egyhavi előleg mértéke a finanszírozási szerződés szerinti kapacitás nagyságára és az ellátási formára jellemző országos havi átlagos teljesítménydíj 50 százaléka. E jogcímen a havi finanszírozási előleg a finanszírozási szerződés megkötését követően legfeljebb két hónapra folyósítható. A finanszírozó a folyósítás határidejének leteltét követően az előleget egyenlő részletekben a következő két havi esedékes finanszírozási összegből levonja.”
