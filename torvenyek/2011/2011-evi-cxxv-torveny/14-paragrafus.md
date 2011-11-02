@@ -1,13 +1,1 @@
-14. § A Jöt. 99. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adójegy tartalmazza
-
-a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
-
-b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
-
-c) a fogyasztói csomag kiskereskedelmi eladási árát,
-
-d) az adójegy sorszámát, valamint
-
-e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adómérték alapján került meghatározásra.”
+14. §
