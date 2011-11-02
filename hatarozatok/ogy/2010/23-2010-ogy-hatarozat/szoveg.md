@@ -654,7 +654,7 @@ Szabó Rebeka (LMP)
 
 o) Nemzetbiztonsági bizottság (12 fő)
 
-Elnök: dr. Vadai Ágnes (MSZP)[^75]
+Elnök: dr. Molnár Zsolt (MSZP)[^75]
 
 Alelnök:
 
@@ -1052,7 +1052,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^72]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^73]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^74]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^75]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^75]: A 86/2011. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^76]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^77]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^78]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.

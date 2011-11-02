@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2011-09-01 | 2010-23-30-41.29 | 60/2011. (VII. 13.) OGY határozat |
 | 2011-09-12 | 2010-23-30-41.30 | 63/2011. (IX. 14.) OGY határozat |
 | 2011-10-10 | 2010-23-30-41.31 | 75/2011. (X. 14.) OGY határozat |
+| 2011-11-02 | 2010-23-30-41.32 | 86/2011. (XI. 3.) OGY határozat |
