@@ -1,0 +1,18 @@
+# 2011. évi CXL. törvény
+
+Magyar Közlöny 2011. évi 128. szám, 2011. november 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e5485bbe2b4799f35a054d9c427707c39671831b/dokumentumok/b22cbff19437bd824a6a45069abc926a3646e57f/letoltes)
+
+---
+
+2011. évi CXL. törvény
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosításáról*
+1. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 58. § (1) bekezdése helyébe
+a következő rendelkezés lép:
+„(1) A pótszabadság a közalkalmazottat alapszabadságán felül – a (2)–(3) bekezdésben foglalt kivételekkel – egyszerre
+többféle jogcímen is megilleti.”
+2. § A Kjt. 58. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A munkakör és a beosztás [57. § (2) bekezdése] alapján járó pótszabadság közül a magasabb mértékű
+pótszabadság jár.”
+3. § Ez a törvény 2012. január 1. napján lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Dr. Schmitt Pál s. k., Lezsák Sándor s. k.,
+köztársasági elnök az Országgyűlés alelnöke
