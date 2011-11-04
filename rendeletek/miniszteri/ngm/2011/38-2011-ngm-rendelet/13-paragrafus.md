@@ -1,0 +1,3 @@
+## 12. § Ha a piacfelügyeleti hatóság véleménye alapján a Magyar Szabványügyi Testület törvényességi felügyeletét ellátó miniszter úgy ítéli meg, hogy egy megfelelést biztosító honosított harmonizált szabvány nem felel meg maradéktalanul az alkalmazandó az e rendeletben meghatározott rendelkezéseknek, ezt indokolással ellátva a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 5. cikke alapján létrehozott állandó bizottság elé terjeszti.
+
+## 7. Megfelelőségértékelés
