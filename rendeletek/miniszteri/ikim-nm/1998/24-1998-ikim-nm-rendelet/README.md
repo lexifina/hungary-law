@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-24-20-8
 | 2010-05-01 | 1998-24-20-80.5 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2010-12-01 | 1998-24-20-80.6 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2011-01-01 | 1998-24-20-80.7 | 16/2010. (IV. 28.) NFGM rendelet |
+| 2011-11-04 | 1998-24-20-80.8 | 38/2011. (X. 5.) NGM rendelet |
