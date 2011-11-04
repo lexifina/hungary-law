@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Mexikói Egyesült Államok között, a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Mexikóvárosban, 2011. június 24. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
