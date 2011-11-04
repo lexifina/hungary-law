@@ -1,0 +1,1 @@
+51. § A szakképzésről szóló 1993. évi LXXVI. törvény 4/A. § (8) bekezdésében és az 55. § (4) bekezdésében a „Honvédség és a rendvédelmi” szövegrész helyébe a „Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi” szöveg lép.
