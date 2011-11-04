@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-145-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2011-11-04 | 2011. évi CXLV. törvény | 2011-145-00-00.0 (közlönyállapot) |
+| 2011-11-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-145-00-00.1 |
