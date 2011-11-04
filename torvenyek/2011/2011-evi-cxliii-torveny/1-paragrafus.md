@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezményhez fűzött, az Egyesült Nemzetek Szervezetének Közgyűlése által 2002. december 18-án elfogadott fakultatív jegyzőkönyv (a továbbiakban: jegyzőkönyv) kötelező hatályának elismerésére.
