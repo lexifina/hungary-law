@@ -1,6 +1,6 @@
 ## Az állomány tagjának teljesítményértékelése
 
-98. § (1)[^91] Az állomány tagjairól a teljesítményértékelést minden év szeptember 15. és november 15. között kell elkészíteni. A teljesítményértékelési lapokat a 3. számú melléklet tartalmazza. Az éves teljesítményértékelést az állomány tagjának közvetlen szolgálati elöljárója készíti, és az értékelő közvetlen szolgálati elöljárója hagyja jóvá. Az államtitkár, valamint a Honvédelmi Minisztérium hivatali szervezetének vezetője közvetlen alárendeltségébe tartozók teljesítményértékelését az államtitkár, valamint a Honvédelmi Minisztérium hivatali szervezetének vezetője készítik és a honvédelmi miniszter hagyja jóvá. A szakirányításra jogosult személyek, illetve a HVKF közvetlen alárendeltségébe tartozók teljesítményértékelését a szakirányításra jogosult személyek, illetve a vezérkari főnök helyettes készítik és a Honvédelmi Minisztérium hivatali szervezetének vezetője, illetve a HVKF hagyja jóvá.
+98. § (1)[^94] Az állomány tagjairól a teljesítményértékelést minden év szeptember 15. és november 15. között kell elkészíteni. A teljesítményértékelési lapokat a 3. számú melléklet tartalmazza. Az éves teljesítményértékelést az állomány tagjának közvetlen szolgálati elöljárója készíti, és az értékelő közvetlen szolgálati elöljárója hagyja jóvá. Az államtitkár, valamint a Honvédelmi Minisztérium hivatali szervezetének vezetője közvetlen alárendeltségébe tartozók teljesítményértékelését az államtitkár, valamint a Honvédelmi Minisztérium hivatali szervezetének vezetője készítik és a honvédelmi miniszter hagyja jóvá. A szakirányításra jogosult személyek, illetve a HVKF közvetlen alárendeltségébe tartozók teljesítményértékelését a szakirányításra jogosult személyek, illetve a vezérkari főnök helyettes készítik és a Honvédelmi Minisztérium hivatali szervezetének vezetője, illetve a HVKF hagyja jóvá.
 
 (2) Nem kell teljesítményértékelést készíteni az állomány tagjáról amennyiben a tárgyévben róla minősítés készül, ha szolgálati viszonya megszüntetésére intézkedés történt, vagy a megszüntetésre vonatkozó eljárás megkezdődött.
 
@@ -12,4 +12,4 @@
 
 (6) Az éves teljesítményértékelés során értékelni kell az állomány tagjának feladatmegvalósítási képességeit, szakmai felkészültségét és általános személyi jellemzőit.
 
-[^91]: A 98. § (1) bekezdése a 28/2007. (VII. 9.) HM rendelet 5. §-ával megállapított szöveg.
+[^94]: A 98. § (1) bekezdése a 28/2007. (VII. 9.) HM rendelet 5. §-ával megállapított szöveg.

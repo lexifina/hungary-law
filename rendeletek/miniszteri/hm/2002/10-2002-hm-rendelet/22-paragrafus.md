@@ -1,4 +1,4 @@
-## 21. §[^34] A pályázati kiírást a Honvédelmi Minisztérium hivatalos lapjában közzé kell tenni, és nyílt pályázat esetén a számítógépes személyügyi nyilvántartó rendszeren keresztül a katonai szervezetek részére nyilvánossá kell tenni.
+## 21. §[^35] A pályázati kiírást a Honvédelmi Minisztérium hivatalos lapjában közzé kell tenni, és nyílt pályázat esetén a számítógépes személyügyi nyilvántartó rendszeren keresztül a katonai szervezetek részére nyilvánossá kell tenni.
 
 22. § (1) A pályázat feltételeit – a beosztásra meghatározott követelmények alapján – a munkáltatói jogkört gyakorló elöljáró határozza meg.
 
@@ -34,4 +34,4 @@ m) a pályázat elbírálásának eredményéről történő tájékoztatás ren
 
 (4) A pályázathoz mellékelni kell a pályázati feltételekben meghatározott képesítési követelményeket igazoló bizonyítványok (oklevelek) hitelesített másolatát, az utolsó teljesítményértékelést és a pályázati felhívásban meghatározott egyéb okmányokat.
 
-[^34]: A 21. § a 4/2006. (II. 7.) HM rendelet 11. §-ával megállapított szöveg.
+[^35]: A 21. § a 4/2006. (II. 7.) HM rendelet 11. §-ával megállapított szöveg.

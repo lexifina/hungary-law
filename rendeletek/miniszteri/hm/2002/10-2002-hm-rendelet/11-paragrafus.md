@@ -1,6 +1,6 @@
 11. § (1) A szolgálati viszony létesítése állományba vételi eljárás során, kérelemre történik.
 
-(2)[^12] Az állományba vételt – a katonai oktatási intézményben vagy az ösztöndíjasként végzettek kivételével – a jelentkező állandó lakóhelye (tartózkodási helye) szerint területileg illetékes hadkiegészítő parancsnokság toborzó irodáján (a továbbiakban: toborzó iroda) keresztül kell kezdeményezni.
+(2)[^13] Az állományba vételt – a honvéd tisztjelöltek, illetve a polgári oktatási intézményben honvédségi ösztöndíjasként végzettek kivételével – a jelentkező állandó lakóhelye vagy tartózkodási helye szerint területileg illetékes hadkiegészítő parancsnokság toborzó irodáján (a továbbiakban: toborzó iroda) keresztül kell kezdeményezni.
 
 (3) A jelentkező a jelentkezéskor a toborzó irodán jelentkezési lapot tölt ki. A toborzó iroda ennek alapján ellenőrzi a személyi és a korábbi katonai szolgálatra vonatkozó adatokat, megszervezi a jelentkezőnek a tervezett szolgálati helyen történő megjelenését.
 
@@ -10,7 +10,7 @@
 
 (6) A toborzó iroda az illetékes katonai szervezet személyügyi szervével egyezteti a jelentkező alkalmassági feltételeit és berendelésének időpontját.
 
-(7)[^13] A toborzó iroda megszervezi a jelentkező alkalmassági vizsgálaton való megjelenését.
+(7)[^14] A toborzó iroda megszervezi a jelentkező alkalmassági vizsgálaton való megjelenését.
 
-[^12]: A 11. § (2) bekezdése a 28/2007. (VII. 9.) HM rendelet 13. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^13]: A 11. § (7) bekezdését a 4/2006. (II. 7.) HM rendelet 5. §-a iktatta be.
+[^13]: A 11. § (2) bekezdése a 14/2011. (X. 28.) HM rendelet 11. §-ával megállapított szöveg.
+[^14]: A 11. § (7) bekezdését a 4/2006. (II. 7.) HM rendelet 5. §-a iktatta be.

@@ -226,7 +226,7 @@
 
 ## (Az I., II/1., 2., 3., 4., 5., 6., 7., 8., 9. pontok.)
 
-## 2.[^208] A minősítés tartalma: Az értékelő tölti ki. A minősítési időszak alatt végzett tevékenység megítélése.
+## 2.[^212] A minősítés tartalma: Az értékelő tölti ki. A minősítési időszak alatt végzett tevékenység megítélése.
 
 ## Az értékelés tartalma és szempontjai (III/1. pont): Értékelt területenként a megfelelő értékelési csoportba jól látható jelet (X vagy +) kell írni. A skála szélső értékei: 7 – Kiváló, 1 – Nem megfelelő.
 
@@ -270,7 +270,7 @@
 
 ## 11. Súlyozott értékelés, rangsorolás (XII. fejezet): Az Előmeneteli Bizottság tölti ki az adott évre meghatározott irányelvek alapján. Az értékelt a saját minősítéséről hiteles másolatot kérhet a személyügyi szervtől.
 
-6. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^209]
+6. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^213]
 
-[^208]: Az 5. számú melléklet Kitöltési Útmutatójának 2. pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^209]: A 6. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^212]: Az 5. számú melléklet Kitöltési Útmutatójának 2. pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^213]: A 6. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-120. §[^127] (1) A munkáltatói jogkörben hozott döntésekről a munkáltatói jogkört gyakorló elöljáró (vezető) által vezetett szervezet személyügyi szerve egyéni vagy összesítő parancsot készít, melyet a munkáltatói jogkör gyakorlója ír alá.
+120. §[^131] (1) A munkáltatói jogkörben hozott döntésekről a munkáltatói jogkört gyakorló elöljáró (vezető) által vezetett szervezet személyügyi szerve egyéni vagy összesítő parancsot készít, melyet a munkáltatói jogkör gyakorlója ír alá.
 
-(2)[^128] A fegyelmi jogkörben, valamint a szolgálati viszony létesítését, megszüntetését, illetve a Hjt. 50. § (2) bekezdés a) és d)–e) pontjait érintően hozott döntésekről egyéni parancs vagy határozat készül.
+(2)[^132] A fegyelmi jogkörben, valamint a szolgálati viszony létesítését, megszüntetését, illetve a Hjt. 50. § (2) bekezdés a) és d)–e) pontjait érintően hozott döntésekről egyéni parancs vagy határozat készül.
 
 (3) Az (1) bekezdésben meghatározott összesítő parancs alapján elkészített egyéni parancs kivonatot a munkáltatói jogkört gyakorló elöljáró (vezető) által vezetett szervezet személyügyi szervezetének vezetője vagy az általa meghatározott személy hitelesíti.
 
@@ -10,5 +10,5 @@
 
 (6) A parancsot vagy kivonatát a címzett részére a Honvédség központi személyügyi szerv vezetőjének szakutasításában meghatározott módon kell kézbesíteni.
 
-[^127]: A 120. § a 4/2006. (II. 7.) HM rendelet 43. §-ával megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^128]: A 120. § (2) bekezdése az 1/2008. (I. 30.) HM rendelet 6. §-ával megállapított szöveg.
+[^131]: A 120. § a 4/2006. (II. 7.) HM rendelet 43. §-ával megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^132]: A 120. § (2) bekezdése az 1/2008. (I. 30.) HM rendelet 6. §-ával megállapított szöveg.

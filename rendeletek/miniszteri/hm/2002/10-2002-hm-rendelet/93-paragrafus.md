@@ -1,4 +1,4 @@
-93. § (1)[^75]
+93. § (1)[^78]
 
 (2) Az előmenetelhez kapcsolódó személyügyi tevékenység időszaka évente szeptember 1-jétől a következő év augusztus 31-éig tart.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdésben foglaltaktól eltérni – a tisztesi, az őrmesteri, a törzsőrmesteri és a főtörzsőrmesteri rendfokozattal rendszeresített beosztások kivételével – csak rendkívül indokolt esetben lehet. Az év közben megüresedő beosztások ellátását elsősorban megbízás és vezénylés útján kell ideiglenesen biztosítani.
 
-[^75]: A 93. § (1) bekezdését a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^78]: A 93. § (1) bekezdését a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.

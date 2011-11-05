@@ -22,6 +22,6 @@
 
 ## csoportfőnök
 
-9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^212]
+9. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^216]
 
-[^212]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 7/2011. (VIII. 18.) HM rendelet 2. §-a.
+[^216]: A 9. számú mellékletet a 17/2009. (XII. 3.) HM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 7/2011. (VIII. 18.) HM rendelet 2. §-a.

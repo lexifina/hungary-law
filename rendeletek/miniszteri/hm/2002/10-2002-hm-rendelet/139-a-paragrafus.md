@@ -1,6 +1,6 @@
-## A szolgálati idők megállapítása[^180]
+## A szolgálati idők megállapítása[^184]
 
-139/A. §[^181] (1) A szolgálati idő tartamát év és nap bontásban kell kiszámítani. A szolgálati viszonynak minősülő időket egybe kell számítani, és a szolgálati idők kezdő napját ennek megfelelően év, hónap, nap pontos megjelölésével kell megállapítani. A szolgálati idők kezdőnapját a szolgálati viszony létesítését követő 30 napon belül parancsban kell rögzíteni.
+139/A. §[^185] (1) A szolgálati idő tartamát év és nap bontásban kell kiszámítani. A szolgálati viszonynak minősülő időket egybe kell számítani, és a szolgálati idők kezdő napját ennek megfelelően év, hónap, nap pontos megjelölésével kell megállapítani. A szolgálati idők kezdőnapját a szolgálati viszony létesítését követő 30 napon belül parancsban kell rögzíteni.
 
 (2) A hivatásos állományba vétel esetén az alábbi szolgálati idők kezdőnapjai kerülnek meghatározásra:
 
@@ -48,5 +48,5 @@ b) a tényleges katonai szolgálat szempontjából figyelembe vehető szolgálat
 
 (9) Egyéb szolgálati idők vonatkozásában – az állomány tagjának kérelmére – a munkáltatói jogkör gyakorlója az illetékes személyügyi szervhez benyújtott okmányok alapján a központi elektronikus személyügyi nyilvántartó rendszerben rögzített adatoknak megfelelően parancsban módosítja a szolgálati idők kezdőnapjait. A parancs alapján a személyügyi alapnyilvántartást vezető személyügyi szerv az állomány tagjának személyi anyaggyűjtőjében elvégzi a szükséges módosításokat.
 
-[^180]: A 139/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 62. §-a iktatta be, szövege a 17/2009. (XII. 3.) HM rendelet 7. §-ával megállapított szöveg.
-[^181]: A 139/A. §-t a 4/2006. (II. 7.) HM rendelet 62. §-a iktatta be, szövege a 17/2009. (XII. 3.) HM rendelet 7. §-ával megállapított szöveg.
+[^184]: A 139/A. §-t megelőző alcímet a 4/2006. (II. 7.) HM rendelet 62. §-a iktatta be, szövege a 17/2009. (XII. 3.) HM rendelet 7. §-ával megállapított szöveg.
+[^185]: A 139/A. §-t a 4/2006. (II. 7.) HM rendelet 62. §-a iktatta be, szövege a 17/2009. (XII. 3.) HM rendelet 7. §-ával megállapított szöveg.

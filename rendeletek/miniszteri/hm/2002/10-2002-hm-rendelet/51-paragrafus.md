@@ -1,3 +1,5 @@
+## 50/A. §[^51] A honvéd tisztjelölt kizárólag az MH Ludovika Zászlóalj más honvéd tisztjelölti beosztásába helyezhető át.
+
 ## Különös méltánylást érdemlő egyéni érdek
 
 51. § (1) A Hjt. 51. §-ának (4) bekezdése szerint különös méltánylást érdemlő egyéni érdeknek kell tekinteni:
@@ -12,6 +14,7 @@ d) ha a szolgálatteljesítés helyének változása miatt az állomány tagján
 
 e) ha az állomány tagja szolgálatteljesítési helyének változása miatt a közös háztartásában élő családtagok együttes költözése következtében igazolhatóan egészségromlás kockázata áll fent.
 
-(2)[^50] A kinevezési, áthelyezési jogkört gyakorló elöljáró – egyéni kérelem alapján – kivételes esetekben dönthet az (1) bekezdésben megjelölteken túl is a különös méltánylást érdemlő egyéni érdek elfogadásáról. Ha a szolgálati viszony módosítása – az (1) bekezdésben foglaltak figyelembevétele után – nem jár együtt a szolgálatteljesítés helyének megváltozásával, vagy a szolgálati viszony jelentős mértékű módosulásával, úgy különös méltánylást érdemlő egyéni érdek nem állapítható meg.
+(2)[^52] A kinevezési, áthelyezési jogkört gyakorló elöljáró – egyéni kérelem alapján – kivételes esetekben dönthet az (1) bekezdésben megjelölteken túl is a különös méltánylást érdemlő egyéni érdek elfogadásáról. Ha a szolgálati viszony módosítása – az (1) bekezdésben foglaltak figyelembevétele után – nem jár együtt a szolgálatteljesítés helyének megváltozásával, vagy a szolgálati viszony jelentős mértékű módosulásával, úgy különös méltánylást érdemlő egyéni érdek nem állapítható meg.
 
-[^50]: Az 51. § (2) bekezdésének második mondatát a 4/2006. (II. 7.) HM rendelet 17. §-a iktatta be.
+[^51]: Az 50/A. §-t a 14/2011. (X. 28.) HM rendelet 15. §-a iktatta be.
+[^52]: Az 51. § (2) bekezdésének második mondatát a 4/2006. (II. 7.) HM rendelet 17. §-a iktatta be.

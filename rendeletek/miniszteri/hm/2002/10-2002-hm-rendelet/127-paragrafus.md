@@ -4,6 +4,6 @@
 
 (3) A szolgálatok belső személyügyi tevékenységével kapcsolatos eljárási szabályok meghatározására a főigazgatók – e rendeletre figyelemmel – saját hatáskörükben intézkednek.
 
-(4)[^147] A szolgálatok állományából katonadiplomáciai szolgálatot teljesítők teljesítményértékelését, vezetői értékelését, valamint minősítését az éves beszámoltatás időszakában kell végrehajtani.
+(4)[^151] A szolgálatok állományából katonadiplomáciai szolgálatot teljesítők teljesítményértékelését, vezetői értékelését, valamint minősítését az éves beszámoltatás időszakában kell végrehajtani.
 
-[^147]: A 127. § (4) bekezdését a 4/2006. (II. 7.) HM rendelet 50. §-a iktatta be.
+[^151]: A 127. § (4) bekezdését a 4/2006. (II. 7.) HM rendelet 50. §-a iktatta be.
