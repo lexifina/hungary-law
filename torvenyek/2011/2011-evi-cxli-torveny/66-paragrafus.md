@@ -1,6 +1,6 @@
 ## 21. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-66. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+66. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontja helyébe a következő rendelkezés lép:
 
 [E törvény alkalmazásában]
 

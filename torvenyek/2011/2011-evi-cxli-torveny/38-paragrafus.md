@@ -1,3 +1,1 @@
-38. § A NAV tv. 98. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„98. § (1) Az Adó- és Pénzügyi Ellenőrzési Hivatal, illetve a Vám- és Pénzügyőrség által rendszeresített azon nyomtatványok, amelyek tartalmuk alapján 2010. december 31-ét követően is megfelelőek, a meglévő készletek erejéig – de legkésőbb 2011. december 31-ig – tovább használhatók attól függetlenül, hogy azok az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utalnak, ide nem értve azokat az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utaló nyomtatványokat, amelyek a korábbi évek önellenőrzéséhez használandók. E nyomtatványok az elévülési időn belül továbbra is használhatók.”
+38. §

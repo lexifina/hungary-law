@@ -10,6 +10,6 @@
 
 4. 76. § (1) bekezdés g) pontja,
 
-5. 81. § c) pontja,
+5. 81. § (1) bekezdés c) pontja,
 
 6. 94. §-a.
