@@ -1,4 +1,4 @@
-4. §[^6] (1) A szerződéses, valamint a tényleges szolgálatteljesítésre behívott önkéntes tartalékos katona – az étkezéstérítésre kötelezett kivételével – választása szerint jogosult
+4. §[^7] (1) A szerződéses, valamint a tényleges szolgálatteljesítésre behívott önkéntes tartalékos katona – az étkezéstérítésre kötelezett kivételével – választása szerint jogosult
 
 a) a munkában töltött napokon a napi egyszeri természetben, térítésmentesen biztosított, az I. számú élelmezési norma részértékének megfelelő ebédre, vagy
 
@@ -28,4 +28,4 @@ módosítható.
 
 (9) A nyilatkozat tartalmát érintő, a jogszabályi környezetben évközben bekövetkező változás esetén HM és az MH szervezetek személyügyi szervei a szerződéses és a tényleges szolgálatteljesítésre behívott önkéntes tartalékos katonát a változás hatálybalépésétől számított 30 napon belül ismételten nyilatkoztatják. A nyilatkozat alapján az új ellátási forma szerinti ellátásra az érintettek a módosítást tartalmazó parancs kiadását követő hónap első napjától jogosultak.
 
-[^6]: A 4. § a 20/2009. (XII. 29.) HM rendelet 6. §-ával megállapított szöveg.
+[^7]: A 4. § a 20/2009. (XII. 29.) HM rendelet 6. §-ával megállapított szöveg.

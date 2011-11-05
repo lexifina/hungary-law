@@ -1,6 +1,6 @@
-## 3/A. §[^4] Az Élelmezési alap- és pótnormák általános forgalmi adóval növelt bruttó értéke:
+## 3/A. §[^5] Az Élelmezési alap- és pótnormák általános forgalmi adóval növelt bruttó értéke:
 
-a)[^5] I. számú élelmezési norma 950 Ft/fő/nap,
+a)[^6] I. számú élelmezési norma 950 Ft/fő/nap,
 
 b) II. számú élelmezési norma 1110 Ft/fő/nap,
 
@@ -28,5 +28,5 @@ m) 2. számú védőital (tea) 38 Ft/fő/nap,
 
 n) 3. számú védőital (szénsavas víz, ásványvíz vagy szódavíz) 72 Ft/fő/nap.
 
-[^4]: A 3/A. §-t a 3/2008. (I. 30.) HM rendelet 1. §-a iktatta be.
-[^5]: A 3/A. § a) pontja a 3/2009. (III. 18.) HM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3/A. §-t a 3/2008. (I. 30.) HM rendelet 1. §-a iktatta be.
+[^6]: A 3/A. § a) pontja a 3/2009. (III. 18.) HM rendelet 2. §-ával megállapított szöveg.

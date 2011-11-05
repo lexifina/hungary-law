@@ -1,8 +1,8 @@
-## 23. §[^30] Védőital norma a katonai szervezetek üzemeiben, műhelyeiben, munkahelyein a 7. számú mellékletben meghatározott beosztásokban munkát végzők után számítható fel.
+## 23. §[^31] Védőital norma a katonai szervezetek üzemeiben, műhelyeiben, munkahelyein a 7. számú mellékletben meghatározott beosztásokban munkát végzők után számítható fel.
 
 ## Élelmezési hozzájárulás szerinti ellátás
 
-24. §[^31] (1) Az I. számú élelmezési norma szerinti természetbeni munkahelyi élelmezési (reggeli, ebéd, vacsora) ellátásra jogosultak az étkezéstérítésre kötelezett beosztásban szolgálatot teljesítők, illetve az ilyen munkakörben dolgozók az általuk igénybe vett étkezés vagy részétkezés esetén. Az étkezésért vagy részétkezésért térítendő összeget a NORMAFÜZET tartalmazza.
+24. §[^32] (1) Az I. számú élelmezési norma szerinti természetbeni munkahelyi élelmezési (reggeli, ebéd, vacsora) ellátásra jogosultak az étkezéstérítésre kötelezett beosztásban szolgálatot teljesítők, illetve az ilyen munkakörben dolgozók az általuk igénybe vett étkezés vagy részétkezés esetén. Az étkezésért vagy részétkezésért térítendő összeget a NORMAFÜZET tartalmazza.
 
 (2) Az (1) bekezdés alapján az I. számú élelmezési norma szerinti természetbeni munkahelyi élelmezési (reggeli, ebéd, vacsora) ellátásra jogosultak
 
@@ -18,5 +18,5 @@ d) az élelmezési ellátás közvetlen irányítására és felügyeletére
 
 (3) Az I. számú élelmezési normától eltérő alapnormával gazdálkodó MH KORK étkezdéjében a VI. számú élelmezési norma szerinti természetbeni munkahelyi élelmezési (reggeli, ebéd, vacsora) ellátásra jogosultak az étkezéstérítésre kötelezett beosztásban szolgálatot teljesítők az általuk igénybe vett étkezés vagy részétkezés esetén. Az étkezésért, vagy részétkezésért térítendő összeget a NORMAFÜZET tartalmazza.
 
-[^30]: A 23. § a 3/2009. (III. 18.) HM rendelet 8. §-ával megállapított szöveg.
-[^31]: A 24. § a 3/2009. (III. 18.) HM rendelet 9. §-ával megállapított szöveg.
+[^31]: A 23. § a 3/2009. (III. 18.) HM rendelet 8. §-ával megállapított szöveg.
+[^32]: A 24. § a 3/2009. (III. 18.) HM rendelet 9. §-ával megállapított szöveg.

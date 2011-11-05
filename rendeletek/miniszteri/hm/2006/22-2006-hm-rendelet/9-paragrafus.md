@@ -1,4 +1,4 @@
-9. § (1)[^15] A II. számú élelmezési normára jogosultak közül az ejtőernyős és búvár beosztású hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
+9. § (1)[^16] A II. számú élelmezési normára jogosultak közül az ejtőernyős és búvár beosztású hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
 
 a) heti pihenőnapokon (szombat, vasárnap);
 
@@ -16,7 +16,7 @@ g) az ugrástól, merüléstől egészségügyi okok miatti távollét, lakáson
 
 h) azoknak, akik olyan központi szervnél, parancsnokságon teljesítenek szolgálatot, ahol a II. számú élelmezési norma szerint nem gazdálkodnak.
 
-(2)[^16] Az (1) bekezdés c) pontja szerinti élelmiszer-utalvány nem jár az éjszakai ugrást, merülést végző hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú ejtőernyős, búvár beosztásúak részére. Részükre természetbeni ellátást kell biztosítani. Amennyiben az ejtőernyős és búvár katona másnap nem a napi munkarend kezdetére vonul be a szolgálati helyére, a norma reggeli hányada élelmiszer-utalvánnyal megváltható. Ezt a parancsnoknak napiparancsban kell szabályoznia.
+(2)[^17] Az (1) bekezdés c) pontja szerinti élelmiszer-utalvány nem jár az éjszakai ugrást, merülést végző hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú ejtőernyős, búvár beosztásúak részére. Részükre természetbeni ellátást kell biztosítani. Amennyiben az ejtőernyős és búvár katona másnap nem a napi munkarend kezdetére vonul be a szolgálati helyére, a norma reggeli hányada élelmiszer-utalvánnyal megváltható. Ezt a parancsnoknak napiparancsban kell szabályoznia.
 
-[^15]: A 9. § (1) bekezdés bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A 9. § (2) bekezdése a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^16]: A 9. § (1) bekezdés bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 9. § (2) bekezdése a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
