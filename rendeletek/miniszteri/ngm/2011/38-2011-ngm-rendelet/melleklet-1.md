@@ -1,8 +1,4 @@
-## 26. § Az öngyújtók forgalomba hozatalának egyes követelményeiről szóló 28/2007. (III. 7.) GKM rendelet 8. § (3) bekezdése a következő f) ponttal egészül ki:
-
-## (Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-## „f) a Bizottság 2011/176/EU határozata (2011. március 21.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról.”
+## 26. §[^2]
 
 1. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
@@ -65,3 +61,5 @@
 23. Játék gőzgépek.
 
 24. Parittyák és csúzlik.
+
+[^2]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
