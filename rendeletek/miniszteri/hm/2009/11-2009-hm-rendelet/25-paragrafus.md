@@ -1,7 +1,9 @@
-## V. Fejezet
+## V. Fejezet[^15]
 
-## AZ ÖSZTÖNDÍJAS HALLGATÓK TANSZERTÁMOGATÁSA
+## A HONVÉD TISZTJELÖLTEK EGYES PÉNZBELI SZOCIÁLIS TÁMOGATÁSAI
 
-25. § (1) A katonai felsőoktatási intézmény honvédségi ösztöndíjas hallgatója félévente – előre kifizetendő – az illetményalap 20%-ának megfelelő összegű tanszertámogatásra jogosult. A jóváhagyott költségvetési előirányzat keretei között a katonai felsőoktatási intézmény vezetője ezt az összeget 20%-kal a nemzetvédelmi és katonai alap- és mesterképzési szakok követelményeire figyelemmel felemelheti vagy csökkentheti.
+25. § (1) A honvéd tisztjelölt részére családalapítási támogatás, illetményelőleg, iskolakezdési támogatás, nevelési segély, és házastársi jövedelem-kiegészítés nem állapítható meg.
 
-(2) A tanszertámogatást a katonai felsőoktatási intézmény részben vagy egészben természetben is megválthatja. A honvédségi ösztöndíjas hallgató részére a speciális tanszerek térítésmentes használatát az intézmény biztosítja.
+(2) A honvéd tisztjelölt a hivatásos katonákra vonatkozó szabályozása szerint parancsnoki, illetve magasabb parancsnoki segélyben részesíthető azzal az eltéréssel, hogy a parancsnok a rendelkezésre álló segélykeret terhére alkalmanként legfeljebb az illetményalap 50%-ának megfelelő összegű parancsnoki segély folyósítását engedélyezheti.
+
+[^15]: Az V. fejezet (25–25/C. §) a 14/2011. (X. 28.) HM rendelet 25. § (2) bekezdésével megállapított szöveg.

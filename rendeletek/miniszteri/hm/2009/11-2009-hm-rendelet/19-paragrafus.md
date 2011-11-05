@@ -1,4 +1,4 @@
-## 18. §[^10] A 16. § (4) bekezdése alapján nevelési segélyben részesülő gyermeket évente december 15-éig további nevelési segélyben kell részesíteni, melynek összege az illetményalap 60%-a.
+## 18. §[^12] A 16. § (4) bekezdése alapján nevelési segélyben részesülő gyermeket évente december 15-éig további nevelési segélyben kell részesíteni, melynek összege az illetményalap 60%-a.
 
 ## Az iskolakezdési támogatásra és a nevelési segélyre vonatkozó közös szabályok
 
@@ -8,9 +8,9 @@
 
 (3) Az iskolakezdési támogatásra vonatkozó igénybejelentést a benyújtástól számított 30 napon belül érdemben el kell bírálni függetlenül az iskolalátogatási igazolás meglététől. Amennyiben az iskolalátogatási igazolás szeptember 30-ig nem kerül benyújtásra, vagy utólag a jogosultsági feltételek hiánya kerül megállapításra, a kiadott iskolakezdési utalványt vissza kell szolgáltatni vagy a honvédelmi szervezetnek annak pénzbeli értékét vissza kell követelni.
 
-(4)[^11] A 14. § (3) bekezdése, a 16. § (4) bekezdése és a 18. § szerinti jogosultak részére az iskolakezdési támogatást és a nevelési segélyt az illetékes hadkiegészítő parancsnokság biztosítja.
+(4)[^13] A 14. § (3) bekezdése, a 16. § (4) bekezdése és a 18. § szerinti jogosultak részére az iskolakezdési támogatást és a nevelési segélyt az illetékes hadkiegészítő parancsnokság biztosítja.
 
 (5) Ha mindkét szülő honvédelmi szervezet állományába tartozik – függetlenül attól, hogy ezek azonos honvédelmi szervezetek-e – a gyermek(ek) után a nevelési segély és az iskolakezdési támogatás csak egyik szülő jogán állapítható meg.
 
-[^10]: A 18. § a 22/2009. (XII. 29.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.
-[^11]: A 19. § (4) bekezdése a 22/2009. (XII. 29.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.
+[^12]: A 18. § a 22/2009. (XII. 29.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.
+[^13]: A 19. § (4) bekezdése a 22/2009. (XII. 29.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.

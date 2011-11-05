@@ -1,4 +1,4 @@
-8. § (1)[^3]
+8. § (1)[^5]
 
 (2) Az illetményelőleg törlesztőrészleteinek levonását az előleg átutalását követő hónapra járó illetményből kell megkezdeni.
 
@@ -6,4 +6,4 @@
 
 (4) Az illetményelőlegben részesült halála esetén a tartozást a HM központi pénzügyi szervezetének vezetője jogszabályban meghatározott szabályok szerint részben vagy egészben elengedheti.
 
-[^3]: A 8. § (1) bekezdését a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 8. § (1) bekezdését a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
