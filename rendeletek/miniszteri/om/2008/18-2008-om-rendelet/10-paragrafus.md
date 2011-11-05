@@ -1,1 +1,0 @@
-## 9. § Nem kell gyakornoki időt kikötni, ha a közalkalmazott olyan munkakört tölt be, amelyben a besorolás alapjául figyelembe vehető jogi szakvizsga, mérlegképes könyvelő szakképesítés vagy ezzel egyenértékű képesítés, okleveles könyvvizsgálói képesítés, és ezzel a közalkalmazott rendelkezik.
