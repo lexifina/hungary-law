@@ -1,6 +1,6 @@
-## 102. §[^126] A személyek jutalmazásánál a következő szempontokat kell figyelembe venni:
+## 102. §[^131] A személyek jutalmazásánál a következő szempontokat kell figyelembe venni:
 
-a)–b)[^127]
+a)–b)[^132]
 
 c) fegyvernemi és szolgálati nap alkalmával pénzjutalom nem adományozható, az érintettek érdemeit kizárólag egyéb formákban (kitüntetés, oklevél, kisebb tárgyjutalom stb.) lehet elismerni,
 
@@ -14,5 +14,5 @@ g) a jutalom összege igazodjon az elismerés szintjéhez,
 
 h) a jutalmazásra jogosult parancsnok (vezető) önmagát elismerésben, jutalomban nem részesítheti.
 
-[^126]: A 102. § a 7/2003. (II. 20.) HM rendelet 4. §-ával megállapított szöveg.
-[^127]: A 102. § a)–b) pontját a 17/2007. (V. 11.) HM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^131]: A 102. § a 7/2003. (II. 20.) HM rendelet 4. §-ával megállapított szöveg.
+[^132]: A 102. § a)–b) pontját a 17/2007. (V. 11.) HM rendelet 4. § (2) bekezdése hatályon kívül helyezte.

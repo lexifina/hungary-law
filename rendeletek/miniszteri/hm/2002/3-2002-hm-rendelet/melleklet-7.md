@@ -12,6 +12,6 @@
 
 | 4. | Az ejtőernyős tiszthelyetteseknek és tiszteseknek | 10,8 | 8,1 | 6,3 |
 
-7. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^150]
+7. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^155]
 
-[^150]: A 7. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^155]: A 7. számú melléklet a 22/2004. (VIII. 21.) HM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.

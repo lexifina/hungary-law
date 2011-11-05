@@ -1,4 +1,4 @@
-## 63/A. §[^91] A kormánytisztviselői, illetve a közalkalmazotti jogviszony keretében ellátható munkakör helyettesítésével csak egy fő bízható meg. A helyettesített munkakörhöz tartozó megbízási díj megállapítható legmagasabb havi mértékét a 2. számú melléklet tartalmazza.
+## 63/A. §[^93] A kormánytisztviselői, illetve a közalkalmazotti jogviszony keretében ellátható munkakör helyettesítésével csak egy fő bízható meg. A helyettesített munkakörhöz tartozó megbízási díj megállapítható legmagasabb havi mértékét a 2. számú melléklet tartalmazza.
 
 ## (A Hjt. 91–95. §-aihoz)
 
@@ -6,4 +6,4 @@
 
 (2) A szolgálati helyre való beérkezés és az onnan történő eltávozás időpontját ,,munkaidő-nyilvántartás''-ban rögzíteni kell.
 
-[^91]: A 63/A. §-t a 6/2009. (VI. 4.) HM rendelet 8. §-a iktatta be, szövege a 4/2011. (VI. 7.) HM rendelet 8. § e) pontja szerint módosított szöveg.
+[^93]: A 63/A. §-t a 6/2009. (VI. 4.) HM rendelet 8. §-a iktatta be, szövege a 4/2011. (VI. 7.) HM rendelet 8. § e) pontja szerint módosított szöveg.

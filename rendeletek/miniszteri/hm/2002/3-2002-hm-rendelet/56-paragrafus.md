@@ -6,4 +6,6 @@
 
 (2) Ha a hivatásos katona szolgálatát az első kinevezés (felvétel) napját követően kezdi meg – a (3) bekezdésben foglaltak kivételével – az illetmény a szolgálat megkezdése napjától jár.
 
-(3) A katonai felsőoktatási intézmények, illetőleg a hivatásos tiszthelyettesi iskola végzett hallgatóit, a tiszti, tiszthelyettesi kinevezés (avatás) napjától illeti meg az első beosztásuk szerinti illetmény.
+(3)[^72] A végzett honvéd tisztjelölteket a tiszti kinevezés (avatás) napjától illeti meg az első beosztásuk szerinti illetmény.
+
+[^72]: Az 56. § (3) bekezdése a 14/2011. (X. 28.) HM rendelet 2. §-ával megállapított szöveg.

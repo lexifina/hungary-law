@@ -1,4 +1,4 @@
-## 2/B. §[^8] A három hónapot meghaladó időtartamra – külföldi szolgálat teljesítése vagy külföldi tanulmányok folytatása céljából – külföldre vezényeltek illetményre való jogosultságát a 62/A. §-ban foglaltak szerint kell megállapítani.
+## 2/B. §[^9] A három hónapot meghaladó időtartamra – külföldi szolgálat teljesítése vagy külföldi tanulmányok folytatása céljából – külföldre vezényeltek illetményre való jogosultságát a 62/A. §-ban foglaltak szerint kell megállapítani.
 
 ## (A Hjt. 108. §-ához)
 
@@ -10,4 +10,4 @@
 
 (4) A beosztási illetménynek a Hjt. 108. § (3) bekezdése szerinti magasabb, illetőleg a Hjt. 135. § (1) bekezdésének e) pontja szerinti alacsonyabb összegben való megállapítását és folyósítását az erre vonatkozó határozatban, illetőleg parancsban (a továbbiakban együtt: parancsban) elrendelt időponttól kell végrehajtani.
 
-[^8]: A 2/B. §-t a 26/2007. (VI. 20.) HM rendelet 75. § (1) bekezdése iktatta be. E módosító rendelet 74. § (1) bekezdése alapján a korábbi szabályok szerint megállapított kiegészítő illetményt, devizaellátmányt, családtagi pótlékot és devizaellátmány-pótlékot a fenti időpontot követően a külföldi szolgálat befejezéséig csökkenteni nem lehet.
+[^9]: A 2/B. §-t a 26/2007. (VI. 20.) HM rendelet 75. § (1) bekezdése iktatta be. E módosító rendelet 74. § (1) bekezdése alapján a korábbi szabályok szerint megállapított kiegészítő illetményt, devizaellátmányt, családtagi pótlékot és devizaellátmány-pótlékot a fenti időpontot követően a külföldi szolgálat befejezéséig csökkenteni nem lehet.

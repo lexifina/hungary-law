@@ -1,4 +1,4 @@
-## 12. §[^18] A repülőhajózóknak a repülési pótlék mértéke szerinti kategóriába sorolását külön intézkedés, a pótlék személyenkénti összegét pedig az állományilletékes parancsnok parancsban határozza meg.
+## 12. §[^19] A repülőhajózóknak a repülési pótlék mértéke szerinti kategóriába sorolását külön intézkedés, a pótlék személyenkénti összegét pedig az állományilletékes parancsnok parancsban határozza meg.
 
 ## Repülőgép berepülési pótlék
 
@@ -8,4 +8,4 @@
 
 (3) A berepülési pótlék kifizetésére – a feladatteljesítést követő hónap 10. napjáig – az állományilletékes parancsnok parancsban intézkedik.
 
-[^18]: A 12. § a 22/2004. (VIII. 21.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (4) bekezdése alapján a 2004. január 1. és 2004. július 31. közötti időszakra a repülési pótlék összegét a korábbi szabályok szerint kell megállapítani és a 2004. augusztus havi illetménnyel együtt folyósítani.
+[^19]: A 12. § a 22/2004. (VIII. 21.) HM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (4) bekezdése alapján a 2004. január 1. és 2004. július 31. közötti időszakra a repülési pótlék összegét a korábbi szabályok szerint kell megállapítani és a 2004. augusztus havi illetménnyel együtt folyósítani.

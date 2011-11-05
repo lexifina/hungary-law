@@ -1,4 +1,4 @@
-74. §[^102] (1) Az állományilletékes parancsnok (vezető) illetmény-megállapítási jogköre a következő:
+74. §[^104] (1) Az állományilletékes parancsnok (vezető) illetmény-megállapítási jogköre a következő:
 
 a) a honvédelmi miniszter állapítja meg az illetményét
 
@@ -40,4 +40,4 @@ i) a felsőoktatási intézmény nappali iskolarendszerű képzésén tanulmány
 
 j) a g)–i) pontokba nem tartozó, más katonai szervezeti egységhez szolgálatteljesítésre, hazai vagy külföldi tanulmányok folytatására, továbbképzésre, átképzésre három hónapot meghaladó időtartamra vezényeltek illetmény-megállapítására a vezénylési hely állományilletékes parancsnoka (vezetője) jogosult.
 
-[^102]: A 74. § a 4/2011. (VI. 7.) HM rendelet 3. §-ával megállapított szöveg.
+[^104]: A 74. § a 4/2011. (VI. 7.) HM rendelet 3. §-ával megállapított szöveg.
