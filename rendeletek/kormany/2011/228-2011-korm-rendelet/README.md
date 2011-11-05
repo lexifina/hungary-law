@@ -1,0 +1,9 @@
+# 228/2011. (X. 28.) Korm. rendelet
+
+a Magyar Közigazgatási Ösztöndíjról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-228-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-11-05 | 2011-228-20-22.1 | 228/2011. (X. 28.) Korm. rendelet |
