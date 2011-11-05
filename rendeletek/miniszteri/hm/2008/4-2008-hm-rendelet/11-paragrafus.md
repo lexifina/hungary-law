@@ -10,6 +10,6 @@
 
 (5) Az intézményes temetési segélyt az elhalálozást megelőzően az elhunyttal közös háztartásban élő házastárs részére, amennyiben ilyen nincs, akkor az intézkedésre jogosult egyeneságbeli rokon részére kell kifizetni.
 
-(6)[^4] A HM közigazgatási államtitkár kérelemre, az (5) bekezdésben meghatározott személy szociális helyzetére, életkörülményeire tekintettel, a (4) bekezdésben megjelölt összegnél magasabb intézményes temetési segélyt engedélyezhet.
+(6)[^5] A HM közigazgatási államtitkár kérelemre, az (5) bekezdésben meghatározott személy szociális helyzetére, életkörülményeire tekintettel, a (4) bekezdésben megjelölt összegnél magasabb intézményes temetési segélyt engedélyezhet.
 
-[^4]: A 11. § (6) bekezdése a 4/2011. (VI. 7.) HM rendelet 17. §-a szerint módosított szöveg.
+[^5]: A 11. § (6) bekezdése a 4/2011. (VI. 7.) HM rendelet 17. §-a szerint módosított szöveg.
