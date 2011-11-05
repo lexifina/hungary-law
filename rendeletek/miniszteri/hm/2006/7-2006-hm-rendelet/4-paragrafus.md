@@ -32,6 +32,9 @@ l)[^2] a szolgálati viszony nyugdíjkorhatáron túli meghosszabbítását mege
 
 (4) Az egészségi alkalmasságot orvos, a pszichikai alkalmasságot pszichológus, a fizikai alkalmasságot sportélettani gyakorlattal rendelkező orvos, illetve a fizikai felkészítésre és a terheléses sportélettani vizsgálatok végzésére képesítéssel rendelkező szakember véleményezheti, illetve minősítheti.
 
+(5)[^4] A honvéd tisztjelöltek esetében a szakirány-, illetve szakváltás előtt egészségügyi alkalmassági vizsgálatot kell elvégezni.
+
 [^1]: A 4. § (1) bekezdésének f) pontja a 13/2009. (VIII. 26.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (1) bekezdésének l) pontját a 13/2009. (VIII. 26.) HM rendelet 1. § (2) bekezdése iktatta be.
 [^3]: A 4. § (2) bekezdése a 13/2009. (VIII. 26.) HM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 4. § (5) bekezdését a 14/2011. (X. 28.) HM rendelet 23. §-a iktatta be.

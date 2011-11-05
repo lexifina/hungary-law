@@ -18,13 +18,13 @@ c) „A ... (oktatási intézmény megnevezése) ... karán/szakán (a kar/szak 
 
 (6) „Ideiglenesen alkalmatlan” minősítés csak az első vizsgálatkor – legfeljebb egy év időtartamra – adható, a meghatározott idő elteltével az ismételt vizsgálaton az alkalmasságot véglegesen el kell bírálni.
 
-(7)[^57] A (3) bekezdés szerinti minősítés ellen 15 napon belül fellebbezésnek van helye. A fellebbezést az első fokon minősítő bizottságnál kell benyújtani, melyet a Másodfokú FÜV Bizottság bírál el, döntése ellen további fellebbezésnek nincs helye.
+(7)[^58] A (3) bekezdés szerinti minősítés ellen 15 napon belül fellebbezésnek van helye. A fellebbezést az első fokon minősítő bizottságnál kell benyújtani, melyet a Másodfokú FÜV Bizottság bírál el, döntése ellen további fellebbezésnek nincs helye.
 
-(8)[^58] Az MH HEK kijelölt alkalmasságvizsgálatot végző egészségügyi intézete az egészségi, a pszichológiai és a fizikai alkalmassági vizsgálatokat a katonai oktatási intézmény megkeresésére – előzetesen egyeztetett program szerint – végzi.
+(8)[^59] Az MH HEK kijelölt alkalmasságvizsgálatot végző egészségügyi intézete az egészségi, a pszichológiai és a fizikai alkalmassági vizsgálatokat a katonai oktatási intézmény megkeresésére – előzetesen egyeztetett program szerint – végzi.
 
 (9) Az „a ... (oktatási intézmény megnevezése) ... karán/szakán (a kar/szak megnevezése) tanulmányok folytatására/honvédségi ösztöndíjasnak alkalmatlan” („E”) minősítés a katonai oktatási intézmény hallgatói, illetve ösztöndíjas hallgatói állományba történő felvételt, valamint a honvédtiszt-, illetve tiszthelyettes-képzésben a tanulmányok folytatását kizárja.
 
 (10) A hallgatók alkalmassági vizsgálata során a II–IV. fejezet, valamint a VI. fejezet 18. §-ának (1)–(6) bekezdését és 19. §-át a harmadik részben foglalt eltérésekkel megfelelően alkalmazni kell.
 
-[^57]: A 24. § (7) bekezdése a 13/2009. (VIII. 26.) HM rendelet 17. §-ával megállapított szöveg.
-[^58]: A 24. § (8) bekezdése a 13/2009. (VIII. 26.) HM rendelet 17. §-ával megállapított szöveg.
+[^58]: A 24. § (7) bekezdése a 13/2009. (VIII. 26.) HM rendelet 17. §-ával megállapított szöveg.
+[^59]: A 24. § (8) bekezdése a 13/2009. (VIII. 26.) HM rendelet 17. §-ával megállapított szöveg.

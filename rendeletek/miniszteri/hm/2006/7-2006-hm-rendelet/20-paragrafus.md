@@ -6,7 +6,7 @@
 
 20. § (1) A külföldi szolgálat teljesítésére tervezett katona alapellátó- és fogorvosi előszűrésen vesz részt és a következő egészségi követelményeknek kell megfelelnie:
 
-a)[^44] az idegrendszer kifogástalan állapota, teljesen ép reflexek, harmonikus életvezetés, jó beilleszkedési és tűrőképesség, negatív drogszűrési eredmény, valamint alkohol toxikus hatása következtében kialakuló szemészeti vagy központi idegrendszeri érintettségre utaló organikus és pszichés tünetek, májkárosodást jelző laboratóriumai vérérték eltérések észlelése esetén a krónikus alkoholfogyasztás kizárásának igazolása,
+a)[^45] az idegrendszer kifogástalan állapota, teljesen ép reflexek, harmonikus életvezetés, jó beilleszkedési és tűrőképesség, negatív drogszűrési eredmény, valamint alkohol toxikus hatása következtében kialakuló szemészeti vagy központi idegrendszeri érintettségre utaló organikus és pszichés tünetek, májkárosodást jelző laboratóriumai vérérték eltérések észlelése esetén a krónikus alkoholfogyasztás kizárásának igazolása,
 
 b) a légző-, valamint a szív-érrendszer kifogástalan állapota, ép légzés, tiszta szívhangok (a jelölt még funkcionális zörejek esetén is alkalmatlan), 140/90 Hgmm-t meg nem haladó vérnyomás,
 
@@ -56,7 +56,7 @@ j) akinél a rágóképességet jelentősen befolyásoló foghiányt, fogszuvaso
 
 (6) Az alapellátást végző orvos megállapításait az ambuláns naplóba és a külföldi szolgálat teljesítésére tervezett katona egészségügyi könyvébe bejegyzi.
 
-(7)[^45] Ha a külföldi szolgálat teljesítésére tervezett katona az előszűrésen a (2) bekezdés c) pontja szerinti minősítést kapta – annak közlésétől számított 15 napon belül – az Eü PAB-hoz fellebbezéssel élhet, melynek döntése ellen további fellebbezésnek helye nincs.
+(7)[^46] Ha a külföldi szolgálat teljesítésére tervezett katona az előszűrésen a (2) bekezdés c) pontja szerinti minősítést kapta – annak közlésétől számított 15 napon belül – az Eü PAB-hoz fellebbezéssel élhet, melynek döntése ellen további fellebbezésnek helye nincs.
 
-[^44]: A 20. § (1) bekezdésének a) pontja a 13/2009. (VIII. 26.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^45]: A 20. § (7) bekezdése a 13/2009. (VIII. 26.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^45]: A 20. § (1) bekezdésének a) pontja a 13/2009. (VIII. 26.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^46]: A 20. § (7) bekezdése a 13/2009. (VIII. 26.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.

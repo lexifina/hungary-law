@@ -1,6 +1,6 @@
 ## A felülvizsgáló bizottságok eljárása
 
-39. § (1)[^79] A felülvizsgáló bizottságok üléseiket szükség szerint, illetve – az Elsőfokú FÜV Bizottság kivételével – az MH HEK felülvizsgálatokat irányító szervének intézetvezető főorvosa által meghatározott gyakorisággal tartják.
+39. § (1)[^80] A felülvizsgáló bizottságok üléseiket szükség szerint, illetve – az Elsőfokú FÜV Bizottság kivételével – az MH HEK felülvizsgálatokat irányító szervének intézetvezető főorvosa által meghatározott gyakorisággal tartják.
 
 (2) A katonát a bizottság szakmai szempontból illetékes tagja megvizsgálja, a vizsgálat eredményét összeveti a FÜV táblázatban szereplő vizsgálati eredményekkel, majd a bizottság részére tájékoztatást ad a kivizsgálás eredményéről és javaslatot tesz a vizsgált katona egészségi alkalmassági fokára, egészségkárosodásának a szolgálati kötelmekkel való összefüggésére, valamint az egyéb kérdésekre (pl. egészségügyi szabadság meghosszabbítása).
 
@@ -24,4 +24,4 @@ d) az egyenruha viselésének egészségi szempontból való ellenjavallatát.
 
 (8) A bizottság döntését és a fellebbezés lehetőségét a katonával írásban kell közölni. A minősítést és a szükséges felmentést (egészségügyi szabadság stb.) be kell vezetni a katona egészségügyi könyvébe.
 
-[^79]: A 39. § (1) bekezdése a 13/2009. (VIII. 26.) HM rendelet 28. §-ával megállapított szöveg.
+[^80]: A 39. § (1) bekezdése a 13/2009. (VIII. 26.) HM rendelet 28. §-ával megállapított szöveg.

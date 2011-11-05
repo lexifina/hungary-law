@@ -1,6 +1,6 @@
-## 50. §[^90]
+## 50. §[^91]
 
-1. melléklet a 7/2006. (III. 21.) HM rendelethez[^91]
+1. melléklet a 7/2006. (III. 21.) HM rendelethez[^92]
 
 TÁBLÁZAT ÉS MAGYARÁZAT A BETEGSÉGEK ÉS FOGYATÉKOSSÁGOK EGÉSZSÉGI ALKALMASSÁGI FOKOZATÁNAK MEGÁLLAPÍTÁSÁHOZ
 
@@ -2716,5 +2716,5 @@ d) K: 4, 6, 11–15, 17–18, 21; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el. Kivételt képezhet – baleset körülményeitől függően – a toxicus vesekárosodás.
 
-[^90]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
-[^91]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja szerint módosított szöveg. [E módosító rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]
+[^91]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
+[^92]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja szerint módosított szöveg. [E módosító rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]

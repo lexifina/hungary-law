@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-7-20-15
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2006-7-20-15.3 | 7/2006. (III. 21.) HM rendelet |
+| 2011-11-05 | 2006-7-20-15.4 | 14/2011. (X. 28.) HM rendelet |
