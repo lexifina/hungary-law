@@ -3918,4 +3918,4 @@ B A kisgyermek környezetében elvárt higiénés követelmények
 
 B A fertőző betegségek megelőzésében alkalmazott eljárások
 
-[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése, a 61/2011. (XI. 3.) NEFMI rendelet 1. §-a szerint módosított szöveg.
