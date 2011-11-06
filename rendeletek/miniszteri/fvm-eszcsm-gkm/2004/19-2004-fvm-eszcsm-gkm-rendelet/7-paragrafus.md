@@ -86,6 +86,8 @@ c) aszpartámot tartalmazó élelmiszerek jelölésén a „fenil-alanin forrás
 
 d) 10%-nál több hozzáadott poliolt tartalmazó élelmiszerek jelölésén a „nagyobb mennyiség fogyasztása hashajtó hatású” kifejezést.
 
+(16)[^12] A 4. számú melléklet jelölési előírásainak nem megfelelő, 2012. június 30-a előtt forgalomba hozott vagy felcímkézett, a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről (az egységes közös piacszervezésről szóló rendelet) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet XIb. mellékletében meghatározott borok, amelyek a 4. számú melléklet 2007. november 24-én hatályos előírásait kielégítik, a készletek kimerüléséig forgalomba hozhatók.
+
 [^5]: A 7. § a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. §-ának (5) bekezdése alapján a 7. § (1)–(13) bekezdéseiben meghatározott új rendelkezéseknek nem megfelelő jelölésű termékek 2005. november 25-ig előállíthatóak, és az eddig előállított termékek 2005. november 25. után is forgalomba hozhatóak.
 [^6]: A 7. § (4) bekezdése a 105/2009. (VIII. 14.) FVM rendelet 2. §-ával megállapított szöveg.
 [^7]: A 7. § (5) bekezdés b) pontja a 105/2009. (VIII. 14.) FVM rendelet 3. §-ával megállapított szöveg.
@@ -93,3 +95,4 @@ d) 10%-nál több hozzáadott poliolt tartalmazó élelmiszerek jelölésén a �
 [^9]: A 7. § (10) bekezdés d) pontját a 105/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be. E módosító rendelet 9. § (6) bekezdése alapján a 7. § (10) bekezdés d) pontjában meghatározott jelölési előírásnak nem megfelelő élelmiszerek 2010. január 20-ig előállíthatók, és az addig előállított termékek 2010. január 20-a után is forgalomba hozhatók.
 [^10]: A 7. § (14) bekezdése a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 6. § (6) bekezdése alapján a 7. § (14) bekezdésében meghatározott előírásoknak nem megfelelő jelölésű termékek 2006. május 20-ig előállíthatóak, és az eddig előállított termékek 2006. május 20-át követően is forgalomba hozhatóak.
 [^11]: A 7. § (15) bekezdését a 4/2010. (VII. 5.) VM rendelet 9. § (1) bekezdése iktatta be.
+[^12]: A 7. § (16) bekezdését a 101/2011. (XI. 5.) VM rendelet 1. §-a iktatta be.

@@ -32,6 +32,6 @@
 
 3. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
 
-együttes rendelethez[^36]
+együttes rendelethez[^38]
 
-[^36]: A 3. számú melléklet a 26/2010. (III. 19.) FVM rendelet 3. §-ával megállapított szöveg.
+[^38]: A 3. számú melléklet a 26/2010. (III. 19.) FVM rendelet 3. §-ával megállapított szöveg.

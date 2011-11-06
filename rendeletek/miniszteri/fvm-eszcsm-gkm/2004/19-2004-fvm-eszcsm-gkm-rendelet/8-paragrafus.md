@@ -22,7 +22,7 @@ a) arra az összetevőre vagy az összetevők egy csoportjára,
 
 b) ahol más jogszabály pontosan meghatározza egy adott élelmiszerben az összetevő vagy az összetevők egy csoportjának a mennyiségét anélkül, hogy annak mennyiségét a jelölésben fel kellene tüntetni;
 
-c)[^12] a 7. § (7) bekezdésének d) és e) pontjában meghatározott esetekben.
+c)[^13] a 7. § (7) bekezdésének d) és e) pontjában meghatározott esetekben.
 
 (4) A (2) bekezdés a) és b) pontjait nem kell alkalmazni, ha
 
@@ -40,4 +40,4 @@ b) a hozzáadott vitaminok és ásványi anyagok esetében a mennyiségi adatok 
 
 (9) Az (1) bekezdés szerinti jelölést a megnevezésben, a megnevezés után vagy az összetevők felsorolásánál az adott összetevő vagy az összetevők csoportjához kapcsolva kell feltüntetni.
 
-[^12]: A 8. § (3) bekezdésének c) pontja a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 2. §-ával megállapított szöveg.
+[^13]: A 8. § (3) bekezdésének c) pontja a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 2. §-ával megállapított szöveg.
