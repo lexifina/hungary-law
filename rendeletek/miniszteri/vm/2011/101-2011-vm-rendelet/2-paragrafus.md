@@ -1,3 +1,0 @@
-## 1. § Az élelmiszerek jelöléséről szóló 19/2004. (II. 26.) FVM–ESZCSM–GKM együttes rendelet (a továbbiakban: R.) 7. §-a a következő (16) bekezdéssel egészül ki:
-
-## „(16) A 4. számú melléklet jelölési előírásainak nem megfelelő, 2012. június 30-a előtt forgalomba hozott vagy felcímkézett, a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről (az egységes közös piacszervezésről szóló rendelet) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet XIb. mellékletében meghatározott borok, amelyek a 4. számú melléklet 2007. november 24-én hatályos előírásait kielégítik, a készletek kimerüléséig forgalomba hozhatók.”
