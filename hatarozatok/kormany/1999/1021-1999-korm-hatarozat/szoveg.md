@@ -1,1 +1,0 @@
-A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. §-ának (3) bekezdésében kapott felhatalmazás alapján a Kormány a Miniszterelnöki Hivatalt vezető miniszter részére az e törvény 87. §-ának (1) bekezdésében foglalt rendelet megalkotása alól felmentést ad.
