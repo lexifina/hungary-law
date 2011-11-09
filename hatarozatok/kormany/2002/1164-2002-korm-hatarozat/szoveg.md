@@ -1,1 +1,0 @@
-A Kormány a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 2. §-ának (2) bekezdése alapján dr. Barát Gábort, az Országos Nyugdíjbiztosítási Főigazgatóság főigazgatójává – 2002. október 1-jei hatállyal – kinevezi.
