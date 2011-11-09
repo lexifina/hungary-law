@@ -1,1 +1,0 @@
-A Kormány a kulturális és sporttörténelmi hagyományokhoz méltó, gazdaságilag stabil, a kulturális élet szerves részeként a magyar társadalom széles rétegei számára kulturált szórakozási és játék lehetőséget nyújtó nemzetközi színvonalú lóversenysport megteremtése, valamint a magyar tenyész és futó versenyló-állomány folyamatos fejlődésének biztosítása érdekében
