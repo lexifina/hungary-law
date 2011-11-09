@@ -1,5 +1,0 @@
-A Kormány
-
-1. az államháztartásról szóló 1992. évi XXXVIII. törvény 33. § (1) bekezdése és a 42. § (1) bekezdése, valamint a Magyar Köztársaság 2004. évi költségvetéséről szóló 2003. évi CXVI. törvény 37. § (1) bekezdése alapján 1.632.600 euró (406.912.692 Ft az MNB július 15-i hivatalos árfolyamán) összeghatárig egyedi, készfizető kezességet vállal a „Bethlen Gábor fejedelemi ajándéka Gusztáv Adolf királynak” című kiállítás Magyar Tudományos Akadémián, majd a Magyar Nemzeti Múzeumban történő bemutatásához, 2004. október 12. és 2005. március 31. közötti időtartamra, a Magyar Tudományos Akadémia, a Magyar Nemzeti Múzeum, valamint a Svéd Királyi Fegyvertár és Kincstár között létrejött kölcsönzési szerződésben foglaltaknak megfelelően, a kiállításra külföldről kölcsönzött műtárgyakban esetlegesen bekövetkező, a kölcsönzési szerződésben meghatározott károk megtérítésére;
-
-2. a kiállítás megrendezéséhez fűződő nemzeti érdekre tekintettel elengedi a kezességvállalási díjat. Az így megmaradó összeget a Magyar Tudományos Akadémia kulturális és tudományos célokra fordíthatja.
