@@ -78,7 +78,7 @@
 
 37. TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (200 m) a terep felszíne felett;
 
-38.[^8] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^14] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt rövidítés;
 
@@ -88,4 +88,4 @@
 
 42. WGS-84 (World Geodetic System '84): az 1984-ben elfogadott világméretű geodéziai referenciarendszer jelölésére használt rövidítés.
 
-[^8]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.

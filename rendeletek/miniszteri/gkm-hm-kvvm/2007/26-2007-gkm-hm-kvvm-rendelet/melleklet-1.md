@@ -1,5 +1,5 @@
 1. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^10]
+együttes rendelethez[^17]
 
-[^10]: Az 1. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a szerint módosított szöveg.

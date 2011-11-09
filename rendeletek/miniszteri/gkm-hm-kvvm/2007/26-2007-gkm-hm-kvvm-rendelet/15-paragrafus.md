@@ -1,45 +1,15 @@
 ## Az eseti légtér igénylése
 
-15. § (1)[^4] A magyar légtér igénybevételéről szóló kormányrendeletben meghatározott eseti légtér kijelölése iránti kérelmet a (3) bekezdésben foglalt adatok megadásával, legalább húsz nappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
+15. §[^8] (1) A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott eseti légtér kijelölése iránti kérelmet harminc nappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
 
-(2) Eseti légteret a légiközlekedés biztonságának védelme érdekében kell igényelni:
+(2) Az eseti légterek kijelölése során a katonai légügyi hatóság egyidejűleg nem jelölhet ki olyan eseti légtereket, amelyek térben és időben átfedik egymást.
 
-a) kijelölt veszélyes légtereken kívül, különböző lövedékek, rakéták tervezett fellövése, valamint olyan eszközök légtérbe juttatása esetén, amelyek tömegüknél, kisugárzott energiájuknál vagy egyéb tulajdonságaiknál fogva a repülés biztonságára, vagy az élet- és vagyonbiztonságra veszélyt jelenthetnek;
+(3) Az eseti légteret – a (4) bekezdésben foglalt eltéréssel – a légtér kijelölés indokául szolgáló esemény, rendezvény időtartamára lehet kijelölni.
 
-b) a légi bemutatókhoz, repülősport-rendezvényekhez, ejtőernyős ugráshoz;
+(4) Az eseti légteret a 15/A. § (1) bekezdés d) pontjában meghatározott esetben egy évben legfeljebb két alkalommal, alkalmanként 90 napra lehet kijelölni. Harmadik alkalommal az eseti légteret akkor lehet kijelölni, ha ezzel egyidejűleg a kérelmező kezdeményezte az 1/A–1/D. § szerinti légtér-kijelölést.
 
-c) a külön légtér-igénybevétellel járó katonai gyakorlatokhoz, amennyiben azok időszakosan korlátozott és veszélyes légterekben nem hajthatók végre;
+(5) Amennyiben az eseti légtér kijelölését a kérelmező ellenőrzött légtérben vagy olyan légtérben kezdeményezi, ahol műszer szerinti repülési eljárás engedélyezett, a kérelemhez a kérelmezőnek mellékelnie kell a 2150/2005/EK bizottsági rendelet 7. cikkében meghatározott biztonsági elemzést a 4. melléklet 3.2. és 3.6. pontjában foglalt tartalmi követelmények szerint.
 
-d) minden olyan esetben, amikor az élet- és vagyonbiztonság, valamint a légiközlekedés biztonságának védelme érdekében szükséges.
+(6) Amennyiben az eseti légteret olyan légtéren belül tervezik kijelölni, amelyben műszer szerinti repülés engedélyezett, a kérelemhez mellékelni kell az illetékes légiforgalmi szolgáltató véleményét a közzétett repülési eljárások biztonságos végrehajthatóságáról az eseti légtér kijelölése esetén.
 
-(3) Az eseti légtér kijelölésére vonatkozó kérelemnek tartalmaznia kell:
-
-a) a légtér oldalhatárait WGS-84 rendszerű földrajzi koordináták szerint;
-
-b) a légtér-igénybevétel dátumát, a kezdés és befejezés időpontját (UTC-ben);
-
-c) a légtér igényelt alsó és felső határát;
-
-d) a légtérigénylés indokát;
-
-e) a légtérben a légiforgalom szervezéséért felelős személy vagy szolgálat megnevezését és elérhetőségét;
-
-f) a légtérigénylő – a tevékenység szervezéséért – felelős személy nevét és elérhetőségét.
-
-(4)[^5] Az engedélyt a katonai légügyi hatóság adja ki, legfeljebb harminc naptári nap időtartamra. Amennyiben az eseti légteret részben vagy egészben ellenőrzött légiforgalmi légtéren belül tervezik kijelölni, a légiközlekedési hatóság beszerzi az illetékes légiforgalmi szolgáltató véleményét.
-
-(5) Az eseti légtér kijelölésére vonatkozó határozatnak tartalmaznia kell:
-
-a) a légtér oldalhatárait WGS-84 rendszerű földrajzi koordináták szerint;
-
-b) a légtér-igénybevétel dátumát, a kezdés és befejezés időpontját (UTC-ben);
-
-c) az igényelt légtér alsó és felső határát;
-
-d) a légtérben a légiforgalom szervezéséért felelős személy vagy szolgálat megnevezését és elérhetőségét.
-
-(6)[^6] A katonai légügyi hatóság az (5) bekezdésben foglalt adatokat – közzététel céljából – a légtér működésének megkezdése előtt legkésőbb 7 nappal megküldi a légiforgalmi tájékoztató szolgálatnak.
-
-[^4]: A 15. § (1) bekezdése a 37/2010. (V. 4.) KHEM rendelet 2. § (1) bekezdésével megállapított, a 34/2010. (XII. 30.) NFM rendelet 1. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^5]: A 15. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 6. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: A 15. § (6) bekezdése a 37/2010. (V. 4.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 15. § az 56/2011. (XI. 8.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
