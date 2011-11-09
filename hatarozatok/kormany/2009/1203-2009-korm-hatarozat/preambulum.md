@@ -1,1 +1,0 @@
-A Kormány a minisztériumok igazgatása személyi juttatását érintő intézkedésekről szóló 1130/2009. (VII. 31.) Korm. határozat (a továbbiakban: Kormányhatározat) 4. pontjának végrehajtására a következő határozatot hozza.
