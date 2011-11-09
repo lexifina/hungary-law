@@ -1,1 +1,0 @@
-A Kormány a sportról szóló 2004. évi I. törvény 62. § (1)–(2) bekezdései alapján – figyelemmel a Nemzet Sportolója Címről szóló 40/2004. (III. 12.) Korm. rendelet 5. §-ában foglaltakra – Buzánszky Jenő és Grosics Gyula labdarúgók részére a Nemzet Sportolója címet és az azzal járó életjáradékot adományozza.
