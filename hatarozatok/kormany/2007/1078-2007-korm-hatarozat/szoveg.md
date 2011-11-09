@@ -1,1 +1,0 @@
-E határozat közzétételének napján hatályát veszti az Állami Privatizációs és Vagyonkezelő Részvénytársaság Versenyeztetési Szabályzatának jóváhagyásáról szóló 1057/1996. (V. 30.) Korm. határozat, valamint az azt módosító 1058/1997. (V. 28.) Korm. határozat, 1112/1997. (XI. 4.) Korm. határozat, 1100/2003. (X. 3.) Korm. határozat és 1114/2006. (XI. 30.) Korm. határozat.
