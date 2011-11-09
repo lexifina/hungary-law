@@ -1,0 +1,1 @@
+A Kormány a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 28. §-ának (6) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés f) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
