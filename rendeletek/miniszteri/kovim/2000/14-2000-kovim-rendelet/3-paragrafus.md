@@ -110,13 +110,13 @@ Ejtőernyős ugrások – kényszerhelyzet kivételével – csak a légiközlek
 
 2.1.6.1. Budapest FIR-ben ejtőernyős ugrások az alábbi helyeken hajthatók végre:
 
-a) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőtérrend megengedi,
+a) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőtérrend megengedi,
 
-b) olyan katonai légterekben (MCTR, TRA és veszélyes légtér), amelyek alsó magassága megegyezik a földfelszínnel, és
+b) olyan katonai légterekben (MCTR, TRA és veszélyes légtér), amelyek alsó magassága megegyezik a földfelszínnel, és
 
-c) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
+c) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
 
-2.1.6.2. IFR szerint működő légijárművek által végzett megközelítések/leszállások és indulások végrehajtásakor az ellenőrzött és AFIS egységgel rendelkező repülőtereken ejtőernyős ugrások nem hajthatók végre.
+2.1.6.2. IFR szerint működő légijárművek által végzett megközelítések/leszállások és indulások végrehajtásakor az ellenőrzött és AFIS egységgel rendelkező repülőtereken ejtőernyős ugrások nem hajthatók végre.
 
 2.1.7. Műrepülés
 
@@ -124,13 +124,13 @@ Műrepülés csak a légiközlekedési hatóság által előírt feltételek sze
 
 2.1.7.1. Budapest FIR-ben műrepülések az alábbi helyeken hajthatók végre:
 
-a) külön erre a célra kijelölt légterekben,
+a) külön erre a célra kijelölt légterekben,
 
-b) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőtérrend megengedi,
+b) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőtérrend megengedi,
 
-c) időszakosan korlátozott légterekben, és
+c) időszakosan korlátozott légterekben, és
 
-d) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
+d) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
 
 2.1.7.2. A műrepülések végrehajtása során, a külön erre a célra kijelölt légtérben csak a feladatot végrehajtó légijármű, vagy légijárművek tartózkodhat(nak).
 
@@ -342,7 +342,7 @@ d) a fel- és leszállást széllel szemben végrehajtani, hacsak biztonsági, f
 
 2.2.5.3. Budapest FIR forgalmi tájékoztató körzeteiben (TIZ) a légijárműveknek a „K” Függelékben előírt módon kell működniük.
 
-2.2.5.4. A Budapest TMA-ban és a Budapest-Ferihegyi CTR-ben történő működés során be kell tartani az „L” Függelék külön előírásait.
+2.2.5.4. A Budapest TMA-ban és a Budapest CTR-ben történő működés során be kell tartani az „L” Függelék külön előírásait.
 
 2.2.6. Légijárművek vízen történő működésének szabályai
 
@@ -378,23 +378,23 @@ Megjegyzés: A vízen működő légijárművek fényeinek jellemzőit az ICAO 6
 
 2.3.1.2. Budapest FIR-ben repülési tervet kell benyújtani:
 
-a) valamennyi IFR repülésre,
+a) valamennyi IFR repülésre,
 
-b) valamennyi államhatárt keresztező repülésre,
+b) valamennyi államhatárt keresztező repülésre,
 
-c) állami légijárművel MCTR-n, MTMA-n, időszakosan korlátozott légtéren kívül végrehajtott repülésekre,
+c) állami légijárművel MCTR-n, MTMA-n, időszakosan korlátozott légtéren kívül végrehajtott repülésekre,
 
-d) az államhatár menti korlátozott légtérben tervezett repülésekre, a mezőgazdasági munkarepülések kivételével,
+d)
 
-e) az ellenőrzött légtere(ke)t érintő repülésekre,
+e) az ellenőrzött légtere(ke)t érintő repülésekre,
 
-f) az éjszakai VFR repülésekre,
+f) az éjszakai VFR repülésekre,
 
-g) vitorlázó felhőrepülésekre, és
+g) vitorlázó felhőrepülésekre, és
 
-h) repülőtéri irányító körzettel rendelkező polgári repülőterek légtereit (CTR, CTA) érintő repülésekre, a repülőtéri légiforgalmi irányító szolgálat AIP-ben közzétett működési idején kívüli időszakban,
+h) repülőtéri irányító körzettel rendelkező polgári repülőterek légtereit (CTR, CTA) érintő repülésekre, a repülőtéri légiforgalmi irányító szolgálat AIP-ben közzétett működési idején kívüli időszakban,
 
-i) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendeletben az MCTR-ek üzemidején kívüli polgári repülésre megállapított esetekben.
+i) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendeletben az MCTR-ek üzemidején kívüli polgári repülésre megállapított esetekben.
 
 Az ellenőrzött légtéren kívül működő polgári VFR repülések számára repülési terv benyújtása, az a)–h) pontokban szereplő esetek kivételével nem kötelező, a légijármű vezetője azonban jogosult repülési tervet benyújtani annak érdekében, hogy részére repüléstájékoztató és riasztó szolgálatot biztosítsanak.
 
@@ -998,7 +998,7 @@ címre kell továbbítani.
 
 2.11.5.2. Leszálló légijárművek esetén a jelentést a légiforgalmi szolgálatok bejelentő irodájában rendelkezésre álló „BIRD STRIKE REPORTING FORM” (BSRF) nyomtatvány kitöltésével írásban is meg kell tenni.
 
-2.11.5.3. Ha az esemény felszállás után következik be és a személyzet nem tartja szükségesnek a repülés megszakítását, rádión értesítse a repülőtéri irányító tornyot, majd a rendeltetési repülőtéren töltse ki a BSRF-t és Budapest-Ferihegyről történő indulás esetén továbbítsa a HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság címére.
+2.11.5.3. Ha az esemény felszállás után következik be és a személyzet nem tartja szükségesnek a repülés megszakítását, rádión értesítse a repülőtéri irányító tornyot, majd a rendeltetési repülőtéren töltse ki a BSRF-t és a „Budapest Liszt Ferenc Nemzetközi Repülőtérről történő indulás esetén továbbítsa a HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság címére.
 
 2.12. Helyi előírások
 
@@ -1028,35 +1028,35 @@ Budapest FIR-be belépő VFR repülésnek legkésőbb 10 perccel a FIR határ ke
 
 Megjegyzés: A terepre szállás lehetőségeit a légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtására kiadott 141/1995. (XI. 30.) Korm. rendelet tartalmazza.
 
-2.13. Katonai légi folyosók
+2.13. Katonai légi folyosók
 
-2.13.1. A katonai légi folyosók működési ideje
+2.13.1. A katonai légi folyosók működési ideje
 
-2.13.1.1. Közzétett működési időszak az az időtartam, amelyen belül a katonai légi folyosókban állami légijármű repülhet. A közzétett működési időszakon belüli tényleges működési időszakról a Magyar Honvédség tájékoztatja a Budapest ATS Központot a végrehajtást megelőző nap 16.00 óráig (helyi idő). A tényleges működési időszakban minden egyes légi folyosó szakasz, „aktív” vagy „nem aktív” működési állapottal rendelkezik, amely az abban repülő állami légijárművek helyzetének megfelelően változik.
+2.13.1.1. Közzétett működési időszak az az időtartam, amelyen belül a katonai légi folyosókban állami légijármű repülhet. A közzétett működési időszakon belüli tényleges működési időszakról a Magyar Honvédség tájékoztatja a Budapest ATS Központot a végrehajtást megelőző nap 16.00 óráig (helyi idő). A tényleges működési időszakban minden egyes légi folyosó szakasz, „aktív” vagy „nem aktív” működési állapottal rendelkezik, amely az abban repülő állami légijárművek helyzetének megfelelően változik.
 
 Megjegyzés: A katonai légi folyosókat, illetve azok közzétett működési időszakait a magyar AIP tartalmazza.
 
-2.13.2. A katonai légi folyosók GAT szabályok szerint működő légijárművel történő átrepülése
+2.13.2. A katonai légi folyosók GAT szabályok szerint működő légijárművel történő átrepülése
 
-2.13.2.1. A légijármű vezetője a repülést megelőzően köteles előzetesen tájékozódni a tervezett repülési útvonala által érintett katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok tényleges működési időszakairól. Tájékoztatást a Budapest ATS Központtól kérhet a közzétett telefonszámon vagy az erre kialakított módon.
+2.13.2.1. A légijármű vezetője a repülést megelőzően köteles előzetesen tájékozódni a tervezett repülési útvonala által érintett katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok tényleges működési időszakairól. Tájékoztatást a Budapest ATS Központtól kérhet a közzétett telefonszámon vagy az erre kialakított módon.
 
-2.13.2.2. A légijármű vezetőjének a katonai légi folyosóba történő belépés előtt legalább 5 perccel be kell szereznie a körzeti repüléstájékoztató szolgálat illetékes egységétől a katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok „aktív” vagy „nem aktív” működési állapotára vonatkozó tájékoztatást. A tájékoztatás kérésekor a légijármű vezetőnek közölnie kell a repülés során érintett katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok azonosítóját és az átrepülés tervezett be- és kilépésének időpontját.
+2.13.2.2. A légijármű vezetőjének a katonai légi folyosóba történő belépés előtt legalább 5 perccel be kell szereznie a körzeti repüléstájékoztató szolgálat illetékes egységétől a katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok „aktív” vagy „nem aktív” működési állapotára vonatkozó tájékoztatást. A tájékoztatás kérésekor a légijármű vezetőnek közölnie kell a repülés során érintett katonai légi folyosó, illetve légi folyosó szakasz vagy szakaszok azonosítóját és az átrepülés tervezett be- és kilépésének időpontját.
 
-2.13.2.3. A ténylegesen működő katonai légi folyosó valamely légi folyosó szakaszát a légijármű kizárólag abban az esetben repülheti át, ha egyértelmű tájékoztatást kapott arról, hogy az átrepülni kívánt légi folyosó szakasz vagy szakaszok „nem aktív” működési állapotúak és a légijármű-vezető úgy számítja, hogy az átrepülés a „nem aktív” működési időszakon belül végrehajtható.
+2.13.2.3. A ténylegesen működő katonai légi folyosó valamely légi folyosó szakaszát a légijármű kizárólag abban az esetben repülheti át, ha egyértelmű tájékoztatást kapott arról, hogy az átrepülni kívánt légi folyosó szakasz vagy szakaszok „nem aktív” működési állapotúak és a légijármű-vezető úgy számítja, hogy az átrepülés a „nem aktív” működési időszakon belül végrehajtható.
 
-2.13.2.4. ,,Aktív” működési állapotú katonai légi folyosó szakaszba berepülni tilos.
+2.13.2.4. ,,Aktív” működési állapotú katonai légi folyosó szakaszba berepülni tilos.
 
-2.13.2.5. A katonai légi folyosó szakasz átrepülése során a légijárműnek kétoldalú rádióösszeköttetést kell tartania a körzeti repüléstájékoztató szolgálat illetékes egységével és a katonai légi folyosó szakasz átrepülésének megkezdését és befejezését jelenteni kell a körzeti repüléstájékoztató szolgálat illetékes egységének. A katonai légi folyosó szakasz átrepülését a legrövidebb időn belül és a legrövidebb útvonalon kell végrehajtani.
+2.13.2.5. A katonai légi folyosó szakasz átrepülése során a légijárműnek kétoldalú rádióösszeköttetést kell tartania a körzeti repüléstájékoztató szolgálat illetékes egységével és a katonai légi folyosó szakasz átrepülésének megkezdését és befejezését jelenteni kell a körzeti repüléstájékoztató szolgálat illetékes egységének. A katonai légi folyosó szakasz átrepülését a legrövidebb időn belül és a legrövidebb útvonalon kell végrehajtani.
 
-2.13.2.6. A kétoldalú rádióösszeköttetés megszakadása esetén a légijármű köteles a lehető legrövidebb időn belül a katonai légi folyosó szakaszt elhagyni és erről a körzeti repüléstájékoztató szolgálat illetékes egységét értesíteni.
+2.13.2.6. A kétoldalú rádióösszeköttetés megszakadása esetén a légijármű köteles a lehető legrövidebb időn belül a katonai légi folyosó szakaszt elhagyni és erről a körzeti repüléstájékoztató szolgálat illetékes egységét értesíteni.
 
-2.13.2.7. A rádióösszeköttetés megszakadásának tényét a körzeti repüléstájékoztató szolgálat köteles haladéktalanul jelezni a katonai légvédelmi irányító szolgálatnak.
+2.13.2.7. A rádióösszeköttetés megszakadásának tényét a körzeti repüléstájékoztató szolgálat köteles haladéktalanul jelezni a katonai légvédelmi irányító szolgálatnak.
 
-2.13.2.8. A légvédelmi irányító szolgálat biztosítja a kényszerhelyzetben lévő, a kutató-mentő és mentőrepüléseket, valamint a közrendet, illetve közbiztonságot súlyosan sértő cselekmények felszámolására irányuló rendészeti célú repüléseket végrehajtó légijármű biztonságos átrepülését a katonai légi folyosókban.
+2.13.2.8. A légvédelmi irányító szolgálat biztosítja a kényszerhelyzetben lévő, a kutató-mentő és mentőrepüléseket, valamint a közrendet, illetve közbiztonságot súlyosan sértő cselekmények felszámolására irányuló rendészeti célú repüléseket végrehajtó légijármű biztonságos átrepülését a katonai légi folyosókban.
 
-2.13.3. Együttműködés a katonai légvédelmi irányító szolgálat és a Budapest ATS Központ között
+2.13.3. Együttműködés a katonai légvédelmi irányító szolgálat és a Budapest ATS Központ között
 
-2.13.3.1. A katonai légvédelmi irányító szolgálat és Budapest ATS Központ a katonai légi folyosók igénybevételének tényleges idejére vonatkozó tájékoztatások módját és eljárásait együttműködési megállapodásban rögzítik.
+2.13.3.1. A katonai légvédelmi irányító szolgálat és Budapest ATS Központ a katonai légi folyosók igénybevételének tényleges idejére vonatkozó tájékoztatások módját és eljárásait együttműködési megállapodásban rögzítik.
 
 3. Fejezet
 
@@ -1168,33 +1168,31 @@ c) amennyiben FL195 (5950 m STD) felett, ellenőrzött légtérben működő VFR
 
 3.6. Rádióberendezéssel és transzponderrel történő felszereltségi követelmények
 
-3.6.1. A 117,975-137,000 MHz frekvenciasávban működő, 25 kHz vagy kisebb csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni:
+3.6.1. A 117,975–137,000 MHz frekvenciasávban működő, 25 kHz vagy kisebb csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni:
 
 – ellenőrzött légtérben működő,
 
 – az éjszakai VFR repülést végző,
 
-– az államhatárt keresztező, valamint
-
-– az államhatár menti korlátozott légtérben útvonalrepülést végző VFR légijárműveket.
+– az államhatárt keresztező légi járműveket.
 
 3.6.2. ,,A” vagy „C” módú 4096 kódbeállítási lehetőséggel rendelkező transzponderrel kell felszerelni azokat a légijárműveket, amelyek VFR szerint:
 
-a) államhatárt keresztező repülést hajtanak végre,
+a) államhatárt keresztező repülést hajtanak végre,
 
-b) ellenőrzött légterekben működnek, kivéve a 3.6.3. pontban leírtakat,
+b) ellenőrzött légterekben működnek, kivéve a 3.6.3. pontban leírtakat,
 
-c) 4000 láb (1200 m) AMSL feletti nem ellenőrzött légtérben működnek.
+c) 4000 láb (1200 m) AMSL feletti nem ellenőrzött légtérben működnek.
 
-3.6.2.1. A 3.6.2. pont c) pontja alól kivételt képeznek az indulási repülőtér forgalmi körét, légterét és az LHSG.. légteret elhagyó hajtómű nélküli légijárművek, ha repülésükről a FIS-t előzetesen tájékoztatták, valamint az LHSG.. légterekben működő légijárművek.
+3.6.2.1. A 3.6.2. pont c) pontja alól kivételt képeznek az indulási repülőtér forgalmi körét, légterét és az LHSG.. légteret elhagyó hajtómű nélküli légijárművek, ha repülésükről a FIS-t előzetesen tájékoztatták, valamint az LHSG.. légterekben működő légijárművek.
 
-1. Megjegyzés: Az ellenőrzött légtéren kívül, 4000 láb (1200 m) AMSL alatti VFR repülések számára a transzponderrel történő felszereltség nincs kötelezően előírva, azonban ajánlatos ezeket a légijárműveket is felszerelni transzponderrel, annak érdekében, hogy ezekről a repülésekről is radaron alapuló forgalmi tájékoztatás legyen adható a többi légijármű-vezető számára.
+1. Megjegyzés: Az ellenőrzött légtéren kívül, 4000 láb (1200 m) AMSL alatti VFR repülések számára a transzponderrel történő felszereltség nincs kötelezően előírva, azonban ajánlatos ezeket a légijárműveket is felszerelni transzponderrel, annak érdekében, hogy ezekről a repülésekről is radaron alapuló forgalmi tájékoztatás legyen adható a többi légijármű-vezető számára.
 
-2. Megjegyzés: A transzponderek működtetésére vonatkozó előírásokat a „H” Függelék tartalmazza.
+2. Megjegyzés: A transzponderek működtetésére vonatkozó előírásokat a „H” Függelék tartalmazza.
 
-3. Megjegyzés: A VFR szerint működő légijárművek „S” módú transzponderrel történő felszerelési kötelezettségéről lásd a 4.4.3.1. pontot.
+3. Megjegyzés: A VFR szerint működő légijárművek „S” módú transzponderrel történő felszerelési kötelezettségéről lásd a 4.4.3.1. pontot.
 
-4. Megjegyzés: Az előzetes tájékoztatás célja, hogy a FIS a hajtómű nélküli légijárművekről, az „F” légtérben repülő, repülési tervvel rendelkező légijárművek részére forgalmi tájékoztatást tudjon adni.
+4. Megjegyzés: Az előzetes tájékoztatás célja, hogy a FIS a hajtómű nélküli légijárművekről, az „F” légtérben repülő, repülési tervvel rendelkező légijárművek részére forgalmi tájékoztatást tudjon adni.
 
 3.6.3. „C” módú 4096 kódbeállítási lehetőséggel rendelkező transzponderrel kell felszerelni azokat a VFR légi járműveket, amelyek FL195 (5950 m STD) felett működnek.
 
@@ -1638,7 +1636,7 @@ A jobb kézben lévő beállító botot a váll irányából a térd felé és v
 
 22. Álljon meg/Várakozzon
 
-A kinyújtott karok és beállító botok oldalra 45º-os szögben lefelé mutatnak. Ebben a helyzetben maradnak addig, amíg a légijármű a következő manőver végrehajtását elkezdheti.
+A kinyújtott karok és beállító botok oldalra 45º-os szögben lefelé mutatnak. Ebben a helyzetben maradnak addig, amíg a légijármu a következő manőver végrehajtását elkezdheti.
 
 23. A légijármű elbocsátása
 
@@ -1666,7 +1664,7 @@ Mindkét kar oldalsó középtartásban, majd a karokat könyökben behajlítva 
 
 29. Lépcső leengedése/felhúzása (technikai/karbantartói összeköttetés jelzés)
 
-Jobb kar oldalt és a balkart a fej fölé emelni 45º-os szögben, a jobb kart lendítő mozdulattal a bal vállhoz emelni.
+Jobb kar oldalt és a balkart a fej fölé emelni 45º-os szögben, a jobb kart lendíto mozdulattal a bal vállhoz emelni.
 
 Megjegyzés: Ez a jelzés főleg azon légijárműveknek szól, melyek a törzs elülső részében beépített lépcsővel rendelkeznek.
 
@@ -1870,7 +1868,7 @@ Amennyiben polgári légijárművet ismeretlen repülőtéren való leszállásr
 
 Különösen fontos, hogy rádiótávbeszélő segítségével adják meg az elfogott légijárműnek a biztonságos megközelítés és leszállás végrehajtásához szükséges összes tájékoztatást.
 
-Megjegyzés: A Magyar Köztársaság légterében elfogott polgári légijárműveket, az elfogó légijárműveknek rendes körülmények között (amikor ehhez a feltételek adottak), Budapest-Ferihegy repülőtérre kell kísérni, és leszállításukat elsősorban erre a repülőtérre kell végrehajtani.
+Megjegyzés: A Magyar Köztársaság légterében elfogott polgári légijárműveket, az elfogó légijárműveknek rendes körülmények között (amikor ehhez a feltételek adottak), Budapest Liszt Ferenc Nemzetközi Repülőtérre kell kísérni, és leszállításukat elsősorban erre a repülőtérre kell végrehajtani.
 
 4.6. Levegőben alkalmazott látjelek
 
@@ -2188,73 +2186,73 @@ I. RÉSZ
 
 A REPÜLÉSI TERV CÉLJA ÉS BENYÚJTÁSÁNAK SZABÁLYAI
 
-1. A repülési terv célja
+1. A repülési terv célja
 
 Megjegyzés: A „repülési terv” kifejezés jelentheti a teljes repülési tervet, amely tartalmazza a repülési terv leírásban szereplő valamennyi információt a repülés teljes útvonalára vagy lehet korlátozott tájékoztatás, amely akkor alkalmazható, ha a benyújtás célja, pl. egy ellenőrzött repülőtérről történő indulási, leszállási vagy ellenőrzött légtér keresztezésére vonatkozó engedély beszerzése.
 
-1.1. A repülési terv a légijármű-vezetőnek valamely repülés végrehajtására vonatkozó szándékát tartalmazza, olyan részletességgel, amely a nyújtott légiforgalmi szolgáltatások szempontjából szükséges.
+1.1. A repülési terv a légijármű-vezetőnek valamely repülés végrehajtására vonatkozó szándékát tartalmazza, olyan részletességgel, amely a nyújtott légiforgalmi szolgáltatások szempontjából szükséges.
 
-1.2. A repülési terv benyújtásának elsődleges célja a légiforgalmi szolgálati egységek előzetes értesítése egy tervezett repülés lényeges adatairól annak érdekében, hogy a légijármű számára légiforgalmi szolgálatokat biztosíthassanak, beleértve a légijármű kényszerhelyzete, eltűnése esetén a szükséges intézkedések megtételét, illetve a kutatás-mentés kellő időben történő megindítását is.
+1.2. A repülési terv benyújtásának elsődleges célja a légiforgalmi szolgálati egységek előzetes értesítése egy tervezett repülés lényeges adatairól annak érdekében, hogy a légijármű számára légiforgalmi szolgálatokat biztosíthassanak, beleértve a légijármű kényszerhelyzete, eltűnése esetén a szükséges intézkedések megtételét, illetve a kutatás-mentés kellő időben történő megindítását is.
 
-1.3. A repülési terv benyújtásával nem elégíthető ki a rendeltetési repülőtér előzetes tájékoztatási igénye (pl. földi kiszolgálás, vám, határforgalom-ellenőrzés). Az előzetes tájékoztatás szükségességét és módját a repülőterek határozzák meg és az AIP-ben teszik közzé. Az AIP-ben való közzététel hiányában a kiszolgálásban érintett szolgálatok igénybevételét a repülőtérrel előzetesen egyeztetni kell.
+1.3. A repülési terv benyújtásával nem elégíthető ki a rendeltetési repülőtér előzetes tájékoztatási igénye (pl. földi kiszolgálás, vám, határforgalom-ellenőrzés). Az előzetes tájékoztatás szükségességét és módját a repülőterek határozzák meg és az AIP-ben teszik közzé. Az AIP-ben való közzététel hiányában a kiszolgálásban érintett szolgálatok igénybevételét a repülőtérrel előzetesen egyeztetni kell.
 
-1.4. A repülési terv alkalmazási céljaiból eredően:
+1.4. A repülési terv alkalmazási céljaiból eredően:
 
-– több leszállással tervezett útvonalrepülések esetén minden egyes repülési szakaszra külön repülési tervet kell benyújtani;
+– több leszállással tervezett útvonalrepülések esetén minden egyes repülési szakaszra külön repülési tervet kell benyújtani;
 
-– ugyanannak a repülési útvonalnak a többszöri lerepüléséhez külön repülési terveket kell benyújtani. Kivételt képeznek ezen szabály alól a le-felszállásokat végrehajtó gyakorló repülések, amelyekre egyetlen repülési tervet kell benyújtani;
+– ugyanannak a repülési útvonalnak a többszöri lerepüléséhez külön repülési terveket kell benyújtani. Kivételt képeznek ezen szabály alól a le-felszállásokat végrehajtó gyakorló repülések, amelyekre egyetlen repülési tervet kell benyújtani;
 
-– ugyanazon légijárműre ugyanazon indulási és rendeltetési repülőtérre azonos tervezett indulási idővel, de eltérő útvonal megadásával repülési terveket nem lehet benyújtani;
+– ugyanazon légijárműre ugyanazon indulási és rendeltetési repülőtérre azonos tervezett indulási idővel, de eltérő útvonal megadásával repülési terveket nem lehet benyújtani;
 
-– a repülési tervben szereplő időadatoknak kellően pontosaknak kell lenniük, általános kifejezések, pl. „napnyugta” nem alkalmazhatók; valamint
+– a repülési tervben szereplő időadatoknak kellően pontosaknak kell lenniük, általános kifejezések, pl. „napnyugta” nem alkalmazhatók; valamint
 
-– kerülni kell az ugyanazon légijárművel, azonos tervezett indulási idővel, de különböző rendeltetési repülőtérre szóló repülési tervek benyújtását.
+– kerülni kell az ugyanazon légijárművel, azonos tervezett indulási idővel, de különböző rendeltetési repülőtérre szóló repülési tervek benyújtását.
 
 Ugyancsak tilos valamely IFR szerint működő légijárműre – az indulási és rendeltetési repülőterektől függetlenül – olyan időtartamú repülésre tervet benyújtani, amely az előző repülési terve alapján még levegőben tartózkodik a második repülési terv szerinti kezdési időpontban.
 
-2. Repülési tervek aktivizálása és lezárása
+2. Repülési tervek aktivizálása és lezárása
 
-2.1. Az ATS egységek általi felhasználásuk során a repülési tervek a repülés megkezdéséről kapott információt követően „aktív” állapotba kerülnek. A levegőből benyújtott repülési tervek azonnal „aktív” állapotúak. A repülés befejezésével vagy a légijármű vezetője zárásra vonatkozó jelentésével a repülési tervek „lezárt” állapotba kerülnek.
+2.1. Az ATS egységek általi felhasználásuk során a repülési tervek a repülés megkezdéséről kapott információt követően „aktív” állapotba kerülnek. A levegőből benyújtott repülési tervek azonnal „aktív” állapotúak. A repülés befejezésével vagy a légijármű vezetője zárásra vonatkozó jelentésével a repülési tervek „lezárt” állapotba kerülnek.
 
-2.2. Ha egy aktív állapotú repülési terv zárása információ hiányában bizonyos időn túl elmarad, az ATS egységek intézkedéseket tesznek a kutatás és mentés megkezdésére. A szükségtelen és költséges kutatási tevékenység elkerülése érdekében rendkívül fontos, hogy a repülési tervet benyújtó légijármű-vezetők a repülési terv lezárására vonatkozó előírásoknak maradéktalanul eleget tegyenek.
+2.2. Ha egy aktív állapotú repülési terv zárása információ hiányában bizonyos időn túl elmarad, az ATS egységek intézkedéseket tesznek a kutatás és mentés megkezdésére. A szükségtelen és költséges kutatási tevékenység elkerülése érdekében rendkívül fontos, hogy a repülési tervet benyújtó légijármű-vezetők a repülési terv lezárására vonatkozó előírásoknak maradéktalanul eleget tegyenek.
 
-2.2.1. Azokon a repülőtereken, ahol ATS egység működik (repülőtéri irányító torony vagy AFIS egység), a repülési tervet a repülőtéri ATS egység a légijármű felszállásakor automatikusan aktivizálja, illetve leszálláskor lezárja, a légijármű vezetőjének ezzel kapcsolatban külön feladata nincs.
+2.2.1. Azokon a repülőtereken, ahol ATS egység működik (repülőtéri irányító torony vagy AFIS egység), a repülési tervet a repülőtéri ATS egység a légijármű felszállásakor automatikusan aktivizálja, illetve leszálláskor lezárja, a légijármű vezetőjének ezzel kapcsolatban külön feladata nincs.
 
-2.2.2. Ha a repülési tervet benyújtott légijármű ATS egység nélküli repülőtéren hajtja végre a felszállást, a repülési terv aktivizálása a repülés megkezdésének rádión vagy telefonon keresztüli bejelentésével is megtehető Budapest ATS Központ repüléstájékoztató egységéhez.
+2.2.2. Ha a repülési tervet benyújtott légijármű ATS egység nélküli repülőtéren hajtja végre a felszállást, a repülési terv aktivizálása a repülés megkezdésének rádión vagy telefonon keresztüli bejelentésével is megtehető Budapest ATS Központ repüléstájékoztató egységéhez.
 
 Ha a repülési tervet benyújtott légijármű nincs rádióberendezéssel felszerelve, a felszállás tényét a légijármű vezetője által megbízott földi személy is elvégezheti, illetve ha erre nincs mód, a légijármű vezetőjének kell telefonon közölnie a várható indulási időt közvetlenül a felszálláshoz történő gurulás megkezdése előtt.
 
-2.2.3. Ha a légijármű ATS egység nélküli repülőtéren vagy terepen kíván leszállni, a repülési tervet a légijármű vezetője a leszállás megkezdésének jelentését tartalmazó rádióközlemény segítségével zárhatja le, ha a tervezett leszállás helyét látja és biztos benne, hogy a leszállás elvégezhető.
+2.2.3. Ha a légijármű ATS egység nélküli repülőtéren vagy terepen kíván leszállni, a repülési tervet a légijármű vezetője a leszállás megkezdésének jelentését tartalmazó rádióközlemény segítségével zárhatja le, ha a tervezett leszállás helyét látja és biztos benne, hogy a leszállás elvégezhető.
 
-2.2.4. Ha a levegőből történő lezárásra nincs mód – pl. a légijármű nincs rádióberendezéssel felszerelve vagy a rádióösszeköttetés megszakadt –, a leszállási jelentést a légijármű vezetőjének telefonon kell haladéktalanul, de mindenképpen a tervezett leszállási időt követő 30 percen belül továbbítania Budapest ATS Központ számára.
+2.2.4. Ha a levegőből történő lezárásra nincs mód – pl. a légijármű nincs rádióberendezéssel felszerelve vagy a rádióösszeköttetés megszakadt –, a leszállási jelentést a légijármű vezetőjének telefonon kell haladéktalanul, de mindenképpen a tervezett leszállási időt követő 30 percen belül továbbítania Budapest ATS Központ számára.
 
 A leszállási jelentésnek a következőket kell tartalmaznia:
 
-a) légijármű azonosító jele;
+a) légijármű azonosító jele;
 
-b) indulási repülőtér (ADEP);
+b) indulási repülőtér (ADEP);
 
-c) rendeltetési repülőtér (ADES);
+c) rendeltetési repülőtér (ADES);
 
-d) leszállás helye (a rendeltetési repülőtértől eltérő helyen való leszállás esetén);
+d) leszállás helye (a rendeltetési repülőtértől eltérő helyen való leszállás esetén);
 
-e) leszállási idő.
+e) leszállási idő.
 
-2.2.5. Ha várható, hogy a repülési terv lezárását a leszállást követő 30 percen belül nem tudják megtenni, a repülési terv „Egyéb tájékoztatások” rovatában nyílt szöveggel tüntessék fel a lezárási jelentés legkésőbbi időpontját.
+2.2.5. Ha várható, hogy a repülési terv lezárását a leszállást követő 30 percen belül nem tudják megtenni, a repülési terv „Egyéb tájékoztatások” rovatában nyílt szöveggel tüntessék fel a lezárási jelentés legkésőbbi időpontját.
 
-2.3. Ha egy repülési tervet benyújtott, ellenőrzött légtéren kívül működő, repülési terv benyújtására egyébként nem kötelezett légijármű vezetője úgy határoz, hogy a továbbiakban repüléstájékoztató és riasztószolgálat biztosítását nem igényli, szándékát a „zárom a repülési tervemet” kifejezéssel kell továbbítania a légijárművel rádióösszeköttetésben lévő ATS egységnek.
+2.3. Ha egy repülési tervet benyújtott, ellenőrzött légtéren kívül működő, repülési terv benyújtására egyébként nem kötelezett légijármű vezetője úgy határoz, hogy a továbbiakban repüléstájékoztató és riasztószolgálat biztosítását nem igényli, szándékát a „zárom a repülési tervemet” kifejezéssel kell továbbítania a légijárművel rádióösszeköttetésben lévő ATS egységnek.
 
-3. A repülési tervek benyújtási szabályai
+3. A repülési tervek benyújtási szabályai
 
-3.1. Ismétlődő repülési tervek (RPL) használata
+3.1. Ismétlődő repülési tervek (RPL) használata
 
-3.1.1. Általános rész
+3.1.1. Általános rész
 
 Ismétlődő repülési terveket (RPL) általában egy menetrendi időszakra vonatkozóan nyújtanak be. RPL-eket csak teljes egészében IFR repülésekre lehet használni, az ICAO szabályok szerint olyanokra, amelyek rendszeresen közlekednek egymást követő hetek azonos napján vagy napjain legalább tíz (10) alkalommal vagy egy legalább tíznapos időszak minden egyes napján. Az egyes repülési tervelemek minél szélesebb körű állandóságát kell biztosítani.
 
-1. Megjegyzés: Az EUROCONTROL rövidebb időszakra, akár egy alkalomra vonatkozó RPL-t is elfogad.
+1. Megjegyzés: Az EUROCONTROL rövidebb időszakra, akár egy alkalomra vonatkozó RPL-t is elfogad.
 
-2. Megjegyzés: Az egynapi üzemelést érintő – az RPL lista módosításával nem járó – módosításokat a 3.1.2.5. pont tartalmazza.
+2. Megjegyzés: Az egynapi üzemelést érintő – az RPL lista módosításával nem járó – módosításokat a 3.1.2.5. pont tartalmazza.
 
 Az RPL-eknek a teljes repülésre kell vonatkozniuk, az indulási repülőtértől kezdve egészen a rendeltetési repülőtérig. Az RPL eljárások csak akkor alkalmazhatók, amikor az adott repülések kezelésében illetékes valamennyi ATS hatóság hozzájárult az RPL-ek elfogadásához.
 
@@ -2262,55 +2260,55 @@ A nemzetközi repülésekre vonatkozó RPL-ek államok által történő haszná
 
 RPL nem nyújtható be transzatlanti repülésekre. Ezekre egyedi repülési tervet kell benyújtani.
 
-3.1.1.1. Valamennyi ismétlődő repülési tervet (RPL) benyújtó légijármű üzemben tartónak az egyedi repülési terv 10. rovatába beírtakkal megegyező módon az RPL Q rovatában (egyéb tájékoztatások) fel kell tüntetnie az adott légijármű berendezéseit és képességeit tartalmazó tájékoztatásokat.
+3.1.1.1. Valamennyi ismétlődő repülési tervet (RPL) benyújtó légijármű üzemben tartónak az egyedi repülési terv 10. rovatába beírtakkal megegyező módon az RPL Q rovatában (egyéb tájékoztatások) fel kell tüntetnie az adott légijármű berendezéseit és képességeit tartalmazó tájékoztatásokat.
 
-3.1.2. A légijármű üzemben tartók RPL benyújtási eljárásai
+3.1.2. A légijármű üzemben tartók RPL benyújtási eljárásai
 
-3.1.2.1. Az RPL-nek a következő tájékoztatásokat kell tartalmaznia:
+3.1.2.1. Az RPL-nek a következő tájékoztatásokat kell tartalmaznia:
 
-– a repülési terv érvényességi ideje,
+– a repülési terv érvényességi ideje,
 
-– a repülés napjai,
+– a repülés napjai,
 
-– a légijármű azonosító jele,
+– a légijármű azonosító jele,
 
-– a légijármű típusa és turbulencia kategóriája,
+– a légijármű típusa és turbulencia kategóriája,
 
-– MLS képesség,
+– MLS képesség,
 
-– indulási repülőtér,
+– indulási repülőtér,
 
-– fékoldási idő,
+– fékoldási idő,
 
-– utazósebesség(ek),
+– utazósebesség(ek),
 
-– utazómagasság(ok),
+– utazómagasság(ok),
 
-– követendő útvonal,
+– követendő útvonal,
 
-– rendeltetési repülőtér,
+– rendeltetési repülőtér,
 
-– teljes számított repülési idő,
+– teljes számított repülési idő,
 
-– annak a helynek a megnevezése, ahonnan a következő tájékoztatások, kérésre, késedelem nélkül beszerezhetők:
+– annak a helynek a megnevezése, ahonnan a következő tájékoztatások, kérésre, késedelem nélkül beszerezhetők:
 
-= kitérő repülőterek,
+= kitérő repülőterek,
 
-= üzemanyagkészlet,
+= üzemanyagkészlet,
 
-= személyek száma a fedélzeten,
+= személyek száma a fedélzeten,
 
-= kényszerhelyzeti felszerelések,
+= kényszerhelyzeti felszerelések,
 
-– egyéb tájékoztatások.
+– egyéb tájékoztatások.
 
-3.1.2.2. Az RPL adatok megadása „új lista” vagy „módosító lista” formájában történhet.
+3.1.2.2. Az RPL adatok megadása „új lista” vagy „módosító lista” formájában történhet.
 
 Az „új lista” (NLST) olyan benyújtás, amely csak új információkat tartalmaz (tipikusan új téli vagy nyári időszak kezdetén).
 
 A „módosító lista” (RLST) olyan bejelentés, amely megváltozott információkat tartalmaz egy korábban benyújtott lista tekintetében. A megváltozott vagy módosuló tájékoztatás egyaránt lehet módosítás, törlés vagy kiegészítőleg új repülés adatainak megadása.
 
-3.1.2.3. Új lista (NLST) benyújtása
+3.1.2.3. Új lista (NLST) benyújtása
 
 Az RPL-eket általában külön erre a célra tervezett RPL lista nyomtatványon vagy más, elektronikus adatfeldolgozás céljaira is megfelelő formában lehet benyújtani.
 
@@ -2330,9 +2328,9 @@ Az RPL-ek benyújtása előtt a légijármű üzemben tartójának tájékoztatn
 
 A NLST-ket legalább 4 munkanappal a tervezett első repülés előtt kell az RPL Team-nek megkapnia, az alábbi kivételekkel:
 
-– AIRAC változtatást tartalmazó RPL-ek esetén a minimális idő az AIRAC dátumot megelőző 8 nap;
+– AIRAC változtatást tartalmazó RPL-ek esetén a minimális idő az AIRAC dátumot megelőző 8 nap;
 
-– a téli időszakra október hó első napja, illetve a nyári időszakra március hó első napja előtt RPL-eket benyújtani nem lehet. Az új időszakra vonatkozó RPL-eket az első közlekedés előtt legalább 1 héttel kell benyújtani.
+– a téli időszakra október hó első napja, illetve a nyári időszakra március hó első napja előtt RPL-eket benyújtani nem lehet. Az új időszakra vonatkozó RPL-eket az első közlekedés előtt legalább 1 héttel kell benyújtani.
 
 Megjegyzés: A téli időszak október hó utolsó vasárnapján, a nyári időszak március hó utolsó vasárnapján kezdődik.
 
@@ -2348,7 +2346,7 @@ A visszaigazolást követően az RPL Team általában 3 munkanap alatt feldolgoz
 
 A légijármű-üzemeltető címében vagy telefonszámában bekövetkezett bárminemű változásról (pl. a kiegészítő tájékoztatást megadni képes szervezet cím vagy telefonszám változása), az RPL Team-et haladéktalanul tájékoztatni kell.
 
-3.1.2.4. RPL-ek felfüggesztése
+3.1.2.4. RPL-ek felfüggesztése
 
 Az RPL-ek automatikusan felfüggesztésre kerülnek az RPL feldolgozó rendszer által december 24-én 2359 UTC és december 25-én 2359 UTC között (a december 25-én tervezett repülésekre egyedi FPL-t kell benyújtani).
 
@@ -2356,13 +2354,13 @@ Az RPL-ek ugyancsak felfüggeszthetők különleges körülmények esetén, pél
 
 Az üzemben tartók egyéb felfüggesztéseket külön kérhetnek. A felfüggesztés kérésekor vegyék figyelembe, hogy az RPL-ek meghatározott időrend szerint kerülnek továbbításra az IFPS számára. Ebből eredően felfüggesztés csak azokra az RPL-ekre lehetséges, melyek EOBT-je legalább 20 órán túli. Amennyiben például sztrájk miatt az RPL-eket előre meghatározott időtartamra felfüggesztik, de a sztrájk előbb véget ér, az RPL-ekre történő visszatérés csak néhány óra múlva történhet. A kiesett időtartam alatt egyedi FPL-k szerint lehet működni.
 
-3.1.2.4.1. Állandó jellegű módosítások
+3.1.2.4.1. Állandó jellegű módosítások
 
 Az állandó jellegű módosításokat, amelyek lehetnek új repülések adatainak megadása, korábban megadott repülések adatainak módosítása vagy repülések törlése, módosított lista formátumban kell megadni. Az ilyen listákat a légiforgalmi szolgálatok érintett szerveinek a módosítás életbelépése előtt legalább 7 munkanappal meg kell kapniuk.
 
 Valamennyi RPL módosítást az RPL listák elkészítésére vonatkozó előírások szerint kell benyújtani.
 
-3.1.2.5. Napi módosítások, törlések, ideiglenes jellegű módosítások
+3.1.2.5. Napi módosítások, törlések, ideiglenes jellegű módosítások
 
 Az ideiglenes érvényű, egyszeri alkalomra szóló, a légijármű típusára, turbulencia kategóriájára, sebességére és/vagy utazómagasságára vonatkozó RPL módosításokat az egyes repülések esetében legkorábban 20 órával, de nem később, mint 30 perccel a tervezett indulási idő előtt közölni kell az indulási repülőteret kiszolgáló légiforgalmi szolgálatok bejelentő irodájával vagy az IFPS-sel.
 
@@ -2378,33 +2376,33 @@ Amikor a légijármű üzemben tartója tudomására jut, hogy egy olyan járat�
 
 A légijárművet üzemben tartóknak biztosítaniuk kell, hogy a repülést érintő legfrissebb repülési terv információk, beleértve az állandó és ideiglenes módosításokat, amelyeket az illetékes ATS egységnek megfelelően bejelentettek, a légijármű-parancsnok rendelkezésére álljanak.
 
-3.1.3. RPL eljárások ATS egységek részére
+3.1.3. RPL eljárások ATS egységek részére
 
-3.1.3.1. Az EUROCONTROL RPL Team-hez továbbított RPL-ek meghatározott időrend szerint, egyedi feldolgozásra az IFPS-hez kerülnek.
+3.1.3.1. Az EUROCONTROL RPL Team-hez továbbított RPL-ek meghatározott időrend szerint, egyedi feldolgozásra az IFPS-hez kerülnek.
 
 Az RPL-t használó egyes államok kérhetik az IFPS-t, hogy részükre az őket érintő RPL állományokat meghatározott gyakorisággal és formában – általában biztonsági célból – továbbítsák.
 
 Ettől függetlenül az IFPS az RPL-ekből a repülés napján egyedi FPL-t állít össze, majd szétosztja azokat az érintett ATS egységek számára. A szétosztást az IFPS úgy végzi, hogy elegendő idő maradjon az adatoknak az illetékes ATS egység részére megfelelő formában történő megjelenítésére, hogy az a helyzetet elemezhesse és irányítói feladatát elláthassa.
 
-3.1.3.2. Amennyiben az illetékes ATS hatóság különleges körülmények miatt az RPL eljárásokat ideiglenesen felfüggeszti, erről az érintetteket lehetőség szerint a legkorábban és a körülményeknek legjobban megfelelő formában tájékoztatnia kell.
+3.1.3.2. Amennyiben az illetékes ATS hatóság különleges körülmények miatt az RPL eljárásokat ideiglenesen felfüggeszti, erről az érintetteket lehetőség szerint a legkorábban és a körülményeknek legjobban megfelelő formában tájékoztatnia kell.
 
-3.1.3.3. Az RPL szerint üzemelő egyes repülésekkel kapcsolatos ATS közleményeket úgy kell összeállítani és az érintett ATS egységek számára megcímezni, mint az egyedi repülési tervek szerint üzemelő repülésekre vonatkozó közleményeket.
+3.1.3.3. Az RPL szerint üzemelő egyes repülésekkel kapcsolatos ATS közleményeket úgy kell összeállítani és az érintett ATS egységek számára megcímezni, mint az egyedi repülési tervek szerint üzemelő repülésekre vonatkozó közleményeket.
 
-3.2. Levegőből benyújtott repülési tervek (AFIL)
+3.2. Levegőből benyújtott repülési tervek (AFIL)
 
-3.2.1. Budapest FIR-n belül AFIL-t az alábbi egyes, egyedi repülésekre lehet benyújtani:
+3.2.1. Budapest FIR-n belül AFIL-t az alábbi egyes, egyedi repülésekre lehet benyújtani:
 
-a) mentőrepülést, betegszállítást, transzplantátum szállítást, orvosi segítségnyújtást végző repülésekre, tűzoltó repülésre,
+a) mentőrepülést, betegszállítást, transzplantátum szállítást, orvosi segítségnyújtást végző repülésekre, tűzoltó repülésre,
 
-b) kutató-mentő repülésekre,
+b) kutató-mentő repülésekre,
 
-c) határőrizeti és rendészeti célú repülésekre,
+c) határőrizeti és rendészeti célú repülésekre,
 
-d) a nem ellenőrzött légtérből előre nem tervezhető esetben ellenőrzött légtérbe belépő VFR légijárművekre (pl. zivatarkerülés),
+d) a nem ellenőrzött légtérből előre nem tervezhető esetben ellenőrzött légtérbe belépő VFR légijárművekre (pl. zivatarkerülés),
 
-e) vitorlázó felhőrepülésekre,
+e) vitorlázó felhőrepülésekre,
 
-f) állami légijárműnek MCTR, MTMA vagy TRA légtérből légiforgalmi légtérbe történő, előzetesen nem tervezett repülése esetén.
+f) állami légijárműnek MCTR, MTMA vagy TRA légtérből légiforgalmi légtérbe történő, előzetesen nem tervezett repülése esetén.
 
 Megjegyzés: Mivel az MCTR, MTMA és TRA légterekben állami légijárművel végrehajtott repülésekre nem kell repülési tervet benyújtani, azonban elképzelhető olyan eset, amikor az adott légijármű bármely előre nem tervezett ok miatt csak légiforgalmi légtér igénybevételével tud tartalék (kitérő) repülőtérre átrepülni, az AFIL benyújtása elengedhetetlen.
 
@@ -2412,39 +2410,39 @@ Nemzetközi repülésre AFIL-t csak a szomszédos országgal erre vonatkozóan �
 
 Ugyancsak lehet AFIL-t benyújtani az ellenőrzött légtéren kívüli VFR repülés során, ha a repülési körülményekben beálló változások (pl. időjárás) miatt a légijármű vezetője a továbbiakban repüléstájékoztató és riasztószolgálat biztosítását igényli.
 
-3.2.2. A 3.2.1. pont d) alpontjában szereplő esetben, ha egy ellenőrzött légtéren kívül működő légijármű ellenőrzött légtérbe kíván belépni, a belépéshez irányítói engedély szükséges. Az engedélykéréshez levegőből benyújtott repülési tervet (AFIL) kell továbbítani az érintett légtérben légiforgalmi irányító szolgálatot ellátó egység számára, egyidejűleg a belépési engedély kérésével. Az AFIL-t legalább 10 perccel az ellenőrzött légtér határának számított elérése előtt kell benyújtani. Ez az előírás nem vonatkozik Budapest TMA oldalhatárain belül lévő repülőterekről induló, az ellenőrzött légtérben ejtőernyős ugratást végrehajtó légijárművekre. Ilyen esetekben a repülés tervezett adatait Budapest ATS Központtal előzetesen egyeztetni kell.
+3.2.2. A 3.2.1. pont d) alpontjában szereplő esetben, ha egy ellenőrzött légtéren kívül működő légijármű ellenőrzött légtérbe kíván belépni, a belépéshez irányítói engedély szükséges. Az engedélykéréshez levegőből benyújtott repülési tervet (AFIL) kell továbbítani az érintett légtérben légiforgalmi irányító szolgálatot ellátó egység számára, egyidejűleg a belépési engedély kérésével. Az AFIL-t legalább 10 perccel az ellenőrzött légtér határának számított elérése előtt kell benyújtani. Ez az előírás nem vonatkozik Budapest TMA oldalhatárain belül lévő repülőterekről induló, az ellenőrzött légtérben ejtőernyős ugratást végrehajtó légijárművekre. Ilyen esetekben a repülés tervezett adatait Budapest ATS Központtal előzetesen egyeztetni kell.
 
-3.2.3. Ha az ellenőrzött légtéren kívül működő légijármű vezetője repüléstájékoztató és riasztószolgálat igénybevétele céljából AFIL-t kíván benyújtani, az AFIL-t az érintett légtérben repüléstájékoztató és riasztószolgálatot ellátó egység számára kell rádión továbbítani.
+3.2.3. Ha az ellenőrzött légtéren kívül működő légijármű vezetője repüléstájékoztató és riasztószolgálat igénybevétele céljából AFIL-t kíván benyújtani, az AFIL-t az érintett légtérben repüléstájékoztató és riasztószolgálatot ellátó egység számára kell rádión továbbítani.
 
-3.2.4. AFIL közlésekor először a repülési terv benyújtási szándékot kell jelezni. A fogadás jelzését követően az alábbi adatokat kell megadni:
+3.2.4. AFIL közlésekor először a repülési terv benyújtási szándékot kell jelezni. A fogadás jelzését követően az alábbi adatokat kell megadni:
 
-1. hívójel és SSR kód,
+1. hívójel és SSR kód,
 
-2. repülési szabályok,
+2. repülési szabályok,
 
-3. a légijármű típusa,
+3. a légijármű típusa,
 
-4. indulási repülőtér,
+4. indulási repülőtér,
 
-5. útvonal,
+5. útvonal,
 
-6. rendeltetési repülőtér,
+6. rendeltetési repülőtér,
 
-7. helyzet, következő útvonalpont elérésének számított ideje,
+7. helyzet, következő útvonalpont elérésének számított ideje,
 
-8. magasság,
+8. magasság,
 
-9. egyéb, az ATS egység vagy a légijármű-vezető által szükségesnek ítélt kiegészítő adatok, pl. ETA, személyek száma.
+9. egyéb, az ATS egység vagy a légijármű-vezető által szükségesnek ítélt kiegészítő adatok, pl. ETA, személyek száma.
 
-3.3. Egyedi repülési tervek (FPL) benyújtása
+3.3. Egyedi repülési tervek (FPL) benyújtása
 
-3.3.1. Általános eljárások
+3.3.1. Általános eljárások
 
-3.3.1.1. Az egyedi repülési tervet (FPL) a légijármű személyzete vagy üzemben tartójának kijelölt képviselője nyújthatja be az FPL-ek átvételére kijelölt egységnél. Ha a repülési tervet nem a légijármű személyzete nyújtja be, az üzemben tartónak gondoskodnia kell arról, hogy a légijármű személyzete a benyújtott és elfogadott repülési terv tartalmát részletesen ismerje.
+3.3.1.1. Az egyedi repülési tervet (FPL) a légijármű személyzete vagy üzemben tartójának kijelölt képviselője nyújthatja be az FPL-ek átvételére kijelölt egységnél. Ha a repülési tervet nem a légijármű személyzete nyújtja be, az üzemben tartónak gondoskodnia kell arról, hogy a légijármű személyzete a benyújtott és elfogadott repülési terv tartalmát részletesen ismerje.
 
-3.3.1.2. Az FPL-ek átvételére kijelölt egységek a következők:
+3.3.1.2. Az FPL-ek átvételére kijelölt egységek a következők:
 
-(i) az FPL-ek gyűjtésére és szétosztására kialakított nemzetközi egységek (IFPS);
+(i) az FPL-ek gyűjtésére és szétosztására kialakított nemzetközi egységek (IFPS);
 
 Ezek az egységek csak IFR és GAT repülések, valamint vegyes (IFR/VFR és GAT/OAT) repülések terveit kezelik, tiszta VFR és OAT repülési terveket nem.
 
@@ -2452,77 +2450,77 @@ Ezek az egységek csak IFR és GAT repülések, valamint vegyes (IFR/VFR és GAT
 
 (iii) ha az indulási repülőtéren a forgalom sűrűsége nem indokolja a külön repülésbejelentő létesítését:
 
-– más helyi ATS egység (pl. a repülőtéri irányító torony vagy a repülőtéri repüléstájékoztató egység), vagy
+– más helyi ATS egység (pl. a repülőtéri irányító torony vagy a repülőtéri repüléstájékoztató egység), vagy
 
-– az adott körzetet kiszolgáló, más repülőtéren lévő regionális repülésbejelentő iroda.
+– az adott körzetet kiszolgáló, más repülőtéren lévő regionális repülésbejelentő iroda.
 
 Megjegyzés: A Budapest FIR-ben történő FPL benyújtási szabályokat a 3.3.2. pont tartalmazza.
 
-3.3.1.3. Az FPL-ek benyújtása az FPL-ek átvételére kijelölt szerv által meghatározottak szerint, az alábbi módok valamelyikével történhet:
+3.3.1.3. Az FPL-ek benyújtása az FPL-ek átvételére kijelölt szerv által meghatározottak szerint, az alábbi módok valamelyikével történhet:
 
-– személyesen, FPL űrlap kitöltésével,
+– személyesen, FPL űrlap kitöltésével,
 
-– telefonon keresztül,
+– telefonon keresztül,
 
-– AFTN-en,
+– AFTN-en,
 
-– egyéb távközlési csatornán (pl. SITA) keresztül, vagy
+– egyéb távközlési csatornán (pl. SITA) keresztül, vagy
 
-– faxon.
+– faxon.
 
-3.3.1.4. A repülési terveket az átvevő egység FPL közlemény formájában továbbítja az érintettek számára. Az ATS egységeknél a kapott FPL közlemények feldolgozása javarészt automatikusan, számítógépes eszközökkel történik. Rendkívül fontos, hogy az FPL a szabályoknak megfelelően, szintaktikailag és logikailag helyesen, az előírt módon és formában legyen benyújtva.
+3.3.1.4. A repülési terveket az átvevő egység FPL közlemény formájában továbbítja az érintettek számára. Az ATS egységeknél a kapott FPL közlemények feldolgozása javarészt automatikusan, számítógépes eszközökkel történik. Rendkívül fontos, hogy az FPL a szabályoknak megfelelően, szintaktikailag és logikailag helyesen, az előírt módon és formában legyen benyújtva.
 
 Megjegyzés: Az IFPS egy, a valós rendszertől teljesen független, automata tesztrendszerrel rendelkezik, amely legegyszerűbben a www.cfmu.eurocontrol.int weboldalon keresztül érhető el. Itt lehetőség van egy próba FPL űrlapot kitölteni és a kitöltés szintaktikai és logikai helyességét ellenőriztetni. Az FPL tesztelésére a tervezett repülés számított fékoldási idejét megelőző 5 nappal (120 óra) korábban, az IFPS tesztrendszerbe történő továbbításával van lehetőség.
 
 A tesztrendszer elérhető AFTN-n, valamint SITA-n keresztül is, EBBDZMFV, illetve BRUEY7X címeken.
 
-3.3.2. FPL-ek benyújtása Budapest FIR-ben
+3.3.2. FPL-ek benyújtása Budapest FIR-ben
 
 Megjegyzés: Jelen előírások csak a polgári repülőterekről induló légijárművek repülési terveinek összegyűjtési és szétosztási szabályait tartalmazza. A katonai repülőterekről induló légijárművek repülési terveinek összegyűjtése és szétosztása az illetékes katonai szervek előírásai szerint történik.
 
-3.3.2.1. Budapest FIR-ben az FPL-eket az alábbiak szerint lehet benyújtani:
+3.3.2.1. Budapest FIR-ben az FPL-eket az alábbiak szerint lehet benyújtani:
 
-(i) valamennyi külföldi légijármű üzemben tartó, valamint azok a magyar üzemben tartók, amelyek a szükséges technikai és szakmai feltételeknek megfelelnek, IFR/GAT, valamint vegyes (IFR/VFR, GAT/OAT) repüléseikről szóló FPL-jeiket közvetlenül továbbíthatják az IFPS számára AFTN, SITA vagy egyéb távközlési eszköz segítségével;
+(i) valamennyi külföldi légijármű üzemben tartó, valamint azok a magyar üzemben tartók, amelyek a szükséges technikai és szakmai feltételeknek megfelelnek, IFR/GAT, valamint vegyes (IFR/VFR, GAT/OAT) repüléseikről szóló FPL-jeiket közvetlenül továbbíthatják az IFPS számára AFTN, SITA vagy egyéb távközlési eszköz segítségével;
 
 A magyar üzemben tartók erről írásban kötelesek tájékoztatni a légiközlekedési hatóságot.
 
 VFR vagy OAT repülések esetén ezen üzemben tartóknak is az alábbi (ii), (iii) vagy (iv) pontban leírt eljárásokat kell követniük:
 
-(ii) a Budapest–Ferihegy repülőtérről induló légijárműveknek lehetőségük van FPL-jeik benyújtására a Budapest–Ferihegyi repülésbejelentő irodán keresztül. Ezt személyesen, az FPL űrlap kitöltésével tehetik meg;
+(ii) a Budapest Liszt Ferenc Nemzetközi Repülőtérről induló légijárműveknek lehetőségük van FPL-jeik benyújtására a Légiforgalmi szolgálatok bejelentő irodáján keresztül. Ezt személyesen, az FPL űrlap kitöltésével tehetik meg;
 
 (iii) az AFIS egységgel rendelkező repülőterekről induló légijárművek vezetői FPL-t a repülőtéri repüléstájékoztató egységnél nyújthatnak be személyesen az FPL űrlap kitöltésével vagy telefonon;
 
 (iv) az AFIS egységgel nem rendelkező repülőtérről tervezett indulás esetén a légijármű vezetőjének a repülési tervet telefonon vagy telefaxon kell továbbítania:
 
-– belföldi VFR repülés esetén Budapest ATS Központ repüléstájékoztató egysége,
+– belföldi VFR repülés esetén Budapest ATS Központ repüléstájékoztató egysége,
 
-– nemzetközi vagy IFR, illetve vegyes (IFR/VFR, GAT/OAT) repülés esetén a Budapest–Ferihegyi repülőtér repülésbejelentője
+– nemzetközi vagy IFR, illetve vegyes (IFR/VFR, GAT/OAT) repülés esetén a Légiforgalmi szolgálatok bejelentő irodája
 
 számára.
 
 Amennyiben a repülési tervet telefaxon nyújtották be, a „benyújtotta” rovatban fel kell tüntetni a feladó elérhetőségi telefonszámát arra az esetre, ha például a benyújtott repülési terv nem dolgozható fel.
 
-3.3.2.2. Írásban történő benyújtás esetén külön erre a célra szolgáló formanyomtatványt (FPL űrlap) kell használni és ezt – a telefaxon történő benyújtás esetét kivéve – két példányban kell kitölteni.
+3.3.2.2. Írásban történő benyújtás esetén külön erre a célra szolgáló formanyomtatványt (FPL űrlap) kell használni és ezt – a telefaxon történő benyújtás esetét kivéve – két példányban kell kitölteni.
 
 Megjegyzés: Az FPL űrlap kitöltésére vonatkozó előírásokat jelen függelék II. része tartalmazza.
 
-3.3.2.3. Kiegészítő tájékoztatások (19. rovat megadása)
+3.3.2.3. Kiegészítő tájékoztatások (19. rovat megadása)
 
 Írásban vagy telefonon benyújtott FPL-ek esetén a kiegészítő tájékoztatásokat is meg kell adni.
 
 AFIL benyújtása esetén az ATS egységek nem minden esetben kérik a kiegészítő repülési tervadatokat, a légijármű vezetője azonban bármikor közölheti ezeket.
 
-3.3.2.4. Annak érdekében, hogy az AFIS egységek a repülőtéri forgalom, valamint a repülőtér légterét (TIZ) átrepülő légijárművek számára megfelelő forgalmi tájékoztatást tudjanak nyújtani, a repülési tervet be nem nyújtott induló légijárműveknek az alábbi eljárásokat kell követniük:
+3.3.2.4. Annak érdekében, hogy az AFIS egységek a repülőtéri forgalom, valamint a repülőtér légterét (TIZ) átrepülő légijárművek számára megfelelő forgalmi tájékoztatást tudjanak nyújtani, a repülési tervet be nem nyújtott induló légijárműveknek az alábbi eljárásokat kell követniük:
 
-a) A repülőtér munkaterületén történő működés megkezdése, illetve a felszállás végrehajtása csak az AFIS egységnek a „K” Függelékben leírt, rádión történő tájékoztatása mellett hajtható végre. A rádióval fel nem szerelt légijárműveknek a működés megkezdését az AFIS egységgel szóban kell egyeztetniük.
+a) A repülőtér munkaterületén történő működés megkezdése, illetve a felszállás végrehajtása csak az AFIS egységnek a „K” Függelékben leírt, rádión történő tájékoztatása mellett hajtható végre. A rádióval fel nem szerelt légijárműveknek a működés megkezdését az AFIS egységgel szóban kell egyeztetniük.
 
-b) A repülőtér közelében, illetve kijelölt légterében egyedi légijárművel végrehajtott helyi repülés esetén közölni kell a légijármű hívójelét, típusát, a tervezett indulási és leszállási időt, valamint a feladat jellegét is.
+b) A repülőtér közelében, illetve kijelölt légterében egyedi légijárművel végrehajtott helyi repülés esetén közölni kell a légijármű hívójelét, típusát, a tervezett indulási és leszállási időt, valamint a feladat jellegét is.
 
-c) A több légijárművel tervezett azonos repülési feladatot végrehajtó sorozatos helyi repülések (pl. csörlőzéses iskolakörözés) esetén az AFIS egység számára meg kell adni a feladat jellegét, valamint a működés tervezett/tényleges kezdési és befejezési időpontjait.
+c) A több légijárművel tervezett azonos repülési feladatot végrehajtó sorozatos helyi repülések (pl. csörlőzéses iskolakörözés) esetén az AFIS egység számára meg kell adni a feladat jellegét, valamint a működés tervezett/tényleges kezdési és befejezési időpontjait.
 
-3.3.3. FPL-ek elfogadása
+3.3.3. FPL-ek elfogadása
 
-3.3.3.1. Az IFPS-hez benyújtott repülési terveket az IFPS formai és tartalmi szempontból ellenőrzi és a feladót a közlemény elfogadásáról ACK, a manuális feldolgozás szükségességéről MAN, az esetleges elutasításról REJ közleménnyel tájékoztatja.
+3.3.3.1. Az IFPS-hez benyújtott repülési terveket az IFPS formai és tartalmi szempontból ellenőrzi és a feladót a közlemény elfogadásáról ACK, a manuális feldolgozás szükségességéről MAN, az esetleges elutasításról REJ közleménnyel tájékoztatja.
 
 A repülési terv benyújtója az FPL 18. rovatában jelezheti, hogy az IFPS a repülési útvonalat külön egyeztetés nélkül módosíthatja (RMK/IFPS REROUTE ACCEPTED). Az IFPS-hez így továbbított FPL azonban nem tartalmazhat hiányzó vagy befejezetlen útvonalat.
 
@@ -2532,27 +2530,27 @@ A légijármű üzemben tartója az IFPS-től külön kérheti, hogy az eredeti 
 
 Az IFPS az elfogadást követően meghatározza az IFPS zónán belül az IFR/GAT repüléseket felügyelő ATS egységeket és részükre, valamint a közleményben feltüntetett egyéb címzettek számára az FPL-t továbbítja. Mindaddig, míg a feladott repülési tervet az IFPS ACK közleménnyel nem nyugtázza, az érintett ATS egységek a légijárműről FPL-lel nem rendelkeznek és a légijármű nem kezdheti meg repülését.
 
-3.3.3.2. Ha az FPL-t nem közvetlenül az IFPS-hez nyújtják be, az FPL-t átvevő egység feladata
+3.3.3.2. Ha az FPL-t nem közvetlenül az IFPS-hez nyújtják be, az FPL-t átvevő egység feladata
 
-– a lehetőség szerinti tartalmi és formai ellenőrzés,
+– a lehetőség szerinti tartalmi és formai ellenőrzés,
 
-– a benyújtó figyelmének felhívása az észlelt hibákra és segítségnyújtás az FPL helyes kitöltésében,
+– a benyújtó figyelmének felhívása az észlelt hibákra és segítségnyújtás az FPL helyes kitöltésében,
 
-– a tervezett repülés adminisztratív végrehajthatóságának lehetséges mértékű ellenőrzése,
+– a tervezett repülés adminisztratív végrehajthatóságának lehetséges mértékű ellenőrzése,
 
 Megjegyzés: A repülés adminisztratív végrehajthatóságának ellenőrzése nem foglalja magába a légijármű földi kiszolgálási lehetőségének, vámvizsgálat megszervezésének stb. ellenőrzését.
 
-– az FPL elfogadásának jelzése a feladó számára, valamint
+– az FPL elfogadásának jelzése a feladó számára, valamint
 
-– gondoskodás a repülési terv előírás szerinti továbbításáról, illetve szétosztásáról az érintettek számára.
+– gondoskodás a repülési terv előírás szerinti továbbításáról, illetve szétosztásáról az érintettek számára.
 
-Ha a repülési tervet a Budapest–Ferihegyi repülésbejelentőn keresztül az IFPS számára továbbítják, érdeklődni kell a repülési terv elfogadásáról. A benyújtott FPL elfogadását a repülésbejelentő az IFPS-től származó elfogadási tájékoztatást követően szóban jelzi.
+Ha a repülési tervet a Légiforgalmi szolgálatok bejelentő irodáján keresztül az IFPS számára továbbítják, érdeklődni kell a repülési terv elfogadásáról. A benyújtott FPL elfogadását a repülésbejelentő az IFPS-től származó elfogadási tájékoztatást követően szóban jelzi.
 
 Megjegyzés: A repülési terv elfogadása nem menti fel a légijármű vezetőjét az ellenőrzött légterekben, illetve ellenőrzött repülőtereken történő működéshez az irányítói engedély beszerzésével kapcsolatos és a repülésre történő megfelelő felkészülés felelőssége alól.
 
-3.3.4. Az FPL benyújtásának időpontja
+3.3.4. Az FPL benyújtásának időpontja
 
-3.3.4.1. Ha különleges körülmények nem indokolják, az FPL-t nem korábban mint 24 órával és nem később, mint 60 perccel a felszálláshoz történő gurulás megkezdése előtti időpontig (EOBT) kell benyújtani, a légiforgalmi áramlásszervezési (ATFM) intézkedések hatálya alá eső repüléseket kivéve, ahol ez az időminimum EOBT–3 óra.
+3.3.4.1. Ha különleges körülmények nem indokolják, az FPL-t nem korábban mint 24 órával és nem később, mint 60 perccel a felszálláshoz történő gurulás megkezdése előtti időpontig (EOBT) kell benyújtani, a légiforgalmi áramlásszervezési (ATFM) intézkedések hatálya alá eső repüléseket kivéve, ahol ez az időminimum EOBT–3 óra.
 
 Megjegyzés: Az IFPS-hez továbbítandó FPL-ket lehetőleg minimum 3 órával az EOBT előtt nyújtsák be.
 
@@ -2562,27 +2560,27 @@ ATFM korlátozás repülést végző IFR/GAT vagy vegyes (IFR/VFR, GAT/OAT) rep�
 
 Légiforgalom-áramlásszervezéssel kapcsolatos további információkat az AIP tartalmaz.
 
-3.3.4.2. FPL-t a repülést megelőző 6 nappal korábban benyújtani nem lehet.
+3.3.4.2. FPL-t a repülést megelőző 6 nappal korábban benyújtani nem lehet.
 
-3.3.4.2.1. Ha a repülési tervet az EOBT előtt több mint 24 órával nyújtják be, a repülési terv 18. rovatában fel kell tüntetni a repülés dátumát. Ha a repülési tervet az EOBT-t megelőző 24 órán belül nyújtják be, a repülés napja ugyancsak megadható.
+3.3.4.2.1. Ha a repülési tervet az EOBT előtt több mint 24 órával nyújtják be, a repülési terv 18. rovatában fel kell tüntetni a repülés dátumát. Ha a repülési tervet az EOBT-t megelőző 24 órán belül nyújtják be, a repülés napja ugyancsak megadható.
 
-3.3.5. FPL-ek törlése, módosítása
+3.3.5. FPL-ek törlése, módosítása
 
-3.3.5.1. A repülési terv benyújtójának törölnie kell a repülési tervet annál az egységnél, ahova eredetileg benyújtotta, ha
+3.3.5.1. A repülési terv benyújtójának törölnie kell a repülési tervet annál az egységnél, ahova eredetileg benyújtotta, ha
 
-– nem fog közlekedni,
+– nem fog közlekedni,
 
-– a repülését a benyújtott repülési tervben közölt indulási idő előtt kívánja megkezdeni, vagy
+– a repülését a benyújtott repülési tervben közölt indulási idő előtt kívánja megkezdeni, vagy
 
-– az indulási vagy rendeltetési repülőteret vagy a légijármű azonosító jelét vagy a közlekedés dátumát kívánják megváltoztatni.
+– az indulási vagy rendeltetési repülőteret vagy a légijármű azonosító jelét vagy a közlekedés dátumát kívánják megváltoztatni.
 
 Az utóbbi esetekben a megváltozott adatokkal új repülési tervet kell benyújtani.
 
-3.3.5.2. Ha valamely repülésre RPL-t vagy egyedi repülési tervet nyújtottak be és az EOBT-t megelőző 4 órán belül úgy határoznak, hogy az indulási és rendeltetési repülőtér között az eredetitől eltérő útvonalat választanak (pl. ATFM okok miatt):
+3.3.5.2. Ha valamely repülésre RPL-t vagy egyedi repülési tervet nyújtottak be és az EOBT-t megelőző 4 órán belül úgy határoznak, hogy az indulási és rendeltetési repülőtér között az eredetitől eltérő útvonalat választanak (pl. ATFM okok miatt):
 
-a) a korábbi repülési terv közlemény valamennyi címzettje számára „DD” sürgősségi jellel repülési terv törlő közleményt (CNL) kell továbbítani,
+a) a korábbi repülési terv közlemény valamennyi címzettje számára „DD” sürgősségi jellel repülési terv törlő közleményt (CNL) kell továbbítani,
 
-b) alternatív repülési tervet (RFP) kell továbbítani, ugyanazt a légijármű azonosító jelet tartalmazó FPL közlemény formájában, a CNL közleményt követően, de nem korábban, minthogy a CNL-re az IFPS-től az ACK közlemény megérkezett.
+b) alternatív repülési tervet (RFP) kell továbbítani, ugyanazt a légijármű azonosító jelet tartalmazó FPL közlemény formájában, a CNL közleményt követően, de nem korábban, minthogy a CNL-re az IFPS-től az ACK közlemény megérkezett.
 
 Az RFP egyéb tájékoztatások (18.) rovatának első elemeként az „RFP/Qn” rövidítést kell feltüntetni, ahol az RFP az alternatív repülési tervet (Replacement Flight Plan) jelzi, az „n” pedig az alternatív repülési terv sorszámát tartalmazza, azaz „1” az első ilyen repülési terv, a „2” a második stb.
 
@@ -2590,43 +2588,43 @@ Az utolsó RFP-t az EOBT előtt legalább 30 perccel kell feladni.
 
 Megjegyzés: Az alternatív repülési tervet úgy kell elfogadni, hogy azzal az államok által esetlegesen megkívánt, repülésről szóló előzetes tájékoztatási kötelezettség (diplomáciai engedély) is teljesüljön.
 
-3.3.5.3. A repülési tervet benyújtónak tájékoztatnia kell azt az egységet, ahova repülési tervét eredetileg benyújtotta, ha
+3.3.5.3. A repülési tervet benyújtónak tájékoztatnia kell azt az egységet, ahova repülési tervét eredetileg benyújtotta, ha
 
-– a repülés várhatóan 30 percet (IFPS zónát érintő repülések esetén 15 percet) vagy ezt meghaladóan késni fog az indulással. Ha egy induló légijárműről az EOBT-t követő 2 óra múlva sem érkezik mozgásra vonatkozó tájékoztatás, pl. gurulás, felszállás vagy EOBT módosítás, az ATS egységek a repülési tervet automatikusan törlik; vagy
+– a repülés várhatóan 30 percet (IFPS zónát érintő repülések esetén 15 percet) vagy ezt meghaladóan késni fog az indulással. Ha egy induló légijárműről az EOBT-t követő 2 óra múlva sem érkezik mozgásra vonatkozó tájékoztatás, pl. gurulás, felszállás vagy EOBT módosítás, az ATS egységek a repülési tervet automatikusan törlik; vagy
 
-– a korábban benyújtott repülési terv egyéb adatait (pl. típus, utazósebesség, utazómagasság, 8,33 kHz frekvenciaosztású rádiókészülékkel való felszereltség) módosítani kívánják.
+– a korábban benyújtott repülési terv egyéb adatait (pl. típus, utazósebesség, utazómagasság, 8,33 kHz frekvenciaosztású rádiókészülékkel való felszereltség) módosítani kívánják.
 
 Megjegyzés: Ha csak az utazómagasságot kívánják módosítani, ez az ATS egységekkel történő rádióösszeköttetés során is megtehető.
 
-3.3.5.3.1. Módosító közleményt minden esetben továbbítani kell a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltségben beállott változás esetén.
+3.3.5.3.1. Módosító közleményt minden esetben továbbítani kell a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltségben beállott változás esetén.
 
-3.3.5.3.2. Ha valamely korábban feladott repülési terv 18. vagy 19. rovatában szereplő információkat törölni kívánják, az IFPS részére CHG közleményt kell továbbítani és a törlendő kulcsrövidítés után a NIL-t kell belefoglalni. Pl. STS/NIL esetén az FPL-ből valamennyi STS) információ törlésre kerül (az STS/PROTECTED kivételével) vagy RMK/NIL esetén az összes korábbi szöveg helyett RMK/NIL lesz látható.
+3.3.5.3.2. Ha valamely korábban feladott repülési terv 18. vagy 19. rovatában szereplő információkat törölni kívánják, az IFPS részére CHG közleményt kell továbbítani és a törlendő kulcsrövidítés után a NIL-t kell belefoglalni. Pl. STS/NIL esetén az FPL-ből valamennyi STS) információ törlésre kerül (az STS/PROTECTED kivételével) vagy RMK/NIL esetén az összes korábbi szöveg helyett RMK/NIL lesz látható.
 
-3.3.5.4. A törlésre vagy módosításra vonatkozó tájékoztatást nem lehet korábban megtenni, mint EOBT–20 óra.
+3.3.5.4. A törlésre vagy módosításra vonatkozó tájékoztatást nem lehet korábban megtenni, mint EOBT–20 óra.
 
-3.3.5.5. A törlésekről, illetve módosításokról a fentiek szerint tájékoztatott egységnek értesítenie kell mindazon egységeket, amelyek számára az eredeti FPL-t továbbította.
+3.3.5.5. A törlésekről, illetve módosításokról a fentiek szerint tájékoztatott egységnek értesítenie kell mindazon egységeket, amelyek számára az eredeti FPL-t továbbította.
 
-4. Közbenső leszállásokkal végrehajtott repülések és visszaúti repülések tervei
+4. Közbenső leszállásokkal végrehajtott repülések és visszaúti repülések tervei
 
 Az IFPS által szétosztandó repülési tervek vonatkozásában az FPL bármely repülési szakaszra benyújtható, a feladónak a közleményben fel kell tüntetnie az IFPS címeit és az esetleges egyéb címzetteket. Az FPL megfelelő időben történő szétosztásáról az IFPS gondoskodik.
 
-Ha a légijármű személyzete az IFPS-hez nem továbbítandó, közbenső útvonalra vagy visszaútra vonatkozó FPL-t nyújt be a Budapest–Ferihegyi repülőtér repülésbejelentőjénél, a repülés további szakaszaira, illetve a visszaútra vonatkozó FPL-t el kell juttatni a további indulási repülőterek repülésbejelentői számára, amelyek a kapott FPL-t ugyanúgy kezelik, mintha azt náluk nyújtották volna be.
+Ha a légijármű személyzete az IFPS-hez nem továbbítandó, közbenső útvonalra vagy visszaútra vonatkozó FPL-t nyújt be a Légiforgalmi szolgálatok bejelentő irodájánál, a repülés további szakaszaira, illetve a visszaútra vonatkozó FPL-t el kell juttatni a további indulási repülőterek repülésbejelentői számára, amelyek a kapott FPL-t ugyanúgy kezelik, mintha azt náluk nyújtották volna be.
 
-5. Különleges kezelés igénylése
+5. Különleges kezelés igénylése
 
-5.1. Meghatározott esetekben a légijármű a légiforgalmi szolgálatoktól különleges kezelést igényelhet, pl. elsőbbség biztosítása, áramlásszervezési intézkedések alóli felmentés. Az erre vonatkozó igénylést a 18. rovatban (STS/...) kell feltüntetni a megadott kulcsszavak használatával.
+5.1. Meghatározott esetekben a légijármű a légiforgalmi szolgálatoktól különleges kezelést igényelhet, pl. elsőbbség biztosítása, áramlásszervezési intézkedések alóli felmentés. Az erre vonatkozó igénylést a 18. rovatban (STS/...) kell feltüntetni a megadott kulcsszavak használatával.
 
 Különleges kezelés igénylésére az alábbi repülések jogosultak:
 
-– kényszerhelyzetben lévő repülések,
+– kényszerhelyzetben lévő repülések,
 
-– humanitárius célú repülések,
+– humanitárius célú repülések,
 
-– az élet mentésével kapcsolatos mentőrepülések, beleértve a betegek és sebesültek tényleges szállítását végző repüléseket, valamint az ezeknek a rendeltetési repülőtérről történő elszállítása céljából végzett repüléseket. Ugyancsak idetartoznak az átültetendő szervek, vérplazma és gyógyszerek szállításai, valamint ezek elszállítása érdekében végzett repülések,
+– az élet mentésével kapcsolatos mentőrepülések, beleértve a betegek és sebesültek tényleges szállítását végző repüléseket, valamint az ezeknek a rendeltetési repülőtérről történő elszállítása céljából végzett repüléseket. Ugyancsak idetartoznak az átültetendő szervek, vérplazma és gyógyszerek szállításai, valamint ezek elszállítása érdekében végzett repülések,
 
-– kutató-mentő repülések, és
+– kutató-mentő repülések, és
 
-– államfőt/miniszterelnököt szállító repülések.
+– államfőt/miniszterelnököt szállító repülések.
 
 A kulcsszavakat jogosulatlanul használni tilos.
 
@@ -2634,23 +2632,23 @@ A megfigyelés vagy bemutatás céljából végrehajtott Nyitott Égbolt (Open S
 
 Megjegyzés: A Nyitott Égbolt repülések által alkalmazandó légijármű azonosító jelek képzési szabályait a II. rész 2. pontja tartalmazza.
 
-5.2. Ugyancsak különleges kezelést kell igényelni az ATS-től az EUR RVSM légtérben GAT-ként működni szándékozó állami légijárművekből álló kötelékrepülések üzemben tartóinak, valamint a nem RVSM engedélyezett állami légijárművek üzemben tartóinak, amennyiben a kért repülési szintjük FL290 vagy e fölötti.
+5.2. Ugyancsak különleges kezelést kell igényelni az ATS-től az EUR RVSM légtérben GAT-ként működni szándékozó állami légijárművekből álló kötelékrepülések üzemben tartóinak, valamint a nem RVSM engedélyezett állami légijárművek üzemben tartóinak, amennyiben a kért repülési szintjük FL290 vagy e fölötti.
 
-6. FPL-ek címzése
+6. FPL-ek címzése
 
-6.1. A repülési tervet az érintett egységek számára történő továbbítás érdekében meg kell címezni és a rendelkezésre álló távközlési eszközök segítségével a címzettek számára el kell juttatni. Érintett egységeknek az indulási, valamint a rendeltetési repülőterek ATS egységei, valamint a repülés tervezett útvonalán légiforgalmi szolgálatokat nyújtó ATS egységek és a légiforgalom áramlását szervező egységek minősülnek. Ezen túlmenően bizonyos repülések számára az illetékes ATS hatóságok, a légijármű üzemben tartók vagy a repülőterek a repülési tervek továbbítását egyéb címzettek részére is előírhatják.
+6.1. A repülési tervet az érintett egységek számára történő továbbítás érdekében meg kell címezni és a rendelkezésre álló távközlési eszközök segítségével a címzettek számára el kell juttatni. Érintett egységeknek az indulási, valamint a rendeltetési repülőterek ATS egységei, valamint a repülés tervezett útvonalán légiforgalmi szolgálatokat nyújtó ATS egységek és a légiforgalom áramlását szervező egységek minősülnek. Ezen túlmenően bizonyos repülések számára az illetékes ATS hatóságok, a légijármű üzemben tartók vagy a repülőterek a repülési tervek továbbítását egyéb címzettek részére is előírhatják.
 
 Megjegyzés: Az egyes államokban alkalmazandó címzési eljárásokat a nemzeti AIP-k tartalmazzák.
 
-6.2. IFPS zónát érintő repülések
+6.2. IFPS zónát érintő repülések
 
 Megjegyzés: Az IFPS zónába tartozó FIR-ek felsorolását a 9. pont tartalmazza.
 
-6.2.1. Az IFPS zónát érintő repülések vonatkozásában az IFR/GAT repülésekre vonatkozó repülési terveket a zónán belüli IFR/GAT repüléseket kezelő egyedi ATS egységek helyett csak az IFPS hareni (Brüsszel) és brétigny-i (Párizs) egységei számára kell megcímezni. Ezek az egységek az IFPS zónán belül érintett ATS egységek részére az FPL közleményt eljuttatják.
+6.2.1. Az IFPS zónát érintő repülések vonatkozásában az IFR/GAT repülésekre vonatkozó repülési terveket a zónán belüli IFR/GAT repüléseket kezelő egyedi ATS egységek helyett csak az IFPS hareni (Brüsszel) és brétigny-i (Párizs) egységei számára kell megcímezni. Ezek az egységek az IFPS zónán belül érintett ATS egységek részére az FPL közleményt eljuttatják.
 
 Vegyes repülések esetén (IFR/VFR és/vagy OAT/GAT) a VFR és OAT repülési szakaszokat kezelő IFPS zónán belüli ATS egységek címeit külön meg kell adni.
 
-6.2.2. Az IFPS egységekhez eljuttatandó repülési terv közleményeknél ún. kettős címzési módszert kell alkalmazni, amelynek jellemzője, hogy a címzettek rovatba csak az IFPS egységek címeit kell belefoglalni, az egyéb címzetteket pedig a feladóra vonatkozó tájékoztatásokat követően, a szövegrész első elemeiként kell feltüntetni.
+6.2.2. Az IFPS egységekhez eljuttatandó repülési terv közleményeknél ún. kettős címzési módszert kell alkalmazni, amelynek jellemzője, hogy a címzettek rovatba csak az IFPS egységek címeit kell belefoglalni, az egyéb címzetteket pedig a feladóra vonatkozó tájékoztatásokat követően, a szövegrész első elemeiként kell feltüntetni.
 
 Az IFPS a repülési tervet a kitérő repülőtér(ek) számára nem címezi meg. Ha a repülési terv feladója az FPL-t a kitérő repülőtér(ek)re is el akarja juttatni, a kitérő repülőtér(ek) címeit a kettős címzési eljárással kell a feladónak az FPL közleménybe foglalni.
 
@@ -2666,53 +2664,53 @@ Az IFPS a repülési tervet a kitérő repülőtér(ek) számára nem címezi me
 
 | SITA | BRUEP7X | PAREP7X |
 
-6.3. A repülési tervek szétosztásával megbízott szervek AFTN vagy SITA hálózatokon továbbított repülési terv közlemények helyes címzéséért az alábbiak szerint felelősek:
+6.3. A repülési tervek szétosztásával megbízott szervek AFTN vagy SITA hálózatokon továbbított repülési terv közlemények helyes címzéséért az alábbiak szerint felelősek:
 
-a) az FPL-t az IFPS-hez közvetlenül benyújtó légijármű üzemben tartó felelős az FPL közlemény helyes megcímzéséért
+a) az FPL-t az IFPS-hez közvetlenül benyújtó légijármű üzemben tartó felelős az FPL közlemény helyes megcímzéséért
 
-– az IFPS egységek számára,
+– az IFPS egységek számára,
 
-– az IFPS zónán kívüli repülési szakaszon az érintett ATS egységek számára,
+– az IFPS zónán kívüli repülési szakaszon az érintett ATS egységek számára,
 
-– az IFPS zónán belüli VFR vagy OAT repüléseket felügyelő egységek számára, ha vegyes (VFR/IFR, GAT/OAT) repülést hajt végre, valamint
+– az IFPS zónán belüli VFR vagy OAT repüléseket felügyelő egységek számára, ha vegyes (VFR/IFR, GAT/OAT) repülést hajt végre, valamint
 
-– az illetékes ATS hatóságok, a légijármű üzemben tartó és a repülőterek által esetlegesen előírt egyéb címzettek számára;
+– az illetékes ATS hatóságok, a légijármű üzemben tartó és a repülőterek által esetlegesen előírt egyéb címzettek számára;
 
-b) egyéb esetekben a repülési tervet szétosztó szerv felelős a valamennyi érintett ATS egység számára történő megcímzésért. Ha azonban a repülés jellegétől függően az illetékes ATS hatóság, a légijármű üzemben tartó vagy a repülőtér a repülési terv továbbítását egyéb címzettek számára is előírja, a repülési terv benyújtójának felelőssége a külön kért címzettek megadása.
+b) egyéb esetekben a repülési tervet szétosztó szerv felelős a valamennyi érintett ATS egység számára történő megcímzésért. Ha azonban a repülés jellegétől függően az illetékes ATS hatóság, a légijármű üzemben tartó vagy a repülőtér a repülési terv továbbítását egyéb címzettek számára is előírja, a repülési terv benyújtójának felelőssége a külön kért címzettek megadása.
 
-7. Repülési tervek (FPL) összegyűjtése és szétosztása Budapest FIR-ben
+7. Repülési tervek (FPL) összegyűjtése és szétosztása Budapest FIR-ben
 
-7.1. Az IFPS-hez a légijármű üzemben tartó által közvetlenül eljuttatott FPL-ek esetében az IFPS gondoskodik a közlemény eljuttatásáról az IFPS zónán belül érintett valamennyi ATS egység, az Európai Áramlás Szervező Központ, valamint az üzemben tartó által a közleményben feltüntetett egyéb címzettek számára.
+7.1. Az IFPS-hez a légijármű üzemben tartó által közvetlenül eljuttatott FPL-ek esetében az IFPS gondoskodik a közlemény eljuttatásáról az IFPS zónán belül érintett valamennyi ATS egység, az Európai Áramlás Szervező Központ, valamint az üzemben tartó által a közleményben feltüntetett egyéb címzettek számára.
 
-7.2. A Budapest–Ferihegyi repülésbejelentő irodához benyújtott repülési tervek esetén az iroda gondoskodik az FPL eljuttatásáról az érintettek számára.
+7.2. A Légiforgalmi szolgálatok bejelentő irodához benyújtott repülési tervek esetén az iroda gondoskodik az FPL eljuttatásáról az érintettek számára.
 
-7.3. Az AFIS egységekkel rendelkező repülőtereken benyújtott repülési terveket a repülőtéri repüléstájékoztató egységnek az alábbiak szerint kell továbbítania:
+7.3. Az AFIS egységekkel rendelkező repülőtereken benyújtott repülési terveket a repülőtéri repüléstájékoztató egységnek az alábbiak szerint kell továbbítania:
 
-a) ha AFTN terminál rendelkezésre áll:
+a) ha AFTN terminál rendelkezésre áll:
 
-(i) belföldi VFR repülések FPL-jeit az alábbi egységek/címzettek számára kell eljuttatni:
+(i) belföldi VFR repülések FPL-jeit az alábbi egységek/címzettek számára kell eljuttatni:
 
-– Budapest ATS Központ (LHCCZIZX),
+– Budapest ATS Központ (LHCCZIZX),
 
-– az útvonalon érintett egyéb, AFTN terminállal rendelkező AFIS egységek, ha azok illetékességi légterét a légijármű várhatóan átrepüli,
+– az útvonalon érintett egyéb, AFTN terminállal rendelkező AFIS egységek, ha azok illetékességi légterét a légijármű várhatóan átrepüli,
 
-– a Magyar Honvédség Összhaderőnemi Parancsnokság Hadműveleti Központ Katonai Légiforgalmi Alosztály Légiforgalmi Tájékoztató Szolgálat (MH ÖHP HK KLA) (LHCCYWYX),
+– a Magyar Honvédség Összhaderőnemi Parancsnokság Hadműveleti Központ Katonai Légiforgalmi Alosztály Légiforgalmi Tájékoztató Szolgálat (MH ÖHP HK KLA) (LHCCYWYX),
 
-– a rendeltetési repülőtér, ha az fel van szerelve AFTN terminállal,
+– a rendeltetési repülőtér, ha az fel van szerelve AFTN terminállal,
 
-– a rendeltetési repülőtér által előírt vagy a légijármű vezetője által kért egyéb címzettek;
+– a rendeltetési repülőtér által előírt vagy a légijármű vezetője által kért egyéb címzettek;
 
-(ii) nemzetközi vagy IFR vagy vegyes (IFR/VFR) repülések FPL-jeit a Budapest–Ferihegyi repülésbejelentő (LHBPZPZX) számára kell továbbítani.
+(ii) nemzetközi vagy IFR vagy vegyes (IFR/VFR) repülések FPL-jeit a Légiforgalmi szolgálatok bejelentő iroda (LHBPZPZX) számára kell továbbítani.
 
-b) Ha AFTN terminál nem áll rendelkezésre, a repülési tervet elsődlegesen telefaxon, ennek hiányában telefonon kell továbbítani:
+b) Ha AFTN terminál nem áll rendelkezésre, a repülési tervet elsődlegesen telefaxon, ennek hiányában telefonon kell továbbítani:
 
-(i) belföldi VFR repülés esetén Budapest ATS Központ,
+(i) belföldi VFR repülés esetén Budapest ATS Központ,
 
-(ii) nemzetközi vagy IFR vagy vegyes (IFR/VFR) repülés esetén a Budapest–Ferihegyi repülésbejelentő
+(ii) nemzetközi vagy IFR vagy vegyes (IFR/VFR) repülés esetén a Légiforgalmi szolgálatok bejelentő iroda
 
 számára.
 
-7.4. A rendeltetési repülőtér ATS egységének értesítése egy tervezett repülés adatairól az alábbiak szerint történik:
+7.4. A rendeltetési repülőtér ATS egységének értesítése egy tervezett repülés adatairól az alábbiak szerint történik:
 
 Megjegyzés: Ha a rendeltetési repülőtéren ATS egység nincs, a légijármű vezetőjének felelőssége a repülőtér megfelelő tájékoztatása.
 
@@ -2724,7 +2722,7 @@ Ha a rendeltetési repülőtéren AFTN terminál nem áll rendelkezésre, a rend
 
 A fentiektől függetlenül, a repülés megkezdése után a légijármű várható érkezéséről/átadásáról az átadó ATS egység számított érkezési adatok megadásával az átadási pontra számított idő előtt legalább 15 perccel telefonon tájékoztatja az AFIS egységet.
 
-8. Telefon- és telefaxszámok
+8. Telefon- és telefaxszámok
 
 |  |  | Telefon | Telefax |
 
@@ -2738,9 +2736,9 @@ A fentiektől függetlenül, a repülés megkezdése után a légijármű várha
 
 | Áramlás Szervező Csoport |  | 06 (1) 296-9193 | 06 (1) 296-9152 |
 
-| Légiforgalmi szolgálatok bejelentő irodája (repülésbejelentő) Budapest–Ferihegy | 06 (1) 296-6844 | 06 (1) 296-6925 |
+| Légiforgalmi szolgálatok bejelentő irodája (repülésbejelentő) HungaroControl Magyar Légiforgalmi Szolgálat | 06 (1) 296-6844 | 06 (1) 296-6925 |
 
-9. Az IFPS zónába tartozó FIR-ek
+9. Az IFPS zónába tartozó FIR-ek
 
 | Ország | FIR/UIR | ICAO kódjel | Ország kódjel |
 
@@ -2878,15 +2876,15 @@ II. RÉSZ
 
 A REPÜLÉSI TERV ŰRLAP KITÖLTÉSE
 
-1. Az FPL űrlap jellemzői
+1. Az FPL űrlap jellemzői
 
 Az egyedi repülési tervek írásban történő benyújtására szolgáló FPL űrlap három részből áll:
 
-– a címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész. Ezt a részt az FPL-t átvevő egység tölti ki, azonban az FPL benyújtója itt feltüntetheti az általa külön kért egyéb címzetteket,
+– a címzettek és a feladással kapcsolatos adatok feltüntetésére szolgáló fejrész. Ezt a részt az FPL-t átvevő egység tölti ki, azonban az FPL benyújtója itt feltüntetheti az általa külön kért egyéb címzetteket,
 
-– az alapvető repülési tervadatokat tartalmazó középső rész, amelyet valamennyi címzetthez továbbítanak,
+– az alapvető repülési tervadatokat tartalmazó középső rész, amelyet valamennyi címzetthez továbbítanak,
 
-– kiegészítő tájékoztatások feltüntetésére szolgáló rész. Ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal és ezeket csak külön kérésre továbbítják.
+– kiegészítő tájékoztatások feltüntetésére szolgáló rész. Ez a rész általában nem kerül továbbításra a címzettek számára, az itt közölt információk az esetlegesen szükséges kutatás és mentés szempontjából bírnak fontossággal és ezeket csak külön kérésre továbbítják.
 
 Az űrlapon az egyes repülési adatok beírására rovatok szolgálnak, egy rovat több elemből is állhat. Az egyes rovatok/elemek neve két nyelven (angol–magyar) van megadva.
 
@@ -2894,9 +2892,9 @@ Az egyes rovatok számozottak (nem egymást követő számozással), a számozá
 
 A kitöltött FPL űrlap alapján a repülési tervet átvevő egység az AFTN-en történő továbbítás érdekében ún. FPL közleményt szerkeszt és juttat el az érintettek számára megfelelő távközlési eszköz segítségével. A kapott FPL közlemények feldolgozása a címzettek által javarészt automatikusan, számítógépes eszközökkel történik. Rendkívül fontos, hogy a közlemény alapjául szolgáló FPL űrlapot annak benyújtója az előírt módon és formában töltse ki.
 
-2. Az FPL űrlap kitöltése
+2. Az FPL űrlap kitöltése
 
-2.1. Általános előírások
+2.1. Általános előírások
 
 Hacsak az egyes mezők viszonylatában külön jelezve nincs, valamennyi mezőt ki kell tölteni.
 
@@ -2908,9 +2906,9 @@ A repülési tervben használt „repülőtér” kifejezés olyan területet is
 
 Az űrlapot jól olvasható nyomtatott nagybetűkkel kell kitölteni, faxon történő továbbítás esetén a kitöltéshez fekete színű íróeszközt (vagy írógépet) kell használni.
 
-2.2. Az FPL űrlap rovatainak és mezőinek kitöltése
+2.2. Az FPL űrlap rovatainak és mezőinek kitöltése
 
-7. rovat: LÉGIJÁRMŰ AZONOSÍTÓ JELE
+7. rovat: LÉGIJÁRMŰ AZONOSÍTÓ JELE
 
 Min. 2, max. 7 karakterrel írja be:
 
@@ -2932,9 +2930,9 @@ F: Felderítő célú repülés, a 18. rovatban az STS/ATFMEXEMTAPPROVED feltün
 
 D: Bemutató célú repülés, a 18. rovatban ugyancsak fel kell tüntetni az STS/ATFMEXEMTAPPROVED-t és belefoglalni a megjegyzést, hogy a repülés útvonala az érintett nemzeti hatóságokkal egyeztetésre került,
 
-T: Szállítás céljából végzett repülés. A repülést normál repülésként kezelik, a 18. rovatban semmit sem kell feltüntetni.
+T: Szállítás céljából végzett repülés. A repülést normál repülésként kezelik, a 18. rovatban semmit sem kell feltüntetni.
 
-8. rovat: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
+8. rovat: REPÜLÉSI SZABÁLYOK ÉS A REPÜLÉS TÍPUSA
 
 Repülési szabályok (1 karakter)
 
@@ -2966,15 +2964,15 @@ X egyéb, beleértve a VIP, mentő, rendőrségi, tűzoltó, kalibráló, gyakor
 
 Katonai repülések esetén:
 
-– teljes egészében OAT repülések esetén 18. rovatban STS/jelölést követően tüntesse fel a repülés jellegét,
+– teljes egészében OAT repülések esetén 18. rovatban STS/jelölést követően tüntesse fel a repülés jellegét,
 
-– vegyes repülés esetén a 15. rovatban tüntesse fel azt a pontot/pontokat, ahol a katonai repülés jellegének (GAT vagy OAT) megváltoztatását tervezik.
+– vegyes repülés esetén a 15. rovatban tüntesse fel azt a pontot/pontokat, ahol a katonai repülés jellegének (GAT vagy OAT) megváltoztatását tervezik.
 
 Megjegyzés: GAT repüléseknek a polgári szabályoknak megfelelően végrehajtott repülések minősülnek. OAT repüléseknek a katonai repülési eljárásokat követő speciális katonai repülések minősülnek, ezeket általában a katonai ATC egységek irányítják.
 
 „X” használata esetén STS/, RMK/ vagy STAYlNFOn/ jelölést használva adja meg a repülés jellegét.
 
-9. rovat: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
+9. rovat: LÉGIJÁRMŰVEK SZÁMA, TÍPUSA ÉS TURBULENCIA KATEGÓRIÁJA
 
 Légijárművek száma (1 vagy 2 karakter):
 
@@ -2992,11 +2990,11 @@ Egyedi légijármű, illetve azonos típusból álló kötelék esetén a 18. ro
 
 Több típusból álló kötelék esetén:
 
-– ha a légijárművek típusa nem ismert, a 9. rovatban a légijárművek darabszámát követően a légijármű típust ZZZZ-vel kell megadni és a 18. rovatban a légijármű típusokat a TYP/ és RMK/ t követően kell beírni, úgy, hogy a TYP/ után a legkisebb teljesítményű típust kell beírni, az RMK/ után pedig az egyéb típusokat kell felsorolni,
+– ha a légijárművek típusa nem ismert, a 9. rovatban a légijárművek darabszámát követően a légijármű típust ZZZZ-vel kell megadni és a 18. rovatban a légijármű típusokat a TYP/ és RMK/ t követően kell beírni, úgy, hogy a TYP/ után a legkisebb teljesítményű típust kell beírni, az RMK/ után pedig az egyéb típusokat kell felsorolni,
 
 pl. 9. rovat: 2ZZZZ/M, 18. rovat: TYP/D9FF RMK/SECOND AC TYPE D7FF
 
-– ha a légijárművek típusa ismert, a 9. rovatban a légijárművek darabszámát követően a legkisebb teljesítményű légijármű típus jelölését kell beírni, az egyéb légijárművek típusait pedig a 18. rovatban RMK/ után kell felsorolni,
+– ha a légijárművek típusa ismert, a 9. rovatban a légijárművek darabszámát követően a legkisebb teljesítményű légijármű típus jelölését kell beírni, az egyéb légijárművek típusait pedig a 18. rovatban RMK/ után kell felsorolni,
 
 pl. 9. rovat: 2BE20/M 18. rovat: RMK/SECOND AC TYPE BE9L.
 
@@ -3020,9 +3018,9 @@ N ha az útvonal lerepüléséhez és a megközelítés végrehajtásához a sz�
 
 és/vagy írjon be az alábbi betűkből egyet vagy többet a rendelkezésre álló és működő berendezések jelzésére:
 
-1. Megjegyzés: Budapest FIR-ben alapvető kommunikációs és navigációs berendezésen a VHF rádióberendezés, rádióiránytű, VOR és ILS vevő értendő.
+1. Megjegyzés: Budapest FIR-ben alapvető kommunikációs és navigációs berendezésen a VHF rádióberendezés, rádióiránytű, VOR és ILS vevő értendő.
 
-2. Megjegyzés: Nemzetközi repülés esetén az S betű csak fedélzeti RNAV berendezés megléte esetén használható.
+2. Megjegyzés: Nemzetközi repülés esetén az S betű csak fedélzeti RNAV berendezés megléte esetén használható.
 
 C LORAN C
 
@@ -3062,21 +3060,21 @@ Z Egyéb berendezések
 
 Megjegyzések:
 
-– a „J” használata esetén a 18. rovatban DAT/jelölést használva egy vagy több karakterrel adja meg a rendelkezésre álló berendezést,
+– a „J” használata esetén a 18. rovatban DAT/jelölést használva egy vagy több karakterrel adja meg a rendelkezésre álló berendezést,
 
-– az „R” jelölés a területi navigációs (RNAV) repülési képesség (RNP5) jelzésére használandó,
+– az „R” jelölés a területi navigációs (RNAV) repülési képesség (RNP5) jelzésére használandó,
 
-– RNAV képességgel nem rendelkező állami légijárművek EUR(opa) körzeten belül történő repülés során az „S” és „R” jelöléseket nem használhatják. RNAV képességgel nem rendelkező és ez alól felmentést kapott állami légijárműveknek a felmentést a 18. rovatban STS/-t követően kell jelezni,
+– RNAV képességgel nem rendelkező állami légijárművek EUR(opa) körzeten belül történő repülés során az „S” és „R” jelöléseket nem használhatják. RNAV képességgel nem rendelkező és ez alól felmentést kapott állami légijárműveknek a felmentést a 18. rovatban STS/-t követően kell jelezni,
 
-– az RVSM képességet a kért repülési szinttől függetlenül „W” beírásával jelezni kell a 10. rovatban. Kötelékrepülést végrehajtó állami légijárműveknek azonban – függetlenül RVSM engedélyezési státusuktól – nem szabad beírniuk a „W” betűt,
+– az RVSM képességet a kért repülési szinttől függetlenül „W” beírásával jelezni kell a 10. rovatban. Kötelékrepülést végrehajtó állami légijárműveknek azonban – függetlenül RVSM engedélyezési státusuktól – nem szabad beírniuk a „W” betűt,
 
-– a „Z” használata esetén a 18. rovatban COM/ és/vagy NAV/jelölést használva fel kell tüntetni az egyéb berendezéseket.
+– a „Z” használata esetén a 18. rovatban COM/ és/vagy NAV/jelölést használva fel kell tüntetni az egyéb berendezéseket.
 
 A 8,33 kHz csatornaosztású rádióberendezéssel történő felszereltséget külön jelezni kell.
 
-– ,,S” használata esetén is; és
+– ,,S” használata esetén is; és
 
-– akkor is, ha a tervezett repülési magasság nem indokolja a 8,33 kHz csatornaosztású rádióberendezés meglétét, azonban az adott légijármű képes olyan légtérben működni, ahol a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltséget előírták.
+– akkor is, ha a tervezett repülési magasság nem indokolja a 8,33 kHz csatornaosztású rádióberendezés meglétét, azonban az adott légijármű képes olyan légtérben működni, ahol a 8,33 kHz csatornaosztású rádióberendezéssel való felszereltséget előírták.
 
 Ha a légijármű ilyen rádiókészülékkel nincs felszerelve, az „Y”-t értelemszerűen nem kell beírni.
 
@@ -3104,7 +3102,7 @@ A transzponderre utaló jelölés után közvetlenül egy karakterrel jelezhető
 
 D ADS berendezéssel felszerelt.
 
-13. rovat: INDULÁSI REPÜLŐTÉR ÉS IDŐ
+13. rovat: INDULÁSI REPÜLŐTÉR ÉS IDŐ
 
 Indulási repülőtér (4 karakter):
 
@@ -3120,17 +3118,17 @@ Idő (4 karakter):
 
 Megjegyzés: A levegőből benyújtott repülési tervek vétele során a földi ATS egységek indulási repülőtérként az AFIL jelölést használhatják.
 
-15. rovat: ÚTVONAL
+15. rovat: ÚTVONAL
 
 Utazósebesség (max. 5 karakter):
 
 Írja be a tényleges önsebességet (TAS) a repülés első vagy teljes szakaszára az alábbi mértékegységek és módok alkalmazásával:
 
-– csomókban történő megadás esetén N és négy számjegy, pl. N0355
+– csomókban történő megadás esetén N és négy számjegy, pl. N0355
 
-– kilométer/órában történő megadás esetén K és négy számjegy, pl. K0830
+– kilométer/órában történő megadás esetén K és négy számjegy, pl. K0830
 
-– tényleges Mach-ban történő megadás esetén M és három számjegy, pl. 0,82 Mach = M082
+– tényleges Mach-ban történő megadás esetén M és három számjegy, pl. 0,82 Mach = M082
 
 Megjegyzés: Mach-ban történő sebesség megadás csak abban az esetben lehetséges, ha az érintett ország légügyi hatósága ezt külön engedélyezi.
 
@@ -3138,23 +3136,23 @@ Utazómagasság (max. 5 karakter):
 
 Írja be a tervezett utazómagasságot a repülés első vagy teljes szakaszára az alábbi mértékegységek alkalmazásával:
 
-– repülési szintben történő megadás esetén F és három számjegy, pl. F330,
+– repülési szintben történő megadás esetén F és három számjegy, pl. F330,
 
-– lábban kifejezett tengerszint feletti magasság szerinti megadás esetén A és három számjegy (100 lábas egységek), pl. A045 (4500 láb QNH magasság),
+– lábban kifejezett tengerszint feletti magasság szerinti megadás esetén A és három számjegy (100 lábas egységek), pl. A045 (4500 láb QNH magasság),
 
-– méter standard-ben történő megadás esetén S és négy számjegy (10 méteres egységek), pl. S 1130 (11 300 méter standard),
+– méter standard-ben történő megadás esetén S és négy számjegy (10 méteres egységek), pl. S 1130 (11 300 méter standard),
 
-– méterben kifejezett tengerszint feletti magasság szerinti megadás esetén M és négy számjegy (10 méteres egységek), pl. M0060 (600 méter QNH magasság),
+– méterben kifejezett tengerszint feletti magasság szerinti megadás esetén M és négy számjegy (10 méteres egységek), pl. M0060 (600 méter QNH magasság),
 
-– ellenőrzött légtéren kívül végrehajtott VFR repülések esetén ebbe a mezőbe VFR betűket is lehet írni.
+– ellenőrzött légtéren kívül végrehajtott VFR repülések esetén ebbe a mezőbe VFR betűket is lehet írni.
 
 Ha nemzetközi repülés során olyan FIR határt terveznek keresztezni, ahonnan a korábbitól eltérő mértékegységrendszert kell használni, az útvonalmezőben meg kell adni azt a pontot, ahonnan az új mértékegységrendszert használják, az új mértékegységrendszerben kifejezett adatokkal együtt (az eljárás megegyezik a sebesség/magasság megváltoztatás módjával).
 
 Budapest FIR-ben az utazómagasságokat:
 
-– az átváltási szinten vagy felette tervezett repülések esetén: repülési szintek szerint, pl. F110
+– az átváltási szinten vagy felette tervezett repülések esetén: repülési szintek szerint, pl. F110
 
-– az átváltási magasságon vagy alatta tervezett repülések esetén pedig: lábban vagy méterben kifejezett tengerszint feletti magasságban, pl. A025 vagy M0075 kell megadni.
+– az átváltási magasságon vagy alatta tervezett repülések esetén pedig: lábban vagy méterben kifejezett tengerszint feletti magasságban, pl. A025 vagy M0075 kell megadni.
 
 Útvonalmező (karakterszám nem meghatározott)
 
@@ -3164,27 +3162,27 @@ Az útvonalmező csak meghatározott elemeket tartalmazhat. Az útvonal leírás
 
 Az egyes elemek a következők lehetnek:
 
-1. útvonal kódjelölés (2–7 karakter): az útvonalra vagy útvonalszakaszra kiosztott kód jelölés, beleértve az ATS útvonalak kódjelölését, a szabvány műszeres indulási eljárásokat (SID) és szabvány érkezési eljárásokat (STAR) ahol ezek alkalmazhatók (pl. A4, UW42, H26, SPI1A) és egyéb egyeztetett kódjelöléseket, (pl. OAT repülési útvonal kódjelölése).
+1. útvonal kódjelölés (2–7 karakter): az útvonalra vagy útvonalszakaszra kiosztott kód jelölés, beleértve az ATS útvonalak kódjelölését, a szabvány műszeres indulási eljárásokat (SID) és szabvány érkezési eljárásokat (STAR) ahol ezek alkalmazhatók (pl. A4, UW42, H26, SPI1A) és egyéb egyeztetett kódjelöléseket, (pl. OAT repülési útvonal kódjelölése).
 
 Megjegyzés: Európai repülőterek esetén, ha a helyi előírások másképp nem rendelkeznek, SID-ket és STAR-okat ne foglaljanak bele az útvonalleírásba.
 
-2. fontos pont jelölése, ami lehet:
+2. fontos pont jelölése, ami lehet:
 
-– a pont számára kiosztott kódjelölés (2–5 karakter), pl. MN, TPS, BALVA,
+– a pont számára kiosztott kódjelölés (2–5 karakter), pl. MN, TPS, BALVA,
 
-– csak fokokat tartalmazó földrajzi koordináta (7 karakter), pl. 47N021E, 23S037W,
+– csak fokokat tartalmazó földrajzi koordináta (7 karakter), pl. 47N021E, 23S037W,
 
-– fokokat és perceket tartalmazó földrajzi koordináta (11 karakter) pl. 4712N02135E, 3612S04512W,
+– fokokat és perceket tartalmazó földrajzi koordináta (11 karakter) pl. 4712N02135E, 3612S04512W,
 
-– irányszög és távolság valamely navigációs berendezéstől (8 vagy 9 karakter).
+– irányszög és távolság valamely navigációs berendezéstől (8 vagy 9 karakter).
 
 Az első két vagy három karakter a VOR vagy NDB jele, melyet szóköz nélkül, a mágneses irányt és a tengeri mérföldben mért távolságot jelző 3-3 számjegy követ, pl. BUG-tól 90 fokra és 30 NM-re lévő pont jelölése: BUG090030,
 
-– az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett település neve (csak ellenőrzött légtéren kívül tervezett VFR repülési szakasz leírásához).
+– az ICAO 1:500 000 Légiforgalmi Térképen feltüntetett település neve (csak ellenőrzött légtéren kívül tervezett VFR repülési szakasz leírásához).
 
 A számjegyek előírt számát nulla beiktatásával kell kialakítani, ha szükséges.
 
-3. utazósebesség és/vagy utazómagasság változtatás helye (max. 21 karakter):
+3. utazósebesség és/vagy utazómagasság változtatás helye (max. 21 karakter):
 
 az a pont, ahol az utazósebesség, és/vagy utazómagasság megváltoztatását tervezik, amit egy törtvonás és az utazósebesség, valamint az utazómagasság értékei követnek, még akkor is, ha csak az egyik érték változik. Szóközt használni nem lehet.
 
@@ -3192,13 +3190,13 @@ Pl. MN/N0420F350, OBETA/N0435F330,
 
 4602N02135E/N0450F330, BUG120025/N0250F130
 
-4. repülés jellegének megváltoztatási helye (max. 20 karakter):
+4. repülés jellegének megváltoztatási helye (max. 20 karakter):
 
 az a pont, ahol a repülés jellegének (GAT – polgári szabályok szerint végzett repülések, OAT – speciális katonai repülések) megváltoztatását tervezik, amit egy szóköz és az új repülési jelleg megadása követ.
 
 Pl. BUG OAT, NORAH/N0350F110 GAT
 
-5. repülési szabályok megváltoztatása (3 karakter):
+5. repülési szabályok megváltoztatása (3 karakter):
 
 a pont nevének, illetve helyének megadását követően egy szóköz után:
 
@@ -3210,7 +3208,7 @@ Pl. BUG VFR, TPS/N0200F120 IFR, NORAH/N0180A025 GAT VFR
 
 Megjegyzés: A szóközzel történő elválasztás valamennyi országban használható. Budapest FIR-en kívül az elválasztás törtvonallal is történhet.
 
-6. utazóemelkedés jelzése (max. 28 karakter):
+6. utazóemelkedés jelzése (max. 28 karakter):
 
 C betűt követő törtvonás után az utazóemelkedés megkezdésének pontja, majd ismét törtvonás, utána az utazóemelkedés közbeni sebesség, az utazóemelkedési réteg két szélső magassága vagy az a magasság, amely felett az utazóemelkedést tervezik és utána a PLUS betűk. Szóközt használni nem lehet.
 
@@ -3218,7 +3216,7 @@ Pl. C/48N050W/M082F290F350, C/48N050W/MO82F290PLUS
 
 Budapest FIR-en belüli repülési szakaszokra utazóemelkedést nem lehet jelezni.
 
-7. útvonali várakozás jelzése (STAY karaktersorozat, körzet és várakozási idő):
+7. útvonali várakozás jelzése (STAY karaktersorozat, körzet és várakozási idő):
 
 Az eljárás csak útvonalon tervezett speciális várakozások jelzésére használható, pl. VOR berepülés, üzemanyag felvétel, légi fényképezés stb.
 
@@ -3236,21 +3234,21 @@ Kijelölt ATS útvonalakon történő repülések:
 
 Az útvonal kezdetének megadásához írja be:
 
-– annak a fontos pontnak a kódjelölését, ahol a SID befejeződik és az azt követő ATS útvonal jelölését,
+– annak a fontos pontnak a kódjelölését, ahol a SID befejeződik és az azt követő ATS útvonal jelölését,
 
 pl. TORNO UY52..., SUI UR232..., vagy
 
-– ha az indulási repülőtéren SID-k nincsenek kijelölve, a DCT (direkt) betűket, az első ATS útvonalhoz való csatlakozás pontját és az ATS útvonal jelölését.
+– ha az indulási repülőtéren SID-k nincsenek kijelölve, a DCT (direkt) betűket, az első ATS útvonalhoz való csatlakozás pontját és az ATS útvonal jelölését.
 
 Ezt követően be kell írni minden olyan pontot, ahol:
 
-– az útvonal,
+– az útvonal,
 
-– az utazósebesség vagy utazómagasság,
+– az utazósebesség vagy utazómagasság,
 
-– a repülési szabályok, vagy
+– a repülési szabályok, vagy
 
-– a repülés jellegének megváltoztatását
+– a repülés jellegének megváltoztatását
 
 tervezik.
 
@@ -3264,25 +3262,25 @@ Utazósebesség változtatásnak az 5%-ot elérő sebességváltoztatás minős�
 
 Ezután minden esetben be kell írni:
 
-– a következő ATS útvonalszakasz jelölését, még akkor is, ha ez megegyezik az előzővel, vagy
+– a következő ATS útvonalszakasz jelölését, még akkor is, ha ez megegyezik az előzővel, vagy
 
-– a DCT betűket, ha a következő pontra történő repülés nem kijelölt ATS útvonalon történik.
+– a DCT betűket, ha a következő pontra történő repülés nem kijelölt ATS útvonalon történik.
 
 Ugyancsak DCT betűket kell használni az azonosító jelölés nélküli ún. „ATS” útvonalat kijelölő két pont között.
 
 Nem kell DCT-t használni:
 
-– földrajzi koordinátákkal vagy irányszöggel és távolsággal megadott pontok között, és
+– földrajzi koordinátákkal vagy irányszöggel és távolsággal megadott pontok között, és
 
-– belföldi VFR repülések esetén, illetve belföldi VFR repülési szakaszokra.
+– belföldi VFR repülések esetén, illetve belföldi VFR repülési szakaszokra.
 
 Az útvonal befejezésének megadásához írja be az indulásnál leírtakhoz hasonlóan:
 
-– annak a fontos pontnak a kódjelölését, ahonnan a rendeltetési repülőtérre vezető STAR kezdődik,
+– annak a fontos pontnak a kódjelölését, ahonnan a rendeltetési repülőtérre vezető STAR kezdődik,
 
 pl.... UG104 ALB, UG 18 LARKI, vagy
 
-– ha a rendeltetési repülőtéren STAR-ok nincsenek kijelölve, az utolsó ATS útvonal jelölése után az útvonal elhagyásának pontját, mely lehet pl. a TMA belépőpont vagy a rendeltetési repülőteret kiszolgáló navigációs berendezés és a DCT betűket.
+– ha a rendeltetési repülőtéren STAR-ok nincsenek kijelölve, az utolsó ATS útvonal jelölése után az útvonal elhagyásának pontját, mely lehet pl. a TMA belépőpont vagy a rendeltetési repülőteret kiszolgáló navigációs berendezés és a DCT betűket.
 
 Példák az ATS útvonalon végrehajtott repülések útvonalának leírására:
 
@@ -3306,17 +3304,15 @@ Valamennyi Budapest FIR határát keresztező repülés esetén a repülési ter
 
 A nem ellenőrzött légtérből ellenőrzött légtérbe történő belépés pontját az útvonal leírása során fel kell tüntetni.
 
-Az államhatár menti korlátozott légtérben tervezett repülésekre benyújtott FPL-ken a 18. rovatban RMK/ADIZFLIGHT jelölést kell használni, kiegészítve a katonai légügyi hatóság engedélyező határozatának számával.
-
 OAT repülések útvonal leírása
 
 Az OAT repülések útvonalának vagy az OAT útvonalszakasz leírását az alábbiak szerint lehet végrehajtani:
 
-– a katonai és polgári szervek között egyeztetett kódjelölés használatával,
+– a katonai és polgári szervek között egyeztetett kódjelölés használatával,
 
 Megjegyzés: OAT repülésekre egyeztetett kódjelölések egyelőre nincsenek.
 
-– földrajzi koordináták segítségével.
+– földrajzi koordináták segítségével.
 
 Vegyes jellegű repülések esetén az OAT, illetve GAT repülési szakaszok átmeneti pontjai csak nemzetközileg közzétett fontos pontok lehetnek, pl. BUG OAT, ROMKA GAT.
 
@@ -3340,13 +3336,13 @@ Példák az ATS útvonalakon kívül végrehajtott belföldi repülések útvona
 
 Dunakeszi–Gödöllő: DCT (VFR vagy IFR repülés)
 
-Budapest Ferihegy–Nyíregyháza: JBR NCS (VFR repülés)
+Budapest (Liszt Ferenc)–Nyíregyháza: JBR NCS (VFR repülés)
 
 Szeged–Budaörs: BUG OTSA MOLNA (VFR repülés)
 
 Budaörs–Siófok: DCT PUSTA DCT SVR DCT (IFR repülés)
 
-Budapest Ferihegyi gyakorló repülés (IFR): DCT TPS DCT
+Budapest (Liszt Ferenc) gyakorló repülés (IFR): DCT TPS DCT
 
 FL 195 felett végrehajtott VFR repülések
 
@@ -3362,13 +3358,13 @@ Az RVSM engedélyezett légijármű és a nem RVSM engedélyezett állami légij
 
 A 2. Fejezet 2.6.1.10. pontjában részletezett EUR RVSM légtérben működni szándékozó RVSM engedélyezett légijárművek és a nem RVSM engedélyezett állami légijárművek üzemben tartóinak az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
 
-a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra kért repülési szintet; és
+a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra kért repülési szintet; és
 
-b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
+b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
 
 Nem RVSM engedélyezett légijármű repülési útvonalának tervezése
 
-Megjegyzés: Az EUR RVSM légtérben kiadandó ATC engedély tekintetében lásd a 2. Fejezet 2.6.1.10. pontját.
+Megjegyzés: Az EUR RVSM légtérben kiadandó ATC engedély tekintetében lásd a 2. Fejezet 2.6.1.10. pontját.
 
 A 2. Fejezet 2.6.1.10. pontjában részletezett EUR RVSM átváltási légtereket, valamint az ICAO Doc. 7030/4 10.2.1. pontban részletezett légtereket kivéve, a nem RVSM engedélyezett légijárművek üzemben tartóinak üzemeltetésüket az EUR RVSM légtéren kívül kell tervezniük.
 
@@ -3376,33 +3372,33 @@ RVSM légtérből történő indulás
 
 A Budapest FIR-ből vagy az EUR RVSM légtér oldalhatárain belüli repülőtérről induló, nem RVSM engedélyezett légijármű üzemben tartóknak ha, akár az EUR RVSM légtér oldalhatárain belül, akár azon kívül található rendeltetési repülőtérre szándékoznak üzemelni, az alábbiakat kell beírniuk az utazómagasság jelölésére:
 
-a) valamennyi az EUR RVSM légtér oldalhatárán belüli útvonalszakaszra FL290 alatti kért repülési szintet; és
+a) valamennyi az EUR RVSM légtér oldalhatárán belüli útvonalszakaszra FL290 alatti kért repülési szintet; és
 
-b) az EUR RVSM légtér oldalhatárán kívüli repülésre az oldalhatáron található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
+b) az EUR RVSM légtér oldalhatárán kívüli repülésre az oldalhatáron található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
 
 RVSM légtéren kívülről történő indulás
 
 A nem RVSM engedélyezett légijármű üzemben tartóknak, amennyiben az EUR RVSM légtér oldalhatárain kívüli indulási repülőtérről szándékoznak üzemelni valamely az EUR RVSM légtér oldalhatárain belül található rendeltetési repülőtérre, az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
 
-a) az EUR RVSM légtér oldalhatárán található belépő pontot; és
+a) az EUR RVSM légtér oldalhatárán található belépő pontot; és
 
-b) közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti kért repülési szintet.
+b) közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti kért repülési szintet.
 
 A nem RVSM engedélyezett légijárművek üzemben tartói, amennyiben olyan indulási repülőtérről – az RVSM légteret átrepülve –, olyan rendeltetési repülőtérre szándékoznak üzemelni, melyek az EUR RVSM légtér oldalhatárain kívül találhatók, a repülés EUR RVSM légtér oldalhatárain belüli útvonalszakaszára vonatkozóan az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába:
 
-a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti vagy FL410 feletti kért repülési szintet; és
+a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti vagy FL410 feletti kért repülési szintet; és
 
-b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
+b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet.
 
 Feltételes útvonalak (CDR) és egyéb megkötések (RAD)
 
 A Rugalmas Légtérfelhasználás (FUA) elveknek megfelelően a polgári forgalom által igénybe vett repülési útvonalak korlátozás alá kerülhetnek. Ezek az ún. feltételes útvonalak (conditional routes – CDR), melyek az alábbi kategóriákba sorolhatók:
 
-– 1. kategóriájú (CDR1). Ezek az útvonalak repülési tervben tervezhetők a nemzeti AIP-kben megadott időszakban. Az EUROCONTROL által naponta kiadott Conditional Route Availibility Message (CRAM) tartalmazza az ilyen kategóriájú útvonalak zárását.
+– 1. kategóriájú (CDR1). Ezek az útvonalak repülési tervben tervezhetők a nemzeti AIP-kben megadott időszakban. Az EUROCONTROL által naponta kiadott Conditional Route Availibility Message (CRAM) tartalmazza az ilyen kategóriájú útvonalak zárását.
 
-– 2. kategóriájú (CDR2). Ezekre az útvonalakra repülési tervet csak a naponta kiadott CRAM-nak megfelelően lehet benyújtani.
+– 2. kategóriájú (CDR2). Ezekre az útvonalakra repülési tervet csak a naponta kiadott CRAM-nak megfelelően lehet benyújtani.
 
-– 3. kategóriájú (CDR3). Ezekre az útvonalakra repülési tervet nem lehet benyújtani, az ezeken történő repülésre az ATC egységek esetileg adnak engedélyt a pillanatnyi helyzet függvényében.
+– 3. kategóriájú (CDR3). Ezekre az útvonalakra repülési tervet nem lehet benyújtani, az ezeken történő repülésre az ATC egységek esetileg adnak engedélyt a pillanatnyi helyzet függvényében.
 
 CDR2 és CDR3 útvonalakat RPL-ekben nem lehet tervezni. A CDR1 útvonalak vonatkozásában az útvonalak felhasználhatóságának megfelelően RPL-t szükség szerint külön kell benyújtani hétvégére, éjszakára stb.
 
@@ -3410,7 +3406,7 @@ Az EUROCONTROL CFMU az egyes tagállamoknak az AIP-kben közzétett repülési �
 
 A hozzá benyújtott repülési tervek esetében az IFPS ellenőrzi az útvonalak CDR és RAD szerinti használhatóságát.
 
-16. rovat: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, KITÉRŐ REPÜLŐTÉR(EK)
+16. rovat: RENDELTETÉSI REPÜLŐTÉR ÉS TELJES SZÁMÍTOTT REPÜLÉSI IDŐ, KITÉRŐ REPÜLŐTÉR(EK)
 
 Rendeltetési repülőtér (4 karakter):
 
@@ -3424,9 +3420,9 @@ Teljes számított repülési idő (4 karakter)
 
 Írja be:
 
-– IFR repülések esetén azt a számított időtartamot, amely a felszállástól addig a navigációs berendezéssel meghatározott pontig szükséges, ahonnan a műszeres megközelítési eljárás megkezdését tervezik vagy ha a rendeltetési repülőtéren ilyen navigációs berendezés nincs, akkor azt az időtartamot, amely a felszállástól a rendeltetési repülőtér fölé érkezésig szükséges.
+– IFR repülések esetén azt a számított időtartamot, amely a felszállástól addig a navigációs berendezéssel meghatározott pontig szükséges, ahonnan a műszeres megközelítési eljárás megkezdését tervezik vagy ha a rendeltetési repülőtéren ilyen navigációs berendezés nincs, akkor azt az időtartamot, amely a felszállástól a rendeltetési repülőtér fölé érkezésig szükséges.
 
-– VFR repülések esetén azt a számított időtartamot, amely a felszállástól a rendeltetési repülőtér fölé való érkezésig szükséges.
+– VFR repülések esetén azt a számított időtartamot, amely a felszállástól a rendeltetési repülőtér fölé való érkezésig szükséges.
 
 Le-felszállásokat gyakorló helyi repülések esetén az első felszállástól az utolsó leszállásig terjedő időt kell beírni.
 
@@ -3460,23 +3456,23 @@ OPR/ Az üzemben tartó neve, ha az a 7. rovatban megadott légijármű azonosí
 
 STS/ Speciális kezelés igénylése az ATS-től és ennek oka,
 
-– humanitárius célú repülések: STS/HUM
+– humanitárius célú repülések: STS/HUM
 
-– mentőrepülések: STS/HOSP
+– mentőrepülések: STS/HOSP
 
-– kutató-mentő repülések: STS/SAR
+– kutató-mentő repülések: STS/SAR
 
-– államfőt, miniszterelnököt szállító repülések: STS/HEAD
+– államfőt, miniszterelnököt szállító repülések: STS/HEAD
 
-– egyéb, állami hatóságok által kért különleges kezelés: STS/STATE
+– egyéb, állami hatóságok által kért különleges kezelés: STS/STATE
 
-– a repülési tervhez csak az érintettek jussanak hozzá: STS/PROTECTED
+– a repülési tervhez csak az érintettek jussanak hozzá: STS/PROTECTED
 
-– kényszerhelyzetben lévő repülések (pl. AFIL esetén): STS/EMER
+– kényszerhelyzetben lévő repülések (pl. AFIL esetén): STS/EMER
 
-– RVSM képesség hiánya: STS/NON RVSM
+– RVSM képesség hiánya: STS/NON RVSM
 
-– a nemzeti hatóságok által az ATFM szabályozás alól kivont repülések, pl. a Nyitott Égbolt keretében végrehajtott felderítő vagy bemutató repülések: STS/ATFMEXEMPTAPPROVED
+– a nemzeti hatóságok által az ATFM szabályozás alól kivont repülések, pl. a Nyitott Égbolt keretében végrehajtott felderítő vagy bemutató repülések: STS/ATFMEXEMPTAPPROVED
 
 Többszörös jelölés ugyancsak alkalmazható. Ilyen esetben az egyes jelöléseket, különálló STS után kell feltüntetni, pl. STS/HEAD STS/PROTECTED.
 
@@ -3512,21 +3508,19 @@ CODE/ A légijármű adatcíme (hat hexadecimális karakterrel kifejezve), ha en
 
 RMK/ Egyéb nyílt-szövegű megjegyzés. Itt kell feltüntetni esetlegesen:
 
-– a repülés célját, pl. gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás;
+– a repülés célját, pl. gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás;
 
-– a diplomáciai és speciális engedélyek meglétét,
+– a diplomáciai és speciális engedélyek meglétét,
 
-– az államhatár menti korlátozott légtérben tervezett repülések esetén az erre való utalást, valamint az engedélyező határozat számát,
+– a repülés végrehajtásával kapcsolatban kért speciális tájékoztatásokat, pl. leszállási közlemény továbbításának kérése megadott címre,
 
-– a repülés végrehajtásával kapcsolatban kért speciális tájékoztatásokat, pl. leszállási közlemény továbbításának kérése megadott címre,
+– veszélyes anyagra vonatkozó információkat,
 
-– veszélyes anyagra vonatkozó információkat,
+– az illetékes ATS hatóság által kért egyéb kiegészítő tájékoztatásokat,
 
-– az illetékes ATS hatóság által kért egyéb kiegészítő tájékoztatásokat,
+– kötelékrepülés esetén szükség szerint a légijárművek típusait, valamint
 
-– kötelékrepülés esetén szükség szerint a légijárművek típusait, valamint
-
-– a légijármű vezetője által hasznosnak ítélt bármely egyéb tájékoztatást.
+– a légijármű vezetője által hasznosnak ítélt bármely egyéb tájékoztatást.
 
 DOF/YYMMDD A közlekedés dátuma, hat számjegyű (YY=év MM=hónap DD=nap) jelöléssel, pl. DOF/941223. A közlekedés dátumának az EOBT dátuma minősül.
 
@@ -3568,7 +3562,7 @@ AWR/Rn A repülési terv a légijármű üzemben tartónak a CFMU terminálon ke
 
 ORGN/ Az IFPS-től kapott közlemény eredeti feladója.
 
-19. rovat: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
+19. rovat: KIEGÉSZÍTŐ TÁJÉKOZTATÁSOK
 
 Üzemanyag
 
@@ -3624,11 +3618,11 @@ X-elje ki a D és C jelöléseket, ha mentőcsónakok nincsenek a fedélzeten.
 
 Ha vannak, írja be a mentőcsónakok számát, és
 
-– írja be a befogadóképesség mezőbe a mentőcsónakokban összesen szállítható személyek számát,
+– írja be a befogadóképesség mezőbe a mentőcsónakokban összesen szállítható személyek számát,
 
-– X-elje ki a C jelölést, ha a mentőcsónakok nem fedettek,
+– X-elje ki a C jelölést, ha a mentőcsónakok nem fedettek,
 
-– írja be a mentőcsónakok színét.
+– írja be a mentőcsónakok színét.
 
 Légijármű színe és jelzései
 
@@ -3646,15 +3640,15 @@ Benyújtotta
 
 Írja be a repülési tervet kitöltő szerv vagy személy nevét (szükség szerint elérhetőségi telefonszámát).
 
-3. Az FPL űrlap képe
+3. Az FPL űrlap képe
 
 III. RÉSZ
 
 AZ ISMÉTLŐDŐ REPÜLÉSI TERV FORMANYOMTATVÁNY KITÖLTÉSE
 
-1. RPL kitöltési szabályok
+1. RPL kitöltési szabályok
 
-1.1. Általános előírások
+1.1. Általános előírások
 
 Kizárólag az IFR szerint működő repülések tervei vehetők fel a listára (a Repülési Terv – FPL – formátumban a repülési szabályok I-vel vannak jelölve).
 
@@ -3682,21 +3676,21 @@ Az oldalakat oly módon kell számozni, hogy jelölni kell az oldalszámot és a
 
 Több sort kell használni az ismétlődő repülési terv leírásához, ha az O és a Q rovatok számára egy sorban rendelkezésre álló hely kevésnek bizonyul.
 
-1.2. Egy repülést a következőképpen kell törölni:
+1.2. Egy repülést a következőképpen kell törölni:
 
-1. Írjon a H rovatba mínusz (–) jelet és ezután írja be a törölt járat adatait;
+1. Írjon a H rovatba mínusz (–) jelet és ezután írja be a törölt járat adatait;
 
-2. Végezzen el új bejegyzést a H rovatban + jellel megjelölve, a J rovatban tüntesse fel az utolsó járat dátumát és a törölt járat többi adatait változatlan formában írja be.
+2. Végezzen el új bejegyzést a H rovatban + jellel megjelölve, a J rovatban tüntesse fel az utolsó járat dátumát és a törölt járat többi adatait változatlan formában írja be.
 
-1.3. Egy repülés módosítását a következőképpen kell elvégezni:
+1.3. Egy repülés módosítását a következőképpen kell elvégezni:
 
-1. Hajtsa végre a járat törlését az 1.2. pontban leírtaknak megfelelően; és
+1. Hajtsa végre a járat törlését az 1.2. pontban leírtaknak megfelelően; és
 
-2. A harmadik sorban adja meg az új repülési tervet az egyes rovatokat szükség szerint módosítva és jelezze az érvényességi időt az I és J rovatokban.
+2. A harmadik sorban adja meg az új repülési tervet az egyes rovatokat szükség szerint módosítva és jelezze az érvényességi időt az I és J rovatokban.
 
 Megjegyzés: Az ugyanarra a repülésre vonatkozó valamennyi bejegyzést a fent meghatározott sorrendben kell megtenni.
 
-1.4. Utasítások az ismétlődő repülési tervadatok beírásához
+1.4. Utasítások az ismétlődő repülési tervadatok beírásához
 
 Az A-tól Q-ig terjedő rovatokat az alábbiak szerint töltse ki.
 
@@ -3786,15 +3780,15 @@ L – LIGHT (KÖNNYŰ), olyan légijármű típus jelzésére, amelynek engedél
 
 (az ICAO repülési terv 15. rovata)
 
-a) UTAZÓSEBESSÉG
+a) UTAZÓSEBESSÉG
 
 ÍRJA BE: a tényleges önsebességet (TAS) a repülés első vagy teljes szakaszára az ICAO repülési terv 15 (a) rovatának megfelelően.
 
-b) UTAZÓMAGASSÁG
+b) UTAZÓMAGASSÁG
 
 ÍRJA BE: a tervezett utazómagasságot az útvonal első szakaszára vagy a teljes útvonalra az ICAO repülési terv 15 (b) rovatának megfelelően.
 
-c) ÚTVONAL
+c) ÚTVONAL
 
 ÍRJA BE: a teljes útvonalat az ICAO repülési terv 15 (c) rovatának megfelelően.
 
@@ -3810,7 +3804,7 @@ c) ÚTVONAL
 
 ÍRJA BE: az illetékes ATS hatóság által megkívánt információelemeket és azokat az információkat, amelyeket az ICAO repülési terv 18. rovatában feltüntetnek, valamint mindazt, amely a repülésre vonatkozóan jelentőséggel bír a légiforgalmi szolgálatok számára.
 
-2. Példa a kitöltött RPL formanyomtatványra
+2. Példa a kitöltött RPL formanyomtatványra
 
 REPETITIVE FLIGHT PLAN LISTING
 
@@ -3920,7 +3914,7 @@ Megjegyzés: Budapest FIR ellenőrzött légtereiben az ATS egységek számára 
 
 2. Ha az érintett repülőtérre vonatkozóan másképp nem írják elő, felszállás előtt a mód/kód beállítása után a transzpondert bekapcsolt állapotba helyezni csak közvetlenül a felszállás előtt szabad. A készüléket külön felszólítás nélkül ki kell kapcsolni, vagy készenléti helyzetbe kell kapcsolni a leszállás végrehajtása után.
 
-Budapest-Ferihegy repülőtérről/re történő üzemelés esetén az induló légijárművek transzponderüket a forgalmi előtérről történő elguruláskor kell bekapcsolniuk és leszállás után az állóhelyre történő begurulásig bekapcsolva kell tartaniuk!
+Budapest Liszt Ferenc Nemzetközi Repülőtérről vagy oda történő üzemelés esetén az induló légijárművek transzponderüket a forgalmi előtérről történő elguruláskor kell bekapcsolniuk és leszállás után az állóhelyre történő begurulásig bekapcsolva kell tartaniuk!
 
 3. GAT repülés végrehajtása közben a transzpondert folyamatosan üzemeltetni kell.
 
@@ -4110,11 +4104,11 @@ Az ilyen jelzések egyike sem jelent irányítói engedélyt vagy utasítást.
 
 „L” Függelék
 
-VFR ELJÁRÁSOK BUDAPEST-FERIHEGY REPÜLŐTÉRI IRÁNYÍTÓ KÖRZETBEN ÉS BUDAPEST TMA-BAN
+VFR ELJÁRÁSOK BUDAPEST REPÜLŐTÉRI IRÁNYÍTÓ KÖRZETBEN ÉS BUDAPEST TMA-BAN
 
-Megjegyzés: A Budapest–Ferihegy repülőtéri irányító körzet (CTR) és Budapest TMA leírását a magyar légtér légiközlekedés céljára történő kijelölésről szóló miniszteri rendelet 2. melléklete és az 1:500 000 léptékű légiforgalmi térkép tartalmazza.
+Megjegyzés: A Budapest repülőtéri irányító körzet (CTR) és Budapest TMA leírását a magyar légtér légiközlekedés céljára történő kijelölésről szóló miniszteri rendelet 2. melléklete és az 1:500 000 léptékű légiforgalmi térkép tartalmazza.
 
-1. VFR eljárások Budapest-Ferihegy CTR-ben
+1. VFR eljárások Budapest CTR-ben
 
 1.1. Általános előírások
 
@@ -4140,7 +4134,7 @@ c) Az állami légijárművel különleges feladatot végrehajtó repülések, v
 
 1.1.2. A CTR-ben hajtómű nélküli légijárművek repülése tilos.
 
-1.1.3. A CTR végső megközelítési területére csak a Budapest–Ferihegy repülőtérre történő leszállás vagy speciális repülő feladat végrehajtása esetén lehet berepülni.
+1.1.3. A CTR végső megközelítési területére csak a Budapest Liszt Ferenc Nemzetközi Repülőtérre történő leszállás vagy speciális repülő feladat végrehajtása esetén lehet berepülni.
 
 A végső megközelítési terület a földfelszíntől 2000’ (600 m) AMSL magasságig tart és az alábbi koordinátákat összekötő vonalak határolják:
 
@@ -4158,13 +4152,13 @@ Speciális repülő feladatnak minősül: az állami légijárművel különlege
 
 1.2. A repülések végrehajtása
 
-1.2.1. A nem ellenőrzött légtérből belépni szándékozó légijárműveknek fel kell venniük a rádióösszeköttetést a TWR-rel (118,1 MHz) a CTR határ átrepülése előtt és engedélyt kell kérniük a belépésre.
+1.2.1. A nem ellenőrzött légtérből belépni szándékozó légijárműveknek fel kell venniük a rádióösszeköttetést a TWR-rel (118,1 MHz) a CTR határ átrepülése előtt és engedélyt kell kérniük a belépésre.
 
-1.2.1.1. A belépést kijelölt belépő pontokon kell végrehajtani, kivéve, ha a Budapest–Ferihegyi TWR másként nem rendelkezik.
+1.2.1.1. A belépést kijelölt belépő pontokon kell végrehajtani, kivéve, ha a Budapesti TWR másként nem rendelkezik.
 
-1.2.1.2. Budapest–Ferihegy repülőtérre érkező és induló légijárművek csak a közzétett pontokon keresztül tervezhetik a repülést.
+1.2.1.2. Budapest Liszt Ferenc Nemzetközi Repülőtérre érkező és induló légijárművek csak a közzétett pontokon keresztül tervezhetik a repülést.
 
-1.3. Megközelítési eljárás a Budapest-Ferihegyi repülőtéren
+1.3. Megközelítési eljárás a Budapest Liszt Ferenc Nemzetközi Repülőtéren
 
 1.3.1. A belépő pont engedélyezett átrepülése után közeledjen és a TWR utasítása szerint:
 
@@ -4274,9 +4268,9 @@ C1 – Dátum/időpont (UTC-ben), és
 
 – helyzet (irányszög és távolság) valamely navigációs berendezéstől, vagy földrajzi szélesség/hosszúság.
 
-C2 – A jelentést tevő légijárműre vonatkozó tájékoztatások leírása, pl.: C2 c)-nél: FL350/1013 hPa, vagy 2500 ft/QNH 1007 hPa, vagy 1200 ft QFE 998 hPa, valamint a megfelelő rovatok kipipálása: ( √ ).
+C2 – A jelentést tevő légijárműre vonatkozó tájékoztatások leírása, pl.: C2 c)-nél: FL350/1013 hPa, vagy 2500 ft/QNH 1007 hPa, vagy 1200 ft QFE 998 hPa, valamint a megfelelő rovatok kipipálása: ( ? ).
 
-C3 – A másik, az eseményben érintett légijárműről szóló tájékoztatások leírása, valamint a megfelelő rovatok kipipálása: ( √ ).
+C3 – A másik, az eseményben érintett légijárműről szóló tájékoztatások leírása, valamint a megfelelő rovatok kipipálása: ( ? ).
 
 C4 – A légijárművek közötti legkisebb vízszintes/függőleges távolság.
 
@@ -4418,9 +4412,7 @@ A forgalom lebonyolítására kijelölt útvonal, amelyet a légiforgalmi szolg�
 
 2. Megjegyzés: Egy ATS útvonalat az ATS útvonal nevével, a fontos pontoktól (út-pontok), illetve ezekre tartó útiránnyal, a fontos pontok közötti távolsággal, jelentési kötelezettséggel és a légiközlekedési hatóság által megállapított legkisebb biztonságos repülési magassággal határoznak meg.
 
-13. Államhatár menti korlátozott légtér
-
-A Magyar Köztársaság határa mentén a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletben meghatározott 10 km-es mélységben kijelölt sáv. A benne folyó repülésekre külön előírások vonatkoznak.
+13.
 
 14. Állami légijármű – State aircraft
 
@@ -4968,9 +4960,7 @@ Egy SSR interrogátorból kisugárzott kérdező jelek meghatározott működés
 
 Egy repülőtérnek a légijárművek fel- és leszállására, valamint gurulására használandó része, amely magában foglalja a munkaterületet és az előtere(ke)t.
 
-133. Munkakörzet
-
-Államhatár menti sávban, a mezőgazdasági munkarepülések végzésére kijelölt terület.
+133.
 
 134. Munkarepülés – Aerial work
 
@@ -5375,4 +5365,4 @@ A látási meteorológiai körülmények (Visual Meteorological Conditions) jel�
 A repülőtér koordinátákkal megadott földrajzi helye.
 
 [^2]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^3]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése szerint módosított szöveg.
