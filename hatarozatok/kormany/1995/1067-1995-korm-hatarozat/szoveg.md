@@ -1,5 +1,0 @@
-1. A Kormány egyetért azzal, hogy az egyes volt munkásőr-létesítmények oktatási-nevelési célú hasznosításáról szóló 1060/1993. (VIII. 5.) Korm. határozat (a továbbiakban: határozat) alapján a Világi Zsidó Iskola Alapítvány (a továbbiakban: Alapítvány) tulajdonába — oktatási (iskola) hasznosítási céllal — került ingatlanra bejegyzett elidegenítési és terhelési tilalom törléséhez a művelődési és közoktatási miniszter hozzájáruljon.
-
-2. Az elidegenítési és terhelési tilalom törléséhez való hozzájárulás feltétele annak kikötése, hogy az elidegenítésből származó ellenértéket kizárólagosan — a határozat mellékletében megjelölt hasznosítási célt szolgáló — iskolaépület létesítésére lehet fordítani. Az Alapítvány köteles igazolni, hogy e feltételt teljesítette.
-
-3. A művelődési és közoktatási miniszter az elidegenítési és terhelési tilalom törléséhez való hozzájárulás előtt a 2. pontban meghatározott feltételek érvényesítése céljából az Alapítvánnyal megállapodást köt, melyben ki kell kötni azt is, hogy amennyiben az nem teljesíti az előírt feltételeket, köteles az értékesítésből származó ellenértéket az állami költségvetés javára befizetni.
