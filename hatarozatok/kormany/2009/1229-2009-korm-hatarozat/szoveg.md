@@ -1,16 +1,6 @@
 A privatizációs szerződés során az ICN Alkaloida Magyarország Rt. tulajdonából a Tiszavasvári Város Önkormányzata tulajdonába került „Hulladéklerakó telep” környezetvédelmi kármentesítés üzemeltetésének további megvalósítása érdekében a Kormány egyetért azzal, hogy:
 
-1.[^1] A Tiszavasvári Város Önkormányzat tulajdonába került volt ICN Alkaloida Magyarország Rt. hulladéklerakó telep környezeti kármentesítés üzemeltetési feladatok ellátásához szükséges költségek 2010. évi fedezete az államháztartásról szóló 1992. évi XXXVIII. törvény 39. §-ának megfelelően oly módon kerül biztosításra, hogy a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. cím, 3. alcím, 5. Az állam tulajdonosi felelősségével kapcsolatos környezetvédelmi feladatok finanszírozása jogcím-csoporton szereplő kiadási előirányzatról 62,5 millió forint – a melléklet szerint – átcsoportosításra kerül a XVI. fejezet Környezetvédelmi és Vízügyi Minisztérium Országos Környezeti Kármentesítési Program végrehajtása 10/2/39. fejezeti kezelésű jogcímcsoport előirányzatára.
-
-Felelős: pénzügyminiszter
-
-Határidő: 2010. január 31.
-
-2. A 2010. évben a Környezetvédelmi és Vízügyi Minisztérium az 1. pont szerint átcsoportosított összeg erejéig finanszírozza és koordinálja az Magyar Nemzeti Vagyonkezelő Zrt. és a Tiszavasvári Városi Önkormányzat bevonásával a volt ICN Alkaloida Magyarország Rt. Hulladéklerakó telep környezeti kármentesítésének üzemeltetési feladatait.
-
-Felelős: környezetvédelmi és vízügyi miniszter
-
-Határidő: 2010. december 31.
+1–2.[^1]
 
 3. A Környezetvédelmi és Vízügyi Minisztérium, a Pénzügyminisztérium, az Önkormányzati Minisztérium – Tiszavasvári Város Önkormányzatának bevonásával – előterjesztést készít a Kormány részére, amelyben javaslatot tesz a tiszavasvári volt ICN Alkaloida Magyarország Rt. Hulladéklerakó telep kármentesítésének végleges megoldására.
 
@@ -22,87 +12,10 @@ pénzügyminiszter
 
 Határidő: 2010. március 1.
 
-4. Ez a határozat a közzétételét követő napon lép hatályba.
+4.[^2]
 
-Melléklet az 1229/2009. (XII. 29.) Korm. határozathoz[^2]
+Melléklet az 1229/2009. (XII. 29.) Korm. határozathoz[^3]
 
-XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
-
-XVI. Környezetvédelmi és Vízügyi Minisztérium
-
-Fejezet száma, megnevezése
-
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
-
-a Kormány hatáskörében
-
-Költségvetési év: 2010.
-
-Millió forintban, egy tizedessel
-
-| Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVI. |  |  |  |  |  |  | Környezetvédelmi és Vízügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 10 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  |  | Ágazati célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 256556 |  |  |  | 39 |  |  |  |  |  |  | Országos Környezeti Kármentesítési Program végrehajtása |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 62,5 |  |  |
-
-|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 3 |  |  |  |  |  |  | A Magyar Államot korábbi értékesítésekhez kapcsolódóan terhelő kiadások |  |  |  |  |  |  |  |  |  |  |  |
-
-| 278501 |  |  |  | 5 |  |  |  |  |  |  | Az állam tulajdonosi felelősségével kapcsolatos környezetvédelmi feladatok finanszírozása |  |  |  |  |  |  |  |  | –62,5 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | BEVÉTELEK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | TÁMOGATÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVI. |  |  |  |  |  |  | Környezetvédelmi és Vízügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 10 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  |  | Ágazati célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 256556 |  |  |  | 39 |  |  |  |  |  |  | Országos Környezeti Kármentesítési Program végrehajtása |  |  |  |  |  |  |  |  | 62,5 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) — időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
-
-| Fejezet | 1 példány |  |  |  |  |  |  |
-
-| Állami Számvevőszék | 1 példány | időarányos |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány | teljesítményarányos |  |  |  |  |  |
-
-| Pénzügyminisztérium | 2 példány | egyéb: azonnal | 62,5 | 62,5 |  |  |  |
-
-* Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
-
-[^1]: Az 1. pont az 1032/2010. (II. 9.) Korm. határozat 1. pontja szerint módosított szöveg. E módosító határozat 3. pontja alapján a rendelkezést 2009. december 29-től kell alkalmazni.
-[^2]: A mellékletet az 1032/2010. (II. 9.) Korm. határozat 2. pontja iktatta be. E módosító határozat 3. pontja alapján rendelkezéseit 2009. december 29-től kell alkalmazni.
+[^1]: Az 1–2. pontot az 1380/2011. (XI. 8.) Korm. határozat 9. pont c) alpontja hatályon kívül helyezte.
+[^2]: A 4. pontot az 1380/2011. (XI. 8.) Korm. határozat 9. pont c) alpontja hatályon kívül helyezte.
+[^3]: A mellékletet az 1032/2010. (II. 9.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1380/2011. (XI. 8.) Korm. határozat 9. pont c) alpontja.
