@@ -2,25 +2,7 @@ A Kormány megerősíti a Magyar Köztársaság elkötelezettségét az Európai
 
 A Kormány annak érdekében, hogy Magyarország megfelelően felkészüljön az Európai Unió újonnan létrehozandó ügynöksége, az Európai Innovációs és Technológiai Intézet (a továbbiakban: ETI) magyarországi befogadására, valamint az ügynökség hálózati rendszerébe való sikeres bekapcsolódásra, a következő határozatot hozta:
 
-1. A Kormány prioritásnak tekinti, hogy az ETI irányító testületének székhelye Magyarországon legyen, s ennek érdekében felhívja:
-
-a) a gazdasági és közlekedési minisztert, hogy a szakmai lobbitevékenység elősegítéséhez készítse el a hazai elkötelezettséget kifejező magyar pályázati brosúrát;
-
-Felelős: gazdasági és közlekedési miniszter
-
-Határidő: 2008. február 15.
-
-b) a gazdasági és közlekedési minisztert és a külügyminisztert, hogy koordinálják a magyar pályázati brosúra külföldi ismertetését az Európai Unió tagállamaival folytatott tárgyalásaik során;
-
-Felelős: gazdasági és közlekedési miniszter, külügyminiszter
-
-Határidő: brosúra elkészítését követően
-
-c) a gazdasági és közlekedési minisztert, valamint az oktatási és kulturális minisztert, hogy az ETI Igazgatótanácsában való részvételre magyar szakértők eredményes pályázatát segítse elő.
-
-Felelős: gazdasági és közlekedési miniszter, oktatási és kulturális miniszter
-
-Határidő: az Európai Bizottság pályázati kiírásához igazodva
+1.[^1]
 
 2. A Kormány támogatja a magyar intézmények részvételét az ETI szervezeti rendszerében, tudományos és innovációs társulásaiban (KIC). Ennek érdekében felhívja:
 
@@ -37,3 +19,5 @@ Felelős: gazdasági és közlekedési miniszter, oktatási és kulturális mini
 Felkért közreműködő: MTA elnöke
 
 Határidő: a Bizottság pályázati kiírásához igazodva
+
+[^1]: Az 1. pontot az 1380/2011. (XI. 8.) Korm. határozat 9. pont d) alpontja hatályon kívül helyezte.
