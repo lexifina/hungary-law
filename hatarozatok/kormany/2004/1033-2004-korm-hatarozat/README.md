@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-1033-30
 | --- | --- | --- |
 | 2008-06-30 | 2004-1033-30-22.2 | 1033/2004. (IV. 19.) Korm. határozat |
 | 2010-05-29 | 2004-1033-30-22.3 | 1119/2010. (V. 13.) Korm. határozat |
+| 2011-11-09 | 2004-1033-30-22.4 | 1380/2011. (XI. 8.) Korm. határozat |
