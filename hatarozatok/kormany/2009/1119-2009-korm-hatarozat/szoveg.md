@@ -8,6 +8,8 @@
 
 5. A Fórum feladata javaslatot tenni a Nemzeti Tehetség Program végrehajtására.
 
-6. A Fórum működésével kapcsolatos feladatokat, ideértve a titkársági feladatokat az Oktatásért Közalapítvány látja el.
+6.[^1] A Fórum működésével kapcsolatos feladatokat, ideértve a titkársági feladatokat az Oktatáskutató és Fejlesztő Intézet látja el.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 6. pont az 1372/2011. (XI. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
