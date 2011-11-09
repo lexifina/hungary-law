@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-16-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-30 | 2000-16-20-93.11 | 16/2000. (XI. 22.) KöViM rendelet |
+| 2011-11-09 | 2000-16-20-93.12 | 115/2005. (XII. 27.) GKM rendelet |

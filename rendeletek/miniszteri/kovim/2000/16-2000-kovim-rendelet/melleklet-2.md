@@ -194,7 +194,7 @@
 
 ## Megjegyzés: A műveleti repülések (OAT) végrehajtása időszakosan korlátozott légterekben történik, ahol a légijárművek számára a légiforgalmi szolgálatokat katonai ATC egységek nyújtják.
 
-## 1.8.2.2. A repülőtéri irányító szolgálatot, valamint – Budapest-Ferihegy kivételével – az egyéb ellenőrzött repülőterek (beleértve a katonai repülőtereket is) érkező és induló légijárművei számára a bevezető irányító szolgálatot a repülőtéri irányító tornyok látják el. A repülőtéri forgalom számára a repüléstájékoztató és riasztó szolgálatot minden esetben a repülőtéri irányító tornyok látják el.
+## 1.8.2.2. A repülőtéri irányító szolgálatot, valamint – Budapest Liszt Ferenc Nemzetközi Repülőtér kivételével – az egyéb ellenőrzött repülőterek (beleértve a katonai repülőtereket is) érkező és induló légijárművei számára a bevezető irányító szolgálatot a repülőtéri irányító tornyok látják el. A repülőtéri forgalom számára a repüléstájékoztató és riasztó szolgálatot minden esetben a repülőtéri irányító tornyok látják el.
 
 ## Megjegyzés: A különböző légiforgalmi irányító egységek által biztosított szolgálatok közötti irányítási felelősség megoszlását e rendelet 2. számú mellékletének 4. Fejezete tartalmazza.
 
@@ -308,9 +308,9 @@
 
 ## 1.15.1.2 A LoA az EUROCONTROL Légtér és Navigáció Munkacsoport (ANT) által jóváhagyott, és a tagországok által elfogadott, „A Légiforgalmi Szolgálati Egységek között alkalmazható Egységes Formátumú, Együttműködési Megállapodás” – The Common Format of Letter of Agreement between Air Traffic Services Units” – dokumentumban leírtaknak megfelelően kell megszerkeszteni és alkalmazni.
 
-## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetői által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – a Magyar Köztársaságban a közlekedésért felelős miniszter véleményét figyelembe véve, a légiközlekedési hatóság jóváhagyását követően lép hatályba.
+## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetoi által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – a Magyar Köztársaságban a közlekedésért felelős miniszter véleményét figyelembe véve, a légiközlekedési hatóság jóváhagyását követően lép hatályba.
 
-## 1.15.1.3.1 A LoA fő részének állandó módosítása, valamint felbontása, csak a két állam légiforgalmi szolgálati egységeinek vezetői aláírása, és a légiközlekedési hatóságok jóváhagyása után válik hatályossá.
+## 1.15.1.3.1 A LoA fő részének állandó módosítása, valamint felbontása, csak a két állam légiforgalmi szolgálati egységeinek vezetoi aláírása, és a légiközlekedési hatóságok jóváhagyása után válik hatályossá.
 
 ## 1.15.1.3.2 A LoA Függelékeit az államok érintett légiforgalmi szolgálati egységeinek vezetői írják alá és módosítják.
 
@@ -360,7 +360,7 @@
 
 ## 1.17.4. A légiforgalmi szolgálati egységeknek tájékoztatást kell kapniuk arról, amikor a katonai egység valamely polgári légijárművet figyel meg, amely olyan körzetet közelít meg, illetve körzetbe belép, amelyben elfogás válhat szükségessé, valamint a légijármű azonosításával és navigációs tájékoztatással elkerülhető legyen az elfogás.
 
-## 1.17.4.1. A polgári légiforgalmi szolgálati egységeknek továbbítaniuk kell a légvédelmi szervek számára a nemzetközi repülést végző, valamint a (10 km-es) határsávban működő, ismert légijárművek tervezett és tényleges mozgására vonatkozó adatokat az azonosítás megkönnyítése és az esetleges elfogások elkerülése érdekében.
+## 1.17.4.1. A polgári légiforgalmi szolgálati egységeknek továbbítaniuk kell a légvédelmi szervek számára a nemzetközi repülést végző, ismert légi járművek tervezett és tényleges mozgására vonatkozó adatokat az azonosítás megkönnyítése és az esetleges elfogások elkerülése érdekében.
 
 ## 1.17.4.2. A repülések biztonságának érdekében a légtér szuverenitását megsértő légijárművek elfogását irányító katonai szerveknek haladéktalanul tájékoztatniuk kell a polgári légiforgalmi szolgálati egységeket az esetlegesen riasztott légijárművekről, lehetőség szerint elegendő időt biztosítva az érintett légtér szabaddá tételére.
 
@@ -684,9 +684,9 @@
 
 ## A GAT és OAT légijárművek radarjeleinek az egyes önálló irányító egységeknél
 
-## a) azonos radarforrásból vagy egy, az illetékes légiközlekedési hatóság által jóváhagyott multiradar adatfeldolgozó rendszertől kell származnia, és
+## a) azonos radarforrásból vagy egy, az illetékes légiközlekedési hatóság által jóváhagyott multiradar adatfeldolgozó rendszertől kell származnia, és
 
-## b) ugyanazon a radarernyőn kell megjelennie.
+## b) ugyanazon a radarernyőn kell megjelennie.
 
 ## 2. Repülési eljárások. Az érintett légtérben a GAT és OAT repüléseknek lehetőség szerint azonos magasságmérő beállítási eljárások betartásával kell működniük. Ha ez nem lehetséges, vagy az érintett légijárművekre előírt magasságtartási pontosság különböző, megfelelően megnövelt függőleges elkülönítési minimum alkalmazásával kell biztosítani a GAT és OAT légijárművek közötti függőleges elkülönítést.
 
@@ -1018,7 +1018,7 @@
 
 ## 5.2.2.1.5. Az AFIS egységeknek eszközökkel kell rendelkezniük a fenti 5.2.2.1.1., 5.2.2.1.2., 5.2.2.1.3. és 5.2.2.1.4. pontokban előírtak szerint a körzeti repüléstájékoztató szolgálati egységgel, az ACC-vel, az APP-vel és a TWR-rel való összeköttetéshez.
 
-## 5.2.2.1.6. Budapest-Ferihegy kivételével, a repülőterek üzemben tartói az összeköttetési eszközök telepítéséért és üzemeltetéséért maguk felelősek.
+## 5.2.2.1.6. Budapest Liszt Ferenc Nemzetközi Repülőtér kivételével, a repülőterek üzemben tartói az összeköttetési eszközök telepítéséért és üzemeltetéséért maguk felelősek.
 
 ## 5.2.2.2. A légiforgalmi szolgálati egységek és más egységek közötti összeköttetések
 
@@ -1668,7 +1668,7 @@
 
 ## (az 1. Fejezet 1.6.1. ponthoz)
 
-## 7M08098M_0
+## 1M32169M_0
 
 | Légtér- osztály | Repülések típusa | Biztosított elkülönítés | Biztosított szolgálat | Sebességkorlátozási előírások* | Rádióösszeköttetésre vonatkozó előírások | ATC engedély szükségessége |
 
@@ -1734,7 +1734,7 @@
 
 ## 3. Megjegyzés: A repülőtér/helikopter repülőtér határain kívüli területekre, valamint az állam teljes területére előírtaknak megfelelő akadályadatok 2008. november 20-i, illetve 2010. november 18-i elérhetőségéről szóló ICAO 15. Annex 10.6.1.1 és 10.6.1.2 rendelkezéseinek bevezetését elősegítené egy, az ilyen adatok gyűjtésére és feldolgozására szóló előzetes terv.
 
-## 7M08098M_2
+## 1M32169M_2
 
 | 2. Táblázat Tengerszinthez viszonyított/tengerszint/repülőtér feletti magasságok |
 
@@ -1810,7 +1810,7 @@ Doc 7030/4 – Regional Supplementary Procedures (Amendment No. 209 (28/01/05))
 
 Az eljárások szorosan kapcsolódnak a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtakhoz.
 
-1.2. TÁRGYKÖR ÉS CÉLOK
+1.2. TÁRGYKÖR ÉS CÉLOK
 
 Jelen melléklet alapvetően az ATS személyzet számára tartalmaz előírásokat, azonban a 3–9. Fejezetben, a 12–14. Fejezetben és a 16. Fejezet 16.3 és 16.4 pontjában, továbbá az 1. és 5. Függelékben meghatározott eljárásokat a légijármű személyzetének is ismernie kell.
 
@@ -2488,7 +2488,7 @@ Sy = az útirányok közötti oldalirányú távolság megegyezik az oldalirány
 
 = az oldalirányú elkülönítés távolsága az útirányok keresztezési pontjától, és
 
-θ = az útirányok által bezárt szög.
+θ = az utirányok által bezárt szög.
 
 5.4.1.2.1.5.2 Az oldalirányú elkülönítési pontok útirány keresztezési ponttól mért távolságát összeütközési kockázatelemzéssel határozzák meg, amely olyan tényezőtől függ, mint például a légijármű navigációs pontossága, a forgalom sűrűsége, a keresztezési pont használatának gyakorisága.
 
@@ -3060,7 +3060,7 @@ a) olyan műszerezett futópályáknál, ahol a küszöb 7 lábbal (2 méterrel)
 
 b) olyan futópályáknál, amelyekre precíziós megközelítéseket végeznek.
 
-4.10.1.3 Budapest FIR-ben az átváltási magasságon (9000 láb AMSL), vagy ez alatt végrehajtott útvonalrepülések során a légijárművek függőleges helyzetét a Budapest-Ferihegyi QNH értékhez (területi QNH) viszonyítva kell kifejezni.
+4.10.1.3 Budapest FIR-ben az átváltási magasságon (9000 láb AMSL), vagy ez alatt végrehajtott útvonalrepülések során a légijárművek függőleges helyzetét a budapesti QNH értékhez (területi QNH) viszonyítva kell kifejezni.
 
 4.10.1.4 Budapest FIR-ben az ellenőrzött repülőtereken, és közelkörzetekben külön átváltási szintet kell meghatározni az érintett légtérben működő légijárművek számára.
 
@@ -3136,13 +3136,13 @@ A légijárművek által továbbított helyzetjelentésekből a repülési magas
 
 Amikor egy légijármű első ízben jelentkezik be valamely ATC egységhez, a levegő-föld beszédüzemű összeköttetési csatornaváltást követően a hívásnak a következő elemeket kell tartalmaznia:
 
-a) a hívott állomás megnevezése,
+a) a hívott állomás megnevezése,
 
-b) a légijármű hívójele, nehéz turbulencia kategóriába tartozó légijárművek esetén a „Heavy” kifejezés,
+b) a légijármű hívójele, nehéz turbulencia kategóriába tartozó légijárművek esetén a „Heavy” kifejezés,
 
-c) magasság, beleértve az éppen keresztezett és engedélyezett magasságot is, ha a légijármű nem az engedélyezett magasságot tartja és
+c) magasság, beleértve az éppen keresztezett és engedélyezett magasságot is, ha a légijármű nem az engedélyezett magasságot tartja és
 
-d) a légijármű sebessége, ha az ATC sebesség szabályozást alkalmaz.
+d) a légijármű sebessége, ha az ATC sebesség szabályozást alkalmaz.
 
 4.11.4 ADS jelentések adása
 
@@ -3478,31 +3478,31 @@ Megjegyzés: Az érkező és induló légijárművek számára használatos fut�
 
 7.2.4 Leszállásra szolgáló futópályák kijelölése során a zajcsökkentő szempontok abban az esetben vehetők figyelembe, ha adott futópálya rendelkezik rendeltetésszerűen működő
 
-a) siklópálya vezetéssel (pl. ILS-sel), vagy
+a) siklópálya vezetéssel (pl. ILS-sel), vagy
 
-b) látás szerinti meteorológiai körülmények közötti működésre alkalmas vizuális megközelítést biztosító siklópálya jelző berendezéssel, legalább VASI-val.
+b) látás szerinti meteorológiai körülmények közötti működésre alkalmas vizuális megközelítést biztosító siklópálya jelző berendezéssel, legalább VASI-val.
 
 7.2.5 A légijármű parancsnoka – repülésbiztonsági okra hivatkozva – a zajcsökkentő szempontok figyelembevételével felajánlott futópálya használatát visszautasíthatja.
 
 7.2.6 A zajcsökkentő szempont nem lehet meghatározó tényező a futópálya kiválasztásánál az alábbi körülmények között:
 
-a) ha a futópálya állapotát kedvezőtlenül befolyásolja hó, latyak, jég, víz, sár, gumi, olaj, vagy egyéb szennyeződés,
+a) ha a futópálya állapotát kedvezőtlenül befolyásolja hó, latyak, jég, víz, sár, gumi, olaj, vagy egyéb szennyeződés,
 
-b) leszálláshoz, amikor
+b) leszálláshoz, amikor
 
 1) a repülőtér tengerszinthez viszonyított magassága felett a felhőalap 500 lábnál (150 m) alacsonyabb, vagy a látástávolság 1900 méternél kevesebb,
 
 2) a megközelítéseket a repülőtér tengerszinthez viszonyított magassága felett több mint 300 lábbal (100 m) magasabban kell végrehajtani, és
 
-(i) a felhőalap a repülőtér tengerszinthez viszonyított magassága felett 800 lábnál (240 m) alacsonyabb, vagy
+(i) a felhőalap a repülőtér tengerszinthez viszonyított magassága felett 800 lábnál (240 m) alacsonyabb, vagy
 
-(ii) a látástávolság 3000 méternél kevesebb,
+(ii) a látástávolság 3000 méternél kevesebb,
 
-c) felszálláshoz, amikor a látástávolság 1900 méternél kevesebb,
+c) felszálláshoz, amikor a látástávolság 1900 méternél kevesebb,
 
-d) amikor szélnyírást jelentettek, azt előre jelezték, vagy amikor várható, hogy zivatar befolyásolja a megközelítéseket vagy indulásokat,
+d) amikor szélnyírást jelentettek, azt előre jelezték, vagy amikor várható, hogy zivatar befolyásolja a megközelítéseket vagy indulásokat,
 
-e) amikor az oldalszél összetevő, beleértve a széllökéseket is, meghaladja a 15 kt (28 km/h) értéket, vagy amikor a hátszél összetevő, beleértve a széllökéseket is, meghaladja az 5 kt (9 km/h) értéket.
+e) amikor az oldalszél összetevő, beleértve a széllökéseket is, meghaladja a 15 kt (28 km/h) értéket, vagy amikor a hátszél összetevő, beleértve a széllökéseket is, meghaladja az 5 kt (9 km/h) értéket.
 
 7.3 A REPÜLŐTÉRI IRÁNYÍTÓ TORONY ÁLTAL A LÉGIJÁRMŰVEKNEK NYÚJTOTT TÁJÉKOZTATÁSOK
 
@@ -3744,25 +3744,25 @@ Megjegyzés: A futópálya üzemelésre vonatkozóan az állatok és madár csop
 
 7.3.1.5.1 A 7.3.1.5.2 pontban leírtakat kivéve, ha egy légijármű vezetőben kétség merül fel a légijármű helyzetével kapcsolatban a munkaterület vonatkozásában, a légijármű vezetője azonnal
 
-a) álljon meg és
+a) álljon meg és
 
-b) tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is).
+b) tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is).
 
 7.3.1.5.2 Azokban az esetekben, amikor egy légijármű vezetőben kétség merül fel a légijármű helyzetével kapcsolatban a munkaterület vonatkozásában, de felismeri, hogy egy futópályán tartózkodik, a légijármű vezetője
 
-a) azonnal tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is),
+a) azonnal tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is),
 
-b) ha tudja, határozza meg a hozzá legközelebb eső alkalmas gurulóutat, és azt használva haladéktalanul hagyja el a futópályát, kivéve ha az ATS egység más utasítást adott, és azt követően
+b) ha tudja, határozza meg a hozzá legközelebb eső alkalmas gurulóutat, és azt használva haladéktalanul hagyja el a futópályát, kivéve ha az ATS egység más utasítást adott, és azt követően
 
-c) azonnal álljon meg.
+c) azonnal álljon meg.
 
 7.3.1.5.3 Ha egy járművezetőben kétség merül fel a jármű helyzetével kapcsolatban a munkaterület vonatkozásában, a járművezető
 
-a) azonnal tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is),
+a) azonnal tájékoztassa az illetékes ATS egységet a körülményekről (beleértve az utolsó ismert helyzetet is),
 
-b) haladéktalanul hagyja el a repülőtérrendben meghatározott biztonságos távolságra a leszállási területet, a gurulóutat vagy a munkaterület egyéb részét, kivéve ha az ATS egység más utasítást nem adott, és azt követően
+b) haladéktalanul hagyja el a repülőtérrendben meghatározott biztonságos távolságra a leszállási területet, a gurulóutat vagy a munkaterület egyéb részét, kivéve ha az ATS egység más utasítást nem adott, és azt követően
 
-c) azonnal álljon meg.
+c) azonnal álljon meg.
 
 7.3.1.5.4 Ha repülőtéri irányító azt észleli, hogy egy légijármű vagy jármű a munkaterületen eltévedt, vagy kétség merül fel annak helyzetével kapcsolatban, azonnal intézkedéseket kell foganatosítani a biztonságos üzemelés érdekében és segítséget kell nyújtani az érintett légijármű vagy jármű részére helyzetének pontos tisztázására.
 
@@ -4770,9 +4770,9 @@ b) a radarrendszer felderítési valószínűsége, pontossága és más rendsze
 
 8.1.9 A főleg monopulse technikát alkalmazó, vagy „S” módú adatátviteli képességgel rendelkező SSR rendszerek egymagukban is használhatók a légijárművek közötti elkülönítések fenntartására, feltéve, hogy
 
-a) a körzetben SSR válaszjeladó üzemeltetése kötelező és
+a) a körzetben SSR válaszjeladó üzemeltetése kötelező és
 
-b) az azonosítást elvégezték, fenntartják.
+b) az azonosítást elvégezték, fenntartják.
 
 8.1.10 A radarnak a légiforgalmi szolgálatok ellátására történő alkalmazását a radar-fedésterület meghatározott körzeteire kell korlátozni.
 
@@ -4898,11 +4898,11 @@ Megjegyzés: Lásd a 8.5.4.1.4 b) alpontját is.
 
 8.5.3.6 Ha ezt követően a légijármű vezetője megerősíti az „S” módú azonosító helyes beállítását és az eltérés továbbra is fennáll, a légiforgalmi irányítónak az alábbiakat kell végrehajtania:
 
-a) tájékoztatnia kell a légijármű vezetőjét a fennálló eltérésről,
+a) tájékoztatnia kell a légijármű vezetőjét a fennálló eltérésről,
 
-b) amikor lehetséges, helyesbítenie kell a légijármű azonosító jelét tartalmazó címkét a helyzetképernyőn, és
+b) amikor lehetséges, helyesbítenie kell a légijármű azonosító jelét tartalmazó címkét a helyzetképernyőn, és
 
-c) értesítenie kell az „S” módot azonosítási célra felhasználó következő irányító munkahelyet és egyéb más érdekelt egységet a téves légijármű azonosító jelet továbbító légijárműről.
+c) értesítenie kell az „S” módot azonosítási célra felhasználó következő irányító munkahelyet és egyéb más érdekelt egységet a téves légijármű azonosító jelet továbbító légijárműről.
 
 8.5.4 „C” mód alkalmazásán alapuló magassági tájékoztatás
 
@@ -4922,14 +4922,4 @@ Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a
 
 a) kérjék fel a légijárművezetőt, hogy szüntesse meg a „C” mód adását, feltéve, hogy az nem szakítja meg válaszjeladójának „A” módú üzemét, és erről az intézkedésről tájékoztassák a légijármű által érintett soron következő irányítói munkahelyeket vagy ATC egységet,
 
-b) tájékoztassák a légijárművezetőt az eltérésről, és kérjék fel őt, hogy a légijárműre vonatkozó helyzet- és azonosságtájékoztatás fenntartása érdekében folytassa „C” módú üzemét, és tájékoztassák:
-
-1. a légijármű közelében működő érintett légijárművek személyzetét, hogy felhívják a figyelmet az ACAS berendezés esetlegesen helytelen tanácsadására (ACAS RA),
-
-2. a légijármű által érintett következő irányítói munkahelyet, vagy ATC egységet a tett intézkedésről.
-
-c) az ATC egység késedelem nélkül hozzon létre oldalirányú elkülönítést, illetve a repüléstájékoztató egység tanácsoljon oldalirányú kitérítő tevékenységet, az adott légijármű és annak közelében mérvadó helyzetben lévő légijárművek között.
-
-8.5.4.2 Magasság foglaltságának megállapítása
-
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja szerint módosított szöveg.
