@@ -16,15 +16,15 @@ A Kormány által alapított közalapítványokkal és alapítványokkal kapcsol
 
 1.7. Iparfejlesztési Közalapítvány,
 
-1.8.[^2]
+1.8.[^2] Országos Foglalkoztatási Közalapítvány,
 
 1.9. Magyar Nemzeti Üdülési Alapítvány,
 
-1.10. Nemzetközi Pető András Közalapítvány és
+1.10.[^3] Nemzetközi Pető András Közalapítvány
 
 1.11. Pro Rekreatione Alapítvány,
 
-1.12.[^3] Határon Túli Magyar Oktatásért Apáczai Közalapítvány.
+1.12.[^4] Határon Túli Magyar Oktatásért Apáczai Közalapítvány.
 
 Felelős: közigazgatási és igazságügyi miniszter
 
@@ -34,13 +34,13 @@ a közalapítványok és alapítványok által ellátott feladatok felett szakma
 
 miniszterek
 
-Határidő: 2011. június 15.[^4]
+Határidő: 2011. június 15.[^5]
 
 2. A Kormány felhívja az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján gondoskodjon az 1. pontban felsorolt alapítványok céljainak megvalósítására, feladatainak további ellátására létrehozandó többségi állami részesedéssel közhasznú szervezetként működő nonprofit gazdasági társaságok alapításáról. A megalapításra kerülő gazdasági társaság által ellátott feladatok felett szakmai felügyeletet gyakorló miniszter kezdeményezésére az ügyvezetés döntéseit szakmai kérdésekben támogató tanácsadó testület hozható létre a megszüntetésre kerülő alapítvány vagy közalapítvány kuratóriumának bázisán.
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2011. június 15.[^5]
+Határidő: 2011. június 15.[^6]
 
 3. A Kormány felkéri az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján gondoskodjon a 2. pont szerint megalapításra kerülő nonprofit gazdasági társaságok vagyonkezelésére vonatkozó szerződés megkötéséről, valamint a vagyonkezelői joggyakorlás módjának megállapodásban történő rendezéséről
 
@@ -48,13 +48,13 @@ Határidő: 2011. június 15.[^5]
 
 3.1.1. a Bay Zoltán Alkalmazott Kutatási Közalapítvány,
 
-3.1.2.[^6] a Pro Rekreatione Alapítvány,
+3.1.2.[^7] a Pro Rekreatione Alapítvány,
 
 3.1.3. a Gandhi Közalapítvány és
 
-3.1.4.[^7] a Tudományos és Technológiai Alapítvány,
+3.1.4.[^8] a Tudományos és Technológiai Alapítvány,
 
-3.1.5.[^8] a Határon Túli Magyar Oktatásért Apáczai Közalapítvány;
+3.1.5.[^9] a Határon Túli Magyar Oktatásért Apáczai Közalapítvány;
 
 3.2. a nemzeti erőforrás miniszterrel
 
@@ -68,21 +68,23 @@ Határidő: 2011. június 15.[^5]
 
 3.3.2. a Magyar Nemzeti Üdülési Alapítvány és
 
-3.3.3.[^9]
+3.3.3.[^10]
 
 3.4. a nemzetgazdasági miniszterrel
 
-3.4.1. az Építés Fejlődéséért Alapítvány és
+3.4.1.[^11] az Építés Fejlődéséért Alapítvány
 
 3.4.2. az Iparfejlesztési Közalapítvány
+
+3.4.3.[^12] az Országos Foglalkoztatási Közalapítvány
 
 tekintetében.
 
 Felelős: nemzeti fejlesztési miniszter az érintett miniszterek bevonásával
 
-Határidő: 2011. július 30.[^10]
+Határidő: 2011. július 30.[^13]
 
-4.[^11] A Kormány megbízza az állami vagyon felügyeletéért felelős minisztert és a kormányzati tevékenység összehangolásáért felelős minisztert, hogy a közalapítványok és alapítványok által ellátott feladatok felett szakmai felügyeletet gyakorló miniszter bevonásával tegyék meg a szükséges intézkedéseket az alábbi közalapítványok és alapítványok megszüntetése érdekében azzal, hogy az érintett alapítványok, közalapítványok céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet által történik. Az átalakítás során a megszüntetésre kerülő alapítvány vagy közalapítvány által ellátott feladatok tekintetében a szakmai szempontú döntéshozatali mechanizmus megerősítése érdekében tanácsadó testület hozható létre a megszüntetésre kerülő alapítvány vagy közalapítvány kuratóriumának bázisán.
+4.[^14] A Kormány megbízza az állami vagyon felügyeletéért felelős minisztert és a kormányzati tevékenység összehangolásáért felelős minisztert, hogy a közalapítványok és alapítványok által ellátott feladatok felett szakmai felügyeletet gyakorló miniszter bevonásával tegyék meg a szükséges intézkedéseket az alábbi közalapítványok és alapítványok megszüntetése érdekében azzal, hogy az érintett alapítványok, közalapítványok céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet által történik. Az átalakítás során a megszüntetésre kerülő alapítvány vagy közalapítvány által ellátott feladatok tekintetében a szakmai szempontú döntéshozatali mechanizmus megerősítése érdekében tanácsadó testület hozható létre a megszüntetésre kerülő alapítvány vagy közalapítvány kuratóriumának bázisán.
 
 4.1. Az 1956-os Magyar Forradalom Történetének Dokumentációs és Kutatóintézete Közalapítvány,
 
@@ -94,11 +96,11 @@ Határidő: 2011. július 30.[^10]
 
 4.5. Habsburg-kori Kutatások Közalapítvány,
 
-4.6.[^12] Európai Összehasonlító Kisebbségkutatások Közalapítvány,
+4.6.[^15] Európai Összehasonlító Kisebbségkutatások Közalapítvány,
 
-4.7.[^13] Magyar Kultúra Alapítvány,
+4.7.[^16] Magyar Kultúra Alapítvány,
 
-4.8–4.9.[^14]
+4.8–4.9.[^17]
 
 4.10. Magyar Alkotóművészeti Közalapítvány,
 
@@ -110,7 +112,7 @@ Határidő: 2011. július 30.[^10]
 
 4.14. Nemzeti Kiválóságokért Közalapítvány,
 
-4.15. Nemzetközi Pikler Emmi Közalapítvány,[^15]
+4.15. Nemzetközi Pikler Emmi Közalapítvány,[^18]
 
 4.16. Oktatásért Közalapítvány,
 
@@ -128,11 +130,11 @@ Határidő: 2011. július 30.[^10]
 
 4.23. Pro Renovanda Cultura Hungariae Alapítvány és
 
-4.24.[^16]
+4.24.[^19]
 
-4.25.[^17] Kármán Alapítvány,
+4.25.[^20] Kármán Alapítvány,
 
-4.26.[^18]
+4.26.[^21]
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -142,7 +144,7 @@ a közalapítványok és alapítványok által ellátott feladatok felett szakma
 
 miniszterek
 
-Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.[^19]
+Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.[^22]
 
 5. A 4. pont szerint megszüntetésre kerülő alapítvány vagy közalapítvány működése felett szakmai felügyelet gyakorlásával a Kormány megbízza
 
@@ -150,13 +152,13 @@ Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.[^19
 
 5.1.1. az Emberi Jogok Magyar Központja Közalapítvány,
 
-5.1.2.[^20] Európai Összehasonlító Kisebbségkutatások Közalapítvány,
+5.1.2.[^23] Európai Összehasonlító Kisebbségkutatások Közalapítvány,
 
 5.1.3. a Magyarországi Cigányokért Közalapítvány,
 
 5.1.4. a Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány,
 
-5.1.5.[^21] a Magyar Kultúra Alapítvány,
+5.1.5.[^24] a Magyar Kultúra Alapítvány,
 
 5.2. a nemzeti erőforrás minisztert
 
@@ -166,7 +168,7 @@ Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.[^19
 
 5.2.3. a Habsburg-kori Kutatások Közalapítvány,
 
-5.2.4.–5.2.6.[^22]
+5.2.4.–5.2.6.[^25]
 
 5.2.7. a Magyar Alkotóművészeti Közalapítvány,
 
@@ -192,15 +194,15 @@ Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.[^19
 
 5.2.18. a Pro Renovanda Cultura Hungariae Alapítvány és
 
-5.2.19.[^23] a Kármán Alapítvány
+5.2.19.[^26] a Kármán Alapítvány
 
 5.3. a nemzetgazdasági minisztert
 
 5.3.1. az Apertus Közalapítvány a Nyitott Szakképzésért és a Távoktatásért,
 
-5.4.[^24]
+5.4.[^27]
 
-5.4.1.[^25]
+5.4.1.[^28]
 
 tekintetében.
 
@@ -214,7 +216,7 @@ Határidő: azonnal
 
 6.2. a Mérnöktovábbképzés Fejlesztése Alapítvány
 
-6.3.[^26] az Ipar a Korszerű Mérnökképzésért Alapítvány
+6.3.[^29] az Ipar a Korszerű Mérnökképzésért Alapítvány
 
 tekintetében alapítói értekezlet összehívásáról és ott a Kormány alapítói joggyakorlása irányának, az ágazati érdekekre és az állami vagyon megtartására figyelemmel történő meghatározásáról, majd az ennek érvényesítéséhez szükséges alapítói döntések – különös tekintettel az alapító okirat módosítására – meghozataláról és végrehajtásáról.
 
@@ -224,9 +226,9 @@ közigazgatási és igazságügyi miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2011. június 15.[^27]
+Határidő: 2011. június 15.[^30]
 
-7.[^28] A Kormány felhívja a kultúráért felelős minisztert, a kormányzati tevékenység összehangolásáért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter bevonásával gondoskodjon a Magyar Mozgókép Közalapítvány és a Fórum Film Alapítvány alapítói értekezletének összehívásáról és ott a Kormány alapítói joggyakorlása irányának, az ágazati érdekekre és az állami vagyon megtartására figyelemmel történő meghatározásáról, majd az ennek érvényesítéséhez szükséges alapítói döntések – különös tekintettel az alapító okirat módosítására – meghozataláról és végrehajtásáról.
+7.[^31] A Kormány felhívja a kultúráért felelős minisztert, a kormányzati tevékenység összehangolásáért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter bevonásával gondoskodjon a Magyar Mozgókép Közalapítvány és a Fórum Film Alapítvány alapítói értekezletének összehívásáról és ott a Kormány alapítói joggyakorlása irányának, az ágazati érdekekre és az állami vagyon megtartására figyelemmel történő meghatározásáról, majd az ennek érvényesítéséhez szükséges alapítói döntések – különös tekintettel az alapító okirat módosítására – meghozataláról és végrehajtásáról.
 
 Felelős: nemzeti erőforrás miniszter
 
@@ -234,7 +236,7 @@ közigazgatási és igazságügyi miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2011. június 15.[^29]
+Határidő: 2011. június 15.[^32]
 
 8. A Kormány felhívja az államháztartásért felelős minisztert, hogy a kormányzati tevékenység összehangolásáért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter bevonásával gondoskodjon a SEED Kisvállalkozás-fejlesztési Alapítvány alapítói értekezletének összehívásáról és ott a Kormány alapítói joggyakorlása irányának, az ágazati érdekekre és az állami vagyon megtartására figyelemmel történő meghatározásáról, majd az ennek érvényesítéséhez szükséges alapítói döntések – különös tekintettel az alapító okirat módosítására – meghozataláról és végrehajtásáról.
 
@@ -244,7 +246,7 @@ közigazgatási és igazságügyi miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2011.június 15.[^30]
+Határidő: 2011.június 15.[^33]
 
 9. A Kormány a kormányzati struktúrában történt változásokra tekintettel az alapítói jogok gyakorlásával megbízza
 
@@ -286,7 +288,7 @@ Határidő: 2011.június 15.[^30]
 
 9.5.7. a Budapesti Osztrák Iskola Alapítvány,
 
-9.5.8.[^31] a Hajléktalanokért Közalapítvány
+9.5.8.[^34] a Hajléktalanokért Közalapítvány
 
 9.6. a nemzeti fejlesztési minisztert
 
@@ -296,9 +298,7 @@ Határidő: 2011.június 15.[^30]
 
 9.6.3. a Puskás Tivadar Közalapítvány,
 
-9.7. a nemzetgazdasági minisztert
-
-9.7.1. az Országos Foglalkoztatási Közalapítvány,
+9.7.[^35]
 
 9.8. a vidékfejlesztési minisztert
 
@@ -389,33 +389,37 @@ Határidő: 2011. február 28.
 17. 2011. július 1-jén hatályát veszti a Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat.
 
 [^1]: Az 1. pont 1.4. alpontját az 1091/2011. (IV. 13.) Korm. határozat 8. pont e) alpontja hatályon kívül helyezte, újonnan az 1150/2011. (V. 18.) Korm. határozat 5. pontja iktatta be.
-[^2]: Az 1. pont 1.8. alpontját az 1141/2011. (V. 12.) Korm. határozat 8. pontja hatályon kívül helyezte.
-[^3]: Az 1. pont 1.12. alpontját az 1035/2011. (III. 3.) Korm. határozat 1. pontja iktatta be.
-[^4]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 1. pont 1.8. alpontját az 1141/2011. (V. 12.) Korm. határozat 8. pontja hatályon kívül helyezte, újonnan az 1362/2011. (XI. 8.) Korm. határozat 6. pontja iktatta be.
+[^3]: Az 1.10. pont az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont 1.12. alpontját az 1035/2011. (III. 3.) Korm. határozat 1. pontja iktatta be.
 [^5]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
-[^6]: A 3. pont 3.1.2. alpontját az 1091/2011. (IV. 13.) Korm. határozat 8. pont e) alpontja hatályon kívül helyezte, újonnan az 1144/2011. (V. 13.) Korm. határozat 5. pontja iktatta be.
-[^7]: A 3. pont 3.1.4. alpontját az 1141/2011. (V. 12.) Korm. határozat 8. pontja hatályon kívül helyezte, újonnan az 1150/2011. (V. 18.) Korm. határozat 6. pontja iktatta be.
-[^8]: A 3. pont 3.1.5. alpontját az 1035/2011. (III. 3.) Korm. határozat 2. pontja iktatta be.
-[^9]: A 3. pont 3.3.3. alpontját az 1144/2011. (V. 13.) Korm. határozat 6. pontja hatályon kívül helyezte.
-[^10]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
-[^11]: A 4. pont az 1035/2011. (III. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^12]: A 4. pont 4.6. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1091/2011. (IV. 13.) Korm. határozat 6. pontja iktatta be.
-[^13]: A 4. pont 4.7. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1141/2011. (V. 12.) Korm. határozat 6. pontja iktatta be.
-[^14]: A 4. pont 4.8.–4.9. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
-[^15]: Lásd az 1180/2011. (V. 31.) Korm. határozatot.
-[^16]: A 4. pont 4.24. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
-[^17]: A 4. pont 4.25. alpontját az 1035/2011. (III. 3.) Korm. határozat 3. pontja iktatta be.
-[^18]: A 4. pont 4.26. alpontját az 1035/2011. (III. 3.) Korm. határozat 3. pontja iktatta be, az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
-[^19]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
-[^20]: Az 5. pont 5.1.2. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1091/2011. (IV. 13.) Korm. határozat 7. pontja iktatta be.
-[^21]: Az 5. pont 5.1.5. alpontját az 1141/2011. (V. 12.) Korm. határozat 7. pontja iktatta be.
-[^22]: Az 5. pont 5.2.4.–5.2.6. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
-[^23]: Az 5. pont 5.2.19. alpontja az 1035/2011. (III. 3.) Korm. határozat 5. pontjával megállapított szöveg.
-[^24]: Az 5. pont 5.4. alpontját az 1035/2011. (III. 3.) Korm. határozat 6. pontja iktatta be, az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
-[^25]: Az 5. pont 5.4.1. pontját az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
-[^26]: A 6. pont 6.3. alpontját az 1035/2011. (III. 3.) Korm. határozat 7. pontja iktatta be.
-[^27]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
-[^28]: A 7. pont az 1035/2011. (III. 3.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^29]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^6]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^7]: A 3. pont 3.1.2. alpontját az 1091/2011. (IV. 13.) Korm. határozat 8. pont e) alpontja hatályon kívül helyezte, újonnan az 1144/2011. (V. 13.) Korm. határozat 5. pontja iktatta be.
+[^8]: A 3. pont 3.1.4. alpontját az 1141/2011. (V. 12.) Korm. határozat 8. pontja hatályon kívül helyezte, újonnan az 1150/2011. (V. 18.) Korm. határozat 6. pontja iktatta be.
+[^9]: A 3. pont 3.1.5. alpontját az 1035/2011. (III. 3.) Korm. határozat 2. pontja iktatta be.
+[^10]: A 3. pont 3.3.3. alpontját az 1144/2011. (V. 13.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^11]: A 3.4.1. pont az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^12]: A 3. pont 3.4. alpont 3.4.3. pontját az 1362/2011. (XI. 8.) Korm. határozat 7. pontja iktatta be.
+[^13]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^14]: A 4. pont az 1035/2011. (III. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^15]: A 4. pont 4.6. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1091/2011. (IV. 13.) Korm. határozat 6. pontja iktatta be.
+[^16]: A 4. pont 4.7. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1141/2011. (V. 12.) Korm. határozat 6. pontja iktatta be.
+[^17]: A 4. pont 4.8.–4.9. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^18]: Lásd az 1180/2011. (V. 31.) Korm. határozatot.
+[^19]: A 4. pont 4.24. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^20]: A 4. pont 4.25. alpontját az 1035/2011. (III. 3.) Korm. határozat 3. pontja iktatta be.
+[^21]: A 4. pont 4.26. alpontját az 1035/2011. (III. 3.) Korm. határozat 3. pontja iktatta be, az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
+[^22]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^23]: Az 5. pont 5.1.2. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte, újonnan az 1091/2011. (IV. 13.) Korm. határozat 7. pontja iktatta be.
+[^24]: Az 5. pont 5.1.5. alpontját az 1141/2011. (V. 12.) Korm. határozat 7. pontja iktatta be.
+[^25]: Az 5. pont 5.2.4.–5.2.6. alpontját az 1035/2011. (III. 3.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^26]: Az 5. pont 5.2.19. alpontja az 1035/2011. (III. 3.) Korm. határozat 5. pontjával megállapított szöveg.
+[^27]: Az 5. pont 5.4. alpontját az 1035/2011. (III. 3.) Korm. határozat 6. pontja iktatta be, az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
+[^28]: Az 5. pont 5.4.1. pontját az 1150/2011. (V. 18.) Korm. határozat 7. pontja hatályon kívül helyezte.
+[^29]: A 6. pont 6.3. alpontját az 1035/2011. (III. 3.) Korm. határozat 7. pontja iktatta be.
 [^30]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
-[^31]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
+[^31]: A 7. pont az 1035/2011. (III. 3.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^32]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^33]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
+[^34]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
+[^35]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte.
