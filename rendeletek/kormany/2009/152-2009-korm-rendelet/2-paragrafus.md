@@ -1,11 +1,13 @@
-2. § (1) A Nemzeti Tehetség Alapból az 1. § (1) bekezdésének aa) pontja szerinti forrás terhére a Nemzeti Tehetség Program elfogadásáról, a Nemzeti Tehetség Program finanszírozásának elveiről, valamint a Nemzeti Tehetségügyi Koordinációs Fórum létrehozásának és működésének elveiről szóló 126/2008. (XII. 4.) OGY határozatban foglaltak alapján kidolgozott kétéves cselekvési programokban meghatározott célra rendelt összeget – támogatási szerződés alapján – át kell utalni a Közalapítvány e célra létrehozott alszámlájára.
+2. §[^5] (1) A Nemzeti Tehetség Alapból az 1. § (1) bekezdés a) pont aa) alpontja szerinti forrás terhére a Nemzeti Tehetség Program elfogadásáról, a Nemzeti Tehetség Program finanszírozásának elveiről, valamint a Nemzeti Tehetségügyi Koordinációs Fórum létrehozásának és működésének elveiről szóló 126/2008. (XII. 4.) OGY határozatban [a továbbiakban: 126/2008. (XII. 4.) OGY határozat] foglaltak alapján kidolgozott kétéves cselekvési programokban meghatározott célra rendelt összeget megállapodás alapján a Wekerle Sándor Alapkezelő (a továbbiakban: Alapkezelő) és az OFI részére kell biztosítani.
 
-(2) A támogatási szerződésben kell meghatározni
+(2) Az Alapkezelő és az OFI a megállapodás végrehajtásával kapcsolatos működési költségeikre az (1) bekezdésben meghatározott célra rendelt összegnek legfeljebb hét-hét százalékát használhatja fel.
 
-a) az átutalt összeget,
+(3) Az (1) bekezdés szerinti megállapodásban kell meghatározni
 
-aa) célszerinti felhasználását biztosító kikötéseket a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának mérlegelésével,
+a) az Alapkezelő és az OFI számára a feladataik arányában megosztott, átutalt összeget,
 
-ab) nyilvántartásával és elszámolásával kapcsolatos rendelkezéseket,
+b) a támogatási cél szerinti felhasználást biztosító kikötéseket a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának figyelembevételével,
 
-b) a Nemzeti Tehetségügyi Koordinációs Fórum működését segítő tevékenységeket.
+c) a támogatás nyilvántartásával és elszámolásával kapcsolatos rendelkezéseket.
+
+[^5]: A 2. § a 233/2011. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,9 +1,13 @@
-3. § (1) A Nemzeti Tehetség Alapból a 1. § (1) bekezdésének ab) pontja szerinti forrás terhére meghatározott célra rendelt összeget – támogatási szerződés alapján – át kell utalni a Közalapítványnak a 2. § (1) bekezdése szerinti alszámlájára.
+3. §[^8] (1) A Nemzeti Tehetség Alapból az 1. § (1) bekezdés a) pont ab) alpontja szerinti forrás terhére a 126/2008. (XII. 4.) OGY határozatban foglaltak alapján kidolgozott kétéves cselekvési programokban meghatározott célra rendelt összeget megállapodás alapján az Alapkezelő és az OFI részére megosztva kell biztosítani.
 
-(2) A támogatási szerződésben kell meghatározni
+(2) Az (1) bekezdés szerinti megállapodásban kell meghatározni
 
 a) az átutalt összeget,
 
-b) a támogatási cél szerinti felhasználást biztosító kikötéseket a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának mérlegelésével,
+b) a támogatási cél szerinti felhasználást biztosító kikötéseket a Nemzeti Tehetségügyi Koordinációs Fórum javaslatának figyelembevételével,
 
 c) a támogatás nyilvántartásával és elszámolásával kapcsolatos rendelkezéseket.
+
+(3) Az (1) bekezdésben meghatározott megállapodás végrehajtásával kapcsolatos működési költségekre az Alapkezelő és az OFI az (1) bekezdés alapján átutalt összeg legfeljebb öt százalékát használhatja fel.
+
+[^8]: A 3. § a 233/2011. (XI. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
