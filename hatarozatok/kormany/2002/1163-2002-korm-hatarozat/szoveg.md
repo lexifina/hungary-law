@@ -1,1 +1,0 @@
-A Kormány a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 2. §-ának (2) bekezdése alapján dr. Mészáros Józsefet, az Országos Nyugdíjbiztosítási Főigazgatóság főigazgatóját e tisztségéből – 2002. szeptember 30-i hatállyal – felmenti.
