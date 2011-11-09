@@ -1,1 +1,0 @@
-A Kormány az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 14. §-a alapján e határozat közzétételének napjával 2007. szeptember 14-ig kinevezi az Országos Érdekegyeztető Tanács munkavállalói oldala által jelölt dr. Sáling Józsefet az Állami Privatizációs és Vagyonkezelő Részvénytársaság Felügyelő Bizottságának tagjává.
