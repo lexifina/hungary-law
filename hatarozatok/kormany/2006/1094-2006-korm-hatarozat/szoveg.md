@@ -1,1 +1,0 @@
-A Kormány a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 2. §-ának (2) bekezdése alapján Major Zoltánt az Országos Egészségbiztosítási Pénztár főigazgatójává 2006. október 1-jei hatállyal kinevezi.
