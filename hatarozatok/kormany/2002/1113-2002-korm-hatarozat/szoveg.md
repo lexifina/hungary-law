@@ -1,3 +1,0 @@
-A Kormány felhívja a Miniszterelnöki Hivatalt vezető minisztert és az igazságügy-minisztert, hogy vizsgálják meg a törvény-előkészítő munkában a társadalmi párbeszéd hatékonyabb megvalósításának, a civil szervezetek, az egyházak, a nemzeti és etnikai kisebbségek, valamint az érdekképviseletek közreműködésének lehetőségét, szervezeti formáit, illetőleg megoldási módozatait. Ennek keretében tegyenek javaslatot a társadalmi párbeszédet intézményesítő szervezet létrehozására és közreműködésének elveire. Normatív rendezés igénye esetén dolgozzák ki az erre vonatkozó szabályozási koncepciót.
-
-Határidő: 2002. szeptember 30.
