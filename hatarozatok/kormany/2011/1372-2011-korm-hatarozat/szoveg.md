@@ -1,3 +1,5 @@
-1. A Nemzeti Tehetségügyi Koordinációs Fórum létrehozásáról és működéséről szóló 1119/2009. (VII. 23.) Korm. határozat 6. pontjában „az Oktatásért Közalapítvány” szövegrész helyébe „az Oktatáskutató és Fejlesztő Intézet” szöveg lép.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
