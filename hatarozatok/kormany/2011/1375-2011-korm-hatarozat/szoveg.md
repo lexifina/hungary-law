@@ -56,8 +56,8 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a szükséges intézkedéseket követően haladéktalanul
 
-3. A Kormány visszavonja a Budai Vár újjáépítésének befejezéséről szóló 1047/2004. (V. 14.) Korm. határozatot.
-
-4. Hatályát veszti az egyes országos jelentőségű fejlesztési programok megvalósítására irányuló kormányzati tevékenység összehangolásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1052/2009. (IV. 17.) Korm. határozat.
+3–4.[^1]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
