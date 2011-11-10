@@ -50,40 +50,11 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a bírósági nyilvántartásból való törlést követően azonnal
 
-6. A Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pontja a következő 1.8. alponttal egészül ki:
-
-(A Kormány megbízza az állami vagyon felügyeletéért felelős minisztert és a kormányzati tevékenység összehangolásáért felelős minisztert, hogy tegyék meg a szükséges intézkedéseket az alábbi közalapítványok és alapítványok megszüntetése érdekében azzal, hogy az érintett alapítványok, közalapítványok céljainak megvalósítására, feladatának további ellátására többségi részesedéssel, közhasznú szervezetként, nonprofit gazdasági társaságot kíván alapítani:)
-
-„1.8. Országos Foglalkoztatási Közalapítvány,”
-
-7. A Korm. határozat 3. pont 3.4. alpontja a következő 3.4.3. ponttal egészül ki:
-
-(A Kormány felkéri az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján gondoskodjon a 2. pont szerint megalapításra kerülő nonprofit gazdasági társaságok vagyonkezelésére vonatkozó szerződés megkötéséről, valamint a vagyonkezelői joggyakorlás módjának megállapodásban történő rendezéséről
-
-a nemzetgazdasági miniszterrel)
-
-„3.4.3. az Országos Foglalkoztatási Közalapítvány”
-
-(tekintetében.)
+6–7.[^2]
 
 8. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti
 
-a) a Korm. határozat 9.7. és 9.7.1. pontja, valamint 1.10. és 3.4.1. pontjában az „és” szövegrész,
+a)–j)[^3]
 
-b) az Országos Foglalkoztatási Közalapítvány létrehozásáról szóló 1127/1996. (XII. 22.) Korm. határozat,
-
-c) az Országos Foglalkoztatási Közalapítvány, a Munkavédelmi Kutatási Közalapítvány, valamint a Nyitott Szakképzésért Közalapítvány alapító okiratainak módosításáról szóló 1082/1998. (VI. 3.) Korm. határozat,
-
-d) a gazdasági miniszter kormányzati felelősségi körébe tartozó Országos Foglalkoztatási Közalapítvány alapító okiratának módosításáról szóló 1027/2002. (III. 26.) Korm. határozat,
-
-e) az Országos Foglalkoztatási Közalapítvány Alapító Okiratának módosításáról szóló 1032/2003. (IV. 16.) Korm. határozat,
-
-f) az Országos Foglalkoztatási Közalapítvány és a Munkavédelmi Kutatási Közalapítvány alapító okiratának a módosításáról szóló 1002/2004. (I. 8.) Korm. határozat,
-
-g) az Országos Foglalkoztatási Közalapítvány Alapító Okiratának módosításáról szóló 1116/2005. (XII. 9.) Korm. határozat,
-
-h) az Országos Foglalkoztatási Közalapítvány Alapító Okiratának módosításáról szóló 1101/2006. (X. 27.) Korm. határozat,
-
-i) az Országos Foglalkoztatási Közalapítvány Alapító Okiratának módosításáról szóló 1126/2009. (VII. 29.) Korm. határozat, továbbá
-
-j) az Országos Foglalkoztatási Közalapítvány Alapító Okiratának módosításáról szóló 1067/2010. (III. 18.) Korm. határozat.
+[^2]: A 6–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
