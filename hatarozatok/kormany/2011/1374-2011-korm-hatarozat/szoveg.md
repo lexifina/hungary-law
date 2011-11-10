@@ -52,6 +52,8 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2012. december 31.
 
-2. Hatályát veszti a Magyarország Módosított Nemzeti Energiahatékonysági Cselekvési Tervéről szóló 1076/2010. (III. 31.) Korm. határozat.
+2.[^2]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
