@@ -1,0 +1,1 @@
+Az Országgyűlés az Országos Rádió és Televízió Testület (a továbbiakban: ORTT), valamint jogutódja a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) 2010. évi költségvetéséről szóló 2009. évi CXXXVII. törvényben meghatározott költségvetése végrehajtásáról a következő törvényt alkotja.
