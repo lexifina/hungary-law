@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-25-20-8
 | 2010-11-05 | 2008-25-20-82.11 | 26/2010. (XI. 4.) VM rendelet |
 | 2011-03-01 | 2008-25-20-82.12 | 15/2011. (II. 28.) VM rendelet |
 | 2011-07-01 | 2008-25-20-82.13 | 57/2011. (VI. 20.) VM rendelet |
+| 2011-11-11 | 2008-25-20-82.14 | 103/2011. (XI. 8.) VM rendelet |
