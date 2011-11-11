@@ -1,3 +1,5 @@
-## 12. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 26. és 28. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 13. §[^29] E rendelet alapján a 2011. évtől kezdődően támogatási kérelem nem nyújtható be.
 
 1. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez
+
+[^29]: A 13. §-t a 103/2011. (XI. 8.) VM rendelet 13. § (1) bekezdése iktatta be.
