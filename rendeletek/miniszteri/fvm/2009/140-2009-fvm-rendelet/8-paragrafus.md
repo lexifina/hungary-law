@@ -4,11 +4,7 @@
 
 a) a Tanács 1234/2007/EK rendelete (2007. október 22.) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről (az egységes közös piacszervezésről szóló rendelet);
 
-b) a Bizottság 670/2009/EK rendelete (2009. július 24.) az 1234/2007/EK tanácsi rendelet részletes alkalmazási szabályainak a durumbúza és a hántolatlan rizs pályázati eljárás útján történő intervenciós felvásárlása tekintetében történő rögzítéséről, valamint a 428/2008/EK és a 687/2008/EK rendelet módosításáról;
-
-c) a Bizottság 687/2008/EK rendelete (2008. július 18.) a gabonafélék kifizető ügynökségek, illetve intervenciós hivatalok által történő átvételére vonatkozó eljárások létrehozásáról, valamint a gabona minőségének meghatározására szolgáló elemzési módszerek megállapításáról;
-
-d) a Bizottság 127/2009/EK rendelete (2009. február 12.) a kifizető ügynökségek vagy az intervenciós hivatalok birtokában lévő gabonafélék értékesítési eljárásának és feltételeinek megállapításáról;
+b)–d)[^24]
 
 e) a Bizottság 884/2006/EK rendelete (2006. június 21.) az 1290/2005/EK rendelet részletes alkalmazási szabályainak a közraktározás formájában megvalósuló intervenciós intézkedések Európai Mezőgazdasági Garanciaalap (EMGA) általi finanszírozása és a tagállamok kifizető ügynökségei által végrehajtott közraktározási műveletek könyvelése tekintetében történő megállapításáról;
 
@@ -16,4 +12,12 @@ f) a Bizottság 2220/85/EGK rendelete (1985. július 22.) a mezőgazdasági term
 
 g) a Bizottság 1881/2006/EK rendelete (2006. december 19.) az élelmiszerekben előforduló egyes szennyező anyagok felső határértékeinek meghatározásáról, valamint módosításai;
 
-h) a Bizottság 401/2006/EK rendelete (2006. február 23.) az élelmiszerek mikotoxin tartalmának hatósági ellenőrzéséhez használandó mintavételi és elemzési módszerek megállapításáról, valamint módosításai.
+h) a Bizottság 401/2006/EK rendelete (2006. február 23.) az élelmiszerek mikotoxin tartalmának hatósági ellenőrzéséhez használandó mintavételi és elemzési módszerek megállapításáról, valamint módosításai;
+
+i)[^25] a Bizottság 1272/2009/EU rendelete (2009. december 11.) az 1234/2007/EK tanácsi rendeletnek a mezőgazdasági termékek állami intervenció keretében történő felvásárlása és értékesítése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint módosításai;
+
+j)[^26] a Bizottság 807/2010/EU rendelete (2010. szeptember 14.) az Unió legrászorulóbb személyeinek az intervenciós készletekből származó élelmiszerekkel történő ellátására vonatkozó részletes szabályok megállapításáról, valamint módosításai.
+
+[^24]: A 8. § b)–d) pontját a 100/2011. (XI. 5.) VM rendelet 11. §-a hatályon kívül helyezte.
+[^25]: A 8. § i) pontját a 100/2011. (XI. 5.) VM rendelet 8. §-a iktatta be.
+[^26]: A 8. § j) pontját a 100/2011. (XI. 5.) VM rendelet 8. §-a iktatta be.

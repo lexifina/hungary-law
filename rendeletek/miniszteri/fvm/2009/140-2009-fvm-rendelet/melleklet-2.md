@@ -42,4 +42,6 @@
 
 ## ** Adott év október 1-jétől szeptember 30-ig terjedő időszaka tekintendő.
 
-2. számú melléklet a 140/2009. (X. 29.) FVM rendelethez
+2. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^27]
+
+[^27]: A 2. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg.
