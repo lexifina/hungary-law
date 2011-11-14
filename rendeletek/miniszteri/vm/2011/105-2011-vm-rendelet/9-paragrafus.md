@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 9/2010. (VIII. 4.) VM rendelet.
+## 8. §[^1]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -9,3 +9,5 @@ a) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint
 b) az 1234/2007/EK tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra alkalmazandó részletes szabályainak megállapításáról szóló, 2011. június 7-i 543/2011/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
