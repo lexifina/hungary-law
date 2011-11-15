@@ -1,6 +1,6 @@
-## 10. Módosuló jogszabályok
+## 10. Átmeneti rendelkezések
 
-24. §
+24. § A az otthonvédelmi intézkedésekkel kapcsolatos egyes törvények módosításáról szóló 2011. évi CXLVII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően a Khrtv. alapján átadott és nyilvántartott, de a Módtv.-vel megállapított rendelkezések alapján átadásra nem kerülő referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás a Módtv. hatálybalépését követő két munkanapon belül visszaállíthatatlanul törli.
 
 ## Melléklet a 2011. évi CXXII. törvényhez
 
@@ -14,7 +14,7 @@ II. A központi hitelinformációs rendszerben az ügyfelekről nyilvántarthat�
 
 1. Természetes személyekkel kapcsolatban nyilvántartható adatok:
 
-1.1 azonosító adatok:
+1.1. Azonosító adatok:
 
 a) név,
 
@@ -28,35 +28,41 @@ e) személyi igazolvány (útlevél) szám vagy egyéb, a személyazonosság iga
 
 f) lakcím,
 
-g) levelezési cím.
+g) levelezési cím,
 
-1.2 a Hpt. 3. § (1) bekezdés b)–g) pontjában foglalt pénzügyi szolgáltatásra, kereskedelmi kölcsönszerződésre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
+h) elektronikus levelezési cím.
+
+1.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
 a) a szerződés típusa és azonosítója (száma),
 
 b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
-c) ügyféli minőség (adós, adóstárs, kezes),
+c) ügyféli minőség (adós, adóstárs),
 
-d) a szerződés összege, a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja,
+d) a szerződés összege, a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
-e) a 11. §-ban (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
+e) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
 
-f) a 11. §-ban (1) bekezdésében meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
+f) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
 
 g) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpontja,
 
-h) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
+h) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
 
-1.3 a Hpt. 3. § (1) bekezdés b)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, kereskedelmi kölcsönszerződés valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
+i) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, pénzneme,
+
+j) fennálló tőketartozás összege és pénzneme.
+
+1.3. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
 a) az igénylés elutasításának időpontja, indoka,
 
 b) okirati bizonyítékok,
 
-c) perre utaló megjegyzés.
+c) jogerős bírósági határozat száma, az eljáró bíróság megnevezése, a határozat rendelkező részének tartalma.
 
-1.4 a készpénz-helyettesítő fizetési eszköz használatával kapcsolatos adatok:
+1.4. A készpénz-helyettesítő fizetési eszköz használatával kapcsolatos adatok:
 
 a) a készpénz-helyettesítő fizetési eszköz típusa és azonosítója (száma),
 
@@ -72,7 +78,7 @@ f) a bírósági határozat jogerőre emelkedésének időpontja,
 
 g) perre utaló megjegyzés.
 
-1.5 a hozzájárulás megtagadásával kapcsolatos adatok:
+1.5. A hozzájárulás megtagadásával kapcsolatos adatok:
 
 a) a nyilatkozat kelte (hely, dátum),
 
@@ -84,7 +90,7 @@ d) a hozzájárulás megtagadására utaló megjegyzés.
 
 2. Vállalkozásokkal kapcsolatban nyilvántartható adatok:
 
-2.1 azonosító adatok:
+2.1. azonosító adatok:
 
 a) cégnév, név,
 
@@ -94,7 +100,7 @@ c) cégjegyzékszám, egyéni vállalkozói igazolvány szám,
 
 d) adószám.
 
-2.2 a pénzügyi szolgáltatásra, befektetési hitel nyújtására, értékpapír-kölcsönzésre vonatkozó szerződési adatok:
+2.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
 a) a szerződés típusa és azonosítója (száma),
 
@@ -104,27 +110,31 @@ c) a szerződés megszűnésének módja,
 
 d) a szerződés összege a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja,
 
-e) a lejárt és meg nem fizetett tartozás esedékességének időpontja és összege,
+e) a 14. §-ban meghatározott feltételek bekövetkezésének időpontja,
 
-f) a lejárt és meg nem fizetett tartozás megszűnésének időpontja és módja,
+f) a 14. §-ban meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
 
-g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
+g) a lejárt és meg nem fizetett tartozás esedékességének időpontja és összege,
 
-2.3 azon bankszámlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
+h) a lejárt és meg nem fizetett tartozás megszűnésének időpontja és módja,
 
-a) a szerződés azonosítója (száma),
+i) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
 
-b) a bankszámla száma,
+j) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, valamint pénzneme,
 
-c) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
+k) fennálló tőketartozás összege és pénzneme.
 
-d) a sorba állított követelések összege és devizaneme,
+2.3. Azon pénzforgalmi számlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
 
-e) a követelések sorba állításának kezdő és megszűnési időpontja,
+a) a pénzforgalmi számla vezetésére vonatkozó szerződés azonosítója (száma),
 
-f) perre utaló megjegyzés,
+b) a sorba állított követelések összege és devizaneme,
 
-2.4 a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésre vonatkozó adatok:
+c) a követelések sorba állításának kezdő és megszűnési időpontja,
+
+d) perre utaló megjegyzés.
+
+2.4. A készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésre vonatkozó adatok:
 
 a) a szerződés megkötésének, lejáratának, megszűnésének, felfüggesztésének időpontja,
 

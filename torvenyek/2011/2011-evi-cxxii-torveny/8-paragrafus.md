@@ -4,11 +4,13 @@
 
 a) a 11. § szerinti esetben, ha a tartozás nem szűnt meg, a 11. § (1) bekezdés szerinti adatátadás időpontjától számított ötödik év vége,
 
-b) az adat átadásának időpontja a 12. §, a 13. § és a 14. § (2) bekezdése szerinti esetben,
+b) a 14. § szerinti esetben, ha a tartozás nem szűnt meg, a 14. § szerinti adatátadás időpontjától számított ötödik év vége,
 
-c) a követelések sorba állításának megszűnési időpontja a 14. § (1) bekezdése szerinti esetben,
+c) az adat átadásának időpontja a 12. §, a 13. § és a 14/A. § szerinti esetben,
 
-d) a vállalkozásnak Hpt. 3. § (1) bekezdés b)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja.
+d) a követelések sorba állításának megszűnési időpontja a 14/B. § szerinti esetben,
+
+e) a vállalkozásnak a pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja.
 
 (3) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és véglegesen törli a referenciaadatot, ha a referenciaadat-szolgáltató nem állapítható meg, vagy ha tudomására jut, hogy a referenciaadat jogellenesen került a KHR-be.
 

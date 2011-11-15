@@ -4,13 +4,15 @@
 
 a) a pénzügyi vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, vagy vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
 
-b) a Felügyelet kezdeményezi a pénzügyi vállalkozás felszámolását.
+b) a Felügyelet kezdeményezi a pénzügyi vállalkozás felszámolását,
+
+c) a pénzügyi vállalkozás nem felel meg a 3. § (2) bekezdésében foglaltaknak.
 
 (2) A Felügyelet a KHR kezelésére vonatkozó engedélyt a Hpt. 29. §-ában foglalt eseteken kívül akkor is visszavonhatja, ha
 
 a) a Hpt.13/C. §-ában meghatározott, az informatikai rendszer biztonságával kapcsolatos szabályozási rendszer előírásainak nem tesz eleget,
 
-b) a pénzügyi vállalkozás – az arra jogosult szerv határozatával megállapított módon – súlyosan vagy ismételten megsérti az adatvédelemre vonatkozó egyéb jogszabályok előírásait,
+b) a pénzügyi vállalkozás – az arra jogosult szerv határozatával megállapított módon – súlyosan vagy ismételten megsérti az adatvédelemre vonatkozó jogszabályok előírásait,
 
 c) a KHR-t kezelő pénzügyi vállalkozás nem tesz eleget a Felügyelet határozatában foglalt, a jogszerű működés helyreállítására vonatkozó előírásoknak.
 

@@ -1,0 +1,3 @@
+14/B. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a vállalkozásnak a melléklet II. fejezetének 2.1 és 2.3 pontja szerinti referenciaadatait, amelynek fizetési számlájával szemben – fedezethiány miatt – harminc napot meghaladó időszak alatt, megszakítás nélkül egymillió forintnál nagyobb összegű sorba állított követelést tartanak nyilván.
+
+(2) E § alkalmazásában referenciaadat-szolgáltató a 2. § (1) bekezdés f) pontjában meghatározottakon túl a pénzforgalmi szolgáltatást [Hpt. 3. § (1) bekezdés d) pont] nyújtó pénzforgalmi intézmény vagy hitelintézet.
