@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1949-20-00-00
 | 2011-01-02 | 2010. évi CLXIII. törvény | 1949-20-00-00.40 |
 | 2011-06-15 | 2011. évi LXI. törvény | 1949-20-00-00.41 |
 | 2011-09-01 | 2011. évi LXI. törvény | 1949-20-00-00.42 |
+| 2011-11-15 | 2011. évi CXLVI. törvény | 1949-20-00-00.43 |
