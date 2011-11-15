@@ -1,0 +1,3 @@
+23/D. § (1) A hatóság döntése alapján elvégzett megelőző feltárás vagy elfedés időtartama a beruházótól a földmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A megelőző feltáráshoz kapcsolódó gépi földmunka időtartama a megelőző feltárás időtartamába nem számít bele.
+
+(2) A régészeti lelőhely elfedésére a hatóság döntésében meghatározott módon kerülhet sor. A régészeti lelőhely elfedése a lelőhely fizikai állapotromlását nem eredményezheti.

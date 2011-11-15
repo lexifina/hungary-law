@@ -1,0 +1,5 @@
+23/C. § (1) Állami nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén a próbafeltárás időtartama a beruházótól a fölmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A próbafeltáráshoz kapcsolódó gépi földmunka időtartama a próbafeltárás időtartamába nem számít bele.
+
+(2) A próbafeltárás eredményei alapján a feltárást végző intézmény kérelmet nyújt be a hatóság részére a további régészeti feladatellátásról. A kérelemnek tartalmaznia kell az arra vonatkozó szakmai javaslatot, hogy mely területek esetén van szükség a megelőző feltárás elvégzésére, illetve mely területek elfedése indokolt.
+
+(3) A további régészeti feladatellátásról – a 23/E. §-ban foglalt költségkorlát figyelembevételével – a hatóság dönt. A döntés ellen fellebbezésnek nincs helye.

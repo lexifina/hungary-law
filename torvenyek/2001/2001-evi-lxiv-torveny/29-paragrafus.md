@@ -16,4 +16,4 @@ e) más jogszabály alapján is védett vagy védendő érték esetében a hatá
 
 f) a védetté nyilvánítás kezdeményezőjét.
 
-(3) A védelem alá vonni tervezett műemléki jelentőségű területen és műemléki környezetben álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról a hatóság megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.
+(3) A védelem alá vonni tervezett műemléki jelentőségű területen, műemléki környezetben és történeti táj területén álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról a hatóság megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.

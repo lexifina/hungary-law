@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2010-08-28 | 2010. évi XC. törvény | 2001-64-00-00.16 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 2001-64-00-00.17 |
 | 2011-01-01 | 2011. évi LXXVII. törvény | 2001-64-00-00.18 |
+| 2011-11-15 | 2011. évi CXLIX. törvény | 2001-64-00-00.19 |
