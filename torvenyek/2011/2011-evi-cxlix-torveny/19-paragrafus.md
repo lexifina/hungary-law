@@ -2,14 +2,6 @@
 
 (2) E törvény 5. §-a, 7. §-a, 8. §-a, 9. § (3) és (4) bekezdése, 10. §-a, 12–17. §-ai és a melléklete 2012. január 1-jén lép hatályba.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi CXLIX. törvényhez
 
 „2. melléket a 2001. évi LXIV. törvényhez
