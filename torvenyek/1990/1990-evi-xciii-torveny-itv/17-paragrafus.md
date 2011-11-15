@@ -36,9 +36,9 @@ q) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meg
 
 r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a szociálisan rászorult természetes személy hiteladósok lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 
-s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik,
+s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 
-t) a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
+t) a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés feltéve, hogy
 
 ta) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
 
