@@ -296,7 +296,7 @@ c) az a) pontban említett hiteladósnak – mint volt tulajdonosnak – törvé
 
 d) a c) pontban említett opciós jog érvényesítésekor a magánszemély által megszerzett jövedelem;
 
-7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
+7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
 7.21. a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
 

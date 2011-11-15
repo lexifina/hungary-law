@@ -1,0 +1,1 @@
+84/S. § Az 1. számú mellékletnek az otthonvédelmi intézkedésekkel kapcsolatos egyes törvények módosításáról szóló 2011. évi CXLVII. törvénnyel megállapított 7.20. pontjában foglalt rendelkezés az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napjától alkalmazható.
