@@ -80,8 +80,8 @@ l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfás
 
 la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
 
-lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna,
+lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna.
 
-m) munkahelyteremtő beruházás megvalósítása céljából, ha a beruházás legalább 2 milliárd forint teljes költségigényű és legalább 100 új munkahely megteremtését biztosítja.
+m)
 
 (2) A 3. § (1) bekezdésének d) pontját e paragrafus (1) bekezdés da), db) és ka) pontjai szerinti beruházások esetében nem kell alkalmazni.

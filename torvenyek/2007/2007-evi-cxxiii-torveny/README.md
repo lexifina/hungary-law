@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 2007-123-00-00.7 |
 | 2011-07-27 | 2011. évi CVI. törvény | 2007-123-00-00.8 |
 | 2011-08-03 | 2011. évi LXXXVII. törvény | 2007-123-00-00.9 |
+| 2011-11-15 | 2011. évi CXLIX. törvény | 2007-123-00-00.10 |
