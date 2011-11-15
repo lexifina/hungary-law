@@ -4,14 +4,6 @@
 
 (2) Hatályát veszti a Díjtörvény 32/C. § (1) bekezdés aa)–ac) pontja.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi CXLVII. törvényhez
 
 I. Az azonosító adatok
