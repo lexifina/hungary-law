@@ -1,3 +1,0 @@
-8. § A Khrtv. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja annak a természetes személynek a melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki az adatszolgáltatás tárgyát képező szerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.”
