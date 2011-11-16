@@ -14,7 +14,7 @@
 
 | Nemzetgazdasági Minisztérium | 1 752,1 |
 
-| Nemzeti Fejlesztési Minisztérium | 16 583,7 |
+| Nemzeti Fejlesztési Minisztérium | 16 083,7 |
 
 | Külügyminisztérium | 759,9 |
 
@@ -30,7 +30,7 @@
 
 | Az állami vagyonal kapcsolatos bevételek és kiadások | 5 000,0 |
 
-| Mindösszesen | 37 463,9 |
+| Mindösszesen | 36 963,9 |
 
 3. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz
 

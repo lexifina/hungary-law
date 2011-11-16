@@ -64,4 +64,6 @@
 
 | Mindösszesen | 577 034,4 |
 
-2. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz
+2. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz[^1]
+
+[^1]: A 2. melléklet az 1384/2011. (XI. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
