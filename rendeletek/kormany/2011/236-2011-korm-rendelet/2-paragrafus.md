@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Norvég Királyság és a Magyar Köztársaság között a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
