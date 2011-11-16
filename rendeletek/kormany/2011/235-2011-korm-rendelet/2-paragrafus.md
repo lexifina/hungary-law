@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az egyrészről Izland, a Liechtensteini Hercegség, és a Norvég Királyság, másrészről a Magyar Köztársaság között az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
