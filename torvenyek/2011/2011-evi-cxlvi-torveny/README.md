@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-146-00-00
 | --- | --- | --- |
 | 2011-11-15 | 2011. évi CXLVI. törvény | 2011-146-00-00.0 (közlönyállapot) |
 | 2011-11-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-146-00-00.1 |
+| 2011-11-16 | 2010. évi CXXX. törvény | 2011-146-00-00.2 |
