@@ -34,7 +34,7 @@ Felelős: a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal 
 
 Határidő: 2013. május 1.
 
-2. A 2011. évi költségvetési egyensúlyt megtartó intézkedésekről szóló 1316/2011. (IX. 19.) Korm. határozat 2. mellékletében a „Nemzeti Fejlesztési Minisztérium” sorában a „16 583,7” szövegrész helyébe „16 083,7” szöveg, a 2. melléklet, a „Mindösszesen” sorában a „37 463,9” szövegrész helyébe „36 963,9” szöveg lép.
+2.[^1]
 
 3. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a 2. pont alapján intézkedjen a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 16. Fejezeti kezelésű előirányzatok cím, 2. Ágazati célelőirányzatok alcím 46. Puskás Ferenc Stadion integrált rekonstrukciója jogcímcsoportra bejelentett 500,0 millió Ft zárolásának megszüntetéséről.
 
@@ -43,3 +43,5 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: azonnal
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
