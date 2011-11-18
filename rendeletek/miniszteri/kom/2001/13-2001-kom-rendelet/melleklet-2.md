@@ -1268,6 +1268,6 @@
 
 | Zöldvirágú körtike | Pyrola chlorantha | 5 000 |
 
-2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^11]
+2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^13]
 
-[^11]: A 2. számú melléklet a 19/2006. (III. 31.) KvVM rendelet 4. § (2) bekezdése, a 18/2008. (VI. 19.) KvVM rendelet 3. § (1)–(2) bekezdése és 4. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 2. számú melléklet a 19/2006. (III. 31.) KvVM rendelet 4. § (2) bekezdése, a 18/2008. (VI. 19.) KvVM rendelet 3. § (1)–(2) bekezdése és 4. § (1) bekezdése szerint módosított szöveg.

@@ -1886,6 +1886,6 @@
 
 | Vadmacska | Felis silvestris |  |
 
-3. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^12]
+3. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^14]
 
-[^12]: A 3. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 4. §-ával megállapított, valamint a 22/2008. (IX. 12.) KvVM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 4. §-ával megállapított, valamint a 22/2008. (IX. 12.) KvVM rendelet 2. § (2) bekezdése szerint módosított szöveg.

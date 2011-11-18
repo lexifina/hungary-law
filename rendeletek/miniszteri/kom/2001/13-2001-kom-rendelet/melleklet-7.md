@@ -52,7 +52,7 @@
 
 ## Vecsem-bükki-zsomboly
 
-## B)[^14] A Bakony hegységben
+## B)[^16] A Bakony hegységben
 
 ## Acheron-kútbarlang
 
@@ -94,7 +94,7 @@
 
 ## Tűzköves-hegyi-barlang
 
-## C)[^15] A Budai-hegységben
+## C)[^17] A Budai-hegységben
 
 ## Bátori-barlang
 
@@ -316,10 +316,10 @@
 
 ## Nagyharsányi-kristálybarlang
 
-7. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^16]
+7. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^18]
 
 Az Európai Közösségben természetvédelmi szempontból jelentős növényfajok
 
-[^14]: A 6. számú melléklet B) pontja a 18/2008. (VI. 19.) KvVM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^15]: A 6. számú melléklet C) pontja a 18/2008. (VI. 19.) KvVM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^16]: A 7. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 6. §-ával megállapított, a 23/2007. (VI. 27.) KvVM rendelet 1. § (2) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 6. számú melléklet B) pontja a 18/2008. (VI. 19.) KvVM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 6. számú melléklet C) pontja a 18/2008. (VI. 19.) KvVM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 7. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 6. §-ával megállapított, a 23/2007. (VI. 27.) KvVM rendelet 1. § (2) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.

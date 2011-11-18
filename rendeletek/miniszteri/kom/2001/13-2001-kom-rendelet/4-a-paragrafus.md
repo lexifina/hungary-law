@@ -38,7 +38,7 @@ e) az okszerű vadgazdálkodás akadályozása nélkül
 
 (8) A (7) bekezdésben biztosított gyérítési lehetőség során elpusztított hörcsögök (Cricetus cricetus) prémjének, illetve az abból készített termékeknek a tartása, hasznosítása, bemutatása – a külön jogszabályban meghatározott közérdek bizonyításának hiányában is – engedélyezhető, amennyiben természetvédelmi érdeket nem sért.
 
-(9) A 8. számú mellékletben szereplő hólyagos fóka (Cystophora cristata) és grönlandi fóka (Pagophilus groenlandicus) származékai esetében a Tvt. 43. § (2) bekezdése szerinti engedély adható abban az esetben is, ha igazolható, hogy a származék elkészítéséhez e két faj valamelyikének egyedét az inúit nép tagjai hagyományos vadászattal ejtették el.
+(9)[^7] A 8. számú mellékletben szereplő fókafajok származékai esetében nem szükséges engedély, ha azok megszerzése a fókatermékek kereskedelméről szóló, 2009. szeptember 16-i 1007/2009/EK európai parlamenti és tanácsi rendelet, valamint a fókatermékek kereskedelméről szóló 1007/2009/EK európai parlamenti és tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2010. augusztus 10-i 737/2010/EU bizottsági rendelet előírásaival összhangban történt. Ez az előírás nem vonatkozik a fókakölykök származékaira.
 
 (10) A kőszáli kecske (Capra ibex), a spanyol kecske (Capra pyrenaica), továbbá a 8. számú mellékletben szereplő tyúkalakúak (Galliformes) külföldről jogszerűen megszerzett származékának (különösen trófea) tartása, országba történő behozatala, országból való kivitele, országon történő átszállítása – a külön jogszabályban meghatározott közérdek bizonyításának hiányában is – engedélyezhető, amennyiben természetvédelmi érdeket nem sért.
 
@@ -51,3 +51,4 @@ e) az okszerű vadgazdálkodás akadályozása nélkül
 (14) A 8. számú mellékletben szereplő szárazföldi teknősfajok (Testudinidae) egyedei esetében a jogszerű megszerzést külön jogszabályok alapján a tulajdonosnak igazolnia kell. Az igazolás hatósági elfogadása megfelel a Tvt. 43. § (2) bekezdése szerinti tartásra, hasznosításra és bemutatásra vonatkozó engedély kiadásának.
 
 [^6]: A 4/A. §-t a 18/2008. (VI. 19.) KvVM rendelet 2. §-a iktatta be.
+[^7]: A 4/A. § (9) bekezdése a 106/2011. (XI. 10.) VM rendelet 1. §-ával megállapított szöveg.

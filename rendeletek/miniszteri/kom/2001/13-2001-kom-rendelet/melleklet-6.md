@@ -14,6 +14,6 @@
 
 | Réti vöröshangya | Formica pratensis | 50 000 |
 
-6. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^13]
+6. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^15]
 
-[^13]: A 6. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 6. számú melléklet a 23/2005. (VIII. 31.) KvVM rendelet 5. §-ával megállapított szöveg.
