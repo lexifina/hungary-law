@@ -1,0 +1,1 @@
+36. § A Bv. tvr. 7/A. § (2) bekezdésében a „[28/A. § (2) bek.]” szövegrész helyébe a „[28/B. § (2) bekezdés]” szöveg, 122. § (3) bekezdésében a „33. § (3)–(4) bekezdésének” szövegrész helyébe a „33. § (3)–(4c) bekezdésének” szöveg lép.
