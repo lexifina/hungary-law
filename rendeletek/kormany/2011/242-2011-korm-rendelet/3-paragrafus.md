@@ -1,0 +1,5 @@
+## 2. § A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet (a továbbiakban: Hr.) 26. §-a (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+
+## [Az (1) bekezdésben meghatározott földrészlet haszonbérbe adására irányuló pályázati eljárásban pályázóként]
+
+## „b) olyan jogi személy, illetve jogi személyiséggel nem rendelkező szervezet vehet részt, amelynek a pályázat benyújtását megelőző adóévben a bevétele több mint 50%-ban a Tft. 3. § k) pontja szerinti mezőgazdasági tevékenységből származik, vagy ha a pályázó nem rendelkezik lezárt adóévvel, a pályázó főtevékenysége mezőgazdasági tevékenység és a pályázat benyújtásának évére vonatkozó üzleti terv szerinti bevétele, ennek hiányában a számvitelről szóló törvénynek a közbenső mérleg készítésére vonatkozó szabályai szerint – a pályázat benyújtásának napjával mint fordulónappal – kiszámított bevétele több mint 50%-ban a Tft. 3. § k) pontja szerinti mezőgazdasági tevékenységből származik.”
