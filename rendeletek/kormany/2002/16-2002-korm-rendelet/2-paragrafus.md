@@ -1,6 +1,6 @@
 2. § (1)[^6] Az eladó az ajánlat egy eredeti és egy másolati példányát – a kifüggesztésre irányuló kérelemmel együtt – a települési önkormányzat jegyzőjének (a továbbiakban: jegyző) postai úton, tértivevénnyel megküldi, vagy az átvétel dátumát feltüntető átvételi igazolás ellenében átadja. Az eladó az ajánlatkifüggesztés végett a jegyzőhöz eljuttatott eredeti és másolati példányán feltünteti azt a jogosultat, akinek az 1. § (4) bekezdése alapján elővásárlási joga áll fenn, vagy nyilatkozik arról, hogy ilyen jogosultság nem áll fenn.
 
-(1a)[^7] Az eladó az ajánlat egy eredeti példányát az ajánlatnak a jegyző részére történő megküldésével, illetve átadásával egyidejűleg köteles a Magyar Állam nevében elővásárlási jogot gyakorló Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) részére postai úton, tértivevénnyel megküldeni.
+(1a)[^7] Az eladó az ajánlat egy eredeti példányát az ajánlatnak a jegyző részére történő megküldésével, illetve átadásával egyidejűleg köteles a Magyar Állam nevében elővásárlási jogot gyakorló Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) részére postai úton, tértivevénnyel megküldeni, vagy személyesen átadni (a továbbiakban együtt: közölni). Ha az ajánlat tulajdonostárstól érkezik, az ajánlat egy eredeti példányát csak az NFA-val kell közölni.
 
 (2)[^8] A jegyző az ajánlatot a beérkezéstől, illetve az átvételtől számított 8 napon belül a polgármesteri hivatal hirdetőtáblájára 15 munkanapra kifüggeszti. A jegyző a benyújtott ajánlat mindkét példányára rávezeti a kifüggesztés, valamint a levétel időpontját.
 
@@ -25,7 +25,7 @@ d) figyelemfelhívás, hogy a tájékoztató nem minősül az ajánlat közlés�
 (6)[^12] A működtető szervezet haladéktalanul köteles a tájékoztatót a kormányzati portálon közzétenni. A tájékoztatót a kormányzati portálról az ajánlatnak a polgármesteri hivatal hirdetőtáblájáról való levétele napján kell levenni. A működtető szervezet a befogadott elektronikus űrlapok (4) bekezdésben foglalt adatait öt évig megőrzi.
 
 [^6]: A 2. § (1) bekezdése a 21/2005. (II. 11.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1a) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 2. § (1a) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 242/2011. (XI. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (2) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdését a 225/2008. (IX. 9.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.
 [^10]: A 2. § (4) bekezdését a 225/2008. (IX. 9.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.

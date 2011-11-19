@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-16-20-2
 | 2010-12-02 | 2002-16-20-22.10 | 215/2007. (VIII. 14.) Korm. rendelet |
 | 2011-01-01 | 2002-16-20-22.11 | 225/2008. (IX. 9.) Korm. rendelet |
 | 2011-09-01 | 2002-16-20-22.12 | 161/2011. (VIII. 18.) Korm. rendelet |
+| 2011-11-19 | 2002-16-20-22.13 | 161/2011. (VIII. 18.) Korm. rendelet |
