@@ -32,11 +32,11 @@
 
 | Mindösszesen | 36 963,9 |
 
-3. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz
+3. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz[^2]
 
 Mentesített előirányzatok
 
-| Fejezet | Cím | Alcím | Jogcím- csoport | Jogcím | Megnevezés |
+| Feje- zet | Cím | Alcím | Jog- cím- cso- port | Jog- cím | Megnevezés |
 
 |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |
 
@@ -174,8 +174,6 @@ Mentesített előirányzatok
 
 |  |  |  |  |  | Nemzeti Erőforrás Minisztérium |
 
-| 20 | 20 | 02 | 01 | 00 | Felsőoktatási intézmények hallgatóinak juttatásai központi előirányzata |
-
 | 20 | 20 | 02 | 03 | 00 | Közoktatási célú humánszolgáltatás és kiegészítő támogatás |
 
 | 20 | 20 | 02 | 07 | 00 | Hallgatói létszám képzési többlete (állami felsőoktatás) |
@@ -190,7 +188,7 @@ Mentesített előirányzatok
 
 | 20 | 20 | 03 | 26 | 00 | Felsőoktatás kiegészítő támogatása |
 
-| 20 | 20 | 05 | 15 | 00 | "Útravaló" ösztöndíj program |
+| 20 | 20 | 05 | 15 | 00 | „Útravaló” ösztöndíj program |
 
 | 20 | 20 | 17 | 01 | 00 | Otthonteremtési támogatás |
 
@@ -214,10 +212,10 @@ Mentesített előirányzatok
 
 | 20 | 20 | 24 | 12 | 00 | Magyar Sport Háza támogatása |
 
-| 20 | 20 | 46 | 00 | 00 | Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás |
-
 | 20 | 20 | 47 | 00 | 00 | Megváltozott munkaképességűek foglalkoztatásával összefüggő költségkompenzáció |
 
 |  |  |  |  |  | Központi Statisztikai Hivatal |
 
 | 31 | 06 | 03 | 00 | 00 | Népszámlálás |
+
+[^2]: A 3. melléklet az 1396/2011. (XI. 18.) Korm. határozat 2. pontjával megállapított szöveg.
