@@ -1,0 +1,1 @@
+## 1. § A Kormány felhatalmazást ad a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
