@@ -1,1 +1,1 @@
-## egy-egy képviselője, a bizottság elnöke az MgSzH Központjának képviselője. A tanácsadó bizottság ügyrendjét az elnök határozza meg.
+## egy-egy képviselője. A bizottság elnöke az MgSzH képviselője.
