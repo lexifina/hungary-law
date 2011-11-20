@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1396-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-11-19 | 2011-1396-30-22.1 | 1396/2011. (XI. 18.) Korm. határozat |
+| 2011-11-20 | 2011-1396-30-22.2 | 2011: CXXX. törvény |

@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. A 2011. évi költségvetési egyensúlyt megtartó intézkedésekről szóló 1316/2011. (IX. 19.) Korm. határozat 3. melléklete helyébe jelen határozat 2. melléklete lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -13,3 +13,5 @@
 XI. Miniszterelnökség
 
 X. Közigazgatási és Igazságügyi Minisztérium
+
+[^1]: A 2. pont a 2011: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
