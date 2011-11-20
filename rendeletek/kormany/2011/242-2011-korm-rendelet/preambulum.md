@@ -1,1 +1,0 @@
-A Kormány a termőföldről szóló 1994. évi LV. törvény 90. § (1) bekezdésének e) pontjában, valamint a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 32. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

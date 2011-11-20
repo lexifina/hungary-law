@@ -1,1 +1,0 @@
-## „(1) Az elővásárlásra jogosult a kifüggesztés kezdőnapját vagy a 2. § (1a) bekezdése szerinti esetben a közlés napját követő 15 munkanapon belül az ajánlatot elfogadó, illetve az elővásárlási jogáról lemondó jognyilatkozatot (a továbbiakban: nyilatkozat) tehet. Az elővásárlási jogról való lemondásnak kell tekinteni, ha a jogosult nem nyilatkozik.”
