@@ -12,7 +12,7 @@ c) vásárolt tenyészanyától származó pontyivadék telepítése esetén az 
 
 d) a kérelmező által a tárgyévben saját használatában üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolatát.
 
-(3) A (2) bekezdés a)–c) pontjában megjelölt, a támogatási kérelemhez csatolandó dokumentumok közül – a tenyészanyákra vonatkozó dokumentumok kivételével – kizárólag a tárgyévben a támogatási kérelem beadásáig, illetve a tárgyévet megelőző év október 1-je után kiállítottak fogadhatók el.
+(3)[^6] A (2) bekezdés a)–c) pontjában megjelölt, a támogatási kérelemhez csatolandó dokumentumok közül – a tenyészanyákra vonatkozó dokumentumok kivételével – kizárólag a tárgyévet megelőző év október 1-je és a támogatási kérelem benyújtása közötti időpontban kiállítottak fogadhatók el.
 
 (4) Az MVH a jogos igényléseket összesíti. Amennyiben az összes jogos igény meghaladja a 4. § (3) bekezdésében meghatározott támogatási keretet, az MVH arányosítást alkalmaz.
 
@@ -21,3 +21,5 @@ d) a kérelmező által a tárgyévben saját használatában üzemeltetett öss
 (6) Az MVH köteles a beadási határidőt követően hatvan napon belül határozatában tájékoztatni az ügyfelet arról, hogy csekély összegű támogatásban részesül, és ugyanezen határidőn belül gondoskodni a támogatás kifizetéséről. A határozatban utalnia kell a halászati csekély összegű támogatási rendeletre, hivatkozva annak pontos címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határoznia a támogatás pontos összegét támogatástartalomban (euróban) kifejezve.
 
 (7) A támogatás odaítéléséről szóló határozatot az MVH és az ügyfél köteles tíz évig megőrizni.
+
+[^6]: Az 5. § (3) bekezdése a 109/2011. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.
