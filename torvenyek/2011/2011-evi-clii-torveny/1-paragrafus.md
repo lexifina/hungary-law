@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Közép-európai légiforgalmi szolgálatokról (CEATS) szóló Megállapodások felmondásáról rendelkező CEATS Felmondási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
