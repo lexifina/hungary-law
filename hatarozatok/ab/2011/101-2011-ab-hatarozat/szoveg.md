@@ -1,0 +1,75 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság az Országos Választási Bizottságnak országos népszavazás kitűzésére irányuló kezdeményezés aláírásgyűjtő ív mintapéldányának, illetve azon szereplő kérdés hitelesítésével kapcsolatban hozott határozata ellen benyújtott kifogás tárgyában meghozta a következő
+
+határozatot:
+
+Az Alkotmánybíróság az Országos Választási Bizottság 151/2011. (IX. 9.) OVB határozatát helybenhagyja.
+
+Az Alkotmánybíróság ezt a határozatát a Magyar Közlönyben közzéteszi.
+
+Indokolás
+
+I.
+
+Az Országos Választási Bizottság (a továbbiakban: OVB) 150/2011. (IX. 9.) OVB határozatával (a továbbiakban: OVBh.) hitelesítette annak az országos népszavazás kezdeményezésére irányuló aláírásgyűjtő ívének a mintapéldányát, amelyen a következő kérdés szerepelt: „Egyetért-e Ön azzal, hogy a munkáltató továbbra is köteles legyen a rendkívüli felmondást megindokolni?” Az OVB szerint a benyújtott aláírásgyűjtő ív a törvényekben foglalt formai, valamint a népszavazásra feltenni kívánt kérdésre vonatkozó tartalmi követelményeknek megfelel.
+
+A választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) 130. § (1) bekezdése alapján a törvényes határidőn belül kifogás érkezett az Alkotmánybírósághoz az OVBh. ellen. Ebben az indítványozók egyrészt azért kérték az OVBh. megsemmisítését és az OVB új eljárásra utasítását, mert álláspontjuk szerint a felvetett kérdést a hatályos jogszabályok rendezik, de ez a körülmény a kérdésből nem derül ki, így az megtéveszti a választópolgárokat. Másrészt arra hivatkoztak, hogy a „rendkívüli felmondás” és a „továbbra is” fordulat tartalma a választópolgárok számára nem egyértelmű. Végül előadták, hogy az OVB határozatképessége a jegyzőkönyv hiánya miatt aggálymentesen nem állapítható meg.
+
+II.
+
+1. Az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvény (Nsztv.) vonatkozó rendelkezése:
+
+„13. § (1) A népszavazásra feltett konkrét kérdést úgy kell megfogalmazni, hogy arra egyértelműen lehessen válaszolni.”
+
+2. A Ve. érintett rendelkezései:
+
+„77. § (2) A kifogásnak tartalmaznia kell
+
+a) a jogszabálysértés megjelölését,
+
+b) a jogszabálysértés bizonyítékait,
+
+c) a kifogás benyújtójának nevét, lakcímét (székhelyét) és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét,
+
+d) a kifogás benyújtójának választása szerint telefaxszámát vagy elektronikus levélcímét, illetőleg kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.”
+
+„130. § (1) Az Országos Választási Bizottságnak az aláírásgyűjtő ív, illetőleg a konkrét kérdés hitelesítésével kapcsolatos döntése elleni kifogást a határozat közzétételét követő tizenöt napon belül lehet – az Alkotmánybírósághoz címezve – az Országos Választási Bizottsághoz benyújtani.
+
+(2) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozata elleni kifogást a határozat közzétételét követő nyolc napon belül lehet – az Alkotmánybírósághoz címezve – az Országos Választási Bizottsághoz benyújtani. Az Országos Választási Bizottság a kifogás benyújtásáról haladéktalanul tájékoztatja az Országgyűlés elnökét, a népszavazást elrendelő határozat elleni kifogásról a köztársasági elnököt is.
+
+(3) Az Alkotmánybíróság a kifogást soron kívül bírálja el. Az Alkotmánybíróság az Országos Választási Bizottság, illetőleg az Országgyűlés határozatát helybenhagyja, vagy azt megsemmisíti, és az Országos Választási Bizottságot, illetőleg az Országgyűlést új eljárásra utasítja.”
+
+III.
+
+A kifogás nem megalapozott.
+
+1. Az Alkotmánybíróság hatáskörét a jelen ügyben az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 1. § h) pontja alapján a Ve. 130. §-a határozza meg. Az Alkotmánybíróság eljárása ebben a hatáskörben jogorvoslati természetű. Az Alkotmánybíróság az OVB határozatában, valamint a kifogásban foglaltak alapján azt vizsgálja, hogy a beérkezett kifogás megfelel-e a Ve.-ben és az Nsztv.-ben foglalt feltételeknek, és az OVB az aláírásgyűjtő ív hitelesítési eljárásában az Alkotmánynak és az irányadó törvényeknek megfelelően járt-e el [63/2002. (XII. 3.) AB határozat, ABH 2002, 342, 344.]. Az Alkotmánybíróság feladatát e hatáskörben eljárva is alkotmányos jogállásával és rendeltetésével összhangban látja el [25/1999. (VII. 7.) AB határozat, ABH 1999, 251, 256.].
+
+2. A kifogást tevők alapvetően arra hivatkoztak, hogy a népszavazásra feltenni kívánt kérdés nem felel meg az Nsztv. 13. § (1) bekezdéséből eredő egyértelműség követelményének.
+
+2.1. Az Alkotmánybíróság gyakorlata során több határozatban értelmezte az Nsztv. 13. § (1) bekezdését. E határozataiban az Alkotmánybíróság kifejtette, hogy az egyértelműség követelménye a népszavazáshoz való jog érvényesülésének garanciája. Az egyértelműség követelménye ebben az összefüggésben azt jelenti, hogy a népszavazásra szánt kérdésnek egyértelműen megválaszolhatónak kell lennie. Ahhoz, hogy a választópolgár a népszavazásra feltett kérdésre egyértelműen tudjon válaszolni, az szükséges, hogy a kérdés világos és kizárólag egyféleképpen értelmezhető legyen, a kérdésre „igen”-nel vagy „nem”-mel lehessen felelni (választópolgári egyértelműség). Az eredményes népszavazással hozott döntés az Országgyűlésnek az Alkotmány 19. § (3) bekezdés b) pontjában foglalt jogköre – Alkotmányban szabályozott – korlátozása: az Országgyűlés köteles az eredményes népszavazásból következő döntéseket meghozni. Ezért a kérdés egyértelműségének megállapításakor vizsgálni kell azt is, hogy a népszavazás eredménye alapján az Országgyűlés el tudja-e dönteni, hogy terheli-e jogalkotási kötelezettség, ha igen, milyen jogalkotásra köteles (jogalkotói egyértelműség) [51/2001. (XI. 29.) AB határozat, ABH 2001, 392, 396.; 25/2004. (VII. 7.) AB határozat, ABH 2004, 381, 386.; 24/2006. (VI. 15.) AB határozat, ABH 2006, 358, 360–361.; 84/2008. (VI. 13.) AB határozat, ABH 2008, 695, 703.].
+
+Az Alkotmánybíróság – az Nsztv. 8. § (4) bekezdésével összefüggésben – azt is kifejtette, hogy az Nsztv. nem zárja ki, hogy a hatályos jogszabályi környezetre, így akár több jogszabály összességére vonatkozó kérdés az OVB hitelesítése alapján népszavazás tárgya lehessen [84/2008. (VI. 13.) AB határozat, ABH 2008, 695, 701.; 4/2009. (II. 4.) AB határozat, ABH 2009, 87, 92.]. Más határozataiban pedig rámutatott: az Nsztv. 13. § (1) bekezdése nem támaszt olyan követelményt a népszavazás kezdeményezőivel szemben, hogy a kérdés megfogalmazásakor pontosan használják a hatályos jogszabályok terminológiáját, illetőleg pontosan meghatározzák azt, hogy a népszavazási kezdeményezés mely jogszabályok módosítására, hatályon kívül helyezésére, vagy változatlan állapotban való fenntartására irányul [43/2007. (VI. 27.) AB határozat, ABH 2007, 571, 575.; 105/2007. (XII. 13.) AB határozat, ABH 2007, 891, 896.]. Az Alkotmánybíróság a 74/2008. (V. 22.) AB határozatában külön kiemelte: „a kérdéssel szemben nem alkotmányos követelmény, hogy a kezdeményező pontosan megjelölje, hogy az adott fogalmat mely jogszabály tartalmazza”. Utalt továbbá arra, hogy a kérdésben szereplő „továbbra is” fordulatból a választópolgár egyszerű nyelvtani értelmezéssel is megállapíthatja, mire (milyen tartalmú törvényi szabályozás fenntartására) irányul a kérdés (ABH 2008, 646, 650.).
+
+2.2. A jelen vizsgálat tárgyát képező kérdés a munkáltatói rendkívüli felmondás indokolásával függ össze. A kifogást tevők szerint a kérdés egyrészt – figyelemmel a hatályos szabályozásra – megtévesztő, másrészt nem lehet tudni, mit jelent a „rendkívüli felmondás”, illetve a „továbbra is” fordulat.
+
+A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 87. § (1) bekezdése sorolja fel a munkaviszony megszüntetésének eseteit. A c) pont értemében a munkaviszony megszüntethető rendkívüli felmondással. Az erre vonatkozó további szabályokat az Mt. a „Rendkívüli felmondás” cím alatt foglalja össze (96. §). A 96. § (1) bekezdése úgy rendelkezik, hogy a „munkáltató, illetve a munkavállaló a munkaviszonyt rendkívüli felmondással megszüntetheti, ha a másik fél
+
+a) a munkaviszonyból származó lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal jelentős mértékben megszegi, vagy
+
+b) egyébként olyan magatartást tanúsít, amely a munkaviszony fenntartását lehetetlenné teszi. Ettől érvényesen eltérni nem lehet.” A rendkívüli felmondás tehát a munkaviszony azonnali hatályú megszüntetését jelenti egyoldalú jognyilatkozattal abban az esetben, ha a munkavállaló vagy a munkáltató a törvényben meghatározott súlyos kötelezettségszegést követ el vagy magatartása egyébként erősen kifogásolható. Az Mt. 96. § (2) bekezdése értelmében a rendkívüli felmondás indoka tekintetében a 89. § (2) bekezdését kell megfelelően alkalmazni. E hivatkozott – egyébként a rendes felmondásra vonatkozó szabályok között szereplő – rendelkezés előírja, hogy a munkáltató – kivéve, ha a munkavállaló az Mt. szerinti nyugdíjasnak minősül – köteles felmondását megindokolni. Az indokolásból a felmondás okának világosan ki kell tűnnie. Vita esetén a felmondás indokának valóságát és okszerűségét a munkáltatónak kell bizonyítania. Az Mt. azt is előírja, hogy a munkáltatói rendkívüli felmondás közlése előtt lehetőséget kell adni a munkavállalónak a tervezett intézkedés indokainak megismerésére és a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
+
+A fentiekből következik, hogy a munkáltató jelenleg is köteles a rendkívüli felmondását indokolni. Azonban önmagában emiatt, illetve azért, mert „igen” válasszal a választópolgárok a hatályos szabályok fenntartását támogatják, a kérdés nem tekinthető megtévesztőnek. Az indítványozók által kifogásolt „továbbra is” fordulat valójában épp azt juttatja kifejezésre, hogy a kérdésre adott „igen” válasszal a szavazók a hatályos rendszer fenntartását, míg a „nem”-mel annak megváltoztatását, a munkáltatói indokolási kötelezettség megszüntetését támogatják. Ezzel együtt az is egyértelmű, hogy eredményes népszavazás nyomán a jogalkotót terheli-e jogalkotási kötelezettség, s ha igen, milyen tartalommal.
+
+Az Alkotmánybíróság emellett megjegyzi: a kérdés megfogalmazására olyan körülmények között került sor, amikor nyilvánosságot kapott, hogy folynak az új Munka Törvénykönyvének előkészületei. Társadalmi vita folyik a tervezett változtatásokról, így a munkaviszony munkáltató által történő megszüntetésének feltételeiről. A népszavazási kezdeményezés ebben a társadalmi vitában való állásfoglalásra irányul. Mivel a kérdés tartalmát képező rendelkezés az Mt. elfogadása óta változatlan, széles körben, mind a munkáltatók, mind a munkavállalók körében ismert szabály. Így e körülményekre figyelemmel sem helytálló a kérdés megtévesztő, illetve félrevezető jellegére alapított érvelés.
+
+Minderre tekintettel az Alkotmánybíróság nem találta megalapozottnak az Nsztv. 13. § (1) bekezdésének sérelmére alapozott kifogást.
+
+3. A kifogást tevők az OVB eljárását is sérelmezték annyiban, hogy a jegyzőkönyv hiánya miatt kétséges volt az OVB határozatképessége. Az Alkotmánybíróság – jogorvoslati jogkörében eljárva – megállapította, hogy az OVB-nek a jelen ügyben vizsgált kérdés hitelesítésével foglalkozó üléséről készült jegyzőkönyv, s ebből, valamint a jelenléti ívből kiderül, hogy az OVB a kifogás tárgyává tett határozat meghozatalakor határozatképes volt. Így az indítványozók hivatkozása e vonatkozásban sem megalapozott.
+
+Az Alkotmánybíróság ezért az OVBh.-t a Ve. 130. § (3) bekezdése alapján helybenhagyta.
+
+Az Alkotmánybíróság a határozat közzétételét az OVB határozatának a Magyar Közlönyben történő megjelentetésére tekintettel rendelte el.
+
+Alkotmánybírósági ügyszám: 1367/H/2011.
