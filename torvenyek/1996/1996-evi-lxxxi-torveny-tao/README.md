@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2011-01-01 | 2010. évi CXXIII. törvény | 1996-81-00-00.59 |
 | 2011-07-01 | 2011. évi LXXXII. törvény | 1996-81-00-00.60 |
 | 2011-07-27 | 2011. évi CII. törvény | 1996-81-00-00.61 |
+| 2011-11-25 | 2011. évi LXXXII. törvény | 1996-81-00-00.62 |
