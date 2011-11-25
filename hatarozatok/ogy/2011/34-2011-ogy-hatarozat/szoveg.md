@@ -24,7 +24,7 @@ i) javaslattétel a működő jogellenes csoportok törvényes felszámolásána
 
 4. A Bizottság működésének kezdetén maga határozza meg ügyrendjét, az 50/2003. (XI. 5.) AB határozatban foglaltak figyelembevételével.
 
-5. A Bizottság munkájáról jelentést készít, amelyet a megbízatásának kezdetétől számított 150 napon belül benyújt az Országgyűlésnek.
+5.[^2] A Bizottság munkájáról jelentést készít, amelyet 2012. március 30-ig benyújt az Országgyűlés elé.
 
 6. A Bizottság 13 tagból áll, tagjai országgyűlési képviselők. A tagokra a képviselőcsoportok vezetői tesznek ajánlást az alábbiak szerint:
 
@@ -55,3 +55,5 @@ i) javaslattétel a működő jogellenes csoportok törvényes felszámolásána
 13. A Bizottság feladatának ellátásához szakértőket vehet igénybe. Működésének költségeit az Országgyűlés költségvetéséből kell fedezni.
 
 14. E határozat a közzététele napján lép hatályba.
+
+[^2]: Az 5. pont a 90/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
