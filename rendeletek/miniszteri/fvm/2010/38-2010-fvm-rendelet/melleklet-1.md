@@ -1,4 +1,4 @@
-## 31. §[^16] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet módosításáról szóló 21/2010. (X. 12.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 13/A. §-át és a 18. § (1) bekezdését, valamint a 15. § (4) bekezdés hatályon kívül helyezését 2010. május 1-je és a módosító rendelet hatálybalépése között benyújtott támogatási kérelmek vonatkozásában is alkalmazni kell.
+## 32. §[^37] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 112/2011. (XI. 24.) VM rendelettel [a továbbiakban: 112/2011. (XI. 24.) VM rendelet] megállapított 2. § (1) bekezdés 14. pontját, 2. § (1) bekezdés 23. pontját, a 7. § b) pontját, a 11. § (2) bekezdés b) pontját, a 11. § (6) bekezdését, a 13. § (2) bekezdését, a 13. § (4) bekezdését, 13. § (9) bekezdését, a 14. § (4) bekezdését, a 14. § (7)–(10) bekezdéseit, a 16. § (1) bekezdés b) pontját, a 21. § (1) bekezdését, a 24. § (2) bekezdés a) pontját a 25. § (3) bekezdését, a 28. § (1) bekezdését, a 112/2011. (XI. 24.) VM rendelet hatálybalépésekor[^38] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,4 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^16]: A 31. §-t a 21/2010. (X. 12.) VM rendelet 3. §-a iktatta be.
+[^37]: A 32. §-t a 112/2011. (XI. 24.) VM rendelet 13. §-a iktatta be.
+[^38]: A hatálybalépés időpontja 2011. november 25.
