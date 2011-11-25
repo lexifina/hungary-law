@@ -1,1 +1,1 @@
-99. §
+99. § A 26. § (1) bekezdés i) és r) pontjának, a 26. § (7)–(8) bekezdésének, a 87. § (4)–(5) bekezdésének és a 102. § (1) bekezdés k) pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított szövegét a hatálybalépésüket követően illetékkiszabásra bejelentett, vagy más módon az állami adóhatóság tudomására jutott illetékügyekben kell alkalmazni.

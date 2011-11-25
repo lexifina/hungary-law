@@ -18,7 +18,7 @@ g) a társasági adóról és az osztalékadóról szóló törvény szerinti ke
 
 h) a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett részesedéscsere keretében történő vagyonszerzés;
 
-i)
+i) sporttelep tulajdonjogának, vagyoni értékű jogának megszerzése, ha a vagyonszerző vállalja, hogy az ingatlant a szerzéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. A feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Az illetékmentesség a sportteleppel egybeépült vagy azzal együtt nyilvántartott, sporttelepnek nem minősülő ingatlanrész forgalmi értékére eső illetékalaprész tekintetében nem alkalmazható.
 
 j) a kisajátított vagy bányakárt szenvedett ingatlanért kapott csereingatlan szerzése vagy a kártalanítási összegből rá eső rész erejéig a kártalanítottnak az ingatlanvásárlása, ideértve az ilyen ingatlanra vonatkozó más személyt megillető jog megszűnéséért kapott kártalanítási összegből azonos jog megszerzését is;
 
@@ -44,7 +44,7 @@ qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az
 
 qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket.
 
-r)
+r) az építésügyi szabályok és a településrendezési terv alapján sporttelep létrehozására alkalmas beépítetlen földrészlet sporttevékenységet, annak szervezését, valamint a sporttevékenység feltételeinek megteremtését végző sportszervezet, sportszövetség általi megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül sporttelepet hoz létre. Amennyiben a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik arról, hogy a megszerzett földrészleten a sporttelep létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportteleppel beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel;
 
 s) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 
@@ -68,9 +68,9 @@ u) a magánszemély lakásvásárlása, amennyiben az a szociálisan rászorult 
 
 (6) Az illetékkötelezettség keletkezésekor a 35. életévét be nem töltött fiatal első lakástulajdonának (tulajdoni hányadának) megszerzése esetén az egyébként fizetendő illeték 50%-ig terjedő, de legfeljebb 40 000 forint kedvezményre jogosult, ha az egész lakástulajdon forgalmi értéke a 8 millió forintot nem haladja meg. Ilyen forgalmi értékű lakás részaránytulajdonának megszerzése esetén a vagyonszerzőt a szerzett tulajdoni hányaddal arányos mértékű kedvezmény illeti meg.
 
-(7)
+(7) Az (1) bekezdés r) pontjában említett sporttelep felépítésének igazolása érdekében az ott meghatározott 4 éves határidő elteltét követő 15 napon belül az állami adóhatóság megkeresi az ingatlan fekvése szerint illetékes építésügyi hatóságot. Amennyiben az építésügyi hatóság igazolja, hogy a vagyonszerző nevére sporttelepre adott ki használatbavételi engedélyt, az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket törli. Törli az állami adóhatóság az illetéket akkor is, ha a 4 éves határidőn belül a vagyonszerző a nevére szóló jogerős használatbavételi engedéllyel igazolja a sporttelep felépítését.
 
-(8)
+(8) Ha a vagyonszerző a megszerzett telken, illetve – ha az illetékmentességet nem az egész telek vonatkozásában kérte – a teleknek az illetékmentességgel érintett részén a sporttelep létrehozásán kívül más épületet, építményt is létrehoz, épít vagy a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely az elkészült létesítményből a sporttelepnek minősülő ingatlanrészre, vagy arra a megosztás során létrejött telekre esik, amelyen sporttelep felépült. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni. Ha a sporttelep létrehozására nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakul, a sporttelep létrehozására az ingatlant megszerző jogutód köteles.
 
 (9) A (6) és (15) bekezdés alkalmazásában első lakástulajdont szerzőnek az minősül, akinek nincs és nem is volt lakástulajdona, lakástulajdonban 50%-ot elérő tulajdoni hányada, lakástulajdonhoz kapcsolódó, az ingatlan-nyilvántartásba bejegyzett vagyoni értékű joga. A kedvezményre való jogosultság megállapításánál figyelmen kívül kell hagyni az özvegyi haszonélvezeti joggal terhelt, továbbá az olyan lakástulajdont, amelyet nagykorú vagyonszerző esetén a nagykorúság elérését megelőzően idegenítettek el. Nem minősül első lakástulajdont szerzőnek az, aki a (6) vagy (15) bekezdés szerinti kedvezményt az illetékkötelezettség keletkezését megelőzően igénybe vette. A kedvezmény igénybevételéről, valamint a kedvezményre jogosító feltételek fennállásáról a szerző félnek az illetékfizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia.
 
