@@ -14,6 +14,6 @@
 
 | 5. Wysocki Légió Hagyományőrző Egyesület | A lengyel-magyar összetartozás éve | 8 000 000 | XVIII. fejezet 5.39. 2011. évi magyar EU elnökségi feladatok |
 
-5. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^7]
+5. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^10]
 
-[^7]: Az 5. melléklet a 123/2011. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 5. melléklet a 245/2011. (XI. 24.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

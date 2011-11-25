@@ -10,7 +10,11 @@ d) XVIII. Külügyminisztérium fejezetnek a 4. mellékletben megjelölt fejezet
 
 e) XX. Nemzeti Erőforrás Minisztérium fejezetnek az 5. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben,
 
-f)[^2] XII. Vidékfejlesztési Minisztérium fejezetnek a 6. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben.
+f)[^2] XII. Vidékfejlesztési Minisztérium fejezetnek a 6. mellékletben megjelölt fejezeti kezelésű előirányzatai terhére, a mellékletben megjelölt szervezet részére és összegben,
+
+g)[^3] XIII. Honvédelmi Minisztérium fejezetnek a 7. mellékletben megjelölt fejezeti kezelésű előirányzata terhére, a mellékletben megjelölt szervezet részére és összegben,
+
+h)[^4] XIV. Belügyminisztérium fejezetének a 8. mellékletben megjelölt fejezeti kezelésű előirányzata terhére, a mellékletben megjelölt szervezet részére és összegben.
 
 (2) Az (1) bekezdés e) pontja szerinti támogatás a szervezet részére
 
@@ -22,8 +26,10 @@ b) a Nemzeti Erőforrás Minisztérium által finanszírozott modellprogram vég
 
 (3) Az (1) bekezdés e) pontja alapján nem részesülhet támogatásban a szervezet, ha az adott költségvetési évben a központi költségvetésből – a támogatandó cél tekintetében – normatív támogatásban részesül.
 
-(4)[^3] Az (1) bekezdés a)–f) pontja alapján támogatásban részesített szervezet támogatási szerződése megkötésére, annak tartalmára, a támogatás folyósítására, az elszámolási és beszámolási kötelezettségekre, valamint a támogatásra vonatkozó egyéb feltételek tekintetében az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet VII. fejezetének szabályait kell alkalmazni.
+(4)[^5] Az (1) bekezdés a)–h) pontja alapján támogatásban részesített szervezet támogatási szerződése megkötésére, annak tartalmára, a támogatás folyósítására, az elszámolási és beszámolási kötelezettségekre, valamint a támogatásra vonatkozó egyéb feltételek tekintetében az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet VII. fejezetének szabályait kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 221/2011. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontját a 221/2011. (X. 20.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. § (4) bekezdése a 221/2011. (X. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés g) pontját a 245/2011. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés h) pontját a 245/2011. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (4) bekezdése a 245/2011. (XI. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
