@@ -1,6 +1,6 @@
 ## 5. Az egészségügyi szolgáltatók átadásának speciális szabályai
 
-7. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát.
+7. § (1)
 
 (2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. március 31-éig 2012. május 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – meghatározza az e törvény hatálybalépésekor érvényes finanszírozási szerződéssel rendelkező, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók
 

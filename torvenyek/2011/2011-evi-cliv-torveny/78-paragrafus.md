@@ -1,5 +1,3 @@
-## „(1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a Honvédelmi Minisztérium és a Belügyminisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.”
-
 ## 26. A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény módosítása
 
 78. § (1) A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: Kötv.) 1. §-a helyébe a következő rendelkezés lép:

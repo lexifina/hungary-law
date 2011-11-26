@@ -1,18 +1,6 @@
-## „k) az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
-
-## l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása
-
-## során a szakmánkénti megállapítás követelményét nem kell figyelembe venni.”
-
 ## 24. A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény módosítása
 
-76. § (1) A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) 1. § b) pontja az alábbiak szerint módosul:
-
-[E törvény hatálya]
-
-## „b) a kormányhivatalok és a központi hivatalok területi, helyi szerve, a megyei, fővárosi kormányhivatal, a Rendőrség, a büntetésvégrehajtás és a katasztrófavédelem szervei, valamint a Kormány által intézményfenntartásra kijelölt szerv”
-
-[[a továbbiakban a)–b) pont együtt: államigazgatási szerv] kormánytisztviselőinek és kormányzati ügykezelőinek (a továbbiakban: kormánytisztviselő, ügykezelő) kormánytisztviselői jogviszonyára, továbbá a minisztérium és a Miniszterelnökség közigazgatási államtitkárainak és helyettes államtitkárainak (a továbbiakban: szakmai vezető) jogviszonyára terjed ki.]
+76. § (1)
 
 (2) A Ktjv. az alábbi új, 6/C. §-sal egészül ki:
 
@@ -30,4 +18,4 @@
 
 ## (7) A közszolgálati jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormánytisztviselői jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.”
 
-(3) A Ktjv. 19. § (3) bekezdése az alábbiak szerint módosul:
+(3)

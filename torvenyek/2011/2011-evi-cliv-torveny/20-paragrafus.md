@@ -1,5 +1,3 @@
-## „113. § A fenntartó és a fővárosi közgyűlés jóváhagyja a megyei, fővárosi múzeumi szervezet éves munkatervét és költségvetési előirányzatát.”
-
 ## 12. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
 20. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 6. § (5) bekezdése helyébe a következő rendelkezés lép:
