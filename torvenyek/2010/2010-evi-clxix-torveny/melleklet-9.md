@@ -140,6 +140,12 @@ Nemzetközi elszámolások kiadásai (36. cím)
 
 Hozzájárulás az EU költségvetéséhez (37. cím)
 
+Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulás kölcsönének elengedése (38. cím, 3. alcím)
+
+A megyei önkormányzatoktól és a Fővárosi Önkormányzattól átvállalt adósság (38. cím, 4. alcím)
+
+A MÁV Zrt.-től átvállalt adósság (38. cím, 5. alcím)
+
 XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK
 
 fejezetben

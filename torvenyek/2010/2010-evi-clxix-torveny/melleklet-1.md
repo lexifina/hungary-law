@@ -23260,11 +23260,31 @@ Fejezeti általános tartalék
 
 |
 
+18
+
+|
+
+MFB tőkeemelése
+
+|
+
+60 000,0
+
+|
+
+|
+
+60 000,0
+
+|
+
+|
+
 1–16. cím összesen:
 
 |
 
-341 846,2
+401 846,2
 
 |
 
@@ -23272,7 +23292,7 @@ Fejezeti általános tartalék
 
 |
 
-248 227,1
+308 227,1
 
 |
 
@@ -23428,7 +23448,7 @@ XVII. fejezet összesen:
 
 |
 
-574 228,0
+634 228,0
 
 |
 
@@ -23436,7 +23456,7 @@ XVII. fejezet összesen:
 
 |
 
-248 227,1
+308 227,1
 
 |
 
@@ -29822,13 +29842,13 @@ Közoktatási célú humánszolgáltatás és kiegészítő támogatás
 
 |
 
-103 638,1
+107 575,0
 
 |
 
 |
 
-103 638,1
+107 575,0
 
 |
 
@@ -34198,7 +34218,7 @@ Szociális célú humánszolgáltatások normatív állami támogatása
 
 |
 
-34 035,1
+37 562,1
 
 |
 
@@ -34236,7 +34256,7 @@ Egyéb működési célú kiadások
 
 |
 
-34 019,1
+37 546,1
 
 |
 
@@ -34254,7 +34274,7 @@ Egyházi szociális intézményi normatíva kiegészítése
 
 |
 
-13 400,0
+14 715,5
 
 |
 
@@ -34292,7 +34312,7 @@ Egyéb működési célú kiadások
 
 |
 
-13 393,0
+14 708,5
 
 |
 
@@ -38532,7 +38552,7 @@ Egyéb működési célú kiadások
 
 |
 
-898 302,2
+907 081,6
 
 |
 
@@ -38540,7 +38560,7 @@ Egyéb működési célú kiadások
 
 |
 
-531 446,1
+540 225,5
 
 |
 
@@ -38880,7 +38900,7 @@ XX. fejezet összesen:
 
 |
 
-1 526 591,2
+1 535 370,6
 
 |
 
@@ -38888,7 +38908,7 @@ XX. fejezet összesen:
 
 |
 
-531 446,1
+540 225,5
 
 |
 
@@ -42724,7 +42744,7 @@ OECF hitel tőke-visszatérülése
 
 |
 
-316,6
+3 687,3
 
 |
 
@@ -42738,7 +42758,7 @@ XLI. fejezet összesen:
 
 |
 
-59 535,3
+62 906,0
 
 |
 
@@ -44016,11 +44036,63 @@ Várgondnokság Nonprofit Kft. tartozás-elengedése
 
 |
 
-Várpalota és Régiója Környezetvédelmi Rehabilitácíós Programra létrehozott céltársulás 2011. évi kölcsöntörlesztésének elengedése
+Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulás kölcsönének elengedése
 
 |
 
-158,3
+3 600,0
+
+|
+
+|
+
+4
+
+|
+
+A megyei önkormányzatoktól és a Fővárosi Önkormányzattól átvállalt adósság
+
+|
+
+|
+
+1
+
+|
+
+Adósság-átvállalás
+
+|
+
+70 000,0
+
+|
+
+|
+
+2
+
+|
+
+Hitelviszonyt megtestesítő értékpapírból eredő fizetési kötelezettség teljesítése
+
+|
+
+130 000,0
+
+|
+
+|
+
+5
+
+|
+
+A MÁV Zrt.-től átvállalt adósság
+
+|
+
+64 000,0
 
 |
 
@@ -44030,7 +44102,7 @@ XLII. fejezet összesen:
 
 |
 
-1 194 458,5
+1 461 900,2
 
 |
 
@@ -48266,7 +48338,7 @@ K I A D Á S I F Ő Ö S S Z E G :
 
 |
 
-14 155 070,1
+14 491 291,2
 
 |
 
@@ -48278,7 +48350,7 @@ B E V É T E L I F Ő Ö S S Z E G :
 
 |
 
-12 970 820,9
+12 974 191,6
 
 |
 
@@ -48290,7 +48362,7 @@ A FŐÖSSZEGEK EGYENLEGE :
 
 |
 
-–1 184 249,2
+–1 517 099,6
 
 |
 

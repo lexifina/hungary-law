@@ -19,3 +19,5 @@ c) a prémiumévek programról és a különleges foglalkoztatási állományró
 (4) Az (1) bekezdés szerinti céltartalék terhére a Kormány engedélyével támogathatók a Költségvetési Tanács Titkárságának megszűntetésével elért valós létszámcsökkenésekkel kapcsolatos személyi kifizetések.
 
 (5) Az (1) bekezdés szerinti céltartalék terhére támogatható a költségvetési szerveknél foglalkoztatottak részére a 2011. évben – jogszabály alapján – járó többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok kifizetése. Az előirányzatok átcsoportosítására a Kormány kap felhatalmazást.
+
+(6) Az (1) bekezdés szerinti céltartalék terhére támogatható a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi és munkaadókat terhelő járulék kifizetése. Az előirányzatok átcsoportosítására a Kormány kap felhatalmazást.

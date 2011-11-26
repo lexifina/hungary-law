@@ -133,9 +133,3 @@ Munkáltatói egészségbiztosítási járulék (1. cím, 1. alcím)
 Biztosítotti egészségbiztosítási járulék (1. cím, 2. alcím)
 
 Egészségügyi szolgáltatási járulék (1. cím, 3. alcím, 1. jogcím-csoport)
-
-Megállapodás alapján fizetők járulékai (1. cím, 3. alcím, 2. jogcím-csoport)
-
-Munkáltatói táppénz hozzájárulás (1. cím, 3. alcím, 4. jogcím-csoport)
-
-Százalékos mértékű egészségügyi hozzájárulás (1. cím, 4. alcím, 2. jogcím-csoport)

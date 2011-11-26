@@ -12,4 +12,6 @@ b) 65%-ának kétharmada egyenlő összegben – egyhuszad részenként –, egy
 
 (4) Az illetékbeszedéssel kapcsolatos kiadásokra a Fővárosi Önkormányzattól a területén beszedett illetékbevétel 4%-a, a megyei és a megyei jogú városi önkormányzattól a területén beszedett illetékbevétel 8,5%-a visszatartásra kerül.
 
-(5) A (2) és (3) bekezdés szerinti illetékbevételt a Kincstár a tárgyhónapot követő hónap 20-áig utalja át a fővárosi, a megyei és a megyei jogú városi önkormányzatok pénzforgalmi számlájára.
+(5) A (2) és (3) bekezdés szerinti illetékbevételt a Kincstár – a (6) bekezdésben foglalt kivétellel – a tárgyhónapot követő hónap 20-áig utalja át a fővárosi, a megyei, és a megyei jogú városi önkormányzatok pénzforgalmi számlájára.
+
+(6) A (3) bekezdés alapján a megyei önkormányzatokat a 2011. december 1-jétől beszedett illetékből megillető részesedés – a NAV kimutatása alapján – a központi költségvetés bevételét képezi.
