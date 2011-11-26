@@ -1,8 +1,6 @@
-## 39. § A légitársaság a védelmi programjában eljárást dolgoz ki és alkalmaz a repülés tartama alatti védelmi intézkedésekre.
-
 ## 26. A vészhelyzetben való tevékenység
 
-40. § (1) A repülőtér üzemben tartója, a légitársaság, a légiforgalmi irányító szolgálat, az egyéb jogalanyok a légiközlekedés ellen irányuló jogellenes cselekmény megelőzésére, vagy arra irányuló kísérlet megakadályozására Légiközlekedés Védelmi és Kényszerhelyzeti Tervet készít, amely tartalmazza az adott szervezet vészhelyzetben való tevékenységét és a repülőtéri szolgálatokkal történő együttműködését.
+40. § (1)[^100] A repülőtér üzemben tartója, a légitársaság, a légiforgalmi irányító szolgálat, az egyéb jogalanyok a légiközlekedés ellen irányuló várható, vagy bekövetkezett jogellenes cselekmény megelőzésére, vagy arra irányuló kísérlet megakadályozására Légiközlekedés Védelmi és Kényszerhelyzeti Tervet készít, amely tartalmazza az adott szervezet vészhelyzetben való tevékenységét és a repülőtéri szolgálatokkal történő együttműködését.
 
 (2) A Légiközlekedés Védelmi és Kényszerhelyzeti Tervben foglalt feladatok gyakorlására és az eredmények értékelésére évente egy alkalommal védelmi gyakorlatot kell végrehajtani. A védelmi gyakorlat időpontjáról a légiközlekedési hatóságot legalább a védelmi gyakorlat időpontja előtt egy hónappal tájékoztatni kell.
 
@@ -21,3 +19,8 @@ c) közvetlen összeköttetést a légiforgalmi irányító központtal, valamin
 d) a veszélyeztetett területről képi információk továbbításának lehetőségét, a tervezés és a végrehajtás dokumentálását segítő irodatechnikai, rögzítő és másoló berendezéseket és
 
 e) az elektronikus berendezések szünetmentes áramellátását.
+
+(6)[^101] Vészhelyzetben a vészhelyzet felszámolását végző személy és járműve – amennyiben a repülőtér erre az esetre kijelölt belépőpontjától a vészhelyzet helyszínéig kísérettel rendelkezik – mentesül az átvizsgálás alól. A vészhelyzet elmúltával a repülőtér vészhelyzetben érintett szigorított védelmi területét a repülőtér üzemben tartója átvizsgálja, annak érdekében, hogy ott tiltott tárgyak ne maradjanak.
+
+[^100]: A 40. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^101]: A 40. § (6) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 29. §-a iktatta be.

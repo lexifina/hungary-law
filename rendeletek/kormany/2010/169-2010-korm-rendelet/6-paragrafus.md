@@ -1,5 +1,3 @@
-## 5. § Az együttműködő hatóságok és a légiközlekedés védelmében közreműködő szervezetek a nemzeti légiközlekedés védelmi programokban a részükre előírt feladatokat kötelesek végrehajtani.
-
 ## 5. A Nemzeti Polgári Légiközlekedés Védelmi Program
 
 6. § (1) A Nemzeti Polgári Légiközlekedés Védelmi Program célja a légiközlekedés védelme és jogellenes cselekmények megelőzése érdekében szükséges stratégiai döntések meghatározása, valamint az 1. § (1) bekezdés szerinti szervezetek együttműködésének összehangolását biztosító intézkedések kidolgozása.

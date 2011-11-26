@@ -1,33 +1,43 @@
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya kiterjed:
+1. § (1)[^1] E rendelet hatálya kiterjed:
 
 a) a légiközlekedési hatóságra,
 
-b) a rendőrségre,
+b) az általános rendőrségi feladatok ellátására létrehozott szervre,
 
-c) a Nemzetbiztonsági Hivatalra (a továbbiakban: NBH),
+c) a terrorizmust elhárító szervre (a továbbiakban: TEK),
 
-d) a vámhatóságra,
+d) az Alkotmányvédelmi Hivatalra (a továbbiakban: AH),
 
-e) a repülőtér katasztrófavédelmi feladatait vagy tűzoltóvédelmi kategóriáját biztosító szervezetre,
+e) a vámhatóságra,
 
-f) a légitársaságra,
+f) a hivatásos katasztrófavédelmi szervre,
 
-g) a repülőtér és légijármű üzemben tartójára,
+g) a repülőtér tűzoltóvédelmi kategóriáját és polgári védelmi feladatait biztosító szervezetre,
 
-h) a légiforgalmi irányító, repülőtéri koordinációs, repüléstájékoztató, riasztó, légiforgalmi-tájékoztató, valamint a léginavigációs és távközlési szolgálatot fenntartó szervezetre (a továbbiakban együtt: légiforgalmi irányító szolgálat),
+h) a légiközlekedési szállítási tevékenységben részt vevő, vagy ilyet felajánló személyre, szervezetre vagy vállalkozásra,
 
-i) a légijármű karbantartó és javító szervezetre,
+i) működési engedéllyel vagy azzal egyenértékű okmánnyal rendelkező légiközlekedési vállalkozásra (a továbbiakban: légi fuvarozó) [a továbbiakban a h)–i) pontok együtt: légitársaság],
 
-j) a földi kiszolgálási tevékenységet végző gazdálkodó szervezetekre, meghatalmazott ügynökre, ismert szállítóra, listás szállítóra, biztonsági vállalkozásra, fedélzeti ellátmány meghatalmazott beszállítójára, fedélzeti ellátmány ismert beszállítójára, repülőtéri készlet meghatalmazott beszállítójára vagy ismert beszállítójára, légiközlekedés védelmi tevékenységet végző jogalanyokra (a továbbiakban együtt: egyéb jogalanyok),
+j) a repülőtér üzemben tartójára,
 
-k) a légitársasággal személyszállítási szerződést kötött vagy a magáncélú vagy vállalati célú repülést igénybe vevő személyre (a továbbiakban: utas) az alábbiak tekintetében:
+k) a légiforgalmi irányító szolgálatot ellátó szervezetre (a továbbiakban: légiforgalmi irányító szolgálat),
 
-ka) a repülőtér valamennyi területére belépés, valamint a légijármű fedélzetére lépésre vonatkozó szabályok,
+l) a repülőtér légi oldalán belül telephellyel rendelkező légijármű karbantartó, és javító szervezetre, valamint a légiközlekedési szállítási tevékenységben részt vevő légijármű karbantartó, légijármű és javító szervezetre (a továbbiakban együtt: karbantartó és javító szervezet),
 
-kb) az utas, a feladott poggyász és a kézipoggyász átvizsgálásra vonatkozó szabályok és
+m) a földi kiszolgálási tevékenységet végző gazdálkodó szervezetekre, meghatalmazott ügynökre, ismert szállítóra, listás szállítóra, biztonsági vállalkozásra, fedélzeti ellátmány meghatalmazott beszállítójára, fedélzeti ellátmány ismert beszállítójára, repülőtéri készlet ismert beszállítójára, légiközlekedés védelmi tevékenységet végző jogalanyokra (a továbbiakban együtt: egyéb jogalany),
 
-kc) a légijármű fedélzetén tartózkodás szabályai.
+n) a légitársasággal személyszállítási szerződést kötött, a magáncélú repülést vagy a vállalati célú repülést igénybe vevő személyre (a továbbiakban: utas)
+
+na) a repülőtér valamennyi területére belépés, valamint a légijármű fedélzetére lépésre vonatkozó szabályok,
+
+nb) az utas, a feladott poggyász és a kézipoggyász átvizsgálásra vonatkozó szabályok és
+
+nc) a légijármű fedélzetén tartózkodás szabályai
+
+tekintetében.
 
 (2) A légiközlekedés védelmi tevékenységre a 46. §-ban felsorolt uniós jogi aktusok a légiközlekedésről szóló 1995. évi XCVII. törvényben, valamint az e rendeletben foglaltakkal együttesen alkalmazandóak.
+
+[^1]: Az 1. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

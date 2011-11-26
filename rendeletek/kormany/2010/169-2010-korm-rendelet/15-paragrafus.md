@@ -1,17 +1,21 @@
-## 15. § A Nemzetbiztonsági Hivatal
+## 15. §[^25] Az AH
 
-a) értékeli a polgári légiközlekedés fenyegetettségi és veszélyeztetettségi szintjét, és tájékoztatja a rendőrséget vagy a légiközlekedési hatóságot a feladatkörének ellátásához szükséges adatokról,
+a) feladatai ellátása során tudomására jutott információkból értékeli a polgári légiközlekedés fenyegetettségi és veszélyeztetettségi szintjét, és tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és a légiközlekedési hatóságot a feladatkörének ellátásához szükséges adatokról,
 
-b) gyűjti és értékeli a polgári légiközlekedés védelmét érintő titkos és nyílt információkat, amelyeket haladéktalanul eljuttat a feladat- és hatáskörrel rendelkező szervezeteknek,
+b) gyűjti és értékeli a polgári légiközlekedés védelmét érintő minősített és nyílt információkat, amelyeket haladéktalanul eljuttat a feladat- és hatáskörrel rendelkező szervezeteknek,
 
-c) intézkedéseket kezdeményez a polgári légiközlekedés ellen irányuló jogellenes cselekmények megelőzése, elhárítása érdekében,
+c) intézkedéseket kezdeményez a terrorcselekmény, valamint a légijármű hatalomba kerítése bűncselekmény kivételével a polgári légiközlekedés elleni jogellenes cselekmények megelőzése, elhárítása érdekében,
 
 d) gyűjti, elemzi és értékeli – az ismételt előfordulás megelőzése és az esetleges biztonsági kockázatok megszüntetése érdekében – a jogellenes cselekményekben érintett légijárművekre vonatkozó védelmi intézkedéseket és eljárásokat, azok alapján javaslatot tesz a szükséges intézkedések bevezetésére,
 
 e) végzi a légiközlekedés védelme szempontjából érintett személyek és munkavállalók nemzetbiztonsági szempontú védelmi háttérellenőrzését,
 
-f) ellátja a veszélyeztetett légijárművek operatív biztosítását,
+f) ellátja a veszélyeztetett légijárművek hatáskörébe tartozó műveleti biztosítását,
 
-g) a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programmal összhangban – a rendőrséggel együttműködve – végrehajtja és értékeli a légiközlekedés védelmében érintett szervezetek védelmi rendszereinek védelmi tesztelését, az értékelés eredményét megküldi a repülőtér üzemben tartója és a légiközlekedési hatóság részére,
+g) a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programmal összhangban – az általános rendőrségi feladatok ellátására létrehozott szervvel és a légiközlekedési hatósággal együttműködve – végrehajtja és értékeli a légiközlekedés védelmében érintett szervezetek védelmi rendszereinek rejtett védelmi tesztelését, és hatáskörén belül megteszi a szükséges intézkedéseket, az értékelés eredményét az ellenőrzött szervezet részére, a tesztelés minőségbiztosítási dokumentációját a légiközlekedési hatóság részére megküldi,
 
-h) ellenőrzi a repülőtéri állandó és ideiglenes belépőkártyák kiadása során a személyek részére a hatóságok által engedélyezett zónajogosultságok megtartását (beleértve a hatóságok kockázatelemzése alapján bevezetett korlátozást).
+h) részt vesz a repülőtéri belépőkártyák, szigorított védelmi területre járművek behajtási engedélye véleményezésében, kockázatelemzése alapján kezdeményezi azok visszavonását vagy korlátozását,
+
+i) ellenőrzi a repülőtéri állandó és ideiglenes belépőkártyák kiadása során a személyek részére a hatóságok által engedélyezett zónajogosultságok megtartását.
+
+[^25]: A 15. § a 240/2011. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.

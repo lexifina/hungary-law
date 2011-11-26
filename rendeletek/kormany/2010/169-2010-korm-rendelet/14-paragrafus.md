@@ -1,43 +1,35 @@
-## 14. § A rendőrség
+## 14. §[^23] Az általános rendőrségi feladatok ellátására létrehozott szerv
 
-a) irányítja a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását a Magyar Köztársaság területén,
+1. irányítja a terrorcselekmény, valamint a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekmények kivételével a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
 
-b) gondoskodik a kockázatelemzés alapján veszélyeztetett légijárműnek (a továbbiakban: veszélyeztetett légijármű) minősített légijármű rendőri biztosításáról,
+2. gondoskodik a kockázatelemzés alapján az 1. § (1) bekezdés b) és c) pontjában megjelölt hatóság által veszélyeztetett légijárműnek minősített légijármű (a továbbiakban: veszélyeztetett légijármű) rendőri biztosításáról a repülőtér területén,
 
-c) elvégzi a potenciálisan rendzavaró utasok szállításának kockázati elemzését, és az ilyen utasok szállításáról tájékoztatja a légitársaságot,
+3. elvégzi a potenciálisan rendzavaró utasok szállításának kockázati elemzését, és az ilyen utasok szállításáról tájékoztatja a légitársaságot,
 
-d) kockázatelemzés alapján vagy a légitársaság kérésére térítés ellenében biztosítja a megtagadott belépés miatt visszafordított személyek kíséretét,
+4. elvégzi a megtagadott belépés miatt visszafordított személyek kockázatelemzését és a szállítást végző légitársaság részére kiszámlázott, ténylegesen felmerülő költségek térítése ellenében biztosítja azok kíséretét,
 
-e) gondoskodik a kísérővel utaztatott személyek részére kíséret biztosításának a megszervezéséről,
+5. gondoskodik a kísérővel utaztatott személyek részére kíséret biztosításának a megszervezéséről,
 
-f) a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programmal összhangban – az NBH-val együttműködve – végrehajtja és értékeli a légiközlekedés védelmében érintett szervezetek védelmi rendszereinek védelmi tesztelését, az értékelés eredményét megküldi az üzemben tartó és a légiközlekedési hatóság részére,
+6. a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programmal összhangban – az AH-val és a légiközlekedési hatósággal együttműködve – végrehajtja és értékeli a légiközlekedés védelmében érintett szervezetek védelmi rendszereinek rejtett légiközlekedés védelmi tesztelését; az értékelés eredményét az ellenőrzött szervezet részére, a tesztelés minőségbiztosítási dokumentációját a légiközlekedési hatóság részére megküldi,
 
-g) végzi a veszélyeztetett légijármű repülés előtti védelmi ellenőrzését, a légiközlekedés védelme tekintetében tiltott tárgyak felkutatását és szükség esetén annak hatástalanítását,
+7. végzi a veszélyeztetett légijármű repülés előtti védelmi ellenőrzését, a légiközlekedés védelme tekintetében tiltott tárgyak felkutatását és szükség esetén annak hatástalanítását,
 
-h) végzi a nem azonosított, elhagyott poggyász, csomag észlelése esetén a biztonsági ellenőrzés befejezéséig az utasok, a földi személyzet és a kívülálló személyek távoltartását a nem azonosított, elhagyott poggyász, csomag helyétől, a lemaradt és az elirányított poggyászok raktározás előtti, dokumentált biztonsági ellenőrzését,
+8. végzi a nem azonosított, elhagyott poggyász, csomag észlelése esetén a biztonsági ellenőrzés befejezéséig az utasok, és az utastól különböző személyek távoltartását a nem azonosított, elhagyott poggyász, csomag helyétől,
 
-i) végzi a nemzetközi kereskedelmi repülőterek nyilvános és korlátozott belépésű területeinek rendőri biztosítását,
+9. végzi a kereskedelmi repülőterek nyilvános és korlátozott belépésű területeinek rendőri biztosítását,
 
-j) elrendeli a légiközlekedés védelme érdekében a repülőtéren és a repülőtér közvetlen körzetében a szükséges korlátozások bevezetését, kivéve az uniós jogi aktusokban szereplő intézkedésektől szigorúbb intézkedéseket,
+10. elrendeli a légiközlekedés védelme érdekében a repülőtéren és a repülőtér közvetlen körzetében a szükséges korlátozások bevezetését, kivéve az európai uniós jogi aktusokban szereplő intézkedésektől szigorúbb intézkedéseket,
 
-k) ellenőrzi veszélyeztetett időszakban a légiközlekedés védelme érdekében a repülőtér közvetlen körzetében lévő nyilvános területeket,
+11. ellenőrzi – veszélyeztetett időszakban fokozottan – a légiközlekedés védelme érdekében a repülőtér közvetlen körzetében lévő nyilvános területeket,
 
-l) végzi a védelmi ellenőrzés szakmai felügyeletét és fegyveres biztosítását, valamint a védelmi ellenőrzést végző személyek és ezek közvetlen felügyeletét ellátó személyek vizsgáztatását,
+12. végzi az utasok, kézipoggyászaik, feladott poggyászaik és az utastól különböző személyek és azok személyes tárgyainak légiközlekedés védelmi ellenőrzésének, továbbá az áruk, postai küldemények, fedélzeti ellátmány, repülőtéri készlet légiközlekedés védelmi ellenőrzésének szakmai felügyeletét, valamint az utasok és kézipoggyászaik légiközlekedés védelmi ellenőrzésének fegyveres biztosítását,
 
-m) ellenőrzi a légiközlekedés védelme érdekében ellenőrzés alá vonható munkavállalók köréről szóló miniszteri rendeletben meghatározott személyeket,
+13. a nyilvános repülőtéren és közvetlen környezetében gyűjti és elemzi a bűncselekmények elkövetésének megelőzése, felderítése, megakadályozása és megszakítása érdekében felhasználható információkat,
 
-n) részt vesz a légiközlekedés védelmi személyzetnek a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott védelmi oktatásában,
+14. ellenőrzi a légiközlekedés védelme érdekében ellenőrzés alá vonható munkavállalók köréről szóló miniszteri rendeletben meghatározott személyeket,
 
-o) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságairól az ezzel összefüggő információkról soron kívül tájékoztatja
+15. ellenőrzi a személyek részére a hatóságok által engedélyezett, a repülőtéri állandó és ideiglenes belépőkártyákban rögzített zónajogosultságok betartását (beleértve a hatóságok kockázatelemzése alapján bevezetett korlátozást), a személyes adatok védelmére vonatkozó törvényi előírások érvényesülését, a repülőtéri belépőkártyák nyilvántartására, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló adatbázisokból való adatszolgáltatások, lekérdezések jogszerűségét,
 
-oa) a légiközlekedési hatóságot,
+16. részt vesz a légiközlekedés védelmi személyzetnek a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott védelmi oktatásában.
 
-ob) az NBH-t és
-
-oc) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
-
-p) ellenőrzi a személyek részére a hatóságok által engedélyezett, a repülőtéri állandó és ideiglenes belépőkártyákban rögzített zónajogosultságok betartását (beleértve a hatóságok kockázatelemzése alapján bevezetett korlátozást), a személyes adatok védelmére vonatkozó törvényi előírások érvényesülését, a repülőtéri belépőkártyák nyilvántartására, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló adatbázisokból való adatszolgáltatások, lekérdezések jogszerűségét,
-
-q) a személy és áruforgalmat bonyolító repülőtéren és közvetlen környezetében gyűjti és elemzi a bűncselekmények elkövetésének megelőzése, felderítése, megakadályozása és megszakítása érdekében felhasználható információkat,
-
-r) szükség esetén intézkedik a tiltott tárgyat tartalmazó feladott poggyászok tulajdonos távollétében történő felnyitására és a poggyász átvizsgálására.
+[^23]: A 14. § a 240/2011. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
