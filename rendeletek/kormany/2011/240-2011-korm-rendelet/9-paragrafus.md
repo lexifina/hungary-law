@@ -1,0 +1,1 @@
+## „t) a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatkozó fenyegetettségről szóló értesítés vétele után haladéktalanul megteszi a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvénnyel kihirdetett 17. számú Függelék 5.2.5. pontjában megjelölt tájékoztatásokat.”

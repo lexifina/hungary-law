@@ -1,0 +1,3 @@
+## 24. § Az R. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A légijármű vezetője, amennyiben az 1254/2009/EU rendeletben meghatározott repülőtérről (a továbbiakban: kis repülőtér) kezdte meg a repülést, köteles a fogadó repülőteret még az elindulást megelőzően erről tájékoztatni, amennyiben a fogadó repülőtér nem az e rendeletben meghatározott kis repülőtér. A fogadó repülőtér a repülőtér rendjében és védelmi programjában szabályozza a kis repülőtérről érkező légijárművek, azon lévő személyek és csomagjaik kezelését. A jelentés elmulasztása esetén a légiközlekedési hatóság eljárást indít.”
