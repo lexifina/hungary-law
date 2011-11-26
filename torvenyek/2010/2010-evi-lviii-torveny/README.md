@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-58-00-00
 | 2011-07-01 | 2011. évi LXVI. törvény | 2010-58-00-00.15 |
 | 2011-09-01 | 2011. évi XXX. törvény | 2010-58-00-00.16 |
 | 2011-11-04 | 2011. évi CXLI. törvény | 2010-58-00-00.17 |
+| 2011-11-26 | 2011. évi CLIV. törvény | 2010-58-00-00.18 |
