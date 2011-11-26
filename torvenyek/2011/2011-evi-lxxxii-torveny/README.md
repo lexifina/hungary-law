@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-82-00-00
 | 2011-09-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-82-00-00.3 |
 | 2011-09-03 | 2010. évi CXXX. törvény | 2011-82-00-00.4 |
 | 2011-11-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-82-00-00.5 |
+| 2011-11-26 | 2010. évi CXXX. törvény | 2011-82-00-00.6 |
