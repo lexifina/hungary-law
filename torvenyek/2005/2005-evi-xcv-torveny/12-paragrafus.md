@@ -7,3 +7,5 @@
 (3) A gyógyszertár – ha törvény másként nem rendelkezik – gyógyszert csak olyan gazdálkodó szervezettől szerezhet be, amely rendelkezik gyógyszer-nagykereskedelmi tevékenységre jogosító hatósági engedéllyel.
 
 (4) Amennyiben a gyógyszertár a készletéből az igényelt gyógyszert azonnal kiadni nem tudja, tájékoztatni köteles a beteget a gyógyszer beszerzésének várható időpontjáról.
+
+(5) Intézeti gyógyszertár a 16. § (2) bekezdésben foglalt esetben a gyógyszerhiánnyal érintett gyógyszert másik intézeti gyógyszertártól is beszerezheti.

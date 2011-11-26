@@ -32,7 +32,7 @@ e) a gyógyszernek nem minősülő gyógyhatású anyag vagy termék gyógyszerr
 
 f) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének részletes szabályait,
 
-g) az orvosi gyógyszerrendelés, valamint a sürgős szükség esetén indokolt indikáción túli gyógyszerrendelés szabályait
+g) az orvosi, a sürgős szükség esetén indokolt indikáción túli, valamint a gyógyszerhiány esetén történő gyógyszerrendelés szabályait,
 
 h) az intézeti gyógyszerellátás szabályait,
 
@@ -55,6 +55,12 @@ p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás r
 q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait,
 
 r) a gyógykezelt személy által a határátlépés során a gyógykezeléshez szükséges, kábítószerként vagy pszichotróp anyagként minősített gyógyszerekről kiállítandó kezelőorvosi igazolás nemzetközi előírásoknak megfelelő tartalmi és formai követelményeit,
+
+s) a 16. § (5) bekezdése szerinti, a folyamatos ellátás biztosításához szükséges készletek mennyiségét, és hatóanyagok körét,
+
+t) a farmakovigilanciával kapcsolatos szabályokat,
+
+u) a gyógyszerhiány kezelése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
 
 rendeletben szabályozza.
 

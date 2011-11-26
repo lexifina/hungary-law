@@ -2,7 +2,7 @@
 
 25. § (1) Gyógyszert rendelni az egészségügyről szóló 1997. évi CLIV. törvény 129. §-ában foglaltakra figyelemmel – az e törvényben és az annak végrehajtására megalkotott rendeletben foglalt kivétellel – csak a forgalomba hozatali engedélyében jóváhagyott alkalmazási előírásban szereplő – a Vényminták Gyűjteményében szereplő készítmény esetén az ott közölt – javallatban lehet. Gyógyszer rendelésére jogosult minden orvos és fogorvos (a továbbiakban együtt: orvos), aki az orvosi oklevélhez kötött tevékenység folytatására jogosult, és a külön jogszabályban meghatározott, gyógyszerrendelésre jogosító bélyegzővel rendelkezik.
 
-(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették.
+(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha felhasználását különös méltánylást érdemlő betegellátási érdek vagy a Gyftv. 21. § (4) bekezdésében foglalt gyógyszerhiány indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették.
 
 (3) Az orvosi gyógyszerrendelés részletes szabályait külön jogszabály állapítja meg.
 
@@ -21,6 +21,14 @@ a) az adott beteg kezelése más forgalomban lévő gyógyszer alkalmazási elő
 b) az adott gyógyszer Magyarországon vagy más országban forgalomba hozatalra engedéllyel rendelkezik, és
 
 c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte.
+
+(6a) Gyógyszert a (6) bekezdésben foglaltakon túl akkor is lehet indikáción túli gyógyszerrendelés keretében rendelni, illetve alkalmazni, ha
+
+a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet,
+
+b) jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, és
+
+c) a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
