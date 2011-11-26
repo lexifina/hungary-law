@@ -1,0 +1,5 @@
+## 9. Az alapértelmezett árplafon módosításának esetei
+
+14. § (1) Amennyiben valamely évben a tényleges bevételek elmaradnak az e rendelet szerint megengedett szinttől, a repülőtér üzemben tartója a különbséget az adott ötéves díjszabási időszakon belül átviheti a következő évekre, de nem viheti át a következő ötéves díjszabási időszakra. Az ilyen bevételkiesések az egyes évek közötti átvitel során nominális értéken számítandók, így a repülőtér üzemben tartója kamatbevétel-kiesés beszámításával nem élhet.
+
+(2) Amennyiben a tényleges bevételek – az esetleges bevételkiesések átvitelének elszámolása után – meghaladják az e rendelet szerint megengedett értéket, a különbséget a következő évben egyösszegű kifizetésként vissza kell juttatni a légitársaságoknak aszerint felosztva, hogy az adott légitársaság a szabályozott összbevétel mekkora százalékát fizette ki a többletfizetés évében. Az ilyen többletbevételek után kamat nem számítható, és a repülőtér üzemben tartója a következő évben nominális értéken köteles a légitársaságok számára a visszafizetést egy összegben teljesíteni.

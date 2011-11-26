@@ -1,0 +1,9 @@
+# 61/2011. (XI. 25.) NFM rendelet
+
+a kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-61-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-11-26 | 2011-61-20-2W.1 | 61/2011. (XI. 25.) NFM rendelet |
