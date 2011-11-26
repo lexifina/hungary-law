@@ -1,5 +1,3 @@
-## 6. § Az R. 16. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 1–6. §[^2]
 
-## [(1) A kötelezettség átvevője nem lehet olyan állattartó, aki]
-
-## „b) az adott fajtára vonatkozó célprogramban résztvevő aktuális állatállományát teljes egészében vagy részben korábban már átadóként más ügyfélre átruházta, vagy”
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
