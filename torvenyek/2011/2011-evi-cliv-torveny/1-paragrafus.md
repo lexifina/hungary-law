@@ -1,0 +1,9 @@
+## 1. Értelmező rendelkezések
+
+1. § E törvény alkalmazásában
+
+1. intézmény: az átvett önkormányzati feladat ellátását végző vagy a feladat ellátásában közreműködő intézmény szervezeti formájától függetlenül, különösen ideértve a megyei önkormányzat fenntartásában lévő költségvetési szervet – kivéve a megyei közgyűlés hivatalát –, a megyei önkormányzat által fenntartásra átvett költségvetési szervet, a megyei önkormányzat által alapított közalapítványt, alapítványt (ideértve a megyei önkormányzat által más alapítóval közösen alapított alapítványt, közalapítványt is), és azokat a gazdasági társaságokat, és egyéb gazdálkodó szervezeteket, amelyek részben vagy egészben a megyei önkormányzat tulajdonában állnak (a tulajdoni hányad erejéig), valamint a Fővárosi Önkormányzat fenntartásában lévő egészségügyi intézmények, valamint a Fővárosi Önkormányzat által létrehozott és fenntartott, egészségügyi feladatokat ellátó alapítványok, közalapítványok, gazdasági társaságok, amelyek részben vagy egészben a Fővárosi Önkormányzat tulajdonában állnak (a tulajdoni hányad erejéig).
+
+2. funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló, – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladat, különösen a humánpolitikai és humánerőforrás-gazdálkodási, költségvetési gazdálkodási, pénzügyi, jogi (peres képviseleti), nemzetközi kapcsolatok lebonyolítására szolgáló, ellenőrzési, koordinációs, saját szervi működtetését szolgáló informatikai és informatikai rendszerfenntartási, kommunikációs feladatok, valamint a személyi, tárgyi, műszaki, pénzügyi feltételek biztosítását szolgáló műveletek.
+
+3. átvett vagyon: a megyei önkormányzat vagyona, valamint a Fővárosi Önkormányzat egészségügyi intézményekhez kapcsolódó vagyona, ideértve a tulajdonában álló valamennyi ingó és ingatlan vagyont, valamint vagyoni értékű jogot.

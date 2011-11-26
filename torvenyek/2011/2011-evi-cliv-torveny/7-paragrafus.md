@@ -1,0 +1,61 @@
+## 5. Az egészségügyi szolgáltatók átadásának speciális szabályai
+
+7. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát.
+
+(2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. március 31-éig 2012. május 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – meghatározza az e törvény hatálybalépésekor érvényes finanszírozási szerződéssel rendelkező, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók
+
+a) fekvőbeteg-szakellátási kapacitásait az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 4/A. § (3) bekezdésében,
+
+b) az a) pont szerinti kapacitásokhoz kapcsolódó ellátási területet a (3) bekezdésben
+
+foglalt szempontok alapján, azzal, hogy a döntés nem érintheti hátrányosan az uniós és a hazai pályázatokkal összefüggésben vállalt beruházási és fenntartási kötelezettségeket, valamint az ezekhez kapcsolódó, előzetesen befogadott többletkapacitásokat.
+
+(3) Az ellátási területeket az érintett egészségügyi szolgáltatók számára a (2) bekezdés szerinti eljárás során – az Eftv. 5/A. § (2) és (10) bekezdésében foglaltak figyelembevételével –
+
+a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
+
+b) a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
+
+c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
+
+d) hézagmentesen,
+
+e) a rehabilitációs szakellátások, valamint az egyes egészségügyi szolgáltatók által szakmai specialitások alapján több térségre kiterjedően nyújtott, országosan kiemelt ellátások kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
+
+f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
+
+g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és
+
+h) az aktív fekvőbeteg-szakellátások tekintetében a magasabb progresszivitási szintű ellátást nyújtó szolgáltatók esetén a progresszivitási szintekre jutó kapacitások arányainak és az egyes progresszivitási szinteken végzett beavatkozások tárgyévet megelőző év betegforgalom szerinti arányainak figyelembevételével kell meghatározni.
+
+(4) Amennyiben az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartás nem tartalmazza valamely finanszírozási szerződéssel rendelkező egészségügyi szolgáltató járóbeteg-szakellátási kapacitásaira, illetve az ahhoz kapcsolódó ellátási területekre vonatkozóan a törvény által előírt adatokat, az egészségügyi államigazgatási szerv 2012. március 31-éig köteles azt a rendelkezésre álló adatok alapján pótolni. Ha valamely adat azért hiányzik a nyilvántartásból, mert az érintett egészségügyi szolgáltató járóbeteg-szakellátási kapacitásai, illetve az azokhoz kapcsolódó ellátási területek nem kerültek megállapításra, az egészségügyi államigazgatási szerv – az Eftv. 5/A. § (2)–(6), (9) és (10) bekezdésében foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – 2012. március 31-éig hivatalból megállapítja a kapacitást, illetve az ellátási területet, és a megállapított adatokat átvezeti a nyilvántartáson.
+
+(5) A (2)–(4) bekezdés alapján a kapacitást és az ellátási területet megállapító határozatok ellen fellebbezésnek nincs helye, azok hatálybalépésével egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik. Az egészségügyi szolgáltatók kapacitásainak és ellátási területeinek az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartását a határozatok hatálybalépésével egyidejűleg módosítani kell.
+
+(6) A (2)–(5) bekezdésben meghatározott feladatok ellátásához szükséges adatokat az egészségügyi államigazgatási szerv megkeresésére az egészségbiztosító a megkeresésétől számított 5 napon belül az egészségügyi államigazgatási szerv rendelkezésére bocsátja.
+
+(7) Az Eftv.-nek a (2) bekezdés szerinti eljárások során történő alkalmazásakor régió alatt az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térséget kell érteni.
+
+(8) Az átadás-átvételi megállapodásban részletesen rögzíteni kell az intézmények, illetve az egészségügyi intézmények teljes körét, a feladatok és a vagyon átadásának tárgyi, dologi, pénzügyi feltételeit, valamint rendelkezni kell a megállapodás aláírását követően az átadásig keletkező jogokról és kötelezettségekről. Az átvételre kerülő egészségügyi intézményeket az 1. melléklet tartalmazza.
+
+(9) Az átadás-átvétel során különösen meg kell állapodni:
+
+a) együttműködési kötelezettségről a felek között az átadás-átvétel során, valamint a jövőbeni megyei egészségügyi ellátáshoz kapcsolódó koncepcionális kérdésekről,
+
+b) az egészségügyi szolgáltatók, valamint az egészségügyi szolgáltatók működéséhez kapcsolódó vagy azt elősegítő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaságok jogszerű működését biztosító alapító, létesítő okiratok, szabályzatok eredeti, illetőleg hitelesített példányainak átadásáról (a működésre, gazdálkodásra vonatkozó szabályzatok, illetve azok módosításai),
+
+c) az egészségügyi szolgáltatók vezetőire és egyéb alkalmazottaira vonatkozó foglalkoztatási adatokról, (foglalkoztatottak létszáma foglalkoztatási jogviszony szerinti bontásban),
+
+d) a megyei önkormányzat által tett, illetőleg az általa fenntartott egészségügyi szolgáltatóra háruló, az átadás-átvétel napján hatályos, illetve ezt követően hatályba lépő kötelezettségvállalásokról (különös tekintettel közbeszerzésekre, döntési moratórium alatt érkezett és még döntés előtt álló közbeszerzési mentességi kérelmekre, beruházásokra, intézményi épület-beruházásokra, felújításokra, a hosszú távú kötelezettségvállalásokra) és egyéb kötelezettséget alapító intézkedésekről (beleértve a pályázatokat, ígérvényeket, szándéknyilatkozatokat) szóló tételes és a szükséges magyarázatokkal ellátott kimutatásról,
+
+e) az átadásra kerülő egészségügyi szolgáltatókkal kapcsolatos tervezési feladatkörbe tartozó európai uniós társfinanszírozású projektek helyzetéről,
+
+f) az átadás-átvétel napján hatályos, illetve később hatályba lépő, harmadik személlyel szemben fennálló, adott esetben nem jogszabályi rendelkezésen alapuló, de érvényesíthető bármilyen jogosultságról, igényről, a vitatott, adott esetben per vagy más vitarendezési eljárás tárgyává tett kérdésről, az azzal kapcsolatos álláspontjáról és annak indokairól, külön kiemelve az európai uniós programokkal kapcsolatos vitás kérdéseket,
+
+g) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, illetve az 1990 után egészségügyi ellátás céljára használt olyan ingatlanokra, amelyek egészségügyi funkciója megváltozott és egyéb közcélra sem került hasznosításra, ingó vagyon és egyéb vagyonelemek összesített bemutatása), vagyoni értékű jogról,
+
+h) az egészségügyi szolgáltatók költségvetési helyzetéről, tárgyévi költségvetés végrehajtásáról és előző évi beszámolóról (kötelezettségvállalás-teljesítés, pénzeszköz állomány, pénzmaradvány-felhasználásokról, beruházások és felújítások, vagyoni helyzete: saját tulajdonban álló, illetve egyéb jogcímen működtetett eszköz- és ingatlanvagyon, vagy más vagyonelem bemutatása, ezzel kapcsolatos nyilvántartások),
+
+i) minden olyan körülményről, veszélyről, illetve lehetőség számbavételéről, amely az adott egészségügyi szolgáltató működését érdemben befolyásolhatja, valamint az eredményes feladatellátáshoz szükséges további tényekről, körülményekről,
+
+j) a fenntartó önkormányzat által – az egészségügyi intézményeknél saját bevételként képződött – elvont és az önkormányzathoz benyújtott igénylési kérelmet követően vissza nem utalt saját bevételrészről havi bontásban.

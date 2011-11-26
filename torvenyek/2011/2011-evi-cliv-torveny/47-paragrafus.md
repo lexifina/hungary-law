@@ -1,0 +1,5 @@
+## „18. § (1) A megyei levéltár területi általános levéltárként az arra kijelölt államigazgatási szerv közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a megye közigazgatási területén működő helyi és nemzetiségi önkormányzatok testületeinek, hivatalainak és intézményeinek, ezek jogelődeinek levéltári anyaga, továbbá a megye közigazgatási területén keletkezett minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
+
+## (2) A fővárosi önkormányzat levéltára területi általános levéltárként a főváros önkormányzatának közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a fenntartó önkormányzat, valamint az illetékességi területén székhellyel rendelkező nemzetiségi önkormányzat testületének, hivatalainak és intézményeinek, ezek jogelődeinek levéltári anyaga, továbbá a főváros közigazgatási területén keletkezett minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.”
+
+47. § Az Ltv. 20. § (3) bekezdése helyébe a következő rendelkezés lép:

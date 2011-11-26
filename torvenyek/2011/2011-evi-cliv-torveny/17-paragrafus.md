@@ -1,0 +1,3 @@
+17. § (1) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben a védelmi titkársági feladatok ellátásához kapcsolódó jogviszonyok tekintetében a jogutódlás egyes kérdéseit a megyei önkormányzat és a megyei kormányhivatal közötti megállapodás rögzíti, melyet az érintettek legkésőbb 2012. január 31-ig megkötnek.
+
+(2) Az (1) bekezdésben meghatározott megállapodás megkötésekor az átvett feladathoz kapcsolódó jogviszonyok alatt minden jog és kötelezettség, valamint az átvett feladathoz tartozó létszám, és ahhoz tartozó eszköz- és infrastruktúra-állomány is értendő.
