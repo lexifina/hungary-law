@@ -40,47 +40,49 @@ e) szükség esetén információs igényt fogalmaz meg a b) pontban felsorolt s
 
 f) összehangolja a b) pontban felsorolt szervek felderítő és műveleti, valamint hatósági intézkedéseit, továbbá a műveleti helyzetnek megfelelően javaslatot tesz a szükséges intézkedésekre.
 
-8. A Munkacsoport tagjai:
+8.[^1] A Munkacsoport tagjai:
 
 a) a belügyminiszter,
 
-b) az Alkotmányvédelmi Hivatal főigazgatója,
+b) a honvédelmi miniszter,
 
-c) a Nemzetbiztonsági Szakszolgálat főigazgatója,
+c) az Alkotmányvédelmi Hivatal főigazgatója,
 
-d) a Katonai Biztonsági Hivatal főigazgatója,
+d) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
-e) a Katonai Felderítő Hivatal főigazgatója,
+e) a Katonai Biztonsági Hivatal főigazgatója,
 
-f) az Információs Hivatal főigazgatója,
+f) a Katonai Felderítő Hivatal főigazgatója,
 
-g) a Terrorelhárítási Központ főigazgatója,
+g) az Információs Hivatal főigazgatója,
 
-h) a Szervezett Bűnözés Elleni Koordinációs Központ főigazgatója,
+h) a Terrorelhárítási Központ főigazgatója,
 
-i) az országos rendőr-főkapitány,
+i) a Szervezett Bűnözés Elleni Koordinációs Központ főigazgatója,
 
-j) a Nemzeti Védelmi Szolgálat főigazgatója,
+j) az országos rendőr-főkapitány,
 
-k) a Nemzeti Adó- és Vámhivatal elnöke,
+k) a Nemzeti Védelmi Szolgálat főigazgatója,
 
-l) a Bevándorlási és Állampolgársági Hivatal főigazgatója,
+l) a Nemzeti Adó- és Vámhivatal elnöke,
 
-m) a Honvéd Vezérkar főnöke,
+m) a Bevándorlási és Állampolgársági Hivatal főigazgatója,
 
-n) a Közigazgatási és Igazságügyi Minisztérium igazságügyi államtitkára.
+n) a Honvéd Vezérkar főnöke,
 
-9. A Munkacsoport vezetője a belügyminiszter. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetője az ülésre tanácskozási joggal más személyeket is meghívhat.
+o) a Közigazgatási és Igazságügyi Minisztérium igazságügyi államtitkára.
 
-10. A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetője hívja össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport vezetőjénél, aki dönt az összehívás kérdésében.
+9.[^2] A Munkacsoportot a belügyminiszter és a honvédelmi miniszter együttesen, azonos jogkörrel vezeti. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetői az ülésre tanácskozási joggal más személyeket is meghívhatnak.
 
-11. A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport vezetőjénél, vagy az irányító/felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
+10.[^3] A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetői hívják össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport bármely vezetőjénél, akik együttesen döntenek az összehívás kérdésében.
+
+11.[^4] A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport bármely vezetőjénél, vagy a 8. pontban meghatározott szervet irányító vagy felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
 
 12. A Munkacsoport a Kabinetet rendszeresen, de legalább félévente a rendes üléseket megelőzően, illetve szükség szerint soron kívül tájékoztatja tevékenységéről.
 
 13. A Kabinet és a Munkacsoport üléseiről emlékeztető készül.
 
-14. A Kabinet és a Munkacsoport titkársági feladatait a Munkacsoport vezetője által vezetett minisztérium látja el.
+14.[^5] A Kabinet és a Munkacsoport titkársági feladatait a Belügyminisztérium látja el.
 
 15. A Kabinet és a Munkacsoport működésének részletes szabályait a Kabinet elnöke által megállapított ügyrend határozza meg.
 
@@ -91,3 +93,9 @@ n) a Közigazgatási és Igazságügyi Minisztérium igazságügyi államtitkár
 „57/B. Ha a nemzetbiztonság, a közbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő előterjesztést a Nemzetbiztonsági Kabinet megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére.”
 
 18. Hatályát veszti a Kormány kabinetjeiről szóló 1047/2009. (IV. 13.) Korm. határozat.
+
+[^1]: A 8. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 10. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 11. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 14. pont az 1404/2011. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
