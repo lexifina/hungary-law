@@ -6,4 +6,4 @@
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
-(5) 2011. december 5-étől a bíróság és a felek közötti írásbeli közlésekre a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglaltakat kell alkalmazni. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
+(5) 2012. június 30-ától a bíróság és a felek közötti írásbeli közlésekre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell alkalmazni. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
