@@ -16,7 +16,7 @@ g) a befektetési egységhez kötött életbiztosítások esetén az ügyfelekne
 
 h) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat,
 
-i)
+i) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait,
 
 j) a nagykockázatok és a nagykárok határértékeit,
 

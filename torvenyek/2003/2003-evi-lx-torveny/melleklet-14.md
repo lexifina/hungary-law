@@ -9,3 +9,5 @@ a kezelt portfólión elért teljesítmény, illetve hozam számításának, bem
 2. A portfólióértékelések forrásait és módszereit a befektető számára hozzáférhetővé kell tenni.
 
 3. A portfóliókat legalább havonta értékelni kell.
+
+4. A portfólió értékelését piaci értéken kell elvégezni.
